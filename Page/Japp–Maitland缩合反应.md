@@ -1,0 +1,32 @@
+**Japp–Maitland缩合反应**（Japp–Maitland condensation），由 Francis Robert Japp
+和 William Maitland 在1904年首先报道。\[1\]
+
+一种[羟醛加成](../Page/羟醛加成.md "wikilink")-[缩合](../Page/缩合反应.md "wikilink")[串联反应](../Page/串联反应.md "wikilink")。
+
+例如，以[2-戊酮和](../Page/2-戊酮.md "wikilink")[苯甲醛为原料在碱催化下进行反应时](../Page/苯甲醛.md "wikilink")，首先生成双羟醛加成物，然后该加成物的两个[羟基发生缩合](../Page/羟基.md "wikilink")，环化为对氧代[四氢吡喃衍生物](../Page/四氢吡喃.md "wikilink")。
+
+
+:[Japp-Maitland缩合](https://zh.wikipedia.org/wiki/File:Maitland-Japp.svg "fig:Japp-Maitland缩合")
+此反应被用于天然产物 centrolobine 的合成：\[2\]
+
+（第一步为[向山羟醛反应](../Page/向山羟醛反应.md "wikilink")，第二步成环。催化剂为[三氟化硼](../Page/三氟化硼.md "wikilink")，TMS
+= [三甲硅基](../Page/三甲硅基.md "wikilink")，TBS =
+[叔丁基二甲基硅基](../Page/叔丁基二甲基硅基.md "wikilink")）
+
+
+:[Japp-Maitland缩合
+应用](https://zh.wikipedia.org/wiki/File:Maitland-Japp_application.svg "fig:Japp-Maitland缩合 应用")
+
+## 参见
+
+  - [化学反应列表](../Page/化学反应列表.md "wikilink")
+
+## 参考资料
+
+[Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink")
+[Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
+[Category:环化反应](https://zh.wikipedia.org/wiki/Category:环化反应 "wikilink")
+[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+
+1.
+2.

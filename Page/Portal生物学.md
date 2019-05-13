@@ -1,0 +1,35 @@
+__NOTOC__
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>{{/headbox-header|生物学首页|Portal:生物学/欢迎}} {{/欢迎}} {{/headbox-footer|<a href="../Page/生物学.md" title="wikilink">進一步了解生命科学……</a>}}</p>
+<div  bgcolor="#F4fefa" style="width:50%;display:block;float:left" align="left">
+<p>{{/bodybox-header|协作计划|Portal:生物学/协作计划|}} {{/协作计划}} {{/bodybox-footer|<a href="https://zh.wikipedia.org/wiki/Wikipedia:條目質量提升計畫/生物學提升計畫" title="wikilink">生物學提升計畫……</a>}}</p>
+<p>{{/bodybox-header|文章请求|Portal:生物学/条目请求|}}  <a href="../Page/Portal:生物学/条目请求.md" title="wikilink">更多文章請求</a> {{/bodybox-footer| }}</p>
+<p>{{/bodybox-header|新进条目|Portal:生物学/新进条目|}}</p>
+<div style="font-size:80%; padding:10px; overflow:scroll; width:full; height:130px;">
+<p>{{/新进条目}}</p>
+</div>
+<p>{{/bodybox-footer|}}</p>
+</div>
+<div  bgcolor="#F4fefa" style="width:50%;display:block;float:right;" >
+<p>{{/bodybox-header|你知道嗎？|Portal:生物学/你知道嗎|<a href="https://zh.wikipedia.org/wiki/File:02wiki-zn-frontpage-icon.png" title="fig:File:02wiki-zn-frontpage-icon.png"><a href="File:02wiki-zn-frontpage-icon.png">File:02wiki-zn-frontpage-icon.png</a></a> }} {{/你知道吗}} {{/bodybox-footer|<a href="https://zh.wikipedia.org/wiki/Help:如何創建新页面" title="wikilink">創建新條目</a> - <a href="../Page/Portal:生物学/新條目推薦.md" title="wikilink">更多……</a>}}</p>
+<p>{{/bodybox-header|關注焦點|Portal:生物学/關注焦點|<a href="https://zh.wikipedia.org/wiki/File:03wiki-zn-frontpage-icon.gif" title="fig:File:03wiki-zn-frontpage-icon.gif"><a href="File:03wiki-zn-frontpage-icon.gif">File:03wiki-zn-frontpage-icon.gif</a></a>}} {{/关注焦点}} {{/bodybox-footer| }}</p>
+<p>{{/box-header|维基专题|Portal:生物学/维基专题|}}  {{/box-footer|}}</p>
+</div>
+<div bgcolor="#F4fefa" style="width:100%;display:block;float:right;">
+<p>{{/footbox-header|生物学分类|Portal:生物学/分類}} {{/分類}} {{/footbox-footer| }}</p>
+<p>{{/box-header|相关主题|Portal:生物学/相关主题|}}  {{/box-footer|}}</p>
+<p>{{/box-header|<em>相关维基媒体</em>|Template:WikimediaForPortals|}}</p>
+<center>
+</center>
+<p>{{/box-footer|}}</p>
+<p>{{/footbox-header|其他主题首页|Template:Portals}}  {{/footbox-footer| }}</p>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:生物学](https://zh.wikipedia.org/wiki/Category:生物学 "wikilink")

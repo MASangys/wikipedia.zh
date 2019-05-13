@@ -1,0 +1,75 @@
+**GGZ Gaming
+Zone**是一个诞生于2000年的[自由软件](../Page/自由.md "wikilink")[网络游戏平台项目](../Page/网络游戏.md "wikilink")。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如聊天机器人等）。
+
+## 概括
+
+**GGZ**是[软件](../Page/软件.md "wikilink")[社区对依赖广告支持的在线游戏站点](../Page/社区.md "wikilink")（如[MSN
+Games](../Page/MSN_Games.md "wikilink")、Yahoo\! Games和Pogo.com）的回应。
+
+## 游戏
+
+GGZ列出了支持的38个游戏引擎，包括[国际象棋和](../Page/国际象棋.md "wikilink")[炸弹人](../Page/炸弹人.md "wikilink")，多数游戏引擎被归入以下分类（按数量顺序）：[KDE](../Page/KDE.md "wikilink")、[Gtk+](../Page/Gtk+.md "wikilink")、[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")、[Java](../Page/Java.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[Windows](../Page/Windows.md "wikilink")、[Console和](../Page/Console.md "wikilink")[Grubby](../Page/Grubby.md "wikilink")。
+
+部分列举在此：
+
+  - [象棋](../Page/象棋.md "wikilink")
+  - [中国跳棋](../Page/中国跳棋.md "wikilink")
+  - Combat
+  - ConnectX
+  - Connect the Dots
+  - Escape
+  - Geekgame
+  - GGZCards（包括LaPocha, Spades, Hearts, Bridge, FortyTwo, Suaro,
+    Suecac和Whist）
+  - Hastings
+  - Keepalive
+  - Krosswater
+  - LaPocha（已因GGZCards弃用）
+  - Muehle
+  - Reversi
+  - Spades（别名NetSpades）
+  - TicTacToe
+  - GGZBoard（包括Chess、Checkers、Reversi、Go、Hnefatafl和Ludo）
+
+最初就已实现GGZ支持的[独立游戏项目](../Page/独立游戏.md "wikilink")：
+
+  - Batalla Naval
+  - Kamikaze
+  - Tenes Empanadas Graciela
+  - Tuxman
+  - [Widelands](../Page/Widelands.md "wikilink")
+  - [Freeciv](../Page/Freeciv.md "wikilink")
+  - [Freelords](../Page/Freelords.md "wikilink")
+
+## 构架
+
+### 服务端
+
+*Grubby*是GGZ项目制作的聊天机器人，其主服务端名为*ggzd，*其应用工具为*ggzduedit*（权限检查工具）和*ggz-cmd*（服务器端管理工具）。
+
+### 客户端
+
+竞赛可以由任何人举办，玩家只要留心时间表即可报名。
+
+常见的进入游戏房间的办法是使用核心客户端。另外，用特殊名称*GGZap*登录也可以，并且可以使用[Pidgin](../Page/Pidgin.md "wikilink")。
+
+### Web构架
+
+GGZ拥有*排名页面*，可以显示玩家的[地理位置](../Page/地理.md "wikilink")，以及查看玩家玩过的游戏。
+
+## 类似项目
+
+  - [Arianne](../Page/Arianne.md "wikilink")
+  - [WorldForge](../Page/WorldForge.md "wikilink")
+
+2006年之后，很多[MSN
+Games的玩家转移到了](../Page/MSN_Games.md "wikilink")[GGZ](../Page/GGZ.md "wikilink")，使休闲游戏成为发展趋势。
+
+## 外部链接
+
+  - [主页](http://www.ggzgamingzone.org/)
+
+[Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink")
+[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
+[Category:開源電子遊戲](https://zh.wikipedia.org/wiki/Category:開源電子遊戲 "wikilink")
+[Category:2000年建立](https://zh.wikipedia.org/wiki/Category:2000年建立 "wikilink")

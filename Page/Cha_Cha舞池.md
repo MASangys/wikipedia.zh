@@ -1,0 +1,13 @@
+《**Cha
+Cha舞池**》是台灣[男子組合](../Page/男子組合.md "wikilink")[四大天王的首張專輯](../Page/四大天王_\(團體\).md "wikilink")，於1996年8月13日推出。
+
+## 曲目
+
+## 唱片版本
+
+  - CD版
+  - 錄音帶版
+
+[Category:四大天王音樂專輯](https://zh.wikipedia.org/wiki/Category:四大天王音樂專輯 "wikilink")
+[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

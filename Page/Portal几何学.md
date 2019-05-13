@@ -1,0 +1,41 @@
+__NOTOC__
+
+<div style="clear:both; width:100%">
+
+{{/box-header|<big></big>|/简介|}} {{/简介}} {{/box-footer|}}
+
+<div class="portal-column-left">
+
+{{/box-header|相关专题|/相关专题|}} {{/相关专题}} {{/box-footer|}}
+
+</div>
+
+<div class="portal-column-right">
+
+{{/box-header|欢迎参与|/Opentask|}} {{/Opentask}} {{/box-footer|}}
+
+{{/box-header|你知道吗?|/你知道吗|}} {{/你知道吗}}
+{{/box-footer|[存档](../Page/{{FULLPAGENAME}}/你知道吗/存档.md "wikilink") –
+[建立頁面](https://zh.wikipedia.org/wiki/Help:Starting_a_new_page "wikilink")}}
+
+{{/box-header|分类|/分类|}} {{/分类}} {{/box-footer|}}
+
+{{/box-header|相关主题|/相关主题|}} {{/相关主题}} {{/box-footer|}}
+
+</div>
+
+<div style="clear:both; width:100%">
+
+{{/box-header|基本议题|/议题|}} {{/议题}} {{/box-footer|}}
+
+</div>
+
+<div style="clear:both; width:100%">
+
+{{/box-header|维基媒体|/维基媒体|}} {{/维基媒体}} {{/box-footer|}}
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:在建的主题](https://zh.wikipedia.org/wiki/Category:在建的主题 "wikilink")

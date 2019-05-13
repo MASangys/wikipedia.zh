@@ -1,0 +1,105 @@
+**Apache Hadoop**是一款支持數據密集型[分佈式應用程序并以Apache](../Page/分佈式.md "wikilink")
+2.0許可協議發佈的[開源](../Page/開源.md "wikilink")[軟體框架](../Page/軟體框架.md "wikilink")。它支持在商品硬件構建的大型集群上運行的應用程序。Hadoop是根據[谷歌公司發表的](../Page/谷歌公司.md "wikilink")[MapReduce和](../Page/MapReduce.md "wikilink")[Google檔案系統的論文自行實作而成](../Page/Google檔案系統.md "wikilink")。所有的Hadoop模块都有一个基本假设，即硬件故障是常见情况，应该由框架自动处理。
+
+Hadoop框架透明地為應用提供可靠性和數據移動。它實現了名為MapReduce的[編程範式](../Page/編程範式.md "wikilink")：應用程序被分割成許多小部分，而每個部分都能在集群中的任意節點上執行或重新執行。此外，Hadoop還提供了分佈式文件系統，用以存儲所有計算節點的數據，這為整個集群帶來了非常高的帶寬。MapReduce和分佈式文件系統的設計，使得整個框架能夠自動處理節點故障。它使應用程序與成千上萬的獨立計算的電腦和PB級的數據连接起来。現在普遍認為整個Apache
+Hadoop“平台”包括Hadoop內核、MapReduce、Hadoop分佈式文件系統（HDFS）以及一些相關項目，有Apache
+Hive和Apache HBase等等。
+
+## 主要子项目
+
+[Cubieboard_HADOOP_cluster.JPG](https://zh.wikipedia.org/wiki/File:Cubieboard_HADOOP_cluster.JPG "fig:Cubieboard_HADOOP_cluster.JPG")用Cubieboard电脑。\]\]
+
+  - Hadoop
+    Common：在0.20及以前的版本中，包含HDFS、[MapReduce和其他项目公共内容](../Page/MapReduce.md "wikilink")，从0.21开始HDFS和MapReduce被分离为独立的子项目，其余内容为Hadoop
+    Common
+  - HDFS：Hadoop分佈式文件系統（Distributed File System）－HDFS（Hadoop Distributed
+    File System）
+  - MapReduce：并行计算框架，0.20前使用org.apache.hadoop.mapred旧接口，0.20版本开始引入org.apache.hadoop.mapreduce的新API
+
+## 相關项目
+
+  - [Apache
+    HBase](../Page/Apache_HBase.md "wikilink")：分布式[NoSQL列](../Page/NoSQL.md "wikilink")[数据库](../Page/数据库.md "wikilink")，类似[谷歌公司](../Page/谷歌.md "wikilink")[BigTable](../Page/BigTable.md "wikilink")。
+  - [Apache
+    Hive](../Page/Apache_Hive.md "wikilink")：构建于hadoop之上的[数据仓库](../Page/数据仓库.md "wikilink")，通过一种类[SQL语言HiveQL为用户提供数据的归纳](../Page/SQL.md "wikilink")、查询和分析等功能。Hive最初由[Facebook贡献](../Page/Facebook.md "wikilink")。
+  - [Apache
+    Mahout](../Page/Apache_Mahout.md "wikilink")：[机器学习算法软件包](../Page/机器学习.md "wikilink")。
+  - [Apache
+    Sqoop](../Page/Apache_Sqoop.md "wikilink")：[结构化数据](../Page/结构化数据.md "wikilink")（如[关系数据库](../Page/关系数据库.md "wikilink")）与Apache
+    Hadoop之间的数据转换工具。
+  - [Apache
+    ZooKeeper](../Page/Apache_ZooKeeper.md "wikilink")：分布式锁设施，提供类似[Google](../Page/Google.md "wikilink")
+    [Chubby的功能](../Page/Chubby.md "wikilink")，由[Facebook贡献](../Page/Facebook.md "wikilink")。
+  - [Apache
+    Avro](../Page/Apache_Avro.md "wikilink")：新的数据[序列化格式与传输工具](../Page/序列化.md "wikilink")，将逐步取代Hadoop原有的IPC机制。
+
+## 知名用戶
+
+### Hadoop在Yahoo\!的應用
+
+2008年2月19日，[雅虎使用](../Page/雅虎.md "wikilink")10,000個[微處理器核心的](../Page/微處理器.md "wikilink")[Linux](../Page/Linux.md "wikilink")[计算机集群運行一個Hadoop應用程式](../Page/计算机集群.md "wikilink")。\[1\]
+
+### 其他用戶
+
+其他知名用戶包括\[2\]：
+
+<div style="-moz-column-count:3; column-count:3;">
+
+  - A9.com
+  - [Facebook](../Page/Facebook.md "wikilink")
+  - Fox Interactive Media
+  - [华为](../Page/华为.md "wikilink")
+  - [IBM](../Page/IBM.md "wikilink")
+  - ImageShack
+  - [資訊科學研究院](../Page/資訊科學研究院.md "wikilink")
+  - [Joost](../Page/Joost.md "wikilink")
+  - [Last.fm](../Page/Last.fm.md "wikilink")
+  - Powerset
+  - [紐約時報](../Page/紐約時報.md "wikilink")
+  - Rackspace
+  - Veoh
+  - [中華電信](../Page/中華電信.md "wikilink")
+  - [中国移动](../Page/中国移动.md "wikilink")
+
+</div>
+
+## Hadoop與Sun Grid Engine
+
+[昇陽電腦的](../Page/昇陽.md "wikilink")[Sun Grid
+Engine可以用来调度Hadoop](../Page/Sun_Grid_Engine.md "wikilink")
+Job。\[3\]\[4\]
+
+## Hadoop與Condor
+
+[威斯康辛大學麥迪遜分校的Condor](../Page/威斯康辛大學麥迪遜分校.md "wikilink")[計算機集群軟件也可以用作Hadoop](../Page/計算機集群.md "wikilink")
+Job的排程。\[5\]
+
+## 參見
+
+  - [雲端運算](../Page/雲端運算.md "wikilink")
+  - [高性能計算集群](../Page/高性能計算集群.md "wikilink")
+  - [OpenStack](../Page/OpenStack.md "wikilink")－以[Apache許可證授權的雲端運算軟件](../Page/Apache許可證.md "wikilink")。
+  - [Apache Spark](../Page/Apache_Spark.md "wikilink")
+
+## 参考文献
+
+## 外部連結
+
+  - [Hadoop官方網站](http://hadoop.apache.org/)
+
+{{-}}
+
+[Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
+[Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink")
+[Category:分散式檔案系統](https://zh.wikipedia.org/wiki/Category:分散式檔案系統 "wikilink")
+
+1.  [Yahoo\! Launches World's Largest Hadoop Production Application
+    (Hadoop and Distributed Computing at
+    Yahoo\!)](http://developer.yahoo.com/blogs/hadoop/2008/02/yahoo-worlds-largest-production-hadoop.html)
+
+2.  [PoweredBy](http://wiki.apache.org/hadoop/PoweredBy)
+3.
+4.
+5.

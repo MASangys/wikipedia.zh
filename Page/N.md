@@ -1,0 +1,39 @@
+Ν（希臘字母）}} **N**, **n**
+是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")14个[字母](../Page/字母.md "wikilink")。
+
+[闪族语中的](../Page/闪族语.md "wikilink")
+可能是表示“[蛇](../Page/蛇.md "wikilink")”的图形，它的音值是/n/，这与[希腊语](../Page/希腊语.md "wikilink")、[伊特鲁里亚语](../Page/伊特鲁里亚语.md "wikilink")、[拉丁语和所有当代语言的发音是一样的](../Page/拉丁语.md "wikilink")。希腊名称是：，。
+
+## 字母N的含意
+
+### 口语中 N 的含义
+
+n 在數學的[序列常用來表示項數](../Page/序列.md "wikilink")，可能因而产生「很多」的意思，在20世纪末逐渐推广到社会。
+
+在[中国大陆的](../Page/中国大陆.md "wikilink")[中学生](../Page/中学生.md "wikilink")、[大学生的口语中](../Page/大学生.md "wikilink")，经常可以听到他们口中说
+“N多”、“N大”、“N快”等。在这个语境中，“N”为一个[程度副词](../Page/程度副词.md "wikilink")，是“很、非常”的意思，用来修饰限定的中心语（形容词）。
+
+在[香港社會](../Page/香港社會.md "wikilink")，大部分[香港人也使用n作](../Page/香港人.md "wikilink")「幾」或「未知」的意思，[台灣也有使用](../Page/台灣.md "wikilink")。在香港粵語中常能聽到「n[年後](../Page/年.md "wikilink")」、「n咁多個」等等，即「幾年後」及「多得不能數」的意思。此外還有[N無人士](../Page/N無人士.md "wikilink")。
+
+## 字符编码
+
+| 字符编码                               | [ASCII](../Page/ASCII.md "wikilink") | [Unicode](../Page/Unicode.md "wikilink") | [EBCDIC](../Page/EBCDIC.md "wikilink") | [摩斯电码](../Page/摩斯电码.md "wikilink") |
+| ---------------------------------- | ------------------------------------ | ---------------------------------------- | -------------------------------------- | ---------------------------------- |
+| [大写](../Page/大写字母.md "wikilink") N | 78                                   | 004E                                     | 213                                    | `-·`                               |
+| [小写](../Page/小写字母.md "wikilink") n | 110                                  | 006E                                     | 149                                    |                                    |
+
+## 其他表示方法
+
+## 参看
+
+### N的變體
+
+  - [小舌鼻音](../Page/小舌鼻音.md "wikilink")
+
+### 其他字母中的相近字母
+
+  - （[希腊字母](../Page/希腊字母.md "wikilink") Nu）
+
+  - （[西里尔字母](../Page/西里尔字母.md "wikilink") En）
+
+[Category:拉丁字母](https://zh.wikipedia.org/wiki/Category:拉丁字母 "wikilink")

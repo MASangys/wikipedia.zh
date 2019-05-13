@@ -1,0 +1,76 @@
+**Channel
+A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為韓國[東亞日報擁有的电视台](../Page/東亞日報.md "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](https://zh.wikipedia.org/wiki/綜合編成頻道 "wikilink")。通過[有線電視和](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[IPTV平台播出](../Page/IPTV.md "wikilink")。前身為於1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」為由而強行停播廣播電視公司之一的[東亞廣播公司](https://zh.wikipedia.org/wiki/東亞廣播公司 "wikilink")，因2008年南韓廣播相關法令增修而予以「復播」。
+
+## 節目
+
+### 電視劇
+
+#### 韓國（自製）
+
+  - [Channel A月火連續劇](../Page/Channel_A月火連續劇.md "wikilink")
+  - [Channel
+    A周末特別企劃劇](https://zh.wikipedia.org/wiki/Channel_A周末特別企劃劇 "wikilink")
+  - [蔬菜店的小夥子](https://zh.wikipedia.org/wiki/蔬菜店的小夥子 "wikilink")
+  - [Happy And..](https://zh.wikipedia.org/wiki/Happy_And.. "wikilink")
+  - [給你說個驚人的故事](https://zh.wikipedia.org/wiki/給你說個驚人的故事 "wikilink")
+  - [十二夜](https://zh.wikipedia.org/wiki/十二夜_\(韓國電視劇\) "wikilink")
+
+#### 美國（外購）
+
+  - [泛美PAN AM](https://zh.wikipedia.org/wiki/泛美之旅 "wikilink")
+
+  - [Franklin & Bash](https://zh.wikipedia.org/wiki/小律師大作為 "wikilink")
+
+  -
+  -
+  - [Big C](https://zh.wikipedia.org/wiki/如果還有明天_\(電視劇\) "wikilink")
+
+#### 台灣（外購）
+
+  - [判官包青天](../Page/包青天_\(1993年電視劇\).md "wikilink")
+
+#### 日本（外購）
+
+  - [Mother](../Page/Mother_\(電視劇\).md "wikilink")
+
+### 綜藝節目
+
+#### 韓國（自製）
+
+  - [Heart
+    Signal](https://zh.wikipedia.org/wiki/Heart_Signal "wikilink")
+  - [Heart Signal
+    (第二季)](https://zh.wikipedia.org/wiki/Heart_Signal_\(第二季\) "wikilink")
+  - [搭飛機去](https://zh.wikipedia.org/wiki/搭飛機去 "wikilink")
+  - [給狗糧的男人](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")
+  - [我們也是國家代表](https://zh.wikipedia.org/wiki/我們也是國家代表 "wikilink")
+  - [賣掉才能回國](https://zh.wikipedia.org/wiki/賣掉才能回國 "wikilink")
+  - [千萬Holic，Coming
+    Soon](https://zh.wikipedia.org/wiki/千萬Holic，Coming_Soon "wikilink")
+  - [給你宇宙](https://zh.wikipedia.org/wiki/給你宇宙 "wikilink")
+  - [都市漁夫](https://zh.wikipedia.org/wiki/都市漁夫 "wikilink")
+
+### 探討節目
+
+#### 韓國（自製）
+
+  - [食物X檔案](https://zh.wikipedia.org/wiki/食物X檔案 "wikilink")
+
+## 关连项目
+
+  - [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")
+  - [MBC TV](https://zh.wikipedia.org/wiki/MBC_TV "wikilink")
+  - [SBS TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")
+
+## 外部链接
+
+  - [Channel A官方網址](http://www.ichannela.com/)
+
+  - [Channel A facebook](https://www.facebook.com/tv.chA)
+
+  - [Channel A新聞 facebook](https://www.facebook.com/channelanews)
+
+</noinclude>
+
+[Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink")
+[Category:Channel_A](https://zh.wikipedia.org/wiki/Category:Channel_A "wikilink")

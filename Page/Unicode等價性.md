@@ -1,0 +1,121 @@
+**Unicode等價性**（Unicode
+equivalence）是為和許多現存的標準能夠相容，[Unicode](../Page/Unicode.md "wikilink")（統一碼）包含了許多特殊[字符](../Page/字符.md "wikilink")。在這些字符中，有些在功能上會和其它字符或字符序列等價。因此，Unicode將一些碼位序列定義成相等的。Unicode提供了兩種等價概念：標準等價和相容等價。前者是後者的一個[子集](../Page/子集.md "wikilink")。例如，字符n後接著[組合字符](../Page/組合字符.md "wikilink")\~會（標準和相容）等價於Unicode字符ñ。而[合字ﬀ則只有相容等價於兩個f字符](../Page/合字.md "wikilink")。
+
+Unicode**正規化**是文字正規化的一種形式，是指將彼此等價的序列轉成同一列序。此序列在Unicode標準中稱作**正規形式**。對於每種等價概念，Unicode又定義兩種形式，一種是完全合成的，一種是完全分解的。因此，最後會有四種形式，其縮寫分別為：NFC、NFD、NFKC、NFKD。對於Unicode的文字處理程式而言，正規化是很重要的。因為它影響了比較、搜尋和排序的意義。
+
+## 等價概念
+
+### 標準等價
+
+統一碼中標準等價的基礎概念為字符的組成和分解的交互使用。合成指的是將簡單的字符合併成較少的[預組字符的過程](../Page/預組字符.md "wikilink")，如字符n和[組合字符](../Page/組合字符.md "wikilink")\~可以組成統一碼ñ。分解則是反向過程，即將預組字符變回部件。
+
+標準等價是指保持視覺上和功能上的等價。例如，含[附加符號字母被視為和分解後的字母及其附加符號是標準等價](../Page/附加符號.md "wikilink")。換句話說，預組字符‘ü’和由‘u’及
+‘¨’所組成的序列是標準等價。相似地，統一碼統合了一些希臘附加符號和外觀與附加符號類似的標點符號。
+
+### 相容等價
+
+相容等價的範圍較標準等價來得廣。如果序列是標準等價的話就會是相容等價，反之則未必對。相容等價更關注在於純文字的等價，並把一些語義上的不同形式歸結在一起。
+
+例如，上標數字和其所使用的數字是相容等價，但非標準等價。其理由為下標和上標形式雖然在某些時侯屬於不同意義，但若應用程式將他們視為一樣也是合理的（雖然視覺上可區分）。如此，在統一碼富文件中，上標和下標就可以以比較不累贅地方式出現（見下一節）。
+
+全形和半形的[片假名也是一種相容等價但不是標準等價](../Page/片假名.md "wikilink")。如同合字和其部件序列。其只有視覺上但沒有語義上的區別。換句話說，作者通常沒有特別宣稱使用合字是一種意思，而不使用是另一種意思。相對地，這儘限於印刷上的選擇。
+
+## 正規化
+
+文書處理軟體在實作統一碼字串的搜尋和排序時，須考慮到等價性的存在。如果沒有此特性的話，使用者在搜尋時將無法找到在視覺上無法區分的字形。
+
+統一碼提供了一個標準的正規化演算法，可將所有相同的序列產生一個唯一的序列。 其等價準繩可以為標準的（NF）或相容的（NFK）。
+既然可以任意選擇[等價類中的元素](../Page/等價類.md "wikilink")，對每一個等價標準有多個標準形式也是有可能的。
+統一碼為每一種等價準繩分別提供兩種正規形式：合成用的NFC和NFKC以及分解用的NFD和NFKD。
+而不論是組合的或分解的形式，都會使用**標準順序**，以此限制正規形式只有唯一形式。
+
+為了比較或搜尋統一碼字串，軟體可以使用合成或分解形式其中之一。 只要被比較或搜尋的字串使用的形式是相同的，哪種選擇都沒關係。
+另一方面，等價概念的選擇則會影響到搜尋結果。
+譬如，有些[合字如ﬃ](../Page/合字.md "wikilink")（U+FB03）、羅馬數字如Ⅸ（U+2168），甚至是上標數字如⁵（U+2075）有其個別統一碼碼位。
+標準正規形式並不會影響這些結果。 但相容正規形式會分解ﬃ成f、f、i。所以搜尋U+0066（f）時，在NFKC中會成功，但在NFC則會失敗。
+同樣地有在預組羅馬數字Ⅸ 中搜尋拉丁字母I（U+0049）。類似地，“⁵”會轉成“5”。
+
+對於豐富文件格式的瀏覧器，將上標轉換成到基底線未必是好的，因為上標的資訊會因而消失。為了允許這種不同，統一碼字符資料庫句含了**相容格式標籤**，其提供了相容轉換的細節。\[1\]在合字的情況下，這個標籤只是<compat>，而在上標的情況下則為<super>。豐富文件格式如[超文件標示語言則會使用相容標籤](../Page/超文件標示語言.md "wikilink")。例如，HTML使用自訂標籤來將“5”放到上標位置。\[2\]
+
+### 正規形式
+
+統一碼定義了四種正規形式。這些形式或其（轉換）演算法表列如下。所有的形式都會使用到標準順序，好讓結果序列能保證是等價類中的唯一形式。這些演算法都是[冪等轉換](../Page/冪等.md "wikilink")，但因為singletons和標準順序的關係，都不是[單射](../Page/單射.md "wikilink")。
+此外，也沒有一個形式在字串[串接下會是](../Page/串接.md "wikilink")[封閉的](../Page/閉包_\(數學\).md "wikilink")，意味著在同一個正規形式下的兩個字串串接，並不保證産生的是正規形式。
+這會發生在當一個字串並不是以基礎字符為開頭或以其它中間或結尾字符為開頭的字串附加到另一個字串時。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>NFD</strong><br />
+<em>Normalization Form Canonical Decomposition</em></p></td>
+<td><p>以標準等價方式來分解</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>NFC</strong><br />
+<em>Normalization Form Canonical Composition</em></p></td>
+<td><p>以標準等價方式來分解，然後以標準等價重組之。若是<strong>singleton</strong>的話，重組結果有可能和分解前不同。</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>NFKD</strong><br />
+<em>Normalization Form Compatibility Decomposition</em></p></td>
+<td><p>以相容等價方式來分解</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>NFKC</strong><br />
+<em>Normalization Form Compatibility Composition</em></p></td>
+<td><p>以相容等價方式來分解，然後以標準等價重組之。</p></td>
+</tr>
+</tbody>
+</table>
+
+有些碼點經過正規轉換後，是無法轉換成之前的形式。換個方式說則是，singleton都不會是正規形式。譬如，[埃格斯特朗符號U](../Page/埃格斯特朗.md "wikilink")+212B（Å），在NFC中總是被代換成在視覺上相同的U+00C5（Å
+–在上方帶環的A）。在NFD中，則會換成由U+0041（A）和U+030A（° – combining ring
+above）這兩個字符所組成的序列。因此，沒有一個正規函數是單射的。
+
+在統一碼字符資料庫中，singletons是指那些和其它單一字符有相同分解的字符。
+
+### 標準順序
+
+標準順序主要關注在結合符序列的順序。這裡將以[附加符號做例子](../Page/附加符號.md "wikilink")。不過，一般而言，附加符號不是結合字符且結合字符不是附加符號。
+
+統一碼假設每個字符是一個**結合類別**，並賦予一個數字。非結合字符的類別值為0，而結合字符則會是一個正值。要得到標準順序，每個有非零值結合符的子串序要以[穩定排序演算法排序過](../Page/排序演算法#穩定的.md "wikilink")。穩定排序是必要的，因為結合字符被假設會影響到排版，所以兩個順序不被視為相等。
+
+例如，[越南語字母中的字符ế](../Page/越南語字母.md "wikilink")（U+1EBF）同時具有[尖音符和](../Page/尖音符.md "wikilink")[抑揚符](../Page/抑揚符.md "wikilink")。它的標準分解是序列U+0065（e）、U+0302（抑揚符）、U+0301（尖音符）。這兩個重音的結合類別都是230，所以U+1EBF不等同於U+0065
+U+0301 U+0302。
+
+並非所有結合序列都有預組（在前一例的最後一個可以化簡成U+00E9 U+0302），即使NFC會被結合字符所影響。
+
+## 因正規化不同而導致的錯誤
+
+當兩個應用程式分享統一碼資料，但卻使用不同正規形式時，就有可能導致錯誤。 例如，Mac OS
+X有許多物件是只能使用分解字符（因此，以UTF-8為編碼又限定分解形式的統一碼又被稱為"UTF8-MAC"）。
+在一特例中，OS
+X錯誤處理用途而産生的組合字符和[Samba檔案和列印分享軟體](../Page/Samba.md "wikilink")（在複製檔案時，會將分解過的字母替換成組合過的字母）混合使用時，會導致混淆和損壞資料。\[3\]\[4\]應用程式若要避免此類問題，可以保留輸入碼點，然後只在程式內部使用自己的正規化形式。
+
+## 註記
+
+## 另見
+
+  - [Unicode](../Page/Unicode.md "wikilink")
+  - [合字](../Page/合字.md "wikilink")
+  - [附加符號](../Page/附加符號.md "wikilink")
+  - [預組字符](../Page/預組字符.md "wikilink")（Precomposed character）
+  - [Unicode相容字符](../Page/Unicode相容字符.md "wikilink")
+  - [複雜文字編排](../Page/複雜文字編排.md "wikilink")（Complex text layout）
+
+## 參考
+
+  - [Unicode Standard Annex \#15: Unicode Normalization
+    Forms](http://unicode.org/reports/tr15/)
+
+## 外部連結
+
+  - [Unicode.org FAQ -
+    Normalization](http://www.unicode.org/unicode/faq/normalization.html)
+
+[Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
+
+1.  <http://www.unicode.org/Public/UNIDATA/UCD.html#Character_Decomposition_Mappings>
+2.  <http://unicode.org/reports/tr20/tr20-2.html#Compatibility>
+3.  [Sourceforge.net](http://sourceforge.net/tracker/?func=detail&aid=2727174&group_id=8642&atid=108642)
+4.  [Forums.macosxhints.com](http://forums.macosxhints.com/archive/index.php/t-99344.html)

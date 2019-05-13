@@ -1,0 +1,27 @@
+**GNU IceCat**，原称作**GNU
+IceWeasel**\[1\]，是一个由[GNU計劃发布的](../Page/GNU計劃.md "wikilink")[网络浏览器](../Page/网络浏览器.md "wikilink")。IceCat是一个完全的[自由软件](../Page/自由软件.md "wikilink")，是一个[Mozilla
+Firefox的](../Page/Mozilla_Firefox.md "wikilink")[分支](../Page/復刻_\(軟體工程\).md "wikilink")。
+
+## 历史
+
+在2007年9月前，GNU IceCat被称作GNU
+Iceweasel。为了避免与[Iceweasel混淆](../Page/Iceweasel.md "wikilink")，此后改名为Icecat。
+
+## 参见
+
+  - [Firefox](../Page/Firefox.md "wikilink")
+  - [GNU](../Page/GNU.md "wikilink")
+
+## 参考文献
+
+## 外部链接
+
+  - [Gnuzilla与IceCat的主页](http://www.gnu.org/software/gnuzilla/)
+
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
+[Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
+[Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
+
+1.

@@ -1,0 +1,47 @@
+**Super
+4**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](../Page/林師傑.md "wikilink")、[許廷鏗](../Page/許廷鏗.md "wikilink")、[陳鴻碩四位男生組成](../Page/陳鴻碩.md "wikilink")，於2010年成立，其唱片公司為[正視音樂](../Page/正視音樂.md "wikilink")。
+
+## 出道歷程
+
+2009年，四人各自參加了[電視廣播有限公司的歌唱節目](../Page/電視廣播有限公司.md "wikilink")《[超級巨聲](../Page/超級巨聲.md "wikilink")》。
+2010年，無綫電視將四人組合為**Super 4**。
+
+## 歌曲
+
+### 2010年
+
+  - 《灰色控訴》（無綫電視劇《[刑警](../Page/刑警_\(無綫電視劇\).md "wikilink")》主題曲）
+  - 《不枉》（劇集《[三國](../Page/三國_\(電視劇\).md "wikilink")》主題曲）
+
+## 派台歌曲
+
+| **派台歌曲成績**                                             |
+| ------------------------------------------------------ |
+| 大碟                                                     |
+| **2010**                                               |
+| [超級巨聲 The Voice](../Page/超級巨聲_The_Voice.md "wikilink") |
+
+## 音樂錄音帶
+
+### 2010年
+
+  - 《灰色控訴》（無綫電視劇《[刑警](../Page/刑警_\(無綫電視劇\).md "wikilink")》主題曲）
+  - 《不枉》（劇集《[三國](../Page/三國_\(電視劇\).md "wikilink")》主題曲）
+
+## 節目
+
+### 2010年
+
+  - 12月12日：[J2](../Page/J2.md "wikilink")《[Music_Café](../Page/Music_Café.md "wikilink")》
+
+## 獎項
+
+### 2010年
+
+  - [2010勁歌金曲優秀選第三回](../Page/勁歌金曲優秀選.md "wikilink") - 新人薦場飆星獎
+
+## 參考資料
+
+<references/>
+
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")

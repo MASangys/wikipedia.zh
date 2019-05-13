@@ -1,0 +1,85 @@
+**Sweet
+Power**（），[日本知名](../Page/日本.md "wikilink")[藝人](../Page/藝人.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員及](../Page/演員.md "wikilink")[模特兒為主](../Page/模特兒.md "wikilink")。
+
+## 簡介
+
+Sweet
+Power於1996年11月設立，簽約演員以女性為主。與其他演藝經紀公司相較，雖創設年數較短，但如[內山理名](../Page/內山理名.md "wikilink")、[堀北真希](../Page/堀北真希.md "wikilink")、[黑木梅沙](../Page/黑木梅沙.md "wikilink")、[桐谷美玲等人於日本電視劇及電影多次擔綱重要角色甚或主演](../Page/桐谷美玲.md "wikilink")，其[星探挖掘制度亦在同業間頗為知名](../Page/星探.md "wikilink")\[1\]\[2\]。另，旗下亦出版以女[大學生和年輕](../Page/大學生.md "wikilink")[OL為顧客導向的](../Page/辦公室女職員.md "wikilink")\[3\]。
+
+Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「Spice
+Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014年後關注度漸增。
+
+## 旗下藝人
+
+<table>
+<tbody>
+<tr class="odd">
+<td><h3 id="sweet_power">Sweet Power</h3>
+<ul>
+<li><a href="../Page/內山理名.md" title="wikilink">內山理名</a></li>
+<li></li>
+<li><a href="../Page/黑木梅沙.md" title="wikilink">黑木梅沙</a></li>
+<li><a href="../Page/南澤奈央.md" title="wikilink">南澤奈央</a></li>
+<li><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></li>
+<li><a href="../Page/松山瑪麗.md" title="wikilink">松山瑪麗</a></li>
+<li><a href="../Page/櫻庭奈奈美.md" title="wikilink">櫻庭奈奈美</a></li>
+<li><a href="../Page/宮武美櫻.md" title="wikilink">宮武美櫻</a></li>
+<li></li>
+<li><a href="../Page/高月彩良.md" title="wikilink">高月彩良</a></li>
+<li></li>
+<li><a href="../Page/竹富聖花.md" title="wikilink">竹富聖花</a></li>
+<li><a href="../Page/知英.md" title="wikilink">知英</a>[4]</li>
+<li><a href="../Page/松風理咲.md" title="wikilink">松風理咲</a>[5]</li>
+<li><a href="../Page/山下聖菜.md" title="wikilink">山下聖菜</a></li>
+</ul></td>
+<td><h3 id="spice_power">Spice Power</h3>
+<ul>
+<li><a href="../Page/岡山智樹.md" title="wikilink">岡山智樹</a></li>
+<li><a href="../Page/高杉真宙.md" title="wikilink">高杉真宙</a></li>
+<li><a href="../Page/荒木飛羽.md" title="wikilink">荒木飛羽</a></li>
+</ul>
+<h3 id="spm">S・P・M</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="sweetpower_international">SweetPower International</h3>
+<ul>
+<li><a href="../Page/黑木梅沙.md" title="wikilink">黑木梅沙</a></li>
+<li><a href="../Page/金泰希.md" title="wikilink">金泰希</a></li>
+<li><a href="../Page/知英.md" title="wikilink">知英</a></li>
+<li><a href="../Page/櫻庭奈奈美.md" title="wikilink">櫻庭奈奈美</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## 已離開的藝人
+
+  - [堀北真希](../Page/堀北真希.md "wikilink")（2017年引退）
+
+## 參考文獻
+
+## 外部連結
+
+  - [官方網站](http://www.sweetpower.jp/)
+
+  - [S・P・M](http://sweetpower.jp/spm/)
+
+  - [SweetPower International](http://www.spinternational.net/)
+
+  - [Spice Power](http://www.spicepower.jp/)
+
+  -
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
+[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
+
+1.  2007年5月，《日經娛樂》「芸能界を制するのは誰だ?芸能プロ最新勢力図」專題第40頁
+
+2.  [“ポスト・堀北真希”だ！　スウィートパワーの大型新人に注目！！／芸能ショナイ業務話](http://www.sanspo.com/geino/news/20151008/geo15100812200017-n1.html)
+
+3.
+4.  [前KARA知英單飛人氣高　寬姐讚能演能唱](http://www.nownews.com/n/2015/09/15/1814229)
+
+5.  [松風理咲　堀北の“妹分”
+    ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)

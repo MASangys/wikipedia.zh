@@ -1,0 +1,99 @@
+為隸屬於[美商藝電旗下開發多平台遊戲的遊戲開發商](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")，前身為**美商藝電洛杉磯工作室**（EALA）和**危險距離**（Danger
+Close）。最初成立於1995年，當時是隸屬於[夢工廠旗下的附屬工作室](https://zh.wikipedia.org/wiki/夢工廠 "wikilink")，而在西元2000年由美商藝電從夢工場電影附屬工作室所買下([微軟當時也擁有危險距離少部分的股份](https://zh.wikipedia.org/wiki/微軟 "wikilink"))。西元2003年時美商藝電將[西木工作室遊戲工作室](https://zh.wikipedia.org/wiki/Westwood "wikilink")（西木工作室為[終極動員令系列的原開發工作室](https://zh.wikipedia.org/wiki/終極動員令 "wikilink")）、[Maxis/模擬市民工作室](../Page/Maxis.md "wikilink")（Maxis/模擬市民工作室為[模擬城市](https://zh.wikipedia.org/wiki/模擬城市 "wikilink")、[模擬市民與](https://zh.wikipedia.org/wiki/模擬市民 "wikilink")[Spore系列的原開發工作室](https://zh.wikipedia.org/wiki/Spore "wikilink")）與當時的美商藝電洛杉磯及西木工作室旗下的[太平洋工作室合併](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，並正式成立了危險距離。不久後，許多原為[西木工作室的員工離開了危险距离並在建立了自己的遊戲工作室](../Page/西木工作室.md "wikilink")——[岩石壁畫](../Page/岩石壁畫.md "wikilink")。2013年1月，EA證實危險距離工作室已經解散，另組建了DICE洛杉磯取而代之。\[1\]
+
+## 遊戲作品
+
+| 標題                                                                                                                                                                        | 推出年代 | 推出平台                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+| *[Someone's in the Kitchen\!](https://zh.wikipedia.org/wiki/Someone's_in_the_Kitchen! "wikilink")*                                                                        | 1996 | [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") |
+| *[Goosebumps: Escape from Horrorland](https://zh.wikipedia.org/wiki/Goosebumps:_Escape_from_Horrorland "wikilink")*                                                       | 1996 | Windows                                                               |
+| *[The Neverhood](https://zh.wikipedia.org/wiki/The_Neverhood "wikilink")*                                                                                                 | 1996 | Windows                                                               |
+| *[Skullmonkeys](https://zh.wikipedia.org/wiki/Skullmonkeys "wikilink")*                                                                                                   | 1997 | [PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")              |
+| *[Jurassic Park: Chaos Island](https://zh.wikipedia.org/wiki/Jurassic_Park:_Chaos_Island "wikilink")*                                                                     | 1997 | Windows                                                               |
+| *[Goosebumps](https://zh.wikipedia.org/wiki/Goosebumps "wikilink"): [Attack of the Mutant](https://zh.wikipedia.org/wiki/Attack_of_the_Mutant_\(video_game\) "wikilink")* | 1997 | Windows                                                               |
+| *[Dilbert's Desktop Games](https://zh.wikipedia.org/wiki/Dilbert's_Desktop_Games "wikilink")*                                                                             | 1997 | Windows                                                               |
+| *[The Lost World: Jurassic Park](https://zh.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_\(console_game\) "wikilink")*                                                | 1997 | PlayStation                                                           |
+| *[Small Soldiers](https://zh.wikipedia.org/wiki/Small_Soldiers_\(video_game\) "wikilink")*                                                                                | 1998 | PlayStation                                                           |
+| *[Small Soldiers: Squad Commander](https://zh.wikipedia.org/wiki/Small_Soldiers_\(video_game\)#Small_Soldiers:_Squad_Commander "wikilink")*                               | 1998 | Windows                                                               |
+| *[Boombots](https://zh.wikipedia.org/wiki/Boombots "wikilink")*                                                                                                           | 1999 | PlayStation                                                           |
+| *[T'ai Fu: Wrath of the Tiger](https://zh.wikipedia.org/wiki/T'ai_Fu:_Wrath_of_the_Tiger "wikilink")*                                                                     | 1999 | PlayStation                                                           |
+| ''[Antz](https://zh.wikipedia.org/wiki/Antz_\(video_game\) "wikilink")                                                                                                    | 1999 | [Game Boy Color](../Page/Game_Boy_Color.md "wikilink")                |
+| *[Jurassic Park: Trespasser](https://zh.wikipedia.org/wiki/Jurassic_Park:_Trespasser "wikilink")*                                                                         | 1998 | Windows                                                               |
+| *[Warpath: Jurassic Park](https://zh.wikipedia.org/wiki/Warpath:_Jurassic_Park "wikilink")*                                                                               | 1999 | PlayStation                                                           |
+| *[榮譽勳章 (遊戲)](https://zh.wikipedia.org/wiki/榮譽勳章_\(遊戲\) "wikilink")*                                                                                                       | 1999 | PlayStation                                                           |
+| *[榮譽勳章: 地下戰場](https://zh.wikipedia.org/wiki/榮譽勳章:_地下戰場 "wikilink")*                                                                                                       | 2000 | PlayStation                                                           |
+| *[Clive Barker's Undying](https://zh.wikipedia.org/wiki/Clive_Barker's_Undying "wikilink")*                                                                               | 2001 | Windows                                                               |
+
+於夢工廠旗下時開發的遊戲
+
+| 標題                                                                                                                        | 推出年代 | 推出平台                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *[榮譽勳章：前線](https://zh.wikipedia.org/wiki/榮譽勳章：前線 "wikilink")*                                                             | 2002 | [Xbox](../Page/Xbox_\(遊戲機\).md "wikilink"), [PlayStation 2](../Page/PlayStation_2.md "wikilink"), [GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink") |
+| *[榮譽勳章：反攻諾曼第](https://zh.wikipedia.org/wiki/榮譽勳章：反攻諾曼第 "wikilink")* ([擴充包](https://zh.wikipedia.org/wiki/擴充包 "wikilink")) | 2002 | Windows                                                                                                                                                                  |
+| *[榮譽勳章：昇陽](https://zh.wikipedia.org/wiki/榮譽勳章：昇陽 "wikilink")*                                                             | 2003 | Xbox, PlayStation 2, GameCube                                                                                                                                            |
+| *[終極動員令：將軍 絕命時刻](../Page/終極動員令：將軍_絕命時刻.md "wikilink")* (擴充包)                                                              | 2003 | Windows                                                                                                                                                                  |
+| *[GoldenEye: Rogue Agent](https://zh.wikipedia.org/wiki/GoldenEye:_Rogue_Agent "wikilink")*                               | 2004 | Xbox, PlayStation 2, GameCube                                                                                                                                            |
+| *[榮譽勳章：太平洋突襲](https://zh.wikipedia.org/wiki/榮譽勳章：太平洋突襲 "wikilink")*                                                       | 2004 | Windows                                                                                                                                                                  |
+| *[模擬市民2](https://zh.wikipedia.org/wiki/模擬市民2 "wikilink")*                                                                 | 2004 | Windows, Mac OS X, [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink"), GameCube, NDS, PlayStation 2, PSP, Xbox                                                   |
+| *[-{zh-cn:模拟人生2：大学城;zh-tw:模擬市民2：夢幻大學城;}-](../Page/模擬市民2：夢幻大學城.md "wikilink")* (擴充包)                                       | 2005 | Windows, Mac OS X                                                                                                                                                        |
+| *[-{zh-cn:模拟人生2：夜生活;zh-tw:模擬市民2：美麗夜未眠;}-](../Page/模擬市民2：美麗夜未眠.md "wikilink")* (擴充包)                                       | 2005 | Windows, Mac OS X                                                                                                                                                        |
+| *[-{zh-cn:模拟人生2：我要开店;zh-tw:模擬市民2：開店達人;}-](../Page/模擬市民2：開店達人.md "wikilink")* (擴充包)                                        | 2006 | Windows, Mac OS X                                                                                                                                                        |
+| *[模擬市民2：寵物當家](../Page/模擬市民2：寵物當家.md "wikilink")* (擴充包)                                                                    | 2006 | Windows, Mac OS X, Game Boy Advance, GameCube, NDS, PlayStation 2, PSP, Wii                                                                                              |
+| *[-{zh-cn:模拟人生2：缤纷四季;zh-tw:模擬市民2：度假四季;}-](../Page/模擬市民2：度假四季.md "wikilink")* (擴充包)                                        | 2007 | Windows, Mac OS X                                                                                                                                                        |
+| *[-{zh-cn:模拟人生2：游遍天下;zh-tw:模擬市民2：環遊世界;}-](../Page/模擬市民2：環遊世界.md "wikilink")* (擴充包)                                        | 2007 | Windows, Mac OS X                                                                                                                                                        |
+| *[-{zh-cn:模拟人生2：休闲时光;zh-tw:模擬市民2：玩耍時光;}-](https://zh.wikipedia.org/wiki/模擬市民2：玩耍時光 "wikilink")* (擴充包)                     | 2008 | Windows, Mac OS X                                                                                                                                                        |
+| *[模擬市民2：公寓生活](https://zh.wikipedia.org/wiki/模擬市民2：公寓生活 "wikilink")* (擴充包)                                                 | 2008 | Windows, Mac OS X                                                                                                                                                        |
+| *[魔戒：中土之戰](https://zh.wikipedia.org/wiki/魔戒：中土之戰 "wikilink")*                                                             | 2004 | Windows                                                                                                                                                                  |
+| *[榮譽勳章：血戰歐洲](https://zh.wikipedia.org/wiki/榮譽勳章：血戰歐洲 "wikilink")*                                                         | 2005 | Xbox, PlayStation 2, GameCube                                                                                                                                            |
+| *[魔戒：中土之戰2](https://zh.wikipedia.org/wiki/魔戒：中土之戰2 "wikilink")*                                                           | 2006 | Windows, [Xbox 360](../Page/Xbox_360.md "wikilink")                                                                                                                      |
+| *[魔戒：中土之戰2-巫王的崛起](https://zh.wikipedia.org/wiki/魔戒：中土之戰2-巫王的崛起 "wikilink")* (擴充包)                                         | 2006 | Windows                                                                                                                                                                  |
+| *[終極動員令3：泰伯倫戰爭](../Page/終極動員令3：泰伯倫戰爭.md "wikilink")*                                                                      | 2007 | Windows, Mac OS X, Xbox 360                                                                                                                                              |
+| *[The Sims Life Stories](https://zh.wikipedia.org/wiki/The_Sims_Life_Stories "wikilink")*                                 | 2007 | Windows, Mac OS X                                                                                                                                                        |
+| *[The Sims Pets Stories](https://zh.wikipedia.org/wiki/The_Sims_Pets_Stories "wikilink")*                                 | 2007 | Windows, Mac OS X                                                                                                                                                        |
+| *[MySims](https://zh.wikipedia.org/wiki/MySims "wikilink")*                                                               | 2007 | NDS, Wii, Windows                                                                                                                                                        |
+| *[榮譽勳章: 空降神兵](https://zh.wikipedia.org/wiki/榮譽勳章:_空降神兵 "wikilink")*                                                       | 2007 | [PlayStation 3](../Page/PlayStation_3.md "wikilink"), Xbox 360, Windows                                                                                                  |
+| *[The Sims Castaway Stories](https://zh.wikipedia.org/wiki/The_Sims_Castaway_Stories "wikilink")*                         | 2008 | Windows, Mac OS X                                                                                                                                                        |
+| *[終極動員令3：肯恩之怒](https://zh.wikipedia.org/wiki/終極動員令3：肯恩之怒 "wikilink")* (擴充包)                                               | 2008 | Windows, Xbox 360                                                                                                                                                        |
+| *[Boom Blox](https://zh.wikipedia.org/wiki/Boom_Blox "wikilink")*                                                         | 2008 | [Wii](../Page/Wii.md "wikilink")                                                                                                                                         |
+| *[Spore](https://zh.wikipedia.org/wiki/Spore "wikilink")*                                                                 | 2008 | Windows, Mac OS X                                                                                                                                                        |
+| *[Spore: Creepy & Cute](https://zh.wikipedia.org/wiki/Spore:_Creepy_&_Cute "wikilink")* (擴充包)                             | 2008 | Windows, Mac OS X                                                                                                                                                        |
+| *[終極動員令：紅色警戒3](../Page/終極動員令：紅色警戒3.md "wikilink")*                                                                        | 2008 | PlayStation 3, Xbox 360, Windows                                                                                                                                         |
+| *[終極動員令 紅色警戒3：起義時刻](https://zh.wikipedia.org/wiki/終極動員令_紅色警戒3：起義時刻 "wikilink")* (擴充包)                                     | 2009 | Windows                                                                                                                                                                  |
+| *[Spore：幻想星球](https://zh.wikipedia.org/wiki/Spore：幻想星球 "wikilink")* (擴充包)                                                 | 2009 | Windows                                                                                                                                                                  |
+| *[模擬市民3](../Page/模擬市民3.md "wikilink")*                                                                                    | 2009 | Windows, Mac OS X, PlayStation 3, Xbox 360, Wii                                                                                                                          |
+| *[模擬市民3：世界歷險記](../Page/模擬市民3：世界歷險記.md "wikilink")* (擴充包)                                                                  | 2009 | Windows, Mac OS X, [iOS](../Page/iOS.md "wikilink")                                                                                                                      |
+| *[Boom Blox Bash Party](https://zh.wikipedia.org/wiki/Boom_Blox_Bash_Party "wikilink")*                                   | 2009 | Wii                                                                                                                                                                      |
+| *[終極動員令4：泰伯倫暮光](../Page/終極動員令4：泰伯倫暮光.md "wikilink")*                                                                      | 2010 | Windows                                                                                                                                                                  |
+
+於美商藝電旗下時開發的遊戲(不包含合併後)
+
+| 標題                                                                     | 推出年代 | 推出平台                                                                   |
+| ---------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------- |
+| *[榮譽勳章 (2010年遊戲)](../Page/榮譽勳章_\(2010年遊戲\).md "wikilink")* (僅開發單人遊戲部分) | 2010 | PlayStation 3, Xbox 360, Windows                                       |
+| *[榮譽勳章：鐵血悍將](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")*      | 2012 | PlayStation 3, Xbox 360, [Wii U](../Page/Wii_U.md "wikilink"), Windows |
+
+美商藝電成立Danger Close 後開發的遊戲
+
+## 參考文獻
+
+<references />
+
+## 外部連結
+
+  - [前Danger
+    Close官網](https://web.archive.org/web/20121003060524/http://www.dangerclosegames.com/)
+
+  - [美商藝電官網](http://www.ea.com/asia?from=us#//)
+
+  - [榮譽勳章官網](https://web.archive.org/web/20120922125035/http://www.medalofhonor.com/)
+
+  - [美商藝電Origin商店](http://store.origin.com/store/eatw/zh_TW/DisplayHomePage//)
+
+[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
+[Category:梦工厂](https://zh.wikipedia.org/wiki/Category:梦工厂 "wikilink")
+[Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink")
+[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
+[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
+
+1.

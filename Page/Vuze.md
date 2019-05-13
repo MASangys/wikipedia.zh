@@ -1,0 +1,53 @@
+**Vuze**（舊名**Azureus**）是一個用[Java編寫的](../Page/Java.md "wikilink")[BitTorrent用戶端](../Page/BitTorrent.md "wikilink")，且支援[I2P和](../Page/I2P.md "wikilink")[Tor匿名](../Page/Tor.md "wikilink")[网络协议](../Page/网络协议.md "wikilink")。它現在支援的作業系統有[Windows](../Page/Microsoft_Windows.md "wikilink")，[Mac
+OS
+X](../Page/Mac_OS_X.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Unix](../Page/Unix.md "wikilink")。這個程式的徽標是藍色的[藍箭毒蛙](../Page/藍箭毒蛙.md "wikilink")（Azureus）。
+
+## 功能
+
+Vuze容許用戶在單一畫面下下載多個檔案，並且有詳細選項，資訊及設定。用戶下載檔案時可看到：
+
+  - 正在下載的檔案；
+  - 已完成下載的百分比，及分割數和完成性；
+  - 檔案的位置、其他用戶的下載及上傳速度、[IP](../Page/IP.md "wikilink")、連接埠和用戶端軟體。超級種子會有更多的選項；
+  - 下載及上傳速度，剩餘時間，檔案及Tracker資訊。
+
+Vuze容許用戶自行設定最高上傳及下載速度，而且其自行設定性極高。Vuze並容許用戶開啟由其他BT下載完成的檔案，以繼續下載。還有的是，Vuze能夠自行當tracker，容許用戶自行分享檔案而不需要上傳至任何網站。而用戶亦能透過加入不同的插件以加強其功能，其中最著名的要算是Country
+Locator。
+
+Vuze在版本2.3.0.0中引入了分散式資料庫功能（[DHT的一個模式](../Page/DHT.md "wikilink")），分散資料庫功能是一個使得BT下載檔案不再依賴於trackers新功能。這容許種子能夠在trackers速度極慢或關閉時自行與其他連接點連接，-{只}-要其他連接點亦是使用Vuze，而且是版本2.3.0.0或以上的。這使得私人trackers（private
+trackers）可以出現，即是要加入為會員才可經由BT下載檔案。批評者認為這是大倒退，這使BT變成和早期的P2P軟體一樣封閉。但亦有人視其為BT革命。Azureus使用自己的DHT模式，因而不兼容[布莱姆·科亨的](../Page/布莱姆·科亨.md "wikilink")[BitTorrent或](../Page/BitTorrent.md "wikilink")[BitComet](../Page/BitComet.md "wikilink")。因此要支援的話要到他們的網頁下載plugin:
+Mainline DHT（mlDHT）。
+
+Vuze已經被修改成能夠創造[本地端程式](../Page/本地端程式.md "wikilink")，這是使用分散式資料庫來維護虛擬檔案系統。
+
+## 网站
+
+Vuze（代號Zudeo）是一個基於[BitTorrent技術的視頻分享](../Page/BitTorrent.md "wikilink")[網站](../Page/網站.md "wikilink")。該[網站容許用户利用](../Page/網站.md "wikilink")[BitTorrent技術上載和下載高質量](../Page/BitTorrent.md "wikilink")[視頻](../Page/視頻.md "wikilink")。
+
+## 參考資料
+
+[Azureus_torrent.png](https://zh.wikipedia.org/wiki/File:Azureus_torrent.png "fig:Azureus_torrent.png")
+
+## 參考條目
+
+  - [匿名點對點轉輸](../Page/匿名點對點轉輸.md "wikilink")
+  - [BitTorrent客户端](../Page/BitTorrent客户端.md "wikilink")
+
+<!-- end list -->
+
+  - [超級種子](../Page/超級種子.md "wikilink")
+  - [分散式雜湊表](../Page/分散式雜湊表.md "wikilink")
+  - [點對點技術](../Page/點對點技術.md "wikilink")
+
+## 外部連結
+
+  - [Vuze維基](https://web.archive.org/web/20100407091322/http://wiki.vuze.com/w/Main_Page)
+  - [Vuze計劃首頁](http://azureus.sourceforge.net)
+  - [Vuze設置說明](http://www.roumazeilles.net/news/en/wordpress/2007/02/12/azureus-configuration/)
+
+[Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink")
+[Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
+[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
+[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
+[Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")

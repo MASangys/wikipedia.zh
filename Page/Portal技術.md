@@ -1,0 +1,51 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|技術主题首頁|Portal:技術/简介|}}
+{{/box-footer|[關於技術的詳細解說…](../Page/技術.md "wikilink")}}
+
+<div style="text-align: center;">
+
+[Fairytale_key_enter-2.png](https://zh.wikipedia.org/wiki/File:Fairytale_key_enter-2.png "fig:Fairytale_key_enter-2.png")<span class="plainlinks noarchive">\[
+刷新以下頁面\]<span>
+
+</div>
+
+<div style="float:left; width:55%;">
+
+{{/box-header|特色與優良條目|Portal:技術/特色與優良條目|}}
+{{/box-footer|[存檔](../Page/Portal:技術/特色條目存檔.md "wikilink") /
+更多[特色與](https://zh.wikipedia.org/wiki/Wikipedia:特色條目 "wikilink")[優良條目](https://zh.wikipedia.org/wiki/Wikipedia:優良條目 "wikilink")}}
+
+</div>
+
+<div style="float:right; width:44%">
+
+{{/box-header|傑出人物|Portal:技術/傑出人物|}}
+{{/box-footer|[存檔](../Page/Portal:技術/傑出人物存檔.md "wikilink") /
+[更多人物](https://zh.wikipedia.org/wiki/Category:科學家 "wikilink")}}
+
+{{/box-header|你知道吗|Portal:技術/你知道吗？|}}
+{{/box-footer|[存檔](../Page/Portal:技術/你知道嗎存檔.md "wikilink") /
+[新條目推薦](https://zh.wikipedia.org/wiki/Wikipedia:新條目推薦/候選 "wikilink")}}
+
+{{/box-header|分类|Portal:技術/分类|}}
+{{/box-footer|[技術分類頁面](https://zh.wikipedia.org/wiki/Category:科技 "wikilink")}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|相關主題|Portal:技術/相關主題|}}  {{/box-footer|}}
+
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[fy:Tema:Wittenskip](../Page/fy:Tema:Wittenskip.md "wikilink")
+[stq:Portoal:Wietenskup](../Page/stq:Portoal:Wietenskup.md "wikilink")
+[wo:Bunt: Xarala](../Page/wo:Bunt:_Xarala.md "wikilink")
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

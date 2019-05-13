@@ -1,0 +1,59 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+<div style="text-align: center;">
+
+<big style="font-size:150%;"><font color="006699">**VERBIS DEFECTIS
+MVSICA INCIPIT**</font></big></br>
+<big style="font-size:150%;"><font color="00785D"></font></big>
+
+</div>
+
+{{/box-header|<big>欢迎来到古典音乐的殿堂</big> |Portal:古典音乐/简介|}}
+{{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:48%;">
+
+{{/box-header|作曲大师|Portal:古典音乐/作曲大师|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/作曲大师/存档.md "wikilink")}}
+
+{{/box-header|乐坛轶事|Portal:古典音乐/乐坛轶事|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/乐坛轶事/存档.md "wikilink")}}
+
+{{/box-header|Logo模板|Portal:古典音乐/Logo模板|}}  {{/box-footer|}}
+
+{{/box-header|导览|Portal:古典音乐/导览|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:48%">
+
+{{/box-header|演绎名家|Portal:古典音乐/演绎名家|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/演绎名家/存档.md "wikilink")}}
+
+{{/box-header|乐坛快讯|Portal:古典音乐/乐坛快讯|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/乐坛快讯/存档.md "wikilink")}}
+
+{{/box-header|名作选介|Portal:古典音乐/名曲选介|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/名曲选介/存档.md "wikilink")}}
+
+{{/box-header|音乐知识|Portal:古典音乐/音乐知识|}}
+{{/box-footer|[存档](../Page/Portal:古典音乐/音乐知识/存档.md "wikilink")}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+</div>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

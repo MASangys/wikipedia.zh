@@ -1,0 +1,32 @@
+**Syncthing**是一个[开源](../Page/开源.md "wikilink")<span dir="ltr" lang="zh">的</span>[文件同步客户端与服务器软件](../Page/文件同步.md "wikilink")，采用[Go语言编写](../Page/Go.md "wikilink")。它可以在本地网络上的设备之间或通过Internet在远程设备之间同步文件，使用了其独有的对等自由块交换协议。源代码托管在[GitHub上](../Page/GitHub.md "wikilink")\[1\]
+
+## 历史
+
+Syncthing于2013年12月30日首次公开其二进制版本（V0.2）。
+
+2014年10月，开发者决定将Syncthing重命名为“Pulse”\[2\]但在11月17日，开发商决定不变更Syncthing的名字，并不再与Ind.ie.工作。Ind.ie的“Pulse”现在是Syncthing官方认可的分支\[3\]
+
+## 媒体关注
+
+在2014年5月20日的Security Now节目中，主持人史蒂夫·吉布森称赞Syncthing是[BitTorrent
+Sync的一个潜在的](../Page/BitTorrent_Sync.md "wikilink")[开源替代品](../Page/开源.md "wikilink")。
+
+## 参见
+
+  - [BitTorrent Sync](../Page/BitTorrent_Sync.md "wikilink")
+
+  -
+## 引用
+
+## 外部链接
+
+  -
+[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
+[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink")
+[Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
+[Category:自由存储软件](https://zh.wikipedia.org/wiki/Category:自由存储软件 "wikilink")
+
+1.
+2.
+3.

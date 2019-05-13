@@ -1,0 +1,34 @@
+是[新好男孩於](../Page/新好男孩.md "wikilink")2007年的第一首單曲，收錄進專輯《[愛無敵](../Page/愛無敵.md "wikilink")》中。2007年8月27日在[美國發行后](../Page/美國.md "wikilink")，專輯立刻在各大音樂電台熱播。專輯由作曲家[伊曼紐爾·基利亞庫等人作曲](../Page/伊曼紐爾·基利亞庫.md "wikilink")，後者曾為[凱瑟琳·麥菲寫作](../Page/凱瑟琳·麥菲.md "wikilink")。值得一提的是，作曲者潔茜·凱特曾為新好男孩單曲作曲。9月29日，單曲進入了[Billboard
+百名榜](../Page/Billboard_百名榜.md "wikilink")，排名第86。單曲在[日本排名第](../Page/日本.md "wikilink")3，在[瑞士排名第](../Page/瑞士.md "wikilink")8。
+
+## 音樂錄影帶
+
+[BackstreetBoys_Inconsolable_video_2.jpg](https://zh.wikipedia.org/wiki/File:BackstreetBoys_Inconsolable_video_2.jpg "fig:BackstreetBoys_Inconsolable_video_2.jpg")
+單曲的錄影帶由[雷·凱伊導演](../Page/雷·凱伊.md "wikilink")，在[威尼斯沙灘拍攝](../Page/威尼斯沙灘.md "wikilink")。與前部錄影帶相同（唯一不同處在於[奇雲·理查森退出了組合](../Page/奇雲·理查森.md "wikilink")），這一部既有四人共同的場景，又有單獨的場景。他們的單獨場景分別是：[尼克·卡特在沙灘上](../Page/尼克·卡特.md "wikilink")；[布萊恩·利特爾在房子裡](../Page/布萊恩·利特爾.md "wikilink")；[A·J·麥克林在街上](../Page/A·J·麥克林.md "wikilink")，身旁是他的車；[豪兒·多羅夫倚在一堵牆上](../Page/豪兒·多羅夫.md "wikilink")。四人共同出現時，則在沙灘碼頭上。
+錄影帶開始，發生了[日食](../Page/日食.md "wikilink")，陽光被遮蔽。而在最後時，日食結束，四人抬頭看著太陽，整個城市也恢復了生機。
+
+錄影帶最早在[雅虎音樂上播放](../Page/雅虎音樂.md "wikilink")，於加拿大榜單上排名第4，總榜單第23。在[YouTube上](../Page/YouTube.md "wikilink")，他們視頻的播放次數達到300萬次。
+
+## 曲目
+
+### 德國版曲目
+
+1.  ，03:36
+
+2.  ，4:06
+
+### 日本版曲目
+
+1.
+2.
+## 官方混音
+
+1.
+2.
+3.
+## 外部連結
+
+  - [新好男孩官方網站](http://www.backstreetboys.com)
+  - <font lang=en>[Billboard](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003616603)</font>
+
+[Category:新好男孩歌曲](https://zh.wikipedia.org/wiki/Category:新好男孩歌曲 "wikilink")

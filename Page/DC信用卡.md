@@ -1,0 +1,37 @@
+**DC信用卡**（），是[三菱日聯日本信販股份有限公司轄下的](https://zh.wikipedia.org/wiki/三菱日聯日本信販股份有限公司 "wikilink")[信用卡品牌](../Page/信用卡.md "wikilink")。DC信用卡的前身是由方塊信用股份有限公司設立的「方塊信用卡」。1984年被三菱日聯日本信販股份有限公司吸收合併後，更名為「DC信用卡」至今。
+
+## 外部連結
+
+  - [三菱日聯日本信販股份](http://www.cr.mufg.jp/)
+  - DC信用卡集團各公司：
+      - [株式会社あしぎんディーシーカード](https://web.archive.org/web/20101213114908/http://www.ashigin-dc.jp/)
+      - [株式会社八十二ディーシーカード](http://www.82dc.co.jp/)
+      - [株式会社常陽クレジット](http://www.joyocredit.co.jp/)
+      - [株式会社十六ディーシーカード](https://web.archive.org/web/20111115174139/http://www.16dc.co.jp/)
+      - [京都クレジットサービス株式会社](http://www.kyotodc.co.jp/)
+      - [株式会社百十四ディーシーカード](http://www.114dc.co.jp/)
+      - [株式会社愛銀ディーシーカード](http://www.aigindc.co.jp/)
+      - [菱信ディーシーカード株式会社](http://www.ryoshindc.co.jp/)
+      - [株式会社百五ディーシーカード](http://www.105dc.co.jp/)
+      - [株式会社りゅうぎんディーシー](http://www.ryugindc.co.jp/)
+      - [株式会社滋賀ディーシーカード](http://www.shigadc.co.jp/)
+      - [あおぎんディーシーカード株式会社](https://web.archive.org/web/20111228075957/http://www.aogindc.co.jp/)
+      - [株式会社福井ディーシーカード](https://web.archive.org/web/20110908170800/http://www.fukuidc.co.jp/)
+      - [富山ファースト・ディーシー株式会社](http://www.toyamadc.co.jp/)
+      - [ひろぎんカードサービス株式会社](http://www.hirogincs.co.jp/)
+      - [株式会社いよぎんディーシーカード](http://www.iyogindc.co.jp/)
+      - [ちばぎんディーシーカード株式会社](http://www.chibagindc.co.jp/)
+      - [株式会社いわぎんディーシーカード](http://www.iwagindc.jp/)
+      - [株式会社札幌北洋カード](http://www.sapporohokuyocard.co.jp/)
+      - [第四ディーシーカード株式会社](http://www.daishidc.co.jp/)
+      - [株式会社ディーアイ](https://web.archive.org/web/20120120002618/http://www.ikedacard.co.jp/index_dc.html)
+      - [南都ディーシーカード株式会社](http://www.nantodc.co.jp/)
+      - [株式会社北都カードサービス](http://www.hokutocard.co.jp/)
+      - [株式会社やまぎんカード](http://www.yamagincard.co.jp/)
+      - [やまぎんカードサービス株式会社](http://www.yamagin-cs.co.jp/)
+      - [山梨中銀ディーシーカード株式会社](http://www.yamanashidc.co.jp/)
+      - [東京海上日動カードサービス株式会社](http://www.tmarinecard.co.jp/)
+      - [カッパ・たぬきホームページ](http://www.cr.mufg.jp/kappatanuki/)
+
+[Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
+[Category:DC信用卡](https://zh.wikipedia.org/wiki/Category:DC信用卡 "wikilink")

@@ -1,0 +1,85 @@
+**NovaThor**一个整合了[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（Soc）和调制解调器的移动芯片组系列，该芯片组由[ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")（意法爱立信）研发制造，针对[智能手机和](../Page/智能手机.md "wikilink")[平板电脑平台](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。意法爱立信于2009年2月3日由[爱立信和](https://zh.wikipedia.org/wiki/爱立信 "wikilink")[意法半导体各注资](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")50%股份组建而成。意法爱立信同时还销售SoCs（Nova）和调制解调器（Thor）。\[1\]
+
+2011年11月2月，[诺基亚公司曾宣布意法爱立信的NovaThor芯片组将被使用在诺基亚的](../Page/诺基亚.md "wikilink")[Windows
+Phone系列手机上](../Page/Windows_Phone.md "wikilink")，以便从其他品牌生产的众多使用了[高通](../Page/高通.md "wikilink")[Snapdragon处理器的Windows](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
+Phone手机中区分开来，构成差异化。但随后该计划被取消，原因是[微软要求Windows](../Page/微软.md "wikilink")
+Phone手机必须使用高通处理器。\[2\]
+
+2012年2月28日，意法爱立信宣布他们将会把旗下的芯片组全部转换为用[绝缘体上硅](https://zh.wikipedia.org/wiki/绝缘体上硅 "wikilink")
+(FD-SOI)来制造，该半导体原料将比其他竞争对手生产的普通硅半导体芯片组更快、散热更好、更加省电，而该新芯片组U8540将会发布。在等同情况下，采用该材料制造的新芯片组U8540将比采用普通硅制造的L8540省电35%。\[3\]
+
+## Nova（霜星）和NovaThor[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")
+
+| 芯片组型号                | [制造工艺](https://zh.wikipedia.org/wiki/制造工艺 "wikilink")          | 处理器指令集 | CPU（处理器）                                                                             | GPU（显示芯片）                                                        | 缓存                   | 支持网络                                                           | 发布时间 | 已使用的设备                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------- | -------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | -------------------- | -------------------------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NovaThor U5500 \[4\] | [45 nm](https://zh.wikipedia.org/wiki/45_nanometer "wikilink") | ARMv7  | 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")           | ARM [Mali 400 MP](../Page/Mali_\(GPU\).md "wikilink") (单核)       | LP-DDR2              | EDGE, HSPA+                                                    | 2011 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| NovaThor U8500 \[5\] | 45 nm                                                          | ARMv7  | 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")           | ARM [Mali 400 MP](../Page/Mali_\(GPU\).md "wikilink") (单核)       | LP-DDR2              | HSPA                                                           | 2011 | [Sony Xperia P](../Page/Sony_Xperia_P.md "wikilink"),\[6\] [Sony Xperia U](https://zh.wikipedia.org/wiki/Sony_Xperia_U "wikilink"), [Sony Xperia sola](https://zh.wikipedia.org/wiki/Sony_Xperia_sola "wikilink"), [Sony Xperia go](https://zh.wikipedia.org/wiki/Sony_Xperia_go "wikilink"), [Samsung Galaxy Ace 2](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Ace_2 "wikilink"), [Samsung Galaxy Beam](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Beam "wikilink"), [Samsung Galaxy S Advance](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_Advance "wikilink"),\[7\] [Ontim WP8500](https://zh.wikipedia.org/wiki/Ontim_WP8500 "wikilink"),\[8\] |
+| NovaThor U9500 \[9\] | 45 nm                                                          | ARMv7  | 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")           | ARM [Mali 400 MP](../Page/Mali_\(GPU\).md "wikilink") (单核)       | LP-DDR2              | GSM/EDGE, WCDMA/HSPA+ (HSDPA 21 Mbit/s, HSUPA 5.76 Mbit/s)     | 2011 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Nova A9500\[10\]     | 45 nm                                                          | ARMv7  | 1.2 GHz 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")   | ARM [Mali 400 MP](../Page/Mali_\(GPU\).md "wikilink") (单核)       | LP-DDR2              | None                                                           | 2011 | [HTC Sensation](../Page/HTC_Sensation.md "wikilink") Z710T (China)\[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Nova A9540\[12\]     | 28 nm                                                          | ARMv7  | 1.85 GHz 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")  | [PowerVR](../Page/PowerVR.md "wikilink") SGX 544                 | Dual-channel LP-DDR2 | None                                                           | 2012 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Nova A9600\[13\]     | 28 nm                                                          | ARMv7  | 2.5 GHz 双核 [ARM Cortex-A15](https://zh.wikipedia.org/wiki/ARM_Cortex-A15 "wikilink") | [PowerVR](../Page/PowerVR.md "wikilink") Series6 (Rogue)         |                      | None                                                           | 2012 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| NovaThor L8540\[14\] | 28 nm                                                          | ARMv7  | 1.85 GHz 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")  | [PowerVR](../Page/PowerVR.md "wikilink") SGX 544 @ 500 MHz\[15\] | 双通道 LP-DDR2          | LTE FDD/TDD, HSPA+, TD-SCDMA, EDGE (integrated modem)          | 2013 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| NovaThor L9540\[16\] | 28 nm                                                          | ARMv7  | 1.85 GHz 双核 [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM_Cortex-A9 "wikilink")  | [PowerVR](../Page/PowerVR.md "wikilink") SGX 544                 | 双通道 LP-DDR2          | LTE FDD/TDD, HSPA+, TD-SCDMA, EDGE (external Thor M7400 modem) | 2013 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+## 注釋
+
+<references />
+
+## 外部链接
+
+  - [Page on ST-Ericsson website about
+    NovaThor.](https://web.archive.org/web/20120303145708/http://www.stericsson.com/products/smartphone-platforms.jsp)
+
+[Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
+[Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
+
+1.  [NOVA TM - Highest performance application
+    processors](http://stericsson.com/products/application_processors.jsp)
+
+
+2.  [ST-Ericsson's NovaThor to power Nokia's Windows Phone devices,
+    loosens Qualcomm's grip -
+    Engadget](http://www.engadget.com/2011/11/02/st-ericssons-novathor-to-power-nokias-windows-phone-devices-l/)
+
+3.  [AnandTech - ST-E Will Have FD-SOI Based U8540: 35% Lower Power,
+    Much Higher
+    Frequencies](http://www.anandtech.com/show/5600/ste-will-have-fdsoi-based-u8540-35-lower-power-much-higher-frequencies)
+
+4.  [NovaThor U5500 Product Webpage; ST
+    Ericsson.](http://www.stericsson.com/products/u5500-smartphone.jsp)
+
+5.  [NovaThor U8500 Product Webpage; ST
+    Ericsson.](http://www.stericsson.com/products/u8500-novathor.jsp)
+
+6.  [Specifications - Sony Smartphones (Global UK
+    English)](http://www.sonymobile.com/global-en/products/phones/xperia-p/specifications/)
+
+7.  [ST-Ericsson NovaThor U8500 powers new Samsung GALAXY S
+    Advance](http://www.stericsson.com/press_releases/Samsung_galaxy_U8500.jsp)
+
+8.  [ST-Ericsson NovaThor U8500 powers new tablet from
+    Ontim](http://www.stericsson.com/press_releases/ontim_u8500.jsp)
+
+9.  [NovaThor U9500 Product Webpage; ST
+    Ericsson.](http://www.stericsson.com/products/u9500-novathor.jsp)
+
+10. [Changing the game: ST-Ericsson Unveils NovaThor™ Family of
+    Smartphone Platforms Combining its Most Advanced Application
+    Processors with the Latest Generation of
+    Modems](http://www.stericsson.com/press_releases/NovaThor.jsp)
+
+11. [Powerful New ST-Ericsson Platform makes Debut in HTC
+    Sensation](http://www.stericsson.com/press_releases/HTC_sensation.jsp)
+
+
+12. [Nova™ A9540](http://www.stericsson.com/products/a9540-nova.jsp)
+
+13.
+14. [NOVATHOR™ L8540](http://www.stericsson.com/products/L8540.jsp)
+
+15. [ST-Ericsson announces new highly integrated LTE NovaThor
+    platform](http://www.stericsson.com/press_releases/L8540-novathor.jsp)
+
+
+16. [NOVATHOR™
+    L9540](http://www.stericsson.com/products/L9540-novathor.jsp)

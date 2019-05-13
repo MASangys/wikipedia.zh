@@ -1,0 +1,14 @@
+《》（参考译名《仅此而已？》）是美国摇滚乐队[鼓擊樂團的首张录音室专辑](../Page/鼓擊樂團.md "wikilink")，最早于2001年7月30日由[RCA唱片在澳大利亚发行](../Page/RCA唱片.md "wikilink")。该专辑的录制地点为[纽约市运输者录音室](../Page/纽约市.md "wikilink")（），制作人为。它以第2名的名次进入[英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")，在美国[公告牌二百强专辑榜上最高达到第](../Page/公告牌二百强专辑榜.md "wikilink")33位，在数个市场获得[白金认证](../Page/音乐唱片销售认证.md "wikilink")。专辑中歌曲《》、《》和《》以[单曲形式发行](../Page/单曲.md "wikilink")。
+
+## 外部链接
+
+  - [*Is This It*](http://last.fm/music/The+Strokes/Is+This+It) at
+    [Last.fm](../Page/Last.fm.md "wikilink")
+  - [*Is This It*
+    lyrics](https://web.archive.org/web/20091224153314/http://www.mtv.com/music/artist/strokes/albums.jhtml?albumId=299203)
+    at [MTV](../Page/MTV.md "wikilink")
+  - [*Is This It* critical
+    reviews](http://www.metacritic.com/music/is-this-it) at
+    [Metacritic](../Page/Metacritic.md "wikilink")
+
+[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")

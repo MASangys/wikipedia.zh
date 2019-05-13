@@ -1,0 +1,94 @@
+**OpenCV**的全称是Open Source Computer Vision
+Library，是一个跨平台的[计算机视觉库](../Page/计算机视觉.md "wikilink")。OpenCV是由[英特尔公司发起并参与开发](../Page/英特尔.md "wikilink")，以[BSD许可证授权发行](../Page/BSD许可证.md "wikilink")，可以在商业和研究领域中免费使用。OpenCV可用于开发实时的[图像处理](../Page/图像处理.md "wikilink")、[计算机视觉以及](../Page/计算机视觉.md "wikilink")[模式识别程序](../Page/模式识别.md "wikilink")。该程序库也可以使用英特尔公司的[IPP进行加速处理](../Page/集成性能基元.md "wikilink")。
+
+## 历史
+
+OpenCV项目最早由英特尔公司于1999年启动，致力于CPU密集型的任务，是一个包括如[光线追踪和](../Page/光线追踪.md "wikilink")[3D显示的计划的一部分](../Page/3D显示.md "wikilink")。早期OpenCV的主要目标是
+
+>   - 为推进机器视觉的研究，提供一套开源且优化的基础库。不[重造轮子](../Page/重造轮子.md "wikilink")。
+>
+> <!-- end list -->
+>
+>   - 提供一个共同的基础库，使得开发人员的代码更容易阅读和转让，促进了知识的传播。
+>
+> <!-- end list -->
+>
+>   - 通过提供一个不需要开源或免费的软件许可，促进商业应用软件的开发。
+>
+> <!-- end list -->
+>
+>   - OpenCV现在也集成了对[CUDA的支持](../Page/CUDA.md "wikilink").
+
+OpenCV的第一个[预览版本于](../Page/軟件版本週期.md "wikilink")2000年在[IEEE Conference on
+Computer Vision and Pattern
+Recognition公开](../Page/Conference_on_Computer_Vision_and_Pattern_Recognition.md "wikilink")，并且后续提供了五个[测试版本](../Page/测试版本.md "wikilink")。1.0版本于2006年发布。
+
+OpenCV的第二个主要版本是2009年10月的OpenCV
+2.0。该版本的主要更新包括[C++接口](../Page/C++.md "wikilink")，更容易、更类型安全的模式，新的函数，以及对现有实现的优化（特别是多核心方面）。现在每6个月就会有一个官方版本\[1\]，并由一个商业公司赞助的独立小组进行开发。
+
+在2012年8月，OpenCV的支持由一个非盈利性组织（OpenCV.org）来提供，并保留了一个开发者网站\[2\]和用户网站。\[3\]
+
+## 应用领域
+
+OpenCV可用于解决如下领域的问题：
+
+  - [增强现实](../Page/增强现实.md "wikilink")
+  - [人脸识别](../Page/人脸识别.md "wikilink")
+  - [手势识别](../Page/手势识别.md "wikilink")
+  - [人机交互](../Page/人机交互.md "wikilink")
+  - [动作识别](../Page/动作识别.md "wikilink")
+  - [运动跟踪](../Page/运动跟踪.md "wikilink")
+  - [物体识别](../Page/物体识别.md "wikilink")
+  - [图像分割](../Page/图像分割.md "wikilink")
+  - [机器人](../Page/机器人.md "wikilink")
+
+## 编程语言
+
+OpenCV用[C++语言编写](../Page/C++.md "wikilink")，它的主要接口也是C++语言，但是依然保留了大量的[C语言接口](../Page/C语言.md "wikilink")。该库也有大量的[Python](../Page/Python.md "wikilink"),
+[Java](../Page/Java.md "wikilink") and
+[MATLAB](../Page/MATLAB.md "wikilink")/[OCTAVE](../Page/GNU_Octave.md "wikilink")
+(版本2.5)的接口。这些语言的API接口函数可以通过在线文档获得。\[4\]现在也提供对于[C\#](../Page/C_Sharp_\(programming_language\).md "wikilink"),
+[Ch](../Page/Ch_\(computer_programming\).md "wikilink"),\[5\]
+[Ruby的支持](../Page/Ruby.md "wikilink")。
+
+所有新的开发和算法都是用C++接口。一个使用[CUDA的](../Page/CUDA.md "wikilink")[GPU接口也于](../Page/圖形處理器.md "wikilink")2010年9月开始实现.\[6\]
+
+## 操作系统支持
+
+OpenCV可以在[Windows](../Page/Microsoft_Windows.md "wikilink"),
+[Android](../Page/Android.md "wikilink"),\[7\]
+[Maemo](../Page/Maemo.md "wikilink"),\[8\]
+[FreeBSD](../Page/FreeBSD.md "wikilink"),
+[OpenBSD](../Page/OpenBSD.md "wikilink"),
+[iOS](../Page/iOS.md "wikilink"),\[9\]
+[Linux和](../Page/Linux.md "wikilink")[Mac
+OS等平台上运行](../Page/Mac_OS.md "wikilink")。使用者可以在[Github获得官方版本](../Page/Github.md "wikilink")，或者从[Git获得开发版本](../Page/Git.md "wikilink")。OpenCV也是用[CMake](../Page/CMake.md "wikilink").
+
+### Windows -{zh:操作系统要求;zh-hans:操作系统要求;zh-hant:作業系統需求;zh-tw:作業系統需求;zh-hk:作業系統需求;zh-mo:作業系統需求;}-
+
+在Windows上编译OpenCV中与摄像输入有关部分时，需要[DirectShow](../Page/DirectShow.md "wikilink")
+SDK中的一些基类。该SDK可以从预先编译的[Microsoft Platform
+SDK](../Page/Microsoft_Platform_SDK.md "wikilink") (or DirectX SDK 8.0
+to 9.0c / DirectX Media SDK prior to
+6.0)的子目录*Samples\\Multimedia\\DirectShow\\BaseClasses*获得。
+
+## 参考文献
+
+## 外部链接
+
+  -
+  - [OpenCV中文网站 和 中文wiki](http://www.opencv.org.cn/)
+
+[Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")
+
+1.  OpenCV change logs:
+2.  OpenCV Developer Site: <http://code.opencv.org>
+3.  OpenCV User Site: <http://opencv.org/>
+4.  OpenCV C interface: <http://docs.opencv.org>
+5.  Ch OpenCV:
+    <http://www.softintegration.com/products/thirdparty/opencv/>
+6.  Cuda GPU port: <http://opencv.org/platforms/cuda.html>
+7.  Android port:
+8.  Maemo port: <https://garage.maemo.org/projects/opencv>
+9.  iPhone port:
+    <http://www.eosgarden.com/en/opensource/opencv-ios/overview/>

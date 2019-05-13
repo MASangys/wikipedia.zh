@@ -1,0 +1,277 @@
+[Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png](https://zh.wikipedia.org/wiki/File:Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png "fig:Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png")
+3桌面上运行docky\]\]
+[Debian_7.3_(wheezy)_amd64_with_GNOME_3.4.2.png](https://zh.wikipedia.org/wiki/File:Debian_7.3_\(wheezy\)_amd64_with_GNOME_3.4.2.png "fig:Debian_7.3_(wheezy)_amd64_with_GNOME_3.4.2.png")
+3.4.2的Debian 7\]\]
+
+**Debian**（\[1\]）是完全由自由軟件組成的[类UNIX](../Page/类UNIX.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，其包含的多数软件使用[GNU通用公共许可协议授權](../Page/GNU通用公共许可协议.md "wikilink")，并由Debian计划的参与者组成团队对其进行打包、开发与维护。
+
+Debian計畫最初由[伊恩·默多克于](../Page/伊恩·默多克.md "wikilink")1993年发起，Debian
+0.01版在1993年9月15日发布\[2\]，而其第一个稳定版本则在1996年发布。\[3\]
+
+该计划的具体工作在互联网上协调完成，由[Debian计划领导人带领一个志愿者团队开展工作](../Page/Debian计划领导人.md "wikilink")，并以三份奠基性质的文档作为工作指导：、Debian宪章和[Debian自由软件指导方针](../Page/Debian自由软件指导方针.md "wikilink")。操作系统版本定期进行更新，候选发布版本将在经历过一定时间的之后进行发布。
+
+作为最早的[Linux发行版之一](../Page/Linux发行版.md "wikilink")，Debian在建立之初便被定位为在[GNU计划的精神指导下进行公开开发并自由发布的项目](../Page/GNU计划.md "wikilink")。该决定吸引[自由软件基金会的注意与支持](../Page/自由软件基金会.md "wikilink")，他们为该项目提供从1994年11月至1995年11月为期一年的赞助。\[4\]赞助终止后，Debian计划创立非营利机构以提供-{支持}-并令其持有Debian[商标作为保护機構](../Page/商标.md "wikilink")。Debian也接受世界多个[非营利组织的资金支持](../Page/非营利组织.md "wikilink")。
+
+## 特色
+
+Debian以其堅守[Unix和](../Page/Unix.md "wikilink")[自由軟體的精神](../Page/自由軟體.md "wikilink")，以及其給予-{zh-hant:用家;zh-hans:用户;zh-tw:使用者}-的眾多選擇而聞名。現時Debian提供了超過25,000個软件\[5\]，超过50,000个软件包\[6\]，並正式支援10個[计算机系统结构](../Page/计算机系统结构.md "wikilink")。\[7\]
+
+作为一個大的系統組織框架，Debian旗下有多種不同作業系統核心的分支計劃，主要为採用[Linux核心的Debian](../Page/Linux核心.md "wikilink")
+GNU/Linux系統，其他还有採用[GNU Hurd核心的](../Page/GNU_Hurd.md "wikilink")[Debian
+GNU/Hurd系統](../Page/Debian_GNU/Hurd.md "wikilink")、採用[FreeBSD核心的](../Page/FreeBSD.md "wikilink")[Debian
+GNU/kFreeBSD系統等](../Page/Debian_GNU/kFreeBSD.md "wikilink")。眾多知名的Linux發行版，例如[Ubuntu](../Page/Ubuntu.md "wikilink")、[Knoppix和](../Page/Knoppix.md "wikilink")[Deepin](../Page/Deepin.md "wikilink")，也都建基於Debian
+GNU/Linux。
+
+## 歷史
+
+Debian於1993年8月16日由一名美國[普渡大學學生](../Page/普渡大學.md "wikilink")[伊恩·默多克](../Page/伊恩·默多克.md "wikilink")（）首次發表。[伊恩·默多克最初把他的系統稱為](../Page/伊恩·默多克.md "wikilink")“”。\[8\]
+在定義文件中，[伊恩·默多克宣佈將以](../Page/伊恩·默多克.md "wikilink")[開源的方式](../Page/開源.md "wikilink")，本著Linux及GNU的精神發行一套GNU/Linux發行版。Debian的名稱是由他當時的女友（現在為其前妻\[9\]）和自己的名字合併而成的，所以Debian一詞是根據這兩個名字在[美國英語的發音而讀作](../Page/美國英語.md "wikilink")。\[10\]
+
+Debian計畫最初發展緩慢，在1994年和1995年分別發佈了0.9x版本；1.x版本則在1996年發佈。1996年，[布鲁斯·佩伦斯接替了伊恩](../Page/布鲁斯·佩伦斯.md "wikilink")·默多克成為了Debian計畫的領導者。同年，一名開發者提議Debian應在其計畫與使用者之間建立一份[社群契約](../Page/社群契約.md "wikilink")。經過討論，布鲁斯·佩伦斯發表了及[Debian自由软件指导方针](../Page/Debian自由软件指导方针.md "wikilink")，定義了開發Debian的基本承諾。
+
+1998年在建基於[GNU C运行期库的Debian](../Page/GNU_C运行期库.md "wikilink")
+2.0發佈之前，布鲁斯·佩伦斯離開了Debian的開發工作。Debian開始選出新的領導者，並發佈了另外兩個2.x版本，包含了更多接口和軟體包。[APT和第一個非Linux接口](../Page/APT.md "wikilink")—[Debian
+GNU/Hurd的開發也展開](../Page/Debian_GNU/Hurd.md "wikilink")。第一個建基於Debian的Linux發行版[Corel
+Linux和](../Page/Corel_Linux.md "wikilink")的Storm
+Linux在1999年開始開發。儘管未能成功開發，這兩個發行版成為了建基於Debian的Linux發行版的先驅。
+
+在2000年後半年，Debian對資料庫和發佈的管理作出了重大的改變，它重組了收集軟體的過程，並創造了“測試”（）版本作為較穩定的對下一個發佈的演示。同年，Debian的開發者開始舉辦名為的年會，為其開發者和技術用家提供講座和工作坊。\[11\]
+
+## 開發版本
+
+[Openlogo-debianV2.svg](https://zh.wikipedia.org/wiki/File:Openlogo-debianV2.svg "fig:Openlogo-debianV2.svg")
+
+正在開發中的軟體會被上載到名為“不穩定”（，代號）和“實驗性”（）的計畫分支上。上載至“不穩定”分支上的軟體通常是由軟體的原開發者發佈的穩定版本，但包含了一些未經測試的Debian內部的修改（例如軟體的打包）。而未達到“不穩定”分支要求的軟體會被置於“實驗性”分支。
+
+一套軟體在置於“不穩定”分支一段時間後（關乎軟體修改的緊急性），該軟體會自動被移至“測試”分支。但如果軟體有嚴重錯誤被報告，或其所依存的軟體未合乎“測試”分支的要求，該軟體則不會被移至“測試”分支。
+
+因為Debian官方發佈的正式版本並不包含新的特色，一些桌面用户會選擇安裝“測試”甚至“不穩定”分支。但是這兩個分支所進行的測試比穩定版本少些，可能較不穩定；而且這兩個分支並沒有定時的安全更新。\[12\]
+更甚者，軟體不當地升級至不穩定的版本可能嚴重影響其運用。
+
+當在“測試”分支中的軟體Bug總數低於一特定數量後，“測試”分支會成為下一個穩定版本。
+
+## 軟體管理
+
+[Debianaptget.jpg](https://zh.wikipedia.org/wiki/File:Debianaptget.jpg "fig:Debianaptget.jpg")
+
+Debian带来了数万个软件包。为了方便用户使用，这些软件包都已经被编译包装为一种方便的格式，开发人员把它叫做[deb包](../Page/deb.md "wikilink")。
+
+Debian系统中，[软件包管理可由多种工具协作进行](../Page/软件包管理系统.md "wikilink")，范围从最底层的命令直到图形界面的工具。推荐在Debian系统中管理软件包的标准工具是工具集。\[13\]
+
+[dpkg是Debian中软件包管理的低级别基础工具](../Page/dpkg.md "wikilink")。\[14\]命令行工具并不知晓软件源的配置，其数据库仅存储已安装在当前系统中的软件包的信息。该工具可以操作本地[.deb软件包及dpkg数据库内的信息](../Page/Deb.md "wikilink")。
+
+### APT 工具
+
+[高级包装工具](../Page/高级包装工具.md "wikilink")（APT）提供了管理Debian系统软件的功能，且可以从获取并解析软件包[依赖](../Page/耦合性_\(计算机科学\).md "wikilink")。APT工具之间共享依赖信息和软件包缓存。\[15\]
+
+  - [Aptitude是一个](../Page/Aptitude.md "wikilink")[命令行工具](../Page/CLI.md "wikilink")，它同时提供一个。该程序提供了一些改进功能，例如对软件包[元信息的增强搜索](../Page/元数据.md "wikilink")。\[16\]
+
+  - 和等命令是标准[apt软件包中的命令行工具](../Page/APT.md "wikilink")。用于安装和删除软件包，用于搜索软件包及显示软件包信息。\[17\]
+
+  - 新版[apt软件包提供了](../Page/APT.md "wikilink")命令作为面向用户使用的工具。与传统和相比，它提供了进度条显示、彩色字符支持等用户友好的新功能。\[18\]
+
+## 非Linux内核版本
+
+### Hurd
+
+把Debian移植至其他内核的工作正在进行，最主要的就是[Hurd](../Page/Hurd.md "wikilink")。Hurd是一组在微内核（例如
+Mach）上运行的[服务器](../Page/服务器.md "wikilink")，它们可以提供各种不同的功能。Hurd是由[GNU计划所设计的自由软件](../Page/GNU.md "wikilink")。\[19\]
+
+这份操作系统中的大部分的基本工具来自于[GNU计划](../Page/GNU.md "wikilink")；因此把它们命名为GNU/Linux和GNU/Hurd。这些工具同样都是自由的。
+
+### BSD
+
+Debian有基于[FreeBSD内核的版本](../Page/FreeBSD.md "wikilink")。这是 Debian
+的一个子计划，叫做 [Debian
+GNU/kFreeBSD](../Page/Debian_GNU/kFreeBSD.md "wikilink")。因其整体质量尚未达到发布标准，现在仍然处于开发状态中。
+
+Debian另外曾有基于[NetBSD内核的计划](../Page/NetBSD.md "wikilink")，称为 [Debian
+GNU/NetBSD](../Page/Debian_GNU/NetBSD.md "wikilink")，但现在计划已经停止。\[20\]
+
+## 发行版本
+
+Debian主要分三个版本：稳定版本（stable）、测试版本（testing）、不稳定版本（unstable）。
+
+目前的稳定版本为Debian Stretch，上一个稳定版本是 Jessie，不稳定版本永远为[Debian
+sid](../Page/Debian_sid.md "wikilink")。到目前為止所有開發代號均出自[Pixar的電影](../Page/Pixar.md "wikilink")[-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-](../Page/玩具总动员.md "wikilink")。
+
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+
+### Debian sid
+
+Debian sid也称为Debian
+unstable，即不稳定版本，凡是Debian要收录的软件都必须首先放在这个版本里面进行测试，等到足够稳定以后会放到testing版本里面。
+
+### 生命周期
+
+Debian
+稳定版通常每隔两年发布一个版本，自发行后会得到为期约三年的正式支持，期间会不定期得到小版本更新与持续的安全更新以修复发现的重要问题。\[21\]
+
+自Debian
+6开始，Debian开始了长期支持计划，在每个稳定版三年支持期结束后由长期支持团队提供额外的两年安全更新支持，但不会发布小版本。故目前的稳定版可以得到总计五年的安全更新支持。\[22\]
+
+## 使用領域
+
+Debian以穩定性聞名，所以很多[伺服器都使用Debian作為其作業系統](../Page/伺服器.md "wikilink")；而很多Linux的[LiveCD亦以Debian為基礎改寫](../Page/LiveCD.md "wikilink")，最為著名的例子為[Knoppix](../Page/Knoppix.md "wikilink")。而在桌面領域，Debian的一個修改版[Ubuntu
+Linux就獲得了很多Linux使用者的支持](../Page/Ubuntu.md "wikilink")，在
+[DistroWatch.com瀏覽排名](https://web.archive.org/web/20160601200956/http://distrowatch.com/)
+裡排名一直很前面。而很多信息學競賽亦採用Debian作為操作系统\[23\]。
+
+對比[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[CentOS等Linux發行版](../Page/CentOS.md "wikilink")，Debian
+stable（稳定版）以三年为更新周期，
+
+## 评价
+
+### 支持者的意見
+
+很多Debian的支持者認為，因為Debian
+Project独立运作，不帶有任何商業性質，不依附任何商業公司或者机构，使得它能夠有效地堅守其信奉的自由理念和风格。因为Debian不受任何商业公司或者机构控制，所以它不會發生為了某些商業上的利益而犧牲使用者的權益，也不會因為公司經營不善或者商业模式转换等变化而導致開發作業终止。而這些特色使得Debian在眾多的[GNU/Linux的發行套件中獨樹一幟](../Page/GNU/Linux.md "wikilink")。
+
+Debian對[GNU和](../Page/GNU.md "wikilink")[UNIX精神的堅持](../Page/UNIX.md "wikilink")，也獲得開源社区和[自由软件或](../Page/自由软件.md "wikilink")[开源软件信奉者的支持](../Page/开源软件.md "wikilink")。
+
+支持者的其他评价如下：
+
+  - Debian是精簡的Linux發行版，有著乾淨的作業環境。
+  - 安裝步驟簡易有效，大部分情况下只要<Enter>、<Enter>一直按下去便可以順利安裝。
+  - 擁有方便高效的软体套件管理程式和[deb软体包](../Page/deb.md "wikilink")，可以讓使用者容易的尋找、安裝、移除、更新程式，或系統升级。
+  - 健全的軟體管理制度，包括了Bug匯報、套件維護人等制度，讓Debian所收集的軟體品質在其它的Linux發行套件之上。
+  - 擁有龐大的套件庫，令使用者只需通過其自身所帶的軟體管理系統便可下載並安裝套件，不必再在網路上尋找。
+  - 套件庫分類清楚，使用者可以明確地選擇安裝[自由軟體](../Page/自由軟體.md "wikilink")、[半自由軟體或](../Page/半自由軟體.md "wikilink")[閉源軟體](../Page/閉源軟體.md "wikilink")。
+
+### 批評
+
+其中一個對Debian的技術性批評是，因為Debian的發行週期較長，穩定版本的套件可能已經過時。由於Debian很大程度上是為“不動的”平台（例如伺服器和用於開發的機器）設計，而這些平台只需要安全性的更新，Debian的支持者一般這樣回應批評：
+
+  - Debian擁有一些支援較舊版本套件的套件庫，例如 [backports.org](http://www.backports.org/)
+    和
+    [apt-get.org](https://web.archive.org/web/20140211162509/http://www.apt-get.org/)
+    的套件庫。但有時候這些套件在更新的時候未能很好地融合在系統中。
+  - Debian的“測試”分支常包含了一些其實已經相當穩定的、已更新的套件。但當新的穩定版本發佈後，“測試”分支可能變得混亂。
+
+另一個批評是一些軟體和文件因為未符合Debian對自由軟體的嚴格要求，並未出現在Debian的官方套件庫中，[mplayer曾经沒有被加入為Debian的套件](../Page/mplayer.md "wikilink")。\[24\]
+另外也有人批評Debian把一些專有軟體放到“非自由”套件庫，而非完全把這些軟體拒諸門外。相似地，Debian曾把自由與非自由的套件同時放在其“主要”（）套件庫內，但現在已把非自由的軟體，例如專有的驅動程序，分置於不同的套件庫。
+
+Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策過程也被無止境的討論拖延。在2006年9月，同時正參與[Ubuntu開發的Debian開發者](../Page/Ubuntu.md "wikilink")離開了Debian，並批評Debian對開發者太不客氣。\[25\]
+
+## 衍生Linux發行版
+
+  - ——[LiveCD及Debian安裝程式](../Page/LiveCD.md "wikilink")。
+
+  - [Knoppix](../Page/Knoppix.md "wikilink")——LiveCD，同時亦有數個分支，包括Morphix、、[Whoppix及Xfld](../Page/Whoppix.md "wikilink")。
+
+  - [Stanix](http://stanix.sf.net)——介面像[微軟](../Page/微軟.md "wikilink")[Windows的LiveCD](../Page/Windows.md "wikilink")。
+
+  - ——目標是作為更易設定的發行版。
+
+  - [MEPIS](../Page/MEPIS.md "wikilink")——建基於[KDE桌面環境](../Page/KDE.md "wikilink")，以新手為目標的發行版。
+
+  - [CoLinux](../Page/CoLinux.md "wikilink")——將Debian融於[Windows的發行版](../Page/Windows.md "wikilink")。
+
+  - [Ubuntu](../Page/Ubuntu.md "wikilink")——建基於[Unity桌面環境的發行版](../Page/Unity_\(使用者介面\).md "wikilink")。其亦有不同的分支，而幾乎每一個分支都有LiveCD（LiveCD也提供安装的功能）。
+
+  - [Deepin](../Page/Deepin.md "wikilink")——深度操作系统，由中国[武汉深之度科技有限公司开发的国产操作系统](../Page/武汉深之度科技有限公司.md "wikilink")，以其特色应用与特色桌面环境（DDE）闻名。
+
+  - [Xandros](../Page/Xandros.md "wikilink")——[Corel
+    Linux的商業支援版本](../Page/Corel_Linux.md "wikilink")。
+
+  - [Linux Mint Debian
+    Edition](../Page/Linux_Mint_Debian_Edition.md "wikilink")——基于的滚动更新版本。有分别使用[MATE和](../Page/MATE.md "wikilink")[Cinnamon作为默认桌面环境的两个版本](../Page/Cinnamon.md "wikilink")。
+
+  - [B2D/OB2D Linux](http://b2d-linux.com)——OB2D XFCE 伺服器版本，以及 B2D 2018
+    桌面版，採用快速安裝介面，只要5\~15分鐘即可完成安裝。
+
+## 参见
+
+  - [Linux發行版列表](../Page/Linux發行版列表.md "wikilink")
+  - [Linux發行版比較](../Page/Linux發行版比較.md "wikilink")
+
+## 参考文献
+
+## 外部链接
+
+  -
+  - [Debian Wiki](https://wiki.debian.org/)
+
+  -
+  -
+{{-}}
+
+[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
+[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
+[Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.  Murdock, Ian A，1993年8月16日，[New release under development;
+    suggestions
+    requested](http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain)
+
+9.  ["Fort Wayne News-Sentinel" Divorce
+    Listing](http://www.news-sentinel.com/apps/pbcs.dll/article?aid=/se/20070905/news01/709050331)
+
+
+10. Debian網站，[About Debian](http://www.debian.org/intro/about)
+
+11. Debian文件組，2006年10月7日，[A Brief History of
+    Debian](http://www.debian.org/doc/manuals/project-history/)
+
+12. <http://www.debian.org/security/faq#testing>
+
+13.
+
+14.
+
+15.
+16.
+17.
+18.
+
+19.
+
+20.
+21.
+
+22.
+
+23. [IOI: All contest machines will be installed to dual-boot in Windows
+    XP and Debian
+    GNU/Linux 3.1.](http://ioinformatics.org/locations/ioi05/contest/rules.shtml)
+
+24. Debian網站，2006年11月1日，[The Debian and mplayer
+    FAQ](http://people.debian.org/~mjr/legal/mplayer.html)
+
+25. [Maintainer's resignation highlights problems in Debian
+    project](http://www.linux.com/article.pl?sid=06/09/01/149211)

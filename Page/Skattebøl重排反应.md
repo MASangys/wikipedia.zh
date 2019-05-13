@@ -1,0 +1,37 @@
+**Skattebøl重排反应**（Skattebøl
+rearrangement），又作**Skattebol重排反应**，以挪威[奥斯陆大学名誉教授](../Page/奥斯陆大学.md "wikilink")
+Lars Skattebøl 的名字命名。
+
+[偕](../Page/偕.md "wikilink")[二卤代](../Page/卤代烃.md "wikilink")[环丙烷在](../Page/环丙烷.md "wikilink")[有机锂试剂处理之下](../Page/有机锂试剂.md "wikilink")，经过[卡宾中间体](../Page/卡宾.md "wikilink")，转化为[累积二烯](../Page/累积二烯.md "wikilink")。\[1\]
+
+
+[Skattebøl_rearrangement_general.png](https://zh.wikipedia.org/wiki/File:Skattebøl_rearrangement_general.png "fig:Skattebøl_rearrangement_general.png")
+
+## 变体
+
+当底物的环丙烷为2-乙烯基取代时，反应经过一个foiled carbene
+中间体（因双键而得到稳定），最终产物是[环戊二烯衍生物](../Page/环戊二烯.md "wikilink")。\[2\]\[3\]
+
+
+[Skattebøl_rearrangement.png](https://zh.wikipedia.org/wiki/File:Skattebøl_rearrangement.png "fig:Skattebøl_rearrangement.png")
+
+## 参见
+
+  - [化学反应列表](../Page/化学反应列表.md "wikilink")
+
+## 参考资料
+
+<div class="references-small">
+
+<references/>
+
+</div>
+
+[Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink")
+[Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
+
+1.
+2.
+3.  Leo A. Paquette and Mark L. McLaughlin [Organic
+    Syntheses](../Page/Organic_Syntheses.md "wikilink"), CV 8, 223
+    [Link](http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv8p0223)

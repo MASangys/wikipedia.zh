@@ -1,0 +1,86 @@
+__NOTOC__ [三國專題](../Page/維基百科:三國演義專題.md "wikilink")  {{/Header}}
+
+<table>
+<tbody>
+<tr class="odd">
+<td><div style="font-size:small;  ">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-bottom:5px;padding-left:0px;padding-right:0px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>三国主题</p>
+</h2>
+</div>
+<div style="float:left; width:55%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>特色条目</p>
+</h2>
+</div>
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>你知道吗</p>
+</h2>
+</div>
+</div>
+<div style="float:left; width:45%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>条目协助</p>
+</h2>
+</div>
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>特色图片</p>
+</h2>
+</div>
+</div>
+<div style="float:right; width:100%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>历史</p>
+</h2>
+</div>
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>行政区划</p>
+</h2>
+</div>
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>人物</p>
+</h2>
+</div>
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #888888;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: medium; font-weight: bold; background-color: #915e43; color: #fff; " align=center>
+<p>文化</p>
+</h2>
+</div>
+</div>
+</div>
+<p>{{/box-header|维基主题|template:portals|}}</p>
+<div style="font-size:small;  ">
+</div>
+<p>{{/box-footer|}}</p></td>
+</tr>
+</tbody>
+</table>
+
+[Category:中国朝代主题首页](https://zh.wikipedia.org/wiki/Category:中国朝代主题首页 "wikilink")
+[Category:三国](https://zh.wikipedia.org/wiki/Category:三国 "wikilink")

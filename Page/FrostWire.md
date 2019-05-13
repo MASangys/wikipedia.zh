@@ -1,0 +1,6 @@
+**FrostWire**（简称FW）是一个基于[Gnutella的](../Page/Gnutella.md "wikilink")[开源](../Page/开放源代码.md "wikilink")、免费的[P2P文件](https://zh.wikipedia.org/wiki/P2P "wikilink")[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。它源自[LimeWire](../Page/LimeWire.md "wikilink")，所以界面与功能都与LimeWire十分相似，但增加了对[BitTorrent的支持](../Page/BitTorrent_\(协议\).md "wikilink")。该[软件于](../Page/软件.md "wikilink")2004年遵循[GNU通用公共许可协议发布](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，运行于[Windows操作系统下](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")。其特点是界面较简洁直观、对用户友好，安装过程也较简单快捷。
+
+[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
+[Category:自由档案分享软件](https://zh.wikipedia.org/wiki/Category:自由档案分享软件 "wikilink")
+[Category:用Java编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Java编程的自由软件 "wikilink")

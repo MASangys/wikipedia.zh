@@ -1,0 +1,128 @@
+__NOTOC__
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:99%; background-color:#f9f9ff;margin-bottom:10px;margin-top:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:16px; background:#468; color:white; text-align:center; font-weight:bold; font-size:160%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+**中外交通史**
+
+</h2>
+
+**中外交通史首页**是整合维基百科上所有关于[中外交通史文章的一个](../Page/中外交通史.md "wikilink")[主題首頁](../Page/Portal:首頁.md "wikilink")。所有关于中外交通史方面的内容都可以在这里找到。同时欢迎对中外交通史感兴趣的专家和爱好者参与相关条目的编写。您也可以加入我们的[中外交通史兴趣小组](https://zh.wikipedia.org/wiki/Wikipedia:中外交通史兴趣小组维基人列表 "wikilink")。
+
+<h2 style="padding:10px; background:#468; color:white; text-align:center; font-weight:bold; font-size:160%; ">
+
+**中外交通史范围**
+
+</h2>
+
+从公元前到清末中国和外国的交通历史。
+
+<h2 style="padding:10px; background:#468; color:white; text-align:center; font-weight:bold; font-size:160%; ">
+
+**汉代三国**
+
+</h2>
+
+[Zhangqianwest3.jpg](https://zh.wikipedia.org/wiki/File:Zhangqianwest3.jpg "fig:Zhangqianwest3.jpg")
+
+  - [張騫](../Page/張騫.md "wikilink")、[班超](../Page/班超.md "wikilink")、[甘英](../Page/甘英.md "wikilink")
+  - [東漢](../Page/東漢.md "wikilink")[永平三年](../Page/永平.md "wikilink")，[蔡愔](../Page/蔡愔.md "wikilink")、[秦景從雪山南到](../Page/秦景.md "wikilink")[天竺](../Page/天竺.md "wikilink")。
+  - [建安十年](../Page/建安.md "wikilink")，秦州刺史派遣[成光子經烏鼠山入達親](../Page/成光子.md "wikilink")。
+  - 赤乌六年（243年）交广刺史吕岱遣宣化从事朱应、中郎康泰南宣国化。康泰于归国后著《[吴时外国传](../Page/吴时外国传.md "wikilink")》记录出使南国时的经历的一百数十国的见闻。此书是古代南海最早的文献。
+
+<h2 style="padding:10px; background:#4F8; color:white; text-align:center; font-weight:bold; font-size:120%;">
+
+**魏晋南北朝**
+
+</h2>
+
+  - [東晉](../Page/東晉.md "wikilink")[隆安初年](../Page/隆安.md "wikilink")﹐涼州沙門釋寶雲﹐釋法顯﹐釋智嚴入天竺。
+  - 東晉後秦姚興弘始年﹐京兆沙門釋智猛等15人﹐從涼州到[罽賓](../Page/罽賓.md "wikilink")。
+  - 後燕建興末年﹐沙門曇猛到王舍城。
+  - [法显](../Page/法显.md "wikilink")
+  - 宋初涼州沙門遊西域至罽賓﹔黃龍沙門釋法勇﹐僧猛等25人西入雪山﹐乘索橋度壁﹐途中喪12人﹐余13人經罽賓入天竺。沙門道藥到僧伽施國﹔高昌法盛到佛國。
+  - 後魏神龜元年﹐[宋雲](../Page/宋雲.md "wikilink")﹐慧生到乾陀衛國。
+
+<h2 style="padding:10px; background:#464; color:white; text-align:center; font-weight:bold; font-size:120%;">
+
+**唐代**
+
+</h2>
+
+[Yi_Jing.JPG](https://zh.wikipedia.org/wiki/File:Yi_Jing.JPG "fig:Yi_Jing.JPG")
+
+[玄奘](../Page/玄奘.md "wikilink") [义净](../Page/义净.md "wikilink")
+[慧超](../Page/慧超.md "wikilink") [景净](../Page/景净.md "wikilink")
+[杜环](../Page/杜环.md "wikilink")
+[苏来曼(旅行家)](../Page/苏来曼\(旅行家\).md "wikilink")
+
+<h2 style="padding:10px; background:#464; color:white; text-align:center; font-weight:bold; font-size:120%;">
+
+**宋代**
+
+</h2>
+
+\-[周去非](../Page/周去非.md "wikilink") [赵汝适](../Page/赵汝适.md "wikilink")
+[海屯一世](../Page/海屯一世_\(小亚美尼亚\).md "wikilink")
+[阿布·赛义德·哈桑](../Page/阿布·赛义德·哈桑.md "wikilink")
+
+<h2 style="padding:10px; background:#471; color:white; text-align:center; font-weight:bold; font-size:160%; ">
+
+**元代**
+
+</h2>
+
+[Marco_Polo_portrait.jpg](https://zh.wikipedia.org/wiki/File:Marco_Polo_portrait.jpg "fig:Marco_Polo_portrait.jpg")
+[柏郎嘉宾](../Page/柏郎嘉宾.md "wikilink") [鲁不鲁乞](../Page/鲁不鲁乞.md "wikilink")
+[马可·波罗](../Page/马可·波罗.md "wikilink")
+[汪大渊](../Page/汪大渊.md "wikilink")
+[耶律希亮](../Page/耶律希亮.md "wikilink")
+[周达观](../Page/周达观.md "wikilink")
+[鄂多立克](../Page/鄂多立克.md "wikilink")
+[伊本·白图泰](../Page/伊本·白图泰.md "wikilink")
+
+<h2 style="padding:10px; background:#472; color:white; text-align:center; font-weight:bold; font-size:120%; ">
+
+**明代**
+
+</h2>
+
+[Zhen_he.jpg](https://zh.wikipedia.org/wiki/File:Zhen_he.jpg "fig:Zhen_he.jpg")的郑和像\]\]
+[郑和](../Page/郑和.md "wikilink") [郑和下西洋](../Page/郑和下西洋.md "wikilink")
+[马欢](../Page/马欢.md "wikilink") [费信](../Page/费信.md "wikilink")
+[巩珍](../Page/巩珍.md "wikilink") [陈诚](../Page/陈诚_\(明朝\).md "wikilink")
+[沙哈鲁](../Page/沙哈鲁.md "wikilink") [鄂本笃](../Page/鄂本笃.md "wikilink")
+
+<h2 style="padding:10px; background:#472; color:white; text-align:center; font-weight:bold; font-size:120%; ">
+
+**清代**
+
+</h2>
+
+[樊守义](../Page/樊守义.md "wikilink") [白晋](../Page/白晋.md "wikilink")
+[艾约瑟](../Page/艾约瑟.md "wikilink")
+[偉烈亞力](../Page/偉烈亞力.md "wikilink")
+[贝勒](../Page/贝勒.md "wikilink") [麦都思](../Page/麦都思.md "wikilink")
+[理雅各](../Page/理雅各.md "wikilink") [麦华陀](../Page/麦华陀.md "wikilink")
+[张德彝](../Page/张德彝.md "wikilink")
+
+{{/box-header|中外交通史家|portal:中外交通史/box-header|}}
+
+</div>
+
+{{/box-header|中外交通史文献|portal:中外交通史/box-header|}}
+
+</div>
+
+{{/box-header|中外交通史文献|portal:中外交通史/box-header|}}
+
+</div>
+
+{{/box-header|主条目|portal:中外交通史/box-header|}}
+
+</div>
+
+[Category:中国历史主题首页](https://zh.wikipedia.org/wiki/Category:中国历史主题首页 "wikilink")
+[Category:交通主题首页](https://zh.wikipedia.org/wiki/Category:交通主题首页 "wikilink")
+[Category:中外交通史](https://zh.wikipedia.org/wiki/Category:中外交通史 "wikilink")

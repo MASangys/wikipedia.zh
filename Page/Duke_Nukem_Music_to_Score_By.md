@@ -1,0 +1,40 @@
+**Duke Nukem: Music to Score
+By**是[毁灭公爵系列的官方](https://zh.wikipedia.org/wiki/毁灭公爵 "wikilink")[原声带](https://zh.wikipedia.org/wiki/原声带 "wikilink")。他在1999年8月10日由Red
+Ink
+Records发行，包括[重金属和](../Page/重金属音乐.md "wikilink")[嘻哈音乐乐曲](https://zh.wikipedia.org/wiki/嘻哈音乐 "wikilink")。
+
+## 曲目
+
+{{ track listing |music_credits = yes |title1 = Duke Nukem Theme
+|length1=3:54 |music1 =[麦加帝斯](../Page/麦加帝斯.md "wikilink") |title2 =
+Cinnamon Girl |note2=Extended Depression Mix |length2=3:52 |music2
+=[Type O
+Negative](https://zh.wikipedia.org/wiki/Type_O_Negative "wikilink")
+|title3 = What U See Is What U Get |length3=5:09 |music3
+=[Xzibit](https://zh.wikipedia.org/wiki/Xzibit "wikilink") |title4 =
+Blisters |length4=4:51 |music4 =[Coal
+Chamber](https://zh.wikipedia.org/wiki/Coal_Chamber "wikilink") |title5
+= Bitch |length5=3:42 |music5
+=[Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink") |title6
+= Song 10 |length6=2:10 |music6
+=[Zebrahead](https://zh.wikipedia.org/wiki/Zebrahead "wikilink") |title7
+= The Thing I Hate |length7=3:36 |music7 =[Stabbing
+Westward](https://zh.wikipedia.org/wiki/Stabbing_Westward "wikilink")
+|title8 = It's Yourz |length8=4:15 |music8
+=[武当帮](../Page/武当帮.md "wikilink") |title9 = Screaming from
+the Sky |length9=3:12 |music9
+=[超级杀手合唱团](https://zh.wikipedia.org/wiki/超级杀手合唱团 "wikilink")
+|title10 = [New World
+Order](https://zh.wikipedia.org/wiki/New_World_Order_\(Megadeth_song\) "wikilink")
+|length10=3:47 |music10 =[麦加帝斯](../Page/麦加帝斯.md "wikilink") |title11 =
+Stone Crazy |length11=3:17 |music11 =[The
+Beatnuts](https://zh.wikipedia.org/wiki/The_Beatnuts "wikilink")
+|title12 = Land of the Free Disease |length12=4:19 |music12 =[Corrosion
+of
+Conformity](https://zh.wikipedia.org/wiki/Corrosion_of_Conformity "wikilink")
+}}
+
+## 参考资料
+
+[Category:電子遊戲原聲帶](https://zh.wikipedia.org/wiki/Category:電子遊戲原聲帶 "wikilink")
+[Category:1999年原聲帶](https://zh.wikipedia.org/wiki/Category:1999年原聲帶 "wikilink")

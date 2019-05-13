@@ -1,0 +1,41 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|生态主题|Portal:生态/简介|}}  {{/box-footer|}}
+
+<div style="float:left; width:60%;">
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|欢迎参与|Portal:生态/欢迎参与|}}  {{/box-footer|}}
+{{/box-header|分类|Portal:生态/分类|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|话题|Portal:生态/basics|}}  {{/box-footer|}}
+
+{{/box-header|相关主题|Portal:生态/相关主题|}}  {{/box-footer|}}
+
+{{/box-header|维基媒体计划|/Wikimedia|}} {{/Wikimedia}} {{/box-footer|}}
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[da:Portal:Økologien](https://zh.wikipedia.org/wiki/da:Portal:Økologien "wikilink")
+[es:Portal:Ecología](https://zh.wikipedia.org/wiki/es:Portal:Ecología "wikilink")
+[en:Portal:Ecology](https://zh.wikipedia.org/wiki/en:Portal:Ecology "wikilink")
+[fr:Portail:Écologie](https://zh.wikipedia.org/wiki/fr:Portail:Écologie "wikilink")
+[mk:Портал:Екологија](https://zh.wikipedia.org/wiki/mk:Портал:Екологија "wikilink")
+[ja:Portal:環境](https://zh.wikipedia.org/wiki/ja:Portal:環境 "wikilink")
+[pt:Portal:Ecologia](https://zh.wikipedia.org/wiki/pt:Portal:Ecologia "wikilink")
+[ro:Portal:Ecologie](https://zh.wikipedia.org/wiki/ro:Portal:Ecologie "wikilink")
+[ru:Портал:Экология](https://zh.wikipedia.org/wiki/ru:Портал:Экология "wikilink")
+[sr:Портал:Екологија](https://zh.wikipedia.org/wiki/sr:Портал:Екологија "wikilink")
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

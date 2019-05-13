@@ -1,0 +1,127 @@
+**Web應用框架**（Web application
+framework）是一種[電腦](../Page/電腦.md "wikilink")[軟體框架](../Page/軟體框架.md "wikilink")，用來支援[動態網站](../Page/動態網站.md "wikilink")、[網絡應用程式及](../Page/網絡應用程式.md "wikilink")[網路服務的開發](../Page/網路服務.md "wikilink")。這種框架有助於減輕網頁開發時共通性活動的工作負荷，例如許多框架提供[資料庫存取介面](../Page/資料庫.md "wikilink")、標準樣板以及[會話管理等](../Page/會話.md "wikilink")，可提昇程式碼的可再用性。
+
+## 种类
+
+### 模型 - 视图 - 控制器（MVC（Model view controller））
+
+许多框架遵循模型 - 视图 -
+控制器（MVC）体系模型的结构模式，使数据模型与用户界面分开。这被普遍认为是一个很好的做法，因为它模块化的代码，能提高代码的重复使用，并允许多个接口。在Web应用中，这允许不同的应用方面，如网页，远程应用程序和Web服务接口。MVC是业界比较认可的架构模型。
+
+### 三部分组织模式
+
+在这种组织模式中，应用程序建立在三个部分：客户端，应用程序和数据库。数据库通常是一个RDBMS。而客户端指的是由Web应用程序生成的HTML，在用户的浏览器运行。应用程序运行在服务器上。
+
+### 内容管理系统（CMS）
+
+指的是一种内容编辑程序。就像在博客写文章一样，不需要懂得编程的人，也可以通过CMS发布，更改，管理内容。
+
+## 特點
+
+### 網頁模版系統
+
+### 網頁快取
+
+### 安全性
+
+### 資料庫關聯與映射
+
+### URL映射
+
+### AJAX
+
+AJAX即“Asynchronous JavaScript and
+XML”（异步的JavaScript与XML技术），指的是一套综合了多项技术的浏览器端网页开发技术。Ajax的概念由Jesse
+James Garrett所提出\[1\]。
+
+传统的Web应用允许用户端填写表单（form），当提交表单时就向Web服务器发送一个请求。服务器接收并处理传来的表单，然后送回一个新的网页，但这个做法浪费了许多带宽，因为在前后两个页面中的大部分HTML码往往是相同的。由于每次应用的沟通都需要向服务器发送请求，应用的回应时间依赖于服务器的回应时间。这导致了用户界面的回应比本机应用慢得多。
+
+与此不同，AJAX应用可以仅向服务器发送并取回必须的数据，并在客户端采用JavaScript处理来自服务器的回应。因为在服务器和浏览器之间交换的数据大量减少（大约只有原来的5%）\[来源请求\],服务器回应更快了。同时，很多的处理工作可以在发出请求的客户端机器上完成，因此Web服务器的负荷也减少了。
+
+类似于DHTML或LAMP，AJAX不是指一种单一的技术，而是有机地利用了一系列相关的技术。虽然其名称包含XML，但实际上数据格式可以由JSON代替，进一步减少数据量，形成所谓的AJAJ。而客户端与服务器也并不需要异步。一些基于AJAX的“派生／合成”式（derivative/composite）的技术也正在出现，如AFLAX。
+
+### 自動configuration
+
+### Web服务
+
+## 程式語言
+
+各種[程式語言使用框架分類如下](../Page/程式語言.md "wikilink")：
+
+### PHP
+
+  - [Zend framework](../Page/Zend_framework.md "wikilink")
+
+  -
+  -
+  - [ThinkPHP](http://www.thinkphp.cn/)
+
+  - [Symfony](../Page/Symfony.md "wikilink")
+
+  - [Laravel](../Page/Laravel.md "wikilink")
+
+  -
+  -
+  - [Drupal](../Page/Drupal.md "wikilink")
+
+  - [CodeIgniter](../Page/CodeIgniter.md "wikilink")
+
+  - [WindFramework](http://phpwind.github.io/windframework/)
+
+  - [Phalcon](../Page/Phalcon.md "wikilink")
+
+  - [FuelPHP](../Page/FuelPHP.md "wikilink")
+
+### Javascript
+
+（按字母排序）
+
+  - [AngularJS](../Page/AngularJS.md "wikilink")
+
+  - [Backbone.js](../Page/Backbone.js.md "wikilink")
+
+  -
+  -
+  - [jQuery](../Page/jQuery.md "wikilink")
+
+  -
+  - [Prototype](../Page/Prototype_\(框架\).md "wikilink")
+
+  - [ZK](../Page/ZK.md "wikilink")
+
+### Python
+
+  - [django](../Page/django.md "wikilink")
+  - [flask](http://flask.pocoo.org)
+  - [pinax](../Page/pinax.md "wikilink")
+  - [Grok](../Page/Grok.md "wikilink")
+  - [Pylons](../Page/Pylons.md "wikilink")
+  - [TurboGears](../Page/TurboGears.md "wikilink")
+  - [web2py](../Page/web2py.md "wikilink")
+  - [Zope](../Page/Zope.md "wikilink")
+  - [Quixote](../Page/Quixote.md "wikilink")
+  - [snakelets](../Page/snakelets.md "wikilink")
+  - [snakelets](../Page/snakelets.md "wikilink")
+  - [PylonsHQ](../Page/PylonsHQ.md "wikilink")
+  - Tornado
+
+### Ruby
+
+  - [Ruby On Rails](../Page/Ruby_On_Rails.md "wikilink")
+  - [Sinatra](../Page/Sinatra.md "wikilink")
+
+### JAVA
+
+  - [Spring](../Page/Spring.md "wikilink")
+  - [Struts](../Page/Struts.md "wikilink")
+  - [hibernate](../Page/hibernate.md "wikilink")
+  - [Grails](../Page/Grails.md "wikilink")
+  - [GWT](../Page/GWT.md "wikilink")
+  - [JSF](../Page/JSF.md "wikilink")
+  - [Tapestry](../Page/Tapestry.md "wikilink")
+  - [Vaadin](../Page/Vaadin.md "wikilink")
+  - [ZK](../Page/ZK.md "wikilink")
+
+{{-}}
+
+[Category:軟體工程](https://zh.wikipedia.org/wiki/Category:軟體工程 "wikilink")

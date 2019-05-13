@@ -1,0 +1,104 @@
+[数学中](../Page/数学.md "wikilink")，**拓扑
+K-理论**（）是[代数拓扑的一个分支](../Page/代数拓扑.md "wikilink")。它是研究一般[拓扑空间上](../Page/拓扑空间.md "wikilink")[向量丛时发现的](../Page/向量丛.md "wikilink")，所用的是由[亚历山大·格罗滕迪克引入的现在称为](../Page/亚历山大·格罗滕迪克.md "wikilink")（一般）[K-理论的想法](../Page/K-理论.md "wikilink")。早期拓扑
+K-理论的工作归于[迈克尔·阿蒂亚与](../Page/迈克尔·阿蒂亚.md "wikilink")[弗里德里希·希策布鲁赫](../Page/弗里德里希·希策布鲁赫.md "wikilink")（[Friedrich
+Hirzebruch](../Page/:en:Friedrich_Hirzebruch.md "wikilink")）。
+
+## 定义
+
+拓扑
+K-理论是[紧](../Page/紧空间.md "wikilink")[豪斯多夫空间](../Page/豪斯多夫空间.md "wikilink")[范畴的一种广义](../Page/范畴_\(数学\).md "wikilink")[上同调理论](../Page/上同调理论.md "wikilink")，将一个空间上的[向量丛按](../Page/向量丛.md "wikilink")[稳定等价分类](../Page/稳定等价.md "wikilink")（向量丛称为稳定等价的当且仅当[同构的向量丛由向量丛与平凡向量丛的](../Page/同构.md "wikilink")[惠特尼和生成](../Page/惠特尼和.md "wikilink")\[1\]）。设
+*X* 是一个紧豪斯多夫空间而 \(k=\mathbb{R}\) 或 \(k=\mathbb{C}\)。则 \(K_{k}(X)\) 是 *X*
+上有限维 \(k\)-向量丛的[同构类在运算](../Page/同构类.md "wikilink")
+
+\[[E]\oplus [F] = [E\oplus F]\]，对向量丛 *E* 与 *F*，
+下[交换幺半群的](../Page/交换幺半群.md "wikilink")[格罗滕迪克群](../Page/格罗滕迪克群.md "wikilink")。通常
+\(K_k(X)\) 在复情形记作 \(KO(X)\)，复情形记作 \(KU(X)\)。
+
+更确切地，**稳定等价**，*X* 上丛 *E* 与 *F* 上的[等价关系](../Page/等价关系.md "wikilink")，定义了
+*K*(*X*) 中同样的元素，出现于存在一个[平凡丛](../Page/平凡丛.md "wikilink") *G* 使得
+
+\[E\oplus G\cong F\oplus G.\]
+
+在[向量丛的张量积下](../Page/向量丛的张量积.md "wikilink") *K*(*X*)
+成为一个[交换环](../Page/交换环.md "wikilink")。
+
+[向量丛的秩带入](../Page/向量丛的秩.md "wikilink") *K*-群中定义了同态
+
+\[K(X)\to\check{H}^0(X,\mathbb{Z})\]
+
+这里 \(\check{H}^0(X,\mathbb{Z})\) 是[切赫上同调的](../Page/切赫上同调.md "wikilink")
+0-群，等于取值于 \(\mathbb{Z}\) 中的局部常值函数群。
+
+如果 *X* 有一个[特殊的基点](../Page/带基点空间.md "wikilink") x<sub>0</sub>，则约化
+*K*-群（与[约化同调比较](../Page/约化同调.md "wikilink")）满足
+
+\[K(X)\cong\tilde K(X)\oplus K(\{x_0\})\]
+
+定义为 \(K(X)\to K(\{x_0\})\)（这里 \(\{x_0\}\to X\)
+是基点包含）的[核或](../Page/核_\(范畴论\).md "wikilink")
+\(K(\{x_0\})\to K(X)\) 的[余核](../Page/余核.md "wikilink")（这里
+\(X\to\{x_0\}\) 是常映射）。
+
+当 *X*
+是[连通空间是](../Page/连通空间.md "wikilink")，\(\tilde K(X)\cong\operatorname{Ker}(K(X)\to\check{H}^0(X,\mathbb{Z})=\mathbb{Z})\)。
+
+函子 *K*
+的定义扩张成[紧空间的](../Page/紧空间.md "wikilink")[范畴偶](../Page/范畴_\(数学\).md "wikilink")（一个对象是一个偶
+\((X,Y)\)，\(X\) 紧而 \(Y\subset X\) 闭，\((X,Y)\) 与 \((X',Y')\)
+间的[态射是一个连续映射](../Page/态射.md "wikilink")
+\(f:X\to X'\) 使得 \(f(Y)\subset Y'\)）。
+
+\[K(X,Y):=\tilde{K}(X/Y)\]
+
+约化 *K*-群有 \(x_0=\{Y\}\) 给出。
+
+定义
+
+\[K_{\mathbb{C}}^{n}(X,Y)=\tilde K_{\mathbb{C}}(S^{|n|}(X/Y)),\]
+
+对 \(n\in\mathbb{Z}\) 给出了 *K*-群序列，这里 *S*
+表示[约化纬垂](../Page/约化纬垂.md "wikilink")（[reduced
+suspension](../Page/:en:reduced_suspension.md "wikilink")）。
+
+## 性质
+
+  - \(K^n\) 是一个[反变函子](../Page/反变函子.md "wikilink")。
+  - \(\tilde{K}\) 的[分类空间是](../Page/分类空间.md "wikilink") \(BO_k\)（复情形为
+    *BO*；复情形为 *BU*），即 \(K_k(X)\cong[X,BO_k]\)。
+  - \(K\) 的[分类空间是](../Page/分类空间.md "wikilink")
+    \(\mathbb{Z}\times BO_k\)（\(\mathbb{Z}\)
+    带着[离散拓扑](../Page/离散拓扑.md "wikilink")），即
+    \(K_k(X)\cong[X,\mathbb{Z}\times BO_k]\)。
+  - 存在一个[自然](../Page/自然同态.md "wikilink")[环同态](../Page/环同态.md "wikilink")
+    \(K^*(X)\to H^{2*}(X,\mathbb{Q})\)，[陈特征标](../Page/陈特征标.md "wikilink")（[Chern
+    character](../Page/:en:Chern_character.md "wikilink")），使得
+    \(K^*(X)\otimes\mathbb{Q}\to H^{2*}(X,\mathbb{Q})\) 是一个同构。
+  - 拓扑 K-理论可推广为
+    [C\*-代数上一个函子](../Page/C*-代数.md "wikilink")，参见[算子K-理论与](../Page/算子K-理论.md "wikilink")
+    [KK-理论](../Page/KK-理论.md "wikilink")。
+
+## 博特周期性
+
+[周期性现象冠以](../Page/周期性.md "wikilink")[拉乌尔·博特之名](../Page/拉乌尔·博特.md "wikilink")（参见[博特周期性定理](../Page/博特周期性定理.md "wikilink")），可作如下表述：
+
+  - \(K(X\times S^2)=K(X)\otimes K(S^2),\) and
+    \(K(S^2)=\mathbb Z[H]/(H-1)^2;\) 这里 \(H\) 是 \(S^2=\mathbb CP^1\)
+    上的[重言丛类](../Page/重言丛.md "wikilink")，即[黎曼球面作为](../Page/黎曼球面.md "wikilink")[复射影直线](../Page/复射影直线.md "wikilink")。
+  - \(\tilde K^{n+2}(X)=\tilde K^n(X).\)
+  - \(\Omega^2\mathrm{BU}\simeq\mathrm{BU}\times\mathbf Z.\)
+
+在[实K-理论中有类似的周期性](../Page/实K-理论.md "wikilink")，不过是模 8。
+
+## 参考文献
+
+<references/>
+
+  - M. Karoubi, [K-theory, an
+    introduction](https://web.archive.org/web/20070913181033/http://www.institut.math.jussieu.fr/~karoubi/KBook.html),
+    1978 - Berlin; New York: Springer-Verlag
+  - M.F. Atiyah, D.W. Anderson *K-Theory* 1967 - New York, WA Benjamin
+
+[Category:代数拓扑](https://zh.wikipedia.org/wiki/Category:代数拓扑 "wikilink")
+[Category:K-理论](https://zh.wikipedia.org/wiki/Category:K-理论 "wikilink")
+
+1.  <http://mathworld.wolfram.com/StableEquivalence.html>

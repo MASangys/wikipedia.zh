@@ -1,0 +1,155 @@
+**Amarok**
+\[1\]是一款[跨平台](../Page/跨平台.md "wikilink")、[免费](../Page/免费.md "wikilink")、[开源的](../Page/开源.md "wikilink")[音乐播放器](../Page/音频播放器.md "wikilink")。尽管
+Amarok 是 [KDE](../Page/KDE.md "wikilink") 项目的一部分，但是它的发布与[KDE Software
+Compilation](../Page/KDE_Software_Compilation.md "wikilink") 的发布周期无关。
+Amarok 以 [GNU 通用公共许可证（第2版）发布](../Page/GNU通用公共许可证.md "wikilink")。
+
+它的名字最初是amaroK，在2006年6月中時才改成Amarok。
+
+## 历史与發展目標
+
+### 历史
+
+该项目最初由 Mark Kretschmann
+发起，作为改进[XMMS的一种手段](../Page/XMMS.md "wikilink")：多个可用性问题干扰了将新文件添加到播放列表这一功能，由于实现一个任务存在多个用户界面元素。最初的
+amaroK 基于在  中看到的双窗格界面的想法而创建，并且由 Kretschmann
+单独发布的第一个版本基于允许用户将音乐拖放到界面的想法，界面中播放列表显示在右侧，信息在左侧。
+
+在最初发布 AmaroK 之后，几位开发人员加入了这个项目，形成了“Three M's”，其中第一个是 Max
+Howell，他是该项目的界面设计师和程序员，以及 Muesli（Christian
+Muehlhaeuser），他为应用界面提供想法并参与开发直到后期的1.4版本。
+
+这款程序的命名是來自[麦克·欧菲尔德的專輯](../Page/麦克·欧菲尔德.md "wikilink")**amaroK**。\[2\]拼写在2006年6月更改为Amarok。
+
+2008年12月12日发布了 Amarok
+的一个新的2.0大版本。2009年6月3日，2.1版发布，重新引入了1.4版的一些功能，这些功能在最初的2.0版本中缺少，并且引入了一些1功能如首次支持本机的[回放增益](../Page/回放增益.md "wikilink")。\[3\]
+
+### 目标
+
+Amarok 的標語是“再發現您的音樂”（Rediscover Your Music），它的發展是基於這一思想。Amarok
+的核心功能，如獨特的“背景瀏覽器”，整合維基百科查找和歌詞下載。幫助用戶尋找新的音樂，並且更了解他們的音樂。Amarok
+還具有集成 last.fm，給予用戶建議關於哪些演奏者可滿足他們的心情；以及與 Magnatune
+一體化，在他們的目錄中所有的音樂不需花費就可聽取以及購買無[DRM的音樂](../Page/DRM.md "wikilink")。
+
+## 特點
+
+### 基本用途和功能
+
+Amarok在播放音樂檔案以外還提供了很多功能。例如Amarok可以根據音樂類型、歌手和專輯來管理音樂集，也可以為眾多的音樂格式加入標籤，加入歌詞、唱片封面，也會自動按所播放的音樂評分。
+
+Amarok提供了以下基本功能：
+
+  - 播放以下不同的音樂檔案格式[FLAC](../Page/FLAC.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[WMA和](../Page/WMA.md "wikilink")[Musepack](../Page/Musepack.md "wikilink")，也能夠根據安裝。不過注意Amarok不會播放有DRM的音樂。
+  - 為數碼音樂檔案套用標籤（現在支援[Ogg](../Page/Ogg.md "wikilink")、[WMA](../Page/WMA.md "wikilink")、[AAC](../Page/Advanced_Audio_Coding.md "wikilink")、[MP3和](../Page/MP3.md "wikilink")[RealMedia](../Page/RealMedia.md "wikilink")）。
+  - 讓音樂專輯加上封面，而封面可以到Amazon.com下載。
+  - 建立和編輯播放清單，包括智慧型和動態播放清單，動態播放清單可以透過Amarok Script提供評分資訊，同時播放次數也會加到歌曲之中。
+  - 可以和一些數碼音樂播放機如：iPods、Creative Zens進行同步、下載、播放和上載。
+  - 可以在Wikipedia取得歌手資訊，和歌詞搜尋。
+  - 支援Last.fm。
+  - [Podcast](../Page/Podcast.md "wikilink")
+
+## Amarok 2.0
+
+Amarok 2發布於2008年12月10日帶來了大量的新功能，和完全重新設計的界面。
+新功能包括：
+
+  - 緊密整合的線上服務，如[Magnatune](../Page/Magnatune.md "wikilink")、[Jamendo](../Page/Jamendo.md "wikilink")、MP3tunes、[Last.fm和](../Page/Last.fm.md "wikilink")[Shoutcast](../Page/Shoutcast.md "wikilink")。
+  - 完全腳本API和插件支持，使他能夠更好地融入Amarok。
+  - 從[KDE 3移殖框架到](../Page/KDE_3.md "wikilink")[KDE
+    4](../Page/KDE_4.md "wikilink")，並使用核心技術如[Solid](../Page/Solid_\(KDE\).md "wikilink")、[Phonon和](../Page/Phonon_\(KDE\).md "wikilink")[Plasma](../Page/Plasma_\(KDE\).md "wikilink")。
+
+## 版本歷史
+
+| 顏色 | 代表意義     |
+| -- | -------- |
+| 紅  | 舊版；已停止支援 |
+| 黃  | 舊版；仍有支援  |
+| 綠  | 最新穩定版    |
+| 藍  | 未來的版本    |
+
+| 主要版號                | 開發代號               | 次要版號                                                                                                                                                                                                         | 釋出日期                                                                                                                                        | 附註                                                                                                                                                                                                                    |
+| ------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0.5                 | ??                 | 0.5.0                                                                                                                                                                                                        | 2003年6月23日                                                                                                                                  | 最初的版本                                                                                                                                                                                                                 |
+| 0.6                 | ??                 | 0.6.0                                                                                                                                                                                                        | 2003年9月20日                                                                                                                                  | ??                                                                                                                                                                                                                    |
+| 0.7                 | ??                 | 0.7.0                                                                                                                                                                                                        | 2003年11月16日                                                                                                                                 | 加入樂曲間的淡出淡入效果（Crossfading）以及自訂欄位。                                                                                                                                                                                      |
+| 1.0                 | ??                 | 1.0.0                                                                                                                                                                                                        | 2004年6月17日                                                                                                                                  | 加入可搜尋的「收藏庫」、檔案瀏覽器、來自[Amazon的封面和狀態](../Page/Amazon.md "wikilink")。                                                                                                                                                     |
+| 1.1                 | I am a rock        | 1.1.0                                                                                                                                                                                                        | 2004年9月27日                                                                                                                                  | 加入樂曲評分功能以及對[Xine](../Page/Xine.md "wikilink")、[MAS和](../Page/MAS.md "wikilink")[K3b的支援](../Page/K3b.md "wikilink")。                                                                                                   |
+| 1.2                 | ??                 | 1.2.0                                                                                                                                                                                                        | 2005年2月14日                                                                                                                                  | 支援[iPod](../Page/iPod.md "wikilink")、[Audioscrobbler](../Page/Audioscrobbler.md "wikilink")、[MySQL和一個可修改佈景的檢視器](../Page/MySQL.md "wikilink")。                                                                         |
+| 1.3                 | Airborne           | 1.3.0                                                                                                                                                                                                        | 2005年8月14日                                                                                                                                  | 在介面、動態播放清單使用新的播放清單。支援[Podcast](../Page/Podcast.md "wikilink")、播放清單裡的相對路徑、播放清單等候區，並完成和[維基百科的整合](../Page/維基百科.md "wikilink")。                                                                                           |
+| 1.3.9               | 2006年3月26日         | 支援Helix和GStreamer引擎，改進[Podcast播放介面](../Page/Podcast.md "wikilink")。                                                                                                                                          |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4                 | Fast Forward       | 1.4.0                                                                                                                                                                                                        | 2006年5月17日                                                                                                                                  | 改善對行動裝置的支援，將[last.fm移到內容瀏覽器裡](../Page/last.fm.md "wikilink")，對於[Xine的無空隙播放](../Page/Xine.md "wikilink")，使用腳本抓取歌詞進一步整合[維基百科](../Page/維基百科.md "wikilink")，支援以拖曳方式抓取音樂CD，改進[Podcast管理介面](../Page/Podcast.md "wikilink")。 |
+| 1.4.1               | 2006年7月2日          | 改進效能與易用性，從amaroK改名為Amarok。改由腳本的方式支援[last.fm以及評分功能](../Page/last.fm.md "wikilink")。                                                                                                                           |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.2               | 2006年8月22日         | DAAP用戶端、MTP媒體裝置支援。動態收藏庫，自訂[last.fm站台](../Page/last.fm.md "wikilink")。                                                                                                                                        |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.3               | 2006年9月5日          | AFT (Amarok File Tracking)。                                                                                                                                                                                  |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.4               | 2006年10月30日        | 整合Magnatune，對 Crossfading提供三種不同方式使用[Xine以及](../Page/Xine.md "wikilink")[Helix引擎](../Page/Helix.md "wikilink")。                                                                                               |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.5               | 2007年2月4日          | SHOUTcast串流，標籤。                                                                                                                                                                                              |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.6               | 2007年6月21日         | 新圖示主題、Rockbox支援。                                                                                                                                                                                             |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.7               | 2007年8月13日         | 更新圖示和Cool Streams。                                                                                                                                                                                           |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.8               | 2007年12月20日        | 加入及改進最新的[iPod](../Page/iPod.md "wikilink")（使用libgpod3）：第六代[iPod classic](../Page/iPod_classic.md "wikilink")，第三代[iPod nano](../Page/iPod_nano.md "wikilink")、[iPod touch](../Page/iPod_touch.md "wikilink")。 |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.9               | 2008年4月9日          | 針對[Kubuntu釋出](../Page/Kubuntu.md "wikilink")。因包含了一個重要的程式錯誤，故很快便釋出1.4.9.1版取代。                                                                                                                                 |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.9.1             | 2008年4月12日         | 更新翻譯以及修復錯誤。                                                                                                                                                                                                  |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 1.4.10              | 2008年8月13日         | 非常重要的安全性更新                                                                                                                                                                                                   |                                                                                                                                             |                                                                                                                                                                                                                       |
+| 2.0                 | In the beginning   | 2.0.0                                                                                                                                                                                                        | 2008年12月10日                                                                                                                                 | 從頭到尾重新設計介面，增加更多的圖形化特性。移植到[KDE 4上](../Page/KDE_4.md "wikilink")。首次支援[Microsoft Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac OS X系統](../Page/Mac_OS_X.md "wikilink")\[4\]                                     |
+| Magellan            | 2.0.1.1            | 2009年1月11日                                                                                                                                                                                                   | 在播放列表中搜索和過濾\[5\]                                                                                                                            |                                                                                                                                                                                                                       |
+| Only Time Will Tell | 2.0.2              | 2009年3月5日                                                                                                                                                                                                    | Bug和穩定性修復\[6\]                                                                                                                              |                                                                                                                                                                                                                       |
+| 2.1                 | Let There be Light | 2.1.0                                                                                                                                                                                                        | 2009年6月3日                                                                                                                                   | [ReplayGain支持](../Page/ReplayGain.md "wikilink")，内容查看，新的播放列表布局编辑器, Amarok URLs以及书签\[7\]                                                                                                                               |
+| Oceania             | 2.1.1              | 2009年6月17日                                                                                                                                                                                                   | Bug修复\[8\]                                                                                                                                  |                                                                                                                                                                                                                       |
+| 2.2                 | Sunjammer          | 2.2.0                                                                                                                                                                                                        | 2009年10月1日                                                                                                                                  | 界面修改，增加照片和视频的Plasma部件，改进收藏窗口的导航，改进了播放列表的排序和编辑\[9\]                                                                                                                                                                    |
+| Weightless          | 2.2.1              | 2009年11月16日                                                                                                                                                                                                  | 更快速的收藏掃描器，[播客分組](../Page/播客.md "wikilink")，自動讀取播客，播放列表中[SMB](../Page/伺服器訊息區塊.md "wikilink")（[Samba](../Page/Samba.md "wikilink")）的支援。\[10\] |                                                                                                                                                                                                                       |
+| Maya Gold           | 2.2.2              | 2010年1月11日                                                                                                                                                                                                   | Moodbar支援，音樂自訂標籤，播客改進，及眾多Bug修復。\[11\]                                                                                                       |                                                                                                                                                                                                                       |
+| 2.3                 | Clear Light        | 2.3.0                                                                                                                                                                                                        | 2010年3月15日                                                                                                                                  | 優化播客支援及播放列表的保存，眾多小規模改進。\[12\]                                                                                                                                                                                         |
+| The Bell            | 2.3.1              | 2010年5月31日                                                                                                                                                                                                   | 自動化播放列表生成器，Context View的兩個新[applet](../Page/applet.md "wikilink")，封面讀取改進，及眾多Bug修復和小改進。\[13\]                                                |                                                                                                                                                                                                                       |
+| Moonshine           | 2.3.2              | 2010年9月21日                                                                                                                                                                                                   | 動態採集修復（嘗試更優地與硬碟及USB大量儲存裝置協作） ，兼容KDE 4.5，其他Bug修復。\[14\]                                                                                      |                                                                                                                                                                                                                       |
+| 2.4                 | Slipstream         | 2.4.0                                                                                                                                                                                                        | 2011年1月15日                                                                                                                                  | 當從檔案瀏覽器複製到本地收藏﹑音軌從某檔案格式轉換為另一種 ，其他Bug修復。\[15\]                                                                                                                                                                         |
+| Resolution          | 2.4.1              | 2011年5月8日                                                                                                                                                                                                    | 連同遠程收藏，歌詞和iPod的處理均受改善 ；Organize Collection對話方塊中的新預覽特性；其他Bug修復。\[16\]                                                                        |                                                                                                                                                                                                                       |
+| Nightshade          | 2.4.2              | 2011年7月7日                                                                                                                                                                                                    | 本地音樂和播放列表中，收藏上的拖放功能可用於複製或移動 ；其他Bug修複。\[17\]                                                                                                 |                                                                                                                                                                                                                       |
+| Berlin              | 2.4.3              | 2011年8月1日                                                                                                                                                                                                    | 使用[LLVM的前端](../Page/LLVM.md "wikilink")[Clang編譯](../Page/Clang.md "wikilink")，其他Bug修復。\[18\]                                                |                                                                                                                                                                                                                       |
+| 2.5                 | Earth Moving       | 2.5                                                                                                                                                                                                          | 2011年12月20日                                                                                                                                 | 重寫USB大量儲存裝置的支援，集成Amazon MP3商店，Amarok的Windows版本正式穩定 。\[19\]                                                                                                                                                            |
+| 2.6                 | In Dulci Jubilo    | 2.6                                                                                                                                                                                                          | 2012年8月13日                                                                                                                                  | 對iPod及iPhone支援的翻修已完成，針對類iPod及USB大量儲存裝置的轉碼 。\[20\]                                                                                                                                                                     |
+|                     |                    |                                                                                                                                                                                                              |                                                                                                                                             |                                                                                                                                                                                                                       |
+
+## 参考文献
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 外部連結
+
+  - [Amarok官方網站](http://amarok.kde.org/)
+      - [简体中文页面](http://amarok.kde.org/zh-cn)
+  - [\#amarok](irc://irc.freenode.net/amarok) on freenode
+  - [Twitter上的Amarok](http://twitter.com/amarok)
+
+[no:Liste over
+KDE-programmer\#Amarok](../Page/no:Liste_over_KDE-programmer#Amarok.md "wikilink")
+
+[Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink")
+[Category:自由媒體播放器](https://zh.wikipedia.org/wiki/Category:自由媒體播放器 "wikilink")
+[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+
+1.
+2.  <https://web.archive.org/web/20040615205307/http://amarok.kde.org/component/option%2Ccom_staticxt/staticfile%2Cfaq.html#id242344>
+3.  Prior versions of Amarok required a third-party plugin for
+    ReplayGain functionality.
+4.  <http://ljubomir.simin.googlepages.com/awnissue10> 詳情
+5.  <http://amarok.kde.org/en/releases/2.0.1.1> full list here
+6.  <http://amarok.kde.org/en/releases/2.0.2> 2.02 release notes
+7.  <http://padoca.wordpress.com/2009/02/15/amarok-21-back-to-the-future-english-version/>
+    Article on Amarok 2.1 improvements
+8.  <http://amarok.kde.org/en/releases/2.1.1>
+9.  <http://amarok.kde.org/en/releases/2.2>
+10. <http://amarok.kde.org/en/releases/2.2.1>
+11. <http://amarok.kde.org/en/releases/2.2.2>
+12. <http://amarok.kde.org/en/releases/2.3.0>
+13. <http://amarok.kde.org/en/releases/2.3.1>
+14. <http://amarok.kde.org/en/releases/2.3.2>
+15. <http://amarok.kde.org/en/releases/2.4.0>
+16. <http://amarok.kde.org/en/releases/2.4.1>
+17. <http://amarok.kde.org/en/releases/2.4.2/beta/1>
+18. <http://amarok.kde.org/en/releases/2.4.3>
+19. <http://amarok.kde.org/en/releases/2.5>
+20. <http://amarok.kde.org/en/releases/2.6>

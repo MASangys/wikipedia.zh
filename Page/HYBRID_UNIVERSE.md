@@ -1,0 +1,66 @@
+**HYBRID
+UNIVERSE**是[水樹奈奈第](../Page/水樹奈奈.md "wikilink")5隻[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年5月3日由[KING
+RECORDS發售](../Page/KING_RECORDS.md "wikilink")。
+
+## 解説
+
+本作是第二隻不是由[矢吹俊郎監督的音樂專輯](../Page/矢吹俊郎.md "wikilink")，只收錄一首矢吹製作的曲目，主要以[上松範康帶領的](../Page/上松範康.md "wikilink")[Elements
+Garden為中心](../Page/Elements_Garden.md "wikilink")。\<\!---\>Elements
+Gardenの本格的な参加により過去のアルバムよりも叙情的な楽曲が多く、これにより水樹奈々の新たな魅力を引き出したと言える反面、矢吹がプロデュースした楽曲が減ってしまったことへの批判もあり、昔から水樹奈々を支持しているファンからは賛否両論のアルバムとして語られている。\<---\>
+
+在初回盤中附屬的DVD收錄了[PV與另外制作的映像](../Page/音樂錄影帶.md "wikilink")。
+
+## 收錄曲
+
+1.    - 作詞：HIBIKI、作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")
+
+2.  Faith
+
+      - 作詞：[渡邊亞希子](../Page/渡邊亞希子.md "wikilink")、作曲・編曲：[後藤康二](../Page/後藤康二.md "wikilink")
+
+3.  [WILD EYES](../Page/WILD_EYES.md "wikilink")
+
+      - 作詞：水樹奈奈、作曲・編曲：[飯田高廣](../Page/飯田高廣.md "wikilink")
+
+4.  You have a dream
+
+      - 作詞：[小間浩子](../Page/小間浩子.md "wikilink")、作曲：[鶴田勇氣](../Page/鶴田勇氣.md "wikilink")、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")
+
+5.  BRAVE PHOENIX
+
+      - 作詞・作曲・編曲：上松範康
+
+6.    - 作詞：Bee'、作曲・編曲：上松範康
+
+7.  [SUPER GENERATION](../Page/SUPER_GENERATION.md "wikilink")
+
+      - 作詞・作曲：水樹奈奈、編曲：藤田淳平
+
+8.  NAKED FEELS
+
+      - 作詞・作曲・編曲：[田中隼人](../Page/田中隼人.md "wikilink")
+
+9.  Love Trippin'
+
+      - 作詞：水樹奈奈、作曲・編曲：藤田淳平
+
+10. Late Summer Tale
+
+      - 作詞：[園田凌士](../Page/園田凌士.md "wikilink")、作曲・編曲：[雅智彌](../Page/雅智彌.md "wikilink")
+
+11. Violetta
+
+      - 作詞・作曲：水樹奈奈、編曲：藤間仁
+
+12. PRIMAL AFFECTION
+
+      - 作詞・作曲・編曲：矢吹俊郎
+
+13.   - 作詞：Bee'、作曲・編曲：上松範康
+
+14. [ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")
+
+      - 作詞：水樹奈奈、作曲・編曲：上松範康
+
+[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink")
+[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

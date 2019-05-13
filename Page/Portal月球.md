@@ -1,0 +1,42 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|月球主题|Portal:月球/简介|}}  {{/box-footer|}}
+
+<div style="float:left; width:60%;">
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|欢迎参与|Portal:月球/欢迎参与|}}  {{/box-footer|}}
+{{/box-header|分类|Portal:月球/分类|}}  {{/box-footer|}}
+
+{{/box-header|相关主题|Portal:月球/相关主题|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|议题|Portal:月球/议题|}}  {{/box-footer|}}
+
+{{/box-header|维基媒体计划|/Wikimedia|}} {{/Wikimedia}} {{/box-footer|}}
+
+{{/box-header|维基主题|template:portals|}}
+
+<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0px; text-align: left;">
+
+<div class="NavHead" style="background-color: #5686BF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+
+**<span style="color: #FFFFFF;">维基主题</span>**
+
+</div>
+
+</div>
+
+{{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

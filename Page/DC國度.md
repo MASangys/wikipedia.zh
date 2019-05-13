@@ -1,0 +1,61 @@
+**DC國度**（[英語](../Page/英語.md "wikilink")：DC
+Nation）為基於[DC漫畫的節目和](../Page/DC漫畫.md "wikilink")[短片](../Page/短片.md "wikilink")，於[卡通頻道的](../Page/卡通頻道.md "wikilink")播出。首映於2012年3月3日，由[華納兄弟動畫製作](../Page/華納兄弟動畫.md "wikilink")，節目包含了[綠光戰警：動畫系列](../Page/綠光戰警：動畫系列.md "wikilink")、[少年正義聯盟和](../Page/少年正義聯盟_\(動畫\).md "wikilink")2013年的等等\[1\]。2012年6月8日[卡通頻道宣布將基於DC國度的新少年悍將短片再現](../Page/卡通頻道.md "wikilink")[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")，新系列[少年悍將
+GO！將上映於](../Page/少年悍將_GO！.md "wikilink")2013年。新集數已於同年4月開始放送\[2\]。
+
+## 節目
+
+<table style="width:175%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 70%" />
+<col style="width: 55%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>序</p></th>
+<th><p>節目</p></th>
+<th><p>播映</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="../Page/少年正義聯盟_(動畫).md" title="wikilink">少年正義聯盟</a></p></td>
+<td><p>2012年3月3日 – 2013年3月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="../Page/綠光戰警：動畫系列.md" title="wikilink">綠光戰警：動畫系列</a></p></td>
+<td><p>2012年3月3日 – 2013年3月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td><p>2012年3月3日 – 2014年5月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="../Page/少年悍將_GO！.md" title="wikilink">少年悍將 GO！</a></p></td>
+<td><p>2013年4月23日 – 至今</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td><p>2013年7月13日 – 2013年12月</p></td>
+</tr>
+</tbody>
+</table>
+
+## 參考
+
+<references/>
+
+[分類:DC國度](../Page/分類:DC國度.md "wikilink")
+[分類:卡通頻道節目時段](../Page/分類:卡通頻道節目時段.md "wikilink")
+[分類:電視節目時段](../Page/分類:電視節目時段.md "wikilink")
+[分類:美國兒童電視影集](../Page/分類:美國兒童電視影集.md "wikilink")
+
+[Category:超级英雄题材电视剧](https://zh.wikipedia.org/wiki/Category:超级英雄题材电视剧 "wikilink")
+
+1.
+2.

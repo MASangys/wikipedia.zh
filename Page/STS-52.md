@@ -1,0 +1,16 @@
+****是历史上第五十一次航天飞机任务，也是[哥伦比亚号航天飞机的第十三次太空飞行](../Page/哥倫比亞號太空梭.md "wikilink")。
+
+## 任务成员
+
+  - **[吉姆·威瑟比](../Page/吉姆·威瑟比.md "wikilink")**（，曾执行、、、、以及任务），指令长
+  - **[迈克尔·贝克](../Page/迈克尔·贝克.md "wikilink")**（，曾执行、、以及任务），飞行员
+  - **[查尔斯·维茨](../Page/查尔斯·维茨.md "wikilink")**（，曾执行以及任务），任务专家
+  - **[威廉·谢泼德](../Page/威廉·谢泼德.md "wikilink")**（，曾执行、、、、以及任务），任务专家
+  - **[塔玛拉·杰尼根](../Page/塔玛拉·杰尼根.md "wikilink")**（，曾执行、、、以及任务），任务专家
+  - **[斯蒂芬·麦克林](../Page/斯蒂芬·麦克林.md "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行以及任务），有效载荷专家
+
+[Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
+[Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
+[Category:1992年科學](https://zh.wikipedia.org/wiki/Category:1992年科學 "wikilink")
+[Category:1992年10月](https://zh.wikipedia.org/wiki/Category:1992年10月 "wikilink")
+[Category:1992年11月](https://zh.wikipedia.org/wiki/Category:1992年11月 "wikilink")

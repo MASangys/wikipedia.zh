@@ -1,0 +1,46 @@
+《**Get
+along**》於1995年5月24日發售，是[林原惠和](../Page/林原惠.md "wikilink")[奧井雅美合唱的](../Page/奧井雅美.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
+由[STAR CHILD發行](../Page/STAR_CHILD.md "wikilink")，[King
+Records發售](../Page/King_Records.md "wikilink")（KIDA-107）
+
+## 概要
+
+  - 為《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》無印的主題曲，在該動畫的原聲帶中，收錄了動畫前段由[莉娜的配音員](../Page/莉娜·因巴斯.md "wikilink")[林原惠所說的口白的專輯版本](../Page/林原惠.md "wikilink")。
+  - 因兩首歌曲皆為合唱，所以皆沒有收錄至對方的原創專輯中，但奧井曾在演唱會獨唱，林原也在2006年發行的單曲《[Meet
+    again](../Page/Meet_again.md "wikilink")》中將合唱中奧井的部分重新錄製音源收錄。
+  - 「KUJIKENAIKARA\!」有[下川美娜和](../Page/下川美娜.md "wikilink")[野川櫻一起翻唱過](../Page/野川櫻.md "wikilink")。
+  - [Oricon單曲排行榜有](../Page/Oricon.md "wikilink")8週進榜，最高名次為第36名。
+
+## 收錄曲
+
+1.  **Get along** \[4:06\]
+      - 作詞：有森聰美、作曲：佐藤英敏、編曲：[大平勉](../Page/大平勉.md "wikilink")、歌：林原惠・奧井雅美
+      - 《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》主題曲
+2.  **KUJIKENAIKARA\!** \[4:31\]
+      - 作詞：有森聰美、作曲：奧井雅美、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")、歌：林原惠・奧井雅美
+      - 《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》片尾曲
+3.  Get along（Off Vocal Version）
+4.  KUJIKENAIKARA\!（Off Vocal Version）
+
+## 收錄專輯
+
+  - **Get along**
+      -
+        《[S-mode \#1](../Page/S-mode_1.md "wikilink")》（奥井雅美）
+        《[秀逗魔導士MEGUMIX](../Page/秀逗魔導士MEGUMIX.md "wikilink")》（林原惠）
+        ※ 原創專輯未收錄
+  - **KUJIKENAIKARA\!**
+      -
+        《[S-mode \#1](../Page/S-mode_1.md "wikilink")》
+        《[秀逗魔導士MEGUMIX](../Page/秀逗魔導士MEGUMIX.md "wikilink")》
+        ※ 原創專輯未收錄
+
+## 關連項目
+
+  - [Give a reason](../Page/Give_a_reason.md "wikilink")
+
+[Category:1995年單曲](https://zh.wikipedia.org/wiki/Category:1995年單曲 "wikilink")
+[Category:秀逗魔導士歌曲](https://zh.wikipedia.org/wiki/Category:秀逗魔導士歌曲 "wikilink")
+[Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")
+[Category:奧井雅美單曲](https://zh.wikipedia.org/wiki/Category:奧井雅美單曲 "wikilink")
+[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")

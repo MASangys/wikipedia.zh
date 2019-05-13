@@ -1,0 +1,54 @@
+**Compiere**是一套為[中小型企業而設計的](../Page/中小型企業.md "wikilink")[開源](../Page/開源軟體.md "wikilink")（OpenSource）[企業資源規劃](../Page/企業資源計劃.md "wikilink")（[ERP](../Page/ERP.md "wikilink")）與[客戶關係管理](../Page/客戶關係管理.md "wikilink")（[CRM](../Page/CRM.md "wikilink")）軟體。它是這個行業中少數不需要用戶支付巨額金錢去購買他們的軟體的一個異數。但由於Compiere公司忽略關注廣大用戶群體的需要，社群於[2006年9月在SourceForge上創建開放源碼項目](../Page/2006年9月.md "wikilink")[ADempiere系統](../Page/ADempiere.md "wikilink")。2011年社群创建
+[:draft:iDempiere系统](../Page/:draft:iDempiere.md "wikilink")。並引致Compiere於[2009年3月暫停開發](../Page/2009年3月.md "wikilink")。
+
+## 網頁廣告
+
+Compiere在它的網頁登了這個廣告：
+
+  -
+    [JD Ewards](../Page/JD_Ewards.md "wikilink") merged by
+    [PeopleSoft](../Page/PeopleSoft.md "wikilink") merged by
+    [Oracle](../Page/Oracle.md "wikilink")。[SAP](../Page/SAP公司.md "wikilink")
+    talking with [Microsoft](../Page/Microsoft.md "wikilink") about
+    [Navision](../Page/Navision.md "wikilink")，[Great
+    Plains](../Page/Great_Plains.md "wikilink")，[Solomon](../Page/Solomon.md "wikilink")。In
+    the next years, you will see a concentration of ERP/CRM vendors. As
+    in the past, the "merged" product will be discontinued - sooner or
+    later.
+    Compiere is the safe choice for your future - Compiere ERP Software
+    is owned by its users and cannot be merged, bought or eliminated.
+
+<!-- end list -->
+
+  -
+    （翻譯）“之前吞吃了JD
+    Edwards的PeopleSoft，現在被Oracle吃掉了。SAP現在也要和微軟相討Navision、Great
+    Plains和Solomon之間的關係。在未來的數年內，你會看到ERP/CRM廠商的整合。正如過去所發生的一樣，被吃掉了的產品，不管是立即或隔一會兒，就不會再在了。
+    所以，Compiere是你萬全的選擇─因為Compiere的ERP軟體是由它的用家所擁有，所以不怕被其他公司吞併、收購、以至消失。
+
+廣告裡提及的 JD Ewards、PeopleSoft、SAP、Great
+Plains等本來都是ERP軟件市場的主要競爭對手，而且各自都有本身的舊有市場，系統完全不兼容，價格更高昂至過十萬美元。而這些軟體都因為同業之間的收購戰，被整合成
+Oracle與Microsoft對壘。用戶先前所支付的高昂費用就這樣泡湯了。所以，Compiere認為，作為一個開源的軟體，由於它由用戶所擁有，所以完全不用擔心因為公司被收購，以使先前的投資全部一下子泡湯。
+
+## 簡介
+
+Compiere ERP & CRM
+為全球範圍內的中小型企業提供綜合型解決方案，覆蓋從客戶管理、供應鏈到財務管理的全部領域，支援多組織、多幣種、多會計模式、多成本計算、多語種、多稅制等全球特性。
+
+## 數據庫中立
+
+Compiere過去一直被批評不是一套完全開源的產品，因為它使用了[Oracle數據庫來儲存資料](../Page/Oracle數據庫.md "wikilink")（儘管Oracle亦有免費版本）。不過，自從2.5.2版開始，Compiere的設計獨立於數據庫，使它可以與不同的數據庫搭配。現時，有關計劃開發了工具，讓用戶把系統的數據庫過渡至其他[數據庫引擎](../Page/數據庫引擎.md "wikilink")。現在正在開發的過渡工具有適用於[PostgresSQL](../Page/PostgresSQL.md "wikilink")、[MySQL及](../Page/MySQL.md "wikilink")[Sybase的](../Page/Sybase.md "wikilink")。
+
+## 外部連結
+
+  - [Compiere 公司](http://www.compiere.com/)
+  - [Compiere 公司自己開放的原始碼 (可用 svn
+    下載)](https://web.archive.org/web/20120419181751/http://svn.compiere.org/)
+  - 用 Compiere
+    作ERP解决方案的顧問公司：[中國大陸、深圳](https://web.archive.org/web/20090814190849/http://www.compierecn.com/)
+  - 用 Compiere 作ERP解决方案在 SourceForge 的原碼
+    [(壓縮檔)](http://sourceforge.net/projects/compiere)
+  - Compiere + Oracle + Windows [在線 Flash
+    安装教程](http://www.humanerp.com/compiere/installation_tutorials.html)
+
+[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")

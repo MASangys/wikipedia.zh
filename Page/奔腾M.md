@@ -1,0 +1,99 @@
+[Pentium_M_Dothan.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan.jpg "fig:Pentium_M_Dothan.jpg")
+[Pentium_M_Dothan_Backside.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan_Backside.jpg "fig:Pentium_M_Dothan_Backside.jpg")
+**Pentium
+M**是[英特爾公司的](../Page/英特爾.md "wikilink")[x86架構](../Page/x86.md "wikilink")[微處理器](../Page/微處理器.md "wikilink")，供[筆記型電腦使用](../Page/筆記型電腦.md "wikilink")，亦被作为[Centrino的一部分](../Page/Centrino.md "wikilink")，於2003年3月推出。M代表“移动”（Mobile）。在推出前的核心名稱為“Banias”，是[以色列的地名](../Page/以色列.md "wikilink")。Pentium
+M是由英特尔在以色列的海尔法（Haifa）实验室研发设计的。
+
+一直以来，英特尔公司完成一款处理器的设计之后先发售桌面版，在[制程上加以改良](../Page/制程.md "wikilink")（主要是减小功耗）后推出相对应的移动版处理器。在完成基于[NetBurst架构](../Page/NetBurst.md "wikilink")、以追求运行频率为主要目标的Pentium
+4处理器之后，其移动版P4-M因为较大的能耗和发热而受到市场恶评。这时候英特尔公司针对移动处理器市场，重新推出了Pentium
+M处理器。Pentium M並非從[Pentium
+4發展而來](../Page/Pentium_4.md "wikilink")，架構更接近了[Pentium
+III的短流水线設計](../Page/Pentium_III.md "wikilink")，經多方面的修改而成，當中Pentium
+III的設計源自[Pentium
+Pro](../Page/Pentium_Pro.md "wikilink")。該處理器具有省電、低功耗、延長電池壽命等特點，時脈方面比P4低，但其效能則與時脈較高的P4-M相近。可以近似认为，运作在1.6GHz的Pentium
+M总体运算性能与P4-M 2.4GHz相当。
+
+Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助它在市场上获得了巨大的成功。
+
+## 處理器列表
+
+### 移動型處理器
+
+#### "Banias" (130 nm)
+
+2003年3月第一代[Centrino芯片推出](../Page/Centrino.md "wikilink")，代號Karmel，核心名称为[Banias](../Page/Banias.md "wikilink")。采用[0.13微米製程芯片工艺](../Page/0.13微米製程.md "wikilink")。集成1MB
+L2
+Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要为i855系列，采用[PCI总线和](../Page/PCI.md "wikilink")[DDR内存](../Page/DDR.md "wikilink")。
+
+支援指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[EIST](../Page/EIST.md "wikilink")
+
+| 型號                                                                                                                                 | 步進         | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端總線](../Page/前端總線.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------- | ---------------------------------- | -------------------------------- | ---------------------------------------------- | ---------- |
+| 標準功耗                                                                                                                               |            |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 1.3](http://ark.intel.com/zh-tw/products/27574)                                                                         | B2         | 1.3 GHz                        | 1 MB                              | 400 MT/s                           | 22 W                             | [Socket 479](../Page/Socket_479.md "wikilink") | 2003年3月12日 |
+| [Pentium M 1.4](http://ark.intel.com/zh-tw/products/27575)                                                                         | 1.4 GHz    |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 1.5](http://ark.intel.com/zh-tw/products/27576)                                                                         | B1         | 1.5 GHz                        | 24.5 W                            |                                    |                                  |                                                |            |
+| [Pentium M 705](http://ark.intel.com/zh-tw/products/27579)                                                                         | 2004年5月10日 |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 1.6](http://ark.intel.com/zh-tw/products/27577)                                                                         | 1.6 GHz    | 2003年3月12日                     |                                   |                                    |                                  |                                                |            |
+| [Pentium M 1.7](http://ark.intel.com/zh-tw/products/27578)                                                                         | 1.7 GHz    | 2003年6月2日                      |                                   |                                    |                                  |                                                |            |
+| [Pentium M 1.8](http://www.cpu-world.com/CPUs/Pentium_M/Intel-Pentium%20M%201.8%20GHz%20RH80535GC0331M%20\(BXM80535GC1800E\).html) | C0         | 1.8 GHz                        |                                   |                                    |                                  |                                                |            |
+| 低功耗                                                                                                                                |            |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M LV 1.1](http://ark.intel.com/zh-tw/products/27600)                                                                      | B2         | 1.1 GHz                        | 1 MB                              | 400 MT/s                           | 12 W                             | [Socket 479](../Page/Socket_479.md "wikilink") | 2003年3月12日 |
+| [Pentium M LV 1.2](http://ark.intel.com/zh-tw/products/27601)                                                                      | B1         | 1.2 GHz                        | 2003年6月2日                         |                                    |                                  |                                                |            |
+| [Pentium M LV 718](http://ark.intel.com/zh-tw/products/27602)                                                                      | B2         | 1.3 GHz                        | 2004年4月6日                         |                                    |                                  |                                                |            |
+| 超低功耗                                                                                                                               |            |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M ULV 900](http://ark.intel.com/zh-tw/products/27612)                                                                     | B1         | 900 MHz                        | 1 MB                              | 400 MT/s                           | 7 W                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2003年3月12日 |
+| [Pentium M ULV 1.0](http://ark.intel.com/zh-tw/products/27606)                                                                     | 1 GHz      | 2003年6月2日                      |                                   |                                    |                                  |                                                |            |
+| [Pentium M ULV 713](http://ark.intel.com/zh-tw/products/27607)                                                                     | B2         | 1.1 GHz                        | 2004年4月6日                         |                                    |                                  |                                                |            |
+
+#### "Dothan" (90 nm)
+
+2004年10月第二代[Centrino芯片推出](../Page/Centrino.md "wikilink")，代號Sonoma，核心名称为[Dothan](../Page/Dothan.md "wikilink")。采用[0.09微米制程芯片工艺](../Page/90纳米制程.md "wikilink")。集成2MB
+L2 Cache，前端总线支持到533MHz，也有400MHz产品，集成1億4000万晶体管。配套的芯片组为i915系列，采用[PCI
+Express总线和](../Page/PCI_Express.md "wikilink")[DDR2内存](../Page/DDR2.md "wikilink")。
+
+支援指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[EIST](../Page/EIST.md "wikilink")
+C0以上步進支援指令集：[PAE](../Page/PAE.md "wikilink")，[XD
+bit](../Page/XD_bit.md "wikilink")
+
+| 型號                                                                                                        | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端總線](../Page/前端總線.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
+| --------------------------------------------------------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ---------------------------------- | -------------------------------- | ---------------------------------------------- | ---------- |
+| 標準功耗                                                                                                      |          |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 710](http://www.cpu-world.com/CPUs/Pentium_M/Intel-Pentium%20M%20710%20RH80536GC0172MT.html)   | B1       | 1.4 GHz                        | 2 MB                              | 400 MT/s                           | 21 W                             | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年6月23日 |
+| [Pentium M 715](http://ark.intel.com/zh-tw/products/27581)                                                | 1.5 GHz  |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 715A](http://www.cpu-world.com/CPUs/Pentium_M/Intel-Pentium%20M%20715A%20RH80536GC0212MT.html) | C0       | 2004年5月10日                     |                                   |                                    |                                  |                                                |            |
+| [Pentium M 725](http://ark.intel.com/zh-tw/products/27584)                                                | B1       | 1.6 GHz                        | 2004年6月23日                        |                                    |                                  |                                                |            |
+| [Pentium M 725A](http://www.cpu-world.com/CPUs/Pentium_M/Intel-Pentium%20M%20725A%20RH80536GC0252MT.html) | C0       | 2005年7月                        |                                   |                                    |                                  |                                                |            |
+| [Pentium M 730](http://ark.intel.com/zh-tw/products/27586)                                                | 533 MT/s | 27 W                           | 2005年1月19日                        |                                    |                                  |                                                |            |
+| [Pentium M 735](http://ark.intel.com/zh-tw/products/27588)                                                | B1       | 1.7 GHz                        | 400 MT/s                          | 21 W                               | 2004年5月10日                       |                                                |            |
+| [Pentium M 735A](http://www.cpu-world.com/CPUs/Pentium_M/Intel-Pentium%20M%20735A%20RH80536GC0292MT.html) | C0       |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 740](http://ark.intel.com/zh-tw/products/27590)                                                | 1.73 GHz | 533 MT/s                       | 27 W                              | 2005年1月19日                         |                                  |                                                |            |
+| [Pentium M 745](http://ark.intel.com/zh-tw/products/27591)                                                | C1       | 1.8 GHz                        | 400 MT/s                          | 21 W                               | 2004年5月10日                       |                                                |            |
+| [Pentium M 745A](http://ark.intel.com/zh-tw/products/27592)                                               | C0       |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M 750](http://ark.intel.com/zh-tw/products/27593)                                                | 1.87 GHz | 533 MT/s                       | 27 W                              | 2005年1月19日                         |                                  |                                                |            |
+| [Pentium M 755](http://ark.intel.com/zh-tw/products/27594)                                                | B0       | 2 GHz                          | 400 MT/s                          | 21 W                               | 2004年5月10日                       |                                                |            |
+| [Pentium M 760](http://ark.intel.com/zh-tw/products/27595)                                                | C1       | 533 MT/s                       | 27 W                              | 2005年1月19日                         |                                  |                                                |            |
+| [Pentium M 765](http://ark.intel.com/zh-tw/products/27596)                                                | B0       | 2.1 GHz                        | 400 MT/s                          | 21 W                               | 2004年10月20日                      |                                                |            |
+| [Pentium M 770](http://ark.intel.com/zh-tw/products/27597)                                                | C0       | 2.13 GHz                       | 533 MT/s                          | 27 W                               | 2005年1月19日                       |                                                |            |
+| [Pentium M 780](http://ark.intel.com/zh-tw/products/27599)                                                | 2.27 GHz | 2005年7月25日                     |                                   |                                    |                                  |                                                |            |
+| 低功耗                                                                                                       |          |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M LV 738](http://ark.intel.com/zh-tw/products/27603)                                             | C1       | 1.4 GHz                        | 2 MB                              | 400 MT/s                           | 10 W                             | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年7月20日 |
+| [Pentium M LV 758](http://ark.intel.com/zh-tw/products/27604)                                             | C0       | 1.5 GHz                        | 7.5 W                             | 2005年1月19日                         |                                  |                                                |            |
+| [Pentium M LV 778](http://ark.intel.com/zh-tw/products/27605)                                             | 1.6 GHz  | 10 W                           |                                   |                                    |                                  |                                                |            |
+| 超低功耗                                                                                                      |          |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M ULV 723](http://ark.intel.com/zh-tw/products/27608)                                            | B1       | 1 GHz                          | 2 MB                              | 400 MT/s                           | 5 W                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年7月20日 |
+| [Pentium M ULV 733](http://ark.intel.com/zh-tw/products/27609)                                            | 1.1 GHz  |                                |                                   |                                    |                                  |                                                |            |
+| [Pentium M ULV 733J](http://ark.intel.com/zh-tw/products/27609)                                           | C0       | 5.5 W                          | 2005年7月                           |                                    |                                  |                                                |            |
+| [Pentium M ULV 753](http://ark.intel.com/zh-tw/products/27610)                                            | 1.2 GHz  | 2005年1月19日                     |                                   |                                    |                                  |                                                |            |
+| [Pentium M ULV 773](http://ark.intel.com/zh-tw/products/27611)                                            | 1.3 GHz  |                                |                                   |                                    |                                  |                                                |            |
+
+## Core Solo & Core Duo
+
+使用Pentium M架构，代号为**Yonah**的微处理器，已经以[Intel
+Core品牌发行](../Page/Intel_Core.md "wikilink")，有Core Solo与Core
+Duo两版本，仅有移动版。其后的正统继承者[Intel Core
+2采用改良后的被正式命名为Intel](../Page/Intel_Core_2.md "wikilink")
+Core的核心，同时具有桌面版本（[Conroe](../Page/Conroe.md "wikilink")）、服务器版本（[Woodcrest](../Page/Woodcrest.md "wikilink")）和移动版本（[Merom](../Page/Merom.md "wikilink")），这标志着Pentium
+M架构从移动领域向桌面领域的反噬。
+
+[Category:Intel_x86处理器](https://zh.wikipedia.org/wiki/Category:Intel_x86处理器 "wikilink")

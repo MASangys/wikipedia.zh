@@ -1,0 +1,124 @@
+__NOTOC__
+
+<div style="border-bottom: 3px solid #FFD700;  padding: 0.5em 0 0.17em 0em;  color: #000000; background-color: transparent;">
+
+华 夏 之 源 — 中 原 · 河 南
+
+</div>
+
+-----
+
+<div style="margin:3px 0; border:1px solid #F1EEE4; padding:1em 0.5em 0.5em 0.5em; background-color:#fff; font-size:100%;">
+
+<center>
+
+[远观奉先寺.jpg](https://zh.wikipedia.org/wiki/File:远观奉先寺.jpg "fig:远观奉先寺.jpg")[河南艺术中心.png](https://zh.wikipedia.org/wiki/File:河南艺术中心.png "fig:河南艺术中心.png")[Hongshixia.jpg](https://zh.wikipedia.org/wiki/File:Hongshixia.jpg "fig:Hongshixia.jpg")
+
+</center>
+
+<div style="position: relative; border-bottom:2px solid #FFD700; border-top:2px solid #FFD700; padding:1em; margin:1em; color:#353537; height:auto;">
+
+{{/Welcome}}
+
+</div>
+
+</div>
+
+</div>
+
+{{/box-footer|}}
+
+<div style="display:block;width:99%;float:left">
+
+<div style="width:48%;display:block;float:left;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+特色条目<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+地理概况<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+你知道嗎<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+<div style="width:48%;display:block;float:right;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+近期要闻<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+风景名胜<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top;width:100%; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+分類<span style="float:right;"></span>
+
+</h2>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display:block;float:left;width:100%;">
+
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; background-color:#F6F6F6;margin-bottom:10px;padding-bottom:5px;padding-left:5px;padding-right:4px;">
+
+<h2 style="padding:3px; background:navy; color:#f8f8ff; text-align:center; font-weight:bold; font-size:100%; margin-bottom:5px;margin-top:0;margin-left:-5px;margin-right:-4px;">
+
+其他主題首頁
+
+</h2>
+
+<center>
+
+</center>
+
+</div>
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:中国各省主题首页](https://zh.wikipedia.org/wiki/Category:中国各省主题首页 "wikilink")
+[Category:河南维基资源](https://zh.wikipedia.org/wiki/Category:河南维基资源 "wikilink")

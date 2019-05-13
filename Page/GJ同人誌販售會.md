@@ -1,0 +1,106 @@
+**Grand
+Journey同人誌展售會**，簡稱[GJ](../Page/GJ.md "wikilink")，是[台灣的](../Page/台灣.md "wikilink")[同人誌即賣會之一](../Page/同人誌即賣會.md "wikilink")，最初由業餘同好性質的[GJ同人防衛委員會於](../Page/GJ同人防衛委員會.md "wikilink")[台中地區舉辦](../Page/台中.md "wikilink")\[1\]，該團隊2009年登記成立[基階多媒體行銷工作室](../Page/基階多媒體行銷工作室.md "wikilink")、2016年改制為[吉桔整合行銷](../Page/吉桔整合行銷.md "wikilink")。
+
+## 活動歷史
+
+  - 2007年7月21日-7月22日：**海風同人誌展售會**於[國立中興大學惠蓀堂](../Page/國立中興大學.md "wikilink")\[2\]。
+  - 2008年9月27日-9月28日：**GJ-暢秋同人誌販售會**（**GJ1**）於[臺中市南區信義國民小學信義館](../Page/臺中市南區信義國民小學.md "wikilink")（因[颱風](../Page/颱風.md "wikilink")9月28日活動提前結束）。
+  - 2008年12月27日-12月28日：**GJ2**於臺中市南區信義國民小學信義館。
+  - 2009年8月29日：**GJ3**於[逢甲大學體育館](../Page/逢甲大學.md "wikilink")3F。
+  - 2010年8月14日-8月15日：**GJ4**於逢甲大學體育館3F。
+
+[FCU_Sports_Center_during_GJ4.jpg](https://zh.wikipedia.org/wiki/File:FCU_Sports_Center_during_GJ4.jpg "fig:FCU_Sports_Center_during_GJ4.jpg")
+
+  - 2010年12月18日：**GJ-HEROES**[超級英雄系列](../Page/超級英雄.md "wikilink")&[特攝only場於](../Page/特攝.md "wikilink")[臺中市西區忠信國民小學忠信堂](../Page/臺中市西區忠信國民小學.md "wikilink")\[3\]。
+  - 2011年3月12日-3月13日：**GJ5**於逢甲大學體育館3F。
+  - 2011年10月1日-10月2日：**GJ6**於逢甲大學體育館3F。
+  - 2011年12月3日-12月4日：**GJ台南場**於[台南公會堂音樂廳](../Page/台南公會堂.md "wikilink")。
+  - 2012年3月17日-3月18日：**GJ7**於[台中文化創意產業園區國際展演廳](../Page/台中文化創意產業園區.md "wikilink")。
+  - 2012年4月21日：**ShiBaRa-[Unlight](../Page/Unlight.md "wikilink") Only
+    Event**於[台北光圈](../Page/台北光圈.md "wikilink")。
+  - 2012年9月8日-9月9日：**GJ-N2台南場**於台南公會堂音樂廳。
+  - 2012年10月6日：**花\*華台日動漫文化感謝祭**於[國立臺灣師範大學公館分部中正堂](../Page/國立臺灣師範大學.md "wikilink")。
+  - 2012年11月10日：**GJ-HEROES2**超級英雄系列&特攝only場於[耕莘文教院大禮堂](../Page/耕莘文教院.md "wikilink")\[4\]。
+  - 2012年12月29日-12月30日：**GJ8**於台中文化創意產業園區雅堂館。
+  - 2013年3月16日-3月17日：**GJ9**於逢甲大學體育館3F。
+  - 2013年6月30日：**Cosplay Field
+    角色扮演交流市集**於[台中文化創意產業園區音樂排練室](../Page/台中文化創意產業園區.md "wikilink")。
+  - 2013年8月17日-8月18日：**GJ10**於[台中文化創意產業園區國際展演廳](../Page/台中文化創意產業園區.md "wikilink")。
+  - 2013年11月30日：**Cosplay Field
+    角色扮演交流市集2**於[台北小巨蛋星光廳](../Page/台北小巨蛋.md "wikilink")。
+  - 2013年12月21日：**Rookie Sketch 原創同人市集**於台中中興大學惠蓀堂走廊。
+  - 2014年3月16日-3月17日：**GJ11**於逢甲大學體育館3F。
+  - 2014年5月17日：**Bring It On！ 歐美主題ONLY場**於三重綜合體育館1樓展覽廳。
+  - 2014年6月28日：**Cosplay Field角色扮演交流市集3─高雄場**於高雄國際會議中心3樓。
+  - 2014年6月29日：**Cosplay Field角色扮演交流市集3─台中場**於台中中興大學惠蓀堂室內走廊。
+  - 2014年7月5日：**Cosplay
+    Field角色扮演交流市集3─台北場**於[台北小巨蛋星光廳](../Page/台北小巨蛋.md "wikilink")。
+  - 2014年11月1日-11月2日：**Paper Round紙膠帶X明信片紙雜貨市集**於台中20號倉庫藝術特區-21號倉庫。
+  - 2015年1月3日-1月4日：**GJ12**於台中中興大學惠蓀堂B1。
+  - 2015年4月25日：**Paper Round紙膠帶X明信片紙雜貨市集2**於國立臺灣師範大學公館分部中正堂。
+  - 2015年5月23日：**Bring It On！2 歐美主題ONLY場**於三重綜合體育館1樓展覽廳。
+  - 2015年6月28日：**Cosplay
+    Field角色扮演交流市集4－台北場**於[台北小巨蛋星光廳](../Page/台北小巨蛋.md "wikilink")。
+  - 2015年7月4日：**Cosplay Field角色扮演交流市集4－台中場**於台中20號倉庫藝術特區-21號倉庫。
+  - 2015年10月31日：**Paper Round紙膠帶X明信片紙雜貨市集3(台北)**於國立臺灣師範大學公館分部中正堂。
+  - 2015年11月21日-11月22日：**Paper Round紙膠帶X明信片紙雜貨市集3**於台中20號倉庫藝術特區。
+  - 2015年9月19日-9月20日：**GJ13**於台中文化創意產業園區雅堂館。
+  - 2015年12月26日-12月27日：**GJ14**於台中文化創意產業園區雅堂館。
+  - 2016年2月20日-2月21日：**ComicHorizon漫創地平線同人誌販售會**於台灣大學綜合體育館1F。
+  - 2016年5月21日：**Bring It On！3 歐美主題ONLY場**於三重綜合體育館1樓展覽廳。
+  - 2016年6月25日：**Cosplay Field角色扮演交流市集5－台中場**於台中本初共創空間。
+  - 2016年7月2日：**Lolita Wonderland服裝X創作交流市集**於台中文化創意產業園區雅堂館C館。
+  - 2016年7月9日-7月10日：**GJ15**於台中文化創意產業園區雅堂館。
+  - 2016年7月30日：**Cosplay Field角色扮演交流市集5－台北場**於台北濕地venue B1。
+  - 2016年10月8日：**Comic Horizon 1.5 －いつか一緒に輝いて－**於三重綜合體育館1樓展覽廳。
+  - 2016年10月30日：**Asian Drama亞洲影視ONLY場**於國立臺灣師範大學公館分部中正堂。
+  - 2016年12月3日-12月4日：**Paper Round 紙膠帶X明信片紙雜貨市集4-台中場**於台中文化創意產業園區雅堂館D館。
+  - 2016年12月24日-12月25日：**GJ16**於台中文化創意產業園區雅堂館。
+  - 2017年3月4日：**Paper Round紙膠帶X明信片 紙雜貨市集4 台北場**於卡市達創業加油站-圓山基地。
+  - 2017年4月29日：**Comic Horizon 2 電玩主題only**於卡市達創業加油站-圓山基地。
+  - 2017年5月6日：**Bring It On！4 歐美主題ONLY場**於三重綜合體育館1樓展覽廳。
+  - 2017年7月8日-7月9日：**GJ17**於[台中文化創意產業園區國際展演廳](../Page/台中文化創意產業園區.md "wikilink")。
+  - 2017年10月7日：**Comic Horizon 3 －いつか一緒に輝いて－**於三重綜合體育館1樓展覽廳。
+  - 2017年10月28日：**一刀入魂貳－刀劍亂舞ONLY**於三重綜合體育館1樓展覽廳。
+  - 2017年12月30日：**Cosplay Field角色扮演交流市集6－台北場**於台北花博公園舞蝶館。
+
+## 會場節目
+
+GJ系列同人活動除常態性的黑白彩稿展示投票、留言點播放送與問卷抽獎外，亦舉辦各類主題活動或邀請特別來賓進行座談會：
+
+1.  海風同人展：[Cosplay比賽](../Page/Cosplay.md "wikilink")、《[BLEACH](../Page/BLEACH.md "wikilink")》中文[配音員座談會](../Page/配音員.md "wikilink")（來賓：[錢欣郁](../Page/錢欣郁.md "wikilink")、[李香生](../Page/李香生.md "wikilink")、[吳文民](../Page/吳文民.md "wikilink")、[林谷珍](../Page/林谷珍.md "wikilink")、[馮嘉德](../Page/馮嘉德.md "wikilink")）。
+2.  GJ2：[傻呼嚕同盟演講](../Page/傻呼嚕同盟.md "wikilink")「從日本動漫畫發展看素人創作」（來賓：Alplus、Jo-Jo、ZERO）。
+3.  GJ3：[黑歷史販售會](../Page/黑歷史.md "wikilink")。
+4.  GJ4：GJ[板郎夏洛特會場廣播](../Page/看板娘.md "wikilink")（[配音員](../Page/配音員.md "wikilink")：[劉傑](../Page/劉傑.md "wikilink")）。GJ4首次採用[QR碼電子票券技術應用於社團入場與網路票券預購](../Page/QR碼.md "wikilink")\[5\]。
+5.  GJ-HEROES：[Taiwan Action
+    Club](../Page/Taiwan_Action_Club.md "wikilink")[特攝節目表演](../Page/特攝.md "wikilink")：特攝英雄大作戰。
+6.  GJ6：[Cure台日](../Page/Cure.md "wikilink")[cosplay交流會](../Page/cosplay.md "wikilink")。
+7.  GJ台南場：[韋宗成簽書會](../Page/韋宗成.md "wikilink")、cosplay全面登記制。
+
+## 相關項目
+
+  - [同人誌即賣會](../Page/同人誌即賣會.md "wikilink")
+  - [同人](../Page/同人.md "wikilink")
+
+## 參考資料
+
+<div class="references-small">
+
+<references />
+
+</div>
+
+## 外部連結
+
+  - [GJ同人誌展售會](http://gjs.tw/)
+
+[Category:臺灣同人誌即賣會](https://zh.wikipedia.org/wiki/Category:臺灣同人誌即賣會 "wikilink")
+[Category:台灣次文化](https://zh.wikipedia.org/wiki/Category:台灣次文化 "wikilink")
+[Category:台中市文化](https://zh.wikipedia.org/wiki/Category:台中市文化 "wikilink")
+
+1.  [中興大學文學院鹿鳴電子報
+    同人創作嘉年華──GJ暢秋同人誌販售會](http://www.deer.nchu.edu.tw/nchu-epaper/?p=208)
+2.  [海風同人展活動資訊](http://blog.yam.com/gjblog/article/27980601)
+3.  [GJ-HEROES 超級英雄系列&特攝only場 官方BLOG](http://blog.yam.com/gjheroes)
+4.  [GJ-HEROES 超級英雄系列&特攝only場 官方BLOG](http://blog.yam.com/gjheroes)
+5.  [盈科泛利QR碼電子票券](http://marketing.accupass.com/how/)

@@ -1,0 +1,31 @@
+**Mantle**是一个由[AMD主导开发的](../Page/AMD.md "wikilink")\[1\]面向3D游戏的[图形渲染](../Page/彩現.md "wikilink")
+[API](../Page/应用程序接口.md "wikilink")，开发从2013年开始，并在[DICE的帮助下进行](../Page/DICE.md "wikilink")。\[2\]尽管[PlayStation
+4和](../Page/PlayStation_4.md "wikilink")[Xbox
+One配置的GPU也支持Mantle](../Page/Xbox_One.md "wikilink")，Mantle作为[Direct3D和](../Page/Direct3D.md "wikilink")[OpenGL的补充](../Page/OpenGL.md "wikilink")，主要用于[PC](../Page/PC.md "wikilink")。\[3\]\[4\]
+
+AMD在2015年3月表示，由于与之类似的[Vulkan已经可以取代Mantle在游戏工业的作用](../Page/Vulkan_\(API\).md "wikilink")，公司将未来逐步的将重心从Mantle转移至其他领域。\[5\]未来两年AMD仍将提供驱动支持，不过直到2015年3月，Mantle
+API本身并没有公开。\[6\]
+
+## 参见
+
+  - [Direct3D 12](../Page/Direct3D#Direct3D_12.md "wikilink") ——
+    [微软开发的底层API](../Page/微软.md "wikilink")
+  - [Vulkan](../Page/Vulkan_\(API\).md "wikilink") ——
+    [科纳斯组织开发](../Page/科纳斯组织.md "wikilink")，基于Mantle的底层API
+  - [Metal](../Page/Metal_\(API\).md "wikilink")
+
+## 参考文献
+
+[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
+[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
+[Category:繪圖函式庫](https://zh.wikipedia.org/wiki/Category:繪圖函式庫 "wikilink")
+
+1.
+2.
+
+3.
+4.
+
+5.
+
+6.

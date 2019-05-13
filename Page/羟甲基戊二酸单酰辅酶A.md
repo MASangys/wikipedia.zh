@@ -1,0 +1,9 @@
+**羟甲基戊二酸单酰辅酶A**（，简称“**HMG-CoA**”）也称为“**β-羟基-β-甲戊二酸单酰辅酶A**”或“**3-羟基-3-甲戊二酸单酰辅酶A**”，是一种重要的[脂类](https://zh.wikipedia.org/wiki/脂类 "wikilink")[代谢中间产物](https://zh.wikipedia.org/wiki/代谢中间产物 "wikilink")。合成β-羟-β-甲戊二酸单酰辅酶A需要三分子的[乙酰辅酶A](../Page/乙酰辅酶A.md "wikilink")，其中两分子的乙酰辅酶A先在硫解酶的作用下缩合成为[乙酰乙酰辅酶A](https://zh.wikipedia.org/wiki/乙酰乙酰辅酶A "wikilink")，后者在[β-羟-β-甲戊二酸单酰辅酶A合酶的作用下与另一分子的乙酰辅酶A合成出β](https://zh.wikipedia.org/wiki/β-羟-β-甲戊二酸单酰辅酶A合酶 "wikilink")-羟-β-甲戊二酸单酰辅酶A。该物质可以走向两种途径：在[β-羟-β-甲戊二酸单酰辅酶A裂解酶的作用下裂解为](https://zh.wikipedia.org/wiki/β-羟-β-甲戊二酸单酰辅酶A裂解酶 "wikilink")[乙酰乙酸](../Page/乙酰乙酸.md "wikilink")，继而生成[丙酮和](../Page/丙酮.md "wikilink")[*β*-<small>D</small>-羟丁酸](https://zh.wikipedia.org/wiki/羟丁酸 "wikilink")，这三者被称为[酮体](../Page/酮体.md "wikilink")；在[β-羟-β-甲戊二酸单酰辅酶A还原酶的作用下还原为](https://zh.wikipedia.org/wiki/β-羟-β-甲戊二酸单酰辅酶A还原酶 "wikilink")[甲羟戊酸](../Page/甲羟戊酸.md "wikilink")，继而参与动植物中[萜类](https://zh.wikipedia.org/wiki/萜类 "wikilink")、[固醇类化合物的合成](../Page/固醇.md "wikilink")。故植物中不少[次生代谢产物或](https://zh.wikipedia.org/wiki/次生代谢产物 "wikilink")[激素是由这种化合物衍生而来的](../Page/激素.md "wikilink")，如[赤霉素](https://zh.wikipedia.org/wiki/赤霉素 "wikilink")、[脱落酸等](../Page/脱落酸.md "wikilink")，动物体内则以此合成[胆固醇及各种](https://zh.wikipedia.org/wiki/胆固醇 "wikilink")[类固醇激素等](https://zh.wikipedia.org/wiki/类固醇激素 "wikilink")。
+[MevalonatePathway_zh.png](https://zh.wikipedia.org/wiki/File:MevalonatePathway_zh.png "fig:MevalonatePathway_zh.png")中間物**HMG-CoA**。\]\]
+
+## 外部链接
+
+  - [中国全国科学技术名词审定委员会对“羟甲基戊二酸单酰辅酶A”的释义](http://www.term.gov.cn/pages/homepage/result2.jsp?id=334685&subid=10001798&subject=%E6%96%B0%E9%99%88%E4%BB%A3%E8%B0%A2&subsys=%E7%94%9F%E7%89%A9%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6)
+
+[Category:硫酯](https://zh.wikipedia.org/wiki/Category:硫酯 "wikilink")
+[Category:輔酶](https://zh.wikipedia.org/wiki/Category:輔酶 "wikilink")

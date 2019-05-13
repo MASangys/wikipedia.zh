@@ -1,0 +1,140 @@
+[ShRNA_Lentivirus.svg](https://zh.wikipedia.org/wiki/File:ShRNA_Lentivirus.svg "fig:ShRNA_Lentivirus.svg")递送设计的shRNA和在哺乳动物细胞中的RNA干扰的机制。\]\]
+[RNAi.jpg](https://zh.wikipedia.org/wiki/File:RNAi.jpg "fig:RNAi.jpg")
+**RNA干扰**（**RNA**
+**i**nterference，缩写为**RNAi**）是指一种[分子生物学上由双链](../Page/分子生物学.md "wikilink")[RNA诱发的](../Page/RNA.md "wikilink")[基因沉默现象](../Page/基因沉默.md "wikilink")，其机制是通过阻碍特定基因的[转录或](../Page/转录.md "wikilink")[翻译来抑制](../Page/翻译_\(遗传学\).md "wikilink")[基因表达](../Page/基因表达.md "wikilink")。当细胞中导入与内源性[mRNA编码区同源的双链RNA时](../Page/mRNA.md "wikilink")，该mRNA发生降解而导致基因表达沉默\[1\]。与其它基因沉默现象不同的是，在植物和線蟲中，RNAi具有传递性，可在细胞之间传播，此現象被稱作系統性RNA干擾（systemic
+RNAi）\[2\]\[3\]。在[秀丽隐杆线虫上实验时还可使子一代产生](../Page/秀丽隐杆线虫.md "wikilink")[基因突变](../Page/基因突变.md "wikilink")，甚至於可用喂食細菌給線蟲的方式讓線蟲得以產生RNA干擾現象。RNAi现象在[生物中普遍存在](../Page/生物.md "wikilink")。2006年，[安德鲁·法厄](../Page/安德鲁·法厄.md "wikilink")（Andrew
+Z. Fire）与[克雷格·梅洛](../Page/克雷格·梅洛.md "wikilink")（Craig C.
+Mello）由于在[秀丽隐杆线虫的RNAi机制研究中的贡献而共同获得](../Page/秀丽隐杆线虫.md "wikilink")[诺贝尔生理及医学奖](../Page/诺贝尔生理及医学奖.md "wikilink")。
+
+RNAi与**转录后基因沉默**（post-transcriptional gene silencing and transgene
+silencing）在分子層次上被证实是同一种现象。
+
+## 发现
+
+[Rnai_phenotype_petunia_crop.png](https://zh.wikipedia.org/wiki/File:Rnai_phenotype_petunia_crop.png "fig:Rnai_phenotype_petunia_crop.png")中所观察到的RNA干扰现象\[4\]\]\]
+RNA干扰现象是1990年由约根森（Jorgensen）研究小组在研究[查尔酮合成酶对](../Page/查尔酮合成酶.md "wikilink")[花青素合成速度的影响时所发现](../Page/花青素.md "wikilink")，为得到颜色更深的[矮牵牛花而过量表达查尔酮合成酶](../Page/矮牵牛花.md "wikilink")，结果意外得到了白色和白紫杂色的矮牵牛花，并且过量表达查尔酮合成酶的矮牵牛花中查尔酮合成酶的浓度比正常矮牵牛花中的浓度低50倍。约根森推测外源转入的编码查尔酮合成酶的基因同时抑制了花中内源查尔酮合成酶基因的表达\[5\]。
+
+1992年，罗马诺（Romano）和Macino也在[粉色麵包黴菌中发现了外源导入](../Page/粉色麵包黴菌.md "wikilink")[基因可以抑制具有同源序列的内源基因的表达](../Page/基因.md "wikilink")\[6\]。1995年，Guo和Kemphues在[线虫中也发现了RNA干扰现象](../Page/线虫.md "wikilink")\[7\]。
+
+1998年，[安德鲁·法厄](../Page/安德鲁·法厄.md "wikilink")（Andrew Z.
+Fire）等在[秀丽隐杆线虫](../Page/秀丽隐杆线虫.md "wikilink")（C.elegans）中进行反义RNA抑制实验时发现，作为对照加入的双链RNA相比正义或反义RNA显示出了更强的抑制效果\[8\]。从与靶[mRNA的分子量比考虑](../Page/mRNA.md "wikilink")，加入的双链RNA的抑制效果要强于理论上1:1配对时的抑制效果，因此推测在双链RNA引导的抑制过程中存在某种扩增效应并且有某种酶活性参与其中。并且将这种现象命名为RNA干扰。
+
+2006年，[安德鲁·法厄与](../Page/安德鲁·法厄.md "wikilink")[克雷格·梅洛](../Page/克雷格·梅洛.md "wikilink")（Craig
+C. Mello）由于在RNAi机制研究中的贡献获得[诺贝尔生理及医学奖](../Page/诺贝尔生理及医学奖.md "wikilink")。
+
+## 机制
+
+### siRNA
+
+[Mechanism_of_RNA_interference.jpg](https://zh.wikipedia.org/wiki/File:Mechanism_of_RNA_interference.jpg "fig:Mechanism_of_RNA_interference.jpg")
+RNA干扰作用是通过一类较稳定的中间介质实现的。对植物的研究证明，双链RNA复合体先降解成为35nt左右的小RNA分子，然后他们通过序列互补与mRNA结合，从而导致mRNA降解\[9\]\[10\]。对[果蝇的研究证明](../Page/果蝇.md "wikilink")，长度为21～23nt的小RNA分子是引起RNA干扰现象的直接原因\[11\]\[12\]。这种小RNA分子被称之为[小干扰RNA](../Page/小干扰RNA.md "wikilink")（small
+interfering RNA，[siRNA](../Page/siRNA.md "wikilink")）。
+
+在RNA干扰中一个非常重要的[酶是RNaseIII核酶家族的Dicer](../Page/酶.md "wikilink")。它可与双链RNA结合，并将其剪切成21～23nt及3'端突出的小分子RNA片段，即siRNA。随后siRNA与若干个蛋白组成的，RNA引起的称之为[RNA誘導沉默複合體](../Page/RNA誘導沉默複合體.md "wikilink")（RNA-induced
+silencing
+complex，簡稱RISC）结合，解旋成单链，并由该复合体主导RNAi效应\[13\]。RISC被活化后，活化型RISC受已成单链的siRNA引导（guide
+strand），序列特异性地结合在标靶mRNA上并切断标靶mRNA，引发靶mRNA的特异性分解。
+
+迄今为止已鉴定出包括Dicer在内的若干个与RNAi有关的蛋白因子。在[果蝇](../Page/果蝇.md "wikilink")（Drosophila
+melanogaster）RISC中，已知存在着称为Argonaute2（AGO2）的因子，AGO2蛋白的表达受到抑制时，RNAi效应缺失，也就是说AGO2是[果蝇RNAi机制的必须因子](../Page/果蝇.md "wikilink")。研究表明Argonaute家族蛋白具有RNA切割酶活性（slicer
+activity），RNAi机制正是由Argonaute家族蛋白的RNA切割酶活性主导。另外，几个RNA解旋酶（RNA
+helicase）也被鉴定为参与RNAi机制的因子。在秀丽隐杆线虫（C.
+elegans）的RNAi中必须的因子有EGO1，这是一种RdRP（RNA-dependent
+RNA
+Polymerase），植物中也存在该蛋白同系物。RNAi中RdRP是将标靶mRNA作为模板，以导入的dsRNA（或siRNA）作为引物合成RNA，在细胞内针对于标靶mRNA合成新siRNA的酶。这一反应在一些生物的RNAi中为必须，但RdRP活性在人和[果蝇的RNAi中是非必须的](../Page/果蝇.md "wikilink")，这说明在不同物种之间RNAi机制的基本框架虽然相同，但存在着微妙差异。
+
+### microRNA
+
+在[真核生物当中](../Page/真核生物.md "wikilink")，还存在另外一种小分子RNA（[microRNA](../Page/microRNA.md "wikilink")）也能引起RNA干扰现象。microRNA大多20-22nt长，前体具有类似发夹性的茎环结构。microRNA产生于该茎环结构的双链区。其特点与siRNA基本上相同\[14\]。
+
+### RNA干扰的作用
+
+2001年，Tuschl等将siRNA导入到[哺乳动物细胞中并由此解决了在哺乳细胞内导入长的双链RNA时引发的干扰素效应](../Page/哺乳动物.md "wikilink")，由此拓展了RNAi在基因治疗上应用前景。RNAi机制普遍存在于动植物，尤其是[低等生物中](../Page/低等生物.md "wikilink")\[15\]。因此被认为是进化上相对保守的基因表达调控机制。一种假说为\[16\]，RNAi机制是作为在RNA水平上抵御病毒入侵的防御机制而存在的。在病毒自身基因组所包含的，或在病毒复制过程中产生的双链RNA可以被Dicer识别，从而引起病毒RNA降解。但是许多病毒为抵抗宿主的RNA干扰机制，会产生抑制宿主RNA干扰的蛋白，以保护病毒基因在宿主体内的顺利复制。已经发现的可以抑制宿主RNA干扰的病毒蛋白有potyviruses编码的[HC-PRO蛋白](../Page/HC-PRO蛋白.md "wikilink")、[马铃薯X病毒编码的](../Page/马铃薯X病毒.md "wikilink")[Cmv2b蛋白](../Page/Cmv2b蛋白.md "wikilink")、[兽棚病毒编码的](../Page/兽棚病毒.md "wikilink")[B2蛋白等](../Page/B2蛋白.md "wikilink")\[17\]。
+
+RNA干扰也是抑制破坏基因结构的一种DNA片段[转錄子活性的重要方式](../Page/转錄子.md "wikilink")。转錄子通常以逆转錄的方式在基因组中扩增。在逆转錄过程中产生的双链RNA分子可以被Dicer识别，从而被降解\[18\]。
+
+目前发现，RNAi机制中的相关一些因子如内源性双链RNA及蛋白因子可以在多种层次上对基因表达进行调控，其范围已经超越了PTGS（post
+transcriptional gene silencing），如RNAi机制同样参与了转录水平上的基因表达调控过程中。
+
+## 应用
+
+RNAi在（silent
+gene）方面具有高效性和简单性，所以是[基因功能研究的重要工具](../Page/基因.md "wikilink")。
+
+大多数[药物属于](../Page/药物.md "wikilink")[標靶基因](../Page/標靶基因.md "wikilink")（或疾病基因）的[抑制剂](../Page/抑制剂.md "wikilink")，因此RNAi模拟了药物的作用，这种[功能丢失](../Page/功能丢失.md "wikilink")（LOF）的研究方法比传统的[功能获得](../Page/功能获得.md "wikilink")（GOF）方法更具优势。因此,
+RNAi在今天的制药产业中是[药物靶标确认的一个重要工具](../Page/药物靶标.md "wikilink")。同时，那些在靶标实验中证明有效的siRNA/shRNA本身还可以被进一步开发成为RNAi[药物](../Page/药物.md "wikilink")。
+
+在药物標靶发现和确认方面，RNAi技术已获得了广泛的应用。生物技术公司或制药公司通常利用建立好的RNAi文库来引入细胞，然后通过观察细胞的表型变化来发现具有功能的基因。如可通过RNAi文库介导的肿瘤细胞生长来发现能抑制肿瘤的基因。一旦所发现的基因属于可用药的靶标（如表达的蛋白在细胞膜上或被分泌出细胞外），就可以针对此靶标进行大规模的药物筛选。此外，被发现的靶标还可用RNAi技术在细胞水平或动物体内进一步确认。
+
+在疾病治疗方面，双链小分子RNA或[siRNA已被用于临床测试用于几种疾病治疗](../Page/siRNA.md "wikilink")，如[老年视黄斑退化](../Page/老年视黄斑退化.md "wikilink")、[肌肉萎縮性側索硬化症](../Page/肌肉萎縮性側索硬化症.md "wikilink")、[类风湿性关节炎](../Page/类风湿性关节炎.md "wikilink")、[肥胖症等](../Page/肥胖症.md "wikilink")。在抗病毒治疗方面，[帕金森病等神经系统疾病已经开始初步采用RNA干扰疗法](../Page/帕金森病.md "wikilink")。[肿瘤治疗方面也已经取得了一些成果](../Page/肿瘤.md "wikilink")\[19\]。
+
+## 参考文献
+
+### 引用
+
+### 来源
+
+  - 期刊文章
+
+<!-- end list -->
+
+  - Recent develpment of RNAi in drug target discovery and validation,
+    *Drug Disvoery Today: Technologies*.(2006)3:293-300.
+  - Development of new RNAi therapeutics, *Histology and
+    Histopathology*. (2007)22:211-217.
+
+<!-- end list -->
+
+  - 书籍
+
+<!-- end list -->
+
+  - 《新药药物靶标开发技术》，2006年版，[高等教育出版社](../Page/高等教育出版社.md "wikilink")，ISBN
+    7-04-018953-4
+
+## 参见
+
+  - [小干扰RNA](../Page/小干扰RNA.md "wikilink")（siRNA）
+  - [小发夹RNA](../Page/小发夹RNA.md "wikilink")（shRNA）
+
+{{-}}
+
+[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
+[Category:RNA干擾](https://zh.wikipedia.org/wiki/Category:RNA干擾 "wikilink")
+[Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
+[Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+17.
+
+18.
+19.

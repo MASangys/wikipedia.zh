@@ -1,0 +1,48 @@
+__NOTOC__
+
+<div align="center">
+
+現在是白俄羅斯時間 {{\#time:Y年Fj日 l H:i|2
+hours}}（[UTC+2](../Page/时区.md "wikilink")）
+
+</div>
+
+{{/box-header|歡迎來到**白俄羅斯**主題首頁！|Portal:白俄羅斯/簡介|}}
+
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;font-size:small;">
+
+**[更多與白俄羅斯相關的內容...](https://zh.wikipedia.org/wiki/白俄羅斯 "wikilink")** |
+**[更多與白俄羅斯相關的主題...](https://zh.wikipedia.org/wiki/Category:白俄羅斯 "wikilink")**
+
+</div>
+
+{{/box-footer|}}
+
+<table style="width:10%;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 0%" />
+<col style="width: 4%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>{{/box-header|特色條目|Portal:白俄羅斯/特色條目| }}  {{/box-footer|}}</p>
+<p>{{/box-header|優良條目|Portal:白俄羅斯/優良條目| }}  {{/box-footer|}}</p>
+<p>{{/box-header|白俄羅斯你知道嗎|Portal:白俄羅斯/你知道嗎| }}  {{/box-footer|}}</p></td>
+<td><p>  </p></td>
+<td><p>{{/box-header|精選圖片|Portal:白俄羅斯/精選圖片| }}  {{/box-footer|}}</p>
+<p>{{/box-header|分類|Portal:白俄羅斯/分類| }}  {{/box-footer|}}</p></td>
+</tr>
+</tbody>
+</table>
+
+{{/box-header|行政區劃|Portal:白俄羅斯/行政區劃| }}  {{/box-footer|}}
+
+{{/box-header|歐洲主題系列|Template:歐洲主題首頁|}}  {{/box-footer|}}
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:歐洲主題首頁](https://zh.wikipedia.org/wiki/Category:歐洲主題首頁 "wikilink")
+[Category:白俄羅斯](https://zh.wikipedia.org/wiki/Category:白俄羅斯 "wikilink")

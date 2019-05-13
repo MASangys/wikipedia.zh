@@ -1,0 +1,10 @@
+**株式會社J-WAVE**（）是[日本一家以](../Page/日本.md "wikilink")[東京都為](../Page/東京都.md "wikilink")的[FM](../Page/調頻廣播.md "wikilink")[廣播電台](../Page/廣播電台.md "wikilink")，為[JFL聯播網成員](../Page/JFL.md "wikilink")，收聽頻率為81.3
+MHz。現在其總部位於[六本木新城森大樓](../Page/六本木新城森大樓.md "wikilink")33樓，因而號稱是「日本最高的做定期廣播的廣播電台」。節目構成以音樂節目為主。
+
+## 外部連結
+
+  - [J-WAVE](http://www.j-wave.co.jp/)
+
+[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink")
+[Category:1987年建立](https://zh.wikipedia.org/wiki/Category:1987年建立 "wikilink")
+[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

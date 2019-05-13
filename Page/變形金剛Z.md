@@ -1,0 +1,48 @@
+《**變形金剛
+Z**》，是由[日本](../Page/日本.md "wikilink")[takara公司在](https://zh.wikipedia.org/wiki/takara公司 "wikilink")1990年所製作的[變形金剛](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")[原創動畫錄影帶](../Page/原創動畫錄影帶.md "wikilink")（ova）作品。本來是一個完整上下两集的ova系列，由於[玩具的銷售低於預期](../Page/玩具.md "wikilink")，推出一集ova後被取消，最後在《[TV
+Magazine](https://zh.wikipedia.org/wiki/TV_Magazine "wikilink")》以[插圖與文字形式交代後面的故事](https://zh.wikipedia.org/wiki/插圖 "wikilink")。
+
+## 劇情概要
+
+公元2014年，狂派群龙无首，这时，“招魂魔”成为了狂派的新破坏大帝。他将狂派历史上的精税们再次集中，分别是技术将军——大力神，情报将军——飞天虎，火焰将军——混天豹，恐龙将军——铁甲龙，野兽将军——冲云霄，妖兽将军——求雨鬼，超神将军——霸王，海鱼将军——海底狂魔，暗黑将军——暗黑撒克巨人。史称为九大魔神将军。为了增强他们的力量，招魂魔给九大魔神将军装备了一种十分坚硬的装甲。同年，博派于微型星上发现了新能量——Z能量，于是在微型战士和宇宙飛船的帮助下，把微型星改建成了ZONE行星。
+重新扩充了实力之后，招魂魔再一次向博派宣战，同时，招魂魔为了建造狂派地带，開始對各個行星進行破壞。当狂派在破壞法米尼亞行星時，为了营救人类主角凯依，皇者狮王被行星爆炸卷入，从而下落不明。狂派趁博派失去领袖之际，终于攻克了ZONE行星，夺走了博派的Z能量。之後，为了再度奪取地球上的超级能源——索迪亞克，狂派開始向地球進發。
+超能戰士顶天者和音速爆弹成功的救出了皇者狮王後，前往地球增援。在超级能源——索迪亞克的的力量下，顶天者与音速爆弹变为Zone基地形态并合体，击败了了铁甲龙，大力神，海底狂魔以及冲云霄。皇者狮王将博派總司令的位置让给了顶天者，顶天者担任了宇宙和平聯邦的最高議長。
+
+## 角色一覽
+
+### 博派
+
+  - 總司令官 顶天者/雷神（Dai Atlas）
+
+<!-- end list -->
+
+  - 攻撃参謀 音速爆弹（Sonic Bomber）
+
+<!-- end list -->
+
+  - 防衛参謀 路火（Roadfire）（设定人物，剧中未登场）
+
+三人能合體變成超級武器Big Powered。
+
+### 狂派
+
+  - 新破壊大帝 招魂魔（Violen jiger）
+
+<!-- end list -->
+
+  - 九大魔將軍
+    妖獣将軍 求雨鬼（Abominus）
+    悪霊将軍 暗黑萨克（Black Zarak）
+    火炎将軍 混天豹（Bruticus）（剧中未登场）
+    技術将軍 大力神（Devastator）
+    海魚将軍 海底狂魔（King Poseidon）
+    諜報将軍 飞天虎（Menasor）
+    超神将軍 霸王 （Overlord）
+    野獣将軍 冲云霄（Predaking）
+    恐竜将軍
+    [铁甲龙](https://zh.wikipedia.org/wiki/鐵甲龍_\(變形金剛\) "wikilink")（Trypticon）
+
+[Category:日本變形金剛動畫](https://zh.wikipedia.org/wiki/Category:日本變形金剛動畫 "wikilink")
+[Category:變形金剛](https://zh.wikipedia.org/wiki/Category:變形金剛 "wikilink")
+[Category:1990年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1990年日本OVA動畫 "wikilink")
+[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")

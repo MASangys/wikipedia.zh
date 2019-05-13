@@ -1,0 +1,88 @@
+**AV-Comparatives**是一个被[奥地利政府承认的](../Page/奥地利.md "wikilink")[非營利组织](../Page/非營利组织.md "wikilink")，也是一个国际性的独立测试机构，因提供针对電腦安全軟體（如：[防毒軟體](../Page/防毒軟體.md "wikilink")）的综合性与客观性评测结果而闻名。AV-Comparatives每年皆會發佈固定的年度評測報告，評測報告中會以客觀角度指出各家廠牌防毒軟體的優缺點及建議。AV-Comparatives
+无论是在对[计算机病毒查杀能力的测试上](../Page/计算机病毒.md "wikilink")，还是对其他各类有害程序的检测上，AVC始终被杀毒软件行业公认为信得过的独立测试机构。AVC也是行业公认的新测试技术开发方面的先驱和领袖。
+
+## 介绍
+
+AVC实验室现有400多个工作站和服务器，其中在奥地利的因斯布鲁克有300个、德国慕尼黑有40个、在全球还有50多个[蜜罐](../Page/蜜罐_\(電腦科學\).md "wikilink")（恶意软件信息收集系统）。其中部分设备安放在那些与AVC建立了合作关系的当地大学中。总体而言，AVC管理着超过400[TB的庞大安全数据](../Page/TB.md "wikilink")，它们全部被加密并被安全的保管着。
+
+该机构每年不定期选择安全软件市场中的具有一定影响力的安全产品进行测试。采用包括[后门程序](../Page/后门程序.md "wikilink")、[木马程序](../Page/木马程序.md "wikilink")、邮件蠕虫、脚本病毒及其他各类有害程序在内的数千个病毒样本对杀毒软件的查杀病毒能力、扫描速度、误报率等指标进行测试。
+
+为保证测试的独立和公正性，所有测试项目均不接受任何赞助和资金。截止2009年10月，AVC的杀毒软件测评共有17个品牌参与，AVC全部在真机上进行测试，其主要测试共有两项，每年两次。分为手动扫描测试和启发式智能扫描测试，另外还有误报测试、手动扫描速度测试和变种病毒扫描测试作为主要测试的参考项目。此外，AVC的辅助测试还包括整体性能测试、动态保护测试，清除能力测试和潜在有害程序检测能力测试。
+
+只有高水准的杀毒软件才能够参加AVC的常规测试，加入其测试需要产品的病毒检测率在很长一段时间保持在世界前18位，具有高病毒检测率，拥有自己的或者是得到许可的引擎，保证在指定的时间，在最高安全配置下不发生重大错误的完成对整个数据库的扫描。AVC每年4个季度会更新报告，给通过AVC测试的杀毒软件授予认证。
+
+## 测试方法
+
+测试方法则采用冻结杀毒软件引擎与病毒数据库3个月，并将在这3个月内出现的病毒新品种作为测试样本。在测试评审中，除了考虑防病毒软件对新病毒的识别比率外，还会考虑检测速度与病毒误报数量，最后给各参评的杀毒软件三个不同的成绩评分，包括最佳「ADVANCED+」、满意「ADVANCED」和一般「STANDARD」三种结果。
+
+2009年，主要测试项目包括手动潜在有害程序检测测试、启发式智能检测测试、整体性能测试、恶意软件检测测试、恶意软件清除测试和迄今为止进行过的最大的动态测试—全功能动态保护测试。
+
+2009年的测试运用了**751211**个样本。测试样本包括从2009年1月至10月间的流行文件及主流广告软件（如：Virtumonde，浏览器强盗）、间谍软件（如：keyloggers）以及流氓软件系统。
+
+## AV-Comparative歷屆冠軍產品（年度產品）
+
+AV-Comparatives所評定的「年度最佳產品」，被要求有較高的惡意軟體檢測率，以及「可能有害的應用程式」檢測率、高主動檢測率、極低產生誤報率（FP）、快速且穩定的掃描、對系統影響小、不會干擾用戶使用電腦、不需要用戶過多的干預與能有效地保護系統，免受惡意軟體和惡意網站帶來的威脅、不會引起當機、沒有煩人惱人的臭蟲（Bug）。
+
+  - 2004年-卡巴斯基\[1\]
+  - 2005年-卡巴斯基\[2\]
+  - 2006年-NOD32\[3\]
+  - 2007年-ESET NOD32\[4\]
+  - 2008年-Avira\[5\]
+  - 2009年-賽門鐵克\[6\]
+  - 2010年-F-Secure\[7\]
+  - 2011年-卡巴斯基\[8\]
+  - 2012年-比特梵德\[9\]
+  - 2013年-卡巴斯基\[10\]
+  - 2014年-比特梵德\[11\]
+  - 2015年-卡巴斯基\[12\]
+  - 2016年-Avira\[13\]
+
+## 外部連結
+
+  - [AV-comparatives 官方網站](http://www.av-comparatives.org)
+
+<references/>
+
+[分類:非營利組織](../Page/分類:非營利組織.md "wikilink")
+
+[Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink")
+
+1.  [Summary-Report
+    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
+    ：「詳見第4頁」
+2.  [Summary-Report
+    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
+    ：「詳見第4頁」
+3.  [Summary-Report
+    December 2006——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200612_en.pdf)
+    ：「詳見第3頁」
+4.  [Summary-Report
+    December 2007——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200712_en.pdf)
+    ：「詳見第3頁」
+5.  [Summary-Report
+    December 2008——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200812_en.pdf)
+    ：「詳見第3頁」
+6.  [Summary-Report
+    December 2009——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_200912_en.pdf)
+    ：「詳見第4頁」
+7.  [Summary-Report
+    December 2010——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201012_en.pdf)
+    ：「詳見第4頁」
+8.  [Summary-Report
+    December 2011——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2012/04/avc_sum_201112_en.pdf)
+    ：「詳見第4頁」
+9.  [Summary-Report
+    December 2012——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2013/01/avc_sum_201212_en.pdf)
+    ：「詳見第4頁」
+10. [Summary-Report
+    December 2013——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2014/01/avc_sum_201312_en.pdf)
+    ：「詳見第8頁」
+11. [Summary-Report
+    December 2014——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2015/01/avc_sum_201412_en.pdf)
+    ：「詳見第9頁」
+12. [Summary-Report
+    December 2015——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2016/01/avc_sum_201512_en.pdf)
+    ：「詳見第11頁」
+13. [Summary-Report
+    December 2016——Av-Comparatives](http://www.av-comparatives.org/wp-content/uploads/2017/02/avc_sum_201612_en.pdf)
+    ：「詳見第11頁」

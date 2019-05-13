@@ -1,0 +1,27 @@
+**Fenrir**是一間專門開發[網頁瀏覽器和提供各種網路情報服務的公司](../Page/網頁瀏覽器.md "wikilink")。總公司位於[日本](../Page/日本.md "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")。公司名稱是取自[北歐神話中的怪獸](../Page/北歐神話.md "wikilink")[芬里爾](../Page/芬里爾.md "wikilink")（Fenrisulfr），而推出的產品名稱也大多都與北歐神話有關。
+
+## 歷史
+
+  - 2005年6月13日公司成立。
+  - 2005年6月30日發表[行動電話專用的網頁瀏覽器](../Page/行動電話.md "wikilink")「[jig](../Page/jig.md "wikilink")」展開業務合作。
+  - 2005年7月14日發表與日本[Excite展開業務合作](../Page/Excite.md "wikilink")，推出以Sleipnir使用者專用的[入口網站](../Page/入口網站.md "wikilink")（\[Sleipnir
+    x Excite\]）。
+  - 2005年12月7日與[McAfee公司合作](../Page/McAfee.md "wikilink")，推出Sleipnir使用者專屬的網路安全軟體。
+  - 2006年4月12日在發表Grani的同時，依循「Sleipnir x Excite」模式推出「\[Grani x Excite\]」。
+  - 2006年7月5日與樂天發表合作計劃，同時推出適合infoseek網站使用的Grani版本。
+  - 2006年9月1日與美國[Google合作](../Page/Google.md "wikilink")，將Sleipnir與Grani的預設搜尋引擎變更為Google。
+  - 2006年12月6日與[iTunes
+    Store和](../Page/iTunes_Store.md "wikilink")[Amazon.co.jp合作音樂服務](../Page/亞馬遜網路書店.md "wikilink")。
+
+## 主要產品
+
+  - [Sleipnir](../Page/Sleipnir.md "wikilink")
+  - [Grani](../Page/Grani.md "wikilink")
+
+## 外部連結
+
+  - [Fenrir & Co.](http://www.fenrir-inc.com/cn/) 官方網站
+
+[Category:日本軟體公司](https://zh.wikipedia.org/wiki/Category:日本軟體公司 "wikilink")
+[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
+[Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")

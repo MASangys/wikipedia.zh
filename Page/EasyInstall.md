@@ -1,0 +1,22 @@
+**EasyInstall**
+是一個[Python語言的](../Page/Python.md "wikilink")[軟件包管理系統](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink")
+。EasyInstall提供一個標準的分配Python軟件和 [函式庫的格式](../Page/函式庫.md "wikilink")。
+`easy_install`是一個附帶设置工具的模块，和一個[第三方函式庫](https://zh.wikipedia.org/wiki/第三方软件组件 "wikilink")。這樣是旨在加快Python函式庫的分配程式的速度。\[1\]這個程式類似用於[Ruby語言的](../Page/Ruby.md "wikilink")[RubyGems](https://zh.wikipedia.org/wiki/RubyGems "wikilink")
+。
+
+## 參考
+
+## 外部連結
+
+  - [PyPI 项目頁面](http://pypi.python.org/pypi/setuptools)
+  - [EasyInstall文档](http://peak.telecommunity.com/DevCenter/EasyInstall)
+  - [setuptools文档](http://peak.telecommunity.com/DevCenter/setuptools)
+  - [Python Eggs](http://peak.telecommunity.com/DevCenter/PythonEggs)
+
+[Category:_Linux發行版](https://zh.wikipedia.org/wiki/Category:_Linux發行版 "wikilink")
+[Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink")
+
+[Category:_軟件包管理系統](https://zh.wikipedia.org/wiki/Category:_軟件包管理系統 "wikilink")
+
+1.  <http://peak.telecommunity.com/DevCenter/setuptools> September 1,
+    2009

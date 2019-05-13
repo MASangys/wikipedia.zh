@@ -1,0 +1,56 @@
+**卡斯帝C.C**（Carlos Castillo ，）
+，為[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/运动员 "wikilink")，曾經效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[誠泰COBRAS與](https://zh.wikipedia.org/wiki/誠泰COBRAS "wikilink")[兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")，守備位置為[投手](../Page/投手.md "wikilink")。2010年球季拿下勝投王、防禦率王與最佳十人獎。
+
+## 經歷
+
+  - [美國職棒](../Page/美國職業棒球大聯盟.md "wikilink")[芝加哥白襪隊](../Page/芝加哥白襪.md "wikilink")（小聯盟～大聯盟，1994年～1999年）
+  - 美國職棒[佛羅里達馬林魚隊](../Page/邁阿密馬林魚.md "wikilink")（小聯盟，2000年）
+  - 美國職棒[波士頓紅襪隊](../Page/波士頓紅襪.md "wikilink")（小聯盟～大聯盟，2000年～2001年）
+  - [日本職棒](https://zh.wikipedia.org/wiki/日本棒球機構 "wikilink")[福岡大榮鷹隊](../Page/福岡軟銀鷹.md "wikilink")（2002年）
+  - 美國職棒[芝加哥白襪隊](../Page/芝加哥白襪.md "wikilink")（小聯盟，2003年）
+  - 美國職棒獨立聯盟Newark Bears（2005年）
+  - 美國職棒獨立聯盟Road Warriors（2007年）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[誠泰Cobras隊](https://zh.wikipedia.org/wiki/誠泰COBRAS "wikilink")（2007年）（譯名:**凱提歐**）
+  - 美國職棒獨立聯盟Bridgeport Bluefish（2008年）
+  - 美國職棒獨立聯盟Long Island Ducks（2008年）
+  - 美國職棒獨立聯盟Joliet JackHammers（2008年）
+  - 美國職棒獨立聯盟South Louisiana Pipeliners （2009年）
+  - 委內瑞拉聯盟Navegantes del Magallanes （2009年10月～12月）
+  - 波多黎各棒球聯盟Gigantes de Carolina（2009年12月～2011年1月17日）
+  - 中華職棒[兄弟象隊](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")（改名：**卡斯帝**）（2010年3月～2011年4月2日）
+
+## 職棒生涯成績
+
+### 美國職棒
+
+| 年度    | 球隊                                   | 出賽  | 勝投 | 敗投 | 中繼 | 救援 | 完投 | 完封 | 四死 | 三振  | 責失  | 投球局數  | 防禦率  |
+| ----- | ------------------------------------ | --- | -- | -- | -- | -- | -- | -- | -- | --- | --- | ----- | ---- |
+| 1997年 | [芝加哥白襪](../Page/芝加哥白襪.md "wikilink") | 37  | 2  | 1  | 3  | 1  | 0  | 0  | 33 | 43  | 33  | 66.1  | 4.48 |
+| 1998年 | [芝加哥白襪](../Page/芝加哥白襪.md "wikilink") | 54  | 6  | 4  | 3  | 0  | 0  | 0  | 35 | 64  | 57  | 100.1 | 5.11 |
+| 1999年 | [芝加哥白襪](../Page/芝加哥白襪.md "wikilink") | 18  | 2  | 2  | 1  | 0  | 0  | 0  | 14 | 23  | 26  | 41.0  | 5.71 |
+| 2001年 | [波士頓紅襪](../Page/波士頓紅襪.md "wikilink") | 2   | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0   | 2   | 3.0   | 6.00 |
+| 合計    | 4年                                   | 111 | 10 | 7  | 7  | 1  | 0  | 0  | 82 | 130 | 118 | 210.2 | 5.04 |
+
+### 中華職棒
+
+| 年度    | 球隊                                                            | 出賽 | 勝投     | 敗投 | 中繼 | 救援 | 完投 | 完封 | 四死 | 三振 | 責失 | 投球局數  | 防禦率      |
+| ----- | ------------------------------------------------------------- | -- | ------ | -- | -- | -- | -- | -- | -- | -- | -- | ----- | -------- |
+| 2007年 | [誠泰COBRAS](https://zh.wikipedia.org/wiki/誠泰COBRAS "wikilink") | 6  | 0      | 4  | 0  | 0  | 0  | 0  | 1  | 11 | 18 | 21.1  | 7.59     |
+| 2010年 | [兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")           | 36 | **14** | 5  | 5  | 2  | 3  | 0  | 16 | 83 | 40 | 165.2 | **2.17** |
+| 2011年 | [兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")           | 2  | 0      | 2  | 0  | 0  | 0  | 0  | 2  | 1  | 10 | 4.1   | 20.77    |
+| 合計    | 3年                                                            | 44 | 14     | 11 | 5  | 2  | 3  | 0  | 19 | 95 | 68 | 191.1 | 3.20     |
+
+## 特殊事蹟
+
+  - 2010年6月12日面對[La
+    New熊隊](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，主投9局被打出5支安打，送出3次三振，1次四死球，拿下個人在[中華職棒第一場](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[完投勝](https://zh.wikipedia.org/wiki/完投 "wikilink")。
+  - 2010年8月7日面對[La
+    New熊隊](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")，主投8局被打出5支安打，送出3次三振，1次四死球，拿下本季第10勝，成為本季第一位拿到10勝的投手。
+
+## 外部連結
+
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:兄弟象隊球員](https://zh.wikipedia.org/wiki/Category:兄弟象隊球員 "wikilink")
+[Category:美國棒球選手](https://zh.wikipedia.org/wiki/Category:美國棒球選手 "wikilink")
+[Category:中華職棒勝投王](https://zh.wikipedia.org/wiki/Category:中華職棒勝投王 "wikilink")
+[Category:中華職棒防禦率王](https://zh.wikipedia.org/wiki/Category:中華職棒防禦率王 "wikilink")

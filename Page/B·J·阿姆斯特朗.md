@@ -1,0 +1,130 @@
+| career_position = 控球后卫{{\#tag:ref||name=nbastat}} | birth_date =  |
+birth_place = [底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink") |
+nationality =  | height_ft = 6 | height_in = 2 | weight_lb = 175 |
+highschool = Brother Rice in Birmingham,
+[密歇根](https://zh.wikipedia.org/wiki/密歇根 "wikilink") | college =
+[爱荷华大学](https://zh.wikipedia.org/wiki/爱荷华大学 "wikilink")（1985年−1989年）
+| draft =　 | draft_year = 1989 | draft_round = 1 | draft_pick = 18 |
+draft_team = [芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | career_start =
+1989年 | career_end = 2000年 | teams = | years1=–
+|team1=[芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | years2=–
+|team2=[金州勇士](../Page/金州勇士.md "wikilink") | years3=–
+|team3=[夏洛特黄蜂](https://zh.wikipedia.org/wiki/夏洛特黄蜂 "wikilink")
+| years4= |team4=[奥兰多魔术](../Page/奥兰多魔术.md "wikilink") | years5=
+|team5=芝加哥公牛 | coach = | highlights =
+
+  - 3次[NBA總冠軍](https://zh.wikipedia.org/wiki/NBA總冠軍列表 "wikilink")（[1991年](https://zh.wikipedia.org/wiki/1991年NBA总决赛 "wikilink")-[1993年](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")）
+  - [NBA全明星](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")（[1994年](https://zh.wikipedia.org/wiki/1993-94_NBA赛季 "wikilink")）
+  - 10号球衣为[爱荷华大学退役](https://zh.wikipedia.org/wiki/爱荷华大学 "wikilink")
+
+| stats_league = NBA | stat1label =
+[得分](https://zh.wikipedia.org/wiki/得分_\(篮球\) "wikilink") |
+stat1value = 7,320（场均9.8分） | stat2label =
+[篮板](../Page/篮板球.md "wikilink") | stat2value = 1,321（场均1.8个） |
+stat3label = [助攻](../Page/助攻.md "wikilink") | stat3value = 2,479（场均3.3次）
+| letter = a | bbr = armstbj01 | profile = | HOF = | HOF_player = |
+HOF_coach = | medal_templates =     }}
+
+**小本杰明·罗伊·阿姆斯特朗**（，），[美國職業籃球聯賽运动员](https://zh.wikipedia.org/wiki/美國職業籃球聯賽 "wikilink")，在1989年的[NBA选秀中第](../Page/NBA选秀.md "wikilink")1轮第18顺位被芝加哥公牛选中。\[1\]在公牛隊時期，阿姆斯壯主要擔任[約翰·帕克森的替補後衛](../Page/约翰·帕克森.md "wikilink")，為1991-93年[公牛王朝的重要成員](../Page/公牛王朝.md "wikilink")。
+
+## NBA生涯统计
+
+|   |                                                                                                                              |
+| - | ---------------------------------------------------------------------------------------------------------------------------- |
+| † | Denotes seasons in which Armstrong won an [NBA championship](https://zh.wikipedia.org/wiki/List_of_NBA_champions "wikilink") |
+
+### 常规赛
+
+|- | style="text-align:left;"|  |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1989–90_Chicago_Bulls_season "wikilink")
+| 81 || 0 || 15.9 || .485 || .500 || .885 || 1.3 || 2.5 || 0.6 ||
+**0.1** || 5.6 |- | style="text-align:left;background:\#afe6ba;"| † |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1990–91_Chicago_Bulls_season "wikilink")
+| **82** || 0 || 21.1 || .481 || .500 || .874 || 1.8 || 3.7 || 0.9 ||
+0.0 || 8.8 |- | style="text-align:left;background:\#afe6ba;"| † |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1991–92_Chicago_Bulls_season "wikilink")
+| **82** || 3 || 22.9 || .481 || .402 || .806 || 1.8 || 3.2 || 0.6 ||
+**0.1** || 9.9 |- | style="text-align:left;background:\#afe6ba;"| † |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1992–93_Chicago_Bulls_season "wikilink")
+| **82** || 74 || 30.4 || .499 || .453 || .861 || 1.8 || 4.0 || 0.8 ||
+**0.1** || 12.3 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1993–94_Chicago_Bulls_season "wikilink")
+| **82** || **82** || **33.8** || .476 || .444 || .855 || 2.1 || 3.9 ||
+**1.0** || **0.1** || **14.8** |- | style="text-align:left;"|  |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1994–95_Chicago_Bulls_season "wikilink")
+| **82** || **82** || 31.4 || .468 || .427 || .884 || **2.3** || 3.0 ||
+**1.0** || **0.1** || 14.0 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Golden
+State](https://zh.wikipedia.org/wiki/1995–96_Golden_State_Warriors_season "wikilink")
+| **82** || 64 || 27.6 || .468 || .473 || .839 || 2.2 || **4.9** || 0.8
+|| **0.1** || 12.3 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Golden
+State](https://zh.wikipedia.org/wiki/1996–97_Golden_State_Warriors_season "wikilink")
+| 49 || 17 || 20.8 || .453 || .278 || .861 || 1.5 || 2.6 || 0.5 || 0.0
+|| 7.9 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Golden
+State](https://zh.wikipedia.org/wiki/1997–98_Golden_State_Warriors_season "wikilink")
+| 4 || 0 || 14.8 || .316 || .000 || .714 || 1.8 || 1.5 || **1.0** || 0.0
+|| 4.3 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Charlotte](https://zh.wikipedia.org/wiki/1997–98_Charlotte_Hornets_season "wikilink")
+| 62 || 0 || 12.5 || **.510** || .265 || .860 || 1.1 || 2.3 || 0.4 ||
+0.0 || 3.9 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Charlotte](https://zh.wikipedia.org/wiki/1998–99_Charlotte_Hornets_season "wikilink")
+| 10 || 1 || 17.8 || .488 || **.750** || **.900** || 1.6 || 2.7 || 0.3
+|| 0.0 || 5.7 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Orlando](https://zh.wikipedia.org/wiki/1998–99_Orlando_Magic_season "wikilink")
+| 22 || 0 || 8.2 || .422 || .143 || .818 || 1.0 || 1.5 || 0.4 || 0.0 ||
+2.2 |- | style="text-align:left;"|  |
+style="text-align:left;"|[Chicago](https://zh.wikipedia.org/wiki/1999–2000_Chicago_Bulls_season "wikilink")
+| 27 || 18 || 21.6 || .446 || .448 || .880 || 1.7 || 2.9 || 0.3 || 0.0
+|| 7.4 |- class="sortbottom" | style="text-align:center;" colspan="2"|
+Career | 747 || 341 || 23.8 || .477 || .425 || .856 || 1.8 || 3.3 || 0.7
+|| 0.1 || 9.8 |- class="sortbottom" | style="text-align:center;"
+colspan="2"| All-Star | 1 || 1 || 22.0 || .556 || .500 || – || 1.0 ||
+4.0 || 0.0 || 0.0 || 11.0
+
+### 季后赛
+
+|-
+|style="text-align:left;"|[1990](https://zh.wikipedia.org/wiki/1990_NBA_Playoffs "wikilink")
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1989-90_Chicago_Bulls_season "wikilink")
+|16||0||13.6||.339||.000||**.917**||1.3||1.8||0.6||0.0||4.0 |- |
+style="text-align:left;background:\#afe6ba;"|[1991](https://zh.wikipedia.org/wiki/1991_NBA_Playoffs "wikilink")†
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1990-91_Chicago_Bulls_season "wikilink")
+|17||0||16.1||.500||**.600**||.800||1.6||2.5||**1.1**||**0.1**||5.5 |- |
+style="text-align:left;background:\#afe6ba;"|[1992](https://zh.wikipedia.org/wiki/1992_NBA_Playoffs "wikilink")†
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1991-92_Chicago_Bulls_season "wikilink")
+|**22**||0||19.7||.453||.294||.789||1.1||2.1||0.6||0.0||7.3 |- |
+style="text-align:left;background:\#afe6ba;"|[1993](https://zh.wikipedia.org/wiki/1993_NBA_Playoffs "wikilink")†
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1992-93_Chicago_Bulls_season "wikilink")
+|19||**19**||33.8||**.524**||.512||.909||1.5||**3.3**||1.0||**0.1**||11.4
+|- |
+style="text-align:left;"|[1994](https://zh.wikipedia.org/wiki/1994_NBA_Playoffs "wikilink")
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1993-94_Chicago_Bulls_season "wikilink")
+|10||10||**36.0**||.519||**.583**||.818||**2.4**||2.5||0.8||0.0||**15.3**
+|- |
+style="text-align:left;"|[1995](https://zh.wikipedia.org/wiki/1995_NBA_Playoffs "wikilink")
+|style="text-align:left;”|[Chicago](https://zh.wikipedia.org/wiki/1994-95_Chicago_Bulls_season "wikilink")
+|10||10||28.8||.456||.448||.818||1.8||2.7||0.6||0.0||10.3 |- |
+style="text-align:left;"|[1998](https://zh.wikipedia.org/wiki/1998_NBA_Playoffs "wikilink")
+|style="text-align:left;”|[Charlotte](https://zh.wikipedia.org/wiki/1997-98_Charlotte_Hornets_season "wikilink")
+|9||0||16.2||.381||.400||.750||1.1||2.0||0.7||0.0||4.1 |- |
+style="text-align:left;"|[1999](https://zh.wikipedia.org/wiki/1999_NBA_Playoffs "wikilink")
+|style="text-align:left;”|[Orlando](https://zh.wikipedia.org/wiki/1998-99_Orlando_Magic_season "wikilink")
+|2||0||1.5||.000||–||–||0.0||0.5||0.0||0.0||0.0 |- class="sortbottom" |
+style="text-align:center;" colspan="2"| Career | 105 || 39 || 22.5 ||
+.471 || .451 || .832 || 1.4 || 2.4 || 0.8 || 0.0 || 7.9
+
+## 参考资料
+
+[Category:底特律人](https://zh.wikipedia.org/wiki/Category:底特律人 "wikilink")
+[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
+[Category:非洲裔美国篮球运动员](https://zh.wikipedia.org/wiki/Category:非洲裔美国篮球运动员 "wikilink")
+[Category:控球后卫](https://zh.wikipedia.org/wiki/Category:控球后卫 "wikilink")
+[Category:爱荷华大学校友](https://zh.wikipedia.org/wiki/Category:爱荷华大学校友 "wikilink")
+[Category:芝加哥公牛隊球員](https://zh.wikipedia.org/wiki/Category:芝加哥公牛隊球員 "wikilink")
+[Category:金州勇士隊球員](https://zh.wikipedia.org/wiki/Category:金州勇士隊球員 "wikilink")
+[Category:夏洛特黃蜂隊球員](https://zh.wikipedia.org/wiki/Category:夏洛特黃蜂隊球員 "wikilink")
+[Category:奧蘭多魔術隊球員](https://zh.wikipedia.org/wiki/Category:奧蘭多魔術隊球員 "wikilink")
+
+1.

@@ -1,0 +1,96 @@
+**开放服务网关倡议**（OSGi，Open Service Gateway Initiative）有双重含义。一方面它指OSGi
+Alliance组织；另一方面指该组织制定的一个基于[Java语言的服务](../Page/Java.md "wikilink")（业务）规范——OSGi服务平台（Service
+Platform）。
+
+**OSGi Alliance**是一个由[Sun
+Microsystems](../Page/Sun_Microsystems.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[爱立信等于](../Page/爱立信.md "wikilink")1999年3月成立的开放的[标准化组织](../Page/标准化组织.md "wikilink")，最初名为Connected
+Alliance。该组织及其标准原本主要目的在于使服务提供商通过住宅网关，为各种家庭智能设备提供各种服务。目前该平台逐渐成为一个为室内、交通工具、移动电话和其他环境下的所有类型的网络设备的应用程序和服务进行传递和远程管理的开放式服务平台。
+
+该规范和核心部分是一个[框架](../Page/框架.md "wikilink")，其中定义了应用程序的[生命周期模式和](../Page/生命周期.md "wikilink")[服务注册](../Page/服务注册.md "wikilink")。基于这个框架定义了大量的OSGi服务：[日志](../Page/日志.md "wikilink")、[配置管理](../Page/配置管理.md "wikilink")、偏好，[HTTP](../Page/HTTP.md "wikilink")（运行[servlet](../Page/servlet.md "wikilink")）、[XML分析](../Page/XML.md "wikilink")、设备访问、[软件包管理](../Page/软件包.md "wikilink")、许可管理、星级、用户管理、IO连接、连线管理、[Jini和](../Page/Jini.md "wikilink")[UPnP](../Page/UPnP.md "wikilink")。
+
+这个框架实现了一个优雅、完整和动态的[组件模型](../Page/组件模型.md "wikilink")。应用程序（称为[bundle](../Page/bundle.md "wikilink")）无需重新引导可以被远程安装、启动、升级和卸载（其中Java包／类的管理被详细定义）。API中还定义了运行远程下载管理政策的[生命周期管理](../Page/生命周期管理.md "wikilink")。[服务注册允许bundles去检测新](../Page/服务注册.md "wikilink")[服务和取消的服务](../Page/服务.md "wikilink")，然后相应配合。
+
+OSGi原先关注于[服务网关](../Page/服务网关.md "wikilink")，其实可用于多个方面。现在OSGi规范已经用于从[移动电话到开源的](../Page/移动电话.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")（其中包括了与IBM的OSGi框架[SMF兼容的开源版本](../Page/Service_Management_Framework.md "wikilink")）。
+OSGi服务平台的应用包括：[服务网关](../Page/服务网关.md "wikilink")、[汽车](../Page/汽车.md "wikilink")、[移动电话](../Page/移动电话.md "wikilink")、[工业自动化](../Page/工业自动化.md "wikilink")、[建筑物自动化](../Page/建筑物自动化.md "wikilink")、[PDA](../Page/PDA.md "wikilink")
+[网格计算](../Page/网格计算.md "wikilink")、[娱乐](../Page/娱乐.md "wikilink")（如[iPronto](../Page/iPronto.md "wikilink")）、和[IDE](../Page/IDE.md "wikilink")。
+
+OSGi规范是由成员通过公开的程序开发，对公众免费而且没有许可证限制。但是OSGi
+Alliance的[兼容性程序只对成员开放](../Page/兼容性.md "wikilink")，目前有12个兼容的[实现](../Page/实现.md "wikilink")。
+
+2003年[Eclipse选择OSGi作为其](../Page/Eclipse.md "wikilink")[插件的底层运行时架构](../Page/插件.md "wikilink")。[Equinox](http://www.eclipse.org/equinox/)
+project对该理念进行了实验，2004年6月在Eclipse3
+R3中发布。[ProSyst是面向OSGi开发者的Eclipse插件](../Page/ProSyst.md "wikilink")。
+
+2003年10月，[诺基亚](../Page/诺基亚.md "wikilink")、[摩托罗拉](../Page/摩托罗拉.md "wikilink")，[ProSyst和其他OSGi成员组建了Mobile](../Page/ProSyst.md "wikilink")
+Expert
+Group（MEG）为下一代智能手机规范业务平台，做为对[MIDP和](../Page/MIDP.md "wikilink")[CDC的补充](../Page/CDC.md "wikilink")。
+
+## 版本
+
+  - R1 2000年5月
+  - R2 2001年10月
+  - R3 2003年3月
+  - R4 2005年10月
+  - R5 2013年12月
+  - R6 2015年6月
+
+## 参见
+
+  - [JINI](../Page/JINI.md "wikilink")
+
+  - [HomePlug](../Page/HomePlug.md "wikilink")
+
+  -
+  - [CEBus](../Page/CEBus.md "wikilink")
+
+  - [蓝牙](../Page/蓝牙.md "wikilink")
+
+  - [Wi-Fi](../Page/Wi-Fi.md "wikilink")
+
+  - [LonWorks](../Page/LonWorks.md "wikilink")
+
+  - [CORBA](../Page/CORBA.md "wikilink")
+
+  - [服务定位协议](../Page/服务定位协议.md "wikilink")
+
+  - [Salutation](../Page/Salutation.md "wikilink")
+
+## 参考
+
+  - <cite>OSGi Service Platform, Release 3</cite>, IOS Press, ISBN
+    1-58603-311-5
+
+## 外部链接
+
+  - [OSGI中文社区](https://web.archive.org/web/20130613171332/http://www.osgi.com.cn/)
+    --促进Java模块化开发技术传播
+  - [OSGi官方网站](http://www.osgi.org/)——可下载标准规范，提供各种信息
+  - [FAQ](https://archive.is/20130503081759/http://www.osgi.org/about/faqs.asp)
+  - [OSGi World Congress](http://www.osgiworldcongress.com/) - 2004
+    congress in October in Barcelona
+  - [ProSyst Software GmbH](http://www.prosyst.com/) - Leading OSGi
+    Software Provider for Remote Management and Service Delivery
+  - [aQute: OSGi Info](http://www.aqute.biz/) - Information about OSGi
+    and access to seminars
+  - [Oscar: An OSGi framework
+    implementation](http://oscar.objectweb.org/) - Open Source OSGi
+    framework implementation under BSD license
+  - [Oscar Bundle Repository (OBR)](http://oscar-osgi.sourceforge.net/)
+    - A community-oriented bundle repository and incubator for OSGi
+    bundle developers
+  - [Knopflerfish OSGi](http://www.knopflerfish.org/) Open Source OSGi
+    implementation under BSD license
+  - [Oxygen Project](http://oxygen.sourceforge.net/)
+  - [ServiceBinder](http://gravity.sourceforge.net/servicebinder) -
+    Automated Service Dependency Management for the OSGi services
+    platform
+  - [Dependency
+    Manager](https://web.archive.org/web/20050514041232/http://www.osgi.org/news_events/documents/AutoManageServiceDependencies_byMOffermans.pdf)
+    - Automatically managing service dependencies in OSGi
+  - [Makewave](http://www.makewave.com/) - Leading OSGi Technology
+    Provider, maintains the open source OSGi implementation
+    [Knopflerfish](http://www.knopflerfish.org/)
+
+[Category:标准](https://zh.wikipedia.org/wiki/Category:标准 "wikilink")
+[Category:标准制订机构](https://zh.wikipedia.org/wiki/Category:标准制订机构 "wikilink")
+[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")

@@ -1,0 +1,10 @@
+**PEC施禾利**（**PEC
+Zwolle**），[荷兰](../Page/荷兰.md "wikilink")[兹沃勒市的一个](../Page/兹沃勒.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。该队现参加[荷蘭足球甲級聯賽](https://zh.wikipedia.org/wiki/荷蘭足球甲級聯賽 "wikilink")。
+
+## 外部链接
+
+  - [Official
+    Website](https://web.archive.org/web/20050617214038/http://www.fczwolle.nl/)
+
+[Category:荷兰足球俱乐部](https://zh.wikipedia.org/wiki/Category:荷兰足球俱乐部 "wikilink")
+[Category:1910年建立的足球俱樂部](https://zh.wikipedia.org/wiki/Category:1910年建立的足球俱樂部 "wikilink")

@@ -1,0 +1,301 @@
+《**放學ICU**\[1\]》（）（2005年1月3日—2015年1月9日），[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的一個兒童節目](../Page/電視廣播有限公司.md "wikilink")，此節目接替同類型兒童節目《[至NET小人類](../Page/至NET小人類.md "wikilink")》，[收視約為](../Page/收視率.md "wikilink")3－9點。\[2\]
+
+## 概要
+
+2005年1月，節目於成立初期以兒童劇《[蔥蔥闖地球](../Page/蔥蔥闖地球.md "wikilink")》及布偶角色「蔥蔥」作為招徠，每集上半部均播放該齣短劇，插播動畫以後的下半部則是由參與短劇的成員與若干藝員沿用劇中佈景，一同主持主題環節。2005年10月，當《[蔥蔥闖地球](../Page/蔥蔥闖地球.md "wikilink")》播放完畢後，所有節目內容回歸傳統的主題環節，並於後段引入正式的主題曲。
+
+2007年12月31日，高清數碼電視啟播，《放學ICU》亦同時進行內容及形式改革。在佈景方面，每天有不同的新主題佈景，另一重點是再次推出兒童連續劇《[神探阿Tom](../Page/神探阿Tom.md "wikilink")》，但是只限於每星期一集。星期一的動畫播放時間曾經改為下午4：20，於播完後才插播兩節自製內容。
+
+2010年2月1日，節目再次進行另一次內容改革。在動畫編排方面，星期一播放時間改回下午4:35，使星期一至星期五的播放時間再次統一為下午4:35，同日亦更換片頭。另外於2011月8月1日起，因為節目內播映之動畫《[寵物-{小}-精靈DP
+III](../Page/神奇寶貝鑽石&珍珠.md "wikilink")》改為[16:9製作](../Page/16:9.md "wikilink")，使節目於[模擬](../Page/模擬.md "wikilink")[頻道亦改以](../Page/頻道.md "wikilink")[4:3黑邊模式播放](../Page/黑邊.md "wikilink")。因此從當天起，本節目均只會播放[16:9制作的動畫](../Page/16:9.md "wikilink")，而不再播放[4:3制作的動畫](../Page/4:3.md "wikilink")。
+
+2013年5月13日，本節目進行第三度內容改革，亦更換主題曲，並重新引入[無線兒童台之菠蘿家族布偶](../Page/無線兒童台.md "wikilink")。同年7月15日起，本節目改為高清製作。
+
+2014年4月18日，主持無綫電視兒童節目長達32年的[譚玉瑛退出主持群](../Page/譚玉瑛.md "wikilink")，被網民喻為「一個集體回憶的消失」。
+
+2014年10月2日，由於節目播映中途插播《特別新聞報道》，故《放學ICU》當天只能播出半集，餘下半集改於同年12月4日補播。2014年10月3日起，為了避免及後因播放《特別新聞報道》等而令節目時間拉長或停播，改為不播映動畫（動畫改於節目前獨立播映）以縮短節目長度至今。
+
+2014年12月21日，因應節目再度大革新，當日為本節目最後一次錄影，錄影於2015年1月9日播放，並由1月12日起被新通識教育節目《[Think
+Big
+天地](../Page/Think_Big_天地.md "wikilink")》取代。\[3\]截至2015年1月，本節目已播映已10年1星期，共播放2614集，僅次於1989年至1999年播映10年3個月的《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》，成為TVB史上第二長的兒童節目。
+
+2015年1月9日，本節目成為TVB史上最後播放及製作有小主持的兒童節目。
+
+## 前主持
+
+## 小主持
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/陈子慧.md" title="wikilink">陈子慧</a><br />
+（資深小主持）</p></td>
+<td><p><a href="../Page/孔祺.md" title="wikilink">孔祺</a><br />
+（資深小主持）</p></td>
+<td><p><a href="../Page/陳沛妍.md" title="wikilink">陳沛妍</a><br />
+（高級小主持）</p></td>
+<td><p><a href="../Page/謝芷欣.md" title="wikilink">謝芷欣</a><br />
+（副首席小主持）</p></td>
+<td><p><a href="../Page/鄭可琳.md" title="wikilink">鄭可琳</a><br />
+（高級小主持）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/許穎童.md" title="wikilink">許穎童</a><br />
+（副首席小主持）</p></td>
+<td><p><a href="../Page/郭爾妮.md" title="wikilink">郭爾妮</a><br />
+（副首席小主持）</p></td>
+<td><p><a href="../Page/鄭嘉樂.md" title="wikilink">鄭嘉樂</a><br />
+（副首席小主持）</p></td>
+<td><p><a href="../Page/陳靖琳.md" title="wikilink">陳靖琳</a><br />
+（高級小主持）</p></td>
+<td><p><a href="../Page/陳楚洳.md" title="wikilink">陳楚洳</a><br />
+（高級小主持）</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>無綫收費電視兒童台(2004-2011)兼</strong>放學ICU<strong>小主持</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/許穎童.md" title="wikilink">許穎童</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台副首席小主持</a>）</p></td>
+<td><p><a href="../Page/謝芷欣.md" title="wikilink">謝芷欣</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台副首席小主持</a>）</p></td>
+<td><p><a href="../Page/鄭嘉樂.md" title="wikilink">鄭嘉樂</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台副首席小主持</a>）</p></td>
+<td><p><a href="../Page/陳穎桐.md" title="wikilink">陳穎桐</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台高級小主持</a>）</p></td>
+<td><p><a href="../Page/許穎心.md" title="wikilink">許穎心</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台高級小主持</a>）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/郭爾妮.md" title="wikilink">郭爾妮</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台副首席小主持</a>）</p></td>
+<td><p><a href="../Page/何韻熙.md" title="wikilink">何韻熙</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台高級小主持</a>）</p></td>
+<td><p><a href="../Page/宋卓峰.md" title="wikilink">宋卓峰</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台高級小主持</a>）</p></td>
+<td><p><a href="../Page/黃琬婷.md" title="wikilink">黃琬婷</a><br />
+（<a href="../Page/無綫兒童台.md" title="wikilink">無綫兒童台高級小主持</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>常規小主持</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/劉雋賢.md" title="wikilink">劉雋賢</a></p></td>
+<td><p><a href="../Page/陳靖琳.md" title="wikilink">陳靖琳</a></p></td>
+<td><p><a href="../Page/劉為豐.md" title="wikilink">劉為豐</a></p></td>
+<td><p><a href="../Page/林展浩.md" title="wikilink">林展浩</a></p></td>
+<td><p><a href="../Page/陳沛妍.md" title="wikilink">陳沛妍</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鄭可琳.md" title="wikilink">鄭可琳</a></p></td>
+<td><p><a href="../Page/翁浚峰.md" title="wikilink">翁浚峰</a></p></td>
+<td><p><a href="../Page/洪厚年.md" title="wikilink">洪厚年</a></p></td>
+<td><p><a href="../Page/梁思齊.md" title="wikilink">梁思齊</a></p></td>
+<td><p><a href="../Page/謝曉聰.md" title="wikilink">謝曉聰</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/潘胤安.md" title="wikilink">潘胤安</a></p></td>
+<td><p><a href="../Page/黃敏璇.md" title="wikilink">黃敏璇</a></p></td>
+<td><p><a href="../Page/陳煒迪.md" title="wikilink">陳煒迪</a></p></td>
+<td><p><a href="../Page/李欣桐.md" title="wikilink">李欣桐</a></p></td>
+<td><p><a href="../Page/程子軒.md" title="wikilink">程子軒</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/謝芷欣.md" title="wikilink">謝芷欣</a></p></td>
+<td><p><a href="../Page/陳楚洳.md" title="wikilink">陳楚洳</a></p></td>
+<td><p><a href="../Page/楊凱博.md" title="wikilink">楊凱博</a></p></td>
+<td><p><a href="../Page/陳泓達.md" title="wikilink">陳泓達</a></p></td>
+<td><p><a href="../Page/鄔卓廷.md" title="wikilink">鄔卓廷</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/丘思穎.md" title="wikilink">丘思穎</a></p></td>
+<td><p><a href="../Page/羅梓龍.md" title="wikilink">羅梓龍</a></p></td>
+<td><p><a href="../Page/羅曉雯.md" title="wikilink">羅曉雯</a></p></td>
+<td><p><a href="../Page/余恩驕.md" title="wikilink">余恩驕</a></p></td>
+<td><p><a href="../Page/許思語.md" title="wikilink">許思語</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/方麗淇.md" title="wikilink">方麗淇</a></p></td>
+<td><p><a href="../Page/楊希媛.md" title="wikilink">楊希媛</a></p></td>
+<td><p><a href="../Page/楊景蕊.md" title="wikilink">楊景蕊</a></p></td>
+<td><p><a href="../Page/張芷渝.md" title="wikilink">張芷渝</a></p></td>
+<td><p><a href="../Page/鄧泳然.md" title="wikilink">鄧泳然</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/蔡蔚然.md" title="wikilink">蔡蔚然</a></p></td>
+<td><p><a href="../Page/張傲程.md" title="wikilink">張傲程</a></p></td>
+<td><p><a href="../Page/張皓銘.md" title="wikilink">張皓銘</a></p></td>
+<td><p><a href="../Page/蕭諾民.md" title="wikilink">蕭諾民</a></p></td>
+<td><p><a href="../Page/王千晴.md" title="wikilink">王千晴</a></p></td>
+</tr>
+</tbody>
+</table>
+
+|                                  |                                         |                                         |                                  |                                  |
+| -------------------------------- | --------------------------------------- | --------------------------------------- | -------------------------------- | -------------------------------- |
+| [潘迪](../Page/潘迪.md "wikilink")   | [胡曉嵐](../Page/胡曉嵐.md "wikilink")        | [王秉熹](../Page/王秉熹.md "wikilink")        | [謝宛婷](../Page/謝宛婷.md "wikilink") | [陳景昆](../Page/陳景昆.md "wikilink") |
+| [雷子俊](../Page/雷子俊.md "wikilink") | [韓靜怡](../Page/韓靜怡.md "wikilink")        | [黃嘉豪](../Page/黃嘉豪_\(演員\).md "wikilink") | [雷芯宜](../Page/雷芯宜.md "wikilink") | [鮑天佑](../Page/鮑天佑.md "wikilink") |
+| [江君佑](../Page/江君佑.md "wikilink") | [原鳳君](../Page/原鳳君.md "wikilink")        | [王樹熹](../Page/王樹熹.md "wikilink")        | [朱樂旻](../Page/朱樂旻.md "wikilink") | [梁梓軒](../Page/梁梓軒.md "wikilink") |
+| [張昊文](../Page/張昊文.md "wikilink") | [陳俊宇](../Page/陳俊宇.md "wikilink")        | [楊鈺河](../Page/楊鈺河.md "wikilink")        | [阮楒惠](../Page/阮楒惠.md "wikilink") | [林蕙卿](../Page/林蕙卿.md "wikilink") |
+| [梁琦瑜](../Page/梁琦瑜.md "wikilink") | [許嘉晉](../Page/許嘉晉.md "wikilink")        | [陳嘉雯](../Page/陳嘉雯.md "wikilink")        | [梁耀賢](../Page/梁耀賢.md "wikilink") | [洛鰻延](../Page/洛鰻延.md "wikilink") |
+| [莫凱謙](../Page/莫凱謙.md "wikilink") | [王雪盈](../Page/王雪盈_\(演員\).md "wikilink") | [呂俊達](../Page/呂俊達.md "wikilink")        | [溫子賢](../Page/溫子賢.md "wikilink") | [沈嘉彤](../Page/沈嘉彤.md "wikilink") |
+| [沈嘉善](../Page/沈嘉善.md "wikilink") | [吳灝璋](../Page/吳灝璋.md "wikilink")        | [郭穎霖](../Page/郭穎霖.md "wikilink")        | [沈嘉君](../Page/沈嘉君.md "wikilink") | [張泳儀](../Page/張泳儀.md "wikilink") |
+| [陳曉揚](../Page/陳曉揚.md "wikilink") | [謝芷欣](../Page/謝芷欣_\(演員\).md "wikilink") | [葉美妤](../Page/葉美妤.md "wikilink")        | [鍾芷蔚](../Page/鍾芷蔚.md "wikilink") | [冼迪琦](../Page/冼迪琦.md "wikilink") |
+| [陳詠如](../Page/陳詠如.md "wikilink") | [彭卓迪](../Page/彭卓迪.md "wikilink")        | [葉美妤](../Page/葉美妤.md "wikilink")        | [許啟明](../Page/許啟明.md "wikilink") | [鄧彤肜](../Page/鄧彤肜.md "wikilink") |
+| [朱倚雯](../Page/朱倚雯.md "wikilink") | [許啟明](../Page/許啟明.md "wikilink")        | [吳競翀](../Page/吳競翀.md "wikilink")        | [楊樂彤](../Page/楊樂彤.md "wikilink") | [陳頌喬](../Page/陳頌喬.md "wikilink") |
+| [鄧泳恩](../Page/鄧泳恩.md "wikilink") |                                         |                                         |                                  |                                  |
+
+## 環節
+
+### 兒童連續劇
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>播映日期</strong></p></td>
+<td><p><strong>連續劇</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2005年1月3日-2005年10月</p></td>
+<td><p><a href="../Page/葱葱闖地球.md" title="wikilink">葱葱闖地球</a><br />
+<br />
+蔥蔥闖地球是在節目中播放的一套電視劇。內容講述来自數-{}-碼星球的葱葱（<a href="../Page/何璐怡.md" title="wikilink">何璐怡配音</a>）由於自己的飛船意外撞落到<a href="../Page/地球.md" title="wikilink">地球而跟他的隊員</a>失散。碰巧葱葱遇到了失意的少年雷冠男（<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊飾</a>），原來蔥蔥之前原為星際籃球隊隊員，於是二人因籃球發展出一段友誼。蔥蔥為使冠男振作，把自己的籃球技巧教予冠男，並把學校的籃球隊建立起來。</p>
+<p>劇集<a href="../Page/主題曲.md" title="wikilink">主題曲是</a>「葱葱闖地球」，是由<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="../Page/劉家聰.md" title="wikilink">劉家聰</a>、<a href="../Page/張國洪.md" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢和</a><a href="../Page/李霖恩.md" title="wikilink">李霖恩主唱的</a>「投投籃球」。<a href="../Page/片尾曲.md" title="wikilink">片尾曲是</a>「我要出線」，是由<a href="../Page/劉家聰.md" title="wikilink">劉家聰</a>、<a href="../Page/張國洪.md" title="wikilink">張國洪</a>、<a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a>、<a href="../Page/李泳漢.md" title="wikilink">李泳漢和</a><a href="../Page/李霖恩.md" title="wikilink">李霖恩主唱</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2007年12月31日－2008年7月<br />
+（由2008年1月3日起逢星期四播出）</p></td>
+<td><p><a href="../Page/神探阿Tom.md" title="wikilink">神探阿Tom</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2010年2月2日－2015年1月7日<br />
+（由2010年2月1日起逢星期二播出）<br />
+（由2010年3月31日起改為逢星期三播出）</p></td>
+<td><p><a href="../Page/諸氏家庭.md" title="wikilink">諸氏家庭</a><br />
+<br />
+諸氏家庭演員表</p>
+<ul>
+<li>諸嫲/譚姑娘/三姨婆：譚玉瑛</li>
+<li>諸高：杜大偉（第一代）、鄧永健（第二代）</li>
+<li>諸柔：何嘉裕（第一代）、陳子慧（第二代）</li>
+<li>大件：呂熙（第一代）、司徒瑞祈（第二代）</li>
+<li>Yummy：吳綺珊</li>
+<li>諸爺/諸爸：蕭徽勇</li>
+<li>諸爸（兒時）：劉雋賢</li>
+<li>諸媽：陳琪</li>
+<li>諸姑姐：蓋世寶（2012年第四季加入）</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2013年5月13日－2015年1月5日<br />
+（由2013年5月13日起逢星期一播出）<br />
+（2014年1月30日播映新春特別版）</p></td>
+<td><p><a href="../Page/一場好戲.md" title="wikilink">一場好戲</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2013年5月16日－2015年1月8日<br />
+（由2013年5月16日起逢星期四播出）<br />
+</p></td>
+<td><p><a href="../Page/我愛關師傅.md" title="wikilink">我愛關師傅</a></p>
+<ul>
+<li>關師傅：蕭徽勇</li>
+<li>Badman：司徒瑞祈</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 星期一至五每天主題
+
+### 過往環節
+
+## 動畫
+
+與前繼節目[至NET小人類一樣](../Page/至NET小人類.md "wikilink")，放學ICU時段內會播放約22分鐘的動畫（大約在16:35-17:00），大多數都是來自[日本的動畫](../Page/日本.md "wikilink")。放學ICU時段內曾播放或即將播放的動畫包括：
+
+然而，自2014年10月3日起，放學ICU節目被進行改組，改為編定於節目開始前播出，令沿襲33年的兒童節目動畫時段正式告終。
+
+## 主題曲
+
+  - 第一代《投投籃球》（2005年1月3日－2006年2月）
+      - 作曲：[張婉兒](../Page/張婉兒.md "wikilink")、作詞：[張婉兒](../Page/張婉兒.md "wikilink")、主唱：[鄧健泓](../Page/鄧健泓.md "wikilink")
+  - 第二代《放學ICU》（2006年2月－2013年5月10日）
+      - 作曲：[葉肇中](../Page/葉肇中.md "wikilink")、作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")、主唱：[馬浚偉](../Page/馬浚偉.md "wikilink")
+  - 第三代《校鐘響起ICU》（2013年5月13日－2015年1月9日）
+      - 作曲：[葉肇中](../Page/葉肇中.md "wikilink")、作詞：[王祖藍](../Page/王祖藍.md "wikilink")，[宋沛言](../Page/宋沛言.md "wikilink")、主唱：[王祖藍](../Page/王祖藍.md "wikilink")
+
+## 節目調動（2008年後）
+
+  - **2008年[北京奧運期間](../Page/2008年夏季奧林匹克運動會.md "wikilink")（8月11日至8月22日）**：由於直播《北京奧運下午直擊》，改為09:00-09:30播出，而節目內的動畫《福娃奧運漫遊記》改為13:20-13:50播出。
+  - **2012年1月19日及6月14日**：由於直播《行政長官答問會》超時，分別延至16:40-17:35及16:35-17:35播出。
+  - **2012年7月2日**：由於直播《香港國際龍舟邀請賽》，改為16:00-16:30播出。
+  - **2012年10月2日**：由於中途插播《撞船意外 政府記者會》，改為16:20-16:35及17:15-17:55播出。
+  - **2012年10月5日**：由於直播《超級國家盃2012馬球賽》，改為16:00-16:30播出。
+  - **2012年12月10日**：由於直播《行政長官答問會》，改為15:50-16:50播出。
+  - **2013年5月9日**：由於直播《行政長官答問會》超時，延至17:10-18:05播出。
+  - **2013年7月1日**：由於直播《香港巨蛋音樂節》，改為09:30-10:30播出。
+  - **2013年12月4日**：由於中途插播《政改諮詢記者會》，改為16:20-16:30及17:35-18:15播出。
+  - **2014年1月31日**：由於直播《AET馬年賀歲盃國際足球邀請賽–FC東京 對 奧漢倫斯》，改為16:55-17:55播出。
+  - **2014年2月3日**：由於直播《AET馬年賀歲盃國際足球邀請賽–FC東京 對 FC薩馬拉》，改為16:55-17:50播出。
+  - **2014年4月23日**：由於插播《特別新聞報道》，改為16:20-16:35及16:50-17:35播出。
+  - **2014年6月10日**：由於插播《特別新聞報道》，改為16:20-16:35及16:45-17:30播出。
+  - **2014年7月1日**：由於直播《香港巨蛋音樂節2014》，改為15:30-16:00播出。
+  - **2014年7月15日**：由於中途插播《政改記者會》，改為16:20-17:00及17:50-18:05播出。
+  - **2014年9月1日**：由於中途插播《李飛記者會》，改為16:20-17:00及18:05-18:20播出。
+  - **2014年[雨傘行動期間](../Page/雨傘革命.md "wikilink")**，由於部份日子需插播《特別新聞報道》以直播紀律部隊記者會及政府跨部門記者會：
+      - **9月29日**：改為16:20-17:25播出。
+      - **9月30日**：改為17:05-18:00播出（但技術問題，原第二節誤播第四節內容）。
+      - **10月1日**：改為16:50-17:50播出。
+      - **10月2日**：改為17:00-17:30播出並只播出第一、二節。
+      - **10月3日**：改為17:10-17:30及18:05-18:10播出。
+      - **10月7日**：改為16:55-17:25播出。
+      - **11月14日**：改為17:15-17:45播出。
+      - **11月26日**：改為16:55-17:20播出。
+      - **11月28日**：改為16:50-17:10及17:25-17:30播出。
+      - **12月1日**：改為17:00-17:30播出。
+      - **12月11日**：改為17:10-17:40播出。
+      - **12月15日**：改為16:50-17:00及17:45-18:05播出。
+
+## 海外傳送
+
+放學ICU另有海外版傳送至[無線衛星台及](../Page/無線衛星台.md "wikilink")[新時代電視](../Page/新時代電視.md "wikilink")，於下列時間播出。
+
+海外版放學ICU播放時間:
+
+  - [無線衛星台於下午](../Page/無線衛星台.md "wikilink")16:55分播放。
+  - [新時代電視於下午](../Page/新時代電視.md "wikilink")16:00分播放。
+
+## 參見
+
+  - 《[放學ICU兒童雙周刊](../Page/放學ICU兒童雙周刊.md "wikilink")》，關於放學ICU的兒童周刊，已於2006年停刊
+
+## 注釋
+
+## 外部連結
+
+  - [《放學ICU》舊官方網站](http://jade.tvb.com/kids/icu)
+  - [《放學ICU》新官方網站](http://programme.tvb.com/kids/afterschool)
+  - [《放學ICU》myTV網上重溫](http://mytv.tvb.com/kids/afterschool)
+
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink")
+[Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink")
+[Category:2005年建立](https://zh.wikipedia.org/wiki/Category:2005年建立 "wikilink")
+[Category:2015年廢除](https://zh.wikipedia.org/wiki/Category:2015年廢除 "wikilink")
+[Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink")
+[Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")
+
+1.  ICU不是[深切治療部的英文簡稱](../Page/深切治療部.md "wikilink")，而是英文的「I see
+    you」的同音異字，即是放學後與你見面的意思。
+2.  [《穿梭機》之後 《ICU》之前
+    經典兒童節目你識幾多？](https://www.weekendhk.com/editor-choice/%e3%80%8a%e7%a9%bf%e6%a2%ad%e6%a9%9f%e3%80%8b%e4%b9%8b%e5%be%8c-%e3%80%8aicu%e3%80%8b%e4%b9%8b%e5%89%8d-%e7%b6%93%e5%85%b8%e5%85%92%e7%ab%a5%e7%af%80%e7%9b%ae%e4%bd%a0%e8%ad%98%e5%b9%be%e5%a4%9a/2/)
+3.  [【《放學ICU》被殺】余詠珊開新兒童節目
+    剷舊將用晒自己人](http://hk.apple.nextmedia.com/enews/realtime/20150104/53299438)

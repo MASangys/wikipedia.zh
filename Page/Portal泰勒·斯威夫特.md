@@ -1,0 +1,38 @@
+__NOTOC__
+
+<div style="background: rgb(164,184,255); text-align: center;">
+
+<div style="position: relative; width:0px; height: 0; margin-right: auto; margin-left: auto; color: transparent;">
+
+<div style="position: relative; text-align: center; width: 600px; left: -300px; top: 30px;">
+
+<span style="font-size: 400%;">TAYLOR SWIFT</span>
+PORTAL
+
+</div>
+
+</div>
+
+[<File:Taylor> Swift
+portal.png](https://zh.wikipedia.org/wiki/File:Taylor_Swift_portal.png "fig:File:Taylor Swift portal.png")
+
+<div style="position: relative; right: -400px; bottom: 30px; height: 0;">
+
+</div>
+
+</div>
+
+<div style="clear:both; width:100%">
+
+<div style="background: #fff7f5; padding: 20px;">
+
+<div style="background: #fff; padding: 20px;">
+
+}
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:{{PAGENAME}}](https://zh.wikipedia.org/wiki/Category:{{PAGENAME}} "wikilink")
+[Category:音乐专题](https://zh.wikipedia.org/wiki/Category:音乐专题 "wikilink")
+[Category:泰勒·斯威夫特](https://zh.wikipedia.org/wiki/Category:泰勒·斯威夫特 "wikilink")
+[Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink")

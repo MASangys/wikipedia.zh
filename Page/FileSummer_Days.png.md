@@ -1,0 +1,1 @@
+[Category:日本成人游戏封面](../Category/日本成人游戏封面.md "wikilink")

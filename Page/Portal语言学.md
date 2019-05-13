@@ -1,0 +1,108 @@
+<div style="float:right; width:100%">
+
+{{/box-header|语言学主题|Portal:语言学/Intro|}}  {{/box-footer|}}
+
+</div>
+
+**语言学首页**是整合[维基百科上所有关于](../Page/维基百科.md "wikilink")[语言学文章的一个页面](../Page/语言学.md "wikilink")。所有关于语言学方面的内容都可以在这里找到。同时欢迎对语言学感兴趣的专家和爱好者参与相关条目的编写。您也可以加入我们的[语言兴趣小组](https://zh.wikipedia.org/wiki/Wikipedia:语言兴趣小组维基人列表 "wikilink")。
+
+<table>
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 40%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>特色条目</strong></p></td>
+<td><p><strong>新增条目</strong></p></td>
+</tr>
+<tr class="even">
+<td><div align="right">
+<p><strong><a href="https://zh.wikipedia.org/wiki/Wikipedia:特色条目/存档" title="wikilink">存档</a> | <a href="https://zh.wikipedia.org/wiki/Wikipedia:特色条目" title="wikilink">更多特色条目...</a></strong></p>
+</div></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>分支学科</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/语文学.md" title="wikilink">语文学</a> - <a href="../Page/音韵学.md" title="wikilink">音韵学</a> - <a href="../Page/训诂学.md" title="wikilink">训诂学</a> - <a href="../Page/文字学.md" title="wikilink">文字学</a> - <a href="../Page/共时语言学.md" title="wikilink">共时语言学</a> - <a href="../Page/历时语言学.md" title="wikilink">历时语言学</a> - <a href="../Page/普通语言学.md" title="wikilink">普通语言学</a> - <a href="../Page/语音学.md" title="wikilink">语音学</a> - <a href="../Page/语法学.md" title="wikilink">语法学</a> - <a href="../Page/语义学.md" title="wikilink">语义学</a> - <a href="../Page/词汇学.md" title="wikilink">词汇学</a> - <a href="../Page/词用学.md" title="wikilink">词用学</a> - <a href="../Page/方言学.md" title="wikilink">方言学</a> - <a href="../Page/修辞学.md" title="wikilink">修辞学</a> - <a href="../Page/语源学.md" title="wikilink">语源学</a> - <a href="../Page/音系学.md" title="wikilink">音系学</a> - <a href="../Page/词典学.md" title="wikilink">词典学</a> - <a href="../Page/文体学.md" title="wikilink">文体学</a> - <a href="../Page/比较语言学.md" title="wikilink">比较语言学</a> - <a href="../Page/历史比较语言学.md" title="wikilink">历史比较语言学</a> - <a href="../Page/类型语言学.md" title="wikilink">类型语言学</a> - <a href="../Page/对比语言学.md" title="wikilink">对比语言学</a> - <a href="../Page/语言地理学.md" title="wikilink">语言地理学</a> - <a href="../Page/社会语言学.md" title="wikilink">社会语言学</a> - <a href="../Page/方言地理学.md" title="wikilink">方言地理学</a> - <a href="../Page/心理语言学.md" title="wikilink">心理语言学</a> - <a href="../Page/应用语言学.md" title="wikilink">应用语言学</a> - <a href="../Page/语言教学.md" title="wikilink">语言教学</a> - <a href="../Page/话语语言学.md" title="wikilink">话语语言学</a> - <a href="../Page/实验语言学.md" title="wikilink">实验语言学</a> - <a href="../Page/数理语言学.md" title="wikilink">数理语言学</a> - <a href="../Page/代数语言学.md" title="wikilink">代数语言学</a> - <a href="../Page/统计语言学.md" title="wikilink">统计语言学</a> - <a href="../Page/应用数理语言学.md" title="wikilink">应用数理语言学</a> - <a href="../Page/计算语言学.md" title="wikilink">计算语言学</a> - <a href="../Page/翻译.md" title="wikilink">翻譯學</a> - <a href="../Page/社会语言学.md" title="wikilink">社会语言学</a> - <a href="../Page/神经语言学.md" title="wikilink">神经语言学</a> - <a href="../Page/伴随语言学.md" title="wikilink">伴随语言学</a> - <a href="../Page/民族语言学.md" title="wikilink">民族语言学</a> - <a href="../Page/词义学.md" title="wikilink">词义学</a> - <a href="../Page/写作学.md" title="wikilink">写作学</a> - <a href="../Page/语用学.md" title="wikilink">语用学</a> - <a href="../Page/国际语学.md" title="wikilink">国际语学</a> - <a href="../Page/语境学.md" title="wikilink">语境学</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>汉语研究</strong></p></td>
+<td><p><strong>待撰条目</strong></p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><strong>传统学科：</strong><a href="../Page/汉语音韵学.md" title="wikilink">汉语音韵学</a> - <a href="../Page/训诂学.md" title="wikilink">训诂学</a> - <a href="../Page/现代汉语.md" title="wikilink">现代汉语</a></li>
+<li><strong><a href="../Page/汉语變體.md" title="wikilink">汉语變體</a>：</strong><a href="../Page/北京话.md" title="wikilink">北京话</a> - <a href="../Page/吴语.md" title="wikilink">吴语</a> - <a href="../Page/闽北语.md" title="wikilink">闽北语</a> - <a href="../Page/粤语.md" title="wikilink">粤语</a> - <a href="../Page/闽南语.md" title="wikilink">闽南语</a></li>
+<li><strong><a href="../Page/中国少数民族语言.md" title="wikilink">中国少数民族语言</a>：</strong><a href="../Page/藏语.md" title="wikilink">藏语</a> - <a href="../Page/维吾尔语.md" title="wikilink">维吾尔语</a></li>
+<li><strong>古籍：</strong><a href="../Page/说文解字.md" title="wikilink">说文解字</a> - <a href="../Page/尔雅.md" title="wikilink">尔雅</a> - <a href="../Page/中原音韵.md" title="wikilink">中原音韵</a> - <a href="../Page/马氏文通.md" title="wikilink">马氏文通</a></li>
+<li><strong>其他：</strong><a href="../Page/普通话.md" title="wikilink">普通话</a> - <a href="../Page/汉语拼音.md" title="wikilink">汉语拼音</a> - <a href="../Page/暂拟汉语教学语法系统.md" title="wikilink">暂拟汉语教学语法系统</a> - <a href="../Page/文白异读.md" title="wikilink">文白异读</a> - <a href="../Page/四声.md" title="wikilink">四声</a> - <a href="../Page/六书.md" title="wikilink">六书</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>语言学家</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><a href="../Page/许慎.md" title="wikilink">许慎</a> - <a href="../Page/扬雄.md" title="wikilink">扬雄</a> - <a href="../Page/刘熙.md" title="wikilink">刘熙</a> - <a href="../Page/李登_(语言学家).md" title="wikilink">李登</a> - <a href="../Page/陆法言.md" title="wikilink">陆法言</a> - <a href="../Page/陈彭年.md" title="wikilink">陈彭年</a> - <a href="../Page/守温.md" title="wikilink">守温</a> - <a href="../Page/韩道昭.md" title="wikilink">韩道昭</a> - <a href="../Page/郑樵.md" title="wikilink">郑樵</a> - <a href="../Page/戴震.md" title="wikilink">戴震</a> - <a href="../Page/段玉裁.md" title="wikilink">段玉裁</a> - <a href="../Page/钱大昕.md" title="wikilink">钱大昕</a> - <a href="../Page/王念孙.md" title="wikilink">王念孙</a> - <a href="../Page/孙诒让.md" title="wikilink">孙诒让</a></li>
+<li><a href="../Page/亚里士多德.md" title="wikilink">亚里士多德</a> - <a href="../Page/司拉克斯.md" title="wikilink">司拉克斯</a> - <a href="../Page/迪斯科勒斯.md" title="wikilink">迪斯科勒斯</a> - <a href="../Page/瓦罗.md" title="wikilink">瓦罗</a> - <a href="../Page/波你尼.md" title="wikilink">波你尼</a> - <a href="../Page/普里西恩.md" title="wikilink">普里西恩</a></li>
+<li><a href="../Page/安托尼·阿尔诺.md" title="wikilink">安托尼·阿尔诺</a> - <a href="../Page/克洛德·朗斯洛.md" title="wikilink">克洛德·朗斯洛</a> - <a href="../Page/威廉·琼斯_(语言学家).md" title="wikilink">威廉·琼斯</a> - <a href="../Page/拉斯克.md" title="wikilink">拉斯克</a> - <a href="../Page/博普.md" title="wikilink">博普</a> - <a href="../Page/奥古斯特·施莱赫尔.md" title="wikilink">奥古斯特·施莱赫尔</a>- <a href="../Page/威廉·冯·洪堡特.md" title="wikilink">威廉·冯·洪堡特</a> - <a href="../Page/卡尔·勃鲁格曼.md" title="wikilink">卡尔·勃鲁格曼</a> - <a href="../Page/拉扎鲁·路德维克·柴门霍夫.md" title="wikilink">拉扎鲁·路德维克·柴门霍夫</a> - <a href="../Page/卡尔·浮士勒.md" title="wikilink">卡尔·浮士勒</a> - <a href="../Page/费尔迪南·德·索绪尔.md" title="wikilink">费尔迪南·德·索绪尔</a> - <a href="../Page/耶姆斯列夫.md" title="wikilink">耶姆斯列夫</a> - <a href="../Page/特鲁别兹柯依.md" title="wikilink">特鲁别兹柯依</a> - <a href="../Page/布龙菲尔德.md" title="wikilink">布龙菲尔德</a> - <a href="../Page/海里斯.md" title="wikilink">海里斯</a> - <a href="../Page/诺姆·乔姆斯基.md" title="wikilink">诺姆·乔姆斯基</a></li>
+<li><a href="../Page/赵元任.md" title="wikilink">赵元任</a> - <a href="../Page/罗常培.md" title="wikilink">罗常培</a> -<a href="../Page/吕叔湘.md" title="wikilink">吕叔湘</a> - <a href="../Page/王力_(语言学家).md" title="wikilink">王力</a> - <a href="../Page/董同龢.md" title="wikilink">董同龢</a> - <a href="../Page/周祖谟.md" title="wikilink">周祖谟</a> - <a href="../Page/岑麒祥.md" title="wikilink">岑麒祥</a> - <a href="../Page/陈原.md" title="wikilink">陈原</a> - <a href="../Page/陈梦家.md" title="wikilink">陈梦家</a> - <a href="../Page/丁声树.md" title="wikilink">丁声树</a> - <a href="../Page/董作宾.md" title="wikilink">董作宾</a> - <a href="../Page/高名凯.md" title="wikilink">高名凯</a> - <a href="../Page/郭沫若.md" title="wikilink">郭沫若</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/语言.md" title="wikilink">语言</a></strong></p></td>
+<td><p><strong><a href="../Page/文字.md" title="wikilink">文字</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/汉语.md" title="wikilink">漢語</a> - <a href="../Page/英语.md" title="wikilink">英语</a> - <a href="../Page/德语.md" title="wikilink">德语</a> - <a href="../Page/日语.md" title="wikilink">日语</a> - <a href="../Page/朝鮮語.md" title="wikilink">韓語</a> - <a href="../Page/越南语.md" title="wikilink">越南语</a> - <a href="../Page/俄语.md" title="wikilink">俄语</a> - <a href="../Page/法语.md" title="wikilink">法语</a> - <a href="../Page/意大利语.md" title="wikilink">義大利語</a> - <a href="../Page/西班牙语.md" title="wikilink">西班牙语</a> - <a href="../Page/拉丁语.md" title="wikilink">拉丁语</a> - <a href="../Page/葡萄牙语.md" title="wikilink">葡萄牙语</a> - <a href="../Page/阿拉伯语.md" title="wikilink">阿拉伯语</a> - <a href="../Page/希腊语.md" title="wikilink">希臘語</a> - <a href="../Page/台灣南島語言.md" title="wikilink">台灣南島語言</a> - <a href="../Page/人工語言.md" title="wikilink">人工語言</a></p></td>
+<td><p><a href="../Page/漢字.md" title="wikilink">漢字</a> - <a href="../Page/拉丁字母.md" title="wikilink">拉丁字母</a> - <a href="../Page/希臘字母.md" title="wikilink">希臘字母</a> - <a href="../Page/西里爾字母.md" title="wikilink">西里爾字母</a> - <a href="../Page/象形文字.md" title="wikilink">象形文字</a> - <a href="../Page/甲骨文.md" title="wikilink">甲骨文</a> - <a href="../Page/佉卢文.md" title="wikilink">佉卢文</a> - <a href="../Page/吉茲字母.md" title="wikilink">吉茲字母</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>其他语言学资料</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><strong>流派：</strong><a href="../Page/美国描写语言学派.md" title="wikilink">美国描写语言学派</a> - <a href="../Page/新洪堡特学说.md" title="wikilink">新洪堡特学说</a> - <a href="../Page/萨丕尔-沃尔夫假说.md" title="wikilink">萨丕尔-沃尔夫假说</a></li>
+<li><strong>术语：</strong><a href="../Page/转换-生成语法.md" title="wikilink">转换-生成语法</a> - <a href="../Page/媒介语.md" title="wikilink">媒介语</a> - <a href="../Page/直接成分.md" title="wikilink">直接成分</a> - <a href="../Page/深层结构.md" title="wikilink">深层结构</a> - <a href="../Page/表层结构.md" title="wikilink">表层结构</a> -<a href="../Page/口语.md" title="wikilink">口语</a> - <a href="../Page/书面语.md" title="wikilink">书面语</a> - <a href="../Page/文学语言.md" title="wikilink">文学语言</a> - <a href="../Page/元音.md" title="wikilink">元音</a> - <a href="../Page/辅音.md" title="wikilink">辅音</a> - <a href="../Page/音位.md" title="wikilink">音位</a> - <a href="../Page/音节.md" title="wikilink">音节</a> - <a href="../Page/语流音变.md" title="wikilink">语流音变</a> - <a href="../Page/国际音标.md" title="wikilink">国际音标</a> - <a href="../Page/谚语.md" title="wikilink">谚语</a> - <a href="../Page/歇后语.md" title="wikilink">歇后语</a> - <a href="../Page/语法.md" title="wikilink">语法</a> - <a href="../Page/词汇.md" title="wikilink">词汇</a> - <a href="../Page/句子.md" title="wikilink">句子</a></li>
+<li><strong>研究机构：</strong></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>索引</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/语言系属分类.md" title="wikilink">语言系属分类</a> - <a href="../Page/语言列表.md" title="wikilink">语言列表</a> - <a href="../Page/官方语言列表.md" title="wikilink">官方语言列表</a> - <a href="../Page/语言学家列表.md" title="wikilink">语言学家列表</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>相关文档</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><strong><a href="../Page/Portal:首页.md" title="wikilink">主题</a></strong>：<a href="../Page/Portal:文字.md" title="wikilink">文字</a></li>
+<li><strong><a href="https://zh.wikipedia.org/wiki/Wikipedia:專題" title="wikilink">專題</a></strong>：<a href="https://zh.wikipedia.org/wiki/Wikipedia:专题/语言学" title="wikilink">语言学</a> - <a href="https://zh.wikipedia.org/wiki/Wikipedia:专题/语言" title="wikilink">语言</a> - <a href="https://zh.wikipedia.org/wiki/Wikipedia:专题/文字" title="wikilink">文字</a> - <a href="https://zh.wikipedia.org/wiki/Wikipedia:专题/字母" title="wikilink">字母</a> - <a href="https://zh.wikipedia.org/wiki/Wikipedia:专题/字母表" title="wikilink">字母表</a></li>
+<li><strong>分类</strong>：<a href="https://zh.wikipedia.org/wiki/Category:语言学" title="wikilink">语言学</a> - <a href="https://zh.wikipedia.org/wiki/Category:语言" title="wikilink">语言</a> - <a href="https://zh.wikipedia.org/wiki/Category:文字" title="wikilink">文字</a> - <strong><a href="https://zh.wikipedia.org/wiki/Category:語言小作品" title="wikilink">:Category:語言小作品</a></strong></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+\[ -{zh-hans:刷新缓存; zh-hant:清除快取;}-\]
+{|border="0" cellpadding="5" cellspacing="3" width=100% |
+style="background:\#FFDAB9;text-align:center;" colspan="2"| **其他主题首页**
+|- | valign="top" style="background:\#FDF5E6;" colspan="2"|  |}
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

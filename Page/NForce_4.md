@@ -1,0 +1,74 @@
+**nForce
+4**系列是[NVIDIA研發的第四代](../Page/NVIDIA.md "wikilink")[主機板](../Page/主機板.md "wikilink")[晶片組](../Page/晶片組.md "wikilink")，代號為CK
+8，首款產品在2004年10月推出\[1\]，與[nForce
+3一样是單晶片組](../Page/nForce_3.md "wikilink")，吸取了[nForce
+3](../Page/nForce_3.md "wikilink")
+150对[HyperTransport支援不足的經驗](../Page/HyperTransport.md "wikilink")。nForce
+4系列效能比同期的[VIA](../Page/VIA.md "wikilink")
+K8T890高，使其成為AMD平臺市場佔有率最高的晶片組，一洗nForce
+3 150效能比VIA K8T800差的頹氣。
+
+後期nForce 4系列推出[Intel平臺的nForce](../Page/Intel.md "wikilink") 4 SLI Intel
+Edition，亦是nVIDIA的首款Intel平臺晶片組產品，效能相較同期的Intel自有晶片組為高。
+
+## 產品規格
+
+  - [PCI Express总线](../Page/PCI_Express.md "wikilink")
+  - 2組[ATA](../Page/ATA.md "wikilink") 133通道
+  - 4組[SATA](../Page/SATA.md "wikilink")，支援[RAID](../Page/RAID.md "wikilink")
+  - 10个[USB](../Page/USB.md "wikilink") 2.0接口
+  - 千兆[网卡](../Page/网卡.md "wikilink")，支援nVIDIA
+    [Firewall](../Page/防火墙_\(网络\).md "wikilink") 2.0
+  - 八声道[AC97音效支援](../Page/AC97.md "wikilink")
+
+## 產品型號
+
+  - AMD平臺
+
+<!-- end list -->
+
+  - nForce 4-4X -- 800MHz HyperTransport, 4組SATA 150MB/s
+  - nForce 4 -- 1Ghz HyperTransport, 4組SATA 150MB/s
+  - nForce 4 Ultra -- 1Ghz HyperTransport, 4組SATA 300MB/s
+  - nForce 4 SLi -- 支持[SLi](../Page/SLI.md "wikilink")，4組SATA 300MB/s
+  - nForce4 SLI x16 -- 对比nForce 4
+    SLi，支援真正的双[PCI-E](../Page/PCI-E.md "wikilink")
+    X16，將[SLi效能完全發揮](../Page/SLI.md "wikilink")。這不是單晶片組，南北橋采用HyperTransport連接
+
+<!-- end list -->
+
+  - Intel平臺
+
+<!-- end list -->
+
+  - nForce 4 SLi X16 Intel Edition，支援Quad
+    [SLi](../Page/SLi.md "wikilink")
+  - nForce 4 SLi Intel Edition，支援[SLi](../Page/SLi.md "wikilink")
+  - nForce 4 SLI XE Intel
+    Edition，支援[SLi](../Page/SLi.md "wikilink")，2006年1月17日发布，代号C19
+  - nForce 4 Ultra Intel
+    Edition，不支援[SLi](../Page/SLi.md "wikilink")，2006年1月17日发布，代号C19
+
+Intel平臺的晶片組完全支援[Pentium 4和](../Page/Pentium_4.md "wikilink")[Pentium
+D](../Page/Pentium_D.md "wikilink")，支援[双通道](../Page/双通道.md "wikilink")[DDR2](../Page/DDR2.md "wikilink")。除了nForce
+4 Ultra Intel Edition外更支援[SLi](../Page/SLi.md "wikilink")，而nForce 4 SLi
+X16 Intel Edition則可以把Quad SLi的效能完全發揮。nForce 4 SLI XE Intel
+Edition与nForce 4 SLI Intel Edition的分別是後者不支援硬体防火牆、而且只支援八个USB，但都支援[HD
+Audio](../Page/HD_Audio.md "wikilink")。nForce 4 Ultra与nForce 4 SLI
+XE的分別只是前者不支援SLi而已。
+
+## 相關條目
+
+  - [NVIDIA晶片組列表](../Page/NVIDIA晶片組列表.md "wikilink")
+
+## 參考鏈接
+
+## 外部連結
+
+  - [nForce 4 官方網頁](http://www.nvidia.com/page/nforce4_family.html)
+
+[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+
+1.  [NVIDIA nForce4 Brings PCI Express, SLI, and Security Processing to
+    AMD64 Platforms](http://www.nvidia.com/object/IO_16486.html)

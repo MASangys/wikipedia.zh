@@ -1,0 +1,60 @@
+[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") {{-}}
+[Windows Vista](../Page/Windows_Vista.md "wikilink") {{-}} [Windows
+7](../Page/Windows_7.md "wikilink") | size = 18.3 MB <small>(QuickTime
+Alternative)</small>
+16.9 MB<small>(QT Lite)</small> | platform = [Microsoft
+Windows](../Page/Microsoft_Windows.md "wikilink") | language =
+[英文](../Page/英文.md "wikilink") | genre =
+[視訊編解碼器](../Page/視訊編解碼器.md "wikilink") | license
+= [免費軟體](../Page/免費軟體.md "wikilink") | website = }}
+
+**QuickTime
+Alternative**是一個輕量化的[QuickTime](../Page/QuickTime.md "wikilink")，用於[Microsoft
+Windows](../Page/Microsoft_Windows.md "wikilink")[編解碼器軟體包](../Page/編解碼器.md "wikilink")，令任何支援[DirectShow的](../Page/DirectShow.md "wikilink")[媒體播放器均可播放](../Page/媒體播放器.md "wikilink")[QuickTime檔案](../Page/QuickTime.md "wikilink")，通常該動作需要[蘋果電腦的官方QuickTime軟體](../Page/蘋果電腦.md "wikilink")。QuickTime
+Alternative使用提取自QuickTime 7的編解碼器，由於該編解碼器包不是蘋果許可的產品令其合法性受到質疑。
+
+該軟體包中包含了[Media Player
+Classic以及支援](../Page/Media_Player_Classic.md "wikilink")[Internet
+Explorer](../Page/Internet_Explorer.md "wikilink")、[Mozilla
+Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Opera](../Page/Opera.md "wikilink")、[Mozilla與](../Page/Mozilla.md "wikilink")[Netscape的QuickTime](../Page/Netscape.md "wikilink")[網絡瀏覽器](../Page/網絡瀏覽器.md "wikilink")[插件](../Page/插件.md "wikilink")。
+
+與[Real
+Alternative的情況類似](../Page/Real_Alternative.md "wikilink")，QuickTime
+Alternative的出現是由於用戶對兩者的官方軟體不滿，其中一些對官方QuickTime的批評包括其過於強制的安裝，以及在移除軟體後部件慣性地不會完全删除\[1\]。
+
+QT Lite是去掉軟體播放器的版本
+
+## 參考
+
+## 請參閱
+
+  - [QuickTime](../Page/QuickTime.md "wikilink")
+  - [Real Alternative](../Page/Real_Alternative.md "wikilink")
+  - [Media Player Classic](../Page/Media_Player_Classic.md "wikilink")
+  - [K-Lite](../Page/K-Lite.md "wikilink")
+
+## 外部連結
+
+  - [QuickTime Alternative
+    Page](http://www.free-codecs.com/download/QuickTime_Alternative.htm)
+    - free-codecs.com
+
+<!-- end list -->
+
+  - [QT6 - QuickTime
+    Alternative基本版](http://www.afterdawn.com/software/video_software/codecs_and_filters/quicktime_alternative_qt6.cfm)
+    - 最後可於Win98/ME上使用的版本
+  - [1](http://www.codecguide.com/) - K-Lite Codec Resource Site
+
+<!-- end list -->
+
+  - [MediaLooks QuickTime
+    Plugin](http://www.medialooks.com/products/multimedia_tools/quicktime_plugin.html)
+    -
+    一個類似的產品，令DirectShow應用程式支援QuickTime檔案，但使用原來的QuickTime[執行期函式庫](../Page/執行期.md "wikilink")（需要安裝Apple
+    QuickTime）
+
+[Category:視頻編解碼器](https://zh.wikipedia.org/wiki/Category:視頻編解碼器 "wikilink")
+[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
+
+1.  [Softpedia上的](../Page/Softpedia.md "wikilink")[QuickTime評論](http://www.softpedia.com/reviews/windows/QuickTime-Review-14482.shtml)

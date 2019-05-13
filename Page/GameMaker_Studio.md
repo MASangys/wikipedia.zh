@@ -1,0 +1,48 @@
+**Game
+Maker**是一款由以[Delphi製作的](../Page/Delphi.md "wikilink")[电子游戏制作](../Page/电子游戏.md "wikilink")[軟體](../Page/軟體.md "wikilink")。最新版本命名為**Game
+Maker: Studio**。
+
+## 概論
+
+1999年11月15日发布第一个公开版本，大力推动了全世界独立游戏的发展。
+
+版本4.3後轉型為[付費軟體](../Page/付費軟體.md "wikilink")。同时由于其设计理念独特，市面上出現許多模仿其[開發環境](../Page/集成开发环境.md "wikilink")（IDE）的游戏引擎。
+
+2012年5月22日發布**Game Maker Studio**正式版\[1\]，为其后续的重要版本，具有诸多新特性。
+
+## 特性
+
+以下為 Game Maker Studio 與前作不同之處：
+
+  - 支援[Windows](../Page/Windows.md "wikilink")，[Android](../Page/Android.md "wikilink")，[iOS](../Page/iOS.md "wikilink")，[Mac](../Page/Mac.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Tizen等平台輸出](../Page/Tizen.md "wikilink")，亦可於[PS3](../Page/PS3.md "wikilink")、[PS4](../Page/PS4.md "wikilink")、[PSVita以及](../Page/PSVita.md "wikilink")[Xbox等主機發布](../Page/Xbox.md "wikilink")。
+  - 新增YoYo Compiler，大幅提高游戏运行效率。
+  - [開發界面优化](../Page/集成开发环境.md "wikilink")，图像（Sprite）编辑器、場景（Room）编辑器改良。
+  - 新增[著色器](../Page/著色器.md "wikilink")。
+  - 支持導入Spine，[Swf動畫](../Page/Swf.md "wikilink")。
+  - 新增物理引擎 Box2D。
+  - 新音效引擎，支援[3D音效輸出](../Page/立體聲.md "wikilink")。
+  - 支援[Unicode编码](../Page/Unicode.md "wikilink")，能夠輸入包含中文的多國文字。
+  - 支援接入拓展[SDK](../Page/SDK.md "wikilink")。
+  - 支援广告和内购。
+  - Draw事件分化，新增异步事件，废除触发器。
+  - 淘汰部分函数。
+  - Game Maker Language语法改良。
+
+## 参考
+
+## 外部链接
+
+  - [YoYo Games](http://www.yoyogames.com/) — 官方网站
+  - [Game Maker Community](http://gmc.yoyogames.com/) — 官方论坛
+  - [YoYo Games Wiki](http://wiki.yoyogames.com/) — 官方维基
+  - [GMking
+    Network](https://web.archive.org/web/20090407002550/http://gmking.org/)
+    — GMking Network
+  - [Game Maker Technology Magazine](http://www.gamemakertech.info) —
+    Game Maker Technology Magazine
+
+[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+[Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
+
+1.  [YoYo Games launches GameMaker:
+    Studio](http://yoyogames.com/news/105)

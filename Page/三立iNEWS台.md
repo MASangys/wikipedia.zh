@@ -1,0 +1,182 @@
+**三立iNEWS**（）是[三立電視旗下的財經新聞頻道](../Page/三立電視.md "wikilink")，於2011年5月3日開播，是三立電視第五個開播的頻道，姊妹台頻道為[三立新聞台](../Page/三立新聞台.md "wikilink")。原名**三立財經台**，2017年6月26日晚間六點更為現名至今。
+
+## 概要
+
+### 三立財經台
+
+  - 2011年5月3日，**三立財經台**開播，部分時段與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")（《0900整點新聞》、《[早安新鮮聞](https://zh.wikipedia.org/wiki/早安新鮮聞 "wikilink")》、《[1600
+    iNEWS](https://zh.wikipedia.org/wiki/1600_iNEWS "wikilink")》、《[台灣大頭條](https://zh.wikipedia.org/wiki/台灣大頭條 "wikilink")》）。。
+  - 2012年6月1日中午12點，三立財經台與[創意頻道](https://zh.wikipedia.org/wiki/創意頻道 "wikilink")（今[三立綜合台](https://zh.wikipedia.org/wiki/三立綜合台 "wikilink")）在[中華電信MOD上架](../Page/中華電信MOD.md "wikilink")，三立財經台定頻於第54頻道，創意頻道定頻於第85頻道，兩者都是付費高畫質頻道，此為三立電視首度加入中華電信MOD。\[1\]
+  - 2013年1月1日凌晨0點，三立財經台於[凱擘和](../Page/凱擘公司.md "wikilink")[台灣固網系統定頻於第](../Page/台灣固網.md "wikilink")88頻道播出。
+  - 2013年6月5日凌晨0點，三立財經台於[中嘉網路系統定頻於第](../Page/中嘉網路.md "wikilink")88頻道播出。
+  - 2014年11月1日起，高畫質版本「三立財經台HD」開始試播，但僅在[威達雲端電訊](https://zh.wikipedia.org/wiki/威達雲端電訊 "wikilink")\[2\]以高畫質播出。
+  - 2015年3月9日，三立財經台正式以高畫質播出，第一個播出的節目是《早安新鮮聞》。
+  - 2016年5月20日，三立財經台正式於[YouTube提供](../Page/YouTube.md "wikilink")24小時網路直播服務。
+  - 2016年9月4日，三立財經台於[北都數位有線電視以高畫質播出](https://zh.wikipedia.org/wiki/北都數位有線電視 "wikilink")。
+  - 2016年12月26日，三立財經台於「SETN網路直播」提供直播服務，並改為24小時播出。
+  - 2017年5月19日下午兩點起，在「SETN網路直播」將原先**三立商業財經台**名稱變更為**三立財經新聞台**。
+  - 2017年5月22日，三立財經台節目異動，停播解盤節目《錢滾錢》、《[88理財有方](../Page/88理財有方.md "wikilink")》、《88健康有方》等節目，改播《財經整點新聞》，此舉引發觀眾不滿\[3\]\[4\]。
+
+### 三立iNEWS
+
+  - 2017年6月26日18:00，**三立財經新聞台**正式更名為《**SETiNEWS**》，SETiNEWS將是全新不一樣的財經新聞台，但仍以財經為主，內容將用最新的新媒體科技，並用貼近年輕人的方式及語言來介紹財經。
+
+部分時段則會與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")（平日**1600
+iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200**正午新聞**、1300**午新聞**、**新聞夜現場**）\[5\]。
+
+  - 2017年8月中旬起 假日新聞 最下方
+    [跑馬燈](https://zh.wikipedia.org/wiki/新聞跑馬燈 "wikilink")
+    與[三立新聞台相同](../Page/三立新聞台.md "wikilink")
+
+<!-- end list -->
+
+  - 2017年12月5日於iNEWS晚報起\[6\]，啟用全新百萬攝影棚並擁有全台最大直立式大電視牆。\[7\] \[8\]
+  - 2018年1月**三立iNEWS**大改版，另外[鄭弘儀將正式回歸](../Page/鄭弘儀.md "wikilink")，新節目《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》於2018年1月22日開播。
+  - 2018年1月10日，《**iNEWS錢進大頭條**》、《**iNEWS大世界**》和《**iNEWS最政新聞**》更換新聞片頭。
+  - 2018年1月22日，週一至週五22:00-24:00時段異動，停播[林楚茵的](https://zh.wikipedia.org/wiki/林楚茵 "wikilink")《iNEWS夜報》，改播[鄭弘儀主持的](../Page/鄭弘儀.md "wikilink")《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》。
+  - 2018年3月1日，[台灣大寬頻](../Page/台灣固網.md "wikilink")、[凱擘大寬頻升級高畫質播出](https://zh.wikipedia.org/wiki/凱擘大寬頻 "wikilink")。
+  - 2018年5月12日，週末21:00-23:00時段異動，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](https://zh.wikipedia.org/wiki/鄭知道了 "wikilink")》。
+  - 2018年12月24日，平日17:00-18:00時段異動，停播《iNEWS錢進大頭條》，改播《[iNEWS17NOW新聞](https://zh.wikipedia.org/wiki/iNEWS17NOW新聞 "wikilink")》
+  - 2019年1月21日，平日21:00-22:00時段異動，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
+  - 2019年1月25日起，每週五晚間九點半至十點推出『全民金融通』。
+
+## 三立iNEWS主播群
+
+### 現任主播
+
+| **專任主播**                                            |
+| --------------------------------------------------- |
+| [高毓璘](https://zh.wikipedia.org/wiki/高毓璘 "wikilink") |
+| [范益華](https://zh.wikipedia.org/wiki/范益華 "wikilink") |
+| [廖婕妤](https://zh.wikipedia.org/wiki/廖婕妤 "wikilink") |
+|                                                     |
+
+### 現任節目主持人
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>主持人</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/李文儀.md" title="wikilink">李文儀</a><br />
+(<a href="https://zh.wikipedia.org/wiki/我們一家人" title="wikilink">我們一家人</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/王志郁.md" title="wikilink">王志郁</a><br />
+(<a href="https://zh.wikipedia.org/wiki/全民金融通" title="wikilink">全民金融通</a>)</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 前主播
+
+  - [劉涵竹](../Page/劉涵竹.md "wikilink")（現任[東森財經新聞台主播](../Page/東森財經新聞台.md "wikilink")）
+  - [敖國珠](../Page/敖國珠.md "wikilink")（曾任[中天新聞台主播](../Page/中天新聞台.md "wikilink")）
+  - [王慧文](https://zh.wikipedia.org/wiki/王慧文 "wikilink")
+  - [李秀利](https://zh.wikipedia.org/wiki/李秀利 "wikilink")
+  - [謝培瑜](https://zh.wikipedia.org/wiki/謝培瑜 "wikilink")
+  - [呂怡萱](https://zh.wikipedia.org/wiki/呂怡萱_\(主播\) "wikilink")（現任[寰宇財經台主播](../Page/寰宇財經台.md "wikilink")）
+  - [李昕芸](https://zh.wikipedia.org/wiki/李昕芸 "wikilink")
+  - [蔡韋葶](https://zh.wikipedia.org/wiki/蔡韋葶 "wikilink")
+  - [陳儀潔](https://zh.wikipedia.org/wiki/陳儀潔 "wikilink")
+
+## 已停播節目
+
+### 新聞類節目
+
+  - 1800財經新聞網（曾於假日時段播出）
+  - [三立晚間新聞](../Page/三立晚間新聞.md "wikilink")（與三立台灣台同步播出）
+  - 新聞54珊（與三立新聞台同步播出）
+  - 三立全球財經
+  - 三立財經夜線
+  - 8點向前衝（2017/05/22停播）
+  - 財經大頭條（晚間新聞時段，2017/06/23停播）
+  - 財經整點新聞（2017/06/26停播）
+  - 台灣大頭條（與三立新聞台同步播出）
+  - iNEWS夜報（2018/01/19停播）
+  - 1100iNEWS整點新聞 (2018/08/18停播)
+  - 1700iNEWS整點新聞 (2018/12/23停播)
+  - 1700iNEWS錢進大頭條 (2018/12/24停播)
+  - 2100[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")
+    (2019/1/18停播)
+
+### 財經類節目
+
+  - 賺錢尚好
+  - 財富長城
+  - 能量新思維
+  - 股市聖手
+  - 深潛戰略
+  - 東方大錢潮
+  - 關鍵下一秒
+  - 台股鑫攻略
+  - 一世賺大錢（2013/04/07停播）
+  - 富郁向錢衝
+  - 88菁英會
+  - 時間密碼
+  - 快樂向前行
+  - 華爾街大師
+  - 期海論壇
+  - 大勝先機
+  - 股海大贏家
+  - 超級大贏家
+  - 飆股期績
+  - 錢滾錢（解盤節目，2017/05/22停播）
+  - 未來事件簿（2017/06/30停播）
+  - [88理財有方](../Page/88理財有方.md "wikilink")（2017/05/06停播）
+
+### 談話性節目
+
+  - 養生我知道
+  - 科技新聞線
+  - 台灣好所在
+  - Tonight SET個讚
+  - 養生我知道
+  - 88健康有方（改由[三立台灣台播出](../Page/三立台灣台.md "wikilink")）
+
+### 知性類節目
+
+  - 食尚生活家
+  - 玩客瘋高雄
+  - i-Life（節目名稱更名為360大世界）
+  - 超時空X檔案
+  - 88樂活趣（2016/12停播）
+  - 生活鑫鮮事（2015/11/14停播）
+
+### 特別節目
+
+  - 2016高雄愛Sharing夢時代跨年晚會（僅於2015/12/31播出）
+
+## 参考文献
+
+## 外部連結
+
+{{ external media | align = right | width = 200px | image1 =
+[財經台的畫面擷圖（台股及時行情）](http://i.imgur.com/KLy6Wcx.jpg)
+| image2 = [財經台整點新聞的擷圖](http://i.imgur.com/LzUrk.jpg) | image3 = |
+audio1 = | audio2 = | audio3 = }}
+
+  -
+  -
+  - [三立新聞網 SETN.com](http://www.setn.com/)
+
+[Category:三立iNEWS](https://zh.wikipedia.org/wiki/Category:三立iNEWS "wikilink")
+[Category:三立電視旗下頻道](https://zh.wikipedia.org/wiki/Category:三立電視旗下頻道 "wikilink")
+
+1.  陳世昌.[三立電視進軍MOD
+    財經台6月1日第54頻道開播](http://www.ettoday.net/news/20120601/52153.htm).[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink").2012-06-01
+2.  [VeeTIME大台中數位有線電視官方網站](http://www.veetime.com/page2.aspx?c=42)
+3.
+4.
+5.  若遇到颱風、地震等突發重大事件，**三立iNEWS**的部分節目則會暫停播出，改播[三立新聞台整點新聞](../Page/三立新聞台.md "wikilink")
+6.  下午四點先於[三立新聞Facebook直播](https://zh.wikipedia.org/wiki/三立新聞 "wikilink")
+7.  [Dear 大家，千呼萬喚始出來，我們
+    iNEWS的新棚今天終於要登場啦！！！(將將將將](https://www.facebook.com/permalink.php?story_fbid=264443054081440&id=193541957838217)三立
+    INEWS 主播 李文儀 Facebook.2017-12-04
+8.  [獨家直擊！三立全新百萬棚景](https://www.facebook.com/setnews/videos/1618219511595964/).三立新聞Facebook.2017-12-05

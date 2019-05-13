@@ -1,0 +1,33 @@
+__NOTOC__ __NOEDITSECTION__
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>{{/Box-header|火星主題首頁|Portal:火星/简介}}  {{/Box-footer}}</p></td>
+</tr>
+<tr class="even">
+<td><div style="margin: 1em 0em 1em 0em;">
+<p>{{/Box-header|新闻动态|Portal:火星/新闻动态}}  {{/Box-footer}}</p>
+</div>
+<div style="margin: 1em 0em 1em 0em;">
+</div>
+<div style="text-align:center; margin:-7px; padding-bottom:12px;">
+</div>
+<div style="margin: 1em 0em 1em 0em;">
+<p>{{/Box-header|精選文章|Portal:火星/特色条目}}  {{/Box-footer}}</p>
+</div></td>
+</tr>
+<tr class="odd">
+<td><div style="text-align: center;">
+<h3 id="歡迎創建翻譯與擴充"><strong>歡迎創建、翻譯與擴充</strong></h3>
+<p>可參考<a href="https://zh.wikipedia.org/wiki/Wikipedia:火星專題" title="wikilink">火星專題</a></p>
+</div></td>
+</tr>
+<tr class="even">
+<td><p>{{/Box-header|维基主题|template:portals|}}  {{/Box-footer|}}</p></td>
+</tr>
+</tbody>
+</table>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:火星](https://zh.wikipedia.org/wiki/Category:火星 "wikilink")

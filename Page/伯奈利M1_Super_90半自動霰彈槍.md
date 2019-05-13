@@ -1,0 +1,88 @@
+**伯奈利M1（Super
+90）**（）是一枝由[意大利槍械製造商](../Page/意大利.md "wikilink")[伯奈利所設計及生產的](../Page/伯奈利.md "wikilink")[半自動](../Page/半自動霰彈槍.md "wikilink")[霰彈槍](../Page/霰彈槍.md "wikilink")，發射[12鉛徑或20鉛徑霰彈](../Page/霰彈.md "wikilink")。
+
+## 簡介
+
+伯奈利M1是可得軍方、執法單位、民用三方所接受的霰彈槍，其最大特徵是伯奈利[专利的](../Page/专利.md "wikilink")[後座作用系統](../Page/後座作用.md "wikilink")—慣性後坐，有著高度可靠性和容易的維護的優點，惟其慣性後坐系統的設計問題，伯奈利M1需要大量高壓火藥燃氣以確保其循環正常。
+
+標準型伯奈利M1的特徵是使用了[鋁合金製造](../Page/鋁合金.md "wikilink")、[管式彈倉和可轉換標準](../Page/彈匣#管式彈倉.md "wikilink")[手握式槍托或](../Page/手握式槍托.md "wikilink")[槍托](../Page/槍托.md "wikilink")。伯奈利M1適合使用傳統的缺口式機械照門或[鬼環式照門](../Page/機械瞄具#鬼環.md "wikilink")，另外亦可安裝[雷射瞄準器或](../Page/雷射瞄準器.md "wikilink")[戰術燈等戰術配件](../Page/戰術燈.md "wikilink")。
+
+## 流行文化
+
+### 電影
+
+  - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》（American
+    Sniper）：短槍管型，裝上[SureFire前](../Page/SureFire.md "wikilink")[護木](../Page/護木.md "wikilink")，被[美国海军陆战隊於巡邏時所使用](../Page/美国海军陆战隊.md "wikilink")。
+
+### 电子遊戲
+
+  - 2004年—《[特種部隊Online](../Page/特種部隊Online.md "wikilink")》：目前推出的樂透武器版本：
+      - 迷彩BenelliM1
+
+## 使用國
+
+  -
+  - ：被[克羅地亞軍隊](../Page/克羅埃西亞軍事.md "wikilink")[特種作戰團所採用](../Page/特種作戰團.md "wikilink")。
+
+  - ：被[國家憲兵干預隊和RAID所採用](../Page/國家憲兵干預隊.md "wikilink")。\[1\]
+
+  - ：被[警務處](../Page/香港警務處.md "wikilink")[機場特警組和](../Page/機場特警組.md "wikilink")[特別任務連所採用](../Page/特別任務連.md "wikilink")。
+
+  -
+  -
+  -
+  - ：被[維安特勤隊和要員保鏢單位所採用](../Page/維安特勤隊.md "wikilink")。\[2\]
+
+  -
+  -
+  -
+  -
+  - ：被各個警察局的[特種武器和戰術部隊所採用](../Page/特種武器和戰術部隊.md "wikilink")。
+
+## 參見
+
+  - [伯奈利](../Page/伯奈利.md "wikilink")
+  - [伯奈利M2](../Page/伯奈利M2_Super_90半自動霰彈槍.md "wikilink")，本槍的升級型。
+  - [伯奈利M3](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")，本槍的改進型，可選擇半自動或泵動運作。
+  - [伯奈利M4](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")，本槍的後繼槍，被美軍採用並命名為**M1014戰鬥霰彈槍**。
+  - [伯奈利新星](../Page/伯奈利新星泵動式霰彈槍.md "wikilink")
+  - [伯奈利超級新星](../Page/伯奈利超級新星泵動式霰彈槍.md "wikilink")
+  - [伯奈利拉斐爾](../Page/伯奈利拉斐爾半自動霰彈槍.md "wikilink")
+  - [伯奈利拉斐爾CrioComfort](../Page/伯奈利拉斐爾CrioComfort半自動霰彈槍.md "wikilink")
+  - [伯奈利達文西](../Page/伯奈利達文西半自動霰彈槍.md "wikilink")
+  - [伯奈利超級達文西](../Page/伯奈利超級達文西半自動霰彈槍.md "wikilink")
+  - [戰鬥霰彈槍](../Page/戰鬥霰彈槍.md "wikilink")
+
+## 資料來源
+
+## 外部連結
+
+  - —[Modern Firearms—Benelli M1 Super 90
+    shotguns](http://world.guns.ru/shotgun/it/benelli-m1-e.html)
+
+  - —[Remtek.com—Benelli M1
+    Super 90](http://remtek.com/arms/hk/civ/benelli/m1s90.htm)
+
+  - —[American Rifleman's Exploded-View Diagram of the Benelli M1
+    Super 90 Montefeltro
+    Edition](http://americanrifleman.org/ArticlePage.aspx?id=1496&cid=15)
+
+  - —The Firearm Blog—
+
+      - [The Benelli M1: Discussion
+        (Part 1)](http://www.thefirearmblog.com/blog/2015/06/03/benelli-m1-discussion-part-1/)
+      - [Shooting the Benelli M1
+        (Part 2)](http://www.thefirearmblog.com/blog/2015/06/04/shooting-part-2/)
+
+  - —[D Boy Gun World（槍炮世界）—Benelli M1
+    Super 90](http://firearmsworld.net/italy/benelli/m1/m1.htm)
+
+  - —[Civilian Gunner—Benelli
+    M1Super90](http://www.wargamehk.com/M1super90.htm)
+
+[Category:伯奈利](https://zh.wikipedia.org/wiki/Category:伯奈利 "wikilink")
+[Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink")
+[Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink")
+
+1.  <https://sites.google.com/site/worldinventory/wiw_eu_france>
+2.  [新華網—臺當局"保鏢部隊"揭秘:配備精密槍械造價高昂](http://news.xinhuanet.com/mil/2006-10/26/content_5249994_1.htm)

@@ -1,0 +1,109 @@
+[缩略图](https://zh.wikipedia.org/wiki/File:VSA-100_GPUs.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:3dfx_Voodoo_5500.jpg "fig:缩略图")
+**3dfx
+Interactive**是一家专门制造[显卡和](../Page/显卡.md "wikilink")[GPU的公司](../Page/GPU.md "wikilink")，於1994年成立。1996年成為此领域的最初垄断者，在2000年12月25日被其主要竞争对手[NVIDIA以](../Page/NVIDIA.md "wikilink")7000万美元现金以及100万股票收购\[1\]，并于2002年宣布破产并结业。
+
+1997年3月31日3dfx剝離出其板卡製造部門，獨立為[Quantum3D](../Page/Quantum3D.md "wikilink")（量子三維）公司，為美國軍用電子設備製造商。在1998年12月14日3dfx收購STB
+Systems公司後，其顯示卡的生產開始由自家獨攬，並不授權晶片給予第三方廠商生產，導致其成本過高，且其後期產品的設計循規蹈矩，創新力大減，最終導致其公司的破產並被競爭對手NVIDIA併購。
+
+## 历史
+
+### Voodoo
+
+Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是一块3D子卡，需要配合2D显示卡使用。Voodoo在市场上非常受欢迎，即使其售价和性能高于同时期的[RIVA
+128](../Page/RIVA_128.md "wikilink")、[i740](../Page/Intel740.md "wikilink")
+
+### Voodoo Rush
+
+3dfx第一款2D+3D显示卡，可单独使用，其2D芯片采用的是Alliance生产的AT3D，但性能与兼容性不佳，销售亦不好。
+
+### Voodoo 2
+
+3dfx第二款纯3D加速芯片，同样须有2D卡配合使用。性能大幅优于Voodoo，且高于同期对手芯片，销量亦极佳，堪称3dfx最卖座的芯片。另外，其支持[SLI技术](../Page/NVIDIA_SLI.md "wikilink")，可以将两块Voodoo
+2同时使用，速度远超同期芯片，而且甚至可以与 Voodoo 3相比。
+
+### Voodoo Banshee
+
+采用单一芯片，其中加入128位的2D加速核心，并配有250MHz的[RAMDAC](../Page/RAMDAC.md "wikilink")。3dfx声称Banshee的3D性能较Voodoo
+2提高了15%，兼容性亦比Voodoo Rush优胜。
+
+### Voodoo 3
+
+3dfx第一款真正全新设计的2D+3D芯片。性能与同期产品相近，但仅支持16bit和16MB显存，而且仅是将接口改为AGP
+2X（亦有PCI版本），不支持AGP 2X的绝大多数特性，导致性能略输。
+
+### Voodoo 4/5
+
+同为基于VSA-100的芯片，不同的是，Voodoo 4为VSA-100单芯片，Voodoo 5为多芯片。其最後的終極產品，四核心的Voodoo
+5 6000並未發表，目前全球僅存不到50張Voodoo 5 6000的完好工程樣品，所以Voodoo 5 6000吸引了無數硬件收藏者。
+
+### Black Belt
+
+3dfx曾於1997年參與[日本](../Page/日本.md "wikilink")[世嘉公司](../Page/世嘉.md "wikilink")[Dreamcast遊戲機的開發](../Page/Dreamcast.md "wikilink")，合作代號為Black
+Belt（黑帶），但消息傳出不到半年時間，世嘉就捨棄3dfx轉而與同為日本廠商的[NEC合作](../Page/NEC.md "wikilink")，開發代號改為Katana。
+
+## 產品列表
+
+| 型號                 | 發佈時間             | [核心代號](../Page/核心代號.md "wikilink") | 製程 ([nm](../Page/nanometer.md "wikilink")) | [匯流排](../Page/Computer_bus.md "wikilink") [介面](../Page/I/O_interface.md "wikilink") | 記憶體容量 ([MiB](../Page/Mebibyte.md "wikilink")) | 核心時脈 ([MHz](../Page/Hertz.md "wikilink")) | 記憶體時脈 ([MHz](../Page/Hertz.md "wikilink")) | 核心配置<sup>1</sup> | [填充率](../Page/填充率.md "wikilink") | 記憶體  | [DirectX](../Page/DirectX.md "wikilink") support |
+| ------------------ | ---------------- | ---------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------- | -------------------------------- | ---- | ------------------------------------------------ |
+| MOperations/s      | MPixels/s        | MTextels/s                         | MVertices/s                                | 記憶體頻寬 ([GB](../Page/Gigabyte.md "wikilink")/s)                                      | 匯流排類型                                         | 匯流排頻寬 ([bit](../Page/bit.md "wikilink"))  |                                            |                  |                                  |      |                                                  |
+| Voodoo Graphics    | October 1, 1996  | SST1                               | 500                                        | PCI                                                                                 | 4, 6, 8                                       | 50                                        | 50                                         | 1:0:1:1          | 50                               | 50   | 50                                               |
+| Voodoo Rush        | April 1997       | SST96                              | 500                                        | PCI                                                                                 | 4, 6, 8                                       | 50                                        | 50                                         | 1:0:1:1          | 50                               | 50   | 50                                               |
+| Voodoo2            | March 1, 1998    | SST96                              | 350                                        | PCI                                                                                 | 8, 12                                         | 90                                        | 90                                         | 1:0:2:1          | 90                               | 90   | 180                                              |
+| Voodoo Banshee     | June 22, 1998    | Banshee                            | 350                                        | AGP 2x, PCI                                                                         | 8, 16                                         | 100                                       | 100                                        | 1:0:1:1          | 100                              | 100  | 100                                              |
+| Velocity 100       | July 26, 1999    | Avenger                            | 250                                        | AGP 2x                                                                              | 8                                             | 143                                       | 143                                        | 1:0:2:1          | 143                              | 143  | 286                                              |
+| Velocity 200       | 從未發表             | Avenger                            | 250                                        | AGP 2x                                                                              | 16                                            | 143                                       | 143                                        | 1:0:2:1          | 143                              | 143  | 286                                              |
+| Voodoo3 1000       | March 1999       | Avenger                            | 250                                        | AGP 2x, PCI                                                                         | 8, 16                                         | 125, 143                                  | 125, 143                                   | 1:0:2:1          | 125                              | 125  | 250                                              |
+| Voodoo3 2000       | April 3, 1999    | Avenger                            | 250                                        | AGP 2x, PCI                                                                         | 16                                            | 143                                       | 143                                        | 1:0:2:1          | 143                              | 143  | 286                                              |
+| Voodoo3 3000       | April 3, 1999    | Avenger                            | 250                                        | AGP 2x, PCI                                                                         | 16                                            | 166                                       | 166                                        | 1:0:2:1          | 166                              | 166  | 333                                              |
+| Voodoo3 3500 TVsi  | April 3, 1999    | Avenger                            | 250                                        | AGP 2x                                                                              | 16                                            | 166                                       | 166                                        | 1:0:2:1          | 166                              | 166  | 333                                              |
+| Voodoo3 3500 TV    | June 1999        | Avenger                            | 250                                        | AGP 2x                                                                              | 16                                            | 183                                       | 183                                        | 1:0:2:1          | 183                              | 183  | 366                                              |
+| Voodoo3 3500 TV SE | June 1999        | Avenger                            | 250                                        | AGP 2x                                                                              | 16                                            | 200                                       | 200                                        | 1:0:2:1          | 200                              | 200  | 400                                              |
+| Voodoo4 4000       | 從未發表             | VSA-100                            | 250                                        | AGP 4x, PCI                                                                         | 16                                            | 166                                       | 166                                        | 2:0:2:2          | 332                              | 332  | 332                                              |
+| Voodoo4-2 4000     | 從未發表             | VSA-101                            | 180                                        | AGP                                                                                 | 16                                            | ?                                         | ?                                          | 2:0:2:2          | ?                                | ?    | ?                                                |
+| Voodoo4-2 4200     | 從未發表             | VSA-101                            | 180                                        | AGP, PCI                                                                            | 16, 32                                        | 143                                       | 143                                        | 2:0:2:2          | 143                              | 143  | ?                                                |
+| Voodoo4-2 4200     | 從未發表             | VSA-101                            | 180                                        | PCI                                                                                 | 32                                            | 166                                       | 166                                        | 2:0:2:2          | 166                              | 166  | ?                                                |
+| Voodoo4 4500       | October 13, 2000 | VSA-100                            | 250                                        | AGP 2x\[2\]/4x,\[3\] PCI                                                            | 32                                            | 166                                       | 166                                        | 2:0:2:2          | 332                              | 332  | 332                                              |
+| Voodoo4 4800       | 從未發表             | VSA-100                            | 250                                        | AGP 4x, PCI                                                                         | 64                                            | 166                                       | 166                                        | 2:0:2:2          | 333                              | 333  | 333                                              |
+| Voodoo5 5000       | 從未發表             | VSA-100 x2                         | 250                                        | AGP 4x, PCI                                                                         | 32                                            | 166                                       | 166                                        | 2:0:2:2 x2       | 664                              | 664  | 664                                              |
+| Voodoo5 5500       | June 22, 2000    | VSA-100 x2                         | 250                                        | AGP 2x,\[4\] PCI                                                                    | 64                                            | 166                                       | 166                                        | 2:0:2:2 x2       | 664                              | 664  | 664                                              |
+| Voodoo5 6000       | 從未發表             | VSA-100 x4                         | 250                                        | AGP 4x, PCI                                                                         | 128                                           | 166                                       | 166                                        | 2:0:2:2 x4       | 1328                             | 1328 | 1328                                             |
+| Spectre 1000       | 從未發表             | Rampage                            | 180                                        | AGP 4x                                                                              | 64                                            | 200                                       | 400                                        | 4:0:4:4          | 800                              | 800  | 800                                              |
+| Spectre 2000       | 從未發表             | Rampage + Sage                     | 180                                        | AGP 4x                                                                              | 64                                            | 200                                       | 400                                        | 4:0:4:4          | 800                              | 800  | 800                                              |
+| Spectre 3000       | 從未發表             | Rampage x2 + Sage                  | 180                                        | AGP 4x                                                                              | 128                                           | 200                                       | 400                                        | 4:0:4:4 x2       | 1600                             | 1600 | 1600                                             |
+
+  - **附注:**
+      - <sup>1</sup> 雙核心，每核心為16 MiB
+      - <sup>2</sup> 雙核心，每核心為32 MiB
+      - <sup>3</sup> 四核心，每核心為32 MiB
+      - <sup>4</sup> 原先Voodoo 5
+        6000的記憶體時脈被設計成183MHz，但所有的樣品在183MHz只能執行一小會就停止工作。能持續工作的Voodoo
+        5 6000都只能工作在166MHz，因此3dfx決定放棄183/183MHz的打算。Voodoo 5
+        6000共有五個版本的工程開發設計。
+      - <sup>5</sup>
+        亦有可搭載於蘋果[Macintosh電腦的版本](../Page/Apple_Macintosh.md "wikilink")，其規格相同，但只有PCI匯流排(66 MHz)
+
+## 参考連結
+
+## 外部連結
+
+  - [NVIDIA产品支持网站](http://www.nvidia.com/object/IO_20011121_6079.html)
+  - [3dfxzone Fans 网站](http://www.3dfxzone.it/)
+  - [3dfx.ch Fans 网站](http://www.3dfx.ch/)
+  - [Voodoo3dfx Fans 网站](http://www.voodoo3dfx.com/)
+  - [3dfx Voodoo Bios
+    网站](https://web.archive.org/web/20110526231923/http://www.v3info.co.uk/)
+
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink")
+[Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink")
+[Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink")
+[Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
+
+1.  [NVIDIA To Acquire 3dfx Core Graphics
+    Assets](http://www.nvidia.com/object/IO_20010612_6602.html)
+
+2.  \=<http://www.falconfly.de/identify-3dfx.htm>
+
+3.
+4.

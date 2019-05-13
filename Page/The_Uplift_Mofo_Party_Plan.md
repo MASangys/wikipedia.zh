@@ -1,0 +1,9 @@
+《**The Uplift Mofo Party
+Plan**》是美国[疯克摇滚乐队](https://zh.wikipedia.org/wiki/疯克摇滚 "wikilink")[呛辣红椒的第三张专辑](https://zh.wikipedia.org/wiki/呛辣红椒 "wikilink")，1987年9月29日由[EMI发行](../Page/EMI.md "wikilink")。由于1983年成立后乐队队员的变化，《The
+Uplift Mofo Party
+Plan》是4个最初成员——小提琴手[安东尼·基迪斯](https://zh.wikipedia.org/wiki/安东尼·基迪斯 "wikilink")、贝斯手[Flea](../Page/Flea.md "wikilink")、吉他手[希勒尔·斯洛伐克以及鼓手](https://zh.wikipedia.org/wiki/希勒尔·斯洛伐克 "wikilink")[杰克·艾恩斯全部出场的唯一一张专辑](https://zh.wikipedia.org/wiki/杰克·艾恩斯 "wikilink")。该专辑带有很重的疯克摇滚风格，但也受到[雷鬼和](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[硬摇滚的影响](https://zh.wikipedia.org/wiki/硬摇滚 "wikilink")。为了制作该专辑，呛辣红椒找来了新的经纪人[迈克尔·拜因霍恩](https://zh.wikipedia.org/wiki/迈克尔·拜因霍恩 "wikilink")。
+
+[Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink")
+[Category:呛辣红椒专辑](https://zh.wikipedia.org/wiki/Category:呛辣红椒专辑 "wikilink")
+[Category:国会唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:国会唱片音乐专辑 "wikilink")
+[Category:EMI_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:EMI_Records音乐专辑 "wikilink")

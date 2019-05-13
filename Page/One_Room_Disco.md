@@ -1,0 +1,27 @@
+「**One Room
+Disco**」（）是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第九張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2009年3月25日發行。唱片公司為[Tokuma
+Japan Communications](../Page/德間日本傳播.md "wikilink")。
+
+## 解説
+
+  - 「One Room Disco」是以[春季](../Page/春季.md "wikilink")、準備開始新生活為主題的歌曲。
+  - B面曲「23:30」則是一首加入[爵士樂元素的慢歌](../Page/爵士樂.md "wikilink")。
+  - PV中，三人在紅·白·藍三間房中跳舞，最後更披露了成員A-chan眨眼的場景。同時，在初回限定版DVD收錄的PV裡，包含了最後數秒鐘特別的映像。
+  - 單曲取得了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")[單曲榜週榜冠軍](../Page/2009年Oricon單曲週榜冠軍作品列表.md "wikilink")。
+
+## 收錄曲
+
+### CD
+
+### DVD
+
+1.  **「ワンルーム・ディスコ」video clip**
+
+## 外部連結
+
+  -
+[Category:Perfume歌曲](https://zh.wikipedia.org/wiki/Category:Perfume歌曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
+[Category:2009年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2009年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2009年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")

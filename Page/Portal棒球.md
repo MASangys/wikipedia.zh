@@ -1,0 +1,42 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+{{/box-header|棒球主题|Portal:棒球/简介|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:50%;">
+
+
+{{/box-header|精選條目|Portal:棒球/精選條目|}}  {{/box-footer|}}
+
+{{/box-header|你知道吗|Portal:棒球/你知道吗|}}  {{/box-footer|}}
+
+{{/box-header|欢迎参与|Portal:棒球/欢迎参与|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:49%">
+
+{{/box-header|棒球新闻|Portal:棒球/棒球新闻|}}  {{/box-footer|}}
+
+{{/box-header|語錄|Portal:棒球/棒球語錄}}  {{/box-footer|}}
+
+{{/box-header|分类|Portal:棒球/分类|}}  {{/box-footer|}}
+
+{{/box-header|维基专题|Portal:棒球/维基专题|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:体育](https://zh.wikipedia.org/wiki/Category:体育 "wikilink")
+[Category:棒球](https://zh.wikipedia.org/wiki/Category:棒球 "wikilink")

@@ -1,0 +1,22 @@
+《**再見十九歲**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭家麗的第一張EP](../Page/彭家麗.md "wikilink")，首張粵語專輯，於1989年2月17日推出，這專輯中的主打歌是《再見十九歲》，另外B面是三首歌曲的伴唱版。
+
+## 曲目
+
+|                                     |                                     |                                                                                                                                                  |                                  |                                                              |                                          |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| <font color=darkgreen>**曲序**</font> | <font color=darkgreen>**曲名**</font> | <font color=darkgreen>**曲**</font>                                                                                                               | <font color=green>**詞**</font>   | <font color=darkgreen>**編曲**</font>                          | <font color=darkgreen>**附註**</font>      |
+| 01                                  | 再見十九歲                               | [伊能靜](../Page/伊能靜.md "wikilink")(吳靜怡)/[林瓊瓏](../Page/林瓊瓏.md "wikilink")                                                                           | [林振強](../Page/林振強.md "wikilink") | [盧東尼](../Page/盧東尼.md "wikilink")(Antonio "Tony" Arevalo Jr.) | 主打歌, O. T. 生日快樂 / 伊能靜 ⓟⓒ1988 - 3         |
+| 02                                  | 五月情懷                                | [Barry Gibb](../Page/Barry_Gibb.md "wikilink")/[Robin Gibb](../Page/Robin_Gibb.md "wikilink")/[Maurice Gibb](../Page/Maurice_Gibb.md "wikilink") | [潘偉源](../Page/潘偉源.md "wikilink") | 盧東尼(Antonio "Tony" Arevalo Jr.)                              | O. T. FIRST OF MAY / Bee Gees ⓟⓒ1969 - 1 |
+| 03                                  | 獨行的白雲                               | [單立文](../Page/單立文.md "wikilink")                                                                                                                 | [吳旅榮](../Page/吳旅榮.md "wikilink") | 單立文                                                          |                                          |
+| 04                                  | 再見十九歲(伴唱版)                          | 伊能靜(吳靜怡)/林瓊瓏                                                                                                                                     | 林振強                              | 盧東尼(Antonio "Tony" Arevalo Jr.)                              |                                          |
+| 05                                  | 五月情懷(伴唱版)                           | Barry Gibb/Robin Gibb/Maurice Gibb                                                                                                               | 潘偉源                              | 盧東尼(Antonio "Tony" Arevalo Jr.)                              |                                          |
+| 06                                  | 獨行的白雲(伴唱版)                          | 單立文                                                                                                                                              | 吳旅榮                              | 單立文                                                          |                                          |
+
+## 唱片版本
+
+  - 錄音帶版
+  - 黑膠唱片版
+
+[Category:彭家麗音樂專輯](https://zh.wikipedia.org/wiki/Category:彭家麗音樂專輯 "wikilink")
+[Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

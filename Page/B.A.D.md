@@ -1,0 +1,105 @@
+**B.A.D.**是[台灣的三人組合](../Page/台灣.md "wikilink")，2000年出道、2005年解散。所屬[唱片公司為](../Page/唱片公司.md "wikilink")[科藝百代](../Page/科藝百代.md "wikilink")。
+
+## 簡介
+
+此團名由三位男生[白吉勝](../Page/白吉勝.md "wikilink")（Ben）、[田恩沛](../Page/田恩沛.md "wikilink")（Alex）、[黃柏文](../Page/黃柏文.md "wikilink")（Danny）、的英文名字第一個字母所定的團名，中文組合就叫**壞男孩**，且三位團員都是在[美國留學多年後回](../Page/美國.md "wikilink")[台灣發展](../Page/台灣.md "wikilink")，曾以2001年發行《OH\!
+I》專輯榮獲2002年第13屆[台灣](../Page/台灣.md "wikilink")[金曲獎流行音樂最佳重唱組合](../Page/金曲獎.md "wikilink")。
+
+B.A.D於2004年，和科藝百代的唱片[合約到期之後解散](../Page/合約.md "wikilink")。團體解散後，Ben仍活躍於台灣[演藝圈](../Page/演藝圈.md "wikilink")，Danny則轉型為[廣播電台](../Page/廣播電台.md "wikilink")[節目](../Page/節目.md "wikilink")[主持人](../Page/主持人.md "wikilink")，現為[飛碟電台](../Page/飛碟電台.md "wikilink")[DJ](../Page/DJ.md "wikilink")。
+
+## 成員列表
+
+B.A.D演唱歌曲時，亦會分配各自擅長的音域。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>藝名</strong></p></td>
+<td><p>=1 style="width:14%"|<strong>本名</strong></p></td>
+<td><p><strong>出生日期</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/白吉勝.md" title="wikilink">Ben</a></p></td>
+<td><p><a href="../Page/白吉勝.md" title="wikilink">白吉勝</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/田恩沛.md" title="wikilink">Alex</a></p></td>
+<td><p><a href="../Page/田恩沛.md" title="wikilink">田恩沛</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃柏文.md" title="wikilink">Danny</a></p></td>
+<td><p><a href="../Page/黃柏文.md" title="wikilink">黃柏文</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](../Page/台灣.md "wikilink")。曾經是歌唱組合B.A.D成員之一（團員三人，D就是DANNY的第一個字母）。黃柏文在2004年從團體解散之後淡出演藝圈，後擔任父親所任職的[秀傳醫院的行銷總監至今](../Page/秀傳醫院.md "wikilink")。\[1\]2006年黃柏文在團員[田恩沛](../Page/田恩沛.md "wikilink")（ALEX）及ALEX前妻[許維恩介紹之下認識了](../Page/許維恩.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")[楊晴瑄](../Page/楊晴瑄.md "wikilink")，相隔5年後在2011年向[楊晴瑄求婚](../Page/楊晴瑄.md "wikilink")，後於2013年6月23日舉行婚宴。\[2\]\[3\]
+
+## 唱片
+
+  - 2000年《[不安靜](../Page/不安靜.md "wikilink")》
+  - 2001年《[OH\! I](../Page/OH!_I.md "wikilink")》
+  - 2002年《[皇后之歌](../Page/皇后之歌.md "wikilink")》
+  - 2003年《[夢的起點](../Page/夢的起點.md "wikilink")》
+  - 2004年《[B.A.D同名專輯](../Page/B.A.D同名專輯.md "wikilink")》
+
+## 戲劇
+
+  - Ben
+
+<!-- end list -->
+
+  - 2001年《[陽光果凍](../Page/陽光果凍.md "wikilink")》\[4\] 飾演 BEN（侯湘婷的弟弟）
+  - 2002年《[黑白映畫館](../Page/黑白映畫館.md "wikilink")－少女殺手》
+  - 2003年《[戀香](../Page/戀香.md "wikilink")》 飾演 宋新
+  - 2004年《[愛情魔戒](../Page/愛情魔戒.md "wikilink")》 飾演 丁哲凱
+  - 2005年《海豚愛上貓》 飾演 Peter
+
+<!-- end list -->
+
+  - Alex
+
+<!-- end list -->
+
+  - 2005年《[我只在乎你](../Page/我只在乎你_\(電視劇\).md "wikilink")》 飾演 小宇
+
+<!-- end list -->
+
+  - Danny
+
+<!-- end list -->
+
+  - 2001年《[陽光果凍](../Page/陽光果凍.md "wikilink")》\[5\] 飾演 Danny（BEN的高中同學）
+  - 2002年《[黑色映畫館](../Page/黑色映畫館.md "wikilink")－至死不渝的愛》
+  - 2002年《[黑白映畫館](../Page/黑白映畫館.md "wikilink")－少女殺手》
+  - 2005年《[我只在乎你](../Page/我只在乎你_\(電視劇\).md "wikilink")》 飾演 徐政文
+
+## 參見
+
+  - [白吉勝](../Page/白吉勝.md "wikilink")
+  - [田恩沛](../Page/田恩沛.md "wikilink")
+
+## 參考資料
+
+[Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink")
+[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink")
+[Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
+
+1.  [黃明和一家掌秀傳
+    么兒是前男團B.A.D成員](http://news.ltn.com.tw/news/society/breakingnews/1116168)自由時報
+    2014-09-26
+
+2.  [楊晴瑄今早登記
+    正式成為秀傳醫院少奶奶](http://www.appledaily.com.tw/realtimenews/article/new/20130619/213201/)蘋果日報
+    2013年06月19日
+
+3.  [前B.A.D成員Danny大婚！求婚2年娶「小林志玲」楊晴瑄](http://star.ettoday.net/news/229135)ETtoday娛樂星光雲
+    2013年06月23日
+
+4.  [侯湘婷為吳克群當「未婚媽媽」](http://old.ltn.com.tw/2001/new/nov/14/today-show3.htm)自由電子新聞網
+    民國90年11月14日
+
+5.

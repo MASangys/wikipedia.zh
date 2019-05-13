@@ -1,0 +1,10 @@
+**詹姆斯·爱德华·戴**（**James Edward Day**，1914年10月11日 -
+1996年10月29日），[美国商人](../Page/美国.md "wikilink")、政治家，[美国民主党人](../Page/美国民主党.md "wikilink")，曾任[美国邮政部长](../Page/美国邮政部长.md "wikilink")（1961年-1963年）。
+
+
+[Category:1914年出生](https://zh.wikipedia.org/wiki/Category:1914年出生 "wikilink")
+[Category:1996年逝世](https://zh.wikipedia.org/wiki/Category:1996年逝世 "wikilink")
+[Category:美国邮政部长](https://zh.wikipedia.org/wiki/Category:美国邮政部长 "wikilink")
+[Category:20世纪律师](https://zh.wikipedia.org/wiki/Category:20世纪律师 "wikilink")
+[Category:芝加哥大學校友](https://zh.wikipedia.org/wiki/Category:芝加哥大學校友 "wikilink")
+[Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")

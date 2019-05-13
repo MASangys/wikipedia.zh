@@ -1,0 +1,27 @@
+**au**（），或**au/kddi**（au by
+KDDI），是一個[日本](../Page/日本.md "wikilink")[流動電話服務](../Page/流動電話.md "wikilink")[品牌](../Page/品牌.md "wikilink")，由[KDDI經營](../Page/KDDI.md "wikilink")，在[沖繩縣則另由](../Page/沖繩縣.md "wikilink")經營。其名稱源自[日文動詞](../Page/日文.md "wikilink")「」（會面）及「」（結合），發音皆為「au」。
+
+## 歷史
+
+[Au_Shop_Imafuku-Tsurumi.JPG](https://zh.wikipedia.org/wiki/File:Au_Shop_Imafuku-Tsurumi.JPG "fig:Au_Shop_Imafuku-Tsurumi.JPG")
+au的網絡原本由[豐田汽車及](../Page/豐田汽車.md "wikilink")[京瓷在](../Page/京瓷.md "wikilink")1985年建立，是以[摩托羅拉設計的汽車電話網絡為基礎](../Page/摩托羅拉.md "wikilink")。豐田負責在[東京及](../Page/東京.md "wikilink")[名古屋一帶的網絡](../Page/名古屋.md "wikilink")，京瓷則負責日本其他地區的網絡。京瓷於1989年至1992年間在其營運地區創辦獨立的電話公司，並創辦了[日本第二電信](../Page/日本第二電信.md "wikilink")（DDI）流動電話集團；豐田的部份，則在1987年組成了另一家公司[日本移動通訊](../Page/日本移動通信.md "wikilink")（IDO）。
+
+2000年11月，京瓷成立「**au K.K.**」（）並成為DDI流動電話網絡一部份。2001年，au
+K.K.與KDDI合併，KDDI本身為DDI、國際電信電話（KDD）及IDO在2000年合併而成。au的品牌名稱仍然繼續使用在KDDI旗下的流動通訊服務。
+
+2003年，au在日本全國建立了[3G網絡](../Page/3G.md "wikilink")，代替其舊有採用[CDMA
+1x技術的](../Page/CDMA.md "wikilink")[cdmaOne](../Page/cdmaOne.md "wikilink")
+。
+
+2012年9月，au開通[4G LTE網路服務](../Page/4G_LTE.md "wikilink")。
+
+## 參看
+
+  - [KDDI](../Page/KDDI.md "wikilink")
+
+## 外部連結
+
+  - [au](https://www.au.com) - 官方网址
+
+[Category:日本通信公司](https://zh.wikipedia.org/wiki/Category:日本通信公司 "wikilink")
+[Category:移动电话运营商](https://zh.wikipedia.org/wiki/Category:移动电话运营商 "wikilink")

@@ -1,0 +1,73 @@
+**Diskeeper**，一般縮寫為**DK**，是一個[Microsoft
+Windows的](../Page/Microsoft_Windows.md "wikilink")[硬碟](../Page/硬碟.md "wikilink")[重組軟件](../Page/重組軟件.md "wikilink")。為1981年6月22日於加州格蘭岱爾市創立的Diskeeper
+Corporation(原為*Executive Software*)的旗艦產品。
+
+[作業系統](../Page/作業系統.md "wikilink")[Windows
+XP同捆的](../Page/Windows_XP.md "wikilink")[重組軟件是Diskeeper的一個縮減的早期版本](../Page/重組軟件.md "wikilink")。
+
+Diskeeper的[網誌於](../Page/網誌.md "wikilink")2005年開始。索引了產品手册與關於不同領域例如[磁碟碎片硏究與影響的](../Page/磁碟碎片.md "wikilink")[白皮書的資訊中心於](../Page/白皮書.md "wikilink")2005年11月重新修訂。
+
+## 功能
+
+第10版Diskeeper的新功能為包含了I-FAAST。根據Diskeeper
+Corporation的說法，這功能基於一系列的測試來評測[IDE](../Page/IDE.md "wikilink"),
+[SATA](../Page/SATA.md "wikilink"),
+[SCSI與](../Page/SCSI.md "wikilink")[RAID](../Page/RAID.md "wikilink")[硬碟](../Page/硬碟.md "wikilink")。然後在一個列表設定後決定那些檔案最常取出。之後Diskeeper的重組行為會改為根據檔案的使用量而不是重組整個硬碟——最常用的資料會從新整理，減低電腦[硬件的負擔](../Page/硬件.md "wikilink")。儘管實質上不完全重組電腦的內容會得到較低的效能，一些用戶寧可選擇[多任務](../Page/多任務.md "wikilink")。而且這方法的衝突為通常會忽視比較間中的完整重組。例如開啓資料夾緩慢、從一個硬碟複製到另一個時緩慢、從[光碟複製到一個碎片嚴重](../Page/光碟.md "wikilink")(大慨50%或更多)的硬碟時緩慢。只有Professional
+Premier、[Server與Administrator版本擁有I](../Page/服务器.md "wikilink")-FAAST功能。
+
+現時有六個版本：Home、Professional、Professional Premier、Server Standard、Server
+Enterprise與Administrator。
+
+對手的產品包括[PerfectDisk](../Page/PerfectDisk.md "wikilink")、[O\&O
+Defrag與](../Page/O&O_Defrag.md "wikilink")[mst
+Defrag](../Page/mst_Defrag.md "wikilink")。
+
+## 爭議
+
+德國的[Federal Office of Security in Information
+Technology](../Page/Federal_Office_of_Security_in_Information_Technology.md "wikilink")
+(BSI)硏究顯示任何Diskeeper的活動都會令用戶受到安全威脅。
+
+Executive Software的CEO Craig
+Jensen是[山達基教](../Page/山達基教.md "wikilink")\[[https://web.archive.org/web/20060822181348/http://www.craigjensen.com/entrepreneur.html\]的一員，並且要求他的僱員受](https://web.archive.org/web/20060822181348/http://www.craigjensen.com/entrepreneur.html%5D的一員，並且要求他的僱員受)[山達基教](../Page/山達基教.md "wikilink")(Scientology)教祖[L·羅恩·賀伯特的主義的訓練](../Page/L·羅恩·賀伯特.md "wikilink")。1991年Executive
+Software得知[諾華製造一種違反](../Page/諾華.md "wikilink")[山達基教的藥物](../Page/山達基教.md "wikilink")[立得寧後拒絶為諾華的VAX版本Diskeeper提拱技術支援](../Page/派醋甲酯.md "wikilink")。
+*(參考[山達基教與精神病學](../Page/山達基教與精神病學.md "wikilink"))*於2000年包含在[Windows
+2000中的Diskeeper引起了德國的短暫注意因它們的法律限制了國家與聯邦政府與](../Page/Windows_2000.md "wikilink")[山達基教的人員做生意](../Page/山達基教.md "wikilink")。
+
+Diskeeper吹噓如「磁碟碎片導致死機、速度減慢、凍結甚至整個系統失效」的說明。[1](http://files.diskeeper.com/pdf/Reliability-Stability_White_Paper_ITPapers.pdf)
+
+## 參考
+
+  - [磁碟碎片](../Page/磁碟碎片.md "wikilink")
+  - [磁碟重組](../Page/磁碟重組.md "wikilink")
+
+## 其他磁碟重組軟體
+
+  - [O\&O Defrag](../Page/O&O_Defrag.md "wikilink")
+  - [Wise Disk Cleaner](../Page/Wise_Disk_Cleaner.md "wikilink")
+  - [Defraggler](../Page/Defraggler.md "wikilink")
+
+## 記事
+
+1.  [機器中的山達基教](http://www.wired.com/news/business/0,35054-0.html)，2000年Wired
+    News關於德國關注Executive
+    Software創辦人與[山達基教關係的故事](../Page/山達基教.md "wikilink")。
+
+2.  [Diskeeper拒絶技術支援令用戶驚嚇](https://web.archive.org/web/20101225074941/http://holysmoke.org/cos/dis-keeper.htm)，一個懷疑論網站holysmoke.org，引用自*Digital
+    News*。
+
+3.  Wired，上面所引用的著作。
+
+4.  天主教徒懷疑山達基教的軟件\]與收集引用屬於[Der
+    Spiegel](../Page/Der_Spiegel.md "wikilink")、[Stern等關於德國關注Executive](../Page/Stern.md "wikilink")
+    Software的網頁。
+
+## 外部連結
+
+  - [官方網站](http://www.diskeeper.com/)
+  - [繁體中文網站](http://www.diskeeper.com.tw/)
+  - [Diskeeper台灣代理商](https://web.archive.org/web/20100312090605/http://www.apacer.com.tw/tw/products/Diskeeper_Software.htm)
+  - [Diskeeper網誌](https://web.archive.org/web/20170601011852/http://diskeeperblog.com/)
+  - [新聞發佈](http://www.diskeeper.com/press/newsroom.aspx)
+
+[Category:磁盘整理软件](https://zh.wikipedia.org/wiki/Category:磁盘整理软件 "wikilink")

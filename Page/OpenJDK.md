@@ -1,0 +1,55 @@
+**OpenJDK**原是[Sun
+Microsystems公司为Java平台构建的Java开发环境](../Page/Sun_Microsystems.md "wikilink")（[JDK](../Page/JDK.md "wikilink")）的[开源版本](../Page/开源.md "wikilink")，完全自由，开放源码。Sun
+Microsystems公司在2006年的[JavaOne大会上称将对Java开放源代码](../Page/JavaOne.md "wikilink")，于2009年4月15日正式发布OpenJDK。甲骨文在2010年收購Sun
+Microsystem之後接管了這個專案。
+
+## 歷史
+
+2008年5月，[Fedora](../Page/Fedora.md "wikilink")
+9\[1\]\[2\]及[Ubuntu](../Page/Ubuntu.md "wikilink")
+8.04\[3\]於發行版中發佈OpenJDK，完整地基於[自由及](../Page/自由軟件.md "wikilink")[开放源代码的OpenJDK](../Page/开放源代码.md "wikilink")。\[4\]
+
+2008年6月， 6（Fedora 9上的一個套件版本的OpenJDK）宣布已通過測試，可以稱得上是一個完全兼容的Java
+6的執行環境。\[5\]
+
+2008年7月12日，[Debian接受了OpenJDK](../Page/Debian.md "wikilink")-6的不穩定版本\[6\]\[7\]，但目前情況已經穩定\[8\]。OpenJDK也可以在[openSUSE](../Page/openSUSE.md "wikilink")、[Red
+Hat Enterprise
+Linux及其衍生系統](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，如[CentOS中找到](../Page/CentOS.md "wikilink")。\[9\]
+
+自2008年7月，OpenJDK 7可以運行在[Mac OS
+X和其他的](../Page/Mac_OS_X.md "wikilink")[BSD發行版](../Page/BSD.md "wikilink")。\[10\]
+
+2009年7月，Ubuntu 9.04中的二進制版本OpenJDK在Java SE 6 中通過了所有的兼容性測試。\[11\]
+
+2016年8月22日，[Google在](../Page/Google.md "wikilink")[Android 7.0
+Nougat中](../Page/Android_7.0_Nougat.md "wikilink")，將專利的[JDK替換成開源方案的OpenJDK](../Page/JDK.md "wikilink")，以徹底解決Java的專利問題。\[12\]
+
+## 参考资料
+
+## 外部链接
+
+  - [OpenJDK官方网站](http://openjdk.java.net/)
+  - [OpenJDK FAQ](http://www.sun.com/software/opensource/java/faq.jsp)
+  - [OpenJDK - The First
+    Year](http://parleys.com/display/PARLEYS/OpenJDK+-+The+First+Year?showComments=true)
+    by Mark Reinhold
+
+[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
+[Category:Java虚拟机](https://zh.wikipedia.org/wiki/Category:Java虚拟机 "wikilink")
+[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
+[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
+[Category:自由虚拟化软件](https://zh.wikipedia.org/wiki/Category:自由虚拟化软件 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11. [Announcing OpenJDK 6 Certification for
+    Ubuntu 9.04（jaunty）](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2009-July/000587.html)
+12.

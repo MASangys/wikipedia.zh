@@ -1,0 +1,117 @@
+以下的格式為：
+
+  - ICAO機場代碼–機場名稱–機場位置-備註
+
+## BG：[格陵蘭](../Page/格陵蘭.md "wikilink")
+
+  - **BGAA**-[亞西亞特機場](../Page/亞西亞特機場.md "wikilink")-[亞西亞特](../Page/亞西亞特.md "wikilink")
+  - **BGAG**-[Aappilattoq直升機場](../Page/Aappilattoq直升機場.md "wikilink")-[Aappilattoq](../Page/Aappilattoq.md "wikilink")
+  - **BGAK**-[Akunnaaq直升機場](../Page/Akunnaaq直升機場.md "wikilink")-[Akunnaaq](../Page/Akunnaaq.md "wikilink")
+  - **BGAM**-[Tasiilaq直升機場](../Page/Tasiilaq直升機場.md "wikilink")-[Tasiilaq](../Page/Tasiilaq.md "wikilink")
+  - **BGAP**-[Alluitsup
+    Paa直升機場](../Page/Alluitsup_Paa直升機場.md "wikilink")-[Alluitsup
+    Paa](../Page/Alluitsup_Paa.md "wikilink")
+  - **BGAQ**-[Aappilattoq直升機場](../Page/Aappilattoq直升機場.md "wikilink")-[Aappilattoq](../Page/Aappilattoq.md "wikilink")
+  - **BGAR**-[阿爾蘇克直升機場](../Page/阿爾蘇克直升機場.md "wikilink")-[阿爾蘇克](../Page/阿爾蘇克.md "wikilink")
+  - **BGAS**-[Ammassivik直升機場](../Page/Ammassivik直升機場.md "wikilink")-[Ammassivik](../Page/Ammassivik.md "wikilink")
+  - **BGAT**-[阿圖直升機場](../Page/阿圖直升機場.md "wikilink")-[阿圖](../Page/阿圖.md "wikilink")
+  - **BGBW**-[納爾薩爾蘇阿克機場](../Page/納爾薩爾蘇阿克機場.md "wikilink")-[納爾薩爾蘇阿克](../Page/納爾薩爾蘇阿克.md "wikilink")
+  - **BGCH**-[卡西江吉特直升機場](../Page/卡西江吉特直升機場.md "wikilink")-[卡西江吉特](../Page/卡西江吉特.md "wikilink")
+  - **BGCO**-[Nerlerit
+    Inaat機場](../Page/Nerlerit_Inaat機場.md "wikilink")-[詹姆森地](../Page/詹姆森地.md "wikilink")
+  - <s>**BGEM**</s>---請見**BGAA**
+  - **BGET**-[Eqalugaarsuit直升機場](../Page/Eqalugaarsuit直升機場.md "wikilink")-[Eqalugaarsuit](../Page/Eqalugaarsuit.md "wikilink")
+  - **BGFD**-[Narsarmijit直升機場](../Page/Narsarmijit直升機場.md "wikilink")-[Narsarmijit](../Page/Narsarmijit.md "wikilink")
+  - <s>**BGFH**</s>---請見**BGPT**
+  - **BGGD**-[Kangilinnguit直升機場](../Page/Kangilinnguit直升機場.md "wikilink")-[Kangilinnguit](../Page/Kangilinnguit.md "wikilink")
+  - **BGGH**-[努克機場](../Page/努克機場.md "wikilink")-[努克](../Page/努克.md "wikilink")
+  - **BGGN**-[Qeqertarsuaq直升機場](../Page/Qeqertarsuaq直升機場.md "wikilink")-[Qeqertarsuaq](../Page/Qeqertarsuaq.md "wikilink")
+  - <s>**BGHB**</s>---請見**BGSS**
+  - **BGIA**-[伊凱拉薩克直升機場](../Page/伊凱拉薩克直升機場.md "wikilink")-[伊凱拉薩克](../Page/伊凱拉薩克.md "wikilink")
+  - **BGIG**-[Iginniarfik直升機場](../Page/Iginniarfik直升機場.md "wikilink")-[Iginniarfik](../Page/Iginniarfik.md "wikilink")
+  - **BGIK**-[Ikerasaarsuk直升機場](../Page/Ikerasaarsuk直升機場.md "wikilink")-[Ikerasaarsuk](../Page/Ikerasaarsuk.md "wikilink")
+  - **BGIL**-[Ilimanaq直升機場](../Page/Ilimanaq直升機場.md "wikilink")-[Ilimanaq](../Page/Ilimanaq.md "wikilink")
+  - **BGIN**-[Innaarsuit直升機場](../Page/Innaarsuit直升機場.md "wikilink")-[Innaarsuit](../Page/Innaarsuit.md "wikilink")
+  - **BGIS**-[伊索托克峽灣直升機場](../Page/伊索托克峽灣直升機場.md "wikilink")-[伊索托克峽灣](../Page/伊索托克峽灣.md "wikilink")
+  - **BGIT**-[伊卡米尤特直升機場](../Page/伊卡米尤特直升機場.md "wikilink")-[伊卡米尤特](../Page/伊卡米尤特.md "wikilink")
+  - **BGJH**-[卡科爾托克直升機場](../Page/卡科爾托克直升機場.md "wikilink")-[卡科爾托克](../Page/卡科爾托克.md "wikilink")
+  - **BGJN**-[伊盧利薩特機場](../Page/伊盧利薩特機場.md "wikilink")-[伊盧利薩特](../Page/伊盧利薩特.md "wikilink")
+  - **BGKA**-[Kangaatsiaq直升機場](../Page/Kangaatsiaq直升機場.md "wikilink")-[Kangaatsiaq](../Page/Kangaatsiaq.md "wikilink")
+  - **BGKK**-[Kulusuk機場](../Page/Kulusuk機場.md "wikilink")-[Kulusuk](../Page/Kulusuk.md "wikilink")
+  - **BGKL**-[Upernavik
+    Kujalleq直升機場](../Page/Upernavik_Kujalleq直升機場.md "wikilink")-[Upernavik
+    Kujalleq](../Page/Upernavik_Kujalleq.md "wikilink")
+  - **BGKM**-[Kuummiut直升機場](../Page/Kuummiut直升機場.md "wikilink")-[Kuummiut](../Page/Kuummiut.md "wikilink")
+  - **BGKQ**-[Kullorsuaq直升機場](../Page/Kullorsuaq直升機場.md "wikilink")-[Kullorsuaq](../Page/Kullorsuaq.md "wikilink")
+  - **BGKS**-[Kangersuatsiaq直升機場](../Page/Kangersuatsiaq直升機場.md "wikilink")-[Kangersuatsiaq](../Page/Kangersuatsiaq.md "wikilink")
+  - **BGKT**-[Kitsissuarsuit直升機場](../Page/Kitsissuarsuit直升機場.md "wikilink")-[Kitsissuarsuit](../Page/Kitsissuarsuit.md "wikilink")
+  - **BGLL**-[Illorsuit直升機場](../Page/Illorsuit直升機場.md "wikilink")-[Illorsuit](../Page/Illorsuit.md "wikilink")
+  - **BGMO**-[Moriusaq直升機場](../Page/Moriusaq直升機場.md "wikilink")-[Moriusaq](../Page/Moriusaq.md "wikilink")
+  - **BGMQ**-[Maniitsoq直升機場](../Page/Maniitsoq直升機場.md "wikilink")-[Maniitsoq](../Page/Maniitsoq.md "wikilink")
+  - **BGNK**-[Niaqornaarsuk直升機場](../Page/Niaqornaarsuk直升機場.md "wikilink")-[Niaqornaarsuk](../Page/Niaqornaarsuk.md "wikilink")
+  - **BGNL**-[Nalunaq直升機場](../Page/Nalunaq直升機場.md "wikilink")-[Nalunaq](../Page/Nalunaq.md "wikilink")
+  - **BGNN**-[納諾塔利克直升機場](../Page/納諾塔利克直升機場.md "wikilink")-[納諾塔利克](../Page/納諾塔利克.md "wikilink")
+  - **BGNQ**-[Nuugaatsiaq直升機場](../Page/Nuugaatsiaq直升機場.md "wikilink")-[Nuugaatsiaq](../Page/Nuugaatsiaq.md "wikilink")
+  - **BGNS**-[納薩克直升機場](../Page/納薩克直升機場.md "wikilink")-[納薩克](../Page/納薩克.md "wikilink")
+  - **BGNT**-[尼亞科納特直升機場](../Page/尼亞科納特直升機場.md "wikilink")-[尼亞科納特](../Page/尼亞科納特.md "wikilink")
+  - **BGNU**-[Nuussuaq直升機場](../Page/Nuussuaq直升機場.md "wikilink")-[Nuussuaq](../Page/Nuussuaq.md "wikilink")
+  - **BGPT**-[帕繆特機場](../Page/帕繆特機場.md "wikilink")-[帕繆特](../Page/帕繆特.md "wikilink")
+  - <s>**BGQA**</s>---請見**BGQQ**
+  - **BGQE**-[凱凱赫塔克直升機場](../Page/凱凱赫塔克直升機場.md "wikilink")-[凱凱赫塔克](../Page/凱凱赫塔克.md "wikilink")
+  - **BGQQ**-[卡納克機場](../Page/卡納克機場.md "wikilink")-[卡納克](../Page/卡納克.md "wikilink")
+  - **BGQT**-[Qassimiut直升機場](../Page/Qassimiut直升機場.md "wikilink")-[Qassimiut](../Page/Qassimiut.md "wikilink")
+  - **BGSC**-[Ittoqqortoormiit直升機場](../Page/Ittoqqortoormiit直升機場.md "wikilink")-[Ittoqqortoormiit](../Page/Ittoqqortoormiit.md "wikilink")
+  - **BGSF**-[Kangerlussuaq機場](../Page/Kangerlussuaq機場.md "wikilink")-[Kangerlussuaq](../Page/Kangerlussuaq.md "wikilink")
+  - **BGSG**-[Sermiligaaq直升機場](../Page/Sermiligaaq直升機場.md "wikilink")-[Sermiligaaq](../Page/Sermiligaaq.md "wikilink")
+  - **BGSI**-[肖拉帕盧克直升機場](../Page/肖拉帕盧克直升機場.md "wikilink")-[肖拉帕盧克](../Page/肖拉帕盧克.md "wikilink")
+  - **BGSQ**-[Saqqaq直升機場](../Page/Saqqaq直升機場.md "wikilink")-[Saqqaq](../Page/Saqqaq.md "wikilink")
+  - **BGSS**-[西西繆特機場](../Page/西西繆特機場.md "wikilink")-[西西繆特](../Page/西西繆特.md "wikilink")
+  - **BGST**-[Saattut直升機場](../Page/Saattut直升機場.md "wikilink")-[Saattut](../Page/Saattut.md "wikilink")
+  - **BGSV**-[Savissivik直升機場](../Page/Savissivik直升機場.md "wikilink")-[Savissivik](../Page/Savissivik.md "wikilink")
+  - **BGTA**-[Tasiusaq直升機場](../Page/Tasiusaq直升機場.md "wikilink")-[Tasiusaq](../Page/Tasiusaq.md "wikilink")
+  - **BGTL**-[圖勒空軍基地](../Page/圖勒空軍基地.md "wikilink")-[Pituffik](../Page/Pituffik.md "wikilink")
+  - **BGTN**-[Tiniteqilaaq直升機場](../Page/Tiniteqilaaq直升機場.md "wikilink")-[Tiniteqilaaq](../Page/Tiniteqilaaq.md "wikilink")
+  - **BGTQ**-[Tasiusaq直升機場](../Page/Tasiusaq直升機場.md "wikilink")-[Tasiusaq](../Page/Tasiusaq.md "wikilink")
+  - **BGUK**-[烏佩納維克機場](../Page/烏佩納維克機場.md "wikilink")-[烏佩納維克](../Page/烏佩納維克.md "wikilink")
+  - **BGUM**-[烏瑪納克直升機場](../Page/烏瑪納克直升機場.md "wikilink")-[烏瑪納克](../Page/烏瑪納克.md "wikilink")
+  - **BGUQ**-[Qaarsut機場](../Page/Qaarsut機場.md "wikilink")-[Qaarsut](../Page/Qaarsut.md "wikilink")
+  - **BGUT**-[Ukkusissat直升機場](../Page/Ukkusissat直升機場.md "wikilink")-[Ukkusissat](../Page/Ukkusissat.md "wikilink")
+
+## BI-[冰島](../Page/冰島.md "wikilink")
+
+  - **BIAR**-[阿克雷里機場](../Page/阿克雷里機場.md "wikilink")-[阿克雷里](../Page/阿克雷里.md "wikilink")
+  - **BIBA**-[巴基機場](../Page/巴基機場.md "wikilink")-[巴基](../Page/巴基.md "wikilink")
+  - **BIBD**-[比爾德達勒機場](../Page/比爾德達勒機場.md "wikilink")-[比爾德達勒](../Page/比爾德達勒.md "wikilink")
+  - **BIBK**-[Bakkafjörður機場](../Page/Bakkafjörður機場.md "wikilink")-[Bakkafjörður](../Page/Bakkafjörður.md "wikilink")
+  - **BIBL**-[布倫迪歐斯機場](../Page/布倫迪歐斯機場.md "wikilink")-[布倫迪歐斯](../Page/布倫迪歐斯.md "wikilink")
+  - **BIDV**-[Djupivogur機場](../Page/Djupivogur機場.md "wikilink")-[Djupivogur](../Page/Djupivogur.md "wikilink")
+  - **BIEG**-[埃伊爾斯塔濟機場](../Page/埃伊爾斯塔濟機場.md "wikilink")-[埃伊爾斯塔濟](../Page/埃伊爾斯塔濟.md "wikilink")
+  - **BIGJ**-[哲居爾機場](../Page/哲居爾機場.md "wikilink")-[哲居爾](../Page/哲居爾.md "wikilink")
+  - **BIGR**-[格里姆塞島機場](../Page/格里姆塞島機場.md "wikilink")-[格里姆塞島](../Page/格里姆塞島.md "wikilink")
+  - **BIHN**-[Hornafjörður機場](../Page/Hornafjörður機場.md "wikilink")-[赫本](../Page/赫本.md "wikilink")
+  - **BIHU**-[胡薩維克機場](../Page/胡薩維克機場.md "wikilink")-[胡薩維克](../Page/胡薩維克.md "wikilink")
+  - **BIIS**-[伊薩菲厄澤機場](../Page/伊薩菲厄澤機場.md "wikilink")-[伊薩菲厄澤](../Page/伊薩菲厄澤.md "wikilink")
+  - **BIKF**-[凱夫拉維克國際機場](../Page/凱夫拉維克國際機場.md "wikilink")-[凱夫拉維克](../Page/凱夫拉維克.md "wikilink")
+  - **BIKP**-[科帕斯凱爾機場](../Page/科帕斯凱爾機場.md "wikilink")-[科帕斯凱爾](../Page/科帕斯凱爾.md "wikilink")
+  - **BIKR**-[Sauðárkrókur機場](../Page/Sauðárkrókur機場.md "wikilink")-[Sauðárkrókur](../Page/Sauðárkrókur.md "wikilink")
+  - **BINF**-[Neskaupstaður機場](../Page/Neskaupstaður機場.md "wikilink")-[Neskaupstaður](../Page/Neskaupstaður.md "wikilink")
+  - **BIPA**-[Patreksfjörður機場](../Page/Patreksfjörður機場.md "wikilink")-[Patreksfjörður](../Page/Patreksfjörður.md "wikilink")
+  - **BIRF**-[里夫機場](../Page/里夫機場.md "wikilink")-[歐拉夫斯維克](../Page/歐拉夫斯維克.md "wikilink")
+  - **BIRG**-[勒伊法赫本機場](../Page/勒伊法赫本機場.md "wikilink")-[勒伊法赫本](../Page/勒伊法赫本.md "wikilink")
+  - **BIRK**-[雷克雅未克機場](../Page/雷克雅未克機場.md "wikilink")-[雷克雅未克](../Page/雷克雅未克.md "wikilink")
+  - **BISF**-[塞爾福士機場](../Page/塞爾福士機場.md "wikilink")-[塞爾福士](../Page/塞爾福士.md "wikilink")
+  - **BISI**-[Siglufjörður機場](../Page/Siglufjörður機場.md "wikilink")-[Siglufjörður](../Page/Siglufjörður.md "wikilink")
+  - **BIST**-[Stykkishólmur機場](../Page/Stykkishólmur機場.md "wikilink")-[Stykkishólmur](../Page/Stykkishólmur.md "wikilink")
+  - **BITE**-[辛蓋裡機場](../Page/辛蓋裡機場.md "wikilink")-[辛蓋裡](../Page/辛蓋裡.md "wikilink")
+  - **BITN**-[索爾斯港機場](../Page/索爾斯港機場.md "wikilink")-[索爾斯港](../Page/索爾斯港.md "wikilink")
+  - **BIVM**-[韋斯特曼納群島機場](../Page/韋斯特曼納群島機場.md "wikilink")-[韋斯特曼納群島](../Page/韋斯特曼納群島.md "wikilink")
+  - **BIVO**-[Vopnafjörður機場](../Page/Vopnafjörður機場.md "wikilink")-[Vopnafjörður](../Page/Vopnafjörður.md "wikilink")
+
+## BK-[科索沃](../Page/科索沃.md "wikilink")
+
+  - **BKPR**-[普里什蒂納國際機場](../Page/普里什蒂納國際機場.md "wikilink")-[普里什蒂納](../Page/普里什蒂納.md "wikilink")
+
+## 參考文獻
+
+  -
+[Category:國際民航組織機場代碼](https://zh.wikipedia.org/wiki/Category:國際民航組織機場代碼 "wikilink")

@@ -1,0 +1,62 @@
+**string.h**是[C标准库的](../Page/C标准库.md "wikilink")[头文件](../Page/头文件.md "wikilink")，其中包含了[宏](../Page/宏.md "wikilink")(巨集)定义、常量以及函数和类型的声明，涉及的内容除了[字符串处理之外](../Page/字符串.md "wikilink")，还包括大量的内存处理函数；因此，`string.h`这个命名是不恰当的。
+
+在`string.h`中定义的函数十分常用，作为[C标准库的一部分](../Page/C标准库.md "wikilink")，它们被强制要求可以在任何支持C语言的平台上运行。但是，部分函数存在一些安全隐患，例如[缓存溢出等](../Page/缓存溢出.md "wikilink")，导致程序员宁愿使用一些更安全的函数而放弃一定的可移植性。同时，这些字符串函数只能处理[ASCII字符集或兼容ASCII的字符集](../Page/ASCII.md "wikilink")，如[ISO-8859-1](../Page/ISO-8859-1.md "wikilink")；在处理存在多字节字符的字符集，如[UTF-8时](../Page/UTF-8.md "wikilink")，会产生一个警告，指出对字符串“长度”的计算是以字节而不是以[Unicode字符为单位](../Page/Unicode.md "wikilink")。非ASCII兼容字符集的字符串处理函数一般位于[`wchar.h`](../Page/wchar.h.md "wikilink")中。
+
+## 常量和类型
+
+| 名称       | 说明                                                                                      |
+| -------- | --------------------------------------------------------------------------------------- |
+| `NULL`   | 表示[空指针常量的宏](../Page/空指针.md "wikilink")，即表示一个**不**指向任何有效内存单元地址的指针常量。                     |
+| `size_t` | 无符号[整型](../Page/整型.md "wikilink")，被用于[`sizeof`](../Page/sizeof.md "wikilink")运算符的返回值类型。 |
+
+## 函数
+
+| 名称                                                                                              | 说明                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `void *`[`memcpy`](../Page/memcpy.md "wikilink")`(void *dest, const void *src, size_t n);`      | 将n字节长的内容从一个内存地址复制到另一个地址；如果两个地址存在重叠，则最终行为未定义                                                                                                                         |
+| `void *memmove(void *dest, const void *src, size_t n);`                                         | 将n字节长的内容从一个内存地址复制到另一个地址；与`memcpy`不同的是它可以正确作用于两个存在重叠的地址                                                                                                              |
+| `void *memchr(const void *s, char c, size_t n);`                                                | 在从s开始的n个字节内查找c第一次出现的地址并返回，若未找到则返回NULL                                                                                                                               |
+| `int memcmp(const void *s1, const void *s2, size_t n);`                                         | 对从两个内存地址开始的n个字符进行比较                                                                                                                                                 |
+| `void *memset(void *, int, size_t);`                                                            | 用某种字节内容覆写一段内存空间                                                                                                                                                     |
+| `char *`[`strcat`](../Page/strcat.md "wikilink")`(char *dest, const char *src);`                | 在字符串dest之后连接上src                                                                                                                                                    |
+| `char *`[`strncat`](../Page/strncat.md "wikilink")`(char *dest, const char *src, size_t n);`    | 从src截取n个字符连接在字符串dest之后，返回dest字符串                                                                                                                                    |
+| `char *`[`strchr`](../Page/strchr.md "wikilink")`(const char* str, int ch);`                    | 从字符串str头开始查找字符ch首次出现的位置                                                                                                                                             |
+| `char *`[`strrchr`](../Page/strrchr.md "wikilink")`(const char* str,int ch);`                   | 从字符串str尾开始查找字符ch首次出现的位置 |-\<nowiki\>请在这里插入非格式化文字</nowiki>                                                                                                           |
+| ` int  `[`strncmp`](../Page/strncmp.md "wikilink")`(const char *, const char *, size_t n);`     | 基于字典顺序比较两个字符串，最多比较n个字节                                                                                                                                              |
+| ` int  `[`strcoll`](../Page/strcoll.md "wikilink")`(const char *, const char *);`               | 基于当前[区域设置的](../Page/区域设置.md "wikilink")比较两个字符串                                                                                                                      |
+| `char *`[`strcpy`](../Page/strcpy.md "wikilink")`(char* str1, const char* str2);`               | 将str2拷贝给str1                                                                                                                                                        |
+| `char *`[`strncpy`](../Page/strncpy.md "wikilink")`(char* str1, const char* str2, size_t n);`   | 截取str2的n个字符拷贝给str1                                                                                                                                                  |
+| `char *`[`strerror`](../Page/strerror.md "wikilink")`(int);`                                    | 返回错误码对应的解释字符串，参见[errno.h](../Page/errno.h.md "wikilink")（非线程安全函数）                                                                                                   |
+| ` size_t  `[`strlen`](../Page/strlen.md "wikilink")`(const char *);`                            | 返回一个字符串的长度                                                                                                                                                          |
+| ` size_t  `[`strspn`](../Page/strspn.md "wikilink")`(const char *s, const char *strCharSet);`   | 从字符串s的起始处开始，寻找第一个**不**出现在strCharSet中的字符，返回其位置索引值。换句话说，返回从字符串s的起始位置的完全由strCharSet中的字符构成的子串的最大长度。strspn为string span的缩写。不支持多字节字符集。                                     |
+| ` size_t  `[`strcspn`](../Page/strcspn.md "wikilink")`(const char *s, const char *strCharSet);` | 从字符串s的起始处开始，寻找第一个出现在strCharSet中的字符，返回其位置索引值。换句话说，返回从字符串s的起始位置的完全由不属于strCharSet中的字符构成的子串的最大长度。strcspn为string complement span的缩写。不支持多字节字符集。                           |
+| `char *`[`strpbrk`](../Page/strpbrk.md "wikilink")`(const char *s, const char *strCharSet);`    | 在字符串s中查找strCharSet中任意字符第一次出现的位置的指针值。strpbrk为string pointer break缩写。不支持多字节字符集。                                                                                       |
+| `char *`[`strstr`](../Page/strstr.md "wikilink")`(const char *haystack, const char *needle);`   | 在字符串haystack中查找字符串needle第一次出现的位置，heystack的长度必须长于needle                                                                                                              |
+| `char *`[`strtok`](../Page/strtok.md "wikilink")`(char *strToken, const char *strDelimit );`    | 将一个字符串strToken依据分界符（delimiter）分隔成一系列字串。此函数非线程安全，且不可重入；但MSVC实现时使用了thread-local static variable因而是线程安全的单仍然是不可重入，即在单线程中不能对两个源字符串交替调用该函数来分析token，应当对一个字符串分析完成后再处理别的字符串。 |
+| ` size_t  `[`strxfrm`](../Page/strxfrm.md "wikilink")`(char *dest, const char *src, size_t n);` | 根据当前locale转换一个字符串为strcmp使用的内部格式                                                                                                                                     |
+
+### ISO C扩展函数
+
+| 名称                                                                                                     | 说明                                                                         | 标准                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `void *`[`memccpy`](../Page/memccpy.md "wikilink")`(void *dest, const void *src, int c, size_t n` `);` | 在两块不重叠的内存地址间复制内容，直至复制了n字节或遇到内容为c的字节                                        | UNIX 98?                                                                                                                                                                            |
+| `void *`[`mempcpy`](../Page/mempcpy.md "wikilink")`(void *dest, const void *src, size_t n);`           | `memcpy`的变体，返回写入的最后一个字节的地址指针                                               | [GNU](../Page/GNU.md "wikilink")                                                                                                                                                    |
+| ` errno_t  `[`strcat_s`](../Page/strcat_s.md "wikilink")`(char *s1, size_t s1max, const char *s2);`    | `strcat`的变体，带边界检查                                                          | ISO/IEC WDTR 24731                                                                                                                                                                  |
+| ` errno_t  `[`strcpy_s`](../Page/strcpy_s.md "wikilink")`(char *s1, size_t s1max, const char *s2);`    | `strcpy`的变体，带边界检查                                                          | ISO/IEC WDTR 24731                                                                                                                                                                  |
+| `char *`[`strdup`](../Page/strdup.md "wikilink")`(const char *);`                                      | 将字符串的内容复制到一段新分配的内存空间                                                       | [POSIX](../Page/POSIX.md "wikilink")；源于一个BSD扩展标准                                                                                                                                    |
+| ` int  `[`strerror_r`](../Page/strerror_r.md "wikilink")`(int, char *, size_t);`                       | 将strerror()的结果放入一段给定的内存缓冲，此函数是线程安全的                                        | POSIX:2001                                                                                                                                                                          |
+| `char *`[`strerror_r`](../Page/strerror_r.md "wikilink")`(int, char *, size_t);`                       | 使用线程安全的方式返回strerror()的结果。在必要的时候才使用给定的内存缓冲 (与POSIX中的定义不一致).                 | GNU                                                                                                                                                                                 |
+| ` size_t  `[`strlcat`](../Page/strlcat.md "wikilink")`(char *dest, const char *src, size_t n);`        | `strcat`的变体，带边界检查                                                          | 首先定义于[OpenBSD](../Page/OpenBSD.md "wikilink")，现在也可以在[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac OS X中找到](../Page/Mac_OS_X.md "wikilink") |
+| ` size_t  `[`strlcpy`](../Page/strlcpy.md "wikilink")`(char *dest, const char *src, size_t n);`        | `strcpy`的变体，带边界检查                                                          | 首先定义于[OpenBSD](../Page/OpenBSD.md "wikilink")，现在也可以在[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac OS X中找到](../Page/Mac_OS_X.md "wikilink") |
+| `char *`[`strsignal`](../Page/strsignal.md "wikilink")`(int sig);`                                     | 与`strerror`类似，返回[有符号数](../Page/有符号数.md "wikilink")`sig`对应的错误解释字符串（非线程安全函数） | BSDs, Solaris, Linux                                                                                                                                                                |
+| `char *`[`strtok_r`](../Page/strtok_r.md "wikilink")`(char *, const char *, char **);`                 | strtok的线程安全且可重入的版本                                                         | POSIX                                                                                                                                                                               |
+
+## 外部链接
+
+  - [Linux库函数手册：字符串操作](http://linux.die.net/man/3/string)
+
+[en:C string handling](../Page/en:C_string_handling.md "wikilink")
+[th:การจัดการสายอักขระในภาษาซี](../Page/th:การจัดการสายอักขระในภาษาซี.md "wikilink")
+
+[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
+[Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")

@@ -1,0 +1,107 @@
+**Adium** 是一个[Mac OS
+X上的多方協議](../Page/Mac_OS_X.md "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")[客戶端](../Page/客戶端.md "wikilink")，以[libpurple](../Page/Pidgin.md "wikilink")[函式庫為基礎](../Page/函式庫.md "wikilink")。Adium
+由 [Cocoa](../Page/Cocoa.md "wikilink")[API](../Page/API.md "wikilink")
+編寫，並以[自由軟體的](../Page/自由軟體.md "wikilink")[GNU釋出](../Page/GNU.md "wikilink")。
+
+## 歷史
+
+Adium由當時的大學生Adam Iser開發，並於2001年9月發表1.0版本。下一版本原本應為Adium
+2.0，但隨後即被更名為Adium，一個自1.0重寫的版本。它的最大改進在於它轉換至libpurple協議而可支援如[ICQ](../Page/ICQ.md "wikilink")、[Windows
+Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")、[Yahoo\!
+Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[XMPP](../Page/XMPP.md "wikilink")（[Google
+Talk亦使用](../Page/Google_Talk.md "wikilink")），而非僅[AIM](../Page/AOL即时通讯.md "wikilink")。大部分的libpurple部份由[Pidgin團隊完成](../Page/Pidgin.md "wikilink")，而Adium團隊則完成Adium的[圖形用戶界面](../Page/圖形用戶界面.md "wikilink")。
+
+下一版的主要計畫為Adium 1.0，開發計畫在 [Adium Trac
+頁面](https://web.archive.org/web/20100131040159/http://trac.adium.im/milestone/Adium%20X%201.0)
+有清楚地呈現。原最主要的改變在於Adium
+1.0將從libpurple轉換至joscar協議以改善AIM程序並改進檔案傳輸。然而，在2006年12月8日，開發團隊重新使用libpurple，因其有了Java-Cocoa的協議。
+
+在歷經多次測試之後，Adium 1.0已於2007年2月3日推出。
+
+Adium另廣知於[Mac社群在於](../Page/Mac_OS.md "wikilink")[蘋果公司使用Adium](../Page/蘋果公司.md "wikilink")
+0.89.1於[Xcode](../Page/Xcode.md "wikilink") 2.3的編譯執行時間來作為[Mac
+Pro與](../Page/Mac_Pro.md "wikilink")[PowerMac
+G5](../Page/PowerMac_G5.md "wikilink") Quad的效能比較。\[1\]
+
+## 協定
+
+Adium 支援下列的帳號種類：
+
+  - [Windows Live
+    Messenger](../Page/Windows_Live_Messenger.md "wikilink")
+  - [AOL即時通訊](../Page/AOL即時通訊.md "wikilink")
+  - [Bonjour](../Page/Bonjour.md "wikilink")（原 Rendezvous）
+  - [Facebook](../Page/Facebook.md "wikilink")
+  - [Fetion](../Page/飛信.md "wikilink")
+    ([需插件](http://code.google.com/p/fetion-plugin-for-adium/))
+  - [Gadu-Gadu](../Page/Gadu-Gadu.md "wikilink")
+  - [ICQ](../Page/ICQ.md "wikilink")
+  - [XMPP](../Page/XMPP.md "wikilink") ([Google
+    Talk](../Page/Google_Talk.md "wikilink"),
+    [LiveJournal](../Page/LiveJournal.md "wikilink"))
+  - [Lotus Sametime](../Page/Lotus_Sametime.md "wikilink")
+  - [MobileMe](../Page/MobileMe.md "wikilink")（原
+    [.Mac](../Page/.Mac.md "wikilink")）
+  - [MySpace](../Page/MySpace.md "wikilink")
+  - [Novell GroupWise](../Page/Novell_GroupWise.md "wikilink")
+  - [腾讯QQ](../Page/腾讯QQ.md "wikilink")
+    ([需插件](https://archive.is/20121217133721/https://github.com/worr/AdiumQQ/)
+    [1](http://adiumxtras.com/index.php?a=xtras&xtra_id=8226))
+  - [SIP](../Page/會話發起協議.md "wikilink")／[SIMPLE](../Page/SIMPLE.md "wikilink")
+  - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
+  - [Yahoo\! Japan](../Page/雅虎日本.md "wikilink")
+  - [Zephyr](../Page/Zephyr_協定.md "wikilink")
+
+## 插件與自定性
+
+Adium支援[插件使用](../Page/插件.md "wikilink")，大部分的功能都可正確地使用插件來改變。其中甚至有插件支持在對話頁輸入[LaTeX數學公式](../Page/LaTeX.md "wikilink")。其他功能如檔案傳輸，也支持[Growl的提示系統](../Page/Growl.md "wikilink")，也有如加密訊息的[OTR](../Page/OTR.md "wikilink")。Adium
+0.88是首次支持[通用二進位的版本](../Page/通用二進位.md "wikilink")，使[Intel核心的Mac得以執行](../Page/Intel.md "wikilink")。
+
+Adium因其的Xtras開發而有高自定性。它可藉由數以百計的Xtras來自定如[表情符號](../Page/表情符號.md "wikilink")、[Dock圖示](../Page/Dock.md "wikilink")、聯絡人列表與訊息風格。Adium也可使用不同的鈴聲。[AppleScript也可自動被運用在這些程序的處理](../Page/AppleScript.md "wikilink")。
+
+Adium也有個另外獨立計畫，叫做"Metal Adium"。\[2\]
+此版本使用[iLife的](../Page/iLife.md "wikilink")「明亮金屬」主題而非使用預設的Aqua，由Michael
+Barca與Andrew Nesbitt支持。
+
+## M群問題
+
+曾经有大量[Mac OS
+X平台上的中文使用者指出](../Page/Mac_OS_X.md "wikilink")，在Adium中登入[Windows
+Live
+Messenger並使用](../Page/Windows_Live_Messenger.md "wikilink")[IMGroups或](../Page/IMGroups.md "wikilink")[M群時](../Page/M群.md "wikilink")，不能正確顯示群內各使用者的名稱。\[3\]
+其後，有一些中國程式員寫出修改版的Adium，以便使用者在Adium上使用[M群](../Page/M群.md "wikilink")。\[4\]
+再之后，[IMGroups和](../Page/IMGroups.md "wikilink")[M群官方修正了这个问题](../Page/M群.md "wikilink")。
+
+## 參見
+
+  - [即時通訊軟體比較](../Page/即時通訊軟體比較.md "wikilink")
+  - [XMPP](../Page/XMPP.md "wikilink")
+
+## 來源
+
+## 外部連結
+
+  - [Adium](http://www.adium.im/) — 官方網站
+  - [Adium Xtras](http://www.adiumxtras.com/) —
+    "Xtras"可以讓人自定界面如Dock的圖示與聯絡人界面。
+  - [Adium Forums](http://forum.adium.im/) — 官方Adium論壇
+  - [Portable Adium](http://www.freesmug.org/portableapps/adium/) —
+    包裝成[可攜式軟體](../Page/可攜式軟體.md "wikilink")。
+  - [Evan Schoenberg of
+    Adium](https://web.archive.org/web/20061222141852/http://www.drunkenblog.com/drunkenblog-archives/000306.html)，*DrunkenBlog*,
+    2004年7月15日
+  - [Chris
+    Forsythe所作的Adium與Growl的簡介](http://www.osnews.com/story.php?news_id=15442)，*OSNews*,
+    2006年8月9日
+  - [Chris
+    Forsythe談論Adium](https://web.archive.org/web/20101102124702/http://www.cocoaradio.com/2006/05/chris_forsythe_.html)，*CocoaRadio*,
+    2006年5月23日
+
+[Category:自由的即時通訊軟件](https://zh.wikipedia.org/wiki/Category:自由的即時通訊軟件 "wikilink")
+[Category:苹果设计奖获奖作品](https://zh.wikipedia.org/wiki/Category:苹果设计奖获奖作品 "wikilink")
+[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
+
+1.
+2.
+3.
+4.

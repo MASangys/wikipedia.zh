@@ -1,0 +1,117 @@
+**App
+Store**，是[蘋果公司為其](../Page/蘋果公司.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")、[iPod
+Touch以及](../Page/iPod_Touch.md "wikilink")[iPad等產品建立和維護的數位化](../Page/iPad.md "wikilink")[流動應用程式發行平台](../Page/流動應用程式.md "wikilink")，允許使用者從[iTunes
+Store瀏覽和下載一些由](../Page/iTunes_Store.md "wikilink")[iOS
+SDK或者Mac](../Page/iOS_SDK.md "wikilink")
+SDK開發的應用程式。根據應用程式發行的不同情況，使用者可以付費或者免費下載。應用程式可以直接下載到[iOS裝置](../Page/iOS.md "wikilink")，至[iTunes版本](../Page/iTunes.md "wikilink")12.7以前也可以透過[macOS或者](../Page/macOS.md "wikilink")[Windows平台下的iTunes下載到電腦中再同步至iOS裝置](../Page/Windows.md "wikilink")。其中包含遊戲、日程管理、詞典、圖庫及許多實用的軟體。透過[蘋果公司全球軟體開發者年會](../Page/蘋果公司全球軟體開發者年會.md "wikilink")2012发布的iOS
+6第一次改变了商店的用户界面及购物体验，更新程序不需要密码，购买程序无须回到主畫面，新下载的應用程式皆附有“New”标签（iOS
+7开始改为蓝色圆点）。2017年发布iOS11时苹果第二次改变了商店的用户界面。 [替代=由资和信发行的中国 App
+Store
+充值卡](https://zh.wikipedia.org/wiki/File:App_Store_Gift_Card_by_Zihexin.jpg "fig:替代=由资和信发行的中国 App Store 充值卡")
+和iTunes Store一樣，蘋果公司透過應用程式的銷售分成從App
+Store中獲利。蘋果及合作伙伴獲得所有第三方開發者發行的應用程式銷售收入的30%，開發者得到餘下的70%\[1\]。
+
+## 歷史
+
+2008年7月11日，預裝了iOS 2.0.1的[iPhone
+3G發行](../Page/iPhone_3G.md "wikilink")，面向iPhone和iPod
+Touch的新[固件首次支持了App](../Page/固件.md "wikilink")
+Store\[2\]。截止2012年，App
+Store上至少有620,000個第三方應用程式可供下載\[3\]。2011年5月，蘋果公司審批了它的第500,000個應用程式。這些應用程式中有37%是免費的，平均價格約在3.64美元\[4\]。2011年1月22日，蘋果宣布App
+Store迎來了它的第100億次下載\[5\]。WWDC2012中，库克宣布已有155个国家加入服务，应用程序数量达到650,000个，下载次数达到30,000,000,000次，向开发者支付$5,000,000,000。
+
+## 名稱
+
+**App Store**從iPhone、iPod
+touch到[iPad的應用程序商店都是相同的名稱](../Page/iPad.md "wikilink")。**App**是應用程序英文“Application”的簡稱。隨著蘋果公司App
+Store成功的經營和其他公司跟隨推出自己的應用程式商店，“App”和“應用（程式）”逐漸成為了一個流行語。蘋果公司曾試圖將App
+Store註冊為[商標](../Page/商標.md "wikilink")，以防其他公司使用\[6\]\[7\]，然而其要求禁止[亞馬遜公司繼續使用](../Page/亞馬遜公司.md "wikilink")**Appstore**名稱的[訴訟卻被](../Page/訴訟.md "wikilink")[法官駁回](../Page/法官.md "wikilink")\[8\]\[9\]\[10\]\[11\]。
+
+## 审核、越狱及非法程序
+
+所有在App
+Store供应的應用程式在成功發布之前必須通過蘋果公司的审核，以確保符合[SDK中的條款](../Page/SDK.md "wikilink")。亦有相當數量的應用程式，如[維基解密應用程式](../Page/維基解密.md "wikilink")，在發布後由於被認定為違反條款而被迫下架。在未[越狱的状态中](../Page/jailbreak.md "wikilink")，[iOS以往设备只能从App](../Page/iOS.md "wikilink")
+Store中獲取应用程序，而現在一些電腦上的軟件已經能透過自動共享[Apple
+ID的方式來達至免越獄安裝非法应用程序](../Page/Apple_ID.md "wikilink")，這導致了用户更容易地安裝得到一些不合法版本的应用程序，其不合法版本定義是指程序雖然已經通過了審查，但是所下載得來的程序是未經付款授權。另一方面越獄的主要功能是為了繞開蘋果公司App
+Store嚴格的審查制度和對應用程式功能的種種限制。在越獄\]\]過後用户能夠進行一些系統上更高權限的操作，安裝被限制以外的应用程序，由於缺乏了蘋果的審查，這些应用程序不是都能保证安全无害的，同時有些應用程式更會導致出現白蘋果及資料遺失等高風險問題出現，越獄也常被濫用。
+
+## 里程碑
+
+| 日期                    | 應用程式數目     | 累計下載           |
+| --------------------- | ---------- | -------------- |
+| 2008年7月11日\[12\]      | 500        | 0              |
+| 2008年7月14日            | 800        | 10,000,000     |
+| 2008年9月9日\[13\]       | 3,000      | 100,000,000    |
+| 2008年10月22日\[14\]     | 7,500      | 200,000,000    |
+| 2008年12月5日            | 10,000     | 300,000,000    |
+| 2009年1月16日            | 15,000     | 500,000,000    |
+| 2009年3月17日            | 25,000     | 800,000,000    |
+| 2009年4月23日\[15\]      | 35,000     | 1,000,000,000  |
+| 2009年6月8日\[16\]       | 50,000     | 1,000,000,000+ |
+| 2009年7月11日            | 55,000     | 1,000,000,000+ |
+| 2009年7月14日\[17\]      | 65,000     | 1,500,000,000  |
+| 2009年9月9日             | 75,000     | 1,800,000,000  |
+| 2009年9月29日            | 85,000     | 2,000,000,000+ |
+| 2009年11月4日            | 100,000    | 2,000,000,000+ |
+| 2010年1月5日\[18\]\[19\] | 100,000+   | 3,000,000,000+ |
+| 2010年1月27日\[20\]      | 140,000+   | 3,000,000,000+ |
+| 2011年1月22日            | 350,000+   | 10,000,000,000 |
+| 2011年6月6日             | 425,000+   | 15,000,000,000 |
+| 2012年3月7日             | 585,000+   | 25,000,000,000 |
+| 2012年6月12日            | 650,000+   | 30,000,000,000 |
+| 2013年6月10日            | 900,000+   | 50,000,000,000 |
+| 2014年3月18日\[21\]      | 1,000,000+ | 65,000,000,000 |
+
+參考資料：
+
+  - 《App Store中国式变局》
+  - 《在线应用商店系列战略专题报告2009—苹果App Store》
+  - 《在线应用商店系列战略专题报告2009—中国电信运营商应用商店》
+  - 《中国手机应用市场用户调研报告2009》
+  - 《中国3G市场用户调研报告2009》
+  - WWDC 2013 keynote
+
+### iPad应用程式
+
+在[iPad发布后](../Page/iPad.md "wikilink")，共推出了专为iPad设计的应用程序3000个，目前有475,000个专为iPad设计的应用程序（截至2013年10月22日）。
+
+## 參見
+
+  - [行動軟體發行平台列表](../Page/行動軟體發行平台列表.md "wikilink")
+
+## 參考文獻
+
+[sv:Itunes Store\#App
+Store](../Page/sv:Itunes_Store#App_Store.md "wikilink")
+
+[Category:蘋果公司服務](https://zh.wikipedia.org/wiki/Category:蘋果公司服務 "wikilink")
+[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
+[Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink")
+[Category:移动软件分发平台](https://zh.wikipedia.org/wiki/Category:移动软件分发平台 "wikilink")
+[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
+
+1.  ["Analyst: There’s a great future in iPhone
+    apps"](http://venturebeat.com/2008/06/11/analyst-thees-a-great-future-in-iphone-apps/),
+    Venture Beat, June 11, 2008.
+2.
+3.
+4.
+5.  [10:26 AM GMT on Saturday,
+    January 22, 2011](http://www.setteb.it/?p=10452) setteB.IT
+    2011-01-22.
+6.
+7.
+8.
+9.  <http://www.businessweek.com/news/2011-06-22/apple-bid-to-bar-amazon-appstore-will-likely-be-denied.html>
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19. <http://www.apple.com/pr/library/2010/01/05appstore.html>
+20.
+21.

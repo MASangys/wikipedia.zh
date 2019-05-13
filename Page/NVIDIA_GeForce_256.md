@@ -1,0 +1,74 @@
+**GeForce
+256**（核心代號**NV10**）是由NVIDIA研發的第五代[顯示核心](../Page/顯示核心.md "wikilink")。此核心常簡稱為**GeForce**，这亦是[NVIDIA第一个以](../Page/NVIDIA.md "wikilink")"[GeForce](../Page/GeForce.md "wikilink")"為名的顯示核心。NVIDIA於1999年8月發佈\[1\]。GeForce
+256與前代（[RIVA TNT2](../Page/RIVA_TNT2.md "wikilink")）相比增加了Pixel
+Shader流水線的數目，支援硬体[T\&L引擎](../Page/T&L.md "wikilink")，亦支援[MPEG-2硬体影象加速](../Page/MPEG-2.md "wikilink")。GeForce
+256憑著它的功能和速度，在各路廠商的競爭中取得了很好銷量，令NVIDIA的电腦图形工業霸主地位更堅固。NVIDIA的成功，使[3dfx](../Page/3dfx.md "wikilink")，[Matrox和](../Page/Matrox.md "wikilink")[S3
+Graphics都成了犧牲品](../Page/S3_Graphics.md "wikilink")。就在GeForce
+256發佈後的幾个月，競爭对手S3亦發佈了 [Savage 2000 Diamond Viper
+II](../Page/S3_Savage#Savage_2000.md "wikilink")。此產品內建了硬体T\&L，價格比GeForce
+256便宜。但是，有缺陷的驅动使T\&L不能正常運作，而S3亦不打算对此修正。一年後，只有[ATi的](../Page/ATi.md "wikilink")[Radeon顯卡能有實力孤軍作戰](../Page/Radeon.md "wikilink")。
+
+NVIDIA在產品宣傳中，稱GeForce
+256為世界上第一个[GPU](../Page/GPU.md "wikilink")，這是NVIDIA首創的詞匯，GPU即是Graphics
+Processing Unit的縮寫。
+
+後期NVIDIA亦以GeForce
+256為基礎，首次為專業工作站生產[Quadro](../Page/Quadro.md "wikilink")。Quadro拥有一些平民GeForce沒有的特別功能。由於採用相同顯示核心，很多人發現GeForce
+256經過修改也能很好的处理工作站應用，價格亦比Quadro便宜。緃使GeForce
+256是一張昂貴的遊戲卡，但比專業卡便宜得多，被譽為"平民專業卡"。
+
+## 產品特色
+
+[Canopus_GeForce_256_DDR.png](https://zh.wikipedia.org/wiki/File:Canopus_GeForce_256_DDR.png "fig:Canopus_GeForce_256_DDR.png")
+[KL_NVIDIA_Geforce_256.jpg](https://zh.wikipedia.org/wiki/File:KL_NVIDIA_Geforce_256.jpg "fig:KL_NVIDIA_Geforce_256.jpg")
+NVIDIA率先將硬体[T\&L整合到顯核中](../Page/T&L.md "wikilink")。T\&L原先由[CPU負責](../Page/CPU.md "wikilink")，或者由另一个獨立處理機處理（例如一些舊式工作站顯示卡）。較強勁的[3dfx
+Voodoo2](../Page/3dfx.md "wikilink") 和 [Rendition
+Verite顯示核心已整合](../Page/Rendition_\(company\).md "wikilink")*幾何（三角形）建構*，但硬体T\&L仍是一大進步，原因是顯示核心從CPU接管了大量工作。
+
+它的渲染性能比當时的高端顯卡，例如[RIVA TNT2](../Page/RIVA_TNT2.md "wikilink")，ATI [Rage
+128](../Page/Rage_128.md "wikilink")，[3dfx](../Page/3dfx.md "wikilink")
+Voodoo 3，和[Matrox Millennium G400
+MAX強得多了](../Page/Matrox_G400.md "wikilink")。但在1999年很少应用支援T\&L，硬体T\&L根本沒有價值。硬体T\&L只是有益於一些立体第一人稱射擊遊戲，*[Quake
+III Arena](../Page/Quake_III.md "wikilink")* 和 *[Unreal
+Tournament](../Page/Unreal_Tournament.md "wikilink")*。3Dfx和其他競爭者認為一个快速CPU可以解決T\&L的問題，而並不需要顯卡硬体支援。當时GeForce
+256已經相當昂貴，而在一些非遊戲应用上，效能則相當差，真是名副其實遊戲玩家的顯卡。其後的[GeForce
+2充分顯示出硬体T](../Page/GeForce_2.md "wikilink")\&L的重要性。[GeForce
+2](../Page/GeForce_2.md "wikilink") MX 比GeForce256相約，而價錢則是後者的一半而已。
+
+GeForce
+256顯示核心採用0.22微米製程製造，是256-bit顯示架構，擁有4條像素流水線。每一條有4个像素單元，1个材質單元。三角形生成率是每秒1500萬個，像素生成率則是每秒4亿8000萬個。它擁有2300万个晶体管，數量已超过了[PentiumIII](../Page/PentiumIII.md "wikilink")，本应采用[0.18微米製程去解決熱量問題](../Page/0.18微米製程.md "wikilink")，但為了加速上市，唯有採用舊的工藝。但憑著四條像素流水线，效能依然強勁。GeForce
+256一般配置為32MB[SDRAM](../Page/SDRAM.md "wikilink")（中高端）或[DDR
+SDRAM](../Page/DDR_SDRAM.md "wikilink")（高端）。由於DDR頻寬是SDRAM的兩倍，所以能提供較佳效能，尤其在高解像度的情況下。某些廠商曾推出64MB版本，但非常罕見。
+
+從"NV1x"架構可看出，GeForce 256的記憶體頻寬是相當不足的，尤其是SDR
+SDRAM版本。還有，它沒有記憶體頻寬節省技術（參考ATi的[HyperZ](../Page/HyperZ.md "wikilink")）。GeForce
+256的記憶體頻寬可謂史上最少，令它達不到应有的性能。縱使[GeForce4](../Page/GeForce4.md "wikilink")
+MX（NV17）仍是"NV1x"家族產品，但架構成熟。結果輕量級的GeForce4 MX 440徹底打敗GeForce2 Ultra。
+
+GeForce 256和[GeForce
+2都很長壽和普及](../Page/GeForce_2.md "wikilink")，原因是支援硬体T\&L。在1999年和2000年，它的競爭者包括ATI
+[Rage 128](../Page/Rage_128.md "wikilink")，[Voodoo
+3](../Page/3Dfx.md "wikilink")，[Matrox
+G400和](../Page/Matrox.md "wikilink")[STM PowerVR3
+Kyro](../Page/PowerVR.md "wikilink")。由於它們缺乏对T\&L的支援，產品生命周期並不長。
+未來發表的[GeForce 2與](../Page/GeForce_2.md "wikilink")[GeForce
+4](../Page/GeForce_4.md "wikilink") MX都是以GeForce
+256為基礎的改進產品，支援[DirectX](../Page/DirectX.md "wikilink")
+7，亦被2004年的主流[遊戲支援](../Page/遊戲.md "wikilink")。
+
+## 相關條目
+
+  - [產品規格列表](../Page/NVIDIA顯示核心列表#GeForce_256.md "wikilink")
+  - [Quadro](../Page/Quadro.md "wikilink")
+
+## 參考鏈接
+
+## 外部連結
+
+  - [NVIDIA: GeForce 256 - The World's First
+    GPU](http://www.nvidia.com/page/geforce256.html)
+
+[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+
+1.  [NVIDIA Launches the World's First Graphics Processing Unit:
+    GeForce 256](http://www.nvidia.com/object/IO_20020111_5424.html)
