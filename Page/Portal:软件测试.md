@@ -1,0 +1,66 @@
+<div style="clear:both; width:100%">
+
+{{/box-header|<big>主题</big>|/Intro|}} {{/Intro}} {{/box-footer|}}
+
+<div style="text-align:center; margin:0.25em auto 0.75em">
+
+</div>
+
+<div style="width:53%;display:block;float:left;">
+
+{{/box-header|精选条目|/Selected article|}} {{/Selected article}}
+{{/box-footer|}}
+
+{{/box-header|精选图片|/Selected picture|}} {{/Selected picture}}
+{{/box-footer|}}
+
+{{/box-header|精选传记|/Selected biography|}} {{/Selected biography}}
+{{/box-footer|}}
+
+{{/box-header|你知道吗？|/Did you know|}} {{/Did you know}} {{/box-footer|}}
+
+{{/box-header|名句|/Quotes|}} {{/Quotes}} {{/box-footer|}}
+
+</div>
+
+<div style="width:45%;display:block;float:right;">
+
+{{/box-header|新闻|/ news|}} {{/ news}} {{/box-footer|}}
+
+{{/box-header|分类|/Categories|}} {{/Categories}} {{/box-footer|}}
+
+{{/box-header|软件质量特性|/Software_quality_traits|}}
+{{/Software_quality_traits}} {{/box-footer|}}
+
+{{/box-header|相关主题|/Related portals|}} {{/Related portals}}
+{{/box-footer|}}
+
+{{/box-header|欢迎参与|/Things you can do|}} {{/Things you can do}}
+{{/box-footer|}}
+
+</div>
+
+<div style="clear:both; width:100%">
+
+{{/box-header|条目|/ topics|}} {{/ topics}} {{/box-footer|}}
+
+{{/box-header|维基媒体上的相关内容|Template:WikimediaForPortals|}}
+
+<center>
+
+</center>
+
+{{/box-footer|}}
+
+{{/box-header|参考||noedit=yes}}  {{/box-footer|}}
+
+</div>
+
+<center>
+
+</center>
+
+__NOTOC__ __NOEDITSECTION__
+
+[Category:软件测试](https://zh.wikipedia.org/wiki/Category:软件测试 "wikilink")
+[Category:Computing_portals‎](https://zh.wikipedia.org/wiki/Category:Computing_portals‎ "wikilink")

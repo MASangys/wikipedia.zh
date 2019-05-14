@@ -1,0 +1,49 @@
+<div style="border:1px solid #ccb; padding:0.5em; font-size:90%; background-color:#fff;">
+
+<div style="float:right;" class="noprint plainlinks">
+
+[action=edit}}
+编辑](https://zh.wikipedia.org/wiki/{{fullurl:Portal:史克威尔艾尼克斯/简介 "wikilink")
+
+</div>
+
+<div style="float:left; margin:20px; margin-top:5px">
+
+[Wikiproject_Square_Enix.svg](https://zh.wikipedia.org/wiki/File:Wikiproject_Square_Enix.svg "fig:Wikiproject_Square_Enix.svg")
+
+</div>
+
+<div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">
+
+史克威尔艾尼克斯主题
+
+</div>
+
+<div style="font-size:100%; padding:5px">
+
+{{/简介}}
+
+</div>
+
+</div>
+
+
+
+<div style="width:53%;display:block;float:left;">
+
+</div>
+
+<div style="width:45%;display:block;float:right;">
+
+</div>
+
+<div style="width:100%;display:block;float:right;">
+
+</div>
+
+<div style="width:100%;display:block;float:right;">
+
+</div>
+
+[Category:电子游戏主题首页](https://zh.wikipedia.org/wiki/Category:电子游戏主题首页 "wikilink")
+[Category:史克威尔艾尼克斯工作组](https://zh.wikipedia.org/wiki/Category:史克威尔艾尼克斯工作组 "wikilink")

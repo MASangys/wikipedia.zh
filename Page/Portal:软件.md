@@ -1,0 +1,72 @@
+<small></small>
+
+<div style="float:left; width:100%">
+
+{{/box-header|<big>主题</big>|/Intro|}}
+{{/Intro|更多关于[软件](../Page/软件.md "wikilink")...}}
+{{/box-footer|}}
+
+<div style="text-align:center; margin:0.25em auto 0.75em">
+
+</div>
+
+<div style="width:60%;display:block;float:left;">
+
+{{/box-header|相关主题|/Related portals|}} {{/Related portals}}
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|新闻|/ news|}} {{/ news}}
+{{/box-footer|[更多软件新闻在](https://zh.wikipedia.org/wiki/wikinews:Category:Software "wikilink")[Wikinews](http://www.wikinews.org)}}
+
+{{/box-header|分类|/Categories|}} {{/Categories}} {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|* topics*|/ topics|}} {{/ topics}} {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|你能做什么|/Things you can do|}} {{/Things you can do}}
+{{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|相关专题|/WikiProjects|}} {{/WikiProjects}} {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|相关的维基媒体|Template:WikimediaForPortals|noedit=yes}}
+
+<center>
+
+</center>
+
+{{/box-footer|}}
+
+{{/box-header|参考来源|noedit=yes}}  {{/box-footer|}}
+
+<center>
+
+</center>
+
+</div>
+
+__NOTOC__ __NOEDITSECTION__
+
+[he:תוכנה](https://zh.wikipedia.org/wiki/he:תוכנה "wikilink")
+
+[Category:{{PAGENAME}}](https://zh.wikipedia.org/wiki/Category:{{PAGENAME}} "wikilink")
+[Category:Computing_portals](https://zh.wikipedia.org/wiki/Category:Computing_portals "wikilink")
+[Category:软件主题](https://zh.wikipedia.org/wiki/Category:软件主题 "wikilink")

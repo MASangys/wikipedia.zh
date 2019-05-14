@@ -1,0 +1,75 @@
+**夏倫·馬提斯**（****，）出生於[荷屬庫拉索島的](../Page/库拉索.md "wikilink")[威廉斯塔德](../Page/威廉斯塔德.md "wikilink")，前[美國職棒大聯盟投手](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，前[統一7-ELEVEn獅的投手](https://zh.wikipedia.org/wiki/統一7-ELEVEn獅 "wikilink")。
+
+## 經歷
+
+  - [美國職棒](../Page/美國職業棒球大聯盟.md "wikilink")[舊金山巨人隊](../Page/舊金山巨人.md "wikilink")（小聯盟，2005年～2006年）
+
+<!-- end list -->
+
+  - 美國職棒[華盛頓國民隊](../Page/華盛頓國民.md "wikilink")（小聯盟～大聯盟，2006年～2011年）
+  - 委內瑞拉聯盟Navegantes del Magallanes（2010年11月～12月）
+  - 委內瑞拉聯盟Tiburones de La Guaira（2011年10月～12月）
+  - 美國職棒[匹茲堡海盜隊](../Page/匹茲堡海盜.md "wikilink")（小聯盟，2012年）
+  - 美國職棒[明尼蘇達雙城隊](../Page/明尼苏达双城.md "wikilink")（小聯盟～大聯盟，2012年～2013年）
+  - 委內瑞拉聯盟Tiburones de La Guaira（2012年11月～12月．2013年12月）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一7-ELEVEn獅隊](../Page/統一獅.md "wikilink")（2014年）
+  - 美國職棒獨立聯盟Bridgeport Bluefish（2015年5月）
+  - 美國職棒獨立聯盟Lincoln Saltdogs（2015年6月～2016年）
+  - 委內瑞拉聯盟Aguilas del Zulia（2016年10月～12月）
+  - 美國職棒[巴爾的摩金鶯隊](../Page/巴尔的摩金莺.md "wikilink")（小聯盟，2017年）
+  - 美國職棒獨立聯盟Lincoln Saltdogs（2017年7月～）
+  - 委內瑞拉聯盟Aguilas del Zulia（2017年11月）
+
+## 特殊事蹟
+
+  - 2006年在[第一屆世界棒球經典賽先發對](../Page/2006年世界棒球經典賽.md "wikilink")[巴拿馬](../Page/巴拿馬棒球代表隊.md "wikilink")，完投七局投球僅一次四壞保送達成無安打比賽，該場比賽[荷蘭也以](../Page/荷蘭棒球代表隊.md "wikilink")10:0提前結束比賽。
+  - 2008年9月23日對戰[佛羅里達馬林魚獲得登上](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")[大聯盟後的首勝](https://zh.wikipedia.org/wiki/大聯盟 "wikilink")。\[1\]
+
+<!-- end list -->
+
+  - 2014年3月27日初登板對戰[Lamigo桃猿獲得](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[中職首勝](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")。\[2\]
+
+## 職棒生涯成績
+
+### [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")
+
+| 年度   | 球隊                                                        | 勝場 | 敗場 | 防禦率  | 場次 | 先發 | 完投 | 完封 | 中繼 | 救援 | 局數    | 被安打 | 被全壘打 | 四壞 | 三振 | WHIP |
+| ---- | --------------------------------------------------------- | -- | -- | ---- | -- | -- | -- | -- | -- | -- | ----- | --- | ---- | -- | -- | ---- |
+| 2008 | [華盛頓國民](../Page/華盛頓國民.md "wikilink")                      | 1  | 3  | 5.66 | 5  | 4  | 0  | 0  | 0  | 0  | 20.2  | 18  | 5    | 12 | 23 | 1.45 |
+| 2009 | [華盛頓國民](../Page/華盛頓國民.md "wikilink")                      | 5  | 3  | 5.25 | 15 | 15 | 1  | 0  | 0  | 0  | 85.2  | 83  | 11   | 39 | 34 | 1.42 |
+| 2013 | [明尼蘇達雙城](https://zh.wikipedia.org/wiki/明尼蘇達雙城 "wikilink") | 0  | 1  | 5.59 | 6  | 0  | 0  | 0  | 0  | 0  | 9.2   | 6   | 3    | 4  | 7  | 1.03 |
+| 合計   | 3年                                                        | 6  | 7  | 5.35 | 26 | 19 | 1  | 0  | 0  | 0  | 116.0 | 107 | 19   | 55 | 64 | 1.40 |
+
+### [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")
+
+| 年度    | 球隊                                                                  | 出賽 | 先發 | 勝投 | 敗投 | 中繼 | 救援 | 完投 | 完封 | 四死 | 三振 | 責失 | 投球局數  | 防禦率  |
+| ----- | ------------------------------------------------------------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | ----- | ---- |
+| 2014年 | [統一7-ELEVEn獅](https://zh.wikipedia.org/wiki/統一7-ELEVEn獅 "wikilink") | 28 | 23 | 8  | 7  | 2  | 0  | 0  | 0  | 44 | 67 | 53 | 151.2 | 3.15 |
+| 合計    | 1年                                                                  | 28 | 23 | 8  | 7  | 2  | 0  | 0  | 0  | 44 | 67 | 53 | 151.2 | 3.15 |
+
+## 注釋
+
+## 參考資料
+
+  - [統一獅新洋投　陽岱鋼轟過他全壘打](http://www.appledaily.com.tw/realtimenews/article/new/20140308/356968/)
+  - [獅新洋投馬帝斯
+    周三登板](http://www.appledaily.com.tw/appledaily/article/sports/20140309/35688922/)
+  - [【4/2獅象 戰前快報】獅象對決 馬帝斯 VS.
+    鄭凱文](https://web.archive.org/web/20140407100533/http://m.match.net.tw/pc/news/2323168)
+
+## 外部連結
+
+[Category:荷蘭棒球選手](https://zh.wikipedia.org/wiki/Category:荷蘭棒球選手 "wikilink")
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:舊金山巨人隊球員](https://zh.wikipedia.org/wiki/Category:舊金山巨人隊球員 "wikilink")
+[Category:匹茲堡海盜隊球員](https://zh.wikipedia.org/wiki/Category:匹茲堡海盜隊球員 "wikilink")
+[Category:華盛頓國民隊球員](https://zh.wikipedia.org/wiki/Category:華盛頓國民隊球員 "wikilink")
+[Category:明尼蘇達雙城隊球員](https://zh.wikipedia.org/wiki/Category:明尼蘇達雙城隊球員 "wikilink")
+[Category:統一獅隊球員](https://zh.wikipedia.org/wiki/Category:統一獅隊球員 "wikilink")
+[Category:2006年世界棒球經典賽選手](https://zh.wikipedia.org/wiki/Category:2006年世界棒球經典賽選手 "wikilink")
+[Category:2013年世界棒球經典賽選手](https://zh.wikipedia.org/wiki/Category:2013年世界棒球經典賽選手 "wikilink")
+[Category:2017年世界棒球經典賽選手](https://zh.wikipedia.org/wiki/Category:2017年世界棒球經典賽選手 "wikilink")
+[Category:荷蘭人](https://zh.wikipedia.org/wiki/Category:荷蘭人 "wikilink")
+
+1.
+2.  [中職》郭泓志拿下中職生涯首場救援成功](http://m.ltn.com.tw/news/sports/breakingnews/976973)，[自由時報](../Page/自由時報.md "wikilink")，2014年3月27日
