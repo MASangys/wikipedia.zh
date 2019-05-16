@@ -1,12 +1,12 @@
 **GUNDAM前哨戰**（ガンダム・センチネル、-{GUNDAM}-
-SENTINEL），是一部以[情境模型為插圖的](../Page/模型#情境模型.md "wikilink")[GUNDAM系列小說作品](../Page/GUNDAM系列作品.md "wikilink")。於1989年在大日本繪畫出版社所發行的月刊模型雜誌“Model
+SENTINEL），是一部以[情境模型為插圖的](https://zh.wikipedia.org/wiki/模型#情境模型 "wikilink")[GUNDAM系列小說作品](../Page/GUNDAM系列作品.md "wikilink")。於1989年在大日本繪畫出版社所發行的月刊模型雜誌“Model
 Graphix”上連載，1990年以連載版故事為基礎，出版單行本小說「**-{GUNDAM}- SENTINEL: ALICE的懺悔**」
 
 ## 故事概要
 
 \[1\] [U.C.](../Page/宇宙世紀.md "wikilink")0088.1.25（[機動戰士Z
-GUNDAM故事末期](../Page/機動戰士Z_GUNDAM.md "wikilink")），一部份認同[迪坦斯思想的](../Page/迪坦斯.md "wikilink")[地球聯邦軍教導團](../Page/地球聯邦軍.md "wikilink")（專門訓練教官的部隊）官兵於小行星基地[培曾組成](../Page/宇宙殖民地_\(GUNDAM世界\)#培曾基地.md "wikilink")「新迪賽斯（New
-Decides）」組織，並發表宣言，對[A.E.U.G.抗戰到底](../Page/A.E.U.G..md "wikilink")。為了討伐新迪賽斯，聯邦軍臨時組織了「α任務部隊」開往培曾基地。本故事描寫了雙方的戰鬥以及[新吉翁軍的介入](../Page/新吉翁.md "wikilink")，以及S-GUNDAM的[人工智能](../Page/人工智能.md "wikilink")[作業系統ALICE](../Page/作業系統.md "wikilink")（***A**dvanced
+GUNDAM故事末期](../Page/機動戰士Z_GUNDAM.md "wikilink")），一部份認同[迪坦斯思想的](https://zh.wikipedia.org/wiki/迪坦斯 "wikilink")[地球聯邦軍教導團](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")（專門訓練教官的部隊）官兵於小行星基地[培曾組成](https://zh.wikipedia.org/wiki/宇宙殖民地_\(GUNDAM世界\)#培曾基地 "wikilink")「新迪賽斯（New
+Decides）」組織，並發表宣言，對[A.E.U.G.抗戰到底](https://zh.wikipedia.org/wiki/A.E.U.G. "wikilink")。為了討伐新迪賽斯，聯邦軍臨時組織了「α任務部隊」開往培曾基地。本故事描寫了雙方的戰鬥以及[新吉翁軍的介入](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")，以及S-GUNDAM的[人工智能](../Page/人工智能.md "wikilink")[作業系統ALICE](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（***A**dvanced
 **L**ogistic & **I**nconsequence **C**ognizing
 **E**quipment*，中文為「發展型邏輯／非邏輯辨識裝置」\[2\]）與主角「獠·魯茲」互動成長的情況。
 
@@ -158,12 +158,12 @@ SENTINEL當中登場機體的模型。
 
 ## 其他
 
-小說作者高橋昌也曾提及「新迪賽斯」的理念與立場的原始靈感來自於日本德川幕府末年的[新選組](../Page/新選組.md "wikilink")，而這個精神被0083的故事所繼承並且表現在[迪拉茲艦隊成員的人格特質上](../Page/迪拉茲艦隊.md "wikilink")。
+小說作者高橋昌也曾提及「新迪賽斯」的理念與立場的原始靈感來自於日本德川幕府末年的[新選組](../Page/新選組.md "wikilink")，而這個精神被0083的故事所繼承並且表現在[迪拉茲艦隊成員的人格特質上](https://zh.wikipedia.org/wiki/迪拉茲艦隊 "wikilink")。
 
 ## 參見
 
   - [宇宙世紀年表
-    (GUNDAM)\#迪坦斯瓦解，紐迪賽斯抗爭](../Page/宇宙世紀年表_\(GUNDAM\)#迪坦斯瓦解，紐迪賽斯抗爭.md "wikilink")
+    (GUNDAM)\#迪坦斯瓦解，紐迪賽斯抗爭](https://zh.wikipedia.org/wiki/宇宙世紀年表_\(GUNDAM\)#迪坦斯瓦解，紐迪賽斯抗爭 "wikilink")
 
 ## 參考
 

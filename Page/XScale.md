@@ -1,18 +1,18 @@
 [Toradex_Colibri_XScale_Monahans_PXA290.jpg](https://zh.wikipedia.org/wiki/File:Toradex_Colibri_XScale_Monahans_PXA290.jpg "fig:Toradex_Colibri_XScale_Monahans_PXA290.jpg")
 **Xscale**是[Marvell
-公司](../Page/迈威尔科技有限公司.md "wikilink")（之前是[Intel](../Page/Intel.md "wikilink")）針對[嵌入式產品的核心](../Page/嵌入式系統.md "wikilink")，當初是[ARM架構](../Page/ARM架構.md "wikilink")[v5TE指令集的](../Page/ARM_v5TE.md "wikilink")[CPU](../Page/CPU.md "wikilink")。2006年6月，Intel将其通信及应用处理器业务出售给Marvell公司，並作為一系列不同[微架構的處理器的品牌](../Page/微架構.md "wikilink")。
+公司](https://zh.wikipedia.org/wiki/迈威尔科技有限公司 "wikilink")（之前是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")）針對[嵌入式產品的核心](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，當初是[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[v5TE指令集的](https://zh.wikipedia.org/wiki/ARM_v5TE "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")。2006年6月，Intel将其通信及应用处理器业务出售给Marvell公司，並作為一系列不同[微架構的處理器的品牌](../Page/微架構.md "wikilink")。
 
 ## 簡介
 
-Intel的XScale[处理器主要用于](../Page/中央处理器.md "wikilink")[掌上电脑等便携设备](../Page/掌上电脑.md "wikilink")，它是Intel公司始于[ARM](../Page/ARM.md "wikilink")
-v5TE处理器发展的产品，前身為[StrongARM](../Page/StrongARM.md "wikilink")，在架构扩展的基础上同时也保留了对于以往产品的向下兼容，因此获得了广泛的应用。相比于標準ARM的ARM9/ARM11处理器，XScale功耗更低，系统伸缩性更好，同时核心频率也得到提高，达到了400Mhz甚至更高。这种处理器还支持高效通讯指令，可以和同样架构处理器之间达到高速传输。其中一个主要的扩展就是无线[MMX](../Page/MMX.md "wikilink")，这是一种64位的[SIMD指令集](../Page/SIMD.md "wikilink")，在新款的
+Intel的XScale[处理器主要用于](../Page/中央处理器.md "wikilink")[掌上电脑等便携设备](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")，它是Intel公司始于[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")
+v5TE处理器发展的产品，前身為[StrongARM](../Page/StrongARM.md "wikilink")，在架构扩展的基础上同时也保留了对于以往产品的向下兼容，因此获得了广泛的应用。相比于標準ARM的ARM9/ARM11处理器，XScale功耗更低，系统伸缩性更好，同时核心频率也得到提高，达到了400Mhz甚至更高。这种处理器还支持高效通讯指令，可以和同样架构处理器之间达到高速传输。其中一个主要的扩展就是无线[MMX](../Page/MMX.md "wikilink")，这是一种64位的[SIMD指令集](https://zh.wikipedia.org/wiki/SIMD "wikilink")，在新款的
 Xscale处理器中集成有SIMD协处理器。这些指令集可以有效的加快视频、3D图像、音频以及其他SIMD传统元素处理。但隨着ARMv7的推出，採用兩代前指令集的xScale開始顯得過時，故Marvell開始在xScale品牌內推出採用較新、ARM官方的Cortex微架構的產品。
 
 ## 系列
 
 ### 應用程式處理器(Application Processor)PXA系列
 
-  - [2006年7月](../Page/2006年7月.md "wikilink")，Intel宣布將PXA系列的處理器部門，包含PXA2XX及PXA9XX（代號：Hermon）賣給[Marvell公司](../Page/Marvell.md "wikilink")。
+  - [2006年7月](../Page/2006年7月.md "wikilink")，Intel宣布將PXA系列的處理器部門，包含PXA2XX及PXA9XX（代號：Hermon）賣給[Marvell公司](https://zh.wikipedia.org/wiki/Marvell "wikilink")。
 
 #### PXA210
 
@@ -35,12 +35,12 @@ Xscale处理器中集成有SIMD协处理器。这些指令集可以有效的加�
 #### PXA27X
 
 PXA27x 系列 (内部代号 Bulverde) 包括了 PXA270 和 PXA271-PXA272
-几款[处理器](../Page/处理器.md "wikilink")。这次升级是XScale系列处理器的一次巨大提升。PXA270
-有以下几种运行[频率](../Page/频率.md "wikilink")： 312 MHz, 416 MHz, 520 MHz
-。对于封装内没有内置内存的单独CPU版本，还可以运行在624 MHz的高频率。PXA271 可以运行在 312
-MHz 或 416 MHz，在同一个封装内还集成了32 MiB 的 16位 stacked StrataFlash 闪存和32 MiB 的
-16位 [SDRAM](../Page/SDRAM.md "wikilink") 内存。 PXA272可以运行在312 MHz, 416
-MHz 或 520 MHz，并内置 64 MiB 的 32位 stacked StrataFlash
+几款[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。这次升级是XScale系列处理器的一次巨大提升。PXA270
+有以下几种运行[频率](https://zh.wikipedia.org/wiki/频率 "wikilink")： 312 MHz, 416
+MHz, 520 MHz 。对于封装内没有内置内存的单独CPU版本，还可以运行在624 MHz的高频率。PXA271 可以运行在 312 MHz
+或 416 MHz，在同一个封装内还集成了32 MiB 的 16位 stacked StrataFlash 闪存和32 MiB 的 16位
+[SDRAM](../Page/SDRAM.md "wikilink") 内存。 PXA272可以运行在312 MHz, 416 MHz 或
+520 MHz，并内置 64 MiB 的 32位 stacked StrataFlash
 [闪存](../Page/闪存.md "wikilink")。
 
 Intel 还在 PXA27x 系列中加入了如下的新技术：
@@ -48,15 +48,17 @@ Intel 还在 PXA27x 系列中加入了如下的新技术：
   - 移动版 [SpeedStep](../Page/SpeedStep.md "wikilink")：
     操作系统可以根据运行需要调节CPU频率以节能。
   - 移动 [MMX](../Page/MMX.md "wikilink")： 43 条新的 SIMD 指令 包含了 完整的 MMX
-    [指令集](../Page/指令集.md "wikilink") 和一些SSE
-    指令集中的[整数指令](../Page/整数.md "wikilink")。 移动 MMX
-    提供了 16 条额外的 64位
+    [指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink") 和一些SSE
+    指令集中的[整数指令](../Page/整数.md "wikilink")。 移动 MMX 提供了 16 条额外的
+    64位
     [寄存器](../Page/寄存器.md "wikilink")，并可以被当成双重32位的来处理，像四个16位halfwords
     或八个 8位 字节。 这项能力可以加速芯片的编码和解码速度，提高多媒体和游戏的性能。
-  - 附加的外部设计： 例如[USB-Host界面和摄像头界面](../Page/USB-Host.md "wikilink")。
-  - 集成 256KB [SRAM](../Page/SRAM.md "wikilink") 缓存，降低功耗和延迟。
+  - 附加的外部设计：
+    例如[USB-Host界面和摄像头界面](https://zh.wikipedia.org/wiki/USB-Host "wikilink")。
+  - 集成 256KB [SRAM](https://zh.wikipedia.org/wiki/SRAM "wikilink")
+    缓存，降低功耗和延迟。
 
-PXA27x系列于2004年4月发布。此外Intel还发布了[2700G嵌入式图形](../Page/2700.md "wikilink")[协处理器](../Page/协处理器.md "wikilink")
+PXA27x系列于2004年4月发布。此外Intel还发布了[2700G嵌入式图形](https://zh.wikipedia.org/wiki/2700 "wikilink")[协处理器](https://zh.wikipedia.org/wiki/协处理器 "wikilink")
 。
 
   - PXA27X官方網址
@@ -76,7 +78,7 @@ PXA27x系列于2004年4月发布。此外Intel还发布了[2700G嵌入式图形]
 #### PXA16x
 
 [SOM168.jpg](https://zh.wikipedia.org/wiki/File:SOM168.jpg "fig:SOM168.jpg")
-pxa16x处理器具有强劲的运算能力，尤其适用于对于成本敏感的系统和嵌入式系统，比如[电子相框](../Page/电子相框.md "wikilink")、[电子阅读器](../Page/电子阅读器.md "wikilink")、[多功能打印机显示器](../Page/多功能打印机.md "wikilink")、[IP电话](../Page/IP电话.md "wikilink")，[网络相机以及家庭控制系统](../Page/Web_cam.md "wikilink")。
+pxa16x处理器具有强劲的运算能力，尤其适用于对于成本敏感的系统和嵌入式系统，比如[电子相框](https://zh.wikipedia.org/wiki/电子相框 "wikilink")、[电子阅读器](https://zh.wikipedia.org/wiki/电子阅读器 "wikilink")、[多功能打印机显示器](https://zh.wikipedia.org/wiki/多功能打印机 "wikilink")、[IP电话](https://zh.wikipedia.org/wiki/IP电话 "wikilink")，[网络相机以及家庭控制系统](https://zh.wikipedia.org/wiki/Web_cam "wikilink")。
 \[1\]
 
 #### PXA90x
@@ -99,13 +101,16 @@ Cortex-A8内核](../Page/ARM_Cortex-A8.md "wikilink")\[11\]，但是并不为大
 
 #### PXA986/PXA988
 
-其為雙核[Cortex A9處理器](../Page/Cortex_A9.md "wikilink")。\[14\]用於[Samsung
-Galaxy Tab 3 7.0等裝置](../Page/Samsung_Galaxy_Tab_3.md "wikilink")。\[15\]
+其為雙核[Cortex
+A9處理器](https://zh.wikipedia.org/wiki/Cortex_A9 "wikilink")。\[14\]用於[Samsung
+Galaxy Tab 3
+7.0等裝置](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_3 "wikilink")。\[15\]
 
 #### PXA1088
 
-這是個配撘了[Vivante](../Page/Vivante.md "wikilink") GPU的[Cortex
-A7四核心處理器](../Page/Cortex_A7.md "wikilink")\[16\]
+這是個配撘了[Vivante](https://zh.wikipedia.org/wiki/Vivante "wikilink")
+GPU的[Cortex
+A7四核心處理器](https://zh.wikipedia.org/wiki/Cortex_A7 "wikilink")\[16\]
 
 ### 控制平台處理器(Control Plane Processors) IXC系列
 
@@ -117,7 +122,7 @@ A7四核心處理器](../Page/Cortex_A7.md "wikilink")\[16\]
 
 ### 網路處理器(Network Processors) IXP系列
 
-IXP產品線主要用來設計網路設備以及工業控制用機器。主要應用有[IP电话](../Page/IP电话.md "wikilink")、網路交換機（switch）、無線網路產品（wireless
+IXP產品線主要用來設計網路設備以及工業控制用機器。主要應用有[IP电话](https://zh.wikipedia.org/wiki/IP电话 "wikilink")、網路交換機（switch）、無線網路產品（wireless
 AP）以及數位媒體播放器（Digital Media Player）。目前有下列產品：
 
   - IXP420, IXP421, IXP422, IXP423, IXP425
@@ -132,7 +137,7 @@ AP）以及數位媒體播放器（Digital Media Player）。目前有下列產�
 
 ### 其他系列
 
-  - 另外有兩種單獨設計的CPU:80200與80219，主要用途是一些需要[PCI介面的產品應用](../Page/PCI.md "wikilink")，多半用途為[NAS](../Page/NAS.md "wikilink")（網路儲存設備）。
+  - 另外有兩種單獨設計的CPU:80200與80219，主要用途是一些需要[PCI介面的產品應用](https://zh.wikipedia.org/wiki/PCI "wikilink")，多半用途為[NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")（網路儲存設備）。
 
 ## 参考资料
 

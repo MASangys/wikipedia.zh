@@ -1,4 +1,4 @@
-**X3D**是一种專為[萬維網而設計的三維圖像](../Page/萬維網.md "wikilink")[標記語言](../Page/標記語言.md "wikilink")。全称可扩展三维（语言），是由[Web3D联盟](http://www.web3d.org)设计的，是[VRML标准的最新的升级版本](../Page/VRML.md "wikilink")。
+**X3D**是一种專為[萬維網而設計的三維圖像](https://zh.wikipedia.org/wiki/萬維網 "wikilink")[標記語言](https://zh.wikipedia.org/wiki/標記語言 "wikilink")。全称可扩展三维（语言），是由[Web3D联盟](http://www.web3d.org)设计的，是[VRML标准的最新的升级版本](../Page/VRML.md "wikilink")。
 X3D基于XML格式開發，所以可以直接使用XML DOM文檔樹、XML
 Schema校驗等技術和相關的XML編輯工具。目前X3D已經是通過ISO認證的國際標準。
 
@@ -36,11 +36,12 @@ X3D
 ## 参见
 
   - [VRML](../Page/VRML.md "wikilink")
-  - [Quest3D](../Page/Quest3D.md "wikilink")
+  - [Quest3D](https://zh.wikipedia.org/wiki/Quest3D "wikilink")
   - Universal 3D
-  - [Unity3D](../Page/Unity3D.md "wikilink")
-  - [3D VIA Virtools](../Page/3D_VIA_Virtools.md "wikilink")
-  - [O3D](../Page/O3D.md "wikilink")
+  - [Unity3D](https://zh.wikipedia.org/wiki/Unity3D "wikilink")
+  - [3D VIA
+    Virtools](https://zh.wikipedia.org/wiki/3D_VIA_Virtools "wikilink")
+  - [O3D](https://zh.wikipedia.org/wiki/O3D "wikilink")
   - [WebGL](../Page/WebGL.md "wikilink")
   - [网络三维](../Page/网络三维.md "wikilink")
   - [虚拟现实](../Page/虚拟现实.md "wikilink")

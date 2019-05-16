@@ -1,19 +1,19 @@
-**GeForce**（中國大陸又稱**精视**），是由[英伟达公司開發的](../Page/英伟达.md "wikilink")[個人電腦的](../Page/個人電腦.md "wikilink")[圖形處理器的品牌](../Page/圖形處理器.md "wikilink")。第一款GeForce產品是為高邊際利潤（高端）遊戲社群和計算機用戶的市場設計開發的，但是後來的產品發佈擴展了產品線，覆蓋圖形市場的所有細分市場，從低端、中端到高端。到2013年為止，GeForce的設計已經包含16個世代。它现在的竞争對手是[AMD的](../Page/AMD.md "wikilink")[Radeon系列](../Page/Radeon.md "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")。NVIDIA亦擁有定位於專業圖形處理領域的[Quadro系列](../Page/Quadro.md "wikilink")，多數產品使用與GeForce相同的核心，GeForce的早期產品甚至可以藉由改刷[韌體的方式軟改為Quadro系列](../Page/韌體.md "wikilink")。
+**GeForce**（中國大陸又稱**精视**），是由[英伟达公司開發的](../Page/英伟达.md "wikilink")[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[圖形處理器的品牌](../Page/圖形處理器.md "wikilink")。第一款GeForce產品是為高邊際利潤（高端）遊戲社群和計算機用戶的市場設計開發的，但是後來的產品發佈擴展了產品線，覆蓋圖形市場的所有細分市場，從低端、中端到高端。到2013年為止，GeForce的設計已經包含16個世代。它现在的竞争對手是[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon系列](../Page/Radeon.md "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")。NVIDIA亦擁有定位於專業圖形處理領域的[Quadro系列](../Page/Quadro.md "wikilink")，多數產品使用與GeForce相同的核心，GeForce的早期產品甚至可以藉由改刷[韌體的方式軟改為Quadro系列](../Page/韌體.md "wikilink")。
 
 英伟达通常會為一個新的系列，研發一個旗艦級產品。然後將其的功能（如核心、記憶體）削減，成為中端或低端產品。
 
 ## 名称
 
 “GeForce”这个名字源于Nvidia在1999年初举办的名为“Name That Chip”的比赛。该公司呼吁公众为[RIVA
-TNT2系列显卡的继任者命名](../Page/RIVA_TNT2.md "wikilink")。在收到的超过12,000个参赛作品中，7名获奖者获得了RIVA
+TNT2系列显卡的继任者命名](https://zh.wikipedia.org/wiki/RIVA_TNT2 "wikilink")。在收到的超过12,000个参赛作品中，7名获奖者获得了RIVA
 TNT2 Ultra显卡作为奖励。\[1\] \[2\]
 
 ## 恶搞
 
 [NVIDIA GeForce
-500系列曾出现由于设计供电不足在超频时发生爆炸的现象](../Page/GeForce_500.md "wikilink")，\[3\]\[4\]\[5\]\[6\]因此被网友经常恶搞讽刺，甚至比喻为核弹，也引发了对[黃仁勳的恶搞](../Page/黃仁勳.md "wikilink")。
+500系列曾出现由于设计供电不足在超频时发生爆炸的现象](https://zh.wikipedia.org/wiki/GeForce_500 "wikilink")，\[3\]\[4\]\[5\]\[6\]因此被网友经常恶搞讽刺，甚至比喻为核弹，也引发了对[黃仁勳的恶搞](../Page/黃仁勳.md "wikilink")。
 
-2013年12月11日，[中国大陆甘肃卫视的](../Page/中国大陆.md "wikilink")《解密真相》节目中，主持人在介绍火箭推进榴弹时，一字不差地引用了[百度百科](../Page/百度百科.md "wikilink")“航母杀手”词条中网友对于[英伟达](../Page/英伟达.md "wikilink")[Geforce系列显卡](../Page/Geforce.md "wikilink")[GTX690的](../Page/NVIDIA_GeForce_600.md "wikilink")[恶搞评论](../Page/恶搞文化.md "wikilink")，以举例佐证[航空母舰的脆弱](../Page/航空母舰.md "wikilink")，引起舆论哗然。\[7\]\[8\]
+2013年12月11日，[中国大陆甘肃卫视的](../Page/中国大陆.md "wikilink")《解密真相》节目中，主持人在介绍火箭推进榴弹时，一字不差地引用了[百度百科](../Page/百度百科.md "wikilink")“航母杀手”词条中网友对于[英伟达](../Page/英伟达.md "wikilink")[Geforce系列显卡](https://zh.wikipedia.org/wiki/Geforce "wikilink")[GTX690的](../Page/NVIDIA_GeForce_600.md "wikilink")[恶搞评论](https://zh.wikipedia.org/wiki/恶搞文化 "wikilink")，以举例佐证[航空母舰的脆弱](../Page/航空母舰.md "wikilink")，引起舆论哗然。\[7\]\[8\]
 
 ## 完整型號列表
 

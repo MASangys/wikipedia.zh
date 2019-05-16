@@ -1,9 +1,11 @@
 **Microsoft
-PowerPoint**，簡稱**PowerPoint**，是一个由[Microsoft公司开发的](../Page/Microsoft.md "wikilink")[簡報程序](../Page/簡報.md "wikilink")，是[Microsoft
+PowerPoint**，簡稱**PowerPoint**，是一个由[Microsoft公司开发的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[簡報程序](../Page/簡報.md "wikilink")，是[Microsoft
 Office系统中的其中一个组件](../Page/Microsoft_Office.md "wikilink")。它支持[Microsoft
-Windows以及](../Page/Microsoft_Windows.md "wikilink")[Apple的](../Page/Apple.md "wikilink")[Mac
-OS X操作系统](../Page/Mac_OS_X.md "wikilink")。現時最新的版本是Microsoft PowerPoint
-2019 for Windows及2016 for Mac。  作为中最流行的形式，它被商业人员、教师、学生和培训人员广泛使用。
+Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Apple的](https://zh.wikipedia.org/wiki/Apple "wikilink")[Mac
+OS
+X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。現時最新的版本是Microsoft
+PowerPoint 2019 for Windows及2016 for Mac。
+作为中最流行的形式，它被商业人员、教师、学生和培训人员广泛使用。
 
 ## 運作
 
@@ -22,31 +24,31 @@ PowerPoint，就像其它大部分[簡報軟體一樣](../Page/簡報.md "wikili
 
 ## 历史
 
-PowerPoint這個點子原本來自於的主意。他是前[柏克莱博士生](../Page/柏克莱加州大学.md "wikilink")。當時他理解到即將到來的圖形介面時代可能會推翻簡報設計與創造的工具。1984年，Gaskins加入一家衰退中的矽谷軟體公司叫做Forethought並且雇用了軟體開發師
+PowerPoint這個點子原本來自於的主意。他是前[柏克莱博士生](https://zh.wikipedia.org/wiki/柏克莱加州大学 "wikilink")。當時他理解到即將到來的圖形介面時代可能會推翻簡報設計與創造的工具。1984年，Gaskins加入一家衰退中的矽谷軟體公司叫做Forethought並且雇用了軟體開發師
 Dennis Austin。Bob和Dennis完善化他的夢想，並設計了"Presenter"實行了該計畫。Dennis與Tom
 Rudkin設計了原始版本的程式。Bob後來建議了新的產品名"PowerPoint"，該名稱最後變成產品正式名稱。
 
 PowerPoint
-1.0於1987年於[蘋果麥金塔電腦上發行](../Page/Apple_Macintosh.md "wikilink")。該軟體一開始只有黑與白，只為透明投影幻燈片產生文字與圖形頁。雖然第一台彩色麥金塔電腦很快就進入市場，然而全彩版PowerPoint在原始版後一年才上市。
+1.0於1987年於[蘋果麥金塔電腦上發行](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")。該軟體一開始只有黑與白，只為透明投影幻燈片產生文字與圖形頁。雖然第一台彩色麥金塔電腦很快就進入市場，然而全彩版PowerPoint在原始版後一年才上市。
 第一版的使用者手冊相當獨特。該手冊是本精裝版藍書，因為Forethought相信，在這1987年電腦、電腦書還上不了檯面的時代，這些高級主管們不會介意有本不太跟電腦扯上關係的小藍書擺在桌上。升級手冊後來被證明挺貴的。所以精裝本小書手冊沒多久就被放棄了。
 
-1987年末，微軟以1400萬美金代價收購了[Forethought與PowerPoint](../Page/Forethought.md "wikilink")。1990年PowerPoint第一個視窗版本發行。而自1990年以來，PowerPoint成為微軟Office套餐程式的一個標準成員。
+1987年末，微軟以1400萬美金代價收購了[Forethought與PowerPoint](https://zh.wikipedia.org/wiki/Forethought "wikilink")。1990年PowerPoint第一個視窗版本發行。而自1990年以來，PowerPoint成為微軟Office套餐程式的一個標準成員。
 
 PowerPoint 2002年版─Office
 XP專業版套餐的部分同時也是單獨的軟體─提供了許多功能：例如比较和合并演示文稿，为各自的图片或文字自定[动画路径](../Page/动画.md "wikilink")，[文氏图和快取图案](../Page/文氏图.md "wikilink")，投影片检视模式
 (multiple slide
-masters)，一个「任务面板」去检视和选择在[剪貼簿](../Page/剪貼簿.md "wikilink")（clipboard）中的文字和对象，演示文稿[密码保护](../Page/密码.md "wikilink")，自动相簿产生，和用「聪明标签」允许人快速地选择文字模板格式到演示文稿中。
+masters)，一个「任务面板」去检视和选择在[剪貼簿](https://zh.wikipedia.org/wiki/剪貼簿 "wikilink")（clipboard）中的文字和对象，演示文稿[密码保护](https://zh.wikipedia.org/wiki/密码 "wikilink")，自动相簿产生，和用「聪明标签」允许人快速地选择文字模板格式到演示文稿中。
 
 在成为了[Microsoft
-Office的一部份后](../Page/Microsoft_Office.md "wikilink")，PowerPoint变成了世界上使用最广泛的演示文稿软件。隨著微軟Office檔案常常從一個電腦用戶傳到另一個電腦用戶，可以說任何簡報軟體─如蘋果的[Keynote](../Page/Keynote.md "wikilink")、[OpenOffice.org的Impress](../Page/OpenOffice.org.md "wikilink")─最重要的特色變成了可以開PowerPoint的檔案。然而，因為PowerPoint透過[OLE內嵌來自於其他應用軟體內容的特性](../Page/OLE.md "wikilink")，許多簡報被高度綁死在視窗平台上。這意味著甚至MacOS版的PowerPoint不是總是可以成功的開啟同樣PowerPoint、來自視窗版本的檔案。這導致用戶移動到[開放標準上](../Page/open_standard.md "wikilink")，如[PDF和](../Page/PDF.md "wikilink")[OpenDocument](../Page/OpenDocument.md "wikilink")。
+Office的一部份后](../Page/Microsoft_Office.md "wikilink")，PowerPoint变成了世界上使用最广泛的演示文稿软件。隨著微軟Office檔案常常從一個電腦用戶傳到另一個電腦用戶，可以說任何簡報軟體─如蘋果的[Keynote](../Page/Keynote.md "wikilink")、[OpenOffice.org的Impress](../Page/OpenOffice.org.md "wikilink")─最重要的特色變成了可以開PowerPoint的檔案。然而，因為PowerPoint透過[OLE內嵌來自於其他應用軟體內容的特性](https://zh.wikipedia.org/wiki/OLE "wikilink")，許多簡報被高度綁死在視窗平台上。這意味著甚至MacOS版的PowerPoint不是總是可以成功的開啟同樣PowerPoint、來自視窗版本的檔案。這導致用戶移動到[開放標準上](https://zh.wikipedia.org/wiki/open_standard "wikilink")，如[PDF和](https://zh.wikipedia.org/wiki/PDF "wikilink")[OpenDocument](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")。
 
 ## 文化影响
 
-支持者和评论家普遍认为PowerPoint非常好用，也很能为人们节省时间--要不然得用其他類型的視覺輔助─像手畫、機械排版的膠片、黑板或白板、或者高射投影機。這同樣讓使用這些視覺輔助的簡報人員鬆了口氣，甚至可以根本不用站上台簡報，這些在在都鼓勵人們製作自己的簡報。然而隨著PowerPoint的格式、[動畫](../Page/動畫.md "wikilink")、和[多媒體能力變得漸趨複雜](../Page/多媒體.md "wikilink")，同時隨著製作簡報越容易（甚至簡單到"[自動內容精靈](../Page/自動內容精靈.md "wikilink")"會建議簡報結構的地步），介於簡報者和觀眾間的需要與渴望的差異性變得越來越明顯。
+支持者和评论家普遍认为PowerPoint非常好用，也很能为人们节省时间--要不然得用其他類型的視覺輔助─像手畫、機械排版的膠片、黑板或白板、或者高射投影機。這同樣讓使用這些視覺輔助的簡報人員鬆了口氣，甚至可以根本不用站上台簡報，這些在在都鼓勵人們製作自己的簡報。然而隨著PowerPoint的格式、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、和[多媒體能力變得漸趨複雜](https://zh.wikipedia.org/wiki/多媒體 "wikilink")，同時隨著製作簡報越容易（甚至簡單到"[自動內容精靈](https://zh.wikipedia.org/wiki/自動內容精靈 "wikilink")"會建議簡報結構的地步），介於簡報者和觀眾間的需要與渴望的差異性變得越來越明顯。
 
 ### 对PowerPoint的批评
 
-針對PowerPoint的批評主要來自[耶魯大學統計學暨圖形設計教授](../Page/耶魯大學.md "wikilink")。在他的論文《論PowerPoint的認知格調》中，Tufte教授列出了許多PowerPoint的不良特徵（emergent
+針對PowerPoint的批評主要來自[耶魯大學統計學暨圖形設計教授](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")。在他的論文《論PowerPoint的認知格調》中，Tufte教授列出了許多PowerPoint的不良特徵（emergent
 properties）：
 
   - PowerPoint仅仅被作为演示者的指南，起到一个恢复信心的作用；
@@ -57,11 +59,11 @@ properties）：
 
 雖然Tufte教授的很多論點看上去很有意義，但其實遭到很多專家的強烈地反對──請參看文章《[五個專家反對Tufte對PowerPoint的意見](https://web.archive.org/web/20060113054538/http://www.sociablemedia.com/articles_dispute.htm)》。
 
-[多伦多大学的管理学教授](../Page/多伦多大学.md "wikilink")[David
-Beatty表示](../Page/David_Beatty.md "wikilink")：“PowerPoint就像是种疾病，它是管理学上的爱滋。”他建议简报者应花85%时间准备说些什么，而只花15%时间在如何说之上。他也报告了[3M强力劝阻PowerPoint的使用](../Page/3M.md "wikilink")，因为「它删除了细节与思考」；同时该公司认为PowerPoint让人们专注于漂亮的图形而非正事。（在电脑辅助简报问世前，3M是投影机的主要制造商，现下由于PowerPoint淡出市场。）
+[多伦多大学的管理学教授](https://zh.wikipedia.org/wiki/多伦多大学 "wikilink")[David
+Beatty表示](https://zh.wikipedia.org/wiki/David_Beatty "wikilink")：“PowerPoint就像是种疾病，它是管理学上的爱滋。”他建议简报者应花85%时间准备说些什么，而只花15%时间在如何说之上。他也报告了[3M强力劝阻PowerPoint的使用](https://zh.wikipedia.org/wiki/3M "wikilink")，因为「它删除了细节与思考」；同时该公司认为PowerPoint让人们专注于漂亮的图形而非正事。（在电脑辅助简报问世前，3M是投影机的主要制造商，现下由于PowerPoint淡出市场。）
 
-[彼德·诺米格弄了个](../Page/彼德·诺米格.md "wikilink")[林肯](../Page/林肯.md "wikilink")《[盖茨堡宣言](../Page/盖兹堡演说.md "wikilink")》的PowerPoint版本──它算是个半开玩笑的范例，重点在揶揄与PowerPoint相关的简报风格。
-Norvig于2000年在他的网站上出版了[该幻灯片](http://norvig.com/Gettysburg/)。它随即被许多早期的[网志](../Page/网志.md "wikilink")，甚至[华尔街日报援引来说明一个匠心独运](../Page/华尔街日报.md "wikilink")、功成圆满的演说可被改写成支离破碎、过度装饰的幻灯片与甚至包括无关资料表的集合。
+[彼德·诺米格弄了个](https://zh.wikipedia.org/wiki/彼德·诺米格 "wikilink")[林肯](https://zh.wikipedia.org/wiki/林肯 "wikilink")《[盖茨堡宣言](https://zh.wikipedia.org/wiki/盖兹堡演说 "wikilink")》的PowerPoint版本──它算是个半开玩笑的范例，重点在揶揄与PowerPoint相关的简报风格。
+Norvig于2000年在他的网站上出版了[该幻灯片](http://norvig.com/Gettysburg/)。它随即被许多早期的[网志](https://zh.wikipedia.org/wiki/网志 "wikilink")，甚至[华尔街日报援引来说明一个匠心独运](../Page/华尔街日报.md "wikilink")、功成圆满的演说可被改写成支离破碎、过度装饰的幻灯片与甚至包括无关资料表的集合。
 
 濫用PowerPoint助長了[催眠性交流](../Page/催眠.md "wikilink")──增加了反向[元建模無心的使用](../Page/元建模.md "wikilink")，例如：殘缺不全的句子、概念化、名詞化等。
 
@@ -73,14 +75,14 @@ PowerPoint"不必然指的是演示文稿本身沉闷，这个问题是出在演
 "Death by PowerPoint"的例子包括：
 
   - 不必要的長篇簡報
-  - 簡報者用單調口氣簡單地讀幻燈片，但根本上觀眾可以自己看[熒幕](../Page/熒幕.md "wikilink")
+  - 簡報者用單調口氣簡單地讀幻燈片，但根本上觀眾可以自己看[熒幕](https://zh.wikipedia.org/wiki/熒幕 "wikilink")
   - PowerPoint報告只有簡樸的文字而沒有圖片或者動畫
-  - 相反地，報告荒謬地在每一文字上有大量動畫的習慣（包括[飛入](../Page/飛入.md "wikilink")、[扯拽和](../Page/扯拽.md "wikilink")[小滴](../Page/小滴.md "wikilink")）
+  - 相反地，報告荒謬地在每一文字上有大量動畫的習慣（包括[飛入](https://zh.wikipedia.org/wiki/飛入 "wikilink")、[扯拽和](https://zh.wikipedia.org/wiki/扯拽 "wikilink")[小滴](https://zh.wikipedia.org/wiki/小滴 "wikilink")）
   - 頁面塞滿小而難以辨認的文字
 
 ### 正面文化影响
 
-有些人褒扬PowerPoint于艺术上用途的能力。例如，利用PowerPoint为他的[书与](../Page/书.md "wikilink")[DVD](../Page/DVD.md "wikilink")：Envisioning
+有些人褒扬PowerPoint于艺术上用途的能力。例如，利用PowerPoint为他的[书与](https://zh.wikipedia.org/wiki/书 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")：Envisioning
 
 ## 版本
 
@@ -243,8 +245,9 @@ PowerPoint"不必然指的是演示文稿本身沉闷，这个问题是出在演
   - [OpenOffice.org
     Impress](../Page/OpenOffice.org_Impress.md "wikilink")
   - [Apple Keynote](../Page/Keynote.md "wikilink")
-  - [oNLine System](../Page/NLS_\(computer_system\).md "wikilink")
-  - [檔案瀏覽器](../Page/檔案瀏覽器.md "wikilink")
+  - [oNLine
+    System](https://zh.wikipedia.org/wiki/NLS_\(computer_system\) "wikilink")
+  - [檔案瀏覽器](https://zh.wikipedia.org/wiki/檔案瀏覽器 "wikilink")
   - [HyperCard](../Page/HyperCard.md "wikilink")
   - [PPT格式](../Page/PPT格式.md "wikilink")
 

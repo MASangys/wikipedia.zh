@@ -1,5 +1,5 @@
 **Windows Live
-Favorites**是[微軟推出的一系列線上應用服務的其中一項軟體服務](../Page/微軟.md "wikilink")。這項服務可以讓用戶儲存[我的最愛在網路伺服器上](../Page/我的最愛.md "wikilink")。用戶不管到那一台電腦上，只要有網路連線，用戶都可以使用事先儲存在網路上的我的最愛。走到那裡，用到那裡。2005年11月1日這個產品開始了[Beta版本的測試](../Page/Beta版本.md "wikilink")。
+Favorites**是[微軟推出的一系列線上應用服務的其中一項軟體服務](https://zh.wikipedia.org/wiki/微軟 "wikilink")。這項服務可以讓用戶儲存[我的最愛在網路伺服器上](https://zh.wikipedia.org/wiki/我的最愛 "wikilink")。用戶不管到那一台電腦上，只要有網路連線，用戶都可以使用事先儲存在網路上的我的最愛。走到那裡，用到那裡。2005年11月1日這個產品開始了[Beta版本的測試](https://zh.wikipedia.org/wiki/Beta版本 "wikilink")。
 
 **Windows Live Favorites Tab on Live Messenger:**
 Windows Live Favorites Messenger Tab 最近在Messenger US

@@ -1,7 +1,7 @@
 **无线自组网按需平面距离向量路由协议**（**A**d hoc **O**n-Demand **D**istance **V**ector
 Routing，AODV）是应用于[無線隨意網路](../Page/無線隨意網路.md "wikilink")（也稱作無線[Ad
-hoc網路](../Page/Ad_hoc網路.md "wikilink")）中进行路由选择的路由協議，它能够实现单播和多播路由\[1\]。該協議是[Ad
-Hoc網路中按需生成路由方式的典型協議](../Page/Ad_Hoc網路.md "wikilink")。
+hoc網路](https://zh.wikipedia.org/wiki/Ad_hoc網路 "wikilink")）中进行路由选择的路由協議，它能够实现单播和多播路由\[1\]。該協議是[Ad
+Hoc網路中按需生成路由方式的典型協議](https://zh.wikipedia.org/wiki/Ad_Hoc網路 "wikilink")。
 
 ## 實現技術
 

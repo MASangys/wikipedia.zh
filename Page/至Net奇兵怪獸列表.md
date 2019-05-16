@@ -1,8 +1,8 @@
-在[至Net奇兵中](../Page/至Net奇兵.md "wikilink")，出現過很多怪獸，這條目是有關在至Net奇兵中出現過的怪獸。這些怪獸通常都是[山拿製造出來用來對付](../Page/山拿.md "wikilink")[利奧高小組和](../Page/利奧高小組.md "wikilink")[亞烈達](../Page/亞烈達.md "wikilink")。
+在[至Net奇兵中](../Page/至Net奇兵.md "wikilink")，出現過很多怪獸，這條目是有關在至Net奇兵中出現過的怪獸。這些怪獸通常都是[山拿製造出來用來對付](https://zh.wikipedia.org/wiki/山拿 "wikilink")[利奧高小組和](https://zh.wikipedia.org/wiki/利奧高小組 "wikilink")[亞烈達](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")。
 
 ## 注意
 
-為方便閱覽，本文所有標題列上有「<sup>1</sup>」者表示[香港第一輯官方](../Page/香港.md "wikilink")（[TVB](../Page/TVB.md "wikilink")）譯名；「<sup>2</sup>」表示[香港第二輯官方譯名](../Page/香港.md "wikilink")。其餘的則是網友自譯，或者其他地區的譯名。
+為方便閱覽，本文所有標題列上有「<sup>1</sup>」者表示[香港第一輯官方](../Page/香港.md "wikilink")（[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")）譯名；「<sup>2</sup>」表示[香港第二輯官方譯名](../Page/香港.md "wikilink")。其餘的則是網友自譯，或者其他地區的譯名。
 
 ## 第一輯便出現的怪獸
 
@@ -68,7 +68,7 @@ Blues)中，曱甴獸被擊中一次後，能分裂成兩個。 此外它們由�
 
 註：另外有人懷疑第24集「鬼門關」和第82集「遙遠的記憶」的大型球體究竟是否守護者, 這裡有很大爭議,
 在「鬼門關」和「遙遠的記憶」集那橙色球體覆蓋的範圍甚至能製造一個假的平行宇宙([Parallel
-Universe](../Page/Parallel_Universe.md "wikilink"))來囚禁並欺騙Lyoko的人們。從外表和功用來看,
+Universe](https://zh.wikipedia.org/wiki/Parallel_Universe "wikilink"))來囚禁並欺騙Lyoko的人們。從外表和功用來看,
 這或可能是進化版的守護者。
 
 ## 第二輯才出現的怪獸
@@ -127,7 +127,7 @@ Universe](../Page/Parallel_Universe.md "wikilink"))來囚禁並欺騙Lyoko的人
 
 ### 多形態個體<sup>2</sup>/多形態複製體(Clônes Polymorphes/Clone Polymorphe)
 
-[多形態個體是一種可以複製戰士的戰鬥模式的一種怪獸](../Page/多形態個體.md "wikilink"),而且可以生活在現實世界。
+[多形態個體是一種可以複製戰士的戰鬥模式的一種怪獸](https://zh.wikipedia.org/wiki/多形態個體 "wikilink"),而且可以生活在現實世界。
 在第一次虛擬化,多形態個體偽裝成阿奇的樣子。當多形態個體虛擬化時, 電腦出現了問題的標誌,但是傑理明不能理解發生了什麼事情。
 第五季中多形态克隆体可以直接在现实世界中窃取Lyoko勇士的代码。所以杰里明开发了探测程序来找出被克隆的对象的形象。
 
@@ -172,7 +172,7 @@ Meyer（贺法兰的前雇员）手下被虚拟化的人类。其身体敏捷，
 
 ## 遊戲中的獨有怪獸
 
-[至NET奇兵曾推出了三款遊戲](../Page/至NET奇兵.md "wikilink")，分別是[至NET奇兵](../Page/至NET奇兵_\(視頻遊戲\).md "wikilink")(視頻遊戲)、[至NET奇兵：探索無限及](../Page/至NET奇兵：探索無限.md "wikilink")[至NET奇兵：山拿的末日](../Page/至NET奇兵：山拿的末日.md "wikilink")，而這三款遊戲中曾出現了一些[至NET奇兵動畫版中沒有](../Page/至NET奇兵.md "wikilink")、只在遊戲版才有的怪獸。
+[至NET奇兵曾推出了三款遊戲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，分別是[至NET奇兵](https://zh.wikipedia.org/wiki/至NET奇兵_\(視頻遊戲\) "wikilink")(視頻遊戲)、[至NET奇兵：探索無限及](https://zh.wikipedia.org/wiki/至NET奇兵：探索無限 "wikilink")[至NET奇兵：山拿的末日](https://zh.wikipedia.org/wiki/至NET奇兵：山拿的末日 "wikilink")，而這三款遊戲中曾出現了一些[至NET奇兵動畫版中沒有](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")、只在遊戲版才有的怪獸。
 
 ### 黑色曱甴獸/黑色蘑菇怪/黑色甲蟲獸(Dark kankrelats)
 

@@ -15,29 +15,30 @@ ACIS和PHIGS。同时在很多不同的3D建模和动画软件中也能找到NUR
 
 在计算机处理之前，设计一般是通过在纸上的手绘完成，该过程需要借助许多绘画工具。例如直尺用于绘制直线，圆规用于绘制圆形，量角器用于绘制角度。但是许多不规则形状的曲线，例如船艏，是无法通过这些工具绘制的。虽然可以通过在手绘板上徒手完成，但由于尺寸原因这种手稿无法在实际生产中得到应用。
 1946年，数学家开始研究样条形状，该形状通过分段的多项式公式推导出来，因为其和机械生产中的样条相类似，将其命名为样条曲线或样条函数。\[1\]
-NURBS的发展始于1950年代，它是由需要像在车体和船壳中使用的[自由曲面的数学上的精确表示的工程师们所发现的](../Page/自由曲面.md "wikilink")，它可以在任何技术上需要的时候精确的复制出来。以前这类曲面的表示只存在于[设计者创建的](../Page/设计者.md "wikilink")[实体模型](../Page/实体模型.md "wikilink")。
+NURBS的发展始于1950年代，它是由需要像在车体和船壳中使用的[自由曲面的数学上的精确表示的工程师们所发现的](https://zh.wikipedia.org/wiki/自由曲面 "wikilink")，它可以在任何技术上需要的时候精确的复制出来。以前这类曲面的表示只存在于[设计者创建的](https://zh.wikipedia.org/wiki/设计者 "wikilink")[实体模型](https://zh.wikipedia.org/wiki/实体模型 "wikilink")。
 
-该发展的先驱包括：[皮埃尔·贝塞尔](../Page/皮埃尔·贝塞尔.md "wikilink")（Pierre Bézier）和[Paul
-de
-Casteljau两个](../Page/Paul_de_Casteljau.md "wikilink")[法国人](../Page/法国.md "wikilink")，
-前者曾是[雷诺的工程师](../Page/雷诺.md "wikilink")，后者在[标致工作](../Page/标致.md "wikilink")。贝塞尔基本是和de
-Casteljau独立发展的，两人互相不知道对方的工作。但是因为贝塞尔发表了他的工作的结果，今天的一般的[计算机图形学用户认为](../Page/计算机图形学.md "wikilink")[样条](../Page/样条.md "wikilink")
--- 通过在曲线上的控制点表示的那类 - 为[贝塞尔样条](../Page/贝塞尔样条.md "wikilink")，而de
-Casteljau的名字仅作为他为计算参数化曲面所设计的算法而为人所知。在1960年代，人们认识到[非均匀有理B样条是](../Page/非均匀有理B样条.md "wikilink")[贝塞尔曲线的一个](../Page/贝塞尔曲线.md "wikilink")[推广](../Page/廣義化.md "wikilink")，而贝赛尔曲线可以视为均匀有理B样条。
+该发展的先驱包括：[皮埃尔·贝塞尔](https://zh.wikipedia.org/wiki/皮埃尔·贝塞尔 "wikilink")（Pierre
+Bézier）和[Paul de
+Casteljau两个](https://zh.wikipedia.org/wiki/Paul_de_Casteljau "wikilink")[法国人](https://zh.wikipedia.org/wiki/法国 "wikilink")，
+前者曾是[雷诺的工程师](../Page/雷诺.md "wikilink")，后者在[标致工作](https://zh.wikipedia.org/wiki/标致 "wikilink")。贝塞尔基本是和de
+Casteljau独立发展的，两人互相不知道对方的工作。但是因为贝塞尔发表了他的工作的结果，今天的一般的[计算机图形学用户认为](../Page/计算机图形学.md "wikilink")[样条](https://zh.wikipedia.org/wiki/样条 "wikilink")
+-- 通过在曲线上的控制点表示的那类 -
+为[贝塞尔样条](https://zh.wikipedia.org/wiki/贝塞尔样条 "wikilink")，而de
+Casteljau的名字仅作为他为计算参数化曲面所设计的算法而为人所知。在1960年代，人们认识到[非均匀有理B样条是](../Page/非均匀有理B样条.md "wikilink")[贝塞尔曲线的一个](https://zh.wikipedia.org/wiki/贝塞尔曲线 "wikilink")[推广](https://zh.wikipedia.org/wiki/廣義化 "wikilink")，而贝赛尔曲线可以视为均匀有理B样条。
 
 最初NURBS仅用于汽车公司私有的[计算机辅助设计包](../Page/计算机辅助设计.md "wikilink")。后来它们成为标准计算机图形包的一部分，包括[OpenGL图形库](../Page/OpenGL.md "wikilink")。
 
 NURBS曲线和曲面的实时、交互绘制最初由[Silicon
-Graphics工作站于](../Page/Silicon_Graphics.md "wikilink")1989年提供。在1993年，CAS
-Berlin（一个和[柏林工大合作的小创业公司](../Page/柏林工大.md "wikilink")）开发了第一个[个人机上的交互式NURBS建模器](../Page/个人机.md "wikilink")，称为*[NöRBS](../Page/NöRBS.md "wikilink")*。今天多数台式机上的专业计算机图形应用程序提供NURBS技术，一般通过集成一个从专用公司来的NURBS引擎。
+Graphics工作站于](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")1989年提供。在1993年，CAS
+Berlin（一个和[柏林工大合作的小创业公司](https://zh.wikipedia.org/wiki/柏林工大 "wikilink")）开发了第一个[个人机上的交互式NURBS建模器](https://zh.wikipedia.org/wiki/个人机 "wikilink")，称为*[NöRBS](https://zh.wikipedia.org/wiki/NöRBS "wikilink")*。今天多数台式机上的专业计算机图形应用程序提供NURBS技术，一般通过集成一个从专用公司来的NURBS引擎。
 
 ## 使用
 
-NURBS对于[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（CAD）、[制造](../Page/计算机辅助制造.md "wikilink")（CAM）和[工程](../Page/计算机辅助工程.md "wikilink")（CAE）是几乎无法回避的，并且是很多业界广泛采用的标准的一部分，例如[IGES](../Page/IGES.md "wikilink")，
-[STEP](../Page/STEP.md "wikilink")，和[PHIGS](../Page/PHIGS.md "wikilink")。
+NURBS对于[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（CAD）、[制造](../Page/计算机辅助制造.md "wikilink")（CAM）和[工程](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")（CAE）是几乎无法回避的，并且是很多业界广泛采用的标准的一部分，例如[IGES](https://zh.wikipedia.org/wiki/IGES "wikilink")，
+[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")，和[PHIGS](https://zh.wikipedia.org/wiki/PHIGS "wikilink")。
 
 但还是有很多它们在交互式建模中的优点和有用性的错误观念，主要是由于关于单一软件包及其用户界面的易用性而得出的猜测。
-通常，据说编辑NURBS曲线和曲面是高度直观和可预测的。控制点总是直接连接到曲线或曲面上或象是通过一根橡皮筋连接。根据用户界面的类型，编辑可以通过它们各自的控制点实现，这对于[贝塞尔曲线是最显然和最一般的](../Page/贝塞尔曲线.md "wikilink")，或者也可以通过高层的工具，例如样条建模或者层次结构的编辑。高层工具可以设计得很强大，并得益于NURBS创建和建立不同层次的连续性的能力：
+通常，据说编辑NURBS曲线和曲面是高度直观和可预测的。控制点总是直接连接到曲线或曲面上或象是通过一根橡皮筋连接。根据用户界面的类型，编辑可以通过它们各自的控制点实现，这对于[贝塞尔曲线是最显然和最一般的](https://zh.wikipedia.org/wiki/贝塞尔曲线 "wikilink")，或者也可以通过高层的工具，例如样条建模或者层次结构的编辑。高层工具可以设计得很强大，并得益于NURBS创建和建立不同层次的连续性的能力：
 c0连续性表示连通性，c1连续性可以视为没有尖角，而c2连续性通常称为几何连续性，视觉上也就是“光滑”的东西，用NURBS还可以达到更高阶的连续性，它们可以导致"亮度连续性"。这被新车模型的摄影师所倚重，他们热衷于展示霓虹灯在车身上的镜像。灯光可以展示出完美的光滑度，这在没有NURBS的情况下实际上是不可能。
 
 ## 定义
@@ -79,27 +80,27 @@ n级连续性的定义要求某点邻域内的n阶导数在那点相等。注意
 ## 技術細節
 
 [Surface_modelling.svg](https://zh.wikipedia.org/wiki/File:Surface_modelling.svg "fig:Surface_modelling.svg")
-一條NURBS曲線用一個帶比重控制點和曲線的次序以及一個*節點向量*的集合定義。\[2\]NURBS是[B-樣條和](../Page/B-樣條.md "wikilink")[貝塞尔曲線和曲面兩者的推廣](../Page/貝塞尔曲線.md "wikilink")，其主要差別在於控制點的比重，這使它們成為*有理的*（非有理B-樣條是有理B-樣條的特殊情形）。
+一條NURBS曲線用一個帶比重控制點和曲線的次序以及一個*節點向量*的集合定義。\[2\]NURBS是[B-樣條和](https://zh.wikipedia.org/wiki/B-樣條 "wikilink")[貝塞尔曲線和曲面兩者的推廣](https://zh.wikipedia.org/wiki/貝塞尔曲線 "wikilink")，其主要差別在於控制點的比重，這使它們成為*有理的*（非有理B-樣條是有理B-樣條的特殊情形）。
 NURBS曲線在一個參數方向上演變，通常內部用's'參數代表，而NURBS曲面在兩個參數方向上演變。
 所以，通過計算NURBS曲線的s-參數，它可以在三維空間中表示，通過計算NURBS曲面的s和t它也可以在三維空間中表示。
 推廣意味著：一條貝茲曲線總是一條NURBS曲線，就像狗總是動物。反過來則不總是成立，一條NURBS曲線可以是一條貝茲曲線，就像一個動物可以是一條狗。
 
 NURBS有用的原因有很多條：他們
 
-  - 在[仿射變換下不變也在](../Page/仿射變換.md "wikilink")[投影變換下不變](../Page/圖形投影.md "wikilink")；<ref>
+  - 在[仿射變換下不變也在](https://zh.wikipedia.org/wiki/仿射變換 "wikilink")[投影變換下不變](https://zh.wikipedia.org/wiki/圖形投影 "wikilink")；<ref>
 
 ，第7.1節。(Good elementary book for NURBS and related issues.)</ref>
 
-  - 提供了標準解析形體（例如[圓錐曲面](../Page/圓錐曲面.md "wikilink")）和自由曲面兩者的共同數學形式；
+  - 提供了標準解析形體（例如[圓錐曲面](https://zh.wikipedia.org/wiki/圓錐曲面 "wikilink")）和自由曲面兩者的共同數學形式；
   - 提供了設計一大類形體的靈活性；
   - 減少了存儲形體的記憶體消耗（和更簡單的方法相比）；
-  - 可以用[數值上穩定和精確的](../Page/數值上穩定.md "wikilink")[算法較快的計算](../Page/算法.md "wikilink")；
-  - 是非有理[B-樣條和非有理和有理](../Page/B-樣條.md "wikilink")[貝茲曲線和曲面的推廣](../Page/貝茲曲線.md "wikilink")。
+  - 可以用[數值上穩定和精確的](https://zh.wikipedia.org/wiki/數值上穩定 "wikilink")[算法較快的計算](../Page/算法.md "wikilink")；
+  - 是非有理[B-樣條和非有理和有理](https://zh.wikipedia.org/wiki/B-樣條 "wikilink")[貝茲曲線和曲面的推廣](../Page/貝茲曲線.md "wikilink")。
 
 ### 控制點
 
 [NURBS_3-D_surface.gif](https://zh.wikipedia.org/wiki/File:NURBS_3-D_surface.gif "fig:NURBS_3-D_surface.gif")
-節點向量是一個參數值的序列，用於決定控制點在何處和如何影響NURBS曲線。\[3\]節點的個數總是等於控制點的個數加上曲線的階數。節點必須只是用於內部計算，因而一般對於軟體的[終端用戶來說是沒有幫助的](../Page/終端用戶.md "wikilink")、不可編輯、甚至不可以見的。
+節點向量是一個參數值的序列，用於決定控制點在何處和如何影響NURBS曲線。\[3\]節點的個數總是等於控制點的個數加上曲線的階數。節點必須只是用於內部計算，因而一般對於軟體的[終端用戶來說是沒有幫助的](https://zh.wikipedia.org/wiki/終端用戶 "wikilink")、不可編輯、甚至不可以見的。
 
 ### 節點向量
 
@@ -133,7 +134,7 @@ SPLINE 命令可把这种二维和三维样条拟合多段线转换为样条曲�
 
 ## 參見
 
-  - [B樣條](../Page/B樣條.md "wikilink")
+  - [B樣條](https://zh.wikipedia.org/wiki/B樣條 "wikilink")
 
 ## 参考資料
 

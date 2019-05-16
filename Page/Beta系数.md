@@ -1,5 +1,5 @@
 **貝塔-{系}-数**（\(\beta\)
-系數，貝塔系數，香港又譯作：**啤打系數**）是用以度量一项资产[系统性风险的指标](../Page/系统性风险.md "wikilink")，是[资本资产定价模型的参数之一](../Page/资本资产定价模型.md "wikilink")。指用以衡量一种证券或一个投资证券组合相对总体市场的波动性的一种证券系统性风险的评估工具。
+系數，貝塔系數，香港又譯作：**啤打系數**）是用以度量一项资产[系统性风险的指标](https://zh.wikipedia.org/wiki/系统性风险 "wikilink")，是[资本资产定价模型的参数之一](../Page/资本资产定价模型.md "wikilink")。指用以衡量一种证券或一个投资证券组合相对总体市场的波动性的一种证券系统性风险的评估工具。
 
 公式为：\(\beta_a = \frac {\mbox{Cov}(r_a,r_m)}{\sigma_m^2}\)
 
@@ -13,10 +13,12 @@
 \[\beta_a = \rho_{am} \cdot \frac {\sigma_a}{\sigma_m}\]
 
 其中\({\rho_{am}}\)为证券 \(a\)
-与市场的[相关系数](../Page/相关系数.md "wikilink")；\({\sigma_a}\)为证券
-\(a\) 的[标准差](../Page/标准差.md "wikilink")；\(\sigma_m\)为市场的标准差。
+与市场的[相关系数](https://zh.wikipedia.org/wiki/相关系数 "wikilink")；\({\sigma_a}\)为证券
+\(a\)
+的[标准差](https://zh.wikipedia.org/wiki/标准差 "wikilink")；\(\sigma_m\)为市场的标准差。
 
-贝塔系数利用回归的方法计算：（\(\beta\) [絕對值](../Page/絕對值.md "wikilink")）
+贝塔系数利用回归的方法计算：（\(\beta\)
+[絕對值](https://zh.wikipedia.org/wiki/絕對值 "wikilink")）
 \*贝塔系数等于1即证券的价格与市场一同变动。（\(\left| \beta \right| =1\)）
 
   - 贝塔系数高于1即证券价格比总体市场更波动。（\(\left| \beta \right| >1\)）
@@ -34,8 +36,8 @@
 不同公司之间的\(\beta\) 系数有所不同，即便是同一家公司在不同时期，其\(\beta\)
 系数也会或多或少地有所差异。在实际中，要想利用定义式去计算\(\beta\)
 系数是比较困难的。\(\beta\)
-系数的计算常常利用收益率的历史数据，采用[线性回归的方法取得](../Page/线性回归.md "wikilink")。一些证券咨询机构会定期计算和编制各[上市公司的](../Page/上市公司.md "wikilink")\(\beta\)
-系数，人们可以通过[中国证券市场数据库等查询](../Page/中国证券市场数据库.md "wikilink")。
+系数的计算常常利用收益率的历史数据，采用[线性回归的方法取得](https://zh.wikipedia.org/wiki/线性回归 "wikilink")。一些证券咨询机构会定期计算和编制各[上市公司的](../Page/上市公司.md "wikilink")\(\beta\)
+系数，人们可以通过[中国证券市场数据库等查询](https://zh.wikipedia.org/wiki/中国证券市场数据库 "wikilink")。
 
 ## 參見
 

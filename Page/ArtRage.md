@@ -1,5 +1,5 @@
 **ArtRage**由[Ambient Design
-Ltd開發的收費點陣](../Page/Ambient_Design_Ltd.md "wikilink")[影像處理軟體](../Page/影像處理軟體.md "wikilink")，主要是容許用戶利用Tablet
+Ltd開發的收費點陣](https://zh.wikipedia.org/wiki/Ambient_Design_Ltd "wikilink")[影像處理軟體](https://zh.wikipedia.org/wiki/影像處理軟體 "wikilink")，主要是容許用戶利用Tablet
 PC的優勢，用電腦筆在畫面上虛擬作畫。軟件盡量提供現實繪畫中的各種環境及工具，使用戶能夠隨心所欲的作畫。**ArtRage**曾經是一套免費軟件，後來改為收費軟件，售價為USD$19.9。但仍保留功能較少的Demo示範版本免費下載。
 
 ## 版本
@@ -35,17 +35,17 @@ App Store 有售。官方網上可免費下載ArtRage 2.6的Demo 版本試用。
 ArtRage的畫面右下角是調色盤，提供多種的選色方式。左下角是工具選取，不同的工具還可以選擇畫筆的闊度、壓力、角度等不同的變化。
 
 由於 ArtRage
-只佔2.5MB硬碟空間，並不如其他商業軟體般佔用大量資源。即使在一部只有128[MB的Pentium](../Page/Megabyte.md "wikilink")
+只佔2.5MB硬碟空間，並不如其他商業軟體般佔用大量資源。即使在一部只有128[MB的Pentium](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
 II電腦上，運行速度也不會太慢。所以，現時[香港有學校開始把](../Page/香港.md "wikilink") ArtRage
 用於教學上，讓學生在狹少及資源不足的環境下，仍然可以享受繪畫的樂趣，免除購買油畫顏料及畫布的開銷，以及保持課室環境清潔而帶來的煩惱。
 
 ArtRage尚有一項功能，讓用戶載入一幅相片，然後利用ArtRage作描邊的動作，藉以讓用戶創作更具真實感的畫作。
 
-利用ArtRage創作的作品，除了可以用軟件本身的格式儲存外，還可以輸出成為[BMP](../Page/BMP.md "wikilink")、[JPEG或](../Page/JPEG.md "wikilink")[PNG格式](../Page/PNG.md "wikilink")。
+利用ArtRage創作的作品，除了可以用軟件本身的格式儲存外，還可以輸出成為[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")、[JPEG或](../Page/JPEG.md "wikilink")[PNG格式](../Page/PNG.md "wikilink")。
 
-現時ArtRage連同[微軟公司的](../Page/微軟.md "wikilink")[Windows
+現時ArtRage連同[微軟公司的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
 XP](../Page/Windows_XP.md "wikilink") Tablet PC版本的體驗包附送，但名稱被改為“Ink
-Art”。此外，多家[數碼繪圖板的生產商](../Page/數碼繪圖板.md "wikilink")，如[Wacom等](../Page/Wacom.md "wikilink")，都有把本產品連同他們的商品一起發售。
+Art”。此外，多家[數碼繪圖板的生產商](https://zh.wikipedia.org/wiki/數碼繪圖板 "wikilink")，如[Wacom等](https://zh.wikipedia.org/wiki/Wacom "wikilink")，都有把本產品連同他們的商品一起發售。
 
 ## 外部連結
 

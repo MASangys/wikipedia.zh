@@ -1,35 +1,37 @@
-**gcin**是一個在[类Unix](../Page/类Unix.md "wikilink")[作業系統上運行的中文](../Page/作業系統.md "wikilink")[輸入法平台](../Page/輸入法平台.md "wikilink")（目前亦有[gcin
+**gcin**是一個在[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[作業系統上運行的中文](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[輸入法平台](https://zh.wikipedia.org/wiki/輸入法平台 "wikilink")（目前亦有[gcin
 for windows](http://hyperrate.com/dir.php?eid=215)與[gcin for
-android](http://hyperrate.com/?eid=255)），是目前[台灣最常用的輸入法平台之一](../Page/台灣.md "wikilink")。gcin作者為Edward
-Liu，是原xcin的開發者之一，gcin開發的目標是取代舊有的[xcin](../Page/xcin.md "wikilink")，讓[繁體中文的](../Page/繁體中文.md "wikilink")[GNU/Linux使用者在使用中文輸入法時能有更多的選擇](../Page/GNU/Linux.md "wikilink")。
+android](http://hyperrate.com/?eid=255)），是目前[台灣最常用的輸入法平台之一](https://zh.wikipedia.org/wiki/台灣 "wikilink")。gcin作者為Edward
+Liu，是原xcin的開發者之一，gcin開發的目標是取代舊有的[xcin](https://zh.wikipedia.org/wiki/xcin "wikilink")，讓[繁體中文的](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[GNU/Linux使用者在使用中文輸入法時能有更多的選擇](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。
 
 目前gcin仍在持續開發中，可從[gcin更動紀錄](http://hyperrate.com/gcin-source/Changelog.html)查詢各版本所新增功能或細節。
 
-2011年12月13日，由於意見上的分歧，部分原gcin社群成員決定獨立，自行開發分支版本－[HIME](../Page/HIME.md "wikilink")。\[1\]
+2011年12月13日，由於意見上的分歧，部分原gcin社群成員決定獨立，自行開發分支版本－[HIME](https://zh.wikipedia.org/wiki/HIME "wikilink")。\[1\]
 
 ## 特點
 
   - 支援『自動選字』（詞音輸入法及其他拆字型輸入法，如：倉頡、大易、行列、嘸蝦米...等亦可）。
   - 提供中文預選詞(或稱「聯想詞」)與
     [英文預選字/詞](http://hyperrate.com/thread.php?tid=29116)。
-  - 提供螢幕小鍵盤，可控制所有[X Window的程式](../Page/X_Window.md "wikilink")。
+  - 提供螢幕小鍵盤，可控制所有[X
+    Window的程式](https://zh.wikipedia.org/wiki/X_Window "wikilink")。
   - 可同步發音
     (需安裝發音檔)[ogg.tgz](https://web.archive.org/web/20120705020558/http://www.csie.nctu.edu.tw/~cp76/gcin/download/)。
-  - 支援『\*』和『?』這種[模糊字根查詢](../Page/模糊字根查詢.md "wikilink")。
+  - 支援『\*』和『?』這種[模糊字根查詢](https://zh.wikipedia.org/wiki/模糊字根查詢 "wikilink")。
   - 介面簡潔。
   - 支援類似<font color="#993300">【Shift】</font>+<font color="#993300">【Alt】</font>+<font color="#993300">【G】</font>
     =
-    【<font color="#003399">』</font>】這種符號快捷鍵的輸入方式，符合[倚天中文的輸入習慣](../Page/倚天中文.md "wikilink")。
+    【<font color="#003399">』</font>】這種符號快捷鍵的輸入方式，符合[倚天中文的輸入習慣](https://zh.wikipedia.org/wiki/倚天中文 "wikilink")。
   - 支援相關字詞查詢（詞音輸入法）。
-  - 完整支援[Unicode](../Page/Unicode.md "wikilink")。
+  - 完整支援[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
   - 人性化的設定畫面。
   - 標點符號視窗(可自訂)。
   - 支援眾多的鍵盤排列方式。
   - 若輸入錯誤的字根時會自動警告，並可以退回修改。
   - 支援繁簡轉換，亦可「打繁出簡」。
-  - 支援[ROOT](../Page/ROOT.md "wikilink")、[OverTheSpot和](../Page/OverTheSpot.md "wikilink")[OnThe
-    Spot這三種顯示模示](../Page/OnThe_Spot.md "wikilink")(Linux下的[OnThe
-    Spot需使用gtk或qt](../Page/OnThe_Spot.md "wikilink") im-module)。
+  - 支援[ROOT](https://zh.wikipedia.org/wiki/ROOT "wikilink")、[OverTheSpot和](https://zh.wikipedia.org/wiki/OverTheSpot "wikilink")[OnThe
+    Spot這三種顯示模示](https://zh.wikipedia.org/wiki/OnThe_Spot "wikilink")(Linux下的[OnThe
+    Spot需使用gtk或qt](https://zh.wikipedia.org/wiki/OnThe_Spot "wikilink")
+    im-module)。
   - [在輸字游標處顯示輸入法狀態（OSD）](http://hyperrate.com/thread.php?tid=27555#27555)
 
 ## gcin內建的輸入法清單
@@ -65,7 +67,8 @@ Liu，是原xcin的開發者之一，gcin開發的目標是取代舊有的[xcin]
 
 ### 在進入 X Window 時自動啟動 gcin
 
-如果想在進入[X Window時自動啟動gcin](../Page/X_Window.md "wikilink")，可輸入以下指令：
+如果想在進入[X
+Window時自動啟動gcin](https://zh.wikipedia.org/wiki/X_Window "wikilink")，可輸入以下指令：
 
 >
 >
@@ -109,7 +112,7 @@ Liu，是原xcin的開發者之一，gcin開發的目標是取代舊有的[xcin]
 
 ### gcin 的 im-switch 設定
 
-[im-switch是](../Page/im-switch.md "wikilink")[Debian](../Page/Debian.md "wikilink")
+[im-switch是](https://zh.wikipedia.org/wiki/im-switch "wikilink")[Debian](../Page/Debian.md "wikilink")
 GNU/Linux為了能讓初學者方便入門所開發出來的一個特別套件，只要在安裝了im-switch的電腦上稍作設定就能快速設定好中文環境。
 
 gcin支援im-switch，只要將 \~/.xinput.d/default
@@ -140,7 +143,8 @@ gcin的操作方式和倚天中文相類：
 > = 在輸入法中切換。
 >
 > <font color="#993300">【Shift】</font>+<font color="#993300">【Space】</font>
-> = 切換 [全形](../Page/全形.md "wikilink")／[半形](../Page/半形.md "wikilink")。
+> = 切換
+> [全形](https://zh.wikipedia.org/wiki/全形 "wikilink")／[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")。
 >
 > <font color="#993300">【Ctrl】</font>+<font color="#993300">【Alt】</font>+<font color="#993300">【1】</font>
 > = 輸入法快捷鍵，切換為『<font color="#003399">倉頡輸入法</font>』。

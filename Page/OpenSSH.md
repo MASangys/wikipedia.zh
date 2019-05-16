@@ -1,14 +1,14 @@
-**OpenSSH**（****）是使用[SSH透過](../Page/SSH.md "wikilink")[計算機網路加密通訊的實現](../Page/計算機網路.md "wikilink")。它是取代由SSH
+**OpenSSH**（****）是使用[SSH透過](https://zh.wikipedia.org/wiki/SSH "wikilink")[計算機網路加密通訊的實現](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")。它是取代由SSH
 Communications
-Security所提供的商用版本的[開放原始碼方案](../Page/開放原始碼.md "wikilink")。目前OpenSSH是OpenBSD的子計畫。
+Security所提供的商用版本的[開放原始碼方案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。目前OpenSSH是OpenBSD的子計畫。
 
-OpenSSH常常被誤認以為與[OpenSSL有關聯](../Page/OpenSSL.md "wikilink")，但實際上這兩個計畫有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的[加密通訊軟體](../Page/加密通訊.md "wikilink")。
+OpenSSH常常被誤認以為與[OpenSSL有關聯](../Page/OpenSSL.md "wikilink")，但實際上這兩個計畫有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的[加密通訊軟體](https://zh.wikipedia.org/wiki/加密通訊 "wikilink")。
 
 ## 歷史
 
 OpenSSH是在1999年10月第一次在[OpenBSD](../Page/OpenBSD.md "wikilink")
 2.6裡出現，當初的計畫是取代由SSH Communications
-Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
+Security所提供的[SSH軟體](https://zh.wikipedia.org/wiki/SSH "wikilink")。
 
 发布历史：
 
@@ -39,7 +39,7 @@ Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
   - OpenSSH 5.1: 2008年7月21日
   - OpenSSH 5.0: 2008年4月3日
   - OpenSSH 4.9: 2008年3月30日
-      - 为[sshd加入](../Page/sshd.md "wikilink")[chroot](../Page/chroot.md "wikilink")
+      - 为[sshd加入](https://zh.wikipedia.org/wiki/sshd "wikilink")[chroot](https://zh.wikipedia.org/wiki/chroot "wikilink")
         支持
   - OpenSSH 4.7: 2007年9月4日
   - OpenSSH 4.6: 2007年3月9日
@@ -69,7 +69,7 @@ Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
 <!-- end list -->
 
   -
-    [rlogin與](../Page/rlogin.md "wikilink")[Telnet的替代方案](../Page/Telnet.md "wikilink")。
+    [rlogin與](https://zh.wikipedia.org/wiki/rlogin "wikilink")[Telnet的替代方案](../Page/Telnet.md "wikilink")。
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@ Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
 <!-- end list -->
 
   -
-    [SSH伺服器](../Page/SSH.md "wikilink")。
+    [SSH伺服器](https://zh.wikipedia.org/wiki/SSH "wikilink")。
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@ Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
 <!-- end list -->
 
   -
-    產生[RSA或](../Page/RSA.md "wikilink")[DSA](../Page/DSA.md "wikilink")[金鑰](../Page/金鑰.md "wikilink")，用來認證用。
+    產生[RSA或](https://zh.wikipedia.org/wiki/RSA "wikilink")[DSA](https://zh.wikipedia.org/wiki/DSA "wikilink")[金鑰](https://zh.wikipedia.org/wiki/金鑰 "wikilink")，用來認證用。
 
 <!-- end list -->
 
@@ -114,11 +114,11 @@ Security所提供的[SSH軟體](../Page/SSH.md "wikilink")。
 <!-- end list -->
 
   -
-    掃描一群[機器](../Page/機器.md "wikilink")，並记錄其[公鑰](../Page/公鑰.md "wikilink")。
+    掃描一群[機器](https://zh.wikipedia.org/wiki/機器 "wikilink")，並记錄其[公鑰](https://zh.wikipedia.org/wiki/公鑰 "wikilink")。
 
 ## 另请参阅
 
-  - [lsh](../Page/lsh.md "wikilink")
+  - [lsh](https://zh.wikipedia.org/wiki/lsh "wikilink")
 
 ## 外部連結
 

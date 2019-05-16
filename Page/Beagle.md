@@ -1,10 +1,10 @@
-**Beagle**是[GNOME的一个](../Page/GNOME.md "wikilink")[搜尋工具](../Page/搜尋工具.md "wikilink")，透過索引的建立可以快速搜索个人信息空间中的多种文件类型。目前已不再開發。
+**Beagle**是[GNOME的一个](../Page/GNOME.md "wikilink")[搜尋工具](https://zh.wikipedia.org/wiki/搜尋工具 "wikilink")，透過索引的建立可以快速搜索个人信息空间中的多种文件类型。目前已不再開發。
 
 ## 搜尋的範圍
 
   - 文件系统
-  - [Evolution邮件](../Page/Evolution.md "wikilink")，日历，地址簿
-  - [Gaim即时通讯和IRC日志](../Page/Gaim.md "wikilink")
+  - [Evolution邮件](https://zh.wikipedia.org/wiki/Evolution "wikilink")，日历，地址簿
+  - [Gaim即时通讯和IRC日志](https://zh.wikipedia.org/wiki/Gaim "wikilink")
   - [Firefox和Epiphany网页](../Page/Firefox.md "wikilink")
   - Blam和Liferea的RSS feed
   - Tomboy笔记
@@ -16,7 +16,7 @@
         xls, ppt）
       - AbiWord（abw）
       - Rich Text Format (rtf)
-      - [PDF](../Page/PDF.md "wikilink")
+      - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")
   - 文本文档
       - HTML (xhtml, html, htm)
       - Source code (C, C++, C\#, Fortran, Java, JavaScript, Lisp,

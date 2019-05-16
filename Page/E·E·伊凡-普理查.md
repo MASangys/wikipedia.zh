@@ -1,12 +1,12 @@
-**艾德華·伊凡·伊凡-普理查**爵士（，），[英國](../Page/英國.md "wikilink")[人類學家](../Page/人類學家.md "wikilink")，他結合[結構功能論以及自身在](../Page/結構功能論.md "wikilink")[東非的](../Page/東非.md "wikilink")[民族誌紀錄](../Page/民族誌.md "wikilink")，對[努爾人與](../Page/努爾人.md "wikilink")[亞桑地人的](../Page/亞桑地人.md "wikilink")[親屬制度與](../Page/親屬制度.md "wikilink")[巫術重新整理](../Page/巫術.md "wikilink")，進而重新開啟[西方文化重新詮釋](../Page/西方文化.md "wikilink")[原始社會](../Page/原始社會.md "wikilink")[心靈的理解](../Page/心靈.md "wikilink")
+**艾德華·伊凡·伊凡-普理查**爵士（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[人類學家](https://zh.wikipedia.org/wiki/人類學家 "wikilink")，他結合[結構功能論以及自身在](https://zh.wikipedia.org/wiki/結構功能論 "wikilink")[東非的](https://zh.wikipedia.org/wiki/東非 "wikilink")[民族誌紀錄](../Page/民族誌.md "wikilink")，對[努爾人與](https://zh.wikipedia.org/wiki/努爾人 "wikilink")[亞桑地人的](https://zh.wikipedia.org/wiki/亞桑地人 "wikilink")[親屬制度與](https://zh.wikipedia.org/wiki/親屬制度 "wikilink")[巫術重新整理](https://zh.wikipedia.org/wiki/巫術 "wikilink")，進而重新開啟[西方文化重新詮釋](../Page/西方文化.md "wikilink")[原始社會](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[心靈的理解](https://zh.wikipedia.org/wiki/心靈 "wikilink")
 
 ## 生平
 
-艾德華·伊凡普理查生於1902年的[廓市](../Page/廓市.md "wikilink")（Crowborough）
+艾德華·伊凡普理查生於1902年的[廓市](https://zh.wikipedia.org/wiki/廓市 "wikilink")（Crowborough）
 ，父親約翰·伊凡普理查（John
-Evans-Pritchard）是[聖公會的](../Page/聖公會.md "wikilink")[牧師](../Page/牧師.md "wikilink")。伊凡普理查在家中排行老二，並以母親桃樂絲·艾德華（Dorothea·Edward）之姓為名。
+Evans-Pritchard）是[聖公會的](https://zh.wikipedia.org/wiki/聖公會 "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")。伊凡普理查在家中排行老二，並以母親桃樂絲·艾德華（Dorothea·Edward）之姓為名。
 
-1916年伊凡普理查進入[温切斯特公学接受中學教育](../Page/溫徹斯特公學.md "wikilink")，並於1921年就讀[牛津大學埃克塞特學院](../Page/牛津大學埃克塞特學院.md "wikilink")。
+1916年伊凡普理查進入[温切斯特公学接受中學教育](https://zh.wikipedia.org/wiki/溫徹斯特公學 "wikilink")，並於1921年就讀[牛津大學埃克塞特學院](https://zh.wikipedia.org/wiki/牛津大學埃克塞特學院 "wikilink")。
 
 ## 理論與貢獻
 
@@ -30,8 +30,8 @@ Evans-Pritchard）是[聖公會的](../Page/聖公會.md "wikilink")[牧師](../
   - 1956 *Nuer Religion*. Oxford: Clarendon Press.
   - 1962 *Social Anthropology and Other Essays*. New York: The Free
     Press. [BBC Third
-    Programme](../Page/BBC_Third_Programme.md "wikilink") Lectures,
-    1950.
+    Programme](https://zh.wikipedia.org/wiki/BBC_Third_Programme "wikilink")
+    Lectures, 1950.
   - 1965 *Theories of Primitive Religion*. Oxford University Press. ISBN
     0-19-823131-8
   - 1967 *The Zande Trickster*. Oxford: Clarendon Press.

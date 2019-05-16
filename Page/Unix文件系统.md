@@ -1,4 +1,4 @@
-**Unix文件系统**（，縮寫為UFS），是一种[文件系统](../Page/文件系统.md "wikilink")，為许多[UNIX和](../Page/UNIX.md "wikilink")[类Unix操作系统所使用](../Page/类Unix.md "wikilink")。它也被称为**[伯克利快速文件系统](../Page/加州大學柏克萊分校.md "wikilink")**（Berkeley
+**Unix文件系统**（，縮寫為UFS），是一种[文件系统](../Page/文件系统.md "wikilink")，為许多[UNIX和](../Page/UNIX.md "wikilink")[类Unix操作系统所使用](https://zh.wikipedia.org/wiki/类Unix "wikilink")。它也被称为**[伯克利快速文件系统](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")**（Berkeley
 Fast File System），**[BSD快速文件系统](../Page/BSD.md "wikilink")**（BSD Fast
 File System），縮寫為**FFS**。
 

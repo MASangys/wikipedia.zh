@@ -1,4 +1,4 @@
-**EditPlus**是[Windows下的一个](../Page/Windows.md "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。支持[语法高亮](../Page/语法高亮.md "wikilink")，自动完成等功能。对[HTML文件编辑特别方便](../Page/HTML.md "wikilink")。可通过[FTP远程编辑](../Page/FTP.md "wikilink")。EditPlus由[韓國人Kim](../Page/大韓民國.md "wikilink")
+**EditPlus**是[Windows下的一个](https://zh.wikipedia.org/wiki/Windows "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。支持[语法高亮](https://zh.wikipedia.org/wiki/语法高亮 "wikilink")，自动完成等功能。对[HTML文件编辑特别方便](../Page/HTML.md "wikilink")。可通过[FTP远程编辑](https://zh.wikipedia.org/wiki/FTP "wikilink")。EditPlus由[韓國人Kim](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")
 Sang-il（）開發。
 
 ## 概述

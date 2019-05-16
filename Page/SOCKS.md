@@ -1,11 +1,11 @@
-**SOCKS**是一种[网络传输协议](../Page/网络传输协议.md "wikilink")，主要用于客户端与外网服务器之间通讯的中间传递。SOCKS是"SOCKetS"的[缩写](../Page/缩写.md "wikilink")。
+**SOCKS**是一种[网络传输协议](../Page/网络传输协议.md "wikilink")，主要用于客户端与外网服务器之间通讯的中间传递。SOCKS是"SOCKetS"的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。
 
-当[防火墙后的客户端要访问外部的服务器时](../Page/防火墙_\(网络\).md "wikilink")，就跟SOCKS[代理服务器连接](../Page/代理服务器.md "wikilink")。这个代理服务器控制客户端访问外网的资格，允许的话，就将客户端的请求发往外部的服务器。
+当[防火墙后的客户端要访问外部的服务器时](https://zh.wikipedia.org/wiki/防火墙_\(网络\) "wikilink")，就跟SOCKS[代理服务器连接](../Page/代理服务器.md "wikilink")。这个代理服务器控制客户端访问外网的资格，允许的话，就将客户端的请求发往外部的服务器。
 
 这个协议最初由David Koblas开发，而后由NEC的Ying-Da
 Lee将其扩展到版本4。最新协议是版本5，与前一版本相比，增加支持[UDP](../Page/用户数据报协议.md "wikilink")、验证，以及[IPv6](../Page/IPv6.md "wikilink")。
 
-根据[OSI模型](../Page/OSI模型.md "wikilink")，SOCKS是[会话层的协议](../Page/会话层.md "wikilink")，位于[表示层与](../Page/表示层.md "wikilink")[传输层之间](../Page/传输层.md "wikilink")。
+根据[OSI模型](../Page/OSI模型.md "wikilink")，SOCKS是[会话层的协议](../Page/会话层.md "wikilink")，位于[表示层与](https://zh.wikipedia.org/wiki/表示层 "wikilink")[传输层之间](../Page/传输层.md "wikilink")。
 
 ## 与HTTP代理的对比
 
@@ -218,17 +218,17 @@ SOCKS5请求格式（以字节为单位）：
 
 一般情况下应用程序会内嵌对SOCKS协议的支持。但**socksify**软件可强制使不支持SOCKS的应用通过代理联网。
 
-|                                                                                                                        |                                         |        |         |                                          |        |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------ | ------- | ---------------------------------------- | ------ |
-| 客户端                                                                                                                    | 许可证                                     | 版本     | 发布日期    | 平台                                       | 支持协议   |
-| **[Dante client](http://www.inet.no/dante/)**                                                                          | [BSD/CMU](../Page/BSD许可证.md "wikilink") | 1.1.18 | 09/2005 | Linux                                    | v4, v5 |
-| **[FreeCap](http://www.freecap.ru/eng/)**                                                                              | [GPL](../Page/GPL.md "wikilink")        | 3.18   | 02/2005 | Windows                                  | \-     |
-| **[Hummingbird socks](http://www.hummingbird.com/products/nc/socks/install_now.html)**                                 | \-                                      | \-     | \-      | Windows                                  | \-     |
-| **[ProxyCap](http://proxylabs.netwu.com/)**                                                                            | \-                                      | 2.03   | \-      | Windows                                  | \-     |
-| **[SocksCap](https://web.archive.org/web/20051106104123/http://socks.permeo.com/Download/SocksCapDownload/index.asp)** | Non-Comercial home use                  | \-     | \-      | \-                                       | v5     |
-| **[Super Socks5Cap](http://www.networktunnel.net/)**                                                                   | \-                                      | 1.5.3  | \-      | Windows                                  | \-     |
-| **[tsocks](http://tsocks.sourceforge.net/about.php)**                                                                  | GPL                                     | 1.8    | 10/2002 | \-                                       | \-     |
-| **[nylon](https://web.archive.org/web/20051106034218/http://monkey.org/~marius/pages/?page=nylon)**                    | \-                                      | \-     | 06/2003 | [OpenBSD](../Page/OpenBSD.md "wikilink") | \-     |
+|                                                                                                                        |                                                     |        |         |                                          |        |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------ | ------- | ---------------------------------------- | ------ |
+| 客户端                                                                                                                    | 许可证                                                 | 版本     | 发布日期    | 平台                                       | 支持协议   |
+| **[Dante client](http://www.inet.no/dante/)**                                                                          | [BSD/CMU](../Page/BSD许可证.md "wikilink")             | 1.1.18 | 09/2005 | Linux                                    | v4, v5 |
+| **[FreeCap](http://www.freecap.ru/eng/)**                                                                              | [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") | 3.18   | 02/2005 | Windows                                  | \-     |
+| **[Hummingbird socks](http://www.hummingbird.com/products/nc/socks/install_now.html)**                                 | \-                                                  | \-     | \-      | Windows                                  | \-     |
+| **[ProxyCap](http://proxylabs.netwu.com/)**                                                                            | \-                                                  | 2.03   | \-      | Windows                                  | \-     |
+| **[SocksCap](https://web.archive.org/web/20051106104123/http://socks.permeo.com/Download/SocksCapDownload/index.asp)** | Non-Comercial home use                              | \-     | \-      | \-                                       | v5     |
+| **[Super Socks5Cap](http://www.networktunnel.net/)**                                                                   | \-                                                  | 1.5.3  | \-      | Windows                                  | \-     |
+| **[tsocks](http://tsocks.sourceforge.net/about.php)**                                                                  | GPL                                                 | 1.8    | 10/2002 | \-                                       | \-     |
+| **[nylon](https://web.archive.org/web/20051106034218/http://monkey.org/~marius/pages/?page=nylon)**                    | \-                                                  | \-     | 06/2003 | [OpenBSD](../Page/OpenBSD.md "wikilink") | \-     |
 
 ## 注释
 
@@ -238,8 +238,9 @@ SOCKS5请求格式（以字节为单位）：
 
 ## 参见
 
-  - [SOCKS 4A](../Page/SOCKS_4A.md "wikilink") - SOCKS协议4A版
-  - [SocksCap](../Page/SocksCap.md "wikilink")
+  - [SOCKS 4A](https://zh.wikipedia.org/wiki/SOCKS_4A "wikilink") -
+    SOCKS协议4A版
+  - [SocksCap](https://zh.wikipedia.org/wiki/SocksCap "wikilink")
 
 ## 外部链接
 

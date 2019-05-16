@@ -1,17 +1,17 @@
-**Privoxy**是一款不进行[网页缓存且自带过滤功能的](../Page/网页快照.md "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")，针对[HTTP](../Page/超文本传输协议.md "wikilink")、[HTTPS协议](../Page/超文本传输安全协议.md "wikilink")。通过其过滤功能，用户可以保护隐私、对网页内容进行过滤、管理[Cookie](../Page/Cookie.md "wikilink")，以及拦阻各种广告等。Privoxy可以单机使用，也可以应用到多用户的网络。它也可以与其他代理相连（通常与[Squid一起使用](../Page/Squid_\(软件\).md "wikilink")），更可以突破[互联网审查](../Page/互联网审查.md "wikilink")。\[1\]
+**Privoxy**是一款不进行[网页缓存且自带过滤功能的](https://zh.wikipedia.org/wiki/网页快照 "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")，针对[HTTP](../Page/超文本传输协议.md "wikilink")、[HTTPS协议](../Page/超文本传输安全协议.md "wikilink")。通过其过滤功能，用户可以保护隐私、对网页内容进行过滤、管理[Cookie](../Page/Cookie.md "wikilink")，以及拦阻各种广告等。Privoxy可以单机使用，也可以应用到多用户的网络。它也可以与其他代理相连（通常与[Squid一起使用](../Page/Squid_\(软件\).md "wikilink")），更可以突破[互联网审查](../Page/互联网审查.md "wikilink")。\[1\]
 
 ## 历史
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Tor_TorCP_Privoxy_bundle_installation_choose_components.png "fig:缩略图")
 Privoxy基于Internet
 Junkbuster，按照[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）进行发布。可以在[Linux](../Page/Linux.md "wikilink")、[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[MacOS](../Page/MacOS.md "wikilink")、[AmigaOS](../Page/AmigaOS.md "wikilink")、[BeOS以及大多数](../Page/BeOS.md "wikilink")[类Unix系统上运行](../Page/类Unix系统.md "wikilink")。基本上所有[网页浏览器均可使用Privoxy](../Page/网页浏览器.md "wikilink")。此软件当前托管在[SourceForge上](../Page/SourceForge.md "wikilink")。\[2\]Tor项目曾将Privoxy与[Tor捆绑在一起](../Page/洋葱路由器.md "wikilink")，但2010年起他们推行自己的内部Tor浏览器计划，不再推崇第三方代理。若人工配置正确，Privoxy仍能正常使用。对于没有原生支持[SOCKS代理的第三方非浏览器应用程序而言](../Page/SOCKS.md "wikilink")，仍然推荐使用Privoxy。\[3\]
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[MacOS](../Page/MacOS.md "wikilink")、[AmigaOS](../Page/AmigaOS.md "wikilink")、[BeOS以及大多数](../Page/BeOS.md "wikilink")[类Unix系统上运行](../Page/类Unix系统.md "wikilink")。基本上所有[网页浏览器均可使用Privoxy](../Page/网页浏览器.md "wikilink")。此软件当前托管在[SourceForge上](../Page/SourceForge.md "wikilink")。\[2\]Tor项目曾将Privoxy与[Tor捆绑在一起](https://zh.wikipedia.org/wiki/洋葱路由器 "wikilink")，但2010年起他们推行自己的内部Tor浏览器计划，不再推崇第三方代理。若人工配置正确，Privoxy仍能正常使用。对于没有原生支持[SOCKS代理的第三方非浏览器应用程序而言](../Page/SOCKS.md "wikilink")，仍然推荐使用Privoxy。\[3\]
 
 ## 评价
 
 的沙香克·沙尔玛（Shashank
 Sharma）给了Privoxy以9/10星的评价并说：“Privoxy有着高度自定义性、简单的配置流程和良好的软件文档并且使用它很有乐趣。用它吧！”\[4\][PC
-World的埃雷兹](../Page/PC_World.md "wikilink")·祖克曼（Erez
+World的埃雷兹](https://zh.wikipedia.org/wiki/PC_World "wikilink")·祖克曼（Erez
 Zukerman）给了Privoxy以4/5星的评价并称它虽然很复杂但是功能十分强大。 \[5\]的米歇尔·练（Michelle
 Delio）称Privoxy是“保护个人隐私的绝佳方法”。\[6\]
 
@@ -22,13 +22,13 @@ Agent），从而隐藏用户上一个查看的网页和用户正在使用的浏
 
 移除[网络广告](../Page/网络广告.md "wikilink")（可用[Adblock
 Plus或](../Page/Adblock_Plus.md "wikilink")[uBlock
-Origin替代](../Page/uBlock_Origin.md "wikilink")）
+Origin替代](https://zh.wikipedia.org/wiki/uBlock_Origin "wikilink")）
 
 ## 参见
 
   - [網頁伺服器比較](../Page/網頁伺服器比較.md "wikilink")
 
-  - [内容控制软件](../Page/内容控制软件.md "wikilink")
+  - [内容控制软件](https://zh.wikipedia.org/wiki/内容控制软件 "wikilink")
 
   - 担任基于主机的HTTP加速服务的
 

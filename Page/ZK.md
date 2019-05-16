@@ -1,12 +1,12 @@
-**ZK**是一套以[AJAX](../Page/AJAX.md "wikilink")／[XUL](../Page/XUL.md "wikilink")／[Java为基础的网页应用程序开发框架](../Page/Java.md "wikilink")，用于丰富网页应用程序的使用界面。最大的好处是，在设计[AJAX网络应用程序时](../Page/AJAX.md "wikilink")，轻松简便的操作就像在设计桌面程序一样。ZK包含了一个以AJAX为基础、[事件驱动](../Page/事件驱动.md "wikilink")（event-driven）、高互动性的引擎，同时还提供了多样丰富、可重复使用的XUL与[HTML组件](../Page/HTML.md "wikilink")，以及以[XML为基础的使用介面设计语言ZK](../Page/XML.md "wikilink")
+**ZK**是一套以[AJAX](../Page/AJAX.md "wikilink")／[XUL](../Page/XUL.md "wikilink")／[Java为基础的网页应用程序开发框架](../Page/Java.md "wikilink")，用于丰富网页应用程序的使用界面。最大的好处是，在设计[AJAX网络应用程序时](../Page/AJAX.md "wikilink")，轻松简便的操作就像在设计桌面程序一样。ZK包含了一个以AJAX为基础、[事件驱动](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")（event-driven）、高互动性的引擎，同时还提供了多样丰富、可重复使用的XUL与[HTML组件](../Page/HTML.md "wikilink")，以及以[XML为基础的使用介面设计语言ZK](../Page/XML.md "wikilink")
 User-interfaces Markup Language（ZUML）。
 
 ZK提供超过120个XUL组件及80个[XHTML组件](../Page/XHTML.md "wikilink")。举凡listbox,
 slider, audio, slider, tree, combobox, tabbox,
 auto-completion等均有支援。ZK亦提供CKeditor和[Google
-Maps的组件](../Page/Google_Maps.md "wikilink")，让使用者直接以Java控制，无须使用[JavaScript](../Page/JavaScript.md "wikilink")。
+Maps的组件](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")，让使用者直接以Java控制，无须使用[JavaScript](../Page/JavaScript.md "wikilink")。
 
-ZK是一套[开放源码](../Page/开放源码.md "wikilink")、相容于XUL/HTML标准、Java写成的开发工具。
+ZK是一套[开放源码](https://zh.wikipedia.org/wiki/开放源码 "wikilink")、相容于XUL/HTML标准、Java写成的开发工具。
 
 ## ZK 3.6.2
 
@@ -22,7 +22,7 @@ App Engine和强化初始化的参数。
 
 于2010年1月26日发布的正式版ZK
 5着重于ZK的「开发者中心」模式，它结合了用户端与服务端的特点，提供一个完全革新的架构。除了架构上的革新，ZK
-5也新增了许多功能，并针对旧有功能做了技术上的提升。此外，它还整合了[jQuery与Java](../Page/jQuery.md "wikilink")
+5也新增了许多功能，并针对旧有功能做了技术上的提升。此外，它还整合了[jQuery与Java](https://zh.wikipedia.org/wiki/jQuery "wikilink")
 EE 6 CDI，并强调企业级应用程序的支援。
 
 ## ZK 6.0/ZK 6.5

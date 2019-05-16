@@ -1,13 +1,13 @@
 [Usemod_logo.svg](https://zh.wikipedia.org/wiki/File:Usemod_logo.svg "fig:Usemod_logo.svg")
 **UseModWiki**（Usenet Moderation Project (Usemod)）是Clifford Adams
-所開發的[Wiki引擎](../Page/Wiki引擎.md "wikilink")，它採用[Perl做為開發的程式語言](../Page/Perl.md "wikilink")，它最大的特點是不使用任何的資料庫管理系統來儲存頁面內容，任何的新增頁面都直接儲存於檔案系統內，[維基百科曾採用UseModWiki做為所有語言版本的](../Page/維基百科.md "wikilink")[Wiki引擎](../Page/Wiki引擎.md "wikilink")，之後才自行開發[MediaWiki做為現有的介面](../Page/MediaWiki.md "wikilink")。
+所開發的[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，它採用[Perl做為開發的程式語言](../Page/Perl.md "wikilink")，它最大的特點是不使用任何的資料庫管理系統來儲存頁面內容，任何的新增頁面都直接儲存於檔案系統內，[維基百科曾採用UseModWiki做為所有語言版本的](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，之後才自行開發[MediaWiki做為現有的介面](../Page/MediaWiki.md "wikilink")。
 
 ## 歷史回顧
 
-回顧UseModWiki的發展歷史，其源頭是來自[沃德·坎宁安的](../Page/沃德·坎宁安.md "wikilink")[WikiWikiWeb](../Page/WikiWikiWeb.md "wikilink")，首先是[Peter
-Merel依據了WikiWikiWeb的原始碼而撰寫成為](../Page/Peter_Merel.md "wikilink")[CVWiki](../Page/CVWiki.md "wikilink")，其次[Markus
-Denker再修改CVWiki開發為](../Page/Markus_Denker.md "wikilink")[AtisWiki](../Page/AtisWiki.md "wikilink")，最後[Clifford
-Adams再根據AtisWiki修改成為UseModWiki](../Page/Clifford_Adams.md "wikilink")，
+回顧UseModWiki的發展歷史，其源頭是來自[沃德·坎宁安的](../Page/沃德·坎宁安.md "wikilink")[WikiWikiWeb](https://zh.wikipedia.org/wiki/WikiWikiWeb "wikilink")，首先是[Peter
+Merel依據了WikiWikiWeb的原始碼而撰寫成為](https://zh.wikipedia.org/wiki/Peter_Merel "wikilink")[CVWiki](https://zh.wikipedia.org/wiki/CVWiki "wikilink")，其次[Markus
+Denker再修改CVWiki開發為](https://zh.wikipedia.org/wiki/Markus_Denker "wikilink")[AtisWiki](https://zh.wikipedia.org/wiki/AtisWiki "wikilink")，最後[Clifford
+Adams再根據AtisWiki修改成為UseModWiki](https://zh.wikipedia.org/wiki/Clifford_Adams "wikilink")，
 
 ## 功能特色
 
@@ -15,7 +15,7 @@ Adams再根據AtisWiki修改成為UseModWiki](../Page/Clifford_Adams.md "wikilin
   - 不需要任何的延伸擴充程式
   - 所有的變數都直接撰寫於程式碼中
   - 頁面直接儲存於檔案系統
-  - 採用[CamelCase的連結樣式](../Page/CamelCase.md "wikilink")
+  - 採用[CamelCase的連結樣式](https://zh.wikipedia.org/wiki/CamelCase "wikilink")
   - 可透過對照表而修改其顯示語言
 
 ## 版本演進

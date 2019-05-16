@@ -1,14 +1,14 @@
 [GVonline.jpg](https://zh.wikipedia.org/wiki/File:GVonline.jpg "fig:GVonline.jpg")
 
-是由[日本](../Page/日本.md "wikilink")[光荣](../Page/光榮公司.md "wikilink")（KOEI）于2004年开发并进行公测的[MMORPG类网络版游戏](../Page/MMORPG.md "wikilink")，是被誉为经典的单机版[模拟类游戏](../Page/模拟类游戏.md "wikilink")《[大航海时代](../Page/大航海时代_\(游戏\).md "wikilink")》系列的续编。
+是由[日本](../Page/日本.md "wikilink")[光荣](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")（KOEI）于2004年开发并进行公测的[MMORPG类网络版游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，是被誉为经典的单机版[模拟类游戏](https://zh.wikipedia.org/wiki/模拟类游戏 "wikilink")《[大航海时代](https://zh.wikipedia.org/wiki/大航海时代_\(游戏\) "wikilink")》系列的续编。
 
 ## 故事背景
 
-遊戲設定在公元16世紀的[大航海時代](../Page/大航海時代_\(地理\).md "wikilink")，歐洲的六個國家──[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](../Page/英格蘭王國.md "wikilink")、[法蘭西](../Page/法蘭西.md "wikilink")、[荷蘭及](../Page/荷蘭.md "wikilink")[威尼斯為了開闢往](../Page/威尼斯.md "wikilink")[印度和](../Page/印度.md "wikilink")[美洲以及](../Page/美洲.md "wikilink")[遠東的新航路而進行海上的探索](../Page/遠東.md "wikilink")，而一些敵對陣營如[鄂圖曼帝國也會出現](../Page/鄂圖曼帝國.md "wikilink")。遊戲故事以史實為藍本，加入一些虛構的人物作為遊戲故事的中心，當中亦不乏一些著名的歷史人物如[哥倫布](../Page/哥倫布.md "wikilink")、[達·伽馬及](../Page/達·伽馬.md "wikilink")[伊莉沙白一世等](../Page/伊莉莎白一世_\(英格蘭\).md "wikilink")。在此，玩家可以自由選擇以上六國之一的航海者，並向未知而遙遠的新航路揚帆。除了探險外，玩家亦可以進行海上貿易及海戰。遊戲中不但有數百種世界各地的特產交易商品，讓玩家仿若置身16世紀，體驗大航海時代燦爛的商業之旅；數百個真實港口，上千種冒險任務，讓玩家能置身上千個歷史史詩之中；近百種船艦，也是忠實的呈現當時的面貌。本遊戲曾被選為[東京大學的研究課題](../Page/東京大學.md "wikilink")\[1\]。
+遊戲設定在公元16世紀的[大航海時代](https://zh.wikipedia.org/wiki/大航海時代_\(地理\) "wikilink")，歐洲的六個國家──[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯為了開闢往](../Page/威尼斯.md "wikilink")[印度和](../Page/印度.md "wikilink")[美洲以及](../Page/美洲.md "wikilink")[遠東的新航路而進行海上的探索](../Page/遠東.md "wikilink")，而一些敵對陣營如[鄂圖曼帝國也會出現](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。遊戲故事以史實為藍本，加入一些虛構的人物作為遊戲故事的中心，當中亦不乏一些著名的歷史人物如[哥倫布](https://zh.wikipedia.org/wiki/哥倫布 "wikilink")、[達·伽馬及](https://zh.wikipedia.org/wiki/達·伽馬 "wikilink")[伊莉沙白一世等](https://zh.wikipedia.org/wiki/伊莉莎白一世_\(英格蘭\) "wikilink")。在此，玩家可以自由選擇以上六國之一的航海者，並向未知而遙遠的新航路揚帆。除了探險外，玩家亦可以進行海上貿易及海戰。遊戲中不但有數百種世界各地的特產交易商品，讓玩家仿若置身16世紀，體驗大航海時代燦爛的商業之旅；數百個真實港口，上千種冒險任務，讓玩家能置身上千個歷史史詩之中；近百種船艦，也是忠實的呈現當時的面貌。本遊戲曾被選為[東京大學的研究課題](https://zh.wikipedia.org/wiki/東京大學 "wikilink")\[1\]。
 
 ## 遊戲系統
 
-玩家可以因應自己的喜好選擇[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](../Page/英格蘭王國.md "wikilink")、[法蘭西](../Page/法蘭西.md "wikilink")、[荷蘭及](../Page/荷蘭.md "wikilink")[威尼斯共和國六國其中之一作為出生地](../Page/威尼斯共和國.md "wikilink")，敵對陣營的[鄂圖曼帝國則需以叛國亡命方式才能入籍](../Page/鄂圖曼帝國.md "wikilink")。當玩家選擇了國籍後，便會在此六國的首都──[里斯本](../Page/里斯本.md "wikilink")、[塞維爾](../Page/塞維爾.md "wikilink")、[倫敦](../Page/倫敦.md "wikilink")、[馬賽](../Page/馬賽.md "wikilink")、[阿姆斯特丹及](../Page/阿姆斯特丹.md "wikilink")[威尼斯開始遊戲](../Page/威尼斯.md "wikilink")，鄂圖曼的首都則是[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")。此外，玩家在一開始時可以選擇三種不同的職業──[冒險家](../Page/冒險家.md "wikilink")、[商人及](../Page/商人.md "wikilink")[軍人](../Page/軍人.md "wikilink")。雖然有職業上的選擇，但玩家仍可以習得其他職業的技能作為輔助，更可以進行職業轉換（需進行特定任務）。而玩家在探險海洋的同時，也會探索其他事物諸如歷史遺物或寶藏等，而海上貿易及海戰也供玩家進行。另一方面，官方也會定期舉辦各國玩家之間混戰的「大海戰」，在特定海域，玩家之間更可以展開對戰；“大投資戰”，大幅度的投資，給予玩家快速獲取聲望的途徑，所在港口也得到快速發展；冒險家們的聚會──“卡片論戰”，讓玩家“紙上談兵”。
+玩家可以因應自己的喜好選擇[葡萄牙](../Page/葡萄牙.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[英格蘭](https://zh.wikipedia.org/wiki/英格蘭王國 "wikilink")、[法蘭西](https://zh.wikipedia.org/wiki/法蘭西 "wikilink")、[荷蘭及](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[威尼斯共和國六國其中之一作為出生地](https://zh.wikipedia.org/wiki/威尼斯共和國 "wikilink")，敵對陣營的[鄂圖曼帝國則需以叛國亡命方式才能入籍](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。當玩家選擇了國籍後，便會在此六國的首都──[里斯本](../Page/里斯本.md "wikilink")、[塞維爾](https://zh.wikipedia.org/wiki/塞維爾 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[阿姆斯特丹及](../Page/阿姆斯特丹.md "wikilink")[威尼斯開始遊戲](../Page/威尼斯.md "wikilink")，鄂圖曼的首都則是[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")。此外，玩家在一開始時可以選擇三種不同的職業──[冒險家](https://zh.wikipedia.org/wiki/冒險家 "wikilink")、[商人及](../Page/商人.md "wikilink")[軍人](https://zh.wikipedia.org/wiki/軍人 "wikilink")。雖然有職業上的選擇，但玩家仍可以習得其他職業的技能作為輔助，更可以進行職業轉換（需進行特定任務）。而玩家在探險海洋的同時，也會探索其他事物諸如歷史遺物或寶藏等，而海上貿易及海戰也供玩家進行。另一方面，官方也會定期舉辦各國玩家之間混戰的「大海戰」，在特定海域，玩家之間更可以展開對戰；“大投資戰”，大幅度的投資，給予玩家快速獲取聲望的途徑，所在港口也得到快速發展；冒險家們的聚會──“卡片論戰”，讓玩家“紙上談兵”。
 
 ## 國家劇情
 
@@ -18,28 +18,28 @@
 
   -
     **西方的軍事大國**
-    自[收復失地運動以來](../Page/收復失地運動.md "wikilink")，西班牙統一不足數十年。但在這段期間，西班牙已經走上海上霸權的道路，並支配著廣大的領地如[荷蘭等](../Page/荷蘭.md "wikilink")。
+    自[收復失地運動以來](../Page/收復失地運動.md "wikilink")，西班牙統一不足數十年。但在這段期間，西班牙已經走上海上霸權的道路，並支配著廣大的領地如[荷蘭等](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。
 
 <!-- end list -->
 
   - **巴爾特薩爾**：38歲，西班牙主線故事的主人翁，西班牙黑鯱傭兵艦隊隊長。為了追逐巴巴里海盜首領海雷丁而率領艦隊對抗之。
   - **艾德瓦多**：20歲，黑鯱艦隊新隊長。曾經為巴爾特薩爾的追隨者。
   - **阿格斯蒂諾**：39歲，西班牙官員。為巴爾特薩爾的戰友。
-  - **[海雷丁·巴巴羅薩](../Page/海雷丁·巴巴羅薩.md "wikilink")**：38歲，歷史人物。巴巴里海盜的首領，並在[阿爾及爾建立海盜基地](../Page/阿爾及爾.md "wikilink")，成為[鄂圖曼帝國的附屬](../Page/鄂圖曼帝國.md "wikilink")。
-  - **伊萊諾**：29歲，[馬賽的酒館女郎](../Page/馬賽.md "wikilink")。她成為了很多冒險者所追求的對象。
+  - **[海雷丁·巴巴羅薩](https://zh.wikipedia.org/wiki/海雷丁·巴巴羅薩 "wikilink")**：38歲，歷史人物。巴巴里海盜的首領，並在[阿爾及爾建立海盜基地](../Page/阿爾及爾.md "wikilink")，成為[鄂圖曼帝國的附屬](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
+  - **伊萊諾**：29歲，[馬賽的酒館女郎](https://zh.wikipedia.org/wiki/馬賽 "wikilink")。她成為了很多冒險者所追求的對象。
 
 ### 葡萄牙
 
   -
     **遠洋航海的先驅者**
-    作為一個濱臨[大西洋的國家](../Page/大西洋.md "wikilink")，葡萄牙的海上探險事業為六國之中最早發展，如它成為最早到達[南非](../Page/南非.md "wikilink")[好望角](../Page/好望角.md "wikilink")，以及最早開闢印度航線的國家。雖然如此，但它也面對著與鄰國西班牙的競爭。
+    作為一個濱臨[大西洋的國家](../Page/大西洋.md "wikilink")，葡萄牙的海上探險事業為六國之中最早發展，如它成為最早到達[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[好望角](../Page/好望角.md "wikilink")，以及最早開闢印度航線的國家。雖然如此，但它也面對著與鄰國西班牙的競爭。
 
 <!-- end list -->
 
   - **阿爾貝羅·薩爾摩安特**：17歲，葡萄牙主線故事的主人翁，一名葡萄牙少年，葡萄牙薩爾摩安特商會會長之子。年紀輕輕的他已經通過印度航線到達印度進行貿易，志願是成為一個像父親般的交易商。
   - **迪亞哥·薩爾摩安特**：42歲，葡萄牙薩爾摩安特商會會長。為葡萄牙國內著名的交易商人。
   - **胡安**：10歲，一名跟隨阿爾貝羅進行旅程的少年。
-  - **[瓦斯科·達·伽馬](../Page/瓦斯科·達·伽馬.md "wikilink")**：28歲，歷史人物。他是第一個發現印度航線的人，更因此成為葡萄牙的國家英雄。
+  - **[瓦斯科·達·伽馬](https://zh.wikipedia.org/wiki/瓦斯科·達·伽馬 "wikilink")**：28歲，歷史人物。他是第一個發現印度航線的人，更因此成為葡萄牙的國家英雄。
   - **桑傑伊**：18歲，一名印度香料交易商。
 
 ### 英格蘭
@@ -54,8 +54,8 @@
   - **格爾頓**：40歲，萊薩的副官，已經為密德爾頓家族服務十四年。他一直保護萊薩，並在多次事件中協助萊薩。
   - **威廉·密德爾頓**：29歲，密德爾頓家族之主。曾經作為海盜的威廉，與其妹萊薩一同進入海軍服務，名聲日漸興隆。此外，他更與荷蘭著名運輸商佛雷德瑞克保持著友好關係。
   - **克林格利奧伯爵**：45歲，英格蘭海軍的首領，但他與西班牙有所連絡，並密謀摧毀英格蘭海軍。
-  - **馬克格萊爾**：35歲，英格蘭一直通緝的大海盜。萊薩在[東非擊敗他後](../Page/東非.md "wikilink")，便一直跟隨密德爾頓家，並為英女王效力。
-  - **[伊莉沙白一世](../Page/伊莉莎白一世_\(英格蘭\).md "wikilink")**：歷史人物。在她在位的期間，英格蘭開始走向強大，最終更擊敗西班牙的[無敵艦隊](../Page/無敵艦隊.md "wikilink")，建立英格蘭的「黃金時代」。
+  - **馬克格萊爾**：35歲，英格蘭一直通緝的大海盜。萊薩在[東非擊敗他後](https://zh.wikipedia.org/wiki/東非 "wikilink")，便一直跟隨密德爾頓家，並為英女王效力。
+  - **[伊莉沙白一世](https://zh.wikipedia.org/wiki/伊莉莎白一世_\(英格蘭\) "wikilink")**：歷史人物。在她在位的期間，英格蘭開始走向強大，最終更擊敗西班牙的[無敵艦隊](https://zh.wikipedia.org/wiki/無敵艦隊 "wikilink")，建立英格蘭的「黃金時代」。
 
 ### 荷蘭
 
@@ -90,7 +90,7 @@
 
   -
     **夕陽的都市國家**
-    威尼斯為義大利半島的一個城邦共和國，有「水城」之美譽。作為六國之中最接近東方的國家，威尼斯壟斷了來自[亞歷山大港的少量](../Page/亞歷山大港.md "wikilink")[胡椒](../Page/胡椒.md "wikilink")，令胡椒價格非常昂貴。可是，自東方[鄂圖曼土耳其帝國的崛起](../Page/鄂圖曼土耳其帝國.md "wikilink")，以及[葡萄牙發現到達印度的新航線後](../Page/葡萄牙.md "wikilink")，威尼斯在地中海的壟斷走向未路……
+    威尼斯為義大利半島的一個城邦共和國，有「水城」之美譽。作為六國之中最接近東方的國家，威尼斯壟斷了來自[亞歷山大港的少量](https://zh.wikipedia.org/wiki/亞歷山大港 "wikilink")[胡椒](https://zh.wikipedia.org/wiki/胡椒 "wikilink")，令胡椒價格非常昂貴。可是，自東方[鄂圖曼土耳其帝國的崛起](https://zh.wikipedia.org/wiki/鄂圖曼土耳其帝國 "wikilink")，以及[葡萄牙發現到達印度的新航線後](../Page/葡萄牙.md "wikilink")，威尼斯在地中海的壟斷走向未路……
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 ### La Frontera
 
-[加勒比海](../Page/加勒比海.md "wikilink")、[中美洲](../Page/中美洲.md "wikilink")、[南美洲東岸和](../Page/南美洲.md "wikilink")[東南亞地方開放](../Page/東南亞.md "wikilink")。
+[加勒比海](../Page/加勒比海.md "wikilink")、[中美洲](../Page/中美洲.md "wikilink")、[南美洲東岸和](../Page/南美洲.md "wikilink")[東南亞地方開放](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。
 
   - 第一章 阿茲特克
   - 第二章 吳哥王朝
@@ -112,12 +112,13 @@
 
 ### Cruz del Sur
 
-[太平洋](../Page/太平洋.md "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[南美洲西岸地方開放](../Page/南美洲.md "wikilink")。
+[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[南美洲西岸地方開放](../Page/南美洲.md "wikilink")。
 
-  - 第一章 環遊世界篇 — 以[麥哲倫環球航行作背景](../Page/麥哲倫.md "wikilink")，環绕地球一週航行。
+  - 第一章 環遊世界篇 —
+    以[麥哲倫環球航行作背景](https://zh.wikipedia.org/wiki/麥哲倫 "wikilink")，環绕地球一週航行。
       - 關鍵人物－**艾蓮娜**： 環遊世界篇的主角，跟随玩家在船上，是麥哲倫的養女。
       - 關鍵人物－**迪亞哥‧巴柏沙**： 艾蓮娜的爺爺。
-      - 關鍵人物－**[埃爾卡諾](../Page/埃爾卡諾.md "wikilink")**：
+      - 關鍵人物－**[埃爾卡諾](https://zh.wikipedia.org/wiki/埃爾卡諾 "wikilink")**：
         曾是麥哲倫艦隊的其中一員。處心積慮想除掉艾蓮娜。
   - 第二章 特殊裝飾物篇 — 加入寵物系統及冒險發現物裝飾品製作。
   - 第三章 歡度周年慶篇
@@ -126,12 +127,13 @@
       - 關鍵人物－**舒萊登華爾德**： 盜賊騎士。
       - 關鍵人物－**[法蘭西斯科·皮薩羅](../Page/法蘭西斯克·皮澤洛.md "wikilink")**：
         [征服者](../Page/征服者.md "wikilink")。
-  - 第五章 鄂圖曼的威脅篇 — 開放亡命至[鄂圖曼帝國](../Page/鄂圖曼帝國.md "wikilink")。
+  - 第五章 鄂圖曼的威脅篇 —
+    開放亡命至[鄂圖曼帝國](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")。
   - 號外章 探索之旅篇
 
 ### El Oriente
 
-[東亞地方開放](../Page/東亞.md "wikilink")。
+[東亞地方開放](https://zh.wikipedia.org/wiki/東亞 "wikilink")。
 
   - 東方、奇蹟之島－[臺灣](../Page/臺灣.md "wikilink")
       - 關鍵人物－[鄭成功](../Page/鄭成功.md "wikilink")。
@@ -143,8 +145,8 @@
 
 <!-- end list -->
 
-  - 東方、朝之寂靜－[朝鮮](../Page/朝鮮.md "wikilink")
-      - 關鍵人物－[李舜臣](../Page/李舜臣_\(朝鮮\).md "wikilink")。
+  - 東方、朝之寂靜－[朝鮮](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")
+      - 關鍵人物－[李舜臣](https://zh.wikipedia.org/wiki/李舜臣_\(朝鮮\) "wikilink")。
 
 <!-- end list -->
 
@@ -153,7 +155,7 @@
 
 ### Tierra Americana
 
-[北美地方開放作為自由開發地](../Page/北美.md "wikilink")。
+[北美地方開放作為自由開發地](https://zh.wikipedia.org/wiki/北美 "wikilink")。
 
 ### 2nd Age
 
@@ -162,30 +164,30 @@
 <!-- end list -->
 
   - 第一章 雙頭之鷲
-      - 新增NPC國家－[Banner_of_the_Holy_Roman_Emperor_(after_1400).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_\(after_1400\).svg "fig:Banner_of_the_Holy_Roman_Emperor_(after_1400).svg")[神聖羅馬帝國](../Page/神聖羅馬帝國.md "wikilink")，新增[法蘭克福為其城市](../Page/法蘭克福.md "wikilink")
+      - 新增NPC國家－[Banner_of_the_Holy_Roman_Emperor_(after_1400).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_\(after_1400\).svg "fig:Banner_of_the_Holy_Roman_Emperor_(after_1400).svg")[神聖羅馬帝國](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")，新增[法蘭克福為其城市](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")
       - 新系統－世界時鐘、尋寶、霸主
       - 歷史事件－16世紀
-      - 關鍵人物－[Banner_of_the_Holy_Roman_Emperor_(after_1400).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_\(after_1400\).svg "fig:Banner_of_the_Holy_Roman_Emperor_(after_1400).svg")[查理五世](../Page/查理五世_\(神聖羅馬帝國\).md "wikilink")
+      - 關鍵人物－[Banner_of_the_Holy_Roman_Emperor_(after_1400).svg](https://zh.wikipedia.org/wiki/File:Banner_of_the_Holy_Roman_Emperor_\(after_1400\).svg "fig:Banner_of_the_Holy_Roman_Emperor_(after_1400).svg")[查理五世](https://zh.wikipedia.org/wiki/查理五世_\(神聖羅馬帝國\) "wikilink")
       - 開放75等級上限
 
 <!-- end list -->
 
   - 第二章 獅鷲之翼
-      - 新增NPC國家－[熱那亞共和國](../Page/熱那亞共和國.md "wikilink")，[熱那亞改為其城市](../Page/熱那亞.md "wikilink")
+      - 新增NPC國家－[熱那亞共和國](https://zh.wikipedia.org/wiki/熱那亞共和國 "wikilink")，[熱那亞改為其城市](https://zh.wikipedia.org/wiki/熱那亞 "wikilink")
       - 歷史事件－15世紀
-      - 關鍵人物－[魯克蕾齊亞·波吉亞](../Page/魯克蕾齊亞·波吉亞.md "wikilink")
+      - 關鍵人物－[魯克蕾齊亞·波吉亞](https://zh.wikipedia.org/wiki/魯克蕾齊亞·波吉亞 "wikilink")
 
 <!-- end list -->
 
   - 第三章 征服帝
       - 歷史事件－15～16世紀
-      - 新增補給港口－[夏威夷](../Page/夏威夷.md "wikilink")
-      - 關鍵人物－[切薩雷·博吉亞](../Page/切薩雷·博吉亞.md "wikilink")
+      - 新增補給港口－[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")
+      - 關鍵人物－[切薩雷·博吉亞](https://zh.wikipedia.org/wiki/切薩雷·博吉亞 "wikilink")
 
 <!-- end list -->
 
   - 第四章 北方之獅
-      - 新增NPC國家－[瑞典王國](../Page/瑞典王國.md "wikilink")，[斯德哥爾摩改為其城市](../Page/斯德哥爾摩.md "wikilink")
+      - 新增NPC國家－[瑞典王國](https://zh.wikipedia.org/wiki/瑞典王國 "wikilink")，[斯德哥爾摩改為其城市](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")
       - 歷史事件－15～17世紀
       - 關鍵人物－[古斯塔夫二世·阿道夫](../Page/古斯塔夫二世·阿道夫.md "wikilink")、[克里斯蒂娜](../Page/克里斯蒂娜女王.md "wikilink")
       - 新增城市－[科科拉](../Page/科科拉.md "wikilink")，夏威夷轉為正式城市
@@ -193,7 +195,7 @@
 ### Gran Atlas
 
   - 第一章 Gran Atlas
-      - 新增NPC國家－[俄羅斯帝國](../Page/俄羅斯帝國.md "wikilink")，新增[聖彼得堡為其城市](../Page/聖彼得堡.md "wikilink")
+      - 新增NPC國家－[俄羅斯帝國](https://zh.wikipedia.org/wiki/俄羅斯帝國 "wikilink")，新增[聖彼得堡為其城市](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")
       - 歷史事件－18世紀
       - 關鍵人物－[索非亞](../Page/叶卡捷琳娜二世.md "wikilink")、[亨利·摩根](../Page/亨利·摩根.md "wikilink")、
 
@@ -210,12 +212,12 @@
 <!-- end list -->
 
   - 第四章 Ancient Glory
-      - 新增[巴比倫](../Page/巴比倫.md "wikilink")
+      - 新增[巴比倫](https://zh.wikipedia.org/wiki/巴比倫 "wikilink")
 
 <!-- end list -->
 
   - 亞特蘭提斯篇第一章 Kino Minos
-      - [亞特蘭提斯相關劇情](../Page/亞特蘭提斯.md "wikilink")
+      - [亞特蘭提斯相關劇情](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")
 
 <!-- end list -->
 
@@ -231,9 +233,9 @@
 
 ### 中国大陆
 
-  - 2006年6月1日－2007年9月2日，[盛宣鸣代理](../Page/盛宣鸣.md "wikilink")。
-  - 2007年10月30日－2010年11月26日，[中荣巡游代理](../Page/中荣巡游.md "wikilink")。
-  - 2012年10月18日－至今，[上海天戏代理](../Page/上海天戏.md "wikilink")。
+  - 2006年6月1日－2007年9月2日，[盛宣鸣代理](https://zh.wikipedia.org/wiki/盛宣鸣 "wikilink")。
+  - 2007年10月30日－2010年11月26日，[中荣巡游代理](https://zh.wikipedia.org/wiki/中荣巡游 "wikilink")。
+  - 2012年10月18日－至今，[上海天戏代理](https://zh.wikipedia.org/wiki/上海天戏 "wikilink")。
 
 ### 臺灣
 
@@ -243,13 +245,13 @@
 
 ### 南韓
 
-  - 2005年11月30日－至今，[CJ娱乐代理](../Page/CJ娱乐.md "wikilink")。
+  - 2005年11月30日－至今，[CJ娱乐代理](https://zh.wikipedia.org/wiki/CJ娱乐 "wikilink")。
 
 ## 參考資料
 
 ## 相關條目
 
-  - [大航海时代系列](../Page/大航海时代系列.md "wikilink")
+  - [大航海时代系列](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")
 
 ## 外部链接
 

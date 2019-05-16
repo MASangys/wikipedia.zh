@@ -1,6 +1,6 @@
-**CrossFire**是[AMD產品所采用的一种多重](../Page/AMD.md "wikilink")[GPU協同運算技術](../Page/GPU.md "wikilink")，以兩張單GPU[顯示卡或雙GPU顯示卡連結的方式](../Page/顯示卡.md "wikilink")，讓兩顆GPU在一台電腦上協同運算，增加效能，與[NVIDIA的](../Page/NVIDIA.md "wikilink")[SLI技術競爭](../Page/SLI.md "wikilink")。CrossFire技術於2005年6月1日，在Computex
+**CrossFire**是[AMD產品所采用的一种多重](https://zh.wikipedia.org/wiki/AMD "wikilink")[GPU協同運算技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，以兩張單GPU[顯示卡或雙GPU顯示卡連結的方式](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，讓兩顆GPU在一台電腦上協同運算，增加效能，與[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[SLI技術競爭](https://zh.wikipedia.org/wiki/SLI "wikilink")。CrossFire技術於2005年6月1日，在Computex
 Taipei
-2005正式發佈，比[SLI遲一年](../Page/SLI.md "wikilink")。至首度公開之今，CrossFire經过了數次修訂。開始的時候，需要主副卡的配合。之後，開始開放使用軟體交火模式。硬體交火方面，亦參考NVIDIA的做法，使用接線將兩張顯示卡連接起來。目前，高端的顯示卡，例如3870
+2005正式發佈，比[SLI遲一年](https://zh.wikipedia.org/wiki/SLI "wikilink")。至首度公開之今，CrossFire經过了數次修訂。開始的時候，需要主副卡的配合。之後，開始開放使用軟體交火模式。硬體交火方面，亦參考NVIDIA的做法，使用接線將兩張顯示卡連接起來。目前，高端的顯示卡，例如3870
 X2顯示卡已集成了兩顆顯示核心。當中，兩顆核心的溝通其實是使用了CrossFire技術。
 
 在CrossFire推出的時候，使用者要使用此技術，主機板亦必需支援CrossFire，以及需要兩張AMD [PCI
@@ -98,7 +98,7 @@ Express x16的主機版使用。
 Express總線直接存取其他GPU](../Page/PCI_Express.md "wikilink")，即可實現多重GPU協同運算。雖然沒有使用接橋，但AMD表示這不是軟件交火，因為顯示卡上是有專門負責交火的硬件。
 
 相比傳統接橋(900 MB/s)，PCIe 3.0總線提供了近35倍的頻寬 (32
-GB/s)，而且不需要接橋。滿足[Eyefinity多螢幕技術和](../Page/Eyefinity.md "wikilink")[4K顯示的高頻寬需求](../Page/4K.md "wikilink")，XDMA因此成為了新一代多重GPU協同運算解決方案。
+GB/s)，而且不需要接橋。滿足[Eyefinity多螢幕技術和](https://zh.wikipedia.org/wiki/Eyefinity "wikilink")[4K顯示的高頻寬需求](https://zh.wikipedia.org/wiki/4K "wikilink")，XDMA因此成為了新一代多重GPU協同運算解決方案。
 
 ## \-{zh-hans:支持;zh-hk:支援;zh-tw:支援;}-卡種
 
@@ -148,7 +148,7 @@ GB/s)，而且不需要接橋。滿足[Eyefinity多螢幕技術和](../Page/Eyef
 
 ## \-{zh-hans:支持;zh-hant:支援;}-晶片組
 
-### [Intel](../Page/Intel.md "wikilink")
+### [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
 
   - Intel X99 - 能达到PCI-E 3.0
     x16/x16、x16/x16/x8、x16/x8/x8/x8和x8/x8/x8/x8/x8规格
@@ -170,7 +170,7 @@ GB/s)，而且不需要接橋。滿足[Eyefinity多螢幕技術和](../Page/Eyef
 此外，华硕和EVGA等主板厂商生产的个别版本Z77/Z87/Z97已经开始支持x16/x16、x16/x8/x8和x8/x8/x8/x8规格，甚至X79/C602/C604/C606主板也支持x16/x16/x16/x16或x16/x8/x8/x8/x8/x8/x8规格，尽管英特尔官方发布的C600芯片组不支持NVIDIA
 SLI/AMD Crossfire，但同样支持NVIDIA Tesla或Maximus技术。
 
-### [AMD](../Page/AMD.md "wikilink")
+### [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
 
   - AMD 990FX - 能达到PCI-E 2.0 x16/x16或x8/x8/x8/x8规格
   - AMD 990X - 能达到PCI-E 2.0 x8/x8规格
@@ -186,21 +186,21 @@ SLI/AMD Crossfire，但同样支持NVIDIA Tesla或Maximus技术。
 有部分廠商在主機板張自行添加PCI-E
 2.0的頻寬控制器來達到以上晶片組的目的，如[華擎科技的](../Page/華擎科技.md "wikilink")970
 Extreme4即為此項應用。AMD
-970的晶片組原本只可行單條x16，但經過[祥碩科技的頻寬控制器後](../Page/祥碩科技.md "wikilink")，可實現x8/x8來達成CrossFire及SLI。
+970的晶片組原本只可行單條x16，但經過[祥碩科技的頻寬控制器後](https://zh.wikipedia.org/wiki/祥碩科技 "wikilink")，可實現x8/x8來達成CrossFire及SLI。
 
 ## CrossFireX
 
-[AMD於](../Page/AMD.md "wikilink")2007年11月19號發佈[蜘蛛平臺時同時發表了接替CrossFire的下一代技術CrossFireX](../Page/蜘蛛平臺.md "wikilink")，CrossFireX基礎原理相同，但擴充支援三到四顆GPU共同運算，目前確定[AMD
+[AMD於](https://zh.wikipedia.org/wiki/AMD "wikilink")2007年11月19號發佈[蜘蛛平臺時同時發表了接替CrossFire的下一代技術CrossFireX](https://zh.wikipedia.org/wiki/蜘蛛平臺 "wikilink")，CrossFireX基礎原理相同，但擴充支援三到四顆GPU共同運算，目前確定[AMD
 700
-晶片組系列中的](../Page/AMD_700_晶片組系列.md "wikilink")790FX會支援，也有消息\[1\]指出[Intel的](../Page/Intel.md "wikilink")[P45晶片組將支援CrossFireX](../Page/P45晶片組.md "wikilink")。驅動程式方面，CrossFireX只會支援[Windows
+晶片組系列中的](https://zh.wikipedia.org/wiki/AMD_700_晶片組系列 "wikilink")790FX會支援，也有消息\[1\]指出[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[P45晶片組將支援CrossFireX](https://zh.wikipedia.org/wiki/P45晶片組 "wikilink")。驅動程式方面，CrossFireX只會支援[Windows
 Vista作業系統](../Page/Windows_Vista.md "wikilink")，原因是驅動本身已經複雜，而[Windows
 XP遲早會被淘汰](../Page/Windows_XP.md "wikilink")，所以集中資源開發Vista驅動比較划算\[2\]。
 
 ## AMD 雙重圖形技術
 
 讓系統同時利用主機板整合顯示和獨立顯示卡的技術，有兩種訴求不同的模式，目前確定[AMD 700
-晶片組系列中的](../Page/AMD_700_晶片組系列.md "wikilink")780G會支援，與[nVidia的](../Page/nVidia.md "wikilink")[Hybrid
-SLI技術競爭](../Page/Hybrid_SLI.md "wikilink")。
+晶片組系列中的](https://zh.wikipedia.org/wiki/AMD_700_晶片組系列 "wikilink")780G會支援，與[nVidia的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[Hybrid
+SLI技術競爭](https://zh.wikipedia.org/wiki/Hybrid_SLI "wikilink")。
 
 ### PowerXpress
 

@@ -1,6 +1,6 @@
 **Xubuntu**（发音为ZOO-bun-too）是一个[Ubuntu
 Linux的官方衍生版](../Page/Ubuntu.md "wikilink")，它基于[桌面环境](../Page/桌面环境.md "wikilink")[Xfce](../Page/Xfce.md "wikilink")。Xubuntu主要面向舊式电脑的使用者和追求更快捷的桌面环境的使用者。\[1\]
-它主要运行基于[GTK+的程序](../Page/GTK+.md "wikilink")。
+它主要运行基于[GTK+的程序](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。
 
 ## 历史
 
@@ -11,7 +11,7 @@ Linux的官方衍生版](../Page/Ubuntu.md "wikilink")，它基于[桌面环境]
 一个Xubuntu的轻量级定制版叫，它主要修改了内核和X.org驱动以至于只支持Linutop的Geode LX CPU和显示芯片。
 
 Xubuntu是一个Xubuntu的更改版，以适应容量限制的Asus [Eee
-PC](../Page/Eee_PC.md "wikilink")。
+PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")。
 
 澳大利亚的PC User杂志制作了一个名叫"UserOS Ultra"的Xubuntu最小定制版。
 
@@ -33,13 +33,13 @@ MB記憶體（对于8.04以上版本，建议至少用512记忆体运行）。
 
 ## 参见条目
 
-  - [Elbuntu](../Page/Elbuntu.md "wikilink")
+  - [Elbuntu](https://zh.wikipedia.org/wiki/Elbuntu "wikilink")
   - [Kubuntu](../Page/Kubuntu.md "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
   - [U-lite](../Page/U-lite.md "wikilink")
   - [Xfce](../Page/Xfce.md "wikilink")
   - [Fluxbuntu](../Page/Fluxbuntu.md "wikilink")
-  - [Live Distro](../Page/Live_Distro.md "wikilink")
+  - [Live Distro](https://zh.wikipedia.org/wiki/Live_Distro "wikilink")
 
 ## 参考
 
@@ -52,7 +52,7 @@ MB記憶體（对于8.04以上版本，建议至少用512记忆体运行）。
   - [XUbuntu预计包括的套件](https://wiki.ubuntu.com/XubuntuProposedPackages)
 
   -
-[de:Ubuntu\#Xubuntu](../Page/de:Ubuntu#Xubuntu.md "wikilink")
+[de:Ubuntu\#Xubuntu](https://zh.wikipedia.org/wiki/de:Ubuntu#Xubuntu "wikilink")
 
 [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
 

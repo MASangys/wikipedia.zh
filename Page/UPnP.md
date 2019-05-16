@@ -5,18 +5,18 @@ UPnP这个概念是从[隨插即用](../Page/隨插即用.md "wikilink")（Plug-
 
 ## 概述
 
-UPnP体系允许PC间的点对点连接、网际互连和无线设备。它是一种基于[TCP/IP](../Page/TCP/IP.md "wikilink")、[UDP和](../Page/UDP.md "wikilink")[HTTP的分布式](../Page/HTTP.md "wikilink")、开放体系。
+UPnP体系允许PC间的点对点连接、网际互连和无线设备。它是一种基于[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")、[UDP和](https://zh.wikipedia.org/wiki/UDP "wikilink")[HTTP的分布式](https://zh.wikipedia.org/wiki/HTTP "wikilink")、开放体系。
 
-UPnP使得任意两个设备能在[LAN控制设备的管理下相互通信](../Page/LAN.md "wikilink")。其特性包括：
+UPnP使得任意两个设备能在[LAN控制设备的管理下相互通信](https://zh.wikipedia.org/wiki/LAN "wikilink")。其特性包括：
 
-  - 传输介质和设备独立。UPnP技术可以应用在许多媒体上，包括[电话线](../Page/电话线.md "wikilink")、[电线](../Page/电线.md "wikilink")（[電力線通信PLC](../Page/電力線通信.md "wikilink")）、[以太网](../Page/以太网.md "wikilink")、[紅外通訊技術](../Page/紅外通訊技術.md "wikilink")（IrDA）、[無線電](../Page/無線電.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")，[蓝牙](../Page/蓝牙.md "wikilink")）和[Firewire](../Page/Firewire.md "wikilink")（1394）。无需任务设备驱动；而是采用共同的协议。
+  - 传输介质和设备独立。UPnP技术可以应用在许多媒体上，包括[电话线](https://zh.wikipedia.org/wiki/电话线 "wikilink")、[电线](https://zh.wikipedia.org/wiki/电线 "wikilink")（[電力線通信PLC](../Page/電力線通信.md "wikilink")）、[以太网](../Page/以太网.md "wikilink")、[紅外通訊技術](https://zh.wikipedia.org/wiki/紅外通訊技術 "wikilink")（IrDA）、[無線電](https://zh.wikipedia.org/wiki/無線電 "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")，[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")）和[Firewire](https://zh.wikipedia.org/wiki/Firewire "wikilink")（1394）。无需任务设备驱动；而是采用共同的协议。
   - [用户界面](../Page/用户界面.md "wikilink")（UI）控制。UPnP技术使得设备厂商可以通过网页浏览器来控制设备並进行交互。
-  - 操作系统和程序语言独立。任何操作系统和程序语言均可以用于构建UPnP产品。UPnP并没有设定或限制运行于控制设备上的应用程序[API](../Page/API.md "wikilink")；OS厂商可以建立满足他们客户需求的API。UPnP使得厂商可以像开发常规应用程序一样来控制设备UI和交互。
+  - 操作系统和程序语言独立。任何操作系统和程序语言均可以用于构建UPnP产品。UPnP并没有设定或限制运行于控制设备上的应用程序[API](https://zh.wikipedia.org/wiki/API "wikilink")；OS厂商可以建立满足他们客户需求的API。UPnP使得厂商可以像开发常规应用程序一样来控制设备UI和交互。
   - 基于因特网技术。UPnP构建于IP、TCP、UDP、HTTP，和[XML等许多协议之上](../Page/XML.md "wikilink")。
   - 编程控制。UPnP体系同时支持常规应用程序编程控制。
   - 扩展性。每个UPnP设备都可以有构建于基本体系之上、与具体设备相关的服务。
 
-UPnP支持零配置，"看不见的网络"和自动检测；任何设备能自动加入一个网络，获取一个IP地址，宣布自己的名字，根据请求检查自身功能以及检测出其它设备和它们的功能。[DHCP和](../Page/DHCP.md "wikilink")[DNS服务是可选的](../Page/DNS.md "wikilink")，并只有它们在网络上存在的时候才会使用。设备可以自动离开网络而不会遗留下任何不需要的状态信息。
+UPnP支持零配置，"看不见的网络"和自动检测；任何设备能自动加入一个网络，获取一个IP地址，宣布自己的名字，根据请求检查自身功能以及检测出其它设备和它们的功能。[DHCP和](https://zh.wikipedia.org/wiki/DHCP "wikilink")[DNS服务是可选的](https://zh.wikipedia.org/wiki/DNS "wikilink")，并只有它们在网络上存在的时候才会使用。设备可以自动离开网络而不会遗留下任何不需要的状态信息。
 
 UPnP的基础是IP地址解析。每一个设备都应当有一个DHCP客户端并在连入网络的时候自动搜索DHCP服务。如果没有找到DHCP服务，也就是说网络是缺乏管理状态，那么设备必须给自己设定一个地址。如果在和DHCP服务器交互的过程中，设备获得了一个域名（比如通过DNS服务器或者DNS传递），那么它应当在接下来的网络操作中使用这个域名；否则，设备应当使用它的IP地址。
 
@@ -24,7 +24,7 @@ UPnP的基础是IP地址解析。每一个设备都应当有一个DHCP客户端�
 
 ### 发现
 
-给定一个IP地址，UPnP网络中的第一步是发现。当一个设备被加入到网络中，UPnP检测协议允许该设备向控制点广播自己的服务。类似地，当一个控制点加入到网络中的时候，它也能够搜索到网络中存在的、感兴趣的设备相关信息。这两种类型的基础交互是一种仅包含少量、重要相关设备信息或者它的某个服务。比如，类型、标识和指向更详细信息的链接。UPnP检测协议是基于简单服务发现协议（[SSDP](../Page/SSDP.md "wikilink")）的。
+给定一个IP地址，UPnP网络中的第一步是发现。当一个设备被加入到网络中，UPnP检测协议允许该设备向控制点广播自己的服务。类似地，当一个控制点加入到网络中的时候，它也能够搜索到网络中存在的、感兴趣的设备相关信息。这两种类型的基础交互是一种仅包含少量、重要相关设备信息或者它的某个服务。比如，类型、标识和指向更详细信息的链接。UPnP检测协议是基于简单服务发现协议（[SSDP](https://zh.wikipedia.org/wiki/SSDP "wikilink")）的。
 
 ### 描述
 
@@ -32,7 +32,7 @@ UPnP网络的下一步是描述。当一个控制点检测到一个设备时，�
 
 ### 控制
 
-UPnP网络的下一步是控制。当一个控制点获取到设备描述信息之后，它就可以向该设备发送指令了。为了实现此，控制点发送一个合适的控制消息至服务相关控制URL（包含在设备描述中）。控制消息也是通过简单对象访问协议（[SOAP](../Page/SOAP.md "wikilink")）用XML来描述的。类似函数调用，服务通过返回动作相关的值来回应控制消息。动作的效果，如果有的话，会反应在用于刻画运行中服务的相关变量。
+UPnP网络的下一步是控制。当一个控制点获取到设备描述信息之后，它就可以向该设备发送指令了。为了实现此，控制点发送一个合适的控制消息至服务相关控制URL（包含在设备描述中）。控制消息也是通过简单对象访问协议（[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")）用XML来描述的。类似函数调用，服务通过返回动作相关的值来回应控制消息。动作的效果，如果有的话，会反应在用于刻画运行中服务的相关变量。
 
 ### 事件通知
 
@@ -44,7 +44,7 @@ UPnP网络的下一步是控制。当一个控制点获取到设备描述信息�
 
 ### NAT穿透
 
-UPnP为NAT（[网络地址转换](../Page/网络地址转换.md "wikilink")）穿透带来了一个解决方案：[互联网网关设备协议](../Page/互联网网关设备协议.md "wikilink")（IGD）。[NAT穿透允许UPnP数据包在没有用户交互的情况下](../Page/NAT穿透.md "wikilink")，无障碍的通过[路由器或者](../Page/路由器.md "wikilink")[防火墙](../Page/防火墙.md "wikilink")（假如那个[路由器或者](../Page/路由器.md "wikilink")[防火墙支持NAT](../Page/防火墙.md "wikilink")）。
+UPnP为NAT（[网络地址转换](../Page/网络地址转换.md "wikilink")）穿透带来了一个解决方案：[互联网网关设备协议](https://zh.wikipedia.org/wiki/互联网网关设备协议 "wikilink")（IGD）。[NAT穿透允许UPnP数据包在没有用户交互的情况下](../Page/NAT穿透.md "wikilink")，无障碍的通过[路由器或者](../Page/路由器.md "wikilink")[防火墙](../Page/防火墙.md "wikilink")（假如那个[路由器或者](../Page/路由器.md "wikilink")[防火墙支持NAT](../Page/防火墙.md "wikilink")）。
 
 ## 未来的发展
 
@@ -57,13 +57,14 @@ UPnP影音媒体服务器存储和共享数字媒体，比如：图片、电影�
   - [UPnP™ Forum Universal Plug and Play Device
     Standards](http://upnp.org/standardizeddcps/default.asp)
   - [Golden G.
-    Richard](../Page/Golden_G._Richard.md "wikilink")：<cite>Service
+    Richard](https://zh.wikipedia.org/wiki/Golden_G._Richard "wikilink")：<cite>Service
     and Device Discovery : Protocols and Programming</cite>, McGraw-Hill
     Professional, ISBN 0-07-137959-2
-  - [Michael Jeronimo](../Page/Michael_Jeronimo.md "wikilink")，[Jack
-    Weast](../Page/Jack_Weast.md "wikilink")：<cite>UPnP Design by
-    Example: A Software Developer's Guide to Universal Plug and
-    Play</cite>, Intel Press, ISBN 0-9717861-1-9
+  - [Michael
+    Jeronimo](https://zh.wikipedia.org/wiki/Michael_Jeronimo "wikilink")，[Jack
+    Weast](https://zh.wikipedia.org/wiki/Jack_Weast "wikilink")：<cite>UPnP
+    Design by Example: A Software Developer's Guide to Universal Plug
+    and Play</cite>, Intel Press, ISBN 0-9717861-1-9
 
 <references/>
 
@@ -91,7 +92,7 @@ UPnP影音媒体服务器存储和共享数字媒体，比如：图片、电影�
       - [Microsoft security updates for
         April 2007](https://web.archive.org/web/20070515102455/http://www.microsoft.com/athome/security/update/bulletins/200704.mspx)
         to fix the above [Microsoft
-        Windows](../Page/Microsoft_Windows.md "wikilink") UPnP security
-        issue.
+        Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+        UPnP security issue.
 
 [Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink")

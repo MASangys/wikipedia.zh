@@ -6,16 +6,16 @@ Buyukkokten**的名字命名的，通过这一服务，用户可以在互联网�
 ## 历史
 
 在2004年1月22日由Google工程师[Orkut
-Buyukkokten创建](../Page/Orkut_Buyukkokten.md "wikilink")，2014年9月30日終止服務。
+Buyukkokten创建](https://zh.wikipedia.org/wiki/Orkut_Buyukkokten "wikilink")，2014年9月30日終止服務。
 
 ## 帳戶申請
 
-擁有Orkut帳戶，必須首先擁有[Google帳戶](../Page/Google帳戶.md "wikilink")。Orkut的帳戶曾經也通過類似於過去[Gmail帳戶的形式](../Page/Gmail.md "wikilink")，由現有用戶通過[電子郵件發送加入邀請](../Page/電子郵件.md "wikilink")。收到邀請信的用戶，可以通過信中地址啟用自己的Orkut帳戶；後來註冊Orkut已經不再需要邀請。
+擁有Orkut帳戶，必須首先擁有[Google帳戶](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")。Orkut的帳戶曾經也通過類似於過去[Gmail帳戶的形式](../Page/Gmail.md "wikilink")，由現有用戶通過[電子郵件發送加入邀請](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。收到邀請信的用戶，可以通過信中地址啟用自己的Orkut帳戶；後來註冊Orkut已經不再需要邀請。
 
 ## 與Gmail、Google帳戶的關係
 
-Google打算讓[Google帳戶作為使用Google一些服務的通用帳戶](../Page/Google帳戶.md "wikilink")，而[Gmail帳戶在註冊時就自動成為一個Google帳戶](../Page/Gmail.md "wikilink")。在Orkut，預設的登錄凭证也是Google帳戶的用戶名和密碼，而新用戶將直接註冊Google帳戶。一旦Orkut帳戶和Google帳戶捆綁以后，Orkut的登入用戶名和密碼就不再出現。這一點類似於[網易](../Page/網易.md "wikilink")、[搜狐或](../Page/搜狐.md "wikilink")[微軟](../Page/微軟.md "wikilink")[Microsoft
-Account的通行證](../Page/Microsoft_Account.md "wikilink")。
+Google打算讓[Google帳戶作為使用Google一些服務的通用帳戶](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")，而[Gmail帳戶在註冊時就自動成為一個Google帳戶](../Page/Gmail.md "wikilink")。在Orkut，預設的登錄凭证也是Google帳戶的用戶名和密碼，而新用戶將直接註冊Google帳戶。一旦Orkut帳戶和Google帳戶捆綁以后，Orkut的登入用戶名和密碼就不再出現。這一點類似於[網易](https://zh.wikipedia.org/wiki/網易 "wikilink")、[搜狐或](../Page/搜狐.md "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft
+Account的通行證](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")。
 
 ## 相关条目
 
@@ -25,7 +25,7 @@ Account的通行證](../Page/Microsoft_Account.md "wikilink")。
 ## 参看
 
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
-  - [社会网络站点](../Page/社会网络站点.md "wikilink")
+  - [社会网络站点](https://zh.wikipedia.org/wiki/社会网络站点 "wikilink")
 
 ## 参考
 

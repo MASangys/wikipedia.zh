@@ -1,13 +1,13 @@
-**WaT**，[日本男子演唱二人組](../Page/日本.md "wikilink")，**WaT**意為“**W**entz（[Wentz瑛士](../Page/Wentz瑛士.md "wikilink")）**a**nd
-**T**eppei（[小池徹平](../Page/小池徹平.md "wikilink")）”，為[環球唱片旗下歌手](../Page/環球唱片.md "wikilink")。兩人的經紀公司同為[Burning
+**WaT**，[日本男子演唱二人組](../Page/日本.md "wikilink")，**WaT**意為“**W**entz（[Wentz瑛士](https://zh.wikipedia.org/wiki/Wentz瑛士 "wikilink")）**a**nd
+**T**eppei（[小池徹平](../Page/小池徹平.md "wikilink")）”，為[環球唱片旗下歌手](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。兩人的經紀公司同為[Burning
 Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演唱，成員更個別參與電影及電視演出。
 
-出道時，因成員已以個人身分分別進行演藝工作，故已有不少支持者。2005年首次登上第56屆[紅白歌合戰](../Page/紅白歌合戰.md "wikilink")，打破在日本歌手自出道至紅白歌合戰登場的最短時程。2015年12月6日，在東京舉行的演唱會上，宣布2016年2月11日解散\[1\]。
+出道時，因成員已以個人身分分別進行演藝工作，故已有不少支持者。2005年首次登上第56屆[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，打破在日本歌手自出道至紅白歌合戰登場的最短時程。2015年12月6日，在東京舉行的演唱會上，宣布2016年2月11日解散\[1\]。
 
 ## 經歷
 
   - 2002年
-      - [Wentz瑛士與](../Page/Wentz瑛士.md "wikilink")[小池徹平結成組合](../Page/小池徹平.md "wikilink")（當時並沒有組合名稱），並定期在[代代木公園附近定期舉行路邊演唱](../Page/代代木公園.md "wikilink")。
+      - [Wentz瑛士與](https://zh.wikipedia.org/wiki/Wentz瑛士 "wikilink")[小池徹平結成組合](../Page/小池徹平.md "wikilink")（當時並沒有組合名稱），並定期在[代代木公園附近定期舉行路邊演唱](https://zh.wikipedia.org/wiki/代代木公園 "wikilink")。
 
 <!-- end list -->
 
@@ -26,25 +26,30 @@ Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演
 <!-- end list -->
 
   - 2005年
-      - 有11間唱片公司爭奪其唱片合約，最後決定了於[環球唱片正式出道](../Page/環球唱片.md "wikilink")。
+      - 有11間唱片公司爭奪其唱片合約，最後決定了於[環球唱片正式出道](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
       - 11月2日，發行正式出道單曲『僕のキモチ』（我的心意），首週打進ORICON細碟榜第二位。
-      - 首次演出「[第56回NHK紅白歌合戰](../Page/第56回NHK紅白歌合戰.md "wikilink")」，打破了當時在日本『由出道到參加[NHK紅白歌合戰](../Page/NHK紅白歌合戰.md "wikilink")』的最短時距。
+      - 首次演出「[第56回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第56回NHK紅白歌合戰 "wikilink")」，打破了當時在日本『由出道到參加[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")』的最短時距。
 
 <!-- end list -->
 
   - 2006年
       - 3月1日，發行第一張的專輯『卒業TIME〜僕らのはじまり〜』（畢業時刻～我們的開始～）。
       - 4月26日，初次發行DVD「WaT ENTERTAINMENT SHOW 2006 ACT "do" LIVE Vol.4」。
-      - 第2年連續出場「[第57回NHK紅白歌合戰](../Page/第57回NHK紅白歌合戰.md "wikilink")」。
+      - 第2年連續出場「[第57回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第57回NHK紅白歌合戰 "wikilink")」。
       - 同年成為「2006 世界排球錦標賽」的官方應援者。
       - 同年得到的獎項有
           - 『第43回 2005年度 ゴールデン・アロー賞』 新人賞受賞。
-          - 『第20回 2005年度 [日本金唱片大賞](../Page/日本金唱片大賞.md "wikilink")』
+          - 『第20回 2005年度
+            [日本金唱片大賞](https://zh.wikipedia.org/wiki/日本金唱片大賞 "wikilink")』
             ニュー・アーティスト・オブ・ザ・イヤー受賞。
-          - 『第39回 [BEST HIT歌謠祭](../Page/BEST_HIT歌謠祭.md "wikilink")』
+          - 『第39回 [BEST
+            HIT歌謠祭](https://zh.wikipedia.org/wiki/BEST_HIT歌謠祭 "wikilink")』
             最優秀新人賞受賞。
-          - 『第39回 [日本有線大賞](../Page/日本有線大賞.md "wikilink")』 特別賞受賞。
-          - 『第48回 [日本唱片大賞](../Page/日本唱片大賞.md "wikilink")』新人賞受賞。
+          - 『第39回
+            [日本有線大賞](https://zh.wikipedia.org/wiki/日本有線大賞 "wikilink")』
+            特別賞受賞。
+          - 『第48回
+            [日本唱片大賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")』新人賞受賞。
 
 <!-- end list -->
 
@@ -52,19 +57,19 @@ Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演
       - 2月14日，小池徹平以『君に贈る歌』（獻給妳的歌）初次正式單獨表演。
       - 4月25日，瑛士以『Awaking Emotion 8/5』初次正式單獨表演。
       - 10月7日，在開演奏會。
-      - 第3年連續出場「[第58回NHK紅白歌合戰](../Page/第58回NHK紅白歌合戰.md "wikilink")」。
+      - 第3年連續出場「[第58回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第58回NHK紅白歌合戰 "wikilink")」。
 
 <!-- end list -->
 
   - 2008年
       - 5月，WaT LIVE TOUR2008
         “凶×小吉＝大吉TOUR”在日本全國6個城市有10場公演。最後一天在日比谷野外大音楽堂，一邊下雨一邊進行演出。
-      - 第4年連續出場「[第59回NHK紅白歌合戰](../Page/第59回NHK紅白歌合戰.md "wikilink")」。
+      - 第4年連續出場「[第59回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第59回NHK紅白歌合戰 "wikilink")」。
 
 <!-- end list -->
 
   - 2009年
-      - 由2005年初次到上一年為止，連續出場的「[第60回NHK紅白歌合戰](../Page/第60回NHK紅白歌合戰.md "wikilink")」落選了，連續出場的形式被間斷。
+      - 由2005年初次到上一年為止，連續出場的「[第60回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第60回NHK紅白歌合戰 "wikilink")」落選了，連續出場的形式被間斷。
       - [小池徹平亦作個人的音樂發展](../Page/小池徹平.md "wikilink")，發行了個人單曲『キミだけ』（只有你）及專輯『Jack
         In The Box』。
 
@@ -79,20 +84,21 @@ Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演
 ## 成員資料
 
   - [小池徹平](../Page/小池徹平.md "wikilink")（Koike Teppei）
-      - 出身地：[大阪府](../Page/大阪府.md "wikilink")[大阪狹山市](../Page/大阪狹山市.md "wikilink")
+      - 出身地：[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪狹山市](../Page/大阪狹山市.md "wikilink")
       - 生日：1986年1月5日出生
       - 血型：B型
       - 身高：167 cm
       - 体重：54 kg
       - 興趣：彈吉他、籃球
       - 兄弟姐妹：一位弟弟
-      - 喜歡的食物：[壽司](../Page/壽司.md "wikilink")、[拉麵](../Page/拉麵.md "wikilink")
+      - 喜歡的食物：[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")、[拉麵](https://zh.wikipedia.org/wiki/拉麵 "wikilink")
       - 討厭的食物：[哈密瓜](../Page/哈密瓜.md "wikilink")、[西瓜](../Page/西瓜.md "wikilink")、[鮮奶油](../Page/鮮奶油.md "wikilink")、[冰淇淋](../Page/冰淇淋.md "wikilink")（不喜歡白色的食物）
-      - 出道過程：2001年第14屆[JUNON超級男孩金獎得主](../Page/JUNON.md "wikilink")，2002年到東京發展，出道處女作[富士電視臺日劇](../Page/富士電視臺.md "wikilink")「[天體觀測](../Page/天體觀測.md "wikilink")」。
+      - 出道過程：2001年第14屆[JUNON超級男孩金獎得主](https://zh.wikipedia.org/wiki/JUNON "wikilink")，2002年到東京發展，出道處女作[富士電視臺日劇](https://zh.wikipedia.org/wiki/富士電視臺 "wikilink")「[天體觀測](https://zh.wikipedia.org/wiki/天體觀測 "wikilink")」。
 
 <!-- end list -->
 
-  - [Wentz瑛士](../Page/Wentz瑛士.md "wikilink")（Wentz Eiji）
+  - [Wentz瑛士](https://zh.wikipedia.org/wiki/Wentz瑛士 "wikilink")（Wentz
+    Eiji）
       - 1985年10月8日生
       - 出身地：[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")
       - 血型：O型
@@ -101,8 +107,8 @@ Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演
       - 興趣：聽音樂、看電影、打撞球
       - 特殊才藝：籃球、滑雪板
       - 兄弟姐妹：一位哥哥
-      - 喜歡的食物：[玄米飯](../Page/玄米.md "wikilink")、[明太子](../Page/明太子.md "wikilink")、[納豆](../Page/納豆.md "wikilink")、[烏龍麵](../Page/烏龍麵.md "wikilink")（烏冬）
-      - 討厭的食物：[扇貝](../Page/扇貝.md "wikilink")
+      - 喜歡的食物：[玄米飯](https://zh.wikipedia.org/wiki/玄米 "wikilink")、[明太子](https://zh.wikipedia.org/wiki/明太子 "wikilink")、[納豆](../Page/納豆.md "wikilink")、[烏龍麵](../Page/烏龍麵.md "wikilink")（烏冬）
+      - 討厭的食物：[扇貝](https://zh.wikipedia.org/wiki/扇貝 "wikilink")
       - 出道過程：德裔美国人的父親＋日本人的母親之混血兒，4歲開始擔任模特兒，並在四季劇團演出「美女與野獸」。
 
 ## 作品

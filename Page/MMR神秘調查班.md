@@ -1,15 +1,15 @@
-《**MMR神秘調查班**》（）是日本漫畫，作者為[石垣雄規](../Page/石垣雄規.md "wikilink")。1990年至1999年於[講談社](../Page/講談社.md "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》上不定期連載，全套共13卷。\[1\]\[2\]
+《**MMR神秘調查班**》（）是日本漫畫，作者為[石垣雄規](https://zh.wikipedia.org/wiki/石垣雄規 "wikilink")。1990年至1999年於[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》上不定期連載，全套共13卷。\[1\]\[2\]
 
 ## 概要
 
 故事改編自真人真事， 主角為《週刊少年Magazine》的編輯們所組成的MMR〔Magazine Mistery
 Reportage〕。隊員包括紀林（隊長）、繩矢、田中、池田、都丸五人。另外，一位自稱查理的海外隊員也曾於作品出場。\[3\]
 
-起初故事為MMR成員收到各方讀者來信，從而對一些[超自然現象以](../Page/超自然現象.md "wikilink")[科學的角度作調查和解釋](../Page/科學.md "wikilink")，但故事發展到以[諾史特拉達姆斯的](../Page/諾斯特拉達姆士.md "wikilink")[預言詩為主線時](../Page/預知.md "wikilink")，他們逐漸揭發出政府和謎之組織的陰謀，模式類似科幻電視劇集[X檔案](../Page/X檔案.md "wikilink")。
+起初故事為MMR成員收到各方讀者來信，從而對一些[超自然現象以](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")[科學的角度作調查和解釋](https://zh.wikipedia.org/wiki/科學 "wikilink")，但故事發展到以[諾史特拉達姆斯的](../Page/諾斯特拉達姆士.md "wikilink")[預言詩為主線時](../Page/預知.md "wikilink")，他們逐漸揭發出政府和謎之組織的陰謀，模式類似科幻電視劇集[X檔案](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。
 
 從1996年4月開始到同年的10月，MMR被拍成真人版電視特攝片集《[MMR未確認飛行物体](http://ja.wikipedia.org/wiki/MMR%E6%9C%AA%E7%A2%BA%E8%AA%8D%E9%A3%9B%E8%A1%8C%E7%89%A9%E4%BD%93)》。在劇中，《週刊少年Magazine》被改為《超級雜誌》，主角由原創角色踝透（中山秀征）擔任。\[4\]
 
-在[GTO的第](../Page/GTO.md "wikilink")27和28話中，MMR也有登場，調查在日本各地電視廣告出現的野村朋子。
+在[GTO的第](https://zh.wikipedia.org/wiki/GTO "wikilink")27和28話中，MMR也有登場，調查在日本各地電視廣告出現的野村朋子。
 
 在1999年MMR完結之後，
 漫畫作家城不二也於2003年在同一本雜誌的第32,33期再次連載MMR漫畫，可是隊長已經變為ミウラ，而其他隊員亦變成新面孔。\[5\]
@@ -23,7 +23,7 @@ MMR中的隊員紀林、繩矢、田中、池田和都丸乃根據現實中的�
 <!-- end list -->
 
   -
-    MMR隊長。出生於196x年7月22日。身高182cm，體重77kg，血型o型。視力右眼為0.2，左眼0.1。IQ達170，懂日語、英語及法語。精通於解釋超自然現象及諾史特拉達姆斯預言，不管是什麼題材，總會跟大預言扯上關係。該人物乃是以《[金田一少年之事件簿](../Page/金田一少年之事件簿.md "wikilink")》的原作[天樹征丸](../Page/天樹征丸.md "wikilink")（本名樹林伸，きばやし
+    MMR隊長。出生於196x年7月22日。身高182cm，體重77kg，血型o型。視力右眼為0.2，左眼0.1。IQ達170，懂日語、英語及法語。精通於解釋超自然現象及諾史特拉達姆斯預言，不管是什麼題材，總會跟大預言扯上關係。該人物乃是以《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")》的原作[天樹征丸](https://zh.wikipedia.org/wiki/天樹征丸 "wikilink")（本名樹林伸，きばやし
     しん）為藍本。
 
 <!-- end list -->

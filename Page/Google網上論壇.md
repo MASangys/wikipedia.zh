@@ -1,6 +1,6 @@
 **Google
-網上論壇**（）是[Google提供的在线交流工具](../Page/Google.md "wikilink")，在[Web界面上类似于常见的](../Page/Web.md "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")。但Google
-Groups的实质却可以理解为一个[邮件列表](../Page/邮件列表.md "wikilink")。但与传统的邮件列表相比，它提供了基于[Web的更多功能](../Page/Web.md "wikilink")。如共享文件、创建页面、帖子评分等。
+網上論壇**（）是[Google提供的在线交流工具](../Page/Google.md "wikilink")，在[Web界面上类似于常见的](https://zh.wikipedia.org/wiki/Web "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")。但Google
+Groups的实质却可以理解为一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。但与传统的邮件列表相比，它提供了基于[Web的更多功能](https://zh.wikipedia.org/wiki/Web "wikilink")。如共享文件、创建页面、帖子评分等。
 
 ## 特色
 
@@ -8,14 +8,14 @@ Groups的实质却可以理解为一个[邮件列表](../Page/邮件列表.md "w
       -
         Google
         Groups提供了自从1981年以来的[Usenet帖子存档](../Page/Usenet.md "wikilink")\[1\]，保存了许多珍贵史料\[2\]；
-  - [HTTPS加密连接](../Page/HTTPS.md "wikilink")
+  - [HTTPS加密连接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")
       -
         同[Gmail等](../Page/Gmail.md "wikilink")[Google服务一样](../Page/Google.md "wikilink")，Google
-        Groups允许通过[HTTPS协议进行连接](../Page/HTTPS.md "wikilink")，这对处于较为严格的[网络审查之下的中国大陆网民尤为重要](../Page/中华人民共和国网络审查.md "wikilink")。
+        Groups允许通过[HTTPS协议进行连接](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，这对处于较为严格的[网络审查之下的中国大陆网民尤为重要](../Page/中华人民共和国网络审查.md "wikilink")。
 
 ## 中国大陆访问
 
-很长一段时间里，Google网上论坛不论是明文HTTP访问还是加密[SSL访问](../Page/SSL.md "wikilink")，均会遭到中国官方的防火长城以连接R重置的技术手段屏蔽。但在2013年，中国用户可以较为顺畅地通过HTTPS访问该网站。
+很长一段时间里，Google网上论坛不论是明文HTTP访问还是加密[SSL访问](https://zh.wikipedia.org/wiki/SSL "wikilink")，均会遭到中国官方的防火长城以连接R重置的技术手段屏蔽。但在2013年，中国用户可以较为顺畅地通过HTTPS访问该网站。
 
 ## 參考資料
 

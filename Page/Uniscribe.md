@@ -1,15 +1,15 @@
-**Uniscribe**是[微軟公司開發的](../Page/微軟.md "wikilink")[Windows作業系統為正確演示](../Page/Windows.md "wikilink")[Unicode文字而開發的組件](../Page/Unicode.md "wikilink")。系統的核心是一個名為*USP10.DLL*的[DLL](../Page/DLL.md "wikilink")。它從[Windows
+**Uniscribe**是[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統為正確演示](https://zh.wikipedia.org/wiki/Windows "wikilink")[Unicode文字而開發的組件](https://zh.wikipedia.org/wiki/Unicode "wikilink")。系統的核心是一個名為*USP10.DLL*的[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")。它從[Windows
 2000開始連同Windows一起綑綁](../Page/Windows_2000.md "wikilink")；Win9x的用戶在更新至[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")
 5.0之後，系統亦會安裝有本組件。此外，[Windows
-CE從](../Page/Windows_CE.md "wikilink")5.0開始亦支援Uniscribe。
+CE從](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")5.0開始亦支援Uniscribe。
 
 其實從[Windows
-7開始](../Page/Windows_7.md "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite的引入而被取代](../Page/DirectWrite.md "wikilink")，但這組件依然仍有繼續開發及維護。
+7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite的引入而被取代](https://zh.wikipedia.org/wiki/DirectWrite "wikilink")，但這組件依然仍有繼續開發及維護。
 
 ## USP10.dll
 
-USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Unicode文字系統處理器”。它主要包括以下的部件：
+USP其實是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")的簡稱，意思就是“Unicode文字系統處理器”。它主要包括以下的部件：
 
 1.  把文字從輸入次序重排成為顯示次序
 2.  把文字按前文後理作出適當的變換
@@ -35,8 +35,8 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2010-01-07</p></td>
 <td><p>2009-12-22</p></td>
-<td><p><a href="../Page/Microsoft_Office_2010.md" title="wikilink">Microsoft Office 2010</a>（RTM）</p></td>
-<td><p>支援PR-37：澄清<a href="../Page/零字距連接字符.md" title="wikilink">零字距連接字符在</a><a href="../Page/印度文字.md" title="wikilink">印度文字的用途</a>[1]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Office_2010" title="wikilink">Microsoft Office 2010</a>（RTM）</p></td>
+<td><p>支援PR-37：澄清<a href="https://zh.wikipedia.org/wiki/零字距連接字符" title="wikilink">零字距連接字符在</a><a href="https://zh.wikipedia.org/wiki/印度文字" title="wikilink">印度文字的用途</a>[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>1.626.7600.16385</p></td>
@@ -44,7 +44,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2009-08-04</p></td>
 <td></td>
-<td><p><a href="../Page/Microsoft_Office_2010.md" title="wikilink">Microsoft Office 2010</a>（Beta）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Office_2010" title="wikilink">Microsoft Office 2010</a>（Beta）</p></td>
 <td><p>?</p></td>
 </tr>
 <tr class="odd">
@@ -52,7 +52,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2009-07-14</p></td>
 <td><p>2009-07-14</p></td>
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a>（RTM）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a>（RTM）</p></td>
 <td><p>?</p></td>
 <td></td>
 </tr>
@@ -62,7 +62,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2009-04-22</p></td>
 <td></td>
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a> RC</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a> RC</p></td>
 <td><p>?</p></td>
 </tr>
 <tr class="odd">
@@ -80,7 +80,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2010-04-16</p></td>
 <td><p>2010-04-16</p></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="../Page/Windows_Vista_SP2.md" title="wikilink">Windows Vista SP2安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">2</a></p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP2" title="wikilink">Windows Vista SP2安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">2</a></p></td>
 <td><p>MS10-063:说明Windows Unicode Scripts Processor安全性更新：2010年9月14日</p></td>
 </tr>
 <tr class="odd">
@@ -89,7 +89,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2010-04-16</p></td>
 <td><p>2010-04-16</p></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="../Page/Windows_Vista_SP2.md" title="wikilink">Windows Vista SP2安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">3</a></p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP2" title="wikilink">Windows Vista SP2安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">3</a></p></td>
 <td><p>MS10-063:说明Windows Unicode Scripts Processor安全性更新：2010年9月14日</p></td>
 </tr>
 <tr class="even">
@@ -98,7 +98,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2009-04-11</p></td>
 <td></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="../Page/Windows_Vista_SP2.md" title="wikilink">Windows Vista SP2</a></p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a> SP2, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP2" title="wikilink">Windows Vista SP2</a></p></td>
 <td><p>?</p></td>
 </tr>
 <tr class="odd">
@@ -107,7 +107,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2010-04-16</p></td>
 <td><p>2010-04-16</p></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>, <a href="../Page/Windows_Vista_SP1.md" title="wikilink">Windows Vista SP1安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">4</a></p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP1" title="wikilink">Windows Vista SP1安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">4</a></p></td>
 <td><p>MS10-063:说明Windows Unicode Scripts Processor安全性更新：2010年9月14日</p></td>
 </tr>
 <tr class="even">
@@ -116,7 +116,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2010-04-16</p></td>
 <td><p>2010-04-16</p></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>, <a href="../Page/Windows_Vista_SP1.md" title="wikilink">Windows Vista SP1安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">5</a></p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP1" title="wikilink">Windows Vista SP1安全性更新KB</a>981322 <a href="http://support.microsoft.com/kb/981322">5</a></p></td>
 <td><p>MS10-063:说明Windows Unicode Scripts Processor安全性更新：2010年9月14日</p></td>
 </tr>
 <tr class="odd">
@@ -125,7 +125,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2008-01-19</p></td>
 <td></td>
-<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>（RTM）, <a href="../Page/Windows_Vista_SP1.md" title="wikilink">Windows Vista SP1</a>, VOLT補充文件 (July 2008), MS VOLT 1.3 <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=F1C481EA-7D76-4A70-BDCE-0DA53D1B864A&amp;displaylang=en">6</a>（2008-07-31發行）, SIL FieldWorks, Keyman Desktop 7.1</p></td>
+<td><p><a href="../Page/Windows_Server_2008.md" title="wikilink">Windows Server 2008</a>（RTM）, <a href="https://zh.wikipedia.org/wiki/Windows_Vista_SP1" title="wikilink">Windows Vista SP1</a>, VOLT補充文件 (July 2008), MS VOLT 1.3 <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=F1C481EA-7D76-4A70-BDCE-0DA53D1B864A&amp;displaylang=en">6</a>（2008-07-31發行）, SIL FieldWorks, Keyman Desktop 7.1</p></td>
 <td><p>Supports newer OpenType table features; improved support for ligatures and contextual shapes in Indic scripts with simpler fonts</p></td>
 </tr>
 <tr class="even">
@@ -150,7 +150,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>1.626.6000.20581</p></td>
 <td><p>491 KiB<br />
 (502,784位元組)</p></td>
-<td><p>2007-04-19 02:15:55 <a href="../Page/UTC.md" title="wikilink">UTC</a></p></td>
+<td><p>2007-04-19 02:15:55 <a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a></p></td>
 <td></td>
 <td><p><a href="../Page/Windows_Vista.md" title="wikilink">Windows Vista修補程序</a><a href="http://support.microsoft.com/kb/936176/zh-tw">KB936176</a></p></td>
 <td><p>修復：incorrect rendering of fully decomposed characters in NFD form encoded in sequences with more than 2 characters（affects 114 Latin characters decomposed in sequences of 3 codes）</p></td>
@@ -159,7 +159,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>1.626.6000.16386</p></td>
 <td><p>491 KiB<br />
 (502,784位元組)</p></td>
-<td><p>2006-11-02 09:44:03 <a href="../Page/UTC.md" title="wikilink">UTC</a></p></td>
+<td><p>2006-11-02 09:44:03 <a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a></p></td>
 <td></td>
 <td><p><a href="../Page/Windows_Vista.md" title="wikilink">Windows Vista</a> Ultimate（RTM）</p></td>
 <td><p>DirectX 10? WDDM?</p></td>
@@ -238,7 +238,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 </p></td>
 <td><p>2005-08-17</p></td>
 <td></td>
-<td><p><a href="../Page/Microsoft_Office_12.md" title="wikilink">Microsoft Office 12</a> Professional（Beta 1）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Office_12" title="wikilink">Microsoft Office 12</a> Professional（Beta 1）</p></td>
 <td><p>OpenType排版功能?</p></td>
 </tr>
 <tr class="odd">
@@ -256,7 +256,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>?</p></td>
 <td></td>
 <td><p>第三方軟件</p></td>
-<td><p>支援<a href="../Page/蒙古文.md" title="wikilink">蒙古文</a></p></td>
+<td><p>支援<a href="https://zh.wikipedia.org/wiki/蒙古文" title="wikilink">蒙古文</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1.606.5078.0</p></td>
@@ -282,7 +282,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>2005-01-07</p></td>
 <td></td>
 <td><p><a href="../Page/人文学科.md" title="wikilink">WinXP僧伽羅語增益插件0.42版</a>（參見“How to write Sinhala”部分）</p></td>
-<td><p>正式支援<a href="../Page/僧伽羅語.md" title="wikilink">僧伽羅語</a></p></td>
+<td><p>正式支援<a href="https://zh.wikipedia.org/wiki/僧伽羅語" title="wikilink">僧伽羅語</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -333,7 +333,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 (413,184位元組)</p></td>
 <td><p>2004-04-15</p></td>
 <td></td>
-<td><p><a href="../Page/Microsoft_Office.md" title="wikilink">Microsoft Office</a> 2003, <a href="../Page/Google_Earth.md" title="wikilink">Google Earth</a></p></td>
+<td><p><a href="../Page/Microsoft_Office.md" title="wikilink">Microsoft Office</a> 2003, <a href="https://zh.wikipedia.org/wiki/Google_Earth" title="wikilink">Google Earth</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -350,7 +350,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>?</p></td>
 <td></td>
 <td><p>Paratext 6</p></td>
-<td><p>支援<a href="../Page/藏文字母.md" title="wikilink">藏語文字顯示</a>。</p></td>
+<td><p>支援<a href="https://zh.wikipedia.org/wiki/藏文字母" title="wikilink">藏語文字顯示</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>1.468.4011.0</p></td>
@@ -374,7 +374,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>?</p></td>
 <td></td>
 <td><p>MS VOLT 1.1.206</p></td>
-<td><p>支援<a href="../Page/高棉語.md" title="wikilink">高棉文字</a></p></td>
+<td><p>支援<a href="https://zh.wikipedia.org/wiki/高棉語" title="wikilink">高棉文字</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -457,7 +457,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>2010-04-16</p></td>
 <td><p>2010-04-16</p></td>
 <td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>（SP3）安全性更新KB981322 <a href="http://support.microsoft.com/kb/981322">10</a><br />
-<a href="../Page/Microsoft_Office_XP.md" title="wikilink">Microsoft Office XP</a>（SP3）安全性更新KB2288608 <a href="http://support.microsoft.com/kb/2288608">11</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Microsoft_Office_XP" title="wikilink">Microsoft Office XP</a>（SP3）安全性更新KB2288608 <a href="http://support.microsoft.com/kb/2288608">11</a></p></td>
 <td><p>MS10-063：說明Windows Unicode Scripts Processor安全性更新：2010年9月14日</p></td>
 </tr>
 <tr class="odd">
@@ -494,7 +494,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>2004-08-12</p></td>
 <td><p>2004-08-17</p></td>
 <td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a> Build 2180（SP2）</p></td>
-<td><p>支援<a href="../Page/孟加拉文.md" title="wikilink">孟加拉文以及</a><a href="../Page/馬拉雅拉姆文.md" title="wikilink">馬拉雅拉姆文</a>；支援複雜拉丁字符（越南語字母）；修復：聲調輪廓的結紮</p></td>
+<td><p>支援<a href="https://zh.wikipedia.org/wiki/孟加拉文" title="wikilink">孟加拉文以及</a><a href="../Page/馬拉雅拉姆文.md" title="wikilink">馬拉雅拉姆文</a>；支援複雜拉丁字符（越南語字母）；修復：聲調輪廓的結紮</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -545,7 +545,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>2001-08-17</p></td>
 <td></td>
 <td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a></p></td>
-<td><p>支援<a href="../Page/它拿字母.md" title="wikilink">它拿字母</a>、<a href="../Page/古吉拉特文.md" title="wikilink">古吉拉特文</a>、<a href="../Page/卡納達文.md" title="wikilink">卡納達文</a>、<a href="../Page/古木基文.md" title="wikilink">古木基文</a>（旁遮普語）、<a href="../Page/敘利亞字母.md" title="wikilink">敘利亞字母以及</a><a href="../Page/泰卢固文.md" title="wikilink">泰盧固字</a></p></td>
+<td><p>支援<a href="../Page/它拿字母.md" title="wikilink">它拿字母</a>、<a href="../Page/古吉拉特文.md" title="wikilink">古吉拉特文</a>、<a href="../Page/卡納達文.md" title="wikilink">卡納達文</a>、<a href="../Page/古木基文.md" title="wikilink">古木基文</a>（旁遮普語）、<a href="https://zh.wikipedia.org/wiki/敘利亞字母" title="wikilink">敘利亞字母以及</a><a href="../Page/泰卢固文.md" title="wikilink">泰盧固字</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -562,7 +562,7 @@ USP其實是[英語](../Page/英語.md "wikilink")的簡稱，意思就是“Uni
 <td><p>2001-01-15</p></td>
 <td><p>2001-01-06</p></td>
 <td><p><a href="../Page/Microsoft_Office.md" title="wikilink">Microsoft Office</a> XP (2002), <a href="../Page/Microsoft_Word.md" title="wikilink">Microsoft Word</a> 2000（SP1）</p></td>
-<td><p>完全支援<a href="../Page/希伯來文.md" title="wikilink">希伯來文</a>、<a href="../Page/天城文.md" title="wikilink">天城文</a>、<a href="../Page/泰米爾文.md" title="wikilink">泰米爾文</a></p></td>
+<td><p>完全支援<a href="https://zh.wikipedia.org/wiki/希伯來文" title="wikilink">希伯來文</a>、<a href="https://zh.wikipedia.org/wiki/天城文" title="wikilink">天城文</a>、<a href="../Page/泰米爾文.md" title="wikilink">泰米爾文</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -652,7 +652,7 @@ Microsoft Global IME for <a href="../Page/Microsoft_Office.md" title="wikilink">
 <td><p>1999-05-05</p></td>
 <td><p>1999-05-12</p></td>
 <td><p><a href="../Page/Windows_98.md" title="wikilink">Windows 98</a> SE</p></td>
-<td><p>Uniscribe API的第一個穩定版本；支援簡單字母系統——包括個別附加符號（<a href="../Page/拉丁字母.md" title="wikilink">拉丁字母</a>、<a href="../Page/希臘字母.md" title="wikilink">希臘字母</a>、<a href="../Page/西里尔字母.md" title="wikilink">西里尔字母</a></p></td>
+<td><p>Uniscribe API的第一個穩定版本；支援簡單字母系統——包括個別附加符號（<a href="../Page/拉丁字母.md" title="wikilink">拉丁字母</a>、<a href="https://zh.wikipedia.org/wiki/希臘字母" title="wikilink">希臘字母</a>、<a href="../Page/西里尔字母.md" title="wikilink">西里尔字母</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>258 KiB<br />
@@ -686,8 +686,8 @@ Microsoft Global IME for <a href="../Page/Microsoft_Office.md" title="wikilink">
 ## 如何更新？
 
 雖然Uniscribe從Windows
-2000開始隨系統提供，但不同版本的Uniscribe對各地不同的文字有不同的支援：最初的版本只支援顯示[泰語](../Page/泰語.md "wikilink")、[越南語](../Page/越南語.md "wikilink")，之後到[希伯來語和](../Page/希伯來語.md "wikilink")[阿拉伯語](../Page/阿拉伯語.md "wikilink")。從[Windows
-XP開始支援幾個主要的南亞文字及](../Page/Windows_XP.md "wikilink")[亞述語](../Page/亞述語.md "wikilink")，但[僧加羅語](../Page/僧加羅語.md "wikilink")、[高棉語](../Page/高棉語.md "wikilink")、[緬甸語及各種使用](../Page/緬甸語.md "wikilink")[蒙古文字的語言](../Page/蒙古文字.md "wikilink")，由於他們的具體編碼方式在Windows
+2000開始隨系統提供，但不同版本的Uniscribe對各地不同的文字有不同的支援：最初的版本只支援顯示[泰語](https://zh.wikipedia.org/wiki/泰語 "wikilink")、[越南語](https://zh.wikipedia.org/wiki/越南語 "wikilink")，之後到[希伯來語和](https://zh.wikipedia.org/wiki/希伯來語 "wikilink")[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")。從[Windows
+XP開始支援幾個主要的南亞文字及](../Page/Windows_XP.md "wikilink")[亞述語](https://zh.wikipedia.org/wiki/亞述語 "wikilink")，但[僧加羅語](https://zh.wikipedia.org/wiki/僧加羅語 "wikilink")、[高棉語](https://zh.wikipedia.org/wiki/高棉語 "wikilink")、[緬甸語及各種使用](https://zh.wikipedia.org/wiki/緬甸語 "wikilink")[蒙古文字的語言](https://zh.wikipedia.org/wiki/蒙古文字 "wikilink")，由於他們的具體編碼方式在Windows
 XP推出時還未落實，因此未能正式支援。現時不少為這些語言而設計的軟件，在USP10.dll未更新之前，都不能正確操作。
 
 過往要更新USP10.dll並不容易，因為當時微軟並未有提及載件讓用戶透過安裝來自行更新有關檔案，而必須要透過安裝其他應用程式來更新。現時，有關更新已可透過安裝特別的應用程式來達成\[2\]。
@@ -703,7 +703,7 @@ XP推出時還未落實，因此未能正式支援。現時不少為這些語言
 
 ## 參看
 
-  - [國際Unicode元件](../Page/國際Unicode元件.md "wikilink")（ICU）
+  - [國際Unicode元件](https://zh.wikipedia.org/wiki/國際Unicode元件 "wikilink")（ICU）
 
 ## 外部連結
 
@@ -714,5 +714,5 @@ XP推出時還未落實，因此未能正式支援。現時不少為這些語言
 [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")
 
 1.  [公开评议议题\#37](http://www.unicode.org/review/pr-37.pdf)
-    提议书：澄清与统一[零字距連接字符在](../Page/零字距連接字符.md "wikilink")[印度文字的用途](../Page/印度文字.md "wikilink")，統一碼聯盟
+    提议书：澄清与统一[零字距連接字符在](https://zh.wikipedia.org/wiki/零字距連接字符 "wikilink")[印度文字的用途](https://zh.wikipedia.org/wiki/印度文字 "wikilink")，統一碼聯盟
 2.  <http://www.mongolfont.com/en/windows/index.html>

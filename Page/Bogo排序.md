@@ -1,4 +1,4 @@
-在[计算机科学中](../Page/计算机科学.md "wikilink")，**Bogo排序**（bogo-sort）是個既不實用又原始的[排序演算法](../Page/排序演算法.md "wikilink")，其原理等同將一堆卡片拋起，落在桌上後檢查卡片是否已整齊排列好，若非就再拋一次。其名字源自Quantum
+在[计算机科学中](../Page/计算机科学.md "wikilink")，**Bogo排序**（bogo-sort）是個既不實用又原始的[排序演算法](https://zh.wikipedia.org/wiki/排序演算法 "wikilink")，其原理等同將一堆卡片拋起，落在桌上後檢查卡片是否已整齊排列好，若非就再拋一次。其名字源自Quantum
 bogodynamics，又稱bozo sort、blort
 sort或猴子排序（參見[無限猴子定理](../Page/無限猴子定理.md "wikilink")）。
 
@@ -105,12 +105,12 @@ public boolean inOrder(int[] n) {
 
 ## 运行时间
 
-这个[排序算法基于](../Page/排序算法.md "wikilink")[可能性](../Page/可能性.md "wikilink")。平均而言，让所有元素都被排好序的期望比较次数[渐近于](../Page/渐近.md "wikilink")\((e-1) n!\)，期望的位置交换次数渐近\((n-1) n!\)。\[1\]
+这个[排序算法基于](../Page/排序算法.md "wikilink")[可能性](https://zh.wikipedia.org/wiki/可能性 "wikilink")。平均而言，让所有元素都被排好序的期望比较次数[渐近于](https://zh.wikipedia.org/wiki/渐近 "wikilink")\((e-1) n!\)，期望的位置交换次数渐近\((n-1) n!\)。\[1\]
 期望的位置交换次数增长地比期望比较次数快，是因为只需要比较几对元素就能发现元素是无序的，但是随机地打乱顺序所需要的交换次数却与数据长度成比例。在最差的情况下，交换和比较次数都是无限的，这就像随机投掷硬币可能连续任意次正面向上。
 
 最好的情况是所给的数据是已经排好序的，这种情况下不需要任何位置交换，而比较次数等于\(n-1\)。
 
-对任何固定长度的数据，算法的预期运行时间像[无限猴子定理一样是无限的](../Page/无限猴子定理.md "wikilink")：总有一些可能性让被正确排好序的序列出现。
+对任何固定长度的数据，算法的预期运行时间像[无限猴子定理一样是无限的](https://zh.wikipedia.org/wiki/无限猴子定理 "wikilink")：总有一些可能性让被正确排好序的序列出现。
 
 ## 相关算法
 
@@ -125,7 +125,7 @@ public boolean inOrder(int[] n) {
 
 ## 參見
 
-  - [暴力搜尋法](../Page/暴力搜尋法.md "wikilink")
+  - [暴力搜尋法](https://zh.wikipedia.org/wiki/暴力搜尋法 "wikilink")
 
 ## 参考资料
 
@@ -137,8 +137,10 @@ public boolean inOrder(int[] n) {
     File上的條目](http://www.catb.org/~esr/jargon/html/B/bogo-sort.html)
   - [Bogosort](http://www.lysator.liu.se/~qha/bogosort/): an
     implementation that runs on
-    [Unix-like](../Page/Unix-like.md "wikilink") systems, similar to the
-    standard [sort](../Page/sort_\(Unix\).md "wikilink") program.
+    [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
+    systems, similar to the standard
+    [sort](https://zh.wikipedia.org/wiki/sort_\(Unix\) "wikilink")
+    program.
   - [Bogosort](https://archive.is/20130103015524/http://github.com/versesane/algorithms-and-data-structures-in-c/tree/master/bogosort.c):
     Simple C++ implementation of bogosort algorithm
 

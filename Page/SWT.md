@@ -3,8 +3,8 @@
 | caption = Eclipse的IDE環境是以SWT為基礎之應用 | collapsible = yes | developer =
 Eclipse基金會 | status = 進行中 | latest release version = 3.7.2 | latest
 release date =  | latest preview version = | latest preview date = |
-operating system = [跨平台](../Page/跨平台.md "wikilink") | language = 多語言 |
-genre =
+operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") |
+language = 多語言 | genre =
 [Java平臺](../Page/Java平臺.md "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink")
 | license = Eclipse公共授權 | website =  }}
 

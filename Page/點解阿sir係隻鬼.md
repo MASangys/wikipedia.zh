@@ -19,14 +19,14 @@ Man之筆名，與汪家玲作書信往來，一直至今。汪家玲十分仰�
 Man一直對她避而不見，汪家玲亦不知道Uncle
 Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健，對他諸多欺凌留難，令暗戀汪家玲的崔文健有苦難言，鬧出不少誤會和笑話（一般認為此橋段抄襲同期無線電視卡通片《[長腿叔叔](../Page/長腿叔叔_\(動畫\).md "wikilink")》）。
 
-可惜，好景不常。某天，道士李學仁（[羅青浩飾](../Page/羅青浩.md "wikilink")）路經該校，發現豬肉榮的鬼魂上歐陽協成身一事，李學仁認為豬肉榮此舉有違天理，逐施法將之趕回地府。崔文健等人捨不得這位好友，欲將之召回陽間，卻誤召歐陽協成的鬼魂。歐陽協成復活後，對學生的欺壓和金錢苛索變本加厲，更用盡卑鄙手段，強逼學生工作為他賺錢，甚至為全校學生購買人壽保險，然後製造意外，令學生一一身亡，以收取其保險賠償。原來之前歐陽協成死後，在地府為非作歹，復活後，更不擇手段地利用學生為他籌集金錢，打算用陽間的錢來招兵買馬，然後回攻地府造反。
+可惜，好景不常。某天，道士李學仁（[羅青浩飾](https://zh.wikipedia.org/wiki/羅青浩 "wikilink")）路經該校，發現豬肉榮的鬼魂上歐陽協成身一事，李學仁認為豬肉榮此舉有違天理，逐施法將之趕回地府。崔文健等人捨不得這位好友，欲將之召回陽間，卻誤召歐陽協成的鬼魂。歐陽協成復活後，對學生的欺壓和金錢苛索變本加厲，更用盡卑鄙手段，強逼學生工作為他賺錢，甚至為全校學生購買人壽保險，然後製造意外，令學生一一身亡，以收取其保險賠償。原來之前歐陽協成死後，在地府為非作歹，復活後，更不擇手段地利用學生為他籌集金錢，打算用陽間的錢來招兵買馬，然後回攻地府造反。
 
 不久，該校學生幾乎全部遇「意外」身亡，僅剩餘崔文健和汪家玲等數人，他們和李學仁合作，召回豬肉榮的鬼魂，在一眾人等同心對抗下，終把歐陽協成打敗至永不超生。而之前因「意外」死亡的學生，亦因陽壽未盡，被地府「強逼遣返」回陽間
 。
 
 最後，崔文健和汪家玲等學生畢業離校，豬肉榮亦回地府輪候投胎轉世，眾人依依不捨地道別。
 
-主要拍攝地點為清水灣[香港三育書院](../Page/香港三育書院.md "wikilink")。此劇使用了大量[亂馬1/2動畫的配樂](../Page/亂馬1/2.md "wikilink")。
+主要拍攝地點為清水灣[香港三育書院](../Page/香港三育書院.md "wikilink")。此劇使用了大量[亂馬1/2動畫的配樂](https://zh.wikipedia.org/wiki/亂馬1/2 "wikilink")。
 
 #### 演員表
 
@@ -82,7 +82,7 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
 <td><p>校長</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄺偉茗.md" title="wikilink">鄺偉明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄺偉茗" title="wikilink">鄺偉明</a></p></td>
 <td><p>郭智寶</p></td>
 <td><p>中四級班長</p></td>
 </tr>
@@ -98,12 +98,12 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
 <td><p>歐陽協成前妻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅青浩.md" title="wikilink">羅青浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅青浩" title="wikilink">羅青浩</a></p></td>
 <td><p>李學仁</p></td>
 <td><p>道士</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳秋彤.md" title="wikilink">陳秋彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳秋彤" title="wikilink">陳秋彤</a></p></td>
 <td><p>柴　詠</p></td>
 <td><p>中七級插班生</p></td>
 </tr>
@@ -120,7 +120,7 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
 數學教師</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/洪迎喜.md" title="wikilink">洪迎喜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪迎喜" title="wikilink">洪迎喜</a></p></td>
 <td><p>郭麗珍</p></td>
 <td><p>中七級學生</p></td>
 </tr>
@@ -135,22 +135,22 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
 <td><p><a href="../Page/警長.md" title="wikilink">警長</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王清河.md" title="wikilink">王清河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王清河" title="wikilink">王清河</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吳曼麗.md" title="wikilink">吳曼麗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳曼麗" title="wikilink">吳曼麗</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江虹.md" title="wikilink">江　虹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江虹" title="wikilink">江　虹</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳巧儀.md" title="wikilink">陳巧儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳巧儀" title="wikilink">陳巧儀</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -163,9 +163,9 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
 
 #### 劇情內容
 
-續集由中學轉移至**[皇家香港輔助空軍](../Page/皇家香港輔助空軍.md "wikilink")（H.K.R.C.C.I.）**（[政府飛行服務隊的前身](../Page/政府飛行服務隊.md "wikilink")）中的空軍軍校。崔文健等人自聖法蘭雅根信馬可勃羅德聖會亞洲致善堂司馬昭昭博士夫人第一紀念中學畢業後，加入以上團體，接受空軍訓練。期間，發現[中國抗日戰爭時期的空軍陳立得](../Page/中國抗日戰爭.md "wikilink")（盧海鵬飾）的屍體，連同降落傘吊在樹上，並且把其鬼魂招上陽間。旋即引起與日軍侵華有關的鬧鬼場面。
+續集由中學轉移至**[皇家香港輔助空軍](../Page/皇家香港輔助空軍.md "wikilink")（H.K.R.C.C.I.）**（[政府飛行服務隊的前身](../Page/政府飛行服務隊.md "wikilink")）中的空軍軍校。崔文健等人自聖法蘭雅根信馬可勃羅德聖會亞洲致善堂司馬昭昭博士夫人第一紀念中學畢業後，加入以上團體，接受空軍訓練。期間，發現[中國抗日戰爭時期的空軍陳立得](https://zh.wikipedia.org/wiki/中國抗日戰爭 "wikilink")（盧海鵬飾）的屍體，連同降落傘吊在樹上，並且把其鬼魂招上陽間。旋即引起與日軍侵華有關的鬧鬼場面。
 
-在劇中，以一架[米格-15戰鬥機作為道具](../Page/米格-15戰鬥機.md "wikilink")。
+在劇中，以一架[米格-15戰鬥機作為道具](https://zh.wikipedia.org/wiki/米格-15戰鬥機 "wikilink")。
 
 #### 演員表
 
@@ -180,16 +180,17 @@ Man就是崔文健，相反在日常相處中，更顯得十分討厭崔文健�
       - [吳廷燁](../Page/吳廷燁.md "wikilink") 飾 Bill（學生）
   - [王艷娜](../Page/王艷娜.md "wikilink") 飾 司馬里惠／David仔 -
     在一次被崔文健救助後，為了尋找救助的人，不惜女扮男裝進入空軍學校受訓。
-  - [郭　峰](../Page/郭峰_\(演員\).md "wikilink") 飾 王家興（上校／教官）
+  - [郭　峰](https://zh.wikipedia.org/wiki/郭峰_\(演員\) "wikilink") 飾
+    王家興（上校／教官）
   - [張　錚](../Page/張錚_\(香港\).md "wikilink") 飾 費將軍（校長）
-  - [黃允財](../Page/黃允財.md "wikilink") 飾 吳劑（酒吧老闆） -
+  - [黃允財](https://zh.wikipedia.org/wiki/黃允財 "wikilink") 飾 吳劑（酒吧老闆） -
     從前一次跳傘訓練，因傷及校長而被逐出校，因而與王家興敵對。在一次的赤軍指示下混進空軍學校，接手經營TopGunBar當臥底間諜收集情報。
-  - [劉玉婷](../Page/劉玉婷.md "wikilink") 飾 吳芝（吳劑長女）
+  - [劉玉婷](https://zh.wikipedia.org/wiki/劉玉婷 "wikilink") 飾 吳芝（吳劑長女）
   - [馬蹄露](../Page/馬蹄露_\(藝人\).md "wikilink") 飾 吳愛（吳劑次女）
   - [龐秋雁](../Page/龐秋雁.md "wikilink") 飾 吳彩（吳劑三女） - 自小失去說話能力，無法言語。
-  - [梁錦燊](../Page/梁錦燊.md "wikilink") 飾 佐佐木大佐（赤軍首領）
+  - [梁錦燊](https://zh.wikipedia.org/wiki/梁錦燊 "wikilink") 飾 佐佐木大佐（赤軍首領）
   - [曾守明](../Page/曾守明.md "wikilink") 飾 赤軍成員
-  - [鄧佩茜](../Page/鄧佩茜.md "wikilink") 飾 蘇絲黃
+  - [鄧佩茜](https://zh.wikipedia.org/wiki/鄧佩茜 "wikilink") 飾 蘇絲黃
   - [萬綺雯](../Page/萬綺雯.md "wikilink") 飾 汪家玲 - 續集僅第三集客串演出新娘一角
 
 ## 參考資料

@@ -1,20 +1,20 @@
 **TOSHI**，本名**出山利三**（Toshimitsu Deyama），他是[X
-JAPAN的主音及創隊成員](../Page/X_JAPAN.md "wikilink")，在樂團中擔任主唱的位置\[1\]。他的歌聲極富磁性，早期粗獷沙啞，後期高亢並富情感。
+JAPAN的主音及創隊成員](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")，在樂團中擔任主唱的位置\[1\]。他的歌聲極富磁性，早期粗獷沙啞，後期高亢並富情感。
 
 ## 生涯
 
 出生在日本[千葉縣](../Page/千葉縣.md "wikilink")[館山市](../Page/館山市.md "wikilink")。童年時，與X
-JAPAN的團長[YOSHIKI在幼稚園相識](../Page/YOSHIKI.md "wikilink")，並就讀同一所中學。他們兩人15歲時一起建立並主導了一支學生樂團：「X」。17歲一同放棄升學，搬到東京打工並開始發展「X」的樂團活動，直至22歲時「X」出道成名。
+JAPAN的團長[YOSHIKI在幼稚園相識](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，並就讀同一所中學。他們兩人15歲時一起建立並主導了一支學生樂團：「X」。17歲一同放棄升學，搬到東京打工並開始發展「X」的樂團活動，直至22歲時「X」出道成名。
 
 1992年，「X」更改为现用名「X
-JAPAN」。1997年，宣布脫離樂團，同年底在[東京巨蛋舉行解散演唱會](../Page/東京巨蛋.md "wikilink")。從1999年開始成為[治癒系的歌手](../Page/治癒系.md "wikilink")，開始個人事業。3月以「詩旅～うたたび～」的名稱巡遊[日本全國](../Page/日本.md "wikilink")，那個時候，他走遍了兒童醫院、監獄等設施共8000多處\[2\]，2007年1月結束詩旅。3月與YOSHIKI在[美國](../Page/美國.md "wikilink")[洛杉磯見面後](../Page/洛杉磯.md "wikilink")，開始了重組樂團的計畫。10月，發表了X
-JAPAN的重組\[3\]。當時的他聲明，以成為融合[治癒系音樂與](../Page/治癒系.md "wikilink")[搖滾樂的歌手為目標](../Page/搖滾樂.md "wikilink")。2009年10月，在個人官方部落格上發表長期修養的消息，因為嚴重的肋間神經痛症狀影響到歌唱狀況。
+JAPAN」。1997年，宣布脫離樂團，同年底在[東京巨蛋舉行解散演唱會](../Page/東京巨蛋.md "wikilink")。從1999年開始成為[治癒系的歌手](https://zh.wikipedia.org/wiki/治癒系 "wikilink")，開始個人事業。3月以「詩旅～うたたび～」的名稱巡遊[日本全國](../Page/日本.md "wikilink")，那個時候，他走遍了兒童醫院、監獄等設施共8000多處\[2\]，2007年1月結束詩旅。3月與YOSHIKI在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯見面後](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，開始了重組樂團的計畫。10月，發表了X
+JAPAN的重組\[3\]。當時的他聲明，以成為融合[治癒系音樂與](https://zh.wikipedia.org/wiki/治癒系 "wikilink")[搖滾樂的歌手為目標](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")。2009年10月，在個人官方部落格上發表長期修養的消息，因為嚴重的肋間神經痛症狀影響到歌唱狀況。
 
 之後陷入低谷期誤入信奉Masaya創辦的邪教「Home of
 Heart」，為了借錢給教會更損失10億多元日幣，在教中被毆打軟禁，之後還發現妻子守谷香與教主是同居外遇關係，被戴綠帽12年，最終致電向遠在洛杉磯的樂團夥伴求救，才遠離遭到軟禁在日本的困境。\[4\]
 
 2010年1月18日申請[破產](../Page/破產.md "wikilink")，並決定與洗腦組織「HOME OF
-HEART」派來的把TOSHI搞到破產的[離婚](../Page/離婚.md "wikilink")，並脫離與組織相關的****(2008年組成)，日後重心將擺在X
+HEART」派來的把TOSHI搞到破產的[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")，並脫離與組織相關的****(2008年組成)，日後重心將擺在X
 JAPAN上面。
 
 ## 個人作品
@@ -111,7 +111,8 @@ JAPAN上面。
 
 ### 著作
 
-  - 《》：[講談社](../Page/講談社.md "wikilink")2014年7月出版，ISBN 978-4062186575。
+  - 《》：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")2014年7月出版，ISBN
+    978-4062186575。
       - 《洗腦：X JAPAN主唱的邪教歷劫重生告白》：方智出版社2015年9月出版，林詠純譯，ISBN 978-9861754055。
 
 ## 參考來源

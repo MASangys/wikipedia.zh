@@ -1,15 +1,16 @@
 **BSD
-授權條款**（），是[自由軟體中使用最廣泛的](../Page/自由軟體.md "wikilink")[授權條款之一](../Page/授權條款.md "wikilink")。[BSD](../Page/BSD.md "wikilink")
+授權條款**（），是[自由軟體中使用最廣泛的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[授權條款之一](https://zh.wikipedia.org/wiki/授權條款 "wikilink")。[BSD](../Page/BSD.md "wikilink")
 就是遵照這個許可證來發布，也因此而得名 BSD 授權條款。
 
 BSD
-套件最初所有者是[加州大學的](../Page/加州大學.md "wikilink")[董事會](../Page/董事會.md "wikilink")，這是由於
-BSD 源自[加州大學伯克利分校](../Page/加州大學伯克利分校.md "wikilink")。BSD 開始後，BSD
-授權條款得以修正，使得以後許多 BSD 變種，都采用類似風格的條款。
+套件最初所有者是[加州大學的](https://zh.wikipedia.org/wiki/加州大學 "wikilink")[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")，這是由於
+BSD
+源自[加州大學伯克利分校](https://zh.wikipedia.org/wiki/加州大學伯克利分校 "wikilink")。BSD
+開始後，BSD 授權條款得以修正，使得以後許多 BSD 變種，都采用類似風格的條款。
 
-跟其他條款相比，從[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink")（GPL）到限制重重的[著作權](../Page/著作權.md "wikilink")（Copyright），BSD許可證比較寬松，甚至跟[公有領域更為接近](../Page/公有領域.md "wikilink")。事實上，BSD許可證被認為是*copycenter*（中間版權），介乎標準的copyright與GPL的copyleft之間。"Take
+跟其他條款相比，從[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")（GPL）到限制重重的[著作權](../Page/著作權.md "wikilink")（Copyright），BSD許可證比較寬松，甚至跟[公有領域更為接近](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。事實上，BSD許可證被認為是*copycenter*（中間版權），介乎標準的copyright與GPL的copyleft之間。"Take
 it down to the copy center and make as many copies as you
-want"。可以說，GPL強迫後續版本必須一樣是[自由軟體](../Page/自由軟體.md "wikilink")，BSD的後續版本可以選擇要繼續是BSD或其他自由軟體條款或[封閉軟體等等](../Page/封閉軟體.md "wikilink")。
+want"。可以說，GPL強迫後續版本必須一樣是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，BSD的後續版本可以選擇要繼續是BSD或其他自由軟體條款或[封閉軟體等等](https://zh.wikipedia.org/wiki/封閉軟體 "wikilink")。
 
 ## BSD许可证的条款
 
@@ -66,7 +67,7 @@ Berkeley'（加州大学伯克利分校），以及'Regents'（董事会）替�
 遵守BSD
 License的软件，允许用作商业用途，甚至可按照专属许可证进行再发布。比较著名的例子如[微软产品中引入了BSD网络部分的代码](../Page/微软.md "wikilink")，[Mac
 OS
-X中使用了不少](../Page/Mac_OS_X.md "wikilink")[FreeBSD的组件](../Page/FreeBSD.md "wikilink")。也可以将一部分遵照BSD许可证发布，另外一些采取其他许可证。事实上，[BSD](../Page/BSD.md "wikilink")
+X中使用了不少](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[FreeBSD的组件](../Page/FreeBSD.md "wikilink")。也可以将一部分遵照BSD许可证发布，另外一些采取其他许可证。事实上，[BSD](../Page/BSD.md "wikilink")
 Unix早期就是这样的，其一部分是来自[AT\&T的专属内容](../Page/AT&T.md "wikilink")。
 
 ### 与其他自由软件许可证的相容性
@@ -133,10 +134,10 @@ BSD在最初散播的时候，其许可证内含有一项额外的条款，要�
 
 [GNU工程将这个称为](../Page/GNU.md "wikilink")“令人感到不舒服的BSD交代条款”（obnoxious BSD
 advertising
-clause）。GNU工程认为存在两个问题：第一，修改源码的人都希望将其大名加到鸣谢中，如果一个项目参加的人非常多，或者软件套件中包含许多个单独项目，鸣谢阵容将会变得非常庞大；第二，这跟[GNU通用公共许可协议相抵触](../Page/GNU通用公共许可协议.md "wikilink")，GPL不允许增加额外的限制，所以软件只能在GNU跟BSD之间选择。GNU工程建议人们提到非[copyleft許可證的例子時](../Page/copyleft.md "wikilink")，不要使用「BSD風格」的字眼，以免原本的BSD许可证不慎被使用。
+clause）。GNU工程认为存在两个问题：第一，修改源码的人都希望将其大名加到鸣谢中，如果一个项目参加的人非常多，或者软件套件中包含许多个单独项目，鸣谢阵容将会变得非常庞大；第二，这跟[GNU通用公共许可协议相抵触](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，GPL不允许增加额外的限制，所以软件只能在GNU跟BSD之间选择。GNU工程建议人们提到非[copyleft許可證的例子時](https://zh.wikipedia.org/wiki/copyleft "wikilink")，不要使用「BSD風格」的字眼，以免原本的BSD许可证不慎被使用。
 
 应[理查德·斯托曼的请求](../Page/理查德·斯托曼.md "wikilink")，1999年7月22日，[William
-Hoskins](../Page/William_Hoskins.md "wikilink")，也就是伯克利技术许可办公室的主管（director
+Hoskins](https://zh.wikipedia.org/wiki/William_Hoskins "wikilink")，也就是伯克利技术许可办公室的主管（director
 of the office of technology licensing for Berkeley），删除了BSD许可证的第三条。
 原来的许可证有时被称为“BSD-old”（老BSD）或“4-clause
 BSD”（四句版BSD），当前的BSD许可证有的被称为“BSD-new”（新BSD）、“revised
@@ -148,14 +149,14 @@ BSD”（修订的BSD）或“3-clause BSD”（三句版BSD）。
 
   - [NetBSD過去仍使用原始的BSD许可证](../Page/NetBSD.md "wikilink")，但NetBSD基金會表示自2008年6月20日開始，採用兩句版許可的授權，也就是[2-clause
     BSD-like
-    License](http://www.netbsd.org/Goals/redistribution.html)，也就是删掉了许可证的第三句和第四句。这样就跟[MIT许可证功能上等价了](../Page/MIT许可证.md "wikilink")。这也是唯一被允许用作特定库（如[KDE](../Page/KDE.md "wikilink")）的BSD风格许可证。
+    License](http://www.netbsd.org/Goals/redistribution.html)，也就是删掉了许可证的第三句和第四句。这样就跟[MIT许可证功能上等价了](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。这也是唯一被允许用作特定库（如[KDE](../Page/KDE.md "wikilink")）的BSD风格许可证。
   - [FreeBSD也使用一个两句版许可证](../Page/FreeBSD.md "wikilink")，另外在末尾添加贡献者一览，也就是非FreeBSD工程官方贡献者一览。
   - [OpenBSD对所有添加的软件](../Page/OpenBSD.md "wikilink")，采用Internet Systems
     Consortium, Inc的版权许可，功能上也就是两句版的BSD许可，没有其他的添加语句。
 
 ## 参见
 
-  - [自由及开放源代码软件许可证比较](../Page/自由及开放源代码软件许可证比较.md "wikilink")
+  - [自由及开放源代码软件许可证比较](https://zh.wikipedia.org/wiki/自由及开放源代码软件许可证比较 "wikilink")
   - [使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
 
 ## 参考文献

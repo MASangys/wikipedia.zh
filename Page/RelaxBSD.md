@@ -35,7 +35,7 @@ ports编译并有小量修改。整个系统带参数：CPUTYPE?=pentium3 CFLAGS
   - 用基于QT的GUI安装界面，使得安装过程非常简单。只需几步便可完成全部安装；
   - 用Grub作启动管理。能自动识别其它Windows分区，系统第一次启动后可自动加入其它grub（如Linux）的启动项；
   - 直接支持多种打印机、数码相机、扫描仪、电视卡设备；可以自动识别网卡（自动设为DHCP）、声卡、显卡；
-  - 包含有[OpenOffice](../Page/OpenOffice.md "wikilink")、[Gimp](../Page/Gimp.md "wikilink")、nvu、[Glade2](../Page/Glade2.md "wikilink")、mplayer、xine、stardict、reciteword、kbtv、[aMule](../Page/aMule.md "wikilink")、KTorrent等优秀的软件；
+  - 包含有[OpenOffice](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、[Gimp](https://zh.wikipedia.org/wiki/Gimp "wikilink")、nvu、[Glade2](https://zh.wikipedia.org/wiki/Glade2 "wikilink")、mplayer、xine、stardict、reciteword、kbtv、[aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")、KTorrent等优秀的软件；
   - 自动挂载FAT32、NTFS、Ext2fs、ReiserFS、UFS分区。基中，FAT32、NTFS分区按选择语言编码挂载，NTFS、ReiserFS按只读方式挂载；
   - 包括OpenOffice在内的编辑软件支持cups打印；
   - 自动识别并挂载移动存储设备。

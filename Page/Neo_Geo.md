@@ -1,17 +1,17 @@
 **Neo Geo
-AES**是[SNK公司发布的](../Page/SNK.md "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")，在[16位元遊樂器中性能较強](../Page/16位元.md "wikilink")。發售時的宣傳標語為「將很棒的遊戲帶回家吧！」。
+AES**是[SNK公司发布的](../Page/SNK.md "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")，在[16位元遊樂器中性能较強](https://zh.wikipedia.org/wiki/16位元 "wikilink")。發售時的宣傳標語為「將很棒的遊戲帶回家吧！」。
 
 因使用了與[NEO GEO
-MVS街機相同的機板和CPU](../Page/NEO_GEO_MVS.md "wikilink")，軟體部份僅稍做些許變更，即可維持相同的品質移植到家用機使用。但也因此造成了机器极高的价格，影响了普及率。
+MVS街機相同的機板和CPU](https://zh.wikipedia.org/wiki/NEO_GEO_MVS "wikilink")，軟體部份僅稍做些許變更，即可維持相同的品質移植到家用機使用。但也因此造成了机器极高的价格，影响了普及率。
 
-遊戲中的存檔資料記錄於[PCMCIA規格的](../Page/PCMCIA.md "wikilink")[PC
-CARD記憶體中](../Page/PC_CARD.md "wikilink")，容量為8[KB](../Page/KB.md "wikilink")。
+遊戲中的存檔資料記錄於[PCMCIA規格的](https://zh.wikipedia.org/wiki/PCMCIA "wikilink")[PC
+CARD記憶體中](https://zh.wikipedia.org/wiki/PC_CARD "wikilink")，容量為8[KB](https://zh.wikipedia.org/wiki/KB "wikilink")。
 
 ## 数据
 
-|       |                                                                                                   |                                    |                                                                                                                         |      |                                                                                                                                                                                                                                  |        |                                 |         |     |
-| ----- | ------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------- | ------- | --- |
-| *CPU* | [68000](../Page/MC68000.md "wikilink") (12MHz)、聲音：[Z80](../Page/Z80.md "wikilink") (4MHz) |- ---- | *[記憶體](../Page/記憶體.md "wikilink")* | [RAM](../Page/Random_Access_Memory.md "wikilink")：【68000】64KB、【Z80】2KB、【[VRAM](../Page/VRAM.md "wikilink")】68KB |- ---- | *聲音* | [Yamaha](../Page/Yamaha.md "wikilink") [YM2610](../Page/YM2610.md "wikilink")（[PCM](../Page/PCM.md "wikilink")7音 [FM](../Page/FM声源.md "wikilink")4音 [PSG](../Page/PSG.md "wikilink")3音 [雜音](../Page/雜音.md "wikilink")1音） |- ---- | *顯示色數* | 65,536色（同時顯示顏色 4,096 色） |- ---- | *圖塊顯示數* | 380 |
+|       |                                                                                                                                         |                                                       |                                                                                                                                                               |      |                                                                                                                                                                                                                                                                                                                                                    |        |                                 |         |     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------- | ------- | --- |
+| *CPU* | [68000](https://zh.wikipedia.org/wiki/MC68000 "wikilink") (12MHz)、聲音：[Z80](https://zh.wikipedia.org/wiki/Z80 "wikilink") (4MHz) |- ---- | *[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")* | [RAM](https://zh.wikipedia.org/wiki/Random_Access_Memory "wikilink")：【68000】64KB、【Z80】2KB、【[VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")】68KB |- ---- | *聲音* | [Yamaha](https://zh.wikipedia.org/wiki/Yamaha "wikilink") [YM2610](https://zh.wikipedia.org/wiki/YM2610 "wikilink")（[PCM](https://zh.wikipedia.org/wiki/PCM "wikilink")7音 [FM](https://zh.wikipedia.org/wiki/FM声源 "wikilink")4音 [PSG](https://zh.wikipedia.org/wiki/PSG "wikilink")3音 [雜音](https://zh.wikipedia.org/wiki/雜音 "wikilink")1音） |- ---- | *顯示色數* | 65,536色（同時顯示顏色 4,096 色） |- ---- | *圖塊顯示數* | 380 |
 
 *NEOGEO SPEC* |- ----
 

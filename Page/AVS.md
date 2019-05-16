@@ -1,17 +1,17 @@
-**AVS**（），即**數位音影片編解碼技術標準**，為中國第二代[信源編碼標準](../Page/信源編碼.md "wikilink")。
+**AVS**（），即**數位音影片編解碼技術標準**，為中國第二代[信源編碼標準](https://zh.wikipedia.org/wiki/信源編碼 "wikilink")。
 
 ## 缘起
 
 **AVS**（**Audio Video coding
-Standard**）為[中國具備自主](../Page/中國.md "wikilink")[知識產權的第二代](../Page/知識產權.md "wikilink")[信源編碼標準](../Page/信源編碼.md "wikilink")，此編碼技術主要解決數碼音影片海量數据（即初始數据、信源）的編碼[壓縮問題](../Page/壓縮.md "wikilink")，故也稱數碼音影片編解碼技術。目前國際上音影片編解碼標準主要兩大系列：ISO/IEC
+Standard**）為[中國具備自主](../Page/中國.md "wikilink")[知識產權的第二代](https://zh.wikipedia.org/wiki/知識產權 "wikilink")[信源編碼標準](https://zh.wikipedia.org/wiki/信源編碼 "wikilink")，此編碼技術主要解決數碼音影片海量數据（即初始數据、信源）的編碼[壓縮問題](https://zh.wikipedia.org/wiki/壓縮 "wikilink")，故也稱數碼音影片編解碼技術。目前國際上音影片編解碼標準主要兩大系列：ISO/IEC
 JTC1
-制定的[MPEG系列標準](../Page/MPEG.md "wikilink")，[ITU](../Page/ITU.md "wikilink")
+制定的[MPEG系列標準](../Page/MPEG.md "wikilink")，[ITU](https://zh.wikipedia.org/wiki/ITU "wikilink")
 針對多媒體通信制定的H.26x系列影片編碼標準，和G.7系列音頻編碼標準。1994年由MPEG和ITU合作制定的[MPEG-2為第一代音影片編解碼標準的主要格式](../Page/MPEG-2.md "wikilink")，是目前國際上最為通行的音影片標準。
 
 經過十年多演變，音影片編碼技術產生了巨大的變化，后起之秀輩出。目前音影片產業可以選擇的信源編碼標準有四個：[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、AVC（簡稱AVC，也稱JVT、H.264）、AVS。從制訂者分，前三個標準是由MPEG專家組完成的，第四個是中國自主制定的。從發展階段分，MPEG-2是第一代信源標準，其余三個為第二代標準。從主要技術指標—編碼效率比較：MPEG-4是MPEG-2的1.4倍，AVS和AVC相當，都是MPEG-2兩倍以上。
 
 AVS標準是《信息技術
-先進音影片編碼》系列標準的簡稱，AVS標準包括系統、影片、音頻、[数字版权管理等四個主要技術標準和一致性測試等支撐標準](../Page/数字版权管理.md "wikilink")。在2003年12月18日-12月19日舉行第7次會議上，工作組完成了AVS標準的第一部分（系統）和第二部分（影片）的草案最終稿（FCD），和報批稿配套的驗証軟件也已完成。2004年12月29日，全國信息技術標準化技術委員會組織評審並通過了AVS標準影片草案。2005年1月，AVS工作組將草案報送中國[信息產業部](../Page/信息產業部.md "wikilink")。3月30日，中國信產部初審認可，標準草案影片部分進入公示期。2004年度第一季度（第8次全體會議）正式開始“數碼版權管理與保護”標準的制定，目前已近尾聲。2005年初（第12次全體會議）完成了第三部分（音頻）草案。
+先進音影片編碼》系列標準的簡稱，AVS標準包括系統、影片、音頻、[数字版权管理等四個主要技術標準和一致性測試等支撐標準](../Page/数字版权管理.md "wikilink")。在2003年12月18日-12月19日舉行第7次會議上，工作組完成了AVS標準的第一部分（系統）和第二部分（影片）的草案最終稿（FCD），和報批稿配套的驗証軟件也已完成。2004年12月29日，全國信息技術標準化技術委員會組織評審並通過了AVS標準影片草案。2005年1月，AVS工作組將草案報送中國[信息產業部](https://zh.wikipedia.org/wiki/信息產業部 "wikilink")。3月30日，中國信產部初審認可，標準草案影片部分進入公示期。2004年度第一季度（第8次全體會議）正式開始“數碼版權管理與保護”標準的制定，目前已近尾聲。2005年初（第12次全體會議）完成了第三部分（音頻）草案。
 
 2012年，完成了广电行标《广播电视先进音影片编码 第1部分：影片》的制订，《广播电视先进音影片编码
 第1部分：影片》于2012年7月10日颁布为广电行标，标准号：GY/T
@@ -58,9 +58,9 @@ AVS標準是《信息技術
 
   - [MPEG](../Page/MPEG.md "wikilink")
   - [高效率视频编码（HEVC/H.265）](../Page/高效率视频编码.md "wikilink")
-  - [高级视频编码（AVC/H.264）](../Page/H.264.md "wikilink")
-  - [AV1](../Page/AV1.md "wikilink")
-  - [WMV](../Page/WMV.md "wikilink")
+  - [高级视频编码（AVC/H.264）](https://zh.wikipedia.org/wiki/H.264 "wikilink")
+  - [AV1](https://zh.wikipedia.org/wiki/AV1 "wikilink")
+  - [WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")
 
 ## 外部連結
 

@@ -1,10 +1,11 @@
-是一个 [自由](../Page/自由软件.md "wikilink")，[开源](../Page/开源.md "wikilink")
-的[媒体播放器](../Page/媒体播放器.md "wikilink")。目前可以在
-[Windows](../Page/Windows.md "wikilink")，[Windows
-CE](../Page/Windows_CE.md "wikilink")／[Windows
+是一个
+[自由](../Page/自由软件.md "wikilink")，[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")
+的[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。目前可以在
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Windows
+CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")／[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")／[Palm
 OS](../Page/Palm_OS.md "wikilink") 操作系统上運作。它可以播放包括
-[ASF](../Page/ASF.md "wikilink")，[ASX](../Page/Advanced_Stream_Redirector.md "wikilink")，[AVI](../Page/AVI.md "wikilink")，[DIVX](../Page/DIVX.md "wikilink")，[M2V](../Page/M2V.md "wikilink")，[M3U](../Page/M3U.md "wikilink")，[MKV](../Page/MKV.md "wikilink")，[MP3](../Page/MP3.md "wikilink")，[MP2](../Page/MP2.md "wikilink")，[MPEG](../Page/MPEG.md "wikilink")，[MPG](../Page/MPEG-1.md "wikilink")，[mpeg4](../Page/mpeg4.md "wikilink")，[OGG](../Page/Ogg.md "wikilink")，[OGM](../Page/OGM.md "wikilink")，[WAV](../Page/WAV.md "wikilink")，[WMV在内的众多格式的影片](../Page/WMV.md "wikilink")
+[ASF](https://zh.wikipedia.org/wiki/ASF "wikilink")，[ASX](https://zh.wikipedia.org/wiki/Advanced_Stream_Redirector "wikilink")，[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")，[DIVX](https://zh.wikipedia.org/wiki/DIVX "wikilink")，[M2V](https://zh.wikipedia.org/wiki/M2V "wikilink")，[M3U](https://zh.wikipedia.org/wiki/M3U "wikilink")，[MKV](https://zh.wikipedia.org/wiki/MKV "wikilink")，[MP3](../Page/MP3.md "wikilink")，[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")，[MPEG](../Page/MPEG.md "wikilink")，[MPG](../Page/MPEG-1.md "wikilink")，[mpeg4](https://zh.wikipedia.org/wiki/mpeg4 "wikilink")，[OGG](../Page/Ogg.md "wikilink")，[OGM](https://zh.wikipedia.org/wiki/OGM "wikilink")，[WAV](../Page/WAV.md "wikilink")，[WMV在内的众多格式的影片](https://zh.wikipedia.org/wiki/WMV "wikilink")
 
 ## 外部链接
 

@@ -1,5 +1,5 @@
 **AMD Radeon**（原**ATI
-Radeon**）是2000年以来，由[ATi公司制造的](../Page/ATi.md "wikilink")[图像处理单元的品牌](../Page/GPU.md "wikilink")。该品牌下的产品根据对[DirectX不同版本的支持可划分为四组不同的产品](../Page/DirectX.md "wikilink")，产品如[HyperZ版还可以根据](../Page/HyperZ.md "wikilink")[流水线的数目及](../Page/流水线_\(计算机\).md "wikilink")[記憶體](../Page/記憶體.md "wikilink")、[CPU和](../Page/CPU.md "wikilink")[时钟频率进行进一步的划分](../Page/时钟频率.md "wikilink")。自2006年AMD收购ATI后，ATI
+Radeon**）是2000年以来，由[ATi公司制造的](https://zh.wikipedia.org/wiki/ATi "wikilink")[图像处理单元的品牌](https://zh.wikipedia.org/wiki/GPU "wikilink")。该品牌下的产品根据对[DirectX不同版本的支持可划分为四组不同的产品](../Page/DirectX.md "wikilink")，产品如[HyperZ版还可以根据](https://zh.wikipedia.org/wiki/HyperZ "wikilink")[流水线的数目及](../Page/流水线_\(计算机\).md "wikilink")[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[时钟频率进行进一步的划分](../Page/时钟频率.md "wikilink")。自2006年AMD收购ATI后，ATI
 Radeon更名为ATI Radeon HD，AMD发布Radeon HD6 Series时正式将Radeon系列更名为AMD Radeon
 HD，从AMD发布Radeon HD8 Series零售版时正式将Radeon HD系列更名AMD Radeon R(R5/R7/R9)。
 
@@ -20,7 +20,8 @@ abc的命名規則。
       - Radeon HD7770 GDDR5
       - Radeon HD7750 GDDR5
       - Radeon HD7730 GDDR5
-  - [Radeon HD6 Series](../Page/Radeon_R900.md "wikilink")
+  - [Radeon HD6
+    Series](https://zh.wikipedia.org/wiki/Radeon_R900 "wikilink")
       - Radeon HD6990 GDDR5 (Dual GPU)
       - Radeon HD6970 GDDR5
       - Radeon HD6950 GDDR5
@@ -32,14 +33,16 @@ abc的命名規則。
       - Radeon HD6670 GDDR5
       - Radeon HD6570 GDDR5
       - Radeon HD6450 GDDR5
-  - [Radeon HD5 Series](../Page/Evergreen_\(顯示核心\).md "wikilink")
+  - [Radeon HD5
+    Series](https://zh.wikipedia.org/wiki/Evergreen_\(顯示核心\) "wikilink")
       - Radeon HD5970 GDDR5 (Dual GPU)
       - Radeon HD5870 GDDR5
       - Radeon HD5850 GDDR5
       - Radeon HD5770 GDDR5
       - Radeon HD5750 GDDR5
       - Radeon HD5450 GDDR3
-  - [Radeon HD4 Series](../Page/Radeon_R700.md "wikilink")
+  - [Radeon HD4
+    Series](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")
       - Radeon HD4890 GDDR5
       - Radeon HD4870X2 GDDR5 (Dual GPU)
       - Radeon HD4870 GDDR5
@@ -51,7 +54,8 @@ abc的命名規則。
       - Radeon HD4650 GDDR3/GDDR2
       - Radeon HD4550 GDDR3
       - Radeon HD4350 GDDR2
-  - [Radeon HD3 Series](../Page/Radeon_R600.md "wikilink")
+  - [Radeon HD3
+    Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
       - Radeon HD3870X2 GDDR4 (Dual GPU)
       - Radeon HD3870 GDDR4
       - Radeon HD3850 GDDR4/GDDR3
@@ -59,14 +63,16 @@ abc的命名規則。
       - Radeon HD3650 GDDR4/GDDR3/GDDR2
       - Radeon HD3470 GDDR3
       - Radeon HD3450 GDDR3/GDDR2
-  - [Radeon HD2 Series](../Page/Radeon_R600.md "wikilink")
+  - [Radeon HD2
+    Series](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")
       - Radeon HD2900XT GDDR3/GDDR4
       - Radeon HD2900PRO GDDR3/GDDR4
       - Radeon HD2600XT GDDR4/GDDR3
       - Radeon HD2600PRO GDDR3/GDDR2
       - Radeon HD2400XT DDR3
       - Radeon HD2400PRO DDR2
-  - [Radeon X1 Series](../Page/Radeon_X1_Series.md "wikilink")
+  - [Radeon X1
+    Series](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")
       - Radeon X1300
       - Radeon X1300 Pro
       - Radeon X1300 XT
@@ -86,7 +92,8 @@ abc的命名規則。
       - Radeon X1950 Pro
       - Radeon X1950 XT
       - Radeon X1950 XTXeon
-  - [Radeon X Series](../Page/Radeon_X_Series.md "wikilink")
+  - [Radeon X
+    Series](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")
       - Radeon X300 HM
       - Radeon X300
       - Radeon X300 SE
@@ -114,7 +121,8 @@ abc的命名規則。
 
   -   - Radeon X850 XT PE
 
-  - [Radeon 9 Series](../Page/Radeon_R300.md "wikilink")
+  - [Radeon 9
+    Series](https://zh.wikipedia.org/wiki/Radeon_R300 "wikilink")
 
       - Radeon 9000
       - Radeon 9000 Pro
@@ -136,12 +144,14 @@ abc的命名規則。
       - Radeon 9800 Pro
       - Radeon 9800 XT
 
-  - [Radeon 8 Series](../Page/Radeon_R200.md "wikilink")
+  - [Radeon 8
+    Series](https://zh.wikipedia.org/wiki/Radeon_R200 "wikilink")
 
       - Radeon 8500 LE
       - Radeon 8500
 
-  - [Radeon 7 Series](../Page/Radeon_R100.md "wikilink")
+  - [Radeon 7
+    Series](https://zh.wikipedia.org/wiki/Radeon_R100 "wikilink")
 
 [Radeon_7500LE.JPG](https://zh.wikipedia.org/wiki/File:Radeon_7500LE.JPG "fig:Radeon_7500LE.JPG")
 

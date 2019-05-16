@@ -1,10 +1,10 @@
-**IUPAC命名法**（）包括[IUPAC规定的一系列的命名法](../Page/IUPAC.md "wikilink")，它规定从[有机到](../Page/有机.md "wikilink")[无机](../Page/无机.md "wikilink")、从[分子到](../Page/分子.md "wikilink")[高分子及各方面](../Page/高分子.md "wikilink")[化学术语](../Page/化学.md "wikilink")。IUPAC已将命名法出版为一系列的颜色书。
+**IUPAC命名法**（）包括[IUPAC规定的一系列的命名法](https://zh.wikipedia.org/wiki/IUPAC "wikilink")，它规定从[有机到](https://zh.wikipedia.org/wiki/有机 "wikilink")[无机](https://zh.wikipedia.org/wiki/无机 "wikilink")、从[分子到](../Page/分子.md "wikilink")[高分子及各方面](../Page/高分子.md "wikilink")[化学术语](https://zh.wikipedia.org/wiki/化学 "wikilink")。IUPAC已将命名法出版为一系列的颜色书。
 
 ## IUPAC颜色书
 
   - 总则（General）
-      - [化学命名原理](../Page/化学.md "wikilink")（Principles of Chemical
-        Nomenclature: a Guide to IUPAC Recommendations）
+      - [化学命名原理](https://zh.wikipedia.org/wiki/化学 "wikilink")（Principles
+        of Chemical Nomenclature: a Guide to IUPAC Recommendations）
   - 蓝色书（Blue Book）
       - 有机化学命名法，A、B、C、D、E、F和H部（Nomenclature of Organic Chemistry,
         Sections A, B, C, D, E, F, and H）

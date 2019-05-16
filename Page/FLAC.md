@@ -1,16 +1,16 @@
 **FLAC**（；全称：**F**ree **L**ossless **A**udio
-**C**odec），中文直译為**自由無損音頻壓縮編碼**（注：这里“*Free*”指的是**[自由软件](../Page/自由软件.md "wikilink")**——而并不仅是**免费**）。FLAC是一款的[自由](../Page/自由軟體.md "wikilink")[音頻壓縮](../Page/音頻壓縮.md "wikilink")[編碼](../Page/編碼.md "wikilink")，其特點是可以对音频文件[無損壓縮](../Page/无损数据压缩.md "wikilink")。不同於其他[有損壓縮編碼](../Page/有损数据压缩.md "wikilink")（如[MP3](../Page/MP3.md "wikilink")
+**C**odec），中文直译為**自由無損音頻壓縮編碼**（注：这里“*Free*”指的是**[自由软件](../Page/自由软件.md "wikilink")**——而并不仅是**免费**）。FLAC是一款的[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[音頻壓縮](https://zh.wikipedia.org/wiki/音頻壓縮 "wikilink")[編碼](https://zh.wikipedia.org/wiki/編碼 "wikilink")，其特點是可以对音频文件[無損壓縮](../Page/无损数据压缩.md "wikilink")。不同於其他[有損壓縮編碼](../Page/有损数据压缩.md "wikilink")（如[MP3](../Page/MP3.md "wikilink")
 、[AAC等](../Page/進階音訊編碼.md "wikilink")），壓縮後不會有任何音質損失，現在已被很多軟體及硬體音頻產品所支持。
 
 ## 历史
 
 FLAC项目由Josh Coalson在2000年发起并开发\[1\]。FLAC位元流格式在进入FLAC
-0.5版本[內部測試時被冻结](../Page/内测.md "wikilink")，2001年1月15日FLAC
+0.5版本[內部測試時被冻结](https://zh.wikipedia.org/wiki/内测 "wikilink")，2001年1月15日FLAC
 0.5版本发布，做為第一個FLAC的參考實做，2001年7月20日，FLAC 1.0正式釋出\[2\]。
 
 2003年1月29日，[Xiph.Org基金會宣佈FLAC併入旗下](../Page/Xiph.Org基金會.md "wikilink")，连同[Ogg
-Vorbis](../Page/Ogg_Vorbis.md "wikilink")，[Ogg
-Theora及](../Page/Ogg_Theora.md "wikilink")[Speex成為旗下的開源项目](../Page/Speex.md "wikilink")\[3\]\[4\]\[5\]。
+Vorbis](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")，[Ogg
+Theora及](https://zh.wikipedia.org/wiki/Ogg_Theora "wikilink")[Speex成為旗下的開源项目](https://zh.wikipedia.org/wiki/Speex "wikilink")\[3\]\[4\]\[5\]。
 
 2013年5月26日，FLAC 1.3.0发布，并将开发转移至Xiph.org
 [Git仓库](../Page/Git.md "wikilink")\[6\]。
@@ -29,22 +29,24 @@ FLAC项目包含：
   - flac，一個文字介面的壓縮指令，配合libFLAC以編碼或解碼.flac檔案
   - metaflac，一個文字介面的.flac元數據編輯器
   - input
-    plugins，不同的音樂播放軟體的輸入插件（如[Winamp](../Page/Winamp.md "wikilink")，[XMMS](../Page/XMMS.md "wikilink")，[foobar2000](../Page/foobar2000.md "wikilink")，[musikCube](../Page/musikCube.md "wikilink")）
+    plugins，不同的音樂播放軟體的輸入插件（如[Winamp](../Page/Winamp.md "wikilink")，[XMMS](../Page/XMMS.md "wikilink")，[foobar2000](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")，[musikCube](https://zh.wikipedia.org/wiki/musikCube "wikilink")）
 
-*自由*指的是這個音頻格式可以在不需事先授權的情況下使用（xiph.org保留了製定FLAC規格及認證相容規挌的權利）。而不論是FLAC格式還是其編碼及解碼方法均沒有任何[軟體專利保護](../Page/軟體專利.md "wikilink")，這表示整個FLAC是[自由軟體](../Page/自由軟體.md "wikilink")：libFLAC及libFLAC++的源代碼是在[BSD許可證下發佈](../Page/BSD許可證.md "wikilink")，而flac，metaflac及其他插件的源代碼均是在[GPL下發佈](../Page/GPL.md "wikilink")。
+*自由*指的是這個音頻格式可以在不需事先授權的情況下使用（xiph.org保留了製定FLAC規格及認證相容規挌的權利）。而不論是FLAC格式還是其編碼及解碼方法均沒有任何[軟體專利保護](https://zh.wikipedia.org/wiki/軟體專利 "wikilink")，這表示整個FLAC是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")：libFLAC及libFLAC++的源代碼是在[BSD許可證下發佈](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")，而flac，metaflac及其他插件的源代碼均是在[GPL下發佈](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 在其官方的目標中，FLAC計劃不鼓励开发者在其中加入任何反复制特性。
 
 ## 技術
 
-FLAC只支持[定點取樣](../Page/定點取樣.md "wikilink")，並不支持[浮點取樣](../Page/浮點取樣.md "wikilink")，這是因為它要確保沒有任何約數錯誤以致影響音質。它能支持任何[PCM](../Page/PCM.md "wikilink")[位分辨率](../Page/位分辨率.md "wikilink")，由4至32
-bits per sample皆有。它亦支持任何[取樣頻率](../Page/取樣頻率.md "wikilink")，由1 Hz至655,350
-Hz不等，並可逐1 Hz微調。
+FLAC只支持[定點取樣](https://zh.wikipedia.org/wiki/定點取樣 "wikilink")，並不支持[浮點取樣](https://zh.wikipedia.org/wiki/浮點取樣 "wikilink")，這是因為它要確保沒有任何約數錯誤以致影響音質。它能支持任何[PCM](https://zh.wikipedia.org/wiki/PCM "wikilink")[位分辨率](https://zh.wikipedia.org/wiki/位分辨率 "wikilink")，由4至32
+bits per
+sample皆有。它亦支持任何[取樣頻率](https://zh.wikipedia.org/wiki/取樣頻率 "wikilink")，由1
+Hz至655,350 Hz不等，並可逐1 Hz微調。
 
-FLAC支持很多不同的平台：大多數的[Unix-like系統](../Page/Unix-like.md "wikilink")（包括[Linux](../Page/Linux.md "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris及](../Page/Solaris_Operating_Environment.md "wikilink")[Mac
+FLAC支持很多不同的平台：大多數的[Unix-like系統](https://zh.wikipedia.org/wiki/Unix-like "wikilink")（包括[Linux](../Page/Linux.md "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris及](https://zh.wikipedia.org/wiki/Solaris_Operating_Environment "wikilink")[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")），[Windows](../Page/Microsoft_Windows.md "wikilink")，[BeOS及](../Page/BeOS.md "wikilink")[OS/2](../Page/OS/2.md "wikilink")。支持這麼多平台的原因是因為它是由[autoconf](../Page/autoconf.md "wikilink")／[automake](../Page/automake.md "wikilink")、[MSVC](../Page/Microsoft_Visual_C++.md "wikilink")、[Watcom
-C及Project](../Page/Watcom_c.md "wikilink") Builder編譯的。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")），[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[BeOS及](../Page/BeOS.md "wikilink")[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")。支持這麼多平台的原因是因為它是由[autoconf](https://zh.wikipedia.org/wiki/autoconf "wikilink")／[automake](https://zh.wikipedia.org/wiki/automake "wikilink")、[MSVC](../Page/Microsoft_Visual_C++.md "wikilink")、[Watcom
+C及Project](https://zh.wikipedia.org/wiki/Watcom_c "wikilink")
+Builder編譯的。
 
 FLAC的技术特点如下：
 
@@ -62,21 +64,21 @@ FLAC的技术特点如下：
 
 ## 比較
 
-FLAC與其他無損壓縮式，如[ZIP及](../Page/ZIP_\(算法\).md "wikilink")[gzip的主要分別在於FLAC可即時播放已壓縮的音頻資料](../Page/gzip.md "wikilink")，而且FLAC比ZIP這類無損壓縮格式有更高的壓縮比率。（FLAC在壓縮音樂時有大約五成壓縮率，但ZIP在同一情況下則只有一至兩成壓縮率。）
+FLAC與其他無損壓縮式，如[ZIP及](https://zh.wikipedia.org/wiki/ZIP_\(算法\) "wikilink")[gzip的主要分別在於FLAC可即時播放已壓縮的音頻資料](https://zh.wikipedia.org/wiki/gzip "wikilink")，而且FLAC比ZIP這類無損壓縮格式有更高的壓縮比率。（FLAC在壓縮音樂時有大約五成壓縮率，但ZIP在同一情況下則只有一至兩成壓縮率。）
 
-雖然有損壓縮格式如[MP3](../Page/MP3.md "wikilink")，[ogg等有更高的壓縮率](../Page/Ogg_Vorbis.md "wikilink")，但它們會破壞了音頻的原來數據，使其不可變回原來音質，而且FLAC可自由選擇壓縮率及壓縮時間，較高的壓縮率會帶來較高的解壓縮時間。相比起其他無損壓縮格式如[Monkey's
-Audio](../Page/Monkey's_Audio.md "wikilink")（拓展名为.APE）及[Shorten](../Page/Shorten.md "wikilink")，虽然压缩率稍有不及[Monkey's
+雖然有損壓縮格式如[MP3](../Page/MP3.md "wikilink")，[ogg等有更高的壓縮率](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")，但它們會破壞了音頻的原來數據，使其不可變回原來音質，而且FLAC可自由選擇壓縮率及壓縮時間，較高的壓縮率會帶來較高的解壓縮時間。相比起其他無損壓縮格式如[Monkey's
+Audio](../Page/Monkey's_Audio.md "wikilink")（拓展名为.APE）及[Shorten](https://zh.wikipedia.org/wiki/Shorten "wikilink")，虽然压缩率稍有不及[Monkey's
 Audio](../Page/Monkey's_Audio.md "wikilink")，FLAC技术更先进，占用资源更低，而且是开放的，所以，更多的平台及硬體產品支持FLAC。
 
 在Hydrogenaudio維基有一個各類無損音頻壓縮的比較表，里面包括了FLAC格式。\[7\]
 
 ## 参见
 
-  - [無損壓縮格式比較列表](../Page/無損壓縮格式比較列表.md "wikilink")
-  - [有損壓縮比較列表](../Page/有損壓縮比較列表.md "wikilink")
-  - [音頻壓縮格式列表](../Page/音頻壓縮格式列表.md "wikilink")
+  - [無損壓縮格式比較列表](https://zh.wikipedia.org/wiki/無損壓縮格式比較列表 "wikilink")
+  - [有損壓縮比較列表](https://zh.wikipedia.org/wiki/有損壓縮比較列表 "wikilink")
+  - [音頻壓縮格式列表](https://zh.wikipedia.org/wiki/音頻壓縮格式列表 "wikilink")
   - [Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")
-  - [音频编码格式的比较](../Page/音频编码格式的比较.md "wikilink")
+  - [音频编码格式的比较](https://zh.wikipedia.org/wiki/音频编码格式的比较 "wikilink")
   - [无损数据压缩](../Page/无损数据压缩.md "wikilink")
 
 ## 註解

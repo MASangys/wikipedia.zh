@@ -1,13 +1,13 @@
 **PCM電腦廣場**，前稱**星島電腦廣場**或**PC
-Market**，是一本[香港](../Page/香港.md "wikilink")[電腦](../Page/電腦.md "wikilink")[科技](../Page/科技.md "wikilink")[雜誌](../Page/雜誌.md "wikilink")。
+Market**，是一本[香港](../Page/香港.md "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
 《PCM
-電腦廣場》曾是香港[星島新聞集團旗下刊物](../Page/星島新聞集團有限公司.md "wikilink")，為香港歷史較悠久的電腦科技雜誌，銷量在前列位置。早期逢星期二隨《[星島日報](../Page/星島日報.md "wikilink")》附送，後改為獨立發售；並改成星期一出版。
+電腦廣場》曾是香港[星島新聞集團旗下刊物](https://zh.wikipedia.org/wiki/星島新聞集團有限公司 "wikilink")，為香港歷史較悠久的電腦科技雜誌，銷量在前列位置。早期逢星期二隨《[星島日報](../Page/星島日報.md "wikilink")》附送，後改為獨立發售；並改成星期一出版。
 
 2016年1月起《PCM 電腦廣場》脫離星島新聞集團，由雜誌員工成立 Plug Media Services Ltd. 接手出版。
 
-周刊提供各類數碼科技及[影音產品的最新消息](../Page/影音產品.md "wikilink")、電腦產品的測試報告及介紹、潮流資訊、科技界企業新聞、產品價格等。《PCM
-電腦廣場》目前的主要內容也由從前以[電腦軟硬件為主](../Page/電腦軟硬件.md "wikilink")，漸漸轉向以[數碼產品為主導](../Page/數碼產品.md "wikilink")。
+周刊提供各類數碼科技及[影音產品的最新消息](https://zh.wikipedia.org/wiki/影音產品 "wikilink")、電腦產品的測試報告及介紹、潮流資訊、科技界企業新聞、產品價格等。《PCM
+電腦廣場》目前的主要內容也由從前以[電腦軟硬件為主](https://zh.wikipedia.org/wiki/電腦軟硬件 "wikilink")，漸漸轉向以[數碼產品為主導](https://zh.wikipedia.org/wiki/數碼產品 "wikilink")。
 
 《PCM 電腦廣場》逢星期二出版（多數已在星期一有售），售價為15港元，一書兩冊，包括：
 

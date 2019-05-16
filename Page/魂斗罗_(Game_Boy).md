@@ -1,5 +1,5 @@
 《**魂斗罗**》（），美版名**Operation
-C**，是[KONAMI在](../Page/KONAMI.md "wikilink")1991年推出的《[魂斗罗](../Page/魂斗罗.md "wikilink")》系列的一作，中文名称和[街机上的第一作相同](../Page/街机.md "wikilink")。
+C**，是[KONAMI在](https://zh.wikipedia.org/wiki/KONAMI "wikilink")1991年推出的《[魂斗罗](../Page/魂斗罗.md "wikilink")》系列的一作，中文名称和[街机上的第一作相同](../Page/街机.md "wikilink")。
 
 ## 游戏系统
 

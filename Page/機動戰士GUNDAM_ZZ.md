@@ -1,14 +1,14 @@
 《**機動戰士GUNDAM
-ZZ**》是[GUNDAM系列作品的第三部電視版](../Page/GUNDAM系列作品.md "wikilink")[動畫](../Page/動畫.md "wikilink")。是《[機動戰士Z
-GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")》的續集。於1986年3月1日至1987年1月31日在名古屋電視台上映。[台灣於](../Page/台灣.md "wikilink")1989年10月21日至1990年9月15日間由[緯來公司製播](../Page/緯來.md "wikilink")\[1\]，與前作《[機動戰士Z鋼彈](../Page/機動戰士Z鋼彈.md "wikilink")》一併以《**鋼彈勇-{}-士**》的名稱於[華視頻道放映](../Page/華視.md "wikilink")；香港[無綫電視則譯為](../Page/無綫電視.md "wikilink")《**機動戰士雷霆一擊**》，由1993年3月30日至1993年6月1日期間在[無綫電視翡翠台播放](../Page/無綫電視翡翠台.md "wikilink")。官方網上重製字幕版本於2017年在gundam.info免費放送。
+ZZ**》是[GUNDAM系列作品的第三部電視版](../Page/GUNDAM系列作品.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。是《[機動戰士Z
+GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")》的續集。於1986年3月1日至1987年1月31日在名古屋電視台上映。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")1989年10月21日至1990年9月15日間由[緯來公司製播](https://zh.wikipedia.org/wiki/緯來 "wikilink")\[1\]，與前作《[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")》一併以《**鋼彈勇-{}-士**》的名稱於[華視頻道放映](https://zh.wikipedia.org/wiki/華視 "wikilink")；香港[無綫電視則譯為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**機動戰士雷霆一擊**》，由1993年3月30日至1993年6月1日期間在[無綫電視翡翠台播放](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。官方網上重製字幕版本於2017年在gundam.info免費放送。
 
 雖然書寫常以英文字的**Z**來取代希臘文第六字母的**Z**，但是標題當中「**ΖΖ**」的正確發音應念為「**Double
 Zeta**（）」。
 
 ## 故事
 
-[宇宙世紀](../Page/宇宙世紀.md "wikilink")0088年，在-{zh-hans:格里布斯戰爭;zh-hk:格利普斯戰役;zh-tw:格里布斯戰爭;}-後元氣大傷的[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-](../Page/幽谷.md "wikilink")，而[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-主力戰艦之一](../Page/幽谷.md "wikilink")[阿卡馬](../Page/阿卡馬.md "wikilink")（此詞來自梵文「阿含」）進入Side1香格里拉殖民地進行補給與修理時，從事資源回收業的主角[-{zh-hans:捷多·亚西塔;zh-hk:捷度·艾斯圖;zh-tw:傑特·亞希達;}-與他的朋友們企圖偷走](../Page/傑特·亞希達.md "wikilink")[Z-GUNDAM拿去賣錢](../Page/MSZ-006系列机动战士.md "wikilink")，由這個事件開始，-{zh-hant:傑特;zh-hans:捷多;zh-hk:捷度
-}-與朋友們被捲入了[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-與](../Page/幽谷.md "wikilink")[新吉翁的衝突當中](../Page/新吉翁.md "wikilink")，在故事中期[哈曼·坎恩發動](../Page/哈曼·坎恩.md "wikilink")[第一次新吉翁抗戰](../Page/第一次新吉翁抗戰.md "wikilink")，抗戰後期[葛雷米佔領](../Page/薩比家#葛雷米·托托.md "wikilink")[-{zh-hans:阿克西斯;zh-hk:阿古捷斯;zh-tw:阿克西斯;}-發動叛亂為故事的完結](../Page/阿克西斯.md "wikilink")。
+[宇宙世紀](../Page/宇宙世紀.md "wikilink")0088年，在-{zh-hans:格里布斯戰爭;zh-hk:格利普斯戰役;zh-tw:格里布斯戰爭;}-後元氣大傷的[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-](https://zh.wikipedia.org/wiki/幽谷 "wikilink")，而[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-主力戰艦之一](https://zh.wikipedia.org/wiki/幽谷 "wikilink")[阿卡馬](https://zh.wikipedia.org/wiki/阿卡馬 "wikilink")（此詞來自梵文「阿含」）進入Side1香格里拉殖民地進行補給與修理時，從事資源回收業的主角[-{zh-hans:捷多·亚西塔;zh-hk:捷度·艾斯圖;zh-tw:傑特·亞希達;}-與他的朋友們企圖偷走](../Page/傑特·亞希達.md "wikilink")[Z-GUNDAM拿去賣錢](https://zh.wikipedia.org/wiki/MSZ-006系列机动战士 "wikilink")，由這個事件開始，-{zh-hant:傑特;zh-hans:捷多;zh-hk:捷度
+}-與朋友們被捲入了[-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-與](https://zh.wikipedia.org/wiki/幽谷 "wikilink")[新吉翁的衝突當中](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")，在故事中期[哈曼·坎恩發動](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")[第一次新吉翁抗戰](https://zh.wikipedia.org/wiki/第一次新吉翁抗戰 "wikilink")，抗戰後期[葛雷米佔領](https://zh.wikipedia.org/wiki/薩比家#葛雷米·托托 "wikilink")[-{zh-hans:阿克西斯;zh-hk:阿古捷斯;zh-tw:阿克西斯;}-發動叛亂為故事的完結](../Page/阿克西斯.md "wikilink")。
 
 ## 作品解說
 
@@ -16,7 +16,7 @@ Zeta**（）」。
 GUNDAM》「故事太過陰暗悲慘」的批評，而將故事轉向明朗快活的漫畫式的情節來發展。但是播出之後卻反而在舊作愛好者當中被斥為「胡鬧」。隨著故事的進行，中後期對MS戰鬥的細緻描寫，以及歷經-{zh-hans:新吉翁;zh-hk:新自護;zh-tw:新吉翁;}-殖民地投下作戰等橋段之後，故事又轉回認真沈重的路線，結果也開拓一批新的愛好者。另外，由於在上映期間上層部已決定製作劇場版《[機動戰士GUNDAM
 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》，所以本來預定在故事後半登場的[夏亞·阿茲納布爾的劇情被刪除](../Page/夏亞·阿茲納布爾.md "wikilink")，只留下一些與「逆襲的夏亞」連接的故事伏筆，以及在片頭動畫中登場的夏亞。由於2006年接連上映的劇場版《Z
 GUNDAM》劇情與ZZ等後續設定差異過大，只被視為平行世界的作品，《[機動戰士高達
-UNICORN](../Page/機動戰士高達_UNICORN.md "wikilink")》與官方的設定正史皆以原版《Z
+UNICORN](https://zh.wikipedia.org/wiki/機動戰士高達_UNICORN "wikilink")》與官方的設定正史皆以原版《Z
 GUNDAM》為主。
 
 ### 有關本作MS設定的小故事
@@ -25,81 +25,85 @@ ZZ在機械設定上與前作Z一樣也出現了許多難題。當初預定由[�
 GUNDAM的合體變形機構在模型上也無法重現，使得贊助廠商BANDAI有所不滿。經歷數度修正仍無法解決，最後只得換掉永野護。
 
 在《ZZ GUNDAM》正式放映剩下不到三週的緊急時間當中，Sunrise決定將ZZ
-GUNDAM設計交給[小林誠](../Page/小林誠_\(插畫家\).md "wikilink")，新吉翁系列機體交給[出渕裕重新設計](../Page/出渕裕.md "wikilink")。借重小林本身模型設計師的才能，以及在《Z
+GUNDAM設計交給[小林誠](https://zh.wikipedia.org/wiki/小林誠_\(插畫家\) "wikilink")，新吉翁系列機體交給[出渕裕重新設計](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")。借重小林本身模型設計師的才能，以及在《Z
 GUNDAM》當中所設定過與等可變形機體的經驗，加上伸童舍（工作室名稱，主要人員為岡本英郎）與[明貴美加的合作](../Page/明貴美加.md "wikilink")，終於將《ZZ
 GUNDAM》定稿。另外出渕裕在本作中因工作排程問題，只擔任了設計原案（實際定稿的機體為），中後期的所有新機體都交由明貴美加設定。
 
 ## 登場MS
 
-### [-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-](../Page/幽谷.md "wikilink")（A.E.U.G.）
+### [-{zh-hans:奥古;zh-hk:奧干;zh-tw:幽谷;}-](https://zh.wikipedia.org/wiki/幽谷 "wikilink")（A.E.U.G.）
 
-  - [MSZ-010 ZZ GUNDAM](../Page/MSZ-010.md "wikilink")
-  - [MSZ-010s 強化型ZZ GUNDAM](../Page/MSZ-010s.md "wikilink")
-  - [FA-010B 全裝甲ZZ GUNDAM](../Page/FA-010B.md "wikilink")
-  - [RGM-86R 吉姆III](../Page/RGM-86R.md "wikilink")
-  - [MSZ-006 ZGUNDAM](../Page/MSZ-006.md "wikilink")
-  - [MSN-00100 百式](../Page/MSN-00100型機動戰士.md "wikilink")
+  - [MSZ-010 ZZ
+    GUNDAM](https://zh.wikipedia.org/wiki/MSZ-010 "wikilink")
+  - [MSZ-010s 強化型ZZ
+    GUNDAM](https://zh.wikipedia.org/wiki/MSZ-010s "wikilink")
+  - [FA-010B 全裝甲ZZ
+    GUNDAM](https://zh.wikipedia.org/wiki/FA-010B "wikilink")
+  - [RGM-86R 吉姆III](https://zh.wikipedia.org/wiki/RGM-86R "wikilink")
+  - [MSZ-006 ZGUNDAM](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink")
+  - [MSN-00100
+    百式](https://zh.wikipedia.org/wiki/MSN-00100型機動戰士 "wikilink")
   - [MSA-005
-    -{zh-hans:麦塔斯;zh-hk:密達斯;zh-tw:梅達斯;}-](../Page/MSA-005.md "wikilink")
-  - [RX-178 MK-II](../Page/RX-178.md "wikilink")
+    -{zh-hans:麦塔斯;zh-hk:密達斯;zh-tw:梅達斯;}-](https://zh.wikipedia.org/wiki/MSA-005 "wikilink")
+  - [RX-178 MK-II](https://zh.wikipedia.org/wiki/RX-178 "wikilink")
   - [RMS-099
-    -{zh-hans:力克·迪亚斯;zh-hk:力奇·戴亞斯;}-](../Page/RMS-099.md "wikilink")
+    -{zh-hans:力克·迪亚斯;zh-hk:力奇·戴亞斯;}-](https://zh.wikipedia.org/wiki/RMS-099 "wikilink")
 
-### [-{zh-hans:新吉恩;zh-hk:新自護;zh-tw:新吉翁;}-](../Page/新吉翁.md "wikilink")（Neo Zeon）
+### [-{zh-hans:新吉恩;zh-hk:新自護;zh-tw:新吉翁;}-](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")（Neo Zeon）
 
   - [AMX-003
-    -{zh-hans:加萨;zh-hk:加煞;zh-tw:卡薩;}-C](../Page/AMX-003.md "wikilink")
+    -{zh-hans:加萨;zh-hk:加煞;zh-tw:卡薩;}-C](https://zh.wikipedia.org/wiki/AMX-003 "wikilink")
   - [AMX-004
-    -{zh-hans:卡碧尼;zh-hk:卡碧尼;zh-tw:丘貝雷;}-](../Page/AMX-004.md "wikilink")
+    -{zh-hans:卡碧尼;zh-hk:卡碧尼;zh-tw:丘貝雷;}-](https://zh.wikipedia.org/wiki/AMX-004 "wikilink")
   - [AMX-004-2
-    -{zh-hans:卡碧尼;zh-hk:卡碧尼;zh-tw:丘貝雷;}-MK-Ⅱ](../Page/AMX-004.md "wikilink")
+    -{zh-hans:卡碧尼;zh-hk:卡碧尼;zh-tw:丘貝雷;}-MK-Ⅱ](https://zh.wikipedia.org/wiki/AMX-004 "wikilink")
   - [AMX-006
-    -{zh-hans:加萨;zh-hk:加煞;zh-tw:卡薩;}-D](../Page/AMX-006.md "wikilink")
+    -{zh-hans:加萨;zh-hk:加煞;zh-tw:卡薩;}-D](https://zh.wikipedia.org/wiki/AMX-006 "wikilink")
   - [AMX-008
-    -{zh-hans:加佐姆;zh-hk:加蘇姆;zh-tw:加索姆;}-](../Page/AMX-008.md "wikilink")
+    -{zh-hans:加佐姆;zh-hk:加蘇姆;zh-tw:加索姆;}-](https://zh.wikipedia.org/wiki/AMX-008 "wikilink")
   - [AMX-009
-    -{zh-hans:德莱森;zh-hk:達拉辛;zh-tw:德萊森;}-](../Page/AMX-009.md "wikilink")
+    -{zh-hans:德莱森;zh-hk:達拉辛;zh-tw:德萊森;}-](https://zh.wikipedia.org/wiki/AMX-009 "wikilink")
   - [AMX-011
-    -{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-Ⅲ](../Page/AMX-011.md "wikilink")
+    -{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-Ⅲ](https://zh.wikipedia.org/wiki/AMX-011 "wikilink")
   - [AMX-011S
-    -{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-Ⅲ改](../Page/AMX-011.md "wikilink")
+    -{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-Ⅲ改](https://zh.wikipedia.org/wiki/AMX-011 "wikilink")
   - [AMX-014
-    -{zh-hans:飙狼;zh-hk:達希魯夫;zh-tw:杜班·烏爾夫;}-](../Page/AMX-014.md "wikilink")
+    -{zh-hans:飙狼;zh-hk:達希魯夫;zh-tw:杜班·烏爾夫;}-](https://zh.wikipedia.org/wiki/AMX-014 "wikilink")
   - [AMX-015
-    -{zh-hans:盖马克;zh-hk:京麥古;zh-tw:蓋馬克;}-](../Page/AMX-015.md "wikilink")
+    -{zh-hans:盖马克;zh-hk:京麥古;zh-tw:蓋馬克;}-](https://zh.wikipedia.org/wiki/AMX-015 "wikilink")
   - [AMX-101
-    -{zh-hans:卡尔斯;zh-hk:寇斯;zh-tw:卡爾斯;}-J](../Page/AMX-101.md "wikilink")
+    -{zh-hans:卡尔斯;zh-hk:寇斯;zh-tw:卡爾斯;}-J](https://zh.wikipedia.org/wiki/AMX-101 "wikilink")
   - [AMX-102
-    -{zh-hans:兹萨;zh-hk:瑞莎;zh-tw:茲薩;}-](../Page/AMX-102.md "wikilink")
+    -{zh-hans:兹萨;zh-hk:瑞莎;zh-tw:茲薩;}-](https://zh.wikipedia.org/wiki/AMX-102 "wikilink")
   - [AMX-103
-    -{zh-hans:哈玛·哈玛;zh-hk:哈瑪·哈瑪(或稱哈曼號);zh-tw:漢馬·漢馬;}-](../Page/AMX-103.md "wikilink")
+    -{zh-hans:哈玛·哈玛;zh-hk:哈瑪·哈瑪(或稱哈曼號);zh-tw:漢馬·漢馬;}-](https://zh.wikipedia.org/wiki/AMX-103 "wikilink")
   - [AMX-104 R·-{zh-hans:贾贾;zh-hk:查查;zh-tw:加加;}-(或稱R 勇
-    士)](../Page/AMX-104.md "wikilink")
+    士)](https://zh.wikipedia.org/wiki/AMX-104 "wikilink")
   - [AMX-107
-    -{zh-hans:龙飞;zh-hk:龍飛;zh-tw:巴烏;}-](../Page/AMX-107.md "wikilink")
+    -{zh-hans:龙飞;zh-hk:龍飛;zh-tw:巴烏;}-](https://zh.wikipedia.org/wiki/AMX-107 "wikilink")
   - [AMX-109
-    -{zh-hans:卡普尔;zh-hk:卡普爾;zh-tw:卡布魯;}-](../Page/AMX-109.md "wikilink")
+    -{zh-hans:卡普尔;zh-hk:卡普爾;zh-tw:卡布魯;}-](https://zh.wikipedia.org/wiki/AMX-109 "wikilink")
   - [AMX-117R
-    -{zh-hans:卡斯R;zh-hk:卡斯R(右勇士);zh-tw:卡斯R;}-](../Page/AMX-117R.md "wikilink")
+    -{zh-hans:卡斯R;zh-hk:卡斯R(右勇士);zh-tw:卡斯R;}-](https://zh.wikipedia.org/wiki/AMX-117R "wikilink")
   - [AMX-117L
-    -{zh-hans:卡斯L;zh-hk:卡斯L(左勇士);zh-tw:卡斯L;}-](../Page/AMX-117L.md "wikilink")
+    -{zh-hans:卡斯L;zh-hk:卡斯L(左勇士);zh-tw:卡斯L;}-](https://zh.wikipedia.org/wiki/AMX-117L "wikilink")
   - [MS-09
-    -{zh-hans:多瓦吉;zh-hk:多華茲;zh-tw:德瓦齊;}-](../Page/MS-09.md "wikilink")
+    -{zh-hans:多瓦吉;zh-hk:多華茲;zh-tw:德瓦齊;}-](https://zh.wikipedia.org/wiki/MS-09 "wikilink")
   - [MS-09H
-    -{zh-hans:多瓦吉改;zh-hk:多華茲改;zh-tw:德瓦齊;}-](../Page/MS-09.md "wikilink")
+    -{zh-hans:多瓦吉改;zh-hk:多華茲改;zh-tw:德瓦齊;}-](https://zh.wikipedia.org/wiki/MS-09 "wikilink")
   - [MS-14J
-    改修型-{zh-hans:勇士;zh-hk:格魯古古;zh-tw:蓋古克;}-](../Page/MS-14.md "wikilink")
+    改修型-{zh-hans:勇士;zh-hk:格魯古古;zh-tw:蓋古克;}-](https://zh.wikipedia.org/wiki/MS-14 "wikilink")
   - [NZ-000
-    -{zh-hans:葵曼沙;zh-hk:京密煞;zh-tw:昆曼莎;}-](../Page/NZ-000.md "wikilink")
+    -{zh-hans:葵曼沙;zh-hk:京密煞;zh-tw:昆曼莎;}-](https://zh.wikipedia.org/wiki/NZ-000 "wikilink")
   - [-{zh-hans:MRX-010 精神力高达MK-II;zh-hk:MRX-010 重高達 MK-II;zh-tw:MRX-010
-    感應型鋼彈 MK-II;}-](../Page/MRX-010.md "wikilink")
+    感應型鋼彈 MK-II;}-](https://zh.wikipedia.org/wiki/MRX-010 "wikilink")
 
 ## 其它版本
 
 ### 漫畫
 
-放映當時由所畫的劇情漫畫在[講談社兒童漫畫雜誌](../Page/講談社.md "wikilink")《[Comic
-BomBom](../Page/Comic_BomBom.md "wikilink")》（）連載，1999年由[大都社重新出版](../Page/大都社.md "wikilink")。而此版本最為不同之處在於夏亞本人取代TV版中的雪拉在劇末登場。
+放映當時由所畫的劇情漫畫在[講談社兒童漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[Comic
+BomBom](../Page/Comic_BomBom.md "wikilink")》（）連載，1999年由[大都社重新出版](https://zh.wikipedia.org/wiki/大都社 "wikilink")。而此版本最為不同之處在於夏亞本人取代TV版中的雪拉在劇末登場。
 
 ### 小說
 
@@ -117,8 +121,8 @@ GUNDAM》後傳作品。
 
 ### 機動戰士GUNDAM 英雄傳說
 
-由[青木健太](../Page/青木健太.md "wikilink")、[松川健一兩人於](../Page/松川健一.md "wikilink")1990年間在[SD
-CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登為了追查阿姆羅的下落，而來到SIDE-1巧遇香格里拉的少年們，因緣際會地搭上[鋼加農復原機與尚存一氣的亞贊展開激戰](../Page/鋼加農.md "wikilink")。
+由[青木健太](https://zh.wikipedia.org/wiki/青木健太 "wikilink")、[松川健一兩人於](https://zh.wikipedia.org/wiki/松川健一 "wikilink")1990年間在[SD
+CLUB所繪製的漫畫](https://zh.wikipedia.org/wiki/SD_CLUB "wikilink")，內容描述凱西·登為了追查阿姆羅的下落，而來到SIDE-1巧遇香格里拉的少年們，因緣際會地搭上[鋼加農復原機與尚存一氣的亞贊展開激戰](https://zh.wikipedia.org/wiki/鋼加農 "wikilink")。
 
 ## 遊戲書
 
@@ -132,8 +136,8 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
   - 美術：池田繁美
   - 機械設定：伸童舎、明貴美加（第12話以降）
   - 機械概念設定：小林誠、出渕裕
-  - 設計協力：[安彦良和](../Page/安彦良和.md "wikilink")、[大河原邦男](../Page/大河原邦男.md "wikilink")、[藤田一己](../Page/藤田一己.md "wikilink")
-  - 音樂：[三枝成章](../Page/三枝成章.md "wikilink")
+  - 設計協力：[安彦良和](../Page/安彦良和.md "wikilink")、[大河原邦男](../Page/大河原邦男.md "wikilink")、[藤田一己](https://zh.wikipedia.org/wiki/藤田一己 "wikilink")
+  - 音樂：[三枝成章](https://zh.wikipedia.org/wiki/三枝成章 "wikilink")
   - 製作：
 
 ## 主題曲
@@ -143,16 +147,16 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
   - 「アニメじゃない -夢を忘れた古い地球人よ-」
 
 :\*作詞：[秋元康](../Page/秋元康.md "wikilink")
-作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
-編曲：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")
-主唱：[新井正人](../Page/新井正人.md "wikilink")
+作曲：[芹澤廣明](https://zh.wikipedia.org/wiki/芹澤廣明 "wikilink")
+編曲：[鷺巣詩郎](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
+主唱：[新井正人](https://zh.wikipedia.org/wiki/新井正人 "wikilink")
 
   - 「サイレント・ヴォイス」(Silent Voice)
 
-:\*作詞:[売野雅勇](../Page/売野雅勇.md "wikilink")
-作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
-編曲：[若草恵](../Page/若草恵.md "wikilink")
-主唱：[ひろえ純](../Page/ひろえ純.md "wikilink")
+:\*作詞:[売野雅勇](https://zh.wikipedia.org/wiki/売野雅勇 "wikilink")
+作曲：[芹澤廣明](https://zh.wikipedia.org/wiki/芹澤廣明 "wikilink")
+編曲：[若草恵](https://zh.wikipedia.org/wiki/若草恵 "wikilink")
+主唱：[ひろえ純](https://zh.wikipedia.org/wiki/ひろえ純 "wikilink")
 
 **台灣版本**
 
@@ -162,7 +166,7 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
 
   -
     原題：BETTER DAYS ARE
-    COMING、原作詞：[尼爾·薩達卡](../Page/尼爾·薩達卡.md "wikilink")、作詞：？、歌：[藍心湄](../Page/藍心湄.md "wikilink")
+    COMING、原作詞：[尼爾·薩達卡](https://zh.wikipedia.org/wiki/尼爾·薩達卡 "wikilink")、作詞：？、歌：[藍心湄](../Page/藍心湄.md "wikilink")
       -
         由於與前作《機動戰士Z GUNDAM》合映之故，並未再另行新編主題歌曲而直接繼續沿用音樂。
 
@@ -171,7 +175,7 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
   - 「超時空傳說」
 
 :\*作詞﹕[林夕](../Page/林夕.md "wikilink") 作曲﹕[羅大佑](../Page/羅大佑.md "wikilink")
-編曲﹕[Barry Chung](../Page/Barry_Chung.md "wikilink")
+編曲﹕[Barry Chung](https://zh.wikipedia.org/wiki/Barry_Chung "wikilink")
 主唱﹕[黃耀明](../Page/黃耀明.md "wikilink")
 
 ### 片尾曲
@@ -179,25 +183,25 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
   - 「時代が泣いている」
 
 :\*作詞：[秋元康](../Page/秋元康.md "wikilink")
-作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
-編曲：[鷺巣詩郎](../Page/鷺巣詩郎.md "wikilink")
-主唱：[新井正人](../Page/新井正人.md "wikilink")
+作曲：[芹澤廣明](https://zh.wikipedia.org/wiki/芹澤廣明 "wikilink")
+編曲：[鷺巣詩郎](https://zh.wikipedia.org/wiki/鷺巣詩郎 "wikilink")
+主唱：[新井正人](https://zh.wikipedia.org/wiki/新井正人 "wikilink")
 
   - 「一千万年銀河」
 
-:\*作詞:[井荻麟](../Page/井荻麟.md "wikilink")
-作曲：[芹澤廣明](../Page/芹澤廣明.md "wikilink")
-編曲：[若草恵](../Page/若草恵.md "wikilink")
-主唱：[ひろえ純](../Page/ひろえ純.md "wikilink")
+:\*作詞:[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
+作曲：[芹澤廣明](https://zh.wikipedia.org/wiki/芹澤廣明 "wikilink")
+編曲：[若草恵](https://zh.wikipedia.org/wiki/若草恵 "wikilink")
+主唱：[ひろえ純](https://zh.wikipedia.org/wiki/ひろえ純 "wikilink")
 
-### [插曲](../Page/插曲.md "wikilink")
+### [插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")
 
   - 「Ζ・刻を越えて」（第1話）
 
-:\*作詞・作曲：[ニール・セダカ](../Page/ニール・セダカ.md "wikilink")
-作詞：[井荻麟](../Page/井荻麟.md "wikilink")
-編曲：[渡辺博也](../Page/渡辺博也.md "wikilink")
-主唱：[鮎川麻弥](../Page/鮎川麻弥.md "wikilink")
+:\*作詞・作曲：[ニール・セダカ](https://zh.wikipedia.org/wiki/ニール・セダカ "wikilink")
+作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
+編曲：[渡辺博也](https://zh.wikipedia.org/wiki/渡辺博也 "wikilink")
+主唱：[鮎川麻弥](https://zh.wikipedia.org/wiki/鮎川麻弥 "wikilink")
 
 ## 各話標題
 
@@ -710,4 +714,4 @@ CLUB所繪製的漫畫](../Page/SD_CLUB.md "wikilink")，內容描述凱西·登
 [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
 [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
-1.  譯者：[周金燕](../Page/周金燕.md "wikilink")、配音：[老李工作室](../Page/老李工作室.md "wikilink")（節錄自《[神奇地帶](../Page/神奇地帶.md "wikilink")》第13期71頁【TV動畫看板】之記載）
+1.  譯者：[周金燕](https://zh.wikipedia.org/wiki/周金燕 "wikilink")、配音：[老李工作室](https://zh.wikipedia.org/wiki/老李工作室 "wikilink")（節錄自《[神奇地帶](https://zh.wikipedia.org/wiki/神奇地帶 "wikilink")》第13期71頁【TV動畫看板】之記載）

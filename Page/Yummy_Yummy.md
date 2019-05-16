@@ -1,7 +1,7 @@
 《**Yummy
-Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，全劇共30集，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](../Page/林峯.md "wikilink")、[佘詩曼及](../Page/佘詩曼.md "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
+Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共30集，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
 
-劇集特別之處，在於是香港無綫電視和[新加坡](../Page/新加坡.md "wikilink")[新傳媒合作的劇集](../Page/新傳媒.md "wikilink")。除了用上香港、新加坡兩地演員之外，劇集亦在香港、新加坡和[中國](../Page/中國.md "wikilink")[珠海三地取景](../Page/珠海.md "wikilink")。
+劇集特別之處，在於是香港無綫電視和[新加坡](../Page/新加坡.md "wikilink")[新傳媒合作的劇集](https://zh.wikipedia.org/wiki/新傳媒 "wikilink")。除了用上香港、新加坡兩地演員之外，劇集亦在香港、新加坡和[中國](../Page/中國.md "wikilink")[珠海三地取景](https://zh.wikipedia.org/wiki/珠海 "wikilink")。
 
 ## 演員表
 
@@ -46,7 +46,7 @@ Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香�
 <strong>總陀主</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
 <td><p><strong>陳家寶</strong></p></td>
 <td><p>陳威、歐麗蓉之女<br />
 陳家樂之妹<br />
@@ -100,7 +100,7 @@ Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/林峯.md" title="wikilink">林　峯</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林　峯</a></strong></p></td>
 <td><p><strong>游學澧</strong></p></td>
 <td><p>富家子，後為雜誌《食出繽Fun》總編輯<br />
 「有麵食」合夥人；「Kopitarn」合夥人<br />
@@ -126,7 +126,7 @@ Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香�
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉慶基.md" title="wikilink">劉　丹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉慶基" title="wikilink">劉　丹</a></p></td>
 <td><p>周偉昌</p></td>
 <td><p>周文希、周芷茵之父<br />
 林美娟之前夫<br />
@@ -148,7 +148,7 @@ Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>周文希</strong></p></td>
 <td><p>新風采電視（NSTV）公關經理，後為雜誌《食出繽Fun》副總編輯<br />
 「有麵食」合夥人；「Kopitarn」合夥人<br />
@@ -190,7 +190,7 @@ Marco前女友<br />
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/俞宏榮.md" title="wikilink">俞宏榮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俞宏榮" title="wikilink">俞宏榮</a></p></td>
 <td><p>王英俊</p></td>
 <td><p>新加坡華人<br />
 馬莉之夫<br />
@@ -249,27 +249,27 @@ Marco前女友<br />
 <td><p>阿Lo</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃嫊芳.md" title="wikilink">黃嫊芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃嫊芳" title="wikilink">黃嫊芳</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡主持人</p></td>
 <td><p>Michelle</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>周文希</strong></p></td>
 <td><p>「Yummy Yummy終極美食大競賽」參賽者保母<br />
 Vicky之上司</p></td>
 <td><p><strong>Mandy</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/殷櫻.md" title="wikilink">殷　櫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷櫻" title="wikilink">殷　櫻</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」參賽者保母<br />
 周文希之助手</p></td>
 <td><p>Vicky</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/林峯.md" title="wikilink">林　峯</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林　峯</a></strong></p></td>
 <td><p><strong>游學澧</strong></p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者<br />
 與班長不和<br />
@@ -307,13 +307,13 @@ Vicky之上司</p></td>
 <td><p>大隻仔</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伍濼文.md" title="wikilink">伍濼文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍濼文" title="wikilink">伍濼文</a></p></td>
 <td><p>敏</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳文靜.md" title="wikilink">陳文靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳文靜" title="wikilink">陳文靜</a></p></td>
 <td><p>麗</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td></td>
@@ -325,26 +325,26 @@ Vicky之上司</p></td>
 <td><p><strong>Terry</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳泓宇.md" title="wikilink">陳泓宇</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳泓宇" title="wikilink">陳泓宇</a></strong></p></td>
 <td><p>吳世龍</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者<br />
 與游學澧不和</p></td>
 <td><p><strong>班長</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李之晴.md" title="wikilink">李之晴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李之晴" title="wikilink">李之晴</a></p></td>
 <td><p>Macy</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>大板牙</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/詹金泉.md" title="wikilink">詹金泉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹金泉" title="wikilink">詹金泉</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>Rambo</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅芳玲.md" title="wikilink">傅芳玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅芳玲" title="wikilink">傅芳玲</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>豆腐妹</p></td>
@@ -370,7 +370,7 @@ Vicky之上司</p></td>
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/謝韻儀.md" title="wikilink">謝韻儀</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/謝韻儀" title="wikilink">謝韻儀</a></strong></p></td>
 <td><p><strong>梁凱珊</strong></p></td>
 <td><p>新加坡首富梁鴻章之女<br />
 游學澧女友</p></td>
@@ -451,7 +451,7 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/盧永匡.md" title="wikilink">盧永匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧永匡" title="wikilink">盧永匡</a></p></td>
 <td><p>康</p></td>
 <td></td>
 <td></td>
@@ -463,13 +463,13 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/傅子欣.md" title="wikilink">傅子欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅子欣" title="wikilink">傅子欣</a></p></td>
 <td><p>紅</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何婷恩.md" title="wikilink">何婷恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何婷恩" title="wikilink">何婷恩</a></p></td>
 <td><p>報館職員</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -493,7 +493,7 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/駱樂.md" title="wikilink">駱　樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/駱樂" title="wikilink">駱　樂</a></p></td>
 <td><p>李可盈</p></td>
 <td><p>王福生前女友</p></td>
 <td><p>Jane</p></td>
@@ -511,19 +511,19 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>攝影師</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林影紅.md" title="wikilink">林影紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林影紅" title="wikilink">林影紅</a></p></td>
 <td><p>Anna</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/胡麒豐.md" title="wikilink">胡麒豐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡麒豐" title="wikilink">胡麒豐</a></p></td>
 <td><p>邦</p></td>
 <td></td>
 <td></td>
@@ -535,7 +535,7 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>七　姑</p></td>
 <td></td>
 <td></td>
@@ -553,7 +553,7 @@ Vicky之上司</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td></td>
 <td><p>高級職員(第13集)</p></td>
 <td></td>
@@ -563,13 +563,13 @@ Vicky之上司</p></td>
 
 ## 獎項
 
-| 年度                                                           | 頒獎典禮                                               | 獎項                               | 獲獎者 |
-| ------------------------------------------------------------ | -------------------------------------------------- | -------------------------------- | --- |
-| 2006                                                         | [壹電視大獎2006](../Page/2006年度壹電視大獎得獎名單.md "wikilink") | 十大電視節目                           |     |
-| 十大電視藝人                                                       | [佘詩曼](../Page/佘詩曼.md "wikilink")                   |                                  |     |
-| [Astro華麗台電視劇大獎2006](../Page/Astro華麗台電視劇大獎2006.md "wikilink") | 我的至愛角色                                             | [鄭嘉穎](../Page/鄭嘉穎.md "wikilink") |     |
-| [林峯](../Page/林峯.md "wikilink")                               |                                                    |                                  |     |
-| [佘詩曼](../Page/佘詩曼.md "wikilink")                             |                                                    |                                  |     |
+| 年度                                                                              | 頒獎典禮                                                                  | 獎項                               | 獲獎者 |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------- | --- |
+| 2006                                                                            | [壹電視大獎2006](https://zh.wikipedia.org/wiki/2006年度壹電視大獎得獎名單 "wikilink") | 十大電視節目                           |     |
+| 十大電視藝人                                                                          | [佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")                   |                                  |     |
+| [Astro華麗台電視劇大獎2006](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎2006 "wikilink") | 我的至愛角色                                                                | [鄭嘉穎](../Page/鄭嘉穎.md "wikilink") |     |
+| [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                               |                                                                       |                                  |     |
+| [佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")                             |                                                                       |                                  |     |
 
 ## 收視
 
@@ -577,15 +577,15 @@ Vicky之上司</p></td>
 
 以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-|        |        |                                  |                                  |
-| ------ | ------ | -------------------------------- | -------------------------------- |
-| **週次** | **集數** | **平均收視**                         | **最高收視**                         |
-| 1      | 01-05  | 26[點](../Page/收視點.md "wikilink") | 32[點](../Page/收視點.md "wikilink") |
-| 2      | 06-10  | 28[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 3      | 11-15  | 29[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 4      | 16-20  | 29[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 5      | 21-25  | 29[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 6      | 26-30  | 30[點](../Page/收視點.md "wikilink") | 34[點](../Page/收視點.md "wikilink") |
+|        |        |                                                     |                                                     |
+| ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
+| **週次** | **集數** | **平均收視**                                            | **最高收視**                                            |
+| 1      | 01-05  | 26[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 32[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2      | 06-10  | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3      | 11-15  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4      | 16-20  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 5      | 21-25  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 6      | 26-30  | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
 ### 广州收视
 
@@ -613,7 +613,7 @@ Vicky之上司</p></td>
 |align="center" colspan="1"|**上一套：**
 [開心賓館](../Page/開心賓館.md "wikilink")
 \-7月29日 |align="center"
-colspan="2"|**翡翠台第一線劇集[(2005)](../Page/無線劇集列表_\(2005年\).md "wikilink")**
+colspan="2"|**翡翠台第一線劇集[(2005)](https://zh.wikipedia.org/wiki/無線劇集列表_\(2005年\) "wikilink")**
 Yummy Yummy
 8月1日-9月9日 |align="center" colspan="1"|**下一套：**
 [翻新大少](../Page/翻新大少.md "wikilink")

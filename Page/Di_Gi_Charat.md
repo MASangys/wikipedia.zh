@@ -1,5 +1,5 @@
 **Di Gi
-Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")）、**鈴鐺貓娘**（香港譯名）、**叮噹小魔女**（台灣譯名））是[Broccoli為其角色精品店所做的角色企畫](../Page/Broccoli.md "wikilink")，原作者是[小夏鈍帆](../Page/小夏鈍帆.md "wikilink")。由於其獨特的造型，很快就成為了Broccoli的精品連鎖店[GAMERS的](../Page/GAMERS.md "wikilink")[吉祥物](../Page/吉祥物.md "wikilink")，因大受歡迎亦被多次改編[動畫](../Page/動畫.md "wikilink")、[電子遊戲等](../Page/電子遊戲.md "wikilink")。
+Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")）、**鈴鐺貓娘**（香港譯名）、**叮噹小魔女**（台灣譯名））是[Broccoli為其角色精品店所做的角色企畫](../Page/Broccoli.md "wikilink")，原作者是[小夏鈍帆](../Page/小夏鈍帆.md "wikilink")。由於其獨特的造型，很快就成為了Broccoli的精品連鎖店[GAMERS的](https://zh.wikipedia.org/wiki/GAMERS "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，因大受歡迎亦被多次改編[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電子遊戲等](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
 [缩略图](https://zh.wikipedia.org/wiki/File:Di_Gi_Charat內頁插圖.jpg "fig:缩略图")
 
 ## 登場角色
@@ -12,22 +12,22 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
     [明坂聰美](../Page/明坂聰美.md "wikilink")（日版第二代）
     [鄭麗麗](../Page/鄭麗麗.md "wikilink")（港）
     [林美秀](../Page/林美秀_\(配音員\).md "wikilink")（台）
-    小名Chocola（[法文](../Page/法文.md "wikilink")：意指[巧克力](../Page/巧克力.md "wikilink")），Di
+    小名Chocola（[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")：意指[巧克力](../Page/巧克力.md "wikilink")），Di
     Gi
     Charat星（數碼星）的公主，有著腹黑的性格。可以從眼睛發射出「」（眼睛射線／眼部[火焰炮](../Page/火.md "wikilink")）。因為懷念母星Di
     Gi Charat而改名為與母星同名。說話時句尾會加上「Nyo」（喵）
   - 布子（Puchiko）／布子卡拉／花花
     配音：
     [澤城美雪](../Page/澤城美雪.md "wikilink")（日版第一代）
-    [水上菜緒](../Page/水上菜緒.md "wikilink")（日版第二代）
+    [水上菜緒](https://zh.wikipedia.org/wiki/水上菜緒 "wikilink")（日版第二代）
     [陳凱婷](../Page/陳凱婷.md "wikilink")（港）
-    小名Cappuccino（[意大利文](../Page/意大利文.md "wikilink")：意指[咖啡](../Page/咖啡.md "wikilink")），與Dejiko一同來自Di
+    小名Cappuccino（[意大利文](https://zh.wikipedia.org/wiki/意大利文 "wikilink")：意指[咖啡](../Page/咖啡.md "wikilink")），與Dejiko一同來自Di
     Gi
     Charat星，毒舌属性。花花她也算是叮叮的親妹妹。眼部[火焰炮仍在修練中](../Page/火.md "wikilink")，偶而才能發射成功（通常失敗時會射出一些泥巴狀的不明物體）。說話時句尾會加上「Nyu」（喵）。口頭禪是：「笨蛋nyu」
   - 兔田光／拉比安露絲／拉比安[玫瑰](../Page/玫瑰.md "wikilink")／芮恩（Rabi.en.Rose）
     配音：
     [冰上恭子](../Page/冰上恭子.md "wikilink")（日版第一代）
-    [矢澤利枝香](../Page/矢澤利枝香.md "wikilink")（日版第二代）
+    [矢澤利枝香](https://zh.wikipedia.org/wiki/矢澤利枝香 "wikilink")（日版第二代）
     [陸惠玲](../Page/陸惠玲.md "wikilink")（港）
     [雷碧文](../Page/雷碧文.md "wikilink")（台）
     桃華れん（USAエッチ聲優）
@@ -36,9 +36,9 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
   - 初古拉模擬星三世／初子／雛子／沛坦（Piyoko）
     配音：
     [林原惠](../Page/林原惠.md "wikilink")（日）
-    [林元春](../Page/林元春.md "wikilink")（港）
-    黑色加碼軍團之首，是Analogue星（模擬星）的公主。在[OVA](../Page/OVA.md "wikilink")《Di Gi
-    Charat劇場「》一集中，亞海中將的作戰計畫是要初子叫數碼卡拉做姐姐，因此初經常叫數碼卡拉做姐姐。
+    [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（港）
+    黑色加碼軍團之首，是Analogue星（模擬星）的公主。在[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《Di
+    Gi Charat劇場「》一集中，亞海中將的作戰計畫是要初子叫數碼卡拉做姐姐，因此初經常叫數碼卡拉做姐姐。
     可以從口發射出。目標是綁架數位子以向數碼星換取贖[金](../Page/金.md "wikilink")，可是從來沒有成功。說話時句尾會加上「Pyo」（飄）
   - 萬事通/加瑪（配音：[龜井芳子](../Page/龜井芳子.md "wikilink")（日）、[沈小蘭](../Page/沈小蘭.md "wikilink")（港）、[雷碧文](../Page/雷碧文.md "wikilink")（台））
     數碼子的保母，跟著數碼子來到地球。古怪的圓形生物，能在半空飄浮。身體碰到[水時會漲大](../Page/水.md "wikilink")。說話時句尾會加上「Gema」（加碼）
@@ -52,7 +52,7 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
   - 阿陸（Rik Heisenberg）
     配音：
     [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日）
-    [馮錦堂](../Page/馮錦堂.md "wikilink")（港）
+    [馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")（港）
     職位元帥，也是獸醫，為人冷靜，對初子充滿敬意，像父親般對待初子，有時會過份保護她。於適當時候也會讚賞她，令她取回自信心。
     但見到動物便發狂和它做朋友，大部分計畫都是他提出，但要把動物們派上場，於Nyo中他是有一組笛子來召喚動物幫手的。
   - 阿海（Ky Schweitzer）
@@ -65,14 +65,14 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
   - 阿空（Coo Erhard）
     配音：
     （日）
-    [林丹鳳](../Page/林丹鳳.md "wikilink")（港）
+    [林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（港）
     職位少校，也是內科醫生，雖是內科醫生，但沒有見過他醫過人，為人和狗一樣不認真、做事衝動、做事不經大腦，喜歡和初子玩(但玩得十分暴力)，看食物便撲去，像初子的寵物一樣。
     他學醫也是為了初子，因為阿陸和阿海都能用醫術照顧她，而自己不是醫生，所以便花一年學醫。
     他帶的熊貓公仔也是當時初子送的。
 
 ### 招財貓商店街的居民
 
-  - 面茶康，（配音：[野島健兒](../Page/野島健兒.md "wikilink")（日）、[黃啟昌](../Page/黃啟昌.md "wikilink")（港））
+  - 面茶康，（配音：[野島健兒](../Page/野島健兒.md "wikilink")（日）、[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（港））
     24歲，是玩具店「超級玩具店」的店長。
   - 面茶清，（配音：[南央美](../Page/南央美.md "wikilink")（日）、[李致林](../Page/李致林.md "wikilink")（港）、[李明幸](../Page/李明幸.md "wikilink")（台））
     14歲，康的弟弟。
@@ -82,20 +82,20 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
     庵衣大福的妻子。
   - 米歇爾宇佐田，配音：[一條和矢](../Page/一條和矢.md "wikilink")（日）、[陳欣](../Page/陳欣_\(配音員\).md "wikilink")（港））
     宇佐田光的父親。
-  - 法蘭索娃宇佐田，配音：[岡村明美](../Page/岡村明美.md "wikilink")（日）、[林元春](../Page/林元春.md "wikilink")（港））
+  - 法蘭索娃宇佐田，配音：[岡村明美](../Page/岡村明美.md "wikilink")（日）、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（港））
     宇佐田光的母親。
-  - 錢湯先生，配音：[矢部雅史](../Page/矢部雅史.md "wikilink")（日）、[林保全](../Page/林保全.md "wikilink")（港））
+  - 錢湯先生，配音：[矢部雅史](https://zh.wikipedia.org/wiki/矢部雅史 "wikilink")（日）、[林保全](../Page/林保全.md "wikilink")（港））
     錢湯「日増湯」的店長，是個長髮的頑固老爹。被稱呼為「爺爺」。
-  - 錢湯一麿，配音：[宮崎一成](../Page/宮崎一成.md "wikilink")（日）、[黃榮璋](../Page/黃榮璋.md "wikilink")（港））
+  - 錢湯一麿，配音：[宮崎一成](https://zh.wikipedia.org/wiki/宮崎一成 "wikilink")（日）、[黃榮璋](../Page/黃榮璋.md "wikilink")（港））
     先生的孩子，非常怕生。
-  - 熊谷金太郎，配音：[松山鷹志](../Page/松山鷹志.md "wikilink")（日）、[梁志達](../Page/梁志達.md "wikilink")（港））
+  - 熊谷金太郎，配音：[松山鷹志](https://zh.wikipedia.org/wiki/松山鷹志 "wikilink")（日）、[梁志達](../Page/梁志達.md "wikilink")（港））
     是成金趣味的社長，被稱為熊金。
   - 比田井廣，配音：[竹本英史](../Page/竹本英史.md "wikilink")（日）、[黃健強](../Page/黃健強.md "wikilink")（港））
     招財貓商店街町內會長。
 
 ## 遊戲資料
 
-由於BROCCOLI不是[遊戲開發商](../Page/遊戲開發商.md "wikilink")，所以出產的遊戲數量並不是很多。
+由於BROCCOLI不是[遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發商 "wikilink")，所以出產的遊戲數量並不是很多。
 
 ### Di Gi Charat Fantasy：仲夏夜之夢
 
@@ -272,4 +272,4 @@ Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink
 [Category:虛構外星角色](https://zh.wikipedia.org/wiki/Category:虛構外星角色 "wikilink")
 [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
-1.  「滴骰」，又寫作「的骰」，為[粵語](../Page/粵語.md "wikilink")，正寫為「菂薂」。菂為[蓮子](../Page/蓮子.md "wikilink")，薂為[蓮籽](../Page/蓮籽.md "wikilink")；古義指蓮子果實。因其果實細小而引申為現代粵語的「細小」、「小巧」之義。
+1.  「滴骰」，又寫作「的骰」，為[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")，正寫為「菂薂」。菂為[蓮子](../Page/蓮子.md "wikilink")，薂為[蓮籽](https://zh.wikipedia.org/wiki/蓮籽 "wikilink")；古義指蓮子果實。因其果實細小而引申為現代粵語的「細小」、「小巧」之義。
