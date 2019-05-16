@@ -1,6 +1,6 @@
-是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[椎名高志在](../Page/椎名高志.md "wikilink")[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》的連載漫畫作品，發表於1991年第30號至1999年第41號。2013年後來以新作短篇形式發表（後述）。連載時話數的單位是用「REPORT.○」。
+是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志在](../Page/椎名高志.md "wikilink")[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》的連載漫畫作品，發表於1991年第30號至1999年第41號。2013年後來以新作短篇形式發表（後述）。連載時話數的單位是用「REPORT.○」。
 
-連載當時副標題、封面、畫面及登場人物大多戲仿[科幻類的漫畫](../Page/科學幻想.md "wikilink")、動畫及電影，當中還包括動畫、電影的[名場面](../Page/名場面.md "wikilink")（含電影《[魔鬼終結者2：審判日](../Page/魔鬼終結者2：審判日.md "wikilink")》等）。
+連載當時副標題、封面、畫面及登場人物大多戲仿[科幻類的漫畫](../Page/科學幻想.md "wikilink")、動畫及電影，當中還包括動畫、電影的[名場面](https://zh.wikipedia.org/wiki/名場面 "wikilink")（含電影《[魔鬼終結者2：審判日](https://zh.wikipedia.org/wiki/魔鬼終結者2：審判日 "wikilink")》等）。
 
 動畫方面，1993年4月至1994年在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網播出同名電視動畫](../Page/全日本新聞網.md "wikilink")，但標題改名為《**GS美神**》（將「極樂大作戰！！」去除）。電視動畫播畢之後，1994年8月20日上映和電視動畫同名的電影動畫，[東映配給](../Page/東映.md "wikilink")。
 
@@ -27,7 +27,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <!-- end list -->
 
   -
-    本書男主角，獨自一人租屋生活的貧窮好色高中生，實際上父母為在國外工作的有錢人，覬覦美神的美色，為了親近美神不惜以時薪[日幣](../Page/日幣.md "wikilink")250元的低賤薪資在美神令子除靈事務所擔任助手，後來被小笠原安蜜色誘跳槽一小段時間，美神在小娟的抗議下加薪到[日幣](../Page/日幣.md "wikilink")255元挖角橫島回來，之後被神族的小龍姬看出潛能加以鍛鍊，使得魔力與好色程度都大幅提昇，從搞笑角色變成有戰鬥力的人員。
+    本書男主角，獨自一人租屋生活的貧窮好色高中生，實際上父母為在國外工作的有錢人，覬覦美神的美色，為了親近美神不惜以時薪[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")250元的低賤薪資在美神令子除靈事務所擔任助手，後來被小笠原安蜜色誘跳槽一小段時間，美神在小娟的抗議下加薪到[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")255元挖角橫島回來，之後被神族的小龍姬看出潛能加以鍛鍊，使得魔力與好色程度都大幅提昇，從搞笑角色變成有戰鬥力的人員。
     想上美神，時常吃美神豆腐，該看該摸的一樣沒少過，可說是最了解美神肉體的人，但代價為被美神暴打一頓。極容易受非人類的異性愛慕，小娟為橫島的頭號粉絲，被西条輝彦吐槽：「大概會與魔族女幹部搭上。」
     生日：1980年6月24日，血型：O型
     武器：光榮之手、後期：文珠
@@ -50,7 +50,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <!-- end list -->
 
   - 玉藻
-    [九尾妖狐](../Page/九尾妖狐.md "wikilink")，被美神收服後住在事務所閣樓，平時都是以寵物的姿態賴在美神身邊。
+    [九尾妖狐](https://zh.wikipedia.org/wiki/九尾妖狐 "wikilink")，被美神收服後住在事務所閣樓，平時都是以寵物的姿態賴在美神身邊。
 
 ### 小笠原安蜜除靈事務所
 
@@ -68,8 +68,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 唐巢 和宏-[曾我部和恭](../Page/曾我部和恭.md "wikilink")
     年齢45歳。美神與彼得的師父。原為[基督教的神父](../Page/基督教.md "wikilink")，和美神的母親為好朋友。
-    名字來自於1973年的[美國](../Page/美國.md "wikilink")[恐怖電影](../Page/恐怖電影.md "wikilink")《[大法師](../Page/大法師.md "wikilink")》的角色達米安·卡拉斯神父。
-    角色的原型、設定來自與作者同樣在小學館連載的[漫畫家](../Page/漫畫家.md "wikilink")，《[潮與虎](../Page/潮與虎.md "wikilink")》、《[傀儡馬戲團](../Page/傀儡馬戲團.md "wikilink")》、《[月光條例](../Page/月光條例.md "wikilink")》等作品的作者[藤田和日郎](../Page/藤田和日郎.md "wikilink")。
+    名字來自於1973年的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[恐怖電影](../Page/恐怖電影.md "wikilink")《[大法師](../Page/大法師.md "wikilink")》的角色達米安·卡拉斯神父。
+    角色的原型、設定來自與作者同樣在小學館連載的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》、《[傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")》、《[月光條例](../Page/月光條例.md "wikilink")》等作品的作者[藤田和日郎](../Page/藤田和日郎.md "wikilink")。
 
 <!-- end list -->
 
@@ -220,7 +220,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 #### 單行本
 
   - [椎名高志](../Page/椎名高志.md "wikilink")《GS美神
-    極樂大作戰\!\!》，[小學館發行](../Page/小學館.md "wikilink")，[台灣中文版由](../Page/台灣.md "wikilink")[青文出版社代理](../Page/青文出版社.md "wikilink")，[香港中文版由](../Page/香港.md "wikilink")[文化傳信代理](../Page/文化傳信.md "wikilink")，全39冊。
+    極樂大作戰\!\!》，[小學館發行](../Page/小學館.md "wikilink")，[台灣中文版由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[青文出版社代理](../Page/青文出版社.md "wikilink")，[香港中文版由](../Page/香港.md "wikilink")[文化傳信代理](../Page/文化傳信.md "wikilink")，全39冊。
 
 <table>
 <thead>
@@ -403,8 +403,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 全3冊，內容為電影動畫的小說化。
 
-  - [松井亞彌](../Page/松井亞彌.md "wikilink")《 前篇》（小學館〈〉，1993年）ISBN
-    4-09-440151-2
+  - [松井亞彌](https://zh.wikipedia.org/wiki/松井亞彌 "wikilink")《
+    前篇》（小學館〈〉，1993年）ISBN 4-09-440151-2
   - 松井亞彌《GS美神極樂大作戰\!\! Vol.2 水迷宮的少女\!\! 後篇》（小學館〈Super
     Quest文庫〉，1994年）ISBN 4-09-440152-0
 
@@ -431,9 +431,9 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ## 電視動畫
 
-1993年4月11日至1994年3月6日在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網的](../Page/全日本新聞網.md "wikilink")時段首播，動畫由[東映動畫製作](../Page/東映動畫.md "wikilink")，全45話。
+1993年4月11日至1994年3月6日在[朝日放送](../Page/朝日放送.md "wikilink")、[朝日電視網的](../Page/全日本新聞網.md "wikilink")時段首播，動畫由[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，全45話。
 
-配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子獻聲](../Page/國府田麻理子.md "wikilink")。旁白（見鬼愁／<small></small>）由[青野武配音](../Page/青野武.md "wikilink")。相反的是，當初小絹指定由[西原久美子擔任](../Page/西原久美子.md "wikilink")、六道冥子由國府田麻理子擔任，[千葉繁負責旁白](../Page/千葉繁.md "wikilink")（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔的反對下](../Page/梅澤淳稔.md "wikilink")，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁則飾演卡歐斯博士](../Page/千葉繁.md "wikilink")\[2\]。
+配音陣容方面。主角美神令子、橫島忠夫、小絹依序分別由[鶴弘美](../Page/鶴弘美.md "wikilink")、[堀川亮](../Page/堀川亮.md "wikilink")、[國府田麻理子獻聲](../Page/國府田麻理子.md "wikilink")。旁白（見鬼愁／<small></small>）由[青野武配音](../Page/青野武.md "wikilink")。相反的是，當初小絹指定由[西原久美子擔任](../Page/西原久美子.md "wikilink")、六道冥子由國府田麻理子擔任，[千葉繁負責旁白](../Page/千葉繁.md "wikilink")（見鬼娃娃）。但在擔任導演和劇本總監的[梅澤淳稔的反對下](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")，才決定正式播出時的配音陣容，而六道冥子改由西原久美子配音、[千葉繁則飾演卡歐斯博士](../Page/千葉繁.md "wikilink")\[2\]。
 
 與原作不同的地方是美神除靈事務的所在地一開始就設定在一軒屋（原作的初期設定是位於5樓的一般商業大樓，後來才轉移至一軒屋），基本上大致和原作相同。還有，美神的住所是在她的除靈事務所（原作的初期設定在高級公寓）。
 
@@ -443,10 +443,10 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ### 製作人員
 
-  - 製作人：平尾知也（[ABC](../Page/朝日放送.md "wikilink")）、龜山泰夫（[ASATSU](../Page/旭通廣告.md "wikilink")）、、（[東映動畫](../Page/東映動畫.md "wikilink")）
+  - 製作人：平尾知也（[ABC](../Page/朝日放送.md "wikilink")）、龜山泰夫（[ASATSU](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、、（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）
   - 原作：[椎名高志](../Page/椎名高志.md "wikilink")（[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》刊）
-  - 系列導演：[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")
-  - [劇本統籌](../Page/劇本統籌.md "wikilink")：[松井亞彌](../Page/松井亞彌.md "wikilink")
+  - 系列導演：[梅澤淳稔](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")
+  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：[松井亞彌](https://zh.wikipedia.org/wiki/松井亞彌 "wikilink")
   - 音樂：[佐橋俊彥](../Page/佐橋俊彥.md "wikilink")
   - 製作擔當：藤本芳弘
   - 美術設計：浦田又治
@@ -463,9 +463,11 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 ### 主題歌
 
-  - 片頭曲「[GHOST SWEEPER](../Page/GHOST_SWEEPER.md "wikilink")」
+  - 片頭曲「[GHOST
+    SWEEPER](https://zh.wikipedia.org/wiki/GHOST_SWEEPER "wikilink")」
     作詞 ：，作曲 ：，編曲 ：岩本正樹，主唱：
-  - 片尾曲「'''[BELIEVE ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink")」
+  - 片尾曲「'''[BELIEVE
+    ME](https://zh.wikipedia.org/wiki/BELIEVE_ME_\(小坂由美子歌曲\) "wikilink")」
     作詞 ：有森聰美，作曲 ：西岡治彥，編曲 ：岩本正樹，主唱：[小坂由美子](../Page/小坂由美子.md "wikilink")
 
 ### 各話列表
@@ -489,8 +491,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p><strong>1993年</strong><br />
 4月11日</p></td>
 <td></td>
-<td><p><a href="../Page/松井亞彌.md" title="wikilink">松井亞彌</a></p></td>
-<td><p><a href="../Page/梅澤淳稔.md" title="wikilink">梅澤淳稔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松井亞彌" title="wikilink">松井亞彌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤淳稔" title="wikilink">梅澤淳稔</a></p></td>
 <td></td>
 <td><p>浦田又治</p></td>
 <td><p>第1卷「美神驅魔公司出馬記</p></td>
@@ -510,7 +512,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>4月25日</p></td>
 <td><p>{{lang|ja|呪いの人形帝国</p></td>
 <td><p>}}</p></td>
-<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
 <td><p>矢部秋則</p></td>
 <td></td>
 <td><p>伊藤岩光</p></td>
@@ -529,7 +531,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>5</p></td>
 <td><p>5月9日</p></td>
 <td></td>
-<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
 <td><p>岡佳廣</p></td>
 <td><p>河野宏之</p></td>
 <td></td>
@@ -540,8 +542,8 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>5月16日</p></td>
 <td></td>
 <td><p>松井亞彌</p></td>
-<td><p><a href="../Page/志水淳兒.md" title="wikilink">志水淳兒</a></p></td>
-<td><p><a href="../Page/內山正幸.md" title="wikilink">內山正幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志水淳兒" title="wikilink">志水淳兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內山正幸" title="wikilink">內山正幸</a></p></td>
 <td><p>伊藤岩光</p></td>
 <td><p>第2卷「驅魔清道伕，六道冥子登場</p></td>
 </tr>
@@ -550,7 +552,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>5月23日</p></td>
 <td></td>
 <td><p>岸間信明</p></td>
-<td><p><a href="../Page/設樂博.md" title="wikilink">設樂博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/設樂博" title="wikilink">設樂博</a></p></td>
 <td><p>青山充</p></td>
 <td><p>塩崎廣光</p></td>
 <td><p>第2卷「卡歐斯博士的挑戰</p></td>
@@ -571,7 +573,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 <td><p>{{lang|ja|お願いチューして</p></td>
 <td><p>}}</p></td>
 <td><p>矢部秋則</p></td>
-<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
 <td><p>浦田又治</p></td>
 <td></td>
 </tr>
@@ -945,24 +947,24 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
 #### 主題曲
 
-| 發行日期       | 標題                                                         | 規格編號    |
-| ---------- | ---------------------------------------------------------- | ------- |
-| 1993年4月30日 | [GHOST SWEEPER](../Page/GHOST_SWEEPER.md "wikilink")       | KIDA-56 |
-| 1993年5月21日 | [BELIEVE ME](../Page/BELIEVE_ME_\(小坂由美子歌曲\).md "wikilink") | KIDA-60 |
-| 1994年8月5日  | [My Jolly Days](../Page/My_Jolly_Days.md "wikilink")       | KIDA-85 |
+| 發行日期       | 標題                                                                            | 規格編號    |
+| ---------- | ----------------------------------------------------------------------------- | ------- |
+| 1993年4月30日 | [GHOST SWEEPER](https://zh.wikipedia.org/wiki/GHOST_SWEEPER "wikilink")       | KIDA-56 |
+| 1993年5月21日 | [BELIEVE ME](https://zh.wikipedia.org/wiki/BELIEVE_ME_\(小坂由美子歌曲\) "wikilink") | KIDA-60 |
+| 1994年8月5日  | [My Jolly Days](https://zh.wikipedia.org/wiki/My_Jolly_Days "wikilink")       | KIDA-85 |
 
 #### 角色歌曲
 
 所有歌曲都以「[GS美神
-美麗的逃亡者系列](../Page/GS美神_美麗的逃亡者系列.md "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
+美麗的逃亡者系列](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列 "wikilink")」發行。曾創下1994年3月度的2萬張最高銷售記錄。其中，小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[4\]。
 
-| 發行日期                                                                         | 標題                                                                        | 規格編號    |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------- |
-| 1994年1月21日                                                                   | [GS美神 美麗的逃亡者系列.I－REIKO MIKAMI](../Page/GS美神_美麗的逃亡者系列#Vol.1.md "wikilink") | KIDA-73 |
-| [GS美神 美麗的逃亡者系列.II－MEIKO ROKUDO](../Page/GS美神_美麗的逃亡者系列#Vol.2.md "wikilink")   | KIDA-74                                                                   |         |
-| [GS美神 美麗的逃亡者系列.III－EMI OGASAWARA](../Page/GS美神_美麗的逃亡者系列#Vol.3.md "wikilink") | KIDA-75                                                                   |         |
-| [GS美神 美麗的逃亡者系列.IV－SHORYUKI](../Page/GS美神_美麗的逃亡者系列#Vol.4.md "wikilink")       | KIDA-76                                                                   |         |
-| [GS美神 美麗的逃亡者系列.V－OKINU](../Page/GS美神_美麗的逃亡者系列#Vol.5.md "wikilink")           | KIDA-77                                                                   |         |
+| 發行日期                                                                                            | 標題                                                                                           | 規格編號    |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------- |
+| 1994年1月21日                                                                                      | [GS美神 美麗的逃亡者系列.I－REIKO MIKAMI](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列#Vol.1 "wikilink") | KIDA-73 |
+| [GS美神 美麗的逃亡者系列.II－MEIKO ROKUDO](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列#Vol.2 "wikilink")   | KIDA-74                                                                                      |         |
+| [GS美神 美麗的逃亡者系列.III－EMI OGASAWARA](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列#Vol.3 "wikilink") | KIDA-75                                                                                      |         |
+| [GS美神 美麗的逃亡者系列.IV－SHORYUKI](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列#Vol.4 "wikilink")       | KIDA-76                                                                                      |         |
+| [GS美神 美麗的逃亡者系列.V－OKINU](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列#Vol.5 "wikilink")           | KIDA-77                                                                                      |         |
 
 #### 原聲CD
 
@@ -997,12 +999,14 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 配給：東映
   - 首映時間：1994年8月20日／東映動畫特輯
-  - 同時上映：『[亂馬½ 超無差別決戰！亂馬隊VS傳說的鳳凰](../Page/亂馬½#劇場版.md "wikilink")』『[家有賤狗
-    原始家有賤狗](../Page/家有賤狗#電影版.md "wikilink")』
+  - 同時上映：『[亂馬½
+    超無差別決戰！亂馬隊VS傳說的鳳凰](https://zh.wikipedia.org/wiki/亂馬½#劇場版 "wikilink")』『[家有賤狗
+    原始家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗#電影版 "wikilink")』
   - 上映時間：60分鐘／彩色
   - 片頭主題曲：原田千榮「**GHOST SWEEPER**」
-  - 片尾主題曲：[奥井雅美](../Page/奥井雅美.md "wikilink")「**[My Jolly
-    Days](../Page/My_Jolly_Days.md "wikilink")**」
+  - 片尾主題曲：[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")「**[My
+    Jolly
+    Days](https://zh.wikipedia.org/wiki/My_Jolly_Days "wikilink")**」
   - 插入歌：奥井雅美「**BEATS the BAND**」
 
 ### 劇情簡介
@@ -1013,7 +1017,7 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 
   - 明智光秀：[青野武](../Page/青野武.md "wikilink")
   - 森蘭丸：[古川登志夫](../Page/古川登志夫.md "wikilink")
-  - 織田信長：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
+  - 織田信長：[納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
 
 ### 製作人員
 
@@ -1035,12 +1039,12 @@ Sweeper）也就是除靈師，是一個新興熱門的行業，嗜錢如命的�
 ## 影碟版本
 
   - [VHS版](../Page/VHS.md "wikilink")
-    收錄內容為全11卷的[電視動畫加全](../Page/電視動畫.md "wikilink")1部的劇場版。還有，每一卷均收錄4話（僅第11巻收錄5話）。
-  - [DVD版](../Page/DVD.md "wikilink")
+    收錄內容為全11卷的[電視動畫加全](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")1部的劇場版。還有，每一卷均收錄4話（僅第11巻收錄5話）。
+  - [DVD版](https://zh.wikipedia.org/wiki/DVD "wikilink")
     2005年1月26日由[King
     Records第一次以DVD](../Page/國王唱片.md "wikilink")-BOX的形式發行。
     2009年1月21日至同年3月21日以單品版形式發行。全8卷，第1卷至第4卷各收錄6話，第5卷之後以降各收錄5話。以1到2、3到5、6到8的批次陸續發行。
-    2016年9月14日，發行電影動畫的數位修復版，由[東映動畫發行](../Page/東映動畫.md "wikilink")。
+    2016年9月14日，發行電影動畫的數位修復版，由[東映動畫發行](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。
   - [藍光版](../Page/藍光光碟.md "wikilink")
     2016年8月24日由[Frontier
     Works發行](../Page/Frontier_Works.md "wikilink")。並附贈Liner
@@ -1193,23 +1197,24 @@ Records發行](../Page/國王唱片.md "wikilink")。為紀念電影動畫版的
 
 ### CD列表
 
-| 發行日期        | 標題                                                              | 規格編號        |
-| ----------- | --------------------------------------------------------------- | ----------- |
-| 1994年8月24日  | \[\[GS美神_廣播劇CD\#GS美神_極樂大作戰                                    | |GS美神 極樂大作戰 |
-| 1995年4月21日  | [GS美神 REPORT.1 穿越時空的愛…](../Page/GS美神_廣播劇CD#Vol.1.md "wikilink") | KICA-239    |
-| 1995年9月21日  | [GS美神 REPORT.2 追逐那顆白球](../Page/GS美神_廣播劇CD#Vol.2.md "wikilink")  | KICA-262    |
-| 1995年12月21日 | [GS美神 REPORT.3 東京怪獸大戰爭](../Page/GS美神_廣播劇CD#Vol.3.md "wikilink") | KICA-280    |
+| 發行日期        | 標題                                                                                 | 規格編號        |
+| ----------- | ---------------------------------------------------------------------------------- | ----------- |
+| 1994年8月24日  | \[\[GS美神_廣播劇CD\#GS美神_極樂大作戰                                                       | |GS美神 極樂大作戰 |
+| 1995年4月21日  | [GS美神 REPORT.1 穿越時空的愛…](https://zh.wikipedia.org/wiki/GS美神_廣播劇CD#Vol.1 "wikilink") | KICA-239    |
+| 1995年9月21日  | [GS美神 REPORT.2 追逐那顆白球](https://zh.wikipedia.org/wiki/GS美神_廣播劇CD#Vol.2 "wikilink")  | KICA-262    |
+| 1995年12月21日 | [GS美神 REPORT.3 東京怪獸大戰爭](https://zh.wikipedia.org/wiki/GS美神_廣播劇CD#Vol.3 "wikilink") | KICA-280    |
 
 ## 遊戲
 
   - 『美神 除師』（對應機種：[Super
     Famicom](../Page/超級任天堂.md "wikilink")，1993年9月23日發行，販售公司：）
-  - 『美神』（對應機種：[PC Engine](../Page/PC_Engine.md "wikilink") SUPER
+  - 『美神』（對應機種：[PC
+    Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink") SUPER
     CD-ROM<sup>2</sup>，1994年7月29日發行，販售公司：[萬普](../Page/萬普.md "wikilink")）
 
 ## 獎項
 
-  - 第38回[小學館漫畫賞少年向部門](../Page/小學館漫畫賞.md "wikilink")。
+  - 第38回[小學館漫畫賞少年向部門](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
 
 ## 腳註
 

@@ -1,4 +1,4 @@
-**株式会社GONZO**（／），是以[動畫的企劃](../Page/動畫.md "wikilink")、製作及開發為主要營業項目的[日本](../Page/日本.md "wikilink")[企業](../Page/企業.md "wikilink")，創業於1992年。
+**株式会社GONZO**（／），是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、製作及開發為主要營業項目的[日本](../Page/日本.md "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")，創業於1992年。
 
 ## 概要
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   - 2007年：3月，GONZO Rosso
-    Online吸收合併G-creators，更名為；6月18日，傳出GDH與中國大陸[深圳](../Page/深圳.md "wikilink")[力合数字电视將合資成立](../Page/力合数字电视.md "wikilink")的消息\[4\]\[5\]\[6\]；12月17日，正式宣布於2008年1月設立\[7\]。
+    Online吸收合併G-creators，更名為；6月18日，傳出GDH與中國大陸[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[力合数字电视將合資成立](https://zh.wikipedia.org/wiki/力合数字电视 "wikilink")的消息\[4\]\[5\]\[6\]；12月17日，正式宣布於2008年1月設立\[7\]。
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
 
   - 2012年：3月31日，[清算海外公司](../Page/清盤.md "wikilink")「GDH (M)
     SDN.BHD.」；7月9日，將Future Vision
-    Music賣給[創通](../Page/創通.md "wikilink")。
+    Music賣給[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")。
 
 <!-- end list -->
 
@@ -82,16 +82,16 @@
 
 ## 大事記
 
-  - 1992年，动画制片人[村滨章司](../Page/村滨章司.md "wikilink")、动画导演[前田真宏和](../Page/前田真宏.md "wikilink")[樋口真嗣等人组建GONZO](../Page/樋口真嗣.md "wikilink")，其中村滨章司出资300万日元。当年他们接手的第一份工作是为MTV《ROCKET
-    DIVE》制作一只[3D的宇宙船](../Page/3D.md "wikilink")。其後工作均以美術為主。
+  - 1992年，动画制片人[村滨章司](https://zh.wikipedia.org/wiki/村滨章司 "wikilink")、动画导演[前田真宏和](../Page/前田真宏.md "wikilink")[樋口真嗣等人组建GONZO](../Page/樋口真嗣.md "wikilink")，其中村滨章司出资300万日元。当年他们接手的第一份工作是为MTV《ROCKET
+    DIVE》制作一只[3D的宇宙船](https://zh.wikipedia.org/wiki/3D "wikilink")。其後工作均以美術為主。
 
 <!-- end list -->
 
-  - 1996年，GONZO为SEGA的[角色扮演遊戲](../Page/角色扮演遊戲.md "wikilink")《LUNAR》制作过场动画，公司名號因此為人知曉。
+  - 1996年，GONZO为SEGA的[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")《LUNAR》制作过场动画，公司名號因此為人知曉。
 
 <!-- end list -->
 
-  - 1998年，名作《[青之6号](../Page/青之6号.md "wikilink")》登场，為該公司第一部獨立製作。该动画是在日本动画史上第一次大量使用3DCG技术与2D绘画结合的作品。GONZO自此一举成名，成為創作派動畫的龍頭。
+  - 1998年，名作《[青之6号](https://zh.wikipedia.org/wiki/青之6号 "wikilink")》登场，為該公司第一部獨立製作。该动画是在日本动画史上第一次大量使用3DCG技术与2D绘画结合的作品。GONZO自此一举成名，成為創作派動畫的龍頭。
 
 <!-- end list -->
 
@@ -108,20 +108,20 @@
 
 <!-- end list -->
 
-  - 2006年，GDH無法達致預定盈利，收入大幅減少，製作亦被指不符合新一代動漫迷的口味。負責人村滨章司因管理不善被迫下台，由社长降为取缔役，接任人為藤田纯二。同年GONZO曾打算将电影《[银发阿基德](../Page/银发阿基德.md "wikilink")》打入中国市场，后因未获中国国内影视审批机构批注而放弃。
+  - 2006年，GDH無法達致預定盈利，收入大幅減少，製作亦被指不符合新一代動漫迷的口味。負責人村滨章司因管理不善被迫下台，由社长降为取缔役，接任人為藤田纯二。同年GONZO曾打算将电影《[银发阿基德](https://zh.wikipedia.org/wiki/银发阿基德 "wikilink")》打入中国市场，后因未获中国国内影视审批机构批注而放弃。
 
 <!-- end list -->
 
-  - 藤田社長上任後，於2006年至2008年製作更多的商業動畫作品。此外，GONZO亦嘗試開通[中](../Page/中国.md "wikilink")、[歐美市場](../Page/歐美.md "wikilink")，讓作品邁向國際化，惟市場調查不夠透徹導致成效不足，財務狀況依然惡劣、多項企劃終止，尤其在2006年的15週年紀念作品《[殼中少女](../Page/殼中少女.md "wikilink")》OVA也夭折。
+  - 藤田社長上任後，於2006年至2008年製作更多的商業動畫作品。此外，GONZO亦嘗試開通[中](https://zh.wikipedia.org/wiki/中国 "wikilink")、[歐美市場](https://zh.wikipedia.org/wiki/歐美 "wikilink")，讓作品邁向國際化，惟市場調查不夠透徹導致成效不足，財務狀況依然惡劣、多項企劃終止，尤其在2006年的15週年紀念作品《[殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")》OVA也夭折。
 
 <!-- end list -->
 
-  - 2008年3月，GDH的年度结算中负债[資產超过](../Page/資產.md "wikilink")[东证的规定](../Page/东京证券交易所.md "wikilink")，4月1日GDH的股票进入“犹豫期”；9月10日，投資公司宣布對GDH進行股份公開收購，總增資金額日幣21億3000萬元\[9\]\[10\]。
+  - 2008年3月，GDH的年度结算中负债[資產超过](../Page/資產.md "wikilink")[东证的规定](https://zh.wikipedia.org/wiki/东京证券交易所 "wikilink")，4月1日GDH的股票进入“犹豫期”；9月10日，投資公司宣布對GDH進行股份公開收購，總增資金額日幣21億3000萬元\[9\]\[10\]。
 
 <!-- end list -->
 
   - 2009年4月1日，創辦人村滨章司離去、另設公司[Lambda
-    Film](../Page/Lambda_Film.md "wikilink")；GDH宣佈与子公司GONZO合併，企業商號統合、承繼品牌為「GONZO」\[11\]。但公司重整未見起色，終被东证公告於7月30日除牌\[12\]。
+    Film](https://zh.wikipedia.org/wiki/Lambda_Film "wikilink")；GDH宣佈与子公司GONZO合併，企業商號統合、承繼品牌為「GONZO」\[11\]。但公司重整未見起色，終被东证公告於7月30日除牌\[12\]。
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 <!-- end list -->
 
-  - 2016年7月，旭通DK宣布收購GONZO；12月27日，旭通DK發布公告表示，GONZO在被收購前可能透過不正當的會計處理隱瞞10億2千5百萬日圓的[資不抵債](../Page/无力偿付.md "wikilink")，旭通已成立特別調查委員會清查其財務狀況\[13\]\[14\]。
+  - 2016年7月，旭通DK宣布收購GONZO；12月27日，旭通DK發布公告表示，GONZO在被收購前可能透過不正當的會計處理隱瞞10億2千5百萬日圓的[資不抵債](https://zh.wikipedia.org/wiki/无力偿付 "wikilink")，旭通已成立特別調查委員會清查其財務狀況\[13\]\[14\]。
 
 <!-- end list -->
 
@@ -167,9 +167,9 @@
 
 <!-- end list -->
 
-  - [最終兵器彼女](../Page/最終兵器彼女.md "wikilink")（）
+  - [最終兵器彼女](https://zh.wikipedia.org/wiki/最終兵器彼女 "wikilink")（）
   - [驚爆危機](../Page/驚爆危機.md "wikilink")（）
-  - [天使特警](../Page/天使特警.md "wikilink")（）
+  - [天使特警](https://zh.wikipedia.org/wiki/天使特警 "wikilink")（）
   - [超重神GRAVION](../Page/超重神GRAVION.md "wikilink")（）
 
 <!-- end list -->
@@ -178,11 +178,12 @@
 
 <!-- end list -->
 
-  - [钢铁守护者](../Page/钢铁守护者.md "wikilink")（）
-  - [萬花筒之星](../Page/萬花筒之星.md "wikilink")（）
+  - [钢铁守护者](https://zh.wikipedia.org/wiki/钢铁守护者 "wikilink")（）
+  - [萬花筒之星](https://zh.wikipedia.org/wiki/萬花筒之星 "wikilink")（）
   - [最後流亡](../Page/最後流亡.md "wikilink")（LAST EXILE）
   - DigiGirl POP\!（）
-  - [PEACE MAKER鐵](../Page/PEACE_MAKER鐵.md "wikilink")
+  - [PEACE
+    MAKER鐵](https://zh.wikipedia.org/wiki/PEACE_MAKER鐵 "wikilink")
   - [聖槍修女](../Page/聖槍修女.md "wikilink")（）
 
 <!-- end list -->
@@ -193,7 +194,7 @@
 
   - [超重神GRAVION Zwei](../Page/超重神GRAVION.md "wikilink")（）
   - [爆裂天使](../Page/爆裂天使.md "wikilink")（）
-  - [殺戮都市](../Page/殺戮都市.md "wikilink")（GANTZ）
+  - [殺戮都市](https://zh.wikipedia.org/wiki/殺戮都市 "wikilink")（GANTZ）
   - [七武士](../Page/七武士_\(動畫\).md "wikilink")（SAMURAI 7）
   - [沙漠神行者](../Page/沙漠神行者.md "wikilink")（）
   - [巖窟王](../Page/巖窟王.md "wikilink")（）
@@ -204,12 +205,12 @@
 
 <!-- end list -->
 
-  - [變形金剛 銀河原力](../Page/變形金剛_銀河原力.md "wikilink")（）
-  - [BASILISK甲賀忍法帖](../Page/BASILISK甲賀忍法帖.md "wikilink")（）
+  - [變形金剛 銀河原力](https://zh.wikipedia.org/wiki/變形金剛_銀河原力 "wikilink")（）
+  - [BASILISK甲賀忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲賀忍法帖 "wikilink")（）
   - [極速攝殺](../Page/極速攝殺.md "wikilink")（）
   - [聖魔之血](../Page/聖魔之血.md "wikilink")（）
-  - [曙光少女](../Page/曙光少女.md "wikilink")（SoltyRei，與[AIC合力製作](../Page/AIC.md "wikilink")）
-  - [黑貓](../Page/黑貓.md "wikilink")（）
+  - [曙光少女](../Page/曙光少女.md "wikilink")（SoltyRei，與[AIC合力製作](https://zh.wikipedia.org/wiki/AIC "wikilink")）
+  - [黑貓](https://zh.wikipedia.org/wiki/黑貓 "wikilink")（）
 
 <!-- end list -->
 
@@ -219,9 +220,10 @@
 
   - [魔女之刃](../Page/魔女之刃_\(動畫\).md "wikilink")
   - [玻璃艦隊](../Page/玻璃艦隊.md "wikilink")（，與[SATELIGHT合力製作](../Page/SATELIGHT.md "wikilink")）
-  - [歡迎加入NHK\!](../Page/歡迎加入NHK!.md "wikilink")（）
+  - [歡迎加入NHK\!](https://zh.wikipedia.org/wiki/歡迎加入NHK! "wikilink")（）
   - [非戰特攻隊：帝國陸軍情報部第3課](../Page/南瓜剪刀.md "wikilink")（，與AIC共同製作）
-  - [血色花園](../Page/RED_GARDEN.md "wikilink")（RED GARDEN）
+  - [血色花園](https://zh.wikipedia.org/wiki/RED_GARDEN "wikilink")（RED
+    GARDEN）
   - [雙面騎士](../Page/雙面騎士.md "wikilink")（由[Production
     I.G外包出來](../Page/Production_I.G.md "wikilink")）
 
@@ -237,7 +239,7 @@
   - [風之聖痕](../Page/風之聖痕.md "wikilink")（）
   - [地球防衛少年](../Page/地球防衛少年.md "wikilink")（）
   - 爆炸頭武士（）
-  - [龍鳴](../Page/龍鳴.md "wikilink")（）
+  - [龍鳴](https://zh.wikipedia.org/wiki/龍鳴 "wikilink")（）
 
 <!-- end list -->
 
@@ -246,11 +248,13 @@
 <!-- end list -->
 
   - [十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")（）
-  - [迷宮塔 ～烏魯克之盾～](../Page/迷宮塔_\(電視動畫\).md "wikilink")（）
+  - [迷宮塔
+    ～烏魯克之盾～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
   - [S·A特優生](../Page/S·A特優生.md "wikilink")（，與AIC共同製作）
   - [武裝機甲](../Page/武裝機甲.md "wikilink")（）
-  - [Strike Witches](../Page/Strike_Witches.md "wikilink")（）
-  - [BLASSREITER](../Page/BLASSREITER.md "wikilink")（）
+  - [Strike
+    Witches](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（）
+  - [BLASSREITER](https://zh.wikipedia.org/wiki/BLASSREITER "wikilink")（）
   - [十字架與吸血鬼CAPU2](../Page/十字架與吸血鬼.md "wikilink")（）
 
 <!-- end list -->
@@ -259,9 +263,10 @@
 
 <!-- end list -->
 
-  - [迷宮塔 ～烏魯克之劍～](../Page/迷宮塔_\(電視動畫\).md "wikilink")（）
+  - [迷宮塔
+    ～烏魯克之劍～](https://zh.wikipedia.org/wiki/迷宮塔_\(電視動畫\) "wikilink")（）
   - [香格里拉](../Page/香格里拉_\(科幻小说\).md "wikilink")（）
-  - [天才麻將少女](../Page/天才麻將少女.md "wikilink")（第1至14集主製作，第15至25集協力，）
+  - [天才麻將少女](https://zh.wikipedia.org/wiki/天才麻將少女 "wikilink")（第1至14集主製作，第15至25集協力，）
   - 爆炸頭武士RESURRECTION（）
 
 <!-- end list -->
@@ -281,7 +286,8 @@
 
 <!-- end list -->
 
-  - Ozuma（，與[LandQ Studios共同製作](../Page/LandQ_Studios.md "wikilink")）
+  - Ozuma（，與[LandQ
+    Studios共同製作](https://zh.wikipedia.org/wiki/LandQ_Studios "wikilink")）
 
 <!-- end list -->
 
@@ -289,7 +295,7 @@
 
 <!-- end list -->
 
-  - [絕對防衛利維坦](../Page/絕對防衛利維坦.md "wikilink")（）　
+  - [絕對防衛利維坦](https://zh.wikipedia.org/wiki/絕對防衛利維坦 "wikilink")（）　
   - [小鎮有你](../Page/小鎮有你.md "wikilink")（）
   - [狗與剪刀必有用](../Page/狗與剪刀必有用.md "wikilink")（）
 
@@ -299,7 +305,8 @@
 
 <!-- end list -->
 
-  - [Blade & Soul](../Page/Blade_&_Soul.md "wikilink")（）
+  - [Blade &
+    Soul](https://zh.wikipedia.org/wiki/Blade_&_Soul "wikilink")（）
 
 <!-- end list -->
 
@@ -315,7 +322,7 @@
 
 <!-- end list -->
 
-  - [蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")（）
+  - [蒼之彼方的四重奏](https://zh.wikipedia.org/wiki/蒼之彼方的四重奏 "wikilink")（）
 
 <!-- end list -->
 
@@ -324,10 +331,10 @@
 <!-- end list -->
 
   - [秋葉原之旅 -THE
-    ANIMATION-](../Page/秋葉原之旅_-THE_ANIMATION-.md "wikilink")（）
-  - [18if](../Page/18if.md "wikilink")（）
+    ANIMATION-](https://zh.wikipedia.org/wiki/秋葉原之旅_-THE_ANIMATION- "wikilink")（）
+  - [18if](https://zh.wikipedia.org/wiki/18if "wikilink")（）
   - [Robomasters：The Animated
-    Series](../Page/Robomasters：The_Animated_Series.md "wikilink")（與DandeLion
+    Series](https://zh.wikipedia.org/wiki/Robomasters：The_Animated_Series "wikilink")（與DandeLion
     Animation Studio共同製作）
 
 <table>
@@ -351,7 +358,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/妖怪旅館營業中.md" title="wikilink">妖怪旅館營業中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妖怪旅館營業中" title="wikilink">妖怪旅館營業中</a></p></td>
 <td></td>
 <td><p>4月2日－9月24日</p></td>
 <td><p>奧田佳子</p></td>
@@ -359,10 +366,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/宇宙戰艦提拉米斯.md" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙戰艦提拉米斯" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
 <td></td>
 <td><p>4月3日－6月26日</p></td>
-<td><p><a href="../Page/池畠博史.md" title="wikilink">池畠博史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池畠博史" title="wikilink">池畠博史</a></p></td>
 <td><p>漫畫</p></td>
 <td><p>第1期</p></td>
 </tr>
@@ -375,7 +382,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火之丸相撲" title="wikilink">火之丸相撲</a></p></td>
 <td></td>
 <td><p>10月5日－<strong>播放中</strong></p></td>
 <td><p><a href="../Page/山本靖貴.md" title="wikilink">山本靖貴</a></p></td>
@@ -383,7 +390,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CONCEPTION_產子救世錄.md" title="wikilink">產子救世錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CONCEPTION_產子救世錄" title="wikilink">產子救世錄</a></p></td>
 <td></td>
 <td><p>10月9日－12月25日</p></td>
 <td><p><a href="../Page/元永慶太郎.md" title="wikilink">元永慶太郎</a></p></td>
@@ -403,14 +410,17 @@
 
 ### OVA
 
-  - [青之六号](../Page/青之六号.md "wikilink")（，1998年）
-  - [銀河少女警察](../Page/銀河少女警察.md "wikilink")（，1999年）
+  - [青之六号](https://zh.wikipedia.org/wiki/青之六号 "wikilink")（，1998年）
+  - [銀河少女警察](https://zh.wikipedia.org/wiki/銀河少女警察 "wikilink")（，1999年）
   - [捍衛者21](../Page/捍衛者21.md "wikilink")（，2002年）
   - [戰鬥妖精雪風](../Page/戰鬥妖精雪風.md "wikilink")（，2002年）
-  - [萬花筒之星 鳳凰傳說](../Page/星夢美少女.md "wikilink")（，2005年）
+  - [萬花筒之星 鳳凰傳說](https://zh.wikipedia.org/wiki/星夢美少女 "wikilink")（，2005年）
   - [爆裂天使 -INFINITY-](../Page/爆裂天使.md "wikilink")（，2007年）
-  - [Strike WitchesOVA](../Page/Strike_Witches.md "wikilink")（，2007年）
-  - [Red Garden OVA:Dead Girls](../Page/血色花园.md "wikilink") （2007年）
+  - [Strike
+    WitchesOVA](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")（，2007年）
+  - [Red Garden OVA:Dead
+    Girls](https://zh.wikipedia.org/wiki/血色花园 "wikilink")
+    （2007年）
   - [瀨戶的花嫁 OVA 仁](../Page/瀨戶的花嫁_\(漫畫\).md "wikilink")（，2008年，與AIC合力製作）
   - [瀨戶的花嫁 OVA 義](../Page/瀨戶的花嫁_\(漫畫\).md "wikilink")（，2009年，與AIC合力製作）
   - [超級街頭霸王IV](../Page/街頭霸王IV.md "wikilink")（，2010年，[Xbox
@@ -420,14 +430,14 @@
 
   - [銀髮阿基德](../Page/銀髮阿基德.md "wikilink")（，2006年）
   - [勇者物語](../Page/勇者物語.md "wikilink")（，2006年）
-  - [天使特警 劇場版](../Page/天使特警.md "wikilink")（，2007年）
+  - [天使特警 劇場版](https://zh.wikipedia.org/wiki/天使特警 "wikilink")（，2007年）
   - [魔兵驚天錄：噬血宿命](../Page/魔兵驚天錄.md "wikilink")（BAYONETTA Bloody
     Fate，2013年）
 
 ### 網路放映
 
   - [變種危機](../Page/變種危機.md "wikilink")（i-wish you were here-，2001年）
-  - [Copihan](../Page/Copihan.md "wikilink")（，2011年）
+  - [Copihan](https://zh.wikipedia.org/wiki/Copihan "wikilink")（，2011年）
 
 ### 其他
 
@@ -435,7 +445,7 @@
     Productions](../Page/PRODUCTION_REED.md "wikilink")、1997年）
   - [電車男OP](../Page/電車男_\(電視劇\).md "wikilink")
   - Breaking The Habit MV - [Linkin
-    Park](../Page/Linkin_Park.md "wikilink")
+    Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")
 
 ## 註釋
 
@@ -450,7 +460,7 @@
 
   - GDH官方網站
 
-  - [GONZO-Channel](http://www.ustream.tv/channel/gonzo-channel)（[Ustream](../Page/Ustream.md "wikilink")）
+  - [GONZO-Channel](http://www.ustream.tv/channel/gonzo-channel)（[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")）
 
   -
   -

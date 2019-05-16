@@ -1,22 +1,23 @@
 [Sun_microsystems_java_desktop.png](https://zh.wikipedia.org/wiki/File:Sun_microsystems_java_desktop.png "fig:Sun_microsystems_java_desktop.png")
 **Sun Java Desktop
-System**（**JDS**）是一個用於[昇陽的](../Page/昇陽.md "wikilink")[Solaris及其原來](../Page/Solaris.md "wikilink")[Linux](../Page/Linux.md "wikilink")（Linux的支援於2006年5月30日中斷）\[1\]
-的[桌面環境](../Page/桌面環境.md "wikilink")。
+System**（**JDS**）是一個用於[昇陽的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[Solaris及其原來](../Page/Solaris.md "wikilink")[Linux](../Page/Linux.md "wikilink")（Linux的支援於2006年5月30日中斷）\[1\]
+的[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
 
 JDS目的為提供一般電腦用戶一個熟悉（意即其外觀與[Microsoft
-Windows相似](../Page/Microsoft_Windows.md "wikilink")）以及擁有一整套如[辦公軟體套裝](../Page/辦公軟體套裝.md "wikilink")、[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")、[電子郵件](../Page/電子郵件.md "wikilink")、日程表與即時訊息等辦公室生產力軟體的系統。
+Windows相似](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）以及擁有一整套如[辦公軟體套裝](https://zh.wikipedia.org/wiki/辦公軟體套裝 "wikilink")、[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")、[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、日程表與即時訊息等辦公室生產力軟體的系統。
 
-其名稱反映出昇陽有意將其作為一個推動公司用戶部署為[Java平台編寫的軟體的場所](../Page/Java平台.md "wikilink")；JDS建基於[GNOME之上](../Page/GNOME.md "wikilink")，主要採用[自由軟體](../Page/自由軟體.md "wikilink")。
+其名稱反映出昇陽有意將其作為一個推動公司用戶部署為[Java平台編寫的軟體的場所](https://zh.wikipedia.org/wiki/Java平台 "wikilink")；JDS建基於[GNOME之上](../Page/GNOME.md "wikilink")，主要採用[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 版本
 
 JDS 3包含在Solaris
-10內——在安裝Solaris時可選擇使用[CDE或JDS](../Page/Common_Desktop_Environment.md "wikilink")。JDS
-Release 2亦可在其中一個基於[SuSE的Linux分發版上使用](../Page/SuSE.md "wikilink")。
+10內——在安裝Solaris時可選擇使用[CDE或JDS](https://zh.wikipedia.org/wiki/Common_Desktop_Environment "wikilink")。JDS
+Release
+2亦可在其中一個基於[SuSE的Linux分發版上使用](https://zh.wikipedia.org/wiki/SuSE "wikilink")。
 
 JDS第二版包括
 
-  - [Java](../Page/Java平台.md "wikilink")
+  - [Java](https://zh.wikipedia.org/wiki/Java平台 "wikilink")
 
   - [GNOME](../Page/GNOME.md "wikilink")（使用Blueprint佈景主題）
 
@@ -30,7 +31,7 @@ JDS第二版包括
 
   - 的Java Media Player
 
-  - [Gaim多個服務即時通訊軟體](../Page/Gaim.md "wikilink")
+  - [Gaim多個服務即時通訊軟體](https://zh.wikipedia.org/wiki/Gaim "wikilink")
 
   - [RealPlayer](../Page/RealPlayer.md "wikilink")
 

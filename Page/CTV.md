@@ -4,8 +4,8 @@
 
 ### 亞洲地區
 
-  - [中國電視公司](../Page/中國電視公司.md "wikilink")（）：中華民國成立的第二家電視台
-      - [中視主頻](../Page/中視主頻.md "wikilink")（）
+  - [中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（）：中華民國成立的第二家電視台
+      - [中視主頻](https://zh.wikipedia.org/wiki/中視主頻 "wikilink")（）
       - [中視新聞台](../Page/中視新聞台.md "wikilink")（）
       - [中視經典台](../Page/中視經典台.md "wikilink")（）
       - [中視菁采台](../Page/中視菁采台.md "wikilink")（）
@@ -42,11 +42,11 @@
 
 ### 歐洲地區
 
-  - [CBBC](../Page/CBBC.md "wikilink")：英國廣播公司旗下針對少年兒童播出的電視頻道
+  - [CBBC](https://zh.wikipedia.org/wiki/CBBC "wikilink")：英國廣播公司旗下針對少年兒童播出的電視頻道
 
-  - [ITV中部電視台](../Page/ITV中部.md "wikilink")（）：英國獨立電視台在英格蘭中部地區播出的電視頻道
+  - [ITV中部電視台](https://zh.wikipedia.org/wiki/ITV中部 "wikilink")（）：英國獨立電視台在英格蘭中部地區播出的電視頻道
 
-  - [ITV海峽電視](../Page/ITV海峽電視.md "wikilink")（）：英國獨立電視台在海峽群島播出的電視頻道
+  - [ITV海峽電視](https://zh.wikipedia.org/wiki/ITV海峽電視 "wikilink")（）：英國獨立電視台在海峽群島播出的電視頻道
 
   - [校園電視台](../Page/巴斯大學.md "wikilink")（）：英國巴斯大學學生會所成立的一家學生電視台
 
@@ -66,10 +66,10 @@
 
 ## 其他
 
-  - （）：一種主要通過[蚜蟲和](../Page/蚜蟲.md "wikilink")[嫁接傳播的橘柑類病毒](../Page/嫁接.md "wikilink")
+  - （）：一種主要通過[蚜蟲和](https://zh.wikipedia.org/wiki/蚜蟲 "wikilink")[嫁接傳播的橘柑類病毒](../Page/嫁接.md "wikilink")
 
   - （）
 
-  - （）：[委內瑞拉的一個](../Page/委內瑞拉.md "wikilink")[工會組織](../Page/工會.md "wikilink")
+  - （）：[委內瑞拉的一個](../Page/委內瑞拉.md "wikilink")[工會組織](https://zh.wikipedia.org/wiki/工會 "wikilink")
 
-  - （）：[西班牙內戰時參戰的意大利遠征軍](../Page/西班牙內戰.md "wikilink")
+  - （）：[西班牙內戰時參戰的意大利遠征軍](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")

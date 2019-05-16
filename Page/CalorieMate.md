@@ -1,4 +1,4 @@
-**CalorieMate**（カロリーメイト）是一個由[日本](../Page/日本.md "wikilink")[大塚製藥生產的](../Page/大塚製藥.md "wikilink")[能量補充食品品牌](../Page/膳食補充劑.md "wikilink")。CalorieMate產品包裝上只標注為"Balanced
+**CalorieMate**（カロリーメイト）是一個由[日本](../Page/日本.md "wikilink")[大塚製藥生產的](../Page/大塚製藥.md "wikilink")[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced
 Food"，它們的包裝非常簡潔，可說是毫不起眼。
 
 所有CalorieMate產品皆有以下描述：
@@ -18,35 +18,35 @@ Can*（カロリーメイト　缶）是一種罐裝飲品。
 
 ### CalorieMate Block
 
-  - [乳酪](../Page/乳酪.md "wikilink")
+  - [乳酪](https://zh.wikipedia.org/wiki/乳酪 "wikilink")
   - [巧克力](../Page/巧克力.md "wikilink")
-  - [水果](../Page/水果.md "wikilink")
+  - [水果](https://zh.wikipedia.org/wiki/水果 "wikilink")
   - [蔬菜](../Page/蔬菜.md "wikilink")
-  - [楓糖](../Page/楓糖.md "wikilink")
+  - [楓糖](https://zh.wikipedia.org/wiki/楓糖 "wikilink")
 
 ### CalorieMate Jelly
 
-  - [蘋果](../Page/蘋果.md "wikilink")
+  - [蘋果](https://zh.wikipedia.org/wiki/蘋果 "wikilink")
 
 ### CalorieMate Can
 
-  - [玉米](../Page/玉米.md "wikilink")[湯](../Page/湯.md "wikilink")
+  - [玉米](../Page/玉米.md "wikilink")[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")
   - [咖啡牛奶](../Page/咖啡牛奶.md "wikilink")
   - [咖啡](../Page/咖啡.md "wikilink")
   - [可可豆](../Page/可可豆.md "wikilink")
 
 ## 在流行文化中出現
 
-  - 在電子遊戲*[潛龍諜影3:食蛇者](../Page/潛龍諜影3:食蛇者.md "wikilink")*中有一個圖像為CalorieMate
+  - 在電子遊戲*[潛龍諜影3:食蛇者](https://zh.wikipedia.org/wiki/潛龍諜影3:食蛇者 "wikilink")*中有一個圖像為CalorieMate
     Block（巧克力味）名為CalorieMate的道具，使用後會完全回復主角Snake(蛇)的精力。
 
 <!-- end list -->
 
-  - CalorieMate通過與飾演[Fox電視台受歡迎電視劇](../Page/Fox.md "wikilink")*[24](../Page/24_\(電視劇\).md "wikilink")*主角杰克鮑爾的[基夫修打蘭合作拍攝多個廣告來宣傳他們的產品](../Page/基夫修打蘭.md "wikilink")。
+  - CalorieMate通過與飾演[Fox電視台受歡迎電視劇](https://zh.wikipedia.org/wiki/Fox "wikilink")*[24](../Page/24_\(電視劇\).md "wikilink")*主角杰克鮑爾的[基夫修打蘭合作拍攝多個廣告來宣傳他們的產品](https://zh.wikipedia.org/wiki/基夫修打蘭 "wikilink")。
 
 <!-- end list -->
 
-  - 電子遊戲[夢幻之星系列首作日文版中有一個明顯參考CalorieMate名為](../Page/夢幻之星.md "wikilink")*PelorieMate*（ペロリメイト）的道具，英文版中該道具被命名為*Cola*。
+  - 電子遊戲[夢幻之星系列首作日文版中有一個明顯參考CalorieMate名為](https://zh.wikipedia.org/wiki/夢幻之星 "wikilink")*PelorieMate*（ペロリメイト）的道具，英文版中該道具被命名為*Cola*。
 
 <!-- end list -->
 

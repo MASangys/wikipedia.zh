@@ -1,12 +1,12 @@
 《**真實之淚 true
-tears**》（。）是日本[Broccoli](../Page/Broccoli.md "wikilink")、[Circus以及](../Page/Circus_\(遊戲公司\).md "wikilink")進行製作，人物設計由[依澄れい進行設計](../Page/依澄れい.md "wikilink")\[1\]\[2\]，由發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，日語版於2006年3月31日在日本販售。[台灣與](../Page/台灣.md "wikilink")[香港的](../Page/香港.md "wikilink")[繁體中文版由](../Page/繁體中文.md "wikilink")[光譜資訊代理發行](../Page/光譜資訊.md "wikilink")\[3\]，並於2007年3月31日發售\[4\]。[PlayStation
+tears**》（。）是日本[Broccoli](../Page/Broccoli.md "wikilink")、[Circus以及](https://zh.wikipedia.org/wiki/Circus_\(遊戲公司\) "wikilink")進行製作，人物設計由[依澄れい進行設計](../Page/依澄れい.md "wikilink")\[1\]\[2\]，由發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，日語版於2006年3月31日在日本販售。[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港的](../Page/香港.md "wikilink")[繁體中文版由](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[光譜資訊代理發行](../Page/光譜資訊.md "wikilink")\[3\]，並於2007年3月31日發售\[4\]。[PlayStation
 2的移植版版由Sweets發行](../Page/PlayStation_2.md "wikilink")，並於2008年8月7日販售\[5\]。在《真實之淚
 true tears》的故事圍繞在五位女主角當中，在遊戲當中提供不同的劇情以及故事路線，並且著重於女主角的吸引力。\[6\]
 
 《真實之淚 true tears》同時改編不同的作品，同名的漫畫版在《Comi
 Digi》（）創刊號（2005年12月10日發售、雙月刊）連載，後來轉移到《Comi
 Digi +》（）雜誌連載，由Asaki（）繪製\[7\]。2006年同名的電視動畫由[P.A.
-Works開始進行製作](../Page/P.A._Works.md "wikilink")，於2008年1月6日到2008年3月30日播放，動畫與遊戲之間幾乎沒有任何共通點\[8\]。同時衍生製作[網路廣播節目](../Page/網路廣播.md "wikilink")，兩部[廣播劇CD以及真人實境劇](../Page/廣播劇CD.md "wikilink")。
+Works開始進行製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2008年1月6日到2008年3月30日播放，動畫與遊戲之間幾乎沒有任何共通點\[8\]。同時衍生製作[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")，兩部[廣播劇CD以及真人實境劇](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。
 
 ## 遊戲
 
@@ -56,19 +56,20 @@ Works開始進行製作](../Page/P.A._Works.md "wikilink")，於2008年1月6日�
 ## 開發
 
 《真實之淚 true
-tears》首次在2005年5月4日[東京國際展示場舉辦的](../Page/東京國際展示場.md "wikilink")東京2005春季展所公開，由Broccoli、Circus以及GameCrab三間遊戲公司所組成新的遊戲工作室La'cryma所製作的第一款遊戲\[37\]\[38\]\[39\]\[40\]\[41\]。遊戲的監製是Broccoli的木谷高明以及Circus的Tororo（松村和俊）\[42\]。儘管各團隊都提出各自的劇本，最終的劇本是由GameCrab的舞濱野野香（）負責寫作\[43\]\[44\]。[人物設計是由](../Page/人物設計.md "wikilink")[小小魔法使響以及](../Page/小小魔法使響.md "wikilink")[.hack//黃昏的腕輪傳說的插畫家依澄れい負責美術指導](../Page/.hack/黃昏的腕輪傳說.md "wikilink")\[45\]\[46\]。遊戲的音樂製作由[初音島系列的貓野彗星](../Page/初音島.md "wikilink")（）負責\[47\]\[48\]。
+tears》首次在2005年5月4日[東京國際展示場舉辦的](../Page/東京國際展示場.md "wikilink")東京2005春季展所公開，由Broccoli、Circus以及GameCrab三間遊戲公司所組成新的遊戲工作室La'cryma所製作的第一款遊戲\[37\]\[38\]\[39\]\[40\]\[41\]。遊戲的監製是Broccoli的木谷高明以及Circus的Tororo（松村和俊）\[42\]。儘管各團隊都提出各自的劇本，最終的劇本是由GameCrab的舞濱野野香（）負責寫作\[43\]\[44\]。[人物設計是由](../Page/人物設計.md "wikilink")[小小魔法使響以及](../Page/小小魔法使響.md "wikilink")[.hack//黃昏的腕輪傳說的插畫家依澄れい負責美術指導](https://zh.wikipedia.org/wiki/.hack/黃昏的腕輪傳說 "wikilink")\[45\]\[46\]。遊戲的音樂製作由[初音島系列的貓野彗星](../Page/初音島.md "wikilink")（）負責\[47\]\[48\]。
 
 ### 發行歷史
 
 《真實之淚 true
-tears》的日語版於2006年3月31日發售，儲存媒介採用[DVD-ROM](../Page/DVD-ROM.md "wikilink")，同時販售普通版與限量版\[49\]，限量版包含遊戲本身、手帕以及月曆等特典，普通版不包含上述特典\[50\]。台灣與香港的繁體中文版由光譜資訊代理發行，於2007年3月31日發售\[51\]，同樣發行普通版與限定版\[52\]。[PlayStation
-2移植版由Sweets進行製作並宣布於](../Page/PlayStation_2.md "wikilink")2008年3月13日販售\[53\]，但後來延期至2008年8月7日販售\[54\]，PS2版包含遊戲本身之外還包含一片[廣播劇CD以及插畫](../Page/廣播劇CD.md "wikilink")[小冊子](../Page/小冊子.md "wikilink")\[55\]\[56\]。
+tears》的日語版於2006年3月31日發售，儲存媒介採用[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，同時販售普通版與限量版\[49\]，限量版包含遊戲本身、手帕以及月曆等特典，普通版不包含上述特典\[50\]。台灣與香港的繁體中文版由光譜資訊代理發行，於2007年3月31日發售\[51\]，同樣發行普通版與限定版\[52\]。[PlayStation
+2移植版由Sweets進行製作並宣布於](../Page/PlayStation_2.md "wikilink")2008年3月13日販售\[53\]，但後來延期至2008年8月7日販售\[54\]，PS2版包含遊戲本身之外還包含一片[廣播劇CD以及插畫](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[小冊子](https://zh.wikipedia.org/wiki/小冊子 "wikilink")\[55\]\[56\]。
 
 ## 改編
 
 ### 網路廣播
 
-該遊戲有兩個[網路廣播節目](../Page/網路廣播.md "wikilink")，第一個廣播節目是《Radio true tears
+該遊戲有兩個[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")，第一個廣播節目是《Radio
+true tears
 琉依與穗香的瑞鳳學園廣播部(T_T)》（），由飾演仲根琉依的[伊月唯](../Page/伊月唯.md "wikilink")、飾演上原穗香的[中山惠里奈以及飾演井上祇園的福井裕佳梨負責主持](../Page/中山惠里奈.md "wikilink")，最初於2005年11月4日至2006年3月31日每個週五廣播，而網路廣播[音泉則是從](../Page/音泉.md "wikilink")2005年11月9日至2006年5月31日為止每週三廣播\[57\]。第二個廣播節目是《琉依與櫻的小劇場
 番外篇》（），由飾演仲根琉依的伊月唯以及櫻川依緒的[野川櫻負責主持](../Page/野川櫻.md "wikilink")，於2006年6月8日至2006年10月27日為止每月第二個與第四個週日於網路廣播進行廣播。2006年11月10日改名成《優奈與惠里奈的小劇場：Pure
 Album》（），由[稻村優奈與](../Page/稻村優奈.md "wikilink")[中山惠里奈主持](../Page/中山惠里奈.md "wikilink")，最後改名成《La'cryma禮物
@@ -78,14 +79,14 @@ Album》（），由[稻村優奈與](../Page/稻村優奈.md "wikilink")[中山
 
 同名的漫畫版由日本漫畫家Asaki負責漫畫。最初在Broccoli於2005年12月10日出版的《Comi
 Digi》（）創刊號開始連載，2006年4月21日隨著雜誌更名為《Comi Digi
-+》（）之後於2006年8月21日結束連載，[單行本於](../Page/單行本.md "wikilink")2006年12月21日發售\[59\]。而台灣的繁體中文版由[東立出版社所代理發行](../Page/東立出版社.md "wikilink")，於2007年6月14日發售\[60\]。
++》（）之後於2006年8月21日結束連載，[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2006年12月21日發售\[59\]。而台灣的繁體中文版由[東立出版社所代理發行](../Page/東立出版社.md "wikilink")，於2007年6月14日發售\[60\]。
 
 ### 音樂CD
 
 《真實之淚 true
 tears》的兩首主題曲皆為曾經擔任過[銀河天使系列的](../Page/銀河天使.md "wikilink")[上松範康負責作曲](../Page/上松範康.md "wikilink")\[61\]，作詞是是由初音島系列的tororo（松村和俊）所負責；編曲皆由[藤間仁所負責](../Page/藤間仁.md "wikilink")。其中片頭曲是《Tears
 in
-snow》由歌手[佐藤裕美所主唱](../Page/佐藤裕美.md "wikilink")，收錄在同名[專輯之後](../Page/專輯.md "wikilink")，於2005年12月23日發售\[62\]。而片尾曲主題是《明天有你》（）由歌手[yozuca\*所主唱](../Page/yozuca*.md "wikilink")，收錄在同名專輯之後，於2006年4月26日發行，包含歌曲的片尾曲和混音版本\[63\]\[64\]。
+snow》由歌手[佐藤裕美所主唱](../Page/佐藤裕美.md "wikilink")，收錄在同名[專輯之後](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2005年12月23日發售\[62\]。而片尾曲主題是《明天有你》（）由歌手[yozuca\*所主唱](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，收錄在同名專輯之後，於2006年4月26日發行，包含歌曲的片尾曲和混音版本\[63\]\[64\]。
 
 除此之外，《真實之淚 true
 tears》推出三張[廣播劇CD](../Page/廣播劇.md "wikilink")，第一張廣播劇CD《聖誕派對》（X'mas
@@ -96,7 +97,7 @@ Market](../Page/Comic_Market.md "wikilink")69販售\[65\]。第二張廣播劇CD
 ### 真人實境劇
 
 《真實之淚 true tears》改編成35分鐘的真人實境劇，以《**true tears ～pure
-album～**》於的名義發行，於2006年12月22日發售，由畑澤和也擔任導演，演員方面由飾演仲根琉依；[鈴木亞里沙飾演真田柚子](../Page/鈴木亞里沙.md "wikilink")；飾演雪代桂；飾演上原穗香；[梶原光飾演櫻川依緒](../Page/梶原光.md "wikilink")；稻村優奈與中山惠里奈同時在劇中登場，分別飾演真田葉子與上原穗香。\[67\]
+album～**》於的名義發行，於2006年12月22日發售，由畑澤和也擔任導演，演員方面由飾演仲根琉依；[鈴木亞里沙飾演真田柚子](https://zh.wikipedia.org/wiki/鈴木亞里沙 "wikilink")；飾演雪代桂；飾演上原穗香；[梶原光飾演櫻川依緒](../Page/梶原光.md "wikilink")；稻村優奈與中山惠里奈同時在劇中登場，分別飾演真田葉子與上原穗香。\[67\]
 
 ### 動畫
 
@@ -107,7 +108,7 @@ tears》同名的電視動畫作品在[神奈川電視台於](../Page/神奈川�
 
 儘管《真實之淚 true
 tears》與《[初音島II](../Page/初音島II.md "wikilink")》同時進行宣傳\[69\]，但是遊戲銷售量並未受到《初音島II》的影響而提升\[70\]，根據《[PC
-NEWS](../Page/PC_NEWS.md "wikilink")》所公布的日本全國[美少女遊戲銷售量排行榜](../Page/美少女遊戲.md "wikilink")，《真實之淚
+NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公布的日本全國[美少女遊戲銷售量排行榜](../Page/美少女遊戲.md "wikilink")，《真實之淚
 true
 tears》在2006年3月的銷售排行榜上首次亮相排在第41名\[71\]。相較之下，《初音島II》在2006年6月的銷售排行榜上首次亮相首週排在第一名\[72\]。
 

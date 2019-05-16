@@ -1,25 +1,25 @@
-**系统F**，也叫做**多态lambda演算**或**二阶lambda演算**，是[有类型lambda演算](../Page/有类型lambda演算.md "wikilink")。它由[逻辑学家](../Page/逻辑学家.md "wikilink")[Jean-Yves
-Girard和](../Page/Jean-Yves_Girard.md "wikilink")[计算机科学家](../Page/计算机科学家.md "wikilink")[John
+**系统F**，也叫做**多态lambda演算**或**二阶lambda演算**，是[有类型lambda演算](https://zh.wikipedia.org/wiki/有类型lambda演算 "wikilink")。它由[逻辑学家](../Page/逻辑学家.md "wikilink")[Jean-Yves
+Girard和](https://zh.wikipedia.org/wiki/Jean-Yves_Girard "wikilink")[计算机科学家](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[John
 C.
-Reynolds独立发现的](../Page/John_C._Reynolds.md "wikilink")。系统F形式化了[编程语言中的参数](../Page/编程语言.md "wikilink")[多态的概念](../Page/多态_\(计算机科学\).md "wikilink")。
+Reynolds独立发现的](https://zh.wikipedia.org/wiki/John_C._Reynolds "wikilink")。系统F形式化了[编程语言中的参数](../Page/编程语言.md "wikilink")[多态的概念](https://zh.wikipedia.org/wiki/多态_\(计算机科学\) "wikilink")。
 
-正如同[lambda演算有取值于](../Page/lambda演算.md "wikilink")（rang
+正如同[lambda演算有取值于](https://zh.wikipedia.org/wiki/lambda演算 "wikilink")（rang
 over）函数的变量，和来自它们的粘合子（binder）；二阶lambda演算取值自**类型**，和来自它们的粘合子。
 
 作为一个例子，恒等函数有形如A→ A的任何类型的事实可以在系统F中被形式化为判断
 
 \[\vdash \Lambda\alpha. \lambda x^\alpha.x: \forall\alpha.\alpha \to \alpha\]
 
-这里的α是[类型变量](../Page/类型变量.md "wikilink")。
+这里的α是[类型变量](https://zh.wikipedia.org/wiki/类型变量 "wikilink")。
 
-在[Curry-Howard同构下](../Page/Curry-Howard同构.md "wikilink")，系统F对应于[二阶逻辑](../Page/二阶逻辑.md "wikilink")。
+在[Curry-Howard同构下](https://zh.wikipedia.org/wiki/Curry-Howard同构 "wikilink")，系统F对应于[二阶逻辑](https://zh.wikipedia.org/wiki/二阶逻辑 "wikilink")。
 
-系统F，和甚至更加有表达力的lambda演算一起，可被看作[Lambda立方体的一部分](../Page/Lambda立方体.md "wikilink")。
+系统F，和甚至更加有表达力的lambda演算一起，可被看作[Lambda立方体的一部分](https://zh.wikipedia.org/wiki/Lambda立方体 "wikilink")。
 
 ## 逻辑和谓词
 
 布尔类型被定义为：
-\(\forall\alpha.\alpha \to \alpha \to \alpha\)，这里的α是[类型变量](../Page/类型变量.md "wikilink")。这产生了下列对布尔值`TRUE`和`FALSE`的两个定义：
+\(\forall\alpha.\alpha \to \alpha \to \alpha\)，这里的α是[类型变量](https://zh.wikipedia.org/wiki/类型变量 "wikilink")。这产生了下列对布尔值`TRUE`和`FALSE`的两个定义：
 
   -
     TRUE := \(\Lambda \alpha.\lambda x^\alpha \lambda y^\alpha.x\)
@@ -48,7 +48,7 @@ over）函数的变量，和来自它们的粘合子（binder）；二阶lambda�
 
 ## 系统F结构
 
-系统F允许以同[Martin-Löf类型论有关的自然的方式嵌入递归构造](../Page/Martin-Löf类型论.md "wikilink")。抽象结构（S）是使用*构造子*建立的。有函数被定类型为：
+系统F允许以同[Martin-Löf类型论有关的自然的方式嵌入递归构造](https://zh.wikipedia.org/wiki/Martin-Löf类型论 "wikilink")。抽象结构（S）是使用*构造子*建立的。有函数被定类型为：
 
 \[K_1\rightarrow K_2\rightarrow\dots\rightarrow S\]
 
@@ -73,17 +73,17 @@ over）函数的变量，和来自它们的粘合子（binder）；二阶lambda�
     `3
     :=`\(\Lambda \alpha . \lambda x^\alpha . \lambda f^{\alpha\to\alpha} . f (f (f x))\)
 
-如果我们反转curried参数的次序（比如\(\forall \alpha.(\alpha \to \alpha)\to \alpha \to \alpha\)），则\(n\)的邱奇数是接受函数*`f`*作为参数并返回*`f`*的*`n`*次幂的函数。就是说，邱奇数是一个[高阶函数](../Page/高阶函数.md "wikilink")
+如果我们反转curried参数的次序（比如\(\forall \alpha.(\alpha \to \alpha)\to \alpha \to \alpha\)），则\(n\)的邱奇数是接受函数*`f`*作为参数并返回*`f`*的*`n`*次幂的函数。就是说，邱奇数是一个[高阶函数](https://zh.wikipedia.org/wiki/高阶函数 "wikilink")
 -- 它接受一个单一参数函数*`f`*，并返回另一个单一参数函数。
 
 ## 用在编程语言中
 
-本文用的系统F版本是显式类型的，或邱奇风格的演算。包含在λ-项内的类型信息使[类型检查直接了当](../Page/类型检查.md "wikilink")。[Joe
-Wells](../Page/Joe_Wells.md "wikilink")（1994）设立了一个"难为人的公开问题"，证明系统
-F的Curry-风格的变体是[不可判定的](../Page/决定性问题.md "wikilink")，它缺乏明显的类型提示。[1](https://web.archive.org/web/20041209225820/http://www.cee.hw.ac.uk/~jbw/research-summary.html)
+本文用的系统F版本是显式类型的，或邱奇风格的演算。包含在λ-项内的类型信息使[类型检查直接了当](https://zh.wikipedia.org/wiki/类型检查 "wikilink")。[Joe
+Wells](https://zh.wikipedia.org/wiki/Joe_Wells "wikilink")（1994）设立了一个"难为人的公开问题"，证明系统
+F的Curry-风格的变体是[不可判定的](https://zh.wikipedia.org/wiki/决定性问题 "wikilink")，它缺乏明显的类型提示。[1](https://web.archive.org/web/20041209225820/http://www.cee.hw.ac.uk/~jbw/research-summary.html)
 [2](https://web.archive.org/web/20070216230916/http://www.church-project.org/reports/Wells:APAL-1999-v98-no-note.html)
 
-Wells的结果暗含着系统F的[类型推论是不可能的](../Page/类型推论.md "wikilink")。一个限制版本的系统F叫做"[Hindley-Milner](../Page/Hindley-Milner.md "wikilink")"，或简称"HM"，有一个容易的类型推论算法，并用于了很多[强类型的](../Page/强类型.md "wikilink")[函数式编程语言](../Page/函数式编程语言.md "wikilink")，比如[Haskell和](../Page/Haskell.md "wikilink")[ML](../Page/ML.md "wikilink")。
+Wells的结果暗含着系统F的[类型推论是不可能的](../Page/类型推论.md "wikilink")。一个限制版本的系统F叫做"[Hindley-Milner](https://zh.wikipedia.org/wiki/Hindley-Milner "wikilink")"，或简称"HM"，有一个容易的类型推论算法，并用于了很多[强类型的](https://zh.wikipedia.org/wiki/强类型 "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，比如[Haskell和](../Page/Haskell.md "wikilink")[ML](https://zh.wikipedia.org/wiki/ML "wikilink")。
 
 ## 参考文献
 
@@ -92,8 +92,8 @@ Wells的结果暗含着系统F的[类型推论是不可能的](../Page/类型推
     University Press.
   - J. B. Wells. "Typability and type checking in the second-order
     lambda-calculus are equivalent and undecidable." In *Proceedings of
-    the 9th Annual [IEEE](../Page/IEEE.md "wikilink") Symposium on Logic
-    in Computer Science (LICS),* pages 176-185, 1994.
+    the 9th Annual [IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink")
+    Symposium on Logic in Computer Science (LICS),* pages 176-185, 1994.
     [3](http://www.macs.hw.ac.uk/~jbw/papers/Wells:Typability-and-Type-Checking-in-the-Second-Order-Lambda-Calculus-Are-Equivalent-and-Undecidable:LICS-1994.ps.gz)
 
 ## 外部链接

@@ -1,9 +1,9 @@
-**山本龍二**（　），日本AV男優，京都府京都市出身，外號宏輝，日本已故演員[嵐寛壽郎的外甥](../Page/嵐寛壽郎.md "wikilink")。身材肥碩，其貌不揚，常演出反派人物，被稱為變態系男優，與性愛之帝王-[加藤鷹](../Page/加藤鷹.md "wikilink")、巧克力球-[向山裕](../Page/向山裕.md "wikilink")，合稱「日本AV男優御三家」。是AV女優最不願意合作的對象之一。著名女優[松島楓就曾表示自己很怕山本宏輝](../Page/松島楓.md "wikilink")：「電個捲捲的小平頭，戴個好恐怖的眼鏡，看上去令人敬而遠之」，最受不了他在插入時會一直發出很變態的笑聲\[1\]。
+**山本龍二**（　），日本AV男優，京都府京都市出身，外號宏輝，日本已故演員[嵐寛壽郎的外甥](https://zh.wikipedia.org/wiki/嵐寛壽郎 "wikilink")。身材肥碩，其貌不揚，常演出反派人物，被稱為變態系男優，與性愛之帝王-[加藤鷹](../Page/加藤鷹.md "wikilink")、巧克力球-[向山裕](https://zh.wikipedia.org/wiki/向山裕 "wikilink")，合稱「日本AV男優御三家」。是AV女優最不願意合作的對象之一。著名女優[松島楓就曾表示自己很怕山本宏輝](../Page/松島楓.md "wikilink")：「電個捲捲的小平頭，戴個好恐怖的眼鏡，看上去令人敬而遠之」，最受不了他在插入時會一直發出很變態的笑聲\[1\]。
 
 ## 略歷
 
 山本龍二於在所有參與AV演出的所有男優中感覺「最變態」、演出片數累積最多，嚴格來說成就應該是排名第一的「變態系」元祖
-。1981年出道，曾與[田村香織](../Page/田村香織.md "wikilink")、[川島和津實](../Page/川島和津實.md "wikilink")、[高樹瑪莉亞](../Page/高樹瑪莉亞.md "wikilink")、[岸加奈子](../Page/岸加奈子.md "wikilink")、[高野敦子](../Page/高野敦子.md "wikilink")、[葵實野理](../Page/葵實野理.md "wikilink")、[夏目奈奈](../Page/夏目奈奈.md "wikilink")、[石川惠美](../Page/石川惠美.md "wikilink")、-{[伊東怜](../Page/伊東怜.md "wikilink")}-、[奈奈見沙織](../Page/奈奈見沙織.md "wikilink")、[安倍夏樹](../Page/安倍夏樹.md "wikilink")、[大澤惠等著名](../Page/大澤惠.md "wikilink")[AV女優合作過](../Page/AV女優.md "wikilink")，總計與超過六千名女優發生[性行為](../Page/性行為.md "wikilink")，因為過度消耗，必須使用藥物勃起\[2\]。又擔任過監督（[監製](../Page/監製.md "wikilink")）的職務。
+。1981年出道，曾與[田村香織](https://zh.wikipedia.org/wiki/田村香織 "wikilink")、[川島和津實](../Page/川島和津實.md "wikilink")、[高樹瑪莉亞](https://zh.wikipedia.org/wiki/高樹瑪莉亞 "wikilink")、[岸加奈子](https://zh.wikipedia.org/wiki/岸加奈子 "wikilink")、[高野敦子](https://zh.wikipedia.org/wiki/高野敦子 "wikilink")、[葵實野理](../Page/葵實野理.md "wikilink")、[夏目奈奈](../Page/夏目奈奈.md "wikilink")、[石川惠美](../Page/石川惠美.md "wikilink")、-{[伊東怜](../Page/伊東怜.md "wikilink")}-、[奈奈見沙織](https://zh.wikipedia.org/wiki/奈奈見沙織 "wikilink")、[安倍夏樹](https://zh.wikipedia.org/wiki/安倍夏樹 "wikilink")、[大澤惠等著名](../Page/大澤惠.md "wikilink")[AV女優合作過](../Page/AV女優.md "wikilink")，總計與超過六千名女優發生[性行為](https://zh.wikipedia.org/wiki/性行為 "wikilink")，因為過度消耗，必須使用藥物勃起\[2\]。又擔任過監督（[監製](https://zh.wikipedia.org/wiki/監製 "wikilink")）的職務。
 
 ## 作品
 
@@ -135,7 +135,7 @@
 
 ## 關連項目
 
-  - [AV男優列表](../Page/AV男優列表.md "wikilink")
+  - [AV男優列表](https://zh.wikipedia.org/wiki/AV男優列表 "wikilink")
 
 ## 參考文獻
 

@@ -1,22 +1,22 @@
 [X11.svg](https://zh.wikipedia.org/wiki/File:X11.svg "fig:X11.svg")
 
 **X Window 核心協議**\[1\]\[2\]\[3\]是[X
-Window系統的基礎協議](../Page/X_Window系統.md "wikilink")，它是一個以[點陣圖顯示的](../Page/光柵圖形.md "wikilink")[網絡化](../Page/计算机网络.md "wikilink")[視窗系統](../Page/視窗系統.md "wikilink")，用來在[Unix](../Page/UNIX.md "wikilink")、[類Unix和其他](../Page/类Unix系统.md "wikilink")[作業系統上建立](../Page/操作系统.md "wikilink")[使用者圖形界面](../Page/图形用户界面.md "wikilink")。X
+Window系統的基礎協議](../Page/X_Window系統.md "wikilink")，它是一個以[點陣圖顯示的](https://zh.wikipedia.org/wiki/光柵圖形 "wikilink")[網絡化](../Page/计算机网络.md "wikilink")[視窗系統](../Page/視窗系統.md "wikilink")，用來在[Unix](../Page/UNIX.md "wikilink")、[類Unix和其他](../Page/类Unix系统.md "wikilink")[作業系統上建立](../Page/操作系统.md "wikilink")[使用者圖形界面](../Page/图形用户界面.md "wikilink")。X
 Window
-系統基於[主從式模型](../Page/主從式架構.md "wikilink")：單一[伺服器控管](../Page/服务器.md "wikilink")[硬體的](../Page/硬體.md "wikilink")[輸出入](../Page/I/O.md "wikilink")，如[螢幕](../Page/显示器.md "wikilink")、[鍵盤和](../Page/電腦鍵盤.md "wikilink")[滑鼠](../Page/鼠标.md "wikilink")；所有的應用[程式都被視作](../Page/计算机程序.md "wikilink")[客戶端](../Page/客户端.md "wikilink")，[使用者之間透過伺服器來互動](../Page/使用者.md "wikilink")。互動部分由X
+系統基於[主從式模型](../Page/主從式架構.md "wikilink")：單一[伺服器控管](../Page/服务器.md "wikilink")[硬體的](https://zh.wikipedia.org/wiki/硬體 "wikilink")[輸出入](https://zh.wikipedia.org/wiki/I/O "wikilink")，如[螢幕](../Page/显示器.md "wikilink")、[鍵盤和](https://zh.wikipedia.org/wiki/電腦鍵盤 "wikilink")[滑鼠](../Page/鼠标.md "wikilink")；所有的應用[程式都被視作](../Page/计算机程序.md "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客户端 "wikilink")，[使用者之間透過伺服器來互動](https://zh.wikipedia.org/wiki/使用者 "wikilink")。互動部分由X
 Window核心協議來管理。還有其他與X Window系統有關的協議，有的建立在X Window核心協議之上的，有的是獨立的協議。
 
 在X
-Window核心協議中，只會在網絡上以[非同步方式傳送四種封包](../Page/非同步.md "wikilink")：請求、回應、事件和錯誤。**請求**是由客戶端傳送到伺服器，告之進行一些動作（例如建立一個視窗），並回傳以便持握的資料。**回應**是由伺服器回傳的若干資料。**事件**是由伺服器傳送的，其用來通知客戶端某些使用者的動作，或者發生了其他所關心的事件。**錯誤**是由伺服器傳送的封包，其用來通知客戶端，在處理其請求時，發生了一些錯誤。請求有可能產生回應、事件和錯誤；除此之外，協議並不要求封包中的特定指令要以網絡來傳送。還有其他對核心協議的擴充，這些擴充有自己的請求、回應、事件和錯誤。
+Window核心協議中，只會在網絡上以[非同步方式傳送四種封包](https://zh.wikipedia.org/wiki/非同步 "wikilink")：請求、回應、事件和錯誤。**請求**是由客戶端傳送到伺服器，告之進行一些動作（例如建立一個視窗），並回傳以便持握的資料。**回應**是由伺服器回傳的若干資料。**事件**是由伺服器傳送的，其用來通知客戶端某些使用者的動作，或者發生了其他所關心的事件。**錯誤**是由伺服器傳送的封包，其用來通知客戶端，在處理其請求時，發生了一些錯誤。請求有可能產生回應、事件和錯誤；除此之外，協議並不要求封包中的特定指令要以網絡來傳送。還有其他對核心協議的擴充，這些擴充有自己的請求、回應、事件和錯誤。
 
 X Window 源於1984年的[麻省理工學院](../Page/麻省理工学院.md "wikilink")（目前所發佈的 X11
-發表於1987年9月）。設計者[鮑伯·斯凱夫勒](../Page/鮑伯·斯凱夫勒.md "wikilink")（Bob
-Scheifler）和[吉姆·杰提斯](../Page/吉姆·杰提斯.md "wikilink")（Jim
-Gettys）早期對核心協議的原則是**「機制，而非策略」**，所以核心協議並未規定客戶端之間以及客戶端和使用者之間的互動界面規範。這部分則由其它的獨立規格\[4\]所規範，如[ICCCM](../Page/ICCCM.md "wikilink")、[freedesktop.org規範](../Page/freedesktop.org.md "wikilink")，且可由所使用的特定[組件工具包自動強制執行](../Page/部件工具箱.md "wikilink")。
+發表於1987年9月）。設計者[鮑伯·斯凱夫勒](https://zh.wikipedia.org/wiki/鮑伯·斯凱夫勒 "wikilink")（Bob
+Scheifler）和[吉姆·杰提斯](https://zh.wikipedia.org/wiki/吉姆·杰提斯 "wikilink")（Jim
+Gettys）早期對核心協議的原則是**「機制，而非策略」**，所以核心協議並未規定客戶端之間以及客戶端和使用者之間的互動界面規範。這部分則由其它的獨立規格\[4\]所規範，如[ICCCM](https://zh.wikipedia.org/wiki/ICCCM "wikilink")、[freedesktop.org規範](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")，且可由所使用的特定[組件工具包自動強制執行](../Page/部件工具箱.md "wikilink")。
 
 ## 概觀
 
-伺服器和客戶端之間的通訊，是由[通道上的交換封包所完成](../Page/信道.md "wikilink")。由客戶端建立連線，且由客戶端發送第一個封包。封包中包括將要使用的[字节序](../Page/字节序.md "wikilink")、協議版本方面的資訊，以及客戶端期望伺服器使用的認證種類。伺服器以回傳封包來答覆，封包中陳述接受或拒絕連線，或要求進一步的[驗證](../Page/驗證.md "wikilink")。如果接受連線，接受封包內會包含客戶端接下來和伺服器互動所需的資料。
+伺服器和客戶端之間的通訊，是由[通道上的交換封包所完成](../Page/信道.md "wikilink")。由客戶端建立連線，且由客戶端發送第一個封包。封包中包括將要使用的[字节序](../Page/字节序.md "wikilink")、協議版本方面的資訊，以及客戶端期望伺服器使用的認證種類。伺服器以回傳封包來答覆，封包中陳述接受或拒絕連線，或要求進一步的[驗證](https://zh.wikipedia.org/wiki/驗證 "wikilink")。如果接受連線，接受封包內會包含客戶端接下來和伺服器互動所需的資料。
 
 [Xcore-overview-zh.svg](https://zh.wikipedia.org/wiki/File:Xcore-overview-zh.svg "fig:Xcore-overview-zh.svg")
 
@@ -27,7 +27,7 @@ Gettys）早期對核心協議的原則是**「機制，而非策略」**，所�
 3.  **事件**：伺服器傳送事件給客戶端。如：鍵盤或滑鼠的輸入，或移動、調整、顯示視窗等。
 4.  **錯誤**：如果請求無效時，伺服器會傳送一個錯誤封包。因為請求是以排隊方式處理，所以經由請求所產生的錯誤封包，並不會立即傳送出去。
 
-請求和回應封包可以有各種長度，事件和錯誤封包的長度則固定是32[位元組](../Page/位元組.md "wikilink")。
+請求和回應封包可以有各種長度，事件和錯誤封包的長度則固定是32[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")。
 
 請求封包的編號順序是以伺服器的接收為順序：來自客戶端的第一個請求編號為 1、第二個編號為
 2，依此類推。請求的序列編號中最小的有效16位元，包含在由請求所產生的回應和錯誤封包之中，如果有的話。它們也包含在事件封包中，以指出伺服器正在處理或是剛剛完成的請求序列編號。
@@ -35,11 +35,11 @@ Gettys）早期對核心協議的原則是**「機制，而非策略」**，所�
 ## 視窗
 
 在X
-Window系統以及各種[圖形化使用者界面中](../Page/图形用户界面.md "wikilink")，視窗即為一個**頂層視窗**。視窗也用來指視窗內部的視窗，這類視窗是父視窗的子視窗。圖形化元件，如[按鈕](../Page/按钮_\(计算机\).md "wikilink")、[選單](../Page/选单.md "wikilink")、[圖示等等](../Page/圖標.md "wikilink")，都是使用視窗來實現的。
+Window系統以及各種[圖形化使用者界面中](../Page/图形用户界面.md "wikilink")，視窗即為一個**頂層視窗**。視窗也用來指視窗內部的視窗，這類視窗是父視窗的子視窗。圖形化元件，如[按鈕](https://zh.wikipedia.org/wiki/按钮_\(计算机\) "wikilink")、[選單](https://zh.wikipedia.org/wiki/选单 "wikilink")、[圖示等等](https://zh.wikipedia.org/wiki/圖標 "wikilink")，都是使用視窗來實現的。
 
 [Some_X_windows.svg](https://zh.wikipedia.org/wiki/File:Some_X_windows.svg "fig:Some_X_windows.svg")
 
-客戶端可請求建立一個視窗。更嚴謹的說，客戶端可請求建立現存視窗的子視窗。所以客戶端所建立的視窗，皆以[樹狀結構組織](../Page/树_\(图论\).md "wikilink")（[階層結構](../Page/等级制度.md "wikilink")）。樹狀結構的根即為[根視窗](../Page/根視窗.md "wikilink")，根視窗是伺服器在啟動時，所自動建立的特殊視窗。其餘視窗都是根視窗的子視窗，頂層視窗就是根視窗下的第一個子視窗。如图所見，根視窗和螢幕同等大小，且在其餘視窗的後面（被子視窗遮蓋住）。
+客戶端可請求建立一個視窗。更嚴謹的說，客戶端可請求建立現存視窗的子視窗。所以客戶端所建立的視窗，皆以[樹狀結構組織](../Page/树_\(图论\).md "wikilink")（[階層結構](../Page/等级制度.md "wikilink")）。樹狀結構的根即為[根視窗](https://zh.wikipedia.org/wiki/根視窗 "wikilink")，根視窗是伺服器在啟動時，所自動建立的特殊視窗。其餘視窗都是根視窗的子視窗，頂層視窗就是根視窗下的第一個子視窗。如图所見，根視窗和螢幕同等大小，且在其餘視窗的後面（被子視窗遮蓋住）。
 
 視窗裡的內容並非在所有時候都能顯示出來。更精確地說，在視窗移動、調整大小、被其他視窗遮蓋、部分或整個視窗不可見時，視窗裡的內容就有可能會被銷毀。更精確地說，如果
 X 伺服器無法維護視窗內容的**後備存放區**（backing
@@ -52,14 +52,14 @@ store）時，這些內容就會遺失。客戶端可請求為視窗進行維護
 
 [Xframe.png](https://zh.wikipedia.org/wiki/File:Xframe.png "fig:Xframe.png")視窗的結構。中央的大塊白色區域是由客戶端應用程式所建立的視窗。\]\]
 
-平常可看到視窗周圍的裝飾性框架和[標題列](../Page/標題列.md "wikilink")（可能含有按鈕），是由[視窗管理器所建立的視窗](../Page/x窗口管理器.md "wikilink")，而非客戶端所建立的。視窗管理器也處理與元件有關的輸入，例如當使用者點擊並拖曳視窗的邊框時，便會調整視窗大小。客戶端所建立的視窗，通常可以忽略視窗管理器所帶來的變化。還有一個改變必須注意，那就是改變親屬關係的視窗管理器，幾乎所有新式的視窗管理器，都會將頂層視窗的親屬關係改變到一個視窗（不是根視窗）裡去。從核心協議的角度來看，視窗管理器是一個客戶端，與其他的應用程式沒有區別。
+平常可看到視窗周圍的裝飾性框架和[標題列](https://zh.wikipedia.org/wiki/標題列 "wikilink")（可能含有按鈕），是由[視窗管理器所建立的視窗](https://zh.wikipedia.org/wiki/x窗口管理器 "wikilink")，而非客戶端所建立的。視窗管理器也處理與元件有關的輸入，例如當使用者點擊並拖曳視窗的邊框時，便會調整視窗大小。客戶端所建立的視窗，通常可以忽略視窗管理器所帶來的變化。還有一個改變必須注意，那就是改變親屬關係的視窗管理器，幾乎所有新式的視窗管理器，都會將頂層視窗的親屬關係改變到一個視窗（不是根視窗）裡去。從核心協議的角度來看，視窗管理器是一個客戶端，與其他的應用程式沒有區別。
 
 關於視窗的資料，可執行 `xwininfo` 程式來取得。加上
 `-tree`[命令列參數](../Page/命令行界面.md "wikilink")，程式便會顯示子視窗的樹狀結構，連同識別子和幾何性質資料一起顯示。
 
 ## 圖形映射和可繪區
 
-圖形映射（pixmap）是記憶體中可用來繪圖的區域。與視窗不同，圖形映射的內容並不會自動顯示在螢幕上。不過圖形映射的內容（或部分內容）可轉換到視窗上，反之亦然。這就讓[雙緩衝得以實作](../Page/雙緩衝.md "wikilink")。大部分可在視窗上完成的圖形化操作，也可以圖形映射完成。
+圖形映射（pixmap）是記憶體中可用來繪圖的區域。與視窗不同，圖形映射的內容並不會自動顯示在螢幕上。不過圖形映射的內容（或部分內容）可轉換到視窗上，反之亦然。這就讓[雙緩衝得以實作](https://zh.wikipedia.org/wiki/雙緩衝 "wikilink")。大部分可在視窗上完成的圖形化操作，也可以圖形映射完成。
 
 視窗和圖形映射被統稱為**可繪區**（drawable），且其資料內容都保留在伺服器上。客戶端可請求從伺服器上，將可繪區的內容轉換到客戶端，反之亦然。
 
@@ -81,11 +81,11 @@ store）時，這些內容就會遺失。客戶端可請求為視窗進行維護
 `xlsfonts` 程式可輸出存放在伺服器上的字體列表。`xfontsel`
 程式可顯示字體的標記，並讓使用者選取字體的名稱，以在其他視窗中貼上。
 
-目前已不再重視伺服器側字體的使用，而轉向客戶端側字體的使用\[7\]。例如，藉由支援[Xft或](../Page/Xft.md "wikilink")[cairo程式庫](../Page/cairo.md "wikilink")，以及[XRender擴充](../Page/XRender.md "wikilink")，改由客戶端（而非伺服器）繪製字體。客戶端側字體在核心協議中尚未給出規範。
+目前已不再重視伺服器側字體的使用，而轉向客戶端側字體的使用\[7\]。例如，藉由支援[Xft或](https://zh.wikipedia.org/wiki/Xft "wikilink")[cairo程式庫](https://zh.wikipedia.org/wiki/cairo "wikilink")，以及[XRender擴充](https://zh.wikipedia.org/wiki/XRender "wikilink")，改由客戶端（而非伺服器）繪製字體。客戶端側字體在核心協議中尚未給出規範。
 
 ## 資源和識別子
 
-所有關於視窗的資料、圖形映射、字體等等，皆存放在伺服器上。客戶端知道那些物件的[識別子](../Page/識別子.md "wikilink")，和伺服器互動時，物件以整數為名稱。例如，當客戶端希望建立一個視窗時，便指定一個識別子，並請求伺服器建立一個視窗。伺服器會建立一個視窗，並與指定的識別子關聯。稍後客戶端可使用這個識別子進行請求，例如在視窗上畫上一個字串。以下存在於伺服器上的物件，客戶端可藉由數值型的識別子得知：
+所有關於視窗的資料、圖形映射、字體等等，皆存放在伺服器上。客戶端知道那些物件的[識別子](https://zh.wikipedia.org/wiki/識別子 "wikilink")，和伺服器互動時，物件以整數為名稱。例如，當客戶端希望建立一個視窗時，便指定一個識別子，並請求伺服器建立一個視窗。伺服器會建立一個視窗，並與指定的識別子關聯。稍後客戶端可使用這個識別子進行請求，例如在視窗上畫上一個字串。以下存在於伺服器上的物件，客戶端可藉由數值型的識別子得知：
 
   - 視窗（`Window`）
   - 圖形映射（`Pixmap`）
@@ -104,7 +104,7 @@ store）時，這些內容就會遺失。客戶端可請求為視窗進行維護
 連線到同一伺服器的兩個客戶端，對同一資源可使用同一識別子。例如，若客戶端建立一個 `0x1e00021` 識別子的視窗，並傳送數值
 `0x1e00021`
 給其他的應用程式（透過任何有效的手法。例如，把數值存放在檔案裡，且這個檔案可讓其他的應用程式輕易存取），其他的應用程式即可對同一視窗進行操作。這個例子是來自X
-Window版本的[Ghostview](../Page/Ghostscript.md "wikilink")：程式建立一個子視窗，在[環境變數中存放其識別子](../Page/環境變數.md "wikilink")，並呼叫[Ghostscript](../Page/Ghostscript.md "wikilink")；程式繪製[PostScript檔案的內容](../Page/PostScript.md "wikilink")，以顯示在這個視窗上\[8\]。
+Window版本的[Ghostview](../Page/Ghostscript.md "wikilink")：程式建立一個子視窗，在[環境變數中存放其識別子](https://zh.wikipedia.org/wiki/環境變數 "wikilink")，並呼叫[Ghostscript](../Page/Ghostscript.md "wikilink")；程式繪製[PostScript檔案的內容](../Page/PostScript.md "wikilink")，以顯示在這個視窗上\[8\]。
 
 當建立資源的客戶端關閉與伺服器的連線時，資源就會正常的銷毀。不過在關閉連線之前，客戶端可以請求伺服器不要銷毀資源。
 
@@ -126,7 +126,7 @@ Window版本的[Ghostview](../Page/Ghostscript.md "wikilink")：程式建立一�
 
 客戶端可以設置視窗的屬性值（attribute），以指明想要接收哪些事件。例如，當視窗的內容已銷毀時，為重繪其內容，客戶端就必須接收
 `Expose` 事件，以通知視窗需要再次重繪。客戶端要能接收到 `Expose`
-事件，就要預先指明它所關心的事件，這部分可以適當設置視窗屬性值的**事件[掩碼](../Page/掩碼.md "wikilink")**來完成。
+事件，就要預先指明它所關心的事件，這部分可以適當設置視窗屬性值的**事件[掩碼](https://zh.wikipedia.org/wiki/掩碼 "wikilink")**來完成。
 
 不同的客戶端可以請求同一視窗的事件。甚至可對同一視窗設置不同的事件掩碼。例如，某個客戶端可以只對視窗請求鍵盤事件，而另一個客戶端只對視窗請求滑鼠事件。這是可以的，因為伺服器會為每一個客戶端維護事件掩碼，而且是每一個視窗都維護一份獨立的事件掩碼。不過偶爾也有某幾類事件，只能由一個客戶端選擇。特別是，這類事件回報滑鼠按鈕的點擊，且部分變化會涉及到視窗管理器。
 
@@ -192,7 +192,7 @@ class）來標識。視覺分類中的靜態色（`StaticColor`）與偽彩色�
 
 色彩映射和控制螢幕的硬體（即[繪圖卡](../Page/圖形處理器.md "wikilink")）是否使用調色盤（palette）沒有關係。調色盤是一個表，也是用來表示顏色的。即使硬體並不使用調色盤，伺服器也能使用色彩映射。當硬體使用調色盤時，就只能安裝相當受限的少許色彩映射。更精確地說，當硬體根據色彩映射來顯示顏色時，就可以說是安裝了色彩映射。客戶端可請求伺服器安裝一個色彩映射。不過需要將另一個色彩映射解除安裝：其影響是視窗如果使用了解除安裝的色彩映射，就不能顯示正確的顏色，而出現怪異顏色的畫面。這個問題可以用**標準色彩映射**來解決，標準色彩映射是像素值和顏色之間關聯恆定的色彩映射。由於有這一性質，就可讓不同的應用程式使用標準色彩映射。
 
-色彩映射的建立由[ICCCM協定管理](../Page/ICCCM.md "wikilink")。標準色彩映射由ICCCM和[Xlib規格管理](../Page/Xlib.md "wikilink")。
+色彩映射的建立由[ICCCM協定管理](https://zh.wikipedia.org/wiki/ICCCM "wikilink")。標準色彩映射由ICCCM和[Xlib規格管理](../Page/Xlib.md "wikilink")。
 
 ## 元素
 
@@ -219,11 +219,11 @@ Window核心協議的層次中並沒有其他含意。客戶端可在視窗的�
 屬性的名稱、類型和值皆為字串；更精確地說就是元素，客戶端可藉由識別字，以存取存放在伺服器上的字串。客戶端應用程式可以元素的識別子（含有屬性的名稱）存取特定的屬性。
 
 屬性大多用於客戶端之間的通訊。例如，名稱為 `WM_NAME`（屬性名稱就是元素所關聯的字串
-`"WM_NAME"`）的屬性，是用來存放視窗的名稱；[視窗管理器通常會讀取這個屬性](../Page/x窗口管理器.md "wikilink")，並在視窗頂部顯示名稱。
+`"WM_NAME"`）的屬性，是用來存放視窗的名稱；[視窗管理器通常會讀取這個屬性](https://zh.wikipedia.org/wiki/x窗口管理器 "wikilink")，並在視窗頂部顯示名稱。
 
-某些客戶端之間的通訊也使用了根視窗的屬性。例如，根據[freedesktop視窗管理器規格](../Page/freedesktop.org.md "wikilink")\[10\]視窗管理器應該在根視窗的
+某些客戶端之間的通訊也使用了根視窗的屬性。例如，根據[freedesktop視窗管理器規格](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")\[10\]視窗管理器應該在根視窗的
 `_NET_ACTIVE_WINDOW`
-屬性名中存放目前有效（active）視窗的識別子。[X資源所含有的程式](../Page/X資源.md "wikilink")[參數](../Page/參數_\(電腦科學\).md "wikilink")，同樣也是存放在根視窗的屬性裡；藉由這個方式，即使分別執行在不同電腦上，所有客戶端仍可存取到那些參數。
+屬性名中存放目前有效（active）視窗的識別子。[X資源所含有的程式](https://zh.wikipedia.org/wiki/X資源 "wikilink")[參數](https://zh.wikipedia.org/wiki/參數_\(電腦科學\) "wikilink")，同樣也是存放在根視窗的屬性裡；藉由這個方式，即使分別執行在不同電腦上，所有客戶端仍可存取到那些參數。
 
 `xprop` 程式可輸出指定視窗的屬性，`xprop -root` 則可輸出根視窗每一個屬性的名稱、類型和值。
 
@@ -234,7 +234,7 @@ Window核心協議的層次中並沒有其他含意。客戶端可在視窗的�
 在X Window系統中，鍵盤上的每一個物理按鍵都關聯有 8～255
 之間的號碼，這些號碼就稱作**鍵碼**（keycode）。一個鍵碼僅僅標識一個按鍵，而非特定的字元或功能鍵（如「Page
 Up」）。字元或功能鍵則由**鍵符**來標識。鍵碼僅僅取決於實際按下的按鍵，鍵符則可取決於按下的 Shift
-鍵或其他的[修飾鍵](../Page/修飾鍵.md "wikilink")。
+鍵或其他的[修飾鍵](https://zh.wikipedia.org/wiki/修飾鍵 "wikilink")。
 
 當按下或放開按鍵時，伺服器會傳送 `KeyPress` 或 `KeyRelease` 的事件類型給適當的客戶端。這些事件包含：
 
@@ -248,7 +248,7 @@ Shift 修飾鍵也已按下，客戶端（不是伺服器）就會把這個事�
 
 客戶端完成鍵碼至鍵符的轉換以後，表示其關聯的表就由伺服器來維護，並將表集中存放在所有客戶端都存取得到的地方。客戶端只需請求映射，並使用它對鍵碼和其修飾鍵域解碼成鍵符。客戶端也可以任意改變此一映射。
 
-當按下修飾鍵時，就會改變另一個按鍵的解碼。常見的修飾鍵有[Shift鍵](../Page/Shift鍵.md "wikilink")：平常會產生小寫字母「a」的
+當按下修飾鍵時，就會改變另一個按鍵的解碼。常見的修飾鍵有[Shift鍵](https://zh.wikipedia.org/wiki/Shift鍵 "wikilink")：平常會產生小寫字母「a」的
 a 鍵和 Shift 鍵一起按下時，就會產生一個大寫字母「A」。其他常見的修飾鍵還有「Control」、「Alt」和「Meta」。
 
 X
@@ -259,7 +259,7 @@ X 伺服器為八個修飾鍵維護一份可以認出修飾鍵的鍵碼清單。
 `0x37`，然後有某個按鍵會產生鍵碼 `0x37`，X 伺服器就認為那個按鍵是 Shift 鍵。
 
 修飾鍵映射的清單由 X 伺服器維護，也可以讓所有的客戶端修改。例如，客戶端可以請求將「[F1
-鍵](../Page/功能鍵.md "wikilink")」加到「Shift」修飾鍵的清單中。從此，這顆按鍵的效果就如同
+鍵](https://zh.wikipedia.org/wiki/功能鍵 "wikilink")」加到「Shift」修飾鍵的清單中。從此，這顆按鍵的效果就如同
 Shift 鍵一樣，不過 F1 仍會產生本身的鍵碼。結果，F1 仍做它以前所做的（例如，按下 F1 時，會開啟說明視窗），不過又和 Shift
 一樣（在文字編輯器裡，按下「a」和 F1，就會打出「A」）。
 
@@ -289,7 +289,7 @@ X
 
 ## 其他
 
-還有其他的請求和事件，有一種請求是有關視窗之間的親屬關係：客戶端可請求改變視窗的父視窗，或請求關於父視窗的資訊。其他的請求則是關於[選取](../Page/X_Window選取.md "wikilink")，這部分大多由其他的協議來管理。還有的請求是關於[輸入焦點和](../Page/焦點_\(電腦\).md "wikilink")[游標的形狀](../Page/游標_\(電腦\).md "wikilink")。客戶端也可請求將資源（視窗、圖形映射等等）的所有者殺死，這會使伺服器終止和那個所有者的連線。最後，客戶端還可傳送[空運算請求給伺服器](../Page/NOP.md "wikilink")。
+還有其他的請求和事件，有一種請求是有關視窗之間的親屬關係：客戶端可請求改變視窗的父視窗，或請求關於父視窗的資訊。其他的請求則是關於[選取](https://zh.wikipedia.org/wiki/X_Window選取 "wikilink")，這部分大多由其他的協議來管理。還有的請求是關於[輸入焦點和](https://zh.wikipedia.org/wiki/焦點_\(電腦\) "wikilink")[游標的形狀](https://zh.wikipedia.org/wiki/游標_\(電腦\) "wikilink")。客戶端也可請求將資源（視窗、圖形映射等等）的所有者殺死，這會使伺服器終止和那個所有者的連線。最後，客戶端還可傳送[空運算請求給伺服器](../Page/NOP.md "wikilink")。
 
 ## 擴充
 
@@ -303,11 +303,11 @@ X Window 核心協議被設計成可擴充。核心協議指定一個機制用�
 
 ## 授權
 
-在客戶端和伺服器剛開始建立連線的時候，伺服器的回應可以是接受、拒絕或要求[驗證](../Page/驗證.md "wikilink")。驗證請求包含要使用的驗證方法的名稱。核心協議並不規範驗證程序，這部分要看所使用的驗證類型，並在伺服器傳送接受或拒絕封包之後結束。
+在客戶端和伺服器剛開始建立連線的時候，伺服器的回應可以是接受、拒絕或要求[驗證](https://zh.wikipedia.org/wiki/驗證 "wikilink")。驗證請求包含要使用的驗證方法的名稱。核心協議並不規範驗證程序，這部分要看所使用的驗證類型，並在伺服器傳送接受或拒絕封包之後結束。
 
-在客戶端和伺服器之間正常互動的時候，只有在涉及**基於主機的存取方式**的驗證才要請求。更精確地說，客戶端可要求啟用這個方式，並請求讀入和改變主機（[客戶端](../Page/客户端.md "wikilink")）（經授權的連線）的清單。一般的應用程式不使用這類請求；`xhost`
+在客戶端和伺服器之間正常互動的時候，只有在涉及**基於主機的存取方式**的驗證才要請求。更精確地說，客戶端可要求啟用這個方式，並請求讀入和改變主機（[客戶端](https://zh.wikipedia.org/wiki/客户端 "wikilink")）（經授權的連線）的清單。一般的應用程式不使用這類請求；`xhost`
 程式使用這類請求，給使用者或[Shell
-script存取主機存取清單](../Page/Shell_script.md "wikilink")。基於主機的存取方式被認為是不安全的。
+script存取主機存取清單](https://zh.wikipedia.org/wiki/Shell_script "wikilink")。基於主機的存取方式被認為是不安全的。
 
 ## Xlib 和其他的客戶端程式庫
 
@@ -319,17 +319,16 @@ script存取主機存取清單](../Page/Shell_script.md "wikilink")。基於主�
         Window客戶端可傳送請求給伺服器，並在等待回覆的期間，先做其他的事。不過使用
         Xlib 的客戶端只能呼叫 Xlib 函式來傳送請求，並等待回覆。藉此阻斷客戶端額外的動作（除非客戶端在呼叫 Xlib
         函式之前，就執行另一個新執行緒）。
-    2.  當伺服器傳送的事件[不同步時](../Page/不同步.md "wikilink")，Xlib
-        會把客戶端接收到的事件存放在[佇列裡](../Page/队列.md "wikilink")，客戶端程式只能以明確呼叫
-        X11
-        程式庫函式的方式來存取。換句話說，如果在等待事件時，會讓客戶端強制阻斷或[忙碌等待](../Page/忙碌等待.md "wikilink")。
+    2.  當伺服器傳送的事件[不同步時](https://zh.wikipedia.org/wiki/不同步 "wikilink")，Xlib
+        會把客戶端接收到的事件存放在[佇列裡](../Page/队列.md "wikilink")，客戶端程式只能以明確呼叫 X11
+        程式庫函式的方式來存取。換句話說，如果在等待事件時，會讓客戶端強制阻斷或[忙碌等待](https://zh.wikipedia.org/wiki/忙碌等待 "wikilink")。
 2.  Xlib 不會立即傳送請求給伺服器，而是先存放在佇列中，這部分稱為**輸出緩衝**；輸出緩衝裡的請求會在以下情況真正傳送出去：
     1.  程式以程式庫所提供的函式，如 `XFlush`，明確要求。
     2.  程式所呼叫的函式，涉及伺服器的回應，如 `XGetWindowAttributes`。
     3.  程式要求在事件佇列中的一個事件（例如，呼叫 `XNextEvent`）和呼叫區塊（例如，`XNextEvent`
         區塊，如果佇列是空的）。
 
-高階程式庫，如[Xt](../Page/Xt.md "wikilink")（[Xaw和](../Page/Xaw.md "wikilink")[Motif所使用的](../Page/Motif.md "wikilink")），讓客戶端程式指定與事件關聯的[返回函式](../Page/返回函式.md "wikilink")。程式庫維護輪詢事件佇列，並在必要時呼叫適當的函式；某些事件是在
+高階程式庫，如[Xt](https://zh.wikipedia.org/wiki/Xt "wikilink")（[Xaw和](https://zh.wikipedia.org/wiki/Xaw "wikilink")[Motif所使用的](../Page/Motif.md "wikilink")），讓客戶端程式指定與事件關聯的[返回函式](https://zh.wikipedia.org/wiki/返回函式 "wikilink")。程式庫維護輪詢事件佇列，並在必要時呼叫適當的函式；某些事件是在
 Xt 內部處理，如需要重繪的視窗。
 
 低階程式庫，如[XCB](../Page/XCB.md "wikilink")，提供協議不同步存取，容許較佳的延遲隱藏。
@@ -337,19 +336,19 @@ Xt 內部處理，如需要重繪的視窗。
 ## X Window 核心協議不規定什麼
 
 X Window
-核心協議並不硬性規定客戶端之間的通訊方法，也不指明如何用視窗作成視覺化元件（[圖形化使用者介面如](../Page/图形用户界面.md "wikilink")[按鈕](../Page/按鈕.md "wikilink")、[選單等](../Page/选单.md "wikilink")），GUI
-元件則交由客戶端程式庫實作相關的[組件工具包](../Page/部件工具箱.md "wikilink")。客戶端之間的通訊方法則交由其他的標準，如[ICCCM和](../Page/ICCCM.md "wikilink")[freedesktop規格](../Page/freedesktop.org.md "wikilink")
+核心協議並不硬性規定客戶端之間的通訊方法，也不指明如何用視窗作成視覺化元件（[圖形化使用者介面如](../Page/图形用户界面.md "wikilink")[按鈕](https://zh.wikipedia.org/wiki/按鈕 "wikilink")、[選單等](https://zh.wikipedia.org/wiki/选单 "wikilink")），GUI
+元件則交由客戶端程式庫實作相關的[組件工具包](../Page/部件工具箱.md "wikilink")。客戶端之間的通訊方法則交由其他的標準，如[ICCCM和](https://zh.wikipedia.org/wiki/ICCCM "wikilink")[freedesktop規格](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")
 \[11\]。
 
-客戶端之間的通訊和[選取、剪下緩衝區、拖曳有關](../Page/X_Window選取.md "wikilink")，這些方法是用來讓使用者從某個視窗轉移資料到另一個視窗。視窗有可能由不同的程式來控制，所以一個用來交換資料的協議是必要的。客戶端之間的通訊和[X視窗管理器同樣也有關係](../Page/X窗口管理器.md "wikilink")，它是用來管理視窗的外觀並統一使用者界面。另一個和客戶端之間的通訊有某種程度上的關係的還有[期間管理](../Page/x会话管理器.md "wikilink")。
+客戶端之間的通訊和[選取、剪下緩衝區、拖曳有關](https://zh.wikipedia.org/wiki/X_Window選取 "wikilink")，這些方法是用來讓使用者從某個視窗轉移資料到另一個視窗。視窗有可能由不同的程式來控制，所以一個用來交換資料的協議是必要的。客戶端之間的通訊和[X視窗管理器同樣也有關係](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")，它是用來管理視窗的外觀並統一使用者界面。另一個和客戶端之間的通訊有某種程度上的關係的還有[期間管理](https://zh.wikipedia.org/wiki/x会话管理器 "wikilink")。
 
-使用者的期間要如何開始，也是核心協議未能涵蓋到的問題，這部分通常由[X顯示管理器自動完成](../Page/X显示管理器.md "wikilink")。使用者也可以執行[xinit或](../Page/xinit.md "wikilink")[startx程式](../Page/startx.md "wikilink")，以手動的方式開始一個X会话。
+使用者的期間要如何開始，也是核心協議未能涵蓋到的問題，這部分通常由[X顯示管理器自動完成](../Page/X显示管理器.md "wikilink")。使用者也可以執行[xinit或](https://zh.wikipedia.org/wiki/xinit "wikilink")[startx程式](https://zh.wikipedia.org/wiki/startx "wikilink")，以手動的方式開始一個X会话。
 
 ## 參閱
 
   - [X Window系統的協議和架構](../Page/X_Window系統的協議和架構.md "wikilink")
   - [Xlib](../Page/Xlib.md "wikilink")
-  - [Intrinsics](../Page/Xt.md "wikilink")
+  - [Intrinsics](https://zh.wikipedia.org/wiki/Xt "wikilink")
 
 ## 參考文獻
 
@@ -383,7 +382,7 @@ X Window
     ghostscript](http://www.gnu.org/software/gv/manual/html_node/Interface-with-ghostscript.html)
 
 9.  David
-    Rosenthal。[客戶端之間的通訊協定手冊](../Page/客戶端之間的通訊協定手冊.md "wikilink")。MIT
+    Rosenthal。[客戶端之間的通訊協定手冊](https://zh.wikipedia.org/wiki/客戶端之間的通訊協定手冊 "wikilink")。MIT
     X 協會標準，1989
 
 10. [Freedesktop

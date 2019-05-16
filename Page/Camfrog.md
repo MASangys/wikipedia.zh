@@ -1,10 +1,10 @@
 **Camfrog**是一款由Camshare
-LLC开发的即时[聊天工具](../Page/聊天工具.md "wikilink")，允许来自世界各地的用户播放自己的[音频和](../Page/音频.md "wikilink")[视频。这个软件允许](../Page/视频。.md "wikilink")
+LLC开发的即时[聊天工具](https://zh.wikipedia.org/wiki/聊天工具 "wikilink")，允许来自世界各地的用户播放自己的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频。这个软件允许](https://zh.wikipedia.org/wiki/视频。 "wikilink")
 超过1000人的用户在一个即时的视频会议环境下聊天。
 
 Camfrog允许用户使用"Camfrog Server"软件搭建自己的视频聊天室。
 
-有许多聊天室是无声的聊天室，大多数活耀的聊天室是[手语聊天室](../Page/手语.md "wikilink")。也有聋人也在一般分类里面搭建自己的聊天室。聋人通过手语通过视频在Camfrog上面聊天。
+有许多聊天室是无声的聊天室，大多数活耀的聊天室是[手语聊天室](https://zh.wikipedia.org/wiki/手语 "wikilink")。也有聋人也在一般分类里面搭建自己的聊天室。聋人通过手语通过视频在Camfrog上面聊天。
 
 软件的特点就是比较具有国际性，可以找到很多不同的国家和语言的聊天室，和不同国家和语言的网友聊天。这对于喜欢学习外语的用户来说是非常好的一个软件。聊天的形式比较像的一些聊天室，既可以语音和视频的同时也可以一般打字。在Skype里面的聊天室只能进行语音聊天，不能多人视频也不能打字，相比之下，Camfrog和用户的聊天室聊天习惯更相似。
 
@@ -17,8 +17,8 @@ Filter设置为on，过滤掉这些有可能有不健康内容的聊天室。
 ## 运行平台
 
 CamFrog视频聊天客户端支持[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink") (XP, Vista, 2k and
-2k3) 和 Apple Mac OS X.
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+(XP, Vista, 2k and 2k3) 和 Apple Mac OS X.
 
 ## 外部連結
 

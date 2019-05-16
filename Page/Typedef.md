@@ -1,4 +1,4 @@
-在[C和](../Page/C語言.md "wikilink")[C++](../Page/C++.md "wikilink")[程式語言中](../Page/程式語言.md "wikilink")，**`typedef`**是一個關鍵字。它用來對一個[資料類型取一個別名](../Page/資料類型.md "wikilink")，目的是為了使[原始碼更易於閱讀和理解](../Page/原始碼.md "wikilink")。它通常用於簡化宣告複雜的類型組成的結構
+在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**`typedef`**是一個關鍵字。它用來對一個[資料類型取一個別名](../Page/資料類型.md "wikilink")，目的是為了使[原始碼更易於閱讀和理解](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。它通常用於簡化宣告複雜的類型組成的結構
 ，但它也常常在各種長度的整數資料型別中看到，例如`size_t`和`time_t`。
 
 ## 語法
@@ -195,7 +195,7 @@ intptr cliff2, *allen2;     // cliff2 is int* type, but allen2 is int** type
 
 ### 與結構指標一起使用
 
-`Typedef`可以跟[結構體](../Page/結構體_\(C語言\).md "wikilink")[指標一起使用](../Page/指標_\(電腦科學\).md "wikilink")。如下
+`Typedef`可以跟[結構體](https://zh.wikipedia.org/wiki/結構體_\(C語言\) "wikilink")[指標一起使用](../Page/指標_\(電腦科學\).md "wikilink")。如下
 :
 
 ``` c++
@@ -215,7 +215,7 @@ struct Node {
 };
 ```
 
-在[C語言中](../Page/C語言.md "wikilink")，可以在一行中宣告複數的變數，不管其是不是指標。不管如何，如果你要宣告指標，必須在每個變數前面加上星號。
+在[C語言中](https://zh.wikipedia.org/wiki/C語言 "wikilink")，可以在一行中宣告複數的變數，不管其是不是指標。不管如何，如果你要宣告指標，必須在每個變數前面加上星號。
 
 在下面的程式碼中，工程師可能會以為`errptr`是一個指標，這個能會引起一些錯誤。
 
@@ -283,7 +283,7 @@ sighandler_t signal(int sig, sighandler_t func);
 
 ### 用來型別轉換
 
-`typedef`同時可以用來[類型轉換](../Page/類型轉換.md "wikilink")。例如：
+`typedef`同時可以用來[類型轉換](https://zh.wikipedia.org/wiki/類型轉換 "wikilink")。例如：
 
 ``` c++
 typedef int (*funcptr)(double);         // pointer to function taking a double returning int
@@ -311,7 +311,7 @@ int (*z)(double)  = (int (*p)(double));  // Right-hand side is not legal
 ## 參照
 
   - [抽象資料型別](../Page/抽象資料型別.md "wikilink")
-  - [C syntax](../Page/C_syntax.md "wikilink")
+  - [C syntax](https://zh.wikipedia.org/wiki/C_syntax "wikilink")
 
 [Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")

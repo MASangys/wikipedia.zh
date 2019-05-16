@@ -1,6 +1,6 @@
 **MOZ 召喚王**，簡稱**MOZ**，[日本原來稱為](../Page/日本.md "wikilink")**大貝獸物語
-**，是天田印刷加工廠發售的集換式卡牌[遊戲](../Page/遊戲.md "wikilink")。這套卡根據由[南夢宮萬代發展公司](../Page/南夢宮萬代發展公司.md "wikilink")
-所發售的RPG[電子遊戲](../Page/電子遊戲.md "wikilink")《大貝獸物語系列》設計出來的卡牌遊戲。此卡牌在日本於1997年開始發售，隨後便在[香港](../Page/香港.md "wikilink")（2000年1月1日）和[澳門發售](../Page/澳門.md "wikilink")[中文版](../Page/漢語.md "wikilink")。中文版譯作**召喚王**，是因為這遊戲的模式是一些召喚師召喚出不同的召喚獸來比試。
+**，是天田印刷加工廠發售的集換式卡牌[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這套卡根據由[南夢宮萬代發展公司](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink")
+所發售的RPG[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《大貝獸物語系列》設計出來的卡牌遊戲。此卡牌在日本於1997年開始發售，隨後便在[香港](../Page/香港.md "wikilink")（2000年1月1日）和[澳門發售](../Page/澳門.md "wikilink")[中文版](https://zh.wikipedia.org/wiki/漢語 "wikilink")。中文版譯作**召喚王**，是因為這遊戲的模式是一些召喚師召喚出不同的召喚獸來比試。
 
 ## 基本玩法
 
@@ -12,7 +12,7 @@
 
 ### 召喚師卡
 
-各召喚師有自己所屬的隊伍、等級、屬性、[年齡](../Page/年齡.md "wikilink")、[性別](../Page/性別.md "wikilink")、[速度](../Page/速度.md "wikilink")、修正值和[天](../Page/天.md "wikilink")、[左](../Page/左.md "wikilink")、[右三方的召喚屬性](../Page/右.md "wikilink")。
+各召喚師有自己所屬的隊伍、等級、屬性、[年齡](https://zh.wikipedia.org/wiki/年齡 "wikilink")、[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")、[速度](../Page/速度.md "wikilink")、修正值和[天](https://zh.wikipedia.org/wiki/天 "wikilink")、[左](https://zh.wikipedia.org/wiki/左 "wikilink")、[右三方的召喚屬性](https://zh.wikipedia.org/wiki/右 "wikilink")。
 
   - 召喚屬性：
       - 格里夫篇、莫哥拿篇：火、水、大地、大氣、森、闇、光、機械、黃金、貝、無屬性
@@ -22,7 +22,7 @@
 
 ### 召喚獸卡
 
-召喚獸是一些怪獸，有不同的屬性、[力量和](../Page/力量.md "wikilink")[種族](../Page/種族.md "wikilink")。某些召喚獸是某軍團專用的。
+召喚獸是一些怪獸，有不同的屬性、[力量和](https://zh.wikipedia.org/wiki/力量 "wikilink")[種族](https://zh.wikipedia.org/wiki/種族 "wikilink")。某些召喚獸是某軍團專用的。
 
   - W屬性：
       - 只在米多羅篇出現。一隻召喚獸同時擁有兩個屬性。
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - 「[占星術卡](../Page/占星術.md "wikilink")」：
+  - 「[占星術卡](https://zh.wikipedia.org/wiki/占星術 "wikilink")」：
       - 只在尼奧斯篇出現。占星術卡是根據占星術師的特殊能力而實行效力。而其效力只在一個召喚師對戰中有效。它並不計算在積分點中，占星術卡是與那50張卡組分開放置的。
 
 ## 完成組合
@@ -96,7 +96,7 @@
 ### 3倍化的組合
 
   - 動物組合：
-      - 全部召喚獸的種族都同時是「獸」、「[魚](../Page/魚.md "wikilink")」、「[鳥](../Page/鳥.md "wikilink")」或「[蟲](../Page/昆蟲.md "wikilink")」的其中一組就完成。
+      - 全部召喚獸的種族都同時是「獸」、「[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")」、「[鳥](https://zh.wikipedia.org/wiki/鳥 "wikilink")」或「[蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")」的其中一組就完成。
 
 ### 4倍化的組合
 
@@ -116,7 +116,7 @@
 <!-- end list -->
 
   - 龍組合：
-      - 全部召喚獸的種族都是「[龍](../Page/龍.md "wikilink")」就完成。
+      - 全部召喚獸的種族都是「[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")」就完成。
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@
 <!-- end list -->
 
   - 100龍組合：
-      - 全部召喚獸的種族都是「[龍](../Page/龍.md "wikilink")」，而力量值都是100的話就完成。
+      - 全部召喚獸的種族都是「[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")」，而力量值都是100的話就完成。
 
 ### 6倍化的組合
 
@@ -142,7 +142,7 @@
 <!-- end list -->
 
   - 貝龍組合：
-      - 全部召喚獸的屬性都是「貝」，而種族都是「[龍](../Page/龍.md "wikilink")」的話就完成。
+      - 全部召喚獸的屬性都是「貝」，而種族都是「[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")」的話就完成。
 
 <!-- end list -->
 
@@ -186,7 +186,7 @@
       - 米多羅篇：
           - 強制軍團：電導師、貝獸軍團、雷克斯軍團、武器黨、影忍軍、劍人黨、時空罪犯、魔導眾、闇外道、鬼道眾、外星客、字獄組
           - 非強制軍團：馭龍者、獸操縱師、魚操縱師、鳥操縱師、蟲操縱師、黑魔術師、白魔術師、T·P、面具族、變身客、力量團
-          - 米多羅篇有一種獨特的軍團制度，就是只要50張召喚卡都是米多羅篇的卡時，可以在上述的軍團中選一個，5個召喚師中有至少一個屬於米多羅篇的，來自同一軍團但是在其他篇章的召喚師可以加入此卡組。這類軍團包括：影忍軍、劍人黨、魔導眾、闇外道、鬼道眾、外星客、馭龍者、獸操縱師、魚操縱師、鳥操縱師和蟲操縱師。在說明書上寫著的規則所示，[黑](../Page/黑色.md "wikilink")、[白](../Page/白色.md "wikilink")[魔術師並不可以使用此制度](../Page/魔術師.md "wikilink")。
+          - 米多羅篇有一種獨特的軍團制度，就是只要50張召喚卡都是米多羅篇的卡時，可以在上述的軍團中選一個，5個召喚師中有至少一個屬於米多羅篇的，來自同一軍團但是在其他篇章的召喚師可以加入此卡組。這類軍團包括：影忍軍、劍人黨、魔導眾、闇外道、鬼道眾、外星客、馭龍者、獸操縱師、魚操縱師、鳥操縱師和蟲操縱師。在說明書上寫著的規則所示，[黑](../Page/黑色.md "wikilink")、[白](../Page/白色.md "wikilink")[魔術師並不可以使用此制度](https://zh.wikipedia.org/wiki/魔術師 "wikilink")。
       - 尼奧斯篇：
           - 強制軍團：龍之守護者、魔神帝團、占星術師
           - 非強制軍團：風水師、藥師、龍騎士、料理團、妖術師
@@ -215,15 +215,15 @@
 ## 漫畫
 
   - 《MOZ召喚王雷克斯》：
-      - 原作：[原裕朗](../Page/原裕朗.md "wikilink")，漫畫：[公彌杏捺](../Page/公彌杏捺.md "wikilink")，以雷克斯作主角，出現的人物主要是「-{格里夫}-」篇和「莫哥拿」篇。
+      - 原作：[原裕朗](https://zh.wikipedia.org/wiki/原裕朗 "wikilink")，漫畫：[公彌杏捺](https://zh.wikipedia.org/wiki/公彌杏捺 "wikilink")，以雷克斯作主角，出現的人物主要是「-{格里夫}-」篇和「莫哥拿」篇。
   - 《MOZ召喚王最強咭鬥篇》：
-      - 原作：原裕朗，漫畫：[方米高](../Page/方米高.md "wikilink")，主角是現實[世界中的中一學生吳柏龍](../Page/世界.md "wikilink")，玩「-{格里夫}-」篇的遊戲卡。
+      - 原作：原裕朗，漫畫：[方米高](https://zh.wikipedia.org/wiki/方米高 "wikilink")，主角是現實[世界中的中一學生吳柏龍](../Page/世界.md "wikilink")，玩「-{格里夫}-」篇的遊戲卡。
   - 《MOZ召喚王Cyber咭戰篇》：
-      - 原作：原裕朗，漫畫：[廖光祖](../Page/廖光祖.md "wikilink")，主角叫做韓嘉諾，在現實世界中玩「莫哥拿」篇的遊戲卡。
+      - 原作：原裕朗，漫畫：[廖光祖](https://zh.wikipedia.org/wiki/廖光祖 "wikilink")，主角叫做韓嘉諾，在現實世界中玩「莫哥拿」篇的遊戲卡。
   - 《MOZ召喚王雷克斯 II》：
       - 原作：原裕朗，漫畫：公彌杏捺，以雷克斯作主角，出現的人物主要是「莫哥拿」篇和「[宇宙](../Page/宇宙.md "wikilink")」篇。
   - 《MOZ召喚王赤龍丸傳說》：
-      - 原作：原裕朗，漫畫：[譚永樂](../Page/譚永樂.md "wikilink")，共四卷，以赤龍丸作主角，出現的人物主要是「宇宙」篇。
+      - 原作：原裕朗，漫畫：[譚永樂](https://zh.wikipedia.org/wiki/譚永樂 "wikilink")，共四卷，以赤龍丸作主角，出現的人物主要是「宇宙」篇。
   - 《MOZ召喚王雷王傳》：
       - 原作：原裕朗，漫畫：譚永樂，共三卷，以雷王作主角，出現的人物主要是「米多羅」篇。
 

@@ -1,12 +1,12 @@
-[C语言](../Page/C语言.md "wikilink")**运算符**都被[C++语言支持](../Page/C++语言.md "wikilink")。C语言不支持[运算符重载](../Page/运算符重载.md "wikilink")。
+[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")**运算符**都被[C++语言支持](https://zh.wikipedia.org/wiki/C++语言 "wikilink")。C语言不支持[运算符重载](../Page/运算符重载.md "wikilink")。
 
-在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](../Page/顺序点.md "wikilink")。
+在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](https://zh.wikipedia.org/wiki/顺序点 "wikilink")。
 
 大部分C与C++运算符也可用于其它程序设计语言如[C\#](../Page/C♯.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP等](../Page/PHP.md "wikilink")，具有相同的优先级、结合性与语义。
 
 ## 運算子優先級
 
-以下是C++程式語言中的所有運算子的[優先級和](../Page/運算次序.md "wikilink")[結合性列表](../Page/結合性.md "wikilink")。
+以下是C++程式語言中的所有運算子的[優先級和](https://zh.wikipedia.org/wiki/運算次序 "wikilink")[結合性列表](https://zh.wikipedia.org/wiki/結合性 "wikilink")。
 
 <table>
 <thead>
@@ -811,7 +811,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>基本<a href="../Page/C++設定運算子.md" title="wikilink">賦值</a></p></td>
+<td><p>基本<a href="https://zh.wikipedia.org/wiki/C++設定運算子" title="wikilink">賦值</a></p></td>
 <td><p><code>a </code><strong><code>=</code></strong><code> b</code></p></td>
 <td></td>
 <td></td>
@@ -866,7 +866,7 @@
 </tr>
 <tr class="even">
 <td><p>轉換</p></td>
-<td><p><code>(</code><em><a href="../Page/資料型別.md" title="wikilink"><code>type</code></a></em><code>) a</code></p></td>
+<td><p><code>(</code><em><a href="https://zh.wikipedia.org/wiki/資料型別" title="wikilink"><code>type</code></a></em><code>) a</code></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -896,13 +896,13 @@
 </tr>
 <tr class="odd">
 <td><p>類型識別</p></td>
-<td><p><strong><code>typeid</code></strong><code> </code><em><a href="../Page/資料型別.md" title="wikilink"><code>type</code></a></em></p></td>
+<td><p><strong><code>typeid</code></strong><code> </code><em><a href="https://zh.wikipedia.org/wiki/資料型別" title="wikilink"><code>type</code></a></em></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>分配儲存區</p></td>
-<td><p><strong><code>new</code></strong><code> </code><em><a href="../Page/資料型別.md" title="wikilink"><code>type</code></a></em></p></td>
+<td><p><strong><code>new</code></strong><code> </code><em><a href="https://zh.wikipedia.org/wiki/資料型別" title="wikilink"><code>type</code></a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -929,7 +929,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Label_Value_Operator.md" title="wikilink">標籤值</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Label_Value_Operator" title="wikilink">標籤值</a></p></td>
 <td><p><strong><code>&amp;&amp;</code></strong><code> label</code></p></td>
 <td></td>
 <td></td>
@@ -1011,7 +1011,7 @@ int main() {
 
 ## 參閱
 
-  - [C](../Page/C语言.md "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
 
 ## 外部連結

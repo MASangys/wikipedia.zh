@@ -1,4 +1,4 @@
-**PNC球場**，座落在美國賓州[匹茲堡的球场](../Page/匹茲堡.md "wikilink")，為美國[棒球](../Page/棒球.md "wikilink")[大聯盟](../Page/大聯盟.md "wikilink")[匹茲堡海盜隊的主場](../Page/匹茲堡海盜.md "wikilink")，於西元2001年啟用，並由當地的PNC財團取得命名權。
+**PNC球場**，座落在美國賓州[匹茲堡的球场](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")，為美國[棒球](../Page/棒球.md "wikilink")[大聯盟](https://zh.wikipedia.org/wiki/大聯盟 "wikilink")[匹茲堡海盜隊的主場](../Page/匹茲堡海盜.md "wikilink")，於西元2001年啟用，並由當地的PNC財團取得命名權。
 
 ## 特色
 
@@ -6,7 +6,7 @@
 
 <!-- end list -->
 
-  - 球場外牆以[大理石砌成](../Page/大理石.md "wikilink")，與近代球場常用的紅磚有所不同，大理石反應了匹茲堡的代表顏色—「金色」，與素有[鋼鐵城市盛名的匹茲堡互相輝映](../Page/鋼鐵.md "wikilink")。
+  - 球場外牆以[大理石砌成](../Page/大理石.md "wikilink")，與近代球場常用的紅磚有所不同，大理石反應了匹茲堡的代表顏色—「金色」，與素有[鋼鐵城市盛名的匹茲堡互相輝映](https://zh.wikipedia.org/wiki/鋼鐵 "wikilink")。
 
 <!-- end list -->
 
@@ -27,9 +27,9 @@
 
 <!-- end list -->
 
-  - Allegheny河離本壘板440英呎，在正常球季中，只有[休士頓太空人隊的Daryle](../Page/休士頓.md "wikilink")
+  - Allegheny河離本壘板440英呎，在正常球季中，只有[休士頓太空人隊的Daryle](https://zh.wikipedia.org/wiki/休士頓 "wikilink")
     Ward在2002年和匹茲堡海盜隊的Garrett
-    Jones在2013年將球直接擊入河裡。2006年明星賽的[全壘打大賽中](../Page/全壘打大賽.md "wikilink")，Lance
+    Jones在2013年將球直接擊入河裡。2006年明星賽的[全壘打大賽中](https://zh.wikipedia.org/wiki/全壘打大賽 "wikilink")，Lance
     Berkman、Ryan Howard、David Ortiz也同樣曾經把球直接擊入河裡。
 
 <!-- end list -->

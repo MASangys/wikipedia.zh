@@ -1,0 +1,33 @@
+  - 一般的封禁理由
+      - [破壞](https://zh.wikipedia.org/wiki/WP:VAN "wikilink")
+      - [繁簡破壞](https://zh.wikipedia.org/wiki/WP:VAN#LANG "wikilink")
+      - 跨維基項目破壞
+      - [纯破坏用户](https://zh.wikipedia.org/wiki/WP:VOA "wikilink")
+      - [散發廣告或宣傳](https://zh.wikipedia.org/wiki/WP:SOAP "wikilink")
+      - 仅[散发广告/宣传的用户](https://zh.wikipedia.org/wiki/WP:SOAP "wikilink")
+      - 違反[編輯戰方針](https://zh.wikipedia.org/wiki/WP:EW "wikilink")
+      - [無禮的行為](https://zh.wikipedia.org/wiki/WP:CIV "wikilink")、[攻擊別人](https://zh.wikipedia.org/wiki/WP:NPA "wikilink")
+      - [骚扰用戶](https://zh.wikipedia.org/wiki/WP:騷擾 "wikilink")
+      - [擾亂](https://zh.wikipedia.org/wiki/WP:擾亂 "wikilink")
+      - [游戏维基规则](https://zh.wikipedia.org/wiki/WP:GAME "wikilink")
+      - 確認為[傀儡或](https://zh.wikipedia.org/wiki/WP:SOCK "wikilink")[真人傀儡](https://zh.wikipedia.org/wiki/WP:MEAT "wikilink")
+      - 滥用[傀儡](https://zh.wikipedia.org/wiki/WP:SOCK "wikilink")
+      - 屢次增加不實資料
+      - 增加無意義文字
+      - 無故刪除內容
+      - 多次加入[侵犯版权的内容](https://zh.wikipedia.org/wiki/WP:COPYVIO "wikilink")
+      - 機器人發生故障並必須緊急停止
+      - 剥夺编辑对话页权限
+  - 用戶名封禁
+      -
+      -
+      -
+      -
+  - 其他模板
+      -
+      -
+      -
+      -
+      -
+      -
+      -

@@ -1,14 +1,14 @@
 [ClearTypeLine.PNG](https://zh.wikipedia.org/wiki/File:ClearTypeLine.PNG "fig:ClearTypeLine.PNG")線；3和4分別為1和2的四倍放大圖；5是1實際顯示在液晶顯示器上的放大示意圖。如圖所示，ClearType充分利用LCD色條排列特性，顯示出更為完美的斜線。\]\]
 
-**ClearType**，由[美國](../Page/美國.md "wikilink")[微軟公司在其](../Page/微軟公司.md "wikilink")[视窗](../Page/视窗.md "wikilink")[操作系统中提供的螢幕](../Page/操作系统.md "wikilink")[亚像素微调](../Page/亚像素微调.md "wikilink")[字體平滑工具](../Page/字體平滑.md "wikilink")，讓Windows字體更加漂亮。ClearType主要是針對LCD[液晶顯示器設計](../Page/液晶顯示器.md "wikilink")，可提高文字的清晰度。基本原理是，将显示器的R,
+**ClearType**，由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[微軟公司在其](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[视窗](https://zh.wikipedia.org/wiki/视窗 "wikilink")[操作系统中提供的螢幕](../Page/操作系统.md "wikilink")[亚像素微调](https://zh.wikipedia.org/wiki/亚像素微调 "wikilink")[字體平滑工具](https://zh.wikipedia.org/wiki/字體平滑 "wikilink")，讓Windows字體更加漂亮。ClearType主要是針對LCD[液晶顯示器設計](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")，可提高文字的清晰度。基本原理是，将显示器的R,
 G, B各个次像素也发光，让其色调进行微妙调整，可以达到实际分辨率以上（横方向分辨率的三倍）的纤细文字的显示效果。
 
 Windows上的[像素和显示器上的像素对应的](../Page/像素.md "wikilink")[液晶显示器上效果最为明显](../Page/液晶.md "wikilink")，使用阶调控制一般CRT显示器上也可以得到一些效果。
 
 在[Windows XP平台上](../Page/Windows_XP.md "wikilink")，這項技術預設是關閉，到了[Windows
-Vista才預設為開啟](../Page/Windows_Vista.md "wikilink")。而与ClearType几乎同样的技术在[苹果电脑的](../Page/苹果电脑.md "wikilink")[Mac
-OS操作系统中](../Page/Mac_OS.md "wikilink")，早在1998年发布的[Mac OS
-8.5就已经使用了](../Page/Mac_OS_8.5.md "wikilink")。
+Vista才預設為開啟](../Page/Windows_Vista.md "wikilink")。而与ClearType几乎同样的技术在[苹果电脑的](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[Mac
+OS操作系统中](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，早在1998年发布的[Mac
+OS 8.5就已经使用了](https://zh.wikipedia.org/wiki/Mac_OS_8.5 "wikilink")。
 
 另外，依靠ClearType技术提高字体的可读性，相当程度上依赖于使用的字体，所以和原有的**标准抗锯齿**技术不能进行单纯比较。
 

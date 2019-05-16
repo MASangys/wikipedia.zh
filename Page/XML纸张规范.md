@@ -1,17 +1,17 @@
 **XPS**是**XML Paper
-Specification**的简称，它是[微软公司开发的一种文档保存与查看的规范](../Page/微软公司.md "wikilink")。以前的开发代号为“Metro”。这个规范本身描述了这种格式以及分发、归档、显示以及处理XPS文档所遵循的规则。最为显著的特点是，XPS所用的置标语言是[WPF所用的](../Page/Windows_Presentation_Foundation.md "wikilink")[XAML的一个子集](../Page/XAML.md "wikilink")，因此显示[Windows应用程序所用的方法可以用于XPS文档](../Page/Windows.md "wikilink")。
+Specification**的简称，它是[微软公司开发的一种文档保存与查看的规范](https://zh.wikipedia.org/wiki/微软公司 "wikilink")。以前的开发代号为“Metro”。这个规范本身描述了这种格式以及分发、归档、显示以及处理XPS文档所遵循的规则。最为显著的特点是，XPS所用的置标语言是[WPF所用的](../Page/Windows_Presentation_Foundation.md "wikilink")[XAML的一个子集](../Page/XAML.md "wikilink")，因此显示[Windows应用程序所用的方法可以用于XPS文档](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
-人们认为XPS是[Adobe公司的](../Page/Adobe.md "wikilink")[PDF的潜在竞争对手](../Page/PDF.md "wikilink")。但是，XPS是一个静态文档格式，其本身不包括类似于PDF所具有的动态特性。
+人们认为XPS是[Adobe公司的](../Page/Adobe.md "wikilink")[PDF的潜在竞争对手](https://zh.wikipedia.org/wiki/PDF "wikilink")。但是，XPS是一个静态文档格式，其本身不包括类似于PDF所具有的动态特性。
 
 微软公司指出高级认证的设备到2007年6月1日需要提供XPSDrv的解决方案。\[1\]
 
 XPS随着[Windows
-Vista发布](../Page/Windows_Vista.md "wikilink")，并且已经得到了办公用打印系统厂商[佳能](../Page/佳能.md "wikilink")、[爱普生](../Page/爱普生.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[理光](../Page/理光.md "wikilink")、[施乐以及Software](../Page/施乐.md "wikilink")
+Vista发布](../Page/Windows_Vista.md "wikilink")，并且已经得到了办公用打印系统厂商[佳能](../Page/佳能.md "wikilink")、[爱普生](https://zh.wikipedia.org/wiki/爱普生 "wikilink")、[惠普](../Page/惠普.md "wikilink")、[理光](../Page/理光.md "wikilink")、[施乐以及Software](../Page/施乐.md "wikilink")
 Imaging\[2\]、Informative Graphics\[3\]等软件厂商的支持。
 
 ## 技术
 
-XPS文件实际上是一个包含组成文档的各个文件的[ZIP文档](../Page/ZIP_\(算法\).md "wikilink")。这些文件包括每页的XML置标文件、嵌入的图像与[字体以及](../Page/字体.md "wikilink")[数字版权管理信息](../Page/数字版权管理.md "wikilink")。XPS文件的内容可以通过按照ZIP文件打开进行阅读：将[拓展名从](../Page/文件扩展名.md "wikilink").xps更换为.zip，然后用一个ZIP文件查看工具打开，便可以看到其中的内容。
+XPS文件实际上是一个包含组成文档的各个文件的[ZIP文档](https://zh.wikipedia.org/wiki/ZIP_\(算法\) "wikilink")。这些文件包括每页的XML置标文件、嵌入的图像与[字体以及](../Page/字体.md "wikilink")[数字版权管理信息](../Page/数字版权管理.md "wikilink")。XPS文件的内容可以通过按照ZIP文件打开进行阅读：将[拓展名从](../Page/文件扩展名.md "wikilink").xps更换为.zip，然后用一个ZIP文件查看工具打开，便可以看到其中的内容。
 
 ## 使用许可
 
@@ -20,8 +20,9 @@ XPS文件实际上是一个包含组成文档的各个文件的[ZIP文档](../Pa
 ## 参见
 
   - [Windows Vista](../Page/Windows_Vista.md "wikilink")
-  - [Windows Vista的新特性](../Page/Windows_Vista#新特性.md "wikilink")
-  - [PDF](../Page/PDF.md "wikilink")
+  - [Windows
+    Vista的新特性](https://zh.wikipedia.org/wiki/Windows_Vista#新特性 "wikilink")
+  - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")
   - [XSL-FO](../Page/XSL-FO.md "wikilink")
 
 ## 参考文献

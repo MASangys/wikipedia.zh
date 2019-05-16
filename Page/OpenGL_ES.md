@@ -1,5 +1,5 @@
 **OpenGL
-ES**（）是[三维图形](../Page/三维图形.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")[OpenGL的子集](../Page/OpenGL.md "wikilink")，针对手机、PDA和游戏主机等[嵌入式设备而设计](../Page/嵌入式设备.md "wikilink")。该API由[科纳斯组织定义推广](../Page/科纳斯组织.md "wikilink")，科纳斯是一个图形软硬件行业协会，该协会主要关注图形和多媒体方面的开放标准。
+ES**（）是[三维图形](https://zh.wikipedia.org/wiki/三维图形 "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")[OpenGL的子集](../Page/OpenGL.md "wikilink")，针对手机、PDA和游戏主机等[嵌入式设备而设计](https://zh.wikipedia.org/wiki/嵌入式设备 "wikilink")。该API由[科纳斯组织定义推广](../Page/科纳斯组织.md "wikilink")，科纳斯是一个图形软硬件行业协会，该协会主要关注图形和多媒体方面的开放标准。
 
 OpenGL
 ES是从OpenGL裁剪定制而来的，去除了glBegin/glEnd，四边形（GL_QUADS）、多边形（GL_POLYGONS）等复杂图元等许多非绝对必要的特性。经过多年发展，现在主要有两个版本，OpenGL

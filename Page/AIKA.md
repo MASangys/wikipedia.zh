@@ -1,5 +1,5 @@
 **《芙蘭戰記
-Online》**（[英文](../Page/英文.md "wikilink")：；[韓文](../Page/韓文.md "wikilink")：），是由[韓國](../Page/韓國.md "wikilink")[Joyimpact](../Page/Joyimpact.md "wikilink")\[1\]經由研究[韓國](../Page/韓國.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣及](../Page/台灣.md "wikilink")[中國大陸等](../Page/中國大陸.md "wikilink")[東亞地區玩家喜好的遊戲要素而開發的大型](../Page/東亞.md "wikilink")[三維免費](../Page/三維.md "wikilink")[大型多人線上角色扮演遊戲](../Page/大型多人線上角色扮演遊戲.md "wikilink")，具有華麗的戰鬥風格、龐大的任務系統。其主要特色是可容納1000vs1000人的國戰系統以及陪伴玩家左右的「守護精靈——芙蘭養成系統」。
+Online》**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：；[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：），是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Joyimpact](https://zh.wikipedia.org/wiki/Joyimpact "wikilink")\[1\]經由研究[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國大陸等](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[東亞地區玩家喜好的遊戲要素而開發的大型](https://zh.wikipedia.org/wiki/東亞 "wikilink")[三維免費](https://zh.wikipedia.org/wiki/三維 "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，具有華麗的戰鬥風格、龐大的任務系統。其主要特色是可容納1000vs1000人的國戰系統以及陪伴玩家左右的「守護精靈——芙蘭養成系統」。
 
 ## 故事背景
 
@@ -152,11 +152,11 @@ AIKA並運用了殘存在拉奇亞的生命力量，倉促的創造了第四創�
 
 ## 相關條目
 
-  - [Joyimpact](../Page/Joyimpact.md "wikilink")
+  - [Joyimpact](https://zh.wikipedia.org/wiki/Joyimpact "wikilink")
   - [HanbitSoft](../Page/HanbitSoft.md "wikilink")
   - [遊戲新幹線](../Page/遊戲新幹線.md "wikilink")
-  - [文德互動](../Page/文德互動.md "wikilink")
-  - [AsiaSoft](../Page/AsiaSoft.md "wikilink")
+  - [文德互動](https://zh.wikipedia.org/wiki/文德互動 "wikilink")
+  - [AsiaSoft](https://zh.wikipedia.org/wiki/AsiaSoft "wikilink")
 
 ## 外部連結
 

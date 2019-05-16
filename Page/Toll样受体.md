@@ -1,13 +1,13 @@
-[TLR3_structure.png](https://zh.wikipedia.org/wiki/File:TLR3_structure.png "fig:TLR3_structure.png")的弧形[富亮氨酸重复区域](../Page/富亮氨酸重复.md "wikilink")\]\]
-**類鐸受体**（，缩写**TLR**，或译为**-{zh-tw:Toll样受体;zh-hans:類鐸受體}-**）是[I型跨膜蛋白质](../Page/I型跨膜蛋白质.md "wikilink")，识别侵入体内的[微生物进而激活免疫细胞的应答](../Page/微生物.md "wikilink")。被认为在[先天性免疫系统中起关键作用](../Page/先天性免疫系统.md "wikilink")。類Toll受体是[模式识别受体](../Page/模式识别受体.md "wikilink")（pattern
+[TLR3_structure.png](https://zh.wikipedia.org/wiki/File:TLR3_structure.png "fig:TLR3_structure.png")的弧形[富亮氨酸重复区域](https://zh.wikipedia.org/wiki/富亮氨酸重复 "wikilink")\]\]
+**類鐸受体**（，缩写**TLR**，或译为**-{zh-tw:Toll样受体;zh-hans:類鐸受體}-**）是[I型跨膜蛋白质](https://zh.wikipedia.org/wiki/I型跨膜蛋白质 "wikilink")，识别侵入体内的[微生物进而激活免疫细胞的应答](../Page/微生物.md "wikilink")。被认为在[先天性免疫系统中起关键作用](https://zh.wikipedia.org/wiki/先天性免疫系统 "wikilink")。類Toll受体是[模式识别受体](../Page/模式识别受体.md "wikilink")（pattern
 recognition
-receptors，PRR）的一类，识别与宿主不同的[病原体分子](../Page/病原体.md "wikilink")。这些分子被统称为[病原相关分子模式](../Page/病原相关分子模式.md "wikilink")（pathogen-associated
+receptors，PRR）的一类，识别与宿主不同的[病原体分子](../Page/病原体.md "wikilink")。这些分子被统称为[病原相关分子模式](https://zh.wikipedia.org/wiki/病原相关分子模式 "wikilink")（pathogen-associated
 molecular
-patterns，PAMP）\[1\]\[2\]。但是，也有一些例外情况。在[脊椎动物](../Page/脊椎动物.md "wikilink")（包括[鱼类](../Page/鱼.md "wikilink")、[两栖类](../Page/两栖类.md "wikilink")、
-[哺乳类](../Page/哺乳类.md "wikilink")、[鸟类](../Page/鸟类.md "wikilink")、[爬虫类](../Page/爬虫类.md "wikilink")）以及[无脊椎动物](../Page/无脊椎动物.md "wikilink")（如[昆虫](../Page/昆虫.md "wikilink")[果蝇已被广泛研究](../Page/果蝇.md "wikilink")）发现有類Toll受体。在[细菌和](../Page/细菌.md "wikilink")[植物以及更高的生物界中也发现有類Toll受体](../Page/植物.md "wikilink")。所以，類Toll受体是最古老最保守的免疫系统的组成部分，也被称作原始模式识别受体，因为它们在免疫系统的其他部分之前演变,
-尤其是在[后天免疫系统之前](../Page/后天免疫系统.md "wikilink")。
+patterns，PAMP）\[1\]\[2\]。但是，也有一些例外情况。在[脊椎动物](../Page/脊椎动物.md "wikilink")（包括[鱼类](../Page/鱼.md "wikilink")、[两栖类](https://zh.wikipedia.org/wiki/两栖类 "wikilink")、
+[哺乳类](https://zh.wikipedia.org/wiki/哺乳类 "wikilink")、[鸟类](https://zh.wikipedia.org/wiki/鸟类 "wikilink")、[爬虫类](https://zh.wikipedia.org/wiki/爬虫类 "wikilink")）以及[无脊椎动物](../Page/无脊椎动物.md "wikilink")（如[昆虫](../Page/昆虫.md "wikilink")[果蝇已被广泛研究](https://zh.wikipedia.org/wiki/果蝇 "wikilink")）发现有類Toll受体。在[细菌和](../Page/细菌.md "wikilink")[植物以及更高的生物界中也发现有類Toll受体](../Page/植物.md "wikilink")。所以，類Toll受体是最古老最保守的免疫系统的组成部分，也被称作原始模式识别受体，因为它们在免疫系统的其他部分之前演变,
+尤其是在[后天免疫系统之前](https://zh.wikipedia.org/wiki/后天免疫系统 "wikilink")。
 
-「類鐸受體」這個名稱是來自於1985年在[黑腹果蠅體內發現的](../Page/黑腹果蠅.md "wikilink")[鐸基因](../Page/鐸基因.md "wikilink")\[3\]。「鐸」來自於的[德文的](../Page/德文.md "wikilink")「」，為[嘆詞](../Page/嘆詞.md "wikilink")。當時研究人員在發現時說出一句「這太棒了！」（""〉，因此而得名\[4\]。
+「類鐸受體」這個名稱是來自於1985年在[黑腹果蠅體內發現的](https://zh.wikipedia.org/wiki/黑腹果蠅 "wikilink")[鐸基因](https://zh.wikipedia.org/wiki/鐸基因 "wikilink")\[3\]。「鐸」來自於的[德文的](https://zh.wikipedia.org/wiki/德文 "wikilink")「」，為[嘆詞](https://zh.wikipedia.org/wiki/嘆詞 "wikilink")。當時研究人員在發現時說出一句「這太棒了！」（""〉，因此而得名\[4\]。
 
 ## 发现
 
@@ -32,8 +32,8 @@ TLR5 在細胞膜上 辨認Flagellin (細菌鞭毛上主要組成蛋白質)
 
 ## 参看
 
-  - [病原相关分子模式](../Page/病原相关分子模式.md "wikilink")
-  - [免疫佐剂](../Page/免疫佐剂.md "wikilink")
+  - [病原相关分子模式](https://zh.wikipedia.org/wiki/病原相关分子模式 "wikilink")
+  - [免疫佐剂](https://zh.wikipedia.org/wiki/免疫佐剂 "wikilink")
   - [Toll基因家族](../Page/Toll基因家族.md "wikilink")
 
 ## 参考文献

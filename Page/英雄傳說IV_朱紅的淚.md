@@ -1,4 +1,4 @@
-是由日本[Falcom在](../Page/Falcom.md "wikilink")1996年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第4部作品，系列第二期《[卡卡布三部曲](../Page/卡卡布三部曲.md "wikilink")》的第2部作品。
+是由日本[Falcom在](https://zh.wikipedia.org/wiki/Falcom "wikilink")1996年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第4部作品，系列第二期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》的第2部作品。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 ## 譯名差異
 
 日文原名《**英雄伝説IV
-朱紅い雫**》由于「雫」字的暧昧性导致其中文译名长期以来没有统一，早在1997年大陆通常使用的译名为《朱红雪》，后来因[天堂鳥的翻译又有了](../Page/天堂鳥.md "wikilink")《朱红血》等中文译名。随着2000年复刻版的推出，根据该作英文标题*A
+朱紅い雫**》由于「雫」字的暧昧性导致其中文译名长期以来没有统一，早在1997年大陆通常使用的译名为《朱红雪》，后来因[天堂鳥的翻译又有了](https://zh.wikipedia.org/wiki/天堂鳥 "wikilink")《朱红血》等中文译名。随着2000年复刻版的推出，根据该作英文标题*A
 Tear of
 Vermillion*的含义，[北京新天地代理时将译名定为](../Page/北京新天地.md "wikilink")《朱红的泪》。从此旧版译名为公认度较高的《**朱红血**》，新版则为《**朱红的泪**》。
 
@@ -218,7 +218,7 @@ Vermillion*的含义，[北京新天地代理时将译名定为](../Page/北京�
 
 ## 关联项目
 
-  - [Falcom](../Page/Falcom.md "wikilink")
+  - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說 卡卡布三部曲](../Page/英雄傳說_卡卡布三部曲.md "wikilink")
   - [英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")

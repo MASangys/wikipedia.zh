@@ -1,26 +1,26 @@
 [MapKing_logo.jpg](https://zh.wikipedia.org/wiki/File:MapKing_logo.jpg "fig:MapKing_logo.jpg")
 **MapKing**
-是以亞太地區為主攻市場的[電子地圖和](../Page/電子地圖.md "wikilink")[智慧城市服務公司](../Page/智慧城市.md "wikilink")。以[導航軟體產品打出品牌](../Page/導航.md "wikilink")。MapKing創業期是專業的地理訊息系統
+是以亞太地區為主攻市場的[電子地圖和](https://zh.wikipedia.org/wiki/電子地圖 "wikilink")[智慧城市服務公司](../Page/智慧城市.md "wikilink")。以[導航軟體產品打出品牌](https://zh.wikipedia.org/wiki/導航 "wikilink")。MapKing創業期是專業的地理訊息系統
 [(Geographic Information
-System)服務公司](../Page/\(Geographic_Information_System\).md "wikilink")，第二階段是作為附有[全球衛星定位系統](../Page/全球衛星定位系統.md "wikilink")（Global
+System)服務公司](https://zh.wikipedia.org/wiki/\(Geographic_Information_System\) "wikilink")，第二階段是作為附有[全球衛星定位系統](https://zh.wikipedia.org/wiki/全球衛星定位系統 "wikilink")（Global
 Positioning
-System，簡稱GPS）的[電子手帳及](../Page/電子手帳.md "wikilink")[智能手機的隨機贈送軟件而廣為人知](../Page/智能手機.md "wikilink")。近年主力從事[智慧城市](../Page/智慧城市.md "wikilink")、[智能交通](../Page/智能交通.md "wikilink")、[車聯網及](../Page/車聯網.md "wikilink")[車隊管理業務](../Page/車隊管理.md "wikilink")，開始[人功智能及](../Page/人功智能.md "wikilink")[無人駕駛研發](../Page/無人駕駛.md "wikilink")。
+System，簡稱GPS）的[電子手帳及](https://zh.wikipedia.org/wiki/電子手帳 "wikilink")[智能手機的隨機贈送軟件而廣為人知](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。近年主力從事[智慧城市](../Page/智慧城市.md "wikilink")、[智能交通](https://zh.wikipedia.org/wiki/智能交通 "wikilink")、[車聯網及](https://zh.wikipedia.org/wiki/車聯網 "wikilink")[車隊管理業務](https://zh.wikipedia.org/wiki/車隊管理 "wikilink")，開始[人功智能及](https://zh.wikipedia.org/wiki/人功智能 "wikilink")[無人駕駛研發](https://zh.wikipedia.org/wiki/無人駕駛 "wikilink")。
 
-MapKing（國圖顧問有限公司，[1](http://www.MapAsia.com)）亦是[Apple](../Page/蘋果公司.md "wikilink")、Google[谷哥地圖及百度的資料供應商](../Page/谷哥地圖.md "wikilink")，及為亞洲區域的電訊公司、地鐵公司、物流車隊、的士公司等中大型機構提供相關服務。參與2009至2011年中原、黃頁、有線、壹地圖香港網上地圖之爭。MapKing曾得到《Smartphone
+MapKing（國圖顧問有限公司，[1](http://www.MapAsia.com)）亦是[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、Google[谷哥地圖及百度的資料供應商](https://zh.wikipedia.org/wiki/谷哥地圖 "wikilink")，及為亞洲區域的電訊公司、地鐵公司、物流車隊、的士公司等中大型機構提供相關服務。參與2009至2011年中原、黃頁、有線、壹地圖香港網上地圖之爭。MapKing曾得到《Smartphone
 and Pocket PC Magazine》2006最佳旅遊類別軟體提名。\[1\]MapKing也曾得到《香港無間斷城市》2008軟體獎項。
 
-MapKing提供[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台北](../Page/台北.md "wikilink")、[北京](../Page/北京.md "wikilink")、[廣州](../Page/廣州.md "wikilink")、[南京](../Page/南京.md "wikilink")、[深圳](../Page/深圳.md "wikilink")、[上海](../Page/上海.md "wikilink")、[馬來西亞](../Page/馬來西亞.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、[印度](../Page/印度.md "wikilink")、[東京](../Page/東京.md "wikilink")、[胡志明市](../Page/胡志明市.md "wikilink")、[迪拜](../Page/迪拜.md "wikilink")、[巴林](../Page/巴林.md "wikilink")、[汶萊](../Page/汶萊.md "wikilink")、[阿布達比](../Page/阿布達比.md "wikilink")、[首爾等地方之地圖](../Page/首爾.md "wikilink")，並推出可在[個人電腦](../Page/個人電腦.md "wikilink")、[Pocket
+MapKing提供[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[印度](../Page/印度.md "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[胡志明市](../Page/胡志明市.md "wikilink")、[迪拜](https://zh.wikipedia.org/wiki/迪拜 "wikilink")、[巴林](../Page/巴林.md "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[首爾等地方之地圖](https://zh.wikipedia.org/wiki/首爾 "wikilink")，並推出可在[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[Pocket
 PC](../Page/Pocket_PC.md "wikilink")、[PND-Personal Naviagation
-Device及](../Page/PND-Personal_Naviagation_Device.md "wikilink")[智能手機的平台上運行的不同版本](../Page/智能手機.md "wikilink")。
+Device及](https://zh.wikipedia.org/wiki/PND-Personal_Naviagation_Device "wikilink")[智能手機的平台上運行的不同版本](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
-2010年，MapKing成為荷蘭智能交通研發中心HTAS項目的亞洲區域夥伴公司。在2011年成為Intel智能互聯汽車中國應用展示夥伴。2012年，MapKing銷售[澳洲](../Page/澳洲.md "wikilink")、[中東GCC國家](../Page/中東GCC國家.md "wikilink")、[歐洲等地圖](../Page/歐洲.md "wikilink")。2012年6月，MapKing推出
+2010年，MapKing成為荷蘭智能交通研發中心HTAS項目的亞洲區域夥伴公司。在2011年成為Intel智能互聯汽車中國應用展示夥伴。2012年，MapKing銷售[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[中東GCC國家](https://zh.wikipedia.org/wiki/中東GCC國家 "wikilink")、[歐洲等地圖](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。2012年6月，MapKing推出
 東南亞首部車聯網GPS導航機,開啟車聯網時代。\[2\]。2015 香港政府推介 MapKing
 \[3\]。2017年開始第二代實時交通系統整合研發。
 
 ## 參見
 
-  - [衛星地圖](../Page/衛星地圖.md "wikilink")
-  - [電子地圖](../Page/電子地圖.md "wikilink")
+  - [衛星地圖](https://zh.wikipedia.org/wiki/衛星地圖 "wikilink")
+  - [電子地圖](https://zh.wikipedia.org/wiki/電子地圖 "wikilink")
 
 2017
 
@@ -34,7 +34,8 @@ Device及](../Page/PND-Personal_Naviagation_Device.md "wikilink")[智能手機�
 
 · 2016 香港 MapKing(實時公共交通警示推算應用)获得最佳智慧香港(公共資料應用) 銅獎
 
-· 2016 新加坡 – 開始提供公共交通換乘數據服務給[Apple公司](../Page/蘋果公司.md "wikilink")
+· 2016 新加坡 –
+開始提供公共交通換乘數據服務給[Apple公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
 
 · 2016 香港 – 開始提供部分實時公共交通警示資訊給手機上的 Google公共交通導航
 

@@ -1,9 +1,9 @@
 《**超劇場版
-Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分鐘，日本[票房約為](../Page/票房.md "wikilink")6億[日圓](../Page/日圓.md "wikilink")，香港[票房約為](../Page/票房.md "wikilink")900萬港元，而台灣[票房則約](../Page/票房.md "wikilink")980萬[台幣](../Page/台幣.md "wikilink")。劇場版1的[VCD和](../Page/VCD.md "wikilink")[DVD則在](../Page/DVD.md "wikilink")2006年8月25日正式發行。
+Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分鐘，日本[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")6億[日圓](../Page/日圓.md "wikilink")，香港[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")900萬港元，而台灣[票房則約](https://zh.wikipedia.org/wiki/票房 "wikilink")980萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。劇場版1的[VCD和](../Page/VCD.md "wikilink")[DVD則在](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年8月25日正式發行。
 
 ## 情節簡介
 
-某日，感情融洽的冬樹與Keroro一起外出購買[鋼普拉](../Page/鋼普拉.md "wikilink")。不料在回家的路上，誤闖一間神秘小廟。冬樹對這個古文明遺址感到興奮不已的同時，Keroro卻不小心打破了一個壺狀物體。頓時萌生不祥預感的兩人，匆促慌張地掉頭跑回家。不久，Keroro和冬樹臉上浮現「╳」印記。隨著時間流逝，週遭的人們也開始在臉上浮現「╳」印記。這些有印記的人，彷彿擁有[念力](../Page/念力.md "wikilink")，能夠隨心所欲地讓其他人也浮現「╳」印記。這項不可思議卻很方便的能力深受人類喜愛，轉眼間就擴散開來。
+某日，感情融洽的冬樹與Keroro一起外出購買[鋼普拉](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")。不料在回家的路上，誤闖一間神秘小廟。冬樹對這個古文明遺址感到興奮不已的同時，Keroro卻不小心打破了一個壺狀物體。頓時萌生不祥預感的兩人，匆促慌張地掉頭跑回家。不久，Keroro和冬樹臉上浮現「╳」印記。隨著時間流逝，週遭的人們也開始在臉上浮現「╳」印記。這些有印記的人，彷彿擁有[念力](../Page/念力.md "wikilink")，能夠隨心所欲地讓其他人也浮現「╳」印記。這項不可思議卻很方便的能力深受人類喜愛，轉眼間就擴散開來。
 
 這時候，現身的外星人Mirara表示，「╳」印記是一個名為Kiruru的古代武器，它會吸收人類的負面能量，毀滅地球。但是由於「╳」印記並未帶來不好的影響，冬樹和Keroro小隊並未將這句話放在心上。稍後，Kiruru開始巨大化，「╳」印記也開始散播負面能量。人類對此感到恐慌，進而不相信身邊任何人。於是Keroro打算利用這股念力，展開侵略[地球大作戰](../Page/地球.md "wikilink")。
 
@@ -15,7 +15,7 @@ Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分�
 
 ## 新登場人物／事物
 
-  - **Kiruru**（　配音：[小木矢作](../Page/小木矢作.md "wikilink")、矢作兼）
+  - **Kiruru**（　配音：[小木矢作](https://zh.wikipedia.org/wiki/小木矢作 "wikilink")、矢作兼）
 
 <!-- end list -->
 
@@ -47,14 +47,14 @@ Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分�
         演唱：，作詞：秋元康，作曲：磯崎健史，合唱：toutou
   - 「VOICE OF LALAH」
       -
-        演唱：[潘恵子](../Page/潘恵子.md "wikilink")，作詞、作曲、編曲：、[掛川陽介](../Page/掛川陽介.md "wikilink")、[本澤尚之](../Page/本澤尚之.md "wikilink")
+        演唱：[潘恵子](https://zh.wikipedia.org/wiki/潘恵子 "wikilink")，作詞、作曲、編曲：、[掛川陽介](https://zh.wikipedia.org/wiki/掛川陽介 "wikilink")、[本澤尚之](https://zh.wikipedia.org/wiki/本澤尚之 "wikilink")
 
 ## 註釋
 
 ## 參見
 
   - [Keroro軍曹](../Page/Keroro軍曹.md "wikilink")
-  - [Keroro軍曹人物列表](../Page/Keroro軍曹人物列表.md "wikilink")
+  - [Keroro軍曹人物列表](https://zh.wikipedia.org/wiki/Keroro軍曹人物列表 "wikilink")
   - [Keroro軍曹 (動畫)](../Page/Keroro軍曹_\(動畫\).md "wikilink")
 
 ## 外部連結／參考資料

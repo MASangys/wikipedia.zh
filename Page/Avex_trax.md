@@ -1,20 +1,20 @@
 **Avex trax**
-（）是[日本](../Page/日本.md "wikilink")[愛貝克思集團屬下的一間](../Page/愛貝克思集團.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，成立於1990年，是愛貝克思的首間唱片公司。名字的trax取自tracks（[音軌](../Page/音軌.md "wikilink")）。\[1\]
+（）是[日本](../Page/日本.md "wikilink")[愛貝克思集團屬下的一間](../Page/愛貝克思集團.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，成立於1990年，是愛貝克思的首間唱片公司。名字的trax取自tracks（[音軌](https://zh.wikipedia.org/wiki/音軌 "wikilink")）。\[1\]
 
 ## 歷史
 
-在日本以外的國家協助發行[錄音室專輯後兩年](../Page/錄音室專輯.md "wikilink")，他與愛貝克思創辦人等人決定成立新的唱片廠牌與[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[日本索尼音樂娛樂和](../Page/日本索尼音樂娛樂.md "wikilink")[環球唱片等經驗較多的公司競爭](../Page/環球唱片.md "wikilink")，Avex
+在日本以外的國家協助發行[錄音室專輯後兩年](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，他與愛貝克思創辦人等人決定成立新的唱片廠牌與[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[日本索尼音樂娛樂和](../Page/日本索尼音樂娛樂.md "wikilink")[環球唱片等經驗較多的公司競爭](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，Avex
 Trax因此誕生。
 
 Avex Trax的首位簽約藝人是樂團[TRF](../Page/TRF.md "wikilink")，由於他們發展成功，使Avex
-Trax搖身一變成為藝人的收容所，其中包括一些與舊東家結束合約的藝人（例：[安室奈美惠](../Page/安室奈美惠.md "wikilink")）、希望更換唱片公司的藝人（例：[Gackt](../Page/Gackt.md "wikilink")）、以及被舊東家棄用的藝人（例：[濱崎步](../Page/濱崎步.md "wikilink")）。
+Trax搖身一變成為藝人的收容所，其中包括一些與舊東家結束合約的藝人（例：[安室奈美惠](../Page/安室奈美惠.md "wikilink")）、希望更換唱片公司的藝人（例：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")）、以及被舊東家棄用的藝人（例：[濱崎步](../Page/濱崎步.md "wikilink")）。
 
 ## 概略
 
 現在為愛貝克思目前藝人人數最多的音樂廠牌。
 
-[規格編號](../Page/規格編號.md "wikilink")[CD為](../Page/CD.md "wikilink")「AVCD」開頭、[DVD為](../Page/DVD.md "wikilink")「AVBD」開頭、[Blu-ray
-Disc為](../Page/Blu-ray_Disc.md "wikilink")「AVXD」開頭，以此作為編號標準。
+[規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")[CD為](../Page/CD.md "wikilink")「AVCD」開頭、[DVD為](https://zh.wikipedia.org/wiki/DVD "wikilink")「AVBD」開頭、[Blu-ray
+Disc為](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")「AVXD」開頭，以此作為編號標準。
 
 ## 藝人
 
@@ -22,39 +22,39 @@ Disc為](../Page/Blu-ray_Disc.md "wikilink")「AVXD」開頭，以此作為編�
 
 #### 以五十音排序
 
-  - [安室奈美惠](../Page/安室奈美惠.md "wikilink")（[日本EMI音樂移籍至此](../Page/日本EMI音樂.md "wikilink")）
+  - [安室奈美惠](../Page/安室奈美惠.md "wikilink")（[日本EMI音樂移籍至此](https://zh.wikipedia.org/wiki/日本EMI音樂 "wikilink")）
 
   - [大島麻衣](../Page/大島麻衣.md "wikilink")
 
-  - [大塚愛](../Page/大塚愛.md "wikilink")
+  - [大塚愛](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")
 
-  - [乙三](../Page/乙三.md "wikilink")
+  - [乙三](https://zh.wikipedia.org/wiki/乙三 "wikilink")
 
   - [上木彩矢](../Page/上木彩矢.md "wikilink")（[GIZA
     studio移籍至此](../Page/GIZA_studio.md "wikilink")）
 
-  - [氣志團](../Page/氣志團.md "wikilink")（[日本EMI音樂移籍至此](../Page/日本EMI音樂.md "wikilink")）
+  - [氣志團](https://zh.wikipedia.org/wiki/氣志團 "wikilink")（[日本EMI音樂移籍至此](https://zh.wikipedia.org/wiki/日本EMI音樂 "wikilink")）
 
-  - [北乃紀伊](../Page/北乃紀伊.md "wikilink")
+  - [北乃紀伊](https://zh.wikipedia.org/wiki/北乃紀伊 "wikilink")
 
   - [金亨俊](../Page/金亨俊.md "wikilink")（[SS501](../Page/SS501.md "wikilink")）
 
-  - [黒夢](../Page/黒夢.md "wikilink")
+  - [黒夢](https://zh.wikipedia.org/wiki/黒夢 "wikilink")
 
   - [後藤真希](../Page/後藤真希.md "wikilink")（PICCOLO TOWN→[rhythm
-    zone移籍至此](../Page/rhythm_zone.md "wikilink")）
+    zone移籍至此](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")）
 
-  - [紗羅マリー](../Page/紗羅マリー.md "wikilink")
+  - [紗羅マリー](https://zh.wikipedia.org/wiki/紗羅マリー "wikilink")
 
-  - [島谷瞳](../Page/島谷瞳.md "wikilink")
+  - [島谷瞳](https://zh.wikipedia.org/wiki/島谷瞳 "wikilink")
 
-  - [シン・スンフン](../Page/シン・スンフン.md "wikilink")
+  - [シン・スンフン](https://zh.wikipedia.org/wiki/シン・スンフン "wikilink")
 
   - [鈴木亞美](../Page/鈴木亞美.md "wikilink")（[日本索尼音樂娛樂移籍至此](../Page/日本索尼音樂娛樂.md "wikilink")）
 
-  - [スティーヴィー・ホアン](../Page/スティーヴィー・ホアン.md "wikilink")
+  - [スティーヴィー・ホアン](https://zh.wikipedia.org/wiki/スティーヴィー・ホアン "wikilink")
 
-  - [ストロボ](../Page/ストロボ_\(バンド\).md "wikilink")
+  - [ストロボ](https://zh.wikipedia.org/wiki/ストロボ_\(バンド\) "wikilink")
 
   -
   - [瀧與翼](../Page/瀧與翼.md "wikilink")
@@ -69,9 +69,9 @@ Disc為](../Page/Blu-ray_Disc.md "wikilink")「AVXD」開頭，以此作為編�
   - [東方神起](../Page/東方神起.md "wikilink")（rhythm zone移籍至此）\[2\]
 
   -
-  - [所喬治](../Page/所喬治.md "wikilink")（佳音唱片（現：[波麗佳音](../Page/波麗佳音.md "wikilink")）→Epic
+  - [所喬治](https://zh.wikipedia.org/wiki/所喬治 "wikilink")（佳音唱片（現：[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）→Epic
     Records（現：[Epic Records Japan
-    Inc.](../Page/Epic_Records_Japan_Inc..md "wikilink")）→[VAPより移籍](../Page/VAP.md "wikilink")）
+    Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")）→[VAPより移籍](https://zh.wikipedia.org/wiki/VAP "wikilink")）
 
   - [初音](../Page/奥村初音.md "wikilink")（奥村初音）
 
@@ -82,44 +82,52 @@ Disc為](../Page/Blu-ray_Disc.md "wikilink")「AVXD」開頭，以此作為編�
 #### 英文字母排序
 
   - [AAA](../Page/AAA_\(團體\).md "wikilink")
-  - [alan](../Page/alan.md "wikilink")
-  - [BoA](../Page/BoA.md "wikilink")\[3\]
+  - [alan](https://zh.wikipedia.org/wiki/alan "wikilink")
+  - [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")\[3\]
   - [Da-iCE](../Page/Da-iCE.md "wikilink")
   - [DiVA](../Page/DiVA.md "wikilink")
-  - [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")
+  - [Do As
+    Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
       - [伴都美子](../Page/伴都美子.md "wikilink")
-  - [Dorothy Little Happy](../Page/DOROTHY_LITTLE_HAPPY.md "wikilink")
-  - [Droog](../Page/Droog.md "wikilink")
+  - [Dorothy Little
+    Happy](https://zh.wikipedia.org/wiki/DOROTHY_LITTLE_HAPPY "wikilink")
+  - [Droog](https://zh.wikipedia.org/wiki/Droog "wikilink")
   - Dream5
-  - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
+  - [Every Little
+    Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")
       - [持田香織](../Page/持田香織.md "wikilink")
       - [伊藤一朗](../Page/伊藤一朗.md "wikilink")
-  - [FPM](../Page/FPM.md "wikilink")（Fantastic Plastic Machine）
-  - [GIRL NEXT DOOR](../Page/GIRL_NEXT_DOOR.md "wikilink")
-  - [Honey L Days](../Page/Honey_L_Days.md "wikilink")
+  - [FPM](https://zh.wikipedia.org/wiki/FPM "wikilink")（Fantastic
+    Plastic Machine）
+  - [GIRL NEXT
+    DOOR](https://zh.wikipedia.org/wiki/GIRL_NEXT_DOOR "wikilink")
+  - [Honey L
+    Days](https://zh.wikipedia.org/wiki/Honey_L_Days "wikilink")
   - [JURIAN BEAT
-    CRISIS](../Page/JURIAN_BEAT_CRISIS.md "wikilink")（川上ジュリア）
-  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
+    CRISIS](https://zh.wikipedia.org/wiki/JURIAN_BEAT_CRISIS "wikilink")（川上ジュリア）
+  - [Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
   - [lol](../Page/Lol_\(團體\).md "wikilink")
   - [May J.](../Page/May_J..md "wikilink")
-  - [m.c.A・T](../Page/m.c.A・T.md "wikilink")
-  - [misono](../Page/misono.md "wikilink")（[day after
-    tomorrow](../Page/day_after_tomorrow.md "wikilink")）
-  - [moumoon](../Page/moumoon.md "wikilink")
+  - [m.c.A・T](https://zh.wikipedia.org/wiki/m.c.A・T "wikilink")
+  - [misono](https://zh.wikipedia.org/wiki/misono "wikilink")（[day after
+    tomorrow](https://zh.wikipedia.org/wiki/day_after_tomorrow "wikilink")）
+  - [moumoon](https://zh.wikipedia.org/wiki/moumoon "wikilink")
   - ROOT FIVE(即√5，譯:根號五)
-  - [SKE48](../Page/SKE48.md "wikilink")（[日本クラウン移籍至此](../Page/日本クラウン.md "wikilink")）
+  - [SKE48](../Page/SKE48.md "wikilink")（[日本クラウン移籍至此](https://zh.wikipedia.org/wiki/日本クラウン "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")\[4\]
-  - [SHU-I](../Page/SHU-I.md "wikilink")
-  - [SOULHEAD](../Page/SOULHEAD.md "wikilink")
+  - [SHU-I](https://zh.wikipedia.org/wiki/SHU-I "wikilink")
+  - [SOULHEAD](https://zh.wikipedia.org/wiki/SOULHEAD "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")\[5\]
-  - [the pillows](../Page/the_pillows.md "wikilink")
-  - [Tourbillon](../Page/Tourbillon_\(バンド\).md "wikilink")
+  - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
+  - [Tourbillon](https://zh.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink")
   - [TRF](../Page/TRF.md "wikilink")
-  - [teranoid\&MCnatsack](../Page/teranoid&MCnatsack.md "wikilink")
+  - [teranoid\&MCnatsack](https://zh.wikipedia.org/wiki/teranoid&MCnatsack "wikilink")
   - [U-KISS](../Page/U-KISS.md "wikilink")
-  - [V6](../Page/V6_\(樂團\).md "wikilink")
-      - [20th Century](../Page/V6_\(樂團\).md "wikilink")
-      - [Coming Century](../Page/V6_\(樂團\).md "wikilink")
+  - [V6](https://zh.wikipedia.org/wiki/V6_\(樂團\) "wikilink")
+      - [20th
+        Century](https://zh.wikipedia.org/wiki/V6_\(樂團\) "wikilink")
+      - [Coming
+        Century](https://zh.wikipedia.org/wiki/V6_\(樂團\) "wikilink")
 
 ## 參考資料
 
@@ -136,10 +144,10 @@ Disc為](../Page/Blu-ray_Disc.md "wikilink")「AVXD」開頭，以此作為編�
 [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
 
 1.   About Avex Group {{\!}}
-    History|work=[愛貝克思](../Page/愛貝克思.md "wikilink")|accessdate=2010-05-22}}
+    History|work=[愛貝克思](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")|accessdate=2010-05-22}}
 
 2.  使用[SM
-    Entertainment專屬藝人的](../Page/SM_Entertainment.md "wikilink")[規格編號](../Page/規格編號.md "wikilink")"AV\*K-79\*\*\*"
+    Entertainment專屬藝人的](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")"AV\*K-79\*\*\*"
 
 3.
 4.

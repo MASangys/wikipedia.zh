@@ -1,0 +1,39 @@
+__NOTOC__
+**Portal:城市轨道交通**是关于[城市轨道交通的](https://zh.wikipedia.org/wiki/城市轨道交通 "wikilink")[主题](https://zh.wikipedia.org/wiki/Portal:首頁 "wikilink")，关于一般[铁路](https://zh.wikipedia.org/wiki/铁路 "wikilink")、參見[Portal:铁路](https://zh.wikipedia.org/wiki/Portal:铁路 "wikilink")。
+{{/box-header|城市轨道交通主题|Portal:城市轨道交通/简介|}}  {{/box-footer|}}
+
+<div align="center">
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|典范条目|Portal:城市轨道交通/典范条目|}}  {{/box-footer|}}
+
+{{/box-header|优良条目|Portal:城市轨道交通/优良条目|}}
+{{/box-footer|[存档](https://zh.wikipedia.org/wiki/Portal:城市轨道交通/优良条目/存档 "wikilink")}}
+
+{{/box-header|特色图片|Portal:城市轨道交通/特色图片|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|城市轨道交通新闻|Portal:城市轨道交通/城市轨道交通新闻|}}  {{/box-footer|}}
+
+{{/box-header|你知道吗|Portal:城市轨道交通/你知道吗|}}  {{/box-footer|}}
+
+{{/box-header|维基工程|Portal:城市轨道交通/维基工程|}}  {{/box-footer|}}
+
+</div>
+
+{{/box-header|分类|Portal:城市轨道交通/分类|}}  {{/box-footer|}}
+
+<div style="float:right; width:100%">
+
+{{/box-header|欢迎参与|Portal:城市轨道交通/欢迎参与|}}  {{/box-footer|}}
+
+{{/box-header|维基主题|Template:Portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:城市軌道交通](https://zh.wikipedia.org/wiki/Category:城市軌道交通 "wikilink")

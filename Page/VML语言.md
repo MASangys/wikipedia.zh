@@ -2,28 +2,29 @@
 | screenshot = | caption = | extension = `.htm`或`.html` | mime =
 application/vnd.openxmlformats-officedocument.vmlDrawing | type code = |
 uniform type = | magic = | owner =
-[Microsoft](../Page/Microsoft.md "wikilink") | released = | latest
-release version = | latest release date = | genre =
-[矢量图形格式](../Page/矢量图形.md "wikilink") | container for
-= | contained by = | extended from = [XML](../Page/XML.md "wikilink") |
-extended to = | standard = Part of ECMA-376及ISO/IEC 29500:2008 | url =
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") |
+released = | latest release version = | latest release date = | genre =
+[矢量图形格式](../Page/矢量图形.md "wikilink") | container for = | contained by =
+| extended from = [XML](../Page/XML.md "wikilink") | extended to = |
+standard = Part of ECMA-376及ISO/IEC 29500:2008 | url =
 [ECMA-376](http://www.ecma-international.org/publications/standards/Ecma-376.htm),
 [ISO/IEC 29500-4:2012](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=61798)
 }} **Vector Markup
-Language**（**VML**）是一種[XML語言用於繪製](../Page/XML.md "wikilink")[向量圖形](../Page/向量圖形.md "wikilink")（[vector
-graphics](../Page/矢量图形.md "wikilink")）。1998年VML建議書由微軟、Macromedia等向[W3C提出審核](../Page/W3C.md "wikilink")。VML遭到拒絕，因為[Adobe](../Page/Adobe_Systems.md "wikilink")、[Sun等提出了](../Page/Sun_Microsystems.md "wikilink")[PGML](../Page/PGML.md "wikilink")\[[http://www.w3.org/TR/1998/NOTE-PGML-19980410\]計劃書。這兩套標準後來合併成更具潛力的](http://www.w3.org/TR/1998/NOTE-PGML-19980410%5D計劃書。這兩套標準後來合併成更具潛力的)[SVG](../Page/Scalable_Vector_Graphics.md "wikilink")。
+Language**（**VML**）是一種[XML語言用於繪製](../Page/XML.md "wikilink")[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")（[vector
+graphics](../Page/矢量图形.md "wikilink")）。1998年VML建議書由微軟、Macromedia等向[W3C提出審核](https://zh.wikipedia.org/wiki/W3C "wikilink")。VML遭到拒絕，因為[Adobe](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")、[Sun等提出了](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[PGML](https://zh.wikipedia.org/wiki/PGML "wikilink")\[[http://www.w3.org/TR/1998/NOTE-PGML-19980410\]計劃書。這兩套標準後來合併成更具潛力的](http://www.w3.org/TR/1998/NOTE-PGML-19980410%5D計劃書。這兩套標準後來合併成更具潛力的)[SVG](https://zh.wikipedia.org/wiki/Scalable_Vector_Graphics "wikilink")。
 
 儘管VML規格一度遭到W3C的拒絕，並為大多數使用者所遺棄。微軟（Microsoft）依然將VML的標準規格實作到[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink") 5.0及更新的版本，[Microsoft
 Office](../Page/Microsoft_Office.md "wikilink") 2000以上的版本亦有支援。
 
-[Google Maps目前在](../Page/Google_Maps.md "wikilink")[Internet
+[Google
+Maps目前在](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")
 5.5+\[[http://www.google.com/apis/maps/documentation/\#XHTML_and_VML\]上採用VML來描寫向量（rendering](http://www.google.com/apis/maps/documentation/#XHTML_and_VML%5D上採用VML來描寫向量（rendering)
 vector）。
 
 [Google
-Docs目前在相同平台上](../Page/Google_Docs.md "wikilink")\[[http://googledocs.blogspot.com/2009/03/drawing-on-your-creativity-in-docs.html\]采用VML来绘制矢量图](http://googledocs.blogspot.com/2009/03/drawing-on-your-creativity-in-docs.html%5D采用VML来绘制矢量图)。
+Docs目前在相同平台上](https://zh.wikipedia.org/wiki/Google_Docs "wikilink")\[[http://googledocs.blogspot.com/2009/03/drawing-on-your-creativity-in-docs.html\]采用VML来绘制矢量图](http://googledocs.blogspot.com/2009/03/drawing-on-your-creativity-in-docs.html%5D采用VML来绘制矢量图)。
 
 ## 範例
 
@@ -38,7 +39,7 @@ Docs目前在相同平台上](../Page/Google_Docs.md "wikilink")\[[http://google
     </html
     </nowiki>
 
-[SVG更精簡的程式碼可達成上述的相同結果](../Page/Scalable_Vector_Graphics.md "wikilink")：
+[SVG更精簡的程式碼可達成上述的相同結果](https://zh.wikipedia.org/wiki/Scalable_Vector_Graphics "wikilink")：
 
     <nowiki>
     <?xml version="1.0"?>
@@ -63,7 +64,7 @@ Docs目前在相同平台上](../Page/Google_Docs.md "wikilink")\[[http://google
 
 ## 参见
 
-  - [SVG](../Page/SVG.md "wikilink")
+  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")
 
 {{-}}
 

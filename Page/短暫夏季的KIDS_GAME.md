@@ -1,10 +1,10 @@
 《**短暫夏季的KIDS
-GAME**》（）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[赤松健首次獲得](../Page/赤松健.md "wikilink")[漫畫雜誌出版社](../Page/漫畫雜誌.md "wikilink")[講談社刊載的短篇作品](../Page/講談社.md "wikilink")。1993年9月10日於講談社旗下的《[Magazine
-Fresh](../Page/Magazine_Fresh.md "wikilink")》（）1993年9月號刊載，作者同時憑作品獲得新人獎。2001年5月20日，作品再度被刊載。
+GAME**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[赤松健首次獲得](../Page/赤松健.md "wikilink")[漫畫雜誌出版社](../Page/漫畫雜誌.md "wikilink")[講談社刊載的短篇作品](https://zh.wikipedia.org/wiki/講談社 "wikilink")。1993年9月10日於講談社旗下的《[Magazine
+Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9月號刊載，作者同時憑作品獲得新人獎。2001年5月20日，作品再度被刊載。
 
 ## 內容簡介
 
-作品講述一個名為**松本晉作**\[1\]的[高中二年級生](../Page/高中.md "wikilink")，在[暑假期間發生的愛情故事](../Page/暑假.md "wikilink")。當時的松本晉作正為如何度過暑假而煩惱著，卻意外遇見一場[交通意外](../Page/交通意外.md "wikilink")。被送院的兩母子情況各有不同：小孩桐島大佑安然無恙，母親桐島禮子卻須在醫院住上三星期，不能照顧兒子。前往探望的**桐島友紀**不但是桐島禮子的妹妹，更恰巧是松本晉作暗戀的同學。由於沒有安置桐島大佑的地方，需要照顧他的桐島友紀面臨令人困惑的境況。這時松本晉作提議由他來負責桐島大佑的住宿，桐島友紀則定時到家中照料二人。因為意外而導致的三人一起生活，使男女主角的感情有了一定的發展。
+作品講述一個名為**松本晉作**\[1\]的[高中二年級生](https://zh.wikipedia.org/wiki/高中 "wikilink")，在[暑假期間發生的愛情故事](../Page/暑假.md "wikilink")。當時的松本晉作正為如何度過暑假而煩惱著，卻意外遇見一場[交通意外](https://zh.wikipedia.org/wiki/交通意外 "wikilink")。被送院的兩母子情況各有不同：小孩桐島大佑安然無恙，母親桐島禮子卻須在醫院住上三星期，不能照顧兒子。前往探望的**桐島友紀**不但是桐島禮子的妹妹，更恰巧是松本晉作暗戀的同學。由於沒有安置桐島大佑的地方，需要照顧他的桐島友紀面臨令人困惑的境況。這時松本晉作提議由他來負責桐島大佑的住宿，桐島友紀則定時到家中照料二人。因為意外而導致的三人一起生活，使男女主角的感情有了一定的發展。
 
 ## 故事角色
 
@@ -22,7 +22,7 @@ Fresh](../Page/Magazine_Fresh.md "wikilink")》（）1993年9月號刊載，作�
 <!-- end list -->
 
   -
-    女主角。和主角是同學關係。因為要照顧松本晉作和她的外甥桐島大佑而不時到主角家中。善於[烹飪](../Page/烹飪.md "wikilink")。
+    女主角。和主角是同學關係。因為要照顧松本晉作和她的外甥桐島大佑而不時到主角家中。善於[烹飪](https://zh.wikipedia.org/wiki/烹飪 "wikilink")。
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@ Fresh](../Page/Magazine_Fresh.md "wikilink")》（）1993年9月號刊載，作�
 <!-- end list -->
 
   -
-    桐島友紀和禮子之父親。在故事中是[日本眾議院](../Page/日本眾議院.md "wikilink")「新成黨」的代議士（）。
+    桐島友紀和禮子之父親。在故事中是[日本眾議院](https://zh.wikipedia.org/wiki/日本眾議院 "wikilink")「新成黨」的代議士（）。
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@ Fresh](../Page/Magazine_Fresh.md "wikilink")》（）1993年9月號刊載，作�
 
 ## 得獎
 
-第50回（1993年）[週刊少年Magazine新人漫畫賞審查員特別賞得獎作品](../Page/週刊少年Magazine新人漫畫賞.md "wikilink")
+第50回（1993年）[週刊少年Magazine新人漫畫賞審查員特別賞得獎作品](https://zh.wikipedia.org/wiki/週刊少年Magazine新人漫畫賞 "wikilink")
 
 ## 對作者的影響
 

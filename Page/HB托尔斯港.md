@@ -1,4 +1,4 @@
-**HB拖錫雲**（）是[法罗群岛历史最悠久的俱乐部之一](../Page/法罗群岛.md "wikilink")，创建于1904年，球队设在首府[托尔斯港](../Page/托尔斯港.md "wikilink")。
+**HB拖錫雲**（）是[法罗群岛历史最悠久的俱乐部之一](../Page/法罗群岛.md "wikilink")，创建于1904年，球队设在首府[托尔斯港](https://zh.wikipedia.org/wiki/托尔斯港 "wikilink")。
 
 HB 的全称为****，意思为“港口足球俱乐部”。
 
@@ -6,20 +6,24 @@ HB 的全称为****，意思为“港口足球俱乐部”。
 
   - **最大的联赛胜利：** HB 對 [IF弗格莱夫乔德](../Page/IF弗格莱夫乔德.md "wikilink") 14-1
     (1971)
-  - **最大的联赛失利：** HB 對 [B36托尔斯港](../Page/B36托尔斯港.md "wikilink") 0-10
-    (1945)
-  - **最大的杯赛胜利：** HB 對 [Skansin托尔斯港](../Page/Skansin托尔斯港.md "wikilink")
+  - **最大的联赛失利：** HB 對
+    [B36托尔斯港](https://zh.wikipedia.org/wiki/B36托尔斯港 "wikilink")
+    0-10 (1945)
+  - **最大的杯赛胜利：** HB 對
+    [Skansin托尔斯港](https://zh.wikipedia.org/wiki/Skansin托尔斯港 "wikilink")
     (Division 4) 22-0 (1995)
-  - **最大的杯赛失利：** [TB特瓦罗伊里](../Page/TB特瓦罗伊里.md "wikilink") 對 HB 6-2
-    (1977)
+  - **最大的杯赛失利：**
+    [TB特瓦罗伊里](https://zh.wikipedia.org/wiki/TB特瓦罗伊里 "wikilink")
+    對 HB 6-2 (1977)
   - **最大的欧洲赛场胜利：** HB 對 [哈卡](../Page/哈卡足球俱乐部.md "wikilink")（芬兰）2-0
     (1998) 欧洲联盟杯
-  - **最大的欧洲赛场失利：** [特罗姆瑟IL](../Page/特罗姆瑟IL.md "wikilink")（挪威）對 HB 10-0
-    (1995) 国际托托杯
+  - **最大的欧洲赛场失利：**
+    [特罗姆瑟IL](https://zh.wikipedia.org/wiki/特罗姆瑟IL "wikilink")（挪威）對
+    HB 10-0 (1995) 国际托托杯
 
 <!-- end list -->
 
-  - **[法罗群岛足球甲级联赛冠军](../Page/法罗群岛足球甲级联赛.md "wikilink")（20次）:**
+  - **[法罗群岛足球甲级联赛冠军](https://zh.wikipedia.org/wiki/法罗群岛足球甲级联赛 "wikilink")（20次）:**
       - 1955, 1960, 1963, 1964, 1965, 1971, 1973, 1974, 1975, 1978,
         1981, 1982, 1988, 1990, 1998, 2002, 2003, 2004, 2006, 2009,
         2010, 2013, 2018。 亚军23次。

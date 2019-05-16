@@ -1,4 +1,4 @@
-《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐_\(電視劇\).md "wikilink")》系列第2輯。
+《**陀槍師姐II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共32集，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](https://zh.wikipedia.org/wiki/陀槍師姐_\(電視劇\) "wikilink")》系列第2輯。
 
 此劇曾於2002年9月及2009年3月至4月在[翡翠台重播](../Page/翡翠台.md "wikilink")。
 
@@ -26,7 +26,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>陳小生</strong></p></td>
-<td><p><a href="../Page/軍械法證科.md" title="wikilink">軍械法證科</a><a href="../Page/督察.md" title="wikilink">督察</a>→升為<a href="../Page/軍械法證科.md" title="wikilink">軍械法證科</a><a href="../Page/高級督察.md" title="wikilink">高級督察</a>→CAIU虐兒調查組、被喻為「警界神槍手」<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/軍械法證科" title="wikilink">軍械法證科</a><a href="https://zh.wikipedia.org/wiki/督察" title="wikilink">督察</a>→升為<a href="https://zh.wikipedia.org/wiki/軍械法證科" title="wikilink">軍械法證科</a><a href="../Page/高級督察.md" title="wikilink">高級督察</a>→CAIU虐兒調查組、被喻為「警界神槍手」<br />
 王二妹之叔仔<br />
 陳三元、陳四喜、陳五福之二叔<br />
 陳大生之弟<br />
@@ -49,7 +49,7 @@
 <td><p><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></p></td>
 <td><p><strong>陳三元</strong></p></td>
 <td><p>陳大生、王二妹之大女<br />
-參見<a href="../Page/#程家.md" title="wikilink">程家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁雪湄.md" title="wikilink">梁雪湄</a></p></td>
@@ -96,7 +96,7 @@ WPC17614→衝鋒隊<a href="../Page/警長.md" title="wikilink">警長</a>→�
 </tr>
 <tr class="odd">
 <td><p><strong>何金鈴</strong></p></td>
-<td><p>参见<a href="../Page/#楊家.md" title="wikilink">楊家</a></p></td>
+<td><p>参见<a href="https://zh.wikipedia.org/wiki/#楊家" title="wikilink">楊家</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -104,10 +104,10 @@ WPC17614→衝鋒隊<a href="../Page/警長.md" title="wikilink">警長</a>→�
 <td><p>余永財</p></td>
 <td><p>朱素娥前夫<br />
 余家樂之父<br />
-于第4集因得<a href="../Page/愛滋病.md" title="wikilink">愛滋病而赴美就醫</a></p></td>
+于第4集因得<a href="https://zh.wikipedia.org/wiki/愛滋病" title="wikilink">愛滋病而赴美就醫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/丁力_(香港童星).md" title="wikilink">丁　力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丁力_(香港童星)" title="wikilink">丁　力</a></p></td>
 <td><p>余家樂</p></td>
 <td><p>余永財、朱素娥之子</p></td>
 </tr>
@@ -155,7 +155,7 @@ WPC17614→衝鋒隊<a href="../Page/警長.md" title="wikilink">警長</a>→�
 <td><p><strong><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></strong></p></td>
 <td><p><strong>陳三元</strong></p></td>
 <td><p><strong>三蚊雞、三元</strong><br />
-WPC20447<a href="../Page/重案組.md" title="wikilink">重案組</a>→EU<a href="../Page/衝鋒隊.md" title="wikilink">衝鋒隊</a>→CAIU虐兒調查組<br />
+WPC20447<a href="https://zh.wikipedia.org/wiki/重案組" title="wikilink">重案組</a>→EU<a href="https://zh.wikipedia.org/wiki/衝鋒隊" title="wikilink">衝鋒隊</a>→CAIU虐兒調查組<br />
 陳大生、王二妹之大女<br />
 陳小生之大侄女<br />
 陳四喜、陳五福之大家姐<br />
@@ -163,7 +163,7 @@ WPC20447<a href="../Page/重案組.md" title="wikilink">重案組</a>→EU<a hre
 程守忠、何金梅之媳妇<br />
 程莎莎、程嘉嘉之母<br />
 朱素娥之好友<br />
-于第18集被鲍国平强奸后患上<a href="../Page/创伤后压力后遗症.md" title="wikilink">创伤后压力后遗症</a></p></td>
+于第18集被鲍国平强奸后患上<a href="https://zh.wikipedia.org/wiki/创伤后压力后遗症" title="wikilink">创伤后压力后遗症</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -195,7 +195,7 @@ Fion之姐<br />
 </tr>
 <tr class="even">
 <td><p><strong>朱素娥</strong></p></td>
-<td><p>參見<a href="../Page/#余家.md" title="wikilink">余家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#余家" title="wikilink">余家</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -219,12 +219,12 @@ Fion之姐<br />
 <tr class="even">
 <td><p><strong><a href="../Page/關詠荷.md" title="wikilink">關詠荷</a></strong></p></td>
 <td><p><strong>朱素娥</strong></p></td>
-<td><p>參見<a href="../Page/#余家.md" title="wikilink">余家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#余家" title="wikilink">余家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></strong></p></td>
 <td><p><strong>陳三元</strong></p></td>
-<td><p>參見<a href="../Page/#程家.md" title="wikilink">程家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄧一君.md" title="wikilink">鄧一君</a></p></td>
@@ -277,11 +277,11 @@ Fion之姐<br />
 <td><p><strong><a href="../Page/魏駿傑.md" title="wikilink">魏駿傑</a></strong></p></td>
 <td><p><strong>程　峰</strong></p></td>
 <td><p><strong>程Sir</strong><br />
-參見<a href="../Page/#程家.md" title="wikilink">程家</a><br />
-因接受不到陳三元被鮑國平強姦的事實，毆打鮑頂天（第18集）。參見<a href="../Page/#面具色魔殺人案（第10-19集）.md" title="wikilink">面具色魔殺人案（第10-19集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a><br />
+因接受不到陳三元被鮑國平強姦的事實，毆打鮑頂天（第18集）。參見<a href="https://zh.wikipedia.org/wiki/#面具色魔殺人案（第10-19集）" title="wikilink">面具色魔殺人案（第10-19集）</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬德鐘.md" title="wikilink">馬德鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></p></td>
 <td><p>梁向东</p></td>
 <td><p>軍佬<br />
 何Sir、程峰下屬<br />
@@ -302,11 +302,11 @@ Fion之姐<br />
 警長<br />
 何Sir、程峰下屬<br />
 劉順好之長子<br />
-鮑國平之兄，參見<a href="../Page/#面具色魔殺人案（第10-19集）.md" title="wikilink">面具色魔殺人案（第10-19集）</a><br />
+鮑國平之兄，參見<a href="https://zh.wikipedia.org/wiki/#面具色魔殺人案（第10-19集）" title="wikilink">面具色魔殺人案（第10-19集）</a><br />
 因其弟強姦陳三元致入院，被程峰毆打（第18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周暘.md" title="wikilink">周　暘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周暘" title="wikilink">周　暘</a></p></td>
 <td><p>陈永康</p></td>
 <td><p><strong>康仔</strong><br />
 警察<br />
@@ -336,17 +336,17 @@ Fion之姐<br />
 <tr class="even">
 <td><p><strong><a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a></strong></p></td>
 <td><p><strong>陳小生</strong></p></td>
-<td><p>參見<a href="../Page/#陳家.md" title="wikilink">陳家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#陳家" title="wikilink">陳家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/關詠荷.md" title="wikilink">關詠荷</a></strong></p></td>
 <td><p><strong>朱素娥</strong></p></td>
-<td><p>參見<a href="../Page/#余家.md" title="wikilink">余家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#余家" title="wikilink">余家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></strong></p></td>
 <td><p><strong>陳三元</strong></p></td>
-<td><p>參見<a href="../Page/#程家.md" title="wikilink">程家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳彥行.md" title="wikilink">陳彥行</a></p></td>
@@ -355,14 +355,14 @@ Fion之姐<br />
 成志超女友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/唐文龙.md" title="wikilink">唐文龙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐文龙" title="wikilink">唐文龙</a></p></td>
 <td><p>成志超</p></td>
 <td><p><strong>超人</strong><br />
 虐兒調查組探员<br />
 小龍女男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>鄭吉祥</p></td>
 <td><p><strong>吉仔</strong><br />
 虐兒調查組警员</p></td>
@@ -401,7 +401,7 @@ Fion之姐<br />
 <tr class="odd">
 <td><p><strong><a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a></strong></p></td>
 <td><p><strong>陳小生</strong></p></td>
-<td><p>參見<a href="../Page/#陳家.md" title="wikilink">陳家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#陳家" title="wikilink">陳家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁健平.md" title="wikilink">梁健平</a></p></td>
@@ -433,7 +433,7 @@ Fion之姐<br />
 <td><p>孤兒<br />
 電影美術指導<br />
 暗恋陳小生，於第19集與陳小生酒後發生關係，于第21集二人结婚，及後于第29集二人离婚。第31集重新追回小生惟被拒絕，第32集正式離婚。<br />
-曾家寶之暗恋对象，參見<a href="../Page/#投資陷阱（第6-10集）.md" title="wikilink">投資陷阱（第6-10集）</a><br />
+曾家寶之暗恋对象，參見<a href="https://zh.wikipedia.org/wiki/#投資陷阱（第6-10集）" title="wikilink">投資陷阱（第6-10集）</a><br />
 張叔明之徒兼前女友<br />
 Uncle Roy的契女</p></td>
 </tr>
@@ -451,7 +451,7 @@ Uncle Roy的契女</p></td>
 張叔明前女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳鍵鋒.md" title="wikilink">陳鍵鋒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a></p></td>
 <td><p>添</p></td>
 <td><p>沈翹同事</p></td>
 </tr>
@@ -466,14 +466,14 @@ Uncle Roy的契女</p></td>
 <td><p>常健康</p></td>
 <td><p>警察<br />
 單解心未婚夫<br />
-特別客串，参见<a href="../Page/反黑先锋.md" title="wikilink">反黑先锋</a>（第32集）</p></td>
+特別客串，参见<a href="https://zh.wikipedia.org/wiki/反黑先锋" title="wikilink">反黑先锋</a>（第32集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何韻詩.md" title="wikilink">何韻詩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何韻詩" title="wikilink">何韻詩</a></p></td>
 <td><p>單解心</p></td>
 <td><p>警察<br />
 常健康未婚妻<br />
-特別客串，参见<a href="../Page/反黑先锋.md" title="wikilink">反黑先锋</a>（第32集）</p></td>
+特別客串，参见<a href="https://zh.wikipedia.org/wiki/反黑先锋" title="wikilink">反黑先锋</a>（第32集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/郭卓樺.md" title="wikilink">郭卓樺</a></p></td>
@@ -491,22 +491,22 @@ Uncle Roy的契女</p></td>
 <td><p>神父（第1集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沙鳯.md" title="wikilink">沙　鳳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沙鳯" title="wikilink">沙　鳳</a></p></td>
 <td><p>七　嬸</p></td>
 <td><p>（第3集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吳亦謙.md" title="wikilink">吳亦謙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳亦謙" title="wikilink">吳亦謙</a></p></td>
 <td><p>-</p></td>
 <td><p>馬伕（第3集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳楚翹.md" title="wikilink">陳楚翹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳楚翹" title="wikilink">陳楚翹</a></p></td>
 <td><p>-</p></td>
 <td><p>妓女（第3集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉家聰.md" title="wikilink">劉家聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a></p></td>
 <td><p>-</p></td>
 <td><p>地產經紀（第4集）</p></td>
 </tr>
@@ -526,7 +526,7 @@ Uncle Roy的契女</p></td>
 <td><p>江太太（第5集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳月茹.md" title="wikilink">陳月茹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳月茹" title="wikilink">陳月茹</a></p></td>
 <td><p>-</p></td>
 <td><p>方太太（第5集）</p></td>
 </tr>
@@ -541,7 +541,7 @@ Uncle Roy的契女</p></td>
 <td><p>看更（第5，18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啓傑.md" title="wikilink">李啓傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啓傑" title="wikilink">李啓傑</a></p></td>
 <td><p>-</p></td>
 <td><p>「都市追擊」主持（第6，10集）</p></td>
 </tr>
@@ -551,7 +551,7 @@ Uncle Roy的契女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃蘊妍.md" title="wikilink">黃蘊妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃蘊妍" title="wikilink">黃蘊妍</a></p></td>
 <td><p>-</p></td>
 <td><p>記者（第6集）</p></td>
 </tr>
@@ -561,32 +561,32 @@ Uncle Roy的契女</p></td>
 <td><p>向沈翹追電影道具尾數（第6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>Sam</p></td>
 <td><p>（第6集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/傅楚卉.md" title="wikilink">傅楚卉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅楚卉" title="wikilink">傅楚卉</a></p></td>
 <td><p>Sandy</p></td>
 <td><p>（第6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁達祺.md" title="wikilink">梁達祺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁達祺" title="wikilink">梁達祺</a></p></td>
 <td><p>Rayman</p></td>
 <td><p>（第6集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李中希.md" title="wikilink">李中希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李中希" title="wikilink">李中希</a></p></td>
 <td><p>Kent</p></td>
 <td><p>（第6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳瑞華.md" title="wikilink">陳瑞華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳瑞華" title="wikilink">陳瑞華</a></p></td>
 <td><p>-</p></td>
 <td><p>售貨員（第6集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴少民.md" title="wikilink">戴少民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
 <td><p>張製片</p></td>
 <td><p><strong>Benny</strong>（第7，23集）</p></td>
 </tr>
@@ -596,7 +596,7 @@ Uncle Roy的契女</p></td>
 <td><p>舞小姐（第7集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳紫媚.md" title="wikilink">陳紫媚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳紫媚" title="wikilink">陳紫媚</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -606,17 +606,17 @@ Uncle Roy的契女</p></td>
 <td><p>部長（第7集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃俊紳.md" title="wikilink">黃俊紳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊紳" title="wikilink">黃俊紳</a></p></td>
 <td><p>華</p></td>
 <td><p>（第7集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊凱慈.md" title="wikilink">楊凱慈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊凱慈" title="wikilink">楊凱慈</a></p></td>
 <td><p>-</p></td>
 <td><p>新聞報導員（第8，10集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭國樑.md" title="wikilink">彭國樑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭國樑" title="wikilink">彭國樑</a></p></td>
 <td><p>-</p></td>
 <td><p>保鏢（第9集）</p></td>
 </tr>
@@ -626,12 +626,12 @@ Uncle Roy的契女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/霍佩雲.md" title="wikilink">霍佩雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍佩雲" title="wikilink">霍佩雲</a></p></td>
 <td><p>Mandy</p></td>
 <td><p>（第9集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳楚翹.md" title="wikilink">陳楚翹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳楚翹" title="wikilink">陳楚翹</a></p></td>
 <td><p>Mary</p></td>
 <td><p>（第9集）</p></td>
 </tr>
@@ -642,7 +642,7 @@ Uncle Roy的契女</p></td>
 臨床心理學家，亦負責向警察教授兒童心理課（第9，15，19，26，27集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林偉雄.md" title="wikilink">林偉雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林偉雄" title="wikilink">林偉雄</a></p></td>
 <td><p>-</p></td>
 <td><p>保鏢（第10集）</p></td>
 </tr>
@@ -652,12 +652,12 @@ Uncle Roy的契女</p></td>
 <td><p>（第10集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙淑儀.md" title="wikilink">趙淑儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙淑儀" title="wikilink">趙淑儀</a></p></td>
 <td><p>-</p></td>
 <td><p>記者（第10集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>-</p></td>
 <td><p>警察餐廳員工（第11集）</p></td>
 </tr>
@@ -687,12 +687,12 @@ Uncle Roy的契女</p></td>
 <td><p>的士司機（第12集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>Cat</p></td>
 <td><p>（第12集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃煒林.md" title="wikilink">黃煒林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃煒林" title="wikilink">黃煒林</a></p></td>
 <td><p>-</p></td>
 <td><p>醫生（第12集）</p></td>
 </tr>
@@ -707,7 +707,7 @@ Uncle Roy的契女</p></td>
 <td><p>收保護費的小混混（第13集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>-</p></td>
 <td><p>老闆娘（第13集）</p></td>
 </tr>
@@ -717,7 +717,7 @@ Uncle Roy的契女</p></td>
 <td><p>郵局主任（第13集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃仲匡.md" title="wikilink">黃仲匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃仲匡" title="wikilink">黃仲匡</a></p></td>
 <td><p>-</p></td>
 <td><p>報販（第13集）</p></td>
 </tr>
@@ -727,7 +727,7 @@ Uncle Roy的契女</p></td>
 <td><p>楊天佑的父親（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/温裕紅.md" title="wikilink">温裕紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/温裕紅" title="wikilink">温裕紅</a></p></td>
 <td><p>楊太太</p></td>
 <td><p>楊天佑的母親（第15集）</p></td>
 </tr>
@@ -737,22 +737,22 @@ Uncle Roy的契女</p></td>
 <td><p>法醫官（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黄月明.md" title="wikilink">黄月明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄月明" title="wikilink">黄月明</a></p></td>
 <td><p>Bonnie</p></td>
 <td><p>与程峰酒後发生一夜情（第15集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁輝宗.md" title="wikilink">梁輝宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁輝宗" title="wikilink">梁輝宗</a></p></td>
 <td><p>Sam</p></td>
 <td><p>楊安琪男友（第16集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳秀茹.md" title="wikilink">陳秀茹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳秀茹" title="wikilink">陳秀茹</a></p></td>
 <td><p>-</p></td>
 <td><p>啤酒女郎（第16集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李志華.md" title="wikilink">李志華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李志華" title="wikilink">李志華</a></p></td>
 <td><p>-</p></td>
 <td><p>醫生（第16集）</p></td>
 </tr>
@@ -784,12 +784,12 @@ Uncle Roy的契女</p></td>
 <td><p>導演（第19集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/官仲銘.md" title="wikilink">官仲銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/官仲銘" title="wikilink">官仲銘</a></p></td>
 <td><p>-</p></td>
 <td><p>製片（第19集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>阿　秋</p></td>
 <td><p>陳建安的同事（第21集）</p></td>
 </tr>
@@ -804,27 +804,27 @@ Uncle Roy的契女</p></td>
 <td><p>電視台女明星（第22集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/華忠男.md" title="wikilink">華忠男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華忠男" title="wikilink">華忠男</a></p></td>
 <td><p>洪　豹</p></td>
 <td><p>在建築工地開非法賭檔、放高利貸和設賣淫架步（第24集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伍燕妮.md" title="wikilink">伍燕妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍燕妮" title="wikilink">伍燕妮</a></p></td>
 <td><p>方小敏</p></td>
 <td><p>陳五福藝員訓練班同學（第24集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅楚卉.md" title="wikilink">傅楚卉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅楚卉" title="wikilink">傅楚卉</a></p></td>
 <td><p>-</p></td>
 <td><p>童家輝女友，在酒吧分手（第24集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/區家偉.md" title="wikilink">區家偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/區家偉" title="wikilink">區家偉</a></p></td>
 <td><p>Gary</p></td>
 <td><p>製片（第24集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/徐榮.md" title="wikilink">徐　榮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐榮" title="wikilink">徐　榮</a></p></td>
 <td><p>Peter</p></td>
 <td><p>電影男主角（第25集）</p></td>
 </tr>
@@ -834,7 +834,7 @@ Uncle Roy的契女</p></td>
 <td><p>製片（第26集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李中希.md" title="wikilink">李中希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李中希" title="wikilink">李中希</a></p></td>
 <td><p>Jones</p></td>
 <td><p>男明星（第26集）</p></td>
 </tr>
@@ -844,7 +844,7 @@ Uncle Roy的契女</p></td>
 <td><p>女明星（第26集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李燕珊.md" title="wikilink">李燕珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李燕珊" title="wikilink">李燕珊</a></p></td>
 <td><p>Shirley</p></td>
 <td><p>女明星（第26集）</p></td>
 </tr>
@@ -854,27 +854,27 @@ Uncle Roy的契女</p></td>
 <td><p>豬場老闆，救了墮海失憶的鮑國平（第26集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/凌子軒.md" title="wikilink">凌子軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌子軒" title="wikilink">凌子軒</a></p></td>
 <td><p>-</p></td>
 <td><p>男明星（第27集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>-</p></td>
 <td><p>男明星（第27集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李明麗.md" title="wikilink">李明麗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李明麗" title="wikilink">李明麗</a></p></td>
 <td><p>-</p></td>
 <td><p>女明星（第27集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王少萍.md" title="wikilink">王少萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王少萍" title="wikilink">王少萍</a></p></td>
 <td><p>-</p></td>
 <td><p>女明星（第27集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳肖明.md" title="wikilink">陳肖明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳肖明" title="wikilink">陳肖明</a></p></td>
 <td><p>-</p></td>
 <td><p>教員（第28集）</p></td>
 </tr>
@@ -884,12 +884,12 @@ Uncle Roy的契女</p></td>
 <td><p>徐天福的下屬（第29集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/勞少娟.md" title="wikilink">勞少娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勞少娟" title="wikilink">勞少娟</a></p></td>
 <td><p>Judy</p></td>
 <td><p>關保羅的女友（第29集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳秀茹.md" title="wikilink">陳秀茹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳秀茹" title="wikilink">陳秀茹</a></p></td>
 <td><p>Ada</p></td>
 <td><p>（第30集）</p></td>
 </tr>
@@ -904,7 +904,7 @@ Uncle Roy的契女</p></td>
 <td><p>徐天福的司機（第31集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何美好.md" title="wikilink">何美好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何美好" title="wikilink">何美好</a></p></td>
 <td><p>-</p></td>
 <td><p>警察（第31集）</p></td>
 </tr>
@@ -914,7 +914,7 @@ Uncle Roy的契女</p></td>
 <td><p>警察（第31集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁克遜.md" title="wikilink">梁克遜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁克遜" title="wikilink">梁克遜</a></p></td>
 <td><p>-</p></td>
 <td><p>律師（第31集）</p></td>
 </tr>
@@ -949,7 +949,7 @@ Uncle Roy的契女</p></td>
 於第5集因妨礙司法公正與接贓而被逮捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煒棋.md" title="wikilink">李煒棋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煒棋" title="wikilink">李煒棋</a></p></td>
 <td><p>李國基</p></td>
 <td><p><strong>Mark</strong><br />
 容小麗男友兼助手</p></td>
@@ -978,14 +978,14 @@ Uncle Roy的契女</p></td>
 黑社会老大</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黄凤琼.md" title="wikilink">黄凤琼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄凤琼" title="wikilink">黄凤琼</a></p></td>
 <td><p>谭珍妮</p></td>
 <td><p><strong>Jenny</strong><br />
 容小麗助手<br />
 於第1集被叶长胜所杀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>何志剛</p></td>
 <td><p><strong>細 Dee</strong><br />
 神風手下</p></td>
@@ -996,7 +996,7 @@ Uncle Roy的契女</p></td>
 <td><p>何志剛的爺爺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啓傑.md" title="wikilink">李啓傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啓傑" title="wikilink">李啓傑</a></p></td>
 <td><p>发　仔</p></td>
 <td><p>神風手下</p></td>
 </tr>
@@ -1040,7 +1040,7 @@ Uncle Roy的契女</p></td>
 於第10集因失足跌落樓梯而半身不遂</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方傑_(演員).md" title="wikilink">方　傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方傑_(演員)" title="wikilink">方　傑</a></p></td>
 <td><p>陳　泰</p></td>
 <td><p>董震英手下</p></td>
 </tr>
@@ -1056,7 +1056,7 @@ Uncle Roy的契女</p></td>
 於第8集被曾家寶绑架</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蒲茗藍.md" title="wikilink">蒲茗藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲茗藍" title="wikilink">蒲茗藍</a></p></td>
 <td><p>Jack</p></td>
 <td><p>董澤光跟班</p></td>
 </tr>
@@ -1081,10 +1081,10 @@ Uncle Roy的契女</p></td>
 <tr class="even">
 <td><p><a href="../Page/駱達華.md" title="wikilink">駱達華</a></p></td>
 <td><p><strong>鮑國平</strong></p></td>
-<td><p>鮑頂天之弟，參見<a href="../Page/#西九龍重案組.md" title="wikilink">西九龍重案組</a><br />
+<td><p>鮑頂天之弟，參見<a href="https://zh.wikipedia.org/wiki/#西九龍重案組" title="wikilink">西九龍重案組</a><br />
 劉順好之次子<br />
 翁文成之好友<br />
-自翁文成死后患有<a href="../Page/解離性人格疾患.md" title="wikilink">人格分裂</a></p></td>
+自翁文成死后患有<a href="https://zh.wikipedia.org/wiki/解離性人格疾患" title="wikilink">人格分裂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>翁文成</strong></p></td>
@@ -1093,11 +1093,11 @@ Uncle Roy的契女</p></td>
 强姦杨家宝、蔡杏兰、莫晶晶、陈三元<br />
 姦殺郭小娟、杨安琪<br />
 於第19集堕海失踪後失忆<br />
-參見<a href="../Page/#色魔回歸（第26集）.md" title="wikilink">色魔回歸（第26集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#色魔回歸（第26集）" title="wikilink">色魔回歸（第26集）</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅蘭.md" title="wikilink">羅　蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅　蘭</a></p></td>
 <td><p>劉順好</p></td>
 <td><p>鮑頂天、鮑國平之母</p></td>
 </tr>
@@ -1109,31 +1109,31 @@ Uncle Roy的契女</p></td>
 两年前因病去世</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p>冯老板</p></td>
 <td><p>警局餐廳老闆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周凱珊.md" title="wikilink">周凱珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凱珊" title="wikilink">周凱珊</a></p></td>
 <td><p>郭小娟</p></td>
 <td><p>警局餐廳老闆娘（28岁）<br />
 何宗耀之情妇<br />
 于第11集被鮑國平姦殺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/邓汝超.md" title="wikilink">邓汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邓汝超" title="wikilink">邓汝超</a></p></td>
 <td><p>何宗耀</p></td>
 <td><p>郭小娟之情夫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾慧云.md" title="wikilink">曾慧云</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾慧云" title="wikilink">曾慧云</a></p></td>
 <td><p>玲</p></td>
 <td><p>鮑頂天之前妻<br />
 虐打鲍国平<br />
 引致鲍国平患有精神病</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/邵卓尧.md" title="wikilink">邵卓尧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邵卓尧" title="wikilink">邵卓尧</a></p></td>
 <td><p>-</p></td>
 <td><p>玲之情夫</p></td>
 </tr>
@@ -1199,7 +1199,7 @@ Uncle Roy的契女</p></td>
 虹之情敵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚紹忠.md" title="wikilink">姚紹忠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚紹忠" title="wikilink">姚紹忠</a></p></td>
 <td><p>陳兆威</p></td>
 <td><p>陳建安、蔣秀蘭之子<br />
 長期受陳建安虐打<br />
@@ -1229,11 +1229,11 @@ Uncle Roy的契女</p></td>
 <td><p>鮑頂天之弟<br />
 劉順好之次子<br />
 翁文成之好友<br />
-自翁文成死后患有<a href="../Page/解離性人格疾患.md" title="wikilink">人格分裂</a></p></td>
+自翁文成死后患有<a href="https://zh.wikipedia.org/wiki/解離性人格疾患" title="wikilink">人格分裂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>翁文成</strong></p></td>
-<td><p>面具色魔，參見<a href="../Page/#面具色魔殺人案（第10-19集）.md" title="wikilink">面具色魔殺人案（第10-19集）</a><br />
+<td><p>面具色魔，參見<a href="https://zh.wikipedia.org/wiki/#面具色魔殺人案（第10-19集）" title="wikilink">面具色魔殺人案（第10-19集）</a><br />
 鮑國平所分裂出来的另一种人格<br />
 强姦杨家宝、蔡杏兰、莫晶晶、陈三元<br />
 姦殺郭小娟、杨安琪<br />
@@ -1331,7 +1331,7 @@ Uncle Roy的契女</p></td>
 于第32集被逮捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
 <td><p>紅　番</p></td>
 <td></td>
 </tr>

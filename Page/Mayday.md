@@ -1,17 +1,18 @@
-****是國際通用的[無線電通話](../Page/無線電.md "wikilink")。該訊號通常為[航海](../Page/航海.md "wikilink")、[航空器遇到危及性命的緊急情況時呼救所用](../Page/航空.md "wikilink")，但個別地區的[警察](../Page/警察.md "wikilink")、[消防](../Page/消防員.md "wikilink")、[交通相關人員亦以此作為求援訊號](../Page/交通.md "wikilink")。發出訊號時必須連呼三次（“Mayday,
+****是國際通用的[無線電通話](https://zh.wikipedia.org/wiki/無線電 "wikilink")。該訊號通常為[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、[航空器遇到危及性命的緊急情況時呼救所用](../Page/航空.md "wikilink")，但個別地區的[警察](../Page/警察.md "wikilink")、[消防](../Page/消防員.md "wikilink")、[交通相關人員亦以此作為求援訊號](../Page/交通.md "wikilink")。發出訊號時必須連呼三次（“Mayday,
 Mayday, Mayday”）避免誤聽、混淆或噪音干擾等情況，以及將真正的求援訊號與其他只是字面上描述到求援訊號的正常通訊作出區分。
 
 ## 歷史
 
-「Mayday」作為求救訊號為[英國人莫克佛](../Page/英國人.md "wikilink")（Federick Stanley
-Mockford）所創。1923年他於[克羅伊登機場任高級](../Page/克羅伊登機場.md "wikilink")[無線電通訊員](../Page/無線電.md "wikilink")，機場要求他提出一個簡單明瞭的單字給所有機師及地勤人員作為緊急求救訊號。當時該機場的大部分航線為來往[法國](../Page/法國.md "wikilink")[巴黎-勒布尔热机场](../Page/巴黎-勒布尔热机场.md "wikilink")，故他取法文“venez
-m'aider（速來援助）”\[1\]的“m'aider”改為音近的[英文單詞](../Page/英文.md "wikilink")“Mayday”作為提議。
+「Mayday」作為求救訊號為[英國人莫克佛](https://zh.wikipedia.org/wiki/英國人 "wikilink")（Federick
+Stanley
+Mockford）所創。1923年他於[克羅伊登機場任高級](../Page/克羅伊登機場.md "wikilink")[無線電通訊員](https://zh.wikipedia.org/wiki/無線電 "wikilink")，機場要求他提出一個簡單明瞭的單字給所有機師及地勤人員作為緊急求救訊號。當時該機場的大部分航線為來往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎-勒布尔热机场](../Page/巴黎-勒布尔热机场.md "wikilink")，故他取法文“venez
+m'aider（速來援助）”\[1\]的“m'aider”改為音近的[英文單詞](https://zh.wikipedia.org/wiki/英文 "wikilink")“Mayday”作為提議。
 
 ## 使用
 
 當船隻、航機遇上即時的嚴重危難、威脅人命安全、無法自救等十萬火急，需要立即宣告周知相關單位並獲取救援時，應發出Mayday求救訊號。例如船舶正在沉沒、遇劫、發生大火、爆炸；或航空器因鳥擊、機械故障、急遽失壓、引擎失效等足以擴大危害飛行的緊急情況時，都應該使用。
 
-Mayday求救是透過無線電通話發出。船隻或飛機在任何頻道發出Mayday訊號都可被聽懂。世界各地海事救援中心、航空管制中心、[海巡部隊等專責救援組織](../Page/海巡.md "wikilink")，都有二十四小時專人監聽特定的專用遇險[頻道](../Page/頻道.md "wikilink")。海事救援使用的是[中頻](../Page/中頻.md "wikilink")2182千[赫及海事](../Page/赫.md "wikilink")[甚高頻](../Page/甚高頻.md "wikilink")（VHF）第十六频道（156.8
+Mayday求救是透過無線電通話發出。船隻或飛機在任何頻道發出Mayday訊號都可被聽懂。世界各地海事救援中心、航空管制中心、[海巡部隊等專責救援組織](https://zh.wikipedia.org/wiki/海巡 "wikilink")，都有二十四小時專人監聽特定的專用遇險[頻道](https://zh.wikipedia.org/wiki/頻道 "wikilink")。海事救援使用的是[中頻](https://zh.wikipedia.org/wiki/中頻 "wikilink")2182千[赫及海事](https://zh.wikipedia.org/wiki/赫 "wikilink")[甚高頻](https://zh.wikipedia.org/wiki/甚高頻 "wikilink")（VHF）第十六频道（156.8
 MHz）；航空使用的是121.5 MHz及243.0 MHz;業餘無線電使用145.0及431.0 MHz。
 
 發出Mayday訊號時，先呼叫三次（Mayday, Mayday,
@@ -32,10 +33,10 @@ Pan-Pan, Pan-Pan）。有些時候搜救機構亦會以Pan-Pan代表發報緊急
 
 法語發音\[si'lɑ̃s\]；英文寫成Seelonce，發音\[si:'lɔns\]。發出求救或作出回應的救援機構可能使用以下訊號：**Seelonce
 Mayday**（**Silence, M'aider**）或**Seelonce Distress**（**Silence
-Détresse**）：（法文：靜默－求救）宣佈該頻只供求救的船隻，對答的救援機構或协助救援的船隻使用，其他一般通訊暫停使用（[無線電靜默](../Page/無線電靜默.md "wikilink")），直至宣佈**Seelonce
+Détresse**）：（法文：靜默－求救）宣佈該頻只供求救的船隻，對答的救援機構或协助救援的船隻使用，其他一般通訊暫停使用（[無線電靜默](https://zh.wikipedia.org/wiki/無線電靜默 "wikilink")），直至宣佈**Seelonce
 feenee**（**Silence fini**，法文：靜默－完結）。
 
-而航空管制中另有宣佈[無線電靜默以及解除靜默狀態的信號](../Page/無線電靜默.md "wikilink")。**Stop
+而航空管制中另有宣佈[無線電靜默以及解除靜默狀態的信號](https://zh.wikipedia.org/wiki/無線電靜默 "wikilink")。**Stop
 Transmitting—Mayday**或**Stop
 Transmitting—Distress**（意為“停止發話，有遇險活動”）用於通知所轄其他航空器停止通話，以保證只有遇險航空器和搜救機構使用該頻率。**Distress
 Traffic Ended**則等效于“Silence fini”，意為“遇險狀態結束”。

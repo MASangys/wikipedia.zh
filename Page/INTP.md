@@ -1,6 +1,6 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INTP**（內向／直覺／思考／感知）是一種基於[榮格的](../Page/榮格.md "wikilink")[分析心理學所發展出來的](../Page/分析心理學.md "wikilink")[MBTI](../Page/MBTI.md "wikilink")、[凯尔西气质分类及](../Page/凯尔西气质分类.md "wikilink")[社會人格學的人格型態](../Page/社會人格學.md "wikilink")。\[1\]根據[大卫·凯尔西](../Page/大卫·凯尔西.md "wikilink")（David
-Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](../Page/理性型.md "wikilink")「架構師」（[Architect](../Page/w:en:Architect_\(role_variant\).md "wikilink")），在美國人口中约占3.3%。
+**INTP**（內向／直覺／思考／感知）是一種基於[榮格的](https://zh.wikipedia.org/wiki/榮格 "wikilink")[分析心理學所發展出來的](https://zh.wikipedia.org/wiki/分析心理學 "wikilink")[MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")、[凯尔西气质分类及](https://zh.wikipedia.org/wiki/凯尔西气质分类 "wikilink")[社會人格學的人格型態](https://zh.wikipedia.org/wiki/社會人格學 "wikilink")。\[1\]根據[大卫·凯尔西](https://zh.wikipedia.org/wiki/大卫·凯尔西 "wikilink")（David
+Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](https://zh.wikipedia.org/wiki/理性型 "wikilink")「架構師」（[Architect](https://zh.wikipedia.org/wiki/w:en:Architect_\(role_variant\) "wikilink")），在美國人口中约占3.3%。
 
 ## MBTI偏好
 
@@ -12,17 +12,17 @@ Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](../Page/理�
 ## INTP的特征
 
 [Einstein1921_by_F_Schmutzer_4.jpg](https://zh.wikipedia.org/wiki/File:Einstein1921_by_F_Schmutzer_4.jpg "fig:Einstein1921_by_F_Schmutzer_4.jpg")
-INTP是安靜、有思想、善於解析的個體。他們傾向於独處很長時間，尋找問題的解決方案。他們對系統及事情如何運作十分好奇。因此，他們中經常有人從事和[科學](../Page/科學.md "wikilink")、[建築和](../Page/建築.md "wikilink")[法律相關的職業](../Page/法律.md "wikilink")。INTP通常在社交場合或照顧他人的職業中不會很自在，但他們喜歡那些和他們有相同興趣的同伴。無論對他們自己還是對别人，他們都推崇独立自主。當他們嘗試一件事的時候，可能會被他人阻攔要求他們改變。他們傾向於對[官僚主義](../Page/官僚主義.md "wikilink")、森嚴的[等級制度和](../Page/等級制度.md "wikilink")[辦公室政治不耐煩](../Page/辦公室政治.md "wikilink")。INTP極少在意頭銜和勳章，這些東西總是被他們認為是不正當的。在求知的過程中，INTP通常會懷疑權威。他們接受一個觀念，是因為其優點，而非因為傳統或權威。他們對非邏輯性，或成為求知業障的社交場合很少有耐心。這會讓[SJ型的人覺得他們古怪](../Page/監護人_\(氣質類型\).md "wikilink")，因為SJ型的人傾向於順從權威、傳統和群體。INTP喜歡在不拘禮節的情況下工作，和他人完全平等。\[6\]
+INTP是安靜、有思想、善於解析的個體。他們傾向於独處很長時間，尋找問題的解決方案。他們對系統及事情如何運作十分好奇。因此，他們中經常有人從事和[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[建築和](https://zh.wikipedia.org/wiki/建築 "wikilink")[法律相關的職業](../Page/法律.md "wikilink")。INTP通常在社交場合或照顧他人的職業中不會很自在，但他們喜歡那些和他們有相同興趣的同伴。無論對他們自己還是對别人，他們都推崇独立自主。當他們嘗試一件事的時候，可能會被他人阻攔要求他們改變。他們傾向於對[官僚主義](https://zh.wikipedia.org/wiki/官僚主義 "wikilink")、森嚴的[等級制度和](https://zh.wikipedia.org/wiki/等級制度 "wikilink")[辦公室政治不耐煩](../Page/辦公室政治.md "wikilink")。INTP極少在意頭銜和勳章，這些東西總是被他們認為是不正當的。在求知的過程中，INTP通常會懷疑權威。他們接受一個觀念，是因為其優點，而非因為傳統或權威。他們對非邏輯性，或成為求知業障的社交場合很少有耐心。這會讓[SJ型的人覺得他們古怪](https://zh.wikipedia.org/wiki/監護人_\(氣質類型\) "wikilink")，因為SJ型的人傾向於順從權威、傳統和群體。INTP喜歡在不拘禮節的情況下工作，和他人完全平等。\[6\]
 
 INTP通過清晰表述的原則來組織他們對任何話題的理解，他們自己也經常被理論結構所吸引。在自己鉸接起這些原則之後，他們將具備用簡單清晰的語言闡述任何複雜概念的能力，特别是通過寫作。同時，他們對複雜事物的捕捉能力也可能讓他們對簡單的概念作出過度細節化的解釋，而聽者則會認為INTP把事情比原本需要的弄得更复雜。對INTP來說，他們則是在提出所有相關的事物，或者試圖讓概念更加明確。\[7\]
 
 因為他們獨立自主的天性，INTP喜歡獨自工作，不管他們在一個團體中處於領導還是從屬地位。在和他人的溝通中，如果INTP太過專注於搜集信息，他們會看起來健忘、冷淡，不合作——當他們事實上在集中精神傾聽和理解的時候。然而，INTP的外傾直覺賦予了他們機智，特别是在運用語言上。他們可以是迷人的，甚至是在安靜而有所保留的時候。他們朋友和同事對他們的高度尊敬可能會令他們吃驚。\[8\]
 
-INTP通常被驅使從所有相關的角度來理解一場談話。面對明顯不合理的觀點，他們的不耐煩可能會令他們破壞一場[辯論](../Page/辯論.md "wikilink")。當INTP覺得自己被侮辱了的時候，他們可能用唐突、尖銳的批評來作出反應。在這樣的事件之後，INTP很有可能為對方的反應而疑惑不解。他們打破了辯論的規則，曝露了自己不加克制的激烈[感情](../Page/感情.md "wikilink")。對INTP來說這就是問題的關鍵：他們相信，不被恰當控制的感情有害無益。當INTP們將感情作為他們內在世界的一種重要體驗時，或有時和他人分享自己的感受時，他們仍然相信，感情不該在合乎邏輯的討論中佔有一席之地，或以一種對他們不利的方式被表達出來。
+INTP通常被驅使從所有相關的角度來理解一場談話。面對明顯不合理的觀點，他們的不耐煩可能會令他們破壞一場[辯論](../Page/辯論.md "wikilink")。當INTP覺得自己被侮辱了的時候，他們可能用唐突、尖銳的批評來作出反應。在這樣的事件之後，INTP很有可能為對方的反應而疑惑不解。他們打破了辯論的規則，曝露了自己不加克制的激烈[感情](https://zh.wikipedia.org/wiki/感情 "wikilink")。對INTP來說這就是問題的關鍵：他們相信，不被恰當控制的感情有害無益。當INTP們將感情作為他們內在世界的一種重要體驗時，或有時和他人分享自己的感受時，他們仍然相信，感情不該在合乎邏輯的討論中佔有一席之地，或以一種對他們不利的方式被表達出來。
 
 ### 有名的INTP
 
-據柯爾塞說，根據行為舉止，有名的INTP可能包括[李奧納多·達文西](../Page/李奧納多·達文西.md "wikilink")、[阿爾伯特·愛因斯坦](../Page/阿爾伯特·愛因斯坦.md "wikilink")、[查爾斯·達爾文和](../Page/查爾斯·達爾文.md "wikilink")[托馬斯·傑弗遜](../Page/托馬斯·傑弗遜.md "wikilink")，[勒奈·笛卡尔](../Page/勒内·笛卡尔.md "wikilink")。更多例子請見[有名的架構師](../Page/架構師_\(角色變異\)#有名的架構師.md "wikilink")。
+據柯爾塞說，根據行為舉止，有名的INTP可能包括[李奧納多·達文西](https://zh.wikipedia.org/wiki/李奧納多·達文西 "wikilink")、[阿爾伯特·愛因斯坦](https://zh.wikipedia.org/wiki/阿爾伯特·愛因斯坦 "wikilink")、[查爾斯·達爾文和](https://zh.wikipedia.org/wiki/查爾斯·達爾文 "wikilink")[托馬斯·傑弗遜](https://zh.wikipedia.org/wiki/托馬斯·傑弗遜 "wikilink")，[勒奈·笛卡尔](../Page/勒内·笛卡尔.md "wikilink")。更多例子請見[有名的架構師](https://zh.wikipedia.org/wiki/架構師_\(角色變異\)#有名的架構師 "wikilink")。
 
 ## MBTI認知功能
 
@@ -65,9 +65,9 @@ Fe尋找社會上的聯繫，並用禮貌、體貼、得體的舉止營造和諧
 
 ## 相關條目
 
-  - [凱爾西氣質類型測試](../Page/凱爾西氣質類型測試.md "wikilink")
-  - [MBTI](../Page/MBTI.md "wikilink")
-  - [社會人格學](../Page/社會人格學.md "wikilink")
+  - [凱爾西氣質類型測試](https://zh.wikipedia.org/wiki/凱爾西氣質類型測試 "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
+  - [社會人格學](https://zh.wikipedia.org/wiki/社會人格學 "wikilink")
 
 ## 參考注釋
 

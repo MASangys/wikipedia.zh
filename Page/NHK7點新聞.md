@@ -1,4 +1,4 @@
-**NHK7點新聞**（，），是[日本放送協會](../Page/日本放送協會.md "wikilink")（NHK）製作的一節晚間[新聞節目](../Page/新聞節目.md "wikilink")，於1993年4月5日開始，每天在[日本標準時間](../Page/日本標準時間.md "wikilink")19:00-19:30（[JST](../Page/JST.md "wikilink")）於[NHK綜合頻道雙語播送](../Page/NHK綜合頻道.md "wikilink")，並帶有即時字幕及英語同譯；通稱《****》，而在某些日本電視節目表上簡稱《**N7**》。日本境外地區的收視戶亦可經由[NHK
+**NHK7點新聞**（，），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）製作的一節晚間[新聞節目](../Page/新聞節目.md "wikilink")，於1993年4月5日開始，每天在[日本標準時間](../Page/日本標準時間.md "wikilink")19:00-19:30（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[NHK綜合頻道雙語播送](../Page/NHK綜合頻道.md "wikilink")，並帶有即時字幕及英語同譯；通稱《****》，而在某些日本電視節目表上簡稱《**N7**》。日本境外地區的收視戶亦可經由[NHK
 World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 概要
@@ -39,22 +39,22 @@ World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 <td><p>主播（週末、假日）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高井正智.md" title="wikilink">高井正智</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高井正智" title="wikilink">高井正智</a></p></td>
 <td><p>2017 - 現在</p></td>
 <td><p>副主播（平日）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/井上裕貴.md" title="wikilink">井上裕貴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井上裕貴" title="wikilink">井上裕貴</a></p></td>
 <td><p>2017 - 現在</p></td>
 <td><p>副主播（週末、假日）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/平野有海.md" title="wikilink">平野有海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/平野有海" title="wikilink">平野有海</a></p></td>
 <td><p>2017 - 現在</p></td>
 <td><p>天气预报（平日）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/國本末華.md" title="wikilink">國本末華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/國本末華" title="wikilink">國本末華</a></p></td>
 <td><p>2017 - 現在</p></td>
 <td><p>天气预报（週末、假日）</p></td>
 </tr>
@@ -77,7 +77,7 @@ World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 
 <!-- end list -->
 
-  - 開始前的時鐘倒數以[東京鐵塔的實景為背景](../Page/東京鐵塔.md "wikilink")，秒針指向七時整時，時鐘向前射出世界和[日本](../Page/日本.md "wikilink")[地圖](../Page/地圖.md "wikilink")，接著是報導新聞頭條，最後進入以藍為底的節目標誌。片頭曲亦改變。
+  - 開始前的時鐘倒數以[東京鐵塔的實景為背景](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")，秒針指向七時整時，時鐘向前射出世界和[日本](../Page/日本.md "wikilink")[地圖](https://zh.wikipedia.org/wiki/地圖 "wikilink")，接著是報導新聞頭條，最後進入以藍為底的節目標誌。片頭曲亦改變。
   - 音樂：杉本竜一
 
 <!-- end list -->
@@ -133,7 +133,7 @@ World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 關聯條目
 
-  - [NHK晚間新聞](../Page/NHK晚間新聞.md "wikilink")（前身節目）
+  - [NHK晚間新聞](https://zh.wikipedia.org/wiki/NHK晚間新聞 "wikilink")（前身節目）
 
 [Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink")
 [Category:1993年日本電視節目](https://zh.wikipedia.org/wiki/Category:1993年日本電視節目 "wikilink")

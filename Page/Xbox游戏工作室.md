@@ -1,9 +1,9 @@
 **Xbox游戏工作室**（），原名**微軟工作室**（Microsoft Studios）、**微軟遊戲工作室**（Microsoft
 Game Studios）和**微軟遊戲**（Microsoft
-Games），是[微軟的全資子公司](../Page/微軟.md "wikilink")，负责[Windows](../Page/Microsoft_Windows.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Xbox
+Games），是[微軟的全資子公司](https://zh.wikipedia.org/wiki/微軟 "wikilink")，负责[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Xbox
-One多个平台遊戲的](../Page/Xbox_One.md "wikilink")[開發與](../Page/開發.md "wikilink")[發行](../Page/發行.md "wikilink")。Xbox游戏工作室為數個微軟所有的第一方開發商發行遊戲，包括了[Lionhead
-Studios與](../Page/Lionhead_Studios.md "wikilink")[Rare](../Page/Rare.md "wikilink")，亦有發行由如[Bioware與](../Page/Bioware.md "wikilink")[Bizarre
+One多个平台遊戲的](../Page/Xbox_One.md "wikilink")[開發與](https://zh.wikipedia.org/wiki/開發 "wikilink")[發行](https://zh.wikipedia.org/wiki/發行 "wikilink")。Xbox游戏工作室為數個微軟所有的第一方開發商發行遊戲，包括了[Lionhead
+Studios與](../Page/Lionhead_Studios.md "wikilink")[Rare](../Page/Rare.md "wikilink")，亦有發行由如[Bioware與](https://zh.wikipedia.org/wiki/Bioware "wikilink")[Bizarre
 Creations等第三方開發商製作的遊戲](../Page/Bizarre_Creations.md "wikilink")。
 
 ## 历史
@@ -14,23 +14,23 @@ Creations等第三方開發商製作的遊戲](../Page/Bizarre_Creations.md "wik
 Studios](../Page/Lionhead_Studios.md "wikilink")，他們希望以此加強[Xbox
 360的發佈量](../Page/Xbox_360.md "wikilink")。微軟亦在2006年收購了遊戲內置廣告公司。
 
-微軟工作室在2014年9月15日宣布以25億美元收購當前十分有名的[Minecraft的製作團隊](../Page/Minecraft.md "wikilink")[Mojang](../Page/Mojang.md "wikilink")。
+微軟工作室在2014年9月15日宣布以25億美元收購當前十分有名的[Minecraft的製作團隊](https://zh.wikipedia.org/wiki/Minecraft "wikilink")[Mojang](../Page/Mojang.md "wikilink")。
 
-在2018年[E3发布会上](../Page/E3.md "wikilink")，微软宣布已收购了四家游戏工作室：（Undead
-Labs）、[游乐场游戏工作室](../Page/游乐场游戏工作室.md "wikilink") (Playground
-Games)、[忍者理论](../Page/忍者理论.md "wikilink") (Ninja Theory)
-和，\[1\]并成立由前任[晶体动力总监Darrell](../Page/晶体动力.md "wikilink")
+在2018年[E3发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，微软宣布已收购了四家游戏工作室：（Undead
+Labs）、[游乐场游戏工作室](https://zh.wikipedia.org/wiki/游乐场游戏工作室 "wikilink")
+(Playground Games)、[忍者理论](https://zh.wikipedia.org/wiki/忍者理论 "wikilink")
+(Ninja Theory) 和，\[1\]并成立由前任[晶体动力总监Darrell](../Page/晶体动力.md "wikilink")
 Gallagher领导的新工作室[The
-Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
+Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
 
-2018年11月，微软宣布收购[黑曜石娱乐和](../Page/黑曜石娱乐.md "wikilink")[InXile娛樂](../Page/InXile娛樂.md "wikilink")\[3\]。
+2018年11月，微软宣布收购[黑曜石娱乐和](../Page/黑曜石娱乐.md "wikilink")[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")\[3\]。
 
 ## 內部工作室
 
   - **[Rare](../Page/Rare.md "wikilink")** -
-    [黄金眼007](../Page/黄金眼007.md "wikilink")、[殺手本能系列](../Page/殺手本能.md "wikilink")，微軟於2002年从[任天堂收购而來](../Page/任天堂.md "wikilink")。
-  - **[Turn 10](../Page/Turn_10.md "wikilink")** -
-    [極限競速系列](../Page/極限競速系列.md "wikilink")，微軟於2004年建立的工作室，目的是為[Xbox家族打造出色的競速遊戲](../Page/Xbox.md "wikilink")。
+    [黄金眼007](../Page/黄金眼007.md "wikilink")、[殺手本能系列](https://zh.wikipedia.org/wiki/殺手本能 "wikilink")，微軟於2002年从[任天堂收购而來](../Page/任天堂.md "wikilink")。
+  - **[Turn 10](https://zh.wikipedia.org/wiki/Turn_10 "wikilink")** -
+    [極限競速系列](../Page/極限競速系列.md "wikilink")，微軟於2004年建立的工作室，目的是為[Xbox家族打造出色的競速遊戲](https://zh.wikipedia.org/wiki/Xbox "wikilink")。
   - **[343 Industries](../Page/343_Industries.md "wikilink")** -
     自Bungie獨立之後，設立以開發未來的[最後一戰系列作品的遊戲工作室](../Page/最後一戰系列.md "wikilink")，成立于2007年。
   - **[Launchworks](../Page/Launchworks.md "wikilink")** - 2008年成立。
@@ -38,17 +38,20 @@ Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
     接手[战争机器系列](../Page/戰爭機器4.md "wikilink")，微软于2011年收购，当时更名为“微软游戏工作室温哥华”，后在2014年更为现公司名。
   - **[Mojang](../Page/Mojang.md "wikilink")** -
     [我的世界](../Page/我的世界.md "wikilink")，微软于2014年收购。
-  - **[游乐场游戏工作室](../Page/游乐场游戏工作室.md "wikilink")** - [极限竞速
-    地平线系列](../Page/极限竞速_地平线.md "wikilink")，微软于2018年收购。
+  - **[游乐场游戏工作室](https://zh.wikipedia.org/wiki/游乐场游戏工作室 "wikilink")** -
+    [极限竞速
+    地平线系列](https://zh.wikipedia.org/wiki/极限竞速_地平线 "wikilink")，微软于2018年收购。
   - **[忍者理論](../Page/忍者理論.md "wikilink")** -
-    [地狱之刃](../Page/地狱之刃：塞娜的献祭.md "wikilink")、[DmC：惡魔獵人](../Page/DmC：惡魔獵人.md "wikilink")，微软于2018年收购。
+    [地狱之刃](https://zh.wikipedia.org/wiki/地狱之刃：塞娜的献祭 "wikilink")、[DmC：惡魔獵人](../Page/DmC：惡魔獵人.md "wikilink")，微软于2018年收购。
   - **** - 系列，微软于2018年收购。
   - **** - ，微软于2018年收购。
-  - **[The Initiative](../Page/The_Initiative.md "wikilink")** -
-    2018年成立。
+  - **[The
+    Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")**
+    - 2018年成立。
   - **[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink")** -
     [辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")、系列，微软于2018年收购。
-  - **[InXile娛樂](../Page/InXile娛樂.md "wikilink")** - ，微软于2018年收购。
+  - **[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")** -
+    ，微软于2018年收购。
 
 ## 曾經擁有的內部工作室
 
@@ -59,11 +62,12 @@ Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
     ，於2007年10月1日脫離，成為獨立開發商。
   - **[Carbonated Games](../Page/Carbonated_Games.md "wikilink")** -
     旋轉泡泡球、[UNO](../Page/UNO.md "wikilink")，於2008年3月27日解散。
-  - **[Digital Anvil](../Page/Digital_Anvil.md "wikilink")** -
+  - **[Digital
+    Anvil](https://zh.wikipedia.org/wiki/Digital_Anvil "wikilink")** -
     於2006年1月31日解散。
   - **[全效工作室](../Page/全效工作室.md "wikilink")** -
-    [世紀帝國系列](../Page/世紀帝國.md "wikilink")、[神話世紀系列](../Page/神話世紀.md "wikilink")、[Halo
-    Wars](../Page/Halo_Wars.md "wikilink")，於2008年9月9日關閉，成員回歸總部或是由微软帮助另尋出路。
+    [世紀帝國系列](https://zh.wikipedia.org/wiki/世紀帝國 "wikilink")、[神話世紀系列](https://zh.wikipedia.org/wiki/神話世紀 "wikilink")、[Halo
+    Wars](https://zh.wikipedia.org/wiki/Halo_Wars "wikilink")，於2008年9月9日關閉，成員回歸總部或是由微软帮助另尋出路。
   - **[Indie Built](../Page/Indie_Built.md "wikilink")** -
     2001年10月賣給[Take
     2](../Page/Take-Two_Interactive.md "wikilink")。
@@ -87,108 +91,129 @@ Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
 
 ### PC
 
-  - [帝国时代](../Page/帝国时代.md "wikilink") (1997年10月15日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink") (1997年10月15日)
+    - [全效工作室](../Page/全效工作室.md "wikilink")
 
-      - [世紀帝國:羅馬霸主](../Page/帝国时代：罗马复兴.md "wikilink") (1998年11月5日) -
-        [全效工作室](../Page/全效工作室.md "wikilink")
+      - [世紀帝國:羅馬霸主](https://zh.wikipedia.org/wiki/帝国时代：罗马复兴 "wikilink")
+        (1998年11月5日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [帝国时代:金版](../Page/帝国时代:金版.md "wikilink") (1999年8月24日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [帝国时代:金版](https://zh.wikipedia.org/wiki/帝国时代:金版 "wikilink")
+    (1999年8月24日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [帝国时代II:帝王世紀](../Page/帝国时代II:帝王世紀.md "wikilink") (1999年10月16日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [帝国时代II:帝王世紀](https://zh.wikipedia.org/wiki/帝国时代II:帝王世紀 "wikilink")
+    (1999年10月16日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-      - [帝国时代II:征服者入侵](../Page/帝国时代II:征服者入侵.md "wikilink") (2000年8月25日)
-        - [全效工作室](../Page/全效工作室.md "wikilink")
+      - [帝国时代II:征服者入侵](https://zh.wikipedia.org/wiki/帝国时代II:征服者入侵 "wikilink")
+        (2000年8月25日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [帝国时代III](../Page/帝国时代III.md "wikilink") (2005年10月18日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [帝国时代III](https://zh.wikipedia.org/wiki/帝国时代III "wikilink")
+    (2005年10月18日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-      - [帝国时代III:群酋爭霸](../Page/帝国时代III:群酋爭霸.md "wikilink") (2006年) -
-        [全效工作室](../Page/全效工作室.md "wikilink")
-      - [帝国时代III:亚洲王朝](../Page/帝国时代III:亚洲王朝.md "wikilink") (2007年) -
-        [全效工作室](../Page/全效工作室.md "wikilink")
+      - [帝国时代III:群酋爭霸](https://zh.wikipedia.org/wiki/帝国时代III:群酋爭霸 "wikilink")
+        (2006年) - [全效工作室](../Page/全效工作室.md "wikilink")
+      - [帝国时代III:亚洲王朝](https://zh.wikipedia.org/wiki/帝国时代III:亚洲王朝 "wikilink")
+        (2007年) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [帝国时代III收藏版](../Page/帝国时代III收藏版.md "wikilink") (2005年10月18日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [帝国时代III收藏版](https://zh.wikipedia.org/wiki/帝国时代III收藏版 "wikilink")
+    (2005年10月18日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [神話世紀](../Page/神話世紀.md "wikilink") (2002年10月31日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [神話世紀](https://zh.wikipedia.org/wiki/神話世紀 "wikilink") (2002年10月31日)
+    - [全效工作室](../Page/全效工作室.md "wikilink")
 
-      - [神話世紀:泰坦](../Page/神話世紀:泰坦.md "wikilink") (2003年9月30日) -
-        [全效工作室](../Page/全效工作室.md "wikilink")
+      - [神話世紀:泰坦](https://zh.wikipedia.org/wiki/神話世紀:泰坦 "wikilink")
+        (2003年9月30日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [神話世紀金版](../Page/神話世紀金版.md "wikilink") (2004年6月30日) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [神話世紀金版](https://zh.wikipedia.org/wiki/神話世紀金版 "wikilink")
+    (2004年6月30日) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [帝国时代Online](../Page/帝国时代Online.md "wikilink") (2011年8月16日) -
-    [羅伯特娛樂](../Page/羅伯特娛樂.md "wikilink")
+  - [帝国时代Online](https://zh.wikipedia.org/wiki/帝国时代Online "wikilink")
+    (2011年8月16日) - [羅伯特娛樂](../Page/羅伯特娛樂.md "wikilink")
 
-  - [心靈殺手](../Page/心靈殺手.md "wikilink") (2007年) - [Remedy
-    Entertainment](../Page/Remedy_Entertainment.md "wikilink")
+  - [心靈殺手](https://zh.wikipedia.org/wiki/心靈殺手 "wikilink") (2007年) -
+    [Remedy
+    Entertainment](https://zh.wikipedia.org/wiki/Remedy_Entertainment "wikilink")
 
-  - [怒首領蜂MAXINUM](../Page/怒首領蜂MAXINUM.md "wikilink")(2012年) -
+  - [怒首領蜂MAXINUM](https://zh.wikipedia.org/wiki/怒首領蜂MAXINUM "wikilink")(2012年)
+    -
 
   - (2000年3月16日)
 
-  - [Asheron's Call](../Page/Asheron's_Call.md "wikilink") (1999年12月1日)
-    - [Turbine](../Page/Turbine.md "wikilink")
+  - [Asheron's
+    Call](https://zh.wikipedia.org/wiki/Asheron's_Call "wikilink")
+    (1999年12月1日) -
+    [Turbine](https://zh.wikipedia.org/wiki/Turbine "wikilink")
 
-  - [Asheron's Call 2](../Page/Asheron's_Call_2.md "wikilink")
+  - [Asheron's Call
+    2](https://zh.wikipedia.org/wiki/Asheron's_Call_2 "wikilink")
 
-  - [Chip's Challenge](../Page/Chip's_Challenge.md "wikilink") (1989年)
+  - [Chip's
+    Challenge](https://zh.wikipedia.org/wiki/Chip's_Challenge "wikilink")
+    (1989年)
 
-  - [Close Combat](../Page/Close_Combat.md "wikilink") (1996年) - [Atomic
-    Games](../Page/Atomic_Games.md "wikilink")
+  - [Close
+    Combat](https://zh.wikipedia.org/wiki/Close_Combat "wikilink")
+    (1996年) - [Atomic
+    Games](https://zh.wikipedia.org/wiki/Atomic_Games "wikilink")
 
   - [Close Combat: A Bridge Too
-    Far](../Page/Close_Combat:_A_Bridge_Too_Far.md "wikilink") (1997年) -
-    Atomic Games
+    Far](https://zh.wikipedia.org/wiki/Close_Combat:_A_Bridge_Too_Far "wikilink")
+    (1997年) - Atomic Games
 
   - [Close Combat III: The Russian
-    Front](../Page/Close_Combat_III:_The_Russian_Front.md "wikilink")
+    Front](https://zh.wikipedia.org/wiki/Close_Combat_III:_The_Russian_Front "wikilink")
     (1998年) - Atomic Games
 
   - [Combat Flight Simulator: WWII Europe
-    Series](../Page/Combat_Flight_Simulator.md "wikilink") (1998年)
+    Series](https://zh.wikipedia.org/wiki/Combat_Flight_Simulator "wikilink")
+    (1998年)
 
   - [Combat Flight Simulator 2: WWII Pacific
-    Theater](../Page/Combat_Flight_Simulator_2.md "wikilink") (2000年)
+    Theater](https://zh.wikipedia.org/wiki/Combat_Flight_Simulator_2 "wikilink")
+    (2000年)
 
   - [Combat Flight Simulator 3: Battle for
-    Europe](../Page/Combat_Flight_Simulator_3:_Battle_for_Europe.md "wikilink")
+    Europe](https://zh.wikipedia.org/wiki/Combat_Flight_Simulator_3:_Battle_for_Europe "wikilink")
     (2002年)
 
   - [Combat Flight Simulator
-    4](../Page/Combat_Flight_Simulator_4.md "wikilink") - (TBA)
+    4](https://zh.wikipedia.org/wiki/Combat_Flight_Simulator_4 "wikilink")
+    - (TBA)
 
-  - [Deadly Tide](../Page/Deadly_Tide.md "wikilink") (1996年)
+  - [Deadly Tide](https://zh.wikipedia.org/wiki/Deadly_Tide "wikilink")
+    (1996年)
 
-  - [Dungeon Siege](../Page/Dungeon_Siege.md "wikilink") (2002年) - [Gas
-    Powered Games](../Page/Gas_Powered_Games.md "wikilink")
+  - [Dungeon
+    Siege](https://zh.wikipedia.org/wiki/Dungeon_Siege "wikilink")
+    (2002年) - [Gas Powered
+    Games](https://zh.wikipedia.org/wiki/Gas_Powered_Games "wikilink")
 
   - [Dungeon Siege: Legends of
-    Aranna](../Page/Dungeon_Siege:_Legends_of_Aranna.md "wikilink")
+    Aranna](https://zh.wikipedia.org/wiki/Dungeon_Siege:_Legends_of_Aranna "wikilink")
     (2003年) - [Gas Powered
-    Games](../Page/Gas_Powered_Games.md "wikilink")
+    Games](https://zh.wikipedia.org/wiki/Gas_Powered_Games "wikilink")
 
-  - [Dungeon Siege II](../Page/Dungeon_Siege_II.md "wikilink") (2005年) -
-    [Gas Powered Games](../Page/Gas_Powered_Games.md "wikilink")
+  - [Dungeon Siege
+    II](https://zh.wikipedia.org/wiki/Dungeon_Siege_II "wikilink")
+    (2005年) - [Gas Powered
+    Games](https://zh.wikipedia.org/wiki/Gas_Powered_Games "wikilink")
 
-  - [神鬼寓言:失落之章](../Page/神鬼寓言:失落之章.md "wikilink")([Fable:The Lost
-    Chapters](../Page/Fable:The_Lost_Chapters.md "wikilink")2005年) -
-    [Lionhead Studios](../Page/Lionhead_Studios.md "wikilink")
+  - [神鬼寓言:失落之章](https://zh.wikipedia.org/wiki/神鬼寓言:失落之章 "wikilink")([Fable:The
+    Lost
+    Chapters](https://zh.wikipedia.org/wiki/Fable:The_Lost_Chapters "wikilink")2005年)
+    - [Lionhead Studios](../Page/Lionhead_Studios.md "wikilink")
 
-  - [Freelancer](../Page/Freelancer.md "wikilink") (2003年) - [Digital
-    Anvil](../Page/Digital_Anvil.md "wikilink")
+  - [Freelancer](https://zh.wikipedia.org/wiki/Freelancer "wikilink")
+    (2003年) - [Digital
+    Anvil](https://zh.wikipedia.org/wiki/Digital_Anvil "wikilink")
 
-  - [Fighter Ace](../Page/Fighter_Ace.md "wikilink") (1997年12月31日)
+  - [Fighter Ace](https://zh.wikipedia.org/wiki/Fighter_Ace "wikilink")
+    (1997年12月31日)
 
-  - [Fury<sup>3</sup>](../Page/Fury3.md "wikilink") (1996年6月24日)
+  - [Fury<sup>3</sup>](https://zh.wikipedia.org/wiki/Fury3 "wikilink")
+    (1996年6月24日)
 
-  - [戰爭機器](../Page/戰爭機器.md "wikilink") (2007年11月6日) - [EPIC
-    Games](../Page/EPIC_Games.md "wikilink")
+  - [戰爭機器](https://zh.wikipedia.org/wiki/戰爭機器 "wikilink") (2007年11月6日) -
+    [EPIC Games](https://zh.wikipedia.org/wiki/EPIC_Games "wikilink")
 
   - [最後一戰：戰鬥進化](../Page/最後一戰：戰鬥進化.md "wikilink") (2003年) -
     [Bungie](../Page/Bungie.md "wikilink")
@@ -198,381 +223,489 @@ Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
     [Bungie](../Page/Bungie.md "wikilink")
 
   - \- (1996年) [Terminal
-    Reality](../Page/Terminal_Reality.md "wikilink")
+    Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
 
-  - [Impossible Creatures](../Page/Impossible_Creatures.md "wikilink")
+  - [Impossible
+    Creatures](https://zh.wikipedia.org/wiki/Impossible_Creatures "wikilink")
     (2003年) - [Relic
-    Entertainment](../Page/Relic_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/Relic_Entertainment "wikilink")
 
       - [Impossible Creatures: Insect
-        Invasion](../Page/Impossible_Creatures:_Insect_Invasion.md "wikilink")
+        Invasion](https://zh.wikipedia.org/wiki/Impossible_Creatures:_Insect_Invasion "wikilink")
         (2003年) - [Relic
-        Entertainment](../Page/Relic_Entertainment.md "wikilink")
+        Entertainment](https://zh.wikipedia.org/wiki/Relic_Entertainment "wikilink")
 
   - [Kings & Myths: The Age
-    Collection](../Page/Kings_&_Myths:_The_Age_Collection.md "wikilink")
+    Collection](https://zh.wikipedia.org/wiki/Kings_&_Myths:_The_Age_Collection "wikilink")
     (2003年) - [全效工作室](../Page/全效工作室.md "wikilink")
 
-  - [Links 2003](../Page/Links_2003.md "wikilink") (2002年) - [Indie
-    Built](../Page/Indie_Built.md "wikilink")
+  - [Links 2003](https://zh.wikipedia.org/wiki/Links_2003 "wikilink")
+    (2002年) - [Indie Built](../Page/Indie_Built.md "wikilink")
 
   - [Links 2003: Championship
-    Courses](../Page/Links_2003:_Championship_Courses.md "wikilink")
+    Courses](https://zh.wikipedia.org/wiki/Links_2003:_Championship_Courses "wikilink")
     (2003年)
 
   - [Links Championship
-    Edition](../Page/Links_Championship_Edition.md "wikilink") (2003年)
+    Edition](https://zh.wikipedia.org/wiki/Links_Championship_Edition "wikilink")
+    (2003年)
 
-  - [Links LS Classic](../Page/Links_LS_Classic.md "wikilink") (?) -
-    [Indie Built](../Page/Indie_Built.md "wikilink")
+  - [Links LS
+    Classic](https://zh.wikipedia.org/wiki/Links_LS_Classic "wikilink")
+    (?) - [Indie Built](../Page/Indie_Built.md "wikilink")
 
   - [Marvel Universe
-    Online](../Page/Marvel_Universe_Online.md "wikilink") (2007年) -
-    [Cryptic Studios](../Page/Cryptic_Studios.md "wikilink") and [Marvel
-    Interactive](../Page/Marvel_Interactive.md "wikilink")
+    Online](https://zh.wikipedia.org/wiki/Marvel_Universe_Online "wikilink")
+    (2007年) - [Cryptic
+    Studios](https://zh.wikipedia.org/wiki/Cryptic_Studios "wikilink")
+    and [Marvel
+    Interactive](https://zh.wikipedia.org/wiki/Marvel_Interactive "wikilink")
 
   - (?)
 
-  - [MechCommander 2](../Page/MechCommander_2.md "wikilink") (2001年)
+  - [MechCommander
+    2](https://zh.wikipedia.org/wiki/MechCommander_2 "wikilink") (2001年)
 
   - [MechWarrior 4:
-    Vengeance](../Page/MechWarrior_4:_Vengeance.md "wikilink") (2000年)
+    Vengeance](https://zh.wikipedia.org/wiki/MechWarrior_4:_Vengeance "wikilink")
+    (2000年)
 
       - [MechWarrior 4: Black
-        Knight](../Page/MechWarrior_4:_Black_Knight.md "wikilink")
+        Knight](https://zh.wikipedia.org/wiki/MechWarrior_4:_Black_Knight "wikilink")
         (2001年) - [Cyberlore
-        Studios](../Page/Cyberlore_Studios.md "wikilink")
+        Studios](https://zh.wikipedia.org/wiki/Cyberlore_Studios "wikilink")
       - [MechWarrior 4: Clan Mech
-        Pak](../Page/MechWarrior_4:_Clan_Mech_Pak.md "wikilink") (2002年)
-        - [Cyberlore Studios](../Page/Cyberlore_Studios.md "wikilink") /
-        [FASA Interactive](../Page/FASA_Interactive.md "wikilink")
+        Pak](https://zh.wikipedia.org/wiki/MechWarrior_4:_Clan_Mech_Pak "wikilink")
+        (2002年) - [Cyberlore
+        Studios](https://zh.wikipedia.org/wiki/Cyberlore_Studios "wikilink")
+        / [FASA
+        Interactive](https://zh.wikipedia.org/wiki/FASA_Interactive "wikilink")
       - [MechWarrior 4: Inner Sphere Mech
-        Pack](../Page/MechWarrior_4:_Inner_Sphere_Mech_Pack.md "wikilink")
+        Pack](https://zh.wikipedia.org/wiki/MechWarrior_4:_Inner_Sphere_Mech_Pack "wikilink")
         (2002年) - [Cyberlore
-        Studios](../Page/Cyberlore_Studios.md "wikilink") / [FASA
-        Interactive](../Page/FASA_Interactive.md "wikilink")
+        Studios](https://zh.wikipedia.org/wiki/Cyberlore_Studios "wikilink")
+        / [FASA
+        Interactive](https://zh.wikipedia.org/wiki/FASA_Interactive "wikilink")
       - [MechWarrior 4:
-        Mercenaries](../Page/MechWarrior_4:_Mercenaries.md "wikilink")
+        Mercenaries](https://zh.wikipedia.org/wiki/MechWarrior_4:_Mercenaries "wikilink")
         (2002年) - [Cyberlore
-        Studios](../Page/Cyberlore_Studios.md "wikilink")
+        Studios](https://zh.wikipedia.org/wiki/Cyberlore_Studios "wikilink")
 
   - [Microsoft Baseball
-    2000](../Page/Microsoft_Baseball_2000.md "wikilink") (1999年)
+    2000](https://zh.wikipedia.org/wiki/Microsoft_Baseball_2000 "wikilink")
+    (1999年)
 
   - [Microsoft Baseball
-    2001](../Page/Microsoft_Baseball_2001.md "wikilink") (2000年)
+    2001](https://zh.wikipedia.org/wiki/Microsoft_Baseball_2001 "wikilink")
+    (2000年)
 
   - [Microsoft CART Precision
-    Racing](../Page/Microsoft_CART_Precision_Racing.md "wikilink")
+    Racing](https://zh.wikipedia.org/wiki/Microsoft_CART_Precision_Racing "wikilink")
     (1997年)
 
   - [Microsoft Entertainment Pack: The Puzzle
-    Collection](../Page/Microsoft_Entertainment_Pack:_The_Puzzle_Collection.md "wikilink")
+    Collection](https://zh.wikipedia.org/wiki/Microsoft_Entertainment_Pack:_The_Puzzle_Collection "wikilink")
     (1997年12月31日)
 
-  - [微軟模擬飛行'95](../Page/微軟模擬飛行'95.md "wikilink") (1996年)
+  - [微軟模擬飛行'95](https://zh.wikipedia.org/wiki/微軟模擬飛行'95 "wikilink")
+    (1996年)
 
-  - [微軟模擬飛行'98](../Page/微軟模擬飛行'98.md "wikilink") (1997年)
+  - [微軟模擬飛行'98](https://zh.wikipedia.org/wiki/微軟模擬飛行'98 "wikilink")
+    (1997年)
 
-  - [微軟模擬飛行2000](../Page/微軟模擬飛行2000.md "wikilink") (1999年)
+  - [微軟模擬飛行2000](https://zh.wikipedia.org/wiki/微軟模擬飛行2000 "wikilink")
+    (1999年)
 
-  - [微軟模擬飛行2002](../Page/微軟模擬飛行2002.md "wikilink") (2001年)
+  - [微軟模擬飛行2002](https://zh.wikipedia.org/wiki/微軟模擬飛行2002 "wikilink")
+    (2001年)
 
-  - [微軟模擬飛行2004:百年飛行史](../Page/微軟模擬飛行2004:百年飛行史.md "wikilink") (2003年)
+  - [微軟模擬飛行2004:百年飛行史](https://zh.wikipedia.org/wiki/微軟模擬飛行2004:百年飛行史 "wikilink")
+    (2003年)
 
-  - [微軟模擬飛行X](../Page/微軟模擬飛行X.md "wikilink") (2006年) - [ACES
-    Studio](../Page/ACES_Studio.md "wikilink")
+  - [微軟模擬飛行X](https://zh.wikipedia.org/wiki/微軟模擬飛行X "wikilink") (2006年)
+    - [ACES
+    Studio](https://zh.wikipedia.org/wiki/ACES_Studio "wikilink")
 
-  - [微軟模擬飛行X:加速度](../Page/微軟模擬飛行X:加速度.md "wikilink") (2007年) - [ACES
-    Studio](../Page/ACES_Studio.md "wikilink")
+  - [微軟模擬飛行X:加速度](https://zh.wikipedia.org/wiki/微軟模擬飛行X:加速度 "wikilink")
+    (2007年) - [ACES
+    Studio](https://zh.wikipedia.org/wiki/ACES_Studio "wikilink")
 
-  - [Microsoft Golf](../Page/Microsoft_Golf.md "wikilink") ([June
-    1](../Page/June_1.md "wikilink") 1995年)
+  - [Microsoft
+    Golf](https://zh.wikipedia.org/wiki/Microsoft_Golf "wikilink")
+    ([June 1](https://zh.wikipedia.org/wiki/June_1 "wikilink") 1995年)
 
   - [Microsoft Golf Version
-    3.0](../Page/Microsoft_Golf_Version_3.0.md "wikilink") (1996年12月12日)
+    3.0](https://zh.wikipedia.org/wiki/Microsoft_Golf_Version_3.0 "wikilink")
+    (1996年12月12日)
 
   - [Microsoft Golf 1998
-    Edition](../Page/Microsoft_Golf_1998_Edition.md "wikilink")
+    Edition](https://zh.wikipedia.org/wiki/Microsoft_Golf_1998_Edition "wikilink")
     (1998年6月16日)
 
   - [Microsoft Pinball
-    Arcade](../Page/Microsoft_Pinball_Arcade.md "wikilink") (1998年)
+    Arcade](https://zh.wikipedia.org/wiki/Microsoft_Pinball_Arcade "wikilink")
+    (1998年)
 
-  - [Microsoft Soccer](../Page/Microsoft_Soccer.md "wikilink") (December
-    12, 1996年)
+  - [Microsoft
+    Soccer](https://zh.wikipedia.org/wiki/Microsoft_Soccer "wikilink")
+    (December 12, 1996年)
 
   - [Microsoft Space
-    Simulator](../Page/Microsoft_Space_Simulator.md "wikilink") (1994年)
+    Simulator](https://zh.wikipedia.org/wiki/Microsoft_Space_Simulator "wikilink")
+    (1994年)
 
   - [微軟模擬列車](../Page/微軟模擬列車.md "wikilink") (2001年) - [Kuju
-    Entertainment](../Page/Kuju_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/Kuju_Entertainment "wikilink")
 
   - [微軟模擬列車2](../Page/微軟模擬列車2.md "wikilink") (重新宣佈，截至2007年) - [ACES
-    Studio](../Page/ACES_Studio.md "wikilink")
+    Studio](https://zh.wikipedia.org/wiki/ACES_Studio "wikilink")
 
   - [瘋狂城市賽車](../Page/瘋狂城市賽車.md "wikilink") (1999年) - [Angel
-    Studios](../Page/Angel_Studios.md "wikilink")
+    Studios](https://zh.wikipedia.org/wiki/Angel_Studios "wikilink")
 
   - [瘋狂城市賽車2](../Page/瘋狂城市賽車2.md "wikilink") (2000年) - [Angel
-    Studios](../Page/Angel_Studios.md "wikilink")
+    Studios](https://zh.wikipedia.org/wiki/Angel_Studios "wikilink")
 
-  - [Monster Truck Madness](../Page/Monster_Truck_Madness.md "wikilink")
-    (1996年) - [Terminal Reality](../Page/Terminal_Reality.md "wikilink")
+  - [Monster Truck
+    Madness](https://zh.wikipedia.org/wiki/Monster_Truck_Madness "wikilink")
+    (1996年) - [Terminal
+    Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
 
   - [Monster Truck Madness
-    2](../Page/Monster_Truck_Madness_2.md "wikilink") (1998年) -
-    [Terminal Reality](../Page/Terminal_Reality.md "wikilink")
+    2](https://zh.wikipedia.org/wiki/Monster_Truck_Madness_2 "wikilink")
+    (1998年) - [Terminal
+    Reality](https://zh.wikipedia.org/wiki/Terminal_Reality "wikilink")
 
-  - [Motocross Madness](../Page/Motocross_Madness.md "wikilink") (1998年)
-    - [Rainbow Studios](../Page/Rainbow_Studios.md "wikilink")
+  - [Motocross
+    Madness](https://zh.wikipedia.org/wiki/Motocross_Madness "wikilink")
+    (1998年) - [Rainbow
+    Studios](https://zh.wikipedia.org/wiki/Rainbow_Studios "wikilink")
 
-  - [Motocross Madness 2](../Page/Motocross_Madness_2.md "wikilink")
-    (2000年) - [Rainbow Studios](../Page/Rainbow_Studios.md "wikilink")
+  - [Motocross Madness
+    2](https://zh.wikipedia.org/wiki/Motocross_Madness_2 "wikilink")
+    (2000年) - [Rainbow
+    Studios](https://zh.wikipedia.org/wiki/Rainbow_Studios "wikilink")
 
-  - [Mythica](../Page/Mythica.md "wikilink") (已取消)
+  - [Mythica](https://zh.wikipedia.org/wiki/Mythica "wikilink") (已取消)
 
-  - [NBA Full Court Press](../Page/NBA_Full_Court_Press.md "wikilink")
+  - [NBA Full Court
+    Press](https://zh.wikipedia.org/wiki/NBA_Full_Court_Press "wikilink")
     (1998年3月30日)
 
-  - [NBA Inside Drive 2000](../Page/NBA_Inside_Drive_2000.md "wikilink")
+  - [NBA Inside Drive
+    2000](https://zh.wikipedia.org/wiki/NBA_Inside_Drive_2000 "wikilink")
     (1999年)
 
-  - [NFL Fever 2000](../Page/NFL_Fever_2000.md "wikilink") (1999年)
+  - [NFL Fever
+    2000](https://zh.wikipedia.org/wiki/NFL_Fever_2000 "wikilink")
+    (1999年)
 
   - (1998年)
 
-  - [Pandora's Box](../Page/Pandora's_Box.md "wikilink") (1999年8月31日)
+  - [Pandora's
+    Box](https://zh.wikipedia.org/wiki/Pandora's_Box "wikilink")
+    (1999年8月31日)
 
-  - [Racing Madness 2](../Page/Racing_Madness_2.md "wikilink") (?)
+  - [Racing Madness
+    2](https://zh.wikipedia.org/wiki/Racing_Madness_2 "wikilink") (?)
 
-  - [RalliSport Challenge](../Page/RalliSport_Challenge.md "wikilink")
+  - [RalliSport
+    Challenge](https://zh.wikipedia.org/wiki/RalliSport_Challenge "wikilink")
     (2002年) - Digital Illusions CE
 
   - [Return of Arcade Anniversary
-    Edition](../Page/Return_of_Arcade_Anniversary_Edition.md "wikilink")
-    (1997年) - [Namco](../Page/Namco.md "wikilink")
+    Edition](https://zh.wikipedia.org/wiki/Return_of_Arcade_Anniversary_Edition "wikilink")
+    (1997年) - [Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")
 
-  - [王國的興起](../Page/王國的興起.md "wikilink") (2003年) - [Big Huge
-    Games](../Page/Big_Huge_Games.md "wikilink")
+  - [王國的興起](https://zh.wikipedia.org/wiki/王國的興起 "wikilink") (2003年) -
+    [Big Huge
+    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
 
-  - [王國的興起：政權保衛戰](../Page/王國的興起：政權保衛戰.md "wikilink") (2004年) - [Big Huge
-    Games](../Page/Big_Huge_Games.md "wikilink")
+  - [王國的興起：政權保衛戰](https://zh.wikipedia.org/wiki/王國的興起：政權保衛戰 "wikilink")
+    (2004年) - [Big Huge
+    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
 
   - [王國的興起：傳說再現](../Page/王國的興起：傳說再現.md "wikilink") (2006年) - [Big Huge
-    Games](../Page/Big_Huge_Games.md "wikilink")
+    Games](https://zh.wikipedia.org/wiki/Big_Huge_Games "wikilink")
 
   - [SkiFree](../Page/SkiFree.md "wikilink") (1991年12月31日)
 
   - (2007年) - FASA Studio
 
-  - [Urban Assault](../Page/Urban_Assault.md "wikilink") (1998年7月31日) -
+  - [Urban
+    Assault](https://zh.wikipedia.org/wiki/Urban_Assault "wikilink")
+    (1998年7月31日) -
 
-  - [動物園大亨](../Page/動物園大亨.md "wikilink") (2001年) - [Blue Fang
-    Games](../Page/Blue_Fang_Games.md "wikilink")
+  - [動物園大亨](https://zh.wikipedia.org/wiki/動物園大亨 "wikilink") (2001年) -
+    [Blue Fang
+    Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
       - [Zoo Tycoon: Dinosaur
-        Digs](../Page/Zoo_Tycoon:_Dinosaur_Digs.md "wikilink") (2002年) -
-        [Blue Fang Games](../Page/Blue_Fang_Games.md "wikilink")
+        Digs](https://zh.wikipedia.org/wiki/Zoo_Tycoon:_Dinosaur_Digs "wikilink")
+        (2002年) - [Blue Fang
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
       - [Zoo Tycoon: Marine
-        Mania](../Page/Zoo_Tycoon:_Marine_Mania.md "wikilink") (2002年) -
-        [Blue Fang Games](../Page/Blue_Fang_Games.md "wikilink")
+        Mania](https://zh.wikipedia.org/wiki/Zoo_Tycoon:_Marine_Mania "wikilink")
+        (2002年) - [Blue Fang
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
   - [Zoo Tycoon Complete
-    Collection](../Page/Zoo_Tycoon_Complete_Collection.md "wikilink")
-    (2003年) - [Blue Fang Games](../Page/Blue_Fang_Games.md "wikilink")
+    Collection](https://zh.wikipedia.org/wiki/Zoo_Tycoon_Complete_Collection "wikilink")
+    (2003年) - [Blue Fang
+    Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
-  - [動物園大亨2](../Page/動物園大亨2.md "wikilink") (2004年) - Blue Fang Games
+  - [動物園大亨2](https://zh.wikipedia.org/wiki/動物園大亨2 "wikilink") (2004年) -
+    Blue Fang Games
 
       - [Zoo Tycoon 2: Endangered
-        Species](../Page/Zoo_Tycoon_2:_Endangered_Species.md "wikilink")
+        Species](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_Endangered_Species "wikilink")
         (2005年) - [Blue Fang
-        Games](../Page/Blue_Fang_Games.md "wikilink")
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
       - [Zoo Tycoon 2: African
-        Adventure](../Page/Zoo_Tycoon_2:_African_Adventure.md "wikilink")
+        Adventure](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_African_Adventure "wikilink")
         (2006年) - [Blue Fang
-        Games](../Page/Blue_Fang_Games.md "wikilink")
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
   - [Zoo Tycoon 2: Zookeeper
-    Collection](../Page/Zoo_Tycoon_2:_Zookeeper_Collection.md "wikilink")
-    (2006年) - [Blue Fang Games](../Page/Blue_Fang_Games.md "wikilink")
+    Collection](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_Zookeeper_Collection "wikilink")
+    (2006年) - [Blue Fang
+    Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
       - [Zoo Tycoon 2: Dino Danger
-        Pack](../Page/Zoo_Tycoon_2:_Dino_Danger_Pack.md "wikilink")
+        Pack](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_Dino_Danger_Pack "wikilink")
         (2006) - [Blue Fang
-        Games](../Page/Blue_Fang_Games.md "wikilink")
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
       - [Zoo Tycoon 2: Marine
-        Mania](../Page/Zoo_Tycoon_2:_Marine_Mania.md "wikilink") (2006年)
-        - [Blue Fang Games](../Page/Blue_Fang_Games.md "wikilink")
+        Mania](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_Marine_Mania "wikilink")
+        (2006年) - [Blue Fang
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
       - [Zoo Tycoon 2: Extinct
-        Animals](../Page/Zoo_Tycoon_2:_Extinct_Animals.md "wikilink")
+        Animals](https://zh.wikipedia.org/wiki/Zoo_Tycoon_2:_Extinct_Animals "wikilink")
         (2007年) - [Blue Fang
-        Games](../Page/Blue_Fang_Games.md "wikilink")
-      - [spore](../Page/spore.md "wikilink") (2008年) - [Blue Fang
-        Games](../Page/Blue_Fang_Games.md "wikilink")
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
+      - [spore](https://zh.wikipedia.org/wiki/spore "wikilink") (2008年)
+        - [Blue Fang
+        Games](https://zh.wikipedia.org/wiki/Blue_Fang_Games "wikilink")
 
 ### Xbox
 
-  - [Amped: Freestyle Snowboarding](../Page/Amped.md "wikilink") (2001年)
+  - [Amped: Freestyle
+    Snowboarding](https://zh.wikipedia.org/wiki/Amped "wikilink")
+    (2001年) - [Indie Built](../Page/Indie_Built.md "wikilink")
+  - [Amped 2](https://zh.wikipedia.org/wiki/Amped_2 "wikilink") (2003年)
     - [Indie Built](../Page/Indie_Built.md "wikilink")
-  - [Amped 2](../Page/Amped_2.md "wikilink") (2003年) - [Indie
-    Built](../Page/Indie_Built.md "wikilink")
   - [Azurik:Rise of
-    Perathia](../Page/Azurik:Rise_of_Perathia.md "wikilink") (2001年) -
-    Adrenium Games
-  - [霹靂酷炫貓:穿越時空](../Page/霹靂酷炫貓:穿越時空.md "wikilink") (2002年) - Artoon
-  - [霹靂酷炫貓:穿越時空 2](../Page/霹靂酷炫貓:穿越時空_2.md "wikilink") (2004年) - Artoon
-  - [致命快艇](../Page/致命快艇.md "wikilink") (2001年) - Stormfront Studios
-  - [雷霆戰隊](../Page/雷霆戰隊.md "wikilink") (2003年) - Digital Anvil
-  - [百戰壞松鼠](../Page/百戰壞松鼠.md "wikilink") (2005年) -
+    Perathia](https://zh.wikipedia.org/wiki/Azurik:Rise_of_Perathia "wikilink")
+    (2001年) - Adrenium Games
+  - [霹靂酷炫貓:穿越時空](https://zh.wikipedia.org/wiki/霹靂酷炫貓:穿越時空 "wikilink")
+    (2002年) - Artoon
+  - [霹靂酷炫貓:穿越時空
+    2](https://zh.wikipedia.org/wiki/霹靂酷炫貓:穿越時空_2 "wikilink")
+    (2004年) - Artoon
+  - [致命快艇](https://zh.wikipedia.org/wiki/致命快艇 "wikilink") (2001年) -
+    Stormfront Studios
+  - [雷霆戰隊](https://zh.wikipedia.org/wiki/雷霆戰隊 "wikilink") (2003年) -
+    Digital Anvil
+  - [百戰壞松鼠](https://zh.wikipedia.org/wiki/百戰壞松鼠 "wikilink") (2005年) -
     [Rare](../Page/Rare.md "wikilink")
   - [反恐精英](../Page/反恐精英.md "wikilink") (2003年) - Valve
-  - [王牌飛行員:復仇大道](../Page/王牌飛行員:復仇大道.md "wikilink") (2003年)
-  - [Dinosaur Hunting](../Page/Dinosaur_Hunting.md "wikilink") (2003年)
+  - [王牌飛行員:復仇大道](https://zh.wikipedia.org/wiki/王牌飛行員:復仇大道 "wikilink")
+    (2003年)
+  - [Dinosaur
+    Hunting](https://zh.wikipedia.org/wiki/Dinosaur_Hunting "wikilink")
+    (2003年)
   - [神鬼寓言](../Page/神鬼寓言.md "wikilink") (2004) - [Lionhead
     Studios](../Page/Lionhead_Studios.md "wikilink")/Big Blue Box
     Studios
-  - [極限競速](../Page/極限競速.md "wikilink") (2005年)
-  - [瘋狂大亂鬥](../Page/瘋狂大亂鬥.md "wikilink") (2001年) - Blitz Games
-  - [鬼屋大冒險](../Page/鬼屋大冒險.md "wikilink") (2003年) - Rare
+  - [極限競速](https://zh.wikipedia.org/wiki/極限競速 "wikilink") (2005年)
+  - [瘋狂大亂鬥](https://zh.wikipedia.org/wiki/瘋狂大亂鬥 "wikilink") (2001年) -
+    Blitz Games
+  - [鬼屋大冒險](https://zh.wikipedia.org/wiki/鬼屋大冒險 "wikilink") (2003年) -
+    Rare
   - [最後一戰：戰鬥進化](../Page/最後一戰：戰鬥進化.md "wikilink") (2001年) -
     [Bungie](../Page/Bungie.md "wikilink")
   - [最後一戰2](../Page/最後一戰2.md "wikilink") (2004年) -
     [Bungie](../Page/Bungie.md "wikilink")
-  - [Inside Pitch 2003](../Page/Inside_Pitch_2003.md "wikilink") (2003年)
-  - [翡翠帝國](../Page/翡翠帝國.md "wikilink") (2005年) - BioWare
-  - [Kakuto Chojin](../Page/Kakuto_Chojin.md "wikilink") (2002年) - Dream
-    Publishing
-  - [熾焰帝國:英雄傳說](../Page/熾焰帝國:英雄傳說.md "wikilink") (2005年) - Phantagram
-  - [熾焰帝國:十字軍東征](../Page/熾焰帝國:十字軍東征.md "wikilink") (2004年) - Phantagram
-  - [功夫大亂鬥](../Page/功夫大亂鬥.md "wikilink") (2003年) - Just Add Monsters
-  - [Links 2004](../Page/Links_2004.md "wikilink") (2003年) - [Indie
-    Built](../Page/Indie_Built.md "wikilink")
-  - [Magatama](../Page/Magatama.md "wikilink") (2003年)
-  - [機甲先鋒](../Page/機甲先鋒.md "wikilink") (2002年) - Day 1
-  - [機甲先鋒2:孤狼](../Page/機甲先鋒2:孤狼.md "wikilink") (2004年) - Day 1
-  - [瘋狂城市賽車3](../Page/瘋狂城市賽車3.md "wikilink") (2003年) - Digital Illusions
-    CE
+  - [Inside Pitch
+    2003](https://zh.wikipedia.org/wiki/Inside_Pitch_2003 "wikilink")
+    (2003年)
+  - [翡翠帝國](https://zh.wikipedia.org/wiki/翡翠帝國 "wikilink") (2005年) -
+    BioWare
+  - [Kakuto
+    Chojin](https://zh.wikipedia.org/wiki/Kakuto_Chojin "wikilink")
+    (2002年) - Dream Publishing
+  - [熾焰帝國:英雄傳說](https://zh.wikipedia.org/wiki/熾焰帝國:英雄傳說 "wikilink")
+    (2005年) - Phantagram
+  - [熾焰帝國:十字軍東征](https://zh.wikipedia.org/wiki/熾焰帝國:十字軍東征 "wikilink")
+    (2004年) - Phantagram
+  - [功夫大亂鬥](https://zh.wikipedia.org/wiki/功夫大亂鬥 "wikilink") (2003年) -
+    Just Add Monsters
+  - [Links 2004](https://zh.wikipedia.org/wiki/Links_2004 "wikilink")
+    (2003年) - [Indie Built](../Page/Indie_Built.md "wikilink")
+  - [Magatama](https://zh.wikipedia.org/wiki/Magatama "wikilink")
+    (2003年)
+  - [機甲先鋒](https://zh.wikipedia.org/wiki/機甲先鋒 "wikilink") (2002年) - Day
+    1
+  - [機甲先鋒2:孤狼](https://zh.wikipedia.org/wiki/機甲先鋒2:孤狼 "wikilink")
+    (2004年) - Day 1
+  - [瘋狂城市賽車3](https://zh.wikipedia.org/wiki/瘋狂城市賽車3 "wikilink") (2003年)
+    - Digital Illusions CE
   - [N.U.D.E.@Natural Ultimate Digital
-    Entertainment](../Page/N.U.D.E.@Natural_Ultimate_Digital_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/N.U.D.E.@Natural_Ultimate_Digital_Entertainment "wikilink")
     (2003年) - Rocket Studio, Inc. / Red Company
-  - [NBA Inside Drive 2002](../Page/NBA_Inside_Drive_2002.md "wikilink")
+  - [NBA Inside Drive
+    2002](https://zh.wikipedia.org/wiki/NBA_Inside_Drive_2002 "wikilink")
     (2002年) - High Voltage Software
-  - [NBA Inside Drive 2003](../Page/NBA_Inside_Drive_2003.md "wikilink")
+  - [NBA Inside Drive
+    2003](https://zh.wikipedia.org/wiki/NBA_Inside_Drive_2003 "wikilink")
     (2002年) - High Voltage Software
-  - [NBA Inside Drive 2004](../Page/NBA_Inside_Drive_2004.md "wikilink")
+  - [NBA Inside Drive
+    2004](https://zh.wikipedia.org/wiki/NBA_Inside_Drive_2004 "wikilink")
     (2003年) - High Voltage Software
-  - [NFL Fever 2002](../Page/NFL_Fever_2002.md "wikilink") (2001年)
-  - [NFL Fever 2003](../Page/NFL_Fever_2003.md "wikilink") (2002年)
-  - [NFL Fever 2004](../Page/NFL_Fever_2004.md "wikilink") (2003年)
-  - [NHL Rivals 2004](../Page/NHL_Rivals_2004.md "wikilink") (2003年)
-  - [NightCaster](../Page/NightCaster.md "wikilink") (2002年) - VR1
+  - [NFL Fever
+    2002](https://zh.wikipedia.org/wiki/NFL_Fever_2002 "wikilink")
+    (2001年)
+  - [NFL Fever
+    2003](https://zh.wikipedia.org/wiki/NFL_Fever_2003 "wikilink")
+    (2002年)
+  - [NFL Fever
+    2004](https://zh.wikipedia.org/wiki/NFL_Fever_2004 "wikilink")
+    (2003年)
+  - [NHL Rivals
+    2004](https://zh.wikipedia.org/wiki/NHL_Rivals_2004 "wikilink")
+    (2003年)
+  - [NightCaster](https://zh.wikipedia.org/wiki/NightCaster "wikilink")
+    (2002年) - VR1
   - [Oddworld:Munch's
-    Oddysee](../Page/Oddworld:Munch's_Oddysee.md "wikilink") (2001年) -
-    Oddworld Inhabitants
-  - [OutRun 2](../Page/OutRun_2.md "wikilink") (2004年) - (co-published
-    with Sega) Sega-AM2/Sumo Digital
-  - [幻影沙塵](../Page/幻影沙塵.md "wikilink") (2004年)
-  - [世界街頭賽車](../Page/世界街頭賽車.md "wikilink") (2001年) - Bizarre Creations
-  - [世界街頭賽車2](../Page/世界街頭賽車2.md "wikilink") (2003年) - Bizarre Creations
-  - [Quantum Redshift](../Page/Quantum_Redshift.md "wikilink") (2002年) -
-    Curly Monsters
-  - [越野挑戰賽](../Page/越野挑戰賽.md "wikilink") (2002年) - Digital Illusions CE
-  - [越野挑戰賽2](../Page/越野挑戰賽2.md "wikilink") (2004年) - Digital Illusions
-    CE
+    Oddysee](https://zh.wikipedia.org/wiki/Oddworld:Munch's_Oddysee "wikilink")
+    (2001年) - Oddworld Inhabitants
+  - [OutRun 2](https://zh.wikipedia.org/wiki/OutRun_2 "wikilink")
+    (2004年) - (co-published with Sega) Sega-AM2/Sumo Digital
+  - [幻影沙塵](https://zh.wikipedia.org/wiki/幻影沙塵 "wikilink") (2004年)
+  - [世界街頭賽車](https://zh.wikipedia.org/wiki/世界街頭賽車 "wikilink") (2001年) -
+    Bizarre Creations
+  - [世界街頭賽車2](https://zh.wikipedia.org/wiki/世界街頭賽車2 "wikilink") (2003年)
+    - Bizarre Creations
+  - [Quantum
+    Redshift](https://zh.wikipedia.org/wiki/Quantum_Redshift "wikilink")
+    (2002年) - Curly Monsters
+  - [越野挑戰賽](https://zh.wikipedia.org/wiki/越野挑戰賽 "wikilink") (2002年) -
+    Digital Illusions CE
+  - [越野挑戰賽2](https://zh.wikipedia.org/wiki/越野挑戰賽2 "wikilink") (2004年) -
+    Digital Illusions CE
   - [莎木II](../Page/莎木II.md "wikilink") (2003年) - Sega-AM2
-  - [Sneakers](../Page/Sneakers.md "wikilink") (2002年) - Mediavision
-    Corporation
-  - [魔幻戰士](../Page/魔幻戰士.md "wikilink") (2004年) - Climax Studios
-  - [道風蓮拳](../Page/道風蓮拳.md "wikilink") (2003年) - Studio Gigante
-  - [The Wild Rings](../Page/The_Wild_Rings.md "wikilink") (2003年)
-  - [職業網球大聯盟](../Page/職業網球大聯盟.md "wikilink") (2003年) - Power & Magic,
-    [Indie Built](../Page/Indie_Built.md "wikilink")
+  - [Sneakers](https://zh.wikipedia.org/wiki/Sneakers "wikilink")
+    (2002年) - Mediavision Corporation
+  - [魔幻戰士](https://zh.wikipedia.org/wiki/魔幻戰士 "wikilink") (2004年) -
+    Climax Studios
+  - [道風蓮拳](https://zh.wikipedia.org/wiki/道風蓮拳 "wikilink") (2003年) -
+    Studio Gigante
+  - [The Wild
+    Rings](https://zh.wikipedia.org/wiki/The_Wild_Rings "wikilink")
+    (2003年)
+  - [職業網球大聯盟](https://zh.wikipedia.org/wiki/職業網球大聯盟 "wikilink") (2003年)
+    - Power & Magic, [Indie Built](../Page/Indie_Built.md "wikilink")
   - [True Fantasy Live
-    Online](../Page/True_Fantasy_Live_Online.md "wikilink") (已取消) -
-    Level-5
-  - [巫毒大冒險](../Page/巫毒大冒險.md "wikilink") (2003年) - Beep Industries
-  - [Whacked\!](../Page/Whacked!.md "wikilink") (2002年) - Presto Studios
-  - [Xbox Music Mixer](../Page/Xbox_Music_Mixer.md "wikilink") (2003年) -
-    Wild Tangent
+    Online](https://zh.wikipedia.org/wiki/True_Fantasy_Live_Online "wikilink")
+    (已取消) - Level-5
+  - [巫毒大冒險](https://zh.wikipedia.org/wiki/巫毒大冒險 "wikilink") (2003年) -
+    Beep Industries
+  - [Whacked\!](https://zh.wikipedia.org/wiki/Whacked! "wikilink")
+    (2002年) - Presto Studios
+  - [Xbox Music
+    Mixer](https://zh.wikipedia.org/wiki/Xbox_Music_Mixer "wikilink")
+    (2003年) - Wild Tangent
 
 ### Xbox 360
 
-  - [心靈殺手](../Page/心靈殺手.md "wikilink") (TBA) - [Remedy
-    Entertainment](../Page/Remedy_Entertainment.md "wikilink")
-  - [Banjo-Kazooie 3](../Page/Banjo-Kazooie_3.md "wikilink") (2007年) -
-    [Rare](../Page/Rare.md "wikilink")
+  - [心靈殺手](https://zh.wikipedia.org/wiki/心靈殺手 "wikilink") (TBA) -
+    [Remedy
+    Entertainment](https://zh.wikipedia.org/wiki/Remedy_Entertainment "wikilink")
+  - [Banjo-Kazooie
+    3](https://zh.wikipedia.org/wiki/Banjo-Kazooie_3 "wikilink") (2007年)
+    - [Rare](../Page/Rare.md "wikilink")
   - [藍龍](../Page/藍龍.md "wikilink") (2006年) -
-    [Mistwalker](../Page/Mistwalker.md "wikilink") /
-    [Artoon](../Page/Artoon.md "wikilink")
-  - [除暴戰警](../Page/除暴戰警.md "wikilink") (2007年) - [Real Time
-    Worlds](../Page/Real_Time_Worlds.md "wikilink")
-  - [全民派對](../Page/全民派對.md "wikilink") (2005年) - [Game
-    Republic](../Page/Game_Republic.md "wikilink")
-  - [神鬼寓言2](../Page/神鬼寓言2.md "wikilink") (2007年) - [Lionhead
-    Studios](../Page/Lionhead_Studios.md "wikilink")
-  - [極限競速2](../Page/極限競速2.md "wikilink") (2007年) - [Turn
-    10](../Page/Turn_10.md "wikilink")
-  - [極限競速3](../Page/極限競速3.md "wikilink") (2009年) - [Turn
-    10](../Page/Turn_10.md "wikilink")
-  - [極限競速4](../Page/極限競速4.md "wikilink") (2011年) - [Turn
-    10](../Page/Turn_10.md "wikilink")
-  - [瘋狂大亂鬥2](../Page/瘋狂大亂鬥2.md "wikilink") (2007年) - [Hudson
-    Soft](../Page/Hudson_Soft.md "wikilink")
-  - [戰爭機器](../Page/戰爭機器.md "wikilink") (2006年) - [Epic
-    Games](../Page/Epic_Games.md "wikilink")
+    [Mistwalker](https://zh.wikipedia.org/wiki/Mistwalker "wikilink") /
+    [Artoon](https://zh.wikipedia.org/wiki/Artoon "wikilink")
+  - [除暴戰警](https://zh.wikipedia.org/wiki/除暴戰警 "wikilink") (2007年) -
+    [Real Time
+    Worlds](https://zh.wikipedia.org/wiki/Real_Time_Worlds "wikilink")
+  - [全民派對](https://zh.wikipedia.org/wiki/全民派對 "wikilink") (2005年) -
+    [Game
+    Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")
+  - [神鬼寓言2](https://zh.wikipedia.org/wiki/神鬼寓言2 "wikilink") (2007年) -
+    [Lionhead Studios](../Page/Lionhead_Studios.md "wikilink")
+  - [極限競速2](https://zh.wikipedia.org/wiki/極限競速2 "wikilink") (2007年) -
+    [Turn 10](https://zh.wikipedia.org/wiki/Turn_10 "wikilink")
+  - [極限競速3](https://zh.wikipedia.org/wiki/極限競速3 "wikilink") (2009年) -
+    [Turn 10](https://zh.wikipedia.org/wiki/Turn_10 "wikilink")
+  - [極限競速4](https://zh.wikipedia.org/wiki/極限競速4 "wikilink") (2011年) -
+    [Turn 10](https://zh.wikipedia.org/wiki/Turn_10 "wikilink")
+  - [瘋狂大亂鬥2](https://zh.wikipedia.org/wiki/瘋狂大亂鬥2 "wikilink") (2007年) -
+    [Hudson Soft](../Page/Hudson_Soft.md "wikilink")
+  - [戰爭機器](https://zh.wikipedia.org/wiki/戰爭機器 "wikilink") (2006年) -
+    [Epic Games](../Page/Epic_Games.md "wikilink")
   - [戰爭機器2](../Page/戰爭機器2.md "wikilink") (2008年) - [Epic
     Games](../Page/Epic_Games.md "wikilink")
   - [戰爭機器3](../Page/戰爭機器3.md "wikilink") (2011年) - [Epic
     Games](../Page/Epic_Games.md "wikilink")
   - [最後一戰3](../Page/最後一戰3.md "wikilink") (2007年) -
     [Bungie](../Page/Bungie.md "wikilink")
-  - [最後一戰3: ODST](../Page/最後一戰3:_ODST.md "wikilink") (2009年) -
-    [Bungie](../Page/Bungie.md "wikilink")
+  - [最後一戰3: ODST](https://zh.wikipedia.org/wiki/最後一戰3:_ODST "wikilink")
+    (2009年) - [Bungie](../Page/Bungie.md "wikilink")
   - [最後一戰：瑞曲之戰](../Page/最後一戰：瑞曲之戰.md "wikilink") (2010年) -
     [Bungie](../Page/Bungie.md "wikilink")
-  - [最後一戰：星環戰役](../Page/最後一戰：星環戰役.md "wikilink") (2008年) -
-    [全效工作室](../Page/全效工作室.md "wikilink")
+  - [最後一戰：星環戰役](https://zh.wikipedia.org/wiki/最後一戰：星環戰役 "wikilink")
+    (2008年) - [全效工作室](../Page/全效工作室.md "wikilink")
   - [最後一戰 復刻版](../Page/最後一戰_復刻版.md "wikilink") (2011年) - [343
     Industries](../Page/343_Industries.md "wikilink")
   - [最後一戰4](../Page/最後一戰4.md "wikilink") (2012年) - [343
     Industries](../Page/343_Industries.md "wikilink")
-  - [凱密歐傳說: 力量元素](../Page/凱密歐傳說:_力量元素.md "wikilink") (2005年) -
-    [Rare](../Page/Rare.md "wikilink")
-  - [熾焰帝國:末日之環](../Page/熾焰帝國:末日之環.md "wikilink") (2007年) -
-    [Phantagram](../Page/Phantagram.md "wikilink")
+  - [凱密歐傳說: 力量元素](https://zh.wikipedia.org/wiki/凱密歐傳說:_力量元素 "wikilink")
+    (2005年) - [Rare](../Page/Rare.md "wikilink")
+  - [熾焰帝國:末日之環](https://zh.wikipedia.org/wiki/熾焰帝國:末日之環 "wikilink")
+    (2007年) -
+    [Phantagram](https://zh.wikipedia.org/wiki/Phantagram "wikilink")
   - [失落的奧德賽](../Page/失落的奧德賽.md "wikilink") (2007年) -
-    [Mistwalker](../Page/Mistwalker.md "wikilink") / [Feel
-    Plus](../Page/Feel_Plus.md "wikilink")
+    [Mistwalker](https://zh.wikipedia.org/wiki/Mistwalker "wikilink") /
+    [Feel Plus](https://zh.wikipedia.org/wiki/Feel_Plus "wikilink")
   - [Marvel Universe
-    Online](../Page/Marvel_Universe_Online.md "wikilink") (2008年) -
-    [Cryptic Studios](../Page/Cryptic_Studios.md "wikilink") / [Marvel
-    Interactive](../Page/Marvel_Interactive.md "wikilink")
-  - [質量效應](../Page/質量效應.md "wikilink") (2007年) -
-    [Bioware](../Page/Bioware.md "wikilink")
+    Online](https://zh.wikipedia.org/wiki/Marvel_Universe_Online "wikilink")
+    (2008年) - [Cryptic
+    Studios](https://zh.wikipedia.org/wiki/Cryptic_Studios "wikilink") /
+    [Marvel
+    Interactive](https://zh.wikipedia.org/wiki/Marvel_Interactive "wikilink")
+  - [質量效應](https://zh.wikipedia.org/wiki/質量效應 "wikilink") (2007年) -
+    [Bioware](https://zh.wikipedia.org/wiki/Bioware "wikilink")
   - [九十九夜](../Page/九十九夜.md "wikilink") (2006年) - [Q
-    Entertainment](../Page/Q_Entertainment.md "wikilink") /
-    [Phantagram](../Page/Phantagram.md "wikilink")
-  - [完美女煞星](../Page/完美女煞星.md "wikilink") (2005年) -
+    Entertainment](https://zh.wikipedia.org/wiki/Q_Entertainment "wikilink")
+    / [Phantagram](https://zh.wikipedia.org/wiki/Phantagram "wikilink")
+  - [完美女煞星](https://zh.wikipedia.org/wiki/完美女煞星 "wikilink") (2005年) -
     [Rare](../Page/Rare.md "wikilink")
-  - [世界街頭賽車3](../Page/世界街頭賽車3.md "wikilink") (2005年) - [Bizarre
-    Creations](../Page/Bizarre_Creations.md "wikilink")
-  - [世界街頭賽車4](../Page/世界街頭賽車4.md "wikilink") (2007年) - [Bizarre
-    Creations](../Page/Bizarre_Creations.md "wikilink")
-  - [銀星戰將](../Page/銀星戰將.md "wikilink") (2007) -
-    [Gamearts](../Page/Gamearts.md "wikilink") /
-    [Seta](../Page/Seta.md "wikilink") / [Square
-    Enix](../Page/Square_Enix.md "wikilink") 只負責北美地區發行
-  - [暗影狂奔](../Page/暗影狂奔.md "wikilink") (2007年) - [FASA
-    Interactive](../Page/FASA_Interactive.md "wikilink")
-  - [無間戰神](../Page/無間戰神.md "wikilink") (2007年) - [Silicon
-    Knights](../Page/Silicon_Knights.md "wikilink")
-  - [天誅千亂](../Page/天誅千亂.md "wikilink") (2007年) - [From
-    Software](../Page/From_Software.md "wikilink") 只負責北美地區發行
-  - [吸血鬼之雨](../Page/吸血鬼之雨.md "wikilink") (2007年) -
-    [Artoon](../Page/Artoon.md "wikilink") / [AQ
-    Interactive](../Page/AQ_Interactive.md "wikilink") 只負責北美地區發行
-  - [寶貝萬歲](../Page/寶貝萬歲.md "wikilink") (2006年) -
+  - [世界街頭賽車3](https://zh.wikipedia.org/wiki/世界街頭賽車3 "wikilink") (2005年)
+    - [Bizarre Creations](../Page/Bizarre_Creations.md "wikilink")
+  - [世界街頭賽車4](https://zh.wikipedia.org/wiki/世界街頭賽車4 "wikilink") (2007年)
+    - [Bizarre Creations](../Page/Bizarre_Creations.md "wikilink")
+  - [銀星戰將](https://zh.wikipedia.org/wiki/銀星戰將 "wikilink") (2007) -
+    [Gamearts](https://zh.wikipedia.org/wiki/Gamearts "wikilink") /
+    [Seta](https://zh.wikipedia.org/wiki/Seta "wikilink") / [Square
+    Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")
+    只負責北美地區發行
+  - [暗影狂奔](https://zh.wikipedia.org/wiki/暗影狂奔 "wikilink") (2007年) -
+    [FASA
+    Interactive](https://zh.wikipedia.org/wiki/FASA_Interactive "wikilink")
+  - [無間戰神](https://zh.wikipedia.org/wiki/無間戰神 "wikilink") (2007年) -
+    [Silicon
+    Knights](https://zh.wikipedia.org/wiki/Silicon_Knights "wikilink")
+  - [天誅千亂](https://zh.wikipedia.org/wiki/天誅千亂 "wikilink") (2007年) -
+    [From
+    Software](https://zh.wikipedia.org/wiki/From_Software "wikilink")
+    只負責北美地區發行
+  - [吸血鬼之雨](https://zh.wikipedia.org/wiki/吸血鬼之雨 "wikilink") (2007年) -
+    [Artoon](https://zh.wikipedia.org/wiki/Artoon "wikilink") / [AQ
+    Interactive](https://zh.wikipedia.org/wiki/AQ_Interactive "wikilink")
+    只負責北美地區發行
+  - [寶貝萬歲](https://zh.wikipedia.org/wiki/寶貝萬歲 "wikilink") (2006年) -
     [Rare](../Page/Rare.md "wikilink")
 
 ## 参考资料
@@ -583,7 +716,8 @@ Initiative](../Page/The_Initiative.md "wikilink")。\[2\]
     ](https://web.archive.org/web/20070501034403/http://www.microsoft.com/games/)
   - [Microsoft Game Studios 台灣](http://www.microsoft.com/taiwan/Games/)
   - [Microsoft的官方Xbox網站](http://www.xbox.com/)
-  - [MobyGames上的](../Page/MobyGames.md "wikilink")[Microsoft Game
+  - [MobyGames上的](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Microsoft
+    Game
     Studios](http://www.mobygames.com/company/microsoft-game-studios)簡介
 
 [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")

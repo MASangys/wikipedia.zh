@@ -1,5 +1,5 @@
-**IRT百老匯-第七大道線**（），亦稱為**第七大道線**，是[紐約地鐵](../Page/紐約地鐵.md "wikilink")[IRT系統中的一條主要路線](../Page/跨區捷運公司.md "wikilink")。[紐約地鐵1號線](../Page/紐約地鐵1號線.md "wikilink")、[2號線](../Page/紐約地鐵2號線.md "wikilink")、[紐約地鐵3號線](../Page/紐約地鐵3號線.md "wikilink")、以及過去的[9號線等服務路線行經於此路線](../Page/紐約地鐵9號線.md "wikilink")。此路線主要行經上西城、[中城](../Page/曼哈頓中城.md "wikilink")、[紐約蘇豪區](../Page/紐約蘇豪區.md "wikilink")、以及下城，位於[布朗克斯](../Page/布朗克斯.md "wikilink")[范科特蘭公園-242街車站與](../Page/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\).md "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[南碼頭-白廳街車站之間](../Page/南碼頭-白廳街車站.md "wikilink")\[1\]\[2\]
-。另外在[錢伯斯街車站分支出後往東南方走的](../Page/錢伯斯街車站_\(IRT百老匯－第七大道線\).md "wikilink")**布魯克林支線**雖然經過前往[布魯克林區政府大樓](../Page/布魯克林區.md "wikilink")，但是還是屬於百老匯-第七大道線的一部分\[3\]
+**IRT百老匯-第七大道線**（），亦稱為**第七大道線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT系統中的一條主要路線](../Page/跨區捷運公司.md "wikilink")。[紐約地鐵1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")、[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")、[紐約地鐵3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")、以及過去的[9號線等服務路線行經於此路線](https://zh.wikipedia.org/wiki/紐約地鐵9號線 "wikilink")。此路線主要行經上西城、[中城](../Page/曼哈頓中城.md "wikilink")、[紐約蘇豪區](../Page/紐約蘇豪區.md "wikilink")、以及下城，位於[布朗克斯](../Page/布朗克斯.md "wikilink")[范科特蘭公園-242街車站與](https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[南碼頭-白廳街車站之間](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink")\[1\]\[2\]
+。另外在[錢伯斯街車站分支出後往東南方走的](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(IRT百老匯－第七大道線\) "wikilink")**布魯克林支線**雖然經過前往[布魯克林區政府大樓](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")，但是還是屬於百老匯-第七大道線的一部分\[3\]
 。
 
 ## 服務
@@ -16,12 +16,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">242街</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">242街</a><br />
 與<a href="../Page/96街車站_(IRT百老匯-第七大道線).md" title="wikilink">96街之間</a></p></td>
 <td><p>96街<br />
-與<a href="../Page/時報廣場-42街車站_(IRT百老匯-第七大道線).md" title="wikilink">42街之間</a></p></td>
+與<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">42街之間</a></p></td>
 <td><p>42街<br />
-與<a href="../Page/14街車站_(IRT百老匯-第七大道線).md" title="wikilink">14街之間</a></p></td>
+與<a href="https://zh.wikipedia.org/wiki/14街車站_(IRT百老匯-第七大道線)" title="wikilink">14街之間</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -76,7 +76,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">范科特蘭公園-242街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -94,7 +94,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>軌道連往<a href="../Page/紐約地鐵車廠#240街車廠.md" title="wikilink">240街車廠</a></p></td>
+<td><p>軌道連往<a href="https://zh.wikipedia.org/wiki/紐約地鐵車廠#240街車廠" title="wikilink">240街車廠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@
 <tr class="even">
 <td><p><a href="../Page/英伍德.md" title="wikilink">英伍德</a></p></td>
 <td></td>
-<td><p><a href="../Page/221街車站_(IRT百老匯-第七大道線).md" title="wikilink">221街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/221街車站_(IRT百老匯-第七大道線)" title="wikilink">221街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -164,7 +164,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>軌道連往<a href="../Page/紐約地鐵車廠#207街車廠.md" title="wikilink">207街車廠</a></p></td>
+<td><p>軌道連往<a href="https://zh.wikipedia.org/wiki/紐約地鐵車廠#207街車廠" title="wikilink">207街車廠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -200,7 +200,7 @@
 <td></td>
 <td></td>
 <td><p>1906年3月12日[10]</p></td>
-<td><p>車站只限南行可<a href="../Page/美國殘疾人法案.md" title="wikilink">無障礙通行</a>。</p></td>
+<td><p>車站只限南行可<a href="https://zh.wikipedia.org/wiki/美國殘疾人法案" title="wikilink">無障礙通行</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -225,12 +225,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
-<td><p><a href="../Page/168街車站_(IRT百老匯-第七大道線).md" title="wikilink">168街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/168街車站_(IRT百老匯-第七大道線)" title="wikilink">168街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>1906年4月14日[13]</p></td>
-<td><p><a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -254,9 +254,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/哈萊姆區.md" title="wikilink">哈萊姆區</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈萊姆區" title="wikilink">哈萊姆區</a></p></td>
 <td></td>
-<td><p><a href="../Page/145街車站_(IRT百老匯-第七大道線).md" title="wikilink">145街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/145街車站_(IRT百老匯-第七大道線)" title="wikilink">145街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -264,7 +264,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/紐約地鐵車廠#137街車廠.md" title="wikilink">137街車廠軌道圍繞主線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約地鐵車廠#137街車廠" title="wikilink">137街車廠軌道圍繞主線</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,7 +275,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/137街-市立學院車站_(IRT百老匯-第七大道線).md" title="wikilink">137街-市立學院</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/137街-市立學院車站_(IRT百老匯-第七大道線)" title="wikilink">137街-市立學院</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -294,9 +294,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/晨邊高地.md" title="wikilink">晨邊高地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/晨邊高地" title="wikilink">晨邊高地</a></p></td>
 <td></td>
-<td><p><a href="../Page/116街-哥倫比亞大學車站_(IRT百老匯-第七大道線).md" title="wikilink">116街-哥倫比亞大學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/116街-哥倫比亞大學車站_(IRT百老匯-第七大道線)" title="wikilink">116街-哥倫比亞大學</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -305,7 +305,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>nowrap|<a href="../Page/教堂大道-110街車站_(IRT百老匯-第七大道線).md" title="wikilink">教會大道-110街</a></p></td>
+<td><p>nowrap|<a href="https://zh.wikipedia.org/wiki/教堂大道-110街車站_(IRT百老匯-第七大道線)" title="wikilink">教會大道-110街</a></p></td>
 <td><p>nowrap|</p></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -316,7 +316,7 @@
 <tr class="odd">
 <td><p><a href="../Page/上西城.md" title="wikilink">上西城</a></p></td>
 <td></td>
-<td><p><a href="../Page/103街車站_(IRT百老匯-第七大道線).md" title="wikilink">103街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/103街車站_(IRT百老匯-第七大道線)" title="wikilink">103街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -334,7 +334,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IRT萊諾克斯大道線.md" title="wikilink">IRT萊諾克斯大道線匯入快車軌道</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IRT萊諾克斯大道線" title="wikilink">IRT萊諾克斯大道線匯入快車軌道</a>（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,7 +355,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/91街車站_(IRT百老匯-第七大道線).md" title="wikilink">91街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/91街車站_(IRT百老匯-第七大道線)" title="wikilink">91街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -365,7 +365,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/86街車站_(IRT百老匯-第七大道線).md" title="wikilink">86街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(IRT百老匯-第七大道線)" title="wikilink">86街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -375,7 +375,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/79街車站_(IRT百老匯-第七大道線).md" title="wikilink">79街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/79街車站_(IRT百老匯-第七大道線)" title="wikilink">79街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -385,7 +385,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/72街車站_(IRT百老匯-第七大道線).md" title="wikilink">72街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/72街車站_(IRT百老匯-第七大道線)" title="wikilink">72街</a></p></td>
 <td></td>
 <td><p>全部</p></td>
 <td></td>
@@ -395,7 +395,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/66街-林肯中心車站_(IRT百老匯-第七大道線).md" title="wikilink">66街-林肯中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/66街-林肯中心車站_(IRT百老匯-第七大道線)" title="wikilink">66街-林肯中心</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -406,16 +406,16 @@
 <tr class="even">
 <td><p><a href="../Page/曼哈頓中城.md" title="wikilink">曼哈頓中城</a></p></td>
 <td></td>
-<td><p><a href="../Page/59街-哥倫布圓環車站_(IRT百老匯-第七大道線).md" title="wikilink">59街-哥倫布圓環</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/59街-哥倫布圓環車站_(IRT百老匯-第七大道線)" title="wikilink">59街-哥倫布圓環</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1904年10月27日[27]</p></td>
-<td><p><a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/50街車站_(IRT百老匯-第七大道線).md" title="wikilink">50街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/50街車站_(IRT百老匯-第七大道線)" title="wikilink">50街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -424,7 +424,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>匯入<a href="../Page/紐約地鐵42街接駁線.md" title="wikilink">紐約地鐵42街接駁線北行慢車軌道</a>（無服務）</p></td>
+<td><p>匯入<a href="https://zh.wikipedia.org/wiki/紐約地鐵42街接駁線" title="wikilink">紐約地鐵42街接駁線北行慢車軌道</a>（無服務）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -435,16 +435,16 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/時報廣場-42街車站_(IRT百老匯-第七大道線).md" title="wikilink">時報廣場-42街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">時報廣場-42街</a></p></td>
 <td></td>
 <td><p>全部</p></td>
 <td></td>
 <td><p>1917年6月3日[29]</p></td>
-<td><p><a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>（）<br />
-<a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>（），<a href="../Page/42街-航港局客運總站車站_(IND第八大道線).md" title="wikilink">42街-航港局客運總站</a><br />
-<a href="../Page/BMT百老匯線.md" title="wikilink">BMT百老匯線</a>（）<br />
-<a href="../Page/紐約地鐵42街接駁線.md" title="wikilink">紐約地鐵42街接駁線</a>（）<br />
-<a href="../Page/紐新航港局客運總站.md" title="wikilink">紐新航港局客運總站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（），<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a><br />
+<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/紐約地鐵42街接駁線" title="wikilink">紐約地鐵42街接駁線</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -454,14 +454,14 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1917年6月3日[30]</p></td>
-<td><p>可連接<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="../Page/新澤西通勤鐵路.md" title="wikilink">新澤西通勤鐵路</a>，<a href="../Page/賓夕法尼亞車站_(紐約市).md" title="wikilink">賓夕法尼亞車站</a><br />
+<td><p>可連接<a href="../Page/美鐵.md" title="wikilink">美鐵</a>、<a href="../Page/長島鐵路.md" title="wikilink">長島鐵路及</a><a href="https://zh.wikipedia.org/wiki/新澤西通勤鐵路" title="wikilink">新澤西通勤鐵路</a>，<a href="https://zh.wikipedia.org/wiki/賓夕法尼亞車站_(紐約市)" title="wikilink">賓夕法尼亞車站</a><br />
 M34 / M34A選擇巴士服務</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/雀兒喜_(紐約).md" title="wikilink">雀兒喜</a></p></td>
 <td></td>
-<td><p><a href="../Page/28街車站_(IRT百老匯-第七大道線).md" title="wikilink">28街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/28街車站_(IRT百老匯-第七大道線)" title="wikilink">28街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -470,7 +470,7 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/23街車站_(IRT百老匯-第七大道線).md" title="wikilink">23街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/23街車站_(IRT百老匯-第七大道線)" title="wikilink">23街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -480,7 +480,7 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/18街車站_(IRT百老匯-第七大道線).md" title="wikilink">18街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/18街車站_(IRT百老匯-第七大道線)" title="wikilink">18街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -490,29 +490,29 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/14街車站_(IRT百老匯-第七大道線).md" title="wikilink">14街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/14街車站_(IRT百老匯-第七大道線)" title="wikilink">14街</a></p></td>
 <td></td>
 <td><p>全部</p></td>
 <td></td>
 <td><p>1918年7月1日[34]</p></td>
-<td><p><a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>（），<a href="../Page/14街車站_(IND第六大道線).md" title="wikilink">14街</a><br />
-<a href="../Page/BMT卡納西線.md" title="wikilink">BMT卡納西線</a>（），<a href="../Page/第六大道車站_(BMT卡納西線).md" title="wikilink">第六大道</a><br />
-連往<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="../Page/14街車站_(PATH).md" title="wikilink">14街</a></p></td>
+<td><p><a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>（），<a href="https://zh.wikipedia.org/wiki/14街車站_(IND第六大道線)" title="wikilink">14街</a><br />
+<a href="https://zh.wikipedia.org/wiki/BMT卡納西線" title="wikilink">BMT卡納西線</a>（），<a href="https://zh.wikipedia.org/wiki/第六大道車站_(BMT卡納西線)" title="wikilink">第六大道</a><br />
+連往<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="https://zh.wikipedia.org/wiki/14街車站_(PATH)" title="wikilink">14街</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/格林尼治村.md" title="wikilink">格林尼治村</a></p></td>
 <td></td>
-<td><p><a href="../Page/克里斯多福街-謝里登廣場車站_(IRT百老匯-第七大道線).md" title="wikilink">克里斯多福街-謝里登廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克里斯多福街-謝里登廣場車站_(IRT百老匯-第七大道線)" title="wikilink">克里斯多福街-謝里登廣場</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1918年7月1日[35]</p></td>
-<td><p>連往<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="../Page/克里斯托弗街車站_(PATH).md" title="wikilink">克里斯托弗街</a></p></td>
+<td><p>連往<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="https://zh.wikipedia.org/wiki/克里斯托弗街車站_(PATH)" title="wikilink">克里斯托弗街</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/豪斯頓街車站_(IRT百老匯-第七大道線).md" title="wikilink">豪斯頓街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/豪斯頓街車站_(IRT百老匯-第七大道線)" title="wikilink">豪斯頓街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -523,7 +523,7 @@ M34 / M34A選擇巴士服務</p></td>
 <tr class="odd">
 <td><p><a href="../Page/翠貝卡.md" title="wikilink">翠貝卡</a></p></td>
 <td></td>
-<td><p><a href="../Page/堅尼街車站_(IRT百老匯-第七大道線).md" title="wikilink">堅尼街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堅尼街車站_(IRT百老匯-第七大道線)" title="wikilink">堅尼街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -532,7 +532,7 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/富蘭克林街車站_(IRT百老匯-第七大道線).md" title="wikilink">富蘭克林街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富蘭克林街車站_(IRT百老匯-第七大道線)" title="wikilink">富蘭克林街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -543,7 +543,7 @@ M34 / M34A選擇巴士服務</p></td>
 <tr class="odd">
 <td><p><a href="../Page/曼哈頓金融區.md" title="wikilink">金融區</a></p></td>
 <td></td>
-<td><p><a href="../Page/錢伯斯街車站_(IRT百老匯-第七大道線).md" title="wikilink">錢伯斯街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錢伯斯街車站_(IRT百老匯-第七大道線)" title="wikilink">錢伯斯街</a></p></td>
 <td></td>
 <td><p>全部</p></td>
 <td></td>
@@ -573,7 +573,7 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/雷克托街車站_(IRT百老匯-第七大道線).md" title="wikilink">雷克托街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷克托街車站_(IRT百老匯-第七大道線)" title="wikilink">雷克托街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -582,7 +582,7 @@ M34 / M34A選擇巴士服務</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>主線和外圈於<a href="../Page/南碼頭-白廳街車站#舊站.md" title="wikilink">南碼頭分支</a></p></td>
+<td><p>主線和外圈於<a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站#舊站" title="wikilink">南碼頭分支</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -593,7 +593,7 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/南碼頭-白廳街車站#舊站.md" title="wikilink">南碼頭</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站#舊站" title="wikilink">南碼頭</a><br />
 <small>（舊站）</small></p></td>
 <td></td>
 <td><p>外環</p></td>
@@ -605,16 +605,16 @@ M34 / M34A選擇巴士服務</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/南碼頭-白廳街車站#新站.md" title="wikilink">南碼頭</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站#新站" title="wikilink">南碼頭</a><br />
 <small>（新月台）</small></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
 <td><p>2009年3月16日[43]</p></td>
 <td><p>2012年11月因颶風桑迪的破壞而關閉，2017年6月27日重開<br />
-<a href="../Page/BMT百老匯線.md" title="wikilink">BMT百老匯線</a>（），<a href="../Page/白廳街-南碼頭車站_(BMT百老匯線).md" title="wikilink">白廳街-南碼頭</a><br />
+<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>（），<a href="https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_(BMT百老匯線)" title="wikilink">白廳街-南碼頭</a><br />
 M15選擇巴士服務<br />
-<a href="../Page/史泰登島渡輪.md" title="wikilink">史泰登島渡輪</a>，</p></td>
+<a href="https://zh.wikipedia.org/wiki/史泰登島渡輪" title="wikilink">史泰登島渡輪</a>，</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -650,31 +650,31 @@ M15選擇巴士服務<br />
 <tr class="odd">
 <td><p><a href="../Page/曼哈頓金融區.md" title="wikilink">金融區</a></p></td>
 <td></td>
-<td><p><a href="../Page/公園廣場車站_(IRT百老匯-第七大道線).md" title="wikilink">公園廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公園廣場車站_(IRT百老匯-第七大道線)" title="wikilink">公園廣場</a></p></td>
 <td></td>
 <td><p>快車</p></td>
 <td></td>
 <td><p>1918年8月1日</p></td>
-<td><p><a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>（），<a href="../Page/錢伯斯街車站_(IND第八大道線).md" title="wikilink">錢伯斯街</a><br />
-IND第八大道線（），<a href="../Page/世界貿易中心車站_(IND第八大道線).md" title="wikilink">世界貿易中心</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（），<a href="https://zh.wikipedia.org/wiki/錢伯斯街車站_(IND第八大道線)" title="wikilink">錢伯斯街</a><br />
+IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易中心車站_(IND第八大道線)" title="wikilink">世界貿易中心</a><br />
 連往<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="../Page/世界貿易中心車站_(PATH).md" title="wikilink">世界貿易中心</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/福爾頓街車站_(IRT百老匯-第七大道線).md" title="wikilink">福爾頓街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福爾頓街車站_(IRT百老匯-第七大道線)" title="wikilink">福爾頓街</a></p></td>
 <td></td>
 <td><p>快車</p></td>
 <td></td>
 <td><p>1918年8月1日</p></td>
 <td><p><a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>（）<br />
-<a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>（）<br />
-<a href="../Page/BMT納蘇街線.md" title="wikilink">BMT納蘇街線</a>（）<br />
-連往<a href="../Page/BMT百老匯線.md" title="wikilink">BMT百老匯線</a>（），<a href="../Page/科特蘭街車站_(BMT百老匯線).md" title="wikilink">科特蘭街經</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/BMT納蘇街線" title="wikilink">BMT納蘇街線</a>（）<br />
+連往<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>（），<a href="https://zh.wikipedia.org/wiki/科特蘭街車站_(BMT百老匯線)" title="wikilink">科特蘭街經</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/華爾街車站_(IRT百老匯-第七大道線).md" title="wikilink">華爾街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華爾街車站_(IRT百老匯-第七大道線)" title="wikilink">華爾街</a></p></td>
 <td></td>
 <td><p>快車</p></td>
 <td></td>
@@ -693,9 +693,9 @@ IND第八大道線（），<a href="../Page/世界貿易中心車站_(IND第八�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/布魯克林高地.md" title="wikilink">布魯克林高地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布魯克林高地" title="wikilink">布魯克林高地</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
-<td><p><a href="../Page/克拉克街車站_(IRT百老匯-第七大道線).md" title="wikilink">克拉克街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克拉克街車站_(IRT百老匯-第七大道線)" title="wikilink">克拉克街</a></p></td>
 <td></td>
 <td><p>快車</p></td>
 <td></td>
@@ -705,16 +705,16 @@ IND第八大道線（），<a href="../Page/世界貿易中心車站_(IND第八�
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="../Page/區公所車站_(IRT百老匯-第七大道線).md" title="wikilink">區公所</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/區公所車站_(IRT百老匯-第七大道線)" title="wikilink">區公所</a></p></td>
 <td></td>
 <td><p>快車</p></td>
 <td></td>
 <td><p>1919年4月15日</p></td>
-<td><p><a href="../Page/IRT東公園道線.md" title="wikilink">IRT東公園道線</a>（）<br />
-<a href="../Page/BMT第四大道線.md" title="wikilink">BMT第四大道線</a>（），<a href="../Page/法庭街車站_(BMT第四大道線).md" title="wikilink">法庭街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IRT東公園道線" title="wikilink">IRT東公園道線</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/BMT第四大道線" title="wikilink">BMT第四大道線</a>（），<a href="https://zh.wikipedia.org/wiki/法庭街車站_(BMT第四大道線)" title="wikilink">法庭街</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>成為<a href="../Page/IRT東公園道線.md" title="wikilink">IRT東公園道線慢車軌道</a>（）</p></td>
+<td><p>成為<a href="https://zh.wikipedia.org/wiki/IRT東公園道線" title="wikilink">IRT東公園道線慢車軌道</a>（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -736,14 +736,14 @@ IND第八大道線（），<a href="../Page/世界貿易中心車站_(IND第八�
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink")
 [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
 
-1.   - [南碼頭總站計劃](../Page/南碼頭-白廳街車站.md "wikilink"), [Environmental
-    Assessment and Section 4(f)
+1.   - [南碼頭總站計劃](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink"),
+    [Environmental Assessment and Section 4(f)
     Evaluation](http://www.mta.info/capconstr/sft/dea.htm),
 
 2.  [大都會運輸署](../Page/大都會運輸署.md "wikilink"),
 
-3.  , [第二大道地鐵線](../Page/紐約地鐵第二大道線.md "wikilink"), [Supplemental Draft
-    Environmental Impact
+3.  , [第二大道地鐵線](https://zh.wikipedia.org/wiki/紐約地鐵第二大道線 "wikilink"),
+    [Supplemental Draft Environmental Impact
     Statement](http://www.mta.info/capconstr/sas/sdeis.htm),
 
 4.

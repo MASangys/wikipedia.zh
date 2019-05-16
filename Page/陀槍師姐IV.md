@@ -1,4 +1,4 @@
-《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[林文龍及](../Page/林文龍.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
+《**陀槍師姐IV**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共40集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")、[魏駿傑](../Page/魏駿傑.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[林文龍及](../Page/林文龍.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，監製[鄺業生](../Page/鄺業生.md "wikilink")。此劇為《[陀槍師姐](../Page/陀槍師姐.md "wikilink")》系列第4輯。
 
 ## 演員表
 
@@ -46,7 +46,7 @@
 <td><p><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></p></td>
 <td><p><strong>陳三元</strong></p></td>
 <td><p>陳大生、王二妹之大女<br />
-參見<a href="../Page/#程家.md" title="wikilink">程家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁雪湄.md" title="wikilink">梁雪湄</a></p></td>
@@ -99,7 +99,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/魏駿傑.md" title="wikilink">魏駿傑</a></strong></p></td>
 <td><p><strong>程　峰</strong></p></td>
-<td><p><a href="../Page/重案組.md" title="wikilink">重案組</a><a href="../Page/高級督察.md" title="wikilink">高級督察</a>→<a href="../Page/總督察.md" title="wikilink">總督察</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/重案組" title="wikilink">重案組</a><a href="../Page/高級督察.md" title="wikilink">高級督察</a>→<a href="../Page/總督察.md" title="wikilink">總督察</a><br />
 程守忠、何金梅之子<br />
 陳三元之夫<br />
 程莎莎、程卓卓之父<br />
@@ -112,7 +112,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></strong></p></td>
 <td><p><strong>陳三元</strong></p></td>
-<td><p>交通組<a href="../Page/警務督察.md" title="wikilink">督察</a><br />
+<td><p>交通組<a href="https://zh.wikipedia.org/wiki/警務督察" title="wikilink">督察</a><br />
 陳大生、王二妹之大女<br />
 程峰之妻<br />
 陳小生之大侄女<br />
@@ -246,12 +246,12 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/魏駿傑.md" title="wikilink">魏駿傑</a></strong></p></td>
 <td><p><strong>程　峰</strong></p></td>
-<td><p>參見<a href="../Page/#程家.md" title="wikilink">程家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink">程家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/邵傳勇.md" title="wikilink">邵傳勇</a></p></td>
 <td><p>歐志強</p></td>
-<td><p><strong><a href="../Page/花灑.md" title="wikilink">花灑</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/花灑" title="wikilink">花灑</a></strong><br />
 <a href="../Page/警員_(香港).md" title="wikilink">警員</a><br />
 鄺梓鍵、程峰下屬<br />
 陳五福男友</p></td>
@@ -272,12 +272,12 @@
 鄺梓鍵、程峰下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江暉.md" title="wikilink">江　暉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江暉" title="wikilink">江　暉</a></p></td>
 <td><p>江偉豪</p></td>
 <td><p><strong>Dick</strong><br />
 警員，電腦專家<br />
 鄺梓鍵、程峰之下屬<br />
-曾當程浩光的補習老師，參見<a href="../Page/#醉酒駕駛（第7-12集）.md" title="wikilink">醉酒駕駛（第7-12集）</a><br />
+曾當程浩光的補習老師，參見<a href="https://zh.wikipedia.org/wiki/#醉酒駕駛（第7-12集）" title="wikilink">醉酒駕駛（第7-12集）</a><br />
 程莎莎之口琴老師<br />
 加入洪英社當臥底（第14集）<br />
 于第25集被蒋天颖枪击至重伤昏迷<br />
@@ -298,7 +298,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a></strong></p></td>
 <td><p><strong>陳小生</strong></p></td>
-<td><p>參見<a href="../Page/#陳家.md" title="wikilink">陳家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#陳家" title="wikilink">陳家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
@@ -308,15 +308,15 @@
 陳小生、鄭吉祥、朱少芬、艇仔、吳英明上司</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬蹄露.md" title="wikilink">馬蹄露</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬蹄露" title="wikilink">馬蹄露</a></p></td>
 <td><p>朱少芬</p></td>
 <td><p><strong>Rita</strong><br />
-<a href="../Page/特遣隊.md" title="wikilink">特遣隊警員</a><br />
+<a href="https://zh.wikipedia.org/wiki/特遣隊" title="wikilink">特遣隊警員</a><br />
 梁Sir、陳小生、鄭吉祥下屬<br />
 警局四大美人之一</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蒲茗藍.md" title="wikilink">蒲茗藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲茗藍" title="wikilink">蒲茗藍</a></p></td>
 <td><p>吳英明</p></td>
 <td><p><strong>波子</strong><br />
 特遣隊警員<br />
@@ -329,10 +329,10 @@
 梁Sir、陳小生、鄭吉祥下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>鄭吉祥</p></td>
 <td><p><strong>吉仔</strong><br />
-<a href="../Page/西九龙總區.md" title="wikilink">西九龙總區</a><a href="../Page/保護兒童政策組.md" title="wikilink">保護兒童政策組</a>→特遣隊警長<br />
+<a href="https://zh.wikipedia.org/wiki/西九龙總區" title="wikilink">西九龙總區</a><a href="https://zh.wikipedia.org/wiki/保護兒童政策組" title="wikilink">保護兒童政策組</a>→特遣隊警長<br />
 梁Sir、陳小生下屬</p></td>
 </tr>
 </tbody>
@@ -356,7 +356,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
 <td><p><strong>方　晴</strong></p></td>
-<td><p>參見<a href="../Page/#方家.md" title="wikilink">方家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#方家" title="wikilink">方家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a></p></td>
@@ -369,23 +369,23 @@
 
 ### 生記茶餐廳
 
-|                                      |         |                                   |
-| ------------------------------------ | ------- | --------------------------------- |
-| **演員**                               | **角色**  | **關係/暱稱**                         |
-| **[朱咪咪](../Page/朱咪咪.md "wikilink")** | **王二妹** | 參見[陳家](../Page/#陳家.md "wikilink") |
-| [郭卓樺](../Page/郭卓樺.md "wikilink")     | 口水全     | 生記茶餐廳跑堂                           |
-| [陳勉良](../Page/陳勉良.md "wikilink")     | 師父昌     | 生記茶餐廳師父                           |
+|                                      |         |                                                      |
+| ------------------------------------ | ------- | ---------------------------------------------------- |
+| **演員**                               | **角色**  | **關係/暱稱**                                            |
+| **[朱咪咪](../Page/朱咪咪.md "wikilink")** | **王二妹** | 參見[陳家](https://zh.wikipedia.org/wiki/#陳家 "wikilink") |
+| [郭卓樺](../Page/郭卓樺.md "wikilink")     | 口水全     | 生記茶餐廳跑堂                                              |
+| [陳勉良](../Page/陳勉良.md "wikilink")     | 師父昌     | 生記茶餐廳師父                                              |
 
 ### 其他警察
 
-|                                      |                                        |             |
-| ------------------------------------ | -------------------------------------- | ----------- |
-| **演員**                               | **角色**                                 | **關係/暱稱**   |
-| [李鴻-{杰}-](../Page/李鴻杰.md "wikilink") | [警務處副處長](../Page/警務處副處長.md "wikilink") | 杨Sir        |
-| [駱應鈞](../Page/駱應鈞.md "wikilink")     | 彭建國                                    | 彭Sir        |
-| [黃鳳瓊](../Page/黃鳳瓊.md "wikilink")     | Cindy                                  | 與Rita合稱四大美人 |
-| [黃梓暐](../Page/黃梓暐.md "wikilink")     | Rosa                                   |             |
-| [陳楚翹](../Page/陳楚翹.md "wikilink")     | Mimi                                   |             |
+|                                                     |                                                           |             |
+| --------------------------------------------------- | --------------------------------------------------------- | ----------- |
+| **演員**                                              | **角色**                                                    | **關係/暱稱**   |
+| [李鴻-{杰}-](../Page/李鴻杰.md "wikilink")                | [警務處副處長](https://zh.wikipedia.org/wiki/警務處副處長 "wikilink") | 杨Sir        |
+| [駱應鈞](../Page/駱應鈞.md "wikilink")                    | 彭建國                                                       | 彭Sir        |
+| [黃鳳瓊](https://zh.wikipedia.org/wiki/黃鳳瓊 "wikilink") | Cindy                                                     | 與Rita合稱四大美人 |
+| [黃梓暐](https://zh.wikipedia.org/wiki/黃梓暐 "wikilink") | Rosa                                                      |             |
+| [陳楚翹](https://zh.wikipedia.org/wiki/陳楚翹 "wikilink") | Mimi                                                      |             |
 
 ### 雄記車房
 
@@ -399,15 +399,15 @@
 <tr class="even">
 <td><p><strong><a href="../Page/夏雨_(香港).md" title="wikilink">夏　雨</a></strong></p></td>
 <td><p><strong>衛英雄</strong></p></td>
-<td><p>參見<a href="../Page/#衛家.md" title="wikilink">衛家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#衛家" title="wikilink">衛家</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/胡烱龍.md" title="wikilink">胡烱龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡烱龍" title="wikilink">胡烱龍</a></p></td>
 <td><p>Rocky</p></td>
 <td><p>雄記車房員工</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>宋子傑</p></td>
 <td><p><strong>師傅仔</strong><br />
 雄記車房員工<br />
@@ -436,7 +436,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/康華.md" title="wikilink">康　華</a></strong></p></td>
 <td><p><strong>王素心</strong></p></td>
-<td><p>參見<a href="../Page/#衛家.md" title="wikilink">衛家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#衛家" title="wikilink">衛家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Joe_Junior.md" title="wikilink">Joe Junior</a></p></td>
@@ -501,7 +501,7 @@
 于第12集因頂包陳家希酒駕撞死人一案而被控诉妨礙司法公正</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉彩南.md" title="wikilink">葉彩南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉彩南" title="wikilink">葉彩南</a></p></td>
 <td><p>赵子信</p></td>
 <td><p>于第9集被陳家希撞伤昏迷不醒<br />
 于第10集身亡</p></td>
@@ -512,13 +512,13 @@
 <td><p>赵子信之妻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/温裕红.md" title="wikilink">温裕红</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/温裕红" title="wikilink">温裕红</a></p></td>
 <td><p>芳</p></td>
 <td><p>程鐵男之妻<br />
 程浩光之母</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/成展权.md" title="wikilink">成展权</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成展权" title="wikilink">成展权</a></p></td>
 <td><p>程浩光</p></td>
 <td><p>芳、程鐵男之子<br />
 3年前因程鐵男飙车而导致失明</p></td>
@@ -541,7 +541,7 @@
 <td><p><a href="../Page/陀槍師姐III.md" title="wikilink">陀槍師姐III中的</a>「新牌仔」<br />
 电单车杀手<br />
 識飲識食雜誌記者<br />
-患有<a href="../Page/多重人格.md" title="wikilink">多重人格</a>，有15种人格，大B、奀仔、阿Sam、珠女为其的人格<br />
+患有<a href="https://zh.wikipedia.org/wiki/多重人格" title="wikilink">多重人格</a>，有15种人格，大B、奀仔、阿Sam、珠女为其的人格<br />
 对身上有消毒药水的女人特别敏感，习惯在杀害一个人后砍掉娃娃的头<br />
 殺害叶英英、王静瞳、李华诗、邱家琳、卢小娟、其继父、敖碧兒、其母，袭击兼殺害何碧玲，袭击簡玉潔、方晴、衛英姿<br />
 曾受其继父多次性侵犯<br />
@@ -558,7 +558,7 @@
 于第26集被陳志聰所殺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/貝汶琪.md" title="wikilink">貝汶琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貝汶琪" title="wikilink">貝汶琪</a></p></td>
 <td><p>敖碧兒</p></td>
 <td><p>中学生物教师（25岁）<br />
 第三位受害者<br />
@@ -598,7 +598,7 @@
 于第28集被陳志聰所殺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周凱珊.md" title="wikilink">周凱珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凱珊" title="wikilink">周凱珊</a></p></td>
 <td><p>簡玉潔</p></td>
 <td><p>鮑頂天之妻<br />
 安建推拿中心老闆<br />
@@ -608,7 +608,7 @@
 于第26集被陳志聰袭击</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>Andy</p></td>
 <td><p>識飲識食雜誌記者<br />
 陳志聰之同事</p></td>
@@ -629,7 +629,7 @@
 <td><p><a href="../Page/余子明.md" title="wikilink">余子明</a></p></td>
 <td><p>高　寿</p></td>
 <td><p>流浪汉<br />
-患有<a href="../Page/精神病.md" title="wikilink">精神病</a>，当自己是清朝皇帝<br />
+患有<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病</a>，当自己是清朝皇帝<br />
 嫌疑犯</p></td>
 </tr>
 <tr class="odd">
@@ -696,7 +696,7 @@
 於第40集被陳小生槍殺身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡國慶.md" title="wikilink">蔡國慶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡國慶" title="wikilink">蔡國慶</a></p></td>
 <td><p>福　爺</p></td>
 <td><p>蔣權好友<br />
 黑社會老大之一</p></td>
@@ -719,7 +719,7 @@
 於第39集被成展才槍殺身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊家洛.md" title="wikilink">楊家洛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊家洛" title="wikilink">楊家洛</a></p></td>
 <td><p>太子坤</p></td>
 <td><p>洪英社成員</p></td>
 </tr>
@@ -739,7 +739,7 @@
 <td><p>麥耀東手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/甘子正.md" title="wikilink">甘子正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甘子正" title="wikilink">甘子正</a></p></td>
 <td><p>火　雞</p></td>
 <td><p>麥耀東手下<br />
 於第18集因麥耀東欲殺害他而出賣麥耀東</p></td>
@@ -772,14 +772,14 @@
 <td><p>成展才律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉綽琪.md" title="wikilink">劉綽琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉綽琪" title="wikilink">劉綽琪</a></p></td>
 <td><p>顧小冰</p></td>
 <td><p>麦耀东旗下妓女<br />
 於第1集偷走陳小生的金哨子<br />
 於第3集自首</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td><p>阿　嬌</p></td>
 <td><p>麦耀东旗下妓女<br />
 於第2集被拘捕</p></td>
@@ -796,7 +796,7 @@
 <tr class="odd">
 <td><p><a href="../Page/劉家輝.md" title="wikilink">劉家輝</a></p></td>
 <td><p>任重遠</p></td>
-<td><p>馬來西亞堪輿師，實為<a href="../Page/神棍.md" title="wikilink">神棍</a><br />
+<td><p>馬來西亞堪輿師，實為<a href="https://zh.wikipedia.org/wiki/神棍" title="wikilink">神棍</a><br />
 謝美琪之男友<br />
 于第40集因隐瞒案情而入狱</p></td>
 </tr>
@@ -806,12 +806,12 @@
 <td><p>叔父</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉應龍.md" title="wikilink">劉應龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉應龍" title="wikilink">劉應龍</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧以豪.md" title="wikilink">鄧以豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧以豪" title="wikilink">鄧以豪</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -828,19 +828,19 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>阿　炳</p></td>
 <td><p>偷運非法入境者來港賣淫（第1集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/廖麗麗.md" title="wikilink">廖麗麗</a></p></td>
 <td><p>朱師奶</p></td>
-<td><p><a href="../Page/#生記茶餐廳.md" title="wikilink">生記茶餐廳客人</a>（第2集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#生記茶餐廳" title="wikilink">生記茶餐廳客人</a>（第2集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/凌禮文.md" title="wikilink">凌禮文</a></p></td>
 <td><p>九　叔</p></td>
-<td><p><a href="../Page/#生記茶餐廳.md" title="wikilink">生記茶餐廳客人</a>（第2，4集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#生記茶餐廳" title="wikilink">生記茶餐廳客人</a>（第2，4集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
@@ -848,7 +848,7 @@
 <td><p>鄺梓鍵下屬（第3，19，20集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>David</p></td>
 <td></td>
 </tr>
@@ -858,7 +858,7 @@
 <td><p>蔣天穎手下（第4，23，31集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>-</p></td>
 <td><p>記者（第4集）</p></td>
 </tr>
@@ -868,22 +868,22 @@
 <td><p>陳三元主診醫生（第4至6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張貝茜.md" title="wikilink">張貝茜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張貝茜" title="wikilink">張貝茜</a></p></td>
 <td><p>-</p></td>
 <td><p>護士（第4至6集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/車保羅.md" title="wikilink">車保羅</a></p></td>
 <td><p>道友標</p></td>
-<td><p>搶顧小冰為兒子醫治<a href="../Page/心漏症.md" title="wikilink">心漏症的錢</a>（第4集）人</p></td>
+<td><p>搶顧小冰為兒子醫治<a href="https://zh.wikipedia.org/wiki/心漏症" title="wikilink">心漏症的錢</a>（第4集）人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何仲源.md" title="wikilink">何仲源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何仲源" title="wikilink">何仲源</a></p></td>
 <td><p>阿　洋</p></td>
 <td><p>（第5集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>阿　棠</p></td>
 <td><p>（第5集）</p></td>
 </tr>
@@ -898,7 +898,7 @@
 <td><p>醫生（第6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td><p>-</p></td>
 <td><p>護士（第6集）</p></td>
 </tr>
@@ -908,7 +908,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾子淇.md" title="wikilink">鍾子淇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾子淇" title="wikilink">鍾子淇</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -923,22 +923,22 @@
 <td><p>（第6集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>-</p></td>
 <td><p>軍裝警員（第6至7，23，34至35集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭毅邦.md" title="wikilink">鄭毅邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭毅邦" title="wikilink">鄭毅邦</a></p></td>
 <td><p>-</p></td>
 <td><p>醫生（第7集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>-</p></td>
 <td><p>路人（第7集）</p></td>
 </tr>
@@ -953,12 +953,12 @@
 <td><p>售貨員（第8集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
 <td><p>-</p></td>
 <td><p>女秘書（第8集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧汝超.md" title="wikilink">鄧汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧汝超" title="wikilink">鄧汝超</a></p></td>
 <td><p>-</p></td>
 <td><p>司機（第8集）</p></td>
 </tr>
@@ -968,22 +968,22 @@
 <td><p>司機妻（第8集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/盧永匡.md" title="wikilink">盧永匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧永匡" title="wikilink">盧永匡</a></p></td>
 <td><p>-</p></td>
 <td><p>戲院情侶（第9集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳嘉露.md" title="wikilink">陳嘉露</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉露" title="wikilink">陳嘉露</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>-</p></td>
-<td><p>小混混，在<a href="../Page/#心意吧.md" title="wikilink">心意吧鬧事</a>（第9集）</p></td>
+<td><p>小混混，在<a href="https://zh.wikipedia.org/wiki/#心意吧" title="wikilink">心意吧鬧事</a>（第9集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉深宜.md" title="wikilink">劉深宜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉深宜" title="wikilink">劉深宜</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -993,7 +993,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/殷櫻.md" title="wikilink">殷　櫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷櫻" title="wikilink">殷　櫻</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1003,17 +1003,17 @@
 <td><p>醫生（第9，11，25集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王少萍.md" title="wikilink">王少萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王少萍" title="wikilink">王少萍</a></p></td>
 <td><p>-</p></td>
 <td><p>光榮百貨秘書（第9至10集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/雷恩.md" title="wikilink">雷　恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷恩" title="wikilink">雷　恩</a></p></td>
 <td><p>-</p></td>
 <td><p>化妝師（第11集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/邱銘.md" title="wikilink">邱　銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邱銘" title="wikilink">邱　銘</a></p></td>
 <td><p>-</p></td>
 <td><p>「警察之聲」導演（第11至12集）</p></td>
 </tr>
@@ -1023,7 +1023,7 @@
 <td><p>「警察之聲」助導（第11至12集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓兒.md" title="wikilink">卓　兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓兒" title="wikilink">卓　兒</a></p></td>
 <td><p>-</p></td>
 <td><p>老師（第11集）</p></td>
 </tr>
@@ -1035,37 +1035,37 @@
 鄺梓鍵的女友，後分手（第12至14，16，37至38集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td></td>
 <td><p>化妝師（第12集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林敏儀.md" title="wikilink">林敏儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林敏儀" title="wikilink">林敏儀</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>Danny</p></td>
 <td><p>方晴朋友（第13集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃碧玲.md" title="wikilink">黃碧玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃碧玲" title="wikilink">黃碧玲</a></p></td>
 <td><p>Janet</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓兒.md" title="wikilink">卓　兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓兒" title="wikilink">卓　兒</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/#心意吧.md" title="wikilink">心意吧客人</a>（第13，30集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#心意吧" title="wikilink">心意吧客人</a>（第13，30集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1075,37 +1075,37 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何志祥.md" title="wikilink">何志祥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何志祥" title="wikilink">何志祥</a></p></td>
 <td><p>Jimmy</p></td>
 <td><p>（第14，16集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘芷蕾.md" title="wikilink">潘芷蕾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘芷蕾" title="wikilink">潘芷蕾</a></p></td>
 <td><p>-</p></td>
 <td><p>Jimmy女友（第14集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>大　B</p></td>
 <td><p>大丹手下（第14集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林佳蓉.md" title="wikilink">林佳蓉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林佳蓉" title="wikilink">林佳蓉</a></p></td>
 <td><p>-</p></td>
 <td><p>新聞報導員（第14，35集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p>蛇　仔</p></td>
 <td><p>（第17集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾子彬.md" title="wikilink">鍾子彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾子彬" title="wikilink">鍾子彬</a></p></td>
 <td><p>-</p></td>
 <td><p>模型店老闆（第21，24集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾玉娟.md" title="wikilink">曾玉娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾玉娟" title="wikilink">曾玉娟</a></p></td>
 <td><p>-</p></td>
 <td><p>模型店老闆娘（第21，24集）</p></td>
 </tr>
@@ -1120,67 +1120,67 @@
 <td><p>泰國毒犯，曾受成展才恩惠，和洪英社有毒品交易（第23集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/言俊熙.md" title="wikilink">言俊熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/言俊熙" title="wikilink">言俊熙</a></p></td>
 <td><p>-</p></td>
 <td><p>毒品拆家（第23集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>-</p></td>
 <td><p>蔣天穎手下（第23集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/霍建邦.md" title="wikilink">霍建邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍建邦" title="wikilink">霍建邦</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳嘉露.md" title="wikilink">陳嘉露</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉露" title="wikilink">陳嘉露</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭毅邦.md" title="wikilink">鄭毅邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭毅邦" title="wikilink">鄭毅邦</a></p></td>
 <td><p>王醫生</p></td>
 <td><p>（第23集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/冼燕芳.md" title="wikilink">冼燕芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冼燕芳" title="wikilink">冼燕芳</a></p></td>
 <td><p>冼燕芳</p></td>
 <td><p>喜豐年蛇宴女歌手（第23集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
 <td><p>-</p></td>
 <td><p>警察（第23，27集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳振業.md" title="wikilink">陳振業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳振業" title="wikilink">陳振業</a></p></td>
 <td><p>-</p></td>
 <td><p>清潔工人（第24集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伍秉君.md" title="wikilink">伍秉君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍秉君" title="wikilink">伍秉君</a></p></td>
 <td><p>-</p></td>
 <td><p>小食店老闆（第24集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>-</p></td>
 <td><p>江偉豪外婆（第25集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁輝宗.md" title="wikilink">梁輝宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁輝宗" title="wikilink">梁輝宗</a></p></td>
 <td><p>-</p></td>
 <td><p>江偉豪舅父（第25集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>-</p></td>
 <td><p>江偉豪表弟（第25集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>莫醫生</p></td>
 <td><p>Peter<br />
 鄺梓鍵之好友<br />
@@ -1189,12 +1189,12 @@
 程峰主診醫生（第40集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賴榮顯.md" title="wikilink">賴榮顯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賴榮顯" title="wikilink">賴榮顯</a></p></td>
 <td><p>-</p></td>
 <td><p>貨倉看更（第25集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王冠忠.md" title="wikilink">王冠忠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王冠忠" title="wikilink">王冠忠</a></p></td>
 <td><p>-</p></td>
 <td><p>急症室醫生（第26集）</p></td>
 </tr>
@@ -1204,12 +1204,12 @@
 <td><p>（第26，28，38至39集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎銘諾.md" title="wikilink">黎銘諾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎銘諾" title="wikilink">黎銘諾</a></p></td>
 <td><p>Jack</p></td>
 <td><p>（第26集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/嚴俊.md" title="wikilink">嚴　俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/嚴俊" title="wikilink">嚴　俊</a></p></td>
 <td><p>-</p></td>
 <td><p>餐廳情侶（第28集）</p></td>
 </tr>
@@ -1219,22 +1219,22 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/盧永匡.md" title="wikilink">盧永匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧永匡" title="wikilink">盧永匡</a></p></td>
 <td><p>-</p></td>
 <td><p>油站職員（第28集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳堃" title="wikilink">陳　堃</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張熙傑.md" title="wikilink">張熙傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張熙傑" title="wikilink">張熙傑</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1244,42 +1244,42 @@
 <td><p>店長（第29集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td><p>-</p></td>
 <td><p>酒店經理（第29集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴少民.md" title="wikilink">戴少民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
 <td><p>-</p></td>
 <td><p>精神科醫生（第29集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/言俊熙.md" title="wikilink">言俊熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/言俊熙" title="wikilink">言俊熙</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/#心意吧.md" title="wikilink">心意吧客人</a>（第30集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#心意吧" title="wikilink">心意吧客人</a>（第30集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/胡啟光.md" title="wikilink">胡啟光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡啟光" title="wikilink">胡啟光</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王可惠.md" title="wikilink">王可惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王可惠" title="wikilink">王可惠</a></p></td>
 <td><p>Coco</p></td>
 <td><p>任重遠助手（第33，39至40集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林佩君.md" title="wikilink">林佩君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林佩君" title="wikilink">林佩君</a></p></td>
 <td><p>-</p></td>
 <td><p>餐廳客人（第34集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃俊紳.md" title="wikilink">黃俊紳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊紳" title="wikilink">黃俊紳</a></p></td>
 <td><p>-</p></td>
 <td><p>記者（第34集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林影紅.md" title="wikilink">林影紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林影紅" title="wikilink">林影紅</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1290,18 +1290,18 @@
 
 以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-|        |        |                  |                                  |                                  |
-| ------ | ------ | ---------------- | -------------------------------- | -------------------------------- |
-| **週次** | **集數** | **日期**           | **平均收視**                         | **最高收視**                         |
-| 1      | 01-05  | 2004年2月16日-2月20日 | 29[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 2      | 06-10  | 2004年2月23日-2月27日 | 29[點](../Page/收視點.md "wikilink") |                                  |
-| 3      | 11-15  | 2004年3月1日-3月5日   | 28[點](../Page/收視點.md "wikilink") |                                  |
-| 4      | 16-20  | 2004年3月8日-3月12日  | 28[點](../Page/收視點.md "wikilink") |                                  |
-| 5      | 21-25  | 2004年3月15日-3月19日 | 29[點](../Page/收視點.md "wikilink") |                                  |
-| 6      | 26-30  | 2004年3月22日-3月26日 | 31[點](../Page/收視點.md "wikilink") |                                  |
-| 7      | 31-35  | 2004年3月29日-4月2日  | 30[點](../Page/收視點.md "wikilink") |                                  |
-| 8      | 36-40  | 2004年4月5日-4月9日   | 31[點](../Page/收視點.md "wikilink") |                                  |
-| 1-8    | 全剧     | 2004年2月16日-4月9日  | 29[點](../Page/收視點.md "wikilink") |                                  |
+|        |        |                  |                                                     |                                                     |
+| ------ | ------ | ---------------- | --------------------------------------------------- | --------------------------------------------------- |
+| **週次** | **集數** | **日期**           | **平均收視**                                            | **最高收視**                                            |
+| 1      | 01-05  | 2004年2月16日-2月20日 | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2      | 06-10  | 2004年2月23日-2月27日 | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 3      | 11-15  | 2004年3月1日-3月5日   | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 4      | 16-20  | 2004年3月8日-3月12日  | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 5      | 21-25  | 2004年3月15日-3月19日 | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 6      | 26-30  | 2004年3月22日-3月26日 | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 7      | 31-35  | 2004年3月29日-4月2日  | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 8      | 36-40  | 2004年4月5日-4月9日   | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 1-8    | 全剧     | 2004年2月16日-4月9日  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
 
 ## 不合理之處
 
@@ -1321,7 +1321,7 @@
 
 <!-- end list -->
 
-  - 《陀槍師姐III》第8集，講述陳志聰因不小心駕駛而被陳三元判罰停牌，且受重傷而導致行動不便。但在《陀槍師姐IV》中，陳志聰還能駕駛。此外，在《陀槍師姐IV》中，講述陳志聰在多年前已有[解離性人格疾患](../Page/解離性人格疾患.md "wikilink")，照理在被判罰停牌時已可動殺機。
+  - 《陀槍師姐III》第8集，講述陳志聰因不小心駕駛而被陳三元判罰停牌，且受重傷而導致行動不便。但在《陀槍師姐IV》中，陳志聰還能駕駛。此外，在《陀槍師姐IV》中，講述陳志聰在多年前已有[解離性人格疾患](https://zh.wikipedia.org/wiki/解離性人格疾患 "wikilink")，照理在被判罰停牌時已可動殺機。
 
 <!-- end list -->
 
@@ -1336,7 +1336,7 @@
 
 ## 電視節目的變遷
 
-[分類:香港交通部題材作品](../Page/分類:香港交通部題材作品.md "wikilink")
+[分類:香港交通部題材作品](https://zh.wikipedia.org/wiki/分類:香港交通部題材作品 "wikilink")
 
 [Category:2004年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2004年無綫電視劇集 "wikilink")
 [Category:陀槍師姐系列](https://zh.wikipedia.org/wiki/Category:陀槍師姐系列 "wikilink")

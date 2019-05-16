@@ -1,7 +1,7 @@
-**网页归档**（或，缩写mhtml。又稱**單一檔案網頁**或**網頁封存檔案**）為以[多用途互聯網郵件擴展格式](../Page/多用途互聯網郵件擴展.md "wikilink")，將一個[多附件網頁](../Page/多附件網頁.md "wikilink")（如包含大量[圖片](../Page/圖片.md "wikilink")、[Flash動畫](../Page/SWF.md "wikilink")、[Java小程序的網頁](../Page/JavaScript.md "wikilink")）儲存為單一檔案\[1\]，可用於發送HTML[电子邮件](../Page/电子邮件.md "wikilink")，此單一檔案即稱為一網頁封存檔案，其副檔名為**.mht**。這種格式有時被簡稱為MHT。
+**网页归档**（或，缩写mhtml。又稱**單一檔案網頁**或**網頁封存檔案**）為以[多用途互聯網郵件擴展格式](../Page/多用途互聯網郵件擴展.md "wikilink")，將一個[多附件網頁](https://zh.wikipedia.org/wiki/多附件網頁 "wikilink")（如包含大量[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")、[Flash動畫](https://zh.wikipedia.org/wiki/SWF "wikilink")、[Java小程序的網頁](../Page/JavaScript.md "wikilink")）儲存為單一檔案\[1\]，可用於發送HTML[电子邮件](../Page/电子邮件.md "wikilink")，此單一檔案即稱為一網頁封存檔案，其副檔名為**.mht**。這種格式有時被簡稱為MHT。
 
 MHTML在RFC 2110中定義，後經RFC
-2557修訂。MHTML文檔的基礎是[超文本标记语言](../Page/超文本标记语言.md "wikilink")。
+2557修訂。MHTML文檔的基礎是[超文本标记语言](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")。
 
 ## 和HTML的分別
 
@@ -10,9 +10,9 @@ HTML頁面中的圖形和其他功能必須分開存放，也需要原始文件�
 ## 創建及編輯
 
 [Microsoft
-Office](../Page/Microsoft_Office.md "wikilink")（[Word](../Page/Word.md "wikilink")\[2\]、[Excel](../Page/Excel.md "wikilink")、[PowerPoint](../Page/PowerPoint.md "wikilink")、[Access](../Page/Access.md "wikilink")）能夠創建及編輯MHTML檔案。
+Office](../Page/Microsoft_Office.md "wikilink")（[Word](https://zh.wikipedia.org/wiki/Word "wikilink")\[2\]、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、[PowerPoint](https://zh.wikipedia.org/wiki/PowerPoint "wikilink")、[Access](https://zh.wikipedia.org/wiki/Access "wikilink")）能夠創建及編輯MHTML檔案。
 
-在[Linux平台上](../Page/Linux.md "wikilink")，程式[kmhtConvert可將文件轉換為MHTML格式](../Page/kmhtConvert.md "wikilink")。
+在[Linux平台上](../Page/Linux.md "wikilink")，程式[kmhtConvert可將文件轉換為MHTML格式](https://zh.wikipedia.org/wiki/kmhtConvert "wikilink")。
 
 ## 浏览器的支持
 
@@ -21,11 +21,11 @@ Office](../Page/Microsoft_Office.md "wikilink")（[Word](../Page/Word.md "wikili
 ### Internet Explorer
 
 [Microsoft Internet
-Explorer自](../Page/Microsoft_Internet_Explorer.md "wikilink")5.0版支持MHTML格式，是第一個支持MHTML文件的瀏覽器。
+Explorer自](https://zh.wikipedia.org/wiki/Microsoft_Internet_Explorer "wikilink")5.0版支持MHTML格式，是第一個支持MHTML文件的瀏覽器。
 
 ### Opera
 
-[Opera自](../Page/Opera瀏覽器.md "wikilink")9.0版支持把網頁保存為MHTML文件，或讀取MHTML文件。\[3\]但基於WebKit/Blink的Opera
+[Opera自](https://zh.wikipedia.org/wiki/Opera瀏覽器 "wikilink")9.0版支持把網頁保存為MHTML文件，或讀取MHTML文件。\[3\]但基於WebKit/Blink的Opera
 15卻未提供此功能，直到Opera 16才恢復。
 
 現時通過啟用實驗性的選項。
@@ -43,7 +43,7 @@ Format](https://addons.mozilla.org/firefox/addon/mozilla-archive-format/)、[UnM
 ### Safari
 
 [Safari不提供对MHTML的支持](../Page/Safari.md "wikilink")，代之以苹果公司自创的格式，[OS
-X的版本中还提供保存为](../Page/OS_X.md "wikilink")[PDF选项](../Page/PDF.md "wikilink")。也有人试图为Safari创建读写MHTML文件的扩展。
+X的版本中还提供保存为](https://zh.wikipedia.org/wiki/OS_X "wikilink")[PDF选项](https://zh.wikipedia.org/wiki/PDF "wikilink")。也有人试图为Safari创建读写MHTML文件的扩展。
 
 ### Konqueror
 
@@ -52,12 +52,12 @@ Konqueror需要使用[mhtconv](http://sourceforge.net/projects/mhtconv)扩展以
 ### ACCESS NetFront
 
 [NetFront](../Page/NetFront.md "wikilink")
-3.4（像是索尼爱立信[K850等设备上的](../Page/K850.md "wikilink")）可读取或保存MHTML文件。
+3.4（像是索尼爱立信[K850等设备上的](https://zh.wikipedia.org/wiki/K850 "wikilink")）可读取或保存MHTML文件。
 
 ### Pale Moon
 
 [Pale
-Moon需要安裝MHT文件讀寫的擴展](../Page/Pale_Moon.md "wikilink")。有一個這樣的擴展是免費提供的，即[MozArchiver](https://addons.palemoon.org/addon/mozarchiver/)。
+Moon需要安裝MHT文件讀寫的擴展](https://zh.wikipedia.org/wiki/Pale_Moon "wikilink")。有一個這樣的擴展是免費提供的，即[MozArchiver](https://addons.palemoon.org/addon/mozarchiver/)。
 
 ### GNOME Web
 
@@ -65,11 +65,11 @@ Moon需要安裝MHT文件讀寫的擴展](../Page/Pale_Moon.md "wikilink")。有
 
 ### Vivaldi
 
-[Vivaldi可以通過](../Page/Vivaldi_\(瀏覽器\).md "wikilink")啟用實驗性的選項。
+[Vivaldi可以通過](https://zh.wikipedia.org/wiki/Vivaldi_\(瀏覽器\) "wikilink")啟用實驗性的選項。
 
 ### MHT阅读器
 
-一些商业或民间开发者设计了MHT文件阅读器，还提供转换为其它格式（如转换为[PDF](../Page/PDF.md "wikilink")）的选项。
+一些商业或民间开发者设计了MHT文件阅读器，还提供转换为其它格式（如转换为[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")）的选项。
 
 ## 格式
 

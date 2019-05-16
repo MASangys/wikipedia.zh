@@ -1,11 +1,11 @@
 **Live In
-Copenhagen**為[丹麥樂團](../Page/丹麥.md "wikilink")[Mew的第一張演唱會實況DVD](../Page/Mew.md "wikilink")，內容為2006年3月25日在丹麥[哥本哈根KB](../Page/哥本哈根.md "wikilink")
+Copenhagen**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew的第一張演唱會實況DVD](../Page/Mew.md "wikilink")，內容為2006年3月25日在丹麥[哥本哈根KB](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
 Hallen場地的演出，於2006年12月18日發行。
 
 此次演出時間全長75分鐘，共使用19台攝影機拍攝。
 
 DVD另外收錄2004年間在美國錄製專輯《[And The Glass Handed
-Kites](../Page/And_The_Glass_Handed_Kites.md "wikilink")》的花絮影片，全長約為60分鐘，對話內容包含[英文與](../Page/英文.md "wikilink")[丹麥文](../Page/丹麥文.md "wikilink")，但無字幕。
+Kites](../Page/And_The_Glass_Handed_Kites.md "wikilink")》的花絮影片，全長約為60分鐘，對話內容包含[英文與](https://zh.wikipedia.org/wiki/英文 "wikilink")[丹麥文](https://zh.wikipedia.org/wiki/丹麥文 "wikilink")，但無字幕。
 
 ## 曲目
 

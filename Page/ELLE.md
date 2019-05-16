@@ -1,16 +1,16 @@
-《**ELLE**》是一份創始於[法國的](../Page/法國.md "wikilink")，"ELLE"
-在[法文解作](../Page/法语.md "wikilink")「她」。雜誌聚焦於时尚、美容、健康、休闲等軟性議題。發行者為法國旗下的，並以[特許經營的方式在世界各國發行在地版](../Page/特許經營.md "wikilink")，至今在60餘個国家发行43个版本。
+《**ELLE**》是一份創始於[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")，"ELLE"
+在[法文解作](../Page/法语.md "wikilink")「她」。雜誌聚焦於时尚、美容、健康、休闲等軟性議題。發行者為法國旗下的，並以[特許經營的方式在世界各國發行在地版](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，至今在60餘個国家发行43个版本。
 
 ## 歷史
 
 《ELLE》於1945年由在法國創辦。在二十世紀六十年代，它被認為「制定時尚多於反映時尚」，擁有八十萬忠實讀者，當時著名的口號是："Si
 elle lit，elle lit Elle"，意謂「如果她閱讀，她就讀Elle」\[1\]。
 
-《ELLE》的第一個國際版於1969年在[日本發行](../Page/日本.md "wikilink")\[2\]。[美國和](../Page/美国.md "wikilink")[英國版本要待至](../Page/英国.md "wikilink")1985年才推出\[3\]。
-翌年，該雜誌首次在[西班牙出版](../Page/西班牙.md "wikilink")。1987年，《ELLE》開始在[香港和](../Page/香港.md "wikilink")[意大利出版](../Page/意大利.md "wikilink")。1988年，該雜誌在同一年在六個國家推出，即[德國](../Page/德国.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[中國](../Page/中华人民共和国.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[希臘和](../Page/希腊.md "wikilink")[葡萄牙](../Page/葡萄牙.md "wikilink")。
+《ELLE》的第一個國際版於1969年在[日本發行](../Page/日本.md "wikilink")\[2\]。[美國和](../Page/美国.md "wikilink")[英國版本要待至](https://zh.wikipedia.org/wiki/英国 "wikilink")1985年才推出\[3\]。
+翌年，該雜誌首次在[西班牙出版](../Page/西班牙.md "wikilink")。1987年，《ELLE》開始在[香港和](../Page/香港.md "wikilink")[意大利出版](../Page/意大利.md "wikilink")。1988年，該雜誌在同一年在六個國家推出，即[德國](../Page/德国.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[希臘和](../Page/希腊.md "wikilink")[葡萄牙](../Page/葡萄牙.md "wikilink")。
 次年它首次在[荷蘭和](../Page/荷兰.md "wikilink")[魁北克出版](../Page/魁北克省.md "wikilink")。
 1990年，該雜誌登陸[澳大利亞](../Page/澳大利亚.md "wikilink")。1994年抵達[阿根廷](../Page/阿根廷.md "wikilink")。
-其每月出版的[俄文版於](../Page/俄语.md "wikilink")1996年推出\[4\]。
+其每月出版的[俄文版於](https://zh.wikipedia.org/wiki/俄语 "wikilink")1996年推出\[4\]。
 
 ## 營運架構
 
@@ -25,12 +25,12 @@ elle lit，elle lit Elle"，意謂「如果她閱讀，她就讀Elle」\[1\]。
 
 ## 中文版本
 
-《ELLE》[中国大陆版名称为](../Page/中国大陆.md "wikilink")《[ELLE世界时装之苑](../Page/ELLE世界时装之苑.md "wikilink")》，之前由樺榭菲力柏契媒體直接經營。2011年12月19日，[赫斯特国际集团宣布正式完成收购桦榭中国](../Page/赫斯特国际集团.md "wikilink")，这同时也是拉加代尔国际杂志业务收购案的一部分。目前《ELLE》中国大陆版属于赫斯特集团。杂志的[中国大陆版名称为](../Page/中国大陆.md "wikilink")《[世界时装之苑](../Page/世界时装之苑.md "wikilink")》。原先上海世纪出版股份有限公司译文出版社、中国体育报业总社及浙江《睿士》杂志社的版权合作伙伴将由拉加代尔活力集团变更为赫斯特集团，继续在中国大陆合作出版《世界时装之苑ELLE》等杂志。《ELLE》[中国大陆版曾改版为半月刊](../Page/中国大陆.md "wikilink")，成为《ELLE》全球43个版本中首个半月刊杂志。該杂志还每年举办「ELLE风尚大奖」。
+《ELLE》[中国大陆版名称为](../Page/中国大陆.md "wikilink")《[ELLE世界时装之苑](https://zh.wikipedia.org/wiki/ELLE世界时装之苑 "wikilink")》，之前由樺榭菲力柏契媒體直接經營。2011年12月19日，[赫斯特国际集团宣布正式完成收购桦榭中国](../Page/赫斯特国际集团.md "wikilink")，这同时也是拉加代尔国际杂志业务收购案的一部分。目前《ELLE》中国大陆版属于赫斯特集团。杂志的[中国大陆版名称为](../Page/中国大陆.md "wikilink")《[世界时装之苑](https://zh.wikipedia.org/wiki/世界时装之苑 "wikilink")》。原先上海世纪出版股份有限公司译文出版社、中国体育报业总社及浙江《睿士》杂志社的版权合作伙伴将由拉加代尔活力集团变更为赫斯特集团，继续在中国大陆合作出版《世界时装之苑ELLE》等杂志。《ELLE》[中国大陆版曾改版为半月刊](../Page/中国大陆.md "wikilink")，成为《ELLE》全球43个版本中首个半月刊杂志。該杂志还每年举办「ELLE风尚大奖」。
 
-《ELLE》[台灣版名稱為](../Page/台灣.md "wikilink")《ELLE她雜誌》，1991年創刊，最初為樺榭菲力柏契媒體直接經營。2011年轉為「台灣赫斯特出版股份有限公司」（Hearst
+《ELLE》[台灣版名稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")《ELLE她雜誌》，1991年創刊，最初為樺榭菲力柏契媒體直接經營。2011年轉為「台灣赫斯特出版股份有限公司」（Hearst
 Magazines Taiwan）出版，後者為美國Hearst Corporation在台灣的子公司\[7\]。總編輯現為盧淑芬\[8\]。
 
-《ELLE》香港版是最早出現的中文版，最初也是由樺榭菲力柏契媒體直接經營。2012年轉為[南華早報集團及赫斯特公司合辦](../Page/南華早報集團.md "wikilink")\[9\]，總編輯現為Gloria
+《ELLE》香港版是最早出現的中文版，最初也是由樺榭菲力柏契媒體直接經營。2012年轉為[南華早報集團及赫斯特公司合辦](https://zh.wikipedia.org/wiki/南華早報集團 "wikilink")\[9\]，總編輯現為Gloria
 Lam\[10\]。
 
 ## 參考文獻
@@ -64,12 +64,12 @@ Lam\[10\]。
   -
   -
   - [ELLE
-    Taiwan](https://plus.google.com/+ELLETW2013/posts)在[google+頁面](../Page/google+.md "wikilink")
+    Taiwan](https://plus.google.com/+ELLETW2013/posts)在[google+頁面](https://zh.wikipedia.org/wiki/google+ "wikilink")
 
   -
   -
   - [ELLE
-    台灣](https://itunes.apple.com/tw/app/elle-tai-wan/id572068168?mt=8)在[iTunes頁面](../Page/iTunes.md "wikilink")
+    台灣](https://itunes.apple.com/tw/app/elle-tai-wan/id572068168?mt=8)在[iTunes頁面](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 
 [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
 [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")

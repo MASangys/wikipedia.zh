@@ -80,7 +80,7 @@ Convertible」（）。
 
 ### 原創車廠
 
-1934年，[Mercedes-Benz車廠所推出的](../Page/賓士.md "wikilink")500K車輛，為原創經典。
+1934年，[Mercedes-Benz車廠所推出的](https://zh.wikipedia.org/wiki/賓士 "wikilink")500K車輛，為原創經典。
 
   - Mercedes-Benz 500K（1934年—1936年）
 
@@ -99,6 +99,6 @@ Convertible」（）。
 
 1.  [古香古色顯豪華
     光岡LE-SEYDE復古登場](http://www.gdnet.com.cn/hottopic/2004/1140/1124-42.htm)
-    ，〈[新浪網](../Page/新浪網.md "wikilink")〉
+    ，〈[新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink")〉
 2.  [光岡汽車設計師松井茂樹：改裝車的前景光明](http://auto.sina.com/news/2004-11-25/115687958.shtml)
     ，〈大洋網〉

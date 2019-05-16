@@ -1,44 +1,46 @@
-**MLDonkey**是一个[开源](../Page/开源软件.md "wikilink")[免费的多协议P](../Page/免费软件.md "wikilink")2P应用程序。起初它只是一个[Linux下的](../Page/Linux.md "wikilink")[eDonkey协议客户端](../Page/eDonkey网络.md "wikilink")，现在它支持多种点对点协议，并能在在各种不同风格的[类Unix系统](../Page/类Unix.md "wikilink")、[Mac
+**MLDonkey**是一个[开源](../Page/开源软件.md "wikilink")[免费的多协议P](https://zh.wikipedia.org/wiki/免费软件 "wikilink")2P应用程序。起初它只是一个[Linux下的](../Page/Linux.md "wikilink")[eDonkey协议客户端](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")，现在它支持多种点对点协议，并能在在各种不同风格的[类Unix系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、[Windows以及](../Page/Microsoft_Windows.md "wikilink")[MorphOS下运行](../Page/MorphOS.md "wikilink")。它使用[OCaml语言编写](../Page/OCaml.md "wikilink")，同时有些部分使用了一些[C语言以及](../Page/C语言.md "wikilink")[汇编语言的代码](../Page/汇编语言.md "wikilink")，从而保证了它的高效能。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MorphOS下运行](https://zh.wikipedia.org/wiki/MorphOS "wikilink")。它使用[OCaml语言编写](../Page/OCaml.md "wikilink")，同时有些部分使用了一些[C语言以及](https://zh.wikipedia.org/wiki/C语言 "wikilink")[汇编语言的代码](../Page/汇编语言.md "wikilink")，从而保证了它的高效能。
 
 ## 历史
 
-MLDonkey的开发始于2001年，最初的开发者是[INRIA的Fabrice](../Page/INRIA.md "wikilink")
+MLDonkey的开发始于2001年，最初的开发者是[INRIA的Fabrice](https://zh.wikipedia.org/wiki/INRIA "wikilink")
 Le Fessant。
 
 ## 功能
 
 MLdonkey的核心功能包括：
 
-  - [P2P](../Page/P2P.md "wikilink")[文件共享](../Page/文件共享.md "wikilink")，支持如下协议：
-      - [EDonkey Network](../Page/EDonkey_Network.md "wikilink")
+  - [P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，支持如下协议：
+      - [EDonkey
+        Network](https://zh.wikipedia.org/wiki/EDonkey_Network "wikilink")
 
-      - [Overnet](../Page/Overnet.md "wikilink")
+      - [Overnet](https://zh.wikipedia.org/wiki/Overnet "wikilink")
 
-      - [Kad Network](../Page/Kad_Network.md "wikilink")
+      - [Kad
+        Network](https://zh.wikipedia.org/wiki/Kad_Network "wikilink")
 
-      - [BitTorrent](../Page/BitTorrent.md "wikilink")
+      - [BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")
 
       - [Gnutella](../Page/Gnutella.md "wikilink")
 
-      - [Gnutella2](../Page/Gnutella2.md "wikilink")
+      - [Gnutella2](https://zh.wikipedia.org/wiki/Gnutella2 "wikilink")
 
-      - [FastTrack](../Page/FastTrack.md "wikilink")
+      - [FastTrack](https://zh.wikipedia.org/wiki/FastTrack "wikilink")
 
-      - [OpenNap](../Page/OpenNap.md "wikilink")（现不可用）
+      - [OpenNap](https://zh.wikipedia.org/wiki/OpenNap "wikilink")（现不可用）
 
-      - [SoulSeek](../Page/SoulSeek.md "wikilink")（现不可用）
+      - [SoulSeek](https://zh.wikipedia.org/wiki/SoulSeek "wikilink")（现不可用）
 
       - （现不可用）
 
-      - [HTTP](../Page/HTTP.md "wikilink")／[FTP](../Page/File_Transfer_Protocol.md "wikilink")
+      - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")／[FTP](https://zh.wikipedia.org/wiki/File_Transfer_Protocol "wikilink")
   - 以C/S结构设计，后台的下载核心可以通过内置的Telnet以及Web界面操纵，也可以使用各种图形前端程序。
 
 ## 参看
 
-  - [eDonkey软件比较](../Page/eDonkey软件比较.md "wikilink")
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
+  - [eDonkey软件比较](https://zh.wikipedia.org/wiki/eDonkey软件比较 "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
   - [檔案分享](../Page/檔案分享.md "wikilink")
 
 ## 图形用户前端

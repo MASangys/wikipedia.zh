@@ -17,7 +17,7 @@
   - 初回限定盤中的DVD收錄了6首歌曲的音樂錄影帶以及「WHAT A WONDERFUL WORLD」的現場演唱影像。
   - 2007年4月－7月舉行全國巡迴演唱會。購買初回限定盤可以擁有先行購票的權利。
   - 因「WHAT A WONDERFUL
-    WORLD」現場演唱影像的版權問題，[台灣地區於同年八月才發行附DVD的初回限定盤](../Page/台灣地區.md "wikilink")。
+    WORLD」現場演唱影像的版權問題，[台灣地區於同年八月才發行附DVD的初回限定盤](https://zh.wikipedia.org/wiki/台灣地區 "wikilink")。
   - ORICON最高第3名。銷量約29.4萬張
 
 ## 單曲銷量
@@ -45,7 +45,7 @@
 3.  '''[真實的自我](../Page/真實的自我.md "wikilink")
       -
         ＊NTT Docomo廣告歌曲
-        ＜詞・曲：RYOJI（[決明子](../Page/決明子.md "wikilink")）／編曲：YANAGIMAN＞
+        ＜詞・曲：RYOJI（[決明子](https://zh.wikipedia.org/wiki/決明子 "wikilink")）／編曲：YANAGIMAN＞
 4.  **[CRY NO MORE](../Page/CRY_NO_MORE.md "wikilink")**
       -
         ＊MBS・TBS系動畫『BLOOD+』片尾曲

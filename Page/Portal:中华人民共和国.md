@@ -1,0 +1,133 @@
+{{/Header}}
+
+<table style="width:6%;">
+<colgroup>
+<col style="width: 5%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div style="font-size:small;  ">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #883030;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="font-size: large; font-weight: bold; background-color: #ff0000; color: white; " align=center>
+<p>欢迎来到中华人民共和国主题首页！<br />
+Welcome to the People's Republic of China Portal!</p>
+</h2>
+<p>[1]</p>
+</div>
+<div style="float:left; width:60%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #883030;">
+<h2 style="padding-left: 1em; font-size: medium;  font-weight: bold; color: #fff; background-color: #ff0000;">
+<p><a href="https://zh.wikipedia.org/wiki/File:People&#39;s_Republic_of_China_(orthographic_projection).svg" title="fig:People&#39;s_Republic_of_China_(orthographic_projection).svg">People's_Republic_of_China_(orthographic_projection).svg</a> 新闻焦点</p>
+</h2>
+<div align=right style="padding:10px;">
+</div>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium;  font-weight: bold; color: #fff; background-color: #ff0000;">
+<p><a href="https://zh.wikipedia.org/wiki/File:Symbol_support_vote.svg" title="fig:Symbol_support_vote.svg">Symbol_support_vote.svg</a> 特色条目</p>
+</h2>
+<p><br />
+<br />
+<br />
+</p>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium;  font-weight: bold; color: #fff; background-color: #ff0000;">
+<p><a href="https://zh.wikipedia.org/wiki/File:Torchlight_help_icon.svg" title="fig:Torchlight_help_icon.svg">Torchlight_help_icon.svg</a> 你知道吗？</p>
+</h2>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000;">
+<p><a href="https://zh.wikipedia.org/wiki/File:Nuvola_apps_package_graphics.png" title="fig:Nuvola_apps_package_graphics.png">Nuvola_apps_package_graphics.png</a> 特色图片</p>
+</h2>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000">
+<p>人物专栏</p>
+</h2>
+</div>
+</div>
+<div style="float:right; width:40%">
+<p>{{/box-header|中国历史|Portal:中华人民共和国/历史|}}  {{/box-footer|}}</p>
+</div>
+<div style="float:right; width:40%">
+<p>{{/box-header|中国政治|Portal:中华人民共和国/政治|}}  {{/box-footer|}}</p>
+</div>
+<div style="float:right; width:40%">
+<p>{{/box-header|中国经济|Portal:中华人民共和国/经济|}}</p>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/中华人民共和国经济" title="wikilink">经济</a>（<a href="https://zh.wikipedia.org/wiki/中华人民共和国经济历史" title="wikilink">历史</a>） - <a href="../Page/中华人民共和国科技.md" title="wikilink">科技</a></li>
+</ul>
+<div style="border-bottom: 1px dotted #888888; font-weight: bold; padding: 0.5em 0 0.17em 0em; font-size: 120%; font-weight: bold; color: #666; background-color: transparent;">
+<p>政策</p>
+</div>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/中国五年计划" title="wikilink">五年计划</a> - <a href="../Page/改革开放.md" title="wikilink">改革开放</a> - <a href="../Page/社会主义市场经济.md" title="wikilink">社会主义市场经济</a> - <a href="https://zh.wikipedia.org/wiki/一带一路" title="wikilink">一带一路</a></li>
+</ul>
+<div style="border-bottom: 1px dotted #888888; font-weight: bold; padding: 0.5em 0 0.17em 0em; font-size: 120%; font-weight: bold; color: #666; background-color: transparent;">
+<p>财政金融</p>
+</div>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/中华人民共和国金融体制" title="wikilink">金融体制</a> - <a href="../Page/人民币.md" title="wikilink">人民币</a>（<a href="https://zh.wikipedia.org/wiki/人民币汇率" title="wikilink">汇率</a>） - <a href="../Page/中华人民共和国外汇储备.md" title="wikilink">外汇储备</a> - <a href="https://zh.wikipedia.org/wiki/國內生產總值" title="wikilink">國內生產總值</a> - <a href="https://zh.wikipedia.org/wiki/中国股市" title="wikilink">股市</a></li>
+</ul>
+<div style="border-bottom: 1px dotted #888888; font-weight: bold; padding: 0.5em 0 0.17em 0em; font-size: 120%; font-weight: bold; color: #666; background-color: transparent;">
+<p>经济区域</p>
+</div>
+<ul>
+<li><a href="../Page/经济特区.md" title="wikilink">经济特区</a> | <a href="https://zh.wikipedia.org/wiki/上海浦东新区" title="wikilink">上海浦东新区</a> | <a href="https://zh.wikipedia.org/wiki/天津滨海新区" title="wikilink">天津滨海新区</a> | <a href="../Page/国家综合配套改革试验区.md" title="wikilink">改革试验区</a> | <a href="https://zh.wikipedia.org/wiki/沿海开放城市" title="wikilink">沿海开放城市</a></li>
+<li><a href="../Page/天津经济.md" title="wikilink">天津</a> - <a href="https://zh.wikipedia.org/wiki/上海经济" title="wikilink">上海</a> - <a href="https://zh.wikipedia.org/wiki/重庆经济" title="wikilink">重庆</a> - <a href="https://zh.wikipedia.org/wiki/江苏经济" title="wikilink">江苏</a> - <a href="https://zh.wikipedia.org/wiki/浙江经济" title="wikilink">浙江</a> - <a href="https://zh.wikipedia.org/wiki/安徽经济" title="wikilink">安徽</a> - <a href="https://zh.wikipedia.org/wiki/湖南经济" title="wikilink">湖南</a> - <a href="https://zh.wikipedia.org/wiki/广东经济" title="wikilink">广东</a> - <a href="https://zh.wikipedia.org/wiki/四川经济" title="wikilink">四川</a> - <a href="https://zh.wikipedia.org/wiki/香港经济" title="wikilink">香港</a> - <a href="https://zh.wikipedia.org/wiki/澳门经济" title="wikilink">澳门</a></li>
+</ul>
+<div style="border-bottom: 1px dotted #888888; font-weight: bold; padding: 0.5em 0 0.17em 0em; font-size: 120%; font-weight: bold; color: #666; background-color: transparent;">
+<p>产业</p>
+</div>
+<ul>
+<li><a href="../Page/中华人民共和国农业.md" title="wikilink">农业</a> - <a href="../Page/中华人民共和国工业.md" title="wikilink">工业</a>（<a href="../Page/中华人民共和国工业史.md" title="wikilink">历史</a>）</li>
+<li><a href="../Page/中国汽车制造业.md" title="wikilink">汽车制造</a> - <a href="../Page/中华人民共和国民用航空业.md" title="wikilink">航空业</a> - <a href="https://zh.wikipedia.org/wiki/中国核工业" title="wikilink">核工业</a> - <a href="https://zh.wikipedia.org/wiki/中华人民共和国水泥业" title="wikilink">水泥业</a> - <a href="https://zh.wikipedia.org/wiki/中国手机产业" title="wikilink">手机业</a> - <a href="../Page/中华人民共和国的性玩具业.md" title="wikilink">玩具制造</a></li>
+<li><a href="../Page/中华人民共和国软件产业.md" title="wikilink">IT业</a> - <a href="../Page/中华人民共和国旅游业.md" title="wikilink">旅游业</a> - <a href="../Page/中华人民共和国银行业.md" title="wikilink">银行业</a></li>
+</ul>
+<p>{{/box-footer|}}</p>
+</div>
+<div style="float:right; width:40%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; margin-bottom:10px;padding-top:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #883030;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000;">
+<p><a href="https://zh.wikipedia.org/wiki/File:Featured_Article_Star.svg" title="fig:Featured_Article_Star.svg">Featured_Article_Star.svg</a> 关联主题</p>
+</h2>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000;">
+<p>专题</p>
+</h2>
+</div>
+</div>
+<div style="display:block;float:left;width:100%;">
+<div style="display:block;border:1px solid #aaaaaa;vertical-align: top; padding-top:10px;margin-bottom:10px;padding-bottom:5px;padding-left:10px;padding-right:10px; background-color: #ffffff; border-color: #883030;">
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000;">
+<p>地理</p>
+</h2>
+<div style="float:right;margin-left:5px;">
+</div>
+<h2 style="padding-left: 1em; font-size: medium; font-weight: bold; color: #fff; background-color: #ff0000;">
+<p>社会</p>
+</h2>
+</div>
+</div>
+</div>
+<div style="float:right; width:100%">
+<p>{{/box-header|<a href="https://zh.wikipedia.org/wiki/File:Gnome-globe.svg" title="fig:Gnome-globe.svg">Gnome-globe.svg</a> 维基主题|template:portals|}}</p>
+<div style="font-size:small;">
+</div>
+<p>{{/box-footer|}}</p></td>
+</tr>
+</tbody>
+</table>
+
+[Category:国家主题首页](https://zh.wikipedia.org/wiki/Category:国家主题首页 "wikilink")
+[Category:中华人民共和国](https://zh.wikipedia.org/wiki/Category:中华人民共和国 "wikilink")
+
+1.  h2

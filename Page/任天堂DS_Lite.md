@@ -1,5 +1,5 @@
 **任天堂DS Lite**（，，中国大陆行货为iQue DS
-Lite）是由[任天堂所開發](../Page/任天堂.md "wikilink")、販售的[攜帶型遊戲機](../Page/攜帶型遊戲機.md "wikilink")。位於[任天堂DS的上級機種位置](../Page/任天堂DS.md "wikilink")。簡稱NDSL。
+Lite）是由[任天堂所開發](../Page/任天堂.md "wikilink")、販售的[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")。位於[任天堂DS的上級機種位置](../Page/任天堂DS.md "wikilink")。簡稱NDSL。
 
 ## 概要
 
@@ -7,25 +7,27 @@ Lite）是由[任天堂所開發](../Page/任天堂.md "wikilink")、販售的[�
 Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[Game Boy Advance
 SP同樣的](../Page/Game_Boy_Advance_SP.md "wikilink")，現在實際上以[任天堂DS的後繼機進行生產](../Page/任天堂DS.md "wikilink")、普及。
 
-日本於2006年3月2日、[澳洲於](../Page/澳大利亞.md "wikilink")6月1日、[美國於](../Page/美利堅合眾國.md "wikilink")6月11日、[歐洲於](../Page/歐羅巴洲.md "wikilink")6月23日、[中國大陸是以](../Page/中國大陸.md "wikilink")**iQue
-DS Lite**的名稱於6月29日 、[韓國於](../Page/韓國.md "wikilink")2007年1月18日發售。
+日本於2006年3月2日、[澳洲於](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")6月1日、[美國於](https://zh.wikipedia.org/wiki/美利堅合眾國 "wikilink")6月11日、[歐洲於](https://zh.wikipedia.org/wiki/歐羅巴洲 "wikilink")6月23日、[中國大陸是以](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")**iQue
+DS Lite**的名稱於6月29日
+、[韓國於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2007年1月18日發售。
 
-售价方面，日本地區的[建議售價為](../Page/建議售價.md "wikilink")16800日圓（含稅）。中國大陸版“iQue DS
-Lite”(iDSL)建議售價1198元[人民幣](../Page/人民幣.md "wikilink")，台灣版建議售價為4800[新台幣](../Page/新台幣.md "wikilink")。北美地區版本建議售價為129.99[美元](../Page/美元.md "wikilink")。
+售价方面，日本地區的[建議售價為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")16800日圓（含稅）。中國大陸版“iQue
+DS
+Lite”(iDSL)建議售價1198元[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")，台灣版建議售價為4800[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")。北美地區版本建議售價為129.99[美元](../Page/美元.md "wikilink")。
 
 ## 規格、變更後差異
 
 只標出任天堂DS變更後的規格。下記以外的地方與原本機種的DS相同。
 
   - 畫面
-    3英吋（對角）全透型附背光裝置[TFT彩色](../Page/TFT.md "wikilink")[液晶顯示器](../Page/液晶顯示器.md "wikilink")
+    3英吋（對角）全透型附背光裝置[TFT彩色](https://zh.wikipedia.org/wiki/TFT "wikilink")[液晶顯示器](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")
     2個、可4階段亮度調整
-    由半透過反射型彩色TFT液晶變更為[行動電話等主流的全透型彩色TFT液晶](../Page/行動電話.md "wikilink")。另外，擁有4段階的亮度調整機能，比起從來機種畫面的亮度能夠更加明亮。以更加鮮明的畫面進行遊戲。但是，依增加明亮的程度，電池持續使用時間會減少。解析度、顯色能力、畫面尺寸與DS相同。
+    由半透過反射型彩色TFT液晶變更為[行動電話等主流的全透型彩色TFT液晶](https://zh.wikipedia.org/wiki/行動電話 "wikilink")。另外，擁有4段階的亮度調整機能，比起從來機種畫面的亮度能夠更加明亮。以更加鮮明的畫面進行遊戲。但是，依增加明亮的程度，電池持續使用時間會減少。解析度、顯色能力、畫面尺寸與DS相同。
   - 操作
-    十字鈕+6鈕（A/B/X/Y/L/R）+START/SELECT鈕+觸控面板+[麥克風、內藏麥克風](../Page/麥克風、內藏麥克風.md "wikilink")（聲音輸入用）
-    操作裝置的種類、數量未變。配置改變、START/SELECT鈕的位置移到A/B/X/Y鈕的下端，麥克風以及電源顯示燈、充電顯示燈移動到[合頁的部分](../Page/合頁.md "wikilink")。
+    十字鈕+6鈕（A/B/X/Y/L/R）+START/SELECT鈕+觸控面板+[麥克風、內藏麥克風](https://zh.wikipedia.org/wiki/麥克風、內藏麥克風 "wikilink")（聲音輸入用）
+    操作裝置的種類、數量未變。配置改變、START/SELECT鈕的位置移到A/B/X/Y鈕的下端，麥克風以及電源顯示燈、充電顯示燈移動到[合頁的部分](https://zh.wikipedia.org/wiki/合頁 "wikilink")。
   - 電源
-    內附[充電式鋰電池](../Page/鋰電池.md "wikilink")（3.7V\*1000mAh）、付AC/DC適配器（輸出5.2V\*450mA，不可使用[Game
+    內附[充電式鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")（3.7V\*1000mAh）、付AC/DC適配器（輸出5.2V\*450mA，不可使用[Game
     Boy Advance
     SP](../Page/Game_Boy_Advance_SP.md "wikilink")、任天堂DS的AC變壓器）、搭載電源管理機能（限使用DS專用軟體時）
     與從來的DS相比充電時間減少，最長電池持續時間增加。
@@ -40,7 +42,7 @@ Lite”(iDSL)建議售價1198元[人民幣](../Page/人民幣.md "wikilink")，�
   - GBA卡匣插槽
     與任天堂DS相比插槽部變淺，一般的GBA軟體插入後約1cm些微露出。附專用保護蓋，以防止[灰塵侵入](../Page/灰塵.md "wikilink")。
   - 喇叭
-    [音質稍微改變](../Page/音.md "wikilink")。另外，依個別也有音量變小的機體。電源開·關時的開關音（波、噗滋這樣的聲音）大幅減少。
+    [音質稍微改變](https://zh.wikipedia.org/wiki/音 "wikilink")。另外，依個別也有音量變小的機體。電源開·關時的開關音（波、噗滋這樣的聲音）大幅減少。
 
 ## 主機顏色
 
@@ -131,11 +133,11 @@ NDSL有多種主機顏色可供選擇，分別是：
   - [任天堂](../Page/任天堂.md "wikilink")
   - [任天堂DS](../Page/任天堂DS.md "wikilink")
   - [任天堂DSi](../Page/任天堂DSi.md "wikilink")
-  - [任天堂DSi XL](../Page/任天堂DSi_XL.md "wikilink")
+  - [任天堂DSi XL](https://zh.wikipedia.org/wiki/任天堂DSi_XL "wikilink")
   - [任天堂3DS](../Page/任天堂3DS.md "wikilink")
-  - [任天堂3DS XL](../Page/任天堂3DS_XL.md "wikilink")
+  - [任天堂3DS XL](https://zh.wikipedia.org/wiki/任天堂3DS_XL "wikilink")
   - [任天堂2DS](../Page/任天堂2DS.md "wikilink")
-  - [任天堂DS游戏列表](../Page/任天堂DS游戏列表.md "wikilink")
+  - [任天堂DS游戏列表](https://zh.wikipedia.org/wiki/任天堂DS游戏列表 "wikilink")
 
 ## 外部連結
 

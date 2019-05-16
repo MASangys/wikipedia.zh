@@ -1,7 +1,7 @@
 《**YOUNG
-GUNS**》是[台灣](../Page/台灣.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[林政德的代表作品](../Page/林政德.md "wikilink")，內容主要為青春校園生活與棒球社團故事，最初開始於1990年10月在《[星期漫畫](../Page/星期漫畫.md "wikilink")》雜誌上連載，後以漫畫單行本出版發行，前後歷時
+GUNS**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[林政德的代表作品](../Page/林政德.md "wikilink")，內容主要為青春校園生活與棒球社團故事，最初開始於1990年10月在《[星期漫畫](../Page/星期漫畫.md "wikilink")》雜誌上連載，後以漫畫單行本出版發行，前後歷時
 20 年共發行 12
-本，創下台灣漫畫最高數百萬冊銷售量，曾被改編為[電視動畫以及製作成](../Page/電視動畫.md "wikilink")[DOS用](../Page/DOS.md "wikilink")[電腦遊戲](../Page/電腦遊戲.md "wikilink")《YOUNG
+本，創下台灣漫畫最高數百萬冊銷售量，曾被改編為[電視動畫以及製作成](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[DOS用](../Page/DOS.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")《YOUNG
 GUNS大富翁》\[1\]。
 
 ## 背景歷史
@@ -9,12 +9,12 @@ GUNS大富翁》\[1\]。
 ### 漫畫連載
 
   - 1990年《**YOUNG
-    GUNS**》在[時報文化](../Page/時報文化.md "wikilink")《[星期漫畫](../Page/星期漫畫.md "wikilink")》月刊1990年10月號開始連載\[2\]，連載四回後因《星期漫畫》休刊而轉載於[華尚文化](../Page/華尚文化.md "wikilink")《週末雜誌》雙週刊，連載兩回後《週末雜誌》也告休刊。
+    GUNS**》在[時報文化](../Page/時報文化.md "wikilink")《[星期漫畫](../Page/星期漫畫.md "wikilink")》月刊1990年10月號開始連載\[2\]，連載四回後因《星期漫畫》休刊而轉載於[華尚文化](https://zh.wikipedia.org/wiki/華尚文化 "wikilink")《週末雜誌》雙週刊，連載兩回後《週末雜誌》也告休刊。
   - 1992年在[大然文化](../Page/大然文化.md "wikilink")《熱門少年TOP》（[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》臺灣版之一）
-    再度開始連載，並由[納蘭真接手編劇](../Page/納蘭真.md "wikilink")。
+    再度開始連載，並由[納蘭真接手編劇](https://zh.wikipedia.org/wiki/納蘭真 "wikilink")。
   - 1995年《熱門少年TOP》休刊，《**YOUNG GUNS**》又中斷一段時間。
-  - 1997年11月才在[尖端出版](../Page/尖端出版.md "wikilink")《TEMPO活躍》半月刊（[講談社](../Page/講談社.md "wikilink")《[Young
-    Magazine](../Page/Young_Magazine.md "wikilink")》臺灣版）1997年22號連載再開始，此時已無編劇分工。《**YOUNG
+  - 1997年11月才在[尖端出版](../Page/尖端出版.md "wikilink")《TEMPO活躍》半月刊（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[Young
+    Magazine](https://zh.wikipedia.org/wiki/Young_Magazine "wikilink")》臺灣版）1997年22號連載再開始，此時已無編劇分工。《**YOUNG
     GUNS**》在《TEMPO活躍》連載了一年多，其間還出了一本畫集，直到尖端改變經營策略、《TEMPO活躍》休刊為止。
 
 ### 單行本發行
@@ -24,20 +24,21 @@ GUNS大富翁》\[1\]。
   - 1998年《**YOUNG GUNS**》單行本第8集、第9集改由尖端出版發行，林政德漫畫。
   - 1999年《**YOUNG GUNS**》單行本第10集由陶林出版社發行後，便中斷發行。
   - 2005年一度傳出即將推出完結篇的報導，但沒有下文。
-  - 2010年7月31日，由[台灣角川書店出版單行本第](../Page/台灣角川書店.md "wikilink")11、12集（終完結）\[3\]\[4\]。
+  - 2010年7月31日，由[台灣角川書店出版單行本第](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")11、12集（終完結）\[3\]\[4\]。
 
 ### 其他
 
   - 《**YOUNG GUNS**》單行本第8集發行約10萬本，創下當時台灣漫畫單本最高銷售量\[5\]。
-  - 1995年7月故事中要角袁建平擔任[光陽工業ZAP](../Page/光陽工業.md "wikilink")50機車廣告代言人\[6\]。
-  - 1995年8月由[協和影視推出](../Page/協和影視.md "wikilink") YOUNG GUNS
-    首支卡通影帶[OVA](../Page/OVA.md "wikilink")，漫畫人物發包日本公司做造型設計，主題曲由[孫耀威和](../Page/孫耀威.md "wikilink")[洛城三兄弟主唱](../Page/L.A._Boyz.md "wikilink")，為此特別製作的主題「YOUNG
+  - 1995年7月故事中要角袁建平擔任[光陽工業ZAP](https://zh.wikipedia.org/wiki/光陽工業 "wikilink")50機車廣告代言人\[6\]。
+  - 1995年8月由[協和影視推出](https://zh.wikipedia.org/wiki/協和影視 "wikilink")
+    YOUNG GUNS
+    首支卡通影帶[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，漫畫人物發包日本公司做造型設計，主題曲由[孫耀威和](../Page/孫耀威.md "wikilink")[洛城三兄弟主唱](../Page/L.A._Boyz.md "wikilink")，為此特別製作的主題「YOUNG
     GUNS」收錄在洛城三兄弟最新專輯裡。YOUNG GUNS 卡通影帶預計六年時間推出12集，但只發行兩集便宣告停止\[7\]\[8\]。
-  - 1996年由頂尖拍檔公司製作[DOS用](../Page/DOS.md "wikilink")[電腦遊戲](../Page/電腦遊戲.md "wikilink")《YOUNG
-    GUNS大富翁》，[松崗電腦圖書資料發行](../Page/松崗電腦圖書資料.md "wikilink")。
-  - 被譽為是當時唯一能與日本漫畫《[灌籃高手](../Page/灌籃高手.md "wikilink")》匹敵的台灣漫畫。
+  - 1996年由頂尖拍檔公司製作[DOS用](../Page/DOS.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")《YOUNG
+    GUNS大富翁》，[松崗電腦圖書資料發行](https://zh.wikipedia.org/wiki/松崗電腦圖書資料 "wikilink")。
+  - 被譽為是當時唯一能與日本漫畫《[灌籃高手](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")》匹敵的台灣漫畫。
   - 《**YOUNG
-    GUNS**》中的校園景物，多取材自林政德當時曾就讀的[高雄市](../Page/高雄市.md "wikilink")[左營高中之校景](../Page/左營高中.md "wikilink")。
+    GUNS**》中的校園景物，多取材自林政德當時曾就讀的[高雄市](../Page/高雄市.md "wikilink")[左營高中之校景](https://zh.wikipedia.org/wiki/左營高中 "wikilink")。
 
 ## 故事簡介
 
@@ -73,16 +74,16 @@ GUNS大富翁》\[1\]。
 
   - 袁建平：[石班瑜](../Page/石班瑜.md "wikilink")
   - 張士朋：[-{于}-正昇](../Page/于正昇.md "wikilink")
-  - 楊日輝、阿諾：[邱慶福](../Page/邱慶福.md "wikilink")
+  - 楊日輝、阿諾：[邱慶福](https://zh.wikipedia.org/wiki/邱慶福 "wikilink")
   - 勇伯、大王、郝伯春：[楊少文](../Page/楊少文.md "wikilink")
-  - 蘇慧文、莎曼珊：[敖冰欣](../Page/敖冰欣.md "wikilink")
+  - 蘇慧文、莎曼珊：[敖冰欣](https://zh.wikipedia.org/wiki/敖冰欣 "wikilink")
   - 陳玳雅：[蔣篤慧](../Page/蔣篤慧.md "wikilink")
-  - 紀幼蘭：[黃曉嵐](../Page/黃曉嵐.md "wikilink")、[魏晶琦](../Page/魏晶琦.md "wikilink")
+  - 紀幼蘭：[黃曉嵐](https://zh.wikipedia.org/wiki/黃曉嵐 "wikilink")、[魏晶琦](../Page/魏晶琦.md "wikilink")
   - 周于萍、三姑、王蓮櫻：[孫若瑜](../Page/孫若瑜.md "wikilink")
   - 鍾寶津、莉莉：[許淑嬪](../Page/許淑嬪.md "wikilink")
   - 劉三：[陳進益](../Page/陳進益.md "wikilink")
   - 袁父、司機：[徐健春](../Page/徐健春.md "wikilink")
-  - 袁母：[李映淑](../Page/李映淑.md "wikilink")
+  - 袁母：[李映淑](https://zh.wikipedia.org/wiki/李映淑 "wikilink")
   - 阿凱、夭壽仔：[陳國偉](../Page/陳國偉_\(配音員\).md "wikilink")
   - 蔡曉、阿財：[林協忠](../Page/林協忠.md "wikilink")
   - 瀟灑：[王希華](../Page/王希華.md "wikilink")
@@ -93,7 +94,7 @@ GUNS大富翁》\[1\]。
   - 作词：杨黎苏
   - 作曲：[陶喆](../Page/陶喆.md "wikilink")
   - 演唱：[洛城三兄弟](../Page/L.A._Boyz.md "wikilink")（[黃立行](../Page/黃立行.md "wikilink")、黃立成、林智文）
-  - 發行：[金點唱片](../Page/金點唱片.md "wikilink")
+  - 發行：[金點唱片](https://zh.wikipedia.org/wiki/金點唱片 "wikilink")
 
 ## 電影
 

@@ -1,32 +1,32 @@
 《**人狼 JIN-ROH**》是[Production
-I.G所製作](../Page/Production_I.G.md "wikilink")，[沖浦啟之執導的](../Page/沖浦啟之.md "wikilink")[動畫電影](../Page/動畫電影.md "wikilink")，於2000年6月3日上映，片長98分鐘。
+I.G所製作](../Page/Production_I.G.md "wikilink")，[沖浦啟之執導的](../Page/沖浦啟之.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，於2000年6月3日上映，片長98分鐘。
 
 ## 作品概要
 
-本片為[押井守代表作](../Page/押井守.md "wikilink")「犬狼」（）系列作品。與真人電影《紅色眼鏡》、《[絕地勇士](../Page/絕地勇士.md "wikilink")》（），並稱犬狼系列映像三部曲之一。但與前兩部作品不同的是，導演一職交給首度執導演筒的沖浦啓之擔任，押井僅擔任編劇。這是將古典童話中的「小紅帽」與「大野狼」，代入左派反體制的「紅」，與意指帝國主義體制的「狼」的寓言。
+本片為[押井守代表作](../Page/押井守.md "wikilink")「犬狼」（）系列作品。與真人電影《紅色眼鏡》、《[絕地勇士](https://zh.wikipedia.org/wiki/絕地勇士 "wikilink")》（），並稱犬狼系列映像三部曲之一。但與前兩部作品不同的是，導演一職交給首度執導演筒的沖浦啓之擔任，押井僅擔任編劇。這是將古典童話中的「小紅帽」與「大野狼」，代入左派反體制的「紅」，與意指帝國主義體制的「狼」的寓言。
 
-「犬狼」系列除了部分作品外，均以[第二次世界大戰中](../Page/第二次世界大戰.md "wikilink")，德、義軸心國與日、英同盟雙方的戰爭（美國因[第一次世界大戰以前即貫徹](../Page/第一次世界大戰.md "wikilink")[門羅主義故未參戰](../Page/門羅主義.md "wikilink")）之後，日本成為戰敗國遭德軍佔領的架空設定為基礎。本作品的背景，即為這個世界觀之下的昭和37年（1962年）。
+「犬狼」系列除了部分作品外，均以[第二次世界大戰中](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，德、義軸心國與日、英同盟雙方的戰爭（美國因[第一次世界大戰以前即貫徹](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[門羅主義故未參戰](https://zh.wikipedia.org/wiki/門羅主義 "wikilink")）之後，日本成為戰敗國遭德軍佔領的架空設定為基礎。本作品的背景，即為這個世界觀之下的昭和37年（1962年）。
 
-全片極力排除電腦動畫（但並非完全不使用），而多以手繪賽璐珞動畫來表現，常被評為「（20世紀）最後的高水準賽璐珞動畫」。另外本作除[DVD外並曾發行LD版](../Page/DVD.md "wikilink")，也成為BANDAI
+全片極力排除電腦動畫（但並非完全不使用），而多以手繪賽璐珞動畫來表現，常被評為「（20世紀）最後的高水準賽璐珞動畫」。另外本作除[DVD外並曾發行LD版](https://zh.wikipedia.org/wiki/DVD "wikilink")，也成為BANDAI
 VISUAL的末代LD商品。在2008年則發售了BD版。
 
 原作為《犬狼伝説》（日本出版社）、《犬狼伝説・完結編》（角川書店）。均為描述日本在第二次世界大戰後於德國佔領下（第二次威瑪政權），首都警察隊員的活躍故事。
 
 為主角伏一貴配音的，則是在真人版前作《絕地勇士》中演出的藤木義勝。為女主角雨宮圭配音的武藤-{寿}-美，則因本片之緣與沖浦導演結婚。後來也在押井守作品《[攻殼機動隊2
-INNOCENCE](../Page/攻殼機動隊2_INNOCENCE.md "wikilink")》參演。在押井作品《紅色眼鏡》與《[祖先萬萬歳](../Page/祖先萬萬歳.md "wikilink")》中均由[玄田哲章演出及配音的室戸文明一角](../Page/玄田哲章.md "wikilink")，本片中也有登場，但並非由玄田配音，而是由廣田行生擔任。
+INNOCENCE](../Page/攻殼機動隊2_INNOCENCE.md "wikilink")》參演。在押井作品《紅色眼鏡》與《[祖先萬萬歳](https://zh.wikipedia.org/wiki/祖先萬萬歳 "wikilink")》中均由[玄田哲章演出及配音的室戸文明一角](../Page/玄田哲章.md "wikilink")，本片中也有登場，但並非由玄田配音，而是由廣田行生擔任。
 
 由人物設定西尾鉄也執筆的插畫小單元「週刊少年人狼」（），也於[Production
-I.G的官網內公開](../Page/Production_I.G.md "wikilink")，以本片登場角色阿川七生拿來搞笑的「自爆妹」（）廣獲好評，甚至還單獨推出了週邊商品。而這個點子後來從犬狼系列延伸至《[機動警察](../Page/機動警察.md "wikilink")》，而發展成電影《[迷你版機動警察](../Page/迷你版機動警察.md "wikilink")》（）。
+I.G的官網內公開](../Page/Production_I.G.md "wikilink")，以本片登場角色阿川七生拿來搞笑的「自爆妹」（）廣獲好評，甚至還單獨推出了週邊商品。而這個點子後來從犬狼系列延伸至《[機動警察](../Page/機動警察.md "wikilink")》，而發展成電影《[迷你版機動警察](https://zh.wikipedia.org/wiki/迷你版機動警察 "wikilink")》（）。
 
 本片在台灣曾於金馬國際影展放映，後於[AXN頻道播出](../Page/AXN.md "wikilink")，但電視播出時部分血腥畫面則遭剪除。
 
-2017年，發表了本片將由韓國電影導演[金知雲翻拍為真人版的消息](../Page/金知雲.md "wikilink")，這部由[姜棟元](../Page/姜棟元.md "wikilink")、[韓孝周](../Page/韓孝周.md "wikilink")、[鄭雨盛](../Page/鄭雨盛.md "wikilink")、[韓藝璃等人參與演出的](../Page/韓藝璃.md "wikilink")《[人狼](../Page/人狼_\(2018年電影\).md "wikilink")》，於2018年7月在韓上映。
+2017年，發表了本片將由韓國電影導演[金知雲翻拍為真人版的消息](https://zh.wikipedia.org/wiki/金知雲 "wikilink")，這部由[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[韓孝周](../Page/韓孝周.md "wikilink")、[鄭雨盛](../Page/鄭雨盛.md "wikilink")、[韓藝璃等人參與演出的](../Page/韓藝璃.md "wikilink")《[人狼](https://zh.wikipedia.org/wiki/人狼_\(2018年電影\) "wikilink")》，於2018年7月在韓上映。
 
 ## 劇情簡介
 
 「那場關鍵的敗戰過後数十年」——第二次世界大戰的戰敗國[日本](../Page/日本.md "wikilink")，在戰勝國[德国的佔領統治下為了脫離混亂回歸國際社會](../Page/德国.md "wikilink")，強制執行的經濟政策卻造成了失業者與犯罪增加，還形成一個名為「異端」（Sect）的激進派集團，並產生了超出自治體警方對應能力的武鬥事件，而造成深刻的社会問題。
 
-而政府方面，為了牽制意圖昇格為国家警察的自治警，同時還得避免造成自衛隊執行[治安出動的局面](../Page/治安出動.md "wikilink")，因此組織了擁有高度戰鬥力的警察機關「首都圈治安警察機構」，通稱「首都警」。
+而政府方面，為了牽制意圖昇格為国家警察的自治警，同時還得避免造成自衛隊執行[治安出動的局面](https://zh.wikipedia.org/wiki/治安出動 "wikilink")，因此組織了擁有高度戰鬥力的警察機關「首都圈治安警察機構」，通稱「首都警」。
 
 在這種情勢下的東京街頭，出現學生的示威活動，自治警機動隊與他們進入對峙狀態。後方雖有擔任共同警備的首都警部隊待命，但首都警副長半田元，雖已察覺「異端」的人馬混入示威集團當中，卻仍以「現場指揮權還是在自治警手上」為由繼續旁觀。另一方面，「異端」想趁示威活動對機動隊發動攻擊，並利用下水道供應汽油彈給同夥。
 
@@ -49,40 +49,40 @@ I.G的官網內公開](../Page/Production_I.G.md "wikilink")，以本片登場�
 ## 製作群
 
   - 原作、編劇：[押井守](../Page/押井守.md "wikilink")
-  - 導演：[沖浦啓之](../Page/沖浦啓之.md "wikilink")
+  - 導演：[沖浦啓之](https://zh.wikipedia.org/wiki/沖浦啓之 "wikilink")
   - 演出：[神山健治](../Page/神山健治.md "wikilink")
   - 構成協力：[今敏](../Page/今敏.md "wikilink")（友情協助，演職員表中未列名）
-  - 人物設定：[沖浦啓之](../Page/沖浦啓之.md "wikilink")、[西尾鐵也](../Page/西尾鐵也.md "wikilink")
-  - 美術設定：[渡部隆](../Page/渡部隆.md "wikilink")
-  - 車輛設定：[平松禎史](../Page/平松禎史.md "wikilink")
+  - 人物設定：[沖浦啓之](https://zh.wikipedia.org/wiki/沖浦啓之 "wikilink")、[西尾鐵也](../Page/西尾鐵也.md "wikilink")
+  - 美術設定：[渡部隆](https://zh.wikipedia.org/wiki/渡部隆 "wikilink")
+  - 車輛設定：[平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")
   - 作畫監督：西尾鐵也
   - 副作畫監督：[井上俊之](../Page/井上俊之.md "wikilink")
-  - 作畫監督補佐：[井上銳](../Page/井上銳.md "wikilink")、[古屋勝悟](../Page/古屋勝悟.md "wikilink")
+  - 作畫監督補佐：[井上銳](https://zh.wikipedia.org/wiki/井上銳 "wikilink")、[古屋勝悟](https://zh.wikipedia.org/wiki/古屋勝悟 "wikilink")
   - 美術監督：[小倉宏昌](../Page/小倉宏昌.md "wikilink")
-  - 槍械設定：[黄瀨和哉](../Page/黄瀨和哉.md "wikilink")
-  - 片中繪本插畫：[小原秀一](../Page/小原秀一.md "wikilink")
-  - 數位動畫：[松本薰](../Page/松本薰.md "wikilink")、[山崎嘉雅](../Page/山崎嘉雅.md "wikilink")
-  - 特機隊裝甲服設計原案：[出渕裕](../Page/出渕裕.md "wikilink")
-  - 首都警警徽設計：[高田明美](../Page/高田明美.md "wikilink")
-  - 音樂：[溝口肇](../Page/溝口肇.md "wikilink")
+  - 槍械設定：[黄瀨和哉](https://zh.wikipedia.org/wiki/黄瀨和哉 "wikilink")
+  - 片中繪本插畫：[小原秀一](https://zh.wikipedia.org/wiki/小原秀一 "wikilink")
+  - 數位動畫：[松本薰](https://zh.wikipedia.org/wiki/松本薰 "wikilink")、[山崎嘉雅](https://zh.wikipedia.org/wiki/山崎嘉雅 "wikilink")
+  - 特機隊裝甲服設計原案：[出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")
+  - 首都警警徽設計：[高田明美](https://zh.wikipedia.org/wiki/高田明美 "wikilink")
+  - 音樂：[溝口肇](https://zh.wikipedia.org/wiki/溝口肇 "wikilink")
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
-  - 效果：[野口透](../Page/野口透.md "wikilink")（アニメサウンド）
+  - 效果：[野口透](https://zh.wikipedia.org/wiki/野口透 "wikilink")（アニメサウンド）
   - 動畫製作：[Production I.G](../Page/Production_I.G.md "wikilink")
   - 製作：BANDAI VISUAL、Production I.G 等
 
 ## 配音
 
   - 伏一貴：藤木義勝
-  - 雨宮圭：[武藤壽美](../Page/武藤壽美.md "wikilink")
+  - 雨宮圭：[武藤壽美](https://zh.wikipedia.org/wiki/武藤壽美 "wikilink")
   - 辺見敦：木下浩之
   - 室戸文明：廣田行生
   - 半田元：吉田幸紘
   - 巽志郎：堀部隆一
-  - 阿川七生：[仙台エリ](../Page/仙台エリ.md "wikilink")
+  - 阿川七生：[仙台エリ](https://zh.wikipedia.org/wiki/仙台エリ "wikilink")
   - 安仁屋勲：中川謙二
-  - 自治警幹部：[大木民夫](../Page/大木民夫.md "wikilink")
+  - 自治警幹部：[大木民夫](https://zh.wikipedia.org/wiki/大木民夫 "wikilink")
   - 塔部八郎／旁白：-{坂}-口芳貞
-  - 其他：[古本新之輔](../Page/古本新乃輔.md "wikilink")、[松尾銀三](../Page/松尾銀三.md "wikilink")、松山鷹志、[長克巳](../Page/長克巳.md "wikilink")、村井克行、尾形雅宏、沖田蒼樹、樫井笙人、浜田賢二、村井かずさ、[小暮英麻](../Page/小暮英麻.md "wikilink")、青木誠、新垣正明
+  - 其他：[古本新之輔](https://zh.wikipedia.org/wiki/古本新乃輔 "wikilink")、[松尾銀三](../Page/松尾銀三.md "wikilink")、松山鷹志、[長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")、村井克行、尾形雅宏、沖田蒼樹、樫井笙人、浜田賢二、村井かずさ、[小暮英麻](../Page/小暮英麻.md "wikilink")、青木誠、新垣正明
     等
 
 ## 外部連結

@@ -1,8 +1,8 @@
 **Office Open XML**（縮寫：**Open
-XML**、**OpenXML**或**OOXML**），為由[Microsoft開發的一種以](../Page/Microsoft.md "wikilink")[XML為基礎並以](../Page/XML.md "wikilink")[ZIP格式壓縮的電子文件規範](../Page/ZIP格式.md "wikilink")，支持[文件](../Page/文件.md "wikilink")、[表格](../Page/表格.md "wikilink")、[備忘錄](../Page/備忘錄.md "wikilink")、[幻燈片等檔案格式](../Page/幻燈片.md "wikilink")。
+XML**、**OpenXML**或**OOXML**），為由[Microsoft開發的一種以](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[XML為基礎並以](../Page/XML.md "wikilink")[ZIP格式壓縮的電子文件規範](../Page/ZIP格式.md "wikilink")，支持[文件](https://zh.wikipedia.org/wiki/文件 "wikilink")、[表格](https://zh.wikipedia.org/wiki/表格 "wikilink")、[備忘錄](https://zh.wikipedia.org/wiki/備忘錄 "wikilink")、[幻燈片等檔案格式](https://zh.wikipedia.org/wiki/幻燈片 "wikilink")。
 
-OOXML在[2006年12月成為了](../Page/2006年12月.md "wikilink")[ECMA規範的一部分](../Page/ECMA.md "wikilink")，編號為ECMA-376；並於[2008年4月通過](../Page/2008年4月.md "wikilink")[國際標準化組織的表決](../Page/國際標準化組織.md "wikilink")，在兩個月後公佈為[ISO](../Page/ISO.md "wikilink")／[IEC](../Page/IEC.md "wikilink")
-29500國際標準。微軟推出這個格式，很多人認為是出於商業考量。\[1\]許多專家指出，該標準並不是個完整的標準，採用了許多[微軟的獨有規格](../Page/微軟.md "wikilink")，使用上困難重重。\[2\]\[3\]
+OOXML在[2006年12月成為了](../Page/2006年12月.md "wikilink")[ECMA規範的一部分](https://zh.wikipedia.org/wiki/ECMA "wikilink")，編號為ECMA-376；並於[2008年4月通過](../Page/2008年4月.md "wikilink")[國際標準化組織的表決](../Page/國際標準化組織.md "wikilink")，在兩個月後公佈為[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")／[IEC](https://zh.wikipedia.org/wiki/IEC "wikilink")
+29500國際標準。微軟推出這個格式，很多人認為是出於商業考量。\[1\]許多專家指出，該標準並不是個完整的標準，採用了許多[微軟的獨有規格](https://zh.wikipedia.org/wiki/微軟 "wikilink")，使用上困難重重。\[2\]\[3\]
 
 从Microsoft Office 2007开始，Office Open XML文件格式已经成为Microsoft
 Office默认的文件格式。\[4\]\[5\]\[6\]Microsoft Office
@@ -11,7 +11,7 @@ Office默认的文件格式。\[4\]\[5\]\[6\]Microsoft Office
 Strict的读写操作。\[8\]
 
 它的競爭對手是[OpenDocument
-Format](../Page/OpenDocument_Format.md "wikilink")，後者是被廣泛接受的一種開放的文檔存儲和交換規範。
+Format](https://zh.wikipedia.org/wiki/OpenDocument_Format "wikilink")，後者是被廣泛接受的一種開放的文檔存儲和交換規範。
 
 ## 版本
 
@@ -25,7 +25,7 @@ ECMA
 ### ISO/IEC 29500
 
 ISO/IEC 29500目前最新的版本為2012年的版本
-ISO/IEC标准的结构分为四部分。第1、2和3是独立的标准，第2部分用于其他文件格式，包括[Design_Web_Format和](../Page/Design_Web_Format.md "wikilink")[XPS格式](../Page/XML纸张规范.md "wikilink")。第4部分作用是读出第1部分的变体。\[10\]
+ISO/IEC标准的结构分为四部分。第1、2和3是独立的标准，第2部分用于其他文件格式，包括[Design_Web_Format和](https://zh.wikipedia.org/wiki/Design_Web_Format "wikilink")[XPS格式](../Page/XML纸张规范.md "wikilink")。第4部分作用是读出第1部分的变体。\[10\]
 
   - 第1部分（基础知识和标记语言参考）
   - 第2部分（解包约定）
@@ -35,11 +35,11 @@ ISO/IEC标准的结构分为四部分。第1、2和3是独立的标准，第2部
 ## 批評
 
 微軟公司發表的Office Open
-XML使用許多非標準的規範，造成與其他辦公室軟體(如[LibreOffice](../Page/LibreOffice.md "wikilink"))讀取時發生不相容或內容偏移的情形，目的是讓[Microsoft
+XML使用許多非標準的規範，造成與其他辦公室軟體(如[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink"))讀取時發生不相容或內容偏移的情形，目的是讓[Microsoft
 Office保持市場優勢](../Page/Microsoft_Office.md "wikilink")。
 
-[ODF](../Page/ODF.md "wikilink")(廣泛接受的開放文檔規範)編碼時會使用其他標準規範(如[ISO
-639](../Page/ISO_639.md "wikilink")、[MathML](../Page/MathML.md "wikilink"))來進行儲存，但OOXML使用非標準的編碼進行存取。例如
+[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")(廣泛接受的開放文檔規範)編碼時會使用其他標準規範(如[ISO
+639](../Page/ISO_639.md "wikilink")、[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink"))來進行儲存，但OOXML使用非標準的編碼進行存取。例如
 ODF 裡面的顏色代碼，不管是試算表、文件、簡報等，紅色的代碼都是 \#FF0000，然而在OOXML裏隨不同產品，代碼分別為：
 Word：\#FF0000， Excel：\#FFFF0000， Powerpoint：\#FF0000， 。
 

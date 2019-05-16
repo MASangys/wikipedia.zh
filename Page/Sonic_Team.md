@@ -1,21 +1,23 @@
 **Sonic
-Team**（），現稱「**世嘉消費者研發第二部**」，是一間在1988年成立的[電玩遊戲開發公司](../Page/電玩遊戲.md "wikilink")，原本是[世嘉](../Page/世嘉.md "wikilink")（Sega）旗下的部門之一，稱為「第八軟體開發研究部」（簡稱：Sega
+Team**（），現稱「**世嘉消費者研發第二部**」，是一間在1988年成立的[電玩遊戲開發公司](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，原本是[世嘉](../Page/世嘉.md "wikilink")（Sega）旗下的部門之一，稱為「第八軟體開發研究部」（簡稱：Sega
 AM8），他們在1991年改名為「Sonic
-Team」，名稱取自他們開發出的著名遊戲《[音速小子](../Page/音速小子.md "wikilink")》（*Sonic*）系列。在2000年7月1日，配合世嘉分公司化的政策，Sonic
+Team」，名稱取自他們開發出的著名遊戲《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》（*Sonic*）系列。在2000年7月1日，配合世嘉分公司化的政策，Sonic
 Team 一度成為世嘉的獨立子公司（株式会社ソニックチーム），隨後在2004年7月1日又重新與世嘉公司整合，成為旗下的一個開發部門至今。
 
 Sonic Team
-原本是由知名遊戲設計師、製作人和程式設計師[中裕司主導](../Page/中裕司.md "wikilink")。在中的帶領下，Sonic
-Team 創造出了多款知名的暢銷遊戲，包括《[音速小子大冒險](../Page/音速小子大冒險.md "wikilink")》（*Sonic
+原本是由知名遊戲設計師、製作人和程式設計師[中裕司主導](https://zh.wikipedia.org/wiki/中裕司 "wikilink")。在中的帶領下，Sonic
+Team
+創造出了多款知名的暢銷遊戲，包括《[音速小子大冒險](https://zh.wikipedia.org/wiki/音速小子大冒險 "wikilink")》（*Sonic
 Adventure*）、《[飛天幽夢](../Page/飛天幽夢.md "wikilink")》（*NiGHTS into
 Dreams...*）等。2006年5月8日，中裕司帶著十位同仁離開了 Sonic
-Team，成立了獨立的遊戲開發公司「[PROPE](../Page/PROPE.md "wikilink")」。
+Team，成立了獨立的遊戲開發公司「[PROPE](https://zh.wikipedia.org/wiki/PROPE "wikilink")」。
 
 Sonic Team在Dreamcast失敗之後，就開始向任天堂靠攏，最明顯的例子就是音速小子後來的發售平台多以任天堂的為主，此外，Sonic
 Team也多次發表了對於任天堂主機的讚美（Wii和NDS）。
 
-[掌上型遊戲機的](../Page/掌機.md "wikilink")《音速小子》作品並非由 Sonic Team
-製作。如《音速小子GBA系列》（[GBA](../Page/GBA.md "wikilink")）和《音速小子RUSH》（[NDS](../Page/NDS.md "wikilink")）等是由「[Dimps](../Page/Dimps.md "wikilink")」公司開發。
+[掌上型遊戲機的](https://zh.wikipedia.org/wiki/掌機 "wikilink")《音速小子》作品並非由 Sonic
+Team
+製作。如《音速小子GBA系列》（[GBA](https://zh.wikipedia.org/wiki/GBA "wikilink")）和《音速小子RUSH》（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）等是由「[Dimps](../Page/Dimps.md "wikilink")」公司開發。
 
 2004年7月1日，Sonic
 Team因為SEGA與Sammy合併而回歸母公司，內部的員工除了增加Sammy的以外還多了些新人，但卻有多數老鳥離職，此舉導致Sonic
@@ -33,7 +35,8 @@ Team後續的遊戲逐漸失去原有的水準。實際上，在合併計畫之�
 ### XBOX 360
 
   - Sonic The Hedgehog　　次世代音速小子
-  - Phantasy Star　　[夢幻之星宇宙紀](../Page/梦幻之星_宇宙.md "wikilink")
+  - Phantasy
+    Star　　[夢幻之星宇宙紀](https://zh.wikipedia.org/wiki/梦幻之星_宇宙 "wikilink")
 
 ### Wii
 
@@ -58,7 +61,7 @@ Team後續的遊戲逐漸失去原有的水準。實際上，在合併計畫之�
   - Puyo Pop Fever　　狂熱魔法氣泡
   - The Rub Rabbits　　孩子是哪來的啊？
   - Feel the Magic XY/XX(Project
-    Rub)　　[願為你死](../Page/願為你死.md "wikilink")
+    Rub)　　[願為你死](https://zh.wikipedia.org/wiki/願為你死 "wikilink")
 
 ### PlayStation 2
 
@@ -66,7 +69,8 @@ Team後續的遊戲逐漸失去原有的水準。實際上，在合併計畫之�
     伊魯米納斯的野望](../Page/夢幻之星_新宇宙_伊爾米那斯的野心.md "wikilink")
   - Sonic Riders　　音速小子 滑板競速
   - Shadow the Hedgehog　　音速小子外傳：闇影刺蝟尋憶記
-  - Phantasy Star Universe　　[夢幻之星 宇宙紀](../Page/梦幻之星_宇宙.md "wikilink")
+  - Phantasy Star Universe　　[夢幻之星
+    宇宙紀](https://zh.wikipedia.org/wiki/梦幻之星_宇宙 "wikilink")
   - Puyo Pop Fever 2　　狂熱魔法氣泡2
   - Puyo Pop Fever　　狂熱魔法氣泡
   - Astro Boy　　原子小金剛

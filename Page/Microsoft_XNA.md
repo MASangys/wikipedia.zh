@@ -1,13 +1,13 @@
 **Microsoft XNA** ("**X**NA's **N**ot
-**A**cronymed"\[1\])，完全支援[受控代碼的](../Page/受控代碼.md "wikilink")[運行環境](../Page/運行環境.md "wikilink")，由[微軟提供用以幫助電腦](../Page/微軟.md "wikilink")[遊戲開發](../Page/遊戲開發.md "wikilink")、[電腦軟件開發及管理的一些工具](../Page/電腦軟件開發.md "wikilink")。XNA把遊戲設計員從“反覆刻版編程”中解放出來\[2\]，還把遊戲開發上的所有需要結合到一個系統之中。\[3\]XNA
-工具集在2004年3月24日在[美國](../Page/美國.md "wikilink")[加州](../Page/加州.md "wikilink")[聖荷西市的](../Page/聖荷西.md "wikilink")[遊戲開發者大會首次亮相](../Page/遊戲開發者大會.md "wikilink")，第一個公開技術預覽在2006年3月14日推出，最新版本3.0在2008年10月30日推出。
+**A**cronymed"\[1\])，完全支援[受控代碼的](../Page/受控代碼.md "wikilink")[運行環境](https://zh.wikipedia.org/wiki/運行環境 "wikilink")，由[微軟提供用以幫助電腦](https://zh.wikipedia.org/wiki/微軟 "wikilink")[遊戲開發](https://zh.wikipedia.org/wiki/遊戲開發 "wikilink")、[電腦軟件開發及管理的一些工具](https://zh.wikipedia.org/wiki/電腦軟件開發 "wikilink")。XNA把遊戲設計員從“反覆刻版編程”中解放出來\[2\]，還把遊戲開發上的所有需要結合到一個系統之中。\[3\]XNA
+工具集在2004年3月24日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西市的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")[遊戲開發者大會首次亮相](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")，第一個公開技術預覽在2006年3月14日推出，最新版本3.0在2008年10月30日推出。
 
 ## 概觀
 
 ### XNA Framework
 
 XNA Framework 是建置於 [.NET Framework
-2.0上](../Page/.NET_Framework.md "wikilink")，XNA
+2.0上](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，XNA
 將[DirectX的功能以](../Page/DirectX.md "wikilink")[受控代碼的方式封裝運作](../Page/受控代碼.md "wikilink")（因此微软终止了Managed
 DirectX 9.0的開發，所以有人称XNA为Managed DirectX
 2.0），另外還加入了一些專注於遊戲開發上[類別庫](../Page/函式庫.md "wikilink")，在指定的平台上使“程式碼重用”達之最大效果。XNA
@@ -15,11 +15,12 @@ Framework 在一個特別為有管理式遊戲運行的[通用語言運行庫](.
 Language Runtime）版本上運行。這個執行層支援[Windows
 XP](../Page/Windows_XP.md "wikilink")、[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-7](../Page/Windows_7.md "wikilink")、[Windows Phone
-7和](../Page/Windows_Phone_7.md "wikilink")[XBox
-360](../Page/XBox_360.md "wikilink")。由於遊戲是開發在執行層上，使得遊戲能在所有支持XNA
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows Phone
+7和](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")[XBox
+360](https://zh.wikipedia.org/wiki/XBox_360 "wikilink")。由於遊戲是開發在執行層上，使得遊戲能在所有支持XNA
 Framework 的平台上只要很少甚至不需要任何更改便能運行。現時所有在XNA Framework 上的遊戲必需使用[C
-\#和XNA](../Page/C_Sharp.md "wikilink") Game Studio Express IDE\[4\]開發。
+\#和XNA](https://zh.wikipedia.org/wiki/C_Sharp "wikilink") Game Studio
+Express IDE\[4\]開發。
 
 XNA 的程式都是繼承自Game class，它包含了所有重要的游戏组件，比如图形设备（Graphic
 Device）、窗口设置以及内容管理器，你也可以添加GameComponent
@@ -31,10 +32,10 @@ Effect.SetValue可以用來設定Shader的參數。一个effect包含一個或�
 PixelShader，這些元素構成一份effect文件,
 這也就是極簡化後的HLSL程式碼。因此，遊戲開發員就可以專注於遊戲內容開發而不用關心遊戲移植至不同平台上的問題，遊戲只要開發於XNA
 的平台上，所有硬體只要支援XNA都能運行。XNA Framework
-還內置一些工具，例如[XACT以幫助遊戲內容開發](../Page/XACT.md "wikilink")。這些工具還能幫助開發視覺和聽覺效果和和像真度很高的模型制作。
+還內置一些工具，例如[XACT以幫助遊戲內容開發](https://zh.wikipedia.org/wiki/XACT "wikilink")。這些工具還能幫助開發視覺和聽覺效果和和像真度很高的模型制作。
 
 XNA Framework 同時支持2D 和3D 的遊戲開發也支援XBox 360 的控制器和震動效果。Content
-Pipeline被用来导入.fbx格式，而且加载像纹理（Texture）、3D模型、[着色器](../Page/着色器.md "wikilink")（shader）。Shader指令經過編譯之後，直接載入到顯示卡上的[GPU來執行](../Page/GPU.md "wikilink")。[Xbox
+Pipeline被用来导入.fbx格式，而且加载像纹理（Texture）、3D模型、[着色器](../Page/着色器.md "wikilink")（shader）。Shader指令經過編譯之後，直接載入到顯示卡上的[GPU來執行](https://zh.wikipedia.org/wiki/GPU "wikilink")。[Xbox
 Live賣場可以升級開發者的XNA](../Page/Xbox_Live.md "wikilink") Game Studio Express
 以使能把他們開發的遊戲用於[Xbox 360上](../Page/Xbox_360.md "wikilink")。
 
@@ -211,7 +212,7 @@ XNA中实现[Shader很简单](../Page/着色器.md "wikilink")。對XNA程式來
 ` }`
 
 再透過XNA Effect class
-來加载和编译shader。[HLSL可以在XNA或是DirectX使用](../Page/HLSL.md "wikilink")。
+來加载和编译shader。[HLSL可以在XNA或是DirectX使用](https://zh.wikipedia.org/wiki/HLSL "wikilink")。
 
 ` effect = Content.Load`<Effect>`("MyShader"); `
 ` effect.CurrentTechnique = effect.Techniques ["AmbientLight" ]; `
@@ -252,7 +253,7 @@ Phone游戏，Xbox游戏，PC游戏，没有Zune游戏的开发模版。
 
 **XNA Game Studio 2.0** 於2007年12月13日推出.\[7\] **XNA Game Studio
 2.0**\[8\][Visual Studio
-2005亦實作有相同的特色與功能](../Page/Visual_Studio_2005.md "wikilink")
+2005亦實作有相同的特色與功能](https://zh.wikipedia.org/wiki/Visual_Studio_2005 "wikilink")
 (包括免費的 Visual C\# 2005 Express Edition)。
 
 #### XNA Game Studio 3.0
@@ -260,7 +261,7 @@ Phone游戏，Xbox游戏，PC游戏，没有Zune游戏的开发模版。
 XNA Game Studio 3.0 (基於Visual Studio 2008)
 支援Zune的遊戲開發。[beta版在](../Page/軟件版本週期.md "wikilink")2008年9月推出.\[9\]2008年10月30日推出正式版.
 XNA Game Studio 3.0 目前可支援 C\# 3.0, Visual Studio 2008之上還支援LINQ.
-在XNA3.0中，SoundEffect可以不透過[XACT也可以做到特效的處理](../Page/XACT.md "wikilink")。
+在XNA3.0中，SoundEffect可以不透過[XACT也可以做到特效的處理](https://zh.wikipedia.org/wiki/XACT "wikilink")。
 
 #### XNA Game Studio 3.1
 
@@ -270,9 +271,9 @@ XNA Game Studio 3.1於2009年6月11日推出。可支援 video playback, 並修�
 #### XNA Game Studio 4
 
 XNA Game Studio 4 最早2010年3月9日由 "Community Technical Preview" 在
-[GDC](../Page/Game_Developers_Conference.md "wikilink") 上發布,
-並於2010年9月16日完整推出.\[11\]。XNA 4整合了Visual Studio 2010,
-可支援[Windows Phone 7](../Page/Windows_Phone_7.md "wikilink") 平台
+[GDC](https://zh.wikipedia.org/wiki/Game_Developers_Conference "wikilink")
+上發布, 並於2010年9月16日完整推出.\[11\]。XNA 4整合了Visual Studio 2010, 可支援[Windows
+Phone 7](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink") 平台
 (包括：3D API的硬體加速)。VertexDeclaration 在 XNA Game Studio
 4.0中略有改變，另外SpriteBatch.Begin也可以配合pixel shader。
 
@@ -291,8 +292,8 @@ C\# Express内进行管理。在添加素材时，需要选择工具（importer�
 ### XNA 批評
 
 雖然已被世界上很多開發員採用，但XNA
-並未能真正發揮的作用，例如使遊戲編程更容易。這是因為他沒有一些重要的功能如[骨骼动画](../Page/骨骼动画.md "wikilink")（[Skeletal
-animation](../Page/骨骼动画.md "wikilink")），對初學者而言還是比較複雜的編程。另一個問題是有人認為XNA
+並未能真正發揮的作用，例如使遊戲編程更容易。這是因為他沒有一些重要的功能如[骨骼动画](https://zh.wikipedia.org/wiki/骨骼动画 "wikilink")（[Skeletal
+animation](https://zh.wikipedia.org/wiki/骨骼动画 "wikilink")），對初學者而言還是比較複雜的編程。另一個問題是有人認為XNA
 沒讓開發者有太多控制權，這使得大多數的大型遊戲制件過還是用C++直接調用[DirectX](../Page/DirectX.md "wikilink")。
 
 在程式編輯上，XNA 確實大幅改善了繁雜的程式設計。包括：資源回收系統、簡易聲音API,

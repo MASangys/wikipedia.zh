@@ -1,4 +1,4 @@
-**ICE**（[日文](../Page/日文.md "wikilink")：****）是一部[OVA作品](../Page/OVA.md "wikilink")，全3卷。
+**ICE**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是一部[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，全3卷。
 
 ## 簡介
 
@@ -8,36 +8,39 @@
 
   - ヒトミ：[皆川純子](../Page/皆川純子.md "wikilink")
     ユキ：[小野惠令奈](../Page/小野惠令奈.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
-    サツキ：[間宮くるみ](../Page/間宮くるみ.md "wikilink")
-    キサラギ：[鳳芳野](../Page/鳳芳野.md "wikilink")
+    サツキ：[間宮くるみ](https://zh.wikipedia.org/wiki/間宮くるみ "wikilink")
+    キサラギ：[鳳芳野](https://zh.wikipedia.org/wiki/鳳芳野 "wikilink")
     ジュリア：[石田彰](../Page/石田彰.md "wikilink")
     リンネ：[大島優子](../Page/大島優子.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
     アオイ：[河西智美](../Page/河西智美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
     ムラサキ：[佐藤夏希](../Page/佐藤夏希.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
-    ウスハ：[今井優](../Page/今井優.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
+    ウスハ：[今井優](https://zh.wikipedia.org/wiki/今井優 "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
     ミント：[喜多村英梨](../Page/喜多村英梨.md "wikilink")
     瞳：[池澤春菜](../Page/池澤春菜.md "wikilink")
 
 ## 製作
 
   - 企劃・原作 - [秋元康](../Page/秋元康.md "wikilink")
-  - 監督・機械設計 - [小林誠](../Page/小林誠_\(插畫家\).md "wikilink")
-  - 腳本 - [平野靖士](../Page/平野靖士.md "wikilink")、小林誠
-  - 角色設定 - [大西雅也](../Page/大西雅也.md "wikilink")
-  - 作画監督 - 大西雅也、金子誠、[増尾昭一](../Page/増尾昭一.md "wikilink")
+  - 監督・機械設計 -
+    [小林誠](https://zh.wikipedia.org/wiki/小林誠_\(插畫家\) "wikilink")
+  - 腳本 - [平野靖士](https://zh.wikipedia.org/wiki/平野靖士 "wikilink")、小林誠
+  - 角色設定 - [大西雅也](https://zh.wikipedia.org/wiki/大西雅也 "wikilink")
+  - 作画監督 -
+    大西雅也、金子誠、[増尾昭一](https://zh.wikipedia.org/wiki/増尾昭一 "wikilink")
   - 分鏡 - 小林誠
   - 演出 - 水野健太郎
   - 美術監督 - 小林誠
   - 色彩設計 - 和田秀美、小林誠
   - 撮影監督 - 桑良人、小林誠、箭内光一
   - 編集 - 布施由美子
-  - 音樂 - [ウォン・イル](../Page/ウォン・イル.md "wikilink")
+  - 音樂 - [ウォン・イル](https://zh.wikipedia.org/wiki/ウォン・イル "wikilink")
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 製作者 - 澤昌樹、宮本継一、[井上博明](../Page/井上博明.md "wikilink")、千葉博己
-  - 動畫制作 - [P・P・M](../Page/P・P・M.md "wikilink")
+  - 製作者 -
+    澤昌樹、宮本継一、[井上博明](https://zh.wikipedia.org/wiki/井上博明 "wikilink")、千葉博己
+  - 動畫制作 - [P・P・M](https://zh.wikipedia.org/wiki/P・P・M "wikilink")
   - 制作 - オニロ
   - 製作 - [E-NET
-    FRONTIER](../Page/E-NET_FRONTIER.md "wikilink")、PROJECT-ICE
+    FRONTIER](https://zh.wikipedia.org/wiki/E-NET_FRONTIER "wikilink")、PROJECT-ICE
 
 ## 主題曲
 

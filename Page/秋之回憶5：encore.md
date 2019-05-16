@@ -1,5 +1,5 @@
 《**秋之回憶5：encore**》（Memories Off 5
-encore）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](../Page/電子遊戲公司.md "wikilink")[CyberFront原本預訂於](../Page/CyberFront.md "wikilink")2007年發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。設定上是接續《[秋之回憶\#5：中斷的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")》劇情的續作。
+encore）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲公司 "wikilink")[CyberFront原本預訂於](https://zh.wikipedia.org/wiki/CyberFront "wikilink")2007年發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。設定上是接續《[秋之回憶\#5：中斷的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")》劇情的續作。
 
 原本所屬[KID公司在](../Page/KID.md "wikilink")2006年12月宣告破產，停止相關的發售計劃。但2007年2月CyberFont公司接手所有KID軟體的相關權利，於2007年7月12日內發售。
 
@@ -29,10 +29,10 @@ encore）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](../Page/�
 ## 外部連結
 
   - [《秋之回憶\#5
-    encore》官方網站（KID）](https://web.archive.org/web/20070416014422/http://www.kid-game.co.jp/mo5e/)，存於[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    encore》官方網站（KID）](https://web.archive.org/web/20070416014422/http://www.kid-game.co.jp/mo5e/)，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
 [en:Memories Off 5 The Unfinished
-Film](../Page/en:Memories_Off_5_The_Unfinished_Film.md "wikilink")
+Film](https://zh.wikipedia.org/wiki/en:Memories_Off_5_The_Unfinished_Film "wikilink")
 
 [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
 [Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink")

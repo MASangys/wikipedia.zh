@@ -1,28 +1,28 @@
 《**機動戰士V
-GUNDAM**》（）是日本[日昇動畫所推出](../Page/日昇動畫.md "wikilink")，是[GUNDAM系列作品的第四部](../Page/GUNDAM系列作品.md "wikilink")，同時是[U.C.最後一篇](../Page/U.C..md "wikilink")。在1993年4月2日到1994年3月25日之間播放，全51話。
+GUNDAM**》（）是日本[日昇動畫所推出](../Page/日昇動畫.md "wikilink")，是[GUNDAM系列作品的第四部](../Page/GUNDAM系列作品.md "wikilink")，同時是[U.C.最後一篇](https://zh.wikipedia.org/wiki/U.C. "wikilink")。在1993年4月2日到1994年3月25日之間播放，全51話。
 當中[V
-GUNDAM的](../Page/LM312V04_VICTORY_GUNDAM.md "wikilink")「V」全寫是Victory，[神聖軍事同盟稱呼V](../Page/神聖軍事同盟.md "wikilink")
-GUNDAM為「[勝利的白色](../Page/勝利.md "wikilink")」機動戰士。後繼機V2鋼彈同時是整個UC時代最強的主角機。
+GUNDAM的](https://zh.wikipedia.org/wiki/LM312V04_VICTORY_GUNDAM "wikilink")「V」全寫是Victory，[神聖軍事同盟稱呼V](https://zh.wikipedia.org/wiki/神聖軍事同盟 "wikilink")
+GUNDAM為「[勝利的白色](https://zh.wikipedia.org/wiki/勝利 "wikilink")」機動戰士。後繼機V2鋼彈同時是整個UC時代最強的主角機。
 
 ## 故事概要
 
-[地球聯邦軍經歷多場戰役上令戰力大大削減](../Page/地球聯邦軍.md "wikilink")，而且[地球聯邦軍內部高層在](../Page/地球聯邦軍.md "wikilink")[一年戰爭後開始腐敗](../Page/一年戰爭.md "wikilink")，使腐敗風氣一直維持下去，加上不斷戰爭令到[地球受到嚴重的污染](../Page/地球.md "wikilink")，使人類開始慢慢遷移[宇宙殖民地生活](../Page/宇宙殖民地.md "wikilink")。
+[地球聯邦軍經歷多場戰役上令戰力大大削減](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，而且[地球聯邦軍內部高層在](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")[一年戰爭後開始腐敗](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")，使腐敗風氣一直維持下去，加上不斷戰爭令到[地球受到嚴重的污染](../Page/地球.md "wikilink")，使人類開始慢慢遷移[宇宙殖民地生活](../Page/宇宙殖民地.md "wikilink")。
 
-[U.C.](../Page/U.C..md "wikilink")0140年，受到「殖民地主義」抬頭下，各宇宙殖民地為了確立[自治權的權利](../Page/自治體.md "wikilink")，紛紛建立各自的勢力，脫離[地球聯邦軍的統治](../Page/地球聯邦軍.md "wikilink")，於是[宇宙戰國時代正式爆發](../Page/宇宙戰國時代.md "wikilink")。其中Side2以女政治家[瑪麗亞·阿莫尼為首參政](../Page/瑪麗亞·阿莫尼.md "wikilink")，在U.C.0150年建立[贊斯卡爾帝國](../Page/贊斯卡爾帝國.md "wikilink")，更推行「瑪麗亞主義」，一方面得到宇宙殖民地的人民支持，另一方面實行[恐怖政治](../Page/恐怖政治.md "wikilink")－「斷頭台主義」，以進行武力侵略壓制其它宇宙殖民地。之後贊斯卡爾帝國為了擴展勢力，更以建立新秩序為理由向地球聯邦軍宣戰，在U.C.0153年地球侵略部隊－「[卑斯帕](../Page/卑斯帕.md "wikilink")」對地球實行侵略計劃，卑斯帕部隊首先壓制各歐洲的城市，作為侵略地球的重要據點。同時，為了抵抗贊斯卡爾帝國的侵略，由原屬地球聯邦軍士兵、[阿納海姆公司成員和民間組織組成](../Page/阿納海姆公司.md "wikilink")「[神聖軍事同盟](../Page/神聖軍事同盟.md "wikilink")」的組織，已經在歐洲各個城市上作出零星的對抗，而且利用「GUNDAM」的名氣，在不同據點進行開發新型[機動戰士](../Page/機動戰士.md "wikilink")—「VGUNDAM」去抵抗贊斯卡爾帝國的攻擊。
+[U.C.](https://zh.wikipedia.org/wiki/U.C. "wikilink")0140年，受到「殖民地主義」抬頭下，各宇宙殖民地為了確立[自治權的權利](https://zh.wikipedia.org/wiki/自治體 "wikilink")，紛紛建立各自的勢力，脫離[地球聯邦軍的統治](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，於是[宇宙戰國時代正式爆發](https://zh.wikipedia.org/wiki/宇宙戰國時代 "wikilink")。其中Side2以女政治家[瑪麗亞·阿莫尼為首參政](https://zh.wikipedia.org/wiki/瑪麗亞·阿莫尼 "wikilink")，在U.C.0150年建立[贊斯卡爾帝國](https://zh.wikipedia.org/wiki/贊斯卡爾帝國 "wikilink")，更推行「瑪麗亞主義」，一方面得到宇宙殖民地的人民支持，另一方面實行[恐怖政治](https://zh.wikipedia.org/wiki/恐怖政治 "wikilink")－「斷頭台主義」，以進行武力侵略壓制其它宇宙殖民地。之後贊斯卡爾帝國為了擴展勢力，更以建立新秩序為理由向地球聯邦軍宣戰，在U.C.0153年地球侵略部隊－「[卑斯帕](https://zh.wikipedia.org/wiki/卑斯帕 "wikilink")」對地球實行侵略計劃，卑斯帕部隊首先壓制各歐洲的城市，作為侵略地球的重要據點。同時，為了抵抗贊斯卡爾帝國的侵略，由原屬地球聯邦軍士兵、[阿納海姆公司成員和民間組織組成](https://zh.wikipedia.org/wiki/阿納海姆公司 "wikilink")「[神聖軍事同盟](https://zh.wikipedia.org/wiki/神聖軍事同盟 "wikilink")」的組織，已經在歐洲各個城市上作出零星的對抗，而且利用「GUNDAM」的名氣，在不同據點進行開發新型[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")—「VGUNDAM」去抵抗贊斯卡爾帝國的攻擊。
 
-本故事主角[胡索·艾賓在](../Page/胡索·艾賓.md "wikilink")[加沙里尼亞使用](../Page/加沙里尼亞.md "wikilink")[滑翔傘飛行的時候遇上贊斯卡爾帝國的新型試作機動戰士](../Page/滑翔傘.md "wikilink")，在混亂中搭上新型試作機動戰士，於是胡索·艾賓捲入贊斯卡爾帝國與神聖軍事同盟的戰火中。
+本故事主角[胡索·艾賓在](../Page/胡索·艾賓.md "wikilink")[加沙里尼亞使用](https://zh.wikipedia.org/wiki/加沙里尼亞 "wikilink")[滑翔傘飛行的時候遇上贊斯卡爾帝國的新型試作機動戰士](https://zh.wikipedia.org/wiki/滑翔傘 "wikilink")，在混亂中搭上新型試作機動戰士，於是胡索·艾賓捲入贊斯卡爾帝國與神聖軍事同盟的戰火中。
 
 ## 作品解說
 
 本作品是以[宇宙世紀為舞臺的TV系列動畫的第四作](../Page/宇宙世紀.md "wikilink")，也是UC世紀延伸編的動畫版最後一作（2001年的G-Saviour動畫電影，故事舞台是V鋼彈後的時代，為外傳作品。）。主人公13歲的設定是系列中年紀最輕的，目的是使與[SD
-鋼彈同世代的小學生更易接受](../Page/SD_鋼彈.md "wikilink")，即使對舊系列內容完全不了解的人也能明白，與舊關聯内容極少。（關於F-91至V鋼彈之間的歷史，則由數部單行本作品構成，包括[時田洸一的影子方程式](../Page/時田洸一.md "wikilink")、以及長谷川裕一的[機動戰士海盜鋼彈系列漫畫](../Page/機動戰士海盜鋼彈.md "wikilink")。）
+鋼彈同世代的小學生更易接受](https://zh.wikipedia.org/wiki/SD_鋼彈 "wikilink")，即使對舊系列內容完全不了解的人也能明白，與舊關聯内容極少。（關於F-91至V鋼彈之間的歷史，則由數部單行本作品構成，包括[時田洸一的影子方程式](../Page/時田洸一.md "wikilink")、以及長谷川裕一的[機動戰士海盜鋼彈系列漫畫](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")。）
 
-按照監督[富野由悠季的説法](../Page/富野由悠季.md "wikilink")，本作是“回到[TV動畫的原點](../Page/TV動畫.md "wikilink")，內容有趣的[機器人動畫](../Page/機器人動畫.md "wikilink")”，以早期那種主人公為中心的簡單、漫畫風格的作品為目標。因此故事開始，是圍繞明朗活潑的主人公[胡索·艾賓](../Page/胡索·艾賓.md "wikilink")，為了守護青梅竹馬的[莎蒂·卡伦和愛慕的女性](../Page/莎蒂·卡伦.md "wikilink")[卡蒂珍娜·鲁斯而登上鋼彈](../Page/卡蒂珍娜·鲁斯.md "wikilink")，靠機智的戰法打倒敵人，猶如鬧劇般的方向發展。但因不顾富野由悠季的反对，Sunrise与Bandai合并，以及Bandai等持份者出于商业化考虑对于本作加上的诸多要求与限制（例如原定的第四话，因为Bandai希望主角机尽快亮相而被强制搬到第一话），富野由悠季在创作过程中据传心情抑郁，使得作品变得情节混乱与充满暴力，在GUNDAM迷中评价不高（其后他自称此为他“最厌恶的GUNDAM作品”）。以及臨近末期，甚至引入了宗教背景的民族主義等，令青年群難以理解的主題。
+按照監督[富野由悠季的説法](../Page/富野由悠季.md "wikilink")，本作是“回到[TV動畫的原點](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")，內容有趣的[機器人動畫](../Page/機器人動畫.md "wikilink")”，以早期那種主人公為中心的簡單、漫畫風格的作品為目標。因此故事開始，是圍繞明朗活潑的主人公[胡索·艾賓](../Page/胡索·艾賓.md "wikilink")，為了守護青梅竹馬的[莎蒂·卡伦和愛慕的女性](https://zh.wikipedia.org/wiki/莎蒂·卡伦 "wikilink")[卡蒂珍娜·鲁斯而登上鋼彈](https://zh.wikipedia.org/wiki/卡蒂珍娜·鲁斯 "wikilink")，靠機智的戰法打倒敵人，猶如鬧劇般的方向發展。但因不顾富野由悠季的反对，Sunrise与Bandai合并，以及Bandai等持份者出于商业化考虑对于本作加上的诸多要求与限制（例如原定的第四话，因为Bandai希望主角机尽快亮相而被强制搬到第一话），富野由悠季在创作过程中据传心情抑郁，使得作品变得情节混乱与充满暴力，在GUNDAM迷中评价不高（其后他自称此为他“最厌恶的GUNDAM作品”）。以及臨近末期，甚至引入了宗教背景的民族主義等，令青年群難以理解的主題。
 
 而作品中部份場面，例如有人物被光束刀斬首等場景，使得本作變得與其他富野由悠季作品常見的場景一樣灰暗沉重。類似這樣的場景在次回預告中被多次描寫，有“預告裏提到名字的角色，就一定死定了”的説法。而且與以往鋼彈系列不單純是反派而要作爲人來塑造的做法不同，本作敵方有著藐視生命、殘忍冷酷性格的人很多。
 
 主角機[V
-鋼彈的機設啓用了](../Page/V_鋼彈.md "wikilink")[角木肇](../Page/角木肇.md "wikilink")，做出了設計簡潔並可合體變形有著高可玩性的機體。也是特別考慮到讓少兒觀衆也能逼真的畫出來。敵方[機動戰士也採用了被愛好者們稱爲土偶眼睛](../Page/機動戰士.md "wikilink")、轉輪光槍、車輪型載具等與以往作品不一致的設定。
+鋼彈的機設啓用了](https://zh.wikipedia.org/wiki/V_鋼彈 "wikilink")[角木肇](../Page/角木肇.md "wikilink")，做出了設計簡潔並可合體變形有著高可玩性的機體。也是特別考慮到讓少兒觀衆也能逼真的畫出來。敵方[機動戰士也採用了被愛好者們稱爲土偶眼睛](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")、轉輪光槍、車輪型載具等與以往作品不一致的設定。
 
 負責人設的是[逢坂浩司](../Page/逢坂浩司.md "wikilink")。富野難得的誇獎自己作品的監督（曾說這部作品也是“最厭惡的鋼彈”），但也在事後說，是人設挽救了本作。直至本作結束，在《機動戰士V
 鋼彈大辭典》中，富野又提到“真是個不錯的結局啊”，在《Turn A的治愈》中反而說“沒有什麽比使一個作品完結更能讓人怨恨現實的了”。
@@ -36,7 +36,7 @@ UP TO THE VICTORY〜TO THE VICTORY〜（STAND UP TO THE
 VICTORY〜トゥ・ザ・ヴィクトリー〜）》重編版，下回預告中使用)，插入歌《田野罂粟之旅的前方（ひなげしの旅のむこうに）》《將愛永遠重復（いくつもの愛をかさねて）》等多首高人氣曲的專輯。但未收錄曲仍有很多（上述《田野邊的花》鋼琴版等），無論是Gundam還是千住明愛好者都強烈希望能發售全曲收錄CD。
 
 為胡索配音的[阪口大助當時是以新人出道登場的](../Page/阪口大助.md "wikilink")（19嵗）。在《[機動武鬥傳G
-GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》中配演[多蒙·卡修的](../Page/多蒙·卡修.md "wikilink")[関智一本作中配演](../Page/関智一.md "wikilink")[托馬修](../Page/托馬修.md "wikilink")。在《[新機動戰記GUNDAMW](../Page/新機動戰記GUNDAMW.md "wikilink")》中配演[希洛·唯的](../Page/希洛·唯.md "wikilink")[綠川光也在本作各話中配演了一些配角](../Page/綠川光.md "wikilink")。此外，在本作之後的[平成鋼彈三部曲中配演主角的聲優許多都在本作中出演](../Page/平成鋼彈三部曲.md "wikilink")。
+GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》中配演[多蒙·卡修的](../Page/多蒙·卡修.md "wikilink")[関智一本作中配演](https://zh.wikipedia.org/wiki/関智一 "wikilink")[托馬修](https://zh.wikipedia.org/wiki/托馬修 "wikilink")。在《[新機動戰記GUNDAMW](https://zh.wikipedia.org/wiki/新機動戰記GUNDAMW "wikilink")》中配演[希洛·唯的](../Page/希洛·唯.md "wikilink")[綠川光也在本作各話中配演了一些配角](../Page/綠川光.md "wikilink")。此外，在本作之後的[平成鋼彈三部曲中配演主角的聲優許多都在本作中出演](https://zh.wikipedia.org/wiki/平成鋼彈三部曲 "wikilink")。
 
 製作時的暫定標題為《新機動戰士Victory
 Gundam》，第一話[分鏡中的標題亦有沿用](../Page/分鏡.md "wikilink")。
@@ -51,68 +51,85 @@ Gundam》，第一話[分鏡中的標題亦有沿用](../Page/分鏡.md "wikilin
 
 ### 贊斯卡爾帝國
 
-  - [卡迪珍娜·路殊](../Page/卡迪珍娜·路殊.md "wikilink")
-  - [克羅諾·克爾](../Page/克羅諾·克爾.md "wikilink")
+  - [卡迪珍娜·路殊](https://zh.wikipedia.org/wiki/卡迪珍娜·路殊 "wikilink")
+  - [克羅諾·克爾](https://zh.wikipedia.org/wiki/克羅諾·克爾 "wikilink")
 
 ## 登場機體
 
 ### 神聖軍事同盟
 
-  - LM111E02 [Gun-EZ](../Page/Gun-EZ.md "wikilink")
-  - LM111E03 [Gunblastor](../Page/Gunblastor.md "wikilink")
-  - LM312V04 [Victory Gundam](../Page/Victory_Gundam.md "wikilink")
+  - LM111E02 [Gun-EZ](https://zh.wikipedia.org/wiki/Gun-EZ "wikilink")
+  - LM111E03
+    [Gunblastor](https://zh.wikipedia.org/wiki/Gunblastor "wikilink")
+  - LM312V04 [Victory
+    Gundam](https://zh.wikipedia.org/wiki/Victory_Gundam "wikilink")
     ／LM312V04+SD-VB03A [V-Dash
-    Gundam](../Page/V-Dash_Gundam.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/V-Dash_Gundam "wikilink")
   - LM312V06 [Victory Gundam
-    Hexa](../Page/Victory_Gundam_Hexa.md "wikilink") / LM312V06+SD-VB03A
-    [V-Dash Gundam Hexa](../Page/V-Dash_Gundam_Hexa.md "wikilink")
-  - LM314V21 [Victory 2 Gundam](../Page/Victory_2_Gundam.md "wikilink")
+    Hexa](https://zh.wikipedia.org/wiki/Victory_Gundam_Hexa "wikilink")
+    / LM312V06+SD-VB03A [V-Dash Gundam
+    Hexa](https://zh.wikipedia.org/wiki/V-Dash_Gundam_Hexa "wikilink")
+  - LM314V21 [Victory 2
+    Gundam](https://zh.wikipedia.org/wiki/Victory_2_Gundam "wikilink")
       - LM314V23 [Victory 2 Buster
-        Gundam](../Page/Victory_2_Buster_Gundam.md "wikilink")
+        Gundam](https://zh.wikipedia.org/wiki/Victory_2_Buster_Gundam "wikilink")
       - LM314V24 [Victory 2 Assault
-        Gundam](../Page/Victory_2_Assault_Gundam.md "wikilink")
+        Gundam](https://zh.wikipedia.org/wiki/Victory_2_Assault_Gundam "wikilink")
       - LM314V23/24 [Victory 2 Assault-Buster
-        Gundam](../Page/Victory_2_Assault-Buster_Gundam.md "wikilink")
-  - RGM-119 [Jamesgun](../Page/Jamesgun.md "wikilink")
-  - RGM-122 [Javelin](../Page/Javelin.md "wikilink")
-  - ZM-S06S [Zoloat](../Page/Zoloat.md "wikilink")
+        Gundam](https://zh.wikipedia.org/wiki/Victory_2_Assault-Buster_Gundam "wikilink")
+  - RGM-119
+    [Jamesgun](https://zh.wikipedia.org/wiki/Jamesgun "wikilink")
+  - RGM-122 [Javelin](https://zh.wikipedia.org/wiki/Javelin "wikilink")
+  - ZM-S06S [Zoloat](https://zh.wikipedia.org/wiki/Zoloat "wikilink")
 
 ### 贊斯卡爾帝國
 
-  - ZM-S06S [Zoloat](../Page/Zoloat.md "wikilink")
-  - ZM-S06G [Zollidia](../Page/Zollidia.md "wikilink")
-  - ZM-S08G [Zolo](../Page/Zolo.md "wikilink")
-  - ZM-S08GC [Zolo Kai](../Page/Zolo_Kai.md "wikilink")
-  - ZM-S09G [Tomliat](../Page/Tomliat.md "wikilink")
-  - ZMT-S12G [Shokew](../Page/Shokew.md "wikilink")
-  - ZMT-S13G [Godzorla](../Page/Godzorla.md "wikilink")
-  - ZM-S14S [Contio](../Page/Contio.md "wikilink")
-  - ZMT-S16G [Memedorza](../Page/Memedorza.md "wikilink")
-  - ZM-S19S [Shy-Tarn](../Page/Shy-Tarn.md "wikilink")
-  - ZM-S20S [Jabaco](../Page/Jabaco.md "wikilink")
-  - ZM-S21G [Bruckeng](../Page/Bruckeng.md "wikilink")
+  - ZM-S06S [Zoloat](https://zh.wikipedia.org/wiki/Zoloat "wikilink")
+  - ZM-S06G
+    [Zollidia](https://zh.wikipedia.org/wiki/Zollidia "wikilink")
+  - ZM-S08G [Zolo](https://zh.wikipedia.org/wiki/Zolo "wikilink")
+  - ZM-S08GC [Zolo
+    Kai](https://zh.wikipedia.org/wiki/Zolo_Kai "wikilink")
+  - ZM-S09G [Tomliat](https://zh.wikipedia.org/wiki/Tomliat "wikilink")
+  - ZMT-S12G [Shokew](https://zh.wikipedia.org/wiki/Shokew "wikilink")
+  - ZMT-S13G
+    [Godzorla](https://zh.wikipedia.org/wiki/Godzorla "wikilink")
+  - ZM-S14S [Contio](https://zh.wikipedia.org/wiki/Contio "wikilink")
+  - ZMT-S16G
+    [Memedorza](https://zh.wikipedia.org/wiki/Memedorza "wikilink")
+  - ZM-S19S
+    [Shy-Tarn](https://zh.wikipedia.org/wiki/Shy-Tarn "wikilink")
+  - ZM-S20S [Jabaco](https://zh.wikipedia.org/wiki/Jabaco "wikilink")
+  - ZM-S21G
+    [Bruckeng](https://zh.wikipedia.org/wiki/Bruckeng "wikilink")
   - ZM-S22G [Imperial Rig
-    Shokew](../Page/Imperial_Rig_Shokew.md "wikilink")
-  - ZM-S22S [Rig Shokew](../Page/Rig_Shokew.md "wikilink")
-  - ZM-S24G [Gedlav](../Page/Gedlav.md "wikilink")
-  - ZM-S27G [Domuttlia](../Page/Domuttlia.md "wikilink")
-  - ZMT-S28S [Gengaozo](../Page/Gengaozo.md "wikilink")
-  - ZMT-S29 [Zanneck](../Page/Zanneck.md "wikilink")
-  - ZMT-S33S [Gottrlatan](../Page/Gottrlatan.md "wikilink")
-  - ZMT-S34S [Rig Contio](../Page/Rig_Contio.md "wikilink")
-  - ZM-D11S [Abigor](../Page/Abigor.md "wikilink")
-  - ZMT-D15M [Galguyu](../Page/Galguyu.md "wikilink")
-  - ZM-A05G [Recarl](../Page/Recarl.md "wikilink")
-  - ZMT-A30S [Birknau](../Page/Birknau.md "wikilink")
-  - ZMT-A31A [Doggorla](../Page/Doggorla.md "wikilink")
+    Shokew](https://zh.wikipedia.org/wiki/Imperial_Rig_Shokew "wikilink")
+  - ZM-S22S [Rig
+    Shokew](https://zh.wikipedia.org/wiki/Rig_Shokew "wikilink")
+  - ZM-S24G [Gedlav](https://zh.wikipedia.org/wiki/Gedlav "wikilink")
+  - ZM-S27G
+    [Domuttlia](https://zh.wikipedia.org/wiki/Domuttlia "wikilink")
+  - ZMT-S28S
+    [Gengaozo](https://zh.wikipedia.org/wiki/Gengaozo "wikilink")
+  - ZMT-S29 [Zanneck](https://zh.wikipedia.org/wiki/Zanneck "wikilink")
+  - ZMT-S33S
+    [Gottrlatan](https://zh.wikipedia.org/wiki/Gottrlatan "wikilink")
+  - ZMT-S34S [Rig
+    Contio](https://zh.wikipedia.org/wiki/Rig_Contio "wikilink")
+  - ZM-D11S [Abigor](https://zh.wikipedia.org/wiki/Abigor "wikilink")
+  - ZMT-D15M [Galguyu](https://zh.wikipedia.org/wiki/Galguyu "wikilink")
+  - ZM-A05G [Recarl](https://zh.wikipedia.org/wiki/Recarl "wikilink")
+  - ZMT-A30S [Birknau](https://zh.wikipedia.org/wiki/Birknau "wikilink")
+  - ZMT-A31A
+    [Doggorla](https://zh.wikipedia.org/wiki/Doggorla "wikilink")
 
 ## 主要工作人員
 
   - 総監督：[富野由悠季](../Page/富野由悠季.md "wikilink")
   - キャラデザイン：[逢坂浩司](../Page/逢坂浩司.md "wikilink")
-  - メカデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
-  - 脚本：[桶谷顕](../Page/桶谷顕.md "wikilink")、[富田祐弘](../Page/富田祐弘.md "wikilink")、[園田英樹](../Page/園田英樹.md "wikilink")、[神戸一彦](../Page/神戸一彦.md "wikilink")
-  - 美術監督：[池田繁美](../Page/池田繁美.md "wikilink")
+  - メカデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")
+  - 脚本：[桶谷顕](https://zh.wikipedia.org/wiki/桶谷顕 "wikilink")、[富田祐弘](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")、[園田英樹](https://zh.wikipedia.org/wiki/園田英樹 "wikilink")、[神戸一彦](https://zh.wikipedia.org/wiki/神戸一彦 "wikilink")
+  - 美術監督：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
   - 色彩設計：小松佳江、中山昇
   - 撮影監督：奥井敦、大神洋一
   - 音響監督：浦上靖夫
@@ -120,53 +137,53 @@ Gundam》，第一話[分鏡中的標題亦有沿用](../Page/分鏡.md "wikilin
 
 ## 主題曲
 
-### [片頭曲](../Page/片頭曲.md "wikilink")
+### [片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")
 
   - 「STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～」（第1-31話）
 
-:\*作詞：[井荻麟](../Page/井荻麟.md "wikilink")、[みかみ麗緒](../Page/みかみ麗緒.md "wikilink")　作曲：[川添智久](../Page/川添智久.md "wikilink")　編曲：[神長弘一](../Page/神長弘一.md "wikilink")、[川添智久](../Page/川添智久.md "wikilink")、[井上龍仁](../Page/井上龍仁.md "wikilink")　演唱：[川添智久](../Page/川添智久.md "wikilink")
+:\*作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")、[みかみ麗緒](https://zh.wikipedia.org/wiki/みかみ麗緒 "wikilink")　作曲：[川添智久](https://zh.wikipedia.org/wiki/川添智久 "wikilink")　編曲：[神長弘一](https://zh.wikipedia.org/wiki/神長弘一 "wikilink")、[川添智久](https://zh.wikipedia.org/wiki/川添智久 "wikilink")、[井上龍仁](https://zh.wikipedia.org/wiki/井上龍仁 "wikilink")　演唱：[川添智久](https://zh.wikipedia.org/wiki/川添智久 "wikilink")
 
   - 「DON'T STOP\! CARRY ON\!」（第32-51話）
 
-:\*作詞：[西脇唯](../Page/西脇唯.md "wikilink")　作曲：[小泉誠司](../Page/小泉誠司.md "wikilink")　編曲：[福田裕彥](../Page/福田裕彥.md "wikilink")　演唱：[RD](../Page/RD.md "wikilink")
+:\*作詞：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")　作曲：[小泉誠司](https://zh.wikipedia.org/wiki/小泉誠司 "wikilink")　編曲：[福田裕彥](https://zh.wikipedia.org/wiki/福田裕彥 "wikilink")　演唱：[RD](https://zh.wikipedia.org/wiki/RD "wikilink")
 
-### [片尾曲](../Page/片尾曲.md "wikilink")
+### [片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")
 
   - 「WINNERS FOREVER -勝利者よ-」（第1-31話）
 
-:\*作詞・作曲：[長友仍世](../Page/長友仍世.md "wikilink")　編曲：[板倉雅一](../Page/板倉雅一.md "wikilink")
-演唱：[infix](../Page/infix.md "wikilink")
+:\*作詞・作曲：[長友仍世](https://zh.wikipedia.org/wiki/長友仍世 "wikilink")　編曲：[板倉雅一](https://zh.wikipedia.org/wiki/板倉雅一 "wikilink")
+演唱：[infix](https://zh.wikipedia.org/wiki/infix "wikilink")
 
   - 「もう一度TENDERNESS」（第32-51話）
 
-:\*作詞：[浜口司](../Page/浜口司.md "wikilink")　作曲：[安宅美春](../Page/安宅美春.md "wikilink")　編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")　演唱：[KIX・S](../Page/KIX・S.md "wikilink")
+:\*作詞：[浜口司](https://zh.wikipedia.org/wiki/浜口司 "wikilink")　作曲：[安宅美春](https://zh.wikipedia.org/wiki/安宅美春 "wikilink")　編曲：[葉山たけし](https://zh.wikipedia.org/wiki/葉山たけし "wikilink")　演唱：[KIX・S](https://zh.wikipedia.org/wiki/KIX・S "wikilink")
 
-### [插曲](../Page/插曲.md "wikilink")
+### [插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")
 
   - 「ひなげしの旅のむこうに」
 
-:\*作詞：[井荻麟](../Page/井荻麟.md "wikilink")
+:\*作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
 作曲：[千住明](../Page/千住明.md "wikilink")
 編曲：[千住明](../Page/千住明.md "wikilink")
-演唱：[黒田由美](../Page/黒田由美.md "wikilink")(or
-[小峰公子](../Page/小峰公子.md "wikilink"))
+演唱：[黒田由美](https://zh.wikipedia.org/wiki/黒田由美 "wikilink")(or
+[小峰公子](https://zh.wikipedia.org/wiki/小峰公子 "wikilink"))
 
   - 「いつかまた生まれた時のために」
 
-:\*作詞：[小峰公子](../Page/小峰公子.md "wikilink")、[井荻麟](../Page/井荻麟.md "wikilink")
-作曲：[保刈久明](../Page/保刈久明.md "wikilink")
-編曲：[karak](../Page/karak.md "wikilink")
-演唱：[karak](../Page/karak.md "wikilink")
+:\*作詞：[小峰公子](https://zh.wikipedia.org/wiki/小峰公子 "wikilink")、[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
+作曲：[保刈久明](https://zh.wikipedia.org/wiki/保刈久明 "wikilink")
+編曲：[karak](https://zh.wikipedia.org/wiki/karak "wikilink")
+演唱：[karak](https://zh.wikipedia.org/wiki/karak "wikilink")
 
   - 「生まれてくるものへ」
 
-:\*作詞：[井荻麟](../Page/井荻麟.md "wikilink")
+:\*作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
 作曲・編曲：[千住明](../Page/千住明.md "wikilink")
-歌：[ACEILUX](../Page/ACEILUX.md "wikilink")
+歌：[ACEILUX](https://zh.wikipedia.org/wiki/ACEILUX "wikilink")
 
   - 「いくつもの愛をかさねて」
 
-:\*作詞：[井荻麟](../Page/井荻麟.md "wikilink")
+:\*作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")
 作曲：[岩崎元是](../Page/岩崎元是.md "wikilink")
 編曲：[岩崎元是](../Page/岩崎元是.md "wikilink")
 演唱：[岩崎元是](../Page/岩崎元是.md "wikilink")
@@ -234,9 +251,9 @@ FOREVER」變成「WINNERS FOREVER」。
 ## 關聯項目
 
   - [GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")
-  - [GUNDAM系列作品一覽](../Page/GUNDAM系列作品一覽.md "wikilink")
+  - [GUNDAM系列作品一覽](https://zh.wikipedia.org/wiki/GUNDAM系列作品一覽 "wikilink")
   - [Wikipedia:ACG专题/GUNDAM/主要角色译名列表](https://zh.wikipedia.org/wiki/Wikipedia:ACG专题/GUNDAM/主要角色译名列表 "wikilink")
-  - [GUNDAM系列登場組織一覽](../Page/GUNDAM系列登場組織一覽.md "wikilink")
+  - [GUNDAM系列登場組織一覽](https://zh.wikipedia.org/wiki/GUNDAM系列登場組織一覽 "wikilink")
 
 ## 外部連結
 

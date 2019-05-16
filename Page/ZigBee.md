@@ -1,11 +1,11 @@
 [Eazix_numbered.jpg](https://zh.wikipedia.org/wiki/File:Eazix_numbered.jpg "fig:Eazix_numbered.jpg")
-**ZigBee**，也称**紫蜂**\[1\]，是一種低速短距離傳輸的[無線網路協定](../Page/無線網路.md "wikilink")，底層是採用[IEEE
-802.15.4標準規範的](../Page/IEEE_802.md "wikilink")[媒體存取層與](../Page/媒體存取控制.md "wikilink")[實體層](../Page/實體層.md "wikilink")。主要特色有低速、低耗電、低成本、支援大量網路節點、支援多種[網路拓撲](../Page/網路拓撲.md "wikilink")、低复杂度、快速、可靠、安全。
+**ZigBee**，也称**紫蜂**\[1\]，是一種低速短距離傳輸的[無線網路協定](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，底層是採用[IEEE
+802.15.4標準規範的](../Page/IEEE_802.md "wikilink")[媒體存取層與](https://zh.wikipedia.org/wiki/媒體存取控制 "wikilink")[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")。主要特色有低速、低耗電、低成本、支援大量網路節點、支援多種[網路拓撲](https://zh.wikipedia.org/wiki/網路拓撲 "wikilink")、低复杂度、快速、可靠、安全。
 
 ## 發展歷程
 
-主要由[Honeywell公司組成的ZigBe](../Page/Honeywell.md "wikilink")
-Alliance制定，從1998年開始發展，於2001年向[電機電子工程師學會](../Page/電機電子工程師學會.md "wikilink")（IEEE）提案納入IEEE
+主要由[Honeywell公司組成的ZigBe](https://zh.wikipedia.org/wiki/Honeywell "wikilink")
+Alliance制定，從1998年開始發展，於2001年向[電機電子工程師學會](https://zh.wikipedia.org/wiki/電機電子工程師學會 "wikilink")（IEEE）提案納入IEEE
 802.15.4標準規範之中，自此將ZigBee技術漸漸成為各業界共同通用的低速短距無線通訊技術之一。\[2\]
 
 ## IEEE802.15.4/ZigBee协议概述
@@ -30,7 +30,7 @@ Group，Ember公司，飞思卡尔半导体，Honeywell，三菱电机，摩托�
   - WPAN - Wireless Personal Area Network。為IEEE 802.15族系所規範的一系列無線個人區網標準。
   - ZC - ZigBee Coordinator（ZigBee协调员）。
   - [ZDO - ZigBee Device
-    Object（ZigBee设备对象）。](../Page/#ZigBee.E8.A3.9D.E7.BD.AE.E7.AE.A1.E5.88.B6.E7.89.A9.E4.BB.B6.28ZigBee_Device_Object.2C_ZDO.29.md "wikilink")
+    Object（ZigBee设备对象）。](https://zh.wikipedia.org/wiki/#ZigBee.E8.A3.9D.E7.BD.AE.E7.AE.A1.E5.88.B6.E7.89.A9.E4.BB.B6.28ZigBee_Device_Object.2C_ZDO.29 "wikilink")
   - ZED - ZigBee End Device（ZigBee终端设备）。
   - ZR - ZigBee Router（ZigBee路由）。
   - FFD - Full Function Device（全功能器件）。

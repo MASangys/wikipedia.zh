@@ -1,4 +1,4 @@
-《**VR快打5**》（）是[SEGA](../Page/SEGA.md "wikilink")《[VR快打](../Page/VR快打.md "wikilink")》系列遊戲的最新作品。2006年7月12日VR快打5在日本的[大型電玩登場](../Page/街机.md "wikilink")，2007年2月VR快打5在PlayStation
+《**VR快打5**》（）是[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")《[VR快打](https://zh.wikipedia.org/wiki/VR快打 "wikilink")》系列遊戲的最新作品。2006年7月12日VR快打5在日本的[大型電玩登場](../Page/街机.md "wikilink")，2007年2月VR快打5在PlayStation
 3上發售，隨後同年也在[Xbox 360上發售此作](../Page/Xbox_360.md "wikilink")\[1\]。\[2\]
 
 ## 故事
@@ -11,34 +11,44 @@ J6為了控制世界，組織裡的科學家創造了一個擁有人類特徵的
 
 ## 登場角色
 
-  - 結城 晶（[:en:Akira Yuki](../Page/:en:Akira_Yuki.md "wikilink")）
-  - 陳佩（[:en:Pai Chan](../Page/:en:Pai_Chan.md "wikilink")）
-  - 陳洛（[:en:Lau Chan](../Page/:en:Lau_Chan.md "wikilink")）
+  - 結城 晶（[:en:Akira
+    Yuki](https://zh.wikipedia.org/wiki/:en:Akira_Yuki "wikilink")）
+  - 陳佩（[:en:Pai
+    Chan](https://zh.wikipedia.org/wiki/:en:Pai_Chan "wikilink")）
+  - 陳洛（[:en:Lau
+    Chan](https://zh.wikipedia.org/wiki/:en:Lau_Chan "wikilink")）
   - 梅小路 葵（[:en:Aoi
-    Umenokouji](../Page/:en:Aoi_Umenokouji.md "wikilink")）
-  - Brad Burns（[:en:Brad Burns](../Page/:en:Brad_Burns.md "wikilink")）
-  - Dural（[en:Dural](../Page/:en:Dural_\(Virtua_Fighter\).md "wikilink")）
-  - 日守 剛（[:en:Goh Hinogami](../Page/:en:Goh_Hinogami.md "wikilink")）
+    Umenokouji](https://zh.wikipedia.org/wiki/:en:Aoi_Umenokouji "wikilink")）
+  - Brad Burns（[:en:Brad
+    Burns](https://zh.wikipedia.org/wiki/:en:Brad_Burns "wikilink")）
+  - Dural（[en:Dural](https://zh.wikipedia.org/wiki/:en:Dural_\(Virtua_Fighter\) "wikilink")）
+  - 日守 剛（[:en:Goh
+    Hinogami](https://zh.wikipedia.org/wiki/:en:Goh_Hinogami "wikilink")）
   - 莎菈·布萊恩（[Sarah
-    Bryant](../Page/:en:Sarah_Bryant_\(computer_game_character\).md "wikilink")）
-  - 傑克·布萊恩（[:en:Jacky Bryant](../Page/:en:Jacky_Bryant.md "wikilink")）
+    Bryant](https://zh.wikipedia.org/wiki/:en:Sarah_Bryant_\(computer_game_character\) "wikilink")）
+  - 傑克·布萊恩（[:en:Jacky
+    Bryant](https://zh.wikipedia.org/wiki/:en:Jacky_Bryant "wikilink")）
   - Jeffry McWild（[:en:Jeffry
-    McWild](../Page/:en:Jeffry_McWild.md "wikilink")）
-  - 影丸（[:en:Kage-Maru](../Page/:en:Kage-Maru.md "wikilink")）
-  - 雷飛（[:en:Lei-Fei](../Page/:en:Lei-Fei.md "wikilink")）
-  - 里昂（[:en:Lion Rafale](../Page/:en:Lion_Rafale.md "wikilink")）
-  - 舜帝（[:en:Shun Di](../Page/:en:Shun_Di.md "wikilink")）
+    McWild](https://zh.wikipedia.org/wiki/:en:Jeffry_McWild "wikilink")）
+  - 影丸（[:en:Kage-Maru](https://zh.wikipedia.org/wiki/:en:Kage-Maru "wikilink")）
+  - 雷飛（[:en:Lei-Fei](https://zh.wikipedia.org/wiki/:en:Lei-Fei "wikilink")）
+  - 里昂（[:en:Lion
+    Rafale](https://zh.wikipedia.org/wiki/:en:Lion_Rafale "wikilink")）
+  - 舜帝（[:en:Shun
+    Di](https://zh.wikipedia.org/wiki/:en:Shun_Di "wikilink")）
   - 凡妮莎·李維絲（[:en:Vanessa
-    Lewis](../Page/:en:Vanessa_Lewis.md "wikilink")）
-  - 沃爾夫（[:en:Wolf Hawkfield](../Page/:en:Wolf_Hawkfield.md "wikilink")）
-  - 愛琳（[Eileen](../Page/:en:Eileen_\(Virtua_Fighter\).md "wikilink")）
-  - 艾爾·-{布}-雷茲（[:en:El Blaze](../Page/:en:El_Blaze.md "wikilink")）
+    Lewis](https://zh.wikipedia.org/wiki/:en:Vanessa_Lewis "wikilink")）
+  - 沃爾夫（[:en:Wolf
+    Hawkfield](https://zh.wikipedia.org/wiki/:en:Wolf_Hawkfield "wikilink")）
+  - 愛琳（[Eileen](https://zh.wikipedia.org/wiki/:en:Eileen_\(Virtua_Fighter\) "wikilink")）
+  - 艾爾·-{布}-雷茲（[:en:El
+    Blaze](https://zh.wikipedia.org/wiki/:en:El_Blaze "wikilink")）
 
 ## 新增要素（與過去系列作品比較）
 
 ### 角色
 
-VR快打5有兩個新角色，第一個角色愛琳是一個年輕女孩，她使用，加入比賽是為了追尋她的偶像－陳佩（之所以會崇拜陳佩，是因為曾看過她展示[武術](../Page/武術.md "wikilink")）。第二個角色艾爾·-{布}-雷茲是一個[自由式摔角手](../Page/自由式摔角.md "wikilink")，參加比賽的目的是為了擊敗沃爾夫。
+VR快打5有兩個新角色，第一個角色愛琳是一個年輕女孩，她使用，加入比賽是為了追尋她的偶像－陳佩（之所以會崇拜陳佩，是因為曾看過她展示[武術](../Page/武術.md "wikilink")）。第二個角色艾爾·-{布}-雷茲是一個[自由式摔角手](https://zh.wikipedia.org/wiki/自由式摔角 "wikilink")，參加比賽的目的是為了擊敗沃爾夫。
 
 ## 家用機原創要素（與大型電玩版比較）
 
@@ -54,20 +64,21 @@ VR快打5有兩個新角色，第一個角色愛琳是一個年輕女孩，她�
 
   - [Fami通給了](../Page/Fami通.md "wikilink")35分的評分(滿分40分)。[1](https://web.archive.org/web/20160311004748/http://gamebrink.com/playstation-3/2260-virtua_fighter_5-info.html).
   - [Electronic Gaming
-    Monthly](../Page/Electronic_Gaming_Monthly.md "wikilink")([:en:Electronic
+    Monthly](https://zh.wikipedia.org/wiki/Electronic_Gaming_Monthly "wikilink")([:en:Electronic
     Gaming
-    Monthly](../Page/:en:Electronic_Gaming_Monthly.md "wikilink"))給了9.5、10、9.5的評分。[2](http://www.1up.com/do/newsStory?cId=3156901)
+    Monthly](https://zh.wikipedia.org/wiki/:en:Electronic_Gaming_Monthly "wikilink"))給了9.5、10、9.5的評分。[2](http://www.1up.com/do/newsStory?cId=3156901)
   - [Computer & Video Games
-    (雜誌)](../Page/Computer_&_Video_Games_\(雜誌\).md "wikilink")([:en:Computer
+    (雜誌)](https://zh.wikipedia.org/wiki/Computer_&_Video_Games_\(雜誌\) "wikilink")([:en:Computer
     and Video Games
-    (magazine)](../Page/:en:Computer_and_Video_Games_\(magazine\).md "wikilink"))給了9.1分的評分(滿分10分)。[3](https://web.archive.org/web/20071025085436/http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=761005)
-  - [Game Brink](../Page/Game_Brink.md "wikilink")([:en:Game
-    Brink](../Page/:en:Game_Brink.md "wikilink"))給了88分的評分(滿分100分)。[4](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=760491)
-  - [Gamespy給了](../Page/Gamespy.md "wikilink")5顆星的評價(最佳評價為5顆星)[5](http://ps3.gamespy.com/playstation-3/virtua-fighter-5/765787p1.html)
+    (magazine)](https://zh.wikipedia.org/wiki/:en:Computer_and_Video_Games_\(magazine\) "wikilink"))給了9.1分的評分(滿分10分)。[3](https://web.archive.org/web/20071025085436/http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=761005)
+  - [Game
+    Brink](https://zh.wikipedia.org/wiki/Game_Brink "wikilink")([:en:Game
+    Brink](https://zh.wikipedia.org/wiki/:en:Game_Brink "wikilink"))給了88分的評分(滿分100分)。[4](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=760491)
+  - [Gamespy給了](https://zh.wikipedia.org/wiki/Gamespy "wikilink")5顆星的評價(最佳評價為5顆星)[5](http://ps3.gamespy.com/playstation-3/virtua-fighter-5/765787p1.html)
   - [1UP.com給了](../Page/1UP.com.md "wikilink")9.5分的評分(滿分10分)。[6](https://web.archive.org/web/20070927203016/http://www.1up.com/do/reviewPage?cId=3157287&sec=REVIEWS)
-  - [Gamespot給了](../Page/Gamespot.md "wikilink")8.1分的評分(滿分10分)。[7](http://www.gamespot.com/ps3/action/virtuafighter5/review.html?sid=6166151&tag=topslot;title;1)
+  - [Gamespot給了](https://zh.wikipedia.org/wiki/Gamespot "wikilink")8.1分的評分(滿分10分)。[7](http://www.gamespot.com/ps3/action/virtuafighter5/review.html?sid=6166151&tag=topslot;title;1)
   - [Game Informer](../Page/Game_Informer.md "wikilink")([:en:Game
-    Informer](../Page/:en:Game_Informer.md "wikilink"))給了8分的評分(滿分10分)。[8](https://web.archive.org/web/20070304105426/http://www.gameinformer.com/Games/Review/200703/R07.0220.1104.36312.htm)
+    Informer](https://zh.wikipedia.org/wiki/:en:Game_Informer "wikilink"))給了8分的評分(滿分10分)。[8](https://web.archive.org/web/20070304105426/http://www.gameinformer.com/Games/Review/200703/R07.0220.1104.36312.htm)
 
 ## 銷售量
 
@@ -77,7 +88,7 @@ VR快打5有兩個新角色，第一個角色愛琳是一個年輕女孩，她�
 ## 影响
 
 在2016年由世嘉发售的动作冒险游戏《[如龙6
-生命诗篇。](../Page/如龙6_生命诗篇。.md "wikilink")》中，《VR战士5》作为一个在游戏中的街机厅里可以游玩的街机游戏被收录其中。\[8\]
+生命诗篇。](https://zh.wikipedia.org/wiki/如龙6_生命诗篇。 "wikilink")》中，《VR战士5》作为一个在游戏中的街机厅里可以游玩的街机游戏被收录其中。\[8\]
 
 ## 參考資源
 

@@ -37,7 +37,7 @@ Battery）使用。同時，也是日本第一臺使用鋰離子電池的電動�
 
 2001年10月27日，第35屆「[東京車展](../Page/東京車展.md "wikilink")」會場裏，初次現身。當時，車輛被命名為「ME-II」。
 
-  - 動力系統：[電動機](../Page/電動機.md "wikilink")
+  - 動力系統：[電動機](https://zh.wikipedia.org/wiki/電動機 "wikilink")
   - 底盤基礎：使用自行開發的底盤，外觀上覆加自製車身。
   - 車體尺寸：長1995×寬880×高1590mm，軸距1450mm。
 
@@ -45,7 +45,7 @@ Battery）使用。同時，也是日本第一臺使用鋰離子電池的電動�
 
 ### CONVOY 88
 
-  - 引擎（Engine）：[電動機](../Page/電動機.md "wikilink")
+  - 引擎（Engine）：[電動機](https://zh.wikipedia.org/wiki/電動機 "wikilink")
   - 最高馬力（Maximmum Power）：？
   - 最大扭力（Maximum Torque）：？
   - 變速系統（Transmission）：CVT

@@ -1,19 +1,19 @@
-《**DNA²**》是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[桂正和創作的](../Page/桂正和.md "wikilink")[科幻](../Page/科幻.md "wikilink")[漫畫以及改編的](../Page/漫畫.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，1993年至1994年連載於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，[單行本全](../Page/單行本.md "wikilink")5卷。
+《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和創作的](../Page/桂正和.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫以及改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，1993年至1994年連載於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5卷。
 
 ## 概要
 
-在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上從1993年36・37合併號連載至1994年29號，[台灣中文版由](../Page/台灣.md "wikilink")[東立出版社發行](../Page/東立出版社.md "wikilink")，[香港中文版由](../Page/香港.md "wikilink")[文化傳信發行](../Page/文化傳信.md "wikilink")。
+在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上從1993年36・37合併號連載至1994年29號，[台灣中文版由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社發行](../Page/東立出版社.md "wikilink")，[香港中文版由](../Page/香港.md "wikilink")[文化傳信發行](../Page/文化傳信.md "wikilink")。
 
-作品本身雖短，但有[電視動畫與](../Page/電視動畫.md "wikilink")[OVA](../Page/OVA.md "wikilink")，也曾經被考慮過拍成[電影](../Page/電影.md "wikilink")。電視動畫版在台灣是由[首華卡通頻道首播](../Page/首華卡通頻道.md "wikilink")，中文片名是《再造基因》，但是是未經授權的[B拷版](../Page/B拷.md "wikilink")，故每集片頭與片尾的「製作協力：[Bandai
-Visual](../Page/Bandai_Visual.md "wikilink")、[Movic](../Page/Movic.md "wikilink")」與「製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")」均被覆蓋。
+作品本身雖短，但有[電視動畫與](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，也曾經被考慮過拍成[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。電視動畫版在台灣是由[首華卡通頻道首播](../Page/首華卡通頻道.md "wikilink")，中文片名是《再造基因》，但是是未經授權的[B拷版](https://zh.wikipedia.org/wiki/B拷 "wikilink")，故每集片頭與片尾的「製作協力：[Bandai
+Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")」與「製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")」均被覆蓋。
 
 原作和動畫的故事順序與結局並不同。
 
 ## 故事大綱
 
-63年後的未來世界，由於[人口過多](../Page/人口過多.md "wikilink")，[法律規定生](../Page/法律.md "wikilink")2個以上的小孩者處[死刑](../Page/死刑.md "wikilink")。在這樣的時代裡，被稱為「超級花花公子」（）的男人擁有100個小孩，而且其[DNA被繼承下來](../Page/DNA.md "wikilink")。未來世界[政府知道超級花花公子的存在時](../Page/政府.md "wikilink")，他已經死了。
+63年後的未來世界，由於[人口過多](../Page/人口過多.md "wikilink")，[法律規定生](../Page/法律.md "wikilink")2個以上的小孩者處[死刑](../Page/死刑.md "wikilink")。在這樣的時代裡，被稱為「超級花花公子」（）的男人擁有100個小孩，而且其[DNA被繼承下來](https://zh.wikipedia.org/wiki/DNA "wikilink")。未來世界[政府知道超級花花公子的存在時](../Page/政府.md "wikilink")，他已經死了。
 
-未來世界政府的環境廳及時間管理局委託「DNA操作者」**葵華林**（此為台灣中文版譯名，香港中文版譯為**葵加玲**）帶一支手槍來到現代，企圖改變這個男人的DNA，報酬為100億元；然而這個男人**桃生純太**，是個不受女性青睞、不可靠、離超級花花公子十萬八千-{里}-的人。華林的直屬長官**橫森**，以未來世界的[通訊技術指示華林](../Page/通訊技術.md "wikilink")。華林本來應該是依照預定計畫達成任務，卻弄錯DCM（改變DNA的藥，全名「DNA
+未來世界政府的環境廳及時間管理局委託「DNA操作者」**葵華林**（此為台灣中文版譯名，香港中文版譯為**葵加玲**）帶一支手槍來到現代，企圖改變這個男人的DNA，報酬為100億元；然而這個男人**桃生純太**，是個不受女性青睞、不可靠、離超級花花公子十萬八千-{里}-的人。華林的直屬長官**橫森**，以未來世界的[通訊技術指示華林](https://zh.wikipedia.org/wiki/通訊技術 "wikilink")。華林本來應該是依照預定計畫達成任務，卻弄錯DCM（改變DNA的藥，全名「DNA
 Control
 Medicine」）子彈射向純太，使得純太體內產生[超能力基因](../Page/超能力.md "wikilink")，純太開始出現覺醒為超級花花公子的徵兆。
 
@@ -38,13 +38,13 @@ Medicine」）子彈射向純太，使得純太體內產生[超能力基因](../
 <li>染屋垣麿：<a href="../Page/岩田光央.md" title="wikilink">岩田光央</a></li>
 </ul></td>
 <td><ul>
-<li>市川一期：<a href="../Page/菊池英博.md" title="wikilink">菊池英博</a></li>
-<li>栗本三郎：<a href="../Page/峰惠研.md" title="wikilink">峰惠研</a></li>
-<li>桃生千代：<a href="../Page/丸山裕子.md" title="wikilink">丸山裕子</a></li>
+<li>市川一期：<a href="https://zh.wikipedia.org/wiki/菊池英博" title="wikilink">菊池英博</a></li>
+<li>栗本三郎：<a href="https://zh.wikipedia.org/wiki/峰惠研" title="wikilink">峰惠研</a></li>
+<li>桃生千代：<a href="https://zh.wikipedia.org/wiki/丸山裕子" title="wikilink">丸山裕子</a></li>
 <li>時光機電腦：<a href="../Page/山田榮子.md" title="wikilink">山田榮子</a></li>
-<li>橫森：<a href="../Page/大林隆介.md" title="wikilink">大林隆之介</a></li>
-<li>森：<a href="../Page/筈見純.md" title="wikilink">筈見純</a></li>
-<li>川崎嚕啦啦：<a href="../Page/玉川紗己子.md" title="wikilink">玉川紗己子</a></li>
+<li>橫森：<a href="https://zh.wikipedia.org/wiki/大林隆介" title="wikilink">大林隆之介</a></li>
+<li>森：<a href="https://zh.wikipedia.org/wiki/筈見純" title="wikilink">筈見純</a></li>
+<li>川崎嚕啦啦：<a href="https://zh.wikipedia.org/wiki/玉川紗己子" title="wikilink">玉川紗己子</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -77,9 +77,9 @@ Medicine」）子彈射向純太，使得純太體內產生[超能力基因](../
 ## 動畫
 
 動畫由[MADHOUSE和](../Page/MADHOUSE.md "wikilink")[STUDIO
-DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日由[日本電視台](../Page/日本電視台.md "wikilink")[聯播網播出全](../Page/聯播網.md "wikilink")12集的電視動畫，並與其姐妹台[山形放送](../Page/山形放送.md "wikilink")、[TV新潟放送網及](../Page/TV新潟放送網.md "wikilink")[金澤電視台於毎週五](../Page/金澤電視台.md "wikilink")17:30‐18:00在關東地區播放。
+DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日由[日本電視台](../Page/日本電視台.md "wikilink")[聯播網播出全](../Page/聯播網.md "wikilink")12集的電視動畫，並與其姐妹台[山形放送](https://zh.wikipedia.org/wiki/山形放送 "wikilink")、[TV新潟放送網及](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[金澤電視台於毎週五](https://zh.wikipedia.org/wiki/金澤電視台 "wikilink")17:30‐18:00在關東地區播放。
 
-1995年由[萬代影視發行全](../Page/萬代影視.md "wikilink")3集的OVA，內容為動畫版追加的原創故事。VHS・LD全5巻。而桃生純太在動畫版的設定是沒有超能力的。
+1995年由[萬代影視發行全](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")3集的OVA，內容為動畫版追加的原創故事。VHS・LD全5巻。而桃生純太在動畫版的設定是沒有超能力的。
 
 本作品自從1995年發售OVA以來沒有被製作成DVD等媒介；直到2013年的動畫化20週年紀念活動上才正式宣布製作DVD與BD，2014年1月29日發行\[1\]。
 
@@ -93,9 +93,9 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 <tbody>
 <tr class="odd">
 <td><ul>
-<li>企画：<a href="../Page/武井英彥.md" title="wikilink">武井英彥</a>、<a href="../Page/落合茂一.md" title="wikilink">落合茂一</a></li>
+<li>企画：<a href="https://zh.wikipedia.org/wiki/武井英彥" title="wikilink">武井英彥</a>、<a href="https://zh.wikipedia.org/wiki/落合茂一" title="wikilink">落合茂一</a></li>
 <li>製作群：前田伸一郎、岡田洋、長-{谷}-川洋、丸山正雄</li>
-<li>導演：<a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></li>
+<li>導演：<a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></li>
 <li>編劇：<a href="../Page/浦畑達彥.md" title="wikilink">浦畑達彥</a></li>
 <li>系列構成：浦畑達彥</li>
 <li>色彩設計：秋山久美、三笠修</li>
@@ -106,10 +106,10 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 <li>音樂：高野ふじお</li>
 <li>錄音監督：斯波重治</li>
 <li>人物設定：<a href="../Page/高橋久美子.md" title="wikilink">高橋久美子</a></li>
-<li>機械設定：<a href="../Page/小池健.md" title="wikilink">小池健</a></li>
+<li>機械設定：<a href="https://zh.wikipedia.org/wiki/小池健" title="wikilink">小池健</a></li>
 <li>動畫製作：<a href="../Page/MADHOUSE.md" title="wikilink">MADHOUSE</a>、<a href="../Page/STUDIO_DEEN.md" title="wikilink">STUDIO DEEN</a></li>
 <li>企画制作：<a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></li>
-<li>製作協力：<a href="../Page/Bandai_Visual.md" title="wikilink">Bandai Visual</a>、<a href="../Page/Movic.md" title="wikilink">Movic</a></li>
+<li>製作協力：<a href="https://zh.wikipedia.org/wiki/Bandai_Visual" title="wikilink">Bandai Visual</a>、<a href="https://zh.wikipedia.org/wiki/Movic" title="wikilink">Movic</a></li>
 <li>製作：<a href="../Page/MADHOUSE.md" title="wikilink">BaoHouse</a></li>
 </ul></td>
 </tr>
@@ -119,8 +119,9 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 ### 主題歌
 
   - 片頭曲：〈Blurry Eyes〉
-    作詞：[hyde](../Page/hyde.md "wikilink")，作曲：[tetsu](../Page/tetsu.md "wikilink")，編曲、主唱：[L'Arc～en～Ciel](../Page/L'Arc～en～Ciel.md "wikilink")
-  - 片尾曲：〈[Single Bed](../Page/Single_Bed.md "wikilink")〉
+    作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")，作曲：[tetsu](https://zh.wikipedia.org/wiki/tetsu "wikilink")，編曲、主唱：[L'Arc～en～Ciel](https://zh.wikipedia.org/wiki/L'Arc～en～Ciel "wikilink")
+  - 片尾曲：〈[Single
+    Bed](https://zh.wikipedia.org/wiki/Single_Bed "wikilink")〉
     作詞：[淳君](../Page/淳君.md "wikilink")，作曲：，編曲：、，主唱：射亂Q
 
 ### 副標題
@@ -247,11 +248,14 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。1994年10月7日至12月23日�
 
 ## 關連項目
 
-  - [ZETMAN 桂正和短編集](../Page/ZETMAN_桂正和短編集.md "wikilink") - 同時期の短篇を収録。
+  - [ZETMAN
+    桂正和短編集](https://zh.wikipedia.org/wiki/ZETMAN_桂正和短編集 "wikilink")
+    - 同時期の短篇を収録。
   - 本作と同じくヒーロを扱った桂正和作品。
-      - [銀翼超人](../Page/銀翼超人.md "wikilink")
-      - [超機動員ヴァンダー](../Page/超機動員ヴァンダー.md "wikilink")
-      - [SHADOW LADY](../Page/SHADOW_LADY.md "wikilink")
+      - [銀翼超人](https://zh.wikipedia.org/wiki/銀翼超人 "wikilink")
+      - [超機動員ヴァンダー](https://zh.wikipedia.org/wiki/超機動員ヴァンダー "wikilink")
+      - [SHADOW
+        LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY "wikilink")
       - [ZETMAN](../Page/ZETMAN.md "wikilink")
 
 ## 參考來源

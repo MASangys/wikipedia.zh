@@ -3,11 +3,11 @@ T-cell alpha chemoattractant (I-TAC)\[2\]。
 
 ## 表达
 
-在[白细胞](../Page/白细胞.md "wikilink")，[胰腺和](../Page/胰腺.md "wikilink")[肝脏中表达水平高](../Page/肝脏.md "wikilink")，在[胸腺](../Page/胸腺.md "wikilink")，[脾和](../Page/脾.md "wikilink")[肺有中等水平的表达](../Page/肺.md "wikilink")，在[小肠](../Page/小肠.md "wikilink")，[胎盘和](../Page/胎盘.md "wikilink")[前列腺中表达水平低](../Page/前列腺.md "wikilink")\[3\]。[干扰素伽玛和干扰素](../Page/干扰素伽玛.md "wikilink")－b可以在单核细胞\[4\]，支气管上皮细胞\[5\]，[中性粒细胞](../Page/中性粒细胞.md "wikilink")\[6\]，角质形成细胞\[7\]，和内皮细胞诱导CXCL11的表达。
+在[白细胞](https://zh.wikipedia.org/wiki/白细胞 "wikilink")，[胰腺和](https://zh.wikipedia.org/wiki/胰腺 "wikilink")[肝脏中表达水平高](https://zh.wikipedia.org/wiki/肝脏 "wikilink")，在[胸腺](../Page/胸腺.md "wikilink")，[脾和](https://zh.wikipedia.org/wiki/脾 "wikilink")[肺有中等水平的表达](../Page/肺.md "wikilink")，在[小肠](../Page/小肠.md "wikilink")，[胎盘和](https://zh.wikipedia.org/wiki/胎盘 "wikilink")[前列腺中表达水平低](../Page/前列腺.md "wikilink")\[3\]。[干扰素伽玛和干扰素](../Page/干扰素伽玛.md "wikilink")－b可以在单核细胞\[4\]，支气管上皮细胞\[5\]，[中性粒细胞](../Page/中性粒细胞.md "wikilink")\[6\]，角质形成细胞\[7\]，和内皮细胞诱导CXCL11的表达。
 
 ## 受体
 
-CXCL11结合趋化因子受体[CXCR3而起其细胞趋化作用](../Page/CXCR3.md "wikilink")\[8\]\[9\]\[10\]。CXCL11也可以结合到趋化因子受体[CCR3上而阻止CCR](../Page/CCR3.md "wikilink")3配体的结合\[11\]。
+CXCL11结合趋化因子受体[CXCR3而起其细胞趋化作用](../Page/CXCR3.md "wikilink")\[8\]\[9\]\[10\]。CXCL11也可以结合到趋化因子受体[CCR3上而阻止CCR](https://zh.wikipedia.org/wiki/CCR3 "wikilink")3配体的结合\[11\]。
 
 ## 功能
 

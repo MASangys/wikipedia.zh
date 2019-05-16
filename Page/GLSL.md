@@ -1,7 +1,7 @@
 **GLSL** - **OpenGL Shading Language** 也稱作
-**GLslang**，是一個以[C語言為基礎的](../Page/C語言.md "wikilink")[高階](../Page/高階程式語言.md "wikilink")[著色語言](../Page/著色語言.md "wikilink")。它是由
-[OpenGL ARB](../Page/OpenGL_ARB.md "wikilink")
-所建立，提供開發者對[繪圖管線更多的直接控制](../Page/繪圖管線.md "wikilink")，而無需使用汇编语言或硬體規格語言。
+**GLslang**，是一個以[C語言為基礎的](https://zh.wikipedia.org/wiki/C語言 "wikilink")[高階](https://zh.wikipedia.org/wiki/高階程式語言 "wikilink")[著色語言](https://zh.wikipedia.org/wiki/著色語言 "wikilink")。它是由
+[OpenGL ARB](https://zh.wikipedia.org/wiki/OpenGL_ARB "wikilink")
+所建立，提供開發者對[繪圖管線更多的直接控制](https://zh.wikipedia.org/wiki/繪圖管線 "wikilink")，而無需使用汇编语言或硬體規格語言。
 
 ## 背景
 
@@ -11,16 +11,17 @@
 最初這個功能是以組合語言撰寫著色器來達到的。組合語言對開發者的使用是不直觀而複雜的。OpenGL ARB 建立了 OpenGL 著色語言，為
 GPU 的程式設計提供更加直觀的方法，當維護開放標準的時候，就有助於帶動 OpenGL 的歷史。
 
-最初 OpenGL 1.5 是以擴充形式引入，後來 [OpenGL ARB](../Page/OpenGL_ARB.md "wikilink")
-在 [OpenGL](../Page/OpenGL.md "wikilink") 2.0 核心中正式納入 GLSL。自 1992
+最初 OpenGL 1.5 是以擴充形式引入，後來 [OpenGL
+ARB](https://zh.wikipedia.org/wiki/OpenGL_ARB "wikilink") 在
+[OpenGL](../Page/OpenGL.md "wikilink") 2.0 核心中正式納入 GLSL。自 1992
 年建立的[OpenGL](../Page/OpenGL.md "wikilink") 1.0
 起，[OpenGL](../Page/OpenGL.md "wikilink") 2.0 是第一個
 [OpenGL](../Page/OpenGL.md "wikilink") 的大修改版。
 
 使用 GLSL 有如下好處：
 
-  - 具有[跨平台的相容性](../Page/跨平台.md "wikilink")，包括
-    [Macintosh](../Page/Macintosh.md "wikilink")、[Windows](../Page/Microsoft_Windows.md "wikilink")
+  - 具有[跨平台的相容性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，包括
+    [Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
     和 [Linux](../Page/Linux.md "wikilink") 等作業系統。
   - 所有支援 OpenGL 著色語言的繪圖卡，都可以用來編寫著色器。
   - 允許廠商為特定的繪圖卡產生最佳化的代碼。
@@ -29,8 +30,8 @@ GPU 的程式設計提供更加直觀的方法，當維護開放標準的時候�
 
 ### 資料類型
 
-OpenGL 著色語言規格定義了 22 個基本資料類型，有些用法與 [C](../Page/C語言.md "wikilink")
-相同，其它的是繪圖處理器特有的。
+OpenGL 著色語言規格定義了 22 個基本資料類型，有些用法與
+[C](https://zh.wikipedia.org/wiki/C語言 "wikilink") 相同，其它的是繪圖處理器特有的。
 
   - void – 用於沒有返回值的函式
   - bool – 條件類型，其值可以是真或假
@@ -57,13 +58,14 @@ OpenGL 著色語言規格定義了 22 個基本資料類型，有些用法與 [C
 
 ### 運算子
 
-OpenGL 著色語言提供類似於 [C語言的運算子](../Page/C語言.md "wikilink")。給開發者編寫著色器的靈活性。GLSL
+OpenGL 著色語言提供類似於
+[C語言的運算子](https://zh.wikipedia.org/wiki/C語言 "wikilink")。給開發者編寫著色器的靈活性。GLSL
 包含了
-[C和C++運算子](../Page/C和C++運算子.md "wikilink")，除了位元運算子和[指標以外](../Page/指標.md "wikilink")。
+[C和C++運算子](../Page/C和C++運算子.md "wikilink")，除了位元運算子和[指標以外](https://zh.wikipedia.org/wiki/指標 "wikilink")。
 
 ### 函式和控制結構
 
-類似於 [C語言](../Page/C語言.md "wikilink")，GLSL 支援迴圈和分支，包括
+類似於 [C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，GLSL 支援迴圈和分支，包括
 if、else、if/else、for、do-while、break、continue 等。
 
 支援使用者定義函式，且各種常用的函式也已內建。這也就讓繪圖卡製造商，能夠在硬體層次上最佳化這些內建的函式。許多函式與 C 語言相同，如
@@ -120,7 +122,8 @@ GLSL 著色器可以事先建立和測試，現有以下 GLSL 開發工具：
 
 ## 參考文獻
 
-  - [Rost, Randi J.](../Page/Rost,_Randi_J..md "wikilink") *OpenGL
+  - [Rost, Randi
+    J.](https://zh.wikipedia.org/wiki/Rost,_Randi_J. "wikilink") *OpenGL
     Shading Language*. 1st ed. Pearson Education, Inc, 2004. ISBN
     0-321-19789-5
   - Kessenich, John, & Baldwin, David, & Rost, Randi. *The OpenGL
@@ -152,13 +155,13 @@ GLSL 著色器可以事先建立和測試，現有以下 GLSL 開發工具：
 
 ## 参见
 
-  - [著色語言](../Page/Shading_language.md "wikilink")
-  - [HLSL](../Page/HLSL.md "wikilink")，高階著色語言
-  - [Cg](../Page/Cg语言.md "wikilink")，nVIDIA 的著色語言
-  - [程式設計](../Page/程式設計.md "wikilink")
+  - [著色語言](https://zh.wikipedia.org/wiki/Shading_language "wikilink")
+  - [HLSL](https://zh.wikipedia.org/wiki/HLSL "wikilink")，高階著色語言
+  - [Cg](https://zh.wikipedia.org/wiki/Cg语言 "wikilink")，nVIDIA 的著色語言
+  - [程式設計](https://zh.wikipedia.org/wiki/程式設計 "wikilink")
   - [计算机图形学](../Page/计算机图形学.md "wikilink")
   - [OpenGL](../Page/OpenGL.md "wikilink")
-  - [著色器](../Page/Shader_Model.md "wikilink")
+  - [著色器](https://zh.wikipedia.org/wiki/Shader_Model "wikilink")
 
 {{-}}
 

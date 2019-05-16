@@ -1,4 +1,4 @@
-是紀念[洛克人系列二十周年的第二部作品](../Page/洛克人系列.md "wikilink")，也是[洛克人ZX系列](../Page/洛克人ZX系列.md "wikilink")[洛克人ZX的續集](../Page/洛克人ZX.md "wikilink")。本作的舞台是《[洛克人ZX](../Page/洛克人ZX.md "wikilink")》的數年後，科技高度發達的未來世界，人類和人類創造的機械生命體“レプリロイド”之間的漫長戰爭已經結束，開始了共存之路。
+是紀念[洛克人系列二十周年的第二部作品](../Page/洛克人系列.md "wikilink")，也是[洛克人ZX系列](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")[洛克人ZX的續集](../Page/洛克人ZX.md "wikilink")。本作的舞台是《[洛克人ZX](../Page/洛克人ZX.md "wikilink")》的數年後，科技高度發達的未來世界，人類和人類創造的機械生命體“レプリロイド”之間的漫長戰爭已經結束，開始了共存之路。
 
 本集與上集同樣推出男女主角的選擇，但故事發展將會為分歧路線。
 
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - [潘朵拉](../Page/潘朵拉.md "wikilink")（╱  ）
+  - [潘朵拉](https://zh.wikipedia.org/wiki/潘朵拉 "wikilink")（╱  ）
     （CV：[伊藤靜](../Page/伊藤靜.md "wikilink")）
     承接上集而出現，擁有「魔女」為外號的少女，「Ｖ型」的代表。使用權杖及浮游炮作攻擊、與普羅米修斯一起行動，冰及雷屬性。
 
@@ -203,7 +203,7 @@
 
 <!-- end list -->
 
-  - [普羅米修斯](../Page/普羅米修斯.md "wikilink")（╱  ）
+  - [普羅米修斯](https://zh.wikipedia.org/wiki/普羅米修斯 "wikilink")（╱  ）
     （CV：[岸尾大輔](../Page/岸尾大輔.md "wikilink")）
     承接上集而出現，擁有「死神」為外號的少年，「Ｖ型」的代表。使用大鐮、與潘朵拉一起行動，炎及無屬性，性格上與潘朵拉成對比。相當自豪及目中無人，認為沒人可以打敗帶有洛克人力量的他，亦不認同其他的洛克人。
 
@@ -300,8 +300,8 @@
 
   - 三賢人
     （╱ （CV：[柴田秀勝](../Page/柴田秀勝.md "wikilink")）、╱
-    （CV：[安原義人](../Page/安原義人.md "wikilink")）、╱
-    （CV：[長](../Page/長_\(日本配音員\).md "wikilink")）
+    （CV：[安原義人](https://zh.wikipedia.org/wiki/安原義人 "wikilink")）、╱
+    （CV：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")）
 
 ### 遺跡獵人
 
@@ -317,31 +317,31 @@
 
   - 赤鬥焰羚‧狄亞賓（╱  ）
     （CV：[乃村健次](../Page/乃村健次.md "wikilink")）
-    [瞪羚形類洛體機械人](../Page/瞪羚.md "wikilink")。火屬性。直截了當熱血速攻格鬥型，具備兩把戰斧作遠攻。
+    [瞪羚形類洛體機械人](https://zh.wikipedia.org/wiki/瞪羚 "wikilink")。火屬性。直截了當熱血速攻格鬥型，具備兩把戰斧作遠攻。
 
 <!-- end list -->
 
   - 宙冰戟魚‧角朗霍斯（╱  ）
-    （CV：[小原雅一](../Page/小原雅一.md "wikilink")）
+    （CV：[小原雅一](https://zh.wikipedia.org/wiki/小原雅一 "wikilink")）
     [中華鱟形類洛體機械人](../Page/中華鱟.md "wikilink")。冰屬性。同時能控制時間，體形巨大，性格暴躁、愛作挑戰。
 
 <!-- end list -->
 
   - 玫瑰火花‧弗拉瓦洛依特（╱  ）
     （CV：[安井邦彥](../Page/安井邦彥.md "wikilink")）
-    [薔薇形類洛體機械人](../Page/薔薇.md "wikilink")。雷屬性。因為電子回路有問題而有[同性戀傾向](../Page/同性戀.md "wikilink")，在地上和管子上有不同的型態，卻只有在管子上才能發揮真正的實力。
+    [薔薇形類洛體機械人](https://zh.wikipedia.org/wiki/薔薇 "wikilink")。雷屬性。因為電子回路有問題而有[同性戀傾向](../Page/同性戀.md "wikilink")，在地上和管子上有不同的型態，卻只有在管子上才能發揮真正的實力。
 
 <!-- end list -->
 
   - （╱  ）
     （CV：[谷山紀章](../Page/谷山紀章.md "wikilink")）
-    [禿鷹形類洛體機械人](../Page/禿鷹.md "wikilink")。無屬性。總是以自我為中心，利用吉他來攻擊敵人。
+    [禿鷹形類洛體機械人](https://zh.wikipedia.org/wiki/禿鷹 "wikilink")。無屬性。總是以自我為中心，利用吉他來攻擊敵人。
 
 <!-- end list -->
 
   - （╱  ）
-    （CV：[安達まり](../Page/安達まり.md "wikilink")）
-    [女王蜂形類洛體機械人](../Page/女王蜂.md "wikilink")。火屬性。個性強橫高壓，利用腹部的巨大兵器來攻擊敵人。
+    （CV：[安達まり](https://zh.wikipedia.org/wiki/安達まり "wikilink")）
+    [女王蜂形類洛體機械人](https://zh.wikipedia.org/wiki/女王蜂 "wikilink")。火屬性。個性強橫高壓，利用腹部的巨大兵器來攻擊敵人。
 
 <!-- end list -->
 
@@ -353,14 +353,14 @@
 
   - （╱  ）
     （CV：[銀河萬丈](../Page/銀河萬丈.md "wikilink")）
-    [鱷魚形類洛體機械人](../Page/鱷魚.md "wikilink")。冰屬性。講話動不動就愛提到「王」這個字，類洛體機械人當中體積最大的一個，也是唯一知道生命金屬真相的類洛體機械人。
+    [鱷魚形類洛體機械人](https://zh.wikipedia.org/wiki/鱷魚 "wikilink")。冰屬性。講話動不動就愛提到「王」這個字，類洛體機械人當中體積最大的一個，也是唯一知道生命金屬真相的類洛體機械人。
 
 <!-- end list -->
 
   - （╱  ）
     （╱  ）
-    （CV：[水間真紀](../Page/水間真紀.md "wikilink")╱[中山依里子](../Page/中山依里子.md "wikilink")）
-    [石獅子形類洛體機械人](../Page/石獅子.md "wikilink")。無屬性。アーゴイル為指揮用，ウーゴイル為支援用，非常喜歡玩二位一體攻擊。
+    （CV：[水間真紀](https://zh.wikipedia.org/wiki/水間真紀 "wikilink")╱[中山依里子](https://zh.wikipedia.org/wiki/中山依里子 "wikilink")）
+    [石獅子形類洛體機械人](https://zh.wikipedia.org/wiki/石獅子 "wikilink")。無屬性。アーゴイル為指揮用，ウーゴイル為支援用，非常喜歡玩二位一體攻擊。
 
 ## 關卡一覽
 
@@ -395,7 +395,7 @@
 ## 花絮
 
 游戏中的BGM“bullet
-drive”，在后来的OST专辑中被作者改编为“寻求未来”的有歌词版本，为来自中国大陆的[生志恒演唱](../Page/生志恒.md "wikilink")\[1\]。
+drive”，在后来的OST专辑中被作者改编为“寻求未来”的有歌词版本，为来自中国大陆的[生志恒演唱](https://zh.wikipedia.org/wiki/生志恒 "wikilink")\[1\]。
 
 ## 外部連結
 

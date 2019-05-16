@@ -1,14 +1,14 @@
 **NAMCO x CAPCOM**（Namco Cross
-Capcom）是由Capcom特許，Namco（現在的[南夢宮萬代](../Page/南夢宮萬代.md "wikilink")）製作並發售於2005年5月26日的PlayStation
+Capcom）是由Capcom特許，Namco（現在的[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")）製作並發售於2005年5月26日的PlayStation
 2模擬策略角色扮演遊戲。
 
 ## 概要
 
-本遊戲的人物超過200名，是Namco和Capcom的新舊受歡迎人物。Namco的有[命運傳奇](../Page/命運傳奇.md "wikilink")、[Xenosaga](../Page/Xenosaga.md "wikilink")
+本遊戲的人物超過200名，是Namco和Capcom的新舊受歡迎人物。Namco的有[命運傳奇](../Page/命運傳奇.md "wikilink")、[Xenosaga](https://zh.wikipedia.org/wiki/Xenosaga "wikilink")
 Episode I: Der Wille zur
-Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的有[街頭霸王系列](../Page/街頭霸王.md "wikilink")、[魔界村系列](../Page/魔界村.md "wikilink")、[恐龍危機系列等角色](../Page/恐龍危機.md "wikilink")。遊戲的廣告及印象曲是由flair主唱。
+Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的有[街頭霸王系列](https://zh.wikipedia.org/wiki/街頭霸王 "wikilink")、[魔界村系列](../Page/魔界村.md "wikilink")、[恐龍危機系列等角色](../Page/恐龍危機.md "wikilink")。遊戲的廣告及印象曲是由flair主唱。
 
-遊戲與帕佈雷斯特的[超級機器人大戰相似](../Page/超級機器人大戰.md "wikilink")。本作品的導演以前亦有參與超級機器人大戰系列的劇本
+遊戲與帕佈雷斯特的[超級機器人大戰相似](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")。本作品的導演以前亦有參與超級機器人大戰系列的劇本
 
   - 戰鬥
 
@@ -40,7 +40,7 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
   -
     MA攻擊「銃之型」的動作與燈光，被推測是參考電影「[-{zh-hk:未來殺人網絡; zh-tw:重裝任務;
     zh-cn:撕裂的末日;}-](../Page/撕裂的末日.md "wikilink")」（Equilibrium）的主角使用的武術「[Gun
-    Kata](../Page/Gun_Kata.md "wikilink")」並向它致敬。
+    Kata](https://zh.wikipedia.org/wiki/Gun_Kata "wikilink")」並向它致敬。
 
 <!-- end list -->
 
@@ -80,21 +80,21 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - 毒[牛頭](../Page/牛頭.md "wikilink")
-  - 毒[馬頭](../Page/馬頭.md "wikilink")
+  - 毒[牛頭](https://zh.wikipedia.org/wiki/牛頭 "wikilink")
+  - 毒[馬頭](https://zh.wikipedia.org/wiki/馬頭 "wikilink")
 
 <!-- end list -->
 
-  - [鎌鼬](../Page/鎌鼬.md "wikilink")（蒼、橙、紅）
-  - [天狗](../Page/天狗.md "wikilink")（惡、業）
+  - [鎌鼬](https://zh.wikipedia.org/wiki/鎌鼬 "wikilink")（蒼、橙、紅）
+  - [天狗](https://zh.wikipedia.org/wiki/天狗 "wikilink")（惡、業）
 
-### [Namco](../Page/Namco.md "wikilink")
+### [Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")
 
-  - [風之少年](../Page/風之少年.md "wikilink")
+  - [風之少年](https://zh.wikipedia.org/wiki/風之少年 "wikilink")
 
 <!-- end list -->
 
-  - 克洛羅亞 配音員：[渡辺久美子](../Page/渡辺久美子.md "wikilink")
+  - 克洛羅亞 配音員：[渡辺久美子](https://zh.wikipedia.org/wiki/渡辺久美子 "wikilink")
 
 <!-- end list -->
 
@@ -114,18 +114,18 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
   - Joka (Joker) 配音員：[古川登志夫](../Page/古川登志夫.md "wikilink")
   - Janga 配音員：[檜山修之](../Page/檜山修之.md "wikilink")
-  - Moos 配音員：[木川絵里子](../Page/木川絵里子.md "wikilink")
+  - Moos 配音員：[木川絵里子](https://zh.wikipedia.org/wiki/木川絵里子 "wikilink")
   - Glibz
   - Lolo
   - 大巫女
 
 <!-- end list -->
 
-  - [源平討魔伝](../Page/源平討魔伝.md "wikilink")
+  - [源平討魔伝](https://zh.wikipedia.org/wiki/源平討魔伝 "wikilink")
 
 <!-- end list -->
 
-  - [平景清](../Page/平景清.md "wikilink")
+  - [平景清](https://zh.wikipedia.org/wiki/平景清 "wikilink")
     配音員：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
 
 <!-- end list -->
@@ -135,7 +135,7 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [源頼朝](../Page/源頼朝.md "wikilink")
+  - [源頼朝](https://zh.wikipedia.org/wiki/源頼朝 "wikilink")
     配音員：[大塚明夫](../Page/大塚明夫.md "wikilink")
 
 <!-- end list -->
@@ -147,25 +147,25 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
   - [源義經](../Page/源義經.md "wikilink")
     配音員：[千葉一伸](../Page/千葉一伸.md "wikilink")
-  - [武藏坊辯慶](../Page/武藏坊辯慶.md "wikilink")
+  - [武藏坊辯慶](https://zh.wikipedia.org/wiki/武藏坊辯慶 "wikilink")
     配音員：[鄉里大輔](../Page/鄉里大輔.md "wikilink")
-  - [木曾義仲](../Page/木曾義仲.md "wikilink")
-    配音員：[野中秀哲](../Page/野中秀哲.md "wikilink")
-  - [骸骨](../Page/骸骨.md "wikilink")
-  - 琵琶法師 配音員：[渡邊英雄](../Page/渡邊英雄.md "wikilink")
-  - 風神 配音員：[望月健一](../Page/望月健一.md "wikilink")
+  - [木曾義仲](https://zh.wikipedia.org/wiki/木曾義仲 "wikilink")
+    配音員：[野中秀哲](https://zh.wikipedia.org/wiki/野中秀哲 "wikilink")
+  - [骸骨](https://zh.wikipedia.org/wiki/骸骨 "wikilink")
+  - 琵琶法師 配音員：[渡邊英雄](https://zh.wikipedia.org/wiki/渡邊英雄 "wikilink")
+  - 風神 配音員：[望月健一](https://zh.wikipedia.org/wiki/望月健一 "wikilink")
   - 雷神 配音員：望月健一
-  - 鬼姫 配音員：[木川繪里子](../Page/木川繪里子.md "wikilink")
+  - 鬼姫 配音員：[木川繪里子](https://zh.wikipedia.org/wiki/木川繪里子 "wikilink")
   - 安駄婆 配音員：木川繪里子
 
 <!-- end list -->
 
-  - [Xenosaga](../Page/Xenosaga.md "wikilink")
+  - [Xenosaga](https://zh.wikipedia.org/wiki/Xenosaga "wikilink")
 
 <!-- end list -->
 
-  - [卯月紫苑](../Page/卯月紫苑.md "wikilink")
-    配音員：[前田愛](../Page/前田愛.md "wikilink")
+  - [卯月紫苑](https://zh.wikipedia.org/wiki/卯月紫苑 "wikilink")
+    配音員：[前田愛](https://zh.wikipedia.org/wiki/前田愛 "wikilink")
 
 <!-- end list -->
 
@@ -184,13 +184,13 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - M.O.M.O. 配音員：[宍戸留美](../Page/宍戸留美.md "wikilink")
+  - M.O.M.O. 配音員：[宍戸留美](https://zh.wikipedia.org/wiki/宍戸留美 "wikilink")
   - Allen Ridgeley
   - Gnosis
 
 <!-- end list -->
 
-  - [劍魂系列](../Page/劍魂.md "wikilink")
+  - [劍魂系列](https://zh.wikipedia.org/wiki/劍魂 "wikilink")
 
 <!-- end list -->
 
@@ -217,11 +217,11 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [超絶倫人Bravoman](../Page/超絶倫人Bravoman.md "wikilink")
+  - [超絶倫人Bravoman](https://zh.wikipedia.org/wiki/超絶倫人Bravoman "wikilink")
 
 <!-- end list -->
 
-  - Bravoman 配音員：[稲田徹](../Page/稲田徹.md "wikilink")
+  - Bravoman 配音員：[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")
 
 <!-- end list -->
 
@@ -239,14 +239,16 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - Black Bravoman 配音員：[関智一](../Page/関智一.md "wikilink")
-  - Benjamin大久保彦左衛門 配音員：[渡辺英雄](../Page/渡辺英雄.md "wikilink")
+  - Black Bravoman
+    配音員：[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")
+  - Benjamin大久保彦左衛門
+    配音員：[渡辺英雄](https://zh.wikipedia.org/wiki/渡辺英雄 "wikilink")
   - Pistol 大名
   - 爆田博士
 
 <!-- end list -->
 
-  - [Dig Dug](../Page/Dig_Dug.md "wikilink")
+  - [Dig Dug](https://zh.wikipedia.org/wiki/Dig_Dug "wikilink")
 
 <!-- end list -->
 
@@ -267,7 +269,7 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - 斯坦爾・艾爾隆 配音員：[関智一](../Page/関智一.md "wikilink")
+  - 斯坦爾・艾爾隆 配音員：[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")
 
 <!-- end list -->
 
@@ -339,10 +341,11 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [風間仁](../Page/風間仁.md "wikilink")
+  - [風間仁](https://zh.wikipedia.org/wiki/風間仁 "wikilink")
     配音員：[千葉一伸](../Page/千葉一伸.md "wikilink")
-  - 三島平八 配音員：[郷里大輔](../Page/郷里大輔.md "wikilink")
-  - Devil（三岛一八） 配音員：[篠原正典](../Page/篠原正典.md "wikilink")
+  - 三島平八 配音員：[郷里大輔](https://zh.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - Devil（三岛一八）
+    配音員：[篠原正典](https://zh.wikipedia.org/wiki/篠原正典 "wikilink")
   - King
 
 <!-- end list -->
@@ -393,7 +396,8 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [バーニングフォースBurning](../Page/バーニングフォース.md "wikilink") Force
+  - [バーニングフォースBurning](https://zh.wikipedia.org/wiki/バーニングフォース "wikilink")
+    Force
 
 <!-- end list -->
 
@@ -401,7 +405,7 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [バラデュークBaraduke](../Page/バラデューク.md "wikilink")
+  - [バラデュークBaraduke](https://zh.wikipedia.org/wiki/バラデューク "wikilink")
 
 <!-- end list -->
 
@@ -419,20 +423,20 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [妖怪道中記](../Page/妖怪道中記.md "wikilink")
+  - [妖怪道中記](https://zh.wikipedia.org/wiki/妖怪道中記 "wikilink")
 
 <!-- end list -->
 
   - Tarosuke 配音員：[瀧本富士子](../Page/瀧本富士子.md "wikilink")
-  - 槍[骸骨](../Page/骸骨.md "wikilink")
+  - 槍[骸骨](https://zh.wikipedia.org/wiki/骸骨 "wikilink")
   - Gamagaeru
   - Gama Oyabun
   - 乙姫
-  - [閻魔大王](../Page/閻魔大王.md "wikilink")
+  - [閻魔大王](https://zh.wikipedia.org/wiki/閻魔大王 "wikilink")
 
 <!-- end list -->
 
-  - [Valkyrie傳説系列](../Page/Valkyrie傳説.md "wikilink")
+  - [Valkyrie傳説系列](https://zh.wikipedia.org/wiki/Valkyrie傳説 "wikilink")
 
 <!-- end list -->
 
@@ -440,9 +444,9 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
   - Klino Xandra（Whirlo） 配音員：[上田祐司](../Page/上田祐司.md "wikilink")
   - Sabine 配音員：[川澄綾子](../Page/川澄綾子.md "wikilink")
   - Zouna 配音員：[田中真弓](../Page/田中真弓.md "wikilink")
-  - Kamooz 配音員：[平田広明](../Page/平田広明.md "wikilink")
+  - Kamooz 配音員：[平田広明](https://zh.wikipedia.org/wiki/平田広明 "wikilink")
   - Black Valkyrie 配音員：井上喜久子
-  - Zule 配音員：[望月健一](../Page/望月健一.md "wikilink")
+  - Zule 配音員：[望月健一](https://zh.wikipedia.org/wiki/望月健一 "wikilink")
   - Black Sandra
   - Quarkman（恶）
   - Kaox
@@ -452,44 +456,50 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [Wonder Momo](../Page/Wonder_Momo.md "wikilink")
+  - [Wonder Momo](https://zh.wikipedia.org/wiki/Wonder_Momo "wikilink")
 
 <!-- end list -->
 
   - Wonder Momo 配音員：[川澄綾子](../Page/川澄綾子.md "wikilink")
-  - Amazona 配音員：[渡辺久美子](../Page/渡辺久美子.md "wikilink")
-  - Crab Fencer 配音員：[吉野貴宏](../Page/吉野貴宏.md "wikilink")
+  - Amazona 配音員：[渡辺久美子](https://zh.wikipedia.org/wiki/渡辺久美子 "wikilink")
+  - Crab Fencer
+    配音員：[吉野貴宏](https://zh.wikipedia.org/wiki/吉野貴宏 "wikilink")
   - Cannon Potters
 
-### [Capcom](../Page/Capcom.md "wikilink")
+### [Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")
 
   - [魔域幽靈系列](../Page/魔域幽靈.md "wikilink")
 
 <!-- end list -->
 
-  - [Demitri Maximoff](../Page/Demitri_Maximoff.md "wikilink")
+  - [Demitri
+    Maximoff](https://zh.wikipedia.org/wiki/Demitri_Maximoff "wikilink")
     配音員：[檜山修之](../Page/檜山修之.md "wikilink")
-  - [Morrigan Aensland](../Page/Morrigan_Aensland.md "wikilink")
-    配音員：[神宮司弥生](../Page/神宮司弥生.md "wikilink")
-  - [Felicia](../Page/Felicia.md "wikilink")
-    配音員：[荒木香恵](../Page/荒木香恵.md "wikilink")
-  - [Lei-Lei](../Page/Lei-Lei.md "wikilink")（Hsien-Ko）
+  - [Morrigan
+    Aensland](https://zh.wikipedia.org/wiki/Morrigan_Aensland "wikilink")
+    配音員：[神宮司弥生](https://zh.wikipedia.org/wiki/神宮司弥生 "wikilink")
+  - [Felicia](https://zh.wikipedia.org/wiki/Felicia "wikilink")
+    配音員：[荒木香恵](https://zh.wikipedia.org/wiki/荒木香恵 "wikilink")
+  - [Lei-Lei](https://zh.wikipedia.org/wiki/Lei-Lei "wikilink")（Hsien-Ko）
     配音員：[根谷美智子](../Page/根谷美智子.md "wikilink")
-  - [Lilith](../Page/Lilith.md "wikilink")
+  - [Lilith](https://zh.wikipedia.org/wiki/Lilith "wikilink")
     配音員：[今井由香](../Page/今井由香.md "wikilink")
-  - [Zabel Zarock](../Page/Zabel_Zarock.md "wikilink")
+  - [Zabel
+    Zarock](https://zh.wikipedia.org/wiki/Zabel_Zarock "wikilink")
     配音員：[上田祐司](../Page/上田祐司.md "wikilink")
-  - [Phobos](../Page/Phobos.md "wikilink")
-  - [Q-Bee](../Page/Q-Bee.md "wikilink")
+  - [Phobos](https://zh.wikipedia.org/wiki/Phobos "wikilink")
+  - [Q-Bee](https://zh.wikipedia.org/wiki/Q-Bee "wikilink")
 
 <!-- end list -->
 
-  - [GUN SURVIVOR4](../Page/GUN_SURVIVOR4.md "wikilink") (Resident Evil
-    Dead Aim)
+  - [GUN
+    SURVIVOR4](https://zh.wikipedia.org/wiki/GUN_SURVIVOR4 "wikilink")
+    (Resident Evil Dead Aim)
 
 <!-- end list -->
 
-  - Bruce McGivern 配音員：[平田広明](../Page/平田広明.md "wikilink")
+  - Bruce McGivern
+    配音員：[平田広明](https://zh.wikipedia.org/wiki/平田広明 "wikilink")
 
 <!-- end list -->
 
@@ -498,64 +508,72 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - 鳳鈴 配音員：[荒木香恵](../Page/荒木香恵.md "wikilink")
+  - 鳳鈴 配音員：[荒木香恵](https://zh.wikipedia.org/wiki/荒木香恵 "wikilink")
 
 <!-- end list -->
 
-  - [Captain Commando](../Page/Captain_Commando.md "wikilink")
+  - [Captain
+    Commando](https://zh.wikipedia.org/wiki/Captain_Commando "wikilink")
 
 <!-- end list -->
 
   - Captain Commando 配音員：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
   - 翔（Ginzu the Ninja） 配音員：[堀秀行](../Page/堀秀行.md "wikilink")
-  - Hoover（Baby Head） 配音員：[笹本優子](../Page/笹本優子.md "wikilink")
+  - Hoover（Baby Head）
+    配音員：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
   - Jennety（Mack the Knife）
-  - Shtrom（Shturm） 配音員：[吉野貴宏](../Page/吉野貴宏.md "wikilink")
-  - Shtrom Jr. （Shturm Jr. ） 配音員：[望月健一](../Page/望月健一.md "wikilink")
-  - Druk 配音員：[野中秀哲](../Page/野中秀哲.md "wikilink")
-  - Z 配音員：[渡辺英雄](../Page/渡辺英雄.md "wikilink")
-  - Carol 配音員：[木川絵里子](../Page/木川絵里子.md "wikilink")
+  - Shtrom（Shturm）
+    配音員：[吉野貴宏](https://zh.wikipedia.org/wiki/吉野貴宏 "wikilink")
+  - Shtrom Jr. （Shturm Jr. ）
+    配音員：[望月健一](https://zh.wikipedia.org/wiki/望月健一 "wikilink")
+  - Druk 配音員：[野中秀哲](https://zh.wikipedia.org/wiki/野中秀哲 "wikilink")
+  - Z 配音員：[渡辺英雄](https://zh.wikipedia.org/wiki/渡辺英雄 "wikilink")
+  - Carol 配音員：[木川絵里子](https://zh.wikipedia.org/wiki/木川絵里子 "wikilink")
   - Brenda 配音員：木川絵里子
   - Doppel
 
 <!-- end list -->
 
-  - [Strider飛龍](../Page/Strider飛龍.md "wikilink")
+  - [Strider飛龍](https://zh.wikipedia.org/wiki/Strider飛龍 "wikilink")
 
 <!-- end list -->
 
   - 飛竜 配音員：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
-  - Grandmaster Meio 配音員：[水鳥鉄夫](../Page/水鳥鉄夫.md "wikilink")
+  - Grandmaster Meio
+    配音員：[水鳥鉄夫](https://zh.wikipedia.org/wiki/水鳥鉄夫 "wikilink")
   - 飛燕 配音員：鳥海浩輔
-  - 東風 配音員：[山田美穂](../Page/山田美穂.md "wikilink")
+  - 東風 配音員：[山田美穂](https://zh.wikipedia.org/wiki/山田美穂 "wikilink")
   - 南風
-  - Solo 配音員：[渡辺英雄](../Page/渡辺英雄.md "wikilink")
+  - Solo 配音員：[渡辺英雄](https://zh.wikipedia.org/wiki/渡辺英雄 "wikilink")
   - Solo・量産型
 
 <!-- end list -->
 
-  - [街頭霸王系列](../Page/街頭霸王.md "wikilink")
+  - [街頭霸王系列](https://zh.wikipedia.org/wiki/街頭霸王 "wikilink")
 
 <!-- end list -->
 
-  - [隆](../Page/隆.md "wikilink") 配音員：[森川智之](../Page/森川智之.md "wikilink")
-  - [Ken](../Page/Ken.md "wikilink")
+  - [隆](https://zh.wikipedia.org/wiki/隆 "wikilink")
+    配音員：[森川智之](../Page/森川智之.md "wikilink")
+  - [Ken](https://zh.wikipedia.org/wiki/Ken "wikilink")
     配音員：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
-  - [春麗](../Page/春麗.md "wikilink")
+  - [春麗](https://zh.wikipedia.org/wiki/春麗 "wikilink")
     配音員：[田中敦子](../Page/田中敦子.md "wikilink")
-  - [嘉米](../Page/嘉米.md "wikilink")
+  - [嘉米](https://zh.wikipedia.org/wiki/嘉米 "wikilink")
     配音員：[河本明子](../Page/河本明子.md "wikilink")
   - [春日野櫻](../Page/春日野櫻.md "wikilink")
-    配音員：[笹本優子](../Page/笹本優子.md "wikilink")
-  - [神月花梨](../Page/神月花梨.md "wikilink")
+    配音員：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
+  - [神月花梨](https://zh.wikipedia.org/wiki/神月花梨 "wikilink")
     配音員：[山田美穗](../Page/山田美穗.md "wikilink")
-  - [Rose](../Page/Rose_\(ストリートファイター\).md "wikilink") 配音員：根谷美智子
-  - [殺意之波動覺醒的隆](../Page/殺意之波動覺醒的隆.md "wikilink") 配音員：森川智之
-  - [豪鬼](../Page/豪鬼.md "wikilink")
+  - [Rose](https://zh.wikipedia.org/wiki/Rose_\(ストリートファイター\) "wikilink")
+    配音員：根谷美智子
+  - [殺意之波動覺醒的隆](https://zh.wikipedia.org/wiki/殺意之波動覺醒的隆 "wikilink")
+    配音員：森川智之
+  - [豪鬼](https://zh.wikipedia.org/wiki/豪鬼 "wikilink")
     配音員：[西村知道](../Page/西村知道.md "wikilink")
-  - [Vega](../Page/Vega.md "wikilink") 配音員：西村知道
-  - [Juni](../Page/Juni.md "wikilink") 配音員：河本明子
-  - [Juli](../Page/Juli.md "wikilink") 配音員：河本明子
+  - [Vega](https://zh.wikipedia.org/wiki/Vega "wikilink") 配音員：西村知道
+  - [Juni](https://zh.wikipedia.org/wiki/Juni "wikilink") 配音員：河本明子
+  - [Juli](https://zh.wikipedia.org/wiki/Juli "wikilink") 配音員：河本明子
 
 <!-- end list -->
 
@@ -564,18 +582,20 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 <!-- end list -->
 
   - [蕾吉娜](../Page/蕾吉娜.md "wikilink")
-    配音員：[田中敦子](../Page/田中敦子_\(配音員\).md "wikilink")
+    配音員：[田中敦子](https://zh.wikipedia.org/wiki/田中敦子_\(配音員\) "wikilink")
   - 迅猛龙
   - 异特龙
 
 <!-- end list -->
 
-  - [Final Fight系列](../Page/Final_Fight.md "wikilink")
+  - [Final
+    Fight系列](https://zh.wikipedia.org/wiki/Final_Fight "wikilink")
 
 <!-- end list -->
 
-  - [凱](../Page/凱.md "wikilink") 配音員：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
-  - [Mike Haggar](../Page/Mike_Haggar.md "wikilink")
+  - [凱](https://zh.wikipedia.org/wiki/凱 "wikilink")
+    配音員：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
+  - [Mike Haggar](https://zh.wikipedia.org/wiki/Mike_Haggar "wikilink")
     配音員：[玄田哲章](../Page/玄田哲章.md "wikilink")
 
 <!-- end list -->
@@ -585,11 +605,12 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 <!-- end list -->
 
   - Arthur 配音員：[立木文彦](../Page/立木文彦.md "wikilink")
-  - 超魔王Nebiros 配音員：[吉野貴宏](../Page/吉野貴宏.md "wikilink")
-  - 大魔王Astaroth 配音員：[野中秀哲](../Page/野中秀哲.md "wikilink")
+  - 超魔王Nebiros 配音員：[吉野貴宏](https://zh.wikipedia.org/wiki/吉野貴宏 "wikilink")
+  - 大魔王Astaroth
+    配音員：[野中秀哲](https://zh.wikipedia.org/wiki/野中秀哲 "wikilink")
   - Red Arremer Joker 配音員：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
-  - [Red Arremer](../Page/Red_Arremer.md "wikilink")
-    配音員：[望月健一](../Page/望月健一.md "wikilink")
+  - [Red Arremer](https://zh.wikipedia.org/wiki/Red_Arremer "wikilink")
+    配音員：[望月健一](https://zh.wikipedia.org/wiki/望月健一 "wikilink")
   - Red Arremer Ace 配音員：望月健一
   - Red Arremer king 配音員：望月健一
   - 死神
@@ -600,12 +621,12 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - 島津 英雄 配音員：[水鳥鉄夫](../Page/水鳥鉄夫.md "wikilink")
+  - 島津 英雄 配音員：[水鳥鉄夫](https://zh.wikipedia.org/wiki/水鳥鉄夫 "wikilink")
   - 水無月 響子 配音員：[三石琴乃](../Page/三石琴乃.md "wikilink")
 
 <!-- end list -->
 
-  - [Lost Worlds](../Page/Lost_Worlds.md "wikilink")
+  - [Lost Worlds](https://zh.wikipedia.org/wiki/Lost_Worlds "wikilink")
 
 <!-- end list -->
 
@@ -615,12 +636,13 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 <!-- end list -->
 
-  - [洛克人DASH系列](../Page/洛克人DASH.md "wikilink")
+  - [洛克人DASH系列](https://zh.wikipedia.org/wiki/洛克人DASH "wikilink")
 
 <!-- end list -->
 
   - Rock Volnutt 配音員：[田中真弓](../Page/田中真弓.md "wikilink")
-  - Roll Casket 配音員：[横泽启子](../Page/横泽启子.md "wikilink")
+  - Roll Casket
+    配音員：[横泽启子](https://zh.wikipedia.org/wiki/横泽启子 "wikilink")
   - Tron Bonne 配音員：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
   - Kobuns(Servbots) 配音員：[横山智佐](../Page/横山智佐.md "wikilink")
   - Rockman Juno 配音員：[石田彰](../Page/石田彰.md "wikilink")
@@ -628,13 +650,13 @@ Macht、[鐵拳系列等角色](../Page/铁拳系列.md "wikilink")。Capcom的�
 
 ## 製作人員
 
-  - 導演／[森住惣一郎](../Page/森住惣一郎.md "wikilink")（[MONOLITHSOFT](../Page/MONOLITHSOFT.md "wikilink")
-    前[帕佈雷斯特SR製作小隊](../Page/帕佈雷斯特.md "wikilink")）
-  - 製作人／[石谷浩二](../Page/石谷浩二.md "wikilink")（[MONOLITHSOFT](../Page/MONOLITHSOFT.md "wikilink")
-    前[帕佈雷斯特](../Page/帕佈雷斯特.md "wikilink")）
-  - 角色插畫／[川野琢嗣](../Page/川野琢嗣.md "wikilink")（[namco](../Page/namco.md "wikilink")）
+  - 導演／[森住惣一郎](https://zh.wikipedia.org/wiki/森住惣一郎 "wikilink")（[MONOLITHSOFT](https://zh.wikipedia.org/wiki/MONOLITHSOFT "wikilink")
+    前[帕佈雷斯特SR製作小隊](https://zh.wikipedia.org/wiki/帕佈雷斯特 "wikilink")）
+  - 製作人／[石谷浩二](https://zh.wikipedia.org/wiki/石谷浩二 "wikilink")（[MONOLITHSOFT](https://zh.wikipedia.org/wiki/MONOLITHSOFT "wikilink")
+    前[帕佈雷斯特](https://zh.wikipedia.org/wiki/帕佈雷斯特 "wikilink")）
+  - 角色插畫／[川野琢嗣](https://zh.wikipedia.org/wiki/川野琢嗣 "wikilink")（[namco](https://zh.wikipedia.org/wiki/namco "wikilink")）
   - 片頭動畫製作／[Production I.G](../Page/Production_I.G.md "wikilink")
-  - 片頭動畫、片尾動畫作曲 [古代祐三](../Page/古代祐三.md "wikilink")
+  - 片頭動畫、片尾動畫作曲 [古代祐三](https://zh.wikipedia.org/wiki/古代祐三 "wikilink")
 
 ## 外部連結
 

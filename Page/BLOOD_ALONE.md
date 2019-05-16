@@ -1,7 +1,7 @@
 《**BLOOD
-ALONE**》是一部[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[高野真之的](../Page/高野真之.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。日本版原為同人誌作品，後於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
+ALONE**》是一部[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高野真之的](https://zh.wikipedia.org/wiki/高野真之 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。日本版原為同人誌作品，後於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
 Media
-Works）自2004年4月號至2010年4月號連載，[台灣角川代理其](../Page/台灣角川.md "wikilink")[臺灣中文版](../Page/臺灣.md "wikilink")。其後於《[Evening](../Page/Evening.md "wikilink")》（[講談社](../Page/講談社.md "wikilink")）2010年24号重開連載。2014年5月上，編輯部刊登了「由於諸多原因，《BLOOD
+Works）自2004年4月號至2010年4月號連載，[台灣角川代理其](../Page/台灣角川.md "wikilink")[臺灣中文版](../Page/臺灣.md "wikilink")。其後於《[Evening](../Page/Evening.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2010年24号重開連載。2014年5月上，編輯部刊登了「由於諸多原因，《BLOOD
 ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 漫畫ASCII Media Works共出版6冊，講談社版本則共發行十集。
@@ -11,11 +11,11 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 ## 概要
 
   - 這個作品原本是以[同人誌的方式發表](../Page/同人誌.md "wikilink")，後來才移到商業誌『[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")』中連載。在2010年5月號中，宣布因作者身體狀況不佳而休載，但在2010年6月號，卻直接宣布連載終止。在作者於部落格中表示，不管作品是任何形式，都會好好的把她畫完。後來，《**BLOOD
-    ALONE**》繼續於[講談社的青年漫畫周刊](../Page/講談社.md "wikilink")《》2010年24號連載。
+    ALONE**》繼續於[講談社的青年漫畫周刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》2010年24號連載。
 
 <!-- end list -->
 
-  - 於2013年4月至今，單行本電擊漫畫版（[MediaWorks](../Page/MediaWorks.md "wikilink")）共出版六集，而[講談社](../Page/講談社.md "wikilink")[イブニング(Evening)KC版則出版至第九集](../Page/イブニング\(Evening\).md "wikilink")(包含前面六集)。除此之外，還有出廣播劇CD。
+  - 於2013年4月至今，單行本電擊漫畫版（[MediaWorks](../Page/MediaWorks.md "wikilink")）共出版六集，而[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[イブニング(Evening)KC版則出版至第九集](https://zh.wikipedia.org/wiki/イブニング\(Evening\) "wikilink")(包含前面六集)。除此之外，還有出廣播劇CD。
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 ### 故事簡介
 
-故事內容主要是描述擁有真實之眼的人類作家兼[偵探黑江以及可愛的吸血鬼少女美咲平靜的日常生活](../Page/偵探.md "wikilink")，以及他們和吸血鬼們牽涉的種種事件。
+故事內容主要是描述擁有真實之眼的人類作家兼[偵探黑江以及可愛的吸血鬼少女美咲平靜的日常生活](https://zh.wikipedia.org/wiki/偵探 "wikilink")，以及他們和吸血鬼們牽涉的種種事件。
 
 ## 用語
 
@@ -111,7 +111,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 聲優為廣播劇CD版。
 
   -
-    屬於「真實之眼」血脈的吸血鬼少女。成為吸血鬼的時間還很短。頭髮很長及腰部，外表12歲左右。與黑江一起生活著，熱愛著黑江，不過黑江就只是以和善的父親對待愛女的方式對待她。擅長彈[鋼琴](../Page/鋼琴.md "wikilink")。血脈能力為打破吸血鬼心靈枷鎖的能力，能夠使心靈被血主控制的奴隸受到解放。
+    屬於「真實之眼」血脈的吸血鬼少女。成為吸血鬼的時間還很短。頭髮很長及腰部，外表12歲左右。與黑江一起生活著，熱愛著黑江，不過黑江就只是以和善的父親對待愛女的方式對待她。擅長彈[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。血脈能力為打破吸血鬼心靈枷鎖的能力，能夠使心靈被血主控制的奴隸受到解放。
 
 <!-- end list -->
 
@@ -137,7 +137,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 ### 吸血鬼
 
   -
-    古老世代的吸血鬼。外表是金髮少年，實際年齡不明。本居住在[歐洲](../Page/歐洲.md "wikilink")，後來移居[日本](../Page/日本.md "wikilink")。
+    古老世代的吸血鬼。外表是金髮少年，實際年齡不明。本居住在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，後來移居[日本](../Page/日本.md "wikilink")。
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 <!-- end list -->
 
   -
-    後續是由日本[講談社連載](../Page/講談社.md "wikilink")，重新出版的第一至第六集內追加了同人志版的《EARLY
+    後續是由日本[講談社連載](https://zh.wikipedia.org/wiki/講談社 "wikilink")，重新出版的第一至第六集內追加了同人志版的《EARLY
     NIGHTS》；而第七集是[MediaWorks版第六集的後續](../Page/MediaWorks.md "wikilink")。
 
 <table>
@@ -177,13 +177,13 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 <tr class="header">
 <th><p>日文版</p></th>
 <th><p><a href="../Page/MediaWorks.md" title="wikilink">MediaWorks</a></p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>出版日期</p></td>
 </tr>
 <tr class="even">
@@ -246,19 +246,19 @@ ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 ### 中文版
 
-  - 由[台灣角川出版至第六集](../Page/台灣角川.md "wikilink")。第七集開始由[尖端出版](../Page/尖端.md "wikilink")。
+  - 由[台灣角川出版至第六集](../Page/台灣角川.md "wikilink")。第七集開始由[尖端出版](https://zh.wikipedia.org/wiki/尖端 "wikilink")。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>中文版</p></th>
-<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a> <a href="../Page/尖端.md" title="wikilink">尖端</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a> <a href="https://zh.wikipedia.org/wiki/尖端" title="wikilink">尖端</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>BLOOD ALONE 1</p></td>

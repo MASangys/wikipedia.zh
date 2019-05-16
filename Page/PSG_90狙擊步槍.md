@@ -1,12 +1,12 @@
 **PSG 90**（[瑞典語](../Page/瑞典語.md "wikilink")：Prickskyttegevär
-90；解作「狙擊步槍90」）是[瑞典軍隊的制式](../Page/瑞典.md "wikilink")[狙擊步槍](../Page/狙擊步槍.md "wikilink")，由[英國](../Page/英國.md "wikilink")[精密國際的](../Page/精密國際.md "wikilink")[L96A1改進而成](../Page/精密國際AW狙擊步槍.md "wikilink")。
+90；解作「狙擊步槍90」）是[瑞典軍隊的制式](../Page/瑞典.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[精密國際的](../Page/精密國際.md "wikilink")[L96A1改進而成](../Page/精密國際AW狙擊步槍.md "wikilink")。
 
 ## 簡介
 
 [精密國際AW](../Page/精密國際AW狙擊步槍.md "wikilink")（L96A1）是世界上有名高精度的狙擊步槍之一，獲多國軍隊和警隊採用，PSG
 90就是L96A1其中一種改進型。
 
-80年代未期，[瑞典國防軍尋求](../Page/瑞典國防軍.md "wikilink")[毛瑟M96狙擊步槍的替代品](../Page/毛瑟M96.md "wikilink")。在90年代，軍方最初計劃使用裝上瞄凖鏡[Ak
+80年代未期，[瑞典國防軍尋求](../Page/瑞典國防軍.md "wikilink")[毛瑟M96狙擊步槍的替代品](https://zh.wikipedia.org/wiki/毛瑟M96 "wikilink")。在90年代，軍方最初計劃使用裝上瞄凖鏡[Ak
 4](../Page/Ak_4自動步槍.md "wikilink")（瑞典版本的[HK
 G3A3](../Page/HK_G3自動步槍.md "wikilink")），但結果令人失望，其後軍方決定裝備純狙擊用途的步槍。
 
@@ -32,7 +32,7 @@ PSG 90與L96A1設計上有所不同，以下是PSG 90的改進項目：
     world-瑞典陸軍PSG90](http://firearmsworld.net/britain/ai/aw/psg90.htm)
 
 [en:Accuracy International Arctic
-Warfare\#Variants](../Page/en:Accuracy_International_Arctic_Warfare#Variants.md "wikilink")
+Warfare\#Variants](https://zh.wikipedia.org/wiki/en:Accuracy_International_Arctic_Warfare#Variants "wikilink")
 
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
 [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink")

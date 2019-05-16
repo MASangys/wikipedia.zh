@@ -1,12 +1,12 @@
 《**Venus Versus Virus
-除魔維納斯**》（）是[鈴見敦的](../Page/鈴見敦.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")\[1\]。於[月刊電擊COMIC
-gao\!](../Page/月刊電擊COMIC_gao!.md "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")）2005年開始至2008年結束連載。單行本全8冊。
+除魔維納斯**》（）是[鈴見敦的](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")\[1\]。於[月刊電擊COMIC
+gao\!](https://zh.wikipedia.org/wiki/月刊電擊COMIC_gao! "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")）2005年開始至2008年結束連載。單行本全8冊。
 
-2007年改編為[電視動畫](../Page/電視動畫.md "wikilink")\[2\]。動畫版從2007年1月11日到3月29日開始在日本地區播映\[3\]。由於本作品的內容是青少年適宜觀看，加上主角有不良青少年行為和生死的故事場面，所以與[傳說巨神伊迪安和](../Page/傳說巨神伊迪安.md "wikilink")[聖槍修女一樣被嚴禁在](../Page/聖槍修女.md "wikilink")[香港播放動畫版](../Page/香港.md "wikilink")。
+2007年改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[2\]。動畫版從2007年1月11日到3月29日開始在日本地區播映\[3\]。由於本作品的內容是青少年適宜觀看，加上主角有不良青少年行為和生死的故事場面，所以與[傳說巨神伊迪安和](https://zh.wikipedia.org/wiki/傳說巨神伊迪安 "wikilink")[聖槍修女一樣被嚴禁在](../Page/聖槍修女.md "wikilink")[香港播放動畫版](../Page/香港.md "wikilink")。
 
 ## 故事簡介
 
-**鷹花堇**是個可以見到幽靈的少女，有一天晚上當她要從校舍回到宿舍時，有一枚胸針刺中了她的手指，後來看到了「魔人」。突然地，一位穿著[哥德蘿莉塔裝的少女](../Page/哥德蘿莉.md "wikilink")**名橋露琪亞**，拿出一把巨大的槍並且解決了「魔人」，後來那位少女給了一張古董店「Venus
+**鷹花堇**是個可以見到幽靈的少女，有一天晚上當她要從校舍回到宿舍時，有一枚胸針刺中了她的手指，後來看到了「魔人」。突然地，一位穿著[哥德蘿莉塔裝的少女](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")**名橋露琪亞**，拿出一把巨大的槍並且解決了「魔人」，後來那位少女給了一張古董店「Venus
 Vangand」的傳單。
 當堇參觀商店時當他說出她看到「魔人」的時候，那位少女說出她名字後，並解釋堇為何被胸針刺中後可以看到魔人。後來露琪亞要堇幫助她驅逐在這個世界所有的魔人。
 
@@ -61,7 +61,7 @@ Vangand」的傳單。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -124,17 +124,18 @@ Vangand」的傳單。
   - 製作人 - 田邉里英、中村伸一、金庭こず恵、斉藤公一、小池克実
   - 動畫製作 - [雲雀工作室](../Page/雲雀工作室.md "wikilink")
   - 製作協力 -
-    [波麗佳音](../Page/波麗佳音.md "wikilink")、[Movic](../Page/Movic.md "wikilink")、[Sony
-    PCL](../Page/Sony_PCL.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
+    [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")、[Sony
+    PCL](https://zh.wikipedia.org/wiki/Sony_PCL "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
   - 製作 - Venus Vanguard製作委員會、TBS
 
 ### 主題曲
 
-  - 片頭曲《[Bravin' Bad Brew](../Page/Bravin'_Bad_Brew.md "wikilink")》
-    作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 -
+  - 片頭曲《[Bravin' Bad
+    Brew](https://zh.wikipedia.org/wiki/Bravin'_Bad_Brew "wikilink")》
+    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 -
     [上松範康](../Page/上松範康.md "wikilink") / 歌 -
-    [Riryka](../Page/Riryka.md "wikilink")
-  - 片尾曲《[至純の残酷](../Page/至純の残酷.md "wikilink")》
+    [Riryka](https://zh.wikipedia.org/wiki/Riryka "wikilink")
+  - 片尾曲《[至純の残酷](https://zh.wikipedia.org/wiki/至純の残酷 "wikilink")》
     作詞・作曲・編曲 - 橘尭葉 / 歌 - [妖精帝國](../Page/妖精帝國.md "wikilink")
 
 ### 各話列表
@@ -160,8 +161,8 @@ Vangand」的傳單。
 <td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
 <td><p>左藤洋二</p></td>
-<td><p>安形佳己、<a href="../Page/渡邊真由美.md" title="wikilink">渡邊真由美</a><br />
-<a href="../Page/岩佐とも子.md" title="wikilink">岩佐とも子</a>、山門郁夫</p></td>
+<td><p>安形佳己、<a href="https://zh.wikipedia.org/wiki/渡邊真由美" title="wikilink">渡邊真由美</a><br />
+<a href="https://zh.wikipedia.org/wiki/岩佐とも子" title="wikilink">岩佐とも子</a>、山門郁夫</p></td>
 <td><p>安形佳己</p></td>
 </tr>
 <tr class="even">
@@ -179,7 +180,7 @@ Vangand」的傳單。
 <td><p>3</p></td>
 <td></td>
 <td><p>委託的情形</p></td>
-<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
 <td><p>木村真一郎</p></td>
 <td><p>左藤洋二</p></td>
 <td><p>山田勝、山門郁夫</p></td>
@@ -253,7 +254,7 @@ Vangand」的傳單。
 <td><p>10</p></td>
 <td></td>
 <td><p>誤會的目標</p></td>
-<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
 <td><p>中村圭三</p></td>
 <td><p>宇都木勇、梶浦紳一郎</p></td>
 <td><p>岩佐とも子</p></td>
@@ -301,24 +302,24 @@ Vangand」的傳單。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">東京放送</a></p></td>
 <td><p>2007年1月11日 - 3月29日</p></td>
 <td><p>星期四 25:55 - 26:25</p></td>
-<td><p><a href="../Page/Japan_News_Network.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
 <td><p><strong>製作電視台</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/全國放送.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國放送" title="wikilink">日本全域</a></p></td>
 <td><p><a href="../Page/BS-TBS.md" title="wikilink">BS-i</a></p></td>
 <td><p>2007年1月24日 - 4月11日</p></td>
 <td><p>星期三 26:00 - 26:30</p></td>
 <td><p>TBS系列<br />
-<a href="../Page/日本衛星電視廣播#BS技術放送.md" title="wikilink">BS放送</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/日本衛星電視廣播#BS技術放送" title="wikilink">BS放送</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
 <td><p>2007年1月25日 - 4月12日</p></td>
 <td><p>星期四 25:30 - 26:00</p></td>
@@ -326,8 +327,8 @@ Vangand」的傳單。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
-<td><p><a href="../Page/CBC電視台.md" title="wikilink">中部日本放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CBC電視台" title="wikilink">中部日本放送</a></p></td>
 <td><p>2007年1月26日 - 4月13日</p></td>
 <td><p>星期五 27:10 - 27:40</p></td>
 <td><p>TBS系列</p></td>
@@ -338,7 +339,7 @@ Vangand」的傳單。
 
 ## 廣播劇CD
 
-第一卷[廣播劇CD](../Page/廣播劇CD.md "wikilink")《Venus Versus
+第一卷[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")《Venus Versus
 Virus》於2006年10月25日由[Frontier
 Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
 
@@ -346,7 +347,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")。\[4\]
 
   - 名橋露琪亞：[生天目仁美](../Page/生天目仁美.md "wikilink")
   - 鷹花堇：[佐藤利奈](../Page/佐藤利奈.md "wikilink")
-  - 名橋總一郎：[大木民夫](../Page/大木民夫.md "wikilink")
+  - 名橋總一郎：[大木民夫](https://zh.wikipedia.org/wiki/大木民夫 "wikilink")
   - 美佳：[野中藍](../Page/野中藍.md "wikilink")
   - 京子：[加藤英美里](../Page/加藤英美里.md "wikilink")
   - 靜：[阪田佳代](../Page/阪田佳代.md "wikilink")

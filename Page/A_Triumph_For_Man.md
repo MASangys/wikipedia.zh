@@ -1,5 +1,5 @@
 **A Triumph For
-Man**為[丹麥樂團](../Page/丹麥.md "wikilink")[Mew的第一張專輯](../Page/Mew.md "wikilink")，於1997年4月由丹麥唱片廠牌Exlibris
+Man**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew的第一張專輯](../Page/Mew.md "wikilink")，於1997年4月由丹麥唱片廠牌Exlibris
 Musik限量發行2000張。
 
 2006年9月18日在[北歐地區重新發行為雙CD版本](../Page/北歐.md "wikilink")。
@@ -13,7 +13,7 @@ Musik限量發行2000張。
 5.  "Then I Run" – 3:53
 6.  "Life Is Not Distant" – 1:08
 7.  "No Shadow Kick" – 3:06
-    （[無影腳](../Page/無影腳.md "wikilink")，混雜[英語](../Page/英語.md "wikilink")、[廣東話及胡言亂語](../Page/廣東話.md "wikilink")，無正確歌詞）
+    （[無影腳](https://zh.wikipedia.org/wiki/無影腳 "wikilink")，混雜[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[廣東話及胡言亂語](https://zh.wikipedia.org/wiki/廣東話 "wikilink")，無正確歌詞）
 8.  "Snowflake" – 3:30
 9.  "She Came Home for Christmas" – 4:54
 10. "Pink Monster" – 0:46

@@ -1,29 +1,32 @@
 [Hong_Kong_Arts_Centre_2008.jpg](https://zh.wikipedia.org/wiki/File:Hong_Kong_Arts_Centre_2008.jpg "fig:Hong_Kong_Arts_Centre_2008.jpg")天台的ING企業標誌牌\]\]
 
-**ING集團**（），亦名**荷蘭國際集團**，是一個國際[金融服務私營企业](../Page/金融.md "wikilink")，成立於1991年，由[荷蘭最大的](../Page/荷蘭.md "wikilink")[保險公司Nationale](../Page/保險公司.md "wikilink")-Nederlanden，與荷蘭的第三大[銀行NMB](../Page/銀行.md "wikilink")
+**ING集團**（），亦名**荷蘭國際集團**，是一個國際[金融服務私營企业](../Page/金融.md "wikilink")，成立於1991年，由[荷蘭最大的](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[保險公司Nationale](https://zh.wikipedia.org/wiki/保險公司 "wikilink")-Nederlanden，與荷蘭的第三大[銀行NMB](../Page/銀行.md "wikilink")
 PostBank
 Group合併而成。ING集團以象徵性的1英鎊收購已經破產的英國著名投資銀行[霸菱銀行](../Page/霸菱銀行.md "wikilink")。
 
-ING集團的服務遍及全球50多個[國家](../Page/國家.md "wikilink")，核心業務是[銀行](../Page/銀行.md "wikilink")、[保險及](../Page/保險.md "wikilink")[資產管理等](../Page/資產管理.md "wikilink")。ING集團的全球職員大約130,000人，顧客8500萬人，包括[自然人](../Page/自然人.md "wikilink")、[家庭](../Page/家庭.md "wikilink")，[企業](../Page/企業.md "wikilink")、[政府及其他等](../Page/政府.md "wikilink")，例如[基金組織](../Page/基金.md "wikilink")。
+ING集團的服務遍及全球50多個[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")，核心業務是[銀行](../Page/銀行.md "wikilink")、[保險及](../Page/保險.md "wikilink")[資產管理等](https://zh.wikipedia.org/wiki/資產管理 "wikilink")。ING集團的全球職員大約130,000人，顧客8500萬人，包括[自然人](https://zh.wikipedia.org/wiki/自然人 "wikilink")、[家庭](../Page/家庭.md "wikilink")，[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")、[政府及其他等](../Page/政府.md "wikilink")，例如[基金組織](../Page/基金.md "wikilink")。
 
 ## 銀行業務
 
-  - [泰国军人银行](../Page/泰国军人银行.md "wikilink")30％
-  - [ING Direct](../Page/ING_Direct.md "wikilink")
-  - [北京银行](../Page/北京银行.md "wikilink")13.64%
-  - [印度Vysya银行](../Page/印度Vysya银行.md "wikilink")
-  - 巴西[Sul Americ保險](../Page/Sul_Americ.md "wikilink")10%
-  - [NN GROUP](../Page/NN_GROUP.md "wikilink")54.6%股份
-  - [Voya Financial](../Page/Voya_Financial.md "wikilink")19%股份
-  - [ING Life Korea](../Page/ING_Life_Korea.md "wikilink")10%股份
+  - [泰国军人银行](https://zh.wikipedia.org/wiki/泰国军人银行 "wikilink")30％
+  - [ING Direct](https://zh.wikipedia.org/wiki/ING_Direct "wikilink")
+  - [北京银行](https://zh.wikipedia.org/wiki/北京银行 "wikilink")13.64%
+  - [印度Vysya银行](https://zh.wikipedia.org/wiki/印度Vysya银行 "wikilink")
+  - 巴西[Sul
+    Americ保險](https://zh.wikipedia.org/wiki/Sul_Americ "wikilink")10%
+  - [NN GROUP](https://zh.wikipedia.org/wiki/NN_GROUP "wikilink")54.6%股份
+  - [Voya
+    Financial](https://zh.wikipedia.org/wiki/Voya_Financial "wikilink")19%股份
+  - [ING Life
+    Korea](https://zh.wikipedia.org/wiki/ING_Life_Korea "wikilink")10%股份
 
-荷兰邮政储蓄银行（Rijkspostspaarbank）后来演变为[荷兰邮政](../Page/荷兰邮政.md "wikilink")[银行](../Page/银行.md "wikilink")
-，后来变成[ING集团](../Page/ING集团.md "wikilink")。以下显示了荷兰的公共事业公司，包括KPN,
+荷兰邮政储蓄银行（Rijkspostspaarbank）后来演变为[荷兰邮政](https://zh.wikipedia.org/wiki/荷兰邮政 "wikilink")[银行](https://zh.wikipedia.org/wiki/银行 "wikilink")
+，后来变成[ING集团](https://zh.wikipedia.org/wiki/ING集团 "wikilink")。以下显示了荷兰的公共事业公司，包括KPN,
 [TNT集团](../Page/TNT集团.md "wikilink"), [TNT
-Express和ING的变化](../Page/TNT_Express.md "wikilink")。
+Express和ING的变化](https://zh.wikipedia.org/wiki/TNT_Express "wikilink")。
 
 ING Direct在北美、欧洲有储蓄业务，其在美国的业务2013年开始被[Capital
-One并购](../Page/Capital_One.md "wikilink")；在加拿大的部分被[加拿大丰业银行收购并于](../Page/加拿大丰业银行.md "wikilink")2014年改名为tangerine，在各大城市有ING
+One并购](https://zh.wikipedia.org/wiki/Capital_One "wikilink")；在加拿大的部分被[加拿大丰业银行收购并于](https://zh.wikipedia.org/wiki/加拿大丰业银行 "wikilink")2014年改名为tangerine，在各大城市有ING
 DIRECT Café处理一些简单业务。
 
 ## 近期发展
@@ -31,7 +34,7 @@ DIRECT Café处理一些简单业务。
 2000年ING以約77億美元代價收購[Aetna旗下全球人壽業務和金融服務業務](../Page/Aetna.md "wikilink")----即Aetna
 International和Aetna Financial Services
 
-2008年10月20日，荷蘭政府向ING集團注資100億歐元（134億美元）ING集團將會向荷蘭政府發行10億股優先股，並提供8.5%的派息率，同日，ING以6億美元出售台灣[ING安泰人壽予](../Page/ING安泰人壽.md "wikilink")[富邦金控](../Page/富邦金控.md "wikilink")\[1\]。富邦金控以每股約15.2元（單位不明）購併ING安泰人壽，包括發行普通股4.06億股，佔發行後股本5%。
+2008年10月20日，荷蘭政府向ING集團注資100億歐元（134億美元）ING集團將會向荷蘭政府發行10億股優先股，並提供8.5%的派息率，同日，ING以6億美元出售台灣[ING安泰人壽予](https://zh.wikipedia.org/wiki/ING安泰人壽 "wikilink")[富邦金控](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")\[1\]。富邦金控以每股約15.2元（單位不明）購併ING安泰人壽，包括發行普通股4.06億股，佔發行後股本5%。
 
 2009年1月27日荷蘭政府接手ING的277億歐元（358億美元）不良資產，承擔其中最多80%虧損，約合220億歐元，ING則將每年付給政府約6億歐元費用。
 
@@ -79,7 +82,7 @@ solutions 仍然是全美最大的退休基金管理公司之一
 2013年7月8日ING將所持中國合資保險企業中荷人壽50%的股權出售給[法國巴黎銀行的保險子公司BNP](../Page/法國巴黎銀行.md "wikilink")
 Paribas Cardif巴黎保險集團。
 
-2013年7月10日ING出售南韓投資管理業務予澳洲[麥格理](../Page/麥格理.md "wikilink")(Macquarie)，無披露作價，有關業務管理資產值約170億歐元（約1,689億港元）。完成交易後，麥格理將成為南韓最大的海外資產管理機構。
+2013年7月10日ING出售南韓投資管理業務予澳洲[麥格理](https://zh.wikipedia.org/wiki/麥格理 "wikilink")(Macquarie)，無披露作價，有關業務管理資產值約170億歐元（約1,689億港元）。完成交易後，麥格理將成為南韓最大的海外資產管理機構。
 
 2013年8月26日荷蘭國際集團(ING)同意以1.84萬億韓圜(17億美元)12.4億歐元（約128億港元），將旗下韓國壽險業務ING
 Life Korea，90%股權出售予私人股權投資集團安博凱（MBK Partners）。交易料錄虧損9.5億歐元。交易完成後,
@@ -88,7 +91,7 @@ ING在南韓保險業務仍有一成股份, 價值約1.07億美元。
 2014年1月10日ING集團將出售台灣資產管理事業體「安泰證券投資信託股份有限公司」，給日本野村資產管理公司為主的投資團隊。安泰投信為台灣前10大資產管理公司，截至2013年10月底的管理資產約52億歐元。
 
 2014年7月ING分拆旗下歐洲保險業務[NN
-Group](../Page/NN_Group.md "wikilink")，以每股20歐元，發行7,000萬股，集資15.4億歐元（即21億美元），在阿姆斯特丹證券交易所上市，當中包括向三間亞洲公司出售價值1.5億歐元的NN股份，該三間公司亦將認購11.3億歐元的可換股債券，債券可兌換為NN股票。佔28.6%
+Group](https://zh.wikipedia.org/wiki/NN_Group "wikilink")，以每股20歐元，發行7,000萬股，集資15.4億歐元（即21億美元），在阿姆斯特丹證券交易所上市，當中包括向三間亞洲公司出售價值1.5億歐元的NN股份，該三間公司亦將認購11.3億歐元的可換股債券，債券可兌換為NN股票。佔28.6%
 ，
 
 2015年4月7日，ING投資管理(ING Investment Management) 全球同步更名為NN投資夥伴（NN Investment

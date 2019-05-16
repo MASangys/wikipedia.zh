@@ -2,20 +2,20 @@
 [J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg](https://zh.wikipedia.org/wiki/File:J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg "fig:J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg")
 [Jia_hotel_logo.gif](https://zh.wikipedia.org/wiki/File:Jia_hotel_logo.gif "fig:Jia_hotel_logo.gif")
 **J Plus精品酒店**（英語：J Plus Boutique
-Hotel），前稱Jia香港酒店，為[香港已結業拆卸的一間四星級酒店](../Page/香港.md "wikilink")，位處於[香港島](../Page/香港島.md "wikilink")[銅鑼灣伊榮街](../Page/銅鑼灣.md "wikilink")1-5號伊榮閣，鄰近[港鐵](../Page/港鐵.md "wikilink")[銅鑼灣站](../Page/銅鑼灣站.md "wikilink")，樓高25層，酒店於2003年12月開幕，共提供54間豪華客房。2017年1月，[資本策略以](../Page/資本策略.md "wikilink")17億港元向[鎮科集團沽出J](../Page/鎮科集團.md "wikilink")
+Hotel），前稱Jia香港酒店，為[香港已結業拆卸的一間四星級酒店](../Page/香港.md "wikilink")，位處於[香港島](../Page/香港島.md "wikilink")[銅鑼灣伊榮街](../Page/銅鑼灣.md "wikilink")1-5號伊榮閣，鄰近[港鐵](../Page/港鐵.md "wikilink")[銅鑼灣站](../Page/銅鑼灣站.md "wikilink")，樓高25層，酒店於2003年12月開幕，共提供54間豪華客房。2017年1月，[資本策略以](https://zh.wikipedia.org/wiki/資本策略 "wikilink")17億港元向[鎮科集團沽出J](https://zh.wikipedia.org/wiki/鎮科集團 "wikilink")
 Plus全幢酒店作重建商廈之用\[1\]，2018年酒店完成拆卸。
 
 ## 命名
 
-前稱Jia香港酒店，**Jia**為[漢語拼音](../Page/漢語拼音.md "wikilink")，代表*家*的意思，表示[酒店便仿如](../Page/酒店.md "wikilink")[家一樣](../Page/家.md "wikilink")。
+前稱Jia香港酒店，**Jia**為[漢語拼音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，代表*家*的意思，表示[酒店便仿如](../Page/酒店.md "wikilink")[家一樣](https://zh.wikipedia.org/wiki/家 "wikilink")。
 
 ## 酒店設施
 
   - 商務中心
-  - [會議室](../Page/會議室.md "wikilink")
+  - [會議室](https://zh.wikipedia.org/wiki/會議室 "wikilink")
   - 露天平台
-  - [餐廳](../Page/餐廳.md "wikilink")
-  - [酒吧](../Page/酒吧.md "wikilink")
+  - [餐廳](https://zh.wikipedia.org/wiki/餐廳 "wikilink")
+  - [酒吧](https://zh.wikipedia.org/wiki/酒吧 "wikilink")
 
 ## 餐廳
 
@@ -37,9 +37,12 @@ Plus全幢酒店作重建商廈之用\[1\]，2018年酒店完成拆卸。
 ## 參看
 
   - [香港酒店列表](../Page/香港酒店列表.md "wikilink")
-  - [Jia Shang Hai Hotel](../Page/Jia_Shang_Hai_Hotel.md "wikilink")
-  - [Jia Krabi Hotel](../Page/Jia_Krabi_Hotel.md "wikilink")
-  - [Jia Boutique Hotel](../Page/Jia_Boutique_Hotel.md "wikilink")
+  - [Jia Shang Hai
+    Hotel](https://zh.wikipedia.org/wiki/Jia_Shang_Hai_Hotel "wikilink")
+  - [Jia Krabi
+    Hotel](https://zh.wikipedia.org/wiki/Jia_Krabi_Hotel "wikilink")
+  - [Jia Boutique
+    Hotel](https://zh.wikipedia.org/wiki/Jia_Boutique_Hotel "wikilink")
 
 ## 資料來源
 

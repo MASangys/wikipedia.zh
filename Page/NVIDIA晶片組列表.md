@@ -1,23 +1,23 @@
-本列表為[nVIDIA公司推出的](../Page/nVIDIA.md "wikilink")[晶片組](../Page/晶片組.md "wikilink")，按推出時間排列。
+本列表為[nVIDIA公司推出的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，按推出時間排列。
 
 ## [nForce系列](../Page/NVIDIA_nForce.md "wikilink")
 
-### [nForce](../Page/nForce.md "wikilink")
+### [nForce](https://zh.wikipedia.org/wiki/nForce "wikilink")
 
-| 型號         | 發表日期 | 支援                       | 製程 | 匯流排            | 記憶體 | AGP   | PATA    | 音效    | 特點                            | 附注                                                   |
-| ---------- | ---- | ------------------------ | -- | -------------- | --- | ----- | ------- | ----- | ----------------------------- | ---------------------------------------------------- |
-| nForce 220 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 | 64bit Geforce 2 MX (IGP-64)   | 搭載MCP-D南橋將支援[Dolby](../Page/Dolby.md "wikilink") 5.1 |
-| nForce 415 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 |                               | 搭載MCP-D南橋將支援[Dolby](../Page/Dolby.md "wikilink") 5.1 |
-| nForce 420 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 | 128bit Geforce 2 MX (IGP-128) | 搭載MCP-D南橋將支援[Dolby](../Page/Dolby.md "wikilink") 5.1 |
+| 型號         | 發表日期 | 支援                       | 製程 | 匯流排            | 記憶體 | AGP   | PATA    | 音效    | 特點                            | 附注                                                                      |
+| ---------- | ---- | ------------------------ | -- | -------------- | --- | ----- | ------- | ----- | ----------------------------- | ----------------------------------------------------------------------- |
+| nForce 220 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 | 64bit Geforce 2 MX (IGP-64)   | 搭載MCP-D南橋將支援[Dolby](https://zh.wikipedia.org/wiki/Dolby "wikilink") 5.1 |
+| nForce 415 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 |                               | 搭載MCP-D南橋將支援[Dolby](https://zh.wikipedia.org/wiki/Dolby "wikilink") 5.1 |
+| nForce 420 |      | Athlon XP, Athlon, Duron |    | 266MHz, 200MHz | DDR | AGP4X | 4 Ports | AC'97 | 128bit Geforce 2 MX (IGP-128) | 搭載MCP-D南橋將支援[Dolby](https://zh.wikipedia.org/wiki/Dolby "wikilink") 5.1 |
 
-### [nForce2](../Page/nForce2.md "wikilink")
+### [nForce2](https://zh.wikipedia.org/wiki/nForce2 "wikilink")
 
 | 型號                | 發表日期 | 支援                                | 製程 | 匯流排                            | 記憶體 | AGP   | SATA              | PATA    | 音效    | 特點 | 附注 |
 | ----------------- | ---- | --------------------------------- | -- | ------------------------------ | --- | ----- | ----------------- | ------- | ----- | -- | -- |
 | nForce2 Ultra 400 |      | Athlon XP, Sempron, Athlon, Duron |    | 400MHz, 333MHz, 266MHz, 100MHz | DDR | AGP8X | 2 Ports 1.5Gbit/s | 4 Ports | AC'97 |    |    |
 |                   |      |                                   |    |                                |     |       |                   |         |       |    |    |
 
-### [nForce3](../Page/nForce3.md "wikilink")
+### [nForce3](https://zh.wikipedia.org/wiki/nForce3 "wikilink")
 
 <table>
 <thead>
@@ -84,7 +84,7 @@ Socket 939</p></td>
 </tbody>
 </table>
 
-### [nForce4](../Page/nForce4.md "wikilink")
+### [nForce4](https://zh.wikipedia.org/wiki/nForce4 "wikilink")
 
 #### AMD平臺
 
@@ -137,7 +137,7 @@ Socket 939</p></td>
 <td><p>4 Ports</p></td>
 <td><p>AC'97</p></td>
 <td></td>
-<td><p>與nForce4 SLI采用相同晶片，但切斷一些<a href="../Page/電阻.md" title="wikilink">電阻使其不支援</a><a href="../Page/SLi.md" title="wikilink">SLi</a></p></td>
+<td><p>與nForce4 SLI采用相同晶片，但切斷一些<a href="https://zh.wikipedia.org/wiki/電阻" title="wikilink">電阻使其不支援</a><a href="https://zh.wikipedia.org/wiki/SLi" title="wikilink">SLi</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>nForce4 SLI</p></td>
@@ -198,8 +198,8 @@ Socket 939</p></td>
 <tr class="odd">
 <td><p>nForce4 Ultra</p></td>
 <td></td>
-<td><p><a href="../Page/Pentium_D.md" title="wikilink">Pentium D</a>,<a href="../Page/Pentium_4.md" title="wikilink">Pentium 4</a>, <a href="../Page/Pentium_4#Prescott_2M_(Extreme_Edition).md" title="wikilink">EE</a>, <a href="../Page/Celeron_D.md" title="wikilink">Celeron D</a><br />
-<a href="../Page/LGA775.md" title="wikilink">LGA775</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentium_D" title="wikilink">Pentium D</a>,<a href="https://zh.wikipedia.org/wiki/Pentium_4" title="wikilink">Pentium 4</a>, <a href="https://zh.wikipedia.org/wiki/Pentium_4#Prescott_2M_(Extreme_Edition)" title="wikilink">EE</a>, <a href="https://zh.wikipedia.org/wiki/Celeron_D" title="wikilink">Celeron D</a><br />
+<a href="https://zh.wikipedia.org/wiki/LGA775" title="wikilink">LGA775</a></p></td>
 <td></td>
 <td><p>1066 MHz</p></td>
 <td><p>DDR2</p></td>
@@ -262,7 +262,7 @@ LGA775</p></td>
 </tbody>
 </table>
 
-### [nForce 500](../Page/nForce_500.md "wikilink")
+### [nForce 500](https://zh.wikipedia.org/wiki/nForce_500 "wikilink")
 
 #### AMD平臺
 
@@ -494,7 +494,7 @@ x1: 6 slots</p></td>
 </tbody>
 </table>
 
-### [nForce 600](../Page/nForce_600.md "wikilink")
+### [nForce 600](https://zh.wikipedia.org/wiki/nForce_600 "wikilink")
 
 #### AMD平臺
 
@@ -752,7 +752,7 @@ x1: 6 slots</p></td>
 </tbody>
 </table>
 
-### [nForce 700](../Page/nForce_700.md "wikilink")
+### [nForce 700](https://zh.wikipedia.org/wiki/nForce_700 "wikilink")
 
 #### AMD平臺
 
@@ -967,7 +967,7 @@ x16 1.0: 1 slot</p></td>
 </tbody>
 </table>
 
-### [nForce 900](../Page/nForce_900.md "wikilink")
+### [nForce 900](https://zh.wikipedia.org/wiki/nForce_900 "wikilink")
 
 #### AMD平臺
 
@@ -1021,22 +1021,22 @@ FirstPacket</p></td>
 
 ## [nForce Professional系列](../Page/NVIDIA_nForce.md "wikilink")
 
-### [nForce Professional 2000](../Page/nForce_Professional_2000.md "wikilink")
+### [nForce Professional 2000](https://zh.wikipedia.org/wiki/nForce_Professional_2000 "wikilink")
 
 <http://www.nvidia.com/page/nforce_pro_workstation.html>
 
-### [nForce Professional 3000](../Page/nForce_Professional_3000.md "wikilink")
+### [nForce Professional 3000](https://zh.wikipedia.org/wiki/nForce_Professional_3000 "wikilink")
 
 <http://www.nvidia.com/page/nforce_pro_server.html>
 
 ## 相關列表
 
-  - [ALi晶片組列表](../Page/ALi晶片組列表.md "wikilink")
+  - [ALi晶片組列表](https://zh.wikipedia.org/wiki/ALi晶片組列表 "wikilink")
   - [AMD晶片組列表](../Page/AMD晶片組列表.md "wikilink")
   - [ATI晶片組列表](../Page/ATI晶片組列表.md "wikilink")
   - [Intel晶片組列表](../Page/Intel晶片組列表.md "wikilink")
-  - [SiS晶片組列表](../Page/SiS晶片組列表.md "wikilink")
-  - [ULi晶片組列表](../Page/ULi晶片組列表.md "wikilink")
+  - [SiS晶片組列表](https://zh.wikipedia.org/wiki/SiS晶片組列表 "wikilink")
+  - [ULi晶片組列表](https://zh.wikipedia.org/wiki/ULi晶片組列表 "wikilink")
   - [VIA晶片組列表](../Page/VIA晶片組列表.md "wikilink")
 
 ## 外部链接

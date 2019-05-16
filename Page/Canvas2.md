@@ -1,5 +1,5 @@
 《**Canvas2 ～茜色的調色盤～**》（）是由[F\&C
-FC01於](../Page/F&C.md "wikilink")2004年4月23日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續改編成電視動畫、漫畫、小說。
+FC01於](../Page/F&C.md "wikilink")2004年4月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續改編成電視動畫、漫畫、小說。
 
 2006年1月26日[角川書店發售](../Page/角川書店.md "wikilink")[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")《Canvas2
@@ -13,13 +13,13 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 <span style="font-size:smaller;">聲優依PC版／動畫版／PS2版排序</span>
 
   -
-    為了成為[畫家而從](../Page/畫家.md "wikilink")[北海道前往](../Page/北海道.md "wikilink")[東京的美術大學就讀](../Page/東京.md "wikilink")。在某事件後，失去了對繪畫的熱情。目前在撫子學園擔任美術教師，同時亦擔任美術社的顧問。繪畫的技術很高超，但是對於工作卻往往抱持敷衍的態度，連社團活動也甚少出席。美術社的竹內社長也常常為此感到頭痛。
+    為了成為[畫家而從](https://zh.wikipedia.org/wiki/畫家 "wikilink")[北海道前往](../Page/北海道.md "wikilink")[東京的美術大學就讀](https://zh.wikipedia.org/wiki/東京 "wikilink")。在某事件後，失去了對繪畫的熱情。目前在撫子學園擔任美術教師，同時亦擔任美術社的顧問。繪畫的技術很高超，但是對於工作卻往往抱持敷衍的態度，連社團活動也甚少出席。美術社的竹內社長也常常為此感到頭痛。
 
 <!-- end list -->
 
   -
     生日：9月27日。星座：天秤座。血型：A型。身高：154cm。三圍：86/53/82。
-    浩樹的表妹。父親是日本人，母親則是法國人。幼時的一場車禍，讓她失去了雙親，同時也封閉了自己的心靈，也因此害怕[血的顏色](../Page/血.md "wikilink")（[紅色](../Page/紅色.md "wikilink")）。在浩樹常常帶著自己的畫前來探望後，便慢慢地開啟自己封閉的心靈，同時也開啟了她對繪畫的興趣。因為成為撫子學園的繪畫特待生，而從北海道來到東京與浩樹同住。不擅長料理的她，早上也有[低血壓的症狀](../Page/低血壓.md "wikilink")。由於繼承了母親的血統，金髮碧眼的她常常成為學園內男同學的告白對象。不過由於她的眼中只有浩樹一人，所以對於其他男生的告白都是一概拒絕。
+    浩樹的表妹。父親是日本人，母親則是法國人。幼時的一場車禍，讓她失去了雙親，同時也封閉了自己的心靈，也因此害怕[血的顏色](https://zh.wikipedia.org/wiki/血 "wikilink")（[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")）。在浩樹常常帶著自己的畫前來探望後，便慢慢地開啟自己封閉的心靈，同時也開啟了她對繪畫的興趣。因為成為撫子學園的繪畫特待生，而從北海道來到東京與浩樹同住。不擅長料理的她，早上也有[低血壓的症狀](../Page/低血壓.md "wikilink")。由於繼承了母親的血統，金髮碧眼的她常常成為學園內男同學的告白對象。不過由於她的眼中只有浩樹一人，所以對於其他男生的告白都是一概拒絕。
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
   - 人物設計、原畫：[七尾奈留](../Page/七尾奈留.md "wikilink")（鳳仙エリス・桔梗霧）、ちこたむ（荻野可奈・鷺ノ宮紗綾・杉厡紫衣）、魚（美咲堇）、倉嶋丈康（藤浪朋子・竹內麻巳）、江森美沙樹（柳慎一郎）
   - 劇本：宮村優（統括・エリス、霧）、定池真実（可奈、菫、麻巳、朋子）、田中タクヤ（紗綾）
   - BGM：[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")（[上松範康](../Page/上松範康.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")、[菊田大介](../Page/菊田大介.md "wikilink")）
+    Garden](../Page/Elements_Garden.md "wikilink")（[上松範康](../Page/上松範康.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")、[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")）
   - 程式：瑞原奈緒
   - 製作人：弥七
   - 監製：宮村優、瑞原奈緒
@@ -125,8 +125,9 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 <!-- end list -->
 
   -
-    作詞／作曲／編曲：[A BONE](../Page/A_BONE.md "wikilink")，歌：A BONE featuring
-    YURIA
+    作詞／作曲／編曲：[A
+    BONE](https://zh.wikipedia.org/wiki/A_BONE "wikilink")，歌：A
+    BONE featuring YURIA
 
 <!-- end list -->
 
@@ -170,12 +171,12 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
 
 ### 製作人員
 
-  - 企劃：安田猛、黑井和男、中村寬之、鳥山成、[木谷高明](../Page/木谷高明.md "wikilink")
+  - 企劃：安田猛、黑井和男、中村寬之、鳥山成、[木谷高明](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")
   - 製作人：立崎孝史、鈴木智子、田中壮明、松林正人、中野葉子、川﨑とも子
   - 制作製作人： 橋本和典
   - 監督： [川崎逸朗](../Page/川崎逸朗.md "wikilink")
   - 系列構成：[吉田玲子](../Page/吉田玲子.md "wikilink")
-  - 劇本：吉田玲子、[岡田麿里](../Page/岡田麿里.md "wikilink")、平見瞠、[山田由香](../Page/山田由香.md "wikilink")
+  - 劇本：吉田玲子、[岡田麿里](../Page/岡田麿里.md "wikilink")、平見瞠、[山田由香](https://zh.wikipedia.org/wiki/山田由香 "wikilink")
   - 人物設定：[新田靖成](../Page/新田靖成.md "wikilink")
   - 美術監督：近藤あゆみ
   - 攝影監督：近藤靖尚
@@ -185,12 +186,13 @@ FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITIO
   - 音響製作：ダックスプロダクション
   - 音樂製作人：金杉肇
   - 音樂指導：畠義人
-  - [音樂](../Page/音樂.md "wikilink")：[ドアーズ・ミュージック・エンタテインメント](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")、[4-EVER](../Page/4-EVER.md "wikilink")
-  - 音樂製作：TYRELL LAB.、[ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
+  - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")：[ドアーズ・ミュージック・エンタテインメント](https://zh.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")、[4-EVER](https://zh.wikipedia.org/wiki/4-EVER "wikilink")
+  - 音樂製作：TYRELL
+    LAB.、[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー_\(企業\) "wikilink")
       - オープニングテーマ「プラスチックスマイル（虹色ギターVERSION）」（1～23話）
           -
             （作詞／作曲：A BONE、編曲：八七、歌：[Honey
-            Bee](../Page/Honey_Bee.md "wikilink")）
+            Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")）
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
   - 製作：Canvas2製作委員會
 
@@ -459,15 +461,15 @@ KIM SOON YEON、宮田奈保美</p></td>
 
 ### 播放電視台
 
-| 播映地域                                   | 電視台                                    | 播映期間                   | 播映時間               | 所屬聯播網                                         |
-| -------------------------------------- | -------------------------------------- | ---------------------- | ------------------ | --------------------------------------------- |
-| [千葉縣](../Page/千葉縣.md "wikilink")       | [千葉電視台](../Page/千葉電視台.md "wikilink")   | 2005年10月2日－2006年3月26日  | 日曜 24時00分 - 24時30分 | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")       | [埼玉電視台](../Page/埼玉電視台.md "wikilink")   | 2005年10月2日－2006年3月26日  | 日曜25時00分 - 25時30分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")     | [神奈川電視台](../Page/神奈川電視台.md "wikilink") | 2005年10月3日－2006年3月27日  | 月曜24時45分 - 25時15分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [京都府](../Page/京都府.md "wikilink")       | [京都放送](../Page/京都放送.md "wikilink")     | 2005年10月3日－2006年3月27日  | 月曜25時45分 - 26時00分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")       | [SUN電視台](../Page/SUN電視台.md "wikilink") | 2005年10月4日－2006年3月28日  | 火曜24時00分 - 24時30分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [愛知縣](../Page/愛知縣.md "wikilink")       | [愛知電視台](../Page/愛知電視台.md "wikilink")   | 2005年10月12日－2006年3月29日 | 水曜26時28分 - 26時58分  | [TXN系列](../Page/TXN.md "wikilink")            |
-| [全国放送](../Page/:ja:全国放送.md "wikilink") | [AT-X](../Page/AT-X.md "wikilink")     | 2008年9月16日－            | 火曜09時00分 - 09時30分  | [CS放送](../Page/衛星电视.md "wikilink")            |
+| 播映地域                                                      | 電視台                                                       | 播映期間                   | 播映時間               | 所屬聯播網                                                            |
+| --------------------------------------------------------- | --------------------------------------------------------- | ---------------------- | ------------------ | ---------------------------------------------------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                          | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")   | 2005年10月2日－2006年3月26日  | 日曜 24時00分 - 24時30分 | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                          | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                      | 2005年10月2日－2006年3月26日  | 日曜25時00分 - 25時30分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                        | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                    | 2005年10月3日－2006年3月27日  | 月曜24時45分 - 25時15分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")       | [京都放送](../Page/京都放送.md "wikilink")                        | 2005年10月3日－2006年3月27日  | 月曜25時45分 - 26時00分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")       | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink") | 2005年10月4日－2006年3月28日  | 火曜24時00分 - 24時30分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [愛知縣](../Page/愛知縣.md "wikilink")                          | [愛知電視台](../Page/愛知電視台.md "wikilink")                      | 2005年10月12日－2006年3月29日 | 水曜26時28分 - 26時58分  | [TXN系列](https://zh.wikipedia.org/wiki/TXN "wikilink")            |
+| [全国放送](https://zh.wikipedia.org/wiki/:ja:全国放送 "wikilink") | [AT-X](../Page/AT-X.md "wikilink")                        | 2008年9月16日－            | 火曜09時00分 - 09時30分  | [CS放送](https://zh.wikipedia.org/wiki/衛星电视 "wikilink")            |
 
 ## 漫畫
 
@@ -476,7 +478,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 <!-- end list -->
 
   -
-    由[兒玉樹作畫](../Page/兒玉樹.md "wikilink")，由[角川書店發售](../Page/角川書店.md "wikilink")（ISBN
+    由[兒玉樹作畫](https://zh.wikipedia.org/wiki/兒玉樹 "wikilink")，由[角川書店發售](../Page/角川書店.md "wikilink")（ISBN
     4-04-713720-0）。
 
 <!-- end list -->
@@ -532,7 +534,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 <!-- end list -->
 
   -
-    由岡崎いずみ寫作、[フミオ插畫](../Page/フミオ.md "wikilink")，由[enterbrain於](../Page/enterbrain.md "wikilink")2004年7月30日發售（ISBN
+    由岡崎いずみ寫作、[フミオ插畫](https://zh.wikipedia.org/wiki/フミオ "wikilink")，由[enterbrain於](https://zh.wikipedia.org/wiki/enterbrain "wikilink")2004年7月30日發售（ISBN
     978-4757719378）。
 
 <!-- end list -->
@@ -562,7 +564,7 @@ KIM SOON YEON、宮田奈保美</p></td>
 
   - [Canvas ～茶色的主題～](../Page/Canvas_～茶色的主題～.md "wikilink")
   - [Canvas3](../Page/Canvas3.md "wikilink")
-  - [Canvas4](../Page/Canvas4.md "wikilink")
+  - [Canvas4](https://zh.wikipedia.org/wiki/Canvas4 "wikilink")
 
 ## 參考資料
 

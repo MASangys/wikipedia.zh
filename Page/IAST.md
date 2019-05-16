@@ -1,9 +1,9 @@
-**IAST**是**國際梵語轉寫字母**的英語名稱（）的縮寫，是學術上對於[梵語](../Page/梵語.md "wikilink")[轉寫的標準](../Page/轉寫.md "wikilink")，亦變成了一般出版界，如書籍及雜誌的非業界標準。隨着[Unicode字型的普及](../Page/Unicode.md "wikilink")，它在電子文本的使用亦因此而相應地增加。這項標準是於1912年在[雅典舉行的](../Page/雅典.md "wikilink")[東方學會議](../Page/東方學會議.md "wikilink")（International
+**IAST**是**國際梵語轉寫字母**的英語名稱（）的縮寫，是學術上對於[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")[轉寫的標準](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，亦變成了一般出版界，如書籍及雜誌的非業界標準。隨着[Unicode字型的普及](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它在電子文本的使用亦因此而相應地增加。這項標準是於1912年在[雅典舉行的](../Page/雅典.md "wikilink")[東方學會議](https://zh.wikipedia.org/wiki/東方學會議 "wikilink")（International
 Congress of
-Orientalists）上訂立的，而它又基於了1894年在[日內瓦舉行的東方學會議制定的標準](../Page/日內瓦.md "wikilink")。\[1\]\[2\]
+Orientalists）上訂立的，而它又基於了1894年在[日內瓦舉行的東方學會議制定的標準](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")。\[1\]\[2\]
 
-IAST是羅馬化梵語和[巴利語的最流行的方案](../Page/巴利語.md "wikilink")，它允許無損的[天城文轉寫](../Page/天城文轉寫.md "wikilink")（和其他的[印度文字比如](../Page/婆羅米系文字.md "wikilink")[克什米爾語的傳統文字](../Page/克什米爾語.md "wikilink")[夏拉達文的轉寫](../Page/夏拉達文.md "wikilink")），而且不只是[梵語的](../Page/梵語.md "wikilink")[音素](../Page/音素.md "wikilink")，還允許本質上的語音標注（比如
-[{{IAST](../Page/止韻.md "wikilink")  是詞尾的  和
+IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.org/wiki/巴利語 "wikilink")，它允許無損的[天城文轉寫](../Page/天城文轉寫.md "wikilink")（和其他的[印度文字比如](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")[克什米爾語的傳統文字](https://zh.wikipedia.org/wiki/克什米爾語 "wikilink")[夏拉達文的轉寫](../Page/夏拉達文.md "wikilink")），而且不只是[梵語的](https://zh.wikipedia.org/wiki/梵語 "wikilink")[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")，還允許本質上的語音標注（比如
+[{{IAST](https://zh.wikipedia.org/wiki/止韻 "wikilink")  是詞尾的  和
 的[同位異音](../Page/同位異音.md "wikilink")）。
 
 ## IAST 符號清單和約定
@@ -30,52 +30,59 @@ IAST是羅馬化梵語和[巴利語的最流行的方案](../Page/巴利語.md "
 |<span style="font-size:150%;">ऐ</span> 
 |<span style="font-size:150%;">ओ</span> 
 |<span style="font-size:150%;">औ</span> 
-| style="font-size:80%;" | [雙元音](../Page/雙元音.md "wikilink") |}
+| style="font-size:80%;" |
+[雙元音](https://zh.wikipedia.org/wiki/雙元音 "wikilink") |}
 
   -
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
 |- |<span style="font-size:150%;">अं</span> 
-| style="font-size:80%;" | [随韵](../Page/随韵.md "wikilink") |-
+| style="font-size:80%;" |
+[随韵](https://zh.wikipedia.org/wiki/随韵 "wikilink") |-
 |<span style="font-size:150%;">अः</span> 
-| style="font-size:80%;" | [止韵](../Page/止韵.md "wikilink") |}
+| style="font-size:80%;" |
+[止韵](https://zh.wikipedia.org/wiki/止韵 "wikilink") |}
 
   -
     {| class="wikitable nounderlines" style="font-family:Arial;"
 
-|- | style="font-size:80%;" | [軟腭音](../Page/軟腭音.md "wikilink") |
+|- | style="font-size:80%;" |
+[軟腭音](https://zh.wikipedia.org/wiki/軟腭音 "wikilink") |
 style="font-size:80%;" | [硬腭音](../Page/硬腭音.md "wikilink") |
-style="font-size:80%;" | [卷舌音](../Page/卷舌音.md "wikilink") |
-style="font-size:80%;" | [齒音](../Page/齒音.md "wikilink") |
-style="font-size:80%;" | [唇音](../Page/唇音.md "wikilink") |-
+style="font-size:80%;" |
+[卷舌音](https://zh.wikipedia.org/wiki/卷舌音 "wikilink") |
+style="font-size:80%;" |
+[齒音](https://zh.wikipedia.org/wiki/齒音 "wikilink") |
+style="font-size:80%;" |
+[唇音](https://zh.wikipedia.org/wiki/唇音 "wikilink") |-
 |<span style="font-size:150%;">क</span> 
 |<span style="font-size:150%;">च</span> 
 |<span style="font-size:150%;">ट</span> 
 |<span style="font-size:150%;">त</span> 
 |<span style="font-size:150%;">प</span> 
 | style="font-size:80%;" |
-[清](../Page/清音.md "wikilink")[塞音](../Page/塞音.md "wikilink")
+[清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink")
 |- |<span style="font-size:150%;">ख</span> 
 |<span style="font-size:150%;">छ</span> 
 |<span style="font-size:150%;">ठ</span> 
 |<span style="font-size:150%;">थ</span> 
 |<span style="font-size:150%;">फ</span> 
 | style="font-size:80%;" |
-[送氣](../Page/送氣.md "wikilink")[清](../Page/清音.md "wikilink")[塞音](../Page/塞音.md "wikilink")
+[送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[清](https://zh.wikipedia.org/wiki/清音 "wikilink")[塞音](../Page/塞音.md "wikilink")
 |- |<span style="font-size:150%;">ग</span> 
 |<span style="font-size:150%;">ज</span> 
 |<span style="font-size:150%;">ड</span> 
 |<span style="font-size:150%;">द</span> 
 |<span style="font-size:150%;">ब</span> 
 | style="font-size:80%;" |
-[濁](../Page/濁音.md "wikilink")[塞音](../Page/塞音.md "wikilink")
+[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink")
 |- |<span style="font-size:150%;">घ</span> 
 |<span style="font-size:150%;">झ</span> 
 |<span style="font-size:150%;">ढ</span> 
 |<span style="font-size:150%;">ध</span> 
 |<span style="font-size:150%;">भ</span> 
 | style="font-size:80%;" |
-[送氣](../Page/送氣.md "wikilink")[濁](../Page/濁音.md "wikilink")[塞音](../Page/塞音.md "wikilink")
+[送氣](https://zh.wikipedia.org/wiki/送氣 "wikilink")[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[塞音](../Page/塞音.md "wikilink")
 |- |<span style="font-size:150%;">ङ</span> 
 |<span style="font-size:150%;">ञ</span> 
 |<span style="font-size:150%;">ण</span> 
@@ -90,19 +97,23 @@ style="font-size:80%;" | [唇音](../Page/唇音.md "wikilink") |-
 |<span style="font-size:150%;">श </span> 
 |<span style="font-size:150%;">ष</span> 
 |<span style="font-size:150%;">स</span> 
-|   | style="font-size:80%;" | [噝擦音](../Page/噝擦音.md "wikilink") |-
+|   | style="font-size:80%;" |
+[噝擦音](https://zh.wikipedia.org/wiki/噝擦音 "wikilink") |-
 |<span style="font-size:150%;">ह</span> 
 |   |   |   |   | style="font-size:80%;" |
-[濁](../Page/濁音.md "wikilink")[擦音](../Page/擦音.md "wikilink") |}
+[濁](https://zh.wikipedia.org/wiki/濁音 "wikilink")[擦音](https://zh.wikipedia.org/wiki/擦音 "wikilink")
+|}
 
-[母音连接时](../Page/母音.md "wikilink")，a+a i+i u+u 分别使用 â î û 表示。
+[母音连接时](https://zh.wikipedia.org/wiki/母音 "wikilink")，a+a i+i u+u 分别使用 â
+î û 表示。
 
 注意：與只用 [ASCII](../Page/ASCII.md "wikilink") 碼的羅馬化如
 [ITRANS](../Page/ITRANS.md "wikilink") 或
-[Harvard-Kyoto](../Page/Harvard-Kyoto.md "wikilink") 不同，使用變音符號的 IAST
-允許專有名字的首字母大寫。永不出現在詞首的字母如
+[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
+不同，使用變音符號的 IAST 允許專有名字的首字母大寫。永不出現在詞首的字母如
 的大寫只在[波你尼的文法中有用](../Page/波你尼.md "wikilink")，這里有把
-IT 聲音排版為大寫字母的約定（參見《[八篇書](../Page/八篇書.md "wikilink")》）。
+IT
+聲音排版為大寫字母的約定（參見《[八篇書](https://zh.wikipedia.org/wiki/八篇書 "wikilink")》）。
 
 ## 與ISO15919的比較
 
@@ -112,7 +123,7 @@ IT 聲音排版為大寫字母的約定（參見《[八篇書](../Page/八篇書
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/天城文.md" title="wikilink">天城文</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/天城文" title="wikilink">天城文</a></p></th>
 <th><p>IAST</p></th>
 <th><p>ISO 15919</p></th>
 <th><p>備註 |- </p></th>
@@ -137,7 +148,7 @@ IT 聲音排版為大寫字母的約定（參見《[八篇書](../Page/八篇書
 <td></td>
 <td></td>
 <td></td>
-<td><p>ISO <em></em> 表示 <a href="../Page/Gurmukhi.md" title="wikilink">Gurmukhi</a> <em><a href="../Page/Gurmukhi#Other_signs.md" title="wikilink">tippi</a></em> 。</p></td>
+<td><p>ISO <em></em> 表示 <a href="https://zh.wikipedia.org/wiki/Gurmukhi" title="wikilink">Gurmukhi</a> <em><a href="https://zh.wikipedia.org/wiki/Gurmukhi#Other_signs" title="wikilink">tippi</a></em> 。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,7 +200,7 @@ IT 聲音排版為大寫字母的約定（參見《[八篇書](../Page/八篇書
 ## 參見
 
   - [天城文轉寫](../Page/天城文轉寫.md "wikilink")
-  - [Harvard-Kyoto](../Page/Harvard-Kyoto.md "wikilink")
+  - [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
   - [ITRANS](../Page/ITRANS.md "wikilink")
   - [加爾各答國家圖書館羅馬化](../Page/加爾各答國家圖書館羅馬化.md "wikilink")
   - [ISO 15919](../Page/ISO_15919.md "wikilink")

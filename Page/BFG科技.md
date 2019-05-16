@@ -1,17 +1,18 @@
 **BFG科技(BFG
-Technologies)**2002年8月成立於[美國](../Page/美國.md "wikilink")[伊利諾州](../Page/伊利諾州.md "wikilink")[森林湖市](../Page/森林湖.md "wikilink")，是一家電腦[顯示卡供應商與提供電腦整機定制服務的公司](../Page/顯示卡.md "wikilink")。著名產品包括基於[nVIDIA晶片的](../Page/nVIDIA.md "wikilink")[顯示卡](../Page/顯示卡.md "wikilink")、[主機板及](../Page/主機板.md "wikilink")[電源供應器](../Page/電源供應器.md "wikilink")。BFG科技曾是nVIDIA的AIC合作夥伴之一\[1\]。該公司的產品只銷售與北美及歐洲市場。2010年9月，由於其經營不善，[破產倒閉](../Page/破產.md "wikilink")\[2\]。
+Technologies)**2002年8月成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[森林湖市](https://zh.wikipedia.org/wiki/森林湖 "wikilink")，是一家電腦[顯示卡供應商與提供電腦整機定制服務的公司](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。著名產品包括基於[nVIDIA晶片的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")、[主機板及](https://zh.wikipedia.org/wiki/主機板 "wikilink")[電源供應器](../Page/電源供應器.md "wikilink")。BFG科技曾是nVIDIA的AIC合作夥伴之一\[1\]。該公司的產品只銷售與北美及歐洲市場。2010年9月，由於其經營不善，[破產倒閉](../Page/破產.md "wikilink")\[2\]。
 
 ## 公司歷史
 
   - 2002年8月公司創立
   - 2007年1月29日推出水冷版[GeForce 8800
-    GTX顯示卡](../Page/GeForce_8.md "wikilink")
+    GTX顯示卡](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")
   - 2007年5月4日推出水冷版[GeForce 8800
-    Ultra顯示卡](../Page/GeForce_8.md "wikilink")
-  - 2008年3月18日推出[GeForce 9800 GX2顯示卡](../Page/GeForce_9.md "wikilink")
+    Ultra顯示卡](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")
+  - 2008年3月18日推出[GeForce 9800
+    GX2顯示卡](https://zh.wikipedia.org/wiki/GeForce_9 "wikilink")
   - 2008年4月24日宣佈進入電源供應器市場
   - 2008年6月16日推出水冷版[GeForce GTX
-    280顯示卡](../Page/GeForce_200.md "wikilink")
+    280顯示卡](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")
   - 2009年1月5日推出Phobos家庭影院系統
   - 2009年10月12日推出採用[SLI技術的Deimos](../Page/NVIDIA_SLI.md "wikilink")
     X-10筆記型電腦

@@ -4,7 +4,7 @@ KAT-TUN**》是2006年3月22日所發行的偶像團體[KAT-TUN的第一張專�
 ## 概要
 
   - 專輯與單曲《[Real Face](../Page/Real_Face.md "wikilink")》、DVD《[Real Face
-    Film](../Page/Real_Face_Film.md "wikilink")》同時發行。
+    Film](https://zh.wikipedia.org/wiki/Real_Face_Film "wikilink")》同時發行。
   - 就出道專輯而言，以精選輯名目發行算是少有的特例。以前演唱會上所披露的樂曲，連同新的曲子7首一同在錄音室錄製。第9首原本預定收錄「REMEMBER」這首歌，但在官方網站發表數天後又做出變更。
 
 ## 收錄曲
@@ -36,7 +36,9 @@ KAT-TUN**》是2006年3月22日所發行的偶像團體[KAT-TUN的第一張專�
         （作詞：SPIN 作曲：zero-rock 編曲：北川 曉 Rap詞：JOKER）
 9.  **SPECIAL HAPPINESS**
       -
-        （作詞：K2 作曲：[Gajin](../Page/Gajin.md "wikilink") 編曲：知野芳彦）
+        （作詞：K2
+        作曲：[Gajin](https://zh.wikipedia.org/wiki/Gajin "wikilink")
+        編曲：知野芳彦）
 10. **ONE ON ONE**
       -
         （作詞：JOKER・中丸雄一 作曲：mo'doo-・井筒“Growth”伸太郎 編曲：井筒“Growth”伸太郎・江口貴勅）

@@ -1,5 +1,5 @@
 《**機動戰士鋼彈 CLIMAX
-U.C.**》，以《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》宇宙世紀各作品為題材的一套[PS2](../Page/PS2.md "wikilink")[電子遊戲](../Page/電子遊戲.md "wikilink")。本作除了有各時代忠於原箸故事模式「CHRONICLE
+U.C.**》，以《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》宇宙世紀各作品為題材的一套[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。本作除了有各時代忠於原箸故事模式「CHRONICLE
 MODE」選擇外，更有讓玩者培育原創角色參與各場箸名戰役的「PROGRESS
 MODE」模式。遊戲更中設有卡片收集元素，隨箸玩者進行遊戲，將可以收集更多不同卡片取得更多可以使用的機體及駕駛員，當達成一定條件後更有隱藏作品、機體及駕駛員出現。
 

@@ -1,14 +1,14 @@
 **XSL-FO**是**XSL Formatting
 Objects**的缩写，它是一种用于文档格式的[XML](../Page/XML.md "wikilink")
-[置标语言](../Page/置标语言.md "wikilink")。XSL-FO是[XSL的一部分](../Page/XSL.md "wikilink")，而[XSL是一组定义XML数据转换与格式的](../Page/XSL.md "wikilink")[W3C技术](../Page/W3C.md "wikilink")。XSL的其他部分有[XSLT与](../Page/XSLT.md "wikilink")[XPath](../Page/XPath.md "wikilink")。截止到2006年12月12日，XSL-FO的最新版本是[v1.1](http://www.w3.org/TR/2006/REC-xsl11-20061205/)。
+[置标语言](../Page/置标语言.md "wikilink")。XSL-FO是[XSL的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，而[XSL是一组定义XML数据转换与格式的](https://zh.wikipedia.org/wiki/XSL "wikilink")[W3C技术](https://zh.wikipedia.org/wiki/W3C "wikilink")。XSL的其他部分有[XSLT与](../Page/XSLT.md "wikilink")[XPath](../Page/XPath.md "wikilink")。截止到2006年12月12日，XSL-FO的最新版本是[v1.1](http://www.w3.org/TR/2006/REC-xsl11-20061205/)。
 
 ## XSL-FO基础
 
-与其他的[HTML与](../Page/HTML.md "wikilink")[CSS组合不同](../Page/CSS.md "wikilink")，XSL-FO是一种unified表示语言，它没有HTML中那样的置标语法格式，并且与CSS更改外部XML或者HMTL文档的缺省表示不同，XSL-FO将所有的文档数据保存在内部。
+与其他的[HTML与](../Page/HTML.md "wikilink")[CSS组合不同](https://zh.wikipedia.org/wiki/CSS "wikilink")，XSL-FO是一种unified表示语言，它没有HTML中那样的置标语法格式，并且与CSS更改外部XML或者HMTL文档的缺省表示不同，XSL-FO将所有的文档数据保存在内部。
 
-XSL-FO总的设计思想用户写到文档中的数据是XML语言的文档，而不是FO，所用语言可以是[XHTML](../Page/XHTML.md "wikilink")、[DocBook以及](../Page/DocBook.md "wikilink")[TEI或者其他任何的XML语言](../Page/TEI.md "wikilink")。然后，用户自己写一个或者找一个[XSLT变换](../Page/XSLT.md "wikilink")，将XML转换成XSL-FO。
+XSL-FO总的设计思想用户写到文档中的数据是XML语言的文档，而不是FO，所用语言可以是[XHTML](../Page/XHTML.md "wikilink")、[DocBook以及](../Page/DocBook.md "wikilink")[TEI或者其他任何的XML语言](https://zh.wikipedia.org/wiki/TEI "wikilink")。然后，用户自己写一个或者找一个[XSLT变换](../Page/XSLT.md "wikilink")，将XML转换成XSL-FO。
 
-一旦生成了XSL-FO文档，就将它送到FO处理器这样的应用程序中。FO处理器将XSL-FO文档转换成可以阅读或者可以打印的格式。最常见的XSL-FO输出格式是[PDF或者](../Page/PDF.md "wikilink")[PostScript](../Page/PostScript.md "wikilink")，有一些FO处理器只能输出成[RTF这样的格式或者只能输出到图形用户界面的页面序列及内容](../Page/RTF.md "wikilink")。
+一旦生成了XSL-FO文档，就将它送到FO处理器这样的应用程序中。FO处理器将XSL-FO文档转换成可以阅读或者可以打印的格式。最常见的XSL-FO输出格式是[PDF或者](https://zh.wikipedia.org/wiki/PDF "wikilink")[PostScript](../Page/PostScript.md "wikilink")，有一些FO处理器只能输出成[RTF这样的格式或者只能输出到图形用户界面的页面序列及内容](../Page/RTF.md "wikilink")。
 
 人们最初认为XSLT语言本身仅仅是为这个目的所用的，但是现在由于更加通用的XML转换的出现已经超出了这个范围。由于这个转换是一个必然的过程，因此人们也常常将XML转换为XSL-FO的XSLT当作XSL-FO文档本身。甚至是XSL-FO的教程也在FO处理用法也用XSLT命令表示。
 
@@ -18,7 +18,7 @@ XSL-FO文档与PDF或者PostScript文档不同，它没有充分地描述文本�
 
 例如，有些FO处理器为了节约空间在换行的时候会加入连字符，有些却不会这样做。不同的处理器甚至会使用不同的连字符算法，从一些简单的算法到需要考虑前后行是否也许要连字符这样复杂的算法。这样就会在不同的页面改变页面布局，尤其是带有边框的时候更是这样。另外还有一些场合，XSL-FO规范明确允许FO处理器根据布局作出一定的选择。
 
-虽然不同的FO处理器生成的结果并不一致，但是人们并不太关心。这是因为XSL-FO的目的是生成经过分页的可打印媒体。XSL-FO文档本身通常用于中介的媒体，通常用于生成[PDF文件或者作为最终要分发的打印文档](../Page/PDF.md "wikilink")。这与HTML直接作为最终形式分发给用户有所不同。因此，如果需要生成一个打印文档，只需要选择满足需要的FO处理器，比如布局效果以及较少的空白等，而无需在不同的处理器上测试XSL-FO文档。
+虽然不同的FO处理器生成的结果并不一致，但是人们并不太关心。这是因为XSL-FO的目的是生成经过分页的可打印媒体。XSL-FO文档本身通常用于中介的媒体，通常用于生成[PDF文件或者作为最终要分发的打印文档](https://zh.wikipedia.org/wiki/PDF "wikilink")。这与HTML直接作为最终形式分发给用户有所不同。因此，如果需要生成一个打印文档，只需要选择满足需要的FO处理器，比如布局效果以及较少的空白等，而无需在不同的处理器上测试XSL-FO文档。
 
 ## XSL-FO语言的概念
 
@@ -31,7 +31,7 @@ floats等许多特性。这些特性与CSS的布局特性类似，但是其中�
 
 ## XSL-FO文档结构
 
-XSL-FO文档是XML文档，但是不必遵循[DTD或其模型规范](../Page/DTD.md "wikilink")。相反，它们遵循XSL-FO规范中定义的语法。
+XSL-FO文档是XML文档，但是不必遵循[DTD或其模型规范](https://zh.wikipedia.org/wiki/DTD "wikilink")。相反，它们遵循XSL-FO规范中定义的语法。
 
 XSL-FO文档包括两个必须部分。第一部分列出页面布局的细节，第二部分是带有置标的文档数据，根据不同的页面布局确定如何在不同的页面上摆放内容。
 
@@ -64,7 +64,7 @@ XSL-FO列表本质上就是两列并排排列的数据块。每个条目都由�
 
 ### 分页控制
 
-用户可以指定[Widow和](../Page/Widow.md "wikilink")[Orphan的处理方式](../Page/寡行和孤行.md "wikilink")\[1\]。另外，用户可以指定一个文本块不被分割。例如，一个图片和图片的说明应在一起显示。FO处理器会尽力保证这些命令的实现。
+用户可以指定[Widow和](https://zh.wikipedia.org/wiki/Widow "wikilink")[Orphan的处理方式](https://zh.wikipedia.org/wiki/寡行和孤行 "wikilink")\[1\]。另外，用户可以指定一个文本块不被分割。例如，一个图片和图片的说明应在一起显示。FO处理器会尽力保证这些命令的实现。
 
 <references />
 
@@ -112,7 +112,7 @@ XSL-FO 1.1支持生成某些图书后面具有的索引功能，这是通过对F
 
 ## XSL-FO的优点
 
-由于XSL-FO是一种XML语言，因此从任何的XML语言生成XSL-FO代码仅仅需要XSLT变换以及XSLT处理器。人们可以很容易地创作一个[TEI或者](../Page/TEI.md "wikilink")[DocBook格式的文档](../Page/DocBook.md "wikilink")，然后将它转换成HTML用于网络浏览或者经过FO处理器转换成PDF用于打印。实际上，现在已经有许多用于这些目的的TEI以及DocBook
+由于XSL-FO是一种XML语言，因此从任何的XML语言生成XSL-FO代码仅仅需要XSLT变换以及XSLT处理器。人们可以很容易地创作一个[TEI或者](https://zh.wikipedia.org/wiki/TEI "wikilink")[DocBook格式的文档](../Page/DocBook.md "wikilink")，然后将它转换成HTML用于网络浏览或者经过FO处理器转换成PDF用于打印。实际上，现在已经有许多用于这些目的的TEI以及DocBook
 XSLT转换工具。
 
 另外，由于它是一种XML语言，尤其是由于它没有固定的语法或者文件类型定义，它可以保存所有类型的XML数据。最常见的数据有SVG图像，许多FO处理器都可以读取或者将它加入到文档中。
@@ -130,10 +130,10 @@ FO的另外一个问题是，尽管容易理解，但是如果手工生成这样
 ## 参见
 
   - [XML](../Page/XML.md "wikilink")
-  - [XSL](../Page/Extensible_Stylesheet_Language.md "wikilink")
-  - [XSLT](../Page/XSL_Transformations.md "wikilink")
+  - [XSL](https://zh.wikipedia.org/wiki/Extensible_Stylesheet_Language "wikilink")
+  - [XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
   - [Cascading Style
-    Sheets](../Page/Cascading_Style_Sheets.md "wikilink")
+    Sheets](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")
   - [XHTML](../Page/XHTML.md "wikilink")
 
 ## 外部链接

@@ -1,5 +1,5 @@
 《**First
-Message**》（初次告白）為日本歌手[絢香第一張原創專輯](../Page/絢香.md "wikilink")，於2006年11月1日發行。在日本[公信榜最高的紀錄為第](../Page/公信榜.md "wikilink")1名。
+Message**》（初次告白）為日本歌手[絢香第一張原創專輯](../Page/絢香.md "wikilink")，於2006年11月1日發行。在日本[公信榜最高的紀錄為第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1名。
 
 ## 解說
 
@@ -36,14 +36,14 @@ Message**》（初次告白）為日本歌手[絢香第一張原創專輯](../Pa
       -
         作詞：絢香/作曲：西尾芳彦/編曲：L.O.E
         [富士電視台連續劇](../Page/富士電視台.md "wikilink")「[戀愛維他命](../Page/戀愛維他命.md "wikilink")」插入曲。
-5.  **[I believe](../Page/I_believe.md "wikilink")**
+5.  **[I believe](https://zh.wikipedia.org/wiki/I_believe "wikilink")**
       -
         作詞：絢香/作曲：西尾芳彦、絢香/編曲：L.O.E
-        [TBS電視台連續劇](../Page/TBS電視台.md "wikilink")「[輪舞曲](../Page/輪舞曲.md "wikilink")」主題曲。
+        [TBS電視台連續劇](../Page/TBS電視台.md "wikilink")「[輪舞曲](https://zh.wikipedia.org/wiki/輪舞曲 "wikilink")」主題曲。
 6.  **Stay with me**
       -
         作詞：絢香/作曲：西尾芳彦、絢香/編曲：L.O.E
-7.  **[melody](../Page/melody〜SOUNDS_REAL〜.md "wikilink")**
+7.  **[melody](https://zh.wikipedia.org/wiki/melody〜SOUNDS_REAL〜 "wikilink")**
       -
         作詞：絢香/作曲：西尾芳彦/編曲：L.O.E
 8.  **你的力量與成熟模樣（）**
@@ -65,7 +65,7 @@ Message**》（初次告白）為日本歌手[絢香第一張原創專輯](../Pa
 13. **Lai la lai（）**
       -
         作詞：絢香/作曲：西尾芳彦/編曲：L.O.E
-14. **[三日月](../Page/三日月.md "wikilink")**
+14. **[三日月](https://zh.wikipedia.org/wiki/三日月 "wikilink")**
       -
         作詞：絢香/作曲：西尾芳彦、絢香/編曲：L.O.E
 15. **message**

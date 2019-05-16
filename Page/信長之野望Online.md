@@ -1,18 +1,18 @@
-《**信長之野望Online**》，由日本遊戲公司[KOEI所開發的](../Page/KOEI.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")。此遊戲起始日2005年7月15日（開放
+《**信長之野望Online**》，由日本遊戲公司[KOEI所開發的](https://zh.wikipedia.org/wiki/KOEI "wikilink")[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。此遊戲起始日2005年7月15日（開放
 BETA 版）開始至今。
 
 ## 職業
 
-該遊戲目前有[侍](../Page/侍.md "wikilink")、[僧](../Page/僧.md "wikilink")、[神主](../Page/神主.md "wikilink")/[巫女](../Page/巫女.md "wikilink")、[陰陽師](../Page/陰陽師.md "wikilink")、[忍者](../Page/忍者.md "wikilink")、鍛冶師、藥師等職業，後期追加[傾奇者](../Page/傾奇者.md "wikilink")。各職業特化技能如下：
+該遊戲目前有[侍](https://zh.wikipedia.org/wiki/侍 "wikilink")、[僧](https://zh.wikipedia.org/wiki/僧 "wikilink")、[神主](https://zh.wikipedia.org/wiki/神主 "wikilink")/[巫女](../Page/巫女.md "wikilink")、[陰陽師](../Page/陰陽師.md "wikilink")、[忍者](../Page/忍者.md "wikilink")、鍛冶師、藥師等職業，後期追加[傾奇者](../Page/傾奇者.md "wikilink")。各職業特化技能如下：
 
   - 侍：武藝、[武士道](../Page/武士道.md "wikilink")、軍學
-  - 僧：[僧兵](../Page/僧兵.md "wikilink")、佛門、[密教](../Page/密教.md "wikilink")
-  - 神主/巫女：神典、古神、[雅樂](../Page/雅樂.md "wikilink")
-  - 陰陽師：[陰陽道](../Page/陰陽道.md "wikilink")、仙論、召喚
+  - 僧：[僧兵](../Page/僧兵.md "wikilink")、佛門、[密教](https://zh.wikipedia.org/wiki/密教 "wikilink")
+  - 神主/巫女：神典、古神、[雅樂](https://zh.wikipedia.org/wiki/雅樂 "wikilink")
+  - 陰陽師：[陰陽道](https://zh.wikipedia.org/wiki/陰陽道 "wikilink")、仙論、召喚
   - [忍者](../Page/忍者.md "wikilink")：秘忍、暗殺、術忍
   - 鍛冶師：刀鍛、鎧鍛、砲鍛
   - 藥師：高醫、神通、[修驗道](../Page/修驗道.md "wikilink")
-  - [傾奇者](../Page/傾奇者.md "wikilink")：殺陣、演舞、[能樂](../Page/能樂.md "wikilink")
+  - [傾奇者](../Page/傾奇者.md "wikilink")：殺陣、演舞、[能樂](https://zh.wikipedia.org/wiki/能樂 "wikilink")
 
 ## 生產
 
@@ -102,24 +102,24 @@ BETA 版）開始至今。
 
 ## 大名
 
-| 大名  | 總大將                                  | 初期統治地域                                                                                        | 主要城市      |
-| --- | ------------------------------------ | --------------------------------------------------------------------------------------------- | --------- |
-| 上杉家 | [上杉謙信](../Page/上杉謙信.md "wikilink")   | [越後](../Page/越後.md "wikilink")、[越中](../Page/越中.md "wikilink")、[上野](../Page/上野國.md "wikilink") | 春日山、富山、前橋 |
-| 北條家 | [北條氏康](../Page/北條氏康.md "wikilink")   | [相模](../Page/相模.md "wikilink")、[武藏](../Page/武藏國.md "wikilink")                                | 小田原、川越    |
-| 今川家 | [今川義元](../Page/今川義元.md "wikilink")   | [駿河](../Page/駿河.md "wikilink")、[遠江](../Page/遠江.md "wikilink")                                 | 駿府、濱松     |
-| 武田家 | [武田信玄](../Page/武田信玄.md "wikilink")   | [甲斐](../Page/甲斐.md "wikilink")、[信濃](../Page/信濃.md "wikilink")                                 | 甲府、松本     |
-| 德川家 | [德川家康](../Page/德川家康.md "wikilink")   | [三河](../Page/三河國.md "wikilink")                                                               | 岡崎        |
-| 織田家 | [織田信長](../Page/織田信長.md "wikilink")   | [尾張](../Page/尾張.md "wikilink")                                                                | 那古野       |
-| 齋藤家 | [齋藤道三](../Page/齋藤道三.md "wikilink")   | [美濃](../Page/美濃國.md "wikilink")                                                               | 稻葉山       |
-| 朝倉家 | [朝倉義景](../Page/朝倉義景.md "wikilink")   | [越前](../Page/越前.md "wikilink")                                                                | 一乘谷       |
-| 淺井家 | [淺井長政](../Page/淺井長政.md "wikilink")   | [近江](../Page/近江.md "wikilink")                                                                | 小谷        |
-| 足利家 | [足利義輝](../Page/足利義輝.md "wikilink")   | [山城](../Page/山城國.md "wikilink")                                                               | 京都        |
-| 伊賀忍 | [百地三太夫](../Page/百地三太夫.md "wikilink") | [伊賀鄉](../Page/伊賀國.md "wikilink")                                                              | 伊賀鄉       |
-| 三好家 | [三好長慶](../Page/三好長慶.md "wikilink")   | [攝津](../Page/攝津.md "wikilink")[和泉](../Page/和泉.md "wikilink")、[大和](../Page/大和國.md "wikilink")  | 大阪、奈良     |
-| 本願寺 | [本願寺顯如](../Page/本願寺顯如.md "wikilink") | [加賀](../Page/加賀.md "wikilink")、[伊勢](../Page/伊勢.md "wikilink")                                 | 金澤、長島     |
-| 雜賀眾 | [雜賀孫市](../Page/雜賀孫市.md "wikilink")   | [紀伊](../Page/紀伊.md "wikilink")                                                                | 雜賀鄉       |
-| 真田家 | [真田昌幸](../Page/真田昌幸.md "wikilink")   | [信濃](../Page/信濃.md "wikilink")                                                                | 上田城       |
-| 伊達家 | [伊達政宗](../Page/伊達政宗.md "wikilink")   | [陸奧](../Page/陸奧.md "wikilink")                                                                | 仙台城       |
+| 大名  | 總大將                                                     | 初期統治地域                                                                                                                                                 | 主要城市      |
+| --- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| 上杉家 | [上杉謙信](../Page/上杉謙信.md "wikilink")                      | [越後](https://zh.wikipedia.org/wiki/越後 "wikilink")、[越中](https://zh.wikipedia.org/wiki/越中 "wikilink")、[上野](https://zh.wikipedia.org/wiki/上野國 "wikilink") | 春日山、富山、前橋 |
+| 北條家 | [北條氏康](../Page/北條氏康.md "wikilink")                      | [相模](https://zh.wikipedia.org/wiki/相模 "wikilink")、[武藏](../Page/武藏國.md "wikilink")                                                                      | 小田原、川越    |
+| 今川家 | [今川義元](../Page/今川義元.md "wikilink")                      | [駿河](https://zh.wikipedia.org/wiki/駿河 "wikilink")、[遠江](https://zh.wikipedia.org/wiki/遠江 "wikilink")                                                    | 駿府、濱松     |
+| 武田家 | [武田信玄](../Page/武田信玄.md "wikilink")                      | [甲斐](https://zh.wikipedia.org/wiki/甲斐 "wikilink")、[信濃](https://zh.wikipedia.org/wiki/信濃 "wikilink")                                                    | 甲府、松本     |
+| 德川家 | [德川家康](../Page/德川家康.md "wikilink")                      | [三河](../Page/三河國.md "wikilink")                                                                                                                        | 岡崎        |
+| 織田家 | [織田信長](../Page/織田信長.md "wikilink")                      | [尾張](https://zh.wikipedia.org/wiki/尾張 "wikilink")                                                                                                      | 那古野       |
+| 齋藤家 | [齋藤道三](../Page/齋藤道三.md "wikilink")                      | [美濃](https://zh.wikipedia.org/wiki/美濃國 "wikilink")                                                                                                     | 稻葉山       |
+| 朝倉家 | [朝倉義景](../Page/朝倉義景.md "wikilink")                      | [越前](https://zh.wikipedia.org/wiki/越前 "wikilink")                                                                                                      | 一乘谷       |
+| 淺井家 | [淺井長政](../Page/淺井長政.md "wikilink")                      | [近江](https://zh.wikipedia.org/wiki/近江 "wikilink")                                                                                                      | 小谷        |
+| 足利家 | [足利義輝](../Page/足利義輝.md "wikilink")                      | [山城](../Page/山城國.md "wikilink")                                                                                                                        | 京都        |
+| 伊賀忍 | [百地三太夫](https://zh.wikipedia.org/wiki/百地三太夫 "wikilink") | [伊賀鄉](../Page/伊賀國.md "wikilink")                                                                                                                       | 伊賀鄉       |
+| 三好家 | [三好長慶](../Page/三好長慶.md "wikilink")                      | [攝津](https://zh.wikipedia.org/wiki/攝津 "wikilink")[和泉](https://zh.wikipedia.org/wiki/和泉 "wikilink")、[大和](https://zh.wikipedia.org/wiki/大和國 "wikilink")  | 大阪、奈良     |
+| 本願寺 | [本願寺顯如](https://zh.wikipedia.org/wiki/本願寺顯如 "wikilink") | [加賀](https://zh.wikipedia.org/wiki/加賀 "wikilink")、[伊勢](https://zh.wikipedia.org/wiki/伊勢 "wikilink")                                                    | 金澤、長島     |
+| 雜賀眾 | [雜賀孫市](https://zh.wikipedia.org/wiki/雜賀孫市 "wikilink")   | [紀伊](https://zh.wikipedia.org/wiki/紀伊 "wikilink")                                                                                                      | 雜賀鄉       |
+| 真田家 | [真田昌幸](../Page/真田昌幸.md "wikilink")                      | [信濃](https://zh.wikipedia.org/wiki/信濃 "wikilink")                                                                                                      | 上田城       |
+| 伊達家 | [伊達政宗](../Page/伊達政宗.md "wikilink")                      | [陸奧](https://zh.wikipedia.org/wiki/陸奧 "wikilink")                                                                                                      | 仙台城       |
 
 ## 版本導入
 
@@ -141,11 +141,11 @@ BETA 版）開始至今。
 
 #### 冒險景點
 
-[昇仙峽](../Page/昇仙峽.md "wikilink")（甲斐）、[地獄谷](../Page/大涌谷.md "wikilink")（相模）、[佐渡金山](../Page/佐渡金山.md "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊洞穴](../Page/東尋坊.md "wikilink")（越前）、忍者砦（伊賀）、[比叡山](../Page/比叡山.md "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖底洞穴](../Page/濱名湖.md "wikilink")（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
+[昇仙峽](https://zh.wikipedia.org/wiki/昇仙峽 "wikilink")（甲斐）、[地獄谷](https://zh.wikipedia.org/wiki/大涌谷 "wikilink")（相模）、[佐渡金山](https://zh.wikipedia.org/wiki/佐渡金山 "wikilink")（越後）、[富士地下洞穴](../Page/富士山.md "wikilink")（駿河）、[東尋坊洞穴](../Page/東尋坊.md "wikilink")（越前）、忍者砦（伊賀）、[比叡山](https://zh.wikipedia.org/wiki/比叡山 "wikilink")（近江）、比叡山叢雲堂（比叡山內部，NPC彪大師）、千引石洞穴（紀伊）、祕界（攝津和泉，堺港，NPC桑喬）、[濱名湖底洞穴](../Page/濱名湖.md "wikilink")（遠江）、蜃氣樓之塔（越中）、[三輪山](../Page/三輪山.md "wikilink")（大和）
 
 #### 高級冒險區
 
-[黃泉比良坂](../Page/黃泉.md "wikilink")（山城神社，NPC八尋）、[根之國](../Page/根之國.md "wikilink")（黃泉比良坂後段）、伊邪那美神宮（根之國後段）
+[黃泉比良坂](../Page/黃泉.md "wikilink")（山城神社，NPC八尋）、[根之國](https://zh.wikipedia.org/wiki/根之國 "wikilink")（黃泉比良坂後段）、伊邪那美神宮（根之國後段）
 
 #### TD試練
 
@@ -191,36 +191,37 @@ BETA 版）開始至今。
 
 #### 合戰場一覽
 
-  - [川中島](../Page/川中島_\(日本\).md "wikilink")：越後 - 信濃
-  - [糸魚川](../Page/糸魚川.md "wikilink")：越後 - 越中
-  - [三国峠](../Page/三国峠.md "wikilink")：越後 - 上野
-  - [鳥居峠](../Page/鳥居峠.md "wikilink")：上野 - 信濃
+  - [川中島](https://zh.wikipedia.org/wiki/川中島_\(日本\) "wikilink")：越後 - 信濃
+  - [糸魚川](https://zh.wikipedia.org/wiki/糸魚川 "wikilink")：越後 - 越中
+  - [三国峠](https://zh.wikipedia.org/wiki/三国峠 "wikilink")：越後 - 上野
+  - [鳥居峠](https://zh.wikipedia.org/wiki/鳥居峠 "wikilink")：上野 - 信濃
   - [利根川](../Page/利根川.md "wikilink")：上野 - 武蔵
-  - [三增峠](../Page/三增峠.md "wikilink")：武蔵 - 甲斐
-  - [入間川](../Page/入間川.md "wikilink")：武蔵 - 相模
-  - [伊豆沖](../Page/伊豆.md "wikilink")：相模 - 駿河
-  - [大井川](../Page/大井川.md "wikilink")：駿河 - 遠江
-  - [富士川](../Page/富士川.md "wikilink")：駿河 - 甲斐
-  - [上田原](../Page/上田原.md "wikilink")：甲斐 - 信濃
+  - [三增峠](https://zh.wikipedia.org/wiki/三增峠 "wikilink")：武蔵 - 甲斐
+  - [入間川](https://zh.wikipedia.org/wiki/入間川 "wikilink")：武蔵 - 相模
+  - [伊豆沖](https://zh.wikipedia.org/wiki/伊豆 "wikilink")：相模 - 駿河
+  - [大井川](https://zh.wikipedia.org/wiki/大井川 "wikilink")：駿河 - 遠江
+  - [富士川](https://zh.wikipedia.org/wiki/富士川 "wikilink")：駿河 - 甲斐
+  - [上田原](https://zh.wikipedia.org/wiki/上田原 "wikilink")：甲斐 - 信濃
   - [木曾川](../Page/木曾川.md "wikilink")：信濃 - 美濃
-  - [長篠](../Page/長篠.md "wikilink")：信濃 - 遠江
-  - [三方原](../Page/三方原.md "wikilink")：遠江 - 三河
-  - [桶狹間](../Page/桶狹間.md "wikilink")：三河 - 尾張
+  - [長篠](https://zh.wikipedia.org/wiki/長篠 "wikilink")：信濃 - 遠江
+  - [三方原](https://zh.wikipedia.org/wiki/三方原 "wikilink")：遠江 - 三河
+  - [桶狹間](https://zh.wikipedia.org/wiki/桶狹間 "wikilink")：三河 - 尾張
   - [木曾川沖](../Page/木曾川.md "wikilink")：尾張 - 伊勢
-  - [小牧山](../Page/小牧山.md "wikilink")：尾張 - 美濃
-  - [姉川](../Page/姉川.md "wikilink")：美濃 - 越前
-  - [關原](../Page/關原.md "wikilink")：美濃 - 近江
-  - [手取川](../Page/手取川.md "wikilink")：越中 - 加賀
-  - [坂井平野](../Page/坂井平野.md "wikilink")：加賀 - 越前
-  - [賤岳](../Page/賤岳.md "wikilink")：越前 - 近江
+  - [小牧山](https://zh.wikipedia.org/wiki/小牧山 "wikilink")：尾張 - 美濃
+  - [姉川](https://zh.wikipedia.org/wiki/姉川 "wikilink")：美濃 - 越前
+  - [關原](https://zh.wikipedia.org/wiki/關原 "wikilink")：美濃 - 近江
+  - [手取川](https://zh.wikipedia.org/wiki/手取川 "wikilink")：越中 - 加賀
+  - [坂井平野](https://zh.wikipedia.org/wiki/坂井平野 "wikilink")：加賀 - 越前
+  - [賤岳](https://zh.wikipedia.org/wiki/賤岳 "wikilink")：越前 - 近江
   - [大津](../Page/大津市.md "wikilink")：近江 - 山城
-  - [甲賀](../Page/甲賀.md "wikilink")：近江 - 伊勢
-  - [鈴鹿峠](../Page/鈴鹿峠.md "wikilink")：伊勢 - 伊賀
-  - [笠置山](../Page/笠置山.md "wikilink")：伊賀 - 大和
-  - [宇治](../Page/宇治.md "wikilink")：大和 - 山城
-  - [金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")：大和 - 攝津和泉
+  - [甲賀](https://zh.wikipedia.org/wiki/甲賀 "wikilink")：近江 - 伊勢
+  - [鈴鹿峠](https://zh.wikipedia.org/wiki/鈴鹿峠 "wikilink")：伊勢 - 伊賀
+  - [笠置山](https://zh.wikipedia.org/wiki/笠置山 "wikilink")：伊賀 - 大和
+  - [宇治](https://zh.wikipedia.org/wiki/宇治 "wikilink")：大和 - 山城
+  - [金剛山](https://zh.wikipedia.org/wiki/金剛山_\(金剛山地\) "wikilink")：大和 -
+    攝津和泉
   - [吉野](../Page/吉野.md "wikilink")：大和 - 紀伊
-  - [田倉崎](../Page/田倉崎.md "wikilink")：攝津和泉 - 紀伊
+  - [田倉崎](https://zh.wikipedia.org/wiki/田倉崎 "wikilink")：攝津和泉 - 紀伊
   - [天王山](../Page/天王山.md "wikilink")：攝津和泉 - 山城
 
 #### 爭霸之章

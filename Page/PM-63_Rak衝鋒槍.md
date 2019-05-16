@@ -1,12 +1,12 @@
 [Pm-63_w_akcji.jpg](https://zh.wikipedia.org/wiki/File:Pm-63_w_akcji.jpg "fig:Pm-63_w_akcji.jpg")
 
 **PM-63 Rak**（wz. 63
-RAK）是[波蘭制造的小型](../Page/波蘭.md "wikilink")[衝鋒槍](../Page/衝鋒槍.md "wikilink")。
+RAK）是[波蘭制造的小型](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。
 
 ## 介紹
 
 PM-63
-Rak於1963年完成開發，主要用於個人防衛及150米內的近身戰鬥，發射，可選擇全自動或半自動（單發）射擊模式。主要提供於重型裝備士兵、[特種部隊](../Page/特種部隊.md "wikilink")、特種反恐部隊及警隊，並曾對華沙公約諸國進行出口。其特色在於具有類似一般手槍的[滑套設計並採用直接反衝式操作](../Page/手槍套筒.md "wikilink")，且為降低連射射速，在滑套後端設有一速率降低裝置。而其突出於槍枝前端的滑套部分可兼做槍口抑震器用，使得單手便可進行射擊準備，只要將滑套向後退，使槍機呈現開放狀態便可準備射擊。PM-63
+Rak於1963年完成開發，主要用於個人防衛及150米內的近身戰鬥，發射，可選擇全自動或半自動（單發）射擊模式。主要提供於重型裝備士兵、[特種部隊](../Page/特種部隊.md "wikilink")、特種反恐部隊及警隊，並曾對華沙公約諸國進行出口。其特色在於具有類似一般手槍的[滑套設計並採用直接反衝式操作](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，且為降低連射射速，在滑套後端設有一速率降低裝置。而其突出於槍枝前端的滑套部分可兼做槍口抑震器用，使得單手便可進行射擊準備，只要將滑套向後退，使槍機呈現開放狀態便可準備射擊。PM-63
 Rak在槍口下方設有折疊式握把，而扳機也附有重量極輕的[槍托](../Page/槍托.md "wikilink")。此槍扳機本身即為射擊模式切換器，扳機扣到一半時進行半自動射擊，全扣時則進行全自動連續射擊。握柄則兼作彈匣插座用，而彈匣有大型40發容量及短型25、15發容量三種。
 
 ## 缺点
@@ -29,7 +29,8 @@ PM63冲锋枪的外形尺寸和全枪质量体现了[個人防衛武器短小精
 
 PM-63 Rak有三种衍生型版本：
 
-  - PM-70—改為[9 x 19毫米口徑試驗型版本](../Page/9mm魯格彈.md "wikilink")
+  - PM-70—改為[9 x
+    19毫米口徑試驗型版本](https://zh.wikipedia.org/wiki/9mm魯格彈 "wikilink")
   - 滅音型版本—加裝滅音器
   - [82式衝鋒槍](../Page/82式衝鋒槍.md "wikilink")—
     [中國北方工業的仿製版本](../Page/中國.md "wikilink")
@@ -53,20 +54,20 @@ PM-63 Rak有三种衍生型版本：
   -
 ## 登場作品
 
-### [電影](../Page/電影.md "wikilink")
+### [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")
 
   - 1988年—《》（Rambo
-    III）：被[蘇聯軍隊的Zaysen上校拷問](../Page/蘇聯軍隊.md "wikilink")時所使用（沒有開火）。
+    III）：被[蘇聯軍隊的Zaysen上校拷問](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")時所使用（沒有開火）。
 
-### [電子遊戲](../Page/電子遊戲.md "wikilink")
+### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
   - 2010年—《[-{zh-hans:使命召唤：黑色行动;
     zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black
-    Ops）：命名為**PM63**，被歸類為[衝鋒槍](../Page/衝鋒槍.md "wikilink")，20發彈匣。故事模式中被[蘇聯軍隊](../Page/蘇聯軍隊.md "wikilink")（主要是[特種部隊](../Page/特種部隊.md "wikilink")）和丹尼爾·克拉克博士所使用。聯機模式時於等級29解鎖，可使用延長彈匣（增至30發）、[槍托](../Page/槍托.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、射速增加及[雙持](../Page/雙持.md "wikilink")。在殭屍模式中有一款稱為「東京和玫瑰」（Tokyo
+    Ops）：命名為**PM63**，被歸類為[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，20發彈匣。故事模式中被[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")（主要是[特種部隊](../Page/特種部隊.md "wikilink")）和丹尼爾·克拉克博士所使用。聯機模式時於等級29解鎖，可使用延長彈匣（增至30發）、[槍托](../Page/槍托.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、射速增加及[雙持](../Page/雙持.md "wikilink")。在殭屍模式中有一款稱為「東京和玫瑰」（Tokyo
     and Rose）的雙持改型。
 
-### [動畫](../Page/動畫.md "wikilink")
+### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
   - 2006年—《[-{zh-hans:黑礁;
     zh-hant:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》（Black
@@ -74,7 +75,7 @@ PM-63 Rak有三种衍生型版本：
 
 ## 參考
 
-  - [衝鋒槍](../Page/衝鋒槍.md "wikilink")
+  - [衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")
   - [PM-84 GLAUBERYT衝鋒槍](../Page/PM-84_GLAUBERYT衝鋒槍.md "wikilink")
 
 ## 參考文獻

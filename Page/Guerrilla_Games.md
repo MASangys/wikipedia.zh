@@ -1,11 +1,11 @@
 **Guerrilla
-Games**（有译为“游骑兵工作室”）是一家隸屬於[索尼互動娛樂的](../Page/索尼互動娛樂.md "wikilink")[荷蘭第一方遊戲開發商](../Page/荷蘭.md "wikilink")，曾為索尼電腦娛樂開發[殺戮地帶以及為](../Page/殺戮地帶.md "wikilink")[Eidos
-Interactive開發](../Page/Eidos_Interactive.md "wikilink")[越南1967](../Page/越南1967.md "wikilink")。
+Games**（有译为“游骑兵工作室”）是一家隸屬於[索尼互動娛樂的](../Page/索尼互動娛樂.md "wikilink")[荷蘭第一方遊戲開發商](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，曾為索尼電腦娛樂開發[殺戮地帶以及為](https://zh.wikipedia.org/wiki/殺戮地帶 "wikilink")[Eidos
+Interactive開發](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")[越南1967](https://zh.wikipedia.org/wiki/越南1967 "wikilink")。
 
 該公司原名為**Lost Boys Games**，是荷蘭多媒體公司Lost
 Boys的一部份，2003年7月以Guerrilla的名字重新開辦。Lost
 Boys Games在Lost
-Boys收購兩家有希望的[荷蘭遊戲開發商後組成](../Page/荷蘭.md "wikilink")，分別是由Arjan
+Boys收購兩家有希望的[荷蘭遊戲開發商後組成](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，分別是由Arjan
 Brussee創辦的Orangegames以及由Arnout van der Kamp創辦的Digital Infinity。
 
 Lost Boys公司曾經過數次兼併，根據推測不希望保留其遊戲分部，Lost Boys的創辦人Michiel
@@ -13,28 +13,29 @@ Mol將其歸入他新創立的媒體企業Media
 Republic中並將其重命名為Guerrilla Games。
 
 2004年Guerrilla
-Games與索尼電腦娛樂簽訂一個獨佔協議，在這個協議下Guerrilla將會專為[索尼的遊戲平台](../Page/索尼.md "wikilink")[PS2](../Page/PS2.md "wikilink")、[PS3](../Page/PS3.md "wikilink")、[PS4](../Page/PS4.md "wikilink")、[PSP與](../Page/PSP.md "wikilink")[PSVita等開發獨佔遊戲](../Page/PSVita.md "wikilink")。
+Games與索尼電腦娛樂簽訂一個獨佔協議，在這個協議下Guerrilla將會專為[索尼的遊戲平台](../Page/索尼.md "wikilink")[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSP與](https://zh.wikipedia.org/wiki/PSP "wikilink")[PSVita等開發獨佔遊戲](https://zh.wikipedia.org/wiki/PSVita "wikilink")。
 
 2005年12月索尼宣佈收購Guerrilla Games，Guerrilla
-Games將繼續開發[PlayStation遊戲機的獨佔遊戲](../Page/PlayStation.md "wikilink")。本次收購背後的財務細節並未提供。
+Games將繼續開發[PlayStation遊戲機的獨佔遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。本次收購背後的財務細節並未提供。
 \[1\]
 
 除了自身开发电子游戏软件以外，Guerrilla
-Games还有为索尼的其他工作室和游戏作品提供协助，例如[小岛秀夫的](../Page/小岛秀夫.md "wikilink")《[死亡搁浅](../Page/死亡搁浅.md "wikilink")》\[2\]
+Games还有为索尼的其他工作室和游戏作品提供协助，例如[小岛秀夫的](../Page/小岛秀夫.md "wikilink")《[死亡搁浅](https://zh.wikipedia.org/wiki/死亡搁浅 "wikilink")》\[2\]
 
 ## 公司作品
 
 ### Lost Boy Games时期開發的遊戲
 
   - [Tiny Toon Adventures: Dizzy's Candy
-    Quest](../Page/Tiny_Toon_Adventures:_Dizzy's_Candy_Quest.md "wikilink")（2001年）
+    Quest](https://zh.wikipedia.org/wiki/Tiny_Toon_Adventures:_Dizzy's_Candy_Quest "wikilink")（2001年）
     GBC
-  - [Rhino Rumble](../Page/Rhino_Rumble.md "wikilink")（2002年）
+  - [Rhino
+    Rumble](https://zh.wikipedia.org/wiki/Rhino_Rumble "wikilink")（2002年）
     GBC
   - [Black Belt
-    Challenge](../Page/Black_Belt_Challenge.md "wikilink")（2002年）
+    Challenge](https://zh.wikipedia.org/wiki/Black_Belt_Challenge "wikilink")（2002年）
     GBA
-  - [Invader](../Page/Invader.md "wikilink")（2002年）
+  - [Invader](https://zh.wikipedia.org/wiki/Invader "wikilink")（2002年）
     GBA
 
 ### Guerrilla Games时期開發的遊戲
@@ -55,18 +56,18 @@ Games还有为索尼的其他工作室和游戏作品提供协助，例如[小�
 <td><p>2004</p></td>
 <td><p><br />
 Shellshock: Nam '67</p></td>
-<td><p><a href="../Page/第三人称射击游戏.md" title="wikilink">第三人称射击</a></p></td>
-<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、<a href="../Page/Xbox.md" title="wikilink">Xbox</a>、<a href="../Page/Windows.md" title="wikilink">Windows</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第三人称射击游戏" title="wikilink">第三人称射击</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a>、<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a>、<a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a></p></td>
 <td><p><a href="../Page/Eidos.md" title="wikilink">Eidos</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><a href="../Page/殺戮地帶.md" title="wikilink">殺戮地帶</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/殺戮地帶" title="wikilink">殺戮地帶</a><br />
 Killzone</p></td>
 <td><p><a href="../Page/第一人称射击游戏.md" title="wikilink">第一人称射击</a></p></td>
 <td><p>PlayStation 2</p></td>
-<td><p><a href="../Page/索尼电脑娱乐.md" title="wikilink">索尼电脑娱乐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼电脑娱乐" title="wikilink">索尼电脑娱乐</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -89,7 +90,7 @@ Killzone 2</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="../Page/殺戮地帶3.md" title="wikilink">殺戮地帶3</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/殺戮地帶3" title="wikilink">殺戮地帶3</a><br />
 Killzone 3</p></td>
 <td><p>第一人称射击</p></td>
 <td><p>PlayStation 3</p></td>
@@ -116,7 +117,7 @@ Killzone Shadow Fall</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="../Page/地平線_黎明時分.md" title="wikilink">地平线：零之曙光</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/地平線_黎明時分" title="wikilink">地平线：零之曙光</a><br />
 Horizon Zero Dawn</p></td>
 <td><p><a href="../Page/動作角色扮演遊戲.md" title="wikilink">動作角色扮演</a></p></td>
 <td><p>PlayStation 4</p></td>
@@ -136,7 +137,8 @@ Guerrilla Games董事Hermen Hulst在PlayStation Experience
 
 ## 参见
 
-  - [Decima (游戏引擎)](../Page/Decima_\(游戏引擎\).md "wikilink")
+  - [Decima
+    (游戏引擎)](https://zh.wikipedia.org/wiki/Decima_\(游戏引擎\) "wikilink")
 
   - ，原为**Millennium Interactive Ltd.**，后改建为**SCEE
     Cambridge**，2012年成为Guerrilla Games分部门。

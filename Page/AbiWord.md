@@ -1,20 +1,20 @@
-**AbiWord**是一個以[GNU通用公共許可證授權的免費](../Page/GNU通用公共許可證.md "wikilink")[文書處理軟體](../Page/文書處理.md "wikilink")，名稱"AbiWord"是衍生自意謂開放的[西班牙語單詞](../Page/西班牙語.md "wikilink")"Abierto"；支援[Linux](../Page/Linux.md "wikilink")、[Mac
+**AbiWord**是一個以[GNU通用公共許可證授權的免費](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[文書處理軟體](https://zh.wikipedia.org/wiki/文書處理 "wikilink")，名稱"AbiWord"是衍生自意謂開放的[西班牙語單詞](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")"Abierto"；支援[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")（[PowerPC](../Page/PowerPC.md "wikilink")）、[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[ReactOS](../Page/ReactOS.md "wikilink")、[BeOS與其他](../Page/BeOS.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，但對每個作業系統的支援程度不同，如Linux版開發活躍；近期Mac
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（[PowerPC](../Page/PowerPC.md "wikilink")）、[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")、[BeOS與其他](../Page/BeOS.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，但對每個作業系統的支援程度不同，如Linux版開發活躍；近期Mac
 OS
-X版不能在最新機器上原生運行，不能正確地顯示字型；另有一個由[SkyOS創作者分發基於](../Page/SkyOS.md "wikilink")[GTK+](../Page/GTK+.md "wikilink")（Linux）的非官方移植版本。
+X版不能在最新機器上原生運行，不能正確地顯示字型；另有一個由[SkyOS創作者分發基於](../Page/SkyOS.md "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")（Linux）的非官方移植版本。
 
 抱怨Abiword不穩定，且損毀檔案。
 
-AbiWord最初由[SourceGear公司發起](../Page/SourceGear.md "wikilink")，是有意製作一套完整免費／開源[辦公軟體套裝的AbiSuite計劃的首個部件](../Page/辦公軟體套裝.md "wikilink")，但SourceGear逐漸轉移關注其他業務，AbiWord計劃現時由一群志願開發者管理。AbiWord是某程度上綜合的辦公室應用程式組合[GNOME
+AbiWord最初由[SourceGear公司發起](https://zh.wikipedia.org/wiki/SourceGear "wikilink")，是有意製作一套完整免費／開源[辦公軟體套裝的AbiSuite計劃的首個部件](https://zh.wikipedia.org/wiki/辦公軟體套裝 "wikilink")，但SourceGear逐漸轉移關注其他業務，AbiWord計劃現時由一群志願開發者管理。AbiWord是某程度上綜合的辦公室應用程式組合[GNOME
 Office的一部分](../Page/GNOME_Office.md "wikilink")。
 
 AbiWord擁有與[Microsoft
-Word相似的用戶界面](../Page/Microsoft_Word.md "wikilink")，讓新用戶可以輕易轉換。儘管其中有分別，AbiWord的開發者瞄準這實質上是該業務的標準[包圍再擴展](../Page/包圍再擴展.md "wikilink")。AbiWord的界面有意按照每個個別平台的用戶界面指導方針製作。
+Word相似的用戶界面](../Page/Microsoft_Word.md "wikilink")，讓新用戶可以輕易轉換。儘管其中有分別，AbiWord的開發者瞄準這實質上是該業務的標準[包圍再擴展](https://zh.wikipedia.org/wiki/包圍再擴展 "wikilink")。AbiWord的界面有意按照每個個別平台的用戶界面指導方針製作。
 
 AbiWord與數個輸入／輸出外掛程式一同包裝，包括了[Rich Text
-Format](../Page/RTF.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[OpenDocument與](../Page/OpenDocument.md "wikilink")[LaTeX](../Page/LaTeX.md "wikilink")（輸出），另有可處理許多其他格式的外掛程式，特別是WordPerfect（wpd）文件。AbiWord採用了[XML作為原生的](../Page/XML.md "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")，因此可減低涉及關於互通性以及數位典藏的[單一廠商束縛](../Page/單一廠商束縛.md "wikilink")。
+Format](../Page/RTF.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[OpenDocument與](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")（輸出），另有可處理許多其他格式的外掛程式，特別是WordPerfect（wpd）文件。AbiWord採用了[XML作為原生的](../Page/XML.md "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")，因此可減低涉及關於互通性以及數位典藏的[單一廠商束縛](https://zh.wikipedia.org/wiki/單一廠商束縛 "wikilink")。
 
 ## 特色
 
@@ -41,7 +41,7 @@ Abiword是以下作業系統／Linux发行版的預設文字處理器：
 ## 請參閱
 
   - [文字處理器列表](../Page/文字處理器列表.md "wikilink")
-  - [文字處理器比較](../Page/文字處理器比較.md "wikilink")
+  - [文字處理器比較](https://zh.wikipedia.org/wiki/文字處理器比較 "wikilink")
 
 ## 外部連結
 

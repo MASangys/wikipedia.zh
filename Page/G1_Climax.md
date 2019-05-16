@@ -1,5 +1,5 @@
 **G1 Climax**，簡稱**G1**（Grade
-1），是[新日本職業摔角公司所主辦的職業摔角大賽](../Page/新日本職業摔角.md "wikilink")，以「**真夏的祭典**」而廣為人知。賽程通常採取[單循環賽](../Page/循環賽.md "wikilink")，但偶而也會採用[單淘汰賽的方式](../Page/淘汰賽.md "wikilink")。循環賽制採記分的方式：勝者得兩分，平手各得一分，敗者算零分。循環賽裡決定最後優勝的方式還分有兩種，一種是各組取總分最高的前兩名然後再以單淘汰的方式決定優勝，另一種是直接取各組總分最高的兩位選手直接比出優勝。若有同分就先進行決定賽後再進行下一個階段的比賽。這大賽由原創者坂口征二於1991年8月7日第一次舉辦，之後都固定在每年8月上旬舉辦，決賽也都固定在[東京的](../Page/東京.md "wikilink")[兩國國技館舉行](../Page/兩國國技館.md "wikilink")。當初訂的優勝獎金是五百萬日圓，現在已調整為一千萬日圓。參加者不分重量級或次重量級，主要是決定出新日本職業摔角內最強的選手，而且外國人與其他團體的選手也可以參加。
+1），是[新日本職業摔角公司所主辦的職業摔角大賽](https://zh.wikipedia.org/wiki/新日本職業摔角 "wikilink")，以「**真夏的祭典**」而廣為人知。賽程通常採取[單循環賽](https://zh.wikipedia.org/wiki/循環賽 "wikilink")，但偶而也會採用[單淘汰賽的方式](https://zh.wikipedia.org/wiki/淘汰賽 "wikilink")。循環賽制採記分的方式：勝者得兩分，平手各得一分，敗者算零分。循環賽裡決定最後優勝的方式還分有兩種，一種是各組取總分最高的前兩名然後再以單淘汰的方式決定優勝，另一種是直接取各組總分最高的兩位選手直接比出優勝。若有同分就先進行決定賽後再進行下一個階段的比賽。這大賽由原創者坂口征二於1991年8月7日第一次舉辦，之後都固定在每年8月上旬舉辦，決賽也都固定在[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[兩國國技館舉行](../Page/兩國國技館.md "wikilink")。當初訂的優勝獎金是五百萬日圓，現在已調整為一千萬日圓。參加者不分重量級或次重量級，主要是決定出新日本職業摔角內最強的選手，而且外國人與其他團體的選手也可以參加。
 
 到目前為止，具有IWGP重量級王座身份而同時贏得G1
 Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[佐佐木健介兩人而已](../Page/佐佐木健介.md "wikilink")。目前最多優勝的記錄保持人為[蝶野正洋](../Page/蝶野正洋.md "wikilink")。
@@ -37,7 +37,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 </tr>
 <tr class="odd">
 <td><p>第3屆</p></td>
-<td><p><a href="../Page/藤波辰爾.md" title="wikilink">藤波辰爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤波辰爾" title="wikilink">藤波辰爾</a></p></td>
 <td><p><a href="../Page/馳浩.md" title="wikilink">馳浩</a></p></td>
 <td><p>1993年8月2-8日</p></td>
 <td><p>單淘汰賽（16人）</p></td>
@@ -61,7 +61,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 </tr>
 <tr class="even">
 <td><p>第6屆</p></td>
-<td><p><a href="../Page/長州力.md" title="wikilink">長州力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長州力" title="wikilink">長州力</a></p></td>
 <td><p>蝶野正洋</p></td>
 <td><p>1996年8月2-6日</p></td>
 <td><p>單循環賽（2組各6人）</p></td>
@@ -70,7 +70,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="odd">
 <td><p>第7屆</p></td>
 <td><p>佐佐木健介</p></td>
-<td><p><a href="../Page/天山廣吉.md" title="wikilink">天山廣吉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天山廣吉" title="wikilink">天山廣吉</a></p></td>
 <td><p>1997年8月1-3日</p></td>
 <td><p>單淘汰賽（14人）</p></td>
 <td><p>兩國國技館3連戰</p></td>
@@ -78,14 +78,14 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="even">
 <td><p>第8屆</p></td>
 <td><p>橋本真也</p></td>
-<td><p><a href="../Page/山崎一夫.md" title="wikilink">山崎一夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山崎一夫" title="wikilink">山崎一夫</a></p></td>
 <td><p>1998年7月31日－8月2日</p></td>
 <td><p>單淘汰賽（16人）</p></td>
 <td><p>橋本第8次出賽初次獲得優勝 兩國國技館3連戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>第9屆</p></td>
-<td><p><a href="../Page/中西學.md" title="wikilink">中西學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中西學" title="wikilink">中西學</a></p></td>
 <td><p>武藤敬司</p></td>
 <td><p>1999年8月10-15日</p></td>
 <td><p>單循環賽（2組各6人）</p></td>
@@ -101,7 +101,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 </tr>
 <tr class="odd">
 <td><p>第11屆</p></td>
-<td><p><a href="../Page/永田裕志.md" title="wikilink">永田裕志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永田裕志" title="wikilink">永田裕志</a></p></td>
 <td><p>武藤敬司</p></td>
 <td><p>2001年8月4-12日</p></td>
 <td><p>單循環賽（2組各6人）</p></td>
@@ -110,7 +110,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="even">
 <td><p>第12屆</p></td>
 <td><p>蝶野正洋</p></td>
-<td><p><a href="../Page/高山善廣.md" title="wikilink">高山善廣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高山善廣" title="wikilink">高山善廣</a></p></td>
 <td><p>2002年8月3-11日</p></td>
 <td><p>單循環賽（2組各6人）</p></td>
 <td><p>主題訂為新日本對戰外敵</p></td>
@@ -142,23 +142,23 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="even">
 <td><p>第16屆</p></td>
 <td><p>天山廣吉</p></td>
-<td><p><a href="../Page/小島聰.md" title="wikilink">小島聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小島聰" title="wikilink">小島聰</a></p></td>
 <td><p>2006年8月6-14日</p></td>
 <td><p>單循環賽（2組各5人）</p></td>
 <td><p>史上第二位取得全勝的優勝者(實質上是第一位)</p></td>
 </tr>
 <tr class="odd">
 <td><p>第17屆</p></td>
-<td><p><a href="../Page/棚橋弘至.md" title="wikilink">棚橋弘至</a></p></td>
-<td><p><a href="../Page/永田裕志.md" title="wikilink">永田裕志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/棚橋弘至" title="wikilink">棚橋弘至</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永田裕志" title="wikilink">永田裕志</a></p></td>
 <td><p>2007年8月5-12日</p></td>
 <td><p>單循環賽（2組各6人）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第18屆</p></td>
-<td><p><a href="../Page/後藤洋央紀.md" title="wikilink">後藤洋央紀</a></p></td>
-<td><p><a href="../Page/真壁刀義.md" title="wikilink">真壁刀義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/後藤洋央紀" title="wikilink">後藤洋央紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真壁刀義" title="wikilink">真壁刀義</a></p></td>
 <td><p>2008年8月9-17日</p></td>
 <td><p>單循環賽（2組各7人）</p></td>
 <td><p>後藤初出場初優勝</p></td>
@@ -166,7 +166,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="odd">
 <td><p>第19屆</p></td>
 <td><p>真壁刀義</p></td>
-<td><p><a href="../Page/中邑真輔.md" title="wikilink">中邑真輔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中邑真輔" title="wikilink">中邑真輔</a></p></td>
 <td><p>2009年8月7-16日</p></td>
 <td><p>單循環賽（2組各7人）</p></td>
 <td><p>每組各取前兩名進入交叉準決賽，優勝者進入決賽</p></td>
@@ -182,7 +182,7 @@ Climax優勝的也只有[武藤敬司與](../Page/武藤敬司.md "wikilink")[�
 <tr class="odd">
 <td><p>第21屆</p></td>
 <td><p>中邑真輔</p></td>
-<td><p><a href="../Page/內藤哲也.md" title="wikilink">內藤哲也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內藤哲也" title="wikilink">內藤哲也</a></p></td>
 <td><p>2011年8月1-14日</p></td>
 <td><p>單循環賽（2組各10人）</p></td>
 <td><p>中邑第8度出場後初次獲得優勝</p></td>

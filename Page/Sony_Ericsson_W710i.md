@@ -1,8 +1,9 @@
 **Sony Ericsson W710i**為[Sony
-Ericsson於](../Page/Sony_Ericsson.md "wikilink")2006年10月20日所推出的行動電話，內建200萬畫素相機。此機種除了強調W系列的音樂功能外。還是專為了運動家所設計的，與[Z710i為雙胞胎機](../Page/Sony_Ericsson_Z710i.md "wikilink")，而與[Nokia
-5500 Sport為競爭對手](../Page/Nokia_5500_Sport.md "wikilink")。
+Ericsson於](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")2006年10月20日所推出的行動電話，內建200萬畫素相機。此機種除了強調W系列的音樂功能外。還是專為了運動家所設計的，與[Z710i為雙胞胎機](https://zh.wikipedia.org/wiki/Sony_Ericsson_Z710i "wikilink")，而與[Nokia
+5500
+Sport為競爭對手](https://zh.wikipedia.org/wiki/Nokia_5500_Sport "wikilink")。
 
-W710i是[Walkman系列手機繼繼](../Page/Walkman.md "wikilink")[W300i後第二款摺疊機種](../Page/Sony_Ericsson_W300i.md "wikilink")，與[W700i的型號相近](../Page/Sony_Ericsson_W700i.md "wikilink")，會讓人誤以為是W700i的小改款，其實不是，W710i外觀走年輕運動風，連內建功能都以此為主。
+W710i是[Walkman系列手機繼繼](../Page/Walkman.md "wikilink")[W300i後第二款摺疊機種](https://zh.wikipedia.org/wiki/Sony_Ericsson_W300i "wikilink")，與[W700i的型號相近](https://zh.wikipedia.org/wiki/Sony_Ericsson_W700i "wikilink")，會讓人誤以為是W700i的小改款，其實不是，W710i外觀走年輕運動風，連內建功能都以此為主。
 
 ## 功能
 
@@ -39,10 +40,10 @@ W710i是[Walkman系列手機繼繼](../Page/Walkman.md "wikilink")[W300i後第�
   - USB 接駁線
   - PC 同步化
   - Java MIDP 2.0
-  - [facebook連結功能](../Page/facebook.md "wikilink")
+  - [facebook連結功能](https://zh.wikipedia.org/wiki/facebook "wikilink")
 
 ## 相關條目
 
-  - [索尼爱立信](../Page/索尼爱立信.md "wikilink")
+  - [索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")
 
 [Category:索尼愛立信手機](https://zh.wikipedia.org/wiki/Category:索尼愛立信手機 "wikilink")

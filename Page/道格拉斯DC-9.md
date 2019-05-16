@@ -1,8 +1,8 @@
-**DC-9**是[道格拉斯公司在](../Page/道格拉斯公司.md "wikilink")1960年代研發出來的雙渦輪引擎民航機，是為了與[波音727抗衡而製造的](../Page/波音727.md "wikilink")，短[航程](../Page/航程.md "wikilink")、單層、單走道。其最大的特點就是後掛式双[渦輪風扇发动机以及T型尾翼](../Page/渦輪風扇发动机.md "wikilink")（俗称“T尾”）。
+**DC-9**是[道格拉斯公司在](https://zh.wikipedia.org/wiki/道格拉斯公司 "wikilink")1960年代研發出來的雙渦輪引擎民航機，是為了與[波音727抗衡而製造的](../Page/波音727.md "wikilink")，短[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")、單層、單走道。其最大的特點就是後掛式双[渦輪風扇发动机以及T型尾翼](https://zh.wikipedia.org/wiki/渦輪風扇发动机 "wikilink")（俗称“T尾”）。
 
 此型飛機致命事故间隔为106.9万小时，為竞争对手[波音727的一半](../Page/波音727.md "wikilink")，属事故率较高的机型。
 
-后经大幅改良成为[MD-80及](../Page/MD-80.md "wikilink")[MD-90等系列的前身](../Page/MD-90.md "wikilink")，被波音收购后更名为[波音717](../Page/波音717.md "wikilink")。中国最新的支线飞机亦使用了其后续产品MD-80/90系列的机身模具，是中國當初與麥道合作的結果；当时上海试图与麦道公司合作生产MD-80/90，并已为其生产尾翼部件，后试图进一步为其生产机身并引进机身“夹具！”，但因麦道终被波音兼并而未能实现；目前[ARJ-21很多部分已經由中國自行生產](../Page/ARJ-21.md "wikilink")，仅尾翼、机身加压舱外壳为麦道原廠设计的续造，其它尚未从麦道引进的部分，从机翼到动力至航电均为与麦道合作中断后另行开发的成果，如机翼是与安东诺夫设计局合作全新研制的配有翼尖小帆的超临界机翼；整体上和DC系列仅是布局和外观相似。
+后经大幅改良成为[MD-80及](https://zh.wikipedia.org/wiki/MD-80 "wikilink")[MD-90等系列的前身](https://zh.wikipedia.org/wiki/MD-90 "wikilink")，被波音收购后更名为[波音717](../Page/波音717.md "wikilink")。中国最新的支线飞机亦使用了其后续产品MD-80/90系列的机身模具，是中國當初與麥道合作的結果；当时上海试图与麦道公司合作生产MD-80/90，并已为其生产尾翼部件，后试图进一步为其生产机身并引进机身“夹具！”，但因麦道终被波音兼并而未能实现；目前[ARJ-21很多部分已經由中國自行生產](https://zh.wikipedia.org/wiki/ARJ-21 "wikilink")，仅尾翼、机身加压舱外壳为麦道原廠设计的续造，其它尚未从麦道引进的部分，从机翼到动力至航电均为与麦道合作中断后另行开发的成果，如机翼是与安东诺夫设计局合作全新研制的配有翼尖小帆的超临界机翼；整体上和DC系列仅是布局和外观相似。
 
 ## 種類
 
@@ -62,7 +62,7 @@ DC-9-10型加長4.54米，是DC-9系列的生產最多的形號，總產量達�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/最大起飛重量.md" title="wikilink">最大起飛重量</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最大起飛重量" title="wikilink">最大起飛重量</a></p></td>
 <td><p>90,700磅<br />
 （41,100公斤）</p></td>
 <td><p>98,000磅<br />
@@ -125,7 +125,7 @@ DC-9-10型加長4.54米，是DC-9系列的生產最多的形號，總產量達�
 </tr>
 <tr class="odd">
 <td><p>發動機（2具）</p></td>
-<td><p><a href="../Page/普惠.md" title="wikilink">普惠JT</a>8D-5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/普惠" title="wikilink">普惠JT</a>8D-5</p></td>
 <td><p>普惠JT8D-9</p></td>
 <td><p>普惠JT8D-15</p></td>
 <td><p>普惠JT8D-17</p></td>

@@ -1,5 +1,5 @@
 **ZERO
-1**（****）為[光岡汽車所推出的仿古典作品車輛](../Page/光岡汽車.md "wikilink")。車輛設計以[蓮花汽車Super](../Page/蓮花汽車.md "wikilink")
+1**（****）為[光岡汽車所推出的仿古典作品車輛](../Page/光岡汽車.md "wikilink")。車輛設計以[蓮花汽車Super](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")
 Seven為藍本。
 
 ## 車輛歷史
@@ -15,13 +15,13 @@ ZERO 1（ゼロワン）為[光岡汽車批准成為汽車製造廠後](../Page/
 
 #### Classic TypeF
 
-即是參考最頂尖的[一級方程式賽車](../Page/一級方程式賽車.md "wikilink")（F1）的精神，取命名成「F」。早期年代，一級方程式賽車賽道上的英姿。
+即是參考最頂尖的[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")（F1）的精神，取命名成「F」。早期年代，一級方程式賽車賽道上的英姿。
 
 1994年，[光岡汽車創造的一個夢想](../Page/光岡汽車.md "wikilink")「ZERO 1」。然後，用「ZERO
 1」的熱情和技術的積累，創造「Classic TypeF」歸納成為「Zero1 Classic Type
 F」。我們具體表現出「靈魂的形式」（Appearance of Spirit for
 Dream），所暗藏的迷惑。車輛行駛的機能性和安全性，有著最好的平衡點，可說是「ZERO
-1」的基本理念。這裡，我們只參考最頂尖的[一級方程式賽車](../Page/一級方程式賽車.md "wikilink")。
+1」的基本理念。這裡，我們只參考最頂尖的[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")。
 
 因為，「Classic Type
 F」的設計，絕對沒有追求流行，沒有模仿過氣潮流，只付予了無形的熱情。雖然，車輛的視線像那樣新穎，但復古中不退潮流，也沒有硬派的力量外型，即是所謂『真正的美麗』。
@@ -32,7 +32,7 @@ F」的設計，絕對沒有追求流行，沒有模仿過氣潮流，只付予�
 
 1994年1月，原創車輛「ZERO
 1」（）發表。1994年度，限量販售99台。使用鋼管狀結構，形成高強度的車體，車身則以鋁合金及玻璃纖維製造。搭配直列4缸DOHC
-1600cc引擎與5MT變速箱，採用FR的驅動方式，全車淨重720kg。此車立刻引起古典作品車輛的狂熱愛好者收集，成為喜愛[Lotus](../Page/蓮花汽車.md "wikilink")
+1600cc引擎與5MT變速箱，採用FR的驅動方式，全車淨重720kg。此車立刻引起古典作品車輛的狂熱愛好者收集，成為喜愛[Lotus](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")
 Super Seven車輛的另一項選擇。
 
 1996年4月，停止生產。
@@ -57,7 +57,7 @@ F」。自此，正式成為一新型獨立車輛。使用鋼管狀結構，形�
 #### ZERO 1 RS（2002年）
 
 2002年，原創車輛「ZERO 1
-RS」（）發表。限量販售10台（扣除[光岡進收藏](../Page/光岡進.md "wikilink")1台，實際只銷售9台）\[2\]。使用鋼管狀結構，形成高強度的車體，車身則以鋁合金及玻璃纖維製造。增加真皮座椅、防滾籠、Sport避震器、BBS鋁圈，全車淨重700kg。
+RS」（）發表。限量販售10台（扣除[光岡進收藏](https://zh.wikipedia.org/wiki/光岡進 "wikilink")1台，實際只銷售9台）\[2\]。使用鋼管狀結構，形成高強度的車體，車身則以鋁合金及玻璃纖維製造。增加真皮座椅、防滾籠、Sport避震器、BBS鋁圈，全車淨重700kg。
 
 2002年，停止生產。
 
@@ -155,13 +155,14 @@ Prototype」（）。這是從很多位消費者的來信當中，提到再度�
 
 ### 原創車廠
 
-1957年，[Lotus車廠所推出的Super](../Page/蓮花汽車.md "wikilink") Seven車輛，為原創經典。
+1957年，[Lotus車廠所推出的Super](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")
+Seven車輛，為原創經典。
 
   - Lotus Super Seven（1957年－1970）
 
-1973年，[Lotus車廠正式將Super](../Page/蓮花汽車.md "wikilink")
+1973年，[Lotus車廠正式將Super](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")
 Seven的生產版權售予Caterham車廠。據說，Lotus出售Super
-Seven的生產版權時，附加條件之一是新公司的商標必須足夠獨特，不能和原創車廠[Lotus的相似](../Page/蓮花汽車.md "wikilink")，所以Caterham就把[Lotus的](../Page/蓮花汽車.md "wikilink")「正三角」商標反轉向下，變成「倒三角」，中間是一個大大的「7」，並改名稱為Caterham
+Seven的生產版權時，附加條件之一是新公司的商標必須足夠獨特，不能和原創車廠[Lotus的相似](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")，所以Caterham就把[Lotus的](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")「正三角」商標反轉向下，變成「倒三角」，中間是一個大大的「7」，並改名稱為Caterham
 7。至今，除了車輛名稱與機械結構略有些改變之外，基本外觀幾乎從未變更。目前，該車款仍持續生產當中。
 
   - Caterham 7（1973年－至今）

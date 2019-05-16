@@ -1,18 +1,18 @@
 **金鹰国际集团CBD案**
-是一條在[中國大陸發生的](../Page/中國大陸.md "wikilink")[商業](../Page/商業.md "wikilink")[騙案](../Page/行騙.md "wikilink")，涉案50億[人民幣](../Page/人民幣.md "wikilink")，被捕的自稱[香港商人](../Page/香港.md "wikilink")，[金鷹國際集團的](../Page/金鷹國際集團.md "wikilink")[主席](../Page/主席.md "wikilink")[鄭澤](../Page/鄭澤.md "wikilink")，[湖北](../Page/湖北.md "wikilink")[黃岡人](../Page/黃岡.md "wikilink")，於1980年代中起，在香港、[深圳](../Page/深圳.md "wikilink")、[上海等地](../Page/上海.md "wikilink")[投資](../Page/投資.md "wikilink")，開發[房地產](../Page/房地產.md "wikilink")。
+是一條在[中國大陸發生的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[騙案](https://zh.wikipedia.org/wiki/行騙 "wikilink")，涉案50億[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")，被捕的自稱[香港商人](../Page/香港.md "wikilink")，[金鷹國際集團的](https://zh.wikipedia.org/wiki/金鷹國際集團 "wikilink")[主席](../Page/主席.md "wikilink")[鄭澤](https://zh.wikipedia.org/wiki/鄭澤 "wikilink")，[湖北](https://zh.wikipedia.org/wiki/湖北 "wikilink")[黃岡人](https://zh.wikipedia.org/wiki/黃岡 "wikilink")，於1980年代中起，在香港、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[上海等地](https://zh.wikipedia.org/wiki/上海 "wikilink")[投資](https://zh.wikipedia.org/wiki/投資 "wikilink")，開發[房地產](https://zh.wikipedia.org/wiki/房地產 "wikilink")。
 
-案中主角自稱鄭澤，在2007年2月7日被[内蒙古自治区警方](../Page/内蒙古自治区.md "wikilink")[刑事拘留](../Page/刑事拘留.md "wikilink")，控以[非法集資](../Page/非法集資.md "wikilink")、行使假[身份証等罪名](../Page/身份証.md "wikilink")。
+案中主角自稱鄭澤，在2007年2月7日被[内蒙古自治区警方](../Page/内蒙古自治区.md "wikilink")[刑事拘留](https://zh.wikipedia.org/wiki/刑事拘留 "wikilink")，控以[非法集資](https://zh.wikipedia.org/wiki/非法集資 "wikilink")、行使假[身份証等罪名](https://zh.wikipedia.org/wiki/身份証 "wikilink")。
 [中國官方發現此騙徒原名是](../Page/中國.md "wikilink")**王細牛**，[湖北省](../Page/湖北省.md "wikilink")[孝感市隆感農場的](../Page/孝感市.md "wikilink")[農民戶](../Page/農民.md "wikilink")，曾當[木匠](../Page/木工.md "wikilink")。
 
-金鹰国际CBD項目是一個建築工程，計劃在內蒙古自治區[呼和浩特市建造一座最大的](../Page/呼和浩特市.md "wikilink")[商業中心區](../Page/商場.md "wikilink")，响應[中共中央的號召](../Page/中共中央.md "wikilink")[西部大開發](../Page/西部大開發.md "wikilink")，是中國西部第一高樓。案發前，在2005年4月，金鹰国际與市政府為工程簽約，呼和浩特市[政府炸掉舊市政府大樓及](../Page/政府.md "wikilink")[公安局指揮中心等建築](../Page/公安局.md "wikilink")，平地50多畝，為工程讓路，建[五星級](../Page/五星級.md "wikilink")[酒店](../Page/酒店.md "wikilink")、購物中心、甲級[寫字樓](../Page/寫字樓.md "wikilink")、高級[住宅等](../Page/住宅.md "wikilink")。案發後，項目成為[爛尾樓](../Page/爛尾樓.md "wikilink")。
+金鹰国际CBD項目是一個建築工程，計劃在內蒙古自治區[呼和浩特市建造一座最大的](../Page/呼和浩特市.md "wikilink")[商業中心區](../Page/商場.md "wikilink")，响應[中共中央的號召](https://zh.wikipedia.org/wiki/中共中央 "wikilink")[西部大開發](https://zh.wikipedia.org/wiki/西部大開發 "wikilink")，是中國西部第一高樓。案發前，在2005年4月，金鹰国际與市政府為工程簽約，呼和浩特市[政府炸掉舊市政府大樓及](../Page/政府.md "wikilink")[公安局指揮中心等建築](https://zh.wikipedia.org/wiki/公安局 "wikilink")，平地50多畝，為工程讓路，建[五星級](https://zh.wikipedia.org/wiki/五星級 "wikilink")[酒店](../Page/酒店.md "wikilink")、購物中心、甲級[寫字樓](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")、高級[住宅等](../Page/住宅.md "wikilink")。案發後，項目成為[爛尾樓](https://zh.wikipedia.org/wiki/爛尾樓 "wikilink")。
 
-鄭澤行騙的佈局：在香港註冊[公司](../Page/公司.md "wikilink")，自稱[港商](../Page/香港人.md "wikilink")。在中國[大西北辦商業考察](../Page/大西北.md "wikilink")，認識中國政商界人物，創立金鹰国际集團，又成立助學扶貧[基金](../Page/基金.md "wikilink")，受[中國內地傳媒歌頒](../Page/中國內地.md "wikilink")。在2004年，中國西部大開發五周年慶典中，獲「西部开发杰出贡献奖」。在2005年1月，[世界華商促進會中](../Page/世界華商促進會.md "wikilink")，獲授予「[愛國](../Page/愛國.md "wikilink")[企業家](../Page/企業家.md "wikilink")」和「傑出[愛國人士](../Page/愛國人士.md "wikilink")」榮譽。
-在[財技方面](../Page/財技.md "wikilink")，金鷹國際收取施工企業保証金四千多萬元，以及[承建商墊支三億元](../Page/承建商.md "wikilink")[人民幣](../Page/人民幣.md "wikilink")。可惜因為[現金流的](../Page/現金流.md "wikilink")[管理方面有問題](../Page/管理.md "wikilink")，騙局最後「爆煲」。
+鄭澤行騙的佈局：在香港註冊[公司](../Page/公司.md "wikilink")，自稱[港商](../Page/香港人.md "wikilink")。在中國[大西北辦商業考察](https://zh.wikipedia.org/wiki/大西北 "wikilink")，認識中國政商界人物，創立金鹰国际集團，又成立助學扶貧[基金](../Page/基金.md "wikilink")，受[中國內地傳媒歌頒](https://zh.wikipedia.org/wiki/中國內地 "wikilink")。在2004年，中國西部大開發五周年慶典中，獲「西部开发杰出贡献奖」。在2005年1月，[世界華商促進會中](https://zh.wikipedia.org/wiki/世界華商促進會 "wikilink")，獲授予「[愛國](https://zh.wikipedia.org/wiki/愛國 "wikilink")[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")」和「傑出[愛國人士](https://zh.wikipedia.org/wiki/愛國人士 "wikilink")」榮譽。
+在[財技方面](https://zh.wikipedia.org/wiki/財技 "wikilink")，金鷹國際收取施工企業保証金四千多萬元，以及[承建商墊支三億元](https://zh.wikipedia.org/wiki/承建商 "wikilink")[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")。可惜因為[現金流的](https://zh.wikipedia.org/wiki/現金流 "wikilink")[管理方面有問題](https://zh.wikipedia.org/wiki/管理 "wikilink")，騙局最後「爆煲」。
 
 ## 相關
 
   - [台灣電影](../Page/台灣電影.md "wikilink"):
-    《[假如我是真的](../Page/假如我是真的.md "wikilink")》，描寫中國大陸的一宗騙案，發生於文革之後，主角冒充高幹之子，得到上賓款待，最終東窗事發。
+    《[假如我是真的](https://zh.wikipedia.org/wiki/假如我是真的 "wikilink")》，描寫中國大陸的一宗騙案，發生於文革之後，主角冒充高幹之子，得到上賓款待，最終東窗事發。
 
 ## 外部参考
 

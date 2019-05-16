@@ -1,5 +1,5 @@
-**Suara**（），[日本女性歌手](../Page/日本.md "wikilink")，出生且出身於[大阪府](../Page/大阪府.md "wikilink")，母親出生於台灣基隆\[1\]。隷屬於[FIX
-Records](../Page/FIX_Records.md "wikilink")，由[Lantis製作及發行](../Page/Lantis.md "wikilink")。作詞及作曲時會使用本名**巽明子**。
+**Suara**（），[日本女性歌手](../Page/日本.md "wikilink")，出生且出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，母親出生於台灣基隆\[1\]。隷屬於[FIX
+Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis製作及發行](../Page/Lantis.md "wikilink")。作詞及作曲時會使用本名**巽明子**。
 
 在她的官网上提到，Suara是印度尼西亚语“声音”的意思。
 
@@ -38,7 +38,7 @@ Records](../Page/FIX_Records.md "wikilink")，由[Lantis製作及發行](../Page
 3.  **一番星**，2007年2月28日發售
 
     1.  一番星
-          - OVA《[ToHeart2](../Page/ToHeart2.md "wikilink")》片头曲
+          - OVA《[ToHeart2](https://zh.wikipedia.org/wiki/ToHeart2 "wikilink")》片头曲
     2.  I am
     3.  一番星（Instrumental）
     4.  I am（instrumental）
@@ -46,9 +46,11 @@ Records](../Page/FIX_Records.md "wikilink")，由[Lantis製作及發行](../Page
 4.  **BLUE／蕾-blue dreams-**，2007年10月24日發售
 
     1.  BLUE
-          - 电视动画《[BLUE DROP](../Page/BLUE_DROP.md "wikilink")》片头曲
+          - 电视动画《[BLUE
+            DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片头曲
     2.  蕾-blue dreams-
-          - 电视动画《[BLUE DROP](../Page/BLUE_DROP.md "wikilink")》片尾曲
+          - 电视动画《[BLUE
+            DROP](https://zh.wikipedia.org/wiki/BLUE_DROP "wikilink")》片尾曲
     3.  BLUE（Instrumental）
     4.  蕾-blue dreams-（Instrumental）
 
@@ -139,7 +141,7 @@ Records](../Page/FIX_Records.md "wikilink")，由[Lantis製作及發行](../Page
     9.
     10.
     11.
-    12. (「[傳頌之物](../Page/傳頌之物.md "wikilink")」最終ED)
+    12. (「[傳頌之物](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")」最終ED)
 
 3.  ，2008年8月27日發售
 

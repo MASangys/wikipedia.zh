@@ -1,15 +1,15 @@
 是[微软制作的一款用于](../Page/微软.md "wikilink")[Windows Server
-2003的免费附加](../Page/Windows_Server_2003.md "wikilink")（增值）软件，它提供基本的[门户网站和](../Page/门户网站.md "wikilink")[企业内网功能](../Page/企业内网.md "wikilink")。它包括由[web部件](../Page/web部件.md "wikilink")（由[ASP.NET开发](../Page/ASP.NET.md "wikilink")）组成的叫作[web
-部件页面的门户页面](../Page/web_部件页面.md "wikilink")、团队站点、文档库以及项目子站点，带有[版本控制的文档存储空间](../Page/版本控制.md "wikilink")、以及基本的搜索功能。它的前端是一个运行于[Internet
+2003的免费附加](../Page/Windows_Server_2003.md "wikilink")（增值）软件，它提供基本的[门户网站和](../Page/门户网站.md "wikilink")[企业内网功能](https://zh.wikipedia.org/wiki/企业内网 "wikilink")。它包括由[web部件](https://zh.wikipedia.org/wiki/web部件 "wikilink")（由[ASP.NET开发](../Page/ASP.NET.md "wikilink")）组成的叫作[web
+部件页面的门户页面](https://zh.wikipedia.org/wiki/web_部件页面 "wikilink")、团队站点、文档库以及项目子站点，带有[版本控制的文档存储空间](../Page/版本控制.md "wikilink")、以及基本的搜索功能。它的前端是一个运行于[Internet
 Information
-Services](../Page/Internet_Information_Services.md "wikilink")
-6.0之上的[ASP.NET](../Page/ASP.NET.md "wikilink")[网站](../Page/网站.md "wikilink")，后端由[SQL
-Server或者](../Page/Microsoft_SQL_Server.md "wikilink")[MSDE来存储数据](../Page/MSDE.md "wikilink")。
+Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")
+6.0之上的[ASP.NET](../Page/ASP.NET.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，后端由[SQL
+Server或者](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[MSDE来存储数据](https://zh.wikipedia.org/wiki/MSDE "wikilink")。
 
 Windows SharePoint Services同时也是[Microsoft Office SharePoint Portal
-Server和](../Page/Microsoft_Office_SharePoint_Portal_Server.md "wikilink")[Microsoft
+Server和](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")[Microsoft
 Office Project
-Server的基础](../Page/Microsoft_Office_Project_Server.md "wikilink")。Office
+Server的基础](https://zh.wikipedia.org/wiki/Microsoft_Office_Project_Server "wikilink")。Office
 SharePoint Portal Server是Windows SharePoint Services的企业版，并不像WSS一样是免费的。
 
 利用Windows SharePoint Services的Knowledgebase
@@ -18,11 +18,12 @@ Template，再配合SharePoint自身的文档管理和搜索引擎等功能，�
 ## 版本
 
   - 第一版，叫作SharePoint Team Services（通常缩写为STS），是和[Office
-    XP同时发布的](../Page/Office_XP.md "wikilink")，当时是[Microsoft
+    XP同时发布的](https://zh.wikipedia.org/wiki/Office_XP "wikilink")，当时是[Microsoft
     FrontPage的一部分](../Page/Microsoft_FrontPage.md "wikilink")。STS可以运行在[Windows
-    2000 Server和](../Page/Windows_2000_Server.md "wikilink")[Windows
+    2000
+    Server和](https://zh.wikipedia.org/wiki/Windows_2000_Server "wikilink")[Windows
     XP平台上](../Page/Windows_XP.md "wikilink")。它和[SharePoint Portal
-    Server](../Page/SharePoint_Portal_Server.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/SharePoint_Portal_Server "wikilink")
     2001的唯一相同之处是一些共用的图片和样式。
 
 <!-- end list -->
@@ -30,17 +31,18 @@ Template，再配合SharePoint自身的文档管理和搜索引擎等功能，�
   - Windows SharePoint Services 2.0的市场定位是对SharePoint Team
     Services的升级，但实际上它是一个完全重新设计的应用软件。最关键的不同之处是文件存储方式的差异，这一差异使它们成为两个完全不同的产品。SharePoint
     Team
-    Services使用常见的文件存储方式来存储文档，而只把文件[metadata存放在数据库里](../Page/metadata.md "wikilink")。而Windows
+    Services使用常见的文件存储方式来存储文档，而只把文件[metadata存放在数据库里](https://zh.wikipedia.org/wiki/metadata "wikilink")。而Windows
     SharePoint Services
-    2.0把文档本身和文档属性都存放在数据库里，并且在文档库里支持基本的文档[版本管理](../Page/版本.md "wikilink")。这一版本功能在STS里是没有的。WSS的Service
+    2.0把文档本身和文档属性都存放在数据库里，并且在文档库里支持基本的文档[版本管理](https://zh.wikipedia.org/wiki/版本 "wikilink")。这一版本功能在STS里是没有的。WSS的Service
     Pack 2增加对SQL Server 2005的支持，并且使用[.NET
-    Framework](../Page/.NET_Framework.md "wikilink") 2.0。
+    Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+    2.0。
 
 <!-- end list -->
 
   - Windows SharePoint Services 3.0是在2006年11月16日发布的，作为[Microsoft Office
     2007和](../Page/Microsoft_Office_2007.md "wikilink")[Windows Server
-    "Longhorn"的一部分](../Page/Windows_Server_"Longhorn".md "wikilink")。它包含许多新特性，比如支持手机页面，[RSS](../Page/RSS_\(文件格式\).md "wikilink")，[wiki和](../Page/wiki.md "wikilink")[博客](../Page/博客.md "wikilink")，支持第三方浏览器，以及改良许多的浏览功能。WSS
+    "Longhorn"的一部分](https://zh.wikipedia.org/wiki/Windows_Server_"Longhorn" "wikilink")。它包含许多新特性，比如支持手机页面，[RSS](https://zh.wikipedia.org/wiki/RSS_\(文件格式\) "wikilink")，[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，支持第三方浏览器，以及改良许多的浏览功能。WSS
     3.0是构建在.NET Framework 3.0之上的，它可以使用[Windows Workflow
     Foundation](../Page/Windows_Workflow_Foundation.md "wikilink")，这是.NET
     Framework 3.0（曾用名WinFX）的一个组件。
@@ -75,7 +77,7 @@ Enterprise 的全部功能，不受任何技术限制。
 
 ## SharePoint资源
 
-SharePoint资源包含一些工具可以让个人和组织扩展他们的知识，解决问题或者改善SharePoint的用户体验。使用最广泛的资源包括[webpart](../Page/webpart.md "wikilink")，面向SharePoint的[blog](../Page/blog.md "wikilink")，在线出版物，目录以及Sharepoint贸易展等。
+SharePoint资源包含一些工具可以让个人和组织扩展他们的知识，解决问题或者改善SharePoint的用户体验。使用最广泛的资源包括[webpart](https://zh.wikipedia.org/wiki/webpart "wikilink")，面向SharePoint的[blog](https://zh.wikipedia.org/wiki/blog "wikilink")，在线出版物，目录以及Sharepoint贸易展等。
 
 SharePoint本身是[微软产品家族的一部分](../Page/微软.md "wikilink")，它可被分成两条主要的产品线。
 
@@ -83,7 +85,7 @@ Windows SharePoint Services
 (WSS)是SharePoint的最基本产品，它是完全免费的。它已在世界范围内的商业团体所采用，因为它与生俱来的能力可以推动不同的商业团体包括合作伙伴、客户以及供应商之间的协作。WSS使用户能够创建可被整个组织访问的工作站点。
 
 [Microsoft Office SharePoint Portal
-Server](../Page/Microsoft_Office_SharePoint_Portal_Server.md "wikilink")
+Server](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")
 2003是SharePoint的企业版
 [（最少购买5个许可）](https://web.archive.org/web/20070104054859/http://www.microsoft.com/office/sharepoint/howtobuy/default.mspx#E5/)，是按照对WSS的升级来设计的。SPS
 2003是一个门户网站，它使得用户可以根据业务流程联系到其他用户，小组以及信息。SharePoint Portal Server

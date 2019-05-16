@@ -1,24 +1,27 @@
-**KVLY 電視塔**（[英語](../Page/英語.md "wikilink")：**KVLY-TV mast**），前身為
-**KTHI電視塔**（[英語](../Page/英語.md "wikilink")：**KTHI-TV
-mast**）是一個在[美國](../Page/美國.md "wikilink")[北達科塔州](../Page/北達科塔州.md "wikilink")[特雷尔郡的電視傳送塔](../Page/特雷尔县_\(北达科他州\).md "wikilink")，使用[北達科塔州](../Page/北達科塔州.md "wikilink")[法戈](../Page/法戈_\(北达科他州\).md "wikilink")[KVLY第](../Page/KVLY-TV.md "wikilink")
+**KVLY 電視塔**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**KVLY-TV
+mast**），前身為
+**KTHI電視塔**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**KTHI-TV
+mast**）是一個在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[北達科塔州](https://zh.wikipedia.org/wiki/北達科塔州 "wikilink")[特雷尔郡的電視傳送塔](https://zh.wikipedia.org/wiki/特雷尔县_\(北达科他州\) "wikilink")，使用[北達科塔州](https://zh.wikipedia.org/wiki/北達科塔州 "wikilink")[法戈](../Page/法戈_\(北达科他州\).md "wikilink")[KVLY第](https://zh.wikipedia.org/wiki/KVLY-TV "wikilink")
 11 號頻道。電視塔高 628.8
-米，曾是全世界由地面上算起最高的人造建構物（1963年－1974年，1991年－2008年），塔中有[升降機可以直達塔尖](../Page/升降機.md "wikilink")。
+米，曾是全世界由地面上算起最高的人造建構物（1963年－1974年，1991年－2008年），塔中有[升降機可以直達塔尖](https://zh.wikipedia.org/wiki/升降機 "wikilink")。
 
 ## 簡介
 
-這電視塔距離[布蘭切特西邊約](../Page/布蘭切特.md "wikilink") 3
-里，約在[佛哥及](../Page/佛哥.md "wikilink")[大福克斯兩地的中間](../Page/大福克斯_\(北達科他州\).md "wikilink")。它在1963年建成的時候曾是世界最高的人造結構，但在1974年，[華沙電台廣播塔建成](../Page/華沙電台廣播塔.md "wikilink")，以
+這電視塔距離[布蘭切特西邊約](https://zh.wikipedia.org/wiki/布蘭切特 "wikilink") 3
+里，約在[佛哥及](https://zh.wikipedia.org/wiki/佛哥 "wikilink")[大福克斯兩地的中間](https://zh.wikipedia.org/wiki/大福克斯_\(北達科他州\) "wikilink")。它在1963年建成的時候曾是世界最高的人造結構，但在1974年，[華沙電台廣播塔建成](../Page/華沙電台廣播塔.md "wikilink")，以
 18
-米高度之距成為世界第一；可是它在1991年倒塌，而美國的KVLY塔則重新奪回首位，直至2008年被[阿拉伯聯合酋長國](../Page/阿拉伯聯合酋長國.md "wikilink")[迪拜的](../Page/迪拜.md "wikilink")[哈利法塔](../Page/哈利法塔.md "wikilink")（當時
+米高度之距成為世界第一；可是它在1991年倒塌，而美國的KVLY塔則重新奪回首位，直至2008年被[阿拉伯聯合酋長國](https://zh.wikipedia.org/wiki/阿拉伯聯合酋長國 "wikilink")[迪拜的](https://zh.wikipedia.org/wiki/迪拜 "wikilink")[哈利法塔](https://zh.wikipedia.org/wiki/哈利法塔 "wikilink")（當時
 629 米，建成後為 828 米）取代。
 
-該塔是由[漢密爾頓監督所及](../Page/漢密爾頓監督所.md "wikilink")[克萊恩鋼鐵公司興建](../Page/克萊恩鋼鐵公司.md "wikilink")，用了
+該塔是由[漢密爾頓監督所及](https://zh.wikipedia.org/wiki/漢密爾頓監督所 "wikilink")[克萊恩鋼鐵公司興建](https://zh.wikipedia.org/wiki/克萊恩鋼鐵公司 "wikilink")，用了
 30 天完成，而當時的造價則為 $500,000 美元（換算為現在的 $320 萬美元）。
 
-該塔現在是由[俾斯麥市北達科塔電視台所擁有](../Page/俾斯麥_\(北達科塔州\).md "wikilink")，用以播放[KVLY第](../Page/KVLY.md "wikilink")
-11 頻道；它的播放功率為 316 [千瓦](../Page/千瓦.md "wikilink")，廣播範圍則約 78,000 平方公里。
+該塔現在是由[俾斯麥市北達科塔電視台所擁有](../Page/俾斯麥_\(北達科塔州\).md "wikilink")，用以播放[KVLY第](https://zh.wikipedia.org/wiki/KVLY "wikilink")
+11 頻道；它的播放功率為 316
+[千瓦](https://zh.wikipedia.org/wiki/千瓦 "wikilink")，廣播範圍則約
+78,000 平方公里。
 
-在該塔完成一段時間後，[聯邦航空管理局以塔的高度](../Page/聯邦航空管理局.md "wikilink")（628.8米）作為日後天线塔高度的一般限制\[1\]。
+在該塔完成一段時間後，[聯邦航空管理局以塔的高度](https://zh.wikipedia.org/wiki/聯邦航空管理局 "wikilink")（628.8米）作為日後天线塔高度的一般限制\[1\]。
 
 ## 参见
 

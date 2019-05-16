@@ -1,10 +1,10 @@
-**TrueVision3D**是一个[商业的](../Page/商业.md "wikilink")3D[遊戲引擎](../Page/遊戲引擎.md "wikilink")，由Sylvain
+**TrueVision3D**是一个[商业的](../Page/商业.md "wikilink")3D[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，由Sylvain
 Dupont 在 1999年开发。
 
 TrueVision3D
-引擎完全由[C++编写](../Page/C++.md "wikilink")，以[Microsoft](../Page/Microsoft.md "wikilink")
+引擎完全由[C++编写](../Page/C++.md "wikilink")，以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 [DirectX](../Page/DirectX.md "wikilink")
-[API为底层](../Page/API.md "wikilink")，当前版本支持[DirectX](../Page/DirectX.md "wikilink")
+[API为底层](https://zh.wikipedia.org/wiki/API "wikilink")，当前版本支持[DirectX](../Page/DirectX.md "wikilink")
 9.该引擎可以被多种编程语言使用：[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[Visual
 Basic](../Page/Visual_Basic.md "wikilink")（6以及
 .NET）等。当前的发布版本为6.2，6.5版还在开发中。

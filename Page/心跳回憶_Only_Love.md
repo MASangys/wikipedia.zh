@@ -1,5 +1,5 @@
 《**心跳回憶 Only
-Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wikilink")、[東京電視台自](../Page/東京電視台.md "wikilink")2006年10月2日到2007年3月26日播放的[日本電視動畫](../Page/日本電視動畫.md "wikilink")，以科樂美數位娛樂在[日本國內營運的](../Page/日本.md "wikilink")[網路遊戲](../Page/網路遊戲.md "wikilink")《[心跳回憶Online](../Page/心跳回憶Online.md "wikilink")》裡的[世界觀為基礎而製作](../Page/世界觀.md "wikilink")。
+Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wikilink")、[東京電視台自](../Page/東京電視台.md "wikilink")2006年10月2日到2007年3月26日播放的[日本電視動畫](../Page/日本電視動畫.md "wikilink")，以科樂美數位娛樂在[日本國內營運的](../Page/日本.md "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")《[心跳回憶Online](https://zh.wikipedia.org/wiki/心跳回憶Online "wikilink")》裡的[世界觀為基礎而製作](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
 
 ## 故事簡介
 
@@ -11,12 +11,12 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 
   -
     主要主角，動畫版原創人物暨Only
-    Love劇情視點人物，紡野高中二年A班學生。從東北深雪的港口轉到紡野高中。因為父母工作的關係，國小定居在[福岡縣](../Page/福岡縣.md "wikilink")，國中定居在[北海道](../Page/北海道.md "wikilink")；在這期間還輾轉搬到全國各地。本人只希望過幸福的生活，卻經常被捲進學生會的活動裡。沒有特別拿手的技術，不過逃跑的速度卻是出乎意料的快。不知道為什麼，還能聽懂小雞說的話。因為能夠與小百合一起工作的關係，還參加了幾乎是在做打雜工作的文化祭實行委員。不過因為A班後來在[文化祭開設的鬼屋相當地成功](../Page/文化祭.md "wikilink")，也使得他一下子變成校園內的紅人。
+    Love劇情視點人物，紡野高中二年A班學生。從東北深雪的港口轉到紡野高中。因為父母工作的關係，國小定居在[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，國中定居在[北海道](../Page/北海道.md "wikilink")；在這期間還輾轉搬到全國各地。本人只希望過幸福的生活，卻經常被捲進學生會的活動裡。沒有特別拿手的技術，不過逃跑的速度卻是出乎意料的快。不知道為什麼，還能聽懂小雞說的話。因為能夠與小百合一起工作的關係，還參加了幾乎是在做打雜工作的文化祭實行委員。不過因為A班後來在[文化祭開設的鬼屋相當地成功](../Page/文化祭.md "wikilink")，也使得他一下子變成校園內的紅人。
 
 <!-- end list -->
 
   -
-    女主角之一，紡野高中二年A班學生。16歲、A型、9月17日出生。身高162cm、體重46kg。有著端莊的容貌、優秀的成績加上運動全能以及擅長料理的特質。對其他人總是非常的溫柔，同時也非常照顧班上的同學。在學校內，喜歡小百合的男學生們組成了一個人數眾多的親衛隊；這些親衛隊們為了突顯小百合的特質，便開始到處宣傳所謂的「天宮小百合傳說」，其中大部分的故事都是經過誇飾過甚至是根本就不存在的。在文化祭的時候，受到綜合演劇部的邀請，演出意外的成功。後來慢慢喜歡上青葉陸，在第26話和陸成為情侶。在家裡養了一隻名為「エル」的[狗](../Page/狗.md "wikilink")。
+    女主角之一，紡野高中二年A班學生。16歲、A型、9月17日出生。身高162cm、體重46kg。有著端莊的容貌、優秀的成績加上運動全能以及擅長料理的特質。對其他人總是非常的溫柔，同時也非常照顧班上的同學。在學校內，喜歡小百合的男學生們組成了一個人數眾多的親衛隊；這些親衛隊們為了突顯小百合的特質，便開始到處宣傳所謂的「天宮小百合傳說」，其中大部分的故事都是經過誇飾過甚至是根本就不存在的。在文化祭的時候，受到綜合演劇部的邀請，演出意外的成功。後來慢慢喜歡上青葉陸，在第26話和陸成為情侶。在家裡養了一隻名為「エル」的[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")。
 
 <!-- end list -->
 
@@ -26,7 +26,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    女主角之一，紡野高中二年B班學生。高中二年級B班。16歲、O型、11月25日出生。身高157cm、體重45kg。參加[女子排球社的她](../Page/女子排球.md "wikilink")，做什麼事情都很積極，總是夢想著能有命運般的相遇。在某日上學時與陸撞個正著，她相信這是命運的相遇，之後便積極的追求陸。在料理的方面相當不拿手，她做的便當經常使身邊的人受害。故事尾聲時，即將畢業的女子排球社主將大珠裕美把主將職位交給了她。男友是青葉陸(自稱)，兩人最後分手了。
+    女主角之一，紡野高中二年B班學生。高中二年級B班。16歲、O型、11月25日出生。身高157cm、體重45kg。參加[女子排球社的她](https://zh.wikipedia.org/wiki/女子排球 "wikilink")，做什麼事情都很積極，總是夢想著能有命運般的相遇。在某日上學時與陸撞個正著，她相信這是命運的相遇，之後便積極的追求陸。在料理的方面相當不拿手，她做的便當經常使身邊的人受害。故事尾聲時，即將畢業的女子排球社主將大珠裕美把主將職位交給了她。男友是青葉陸(自稱)，兩人最後分手了。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 ### 其他角色
 
   -
-    紡野高中飼育小屋飼養的小雞，戰鬥力極高，是《心跳回憶Online》的[吉祥物](../Page/吉祥物.md "wikilink")。
+    紡野高中飼育小屋飼養的小雞，戰鬥力極高，是《心跳回憶Online》的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。
 
 <!-- end list -->
 
@@ -76,12 +76,12 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    紡野高中家政老師，[眼鏡娘](../Page/眼鏡娘.md "wikilink")。
+    紡野高中家政老師，[眼鏡娘](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")。
 
 <!-- end list -->
 
   -
-    紡野高中化學老師，埋首於研究與實驗的瘋狂[科學家](../Page/科學家.md "wikilink")。
+    紡野高中化學老師，埋首於研究與實驗的瘋狂[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")。
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    紡野高中體育老師，以嚴苛方式教育學生，經常穿著[襯衫](../Page/襯衫.md "wikilink")、手持[竹刀](../Page/竹刀.md "wikilink")，被學生稱為「紅魔鬼老師」。
+    紡野高中體育老師，以嚴苛方式教育學生，經常穿著[襯衫](https://zh.wikipedia.org/wiki/襯衫 "wikilink")、手持[竹刀](https://zh.wikipedia.org/wiki/竹刀 "wikilink")，被學生稱為「紅魔鬼老師」。
 
 <!-- end list -->
 
@@ -121,12 +121,12 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    紡野高中[焚化爐的女神](../Page/焚化爐.md "wikilink")。
+    紡野高中[焚化爐的女神](https://zh.wikipedia.org/wiki/焚化爐 "wikilink")。
 
 <!-- end list -->
 
   -
-    [日本偶像](../Page/日本偶像.md "wikilink")，出生於福岡縣，於第14話登場，是陸的青梅竹馬。
+    [日本偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，出生於福岡縣，於第14話登場，是陸的青梅竹馬。
 
 <!-- end list -->
 
@@ -159,11 +159,11 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    作詞：[黒須チヒロ](../Page/黒須チヒロ.md "wikilink")
+    作詞：[黒須チヒロ](https://zh.wikipedia.org/wiki/黒須チヒロ "wikilink")
 
-    作曲：[渡邊拓也](../Page/渡邊拓也.md "wikilink")
+    作曲：[渡邊拓也](https://zh.wikipedia.org/wiki/渡邊拓也 "wikilink")
 
-    編曲：[m-takeshi](../Page/m-takeshi.md "wikilink")
+    編曲：[m-takeshi](https://zh.wikipedia.org/wiki/m-takeshi "wikilink")
 
     歌：天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）
 
@@ -176,10 +176,10 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    作詞：[渡邊亞希子](../Page/渡邊亞希子.md "wikilink")
-    作曲：[小松一也](../Page/小松一也.md "wikilink")
-    編曲：[中西亮輔](../Page/中西亮輔.md "wikilink")
-    歌：天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）、春日司（[吉川友佳子](../Page/吉川友佳子.md "wikilink")）、彌生水奈（[藤田咲](../Page/藤田咲.md "wikilink")）
+    作詞：[渡邊亞希子](https://zh.wikipedia.org/wiki/渡邊亞希子 "wikilink")
+    作曲：[小松一也](https://zh.wikipedia.org/wiki/小松一也 "wikilink")
+    編曲：[中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink")
+    歌：天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）、春日司（[吉川友佳子](https://zh.wikipedia.org/wiki/吉川友佳子 "wikilink")）、彌生水奈（[藤田咲](../Page/藤田咲.md "wikilink")）
 
 <!-- end list -->
 
@@ -188,10 +188,10 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <!-- end list -->
 
   -
-    作詞：[黒須チヒロ](../Page/黒須チヒロ.md "wikilink")
-    作曲：[上原武](../Page/上原武.md "wikilink")
-    編曲：[松井寬](../Page/松井寬.md "wikilink")
-    歌：天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）、春日司（[吉川友佳子](../Page/吉川友佳子.md "wikilink")）、彌生水奈（[藤田咲](../Page/藤田咲.md "wikilink")）
+    作詞：[黒須チヒロ](https://zh.wikipedia.org/wiki/黒須チヒロ "wikilink")
+    作曲：[上原武](https://zh.wikipedia.org/wiki/上原武 "wikilink")
+    編曲：[松井寬](https://zh.wikipedia.org/wiki/松井寬 "wikilink")
+    歌：天宮小百合（[牧島有希](../Page/牧島有希.md "wikilink")）、春日司（[吉川友佳子](https://zh.wikipedia.org/wiki/吉川友佳子 "wikilink")）、彌生水奈（[藤田咲](../Page/藤田咲.md "wikilink")）
 
 ## 各話標題
 
@@ -200,10 +200,10 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/腳本.md" title="wikilink">腳本</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/腳本" title="wikilink">腳本</a></p></th>
 <th><p><a href="../Page/分鏡.md" title="wikilink">分鏡</a></p></th>
 <th><p>演出</p></th>
-<th><p><a href="../Page/作畫監督.md" title="wikilink">作畫監督</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/作畫監督" title="wikilink">作畫監督</a></p></th>
 <th><p>總作畫監督</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -214,7 +214,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <td><p>心跳的相遇<br />
 （）</p></td>
 <td><p>渡邊陽</p></td>
-<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
 <td><p>永田正美</p></td>
 <td><p>中原清隆</p></td>
 <td></td>
@@ -362,7 +362,7 @@ Love**》是[科樂美數位娛樂製作](../Page/科樂美數位娛樂.md "wiki
 <td><p>やのよしたか</p></td>
 <td><p>中村主水</p></td>
 <td><p>長村伸治</p></td>
-<td><p><a href="../Page/渡邊浩二.md" title="wikilink">渡邊浩二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊浩二" title="wikilink">渡邊浩二</a></p></td>
 <td><p>中原清隆<br />
 永田正美</p></td>
 <td></td>

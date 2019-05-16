@@ -1,8 +1,8 @@
-**ESET**（）是一家世界知名的[電腦安全軟體公司](../Page/電腦安全.md "wikilink")，創立於1992年，由兩家[私有公司合併而成](../Page/私有公司.md "wikilink")，總部位於[斯洛伐克](../Page/斯洛伐克.md "wikilink")[布拉迪斯拉發](../Page/布拉迪斯拉發.md "wikilink")\[1\]，最知名的產品為[NOD32](../Page/NOD32.md "wikilink")[防毒軟體](../Page/防毒軟體.md "wikilink")。
+**ESET**（）是一家世界知名的[電腦安全軟體公司](https://zh.wikipedia.org/wiki/電腦安全 "wikilink")，創立於1992年，由兩家[私有公司合併而成](https://zh.wikipedia.org/wiki/私有公司 "wikilink")，總部位於[斯洛伐克](../Page/斯洛伐克.md "wikilink")[布拉迪斯拉發](https://zh.wikipedia.org/wiki/布拉迪斯拉發 "wikilink")\[1\]，最知名的產品為[NOD32](https://zh.wikipedia.org/wiki/NOD32 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。
 
 ## 歷史
 
-2010年12月，ESET宣布[理查德·馬爾科被任命為CEO](../Page/理查德·馬爾科.md "wikilink")，[米蘭馬薩里克為首席財務官](../Page/米蘭馬薩里克.md "wikilink")，[帕沃爾·盧卡擔任CTO](../Page/帕沃爾·盧卡.md "wikilink")，尤拉伊Malcho為首席研究官。\[2\]
+2010年12月，ESET宣布[理查德·馬爾科被任命為CEO](https://zh.wikipedia.org/wiki/理查德·馬爾科 "wikilink")，[米蘭馬薩里克為首席財務官](https://zh.wikipedia.org/wiki/米蘭馬薩里克 "wikilink")，[帕沃爾·盧卡擔任CTO](https://zh.wikipedia.org/wiki/帕沃爾·盧卡 "wikilink")，尤拉伊Malcho為首席研究官。\[2\]
 
 ## 技術
 
@@ -13,7 +13,7 @@ NOD32殺毒軟件在查找到可能被感染了病毒的文件時，如果該文
 NOD32會將該檔隔離到一個安全的資料夾中進行保存，存儲到該檔夾中的檔是無法被執行的，從而保證該文件不會繼續危害到系統的安全。等你能夠確定該檔的安全性後，就可以在隔離區中選擇刪除該檔或是還原後重新使用。
 
 ESET NOD32為用戶提供了相當細緻的病毒隔離設置，可以方便用戶更加靈活的使用該功能。打開ESET
-NOD32的病毒掃瞄窗口，點擊「操作」選項，可以看到它針對「檔案」、「壓縮檔」、「自動解壓縮檔案」、「[加殼程序](../Page/加殼壓縮.md "wikilink")」和「電子郵件」檔都提供了「複製到隔離區」的選項，若每項都勾選中它，ESET
+NOD32的病毒掃瞄窗口，點擊「操作」選項，可以看到它針對「檔案」、「壓縮檔」、「自動解壓縮檔案」、「[加殼程序](https://zh.wikipedia.org/wiki/加殼壓縮 "wikilink")」和「電子郵件」檔都提供了「複製到隔離區」的選項，若每項都勾選中它，ESET
 NOD32就會在執行檢查操作時，自動將病毒文件複製到隔離區中備份保存。但一般情況下，建議只點選「通知用戶選擇操作」選框即可，這樣每次查看病毒文件時，你都可以在彈出的提示框中有選擇的將檔案進行隔離。
 
 ESET NOD32預設的病毒隔離區路徑是「C:Program
@@ -33,13 +33,13 @@ ESET家用電腦防毒軟體產品列表如下\[3\]：
 
 ### 單機及多用戶
 
-[Windows](../Page/Windows.md "wikilink")：
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")：
 
   - ESET Smart Security Premium
   - ESET Internet Security
   - ESET NOD32 Antivirus
 
-[Mac](../Page/Mac.md "wikilink")：
+[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")：
 
   - ESET Cyber Security Pro
   - ESET Cyber Security
@@ -48,12 +48,13 @@ ESET家用電腦防毒軟體產品列表如下\[3\]：
 
   - ESET NOD32 Antivirus 4 for Linux Desktop 桌上電腦版本
 
-[行動裝置](../Page/行動裝置.md "wikilink")：
+[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")：
 
   - ESET Mobile Security for [Android](../Page/Android.md "wikilink")
   - ESET Mobile Security for [Windows
     Mobile](../Page/Windows_Mobile.md "wikilink")
-  - ESET Mobile Security for [Symbian](../Page/Symbian.md "wikilink")
+  - ESET Mobile Security for
+    [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
 
 ### 簡介
 
@@ -61,7 +62,7 @@ ESET是少數有為旗下產品推出32位元和64位元版本的電腦保安公
 
 ## 關連項目
 
-  - [ESET NOD32](../Page/ESET_NOD32.md "wikilink")
+  - [ESET NOD32](https://zh.wikipedia.org/wiki/ESET_NOD32 "wikilink")
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **-{GUNDAM}-
-WAR**（，[台灣](../Page/台灣.md "wikilink")[尖端出版譯為](../Page/尖端出版.md "wikilink")「-{鋼彈}-大戰」，一般口語簡稱為「GW」），是一種集換式卡片，內容是以歷代的[GUNDAM作品為主軸](../Page/GUNDAM系列作品.md "wikilink")。而**-{GUNDAM}-
+WAR**（，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版譯為](../Page/尖端出版.md "wikilink")「-{鋼彈}-大戰」，一般口語簡稱為「GW」），是一種集換式卡片，內容是以歷代的[GUNDAM作品為主軸](../Page/GUNDAM系列作品.md "wikilink")。而**-{GUNDAM}-
 WAR**是Carddas旗下的商品之一。
 
 ## 概要
@@ -28,9 +28,9 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
 目前，-{GUNDAM WAR}-已有七種不同顏色的卡片，而每種不同顏色的卡片也代表了不同的勢力。
 
   - 藍
-      - [地球連邦](../Page/地球連邦.md "wikilink")
+      - [地球連邦](https://zh.wikipedia.org/wiki/地球連邦 "wikilink")
 
-      - [A.E.U.G.](../Page/A.E.U.G..md "wikilink")
+      - [A.E.U.G.](https://zh.wikipedia.org/wiki/A.E.U.G. "wikilink")
 
       -
       - 武者GUNDAM系列
@@ -40,7 +40,7 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
       -
       - AEU、ユニオン、人革連、アロウズ
   - 黑
-      - [迪坦斯](../Page/迪坦斯.md "wikilink")
+      - [迪坦斯](https://zh.wikipedia.org/wiki/迪坦斯 "wikilink")
       - ニューディサイズ
       - ザンスカール帝国
       - 機動戰士GUNDAM00P系列
@@ -56,7 +56,7 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
       - [新機動戰記GUNDAM W系列中所有勢力](../Page/新機動戰記GUNDAM_W.md "wikilink")
       - [機動戰士GUNDAM SEED系列中所有勢力](../Page/機動戰士GUNDAM_SEED.md "wikilink")
   - 紫
-      - [機動戰士GUNDAM00系列](../Page/機動戰士GUNDAM00.md "wikilink")
+      - [機動戰士GUNDAM00系列](https://zh.wikipedia.org/wiki/機動戰士GUNDAM00 "wikilink")
 
 另外自17彈開始還出現混色卡片，混色卡片有兩種顏色，玩者需要付合兩種顏色的國力才可運用。 28彈為最後一彈，目前已結束
 
@@ -69,7 +69,7 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR）
   - [鋼彈大戰官方網站](http://www.carddas.com/cdmasters/gundamwar/)
 
 [en:Gundam\#Gundam War Collectible Card
-Game](../Page/en:Gundam#Gundam_War_Collectible_Card_Game.md "wikilink")
+Game](https://zh.wikipedia.org/wiki/en:Gundam#Gundam_War_Collectible_Card_Game "wikilink")
 
 [Category:GUNDAM系列跨界作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列跨界作品 "wikilink")
 [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink")

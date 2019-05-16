@@ -1,10 +1,10 @@
-**ImageJ**是一个基于[java的公共的图像处理软件](../Page/java.md "wikilink")，它是由[National
+**ImageJ**是一个基于[java的公共的图像处理软件](https://zh.wikipedia.org/wiki/java "wikilink")，它是由[National
 Institutes of
-Health开发的](../Page/National_Institutes_of_Health.md "wikilink")。可运行于[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[Mac
-OS](../Page/Mac_OS.md "wikilink")，[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，和[Sharp
-Zaurus等多种平台](../Page/Sharp_Zaurus.md "wikilink")。其基于java的特点，使得它编写的程序能以applet等方式分发。
+Health开发的](https://zh.wikipedia.org/wiki/National_Institutes_of_Health "wikilink")。可运行于[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Linux](../Page/Linux.md "wikilink")，和[Sharp
+Zaurus等多种平台](https://zh.wikipedia.org/wiki/Sharp_Zaurus "wikilink")。其基于java的特点，使得它编写的程序能以applet等方式分发。
 
 ImageJ能够显示，编辑，分析，处理，保存，打印8位，16位，32位的图片， 支持TIFF, PNG, GIF, JPEG, BMP,
 DICOM, FITS等多种格式。ImageJ支持图像栈功能，即在一个窗口里以多线程的形式层叠多个图像，
@@ -15,7 +15,7 @@ DICOM, FITS等多种格式。ImageJ支持图像栈功能，即在一个窗口里
 ImageJ是一个开放结构的软件， 支持用户自定义插件和[巨集](../Page/巨集.md "wikilink")。
 
 ImageJ自带编辑器，
-并且导入了java的[编译器](../Page/编译器.md "wikilink")，实现了简单的[IDE功能](../Page/IDE.md "wikilink")，
+并且导入了java的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，实现了简单的[IDE功能](https://zh.wikipedia.org/wiki/IDE "wikilink")，
 用户可直接基于ImageJ进行图像处理。
 
 ImageJ的源代码提供免费[下载](http://rsb.info.nih.gov/ij/developer/index.html)。
@@ -26,9 +26,10 @@ ImageJ的源代码提供免费[下载](http://rsb.info.nih.gov/ij/developer/inde
   - [ImageJ维基文档](http://imagejdocu.tudor.lu/)
   - [Review of
     ImageJ](https://web.archive.org/web/20070312052602/http://www.sas.org/tcs/weeklyIssues_2005/2005-10-21/feature2/)
-    by [Forrest Mims III](../Page/Forrest_Mims_III.md "wikilink") in
+    by [Forrest Mims
+    III](https://zh.wikipedia.org/wiki/Forrest_Mims_III "wikilink") in
     *The Citizen Scientist*, the journal of the [Society for Amateur
-    Scientists](../Page/Society_for_Amateur_Scientists.md "wikilink")。
+    Scientists](https://zh.wikipedia.org/wiki/Society_for_Amateur_Scientists "wikilink")。
 
 ### ImageJ的一些插件
 

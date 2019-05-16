@@ -1,4 +1,4 @@
-《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](../Page/劇集.md "wikilink")，全劇共20集，由[陳鍵鋒](../Page/陳鍵鋒.md "wikilink")、[馬國明](../Page/馬國明.md "wikilink")、[官恩娜及](../Page/官恩娜.md "wikilink")[李詩韻領銜主演](../Page/李詩韻.md "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯。
+《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜及](../Page/官恩娜.md "wikilink")[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯。
 
 ## 演員表
 
@@ -16,7 +16,7 @@
 <td><p><strong>崔正平</strong></p></td>
 <td><p><strong>Brandon</strong><br />
 錢韶涵之夫<br />
-辛萬軍之<a href="../Page/師傅.md" title="wikilink">師傅</a></p></td>
+辛萬軍之<a href="https://zh.wikipedia.org/wiki/師傅" title="wikilink">師傅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳秀珠.md" title="wikilink">陳秀珠</a></strong></p></td>
@@ -26,7 +26,7 @@
 辛萬軍之師母</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/陳鍵鋒.md" title="wikilink">陳鍵鋒</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a></strong></p></td>
 <td><p><strong>卓偉名</strong></p></td>
 <td><p><strong>Vincent</strong><br />
 蔣思嘉之前男友<br />
@@ -38,12 +38,12 @@
 參見上集<strong><a href="../Page/律政新人王.md" title="wikilink">律政新人王</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>周小燕</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td><p>董冰冰</p></td>
 <td><p>-</p></td>
 </tr>
@@ -85,7 +85,7 @@
 被李啟賢欺騙</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/馬國明.md" title="wikilink">馬國明</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></strong></p></td>
 <td><p><strong>辛萬軍</strong></p></td>
 <td><p><strong>MK Sun</strong><br />
 <a href="../Page/大律師.md" title="wikilink">大律師</a><br />
@@ -95,7 +95,7 @@
 辛家寶之養父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/冼迪琦.md" title="wikilink">冼迪琦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冼迪琦" title="wikilink">冼迪琦</a></p></td>
 <td><p>辛家寶</p></td>
 <td><p>蘇敏兒之女<br />
 辛萬軍之養女</p></td>
@@ -113,7 +113,7 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/郭峰_(演員).md" title="wikilink">郭　峰</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　峰</a></strong></p></td>
 <td><p><strong>孫伯滔</strong></p></td>
 <td><p>地產發展商<br />
 孫俐俐之父<br />
@@ -159,7 +159,7 @@
 鄭錦棠之妻</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李詩韻.md" title="wikilink">李詩韻</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李詩韻" title="wikilink">李詩韻</a></strong></p></td>
 <td><p><strong>鄭彩玉</strong></p></td>
 <td><p>鄭錦棠、朱淑好之女<br />
 卓偉名之妻<br />
@@ -250,13 +250,13 @@ Zenbi之徒弟</p></td>
 辛萬軍之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳堃" title="wikilink">陳　堃</a></p></td>
 <td><p>戴健威</p></td>
 <td><p>辛萬軍之好友<br />
 月之男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓姿.md" title="wikilink">卓　姿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓姿" title="wikilink">卓　姿</a></p></td>
 <td><p>月</p></td>
 <td><p>戴健威之女友</p></td>
 </tr>
@@ -271,7 +271,7 @@ Zenbi之徒弟</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>熟　客</p></td>
 <td></td>
 </tr>
@@ -286,17 +286,17 @@ Zenbi之徒弟</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>寶老師</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>鍾正甫</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td><p>甫助手</p></td>
 <td><p>-</p></td>
 </tr>
@@ -363,9 +363,9 @@ Elsa<br />
 <td><p>第7集</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
 <td><p>Mary</p></td>
-<td><p><a href="../Page/啤酒妹.md" title="wikilink">啤酒妹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/啤酒妹" title="wikilink">啤酒妹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張雪芹.md" title="wikilink">張雪芹</a></p></td>
@@ -404,14 +404,14 @@ Elsa<br />
 
 ### 香港收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視翡翠台之收視紀錄](../Page/無綫電視翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視翡翠台之收視紀錄](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")：
 
-| 週次 | 集數    | 日期                 | 平均收視                             | 最高收視                             |
-| -- | ----- | ------------------ | -------------------------------- | -------------------------------- |
-| 1  | 1-5   | 2007年12月24日-12月28日 | 26[點](../Page/收視點.md "wikilink") |                                  |
-| 2  | 6-9   | 2008年1月1日-1月4日     | 29[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 3  | 10-14 | 2008年1月7日-1月11日    | 31[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 4  | 15-20 | 2008年1月14日-1月18日   | 31[點](../Page/收視點.md "wikilink") | 37[點](../Page/收視點.md "wikilink") |
+| 週次 | 集數    | 日期                 | 平均收視                                                | 最高收視                                                |
+| -- | ----- | ------------------ | --------------------------------------------------- | --------------------------------------------------- |
+| 1  | 1-5   | 2007年12月24日-12月28日 | 26[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 2  | 6-9   | 2008年1月1日-1月4日     | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3  | 10-14 | 2008年1月7日-1月11日    | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4  | 15-20 | 2008年1月14日-1月18日   | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 37[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
 此劇平均收視為29.4點
 
@@ -445,7 +445,7 @@ colspan="3"|[野蠻奶奶大戰戈師奶](../Page/野蠻奶奶大戰戈師奶.md
 2008年1月1日- |- |align="center" colspan="1"|**上一套：**
 [兩妻時代](../Page/兩妻時代.md "wikilink")
 \-12月21日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2007](../Page/翡翠台電視劇集列表_\(2007年\)#第三線劇集.md "wikilink")-[2008](../Page/翡翠台電視劇集列表_\(2008年\)#第三線劇集.md "wikilink")）**
+colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#第三線劇集 "wikilink")-[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
 **律政新人王II**
 12月24日-1月18日 |align="center" colspan="1"|**下一套：**
 [秀才愛上兵](../Page/秀才愛上兵.md "wikilink")

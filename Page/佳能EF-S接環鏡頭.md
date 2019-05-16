@@ -1,22 +1,25 @@
 [Canon_EF-S_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF-S_lens_mount.jpg "fig:Canon_EF-S_lens_mount.jpg")
-**佳能EF-S接環鏡頭**是[佳能公司推出之專用於](../Page/佳能公司.md "wikilink")[APS-C画幅機身的鏡頭](../Page/APS-C.md "wikilink")。由于APS-C画幅相机大小为1.6的转换系数，故等效于35mm胶片画幅的焦距为镜头示数乘以1.6之后的数值。
+**佳能EF-S接環鏡頭**是[佳能公司推出之專用於](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[APS-C画幅機身的鏡頭](https://zh.wikipedia.org/wiki/APS-C "wikilink")。由于APS-C画幅相机大小为1.6的转换系数，故等效于35mm胶片画幅的焦距为镜头示数乘以1.6之后的数值。
 
-虽然[佳能EF接环镜头也适用于APS](../Page/佳能EF接环镜头.md "wikilink")-C画幅机身，但是由于受到转换系数的影响，有的EF接环广角镜头的效果受到较大的影响。因此，APS-C画幅的机身最好搭配EF-S接环广角镜头。
+虽然[佳能EF接环镜头也适用于APS](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")-C画幅机身，但是由于受到转换系数的影响，有的EF接环广角镜头的效果受到较大的影响。因此，APS-C画幅的机身最好搭配EF-S接环广角镜头。
 
 ## 適用機身
 
-  - [Canon EOS 7D MarkII](../Page/佳能_EOS_7D_MarkII.md "wikilink")
+  - [Canon EOS 7D
+    MarkII](https://zh.wikipedia.org/wiki/佳能_EOS_7D_MarkII "wikilink")
   - [Canon EOS 7D](../Page/佳能_EOS_7D.md "wikilink")
-  - [Canon EOS 80D](../Page/佳能_EOS_80D.md "wikilink")
-  - [Canon EOS 77D](../Page/佳能_EOS_77D.md "wikilink")
+  - [Canon EOS 80D](https://zh.wikipedia.org/wiki/佳能_EOS_80D "wikilink")
+  - [Canon EOS 77D](https://zh.wikipedia.org/wiki/佳能_EOS_77D "wikilink")
   - [Canon EOS 70D](../Page/佳能_EOS_70D.md "wikilink")
   - [Canon EOS 60D](../Page/佳能_EOS_60D.md "wikilink")
-  - [Canon EOS 60Da](../Page/佳能_EOS_60Da.md "wikilink")
+  - [Canon EOS
+    60Da](https://zh.wikipedia.org/wiki/佳能_EOS_60Da "wikilink")
   - [Canon EOS 50D](../Page/佳能_EOS_50D.md "wikilink")
   - [Canon EOS 40D](../Page/佳能_EOS_40D.md "wikilink")
   - [Canon EOS 30D](../Page/佳能_EOS_30D.md "wikilink")
   - [Canon EOS 20D](../Page/佳能_EOS_20D.md "wikilink")
-  - [Canon EOS 20Da](../Page/佳能_EOS_20Da.md "wikilink")
+  - [Canon EOS
+    20Da](https://zh.wikipedia.org/wiki/佳能_EOS_20Da "wikilink")
   - [Canon EOS 700D](../Page/佳能_EOS_700D.md "wikilink")
   - [Canon EOS 650D](../Page/佳能_EOS_650D.md "wikilink")
   - [Canon EOS 600D](../Page/佳能_EOS_600D.md "wikilink")
@@ -61,7 +64,7 @@
 <td><p>240g</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EF-S_10-22mm_镜头.md" title="wikilink">10-22mm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EF-S_10-22mm_镜头" title="wikilink">10-22mm</a></p></td>
 <td><p>EF-S 10-22mm F3.5-4.5 USM</p></td>
 <td><p>F3.5-4.5</p></td>
 <td><p>USM</p></td>
@@ -70,7 +73,7 @@
 <td><p>385g</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EF-S_15-85mm_镜头.md" title="wikilink">15-85mm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EF-S_15-85mm_镜头" title="wikilink">15-85mm</a></p></td>
 <td><p>EF-S 15-85mm F3.5-5.6 IS USM</p></td>
 <td><p>F3.5-5.6</p></td>
 <td><p>USM</p></td>
@@ -79,7 +82,7 @@
 <td><p>575g</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EF-S_17-55mm_镜头.md" title="wikilink">17-55mm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EF-S_17-55mm_镜头" title="wikilink">17-55mm</a></p></td>
 <td><p>EF-S 17-55mm F2.8 IS USM</p></td>
 <td><p>F2.8</p></td>
 <td><p>USM</p></td>
@@ -88,7 +91,7 @@
 <td><p>645g</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EF-S_17-85mm_镜头.md" title="wikilink">17-85mm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EF-S_17-85mm_镜头" title="wikilink">17-85mm</a></p></td>
 <td><p>EF-S 17-85mm F4-5.6 IS USM</p></td>
 <td><p>F4.5-5.6</p></td>
 <td><p>USM</p></td>
@@ -214,7 +217,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能EF-S_24mm_f/2.8_STM.md" title="wikilink">24mm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能EF-S_24mm_f/2.8_STM" title="wikilink">24mm</a></p></td>
 <td><p>EF-S 24mm F2.8 STM</p></td>
 <td><p>F2.8</p></td>
 <td><p>STM</p></td>

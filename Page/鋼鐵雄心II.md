@@ -1,10 +1,10 @@
 《**钢铁雄心II**》（Hearts of Iron
-II）为战略游戏。是《[钢铁雄心](../Page/钢铁雄心.md "wikilink")》的加强版续作。游戏背景被设定在1936年[第二次世界大戰时期](../Page/第二次世界大戰.md "wikilink")。并允许控制175个国家，几乎涵盖了当时所有的政权。游戏由开发，由[Paradox
+II）为战略游戏。是《[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")》的加强版续作。游戏背景被设定在1936年[第二次世界大戰时期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。并允许控制175个国家，几乎涵盖了当时所有的政权。游戏由开发，由[Paradox
 Interactive公司发布](../Page/Paradox_Interactive.md "wikilink")。主要游戏开发者为Johan
 Andersson 。2006年4月，Paradox
-Interactive再推出《钢铁雄心II》资料片《[钢铁雄心2末日战役](../Page/钢铁雄心2末日战役.md "wikilink")》(Hearts
+Interactive再推出《钢铁雄心II》资料片《[钢铁雄心2末日战役](https://zh.wikipedia.org/wiki/钢铁雄心2末日战役 "wikilink")》(Hearts
 of Iron II:
-Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次世界大战.md "wikilink")。在2007年4月，《[钢铁雄心II：决战](../Page/钢铁雄心II：决战.md "wikilink")》进一步延长了游戏时限，可以持续到1964年。
+Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipedia.org/wiki/第三次世界大战 "wikilink")。在2007年4月，《[钢铁雄心II：决战](../Page/钢铁雄心II：决战.md "wikilink")》进一步延长了游戏时限，可以持续到1964年。
 
 ## 游戏介绍
 
@@ -12,7 +12,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次
 
 你所扮演的是一个国家的元首，操纵着一切有关于这个国家的大事小情，本作更加的真实化，ai比《钢铁雄心》更加的智能，更真实地模拟了二战时的国际局势。
 
-较之[钢铁雄心](../Page/钢铁雄心.md "wikilink")，本作的经济系统更为简单。你所在国家的生产能力与领土大小和生产各种货物的能力以及工厂的数量有关。你所在的领土能给你带来油料、能量、金属和稀有材料等资源。工厂可以使用这些资源生产工业点，然后可用以建造、供应以及替换。剩余的点还可以产生现金，这些可用以技术上的研究和外交。而且产品的供应的与连结的系统的仓库都能够得到玩家的监控。你可以选择连续或者间歇性地生产你所需的商品，然后就能获得一定的奖励。不过在生产方面不能够搞极端，因为你的人民还需要食品供给有待你去生产。同样，你的军队也能够得以升级。与前作形成鲜明对比的是，本作的生产方面的自动化大大地提高了。这样玩家可以将注意力更多地集中在军事策略上。
+较之[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")，本作的经济系统更为简单。你所在国家的生产能力与领土大小和生产各种货物的能力以及工厂的数量有关。你所在的领土能给你带来油料、能量、金属和稀有材料等资源。工厂可以使用这些资源生产工业点，然后可用以建造、供应以及替换。剩余的点还可以产生现金，这些可用以技术上的研究和外交。而且产品的供应的与连结的系统的仓库都能够得到玩家的监控。你可以选择连续或者间歇性地生产你所需的商品，然后就能获得一定的奖励。不过在生产方面不能够搞极端，因为你的人民还需要食品供给有待你去生产。同样，你的军队也能够得以升级。与前作形成鲜明对比的是，本作的生产方面的自动化大大地提高了。这样玩家可以将注意力更多地集中在军事策略上。
 
 此游戏前有“新手指南”，容易新手上手。大多数玩家选择的是DA1.3版。
 
@@ -20,20 +20,20 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次
 
 ### 内政
 
-游戏中，玩家可以在外交界面选择自己国家的内政方针（国策），不过值得注意的是，一年只能对一方面进行值为1的调整。打开[f12控制板输入](../Page/f12控制板.md "wikilink")“freedom”即可自由调整国策，再次输入一次“freedom”即可关闭自由调整。国策调整必须依照选定国家的意识形态来调整，否则不能得到最优的效果。国策的双方都各有好处，也各有缺点，需要玩家灵活调整。有时，调整国策会修改国家元首，比如德国的民主值过高则会使兴登堡再次上台。另外，一些国家的某项国策不能拉到底，比如独裁国家不能过于民主等等。
+游戏中，玩家可以在外交界面选择自己国家的内政方针（国策），不过值得注意的是，一年只能对一方面进行值为1的调整。打开[f12控制板输入](https://zh.wikipedia.org/wiki/f12控制板 "wikilink")“freedom”即可自由调整国策，再次输入一次“freedom”即可关闭自由调整。国策调整必须依照选定国家的意识形态来调整，否则不能得到最优的效果。国策的双方都各有好处，也各有缺点，需要玩家灵活调整。有时，调整国策会修改国家元首，比如德国的民主值过高则会使兴登堡再次上台。另外，一些国家的某项国策不能拉到底，比如独裁国家不能过于民主等等。
 内政方针有一下几点：
 
-  - [民主制度](../Page/民主制度.md "wikilink")/[独裁制度](../Page/独裁制度.md "wikilink")
-  - [左翼](../Page/左翼.md "wikilink")/[右翼](../Page/右翼.md "wikilink")
-  - [开放社会](../Page/开放社会.md "wikilink")/[保守社会](../Page/保守社会.md "wikilink")
-  - [自由市场](../Page/自由市场.md "wikilink")/[计划经济](../Page/计划经济.md "wikilink")
-  - [常备军制](../Page/常备军制.md "wikilink")/[征兵制度](../Page/征兵制度.md "wikilink")
-  - [鹰派](../Page/鹰派.md "wikilink")/[鸽派](../Page/鸽派.md "wikilink")
-  - [干涉主义](../Page/干涉主义.md "wikilink")/[孤立主义](../Page/孤立主义.md "wikilink")
+  - [民主制度](https://zh.wikipedia.org/wiki/民主制度 "wikilink")/[独裁制度](https://zh.wikipedia.org/wiki/独裁制度 "wikilink")
+  - [左翼](https://zh.wikipedia.org/wiki/左翼 "wikilink")/[右翼](https://zh.wikipedia.org/wiki/右翼 "wikilink")
+  - [开放社会](../Page/开放社会.md "wikilink")/[保守社会](https://zh.wikipedia.org/wiki/保守社会 "wikilink")
+  - [自由市场](https://zh.wikipedia.org/wiki/自由市场 "wikilink")/[计划经济](https://zh.wikipedia.org/wiki/计划经济 "wikilink")
+  - [常备军制](https://zh.wikipedia.org/wiki/常备军制 "wikilink")/[征兵制度](https://zh.wikipedia.org/wiki/征兵制度 "wikilink")
+  - [鹰派](https://zh.wikipedia.org/wiki/鹰派 "wikilink")/[鸽派](https://zh.wikipedia.org/wiki/鸽派 "wikilink")
+  - [干涉主义](https://zh.wikipedia.org/wiki/干涉主义 "wikilink")/[孤立主义](../Page/孤立主义.md "wikilink")
 
 玩家作为国家的元首，可以自由更换部长。部长一般都有某项加成，这需要玩家自己掌握。有内阁成员国家元首、政府首脑、外交部长、军械部长、安全部长、情报部长、参谋总长、陆军司令、海军司令和空军司令等。
 
-国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](../Page/独裁主义.md "wikilink")、[左翼激进主义](../Page/左翼激进主义.md "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](../Page/社会保守主义.md "wikilink")、[贸易自由主义](../Page/贸易自由主义.md "wikilink")、[社会自由主义和](../Page/社会自由主义.md "wikilink")[社会民主主义](../Page/社会民主主义.md "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
+国家意识形态有[国家社会主义](../Page/国家社会主义.md "wikilink")、[法西斯主义](../Page/法西斯主义.md "wikilink")、[独裁主义](https://zh.wikipedia.org/wiki/独裁主义 "wikilink")、[左翼激进主义](https://zh.wikipedia.org/wiki/左翼激进主义 "wikilink")、[列宁主义](../Page/列宁主义.md "wikilink")、[斯大林主义](../Page/斯大林主义.md "wikilink")、[社会保守主义](https://zh.wikipedia.org/wiki/社会保守主义 "wikilink")、[贸易自由主义](https://zh.wikipedia.org/wiki/贸易自由主义 "wikilink")、[社会自由主义和](../Page/社会自由主义.md "wikilink")[社会民主主义](https://zh.wikipedia.org/wiki/社会民主主义 "wikilink")。某些过于民主的主义不能够加入任何一军事联盟，除非有足够高的战争倾向，例如芬兰等。
 
 [minofROC.png](https://zh.wikipedia.org/wiki/File:minofROC.png "fig:minofROC.png")
 
@@ -93,21 +93,21 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次
 
 #### 陆军
 
-陆军师包括[步兵师](../Page/步兵师.md "wikilink")、[山地师](../Page/山地师.md "wikilink")、[海军陆战师](../Page/海军陆战师.md "wikilink")、[卫戍师](../Page/卫戍师.md "wikilink")、[民兵师](../Page/民兵师.md "wikilink")、[空降师](../Page/空降师.md "wikilink")、[骑兵师](../Page/骑兵师.md "wikilink")、[摩托化步兵师](../Page/摩托化步兵师.md "wikilink")、[机械化步兵师](../Page/机械化步兵师.md "wikilink")、[轻装甲师和](../Page/轻装甲师.md "wikilink")[中装甲师等](../Page/中装甲师.md "wikilink")。
+陆军师包括[步兵师](https://zh.wikipedia.org/wiki/步兵师 "wikilink")、[山地师](https://zh.wikipedia.org/wiki/山地师 "wikilink")、[海军陆战师](https://zh.wikipedia.org/wiki/海军陆战师 "wikilink")、[卫戍师](https://zh.wikipedia.org/wiki/卫戍师 "wikilink")、[民兵师](https://zh.wikipedia.org/wiki/民兵师 "wikilink")、[空降师](https://zh.wikipedia.org/wiki/空降师 "wikilink")、[骑兵师](https://zh.wikipedia.org/wiki/骑兵师 "wikilink")、[摩托化步兵师](https://zh.wikipedia.org/wiki/摩托化步兵师 "wikilink")、[机械化步兵师](https://zh.wikipedia.org/wiki/机械化步兵师 "wikilink")、[轻装甲师和](https://zh.wikipedia.org/wiki/轻装甲师 "wikilink")[中装甲师等](https://zh.wikipedia.org/wiki/中装甲师 "wikilink")。
 
 在特殊地形作战，普遍会有惩罚。
 
-陆军旅包括[工兵加强旅](../Page/工兵加强旅.md "wikilink")、[装甲加强旅](../Page/装甲加强旅.md "wikilink")、[炮兵加强旅](../Page/炮兵加强旅.md "wikilink")、[重装甲加强旅](../Page/重装甲加强旅.md "wikilink")、[反坦克加强旅](../Page/反坦克加强旅.md "wikilink")、[防空炮加强旅和](../Page/防空炮加强旅.md "wikilink")[宪兵加强旅](../Page/宪兵加强旅.md "wikilink")。
+陆军旅包括[工兵加强旅](https://zh.wikipedia.org/wiki/工兵加强旅 "wikilink")、[装甲加强旅](https://zh.wikipedia.org/wiki/装甲加强旅 "wikilink")、[炮兵加强旅](https://zh.wikipedia.org/wiki/炮兵加强旅 "wikilink")、[重装甲加强旅](https://zh.wikipedia.org/wiki/重装甲加强旅 "wikilink")、[反坦克加强旅](https://zh.wikipedia.org/wiki/反坦克加强旅 "wikilink")、[防空炮加强旅和](https://zh.wikipedia.org/wiki/防空炮加强旅 "wikilink")[宪兵加强旅](https://zh.wikipedia.org/wiki/宪兵加强旅 "wikilink")。
 
 步兵师是最基本的陆军师，是作战的主力军。
 
 山地师在山地作战有加成，也可以抗严寒，是冬天进攻苏联的用处。
 
-海军陆战师在[两栖作战中有加成](../Page/两栖作战.md "wikilink")。
+海军陆战师在[两栖作战中有加成](https://zh.wikipedia.org/wiki/两栖作战 "wikilink")。
 
 卫戍师不可以用来进攻，只可以用来反游击和防御，卫戍师很善于反游击。一般来说，在非核心领土就有游击的可能。
 
-民兵师需要的IC较少，是[中华民国等IC缺乏国家作战的主力军](../Page/中华民国.md "wikilink")，当然民兵师的作战能力也较弱。
+民兵师需要的IC较少，是[中华民国等IC缺乏国家作战的主力军](https://zh.wikipedia.org/wiki/中华民国 "wikilink")，当然民兵师的作战能力也较弱。
 
 空降师可以挂载在运输机内，可以进行空降作战。
 
@@ -123,17 +123,17 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次
 
 #### 海军
 
-海军单位包括[运输舰](../Page/运输舰.md "wikilink")、[航空母舰](../Page/航空母舰.md "wikilink")、[战列舰](../Page/战列舰.md "wikilink")、[战列巡洋舰](../Page/战列巡洋舰.md "wikilink")、[重巡洋舰](../Page/重巡洋舰.md "wikilink")、[轻巡洋舰](../Page/轻巡洋舰.md "wikilink")、[驱逐舰](../Page/驱逐舰.md "wikilink")、[潜艇](../Page/潜艇.md "wikilink")。每艘战舰都有不同的战斗力、速度、射程等能力。海战能模拟船只的射程，只有当敌舰进入射程时，才能炮击。航母的射击范围有几百公里，所以除非敌人没有搭配足够的护卫舰，战列舰就不能碰到航母的。而当主力舰缺少足够的护卫舰来护卫、检索敌人时，主力舰就必须自己寻找敌人，无法发挥射程优势，尤其主力舰被发现度很高，"索敌范围"窄，因此要是没有足够多的护卫舰，主力舰的战斗力就非常低。这使海战更为复杂，更有必要编组船舰。
+海军单位包括[运输舰](https://zh.wikipedia.org/wiki/运输舰 "wikilink")、[航空母舰](../Page/航空母舰.md "wikilink")、[战列舰](https://zh.wikipedia.org/wiki/战列舰 "wikilink")、[战列巡洋舰](../Page/战列巡洋舰.md "wikilink")、[重巡洋舰](../Page/重巡洋舰.md "wikilink")、[轻巡洋舰](https://zh.wikipedia.org/wiki/轻巡洋舰 "wikilink")、[驱逐舰](../Page/驱逐舰.md "wikilink")、[潜艇](https://zh.wikipedia.org/wiki/潜艇 "wikilink")。每艘战舰都有不同的战斗力、速度、射程等能力。海战能模拟船只的射程，只有当敌舰进入射程时，才能炮击。航母的射击范围有几百公里，所以除非敌人没有搭配足够的护卫舰，战列舰就不能碰到航母的。而当主力舰缺少足够的护卫舰来护卫、检索敌人时，主力舰就必须自己寻找敌人，无法发挥射程优势，尤其主力舰被发现度很高，"索敌范围"窄，因此要是没有足够多的护卫舰，主力舰的战斗力就非常低。这使海战更为复杂，更有必要编组船舰。
 
 #### 空军
 
-空军单位包扩[战略轰炸机](../Page/战略轰炸机.md "wikilink")、[战术轰炸机](../Page/战术轰炸机.md "wikilink")、[俯冲攻击机](../Page/俯冲攻击机.md "wikilink")、[海军轰炸机](../Page/海军轰炸机.md "wikilink")、[护航机](../Page/护航机.md "wikilink")（挂载）、[拦截机](../Page/拦截机.md "wikilink")、[战斗机和运输机等](../Page/战斗机.md "wikilink")。这些战机能够执行不同的任务，包括：夺取制空权、攻击补给线、战略轰炸、攻击舰艇、空中协同攻击和袭击运输舰等。
+空军单位包扩[战略轰炸机](../Page/战略轰炸机.md "wikilink")、[战术轰炸机](https://zh.wikipedia.org/wiki/战术轰炸机 "wikilink")、[俯冲攻击机](https://zh.wikipedia.org/wiki/俯冲攻击机 "wikilink")、[海军轰炸机](https://zh.wikipedia.org/wiki/海军轰炸机 "wikilink")、[护航机](https://zh.wikipedia.org/wiki/护航机 "wikilink")（挂载）、[拦截机](https://zh.wikipedia.org/wiki/拦截机 "wikilink")、[战斗机和运输机等](../Page/战斗机.md "wikilink")。这些战机能够执行不同的任务，包括：夺取制空权、攻击补给线、战略轰炸、攻击舰艇、空中协同攻击和袭击运输舰等。
 
 在研发出核能后，玩家可以使用核武器攻击对手。核弹载具为飞弹或者战略轰炸机。战略轰炸机需要组织度全满，但飞弹不需要。
 
 #### 飞弹
 
-在研发出飞弹相关技术后，玩家可使用飞弹及火箭执行攻击补给线或战略轰炸的功能。火箭会随着研发而更新成距离更远并且破坏力更强的飛彈。再配合[核弹](../Page/核弹.md "wikilink")，[洲际导弹可以直接由本国毀灭另一洲的国家](../Page/洲际导弹.md "wikilink")。
+在研发出飞弹相关技术后，玩家可使用飞弹及火箭执行攻击补给线或战略轰炸的功能。火箭会随着研发而更新成距离更远并且破坏力更强的飛彈。再配合[核弹](https://zh.wikipedia.org/wiki/核弹 "wikilink")，[洲际导弹可以直接由本国毀灭另一洲的国家](https://zh.wikipedia.org/wiki/洲际导弹 "wikilink")。
 
 ### 将领加成
 
@@ -223,7 +223,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](../Page/第三次
 
 ## 争议和审查
 
-游戏中，德国国旗为1918年停用的[德意志帝國國旗](../Page/:File:Flag_of_the_German_Empire.svg.md "wikilink")，而非纳粹[逆萬字旗](../Page/:File:Flag_of_Germany_1933.svg.md "wikilink")。这可以解释为德国政府禁止公开展示逆万字旗。此外，尽管德国没有相关的法律，但在德语游戏中，如[阿道夫·希特勒](../Page/阿道夫·希特勒.md "wikilink")、[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")、[海因里希·希姆莱等的照片都遭移除](../Page/海因里希·希姆莱.md "wikilink")，他们的名字也遭到修改。
+游戏中，德国国旗为1918年停用的[德意志帝國國旗](https://zh.wikipedia.org/wiki/:File:Flag_of_the_German_Empire.svg "wikilink")，而非纳粹[逆萬字旗](https://zh.wikipedia.org/wiki/:File:Flag_of_Germany_1933.svg "wikilink")。这可以解释为德国政府禁止公开展示逆万字旗。此外，尽管德国没有相关的法律，但在德语游戏中，如[阿道夫·希特勒](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")、[赫尔曼·戈林](../Page/赫尔曼·戈林.md "wikilink")、[海因里希·希姆莱等的照片都遭移除](../Page/海因里希·希姆莱.md "wikilink")，他们的名字也遭到修改。
 
 游戏中，可以非直接的创立党卫军。当德国生产机步师、装甲师和摩步师时，有時候会自动命名为“'数字' SS division”。（注：SS 即
 Schutzstaffel 缩写，意即党卫军。）
@@ -234,7 +234,7 @@ Schutzstaffel 缩写，意即党卫军。）
 
 ## 相关条目
 
-  - [钢铁雄心](../Page/钢铁雄心.md "wikilink")
+  - [钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")
   - [第二次世界大战](../Page/第二次世界大战.md "wikilink")
 
 ## 外部链接

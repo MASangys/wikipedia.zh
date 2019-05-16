@@ -1,8 +1,8 @@
 [H-IIA-Launch-Vehicle.png](https://zh.wikipedia.org/wiki/File:H-IIA-Launch-Vehicle.png "fig:H-IIA-Launch-Vehicle.png")
-**H-IIA運載火箭**是由[日本的](../Page/日本.md "wikilink")[捆绑式兩級](../Page/捆绑式火箭.md "wikilink")[火箭](../Page/火箭.md "wikilink")，第一級與第二級火箭採用液態氫氧為燃料；火箭直徑
+**H-IIA運載火箭**是由[日本的](../Page/日本.md "wikilink")[捆绑式兩級](https://zh.wikipedia.org/wiki/捆绑式火箭 "wikilink")[火箭](../Page/火箭.md "wikilink")，第一級與第二級火箭採用液態氫氧為燃料；火箭直徑
 4 公尺，高度 53 公尺，是一具可擴充的發射系統依任務要求可安装不同數量的固態助推火箭。
 
-H-IIA可用於將衛星送至[地球同步衛星軌道的](../Page/地球同步衛星軌道.md "wikilink")[商業發射](../Page/商業.md "wikilink")，也可用於發射月球軌道探測器、行星間飛行的太空探測器或是[軍事情報衛星](../Page/間諜衛星.md "wikilink")；由[三菱重工業公司為](../Page/三菱重工業.md "wikilink")[宇宙航空研究開發機構所建造](../Page/宇宙航空研究開發機構.md "wikilink")，發射地點在[種子島宇宙中心](../Page/種子島宇宙中心.md "wikilink")。
+H-IIA可用於將衛星送至[地球同步衛星軌道的](https://zh.wikipedia.org/wiki/地球同步衛星軌道 "wikilink")[商業發射](https://zh.wikipedia.org/wiki/商業 "wikilink")，也可用於發射月球軌道探測器、行星間飛行的太空探測器或是[軍事情報衛星](https://zh.wikipedia.org/wiki/間諜衛星 "wikilink")；由[三菱重工業公司為](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")[宇宙航空研究開發機構所建造](../Page/宇宙航空研究開發機構.md "wikilink")，發射地點在[種子島宇宙中心](../Page/種子島宇宙中心.md "wikilink")。
 
 ## 目標
 
@@ -26,7 +26,7 @@ H-IIA運載火箭改良自H-II運載火箭，改良許多構造後，此火箭�
 <table>
 <thead>
 <tr class="header">
-<th><p>日期(<a href="../Page/UTC.md" title="wikilink">UTC</a>)</p></th>
+<th><p>日期(<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a>)</p></th>
 <th><p>航班</p></th>
 <th><p>型號</p></th>
 <th><p>酬載衛星</p></th>
@@ -89,21 +89,21 @@ IGS-Radar 2</p></td>
 <td><p>2005年2月26日09:25</p></td>
 <td><p>F7</p></td>
 <td><p>H-IIA2022</p></td>
-<td><p><a href="../Page/向日葵六號.md" title="wikilink">MTSat-1R</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/向日葵六號" title="wikilink">MTSat-1R</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2006年1月24日01:33</p></td>
 <td><p>F8</p></td>
 <td><p>H-IIA2022</p></td>
-<td><p><a href="../Page/大地號.md" title="wikilink">ALOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大地號" title="wikilink">ALOS</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年2月18日06:27</p></td>
 <td><p>F9</p></td>
 <td><p>H-IIA2024</p></td>
-<td><p><a href="../Page/向日葵七號.md" title="wikilink">MTSat-2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/向日葵七號" title="wikilink">MTSat-2</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -133,7 +133,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 01:31:01</p></td>
 <td><p>F13</p></td>
 <td><p>H-IIA2022</p></td>
-<td><p><a href="../Page/月亮女神_(太空飛行器).md" title="wikilink">輝夜號(Kaguya)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/月亮女神_(太空飛行器)" title="wikilink">輝夜號(Kaguya)</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -141,7 +141,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 08:55:00</p></td>
 <td><p>F14</p></td>
 <td><p>H-IIA2024</p></td>
-<td><p><a href="../Page/羈絆號.md" title="wikilink">WINDS</a> (Kizuna)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羈絆號" title="wikilink">WINDS</a> (Kizuna)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -149,12 +149,12 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 12:54:00</p></td>
 <td><p>F15</p></td>
 <td><p>H-IIA202</p></td>
-<td><p><a href="../Page/溫室氣體觀測衛星.md" title="wikilink">GOSAT</a> (Ibuki)<br />
- <a href="../Page/閃光號.md" title="wikilink">SDS-1</a><br />
- <a href="../Page/空海號.md" title="wikilink">STARS</a> (Kūkai)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/溫室氣體觀測衛星" title="wikilink">GOSAT</a> (Ibuki)<br />
+ <a href="https://zh.wikipedia.org/wiki/閃光號" title="wikilink">SDS-1</a><br />
+ <a href="https://zh.wikipedia.org/wiki/空海號" title="wikilink">STARS</a> (Kūkai)<br />
  KKS-1 (Kiseki)<br />
  PRISM (Hitomi)<br />
- <a href="../Page/Sohla.md" title="wikilink">Sohla</a>-1 (Maido 1)<br />
+ <a href="https://zh.wikipedia.org/wiki/Sohla" title="wikilink">Sohla</a>-1 (Maido 1)<br />
  SORUNSAT-1 (Kagayaki)<br />
  SPRITE-SAT (Raijin)</p></td>
 <td><p>[1]</p></td>
@@ -174,10 +174,10 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 <td><p>H-IIA202[6]</p></td>
 <td><p><a href="../Page/破曉號.md" title="wikilink">破曉號(Akatsuki)</a><br />
  <a href="../Page/IKAROS.md" title="wikilink">IKAROS</a><br />
- <a href="../Page/深遠號.md" title="wikilink">UNITEC-1</a> (Shin'en)<br />
- <a href="../Page/Waseda-SAT2.md" title="wikilink">Waseda-SAT2</a><br />
- <a href="../Page/K-Sat.md" title="wikilink">K-Sat</a> (Hayato)<br />
- <a href="../Page/Negai_(satellite).md" title="wikilink">Negai☆</a></p></td>
+ <a href="https://zh.wikipedia.org/wiki/深遠號" title="wikilink">UNITEC-1</a> (Shin'en)<br />
+ <a href="https://zh.wikipedia.org/wiki/Waseda-SAT2" title="wikilink">Waseda-SAT2</a><br />
+ <a href="https://zh.wikipedia.org/wiki/K-Sat" title="wikilink">K-Sat</a> (Hayato)<br />
+ <a href="https://zh.wikipedia.org/wiki/Negai_(satellite)" title="wikilink">Negai☆</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -185,7 +185,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 20:17</p></td>
 <td><p>F18</p></td>
 <td><p>H-IIA202</p></td>
-<td><p><a href="../Page/導引號.md" title="wikilink">QZS-1</a> (Michibiki)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/導引號" title="wikilink">QZS-1</a> (Michibiki)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -193,7 +193,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 04:36:50</p></td>
 <td><p>F19</p></td>
 <td><p>H-IIA202</p></td>
-<td><p><a href="../Page/情報收集衛星.md" title="wikilink">IGS</a>-Optical 5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/情報收集衛星" title="wikilink">IGS</a>-Optical 5</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -201,7 +201,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 01:21:00 [7]</p></td>
 <td><p>F20</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/情報收集衛星.md" title="wikilink">IGS</a>-Radar 3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/情報收集衛星" title="wikilink">IGS</a>-Radar 3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -209,10 +209,10 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 16:39:00</p></td>
 <td><p>F21</p></td>
 <td><p>H2A202[8]</p></td>
-<td><p><a href="../Page/GCOM-W.md" title="wikilink">GCOM-W1</a> (Shizuku)<br />
- <a href="../Page/阿里郎3号.md" title="wikilink">阿里郎3号</a> (韓國衛星3號)<br />
- <a href="../Page/SDS-4.md" title="wikilink">SDS-4</a><br />
- <a href="../Page/HORYU-2.md" title="wikilink">HORYU-2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GCOM-W" title="wikilink">GCOM-W1</a> (Shizuku)<br />
+ <a href="https://zh.wikipedia.org/wiki/阿里郎3号" title="wikilink">阿里郎3号</a> (韓國衛星3號)<br />
+ <a href="https://zh.wikipedia.org/wiki/SDS-4" title="wikilink">SDS-4</a><br />
+ <a href="https://zh.wikipedia.org/wiki/HORYU-2" title="wikilink">HORYU-2</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -220,8 +220,8 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 04:40:00</p></td>
 <td><p>F22</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/Information_Gathering_Satellite.md" title="wikilink">IGS</a>-Radar 4<br />
- <a href="../Page/Information_Gathering_Satellite.md" title="wikilink">IGS</a>-Optical 5V</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Information_Gathering_Satellite" title="wikilink">IGS</a>-Radar 4<br />
+ <a href="https://zh.wikipedia.org/wiki/Information_Gathering_Satellite" title="wikilink">IGS</a>-Optical 5V</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -229,7 +229,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 18:37:00</p></td>
 <td><p>F23</p></td>
 <td><p>H2A202</p></td>
-<td><p> <a href="../Page/Global_Precipitation_Measurement.md" title="wikilink">GPM-Core</a><br />
+<td><p> <a href="https://zh.wikipedia.org/wiki/Global_Precipitation_Measurement" title="wikilink">GPM-Core</a><br />
  SindaiSat (Ginrei)<br />
  STARS-II<br />
  TeikyoSat-3<br />
@@ -244,9 +244,9 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 03:05:14</p></td>
 <td><p>F24</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/ALOS-2.md" title="wikilink">ALOS-2</a> (Daichi 2)<br />
- <a href="../Page/RISING-2.md" title="wikilink">RISING-2</a><br />
- <a href="../Page/UNIFORM-1.md" title="wikilink">UNIFORM-1</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ALOS-2" title="wikilink">ALOS-2</a> (Daichi 2)<br />
+ <a href="https://zh.wikipedia.org/wiki/RISING-2" title="wikilink">RISING-2</a><br />
+ <a href="https://zh.wikipedia.org/wiki/UNIFORM-1" title="wikilink">UNIFORM-1</a><br />
  SOCRATES<br />
  SPROUT</p></td>
 <td></td>
@@ -256,7 +256,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 05:16:00</p></td>
 <td><p>F25</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/向日葵8號.md" title="wikilink">Himawari-8</a> (向日葵8號)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/向日葵8號" title="wikilink">Himawari-8</a> (向日葵8號)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -264,10 +264,10 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 04:22:04</p></td>
 <td><p>F26</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/Hayabusa_2.md" title="wikilink">Hayabusa 2</a><br />
- <a href="../Page/Shin&#39;en_2.md" title="wikilink">Shin'en 2</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Hayabusa_2" title="wikilink">Hayabusa 2</a><br />
+ <a href="https://zh.wikipedia.org/wiki/Shin&#39;en_2" title="wikilink">Shin'en 2</a><br />
  ARTSAT2-DESPATCH<br />
- <a href="../Page/PROCYON.md" title="wikilink">PROCYON</a></p></td>
+ <a href="https://zh.wikipedia.org/wiki/PROCYON" title="wikilink">PROCYON</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -275,7 +275,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 01:21:00</p></td>
 <td><p>F27</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/Information_Gathering_Satellite.md" title="wikilink">IGS</a>-Radar Spare</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Information_Gathering_Satellite" title="wikilink">IGS</a>-Radar Spare</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -283,7 +283,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 01:21:00</p></td>
 <td><p>F28</p></td>
 <td><p>H2A202</p></td>
-<td><p><a href="../Page/Information_Gathering_Satellite.md" title="wikilink">IGS</a>-Optical 5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Information_Gathering_Satellite" title="wikilink">IGS</a>-Optical 5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -291,7 +291,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 06:50:00</p></td>
 <td><p>F29</p></td>
 <td><p>H2A204</p></td>
-<td><p><a href="../Page/Telesat.md" title="wikilink">Telstar 12 Vantage</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Telesat" title="wikilink">Telstar 12 Vantage</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -335,7 +335,7 @@ IGS(Information Gathering Satellites)-Optical 4#2</p></td>
 <td><p>3.3噸(VEP-2)<br />
 90公斤(LRE)</p></td>
 <td><p>GTO</p></td>
-<td><p>96億<a href="../Page/日元.md" title="wikilink">日元</a></p></td>
+<td><p>96億<a href="https://zh.wikipedia.org/wiki/日元" title="wikilink">日元</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -495,7 +495,7 @@ LEO</p></td>
 315 公斤(IKAROS)<br />
 15公斤 （しんえん）<br />
 2 + 1.5 + 1 公斤（他サブペイロード）</p></td>
-<td><p><a href="../Page/日心軌道.md" title="wikilink">日心軌道</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/日心軌道" title="wikilink">日心軌道</a><br />
 日心軌道<br />
 日心軌道<br />
 LEO</p></td>
@@ -534,13 +534,13 @@ LEO</p></td>
 
 ## 參見
 
-  - [H-II運載火箭](../Page/H-II運載火箭.md "wikilink")
+  - [H-II運載火箭](https://zh.wikipedia.org/wiki/H-II運載火箭 "wikilink")
   - [H-IIB運載火箭](../Page/H-IIB運載火箭.md "wikilink")
-  - [長征三號乙運載火箭](../Page/長征三號乙運載火箭.md "wikilink")
+  - [長征三號乙運載火箭](https://zh.wikipedia.org/wiki/長征三號乙運載火箭 "wikilink")
 
 ## 參考文獻
 
-[de:H-II\#H-IIA](../Page/de:H-II#H-IIA.md "wikilink")
+[de:H-II\#H-IIA](https://zh.wikipedia.org/wiki/de:H-II#H-IIA "wikilink")
 
 [Category:运载火箭](https://zh.wikipedia.org/wiki/Category:运载火箭 "wikilink")
 [Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink")

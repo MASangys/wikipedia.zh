@@ -1,13 +1,13 @@
-**Nexuiz**是一个[三维](../Page/三维.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，[游戏引擎為](../Page/游戏引擎.md "wikilink")[DarkPlaces](../Page/DarkPlaces.md "wikilink")，修改自[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink")，它的游戏源代码在[GNU通用公共许可证许可下发布](../Page/GNU通用公共许可证.md "wikilink")，使用[自由内容](../Page/自由内容.md "wikilink")，故为“[自由游戏软件](../Page/自由软件.md "wikilink")”。[Nexuiz_logo.svg](https://zh.wikipedia.org/wiki/File:Nexuiz_logo.svg "fig:Nexuiz_logo.svg")为此游戏图标，可能算作中文名，
+**Nexuiz**是一个[三维](https://zh.wikipedia.org/wiki/三维 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，[游戏引擎為](../Page/游戏引擎.md "wikilink")[DarkPlaces](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，修改自[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink")，它的游戏源代码在[GNU通用公共许可证许可下发布](../Page/GNU通用公共许可证.md "wikilink")，使用[自由内容](https://zh.wikipedia.org/wiki/自由内容 "wikilink")，故为“[自由游戏软件](../Page/自由软件.md "wikilink")”。[Nexuiz_logo.svg](https://zh.wikipedia.org/wiki/File:Nexuiz_logo.svg "fig:Nexuiz_logo.svg")为此游戏图标，可能算作中文名，
 
 ## 游戏特点
 
-游戏为在线对抗设计，吸取了很多[虚幻竞技场的特性](../Page/虚幻竞技场.md "wikilink")。目前单人任务是为了引领玩家熟悉各种游戏模式而设，随着开发的成熟，玩家社区开始进行真正有情节的任务制作。随着游戏模式的不断扩充，Nexuiz已不是死亡竞赛游戏。除了传统的死亡锦赛，猎杀，夺旗，还有竞速、球类。
+游戏为在线对抗设计，吸取了很多[虚幻竞技场的特性](https://zh.wikipedia.org/wiki/虚幻竞技场 "wikilink")。目前单人任务是为了引领玩家熟悉各种游戏模式而设，随着开发的成熟，玩家社区开始进行真正有情节的任务制作。随着游戏模式的不断扩充，Nexuiz已不是死亡竞赛游戏。除了传统的死亡锦赛，猎杀，夺旗，还有竞速、球类。
 
 ## 图像效果
 
-*Nexuiz*使用[DarkPlaces引擎](../Page/DarkPlaces.md "wikilink")，支持OpenGL
-2.0，拥有[布隆过滤器](../Page/布隆过滤器.md "wikilink")、实时建模、动态光影、[视差映射和](../Page/视差映射.md "wikilink")[高动态光照渲染等特效](../Page/高动态光照渲染.md "wikilink")。
+*Nexuiz*使用[DarkPlaces引擎](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，支持OpenGL
+2.0，拥有[布隆过滤器](../Page/布隆过滤器.md "wikilink")、实时建模、动态光影、[视差映射和](https://zh.wikipedia.org/wiki/视差映射 "wikilink")[高动态光照渲染等特效](../Page/高动态光照渲染.md "wikilink")。
 
 ## 武器
 
@@ -17,13 +17,13 @@
     标准模式自带武器。火力弱，只有一种攻击模式，无限弹药。拥有击飞的能力，子弹爆炸后散溅只带来很少伤害，所以它能用于[火箭跳而不用花费太多](../Page/火箭跳.md "wikilink")[生命值](../Page/生命值.md "wikilink")。
     弹药：不需
 
-2.Shotgun（[霰弹枪](../Page/霰弹枪.md "wikilink")）
+2.Shotgun（[霰弹枪](https://zh.wikipedia.org/wiki/霰弹枪 "wikilink")）
 
   -
     标准模式自带武器。在中近距离战斗非常有用。主攻击模式为一次射击。次攻击模式迅速连续进行三次射击，相对于主攻击模式整体耗费更多时间重新装弹。
     弹药：炮弹（主x1，次x3）
 
-3-1.Machine Gun（[机关枪](../Page/机关枪.md "wikilink")）
+3-1.Machine Gun（[机关枪](https://zh.wikipedia.org/wiki/机关枪 "wikilink")）
 
   -
     机关枪高速度发射普通子弹。主攻击模式牺牲精确度疯狂吐弹。次攻击模式射击速度下降，换取一串更有精确度的子弹。配合中键可以攻击对方头部获得最大杀伤力。
@@ -36,7 +36,7 @@
     弹药：常规子弹（主x3，次x10）
 
 4.Grenade
-Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在遊戲中也稱[迫擊砲](../Page/迫擊砲.md "wikilink")）
+Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在遊戲中也稱[迫擊砲](https://zh.wikipedia.org/wiki/迫擊砲 "wikilink")）
 
   -
     是Hager的改型。火力强大，但射击间隔长。次攻击模式为发射一个跳动的榴弹并计时两秒后爆炸。
@@ -103,8 +103,8 @@ Launcher/Mortar（[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在
 
 ## 參見
 
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
-  - [DarkPlaces](../Page/DarkPlaces.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
+  - [DarkPlaces](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")
   - Nexuiz的衍生遊戲[Xonotic](../Page/Xonotic.md "wikilink")
 
 ## 外部链接

@@ -1,24 +1,24 @@
 **Meiryo**（日語：）是一種搭載在[微软](../Page/微软.md "wikilink")[Windows
-Vista的](../Page/Windows_Vista.md "wikilink")[OpenType](../Page/OpenType.md "wikilink")[日語](../Page/日語.md "wikilink")[字型](../Page/计算机字体.md "wikilink")，源文件名稱為`meiryo.ttc`，屬於[無襯線字體和](../Page/無襯線字體.md "wikilink")[黑體](../Page/黑体_\(字体\).md "wikilink")（）。它的設計配合了Windows
-Vista的[ClearType晶瑩畫面](../Page/ClearType.md "wikilink")，並包含了字集的[漢字](../Page/漢字.md "wikilink")。
+Vista的](../Page/Windows_Vista.md "wikilink")[OpenType](../Page/OpenType.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[字型](../Page/计算机字体.md "wikilink")，源文件名稱為`meiryo.ttc`，屬於[無襯線字體和](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")[黑體](../Page/黑体_\(字体\).md "wikilink")（）。它的設計配合了Windows
+Vista的[ClearType晶瑩畫面](../Page/ClearType.md "wikilink")，並包含了字集的[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")。
 
 中譯為「**明瞭體**」，但不是正式的中文名稱，因為官方並沒有給予中文命名，所以在中文系統下看到的字體名稱為「Meiryo」。
 
 ## 概要
 
 明瞭体是Windows Vista日文版的新增字体，因此Windows
-XP以前的各种视窗版本并没有这个字体。字体设计上属于[無襯線字體和](../Page/無襯線字體.md "wikilink")[黑體](../Page/黑体_\(字体\).md "wikilink")（）。在字形上，直线部分和曲线部分区别清晰，稍微有些膨胀感，重视横排时的可读性。[汉字和](../Page/汉字.md "wikilink")[假名的字面](../Page/假名.md "wikilink")[纵横比为](../Page/纵横比.md "wikilink")95:100，因此字形略扁。
+XP以前的各种视窗版本并没有这个字体。字体设计上属于[無襯線字體和](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")[黑體](../Page/黑体_\(字体\).md "wikilink")（）。在字形上，直线部分和曲线部分区别清晰，稍微有些膨胀感，重视横排时的可读性。[汉字和](../Page/汉字.md "wikilink")[假名的字面](https://zh.wikipedia.org/wiki/假名 "wikilink")[纵横比为](https://zh.wikipedia.org/wiki/纵横比 "wikilink")95:100，因此字形略扁。
 
 字体套装包含“通常”和“粗体”。粗体并不是通常字体的简单加粗，而是在字形上进行了若干处理。这是考虑到在[HTML等环境中使用能加强与正文的对比突出强调](../Page/HTML.md "wikilink")。在具体处理上，通常字体横细竖粗，而粗体中粗细均一。斜体字体中，-{只}-有西文字符才有斜体，汉字和假名字符没有斜体。
 
-明瞭体对应[日本工业标准的](../Page/日本工业标准.md "wikilink")字符集，解决了各种兼容性问题。由此，基于日本《[戶籍法](../Page/日本戶籍法.md "wikilink")》施行规则中的“[人名用漢字](../Page/人名用漢字.md "wikilink")”可以无障碍地正常使用。这些汉字的使用在其它字体，比如原来的系统-{zh-hans:默认字体;
-zh-hant:預設;}-[微軟哥德體](../Page/微软哥特体.md "wikilink")（）系列的三种字体和[MS
-明朝系列的两种字体中](../Page/MS_明朝.md "wikilink")，需要[理光公司通过补丁的形式进行支持](../Page/理光.md "wikilink")。这个补丁也适用于Windows
+明瞭体对应[日本工业标准的](https://zh.wikipedia.org/wiki/日本工业标准 "wikilink")字符集，解决了各种兼容性问题。由此，基于日本《[戶籍法](https://zh.wikipedia.org/wiki/日本戶籍法 "wikilink")》施行规则中的“[人名用漢字](../Page/人名用漢字.md "wikilink")”可以无障碍地正常使用。这些汉字的使用在其它字体，比如原来的系统-{zh-hans:默认字体;
+zh-hant:預設;}-[微軟哥德體](https://zh.wikipedia.org/wiki/微软哥特体 "wikilink")（）系列的三种字体和[MS
+明朝系列的两种字体中](https://zh.wikipedia.org/wiki/MS_明朝 "wikilink")，需要[理光公司通过补丁的形式进行支持](../Page/理光.md "wikilink")。这个补丁也适用于Windows
 XP，\[1\]这样才保证了与明瞭体的兼容性。
 
 明瞭体（日文作“”，Meirio）的名称源于汉字词汇“明瞭”（，发音为“”，Meiryō），因为其无论是屏幕显示还是印刷，都保持明瞭清晰的特点。日文表记中不直接写而改为的理由是，发音富有异国情调，而且可以少用一个假名。\[2\]
 
-日文假名字符的设计师是[河野英一和C](../Page/河野英一.md "wikilink")\&G公司，漢字部份由C\&G公司委託台灣[文鼎科技設計](../Page/文鼎科技.md "wikilink")，西文字符的设计师是[马修·卡特](../Page/马修·卡特.md "wikilink")（Matthew
+日文假名字符的设计师是[河野英一和C](https://zh.wikipedia.org/wiki/河野英一 "wikilink")\&G公司，漢字部份由C\&G公司委託台灣[文鼎科技設計](../Page/文鼎科技.md "wikilink")，西文字符的设计师是[马修·卡特](https://zh.wikipedia.org/wiki/马修·卡特 "wikilink")（Matthew
 Carter）。\[3\]卡特是在其设计的[Verdana字体的基础上制作的](../Page/Verdana.md "wikilink")。在汉字和假名和文字符中也保持了Verdana字体的氛围。另外，由于稍微提高了方块字的基线，使汉英字符混排文章的可读性得到了提高。
 
 ## 真正的ClearType
@@ -41,9 +41,9 @@ Carter）。\[3\]卡特是在其设计的[Verdana字体的基础上制作的](..
     Gothic点阵字体比较有较大的区别](../Page/MS_Gothic.md "wikilink")。(<span style="font-family: Meiryo;">-{電
     載 賞}-</span> <span style="font-family: MS Gothic;">-{電 載 賞}-</span>)
   - 和[MS
-    Gothic以及其它一般日文字体相比](../Page/MS_Gothic.md "wikilink")，行距较大（這其實也是[微軟正黑體及](../Page/微軟正黑體.md "wikilink")[微軟雅黑會遇到的問題](../Page/微軟雅黑.md "wikilink")，因為它們同期推出）。另外和MS
-    PGothic字体相比字符宽度稍大一些，假名字符、[标点符号类似于](../Page/标点符号.md "wikilink")[等幅字体处理](../Page/等幅字体.md "wikilink")（对此，也有意见说，原来MS
-    PGothic字体的间距太小）。因此在[文本编辑器](../Page/文本编辑器.md "wikilink")、[列表中使用明瞭体](../Page/列表.md "wikilink")，比使用其它字体会占用更大面积，也就是说在同样画面中，用明瞭体显示的文字量、信息量会更少。在Vista环境中进行[网页设计会导致整体印象完全改变](../Page/网页设计.md "wikilink")。明瞭体和MS
+    Gothic以及其它一般日文字体相比](../Page/MS_Gothic.md "wikilink")，行距较大（這其實也是[微軟正黑體及](../Page/微軟正黑體.md "wikilink")[微軟雅黑會遇到的問題](https://zh.wikipedia.org/wiki/微軟雅黑 "wikilink")，因為它們同期推出）。另外和MS
+    PGothic字体相比字符宽度稍大一些，假名字符、[标点符号类似于](../Page/标点符号.md "wikilink")[等幅字体处理](https://zh.wikipedia.org/wiki/等幅字体 "wikilink")（对此，也有意见说，原来MS
+    PGothic字体的间距太小）。因此在[文本编辑器](../Page/文本编辑器.md "wikilink")、[列表中使用明瞭体](https://zh.wikipedia.org/wiki/列表 "wikilink")，比使用其它字体会占用更大面积，也就是说在同样画面中，用明瞭体显示的文字量、信息量会更少。在Vista环境中进行[网页设计会导致整体印象完全改变](../Page/网页设计.md "wikilink")。明瞭体和MS
     UI Gothic的差别更大。
 
 ## 注釋
@@ -74,7 +74,7 @@ Carter）。\[3\]卡特是在其设计的[Verdana字体的基础上制作的](..
 
 ## 请参阅
 
-  - [Segoe UI](../Page/Segoe_UI.md "wikilink")
+  - [Segoe UI](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink")
   - [微软雅黑](../Page/微软雅黑.md "wikilink")
   - [微軟正黑體](../Page/微軟正黑體.md "wikilink")
   - [Malgun Gothic](../Page/Malgun_Gothic.md "wikilink")

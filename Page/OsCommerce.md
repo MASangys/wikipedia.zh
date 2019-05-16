@@ -1,9 +1,10 @@
 **osCommerce**（for “Open Source
-Commerce”）是一套[電子商務與線上](../Page/電子商務.md "wikilink")
-store-management [軟體程式](../Page/軟體.md "wikilink")。 它能夠被使用在任何的[web
-server](../Page/web_server.md "wikilink")，因為它是使用[PHP與](../Page/PHP.md "wikilink")[MySQL架構而成](../Page/MySQL.md "wikilink")。
+Commerce”）是一套[電子商務與線上](https://zh.wikipedia.org/wiki/電子商務 "wikilink")
+store-management [軟體程式](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
+它能夠被使用在任何的[web
+server](https://zh.wikipedia.org/wiki/web_server "wikilink")，因為它是使用[PHP與](../Page/PHP.md "wikilink")[MySQL架構而成](../Page/MySQL.md "wikilink")。
 它是採用[GNU General Public
-License授權的](../Page/GNU_General_Public_License.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+License授權的](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 相關書籍
 

@@ -1,13 +1,13 @@
-**SeaMonkey**是一個[自由的](../Page/自由軟體.md "wikilink")[開放原始碼以及](../Page/開放原始碼.md "wikilink")[跨平台的網路套裝軟體](../Page/跨平台.md "wikilink")，包含一个[所见即所得的可视化](../Page/所见即所得.md "wikilink")[网页编辑器](../Page/网页编辑器.md "wikilink")。此軟體是以[Mozilla
-Suite為基礎建構之軟體](../Page/Mozilla_Suite.md "wikilink")，是[Mozilla基金會旗下軟體Mozilla](../Page/Mozilla基金會.md "wikilink")
+**SeaMonkey**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼以及](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的網路套裝軟體](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，包含一个[所见即所得的可视化](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[网页编辑器](https://zh.wikipedia.org/wiki/网页编辑器 "wikilink")。此軟體是以[Mozilla
+Suite為基礎建構之軟體](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，是[Mozilla基金會旗下軟體Mozilla](../Page/Mozilla基金會.md "wikilink")
 Suite 1.7版本的延伸，目前由旗下的SeaMonkey專案領導團體開發\[1\]。
 
-SeaMonkey在英文中指的是“[豐年蝦](../Page/豐年蝦.md "wikilink")”，所以圖示由海水和豐年蝦組成。不熟悉原文而望文生義者多誤解為“海猴子”\[2\]
+SeaMonkey在英文中指的是“[豐年蝦](https://zh.wikipedia.org/wiki/豐年蝦 "wikilink")”，所以圖示由海水和豐年蝦組成。不熟悉原文而望文生義者多誤解為“海猴子”\[2\]
 
 ## 軟體背景
 
 在2005年3月10日，自從Mozilla基金會將軟體開發部份專注於[Mozilla
-Firefox以及](../Page/Mozilla_Firefox.md "wikilink")[Mozilla
+Firefox以及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Mozilla
 Thunderbird之後](../Page/Mozilla_Thunderbird.md "wikilink")，就宣佈Mozilla
 Suite這個套件從1.7版本後，不會再出現更新的版本。
 
@@ -20,11 +20,11 @@ Suite開發人員的班底，進而取代Mozilla基金會，而在2006年1月30�
 
 為了避免某些人因仍需使用Mozilla
 Suite而和新問世的軟體名稱混淆，因此在經過Mozilla社群成員的決議之後，於2005年7月2日宣布，將以SeaMonkey此名正式取代並繼承Mozilla
-Suite這個[網路套件](../Page/網路套件.md "wikilink")。
+Suite這個[網路套件](https://zh.wikipedia.org/wiki/網路套件 "wikilink")。
 
 「Seamonkey」是Mozilla基金會在開發Mozilla
-Suite時所使用的專案[代碼](../Page/代碼.md "wikilink")，而SeaMonkey專案領導團體（SeaMonkey
-Council）當時正透過Mozilla基金會進行[商標的註冊許可](../Page/商標.md "wikilink")\[3\]。與此同時，該組織在SeaMonkey
+Suite時所使用的專案[代碼](https://zh.wikipedia.org/wiki/代碼 "wikilink")，而SeaMonkey專案領導團體（SeaMonkey
+Council）當時正透過Mozilla基金會進行[商標的註冊許可](https://zh.wikipedia.org/wiki/商標 "wikilink")\[3\]。與此同時，該組織在SeaMonkey
 1.0問世時，也將使用分立的版本計算系統。儘管SeaMonkey是使用不同的軟體名稱與版本序號，SeaMonkey
 1.0的程式碼編譯基礎還是和Mozilla 1.8完全相同。
 
@@ -82,7 +82,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2006年4月13日</p></td>
 <td><ul>
 <li>安全防護更新。</li>
-<li>透過<a href="../Page/通用二進位.md" title="wikilink">通用二進位</a>，讓SeaMonkey也能支援Intel處理器的麥金塔電腦。</li>
+<li>透過<a href="https://zh.wikipedia.org/wiki/通用二進位" title="wikilink">通用二進位</a>，讓SeaMonkey也能支援Intel處理器的麥金塔電腦。</li>
 </ul></td>
 <td></td>
 </tr>
@@ -101,7 +101,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <tr class="odd">
 <td><p>1.0.4</p></td>
 <td><p>2006年8月2日</p></td>
-<td><p>修正在1.0.3版本中，<a href="../Page/MMS_(协议).md" title="wikilink">串流媒體協定的支援問題</a>。</p></td>
+<td><p>修正在1.0.3版本中，<a href="https://zh.wikipedia.org/wiki/MMS_(协议)" title="wikilink">串流媒體協定的支援問題</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><ul>
 <li>新增增量<a href="../Page/垃圾回收_(計算機科學).md" title="wikilink">垃圾回收增进JavaScript回应速度</a>。</li>
 <li><a href="../Page/數位簽章.md" title="wikilink">數位簽章中不再支持</a><a href="../Page/MD5.md" title="wikilink">MD5散列算法</a>。</li>
-<li>默认支持<a href="../Page/Opus_codec.md" title="wikilink">Opus codec</a>。</li>
+<li>默认支持<a href="https://zh.wikipedia.org/wiki/Opus_codec" title="wikilink">Opus codec</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -527,7 +527,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.15</p></td>
 <td><p>2013年1月8日</p></td>
 <td><ul>
-<li>可设为<a href="../Page/Mac_OS.md" title="wikilink">Mac OS和</a><a href="../Page/Linux.md" title="wikilink">Linux的默认浏览器</a>。</li>
+<li>可设为<a href="https://zh.wikipedia.org/wiki/Mac_OS" title="wikilink">Mac OS和</a><a href="../Page/Linux.md" title="wikilink">Linux的默认浏览器</a>。</li>
 <li>初步<a href="../Page/WebRTC.md" title="wikilink">WebRTC支援</a>。</li>
 </ul></td>
 </tr>
@@ -554,7 +554,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.16.1</p></td>
 <td><p>2013年3月8日</p></td>
 <td><ul>
-<li>修正<a href="../Page/Windows_8.md" title="wikilink">Windows 8使用</a> AMD Radeon HD 顯示卡時的穩定性問題。(只有<a href="../Page/Windows_8.md" title="wikilink">Windows 8才會接收到此更新</a>)</li>
+<li>修正<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8使用</a> AMD Radeon HD 顯示卡時的穩定性問題。(只有<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8才會接收到此更新</a>)</li>
 </ul></td>
 <td></td>
 </tr>
@@ -571,7 +571,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.17</p></td>
 <td><p>2013年4月2日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -595,7 +595,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.19</p></td>
 <td><p>2013年6月26日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -604,7 +604,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2013年8月6日</p></td>
 <td><ul>
 <li>新郵件的提醒訊息現在可以自訂了。</li>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -613,7 +613,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2013年9月17日</p></td>
 <td><ul>
 <li>加入對桌面通知的支援。</li>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -621,7 +621,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.22</p></td>
 <td><p>2013年10月30日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -637,8 +637,8 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.23</p></td>
 <td><p>2013年12月6日</p></td>
 <td><ul>
-<li>下載進度現在會在<a href="../Page/OS_X.md" title="wikilink">OS X的</a><a href="../Page/dock.md" title="wikilink">dock上出現了</a>。</li>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>下載進度現在會在<a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">OS X的</a><a href="https://zh.wikipedia.org/wiki/dock" title="wikilink">dock上出現了</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -647,7 +647,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2014年2月6日</p></td>
 <td><ul>
 <li>加入Atom新聞來源支援。</li>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -655,7 +655,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.25</p></td>
 <td><p>2014年3月19日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -663,7 +663,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.26</p></td>
 <td><p>2014年5月2日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -691,7 +691,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.29</p></td>
 <td><p>2014年9月7日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -707,7 +707,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.30</p></td>
 <td><p>2014年10月15日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -715,7 +715,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><p>2.31</p></td>
 <td><p>2014年12月4日</p></td>
 <td><ul>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -725,7 +725,7 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 <td><ul>
 <li>拼字檢查對話框現在可調整大小。</li>
 <li>全域垃圾收集已啟用。</li>
-<li>見<a href="../Page/Mozilla_Firefox歷史.md" title="wikilink">Mozilla Firefox歷史</a>。</li>
+<li>見<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史" title="wikilink">Mozilla Firefox歷史</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -869,7 +869,8 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
 </tbody>
 </table>
 
-註：核心版本的序號是繼承[Mozilla Suite版本而來](../Page/Mozilla_Suite.md "wikilink")。
+註：核心版本的序號是繼承[Mozilla
+Suite版本而來](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。
 
 ## 参考资料
 
@@ -885,7 +886,8 @@ Suite的開發團隊中獨立出來，現在的成員如下\[4\]：
   - [电子邮件客户端列表](../Page/电子邮件客户端列表.md "wikilink")
   - [网页浏览器比较](../Page/网页浏览器比较.md "wikilink")
   - [电子邮件客户端比较](../Page/电子邮件客户端比较.md "wikilink")
-  - [Mozilla Suite](../Page/Mozilla_Suite.md "wikilink")
+  - [Mozilla
+    Suite](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")
 
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")

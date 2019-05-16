@@ -1,31 +1,31 @@
 **CUDA**（**C**ompute **U**nified **D**evice
-**A**rchitecture，**统一计算架构**\[1\]）是由[NVIDIA所推出的一種整合技術](../Page/NVIDIA.md "wikilink")，是該公司對於[GPGPU的正式名稱](../Page/GPGPU.md "wikilink")。透過這個技術，使用者可利用NVIDIA的[GeForce
-8以後的GPU和較新的](../Page/GeForce_8.md "wikilink")[Quadro](../Page/Quadro.md "wikilink")
-[GPU进行计算](../Page/GPU.md "wikilink")。亦是首次可以利用GPU作為C-编译器的开发环境。NVIDIA行銷的時候\[2\]，往往將编译器與架构混合推廣，造成混亂。實際上，CUDA可以相容[OpenCL或者自家的C](../Page/OpenCL.md "wikilink")-编译器。無論是CUDA
+**A**rchitecture，**统一计算架构**\[1\]）是由[NVIDIA所推出的一種整合技術](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，是該公司對於[GPGPU的正式名稱](https://zh.wikipedia.org/wiki/GPGPU "wikilink")。透過這個技術，使用者可利用NVIDIA的[GeForce
+8以後的GPU和較新的](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")[Quadro](../Page/Quadro.md "wikilink")
+[GPU进行计算](https://zh.wikipedia.org/wiki/GPU "wikilink")。亦是首次可以利用GPU作為C-编译器的开发环境。NVIDIA行銷的時候\[2\]，往往將编译器與架构混合推廣，造成混亂。實際上，CUDA可以相容[OpenCL或者自家的C](../Page/OpenCL.md "wikilink")-编译器。無論是CUDA
 C-語言或是OpenCL，指令最終都會被驅動程式轉換成PTX代碼，交由顯示核心計算。\[3\]
 
 ## 概要
 
 [CUDA_processing_flow_(En).PNG](https://zh.wikipedia.org/wiki/File:CUDA_processing_flow_\(En\).PNG "fig:CUDA_processing_flow_(En).PNG")
 以[GeForce 8800
-GTX为例](../Page/GeForce_8.md "wikilink")，其核心擁有128个内处理器。利用CUDA技術，就可以將那些内处理器串通起來，成為线程处理器去解决数据密集的计算。而各個内处理器能够交换、同步和共享数据。利用NVIDIA的C-编译器，通過驱动程式，就能利用这些功能。亦能成為流处理器，讓应用程式利用進行運算。
+GTX为例](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")，其核心擁有128个内处理器。利用CUDA技術，就可以將那些内处理器串通起來，成為线程处理器去解决数据密集的计算。而各個内处理器能够交换、同步和共享数据。利用NVIDIA的C-编译器，通過驱动程式，就能利用这些功能。亦能成為流处理器，讓应用程式利用進行運算。
 
 GeForce 8800
-GTX显示卡的运算能力可达到520GFlops，如果建設[SLI系统](../Page/SLI.md "wikilink")，就可以达到1TFlops。\[4\]
+GTX显示卡的运算能力可达到520GFlops，如果建設[SLI系统](https://zh.wikipedia.org/wiki/SLI "wikilink")，就可以达到1TFlops。\[4\]
 
 但程序员在利用CUDA技術時，須分開三种不同的存储器，要面對繁复的线程层次，编译器亦无法自动完成多数任务，以上問題就提高开发难度。而將來的G100會採用第二代的CUDA技術，提高效率，降低开发难度。
 
 目前，已有軟體廠商利用CUDA技術，研發出Adobe Premiere
-Pro的插件。通過插件，使用者就可以利用[顯示核心去加速](../Page/顯示核心.md "wikilink")[H.264/MPEG-4
-AVC的编码速度](../Page/H.264/MPEG-4_AVC.md "wikilink")。速度是單純利用[CPU作軟體加速的](../Page/CPU.md "wikilink")7倍左右。
+Pro的插件。通過插件，使用者就可以利用[顯示核心去加速](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[H.264/MPEG-4
+AVC的编码速度](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。速度是單純利用[CPU作軟體加速的](https://zh.wikipedia.org/wiki/CPU "wikilink")7倍左右。
 
 在NVIDIA收購[AGEIA後](../Page/AGEIA.md "wikilink")，NVIDIA取得相關的物理加速技術，即是[PhysX物理引擎](../Page/PhysX.md "wikilink")。配合CUDA技術，顯示卡可以模擬成一顆PhysX物理加速晶片\[5\]。目前，全系列的[GeForce
-8顯示核心都支援CUDA](../Page/GeForce_8.md "wikilink")。而NVIDIA亦不會再推出任何的物理加速卡，顯示卡將會取代相關產品。
+8顯示核心都支援CUDA](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")。而NVIDIA亦不會再推出任何的物理加速卡，顯示卡將會取代相關產品。
 
-為了將CUDA推向民用，NVIDIA舉行一系列的編程比賽，要求参赛者開發程式，充分利用CUDA的計算潛能。但是，要將GPGPU普及化，還要看微軟能否在[Windows作業系統中](../Page/Windows.md "wikilink")，提供相關的编程接口。\[6\]
+為了將CUDA推向民用，NVIDIA舉行一系列的編程比賽，要求参赛者開發程式，充分利用CUDA的計算潛能。但是，要將GPGPU普及化，還要看微軟能否在[Windows作業系統中](https://zh.wikipedia.org/wiki/Windows "wikilink")，提供相關的编程接口。\[6\]
 
 2008年8月，NVIDIA推出CUDA 2.0\[7\]。2010年3月22日，NVIDIA推出CUDA
-3.0，僅支援[Fermi及之後的架構](../Page/GeForce_400.md "wikilink")\[8\]。
+3.0，僅支援[Fermi及之後的架構](https://zh.wikipedia.org/wiki/GeForce_400 "wikilink")\[8\]。
 
 CUDA是一種由NVIDIA提出的並由其製造的圖形處理單元（GPUs）實現的一種平行計算平臺及程式設計模型。CUDA給程式開發人員提供直接訪問CUDA
 GPUs中的虛擬指令集和平行計算元件的記憶體。
@@ -108,11 +108,11 @@ GPUs皆支援CUDA技術，包括GeForce，Quadro和Tesla系列。CUDA與大多�
 ## 應用
 
 利用CUDA技術，配合適當的軟體（例如MediaCoder\[9\]、Freemake Video
-Converter），就可以利用顯示核心進行高清视频編碼加速。视频解碼方面，同樣可以利用CUDA技術實現。此前，[NVIDIA的顯示核心本身已集成](../Page/NVIDIA.md "wikilink")[PureVideo單元](../Page/PureVideo.md "wikilink")。可是，實現相關加速功能的一個[微軟](../Page/微軟.md "wikilink")[API](../Page/API.md "wikilink")－DXVA，偶爾會有加速失效問題。所以利用[CoreAVC配合CUDA](../Page/CoreAVC.md "wikilink")，變相在顯示核心上實現軟體解碼，解決兼容性問題\[10\]。另外，配合適當的引擎，顯示核心就可以計算[光线跟踪](../Page/光线跟踪.md "wikilink")。NVIDIA就放出了自家的Optix实时光线跟踪引擎，透過CUDA技術利用GPU計算[光线跟踪](../Page/光线跟踪.md "wikilink")。\[11\]
+Converter），就可以利用顯示核心進行高清视频編碼加速。视频解碼方面，同樣可以利用CUDA技術實現。此前，[NVIDIA的顯示核心本身已集成](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[PureVideo單元](https://zh.wikipedia.org/wiki/PureVideo "wikilink")。可是，實現相關加速功能的一個[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")－DXVA，偶爾會有加速失效問題。所以利用[CoreAVC配合CUDA](../Page/CoreAVC.md "wikilink")，變相在顯示核心上實現軟體解碼，解決兼容性問題\[10\]。另外，配合適當的引擎，顯示核心就可以計算[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")。NVIDIA就放出了自家的Optix实时光线跟踪引擎，透過CUDA技術利用GPU計算[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")。\[11\]
 
 ## 支援的產品
 
-所有基於[G80及之後架構的民用與專業顯示卡或運算模組皆支援CUDA技術](../Page/GeForce_8.md "wikilink")\[12\]。
+所有基於[G80及之後架構的民用與專業顯示卡或運算模組皆支援CUDA技術](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")\[12\]。
 
 ## 示例
 
@@ -190,7 +190,7 @@ print C.np_mat()
 ## 相關條目
 
   - [OpenCL](../Page/OpenCL.md "wikilink")
-  - [Vulkan](../Page/Vulkan_\(API\).md "wikilink")
+  - [Vulkan](https://zh.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")
 
 ## 参考文献
 

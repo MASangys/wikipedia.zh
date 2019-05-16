@@ -9,12 +9,12 @@
 
 <!-- end list -->
 
-  - **[埃及足球杯](../Page/埃及足球杯.md "wikilink")**
+  - **[埃及足球杯](https://zh.wikipedia.org/wiki/埃及足球杯 "wikilink")**
       - *冠军：* 2005年
 
 ### 海外
 
-  - **[阿拉伯冠军联赛](../Page/阿拉伯冠军联赛.md "wikilink")**
+  - **[阿拉伯冠军联赛](https://zh.wikipedia.org/wiki/阿拉伯冠军联赛 "wikilink")**
       - *亚军：* 2006年
 
 ## 外部链接

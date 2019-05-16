@@ -1,16 +1,16 @@
 《**ef - a fairy tale of the
-two.**》，是[日本遊戲公司](../Page/日本.md "wikilink")[minori發售的](../Page/minori.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，前篇《ef
+two.**》，是[日本遊戲公司](../Page/日本.md "wikilink")[minori發售的](https://zh.wikipedia.org/wiki/minori "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，前篇《ef
 - the first tale.》於2006年12月22日發售\[1\]，後篇《ef - the latter
-tale.》於2008年5月30日發售。\[2\]遊戲發行商[COMFORT於](../Page/COMFORT.md "wikilink")2010年4月29日推出包含前後篇的[Playstation
-2版](../Page/Playstation_2.md "wikilink")《ef - a fairy tale of the
-two.》。\[3\]2010年9月17日發售[Fan
-disc](../Page/Fan_disc.md "wikilink")。\[4\]
+tale.》於2008年5月30日發售。\[2\]遊戲發行商[COMFORT於](https://zh.wikipedia.org/wiki/COMFORT "wikilink")2010年4月29日推出包含前後篇的[Playstation
+2版](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")《ef - a fairy
+tale of the two.》。\[3\]2010年9月17日發售[Fan
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[4\]
 
 ## 概要
 
-本作品是日本[minori公司的第五部作品](../Page/minori.md "wikilink")，招攬了以《[水夏～SUIKA～](../Page/水夏.md "wikilink")》、《[初音島](../Page/初音島.md "wikilink")》原作者而聞名的[御影](../Page/御影.md "wikilink")，和負責該作品人物設定、原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")，在2005年初發表製作消息。
+本作品是日本[minori公司的第五部作品](https://zh.wikipedia.org/wiki/minori "wikilink")，招攬了以《[水夏～SUIKA～](../Page/水夏.md "wikilink")》、《[初音島](../Page/初音島.md "wikilink")》原作者而聞名的[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")，和負責該作品人物設定、原畫的[七尾奈留](../Page/七尾奈留.md "wikilink")，在2005年初發表製作消息。
 
-本作品並非採用[十八禁遊戲常見的](../Page/十八禁遊戲.md "wikilink")[冒險遊戲類型](../Page/冒險遊戲.md "wikilink")，而採用了稱之為[視覺小說的類型](../Page/視覺小說.md "wikilink")。在這種類型當中玩家≠主角，而是以第三人稱視點參加戲劇一樣。同時御影對成人遊戲的故事進行時的互相排他性（跟有些女主角的關係發展進行的話與其他的女主角劇情幾乎不會受到影響）以自己的方式解讀，對於每個登場人物們，各章節皆以不同的視點與筆觸來描寫。
+本作品並非採用[十八禁遊戲常見的](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，而採用了稱之為[視覺小說的類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。在這種類型當中玩家≠主角，而是以第三人稱視點參加戲劇一樣。同時御影對成人遊戲的故事進行時的互相排他性（跟有些女主角的關係發展進行的話與其他的女主角劇情幾乎不會受到影響）以自己的方式解讀，對於每個登場人物們，各章節皆以不同的視點與筆觸來描寫。
 
 同時遊戲中的插圖，也不是用其他冒險遊戲常見的站立圖像為底，大量使用了事件插圖，並取消了女主角的分歧路線，讓玩家沒有攻略遊戲的心態，而著重於鑑賞故事。
 
@@ -53,7 +53,7 @@ the latter tale.的登場人物和the first tale.有密切關係，而the latter
 first tale.爱情小品式的剧情有所不同，劇情充滿著悲傷、哀愁和無奈。
 
 在the latter tale. 中的场景则和the first
-tale.几乎相同，但兩作的人物几乎没有通过直接见面的方式，而是以电子邮件等方式交流，使玩家往往误认为这是发生在两个互相连通的[平行宇宙中的故事](../Page/平行宇宙.md "wikilink")，而結局卻表明了the
+tale.几乎相同，但兩作的人物几乎没有通过直接见面的方式，而是以电子邮件等方式交流，使玩家往往误认为这是发生在两个互相连通的[平行宇宙中的故事](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")，而結局卻表明了the
 latter
 tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽城经纬度基本相同而处于南半球（设定为[澳大利亚境内](../Page/澳大利亚.md "wikilink")）地点，并且完全仿造本尊的音羽城样式建造的景观城市。
 
@@ -97,19 +97,19 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
     第一章的女主角。音羽學園2年級生，雖然是姿容端麗、成績優秀的女孩子，在男女生中也十分有名氣，但同時也是有名的「蹺課王」。在聖誕節之夜與紘邂逅。對世界沒安全感，在她的世界就只是黑白的，最後因著紘而重獲新生。
   -
     生日11月29日，射手座，血型AB。身高171cm，體重60kg，瞳色：紫。
-    紘的朋友兼同班同學。映研的[攝影師](../Page/攝影師.md "wikilink")。第二章的男主角，三年級時與宮子同班，常常被她抓著以前的罪證要脅當下人。對景別眼相看，想找她當新電影的女主角。
+    紘的朋友兼同班同學。映研的[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")。第二章的男主角，三年級時與宮子同班，常常被她抓著以前的罪證要脅當下人。對景別眼相看，想找她當新電影的女主角。
   -
     生日6月2日，雙子座，血型A。身高150cm，體重40kg，三圍：B76/W55/H79，瞳色：金。
-    音羽學園一年級生。廣野紘的[青梅竹馬](../Page/青梅竹馬.md "wikilink")。留著短頭髮，個性與說話的口氣像男孩子一樣。[籃球社員](../Page/籃球.md "wikilink")，一年級就是正式選手。第二章的女主角。因為失去紘而自暴自棄。平常是男性腔調，擁有比男人更強的殺傷力，但底子仍是柔弱的女生。
+    音羽學園一年級生。廣野紘的[青梅竹馬](../Page/青梅竹馬.md "wikilink")。留著短頭髮，個性與說話的口氣像男孩子一樣。[籃球社員](https://zh.wikipedia.org/wiki/籃球 "wikilink")，一年級就是正式選手。第二章的女主角。因為失去紘而自暴自棄。平常是男性腔調，擁有比男人更強的殺傷力，但底子仍是柔弱的女生。
   -
     生日11月1日。天蠍座。血型B。身高159cm。體重50kg。瞳色：藍。
     父親是德國建築師。從國外轉學，喜歡閱讀原文小說。第三章的男主角。
   -
     生日6月2日，雙子座，血型A。身高151cm，體重38kg，三圍：B77/W53/H78，瞳色：金。
-    新藤景的[同卵雙胞胎妹妹](../Page/雙胞胎.md "wikilink")。與姐姐的个性相反，性格相當老實。年幼時左眼由於事故而失明並患上[順行性遺忘症](../Page/順行性遺忘症.md "wikilink")（只能擁有13小時的記憶），平常帶著眼罩。第三章的女主角。
+    新藤景的[同卵雙胞胎妹妹](../Page/雙胞胎.md "wikilink")。與姐姐的个性相反，性格相當老實。年幼時左眼由於事故而失明並患上[順行性遺忘症](https://zh.wikipedia.org/wiki/順行性遺忘症 "wikilink")（只能擁有13小時的記憶），平常帶著眼罩。第三章的女主角。
   -
     生日2月15日，水瓶座，血型A。身高177cm。體重61kg。瞳色：茶。
-    職業級小提琴家。過去就讀音羽學園，在學期間交友廣泛，和火村夕、雨宮優子、廣野凪認識。出自富裕家庭，由於無心繼承家業而遭受父親反對，為了實現夢想，不得不盡早離開音羽學園。後來到[德國留學](../Page/德國.md "wikilink")。長大後仍成為世界級小提琴演奏家，又因為心臟病，在一場演奏會倒下後引退，第四章的男主角。
+    職業級小提琴家。過去就讀音羽學園，在學期間交友廣泛，和火村夕、雨宮優子、廣野凪認識。出自富裕家庭，由於無心繼承家業而遭受父親反對，為了實現夢想，不得不盡早離開音羽學園。後來到[德國留學](https://zh.wikipedia.org/wiki/德國 "wikilink")。長大後仍成為世界級小提琴演奏家，又因為心臟病，在一場演奏會倒下後引退，第四章的男主角。
   -
     生日12月22日，摩羯座，血型AB。身高156cm，體重44kg，三圍：B80/W58/H82，瞳色：藍。
     就讀音羽的附屬中學，新藤景的學妹，非常仰慕新藤景，也很喜歡少女漫畫。
@@ -137,9 +137,9 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
 
 ## 製作人員
 
-  - 企畫：[酒井伸和](../Page/酒井伸和.md "wikilink")
-  - 監督：[御影](../Page/御影.md "wikilink")
-  - 原作、劇本：御影、[鏡遊](../Page/鏡遊.md "wikilink")
+  - 企畫：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")
+  - 監督：[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")
+  - 原作、劇本：御影、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")
   - 人物設計、作畫監督：[七尾奈留](../Page/七尾奈留.md "wikilink")、
   - 演出：酒井伸和、結城辰也、姿月景
   - 美術設定：
@@ -194,7 +194,7 @@ tale.中的音羽城是由火村夕参与设计建造，坐落于与原来音羽
 
 ### 第一季「ef - a tale of memories.」
 
-2007年10月6日開始於日本[千葉電視台等的](../Page/千葉電視台.md "wikilink")[獨立UHF放送局以及](../Page/全國獨立UHF放送協議會.md "wikilink")[AT-X](../Page/AT-X.md "wikilink")\[5\]播放，同年的12月25日完結。
+2007年10月6日開始於日本[千葉電視台等的](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")[獨立UHF放送局以及](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[AT-X](../Page/AT-X.md "wikilink")\[5\]播放，同年的12月25日完結。
 
 故事內容由 the first tale.的第一、二章及the latter
 tale.的第三章改編而成。為了遷就時間軸的構成，第二章的更改幅度比較大，把其內容刪減濃縮並完全融入第一章之中。由於動畫播放的時候the
@@ -202,8 +202,8 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 
 #### 製作人員
 
-  - 原作：[minori](../Page/minori.md "wikilink")、[鏡遊](../Page/鏡遊.md "wikilink")、[御影](../Page/御影.md "wikilink")
-  - 企劃：川村明廣、[酒井伸和](../Page/酒井伸和.md "wikilink")、太布尚弘、及川武
+  - 原作：[minori](https://zh.wikipedia.org/wiki/minori "wikilink")、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")
+  - 企劃：川村明廣、[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")、太布尚弘、及川武
   - 監督：[大沼心](../Page/大沼心.md "wikilink")
   - 監修：[新房昭之](../Page/新房昭之.md "wikilink")
   - 系列構成：
@@ -230,12 +230,13 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 
 <!-- end list -->
 
-  - 「**[euphoric field](../Page/euphoric_field.md "wikilink")**」
+  - 「**[euphoric
+    field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
 
 <!-- end list -->
 
   -
-    作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")；譯詞：西田惠美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")；歌：[ELISA](../Page/ELISA_\(歌手\).md "wikilink")
+    作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")；譯詞：西田惠美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")；歌：[ELISA](../Page/ELISA_\(歌手\).md "wikilink")
 
   - 片尾曲
 
@@ -526,7 +527,7 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>※各話標題的第一個字母連接起來便是「<a href="../Page/euphoric_field.md" title="wikilink">euphoric field</a>」。</p></td>
+<td><p>※各話標題的第一個字母連接起來便是「<a href="https://zh.wikipedia.org/wiki/euphoric_field" title="wikilink">euphoric field</a>」。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -539,15 +540,15 @@ latter tale.仍未發售，因此有關第三章的內容引起支持者們很�
 
 #### 播放電視台
 
-| 播放地區                                               | 電視台                                    | 播放期間                  | 播放時間（[UTC+9](../Page/UTC+9.md "wikilink")） |
-| -------------------------------------------------- | -------------------------------------- | --------------------- | ------------------------------------------ |
-| [千葉縣](../Page/千葉縣.md "wikilink")                   | [千葉電視台](../Page/千葉電視台.md "wikilink")   | 2007年10月6日－12月22日     | 星期六 25:35 - 26:05                          |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")                 | [神奈川電視台](../Page/神奈川電視台.md "wikilink") | 星期六 26:30 - 27:00     |                                            |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")                   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")   | 2007年10月8日－12月24日     | 星期一 26:00 - 26:30                          |
-| [京都府](../Page/京都府.md "wikilink")                   | [京都放送](../Page/京都放送.md "wikilink")     | 2007年10月9日－12月25日     | 星期二 25:30 - 26:00                          |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")                   | [SUN電視台](../Page/SUN電視台.md "wikilink") | 星期二 26:10 - 26:40     |                                            |
-| 日本全域                                               | [AT-X](../Page/AT-X.md "wikilink")     | 2007年10月22日－2008年1月7日 | 星期一 10:00 - 10:30                          |
-| [Kids Station](../Page/Kids_Station.md "wikilink") | 2008年10月29日 - 2009年1月21日               | 星期三 24:00 - 24:30     |                                            |
+| 播放地區                                                | 電視台                                                       | 播放期間                  | 播放時間（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） |
+| --------------------------------------------------- | --------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")   | 2007年10月6日－12月22日     | 星期六 25:35 - 26:05                                             |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                    | 星期六 26:30 - 27:00     |                                                               |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                      | 2007年10月8日－12月24日     | 星期一 26:00 - 26:30                                             |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [京都放送](../Page/京都放送.md "wikilink")                        | 2007年10月9日－12月25日     | 星期二 25:30 - 26:00                                             |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink") | 星期二 26:10 - 26:40     |                                                               |
+| 日本全域                                                | [AT-X](../Page/AT-X.md "wikilink")                        | 2007年10月22日－2008年1月7日 | 星期一 10:00 - 10:30                                             |
+| [Kids Station](../Page/Kids_Station.md "wikilink")  | 2008年10月29日 - 2009年1月21日                                  | 星期三 24:00 - 24:30     |                                                               |
 
 ### 第二季「ef - a tale of melodies.」
 
@@ -556,8 +557,8 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 #### 製作人員
 
-  - 原作：[minori](../Page/minori.md "wikilink")、鏡遊、[御影](../Page/御影.md "wikilink")
-  - 企劃：川村明廣、[酒井伸和](../Page/酒井伸和.md "wikilink")、太布尚弘、及川武
+  - 原作：[minori](https://zh.wikipedia.org/wiki/minori "wikilink")、鏡遊、[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")
+  - 企劃：川村明廣、[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")、太布尚弘、及川武
   - 監督：[大沼心](../Page/大沼心.md "wikilink")
   - 監修：[新房昭之](../Page/新房昭之.md "wikilink")
   - 系列構成、劇本：
@@ -581,12 +582,13 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 <!-- end list -->
 
-  - 「**[ebullient future](../Page/ebullient_future.md "wikilink")**」
+  - 「**[ebullient
+    future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")**」
 
 <!-- end list -->
 
   -
-    作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")；譯詞：西田惠美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")；歌：[ELISA](../Page/ELISA_\(歌手\).md "wikilink")
+    作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")；譯詞：西田惠美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")；歌：[ELISA](../Page/ELISA_\(歌手\).md "wikilink")
 
   - 片尾曲
 
@@ -621,7 +623,8 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 <!-- end list -->
 
-  - 「**[euphoric field](../Page/euphoric_field.md "wikilink")**」
+  - 「**[euphoric
+    field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")**」
 
 <!-- end list -->
 
@@ -681,7 +684,7 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 <tr class="even">
 <td><p>2</p></td>
 <td><p>read</p></td>
-<td><p><a href="../Page/森義博.md" title="wikilink">森義博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森義博" title="wikilink">森義博</a></p></td>
 <td><p>中山初繪</p></td>
 <td></td>
 <td></td>
@@ -690,8 +693,8 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>union</p></td>
-<td><p><a href="../Page/竹內宣之.md" title="wikilink">竹內宣之</a></p></td>
-<td><p><a href="../Page/藏本穗高.md" title="wikilink">藏本穗高</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹內宣之" title="wikilink">竹內宣之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藏本穗高" title="wikilink">藏本穗高</a></p></td>
 <td><p>田畑昭<br />
 沼津雅人</p></td>
 <td><p>MATSUDA98</p></td>
@@ -805,21 +808,22 @@ tale.的第四章及終章改編而成。和第一期一樣，整套動畫都充
 
 #### 播放電視台
 
-| 播放地區                               | 播放電視台                                     | 播放期間                   | 播放時間（[UTC+9](../Page/UTC+9.md "wikilink")） |
-| ---------------------------------- | ----------------------------------------- | ---------------------- | ------------------------------------------ |
-| [神奈川縣](../Page/神奈川縣.md "wikilink") | [tvk](../Page/神奈川電視台.md "wikilink")       | 2008年10月6日－12月22日      | 星期一 26:15 - 26:45                          |
-| [京都府](../Page/京都府.md "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")       | 2008年10月7日－12月23日      | 星期二 25:30 - 26:00                          |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [SUN電視台](../Page/SUN電視台.md "wikilink")    | 星期二 26:10 - 26:40      |                                            |
-| 全日本                                | [AT-X](../Page/AT-X.md "wikilink")        | 2008年11月14日－2009年1月30日 | 星期五 13:30 - 14:00                          |
-| [東京都](../Page/東京都.md "wikilink")   | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | 2009年1月9日－2009年3月27日   | 星期五 25:30 - 26:00                          |
+| 播放地區                                                | 播放電視台                                                     | 播放期間                   | 播放時間（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） |
+| --------------------------------------------------- | --------------------------------------------------------- | ---------------------- | ------------------------------------------------------------- |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [tvk](../Page/神奈川電視台.md "wikilink")                       | 2008年10月6日－12月22日      | 星期一 26:15 - 26:45                                             |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")                       | 2008年10月7日－12月23日      | 星期二 25:30 - 26:00                                             |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink") | 星期二 26:10 - 26:40      |                                                               |
+| 全日本                                                 | [AT-X](../Page/AT-X.md "wikilink")                        | 2008年11月14日－2009年1月30日 | 星期五 13:30 - 14:00                                             |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](../Page/東京都會電視台.md "wikilink")                 | 2009年1月9日－2009年3月27日   | 星期五 25:30 - 26:00                                             |
 
 ## 相關作品
 
 ### 漫畫
 
-漫畫版在《[月刊電撃Comic Gao\!](../Page/月刊電撃Comic_Gao!.md "wikilink")》連載。\[6\]
+漫畫版在《[月刊電撃Comic
+Gao\!](https://zh.wikipedia.org/wiki/月刊電撃Comic_Gao! "wikilink")》連載。\[6\]
 
-原作：[御影](../Page/御影.md "wikilink")、[鏡遊](../Page/鏡遊.md "wikilink")；漫畫：[雅樹里](../Page/雅樹里.md "wikilink")；發行：[MediaWorks](../Page/MediaWorks.md "wikilink")
+原作：[御影](https://zh.wikipedia.org/wiki/御影 "wikilink")、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")；漫畫：[雅樹里](https://zh.wikipedia.org/wiki/雅樹里 "wikilink")；發行：[MediaWorks](../Page/MediaWorks.md "wikilink")
 
   - 第1冊：2006年3月15日發行，ISBN 4-8402-3364-0
   - 第2冊：2006年4月15日發行，ISBN 4-8402-3415-9
@@ -862,9 +866,9 @@ tale**」這個標題在[Comptiq雜誌](../Page/Comptiq.md "wikilink")2006年7�
 <!-- end list -->
 
   -
-    [minori於](../Page/minori.md "wikilink")2006年10月27日發售。
+    [minori於](https://zh.wikipedia.org/wiki/minori "wikilink")2006年10月27日發售。
     收錄[主題曲](../Page/主題曲.md "wikilink")「」全曲長度版本、影片長度版本、各off
-    vocal版本、2種類的[獨角戲廣播劇](../Page/獨角戲.md "wikilink")（女性編、男性編）。
+    vocal版本、2種類的[獨角戲廣播劇](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")（女性編、男性編）。
     兩個版本不同在付送的畫及側紙插畫。
     另外，有不少店鋪即日全部賣出。為了回應錯失機會的人，女性角色封面版本於2006年12月22日再版。
 

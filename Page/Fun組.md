@@ -2,9 +2,9 @@
 
 ## 背景
 
-自[亞洲金融風暴後](../Page/亞洲金融風暴.md "wikilink")，[香港賽馬的投注額連年下跌](../Page/香港賽馬.md "wikilink")，而當足球賽馬規範化及香港市民的消閑方式日益增加，使賽馬活動須面對的競爭日漸加劇，故[香港賽馬會向](../Page/香港賽馬會.md "wikilink")[香港立法會提交](../Page/香港立法會.md "wikilink")《博彩稅條例》修訂草案，並於2006年中獲得通過。至此，馬會可通過提供回扣或增加賽馬彩池形式，以增加投注收益。
+自[亞洲金融風暴後](https://zh.wikipedia.org/wiki/亞洲金融風暴 "wikilink")，[香港賽馬的投注額連年下跌](../Page/香港賽馬.md "wikilink")，而當足球賽馬規範化及香港市民的消閑方式日益增加，使賽馬活動須面對的競爭日漸加劇，故[香港賽馬會向](../Page/香港賽馬會.md "wikilink")[香港立法會提交](../Page/香港立法會.md "wikilink")《博彩稅條例》修訂草案，並於2006年中獲得通過。至此，馬會可通過提供回扣或增加賽馬彩池形式，以增加投注收益。
 
-香港賽馬會在2007年1月30日宣佈設立Fun組彩池，以簡單的投注方式吸引「邊緣馬迷」及到訪香港的遊客參與賽馬博彩活動，並於同年2月7日（星期三）之[快活谷馬場夜馬賽事開始接受投注](../Page/快活谷馬場.md "wikilink")。
+香港賽馬會在2007年1月30日宣佈設立Fun組彩池，以簡單的投注方式吸引「邊緣馬迷」及到訪香港的遊客參與賽馬博彩活動，並於同年2月7日（星期三）之[快活谷馬場夜馬賽事開始接受投注](https://zh.wikipedia.org/wiki/快活谷馬場 "wikilink")。
 
 ## 彩池運作方法
 
@@ -29,15 +29,15 @@ Fun組彩池之模式是同一場賽馬的出賽馬匹分成三組，當中1至4
 
 ## 批評
 
-跟其他博彩彩池一樣，Fun組彩池在推出時，亦有遭受批評。其中，[明光社總幹事](../Page/明光社.md "wikilink")[蔡志森質疑](../Page/蔡志森.md "wikilink")，馬會推出Fun組彩池，是將複雜的賽馬投注演變成簡單的投機賭博，以吸引[青少年或](../Page/青少年.md "wikilink")[家庭主婦](../Page/家庭主婦.md "wikilink")，都可以輕易選一組來投注，變成吸引他們增加賭博金額的入門工具。他批評，馬會推出層出不窮的新彩池屬純粹是為了刺激投注額，並非與打擊外圍有關，偏離《博彩稅條例》的修訂原意。而[教育評議會副主席](../Page/教育評議會.md "wikilink")[何漢權亦認為自足球博彩規範化後](../Page/何漢權.md "wikilink")，馬會的整體收益仍有增無減，故馬會不能單以賽馬投注流失為藉口以作為增加新彩池的理據。他更表示，將就事件於博彩及獎券事務委員會會議中提出討論。
+跟其他博彩彩池一樣，Fun組彩池在推出時，亦有遭受批評。其中，[明光社總幹事](../Page/明光社.md "wikilink")[蔡志森質疑](../Page/蔡志森.md "wikilink")，馬會推出Fun組彩池，是將複雜的賽馬投注演變成簡單的投機賭博，以吸引[青少年或](../Page/青少年.md "wikilink")[家庭主婦](../Page/家庭主婦.md "wikilink")，都可以輕易選一組來投注，變成吸引他們增加賭博金額的入門工具。他批評，馬會推出層出不窮的新彩池屬純粹是為了刺激投注額，並非與打擊外圍有關，偏離《博彩稅條例》的修訂原意。而[教育評議會副主席](https://zh.wikipedia.org/wiki/教育評議會 "wikilink")[何漢權亦認為自足球博彩規範化後](../Page/何漢權.md "wikilink")，馬會的整體收益仍有增無減，故馬會不能單以賽馬投注流失為藉口以作為增加新彩池的理據。他更表示，將就事件於博彩及獎券事務委員會會議中提出討論。
 
 ## 反應
 
-Fun組正式推出後進行的兩場賽事，首場為快活谷賽事每場平均投注額約為[港幣](../Page/港幣.md "wikilink")120萬元，第二場則跌至每場50多萬元，跌幅達一半。\[1\]其後Fun組投注額一直下跌，在2007年馬季煞科日，更跌至全日94萬多元。\[2\]
+Fun組正式推出後進行的兩場賽事，首場為快活谷賽事每場平均投注額約為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")120萬元，第二場則跌至每場50多萬元，跌幅達一半。\[1\]其後Fun組投注額一直下跌，在2007年馬季煞科日，更跌至全日94萬多元。\[2\]
 
 ## 後續發展
 
-香港賽馬會其後並無放棄簡易投注方式。2015年隨四重彩及四連環的合併彩池取得成功後。推出「**[組合獨贏](../Page/組合獨贏.md "wikilink")**」，並提供「3揀1」、「勝出練馬師」及「勝出地區」三項彩池。2015年10月25日首度推出，三項彩池的賠率均與「獨贏」彩池合併。
+香港賽馬會其後並無放棄簡易投注方式。2015年隨四重彩及四連環的合併彩池取得成功後。推出「**[組合獨贏](https://zh.wikipedia.org/wiki/組合獨贏 "wikilink")**」，並提供「3揀1」、「勝出練馬師」及「勝出地區」三項彩池。2015年10月25日首度推出，三項彩池的賠率均與「獨贏」彩池合併。
 
 ## 參見
 
@@ -51,18 +51,18 @@ Fun組正式推出後進行的兩場賽事，首場為快活谷賽事每場平�
 
   - 《「Fun組」新彩池　圖刺激投注》（香港文匯報，2007年1月31日）
   - 《新玩法「Fun組」唔識馬都識賭　馬會搶師奶客》（蘋果日報，2007年1月31日）
-  - [賽馬推Fun組新玩法救亡](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=headlines&type=headlines&date=2007-01-31&id=2322916)，《[東方日報](../Page/東方日報.md "wikilink")》，2007-01-31
+  - [賽馬推Fun組新玩法救亡](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=headlines&type=headlines&date=2007-01-31&id=2322916)，《[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink")》，2007-01-31
   - [賽馬「Fun組」彩池三分一機會中獎](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=headlines&type=pic&date=2007-01-31&id=2322833)，《[星島日報](../Page/星島日報.md "wikilink")》，2007-01-31
-  - [馬會推Fun組彩池](https://web.archive.org/web/20070312043713/http://www.takungpao.com/news/07/01/31/GW-686263.htm)，《[大公報](../Page/大公報.md "wikilink")》，2007-01-31
-  - [玩Fun組遊戲贏禮物](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-04&id=2325571)，[香港新浪網](../Page/香港新浪網.md "wikilink")，2007-02-04
-  - [Fun組編號新玩法今次賽事起推出](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-06&id=2326885)，[香港新浪網](../Page/香港新浪網.md "wikilink")，2007-02-06
-  - [香港一場輸贏已定的“賽馬”](http://www.chinareviewnews.com/doc/1003/0/4/0/100304012.html?coluid=7&kindid=0&docid=100304012)，《[聯合早報](../Page/聯合早報.md "wikilink")》，2007-02-06
+  - [馬會推Fun組彩池](https://web.archive.org/web/20070312043713/http://www.takungpao.com/news/07/01/31/GW-686263.htm)，《[大公報](https://zh.wikipedia.org/wiki/大公報 "wikilink")》，2007-01-31
+  - [玩Fun組遊戲贏禮物](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-04&id=2325571)，[香港新浪網](https://zh.wikipedia.org/wiki/香港新浪網 "wikilink")，2007-02-04
+  - [Fun組編號新玩法今次賽事起推出](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-06&id=2326885)，[香港新浪網](https://zh.wikipedia.org/wiki/香港新浪網 "wikilink")，2007-02-06
+  - [香港一場輸贏已定的“賽馬”](http://www.chinareviewnews.com/doc/1003/0/4/0/100304012.html?coluid=7&kindid=0&docid=100304012)，《[聯合早報](https://zh.wikipedia.org/wiki/聯合早報 "wikilink")》，2007-02-06
 
 </div>
 
 [Category:香港賽馬](https://zh.wikipedia.org/wiki/Category:香港賽馬 "wikilink")
 [Category:香港博彩](https://zh.wikipedia.org/wiki/Category:香港博彩 "wikilink")
 
-1.  [「太陽威力」分利值博](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-12&id=2330872)，[香港新浪網](../Page/香港新浪網.md "wikilink")，2007-02-12
+1.  [「太陽威力」分利值博](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?ct=living&type=horse&date=2007-02-12&id=2330872)，[香港新浪網](https://zh.wikipedia.org/wiki/香港新浪網 "wikilink")，2007-02-12
 2.  [冇肉食難吸引
     新馬季或叮走「Fun組」彩池最短命](http://the-sun.on.cc/channels/news/20070816/20070816024538_0000.html)，[太陽報](../Page/太陽報.md "wikilink")，2007-08-16

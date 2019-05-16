@@ -1,5 +1,5 @@
 **GENJI -神威奏亂-**是由Game
-Republic開發并由[索尼电脑娱乐在](../Page/索尼电脑娱乐.md "wikilink")[PlayStation
+Republic開發并由[索尼电脑娱乐在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
 3平台上发行的动作遊戲](../Page/PlayStation_3.md "wikilink")。本作是PlayStation
 3的首发游戏之一。
 
@@ -15,13 +15,13 @@ GENJI的3年後，[源義經擊敗了平氏一族的平清盛](../Page/源義經
 
   - [源九郎義經](../Page/源義經.md "wikilink") -
     [浪川大輔](../Page/浪川大輔.md "wikilink")
-  - [武藏坊辨慶](../Page/武藏坊辨慶.md "wikilink") -
+  - [武藏坊辨慶](https://zh.wikipedia.org/wiki/武藏坊辨慶 "wikilink") -
     [大塚明夫](../Page/大塚明夫.md "wikilink")　
-  - [静御前](../Page/静御前.md "wikilink") -
-    [戶田惠梨香](../Page/戶田惠梨香.md "wikilink")
-  - 九妖 - [長澤美樹](../Page/長澤美樹.md "wikilink")
+  - [静御前](https://zh.wikipedia.org/wiki/静御前 "wikilink") -
+    [戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink")
+  - 九妖 - [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
   - 武尊 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
-  - [源頼朝](../Page/源頼朝.md "wikilink")
+  - [源頼朝](https://zh.wikipedia.org/wiki/源頼朝 "wikilink")
   - [平敦盛](../Page/平敦盛.md "wikilink")
   - [平知盛](../Page/平知盛.md "wikilink")
   - [平教經](../Page/平教經.md "wikilink")

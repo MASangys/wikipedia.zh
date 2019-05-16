@@ -2,13 +2,13 @@
 Sugar桌面截圖 | developer = OLPC團隊 | latest_release_version = 0.100 |
 latest_release_date =  | operating_system =
 [Linux](../Page/Linux.md "wikilink") | genre =
-[桌面環境](../Page/桌面環境.md "wikilink") | license =
-[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink") | website =
-[laptop.org/sugar](http://wiki.laptop.org/go/sugar) }}
+[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink") | license
+= [GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink") |
+website = [laptop.org/sugar](http://wiki.laptop.org/go/sugar) }}
 
-**Sugar**是為[OLPC的兒童電腦計劃而開發的](../Page/OLPC.md "wikilink")[圖形用戶界面](../Page/圖形用戶界面.md "wikilink")。與許多傳統[桌面環境不同](../Page/桌面環境.md "wikilink")，Sugar並不使用「桌面」的概念以及只能同時集中於一項工作。Sugar以[直譯式語言](../Page/直譯式語言.md "wikilink")[Python編寫](../Page/Python.md "wikilink")（大部份其他環境以如[C++等](../Page/C++.md "wikilink")[編譯式語言編寫](../Page/編譯式語言.md "wikilink")，作為對比）。該計劃的主要參與者包括了[Christopher
-Blizzard與](../Page/Christopher_Blizzard.md "wikilink")[Diana
-Fong](../Page/Diana_Fong.md "wikilink")。
+**Sugar**是為[OLPC的兒童電腦計劃而開發的](../Page/OLPC.md "wikilink")[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")。與許多傳統[桌面環境不同](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，Sugar並不使用「桌面」的概念以及只能同時集中於一項工作。Sugar以[直譯式語言](https://zh.wikipedia.org/wiki/直譯式語言 "wikilink")[Python編寫](../Page/Python.md "wikilink")（大部份其他環境以如[C++等](../Page/C++.md "wikilink")[編譯式語言編寫](https://zh.wikipedia.org/wiki/編譯式語言 "wikilink")，作為對比）。該計劃的主要參與者包括了[Christopher
+Blizzard與](https://zh.wikipedia.org/wiki/Christopher_Blizzard "wikilink")[Diana
+Fong](https://zh.wikipedia.org/wiki/Diana_Fong "wikilink")。
 
 ## 設計原理
 
@@ -25,11 +25,12 @@ relevant to the task at hand)"\[1\]。
 ## 現況
 
 Sugar仍在開發中，在2006年5月其創作者將其形容為主要是一種“用來表達的工具（tool for
-expression）”，因為計劃預定會加入[多媒體與](../Page/多媒體.md "wikilink")[社會性網路功能](../Page/社會性網路.md "wikilink")\[2\]。
+expression）”，因為計劃預定會加入[多媒體與](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[社會性網路功能](https://zh.wikipedia.org/wiki/社會性網路 "wikilink")\[2\]。
 
-2007年早期起Sugar可安裝在多個操作系統上，包括了數個[Linux發行版](../Page/Linux發行版.md "wikilink")、[Microsoft
-Windows與](../Page/Microsoft_Windows.md "wikilink")[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")，指引可在該計劃的[wiki上找到](../Page/wiki.md "wikilink")\[3\]。
+2007年早期起Sugar可安裝在多個操作系統上，包括了數個[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")、[Microsoft
+Windows與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，指引可在該計劃的[wiki上找到](https://zh.wikipedia.org/wiki/wiki "wikilink")\[3\]。
 
 現在，可將Sugar系統可放置在[闪存盘中](../Page/闪存盘.md "wikilink")，使每一台電腦都可以成為[XO-1笔记本](../Page/XO-1.md "wikilink")。Sugar的实验室主管表示，Sugar系統非常適合兒童上課時使用\[4\]。將電腦換成Sugar介面，可以令老師和學生，充分利用Sugar的協作功能。
 

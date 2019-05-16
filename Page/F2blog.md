@@ -1,5 +1,5 @@
-**F2blog**是[PHP語言的中文](../Page/PHP.md "wikilink")[部落格平台](../Page/部落格.md "wikilink")，以[Tatter
-Tools為藍本設計](../Page/Tatter_Tools.md "wikilink")，同時也參考了[WordPress等部落格](../Page/WordPress.md "wikilink")，把多個平台的優點整合而成。支援建構在Linux和Windows
+**F2blog**是[PHP語言的中文](../Page/PHP.md "wikilink")[部落格平台](https://zh.wikipedia.org/wiki/部落格 "wikilink")，以[Tatter
+Tools為藍本設計](https://zh.wikipedia.org/wiki/Tatter_Tools "wikilink")，同時也參考了[WordPress等部落格](../Page/WordPress.md "wikilink")，把多個平台的優點整合而成。支援建構在Linux和Windows
 server的PHP+[MySQL](../Page/MySQL.md "wikilink")，目前最新版本是 1.2 build 03.01
 版。
 
@@ -7,19 +7,19 @@ server的PHP+[MySQL](../Page/MySQL.md "wikilink")，目前最新版本是 1.2 bu
 
 ## 功能
 
-  - 內建[TinyMCE和](../Page/TinyMCE.md "wikilink")[FCKeditor兩種](../Page/FCKeditor.md "wikilink")[所見即所得編輯器和使用](../Page/所見即所得.md "wikilink")[UBB語法的](../Page/BBCode.md "wikilink")[PHPWind編輯器](../Page/PHPWind.md "wikilink")
+  - 內建[TinyMCE和](../Page/TinyMCE.md "wikilink")[FCKeditor兩種](https://zh.wikipedia.org/wiki/FCKeditor "wikilink")[所見即所得編輯器和使用](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[UBB語法的](../Page/BBCode.md "wikilink")[PHPWind編輯器](../Page/PHPWind.md "wikilink")
   - 可開放讓會員共同編輯
   - 支援自行增加、調整版面與外掛模組
-  - [繁體中文和](../Page/繁體中文.md "wikilink")[簡體中文相互轉換功能](../Page/簡體中文.md "wikilink")
+  - [繁體中文和](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[簡體中文相互轉換功能](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")
   - 提供文章的分類和個別的[RSS](../Page/RSS.md "wikilink")
   - 完整備份功能
   - 生成靜態網頁功能
   - 私密文章功能限定某些文章只供內部人員瀏覽
-  - [標籤](../Page/標籤.md "wikilink")（Tags）功能便於閱讀熱門重要的文章
+  - [標籤](https://zh.wikipedia.org/wiki/標籤 "wikilink")（Tags）功能便於閱讀熱門重要的文章
 
 ### 模板、主題
 
-F2blog使用和[pjblog共通的模版](../Page/pjblog.md "wikilink")，並且可藉由修改[CSS來控制](../Page/CSS.md "wikilink")。
+F2blog使用和[pjblog共通的模版](https://zh.wikipedia.org/wiki/pjblog "wikilink")，並且可藉由修改[CSS來控制](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ### 外掛
 
@@ -27,7 +27,7 @@ F2blog使用和[pjblog共通的模版](../Page/pjblog.md "wikilink")，並且可
 
 ### 語言
 
-F2blog使用[UTF-8編碼](../Page/UTF-8.md "wikilink")，相容於中日韓等[雙位元字元](../Page/CJKV.md "wikilink")，內建有[英文](../Page/英文.md "wikilink")、[繁體中文](../Page/繁體中文.md "wikilink")、[簡體中文三種介面](../Page/簡體中文.md "wikilink")。
+F2blog使用[UTF-8編碼](../Page/UTF-8.md "wikilink")，相容於中日韓等[雙位元字元](https://zh.wikipedia.org/wiki/CJKV "wikilink")，內建有[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、[簡體中文三種介面](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。
 
 ### 運作環境
 

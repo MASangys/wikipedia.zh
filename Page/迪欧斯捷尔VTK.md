@@ -16,7 +16,7 @@ VTK**）是[匈牙利足球俱乐部](../Page/匈牙利.md "wikilink")，位于[
 
 ## 球队荣誉
 
-  - **[匈牙利杯](../Page/匈牙利杯.md "wikilink")**
+  - **[匈牙利杯](https://zh.wikipedia.org/wiki/匈牙利杯 "wikilink")**
       - 冠军: 1977年, 1980年
       - 亚军 : 1942年, 1965年, 1981年
 

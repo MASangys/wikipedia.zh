@@ -1,4 +1,4 @@
-《**NOIR**》（）是2001年4月5日到同年9月27日於東京電視台進行放送的電視動畫作品。全26話。以「槍與少女」為主要概念，將此系列命名為美少女槍戰三部曲，本作即為第1部曲\[1\]、後年發表第2部曲《[MADLAX](../Page/MADLAX.md "wikilink")》（2004年）、第3部曲《[EL
+《**NOIR**》（）是2001年4月5日到同年9月27日於東京電視台進行放送的電視動畫作品。全26話。以「槍與少女」為主要概念，將此系列命名為美少女槍戰三部曲，本作即為第1部曲\[1\]、後年發表第2部曲《[MADLAX](https://zh.wikipedia.org/wiki/MADLAX "wikilink")》（2004年）、第3部曲《[EL
 CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進行製作。
 
 由於是殺手的故事、片中對於槍械有相當深入的描述。同時、藉由「殺手」與美少女的衝擊性，以及黑暗行業與悲慘身世，來突顯並描述更深層面的人性探討。
@@ -13,19 +13,20 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
 ## 主要角色
 
-  - 夕叢霧香（Yumura Kirika、CV：[桑島法子](../Page/桑島法子.md "wikilink")）
+  - 夕叢霧香（Yumura
+    Kirika、CV：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）
   - 蜜蕾優．布克（Mireille
     Bouquet、ミレイユ・ブーケ、CV：[三石琴乃](../Page/三石琴乃.md "wikilink")）
   - 阿爾蒂娜（Altena、アルテナ、CV：[TARAKO](../Page/TARAKO.md "wikilink")）
-  - 克洛維（Chloe、クロエ、CV：[久川綾](../Page/久川綾.md "wikilink")）
+  - 克洛維（Chloe、クロエ、CV：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）
 
 ## 製作團隊
 
-  - 原案、構成、腳本 - [月村了衛](../Page/月村了衛.md "wikilink")
+  - 原案、構成、腳本 - [月村了衛](https://zh.wikipedia.org/wiki/月村了衛 "wikilink")
   - 監督、音響演出 - [真下耕一](../Page/真下耕一.md "wikilink")
   - 人物設計 -
-    [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](../Page/芝美奈子.md "wikilink")、宮地聰子
-  - 機械設計 - [寺岡賢司](../Page/寺岡賢司.md "wikilink")
+    [菊地洋子](../Page/菊地洋子.md "wikilink")、[芝美奈子](https://zh.wikipedia.org/wiki/芝美奈子 "wikilink")、宮地聰子
+  - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")
   - 色彩設計 - 片山由美子
   - 美術監督 - 小山俊久
   - 攝影監督 - 森下成一、武原健二
@@ -33,19 +34,20 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
   - 音樂 - [梶浦由記](../Page/梶浦由記.md "wikilink")
   - 製作人 - 北山茂
   - 動畫製作人 - 江川功爾憲、神林名里
-  - 動畫製作 - [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
-  - 製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
+  - 動畫製作 - [BEE
+    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
+  - 製作 - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
 
 ## 主題曲
 
-  - 片頭曲「[コッペリアの柩](../Page/コッペリアの柩.md "wikilink")」
-    作詞 - [寶野亞莉華](../Page/寶野亞莉華.md "wikilink") / 作曲 -
-    [片倉三起也](../Page/片倉三起也.md "wikilink") / 歌 - [ALI
+  - 片頭曲「[コッペリアの柩](https://zh.wikipedia.org/wiki/コッペリアの柩 "wikilink")」
+    作詞 - [寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink") / 作曲 -
+    [片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink") / 歌 - [ALI
     PROJECT](../Page/ALI_PROJECT.md "wikilink")
 
   - 片尾曲「きれいな感情」
     作詞・作曲・歌 - [新居昭乃](../Page/新居昭乃.md "wikilink") / 編曲 -
-    [保刈久明](../Page/保刈久明.md "wikilink")
+    [保刈久明](https://zh.wikipedia.org/wiki/保刈久明 "wikilink")
 
   - 插入曲
 
@@ -59,7 +61,8 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
   -
 
       -
-        作詞・作曲・編曲 - 梶浦由記 / 歌 - [笠原由里](../Page/笠原由里.md "wikilink")
+        作詞・作曲・編曲 - 梶浦由記 / 歌 -
+        [笠原由里](https://zh.wikipedia.org/wiki/笠原由里 "wikilink")
 
 ## 各話列表
 
@@ -84,7 +87,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <tr class="even">
 <td><p>第2話</p></td>
 <td></td>
-<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
 <td><p>門智昭</p></td>
 <td></td>
 </tr>
@@ -100,14 +103,14 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <td><p>第4話</p></td>
 <td></td>
 <td><p>有江勇樹</p></td>
-<td><p><a href="../Page/芝美奈子.md" title="wikilink">芝美奈子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芝美奈子" title="wikilink">芝美奈子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第5話</p></td>
 <td></td>
-<td><p><a href="../Page/多田俊介.md" title="wikilink">多田俊介</a></p></td>
-<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多田俊介" title="wikilink">多田俊介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
 <td><p>津幡佳明</p></td>
 </tr>
 <tr class="even">
@@ -213,7 +216,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 <td><p>第20話</p></td>
 <td></td>
 <td><p>山本秀世</p></td>
-<td><p><a href="../Page/田中雄一.md" title="wikilink">田中雄一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中雄一" title="wikilink">田中雄一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -263,11 +266,11 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
 ## 播放電視台
 
-| 播放地域                                 | 播放電視台                                  | 播放期間              | 播放時間                  | 播放系列                                          | 備註     |
-| ------------------------------------ | -------------------------------------- | ----------------- | --------------------- | --------------------------------------------- | ------ |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink") | [東京電視台](../Page/東京電視台.md "wikilink")   | 2001年4月5日 - 9月27日 | 星期四 25:15 - 25:45     | [東京電視台系列](../Page/TXN.md "wikilink")          |        |
-| [日本全域](../Page/全國放送.md "wikilink")   | [ANIMAX](../Page/ANIMAX.md "wikilink") | 2014年3月3日 - 4月8日  | 週一 - 週五 25:30 - 26:00 | [CS放送](../Page/日本衛星電視廣播#CS技術放送.md "wikilink") | HD高畫質版 |
-|                                      |                                        |                   |                       |                                               |        |
+| 播放地域                                                    | 播放電視台                                                     | 播放期間              | 播放時間                  | 播放系列                                                             | 備註     |
+| ------------------------------------------------------- | --------------------------------------------------------- | ----------------- | --------------------- | ---------------------------------------------------------------- | ------ |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | [東京電視台](../Page/東京電視台.md "wikilink")                      | 2001年4月5日 - 9月27日 | 星期四 25:15 - 25:45     | [東京電視台系列](https://zh.wikipedia.org/wiki/TXN "wikilink")          |        |
+| [日本全域](https://zh.wikipedia.org/wiki/全國放送 "wikilink")   | [ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink") | 2014年3月3日 - 4月8日  | 週一 - 週五 25:30 - 26:00 | [CS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS技術放送 "wikilink") | HD高畫質版 |
+|                                                         |                                                           |                   |                       |                                                                  |        |
 
 ## 發行商品
 
@@ -277,7 +280,7 @@ CAZADOR](../Page/魔女獵人.md "wikilink")》（2007年）以此為順序進�
 
 ### BD-BOX
 
-除了原版35mm底片[HD高畫質版外加上BD](../Page/高畫質錄影帶.md "wikilink")-BOX、於2014年2月19日發售。特典之外、美國版同時收錄原版和英語配音。
+除了原版35mm底片[HD高畫質版外加上BD](https://zh.wikipedia.org/wiki/高畫質錄影帶 "wikilink")-BOX、於2014年2月19日發售。特典之外、美國版同時收錄原版和英語配音。
 
 ## 出處
 

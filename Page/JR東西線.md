@@ -1,23 +1,23 @@
-**JR東西線**（）是一條連結[日本](../Page/日本.md "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[城東區的](../Page/城東區_\(大阪市\).md "wikilink")[京橋站至](../Page/京橋站_\(大阪府\).md "wikilink")[兵庫縣](../Page/兵庫縣.md "wikilink")[尼崎市的](../Page/尼崎市.md "wikilink")[尼崎站的鐵路線](../Page/尼崎站_\(JR西日本\).md "wikilink")。[第三種鐵道事業者的](../Page/鐵路公司#第三種鐵道事業者.md "wikilink")保有軌道等鐵路設施，[第二種鐵道事業者的](../Page/鐵路公司#第二種鐵道事業者.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）進行旅客運送（[幹線](../Page/幹線.md "wikilink")）。
+**JR東西線**（）是一條連結[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[城東區的](../Page/城東區_\(大阪市\).md "wikilink")[京橋站至](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市的](../Page/尼崎市.md "wikilink")[尼崎站的鐵路線](../Page/尼崎站_\(JR西日本\).md "wikilink")。[第三種鐵道事業者的](https://zh.wikipedia.org/wiki/鐵路公司#第三種鐵道事業者 "wikilink")保有軌道等鐵路設施，[第二種鐵道事業者的](https://zh.wikipedia.org/wiki/鐵路公司#第二種鐵道事業者 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）進行旅客運送（[幹線](https://zh.wikipedia.org/wiki/幹線 "wikilink")）。
 
 ## 概要
 
-JR東西線是JR西日本第一條地下路線，1997年3月8日開業。東西向橫貫大阪市街地底的JR東西線，在起點可與[片町線](../Page/片町線.md "wikilink")（學研都市線）銜接，在終點則是與[東海道本線](../Page/東海道本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）、[福知山線](../Page/福知山線.md "wikilink")（JR寶塚線）等路線接續。JR東西線是JR西日本旗下的[都市網路](../Page/都市網路.md "wikilink")（Urban
-Network）路線之一，並根據「沿線[造幣局](../Page/造幣局_\(日本\).md "wikilink")、[大阪城公園等](../Page/大阪城公園.md "wikilink")[櫻花名所的印象](../Page/櫻花.md "wikilink")」而選擇櫻桃色作為該路線的代表色，而路線代表記號則是英文字母「H」。
+JR東西線是JR西日本第一條地下路線，1997年3月8日開業。東西向橫貫大阪市街地底的JR東西線，在起點可與[片町線](https://zh.wikipedia.org/wiki/片町線 "wikilink")（學研都市線）銜接，在終點則是與[東海道本線](../Page/東海道本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）、[福知山線](../Page/福知山線.md "wikilink")（JR寶塚線）等路線接續。JR東西線是JR西日本旗下的[都市網路](https://zh.wikipedia.org/wiki/都市網路 "wikilink")（Urban
+Network）路線之一，並根據「沿線[造幣局](https://zh.wikipedia.org/wiki/造幣局_\(日本\) "wikilink")、[大阪城公園等](../Page/大阪城公園.md "wikilink")[櫻花名所的印象](https://zh.wikipedia.org/wiki/櫻花 "wikilink")」而選擇櫻桃色作為該路線的代表色，而路線代表記號則是英文字母「H」。
 
 JR東西線雖然是由JR西日本負責經營，但實際上軌道等硬體設施的所有權卻是屬於為了興建片福聯絡線（也就是今日的JR東西線）而由JR西日本與大阪府、大阪市等地方自治體所共同出資成立的[第三部門鐵路公司](../Page/日本第三部門鐵道.md "wikilink")擁有。
 
-JR東西線的正式名稱中包括「JR」兩字\[1\]\[2\]。雖然在此之前[JR集團之下的各公司就已有在路線名稱前面加上](../Page/JR集團.md "wikilink")「JR」兩字的前例，如[JR京都線](../Page/JR京都線.md "wikilink")、[JR神戶線等](../Page/JR神戶線.md "wikilink")，但後二者實際上是在[東海道本線](../Page/東海道本線.md "wikilink")、[山陽本線等正式路線上劃定部分路段區間進行營運時](../Page/山陽本線.md "wikilink")，所賦予的別名。因此，在正式路線名稱中包含「JR」兩字，JR東西線是第一條、也是迄今（2016年）為止唯一的一條案例。
+JR東西線的正式名稱中包括「JR」兩字\[1\]\[2\]。雖然在此之前[JR集團之下的各公司就已有在路線名稱前面加上](https://zh.wikipedia.org/wiki/JR集團 "wikilink")「JR」兩字的前例，如[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線等](../Page/JR神戶線.md "wikilink")，但後二者實際上是在[東海道本線](../Page/東海道本線.md "wikilink")、[山陽本線等正式路線上劃定部分路段區間進行營運時](../Page/山陽本線.md "wikilink")，所賦予的別名。因此，在正式路線名稱中包含「JR」兩字，JR東西線是第一條、也是迄今（2016年）為止唯一的一條案例。
 
-JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page/大都市近郊區間_\(JR\).md "wikilink")「大阪近郊區間」。另外，本路線也屬於JR的，如果旅程的起訖點都屬於此區間範圍內的車站時，即視為是通勤旅次，旅客只需負擔較標準車資更為折扣的費用。在車資收取的方式上，JR東西線全線所有車站都適用近畿地區通用的[IC](../Page/IC卡.md "wikilink")[儲值車票](../Page/儲值車票.md "wikilink")——[ICOCA](../Page/ICOCA.md "wikilink")。
+JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\) "wikilink")「大阪近郊區間」。另外，本路線也屬於JR的，如果旅程的起訖點都屬於此區間範圍內的車站時，即視為是通勤旅次，旅客只需負擔較標準車資更為折扣的費用。在車資收取的方式上，JR東西線全線所有車站都適用近畿地區通用的[IC](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[儲值車票](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")——[ICOCA](../Page/ICOCA.md "wikilink")。
 
 ### 路線資料
 
-  - 管轄（事業類別）：西日本旅客鐵道（[第二種鐵道事業者](../Page/鐵路公司#第二種鐵道事業者.md "wikilink")）、關西高速鐵道（[第三種鐵道事業者](../Page/鐵路公司#第三種鐵道事業者.md "wikilink")）
+  - 管轄（事業類別）：西日本旅客鐵道（[第二種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司#第二種鐵道事業者 "wikilink")）、關西高速鐵道（[第三種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司#第三種鐵道事業者 "wikilink")）
 
   - 路線距離（）：12.5公里
 
-  - [軌距](../Page/軌距.md "wikilink")：1067毫米
+  - [軌距](https://zh.wikipedia.org/wiki/軌距 "wikilink")：1067毫米
 
   - 站數：9個（包括起終點站）
 
@@ -44,14 +44,14 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 ## 沿線概況
 
 京橋車站附近與神崎川至尼崎車站的區間以外，全區間為地下線、大阪城北詰 -
-加島的各車站為[地下車站](../Page/地下車站.md "wikilink")。京橋、尼崎以外的全線地下車站為[島式月台](../Page/島式月台.md "wikilink")1面2線。另外，地下行走使用[剛體架線](../Page/架空電車線#剛性懸掛.md "wikilink")。
+加島的各車站為[地下車站](../Page/地下車站.md "wikilink")。京橋、尼崎以外的全線地下車站為[島式月台](../Page/島式月台.md "wikilink")1面2線。另外，地下行走使用[剛體架線](https://zh.wikipedia.org/wiki/架空電車線#剛性懸掛 "wikilink")。
 
 [FILE:JRW_plathome-door.jpg|大阪天滿宮站・北新地站設置的月台門](FILE:JRW_plathome-door.jpg%7C大阪天滿宮站・北新地站設置的月台門)。
 <FILE:JRW> series321 Tozai.jpg|東海道本線並走區間。
 
 ## 運行形態
 
-全列車於京橋車站開始向[片町線（學研都市線）](../Page/片町線.md "wikilink")、幾乎全列車於尼崎車站向[福知山線（JR寶塚線）伊丹](../Page/福知山線.md "wikilink")・寶塚・篠山口方向之間於[東海道](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）西明石方向直通運轉\[4\]。
+全列車於京橋車站開始向[片町線（學研都市線）](https://zh.wikipedia.org/wiki/片町線 "wikilink")、幾乎全列車於尼崎車站向[福知山線（JR寶塚線）伊丹](../Page/福知山線.md "wikilink")・寶塚・篠山口方向之間於[東海道](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）西明石方向直通運轉\[4\]。
 
 種別上雖然有快速・區間快速・直通快速存在、但通過車站皆位於直通的片町線・福知山線區間内、於JR東西線・JR神戶線内為各車站停車。
 
@@ -60,13 +60,13 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 ### 神戶 Seaside Leisure 號
 
 **神戶 Seaside Leisure
-號**（****）是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經由[四条畷車站](../Page/四条畷車站.md "wikilink")・[放出車站](../Page/放出車站.md "wikilink")～[西明石車站間的](../Page/西明石車站.md "wikilink")[片町線（學研都市線）](../Page/片町線.md "wikilink")・JR東西線・[東海道本線](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）於2000年與2001年的7月～9月土曜・休日運行的[多客臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")。
+號**（****）是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經由[四条畷車站](https://zh.wikipedia.org/wiki/四条畷車站 "wikilink")・[放出車站](https://zh.wikipedia.org/wiki/放出車站 "wikilink")～[西明石車站間的](https://zh.wikipedia.org/wiki/西明石車站 "wikilink")[片町線（學研都市線）](https://zh.wikipedia.org/wiki/片町線 "wikilink")・JR東西線・[東海道本線](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）於2000年與2001年的7月～9月土曜・休日運行的[多客臨時](https://zh.wikipedia.org/wiki/臨時列車 "wikilink")[快速列車](https://zh.wikipedia.org/wiki/快速列車 "wikilink")。
 
 由於宣傳不足等原因。神戶 Seaside Leisure 號已停止運行。
 
 ## 使用車輛
 
-現在、JR東西線定期運用的有[207系](../Page/JR西日本207系電力動車組.md "wikilink")・[321系](../Page/JR西日本321系電力動車組.md "wikilink")（全為[網干總合車輛所明石支所所屬](../Page/網干總合車輛所.md "wikilink")）。
+現在、JR東西線定期運用的有[207系](../Page/JR西日本207系電力動車組.md "wikilink")・[321系](../Page/JR西日本321系電力動車組.md "wikilink")（全為[網干總合車輛所明石支所所屬](https://zh.wikipedia.org/wiki/網干總合車輛所 "wikilink")）。
 
 ## 歷史
 
@@ -79,12 +79,12 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
       - 10月20日：大阪城北詰站 → 大阪天滿宮站間JR東西線隧道散步實施\[5\]
       - 12月4日：試運行開始\[6\]。
   - 1997年（平成9年）3月8日：京橋站 - 尼崎站間開業。片町線京橋站 -
-    [片町站間由京橋站](../Page/片町站.md "wikilink") -
-    大阪城北詰站間代替而廢止。
+    [片町站間由京橋站](https://zh.wikipedia.org/wiki/片町站 "wikilink")
+    - 大阪城北詰站間代替而廢止。
   - 2002年（平成14年） 12月2日：女性専用車導入\[7\]。
   - 2008年（平成20年）3月15日：大阪東線（本日開業）・片町線（學研都市線）・經JR東西線往關西本線（大和路線）奈良站 -
     尼崎站間直通快速運行開始。
-  - 2010年（平成22年）12月1日：組織改正、由[大阪支社管轄變更為近畿統括本部管轄](../Page/西日本旅客鐵道大阪支社.md "wikilink")\[8\]。
+  - 2010年（平成22年）12月1日：組織改正、由[大阪支社管轄變更為近畿統括本部管轄](https://zh.wikipedia.org/wiki/西日本旅客鐵道大阪支社 "wikilink")\[8\]。
   - 2011年（平成23年）
       - 3月8日：JR寶塚・JR東西・學研都市線運行管理系統 (SUNTRAS) 導入\[9\]。
       - 3月27日：北新地站JR西日本在來線首個可動式月台柵（月台門）開始使用\[10\]。
@@ -115,16 +115,16 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <tbody>
 <tr class="odd">
 <td><p>JR-H41</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="../Page/京橋站_(大阪府).md" title="wikilink">京橋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="https://zh.wikipedia.org/wiki/京橋站_(大阪府)" title="wikilink">京橋</a></p></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>0.0</p></td>
-<td><p><a href="../Page/西日本旅客鐵道.md" title="wikilink">西日本旅客鐵道</a>： <a href="../Page/片町線.md" title="wikilink">片町線</a>（學研都市線）、 <a href="../Page/大阪環狀線.md" title="wikilink">大阪環狀線</a><br />
+<td><p><a href="../Page/西日本旅客鐵道.md" title="wikilink">西日本旅客鐵道</a>： <a href="https://zh.wikipedia.org/wiki/片町線" title="wikilink">片町線</a>（學研都市線）、 <a href="../Page/大阪環狀線.md" title="wikilink">大阪環狀線</a><br />
 <a href="../Page/京阪電氣鐵道.md" title="wikilink">京阪電氣鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Keihan_lines.png" title="fig:Number_prefix_Keihan_lines.png">Number_prefix_Keihan_lines.png</a> <a href="../Page/京阪本線.md" title="wikilink">京阪本線</a><br />
 <a href="../Page/大阪市高速電氣軌道.md" title="wikilink">大阪市高速電氣軌道</a>：<a href="https://zh.wikipedia.org/wiki/File:7N.png" title="fig:7N.png">7N.png</a> <a href="../Page/長堀鶴見綠地線.md" title="wikilink">長堀鶴見綠地線</a></p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
 </tr>
 <tr class="even">
 <td><p>JR-H42</p></td>
@@ -134,7 +134,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td><p>0.9</p></td>
 <td><p>0.9</p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/葫蘆.md" title="wikilink">葫蘆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葫蘆" title="wikilink">葫蘆</a></p></td>
 <td><p><a href="../Page/都島區.md" title="wikilink">都島區</a></p></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td></td>
 <td><p>1.3</p></td>
 <td><p>2.2</p></td>
-<td><p>大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="../Page/谷町線_(大阪市高速電氣軌道).md" title="wikilink">谷町線</a>、<a href="https://zh.wikipedia.org/wiki/File:6K.png" title="fig:6K.png">6K.png</a> <a href="../Page/堺筋線.md" title="wikilink">堺筋線</a> …<a href="../Page/南森町站.md" title="wikilink">南森町</a></p></td>
+<td><p>大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="../Page/谷町線_(大阪市高速電氣軌道).md" title="wikilink">谷町線</a>、<a href="https://zh.wikipedia.org/wiki/File:6K.png" title="fig:6K.png">6K.png</a> <a href="../Page/堺筋線.md" title="wikilink">堺筋線</a> …<a href="https://zh.wikipedia.org/wiki/南森町站" title="wikilink">南森町</a></p></td>
 <td><p><a href="../Page/梅.md" title="wikilink">梅</a></p></td>
 <td><p><a href="../Page/北區_(大阪市).md" title="wikilink">北區</a></p></td>
 </tr>
@@ -155,11 +155,11 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td></td>
 <td><p>1.4</p></td>
 <td><p>3.6</p></td>
-<td><p>西日本旅客鐵道：<a href="../Page/東海道本線.md" title="wikilink">東海道本線</a>（ <a href="../Page/JR京都線.md" title="wikilink">JR京都線</a>、 <a href="../Page/JR神戶線.md" title="wikilink">JR神戶線</a>、 <a href="../Page/福知山線.md" title="wikilink">JR寶塚線</a>）、 大阪環狀線 …<a href="../Page/大阪站.md" title="wikilink">大阪</a>[14]<br />
-大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a> …<a href="../Page/梅田站_(大阪市高速電氣軌道).md" title="wikilink">梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> 谷町線 …<a href="../Page/東梅田站.md" title="wikilink">東梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a> …<a href="../Page/西梅田站.md" title="wikilink">西梅田</a><br />
-<a href="../Page/阪神電氣鐵道.md" title="wikilink">阪神電氣鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="../Page/阪神本線.md" title="wikilink">本線</a> …<a href="../Page/梅田站_(阪神).md" title="wikilink">梅田</a><br />
-<a href="../Page/阪急電鐵.md" title="wikilink">阪急電鐵</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="../Page/神戶本線.md" title="wikilink">神戶本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyū_Takarazuka_line.png" title="fig:Number_prefix_Hankyū_Takarazuka_line.png">Number_prefix_Hankyū_Takarazuka_line.png</a> <a href="../Page/寶塚本線.md" title="wikilink">寶塚本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyoto_line.png" title="fig:Number_prefix_Hankyu_Kyoto_line.png">Number_prefix_Hankyu_Kyoto_line.png</a> <a href="../Page/京都本線.md" title="wikilink">京都本線</a>[15] …<a href="../Page/梅田站_(阪急).md" title="wikilink">梅田</a></p></td>
-<td><p><a href="../Page/稻穗.md" title="wikilink">稻穗</a></p></td>
+<td><p>西日本旅客鐵道：<a href="../Page/東海道本線.md" title="wikilink">東海道本線</a>（ <a href="https://zh.wikipedia.org/wiki/JR京都線" title="wikilink">JR京都線</a>、 <a href="../Page/JR神戶線.md" title="wikilink">JR神戶線</a>、 <a href="../Page/福知山線.md" title="wikilink">JR寶塚線</a>）、 大阪環狀線 …<a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>[14]<br />
+大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a> …<a href="https://zh.wikipedia.org/wiki/梅田站_(大阪市高速電氣軌道)" title="wikilink">梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> 谷町線 …<a href="https://zh.wikipedia.org/wiki/東梅田站" title="wikilink">東梅田</a>、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a> …<a href="../Page/西梅田站.md" title="wikilink">西梅田</a><br />
+<a href="../Page/阪神電氣鐵道.md" title="wikilink">阪神電氣鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="../Page/阪神本線.md" title="wikilink">本線</a> …<a href="https://zh.wikipedia.org/wiki/梅田站_(阪神)" title="wikilink">梅田</a><br />
+<a href="../Page/阪急電鐵.md" title="wikilink">阪急電鐵</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="../Page/神戶本線.md" title="wikilink">神戶本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyū_Takarazuka_line.png" title="fig:Number_prefix_Hankyū_Takarazuka_line.png">Number_prefix_Hankyū_Takarazuka_line.png</a> <a href="../Page/寶塚本線.md" title="wikilink">寶塚本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyoto_line.png" title="fig:Number_prefix_Hankyu_Kyoto_line.png">Number_prefix_Hankyu_Kyoto_line.png</a> <a href="../Page/京都本線.md" title="wikilink">京都本線</a>[15] …<a href="https://zh.wikipedia.org/wiki/梅田站_(阪急)" title="wikilink">梅田</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/稻穗" title="wikilink">稻穗</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -169,8 +169,8 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td></td>
 <td><p>1.2</p></td>
 <td><p>4.8</p></td>
-<td><p>西日本旅客鐵道： 大阪環狀線 …<a href="../Page/福島站_(JR西日本).md" title="wikilink">福島</a><br />
-阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線 …<a href="../Page/福島站_(阪神).md" title="wikilink">福島</a></p></td>
+<td><p>西日本旅客鐵道： 大阪環狀線 …<a href="https://zh.wikipedia.org/wiki/福島站_(JR西日本)" title="wikilink">福島</a><br />
+阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線 …<a href="https://zh.wikipedia.org/wiki/福島站_(阪神)" title="wikilink">福島</a></p></td>
 <td></td>
 <td><p><a href="../Page/福島區.md" title="wikilink">福島區</a></p></td>
 </tr>
@@ -182,13 +182,13 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td><p>1.2</p></td>
 <td><p>6.0</p></td>
 <td><p>阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線 …<br />
-大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:5S.png" title="fig:5S.png">5S.png</a> <a href="../Page/千日前線.md" title="wikilink">千日前線</a> …<a href="../Page/野田阪神站.md" title="wikilink">野田阪神</a></p></td>
+大阪市高速電氣軌道：<a href="https://zh.wikipedia.org/wiki/File:5S.png" title="fig:5S.png">5S.png</a> <a href="../Page/千日前線.md" title="wikilink">千日前線</a> …<a href="https://zh.wikipedia.org/wiki/野田阪神站" title="wikilink">野田阪神</a></p></td>
 <td><p><a href="../Page/多花紫藤.md" title="wikilink">野田藤</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>JR-H47</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="../Page/御幣島站.md" title="wikilink">御幣島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="https://zh.wikipedia.org/wiki/御幣島站" title="wikilink">御幣島</a></p></td>
 <td></td>
 <td></td>
 <td><p>2.6</p></td>
@@ -199,7 +199,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 </tr>
 <tr class="even">
 <td><p>JR-H48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="../Page/加島站.md" title="wikilink">加島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:JR_area_HAN.png" title="fig:JR_area_HAN.png">JR_area_HAN.png</a>] <a href="https://zh.wikipedia.org/wiki/加島站" title="wikilink">加島</a></p></td>
 <td></td>
 <td></td>
 <td><p>1.7</p></td>
@@ -217,7 +217,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 <td><p>12.5</p></td>
 <td><p>西日本旅客鐵道： 東海道本線（JR神戶線）、 <a href="../Page/福知山線.md" title="wikilink">福知山線</a>（JR寶塚線）</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a><a href="../Page/尼崎市.md" title="wikilink">尼崎市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a><a href="../Page/尼崎市.md" title="wikilink">尼崎市</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -226,7 +226,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 
 ## 關連項目
 
-  - [日本鐵路線一覽](../Page/日本鐵路線一覽.md "wikilink")
+  - [日本鐵路線一覽](https://zh.wikipedia.org/wiki/日本鐵路線一覽 "wikilink")
 
 ## 註釋
 
@@ -246,8 +246,9 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 
 1.  [鐵道事業ダイジェスト](http://www.westjr.co.jp/railroad/digest/#aisho)  -
     西日本旅客鐵道
-2.  [国土交通省鐵道局監修](../Page/国土交通省.md "wikilink")『[鐵道要覧](../Page/鐵道要覧.md "wikilink")』[電気車研究會](../Page/電気車研究會.md "wikilink")・鐵道図書刊行會
-3.  『停車場変遷大事典 国鉄・JR編』[JTB](../Page/ジェイティービー.md "wikilink")、1998年。ISBN
+2.  [国土交通省鐵道局監修](https://zh.wikipedia.org/wiki/国土交通省 "wikilink")『[鐵道要覧](https://zh.wikipedia.org/wiki/鐵道要覧 "wikilink")』[電気車研究會](https://zh.wikipedia.org/wiki/電気車研究會 "wikilink")・鐵道図書刊行會
+3.  『停車場変遷大事典
+    国鉄・JR編』[JTB](https://zh.wikipedia.org/wiki/ジェイティービー "wikilink")、1998年。ISBN
     978-4-533-02980-6。
 4.  ただし、ダイヤが乱れた場合は、學研都市線への直通運転は行われず、京橋站止め列車が運転されることがある。
 5.  「完成したJR東西線の地下トンネルを歩こう 10月20日に開く」読売新聞 1996年9月15日
@@ -268,5 +269,5 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 12. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線
     のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
 13.  - 西日本旅客鉄道、2016年7月20日
-14. 北新地站與大阪站之間有徒步轉乘的特例（參見[\#乘車制度](../Page/#乘車制度.md "wikilink")）
+14. 北新地站與大阪站之間有徒步轉乘的特例（參見[\#乘車制度](https://zh.wikipedia.org/wiki/#乘車制度 "wikilink")）
 15. 運行系統上的「京都本線」。該線的正式起點是[十三站](../Page/十三站.md "wikilink")

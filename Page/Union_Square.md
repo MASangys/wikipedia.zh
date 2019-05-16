@@ -5,24 +5,24 @@ Square\]\]
 [UnionSqaureview1_20070922.jpg](https://zh.wikipedia.org/wiki/File:UnionSqaureview1_20070922.jpg "fig:UnionSqaureview1_20070922.jpg")
 
 **Union
-Square**位於[香港](../Page/香港.md "wikilink")[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](../Page/柯士甸道西.md "wikilink")1號[港鐵](../Page/港鐵.md "wikilink")[九龍站上蓋](../Page/九龍站_\(港鐵\).md "wikilink")，佔地13.54[公頃](../Page/公頃.md "wikilink")，分別被[佐敦道](../Page/佐敦道.md "wikilink")、[連翔道](../Page/連翔道.md "wikilink")、[柯士甸道西及](../Page/柯士甸道西.md "wikilink")[雅翔道](../Page/雅翔道.md "wikilink")4條道路包圍。Union
-Square為港鐵九龍站一個綜合商住發展計劃，由[港鐵公司聯同](../Page/港鐵公司.md "wikilink")[九龍倉集團有限公司](../Page/九龍倉集團.md "wikilink")、[恒隆地產有限公司](../Page/恒隆地產.md "wikilink")、[永泰控股有限公司及](../Page/永泰控股.md "wikilink")[新鴻基地產發展有限公司合作發展](../Page/新鴻基地產.md "wikilink")。
+Square**位於[香港](../Page/香港.md "wikilink")[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[港鐵](../Page/港鐵.md "wikilink")[九龍站上蓋](../Page/九龍站_\(港鐵\).md "wikilink")，佔地13.54[公頃](https://zh.wikipedia.org/wiki/公頃 "wikilink")，分別被[佐敦道](../Page/佐敦道.md "wikilink")、[連翔道](https://zh.wikipedia.org/wiki/連翔道 "wikilink")、[柯士甸道西及](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")[雅翔道](https://zh.wikipedia.org/wiki/雅翔道 "wikilink")4條道路包圍。Union
+Square為港鐵九龍站一個綜合商住發展計劃，由[港鐵公司聯同](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")[九龍倉集團有限公司](../Page/九龍倉集團.md "wikilink")、[恒隆地產有限公司](../Page/恒隆地產.md "wikilink")、[永泰控股有限公司及](https://zh.wikipedia.org/wiki/永泰控股 "wikilink")[新鴻基地產發展有限公司合作發展](../Page/新鴻基地產.md "wikilink")。
 
 ## 簡介
 
 Union
-Square總面積達109萬[平方米](../Page/平方米.md "wikilink")，整個發展計劃分為7個發展項目組合。第一期發展項目（[漾日居](../Page/漾日居.md "wikilink")）、第二期發展項目（[擎天半島](../Page/擎天半島.md "wikilink")）、第三期發展項目（[凱旋門](../Page/凱旋門_\(香港\).md "wikilink")）、第四期發展項目（[君臨天下](../Page/君臨天下.md "wikilink")）、第五、六及七期發展項目組合（[圓方](../Page/圓方.md "wikilink")）、（[天璽](../Page/天璽_\(香港\).md "wikilink")）及[環球貿易廣場於](../Page/環球貿易廣場.md "wikilink")2000年至2011年初分階段落成及入伙。
+Square總面積達109萬[平方米](../Page/平方米.md "wikilink")，整個發展計劃分為7個發展項目組合。第一期發展項目（[漾日居](../Page/漾日居.md "wikilink")）、第二期發展項目（[擎天半島](../Page/擎天半島.md "wikilink")）、第三期發展項目（[凱旋門](../Page/凱旋門_\(香港\).md "wikilink")）、第四期發展項目（[君臨天下](https://zh.wikipedia.org/wiki/君臨天下 "wikilink")）、第五、六及七期發展項目組合（[圓方](../Page/圓方.md "wikilink")）、（[天璽](../Page/天璽_\(香港\).md "wikilink")）及[環球貿易廣場於](../Page/環球貿易廣場.md "wikilink")2000年至2011年初分階段落成及入伙。
 
 ## 設施
 
 Union
-Square是一個綜合發展計劃，集合[高尚住宅](../Page/高尚住宅.md "wikilink")、[寫字樓](../Page/寫字樓.md "wikilink")、[商場](../Page/商場.md "wikilink")、[觀景台和](../Page/觀景台.md "wikilink")[酒店設施於一體](../Page/酒店.md "wikilink")，當中包括：
+Square是一個綜合發展計劃，集合[高尚住宅](https://zh.wikipedia.org/wiki/高尚住宅 "wikilink")、[寫字樓](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")、[商場](../Page/商場.md "wikilink")、[觀景台和](../Page/觀景台.md "wikilink")[酒店設施於一體](../Page/酒店.md "wikilink")，當中包括：
 
-  - 18座[住宅大廈及](../Page/住宅.md "wikilink")2座作混合用途的建築（包括住宅、[酒店及](../Page/酒店.md "wikilink")[服務式住宅](../Page/服務式住宅.md "wikilink")），合共提供約5866伙住宅單位、一間豪華酒店及約72472平方米服務式住宅；
+  - 18座[住宅大廈及](../Page/住宅.md "wikilink")2座作混合用途的建築（包括住宅、[酒店及](../Page/酒店.md "wikilink")[服務式住宅](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")），合共提供約5866伙住宅單位、一間豪華酒店及約72472平方米服務式住宅；
   - 一幢118層高的[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")，包括約231778平方米的甲級寫字樓及[香港麗思卡爾頓酒店](../Page/香港麗思卡爾頓酒店.md "wikilink")，並附設[天際100觀景台](../Page/天際100.md "wikilink")；
   - 面積達100萬平方呎的大型購物商場：[圓方](../Page/圓方.md "wikilink")；
   - 平台有一所1,050平方米的栢基國際幼稚園（九龍）；
-  - [巴士](../Page/巴士.md "wikilink")、[小巴](../Page/小巴.md "wikilink")、[的士的公共交通總站](../Page/的士.md "wikilink")、酒店穿梭巴士、旅遊巴士、過境巴士及私家車交通交匯處；
+  - [巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")、[小巴](https://zh.wikipedia.org/wiki/小巴 "wikilink")、[的士的公共交通總站](https://zh.wikipedia.org/wiki/的士 "wikilink")、酒店穿梭巴士、旅遊巴士、過境巴士及私家車交通交匯處；
   - 約5,600個車位；
   - 頂層平台設佔地70萬呎廣闊的公共空間及私人休憩綠化區，公眾部份設多種主題園景地帶亦設少量康樂設施，包括兒童遊樂場及多用途運動場。而平台亦設由港鐵管理的「九龍站平台體育館」，設乒乓球室。但公眾只能從電話預約設施，而其隱閉的入口令公眾以為是幼稚園的一部分。\[1\]
 
@@ -39,12 +39,12 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
 
   - 名稱：[漾日居](../Page/漾日居.md "wikilink")
   - 發展財團成員：
-      - [永泰控股有限公司](../Page/永泰控股.md "wikilink")
-      - [淡馬錫控股有限公司](../Page/淡馬錫控股.md "wikilink")
-      - [新加坡置地有限公司](../Page/新加坡置地.md "wikilink")
-      - [吉寶置業有限公司](../Page/吉寶置業.md "wikilink")
-      - [麗新發展有限公司](../Page/麗新發展.md "wikilink")
-      - [環球投資](../Page/環球投資.md "wikilink")（百慕達）有限公司
+      - [永泰控股有限公司](https://zh.wikipedia.org/wiki/永泰控股 "wikilink")
+      - [淡馬錫控股有限公司](https://zh.wikipedia.org/wiki/淡馬錫控股 "wikilink")
+      - [新加坡置地有限公司](https://zh.wikipedia.org/wiki/新加坡置地 "wikilink")
+      - [吉寶置業有限公司](https://zh.wikipedia.org/wiki/吉寶置業 "wikilink")
+      - [麗新發展有限公司](https://zh.wikipedia.org/wiki/麗新發展 "wikilink")
+      - [環球投資](https://zh.wikipedia.org/wiki/環球投資 "wikilink")（百慕達）有限公司
   - 用途：[住宅](../Page/住宅.md "wikilink")
   - 樓宇幢數：6 (Tower 9, 10, 11, 12, 13, 14)
   - 公共設施及公眾休憩用地的資料：
@@ -66,8 +66,8 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
   - 發展財團成員：
       - [九龍倉集團有限公司](../Page/九龍倉集團.md "wikilink")
       - [會德豐有限公司](../Page/會德豐.md "wikilink")
-      - [新亞置業信託有限公司](../Page/新亞置業信託.md "wikilink")
-      - [聯邦地產有限公司](../Page/聯邦地產.md "wikilink")
+      - [新亞置業信託有限公司](https://zh.wikipedia.org/wiki/新亞置業信託 "wikilink")
+      - [聯邦地產有限公司](https://zh.wikipedia.org/wiki/聯邦地產 "wikilink")
       - [海港企業有限公司](../Page/海港企業.md "wikilink")
   - 用途：[住宅](../Page/住宅.md "wikilink")
   - 樓宇幢數：5 (Tower 15, 16, 17, 18, 19)
@@ -105,12 +105,12 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
 
 ### 第五至第七期
 
-第五至第七期為一個綜合發展項目，由[新鴻基地產發展有限公司全資發展](../Page/新鴻基地產.md "wikilink")。包括甲級寫字樓、兩間六星級[酒店](../Page/酒店.md "wikilink")、[豪華住宅](../Page/豪華住宅.md "wikilink")、[服務式住宅及一個](../Page/服務式住宅.md "wikilink")[商場](../Page/商場.md "wikilink")，總樓面面積約550萬[平方呎](../Page/平方呎.md "wikilink")，於2007年底至2011年初分期落成。
+第五至第七期為一個綜合發展項目，由[新鴻基地產發展有限公司全資發展](../Page/新鴻基地產.md "wikilink")。包括甲級寫字樓、兩間六星級[酒店](../Page/酒店.md "wikilink")、[豪華住宅](https://zh.wikipedia.org/wiki/豪華住宅 "wikilink")、[服務式住宅及一個](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")[商場](../Page/商場.md "wikilink")，總樓面面積約550萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")，於2007年底至2011年初分期落成。
 
   - 第五期：[圓方](../Page/圓方.md "wikilink")
       - 組成：Union Square基座
       - 用途：商場
-      - 面積：約100萬[平方呎](../Page/平方呎.md "wikilink")
+      - 面積：約100萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")
       - 公共設施及公眾休憩用地的資料：園景區，公眾康樂設施
       - 狀況：已開幕
       - 落成年份：2007年10月
@@ -120,8 +120,8 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
   - 第六期：[天璽](../Page/天璽_\(香港\).md "wikilink")
       - 組成：兩座約270米，高62層的雙子大廈 (Tower 20, 21)
       - 用途：五星級[酒店](../Page/酒店.md "wikilink")（[W
-        Hotel](../Page/W_Hotel.md "wikilink")）、服務式出租[住宅](../Page/住宅.md "wikilink")（[港景匯](../Page/港景匯.md "wikilink")）及豪華[住宅](../Page/住宅.md "wikilink")
-      - 面積：200萬[平方呎](../Page/平方呎.md "wikilink")
+        Hotel](https://zh.wikipedia.org/wiki/W_Hotel "wikilink")）、服務式出租[住宅](../Page/住宅.md "wikilink")（[港景匯](https://zh.wikipedia.org/wiki/港景匯 "wikilink")）及豪華[住宅](../Page/住宅.md "wikilink")
+      - 面積：200萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")
       - 特色：其中一幢是全[香港最高的純](../Page/香港.md "wikilink")[住宅建築物](../Page/住宅.md "wikilink")。
       - 狀況：已開幕 (港景匯及[香港W酒店](../Page/香港W酒店.md "wikilink"))、已入-{伙}-(豪宅部分)
       - 落成年份：2008年至2009年
@@ -131,7 +131,8 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
   - 第七期：[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")
       - 組成：一幢118層高的摩天大樓 (Tower 1)
       - 用途：甲級寫字樓、[天際100觀景台及](../Page/天際100.md "wikilink")[香港麗思卡爾頓酒店](../Page/香港麗思卡爾頓酒店.md "wikilink")
-      - 面積：2,822,039 [平方呎](../Page/平方呎.md "wikilink")（262,176
+      - 面積：2,822,039
+        [平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")（262,176
         [平方米](../Page/平方米.md "wikilink")）
       - 特色：落成時是全世界第三高、中港地區最高的摩天大樓，至2018年8月為全世界第十五高、中港地區第九高的摩天大樓。
       - 狀況：已開幕
@@ -161,12 +162,12 @@ Lobby.jpg|[香港W酒店](../Page/香港W酒店.md "wikilink")
 
 [DSC_4117_VIC.JPG](https://zh.wikipedia.org/wiki/File:DSC_4117_VIC.JPG "fig:DSC_4117_VIC.JPG")」的構思。左方為中環國際金融中心二期，右方為九龍環球貿易廣場\]\]
 Union
-Square發展完成後，成為[香港的新地標](../Page/香港.md "wikilink")，吸引外地遊客和[投資者](../Page/投資者.md "wikilink")，從而提升[香港旅遊業及國際](../Page/香港旅遊業.md "wikilink")[競爭力](../Page/競爭力.md "wikilink")，其中環球貿易廣場與維多利亞港對岸[中環的](../Page/中環.md "wikilink")[國際金融中心二期形成統稱](../Page/國際金融中心_\(香港\).md "wikilink")「[維港門廊](../Page/維港門廊.md "wikilink")」[摩天大樓](../Page/摩天大樓.md "wikilink")，構成一道獨特的海港摩天建築風景線。而發展計劃把[九龍站打造成另一個如對岸中環般的](../Page/九龍站.md "wikilink")[核心商業區](../Page/核心商業區.md "wikilink")，把商業活動由港島區伸延到九龍。項目亦可以把早已飽和的九龍中部及東部地帶的人流分散到[西九龍的新填海區](../Page/西九龍.md "wikilink")，舒緩九龍中部及東部的擠迫情況。
+Square發展完成後，成為[香港的新地標](../Page/香港.md "wikilink")，吸引外地遊客和[投資者](https://zh.wikipedia.org/wiki/投資者 "wikilink")，從而提升[香港旅遊業及國際](../Page/香港旅遊業.md "wikilink")[競爭力](https://zh.wikipedia.org/wiki/競爭力 "wikilink")，其中環球貿易廣場與維多利亞港對岸[中環的](../Page/中環.md "wikilink")[國際金融中心二期形成統稱](../Page/國際金融中心_\(香港\).md "wikilink")「[維港門廊](https://zh.wikipedia.org/wiki/維港門廊 "wikilink")」[摩天大樓](../Page/摩天大樓.md "wikilink")，構成一道獨特的海港摩天建築風景線。而發展計劃把[九龍站打造成另一個如對岸中環般的](https://zh.wikipedia.org/wiki/九龍站 "wikilink")[核心商業區](https://zh.wikipedia.org/wiki/核心商業區 "wikilink")，把商業活動由港島區伸延到九龍。項目亦可以把早已飽和的九龍中部及東部地帶的人流分散到[西九龍的新填海區](../Page/西九龍.md "wikilink")，舒緩九龍中部及東部的擠迫情況。
 
 ### 負面
 
 Union
-Square位於[西九龍海濱](../Page/西九龍.md "wikilink")，樓宇建得甚高，阻礙西九龍內陸地區的[維多利亞港景觀](../Page/維多利亞港.md "wikilink")，亦使維多利亞港對岸的視野受阻，該項目亦採用密度高和[蛋糕式平台設計](../Page/蛋糕樓.md "wikilink")，造成[屏風效應](../Page/屏風效應.md "wikilink")，阻擋海風進入內陸，使西九龍內陸地區的空氣質素惡化。
+Square位於[西九龍海濱](../Page/西九龍.md "wikilink")，樓宇建得甚高，阻礙西九龍內陸地區的[維多利亞港景觀](../Page/維多利亞港.md "wikilink")，亦使維多利亞港對岸的視野受阻，該項目亦採用密度高和[蛋糕式平台設計](https://zh.wikipedia.org/wiki/蛋糕樓 "wikilink")，造成[屏風效應](https://zh.wikipedia.org/wiki/屏風效應 "wikilink")，阻擋海風進入內陸，使西九龍內陸地區的空氣質素惡化。
 Union Square的樓宇吸引大量[大陸人購入](../Page/大陸人.md "wikilink")，使區內樓價持續上升。
 
 ## 交通
@@ -191,11 +192,11 @@ Union Square的樓宇吸引大量[大陸人購入](../Page/大陸人.md "wikilin
 
 <!-- end list -->
 
-  - [西區海底隧道收費廣場](../Page/西區海底隧道收費廣場.md "wikilink")
+  - [西區海底隧道收費廣場](https://zh.wikipedia.org/wiki/西區海底隧道收費廣場 "wikilink")
 
 <!-- end list -->
 
-  - [九龍站公共運輸交匯處](../Page/九龍站公共運輸交匯處.md "wikilink")/[柯士甸道西](../Page/柯士甸道西.md "wikilink")/[雅翔道](../Page/雅翔道.md "wikilink")
+  - [九龍站公共運輸交匯處](../Page/九龍站公共運輸交匯處.md "wikilink")/[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")/[雅翔道](https://zh.wikipedia.org/wiki/雅翔道 "wikilink")
 
 <!-- end list -->
 
@@ -226,23 +227,23 @@ Union Square的樓宇吸引大量[大陸人購入](../Page/大陸人.md "wikilin
 <File:HK> Union SquareOverview 20041024.jpg|2004年10月的Union Square
 <File:UnionSquareview> 20070829.jpg|2007年8月的Union Square <File:Union>
 Square Overview 200809.jpg|2008年9月的Union
-Square（左起：[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")、[君臨天下](../Page/君臨天下.md "wikilink")、[凱旋門](../Page/凱旋門_\(香港\).md "wikilink")、[漾日居](../Page/漾日居.md "wikilink")、[擎天半島](../Page/擎天半島.md "wikilink")）
+Square（左起：[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")、[君臨天下](https://zh.wikipedia.org/wiki/君臨天下 "wikilink")、[凱旋門](../Page/凱旋門_\(香港\).md "wikilink")、[漾日居](../Page/漾日居.md "wikilink")、[擎天半島](../Page/擎天半島.md "wikilink")）
 <File:International> Commerce Centre on Victoria
 Harbour.jpg|晚上從[灣仔遠眺Union](../Page/灣仔.md "wikilink")
 Square <File:Union> Square view 201807.jpg|從高處航拍Union Square
 
 ## 參見
 
-  - [九龍站](../Page/九龍站.md "wikilink")
+  - [九龍站](https://zh.wikipedia.org/wiki/九龍站 "wikilink")
   - [漾日居](../Page/漾日居.md "wikilink")
   - [擎天半島](../Page/擎天半島.md "wikilink")
   - [凱旋門](../Page/凱旋門_\(香港\).md "wikilink")
-  - [君臨天下](../Page/君臨天下.md "wikilink")
+  - [君臨天下](https://zh.wikipedia.org/wiki/君臨天下 "wikilink")
   - [圓方（Elements）](../Page/圓方.md "wikilink")
   - [天璽](../Page/天璽_\(香港\).md "wikilink")
   - [環球貿易廣場](../Page/環球貿易廣場.md "wikilink")
-  - [蛋糕樓](../Page/蛋糕樓.md "wikilink")
-  - [奧運三寶](../Page/奧運三寶.md "wikilink")
+  - [蛋糕樓](https://zh.wikipedia.org/wiki/蛋糕樓 "wikilink")
+  - [奧運三寶](https://zh.wikipedia.org/wiki/奧運三寶 "wikilink")
     ([奧運站上蓋物業發展項目](../Page/奧運站.md "wikilink"))
 
 ## 外部連結

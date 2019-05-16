@@ -1,8 +1,8 @@
 **Tom's 硬體指南**是一個資訊科技網站，在1996年由[Dr. Thomas
-Pabst建立](../Page/Dr._Thomas_Pabst.md "wikilink")。它目前是世界性的IT焦點網站之一，目前分布於美國、歐洲及亞洲並在線上提供10種以上的語言供瀏覽。
+Pabst建立](https://zh.wikipedia.org/wiki/Dr._Thomas_Pabst "wikilink")。它目前是世界性的IT焦點網站之一，目前分布於美國、歐洲及亞洲並在線上提供10種以上的語言供瀏覽。
 
 雖然Thomas
-Pabst是[德國人](../Page/德國.md "wikilink")，但是網站是架設在[美國境內](../Page/美國.md "wikilink")。然而有不少作家，包括目前擔任於美國Tom's
+Pabst是[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")，但是網站是架設在[美國境內](https://zh.wikipedia.org/wiki/美國 "wikilink")。然而有不少作家，包括目前擔任於美國Tom's
 硬體指南的新聞版的作家也都是德國人。而Tom's
 硬體在[慕尼黑也擁有一個大規模的測試研究室](../Page/慕尼黑.md "wikilink")。
 
@@ -30,7 +30,7 @@ Rahmat。[1](https://web.archive.org/web/20070311055153/http://www.dailytech.com
   - Jim Buzbee - Editor, Toms Networking Guide
   - Wolfgang Gruener - Managing Editor, TG Daily
   - Rob Wright - Managing Editor,
-    [TwitchGuru](../Page/TwitchGuru.md "wikilink")
+    [TwitchGuru](https://zh.wikipedia.org/wiki/TwitchGuru "wikilink")
   - Barry Gerber - Managing Editor, MobilityGuru
   - Uwe Scheffel - Editor-in-Chief, THGweb.de Germany
   - Stéphane Kauffmann - Editor-in-Chief, Tom's Hardware Guide France

@@ -1,7 +1,7 @@
 《**Xross Scramble**》，全名「**Xross Scramble ～TEAM BALDRHEAD Perfect
-Collection～**」、簡稱「」，是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年4月27日（由同年3月30日延期）發售的[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")。把人氣製作組TEAM
-BALDRHEAD自1999年以來的「[BALDR系列](../Page/戲畫_\(遊戲品牌\)#BALDR系列.md "wikilink")」和「[DUEL
-SAVIOR系列](../Page/戲畫_\(遊戲品牌\)#DUEL_SAVIOR系列.md "wikilink")」合而為一，屬於fan
+Collection～**」、簡稱「」，是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年4月27日（由同年3月30日延期）發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。把人氣製作組TEAM
+BALDRHEAD自1999年以來的「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」和「[DUEL
+SAVIOR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#DUEL_SAVIOR系列 "wikilink")」合而為一，屬於fan
 disc性質的作品。
 
 ## 遊戲內容
@@ -10,8 +10,8 @@ disc性質的作品。
 
   - 這是把BALDR系列舊有的動作遊戲系統推翻的全新遊戲方式。
   - 把《[BALDR
-    FORCE](../Page/BALDR_FORCE.md "wikilink")》中以「[電腦程式](../Page/電腦程式.md "wikilink")」組成的機械人和BALDR系列其餘三作中真正以零件砌成的機械人集在一起，實現跨作品、跨世界觀的機械人對戰。
-  - 通關後會取得由[插畫師池上茜](../Page/插畫師.md "wikilink")、、村上水軍、、黑田晶見等所繪畫的[CG](../Page/CG.md "wikilink")。
+    FORCE](../Page/BALDR_FORCE.md "wikilink")》中以「[電腦程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")」組成的機械人和BALDR系列其餘三作中真正以零件砌成的機械人集在一起，實現跨作品、跨世界觀的機械人對戰。
+  - 通關後會取得由[插畫師池上茜](https://zh.wikipedia.org/wiki/插畫師 "wikilink")、、村上水軍、、黑田晶見等所繪畫的[CG](https://zh.wikipedia.org/wiki/CG "wikilink")。
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@ disc性質的作品。
 
   - 新增在《BALDR FORCE》中原本只是擔當支援員的梁的機體和在《機甲戰線》中原本擔當電腦戰術小隊隊長的史提芬的機體。
   - 不再把攻擊目標鎖定在最近的敵人，變成可以任意攻擊，包括障礙物、敵人的子機、飛彈等。攻擊方向也可以自由變更。
-  - 另外亦加入了一些[角色扮演遊戲的元素](../Page/角色扮演遊戲.md "wikilink")。
+  - 另外亦加入了一些[角色扮演遊戲的元素](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")。
 
 | 操作方式 | Re-Action | 舊作  |
 | ---- | --------- | --- |
@@ -37,7 +37,7 @@ disc性質的作品。
 ### Duel Savior 外傳 ～二人的王女～
 
 顧名思義，就是[DUEL
-SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。
+SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。
 
   - 故事簡介
     在某天，當真大河等人被召到王城，要求親自到王城地下的遺跡，護衛王女Clea。
@@ -69,7 +69,7 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](..
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Parfait_～chocolat_second_brew～.md" title="wikilink">Parfait ～chocolat second brew～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Parfait_～chocolat_second_brew～" title="wikilink">Parfait ～chocolat second brew～</a></p></td>
 <td><p>花鳥玲愛</p></td>
 </tr>
 <tr class="even">
@@ -85,11 +85,11 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](..
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Cheerful!.md" title="wikilink">Cheerful!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cheerful!" title="wikilink">Cheerful!</a></p></td>
 <td><p>櫻木百合香</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Variable_Geo.md" title="wikilink">Variable Geo系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Variable_Geo" title="wikilink">Variable Geo系列</a></p></td>
 <td><p>飛鳥優</p></td>
 </tr>
 <tr class="odd">
@@ -141,7 +141,7 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](..
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/LAMUNE.md" title="wikilink">LAMUNE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LAMUNE" title="wikilink">LAMUNE</a></p></td>
 <td><p>近衛七海（隱藏角色）</p></td>
 </tr>
 <tr class="even">
@@ -162,16 +162,16 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](..
 <!-- end list -->
 
   - SCRAMBLE
-    SAVIOR的試玩版，可選角色有《青空下的約定》的澤城凜奈和《Cheerful\!》的櫻木百合香，要在一分鐘內打倒50名敵人的「[時間競速](../Page/真實時間競速攻略.md "wikilink")」遊戲
+    SAVIOR的試玩版，可選角色有《青空下的約定》的澤城凜奈和《Cheerful\!》的櫻木百合香，要在一分鐘內打倒50名敵人的「[時間競速](https://zh.wikipedia.org/wiki/真實時間競速攻略 "wikilink")」遊戲
 
 ## 音樂
 
-### [印象曲](../Page/主題曲#印象曲.md "wikilink")
+### [印象曲](https://zh.wikipedia.org/wiki/主題曲#印象曲 "wikilink")
 
   - 「Divine」
     ave;new feat.C;LINE：
-    作詞、編曲：a.k.a.dRESS（[ave;new](../Page/ave;new.md "wikilink")）
-    [結他](../Page/電結他.md "wikilink")：羽月達也
+    作詞、編曲：a.k.a.dRESS（[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")）
+    [結他](https://zh.wikipedia.org/wiki/電結他 "wikilink")：羽月達也
     歌：大咲美和
 
 ## 配音人員
@@ -196,7 +196,8 @@ SAVIOR的外傳](../Page/DUEL_SAVIOR.md "wikilink")，新編劇的[十八禁](..
 
   - 原畫：菊池政治
   - 腳本：沙月 with 企畫屋（DUEL SAVOIR外傳）、琴吹 彬（Xross Savior）
-  - 影片：[神月社](../Page/神月社.md "wikilink") \[the Imaging Studio Mju;z\]
+  - 影片：[神月社](https://zh.wikipedia.org/wiki/神月社 "wikilink") \[the Imaging
+    Studio Mju;z\]
   - 企畫、製作：戲畫
 
 ## 關聯項目

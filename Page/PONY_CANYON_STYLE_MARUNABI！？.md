@@ -1,13 +1,13 @@
 **PONY CANYON STYLE MARUNABI！？**（2005年1月18日前是**PONY CANYON STYLE
-MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放送.md "wikilink")2004年9月28日至2007年9月25日所播放的[廣播節目](../Page/廣播.md "wikilink")，全157回。把[波麗佳音所制作的關連](../Page/波麗佳音.md "wikilink")[動畫完整地](../Page/動畫.md "wikilink")（）傳送（）出去。主持節目的是[聲優](../Page/聲優.md "wikilink")[能登麻美子和](../Page/能登麻美子.md "wikilink")[川澄綾子](../Page/川澄綾子.md "wikilink")（在「MARUNABI？」時則是能登單獨一人）。在2004年10月至2006年3月，本有[BSQR489播放附靜態映像的版本](../Page/BSQR489.md "wikilink")，但現在BSQR489已成歷史。
+MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")2004年9月28日至2007年9月25日所播放的[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，全157回。把[波麗佳音所制作的關連](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[動畫完整地](https://zh.wikipedia.org/wiki/動畫 "wikilink")（）傳送（）出去。主持節目的是[聲優](../Page/聲優.md "wikilink")[能登麻美子和](../Page/能登麻美子.md "wikilink")[川澄綾子](../Page/川澄綾子.md "wikilink")（在「MARUNABI？」時則是能登單獨一人）。在2004年10月至2006年3月，本有[BSQR489播放附靜態映像的版本](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")，但現在BSQR489已成歷史。
 
 ## 播放時間
 
-  - [文化放送](../Page/株式會社文化放送.md "wikilink")：星期二25:00～25:30
-  - [超\!A\&G+](../Page/超!A&G+.md "wikilink")（DRP東京9302ch）：星期五17:00～17:30、星期六7:00～7:30（2007年9月）
+  - [文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")：星期二25:00～25:30
+  - [超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")（DRP東京9302ch）：星期五17:00～17:30、星期六7:00～7:30（2007年9月）
   - [UNIQue the
-    RADIO](../Page/UNIQue_the_RADIO.md "wikilink")（DRP東京9301ch）：星期五17:00～17:30、星期一10:00～10:30（2007年4月－2007年8月）
-  - [BSQR489](../Page/BSQR489.md "wikilink")：星期五（2004年10月－2006年3月）
+    RADIO](https://zh.wikipedia.org/wiki/UNIQue_the_RADIO "wikilink")（DRP東京9301ch）：星期五17:00～17:30、星期一10:00～10:30（2007年4月－2007年8月）
+  - [BSQR489](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")：星期五（2004年10月－2006年3月）
 
 ## 簡介
 
@@ -15,7 +15,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
       - 而實際上，最初本是計劃一開始就是兩人主持節目的，但為了方便川澄而變成了這樣。
       - 川澄加入後，節目的氣氛明顯產生變化，對比「MARUNABI？」，「MARUNABI！？」變得熱鬧起來。
   - 節目片頭曲「Scoop\!」和片尾曲「7days
-    after」，在2006年12月20日發售CD前，一直也只在日本的[手提電話的網絡發放](../Page/手提電話.md "wikilink")。
+    after」，在2006年12月20日發售CD前，一直也只在日本的[手提電話的網絡發放](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。
   - 另外，兩人在節目中不時會說「」一詞，節目中是解作「快樂」的意思\[1\]。
 
 ## 節目內容
@@ -37,14 +37,15 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 ### PONY CANYON STYLE MARUNABI？
 
   -
-    能登把生活中所遇到感覺到的事情寫成[詩歌並朗讀出來的環節](../Page/詩歌.md "wikilink")。
+    能登把生活中所遇到感覺到的事情寫成[詩歌並朗讀出來的環節](https://zh.wikipedia.org/wiki/詩歌 "wikilink")。
   -
     在第4回開始（2004年10月19日），這環節只在有嘉賓時出現。基本上是圍繞一個主題與嘉賓閒談，而且通常不會在錄音室中進行，而在PONY
-    CANYON公司的[大堂](../Page/大堂.md "wikilink")、[屋頂](../Page/屋頂.md "wikilink")、附近的[公園](../Page/公園.md "wikilink")、[神社等地錄音](../Page/神社.md "wikilink")。
+    CANYON公司的[大堂](https://zh.wikipedia.org/wiki/大堂 "wikilink")、[屋頂](https://zh.wikipedia.org/wiki/屋頂 "wikilink")、附近的[公園](https://zh.wikipedia.org/wiki/公園 "wikilink")、[神社等地錄音](../Page/神社.md "wikilink")。
   -
     挑戰聽眾們「試過去做但做不到的事」的環節。失敗的話「小麻美」人偶的衣服就要被脫去一件。
   -
-    配合[拍節機介紹PONY](../Page/拍節機.md "wikilink") CANYON的消息。
+    配合[拍節機介紹PONY](https://zh.wikipedia.org/wiki/拍節機 "wikilink")
+    CANYON的消息。
 
 ### PONY CANYON STYLE MARUNABI！？
 
@@ -66,7 +67,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
         僅在有兩位嘉賓的公開錄音出現。
 
   -
-    除了之前的「小麻美」人偶，多了「小綾」人偶。此環節在2005年9月18日於[東京電玩展](../Page/東京電玩展.md "wikilink")（[幕張展覽館](../Page/幕張展覽館.md "wikilink")）舉行的公開錄音（2005年9月27日播放，第53回）結束。
+    除了之前的「小麻美」人偶，多了「小綾」人偶。此環節在2005年9月18日於[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")（[幕張展覽館](../Page/幕張展覽館.md "wikilink")）舉行的公開錄音（2005年9月27日播放，第53回）結束。
 
   - ;
 
@@ -74,7 +75,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
         僅在有兩位嘉賓的公開錄音出現，川澄、能登和其中一位嘉賓一起挑戰。
 
   -
-    代替「沒有做不到的事！DUO」的新環節，副題是。模仿著名[RPG遊戲](../Page/電子角色扮演遊戲.md "wikilink")[勇者鬥惡龍](../Page/勇者鬥惡龍.md "wikilink")，住在「」的勇者麻美子（能登）為了成為優秀的勇者而挑戰魔王綾子（川澄）的試鍊。試鍊成功的話會得到武器、防具或道具等，失敗的話就會受到「」居民（勇者、老人、漂亮的姊姊，有時是魔王）的懲罰。
+    代替「沒有做不到的事！DUO」的新環節，副題是。模仿著名[RPG遊戲](../Page/電子角色扮演遊戲.md "wikilink")[勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")，住在「」的勇者麻美子（能登）為了成為優秀的勇者而挑戰魔王綾子（川澄）的試鍊。試鍊成功的話會得到武器、防具或道具等，失敗的話就會受到「」居民（勇者、老人、漂亮的姊姊，有時是魔王）的懲罰。
 
     2007年3月24日於[東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2007内舉行的公開錄音（2007年3月27日深夜播放）完結第一部「魔王的訓練場）。
 
@@ -92,7 +93,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
   -
     代替「MARUNABI News Session！」的新環節。以「沒有做不到的事！DUO」時的「小麻美」、「小綾」人偶介紹PONY
     CANYON的消息。環節的標題是參考[朝日電視台的新聞節目](../Page/朝日電視台.md "wikilink")「[News
-    Station](../Page/News_Station.md "wikilink")」。
+    Station](https://zh.wikipedia.org/wiki/News_Station "wikilink")」。
 
 ## 主題曲
 
@@ -117,7 +118,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>4</p></td>
 <td><p>2004年10月19日</p></td>
 <td></td>
-<td><p>《<a href="../Page/微笑的閃士.md" title="wikilink">微笑的閃士</a>》 - 片頭曲、片尾曲歌手</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/微笑的閃士" title="wikilink">微笑的閃士</a>》 - 片頭曲、片尾曲歌手</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
@@ -129,7 +130,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>6</p></td>
 <td><p>2004年11月2日</p></td>
 <td><p><a href="../Page/川上倫子.md" title="wikilink">川上倫子</a></p></td>
-<td><p>《<a href="../Page/AIR.md" title="wikilink">AIR</a>》 - 神尾観鈴</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/AIR" title="wikilink">AIR</a>》 - 神尾観鈴</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -153,7 +154,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>10</p></td>
 <td><p>2004年11月30日</p></td>
 <td></td>
-<td><p>《<a href="../Page/真珠美人魚.md" title="wikilink">真珠美人魚</a>》 - 七海露芝亞</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/真珠美人魚" title="wikilink">真珠美人魚</a>》 - 七海露芝亞</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -171,7 +172,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2004年12月21日</p></td>
-<td><p><a href="../Page/松本彩乃.md" title="wikilink">松本彩乃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本彩乃" title="wikilink">松本彩乃</a></p></td>
 <td><p>《<a href="../Page/流星戰隊Musumet.md" title="wikilink">流星戰隊Musumet</a>》 - 三色紅</p></td>
 </tr>
 <tr class="odd">
@@ -204,7 +205,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>18</p></td>
 <td><p>2005年1月25日</p></td>
 <td><p><a href="../Page/佐藤裕美.md" title="wikilink">佐藤裕美</a></p></td>
-<td><p>《<a href="../Page/微笑的閃士.md" title="wikilink">微笑的閃士</a>》 - 佐藤版本片頭曲</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/微笑的閃士" title="wikilink">微笑的閃士</a>》 - 佐藤版本片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
@@ -215,7 +216,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>20</p></td>
 <td><p>2005年2月8日</p></td>
-<td><p><a href="../Page/齋藤千和.md" title="wikilink">齋藤千和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/齋藤千和" title="wikilink">齋藤千和</a></p></td>
 <td><p>《<a href="../Page/沙漠神行者.md" title="wikilink">沙漠神行者</a>》 - 小砂</p></td>
 </tr>
 <tr class="even">
@@ -227,8 +228,8 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>2005年2月22日</p></td>
-<td><p><a href="../Page/前田愛_(藝人).md" title="wikilink">前田愛</a></p></td>
-<td><p>《<a href="../Page/奇諾之旅.md" title="wikilink">奇諾之旅</a> ―life goes on.―》 - 奇諾</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前田愛_(藝人)" title="wikilink">前田愛</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/奇諾之旅" title="wikilink">奇諾之旅</a> ―life goes on.―》 - 奇諾</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -251,7 +252,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>26</p></td>
 <td><p>2005年3月22日</p></td>
-<td><p><a href="../Page/冬馬由美.md" title="wikilink">冬馬由美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冬馬由美" title="wikilink">冬馬由美</a></p></td>
 <td><p>《<a href="../Page/艾瑪_(漫畫).md" title="wikilink">英國戀物語艾瑪</a>》 - 艾瑪</p></td>
 </tr>
 <tr class="even">
@@ -275,7 +276,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>30</p></td>
 <td><p>2005年4月19日</p></td>
-<td><p><a href="../Page/齋賀觀月.md" title="wikilink">齋賀觀月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/齋賀觀月" title="wikilink">齋賀觀月</a></p></td>
 <td><p>《<a href="../Page/植木的法則.md" title="wikilink">植木的法則</a>》 - </p></td>
 </tr>
 <tr class="even">
@@ -288,7 +289,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>32</p></td>
 <td><p>2005年5月3日</p></td>
 <td><p><a href="../Page/嘉數由美.md" title="wikilink">嘉數由美</a></p></td>
-<td><p>《<a href="../Page/光明騎士.md" title="wikilink">GROW LANSER IV</a>》 - </p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/光明騎士" title="wikilink">GROW LANSER IV</a>》 - </p></td>
 </tr>
 <tr class="even">
 <td><p>33</p></td>
@@ -324,7 +325,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>38</p></td>
 <td><p>2005年6月14日</p></td>
 <td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
-<td><p>《<a href="../Page/AIR.md" title="wikilink">AIR</a>》 - 裏葉</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/AIR" title="wikilink">AIR</a>》 - 裏葉</p></td>
 </tr>
 <tr class="even">
 <td><p>39</p></td>
@@ -400,7 +401,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>50</p></td>
 <td><p>2005年9月6日</p></td>
-<td><p><a href="../Page/川瀬晶子.md" title="wikilink">川瀬晶子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川瀬晶子" title="wikilink">川瀬晶子</a></p></td>
 <td><p>《》 - </p></td>
 </tr>
 <tr class="even">
@@ -426,8 +427,8 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>54</p></td>
 <td><p>2005年10月4日</p></td>
-<td><p><a href="../Page/井端珠里.md" title="wikilink">井端珠里</a></p></td>
-<td><p>《<a href="../Page/Sugar_Sugar_Rune.md" title="wikilink">Sugar Sugar Rune</a>》 - </p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井端珠里" title="wikilink">井端珠里</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Sugar_Sugar_Rune" title="wikilink">Sugar Sugar Rune</a>》 - </p></td>
 </tr>
 <tr class="even">
 <td><p>55</p></td>
@@ -540,8 +541,8 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="even">
 <td><p>73</p></td>
 <td><p>2006年2月14日</p></td>
-<td><p><a href="../Page/高木礼子.md" title="wikilink">高木礼子</a></p></td>
-<td><p>《<a href="../Page/Bowwow_Celebrity-Poodle_Let&#39;s_Go!_Tetsunoshin.md" title="wikilink">Bowwow Celebrity-Poodle Let's Go! Tetsunoshin</a>》<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/高木礼子" title="wikilink">高木礼子</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Bowwow_Celebrity-Poodle_Let&#39;s_Go!_Tetsunoshin" title="wikilink">Bowwow Celebrity-Poodle Let's Go! Tetsunoshin</a>》<br />
 - 徹之進</p></td>
 </tr>
 <tr class="odd">
@@ -720,7 +721,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="odd">
 <td><p>102</p></td>
 <td><p>2006年9月5日</p></td>
-<td><p><a href="../Page/落合祐里香.md" title="wikilink">落合祐里香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/落合祐里香" title="wikilink">落合祐里香</a></p></td>
 <td><p>《GROW LANSER V》 - </p></td>
 </tr>
 <tr class="even">
@@ -838,7 +839,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>121</p></td>
 <td><p>2007年1月16日</p></td>
 <td><p><a href="../Page/NEEKO.md" title="wikilink">NEEKO</a></p></td>
-<td><p>《<a href="../Page/家庭教師HITMAN_REBORN!.md" title="wikilink">家庭教師HITMAN REBORN!</a>》 - </p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN!" title="wikilink">家庭教師HITMAN REBORN!</a>》 - </p></td>
 </tr>
 <tr class="odd">
 <td><p>122</p></td>
@@ -849,7 +850,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <tr class="even">
 <td><p>123</p></td>
 <td><p>2007年1月30日</p></td>
-<td><p><a href="../Page/竹内順子.md" title="wikilink">竹内順子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹内順子" title="wikilink">竹内順子</a></p></td>
 <td><p>《》 - </p></td>
 </tr>
 <tr class="odd">
@@ -907,7 +908,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>132</p></td>
 <td><p>2007年4月3日</p></td>
 <td></td>
-<td><p>《<a href="../Page/奇諾之旅.md" title="wikilink">奇諾之旅</a>》第二回劇場版片尾曲歌手</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/奇諾之旅" title="wikilink">奇諾之旅</a>》第二回劇場版片尾曲歌手</p></td>
 </tr>
 <tr class="even">
 <td><p>133</p></td>
@@ -919,7 +920,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>134</p></td>
 <td><p>2007年4月17日</p></td>
 <td><p><a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a></p></td>
-<td><p>《<a href="../Page/鋼鐵神Jeeg.md" title="wikilink">鋼鐵神Jeeg</a>》 - </p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/鋼鐵神Jeeg" title="wikilink">鋼鐵神Jeeg</a>》 - </p></td>
 </tr>
 <tr class="even">
 <td><p>135</p></td>
@@ -1031,7 +1032,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>152</p></td>
 <td><p>2007年8月21日</p></td>
 <td><p><a href="../Page/福山潤.md" title="wikilink">福山潤</a></p></td>
-<td><p>《<a href="../Page/神靈狩/GHOST_HOUND.md" title="wikilink">神靈狩/GHOST HOUND</a>》 - 中嶋匡幸<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/神靈狩/GHOST_HOUND" title="wikilink">神靈狩/GHOST HOUND</a>》 - 中嶋匡幸<br />
 （MARUNABI！？第九位男性聲優嘉賓）</p></td>
 </tr>
 <tr class="even">
@@ -1062,8 +1063,8 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 <td><p>157</p></td>
 <td><p>2007年9月25日<br />
 （最終回紀念公開錄音）</p></td>
-<td><p><a href="../Page/文化放送.md" title="wikilink">文化放送播放的版本為</a>30分鐘，<br />
-一小時的完全版本10月6日18:00～19:00於<a href="../Page/超!A&amp;G+.md" title="wikilink">超!A&amp;G+播放</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化放送" title="wikilink">文化放送播放的版本為</a>30分鐘，<br />
+一小時的完全版本10月6日18:00～19:00於<a href="https://zh.wikipedia.org/wiki/超!A&amp;G+" title="wikilink">超!A&amp;G+播放</a>。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1073,8 +1074,8 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 
 ## 關聯項目
 
-  - [波麗佳音](../Page/波麗佳音.md "wikilink")
-  - [株式會社文化放送](../Page/株式會社文化放送.md "wikilink")
+  - [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
+  - [株式會社文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")
   - [能登麻美子](../Page/能登麻美子.md "wikilink")
   - [川澄綾子](../Page/川澄綾子.md "wikilink")
 
@@ -1087,7 +1088,7 @@ MARUNABI？**）是[株式會社文化放送於](../Page/株式會社文化放�
 [Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
 [Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
 
-1.  [聲優Animedia](../Page/聲優Animedia.md "wikilink")
+1.  [聲優Animedia](https://zh.wikipedia.org/wiki/聲優Animedia "wikilink")
     vol.14（2006年12月1日發售）第95頁 -
 2.  [MARUNABI！？錄音室寫真2007年5月22日](http://www.joqr.co.jp/ag/maru/studio070522.html)
 3.

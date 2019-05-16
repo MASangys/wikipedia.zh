@@ -1,9 +1,9 @@
 **Bloglines**是一個網頁介面的新聞聚合服務，透過[RSS或](../Page/RSS.md "wikilink")[Atom取得內容](../Page/Atom_\(標準\).md "wikilink")。不同於用戶端的新聞聚合軟體各自取得內容，Bloglines會統一在伺服器端定時更新。
 
 [Mark
-Fletcher在](../Page/Mark_Fletcher.md "wikilink")2003年成立Bloglines，並於2005年5月賣給[Ask.com](../Page/Ask.com.md "wikilink")。
+Fletcher在](https://zh.wikipedia.org/wiki/Mark_Fletcher "wikilink")2003年成立Bloglines，並於2005年5月賣給[Ask.com](../Page/Ask.com.md "wikilink")。
 
-2010年9月10日，[Ask.com宣布由於用户流失以及受到更強即時性的](../Page/Ask.com.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")，[Facebook等社群媒體擠壓](../Page/Facebook.md "wikilink")，將於10月1日關閉Bloglines，並建議用戶匯出他們的訂閱。但是，在2010年11月4日網路行銷公司[MerchantCircle宣佈取得Bloglines的控制權](../Page/MerchantCircle.md "wikilink")\[1\]，在2011年5月26日，Reply\!公司以6千萬的美元跟股票取得MerchantCircle，這個交易在2011年第3季完成。\[2\]
+2010年9月10日，[Ask.com宣布由於用户流失以及受到更強即時性的](../Page/Ask.com.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")，[Facebook等社群媒體擠壓](../Page/Facebook.md "wikilink")，將於10月1日關閉Bloglines，並建議用戶匯出他們的訂閱。但是，在2010年11月4日網路行銷公司[MerchantCircle宣佈取得Bloglines的控制權](https://zh.wikipedia.org/wiki/MerchantCircle "wikilink")\[1\]，在2011年5月26日，Reply\!公司以6千萬的美元跟股票取得MerchantCircle，這個交易在2011年第3季完成。\[2\]
 
 ## 外部連結
 

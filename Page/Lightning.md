@@ -1,7 +1,8 @@
 </ref> |operating_system =
-[Linux](../Page/Linux.md "wikilink")、[Windows](../Page/Microsoft_Windows.md "wikilink")、[macOS與其他](../Page/macOS.md "wikilink")
-|genre = [個人資訊管理系統](../Page/個人資訊管理系統.md "wikilink") |license =
-[MPL](../Page/Mozilla公共許可證.md "wikilink") 2.0 |website =
+[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS與其他](https://zh.wikipedia.org/wiki/macOS "wikilink")
+|genre = [個人資訊管理系統](https://zh.wikipedia.org/wiki/個人資訊管理系統 "wikilink")
+|license = [MPL](https://zh.wikipedia.org/wiki/Mozilla公共許可證 "wikilink")
+2.0 |website =
 [Lightning附加元件](https://addons.mozilla.org/zh-TW/thunderbird/addon/lightning/)
 | }} **Lightning**是一個將日曆與行事曆功能加入到郵件與新聞組客戶端[Mozilla
 Thunderbird的擴充套件](../Page/Mozilla_Thunderbird.md "wikilink")，从1.0版本起也可用于[SeaMonkey](../Page/SeaMonkey.md "wikilink")。Lightning於2004年12月22日對外宣佈，現由[Mozilla基金會開發](../Page/Mozilla基金會.md "wikilink")。

@@ -1,10 +1,11 @@
 [LEFT](https://zh.wikipedia.org/wiki/File:XMB_logo.PNG "fig:LEFT")
 **Xross Media
-Bar**（**XMB**）“跨界导航菜单”是一種由[索尼開發的](../Page/索尼.md "wikilink")[圖形用戶界面](../Page/圖形用戶界面.md "wikilink")，最初用于[PSX媒體中心的](../Page/PSX.md "wikilink")[人機界面](../Page/人機界面.md "wikilink")。該界面擁有橫越螢幕水平展開的[圖示](../Page/圖標.md "wikilink")，可透過移動該些圖示而非[游標來導航瀏覽](../Page/游標.md "wikilink")。該些圖示用來組織可供使用者選擇的選項，當選擇水平條的圖示後會有更多的圖示在上或下方垂直顯示（可透過上下方向鍵選擇）。Xross
+Bar**（**XMB**）“跨界导航菜单”是一種由[索尼開發的](../Page/索尼.md "wikilink")[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，最初用于[PSX媒體中心的](../Page/PSX.md "wikilink")[人機界面](https://zh.wikipedia.org/wiki/人機界面 "wikilink")。該界面擁有橫越螢幕水平展開的[圖示](https://zh.wikipedia.org/wiki/圖標 "wikilink")，可透過移動該些圖示而非[游標來導航瀏覽](https://zh.wikipedia.org/wiki/游標 "wikilink")。該些圖示用來組織可供使用者選擇的選項，當選擇水平條的圖示後會有更多的圖示在上或下方垂直顯示（可透過上下方向鍵選擇）。Xross
 Media Bar是[PlayStation
 Portable與](../Page/PlayStation_Portable.md "wikilink")[PlayStation
-3的預設界面](../Page/PlayStation_3.md "wikilink")，2006年開始XMB亦用於[高階的](../Page/高階.md "wikilink")[WEGA](../Page/WEGA.md "wikilink")[電視中](../Page/電視.md "wikilink")\[1\]。在[VAIO](../Page/VAIO.md "wikilink")2008年夏季系列的筆記本電腦中，亦透過VAIO
-Media Plus[軟體](../Page/軟體.md "wikilink")，提供了XMB介面。\[2\]
+3的預設界面](../Page/PlayStation_3.md "wikilink")，2006年開始XMB亦用於[高階的](https://zh.wikipedia.org/wiki/高階 "wikilink")[WEGA](https://zh.wikipedia.org/wiki/WEGA "wikilink")[電視中](https://zh.wikipedia.org/wiki/電視 "wikilink")\[1\]。在[VAIO](../Page/VAIO.md "wikilink")2008年夏季系列的筆記本電腦中，亦透過VAIO
+Media
+Plus[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，提供了XMB介面。\[2\]
 
 ## Playstation Portable上的XMB
 
@@ -99,7 +100,7 @@ XMB的背景顏色會按當前月份更改。
 ## 外部連結
 
   - [PlayStation
-    Portable系统固件](../Page/PlayStation_Portable系统固件.md "wikilink")
+    Portable系统固件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统固件 "wikilink")
   - [IGN上的9頁XMB介紹文章](http://ps3.ign.com/articles/740/740601p1.html)
 
 ## 參考

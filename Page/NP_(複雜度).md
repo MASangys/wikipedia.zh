@@ -1,14 +1,14 @@
 [P_np_np-complete_np-hard.svg](https://zh.wikipedia.org/wiki/File:P_np_np-complete_np-hard.svg "fig:P_np_np-complete_np-hard.svg")
-for [P](../Page/P_\(complexity\).md "wikilink"), NP,
-[NP-complete](../Page/NP-complete.md "wikilink"), and
-[NP-hard](../Page/NP-hard.md "wikilink") set of problems. Under the
-assumption that P≠NP, the existence of problems within NP but outside
-both **P** and NP-complete was [established by
-Ladner](../Page/Ladner's_theorem.md "wikilink").\[1\]\]\]
+for [P](https://zh.wikipedia.org/wiki/P_\(complexity\) "wikilink"), NP,
+[NP-complete](https://zh.wikipedia.org/wiki/NP-complete "wikilink"), and
+[NP-hard](https://zh.wikipedia.org/wiki/NP-hard "wikilink") set of
+problems. Under the assumption that P≠NP, the existence of problems
+within NP but outside both **P** and NP-complete was [established by
+Ladner](https://zh.wikipedia.org/wiki/Ladner's_theorem "wikilink").\[1\]\]\]
 
-**非決定性多项式集合**（，缩写：**NP**）是[计算理论中最重要的集合之一](../Page/计算理论.md "wikilink")。它包含[P和](../Page/P.md "wikilink")[NP-complete](../Page/NP-complete.md "wikilink")。
+**非決定性多项式集合**（，缩写：**NP**）是[计算理论中最重要的集合之一](../Page/计算理论.md "wikilink")。它包含[P和](https://zh.wikipedia.org/wiki/P "wikilink")[NP-complete](https://zh.wikipedia.org/wiki/NP-complete "wikilink")。
 P集合的問題即在多项式时间内可以找出解的決策性問題(decision
-problem)集合。注意NP包含P和[NP-complete问题](../Page/NP-complete.md "wikilink"),
+problem)集合。注意NP包含P和[NP-complete问题](https://zh.wikipedia.org/wiki/NP-complete "wikilink"),
 因此NP集合中有簡單的問題和不容易快速得到解的難題。\[NP等不等於P?\]是一個電腦界一個知名的大難題。
 
 ## 定义与推論
@@ -88,18 +88,25 @@ Step 2: if E (x <sub>1</sub>, … , x <sub>n</sub>) is true then success
 
 ### 来源
 
-  - [Thomas H. Cormen](../Page/Thomas_H._Cormen.md "wikilink"), [Charles
-    E. Leiserson](../Page/Charles_E._Leiserson.md "wikilink"), [Ronald
-    L. Rivest](../Page/Ronald_L._Rivest.md "wikilink"), and [Clifford
-    Stein](../Page/Clifford_Stein.md "wikilink"). *[Introduction to
-    Algorithms](../Page/Introduction_to_Algorithms.md "wikilink")*,
+  - [Thomas H.
+    Cormen](https://zh.wikipedia.org/wiki/Thomas_H._Cormen "wikilink"),
+    [Charles E.
+    Leiserson](https://zh.wikipedia.org/wiki/Charles_E._Leiserson "wikilink"),
+    [Ronald L.
+    Rivest](https://zh.wikipedia.org/wiki/Ronald_L._Rivest "wikilink"),
+    and [Clifford
+    Stein](https://zh.wikipedia.org/wiki/Clifford_Stein "wikilink").
+    *[Introduction to
+    Algorithms](https://zh.wikipedia.org/wiki/Introduction_to_Algorithms "wikilink")*,
     Second Edition. MIT Press and McGraw-Hill, 2001. . Section 34.2:
     Polynomial-time verification, pp. 979–983.
 
   -
-  - [David Harel](../Page/David_Harel.md "wikilink"), [Yishai
-    Feldman](../Page/Yishai_Feldman.md "wikilink"). Algorithmics: The
-    Spirit of Computing, Addison-Wesley, Reading, MA, 3rd edition, 2004.
+  - [David Harel](https://zh.wikipedia.org/wiki/David_Harel "wikilink"),
+    [Yishai
+    Feldman](https://zh.wikipedia.org/wiki/Yishai_Feldman "wikilink").
+    Algorithmics: The Spirit of Computing, Addison-Wesley, Reading, MA,
+    3rd edition, 2004.
 
 <!-- end list -->
 
@@ -111,7 +118,8 @@ Step 2: if E (x <sub>1</sub>, … , x <sub>n</sub>) is true then success
   - [Graph of NP-complete
     Problems](http://page.mi.fu-berlin.de/aneumann/npc.html)
 
-  - [American Scientist](../Page/American_Scientist.md "wikilink")
+  - [American
+    Scientist](https://zh.wikipedia.org/wiki/American_Scientist "wikilink")
     primer on traditional and recent complexity theory research:
     ["Accidental
     Algorithms"](http://www.americanscientist.org/issues/pub/accidental-algorithms/)

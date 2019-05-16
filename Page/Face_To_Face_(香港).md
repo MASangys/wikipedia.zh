@@ -1,5 +1,5 @@
 **Face to Face**
-是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")，由[蔡慧玲和](../Page/蔡慧玲_\(香港\).md "wikilink")[吳少芳組成](../Page/吳少芳.md "wikilink")。
+是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[蔡慧玲和](https://zh.wikipedia.org/wiki/蔡慧玲_\(香港\) "wikilink")[吳少芳組成](https://zh.wikipedia.org/wiki/吳少芳 "wikilink")。
 
 ## 成員
 
@@ -15,17 +15,17 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/蔡慧玲_(香港).md" title="wikilink">蔡慧玲</a>（Connie）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡慧玲_(香港)" title="wikilink">蔡慧玲</a>（Connie）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳少芳.md" title="wikilink">吳少芳</a>（Jodi）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳少芳" title="wikilink">吳少芳</a>（Jodi）</p></td>
 <td></td>
 <td></td>
-<td><p>第七屆<a href="../Page/新秀歌唱大賽.md" title="wikilink">新秀歌唱大賽參賽者</a>[1]</p></td>
+<td><p>第七屆<a href="https://zh.wikipedia.org/wiki/新秀歌唱大賽" title="wikilink">新秀歌唱大賽參賽者</a>[1]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -43,11 +43,11 @@
 Face to Face在1990年出道。與
 [Echo](../Page/Echo_\(香港\).md "wikilink")（另一隊同期二人女子組合）一樣是注重形象包裝，[歌曲路線兩者也大致相近](../Page/歌曲.md "wikilink")。但
 Face to Face
-的歌格調較柔和，[音樂類型也多樣化](../Page/音樂.md "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
+的歌格調較柔和，[音樂類型也多樣化](https://zh.wikipedia.org/wiki/音樂 "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
 
 ## 交通意外
 
-1992年，成員吳少芳（Jodi）和其[經理人駕車返回](../Page/經紀人.md "wikilink")[將軍澳寓所](../Page/將軍澳.md "wikilink")，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲在事故後宣佈退出，Face
+1992年，成員吳少芳（Jodi）和其[經理人駕車返回](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[將軍澳寓所](../Page/將軍澳.md "wikilink")，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲在事故後宣佈退出，Face
 to Face亦隨之解散。
 
 2013年1月4日，Face To Face再次亮相舞台演出，成員吳少芳復出坐輪椅獻唱，晚會為全癱病人籌款，故她義不容辭獻唱。\[2\]
@@ -99,7 +99,7 @@ to Face亦隨之解散。
 <td style="text-align: left;"><p>1</p></td>
 <td style="text-align: left;"><p>Face To Face</p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/嘉音唱片.md" title="wikilink">嘉音唱片</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/嘉音唱片" title="wikilink">嘉音唱片</a></p></td>
 <td style="text-align: left;"><p>1990年10月</p></td>
 <td style="text-align: left;"><p>曲目</p>
 <ol>
@@ -195,20 +195,20 @@ to Face亦隨之解散。
 
 ## 派台歌曲成績
 
-| **派台歌曲四台上榜最高位置**                                                                        |
-| --------------------------------------------------------------------------------------- |
-| 唱片                                                                                      |
-| **1990年**                                                                               |
-| [Face To Face](../Page/Face_To_Face_\(1990年同名專輯\).md "wikilink")                        |
-| Face To Face                                                                            |
-| **1991年**                                                                               |
-| [Face To Face（情迷Milano）](../Page/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\).md "wikilink") |
-| [Face To Face（情迷Milano）](../Page/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\).md "wikilink") |
-| [Face To Face（情迷Milano）](../Page/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\).md "wikilink") |
-| **1992年**                                                                               |
-| [In My Dreams](../Page/In_My_Dreams.md "wikilink")                                      |
-| **2013年**                                                                               |
-| [Why Me？](../Page/Why_Me？.md "wikilink")                                                |
+| **派台歌曲四台上榜最高位置**                                                                                           |
+| ---------------------------------------------------------------------------------------------------------- |
+| 唱片                                                                                                         |
+| **1990年**                                                                                                  |
+| [Face To Face](https://zh.wikipedia.org/wiki/Face_To_Face_\(1990年同名專輯\) "wikilink")                        |
+| Face To Face                                                                                               |
+| **1991年**                                                                                                  |
+| [Face To Face（情迷Milano）](https://zh.wikipedia.org/wiki/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\) "wikilink") |
+| [Face To Face（情迷Milano）](https://zh.wikipedia.org/wiki/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\) "wikilink") |
+| [Face To Face（情迷Milano）](https://zh.wikipedia.org/wiki/Face_To_Face_\(1991年同名專輯\)_\(情迷Milano\) "wikilink") |
+| **1992年**                                                                                                  |
+| [In My Dreams](https://zh.wikipedia.org/wiki/In_My_Dreams "wikilink")                                      |
+| **2013年**                                                                                                  |
+| [Why Me？](https://zh.wikipedia.org/wiki/Why_Me？ "wikilink")                                                |
 
 | **各台冠軍歌總數** |
 | ----------- |

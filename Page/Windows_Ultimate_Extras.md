@@ -7,24 +7,24 @@ Update存取](../Page/Windows_Update.md "wikilink")。
 ### Windows DreamScene
 
 **Windows
-DreamScene**是一個允許使用[視頻作為](../Page/視頻.md "wikilink")[背景的公用程式](../Page/背景.md "wikilink")\[1\]。DreamScene在正式發表前曾謠傳會使用*Motion
+DreamScene**是一個允許使用[視頻作為](https://zh.wikipedia.org/wiki/視頻 "wikilink")[背景的公用程式](https://zh.wikipedia.org/wiki/背景 "wikilink")\[1\]。DreamScene在正式發表前曾謠傳會使用*Motion
 Desktop*和*Borealis*這兩個名字\[2\]\[3\]。
 
-包含在DreamScene內的[三維內容](../Page/三維.md "wikilink")（如動態版的Windows
+包含在DreamScene內的[三維內容](https://zh.wikipedia.org/wiki/三維 "wikilink")（如動態版的Windows
 Aurora背景圖片）由[Stardock
-Design製作](../Page/Stardock.md "wikilink")，照片內容由[探索頻道提供](../Page/探索頻道.md "wikilink")\[4\]\[5\]；亦可使用第三方[MPEG或](../Page/MPEG.md "wikilink")[WMV格式的視頻內容](../Page/WMV.md "wikilink")\[6\]。
+Design製作](https://zh.wikipedia.org/wiki/Stardock "wikilink")，照片內容由[探索頻道提供](../Page/探索頻道.md "wikilink")\[4\]\[5\]；亦可使用第三方[MPEG或](../Page/MPEG.md "wikilink")[WMV格式的視頻內容](https://zh.wikipedia.org/wiki/WMV "wikilink")\[6\]。
 
-DreamScene聲稱相比以往的動態桌面方式其中一個優勢在於利用[GPU來顯示而不是](../Page/GPU.md "wikilink")[CPU](../Page/CPU.md "wikilink")，讓後者可以閒置來執行使用者的工作\[7\]，怎樣做到並未詳細說明。微軟對DreamScene作品的指標為建議在[資料壓縮與檔案大小間取得平衡](../Page/資料壓縮.md "wikilink")；因為解壓需要使用CPU，較大的檔案會使用較多[記憶體以及會導致硬碟的存取](../Page/隨機存取記憶體.md "wikilink")\[8\]。
+DreamScene聲稱相比以往的動態桌面方式其中一個優勢在於利用[GPU來顯示而不是](https://zh.wikipedia.org/wiki/GPU "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，讓後者可以閒置來執行使用者的工作\[7\]，怎樣做到並未詳細說明。微軟對DreamScene作品的指標為建議在[資料壓縮與檔案大小間取得平衡](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")；因為解壓需要使用CPU，較大的檔案會使用較多[記憶體以及會導致硬碟的存取](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")\[8\]。
 
-不論是否透過[GPU來渲染使用視頻作為背景會對](../Page/GPU.md "wikilink")[筆記本電腦的](../Page/筆記本電腦.md "wikilink")[電池壽命有顯著的影響](../Page/電池壽命.md "wikilink")，所以當電腦使用電池時DreamScene可能會顯示靜態的背景\[9\]。該軟件非常依重於[Desktop
+不論是否透過[GPU來渲染使用視頻作為背景會對](https://zh.wikipedia.org/wiki/GPU "wikilink")[筆記本電腦的](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")[電池壽命有顯著的影響](https://zh.wikipedia.org/wiki/電池壽命 "wikilink")，所以當電腦使用電池時DreamScene可能會顯示靜態的背景\[9\]。該軟件非常依重於[Desktop
 Window
-Manager](../Page/Desktop_Window_Manager.md "wikilink")（[Aero界面的一部份](../Page/Aero界面.md "wikilink")）。
+Manager](https://zh.wikipedia.org/wiki/Desktop_Window_Manager "wikilink")（[Aero界面的一部份](https://zh.wikipedia.org/wiki/Aero界面 "wikilink")）。
 
 #### DeskScapes
 
-**DeskScapes**是一個允許DreamScene使用動態內容而非[預渲染的影片的附加程式](../Page/預渲染.md "wikilink")；DeskScapes會由Stardock以作為[Object
+**DeskScapes**是一個允許DreamScene使用動態內容而非[預渲染的影片的附加程式](https://zh.wikipedia.org/wiki/預渲染 "wikilink")；DeskScapes會由Stardock以作為[Object
 Desktop軟體一部份的方式提供](../Page/Object_Desktop.md "wikilink")\[10\]。網誌作家們推測可能會用作製作一個會對外部刺激作出回應，已由微軟取得專利的"雜訊"
-[桌面環境](../Page/桌面環境.md "wikilink")\[11\]\[12\]。
+[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")\[11\]\[12\]。
 
 ### Windows BitLocker Drive Preparation Tool與Secure Online Key Backup
 
@@ -34,10 +34,10 @@ Desktop軟體一部份的方式提供](../Page/Object_Desktop.md "wikilink")\[10
 
 一款[德州撲克版的撲克遊戲](../Page/撲克.md "wikilink")。
 
-### [Group Shot](../Page/Group_Shot.md "wikilink")
+### [Group Shot](https://zh.wikipedia.org/wiki/Group_Shot "wikilink")
 
 Group
-Shot是一個由[微軟研究院開發的](../Page/微軟研究院.md "wikilink")[照片編輯程式](../Page/照片.md "wikilink")，由[比爾·蓋茨在](../Page/比爾·蓋茨.md "wikilink")2007年[国际消费电子展的演說中發表](../Page/国际消费电子展.md "wikilink")。
+Shot是一個由[微軟研究院開發的](../Page/微軟研究院.md "wikilink")[照片編輯程式](https://zh.wikipedia.org/wiki/照片 "wikilink")，由[比爾·蓋茨在](https://zh.wikipedia.org/wiki/比爾·蓋茨 "wikilink")2007年[国际消费电子展的演說中發表](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")。
 
 ### Microsoft Tinker
 
@@ -76,8 +76,8 @@ SP1之后，操作系统内关于Ultimate Extras介绍部分的文字遭到删�
 <!-- end list -->
 
   -
-    [WinCustomize上的](../Page/WinCustomize.md "wikilink") [Dream
-    Gallery](http://dream.wincustomize.com/)
+    [WinCustomize上的](https://zh.wikipedia.org/wiki/WinCustomize "wikilink")
+    [Dream Gallery](http://dream.wincustomize.com/)
     [YouTube上的](../Page/YouTube.md "wikilink") [Windows
     DreamScene示範](http://www.youtube.com/watch?v=L_DYVFgPaN0)
 

@@ -12,7 +12,7 @@ Horizon的名義與外界作品合作](../Page/Linked_Horizon.md "wikilink")。
 前身來自於同人音樂的關係、當初以動畫．遊戲同好的核心年輕階層愛好者為主，特別是在「Chronicle
 2nd」之後引發一傳十、十傳百效應；由於開始舉辦現場演唱會、在其他階層亦得到廣大愛好者的支持。在愛好者之間較多簡稱為「**サンホラ**（Sanhora）」。
 
-有观点认为乐队名称的来源与[物理学中](../Page/物理学.md "wikilink")[黑洞边际的](../Page/黑洞.md "wikilink")[事件视界有关联](../Page/事件视界.md "wikilink")，并指出演唱会曲目即ち…光をも逃がさぬ暗黒の超←重↓力↑（这即是…连光线都无法逃脱的暗黑超←重↓力↑）的歌词作为援引。\[1\]
+有观点认为乐队名称的来源与[物理学中](../Page/物理学.md "wikilink")[黑洞边际的](../Page/黑洞.md "wikilink")[事件视界有关联](https://zh.wikipedia.org/wiki/事件视界 "wikilink")，并指出演唱会曲目即ち…光をも逃がさぬ暗黒の超←重↓力↑（这即是…连光线都无法逃脱的暗黑超←重↓力↑）的歌词作为援引。\[1\]
 
 此外「Linked Horizon」合作作品與「Sound
 Horizon」的差異在於會為了個別合作對象的內容調整音樂風格與歌詞，因此演唱者為了配合故事角色的個性，有時要用Sound
@@ -34,8 +34,8 @@ horizon则是因为Revo本人对音乐、舞台的喜好而创立，可以说是
 ## 音樂性
 
 收錄了所謂[Pop
-Music](https://zh.wikipedia.org/wiki/Wikipedia:流行音樂 "wikilink")、[搖滾樂](../Page/搖滾樂.md "wikilink")、[爵士到](../Page/爵士樂.md "wikilink")[古典音樂](../Page/古典音樂.md "wikilink")、[民族音樂](../Page/民族音樂.md "wikilink")、[童謠等各式各樣的音樂要素](../Page/童謠.md "wikilink")。配合故事性強的風格而各取適才、靈活運用各種樂風印象，難以一言表達其類型。不過在編曲方面也被說有著[重金屬與重搖滾音樂的深遠影響](../Page/重金屬音樂.md "wikilink")。同時，特別在初期的作品裡受到[SQUARE](../Page/SQUARE.md "wikilink")（即現在的[SQUARE
-ENIX](../Page/SQUARE_ENIX.md "wikilink")）所屬時代的[伊藤賢治的影響](../Page/伊藤賢治.md "wikilink")。
+Music](https://zh.wikipedia.org/wiki/Wikipedia:流行音樂 "wikilink")、[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[爵士到](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[古典音樂](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[民族音樂](https://zh.wikipedia.org/wiki/民族音樂 "wikilink")、[童謠等各式各樣的音樂要素](https://zh.wikipedia.org/wiki/童謠 "wikilink")。配合故事性強的風格而各取適才、靈活運用各種樂風印象，難以一言表達其類型。不過在編曲方面也被說有著[重金屬與重搖滾音樂的深遠影響](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。同時，特別在初期的作品裡受到[SQUARE](https://zh.wikipedia.org/wiki/SQUARE "wikilink")（即現在的[SQUARE
+ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）所屬時代的[伊藤賢治的影響](../Page/伊藤賢治.md "wikilink")。
 
 普羅聽眾之中有著非常喜歡的人和非常不喜歡的人，分別存在極端的好評和劣評。由於創作者自身的手癖，經常會在各曲中寫出相似的旋律，（一部份的愛好者稱為「Revo節」）也經常把同樣或相似的分節用於不同的樂曲上，顯示出「音樂上的樂曲關聯」。
 
@@ -63,7 +63,7 @@ Soundtrack中，依然是使用Revo个人名义。
 
 ### 主力
 
-  - **[Revo](../Page/Revo.md "wikilink")**（）、擔任故事原案、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")、[吉他](../Page/吉他.md "wikilink")、[鍵盤](../Page/鍵盤.md "wikilink")、[手風琴](../Page/手風琴.md "wikilink")、[主唱等工作](../Page/主唱.md "wikilink")。
+  - **[Revo](../Page/Revo.md "wikilink")**（）、擔任故事原案、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、[主唱等工作](https://zh.wikipedia.org/wiki/主唱 "wikilink")。
 
 在擔任主唱及口白時會以「似是而非之人」\[6\]名義，扮演成該故事CD的角色。（在CD的演出名單中亦使用故事角色名稱。）
 
@@ -73,7 +73,7 @@ Soundtrack中，依然是使用Revo个人名义。
 
 ### 退出的成員
 
-  - ****、担任[主唱](../Page/主唱.md "wikilink")、[合音](../Page/合音.md "wikilink")、[旁白](../Page/旁白.md "wikilink")、[口白](../Page/口白.md "wikilink")。SH商业化后，在第1期活动结束后退出。（从同人时代的《Thanatos》到商业时代的《Elysion
+  - ****、担任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[合音](https://zh.wikipedia.org/wiki/合音 "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[口白](https://zh.wikipedia.org/wiki/口白 "wikilink")。SH商业化后，在第1期活动结束后退出。（从同人时代的《Thanatos》到商业时代的《Elysion
     〜楽園幻想物語組曲〜》，参加了其间所有CD的录制。）
 
 ### 協力
@@ -85,7 +85,7 @@ Soundtrack中，依然是使用Revo个人名义。
 
 #### 演唱者
 
-  - ****（じまんぐ）、擔任[主唱](../Page/主唱.md "wikilink")、[合音](../Page/合音.md "wikilink")、[旁白](../Page/旁白.md "wikilink")、[口白](../Page/口白.md "wikilink")。（E前、E組、少、R、聖、M、Mä、N）在商業化前的《Lost》開始參加。
+  - ****（じまんぐ）、擔任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[合音](https://zh.wikipedia.org/wiki/合音 "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[口白](https://zh.wikipedia.org/wiki/口白 "wikilink")。（E前、E組、少、R、聖、M、Mä、N）在商業化前的《Lost》開始參加。
   - **[霜月はるか](../Page/霜月遙.md "wikilink")**（しもつき・はるか）、擔任主唱、合音、口白。（M，在商業化前參加《Lost》《Chronicle
     2nd》《霧の向こうに繋がる世界》（※霜月はるか†Revo名義））的製作。
   - ****（あいく・ねるそん）、擔任旁白。（少、R、聖、M、ハロ、ヴァ、N）
@@ -95,7 +95,7 @@ Soundtrack中，依然是使用Revo个人名义。
   - ****（りっき）、擔任主唱、合音、口白。（少、R、聖、N）
   - **[深見梨加](../Page/深見梨加.md "wikilink")**（ふかみ・りか）、擔任主唱、口白。（少、R、聖、イド、N）
   - **[井上あずみ](../Page/井上杏美.md "wikilink")**（いのうえ・あずみ）、擔任主唱、口白。（R、M※、Mä）※『Moira』只有在演唱會追加公演時代替岩崎良美演出。
-  - **[栗林みな実](../Page/栗林美奈實.md "wikilink")**（くりばやし・みなみ）、擔任主唱、合音、口白。（M、Mä、ハロ、N）
+  - **[栗林みな実](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")**（くりばやし・みなみ）、擔任主唱、合音、口白。（M、Mä、ハロ、N）
   - ****（うつのみや・たかし）、擔任主唱、口白。（M）
   - **[岩崎良美](../Page/岩崎良美.md "wikilink")**（いわさき・よしみ）、擔任主唱、口白。（M）
   - **内藤彩加**（ないとう・あやか）、擔任主唱、合音。（M）
@@ -107,7 +107,7 @@ Soundtrack中，依然是使用Revo个人名义。
   - ****（あやの・かなみ）、擔任主唱、合音、口白。（Mä）
   - **桐山和己**（きりやま・かずみ）、擔任主唱、口白。（Mä）※火刑の魔女子役。
   - **小林さゆみ**（こばやし・さゆみ）、擔任主唱、口白。（Mä）※火刑の魔女子役。
-  - **[黒沢ともよ](../Page/黑澤知葉.md "wikilink")**（くろさわ・ともよ）、擔任主唱、合音、口白。（Mä）※『Moira』只有在演唱會時以演員身份演出。
+  - **[黒沢ともよ](https://zh.wikipedia.org/wiki/黑澤知葉 "wikilink")**（くろさわ・ともよ）、擔任主唱、合音、口白。（Mä）※『Moira』只有在演唱會時以演員身份演出。
   - ****（すずき・ゆめ）、擔任主唱、口白。（Mä）
   - **[Ceui](../Page/Ceui.md "wikilink")**（セイ）、擔任主唱、合音、口白。（Mä）
   - **石井千夏**（いしい・ちなつ）、擔任主唱、合音、口白。（Mä）※生と死を別つ境界の古井戸子役。
@@ -129,15 +129,15 @@ Soundtrack中，依然是使用Revo个人名义。
 #### 演奏者
 
   - **斉藤"Jake"慎吾**（さいとう・じぇいく・しんご）、擔任[吉他](../Page/吉他.md "wikilink")、樂團指揮。（E組、少、R、聖、M、Mä）
-  - ****（おおさこ・きょうこ）、擔任[鍵盤](../Page/電子琴.md "wikilink")、[鋼琴](../Page/鋼琴.md "wikilink")。（R）※在演唱會中兼任[直笛](../Page/直笛.md "wikilink")，『Roman』前的演唱會也有参與演出。
+  - ****（おおさこ・きょうこ）、擔任[鍵盤](../Page/電子琴.md "wikilink")、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。（R）※在演唱會中兼任[直笛](../Page/直笛.md "wikilink")，『Roman』前的演唱會也有参與演出。
   - **河合英史**（かわい・えいじ）、擔任[鍵盤](../Page/電子琴.md "wikilink")、[合成器](../Page/合成器.md "wikilink")。（R、聖、M、Mä、N）
   - **田村滋**（たむら・しげる）、擔任貝斯。（E組）
   - **長谷川淳**（はせがわ・あつし）、擔任[貝斯](../Page/電貝斯.md "wikilink")。（少、R、聖、M、イド、Mä、ハロ、N）
-  - ****（さかがみ・りょう）、擔任[長笛](../Page/長笛.md "wikilink")。（E前、E組、R、聖、M）
+  - ****（さかがみ・りょう）、擔任[長笛](https://zh.wikipedia.org/wiki/長笛 "wikilink")。（E前、E組、R、聖、M）
   - **南都亮二**（なんと・りょうじ）、擔任[爵士鼓](../Page/爵士鼓.md "wikilink")。（E組）
   - ****（ふじもと・けんいち）、擔任爵士鼓。（少、R、聖、M、Mä、ハロ、N）
   - ****（じゅんじ）、擔任爵士鼓。（イド、Mä、ヴァ、N）
-  - **石川ナオミ**（いしかわ・なおみ）、擔任[打擊樂器](../Page/打擊樂器.md "wikilink")。（少、R、聖）
+  - **石川ナオミ**（いしかわ・なおみ）、擔任[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")。（少、R、聖）
   - **渡辺☆Fire**（わたなべ・ファイヤー）、擔任[薩克斯風](../Page/薩克斯風.md "wikilink")。（少、R）
   - ****（うえさと・はなこ）、擔任[小提琴](../Page/小提琴.md "wikilink")。（少）
   - **伊藤佳奈子**（いとう・かなこ）、擔任小提琴（獨奏）。（R）
@@ -148,8 +148,8 @@ Soundtrack中，依然是使用Revo个人名义。
   - **岡部磨知**（おかべ・まち）、擔任小提琴。（M、イド） ※只在PV及演唱會中演出。
   - **恵比須弘和**（えびす・ひろかず）、擔任ＳＥ（音響效果）。（E組、少、R、聖、M、イド）
   - **坂知学**（さか・ともたか）、擔任混音。（少、R、聖、M）
-  - **[マーティ・フリードマン](../Page/馬蒂·弗里德曼.md "wikilink")**、擔任吉他。（イド、Mä）
-  - **[桜庭統](../Page/櫻庭統.md "wikilink")**（さくらば・もとい）、擔任鍵盤。（イド）
+  - **[マーティ・フリードマン](https://zh.wikipedia.org/wiki/馬蒂·弗里德曼 "wikilink")**、擔任吉他。（イド、Mä）
+  - **[桜庭統](https://zh.wikipedia.org/wiki/櫻庭統 "wikilink")**（さくらば・もとい）、擔任鍵盤。（イド）
   - ****（にしやま・たけし）、擔任吉他。（Mä、ハロ、N）
   - ****（ゆき）、擔任吉他。（Mä、ハロ、ヴァ、N）※『ハロウィンと夜の物語』只在演唱會時演出。
   - **五十嵐宏治**（いがらし・こうじ）、擔任鍵盤。（Mä）
@@ -157,7 +157,7 @@ Soundtrack中，依然是使用Revo个人名义。
   - ****（あべ・とおる）、擔任爵士鼓。（Mä）
   - ****（あべ・かおる）、擔任爵士鼓。（Mä）
   - ****（ひらはら・まこと）、擔任薩克斯風。（ハロ、N）※『Nein』只在演唱會中演出。
-  - **[Leda](../Page/Leda_\(ギタリスト\).md "wikilink")**（レダ）、擔任吉他。（ヴァ）
+  - **[Leda](https://zh.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")**（レダ）、擔任吉他。（ヴァ）
   - ****（イクオ）、擔任貝斯。（ヴァ）
   - **AKITO**（アキト）、擔任鍵盤。（ヴァ）
 
@@ -1697,8 +1697,8 @@ Bell Fantasia》
 
 ※擔任PC遊戲的背景音樂及結尾曲《想い出は夏の栞》的製作，即開頭曲《らずべりー》除外的所有曲目
 
-1.  らずべりー（歌：[KOTOKO](../Page/KOTOKO.md "wikilink")／作詞：KOTOKO／作曲：[C.G
-    mix](../Page/C.G_mix.md "wikilink")／編曲：C.G mix）
+1.  らずべりー（歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")／作詞：KOTOKO／作曲：[C.G
+    mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")／編曲：C.G mix）
 2.  おはようの挨拶
 3.  初夏のひまわり
 4.  転んだ後の杖

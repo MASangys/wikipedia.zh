@@ -17,21 +17,24 @@ You**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")2張專輯，於2007年
       - 作詞：ma-saya、作曲：JOEY CARBONE・LISA HUANG、編曲：AKIRA、Rap詞：JOKER
     <!-- end list -->
       -
-        [NTT DoCoMo](../Page/NTT_DoCoMo.md "wikilink") [new 9
-        series](../Page/FOMA.md "wikilink") CM曲（廣告曲）。
+        [NTT
+        DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")
+        [new 9 series](https://zh.wikipedia.org/wiki/FOMA "wikilink")
+        CM曲（廣告曲）。
 2.  **Peak**
       - 作詞：、作曲・編曲：宮崎步
     <!-- end list -->
       -
-        [NTT DoCoMo](../Page/NTT_DoCoMo.md "wikilink")
-        [FOMA903iTV系列CM曲](../Page/FOMA.md "wikilink")（廣告曲）。
+        [NTT
+        DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")
+        [FOMA903iTV系列CM曲](https://zh.wikipedia.org/wiki/FOMA "wikilink")（廣告曲）。
 3.  **Splash...**
       - 作詞：ma-saya、作曲：DoiToki、編曲：長岡成貢
 4.  **[在我們的城市裡](../Page/在我們的城市裡.md "wikilink")**
       - 作詞・作曲・編曲：[小田和正](../Page/小田和正.md "wikilink")
     <!-- end list -->
       -
-        [日本電視台系戲劇](../Page/日本電視台.md "wikilink")「[唯愛](../Page/唯愛.md "wikilink")」主題歌。
+        [日本電視台系戲劇](../Page/日本電視台.md "wikilink")「[唯愛](https://zh.wikipedia.org/wiki/唯愛 "wikilink")」主題歌。
 5.  **Make U Wet**－**[田中聖](../Page/田中聖.md "wikilink")** solo曲
       - 作詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：Silvertongue、編曲：AKIRA
 6.  **key of life**－**[中丸雄一](../Page/中丸雄一.md "wikilink")** solo曲
@@ -39,17 +42,17 @@ You**》是[KAT-TUN的第](../Page/KAT-TUN.md "wikilink")2張專輯，於2007年
 7.  **LOST**－**[上田龍也](../Page/上田龍也.md "wikilink")** solo曲
       - 作詞：上田龍也、作曲・編曲：宮崎步
 8.  **Jumpin' up**
-      - 作詞：亞美、作曲：[平田祥一郎](../Page/平田祥一郎.md "wikilink")、編曲：岩田雅之、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
+      - 作詞：亞美、作曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")、編曲：岩田雅之、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
 9.  **SAMURAI☆LOVE☆ATTACK**－**[田口淳之介](../Page/田口淳之介.md "wikilink")**
     solo曲
-      - 作詞・作曲：[Anchang](../Page/Anchang.md "wikilink")、編曲：ha-j
+      - 作詞・作曲：[Anchang](https://zh.wikipedia.org/wiki/Anchang "wikilink")、編曲：ha-j
 10. **FREEDOM**
-      - 作詞：西寺郷太、作曲・編曲：[荒木真樹彥](../Page/荒木真樹彥.md "wikilink")
+      - 作詞：西寺郷太、作曲・編曲：[荒木真樹彥](https://zh.wikipedia.org/wiki/荒木真樹彥 "wikilink")
 11. **someday for somebody**－**[龜梨和也](../Page/龜梨和也.md "wikilink")**
     solo曲
       - 作詞：H.U.B.、作曲：江上浩太郎、編曲：長岡成貢
 12. **Movin' on**
-      - 作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")、作曲・編曲：田中直、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
+      - 作詞：[久保田洋司](https://zh.wikipedia.org/wiki/久保田洋司 "wikilink")、作曲・編曲：田中直、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
 13. **持續歌唱的時刻**
       - 作詞：山本成美、作曲：成本智美、編曲：長岡成貢
 14. **YOU** ※普通盤收錄

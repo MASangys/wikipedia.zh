@@ -1,9 +1,9 @@
-，是由日本[Falcom在](../Page/Falcom.md "wikilink")1994年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第3部作品，系列第二期《[卡卡布三部曲](../Page/卡卡布三部曲.md "wikilink")》的第1部作品。
+，是由日本[Falcom在](https://zh.wikipedia.org/wiki/Falcom "wikilink")1994年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第3部作品，系列第二期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》的第1部作品。
 
 ## 概要
 
 《白髮魔女》將**英雄傳說**四字作為主標題，確定了《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》正式從《[Dragon
-Slayer](../Page/Dragon_Slayer.md "wikilink")》系列獨立成為新系列作品。
+Slayer](https://zh.wikipedia.org/wiki/Dragon_Slayer "wikilink")》系列獨立成為新系列作品。
 
 與《[英雄傳說IV -{zh-cn:朱红的泪;
 zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[英雄傳說V
@@ -167,7 +167,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[
 
 ## 關聯項目
 
-  - [Falcom](../Page/Falcom.md "wikilink")
+  - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說 卡卡布三部曲](../Page/英雄傳說_卡卡布三部曲.md "wikilink")
   - [英雄傳說IV -{zh-cn:朱红的泪;

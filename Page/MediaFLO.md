@@ -1,12 +1,13 @@
-****是[美國](../Page/美國.md "wikilink")[高通公司對於](../Page/高通公司.md "wikilink")[行動電話](../Page/行動電話.md "wikilink")、[個人數位助理等可攜式裝備的廣播資料傳送技術](../Page/個人數位助理.md "wikilink")。廣播資料包含多樣性的即時影音串流、獨立或是非即時的影音「短片」，如
+****是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[高通公司對於](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[個人數位助理等可攜式裝備的廣播資料傳送技術](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")。廣播資料包含多樣性的即時影音串流、獨立或是非即時的影音「短片」，如
 股市的走勢、體育賽事的分數，以及氣象報導等IP數據廣播應用服務。\[1\]
 
 FLO在MediaFLO中是指「前向鏈路」（Forward Link
-Only）\[2\]，意思是從基地台到載具的數據使用單一路徑傳送。MediaFLO系統是從現有的行動網路的[頻譜使用中所分割的一塊傳遞數據](../Page/波段_\(無線電\).md "wikilink")，例如美國使用的MediaFLO的頻譜是以前用於[極高頻](../Page/極高頻.md "wikilink")55電視頻道（[UHF](../Page/UHF.md "wikilink")
-TV Channel 55）的716-722[MHz](../Page/MHz.md "wikilink")。\[3\]\[4\]。
+Only）\[2\]，意思是從基地台到載具的數據使用單一路徑傳送。MediaFLO系統是從現有的行動網路的[頻譜使用中所分割的一塊傳遞數據](https://zh.wikipedia.org/wiki/波段_\(無線電\) "wikilink")，例如美國使用的MediaFLO的頻譜是以前用於[極高頻](https://zh.wikipedia.org/wiki/極高頻 "wikilink")55電視頻道（[UHF](https://zh.wikipedia.org/wiki/UHF "wikilink")
+TV Channel
+55）的716-722[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")。\[3\]\[4\]。
 
-MediaFLO相對於韓國的地面數位行動廣播標準（T-DMB）、歐洲的手持式數位視訊廣播標準（DVB-H）而言是同類型的競爭標準。MediaFLO的設備初次在2006年國際消費電子展（CES）由[樂金](../Page/樂金.md "wikilink")、[三星等廠商引進](../Page/三星電子.md "wikilink")。在2005年12月1日，[Verizon
-Wireless與高通宣佈成為MediaFLO網路的合作夥伴](../Page/Verizon_Wireless.md "wikilink")，並且Verizon在2007年3月1日開始其「VCAST
+MediaFLO相對於韓國的地面數位行動廣播標準（T-DMB）、歐洲的手持式數位視訊廣播標準（DVB-H）而言是同類型的競爭標準。MediaFLO的設備初次在2006年國際消費電子展（CES）由[樂金](https://zh.wikipedia.org/wiki/樂金 "wikilink")、[三星等廠商引進](../Page/三星電子.md "wikilink")。在2005年12月1日，[Verizon
+Wireless與高通宣佈成為MediaFLO網路的合作夥伴](https://zh.wikipedia.org/wiki/Verizon_Wireless "wikilink")，並且Verizon在2007年3月1日開始其「VCAST
 TV」之商業化經營。\[5\]另外2007年2月Cingular Wirless（AT\&T Mobility
 LLC的前身）也宣佈將有商業化營運\[6\]，並在2008年5月開始服務\[7\]。高通試圖將MediaFLO的技術國際化，並且意圖與其他既有的營運商建立夥伴關係。
 
@@ -19,7 +20,7 @@ MediaFLO的協定建立是產生於原本單點傳播（unicasting）高速動�
 ### 美國
 
 2007年12月時，Verizon Wireless是高通MediaFLO服務唯一的無線產品供應設備的需求買家。Verizon
-Wireless使用[EVDO](../Page/EVDO.md "wikilink")
+Wireless使用[EVDO](https://zh.wikipedia.org/wiki/EVDO "wikilink")
 Network在行動網路上設定權限，並且提供對於節目的解密鑰來解碼。
 
 目前在美國有九家MediaFLO的廣播頻道\[8\]：
@@ -38,7 +39,7 @@ Network在行動網路上設定權限，並且提供對於節目的解密鑰來�
 
 ### 台灣
 
-國家通訊傳播委員會（NCC）於2006年10月、11月核定五家團隊業者試播，其中[台視](../Page/台視.md "wikilink")、[中嘉](../Page/中嘉.md "wikilink")、[亞太電信](../Page/亞太電信.md "wikilink")、威寶電信的高通團隊採用MediaFLO技術，並且於2007年初開始試播。
+國家通訊傳播委員會（NCC）於2006年10月、11月核定五家團隊業者試播，其中[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中嘉](https://zh.wikipedia.org/wiki/中嘉 "wikilink")、[亞太電信](../Page/亞太電信.md "wikilink")、威寶電信的高通團隊採用MediaFLO技術，並且於2007年初開始試播。
 
 ## 參考連結
 
@@ -50,8 +51,8 @@ Network在行動網路上設定權限，並且提供對於節目的解密鑰來�
 
 ## 相關條目
 
-  - [DVB-H](../Page/DVB-H.md "wikilink")（手持式數位視訊廣播：Digital Video
-    Broadcasting - Handheld）
+  - [DVB-H](https://zh.wikipedia.org/wiki/DVB-H "wikilink")（手持式數位視訊廣播：Digital
+    Video Broadcasting - Handheld）
   - [DVB](../Page/DVB.md "wikilink")（數位視訊廣播：Digital Video Broadcasting）
 
 ## 外部連結

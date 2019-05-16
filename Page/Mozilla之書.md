@@ -1,13 +1,13 @@
-**Mozilla之書**（****）是[Netscape和](../Page/Netscape.md "wikilink")[Mozilla系列](../Page/Mozilla.md "wikilink")[網頁瀏覽器中著名的](../Page/网页浏览器.md "wikilink")[復活節彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")\[1\]\[2\]。使用者只需在網頁瀏覽器的網址列中键入<about:mozilla>就可以看到這本《Mozilla之书》\[3\]\[4\]\[5\]。
+**Mozilla之書**（****）是[Netscape和](https://zh.wikipedia.org/wiki/Netscape "wikilink")[Mozilla系列](../Page/Mozilla.md "wikilink")[網頁瀏覽器中著名的](../Page/网页浏览器.md "wikilink")[復活節彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")\[1\]\[2\]。使用者只需在網頁瀏覽器的網址列中键入<about:mozilla>就可以看到這本《Mozilla之书》\[3\]\[4\]\[5\]。
 
 ## 關於Mozilla之書
 
 《Mozilla之書》（*The Book of Mozilla*）並不是真有其書。不過，-{zh-hans:隐藏;
-zh-tw:隱藏}-在Netscape和Mozilla中的引文卻寫得有[啟示文學的風格](../Page/聖經啟示文學.md "wikilink")，比如[聖經中的](../Page/聖經.md "wikilink")[啟示錄](../Page/启示录.md "wikilink")，令人以為真有Mozilla之書。當使用者在網址列中鍵入<about:mozilla>，根據瀏覽器的版本，就可以看到不同版本的Mozilla之書。雖然版本有所不同，相同的是所有Mozilla之書的內容都是隐秘的信息，背景顏色為褐紫紅色，文本顏色為白色。
+zh-tw:隱藏}-在Netscape和Mozilla中的引文卻寫得有[啟示文學的風格](https://zh.wikipedia.org/wiki/聖經啟示文學 "wikilink")，比如[聖經中的](https://zh.wikipedia.org/wiki/聖經 "wikilink")[啟示錄](../Page/启示录.md "wikilink")，令人以為真有Mozilla之書。當使用者在網址列中鍵入<about:mozilla>，根據瀏覽器的版本，就可以看到不同版本的Mozilla之書。雖然版本有所不同，相同的是所有Mozilla之書的內容都是隐秘的信息，背景顏色為褐紫紅色，文本顏色為白色。
 
 在官方的釋出軟件上，可以找到六節Mozilla之書。而在網際網路上，更可找到更多非官方的章節。六節Mozilla之書都看起来類似聖經中的章節，而下面聖經般的引用則事實上是指Netscape和Mozilla在開發上的重要日期。
 
-三節Mozilla之書都提及到一隻令人生畏的野獸。於Netscape開發的早年，曾用過一隻名為Mozilla的[吉祥物](../Page/Mozilla_\(吉祥物\).md "wikilink")（Mozilla亦是[Netscape
+三節Mozilla之書都提及到一隻令人生畏的野獸。於Netscape開發的早年，曾用過一隻名為Mozilla的[吉祥物](https://zh.wikipedia.org/wiki/Mozilla_\(吉祥物\) "wikilink")（Mozilla亦是[Netscape
 Navigator](../Page/网景导航者.md "wikilink")
 1.0的開發代號）。牠是一隻青色的、會噴火的龍。由此可以推測Mozilla之書所提到的野獸就是一種會噴火的龍，可以看作是Netscape的象徵或者化身。
 
@@ -98,7 +98,7 @@ shall cover the earth, and the followers of Mammon shall
 [The_Book_of_Mozilla_3-31.png](https://zh.wikipedia.org/wiki/File:The_Book_of_Mozilla_3-31.png "fig:The_Book_of_Mozilla_3-31.png")
 3:31這章節指的是1998年3月31日，即Netscape開放原始碼的日期。「野獸變得無所不在」是指Netscape想-{zh:凭借;
 zh-cn:凭借; zh-tw:藉著;
-zh-hk:藉著}-開放原始碼，而吸引大量的開發者改善該軟件（使「無數的鍵盤發出嘈雜的聲音」）。「[瑪門](../Page/瑪門.md "wikilink")」在[閃語族中有財富](../Page/闪语族.md "wikilink")、貪慾的意思。該字可見於英語版的聖經，有時是貪心的惡魔的名字。因此，有人認為「瑪門」指的是[微軟](../Page/微软.md "wikilink")。微軟的[Internet
+zh-hk:藉著}-開放原始碼，而吸引大量的開發者改善該軟件（使「無數的鍵盤發出嘈雜的聲音」）。「[瑪門](https://zh.wikipedia.org/wiki/瑪門 "wikilink")」在[閃語族中有財富](https://zh.wikipedia.org/wiki/闪语族 "wikilink")、貪慾的意思。該字可見於英語版的聖經，有時是貪心的惡魔的名字。因此，有人認為「瑪門」指的是[微軟](../Page/微软.md "wikilink")。微軟的[Internet
 Explorer為當時Netscape的主要競爭者](../Page/Internet_Explorer.md "wikilink")。而微軟除了在雄厚的資金支持外，更貪婪地以此增加它的市場佔有率。「紅字版」可以是指紅字版（Red
 letter edition）的聖經，或者3月31日是Mozilla計劃的「紅字日」（Red letter day）。
 
@@ -107,8 +107,8 @@ letter edition）的聖經，或者3月31日是Mozilla計劃的「紅字日」�
 本章節的Mozilla之書由尼爾·迪肯（Neil
 Deakin）所寫，自2003年9月開始發佈的[Mozilla](../Page/Mozilla_Application_Suite.md "wikilink")
 1.5或以上、[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Mozilla
-Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")、[Epiphany](../Page/Epiphany.md "wikilink")
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Mozilla
+Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")、[Epiphany](https://zh.wikipedia.org/wiki/Epiphany "wikilink")
 1.8.0或以上，以及[Netscape](../Page/Netscape_7.md "wikilink")
 7.2或以上（除了部份[Netscape
 Browser的原型](../Page/Netscape_Browser.md "wikilink")）都包含此節：
@@ -147,7 +147,7 @@ from **The Book of Mozilla,** 7:15
 </div>
 
 [About_mozilla_in_Netscape7.1.png](https://zh.wikipedia.org/wiki/File:About_mozilla_in_Netscape7.1.png "fig:About_mozilla_in_Netscape7.1.png")
-7:15這章節指的是2003年7月15日，即[AOL把它的Netscape瀏覽器部門關閉和成立Mozilla基金會的日期](../Page/美国在线.md "wikilink")。「野獸的沒落」是指Netscape部門關閉。在「浴火重生的巨鳥」是指Phoenix（[鳳凰](../Page/不死鳥.md "wikilink")），即現在的Mozilla
+7:15這章節指的是2003年7月15日，即[AOL把它的Netscape瀏覽器部門關閉和成立Mozilla基金會的日期](../Page/美国在线.md "wikilink")。「野獸的沒落」是指Netscape部門關閉。在「浴火重生的巨鳥」是指Phoenix（[鳳凰](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")），即現在的Mozilla
 Firefox。從巨鳥擲出的「火」和「雷」則分別指Mozilla Firefox和[Mozilla
 Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")——Mozilla計劃的旗艦產品。Mozilla基金會成立後，Netscape的理念在Mozilla基金會「重生」。基金會不再像從前一樣那麼依賴AOL，力量變得「更強」。而「瑪門」指的則依然是微軟。
 
@@ -176,7 +176,7 @@ from **The Book of Mozilla,** 8:20
 
 [Netscape9_bookofmozilla.png](https://zh.wikipedia.org/wiki/File:Netscape9_bookofmozilla.png "fig:Netscape9_bookofmozilla.png")
 8:20這章節指的是2006年8月20日，這是第一封提及研發下一版本的Netscape
-Navigator的可能性的內部郵件的發送日期。造物者指的是軟體開發者，野獸則是指Mozilla的產品，这可能戏仿自《[圣经](../Page/圣经.md "wikilink")》的《[创世纪](../Page/创世纪.md "wikilink")》（英文版为，中文版为[和合本](../Page/和合本.md "wikilink")）\[6\]\[7\]。
+Navigator的可能性的內部郵件的發送日期。造物者指的是軟體開發者，野獸則是指Mozilla的產品，这可能戏仿自《[圣经](https://zh.wikipedia.org/wiki/圣经 "wikilink")》的《[创世纪](https://zh.wikipedia.org/wiki/创世纪 "wikilink")》（英文版为，中文版为[和合本](https://zh.wikipedia.org/wiki/和合本 "wikilink")）\[6\]\[7\]。
 
 ## Mozilla 之書，11:9
 
@@ -220,10 +220,10 @@ from **The Book of Mozilla,** 11:9
 
 [The_Book_of_Mozilla_119_Mozilla_Firefox.png](https://zh.wikipedia.org/wiki/File:The_Book_of_Mozilla_119_Mozilla_Firefox.png "fig:The_Book_of_Mozilla_119_Mozilla_Firefox.png")
 11:9這章節指的是2004年11月9日，為最早的Firefox
-1.0官方正式發佈的日子。“瑪門”（[金錢](../Page/金錢.md "wikilink")）指的是Internet
+1.0官方正式發佈的日子。“瑪門”（[金錢](https://zh.wikipedia.org/wiki/金錢 "wikilink")）指的是Internet
 Explorer ，而“沉睡”指的是隔了5年才發佈了它的新版本（Internet Explorer
 6至7之間）。“野獸重生”指的是Firefox，透過自發組織的網站[Spread
-Firefox獲得大量的支持者](../Page/Firefox#推廣活動.md "wikilink")，並且透過[紐約時報廣告為瀏覽器做了大量的宣傳](../Page/紐約時報.md "wikilink")。“靈巧的狐狸”則直指Firefox。“新天地”指的是現代化、基於標準的動態網站和開放原始碼的應用軟體。其中「**sacred
+Firefox獲得大量的支持者](https://zh.wikipedia.org/wiki/Firefox#推廣活動 "wikilink")，並且透過[紐約時報廣告為瀏覽器做了大量的宣傳](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")。“靈巧的狐狸”則直指Firefox。“新天地”指的是現代化、基於標準的動態網站和開放原始碼的應用軟體。其中「**sacred
 words**」是連到[Mozilla宣言](http://www.mozilla.org/about/manifesto.html)，而「**spoke**」是連到[About
 Mozilla](http://wiki.mozilla.org/About:mozilla)。最後一段，“瑪門甦醒”指的是[Internet
 Explorer
@@ -260,7 +260,7 @@ darkness.
 21（Nightly版本）。
 
 玛门双子（twins of
-Mammon）指[苹果公司和](../Page/苹果公司.md "wikilink")[Google的移动操作系统](../Page/Google.md "wikilink")[iOS和](../Page/iOS.md "wikilink")[Android](../Page/Android.md "wikilink")，已经垄断了移动操作系统的市场。新的黑暗（new
+Mammon）指[苹果公司和](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Google的移动操作系统](../Page/Google.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")，已经垄断了移动操作系统的市场。新的黑暗（new
 darkness）指传统应用商店的封闭性。野兽“迅速的”移动指Firefox新的快速发布周期。不斷地前進和繁衍（went forth and
 multiplied）指Firefox已经因[Firefox for
 Android和](../Page/Firefox_for_Android.md "wikilink")[Firefox
@@ -341,7 +341,7 @@ Explorer\AboutURLs`中，新增一個字串，其名稱為"mozilla"，其值為<
 ## 參見
 
   -
-  - [Tux福音](../Page/Tux福音.md "wikilink"){{-}}
+  - [Tux福音](https://zh.wikipedia.org/wiki/Tux福音 "wikilink"){{-}}
 
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 [Category:Netscape](https://zh.wikipedia.org/wiki/Category:Netscape "wikilink")

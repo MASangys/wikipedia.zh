@@ -1,5 +1,5 @@
 **Windows
-Mail**是[微軟開發的電子郵件應用程序](../Page/微軟.md "wikilink")，起源可以追溯到Windows
+Mail**是[微軟開發的電子郵件應用程序](https://zh.wikipedia.org/wiki/微軟 "wikilink")，起源可以追溯到Windows
 Vista早期版本中包含的預發布版本的Outlook Express 7，後來以其代號Longhorn而聞名。此版本的Outlook
 Express引入了對用戶界面的各種更改，並依賴WinFS來管理和存儲聯繫人和其他數據。在保留對郵局協議（POP）和Internet郵件訪問協議（IMAP）電子郵件協議的支持的同時，Outlook
 Express 7不再支持HTTP，這是Windows Mail繼承的遺漏。

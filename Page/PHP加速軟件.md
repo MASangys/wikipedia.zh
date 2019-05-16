@@ -1,11 +1,11 @@
-**PHP加速軟件**是一種將[PHP程式碼編譯之後所產生的bytecode暫存在](../Page/PHP.md "wikilink")[共享記憶體內供重複使用](../Page/共享記憶體.md "wikilink")，以提升執行效率的插件軟件。
+**PHP加速軟件**是一種將[PHP程式碼編譯之後所產生的bytecode暫存在](../Page/PHP.md "wikilink")[共享記憶體內供重複使用](https://zh.wikipedia.org/wiki/共享記憶體 "wikilink")，以提升執行效率的插件軟件。
 
 ## PHP加速軟件列表
 
 ### Alternative PHP Cache
 
 **Alternative PHP
-Cache**（**APC**）是一套[開放原始碼的](../Page/開放原始碼.md "wikilink")[自由PHP加速軟體](../Page/自由軟件.md "wikilink")，除了可以把將PHP編譯產生的bytecode暫存在[共享記憶體內重複使用](../Page/共享記憶體.md "wikilink")，亦會把中間碼作優化。
+Cache**（**APC**）是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[自由PHP加速軟體](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，除了可以把將PHP編譯產生的bytecode暫存在[共享記憶體內重複使用](https://zh.wikipedia.org/wiki/共享記憶體 "wikilink")，亦會把中間碼作優化。
 能同所有版本的[PHP一起工作](../Page/PHP.md "wikilink")，仍在活跃维护中，并将会被内置在PHP 6中。
 
 ### Turck MMCache

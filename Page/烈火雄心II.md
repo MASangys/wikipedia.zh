@@ -1,8 +1,8 @@
-《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，全劇共35集，由[王喜](../Page/王喜.md "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](../Page/張可頤.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[歐錦棠及](../Page/歐錦棠.md "wikilink")[文頌嫻領銜主演](../Page/文頌嫻.md "wikilink")，由[陳慧珊](../Page/陳慧珊.md "wikilink")、[宣萱特別演出](../Page/宣萱.md "wikilink")，並由[鄭嘉穎聯合主演](../Page/鄭嘉穎.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](../Page/烈火雄心.md "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
+《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[歐錦棠及](../Page/歐錦棠.md "wikilink")[文頌嫻領銜主演](../Page/文頌嫻.md "wikilink")，由[陳慧珊](../Page/陳慧珊.md "wikilink")、[宣萱特別演出](../Page/宣萱.md "wikilink")，並由[鄭嘉穎聯合主演](../Page/鄭嘉穎.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
 
 ## 劇情大綱
 
-紀德田（[王喜飾](../Page/王喜.md "wikilink")）加入消防員多年，也不曾升職，表面上，消防員對紀德田來說，只是一份工作，平日的紀德田，凡事不認真，常愛打侃嬉笑渡日，其實的紀德田毅力非凡，應變能力極高，只是從不外露，也不爭功，這與他的背景有極的大關係。
+紀德田（[王喜飾](https://zh.wikipedia.org/wiki/王喜 "wikilink")）加入消防員多年，也不曾升職，表面上，消防員對紀德田來說，只是一份工作，平日的紀德田，凡事不認真，常愛打侃嬉笑渡日，其實的紀德田毅力非凡，應變能力極高，只是從不外露，也不爭功，這與他的背景有極的大關係。
 
 紀德田有一弟弟紀興田（[鄭嘉穎飾](../Page/鄭嘉穎.md "wikilink")），性格與紀德田大相逕庭。紀興田天生好勝，自小無論學業、運動均成績彪炳，大學畢業後，考進消防隊當起消防隊長，但是，當一個消防員對紀興田來說，只能夠滿足自己的英雄感，因此紀興田甫出班便力求表現，要成為消防隊中的明星。
 
@@ -26,7 +26,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/王喜.md" title="wikilink">王　喜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></strong></p></td>
 <td><p><strong>紀德田</strong></p></td>
 <td><p><strong>紀德、Peter</strong><br />
 消防員，後為消防隊目<br />
@@ -134,7 +134,7 @@
 <td><p><strong>唐　明</strong></p></td>
 <td><p><strong>Wilson、唐Sir</strong><br />
 高級消防隊長<br />
-參見<strong><a href="../Page/#唐家.md" title="wikilink">唐家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#唐家" title="wikilink">唐家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></p></td>
@@ -147,7 +147,7 @@
 <td><p>消防隊長</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>Billy</p></td>
 <td><p>消防隊目</p></td>
 </tr>
@@ -159,13 +159,13 @@
 唐明下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>亞　港</p></td>
 <td><p>消防員<br />
 唐明下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國威.md" title="wikilink">張國威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國威" title="wikilink">張國威</a></p></td>
 <td><p>亞　威</p></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@
 <td><p><strong>唐　明</strong></p></td>
 <td><p><strong>Wilson、唐Sir</strong><br />
 高級消防隊長<br />
-參見<strong><a href="../Page/#唐家.md" title="wikilink">唐家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#唐家" title="wikilink">唐家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林敬剛.md" title="wikilink">林敬剛</a></p></td>
@@ -205,15 +205,15 @@
 陳小蘭之父</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/王喜.md" title="wikilink">王　喜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></strong></p></td>
 <td><p><strong>紀德田</strong></p></td>
 <td><p><strong>紀德</strong><br />
 消防隊目<br />
 唐明之下屬<br />
-參見<strong><a href="../Page/#紀家.md" title="wikilink">紀家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#紀家" title="wikilink">紀家</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>Billy</p></td>
 <td><p>消防隊目</p></td>
 </tr>
@@ -222,7 +222,7 @@
 <td><p><strong>蔡南豐</strong></p></td>
 <td><p>消防員<br />
 唐明之下屬<br />
-參見<a href="../Page/#雷國彪拳術館.md" title="wikilink"><strong>雷國彪拳術館</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#雷國彪拳術館" title="wikilink"><strong>雷國彪拳術館</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
@@ -262,16 +262,16 @@
 <td><p><strong><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a></strong></p></td>
 <td><p><strong>紀興田</strong></p></td>
 <td><p>消防隊長<br />
-參見<strong><a href="../Page/#紀家.md" title="wikilink">紀家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#紀家" title="wikilink">紀家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/元華.md" title="wikilink">元　華</a></strong></p></td>
 <td><p><strong>關安蔭</strong></p></td>
 <td><p>消防總隊目<br />
-參見<strong><a href="../Page/#碧瑤消防局.md" title="wikilink">碧瑤消防局</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#碧瑤消防局" title="wikilink">碧瑤消防局</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/凌子軒.md" title="wikilink">凌子軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌子軒" title="wikilink">凌子軒</a></p></td>
 <td><p>孫世英</p></td>
 <td><p><strong>老鼠</strong><br />
 消防員<br />
@@ -285,13 +285,13 @@
 紀興田下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>馬　仔</p></td>
 <td><p>消防員<br />
 紀興田下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱志平.md" title="wikilink">朱志平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱志平" title="wikilink">朱志平</a></p></td>
 <td><p>超　人</p></td>
 <td></td>
 </tr>
@@ -329,10 +329,10 @@
 <td><p><strong>紀興田</strong></p></td>
 <td><p>消防隊長<br />
 於第26集調往此局工作<br />
-參見<strong><a href="../Page/#紀家.md" title="wikilink">紀家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#紀家" title="wikilink">紀家</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>王耀強</p></td>
 <td><p>消防總隊目<br />
 張偉波之下屬</p></td>
@@ -344,7 +344,7 @@
 張偉波之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/凌子軒.md" title="wikilink">凌子軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌子軒" title="wikilink">凌子軒</a></p></td>
 <td><p>孫世英</p></td>
 <td><p><strong>老鼠</strong><br />
 消防員<br />
@@ -360,7 +360,7 @@
 於第26集調往此局工作</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡烱龍.md" title="wikilink">胡烱龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡烱龍" title="wikilink">胡烱龍</a></p></td>
 <td><p>李威龍</p></td>
 <td><p>消防員<br />
 張偉波之下屬</p></td>
@@ -372,7 +372,7 @@
 張偉波之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/船員.md" title="wikilink">船　員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/船員" title="wikilink">船　員</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -383,7 +383,7 @@
 張偉波之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td></td>
 <td><p>消防員<br />
 張偉波之下屬</p></td>
@@ -411,7 +411,7 @@
 <td><p><strong>關安蔭</strong></p></td>
 <td><p><strong>老鬼、蔭叔</strong><br />
 消防總隊目<br />
-參見<strong><a href="../Page/#碧瑤消防局.md" title="wikilink">碧瑤消防局</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#碧瑤消防局" title="wikilink">碧瑤消防局</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/程小龍.md" title="wikilink">程小龍</a></p></td>
@@ -420,7 +420,7 @@
 消防總隊目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃宗澤.md" title="wikilink">黃宗澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
 <td><p>張利喜</p></td>
 <td><p>消防隊目</p></td>
 </tr>
@@ -447,7 +447,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張可頤.md" title="wikilink">張可頤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾茵怡</strong></p></td>
 <td><p><strong>Chris</strong><br />
 救護隊目，後為救護總隊目<br />
@@ -473,7 +473,7 @@
 <td><p>救護員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/甘子正.md" title="wikilink">甘子正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甘子正" title="wikilink">甘子正</a></p></td>
 <td><p>亞　正</p></td>
 <td></td>
 </tr>
@@ -506,22 +506,22 @@
 <tr class="even">
 <td><p>亞　維</p></td>
 <td><p>消防員<br />
-參見<strong><a href="../Page/#火炭消防局.md" title="wikilink">火炭消防局</a></strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#火炭消防局" title="wikilink">火炭消防局</a></strong><br />
 （第26-27集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁輝宗.md" title="wikilink">梁輝宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁輝宗" title="wikilink">梁輝宗</a></p></td>
 <td><p>救護員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁智達.md" title="wikilink">梁智達</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁智達" title="wikilink">梁智達</a></p></td>
 <td><p>（第30集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/嚴文軒.md" title="wikilink">嚴文軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/嚴文軒" title="wikilink">嚴文軒</a></p></td>
 <td><p>（第31集）</p></td>
 <td></td>
 </tr>
@@ -549,7 +549,7 @@
 於第35集為蔡南豐生下3名女兒</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳楚翹.md" title="wikilink">陳楚翹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳楚翹" title="wikilink">陳楚翹</a></p></td>
 <td><p>Amy</p></td>
 <td><p>葉向陽之同事</p></td>
 </tr>
@@ -559,7 +559,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td><p>Cat</p></td>
 <td></td>
 </tr>
@@ -581,7 +581,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煒棋.md" title="wikilink">李煒棋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煒棋" title="wikilink">李煒棋</a></p></td>
 <td><p>雷國彪</p></td>
 <td><p>葉向陽之前未婚夫<br />
 武館教頭兼創辦人<br />
@@ -593,7 +593,7 @@
 <td><p><strong><a href="../Page/文頌嫻.md" title="wikilink">文頌嫻</a></strong></p></td>
 <td><p><strong>葉向陽</strong></p></td>
 <td><p><strong>Sunnie、師母、陽陽、消防隊目（控制）<br />
-參見</strong><a href="../Page/#消防控制中心（Fire_Control_Centre）.md" title="wikilink">消防控制中心</a>'''</p></td>
+參見</strong><a href="https://zh.wikipedia.org/wiki/#消防控制中心（Fire_Control_Centre）" title="wikilink">消防控制中心</a>'''</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a></strong></p></td>
@@ -618,10 +618,10 @@
 <td><p><strong>大泡和</strong><br />
 救護員<br />
 蔡南豐之同門師弟<br />
-參見<strong><a href="../Page/#消防救護隊.md" title="wikilink">消防救護隊</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#消防救護隊" title="wikilink">消防救護隊</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
 <td><p>亞　標</p></td>
 <td><p>蔡南豐之同門師弟</p></td>
 </tr>
@@ -631,7 +631,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>亞　良</p></td>
 <td></td>
 </tr>
@@ -664,7 +664,7 @@ Gary之前女友<br />
 <td><p><strong>Yan</strong><br />
 何寶琳之下屬兼好友<br />
 於第20集加入<br />
-參見<strong><a href="../Page/#唐家.md" title="wikilink">唐家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#唐家" title="wikilink">唐家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/簡慕華.md" title="wikilink">簡慕華</a></p></td>
@@ -677,17 +677,17 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周暘.md" title="wikilink">周　暘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周暘" title="wikilink">周　暘</a></p></td>
 <td><p>Andrew</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李明麗.md" title="wikilink">李明麗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李明麗" title="wikilink">李明麗</a></p></td>
 <td><p>Alice</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭安彤.md" title="wikilink">鄭安彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭安彤" title="wikilink">鄭安彤</a></p></td>
 <td><p>Anne</p></td>
 <td></td>
 </tr>
@@ -717,19 +717,19 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳德文.md" title="wikilink">陳德文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳德文" title="wikilink">陳德文</a></p></td>
 <td><p>James</p></td>
 <td><p>何寶琳之同事</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾曉瑩.md" title="wikilink">鍾曉瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾曉瑩" title="wikilink">鍾曉瑩</a></p></td>
 <td><p>Mandy</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -742,7 +742,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>劉　Sir</p></td>
 <td><p>高級消防區長</p></td>
 <td></td>
@@ -754,7 +754,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張雷.md" title="wikilink">張　雷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a></p></td>
 <td><p>李Sir</p></td>
 <td><p>消防總長（Chief Fire Officer）<br />
 康珊之多年好友<br />
@@ -762,37 +762,37 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/官仲銘.md" title="wikilink">官仲銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/官仲銘" title="wikilink">官仲銘</a></p></td>
 <td><p><a href="../Page/消防員.md" title="wikilink">消防員</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/藥房.md" title="wikilink">藥房職員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藥房" title="wikilink">藥房職員</a></p></td>
 <td></td>
 <td><p>（第21集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周景輝.md" title="wikilink">周景輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周景輝" title="wikilink">周景輝</a></p></td>
 <td><p><a href="../Page/消防員.md" title="wikilink">消防員</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/呂沛霖.md" title="wikilink">呂沛霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂沛霖" title="wikilink">呂沛霖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃子衡.md" title="wikilink">黃子衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子衡" title="wikilink">黃子衡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃俊紳.md" title="wikilink">黃俊紳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊紳" title="wikilink">黃俊紳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -805,7 +805,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/薛立賢.md" title="wikilink">薛立賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薛立賢" title="wikilink">薛立賢</a></p></td>
 <td><p>何家信</p></td>
 <td><p>何太太之子<br />
 紀瑤之鄰居兼好友</p></td>
@@ -818,9 +818,9 @@ Gary之前女友<br />
 <td><p>（第1集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/宋紫盈.md" title="wikilink">宋紫盈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋紫盈" title="wikilink">宋紫盈</a></p></td>
 <td><p>黃主任</p></td>
-<td><p>紀瑤之<a href="../Page/小學.md" title="wikilink">小學</a><a href="../Page/老師.md" title="wikilink">老師</a></p></td>
+<td><p>紀瑤之<a href="https://zh.wikipedia.org/wiki/小學" title="wikilink">小學</a><a href="https://zh.wikipedia.org/wiki/老師" title="wikilink">老師</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -837,13 +837,13 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>May</p></td>
 <td><p>蔡南豐之前女友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p><a href="../Page/消防訓練學校.md" title="wikilink">消防訓練學校導師</a></p></td>
 <td></td>
 <td></td>
@@ -855,14 +855,14 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何仲偉.md" title="wikilink">何仲偉</a></p></td>
-<td><p><a href="../Page/#潛水拯救隊.md" title="wikilink">潛水拯救隊學員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何仲偉" title="wikilink">何仲偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#潛水拯救隊" title="wikilink">潛水拯救隊學員</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅振鵬.md" title="wikilink">羅振鵬</a></p></td>
-<td><p><a href="../Page/#潛水拯救隊.md" title="wikilink">潛水拯救隊學員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅振鵬" title="wikilink">羅振鵬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#潛水拯救隊" title="wikilink">潛水拯救隊學員</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -875,12 +875,12 @@ Gary之前女友<br />
 <tr class="odd">
 <td><p><a href="../Page/凌禮文.md" title="wikilink">凌禮文</a></p></td>
 <td><p>七　叔</p></td>
-<td><p><a href="../Page/茶餐廳.md" title="wikilink">茶餐廳</a><a href="../Page/老闆.md" title="wikilink">老闆</a><br />
+<td><p><a href="../Page/茶餐廳.md" title="wikilink">茶餐廳</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆</a><br />
 紀德田之遠房親戚</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>七　嬸</p></td>
 <td><p>茶餐廳老闆娘<br />
 紀德田之遠房親戚</p></td>
@@ -896,7 +896,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊浚廷.md" title="wikilink">楊浚廷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊浚廷" title="wikilink">楊浚廷</a></p></td>
 <td><p>速遞員</p></td>
 <td></td>
 <td><p>（第9集）</p></td>
@@ -908,49 +908,49 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/麻醉師.md" title="wikilink">麻醉師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麻醉師" title="wikilink">麻醉師</a></p></td>
 <td></td>
 <td><p>（第33集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>亞　寶</p></td>
 <td><p>蔡南豐之同屆消防學員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周凱珊.md" title="wikilink">周凱珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凱珊" title="wikilink">周凱珊</a></p></td>
 <td><p>Cat</p></td>
 <td><p>紀興田之友</p></td>
 <td><p>（第10集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>武師柴</p></td>
 <td><p>蔡南豐之友</p></td>
 <td><p>（第11集）</p></td>
 </tr>
 <tr class="even">
-<td><p>警隊便衣<a href="../Page/探員.md" title="wikilink">探員</a></p></td>
+<td><p>警隊便衣<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></p></td>
 <td></td>
 <td><p>（第22集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/盧永匡.md" title="wikilink">盧永匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧永匡" title="wikilink">盧永匡</a></p></td>
 <td><p>武師忠</p></td>
 <td><p>蔡南豐之友</p></td>
 <td><p>（第11集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾建文.md" title="wikilink">鍾建文</a></p></td>
-<td><p><a href="../Page/汽車.md" title="wikilink">汽車經紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾建文" title="wikilink">鍾建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/汽車" title="wikilink">汽車經紀</a></p></td>
 <td></td>
 <td><p>（第12集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張貝茜.md" title="wikilink">張貝茜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張貝茜" title="wikilink">張貝茜</a></p></td>
 <td><p>全景大廈被困在電梯死者</p></td>
 <td></td>
 <td><p>碧瑤小路二號<br />
@@ -963,7 +963,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄧泰和.md" title="wikilink">鄧泰和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧泰和" title="wikilink">鄧泰和</a></p></td>
 <td><p>持雙程證之賊</p></td>
 <td></td>
 <td><p>打傷紀德田頭部<br />
@@ -984,7 +984,7 @@ Gary之前女友<br />
 <td><p>（第14集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>Gary之同事</p></td>
 <td></td>
 <td><p>（第14集）</p></td>
@@ -993,15 +993,15 @@ Gary之前女友<br />
 <td><p><a href="../Page/鄧浩光.md" title="wikilink">鄧浩光</a></p></td>
 <td><p>亞　峰</p></td>
 <td><p>唐明之<a href="../Page/大學.md" title="wikilink">大學同學兼好友</a><br />
-<a href="../Page/南丫島.md" title="wikilink">南丫島</a><a href="../Page/餐館.md" title="wikilink">餐廳</a><a href="../Page/老闆.md" title="wikilink">老闆</a><br />
+<a href="../Page/南丫島.md" title="wikilink">南丫島</a><a href="https://zh.wikipedia.org/wiki/餐館" title="wikilink">餐廳</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆</a><br />
 前<a href="../Page/消防員.md" title="wikilink">消防員</a></p></td>
 <td><p>（第15-16集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅楚卉.md" title="wikilink">傅楚卉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅楚卉" title="wikilink">傅楚卉</a></p></td>
 <td><p>琪　琪</p></td>
 <td><p>亞峰之妻<br />
-<a href="../Page/南丫島.md" title="wikilink">南丫島</a><a href="../Page/餐館.md" title="wikilink">餐廳</a><a href="../Page/老闆.md" title="wikilink">老闆娘</a></p></td>
+<a href="../Page/南丫島.md" title="wikilink">南丫島</a><a href="https://zh.wikipedia.org/wiki/餐館" title="wikilink">餐廳</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆娘</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1022,37 +1022,37 @@ Gary之前女友<br />
 被唐明誤認為何寶琳</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃可惠.md" title="wikilink">黃可惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃可惠" title="wikilink">黃可惠</a></p></td>
 <td><p>鄭志光之妻</p></td>
 <td></td>
 <td><p>（第18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王冠忠.md" title="wikilink">王冠忠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王冠忠" title="wikilink">王冠忠</a></p></td>
 <td><p>何寶琳之友</p></td>
 <td></td>
 <td><p>（第18集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭玉京.md" title="wikilink">鄭玉京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭玉京" title="wikilink">鄭玉京</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃煒林.md" title="wikilink">黃煒林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃煒林" title="wikilink">黃煒林</a></p></td>
 <td><p>消防隊長</p></td>
 <td><p>15年前關安蔭之上司</p></td>
 <td><p>（第18集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃天鐸.md" title="wikilink">黃天鐸</a></p></td>
-<td><p><a href="../Page/傢俬.md" title="wikilink">傢俬店員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傢俬" title="wikilink">傢俬店員</a></p></td>
 <td></td>
 <td><p>（第19集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅蘭.md" title="wikilink">羅　蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅　蘭</a></p></td>
 <td><p>婆　婆<br />
 公公之妻</p></td>
 <td></td>
@@ -1067,7 +1067,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃振威.md" title="wikilink">黃振威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃振威" title="wikilink">黃振威</a></p></td>
 <td><p>護衛員</p></td>
 <td></td>
 <td></td>
@@ -1082,10 +1082,10 @@ Gary之前女友<br />
 <td><p><a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a></p></td>
 <td><p>亞　達</p></td>
 <td><p><strong>達叔</strong><br />
-<a href="../Page/便利店.md" title="wikilink">便利店員工</a><br />
+<a href="https://zh.wikipedia.org/wiki/便利店" title="wikilink">便利店員工</a><br />
 梁愛芬之父<br />
 約12年前被鍾茵怡打傷<br />
-<a href="../Page/心臟病.md" title="wikilink">心臟病病逝</a>（第31集）</p></td>
+<a href="https://zh.wikipedia.org/wiki/心臟病" title="wikilink">心臟病病逝</a>（第31集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1105,62 +1105,62 @@ Gary之前女友<br />
 <td><p>（第23-24、31集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/-.md" title="wikilink">-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/-" title="wikilink">-</a></p></td>
 <td><p>東　東</p></td>
 <td><p>關安蔭及康珊之長子<br />
 （約15年前已去世）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李永豪.md" title="wikilink">李永豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李永豪" title="wikilink">李永豪</a></p></td>
 <td><p>大頭B</p></td>
 <td><p>東東兒時之好友</p></td>
 <td><p>（第20集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何志祥.md" title="wikilink">何志祥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何志祥" title="wikilink">何志祥</a></p></td>
 <td><p>青頭華</p></td>
 <td><p>梁愛芬之友</p></td>
 <td><p>（第20集出現）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>金毛強</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/譚權輝.md" title="wikilink">譚權輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚權輝" title="wikilink">譚權輝</a></p></td>
 <td><p>白毛昌</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>紀興田之舊同學</p></td>
 <td></td>
 <td><p>（第21集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林佩君.md" title="wikilink">林佩君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林佩君" title="wikilink">林佩君</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顏頌詩.md" title="wikilink">顏頌詩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏頌詩" title="wikilink">顏頌詩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岳峰.md" title="wikilink">岳　峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岳峰" title="wikilink">岳　峰</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>Paul</p></td>
 <td><p><a href="../Page/律師.md" title="wikilink">律師</a><br />
 紀興田之舊同學<br />
@@ -1168,15 +1168,15 @@ Gary之前女友<br />
 <td><p>（第21-23集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江暉.md" title="wikilink">江　暉</a></p></td>
-<td><p><a href="../Page/侍應生.md" title="wikilink">侍應生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江暉" title="wikilink">江　暉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侍應生" title="wikilink">侍應生</a></p></td>
 <td></td>
 <td><p>（第21集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李鴻傑.md" title="wikilink">李鴻傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李鴻傑" title="wikilink">李鴻傑</a></p></td>
 <td><p>林老闆</p></td>
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣華期公司之</a><a href="../Page/老闆.md" title="wikilink">老闆</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣華期公司之</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆</a><br />
 何寶琳公司之客戶</p></td>
 <td><p>（第21集）</p></td>
 </tr>
@@ -1193,8 +1193,8 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳琼.md" title="wikilink">黃鳳-{琼}-</a></p></td>
-<td><p><a href="../Page/孕婦.md" title="wikilink">孕　婦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳-{琼}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孕婦" title="wikilink">孕　婦</a></p></td>
 <td><p>在士美菲路士美邨後樓梯產子</p></td>
 <td><p>（第22、26集）</p></td>
 </tr>
@@ -1211,37 +1211,37 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡啟光.md" title="wikilink">胡啟光</a></p></td>
-<td><p><a href="../Page/保安員.md" title="wikilink">保安員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡啟光" title="wikilink">胡啟光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/保安員" title="wikilink">保安員</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何家俊.md" title="wikilink">何家俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何家俊" title="wikilink">何家俊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/伍慧珊.md" title="wikilink">伍慧珊</a></p></td>
-<td><p>警隊便衣<a href="../Page/探員.md" title="wikilink">探員</a></p></td>
+<td><p>警隊便衣<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳中堅.md" title="wikilink">陳中堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳中堅" title="wikilink">陳中堅</a></p></td>
 <td><p>徐　伯</p></td>
 <td><p>報案其妻失蹤</p></td>
 <td><p>（第24集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉志清.md" title="wikilink">劉志清</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉志清" title="wikilink">劉志清</a></p></td>
 <td><p>Gilbert</p></td>
-<td><p><a href="../Page/直銷.md" title="wikilink">傳銷員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/直銷" title="wikilink">傳銷員</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/-.md" title="wikilink">-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/-" title="wikilink">-</a></p></td>
 <td><p>辦理離婚<a href="../Page/律師.md" title="wikilink">律師</a></p></td>
 <td></td>
 <td></td>
@@ -1254,12 +1254,12 @@ Gary之前女友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張雪芹.md" title="wikilink">張雪芹</a></p></td>
-<td><p><a href="../Page/伴娘.md" title="wikilink">伴　娘</a></p></td>
-<td><p>唐明及江逸雅的<a href="../Page/伴娘.md" title="wikilink">伴娘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伴娘" title="wikilink">伴　娘</a></p></td>
+<td><p>唐明及江逸雅的<a href="https://zh.wikipedia.org/wiki/伴娘" title="wikilink">伴娘</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/影院.md" title="wikilink">影院售票員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影院" title="wikilink">影院售票員</a></p></td>
 <td></td>
 <td><p>（第31集）</p></td>
 <td></td>
@@ -1271,7 +1271,7 @@ Gary之前女友<br />
 <td><p>（第26集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳文靜.md" title="wikilink">陳文靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳文靜" title="wikilink">陳文靜</a></p></td>
 <td><p>達通貿易女職員</p></td>
 <td></td>
 <td><p>（第26集）</p></td>
@@ -1283,37 +1283,37 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/-.md" title="wikilink">-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/-" title="wikilink">-</a></p></td>
 <td><p>打遊戲機之青年</p></td>
 <td></td>
 <td><p>（第26集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳亦謙.md" title="wikilink">吳亦謙</a></p></td>
-<td><p><a href="../Page/醫生.md" title="wikilink">醫　生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳亦謙" title="wikilink">吳亦謙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/醫生" title="wikilink">醫　生</a></p></td>
 <td></td>
 <td><p>（第26集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄺佐輝.md" title="wikilink">鄺佐輝</a></p></td>
 <td><p>陳醫生</p></td>
-<td><p>唐明之主診<a href="../Page/醫生.md" title="wikilink">醫生</a></p></td>
+<td><p>唐明之主診<a href="https://zh.wikipedia.org/wiki/醫生" title="wikilink">醫生</a></p></td>
 <td><p>（第32-33集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓兒.md" title="wikilink">卓　兒</a></p></td>
-<td><p><a href="../Page/護士.md" title="wikilink">護　士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓兒" title="wikilink">卓　兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/護士" title="wikilink">護　士</a></p></td>
 <td></td>
 <td><p>（第1、27集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td></td>
 <td><p>（第32-33集）</p></td>
 <td></td>
@@ -1326,7 +1326,7 @@ Gary之前女友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/何綺雲.md" title="wikilink">何綺雲</a></p></td>
-<td><p><a href="../Page/新聞報導員.md" title="wikilink">新聞報導員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新聞報導員" title="wikilink">新聞報導員</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1337,8 +1337,8 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王少萍.md" title="wikilink">王少萍</a></p></td>
-<td><p><a href="../Page/電視台.md" title="wikilink">電視台</a><a href="../Page/記者.md" title="wikilink">記者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王少萍" title="wikilink">王少萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電視台" title="wikilink">電視台</a><a href="../Page/記者.md" title="wikilink">記者</a></p></td>
 <td></td>
 <td><p>（第31集）</p></td>
 </tr>
@@ -1350,12 +1350,12 @@ Gary之前女友<br />
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李思蓓.md" title="wikilink">李思蓓</a></p></td>
-<td><p><a href="../Page/唱片騎師.md" title="wikilink">唱片騎師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唱片騎師" title="wikilink">唱片騎師</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧汝超.md" title="wikilink">鄧汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧汝超" title="wikilink">鄧汝超</a></p></td>
 <td><p>陳先生</p></td>
 <td><p>家居火鍋氣體包裝工場之戶主</p></td>
 <td><p>（第35集）</p></td>
@@ -1367,8 +1367,8 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/-.md" title="wikilink">-</a></p></td>
-<td><p><a href="../Page/談判專家.md" title="wikilink">談判專家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/-" title="wikilink">-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/談判專家" title="wikilink">談判專家</a></p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
@@ -1383,8 +1383,8 @@ Gary之前女友<br />
 
 ## 小趣事
 
-本劇中奇怪地亦同上集《[烈火雄心](../Page/烈火雄心.md "wikilink")》一樣近半
-角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](../Page/唐明苑.md "wikilink")、
+本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半
+角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、
 鍾茵怡－
 [茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨等等](../Page/南豐新邨.md "wikilink")。
 

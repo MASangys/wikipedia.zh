@@ -1,4 +1,4 @@
-**Snort**是一套[開放原始碼的](../Page/開放原始碼.md "wikilink")[網路入侵預防軟體與](../Page/入侵預防系統.md "wikilink")[網路入侵檢測軟體](../Page/入侵檢測系統.md "wikilink")。Snort使用了以偵測簽章（signature-based）與[通訊協定的偵測方法](../Page/通訊協定.md "wikilink")。截至目前為止，Snort的被下載次數已達到數百萬次。
+**Snort**是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[網路入侵預防軟體與](https://zh.wikipedia.org/wiki/入侵預防系統 "wikilink")[網路入侵檢測軟體](https://zh.wikipedia.org/wiki/入侵檢測系統 "wikilink")。Snort使用了以偵測簽章（signature-based）與[通訊協定的偵測方法](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。截至目前為止，Snort的被下載次數已達到數百萬次。
 Snort被認為是全世界最廣泛使用的入侵預防與偵測軟體。
 
 1998年，Martin Roesch撰寫了一個名為Snort的軟體，被其定位成簡單輕巧的入侵偵測軟體。
@@ -10,7 +10,7 @@ language）和偵測功能的進步之下，Snort已成為最富彈性與精確�
 Snort並非複雜難以操作的軟體。Snort可以三個模式進行運作：
 
   - 偵測模式（Sniffer Mode）：此模式下，Snort將在現有的網域內擷取封包，並顯示在螢幕上。
-  - [封包紀錄模式](../Page/封包.md "wikilink")（packet logger
+  - [封包紀錄模式](https://zh.wikipedia.org/wiki/封包 "wikilink")（packet logger
     mode）：此模式下，Snort將已擷取的封包存入儲存媒體中（如硬碟）。
   - 上線模式（inline mode）：此模式下，Snort可對擷取到的封包做分析的動作，並根據一定的規則來判斷是否有網路攻擊行為的出現。
 

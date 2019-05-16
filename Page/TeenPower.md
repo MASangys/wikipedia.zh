@@ -1,5 +1,5 @@
 **Teen
-Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "wikilink")[網上電台](../Page/網上電台.md "wikilink")，於2004年2月28日正式啟播。TP的節目工作人員，無論是策劃、製作還是主持節目，都是年青人，因此節目內容非常切合青年。製作的節目著重互動，部份節目設有Facebook。
+Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "wikilink")[網上電台](https://zh.wikipedia.org/wiki/網上電台 "wikilink")，於2004年2月28日正式啟播。TP的節目工作人員，無論是策劃、製作還是主持節目，都是年青人，因此節目內容非常切合青年。製作的節目著重互動，部份節目設有Facebook。
 
 2013年4月，[香港電台第二台與TeenPower同時進行節目革新](../Page/香港電台第二台.md "wikilink")，重組節目時段。TP更不時主辦或協辦不同類型公眾活動，與網友接觸。
 
@@ -30,7 +30,7 @@ Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "w
 <tbody>
 <tr class="odd">
 <td><p>廢青自修室</p></td>
-<td><p><a href="../Page/黎曉陽.md" title="wikilink">黎曉陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎曉陽" title="wikilink">黎曉陽</a></p></td>
 <td><p>2016-06-13</p></td>
 <td><p>星期一</p></td>
 <td><p>訪問、生活分享節目 [1]</p></td>
@@ -54,7 +54,7 @@ Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "w
 <td><p><a href="../Page/尹子龍.md" title="wikilink">紫龍</a> @ TeenPower、JUBO成員</p></td>
 <td><p>2011-02-19</p></td>
 <td><p>星期三</p></td>
-<td><p>TeenPower與<a href="../Page/大專聯校廣播協會.md" title="wikilink">大專聯校廣播協會</a>（JUBO）合作；分享大學一點一滴[4]</p></td>
+<td><p>TeenPower與<a href="https://zh.wikipedia.org/wiki/大專聯校廣播協會" title="wikilink">大專聯校廣播協會</a>（JUBO）合作；分享大學一點一滴[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Do Re Mischa</p></td>
@@ -79,28 +79,28 @@ Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "w
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Gimme_5.md" title="wikilink">Gimme 5</a></p></td>
-<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a>、<a href="../Page/波盛.md" title="wikilink">波盛</a></p></td>
+<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a>、<a href="https://zh.wikipedia.org/wiki/波盛" title="wikilink">波盛</a></p></td>
 <td><p>2016-06-13<br />
 （加入聯播）</p></td>
 <td><p>星期一至五</p></td>
 <td><p>午間節目[8]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尋常事_認真做.md" title="wikilink">尋常事 認真做</a></p></td>
-<td><p><a href="../Page/馮迪燊.md" title="wikilink">馮迪燊</a>、詩棓</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尋常事_認真做" title="wikilink">尋常事 認真做</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">馮迪燊</a>、詩棓</p></td>
 <td><p>2008-05-31</p></td>
 <td><p>星期六</p></td>
-<td><p>落區體驗環節《職職復職職》、崔潔彤(Kity) 主理環節《少女的心魔》、<a href="../Page/聯合國兒童基金會.md" title="wikilink">UNICEF</a> Voices of Youth環節[9]</p></td>
+<td><p>落區體驗環節《職職復職職》、崔潔彤(Kity) 主理環節《少女的心魔》、<a href="https://zh.wikipedia.org/wiki/聯合國兒童基金會" title="wikilink">UNICEF</a> Voices of Youth環節[9]</p></td>
 </tr>
 <tr class="even">
 <td><p>我是你的後援會</p></td>
-<td><p>阿一、<a href="../Page/波盛.md" title="wikilink">波盛</a></p></td>
+<td><p>阿一、<a href="https://zh.wikipedia.org/wiki/波盛" title="wikilink">波盛</a></p></td>
 <td><p>2016-06-18</p></td>
 <td><p>星期六</p></td>
 <td><p>（前身為「男生圍」）[10]於2017年4月15日起，亦會於星期六17:00-17:30香港電台第二台-尋常事 認真做節目時段內播出</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/這裡找共鳴.md" title="wikilink">這裡找共鳴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/這裡找共鳴" title="wikilink">這裡找共鳴</a></p></td>
 <td><p><a href="../Page/林蕙.md" title="wikilink">林蕙</a></p></td>
 <td><p>2016-06-18<br />
 （加入聯播）</p></td>
@@ -117,7 +117,7 @@ Power**，簡稱TP，是[香港電台屬下之青年](../Page/香港電台.md "w
 <tr class="odd">
 <td><p><a href="../Page/自己人.md" title="wikilink">自己人</a></p></td>
 <td><p><a href="../Page/梁兆輝.md" title="wikilink">梁兆輝</a><br />
-嘉賓主持：Jean（柏）、<a href="../Page/李丹拿.md" title="wikilink">Tanner</a>、Uncle Magie、CoCo、Sam</p></td>
+嘉賓主持：Jean（柏）、<a href="https://zh.wikipedia.org/wiki/李丹拿" title="wikilink">Tanner</a>、Uncle Magie、CoCo、Sam</p></td>
 <td><p>2006-05-06</p></td>
 <td><p>星期六</p></td>
 <td><p>節目涉及不同性傾向內容與多元性文化<br />
@@ -132,16 +132,16 @@ CoCo Mail（解決聽眾電郵至 wearefamily@rthk.org.hk 的感情問題）[13]
 <td><p>每週集體回憶一本動漫，並有「本地漫遊」專訪本地動漫畫家[15]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Teen空海闊.md" title="wikilink">Teen空海闊</a></p></td>
-<td><p><a href="../Page/白原顥.md" title="wikilink">白原顥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Teen空海闊" title="wikilink">Teen空海闊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白原顥" title="wikilink">白原顥</a></p></td>
 <td><p>2016-06-19<br />
 （加入聯播）</p></td>
 <td><p>星期日</p></td>
 <td><p>香港唯一全日語音樂放送節目[16]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大韓璇風.md" title="wikilink">大韓璇風</a></p></td>
-<td><p><a href="../Page/秋璇.md" title="wikilink">秋璇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大韓璇風" title="wikilink">大韓璇風</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋璇" title="wikilink">秋璇</a></p></td>
 <td><p>2016-06-19<br />
 （加入聯播）</p></td>
 <td><p>星期日</p></td>
@@ -191,7 +191,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>Music Drive（視像）</p></td>
 <td><ul>
 <li>Can Drive－<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#</li>
-<li>Man Drive－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
+<li>Man Drive－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
 <li>Eng Drive－CY#、Leo#、Annie#、Alan#</li>
 </ul></td>
 </tr>
@@ -200,16 +200,16 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>Alan#、琴雪# 、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、絲嵐#、惡夢仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尋常事_認真做.md" title="wikilink">尋常事 認真做</a></p></td>
-<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="../Page/吳學斌.md" title="wikilink">司勳</a>、<a href="../Page/崔潔彤.md" title="wikilink">崔潔彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尋常事_認真做" title="wikilink">尋常事 認真做</a></p></td>
+<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">司勳</a>、<a href="https://zh.wikipedia.org/wiki/崔潔彤" title="wikilink">崔潔彤</a></p></td>
 </tr>
 <tr class="even">
 <td><p>大學站</p></td>
-<td><p><a href="../Page/陳頴洪.md" title="wikilink">Bear</a> @ Teen Power、JUBO成員</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a> @ Teen Power、JUBO成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>校園本壘</p></td>
-<td><p><a href="../Page/陳頴洪.md" title="wikilink">Bear</a>、文儀、Brian Chu</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、文儀、Brian Chu</p></td>
 </tr>
 </tbody>
 </table>
@@ -230,7 +230,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <tbody>
 <tr class="odd">
 <td><p>時事3D</p></td>
-<td><p>梁浩賢#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="../Page/司徒瑞祈.md" title="wikilink">司徒瑞祈</a>（阿水）#、嘉嘉#、Andy#、太郎#、BoBo#、Vanessa#、<a href="../Page/梁德輝.md" title="wikilink">Eric</a>、Kevin#、Liona#、太郎#、<a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、勁榮#、Tetsu#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、小頤#、Robert#、Park#</p></td>
+<td><p>梁浩賢#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="../Page/司徒瑞祈.md" title="wikilink">司徒瑞祈</a>（阿水）#、嘉嘉#、Andy#、太郎#、BoBo#、Vanessa#、<a href="../Page/梁德輝.md" title="wikilink">Eric</a>、Kevin#、Liona#、太郎#、<a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、勁榮#、Tetsu#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、小頤#、Robert#、Park#</p></td>
 <td><p>2004-03-01</p></td>
 <td><p>2005-04-01</p></td>
 <td><p>星期一至四2300-0100 星期五2400-0100</p></td>
@@ -255,7 +255,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>盛莊天下</p></td>
-<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/容羡媛.md" title="wikilink">Fion</a># 、<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#、<a href="../Page/陳巧文.md" title="wikilink">Christina</a>#</p></td>
+<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a># 、<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#、<a href="../Page/陳巧文.md" title="wikilink">Christina</a>#</p></td>
 <td><p>2004-06-11</p></td>
 <td><p>2006-12-29</p></td>
 <td><p>星期五2300-2400</p></td>
@@ -266,27 +266,27 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><ul>
 <li>第1屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#</li>
-<li>Web J生還者－<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>（個人及組合勝出）、Mathew（組合勝出）、Babie、老闆、Ruby、Ben</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#</li>
+<li>Web J生還者－<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>（個人及組合勝出）、Mathew（組合勝出）、Babie、老闆、Ruby、Ben</li>
 </ul></li>
 <li>第2屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#</li>
 <li>Web J生還者－<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>（組合勝出）、Jerry（個人及組合勝出）、Nicky、Ka仔、何笑、傲楠</li>
 </ul></li>
 <li>第3屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、Mathew#</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、Mathew#</li>
 <li>Web J生還者－柏（個人勝出）、Elyze、Anson、Oscar、奇霙（組合勝出）、彤彤（個人及組合勝出）</li>
 </ul></li>
 <li>第4屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、Ruby#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a></li>
-<li>Web J生還者－Grip、Sara、<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>、Joyce、彭 彭（組合勝出）、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>（個人及組合勝出）</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、Ruby#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a></li>
+<li>Web J生還者－Grip、Sara、<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>、Joyce、彭 彭（組合勝出）、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>（個人及組合勝出）</li>
 </ul></li>
 <li>第5屆
 <ul>
-<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>、柏、彤彤#</li>
+<li>主持－<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>、柏、彤彤#</li>
 <li>Web J生還者－胡迪、Gloria、Genki（個人及組合勝出）、木蘭（組合勝出）、Wil、希文</li>
 </ul></li>
 </ul></td>
@@ -300,23 +300,23 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <tr class="even">
 <td><p>大堆頭</p></td>
 <td><ul>
-<li>一癲二喪3.com－CY#、<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
+<li>一癲二喪3.com－CY#、<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
 <li>異世組－<a href="../Page/梁德輝.md" title="wikilink">Eric</a>、Park#、Tetsu#&lt;</li>
 <li>野史寶鑑－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、嘉嘉#、Key#</li>
 <li>大諗頭－<a href="../Page/黎國輝.md" title="wikilink">阿感</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、 勁榮#</li>
 <li>嘩眾取寵－小頤#、占屎#、Ringo#、占屎#</li>
-<li>Party 蘇豪－<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、占屎#、<a href="../Page/謝安琪.md" title="wikilink">Kay</a>#、Chris#、Kenny#</li>
-<li>乜週刊－<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#、Ringo#、<a href="../Page/梁雨恩.md" title="wikilink">Cathy</a>#、<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#</li>
+<li>Party 蘇豪－<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、占屎#、<a href="../Page/謝安琪.md" title="wikilink">Kay</a>#、Chris#、Kenny#</li>
+<li>乜週刊－<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#、Ringo#、<a href="../Page/梁雨恩.md" title="wikilink">Cathy</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#</li>
 <li>E依凹Love清保涼－<a href="../Page/黎國輝.md" title="wikilink">阿感</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="../Page/王浩信.md" title="wikilink">王浩信</a>#</li>
-<li>私家搞作－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、嘉嘉#、<a href="../Page/蔡汶家.md" title="wikilink">Ahy</a>#、<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>、阿比#、Key#</li>
-<li>三角公廁－占屎#、Chris#、<a href="../Page/鄧鈺鈴.md" title="wikilink">旦</a>#</li>
+<li>私家搞作－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、嘉嘉#、<a href="https://zh.wikipedia.org/wiki/蔡汶家" title="wikilink">Ahy</a>#、<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>、阿比#、Key#</li>
+<li>三角公廁－占屎#、Chris#、<a href="https://zh.wikipedia.org/wiki/鄧鈺鈴" title="wikilink">旦</a>#</li>
 <li>少林寺－華#、David#</li>
-<li>Ladies Night－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#、<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#、<a href="../Page/方皓玟.md" title="wikilink">方皓玟</a>#、<a href="../Page/應昌佑.md" title="wikilink">應昌佑</a>#</li>
+<li>Ladies Night－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#、<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#、<a href="../Page/方皓玟.md" title="wikilink">方皓玟</a>#、<a href="../Page/應昌佑.md" title="wikilink">應昌佑</a>#</li>
 <li>衣櫃裡的男女－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="../Page/陳巧文.md" title="wikilink">Christina</a>#、Chris#</li>
-<li>Live 洛架－David#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、Leo#、<a href="../Page/鍾健威.md" title="wikilink">鍾健威</a>#、Sara#</li>
+<li>Live 洛架－David#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、Leo#、<a href="https://zh.wikipedia.org/wiki/鍾健威" title="wikilink">鍾健威</a>#、Sara#</li>
 <li>十月敗家哎呀呀－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、Annie#</li>
 <li>崎峻 露比 奇脆無比－<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、Ruby#、Anson#</li>
-<li>MAMY話－Mathew#、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、柏</li>
+<li>MAMY話－Mathew#、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、柏</li>
 </ul></td>
 <td><p>2005-04-04</p></td>
 <td><p>2009-01-22</p></td>
@@ -329,46 +329,46 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>組合：</p>
 <ul>
 <li>廿載情－<a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/區文詩.md" title="wikilink">Angela</a>#</li>
-<li>公仔超B潮流雜誌－<a href="../Page/黃詠妮.md" title="wikilink">公仔</a>#、黑超B</li>
-<li>Phone人院－<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、<a href="../Page/司徒瑞祈.md" title="wikilink">司徒瑞祈</a>（阿水）#</li>
+<li>公仔超B潮流雜誌－<a href="https://zh.wikipedia.org/wiki/黃詠妮" title="wikilink">公仔</a>#、黑超B</li>
+<li>Phone人院－<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="../Page/司徒瑞祈.md" title="wikilink">司徒瑞祈</a>（阿水）#</li>
 <li>Live Style－梁浩賢#、<a href="../Page/區文詩.md" title="wikilink">Angela</a>#</li>
-<li>未分男女－<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>#</li>
-<li>全Teen 候資點－Kevin#、<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#</li>
+<li>未分男女－<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>#</li>
+<li>全Teen 候資點－Kevin#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#</li>
 <li>男女三字經－Liona# 、<a href="../Page/梁德輝.md" title="wikilink">Eric</a></li>
-<li>森巴樂園－Key#、<a href="../Page/陳詩穗.md" title="wikilink">Nikita</a>#</li>
-<li>Heat U Up－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#</li>
-<li>1920－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、彤彤#</li>
-<li>大頭阿倫部－<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、Alan#</li>
+<li>森巴樂園－Key#、<a href="https://zh.wikipedia.org/wiki/陳詩穗" title="wikilink">Nikita</a>#</li>
+<li>Heat U Up－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#</li>
+<li>1920－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、彤彤#</li>
+<li>大頭阿倫部－<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、Alan#</li>
 <li>子闆人偶－老闆#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a></li>
 <li>奇蘭雜症－Genki#、木蘭#</li>
-<li>Jan同Mond Empty Space－Haymond#、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#</li>
-<li>黃金嬲－Genki#、木蘭#、<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#</li>
+<li>Jan同Mond Empty Space－Haymond#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#</li>
+<li>黃金嬲－Genki#、木蘭#、<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</li>
 <li>其他（無主題）
 <ul>
-<li><a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>#</li>
 <li><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、Karen#、占屎#</li>
-<li><a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="../Page/黃詠妮.md" title="wikilink">公仔</a>#、<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#</li>
-<li><a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、Pat#、Key#</li>
+<li><a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="https://zh.wikipedia.org/wiki/黃詠妮" title="wikilink">公仔</a>#、<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、Pat#、Key#</li>
 </ul></li>
 </ul>
 <p>個人：</p>
 <ul>
 <li>Bun_the_King－<a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#</li>
-<li>公園仔－<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#</li>
-<li>純粹LoveFi－<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#</li>
-<li>快樂城堡－<a href="../Page/黃詠妮.md" title="wikilink">公仔</a>#</li>
-<li>清新夏日的Z－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#</li>
-<li>何恩欣·一個欣－<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#</li>
+<li>公園仔－<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#</li>
+<li>純粹LoveFi－<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#</li>
+<li>快樂城堡－<a href="https://zh.wikipedia.org/wiki/黃詠妮" title="wikilink">公仔</a>#</li>
+<li>清新夏日的Z－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#</li>
+<li>何恩欣·一個欣－<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#</li>
 <li>老闆辦公室－老闆#</li>
-<li>馮迪燊·燊地盤－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#</li>
-<li>遊情LoveFi－<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#</li>
-<li>Heat U Up－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#</li>
+<li>馮迪燊·燊地盤－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
+<li>遊情LoveFi－<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#</li>
+<li>Heat U Up－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#</li>
 <li>洪黑部屋－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a></li>
 <li>吱吱噚－Jerry#</li>
 <li>其他（無主題）
 <ul>
-<li><a href="../Page/陳詩穗.md" title="wikilink">Nikita</a>#</li>
-<li><a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/陳詩穗" title="wikilink">Nikita</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
 </ul></li>
 </ul></td>
 <td><p>2004-03-01</p></td>
@@ -389,8 +389,8 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <tr class="odd">
 <td><p>喜·怒·哀樂</p></td>
 <td><ul>
-<li>喜樂2100-2200－<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</li>
-<li>怒樂2200-2300－David#、老闆#、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#</li>
+<li>喜樂2100-2200－<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</li>
+<li>怒樂2200-2300－David#、老闆#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
 <li>哀樂2300-2400－Mathew#、Leo#</li>
 </ul></td>
 <td><p>2007-04-14</p></td>
@@ -403,22 +403,22 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>Music All Nite</p></td>
 <td><ul>
 <li>Key's Music Blog－Key#</li>
-<li>Amy's Music Box－<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#</li>
-<li>的神點唱機－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#</li>
+<li>Amy's Music Box－<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#</li>
+<li>的神點唱機－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
 <li>小LuLu歌舞廳－<a href="../Page/何嘉露.md" title="wikilink">Lu</a></li>
 <li>彤彤音樂日記－彤彤#</li>
 <li>柏原樂－柏</li>
 <li>外語城－老闆#</li>
 <li>Let's take a Bite!－<a href="../Page/尹子龍.md" title="wikilink">紫龍</a></li>
 <li>洪崎峻之夜－<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a></li>
-<li>留聲－<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#</li>
+<li>留聲－<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</li>
 <li>台妹精選－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</li>
 <li>用音樂交織生命－Mathew#</li>
 <li>其他（無主題）
 <ul>
-<li><a href="../Page/黃天頤.md" title="wikilink">天頤</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#</li>
 <li>David#</li>
-<li><a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
 <li><a href="../Page/駱振偉.md" title="wikilink">Thor</a>#</li>
 <li><a href="../Page/陳巧文.md" title="wikilink">Christina</a>#</li>
 </ul></li>
@@ -433,7 +433,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>彈出</p></td>
 <td><p>超新丁</p></td>
 <td><p>!</p></td>
-<td><p><a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、Ruby#、Bean#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、Ruby#、Bean#</p></td>
 <td><p>2009-01-26</p></td>
 <td><p>2010-02-08</p></td>
 </tr>
@@ -441,10 +441,10 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td><p>TP Show Up</p></td>
 <td><ul>
 <li>字字豬機 Transformers－<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、Annie#</li>
-<li>Gag on stage－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#</li>
-<li>好囧茶餐廳－<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#</li>
-<li>Live Locker－<a href="../Page/鍾健威.md" title="wikilink">鍾健威</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
-<li>Sing呢logy－<a href="../Page/鍾健威.md" title="wikilink">鍾健威</a>#、<a href="../Page/周吉佩.md" title="wikilink">周吉佩</a>#</li>
+<li>Gag on stage－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
+<li>好囧茶餐廳－<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#</li>
+<li>Live Locker－<a href="https://zh.wikipedia.org/wiki/鍾健威" title="wikilink">鍾健威</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
+<li>Sing呢logy－<a href="https://zh.wikipedia.org/wiki/鍾健威" title="wikilink">鍾健威</a>#、<a href="../Page/周吉佩.md" title="wikilink">周吉佩</a>#</li>
 <li>Who am I?－<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a></li>
 </ul></td>
 <td><p>2009-01-26</p></td>
@@ -455,7 +455,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>足智室</p></td>
-<td><p><a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#、老闆#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#、老闆#</p></td>
 <td><p>2009-01-26</p></td>
 <td><p>2010-02-10</p></td>
 <td><p>星期一<br />
@@ -472,7 +472,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>Yo! Milki</p></td>
-<td><p>Genki#、<a href="../Page/方紹聰.md" title="wikilink">Milkson</a>#、Alvin#</p></td>
+<td><p>Genki#、<a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">Milkson</a>#、Alvin#</p></td>
 <td><p>2009-04-03</p></td>
 <td><p>2010-02-12</p></td>
 <td><p><a href="https://web.archive.org/web/20090412022926/http://teenpower.rthk.org.hk/program/milki/index_new.htm">節目網頁</a></p></td>
@@ -480,7 +480,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>網想直播</p></td>
-<td><p><a href="../Page/梁學曦.md" title="wikilink">Vincent</a>、Candy、<a href="../Page/陳建平_(電台主持).md" title="wikilink">Kenny</a>、<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">Vincent</a>、Candy、<a href="https://zh.wikipedia.org/wiki/陳建平_(電台主持)" title="wikilink">Kenny</a>、<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</p></td>
 <td><p>2010-02-16</p></td>
 <td><p>2010-06-29</p></td>
 <td><p><a href="https://web.archive.org/web/20100417001114/http://teenpower.rthk.org.hk/program/weblive/index_new.htm">節目網頁</a></p></td>
@@ -496,7 +496,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>聲呢學Singlvlogy</p></td>
-<td><p><a href="../Page/鍾健威.md" title="wikilink">鍾健威</a>#、<a href="../Page/周吉佩.md" title="wikilink">周吉佩</a>#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾健威" title="wikilink">鍾健威</a>#、<a href="../Page/周吉佩.md" title="wikilink">周吉佩</a>#</p></td>
 <td><p>2010-02-17</p></td>
 <td><p>2010-05-26</p></td>
 <td><p><a href="https://web.archive.org/web/20100316235320/http://teenpower.rthk.org.hk/program/singlvlogy/index_new.htm">節目網頁</a></p></td>
@@ -504,7 +504,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>斌哥哥教踢波</p></td>
-<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、夏利群#、<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#</p></td>
+<td><p><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、夏利群#、<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</p></td>
 <td><p>2010-02-19</p></td>
 <td><p>2010-07-09</p></td>
 <td><p><a href="https://web.archive.org/web/20100304004902/http://teenpower.rthk.org.hk/program/soccer_class/index_new.htm">節目網頁</a></p></td>
@@ -512,7 +512,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>噏in the air</p></td>
-<td><p>樂、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="../Page/吳學斌.md" title="wikilink">Stephen</a></p></td>
+<td><p>樂、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a></p></td>
 <td><p>2010-06-02</p></td>
 <td><p>2011-01-28</p></td>
 <td><p><a href="https://web.archive.org/web/20100613145420/http://teenpower.rthk.org.hk/program/up_in_the_air/index_new.htm">節目網頁</a></p></td>
@@ -520,7 +520,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>DJ生還者訓練營</p></td>
-<td><p>主持：Ruby#、<a href="../Page/梁學曦.md" title="wikilink">Vincent</a><br />
+<td><p>主持：Ruby#、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">Vincent</a><br />
 <a href="http://teenpower1.rthk.hk/teenspecial/djsurvivor10/profiles/profiles.html">2011 DJ生還者</a></p></td>
 <td><p>2011-04-02</p></td>
 <td><p>2011-05-07</p></td>
@@ -529,7 +529,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>We Make Music</p></td>
-<td><p><a href="../Page/梁學曦.md" title="wikilink">Vincent</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">Vincent</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
 <td><p>2010-02-15</p></td>
 <td><p>2011-11-14</p></td>
 <td><p><a href="https://web.archive.org/web/20100304004925/http://teenpower.rthk.org.hk/program/we_make_music/index_new.htm">節目網頁</a></p></td>
@@ -537,14 +537,14 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>潮聖</p></td>
-<td><p>現場－Annie#、<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、<a href="../Page/趙慧珊.md" title="wikilink">Amy</a>#、<a href="../Page/楊芷瑩.md" title="wikilink">Gabby</a>#、<a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Ruby#、<a href="../Page/簡采恩.md" title="wikilink">Joy</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、Vicky 錄音專題－</p>
+<td><p>現場－Annie#、<a href="../Page/洪崎峻.md" title="wikilink">洪崎峻</a>、<a href="https://zh.wikipedia.org/wiki/趙慧珊" title="wikilink">Amy</a>#、<a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Ruby#、<a href="https://zh.wikipedia.org/wiki/簡采恩" title="wikilink">Joy</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、Vicky 錄音專題－</p>
 <ul>
 <li>台灣一潮堂－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</li>
-<li>娛樂八卦妹－<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#</li>
-<li>美膚站－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#</li>
-<li>潮Hea達人－<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#</li>
-<li>K歌之王－<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</li>
-<li>你今日玩左未－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#</li>
+<li>娛樂八卦妹－<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#</li>
+<li>美膚站－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#</li>
+<li>潮Hea達人－<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#</li>
+<li>K歌之王－<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</li>
+<li>你今日玩左未－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#</li>
 <li>漫畫－Jerry#</li>
 <li>新CD－老闆#</li>
 <li>香港美食－Ruby</li>
@@ -552,8 +552,8 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <li>旅遊－Sara#</li>
 <li>US TV series and Hollywood－Mathew#</li>
 <li>流露真情－彤彤#</li>
-<li>電影－<a href="../Page/謝利.md" title="wikilink">Jerry Lo</a>#</li>
-<li>電玩－<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#</li>
+<li>電影－<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</li>
+<li>電玩－<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#</li>
 <li>日本文化－Alan#</li>
 </ul></td>
 <td><p>2007-04-13</p></td>
@@ -563,7 +563,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>好冏茶餐廳</p></td>
-<td><p><a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#、<a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="../Page/蔣祖曼.md" title="wikilink">Joman</a>#、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
 <td><p>2010-02-15</p></td>
 <td><p>2011-11-14</p></td>
 <td><p><a href="https://web.archive.org/web/20100801225109/http://teenpower.rthk.org.hk/program/restaurant/index_new.htm">節目網頁</a></p></td>
@@ -587,7 +587,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>心理星座有個謎</p></td>
-<td><p><a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Vanessa Chan#、<a href="../Page/羅昊昕.md" title="wikilink">Samantha</a>#、<a href="../Page/梁學曦.md" title="wikilink">Vincent</a>、樂</p></td>
+<td><p><a href="../Page/駱振偉.md" title="wikilink">Karson</a>#、Vanessa Chan#、<a href="https://zh.wikipedia.org/wiki/羅昊昕" title="wikilink">Samantha</a>#、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">Vincent</a>、樂</p></td>
 <td><p>2010-02-17</p></td>
 <td><p>2011-11-16</p></td>
 <td><p><a href="https://web.archive.org/web/20100220051906/http://teenpower.rthk.org.hk/program/psychology/index_new.htm">節目網頁</a></p></td>
@@ -595,7 +595,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>二三靈異</p></td>
-<td><p><a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、Candy</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、Candy</p></td>
 <td><p>2010-06-02</p></td>
 <td><p>2011-11-16</p></td>
 <td><p><a href="https://web.archive.org/web/20100801225104/http://teenpower.rthk.org.hk/program/2302/index_new.htm">節目網頁</a></p></td>
@@ -603,7 +603,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>音樂負電荷</p></td>
-<td><p>Mathew#、<a href="../Page/今明.md" title="wikilink">Ming</a>#</p></td>
+<td><p>Mathew#、<a href="https://zh.wikipedia.org/wiki/今明" title="wikilink">Ming</a>#</p></td>
 <td><p>2010-02-18</p></td>
 <td><p>2011-11-17</p></td>
 <td><p><a href="https://web.archive.org/web/20100303151016/http://teenpower.rthk.org.hk/program/electricmusic/index_new.htm">節目網頁</a></p></td>
@@ -618,8 +618,8 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/388放題.md" title="wikilink">388放題</a></p></td>
-<td><p><a href="../Page/王者匡.md" title="wikilink">Harry</a>#、<a href="../Page/崔潔彤.md" title="wikilink">Kity</a>、嘉倩#、Vicky#、穎勤#、樂然#<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/388放題" title="wikilink">388放題</a></p></td>
+<td><p><a href="../Page/王者匡.md" title="wikilink">Harry</a>#、<a href="https://zh.wikipedia.org/wiki/崔潔彤" title="wikilink">Kity</a>、嘉倩#、Vicky#、穎勤#、樂然#<br />
 嘉賓主持：<a href="../Page/農夫_(組合).md" title="wikilink">農夫</a></p></td>
 <td><p>2011-11-21</p></td>
 <td><p>2012-04-13<br />
@@ -630,7 +630,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>地厚天高</p></td>
-<td><p><a href="../Page/陳頴洪.md" title="wikilink">Bear</a>、<a href="../Page/梁學曦.md" title="wikilink">阿希</a>、<a href="../Page/吳學斌.md" title="wikilink">Stephen</a>、<a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
 <td><p>2012-04-28</p></td>
 <td><p>2012-06-16</p></td>
 <td><p>*<a href="https://web.archive.org/web/20120510173029/http://teenpower.rthk.hk/program/teensky/index_new.htm">TP節目網頁</a><br />
@@ -639,7 +639,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="odd">
 <td><p>Voices of Youth</p></td>
-<td><p><a href="../Page/鄭皓文(主持人).md" title="wikilink">鄭皓文</a>#、VOYs、<a href="../Page/白原顥.md" title="wikilink">白原顥</a>、VOYs</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭皓文(主持人)" title="wikilink">鄭皓文</a>#、VOYs、<a href="https://zh.wikipedia.org/wiki/白原顥" title="wikilink">白原顥</a>、VOYs</p></td>
 <td><p>2011-07-01</p></td>
 <td><p>2012-12-28</p></td>
 <td><p><a href="https://web.archive.org/web/20110926093214/http://teenpower.rthk.hk/program/VOY/index_new.htm">節目網頁</a></p></td>
@@ -647,7 +647,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 </tr>
 <tr class="even">
 <td><p>人文講場</p></td>
-<td><p>TeenPower主持<a href="../Page/陳頴洪.md" title="wikilink">Bear</a>、<a href="../Page/李慧妍.md" title="wikilink">May</a>#、<a href="../Page/劉怡芸.md" title="wikilink">Angie</a>#<br />
+<td><p>TeenPower主持<a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/李慧妍" title="wikilink">May</a>#、<a href="https://zh.wikipedia.org/wiki/劉怡芸" title="wikilink">Angie</a>#<br />
 Verdy @ Roundtable</p></td>
 <td><p>2005-09-02</p></td>
 <td><p>2013-03-26</p></td>
@@ -656,7 +656,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>爵士迷</p></td>
-<td><p><a href="../Page/凌梓維.md" title="wikilink">梓維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a></p></td>
 <td><p>2012-04-19</p></td>
 <td><p>2013-03-28</p></td>
 <td><p><a href="https://web.archive.org/web/20120510172925/http://teenpower.rthk.hk/program/jazz/index_new.htm">節目網頁</a></p></td>
@@ -664,7 +664,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>0923</p></td>
-<td><p><a href="../Page/楊芷瑩.md" title="wikilink">Gabby</a>#、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、<a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="../Page/楊螢映.md" title="wikilink">Anna</a>#、Kylie#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/楊螢映" title="wikilink">Anna</a>#、Kylie#</p></td>
 <td><p>2010-02-16</p></td>
 <td><p>2013-03-26</p></td>
 <td><p><a href="https://web.archive.org/web/20100801224553/http://teenpower.rthk.org.hk/program/0923/index_new.htm">節目網頁</a></p></td>
@@ -672,7 +672,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>孭咩背囊團</p></td>
-<td><p><a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="../Page/馮廸燊.md" title="wikilink">的神</a>#、Ryan#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="../Page/簡采恩.md" title="wikilink">Joy</a>#、<a href="../Page/吳學斌.md" title="wikilink">Stephen</a>、樂</p></td>
+<td><p><a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#、<a href="https://zh.wikipedia.org/wiki/馮廸燊" title="wikilink">的神</a>#、Ryan#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/簡采恩" title="wikilink">Joy</a>#、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、樂</p></td>
 <td><p>2010-02-18</p></td>
 <td><p>2013-03-27</p></td>
 <td><p><a href="https://web.archive.org/web/20100223021526/http://teenpower.rthk.org.hk/program/travelbag/index_new.htm">節目網頁</a></p></td>
@@ -680,7 +680,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>我愛廣東歌</p></td>
-<td><p><a href="../Page/今明.md" title="wikilink">今明</a>#、<a href="../Page/白原顥.md" title="wikilink">白原顥</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="../Page/梁學曦.md" title="wikilink">阿希</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今明" title="wikilink">今明</a>#、<a href="https://zh.wikipedia.org/wiki/白原顥" title="wikilink">白原顥</a>#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#</p></td>
 <td><p>2011-11-21</p></td>
 <td><p>2013-03-29<br />
 （取消聯播）</p></td>
@@ -698,7 +698,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>80革命</p></td>
-<td><p><a href="../Page/蒙為亮.md" title="wikilink">阿O</a>#、<a href="../Page/陳建平_(電台主持).md" title="wikilink">Kenny</a>、<a href="../Page/潘逸豪.md" title="wikilink">潘仔</a></p></td>
+<td><p><a href="../Page/蒙為亮.md" title="wikilink">阿O</a>#、<a href="https://zh.wikipedia.org/wiki/陳建平_(電台主持)" title="wikilink">Kenny</a>、<a href="https://zh.wikipedia.org/wiki/潘逸豪" title="wikilink">潘仔</a></p></td>
 <td><p>2012-04-16</p></td>
 <td><p>2015-11-04</p></td>
 <td><p>星期三</p></td>
@@ -706,7 +706,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>司時間</p></td>
-<td><p><a href="../Page/吳學斌.md" title="wikilink">司勳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">司勳</a></p></td>
 <td><p>2013-04-04</p></td>
 <td><p>2016-03-31</p></td>
 <td><p>星期四</p></td>
@@ -714,7 +714,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>型英營</p></td>
-<td><p>Alan#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="../Page/梁學曦.md" title="wikilink">阿希</a> @ TeenPower、HKCT英語老師Ada及Shida</p></td>
+<td><p>Alan#、<a href="../Page/尹子龍.md" title="wikilink">紫龍</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a> @ TeenPower、HKCT英語老師Ada及Shida</p></td>
 <td><p>2009-02-14</p></td>
 <td><p>2016-05-21</p></td>
 <td><p>星期六</p></td>
@@ -722,7 +722,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>Teen Musik</p></td>
-<td><p><a href="../Page/梁學曦.md" title="wikilink">阿希</a>、Candy、阿培、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#、Tammy#、Mathew#、<a href="../Page/楊芷瑩.md" title="wikilink">Gabby</a>#、<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#、Annie#、Vincent</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、Candy、阿培、<a href="../Page/林蕙.md" title="wikilink">Barbie</a>#、Tammy#、Mathew#、<a href="https://zh.wikipedia.org/wiki/楊芷瑩" title="wikilink">Gabby</a>#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、Annie#、Vincent</p></td>
 <td><p>2007-04-13</p></td>
 <td><p>2016-05-23</p></td>
 <td><p>星期一</p></td>
@@ -730,7 +730,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>好Teen戲</p></td>
-<td><p><a href="../Page/李丹拿.md" title="wikilink">Tanner</a>、<a href="../Page/林鎮威.md" title="wikilink">Jan</a>#、<a href="../Page/陳頴洪.md" title="wikilink">Bear</a>、<a href="../Page/吳學斌.md" title="wikilink">Stephen</a>、<a href="../Page/陳頴洪.md" title="wikilink">Bear</a>、<a href="../Page/梁學曦.md" title="wikilink">阿希</a>、波盛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李丹拿" title="wikilink">Tanner</a>、<a href="https://zh.wikipedia.org/wiki/林鎮威" title="wikilink">Jan</a>#、<a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、<a href="https://zh.wikipedia.org/wiki/陳頴洪" title="wikilink">Bear</a>、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、波盛</p></td>
 <td><p>2009-01-30</p></td>
 <td><p>2016-05-26</p></td>
 <td><p>星期四</p></td>
@@ -746,7 +746,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>男生圍</p></td>
-<td><p><a href="../Page/凌梓維.md" title="wikilink">梓維</a>、<a href="../Page/吳學斌.md" title="wikilink">Stephen</a>、龍仔#、波盛、Brian Chu</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌梓維" title="wikilink">梓維</a>、<a href="https://zh.wikipedia.org/wiki/吳學斌" title="wikilink">Stephen</a>、龍仔#、波盛、Brian Chu</p></td>
 <td><p>2011-11-26</p></td>
 <td><p>2016-06-04</p></td>
 <td><p>星期六</p></td>
@@ -768,7 +768,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>韓圈</p></td>
-<td><p>Vanessa Chan#、Ray#、Jack#、<a href="../Page/梁學曦.md" title="wikilink">阿希</a>、<a href="../Page/陳秋璇.md" title="wikilink">秋璇</a>、阿培</p></td>
+<td><p>Vanessa Chan#、Ray#、Jack#、<a href="https://zh.wikipedia.org/wiki/梁學曦" title="wikilink">阿希</a>、<a href="https://zh.wikipedia.org/wiki/陳秋璇" title="wikilink">秋璇</a>、阿培</p></td>
 <td><p>2011-02-04</p></td>
 <td><p>2016-06-08</p></td>
 <td><p>星期一</p></td>
@@ -776,7 +776,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>敏感時刻</p></td>
-<td><p><a href="../Page/李敏_(香港).md" title="wikilink">李敏</a>、梓維、司勳<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/李敏_(香港)" title="wikilink">李敏</a>、梓維、司勳<br />
 客席主持：莊安宜、Carman</p></td>
 <td><p>2013-04-01</p></td>
 <td><p>2016-06-10<br />
@@ -820,7 +820,7 @@ Verdy @ Roundtable</p></td>
 <tr class="odd">
 <td><p>Web Js Touch</p></td>
 <td><p>男子組－<a href="../Page/司徒瑞祈.md" title="wikilink">司徒瑞祈</a>（亞水）#、<a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a><br />
-女子組－<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#、<a href="../Page/黃詠妮.md" title="wikilink">公仔</a>#</p></td>
+女子組－<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#、<a href="https://zh.wikipedia.org/wiki/黃詠妮" title="wikilink">公仔</a>#</p></td>
 <td><p>2004-02-29</p></td>
 <td><p>2004-06-13</p></td>
 <td><p><a href="https://web.archive.org/web/20061127181457/http://teenpower.rthk.org.hk/program/webjstouch/">節目網頁</a></p></td>
@@ -834,7 +834,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>戀愛二人前</p></td>
-<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>#、<a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a>#</p></td>
+<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>#、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>#</p></td>
 <td><p>2004-02-29</p></td>
 <td><p>2004-08-29</p></td>
 <td><p><a href="https://web.archive.org/web/20070320055647/http://teenpower.rthk.org.hk/program/love2/">節目網頁</a></p></td>
@@ -851,14 +851,14 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>Teenstage</p></td>
-<td><p><a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#</p></td>
+<td><p><a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#</p></td>
 <td><p>2004-02-28</p></td>
 <td><p>2004-10-30</p></td>
 <td><p><a href="https://web.archive.org/web/20070320055759/http://teenpower.rthk.org.hk/program/teenstage/">節目網頁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>千嬌百媚</p></td>
-<td><p><a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a>#、<a href="../Page/官恩娜.md" title="wikilink">官恩娜</a>#</p></td>
+<td><p><a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>#、<a href="../Page/官恩娜.md" title="wikilink">官恩娜</a>#</p></td>
 <td><p>第1季－2004-09-04<br />
 第2季－2005-04-10</p></td>
 <td><p>第1季－2004-12-25<br />
@@ -868,7 +868,7 @@ Verdy @ Roundtable</p></td>
 <tr class="odd">
 <td><p>文字影院</p></td>
 <td><p>第1輯－<a href="../Page/王貽興.md" title="wikilink">王貽興</a>#、<a href="../Page/深雪.md" title="wikilink">深雪</a>#<br />
-第2輯－<a href="../Page/林奕華.md" title="wikilink">林奕華</a># 、<a href="../Page/深雪.md" title="wikilink">深雪</a>#，客席主持：<a href="../Page/羅展鳳.md" title="wikilink">羅展鳳</a>#、<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#</p></td>
+第2輯－<a href="https://zh.wikipedia.org/wiki/林奕華" title="wikilink">林奕華</a># 、<a href="../Page/深雪.md" title="wikilink">深雪</a>#，客席主持：<a href="https://zh.wikipedia.org/wiki/羅展鳳" title="wikilink">羅展鳳</a>#、<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#</p></td>
 <td><p>第1輯－2004-09-05<br />
 第2輯－2005-04-10</p></td>
 <td><p>第1輯－2004-12-26<br />
@@ -884,14 +884,14 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="odd">
 <td><p>悠然自得</p></td>
-<td><p><a href="../Page/紀曉華.md" title="wikilink">紀曉華</a>#、<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紀曉華" title="wikilink">紀曉華</a>#、<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#</p></td>
 <td><p>2005-01-01</p></td>
 <td><p>2005-02-26</p></td>
 <td><p><a href="https://web.archive.org/web/20071014034103/http://teenpower.rthk.org.hk/program/relax/">節目網頁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>性在有心（第2季）</p></td>
-<td><p><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>#、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>#、<a href="../Page/程翠雲.md" title="wikilink">程翠雲</a>#</p></td>
+<td><p><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>#、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>#、<a href="https://zh.wikipedia.org/wiki/程翠雲" title="wikilink">程翠雲</a>#</p></td>
 <td><p>2005-06-18</p></td>
 <td><p>2006-04-29</p></td>
 <td><p><a href="https://web.archive.org/web/20070303102333/http://teenpower.rthk.org.hk/program/sexyline/">節目網頁</a></p></td>
@@ -899,9 +899,9 @@ Verdy @ Roundtable</p></td>
 <tr class="odd">
 <td><p>Image Corner</p></td>
 <td><p>第1季－<a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a>#<br />
-第2季－<a href="../Page/高皓正.md" title="wikilink">高皓正</a>#<br />
-第3季－旁白：<a href="../Page/李丹拿.md" title="wikilink">Tanner</a><br />
-第4季－Teen Power 及 <a href="../Page/小童群益會.md" title="wikilink">小童群益會</a></p></td>
+第2季－<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>#<br />
+第3季－旁白：<a href="https://zh.wikipedia.org/wiki/李丹拿" title="wikilink">Tanner</a><br />
+第4季－Teen Power 及 <a href="https://zh.wikipedia.org/wiki/小童群益會" title="wikilink">小童群益會</a></p></td>
 <td><p>第1季－2004-04-17<br />
 第2季－2004-11-27<br />
 第3季－2005-08-08<br />
@@ -914,15 +914,15 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>Hello Teen Power</p></td>
-<td><p>第一輯－<a href="../Page/何恩欣.md" title="wikilink">Yannes</a>#<br />
-第二輯－<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#<br />
-第三輯－<a href="../Page/馮迪燊.md" title="wikilink">的神</a>#、<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#<br />
-第四輯－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="../Page/鄺芷珊.md" title="wikilink">Sandy</a>#<br />
-第五輯－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#<br />
+<td><p>第一輯－<a href="https://zh.wikipedia.org/wiki/何恩欣" title="wikilink">Yannes</a>#<br />
+第二輯－<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#<br />
+第三輯－<a href="https://zh.wikipedia.org/wiki/馮迪燊" title="wikilink">的神</a>#、<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#<br />
+第四輯－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="https://zh.wikipedia.org/wiki/鄺芷珊" title="wikilink">Sandy</a>#<br />
+第五輯－<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#<br />
 第六輯Hello Green Power－<a href="../Page/何嘉露.md" title="wikilink">Lu</a>、<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a><br />
-第七輯World Hello Teen Power－<a href="../Page/黃天頤.md" title="wikilink">天頤</a>#<br />
+第七輯World Hello Teen Power－<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">天頤</a>#<br />
 第八輯－<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#<br />
-第九輯－<a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#</p></td>
+第九輯－<a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#</p></td>
 <td><p>2006-02-21</p></td>
 <td><p>2007-02-28</p></td>
 <td><p><a href="https://web.archive.org/web/20070310155300/http://teenpower.rthk.org.hk/hosting_program/helloteenpower/index_new.htm">節目網頁</a></p></td>
@@ -936,14 +936,14 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>快樂Pet Pet</p></td>
-<td><p><a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="../Page/洪崎峻.md" title="wikilink">黑超B</a></p></td>
 <td><p>2007-04-15</p></td>
 <td><p>2007-07-08</p></td>
 <td><p><a href="https://web.archive.org/web/20070427153330/http://teenpower.rthk.org.hk/program/pet/index_new.htm">節目網頁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Game 就兩份</p></td>
-<td><p><a href="../Page/何嘉露.md" title="wikilink">Lu</a>、David#、<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</p></td>
+<td><p><a href="../Page/何嘉露.md" title="wikilink">Lu</a>、David#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#</p></td>
 <td><p>2007-04-15</p></td>
 <td><p>2007-07-08</p></td>
 <td><p><a href="https://web.archive.org/web/20070427222154/http://teenpower.rthk.org.hk/program/game/index_new.htm">節目網頁</a></p></td>
@@ -953,14 +953,14 @@ Verdy @ Roundtable</p></td>
 周杰倫—<strong>沒有不能說的秘密</strong></p></td>
 <td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂與TP合作之網劇</a><br />
 <br />
-演員：<a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂</a>、<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="../Page/容羡媛.md" title="wikilink">Fion</a>#、<a href="../Page/Zimon_Chow.md" title="wikilink">Zimon Chow</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a><br />
-編劇：<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#, <a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#<br />
+演員：<a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>、<a href="../Page/桂綸鎂.md" title="wikilink">桂綸鎂</a>、<a href="../Page/區文詩.md" title="wikilink">Angela</a>#、<a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、<a href="https://zh.wikipedia.org/wiki/Zimon_Chow" title="wikilink">Zimon Chow</a>#、<a href="../Page/何嘉露.md" title="wikilink">Lu</a><br />
+編劇：<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#, <a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#<br />
 導演：HoSiu<br />
 攝影師：Jimmy @ Studio K<br />
 拍攝：Kwok, On<br />
 燈光：Kelvin Cheng<br />
 收音：Steward<br />
-製作群：<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#, <a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>, <a href="../Page/李興華_(藝人).md" title="wikilink">Kelvin Lee</a>#<br />
+製作群：<a href="../Page/彭詠儀.md" title="wikilink">Morle</a>#, <a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>, <a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#<br />
 監製：<a href="../Page/李慧娜.md" title="wikilink">拿拿淋</a>#</p></td>
 <td><p>2007-07-22</p></td>
 <td><p>2007-08-19</p></td>
@@ -988,15 +988,15 @@ Verdy @ Roundtable</p></td>
 
 ### 曾播放廣播劇
 
-| 年度    | 劇名                                                                              | 演員                                                                                                                                   |
-| ----- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2004年 | 《兩女一男》                                                                          | [吳日言](../Page/吳日言.md "wikilink")、[李逸朗](../Page/李逸朗.md "wikilink")、[Lu](../Page/何嘉露.md "wikilink")、[天頤](../Page/黃天頤.md "wikilink")、浩賢 |
-| 2004年 | 《有冇咁邪》                                                                          | [周國賢](../Page/周國賢.md "wikilink")、[Lu](../Page/何嘉露.md "wikilink")、[天頤](../Page/黃天頤.md "wikilink")、勁榮                                  |
-|       | 《夢在咫尺》                                                                          | [Bliss](../Page/Bliss.md "wikilink")                                                                                                 |
-|       | 《白衫9號》                                                                          | [官恩娜](../Page/官恩娜.md "wikilink")                                                                                                     |
-| 2005年 | 《愛的延續》                                                                          | [麥浚龍](../Page/麥浚龍.md "wikilink")、[吳日言](../Page/吳日言.md "wikilink")、[周國賢](../Page/周國賢.md "wikilink")                                   |
-|       | 《63025147》                                                                      | [傅穎](../Page/傅穎.md "wikilink")                                                                                                       |
-| 2010年 | 《[月月心水](http://teenpower1.rthk.hk/teenspecial/10lovestories/index.html#/home/)》 | Teen Power DJ、DJ生還者                                                                                                                  |
+| 年度    | 劇名                                                                              | 演員                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2004年 | 《兩女一男》                                                                          | [吳日言](../Page/吳日言.md "wikilink")、[李逸朗](https://zh.wikipedia.org/wiki/李逸朗 "wikilink")、[Lu](../Page/何嘉露.md "wikilink")、[天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")、浩賢 |
+| 2004年 | 《有冇咁邪》                                                                          | [周國賢](../Page/周國賢.md "wikilink")、[Lu](../Page/何嘉露.md "wikilink")、[天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")、勁榮                                                     |
+|       | 《夢在咫尺》                                                                          | [Bliss](https://zh.wikipedia.org/wiki/Bliss "wikilink")                                                                                                                    |
+|       | 《白衫9號》                                                                          | [官恩娜](../Page/官恩娜.md "wikilink")                                                                                                                                           |
+| 2005年 | 《愛的延續》                                                                          | [麥浚龍](../Page/麥浚龍.md "wikilink")、[吳日言](../Page/吳日言.md "wikilink")、[周國賢](../Page/周國賢.md "wikilink")                                                                         |
+|       | 《63025147》                                                                      | [傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")                                                                                                                          |
+| 2010年 | 《[月月心水](http://teenpower1.rthk.hk/teenspecial/10lovestories/index.html#/home/)》 | Teen Power DJ、DJ生還者                                                                                                                                                        |
 
 ## 公眾活動
 
@@ -1131,7 +1131,7 @@ Verdy @ Roundtable</p></td>
 </tr>
 <tr class="even">
 <td><p>太陽閱讀Teen 互動大會</p></td>
-<td><p>2007-07-21 <a href="../Page/金庸.md" title="wikilink">金庸</a>（<a href="../Page/查良鏞.md" title="wikilink">查良鏞</a>）<br />
+<td><p>2007-07-21 <a href="../Page/金庸.md" title="wikilink">金庸</a>（<a href="https://zh.wikipedia.org/wiki/查良鏞" title="wikilink">查良鏞</a>）<br />
 2007-07-22 <a href="../Page/衛斯理.md" title="wikilink">衛斯理</a>（<a href="../Page/倪匡.md" title="wikilink">倪匡</a>）</p></td>
 <td><p><a href="https://web.archive.org/web/20070630133823/http://www.teenpower.rthk.org.hk/teenspecial/reading_teen/">網 頁</a></p></td>
 </tr>

@@ -5,7 +5,7 @@ OS和](../Page/Palm_OS.md "wikilink")[BeOS](../Page/BeOS.md "wikilink")。
 ## 歷史
 
 2001年，Palm
-Computing從[Be公司收購](../Page/Be公司.md "wikilink")[BeOS](../Page/BeOS.md "wikilink")。
+Computing從[Be公司收購](https://zh.wikipedia.org/wiki/Be公司 "wikilink")[BeOS](../Page/BeOS.md "wikilink")。
 
 2002年1月，Palm Computing設立一家全資子公司以開發及授權Palm OS\[1\]，取名為PalmSource\[2\]。
 
@@ -13,10 +13,10 @@ Computing從[Be公司收購](../Page/Be公司.md "wikilink")[BeOS](../Page/BeOS.
 Computing分拆成為獨立公司，後者更名為palmOne\[3\]。palmOne與PalmSource設立一家持有Palm商標的控股公司。
 
 2004年1月，PalmSource宣佈傳統Palm OS的後繼者將名為Palm OS
-Cobalt，可是未能取得硬體授權上的支持\[4\]。2004年12月，PalmSource收購提供移動式Linux的軟體公司[移軟科技](../Page/移軟科技.md "wikilink")，結果為PalmSource宣佈將Palm
+Cobalt，可是未能取得硬體授權上的支持\[4\]。2004年12月，PalmSource收購提供移動式Linux的軟體公司[移軟科技](https://zh.wikipedia.org/wiki/移軟科技 "wikilink")，結果為PalmSource宣佈將Palm
 OS擴展到在Linux架構上運行\[5\]。
 
-2005年5月，palmOne購買PalmSource持有的[Palm商標股份](../Page/Palm.md "wikilink")\[6\]，更名為[Palm公司](../Page/Palm公司.md "wikilink")\[7\]，作為協議的一部份palmOne獲得PalmSource持有的數個特定Palm商標權利以及一個四年過渡期的授權。
+2005年5月，palmOne購買PalmSource持有的[Palm商標股份](../Page/Palm.md "wikilink")\[6\]，更名為[Palm公司](https://zh.wikipedia.org/wiki/Palm公司 "wikilink")\[7\]，作為協議的一部份palmOne獲得PalmSource持有的數個特定Palm商標權利以及一個四年過渡期的授權。
 
 2006年10月，專於移動及嵌入式瀏覽器技術的愛可信以3億2400萬美元收購PalmSource\[8\]\[9\]，更名為Access
 Systems\[10\]\[11\]。

@@ -1,11 +1,11 @@
-**Bencode**（發音為Bee-Encode）是[BitTorrent用在傳輸資料結構的編碼方式](../Page/BitTorrent_\(協定\).md "wikilink")。這種編碼方式支援四種資料型態：
+**Bencode**（發音為Bee-Encode）是[BitTorrent用在傳輸資料結構的編碼方式](https://zh.wikipedia.org/wiki/BitTorrent_\(協定\) "wikilink")。這種編碼方式支援四種資料型態：
 
   - [字符串](../Page/字符串.md "wikilink")
-  - [整數](../Page/整數.md "wikilink")
+  - [整數](https://zh.wikipedia.org/wiki/整數 "wikilink")
   - [串列](../Page/串列_\(抽象資料型別\).md "wikilink")
   - [字典表](../Page/关联数组.md "wikilink")
 
-Bencode最常被用在[.torrent檔中](../Page/.torrent.md "wikilink")，檔案裡的[元數據都是Bencode過的](../Page/元數據.md "wikilink")[字典表](../Page/关联数组.md "wikilink")。其也被用在tracker返回响应时使用。
+Bencode最常被用在[.torrent檔中](https://zh.wikipedia.org/wiki/.torrent "wikilink")，檔案裡的[元數據都是Bencode過的](https://zh.wikipedia.org/wiki/元數據 "wikilink")[字典表](../Page/关联数组.md "wikilink")。其也被用在tracker返回响应时使用。
 
 虽然比用纯二进制编码效率低，但由于结构简单而且不受字节存储顺序影响（所有数字以十进制编码）——这对于跨平台性非常重要。而且具有较好的灵活性，即使存在故障的字典键，只要将其忽略并更换新的就能兼容补充。
 

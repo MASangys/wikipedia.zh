@@ -1,10 +1,10 @@
 《**BALDR FORCE EXE
 RESOLUTION**》是由[戲畫的遊戲](../Page/戲畫_\(遊戲品牌\).md "wikilink")《[BALDR
-FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md "wikilink")，由[SATELIGHT製做](../Page/SATELIGHT.md "wikilink")，於2006年到2007年期間共發售四集。
+FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[SATELIGHT製做](../Page/SATELIGHT.md "wikilink")，於2006年到2007年期間共發售四集。
 
 ## 故事簡介
 
-在超高度文明的近未來，[電腦的運算能力已經可以模擬出人類的](../Page/電腦.md "wikilink")[五感](../Page/五感.md "wikilink")，更可以直接進入網絡世界。大廈、食物、感覺等也是由[電腦程式寫成](../Page/電腦程式.md "wikilink")。主角相馬透是[駭客集團](../Page/駭客.md "wikilink")「草原之狼」的成員之一，使用戰鬥用工具「」以駭客的身份生活。在「草原之狼」解散前的最後一次駭客活動中，闖入軍方和恐怖組織之間的戰鬥，透的好友野野村優哉更因而死亡，透就此發誓報仇……
+在超高度文明的近未來，[電腦的運算能力已經可以模擬出人類的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[五感](https://zh.wikipedia.org/wiki/五感 "wikilink")，更可以直接進入網絡世界。大廈、食物、感覺等也是由[電腦程式寫成](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")。主角相馬透是[駭客集團](https://zh.wikipedia.org/wiki/駭客 "wikilink")「草原之狼」的成員之一，使用戰鬥用工具「」以駭客的身份生活。在「草原之狼」解散前的最後一次駭客活動中，闖入軍方和恐怖組織之間的戰鬥，透的好友野野村優哉更因而死亡，透就此發誓報仇……
 
 ## 登場角色
 
@@ -39,7 +39,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
   -
     反晶片主義同盟武裝恐怖組織中實力最大的「飛刀」的領袖，組織中人望甚高。經常強調「認識真相永遠也是痛苦的事」。
   -
-    「飛刀」的支援員，穿著[旗袍](../Page/旗袍.md "wikilink")，十分受組織的人們歡迎，亦精通中國武術，能夠一擊打昏別人。在OVA中被大改設定，和原作遊戲完全不同，幾乎變了另一個人（詳見下述[與原作不同之處](../Page/#與原作不同之處.md "wikilink")）。
+    「飛刀」的支援員，穿著[旗袍](../Page/旗袍.md "wikilink")，十分受組織的人們歡迎，亦精通中國武術，能夠一擊打昏別人。在OVA中被大改設定，和原作遊戲完全不同，幾乎變了另一個人（詳見下述[與原作不同之處](https://zh.wikipedia.org/wiki/#與原作不同之處 "wikilink")）。
   -
     「飛刀」的主要戰鬥人員，以殺戮為樂。為人極度殘忍，自稱擅長折磨人到半死不活的狀態。
 
@@ -70,7 +70,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
 
   - 片頭曲「Face of Fact -Resolution Ver.-」
     作詞：KOTOKO，作曲：C.G Mix，編曲：C.G
-    Mix，歌：[KOTOKO](../Page/KOTOKO.md "wikilink")
+    Mix，歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
   - 片尾曲「Undelete」
     作詞：川田麻美，作曲：中澤伴行，編曲：中澤伴行、井內舞子，歌：[川田真美](../Page/川田真美.md "wikilink")
 
@@ -101,7 +101,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
 松田清</p></td>
 <td><p>山崎ヒデキ<br />
 関口雅浩<br />
-<a href="../Page/神戶洋行.md" title="wikilink">神戶洋行</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/神戶洋行" title="wikilink">神戶洋行</a></p></td>
 <td><p>2006年11月10日</p></td>
 </tr>
 <tr class="even">
@@ -109,7 +109,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
 <td></td>
 <td><p>田中タカユキ<br />
 福岡康孝</p></td>
-<td><p><a href="../Page/小寺勝之.md" title="wikilink">こでらかつゆき</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">こでらかつゆき</a><br />
 田中タカユキ<br />
 赤根和樹</p></td>
 <td><p>三浦和也</p></td>
@@ -119,7 +119,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
 <tr class="odd">
 <td><p>03</p></td>
 <td></td>
-<td><p><a href="../Page/浅川美也.md" title="wikilink">浅川美也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浅川美也" title="wikilink">浅川美也</a></p></td>
 <td><p><a href="../Page/金澤洪充.md" title="wikilink">金澤洪充</a></p></td>
 <td><p>井元一彰</p></td>
 <td><p>2007年2月9日</p></td>
@@ -150,7 +150,7 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
 
 <!-- end list -->
 
-  - [電話卡](../Page/電話卡.md "wikilink")
+  - [電話卡](https://zh.wikipedia.org/wiki/電話卡 "wikilink")
 
 <!-- end list -->
 
@@ -196,7 +196,8 @@ FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](../Page/OVA.md 
   - [戲畫](http://www.web-giga.com/)
   - [ALCHEMIST](https://web.archive.org/web/20160401061216/http://alchemist-net.co.jp/)
 
-[ja:BALDR FORCE\#OVA](../Page/ja:BALDR_FORCE#OVA.md "wikilink")
+[ja:BALDR
+FORCE\#OVA](https://zh.wikipedia.org/wiki/ja:BALDR_FORCE#OVA "wikilink")
 
 [Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
 [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")

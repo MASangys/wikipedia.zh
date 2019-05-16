@@ -1,19 +1,19 @@
-**Nouera**（****）為[光岡汽車所推出的仿古典作品車輛](../Page/光岡汽車.md "wikilink")。車輛設計以[捷豹汽車](../Page/捷豹汽車.md "wikilink")
+**Nouera**（****）為[光岡汽車所推出的仿古典作品車輛](../Page/光岡汽車.md "wikilink")。車輛設計以[捷豹汽車](https://zh.wikipedia.org/wiki/捷豹汽車 "wikilink")
 XK150為藍本。
 
 ## 車輛歷史
 
 ### 車名語源
 
-緬懷過往，從[現代藝術表現出古典設計](../Page/現代藝術.md "wikilink")，去捕捉懷舊時代的新穎設計。因為，新時代以「新時代．新生MITSUOKA」作為打開序幕的表現。New
+緬懷過往，從[現代藝術表現出古典設計](https://zh.wikipedia.org/wiki/現代藝術 "wikilink")，去捕捉懷舊時代的新穎設計。因為，新時代以「新時代．新生MITSUOKA」作為打開序幕的表現。New
 Era【新時代】＝Nouveau（法語：新藝術樣式）＋Era（英語：時代）【時代】的新詞用表示。簡單的說，一邊靠強大的意志和意思，一邊柔軟的容易又美麗響徹的話留下記憶。
 
 ### 歷代車輛
 
 #### Nouera（2004年—至今）
 
-2004年4月，原創車輛「Nouera」（）開始發售。車輛以[Honda](../Page/本田技研.md "wikilink") Accord
-UA型為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古豪華主義\[1\]\[2\]。
+2004年4月，原創車輛「Nouera」（）開始發售。車輛以[Honda](https://zh.wikipedia.org/wiki/本田技研 "wikilink")
+Accord UA型為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰顯復古豪華主義\[1\]\[2\]。
 
 ## 車輛諸元
 
@@ -39,7 +39,7 @@ UA型為基礎，車身前後的車體鈑件曲線部份設計變更，充份彰
 
 ### 原創車廠
 
-1959年，[Jaguar車廠所推出的XK](../Page/捷豹汽車.md "wikilink")150車輛，為原創經典。
+1959年，[Jaguar車廠所推出的XK](https://zh.wikipedia.org/wiki/捷豹汽車 "wikilink")150車輛，為原創經典。
 
   - Jaguar XK150（1957年—1960年）
 

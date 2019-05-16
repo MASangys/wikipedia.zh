@@ -5,7 +5,7 @@
   - 收錄了自出道單曲「[STARS](../Page/STARS_\(中島美嘉單曲\).md "wikilink")」至第5張單曲「[WILL](../Page/WILL_\(中島美嘉單曲\).md "wikilink")」歌曲的首張專輯。
   - 收錄歌曲13首中有10首先前已經發表過，雖為出道專輯，內容卻較似精選集。
   - 銷售長紅，發行8個月後突破百萬銷量。
-  - [ORICON公信榜最高第](../Page/oricon.md "wikilink")1名。銷量約117.4萬張
+  - [ORICON公信榜最高第](https://zh.wikipedia.org/wiki/oricon "wikilink")1名。銷量約117.4萬張
 
 ## 單曲銷量
 

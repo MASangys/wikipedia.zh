@@ -3,15 +3,15 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图")
 [UNI_AIR_ATR_72-600_IN_RCSS.jpg](https://zh.wikipedia.org/wiki/File:UNI_AIR_ATR_72-600_IN_RCSS.jpg "fig:UNI_AIR_ATR_72-600_IN_RCSS.jpg")ATR
 72-600\]\] **ATR
-72**為[法國與](../Page/法國.md "wikilink")[義大利合資的](../Page/義大利.md "wikilink")[飛機製造商](../Page/飛機.md "wikilink")[ATR製造的雙螺旋槳](../Page/ATR.md "wikilink")[民航機](../Page/民航機.md "wikilink")，結構上與42型一樣，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR
+72**為[法國與](https://zh.wikipedia.org/wiki/法國 "wikilink")[義大利合資的](https://zh.wikipedia.org/wiki/義大利 "wikilink")[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR製造的雙螺旋槳](../Page/ATR.md "wikilink")[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與42型一樣，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR
 72型已經出售超過678架。
 [缩略图](https://zh.wikipedia.org/wiki/File:ATRv1.0.png "fig:缩略图")
 
 ## 發展
 
 ATR 72是[ATR
-42的改良型號](../Page/ATR_42.md "wikilink")，機身加長4.5米，改用更大馬力的引擎，增加約10%的燃料。ATR
-72於1988年進行首航\[1\]，1989年投入商業服務，[芬蘭航空是首個接收此型號飛機的航空公司](../Page/芬蘭航空.md "wikilink")。ATR系列的行李儲存架設置在駕駛室與客艙之間，所以前方機門通常是用作裝卸行李，而乘客大多數從尾部機門進入機艙。相比其它飛機，此型號並沒有提供空氣及電力功能的[輔助動力系統](../Page/輔助動力系統.md "wikilink")（APU），而是在右邊的二號發動機上設置螺旋槳煞車裝置，讓2號發動機可以在啟動的狀態下，不讓螺旋槳旋轉，僅擔任電力和空氣的供應。
+42的改良型號](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，機身加長4.5米，改用更大馬力的引擎，增加約10%的燃料。ATR
+72於1988年進行首航\[1\]，1989年投入商業服務，[芬蘭航空是首個接收此型號飛機的航空公司](https://zh.wikipedia.org/wiki/芬蘭航空 "wikilink")。ATR系列的行李儲存架設置在駕駛室與客艙之間，所以前方機門通常是用作裝卸行李，而乘客大多數從尾部機門進入機艙。相比其它飛機，此型號並沒有提供空氣及電力功能的[輔助動力系統](../Page/輔助動力系統.md "wikilink")（APU），而是在右邊的二號發動機上設置螺旋槳煞車裝置，讓2號發動機可以在啟動的狀態下，不讓螺旋槳旋轉，僅擔任電力和空氣的供應。
 
 ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610公里／時，但於1996年終止此計劃。
 
@@ -43,11 +43,11 @@ ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610
 
 ### ATR 72-211/212型
 
-200系列的改進型，採用高空和高溫性能較好的[普惠PW](../Page/普惠.md "wikilink")127螺旋槳引擎。每座PW127引擎可輸出2,750匹馬力（2,050千瓦），在高空與高溫環境下的表現更為優異。此兩種機型皆於1992年12月完成認證。同樣地，200系列兩種機型的分別在於其機門配置。
+200系列的改進型，採用高空和高溫性能較好的[普惠PW](https://zh.wikipedia.org/wiki/普惠 "wikilink")127螺旋槳引擎。每座PW127引擎可輸出2,750匹馬力（2,050千瓦），在高空與高溫環境下的表現更為優異。此兩種機型皆於1992年12月完成認證。同樣地，200系列兩種機型的分別在於其機門配置。
 
 ### ATR 72-212A型
 
-212型的改進型，改採用由全複合材料製造的六槳葉螺旋槳，並選用[普惠PW](../Page/普惠.md "wikilink")127F（ATR
+212型的改進型，改採用由全複合材料製造的六槳葉螺旋槳，並選用[普惠PW](https://zh.wikipedia.org/wiki/普惠 "wikilink")127F（ATR
 72-500型）和PW127M（ATR 72-600型）螺旋槳引擎。除此之外也提升了最大起飛重量，和更加自動化的能源管理，讓駕駛工作更容易。
 
 #### ATR 72-500型
@@ -60,21 +60,21 @@ ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610
 72-500改裝而成的ATR 72-600原型機完成首航。
 
 作為ATR 72-500型的改良型號\[2\]，ATR
-72-600型的提升之處如下：採用PW127M引擎，新增「加速功能」可提升額外5%起飛動力；改良駕駛艙儀器，把傳統的電子儀器改為[液晶顯示器](../Page/液晶顯示器.md "wikilink")\[3\]；多功能電腦系統可提升飛航安全和操縱性能；新採用Thales公司的[航空電子提供了](../Page/航空电子.md "wikilink")[所需導航性能](../Page/所需导航性能.md "wikilink")；輕質座椅；更大的客艙置物空間；也增加了起飛重量。2015年12月，[歐洲航空安全局核准了新的高密度座位配置](../Page/欧洲航空安全局.md "wikilink")，載客量可由74人提高至78人。
+72-600型的提升之處如下：採用PW127M引擎，新增「加速功能」可提升額外5%起飛動力；改良駕駛艙儀器，把傳統的電子儀器改為[液晶顯示器](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")\[3\]；多功能電腦系統可提升飛航安全和操縱性能；新採用Thales公司的[航空電子提供了](../Page/航空电子.md "wikilink")[所需導航性能](https://zh.wikipedia.org/wiki/所需导航性能 "wikilink")；輕質座椅；更大的客艙置物空間；也增加了起飛重量。2015年12月，[歐洲航空安全局核准了新的高密度座位配置](../Page/欧洲航空安全局.md "wikilink")，載客量可由74人提高至78人。
 
 ### 其他版本
 
 #### 貨機版本
 
 包含散貨機（Bulk Freighter）和特大機門型貨機（ULD
-Freighter）。[ATR在](../Page/ATR.md "wikilink")2002年的[法茵堡航空展展出了ATR](../Page/法茵堡航空展.md "wikilink")
+Freighter）。[ATR在](../Page/ATR.md "wikilink")2002年的[法茵堡航空展展出了ATR](https://zh.wikipedia.org/wiki/法茵堡航空展 "wikilink")
 72各機型的特大機門改裝版。[聯邦快遞](../Page/聯邦快遞.md "wikilink")、[DHL和](../Page/DHL.md "wikilink")[優比速等快遞公司皆有使用ATR](../Page/联合包裹服务.md "wikilink")
 72貨機。
 
 #### ATR 72 ASW 
 
 ATR 72的海軍反潛艦機種，整合了軍用版[ATR
-42的海上巡邏系統並增加了](../Page/ATR_42.md "wikilink")[反潛作戰能力](../Page/反潛作戰.md "wikilink")。[義大利海軍訂製了ATR](../Page/意大利海军.md "wikilink")
+42的海上巡邏系統並增加了](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")[反潛作戰能力](../Page/反潛作戰.md "wikilink")。[義大利海軍訂製了ATR](../Page/意大利海军.md "wikilink")
 72-500的ASW版本，以執行[反潛作戰和水面作戰任務](../Page/反潛作戰.md "wikilink")。義大利海軍訂製的四架ATR
 72
 ASW於2012年開始交付。為了執行反潛與水面作戰任務，此機種將配備一挺吊艙式機關槍、輕型空投式魚雷、水面攻擊導彈和深水炸彈。而Thales公司的機載海上定位與控制系統（Airborne
@@ -101,7 +101,7 @@ Change版本可在30分鐘內完成）。
 
   - [藍色巴西航空](../Page/藍色巴西航空.md "wikilink")：49架
 
-  - [Wings Air](../Page/Wings_Air.md "wikilink")：49架
+  - [Wings Air](https://zh.wikipedia.org/wiki/Wings_Air "wikilink")：49架
 
   - [聯邦快遞](../Page/聯邦快遞.md "wikilink")：21架
 
@@ -121,7 +121,7 @@ Change版本可在30分鐘內完成）。
 
   - [北歐航空](../Page/北歐航空.md "wikilink")：14架
 
-  - [馬來西亞之翼航空](../Page/馬來西亞之翼航空.md "wikilink")：14架
+  - [馬來西亞之翼航空](https://zh.wikipedia.org/wiki/馬來西亞之翼航空 "wikilink")：14架
 
   - ：14架
 
@@ -131,21 +131,21 @@ Change版本可在30分鐘內完成）。
 
   - [維珍澳洲航空](../Page/維珍澳洲航空.md "wikilink")：13架
 
-  - [立榮航空](../Page/立榮航空.md "wikilink")：15架
+  - [立榮航空](https://zh.wikipedia.org/wiki/立榮航空 "wikilink")：15架
 
-  - [捷特航空](../Page/捷特航空.md "wikilink")：13架
+  - [捷特航空](https://zh.wikipedia.org/wiki/捷特航空 "wikilink")：13架
 
   - ：12架
 
-  - [HOP\!](../Page/HOP!.md "wikilink")：12架
+  - [HOP\!](https://zh.wikipedia.org/wiki/HOP! "wikilink")：12架
 
-  - [越南國家航空](../Page/越南國家航空.md "wikilink")：12架
+  - [越南國家航空](https://zh.wikipedia.org/wiki/越南國家航空 "wikilink")：12架
 
-  - [加魯達印尼航空](../Page/加鲁达印尼航空.md "wikilink")：11架
+  - [加魯達印尼航空](https://zh.wikipedia.org/wiki/加鲁达印尼航空 "wikilink")：11架
 
   - [馬印航空](../Page/马印航空.md "wikilink")：11架
 
-  - [遠東航空](../Page/遠東航空.md "wikilink")：9架（租用）
+  - [遠東航空](https://zh.wikipedia.org/wiki/遠東航空 "wikilink")：9架（租用）
 
   - [華信航空](../Page/華信航空.md "wikilink") 3架租用 6架自有
 
@@ -158,34 +158,34 @@ Change版本可在30分鐘內完成）。
 
 ## 意外
 
-  - [美國鷹航空4184號班機](../Page/美國鷹航空4184號班機.md "wikilink")
+  - [美國鷹航空4184號班機](https://zh.wikipedia.org/wiki/美國鷹航空4184號班機 "wikilink")
       - 1994年10月31日，美鷹航空國內線在芝加哥墜毀，機上68人全部罹難。
-  - [復興航空510A號班機](../Page/復興航空510A號班機.md "wikilink")
+  - [復興航空510A號班機](https://zh.wikipedia.org/wiki/復興航空510A號班機 "wikilink")
       - 1995年1月30日，[復興航空編號B](../Page/復興航空.md "wikilink")-22717的**ATR
-        72**型客機，執飛GE510A航班，由於當時是農曆除夕，載客從台北飛抵馬公後，空機飛返台北松山機場，結果不幸途中偏離航道，在桃園[龜山區兔子坑撞山墜毀](../Page/龜山區.md "wikilink")。這架飛機空機無乘客，正副駕駛及空中服務人員等4名機組員不幸罹難。
-  - [復興航空791號班機](../Page/復興航空791號班機.md "wikilink")
+        72**型客機，執飛GE510A航班，由於當時是農曆除夕，載客從台北飛抵馬公後，空機飛返台北松山機場，結果不幸途中偏離航道，在桃園[龜山區兔子坑撞山墜毀](https://zh.wikipedia.org/wiki/龜山區 "wikilink")。這架飛機空機無乘客，正副駕駛及空中服務人員等4名機組員不幸罹難。
+  - [復興航空791號班機](https://zh.wikipedia.org/wiki/復興航空791號班機 "wikilink")
       - 2002年12月21日，復興航空编号B-22708的貨機，执飞GE791航班，在臺北時間01:52時，於飛航途中機翼遭嚴重積冰後，在[馬公西南方約](../Page/馬公市.md "wikilink")17公里處墜海失事，機上駕駛員2人皆失蹤。
-  - [突尼西亞國際航空1153號班機](../Page/突尼西亞國際航空1153號班機.md "wikilink")
+  - [突尼西亞國際航空1153號班機](https://zh.wikipedia.org/wiki/突尼西亞國際航空1153號班機 "wikilink")
       - 2005年8月6日，一架飛往意大利的突尼西亞國際航空ATR 72，因耗盡燃油在海面緊急降落時發生意外，39人中有16人死亡。
   - [曼谷航空](../Page/曼谷航空.md "wikilink")
       - 2009年8月4日，泰国[曼谷航空公司一架ATR](../Page/曼谷航空.md "wikilink")
         72-500型客机在苏梅岛机场着陆时滑出跑道并起火，造成至少1人死亡、数十人受伤。
-  - [古巴加勒比航空公司](../Page/加勒比海航空.md "wikilink")
-      - 2010年11月4日，[古巴加勒比航空公司的一架ATR](../Page/加勒比海航空.md "wikilink")
-        72-212民航客机在[古巴中部城市](../Page/古巴.md "wikilink")[圣斯皮里图斯附近坠毁](../Page/圣斯皮里图斯.md "wikilink")，机上68人全部遇难。
-  - [UTair航空公司](../Page/UTair航空.md "wikilink")
-      - 2012年4月2日，俄[UTair航空的一架ATR](../Page/UTair航空.md "wikilink")
+  - [古巴加勒比航空公司](https://zh.wikipedia.org/wiki/加勒比海航空 "wikilink")
+      - 2010年11月4日，[古巴加勒比航空公司的一架ATR](https://zh.wikipedia.org/wiki/加勒比海航空 "wikilink")
+        72-212民航客机在[古巴中部城市](../Page/古巴.md "wikilink")[圣斯皮里图斯附近坠毁](https://zh.wikipedia.org/wiki/圣斯皮里图斯 "wikilink")，机上68人全部遇难。
+  - [UTair航空公司](https://zh.wikipedia.org/wiki/UTair航空 "wikilink")
+      - 2012年4月2日，俄[UTair航空的一架ATR](https://zh.wikipedia.org/wiki/UTair航空 "wikilink")
         72-212民航客机在西伯利亚[秋明州坠毁](../Page/秋明州.md "wikilink")。
   - [寮國航空301號班機空難](../Page/寮國航空301號班機空難.md "wikilink")
       - 2013年10月16日，寮國航空公司的一架ATR 72客机在南部占巴塞省失事，机上人员全部遇难。
-  - [復興航空222號班機事故](../Page/復興航空222號班機事故.md "wikilink")
+  - [復興航空222號班機事故](https://zh.wikipedia.org/wiki/復興航空222號班機事故 "wikilink")
       - 2014年7月23日，復興航空的一架機號為B-22810的ATR
-        72-500在馬公機場大雨及疑似受[麥德姆颱風影響](../Page/麥德姆.md "wikilink")，班機向塔台要求重飛後於[澎湖縣湖西鄉西溪村重飛失敗](../Page/澎湖縣.md "wikilink")，事故造成49死9傷，地面人員5傷。\[4\]\[5\]\[6\]
-  - [復興航空235號班機事故](../Page/復興航空235號班機事故.md "wikilink")
+        72-500在馬公機場大雨及疑似受[麥德姆颱風影響](https://zh.wikipedia.org/wiki/麥德姆 "wikilink")，班機向塔台要求重飛後於[澎湖縣湖西鄉西溪村重飛失敗](../Page/澎湖縣.md "wikilink")，事故造成49死9傷，地面人員5傷。\[4\]\[5\]\[6\]
+  - [復興航空235號班機事故](https://zh.wikipedia.org/wiki/復興航空235號班機事故 "wikilink")
       - 2015年2月4日，[復興航空的一架機號為B](../Page/復興航空.md "wikilink")-22816的ATR
-        72-600於10時45分從[台北松山機場起飛](../Page/台北松山機場.md "wikilink")，目的地為[金門尚義機場](../Page/金門機場.md "wikilink")。因發動機失效，又誤關正常的發動機，於上午10時55分飛機急轉墜下擦撞[環東大道高架橋導致墜入距南陽大橋](../Page/環東大道.md "wikilink")800公尺的內溝溪抽水站附近基隆河流域，機上共58人，事故造成43人死亡、17人受傷（含地面2人）。左側機翼撞擊高架橋之前，還擦到一台正常行駛的[計程車](../Page/計程車.md "wikilink")，計程車車頭損毀。兩台在[環東大道行駛的車輛裡面行車記錄儀記錄了飛機失事墜落的過程](../Page/環東大道.md "wikilink")。\[7\]
-  - [伊朗阿塞曼航空3704號班機空难](../Page/伊朗阿塞曼航空3704號班機空难.md "wikilink")
-      - 2018年2月18日，一架往[伊朗](../Page/伊朗.md "wikilink")[亞蘇季的伊朗阿塞曼航空ATR](../Page/亞蘇季.md "wikilink")
+        72-600於10時45分從[台北松山機場起飛](https://zh.wikipedia.org/wiki/台北松山機場 "wikilink")，目的地為[金門尚義機場](https://zh.wikipedia.org/wiki/金門機場 "wikilink")。因發動機失效，又誤關正常的發動機，於上午10時55分飛機急轉墜下擦撞[環東大道高架橋導致墜入距南陽大橋](../Page/環東大道.md "wikilink")800公尺的內溝溪抽水站附近基隆河流域，機上共58人，事故造成43人死亡、17人受傷（含地面2人）。左側機翼撞擊高架橋之前，還擦到一台正常行駛的[計程車](https://zh.wikipedia.org/wiki/計程車 "wikilink")，計程車車頭損毀。兩台在[環東大道行駛的車輛裡面行車記錄儀記錄了飛機失事墜落的過程](../Page/環東大道.md "wikilink")。\[7\]
+  - [伊朗阿塞曼航空3704號班機空难](https://zh.wikipedia.org/wiki/伊朗阿塞曼航空3704號班機空难 "wikilink")
+      - 2018年2月18日，一架往[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[亞蘇季的伊朗阿塞曼航空ATR](https://zh.wikipedia.org/wiki/亞蘇季 "wikilink")
         72-212客機在伊斯法罕省的塞米羅姆附近墜毀，機上全部人員遇難。\[8\]
 
 ## 規格（ATR 72-600型）

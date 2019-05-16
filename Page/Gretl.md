@@ -1,16 +1,16 @@
 **gretl**（意為*[Gnu](../Page/GNU通用公共许可证.md "wikilink")* *Regression*,
 *Econometrics* and *Time-series*
-*Library*，以此[縮寫作為軟體名](../Page/縮寫.md "wikilink")）是一种可以编纂和解析[计量经济学数据的](../Page/计量经济学.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[软件](../Page/软件.md "wikilink")。它可以和[X-12-ARMA](../Page/X-12-ARMA.md "wikilink")、[TRAMO](../Page/TRAMO.md "wikilink")／[SEATS和](../Page/SEATS.md "wikilink")[R语言一起使用](../Page/R语言.md "wikilink")。gretl用[C语言写成](../Page/C语言.md "wikilink")，使用[gnuplot制图](../Page/gnuplot.md "wikilink")。
+*Library*，以此[縮寫作為軟體名](../Page/縮寫.md "wikilink")）是一种可以编纂和解析[计量经济学数据的](../Page/计量经济学.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[软件](../Page/软件.md "wikilink")。它可以和[X-12-ARMA](https://zh.wikipedia.org/wiki/X-12-ARMA "wikilink")、[TRAMO](https://zh.wikipedia.org/wiki/TRAMO "wikilink")／[SEATS和](https://zh.wikipedia.org/wiki/SEATS "wikilink")[R语言一起使用](../Page/R语言.md "wikilink")。gretl用[C语言写成](https://zh.wikipedia.org/wiki/C语言 "wikilink")，使用[gnuplot制图](https://zh.wikipedia.org/wiki/gnuplot "wikilink")。
 
-gretl自身的文件格式是[XML](../Page/XML.md "wikilink")，但它还可输入[Excel](../Page/Excel.md "wikilink")、[Gnumeric](../Page/Gnumeric.md "wikilink")、[Stata](../Page/Stata.md "wikilink")、[EViews](../Page/EViews.md "wikilink")、[RATS](../Page/RATS.md "wikilink")、[GNU
+gretl自身的文件格式是[XML](../Page/XML.md "wikilink")，但它还可输入[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、[Gnumeric](../Page/Gnumeric.md "wikilink")、[Stata](https://zh.wikipedia.org/wiki/Stata "wikilink")、[EViews](https://zh.wikipedia.org/wiki/EViews "wikilink")、[RATS](https://zh.wikipedia.org/wiki/RATS "wikilink")、[GNU
 Octave](../Page/GNU_Octave.md "wikilink")、[Comma Separated
-Values](../Page/Csv.md "wikilink")、[PcGive](../Page/PcGive.md "wikilink")、[JMulTi](../Page/JMulTi.md "wikilink")、[SPSS和](../Page/SPSS.md "wikilink")[ASCII文件](../Page/ASCII.md "wikilink")，也可以输出到[GNU
+Values](https://zh.wikipedia.org/wiki/Csv "wikilink")、[PcGive](https://zh.wikipedia.org/wiki/PcGive "wikilink")、[JMulTi](https://zh.wikipedia.org/wiki/JMulTi "wikilink")、[SPSS和](../Page/SPSS.md "wikilink")[ASCII文件](../Page/ASCII.md "wikilink")，也可以输出到[GNU
 Octave](../Page/GNU_Octave.md "wikilink")、[GNU
-R](../Page/R语言.md "wikilink")、[JMulTi和](../Page/JMulTi.md "wikilink")[PcGive文件格式](../Page/PcGive.md "wikilink")。
+R](../Page/R语言.md "wikilink")、[JMulTi和](https://zh.wikipedia.org/wiki/JMulTi "wikilink")[PcGive文件格式](https://zh.wikipedia.org/wiki/PcGive "wikilink")。
 
 ## 另见
 
-  - [JMulTi](../Page/JMulTi.md "wikilink")
+  - [JMulTi](https://zh.wikipedia.org/wiki/JMulTi "wikilink")
 
 ## 外部链接
 

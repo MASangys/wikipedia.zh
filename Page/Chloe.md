@@ -1,16 +1,18 @@
 **克蘿伊**（Chloe，中國大陸常譯**科洛**，Chloë, Cloe, Chlöe,
-[Chloé](../Page/Chloé.md "wikilink"), Clowy, Kloe, Khloe, Khloë,
-Khloé, Kloé or Kloë）是女性名字，在英國尤其常見。法語形式為Chloé。
+[Chloé](https://zh.wikipedia.org/wiki/Chloé "wikilink"), Clowy, Kloe,
+Khloe, Khloë, Khloé, Kloé or Kloë）是女性名字，在英國尤其常見。法語形式為Chloé。
 
-Chloe源自[希臘語](../Page/希臘語.md "wikilink")「（*khlóē*）」，為希臘女神[狄蜜特眾多名稱之一](../Page/狄蜜特.md "wikilink")，意思是年輕的、綠葉、植物的幼芽\[1\]。Chloe這個名字出現在《[新約聖經](../Page/新約聖經.md "wikilink")》，《[哥林多前書](../Page/哥林多前書.md "wikilink")》1:11中的"the
+Chloe源自[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")「（*khlóē*）」，為希臘女神[狄蜜特眾多名稱之一](https://zh.wikipedia.org/wiki/狄蜜特 "wikilink")，意思是年輕的、綠葉、植物的幼芽\[1\]。Chloe這個名字出現在《[新約聖經](../Page/新約聖經.md "wikilink")》，《[哥林多前書](../Page/哥林多前書.md "wikilink")》1:11中的"the
 house of Chloe"\[2\]。
 
-  - ，愛爾蘭歌手，女性合唱團體[天使女伶](../Page/天使女伶.md "wikilink")（Celtic Woman）的最年輕成員。
+  - ，愛爾蘭歌手，女性合唱團體[天使女伶](https://zh.wikipedia.org/wiki/天使女伶 "wikilink")（Celtic
+    Woman）的最年輕成員。
 
-  - [克蘿伊·布莉姬](../Page/克蘿伊·布莉姬.md "wikilink")（Chloe Bridges），美國女演員、歌手。
+  - [克蘿伊·布莉姬](https://zh.wikipedia.org/wiki/克蘿伊·布莉姬 "wikilink")（Chloe
+    Bridges），美國女演員、歌手。
 
-  - [高儀](../Page/高儀_\(時裝設計師\).md "wikilink")（Chloe
-    Dao），越南裔美國女性時裝設計師，真人實境秀《[決戰時裝伸展台](../Page/決戰時裝伸展台.md "wikilink")》第二季的優勝者。
+  - [高儀](https://zh.wikipedia.org/wiki/高儀_\(時裝設計師\) "wikilink")（Chloe
+    Dao），越南裔美國女性時裝設計師，真人實境秀《[決戰時裝伸展台](https://zh.wikipedia.org/wiki/決戰時裝伸展台 "wikilink")》第二季的優勝者。
 
   - （Chloe Jones），美國女性色情演員。
 
@@ -33,11 +35,11 @@ house of Chloe"\[2\]。
   - [童妮‧摩里森](../Page/托妮·莫里森.md "wikilink")（本名Chloe
     Wofford），美國小說家，1993年獲諾貝爾文學獎。
 
-  - [克洛伊·卡黛珊](../Page/克洛伊·卡黛珊.md "wikilink")\[4\]（Khloé
+  - [克洛伊·卡黛珊](https://zh.wikipedia.org/wiki/克洛伊·卡黛珊 "wikilink")\[4\]（Khloé
     Kardashian），美國電視節目主持人。
 
   - [Daine Chloe de
-    Charny](../Page/Daine_Chloe_de_Charny.md "wikilink")，韩团[1ELASTIN法国籍成员](../Page/1ELASTIN.md "wikilink")
+    Charny](https://zh.wikipedia.org/wiki/Daine_Chloe_de_Charny "wikilink")，韩团[1ELASTIN法国籍成员](https://zh.wikipedia.org/wiki/1ELASTIN "wikilink")
 
 ## 虛構人物
 

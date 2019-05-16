@@ -1,4 +1,4 @@
-**雅虎UI库**（，**YUI**）是一個開放原始碼的[JavaScript函數庫](../Page/JavaScript.md "wikilink")，為了能建立一個高互動的網頁，它採用了[AJAX](../Page/AJAX.md "wikilink")，[DHTML和](../Page/DHTML.md "wikilink")[DOM等程式碼技術](../Page/文檔對象模型.md "wikilink")\[1\]。它也包含了許多[CSS資源](../Page/CSS.md "wikilink")。使用授權為[BSD許可證](../Page/BSD許可證.md "wikilink")\[2\]。
+**雅虎UI库**（，**YUI**）是一個開放原始碼的[JavaScript函數庫](../Page/JavaScript.md "wikilink")，為了能建立一個高互動的網頁，它採用了[AJAX](../Page/AJAX.md "wikilink")，[DHTML和](https://zh.wikipedia.org/wiki/DHTML "wikilink")[DOM等程式碼技術](https://zh.wikipedia.org/wiki/文檔對象模型 "wikilink")\[1\]。它也包含了許多[CSS資源](https://zh.wikipedia.org/wiki/CSS "wikilink")。使用授權為[BSD許可證](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")\[2\]。
 於，由於缺乏積極維護、過分龐大的library不合時代……等原因停止維護\[3\]
 
 ## 功能
@@ -18,7 +18,7 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 <!-- end list -->
 
   - 連線工具
-    協助管理跨瀏覽器的[XMLHttpRequest功能](../Page/XMLHttpRequest.md "wikilink")。他也整合了表單傳送、錯誤處理、[callback和檔案上傳](../Page/callback_\(computer_science\).md "wikilink")。
+    協助管理跨瀏覽器的[XMLHttpRequest功能](../Page/XMLHttpRequest.md "wikilink")。他也整合了表單傳送、錯誤處理、[callback和檔案上傳](https://zh.wikipedia.org/wiki/callback_\(computer_science\) "wikilink")。
 
 <!-- end list -->
 
@@ -33,12 +33,12 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 <!-- end list -->
 
   - DOM
-    為一般的[DOM腳本作業提供幫助](../Page/DOM.md "wikilink")，它包括元素定位與CSS樣式管理。
+    為一般的[DOM腳本作業提供幫助](https://zh.wikipedia.org/wiki/DOM "wikilink")，它包括元素定位與CSS樣式管理。
 
 <!-- end list -->
 
   - 即拖即放
-    為[即拖即放的開發](../Page/即拖即放.md "wikilink")（建立與管理可在網頁上拖放的物件）提供幫助。
+    為[即拖即放的開發](https://zh.wikipedia.org/wiki/即拖即放 "wikilink")（建立與管理可在網頁上拖放的物件）提供幫助。
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 ### 控制項
 
   - 自動完成
-    為用戶文字輸入的互動提供[自動完成功能](../Page/自動完成.md "wikilink")（建議列表與隨打擊找的功能）。它支援廣泛的資料源格式。它也透過XMLHttpReqeust支援伺服器端資料源。
+    為用戶文字輸入的互動提供[自動完成功能](https://zh.wikipedia.org/wiki/自動完成 "wikilink")（建議列表與隨打擊找的功能）。它支援廣泛的資料源格式。它也透過XMLHttpReqeust支援伺服器端資料源。
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 <!-- end list -->
 
   - 容器
-    支援大量的DHTML視窗規範包括[提示框](../Page/提示框.md "wikilink")（Tooltip）、面板、對話框、簡易對話框、模組與覆蓋層（Overlay）。
+    支援大量的DHTML視窗規範包括[提示框](https://zh.wikipedia.org/wiki/提示框 "wikilink")（Tooltip）、面板、對話框、簡易對話框、模組與覆蓋層（Overlay）。
 
 <!-- end list -->
 
@@ -73,8 +73,8 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 <!-- end list -->
 
   - 紀錄器
-    提供一種快速簡單的方式來寫入[日誌訊息到](../Page/日誌.md "wikilink")[Mozilla
-    Firefox的Firebug擴充插件畫面終端](../Page/Mozilla_Firefox.md "wikilink")、或者[Safari](../Page/Safari.md "wikilink")
+    提供一種快速簡單的方式來寫入[日誌訊息到](https://zh.wikipedia.org/wiki/日誌 "wikilink")[Mozilla
+    Firefox的Firebug擴充插件畫面終端](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、或者[Safari](../Page/Safari.md "wikilink")
     JavaScript終端。
 
 <!-- end list -->
@@ -104,7 +104,7 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
   - [標準CSS重設](https://web.archive.org/web/20090703121002/http://developer.yahoo.com/yui/reset/)：CSS宣告，用於移除頁邊空白並標準化跨瀏覽器對顯示一般元素的問題。
 
 2007年8月，Yahoo放出YUI Compressor 1.0—一種JavaScript
-[壓縮器](../Page/數據壓縮.md "wikilink")。\[5\]
+[壓縮器](https://zh.wikipedia.org/wiki/數據壓縮 "wikilink")。\[5\]
 
 [YUI劇院（YUI
 Theater）](https://web.archive.org/web/20080304222339/http://developer.yahoo.com/yui/theater/)對全世界提供存取許多JavaScript與網頁開發知名的講師的技術會談。\[6\]

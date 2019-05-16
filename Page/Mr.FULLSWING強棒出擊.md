@@ -1,4 +1,4 @@
-《**Mr.FULLSWING**》（****）是由[鈴木信也畫的](../Page/鈴木信也.md "wikilink")[搞笑](../Page/搞笑.md "wikilink")[棒球漫畫](../Page/棒球漫畫.md "wikilink")，故事在敘述主角猿野天國加入十二支棒球社，並在埼玉縣初選大會奮鬥的故事。作者在正經訓練及比賽中，加入了非常多[無厘頭的](../Page/無厘頭.md "wikilink")[笑點](../Page/笑點.md "wikilink")，以及引用其他漫畫與時事[梗](../Page/哏.md "wikilink")，但也不失棒球比賽的[熱血](../Page/熱血.md "wikilink")。從2001年23號－2006年23號連載於日本漫畫雜誌[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")。
+《**Mr.FULLSWING**》（****）是由[鈴木信也畫的](https://zh.wikipedia.org/wiki/鈴木信也 "wikilink")[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，故事在敘述主角猿野天國加入十二支棒球社，並在埼玉縣初選大會奮鬥的故事。作者在正經訓練及比賽中，加入了非常多[無厘頭的](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")[笑點](https://zh.wikipedia.org/wiki/笑點 "wikilink")，以及引用其他漫畫與時事[梗](https://zh.wikipedia.org/wiki/哏 "wikilink")，但也不失棒球比賽的[熱血](https://zh.wikipedia.org/wiki/熱血 "wikilink")。從2001年23號－2006年23號連載於日本漫畫雜誌[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")。
 
 ## 概要
 
@@ -7,7 +7,7 @@
 ## 故事
 
 20年前，[埼玉縣立十二支高中棒球員](../Page/埼玉縣.md "wikilink")**村中紀洋**於在校時期締造了兩項傳說－
-第一個傳說，擊出飛越整個運動場並砸中校舍時鐘的超大號160公尺全壘打，遭到擊壞的大鐘從此停在3點3分；第二個傳說，帶領十二支高中棒球隊連續三年奪下[甲子園冠軍](../Page/甲子園.md "wikilink")。
+第一個傳說，擊出飛越整個運動場並砸中校舍時鐘的超大號160公尺全壘打，遭到擊壞的大鐘從此停在3點3分；第二個傳說，帶領十二支高中棒球隊連續三年奪下[甲子園冠軍](https://zh.wikipedia.org/wiki/甲子園 "wikilink")。
 職業選手期間也相繼在日本及美國的球場上發光發熱。
 
 20年後，猿野天國進了這間早淪落成為無法進入甲子園的弱小球隊的十二支高中。他因愛慕的女生被棒球隊員搶走，而對「棒球」這項運動懷恨在心，卻在與棒球隊經理鳥居風一見鍾情下，下定決心加入棒球隊。
@@ -16,7 +16,7 @@
 
 ## 角色
 
-  - <small>請參照**「[野球長打王登場人物](../Page/野球長打王登場人物.md "wikilink")」**</small>
+  - <small>請參照**「[野球長打王登場人物](https://zh.wikipedia.org/wiki/野球長打王登場人物 "wikilink")」**</small>
 
 ## 備註
 

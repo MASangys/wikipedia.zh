@@ -1,18 +1,18 @@
 **Rurutia**（），日本女歌手。現所屬事務所為CRAFTSMAN
 MUSIC。作為一名歌手，她並沒有公開自己的履歷；她輕柔的聲音、富情感的音樂，無形中形成了獨一和神秘的魅力。
-藝名Rurutia是自身的[基督教](../Page/基督教.md "wikilink")[洗禮名](../Page/洗禮名.md "wikilink")\[1\]
-由雙親的朋友，出身於[大溪地島的神父命名](../Page/大溪地島.md "wikilink")\[2\]。在[大溪地語的意思就是](../Page/大溪地語.md "wikilink")「下雨」（rorotea）但是由於那裡雨水稀少，所以就帶上了「恩惠之雨」的含義。\[3\]
+藝名Rurutia是自身的[基督教](../Page/基督教.md "wikilink")[洗禮名](https://zh.wikipedia.org/wiki/洗禮名 "wikilink")\[1\]
+由雙親的朋友，出身於[大溪地島的神父命名](https://zh.wikipedia.org/wiki/大溪地島 "wikilink")\[2\]。在[大溪地語的意思就是](../Page/大溪地語.md "wikilink")「下雨」（rorotea）但是由於那裡雨水稀少，所以就帶上了「恩惠之雨」的含義。\[3\]
 
 ## 音樂性
 
 RURUTIA自幼開始學習彈奏古典鋼琴。\[4\] 學生時代受到朋友自殺的衝擊\[5\]，為了整理自責和悲傷的感情，開始了制作歌曲。\[6\]
-音樂風格主要受[古典音樂和](../Page/古典音樂.md "wikilink")[额我略平咏聖歌的影響](../Page/额我略平咏.md "wikilink")。\[7\]
+音樂風格主要受[古典音樂和](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[额我略平咏聖歌的影響](https://zh.wikipedia.org/wiki/额我略平咏 "wikilink")。\[7\]
 
 作詞作曲的方法，是先把旋律和當時印象的言語記錄下來，然後寫作歌詞。\[8\]
 除了作詞作曲以外，使用合成器和音樂序列器等編曲和程序編制等也親自動手，兼備音樂創作和編曲的能力。初期學習DTM的知識時，使用DAW軟件合成器。04年開始使用「SampleTank2」、「Atomosphere」、「Trilogi」和「Stylus」作為音源。\[9\]
 
 獨特的歌唱方法屬於[Whisper
-voice系](../Page/Whisper_voice.md "wikilink")，一種被形容為「[妖精的聲音](../Page/妖精.md "wikilink")」，具治癒效果的聲線。\[10\]
+voice系](https://zh.wikipedia.org/wiki/Whisper_voice "wikilink")，一種被形容為「[妖精的聲音](https://zh.wikipedia.org/wiki/妖精 "wikilink")」，具治癒效果的聲線。\[10\]
 
 ## 履历
 
@@ -337,7 +337,7 @@ voice系](../Page/Whisper_voice.md "wikilink")，一種被形容為「[妖精的
 <!-- end list -->
 
   - 3月22日
-    Rurutia擔當此日公開的恐怖電影[「口裂け女2」的主題曲Vocal](../Page/「口裂け女2」.md "wikilink")。
+    Rurutia擔當此日公開的恐怖電影[「口裂け女2」的主題曲Vocal](https://zh.wikipedia.org/wiki/「口裂け女2」 "wikilink")。
 
 <!-- end list -->
 
@@ -460,7 +460,7 @@ voice系](../Page/Whisper_voice.md "wikilink")，一種被形容為「[妖精的
     the color」试听。
   - 11月18日 個人第11張單曲『Don't look at the color』正式發行，除收錄之前公開的「Not Afraid」 &
     「Don't look at the color」外，還收錄一首歌曲「Little in my
-    Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](../Page/蘇菲的鍊金工房～不可思議書的鍊金術士～.md "wikilink")』的結尾曲。
+    Little」，此歌曲也是遊戲『[蘇菲的鍊金工房～不可思議書的鍊金術士～](https://zh.wikipedia.org/wiki/蘇菲的鍊金工房～不可思議書的鍊金術士～ "wikilink")』的結尾曲。
 
 ### 电影
 

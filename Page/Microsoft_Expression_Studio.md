@@ -1,9 +1,9 @@
 **Microsoft Expression
-Studio**是[微軟針對開發者與設計師開發的](../Page/微軟.md "wikilink")[設計與](../Page/平面設計.md "wikilink")[媒體套件應用程式](../Page/數位媒體.md "wikilink")。
+Studio**是[微軟針對開發者與設計師開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[設計與](https://zh.wikipedia.org/wiki/平面設計 "wikilink")[媒體套件應用程式](https://zh.wikipedia.org/wiki/數位媒體 "wikilink")。
 
 ## 概要
 
-微軟於2005年9月16日[洛杉磯](../Page/洛杉磯.md "wikilink")[專業開發人員大會上展示Expression及於](../Page/专业开发者大会.md "wikilink")2007年[傳播媒體展上展示Expression](../Page/全美廣播事業者聯盟.md "wikilink")
+微軟於2005年9月16日[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[專業開發人員大會上展示Expression及於](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")2007年[傳播媒體展上展示Expression](https://zh.wikipedia.org/wiki/全美廣播事業者聯盟 "wikilink")
 Encoder。在該些產品中Expression Blend、Expression Design與Expression
 Encoder均使用[Windows Presentation
 Foundation編寫](../Page/Windows_Presentation_Foundation.md "wikilink")。Expression
@@ -13,23 +13,23 @@ Explorer的](../Page/Internet_Explorer.md "wikilink")
 [Trident](../Page/Trident_\(排版引擎\).md "wikilink")
 排版引擎，所有FrontPage插件與功能亦被移除。Expression
 Media主要是基於其前身，微軟在2006年7月收購的[iView
-Media](../Page/iView_Media.md "wikilink")。Expression
+Media](https://zh.wikipedia.org/wiki/iView_Media "wikilink")。Expression
 Design所使用的技術亦是基於以前收購的產品[Creature House
 Expression](../Page/Creature_House_Expression.md "wikilink")，但以WPF完全的重新編寫。
 
 ## 應用程式
 
   - （開發代號Quartz）-
-    [所見即所得](../Page/所見即所得.md "wikilink")[網站](../Page/網站.md "wikilink")[設計器與](../Page/網頁設計.md "wikilink")[HTML編輯器](../Page/HTML編輯器.md "wikilink")
+    [所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[網站](../Page/網站.md "wikilink")[設計器與](https://zh.wikipedia.org/wiki/網頁設計 "wikilink")[HTML編輯器](https://zh.wikipedia.org/wiki/HTML編輯器 "wikilink")
 
   - \+ SketchFlow（開發代號Sparkle）- 視覺化製作[Windows Presentation
-    Foundation及](../Page/Windows_Presentation_Foundation.md "wikilink")[Silverlight應用程式的](../Page/Silverlight.md "wikilink")[用戶界面](../Page/用戶界面.md "wikilink")
+    Foundation及](../Page/Windows_Presentation_Foundation.md "wikilink")[Silverlight應用程式的](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")
 
   - [Microsoft Expression
-    Design](../Page/Microsoft_Expression_Design.md "wikilink")（開發代號Acrylic）-
-    [點陣與](../Page/點陣圖.md "wikilink")[向量](../Page/向量圖形.md "wikilink")[圖像編輯器](../Page/圖像編輯器.md "wikilink")
+    Design](https://zh.wikipedia.org/wiki/Microsoft_Expression_Design "wikilink")（開發代號Acrylic）-
+    [點陣與](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[向量](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")[圖像編輯器](https://zh.wikipedia.org/wiki/圖像編輯器 "wikilink")
 
-  - \- [數位資產與媒體管理器](../Page/數位資產管理.md "wikilink")
+  - \- [數位資產與媒體管理器](https://zh.wikipedia.org/wiki/數位資產管理 "wikilink")
 
   - \- [VC-1內容編碼器](../Page/VC-1.md "wikilink"):
 
@@ -37,7 +37,7 @@ Expression](../Page/Creature_House_Expression.md "wikilink")，但以WPF完全�
 
   - [點陣圖圖像編輯器列表](../Page/矢量图形编辑器列表.md "wikilink")
 
-  - [點陣圖圖像編輯器比較](../Page/點陣圖圖像編輯器比較.md "wikilink")
+  - [點陣圖圖像編輯器比較](https://zh.wikipedia.org/wiki/點陣圖圖像編輯器比較 "wikilink")
 
   - [Microsoft
     FrontPage](../Page/Microsoft_FrontPage.md "wikilink")，Expression

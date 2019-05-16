@@ -1,0 +1,195 @@
+{{/header}}
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-tfa-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>哲学</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>{{#ifexpr:&gt;150|推荐条目|推荐条目 <small>(等会再回来)</small>}}</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-tfa" style="padding:2px 5px">
+<p>{{#ifexpr:&gt;150||}}</p>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>你知道吗</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-itn">
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>学术分支</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-itn">
+</div></td>
+</tr>
+</tbody>
+</table></td>
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>相关学术领域</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-itn">
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-tfa-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>{{#ifexpr:&gt;150|哲学家|哲学家 <small>(等会再回来)</small>}}</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-tfa" style="padding:2px 5px">
+<p>{{#ifexpr:&gt;150||}}</p>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>杂项</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-itn">
+</div></td>
+</tr>
+</tbody>
+</table></td>
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-itn-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em;">
+<p>分类</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-itn">
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+{{-}}
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<thead>
+<tr class="header">
+<th><h2 id="mp-tfp-h2" style="margin:3px; background:#FFD699; font-size:120%; font-weight:bold; border:1px solid #FFD699; text-align:left; color:#000; padding:0.2em 0.4em">
+<p>相关主题</p>
+</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><div id="mp-tfp">
+<p><small></small></p>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<center>
+
+</center>
+
+__NOTOC____NOEDITSECTION__
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:哲學](https://zh.wikipedia.org/wiki/Category:哲學 "wikilink")
+[Category:哲学主题](https://zh.wikipedia.org/wiki/Category:哲学主题 "wikilink")

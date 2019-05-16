@@ -1,10 +1,10 @@
-趋化因子受体**CXCR4**是[趋化因子](../Page/趋化因子.md "wikilink")[基质细胞衍生因子-1](../Page/基质细胞衍生因子-1.md "wikilink")（CXCL12）的特异受体\[1\]\[2\]。CXCL12对[淋巴细胞有强烈的趋化作用](../Page/淋巴细胞.md "wikilink")。该受体是用来提取纯化[艾滋病毒的几个趋化因子受体之一](../Page/人类免疫缺乏病毒.md "wikilink")。现在还不清楚是否出现使用CXCR4的人类免疫缺乏病毒是免疫缺乏的原因还是后果。
+趋化因子受体**CXCR4**是[趋化因子](../Page/趋化因子.md "wikilink")[基质细胞衍生因子-1](https://zh.wikipedia.org/wiki/基质细胞衍生因子-1 "wikilink")（CXCL12）的特异受体\[1\]\[2\]。CXCL12对[淋巴细胞有强烈的趋化作用](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")。该受体是用来提取纯化[艾滋病毒的几个趋化因子受体之一](https://zh.wikipedia.org/wiki/人类免疫缺乏病毒 "wikilink")。现在还不清楚是否出现使用CXCR4的人类免疫缺乏病毒是免疫缺乏的原因还是后果。
 
-另外，CXCR4还可能人类[胚胎发育中的着床过程中起作用](../Page/胚胎.md "wikilink")。
+另外，CXCR4还可能人类[胚胎发育中的着床过程中起作用](https://zh.wikipedia.org/wiki/胚胎 "wikilink")。
 
 作为趋化因子受体与配体，CXCR4和CXCL12比较特殊，他们是一配一的受体配体关系。绝大数趋化因子受体有多个配体，一个趋化因子可以结合到两个或多个受体。
 
-CXCR4的配体CXCL12在[造血干细胞移居](../Page/造血干细胞.md "wikilink")[骨髓在起重要作用](../Page/骨髓.md "wikilink")\[3\]。影响或阻断CXCR4受体配体结合，可以调节造血干细胞的迁徙，这对骨髓造血干细胞移植可能十分有用。目前的试验药物有：[粒细胞集落刺激因子](../Page/粒细胞集落刺激因子.md "wikilink")（Granulocyte
+CXCR4的配体CXCL12在[造血干细胞移居](../Page/造血干细胞.md "wikilink")[骨髓在起重要作用](https://zh.wikipedia.org/wiki/骨髓 "wikilink")\[3\]。影响或阻断CXCR4受体配体结合，可以调节造血干细胞的迁徙，这对骨髓造血干细胞移植可能十分有用。目前的试验药物有：[粒细胞集落刺激因子](https://zh.wikipedia.org/wiki/粒细胞集落刺激因子 "wikilink")（Granulocyte
 colony-stimulating factor）和Plerixafor（AMD3100）。但这些药物尚未临床使用。
 
 CXCR4在体内大部分组织和器官上都有表达，它是由352个氨基酸组成的GPCR(G蛋白偶联受体)，具有七次穿膜结构。

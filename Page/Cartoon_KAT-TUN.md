@@ -10,23 +10,23 @@ KAT-TUN**》（）是一個由[日本電視台製作播放的](../Page/日本電
       - [田中聖](../Page/田中聖.md "wikilink")
       - [上田龍也](../Page/上田龍也.md "wikilink")
       - [中丸雄一](../Page/中丸雄一.md "wikilink")
-  - [伊藤政道](../Page/伊藤政道.md "wikilink")（旁白，第108集起）
-  - [池田鐵洋](../Page/池田鐵洋.md "wikilink")（第61至107集）
-  - [山本Shoo](../Page/山本Shoo.md "wikilink")（，旁白，至第60集為止）
+  - [伊藤政道](https://zh.wikipedia.org/wiki/伊藤政道 "wikilink")（旁白，第108集起）
+  - [池田鐵洋](https://zh.wikipedia.org/wiki/池田鐵洋 "wikilink")（第61至107集）
+  - [山本Shoo](https://zh.wikipedia.org/wiki/山本Shoo "wikilink")（，旁白，至第60集為止）
   - [谷口節](../Page/谷口節.md "wikilink")（旁白，第61集起）
 
 ## 過去節目內容
 
 ### 100Q
 
-  - 以[CG方式呈現事先詢問來賓的](../Page/CG.md "wikilink")100個問題，據此作為談話內容。
+  - 以[CG方式呈現事先詢問來賓的](https://zh.wikipedia.org/wiki/CG "wikilink")100個問題，據此作為談話內容。
 
 ### DAT-TUN5
 
   - [KAT-TUN以射飛鏢的方式與來賓對決](../Page/KAT-TUN.md "wikilink")。在五乘五的方格中，先射中五個連成直線或斜線的方格的一方，即為勝者。
   - 如果來賓勝利，可獲得節目特製飛鏢；反之落敗的話，則沒收來賓的飛鏢。
   - 第5集與[Avril
-    Lavigne對決時](../Page/Avril_Lavigne.md "wikilink")，特別修改規則為先射中3C（即中心點）的隊伍為勝。
+    Lavigne對決時](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink")，特別修改規則為先射中3C（即中心點）的隊伍為勝。
 
 ## 來賓
 
@@ -49,33 +49,33 @@ KAT-TUN**》（）是一個由[日本電視台製作播放的](../Page/日本電
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>4月4日</p></td>
-<td><p>100Q：<a href="../Page/AI.md" title="wikilink">AI</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/AI" title="wikilink">AI</a></p></td>
 <td></td>
 <td><p>2.9%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>4月11日</p></td>
-<td><p>100Q：<a href="../Page/森泉.md" title="wikilink">森泉</a><br />
-DAT-TUN5：<a href="../Page/武蔵.md" title="wikilink">武蔵</a> 敗</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/森泉" title="wikilink">森泉</a><br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/武蔵" title="wikilink">武蔵</a> 敗</p></td>
 <td></td>
 <td><p>4.2%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>4月18日</p></td>
-<td><p>100Q：<a href="../Page/SEAMO.md" title="wikilink">SEAMO</a><br />
-DAT-TUN5：<a href="../Page/堤下敦.md" title="wikilink">堤下敦</a> 敗</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/SEAMO" title="wikilink">SEAMO</a><br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/堤下敦" title="wikilink">堤下敦</a> 敗</p></td>
 <td></td>
 <td><p>5.9%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>4月25日</p></td>
-<td><p>100Q：<a href="../Page/所英男.md" title="wikilink">所英男</a><br />
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/所英男" title="wikilink">所英男</a><br />
 DAT-TUN5：<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a> 勝</p></td>
 <td></td>
 <td><p>4.8%</p></td>
@@ -84,17 +84,17 @@ DAT-TUN5：<a href="../Page/武田修宏.md" title="wikilink">武田修宏</a> �
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>5月2日</p></td>
-<td><p>100Q：<a href="../Page/關根麻里.md" title="wikilink">關根麻里</a><br />
-DAT-TUN5：<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a> 敗</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/關根麻里" title="wikilink">關根麻里</a><br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a> 敗</p></td>
 <td></td>
 <td><p>6.9%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>5月9日</p></td>
-<td><p>100Q：<a href="../Page/mihimaru_GT.md" title="wikilink">mihimaru GT</a><br />
-DAT-TUN5：<a href="../Page/所喬治.md" title="wikilink">所喬治</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/mihimaru_GT" title="wikilink">mihimaru GT</a><br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a></p></td>
 <td><p><a href="../Page/赤西仁.md" title="wikilink">赤西仁回國後初演出</a></p></td>
 <td><p>5.1%</p></td>
 <td><p>Jumpin' up（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -102,8 +102,8 @@ DAT-TUN5：<a href="../Page/所喬治.md" title="wikilink">所喬治</a></p></td
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>5月16日</p></td>
-<td><p>100Q：日本電視台・ベレーザ（<a href="../Page/澤穂稀.md" title="wikilink">澤穂稀</a>、<a href="../Page/荒川恵理子.md" title="wikilink">荒川恵理子</a>、<a href="../Page/岩清水梓.md" title="wikilink">岩清水梓</a>）<br />
-DAT-TUN5：<a href="../Page/所喬治.md" title="wikilink">所喬治</a> 敗</p></td>
+<td><p>100Q：日本電視台・ベレーザ（<a href="https://zh.wikipedia.org/wiki/澤穂稀" title="wikilink">澤穂稀</a>、<a href="https://zh.wikipedia.org/wiki/荒川恵理子" title="wikilink">荒川恵理子</a>、<a href="https://zh.wikipedia.org/wiki/岩清水梓" title="wikilink">岩清水梓</a>）<br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a> 敗</p></td>
 <td></td>
 <td><p>4.0%</p></td>
 <td><p>Jumpin' up（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -111,8 +111,8 @@ DAT-TUN5：<a href="../Page/所喬治.md" title="wikilink">所喬治</a> 敗</p>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>5月23日</p></td>
-<td><p>100Q：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Kay</a><br />
-DAT-TUN5：<a href="../Page/MEGUMI.md" title="wikilink">MEGUMI</a> 敗</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a><br />
+DAT-TUN5：<a href="https://zh.wikipedia.org/wiki/MEGUMI" title="wikilink">MEGUMI</a> 敗</p></td>
 <td></td>
 <td><p>4.8%</p></td>
 <td><p>Peak（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -123,7 +123,7 @@ DAT-TUN5：<a href="../Page/MEGUMI.md" title="wikilink">MEGUMI</a> 敗</p></td>
 <td><p>100Q：<a href="../Page/真矢美季.md" title="wikilink">真矢美季</a></p></td>
 <td></td>
 <td><p>4.8%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -131,37 +131,37 @@ DAT-TUN5：<a href="../Page/MEGUMI.md" title="wikilink">MEGUMI</a> 敗</p></td>
 <td><p>DAT-TUN5：<a href="../Page/真矢美季.md" title="wikilink">真矢美季</a> 勝</p></td>
 <td><p>微笑運動會</p></td>
 <td><p>4.7%</p></td>
-<td><p><a href="../Page/喜びの歌.md" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喜びの歌" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>6月13日</p></td>
-<td><p>100Q：<a href="../Page/ベッキー.md" title="wikilink">ベッキー</a>（<a href="../Page/Becky.md" title="wikilink">Becky</a>）</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/ベッキー" title="wikilink">ベッキー</a>（<a href="../Page/Becky.md" title="wikilink">Becky</a>）</p></td>
 <td><p>MINI STAGE：Your side</p></td>
 <td><p>4.9%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>6月20日</p></td>
-<td><p>100Q：<a href="../Page/阿部サダヲ.md" title="wikilink">阿部サダヲ</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/阿部サダヲ" title="wikilink">阿部サダヲ</a></p></td>
 <td><p>微笑運動會</p></td>
 <td><p>6.3%</p></td>
-<td><p><a href="../Page/喜びの歌.md" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喜びの歌" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>6月27日</p></td>
-<td><p>100Q：<a href="../Page/高田延彥.md" title="wikilink">高田延彥</a><br />
-交換危險禮物：<a href="../Page/Ne-Yo.md" title="wikilink">Ne-Yo</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/高田延彥" title="wikilink">高田延彥</a><br />
+交換危險禮物：<a href="https://zh.wikipedia.org/wiki/Ne-Yo" title="wikilink">Ne-Yo</a></p></td>
 <td></td>
 <td><p>4.1%</p></td>
-<td><p><a href="../Page/喜びの歌.md" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喜びの歌" title="wikilink">喜びの歌</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>7月4日</p></td>
-<td><p>100Q：<a href="../Page/小池榮子.md" title="wikilink">小池榮子</a><br />
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/小池榮子" title="wikilink">小池榮子</a><br />
 DAT-TUN5：<a href="../Page/佐佐木主浩.md" title="wikilink">佐佐木主浩</a> 敗</p></td>
 <td></td>
 <td><p>4.9%</p></td>
@@ -170,8 +170,8 @@ DAT-TUN5：<a href="../Page/佐佐木主浩.md" title="wikilink">佐佐木主浩
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>7月11日</p></td>
-<td><p>100Q：<a href="../Page/MCU.md" title="wikilink">MCU</a><br />
-DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美</a> 敗</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/MCU" title="wikilink">MCU</a><br />
+DAT-TUN：<a href="https://zh.wikipedia.org/wiki/片岡安祐美" title="wikilink">片岡安祐美</a> 敗</p></td>
 <td></td>
 <td><p>4.0%</p></td>
 <td></td>
@@ -180,7 +180,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <td><p>16</p></td>
 <td><p>7月18日</p></td>
 <td><p>100Q：<a href="../Page/松下奈緒.md" title="wikilink">松下奈緒</a><br />
-交換危險禮物：<a href="../Page/Rihanna.md" title="wikilink">Rihanna</a></p></td>
+交換危險禮物：<a href="https://zh.wikipedia.org/wiki/Rihanna" title="wikilink">Rihanna</a></p></td>
 <td></td>
 <td><p>4.7%</p></td>
 <td></td>
@@ -188,7 +188,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>7月25日</p></td>
-<td><p>100Q：<a href="../Page/高島千紗子.md" title="wikilink">高島千紗子</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/高島千紗子" title="wikilink">高島千紗子</a></p></td>
 <td><p>微笑運動會</p></td>
 <td><p>3.4%</p></td>
 <td></td>
@@ -196,8 +196,8 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>18</p></td>
 <td><p>8月1日</p></td>
-<td><p>100Q：<a href="../Page/辣妹曾根.md" title="wikilink">辣妹曾根</a><br />
-乒乓球大賽：<a href="../Page/四元奈生美.md" title="wikilink">四元奈生美</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/辣妹曾根" title="wikilink">辣妹曾根</a><br />
+乒乓球大賽：<a href="https://zh.wikipedia.org/wiki/四元奈生美" title="wikilink">四元奈生美</a></p></td>
 <td></td>
 <td><p>5.3%</p></td>
 <td></td>
@@ -205,7 +205,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>8月8日</p></td>
-<td><p>100Q：<a href="../Page/千原兄弟.md" title="wikilink">千原兄弟</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/千原兄弟" title="wikilink">千原兄弟</a></p></td>
 <td></td>
 <td><p>4.6%</p></td>
 <td></td>
@@ -213,7 +213,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>20</p></td>
 <td><p>8月15日</p></td>
-<td><p>100Q：<a href="../Page/哀川翔.md" title="wikilink">哀川翔</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/哀川翔" title="wikilink">哀川翔</a></p></td>
 <td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a> Collection：<a href="../Page/GOLD.md" title="wikilink">GOLD</a></p></td>
 <td><p>5.0%</p></td>
 <td></td>
@@ -230,7 +230,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>22</p></td>
 <td><p>8月29日</p></td>
-<td><p><a href="../Page/所喬治.md" title="wikilink">所喬治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a></p></td>
 <td><p>沖繩旅行（所喬治別墅）</p></td>
 <td><p>7.4%</p></td>
 <td><p>淚光閃閃</p></td>
@@ -238,7 +238,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>9月5日</p></td>
-<td><p><a href="../Page/所喬治.md" title="wikilink">所喬治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/所喬治" title="wikilink">所喬治</a></p></td>
 <td><p>沖繩旅行前篇（2人1組）</p></td>
 <td><p>5.5%</p></td>
 <td><p>淚光閃閃</p></td>
@@ -246,7 +246,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>24</p></td>
 <td><p>9月12日</p></td>
-<td><p>100Q：<a href="../Page/Leah_Dizon.md" title="wikilink">Leah Dizon</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/Leah_Dizon" title="wikilink">Leah Dizon</a></p></td>
 <td><p>沖繩旅行後篇（2人1組）</p></td>
 <td><p>5.4%</p></td>
 <td></td>
@@ -255,7 +255,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <td><p>25</p></td>
 <td><p>9月19日</p></td>
 <td><p>100Q：<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a><br />
-羽毛球大決戰：<a href="../Page/Leah_Dizon.md" title="wikilink">Leah Dizon</a></p></td>
+羽毛球大決戰：<a href="https://zh.wikipedia.org/wiki/Leah_Dizon" title="wikilink">Leah Dizon</a></p></td>
 <td></td>
 <td><p>6.5%</p></td>
 <td></td>
@@ -271,8 +271,8 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>27</p></td>
 <td><p>10月3日</p></td>
-<td><p>100Q：<a href="../Page/古田新太.md" title="wikilink">古田新太</a>（各種各樣Half&amp;Half）<br />
-♥disc：<a href="../Page/徳永英明.md" title="wikilink">徳永英明</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a>（各種各樣Half&amp;Half）<br />
+♥disc：<a href="https://zh.wikipedia.org/wiki/徳永英明" title="wikilink">徳永英明</a></p></td>
 <td></td>
 <td><p>4.2%</p></td>
 <td></td>
@@ -280,7 +280,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>28</p></td>
 <td><p>10月10日</p></td>
-<td><p>100Q：<a href="../Page/KREVA.md" title="wikilink">KREVA</a>（焦躁檢定、戀愛選擇、各種各樣Half&amp;Half）<br />
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a>（焦躁檢定、戀愛選擇、各種各樣Half&amp;Half）<br />
 ♥disc：<a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
 <td><p>有閑俱樂部預告</p></td>
 <td><p>2.9%</p></td>
@@ -289,7 +289,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>10月17日</p></td>
-<td><p>100Q：<a href="../Page/美波.md" title="wikilink">美波</a>（各種各樣Half&amp;Half）、<a href="../Page/片岡鶴太郎.md" title="wikilink">片岡鶴太郎</a><br />
+<td><p>100Q：<a href="../Page/美波.md" title="wikilink">美波</a>（各種各樣Half&amp;Half）、<a href="https://zh.wikipedia.org/wiki/片岡鶴太郎" title="wikilink">片岡鶴太郎</a><br />
 ♥disc：<a href="../Page/上木彩矢.md" title="wikilink">上木彩矢</a></p></td>
 <td></td>
 <td><p>4.5%</p></td>
@@ -298,7 +298,7 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="even">
 <td><p>30</p></td>
 <td><p>10月24日</p></td>
-<td><p>100Q：<a href="../Page/山本KID徳郁.md" title="wikilink">山本KID徳郁</a>（各種各樣Half&amp;Half）</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/山本KID徳郁" title="wikilink">山本KID徳郁</a>（各種各樣Half&amp;Half）</p></td>
 <td></td>
 <td><p>4.9%</p></td>
 <td></td>
@@ -322,15 +322,15 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>11月14日</p></td>
-<td><p>100Q：<a href="../Page/Chara.md" title="wikilink">Chara</a></p></td>
-<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a> Collection：<a href="../Page/Best_of_KAT-TUN#收錄曲.md" title="wikilink">ハルカナ約束</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/Chara" title="wikilink">Chara</a></p></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a> Collection：<a href="https://zh.wikipedia.org/wiki/Best_of_KAT-TUN#收錄曲" title="wikilink">ハルカナ約束</a></p></td>
 <td><p>3.4%</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>11月21日</p></td>
-<td><p>100Q：<a href="../Page/長谷川潤.md" title="wikilink">長谷川潤</a>、<a href="../Page/Elii_Rose.md" title="wikilink">Elii Rose</a>、<a href="../Page/沙耶.md" title="wikilink">沙耶</a>（各種各樣Half&amp;Half）</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/長谷川潤" title="wikilink">長谷川潤</a>、<a href="https://zh.wikipedia.org/wiki/Elii_Rose" title="wikilink">Elii Rose</a>、<a href="https://zh.wikipedia.org/wiki/沙耶" title="wikilink">沙耶</a>（各種各樣Half&amp;Half）</p></td>
 <td><p>新曲<a href="../Page/Keep_the_faith.md" title="wikilink">Keep the faith披露</a></p></td>
 <td><p>4.9%</p></td>
 <td><p><a href="../Page/Keep_the_faith.md" title="wikilink">Keep the faith</a>(<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>)</p></td>
@@ -338,8 +338,8 @@ DAT-TUN：<a href="../Page/片岡安祐美.md" title="wikilink">片岡安祐美<
 <tr class="odd">
 <td><p>35</p></td>
 <td><p>11月28日</p></td>
-<td><p>100Q：<a href="../Page/hyde.md" title="wikilink">hyde</a>（各種各樣Half&amp;Half）、 <a href="../Page/ken.md" title="wikilink">ken</a>（<a href="../Page/L&#39;Arc～en～Ciel.md" title="wikilink">L'Arc～en～Ciel</a>）（繪畫接龍）<br />
-Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Kay</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/hyde" title="wikilink">hyde</a>（各種各樣Half&amp;Half）、 <a href="https://zh.wikipedia.org/wiki/ken" title="wikilink">ken</a>（<a href="https://zh.wikipedia.org/wiki/L&#39;Arc～en～Ciel" title="wikilink">L'Arc～en～Ciel</a>）（繪畫接龍）<br />
+Cartoon town club：<a href="https://zh.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a></p></td>
 <td></td>
 <td><p>4.1%</p></td>
 <td><p><a href="../Page/Keep_the_faith.md" title="wikilink">Keep the faith</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -347,7 +347,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>36</p></td>
 <td><p>12月5日</p></td>
-<td><p>100Q：<a href="../Page/DJ_OZMA.md" title="wikilink">DJ OZMA</a>（各種各樣Half&amp;Half）</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/DJ_OZMA" title="wikilink">DJ OZMA</a>（各種各樣Half&amp;Half）</p></td>
 <td></td>
 <td><p>4.5%</p></td>
 <td><p>TOKYO BOOGIE BACK（DJ OZMA）</p></td>
@@ -355,7 +355,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>12月12日</p></td>
-<td><p>100Q：<a href="../Page/Mie.md" title="wikilink">Mie</a><br />
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/Mie" title="wikilink">Mie</a><br />
 ♥disc：<a href="../Page/中村中.md" title="wikilink">中村中</a></p></td>
 <td></td>
 <td><p>2.6%</p></td>
@@ -364,8 +364,8 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>38</p></td>
 <td><p>12月19日</p></td>
-<td><p>100Q：<a href="../Page/陣内孝則.md" title="wikilink">陣内孝則</a><br />
-交換危險禮物：<a href="../Page/Aly_&amp;_AJ.md" title="wikilink">Aly &amp; AJ</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/陣内孝則" title="wikilink">陣内孝則</a><br />
+交換危險禮物：<a href="https://zh.wikipedia.org/wiki/Aly_&amp;_AJ" title="wikilink">Aly &amp; AJ</a></p></td>
 <td></td>
 <td><p>2.7%</p></td>
 <td></td>
@@ -374,7 +374,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <td><p>39</p></td>
 <td><p>12月26日</p></td>
 <td><p>總集編</p></td>
-<td><p>留言演出：<a href="../Page/Becky.md" title="wikilink">Becky</a>、<a href="../Page/ギャル曽根.md" title="wikilink">ギャル曽根</a>、<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a></p></td>
+<td><p>留言演出：<a href="../Page/Becky.md" title="wikilink">Becky</a>、<a href="https://zh.wikipedia.org/wiki/ギャル曽根" title="wikilink">ギャル曽根</a>、<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a></p></td>
 <td><p>4.4%</p></td>
 <td></td>
 </tr>
@@ -406,7 +406,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>40</p></td>
 <td><p>1月9日</p></td>
-<td><p>100Q：<a href="../Page/戶田惠梨香.md" title="wikilink">戶田惠梨香</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/戶田惠梨香" title="wikilink">戶田惠梨香</a></p></td>
 <td></td>
 <td><p>4.8%</p></td>
 <td></td>
@@ -414,7 +414,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>41</p></td>
 <td><p>1月16日</p></td>
-<td><p>♥disc：<a href="../Page/ET-KING.md" title="wikilink">ET-KING</a></p></td>
+<td><p>♥disc：<a href="https://zh.wikipedia.org/wiki/ET-KING" title="wikilink">ET-KING</a></p></td>
 <td><p>特備節目未公開放送</p></td>
 <td><p>6.4%</p></td>
 <td><p><a href="../Page/LIPS.md" title="wikilink">LIPS</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -422,11 +422,11 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>42</p></td>
 <td><p>1月23日</p></td>
-<td><p>100Q：<a href="../Page/F-BLOOD.md" title="wikilink">F-BLOOD</a><br />
-交換危險禮物：<a href="../Page/艾麗西亞·基斯.md" title="wikilink">艾麗西亞·基斯</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/F-BLOOD" title="wikilink">F-BLOOD</a><br />
+交換危險禮物：<a href="https://zh.wikipedia.org/wiki/艾麗西亞·基斯" title="wikilink">艾麗西亞·基斯</a></p></td>
 <td></td>
 <td><p>4.4%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>43</p></td>
@@ -439,7 +439,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>44</p></td>
 <td><p>2月6日</p></td>
-<td><p>100Q：<a href="../Page/土岐田麗子.md" title="wikilink">土岐田麗子</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/土岐田麗子" title="wikilink">土岐田麗子</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a></p></td>
 <td></td>
 <td><p>5.6%</p></td>
 <td><p><a href="../Page/LIPS.md" title="wikilink">LIPS</a>(<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>)</p></td>
@@ -447,7 +447,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>45</p></td>
 <td><p>2月13日</p></td>
-<td><p>100Q：<a href="../Page/m-flo.md" title="wikilink">m-flo</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a></p></td>
 <td></td>
 <td><p>3.2%</p></td>
 <td><p><a href="../Page/LIPS.md" title="wikilink">LIPS</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -455,7 +455,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>46</p></td>
 <td><p>2月20日</p></td>
-<td><p>100Q：<a href="../Page/高杉里美.md" title="wikilink">高杉里美</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/高杉里美" title="wikilink">高杉里美</a></p></td>
 <td></td>
 <td><p>4.7%</p></td>
 <td><p><a href="../Page/LIPS.md" title="wikilink">LIPS</a>（<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>）</p></td>
@@ -463,15 +463,15 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>47</p></td>
 <td><p>2月27日</p></td>
-<td><p>100Q：<a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/Every_Little_Thing" title="wikilink">Every Little Thing</a></p></td>
 <td></td>
 <td><p>5.4%</p></td>
-<td><p>Girlfriend （<a href="../Page/Avril_Lavigne.md" title="wikilink">Avril Lavigne</a>）</p></td>
+<td><p>Girlfriend （<a href="https://zh.wikipedia.org/wiki/Avril_Lavigne" title="wikilink">Avril Lavigne</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>48</p></td>
 <td><p>3月5日</p></td>
-<td><p>100Q：<a href="../Page/熊田曜子.md" title="wikilink">熊田曜子</a>、<a href="../Page/夏川純.md" title="wikilink">夏川純</a>、<a href="../Page/安田美沙子.md" title="wikilink">安田美沙子</a></p></td>
+<td><p>100Q：<a href="../Page/熊田曜子.md" title="wikilink">熊田曜子</a>、<a href="https://zh.wikipedia.org/wiki/夏川純" title="wikilink">夏川純</a>、<a href="../Page/安田美沙子.md" title="wikilink">安田美沙子</a></p></td>
 <td></td>
 <td><p>5.6%</p></td>
 <td></td>
@@ -479,7 +479,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>49</p></td>
 <td><p>3月12日</p></td>
-<td><p><a href="../Page/MEGUMI.md" title="wikilink">MEGUMI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MEGUMI" title="wikilink">MEGUMI</a></p></td>
 <td><p>赤西&amp;中丸懲罰遊戲</p></td>
 <td><p>北海道敞篷車之旅</p></td>
 <td><p>5.9%</p></td>
@@ -487,7 +487,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>50</p></td>
 <td><p>3月19日</p></td>
-<td><p><a href="../Page/MEGUMI.md" title="wikilink">MEGUMI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MEGUMI" title="wikilink">MEGUMI</a></p></td>
 <td><p>赤西&amp;中丸懲罰遊戲</p></td>
 <td><p>北海道敞篷車之旅完結編</p></td>
 <td><p>5.8%</p></td>
@@ -535,7 +535,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>56</p></td>
 <td><p>4月30日</p></td>
-<td><p><a href="../Page/岡政偉.md" title="wikilink">岡政偉</a>、ハイキングウォーキング</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡政偉" title="wikilink">岡政偉</a>、ハイキングウォーキング</p></td>
 <td></td>
 <td><p>3.8%</p></td>
 <td></td>
@@ -543,7 +543,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>57</p></td>
 <td><p>5月7日</p></td>
-<td><p><a href="../Page/友近.md" title="wikilink">友近</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
 <td><p>友近和<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN即興戲劇表演挑戰</a></p></td>
 <td><p>5.5%</p></td>
 <td></td>
@@ -567,7 +567,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>60</p></td>
 <td><p>5月28日</p></td>
-<td><p><a href="../Page/黑色美乃滋.md" title="wikilink">黑色美乃滋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑色美乃滋" title="wikilink">黑色美乃滋</a></p></td>
 <td></td>
 <td><p>5.3%</p></td>
 <td></td>
@@ -605,7 +605,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 田中：みうらじゅん<br />
 中丸：<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a></p></td>
 <td><p>《第２章始動　愛是什麼？》<br />
-龜梨：在<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/吉良町.md" title="wikilink">吉良町的外景拍攝</a><br />
+龜梨：在<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="https://zh.wikipedia.org/wiki/吉良町" title="wikilink">吉良町的外景拍攝</a><br />
 田口：三行情書<br />
 上田：練習中</p></td>
 <td><p>4.1%</p></td>
@@ -613,7 +613,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>62</p></td>
 <td><p>6月11日</p></td>
-<td><p>赤西：<a href="../Page/Leah_Dizon.md" title="wikilink">Leah Dizon</a><br />
+<td><p>赤西：<a href="https://zh.wikipedia.org/wiki/Leah_Dizon" title="wikilink">Leah Dizon</a><br />
 田中：みうらじゅん<br />
 中丸：<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a></p></td>
 <td><p>龜梨：在糧食店先生的外景拍攝<br />
@@ -624,17 +624,17 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>6月18日</p></td>
-<td><p>赤西：<a href="../Page/Leah_Dizon.md" title="wikilink">Leah Dizon</a><br />
+<td><p>赤西：<a href="https://zh.wikipedia.org/wiki/Leah_Dizon" title="wikilink">Leah Dizon</a><br />
 田中：酒缶<br />
 中丸：山本モナ</p></td>
-<td><p>龜梨：在<a href="../Page/山形縣.md" title="wikilink">山形縣</a><a href="../Page/高畠町.md" title="wikilink">高畠町的外景拍攝</a><br />
+<td><p>龜梨：在<a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a><a href="https://zh.wikipedia.org/wiki/高畠町" title="wikilink">高畠町的外景拍攝</a><br />
 田口：魔術披露</p></td>
 <td><p>2.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>64</p></td>
 <td><p>6月25日</p></td>
-<td><p>赤西：<a href="../Page/Leah_Dizon.md" title="wikilink">Leah Dizon</a><br />
+<td><p>赤西：<a href="https://zh.wikipedia.org/wiki/Leah_Dizon" title="wikilink">Leah Dizon</a><br />
 田中：柴田英嗣<br />
 中丸：山本モナ</p></td>
 <td></td>
@@ -651,9 +651,9 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>66</p></td>
 <td><p>7月9日</p></td>
-<td><p>亀梨：<a href="../Page/Usher.md" title="wikilink">Usher</a><br />
+<td><p>亀梨：<a href="https://zh.wikipedia.org/wiki/Usher" title="wikilink">Usher</a><br />
 中丸：国生さゆり</p></td>
-<td><p>在杜之都·<a href="../Page/仙台.md" title="wikilink">仙台的旅行</a><br />
+<td><p>在杜之都·<a href="https://zh.wikipedia.org/wiki/仙台" title="wikilink">仙台的旅行</a><br />
 田口：三行情書</p></td>
 <td><p>3.7%</p></td>
 </tr>
@@ -681,7 +681,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>70</p></td>
 <td><p>8月6日</p></td>
-<td><p>亀梨・赤西・田口・中丸：<a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></p></td>
+<td><p>亀梨・赤西・田口・中丸：<a href="https://zh.wikipedia.org/wiki/PUFFY" title="wikilink">PUFFY</a></p></td>
 <td></td>
 <td><p>4.4%</p></td>
 </tr>
@@ -697,7 +697,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <td><p>72</p></td>
 <td><p>8月20日</p></td>
 <td><p>亀梨・田口・上田・中丸：黛比夫人<br />
-亀梨・中丸：<a href="../Page/Leona_Lewis.md" title="wikilink">Leona Lewis</a></p></td>
+亀梨・中丸：<a href="https://zh.wikipedia.org/wiki/Leona_Lewis" title="wikilink">Leona Lewis</a></p></td>
 <td></td>
 <td><p>2.3%</p></td>
 </tr>
@@ -711,22 +711,22 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>74</p></td>
 <td><p>9月3日</p></td>
-<td><p><a href="../Page/Will_Smith.md" title="wikilink">Will Smith</a><br />
-赤西：<a href="../Page/Jodie_Foster.md" title="wikilink">Jodie Foster</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Will_Smith" title="wikilink">Will Smith</a><br />
+赤西：<a href="https://zh.wikipedia.org/wiki/Jodie_Foster" title="wikilink">Jodie Foster</a></p></td>
 <td></td>
 <td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>75</p></td>
 <td><p>9月10日</p></td>
-<td><p>亀梨：<a href="../Page/Patricia_Field.md" title="wikilink">Patricia Field</a>、<a href="../Page/大澤茜.md" title="wikilink">大澤茜</a>、<a href="../Page/陳怡_(藝人).md" title="wikilink">陳怡</a></p></td>
+<td><p>亀梨：<a href="https://zh.wikipedia.org/wiki/Patricia_Field" title="wikilink">Patricia Field</a>、<a href="https://zh.wikipedia.org/wiki/大澤茜" title="wikilink">大澤茜</a>、<a href="https://zh.wikipedia.org/wiki/陳怡_(藝人)" title="wikilink">陳怡</a></p></td>
 <td></td>
 <td><p>4.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>76</p></td>
 <td><p>9月17日</p></td>
-<td><p><a href="../Page/友近.md" title="wikilink">友近</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
 <td></td>
 <td><p>5.1%</p></td>
 </tr>
@@ -740,7 +740,7 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>78</p></td>
 <td><p>10月1日</p></td>
-<td><p><a href="../Page/真鍋香織.md" title="wikilink">真鍋香織</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真鍋香織" title="wikilink">真鍋香織</a></p></td>
 <td></td>
 <td><p>4.4%</p></td>
 </tr>
@@ -754,14 +754,14 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>80</p></td>
 <td><p>10月15日</p></td>
-<td><p>赤西・田中・中丸：<a href="../Page/貫地谷詩穗梨.md" title="wikilink">貫地谷詩穗梨</a></p></td>
+<td><p>赤西・田中・中丸：<a href="https://zh.wikipedia.org/wiki/貫地谷詩穗梨" title="wikilink">貫地谷詩穗梨</a></p></td>
 <td></td>
 <td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>81</p></td>
 <td><p>10月22日</p></td>
-<td><p><a href="../Page/清水美智子.md" title="wikilink">清水美智子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清水美智子" title="wikilink">清水美智子</a></p></td>
 <td></td>
 <td><p>6.0%</p></td>
 </tr>
@@ -797,14 +797,14 @@ Cartoon town club：<a href="../Page/Crystal_Kay.md" title="wikilink">Crystal Ka
 <tr class="even">
 <td><p>86</p></td>
 <td><p>11月26日</p></td>
-<td><p><a href="../Page/春奈愛.md" title="wikilink">春奈愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/春奈愛" title="wikilink">春奈愛</a></p></td>
 <td></td>
 <td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>87</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="../Page/坂井真紀.md" title="wikilink">坂井真紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂井真紀" title="wikilink">坂井真紀</a></p></td>
 <td><p>Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</a></p></td>
 <td><p>3.8%</p></td>
 </tr>
@@ -870,14 +870,14 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="odd">
 <td><p>93</p></td>
 <td><p>1月21日</p></td>
-<td><p><a href="../Page/温水洋一.md" title="wikilink">温水洋一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/温水洋一" title="wikilink">温水洋一</a></p></td>
 <td></td>
 <td><p>5.5%</p></td>
 </tr>
 <tr class="even">
 <td><p>94</p></td>
 <td><p>1月28日</p></td>
-<td><p><a href="../Page/西川史子.md" title="wikilink">西川史子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西川史子" title="wikilink">西川史子</a></p></td>
 <td></td>
 <td><p>4.6%</p></td>
 </tr>
@@ -894,7 +894,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <td><p>2月11日</p></td>
 <td><p>赤西、田口、中丸：石原良純、ゆうたろう<br />
 亀梨、田中、上田：石原良純<br />
-《<a href="../Page/神之水滴.md" title="wikilink">神之水滴</a>》宣傳嘉賓：竹中直人</p></td>
+《<a href="https://zh.wikipedia.org/wiki/神之水滴" title="wikilink">神之水滴</a>》宣傳嘉賓：竹中直人</p></td>
 <td><p>Mini Stage：<a href="../Page/ONE_DROP.md" title="wikilink">ONE DROP</a>（全）</p></td>
 <td><p>3.8%</p></td>
 </tr>
@@ -967,7 +967,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>106</p></td>
 <td><p>4月22日</p></td>
-<td><p>桑波田理惠、<a href="../Page/友近.md" title="wikilink">友近</a></p></td>
+<td><p>桑波田理惠、<a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a></p></td>
 <td><p>第二章 愛是什麼？ END</p></td>
 <td><p>5.5%</p></td>
 </tr>
@@ -1015,7 +1015,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>109</p></td>
 <td><p>5月13日</p></td>
-<td><p>亀梨・田中：秋山龍次・<a href="../Page/山本博.md" title="wikilink">山本博</a>・近藤正二郎<br />
+<td><p>亀梨・田中：秋山龍次・<a href="https://zh.wikipedia.org/wiki/山本博" title="wikilink">山本博</a>・近藤正二郎<br />
 上田：馬場裕之</p></td>
 <td><p>［登山的守則１ ～ 高尾山的神秘規則］探尋之旅～米其林指南～</p></td>
 <td><p>6.7%</p></td>
@@ -1024,7 +1024,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <td><p>110</p></td>
 <td><p>5月20日</p></td>
 <td><p>赤西・中丸：中川健<br />
-田口：<a href="../Page/大澤茜.md" title="wikilink">大澤茜</a>・川口拓</p></td>
+田口：<a href="https://zh.wikipedia.org/wiki/大澤茜" title="wikilink">大澤茜</a>・川口拓</p></td>
 <td><p>［山梨縣的野營規則］探尋之旅</p></td>
 <td><p>5.1%</p></td>
 </tr>
@@ -1053,7 +1053,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="odd">
 <td><p>114</p></td>
 <td><p>6月17日</p></td>
-<td><p>亀梨：秋山龍次・<a href="../Page/山本博.md" title="wikilink">山本博</a>・田中家的長輩<br />
+<td><p>亀梨：秋山龍次・<a href="https://zh.wikipedia.org/wiki/山本博" title="wikilink">山本博</a>・田中家的長輩<br />
 田中・上田：馬場裕之・田中家的晚輩</p></td>
 <td><p>［大家族的神秘規則］探尋之旅(前篇)</p></td>
 <td><p>5.5%</p></td>
@@ -1061,7 +1061,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>115</p></td>
 <td><p>6月24日</p></td>
-<td><p>亀梨：秋山龍次・<a href="../Page/山本博.md" title="wikilink">山本博</a>・田中家的長輩<br />
+<td><p>亀梨：秋山龍次・<a href="https://zh.wikipedia.org/wiki/山本博" title="wikilink">山本博</a>・田中家的長輩<br />
 田中・上田：馬場裕之・田中家的晚輩</p></td>
 <td><p>［大家族的神秘規則］探尋之旅(後篇)</p></td>
 <td><p>5.8%</p></td>
@@ -1107,7 +1107,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>121</p></td>
 <td><p>8月5日</p></td>
-<td><p>亀梨・田中・上田：松岡修造・<a href="../Page/北陽.md" title="wikilink">北陽</a></p></td>
+<td><p>亀梨・田中・上田：松岡修造・<a href="https://zh.wikipedia.org/wiki/北陽" title="wikilink">北陽</a></p></td>
 <td><p>［松岡修造的網球規則］探尋之旅(前篇)</p></td>
 <td><p>4.9%</p></td>
 </tr>
@@ -1144,7 +1144,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <td><p>126</p></td>
 <td><p>9月9日</p></td>
 <td><p>赤西：武田修宏・白鳥純子<br />
-田口・中丸：<a href="../Page/大澤茜.md" title="wikilink">大澤茜</a></p></td>
+田口・中丸：<a href="https://zh.wikipedia.org/wiki/大澤茜" title="wikilink">大澤茜</a></p></td>
 <td><p>［都道府縣的守則1 ～ 長崎縣的特別規則］探尋之旅(前篇)</p></td>
 <td><p>3.3%</p></td>
 </tr>
@@ -1152,7 +1152,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <td><p>127</p></td>
 <td><p>9月16日</p></td>
 <td><p>赤西：武田修宏・白鳥純子<br />
-田口・中丸：<a href="../Page/大澤茜.md" title="wikilink">大澤茜</a></p></td>
+田口・中丸：<a href="https://zh.wikipedia.org/wiki/大澤茜" title="wikilink">大澤茜</a></p></td>
 <td><p>［都道府縣的守則1 ～ 長崎縣的特別規則］探尋之旅(後篇)</p></td>
 <td><p>5.2%</p></td>
 </tr>
@@ -1305,15 +1305,15 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="even">
 <td><p>146</p></td>
 <td><p>2月10日</p></td>
-<td><p>田口・田中・上田・中丸：<a href="../Page/神戸蘭子.md" title="wikilink">神戸蘭子</a>・<a href="../Page/Suzanne.md" title="wikilink">Suzanne</a>・<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a> ・金兒</p></td>
+<td><p>田口・田中・上田・中丸：<a href="https://zh.wikipedia.org/wiki/神戸蘭子" title="wikilink">神戸蘭子</a>・<a href="https://zh.wikipedia.org/wiki/Suzanne" title="wikilink">Suzanne</a>・<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a> ・金兒</p></td>
 <td><p>［冬季約會的神秘規則］探尋之旅(前篇)<br />
-新曲『<a href="../Page/Love_yourself～君が嫌いな君が好き～.md" title="wikilink">Love yourself～君が嫌いな君が好き～</a>』公告</p></td>
+新曲『<a href="https://zh.wikipedia.org/wiki/Love_yourself～君が嫌いな君が好き～" title="wikilink">Love yourself～君が嫌いな君が好き～</a>』公告</p></td>
 <td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>147</p></td>
 <td><p>2月17日</p></td>
-<td><p>田口・田中・上田・中丸：<a href="../Page/神戸蘭子.md" title="wikilink">神戸蘭子</a>・<a href="../Page/Suzanne.md" title="wikilink">Suzanne</a>・<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a> ・橫山昭江</p></td>
+<td><p>田口・田中・上田・中丸：<a href="https://zh.wikipedia.org/wiki/神戸蘭子" title="wikilink">神戸蘭子</a>・<a href="https://zh.wikipedia.org/wiki/Suzanne" title="wikilink">Suzanne</a>・<a href="../Page/柳原可奈子.md" title="wikilink">柳原可奈子</a> ・橫山昭江</p></td>
 <td><p>［冬季約會的神秘規則］探尋之旅(後篇)</p></td>
 <td><p>4.7%</p></td>
 </tr>
@@ -1341,7 +1341,7 @@ Mini Stage：<a href="../Page/White_X&#39;mas.md" title="wikilink">White X'mas</
 <tr class="odd">
 <td><p>151</p></td>
 <td><p>3月17日</p></td>
-<td><p>赤西・田口：<a href="../Page/克里斯蒂娜.md" title="wikilink">克里斯蒂娜</a>・<a href="../Page/トリンドル玲奈.md" title="wikilink">トリンドル玲奈</a>・野口洋一・田口節子</p></td>
+<td><p>赤西・田口：<a href="https://zh.wikipedia.org/wiki/克里斯蒂娜" title="wikilink">克里斯蒂娜</a>・<a href="https://zh.wikipedia.org/wiki/トリンドル玲奈" title="wikilink">トリンドル玲奈</a>・野口洋一・田口節子</p></td>
 <td><p>［老街約會的神祕規則］探尋之旅</p></td>
 <td><p>5.3%</p></td>
 </tr>

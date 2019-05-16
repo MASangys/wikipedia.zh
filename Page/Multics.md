@@ -1,10 +1,10 @@
-**Multics**，名稱來自於**多工資訊與計算系統**（）的縮寫，一套[分時多工](../Page/分時多工.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，是1964年由[貝爾實驗室](../Page/貝爾實驗室.md "wikilink")、[麻省理工學院及](../Page/麻省理工學院.md "wikilink")[美国通用电气公司所共同參與研發](../Page/美国通用电气公司.md "wikilink")，安裝在大型主機上。最后一个装有Multics的计算机已于2000年10月30日关闭。通过[UNIX](../Page/UNIX.md "wikilink")，几乎所有现代操作系统都深受Multics的影响，无论是直接
+**Multics**，名稱來自於**多工資訊與計算系統**（）的縮寫，一套[分時多工](https://zh.wikipedia.org/wiki/分時多工 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，是1964年由[貝爾實驗室](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink")、[麻省理工學院及](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")[美国通用电气公司所共同參與研發](https://zh.wikipedia.org/wiki/美国通用电气公司 "wikilink")，安裝在大型主機上。最后一个装有Multics的计算机已于2000年10月30日关闭。通过[UNIX](../Page/UNIX.md "wikilink")，几乎所有现代操作系统都深受Multics的影响，无论是直接
 ([Linux](../Page/Linux.md "wikilink"), [OS
-X](../Page/OS_X.md "wikilink"))或间接([Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink"))。
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink"))或间接([Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"))。
 
-MULTICS以[相容分時系統](../Page/相容分時系統.md "wikilink")（CTSS）做基礎，建置在美國通用電力公司的大型電腦GE-645。目的是連接1000部終端機，支援300的使用者同時上線。1969年，因MULTICS計畫的工作進度過於緩慢，最後終究遭裁撤的命運，貝爾實驗室退出此計畫。當時，[肯·汤普逊正在撰寫一個稱為](../Page/肯·汤普逊.md "wikilink")「[星際旅行](../Page/Space_Travel.md "wikilink")」（Space
-Travel）的遊戲程式。贝尔实验室退出Multics計劃後，由貝爾實驗室的兩位軟體工程師[肯·汤普逊與](../Page/肯·汤普逊.md "wikilink")[丹尼斯·里奇以](../Page/丹尼斯·里奇.md "wikilink")[C語言為基礎而發展出](../Page/C語言.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")。通用电气及麻省理工学院仍继续开发Multics，并最终成为商业产品,由[霍尼韦尔销售](../Page/霍尼韦尔.md "wikilink")。
+MULTICS以[相容分時系統](https://zh.wikipedia.org/wiki/相容分時系統 "wikilink")（CTSS）做基礎，建置在美國通用電力公司的大型電腦GE-645。目的是連接1000部終端機，支援300的使用者同時上線。1969年，因MULTICS計畫的工作進度過於緩慢，最後終究遭裁撤的命運，貝爾實驗室退出此計畫。當時，[肯·汤普逊正在撰寫一個稱為](../Page/肯·汤普逊.md "wikilink")「[星際旅行](https://zh.wikipedia.org/wiki/Space_Travel "wikilink")」（Space
+Travel）的遊戲程式。贝尔实验室退出Multics計劃後，由貝爾實驗室的兩位軟體工程師[肯·汤普逊與](../Page/肯·汤普逊.md "wikilink")[丹尼斯·里奇以](../Page/丹尼斯·里奇.md "wikilink")[C語言為基礎而發展出](https://zh.wikipedia.org/wiki/C語言 "wikilink")[UNIX](../Page/UNIX.md "wikilink")。通用电气及麻省理工学院仍继续开发Multics，并最终成为商业产品,由[霍尼韦尔销售](../Page/霍尼韦尔.md "wikilink")。
 
 ## 參考資料
 

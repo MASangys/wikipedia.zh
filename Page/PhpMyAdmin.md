@@ -64,13 +64,13 @@
 
 ## 類似軟體
 
-[phpPgAdmin是由phpMyAdmin所分支發展的軟體](../Page/phpPgAdmin.md "wikilink")，為[PostgreSQL提供相近的功能](../Page/PostgreSQL.md "wikilink")，不過程式碼已改寫過不再使用phpMyAdmin的程式碼。
+[phpPgAdmin是由phpMyAdmin所分支發展的軟體](https://zh.wikipedia.org/wiki/phpPgAdmin "wikilink")，為[PostgreSQL提供相近的功能](../Page/PostgreSQL.md "wikilink")，不過程式碼已改寫過不再使用phpMyAdmin的程式碼。
 
-[phpMSAdmin則專用於管理](../Page/phpMSAdmin.md "wikilink")[微軟的](../Page/微軟.md "wikilink")[SQL
-Server伺服器](../Page/SQL_Server.md "wikilink")。
+[phpMSAdmin則專用於管理](https://zh.wikipedia.org/wiki/phpMSAdmin "wikilink")[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[SQL
+Server伺服器](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
 
-相較於phpMyAdmin的龐大架構，[Adminer](../Page/En:Adminer.md "wikilink") (又稱
-phpMinAdmin) 以輕量化設計，用一個160KB的php檔，提供了前者大部份的功能
+相較於phpMyAdmin的龐大架構，[Adminer](https://zh.wikipedia.org/wiki/En:Adminer "wikilink")
+(又稱 phpMinAdmin) 以輕量化設計，用一個160KB的php檔，提供了前者大部份的功能
 
 ## 参考文献
 
@@ -78,7 +78,7 @@ phpMinAdmin) 以輕量化設計，用一個160KB的php檔，提供了前者大�
 
   - [phpMyAdmin官網](https://www.phpmyadmin.net)
   - [The phpMyAdmin
-    Project](../Page/sourceforge:projects/phpmyadmin/.md "wikilink")
+    Project](https://zh.wikipedia.org/wiki/sourceforge:projects/phpmyadmin/ "wikilink")
   - [Learning SQL Using
     phpMyAdmin](http://www.php-editors.com/articles/sql_phpmyadmin.php)
   - [Documentation and

@@ -1,5 +1,5 @@
-在[C和](../Page/C語言.md "wikilink")[C++程式語言中](../Page/C++.md "wikilink")，**\#include防範**，有時被稱作**巨集防範**，用於處理`#include`
-[指令時](../Page/編譯器指導指令.md "wikilink")，可避免**重複引入**的問題。在[標頭檔加入](../Page/標頭檔.md "wikilink")\#include防範是一種讓檔案[等冪的方法](../Page/等冪.md "wikilink")。
+在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++程式語言中](../Page/C++.md "wikilink")，**\#include防範**，有時被稱作**巨集防範**，用於處理`#include`
+[指令時](https://zh.wikipedia.org/wiki/編譯器指導指令 "wikilink")，可避免**重複引入**的問題。在[標頭檔加入](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")\#include防範是一種讓檔案[等冪的方法](https://zh.wikipedia.org/wiki/等冪 "wikilink")。
 
 ## 重複引入
 
@@ -32,7 +32,7 @@ struct foo {
 #include "father.h"
 ```
 
-此處**child.c**間接引入了兩份**grandfather.h**[標頭檔中的內容](../Page/標頭檔.md "wikilink")。明顯可以看出，`foo`結構被定義兩次，因此會造成編譯錯誤。
+此處**child.c**間接引入了兩份**grandfather.h**[標頭檔中的內容](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")。明顯可以看出，`foo`結構被定義兩次，因此會造成編譯錯誤。
 
 ## 使用\#include防範
 
@@ -72,10 +72,10 @@ struct foo {
 
 ## 困難
 
-為了讓**\#include防範**正確運作，每個防範都必須檢驗並且有條件地設定不同的[前置處理巨集](../Page/前置處理.md "wikilink")。因此，使用了**\#include防範**的方案必須制訂一致性的命名方法，並確定這個方法不會和其他的[標頭檔或任何可見的全域變數衝突](../Page/標頭檔.md "wikilink")。
+為了讓**\#include防範**正確運作，每個防範都必須檢驗並且有條件地設定不同的[前置處理巨集](https://zh.wikipedia.org/wiki/前置處理 "wikilink")。因此，使用了**\#include防範**的方案必須制訂一致性的命名方法，並確定這個方法不會和其他的[標頭檔或任何可見的全域變數衝突](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")。
 
 為了解決這個問題，許多C和C++程式開發工具提供非標準的指令[`#pragma``
- ``once`](../Page/pragma_once.md "wikilink")。在[標頭檔中加入這個指令](../Page/標頭檔.md "wikilink")，能夠保證這個檔案只會被引入一次。不過這個方法會被潛在性顯著的困難阻撓，無論`#include`指令是否在不同的地方，但實際上起源於相同的開頭（舉例，請參考[符號連結](../Page/符號連結.md "wikilink")）。同樣的，因為`#pragma
+ ``once`](https://zh.wikipedia.org/wiki/pragma_once "wikilink")。在[標頭檔中加入這個指令](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")，能夠保證這個檔案只會被引入一次。不過這個方法會被潛在性顯著的困難阻撓，無論`#include`指令是否在不同的地方，但實際上起源於相同的開頭（舉例，請參考[符號連結](https://zh.wikipedia.org/wiki/符號連結 "wikilink")）。同樣的，因為`#pragma
 once`不是一個標準的指令，它的語意在不同的程式開發工具中也許會有微妙的不同。
 
 ## 参考文献

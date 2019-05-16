@@ -1,5 +1,5 @@
 《**Special
-Force**》是一個具有軍事性質的[第一人稱射擊遊戲](../Page/第一人稱射擊遊戲.md "wikilink")，據宣稱是由[伊斯蘭組織](../Page/伊斯蘭教.md "wikilink")[真主黨發行](../Page/真主黨.md "wikilink")\[1\]，使用的繪圖引擎是。
+Force**》是一個具有軍事性質的[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，據宣稱是由[伊斯蘭組織](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[真主黨發行](https://zh.wikipedia.org/wiki/真主黨 "wikilink")\[1\]，使用的繪圖引擎是。
 
 ## 簡介
 
@@ -9,7 +9,7 @@ Force》讓玩家帶領一部分的伊斯蘭反抗軍，協助[黎巴嫩抵抗](
 真主黨辦公室的官員Mahmoud Rayya說：「這個遊戲是經由媒體傳達出反抗以色列佔領行動的意念，某種程度上，《Special
 Force》提供玩家包含心理的個人訓練，讓玩家感受到遊戲裡的世界只不過是相當於反抗鬥士的鞋子那麼小而已」\[3\]。
 
-遊戲的語言包含[阿拉伯語](../Page/阿拉伯語.md "wikilink")、[英語](../Page/英語.md "wikilink")、[法語和](../Page/法語.md "wikilink")[波斯語](../Page/波斯語.md "wikilink")。2003年初，遊戲在首发一週內賣出八千套\[4\]，發行的地區有[黎巴嫩](../Page/黎巴嫩.md "wikilink")、[敘利亞](../Page/敘利亞.md "wikilink")、[伊朗](../Page/伊朗.md "wikilink")、[巴林和](../Page/巴林.md "wikilink")[阿拉伯聯合大公國](../Page/阿拉伯聯合大公國.md "wikilink")。
+遊戲的語言包含[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[法語和](https://zh.wikipedia.org/wiki/法語 "wikilink")[波斯語](https://zh.wikipedia.org/wiki/波斯語 "wikilink")。2003年初，遊戲在首发一週內賣出八千套\[4\]，發行的地區有[黎巴嫩](../Page/黎巴嫩.md "wikilink")、[敘利亞](https://zh.wikipedia.org/wiki/敘利亞 "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[巴林和](../Page/巴林.md "wikilink")[阿拉伯聯合大公國](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")。
 
 ## 相關項目
 
@@ -38,7 +38,8 @@ Force》提供玩家包含心理的個人訓練，讓玩家感受到遊戲裡的
 1.
 2.  <http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=31323>
     "Hezbollah's new computer game"\].
-    *[WorldNetDaily](../Page/WorldNetDaily.md "wikilink")*, [March
-    3](../Page/March_3.md "wikilink"), 2003. Accessed March 24, 2007.
+    *[WorldNetDaily](https://zh.wikipedia.org/wiki/WorldNetDaily "wikilink")*,
+    [March 3](https://zh.wikipedia.org/wiki/March_3 "wikilink"), 2003.
+    Accessed March 24, 2007.
 3.
 4.

@@ -1,35 +1,41 @@
-[Adobe产品列表](../Page/Adobe_Systems.md "wikilink")。
+[Adobe产品列表](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")。
 
 ## 目前
 
   - [Acrobat](../Page/Adobe_Acrobat.md "wikilink") 家族
-      - [Acrobat Capture](../Page/Adobe_Acrobat_Capture.md "wikilink")
-      - [Acrobat Connect](../Page/Adobe_Acrobat_Connect.md "wikilink")
-        *(前為 Macromedia Breeze)*
-          - [Presenter](../Page/Adobe_Presenter.md "wikilink")
       - [Acrobat
-        Distiller](../Page/Adobe_Acrobat_Distiller.md "wikilink")
-      - [Reader](../Page/Adobe_Reader.md "wikilink")
+        Capture](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Capture "wikilink")
+      - [Acrobat
+        Connect](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Connect "wikilink")
+        *(前為 Macromedia Breeze)*
+          - [Presenter](https://zh.wikipedia.org/wiki/Adobe_Presenter "wikilink")
+      - [Acrobat
+        Distiller](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Distiller "wikilink")
+      - [Reader](https://zh.wikipedia.org/wiki/Adobe_Reader "wikilink")
   - [Audition](../Page/Adobe_Audition.md "wikilink") *(前為 Cool Edit
     Pro)*
   - [Bridge](../Page/Adobe_Bridge.md "wikilink")
-  - [Captivate](../Page/Adobe_Captivate.md "wikilink") *(前為 RoboDemo)*
+  - [Captivate](https://zh.wikipedia.org/wiki/Adobe_Captivate "wikilink")
+    *(前為 RoboDemo)*
   - [Central Output
-    Server](../Page/Adobe_Central_Output_Server.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/Adobe_Central_Output_Server "wikilink")
   - [ColdFusion](../Page/Adobe_ColdFusion.md "wikilink")
   - [Content Server](../Page/Adobe_Content_Server.md "wikilink")
   - [Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink")
       - [Animate](../Page/Adobe_Animate.md "wikilink")
-      - [Acrobat Connect](../Page/Adobe_Acrobat_Connect.md "wikilink")
+      - [Acrobat
+        Connect](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Connect "wikilink")
       - [After Effects](../Page/Adobe_After_Effects.md "wikilink")
       - [Bridge](../Page/Adobe_Bridge.md "wikilink")
       - [Contribute](../Page/Adobe_Contribute.md "wikilink")
-      - [Device Central](../Page/Adobe_Device_Central.md "wikilink")
+      - [Device
+        Central](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink")
       - [Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink")
-      - [Dynamic Link](../Page/Adobe_Dynamic_Link.md "wikilink")
-      - [Encore](../Page/Adobe_Encore.md "wikilink")
+      - [Dynamic
+        Link](https://zh.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")
+      - [Encore](https://zh.wikipedia.org/wiki/Adobe_Encore "wikilink")
       - [Experience
-        Design](../Page/Adobe_Experience_Design.md "wikilink")
+        Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
       - [Fireworks](../Page/Adobe_Fireworks.md "wikilink")
       - [Illustrator](../Page/Adobe_Illustrator.md "wikilink")
       - [InDesign](../Page/Adobe_InDesign.md "wikilink")
@@ -37,43 +43,55 @@
         Serious Magic DV Rack)*
       - [Photoshop](../Page/Adobe_Photoshop.md "wikilink")
       - [Premiere Pro](../Page/Adobe_Premiere_Pro.md "wikilink")
-      - [Version Cue](../Page/Adobe_Version_Cue.md "wikilink")
+      - [Version
+        Cue](https://zh.wikipedia.org/wiki/Adobe_Version_Cue "wikilink")
       - [Audition](../Page/Adobe_Audition.md "wikilink")
-  - [Digital Editions](../Page/Adobe_Digital_Editions.md "wikilink")
   - [Digital
-    Negative](../Page/Digital_Negative_\(file_format\).md "wikilink")
+    Editions](https://zh.wikipedia.org/wiki/Adobe_Digital_Editions "wikilink")
+  - [Digital
+    Negative](https://zh.wikipedia.org/wiki/Digital_Negative_\(file_format\) "wikilink")
   - [Director](../Page/Adobe_Director.md "wikilink")
-  - [DNG Converter](../Page/Adobe_DNG_Converter.md "wikilink")
-  - [Document Server](../Page/Adobe_Document_Server.md "wikilink")
+  - [DNG
+    Converter](https://zh.wikipedia.org/wiki/Adobe_DNG_Converter "wikilink")
+  - [Document
+    Server](https://zh.wikipedia.org/wiki/Adobe_Document_Server "wikilink")
   - [Document Policy
-    Server](../Page/Adobe_Document_Policy_Server.md "wikilink")
-  - [eBook Reader](../Page/Adobe_eBook_Reader.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/Adobe_Document_Policy_Server "wikilink")
+  - [eBook
+    Reader](https://zh.wikipedia.org/wiki/Adobe_eBook_Reader "wikilink")
   - [Engagement
-    Platform](../Page/Adobe_Engagement_Platform.md "wikilink")
+    Platform](https://zh.wikipedia.org/wiki/Adobe_Engagement_Platform "wikilink")
   - [eLearning Suite](../Page/Adobe_eLearning_Suite.md "wikilink")
       - [Acrobat](../Page/Adobe_Acrobat.md "wikilink")
       - [Bridge](../Page/Adobe_Bridge.md "wikilink")
-      - [Captivate](../Page/Adobe_Captivate.md "wikilink")
-      - [Device Central](../Page/Adobe_Device_Central.md "wikilink")
+      - [Captivate](https://zh.wikipedia.org/wiki/Adobe_Captivate "wikilink")
+      - [Device
+        Central](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink")
       - [Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink")
       - [Flash](../Page/Adobe_Flash.md "wikilink")
       - [Photoshop](../Page/Adobe_Photoshop.md "wikilink")
-      - [Presenter](../Page/Adobe_Presenter.md "wikilink")
-      - [FDK](../Page/Adobe_FDK.md "wikilink")
+      - [Presenter](https://zh.wikipedia.org/wiki/Adobe_Presenter "wikilink")
+      - [FDK](https://zh.wikipedia.org/wiki/Adobe_FDK "wikilink")
   - [Flash](../Page/Adobe_Flash.md "wikilink") 家族
-      - [Flash Cast](../Page/Adobe_Flash_Cast.md "wikilink")
-      - [Flash Catalyst](../Page/Adobe_Flash_Catalyst.md "wikilink")
-      - [Flash Lite](../Page/Adobe_Flash_Lite.md "wikilink")
+      - [Flash
+        Cast](https://zh.wikipedia.org/wiki/Adobe_Flash_Cast "wikilink")
+      - [Flash
+        Catalyst](https://zh.wikipedia.org/wiki/Adobe_Flash_Catalyst "wikilink")
+      - [Flash
+        Lite](https://zh.wikipedia.org/wiki/Adobe_Flash_Lite "wikilink")
       - [Flash Media
-        Server](../Page/Adobe_Flash_Media_Server.md "wikilink")
+        Server](https://zh.wikipedia.org/wiki/Adobe_Flash_Media_Server "wikilink")
       - [Flash Player](../Page/Adobe_Flash_Player.md "wikilink")
-  - [Flex](../Page/Adobe_Flex.md "wikilink")
-  - [Font Folio](../Page/Adobe_Font_Folio.md "wikilink")
+  - [Flex](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")
+  - [Font
+    Folio](https://zh.wikipedia.org/wiki/Adobe_Font_Folio "wikilink")
   - [InCopy](../Page/Adobe_InCopy.md "wikilink")
-  - [Integrated Runtime](../Page/Adobe_Integrated_Runtime.md "wikilink")
+  - [Integrated
+    Runtime](https://zh.wikipedia.org/wiki/Adobe_Integrated_Runtime "wikilink")
     *(或簡稱 **AIR**)*
-  - [Kuler](../Page/Adobe_Kuler.md "wikilink")
-  - [LiveCycle](../Page/Adobe_LiveCycle.md "wikilink") 家族
+  - [Kuler](https://zh.wikipedia.org/wiki/Adobe_Kuler "wikilink")
+  - [LiveCycle](https://zh.wikipedia.org/wiki/Adobe_LiveCycle "wikilink")
+    家族
       - Assembler
       - Barcoded Forms
       - Designer
@@ -85,8 +103,10 @@
       - Reader Extensions
       - Security Server
   - [Media Player](../Page/Adobe_Media_Player.md "wikilink")
-  - [Output Designer](../Page/Adobe_Output_Designer.md "wikilink")
-  - [PDF JobReady](../Page/Adobe_PDF_JobReady.md "wikilink")
+  - [Output
+    Designer](https://zh.wikipedia.org/wiki/Adobe_Output_Designer "wikilink")
+  - [PDF
+    JobReady](https://zh.wikipedia.org/wiki/Adobe_PDF_JobReady "wikilink")
   - [Photoshop](../Page/Adobe_Photoshop.md "wikilink") 家族
       - [Photoshop
         Elements](../Page/Adobe_Photoshop_Elements.md "wikilink")
@@ -94,84 +114,125 @@
         Express](../Page/Adobe_Photoshop_Express.md "wikilink")
       - [Photoshop
         Lightroom](../Page/Adobe_Photoshop_Lightroom.md "wikilink")
-  - [Premiere Elements](../Page/Adobe_Premiere_Elements.md "wikilink")
+  - [Premiere
+    Elements](https://zh.wikipedia.org/wiki/Adobe_Premiere_Elements "wikilink")
   - [Shockwave](../Page/Adobe_Shockwave.md "wikilink")
-  - [Source Libraries](../Page/Adobe_Source_Libraries.md "wikilink")
+  - [Source
+    Libraries](https://zh.wikipedia.org/wiki/Adobe_Source_Libraries "wikilink")
   - [Visual
-    Communicator](../Page/Adobe_Visual_Communicator.md "wikilink")
+    Communicator](https://zh.wikipedia.org/wiki/Adobe_Visual_Communicator "wikilink")
   - [Technical Communication
-    Suite](../Page/Adobe_Technical_Communication_Suite.md "wikilink")
+    Suite](https://zh.wikipedia.org/wiki/Adobe_Technical_Communication_Suite "wikilink")
       - [Acrobat](../Page/Adobe_Acrobat.md "wikilink")
-      - [Captivate](../Page/Adobe_Captivate.md "wikilink")
-      - [FrameMaker](../Page/Adobe_FrameMaker.md "wikilink")
-      - [RoboHelp](../Page/Adobe_RoboHelp.md "wikilink")
-  - [Type](../Page/Adobe_Type.md "wikilink")
-  - [Web Output Pack](../Page/Adobe_Web_Output_Pack.md "wikilink")
-  - [Serious Magic Ovation](../Page/Serious_Magic_Ovation.md "wikilink")
+      - [Captivate](https://zh.wikipedia.org/wiki/Adobe_Captivate "wikilink")
+      - [FrameMaker](https://zh.wikipedia.org/wiki/Adobe_FrameMaker "wikilink")
+      - [RoboHelp](https://zh.wikipedia.org/wiki/Adobe_RoboHelp "wikilink")
+  - [Type](https://zh.wikipedia.org/wiki/Adobe_Type "wikilink")
+  - [Web Output
+    Pack](https://zh.wikipedia.org/wiki/Adobe_Web_Output_Pack "wikilink")
+  - [Serious Magic
+    Ovation](https://zh.wikipedia.org/wiki/Serious_Magic_Ovation "wikilink")
   - [Serious Magic Vlog
-    It\!](../Page/Serious_Magic_Vlog_It!.md "wikilink")
+    It\!](https://zh.wikipedia.org/wiki/Serious_Magic_Vlog_It! "wikilink")
 
 ## 中止
 
 ### 销售和开发
 
-  - [Adobe ActiveShare](../Page/Adobe_ActiveShare.md "wikilink")
-  - [Adobe Atmosphere](../Page/Adobe_Atmosphere.md "wikilink")
-  - [Adobe Dimensions](../Page/Adobe_Dimensions.md "wikilink")
+  - [Adobe
+    ActiveShare](https://zh.wikipedia.org/wiki/Adobe_ActiveShare "wikilink")
+  - [Adobe
+    Atmosphere](https://zh.wikipedia.org/wiki/Adobe_Atmosphere "wikilink")
+  - [Adobe
+    Dimensions](https://zh.wikipedia.org/wiki/Adobe_Dimensions "wikilink")
   - [Adobe GoLive](../Page/Adobe_GoLive.md "wikilink")
   - [Adobe FreeHand](../Page/Adobe_FreeHand.md "wikilink")
-  - [Adobe ImageReady](../Page/Adobe_ImageReady.md "wikilink")
-  - [Adobe ImageStyler](../Page/Adobe_ImageStyler.md "wikilink")
-  - [Adobe InProduction](../Page/Adobe_InProduction.md "wikilink")
-  - [Adobe License Manager](../Page/Adobe_License_Manager.md "wikilink")
-  - [Adobe LiveMotion](../Page/Adobe_LiveMotion.md "wikilink")
+  - [Adobe
+    ImageReady](https://zh.wikipedia.org/wiki/Adobe_ImageReady "wikilink")
+  - [Adobe
+    ImageStyler](https://zh.wikipedia.org/wiki/Adobe_ImageStyler "wikilink")
+  - [Adobe
+    InProduction](https://zh.wikipedia.org/wiki/Adobe_InProduction "wikilink")
+  - [Adobe License
+    Manager](https://zh.wikipedia.org/wiki/Adobe_License_Manager "wikilink")
+  - [Adobe
+    LiveMotion](https://zh.wikipedia.org/wiki/Adobe_LiveMotion "wikilink")
   - [Adobe PageMaker](../Page/Adobe_PageMaker.md "wikilink")
-  - [Adobe PageMill](../Page/Adobe_PageMill.md "wikilink")
-  - [Adobe Persuasion](../Page/Adobe_Persuasion.md "wikilink")
-  - [Adobe PhotoDeluxe](../Page/Adobe_PhotoDeluxe.md "wikilink")
-  - [Adobe Photoshop Album](../Page/Adobe_Photoshop_Album.md "wikilink")
-  - [Adobe PressReady](../Page/Adobe_PressReady.md "wikilink")
-  - [Adobe PressWise](../Page/Adobe_PressWise.md "wikilink")
-  - [Adobe ScreenReady](../Page/Adobe_ScreenReady.md "wikilink")
-  - [Adobe SiteMill](../Page/Adobe_SiteMill.md "wikilink")
-  - [Adobe Stock Photos](../Page/Adobe_Stock_Photos.md "wikilink")
-  - [Adobe Streamline](../Page/Adobe_Streamline.md "wikilink")
-  - [Adobe Texture Maker](../Page/Adobe_Texture_Maker.md "wikilink")
-  - [Adobe Transcript](../Page/Adobe_Transcript.md "wikilink")
-  - [Adobe TrapWise](../Page/Adobe_TrapWise.md "wikilink")
-  - [Adobe Type Manager](../Page/Adobe_Type_Manager.md "wikilink")
-  - [Adobe TypeAlign](../Page/Adobe_TypeAlign.md "wikilink")
-  - [Macromedia Central](../Page/Macromedia_Central.md "wikilink")
-  - [Adobe Soundboth](../Page/Adobe_Soundboth.md "wikilink")
-  - [Experience Cloud](../Page/Experience_Cloud.md "wikilink")
-      - [Adobe Analytics](../Page/Adobe_Analytics.md "wikilink")
+  - [Adobe
+    PageMill](https://zh.wikipedia.org/wiki/Adobe_PageMill "wikilink")
+  - [Adobe
+    Persuasion](https://zh.wikipedia.org/wiki/Adobe_Persuasion "wikilink")
+  - [Adobe
+    PhotoDeluxe](https://zh.wikipedia.org/wiki/Adobe_PhotoDeluxe "wikilink")
+  - [Adobe Photoshop
+    Album](https://zh.wikipedia.org/wiki/Adobe_Photoshop_Album "wikilink")
+  - [Adobe
+    PressReady](https://zh.wikipedia.org/wiki/Adobe_PressReady "wikilink")
+  - [Adobe
+    PressWise](https://zh.wikipedia.org/wiki/Adobe_PressWise "wikilink")
+  - [Adobe
+    ScreenReady](https://zh.wikipedia.org/wiki/Adobe_ScreenReady "wikilink")
+  - [Adobe
+    SiteMill](https://zh.wikipedia.org/wiki/Adobe_SiteMill "wikilink")
+  - [Adobe Stock
+    Photos](https://zh.wikipedia.org/wiki/Adobe_Stock_Photos "wikilink")
+  - [Adobe
+    Streamline](https://zh.wikipedia.org/wiki/Adobe_Streamline "wikilink")
+  - [Adobe Texture
+    Maker](https://zh.wikipedia.org/wiki/Adobe_Texture_Maker "wikilink")
+  - [Adobe
+    Transcript](https://zh.wikipedia.org/wiki/Adobe_Transcript "wikilink")
+  - [Adobe
+    TrapWise](https://zh.wikipedia.org/wiki/Adobe_TrapWise "wikilink")
+  - [Adobe Type
+    Manager](https://zh.wikipedia.org/wiki/Adobe_Type_Manager "wikilink")
+  - [Adobe
+    TypeAlign](https://zh.wikipedia.org/wiki/Adobe_TypeAlign "wikilink")
+  - [Macromedia
+    Central](https://zh.wikipedia.org/wiki/Macromedia_Central "wikilink")
+  - [Adobe
+    Soundboth](https://zh.wikipedia.org/wiki/Adobe_Soundboth "wikilink")
+  - [Experience
+    Cloud](https://zh.wikipedia.org/wiki/Experience_Cloud "wikilink")
+      - [Adobe
+        Analytics](https://zh.wikipedia.org/wiki/Adobe_Analytics "wikilink")
       - [Adobe Audience
-        Manager](../Page/Adobe_Audience_Manager.md "wikilink")
-      - [Adobe Campaign](../Page/Adobe_Campaign.md "wikilink")
+        Manager](https://zh.wikipedia.org/wiki/Adobe_Audience_Manager "wikilink")
+      - [Adobe
+        Campaign](https://zh.wikipedia.org/wiki/Adobe_Campaign "wikilink")
       - [Adobe Experience
-        Manage](../Page/Adobe_Experience_Manage.md "wikilink")
+        Manage](https://zh.wikipedia.org/wiki/Adobe_Experience_Manage "wikilink")
       - [Adobe Media
-        Optimizer](../Page/Adobe_Media_Optimizer.md "wikilink")
-      - [Adobe Primetime](../Page/Adobe_Primetime.md "wikilink")
-      - [Adobe Social](../Page/Adobe_Social.md "wikilink")
-      - [Adobe Target](../Page/Adobe_Target.md "wikilink")
-  - [Adobe Document Cloud](../Page/Adobe_Document_Cloud.md "wikilink")
+        Optimizer](https://zh.wikipedia.org/wiki/Adobe_Media_Optimizer "wikilink")
+      - [Adobe
+        Primetime](https://zh.wikipedia.org/wiki/Adobe_Primetime "wikilink")
+      - [Adobe
+        Social](https://zh.wikipedia.org/wiki/Adobe_Social "wikilink")
+      - [Adobe
+        Target](https://zh.wikipedia.org/wiki/Adobe_Target "wikilink")
+  - [Adobe Document
+    Cloud](https://zh.wikipedia.org/wiki/Adobe_Document_Cloud "wikilink")
       - [Adobe Acrobat Reader
-        DC](../Page/Adobe_Acrobat_Reader_DC.md "wikilink")
-      - [Acrobat Pro DC](../Page/Acrobat_Pro_DC.md "wikilink")
-      - [Adobe Sign](../Page/Adobe_Sign.md "wikilink")
+        DC](https://zh.wikipedia.org/wiki/Adobe_Acrobat_Reader_DC "wikilink")
+      - [Acrobat Pro
+        DC](https://zh.wikipedia.org/wiki/Acrobat_Pro_DC "wikilink")
+      - [Adobe
+        Sign](https://zh.wikipedia.org/wiki/Adobe_Sign "wikilink")
   - [Adobe Fireworks](../Page/Adobe_Fireworks.md "wikilink")
-  - [Adobe Captivate](../Page/Adobe_Captivate.md "wikilink")
+  - [Adobe
+    Captivate](https://zh.wikipedia.org/wiki/Adobe_Captivate "wikilink")
   - [Adobe Captivate Prime
-    LMS](../Page/Adobe_Captivate_Prime_LMS.md "wikilink")
+    LMS](https://zh.wikipedia.org/wiki/Adobe_Captivate_Prime_LMS "wikilink")
   - [Adobe Presenter Video
-    Express](../Page/Adobe_Presenter_Video_Express.md "wikilink")
+    Express](https://zh.wikipedia.org/wiki/Adobe_Presenter_Video_Express "wikilink")
 
 ### 仅开发
 
   - [Authorware](../Page/Authorware.md "wikilink")
-  - [Adobe SVG Viewer](../Page/Adobe_SVG_Viewer.md "wikilink")
-  - [Macromedia HomeSite](../Page/Macromedia_HomeSite.md "wikilink")
+  - [Adobe SVG
+    Viewer](https://zh.wikipedia.org/wiki/Adobe_SVG_Viewer "wikilink")
+  - [Macromedia
+    HomeSite](https://zh.wikipedia.org/wiki/Macromedia_HomeSite "wikilink")
 
 [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
 [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")

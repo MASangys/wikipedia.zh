@@ -1,9 +1,9 @@
 **MICRO
-TYPE-R**（****）為[光岡汽車所推出的仿古典作品車系](../Page/光岡汽車.md "wikilink")。車輛設計以1930年代的[一級方程式賽車為藍本](../Page/一級方程式賽車.md "wikilink")。
+TYPE-R**（****）為[光岡汽車所推出的仿古典作品車系](../Page/光岡汽車.md "wikilink")。車輛設計以1930年代的[一級方程式賽車為藍本](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")。
 
 ## 車輛歷史
 
-2006年10月2日，[光岡汽車在](../Page/光岡汽車.md "wikilink")[東京](../Page/東京.md "wikilink")[六本木新城露天廣場舉行](../Page/六本木新城.md "wikilink")「[Orochi](../Page/光岡Orochi.md "wikilink")」（；大蛇）的預售發表會之前，首次現身的微型車輛「MICRO
+2006年10月2日，[光岡汽車在](../Page/光岡汽車.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[六本木新城露天廣場舉行](../Page/六本木新城.md "wikilink")「[Orochi](https://zh.wikipedia.org/wiki/光岡Orochi "wikilink")」（；大蛇）的預售發表會之前，首次現身的微型車輛「MICRO
 TYPE-R」、套件車輛「[K-4](../Page/光岡K-4.md "wikilink")」。現場披露「MICRO
 TYPE-R」、「[K-4](../Page/光岡K-4.md "wikilink")」將於春季發售\[1\]。
 

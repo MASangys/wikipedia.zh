@@ -3,13 +3,14 @@
 
 ## 背景及銷售情況
 
-2001年，在發行原創專輯《[Duty](../Page/Duty.md "wikilink")》後的濱崎步正處於歌手生涯的巔峰，當時所發行的單曲或專輯銷量多能攻佔[公信榜首位](../Page/公信榜.md "wikilink")，輕鬆獲得百萬以上的銷量，[愛貝克思趁勢計畫推出她的第一張精選輯](../Page/愛貝克思.md "wikilink")。
+2001年，在發行原創專輯《[Duty](../Page/Duty.md "wikilink")》後的濱崎步正處於歌手生涯的巔峰，當時所發行的單曲或專輯銷量多能攻佔[公信榜首位](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，輕鬆獲得百萬以上的銷量，[愛貝克思趁勢計畫推出她的第一張精選輯](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")。
 
 3月，澀谷的街道上懸掛起《A
 BEST》的宣傳照以及濱崎步流淚的肖像。為了這張精選輯的宣傳活動，她大量的曝光於雜誌封面，架上陳列一整櫃都是以她為封面的雜誌。
 
-而此時，與濱崎步同樣人氣高漲的另外一位女歌手[宇多田光亦準備發行其個人專輯](../Page/宇多田光.md "wikilink")《[Distance](../Page/Distance.md "wikilink")》。儘管其音樂風格以[節奏藍調為主](../Page/節奏藍調.md "wikilink")，與濱崎步的[日本流行音樂定位不同](../Page/日本流行音樂.md "wikilink")，但兩位同為紅極21世紀初的女歌手，而分別的兩張專輯發行日期都訂於同一日：2001年3月28日－－使「歌姬對決」的話題大肆蔓延。發行前，唱片行中已經貼滿形成強烈對比的黑灰色與綠色宣傳海報，雙方皆大量的放送廣告以及音樂錄影帶。距離發行的前五日，濱崎步精選輯不同的七個廣告開始依序強打，並且倒數3月28日的「銷售戰」，廣告結尾中的「[avex
-trax](../Page/avex_trax.md "wikilink")」商標亦被改成「A BEST」加強印象。
+而此時，與濱崎步同樣人氣高漲的另外一位女歌手[宇多田光亦準備發行其個人專輯](../Page/宇多田光.md "wikilink")《[Distance](../Page/Distance.md "wikilink")》。儘管其音樂風格以[節奏藍調為主](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")，與濱崎步的[日本流行音樂定位不同](../Page/日本流行音樂.md "wikilink")，但兩位同為紅極21世紀初的女歌手，而分別的兩張專輯發行日期都訂於同一日：2001年3月28日－－使「歌姬對決」的話題大肆蔓延。發行前，唱片行中已經貼滿形成強烈對比的黑灰色與綠色宣傳海報，雙方皆大量的放送廣告以及音樂錄影帶。距離發行的前五日，濱崎步精選輯不同的七個廣告開始依序強打，並且倒數3月28日的「銷售戰」，廣告結尾中的「[avex
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")」商標亦被改成「A
+BEST」加強印象。
 
 第一周的銷售結果，濱崎步《A
 BEST》以287萬的銷量稍微落後宇多田光的《Distance》300萬張，次週濱崎步則以51萬反勝宇多田光，之後幾十周的互相拉鋸，兩張專輯皆超越了400萬，躋身日本史上銷售量的前十位\[1\]。
@@ -26,7 +27,7 @@ roll〉四首歌曲。所有的歌曲亦經過了母帶重新後製（Remaster�
 ## 十五週年紀念版
 
 本作發行後於十五週年，再次於2016年3月28日發行紀念版《A BEST -15th Anniversary
-Edition-》，歌曲全部由來自[洛杉磯的首席錄音工程師Stephen](../Page/洛杉磯.md "wikilink")
+Edition-》，歌曲全部由來自[洛杉磯的首席錄音工程師Stephen](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
 Marcussen進行重新混制。3月25日，〈A Song for ××〉、〈Trust〉、〈Depend on
 you〉三首歌曲的清唱版率先以數位下載形式發行。
 
@@ -43,7 +44,7 @@ you〉三首歌曲的清唱版率先以數位下載形式發行。
 
 ## 參考資料
 
-[分類:精選輯](../Page/分類:精選輯.md "wikilink")
+[分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
 [Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
 [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")

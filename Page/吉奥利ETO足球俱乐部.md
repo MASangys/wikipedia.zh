@@ -6,23 +6,24 @@ Liga）。
 
 ## 知名球员
 
-  - [吉尤拉·哈伊赞](../Page/吉尤拉·哈伊赞.md "wikilink")
+  - [吉尤拉·哈伊赞](https://zh.wikipedia.org/wiki/吉尤拉·哈伊赞 "wikilink")
 
-  - [彼得·维尔梅斯](../Page/彼得·维尔梅斯.md "wikilink")
+  - [彼得·维尔梅斯](https://zh.wikipedia.org/wiki/彼得·维尔梅斯 "wikilink")
 
-  - [瓦西利·米柳塔](../Page/瓦西利·米柳塔.md "wikilink")
+  - [瓦西利·米柳塔](https://zh.wikipedia.org/wiki/瓦西利·米柳塔 "wikilink")
 
-  - [米科洛斯·菲赫尔](../Page/米科洛斯·菲赫尔.md "wikilink")
+  - [米科洛斯·菲赫尔](https://zh.wikipedia.org/wiki/米科洛斯·菲赫尔 "wikilink")
 
-  - [托马斯·布里斯金](../Page/托马斯·布里斯金.md "wikilink")
+  - [托马斯·布里斯金](https://zh.wikipedia.org/wiki/托马斯·布里斯金 "wikilink")
 
 ## 球队荣誉
 
-  - **[匈牙利足球甲級聯賽冠军](../Page/匈牙利足球甲級聯賽.md "wikilink"): 3次**
+  - **[匈牙利足球甲級聯賽冠军](https://zh.wikipedia.org/wiki/匈牙利足球甲級聯賽 "wikilink"):
+    3次**
       - 1963年, 1982年, 1983年
   - **[匈牙利盃](../Page/匈牙利盃.md "wikilink"): 4次**
       - 1965年, 1966年, 1967年, 1979年
-  - **[歐洲冠軍聯賽](../Page/歐洲冠軍聯賽.md "wikilink")**
+  - **[歐洲冠軍聯賽](https://zh.wikipedia.org/wiki/歐洲冠軍聯賽 "wikilink")**
       - *準决赛*: 1965年 **1次**
 
 ## 外部链接

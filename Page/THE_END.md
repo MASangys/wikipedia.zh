@@ -28,7 +28,8 @@ NAKASHIMA這個角色的最初與最後登場。
 2.  **[EYES FOR THE MOON](../Page/一色.md "wikilink")**
       - 作詞・作曲：TAKURO、編曲：TAKURO・Masahide Sakuma
 3.  **[GLAMOROUS SKY](../Page/GLAMOROUS_SKY.md "wikilink")**
-      - 作詞：AI YAZAWA、作曲：[HYDE](../Page/hyde.md "wikilink")、編曲：HYDE・KAZ
+      - 作詞：AI
+        YAZAWA、作曲：[HYDE](https://zh.wikipedia.org/wiki/hyde "wikilink")、編曲：HYDE・KAZ
     <!-- end list -->
       -
         電影「[NANA](../Page/NANA.md "wikilink")」主題曲

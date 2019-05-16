@@ -1,16 +1,17 @@
 **ALI
-PROJECT**（）是一個日本[樂團](../Page/樂團.md "wikilink")，相對於日本流行音樂中來說較為另類。通稱ALI
+PROJECT**（）是一個日本[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，相對於日本流行音樂中來說較為另類。通稱ALI
 PRO（）。
 
 ## 成員
 
-  - [寶野亞莉華](../Page/寶野アリカ.md "wikilink")（（））：擔任[主唱](../Page/主唱.md "wikilink")、[作詞](../Page/作詞.md "wikilink")　　
-  - [片倉三起也](../Page/片倉三起也.md "wikilink")（）：擔任[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")
+  - [寶野亞莉華](https://zh.wikipedia.org/wiki/寶野アリカ "wikilink")（（））：擔任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")　　
+  - [片倉三起也](https://zh.wikipedia.org/wiki/片倉三起也 "wikilink")（）：擔任[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
 
 ## 概要
 
   - 最初用「蟻PROJECT（）」作個人登台。1992年改名為「ALI PROJECT（）」直至現在。
-  - 以[哥德蘿莉](../Page/哥德蘿莉.md "wikilink")（Gothic & Lolita）的風格令人注目。
+  - 以[哥德蘿莉](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")（Gothic &
+    Lolita）的風格令人注目。
   - 當初登台時曲風是以輕快的歌曲為重心，現在則以黑暗系歌曲為重心。寶野認為初期的是「白ALI（）」，現在的是「黑ALI（）」。
   - 音樂的曲調以「[增二度](../Page/增二度.md "wikilink")」為主，令人感覺強調銳角的旋律語法，是其特色之一。
 
@@ -23,7 +24,7 @@ PRO（）。
 
   -
     c/w　
-    1988年7月25日／[POLYDOR](../Page/POLYDOR.md "wikilink")
+    1988年7月25日／[POLYDOR](https://zh.wikipedia.org/wiki/POLYDOR "wikilink")
 
 <!-- end list -->
 
@@ -69,7 +70,7 @@ PRO（）。
   -
     c/w　Only Love Song
     1996年7月1日／
-    [電影](../Page/電影.md "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")
+    [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")
 
 <!-- end list -->
 
@@ -90,7 +91,7 @@ PRO（）。
   -
     c/w　
     1997年5月21日／
-    [動畫](../Page/動畫.md "wikilink")《[CLAMP学園偵探團](../Page/CLAMP学園偵探團.md "wikilink")》主題曲和印象曲
+    [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[CLAMP学園偵探團](https://zh.wikipedia.org/wiki/CLAMP学園偵探團 "wikilink")》主題曲和印象曲
 
 <!-- end list -->
 
@@ -100,7 +101,7 @@ PRO（）。
 
   -
     c/w　
-    1998年10月21日／[哥倫比亞音樂娛樂](../Page/哥倫比亞音樂娛樂.md "wikilink")
+    1998年10月21日／[哥倫比亞音樂娛樂](https://zh.wikipedia.org/wiki/哥倫比亞音樂娛樂 "wikilink")
     動畫《》片尾曲
 
 <!-- end list -->
@@ -112,7 +113,7 @@ PRO（）。
   -
     c/w　apre le noir
     2001年5月23日／
-    動畫《[Noir](../Page/Noir.md "wikilink")》主題曲
+    動畫《[Noir](https://zh.wikipedia.org/wiki/Noir "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -122,7 +123,8 @@ PRO（）。
 
   -
     c/w　（Original Album Version）
-    2001年9月21日／[PRYAID RECORDS](../Page/PRYAID_RECORDS.md "wikilink")
+    2001年9月21日／[PRYAID
+    RECORDS](https://zh.wikipedia.org/wiki/PRYAID_RECORDS "wikilink")
 
 <!-- end list -->
 
@@ -132,7 +134,7 @@ PRO（）。
   -
     c/w　
     2003年11月5日／
-    動畫《[Avenger](../Page/Avenger.md "wikilink")》主題曲和片尾曲
+    動畫《[Avenger](https://zh.wikipedia.org/wiki/Avenger "wikilink")》主題曲和片尾曲
 
 <!-- end list -->
 
@@ -143,7 +145,7 @@ PRO（）。
   -
     c/w　pastel pure（Piano Version）
     2004年8月25日／[Frontier Works](../Page/Frontier_Works.md "wikilink")
-    動畫《[瑪莉亞的凝望～春～](../Page/瑪莉亞的凝望.md "wikilink")》主題曲
+    動畫《[瑪莉亞的凝望～春～](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -152,7 +154,8 @@ PRO（）。
 
   -
     c/w　
-    2004年10月22日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2004年10月22日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[薔薇少女](../Page/薔薇少女.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -163,7 +166,8 @@ PRO（）。
 
   -
     c/w　
-    2005年6月8日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2005年6月8日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     PS2遊戲《[舞-HiME 命運的系統樹](../Page/舞-HiME.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -174,7 +178,8 @@ PRO（）。
 
   -
     c/w　
-    2005年10月26日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2005年10月26日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[薔薇少女 ～夢見～](../Page/薔薇少女.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -185,7 +190,7 @@ PRO（）。
   -
     c/w　水月鏡花
     2006年5月24日／
-    動畫《[.hack//Roots](../Page/.hack/Roots.md "wikilink")》片尾曲
+    動畫《[.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -196,7 +201,8 @@ PRO（）。
   -
     c/w　鎮魂頌
     2006年10月25日／
-    動畫《[Code Geass 反叛的魯路修](../Page/Code_Geass_反叛的魯路修.md "wikilink")》片尾曲
+    動畫《[Code Geass
+    反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -206,7 +212,8 @@ PRO（）。
 
   -
     c/w　極楽荊姫
-    2006年12月6日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2006年12月6日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[薔薇少女～序曲～](../Page/薔薇少女.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -217,8 +224,9 @@ PRO（）。
 
   -
     c/w　桃色天国
-    2007年5月23日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
-    動畫《[小女神花鈴](../Page/小女神花鈴.md "wikilink")》主題曲
+    2007年5月23日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
+    動畫《[小女神花鈴](https://zh.wikipedia.org/wiki/小女神花鈴 "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -228,7 +236,8 @@ PRO（）。
 
   -
     c/w　最愛なる魔王さま
-    2007年6月13日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2007年6月13日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[怪物王女](../Page/怪物王女.md "wikilink")》片尾曲
 
 <!-- end list -->
@@ -239,8 +248,9 @@ PRO（）。
 
   -
     c/w　コヒブミ
-    2008年1月23日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
-    動畫《[死後文](../Page/死後文.md "wikilink")》主題曲
+    2008年1月23日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
+    動畫《[死後文](https://zh.wikipedia.org/wiki/死後文 "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -252,7 +262,7 @@ PRO（）。
     c/w　麤皮
     2008年7月30日／
     動畫《[Code Geass
-    反叛的魯路修R2](../Page/Code_Geass_反叛的魯路修.md "wikilink")》片尾曲
+    反叛的魯路修R2](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -273,7 +283,8 @@ PRO（）。
 
   -
     c/w　騎士乙女
-    2009年1月21日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2009年1月21日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -283,9 +294,10 @@ PRO（）。
 
   -
     c/w　吾君想う故に吾在り生き霊となりて
-    2009年5月27日／[Glory Heaven](../Page/Glory_Heaven.md "wikilink")
+    2009年5月27日／[Glory
+    Heaven](https://zh.wikipedia.org/wiki/Glory_Heaven "wikilink")
     動畫《[Phantom 〜Requiem for the
-    Phantom〜](../Page/Phantom_〜Requiem_for_the_Phantom〜.md "wikilink")》片尾曲
+    Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -295,9 +307,10 @@ PRO（）。
 
   -
     c/w　Hell's Maria
-    2009年8月19日／[Glory Heaven](../Page/Glory_Heaven.md "wikilink")
+    2009年8月19日／[Glory
+    Heaven](https://zh.wikipedia.org/wiki/Glory_Heaven "wikilink")
     動畫《[Phantom 〜Requiem for the
-    Phantom〜](../Page/Phantom_〜Requiem_for_the_Phantom〜.md "wikilink")》主題曲
+    Phantom〜](https://zh.wikipedia.org/wiki/Phantom_〜Requiem_for_the_Phantom〜 "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -307,7 +320,8 @@ PRO（）。
 
   -
     c/w　寶島
-    2009年10月21日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
+    2009年10月21日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
     動畫《[戰鬥司書 The book of Bantorra](../Page/戰鬥司書系列.md "wikilink")》主題曲
 
 <!-- end list -->
@@ -318,8 +332,9 @@ PRO（）。
 
   -
     c/w　腕 kaina
-    2010年7月14日／[Mellow Head](../Page/Mellow_Head.md "wikilink")
-    PSP遊戲《[Fate/EXTRA](../Page/Fate/EXTRA.md "wikilink")》主題曲
+    2010年7月14日／[Mellow
+    Head](https://zh.wikipedia.org/wiki/Mellow_Head "wikilink")
+    PSP遊戲《[Fate/EXTRA](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -328,8 +343,8 @@ PRO（）。
 
   -
     c/w　灰桜
-    2010年8月25日／[GloryHeaven](../Page/GloryHeaven.md "wikilink")
-    動畫《[刀語](../Page/刀語.md "wikilink")》主題曲
+    2010年8月25日／[GloryHeaven](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")
+    動畫《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》主題曲
 
 <!-- end list -->
 
@@ -364,8 +379,8 @@ PRO（）。
 
   -
     c/w　魂ノ代
-    2015年10月21日／[FlyingDog](../Page/FlyingDog.md "wikilink")
-    動畫《[落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")》片尾曲
+    2015年10月21日／[FlyingDog](https://zh.wikipedia.org/wiki/FlyingDog "wikilink")
+    動畫《[落第騎士英雄譚](https://zh.wikipedia.org/wiki/落第騎士英雄譚 "wikilink")》片尾曲
 
 <!-- end list -->
 
@@ -381,9 +396,10 @@ PRO（）。
 \*; 幻想庭園
 
   -
-    1988年1月25日／[POLYDOR](../Page/POLYDOR.md "wikilink")
+    1988年1月25日／[POLYDOR](https://zh.wikipedia.org/wiki/POLYDOR "wikilink")
     1990年11月25日／POLYDOR
-    2002年9月1日／[ZAZOU Records](../Page/ZAZOU_Records.md "wikilink")
+    2002年9月1日／[ZAZOU
+    Records](https://zh.wikipedia.org/wiki/ZAZOU_Records "wikilink")
 
 <!-- end list -->
 
@@ -520,7 +536,8 @@ PRO（）。
 \*; Alipro Mania
 
   -
-    1999年12月24日／[ZAZOU Records](../Page/ZAZOU_Records.md "wikilink")
+    1999年12月24日／[ZAZOU
+    Records](https://zh.wikipedia.org/wiki/ZAZOU_Records "wikilink")
 
 <!-- end list -->
 
@@ -550,7 +567,7 @@ PRO（）。
 \*; Aristocracy
 
   -
-    2001年4月25日／[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")
+    2001年4月25日／[徳間ジャパンコミュニケーションズ](https://zh.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")
 
 <!-- end list -->
 
@@ -604,7 +621,7 @@ PRO（）。
 
   -
     2003年4月23日／[ATMARK
-    CORPORATION](../Page/ATMARK_CORPORATION.md "wikilink")
+    CORPORATION](https://zh.wikipedia.org/wiki/ATMARK_CORPORATION "wikilink")
 
 <!-- end list -->
 
@@ -622,7 +639,8 @@ PRO（）。
 \*; Alipro Mania II　月光嗜好症GIG（ライブ）
 
   -
-    2004年1月25日／[ZAZOU Records](../Page/ZAZOU_Records.md "wikilink")
+    2004年1月25日／[ZAZOU
+    Records](https://zh.wikipedia.org/wiki/ZAZOU_Records "wikilink")
 
 <!-- end list -->
 
@@ -889,7 +907,8 @@ PRO（）。
 9.  この國の向こうに
 10. discipline
 
-\*; [La Vita Romantica](../Page/La_Vita_Romantica.md "wikilink")
+\*; [La Vita
+Romantica](https://zh.wikipedia.org/wiki/La_Vita_Romantica "wikilink")
 
   -
     2010年1月13日／Mellow Head
@@ -959,7 +978,7 @@ PRO（）。
 2.  （初回限定盤）絶國TEMPEST（Music Video）
 3.  （初回限定盤）愛と誠（Music Video）
 
-\*; [QUEENDOM](../Page/QUEENDOM.md "wikilink")
+\*; [QUEENDOM](https://zh.wikipedia.org/wiki/QUEENDOM "wikilink")
 
   -
     2011年5月25日／MellowHead
@@ -1485,16 +1504,18 @@ PRO（）。
 
 ### 片倉的名義
 
-  - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")
-  - [緑山高校 甲子園編](../Page/緑山高校_甲子園編.md "wikilink")（1990年）
+  - [土曜ワイド劇場](https://zh.wikipedia.org/wiki/土曜ワイド劇場 "wikilink")
+  - [緑山高校
+    甲子園編](https://zh.wikipedia.org/wiki/緑山高校_甲子園編 "wikilink")（1990年）
   - [エコエコアザラク -WIZARD OF
-    DARKNESS-](../Page/エコエコアザラク_-WIZARD_OF_DARKNESS-.md "wikilink")（1995年）
-  - [CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")（1997年）
-  - [聖ルミナス女學院](../Page/聖ルミナス女學院.md "wikilink")（1998年）
-  - [Avenger](../Page/Avenger.md "wikilink")（2003年）
-  - [ラグーンエンジンCD Drama](../Page/ラグーンエンジンCD_Drama.md "wikilink")（2003年）
-  - [瑪莉亞的凝望](../Page/瑪莉亞的凝望.md "wikilink")（2004年）
-  - [.hack//Roots](../Page/.hack/Roots.md "wikilink")（2006年）
+    DARKNESS-](https://zh.wikipedia.org/wiki/エコエコアザラク_-WIZARD_OF_DARKNESS- "wikilink")（1995年）
+  - [CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")（1997年）
+  - [聖ルミナス女學院](https://zh.wikipedia.org/wiki/聖ルミナス女學院 "wikilink")（1998年）
+  - [Avenger](https://zh.wikipedia.org/wiki/Avenger "wikilink")（2003年）
+  - [ラグーンエンジンCD
+    Drama](https://zh.wikipedia.org/wiki/ラグーンエンジンCD_Drama "wikilink")（2003年）
+  - [瑪莉亞的凝望](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")（2004年）
+  - [.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")（2006年）
   - [怪物王女](../Page/怪物王女.md "wikilink")（2007年）
 
 ## 外部連結

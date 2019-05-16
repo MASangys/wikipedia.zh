@@ -1,7 +1,7 @@
 [HP_DeskJet_500.jpg](https://zh.wikipedia.org/wiki/File:HP_DeskJet_500.jpg "fig:HP_DeskJet_500.jpg")
 [Hp-deskjet-895cxi.jpg](https://zh.wikipedia.org/wiki/File:Hp-deskjet-895cxi.jpg "fig:Hp-deskjet-895cxi.jpg")
 **DeskJet**
-是[惠普公司](../Page/惠普公司.md "wikilink")[喷墨打印机產品的](../Page/喷墨打印机.md "wikilink")[商标](../Page/商标.md "wikilink")。这些打印机包括从家用的小型打印机到專業用的大型打印机，用於大圖輸出的型号通常标为**DesignJet**。
+是[惠普公司](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[喷墨打印机產品的](https://zh.wikipedia.org/wiki/喷墨打印机 "wikilink")[商标](../Page/商标.md "wikilink")。这些打印机包括从家用的小型打印机到專業用的大型打印机，用於大圖輸出的型号通常标为**DesignJet**。
 
 惠普公司于1979年开发出了热敏喷墨打印机的 under wear 技术，并于1984年推出了第一款
 ThinkJet，1987年推出了第一款彩色 PaintJet。随后，第一款带有黑色墨盒的
@@ -12,7 +12,7 @@ DeskJet 500C 于1991年推向市场。
 随着时间的推移，打印机产品出现了很多革新以及大批量生产的出现，打印机产品的价格开始大幅度下降，到了1993年其价格已不及最初的一半，喷墨技术与彩色打印开始迅速普及，DeskJet
 同时带有一个黑色墨盒以及三个彩色墨盒。
 
-DeskJet的單張進紙方式為U型進紙，較不占桌面空間。部份型號可使用[連續報表紙列印](../Page/連續報表紙.md "wikilink")。
+DeskJet的單張進紙方式為U型進紙，較不占桌面空間。部份型號可使用[連續報表紙列印](https://zh.wikipedia.org/wiki/連續報表紙 "wikilink")。
 
 DeskJet
 在喷墨打印机消费市场上的特殊之处在于墨盒本身带有一次性使用的打印头。由于打印头经常随着墨水一起更换，所以能够保持很好的打印质量。在有些场合下也免除了需要经常进行消耗墨水的打印头清理过程。但與其他廠牌將列印噴頭與墨盒分離的設計相比，DeskJet的墨盒價格較貴。
@@ -22,11 +22,12 @@ Series产品线，这些都是基于热敏喷墨技术。最新的照片打印�
 
 ## 参见
 
-  - [CMYK](../Page/CMYK.md "wikilink") - 三种彩色加上黑色的“色彩模型”
-  - [LaserJet](../Page/LaserJet.md "wikilink") -
-    惠普公司的[雷射印表機產品商標](../Page/雷射印表機.md "wikilink")
-  - [OfficeJet](../Page/OfficeJet.md "wikilink") -
-    惠普公司的[多功能事務機產品商標](../Page/多功能事務機.md "wikilink")
+  - [CMYK](https://zh.wikipedia.org/wiki/CMYK "wikilink") -
+    三种彩色加上黑色的“色彩模型”
+  - [LaserJet](https://zh.wikipedia.org/wiki/LaserJet "wikilink") -
+    惠普公司的[雷射印表機產品商標](https://zh.wikipedia.org/wiki/雷射印表機 "wikilink")
+  - [OfficeJet](https://zh.wikipedia.org/wiki/OfficeJet "wikilink") -
+    惠普公司的[多功能事務機產品商標](https://zh.wikipedia.org/wiki/多功能事務機 "wikilink")
 
 ## 外部链接
 

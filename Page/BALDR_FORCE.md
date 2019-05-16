@@ -1,5 +1,5 @@
 《**BALDR
-FORCE**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2002年11月1日發售的[動作和](../Page/動作遊戲.md "wikilink")[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，「[BALDR系列](../Page/戲畫_\(遊戲品牌\)#BALDR系列.md "wikilink")」的第四作。2003年1月24日發售《**BALDR
+FORCE**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2002年11月1日發售的[動作和](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第四作。2003年1月24日發售《**BALDR
 FORCE
 EXE**》，另外由[Alchemist發售](../Page/Alchemist.md "wikilink")[Dreamcast版和](../Page/Dreamcast.md "wikilink")[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")。2006年11月10日開始發售OVA版《**BALDR
@@ -9,7 +9,7 @@ FORCE Standard Edition**》。遊戲的機械人戰鬥部分，是成人禁遊�
 
 ## 發售歷史
 
-  - 2002年11月1日PC（[Windows](../Page/Microsoft_Windows.md "wikilink")）版《BALDR
+  - 2002年11月1日PC（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）版《BALDR
     FORCE》發售。
   - 2003年1月24日PC《BALDR FORCE EXE》發售。
   - 2003年12月5日PC《BALDR FORCE EXE》廉價版發售。\[5\]
@@ -200,7 +200,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p><strong>上勾拳</strong></p></td>
 <td><p>35</p></td>
 <td><p>[11]</p></td>
-<td><p><strong>雙<a href="../Page/機槍.md" title="wikilink">機關槍</a></strong></p></td>
+<td><p><strong>雙<a href="https://zh.wikipedia.org/wiki/機槍" title="wikilink">機關槍</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -220,7 +220,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p><strong>下踢</strong></p></td>
 <td><p>37</p></td>
 <td></td>
-<td><p><a href="../Page/霰彈槍.md" title="wikilink">霰彈槍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霰彈槍" title="wikilink">霰彈槍</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -240,7 +240,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p>膝撞</p></td>
 <td><p>39</p></td>
 <td></td>
-<td><p><strong>多彈頭<a href="../Page/飛彈.md" title="wikilink">飛彈倉</a></strong></p></td>
+<td><p><strong>多彈頭<a href="https://zh.wikipedia.org/wiki/飛彈" title="wikilink">飛彈倉</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -250,7 +250,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p>側踢</p></td>
 <td><p>40</p></td>
 <td></td>
-<td><p><strong><a href="../Page/導向飛彈.md" title="wikilink">導向飛彈</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/導向飛彈" title="wikilink">導向飛彈</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -310,7 +310,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 <td><p>銀河突擊</p></td>
 <td><p>46</p></td>
 <td></td>
-<td><p><strong><a href="../Page/手榴彈.md" title="wikilink">手榴彈</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/手榴彈" title="wikilink">手榴彈</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -622,7 +622,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 
 ### PS2版增加內容
 
-  - 新增聲優陣容，亦可設定為原聲優（見[角色介紹](../Page/#角色介紹.md "wikilink")）。
+  - 新增聲優陣容，亦可設定為原聲優（見[角色介紹](https://zh.wikipedia.org/wiki/#角色介紹 "wikilink")）。
   - PS2版專用模式「Hyper mode」。
   - 5分鐘限制模式「Time attack」。
   - PS2版新片頭曲、開頭動畫「LOVE.EXE」，重製「Face of Fact」開頭動畫。
@@ -657,9 +657,9 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
 
 ## 故事簡介
 
-故事發生在超高度文明的近未來。當時的[電腦運算能力已經可以模擬出人類的](../Page/電腦.md "wikilink")[五感](../Page/五感.md "wikilink")，更可以直接進入網絡世界。大廈、食物、感覺等也是由[電腦程式寫成](../Page/電腦程式.md "wikilink")。
+故事發生在超高度文明的近未來。當時的[電腦運算能力已經可以模擬出人類的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[五感](https://zh.wikipedia.org/wiki/五感 "wikilink")，更可以直接進入網絡世界。大廈、食物、感覺等也是由[電腦程式寫成](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")。
 
-主角相馬透是[駭客集團](../Page/駭客.md "wikilink")\[19\]「草原之狼」的成員之一，使用戰鬥用工具「」以駭客的身份生活。在「草原之狼」解散前的最後一次駭客活動中，誤闖入軍方和恐怖組織之間的戰鬥，透的好友野野村優哉更因而死亡，透就此發誓報仇……。
+主角相馬透是[駭客集團](https://zh.wikipedia.org/wiki/駭客 "wikilink")\[19\]「草原之狼」的成員之一，使用戰鬥用工具「」以駭客的身份生活。在「草原之狼」解散前的最後一次駭客活動中，誤闖入軍方和恐怖組織之間的戰鬥，透的好友野野村優哉更因而死亡，透就此發誓報仇……。
 
 ## 勢力
 
@@ -672,7 +672,7 @@ SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》亦有類似的次序。
   - ;飛刀
     :反晶片主義者同盟中最強力的非法武裝組織，由匡統領。他們認為植入腦部晶片是政府實行「大眾操作」的陰謀，亦反對對犯人植入「更生晶片」。
     V.S.S（Virtual Sphere Security）
-    數年內快速成長，最大的網絡保安公司、民間警備公司，全公司職員辦事效率奇高，橘玲佳是最高經營責任者兼社長。亦有研發腦內晶片，然而實際上[卻是](../Page/#有關洗腦.md "wikilink")……。
+    數年內快速成長，最大的網絡保安公司、民間警備公司，全公司職員辦事效率奇高，橘玲佳是最高經營責任者兼社長。亦有研發腦內晶片，然而實際上[卻是](https://zh.wikipedia.org/wiki/#有關洗腦 "wikilink")……。
   - I.V.S
     和V.S.S合作的公司之一，主要生產腦內晶片。
   - 水星科技（Mercury Technology）
@@ -694,7 +694,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <!-- end list -->
 
   -
-    年齡：19歲、身高：160cm、血型：B型Rh+、[星座](../Page/星座.md "wikilink")：[處女座](../Page/處女座.md "wikilink")
+    年齡：19歲、身高：160cm、血型：B型Rh+、[星座](../Page/星座.md "wikilink")：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     透的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，父親因交通意外死後加入「草原之狼」，負責對沒入後的成員的支援。以前亦有以沒入網絡的經驗，但每次也是迷路收場。
     優哉死後被挖角入V.S.S，不擅於操作的她卻因某些原因而升職至V.S.S中最精銳的α部隊。
 
@@ -731,8 +731,8 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
     年齡：戶籍紀錄上是21歲（實際上這紀錄有被篡改過的嫌疑）、生日：12月3日、血型：B型、學歷：不明
     基本能力：體力12、知識14、敏捷13。技能：操作等級4、駭客等級4、程式編寫等級1
     情報管理係第一小隊的駕駛員，處事樂觀，經常露出內衣在基地走來走去。
-    15歲時由[北美洲移居至](../Page/北美洲.md "wikilink")[東亞後自願加入軍隊](../Page/東亞.md "wikilink")，但在一年後因犯事而入獄一年。17歲時以平民身份鎮壓恐怖組織有功，被八木澤推薦再度入隊。
-    身體多處受過最先進的人類工程學[加工手術美化](../Page/整容.md "wikilink")，8至6年前曾經以「」的名稱在網上活動。
+    15歲時由[北美洲移居至](../Page/北美洲.md "wikilink")[東亞後自願加入軍隊](https://zh.wikipedia.org/wiki/東亞 "wikilink")，但在一年後因犯事而入獄一年。17歲時以平民身份鎮壓恐怖組織有功，被八木澤推薦再度入隊。
+    身體多處受過最先進的人類工程學[加工手術美化](https://zh.wikipedia.org/wiki/整容 "wikilink")，8至6年前曾經以「」的名稱在網上活動。
     16歲時曾經與被通輯的駭客慣犯相戀，但凱拉在半年後被捕，那男人則逃走成功，但最後還是死了\[20\]。而一年刑期的輕判是因為法官認為凱拉精神受打擊而酌情處理。
 
 <!-- end list -->
@@ -768,13 +768,13 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 ### 飛刀
 
   -
-    反晶片主義同盟武裝恐怖組織中實力最大的「飛刀」的領袖，組織中人望甚高。經常強調「認識真相永遠也是痛苦的事」。所使用的是重視裝甲耐久方的超重量型。另外亦精通[中國武術](../Page/中國武術.md "wikilink")。
+    反晶片主義同盟武裝恐怖組織中實力最大的「飛刀」的領袖，組織中人望甚高。經常強調「認識真相永遠也是痛苦的事」。所使用的是重視裝甲耐久方的超重量型。另外亦精通[中國武術](https://zh.wikipedia.org/wiki/中國武術 "wikilink")。
 
 <!-- end list -->
 
   -
-    年齡：21歲、身高：155cm、血型：B型Rh+、星座：[射手座](../Page/射手座.md "wikilink")
-    「飛刀」的支援員，穿著[旗袍](../Page/旗袍.md "wikilink")，被透評為「尖臉薄唇的典型中國美人」，亦十分受組織的人們歡迎。有著嚴重的[健忘症](../Page/健忘症.md "wikilink")，但背記雜亂無章、毫無規律的數據的能力卻超乎常人。另外亦精通中國武術，能夠一擊打昏別人。在OVA中被大改設定，幾乎變了另一個人（詳見[OVA與原作不同之處](../Page/BALDR_FORCE_EXE_RESOLUTION#與原作不同之處.md "wikilink")）。
+    年齡：21歲、身高：155cm、血型：B型Rh+、星座：[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
+    「飛刀」的支援員，穿著[旗袍](../Page/旗袍.md "wikilink")，被透評為「尖臉薄唇的典型中國美人」，亦十分受組織的人們歡迎。有著嚴重的[健忘症](https://zh.wikipedia.org/wiki/健忘症 "wikilink")，但背記雜亂無章、毫無規律的數據的能力卻超乎常人。另外亦精通中國武術，能夠一擊打昏別人。在OVA中被大改設定，幾乎變了另一個人（詳見[OVA與原作不同之處](https://zh.wikipedia.org/wiki/BALDR_FORCE_EXE_RESOLUTION#與原作不同之處 "wikilink")）。
 
 <!-- end list -->
 
@@ -783,7 +783,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 [BALDR_FORCE_GENHA.JPG](https://zh.wikipedia.org/wiki/File:BALDR_FORCE_GENHA.JPG "fig:BALDR_FORCE_GENHA.JPG")
 
   -
-    「飛刀」的主要戰鬥人員，以殺戮為樂。為人極度殘忍，自稱擅長折磨人到半死不活的狀態。極度好色，其[下體受過](../Page/陽具.md "wikilink")[加工手術](../Page/整容.md "wikilink")。身體能力、反應和操作的能力也十分強，巴傑拉亦敗於其手下。[第六感亦異於常人](../Page/第六感.md "wikilink")\[22\]。另外，說話中經常夾雜著[髒話](../Page/髒話.md "wikilink")，遊戲中以「●、■、▲」等符號代替是常事。
+    「飛刀」的主要戰鬥人員，以殺戮為樂。為人極度殘忍，自稱擅長折磨人到半死不活的狀態。極度好色，其[下體受過](https://zh.wikipedia.org/wiki/陽具 "wikilink")[加工手術](https://zh.wikipedia.org/wiki/整容 "wikilink")。身體能力、反應和操作的能力也十分強，巴傑拉亦敗於其手下。[第六感亦異於常人](https://zh.wikipedia.org/wiki/第六感 "wikilink")\[22\]。另外，說話中經常夾雜著[髒話](../Page/髒話.md "wikilink")，遊戲中以「●、■、▲」等符號代替是常事。
     雖然壞事做盡，但對著梁還是不會使用暴力。在多些劇情路線中，元霸也會因金錢等原因而出賣飛刀基地的所在位置給橘玲佳。
 
 ### 其他
@@ -800,29 +800,29 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <!-- end list -->
 
   -
-    年齡：不詳、身高：152cm、血型：O型Rh+、星座：[雙魚座](../Page/雙魚座.md "wikilink")
+    年齡：不詳、身高：152cm、血型：O型Rh+、星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
     於網絡空間出現，傳說中的電子體幽霊。看上去只是個普通的少女，謠傳見到她的人都會失蹤。
 
 <!-- end list -->
 
   -
     於網絡空間出現，傳說中的怪物、最終兵器。被謎團包圍的巨型神秘黑球。
-    每一平方毫米包含5600[Terabyte的驚人容量](../Page/Terabyte.md "wikilink")，動用全V.S.S的人工智能群才可以勉強解決[運算延遲](../Page/運算延遲.md "wikilink")（lag）的問題。
+    每一平方毫米包含5600[Terabyte的驚人容量](https://zh.wikipedia.org/wiki/Terabyte "wikilink")，動用全V.S.S的人工智能群才可以勉強解決[運算延遲](https://zh.wikipedia.org/wiki/運算延遲 "wikilink")（lag）的問題。
 
 ## 用語及設定
 
   - 電子體
     精神傳送到網絡的人。
   -
-    又稱「戰鬥用電子體」，用以戰鬥的工具。使用的時候自身會變成[機械人般的模樣](../Page/機械人.md "wikilink")（OVA版則是坐在駕駛倉中），因目的是戰鬥，感官上的模擬比較粗糙（避免受傷時的痛楚）。少部份人會使用「可變式」，但變化成形時會有異樣的痛苦感。
+    又稱「戰鬥用電子體」，用以戰鬥的工具。使用的時候自身會變成[機械人般的模樣](https://zh.wikipedia.org/wiki/機械人 "wikilink")（OVA版則是坐在駕駛倉中），因目的是戰鬥，感官上的模擬比較粗糙（避免受傷時的痛楚）。少部份人會使用「可變式」，但變化成形時會有異樣的痛苦感。
   - 沒入（Dive）
     使用「神經插入子（neurojack）」傳送精神進入網絡。正常人不能沒入超過3天，否則會因缺水而死。
   -
-    除「」（但仍會留下[快取](../Page/快取.md "wikilink")），是以完全模擬現實的[物理法則為最終目的](../Page/物理.md "wikilink")，如模擬的[重力等於現實的](../Page/重力.md "wikilink")1[G](../Page/萬有引力常數.md "wikilink")。
+    除「」（但仍會留下[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")），是以完全模擬現實的[物理法則為最終目的](https://zh.wikipedia.org/wiki/物理 "wikilink")，如模擬的[重力等於現實的](https://zh.wikipedia.org/wiki/重力 "wikilink")1[G](https://zh.wikipedia.org/wiki/萬有引力常數 "wikilink")。
   - 命網（Silvercode）
     所有電子體經由神經插入子和現實世界連接的唯一協定，如神經插入子被人拔去，即立刻腦死。
   - D.O.S（Disconnect of Silvercode）
-    發放過負荷資料導致嚴重[運算延遲](../Page/運算延遲.md "wikilink")（lag），切斷大範圍內的命網，多年前曾令數萬人腦死的災難性攻擊，連恐怖組織也不敢使用。但真正D.O.S需要大量AI群操縱，難度極高。
+    發放過負荷資料導致嚴重[運算延遲](https://zh.wikipedia.org/wiki/運算延遲 "wikilink")（lag），切斷大範圍內的命網，多年前曾令數萬人腦死的災難性攻擊，連恐怖組織也不敢使用。但真正D.O.S需要大量AI群操縱，難度極高。
   - 逆流現象
     於沒入時，當現實世界的身體感覺太強烈，將會遮蔽網絡的模擬而感到現實真正的感覺。
   - 腦死（Flatline）
@@ -835,7 +835,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
       - 電子體被消滅
         沒入時被殺，因網絡空間法則模擬現實，現實世界的身體也會受傷。
       - 命網斷開
-        神經插入子被人拔去或受到D.O.S攻擊。死者會成為[植物人](../Page/植物人.md "wikilink")。
+        神經插入子被人拔去或受到D.O.S攻擊。死者會成為[植物人](https://zh.wikipedia.org/wiki/植物人 "wikilink")。
 
 ## 故事核心
 
@@ -843,7 +843,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   -
     其凶手就是彩音，但當時她是神智不清的。
-    彩音18歲在I.V.S工作時被元霸派的恐怖組織捉走並成為人質監禁，更被施加[強姦以外的](../Page/強姦.md "wikilink")[性暴行](../Page/性暴行.md "wikilink")。其後，身為軍人的弟弟Yūsuke\[24\]
+    彩音18歲在I.V.S工作時被元霸派的恐怖組織捉走並成為人質監禁，更被施加[強姦以外的](https://zh.wikipedia.org/wiki/強姦 "wikilink")[性暴行](https://zh.wikipedia.org/wiki/性暴行 "wikilink")。其後，身為軍人的弟弟Yūsuke\[24\]
     趕去救彩音，但卻在彩音面前被元霸[凌遲式慘殺](../Page/凌遲.md "wikilink")，因此對恐怖組織（特別是元霸）產生極大的怨恨。最後由八木澤宗次所指揮的部隊救出。在OVA內沒有發生這些事，只是弟弟出外工作時被元霸殺掉。
     為了復仇不惜隨便洩漏軍方保安漏洞，希望藉此引來恐怖份子而增加報仇的機會。絕大部分恐怖組織和駭客（包括草原之狼）入侵也是靠著這些情報。
     為可變型式，當時戰敗於元霸後神志不清而在透面前誤殺優哉。因為當時的是平時不用的較強裝備，透當初入隊時並不知道彩音就是仇人。
@@ -851,14 +851,14 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 ### 八年前的相關事件
 
   - 十年前至八年前的實驗時期
-    透、梁、元霸、巴傑拉、憐五人分別被[腦部改造實驗的實驗參與人員半欺騙地帶入實驗所](../Page/#腦部改造實驗.md "wikilink")，是至少八年前的實驗受害者，而憐則在實驗中死去。他們除了在腦部改造實驗的實驗所外，也在一間森林中的小屋居住過一段時間。
+    透、梁、元霸、巴傑拉、憐五人分別被[腦部改造實驗的實驗參與人員半欺騙地帶入實驗所](https://zh.wikipedia.org/wiki/#腦部改造實驗 "wikilink")，是至少八年前的實驗受害者，而憐則在實驗中死去。他們除了在腦部改造實驗的實驗所外，也在一間森林中的小屋居住過一段時間。
     另外，巴傑拉真正名字是「木嶋 宣子」，透是「水坂 信一」，他們本人並不知道，而名字讀法官方並沒有公開。
     透是水坂憐的義兄，這記憶被實驗的人員消去。但義兄的設定僅出現在無印版及EXE版，其他皆為血緣兄妹。
 
 <!-- end list -->
 
   - 八年前的D.O.S慘劇
-    及後，實驗者四人因橘玲佳對同僚[洗腦的陰謀而被受害者之一的匡帶同一起逃走](../Page/#有關洗腦.md "wikilink")。匡考慮到宣子於實驗的副作用較輕而把她送入孤兒院，其間她改名為。之後匡繼續被軍方追擊，匡於逃走時遇到八木澤但被擊敗，然後當時還是小孩的朝倉光自稱巴傑拉（BACHELOR）與八木澤為首的部隊展開激鬥，八木澤戰敗而且受重傷。碰巧遇著利維坦的D.O.S式攻擊的大慘劇，八木澤的部下全滅，政府趁機嫁禍給她（之後巴傑拉對這件事十分敏感）。
+    及後，實驗者四人因橘玲佳對同僚[洗腦的陰謀而被受害者之一的匡帶同一起逃走](https://zh.wikipedia.org/wiki/#有關洗腦 "wikilink")。匡考慮到宣子於實驗的副作用較輕而把她送入孤兒院，其間她改名為。之後匡繼續被軍方追擊，匡於逃走時遇到八木澤但被擊敗，然後當時還是小孩的朝倉光自稱巴傑拉（BACHELOR）與八木澤為首的部隊展開激鬥，八木澤戰敗而且受重傷。碰巧遇著利維坦的D.O.S式攻擊的大慘劇，八木澤的部下全滅，政府趁機嫁禍給她（之後巴傑拉對這件事十分敏感）。
     匡、實驗體四人、八木澤逃過當時利維坦的D.O.S式攻擊的大慘劇，八木澤從匡口中得知腦部改造實驗而放過他們。因透的於實驗的副作用較輕而把他交託給當時還是軍人、八木澤的好友的月菜父親。
 
 <!-- end list -->
@@ -889,12 +889,12 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
   - 計劃一
     研究以腦內晶片擴大記憶力、操作記憶、消去記憶的計劃。後兩者之後應用在計劃四和少量應用於計劃二。
-    以梁為實驗體。實驗後梁擁有短期的超強記憶力，相反，副作用就是嚴重的健忘症。腦內晶片有個致命性的[程序錯誤](../Page/程序錯誤.md "wikilink")，受到負荷的話有可能會昏迷不醒，在憐的劇情路線中被巴傑拉修正其錯誤。
+    以梁為實驗體。實驗後梁擁有短期的超強記憶力，相反，副作用就是嚴重的健忘症。腦內晶片有個致命性的[程序錯誤](https://zh.wikipedia.org/wiki/程序錯誤 "wikilink")，受到負荷的話有可能會昏迷不醒，在憐的劇情路線中被巴傑拉修正其錯誤。
 
 <!-- end list -->
 
   - 計劃二
-    研究以腦內晶片提高[腦部思考能力](../Page/腦部.md "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦以提高](../Page/右腦.md "wikilink")[直覺](../Page/直覺.md "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](../Page/左腦.md "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
+    研究以腦內晶片提高[腦部思考能力](https://zh.wikipedia.org/wiki/腦部 "wikilink")、唯一一個有兩位（一男一女）實驗體的計劃。男性實驗體方面是強化[右腦以提高](https://zh.wikipedia.org/wiki/右腦 "wikilink")[直覺](https://zh.wikipedia.org/wiki/直覺 "wikilink")、感官、運動神經。女性實驗體方面是強化[左腦以提高](https://zh.wikipedia.org/wiki/左腦 "wikilink")[智商](../Page/智商.md "wikilink")、記憶力、思考力。
     男性方面以元霸為實驗體。實驗大致上成功，但副作用是過度強化後，他的本能衝動會比一般人強很多，導致他易怒、情緒不穩，且對性、暴力等行為異常熱衷而無法自控。雖然在施展惡行時了解這是不對的而有內疚的情緒，但無法停止。在憐路線的十一章「彼方」中，與透在山中小屋對決前，希望透能戰勝自己而得到解脫，在戰敗後對透表示謝意，並希望透能讓憐也解脫。\[25\]。
     女性方面以巴傑拉為實驗體。實驗也是大致上成功，副作用**聲稱**是情緒不穩，但看不出是，而且匡認為她副作用十分輕。實際上的副作用應是身體停止生長。因為身體停留在小女孩的狀態，巴傑拉對於胸部的大小似乎非常在意。
 
@@ -907,7 +907,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <!-- end list -->
 
   - 計劃四
-    研究以腦內晶片改變精神、記憶，和回復的能力的計劃。實際上是在腦部再安裝另一塊用作[備份記憶的晶片](../Page/備份.md "wikilink")。就算被其他人不正當的入侵腦部，只要使用者「想回復」，精神和記憶就可以回復，可算是個人的腦部[保安裝置](../Page/保安裝置.md "wikilink")（另外，實行回復時，實行者的腦內晶片會發出「反轉（Flip-flop）」的訊號）。計劃在改變精神、記憶方面確認成功，回復方面在實驗其間並未確認，實際上也是成功。
+    研究以腦內晶片改變精神、記憶，和回復的能力的計劃。實際上是在腦部再安裝另一塊用作[備份記憶的晶片](https://zh.wikipedia.org/wiki/備份 "wikilink")。就算被其他人不正當的入侵腦部，只要使用者「想回復」，精神和記憶就可以回復，可算是個人的腦部[保安裝置](https://zh.wikipedia.org/wiki/保安裝置 "wikilink")（另外，實行回復時，實行者的腦內晶片會發出「反轉（Flip-flop）」的訊號）。計劃在改變精神、記憶方面確認成功，回復方面在實驗其間並未確認，實際上也是成功。
     透是此計劃的受害者，亦是在實驗中唯一沒有副作用的人。實驗其間的記憶被實驗人員消去。
 
 ### 有關洗腦
@@ -943,14 +943,14 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 #### 電子體幽靈
 
   -
-    可以任意扭曲網絡世界的[物理法則](../Page/物理法則.md "wikilink")，隨意移動，任何保安裝置對她來說形同虛設（但憐本身不知道何謂保安裝置）。原理是因為大部分的保全系統是偵測命網（Silvercode，連接實體跟電子體的協定），但是因為憐已失去現實世界的身體，所以保全系統無效。但是如果是純粹限制電子體的道具是可以產生效果的，例如憐路線中VSS所用的電子體捕捉網。
+    可以任意扭曲網絡世界的[物理法則](https://zh.wikipedia.org/wiki/物理法則 "wikilink")，隨意移動，任何保安裝置對她來說形同虛設（但憐本身不知道何謂保安裝置）。原理是因為大部分的保全系統是偵測命網（Silvercode，連接實體跟電子體的協定），但是因為憐已失去現實世界的身體，所以保全系統無效。但是如果是純粹限制電子體的道具是可以產生效果的，例如憐路線中VSS所用的電子體捕捉網。
 
 #### 電子體惡魔
 
   -
     利維坦其實是水坂憐的潛在意識，和她的情緒波動互相呼應。而且和憐一樣可以任意扭曲網絡世界的物理法則，任何接近它的數據、電子體、記錄等也會被吸進其中（在吸入時，被吸者的腦內晶片會發出「吸收（Drain）」的訊號，就算他未必聽到）。亦正因如此，在利維坦是另一個網絡世界，在網上「腦死」的人大部份還「活」在這裡。而憐會知道所有在利維坦世界中發生的所有事。在憐的劇情路線中，會吸去故事中幾乎所有角色。
-    優哉的人格紀錄（類似現今的[緩存](../Page/緩存.md "wikilink")）在死後被利維坦吸去。在憐的劇情路線中，他在利維坦的空間對透說不希望為自己而報仇，並提議以透自殺的方式引發腦內的備份晶片的復元功能以回到現實世界。
-    遊戲中引用了[聖經](../Page/聖經.md "wikilink")[但以理書第七章二十三節](../Page/但以理書.md "wikilink")\[26\]
+    優哉的人格紀錄（類似現今的[緩存](https://zh.wikipedia.org/wiki/緩存 "wikilink")）在死後被利維坦吸去。在憐的劇情路線中，他在利維坦的空間對透說不希望為自己而報仇，並提議以透自殺的方式引發腦內的備份晶片的復元功能以回到現實世界。
+    遊戲中引用了[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")[但以理書第七章二十三節](../Page/但以理書.md "wikilink")\[26\]
     來解釋利維坦的存在。
 
 ## 主題曲
@@ -967,13 +967,13 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 </dd>
 <dd>編曲：C.G Mix・Fish Tone
 </dd>
-<dd>歌：<a href="../Page/KOTOKO.md" title="wikilink">KOTOKO</a>
+<dd>歌：<a href="https://zh.wikipedia.org/wiki/KOTOKO" title="wikilink">KOTOKO</a>
 </dd>
 <dt>BALDR Neko FORCE版<br />
 片頭曲「Face of Fact」</dt>
 <dd>作曲：<a href="../Page/I&#39;ve.md" title="wikilink">I've</a> Sound
 </dd>
-<dd>改編：<a href="../Page/feel.md" title="wikilink">feel</a>、
+<dd>改編：<a href="https://zh.wikipedia.org/wiki/feel" title="wikilink">feel</a>、
 </dd>
 <dd>歌：佐藤裕美
 </dd>
@@ -996,7 +996,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 </dd>
 <dd>編曲：櫻井真一
 </dd>
-<dd>歌：<a href="../Page/Chico.md" title="wikilink">Chico</a>
+<dd>歌：<a href="https://zh.wikipedia.org/wiki/Chico" title="wikilink">Chico</a>
 </dd>
 </dl></td>
 </tr>
@@ -1013,7 +1013,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 
 ## 漫畫
 
-[矢吹豪繪畫](../Page/矢吹豪.md "wikilink")，於[電擊大王](../Page/電擊大王.md "wikilink")2006年3月号開始連載，全3回。以彩音作為視點的故事。
+[矢吹豪繪畫](https://zh.wikipedia.org/wiki/矢吹豪 "wikilink")，於[電擊大王](https://zh.wikipedia.org/wiki/電擊大王 "wikilink")2006年3月号開始連載，全3回。以彩音作為視點的故事。
 
 ## 原聲帶
 
@@ -1077,7 +1077,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <td><p>悠閒的各人</p></td>
 <td><p>21</p></td>
 <td></td>
-<td><p><a href="../Page/潘多拉.md" title="wikilink">潘多拉的盒子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘多拉" title="wikilink">潘多拉的盒子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -1133,7 +1133,7 @@ EXE RESOLUTION](../Page/BALDR_FORCE_EXE_RESOLUTION.md "wikilink")。
 <td><p>跳躍的腦</p></td>
 <td><p>28</p></td>
 <td></td>
-<td><p><a href="../Page/利維坦.md" title="wikilink">利維坦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利維坦" title="wikilink">利維坦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>

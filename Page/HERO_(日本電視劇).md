@@ -1,10 +1,10 @@
-《**HERO**》是一齣[日本](../Page/日本.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")，於2001年1月8日至2001年3月19日於[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](../Page/月九.md "wikilink")」時段播出，共有11集，主要描述一名中學畢業的行事與眾不同的[檢察官](../Page/檢察官.md "wikilink")，以獨特的視角和洞察力探求真實。
+《**HERO**》是一齣[日本](../Page/日本.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於2001年1月8日至2001年3月19日於[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集，主要描述一名中學畢業的行事與眾不同的[檢察官](../Page/檢察官.md "wikilink")，以獨特的視角和洞察力探求真實。
 
-本劇是[木村拓哉與](../Page/木村拓哉.md "wikilink")[松隆子自](../Page/松隆子.md "wikilink")《[-{zh-hans:恋爱世纪;zh-hk:戀愛世紀;zh-tw:戀愛世代;}-](../Page/戀愛世紀.md "wikilink")》後再次創下收視紀錄的合作，平均收視率為34.2%。
+本劇是[木村拓哉與](../Page/木村拓哉.md "wikilink")[松隆子自](../Page/松隆子.md "wikilink")《[-{zh-hans:恋爱世纪;zh-hk:戀愛世紀;zh-tw:戀愛世代;}-](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》後再次創下收視紀錄的合作，平均收視率為34.2%。
 
 在本篇播出後5年，[富士電視台於](../Page/富士電視台.md "wikilink")2006年7月3日推出了長達138分鐘的HERO特別篇（僅有一集），除了原班人馬，亦加入[綾瀨遙](../Page/綾瀨遙.md "wikilink")、[堤真一等名演員](../Page/堤真一.md "wikilink")，有30.9%收視。劇集的成功也催生[電影版](../Page/HERO_\(2007年電影\).md "wikilink")，電影緊接特別篇於2007年9月8日在日本上映，並拿下年度票房第3。
 
-2014年4月28日[富士電視台宣布開拍續集](../Page/富士電視台.md "wikilink")，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉第](../Page/木村拓哉.md "wikilink")10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](../Page/月九.md "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子改為](../Page/松隆子.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](../Page/勝矢.md "wikilink")、[松重豐等人](../Page/松重豐.md "wikilink")，正名僕藏、田中要次、八嶋智人、[小日向文世和角野卓造也再度回歸出演要角](../Page/小日向文世.md "wikilink")。
+2014年4月28日[富士電視台宣布開拍續集](../Page/富士電視台.md "wikilink")，為該年度夏季檔，HERO睽違13年再次復活，這也是[木村拓哉第](../Page/木村拓哉.md "wikilink")10次主演月九劇，於2014年7月14日至2014年9月22日在[富士電視台的](../Page/富士電視台.md "wikilink")「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集。續集角色陣容有不少變動，如久利生公平的劇中搭檔從[松隆子改為](../Page/松隆子.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")，由北川景子飾演事務官麻木千佳，新加入的共演者還有杉本哲太、[濱田岳](../Page/濱田岳.md "wikilink")、[吉田羊](../Page/吉田羊.md "wikilink")、[勝矢](https://zh.wikipedia.org/wiki/勝矢 "wikilink")、[松重豐等人](https://zh.wikipedia.org/wiki/松重豐 "wikilink")，正名僕藏、田中要次、八嶋智人、[小日向文世和角野卓造也再度回歸出演要角](../Page/小日向文世.md "wikilink")。
 
 2015年7月18日[第二部電影版在日本上映](../Page/HERO_\(2015年電影\).md "wikilink")，松隆子以大阪地方檢查廳難波支部的雨宮舞子檢察官身分與久利生公平、麻木千佳共同調查一個涉及[治外法權的棘手案件](../Page/外交豁免權.md "wikilink")。主要角色陣容除松隆子和[佐藤浩市](../Page/佐藤浩市.md "wikilink")（飾演外務省歐洲局局長松葉圭介）外，與第二季相同。
 
@@ -14,7 +14,7 @@
 
 久利生公平（[木村拓哉飾](../Page/木村拓哉.md "wikilink")）曾經因為行為不檢涉案並半途退學，只有國中畢業，後來因為負責他案件的檢察官盡心調查，為他爭取權益，使他決定報考同等學歷以及司法考試，合格後成為了[檢察官](../Page/檢察官.md "wikilink")。他喜愛一身便服，橙色夾克風衣加牛仔褲的打扮，跟一般西裝筆挺的檢察官很不一樣。
 
-故事的開始，講述久利生從[青森被調到](../Page/青森.md "wikilink")[東京地方檢察廳城西支部的刑事部](../Page/東京.md "wikilink")。久利生不按常規，獨豎一幟的作風，跟東京地檢的一眾檢察官和事務官們很自然地擦出火花。
+故事的開始，講述久利生從[青森被調到](https://zh.wikipedia.org/wiki/青森 "wikilink")[東京地方檢察廳城西支部的刑事部](https://zh.wikipedia.org/wiki/東京 "wikilink")。久利生不按常規，獨豎一幟的作風，跟東京地檢的一眾檢察官和事務官們很自然地擦出火花。
 
 雨宮舞子（[松隆子飾](../Page/松隆子.md "wikilink")）擔任事務官，對晉升副檢察官一直抱著希望。她對工作專心，是典型的事業型女性。由於聽說久利生是個厲害的檢察官，覺得在他身上可以學到很多東西，所以就向上司毛遂自薦擔任久利生的事務官。但接觸到久利生本人後，就被他的外表和辦事手法嚇倒了。
 
@@ -54,14 +54,14 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a></p></td>
 <td><center>
 <p>久利生公平</p></td>
-<td><p>一名與眾不同的新進檢察官，平常總是穿著輕便的牛仔褲和夾克風衣，對於<a href="../Page/電視購物.md" title="wikilink">電視購物非常熱衷</a>，因而買了各式各樣奇特的產品寄到檢查署，引起同事議論紛紛。雖然他自己也知道這不是好習慣，但在日常辦案過程中往往都能藉著這項嗜好，與其他人攀談拉近距離、化敵為友。他將日本檢察官佩戴在西裝領口的「<a href="../Page/秋霜烈日.md" title="wikilink">秋霜烈日徽章</a>」放在牛仔褲的口袋裡，只有在行使檢察官職權時才會出示。高中時被退學，最高學歷僅有國中，後來考學歷鑑定後再經過司法考試成為檢察官。一開始在<a href="../Page/青森.md" title="wikilink">青森任職</a>，之後調任到<a href="../Page/東京.md" title="wikilink">東京地方檢察廳城西支部的刑事部</a>。久利生解決案件時以其他檢察官少有的獨特觀點，站在事件當事人的角度進行調查，他的信念認為檢察官就是被害者的辯護人，為了解決案件會堅持到底。過去曾為了保護朋友而因傷害案件被逮捕。久利生在負責那起事件的沼田檢察官面前一句話也不肯說，但因為看見沼田對於案件的用心調查，並且沼田找了許多證據，最後證明久利生無罪，讓久利生以沼田為目標，下定決心要成為一名檢察官。在最後一集時，因為過去曾被逮捕而引起騷動，久利生被調任到<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣的</a><a href="../Page/石垣島.md" title="wikilink">石垣島</a>。在特別篇中，久利生又接著被調到<a href="../Page/北海道.md" title="wikilink">北海道和</a><a href="../Page/山口縣.md" title="wikilink">山口縣</a>，最後再度回到東京。</p></td>
+<td><p>一名與眾不同的新進檢察官，平常總是穿著輕便的牛仔褲和夾克風衣，對於<a href="https://zh.wikipedia.org/wiki/電視購物" title="wikilink">電視購物非常熱衷</a>，因而買了各式各樣奇特的產品寄到檢查署，引起同事議論紛紛。雖然他自己也知道這不是好習慣，但在日常辦案過程中往往都能藉著這項嗜好，與其他人攀談拉近距離、化敵為友。他將日本檢察官佩戴在西裝領口的「<a href="https://zh.wikipedia.org/wiki/秋霜烈日" title="wikilink">秋霜烈日徽章</a>」放在牛仔褲的口袋裡，只有在行使檢察官職權時才會出示。高中時被退學，最高學歷僅有國中，後來考學歷鑑定後再經過司法考試成為檢察官。一開始在<a href="https://zh.wikipedia.org/wiki/青森" title="wikilink">青森任職</a>，之後調任到<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京地方檢察廳城西支部的刑事部</a>。久利生解決案件時以其他檢察官少有的獨特觀點，站在事件當事人的角度進行調查，他的信念認為檢察官就是被害者的辯護人，為了解決案件會堅持到底。過去曾為了保護朋友而因傷害案件被逮捕。久利生在負責那起事件的沼田檢察官面前一句話也不肯說，但因為看見沼田對於案件的用心調查，並且沼田找了許多證據，最後證明久利生無罪，讓久利生以沼田為目標，下定決心要成為一名檢察官。在最後一集時，因為過去曾被逮捕而引起騷動，久利生被調任到<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣的</a><a href="../Page/石垣島.md" title="wikilink">石垣島</a>。在特別篇中，久利生又接著被調到<a href="../Page/北海道.md" title="wikilink">北海道和</a><a href="https://zh.wikipedia.org/wiki/山口縣" title="wikilink">山口縣</a>，最後再度回到東京。</p></td>
 <td><center>
 <p>27歲</p></td>
 <td><center>
@@ -87,11 +87,11 @@
 <td><center>
 <p>30歲</p></td>
 <td><center>
-<p><a href="../Page/梁少霞.md" title="wikilink">梁少霞</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/阿部寛.md" title="wikilink">阿部寛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/阿部寛" title="wikilink">阿部寛</a></p></td>
 <td><center>
 <p>芝山貢</p></td>
 <td><p>檢察官<br />
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td><p>檢察官。常在訊問到一半時和自己的事務官鬥嘴。</p></td>
@@ -174,7 +174,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -234,7 +234,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/雪乃五月.md" title="wikilink">雪乃五月</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/雪乃五月" title="wikilink">雪乃五月</a></p></td>
 <td><center>
 <p>奇蹟美少女亞絲蜜</p></td>
 <td><p>田村毎天早晨8點固定錄影的卡通主角</p></td>
@@ -275,7 +275,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/鷹取潤.md" title="wikilink">鷹取潤</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鷹取潤" title="wikilink">鷹取潤</a></p></td>
 <td><center>
 <p>新聞快報的播報員</p></td>
 <td><p>播報偵破建設公司賄賂案的新聞</p></td>
@@ -490,7 +490,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/小原雅人.md" title="wikilink">小原雅人</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/小原雅人" title="wikilink">小原雅人</a></p></td>
 <td><center>
 <p>矢口徹</p></td>
 <td></td>
@@ -550,7 +550,7 @@
 <td><p>員警殺人事件真兇，主張事件當日有不在場證據</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -637,7 +637,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/石丸謙二郎.md" title="wikilink">石丸謙二郎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/石丸謙二郎" title="wikilink">石丸謙二郎</a></p></td>
 <td><center>
 <p>神林琢磨</p></td>
 <td><p>幫助常務董事的律師</p></td>
@@ -788,7 +788,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/高橋克實.md" title="wikilink">高橋克實</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/高橋克實" title="wikilink">高橋克實</a></p></td>
 <td><center>
 <p>高梨輝一郎</p></td>
 <td></td>
@@ -896,7 +896,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/今野雅人.md" title="wikilink">今野雅人</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/今野雅人" title="wikilink">今野雅人</a></p></td>
 <td><center>
 <p>咲坂良太</p></td>
 <td><p>受害者的兒子</p></td>
@@ -906,7 +906,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/三浦友和.md" title="wikilink">三浦友和</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/三浦友和" title="wikilink">三浦友和</a></p></td>
 <td><center>
 <p>諸星敬介</p></td>
 <td><p>民自黨的議員</p></td>
@@ -1005,7 +1005,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -1048,13 +1048,13 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/鈴木浩介_(演員).md" title="wikilink">鈴木浩介</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鈴木浩介_(演員)" title="wikilink">鈴木浩介</a></p></td>
 <td><center>
 <p>村上健太郎</p></td>
 <td><p>虹浦分部事務官</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -1128,7 +1128,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/吉野公佳.md" title="wikilink">吉野公佳</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/吉野公佳" title="wikilink">吉野公佳</a></p></td>
 <td><center>
 <p>秋月伶子</p></td>
 <td><p>鴨井產業社長的外遇對象</p></td>
@@ -1146,7 +1146,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/根岸季衣.md" title="wikilink">根岸季衣</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/根岸季衣" title="wikilink">根岸季衣</a></p></td>
 <td><center>
 <p>養雞場老闆娘</p></td>
 <td><p>因養雞場的雞被偷，而向警方求助</p></td>
@@ -1155,7 +1155,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/利重剛.md" title="wikilink">利重剛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/利重剛" title="wikilink">利重剛</a></p></td>
 <td><center>
 <p>鴨井正樹</p></td>
 <td><p>鴨井產業前任社長之子暨現任社長</p></td>
@@ -1164,7 +1164,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/大高洋夫.md" title="wikilink">大高洋夫</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/大高洋夫" title="wikilink">大高洋夫</a></p></td>
 <td><center>
 <p>雜誌「實話天堂」負責人</p></td>
 <td></td>
@@ -1173,7 +1173,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/手塚理美.md" title="wikilink">手塚理美</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/手塚理美" title="wikilink">手塚理美</a></p></td>
 <td><center>
 <p>古越廣子</p></td>
 <td><p>釣魚民宿「古越」的老闆娘，瀧田的小學同學</p></td>
@@ -1221,11 +1221,11 @@
 <td><center>
 <p>35歲</p></td>
 <td><center>
-<p><a href="../Page/梁少霞.md" title="wikilink">梁少霞</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/阿部寛.md" title="wikilink">阿部寛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/阿部寛" title="wikilink">阿部寛</a></p></td>
 <td><center>
 <p>芝山貢</p></td>
 <td></td>
@@ -1236,7 +1236,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a></p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td></td>
@@ -1325,14 +1325,14 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/木村拓哉.md" title="wikilink">木村拓哉</a></p></td>
 <td><center>
 <p>久利生公平</p></td>
-<td><p>從<a href="../Page/HERO_(2007年電影).md" title="wikilink">三軒茶屋公司職員殺人事件的</a>2年後先後調職到石川地方檢察廳、大阪地方檢察廳、宮崎地方檢察廳，其後第三度任職於東京地檢城西支部。輕便的服裝和<a href="../Page/電視購物.md" title="wikilink">電視購物的熱衷</a>、追查真相的態度和行動力與以前完全沒變</p></td>
+<td><p>從<a href="../Page/HERO_(2007年電影).md" title="wikilink">三軒茶屋公司職員殺人事件的</a>2年後先後調職到石川地方檢察廳、大阪地方檢察廳、宮崎地方檢察廳，其後第三度任職於東京地檢城西支部。輕便的服裝和<a href="https://zh.wikipedia.org/wiki/電視購物" title="wikilink">電視購物的熱衷</a>、追查真相的態度和行動力與以前完全沒變</p></td>
 <td><center>
 <p>40歲</p></td>
 <td><center>
@@ -1351,7 +1351,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/杉本哲太.md" title="wikilink">杉本哲太</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/杉本哲太" title="wikilink">杉本哲太</a></p></td>
 <td><center>
 <p>田村雅史</p></td>
 <td><p>檢察官，五年前任職於東京地檢特搜部，之後調職到城西支部。最喜歡炫耀過去的事蹟，也期待有一天能重返特搜部。和牛丸的女兒結婚，討好奉承自然不可少。</p></td>
@@ -1394,7 +1394,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/勝矢.md" title="wikilink">勝矢</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/勝矢" title="wikilink">勝矢</a></p></td>
 <td><center>
 <p>小杉啓太</p></td>
 <td><p>警衛</p></td>
@@ -1405,7 +1405,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/松重豐" title="wikilink">松重豐</a></p></td>
 <td><center>
 <p>川尻健三郎</p></td>
 <td><p>城西支部長</p></td>
@@ -1464,7 +1464,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -1508,7 +1508,7 @@
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 <td><p><strong>年齡</strong></p></td>
-<td><p><strong><a href="../Page/TVB.md" title="wikilink">TVB配音</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB配音</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -1555,11 +1555,11 @@
 <td><p>播報寶石強盗傷害事件的新聞主播</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/柚子蜜_(配音員).md" title="wikilink">柚子蜜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/柚子蜜_(配音員)" title="wikilink">柚子蜜</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/勝村政信.md" title="wikilink">勝村政信</a>（第9－10集）</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/勝村政信" title="wikilink">勝村政信</a>（第9－10集）</p></td>
 <td><center>
 <p>江上達夫</p></td>
 <td><p>東京地方檢察廳特別捜査部檢察官</p></td>
@@ -1642,7 +1642,7 @@
 <td><p>資產家之子，因襲擊宮原被以現行犯逮捕</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -1827,7 +1827,7 @@
 <td><p>京都地方檢察廳檢察官</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/梁少霞.md" title="wikilink">梁少霞</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -1841,7 +1841,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/西村和彦.md" title="wikilink">西村和彦</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/西村和彦" title="wikilink">西村和彦</a></p></td>
 <td><center>
 <p>土井垣次郎</p></td>
 <td><p>健康器材詐欺案的嫌犯</p></td>
@@ -1851,7 +1851,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/阿部亮平.md" title="wikilink">阿部亮平</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/阿部亮平" title="wikilink">阿部亮平</a></p></td>
 <td><center>
 <p>飛田丞治</p></td>
 <td><p>人孔蓋竊盜案的嫌犯</p></td>
@@ -1861,7 +1861,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/丸高愛實.md" title="wikilink">丸高愛實</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/丸高愛實" title="wikilink">丸高愛實</a></p></td>
 <td><center>
 <p>佳那子</p></td>
 <td><p>俱樂部女公關，過去與飛田同為不良集團成員</p></td>
@@ -1902,7 +1902,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/森田順平.md" title="wikilink">森田順平</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/森田順平" title="wikilink">森田順平</a></p></td>
 <td><center>
 <p>今村</p></td>
 <td><p>N&amp;I法律事務所律師。曾擔任檢察官，與川尻健三郎是同期</p></td>
@@ -1917,7 +1917,7 @@
 <td><p>竊盜犯。遭警方逮捕時坦承罪行，卻在檢調偵查時翻供</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/張裕東.md" title="wikilink">張裕東</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -2061,7 +2061,7 @@
 <td><p>到兼營酒吧的餐廳「MAHI MAHI」參加聯誼的女子</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃瑩瑩.md" title="wikilink">黃瑩瑩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃瑩瑩" title="wikilink">黃瑩瑩</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -2110,7 +2110,7 @@
 <td><p>城山的同居女友</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/柚子蜜_(配音員).md" title="wikilink">柚子蜜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/柚子蜜_(配音員)" title="wikilink">柚子蜜</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -2173,7 +2173,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/鶴見辰吾.md" title="wikilink">鶴見辰吾</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鶴見辰吾" title="wikilink">鶴見辰吾</a></p></td>
 <td><center>
 <p>小此木誠</p></td>
 <td><p>權藤的辯護律師</p></td>
@@ -2197,7 +2197,7 @@
 <td><p>暴力集團「川藤組」的幹部，以言語威脅久利生不得起訴權藤</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -2252,7 +2252,7 @@
 <td><p>應德大學畢業校友，自稱服飾製造商社長，曾有恐嚇他人的前科</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -2261,7 +2261,7 @@
 <td><p>餐廳老闆娘，大學生傷害致死事件的關鍵證人</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/林丹鳳.md" title="wikilink">林丹鳳</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林丹鳳" title="wikilink">林丹鳳</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -2292,7 +2292,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/白洲迅.md" title="wikilink">白洲迅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/白洲迅" title="wikilink">白洲迅</a></p></td>
 <td><center>
 <p>阿部勝士</p></td>
 <td><p>應德大學經濟系2年級生</p></td>
@@ -2365,7 +2365,7 @@
 <td><p>殺人嫌疑犯</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -2385,7 +2385,7 @@
 <td><p>東京地方檢察廳特別捜査部副部長</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -2409,7 +2409,7 @@
 <td><center>
 <p>本人飾演（富士電視台主播）</p></td>
 <td><center>
-<p><a href="../Page/山崎夕貴.md" title="wikilink">山崎夕貴</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/山崎夕貴" title="wikilink">山崎夕貴</a></p></td>
 <td><p>「St.George's Tavern」的客人</p></td>
 <td></td>
 <td></td>
@@ -2462,7 +2462,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/小市慢太郎.md" title="wikilink">小市慢太郎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/小市慢太郎" title="wikilink">小市慢太郎</a></p></td>
 <td><center>
 <p>八木</p></td>
 <td><p>新聞記者</p></td>
@@ -2472,7 +2472,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/石井正則.md" title="wikilink">石井正則</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/石井正則" title="wikilink">石井正則</a></p></td>
 <td><center>
 <p>三島直也</p></td>
 <td><p>額田建設社長室長</p></td>
@@ -2559,7 +2559,7 @@
 <td><p>於情報節目報導此刑事案件的新聞主播</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
 </tr>
 <tr class="even">
 <td><center></td>
@@ -2582,7 +2582,7 @@
       - 最佳作品
       - 最佳男主角（[木村拓哉](../Page/木村拓哉.md "wikilink")）
       - 最佳主題曲（[宇多田光](../Page/宇多田光.md "wikilink")「[Can You Keep A
-        Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")」）
+        Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")」）
       - 最佳服裝造型（木村拓哉）
       - 最佳導演
       - 最佳配樂
@@ -2596,7 +2596,7 @@
 
 《HERO》於2001年1月8日至2001年3月19日在日本[富士電視台首播](../Page/富士電視台.md "wikilink")，時間（[JST](../Page/日本標準時間.md "wikilink")）為每星期一21:00～21:54（第一集加長版為21:00～22:09，結局篇為21:00～22:19）。
 
-本劇首播時的收視率全部超過30%（日本[關東地區](../Page/關東地區.md "wikilink")）。《HERO》是富士電視台平均收視率最高的連續劇，此外也是單集最高收視率的第二名。
+本劇首播時的收視率全部超過30%（日本[關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink")）。《HERO》是富士電視台平均收視率最高的連續劇，此外也是單集最高收視率的第二名。
 
   - 第一季
 
@@ -2689,7 +2689,7 @@
 <td><p>延長25分鐘</p></td>
 </tr>
 <tr class="even">
-<td><p>平均收視率：34.2%（關東地區）、24.6%（<a href="../Page/關西地區.md" title="wikilink">關西地區</a>）（<a href="../Page/收視率.md" title="wikilink">收視率由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research統計</a>）</p></td>
+<td><p>平均收視率：34.2%（關東地區）、24.6%（<a href="https://zh.wikipedia.org/wiki/關西地區" title="wikilink">關西地區</a>）（<a href="https://zh.wikipedia.org/wiki/收視率" title="wikilink">收視率由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research統計</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2803,7 +2803,7 @@
 <td><p>延長30分鐘</p></td>
 </tr>
 <tr class="even">
-<td><p>平均收視率：20.97%（<a href="../Page/收視率.md" title="wikilink">收視率由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="../Page/關東地區.md" title="wikilink">關東地區統計</a>）</p></td>
+<td><p>平均收視率：20.97%（<a href="https://zh.wikipedia.org/wiki/收視率" title="wikilink">收視率由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區統計</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2848,7 +2848,8 @@
 <!-- end list -->
 
   - 谷村雅史（南場的前任男友，在結婚典禮上被淋成落湯雞） - [三浦力](../Page/三浦力.md "wikilink")
-  - 南場礼（向谷村潑水的嫌疑者） - [小野百合子](../Page/小野百合子.md "wikilink")
+  - 南場礼（向谷村潑水的嫌疑者） -
+    [小野百合子](https://zh.wikipedia.org/wiki/小野百合子 "wikilink")
 
 <!-- end list -->
 
@@ -2856,7 +2857,7 @@
 
 <!-- end list -->
 
-  - 劇本 - [仁志光佑](../Page/仁志光佑.md "wikilink")
+  - 劇本 - [仁志光佑](https://zh.wikipedia.org/wiki/仁志光佑 "wikilink")
   - 導演 - 金井紘、平野眞、森脇智延、目黑由紀乃
   - 主題曲 - 服部隆之「『HERO』-Main
     Title-」（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）

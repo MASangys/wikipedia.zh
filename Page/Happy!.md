@@ -1,10 +1,10 @@
-**Happy\!**（），又译**網壇小魔女**，是[浦澤直樹畫的](../Page/浦澤直樹.md "wikilink")[網球漫畫](../Page/體育漫畫#網球漫畫.md "wikilink")。
+**Happy\!**（），又译**網壇小魔女**，是[浦澤直樹畫的](../Page/浦澤直樹.md "wikilink")[網球漫畫](https://zh.wikipedia.org/wiki/體育漫畫#網球漫畫 "wikilink")。
 
 ## 概要
 
   - 1994年至1999年在[Big Comic
     Spirits連載](../Page/Big_Comic_Spirits.md "wikilink")。
-  - 2006年4月7日於[TBS播放電視劇](../Page/東京廣播公司.md "wikilink")。2006年12月26日播放第二輯「Happy！2」。
+  - 2006年4月7日於[TBS播放電視劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")。2006年12月26日播放第二輯「Happy！2」。
 
 ## 故事簡介
 
@@ -47,30 +47,32 @@
   - 鳳 圭一郎 -
     [田口淳之介](../Page/田口淳之介.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - 竜ヶ崎 蝶子 - [小林麻央](../Page/小林麻央.md "wikilink")
-  - 賀来 菊子 - [夏川純](../Page/夏川純.md "wikilink")
-  - 海野 家康 - [荒川良良](../Page/荒川良良.md "wikilink")
-  - 桂木 - [沼田爆](../Page/沼田爆.md "wikilink")
-  - 山口 百太郎 - [森下能幸](../Page/森下能幸.md "wikilink")
-  - 竜ヶ崎 花江 - [渡辺えり子](../Page/渡辺えり子.md "wikilink")
-  - 鰐淵 京平 - [哀川翔](../Page/哀川翔.md "wikilink")
+  - 賀来 菊子 - [夏川純](https://zh.wikipedia.org/wiki/夏川純 "wikilink")
+  - 海野 家康 - [荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")
+  - 桂木 - [沼田爆](https://zh.wikipedia.org/wiki/沼田爆 "wikilink")
+  - 山口 百太郎 - [森下能幸](https://zh.wikipedia.org/wiki/森下能幸 "wikilink")
+  - 竜ヶ崎 花江 - [渡辺えり子](https://zh.wikipedia.org/wiki/渡辺えり子 "wikilink")
+  - 鰐淵 京平 - [哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")
   - 空き地の男 - [濱田雅功](../Page/濱田雅功.md "wikilink")（特別出演）
   - サンダー牛山 - [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")（特別出演）
-  - 鳳 唄子 - [片平なぎさ](../Page/片平なぎさ.md "wikilink")
-  - 海野 洋平太 - [村田雄浩](../Page/村田雄浩.md "wikilink")（友情出演））
-  - 海野 舵樹 - [岩沼佑亮](../Page/岩沼佑亮.md "wikilink")
-  - 海野 沙代里 - [奈良瞳](../Page/奈良瞳.md "wikilink")
-  - 海野 三悟 - [中野目崇真](../Page/中野目崇真.md "wikilink")
-  - 辯天橋 雛 - [青木裕子](../Page/青木裕子.md "wikilink")（TBS電視廣播員）
+  - 鳳 唄子 - [片平なぎさ](https://zh.wikipedia.org/wiki/片平なぎさ "wikilink")
+  - 海野 洋平太 -
+    [村田雄浩](https://zh.wikipedia.org/wiki/村田雄浩 "wikilink")（友情出演））
+  - 海野 舵樹 - [岩沼佑亮](https://zh.wikipedia.org/wiki/岩沼佑亮 "wikilink")
+  - 海野 沙代里 - [奈良瞳](https://zh.wikipedia.org/wiki/奈良瞳 "wikilink")
+  - 海野 三悟 - [中野目崇真](https://zh.wikipedia.org/wiki/中野目崇真 "wikilink")
+  - 辯天橋 雛 -
+    [青木裕子](https://zh.wikipedia.org/wiki/青木裕子 "wikilink")（TBS電視廣播員）
 
 ### 工作人員
 
   - 原作：[浦澤直樹](../Page/浦澤直樹.md "wikilink")（小学館「ビッグスピリッツコミックス」刊）
-  - 脚本：[土田英生](../Page/土田英生.md "wikilink")
+  - 脚本：[土田英生](https://zh.wikipedia.org/wiki/土田英生 "wikilink")
   - 原案協力：星野博規、由田和人、宮下雅之（小学館「週刊ビッグコミックスピリッツ」編集部）
-  - 監修：[長崎尚志](../Page/長崎尚志.md "wikilink")（スタジオ·ビー）
-  - 製作人：[伊與田英德](../Page/伊與田英德.md "wikilink")、壁谷悌之
-  - 演出：[川嶋龍太郎](../Page/川嶋龍太郎.md "wikilink")
-  - CG監督：[曽利文彦](../Page/曽利文彦.md "wikilink")
+  - 監修：[長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")（スタジオ·ビー）
+  - 製作人：[伊與田英德](https://zh.wikipedia.org/wiki/伊與田英德 "wikilink")、壁谷悌之
+  - 演出：[川嶋龍太郎](https://zh.wikipedia.org/wiki/川嶋龍太郎 "wikilink")
+  - CG監督：[曽利文彦](https://zh.wikipedia.org/wiki/曽利文彦 "wikilink")
   - 制作：[TBS電視](../Page/TBS.md "wikilink")
   - 製作著作：[TBS](../Page/TBS.md "wikilink")
 

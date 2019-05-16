@@ -1,11 +1,11 @@
-《**雙生兒**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語音樂專輯](../Page/Twins.md "wikilink")，於2002年1月29日在[香港發行](../Page/香港.md "wikilink")，專輯《双生儿》CD+VCD收录了‘着睡衣跳舞’及贺年歌‘孖宝668’等5首新歌。而VCD上就有‘孖宝668’及‘爱情当入樽’的MTV。在‘孖宝668’的MTV中，Twins以全新搞笑形象示人，阿Asa
+《**雙生兒**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語音樂專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年1月29日在[香港發行](../Page/香港.md "wikilink")，專輯《双生儿》CD+VCD收录了‘着睡衣跳舞’及贺年歌‘孖宝668’等5首新歌。而VCD上就有‘孖宝668’及‘爱情当入樽’的MTV。在‘孖宝668’的MTV中，Twins以全新搞笑形象示人，阿Asa
 更反串男角，和风骚入骨的阿嬌向大家拜年。憑《大浪漫主義》及《孖寶668》兩曲廣受[香港欢迎](../Page/香港.md "wikilink")。
 
 ## 曲目
 
 ## 曲目資料
 
-  - 《孖寶668》為[Twins第一首賀年歌曲](../Page/Twins.md "wikilink")，其後她們每年均推出一首賀年歌曲。此曲為把過去賀年歌曲串燒成一曲。
+  - 《孖寶668》為[Twins第一首賀年歌曲](https://zh.wikipedia.org/wiki/Twins "wikilink")，其後她們每年均推出一首賀年歌曲。此曲為把過去賀年歌曲串燒成一曲。
 
 ## 相關專輯
 

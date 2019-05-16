@@ -1,15 +1,15 @@
 《**Yes\!
-光之美少女5**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第四作，屬第三代光之美少女。本項介紹《Yes\!
+光之美少女5**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第四作，屬第三代光之美少女。本項介紹《Yes\!
 光之美少女5》及內容延續的第五作（本作品的第2期）《**Yes\! 光-{}-之美少女5GoGo\!**》。
 
 ## 概要
 
 為2007年開始播放的「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第四部作品，內容上則是第三代的光之美少女。本作繼「[光之美少女Splash
-Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人物及舞台，不但故事和前三部作品完全獨立，主角也從前三部的兩人組變成類似[戰隊的五人團隊](../Page/超級戰隊系列.md "wikilink")，並修改了許多相關設定。反映內容的大幅變更，原文標題取消了前半段的「兩人」（）與英文副標「Precure」，只保留日文的「」，以表示製作群希望帶給觀眾一個全新的「光之美少女」。
+Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人物及舞台，不但故事和前三部作品完全獨立，主角也從前三部的兩人組變成類似[戰隊的五人團隊](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")，並修改了許多相關設定。反映內容的大幅變更，原文標題取消了前半段的「兩人」（）與英文副標「Precure」，只保留日文的「」，以表示製作群希望帶給觀眾一個全新的「光之美少女」。
 
 服裝設計上，第四部以蝴蝶為主題，第五部則呼應故事，在蝴蝶之外又加上玫瑰花；而第2期中出現的新成員妙奇露絲由於能力來源的設定，完全是以玫瑰為主題。
 
-本作品以[HDTV製作](../Page/高解析度電視.md "wikilink")，亦是[朝日電視台](../Page/朝日電視台.md "wikilink")-{星}-期日早上8時半時段首部[HDTV播放的動畫](../Page/高解析度電視.md "wikilink")。
+本作品以[HDTV製作](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink")，亦是[朝日電視台](../Page/朝日電視台.md "wikilink")-{星}-期日早上8時半時段首部[HDTV播放的動畫](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink")。
 
 本作第2期的第6話同時也是整個光之美少女係列的第200話。
 
@@ -295,7 +295,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
   -
 
-    來自帕魯米王國的精靈，同時也是該國的王子，長得像[花栗鼠](../Page/花栗鼠.md "wikilink")，說話會在語尾加上「～可可（）」。性格外向，經常到生長世界的各個國家去旅行。牠在人類世界變成人類，並以「**小小田浩史**（，Kokoda
+    來自帕魯米王國的精靈，同時也是該國的王子，長得像[花栗鼠](https://zh.wikipedia.org/wiki/花栗鼠 "wikilink")，說話會在語尾加上「～可可（）」。性格外向，經常到生長世界的各個國家去旅行。牠在人類世界變成人類，並以「**小小田浩史**（，Kokoda
     Koji）」身份任教望與玲一班的國語科老師。但在身體受到衝擊時會變回牠原本的精靈身份。最喜愛的食物是忌廉[泡芙](../Page/泡芙.md "wikilink")。于第2期第45話戴上帕魯米王國王冠成為真正的國王。對望有好感。
 
     名稱源自於英文「椰子」。其人類名字中的姓氏「小小田」（）的日语读音聽起來像「我是可可」。
@@ -331,8 +331,8 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
   -
 
-    本作第二期主角之一，可以穿梭於各個世界(包括**絲比列塔**的故事書世界)的精靈，長得像[鴨嘴獸](../Page/鴨嘴獸.md "wikilink")。可變身成巨大的燕子，背上有凹位可容納多人，當背篷閉合後會出現蝴蝶形的窗供人觀看外況。在人類世界可變成人類，名叫「**甘井史朗**（，Amai
-    Shiroh）」。與可可及果果一樣，當受到衝擊會變回原狀。說話會在語尾加上「～-{普普}-（）」。最喜愛的食物是[熱香餅](../Page/熱香餅.md "wikilink")。現居於望等人所住城鎮的鐘樓內，年幼時曾有被永恆博物館囚禁及攻擊的陰影。為了得到自己身世的情報而攜帶玫瑰寶盒（RosePad）交換，獨自一人前往永恆博物館大本營。後來於良心驅使下拒絕，並得到望等人的救助及信任。在平時沒有信可送的時候，經常在夢想學園食堂里打工并幫助校工阿貴姨做飯。
+    本作第二期主角之一，可以穿梭於各個世界(包括**絲比列塔**的故事書世界)的精靈，長得像[鴨嘴獸](https://zh.wikipedia.org/wiki/鴨嘴獸 "wikilink")。可變身成巨大的燕子，背上有凹位可容納多人，當背篷閉合後會出現蝴蝶形的窗供人觀看外況。在人類世界可變成人類，名叫「**甘井史朗**（，Amai
+    Shiroh）」。與可可及果果一樣，當受到衝擊會變回原狀。說話會在語尾加上「～-{普普}-（）」。最喜愛的食物是[熱香餅](https://zh.wikipedia.org/wiki/熱香餅 "wikilink")。現居於望等人所住城鎮的鐘樓內，年幼時曾有被永恆博物館囚禁及攻擊的陰影。為了得到自己身世的情報而攜帶玫瑰寶盒（RosePad）交換，獨自一人前往永恆博物館大本營。後來於良心驅使下拒絕，並得到望等人的救助及信任。在平時沒有信可送的時候，經常在夢想學園食堂里打工并幫助校工阿貴姨做飯。
 
     名稱源自於英文「糖漿」。其人類名字「甘井史朗」中的姓氏「甘井」中的「甘」暗示糖漿的甜，而「史朗」（）則與本名讀音相近。
 
@@ -352,7 +352,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
     是個將訊息傳達給望等人的神秘人物，並在「光之玫瑰園」等候望她們的到來，並表示自己命不久矣。
 
-    其名字源自[古羅馬神話中的](../Page/古羅馬神話.md "wikilink")「花之女神─[佛洛拉](../Page/佛洛拉.md "wikilink")」。
+    其名字源自[古羅馬神話中的](https://zh.wikipedia.org/wiki/古羅馬神話 "wikilink")「花之女神─[佛洛拉](https://zh.wikipedia.org/wiki/佛洛拉 "wikilink")」。
 
 ### 帕魯米王國四鄰國
 
@@ -476,7 +476,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     於第二劇場版中一度為穆舒凡效力，搶走了夢原希的生日蛋糕，并負責把光之美少女一行人騙入由穆舒凡在甜點王國里設下的陷阱當中。事成之後他因為對穆舒凡給予自己的報酬感到強烈不滿而最終離開了穆舒凡身邊。
 
     於《[HUG\!
-    光之美少女](../Page/HUG!_光之美少女.md "wikilink")》的第36話中得知他又曾經一度加入過黑暗明日社但後來逃出，而他又進一步透露自己還在黑暗明日社的時候被分配到特勞姆博士身邊并受其委託製造一件能夠將時間停止的可怕武器。
+    光之美少女](https://zh.wikipedia.org/wiki/HUG!_光之美少女 "wikilink")》的第36話中得知他又曾經一度加入過黑暗明日社但後來逃出，而他又進一步透露自己還在黑暗明日社的時候被分配到特勞姆博士身邊并受其委託製造一件能夠將時間停止的可怕武器。
 
     名稱源自於英文「黃蜂」。
 
@@ -544,7 +544,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     Explosion）」也只能讓他的鐵面具出現了裂痕。後期將穆卡迪亞及安娜孔蒂當成棄卒殺死。最後被光之美少女和妙奇露絲合力使出的最終必殺技：「光之美少女妙奇露絲芙蘿拉大爆發（Precure
     Milky Rose Floral Explosion）」消滅。
 
-    後來在[STMM中被索爾希埃爾的魔力以戰鬥型態復活](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")，和自私始祖一起對抗桃天使、花蕾天使、旋律天使、快樂天使和奇跡天使。最後被五人協力打敗。
+    後來在[STMM中被索爾希埃爾的魔力以戰鬥型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和自私始祖一起對抗桃天使、花蕾天使、旋律天使、快樂天使和奇跡天使。最後被五人協力打敗。
 
 #### 高層
 
@@ -554,7 +554,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
     台灣和香港代理取名為**-{安娜}-**。
 
-    名稱源自於「[蟒蛇](../Page/蟒蛇.md "wikilink")（Anaconda）」。
+    名稱源自於「[蟒蛇](https://zh.wikipedia.org/wiki/蟒蛇 "wikilink")（Anaconda）」。
 
 #### 幹部
 
@@ -571,7 +571,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
   -
 
-    [\#惡夢軍團（Nightmare）参照](../Page/#惡夢軍團（Nightmare）.md "wikilink")。
+    [\#惡夢軍團（Nightmare）参照](https://zh.wikipedia.org/wiki/#惡夢軍團（Nightmare） "wikilink")。
 
   -
 
@@ -580,7 +580,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     Chain）」綑綁腳部，讓光之美少女、妙奇露絲及可可乘機帶往永恆博物館大本營救出普普。與光之美少女們到達大本營後，因安娜孔蒂發出其解僱通知後強制超獸化。超獸化後成為首個「光之美少女幻彩玫瑰大爆發（-{Precure
     Rainbow Rose Explosion}-）」的犧牲品。永恆博物館第二殉職者。
 
-    名稱源自於日文「[章魚](../Page/章魚.md "wikilink")（Tako）」。
+    名稱源自於日文「[章魚](https://zh.wikipedia.org/wiki/章魚 "wikilink")（Tako）」。
 
     台灣和香港代理取名為**-{巴達克斯}-**。
 
@@ -714,7 +714,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
   -
 
-    玲所屬夢想學園[五人足球同好會的隊長](../Page/五人制足球.md "wikilink")。腳部患有舊傷。
+    玲所屬夢想學園[五人足球同好會的隊長](https://zh.wikipedia.org/wiki/五人制足球 "wikilink")。腳部患有舊傷。
 
 <!-- end list -->
 
@@ -758,7 +758,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
     春日野麗的經紀人。
 
-    名稱源自於[東映動畫的製作人](../Page/東映動畫.md "wikilink")[鷲尾天](../Page/鷲尾天.md "wikilink")。
+    名稱源自於[東映動畫的製作人](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[鷲尾天](https://zh.wikipedia.org/wiki/鷲尾天 "wikilink")。
 
 <!-- end list -->
 
@@ -792,7 +792,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 
   -
 
-    於第2期第17話登場的真人客串，說[關西腔的搞笑藝人](../Page/關西地方.md "wikilink")。
+    於第2期第17話登場的真人客串，說[關西腔的搞笑藝人](https://zh.wikipedia.org/wiki/關西地方 "wikilink")。
 
 ## 光之美少女的用具
 
@@ -896,7 +896,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 <td></td>
 <td><p>希望的光之美少女誕生!</p></td>
 <td><p>希望的Precure誕生!</p></td>
-<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
 <td><p>小村敏明</p></td>
 <td><p>川村敏江</p></td>
 <td><p>行信三<br />
@@ -954,7 +954,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
 <td></td>
 <td><p>光之美少女的資格</p></td>
 <td><p>Precure的資格</p></td>
-<td><p><a href="../Page/清水東.md" title="wikilink">清水東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/清水東" title="wikilink">清水東</a></p></td>
 <td><p>岩井隆央</p></td>
 <td><p>奧山美佳</p></td>
 <td><p>井芹達朗</p></td>
@@ -2287,8 +2287,8 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
   - 企劃：大野逸雄（ABC）、鶴崎りか（ADK）、清水慎治
   - 製作人：龜田雅之（ABC）、麻生一宏（ADK）、鷲尾天
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
-  - 連載：[講談社](../Page/講談社.md "wikilink")「[Nakayoshi](../Page/Nakayoshi.md "wikilink")」（漫画：[上北雙子](../Page/上北雙子.md "wikilink")）
-  - 系列構成：[成田良美](../Page/成田良美.md "wikilink")
+  - 連載：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")「[Nakayoshi](../Page/Nakayoshi.md "wikilink")」（漫画：[上北雙子](../Page/上北雙子.md "wikilink")）
+  - 系列構成：[成田良美](https://zh.wikipedia.org/wiki/成田良美 "wikilink")
   - 音樂：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
   - 製作擔當：坂井和男
   - 美術設計：行信三
@@ -2296,7 +2296,7 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
   - 人物設計：川村敏江
   - 系列監督：[小村敏明](../Page/小村敏明.md "wikilink")
   - 制作協力：[東映](../Page/東映.md "wikilink")
-  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](../Page/ADK.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 主題曲
 
@@ -2311,9 +2311,9 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
   - 台灣片頭曲**『プリキュア5、スマイル go\! go\!』**
     作曲：岩切芳郎、編曲：家原正樹、歌：艾摩新
   - 香港片頭曲**『1 2 3 4 Wonderful 5』**
-    作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")、作曲：岩切芳郎、編曲：？、歌：[樂瞳](../Page/樂瞳.md "wikilink")
+    作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")、作曲：岩切芳郎、編曲：？、歌：[樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink")
   - 插入歌「とびっきり\!勇気の扉（ドア）」（第20話、第29話）
-    作詞：只野菜摘、作曲：[高取秀明](../Page/高取秀明.md "wikilink")、編曲：、歌：春日野麗（[伊瀬茉莉也](../Page/伊瀬茉莉也.md "wikilink")）
+    作詞：只野菜摘、作曲：[高取秀明](../Page/高取秀明.md "wikilink")、編曲：、歌：春日野麗（[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")）
 
 **Yes\! 光之美少女5 GoGo\!**
 
@@ -2338,10 +2338,10 @@ Star](../Page/光之美少女Splash_Star.md "wikilink")」之後再次變更人�
     作詞：青木久美子、作曲：小杉保夫、編曲：籠島裕昌、歌：キュア・カルテット
 
   - 台灣片尾曲**『ガンバランスdeダンス〜-{希望}-のリレー〜』**（第11話～第48話）
-    作曲：小杉保夫、編曲：籠島裕昌、歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")、[彩虹姐姐](../Page/彩虹姐姐.md "wikilink")、[蝴蝶姐姐](../Page/蝴蝶姐姐.md "wikilink")
+    作曲：小杉保夫、編曲：籠島裕昌、歌：[草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")、[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
 
   - 香港片頭曲**『Go Go\! 美少女\!』（第3話～第12話）**
-    作詞：鄭櫻綸、作曲：間瀬公司、編曲：？、歌：[陳慧敏](../Page/陳慧敏.md "wikilink")
+    作詞：鄭櫻綸、作曲：間瀬公司、編曲：？、歌：[陳慧敏](https://zh.wikipedia.org/wiki/陳慧敏 "wikilink")
 
   - 插入歌
     OST1「ツイン・テールの魔法」（第18話、第37話）
@@ -2487,8 +2487,9 @@ Kingdom)的「巧克娜」公主，並且奪走望的生日蛋糕逃走。巧克
     Star和](../Page/光之美少女Splash_Star.md "wikilink")[Yes\! 光之美少女5
     GoGo！](../Page/Yes!_光之美少女5.md "wikilink"))，以特別版OVA方式呈現的五週年紀念作。
     由於此電影上映之後《[光之美少女：幸福精靈Fresh\!](../Page/FRESH光之美少女！.md "wikilink")》才開始播出，因此劇中只出現前三代共十一位光之美少女，在此作衍生的[All
-    Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")「[光之美少女 All
     Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")「[光之美少女
+    All Stars
     DX](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")」中才加入《[光之美少女：幸福精靈Fresh\!](../Page/FRESH光之美少女！.md "wikilink")》的三位主角。
 
 #### 登場人物
@@ -2498,7 +2499,8 @@ Kingdom)的「巧克娜」公主，並且奪走望的生日蛋糕逃走。巧克
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")
+    主條目：[All Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
     [光之美少女 All Stars DX
     大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
     [光之美少女 All Stars DX2
@@ -2512,11 +2514,11 @@ Kingdom)的「巧克娜」公主，並且奪走望的生日蛋糕逃走。巧克
     [光之美少女 All Stars New Stage3
     永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
     [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
     [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")
+    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
 
 ## 獎項
 
@@ -2534,7 +2536,7 @@ Kingdom)的「巧克娜」公主，並且奪走望的生日蛋糕逃走。巧克
   - 2009年4月18日在台灣東森幼幼台播出的《**Yes\!
     光之美少女5夢想-{}-學園**》特別節目中，除了預告本劇第1期劇情內容之外，還公布了本劇第1期的國語翻唱版片頭曲，以及本劇第1期台灣配音陣容等相關資訊。
   - **台灣版本**的第1期中文翻唱版片頭曲中，片頭動畫加入了五隻主角造型的大布偶以及東森幼幼台工作人員載歌載舞的畫面，並穿插原本的片頭動畫部分片段剪輯而成；另外除了第2期第11話起開始播第二首中文片尾曲外，其他皆未播放；第2期片頭曲在台灣以日文原音播出。而**香港版本**的第1期粵語翻唱版片頭曲中則不對片頭動畫有所更動；而兩首片尾曲則照常以日文原音播出，第2期的粵語翻唱版片頭曲亦沒有對片頭動畫作出更動，但於第13話後因不明原因轉回日文版主題曲。
-  - 本系列的原始設定以畫面長寬比為16:9的[HD規格播出](../Page/高解析度電視.md "wikilink")，但在**台灣版本**則改為畫面長寬比4:3的一般規格播出，移除了畫面上下兩邊的黑框（[Letterbox](../Page/黑邊.md "wikilink")），使得畫面中人物與背景在畫面寬度不變、高度加大的情況下被連帶拉高；而**香港版本**則沿用日本的原始畫面長寬比16:9的設定播出。
+  - 本系列的原始設定以畫面長寬比為16:9的[HD規格播出](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink")，但在**台灣版本**則改為畫面長寬比4:3的一般規格播出，移除了畫面上下兩邊的黑框（[Letterbox](../Page/黑邊.md "wikilink")），使得畫面中人物與背景在畫面寬度不變、高度加大的情況下被連帶拉高；而**香港版本**則沿用日本的原始畫面長寬比16:9的設定播出。
 
 ## 電視節目的變遷
 

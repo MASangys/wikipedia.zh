@@ -2,9 +2,9 @@
 
 ## 生平
 
-布劳德海德1947年生于[俄亥俄州](../Page/俄亥俄州.md "wikilink")[代顿](../Page/代顿.md "wikilink")，六岁时搬家到[康涅狄格州的](../Page/康涅狄格州.md "wikilink")[费尔菲尔德](../Page/费尔菲尔德县_\(康乃狄克州\).md "wikilink")，他就学于[马萨诸塞州的](../Page/马萨诸塞州.md "wikilink")[菲利普学院](../Page/菲利普学院.md "wikilink")，1968年毕业于[耶鲁学院](../Page/耶鲁学院.md "wikilink")，1972年在[耶鲁大学获得英语博士学位](../Page/耶鲁大学.md "wikilink")。
+布劳德海德1947年生于[俄亥俄州](../Page/俄亥俄州.md "wikilink")[代顿](https://zh.wikipedia.org/wiki/代顿 "wikilink")，六岁时搬家到[康涅狄格州的](https://zh.wikipedia.org/wiki/康涅狄格州 "wikilink")[费尔菲尔德](https://zh.wikipedia.org/wiki/费尔菲尔德县_\(康乃狄克州\) "wikilink")，他就学于[马萨诸塞州的](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[菲利普学院](https://zh.wikipedia.org/wiki/菲利普学院 "wikilink")，1968年毕业于[耶鲁学院](../Page/耶鲁学院.md "wikilink")，1972年在[耶鲁大学获得英语博士学位](../Page/耶鲁大学.md "wikilink")。
 
-1972年起耶鲁大学做英语系的[助理教授](../Page/助理教授.md "wikilink")，1985年生为正教授，并成为英语系系主任。1993年起到2004年做耶鲁学院的院长。2004年起担任杜克大学的第九任校长。
+1972年起耶鲁大学做英语系的[助理教授](https://zh.wikipedia.org/wiki/助理教授 "wikilink")，1985年生为正教授，并成为英语系系主任。1993年起到2004年做耶鲁学院的院长。2004年起担任杜克大学的第九任校长。
 
 ## 参看
 

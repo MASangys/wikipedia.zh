@@ -12,11 +12,11 @@ PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PH
 ## PEAR函式庫列表
 
   - Authentication
-  - [Benchmarking](../Page/Benchmarking.md "wikilink")
+  - [Benchmarking](https://zh.wikipedia.org/wiki/Benchmarking "wikilink")
   - Caching
   - Configuration
   - Console
-  - [Database](../Page/Database.md "wikilink")
+  - [Database](https://zh.wikipedia.org/wiki/Database "wikilink")
       - DB DataObject
       - DB DataObject FormBuilder
   - Date & Time
@@ -24,10 +24,10 @@ PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PH
   - Event
   - File Formats
   - File System
-  - [Gtk](../Page/Gtk.md "wikilink") Components
+  - [Gtk](https://zh.wikipedia.org/wiki/Gtk "wikilink") Components
   - Gtk2 Components
   - [HTML](../Page/HTML.md "wikilink")
-  - [HTTP](../Page/HTTP.md "wikilink")
+  - [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")
   - Images
   - Internationalization
   - Logging
@@ -40,14 +40,15 @@ PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫來提供PH
   - [PHP](../Page/PHP.md "wikilink")
   - Processing
   - Science
-  - [Semantic Web](../Page/Semantic_Web.md "wikilink")
+  - [Semantic
+    Web](https://zh.wikipedia.org/wiki/Semantic_Web "wikilink")
   - Streams
   - Structures
   - System
   - Text
   - Tools and Utilities
   - Validate
-  - [Web Services](../Page/Web_Service.md "wikilink")
+  - [Web Services](https://zh.wikipedia.org/wiki/Web_Service "wikilink")
   - [XML](../Page/XML.md "wikilink")
 
 ## 参考文献

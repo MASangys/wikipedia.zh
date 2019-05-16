@@ -66,11 +66,13 @@ Corporation All rights reserved）訪問所有使用者、投稿者和汽車專�
     投票時間：2006年10月11日－10月31日。
     頒獎典禮：2006年11月1日舉行。
 
-:\*年度國產風雲車：[Mitsubishi i](../Page/三菱i.md "wikilink")
+:\*年度國產風雲車：[Mitsubishi i](https://zh.wikipedia.org/wiki/三菱i "wikilink")
 
-:\*年度進口風雲車：[Audi TT Coupe](../Page/奧迪TT.md "wikilink")
+:\*年度進口風雲車：[Audi TT
+Coupe](https://zh.wikipedia.org/wiki/奧迪TT "wikilink")
 
-:\*年度特別風雲車：[Mitsuoka Orochi](../Page/光岡Orochi.md "wikilink")
+:\*年度特別風雲車：[Mitsuoka
+Orochi](https://zh.wikipedia.org/wiki/光岡Orochi "wikilink")
 
   - 2007年（第2屆：2007－2008）
 
@@ -88,7 +90,7 @@ Corporation All rights reserved）訪問所有使用者、投稿者和汽車專�
 
 ## 相關條目
 
-  - [RJC年度風雲車](../Page/RJC年度風雲車.md "wikilink")
+  - [RJC年度風雲車](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")
   - [日本年度風雲車](../Page/日本年度風雲車.md "wikilink")
   - [消費者年度風雲車](../Page/消費者年度風雲車.md "wikilink")
 

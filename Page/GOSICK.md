@@ -1,10 +1,10 @@
-《**GOSICK**》是日本[直木賞作家](../Page/直木賞.md "wikilink")[櫻庭一樹的系列](../Page/櫻庭一樹.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
+《**GOSICK**》是日本[直木賞作家](https://zh.wikipedia.org/wiki/直木賞 "wikilink")[櫻庭一樹的系列](../Page/櫻庭一樹.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
 
 ## 概要
 
-最初在2003年以短篇的形式參加[龍皇杯](../Page/龍皇杯.md "wikilink")，但最終無緣連載，不過為了回應讀者的支持，2003年底開始於[富士見書房的](../Page/富士見書房.md "wikilink")《[富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")》（現已廢刊）以輕小說的形式出版[文庫本](../Page/文庫本.md "wikilink")，插圖作者為[武田日向](../Page/武田日向.md "wikilink")（該版本中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")）。
+最初在2003年以短篇的形式參加[龍皇杯](https://zh.wikipedia.org/wiki/龍皇杯 "wikilink")，但最終無緣連載，不過為了回應讀者的支持，2003年底開始於[富士見書房的](../Page/富士見書房.md "wikilink")《[富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")》（現已廢刊）以輕小說的形式出版[文庫本](../Page/文庫本.md "wikilink")，插圖作者為[武田日向](../Page/武田日向.md "wikilink")（該版本中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")）。
 
-在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](../Page/直木賞.md "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月開始以隔月發行的形式由](../Page/2009年9月.md "wikilink")[角川文庫以一般小說的形式發行既刊新裝版](../Page/角川文庫.md "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出
+在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](https://zh.wikipedia.org/wiki/直木賞 "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月開始以隔月發行的形式由](../Page/2009年9月.md "wikilink")[角川文庫以一般小說的形式發行既刊新裝版](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出
 雖然一度稱已完結，但在2013年11月27日根據作者推特的最新消息，最新作《GOSICK RED》將於12月25日發售。
 
 漫畫版的作者是女性畫家[天乃咲哉](../Page/天乃咲哉.md "wikilink")，中文版由台灣角川代理。此外，角川文庫版發售的同年，《**GOSICK**》系列由角川書店旗下的女性向文庫[角川Beans文庫發行新裝輕小說版](../Page/角川Beans文庫.md "wikilink")。Beans文庫版的《GOSICKsII》中收錄未發表全新插圖\[1\]。
@@ -17,7 +17,7 @@
 
 ## 故事的舞台
 
-蘇瓦爾王國其實是虛構的歐洲王國，原型可能是[萨伏依公国](../Page/萨伏依公国.md "wikilink")（、），與[法國](../Page/法國.md "wikilink")、[義大利](../Page/義大利.md "wikilink")、[瑞士鄰接](../Page/瑞士.md "wikilink")，通用語是[法語](../Page/法語.md "wikilink")。首都為蘇瓦倫，國土雖然小但是卻很豐饒，在第一次世界大戰中參加協約國而獲得勝利，有「小巨人」的贊稱。有一間位於阿爾卑斯山山腳的學校，名為聖瑪格麗特學園，那是一間擁有悠久莊嚴歷史、專門培育貴族子分的、在王國享負盛名的門學校。由於一直收藏著不能對外界公佈的人或研究，和該國家的黑暗歷史，故有「王室的秘密武器庫」的說法。原本只允許蘇瓦爾貴族子弟就讀，但世界大戰結束後也允許從盟國來的優秀留學生就讀。
+蘇瓦爾王國其實是虛構的歐洲王國，原型可能是[萨伏依公国](../Page/萨伏依公国.md "wikilink")（、），與[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[瑞士鄰接](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，通用語是[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")。首都為蘇瓦倫，國土雖然小但是卻很豐饒，在第一次世界大戰中參加協約國而獲得勝利，有「小巨人」的贊稱。有一間位於阿爾卑斯山山腳的學校，名為聖瑪格麗特學園，那是一間擁有悠久莊嚴歷史、專門培育貴族子分的、在王國享負盛名的門學校。由於一直收藏著不能對外界公佈的人或研究，和該國家的黑暗歷史，故有「王室的秘密武器庫」的說法。原本只允許蘇瓦爾貴族子弟就讀，但世界大戰結束後也允許從盟國來的優秀留學生就讀。
 
 ## 登場人物
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    維多利加出生於1910年12月25日\[2\]。金髮綠瞳的她，外貌看起來比實際年齡少5歲，是個嬌小宛如陶瓷娃娃般的美麗少女，被其兄長稱作灰狼。與母親的長相一模一樣。跟一彌是同班同學，但平常不在教室上課，而是在圖書館塔頂端的植物園裡藉看書來打發無聊的一天，一旦有不認識的人來到花園，便會藏身在備有照明跟點心的櫃子裡。平時表情幾乎冷靜沉著，因此刻意想笑的話都是皮笑肉不笑的方式笑著。喜歡吃各種[甜點特別是](../Page/甜點.md "wikilink")[馬卡龍](../Page/馬卡龍.md "wikilink")，也喜歡洗澡，有時會高興的唱起歌來。非常討厭疼痛，從彈額頭到打針都會讓她掉淚，也討厭會造成疼痛的事物以及硬的食物。
+    維多利加出生於1910年12月25日\[2\]。金髮綠瞳的她，外貌看起來比實際年齡少5歲，是個嬌小宛如陶瓷娃娃般的美麗少女，被其兄長稱作灰狼。與母親的長相一模一樣。跟一彌是同班同學，但平常不在教室上課，而是在圖書館塔頂端的植物園裡藉看書來打發無聊的一天，一旦有不認識的人來到花園，便會藏身在備有照明跟點心的櫃子裡。平時表情幾乎冷靜沉著，因此刻意想笑的話都是皮笑肉不笑的方式笑著。喜歡吃各種[甜點特別是](https://zh.wikipedia.org/wiki/甜點 "wikilink")[馬卡龍](../Page/馬卡龍.md "wikilink")，也喜歡洗澡，有時會高興的唱起歌來。非常討厭疼痛，從彈額頭到打針都會讓她掉淚，也討厭會造成疼痛的事物以及硬的食物。
     平時嘴上幾乎都在貶低一彌，雖然待一彌有如僕役，常罵他是「凡人、笨蛋」，實則對他抱存好感，比任何人都還要重視他。曾經向灰狼村長老占卜未來，問了跟一彌一樣的問題後，對於未來可能與一彌分離的結果感到悲傷，即使如此也相信彼此的心將永不分離。平常不會實際去調查案件而是由一彌蒐集的情報來推理出事件全貌的「安樂椅偵探」。根據本人的說法，推理是把「混沌的碎片」用她的「智慧之泉」再構成的行為。多數事件一開始就已經推測出結果，只是因為嫌麻煩因此不說明，如果要求其「語言化」代價很高，只有一彌可以無限制的要求。
     其母親曾讓一彌傳話給她「女兒啊！解開謎團，然後為了活下去而展示力量吧！」。
     認同柯蒂麗亞「女兒是母親靈魂」的說法。同時亦認為久城就是自己的心臟，就如同《美麗的怪物》一樣。
@@ -40,7 +40,7 @@
 <!-- end list -->
 
   -
-    來自[東方島國的留學生](../Page/大日本帝国.md "wikilink")，性格十分認真，也很刻苦學習。家裏有爸爸、媽媽、兩位哥哥及一位姊姊。對於厲害的哥哥們有自卑感，於是選擇到國外留學，沒想到卻因為長相與其他國家的人不同而被學生和學園怪談扯在一起，稱他為「春天來訪的黑色死神」。曾經被捲入學園旁村莊的殺人事件，因為在[案發現場因此被懷疑為兇手](../Page/案發現場.md "wikilink")，所幸因維多利加的推理而洗清嫌疑找出真兇，但也因此被學生認為是會招來不幸的人。
+    來自[東方島國的留學生](../Page/大日本帝国.md "wikilink")，性格十分認真，也很刻苦學習。家裏有爸爸、媽媽、兩位哥哥及一位姊姊。對於厲害的哥哥們有自卑感，於是選擇到國外留學，沒想到卻因為長相與其他國家的人不同而被學生和學園怪談扯在一起，稱他為「春天來訪的黑色死神」。曾經被捲入學園旁村莊的殺人事件，因為在[案發現場因此被懷疑為兇手](https://zh.wikipedia.org/wiki/案發現場 "wikilink")，所幸因維多利加的推理而洗清嫌疑找出真兇，但也因此被學生認為是會招來不幸的人。
     被布洛瓦警官稱為「所得到的恩惠，就像是從卑鄙的高利貸業者那裡，毫無代價的不斷取得大筆金錢一樣，真是太奇怪又太不可思議了」，感情上有時很遲鈍，總是不知道女孩子在想什麼。雖然總是被維多利加貶低，但是很重視維多利加，經常帶甜點來給維多利加。
     常被布洛瓦警官叫喚為「小松鼠」。被維多利加評為「不但是個老好人，也很坦率。」
     被霍洛維茲的現任村長謝爾吉斯藉著先靈詢問與維多利加的未來，被指出「在幾年之後，將會吹起撼動世界的狂風，但你們的身體太輕，因為那陣狂風，你們兩人將會分開，但是，心將永遠不會分離」。
@@ -114,10 +114,10 @@
   -
     蘇瓦爾王國的外交部幹部。十年前QueenBerry號的相關者。
 
-十年前的相關者（即用於占卜[第一次世界大戰的野兔](../Page/第一次世界大戰.md "wikilink")）：
+十年前的相關者（即用於占卜[第一次世界大戰的野兔](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")）：
 
   -
-    [阿拉伯裔少女](../Page/阿拉伯半島.md "wikilink")，14歲。
+    [阿拉伯裔少女](https://zh.wikipedia.org/wiki/阿拉伯半島 "wikilink")，14歲。
     生還者之一，在10年後於羅珊家中擔當女傭，並用計將之殺害，被捕時說出「這是箱子的複仇」。
   - 修伊
     [英國裔少年](../Page/大英帝国.md "wikilink")，面帶雀斑，假扮成第一個死者，讓孩童們混亂並自相殘殺的人。
@@ -143,14 +143,14 @@
 
 <!-- end list -->
 
-  - [奧地利少年](../Page/奥匈帝国.md "wikilink")
+  - [奧地利少年](https://zh.wikipedia.org/wiki/奥匈帝国 "wikilink")
     高大而肌肉發達。與德國少年脫離隊伍。後來因被鎖於升降機內，升降機墮落而死。
 
 <!-- end list -->
 
   -
     輪廓深邃，身材高大。家住在市場附近。
-  - [美國少年](../Page/美國.md "wikilink")
+  - [美國少年](https://zh.wikipedia.org/wiki/美國 "wikilink")
     高瘦，捲髮，未經歷變聲期的少年。家住在有玉米田的地方。
 
 <!-- end list -->
@@ -237,7 +237,7 @@
   -
     自稱在鐘錶公司工作，實際上則隸屬蘇瓦爾科學院，參加魔術幻燈秀是為了回收丘比特羅傑的遺物箱，最終遭到摩瑞拉殺害。
   -
-    修士，為[梵蒂岡的奇跡認定士](../Page/梵蒂岡.md "wikilink")。
+    修士，為[梵蒂岡的奇跡認定士](https://zh.wikipedia.org/wiki/梵蒂岡 "wikilink")。
     動畫版無登場。
   -
     〈別西卜的頭骨〉的修女。白髮藍瞳，雙胞胎的姐姐。布洛瓦侯爵的貼身護衛。
@@ -682,7 +682,8 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <!-- end list -->
 
   -
-    於富士見書房「[月刊Dragon Age](../Page/月刊Dragon_Age.md "wikilink")」連載
+    於富士見書房「[月刊Dragon
+    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")」連載
     富士見書房刊（富士見書房發行）已經出版8卷以下續刊\[5\]
 
 <table>
@@ -771,7 +772,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
   - 監督 - [難波日登志](../Page/難波日登志.md "wikilink")
   - 系列構成 - [岡田麿里](../Page/岡田麿里.md "wikilink")
   - 人物設定 -
-    [川元利浩](../Page/川元利浩.md "wikilink")、[富岡隆司](../Page/富岡隆司.md "wikilink")
+    [川元利浩](../Page/川元利浩.md "wikilink")、[富岡隆司](https://zh.wikipedia.org/wiki/富岡隆司 "wikilink")
   - 總作画监督 - 富岡隆司
   - 機械設計 - 竹内志保
   - 美術監督 - 近藤由美子
@@ -779,10 +780,11 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
   - 攝影監督 - 古本真由子
   - 編輯 - 定松剛
   - 音響監督 - 原口升
-  - 音響效果 - [倉橋静男](../Page/倉橋静男.md "wikilink")
+  - 音響效果 - [倉橋静男](https://zh.wikipedia.org/wiki/倉橋静男 "wikilink")
   - 音樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")
-  - 音樂制作 - [古倫美亞音樂娛樂](../Page/古倫美亞音樂娛樂.md "wikilink")
-  - 動画制作 - [BONES](../Page/BONES_\(動画制作公司\).md "wikilink")
+  - 音樂制作 - [古倫美亞音樂娛樂](https://zh.wikipedia.org/wiki/古倫美亞音樂娛樂 "wikilink")
+  - 動画制作 -
+    [BONES](https://zh.wikipedia.org/wiki/BONES_\(動画制作公司\) "wikilink")
   - 制作 - GOSICK制作委員會
 
 ### 主題曲
@@ -793,7 +795,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 
 1.  「**Destin Histoire**」
       -
-        作詞：渡部紫緒；作曲、編曲：坂部剛；歌：[yoshiki＊lisa](../Page/吉木りさ.md "wikilink")
+        作詞：渡部紫緒；作曲、編曲：坂部剛；歌：[yoshiki＊lisa](https://zh.wikipedia.org/wiki/吉木りさ "wikilink")
 
 <!-- end list -->
 
@@ -853,7 +855,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 <td><p>死者之魂推動遇難船</p></td>
 <td><p>死者靈魂推動遇難船</p></td>
-<td><p><a href="../Page/京田知己.md" title="wikilink">京田知己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京田知己" title="wikilink">京田知己</a></p></td>
 <td><p>中村里美</p></td>
 <td><p>三輪和宏</p></td>
 <td></td>
@@ -877,7 +879,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td><p>金色的絲線把瞬間切開</p></td>
 <td><p>根元歲三</p></td>
 <td><p>三條なみみ</p></td>
-<td><p><a href="../Page/池畠博史.md" title="wikilink">池畠博史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池畠博史" title="wikilink">池畠博史</a></p></td>
 <td><p>猿渡聖加</p></td>
 <td><p>s I</p></td>
 </tr>
@@ -933,7 +935,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 <td><p>藍色薔薇在食人百貨盛開</p></td>
 <td><p>食人百貨公司中綻放着藍玫瑰</p></td>
-<td><p><a href="../Page/猪爪慎一.md" title="wikilink">猪爪慎一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/猪爪慎一" title="wikilink">猪爪慎一</a></p></td>
 <td><p>佐原亞湖</p></td>
 <td><p>松林唯人</p></td>
 <td><p>齊藤英子</p></td>
@@ -968,7 +970,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 <td><p>那個鑽頭滔滔不絕的表達愛意</p></td>
 <td><p>那個髮型強烈地述說愛意</p></td>
-<td><p><a href="../Page/猪爪慎一.md" title="wikilink">猪爪慎一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/猪爪慎一" title="wikilink">猪爪慎一</a></p></td>
 <td><p>福田道生</p></td>
 <td><p><a href="../Page/政木伸一.md" title="wikilink">政木伸一</a></p></td>
 <td><p>熊膳貴志</p></td>
@@ -1035,7 +1037,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 <td><p>那個箱子沉睡於螺旋迷宮之中</p></td>
 <td><p>那個箱子沉睡於螺旋迷宮</p></td>
-<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
 <td><p>末田宜史</p></td>
 <td><p>松田剛吏<br />
 齊藤英子</p></td>
@@ -1143,7 +1145,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圏.md" title="wikilink">關東廣域圏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圏" title="wikilink">關東廣域圏</a></p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2011年1月7日－7月1日</p></td>
 <td><p>星期五 25時23分－25時53分</p></td>
@@ -1159,7 +1161,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>2011年1月11日－7月5日</p></td>
 <td><p>星期二 25時30分－26時00分</p></td>
@@ -1167,15 +1169,15 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
-<td><p><a href="../Page/濑户内電視台.md" title="wikilink">濑户内電視台</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/濑户内電視台" title="wikilink">濑户内電視台</a></p></td>
 <td><p>2011年1月12日－7月6日</p></td>
 <td><p>星期三 25時18分－25時48分</p></td>
 <td><p>3月23日、3月30日播出特番</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>星期三 25時43分－26時13分</p></td>
 <td><p>3月23日、3月30日、4月6日播出特番</p></td>
@@ -1187,12 +1189,12 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2011年1月13日－7月7日</p></td>
 <td><p>星期四 12時00分更新</p></td>
-<td><p><a href="../Page/網络電視.md" title="wikilink">網络廣播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網络電視" title="wikilink">網络廣播</a></p></td>
 <td><p>第1話免費收看<br />
 第2話之後自播送開始的2天内免費播放</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Movie_Gate.md" title="wikilink">Movie Gate</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Movie_Gate" title="wikilink">Movie Gate</a></p></td>
 <td><p>網络廣播（移動設備用）</p></td>
 <td></td>
 <td></td>
@@ -1203,7 +1205,7 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2011年2月15日－8月2日</p></td>
 <td><p>星期二 11時00分－11時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>有重播</p></td>
 <td></td>
 </tr>
@@ -1238,12 +1240,12 @@ ROYAL」（作者於GOSICKs 1的後記中提及）。
 
 GOSICK 退屈姫の迷宮
 
-由『[GREE](../Page/cmn:GREE.md "wikilink")』運營，基本免費及道具收費制度。玩家作為日本人留學生與維多利加對話，給維多利加以點心，讓其更換衣服等使維多利加心情變好，以此升級。存在被要求特定點心的情況。如果讓維多利加心情不好的話、將會降低比上升時高數倍的數值。
+由『[GREE](https://zh.wikipedia.org/wiki/cmn:GREE "wikilink")』運營，基本免費及道具收費制度。玩家作為日本人留學生與維多利加對話，給維多利加以點心，讓其更換衣服等使維多利加心情變好，以此升級。存在被要求特定點心的情況。如果讓維多利加心情不好的話、將會降低比上升時高數倍的數值。
 
 ## 與網絡遊戲的合作
 
 在『Master of Epic -The ResonanceAge
-Universe-』及『』及『[テイルズウィーバー](../Page/cmn:天翼之鍊.md "wikilink")』進行了合作活動，實施了能獲得原創物件的特別任務，進行了服飾物件的販賣。
+Universe-』及『』及『[テイルズウィーバー](https://zh.wikipedia.org/wiki/cmn:天翼之鍊 "wikilink")』進行了合作活動，實施了能獲得原創物件的特別任務，進行了服飾物件的販賣。
 
 ## 注釋
 
@@ -1282,4 +1284,5 @@ Universe-』及『』及『[テイルズウィーバー](../Page/cmn:天翼之�
 2.  角川ビーンズ文庫版2巻初版本付録の学生証より。
 3.
 4.
-5.  1卷〜3卷由「[Kadokawa Comics](../Page/Kadokawa_Comics.md "wikilink")」出版。
+5.  1卷〜3卷由「[Kadokawa
+    Comics](https://zh.wikipedia.org/wiki/Kadokawa_Comics "wikilink")」出版。

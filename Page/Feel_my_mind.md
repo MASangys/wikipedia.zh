@@ -1,7 +1,8 @@
 《**feel my
 mind**》（心靈感應）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第三張原創專輯](../Page/倖田來未.md "wikilink")，收錄《[COME
-WITH ME](../Page/COME_WITH_ME.md "wikilink")》、《[Gentle
-Words](../Page/Gentle_Words.md "wikilink")》、《[Crazy 4
+WITH
+ME](https://zh.wikipedia.org/wiki/COME_WITH_ME "wikilink")》、《[Gentle
+Words](https://zh.wikipedia.org/wiki/Gentle_Words "wikilink")》、《[Crazy 4
 U](../Page/Crazy_4_U.md "wikilink")》等三張單曲，此張專輯的成績已到達公信榜第7名，比上張專輯前進一名，由此可見倖田來未的專輯成績已漸漸進步，知名度亦愈來愈高。由於上張專輯中的一張電玩主題曲"real
 Emotion
 真實情感"漸漸走紅以來，倖田來未的潛力漸漸被大家發覺，而這種情況也可以從這張專輯的成績進步而得到驗證，似乎也預告著下一張專輯她即將爆紅、有如鹹魚翻身的命運…
@@ -13,7 +14,7 @@ Emotion
 
 <!-- end list -->
 
-  - 倖田來未的親妹[misono所屬的團體](../Page/misono.md "wikilink")[近未來](../Page/近未來.md "wikilink")，也在同日發行專輯「primary
+  - 倖田來未的親妹[misono所屬的團體](https://zh.wikipedia.org/wiki/misono "wikilink")[近未來](https://zh.wikipedia.org/wiki/近未來 "wikilink")，也在同日發行專輯「primary
     colors」獲得[Oricon第五名](../Page/Oricon.md "wikilink")。
 
 ## 發行版本
@@ -30,7 +31,7 @@ Emotion
 2.  **[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")**
       -
         10th
-        Single。[動畫](../Page/動畫.md "wikilink")「[甜心戰士](../Page/甜心戰士.md "wikilink")」片頭曲。
+        Single。[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")「[甜心戰士](../Page/甜心戰士.md "wikilink")」片頭曲。
 3.  **Rock Your Body**
 4.  **Rain**
       -
@@ -48,12 +49,12 @@ Emotion
 10. **Gentle Words**
       -
         9th single。[Do As
-        Infinity的](../Page/Do_As_Infinity.md "wikilink")[長尾大作曲的情歌](../Page/長尾大.md "wikilink")。
+        Infinity的](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")[長尾大作曲的情歌](../Page/長尾大.md "wikilink")。
         佐藤製薬「ストナ」廣告曲
 11. **magic**
       -
-        [SONY](../Page/SONY.md "wikilink")・[Playstation
-        2的遊戲](../Page/Playstation_2.md "wikilink")「クリムゾンティアーズ」片尾曲。
+        [SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")・[Playstation
+        2的遊戲](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")「クリムゾンティアーズ」片尾曲。
 12. **COME WITH ME**
       -
         8th single。

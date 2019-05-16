@@ -1,6 +1,6 @@
 [Doraemon_2011-06-19_11-10-51-28.png](https://zh.wikipedia.org/wiki/File:Doraemon_2011-06-19_11-10-51-28.png "fig:Doraemon_2011-06-19_11-10-51-28.png")
 
-**多啦A夢大富翁**，舊名為**叮噹大富翁**，是由[香港](../Page/香港.md "wikilink")[智傲網絡遊戲集團](../Page/智傲網絡遊戲集團.md "wikilink")[1998年12月推出](../Page/1998年12月.md "wikilink")（[2007年2月再版](../Page/2007年2月.md "wikilink")，[台灣則由](../Page/台灣.md "wikilink")[智冠科技代理](../Page/智冠科技.md "wikilink")）\[1\]、以[多啦A夢為主題的](../Page/多啦A夢.md "wikilink")[大富翁](../Page/大富翁.md "wikilink")[電腦遊戲](../Page/電腦遊戲.md "wikilink")。該遊戲獲得[日本](../Page/日本.md "wikilink")[小學館授權及共同開發](../Page/小學館.md "wikilink")。因為該動畫在香港極受歡迎，遊戲同時由[無線電視原班](../Page/無線電視.md "wikilink")[配音員負責配音工作](../Page/配音員.md "wikilink")，遊戲銷量逾100,000套，創下了香港單機遊戲銷售紀錄。
+**多啦A夢大富翁**，舊名為**叮噹大富翁**，是由[香港](../Page/香港.md "wikilink")[智傲網絡遊戲集團](https://zh.wikipedia.org/wiki/智傲網絡遊戲集團 "wikilink")[1998年12月推出](https://zh.wikipedia.org/wiki/1998年12月 "wikilink")（[2007年2月再版](../Page/2007年2月.md "wikilink")，[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[智冠科技代理](../Page/智冠科技.md "wikilink")）\[1\]、以[多啦A夢為主題的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[大富翁](https://zh.wikipedia.org/wiki/大富翁 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。該遊戲獲得[日本](../Page/日本.md "wikilink")[小學館授權及共同開發](../Page/小學館.md "wikilink")。因為該動畫在香港極受歡迎，遊戲同時由[無線電視原班](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[配音員負責配音工作](../Page/配音員.md "wikilink")，遊戲銷量逾100,000套，創下了香港單機遊戲銷售紀錄。
 
 ## 遊戲內容
 
@@ -12,15 +12,15 @@
 
 遊戲內共有7個角色，其中6個為普通角色，黃耳多啦A夢為隱藏角色，每個角色都有優點及缺點，分別對應了他們在原作中的特性。
 
-| 角色名稱                                                            | 配音員                              | 優點                       | 缺點                      |
-| --------------------------------------------------------------- | -------------------------------- | ------------------------ | ----------------------- |
-| [哆啦A梦](../Page/哆啦A梦.md "wikilink")                              | [林保全](../Page/林保全.md "wikilink") | 遊戲開始時便擁有一半道具             | 每前進一格便會吃掉一個豆沙包          |
-| [大雄](../Page/大雄.md "wikilink")                                  | [卢素娟](../Page/卢素娟.md "wikilink") | 每個月可得到道具「空氣槍」一個及射擊道具必中屬性 | 不能對靜香使用有攻擊目標的道具         |
-| [靜香](../Page/靜香.md "wikilink")                                  | [梁少霞](../Page/梁少霞.md "wikilink") | 每月可得到道具「人見人愛丸」、「友情藥囊」    | 逢星期日都會因洗澡而停止前進一次        |
-| [多啦美](../Page/多啦美.md "wikilink")                                | [曾佩仪](../Page/曾佩仪.md "wikilink") | 遊戲開始時便擁有道具               | 無                       |
-| [小夫](../Page/小夫.md "wikilink")                                  | [黃凤英](../Page/黃凤英.md "wikilink") | 遊戲開始時比別人多一倍豆沙包（2,000個）   | 在玩家操縱時不能購買或拾起人見人愛丸及朋友圈。 |
-| [胖虎](../Page/剛田武.md "wikilink")                                 | [郭志权](../Page/郭志权.md "wikilink") | 任何人與他相遇都要給他少量的豆沙包        | 最多只能走四步。                |
-| [黃耳多啦A夢](../Page/哆啦A夢_\(角色\)#《2112年哆啦A夢的诞生》的主要情节.md "wikilink") | [林保全](../Page/林保全.md "wikilink") | 遊戲開始時便擁有所有道具             | 無                       |
+| 角色名稱                                                                               | 配音員                                                 | 優點                       | 缺點                      |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------ | ----------------------- |
+| [哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")                              | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有一半道具             | 每前進一格便會吃掉一個豆沙包          |
+| [大雄](https://zh.wikipedia.org/wiki/大雄 "wikilink")                                  | [卢素娟](https://zh.wikipedia.org/wiki/卢素娟 "wikilink") | 每個月可得到道具「空氣槍」一個及射擊道具必中屬性 | 不能對靜香使用有攻擊目標的道具         |
+| [靜香](https://zh.wikipedia.org/wiki/靜香 "wikilink")                                  | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") | 每月可得到道具「人見人愛丸」、「友情藥囊」    | 逢星期日都會因洗澡而停止前進一次        |
+| [多啦美](https://zh.wikipedia.org/wiki/多啦美 "wikilink")                                | [曾佩仪](https://zh.wikipedia.org/wiki/曾佩仪 "wikilink") | 遊戲開始時便擁有道具               | 無                       |
+| [小夫](https://zh.wikipedia.org/wiki/小夫 "wikilink")                                  | [黃凤英](https://zh.wikipedia.org/wiki/黃凤英 "wikilink") | 遊戲開始時比別人多一倍豆沙包（2,000個）   | 在玩家操縱時不能購買或拾起人見人愛丸及朋友圈。 |
+| [胖虎](../Page/剛田武.md "wikilink")                                                    | [郭志权](https://zh.wikipedia.org/wiki/郭志权 "wikilink") | 任何人與他相遇都要給他少量的豆沙包        | 最多只能走四步。                |
+| [黃耳多啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(角色\)#《2112年哆啦A夢的诞生》的主要情节 "wikilink") | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有所有道具             | 無                       |
 
   -
 ### 遊戲元素

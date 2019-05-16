@@ -1,18 +1,18 @@
-**SIMOUN**（[日語](../Page/日語.md "wikilink")：シムーン），中文譯名**西蒙**，為2006年出版的一套[日本電視動畫影集](../Page/日本.md "wikilink")，隨後亦出版一系列的漫畫與小說。
+**SIMOUN**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：シムーン），中文譯名**西蒙**，為2006年出版的一套[日本電視動畫影集](../Page/日本.md "wikilink")，隨後亦出版一系列的漫畫與小說。
 
 ## 概觀
 
 在一個不知名星球上，人們自稱其生活的世界為「大空陸」。每個人都是以[女性](../Page/女性.md "wikilink")（又稱為「未定性」）的身分出生。大陸的國家以宮國（シムラークルム宮國）為中心，其周圍則有嶺國（プルンブム嶺國）與礁國（アルゲントゥム礁國）。
 
-在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](../Page/農耕.md "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡亦在宮國境內](../Page/遺跡.md "wikilink")。宮國作為全大陸的[信仰中心](../Page/信仰.md "wikilink")，擁有「泉」，[未成年人](../Page/未成年人.md "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](../Page/性別.md "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
+在宮國裡，司政院負責行政，司兵院掌管軍事，宮守掌管宗教祭祀。人民以[農耕為主](https://zh.wikipedia.org/wiki/農耕 "wikilink")，安居樂業。[宗教](../Page/宗教.md "wikilink")[遺跡亦在宮國境內](../Page/遺跡.md "wikilink")。宮國作為全大陸的[信仰中心](https://zh.wikipedia.org/wiki/信仰 "wikilink")，擁有「泉」，[未成年人](https://zh.wikipedia.org/wiki/未成年人 "wikilink")17歲時便前往「泉」，以自己決定自己的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，之後才算成年。十七歲這個時點是固定的，有人對定性感到不安，有人則是期待，但幾乎沒有人去質疑；這是宮國文化的一部份。
 
-很久很久以前，宮國從地底掘出名為「Simoun」的[飛行器](../Page/飛行器.md "wikilink")，並將它視為不可褻瀆的「神之座騎」。「Simoun」只有未定性的少女可以搭乘，她們被宮國人民視為[巫女](../Page/巫女.md "wikilink")，稱呼她們為「Simoun西貝拉」；Simoun西貝拉們能藉著Simoun，在天空中以光之[航跡繪出](../Page/航跡.md "wikilink")「紋章」，作為獻給神的[祈禱](../Page/祈禱.md "wikilink")，這也是巫女們最重要的工作。
+很久很久以前，宮國從地底掘出名為「Simoun」的[飛行器](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，並將它視為不可褻瀆的「神之座騎」。「Simoun」只有未定性的少女可以搭乘，她們被宮國人民視為[巫女](../Page/巫女.md "wikilink")，稱呼她們為「Simoun西貝拉」；Simoun西貝拉們能藉著Simoun，在天空中以光之[航跡繪出](https://zh.wikipedia.org/wiki/航跡 "wikilink")「紋章」，作為獻給神的[祈禱](https://zh.wikipedia.org/wiki/祈禱 "wikilink")，這也是巫女們最重要的工作。
 
 由於只有未定性的少女可以搭乘Simoun，巫女們可以將「十七歲定性」這件事往後延。
 
-宮國人普遍將Simoun西貝拉視為巫女，而非戰士或士兵。但無論巫女與人民怎麼想，Simoun無可匹敵的強大戰力依然使宮國在[制空能力上長期凌駕鄰國](../Page/制空能力.md "wikilink")。Simoun的強大戰力是宮國最強，同時也是唯一的力量保證。
+宮國人普遍將Simoun西貝拉視為巫女，而非戰士或士兵。但無論巫女與人民怎麼想，Simoun無可匹敵的強大戰力依然使宮國在[制空能力上長期凌駕鄰國](https://zh.wikipedia.org/wiki/制空能力 "wikilink")。Simoun的強大戰力是宮國最強，同時也是唯一的力量保證。
 
-嶺國與礁國注重[工業](../Page/工業.md "wikilink")，[科技發達](../Page/科技.md "wikilink")。卻因[開發過度導致環境嚴重](../Page/開發過度.md "wikilink")[污染](../Page/污染.md "wikilink")，人民染病、生活艱辛。因為尋求Simoun不可思議的技術而與宮國發生衝突。
+嶺國與礁國注重[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")，[科技發達](https://zh.wikipedia.org/wiki/科技 "wikilink")。卻因[開發過度導致環境嚴重](https://zh.wikipedia.org/wiki/開發過度 "wikilink")[污染](../Page/污染.md "wikilink")，人民染病、生活艱辛。因為尋求Simoun不可思議的技術而與宮國發生衝突。
 
 宮國中配屬アルクス・プリーマ艦中最優秀的Simoun小組「暴風組（コール・テンペスト）」在一次與鄰國的戰鬥中，連同Simoun一起，一口氣損失好幾位西貝拉。一些從戰鬥中生還的西貝拉意識到接下來的大戰，相繼求去，暴風組面臨解散危機。此時，有幾位新進西貝拉受選進入暴風組。
 
@@ -20,7 +20,7 @@
 
 ### 暴風組成員
 
-  - **阿艾爾（Aaeru／アーエル）**（[配音員](../Page/配音員.md "wikilink")：[新野美知](../Page/新野美知.md "wikilink")）
+  - **阿艾爾（Aaeru／アーエル）**（[配音員](../Page/配音員.md "wikilink")：[新野美知](https://zh.wikipedia.org/wiki/新野美知 "wikilink")）
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - **奈比利爾（Neviril／ネヴィリル）**（配音員：[高橋理惠子](../Page/高橋理惠子.md "wikilink")）
+  - **奈比利爾（Neviril／ネヴィリル）**（配音員：[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")）
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - **凱姆（Kaimu／カイム）**（配音員：[細越みちこ](../Page/細越みちこ.md "wikilink")）
+  - **凱姆（Kaimu／カイム）**（配音員：[細越みちこ](https://zh.wikipedia.org/wiki/細越みちこ "wikilink")）
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - **芙羅耶（Furoe／フロエ）**（配音員：[相澤みちる](../Page/相澤みちる.md "wikilink")）
+  - **芙羅耶（Furoe／フロエ）**（配音員：[相澤みちる](https://zh.wikipedia.org/wiki/相澤みちる "wikilink")）
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - **多米努拉（Dominuura／ドミヌーラ）**（配音員：[ゆかな](../Page/ゆかな.md "wikilink")）
+  - **多米努拉（Dominuura／ドミヌーラ）**（配音員：[ゆかな](https://zh.wikipedia.org/wiki/ゆかな "wikilink")）
 
 <!-- end list -->
 
@@ -156,7 +156,7 @@
 
 ### 艦隊
 
-  - **グラギエフ**（配音員：[桑島法子](../Page/桑島法子.md "wikilink")）
+  - **グラギエフ**（配音員：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）
 
 <!-- end list -->
 
@@ -165,7 +165,7 @@
 
 <!-- end list -->
 
-  - **アヌビトゥフ（Anubitufu）**（配音員：[木内レイコ](../Page/木内レイコ.md "wikilink")）
+  - **アヌビトゥフ（Anubitufu）**（配音員：[木内レイコ](https://zh.wikipedia.org/wiki/木内レイコ "wikilink")）
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@
 
 ### 其他
 
-  - **奧納西亞（オナシア）**（配音員：[玉川紗己子](../Page/玉川紗己子.md "wikilink")）
+  - **奧納西亞（オナシア）**（配音員：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")）
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@
 
 <!-- end list -->
 
-  - **安古拉斯（Angulasu／アングラス）**（配音員：[松来未祐](../Page/松来未祐.md "wikilink")）
+  - **安古拉斯（Angulasu／アングラス）**（配音員：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")）
 
 <!-- end list -->
 
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-  - **ヴューラ**（配音員：[早坂愛](../Page/早坂愛.md "wikilink")）
+  - **ヴューラ**（配音員：[早坂愛](https://zh.wikipedia.org/wiki/早坂愛 "wikilink")）
 
 <!-- end list -->
 
@@ -250,19 +250,20 @@
 ## 幕後製作
 
   - 監督：[西村純二](../Page/西村純二.md "wikilink")
-  - 角色設定・總作畫監督：[西田 亜沙子](../Page/西田_亜沙子.md "wikilink")
-  - 機械設定：[Jin Seob Song](../Page/Jin_Seob_Song.md "wikilink")
-  - 美術監督：[小林 七郎](../Page/小林_七郎.md "wikilink")
-  - 概念設計：[長濱 博史](../Page/長濱_博史.md "wikilink")
-  - 動畫製作：[スタジオディーン](../Page/スタジオディーン.md "wikilink")
-  - 3DCG制作：[CreativeField](../Page/CreativeField.md "wikilink")
+  - 角色設定・總作畫監督：[西田 亜沙子](https://zh.wikipedia.org/wiki/西田_亜沙子 "wikilink")
+  - 機械設定：[Jin Seob
+    Song](https://zh.wikipedia.org/wiki/Jin_Seob_Song "wikilink")
+  - 美術監督：[小林 七郎](https://zh.wikipedia.org/wiki/小林_七郎 "wikilink")
+  - 概念設計：[長濱 博史](https://zh.wikipedia.org/wiki/長濱_博史 "wikilink")
+  - 動畫製作：[スタジオディーン](https://zh.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - 3DCG制作：[CreativeField](https://zh.wikipedia.org/wiki/CreativeField "wikilink")
   - 音響監督：[辻谷耕史](../Page/辻谷耕史.md "wikilink")
-  - 音樂制作：[ビクターエンタテインメント](../Page/ビクターエンタテインメント.md "wikilink")
-  - 音樂製作人：[野崎 圭一](../Page/野崎_圭一.md "wikilink")
-  - 音樂：[佐橋 俊彦](../Page/佐橋_俊彦.md "wikilink")
-  - 原作：[小山田風狂子](../Page/小山田風狂子.md "wikilink")／[篠吉
-    祥](../Page/篠吉_祥.md "wikilink")・[美原
-    轟](../Page/美原_轟.md "wikilink")
+  - 音樂制作：[ビクターエンタテインメント](https://zh.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
+  - 音樂製作人：[野崎 圭一](https://zh.wikipedia.org/wiki/野崎_圭一 "wikilink")
+  - 音樂：[佐橋 俊彦](https://zh.wikipedia.org/wiki/佐橋_俊彦 "wikilink")
+  - 原作：[小山田風狂子](https://zh.wikipedia.org/wiki/小山田風狂子 "wikilink")／[篠吉
+    祥](https://zh.wikipedia.org/wiki/篠吉_祥 "wikilink")・[美原
+    轟](https://zh.wikipedia.org/wiki/美原_轟 "wikilink")
   - 製作：シムーン製作委員会
 
 ## 主題曲
@@ -271,7 +272,8 @@
 
 　　作詞・作曲：石川智晶　編曲：西田マサラ
 
-  - 片尾曲：[savage genius](../Page/savage_genius.md "wikilink")「祈りの詩」
+  - 片尾曲：[savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")「祈りの詩」
 
 　　作詞：ああ　作曲：Takumi　編曲：鈴木daichi秀行
 
@@ -285,16 +287,16 @@
 
 ### 小說
 
-  - [Megami文庫](../Page/Megami文庫.md "wikilink")『Simoun』第1卷。作者：[岡崎純子](../Page/岡崎純子.md "wikilink")；插畫：西田亜沙子・スタジオディーン。[学習研究社出版](../Page/学習研究社.md "wikilink")。
+  - [Megami文庫](https://zh.wikipedia.org/wiki/Megami文庫 "wikilink")『Simoun』第1卷。作者：[岡崎純子](https://zh.wikipedia.org/wiki/岡崎純子 "wikilink")；插畫：西田亜沙子・スタジオディーン。[学習研究社出版](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")。
 
 ### 漫畫
 
   - 『Simoun』
 
-　　[速瀬羽柴作畫](../Page/速瀬羽柴.md "wikilink")，連載於『季刊コミック[百合姫](../Page/百合姫.md "wikilink")』，[一迅社出版](../Page/一迅社.md "wikilink")，1\~3話完。
+　　[速瀬羽柴作畫](https://zh.wikipedia.org/wiki/速瀬羽柴 "wikilink")，連載於『季刊コミック[百合姫](https://zh.wikipedia.org/wiki/百合姫 "wikilink")』，[一迅社出版](../Page/一迅社.md "wikilink")，1\~3話完。
 \*『シムーン ～まじかる美勇伝～』
-　　[あきづき弥作畫](../Page/あきづき弥.md "wikilink")。開始連載於2006年8月號（Vol.75）的『[Megami
-MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](../Page/学習研究社.md "wikilink")。
+　　[あきづき弥作畫](https://zh.wikipedia.org/wiki/あきづき弥 "wikilink")。開始連載於2006年8月號（Vol.75）的『[Megami
+MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")。
 \=== 廣播 ===
 
   - 『』第1回～第26回
@@ -303,7 +305,8 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")』，[学習研究社出版](..
 
 ### 電玩
 
-  - 『SIMOUN 異薔薇戦争\~封印のリ・マージョン\~』（[PS2](../Page/PS2.md "wikilink")）
+  - 『SIMOUN
+    異薔薇戦争\~封印のリ・マージョン\~』（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
 
 　　動畫中第9話\~第14話為主要舞台。
 　　除了原有角色外，新增兩名關鍵的遊戲人物アーシュラ（配音員：[福圓美里](../Page/福圓美里.md "wikilink")）、サイルサンドラ（配音員：喜多村英梨）

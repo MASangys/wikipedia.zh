@@ -1,10 +1,10 @@
 **She Came Home For
-Christmas**為[丹麥樂團](../Page/丹麥.md "wikilink")[Mew於](../Page/Mew.md "wikilink")2002年所發行的單曲，出自2003年的專輯《[Frengers](../Page/Frengers.md "wikilink")》。
+Christmas**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於](../Page/Mew.md "wikilink")2002年所發行的單曲，出自2003年的專輯《[Frengers](../Page/Frengers.md "wikilink")》。
 
 這是{{〈}}She Came Home For
 Christmas{{〉}}一曲的第三次單曲發行，但收錄的版本與前兩次不同，而是使用《[Frengers](../Page/Frengers.md "wikilink")》的專輯版本。
 
-此次出版以正方形紙殼包裝，並限量編號發行於[英國與](../Page/英國.md "wikilink")[丹麥地區](../Page/丹麥.md "wikilink")。
+此次出版以正方形紙殼包裝，並限量編號發行於[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[丹麥地區](https://zh.wikipedia.org/wiki/丹麥 "wikilink")。
 
 ## 曲目
 
@@ -29,9 +29,9 @@ Christmas{{〉}}的重新發行，音樂錄影帶也以發行於1997年的版本
 
 ## 參見
 
-  - [1997年發行版本](../Page/She_Came_Home_For_Christmas_\(1997_single\).md "wikilink")
-  - [2000年發行版本](../Page/She_Came_Home_For_Christmas_\(2000_single\).md "wikilink")
-  - [2003年發行版本](../Page/She_Came_Home_For_Christmas_\(2003_single\).md "wikilink")
+  - [1997年發行版本](https://zh.wikipedia.org/wiki/She_Came_Home_For_Christmas_\(1997_single\) "wikilink")
+  - [2000年發行版本](https://zh.wikipedia.org/wiki/She_Came_Home_For_Christmas_\(2000_single\) "wikilink")
+  - [2003年發行版本](https://zh.wikipedia.org/wiki/She_Came_Home_For_Christmas_\(2003_single\) "wikilink")
 
 ## 外部連結
 

@@ -1,6 +1,6 @@
 [AutoRun.png](https://zh.wikipedia.org/wiki/File:AutoRun.png "fig:AutoRun.png")
 上「自動播放」的畫面\]\]
-AutoRun和AutoPlay是[微軟視窗系統的元件](../Page/微軟視窗.md "wikilink")，其內容標示着系統在搜尋到裝置時可採取的行動。
+AutoRun和AutoPlay是[微軟視窗系統的元件](https://zh.wikipedia.org/wiki/微軟視窗 "wikilink")，其內容標示着系統在搜尋到裝置時可採取的行動。
 
 AutoRun在[Windows
 95時首度露面](../Page/Windows_95.md "wikilink")，目的是幫助使用者正確執行光碟上製作者想要執行的檔案，另外AutoRun也能透過雙擊**我的電腦**內的裝置圖示啟動AutoRun。但後來隨身碟病毒橫行，微軟釋出更新關閉非光碟機的AutoRun。
@@ -124,7 +124,7 @@ Fix it 50475](http://go.microsoft.com/?linkid=9743275)。
 
 ## 在其它操作系统上的作用
 
-在[GNOME的](../Page/GNOME.md "wikilink")[Nautilus中](../Page/Nautilus.md "wikilink")，autorun.inf中的icon项可以被识别。只要其指向一个正确的ico文件（Windows图标文件），Nautilus就可以将已挂载文件系统的图标替换成此图标。
+在[GNOME的](../Page/GNOME.md "wikilink")[Nautilus中](https://zh.wikipedia.org/wiki/Nautilus "wikilink")，autorun.inf中的icon项可以被识别。只要其指向一个正确的ico文件（Windows图标文件），Nautilus就可以将已挂载文件系统的图标替换成此图标。
 
 ## 引用資料
 

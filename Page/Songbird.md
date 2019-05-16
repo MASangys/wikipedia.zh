@@ -1,9 +1,9 @@
-**Songbird**是一款[自由](../Page/自由軟體.md "wikilink")[媒體播放器](../Page/媒體播放器.md "wikilink")。Songbird整合了桌面網路播放器、數位播放器與[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")，是如[iTunes等](../Page/iTunes.md "wikilink")[私有媒體播放器的替代品之一](../Page/私有軟體.md "wikilink")。
+**Songbird**是一款[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。Songbird整合了桌面網路播放器、數位播放器與[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是如[iTunes等](https://zh.wikipedia.org/wiki/iTunes "wikilink")[私有媒體播放器的替代品之一](https://zh.wikipedia.org/wiki/私有軟體 "wikilink")。
 
 Songbird建基於[Mozilla的](../Page/Mozilla.md "wikilink")[XUL
-Runner平台](../Page/XUL_Runner.md "wikilink")\[1\]，因此只需經少量修改就可在[Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac
+Runner平台](https://zh.wikipedia.org/wiki/XUL_Runner "wikilink")\[1\]，因此只需經少量修改就可在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、與大多數的[Linux](../Page/Linux.md "wikilink")[個人電腦上運行](../Page/個人電腦.md "wikilink")。在2010年4月2日，他们宣布不再对Linux版本提供Q\&A支持，但Linux版本开发并未停止\[2\]。Songbird使用[GStreamer媒體框架來播放媒體及使用](../Page/GStreamer.md "wikilink")[SQLite作為媒體庫的儲存引擎](../Page/SQLite.md "wikilink")（1.0以前的版本，在Linux以外使用[VLC插件來播放媒體](../Page/VLC多媒體播放器.md "wikilink")）。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、與大多數的[Linux](../Page/Linux.md "wikilink")[個人電腦上運行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。在2010年4月2日，他们宣布不再对Linux版本提供Q\&A支持，但Linux版本开发并未停止\[2\]。Songbird使用[GStreamer媒體框架來播放媒體及使用](../Page/GStreamer.md "wikilink")[SQLite作為媒體庫的儲存引擎](../Page/SQLite.md "wikilink")（1.0以前的版本，在Linux以外使用[VLC插件來播放媒體](../Page/VLC多媒體播放器.md "wikilink")）。
 
 Songbird的首個公眾預覽版為0.1，開發代號"Hilda"，於2006年2月8日發佈\[3\]，目前的版本2.0.0於2012年6月8日發佈\[4\]。
 
@@ -15,13 +15,14 @@ Songbird的首個公眾預覽版為0.1，開發代號"Hilda"，於2006年2月8�
 根據Songbird 0.2 RC1的發佈通告現時的功特點有\[5\]：
 
   - 跨平台兼容[Windows
-    2000](../Page/Windows_2000.md "wikilink")、[XP](../Page/XP.md "wikilink")、[Mac
+    2000](../Page/Windows_2000.md "wikilink")、[XP](https://zh.wikipedia.org/wiki/XP "wikilink")、[Mac
     OS
-    X](../Page/Mac_OS_X.md "wikilink")（[PowerPC](../Page/PowerPC.md "wikilink")、[Intel](../Page/Intel.md "wikilink")）與Linux（Intel）
-  - 可播放多種音頻格式，如[MP3](../Page/MP3.md "wikilink")、[AAC](../Page/AAC.md "wikilink")、[Ogg
-    Vorbis](../Page/Ogg_Vorbis.md "wikilink")、[FLAC與](../Page/FLAC.md "wikilink")[Windows
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（[PowerPC](../Page/PowerPC.md "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")）與Linux（Intel）
+  - 可播放多種音頻格式，如[MP3](../Page/MP3.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[Ogg
+    Vorbis](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")、[FLAC與](../Page/FLAC.md "wikilink")[Windows
     Media Audio等](../Page/Windows_Media_Audio.md "wikilink")
-  - 可播放經蘋果與Windows Media有[DRM的音訊](../Page/DRM.md "wikilink")\[6\]
+  - 可播放經蘋果與Windows
+    Media有[DRM的音訊](https://zh.wikipedia.org/wiki/DRM "wikilink")\[6\]
   - 可更換佈景主題的界面，在Songbird中稱為「佈景羽毛」（feathers）
   - Songbird的瀏覽器將儲存在頁面上的媒體檔案顯示為可播放的檔案
   - 內置RSS訂閱與MP3檔案下載
@@ -29,31 +30,33 @@ Songbird的首個公眾預覽版為0.1，開發代號"Hilda"，於2006年2月8�
   - 使用者創建書簽
   - 可建立自訂混音
   - 可掃瞄使用者電腦上所有音頻檔案以加入到本地媒體櫃
-  - 可輕易配置與折疊的[圖形用戶界面](../Page/圖形用戶界面.md "wikilink")，以及Mini播放器模式
+  - 可輕易配置與折疊的[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，以及Mini播放器模式
   - 鍵盤快捷鍵與支援媒體鍵盤
   - 自動更新
-  - 透過[eMusic](../Page/eMusic.md "wikilink")[整合](../Page/整合.md "wikilink")[插件整合](../Page/插件.md "wikilink")[eMusic](../Page/eMusic.md "wikilink")
+  - 透過[eMusic](https://zh.wikipedia.org/wiki/eMusic "wikilink")[整合](https://zh.wikipedia.org/wiki/整合 "wikilink")[插件整合](../Page/插件.md "wikilink")[eMusic](https://zh.wikipedia.org/wiki/eMusic "wikilink")
 
-截至2006年10月為止未有使用外部方式自Songbird客戶端取得現正播放歌曲資料的程序，亦無法使用[OPML](../Page/OPML.md "wikilink")（一個用於如[Juice等自由](../Page/Juice.md "wikilink")／開源RSS媒體播放器的功能）匯入或匯出[RSS訂閱](../Page/RSS.md "wikilink")。
+截至2006年10月為止未有使用外部方式自Songbird客戶端取得現正播放歌曲資料的程序，亦無法使用[OPML](https://zh.wikipedia.org/wiki/OPML "wikilink")（一個用於如[Juice等自由](../Page/Juice.md "wikilink")／開源RSS媒體播放器的功能）匯入或匯出[RSS訂閱](../Page/RSS.md "wikilink")。
 
 ## 擴充套件
 
 版本0.2包含兩個擴充套件，*[DOM
 Inspector](../Page/DOM_Inspector.md "wikilink")*與*Example
 Extension*，另可自Songbird的擴先套件支援頁面取得更多由社群編寫的擴先套件。由社群設計的已知擴充套件為：Qloud
-Tagging & Search、Windjay、[eMusic](../Page/eMusic.md "wikilink")
-Integration、[iTunes](../Page/iTunes.md "wikilink")
-Importer、[iPod](../Page/iPod.md "wikilink") Device、Artist
-Tracker、Library File
-Organizer、[Audioscrobbler](../Page/Audioscrobbler.md "wikilink")
-Notifier、[Wikipedia](../Page/Wikipedia.md "wikilink") Artist
-Display、[SHOUTcast](../Page/SHOUTcast.md "wikilink") Radio
-Directory、UnPlug、Ad-block
+Tagging &
+Search、Windjay、[eMusic](https://zh.wikipedia.org/wiki/eMusic "wikilink")
+Integration、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
+Importer、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")
+Device、Artist Tracker、Library File
+Organizer、[Audioscrobbler](https://zh.wikipedia.org/wiki/Audioscrobbler "wikilink")
+Notifier、[Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")
+Artist
+Display、[SHOUTcast](https://zh.wikipedia.org/wiki/SHOUTcast "wikilink")
+Radio Directory、UnPlug、Ad-block
 Plus（必須修改install.rdf）與Minimize-to-Systemtray。
 
 ## 佈景主題
 
-Songbird計劃當中的佈景主題稱為"佈景羽毛"，版本0.2.5包含三款佈景羽毛：預設的黑色佈景羽毛"Rubberducky"（*上方圖片展示*）、白色的[iTunes風格佈景主題](../Page/iTunes.md "wikilink")"Dove"以及讓Songbird使用系統預設按鍵與框架的"Classic"，與[Firefox的預設佈景主題類似](../Page/Firefox.md "wikilink")。
+Songbird計劃當中的佈景主題稱為"佈景羽毛"，版本0.2.5包含三款佈景羽毛：預設的黑色佈景羽毛"Rubberducky"（*上方圖片展示*）、白色的[iTunes風格佈景主題](https://zh.wikipedia.org/wiki/iTunes "wikilink")"Dove"以及讓Songbird使用系統預設按鍵與框架的"Classic"，與[Firefox的預設佈景主題類似](../Page/Firefox.md "wikilink")。
 
 ## 本地化
 
@@ -61,14 +64,14 @@ Songbird版本0.4現有98種本地化的語言。
 
 ## 使用者代理
 
-由於Songbird擁有內建[網頁瀏覽器因而需要一個](../Page/網頁瀏覽器.md "wikilink")[使用者代理字串進行識別](../Page/使用者代理.md "wikilink")。例如，Songbird在英語版[Windows
+由於Songbird擁有內建[網頁瀏覽器因而需要一個](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[使用者代理字串進行識別](https://zh.wikipedia.org/wiki/使用者代理 "wikilink")。例如，Songbird在英語版[Windows
 XP中會使用以下使用者代理回應](../Page/Windows_XP.md "wikilink")：
 
 `Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8) Gecko/20061018 Songbird/0.2`
 
 解構：一個運行於Windows
-XP的[Mozilla客戶端](../Page/Mozilla程式框架.md "wikilink")，使用2006年10月18日版本號的Songbird
-0.2客戶端及[美式英語語言檔](../Page/美式英語.md "wikilink")。與[Firefox網頁瀏覽器的使用者代理最大改變為以](../Page/Firefox.md "wikilink")"Songbird/..."來取代"Firefox/..."。
+XP的[Mozilla客戶端](https://zh.wikipedia.org/wiki/Mozilla程式框架 "wikilink")，使用2006年10月18日版本號的Songbird
+0.2客戶端及[美式英語語言檔](https://zh.wikipedia.org/wiki/美式英語 "wikilink")。與[Firefox網頁瀏覽器的使用者代理最大改變為以](../Page/Firefox.md "wikilink")"Songbird/..."來取代"Firefox/..."。
 
 ## 版本歷史
 
@@ -108,7 +111,7 @@ XP的[Mozilla客戶端](../Page/Mozilla程式框架.md "wikilink")，使用2006�
 <td><p>2007年3月1日</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/Windows_Media.md" title="wikilink">Windows Media數位版權管理音頻播放</a>、<a href="../Page/Quicktime.md" title="wikilink">Quicktime數位版權管理音頻播放</a>、USB儲存裝置支援、iPod裝置支援、自動下載語言檔與增進作業系統整合</li>
+<li><a href="../Page/Windows_Media.md" title="wikilink">Windows Media數位版權管理音頻播放</a>、<a href="https://zh.wikipedia.org/wiki/Quicktime" title="wikilink">Quicktime數位版權管理音頻播放</a>、USB儲存裝置支援、iPod裝置支援、自動下載語言檔與增進作業系統整合</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -227,8 +230,8 @@ XP的[Mozilla客戶端](../Page/Mozilla程式框架.md "wikilink")，使用2006�
 
 ## 請參閱
 
-  - [媒體播放器列表](../Page/媒體播放器列表.md "wikilink")
-  - [媒體播放器比較](../Page/媒體播放器比較.md "wikilink")
+  - [媒體播放器列表](https://zh.wikipedia.org/wiki/媒體播放器列表 "wikilink")
+  - [媒體播放器比較](https://zh.wikipedia.org/wiki/媒體播放器比較 "wikilink")
 
 ## 外部連結
 

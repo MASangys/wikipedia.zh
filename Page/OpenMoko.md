@@ -1,4 +1,4 @@
-**OpenMoko**是一个遵从[FLOSS哲学](../Page/FLOSS.md "wikilink")、旨在建立一个开放的[GSM制式](../Page/GSM制式.md "wikilink")[智能手机平台的项目](../Page/智能手机.md "wikilink")。它运行于[Linux平台](../Page/Linux.md "wikilink")，使用[ipkg包管理器](../Page/ipkg.md "wikilink")。
+**OpenMoko**是一个遵从[FLOSS哲学](https://zh.wikipedia.org/wiki/FLOSS "wikilink")、旨在建立一个开放的[GSM制式](https://zh.wikipedia.org/wiki/GSM制式 "wikilink")[智能手机平台的项目](../Page/智能手机.md "wikilink")。它运行于[Linux平台](../Page/Linux.md "wikilink")，使用[ipkg包管理器](https://zh.wikipedia.org/wiki/ipkg "wikilink")。
 
 ## 软件
 
@@ -9,22 +9,22 @@
 ### Userland
 
   - [X.Org Server](../Page/X.Org_Server.md "wikilink") 7.1
-  - [Matchbox窗口管理器](../Page/Matchbox_\(window_manager\).md "wikilink")
-  - [GTK+](../Page/GTK+.md "wikilink") 2.6.10
+  - [Matchbox窗口管理器](https://zh.wikipedia.org/wiki/Matchbox_\(window_manager\) "wikilink")
+  - [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink") 2.6.10
   - [Evolution数据服务](../Page/Novell_Evolution.md "wikilink")
 
 ## 硬件
 
 ### Neo1973
 
-第一款OpenMoko硬件将是由[大眾電腦出品的](../Page/大眾電腦.md "wikilink")[Neo1973](../Page/Neo1973.md "wikilink")，提供给开发者的版本将于2007年3月11日发布，2007年9月11日将向公众正式发布，预定售价350美元。\[1\]
+第一款OpenMoko硬件将是由[大眾電腦出品的](https://zh.wikipedia.org/wiki/大眾電腦 "wikilink")[Neo1973](https://zh.wikipedia.org/wiki/Neo1973 "wikilink")，提供给开发者的版本将于2007年3月11日发布，2007年9月11日将向公众正式发布，预定售价350美元。\[1\]
 
 Neo的名字来源于移动电话通讯的第一个年头。
 
 ### Neo FreeRunner
 
 第二款OpenMoko硬體是[Neo
-FreeRunner](../Page/Neo_FreeRunner.md "wikilink")，在2008
+FreeRunner](https://zh.wikipedia.org/wiki/Neo_FreeRunner "wikilink")，在2008
 CES發佈，並於2008年7月4日量產上市。
 
 ## 参见

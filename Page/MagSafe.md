@@ -1,4 +1,4 @@
-**MagSafe**插頭是一款由[蘋果公司所推出](../Page/蘋果公司.md "wikilink")，用於該公司筆記型電腦的電源插頭，它首次於2006年1月10日在[舊金山的MacWorld會議與博覽會上與](../Page/舊金山.md "wikilink")[MacBook
+**MagSafe**插頭是一款由[蘋果公司所推出](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，用於該公司筆記型電腦的電源插頭，它首次於2006年1月10日在[舊金山的MacWorld會議與博覽會上與](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[MacBook
 Pro一同展出](../Page/MacBook_Pro.md "wikilink")。MagSafe透過磁力固定，因此即使在用力拖拉──例如在某人絆到電線的情況下會安全地自插口中移除，而不會造成損壞或拖跌在桌子上的電腦\[1\]。
 
 2012年6月11日，蘋果公司推出MagSafe2搭配新改款的視網膜螢幕15吋[MacBook
@@ -61,7 +61,7 @@ MagSafe 2充電器提供三款不同功率，分別是45W、60W和85W。
 
 ## 瑣事
 
-MagSafe與許多電熱水瓶、電[油炸鍋及日式工作檯面煮食爐具為避免危險的高溫内含物濺出而使用的磁性電源插頭相似](../Page/油炸鍋.md "wikilink")。但蘋果公司有為MagSafe申請專利（美國專利7311526號\[4\]），所以其他廠商在未取得授權情形下無法使用MagSafe。
+MagSafe與許多電熱水瓶、電[油炸鍋及日式工作檯面煮食爐具為避免危險的高溫内含物濺出而使用的磁性電源插頭相似](https://zh.wikipedia.org/wiki/油炸鍋 "wikilink")。但蘋果公司有為MagSafe申請專利（美國專利7311526號\[4\]），所以其他廠商在未取得授權情形下無法使用MagSafe。
 
 ## USB-C
 

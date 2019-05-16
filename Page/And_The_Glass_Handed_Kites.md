@@ -1,5 +1,5 @@
 **And The Glass Handed
-Kites**為[丹麥樂團](../Page/丹麥.md "wikilink")[Mew於](../Page/Mew.md "wikilink")2005年發行的專輯。
+Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew於](../Page/Mew.md "wikilink")2005年發行的專輯。
 
 ## 曲目
 
@@ -40,7 +40,7 @@ Kites**為[丹麥樂團](../Page/丹麥.md "wikilink")[Mew於](../Page/Mew.md "w
 14. "Louise Louisa" – 7:20
 15. "Forever And Ever" – 4:20
 16. "白い唇のいざない（Shiroi Kuchibiru No Izanai）" – 5:34（"White Lips
-    Kissed"之[日語版本](../Page/日語.md "wikilink")）
+    Kissed"之[日語版本](https://zh.wikipedia.org/wiki/日語 "wikilink")）
 
 ## 資訊
 

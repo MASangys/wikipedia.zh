@@ -1,12 +1,12 @@
 **Nullsoft腳本安裝系統**（英語：**Nullsoft Scriptable Install
-System**，縮寫：NSIS）為一個[開放原始碼](../Page/開放原始碼.md "wikilink")[腳本驅動的封裝安裝檔用工具](../Page/腳本.md "wikilink")。可以用其[腳本語言自定安裝的流程](../Page/腳本語言.md "wikilink")，同時支援多種語系的安裝介面。
+System**，縮寫：NSIS）為一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[腳本驅動的封裝安裝檔用工具](https://zh.wikipedia.org/wiki/腳本 "wikilink")。可以用其[腳本語言自定安裝的流程](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，同時支援多種語系的安裝介面。
 
 ## 特色
 
   - 可腳本控制
   - 多國語系的安裝介面
   - 可用[C](../Page/C.md "wikilink")，[C++](../Page/C++.md "wikilink")，或[Delphi寫出NSIS的外掛](../Page/Delphi.md "wikilink")（Plugins）
-  - 支援[ZLib](../Page/ZLib.md "wikilink")，[BZip2](../Page/BZip2.md "wikilink")，[LZMA這三種壓縮方式](../Page/LZMA.md "wikilink")
+  - 支援[ZLib](https://zh.wikipedia.org/wiki/ZLib "wikilink")，[BZip2](https://zh.wikipedia.org/wiki/BZip2 "wikilink")，[LZMA這三種壓縮方式](../Page/LZMA.md "wikilink")
   - 支援網路安裝模式與檔案Patching
   - 相容於目前的所有主要的Windows版本
 

@@ -1,19 +1,22 @@
 **Xbox Live**
-是由[微軟公司所開發](../Page/微軟.md "wikilink")、管理的在线游戏、數位媒体服务平台。Xbox
-Live 最初於 2002 年 11 月在 [Xbox](../Page/Xbox.md "wikilink") 平台上推出，後來延伸至
-[Xbox 360](../Page/Xbox_360.md "wikilink")、 [Xbox
+是由[微軟公司所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")、管理的在线游戏、數位媒体服务平台。Xbox
+Live 最初於 2002 年 11 月在
+[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink") 平台上推出，後來延伸至 [Xbox
+360](../Page/Xbox_360.md "wikilink")、 [Xbox
 One](../Page/Xbox_One.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink") 和
-[Windows](../Page/Microsoft_Windows.md "wikilink") 平台。
+[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+平台。
 
 ## 歷史
 
 在微軟開發第一代 Xbox 時，網絡遊戲被設定為 Xbox 戰略的主要支柱之一。雖然
 [Sega](../Page/世嘉.md "wikilink") 曾在 1999 年推出的
 [Dreamcast](../Page/Dreamcast.md "wikilink") 遊戲機中嘗試推出線上服務 ( 稱為
-[SegaNet](../Page/SegaNet.md "wikilink") 和
-[Dreamarena](../Page/Dreamarena.md "wikilink") )；然而由於 Dreamcast
-只有附贈[撥號數據機](../Page/撥號連線.md "wikilink")，而後來發布的[寬頻數據機也沒有得到廣泛的支持](../Page/寬頻.md "wikilink")，因此也沒有得到廣泛應用。Dreamcast
+[SegaNet](https://zh.wikipedia.org/wiki/SegaNet "wikilink") 和
+[Dreamarena](https://zh.wikipedia.org/wiki/Dreamarena "wikilink") )；然而由於
+Dreamcast
+只有附贈[撥號數據機](https://zh.wikipedia.org/wiki/撥號連線 "wikilink")，而後來發布的[寬頻數據機也沒有得到廣泛的支持](../Page/寬頻.md "wikilink")，因此也沒有得到廣泛應用。Dreamcast
 的線上功能雖被譽為創新，但在很大程度上被認為是失敗的。Dreamcast 的競爭對手 [PlayStation
 2](../Page/PlayStation_2.md "wikilink")，最初更沒有內置聯網功能。
 
@@ -23,9 +26,11 @@ Xbox
 擁有[以太網路端口](../Page/以太网.md "wikilink")（10/100）可連接至寬頻網路，但不支援撥號上網，其在線服務被設計為只支持寬頻用戶。
 
 當第一代 Xbox 於 2001 年 11 月 15 日發表後，Xbox Live 在 2002 年之
-[E3](../Page/E3.md "wikilink") 中隨即推出。在展會現場，Xbox遊戲機展示一款名為 [Unreal
-Championship](../Page/Unreal_Championship.md "wikilink") 的遊戲 ，這款遊戲是第一代
-Xbox 推出的週年主打遊戲之一。微軟宣布 50 款 Xbox Live 的遊戲將可在 2003 年底遊玩。利用寬頻網路，Xbox Live
+[E3](https://zh.wikipedia.org/wiki/E3 "wikilink")
+中隨即推出。在展會現場，Xbox遊戲機展示一款名為 [Unreal
+Championship](https://zh.wikipedia.org/wiki/Unreal_Championship "wikilink")
+的遊戲 ，這款遊戲是第一代 Xbox 推出的週年主打遊戲之一。微軟宣布 50 款 Xbox Live 的遊戲將可在 2003
+年底遊玩。利用寬頻網路，Xbox Live
 支援在遊戲中顯示“好友列表"、使用單一身份在所有遊戲遊玩（無論遊戲商）及基礎的線上語音交流服務。
 
 原始Xbox遊戲機上播放的Xbox
@@ -36,9 +41,11 @@ Live的已經達到200萬在線用戶。\[12\]
 
 2007年11月15日，慶祝微軟的Xbox
 Live的5週年之際，通過提供其當時超過800萬用戶的稱號卡爾卡松免費的，獎勵誰曾簽署自成立以來500個免費微軟點數到Live玩家。由於間歇性的服務中斷期間遲到2007年12月初2008年1月，微軟承諾提供一個免費的[Xbox
-Live Arcade的遊戲中所有的Xbox](../Page/Xbox_Live_Arcade.md "wikilink")
+Live
+Arcade的遊戲中所有的Xbox](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")
 Live用戶作為補償，在一封公開信，從馬克·惠頓，Xbox LIVE的總經理所有的Xbox Live會員。
-\[13\]從的Xbox需求增加360購買（新用戶登錄窗口中的Xbox Live的歷史上最大的數）給出了停機的原因。\[14\]
+\[13\]從的Xbox需求增加360購買（新用戶登錄窗口中的Xbox
+Live的歷史上最大的數）給出了停機的原因。\[14\]
 2008年1月18日，微軟宣布暗潮將提供免費黃金和免費的會員，通過1月27日作為補償起1月23日的一周。\[15\]
 
 2009年11月12日，丹尼斯·德金，微軟互動娛樂業務的首席運營官，宣布2009年11月10日，使命召喚釋放：現代戰爭2標在Xbox
@@ -129,7 +136,7 @@ Xbox Live 提供兩種等級的會員服務，即付費的金會員，以及購�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>金會員專屬遊戲 ( <a href="../Page/Game_with_Gold.md" title="wikilink">Game with Gold</a> )</p></td>
+<td><p>金會員專屬遊戲 ( <a href="https://zh.wikipedia.org/wiki/Game_with_Gold" title="wikilink">Game with Gold</a> )</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -164,11 +171,11 @@ Xbox 游戏玩家的流失。
 
   - [阿富汗](../Page/阿富汗.md "wikilink")
 
-  - [奥兰群岛](../Page/奥兰群岛.md "wikilink")（芬兰）
+  - [奥兰群岛](https://zh.wikipedia.org/wiki/奥兰群岛 "wikilink")（芬兰）
 
   - [澳大利亚](../Page/澳大利亚.md "wikilink")
 
-  - [奥地利](../Page/奥地利.md "wikilink")
+  - [奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")
 
   - [比利时](../Page/比利时.md "wikilink")
 
@@ -180,13 +187,13 @@ Xbox 游戏玩家的流失。
 
   - [哥伦比亚](../Page/哥伦比亚.md "wikilink")
 
-  - [捷克共和国](../Page/捷克共和国.md "wikilink")
+  - [捷克共和国](https://zh.wikipedia.org/wiki/捷克共和国 "wikilink")
 
-  - [丹麦](../Page/丹麦.md "wikilink")
+  - [丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")
 
   - [芬兰](../Page/芬兰.md "wikilink")
 
-  - [法国](../Page/法国.md "wikilink")
+  - [法国](https://zh.wikipedia.org/wiki/法国 "wikilink")
 
   - [德国](../Page/德国.md "wikilink")
 
@@ -200,7 +207,7 @@ Xbox 游戏玩家的流失。
 
   - [印度](../Page/印度.md "wikilink")
 
-  - [爱尔兰共和国](../Page/爱尔兰共和国.md "wikilink")
+  - [爱尔兰共和国](https://zh.wikipedia.org/wiki/爱尔兰共和国 "wikilink")
 
   - [意大利](../Page/意大利.md "wikilink")
 
@@ -214,7 +221,7 @@ Xbox 游戏玩家的流失。
 
   - [挪威](../Page/挪威.md "wikilink")
 
-  - [波兰](../Page/波兰.md "wikilink")
+  - [波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")
 
 <!-- end list -->
 
@@ -224,19 +231,19 @@ Xbox 游戏玩家的流失。
 
   - [新加坡](../Page/新加坡.md "wikilink")
 
-  - [南非](../Page/南非.md "wikilink")
+  - [南非](https://zh.wikipedia.org/wiki/南非 "wikilink")
 
-  - [南韩](../Page/南韩.md "wikilink")
+  - [南韩](https://zh.wikipedia.org/wiki/南韩 "wikilink")
 
   - [西班牙](../Page/西班牙.md "wikilink")
 
   - [瑞典](../Page/瑞典.md "wikilink")
 
-  - [瑞士](../Page/瑞士.md "wikilink")
+  - [瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")
 
-  - [台湾](../Page/中华民国.md "wikilink")
+  - [台湾](https://zh.wikipedia.org/wiki/中华民国 "wikilink")
 
-  - [英国](../Page/英国.md "wikilink")
+  - [英国](https://zh.wikipedia.org/wiki/英国 "wikilink")
 
   - [阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")
 
@@ -246,13 +253,13 @@ Xbox 游戏玩家的流失。
 
   - [乌兹别克斯坦](../Page/乌兹别克斯坦.md "wikilink")
 
-  - [委内瑞拉](../Page/委内瑞拉.md "wikilink")
+  - [委内瑞拉](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink")
 
   - [瓦努阿图](../Page/瓦努阿图.md "wikilink")
 
   - [梵蒂冈](../Page/梵蒂冈.md "wikilink")
 
-  - [越南](../Page/越南.md "wikilink")
+  - [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")
 
   - 赞比亚
 

@@ -4,11 +4,11 @@
 
 ### MC-1EV（1999年－至今）
 
-1999年4月，微型車輛「[MC-1T](../Page/光岡MC-1T.md "wikilink")」，電動車輛「MC-1EV」開始發售。自此，正式踏入電動車輛的製造。修正「[MC-1](../Page/光岡MC-1.md "wikilink")」不能承載物品的缺點，提高運輸的便利性。所以，此車輛也獲得一般家庭與運輸業者的好評。一經推出後，接連不斷有來自企業的大量訂貨，使得電動車輛的事業逐漸擴大。1999年度，總出貨台數是260台。2000年度，估計有2400台出貨\[1\]。
+1999年4月，微型車輛「[MC-1T](https://zh.wikipedia.org/wiki/光岡MC-1T "wikilink")」，電動車輛「MC-1EV」開始發售。自此，正式踏入電動車輛的製造。修正「[MC-1](https://zh.wikipedia.org/wiki/光岡MC-1 "wikilink")」不能承載物品的缺點，提高運輸的便利性。所以，此車輛也獲得一般家庭與運輸業者的好評。一經推出後，接連不斷有來自企業的大量訂貨，使得電動車輛的事業逐漸擴大。1999年度，總出貨台數是260台。2000年度，估計有2400台出貨\[1\]。
 
 ## 車輛諸元
 
-  - 引擎（Engine）：[電動機](../Page/電動機.md "wikilink")
+  - 引擎（Engine）：[電動機](https://zh.wikipedia.org/wiki/電動機 "wikilink")
   - 最高馬力（Maximmum Power）：？
   - 最大扭力（Maximum Torque）：？
   - 變速系統（Transmission）：CVT
@@ -27,15 +27,15 @@
 
 ### 攣生車輛
 
-然而，正確說明「[MC-1T](../Page/光岡MC-1T.md "wikilink")」與「MC-1EV」起來，所有外觀完全相同。但是，卻以「MC-1T」為原型基礎，修改成電動車輛「MC-1EV」。
+然而，正確說明「[MC-1T](https://zh.wikipedia.org/wiki/光岡MC-1T "wikilink")」與「MC-1EV」起來，所有外觀完全相同。但是，卻以「MC-1T」為原型基礎，修改成電動車輛「MC-1EV」。
 
-  - [MC-1T](../Page/光岡MC-1T.md "wikilink")
+  - [MC-1T](https://zh.wikipedia.org/wiki/光岡MC-1T "wikilink")
 
 ### 延伸車輛
 
-同時，另有「MC-1EV」的原型基礎「[MC-1](../Page/光岡MC-1.md "wikilink")」。
+同時，另有「MC-1EV」的原型基礎「[MC-1](https://zh.wikipedia.org/wiki/光岡MC-1 "wikilink")」。
 
-  - [MC-1](../Page/光岡MC-1.md "wikilink")
+  - [MC-1](https://zh.wikipedia.org/wiki/光岡MC-1 "wikilink")
 
 ## 備註
 

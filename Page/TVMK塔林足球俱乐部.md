@@ -1,8 +1,9 @@
 **TVMK塔林足球俱乐部**（**FC
-TVMK**）是[爱沙尼亚足球俱乐部](../Page/爱沙尼亚.md "wikilink")，位于首都[塔林](../Page/塔林.md "wikilink")。俱乐部成立于[苏联时期的](../Page/苏联.md "wikilink")1951年，球队在2005年首次夺得[爱沙尼亚足球甲级联赛冠军头衔](../Page/爱沙尼亚足球甲级联赛.md "wikilink")，并且多次获得[爱沙尼亚杯的冠军](../Page/爱沙尼亚杯.md "wikilink")。球队最主要的对手是同城球队[塔林利瓦迪亚](../Page/塔林利瓦迪亚足球俱乐部.md "wikilink")，两支球队共用一个主场
-- Kadrioru体育场。 俱乐部的另一个主要竞争对手是[塔林弗罗拉](../Page/塔林弗罗拉足球俱乐部.md "wikilink")。
+TVMK**）是[爱沙尼亚足球俱乐部](../Page/爱沙尼亚.md "wikilink")，位于首都[塔林](../Page/塔林.md "wikilink")。俱乐部成立于[苏联时期的](../Page/苏联.md "wikilink")1951年，球队在2005年首次夺得[爱沙尼亚足球甲级联赛冠军头衔](../Page/爱沙尼亚足球甲级联赛.md "wikilink")，并且多次获得[爱沙尼亚杯的冠军](https://zh.wikipedia.org/wiki/爱沙尼亚杯 "wikilink")。球队最主要的对手是同城球队[塔林利瓦迪亚](../Page/塔林利瓦迪亚足球俱乐部.md "wikilink")，两支球队共用一个主场
+- Kadrioru体育场。
+俱乐部的另一个主要竞争对手是[塔林弗罗拉](https://zh.wikipedia.org/wiki/塔林弗罗拉足球俱乐部 "wikilink")。
 
-球队在2005赛季首次出战欧洲赛事，最终俱乐部在首轮资格赛中被[芬兰足球超级联赛球队](../Page/芬兰足球超级联赛.md "wikilink")[迈帕所淘汰](../Page/迈帕.md "wikilink")。
+球队在2005赛季首次出战欧洲赛事，最终俱乐部在首轮资格赛中被[芬兰足球超级联赛球队](https://zh.wikipedia.org/wiki/芬兰足球超级联赛 "wikilink")[迈帕所淘汰](https://zh.wikipedia.org/wiki/迈帕 "wikilink")。
 
 在2008年，TVMK塔林由於財政上出了問題，因此被勒令降班。
 
@@ -12,11 +13,11 @@ TVMK**）是[爱沙尼亚足球俱乐部](../Page/爱沙尼亚.md "wikilink")，
 
 2005年。
 
-  - **[爱沙尼亚杯](../Page/爱沙尼亚杯.md "wikilink")**:（2次）
+  - **[爱沙尼亚杯](https://zh.wikipedia.org/wiki/爱沙尼亚杯 "wikilink")**:（2次）
 
 2003年，2006年。
 
-  - **[爱沙尼亚超级杯](../Page/爱沙尼亚超级杯.md "wikilink")**:（2次）
+  - **[爱沙尼亚超级杯](https://zh.wikipedia.org/wiki/爱沙尼亚超级杯 "wikilink")**:（2次）
 
 2005年，2006年
 

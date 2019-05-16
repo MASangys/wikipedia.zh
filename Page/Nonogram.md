@@ -1,14 +1,14 @@
 [Paint_by_numbers_Animation.gif](https://zh.wikipedia.org/wiki/File:Paint_by_numbers_Animation.gif "fig:Paint_by_numbers_Animation.gif")
 [Paint_by_Number_Example.png](https://zh.wikipedia.org/wiki/File:Paint_by_Number_Example.png "fig:Paint_by_Number_Example.png")
 [Paint_by_Number_solution.png](https://zh.wikipedia.org/wiki/File:Paint_by_Number_solution.png "fig:Paint_by_Number_solution.png")
-發現小花是一種[邏輯遊戲](../Page/邏輯遊戲.md "wikilink")，以猜謎的方式繪畫[點陣圖](../Page/位图.md "wikilink")。在一個網格中，每一行和列都有一組[數](../Page/数_\(数学\).md "wikilink")，玩家需根據它們來填滿或留空格子，最後就可以由此得出一幅圖畫。例如，「4
+發現小花是一種[邏輯遊戲](https://zh.wikipedia.org/wiki/邏輯遊戲 "wikilink")，以猜謎的方式繪畫[點陣圖](../Page/位图.md "wikilink")。在一個網格中，每一行和列都有一組[數](https://zh.wikipedia.org/wiki/数_\(数学\) "wikilink")，玩家需根據它們來填滿或留空格子，最後就可以由此得出一幅圖畫。例如，「4
 8
 3」的意思就是指該行或列上有三條獨立的線，分別佔了4、8和3格，而每條線最少要由一個空格分開。傳統上，玩家是以[黑色填滿格子](../Page/黑色.md "wikilink")，和以「×」號標記一定不需要填充的格子。就此來看，這和[踩地雷十分相似](../Page/踩地雷.md "wikilink")。但跟踩地雷不同的是，即使填錯了格子，也不會即時出局。Nonogram是一個[NP完全的問題](../Page/NP完全.md "wikilink")。
 
-Nonogram是在1987年由[日本人](../Page/日本人.md "wikilink")[西尾徹也發明的](../Page/西尾徹也.md "wikilink")。在日本，Nonogram的名稱是「****」，意思是「繪畫邏輯」。Nonogram初見於日本的謎題[雜誌](../Page/雜誌.md "wikilink")，玩家用紙和筆來玩。隨後，[任天堂以](../Page/任天堂.md "wikilink")「[Mario's
-Picross](../Page/Mario's_Picross.md "wikilink")」為名推出了兩款[Game
+Nonogram是在1987年由[日本人](../Page/日本人.md "wikilink")[西尾徹也發明的](https://zh.wikipedia.org/wiki/西尾徹也 "wikilink")。在日本，Nonogram的名稱是「****」，意思是「繪畫邏輯」。Nonogram初見於日本的謎題[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，玩家用紙和筆來玩。隨後，[任天堂以](../Page/任天堂.md "wikilink")「[Mario's
+Picross](https://zh.wikipedia.org/wiki/Mario's_Picross "wikilink")」為名推出了兩款[Game
 Boy和九款](../Page/Game_Boy.md "wikilink")[超級任天堂遊戲](../Page/超級任天堂.md "wikilink")。現時[NDS上亦有名為](../Page/任天堂DS.md "wikilink")[Picross
-DS的同款遊戲](../Page/Picross_DS.md "wikilink")。2015年十二月，任天堂推出了名為「Pokemon
+DS的同款遊戲](https://zh.wikipedia.org/wiki/Picross_DS "wikilink")。2015年十二月，任天堂推出了名為「Pokemon
 Picross」的3DS遊戲。
 
 ## 名字
@@ -129,7 +129,7 @@ Nonogram至今還未有正式或广泛流传的中文名称，已知的中文名
 
 有些Nonogram可以有多個可行的答案。不過並不是所有答案都是有意思的圖像。
 
-一個簡單的例子就是以Nonogram記錄的[國際象棋](../Page/國際象棋.md "wikilink")[棋盤](../Page/棋盤.md "wikilink")。為了方便閱讀和編輯，以下的棋盤大小只是平常的四分之一。
+一個簡單的例子就是以Nonogram記錄的[國際象棋](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")[棋盤](https://zh.wikipedia.org/wiki/棋盤 "wikilink")。為了方便閱讀和編輯，以下的棋盤大小只是平常的四分之一。
 
 答案一：
 
