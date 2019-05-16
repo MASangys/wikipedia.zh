@@ -10,7 +10,7 @@ microSD 卡，副相機畫素也從 30 萬提升至 130 萬，更找來
 在日本的知名度。因為此機在日本十分受歡迎，HTC 更在 9
 月引進回臺灣及香港等地，同樣也有不錯的表現，受到年輕族群的青睞。因為 HTC J
 的成功，日本電信商 au 更在冬季再與 HTC 合作，共同發表了高階客製機 [HTC J
-Butterfly](https://zh.wikipedia.org/wiki/HTC_J_Butterfly "wikilink")。
+Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。
 
 ## 簡介
 

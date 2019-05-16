@@ -20,8 +20,8 @@ Addiction, [X Japan](../Page/X_Japan.md "wikilink"),
 Chains](https://zh.wikipedia.org/wiki/Alice_in_Chains "wikilink"),
 [比约克](https://zh.wikipedia.org/wiki/比约克 "wikilink"), MGMT,
 [擁抱人群樂團](../Page/擁抱人群樂團.md "wikilink"),
-[史奇雷克斯](https://zh.wikipedia.org/wiki/史奇雷克斯 "wikilink"),
-[Kanye West](https://zh.wikipedia.org/wiki/Kanye_West "wikilink"),
+[史奇雷克斯](../Page/史奇雷克斯.md "wikilink"), [Kanye
+West](https://zh.wikipedia.org/wiki/Kanye_West "wikilink"),
 [30秒上火星](../Page/30秒上火星.md "wikilink"),[The
 Strokes](https://zh.wikipedia.org/wiki/The_Strokes "wikilink"),
 [北極潑猴](../Page/北極潑猴.md "wikilink"),[Lady

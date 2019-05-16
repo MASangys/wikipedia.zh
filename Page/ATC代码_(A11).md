@@ -24,7 +24,8 @@
     A11CA01
     [视黄醇](../Page/视黄醇.md "wikilink")（[维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")）
     Retinol vitamin A
-    A11CA02 [β-胡萝卜素](../Page/β-胡萝卜素.md "wikilink") Betacarotene
+    A11CA02 [β-胡萝卜素](https://zh.wikipedia.org/wiki/β-胡萝卜素 "wikilink")
+    Betacarotene
 
 ### A11CB 维生素A和维生素D的复方 Vitamin A and D in combination
 

@@ -8,7 +8,7 @@ Music Records發售](../Page/Sony_Music_Records.md "wikilink")。
 ## 歌曲
 
 A面曲《來吧Shampoo》是[HTC
-Nippon](../Page/宏達國際電子.md "wikilink")「[au](../Page/au_\(行動電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")）[HTC
+Nippon](../Page/宏達國際電子.md "wikilink")「[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")）[HTC
 J
 ISW13HT](../Page/HTC_J.md "wikilink")」的廣告歌曲，乃木坂46亦成為這部手提電話的代言人。\[2\]\[3\]《》是[愛知電視台和](../Page/愛知電視台.md "wikilink")[東京電視系](https://zh.wikipedia.org/wiki/東京電視系 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[乃木坂在哪裡？](../Page/乃木坂在哪裡？.md "wikilink")》的片尾歌。
 
@@ -17,7 +17,7 @@ ISW13HT](../Page/HTC_J.md "wikilink")」的廣告歌曲，乃木坂46亦成為�
 3月13日，[乃木坂46宣佈將於](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")5月2日發售其第2張單曲，當時還未定標題。由於跟[AKB48成員](../Page/AKB48.md "wikilink")[指原莉乃的首張單曲](../Page/指原莉乃.md "wikilink")《[就是喜歡妳](../Page/就是喜歡妳.md "wikilink")》於同一天開始發售，這次單曲發售被稱為身為AKB48官方對手的乃木坂46與指原之間的「直接對決」。\[4\]
 4月2日，宣佈單曲名稱是《來吧Shampoo》。\[5\]
 
-4月2日至4日，單曲封面照以及本作特典「擬似約會影像」的刪剪版在乃木坂46於[Youtube的官方頻道和](../Page/Youtube.md "wikilink")等公開，每日公開11段影像。\[6\]
+4月2日至4日，單曲封面照以及本作特典「擬似約會影像」的刪剪版在乃木坂46於[Youtube的官方頻道和](https://zh.wikipedia.org/wiki/Youtube "wikilink")等公開，每日公開11段影像。\[6\]
 
 4月8日，《來吧Shampoo》的歌舞在其冠名節目《乃木坂在哪裡？》上首次在電視上披露。4月16日，[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（MV）在Youtube和GyaO\!等公開。\[7\]
 當中在歌曲的間奏部分，舞蹈中有將長裙掀起，露出內裏短裙的動作。\[8\]
@@ -70,7 +70,7 @@ ISW13HT](../Page/HTC_J.md "wikilink")」的廣告歌曲，乃木坂46亦成為�
 <td><p>對狼吹口哨<br />
 <br />
 （Under）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安藤美雲" title="wikilink">安藤美雲</a>、伊藤萬理華、<a href="https://zh.wikipedia.org/wiki/伊藤寧寧" title="wikilink">伊藤寧寧</a>、<a href="../Page/衛藤美彩.md" title="wikilink">衛藤美彩</a>、<a href="../Page/柏幸奈.md" title="wikilink">柏幸奈</a>、<a href="../Page/川後陽菜.md" title="wikilink">川後陽菜</a>、<a href="../Page/川村真洋.md" title="wikilink">川村真洋</a>、<a href="../Page/齋藤飛鳥.md" title="wikilink">齋藤飛鳥</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/安藤美雲" title="wikilink">安藤美雲</a>、伊藤萬理華、<a href="../Page/伊藤寧寧.md" title="wikilink">伊藤寧寧</a>、<a href="../Page/衛藤美彩.md" title="wikilink">衛藤美彩</a>、<a href="../Page/柏幸奈.md" title="wikilink">柏幸奈</a>、<a href="../Page/川後陽菜.md" title="wikilink">川後陽菜</a>、<a href="../Page/川村真洋.md" title="wikilink">川村真洋</a>、<a href="../Page/齋藤飛鳥.md" title="wikilink">齋藤飛鳥</a>、<br />
 <a href="../Page/齋藤千春.md" title="wikilink">齋藤千春</a>、永島聖羅、<a href="../Page/中元日芽香.md" title="wikilink">中元日芽香</a>、<a href="../Page/能條愛未.md" title="wikilink">能條愛未</a>、<a href="../Page/樋口日奈.md" title="wikilink">樋口日奈</a>、深川麻衣、大和里菜、<a href="../Page/若月佑美.md" title="wikilink">若月佑美</a>、<a href="https://zh.wikipedia.org/wiki/和田まあや" title="wikilink">和田まあや</a></p></td>
 <td><p>伊藤万理華</p></td>
 </tr>

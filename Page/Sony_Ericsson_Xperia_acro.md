@@ -5,7 +5,7 @@ Sony Ericsson Xperia acro
 
 Xperia acro
 由日本兩家[流動網絡商](https://zh.wikipedia.org/wiki/流動網絡商 "wikilink")[NTT
-docomo及](../Page/NTT_docomo.md "wikilink")[au](../Page/au_\(行動電話\).md "wikilink")
+docomo及](https://zh.wikipedia.org/wiki/NTT_docomo "wikilink")[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")
 by [KDDI](../Page/KDDI.md "wikilink") 銷售。NTT docomo 版本名為 Xperia acro
 SO-02C，而 au by KDDI 版本則名為 Xperia acro IS11S。Xperia acro IS11S 支援
 [CDMA2000](../Page/CDMA2000.md "wikilink")。
@@ -15,8 +15,8 @@ SO-02C，而 au by KDDI 版本則名為 Xperia acro IS11S。Xperia acro IS11S �
 Xperia Acro 採用 Android 2.3 (Gingerbread) 版本操作系統，內置 1 GHz
 [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") Snapdragon
 [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，512 MB
-記憶體，[microSDHC](../Page/microSD.md "wikilink") 卡插槽。854 x 480
-像素，4.2 吋 Reality display 顯示屏，索尼流動
+記憶體，[microSDHC](https://zh.wikipedia.org/wiki/microSD "wikilink")
+卡插槽。854 x 480 像素，4.2 吋 Reality display 顯示屏，索尼流動
 [BRAVIA](../Page/BRAVIA.md "wikilink") 引擎；810
 萬像素[背照式](https://zh.wikipedia.org/wiki/背照式 "wikilink") Exmor
 R [CMOS](https://zh.wikipedia.org/wiki/CMOS "wikilink")

@@ -7,9 +7,7 @@
     [碳酸镁](https://zh.wikipedia.org/wiki/碳酸镁 "wikilink")（Magnesium
     carbonate）
     A02AA02 [氧化镁](../Page/氧化镁.md "wikilink")（Magnesium oxide）
-    A02AA03
-    [过氧化镁](https://zh.wikipedia.org/wiki/过氧化镁 "wikilink")（Magnesium
-    peroxide）
+    A02AA03 [过氧化镁](../Page/过氧化镁.md "wikilink")（Magnesium peroxide）
     A02AA04 [氢氧化镁](../Page/氢氧化镁.md "wikilink")（Magnesium hydroxide）
     A02AA05
     [硅酸镁](https://zh.wikipedia.org/wiki/硅酸镁 "wikilink")（Magnesium
@@ -26,9 +24,7 @@
     A02AB04
     [碳酸二羟基铝钠](https://zh.wikipedia.org/wiki/碳酸二羟基铝钠 "wikilink")（Dihydroxialumini
     sodium carbonate）
-    A02AB05
-    [乙酰乙酸铝](https://zh.wikipedia.org/wiki/乙酰乙酸铝 "wikilink")（Aluminium
-    acetoacetate）
+    A02AB05 [乙酰乙酸铝](../Page/乙酰乙酸铝.md "wikilink")（Aluminium acetoacetate）
     A02AB06
     [谷氨醇铝](https://zh.wikipedia.org/wiki/谷氨醇铝 "wikilink")（Aloglutamol）
     A02AB07
@@ -107,15 +103,13 @@
   -
     A02BB01
     [米索前列醇](https://zh.wikipedia.org/wiki/米索前列醇 "wikilink")（Misoprostol）
-    A02BB02
-    [恩前列素](https://zh.wikipedia.org/wiki/恩前列素 "wikilink")（Enprostil）
+    A02BB02 [恩前列素](../Page/恩前列素.md "wikilink")（Enprostil）
 
 ### A02BC 质子泵抑制药（Proton pump inhibitors）
 
   -
     A02BC01 [奥美拉唑](../Page/奥美拉唑.md "wikilink")（Omeprazole）
-    A02BC02
-    [泮托拉唑](https://zh.wikipedia.org/wiki/泮托拉唑 "wikilink")（Pantoprazole）
+    A02BC02 [泮托拉唑](../Page/泮托拉唑.md "wikilink")（Pantoprazole）
     A02BC03
     [兰索拉唑](https://zh.wikipedia.org/wiki/兰索拉唑 "wikilink")（Lansoprazole）
     A02BC04 [雷贝拉唑](../Page/雷贝拉唑.md "wikilink")（Rabeprazole）
@@ -137,7 +131,7 @@
     [兰索拉唑](https://zh.wikipedia.org/wiki/兰索拉唑 "wikilink")，[阿莫西林和](../Page/阿莫西林.md "wikilink")[甲硝唑](../Page/甲硝唑.md "wikilink")（Lansoprazole,
     amoxicillin and metronidazole）
     A02BD04
-    [泮托拉唑](https://zh.wikipedia.org/wiki/泮托拉唑 "wikilink")，[阿莫西林和](../Page/阿莫西林.md "wikilink")[克拉霉素](https://zh.wikipedia.org/wiki/克拉霉素 "wikilink")（Pantoprazole,
+    [泮托拉唑](../Page/泮托拉唑.md "wikilink")，[阿莫西林和](../Page/阿莫西林.md "wikilink")[克拉霉素](https://zh.wikipedia.org/wiki/克拉霉素 "wikilink")（Pantoprazole,
     amoxicillin and clarithromycin）
     A02BD05
     [奥美拉唑](../Page/奥美拉唑.md "wikilink")，[阿莫西林和](../Page/阿莫西林.md "wikilink")[克拉霉素](https://zh.wikipedia.org/wiki/克拉霉素 "wikilink")（Omeprazole,

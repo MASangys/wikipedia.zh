@@ -8,8 +8,8 @@
 
 為了達到這個目的，當時的烏克蘭國有工廠Fort從捷克（曾生產[CZ
 75手槍](../Page/CZ_75手槍.md "wikilink")、[vz.
-61蠍式衝鋒槍](../Page/vz._61蠍式衝鋒槍.md "wikilink")、[vz.
-58突擊步槍的一間捷克槍械製造商](../Page/vz._58突擊步槍.md "wikilink")）購入了製作手槍用的機械，並於1990年代末期研製出他們第一款手槍，是為Fort-12。
+61蠍式衝鋒槍](https://zh.wikipedia.org/wiki/vz._61蠍式衝鋒槍 "wikilink")、[vz.
+58突擊步槍的一間捷克槍械製造商](https://zh.wikipedia.org/wiki/vz._58突擊步槍 "wikilink")）購入了製作手槍用的機械，並於1990年代末期研製出他們第一款手槍，是為Fort-12。
 
 ## 採用
 
@@ -61,7 +61,7 @@ Fort-12唯一比較顯眼的缺陷就是缺乏一個安全的退彈系統。
   - [馬卡洛夫手槍](../Page/馬卡洛夫手槍.md "wikilink")
   - [扎斯塔瓦CZ 99手槍](https://zh.wikipedia.org/wiki/扎斯塔瓦CZ_99手槍 "wikilink")
   - [WIST-94手槍](../Page/WIST-94手槍.md "wikilink")
-  - [MAG-95手槍](https://zh.wikipedia.org/wiki/MAG-95手槍 "wikilink")
+  - [MAG-95手槍](../Page/MAG-95手槍.md "wikilink")
 
 ## 參考文獻
 

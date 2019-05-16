@@ -44,7 +44,7 @@ HTC Flyer首先推出的是 [3G](../Page/3G.md "wikilink") 版本，可插入
   - 130 萬像素前置鏡頭
   - 16GB/32GB
     [快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，並設有
-    [microSD](../Page/microSD.md "wikilink") 卡插槽
+    [microSD](https://zh.wikipedia.org/wiki/microSD "wikilink") 卡插槽
   - 4,000 [mAh](https://zh.wikipedia.org/wiki/mAh "wikilink")
     [鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")
   - 支援[Adobe Flash](../Page/Adobe_Flash.md "wikilink") 10.3 及

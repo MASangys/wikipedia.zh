@@ -1,5 +1,5 @@
 《**AKB48
-永遠在一起**》（，又可直譯為「AKB48紀錄電影：少女們即使受傷，也在努力實現夢想」）是一部2012年1月27日在日本國內首映、以女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48為主角的](../Page/AKB48.md "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。由曾經拍過多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](https://zh.wikipedia.org/wiki/高橋榮樹 "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")，其宣傳標語為「AKB48一邊受傷，一邊面對困難，是不屈的偶像團體。」（）
+永遠在一起**》（，又可直譯為「AKB48紀錄電影：少女們即使受傷，也在努力實現夢想」）是一部2012年1月27日在日本國內首映、以女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48為主角的](../Page/AKB48.md "wikilink")[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。由曾經拍過多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")，其宣傳標語為「AKB48一邊受傷，一邊面對困難，是不屈的偶像團體。」（）
 
 ## 簡介
 
@@ -15,10 +15,10 @@ Rabbit》是為了本作而新寫的歌曲。\[1\]
 
 ## 工作人員
 
-  - 監督：[高橋榮樹](https://zh.wikipedia.org/wiki/高橋榮樹 "wikilink")
+  - 監督：[高橋榮樹](../Page/高橋榮樹.md "wikilink")
   - 企劃：[秋元康](../Page/秋元康.md "wikilink")
   - 製作：窪田康志、新坂純一、秋元伸介、北川謙二、吉田立
-  - 製作人：古澤佳寛、磯野久美子、[松村匠](https://zh.wikipedia.org/wiki/松村匠 "wikilink")、牧野彰宏、岸辺香里
+  - 製作人：古澤佳寛、磯野久美子、[松村匠](../Page/松村匠.md "wikilink")、牧野彰宏、岸辺香里
   - 監督生產者：[石原真](https://zh.wikipedia.org/wiki/石原真 "wikilink")
   - 製片：篠田学、大日方教史
   - 音樂：大坪弘人
@@ -44,9 +44,8 @@ Rabbit》是為了本作而新寫的歌曲。\[1\]
 ## 相關條目
 
   - 《[AKB48 夢想起飛](../Page/AKB48_夢想起飛.md "wikilink")》（）：AKB48紀錄片系列的首作
-  - 《[AKB48_笑淚交織](https://zh.wikipedia.org/wiki/AKB48_笑淚交織 "wikilink")》（）：AKB48紀錄片系列的第三部
-  - 《[AKB48
-    光榮時刻](https://zh.wikipedia.org/wiki/AKB48_光榮時刻 "wikilink")》（）：AKB48紀錄片系列的第四部
+  - 《[AKB48_笑淚交織](../Page/AKB48_笑淚交織.md "wikilink")》（）：AKB48紀錄片系列的第三部
+  - 《[AKB48 光榮時刻](../Page/AKB48_光榮時刻.md "wikilink")》（）：AKB48紀錄片系列的第四部
 
 ## 外部連結
 

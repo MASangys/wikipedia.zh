@@ -14,7 +14,7 @@ Planner～](https://zh.wikipedia.org/wiki/最棒的人生終結方式～Ending_P
 ### 初回限定盤A
 
 1.  《**愛、Texas**》（）\[3:31\]
-      - 作詞：（[藥師丸悅子](https://zh.wikipedia.org/wiki/藥師丸悅子 "wikilink")）；作曲：[永井聖一](https://zh.wikipedia.org/wiki/相對性理論 "wikilink")；編曲：、永井聖一
+      - 作詞：（[藥師丸悅子](https://zh.wikipedia.org/wiki/藥師丸悅子 "wikilink")）；作曲：[永井聖一](../Page/相對性理論.md "wikilink")；編曲：、永井聖一
 2.  《**Candy**》\[3:07\]
       - 作詞：[Elvis
         Woodstock](https://zh.wikipedia.org/wiki/Elvis_Woodstock "wikilink")、作曲・編曲：HAN

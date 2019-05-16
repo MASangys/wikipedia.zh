@@ -6,13 +6,13 @@ Aharoni, Emanuele Gentili, and others.\[1\] | website =
 release_version = 5 R3 | release_date =  | source_model =
 [开放源代码](../Page/开放源代码.md "wikilink") | kernel_type =
 [單核心](https://zh.wikipedia.org/wiki/單核心 "wikilink") |
-working_state = 被[Kali
-Linux取代](https://zh.wikipedia.org/wiki/Kali_Linux "wikilink") |
-supported_platforms = [i386(x86)](../Page/x86.md "wikilink"),
+working_state = 被[Kali Linux取代](../Page/Kali_Linux.md "wikilink") |
+supported_platforms =
+[i386(x86)](https://zh.wikipedia.org/wiki/x86 "wikilink"),
 [amd64(x86-64)](../Page/X86-64.md "wikilink"),
 [ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") }}
 **BackTrack** 是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")
-[GNU/Linux的发行版本](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，主要用做[數位鑑識和](https://zh.wikipedia.org/wiki/數位鑑識 "wikilink")[入侵测试](https://zh.wikipedia.org/wiki/入侵测试 "wikilink")\[2\]。他的名字引用自[回溯法](https://zh.wikipedia.org/wiki/回溯法 "wikilink")（backtracking）。
+[GNU/Linux的发行版本](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，主要用做[數位鑑識和](../Page/數位鑑識.md "wikilink")[入侵测试](https://zh.wikipedia.org/wiki/入侵测试 "wikilink")\[2\]。他的名字引用自[回溯法](https://zh.wikipedia.org/wiki/回溯法 "wikilink")（backtracking）。
 
 ## 历史
 
@@ -26,7 +26,7 @@ BackTrack 集成了大量著名安全软件:
 
   - [Metasploit](../Page/Metasploit.md "wikilink")
   - [RFMON](https://zh.wikipedia.org/wiki/Monitor_mode "wikilink")
-  - [Aircrack-NG](https://zh.wikipedia.org/wiki/Aircrack-NG "wikilink")
+  - [Aircrack-NG](../Page/Aircrack-NG.md "wikilink")
   - [Gerix Wifi
     Cracker](https://zh.wikipedia.org/wiki/Aircrack-ng#Gerix_Wifi_Cracker "wikilink")
   - [Kismet](https://zh.wikipedia.org/wiki/Kismet_\(software\) "wikilink")
@@ -40,7 +40,7 @@ BackTrack 集成了大量著名安全软件:
   - Hydra
   - [OWASP Mantra Security
     Framework](https://zh.wikipedia.org/wiki/OWASP_Mantra_Security_Framework "wikilink")
-    （一套基于[FireFox的工具](../Page/FireFox.md "wikilink")、插件和脚本）
+    （一套基于[FireFox的工具](https://zh.wikipedia.org/wiki/FireFox "wikilink")、插件和脚本）
   - Cisco OCS Mass Scanner
     （通过telnet以及默认密码扫描[思科路由器](https://zh.wikipedia.org/wiki/Cisco "wikilink")）
   - 大量的 [exploit](https://zh.wikipedia.org/wiki/exploit "wikilink") 程序比如
@@ -82,8 +82,7 @@ BackTrack 工具软件分成12大类:
 
 官網上顯示，BackTrack的5已經過時，不再受支持 - 下載已經停產。
 
-請檢查[Kali
-Linux項目代替](https://zh.wikipedia.org/wiki/Kali_Linux "wikilink")。
+請檢查[Kali Linux項目代替](../Page/Kali_Linux.md "wikilink")。
 
 ## 链接
 

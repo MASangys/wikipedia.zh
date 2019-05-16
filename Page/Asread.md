@@ -68,7 +68,7 @@ Twinkle負責統包。
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/當不成勇者的我，只好認真找工作了。" title="wikilink">當不成勇者的我，只好認真找工作了。</a></p></td>
+<td><p><a href="../Page/當不成勇者的我，只好認真找工作了。.md" title="wikilink">當不成勇者的我，只好認真找工作了。</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -184,7 +184,7 @@ Twinkle負責統包。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DearS.md" title="wikilink">DearS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/童夢_(動畫工作室)" title="wikilink">童夢</a></p></td>
+<td><p><a href="../Page/童夢_(動畫工作室).md" title="wikilink">童夢</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,7 +378,7 @@ Twinkle負責統包。
 <td><p>2009年</p></td>
 <td><p><a href="../Page/加奈日記.md" title="wikilink">加奈日記</a></p></td>
 <td></td>
-<td><p><a href="../Page/feel..md" title="wikilink">feel.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feel." title="wikilink">feel.</a></p></td>
 <td><p>各話協力製作</p></td>
 <td><p>電視動畫</p></td>
 </tr>
@@ -433,7 +433,7 @@ Twinkle負責統包。
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/江戶盜賊團五葉" title="wikilink">江戶盜賊團五葉</a></p></td>
 <td></td>
-<td><p><a href="../Page/manglobe.md" title="wikilink">manglobe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/manglobe" title="wikilink">manglobe</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@ Twinkle負責統包。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/惡之華_(2009年漫畫)" title="wikilink">惡之華</a></p></td>
+<td><p><a href="../Page/惡之華_(2009年漫畫).md" title="wikilink">惡之華</a></p></td>
 <td></td>
 <td><p><a href="../Page/ZEXCS.md" title="wikilink">ZEXCS</a></p></td>
 <td></td>
@@ -511,7 +511,7 @@ Twinkle負責統包。
 <td><p>電視動畫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/東京ESP" title="wikilink">東京ESP</a></p></td>
+<td><p><a href="../Page/東京ESP.md" title="wikilink">東京ESP</a></p></td>
 <td><p>XEBEC</p></td>
 <td></td>
 <td></td>
@@ -519,7 +519,7 @@ Twinkle負責統包。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/GLASSLIP" title="wikilink">GLASSLIP</a></p></td>
+<td><p><a href="../Page/GLASSLIP.md" title="wikilink">GLASSLIP</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/P.A._Works" title="wikilink">P.A. Works</a></p></td>
 <td></td>
@@ -527,7 +527,7 @@ Twinkle負責統包。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/棺姬嘉依卡" title="wikilink">棺姬嘉依卡</a></p></td>
+<td><p><a href="../Page/棺姬嘉依卡.md" title="wikilink">棺姬嘉依卡</a></p></td>
 <td></td>
 <td><p>BONES</p></td>
 <td></td>
@@ -584,7 +584,7 @@ Twinkle負責統包。
 
 ## 相關項目
 
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 出處
 

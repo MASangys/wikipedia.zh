@@ -60,10 +60,10 @@ CPU设计计划大致上有这些主要工作:
   - 关键速度相关部件（缓存、寄存器、算数逻辑单元）[电路设计](https://zh.wikipedia.org/wiki/电路设计 "wikilink")
   - [逻辑综合](../Page/逻辑综合.md "wikilink") 或逻辑门层设计
   - 进行[时序分析](../Page/静态时序分析.md "wikilink") 以确认所有逻辑和电路将以特定频率运行
-  - [物理设计](https://zh.wikipedia.org/wiki/物理设计 "wikilink")，包括[布局](https://zh.wikipedia.org/wiki/布局_\(集成电路\) "wikilink")、[布线](https://zh.wikipedia.org/wiki/布线_\(集成电路\) "wikilink")、[版图设计](https://zh.wikipedia.org/wiki/集成电路版图 "wikilink")
+  - [物理设计](https://zh.wikipedia.org/wiki/物理设计 "wikilink")，包括[布局](../Page/布局_\(集成电路\).md "wikilink")、[布线](https://zh.wikipedia.org/wiki/布线_\(集成电路\) "wikilink")、[版图设计](../Page/集成电路版图.md "wikilink")
   - 检查 RTL，逻辑门层，晶体管层及物理层表示相符
   - 检查
-    [信号完整性](../Page/信号完整性.md "wikilink")，[芯片可制造性](https://zh.wikipedia.org/wiki/设计规则检查 "wikilink")
+    [信号完整性](../Page/信号完整性.md "wikilink")，[芯片可制造性](../Page/设计规则检查.md "wikilink")
 
 通过重新设计CPU核心，来获得更小的裸片面积，有助于实现以上目标中的几个。
 

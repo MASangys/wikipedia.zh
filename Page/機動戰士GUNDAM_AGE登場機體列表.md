@@ -46,7 +46,7 @@ AGE》是描寫使用稱作「[機動戰士](https://zh.wikipedia.org/wiki/機�
       -
         高達AGE-1的格鬥戰特化模式，它的光束套索、光束膝撞和光束肩撞均能一擊殲滅一部UE的重裝甲型機動戰士巴古托\[8\]。
         高度：17.6公尺、重量：62.5噸
-        在現實中，此機體的[GUNPLA發售後](../Page/GUNPLA.md "wikilink")，有玩家嘗試將其四肢接上當時當紅的《魔法少女小圓》[鹿目圓的](../Page/鹿目圓.md "wikilink")[figma上](../Page/figma.md "wikilink")，意外引發熱潮（且無須改造關節就可安裝）。日本[秋葉原的](../Page/秋葉原.md "wikilink")一號店甚至製作[POP](https://zh.wikipedia.org/wiki/POP "wikilink")，將兩者成套販賣。更稱此為「小圓重擊型」\[9\]\[10\]\[11\]
+        在現實中，此機體的[GUNPLA發售後](../Page/GUNPLA.md "wikilink")，有玩家嘗試將其四肢接上當時當紅的《魔法少女小圓》[鹿目圓的](../Page/鹿目圓.md "wikilink")[figma上](https://zh.wikipedia.org/wiki/figma "wikilink")，意外引發熱潮（且無須改造關節就可安裝）。日本[秋葉原的](../Page/秋葉原.md "wikilink")一號店甚至製作[POP](https://zh.wikipedia.org/wiki/POP "wikilink")，將兩者成套販賣。更稱此為「小圓重擊型」\[9\]\[10\]\[11\]
 
   - \* 武裝：光束套索（Beam Lariat）x2、光束膝撞（Beam Kneekick）x6、光束肩撞（Beam Shoulder
     Tackle）x8

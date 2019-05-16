@@ -8,11 +8,10 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
 ### 手機
 
   - [One S（One S Special Edition）](../Page/HTC_One_S.md "wikilink")
-  - [One SC](https://zh.wikipedia.org/wiki/HTC_One_SC "wikilink")
+  - [One SC](../Page/HTC_One_SC.md "wikilink")
   - [One ST](https://zh.wikipedia.org/wiki/HTC_One_ST "wikilink")
   - [One SU](https://zh.wikipedia.org/wiki/HTC_One_SU "wikilink")
-  - [One SV（Desire
-    SV）](https://zh.wikipedia.org/wiki/HTC_One_SV "wikilink")
+  - [One SV（Desire SV）](../Page/HTC_One_SV.md "wikilink")
   - [One V](../Page/HTC_One_V.md "wikilink")
   - [One VX](https://zh.wikipedia.org/wiki/HTC_One_VX "wikilink")
   - [One X（One X+）](../Page/HTC_One_X.md "wikilink")
@@ -21,9 +20,9 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
     XL+）](https://zh.wikipedia.org/wiki/HTC_One_XL "wikilink")
   - [One XT](https://zh.wikipedia.org/wiki/HTC_One_XT "wikilink")
   - [One (M7)（One (M7) Google Play Edition·J
-    One）](https://zh.wikipedia.org/wiki/HTC_One_\(M7\) "wikilink")
-  - [One Max](https://zh.wikipedia.org/wiki/HTC_One_Max "wikilink")
-  - [One Mini](https://zh.wikipedia.org/wiki/HTC_One_Mini "wikilink")
+    One）](../Page/HTC_One_\(M7\).md "wikilink")
+  - [One Max](../Page/HTC_One_Max.md "wikilink")
+  - [One Mini](../Page/HTC_One_Mini.md "wikilink")
   - [One
     (E8)（One時尚版）](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")
   - [One (M8)（One (M8) Google Play Edition·One (M8) Harman Kardon
@@ -37,7 +36,7 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
     E9+）](https://zh.wikipedia.org/wiki/HTC_One_E9 "wikilink")
   - [One E9S](https://zh.wikipedia.org/wiki/HTC_One_E9S "wikilink")
   - [One M9（One M9 Prime Camera Edition·One M9 OIS光學防抖版·One
-    M9(S)）](https://zh.wikipedia.org/wiki/HTC_One_M9 "wikilink")
+    M9(S)）](../Page/HTC_One_M9.md "wikilink")
   - [One M9+（One M9+相機升級版·One
     M9+光學防手震極速對焦）](../Page/HTC_One_M9+.md "wikilink")
   - [One ME](https://zh.wikipedia.org/wiki/HTC_One_ME "wikilink")
@@ -52,7 +51,7 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
 <tr class="header">
 <th></th>
 <th><p><a href="../Page/HTC_One_V.md" title="wikilink">HTC One V</a>[1]</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_SV" title="wikilink">HTC One SV</a></p></th>
+<th><p><a href="../Page/HTC_One_SV.md" title="wikilink">HTC One SV</a></p></th>
 <th><p><a href="../Page/HTC_One_S.md" title="wikilink">HTC One S</a>[2][3]</p></th>
 <th><p><a href="../Page/HTC_One_S.md" title="wikilink">HTC One S</a>[4]<br />
 <small>(Snapdragon S3)</small></p></th>
@@ -62,8 +61,8 @@ U系列](https://zh.wikipedia.org/wiki/HTC_U系列 "wikilink")。
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_XL" title="wikilink">HTC One XL</a>[7]</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_X+" title="wikilink">HTC One X+</a>[8]</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_(2013)" title="wikilink">HTC One (2013)</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_Mini" title="wikilink">HTC One Mini</a>[9]</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_Max" title="wikilink">HTC One Max</a>[10]</p></th>
+<th><p><a href="../Page/HTC_One_Mini.md" title="wikilink">HTC One Mini</a>[9]</p></th>
+<th><p><a href="../Page/HTC_One_Max.md" title="wikilink">HTC One Max</a>[10]</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_(M8)" title="wikilink">HTC One (M8)</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/HTC_One_Mini_2" title="wikilink">HTC One Mini 2</a></p></th>
 </tr>
@@ -163,7 +162,7 @@ N/A (Windows Phone 8.1 Update 1)</p></td>
 <td><p>Display</p></td>
 <td><p>3.7-inch WVGA (480x800) <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a></p></td>
 <td><p>4.3-inch WVGA (480x800) Super LCD 2 with RGB matrix. Corning Gorilla Glass 2.0 217 ppi</p></td>
-<td><p>4.3-inch qHD (540x960) <a href="https://zh.wikipedia.org/wiki/Super_AMOLED" title="wikilink">Super AMOLED</a> with RGBG-matrix (<a href="https://zh.wikipedia.org/wiki/PenTile" title="wikilink">PenTile</a>)</p></td>
+<td><p>4.3-inch qHD (540x960) <a href="https://zh.wikipedia.org/wiki/Super_AMOLED" title="wikilink">Super AMOLED</a> with RGBG-matrix (<a href="../Page/PenTile.md" title="wikilink">PenTile</a>)</p></td>
 <td><p>4.7-inch 720p (720x1280) <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a> <a href="https://zh.wikipedia.org/wiki/IPS_panel" title="wikilink">IPS panel</a> with RGB-matrix</p></td>
 <td><p>4.7-inch 720p (720x1280) Super <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a> 2. Corning <a href="https://zh.wikipedia.org/wiki/Gorilla_glass" title="wikilink">Gorilla</a> Glass 2.0 312 <a href="https://zh.wikipedia.org/wiki/pixel_density" title="wikilink">ppi</a></p></td>
 <td><p>4.7-inch 1080p (1080x1920) Super LCD 3 with RGB matrix. Corning Gorilla Glass 2.0 468 ppi</p></td>

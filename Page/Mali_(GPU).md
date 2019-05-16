@@ -41,7 +41,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <tr class="odd">
 <td><p>百万三角形/s</p></td>
 <td><p>十亿<a href="../Page/像素.md" title="wikilink">像素</a>/s</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Vulkan_(API)" title="wikilink">Vulkan</a></p></td>
+<td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -451,7 +451,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 
 ## Lima FOSS 驱动
 
-2012年1月21日，[Phoronix报道称Codethink最主要的开源显示技术开发商](https://zh.wikipedia.org/wiki/Phoronix "wikilink")：[Luc
+2012年1月21日，[Phoronix报道称Codethink最主要的开源显示技术开发商](../Page/Phoronix.md "wikilink")：[Luc
 Verhaegen已经开始尝试为Mali显示芯片组系列提供技术支持](https://zh.wikipedia.org/wiki/Luc_Verhaegen "wikilink")，特别是Mali
 200 以及 Mali 400 型号。该项目称为**Lima**（利马）并且开始提供对[OpenGL
 ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
@@ -464,7 +464,7 @@ ES](../Page/OpenGL_ES.md "wikilink") 2.0的全面支持。\[20\]
 ## 参见
 
   - [PowerVR](../Page/PowerVR.md "wikilink") – [Imagination
-    Technologies](https://zh.wikipedia.org/wiki/Imagination_Technologies "wikilink")
+    Technologies](../Page/Imagination_Technologies.md "wikilink")
     研发的移动GPU，用于第三方授权。
   - [Adreno](../Page/Adreno.md "wikilink") –
     [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")

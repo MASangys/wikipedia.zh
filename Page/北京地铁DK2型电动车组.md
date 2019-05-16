@@ -2,7 +2,7 @@
 
 ## 简介
 
-DK2型由[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，共80辆。是第1款正式载客运营的列车，主要在[一期工程运营](https://zh.wikipedia.org/wiki/北京地铁一期工程 "wikilink")，后曾一度支援过[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")（编号101-103，被命名为“主席号”）。每节车厢共3对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。较之前的[DK1型相比](../Page/北京地铁DK1型电动车组.md "wikilink")，本款列车能够适应北京地铁的[车辆限界](https://zh.wikipedia.org/wiki/车辆限界 "wikilink")。
+DK2型由[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，共80辆。是第1款正式载客运营的列车，主要在[一期工程运营](../Page/北京地铁一期工程.md "wikilink")，后曾一度支援过[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")（编号101-103，被命名为“主席号”）。每节车厢共3对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。较之前的[DK1型相比](../Page/北京地铁DK1型电动车组.md "wikilink")，本款列车能够适应北京地铁的[车辆限界](https://zh.wikipedia.org/wiki/车辆限界 "wikilink")。
 
 ## 编组
 

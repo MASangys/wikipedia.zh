@@ -16,7 +16,7 @@ CoffeeScript的一般原則，是可以省略許多不必要的括號和大括�
 
 ## 範例
 
-一個使用[jQuery的普通JavaScript程式碼如下](../Page/jQuery.md "wikilink")：
+一個使用[jQuery的普通JavaScript程式碼如下](https://zh.wikipedia.org/wiki/jQuery "wikilink")：
 
 ``` javascript
 $(document).ready(function() {

@@ -2,7 +2,7 @@
 
 ## 简介
 
-BD11型共12辆，为6节编组。在[2号线上运营](../Page/北京地铁2号线.md "wikilink")，和[BD8型同为斩波调压控制车辆](https://zh.wikipedia.org/wiki/BD8型电动车组 "wikilink")。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车外观和[DKZ4型相似](../Page/北京地铁DKZ4型电动车组.md "wikilink")。
+BD11型共12辆，为6节编组。在[2号线上运营](../Page/北京地铁2号线.md "wikilink")，和[BD8型同为斩波调压控制车辆](../Page/BD8型电动车组.md "wikilink")。每节车厢共4对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车外观和[DKZ4型相似](../Page/北京地铁DKZ4型电动车组.md "wikilink")。
 
 ## 编组
 

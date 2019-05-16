@@ -19,7 +19,9 @@ Hummingbird S5PC110 1.2 GHz |gpu =
 [PowerVR](../Page/PowerVR.md "wikilink") SGX540 |memory = 512
 MB\[2\]（設備實際RAM為429 MB） |power = 可充電鋰離子電池1760 mAh（3.7 V）
 |storage = 16 GB（NAND閃存記憶體）
-\+ [microSD](../Page/microSD.md "wikilink")（最多支持32 GB） |input =
+\+
+[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")（最多支持32 GB）
+|input =
 [多點觸控電容式觸摸屏](../Page/多點觸控.md "wikilink")、3軸加速度計、3軸陀螺儀、數字羅盤、近距離和光傳感器、Swype
 |display = 4.5-inch 480 × 800 px WVGA [Super AMOLED
 Plus](../Page/AMOLED.md "wikilink") 207 ppi |ext_display = mini

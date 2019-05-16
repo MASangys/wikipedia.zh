@@ -194,7 +194,7 @@
 <!-- end list -->
 
   - 豬口介 -
-    [岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")（童年））
+    [岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")、[凌晞](../Page/凌晞.md "wikilink")（童年））
 
 <!-- end list -->
 
@@ -246,9 +246,9 @@
   - 三和篤裕 -
     [阿南健治](https://zh.wikipedia.org/wiki/阿南健治 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 笹井英子 -
-    [安藤櫻](https://zh.wikipedia.org/wiki/安藤櫻 "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+    [安藤櫻](../Page/安藤櫻.md "wikilink")（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
   - 鈴原理子 -
-    [木村文乃](https://zh.wikipedia.org/wiki/木村文乃 "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
+    [木村文乃](../Page/木村文乃.md "wikilink")（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
   - 公原卓郎 -
     [平岡祐太](../Page/平岡祐太.md "wikilink")（第10集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
   - 橋田透 -
@@ -304,7 +304,7 @@
   - 川久保良太 -
     [渡部豪太](https://zh.wikipedia.org/wiki/渡部豪太 "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
   - 葉夏美 -
-    [福田彩乃](https://zh.wikipedia.org/wiki/福田彩乃 "wikilink")（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+    [福田彩乃](../Page/福田彩乃.md "wikilink")（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
   - 川久保庄司 -
     [岡山一](https://zh.wikipedia.org/wiki/岡山一 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 日村將人 -
@@ -344,7 +344,7 @@
   - 下川由美 -
     [竹富聖花](https://zh.wikipedia.org/wiki/竹富聖花 "wikilink")（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
   - 笹井純子 -
-    [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（香港配音：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")）
+    [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
   - 內田智子 -
     [渡邊舞](https://zh.wikipedia.org/wiki/渡邊舞 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
   - 時田次郎 -

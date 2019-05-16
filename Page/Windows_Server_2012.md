@@ -28,11 +28,11 @@ R2。于2013年6月3日发布预览版，2013年10月17日发布正式版。
 微软已表示Windows Server
 2012不支持[IA-32或](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[安腾处理器](../Page/安腾.md "wikilink")。\[3\]
 
-| 架构                                                       | [x86-64](../Page/x86-64.md "wikilink")      |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [处理器](https://zh.wikipedia.org/wiki/中央处理单元 "wikilink")   | 1.4GHz                                      |
-| [内存](../Page/随机存取存储器.md "wikilink")                      | 512MB                                       |
-| [硬盘可用空间](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink") | 32GB <small>（如使用16GB或更多的RAM，需要更多空間）</small> |
+| 架构                                                       | [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") |
+| -------------------------------------------------------- | --------------------------------------------------------- |
+| [处理器](https://zh.wikipedia.org/wiki/中央处理单元 "wikilink")   | 1.4GHz                                                    |
+| [内存](../Page/随机存取存储器.md "wikilink")                      | 512MB                                                     |
+| [硬盘可用空间](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink") | 32GB <small>（如使用16GB或更多的RAM，需要更多空間）</small>               |
 
 最低系统要求\[4\]
 
@@ -254,7 +254,7 @@ Datacenter</p></th>
 ## Windows Server 2012 R2
 
 Windows Server 2012 R2於2013年10月17日發行。\[11\]這是[Windows
-8.1的伺服器版本](https://zh.wikipedia.org/wiki/Windows_8.1 "wikilink")，在2013年6月3日的[TechEd北美公布](https://zh.wikipedia.org/wiki/TechEd "wikilink")。\[12\]据称Windows
+8.1的伺服器版本](../Page/Windows_8.1.md "wikilink")，在2013年6月3日的[TechEd北美公布](https://zh.wikipedia.org/wiki/TechEd "wikilink")。\[12\]据称Windows
 Server 2012
 R2数据表在2013年5月31日出版，有四个操作系统版本：Foundation、[Essentials](https://zh.wikipedia.org/wiki/Windows_Server_Essentials "wikilink")、Standard和Datacenter。\[13\]Windows
 Server 2012，Datacenter和Standard版功能相同，变化只有授权（特别是虚拟实例授权）

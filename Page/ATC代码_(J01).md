@@ -167,8 +167,7 @@
     [头孢匹林](https://zh.wikipedia.org/wiki/头孢匹林 "wikilink")（先锋霉素VIII）（Cefapirin）
     J01DB09
     [头孢拉定](https://zh.wikipedia.org/wiki/头孢拉定 "wikilink")（先锋霉素VI，头孢环己烯，环己烯胺头孢菌素）（Cefradine）
-    J01DB10
-    [头孢乙腈](https://zh.wikipedia.org/wiki/头孢乙腈 "wikilink")（氰甲头孢菌素，头孢赛曲）（Cefacetrile）
+    J01DB10 [头孢乙腈](../Page/头孢乙腈.md "wikilink")（氰甲头孢菌素，头孢赛曲）（Cefacetrile）
     J01DB11
     [头孢沙定](https://zh.wikipedia.org/wiki/头孢沙定 "wikilink")（Cefroxadine）
     J01DB12
@@ -201,7 +200,7 @@
     [头孢雷特](https://zh.wikipedia.org/wiki/头孢雷特 "wikilink")（Ceforanide）
     J01DC12
     J01DC13
-    J01DC14 [氟氧头孢](https://zh.wikipedia.org/wiki/氟氧头孢 "wikilink")
+    J01DC14 [氟氧头孢](../Page/氟氧头孢.md "wikilink")
 
 ### J01DD 第三代头孢菌素（Third-generation cephalosporins）
 
@@ -228,10 +227,9 @@
     [头孢哌酮](https://zh.wikipedia.org/wiki/头孢哌酮 "wikilink")（Cefoperazone）
     J01DD13
     [头孢泊肟](https://zh.wikipedia.org/wiki/头孢泊肟 "wikilink")（Cefpodoxime）
-    J01DD14 [头孢布烯](https://zh.wikipedia.org/wiki/头孢布烯 "wikilink")（头孢布坦,
-    先力腾, 头孢噻腾）（Ceftibuten）
-    J01DD15
-    [头孢地尼](https://zh.wikipedia.org/wiki/头孢地尼 "wikilink")（Cefdinir）
+    J01DD14 [头孢布烯](../Page/头孢布烯.md "wikilink")（头孢布坦, 先力腾,
+    头孢噻腾）（Ceftibuten）
+    J01DD15 [头孢地尼](../Page/头孢地尼.md "wikilink")（Cefdinir）
     J01DD16
     [头孢托仑](https://zh.wikipedia.org/wiki/头孢托仑 "wikilink")（Cefditoren）
     J01DD17 [头孢卡品](../Page/头孢卡品.md "wikilink")（Cefcapene）
@@ -685,10 +683,8 @@
     J01XX06 [扁桃酸](../Page/扁桃酸.md "wikilink")（Mandelic acid）
     J01XX07
     [硝羟喹啉](https://zh.wikipedia.org/wiki/硝羟喹啉 "wikilink")（Nitroxoline）
-    J01XX08
-    [利奈唑胺](https://zh.wikipedia.org/wiki/利奈唑胺 "wikilink")（Linezolid）
-    J01XX09
-    [达托霉素](https://zh.wikipedia.org/wiki/达托霉素 "wikilink")（Daptomycin）
+    J01XX08 [利奈唑胺](../Page/利奈唑胺.md "wikilink")（Linezolid）
+    J01XX09 [达托霉素](../Page/达托霉素.md "wikilink")（Daptomycin）
     J01XX10 [杆菌肽](../Page/杆菌肽.md "wikilink")（Bacitracin）
     QJ01XX55 乌洛托品，复方（Methenamine, combinations）
     QJ01XX93

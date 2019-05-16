@@ -1,5 +1,5 @@
 **YUKI**（），日本女歌手。原[JUDY AND
-MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")。[血型為A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。本名**倉持有希**，舊姓**磯谷**。90年代初，YUKI在乐队解散后作为个人歌手出道，并以J-POP的音乐风格继续着音乐事业。她在对音乐有浓厚兴趣的日本女性之间被认为是神奇的存在。同时她也是对GIRLPOP风格的确立作出了贡献的一位歌手。
+MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")。[血型為A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。本名**倉持有希**，舊姓**磯谷**。90年代初，YUKI在乐队解散后作为个人歌手出道，并以J-POP的音乐风格继续着音乐事业。她在对音乐有浓厚兴趣的日本女性之间被认为是神奇的存在。同时她也是对GIRLPOP风格的确立作出了贡献的一位歌手。
 
 ## 簡歷
 
@@ -8,8 +8,7 @@ MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[
 <!-- end list -->
 
   - 1991年6月，於[函館市拍攝](../Page/函館市.md "wikilink")[いつかギラギラする日時認識](https://zh.wikipedia.org/wiki/いつかギラギラする日 "wikilink")[恩田快人](https://zh.wikipedia.org/wiki/恩田快人 "wikilink")。1992年2月與他組成了搖滾組合[JUDY
-    AND
-    MARY並擔任主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")\[1\]。
+    AND MARY並擔任主唱](../Page/JUDY_AND_MARY.md "wikilink")\[1\]。
 
 <!-- end list -->
 
@@ -77,9 +76,8 @@ MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[
 
 <!-- end list -->
 
-  - 2013年6月19日，YUKI在其官方網站發表她踏入個人歌手生涯第十一個年頭的第一支新曲《[STARMANN](https://zh.wikipedia.org/wiki/STARMANN "wikilink")》。此曲同時被用作日本富士電視台和關西電視台電視劇《[STAR
-    MAN
-    這顆星上的戀愛](https://zh.wikipedia.org/wiki/STAR_MAN_這顆星上的戀愛 "wikilink")》（主演：廣末涼子
+  - 2013年6月19日，YUKI在其官方網站發表她踏入個人歌手生涯第十一個年頭的第一支新曲《[STARMANN](../Page/STARMANN.md "wikilink")》。此曲同時被用作日本富士電視台和關西電視台電視劇《[STAR
+    MAN 這顆星上的戀愛](../Page/STAR_MAN_這顆星上的戀愛.md "wikilink")》（主演：廣末涼子
     監督：堤幸彦）主題曲。
 
 ## 人物简介
@@ -157,7 +155,7 @@ MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[
     MARY的的朋克搖滾風格，其後發表第二首抒情歌曲「プリズム」奠定了她多樣化的個人音樂風格。這兩首樂曲同時被收錄於她的首張音樂專輯「PRISMIC」中。這張專輯中的大部份歌曲由[日暮愛葉編曲](https://zh.wikipedia.org/wiki/日暮愛葉 "wikilink")，另外[The
     Zoobombs樂團的Don](https://zh.wikipedia.org/wiki/The_Zoobombs "wikilink")
     Matsuo（『Rainbow
-    st.』）、[Clammbon樂團的Mito](https://zh.wikipedia.org/wiki/Clammbon "wikilink")（『惑星に乗れ』）和[Spitz樂團](../Page/Spitz.md "wikilink")（『愛に生きて』）等亦有參與專輯的音樂創作和演奏。
+    st.』）、[Clammbon樂團的Mito](https://zh.wikipedia.org/wiki/Clammbon "wikilink")（『惑星に乗れ』）和[Spitz樂團](https://zh.wikipedia.org/wiki/Spitz "wikilink")（『愛に生きて』）等亦有參與專輯的音樂創作和演奏。
 
 <!-- end list -->
 
@@ -234,7 +232,7 @@ MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[
   - 『[NiNa](https://zh.wikipedia.org/wiki/NiNa "wikilink")』－1999年與[The
     B-52's樂團的主唱Kate](https://zh.wikipedia.org/wiki/B-52's "wikilink")
     Pierson成組了NiNa樂團，興Kate Pierson共同擔任主唱。樂團結他手為[JUDY AND
-    MARY樂團中的](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")[佐久間正英和](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")[島武實](https://zh.wikipedia.org/wiki/島武實 "wikilink")，低音結他手則為「Japan（日本樂團）」樂團的Mick
+    MARY樂團中的](../Page/JUDY_AND_MARY.md "wikilink")[佐久間正英和](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")[島武實](https://zh.wikipedia.org/wiki/島武實 "wikilink")，低音結他手則為「Japan（日本樂團）」樂團的Mick
     Karn。NiNa樂團活躍期間共發表了兩首單曲和一張音樂專輯。
 
 <!-- end list -->
@@ -252,8 +250,7 @@ MARY主唱](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")。出身於[
 
 <!-- end list -->
 
-  - [JUDY AND
-    MARY](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")
+  - [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")
 
 ## All Night-NIPPON
 
@@ -471,7 +468,7 @@ ESCL-3955（通常盤）</p></td>
 <tr class="even">
 <td><p>26th</p></td>
 <td><p>2013年8月21日[10]</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/STARMANN" title="wikilink">STARMANN</a></strong></p></td>
+<td><p><strong><a href="../Page/STARMANN.md" title="wikilink">STARMANN</a></strong></p></td>
 <td><p>ESCL-4092～4093（初回限定盤）<br />
 ESCL-4094（通常盤）</p></td>
 <td><p>16位</p></td>
@@ -706,8 +703,7 @@ YUKI TOUR “joy”
     福岡・[福岡サンパレス](https://zh.wikipedia.org/wiki/福岡サンパレス "wikilink")
   - 2005.04.12
     宮城・[仙台サンプラザホール](https://zh.wikipedia.org/wiki/仙台サンプラザホール "wikilink")
-  - 2005.04.16
-    愛知・[名古屋國際會議場](https://zh.wikipedia.org/wiki/名古屋國際會議場 "wikilink")・センチュリーホール
+  - 2005.04.16 愛知・[名古屋國際會議場](../Page/名古屋國際會議場.md "wikilink")・センチュリーホール
   - 2005.04.20
     北海道・[北海道厚生年金會館](https://zh.wikipedia.org/wiki/さっぽろ芸術文化の館 "wikilink")
   - 2005.05.07
@@ -770,8 +766,7 @@ YUKI concert New Rhythm Tour 2008
   - 2008.04.28
     北海道・[北海道厚生年金會館](https://zh.wikipedia.org/wiki/北海道厚生年金會館 "wikilink")
   - 2008.05.12 廣島・廣島厚生年金會館
-  - 2008.05.18
-    愛知・[名古屋國際會議場](https://zh.wikipedia.org/wiki/名古屋國際會議場 "wikilink")
+  - 2008.05.18 愛知・[名古屋國際會議場](../Page/名古屋國際會議場.md "wikilink")
   - 2008.05.20 福岡・福岡サンパレス
   - 2008.05.25 宮城・仙台サンプラザホール
   - 2008.05.29 東京・日本武道館

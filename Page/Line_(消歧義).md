@@ -63,8 +63,7 @@
 
 ## 竞技运动
 
-  - [鱼线](https://zh.wikipedia.org/wiki/鱼线 "wikilink")（fishing
-    line），制作或用来垂钓的绳线。
+  - [鱼线](../Page/鱼线.md "wikilink")（fishing line），制作或用来垂钓的绳线。
 
 ## 交通運輸
 
@@ -120,10 +119,9 @@
   -   - 《[The
         Line-Up](../Page/The_Line-Up.md "wikilink")》，香港歌手陳奕迅的粵語音樂專輯，2002年發行。
       - 《[Purple
-        Line](https://zh.wikipedia.org/wiki/Purple_Line "wikilink")》，韩国男子团体東方神起在日本的第16张单曲，2008年发行。
+        Line](../Page/Purple_Line.md "wikilink")》，韩国男子团体東方神起在日本的第16张单曲，2008年发行。
       - 《[it's happy line／I
         know](https://zh.wikipedia.org/wiki/it's_happy_line／I_know "wikilink")》，日本歌手YUI2004年在日本九州地區限量發售的單曲。
       - 《[Everyday sunshine
         line\!](../Page/Everyday_sunshine_line!.md "wikilink")》，日本歌手麻生夏子的第4張單曲，2010年發行。
-      - 《[Punch
-        Line](https://zh.wikipedia.org/wiki/Punch_Line "wikilink")》，2015年的日本电视动画作品。
+      - 《[Punch Line](../Page/Punch_Line.md "wikilink")》，2015年的日本电视动画作品。

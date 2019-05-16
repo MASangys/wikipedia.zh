@@ -43,7 +43,8 @@ Angel)，在HALL公演上的「[ながい愛](https://zh.wikipedia.org/wiki/Brot
       -
         由「SHOWCASE SAPPORO DEVIL」(Zepp
         Sapporo)的現場景象揭開序幕，在大喊了「B'z的SHOWCASE歡迎光臨！{{\#tag:ref||group="原文"}}」後，前奏中亦有剪入慣例的「B'z的LIVE-GYM歡迎光臨！{{\#tag:ref||group="原文"}}」。樂曲途中是由大分、静岡、廣島公演的影像剪輯而成。在吉他獨奏後，會切換到彩排風景。
-4.  **[love me, I love you](../Page/love_me,_I_love_you.md "wikilink")**
+4.  **[love me, I love
+    you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")**
       -
         去掉了在第2句[和聲以後的部分](../Page/和聲歌手.md "wikilink")。
 5.  **[Warp](https://zh.wikipedia.org/wiki/GREEN_\(B'z專輯\)#收錄曲 "wikilink")**
@@ -58,7 +59,7 @@ Angel)，在HALL公演上的「[ながい愛](https://zh.wikipedia.org/wiki/Brot
 7.  **[Blue
     Sunshine](https://zh.wikipedia.org/wiki/GREEN_\(B'z專輯\)#收錄曲 "wikilink")**
       -
-        稻葉用[原聲吉他自彈自唱](https://zh.wikipedia.org/wiki/原聲吉他 "wikilink")。由靜岡公演的彩排音源揭開序幕，切換到本篇的現場演奏。
+        稻葉用[原聲吉他自彈自唱](../Page/原聲吉他.md "wikilink")。由靜岡公演的彩排音源揭開序幕，切換到本篇的現場演奏。
 8.  **[恋歌](https://zh.wikipedia.org/wiki/華_\(松本孝弘專輯\)#收錄曲 "wikilink")**
       -
         松本的吉他獨奏（[器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")）。在電視牆上播放了[PV](https://zh.wikipedia.org/wiki/PV "wikilink")，舞台後方登場了巨大的組裝龍。
@@ -86,14 +87,15 @@ Angel)，在HALL公演上的「[ながい愛](https://zh.wikipedia.org/wiki/Brot
 16. **[ギリギリchop](https://zh.wikipedia.org/wiki/ギリギリchop "wikilink")**
       -
         前奏由Billy的貝斯獨奏揭開序幕。
-17. **[ultra soul](../Page/ultra_soul.md "wikilink")**
+17. **[ultra
+    soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")**
       -
         自本巡演開始，成為了在本曲結尾有慣例的3連跳。
 18. **[熱き鼓動の果て](https://zh.wikipedia.org/wiki/熱き鼓動の果て "wikilink")**
       -
         從此處開始安可。在演奏前有關於專輯『[GREEN](../Page/GREEN_\(B'z專輯\).md "wikilink")』標題的[MC](../Page/司儀.md "wikilink")。自第2句[和聲起](../Page/和聲歌手.md "wikilink")，在舞台後方登場了抽中「Magic
         DE On Stage」（）特獎的粉絲們。
-19. **[juice](../Page/juice.md "wikilink")**
+19. **[juice](https://zh.wikipedia.org/wiki/juice "wikilink")**
       -
         與最終日的9月9日大阪巨蛋公演影像同步。在前奏與間奏中，稻葉和觀眾一同吹響巡演周邊商品的[哨子](https://zh.wikipedia.org/wiki/哨子_\(器物\) "wikilink")。在間奏的（Call
         and Response）的間隙中，有松本與Billy的輪流演奏。

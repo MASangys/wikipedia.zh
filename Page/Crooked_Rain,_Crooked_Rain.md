@@ -12,7 +12,7 @@
 ## 媒体评价
 
 在美国从榜单排名来说此专辑并不是那么成功，但美国的音乐杂志亦盛赞其为优秀的[另类摇滚专辑](../Page/另类摇滚.md "wikilink")。专辑在[Pitchfork
-Media](https://zh.wikipedia.org/wiki/Pitchfork_Media "wikilink")2003年所作的“90年代百张最佳专辑”榜单中名列第8\[1\]，在[滚石杂志的](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")“[史上500张最佳专辑](../Page/滾石雜誌五百大專輯.md "wikilink")”则列于第210位，同时名列90年代最佳专辑的第10位\[2\]，而[单曲](../Page/单曲.md "wikilink")更在Pitchfork
+Media](../Page/Pitchfork_Media.md "wikilink")2003年所作的“90年代百张最佳专辑”榜单中名列第8\[1\]，在[滚石杂志的](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")“[史上500张最佳专辑](../Page/滾石雜誌五百大專輯.md "wikilink")”则列于第210位，同时名列90年代最佳专辑的第10位\[2\]，而[单曲](../Page/单曲.md "wikilink")更在Pitchfork
 Media于2010年评选出的“90年代200首最佳歌曲”榜单中拔得头筹。
 
 ## 曲目一览

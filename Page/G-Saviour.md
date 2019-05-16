@@ -25,7 +25,7 @@
 ### SIDE GAIA
 
   - シンシア・グレーブス（Cynthia Graves）
-    扮演者：[エヌーカ・ヴァネッサ・オークマ](https://zh.wikipedia.org/wiki/エヌーカ・ヴァネッサ・オークマ "wikilink")，配音演员：[山本未來](https://zh.wikipedia.org/wiki/山本未來 "wikilink")／[篠原涼子](../Page/篠原涼子.md "wikilink")／[高山みなみ](https://zh.wikipedia.org/wiki/高山みなみ "wikilink")（サウンドシネマ版）
+    扮演者：[エヌーカ・ヴァネッサ・オークマ](https://zh.wikipedia.org/wiki/エヌーカ・ヴァネッサ・オークマ "wikilink")，配音演员：[山本未來](../Page/山本未來.md "wikilink")／[篠原涼子](../Page/篠原涼子.md "wikilink")／[高山みなみ](https://zh.wikipedia.org/wiki/高山みなみ "wikilink")（サウンドシネマ版）
     SIDE GAIA主攻生物工学的助理教授。黒人女性。
   - グレーブス委員長
     扮演者：Blu

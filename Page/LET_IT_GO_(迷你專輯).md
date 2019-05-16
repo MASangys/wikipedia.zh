@@ -2,7 +2,7 @@
 Dance組合[SS501主唱](../Page/SS501.md "wikilink")[許永生的個人首張迷你專輯](../Page/許永生.md "wikilink")。音源於5月12日通過各音樂網站公開。
 
 主打歌《LET IT GO》CD
-featuring為[4minute的](../Page/4minute.md "wikilink")[泫雅](../Page/金泫雅.md "wikilink")，現場featuring為同門師妹[SPICA中的成員](../Page/SPICA_\(組合\).md "wikilink")[是炫](https://zh.wikipedia.org/wiki/朴是炫 "wikilink")，以男人漠不關心的態度和女人渴望被愛的兩種男女不同的角度，唱出男女對愛情的差異。\[1\]
+featuring為[4minute的](../Page/4minute.md "wikilink")[泫雅](../Page/金泫雅.md "wikilink")，現場featuring為同門師妹[SPICA中的成員](../Page/SPICA_\(組合\).md "wikilink")[是炫](../Page/朴是炫.md "wikilink")，以男人漠不關心的態度和女人渴望被愛的兩種男女不同的角度，唱出男女對愛情的差異。\[1\]
 
 [SS501的成員同時也為同門的](../Page/SS501.md "wikilink")[金奎鐘](../Page/金奎鐘.md "wikilink")，為歌曲《RAINY
 HEART》擔任Rap。此外[許永生亦擔任](../Page/許永生.md "wikilink")《RAINY HEART》與《I'M

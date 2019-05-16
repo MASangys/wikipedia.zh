@@ -8,7 +8,7 @@ latest_preview_date = 2012年3月26日 | programming language = C |
 operating_system =
 [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink"), [Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")(通过[cygwin](../Page/cygwin.md "wikilink"))
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")(通过[cygwin](https://zh.wikipedia.org/wiki/cygwin "wikilink"))
 | platform = 32位/64位 | language =
 [英文](https://zh.wikipedia.org/wiki/英文 "wikilink") | status = 运行中
 | genre = [计算流体力学](../Page/计算流体力学.md "wikilink") | license =
@@ -38,7 +38,8 @@ Atmospheric research) 和 Institut Jean le Rond d'Alembert 进行维护. "Gerris
 而一般的[可视化软件没法处理这种结构](../Page/可视化_\(计算机图形学\).md "wikilink"), 故作者自己开发了
 GfsView 来实现这一功能.
 
-虽说是跨平台软件, 但在Windows平台需要使用[cygwin进行编译](../Page/cygwin.md "wikilink").
+虽说是跨平台软件,
+但在Windows平台需要使用[cygwin进行编译](https://zh.wikipedia.org/wiki/cygwin "wikilink").
 
 ## 主要功能
 

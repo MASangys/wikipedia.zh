@@ -11,7 +11,7 @@ OF
 ROCK"」為止，未曾收錄於已發售映像作品中的30首LIVE-GYM演唱曲目。DVD中將不同時間、場所的歌曲編輯起來，也加入了[LIVE-GYM慣例的打招呼和談話等場面](https://zh.wikipedia.org/wiki/B'z#巡迴演唱會 "wikilink")，將全部作品整合成一整場LIVE-GYM似的演唱會，呈現到觀眾面前。
 
 Disc 3則以「+α」為名，收錄了稻葉·松本各自的Solo歌曲及有Secret
-Live之稱的「SHOWCASE\[1\]」裡所唱的歌曲。其中還收錄了自2001年的SHOWCASE中披露以來從未被音源化，只在海外公演裡演唱過的未發表歌曲「**Logic**」。這是此曲首次被收錄於B'z的正式作品中\[2\]。另外本碟中的3首「[juice](../Page/juice.md "wikilink")」是使用了三台攝錄機以多角度拍攝方式來錄製的。不僅是樂曲演唱的映像，本碟還收錄了「B'z
+Live之稱的「SHOWCASE\[1\]」裡所唱的歌曲。其中還收錄了自2001年的SHOWCASE中披露以來從未被音源化，只在海外公演裡演唱過的未發表歌曲「**Logic**」。這是此曲首次被收錄於B'z的正式作品中\[2\]。另外本碟中的3首「[juice](https://zh.wikipedia.org/wiki/juice "wikilink")」是使用了三台攝錄機以多角度拍攝方式來錄製的。不僅是樂曲演唱的映像，本碟還收錄了「B'z
 LIVE-GYM '96 "Spirit LOOSE"」的Opening裡使用的短片電影。
 
 本作品中在LIVE映像之間收錄了以「不正當交易搜查資料」為題，「監視B'z的LIVE映像的海外黑市交易」為主旨的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。動畫的製作由「[神風動畫](../Page/神風動畫.md "wikilink")」擔任，而且對白不是日文，而是中文。另外在附屬的Booklet裡，除了收錄歌曲（除去松本的Solo和Logic）的歌詞之外，還登載了製作《Ultra
@@ -119,7 +119,8 @@ Bootleg Hidden Treasure ～Typhoon No.20～**》。
     DRIVER〜](https://zh.wikipedia.org/wiki/RISKY_\(專輯\) "wikilink")
     （）**
       - B'z LIVE-GYM Pleasure '97 "FIREBALL"
-5.  **[Swimmer啊2001\!\!](../Page/ultra_soul.md "wikilink") （）**
+5.  **[Swimmer啊2001\!\!](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
+    （）**
       - B'z LIVE-GYM 2001 "ELEVEN"
 6.  **[看不見的力量 ～INVISIBLE
     ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")
@@ -129,13 +130,14 @@ Bootleg Hidden Treasure ～Typhoon No.20～**》。
       - B'z LIVE-GYM '93 "RUN"
 8.  **[Liar\! Liar\!](../Page/Liar!_Liar!.md "wikilink")**
       - B'z LIVE-GYM '98 "SURVIVE"
-9.  **[juice](../Page/juice.md "wikilink")**
+9.  **[juice](https://zh.wikipedia.org/wiki/juice "wikilink")**
       - B'z LIVE-GYM 2005 "CIRCLE OF ROCK"
 10. **[彷徨的青色子彈](../Page/彷徨的青色子彈.md "wikilink") （）**
       - B'z LIVE-GYM '98 "SURVIVE"
 11. **[狂亂](../Page/BIG_MACHINE.md "wikilink") （）**
       - B'z LIVE-GYM 2003 "BIG MACHINE"
-12. **[ultra soul](../Page/ultra_soul.md "wikilink")**
+12. **[ultra
+    soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")**
       - B'z LIVE-GYM 2005 "CIRCLE OF ROCK"
 13. **[所以請放開那隻手](../Page/所以請放開那隻手.md "wikilink") （）**
       - B'z LIVE-GYM '99 "Brotherhood -Extra-"

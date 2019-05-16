@@ -2,13 +2,13 @@
 
 ## 简介
 
-DK3型由[长春轨道客车在](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")1971年生产，共50辆，每节车厢共3对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端设有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。初期为2编组营运，后改为4编组。主要在[一期工程和后来的](https://zh.wikipedia.org/wiki/北京地铁一期工程 "wikilink")[1号线运营](../Page/北京地铁1号线.md "wikilink")（编号G101-G107），也一度在[13号线](../Page/北京地铁13号线.md "wikilink")（编号H101-H114）和[八通线](https://zh.wikipedia.org/wiki/八通线 "wikilink")（编号TQ101-TQ114）运营过。另外部分列车还支援过[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")（编号104-106）。
+DK3型由[长春轨道客车在](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")1971年生产，共50辆，每节车厢共3对车门，为[内藏门](https://zh.wikipedia.org/wiki/内藏门 "wikilink")，列车两端设有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")。初期为2编组营运，后改为4编组。主要在[一期工程和后来的](../Page/北京地铁一期工程.md "wikilink")[1号线运营](../Page/北京地铁1号线.md "wikilink")（编号G101-G107），也一度在[13号线](../Page/北京地铁13号线.md "wikilink")（编号H101-H114）和[八通线](https://zh.wikipedia.org/wiki/八通线 "wikilink")（编号TQ101-TQ114）运营过。另外部分列车还支援过[天津轨道交通](https://zh.wikipedia.org/wiki/天津轨道交通 "wikilink")（编号104-106）。
 
 ## 编组
 
 ### 北京地铁版本
 
-在[北京地铁一期工程](https://zh.wikipedia.org/wiki/北京地铁一期工程 "wikilink")、[1号线时期](../Page/北京地铁1号线.md "wikilink")：
+在[北京地铁一期工程](../Page/北京地铁一期工程.md "wikilink")、[1号线时期](../Page/北京地铁1号线.md "wikilink")：
 
 ### 2编组时期
 

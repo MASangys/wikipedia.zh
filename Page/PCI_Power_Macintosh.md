@@ -19,8 +19,8 @@ Macintosh G3所取代](../Page/Power_Macintosh_G3.md "wikilink")。
 
 處理器時脈速度：200（或dual 200/233/300/350 MHz）
 
-[系統匯流排速度](https://zh.wikipedia.org/wiki/系統匯流排 "wikilink")：50
-MHz　快取記憶體：64 KB L1，512 KB L2（或1 MB）
+[系統匯流排速度](../Page/系統匯流排.md "wikilink")：50 MHz　快取記憶體：64 KB L1，512 KB
+L2（或1 MB）
 
 內建儲存裝置：3.5英寸硬碟（容量：4GB，SCSI-2介面，傳輸速度10MB/sec）
 

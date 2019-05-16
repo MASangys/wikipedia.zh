@@ -82,7 +82,7 @@ Update推出的[港鐵車資優惠計算器](http://checkfare.swiftzer.net/check
   - 常設優惠：
       - [屯門](../Page/屯門站_\(西鐵綫\).md "wikilink")－[南昌全日通](../Page/南昌站_\(香港\).md "wikilink")
       - 全月通「加強版」
-      - [港鐵都會票](https://zh.wikipedia.org/wiki/港鐵都會票 "wikilink")
+      - [港鐵都會票](../Page/港鐵都會票.md "wikilink")
       - 早晨優惠試驗計劃
       - 同日隔程九折
       - [羅湖](https://zh.wikipedia.org/wiki/羅湖站 "wikilink")／[落馬洲特惠計劃](../Page/落馬洲站.md "wikilink")

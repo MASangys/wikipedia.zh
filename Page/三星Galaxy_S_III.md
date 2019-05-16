@@ -33,7 +33,7 @@ Samsung Galaxy III [3G](../Page/3G.md "wikilink")
 
 Galaxy S
 III的頭號對手是[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")
-[iPhone 4S](../Page/iPhone_4S.md "wikilink")、[HTC One
+[iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")、[HTC One
 X](../Page/HTC_One_X.md "wikilink")、[Sony Xperia
 S](../Page/Sony_Xperia_S.md "wikilink")。而Galaxy S
 III的全球銷量接近5,000萬台，讓其成為Samsung史上最暢銷的手機之一。
@@ -42,7 +42,7 @@ III的全球銷量接近5,000萬台，讓其成為Samsung史上最暢銷的手�
 
   - S
     Voice：[語音辨識控制系統](https://zh.wikipedia.org/wiki/語音辨識 "wikilink")，支援7種語言，包括[美式英文](https://zh.wikipedia.org/wiki/美式英文 "wikilink")、[英式英文](https://zh.wikipedia.org/wiki/英式英文 "wikilink")、[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")、[意大利文及](https://zh.wikipedia.org/wiki/意大利文 "wikilink")[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")，然而升級後才支援[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")。\[12\]（近似[iPhone
-    4S之](../Page/iPhone_4S.md "wikilink")[Siri功能](../Page/Siri.md "wikilink")。）
+    4S之](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[Siri功能](../Page/Siri.md "wikilink")。）
   - S Beam：使用[NFC近場通訊或](https://zh.wikipedia.org/wiki/NFC "wikilink")
     [WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink") Direct
     分享[檔案](../Page/檔案.md "wikilink")，將檔案無線傳送予另一部Galaxy S III。

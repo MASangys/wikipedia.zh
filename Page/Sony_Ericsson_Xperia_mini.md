@@ -14,7 +14,7 @@ Xperia mini 與 Xperia mini pro 採用 3
 [單核](https://zh.wikipedia.org/wiki/單核 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，500萬像素後置[鏡頭](../Page/鏡頭.md "wikilink")，內置512
 MB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")。設有 [micro
 USB](https://zh.wikipedia.org/wiki/micro_USB "wikilink")
-連接埠、[microSD](../Page/microSD.md "wikilink")
+連接埠、[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")
 卡插槽。手機機身有4種顏色選擇，包括黑、白、粉紅及藍綠色。\[2\]
 
 ## 作業系統

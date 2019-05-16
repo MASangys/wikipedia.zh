@@ -10,7 +10,7 @@ Inc.）则为命名权支付了300万[美元的费用](../Page/美元.md "wikili
 
 [Tented_cloud_gate.jpg](https://zh.wikipedia.org/wiki/File:Tented_cloud_gate.jpg "fig:Tented_cloud_gate.jpg")
 
-位于[密西根湖东部和河床西边的](https://zh.wikipedia.org/wiki/密西根湖 "wikilink")[格兰特公园从](https://zh.wikipedia.org/wiki/格兰特公园 "wikilink")19世纪中旬开始就一直是芝加哥的主要公园。在它[西北方的伊利诺伊中央铁路公司铁路站场和停车场](https://zh.wikipedia.org/wiki/西北方 "wikilink")\[5\]於1997年被芝加哥选为千禧公园的地址\[6\]。这公园于2007年成为芝加哥的第二大景点，並排在[海军码头后面](https://zh.wikipedia.org/wiki/海军码头 "wikilink")\[7\]。
+位于[密西根湖东部和河床西边的](https://zh.wikipedia.org/wiki/密西根湖 "wikilink")[格兰特公园从](https://zh.wikipedia.org/wiki/格兰特公园 "wikilink")19世纪中旬开始就一直是芝加哥的主要公园。在它[西北方的伊利诺伊中央铁路公司铁路站场和停车场](https://zh.wikipedia.org/wiki/西北方 "wikilink")\[5\]於1997年被芝加哥选为千禧公园的地址\[6\]。这公园于2007年成为芝加哥的第二大景点，並排在[海军码头后面](../Page/海军码头.md "wikilink")\[7\]。
 
 这广场位于[公园餐厅](https://zh.wikipedia.org/wiki/公园餐厅 "wikilink")（Park
 Grill）和麥考密克中心论坛广场和溜冰场之上，溜冰场的后方，[大通長廊](https://zh.wikipedia.org/wiki/大通長廊 "wikilink")（Chase

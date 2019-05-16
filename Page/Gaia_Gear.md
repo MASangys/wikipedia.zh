@@ -3,7 +3,7 @@ GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说
 
 ## 概要
 
-故事是在[宇宙世紀](../Page/宇宙世紀.md "wikilink")203年發生，一個反地球聯邦組織，培育了[夏亞的複制人並擁有其記憶](https://zh.wikipedia.org/wiki/夏亞 "wikilink")。因為本編和[G-SAVIOUR有衝突](../Page/G-SAVIOUR.md "wikilink")，所以並未被SUNRISE肯定其地位。
+故事是在[宇宙世紀](../Page/宇宙世紀.md "wikilink")203年發生，一個反地球聯邦組織，培育了[夏亞的複制人並擁有其記憶](https://zh.wikipedia.org/wiki/夏亞 "wikilink")。因為本編和[G-SAVIOUR有衝突](https://zh.wikipedia.org/wiki/G-SAVIOUR "wikilink")，所以並未被SUNRISE肯定其地位。
 
 ## 作品解说
 
@@ -57,7 +57,7 @@ GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说
   - 音楽：[川崎真弘](https://zh.wikipedia.org/wiki/川崎真弘 "wikilink")
   - 音響制作：[セントラルミュージック](https://zh.wikipedia.org/wiki/セントラルミュージック "wikilink")
   - 制作：文化放送
-  - 製作：[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")
+  - 製作：[萬代影視](../Page/萬代影視.md "wikilink")
   - 旁白：[大竹まこと](https://zh.wikipedia.org/wiki/大竹まこと "wikilink")、[田中秀幸](https://zh.wikipedia.org/wiki/田中秀幸_\(声優\) "wikilink")
 
 ## 主题曲

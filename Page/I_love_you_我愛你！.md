@@ -1,6 +1,6 @@
 《**I love you
 我愛你！**》（）是日本女子組合[SKE48的第](../Page/SKE48.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月16日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 歌名「」是將「（意思是「我愛你」，Aishiteru）」和「（I love you，Ai rabu yū）」合起來的詞語。
 
@@ -61,7 +61,7 @@ E的4人（酒井萌衣、高木由麻奈、竹内舞和都築里佳）以及研
 <li>Team S：<a href="../Page/出口陽.md" title="wikilink">出口陽</a></li>
 <li>Team KII：石田安奈、<a href="../Page/佐藤實繪子.md" title="wikilink">佐藤實繪子</a>、古川愛李和<a href="../Page/若林倫香.md" title="wikilink">若林倫香</a></li>
 <li>Team E：<a href="../Page/原望奈美.md" title="wikilink">原望奈美和山下ゆかり</a></li>
-<li>研究生：<a href="https://zh.wikipedia.org/wiki/古畑奈和" title="wikilink">古畑奈和</a></li>
+<li>研究生：<a href="../Page/古畑奈和.md" title="wikilink">古畑奈和</a></li>
 </ul></td>
 <td><p>這首歌由<strong>「Selection 8」</strong>（）演唱。中心位为佐藤實繪子。跟以往的Selection 8不同，只有石田安奈繼前作繼續參加。另外，成員中除了若林倫香外，全部都有參與A面曲或其他B面曲，即參與了兩首歌曲。</p></td>
 <td><p>[10]</p></td>

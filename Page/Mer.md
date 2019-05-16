@@ -3,12 +3,12 @@
 Mer是一個[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，最早是被用來替代使用於[諾基亞N](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")800及N810平板電腦上的[Maemo作業系統](../Page/Maemo.md "wikilink")。它特別強調[Ubuntu版本的特色](../Page/Ubuntu.md "wikilink")，並將Ubuntu上的許多功能移植到Maemo
 5上。2011年，當[MeeGo計畫被中止後](../Page/MeeGo.md "wikilink")，Mer被當成是MeeGo的另一個分支而繼續被發展。
 
-Mer支援英特爾[x86以及](../Page/x86.md "wikilink")[ARM平台](https://zh.wikipedia.org/wiki/ARM "wikilink")，現在正在增加對[MIPS平台的支援](https://zh.wikipedia.org/wiki/MIPS "wikilink")。
+Mer支援英特爾[x86以及](https://zh.wikipedia.org/wiki/x86 "wikilink")[ARM平台](https://zh.wikipedia.org/wiki/ARM "wikilink")，現在正在增加對[MIPS平台的支援](https://zh.wikipedia.org/wiki/MIPS "wikilink")。
 
 ## 分支
 
 Nokia的MeeGo研發團隊，在Nokia放棄MeeGo計劃並裁員後，自行建立新的公司[Jolla](../Page/Jolla.md "wikilink")。他們在Mer專案中，分支出[Sailfish
-OS](https://zh.wikipedia.org/wiki/Sailfish_OS "wikilink")，作為他們公司的產品。
+OS](../Page/Sailfish_OS.md "wikilink")，作為他們公司的產品。
 
 ## 外部連結
 

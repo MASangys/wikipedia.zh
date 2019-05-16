@@ -65,7 +65,7 @@ Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https:
 
 -----
 
-マハ・ゲイジス的艦長，是个关心下属的优秀上司。在最終决战中マハ・ゲイジス被击沉而一同战死。（配音：[谷口節](https://zh.wikipedia.org/wiki/谷口節 "wikilink")）
+マハ・ゲイジス的艦長，是个关心下属的优秀上司。在最終决战中マハ・ゲイジス被击沉而一同战死。（配音：[谷口節](../Page/谷口節.md "wikilink")）
 
 [返回至目录](https://zh.wikipedia.org/wiki/#toc "wikilink")
 

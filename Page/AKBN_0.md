@@ -1,5 +1,5 @@
 **AKBN
-0**是2010年5月在[東京都](../Page/東京都.md "wikilink")[北区](https://zh.wikipedia.org/wiki/北区_\(東京都\) "wikilink")**[赤羽](https://zh.wikipedia.org/wiki/赤羽 "wikilink")**發起的[偶像項目](https://zh.wikipedia.org/wiki/偶像 "wikilink")，於是成立的女子偶像團體。
+0**是2010年5月在[東京都](../Page/東京都.md "wikilink")[北区](https://zh.wikipedia.org/wiki/北区_\(東京都\) "wikilink")**[赤羽](../Page/赤羽.md "wikilink")**發起的[偶像項目](https://zh.wikipedia.org/wiki/偶像 "wikilink")，於是成立的女子偶像團體。
 通称：**N0**（エヌゼロ）。經紀公司是株式会社カンドウ。『AKB48的非官方對手』與本家[AKB48是無閣係](../Page/AKB48.md "wikilink")\[1\]。
 
 ## 概要
@@ -231,7 +231,7 @@
 <td><p><a href="../Page/久喜市.md" title="wikilink">久喜市的</a><a href="../Page/秋元才加.md" title="wikilink">秋元才加</a></p></td>
 <td><p><a href="http://ameblo.jp/akbn0/entry-10871656242.html">2011年5月21日引退</a><br />
 前Northern Angels成員(井上星羅名義)<br />
-弟弟是<a href="https://zh.wikipedia.org/wiki/小傑尼斯" title="wikilink">小傑尼斯的井上弥紗瑠</a></p></td>
+弟弟是<a href="../Page/小傑尼斯.md" title="wikilink">小傑尼斯的井上弥紗瑠</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

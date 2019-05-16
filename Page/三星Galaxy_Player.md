@@ -1,6 +1,6 @@
 **Samsung Galaxy Player**（或稱Samsung Galaxy S
 WiFi）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子在](../Page/三星電子.md "wikilink")2010年推出的智慧型手持裝置。其功能與市場類型同於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[蘋果電腦之產品](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPod
-touch](../Page/iPod_touch.md "wikilink")。\[1\]
+touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。\[1\]
 
 ## 概要
 

@@ -4,7 +4,8 @@ Phone作業系統的](../Page/Windows_Phone.md "wikilink")[智能手機](https:/
 
 ## 硬件
 
-Lumia 800的外型與先前發表，採用[Meego作業系統的前旗艦機種Nokia](../Page/Meego.md "wikilink")
+Lumia
+800的外型與先前發表，採用[Meego作業系統的前旗艦機種Nokia](https://zh.wikipedia.org/wiki/Meego "wikilink")
 N9相同，同樣採用[聚碳酸酯機身](../Page/聚碳酸酯.md "wikilink")，曲面Gorilla Glass AMOLED顯示屏。
 
 Lumia 800使用 Qualcomm MSM 8255 1.4GHz (單核心)、512MB RAM、16GB內置儲存、3.7 吋 480

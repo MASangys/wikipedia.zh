@@ -1,0 +1,48 @@
+__NOTOC__ __NOEDITSECTION__
+
+<table style="width:10%;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 4%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><div style="margin:3px 0; margin-top:0.5em; margin-bottom:0.5em; padding:0.5em; background-color:; color:#007BBB; text-align:center; font-size:250%; -moz-border-radius: 6px;">
+<p><font face="微軟正黑體"><strong>維 基 百 科 基 隆 主 題 頁</strong></font></p>
+</div>
+<div style="padding:1px; color:#008000; text-align:center; font-weight:bold; font-size:100%; margin-bottom:3px; margin-top:0;">
+<p>北　台　玄　關　，　山　海　河　港　環　繞　的　美　麗　港　都　：　基　隆　歡　迎　您　！</p>
+</div>
+<div style="position: relative; border-bottom:2px solid #9999cc; border-top:2px solid #9999cc; padding:0.5em; margin:0.5em; color:#666666;">
+<center>
+<p>{{Wide image-noborder|Keelung Paranomic.PNG|765px</p></td>
+<td><p>alt=基隆市中心與港區全景圖}}</p>
+</center>
+<p><span style="font-size:220%; color:#708090"><strong>基</strong></span>位於台灣東北部，為中華民國實際管轄區域的3個市之一，以深水谷灣之天然港灣著名。全市共劃分為7個行政區，人口約37萬人（至2016年底）。境內百分之95為丘陵地，東、西、南三面環山與新北市相鄰，僅北面有少量的平原與東海毗鄰。古名，1875年清廷在此設治後取「基地昌隆」之意改為現名。其為台灣最北端的都市，位於市中心的基隆港又是北台灣首要航運樞紐，因而有「」與「」之稱，亦因氣候多雨而別稱「」。</p>
+<p>基隆的都市發展起始於清治末期，在日治時期因港口開發而興起，人口曾躍居台灣第四；但由於市區與港口發展腹地受限、加上鄰近台北，今日已發展成為台北都會區重要之衛星都市，亦為台灣在漁業、海洋研究、海運等海洋相關產業的重鎮。而基隆市與鄰近之新北市東北角6行政區（金山、萬里、瑞芳、貢寮、雙溪、平溪），因地形上與台北盆地分隔，在人文地理上自成一個有別於台北的發展區塊，稱為「大基隆地區」或「基隆生活圈」。</p>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;font-size:small;">
+<p><strong><a href="../Page/基隆市.md" title="wikilink">更多與基隆相關的內容...</a></strong> | <strong><a href="https://zh.wikipedia.org/wiki/Category:基隆市" title="wikilink">更多與基隆相關的主題...</a></strong> | <strong>[ 更新緩存]</strong></p>
+</div>
+</div>
+<div style="float:left; width:50%;">
+<p>{{/box-header|精選條目|Portal:基隆/特色條目|}}  {{/box-footer|}}</p>
+<p>{{/box-header|精選圖片|Portal:基隆/特色圖片|}}  {{/box-footer|}}</p>
+<p>{{/box-header|協作計劃|Portal:基隆/協作計畫|}}  {{/box-footer|}}</p>
+</div>
+<div style="float:right; width:49%">
+<p>{{/box-header|你知道嗎|Portal:基隆/你知道嗎|}}  {{/box-footer|}}</p>
+<p>{{/box-header|行政區劃|Portal:基隆/行政區|}}  {{/box-footer|}}</p>
+<p>{{/box-header|條目分類|Portal:基隆/分類|}}  {{/box-footer|}}</p>
+<p>{{/box-header|關聯主題|Portal:基隆/關聯主題|}}  {{/box-footer|}}</p>
+</div>
+<div style="float:right; width:100%">
+<p>{{/box-header|維基導遊|Portal:基隆/維基導遊|}}  {{/box-footer|}}</p>
+<p>{{/box-header|其他主題首頁|template:portals|}}  {{/box-footer|}}</p>
+</div></td>
+</tr>
+</tbody>
+</table>
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
+[Category:基隆市](https://zh.wikipedia.org/wiki/Category:基隆市 "wikilink")
+[Category:台灣維基資源](https://zh.wikipedia.org/wiki/Category:台灣維基資源 "wikilink")

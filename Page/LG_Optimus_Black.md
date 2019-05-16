@@ -19,7 +19,7 @@ IPS LED螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。\[1\]\[2\]
     *'（*[加拿大糸統業者為](../Page/加拿大.md "wikilink")[Telus獨賣](https://zh.wikipedia.org/wiki/Telus "wikilink")''）
       - 差異：配備Skype的特別版本
   - **Optimus bright L-07C**（*日本糸統業者為[NTT
-    Docomo](../Page/NTT_Docomo.md "wikilink")*）
+    Docomo](https://zh.wikipedia.org/wiki/NTT_Docomo "wikilink")*）
       - 差異：日本市場專用，並命名為"Bright"，日本地區獨有應用程式、紅外線、多種顏色
 
 ## 參考

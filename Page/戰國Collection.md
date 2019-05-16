@@ -27,14 +27,14 @@
     第四話的主要角色。右眼戴上眼罩的獨眼武將。解決掉綠組後，目前為通緝犯，逃走中。
     在第十五話與[最上義光相會](https://zh.wikipedia.org/wiki/最上義光 "wikilink")，婉拒義光的幫助後離開。
   - 斬神・[塚原卜傳](../Page/塚原卜傳.md "wikilink")
-    CV：[原紗友里](https://zh.wikipedia.org/wiki/原紗友里 "wikilink")
+    CV：[原紗友里](../Page/原紗友里.md "wikilink")
     第五話主要角色。劍術十分高超。[足利義輝的劍術老師](../Page/足利義輝.md "wikilink")。
     受到黑心節目製作人所製作的黑心剪接節目影響，而被疏遠、懼怕。後來與義輝在直播節目上聯手拆穿黑心製作人的意圖，解開了大眾對戰國武將的誤會。
   - 識神・[平賀源內](../Page/平賀源內.md "wikilink")
     CV：[工藤晴香](../Page/工藤晴香.md "wikilink")
     第六話主要角色。非常喜歡吃鰻魚。擅長發明物品，但有些都是沒甚麼用處的東西。
   - 風流人・[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")
-    CV：[西明日香](https://zh.wikipedia.org/wiki/西明日香 "wikilink")
+    CV：[西明日香](../Page/西明日香.md "wikilink")
     第七話主要角色。喜愛寫俳句，也喜愛吟詠俳句，有時會以俳句的五七五調子來說話。
   - 攝政女王・[豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")
     CV：[名塚佳織](../Page/名塚佳織.md "wikilink")
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   - 可愛・[森蘭丸](../Page/森蘭丸.md "wikilink")
-    CV：[松嵜麗](https://zh.wikipedia.org/wiki/松嵜麗 "wikilink")
+    CV：[松嵜麗](../Page/松嵜麗.md "wikilink")
     第一話登場，信長的家臣。
   - 斬神・[伊東一刀齋](../Page/伊東一刀齋.md "wikilink")
     CV：[小松未可子](../Page/小松未可子.md "wikilink")
@@ -171,14 +171,14 @@
 
       -
         作詞、作曲、編曲：[OSTER
-        project](https://zh.wikipedia.org/wiki/OSTER_project "wikilink")，歌：Sweety
+        project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 
   - 片尾曲
 
 :;「UNLUCKY GIRL\!\!」（第1話 - 第13話）
 
 :: 作詞、作曲・編曲：[OSTER
-project](https://zh.wikipedia.org/wiki/OSTER_project "wikilink")，歌：Sweety
+project](../Page/OSTER_project.md "wikilink")，歌：Sweety
 
 :; 「」（第14話 - 第26話）
 
@@ -197,7 +197,7 @@ project](https://zh.wikipedia.org/wiki/OSTER_project "wikilink")，歌：Sweety
 :;「Misty Moon」（第2話）
 
 ::
-作詞：[mao](../Page/mao.md "wikilink")，作曲、編曲：東タカゴー，歌：Rosary（[寺崎裕香](../Page/寺崎裕香.md "wikilink")）
+作詞：[mao](https://zh.wikipedia.org/wiki/mao "wikilink")，作曲、編曲：東タカゴー，歌：Rosary（[寺崎裕香](../Page/寺崎裕香.md "wikilink")）
 
 :; 「」（第4話）
 
@@ -212,7 +212,7 @@ project](https://zh.wikipedia.org/wiki/OSTER_project "wikilink")，歌：Sweety
   -
 
       -
-        作詞：[yozuca\*](../Page/yozuca*.md "wikilink")，作曲・編曲：增谷賢，歌：泰平女君・德川家康（花澤香菜）
+        作詞：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，作曲・編曲：增谷賢，歌：泰平女君・德川家康（花澤香菜）
 
 ### 各話列表
 
@@ -234,7 +234,7 @@ project](https://zh.wikipedia.org/wiki/OSTER_project "wikilink")，歌：Sweety
 <td><p>Sweet Little Devil</p></td>
 <td><p>甜蜜小惡魔</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雜破業" title="wikilink">雜破業</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/後藤圭二" title="wikilink">後藤圭二</a></p></td>
+<td><p><a href="../Page/後藤圭二.md" title="wikilink">後藤圭二</a></p></td>
 <td><p>柴田勝紀</p></td>
 <td></td>
 </tr>

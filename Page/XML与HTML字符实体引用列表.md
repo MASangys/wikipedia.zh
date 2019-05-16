@@ -88,7 +88,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 3.2</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOnum</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/不换行空格" title="wikilink">不换行空格</a>[4]</p></td>
+<td><p><a href="../Page/不换行空格.md" title="wikilink">不换行空格</a>[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p>iexcl</p></td>
@@ -214,7 +214,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 3.2</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOnum</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/註冊商標符號" title="wikilink">注册商标符</a></p></td>
+<td><p><a href="../Page/註冊商標符號.md" title="wikilink">注册商标符</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>macr</p></td>
@@ -664,7 +664,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/à.md" title="wikilink">带重音符的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/à" title="wikilink">带重音符的字母a</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>aacute</p></td>
@@ -673,7 +673,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/á.md" title="wikilink">带尖音符的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/á" title="wikilink">带尖音符的字母a</a></p></td>
 </tr>
 <tr class="even">
 <td><p>acirc</p></td>
@@ -682,7 +682,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/â.md" title="wikilink">带抑扬符的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/â" title="wikilink">带抑扬符的字母a</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>atilde</p></td>
@@ -691,7 +691,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ã.md" title="wikilink">带颚化符的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ã" title="wikilink">带颚化符的字母a</a></p></td>
 </tr>
 <tr class="even">
 <td><p>auml</p></td>
@@ -700,7 +700,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ä.md" title="wikilink">带分音符的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ä" title="wikilink">带分音符的字母a</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>aring</p></td>
@@ -709,7 +709,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/å.md" title="wikilink">带圆圈的字母a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/å" title="wikilink">带圆圈的字母a</a></p></td>
 </tr>
 <tr class="even">
 <td><p>aelig</p></td>
@@ -718,7 +718,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/æ.md" title="wikilink">字母ae的连写符号</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/æ" title="wikilink">字母ae的连写符号</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ccedil</p></td>
@@ -727,7 +727,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ç.md" title="wikilink">带软音符的字母c</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ç" title="wikilink">带软音符的字母c</a></p></td>
 </tr>
 <tr class="even">
 <td><p>egrave</p></td>
@@ -736,7 +736,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/è.md" title="wikilink">带重音符的字母e</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/è" title="wikilink">带重音符的字母e</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>eacute</p></td>
@@ -745,7 +745,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/é.md" title="wikilink">带尖音符的字母e</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/é" title="wikilink">带尖音符的字母e</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ecirc</p></td>
@@ -754,7 +754,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ê.md" title="wikilink">带抑扬符的字母e</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ê" title="wikilink">带抑扬符的字母e</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>euml</p></td>
@@ -763,7 +763,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ë.md" title="wikilink">带分音符的字母e</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ë" title="wikilink">带分音符的字母e</a></p></td>
 </tr>
 <tr class="even">
 <td><p>igrave</p></td>
@@ -772,7 +772,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ì.md" title="wikilink">带重音符的字母i</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ì" title="wikilink">带重音符的字母i</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>iacute</p></td>
@@ -781,7 +781,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/í.md" title="wikilink">带尖音符的字母i</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/í" title="wikilink">带尖音符的字母i</a></p></td>
 </tr>
 <tr class="even">
 <td><p>icirc</p></td>
@@ -808,7 +808,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ð.md" title="wikilink">带短斜线的字母d</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ð" title="wikilink">带短斜线的字母d</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ntilde</p></td>
@@ -817,7 +817,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ñ.md" title="wikilink">带颚化符的字母n</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ñ" title="wikilink">带颚化符的字母n</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ograve</p></td>
@@ -826,7 +826,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ò.md" title="wikilink">带重音符的字母o</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ò" title="wikilink">带重音符的字母o</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>oacute</p></td>
@@ -835,7 +835,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ó.md" title="wikilink">带尖音符的字母o</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ó" title="wikilink">带尖音符的字母o</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ocirc</p></td>
@@ -844,7 +844,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ô.md" title="wikilink">带抑扬符的字母o</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ô" title="wikilink">带抑扬符的字母o</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>otilde</p></td>
@@ -862,7 +862,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ö.md" title="wikilink">带分音符的字母o</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ö" title="wikilink">带分音符的字母o</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>divide</p></td>
@@ -871,7 +871,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 3.2</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOnum</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/除号" title="wikilink">除号</a></p></td>
+<td><p><a href="../Page/除号.md" title="wikilink">除号</a></p></td>
 </tr>
 <tr class="even">
 <td><p>oslash</p></td>
@@ -880,7 +880,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ø.md" title="wikilink">带短斜线的字母o</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ø" title="wikilink">带短斜线的字母o</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ugrave</p></td>
@@ -898,7 +898,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ú.md" title="wikilink">带尖音符的字母u</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ú" title="wikilink">带尖音符的字母u</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ucirc</p></td>
@@ -916,7 +916,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ü.md" title="wikilink">带分音符的字母u</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ü" title="wikilink">带分音符的字母u</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>yacute</p></td>
@@ -925,7 +925,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/ý.md" title="wikilink">带尖音符的字母y</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ý" title="wikilink">带尖音符的字母y</a></p></td>
 </tr>
 <tr class="even">
 <td><p>thorn</p></td>
@@ -934,7 +934,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 2.0</p></td>
 <td><p>HTMLlat1</p></td>
 <td><p>ISOlat1</p></td>
-<td><p><a href="../Page/þ.md" title="wikilink">þ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/þ" title="wikilink">þ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>yuml</p></td>
@@ -961,7 +961,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLspecial</p></td>
 <td><p>ISOlat2</p></td>
-<td><p><a href="../Page/œ.md" title="wikilink">字母oe的连写符号</a>[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/œ" title="wikilink">字母oe的连写符号</a>[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>Scaron</p></td>
@@ -979,7 +979,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLspecial</p></td>
 <td><p>ISOlat2</p></td>
-<td><p><a href="../Page/š.md" title="wikilink">带扬抑符的字母s</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/š" title="wikilink">带扬抑符的字母s</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Yuml</p></td>
@@ -1006,7 +1006,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLspecial</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/抑扬符" title="wikilink">抑扬符</a></p></td>
+<td><p><a href="../Page/抑扬符.md" title="wikilink">抑扬符</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>tilde</p></td>
@@ -1249,7 +1249,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/β.md" title="wikilink">β</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/β" title="wikilink">β</a></p></td>
 </tr>
 <tr class="even">
 <td><p>gamma</p></td>
@@ -1267,7 +1267,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/δ.md" title="wikilink">δ</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/δ" title="wikilink">δ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>epsilon</p></td>
@@ -1276,7 +1276,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/ε.md" title="wikilink">ε</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/ε" title="wikilink">ε</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>zeta</p></td>
@@ -1411,7 +1411,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/τ.md" title="wikilink">τ</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/τ" title="wikilink">τ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>upsilon</p></td>
@@ -1429,7 +1429,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/φ.md" title="wikilink">φ</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/φ" title="wikilink">φ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>chi</p></td>
@@ -1456,7 +1456,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOgrk3</p></td>
-<td><p>希腊字母<a href="../Page/ω.md" title="wikilink">ω</a></p></td>
+<td><p>希腊字母<a href="https://zh.wikipedia.org/wiki/ω" title="wikilink">ω</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>thetasym</p></td>
@@ -1519,7 +1519,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLspecial</p></td>
 <td><p><em>NEW RFC 2070</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/零宽不连字" title="wikilink">零宽不连字</a></p></td>
+<td><p><a href="../Page/零宽不连字.md" title="wikilink">零宽不连字</a></p></td>
 </tr>
 <tr class="even">
 <td><p>zwj</p></td>
@@ -2284,7 +2284,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扑克牌" title="wikilink">黑桃符号</a>[23]</p></td>
+<td><p><a href="../Page/扑克牌.md" title="wikilink">黑桃符号</a>[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>clubs</p></td>
@@ -2293,7 +2293,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扑克牌" title="wikilink">梅花符号</a> <em>(= shamrock)</em>[24]</p></td>
+<td><p><a href="../Page/扑克牌.md" title="wikilink">梅花符号</a> <em>(= shamrock)</em>[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>hearts</p></td>
@@ -2302,7 +2302,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扑克牌" title="wikilink">红桃符号</a> <em>(= valentine)</em>[25]</p></td>
+<td><p><a href="../Page/扑克牌.md" title="wikilink">红桃符号</a> <em>(= valentine)</em>[25]</p></td>
 </tr>
 <tr class="odd">
 <td><p>diams</p></td>
@@ -2311,7 +2311,7 @@ HTML 4 DTD定义了252个命名实体。HTML 4规范要求使用标准DTD，并�
 <td><p>HTML 4.0</p></td>
 <td><p>HTMLsymbol</p></td>
 <td><p>ISOpub</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扑克牌" title="wikilink">扑克牌方块符号</a>[26]</p></td>
+<td><p><a href="../Page/扑克牌.md" title="wikilink">扑克牌方块符号</a>[26]</p></td>
 </tr>
 </tbody>
 </table>

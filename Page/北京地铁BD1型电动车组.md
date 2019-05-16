@@ -50,7 +50,7 @@ BD1型共20辆，由[北京地铁车辆厂生产](https://zh.wikipedia.org/wiki/
 
 ## 列车运送过程
 
-列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，经[丰双铁路](../Page/丰双铁路.md "wikilink")、[丰沙铁路到达](../Page/丰沙铁路.md "wikilink")[三家店站](https://zh.wikipedia.org/wiki/三家店站 "wikilink")，之后经过[京门铁路通过联络线](../Page/京门铁路.md "wikilink")，进入[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")，此后的[BD2型](../Page/北京地铁BD2型电动车组.md "wikilink")、[BD3型也是通过如此方法运送过来](https://zh.wikipedia.org/wiki/北京地铁BD3型电动车组 "wikilink")。
+列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，经[丰双铁路](../Page/丰双铁路.md "wikilink")、[丰沙铁路到达](../Page/丰沙铁路.md "wikilink")[三家店站](https://zh.wikipedia.org/wiki/三家店站 "wikilink")，之后经过[京门铁路通过联络线](../Page/京门铁路.md "wikilink")，进入[古城车辆段](https://zh.wikipedia.org/wiki/古城车辆段 "wikilink")，此后的[BD2型](../Page/北京地铁BD2型电动车组.md "wikilink")、[BD3型也是通过如此方法运送过来](../Page/北京地铁BD3型电动车组.md "wikilink")。
 
 ## 事故
 

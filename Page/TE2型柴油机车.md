@@ -4,7 +4,7 @@
 
 ### 研制
 
-[苏联卫国战争结束后](https://zh.wikipedia.org/wiki/苏联卫国战争 "wikilink")，馬雷舍夫工廠通过参考从[美国引进的](../Page/美国.md "wikilink")[D<sup>a</sup>型柴油机车](https://zh.wikipedia.org/wiki/RSD-1型柴油机车 "wikilink")，于1947年成功研制了[TE1型柴油机车](../Page/TE1型柴油机车.md "wikilink")，成为苏联铁路史上第一种投入大批量生产的柴油机车。TE1型装用一台1000马力的D50型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，采用直—直流电传动。但随着苏联铁路运输需求的增长，苏联铁路迫切需要一种功率更大的柴油机车。为了满足对更大功率柴油机车的需要，馬雷舍夫工廠在TE1型柴油机车基础上，于1948年12月研制了首台TE2型双节重联式柴油机车\[1\]。
+[苏联卫国战争结束后](https://zh.wikipedia.org/wiki/苏联卫国战争 "wikilink")，馬雷舍夫工廠通过参考从[美国引进的](../Page/美国.md "wikilink")[D<sup>a</sup>型柴油机车](../Page/RSD-1型柴油机车.md "wikilink")，于1947年成功研制了[TE1型柴油机车](../Page/TE1型柴油机车.md "wikilink")，成为苏联铁路史上第一种投入大批量生产的柴油机车。TE1型装用一台1000马力的D50型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，采用直—直流电传动。但随着苏联铁路运输需求的增长，苏联铁路迫切需要一种功率更大的柴油机车。为了满足对更大功率柴油机车的需要，馬雷舍夫工廠在TE1型柴油机车基础上，于1948年12月研制了首台TE2型双节重联式柴油机车\[1\]。
 
 TE2型机车由两节完全相同的四轴机车组成，每一单节机车的动力设备与TE1型机车并无不同，每节机车装用一台馬雷舍夫工廠制造的D50型柴油机和哈尔科夫电机制造厂的直流发电机组，柴油机装车功率为1000马力，机车总功率为2000马力。然而，与TE1型机车相比，双节重联的TE2型机车却有更多的优点。根据TE1型机车的使用经验，柴油机的功率未能得到完全利用，六台[牵引电动机的负载并不充分](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，所以在TE2型机车采用了双节四轴设计，每一单节机车只有四台牵引电动机。因此，每节机车的重量仅有85吨，换句话说，在相同的柴油机功率下，每节机车比TE1型机车轻39吨。这种结构布局不仅大大减轻了机车重量，也节省了生产机车所需的金属消耗量和劳动成本\[2\]。
 
@@ -15,7 +15,7 @@ TE2型机车由两节完全相同的四轴机车组成，每一单节机车的�
 [缩略图](https://zh.wikipedia.org/wiki/File:Locomotive_te2-025.jpg "fig:缩略图")
 与TE1型机车一样，绝大多数TE2型机车初期均投入到[中亚地区运用](https://zh.wikipedia.org/wiki/中亚地区 "wikilink")，尤其是[梁赞-乌拉尔铁路局](https://zh.wikipedia.org/wiki/梁赞-乌拉尔铁路局 "wikilink")（Рязано-Уральская
 железная
-дорога）巴斯昆恰克机务段，主要用于担当重载货物列车的牵引任务。1953年，苏联铁路管理系统进行了改革，取消了梁赞-乌拉尔铁路局，巴斯昆恰克机务段成为[伏尔加铁路局的一部分](https://zh.wikipedia.org/wiki/伏尔加铁路局 "wikilink")。至1950年代中后期，随着功率更大的[TE3型柴油机车投入大量生产](../Page/TE3型柴油机车.md "wikilink")，并开始替换原有的TE1、TE2型柴油机车，巴斯昆恰克机务段的TE2型机车相继外调到其他地区，包括[鄂木斯克铁路局](https://zh.wikipedia.org/wiki/鄂木斯克铁路局 "wikilink")、[远东铁路局](https://zh.wikipedia.org/wiki/远东铁路局 "wikilink")、[后贝加尔铁路局](https://zh.wikipedia.org/wiki/后贝加尔铁路局 "wikilink")、[高加索铁路局](https://zh.wikipedia.org/wiki/高加索铁路局 "wikilink")、[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")、[利沃夫铁路局](https://zh.wikipedia.org/wiki/利沃夫铁路局 "wikilink")、[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")、[十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")、[托木斯克铁路局](https://zh.wikipedia.org/wiki/托木斯克铁路局 "wikilink")、[北高加索铁路局等](https://zh.wikipedia.org/wiki/北高加索铁路局 "wikilink")。1956年，苏联并向[蒙古国出口了一些TE](../Page/蒙古国.md "wikilink")2型机车。1978年至1987年间，大量的TE2型机车陆续停运报废。到了1990年代，尚在运用的TE2型机车已所余无几\[4\]。
+дорога）巴斯昆恰克机务段，主要用于担当重载货物列车的牵引任务。1953年，苏联铁路管理系统进行了改革，取消了梁赞-乌拉尔铁路局，巴斯昆恰克机务段成为[伏尔加铁路局的一部分](../Page/伏尔加铁路局.md "wikilink")。至1950年代中后期，随着功率更大的[TE3型柴油机车投入大量生产](../Page/TE3型柴油机车.md "wikilink")，并开始替换原有的TE1、TE2型柴油机车，巴斯昆恰克机务段的TE2型机车相继外调到其他地区，包括[鄂木斯克铁路局](https://zh.wikipedia.org/wiki/鄂木斯克铁路局 "wikilink")、[远东铁路局](../Page/远东铁路局.md "wikilink")、[后贝加尔铁路局](../Page/后贝加尔铁路局.md "wikilink")、[高加索铁路局](https://zh.wikipedia.org/wiki/高加索铁路局 "wikilink")、[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")、[利沃夫铁路局](../Page/利沃夫铁路局.md "wikilink")、[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")、[十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")、[托木斯克铁路局](https://zh.wikipedia.org/wiki/托木斯克铁路局 "wikilink")、[北高加索铁路局等](../Page/北高加索铁路局.md "wikilink")。1956年，苏联并向[蒙古国出口了一些TE](../Page/蒙古国.md "wikilink")2型机车。1978年至1987年间，大量的TE2型机车陆续停运报废。到了1990年代，尚在运用的TE2型机车已所余无几\[4\]。
 
 ## 技术特点
 

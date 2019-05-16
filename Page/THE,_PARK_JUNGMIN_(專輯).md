@@ -24,9 +24,9 @@ Alone](https://zh.wikipedia.org/wiki/Not_Alone_\(迷你專輯\) "wikilink")」�
 2.  **走吧走吧**（） 〖03:28〗
       - 作詞：최갑원；作曲：PJ, 김도훈；編曲：PJ
 3.  '''Not Alone ''' 〖03:53〗
-      - 作詞：[朴政珉](../Page/朴政珉.md "wikilink")；作曲：[新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")；編曲：新沙洞老虎
+      - 作詞：[朴政珉](../Page/朴政珉.md "wikilink")；作曲：[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")；編曲：新沙洞老虎
 4.  **妳知道嗎？**（） 〖03:43〗
-      - 作詞：[朴政珉](../Page/朴政珉.md "wikilink")；作曲：[新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")；編曲：新沙洞老虎
+      - 作詞：[朴政珉](../Page/朴政珉.md "wikilink")；作曲：[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")；編曲：新沙洞老虎
 5.  **有妳的每一天都是聖誕節**（） 〖03:24〗
       - 作詞：[朴政珉](../Page/朴政珉.md "wikilink")，강현민；作曲：강현민；編曲：강현민
 6.  '''Not Alone (inst) ''' 〖03:54〗

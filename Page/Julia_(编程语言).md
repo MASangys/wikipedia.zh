@@ -1,7 +1,7 @@
 **Julia**是一种[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[通用](../Page/通用编程语言.md "wikilink")\[1\][动态编程语言](../Page/动态语言.md "wikilink")，它最初是为了满足高性能[数值分析和](https://zh.wikipedia.org/wiki/数值分析 "wikilink")[计算科学的需要而设计的](../Page/计算科学.md "wikilink")，不需要[分别编译速度快](../Page/編譯器.md "wikilink")，\[2\]\[3\]\[4\]\[5\]
 也可用于客户端和服务器的Web用途\[6\]\[7\]、低级[系统编程或用作](https://zh.wikipedia.org/wiki/系統程式設計 "wikilink")[规约语言](https://zh.wikipedia.org/wiki/规约语言 "wikilink")。\[8\]
 
-Julia设计的独特之处包括，[参数多态的类型系统](../Page/参数多态.md "wikilink")，完全[动态语言中的类型](../Page/动态语言.md "wikilink")，以及它[多分派的核心](https://zh.wikipedia.org/wiki/多分派 "wikilink")[编程范型](../Page/编程范型.md "wikilink")。它允许[并发](https://zh.wikipedia.org/wiki/并发计算 "wikilink")、[并行和](https://zh.wikipedia.org/wiki/并行计算 "wikilink")[分布式计算](../Page/分布式计算.md "wikilink")，并直接调用[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Fortran库而不使用](../Page/Fortran.md "wikilink")[粘合代码](https://zh.wikipedia.org/wiki/适配器模式 "wikilink")。
+Julia设计的独特之处包括，[参数多态的类型系统](../Page/参数多态.md "wikilink")，完全[动态语言中的类型](../Page/动态语言.md "wikilink")，以及它[多分派的核心](https://zh.wikipedia.org/wiki/多分派 "wikilink")[编程范型](../Page/编程范型.md "wikilink")。它允许[并发](../Page/并发计算.md "wikilink")、[并行和](../Page/并行计算.md "wikilink")[分布式计算](../Page/分布式计算.md "wikilink")，并直接调用[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Fortran库而不使用](../Page/Fortran.md "wikilink")[粘合代码](https://zh.wikipedia.org/wiki/适配器模式 "wikilink")。
 
 Julia拥有[垃圾回收机制](../Page/垃圾回收_\(計算機科學\).md "wikilink")， \[9\]
 使用[及早求值](https://zh.wikipedia.org/wiki/及早求值 "wikilink")，包含了用于[浮点计算](../Page/浮点数.md "wikilink")、[线性代数](../Page/线性代数.md "wikilink")、[随机数生成和](../Page/随机数生成.md "wikilink")[正则表达式匹配的高效库](../Page/正则表达式.md "wikilink")。有许多库可以使用，其中一些（如用于[快速傅里叶变换的库](../Page/快速傅里叶变换.md "wikilink")）已经预先捆绑在Julia里。\[10\]
@@ -9,7 +9,7 @@ Julia拥有[垃圾回收机制](../Page/垃圾回收_\(計算機科學\).md "wik
 ## 历史
 
 \[11\]
-一群拥有各种语言丰富编程经验的[Matlab高级用户](../Page/Matlab.md "wikilink")，对现有的科学计算编程工具感到不满——这些软件对自己专长的领域表现得非常棒，但在其它领域却非常糟糕。他们想要的是一个[开源的软件](../Page/开源软件.md "wikilink")，它要像[C语言一般快速而又拥有如同](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Ruby的](../Page/Ruby.md "wikilink")[动态性](../Page/动态语言.md "wikilink")；要具有[Lisp般真正的](../Page/Lisp.md "wikilink")[同像性而又有](https://zh.wikipedia.org/wiki/同像性 "wikilink")[Matlab般熟悉的数学记号](../Page/Matlab.md "wikilink")；要像[Python般通用](../Page/Python.md "wikilink")、像[R般在统计分析上得心应手](../Page/R语言.md "wikilink")、像[Perl般自然地处理字符串](../Page/Perl.md "wikilink")、像[Matlab般具有强大的线性代数运算能力](../Page/Matlab.md "wikilink")、像[shell般](https://zh.wikipedia.org/wiki/shell "wikilink")[胶水语言的能力](https://zh.wikipedia.org/wiki/胶水语言 "wikilink")，易于学习而又不让真正的[黑客感到无聊](../Page/黑客.md "wikilink")；还有，它应该是[交互式的](https://zh.wikipedia.org/wiki/交互式 "wikilink")，同时又是编译型的……
+一群拥有各种语言丰富编程经验的[Matlab高级用户](https://zh.wikipedia.org/wiki/Matlab "wikilink")，对现有的科学计算编程工具感到不满——这些软件对自己专长的领域表现得非常棒，但在其它领域却非常糟糕。他们想要的是一个[开源的软件](../Page/开源软件.md "wikilink")，它要像[C语言一般快速而又拥有如同](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Ruby的](../Page/Ruby.md "wikilink")[动态性](../Page/动态语言.md "wikilink")；要具有[Lisp般真正的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[同像性而又有](../Page/同像性.md "wikilink")[Matlab般熟悉的数学记号](https://zh.wikipedia.org/wiki/Matlab "wikilink")；要像[Python般通用](../Page/Python.md "wikilink")、像[R般在统计分析上得心应手](../Page/R语言.md "wikilink")、像[Perl般自然地处理字符串](../Page/Perl.md "wikilink")、像[Matlab般具有强大的线性代数运算能力](https://zh.wikipedia.org/wiki/Matlab "wikilink")、像[shell般](https://zh.wikipedia.org/wiki/shell "wikilink")[胶水语言的能力](https://zh.wikipedia.org/wiki/胶水语言 "wikilink")，易于学习而又不让真正的[黑客感到无聊](../Page/黑客.md "wikilink")；还有，它应该是[交互式的](https://zh.wikipedia.org/wiki/交互式 "wikilink")，同时又是编译型的……
 
 该项目大约于2009年中开始。
 
@@ -29,7 +29,7 @@ Julia拥有[垃圾回收机制](../Page/垃圾回收_\(計算機科學\).md "wik
   - 支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，包括但不限于[UTF-8](../Page/UTF-8.md "wikilink")
   - 可直接调用C函数（不需要包装或是借助特殊的[API](https://zh.wikipedia.org/wiki/API "wikilink")）
   - 有类似[shell的进程管理能力](https://zh.wikipedia.org/wiki/shell "wikilink")
-  - 有类似[Lisp的](../Page/Lisp.md "wikilink")[-{zh-cn:宏;zh-tw:巨集}-以及其它元编程工具](../Page/巨集.md "wikilink")
+  - 有类似[Lisp的](https://zh.wikipedia.org/wiki/Lisp "wikilink")[-{zh-cn:宏;zh-tw:巨集}-以及其它元编程工具](../Page/巨集.md "wikilink")
 
 ## 示例
 
@@ -72,7 +72,7 @@ end
 
 ## 参见
 
-  - [Matlab](../Page/Matlab.md "wikilink")
+  - [Matlab](https://zh.wikipedia.org/wiki/Matlab "wikilink")
   - [GNU Octave](../Page/GNU_Octave.md "wikilink")
   - [R语言](../Page/R语言.md "wikilink")
   - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")

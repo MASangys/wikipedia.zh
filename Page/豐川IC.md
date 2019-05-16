@@ -33,7 +33,7 @@
 
 ## 交流道周邊
 
-  - [豐川稻荷](https://zh.wikipedia.org/wiki/豐川稻荷 "wikilink")
+  - [豐川稻荷](../Page/豐川稻荷.md "wikilink")
   - [砥鹿神社](https://zh.wikipedia.org/wiki/砥鹿神社 "wikilink")
   - [三河一宮車站](https://zh.wikipedia.org/wiki/三河一宮車站 "wikilink")
 

@@ -1,4 +1,4 @@
-《**KO世紀三獸士**》（），是一套於1992年5月至1993年11月間，於[日本播放的](../Page/日本.md "wikilink")[OVA系列動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。動畫由[安利美特與](../Page/安利美特.md "wikilink")[ZERO・G・ROOM共同製作](https://zh.wikipedia.org/wiki/RADIX_ACE_ENTERTAINMENT "wikilink")。
+《**KO世紀三獸士**》（），是一套於1992年5月至1993年11月間，於[日本播放的](../Page/日本.md "wikilink")[OVA系列動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。動畫由[安利美特與](../Page/安利美特.md "wikilink")[ZERO・G・ROOM共同製作](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")。
 
 ## 相關條目
 
