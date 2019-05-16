@@ -1,6 +1,6 @@
-1930年[哈斯凱爾·加里在他的博士论文](../Page/哈斯凱爾·加里.md "wikilink")《Grundlagen der
-kombinatorischen
-Logik》中提议了一个[組合子邏輯系統](../Page/組合子邏輯.md "wikilink")。它带有基本组合子**B**、**C**、**K**和**W**（采用了现在的命名）。
+1930年[哈斯凱爾·加里在他的博士论文](https://zh.wikipedia.org/wiki/哈斯凱爾·加里 "wikilink")《Grundlagen
+der kombinatorischen
+Logik》中提议了一个[組合子邏輯系統](https://zh.wikipedia.org/wiki/組合子邏輯 "wikilink")。它带有基本组合子**B**、**C**、**K**和**W**（采用了现在的命名）。
 
 ## 定義
 
@@ -11,12 +11,14 @@ Logik》中提议了一个[組合子邏輯系統](../Page/組合子邏輯.md "wi
 
 直觉上，
 
-  - **B** x y是[函数复合x](../Page/函数复合.md "wikilink") <small>o</small> y
-  - **C** x y z交换[参数y和z](../Page/參數_\(程式設計\).md "wikilink")
+  - **B** x y是[函数复合x](https://zh.wikipedia.org/wiki/函数复合 "wikilink")
+    <small>o</small> y
+  - **C** x y
+    z交换[参数y和z](https://zh.wikipedia.org/wiki/參數_\(程式設計\) "wikilink")
   - **K** x y忽略第二个参数y
   - **W** x y复制参数y
 
-在當代，只有兩個基本組合子**K**和**S**的[SKI組合子演算成為了](../Page/SKI組合子演算.md "wikilink")[組合子邏輯的規范方式](../Page/組合子邏輯.md "wikilink")。**B,
+在當代，只有兩個基本組合子**K**和**S**的[SKI組合子演算成為了](https://zh.wikipedia.org/wiki/SKI組合子演算 "wikilink")[組合子邏輯的規范方式](https://zh.wikipedia.org/wiki/組合子邏輯 "wikilink")。**B,
 C**和**W**可以使用**S**和**K**表達為如下：
 
   - **B** = **S** (**K S**) **K**
@@ -34,7 +36,7 @@ C**和**W**可以使用**S**和**K**表達為如下：
 ## 與直覺主義邏輯的連結
 
 組合子 \(B\), \(C\), \(K\) 和 \(W\)
-對應於眾所周知的[命題邏輯四公理](../Page/命题逻辑#简单的公理系统.md "wikilink")：
+對應於眾所周知的[命題邏輯四公理](https://zh.wikipedia.org/wiki/命题逻辑#简单的公理系统 "wikilink")：
 
   -
     **AB**: (*B* → *C*) → ((*A* → *B*) → (*A* → *C*)),
@@ -42,37 +44,37 @@ C**和**W**可以使用**S**和**K**表達為如下：
     **AK**: *A* → (*B* → *A*),
     **AW**: (*A* → (*A* → *B*)) → (*A* → *B*).
 
-而函數應用對應於[肯定前件](../Page/肯定前件.md "wikilink")
+而函數應用對應於[肯定前件](https://zh.wikipedia.org/wiki/肯定前件 "wikilink")
 
   -
     **MP**: 如果 A 且 A → B，則 B。
 
 公理 AB, AC, AK 和 AW 以及函數應用規則 MP
-對於[直覺邏輯的蘊涵片段是完整的](../Page/直覺邏輯.md "wikilink")。為了使組合邏輯能模型化為直覺邏輯：
+對於[直覺邏輯的蘊涵片段是完整的](https://zh.wikipedia.org/wiki/直覺邏輯 "wikilink")。為了使組合邏輯能模型化為直覺邏輯：
 
-  - [古典邏輯的](../Page/经典逻辑.md "wikilink")[蕴涵命题演算](../Page/蕴涵命题演算.md "wikilink")，需要與排中律相結合，例如，[皮尔士定律](../Page/皮尔士定律.md "wikilink");
+  - [古典邏輯的](../Page/经典逻辑.md "wikilink")[蕴涵命题演算](../Page/蕴涵命题演算.md "wikilink")，需要與排中律相結合，例如，[皮尔士定律](https://zh.wikipedia.org/wiki/皮尔士定律 "wikilink");
   - 完整的古典邏輯，需以組合子模擬到命題公式 F → A。
 
 ## 参见
 
   - [组合子逻辑](../Page/组合子逻辑.md "wikilink")
-  - [SKI組合子演算](../Page/SKI組合子演算.md "wikilink")
+  - [SKI組合子演算](https://zh.wikipedia.org/wiki/SKI組合子演算 "wikilink")
 
 ## 引用
 
   - [Hendrik Pieter
-    Barendregt](../Page/Hendrik_Pieter_Barendregt.md "wikilink")（1984）*The
+    Barendregt](https://zh.wikipedia.org/wiki/Hendrik_Pieter_Barendregt "wikilink")（1984）*The
     Lambda Calculus, Its Syntax and Semantics*, Vol. 103 in *Studies in
     Logic and the Foundations of Mathematics*. North-Holland. ISBN
     978-0-444-87508-2
 
   - [Haskell
-    Curry](../Page/Haskell_Curry.md "wikilink")（1930）"Grundlagen der
-    kombinatorischen Logik," *Amer. J. Math. 52*: 509-536; 789-834.
+    Curry](https://zh.wikipedia.org/wiki/Haskell_Curry "wikilink")（1930）"Grundlagen
+    der kombinatorischen Logik," *Amer. J. Math. 52*: 509-536; 789-834.
 
   -
   - [Raymond
-    Smullyan](../Page/Raymond_Smullyan.md "wikilink")（1994）*Diagonalization
+    Smullyan](https://zh.wikipedia.org/wiki/Raymond_Smullyan "wikilink")（1994）*Diagonalization
     and Self-Reference*. Oxford Univ. Press.
 
 ## 注釋
@@ -91,5 +93,5 @@ C**和**W**可以使用**S**和**K**表達為如下：
 [Category:Lambda演算](https://zh.wikipedia.org/wiki/Category:Lambda演算 "wikilink")
 
 1.  [Raymond
-    Smullyan](../Page/Raymond_Smullyan.md "wikilink")（1994）*Diagonalization
+    Smullyan](https://zh.wikipedia.org/wiki/Raymond_Smullyan "wikilink")（1994）*Diagonalization
     and Self-Reference*. Oxford Univ. Press: 344, 3.6(d).

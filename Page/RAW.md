@@ -1,8 +1,8 @@
-**原始图像文件**包含从[数码相机](../Page/数码照相机.md "wikilink")、[扫描器或](../Page/影像掃描器.md "wikilink")[电影胶片扫描仪的](../Page/电影胶片.md "wikilink")[图像传感器所处理数据](../Page/图像传感器.md "wikilink")。之所以这样命名，是因为他们尚未被处理，未被[打印或用于编辑](../Page/打印.md "wikilink")。通常情况下，原始图像有宽[色域的内部色彩](../Page/色域.md "wikilink")，可以进行精确的调整，可以在转换之前作出一些简单修改，如[TIFF或](../Page/TIFF.md "wikilink")[JPEG文件格式存储](../Page/JPEG.md "wikilink")。方便打印，或进一步的处理。这些编码往往依赖于色彩图像的设备。这些图像常常被形容为*“RAW*
+**原始图像文件**包含从[数码相机](https://zh.wikipedia.org/wiki/数码照相机 "wikilink")、[扫描器或](../Page/影像掃描器.md "wikilink")[电影胶片扫描仪的](https://zh.wikipedia.org/wiki/电影胶片 "wikilink")[图像传感器所处理数据](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")。之所以这样命名，是因为他们尚未被处理，未被[打印或用于编辑](https://zh.wikipedia.org/wiki/打印 "wikilink")。通常情况下，原始图像有宽[色域的内部色彩](../Page/色域.md "wikilink")，可以进行精确的调整，可以在转换之前作出一些简单修改，如[TIFF或](../Page/TIFF.md "wikilink")[JPEG文件格式存储](../Page/JPEG.md "wikilink")。方便打印，或进一步的处理。这些编码往往依赖于色彩图像的设备。这些图像常常被形容为*“RAW*
 图像文件”，虽然实际上不是指单一的原始文件格式。其实有几十种不同型号的数码设备在使用这种格式（常见于数码相机或胶片扫描仪）。 \[1\]
-原始图像文件，有时也被称为**数字底片**，因为它们充当与电影[底片相同的角色](../Page/底片.md "wikilink")，并不是作为图像直接使用，而是创建一个包含所有信息的图像。同样，转换成可视格式原始图像文件的过程中，有时也被称为渲染原始图像，相当于电影发展过程中用于[感光胶片转换成可视图像的比喻](../Page/底片.md "wikilink")。图像渲染是[白平衡和色彩分级的过程中的一部分](../Page/白平衡.md "wikilink")。
+原始图像文件，有时也被称为**数字底片**，因为它们充当与电影[底片相同的角色](../Page/底片.md "wikilink")，并不是作为图像直接使用，而是创建一个包含所有信息的图像。同样，转换成可视格式原始图像文件的过程中，有时也被称为渲染原始图像，相当于电影发展过程中用于[感光胶片转换成可视图像的比喻](../Page/底片.md "wikilink")。图像渲染是[白平衡和色彩分级的过程中的一部分](https://zh.wikipedia.org/wiki/白平衡 "wikilink")。
 
-就像照相底片一样，原始的数字图像可以有更宽的[动态范围比](../Page/动态范围.md "wikilink")，最终的最终图像格式或色域，它保留了大部分拍摄的图像信息。原始图像格式的目的是保存信息的损失降到最低，从传感器获得的数据，和周围捕获的图像（[元数据](../Page/元数据.md "wikilink")）的条件。
+就像照相底片一样，原始的数字图像可以有更宽的[动态范围比](https://zh.wikipedia.org/wiki/动态范围 "wikilink")，最终的最终图像格式或色域，它保留了大部分拍摄的图像信息。原始图像格式的目的是保存信息的损失降到最低，从传感器获得的数据，和周围捕获的图像（[元数据](../Page/元数据.md "wikilink")）的条件。
 
 ## 原理
 
@@ -40,7 +40,7 @@ MEF ([Mamiya](../Page/玛米亚.md "wikilink")), MOS (Leaf), NEF
 SR2 ([Sony](../Page/索尼.md "wikilink")), 都是基于TIFF格式.\[2\]
 这些文件可能在许多方面偏离TIFF标准，包括使用一个非标准的文件头，列入额外的图像标记和一些标签的数据加密。
 
-松下的RAW转换器可以通过Raw文件中的必要的更正信息来纠正类似[LX3相机的几何畸变和](../Page/Lumix.md "wikilink")[色差](../Page/色差.md "wikilink")。
+松下的RAW转换器可以通过Raw文件中的必要的更正信息来纠正类似[LX3相机的几何畸变和](https://zh.wikipedia.org/wiki/Lumix "wikilink")[色差](../Page/色差.md "wikilink")。
 \[3\] \[4\] \[5\]第一阶段的原始转换器捕捉一个还提供修正几何失真， [色差](../Page/色差.md "wikilink")
 ，紫边和梯形校正仿真软件倾斜移位 ，来自100多个不同的相机最原始的文件。 \[6\]
 \[7\]这同样适用于佳能的的应用，至少像所有的单反相机的紧凑型相机的Ğ<N>系列更昂贵的相机。
@@ -56,14 +56,14 @@ ICC配置文件和[.JPEG。](../Page/JPEG.md "wikilink")
 
 ### 传感器的图像数据
 
-在[数码摄影中](../Page/数码摄影.md "wikilink") ，原始文件的读取，
+在[数码摄影中](https://zh.wikipedia.org/wiki/数码摄影 "wikilink") ，原始文件的读取，
 [照相胶片在胶片摄影中扮演的角色](../Page/底片.md "wikilink")。因此，原始数据文件包含全分辨率（通常是12
--位或14位）数据读取每个相机的[图像传感器](../Page/图像传感器.md "wikilink")
+-位或14位）数据读取每个相机的[图像传感器](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")
 [像素点](../Page/像素.md "wikilink")。
 
 几乎无一例外地覆盖彩色滤光阵列组成的镶嵌的红，绿，蓝和（二）绿色过滤器2x2矩阵，通常是拜耳过滤器或者其他的相机传感器。
 
-拜耳过滤器上的变化之一是索尼的[Cyber-shot](../Page/Cyber-shot.md "wikilink")
+拜耳过滤器上的变化之一是索尼的[Cyber-shot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink")
 DSC-F828，在RG行交换“ 翡翠 ”绿色的RGBE滤波器 \[8\] （ 蓝绿色
 \[9\]或[青色](../Page/青色.md "wikilink") \[10\] \[ 颜色值
 \]）。其他类型的传感器，例如像Foveon
@@ -79,11 +79,12 @@ X3，它会直接在RGB格式上捕捉信息（每个位置上会使用3个像�
 
 ## 好处
 
-几乎所有的数码相机可以处理来自[传感器的使用设置白平衡](../Page/電荷耦合元件.md "wikilink")，
+几乎所有的数码相机可以处理来自[传感器的使用设置白平衡](https://zh.wikipedia.org/wiki/電荷耦合元件 "wikilink")，
 色彩饱和度，对比度，清晰度，自动选择或由摄影师拍摄照片前，进入到一个JPEG文件图像。相机产生的原始数据文件保存在文件中的这些设置，但推迟处理。这个结果在摄影师的一个额外的步骤，使原料通常只打算时使用额外的计算机处理。然而，生有众多的JPEG上的优势，如：
 
-  - 更高的图像质量。因为所有的计算（如伽玛校正 ，去马赛克 ，白平衡， [亮度](../Page/明度.md "wikilink")
-    ，对比度，等等......）用于生成像素值（对于大多数图像的RGB格式）进行一步的基础数据，由此产生的像素值将更加准确，并表现出以下的[色调分离](../Page/色調分離.md "wikilink")
+  - 更高的图像质量。因为所有的计算（如伽玛校正 ，去马赛克 ，白平衡，
+    [亮度](https://zh.wikipedia.org/wiki/明度 "wikilink")
+    ，对比度，等等......）用于生成像素值（对于大多数图像的RGB格式）进行一步的基础数据，由此产生的像素值将更加准确，并表现出以下的[色调分离](https://zh.wikipedia.org/wiki/色調分離 "wikilink")
     。
   - 绕过相机内不受欢迎的处理步骤，例如锐化和降噪
   - 通常使用一种有损压缩格式（虽然现在提供一种无损JPEG压缩）保存JPEG图像。RAW格式是典型的无压缩或使用无损压缩，即相机在拍摄中得到的数据不会产生任何损失，相机记录下什么，RAW格式就记录什么。
@@ -93,7 +94,7 @@ X3，它会直接在RGB格式上捕捉信息（每个位置上会使用3个像�
     [的色域](../Page/色域.md "wikilink") ，更精确可能是亮点，阴影，色彩饱和度。
   - 可以设置为任何需要的色彩空间 。
   - 不同的去马赛克算法可以使用，而不仅仅是编码的相机。
-  - 原始文件的内容，包括更多的信息，有可能提供更高的质量比转换的结果，在其中渲染参数是固定的，色域裁剪，并有可能成为量化和压缩失真的数据，如增加较少时，从原始数据进行比已经呈现的图像文件时，可见文物的一个显着曝光不足的照片，结果曝光的大变革。原始数据更正和艺术手法留下更多的余地，而不产生的图像中可见的缺陷，如[色调分离](../Page/色調分離.md "wikilink")
+  - 原始文件的内容，包括更多的信息，有可能提供更高的质量比转换的结果，在其中渲染参数是固定的，色域裁剪，并有可能成为量化和压缩失真的数据，如增加较少时，从原始数据进行比已经呈现的图像文件时，可见文物的一个显着曝光不足的照片，结果曝光的大变革。原始数据更正和艺术手法留下更多的余地，而不产生的图像中可见的缺陷，如[色调分离](https://zh.wikipedia.org/wiki/色調分離 "wikilink")
     。
   - 所有的RAW图像文件所做的更改，非破坏性的，也就是说，只有控制渲染的元数据被改变，使不同的输出版本，离开原来的数据不变。
   - 在一定程度上的RAW摄影无需使用HDRI的技术，让现场强度范围映射到输出的色调范围超过了更好的控制，自动映射到[JPEG或其他](../Page/JPEG.md "wikilink")8位表示的过程。
@@ -145,17 +146,18 @@ Paint Shop Pro的同样包含RAW的支持，虽然在大多数编辑更新程序
 for Windows XP\]</ref> 在Windows相机解码包可以从120数码单反相机从多个厂家在Windows
 Explorer和Windows Live照片库[，Windows
 Vista](../Page/Windows_Vista.md "wikilink")
-[和](../Page/Windows_7.md "wikilink") Windows
-[7，RAW格式文件的本地观看](../Page/Windows_7.md "wikilink")。
+[和](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") Windows
+[7，RAW格式文件的本地观看](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 <ref>
 
 [1](http://www.microsoft.com/download/en/details.aspx?id=26829) Windows
 Camera Codec pack</ref>
 
 Windows
-XP和Vista都支持WIC编解码标准。如[Konvertor](../Page/Konvertor.md "wikilink")，[Windows
-相片圖庫](../Page/Windows_相片圖庫.md "wikilink")，[Windows Live
-影像中心和](../Page/Windows_Live_影像中心.md "wikilink")[FastPictureViewer等专业](../Page/FastPictureViewer.md "wikilink")​​产品<ref>
+XP和Vista都支持WIC编解码标准。如[Konvertor](https://zh.wikipedia.org/wiki/Konvertor "wikilink")，[Windows
+相片圖庫](https://zh.wikipedia.org/wiki/Windows_相片圖庫 "wikilink")，[Windows
+Live
+影像中心和](https://zh.wikipedia.org/wiki/Windows_Live_影像中心 "wikilink")[FastPictureViewer等专业](https://zh.wikipedia.org/wiki/FastPictureViewer "wikilink")​​产品<ref>
 
 [FastPictureViewer的图像格式兼容性图表](http://www.fastpictureviewer.com/formats/)</ref>可以查看RAW格式，安装必要的WIC编解码器
 。相机厂商[佳能](../Page/佳能.md "wikilink") ， [尼康](../Page/尼康.md "wikilink") ，
@@ -165,7 +167,7 @@ XP和Vista都支持WIC编解码标准。如[Konvertor](../Page/Konvertor.md "wik
 Vista团队博客](http://windowsvistablog.com/blogs/windowsvista/archive/2007/02/15/understanding-raw-image-support-in-windows-vista.aspx)
 
 [Windows
-8更可以查看RAW格式](../Page/Windows_8.md "wikilink")，而廠商支援的编解码器可以透過[Windows
+8更可以查看RAW格式](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，而廠商支援的编解码器可以透過[Windows
 Update來更新RAW支援格式](../Page/Windows_Update.md "wikilink")。
 
 </ref>商业DNG格式编解码器也是可用从Ardfry，
@@ -177,12 +179,11 @@ RAW格式的支持在32位和64位版本的Windows为donationware， <ref>
 </ref>
 
 2005年，
-[苹果电脑公司推出了几种产品](../Page/蘋果公司.md "wikilink")，提供原始文件支持。在1月，苹果发布[的iPhoto](../Page/IPhoto.md "wikilink")
+[苹果电脑公司推出了几种产品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，提供原始文件支持。在1月，苹果发布[的iPhoto](../Page/IPhoto.md "wikilink")
 5，提供了许多原始的文件格式查看和编辑的基本支持。在这一年的4月，苹果推出了新版本，其操作系统[，Mac OS X
-v10.4的中](../Page/Mac_OS_X_v10.4.md "wikilink")
-，增加了原料直接支持的操作系统的ImageIO框架，增加了原材料的支持自动大多数的Mac的一部分OS
-X的应用，从苹果公司（如Mac OS
-X的预览，PDF和图像浏览应用程序和[光圈](../Page/Aperture.md "wikilink")
+v10.4的中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")
+，增加了原料直接支持的操作系统的ImageIO框架，增加了原材料的支持自动大多数的Mac的一部分OS X的应用，从苹果公司（如Mac
+OS X的预览，PDF和图像浏览应用程序和[光圈](../Page/Aperture.md "wikilink")
 ，照片后期制作专业人员的软件包）以及所有的第三方应用程序使用的ImageIO框架。一般包括半定期更新到OS
 X更新为相机生产商的干预个月推出的新的原始文件格式的支持。
 
@@ -204,8 +205,8 @@ API编写。darktable是一个开放源码的Linux和其他开放的类Unix操�
 
 DigiKam的是一个开放源码的先进的数字照片软件，应用于Linux，Windows和Mac
 OSX，支持RAW处理管理中的应用。ExifTool支持读取，处理和编辑原始图像文件的元数据。ExifTool支持EXIF，GPS，
-国际报业电信委员会 的[XMP，JFIF](../Page/XMP，JFIF.md "wikilink") 的 ，GeoTIFF的
-ICC配置文件
+国际报业电信委员会 的[XMP，JFIF](https://zh.wikipedia.org/wiki/XMP，JFIF "wikilink")
+的 ，GeoTIFF的 ICC配置文件
 ，Photoshop的内部评级法的Flashpix，AFCP和ID3，以及许多数码相机的制造商注意到许多元数据，包括不同类型。
 
 最新版本的[GIMP，一个免费的开源的照片编辑包](../Page/GIMP.md "wikilink")，许多进口原材料的格式。旧版本有一个插件，允许读取和转换RAW文件。
@@ -225,7 +226,7 @@ ufraw的是自由软件的基础上修改的。它可以用来作为一个[GIMP�
 
 ## 标准化
 
-提供详细的原始文件的内容和简要说明很大的问题。原始格式没有统一的标准，各种格式可以相似或完全不同。不同的厂商使用自己专有的和通常不公开文档格式，但它们都统称为原始格式。而且在通常情况下，在相机型号更新时他们也会更改格式。几个主要的相机厂商，包括[尼康](../Page/尼康.md "wikilink")、[佳能](../Page/佳能.md "wikilink")、[索尼](../Page/索尼.md "wikilink")，[加密的文件部分在试图阻止第三方工具访问它们](../Page/加密.md "wikilink")。\[20\]
+提供详细的原始文件的内容和简要说明很大的问题。原始格式没有统一的标准，各种格式可以相似或完全不同。不同的厂商使用自己专有的和通常不公开文档格式，但它们都统称为原始格式。而且在通常情况下，在相机型号更新时他们也会更改格式。几个主要的相机厂商，包括[尼康](../Page/尼康.md "wikilink")、[佳能](../Page/佳能.md "wikilink")、[索尼](../Page/索尼.md "wikilink")，[加密的文件部分在试图阻止第三方工具访问它们](https://zh.wikipedia.org/wiki/加密 "wikilink")。\[20\]
 
 这种全行业的格式不一致的情况被许多摄影师关注，他们担心他们宝贵的原始照片可能有一天会再也无法打开，比如电脑操作系统和软件程序变得过时而新的软件放弃了过时的原始格式。提供高品质的[开源软件解码的原始图像格式](../Page/开放源代码.md "wikilink")，特别是dcraw，有助于缓解这些问题。一个由和克林斯曼施佩希特的文章说：“有两个解决方案：一，由相机生产商公开原始格式的文档；二，过去、现在和未来，更可能采取一个通用的原始格式。”\[21\]“美国国会图书馆规划集”辨识原始文件为“不太理想的文件格式”，辨识DNG作为建议替代格式。\[22\]
 
@@ -239,7 +240,7 @@ ISO标准的原始图像格式是ISO
 (scroll down a
 bit)</ref>几个相机使用他们的原始图像格式DNG格式，所以在一些方面，他们也使用的TIFF/EP。\[24\]
 
-[奥多比系统公司](../Page/奥多比系统公司.md "wikilink")（Adobe）在2004年9月推出了DNG原始图像格式。2006年9月，很多相机制造商宣布已开始在新型号的相机提供对DNG格式的支持，包括[徕卡](../Page/徕卡.md "wikilink")、[三星](../Page/三星集团.md "wikilink")、[理光](../Page/理光.md "wikilink")、[宾得](../Page/賓得士.md "wikilink")、[哈苏](../Page/哈苏.md "wikilink")（相机原生支持）和（导出）。\[25\]徕卡数码MODUL-R（DMR）是第一个使用其原生格式为DNG格式。
+[奥多比系统公司](https://zh.wikipedia.org/wiki/奥多比系统公司 "wikilink")（Adobe）在2004年9月推出了DNG原始图像格式。2006年9月，很多相机制造商宣布已开始在新型号的相机提供对DNG格式的支持，包括[徕卡](https://zh.wikipedia.org/wiki/徕卡 "wikilink")、[三星](https://zh.wikipedia.org/wiki/三星集团 "wikilink")、[理光](../Page/理光.md "wikilink")、[宾得](../Page/賓得士.md "wikilink")、[哈苏](../Page/哈苏.md "wikilink")（相机原生支持）和（导出）。\[25\]徕卡数码MODUL-R（DMR）是第一个使用其原生格式为DNG格式。
 \[26\]2009年9月就没有已知的知识产权障碍或DNG格式的许可证要求。\[27\]（有一个“数字负片（DNG）规范专利许可证”，\[28\]但不实际拥有，
 *有* DNG格式上举行的任何专利，2009年9月说，至少4年后才能得到这个出版许可证）。
 
@@ -254,7 +255,7 @@ DNG格式已利用开放源码的开发。
 
 ## 文件的处理
 
-要查看或打印这些图片，需要从相机的[图像传感器的输出进行处理](../Page/图像传感器.md "wikilink")，转换到照片渲染，然后储存在一个标准的[光栅图形格式中](../Page/位图.md "wikilink")，如[.JPEG这种处理](../Page/JPEG.md "wikilink")，无论是在相机或以后在原始文件转换器中所涉及的操作，典型的有：
+要查看或打印这些图片，需要从相机的[图像传感器的输出进行处理](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")，转换到照片渲染，然后储存在一个标准的[光栅图形格式中](../Page/位图.md "wikilink")，如[.JPEG这种处理](../Page/JPEG.md "wikilink")，无论是在相机或以后在原始文件转换器中所涉及的操作，典型的有：
 \[36\] \[37\]
 
   - 解码 - 原始文件的图像数据通常编码压缩的目的，而且还经常混淆的目的（如佳能或尼康相机的原始文件）。
@@ -271,21 +272,21 @@ DNG格式已利用开放源码的开发。
 </ref> \[38\]
 -相机传感器捕获并存储在原始文件中的一个典型的10位或更多位的动态范围场景的亮度需要美观效果和正确观看上呈现低动态范围内的显示器或打印;色调再现通常包括单独的[色调映射和伽玛压缩步骤](../Page/色调映射.md "wikilink")。
 
-  - [压缩](../Page/影像壓縮.md "wikilink") -例如JPEG压缩
+  - [压缩](https://zh.wikipedia.org/wiki/影像壓縮 "wikilink") -例如JPEG压缩
 
-请注意，只有CFA传感器可以进行[去马赛克处理](../Page/去馬賽克.md "wikilink")，但它不适合[3CCD或](../Page/3CCD.md "wikilink")[FOVEON
-X3传感器](../Page/FOVEON_X3.md "wikilink")。
+请注意，只有CFA传感器可以进行[去马赛克处理](../Page/去馬賽克.md "wikilink")，但它不适合[3CCD或](https://zh.wikipedia.org/wiki/3CCD "wikilink")[FOVEON
+X3传感器](https://zh.wikipedia.org/wiki/FOVEON_X3 "wikilink")。
 
 相机和图像处理软件也可以执行后期的处理，以提高图像质量，例如：
 
-  - 去除系统噪点- 反偏见帧和[平场校正](../Page/平场校正.md "wikilink")
+  - 去除系统噪点- 反偏见帧和[平场校正](https://zh.wikipedia.org/wiki/平场校正 "wikilink")
   - 暗帧减法
   - 光学矫正- 镜头失真校正， [暗角校正和色彩边缘校正](../Page/暈影.md "wikilink")
   - 对比度增强
   - 反锐化掩模来提高清晰度
 
 [动态范围压缩，减轻阴影区域表现出的亮点](../Page/高动态范围成像.md "wikilink")
-当相机保存原始文件，它推迟处理;通常只有执行的处理是有缺陷的像素（有缺陷的像素被删除之前创建的文件的DNG规范要求拆除\[39\]保存原始文件之前，一些相机厂商做额外的处理;例如，尼康已经由[天文摄影批评降噪申请之前保存的原始文件](../Page/天文攝影.md "wikilink")。
+当相机保存原始文件，它推迟处理;通常只有执行的处理是有缺陷的像素（有缺陷的像素被删除之前创建的文件的DNG规范要求拆除\[39\]保存原始文件之前，一些相机厂商做额外的处理;例如，尼康已经由[天文摄影批评降噪申请之前保存的原始文件](https://zh.wikipedia.org/wiki/天文攝影 "wikilink")。
 \[40\]
 
 某些RAW格式还允许非线性量化 。 \[41\]
@@ -300,7 +301,7 @@ X3传感器](../Page/FOVEON_X3.md "wikilink")。
   - .crw.cr2（ [佳能](../Page/佳能.md "wikilink") ）
   - .cap.iiq.eip（Phase_One）
   - .dcs.dcr.drf.k25.kdc（ 柯达 ）
-  - .DNG（ [奥多比](../Page/奥多比.md "wikilink") ）
+  - .DNG（ [奥多比](https://zh.wikipedia.org/wiki/奥多比 "wikilink") ）
   - .ERF（ 爱普生 ）
   - .FFF（ 易迈康 ）
   - .MEF（ [玛米亚](../Page/玛米亚.md "wikilink") ）
@@ -313,14 +314,14 @@ X3传感器](../Page/FOVEON_X3.md "wikilink")。
   - .R3D（ Red ）
   - .raf（ [富士](../Page/富士胶片.md "wikilink") ）
   - .raw.rw2（ 松下 ）
-  - .raw.rwl.dng（ [莱卡](../Page/徕卡.md "wikilink") ）
+  - .raw.rwl.dng（ [莱卡](https://zh.wikipedia.org/wiki/徕卡 "wikilink") ）
   - .rwz（Rawzor）
   - .srw（ 三星 ）
   - [.X3F（西格玛](../Page/適馬.md "wikilink")）
 
 ## 参见
 
-  - [图像文件格式](../Page/图像文件格式.md "wikilink")
+  - [图像文件格式](https://zh.wikipedia.org/wiki/图像文件格式 "wikilink")
 
 ## 参考文献
 

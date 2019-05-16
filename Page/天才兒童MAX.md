@@ -1,13 +1,13 @@
 《**天才兒童MAX (a.k.a.
-天才電視小組MAX)**》（****）是[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")（）與[NHK世界台](../Page/NHK世界台.md "wikilink")（）針對[兒童與](../Page/兒童.md "wikilink")[青少年所播放的](../Page/青少年.md "wikilink")[兒童](../Page/兒童.md "wikilink")[電視節目](../Page/電視節目.md "wikilink")，主要內容是由被稱為「[TV戰士](../Page/TV戰士.md "wikilink")」的[青少年](../Page/青少年.md "wikilink")[童星參與各種挑戰](../Page/童星.md "wikilink")。由1993年4月5日開播至今，是很受歡迎的節目。
+天才電視小組MAX)**》（****）是[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")（）與[NHK世界台](https://zh.wikipedia.org/wiki/NHK世界台 "wikilink")（）針對[兒童與](https://zh.wikipedia.org/wiki/兒童 "wikilink")[青少年所播放的](../Page/青少年.md "wikilink")[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，主要內容是由被稱為「[TV戰士](../Page/TV戰士.md "wikilink")」的[青少年](../Page/青少年.md "wikilink")[童星參與各種挑戰](../Page/童星.md "wikilink")。由1993年4月5日開播至今，是很受歡迎的節目。
 
-NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間.md "wikilink")6點20分\~6點55分播出，NHK世界台則在日本時間每週二到週五下午6點25分\~6點59分播出，每集約35分鐘。
+NHK數位教育台在[日本時間每週一到週四下午](https://zh.wikipedia.org/wiki/日本時間 "wikilink")6點20分\~6點55分播出，NHK世界台則在日本時間每週二到週五下午6點25分\~6點59分播出，每集約35分鐘。
 
 關於系列的介紹請參照「[天才兒童系列
-(天才電視系列)](../Page/天才兒童系列_\(天才電視系列\).md "wikilink")」，演出者部分請參照「[TV戰士
-(電視戰士)](../Page/TV戰士_\(電視戰士\).md "wikilink")」，節目內的各單元請參照「[天才兒童MAX
-(天才電視小組MAX)的單元](../Page/天才兒童MAX_\(天才電視小組MAX\)的單元.md "wikilink")」，樂曲與節目內的[樂團請參照](../Page/樂團.md "wikilink")「[天才兒童MAX
-(天才電視小組MAX)音樂單元一覽](../Page/天才兒童MAX_\(天才電視小組MAX\)音樂單元一覽.md "wikilink")」，節目內播出的[連續劇請參照](../Page/連續劇.md "wikilink")「[天才兒童MAX連續劇一覽](../Page/天才兒童MAX連續劇一覽.md "wikilink")」。
+(天才電視系列)](https://zh.wikipedia.org/wiki/天才兒童系列_\(天才電視系列\) "wikilink")」，演出者部分請參照「[TV戰士
+(電視戰士)](https://zh.wikipedia.org/wiki/TV戰士_\(電視戰士\) "wikilink")」，節目內的各單元請參照「[天才兒童MAX
+(天才電視小組MAX)的單元](https://zh.wikipedia.org/wiki/天才兒童MAX_\(天才電視小組MAX\)的單元 "wikilink")」，樂曲與節目內的[樂團請參照](https://zh.wikipedia.org/wiki/樂團 "wikilink")「[天才兒童MAX
+(天才電視小組MAX)音樂單元一覽](https://zh.wikipedia.org/wiki/天才兒童MAX_\(天才電視小組MAX\)音樂單元一覽 "wikilink")」，節目內播出的[連續劇請參照](https://zh.wikipedia.org/wiki/連續劇 "wikilink")「[天才兒童MAX連續劇一覽](https://zh.wikipedia.org/wiki/天才兒童MAX連續劇一覽 "wikilink")」。
 
 ## 簡介
 
@@ -19,12 +19,12 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 節目的特徵是大量運用CG與攝影棚畫面合成的數位技術,這在開播當時來說是很稀有的。節目是在CT-415攝影棚進行攝影與CG合成。
 
 節目內容主要是以被稱為[TV戰士
-((電視戰士))](../Page/TV戰士_\(\(電視戰士\)\).md "wikilink")（）參與各種挑戰的企劃為中心.設定雖然每年變動,但也有像[音樂TV君](../Page/音樂TV君.md "wikilink")（）之類受歡迎的長壽單元.同時本節目也有現場直播,以及和觀眾們交流的單元.
+((電視戰士))](https://zh.wikipedia.org/wiki/TV戰士_\(\(電視戰士\)\) "wikilink")（）參與各種挑戰的企劃為中心.設定雖然每年變動,但也有像[音樂TV君](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink")（）之類受歡迎的長壽單元.同時本節目也有現場直播,以及和觀眾們交流的單元.
 
 另外,和NHK教育電視台的學校節目一樣,在每年暑假以及2月到3月的時候,會重播受歡迎的企劃以及劇集,
 動畫等.一般來說每播出新的4週節目,就會重播1週總集編,每年暑假7月到8月的時候重播第1學期的總集編,2月到3月的時候重播1年份的總集編。但2006年度第3學期增加播出了5週新的節目與現場直播,一直到3月上旬都有新的節目播出。
 
-平常播放時都是採用一般畫質播放,2005年度開始,NHK數位教育台（）在夏季日本[甲子園](../Page/甲子園.md "wikilink")[全國高等學校野球選手權大會期間播出天才兒童MAX時](../Page/全國高等學校野球選手權大會.md "wikilink"),部分項目有提供高解析度畫質與16:9的比例播放,而NHK教育台與NHK世界台播放這些項目時則會切除左右兩側畫面,並調整成4:3的比例播放.
+平常播放時都是採用一般畫質播放,2005年度開始,NHK數位教育台（）在夏季日本[甲子園](https://zh.wikipedia.org/wiki/甲子園 "wikilink")[全國高等學校野球選手權大會期間播出天才兒童MAX時](https://zh.wikipedia.org/wiki/全國高等學校野球選手權大會 "wikilink"),部分項目有提供高解析度畫質與16:9的比例播放,而NHK教育台與NHK世界台播放這些項目時則會切除左右兩側畫面,並調整成4:3的比例播放.
 
 ## 各年度的設定
 
@@ -42,14 +42,14 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 #### 蒸氣騎士團（）
 
-**蒸氣騎士團()**是守謢「**[優克迪爾](../Page/#優克迪爾.md "wikilink")**」和平之正義的[騎士團](../Page/騎士.md "wikilink")。天才兒童MAX的愛好者們有時候用**SK**來稱呼他們。其使命是遵從騎士道精神來執行國王的命令。率領他們的是Red長官→Red司令（[Red吉田](../Page/Red吉田.md "wikilink")）。與[蒸氣魔術師彼此間是競爭對手的關係](../Page/#蒸氣魔術師.md "wikilink")。他們的服裝似乎是根據騎士的形象來製作,但有著不少例外。附帶一提的是,2005年度的服裝是以西洋風格為基調。2006年度是以紅色日本風格的服裝為基調,但[細田羅夢是西洋風格](../Page/細田羅夢.md "wikilink"),[木內江莉與](../Page/木內江莉.md "wikilink")[加藤Gina是](../Page/加藤Gina.md "wikilink")[中華風格等](../Page/中華風格.md "wikilink"),也有著許多例外。他們平常似乎在進行[劍術的修行](../Page/劍.md "wikilink"),但使用劍的場面就整體來說卻非常少,
-在2005年度有2005年4月4日播出的[Barnes勇氣VS](../Page/Barnes勇氣.md "wikilink")[高橋郁哉](../Page/高橋郁哉.md "wikilink")、2005年6月1日播出[篠原愛實VS魔物ナメラ](../Page/篠原愛實.md "wikilink")、2005年9月12日播出的[木村遼希VS](../Page/木村遼希.md "wikilink")[淺野優梨愛](../Page/淺野優梨愛.md "wikilink"),2006年1月23日播出的Red長官VS高橋郁哉、2006年1月25日播出的篠原愛實VS黒き破壞者・空牙,總共只有5次。但2006年度播出的「[新優克迪爾故事](../Page/天TV連續劇#新優克迪爾故事.md "wikilink")」因為是隔週播出的關係,使用劍的場面變多了。目前有2006年4月3日播出的[一木有海VS](../Page/一木有海.md "wikilink")[永島謙二郎](../Page/永島謙二郎.md "wikilink"),Barnes勇氣VS[橋本甜歌](../Page/橋本甜歌.md "wikilink"),2006年4月7日播出的Barnes勇氣VS[千葉一磨](../Page/千葉一磨.md "wikilink"),Barnes勇氣VS[宇宙アメーバ(宇宙阿米巴)](../Page/宇宙アメーバ\(宇宙阿米巴\).md "wikilink"),5月24日播出的篠原愛實VSハッスル忍者タジリ時,在決鬥中使用了劍。另外在5月8日播出的故事中,篠原愛實在飯店的房間裡使用劍來趕蒼蠅。附帶一提的是,戰士們彼此間練習時是使用[スポーツチャンバラ用的劍](../Page/スポーツチャンバラ.md "wikilink")。曾有一次包括Red長官在內的成員受到黒ジョーキ魔法的精神支配而面臨了全滅的危機,但見習劍士・木村遼希化解了這個危機。這是拯救優克迪爾王國免於滅亡的偉大事蹟,但是因為在事件解決後眾人的精神才剛獲得解放,記憶變得模糊的關係,這件事並沒有被記載在[優克迪爾的歷史之中](../Page/#優克迪爾.md "wikilink")。
+**蒸氣騎士團()**是守謢「**[優克迪爾](https://zh.wikipedia.org/wiki/#優克迪爾 "wikilink")**」和平之正義的[騎士團](https://zh.wikipedia.org/wiki/騎士 "wikilink")。天才兒童MAX的愛好者們有時候用**SK**來稱呼他們。其使命是遵從騎士道精神來執行國王的命令。率領他們的是Red長官→Red司令（[Red吉田](https://zh.wikipedia.org/wiki/Red吉田 "wikilink")）。與[蒸氣魔術師彼此間是競爭對手的關係](https://zh.wikipedia.org/wiki/#蒸氣魔術師 "wikilink")。他們的服裝似乎是根據騎士的形象來製作,但有著不少例外。附帶一提的是,2005年度的服裝是以西洋風格為基調。2006年度是以紅色日本風格的服裝為基調,但[細田羅夢是西洋風格](../Page/細田羅夢.md "wikilink"),[木內江莉與](../Page/木內江莉.md "wikilink")[加藤Gina是](../Page/加藤Gina.md "wikilink")[中華風格等](https://zh.wikipedia.org/wiki/中華風格 "wikilink"),也有著許多例外。他們平常似乎在進行[劍術的修行](../Page/劍.md "wikilink"),但使用劍的場面就整體來說卻非常少,
+在2005年度有2005年4月4日播出的[Barnes勇氣VS](../Page/Barnes勇氣.md "wikilink")[高橋郁哉](../Page/高橋郁哉.md "wikilink")、2005年6月1日播出[篠原愛實VS魔物ナメラ](../Page/篠原愛實.md "wikilink")、2005年9月12日播出的[木村遼希VS](../Page/木村遼希.md "wikilink")[淺野優梨愛](../Page/淺野優梨愛.md "wikilink"),2006年1月23日播出的Red長官VS高橋郁哉、2006年1月25日播出的篠原愛實VS黒き破壞者・空牙,總共只有5次。但2006年度播出的「[新優克迪爾故事](https://zh.wikipedia.org/wiki/天TV連續劇#新優克迪爾故事 "wikilink")」因為是隔週播出的關係,使用劍的場面變多了。目前有2006年4月3日播出的[一木有海VS](../Page/一木有海.md "wikilink")[永島謙二郎](../Page/永島謙二郎.md "wikilink"),Barnes勇氣VS[橋本甜歌](../Page/橋本甜歌.md "wikilink"),2006年4月7日播出的Barnes勇氣VS[千葉一磨](../Page/千葉一磨.md "wikilink"),Barnes勇氣VS[宇宙アメーバ(宇宙阿米巴)](https://zh.wikipedia.org/wiki/宇宙アメーバ\(宇宙阿米巴\) "wikilink"),5月24日播出的篠原愛實VSハッスル忍者タジリ時,在決鬥中使用了劍。另外在5月8日播出的故事中,篠原愛實在飯店的房間裡使用劍來趕蒼蠅。附帶一提的是,戰士們彼此間練習時是使用[スポーツチャンバラ用的劍](https://zh.wikipedia.org/wiki/スポーツチャンバラ "wikilink")。曾有一次包括Red長官在內的成員受到黒ジョーキ魔法的精神支配而面臨了全滅的危機,但見習劍士・木村遼希化解了這個危機。這是拯救優克迪爾王國免於滅亡的偉大事蹟,但是因為在事件解決後眾人的精神才剛獲得解放,記憶變得模糊的關係,這件事並沒有被記載在[優克迪爾的歷史之中](https://zh.wikipedia.org/wiki/#優克迪爾 "wikilink")。
 
 #### 成員
 
 **2005年度**
 
-  - Red長官（[Red吉田](../Page/Red吉田.md "wikilink")）（）自稱「騎士中的騎士」
+  - Red長官（[Red吉田](https://zh.wikipedia.org/wiki/Red吉田 "wikilink")）（）自稱「騎士中的騎士」
   - [前田公輝](../Page/前田公輝.md "wikilink")
   - \-{[飯田里穗](../Page/飯田里穗.md "wikilink")}-
   - [Barnes勇氣](../Page/Barnes勇氣.md "wikilink") （）
@@ -60,18 +60,18 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
   - [淺野優梨愛](../Page/淺野優梨愛.md "wikilink")（）
   - [近藤Emma](../Page/近藤Emma.md "wikilink")（）
   - [藤本七海](../Page/藤本七海.md "wikilink")
-  - [藤田Ryan](../Page/藤田Ryan.md "wikilink")（）
+  - [藤田Ryan](https://zh.wikipedia.org/wiki/藤田Ryan "wikilink")（）
 
 **2006年度**
 
-  - Red司令（[Red吉田](../Page/Red吉田.md "wikilink")）（）
+  - Red司令（[Red吉田](https://zh.wikipedia.org/wiki/Red吉田 "wikilink")）（）
   - [篠原愛實](../Page/篠原愛實.md "wikilink")（）
   - [Barnes勇氣](../Page/Barnes勇氣.md "wikilink") （）
   - [大木梓彩](../Page/大木梓彩.md "wikilink")
   - [木內江莉](../Page/木內江莉.md "wikilink")（）
   - [高橋郁哉](../Page/高橋郁哉.md "wikilink")（）
   - [一木有海](../Page/一木有海.md "wikilink")
-  - [千秋Lacey](../Page/千秋Lacey.md "wikilink")（）
+  - [千秋Lacey](https://zh.wikipedia.org/wiki/千秋Lacey "wikilink")（）
   - [藤本七海](../Page/藤本七海.md "wikilink")
   - [小關裕太](../Page/小關裕太.md "wikilink")
   - [千葉一磨](../Page/千葉一磨.md "wikilink")
@@ -80,10 +80,10 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 #### 蒸氣魔術師（）
 
-**蒸氣魔術師(ジョーキマホーンズ)**是「**[優克迪爾](../Page/#優克迪爾.md "wikilink")**」裡研究[魔法的](../Page/魔法.md "wikilink")[魔術師軍團](../Page/魔術師.md "wikilink")。天才兒童MAX的愛好者們有時候用**JM**來稱呼他們。其使命是執行國王的命令以獲得獎賞。率領他們的是Golgo男爵→Golgo團長（[Golgo松本](../Page/Golgo松本.md "wikilink")）。與[蒸氣騎士團彼此間是競爭對手的關係](../Page/#蒸氣騎士團.md "wikilink")。他們的服裝似乎是根據魔法師的形象來製作,2005年度是以西洋風格的黑色,2006年度是以[印度風格的綠色為基調](../Page/印度風格.md "wikilink"),但也有不少例外。例如2006年度的[永島謙二郎的服裝是](../Page/永島謙二郎.md "wikilink")[日本風格的黑衣](../Page/日本風格.md "wikilink"),[伊倉愛美是](../Page/伊倉愛美.md "wikilink")[中華風格的黑衣](../Page/中華風格.md "wikilink")。他們平常似乎在進行[魔術的修行](../Page/魔術.md "wikilink"),但實際上使用魔術的場面就整體來說卻非常少,
-反而是虛晃一招的場面很多。例如在2005年4月4日播出的內容中,[洸太Lacey誇稱](../Page/洸太Lacey.md "wikilink")「用移動術把[de・Lencquesaing望移動了](../Page/de・Lencquesaing望.md "wikilink")1微米」,2006年1月23日播出的故事中,Golgo男爵運用眼睛的錯覺製造筆看起來被彎曲的現象,稱之為「用魔術彎曲的」等等。但是在2005年5月30日與2005年9月12日播出的內容中,Golgo男爵用瞬間移動的方式與煙霧一起登場。另外2005年6月1日播出了[一木有海使用召喚術](../Page/一木有海.md "wikilink"),2006年1月25日播出了[村田Chihiro使用魔力強化拳頭的情景](../Page/村田Chihiro.md "wikilink")。由以上看來,似乎不單單只是虛晃一招的集團。進入2006年度之後,在[新優克迪爾故事中有許多使用魔法的場面](../Page/天TV連續劇#新優克迪爾故事.md "wikilink")。主要有:
+**蒸氣魔術師(ジョーキマホーンズ)**是「**[優克迪爾](https://zh.wikipedia.org/wiki/#優克迪爾 "wikilink")**」裡研究[魔法的](../Page/魔法.md "wikilink")[魔術師軍團](https://zh.wikipedia.org/wiki/魔術師 "wikilink")。天才兒童MAX的愛好者們有時候用**JM**來稱呼他們。其使命是執行國王的命令以獲得獎賞。率領他們的是Golgo男爵→Golgo團長（[Golgo松本](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink")）。與[蒸氣騎士團彼此間是競爭對手的關係](https://zh.wikipedia.org/wiki/#蒸氣騎士團 "wikilink")。他們的服裝似乎是根據魔法師的形象來製作,2005年度是以西洋風格的黑色,2006年度是以[印度風格的綠色為基調](https://zh.wikipedia.org/wiki/印度風格 "wikilink"),但也有不少例外。例如2006年度的[永島謙二郎的服裝是](../Page/永島謙二郎.md "wikilink")[日本風格的黑衣](https://zh.wikipedia.org/wiki/日本風格 "wikilink"),[伊倉愛美是](../Page/伊倉愛美.md "wikilink")[中華風格的黑衣](https://zh.wikipedia.org/wiki/中華風格 "wikilink")。他們平常似乎在進行[魔術的修行](../Page/魔術.md "wikilink"),但實際上使用魔術的場面就整體來說卻非常少,
+反而是虛晃一招的場面很多。例如在2005年4月4日播出的內容中,[洸太Lacey誇稱](../Page/洸太Lacey.md "wikilink")「用移動術把[de・Lencquesaing望移動了](https://zh.wikipedia.org/wiki/de・Lencquesaing望 "wikilink")1微米」,2006年1月23日播出的故事中,Golgo男爵運用眼睛的錯覺製造筆看起來被彎曲的現象,稱之為「用魔術彎曲的」等等。但是在2005年5月30日與2005年9月12日播出的內容中,Golgo男爵用瞬間移動的方式與煙霧一起登場。另外2005年6月1日播出了[一木有海使用召喚術](../Page/一木有海.md "wikilink"),2006年1月25日播出了[村田Chihiro使用魔力強化拳頭的情景](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")。由以上看來,似乎不單單只是虛晃一招的集團。進入2006年度之後,在[新優克迪爾故事中有許多使用魔法的場面](https://zh.wikipedia.org/wiki/天TV連續劇#新優克迪爾故事 "wikilink")。主要有:
 
-  - 新的啟程（4月3日、5日播出）永島謙二郎發出雷擊（[咒語是](../Page/咒語.md "wikilink")「蒸氣魔法雷擊,來啊！」）,[木村遼希趁出現霧氣的空隙逃走](../Page/木村遼希.md "wikilink")（咒語名稱是「蒸氣魔法一人遁逃」,但能不能稱之為魔法還是個疑問）。
+  - 新的啟程（4月3日、5日播出）永島謙二郎發出雷擊（[咒語是](https://zh.wikipedia.org/wiki/咒語 "wikilink")「蒸氣魔法雷擊,來啊！」）,[木村遼希趁出現霧氣的空隙逃走](../Page/木村遼希.md "wikilink")（咒語名稱是「蒸氣魔法一人遁逃」,但能不能稱之為魔法還是個疑問）。
   - 任性行星（5月25日播出）・迪斯蘭迪斯行星（9月5日播出）[木內梨生奈變出了出現在空中的金屬臉盆](../Page/木內梨生奈.md "wikilink")（咒語是「蒸氣魔法奥義金屬・臉・盆！」。
   - 塢萊好行星（6月27日播出）木内梨生奈與[笠原拓巳使用](../Page/笠原拓巳.md "wikilink")「蒸氣魔法奥義雷擊」。
 
@@ -91,14 +91,14 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 **2005年度**
 
-  - Golgo男爵（[Golgo松本](../Page/Golgo松本.md "wikilink")）（）自稱「天才魔術師」
-  - [de・Lencquesaing望](../Page/de・Lencquesaing望.md "wikilink")（）
-  - [村田Chihiro](../Page/村田Chihiro.md "wikilink")（）
+  - Golgo男爵（[Golgo松本](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink")）（）自稱「天才魔術師」
+  - [de・Lencquesaing望](https://zh.wikipedia.org/wiki/de・Lencquesaing望 "wikilink")（）
+  - [村田Chihiro](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")（）
   - [洸太Lacey](../Page/洸太Lacey.md "wikilink")（）
   - [永島謙二郎](../Page/永島謙二郎.md "wikilink")
   - [伊倉愛美](../Page/伊倉愛美.md "wikilink")
   - [橋本甜歌](../Page/橋本甜歌.md "wikilink")
-  - [千秋Lacey](../Page/千秋Lacey.md "wikilink")（）
+  - [千秋Lacey](https://zh.wikipedia.org/wiki/千秋Lacey "wikilink")（）
   - [一木有海](../Page/一木有海.md "wikilink")
   - [木內梨生奈](../Page/木內梨生奈.md "wikilink")（）
   - [笠原拓巳](../Page/笠原拓巳.md "wikilink")
@@ -106,7 +106,7 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 **2006年度**
 
-  - Golgo團長（[Golgo松本](../Page/Golgo松本.md "wikilink")）（）
+  - Golgo團長（[Golgo松本](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink")）（）
   - [洸太Lacey](../Page/洸太Lacey.md "wikilink")（）
   - [伊倉愛美](../Page/伊倉愛美.md "wikilink")
   - [永島謙二郎](../Page/永島謙二郎.md "wikilink")
@@ -118,25 +118,25 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
   - [渡邊Elly](../Page/渡邊Elly.md "wikilink")（）
   - [笠原拓巳](../Page/笠原拓巳.md "wikilink")
   - [川﨑樹音](../Page/樹音.md "wikilink")
-  - [藤田Ryan](../Page/藤田Ryan.md "wikilink")（）
+  - [藤田Ryan](https://zh.wikipedia.org/wiki/藤田Ryan "wikilink")（）
 
 ### 優克迪遊樂園（）
 
 *'優克迪遊樂園
 **（***'）是2005年設定中優克迪爾裡的遊樂園.天才兒童系列在每週的最後一次播出時會有"現場直播".2005年度開始就在優克迪遊樂園進行星期四現場直播(木曜生放送).直播日有非常多的單元,包括到各地訪問,與招待來賓到攝影現場等等.
 
-一般來說,主持人是由中學2年級的戰士[前田公輝](../Page/前田公輝.md "wikilink")／[de・Lencquesaing望](../Page/de・Lencquesaing望.md "wikilink")、[村田Chihiro](../Page/村田Chihiro.md "wikilink")／-{[飯田里穗](../Page/飯田里穗.md "wikilink")}-裡面選出一男一女的組合來擔任.10月13日的部分是由[de・Lencquesaing望與](../Page/de・Lencquesaing望.md "wikilink")[篠原愛實搭配主持](../Page/篠原愛實.md "wikilink").2005年度最後一次播送時,由於全部戰士都有參與演出,所以根據單元不同而輪流主持.另外,去年現場直播幾乎沒有出現的[TIM的](../Page/TIM.md "wikilink")2人組在這個年度幾乎每次都會參與演出(不過5月26日播出時[Golgo松本因為別的節目工作的關係到英國去](../Page/Golgo松本.md "wikilink"),所以那一集沒有參加演出.).
+一般來說,主持人是由中學2年級的戰士[前田公輝](../Page/前田公輝.md "wikilink")／[de・Lencquesaing望](https://zh.wikipedia.org/wiki/de・Lencquesaing望 "wikilink")、[村田Chihiro](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")／-{[飯田里穗](../Page/飯田里穗.md "wikilink")}-裡面選出一男一女的組合來擔任.10月13日的部分是由[de・Lencquesaing望與](https://zh.wikipedia.org/wiki/de・Lencquesaing望 "wikilink")[篠原愛實搭配主持](../Page/篠原愛實.md "wikilink").2005年度最後一次播送時,由於全部戰士都有參與演出,所以根據單元不同而輪流主持.另外,去年現場直播幾乎沒有出現的[TIM的](https://zh.wikipedia.org/wiki/TIM "wikilink")2人組在這個年度幾乎每次都會參與演出(不過5月26日播出時[Golgo松本因為別的節目工作的關係到英國去](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink"),所以那一集沒有參加演出.).
 
 現場直播遇到每5週一次的通常總集編,暑假總集編,寒假總集編,2月到3月的年度總集編重播時都會停止.但長期重播期間中,每星期四都會重播其中的"優克之友"(ユゲトモ)單元.
 
-詳細內容請參見[天才兒童MAX的單元](../Page/天才兒童MAX的單元.md "wikilink").
+詳細內容請參見[天才兒童MAX的單元](https://zh.wikipedia.org/wiki/天才兒童MAX的單元 "wikilink").
 
 ### 優克迪花園（）
 
 *'優克迪花園
 **（***'）是2006年舞台優克迪爾裡面的花園,似乎位在優克迪爾最靠後面的地方.2006年度就在這裡開始進行星期四現場直播(木曜生放送).
 今年現場直播的標語是「快樂星期四！」(「ハッピー木曜！」),介紹觀眾們寄來在生活中感受到的快樂事物,以及從觀眾們應徵的來信中,進行"如果TV戰士能幫忙某件事,就會非常快樂."的單元.每當介紹觀眾的快樂來信後,或播出TV戰士幫忙的錄影畫面後,背景的植物就會開花.(仔細觀察可以發現,背景的花會排列成「快樂」的形狀.)
-主持人是第1期TV戰士的[山口美沙與藝人](../Page/山口美沙.md "wikilink")[井上Ma-](../Page/井上Ma-.md "wikilink").
+主持人是第1期TV戰士的[山口美沙與藝人](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")[井上Ma-](https://zh.wikipedia.org/wiki/井上Ma- "wikilink").
 
 #### ○○隊
 
@@ -192,16 +192,16 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 ### 成員
 
-  - くろひろ團（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）星期一\~星期三
+  - くろひろ團（[安田大サーカス](https://zh.wikipedia.org/wiki/安田大サーカス "wikilink")）星期一\~星期三
 
-`* ダンチョ團長（`[`團長`](../Page/團長.md "wikilink")`）`
-`* クロ教官（`[`クロちゃん`](../Page/クロちゃん.md "wikilink")`）`
-`* ヒロ委員長（`[`HIRO`](../Page/HIRO.md "wikilink")`）`
+`* ダンチョ團長（`[`團長`](https://zh.wikipedia.org/wiki/團長 "wikilink")`）`
+`* クロ教官（`[`クロちゃん`](https://zh.wikipedia.org/wiki/クロちゃん "wikilink")`）`
+`* ヒロ委員長（`[`HIRO`](https://zh.wikipedia.org/wiki/HIRO "wikilink")`）`
 
-  - [ハリセンボン](../Page/ハリセンボン.md "wikilink")
+  - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
-`* みのぽー（`[`箕輪春香`](../Page/箕輪春香.md "wikilink")`）`
+`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - Uto（ユート）
 
@@ -211,29 +211,29 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 `* `[`笠原拓巳`](../Page/笠原拓巳.md "wikilink")`（小学6年級）`
 `* `[`千葉一磨`](../Page/千葉一磨.md "wikilink")`（小学6年級）`
 `* `[`小關裕太`](../Page/小關裕太.md "wikilink")`（小学6年級）`
-`* `[`藤井千帆`](../Page/藤井千帆.md "wikilink")`（小学6年級）`
+`* `[`藤井千帆`](https://zh.wikipedia.org/wiki/藤井千帆 "wikilink")`（小学6年級）`
 `* `[`細田羅夢`](../Page/細田羅夢.md "wikilink")`（小学6年級）`
-`* `[`丸山瀨南`](../Page/丸山瀨南.md "wikilink")`（小学5年級）`
+`* `[`丸山瀨南`](https://zh.wikipedia.org/wiki/丸山瀨南 "wikilink")`（小学5年級）`
 `* `[`Melody``
- ``Chubak`](../Page/Melody_Chubak.md "wikilink")`（小学5年級）`
-`* `[`鍋本帆乃香`](../Page/鍋本帆乃香.md "wikilink")`（小学5年級）`
+ ``Chubak`](https://zh.wikipedia.org/wiki/Melody_Chubak "wikilink")`（小学5年級）`
+`* `[`鍋本帆乃香`](https://zh.wikipedia.org/wiki/鍋本帆乃香 "wikilink")`（小学5年級）`
 `* `[`Mitchell``
- ``Benjamin`](../Page/Mitchell_Benjamin.md "wikilink")`（小学4年級）`
+ ``Benjamin`](https://zh.wikipedia.org/wiki/Mitchell_Benjamin "wikilink")`（小学4年級）`
 
   - Lets（レッツ）
 
 `* `[`木村遼希`](../Page/木村遼希.md "wikilink")`　（中学1年級）`
-`* `[`木内梨生奈`](../Page/木内梨生奈.md "wikilink")`（中学1年級）`
+`* `[`木内梨生奈`](https://zh.wikipedia.org/wiki/木内梨生奈 "wikilink")`（中学1年級）`
 `* `[`渡邊Elly`](../Page/渡邊Elly.md "wikilink")`　（中学1年級）`
-`* `[`千秋Lacey`](../Page/千秋Lacey.md "wikilink")` （中学1年級）`
-`* `[`渡邊聖斗`](../Page/渡邊聖斗.md "wikilink")`　（小学6年級）`
-`* `[`長谷川明里`](../Page/長谷川明里.md "wikilink")`（小学6年級）`
-`* `[`藤田Ryan`](../Page/藤田Ryan.md "wikilink")`　（小学6年級）`
-`* `[`川崎樹音`](../Page/川崎樹音.md "wikilink")`　（小学6年級）`
-`* `[`荒木次元`](../Page/荒木次元.md "wikilink")`　（小学5年級）`
-`* `[`吉野翔太`](../Page/吉野翔太.md "wikilink")`　（小学5年級）`
+`* `[`千秋Lacey`](https://zh.wikipedia.org/wiki/千秋Lacey "wikilink")` （中学1年級）`
+`* `[`渡邊聖斗`](https://zh.wikipedia.org/wiki/渡邊聖斗 "wikilink")`　（小学6年級）`
+`* `[`長谷川明里`](https://zh.wikipedia.org/wiki/長谷川明里 "wikilink")`（小学6年級）`
+`* `[`藤田Ryan`](https://zh.wikipedia.org/wiki/藤田Ryan "wikilink")`　（小学6年級）`
+`* `[`川崎樹音`](https://zh.wikipedia.org/wiki/川崎樹音 "wikilink")`　（小学6年級）`
+`* `[`荒木次元`](https://zh.wikipedia.org/wiki/荒木次元 "wikilink")`　（小学5年級）`
+`* `[`吉野翔太`](https://zh.wikipedia.org/wiki/吉野翔太 "wikilink")`　（小学5年級）`
 `* `[`加藤Gina`](../Page/加藤Gina.md "wikilink")`　（小学5年級）`
-`* `[`松尾瑠璃`](../Page/松尾瑠璃.md "wikilink")`　（小学4年級）`
+`* `[`松尾瑠璃`](https://zh.wikipedia.org/wiki/松尾瑠璃 "wikilink")`　（小学4年級）`
 
 ### 2008年度
 
@@ -241,51 +241,51 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 ### 成員
 
-  - くろひろ團（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）星期一\~星期三
+  - くろひろ團（[安田大サーカス](https://zh.wikipedia.org/wiki/安田大サーカス "wikilink")）星期一\~星期三
 
-`* ダンチョ團長（`[`團長`](../Page/團長.md "wikilink")`）`
-`* クロ教官（`[`クロちゃん`](../Page/クロちゃん.md "wikilink")`）`
-`* ヒロ委員長（`[`HIRO`](../Page/HIRO.md "wikilink")`）`
+`* ダンチョ團長（`[`團長`](https://zh.wikipedia.org/wiki/團長 "wikilink")`）`
+`* クロ教官（`[`クロちゃん`](https://zh.wikipedia.org/wiki/クロちゃん "wikilink")`）`
+`* ヒロ委員長（`[`HIRO`](https://zh.wikipedia.org/wiki/HIRO "wikilink")`）`
 
-  - [ハリセンボン](../Page/ハリセンボン.md "wikilink")
+  - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
-`* みのぽー（`[`箕輪春香`](../Page/箕輪春香.md "wikilink")`）`
+`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - ミナリカ（MinaLica）
 
 `* `[`細田羅夢`](../Page/細田羅夢.md "wikilink")`（中学1年級）`
 `* `[`千葉一磨`](../Page/千葉一磨.md "wikilink")`（中学1年級）`
-`* `[`渡邊聖斗`](../Page/渡邊聖斗.md "wikilink")`（中学1年級）`
-`* `[`武田聖夜`](../Page/武田聖夜.md "wikilink")`（中学1年級）`
-`* `[`荒木次元`](../Page/荒木次元.md "wikilink")`（小学6年級）`
+`* `[`渡邊聖斗`](https://zh.wikipedia.org/wiki/渡邊聖斗 "wikilink")`（中学1年級）`
+`* `[`武田聖夜`](https://zh.wikipedia.org/wiki/武田聖夜 "wikilink")`（中学1年級）`
+`* `[`荒木次元`](https://zh.wikipedia.org/wiki/荒木次元 "wikilink")`（小学6年級）`
 `* `[`Mitchell``
- ``Benjamin`](../Page/Mitchell_Benjamin.md "wikilink")`（小学5年級）`
-`* `[`中村彩乃`](../Page/中村彩乃.md "wikilink")`（小学5年級）`
-`* `[`水本凛`](../Page/水本凛.md "wikilink")`（小学5年級）`
+ ``Benjamin`](https://zh.wikipedia.org/wiki/Mitchell_Benjamin "wikilink")`（小学5年級）`
+`* `[`中村彩乃`](https://zh.wikipedia.org/wiki/中村彩乃 "wikilink")`（小学5年級）`
+`* `[`水本凛`](https://zh.wikipedia.org/wiki/水本凛 "wikilink")`（小学5年級）`
 
   - フージャ（HooJya）
 
 `* `[`小關裕太`](../Page/小關裕太.md "wikilink")`（中学1年級）`
-`* `[`川崎樹音`](../Page/川崎樹音.md "wikilink")`（中学1年級）`
-`* `[`長谷川明里`](../Page/長谷川明里.md "wikilink")`（中学1年級）`
-`* `[`島田翼`](../Page/島田翼.md "wikilink")`（小学6年級）`
-`* `[`丸山瀨南`](../Page/丸山瀨南.md "wikilink")`（小学6年級）`
+`* `[`川崎樹音`](https://zh.wikipedia.org/wiki/川崎樹音 "wikilink")`（中学1年級）`
+`* `[`長谷川明里`](https://zh.wikipedia.org/wiki/長谷川明里 "wikilink")`（中学1年級）`
+`* `[`島田翼`](https://zh.wikipedia.org/wiki/島田翼 "wikilink")`（小学6年級）`
+`* `[`丸山瀨南`](https://zh.wikipedia.org/wiki/丸山瀨南 "wikilink")`（小学6年級）`
 `* `[`加藤Gina`](../Page/加藤Gina.md "wikilink")`（小学6年級）`
-`* `[`山田樹里亜`](../Page/山田樹里亜.md "wikilink")`（小学6年級）`
-`* `[`木村遼`](../Page/木村遼.md "wikilink")`（小学4年級）`
+`* `[`山田樹里亜`](https://zh.wikipedia.org/wiki/山田樹里亜 "wikilink")`（小学6年級）`
+`* `[`木村遼`](https://zh.wikipedia.org/wiki/木村遼 "wikilink")`（小学4年級）`
 
   - ドリック（DoRick）
 
 `* `[`笠原拓巳`](../Page/笠原拓巳.md "wikilink")`（中学1年級）`
-`* `[`藤井千帆`](../Page/藤井千帆.md "wikilink")`（中学1年級）`
-`* `[`吉野翔太`](../Page/吉野翔太.md "wikilink")`（小学6年級）`
+`* `[`藤井千帆`](https://zh.wikipedia.org/wiki/藤井千帆 "wikilink")`（中学1年級）`
+`* `[`吉野翔太`](https://zh.wikipedia.org/wiki/吉野翔太 "wikilink")`（小学6年級）`
 `* `[`重本小鳥`](../Page/重本小鳥.md "wikilink")`（小学6年級）`
 `* `[`Melody``
- ``Chubak`](../Page/Melody_Chubak.md "wikilink")`（小学6年級）`
-`* `[`鍋本帆乃香`](../Page/鍋本帆乃香.md "wikilink")`（小学6年級）`
-`* `[`伊藤元太`](../Page/伊藤元太.md "wikilink")`（小学5年級）`
-`* `[`田中理来`](../Page/田中理来.md "wikilink")`（小学5年級）`
+ ``Chubak`](https://zh.wikipedia.org/wiki/Melody_Chubak "wikilink")`（小学6年級）`
+`* `[`鍋本帆乃香`](https://zh.wikipedia.org/wiki/鍋本帆乃香 "wikilink")`（小学6年級）`
+`* `[`伊藤元太`](https://zh.wikipedia.org/wiki/伊藤元太 "wikilink")`（小学5年級）`
+`* `[`田中理来`](https://zh.wikipedia.org/wiki/田中理来 "wikilink")`（小学5年級）`
 
 ### 2009年度
 
@@ -293,40 +293,41 @@ NHK數位教育台在[日本時間每週一到週四下午](../Page/日本時間
 
 ### 成員
 
-  - [照英](../Page/照英.md "wikilink")　　星期一\~星期三
+  - [照英](https://zh.wikipedia.org/wiki/照英 "wikilink")　　星期一\~星期三
   - [西山茉希星期一](../Page/西山茉希.md "wikilink")\~星期三
 
 <!-- end list -->
 
-  - [ハリセンボン](../Page/ハリセンボン.md "wikilink")
+  - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
-`* みのぽー（`[`箕輪春香`](../Page/箕輪春香.md "wikilink")`）`
+`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - [笠原拓巳](../Page/笠原拓巳.md "wikilink")（中学2年級）
   - [千葉一磨](../Page/千葉一磨.md "wikilink")（中学2年級）
-  - [武田聖夜](../Page/武田聖夜.md "wikilink")（中学2年級）
-  - [藤井千帆](../Page/藤井千帆.md "wikilink")（中学2年級）
-  - [長谷川明里](../Page/長谷川明里.md "wikilink")（中学2年級）
-  - [荒木次元](../Page/荒木次元.md "wikilink")（中学1年級）
-  - [齊藤稜駿](../Page/齊藤稜駿.md "wikilink")（中学1年級）
+  - [武田聖夜](https://zh.wikipedia.org/wiki/武田聖夜 "wikilink")（中学2年級）
+  - [藤井千帆](https://zh.wikipedia.org/wiki/藤井千帆 "wikilink")（中学2年級）
+  - [長谷川明里](https://zh.wikipedia.org/wiki/長谷川明里 "wikilink")（中学2年級）
+  - [荒木次元](https://zh.wikipedia.org/wiki/荒木次元 "wikilink")（中学1年級）
+  - [齊藤稜駿](https://zh.wikipedia.org/wiki/齊藤稜駿 "wikilink")（中学1年級）
   - [加藤Gina](../Page/加藤Gina.md "wikilink")（中学1年級）
   - [重本小鳥](../Page/重本小鳥.md "wikilink")（中学1年級）
-  - [鈴木美知代](../Page/鈴木美知代.md "wikilink")（中学1年級）
-  - [鍋本帆乃香](../Page/鍋本帆乃香.md "wikilink")（中学1年級）
-  - [Melody Chubak](../Page/Melody_Chubak.md "wikilink")（中学1年級）
-  - [脇菜菜香](../Page/脇菜菜香.md "wikilink")（中学1年級）
-  - [中村彩乃](../Page/中村彩乃.md "wikilink")（小学6年級）
-  - [伊藤元太](../Page/伊藤元太.md "wikilink")（小学6年級）
-  - [平田真優香](../Page/平田真優香.md "wikilink")（小学6年級）
-  - [水本凛](../Page/水本凛.md "wikilink")（小学6年級）
-  - [渡邊青萊](../Page/渡邊青萊.md "wikilink")（小学6年級）
-  - [木村遼](../Page/木村遼.md "wikilink")（小学5年級）
+  - [鈴木美知代](https://zh.wikipedia.org/wiki/鈴木美知代 "wikilink")（中学1年級）
+  - [鍋本帆乃香](https://zh.wikipedia.org/wiki/鍋本帆乃香 "wikilink")（中学1年級）
+  - [Melody
+    Chubak](https://zh.wikipedia.org/wiki/Melody_Chubak "wikilink")（中学1年級）
+  - [脇菜菜香](https://zh.wikipedia.org/wiki/脇菜菜香 "wikilink")（中学1年級）
+  - [中村彩乃](https://zh.wikipedia.org/wiki/中村彩乃 "wikilink")（小学6年級）
+  - [伊藤元太](https://zh.wikipedia.org/wiki/伊藤元太 "wikilink")（小学6年級）
+  - [平田真優香](https://zh.wikipedia.org/wiki/平田真優香 "wikilink")（小学6年級）
+  - [水本凛](https://zh.wikipedia.org/wiki/水本凛 "wikilink")（小学6年級）
+  - [渡邊青萊](https://zh.wikipedia.org/wiki/渡邊青萊 "wikilink")（小学6年級）
+  - [木村遼](https://zh.wikipedia.org/wiki/木村遼 "wikilink")（小学5年級）
   - [上妻成吾](../Page/上妻成吾.md "wikilink")（小学5年級）
-  - [鈴木純一朗](../Page/鈴木純一朗.md "wikilink")（小学5年級）
-  - [長江崚行](../Page/長江崚行.md "wikilink")（小学5年級）
-  - [鎮西壽壽歌](../Page/鎮西壽壽歌.md "wikilink")（小学5年級）
-  - [白坂奈奈](../Page/白坂奈奈.md "wikilink")（小学4年級）
+  - [鈴木純一朗](https://zh.wikipedia.org/wiki/鈴木純一朗 "wikilink")（小学5年級）
+  - [長江崚行](https://zh.wikipedia.org/wiki/長江崚行 "wikilink")（小学5年級）
+  - [鎮西壽壽歌](https://zh.wikipedia.org/wiki/鎮西壽壽歌 "wikilink")（小学5年級）
+  - [白坂奈奈](https://zh.wikipedia.org/wiki/白坂奈奈 "wikilink")（小学4年級）
 
 ## 歷史
 
@@ -408,22 +409,22 @@ Let's天才てれびくん 2014年3月31日 -
 
   - 優克迪爾（）
 
-播出時間與前一個年度相同,由下午6點20分開始播出到6點59分30秒。舞台是浮在空中的不可思議城市[優克迪爾](../Page/#優克迪爾.md "wikilink")。和去年一樣TV戰士分裂成兩個隊伍互相競爭。Red吉田的隊伍是[蒸氣騎士團](../Page/#蒸氣騎士團.md "wikilink")、Golgo松本的隊伍是[蒸氣魔術師](../Page/#蒸氣魔術師.md "wikilink")。新單元有「[天TV連續劇](../Page/天TV連續劇.md "wikilink")」、「[排名賓果](../Page/天才兒童MAX的單元#排名賓果.md "wikilink")」、「[全身書法教室](../Page/天才兒童MAX的單元#全身書法教室.md "wikilink")」、「[文字文字快遞](../Page/天才兒童MAX的單元#文字文字快遞.md "wikilink")」、「[天TV任務](../Page/天才兒童MAX的單元#天TV任務.md "wikilink")」等,此外去年度開始的「[紙飛機達陣賽](../Page/天才兒童MAX的單元#紙飛機達陣賽.md "wikilink")」、「[任性沒關係\!任意議會](../Page/天才兒童MAX的單元#任性沒關係!任意議會.md "wikilink")」繼續播出。在星期四現場直播中,主持人[TIM也每次都有出場](../Page/TIM.md "wikilink"),為節目增添了不少光彩。另外從前在節目中段播出的[音樂TV君則移動到片尾](../Page/音樂TV君.md "wikilink"),成為以「[片尾曲MTK](../Page/音樂TV君.md "wikilink")」播出的形式。另外[音樂TV君本身除了和過去一樣有年度全員一起歌唱的曲子外](../Page/音樂TV君.md "wikilink"),變成了各隊4個人,合計8個人來歌唱的形式
+播出時間與前一個年度相同,由下午6點20分開始播出到6點59分30秒。舞台是浮在空中的不可思議城市[優克迪爾](https://zh.wikipedia.org/wiki/#優克迪爾 "wikilink")。和去年一樣TV戰士分裂成兩個隊伍互相競爭。Red吉田的隊伍是[蒸氣騎士團](https://zh.wikipedia.org/wiki/#蒸氣騎士團 "wikilink")、Golgo松本的隊伍是[蒸氣魔術師](https://zh.wikipedia.org/wiki/#蒸氣魔術師 "wikilink")。新單元有「[天TV連續劇](https://zh.wikipedia.org/wiki/天TV連續劇 "wikilink")」、「[排名賓果](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#排名賓果 "wikilink")」、「[全身書法教室](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#全身書法教室 "wikilink")」、「[文字文字快遞](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#文字文字快遞 "wikilink")」、「[天TV任務](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#天TV任務 "wikilink")」等,此外去年度開始的「[紙飛機達陣賽](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#紙飛機達陣賽 "wikilink")」、「[任性沒關係\!任意議會](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#任性沒關係!任意議會 "wikilink")」繼續播出。在星期四現場直播中,主持人[TIM也每次都有出場](https://zh.wikipedia.org/wiki/TIM "wikilink"),為節目增添了不少光彩。另外從前在節目中段播出的[音樂TV君則移動到片尾](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink"),成為以「[片尾曲MTK](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink")」播出的形式。另外[音樂TV君本身除了和過去一樣有年度全員一起歌唱的曲子外](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink"),變成了各隊4個人,合計8個人來歌唱的形式
 。2005年度的片頭曲影片與2003年度、2004年度相同,是介紹成員的預錄影片。只是過去都是用真人演出的方式,2005年度則是用動畫方式表現。
 
   - 2005年4月4日 - 畢業戰士6名,加入了新人戰士8名,TV戰士的人數成為22個人 。
   - 2005年4月25日 -
-    由於發生了[JR福知山線出軌事故](../Page/JR福知山線出軌事故.md "wikilink"),、日本關西地區當天從早到晚都以字幕方式持續播出事故中受害者目前狀態的情報,因此當天的天才兒童MAX旁邊也加上了字幕（但當天的内容除了[\#優克迪優樂園的告知這部分外](../Page/#優克迪優樂園.md "wikilink"),都有在到7月18日為止的期間中加以重播）。
+    由於發生了[JR福知山線出軌事故](../Page/JR福知山線出軌事故.md "wikilink"),、日本關西地區當天從早到晚都以字幕方式持續播出事故中受害者目前狀態的情報,因此當天的天才兒童MAX旁邊也加上了字幕（但當天的内容除了[\#優克迪優樂園的告知這部分外](https://zh.wikipedia.org/wiki/#優克迪優樂園 "wikilink"),都有在到7月18日為止的期間中加以重播）。
   - 2005年8月8日～18日 -
-    往年這個時期因為轉播高中棒球而停止播出的部分會移到後面的日期播出,但2005年度則不同。2005年度的[天TV連續劇由於是分成](../Page/天TV連續劇.md "wikilink")3天播出的關係,如果延後播出的話就會變成跨週播出。因此[天TV連續劇是編排成能在當週播完的形式](../Page/天TV連續劇.md "wikilink")。
-      - 再編排時去除的重播單元…[排名賓果](../Page/天才兒童MAX的單元#排名賓果.md "wikilink")(6)、[全身書法教室](../Page/天才兒童MAX的單元#全身書法教室.md "wikilink")(7)(8)(8原本是星期一暫停播出時,排在星期三重播,但由於星期二也暫停播出的關係而沒有重播)、[文字文字快遞](../Page/天才兒童MAX的單元#文字文字快遞.md "wikilink")(7)(3)(8)(9)(10)、[紙飛機達陣賽](../Page/天才兒童MAX的單元#紙飛機達陣賽.md "wikilink")(10)～(12)、[\#優克迪優樂園](../Page/#優克迪優樂園.md "wikilink")「ガッツ石松」、[任性沒關係\!任意議會](../Page/天才兒童MAX的單元#任性沒關係!任意議會.md "wikilink")(3)、[片尾曲MTK](../Page/片尾曲MTK.md "wikilink")「僕らのハーモニー」、[天TV任務](../Page/天才兒童MAX的單元#天TV任務.md "wikilink")(4)(6)(8)
-      - 再編排時追加的單元…[經典MTK](../Page/音樂TV君#經典MTK.md "wikilink")「ココロ磁石」「ヴォヤージュ±」、ED「未来はジョウキゲン」（8月10日）、[經典MTK](../Page/音樂TV君#經典MTK.md "wikilink")「モンキーマジック」「ホーリー&ブライト」、觀眾寄來的圖畫介紹、ED「未来はジョウキゲン」（8月17日）
+    往年這個時期因為轉播高中棒球而停止播出的部分會移到後面的日期播出,但2005年度則不同。2005年度的[天TV連續劇由於是分成](https://zh.wikipedia.org/wiki/天TV連續劇 "wikilink")3天播出的關係,如果延後播出的話就會變成跨週播出。因此[天TV連續劇是編排成能在當週播完的形式](https://zh.wikipedia.org/wiki/天TV連續劇 "wikilink")。
+      - 再編排時去除的重播單元…[排名賓果](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#排名賓果 "wikilink")(6)、[全身書法教室](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#全身書法教室 "wikilink")(7)(8)(8原本是星期一暫停播出時,排在星期三重播,但由於星期二也暫停播出的關係而沒有重播)、[文字文字快遞](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#文字文字快遞 "wikilink")(7)(3)(8)(9)(10)、[紙飛機達陣賽](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#紙飛機達陣賽 "wikilink")(10)～(12)、[\#優克迪優樂園](https://zh.wikipedia.org/wiki/#優克迪優樂園 "wikilink")「ガッツ石松」、[任性沒關係\!任意議會](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#任性沒關係!任意議會 "wikilink")(3)、[片尾曲MTK](https://zh.wikipedia.org/wiki/片尾曲MTK "wikilink")「僕らのハーモニー」、[天TV任務](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#天TV任務 "wikilink")(4)(6)(8)
+      - 再編排時追加的單元…[經典MTK](https://zh.wikipedia.org/wiki/音樂TV君#經典MTK "wikilink")「ココロ磁石」「ヴォヤージュ±」、ED「未来はジョウキゲン」（8月10日）、[經典MTK](https://zh.wikipedia.org/wiki/音樂TV君#經典MTK "wikilink")「モンキーマジック」「ホーリー&ブライト」、觀眾寄來的圖畫介紹、ED「未来はジョウキゲン」（8月17日）
   - 這個年度取消了過去一直舉辦的冬季公演。取而代之的是從1月23日到25日的3天裡面,播出由全部[TV戰士參加的企劃](../Page/TV戰士.md "wikilink")「天TV東海道接力賽」。
   - 2006年3月29日 - 因為播出高中棒球而暫停播出。
   - 2006年3月30日 -
     2005年度的最後一天播出。但因為播出高中棒球而暫停播出的關係,2005年度在3月28日是在通常時段播出的最後一天。
   - 2006年4月2日 -
-    因為播出高中棒球而暫停播出的[天TV連續劇](../Page/天TV連續劇.md "wikilink")「[優克迪爾故事最終章](../Page/天TV連續劇#天TV連續劇（2005年度）.md "wikilink")」第2・3話與之後的故事在18:00～18:25作為不同於往常的特別節目播出。
+    因為播出高中棒球而暫停播出的[天TV連續劇](https://zh.wikipedia.org/wiki/天TV連續劇 "wikilink")「[優克迪爾故事最終章](https://zh.wikipedia.org/wiki/天TV連續劇#天TV連續劇（2005年度） "wikilink")」第2・3話與之後的故事在18:00～18:25作為不同於往常的特別節目播出。
 
 ### 2006年度
 
@@ -432,22 +433,22 @@ Let's天才てれびくん 2014年3月31日 -
 播出時間由下午6點20分開始到下午6點55分，縮短了5分鐘，回復為當初的35分鐘節目。雖然播出時間縮短，但由於會一直播出新節目到3月的關係，實際上節目的內容大幅增加了
 。
 
-舞台是接續上一年度的[優克迪爾](../Page/#優克迪爾.md "wikilink")。設定上是優克迪爾在2005年度之後已經經過了500年。和去年一樣TV戰士分裂成兩個隊伍互相競爭。但是爭執的樣子不像2005年度那麼激烈。Red吉田的隊伍是[蒸氣騎士團](../Page/#蒸氣騎士團.md "wikilink")、Golgo松本的隊伍是[蒸氣魔術師](../Page/#蒸氣魔術師.md "wikilink")。隊伍成員和2005年度幾乎相同、但是部分的戰士移動到另一方的隊伍。（千秋Lacey、一木有海由蒸氣魔術師移動到蒸氣騎士團、木村遼希、藤田Ryan則由蒸氣騎士團移動到蒸氣魔術師）
+舞台是接續上一年度的[優克迪爾](https://zh.wikipedia.org/wiki/#優克迪爾 "wikilink")。設定上是優克迪爾在2005年度之後已經經過了500年。和去年一樣TV戰士分裂成兩個隊伍互相競爭。但是爭執的樣子不像2005年度那麼激烈。Red吉田的隊伍是[蒸氣騎士團](https://zh.wikipedia.org/wiki/#蒸氣騎士團 "wikilink")、Golgo松本的隊伍是[蒸氣魔術師](https://zh.wikipedia.org/wiki/#蒸氣魔術師 "wikilink")。隊伍成員和2005年度幾乎相同、但是部分的戰士移動到另一方的隊伍。（千秋Lacey、一木有海由蒸氣魔術師移動到蒸氣騎士團、木村遼希、藤田Ryan則由蒸氣騎士團移動到蒸氣魔術師）
 
-新單元有「[新ユゲデール物語](../Page/天TV連續劇#新ユゲデール物語.md "wikilink")」、「[放課後コロシアム](../Page/天才兒童MAX的單元#放課後コロシアム.md "wikilink")」、「[天TV部活動](../Page/天才兒童MAX的單元#天てれ部活動.md "wikilink")」、接續上一年度的「[紙飛機達陣賽](../Page/天才兒童MAX的單元#紙飛機達陣賽.md "wikilink")」、「[ワガママ放題\!勝手議会](../Page/天才兒童MAX的單元#ワガママ放題!勝手議会.md "wikilink")」、「[天TV連續劇](../Page/天TV連續劇.md "wikilink")」、「[天てれミッション](../Page/天才兒童MAX的單元#天てれミッション.md "wikilink")」、「[片尾MTK](../Page/音樂TV君.md "wikilink")」。
+新單元有「[新ユゲデール物語](https://zh.wikipedia.org/wiki/天TV連續劇#新ユゲデール物語 "wikilink")」、「[放課後コロシアム](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#放課後コロシアム "wikilink")」、「[天TV部活動](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#天てれ部活動 "wikilink")」、接續上一年度的「[紙飛機達陣賽](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#紙飛機達陣賽 "wikilink")」、「[ワガママ放題\!勝手議会](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#ワガママ放題!勝手議会 "wikilink")」、「[天TV連續劇](https://zh.wikipedia.org/wiki/天TV連續劇 "wikilink")」、「[天てれミッション](https://zh.wikipedia.org/wiki/天才兒童MAX的單元#天てれミッション "wikilink")」、「[片尾MTK](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink")」。
 
-另一方面,星期四現場直播則加上了「快樂星期四(ハッピー木曜\!)」這個副標題、由[井上Ma-與初代](../Page/井上Ma-.md "wikilink")[TV戰士的](../Page/TV戰士.md "wikilink")[山口美沙擔任主持人](../Page/山口美沙.md "wikilink")。因此2006年度[TIM沒有參加現場直播](../Page/TIM.md "wikilink")，但在2007年3月8日這一天特別參加了現場直播的演出。因為這個年度也是世界盃足球賽舉行的年度，因此有多項以擅長足球的[木村遼希為中心](../Page/木村遼希.md "wikilink")，在現場直播內舉行的外景單元等多項企劃。
+另一方面,星期四現場直播則加上了「快樂星期四(ハッピー木曜\!)」這個副標題、由[井上Ma-與初代](https://zh.wikipedia.org/wiki/井上Ma- "wikilink")[TV戰士的](../Page/TV戰士.md "wikilink")[山口美沙擔任主持人](https://zh.wikipedia.org/wiki/山口美沙 "wikilink")。因此2006年度[TIM沒有參加現場直播](https://zh.wikipedia.org/wiki/TIM "wikilink")，但在2007年3月8日這一天特別參加了現場直播的演出。因為這個年度也是世界盃足球賽舉行的年度，因此有多項以擅長足球的[木村遼希為中心](../Page/木村遼希.md "wikilink")，在現場直播內舉行的外景單元等多項企劃。
 
-由於[村田Chihiro](../Page/村田Chihiro.md "wikilink")、-{[飯田里穗](../Page/飯田里穗.md "wikilink")}-畢業的關係，節目中沒有了來自於「天才兒童WIDE」時代的戰士、全部都是由「『天才兒童MAX』」時代的戰士來進行節目。
+由於[村田Chihiro](https://zh.wikipedia.org/wiki/村田Chihiro "wikilink")、-{[飯田里穗](../Page/飯田里穗.md "wikilink")}-畢業的關係，節目中沒有了來自於「天才兒童WIDE」時代的戰士、全部都是由「『天才兒童MAX』」時代的戰士來進行節目。
 
 節目片頭曲（星期一～星期三）是TV戰士與TIM的劇照（不附加名稱標牌）、另外會播出當天節目中頭條的2小段影片作為預告。
 
   - 4月3日 -
-    畢業戰士6名、加入了新人戰士8名、人數比前年度增加,成為天才兒童MAX史上最多的24個人。新年度的天才兒童MAX由『[新ユゲデール物語](../Page/天TV連續劇#新ユゲデール物語.md "wikilink")～新たなる旅立ち～』開始播出。
+    畢業戰士6名、加入了新人戰士8名、人數比前年度增加,成為天才兒童MAX史上最多的24個人。新年度的天才兒童MAX由『[新ユゲデール物語](https://zh.wikipedia.org/wiki/天TV連續劇#新ユゲデール物語 "wikilink")～新たなる旅立ち～』開始播出。
   - 8月7日～18日 -
     遇到轉播高中棒球時而暫停播出時、2005年度時是使用重新剪輯的特殊方式播出、但2006年度則有不同的方式。暫停播出時,當天預定播出的部分就跟著停止播出、但(NHK世界台(NHKワールド・プレミアム)則和平常一樣播出＝日本沒播出的總集編在國外得以播出）
   - 10月9日 -
-    因為「第73回[NHK全国学校音楽コンクール](../Page/NHK全国学校音楽コンクール.md "wikilink")・高等学校の部」而無法播出的「第61回[国民体育大会](../Page/国民体育大会.md "wikilink")」在18:00～19:00播出的關係，暫停播出一次。
+    因為「第73回[NHK全国学校音楽コンクール](https://zh.wikipedia.org/wiki/NHK全国学校音楽コンクール "wikilink")・高等学校の部」而無法播出的「第61回[国民体育大会](https://zh.wikipedia.org/wiki/国民体育大会 "wikilink")」在18:00～19:00播出的關係，暫停播出一次。
   - 10月10日～14日 - NHK世界台(NHKワールド・プレミアム)（針對國外）因為轉播「プロ野球
     パ・リーグプレーオフ」的關係、10月10日播出的部分和日本國內同一天播出（提前1天）、11日日本國內播出的部分則延到13日播出（延後1天）、12日日本國內播出的部分則改到14日的17:25～18:00播出（延後1天）。（以上的時間都是指日本時間）
   - 10月25日 - NHK世界台(NHKワールド・プレミアム)（針對國外）因為轉播「プロ野球日本シリーズ」的關係、暫停播出一次。
@@ -471,13 +472,15 @@ Let's天才てれびくん 2014年3月31日 -
 
 ### 開場曲
 
-  - タイムマシーンでいこう／[すかんち](../Page/すかんち.md "wikilink")(1993～1995)
-  - 星を見上げて／[SWITCH](../Page/SWITCH.md "wikilink")(1996)
-  - パリは恋の街／[TT CHARLIE](../Page/TT_CHARLIE.md "wikilink")(1997)
-  - テレビ万歳／[POA](../Page/POA.md "wikilink")(1999)
-  - スーパースピードスター／[carnies](../Page/carnies.md "wikilink")(2000)
-  - 夢をつかんで／[渡辺ヒロコ](../Page/渡辺ヒロコ.md "wikilink")(2001)
-  - 青い星／[LOVE JETS](../Page/LOVE_JETS.md "wikilink")(2002)
+  - タイムマシーンでいこう／[すかんち](https://zh.wikipedia.org/wiki/すかんち "wikilink")(1993～1995)
+  - 星を見上げて／[SWITCH](https://zh.wikipedia.org/wiki/SWITCH "wikilink")(1996)
+  - パリは恋の街／[TT
+    CHARLIE](https://zh.wikipedia.org/wiki/TT_CHARLIE "wikilink")(1997)
+  - テレビ万歳／[POA](https://zh.wikipedia.org/wiki/POA "wikilink")(1999)
+  - スーパースピードスター／[carnies](https://zh.wikipedia.org/wiki/carnies "wikilink")(2000)
+  - 夢をつかんで／[渡辺ヒロコ](https://zh.wikipedia.org/wiki/渡辺ヒロコ "wikilink")(2001)
+  - 青い星／[LOVE
+    JETS](https://zh.wikipedia.org/wiki/LOVE_JETS "wikilink")(2002)
   - 2003年度片頭主題曲(2003)
   - プラズマ回遊（縮短版）／[TV戰士](../Page/TV戰士.md "wikilink")'04(2004)
   - 未来はジョウキゲン（縮短版）／[TV戰士](../Page/TV戰士.md "wikilink")'05(2005)
@@ -488,25 +491,28 @@ Let's天才てれびくん 2014年3月31日 -
 
 ### 片尾曲
 
-  - YOU YOU YOU／[すかんち](../Page/すかんち.md "wikilink")(1993～1994前半)
-  - がんばってダーリン\!／[\#クリマカーユ](../Page/#クリマカーユ.md "wikilink")(1994後半～1995前半)
-  - ガンバレ\!アインシュタイン／[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink") with
-    [TV戰士](../Page/TV戰士.md "wikilink")1995(1995後半)
+  - YOU YOU
+    YOU／[すかんち](https://zh.wikipedia.org/wiki/すかんち "wikilink")(1993～1994前半)
+  - がんばってダーリン\!／[\#クリマカーユ](https://zh.wikipedia.org/wiki/#クリマカーユ "wikilink")(1994後半～1995前半)
+  - ガンバレ\!アインシュタイン／[ダチョウ倶楽部](https://zh.wikipedia.org/wiki/ダチョウ倶楽部 "wikilink")
+    with [TV戰士](../Page/TV戰士.md "wikilink")1995(1995後半)
   - キミはすてきさ\!ベイビーメイビー／[TV戰士](../Page/TV戰士.md "wikilink")1996(1996前半)
   - SUPER KIDS ARE
-    GO\!\!／[\#ストロベリーパフェ](../Page/#ストロベリーパフェ.md "wikilink")(1996後半)
-  - BE ALL RIGHT\!\!／[河相我聞](../Page/河相我聞.md "wikilink")(1997前半)
-  - BANG BANG BANG／[キャイ～ン](../Page/キャイ～ン.md "wikilink") with
-    [TV戰士](../Page/TV戰士.md "wikilink")1997(1997後半)
+    GO\!\!／[\#ストロベリーパフェ](https://zh.wikipedia.org/wiki/#ストロベリーパフェ "wikilink")(1996後半)
+  - BE ALL
+    RIGHT\!\!／[河相我聞](https://zh.wikipedia.org/wiki/河相我聞 "wikilink")(1997前半)
+  - BANG BANG
+    BANG／[キャイ～ン](https://zh.wikipedia.org/wiki/キャイ～ン "wikilink")
+    with [TV戰士](../Page/TV戰士.md "wikilink")1997(1997後半)
   - 君にクラクラ／[TV戰士](../Page/TV戰士.md "wikilink")1998 with
-    [山崎邦正](../Page/山崎邦正.md "wikilink")&[リサ・ステッグマイヤー](../Page/リサ・ステッグマイヤー.md "wikilink")(1998)
+    [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")&[リサ・ステッグマイヤー](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")(1998)
   - 恋の天才～ジョンとミケの場合／[TV戰士](../Page/TV戰士.md "wikilink")1999(1999)
-  - [ドキドキのち晴れ](../Page/ドキドキのち晴れ.md "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2000(2000)
+  - [ドキドキのち晴れ](https://zh.wikipedia.org/wiki/ドキドキのち晴れ "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2000(2000)
   - きらいじゃ★ブギ／[TV戰士](../Page/TV戰士.md "wikilink")2001(2001)
   - [LOVE IS
-    POP](../Page/LOVE_IS_POP.md "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2002(2002)
+    POP](https://zh.wikipedia.org/wiki/LOVE_IS_POP "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2002(2002)
   - good day／[TV戰士](../Page/TV戰士.md "wikilink")2003(2003)
-  - [プラズマ回遊](../Page/プラズマ回遊.md "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2004(2004)
+  - [プラズマ回遊](https://zh.wikipedia.org/wiki/プラズマ回遊 "wikilink")／[TV戰士](../Page/TV戰士.md "wikilink")2004(2004)
   - lovesong 2011
   - 恋する季節 2012
   - 告白 2013
@@ -518,36 +524,50 @@ Let's天才てれびくん 2014年3月31日 -
 
 ### CD單曲
 
-  - YOU YOU YOU／タイムマシーンでいこう／[すかんち](../Page/すかんち.md "wikilink")
+  - YOU YOU
+    YOU／タイムマシーンでいこう／[すかんち](https://zh.wikipedia.org/wiki/すかんち "wikilink")
     (1993/06/21)
-  - がんばってダーリン\!／[クリマカーユ](../Page/クリマカーユ.md "wikilink") (1994/09/10)
-  - ガンバレ\!アインシュタイン／[ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink") with
-    [TV戰士](../Page/TV戰士.md "wikilink")'95 (1995/09/06)
-  - 星を見上げて／[SWITCH](../Page/SWITCH.md "wikilink") (1996/06/26)
-  - パリは恋の街／[TT CHARLIE](../Page/TT_CHARLIE.md "wikilink") (1997/05/08)
-  - BE ALL RIGHT\!\!／[河相我聞](../Page/河相我聞.md "wikilink") (1997/06/25)
-  - BANG BANG BANG／[キャイ～ン](../Page/キャイ～ン.md "wikilink") with
-    [TV戰士](../Page/TV戰士.md "wikilink")'97 (1997/12/10)
+  - がんばってダーリン\!／[クリマカーユ](https://zh.wikipedia.org/wiki/クリマカーユ "wikilink")
+    (1994/09/10)
+  - ガンバレ\!アインシュタイン／[ダチョウ倶楽部](https://zh.wikipedia.org/wiki/ダチョウ倶楽部 "wikilink")
+    with [TV戰士](../Page/TV戰士.md "wikilink")'95 (1995/09/06)
+  - 星を見上げて／[SWITCH](https://zh.wikipedia.org/wiki/SWITCH "wikilink")
+    (1996/06/26)
+  - パリは恋の街／[TT
+    CHARLIE](https://zh.wikipedia.org/wiki/TT_CHARLIE "wikilink")
+    (1997/05/08)
+  - BE ALL
+    RIGHT\!\!／[河相我聞](https://zh.wikipedia.org/wiki/河相我聞 "wikilink")
+    (1997/06/25)
+  - BANG BANG
+    BANG／[キャイ～ン](https://zh.wikipedia.org/wiki/キャイ～ン "wikilink")
+    with [TV戰士](../Page/TV戰士.md "wikilink")'97 (1997/12/10)
   - 君にクラクラ／[TV戰士](../Page/TV戰士.md "wikilink")'98 with
-    [山崎邦正](../Page/山崎邦正.md "wikilink")&[リサ・ステッグマイヤー](../Page/リサ・ステッグマイヤー.md "wikilink")
+    [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")&[リサ・ステッグマイヤー](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー "wikilink")
     (1998/07/18)
-  - 空のたまご／[浜野和子](../Page/浜野和子.md "wikilink")(1999/11/20)（作詞・作曲：清水和彦（[The
-    Water Of Life](../Page/The_Water_Of_Life.md "wikilink")））
-  - スーパースピードスター／[carnies](../Page/carnies.md "wikilink") (2000/06/21)
+  - 空のたまご／[浜野和子](https://zh.wikipedia.org/wiki/浜野和子 "wikilink")(1999/11/20)（作詞・作曲：清水和彦（[The
+    Water Of
+    Life](https://zh.wikipedia.org/wiki/The_Water_Of_Life "wikilink")））
+  - スーパースピードスター／[carnies](https://zh.wikipedia.org/wiki/carnies "wikilink")
+    (2000/06/21)
   - きらいじゃ★ブギ／[TV戰士](../Page/TV戰士.md "wikilink")'01 (2001/04/21)
-  - 夢をつかんで／[渡辺ヒロコ](../Page/渡辺ヒロコ.md "wikilink")
+  - 夢をつかんで／[渡辺ヒロコ](https://zh.wikipedia.org/wiki/渡辺ヒロコ "wikilink")
     (2001/07/04)（「その日まで空を見て」のカップリング）
 
-上述以外的相關樂曲（CD單曲,合集）請參照『[音樂TV君](../Page/音樂TV君.md "wikilink")』。
+上述以外的相關樂曲（CD單曲,合集）請參照『[音樂TV君](https://zh.wikipedia.org/wiki/音樂TV君 "wikilink")』。
 
 ### DVD
 
-  - [ミュージックてれびくん](../Page/ミュージックてれびくん.md "wikilink") ザ・ビデオ 1～3
-    (2003/01/24)
-  - [ドラムカンナの冒険](../Page/ドラムカンナの冒険.md "wikilink") Vol.1～3 (2003/03/20)
-  - [恐竜惑星](../Page/恐竜惑星.md "wikilink") 1～7 (2003/06/27)
-  - [ジーンダイバー](../Page/ジーンダイバー.md "wikilink") 1～7 (2003/12/26)
-  - [救命戦士ナノセイバー](../Page/救命戦士ナノセイバー.md "wikilink") 1～7 (2004/03/26)
+  - [ミュージックてれびくん](https://zh.wikipedia.org/wiki/ミュージックてれびくん "wikilink")
+    ザ・ビデオ 1～3 (2003/01/24)
+  - [ドラムカンナの冒険](https://zh.wikipedia.org/wiki/ドラムカンナの冒険 "wikilink")
+    Vol.1～3 (2003/03/20)
+  - [恐竜惑星](https://zh.wikipedia.org/wiki/恐竜惑星 "wikilink") 1～7
+    (2003/06/27)
+  - [ジーンダイバー](https://zh.wikipedia.org/wiki/ジーンダイバー "wikilink") 1～7
+    (2003/12/26)
+  - [救命戦士ナノセイバー](https://zh.wikipedia.org/wiki/救命戦士ナノセイバー "wikilink")
+    1～7 (2004/03/26)
 
 ### 書籍
 
@@ -555,7 +575,7 @@ Let's天才てれびくん 2014年3月31日 -
   - バーチャル魔王をやっつけろ\!天才てれびくん冒険ゲーム (1994/12)
   - てれび戦士を救出せよ\!天才てれびくん迷路ゲーム (1995/01)
   - 恐竜惑星 1～2
-  - [転校生マオ](../Page/転校生マオ.md "wikilink") 1～2
+  - [転校生マオ](https://zh.wikipedia.org/wiki/転校生マオ "wikilink") 1～2
   - ジーンダイバー 1～2
 
 ## 公演
@@ -590,11 +610,11 @@ Let's天才てれびくん 2014年3月31日 -
 ## 外部連結
 
   - [天才兒童MAX](http://www3.nhk.or.jp/tvkun/)
-    ([日文](../Page/日文.md "wikilink"))
+    ([日文](https://zh.wikipedia.org/wiki/日文 "wikilink"))
   - [天才兒童MAX博物館(由愛好者製作)](https://web.archive.org/web/20060211113216/http://www5.plala.or.jp/hpmasa/index.html)
-    ([日文](../Page/日文.md "wikilink"))
+    ([日文](https://zh.wikipedia.org/wiki/日文 "wikilink"))
   - [三商多媒體,介紹NHK世界台節目與提供中文節目表](https://web.archive.org/web/20120605022439/http://nhk.mercuries.com.tw/)
-    ([中文](../Page/中文.md "wikilink"))
+    ([中文](https://zh.wikipedia.org/wiki/中文 "wikilink"))
 
 [Category:天才兒童MAX](https://zh.wikipedia.org/wiki/Category:天才兒童MAX "wikilink")
 [Category:1993年日本電視節目](https://zh.wikipedia.org/wiki/Category:1993年日本電視節目 "wikilink")

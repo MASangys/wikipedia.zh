@@ -1,4 +1,4 @@
-**[Xeon](../Page/Xeon.md "wikilink")**為[英特爾推出的處理器系列](../Page/英特爾.md "wikilink")，主要目標為伺服器及工作站，現今則伸展至追求極致遊戲體驗的高端玩家。
+**[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")**為[英特爾推出的處理器系列](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，主要目標為伺服器及工作站，現今則伸展至追求極致遊戲體驗的高端玩家。
 
 ## 基于[P6微架構的Xeon](../Page/P6微架構.md "wikilink")
 
@@ -9,13 +9,13 @@
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")*
   - 全部型號最大支援至四路處理器規格。
 
-| 型號                                                         | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻       | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                     | 發佈日期    |
-| ---------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | -------- | ------------------------------ | -------------------------------- | -------------------------------------- | ------- |
-| [Pentium II Xeon 400](http://ark.intel.com/products/49943) | B1      | 400 MHz                        | 512 KB                            | 100 MT/s                             | 4x       | 2.0 V                          | 30.8 W                           | [Slot 2](../Page/Slot_2.md "wikilink") | 1998年6月 |
-| [Pentium II Xeon 400](http://ark.intel.com/products/49942) | 1 MB    | 38.1 W                         |                                   |                                      |          |                                |                                  |                                        |         |
-| [Pentium II Xeon 450](http://ark.intel.com/products/49946) | 450 MHz | 512 KB                         | 4.5x                              | 34.5 W                               | 1998年10月 |                                |                                  |                                        |         |
-| [Pentium II Xeon 450](http://ark.intel.com/products/49944) | 1 MB    | 42.8 W                         | 1999年1月                           |                                      |          |                                |                                  |                                        |         |
-| [Pentium II Xeon 450](http://ark.intel.com/products/49945) | 2 MB    | 46.7 W                         |                                   |                                      |          |                                |                                  |                                        |         |
+| 型號                                                         | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻       | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                     | 發佈日期    |
+| ---------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------- | ------------------------------ | --------------------------------------------------- | -------------------------------------- | ------- |
+| [Pentium II Xeon 400](http://ark.intel.com/products/49943) | B1      | 400 MHz                                           | 512 KB                                               | 100 MT/s                                                | 4x       | 2.0 V                          | 30.8 W                                              | [Slot 2](../Page/Slot_2.md "wikilink") | 1998年6月 |
+| [Pentium II Xeon 400](http://ark.intel.com/products/49942) | 1 MB    | 38.1 W                                            |                                                      |                                                         |          |                                |                                                     |                                        |         |
+| [Pentium II Xeon 450](http://ark.intel.com/products/49946) | 450 MHz | 512 KB                                            | 4.5x                                                 | 34.5 W                                                  | 1998年10月 |                                |                                                     |                                        |         |
+| [Pentium II Xeon 450](http://ark.intel.com/products/49944) | 1 MB    | 42.8 W                                            | 1999年1月                                              |                                                         |          |                                |                                                     |                                        |         |
+| [Pentium II Xeon 450](http://ark.intel.com/products/49945) | 2 MB    | 46.7 W                                            |                                                      |                                                         |          |                                |                                                     |                                        |         |
 
 ### Pentium III Xeon
 
@@ -24,32 +24,32 @@
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
   - 全部型號最大支援至四路處理器規格。
 
-| 型號                                                                | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                     | 發佈日期       |
-| ----------------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | --------- | ------------------------------ | -------------------------------- | -------------------------------------- | ---------- |
-| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27561) | C0      | 500 MHz                        | 512 KB                            | 100 MT/s                             | 5x        | 2.0 V                          | 36 W                             | [Slot 2](../Page/Slot_2.md "wikilink") | 1999年3月17日 |
-| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27559) | 1 MB    | 44 W                           |                                   |                                      |           |                                |                                  |                                        |            |
-| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27560) | 2 MB    | 36.2 W                         |                                   |                                      |           |                                |                                  |                                        |            |
-| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27564) | 550 MHz | 512 KB                         | 5.5x                              | 34 W                                 | 1999年4月7日 |                                |                                  |                                        |            |
-| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27562) | 1 MB    |                                |                                   |                                      |           |                                |                                  |                                        |            |
-| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27563) | 2 MB    |                                |                                   |                                      |           |                                |                                  |                                        |            |
+| 型號                                                                | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                     | 發佈日期       |
+| ----------------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --------- | ------------------------------ | --------------------------------------------------- | -------------------------------------- | ---------- |
+| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27561) | C0      | 500 MHz                                           | 512 KB                                               | 100 MT/s                                                | 5x        | 2.0 V                          | 36 W                                                | [Slot 2](../Page/Slot_2.md "wikilink") | 1999年3月17日 |
+| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27559) | 1 MB    | 44 W                                              |                                                      |                                                         |           |                                |                                                     |                                        |            |
+| [Pentium III Xeon 500](http://ark.intel.com/zh-tw/products/27560) | 2 MB    | 36.2 W                                            |                                                      |                                                         |           |                                |                                                     |                                        |            |
+| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27564) | 550 MHz | 512 KB                                            | 5.5x                                                 | 34 W                                                    | 1999年4月7日 |                                |                                                     |                                        |            |
+| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27562) | 1 MB    |                                                   |                                                      |                                                         |           |                                |                                                     |                                        |            |
+| [Pentium III Xeon 550](http://ark.intel.com/zh-tw/products/27563) | 2 MB    |                                                   |                                                      |                                                         |           |                                |                                                     |                                        |            |
 
 #### "Cascades" (180 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
   - 只有Xeon 700 及 Xeon 900最大支援至四路處理器規格。
 
-| 型號                                                                 | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                     | 發佈日期     |
-| ------------------------------------------------------------------ | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | ---- | ------------------------------ | -------------------------------- | -------------------------------------- | -------- |
-| [Pentium III Xeon 600](http://ark.intel.com/zh-tw/products/27565)  | B0      | 600 MHz                        | 256 KB                            | 133 MT/s                             | 4.5x | 5\~12 V                        | 19.2 W                           | [Slot 2](../Page/Slot_2.md "wikilink") | 1999年10月 |
-| [Pentium III Xeon 667](http://ark.intel.com/zh-tw/products/27566)  | 667 MHz | 5x                             | 21.3 W                            | 1999年10月25日                          |      |                                |                                  |                                        |          |
-| [Pentium III Xeon 700](http://ark.intel.com/zh-tw/products/27567)  | B1      | 700 MHz                        | 1 MB                              | 100 MT/s                             | 7x   | 29.6 W                         | 2000年5月22日                       |                                        |          |
-| [Pentium III Xeon 700](http://ark.intel.com/zh-tw/products/27568)  | B0      | 2 MB                           |                                   |                                      |      |                                |                                  |                                        |          |
-| [Pentium III Xeon 733](http://ark.intel.com/zh-tw/products/27569)  | C0      | 733 MHz                        | 256 KB                            | 133 MT/s                             | 5.5x | 23.3 W                         | 1999年10月25日                      |                                        |          |
-| [Pentium III Xeon 800](http://ark.intel.com/zh-tw/products/27570)  | 800 MHz | 6x                             | 25.4 W                            | 2000年1月12日                           |      |                                |                                  |                                        |          |
-| [Pentium III Xeon 866](http://ark.intel.com/zh-tw/products/27571)  | 866 MHz | 6.5x                           | 29.6 W                            | 2000年3月13日                           |      |                                |                                  |                                        |          |
-| [Pentium III Xeon 900](http://ark.intel.com/zh-tw/products/27572)  | B0      | 900 MHz                        | 2 MB                              | 100 MT/s                             | 9x   | 39.3 W                         | 2001年3月21日                       |                                        |          |
-| [Pentium III Xeon 933](http://ark.intel.com/zh-tw/products/27573)  | C0      | 933 MHz                        | 256 KB                            | 133 MT/s                             | 7x   | 29.6 W                         | 2000年7月                          |                                        |          |
-| [Pentium III Xeon 1.00](http://ark.intel.com/zh-tw/products/27558) | 1.0 GHz | 7.5x                           | 30.8 W                            | 2000年8月22日                           |      |                                |                                  |                                        |          |
+| 型號                                                                 | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                     | 發佈日期     |
+| ------------------------------------------------------------------ | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------ | --------------------------------------------------- | -------------------------------------- | -------- |
+| [Pentium III Xeon 600](http://ark.intel.com/zh-tw/products/27565)  | B0      | 600 MHz                                           | 256 KB                                               | 133 MT/s                                                | 4.5x | 5\~12 V                        | 19.2 W                                              | [Slot 2](../Page/Slot_2.md "wikilink") | 1999年10月 |
+| [Pentium III Xeon 667](http://ark.intel.com/zh-tw/products/27566)  | 667 MHz | 5x                                                | 21.3 W                                               | 1999年10月25日                                             |      |                                |                                                     |                                        |          |
+| [Pentium III Xeon 700](http://ark.intel.com/zh-tw/products/27567)  | B1      | 700 MHz                                           | 1 MB                                                 | 100 MT/s                                                | 7x   | 29.6 W                         | 2000年5月22日                                          |                                        |          |
+| [Pentium III Xeon 700](http://ark.intel.com/zh-tw/products/27568)  | B0      | 2 MB                                              |                                                      |                                                         |      |                                |                                                     |                                        |          |
+| [Pentium III Xeon 733](http://ark.intel.com/zh-tw/products/27569)  | C0      | 733 MHz                                           | 256 KB                                               | 133 MT/s                                                | 5.5x | 23.3 W                         | 1999年10月25日                                         |                                        |          |
+| [Pentium III Xeon 800](http://ark.intel.com/zh-tw/products/27570)  | 800 MHz | 6x                                                | 25.4 W                                               | 2000年1月12日                                              |      |                                |                                                     |                                        |          |
+| [Pentium III Xeon 866](http://ark.intel.com/zh-tw/products/27571)  | 866 MHz | 6.5x                                              | 29.6 W                                               | 2000年3月13日                                              |      |                                |                                                     |                                        |          |
+| [Pentium III Xeon 900](http://ark.intel.com/zh-tw/products/27572)  | B0      | 900 MHz                                           | 2 MB                                                 | 100 MT/s                                                | 9x   | 39.3 W                         | 2001年3月21日                                          |                                        |          |
+| [Pentium III Xeon 933](http://ark.intel.com/zh-tw/products/27573)  | C0      | 933 MHz                                           | 256 KB                                               | 133 MT/s                                                | 7x   | 29.6 W                         | 2000年7月                                             |                                        |          |
+| [Pentium III Xeon 1.00](http://ark.intel.com/zh-tw/products/27558) | 1.0 GHz | 7.5x                                              | 30.8 W                                               | 2000年8月22日                                              |      |                                |                                                     |                                        |          |
 
 ## 基於[NetBurst微架構的Xeon](../Page/NetBurst微架構.md "wikilink")
 
@@ -64,12 +64,12 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -129,19 +129,19 @@
 #### "Prestonia" (130 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 <table>
 <thead>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -188,7 +188,7 @@
 <td><p>M0</p></td>
 <td><p>533 MT/s</p></td>
 <td><p>15x</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td><p>2002年11月18日</p></td>
 <td></td>
 <td></td>
@@ -224,7 +224,7 @@
 <td><p>M0</p></td>
 <td><p>533 MT/s</p></td>
 <td><p>18x</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td><p>2002年11月18日</p></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@
 <td><p>533 MT/s</p></td>
 <td><p>20x</p></td>
 <td><p>72 W</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td><p>2002年11月18日</p></td>
 <td></td>
 <td></td>
@@ -272,7 +272,7 @@
 <td><p>M0</p></td>
 <td><p>533 MT/s</p></td>
 <td><p>21x</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td><p>2002年11月18日</p></td>
 <td></td>
 <td></td>
@@ -296,7 +296,7 @@
 <td><p>3.06 GHz</p></td>
 <td><p>533 MT/s</p></td>
 <td><p>23x</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -324,7 +324,7 @@
 <td><p>16x</p></td>
 <td><p>1.187 - 1.274 V</p></td>
 <td><p>30 W</p></td>
-<td><p><a href="../Page/Socket_604.md" title="wikilink">Socket 604</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_604" title="wikilink">Socket 604</a></p></td>
 <td><p>2003年9月</p></td>
 </tr>
 <tr class="even">
@@ -357,118 +357,118 @@
 #### "Gallatin" (130 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
-| 型號                                                     | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期    |
-| ------------------------------------------------------ | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ------- |
-| [Xeon 2.4B](http://ark.intel.com/zh-tw/products/27268) | M0       | 2.4 GHz                        | 1 MB                              | 533 MT/s                             | 18x | 1.525 V                        | 77 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2003年3月 |
-| [Xeon 2.8B](http://ark.intel.com/zh-tw/products/27273) | 2.8 GHz  | 21x                            | 2004年2月                           |                                      |     |                                |                                  |                                                |         |
-| [Xeon 3.06](http://ark.intel.com/zh-tw/products/27277) | 3.06 GHz | 23x                            | 87 W                              | 2003年7月14日                           |     |                                |                                  |                                                |         |
-| [Xeon 3.2](http://ark.intel.com/zh-tw/products/27279)  | 3.2 GHz  | 24x                            | 92 W                              | 2003年10月6日                           |     |                                |                                  |                                                |         |
-| [Xeon 3.2](http://ark.intel.com/zh-tw/products/27280)  | 2 MB     |                                |                                   |                                      |     |                                |                                  |                                                |         |
+| 型號                                                     | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期    |
+| ------------------------------------------------------ | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ------- |
+| [Xeon 2.4B](http://ark.intel.com/zh-tw/products/27268) | M0       | 2.4 GHz                                           | 1 MB                                                 | 533 MT/s                                                | 18x | 1.525 V                        | 77 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2003年3月 |
+| [Xeon 2.8B](http://ark.intel.com/zh-tw/products/27273) | 2.8 GHz  | 21x                                               | 2004年2月                                              |                                                         |     |                                |                                                     |                                                                   |         |
+| [Xeon 3.06](http://ark.intel.com/zh-tw/products/27277) | 3.06 GHz | 23x                                               | 87 W                                                 | 2003年7月14日                                              |     |                                |                                                     |                                                                   |         |
+| [Xeon 3.2](http://ark.intel.com/zh-tw/products/27279)  | 3.2 GHz  | 24x                                               | 92 W                                                 | 2003年10月6日                                              |     |                                |                                                     |                                                                   |         |
+| [Xeon 3.2](http://ark.intel.com/zh-tw/products/27280)  | 2 MB     |                                                   |                                                      |                                                         |     |                                |                                                     |                                                                   |         |
 
 #### "Nocona" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
-| 型號\[1\]                                                  | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| -------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                        |         |                                |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon 2.8](http://ark.intel.com/zh-tw/products/27076)    | E0      | 2.8 GHz                        | 1 MB                              | 800 MT/s                             | 14x | 1.287\~1.4 V                   | 103 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2004年6月28日 |
-| [Xeon 2.8D](http://ark.intel.com/zh-tw/products/27077)   | G1      |                                |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon 3.0](http://ark.intel.com/zh-tw/products/28014)    | E0      | 3.0 GHz                        | 15x                               |                                      |     |                                |                                  |                                                |            |
-| [Xeon 3.0D](http://ark.intel.com/zh-tw/products/27093)   | G1      |                                |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon 3.2](http://ark.intel.com/zh-tw/products/28016)    | 3.2 GHz | 16x                            |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon 3.4](http://ark.intel.com/zh-tw/products/27085)    | 3.4 GHz | 17x                            |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon 3.6](http://ark.intel.com/zh-tw/products/27088)    | 3.6 GHz | 18x                            |                                   |                                      |     |                                |                                  |                                                |            |
-| <font color=white>**低功耗**</font>                         |         |                                |                                   |                                      |     |                                |                                  |                                                |            |
-| [Xeon LV 2.8](http://ark.intel.com/zh-tw/products/27097) | G0      | 2.8 GHz                        | 1 MB                              | 800 MT/s                             | 14x | 1.1125\~1.2 V                  | 55 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2004年10月   |
+| 型號\[1\]                                                  | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| -------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                        |         |                                                   |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 2.8](http://ark.intel.com/zh-tw/products/27076)    | E0      | 2.8 GHz                                           | 1 MB                                                 | 800 MT/s                                                | 14x | 1.287\~1.4 V                   | 103 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2004年6月28日 |
+| [Xeon 2.8D](http://ark.intel.com/zh-tw/products/27077)   | G1      |                                                   |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 3.0](http://ark.intel.com/zh-tw/products/28014)    | E0      | 3.0 GHz                                           | 15x                                                  |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 3.0D](http://ark.intel.com/zh-tw/products/27093)   | G1      |                                                   |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 3.2](http://ark.intel.com/zh-tw/products/28016)    | 3.2 GHz | 16x                                               |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 3.4](http://ark.intel.com/zh-tw/products/27085)    | 3.4 GHz | 17x                                               |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon 3.6](http://ark.intel.com/zh-tw/products/27088)    | 3.6 GHz | 18x                                               |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| <font color=white>**低功耗**</font>                         |         |                                                   |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon LV 2.8](http://ark.intel.com/zh-tw/products/27097) | G0      | 2.8 GHz                                           | 1 MB                                                 | 800 MT/s                                                | 14x | 1.1125\~1.2 V                  | 55 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2004年10月   |
 
 #### "Irwindale" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")*
-  - E型號處理器不支援[超執行緒](../Page/Hyper-Threading.md "wikilink")。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
+  - E型號處理器不支援[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")。
 
-| 型號\[2\]                                                                                                         | 步進 | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| --------------------------------------------------------------------------------------------------------------- | -- | ------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                                                                               |    |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 2.8](https://archive.is/20160912060355/http://ark.intel.com/zh-tw/products/33013)                         | N0 | 2.8 GHz                        | 2 MB                              | 800 MT/s                             | 14x        | 1.25\~1.388 V                  | 110 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年9月26日 |
-| [Xeon 2.8E](http://ark.intel.com/zh-tw/products/27078)                                                          | R0 |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 3.0](http://ark.intel.com/zh-tw/products/28015)                                                           | N0 | 3.0 GHz                        | 15x                               | 2005年2月14日                           |            |                                |                                  |                                                |            |
-| [Xeon 3.0E](http://ark.intel.com/zh-tw/products/27094)                                                          | R0 | 1.2875\~1.3875 V               |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 3.2](http://ark.intel.com/zh-tw/products/28017)                                                           | N0 | 3.2 GHz                        | 16x                               | 1.25\~1.388 V                        |            |                                |                                  |                                                |            |
-| [Xeon 3.2E](http://ark.intel.com/zh-tw/products/27083)                                                          | R0 | 1.2875\~1.3875 V               |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 3.4](http://ark.intel.com/zh-tw/products/28018)                                                           | N0 | 3.4 GHz                        | 17x                               | 1.25\~1.388 V                        |            |                                |                                  |                                                |            |
-| [Xeon 3.4E](http://ark.intel.com/zh-tw/products/27086)                                                          | R0 | 1.2875\~1.3875 V               |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 3.6](http://ark.intel.com/zh-tw/products/28019)                                                           | N0 | 3.6 GHz                        | 18x                               | 1.25\~1.388 V                        |            |                                |                                  |                                                |            |
-| [Xeon 3.6E](http://ark.intel.com/zh-tw/products/27089)                                                          | R0 | 1.2875\~1.3875 V               |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon 3.8](http://ark.intel.com/zh-tw/products/27091)                                                           | N0 | 3.8 GHz                        | 19x                               | 1.2875\~1.3875 V                     | 2005年9月26日 |                                |                                  |                                                |            |
-| [Xeon 3.8E](http://ark.intel.com/zh-tw/products/27092)                                                          | R0 |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| <font color=white>**中等功耗**</font>                                                                               |    |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon MV 3.2](http://cpu-world.com/CPUs/Xeon/Intel-Mid%20voltage%20Xeon%203.2%20GHz%20-%20NE80546QG0882MM.html) | R0 | 3.2 GHz                        | 2 MB                              | 800 MT/s                             | 16x        | 1.2125\~1.3875 V               | 90 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年9月26日 |
-| <font color=white>**低功耗**</font>                                                                                |    |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Xeon LV 3.0](http://ark.intel.com/zh-tw/products/28015)                                                        | R0 | 3.0 GHz                        | 2 MB                              | 800 MT/s                             | 15x        | 1.05\~1.20 V                   | 55 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年9月26日 |
+| 型號\[2\]                                                                                                         | 步進 | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| --------------------------------------------------------------------------------------------------------------- | -- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                                               |    |                                                   |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 2.8](https://archive.is/20160912060355/http://ark.intel.com/zh-tw/products/33013)                         | N0 | 2.8 GHz                                           | 2 MB                                                 | 800 MT/s                                                | 14x        | 1.25\~1.388 V                  | 110 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年9月26日 |
+| [Xeon 2.8E](http://ark.intel.com/zh-tw/products/27078)                                                          | R0 |                                                   |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.0](http://ark.intel.com/zh-tw/products/28015)                                                           | N0 | 3.0 GHz                                           | 15x                                                  | 2005年2月14日                                              |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.0E](http://ark.intel.com/zh-tw/products/27094)                                                          | R0 | 1.2875\~1.3875 V                                  |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.2](http://ark.intel.com/zh-tw/products/28017)                                                           | N0 | 3.2 GHz                                           | 16x                                                  | 1.25\~1.388 V                                           |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.2E](http://ark.intel.com/zh-tw/products/27083)                                                          | R0 | 1.2875\~1.3875 V                                  |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.4](http://ark.intel.com/zh-tw/products/28018)                                                           | N0 | 3.4 GHz                                           | 17x                                                  | 1.25\~1.388 V                                           |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.4E](http://ark.intel.com/zh-tw/products/27086)                                                          | R0 | 1.2875\~1.3875 V                                  |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.6](http://ark.intel.com/zh-tw/products/28019)                                                           | N0 | 3.6 GHz                                           | 18x                                                  | 1.25\~1.388 V                                           |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.6E](http://ark.intel.com/zh-tw/products/27089)                                                          | R0 | 1.2875\~1.3875 V                                  |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon 3.8](http://ark.intel.com/zh-tw/products/27091)                                                           | N0 | 3.8 GHz                                           | 19x                                                  | 1.2875\~1.3875 V                                        | 2005年9月26日 |                                |                                                     |                                                                   |            |
+| [Xeon 3.8E](http://ark.intel.com/zh-tw/products/27092)                                                          | R0 |                                                   |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| <font color=white>**中等功耗**</font>                                                                               |    |                                                   |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon MV 3.2](http://cpu-world.com/CPUs/Xeon/Intel-Mid%20voltage%20Xeon%203.2%20GHz%20-%20NE80546QG0882MM.html) | R0 | 3.2 GHz                                           | 2 MB                                                 | 800 MT/s                                                | 16x        | 1.2125\~1.3875 V               | 90 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年9月26日 |
+| <font color=white>**低功耗**</font>                                                                                |    |                                                   |                                                      |                                                         |            |                                |                                                     |                                                                   |            |
+| [Xeon LV 3.0](http://ark.intel.com/zh-tw/products/28015)                                                        | R0 | 3.0 GHz                                           | 2 MB                                                 | 800 MT/s                                                | 15x        | 1.05\~1.20 V                   | 55 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年9月26日 |
 
 ### Xeon UP/DP (雙核心)
 
 #### "Paxville DP" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
-| 型號                                                    | 步進 | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期        |
-| ----------------------------------------------------- | -- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ----------- |
-| [Xeon 2.8](http://ark.intel.com/zh-tw/products/27202) | A0 | 2.8 GHz                        | 2×2 MB                            | 800 MT/s                             | 14x | 1.2875\~1.4125 V               | 135 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年10月10日 |
+| 型號                                                    | 步進 | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期        |
+| ----------------------------------------------------- | -- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ----------- |
+| [Xeon 2.8](http://ark.intel.com/zh-tw/products/27202) | A0 | 2.8 GHz                                           | 2×2 MB                                               | 800 MT/s                                                | 14x | 1.2875\~1.4125 V               | 135 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年10月10日 |
 
 #### "Dempsey" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon 5060不支援EIST。
 
-| 型號                                                                                                                            | 步進       | [時脈](../Page/時脈.md "wikilink")\[3\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                                                                                             |          |                                     |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon 5020](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%205020%20-%20HH80555KF0604M%20\(BX805555020A%20-%20BX805555020P\).html) | C1       | 2.5 GHz                             | 2×2 MB                            | 667 MT/s                             | 15x | 1.075\~1.35 V                  | 95 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2006年5月23日 |
-| [Xeon 5030](http://ark.intel.com/zh-tw/products/27208)                                                                        | 2.67 GHz | 16x                                 |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon 5040](http://ark.intel.com/zh-tw/products/27209)                                                                        | 2.83 GHz | 17x                                 |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon 5050](http://ark.intel.com/zh-tw/products/27210)                                                                        | 3.0 GHz  | 18x                                 |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon 5060](http://ark.intel.com/zh-tw/products/27211)                                                                        | 3.2 GHz  | 1066 MT/s                           | 12x                               | 130 W                                |     |                                |                                  |                                          |            |
-| [Xeon 5070](http://ark.intel.com/zh-tw/products/27212)                                                                        | 3.46 GHz | 13x                                 |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon 5080](http://ark.intel.com/zh-tw/products/27213)                                                                        | 3.73 GHz | 14x                                 |                                   |                                      |     |                                |                                  |                                          |            |
-| <font color=white>**低功耗**</font>                                                                                              |          |                                     |                                   |                                      |     |                                |                                  |                                          |            |
-| [Xeon MV 5063](http://ark.intel.com/zh-tw/products/28020)                                                                     | C1       | 3.2 GHz                             | 2×2 MB                            | 1066 MT/s                            | 12x | 1.075\~1.35 V                  | 95 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2006年5月23日 |
+| 型號                                                                                                                            | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[3\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期       |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                                                             |          |                                                        |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon 5020](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%205020%20-%20HH80555KF0604M%20\(BX805555020A%20-%20BX805555020P\).html) | C1       | 2.5 GHz                                                | 2×2 MB                                               | 667 MT/s                                                | 15x | 1.075\~1.35 V                  | 95 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2006年5月23日 |
+| [Xeon 5030](http://ark.intel.com/zh-tw/products/27208)                                                                        | 2.67 GHz | 16x                                                    |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon 5040](http://ark.intel.com/zh-tw/products/27209)                                                                        | 2.83 GHz | 17x                                                    |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon 5050](http://ark.intel.com/zh-tw/products/27210)                                                                        | 3.0 GHz  | 18x                                                    |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon 5060](http://ark.intel.com/zh-tw/products/27211)                                                                        | 3.2 GHz  | 1066 MT/s                                              | 12x                                                  | 130 W                                                   |     |                                |                                                     |                                                             |            |
+| [Xeon 5070](http://ark.intel.com/zh-tw/products/27212)                                                                        | 3.46 GHz | 13x                                                    |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon 5080](http://ark.intel.com/zh-tw/products/27213)                                                                        | 3.73 GHz | 14x                                                    |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| <font color=white>**低功耗**</font>                                                                                              |          |                                                        |                                                      |                                                         |     |                                |                                                     |                                                             |            |
+| [Xeon MV 5063](http://ark.intel.com/zh-tw/products/28020)                                                                     | C1       | 3.2 GHz                                                | 2×2 MB                                               | 1066 MT/s                                               | 12x | 1.075\~1.35 V                  | 95 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2006年5月23日 |
 
 ### Xeon MP (單核心)
 
 #### "Foster MP" (180 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 <table>
 <thead>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -516,19 +516,19 @@
 #### "Gallatin" (130 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
 <table>
 <thead>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -648,66 +648,66 @@
 #### "Cranford" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
-| 型號                                                        | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| --------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| [Xeon MP 3.16](http://ark.intel.com/zh-tw/products/27101) | B0       | 3.16 GHz                       | 1 MB                              | 667 MT/s                             | 19x | 1.2875\~1.4 V                  | 110 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年3月29日 |
-| [Xeon MP 3.66](http://ark.intel.com/zh-tw/products/27103) | 3.66 GHz | 22x                            |                                   |                                      |     |                                |                                  |                                                |            |
+| 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| --------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| [Xeon MP 3.16](http://ark.intel.com/zh-tw/products/27101) | B0       | 3.16 GHz                                          | 1 MB                                                 | 667 MT/s                                                | 19x | 1.2875\~1.4 V                  | 110 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年3月29日 |
+| [Xeon MP 3.66](http://ark.intel.com/zh-tw/products/27103) | 3.66 GHz | 22x                                               |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
 
 #### "Potomac" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")*
 
-| 型號                                                        | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| --------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| [Xeon MP 2.83](http://ark.intel.com/zh-tw/products/27099) | C0       | 2.83 GHz                       | 4 MB                              | 667 MT/s                             | 17x | 1.25\~1.4 V                    | 129 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年3月29日 |
-| [Xeon MP 3.0](http://ark.intel.com/zh-tw/products/27100)  | 3.0 GHz  | 8 MB                           | 18x                               |                                      |     |                                |                                  |                                                |            |
-| [Xeon MP 3.33](http://ark.intel.com/zh-tw/products/27102) | 3.33 GHz | 20x                            |                                   |                                      |     |                                |                                  |                                                |            |
+| 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| --------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| [Xeon MP 2.83](http://ark.intel.com/zh-tw/products/27099) | C0       | 2.83 GHz                                          | 4 MB                                                 | 667 MT/s                                                | 17x | 1.25\~1.4 V                    | 129 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年3月29日 |
+| [Xeon MP 3.0](http://ark.intel.com/zh-tw/products/27100)  | 3.0 GHz  | 8 MB                                              | 18x                                                  |                                                         |     |                                |                                                     |                                                                   |            |
+| [Xeon MP 3.33](http://ark.intel.com/zh-tw/products/27102) | 3.33 GHz | 20x                                               |                                                      |                                                         |     |                                |                                                     |                                                                   |            |
 
 ### Xeon MP (雙核心)
 
 #### "Paxville MP" (90 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只有Xeon 7030不支援EIST。
 
-| 型號                                                     | 步進       | [時脈](../Page/時脈.md "wikilink")\[4\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期     |
-| ------------------------------------------------------ | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | -------- |
-| [Xeon 7020](http://ark.intel.com/zh-tw/products/27224) | A0       | 2.66 GHz                            | 2×1 MB                            | 667 MT/s                             | 16x | 1.2625\~1.4125 V               | 165 W                            | [Socket 604](../Page/Socket_604.md "wikilink") | 2005年12月 |
-| [Xeon 7030](http://ark.intel.com/zh-tw/products/27225) | 2.8 GHz  | 800 MT/s                            | 14x                               |                                      |     |                                |                                  |                                                |          |
-| [Xeon 7040](http://ark.intel.com/zh-tw/products/27226) | 3.0 GHz  | 2×2 MB                              | 667 MT/s                          | 18x                                  |     |                                |                                  |                                                |          |
-| [Xeon 7041](http://ark.intel.com/zh-tw/products/27227) | 800 MT/s | 15x                                 |                                   |                                      |     |                                |                                  |                                                |          |
+| 型號                                                     | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[4\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期     |
+| ------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | -------- |
+| [Xeon 7020](http://ark.intel.com/zh-tw/products/27224) | A0       | 2.66 GHz                                               | 2×1 MB                                               | 667 MT/s                                                | 16x | 1.2625\~1.4125 V               | 165 W                                               | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2005年12月 |
+| [Xeon 7030](http://ark.intel.com/zh-tw/products/27225) | 2.8 GHz  | 800 MT/s                                               | 14x                                                  |                                                         |     |                                |                                                     |                                                                   |          |
+| [Xeon 7040](http://ark.intel.com/zh-tw/products/27226) | 3.0 GHz  | 2×2 MB                                                 | 667 MT/s                                             | 18x                                                     |     |                                |                                                     |                                                                   |          |
+| [Xeon 7041](http://ark.intel.com/zh-tw/products/27227) | 800 MT/s | 15x                                                    |                                                      |                                                         |     |                                |                                                     |                                                                   |          |
 
 #### "Tulsa" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只有Xeon 7110M/N 及 Xeon 7120M/N不支援EIST。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[5\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻    | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| ------------------------------------------------------- | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | ----- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| [Xeon 7110N](http://ark.intel.com/zh-tw/products/27282) | B0       | 2.5 GHz                             | 4 MB                              | 667 MT/s                             | 15x   | 1.1\~1.35 V                    | 95 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2006年8月27日 |
-| [Xeon 7110M](http://ark.intel.com/zh-tw/products/27281) | 2.6 GHz  | 800 MT/s                            | 13x                               |                                      |       |                                |                                  |                                                |            |
-| [Xeon 7120N](http://ark.intel.com/zh-tw/products/27284) | 3.0 GHz  | 667 MT/s                            | 18x                               |                                      |       |                                |                                  |                                                |            |
-| [Xeon 7120M](http://ark.intel.com/zh-tw/products/27283) | 800 MT/s | 15x                                 |                                   |                                      |       |                                |                                  |                                                |            |
-| [Xeon 7130N](http://ark.intel.com/zh-tw/products/27286) | 3.16 GHz | 8 MB                                | 667 MT/s                          | 19x                                  | 150 W |                                |                                  |                                                |            |
-| [Xeon 7130M](http://ark.intel.com/zh-tw/products/27285) | 3.2 GHz  | 800 MT/s                            | 16x                               |                                      |       |                                |                                  |                                                |            |
-| [Xeon 7140N](http://ark.intel.com/zh-tw/products/27288) | 3.33 GHz | 16 MB                               | 667 MT/s                          | 20x                                  |       |                                |                                  |                                                |            |
-| [Xeon 7140M](http://ark.intel.com/zh-tw/products/27287) | 3.4 GHz  | 800 MT/s                            | 17x                               |                                      |       |                                |                                  |                                                |            |
-| [Xeon 7150N](http://ark.intel.com/zh-tw/products/28029) | 3.5 GHz  | 667 MT/s                            | 21x                               | 2007年第1季                             |       |                                |                                  |                                                |            |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[5\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻    | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | ----- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| [Xeon 7110N](http://ark.intel.com/zh-tw/products/27282) | B0       | 2.5 GHz                                                | 4 MB                                                 | 667 MT/s                                                | 15x   | 1.1\~1.35 V                    | 95 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2006年8月27日 |
+| [Xeon 7110M](http://ark.intel.com/zh-tw/products/27281) | 2.6 GHz  | 800 MT/s                                               | 13x                                                  |                                                         |       |                                |                                                     |                                                                   |            |
+| [Xeon 7120N](http://ark.intel.com/zh-tw/products/27284) | 3.0 GHz  | 667 MT/s                                               | 18x                                                  |                                                         |       |                                |                                                     |                                                                   |            |
+| [Xeon 7120M](http://ark.intel.com/zh-tw/products/27283) | 800 MT/s | 15x                                                    |                                                      |                                                         |       |                                |                                                     |                                                                   |            |
+| [Xeon 7130N](http://ark.intel.com/zh-tw/products/27286) | 3.16 GHz | 8 MB                                                   | 667 MT/s                                             | 19x                                                     | 150 W |                                |                                                     |                                                                   |            |
+| [Xeon 7130M](http://ark.intel.com/zh-tw/products/27285) | 3.2 GHz  | 800 MT/s                                               | 16x                                                  |                                                         |       |                                |                                                     |                                                                   |            |
+| [Xeon 7140N](http://ark.intel.com/zh-tw/products/27288) | 3.33 GHz | 16 MB                                                  | 667 MT/s                                             | 20x                                                     |       |                                |                                                     |                                                                   |            |
+| [Xeon 7140M](http://ark.intel.com/zh-tw/products/27287) | 3.4 GHz  | 800 MT/s                                               | 17x                                                  |                                                         |       |                                |                                                     |                                                                   |            |
+| [Xeon 7150N](http://ark.intel.com/zh-tw/products/28029) | 3.5 GHz  | 667 MT/s                                               | 21x                                                  | 2007年第1季                                                |       |                                |                                                     |                                                                   |            |
 
 ## 基於Pentium M (Yonah)微架構的Xeon
 
@@ -716,9 +716,9 @@
 #### "Sossaman" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
 
 <table>
@@ -726,12 +726,12 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -819,201 +819,201 @@
 #### "Wolfdale-CL" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只支援單路處理器規格。
 
-| 型號                                                      | 步進 | [時脈](../Page/時脈.md "wikilink")\[6\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ------------------------------------------------------- | -- | ----------------------------------- | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| [Xeon L3014](http://ark.intel.com/zh-tw/products/36892) | E0 | 2.4 GHz                             | 3 MB                              | 1066 MT/s                            | 9x | 0.85\~1.3625 V                 | 30 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年2月27日 |
+| 型號                                                      | 步進 | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[6\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期       |
+| ------------------------------------------------------- | -- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ---------- |
+| [Xeon L3014](http://ark.intel.com/zh-tw/products/36892) | E0 | 2.4 GHz                                                | 3 MB                                                 | 1066 MT/s                                               | 9x | 0.85\~1.3625 V                 | 30 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年2月27日 |
 
 ### Xeon UP/DP (雙核心)
 
 #### "Allendale" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                     | 步進       | [時脈](../Page/時脈.md "wikilink")\[7\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ------------------------------------------------------ | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| [Xeon 3040](http://ark.intel.com/zh-tw/products/27203) | L2       | 1.87 GHz                            | 2 MB                              | 1066 MT/s                            | 7x | 0.85\~1.5 V                    | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年1月21日 |
-| [Xeon 3050](http://ark.intel.com/zh-tw/products/27204) | 2.13 GHz | 8x                                  |                                   |                                      |    |                                |                                  |                                          |            |
+| 型號                                                     | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[7\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
+| ------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
+| [Xeon 3040](http://ark.intel.com/zh-tw/products/27203) | L2       | 1.87 GHz                                               | 2 MB                                                 | 1066 MT/s                                               | 7x | 0.85\~1.5 V                    | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年1月21日 |
+| [Xeon 3050](http://ark.intel.com/zh-tw/products/27204) | 2.13 GHz | 8x                                                     |                                                      |                                                         |    |                                |                                                     |                                          |            |
 
 #### "Conroe" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                                                                             | 步進       | [時脈](../Page/時脈.md "wikilink")\[8\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| -------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| [Xeon 3040](http://ark.intel.com/zh-tw/products/27203)                                                         | B2       | 1.87 GHz                            | 2 MB                              | 1066 MT/s                            | 7x         | 0.85\~1.5 V                    | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2006年9月26日 |
-| [Xeon 3050](http://ark.intel.com/zh-tw/products/27204)                                                         | 2.13 GHz | 8x                                  |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon 3060](http://ark.intel.com/zh-tw/products/27205)                                                         | 2.4 GHz  | 4 MB                                | 9x                                |                                      |            |                                |                                  |                                          |            |
-| [Xeon 3065](http://ark.intel.com/zh-tw/products/30775)                                                         | G0       | 2.33 GHz                            | 1333 MT/s                         | 7x                                   | 2007年10月7日 |                                |                                  |                                          |            |
-| [Xeon 3070](http://ark.intel.com/zh-tw/products/27206)                                                         | B2       | 2.67 GHz                            | 1066 MT/s                         | 10x                                  | 2006年9月26日 |                                |                                  |                                          |            |
-| [Xeon 3075](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%203075%20-%20HH80557KJ0674MG%20\(BX805573075\).html)     | G0       | 2.67 GHz                            | 1333 MT/s                         | 8x                                   | 2007年10月7日 |                                |                                  |                                          |            |
-| [Xeon 3085](http://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%203085%20-%20HH80557KJ0804MG%20\(BX805573085\).html) | 3.0 GHz  | 9x                                  |                                   |                                      |            |                                |                                  |                                          |            |
+| 型號                                                                                                             | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[8\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
+| -------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
+| [Xeon 3040](http://ark.intel.com/zh-tw/products/27203)                                                         | B2       | 1.87 GHz                                               | 2 MB                                                 | 1066 MT/s                                               | 7x         | 0.85\~1.5 V                    | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2006年9月26日 |
+| [Xeon 3050](http://ark.intel.com/zh-tw/products/27204)                                                         | 2.13 GHz | 8x                                                     |                                                      |                                                         |            |                                |                                                     |                                          |            |
+| [Xeon 3060](http://ark.intel.com/zh-tw/products/27205)                                                         | 2.4 GHz  | 4 MB                                                   | 9x                                                   |                                                         |            |                                |                                                     |                                          |            |
+| [Xeon 3065](http://ark.intel.com/zh-tw/products/30775)                                                         | G0       | 2.33 GHz                                               | 1333 MT/s                                            | 7x                                                      | 2007年10月7日 |                                |                                                     |                                          |            |
+| [Xeon 3070](http://ark.intel.com/zh-tw/products/27206)                                                         | B2       | 2.67 GHz                                               | 1066 MT/s                                            | 10x                                                     | 2006年9月26日 |                                |                                                     |                                          |            |
+| [Xeon 3075](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%203075%20-%20HH80557KJ0674MG%20\(BX805573075\).html)     | G0       | 2.67 GHz                                               | 1333 MT/s                                            | 8x                                                      | 2007年10月7日 |                                |                                                     |                                          |            |
+| [Xeon 3085](http://www.cpu-world.com/CPUs/Xeon/Intel-Xeon%203085%20-%20HH80557KJ0804MG%20\(BX805573085\).html) | 3.0 GHz  | 9x                                                     |                                                      |                                                         |            |                                |                                                     |                                          |            |
 
 #### "Woodcrest" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至雙路處理器規格。
 
-| 型號                                                        | 步進       | [時脈](../Page/時脈.md "wikilink")\[9\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| --------------------------------------------------------- | -------- | ----------------------------------- | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                         |          |                                     |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon 5110](http://ark.intel.com/zh-tw/products/27214)    | G0       | 1.6 GHz                             | 4 MB                              | 1066 MT/s                            | 6x         | 1.0\~1.5 V                     | 65 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2006年6月26日 |
-| [Xeon 5120](http://ark.intel.com/zh-tw/products/27215)    | 1.87 GHz | 7x                                  |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon 5130](http://ark.intel.com/zh-tw/products/27216)    | 2.0 GHz  | 1333 MT/s                           | 6x                                |                                      |            |                                |                                  |                                          |            |
-| [Xeon 5140](http://ark.intel.com/zh-tw/products/27217)    | 2.33 GHz | 7x                                  |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon 5150](http://ark.intel.com/zh-tw/products/27218)    | 2.67 GHz | 8x                                  |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon 5160](http://ark.intel.com/zh-tw/products/27219)    | 3.0 GHz  | 9x                                  | 80 W                              |                                      |            |                                |                                  |                                          |            |
-| <font color=white>**低功耗**</font>                          |          |                                     |                                   |                                      |            |                                |                                  |                                          |            |
-| [Xeon LV 5113](http://ark.intel.com/zh-tw/products/30778) | G0       | 1.6 GHz                             | 4 MB                              | 800 MT/s                             | 8x         | 1.15\~1.25 V                   | 40 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2006年12月4日 |
-| [Xeon LV 5128](http://ark.intel.com/zh-tw/products/30562) | 1.87 GHz | 1066 MT/s                           | 7x                                | 1.0\~1.5 V                           |            |                                |                                  |                                          |            |
-| [Xeon LV 5133](http://ark.intel.com/zh-tw/products/30563) | 2.2 GHz  | 800 MT/s                            | 11x                               | 2006年6月26日                           |            |                                |                                  |                                          |            |
-| [Xeon LV 5138](http://ark.intel.com/zh-tw/products/30564) | 2.13 GHz | 1066 MT/s                           | 8x                                | 35 W                                 | 2006年12月4日 |                                |                                  |                                          |            |
-| [Xeon LV 5148](http://ark.intel.com/zh-tw/products/27223) | 2.33 GHz | 1333 MT/s                           | 7x                                | 40 W                                 | 2006年9月27日 |                                |                                  |                                          |            |
+| 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[9\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期       |
+| --------------------------------------------------------- | -------- | ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                         |          |                                                        |                                                      |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon 5110](http://ark.intel.com/zh-tw/products/27214)    | G0       | 1.6 GHz                                                | 4 MB                                                 | 1066 MT/s                                               | 6x         | 1.0\~1.5 V                     | 65 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2006年6月26日 |
+| [Xeon 5120](http://ark.intel.com/zh-tw/products/27215)    | 1.87 GHz | 7x                                                     |                                                      |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon 5130](http://ark.intel.com/zh-tw/products/27216)    | 2.0 GHz  | 1333 MT/s                                              | 6x                                                   |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon 5140](http://ark.intel.com/zh-tw/products/27217)    | 2.33 GHz | 7x                                                     |                                                      |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon 5150](http://ark.intel.com/zh-tw/products/27218)    | 2.67 GHz | 8x                                                     |                                                      |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon 5160](http://ark.intel.com/zh-tw/products/27219)    | 3.0 GHz  | 9x                                                     | 80 W                                                 |                                                         |            |                                |                                                     |                                                             |            |
+| <font color=white>**低功耗**</font>                          |          |                                                        |                                                      |                                                         |            |                                |                                                     |                                                             |            |
+| [Xeon LV 5113](http://ark.intel.com/zh-tw/products/30778) | G0       | 1.6 GHz                                                | 4 MB                                                 | 800 MT/s                                                | 8x         | 1.15\~1.25 V                   | 40 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2006年12月4日 |
+| [Xeon LV 5128](http://ark.intel.com/zh-tw/products/30562) | 1.87 GHz | 1066 MT/s                                              | 7x                                                   | 1.0\~1.5 V                                              |            |                                |                                                     |                                                             |            |
+| [Xeon LV 5133](http://ark.intel.com/zh-tw/products/30563) | 2.2 GHz  | 800 MT/s                                               | 11x                                                  | 2006年6月26日                                              |            |                                |                                                     |                                                             |            |
+| [Xeon LV 5138](http://ark.intel.com/zh-tw/products/30564) | 2.13 GHz | 1066 MT/s                                              | 8x                                                   | 35 W                                                    | 2006年12月4日 |                                |                                                     |                                                             |            |
+| [Xeon LV 5148](http://ark.intel.com/zh-tw/products/27223) | 2.33 GHz | 1333 MT/s                                              | 7x                                                   | 40 W                                                    | 2006年9月27日 |                                |                                                     |                                                             |            |
 
 #### "Wolfdale-CL" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 只支援單路處理器規格。
 
-| 型號                                                      | 步進 | [時脈](../Page/時脈.md "wikilink")\[10\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期      |
-| ------------------------------------------------------- | -- | ------------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | --------- |
-| [Xeon E3113](http://ark.intel.com/zh-tw/products/35335) | E0 | 3.0 GHz                              | 6 MB                              | 1333 MT/s                            | 9x | 0.85\~1.3625 V                 | 65 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年9月8日 |
+| 型號                                                      | 步進 | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[10\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期      |
+| ------------------------------------------------------- | -- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | --------- |
+| [Xeon E3113](http://ark.intel.com/zh-tw/products/35335) | E0 | 3.0 GHz                                                 | 6 MB                                                 | 1333 MT/s                                               | 9x | 0.85\~1.3625 V                 | 65 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年9月8日 |
 
 #### "Wolfdale" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[11\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |                                      |                                   |                                      |    |                                |                                  |                                          |            |
-| [Xeon E3110](http://ark.intel.com/zh-tw/products/34694) | E0       | 3.0 GHz                              | 6 MB                              | 1333 MT/s                            | 9x | 0.85\~1.3625 V                 | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月8日  |
-| [Xeon E3120](http://ark.intel.com/zh-tw/products/35429) | 3.17 GHz | 9.5x                                 | 2008年8月10日                        |                                      |    |                                |                                  |                                          |            |
-| <font color=white>**低功耗**</font>                        |          |                                      |                                   |                                      |    |                                |                                  |                                          |            |
-| [Xeon L3110](http://ark.intel.com/zh-tw/products/32709) | E0       | 3.0 GHz                              | 6 MB                              | 1333 MT/s                            | 9x | 0.85\~1.3625 V                 | 45 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年2月22日 |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[11\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |                                                         |                                                      |                                                         |    |                                |                                                     |                                          |            |
+| [Xeon E3110](http://ark.intel.com/zh-tw/products/34694) | E0       | 3.0 GHz                                                 | 6 MB                                                 | 1333 MT/s                                               | 9x | 0.85\~1.3625 V                 | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月8日  |
+| [Xeon E3120](http://ark.intel.com/zh-tw/products/35429) | 3.17 GHz | 9.5x                                                    | 2008年8月10日                                           |                                                         |    |                                |                                                     |                                          |            |
+| <font color=white>**低功耗**</font>                        |          |                                                         |                                                      |                                                         |    |                                |                                                     |                                          |            |
+| [Xeon L3110](http://ark.intel.com/zh-tw/products/32709) | E0       | 3.0 GHz                                                 | 6 MB                                                 | 1333 MT/s                                               | 9x | 0.85\~1.3625 V                 | 45 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年2月22日 |
 
 #### "Wolfdale-DP" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon L5238 及 Xeon L5240不支援EIST。
   - 只有Xeon E5220, Xeon X5240, Xeon L5215 及 Xeon L5248不支援Intel需求切換技術。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[12\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期        |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------- | ----------- |
-| <font color=white>**標準功耗**</font>                       |          |                                      |                                   |                                      |            |                                |                                  |                                          |             |
-| [Xeon E5205](http://ark.intel.com/zh-tw/products/33093) | E0       | 3.0 GHz                              | 6 MB                              | 1066 MT/s                            | 7x         | 0.85\~1.35 V                   | 65 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2007年11月11日 |
-| [Xeon E5220](http://ark.intel.com/zh-tw/products/36593) | 2.33 GHz | 1333 MT/s                            | 2007年2月27日                        |                                      |            |                                |                                  |                                          |             |
-| [Xeon E5240](http://ark.intel.com/zh-tw/products/34739) | 3.0 GHz  | 9x                                   |                                   |                                      |            |                                |                                  |                                          |             |
-| [Xeon X5260](http://ark.intel.com/zh-tw/products/33907) | 3.33 GHz | 10x                                  | 80 W                              | 2007年11月11日                          |            |                                |                                  |                                          |             |
-| [Xeon X5270](http://ark.intel.com/zh-tw/products/36608) | 3.5 GHz  | 10.5x                                | 2008年9月8日                         |                                      |            |                                |                                  |                                          |             |
-| [Xeon X5272](http://ark.intel.com/zh-tw/products/33908) | 3.4 GHz  | 1600 MT/s                            | 8.5x                              | 2007年11月11日                          |            |                                |                                  |                                          |             |
-| <font color=white>**低功耗**</font>                        |          |                                      |                                   |                                      |            |                                |                                  |                                          |             |
-| [Xeon L5215](http://ark.intel.com/zh-tw/products/36682) | E0       | 1.87 GHz                             | 6 MB                              | 1066 MT/s                            | 7x         | 0.85\~1.35 V                   | 20 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年9月8日   |
-| [Xeon L5238](http://ark.intel.com/zh-tw/products/34738) | 2.67 GHz | 1333 MT/s                            | 8x                                | 35 W                                 | 2008年2月27日 |                                |                                  |                                          |             |
-| [Xeon L5240](http://ark.intel.com/zh-tw/products/35130) | 3.0 GHz  | 9x                                   | 40 W                              |                                      |            |                                |                                  |                                          |             |
-| [Xeon L5248](http://ark.intel.com/zh-tw/products/35574) | 55 W     | 2008年9月8日                            |                                   |                                      |            |                                |                                  |                                          |             |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[12\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期        |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ----------- |
+| <font color=white>**標準功耗**</font>                       |          |                                                         |                                                      |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon E5205](http://ark.intel.com/zh-tw/products/33093) | E0       | 3.0 GHz                                                 | 6 MB                                                 | 1066 MT/s                                               | 7x         | 0.85\~1.35 V                   | 65 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2007年11月11日 |
+| [Xeon E5220](http://ark.intel.com/zh-tw/products/36593) | 2.33 GHz | 1333 MT/s                                               | 2007年2月27日                                           |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon E5240](http://ark.intel.com/zh-tw/products/34739) | 3.0 GHz  | 9x                                                      |                                                      |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon X5260](http://ark.intel.com/zh-tw/products/33907) | 3.33 GHz | 10x                                                     | 80 W                                                 | 2007年11月11日                                             |            |                                |                                                     |                                                             |             |
+| [Xeon X5270](http://ark.intel.com/zh-tw/products/36608) | 3.5 GHz  | 10.5x                                                   | 2008年9月8日                                            |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon X5272](http://ark.intel.com/zh-tw/products/33908) | 3.4 GHz  | 1600 MT/s                                               | 8.5x                                                 | 2007年11月11日                                             |            |                                |                                                     |                                                             |             |
+| <font color=white>**低功耗**</font>                        |          |                                                         |                                                      |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon L5215](http://ark.intel.com/zh-tw/products/36682) | E0       | 1.87 GHz                                                | 6 MB                                                 | 1066 MT/s                                               | 7x         | 0.85\~1.35 V                   | 20 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年9月8日   |
+| [Xeon L5238](http://ark.intel.com/zh-tw/products/34738) | 2.67 GHz | 1333 MT/s                                               | 8x                                                   | 35 W                                                    | 2008年2月27日 |                                |                                                     |                                                             |             |
+| [Xeon L5240](http://ark.intel.com/zh-tw/products/35130) | 3.0 GHz  | 9x                                                      | 40 W                                                 |                                                         |            |                                |                                                     |                                                             |             |
+| [Xeon L5248](http://ark.intel.com/zh-tw/products/35574) | 55 W     | 2008年9月8日                                               |                                                      |                                                         |            |                                |                                                     |                                                             |             |
 
 ### Xeon UP/DP (四核心)
 
 #### "Kentsfield" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[13\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期      |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | --------- |
-| [Xeon X3210](http://ark.intel.com/zh-tw/products/28033) | G0       | 2.13 GHz                             | 2×4 MB                            | 1066 MT/s                            | 8x | 0.85\~1.5 V                    | 105 W                            | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年1月7日 |
-| [Xeon X3220](http://ark.intel.com/zh-tw/products/28034) | 2.4 GHz  | 9x                                   |                                   |                                      |    |                                |                                  |                                          |           |
-| [Xeon X3230](http://ark.intel.com/zh-tw/products/30797) | 2.67 GHz | 10x                                  | 100 W                             | 2007年7月27日                           |    |                                |                                  |                                          |           |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[13\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期      |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | --------- |
+| [Xeon X3210](http://ark.intel.com/zh-tw/products/28033) | G0       | 2.13 GHz                                                | 2×4 MB                                               | 1066 MT/s                                               | 8x | 0.85\~1.5 V                    | 105 W                                               | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年1月7日 |
+| [Xeon X3220](http://ark.intel.com/zh-tw/products/28034) | 2.4 GHz  | 9x                                                      |                                                      |                                                         |    |                                |                                                     |                                          |           |
+| [Xeon X3230](http://ark.intel.com/zh-tw/products/30797) | 2.67 GHz | 10x                                                     | 100 W                                                | 2007年7月27日                                              |    |                                |                                                     |                                          |           |
 
 #### "Yorkfield-6M" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、[C1E](../Page/高級配置與電源接口.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[14\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期      |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | ---- | ------------------------------ | -------------------------------- | ---------------------------------------- | --------- |
-| [Xeon X3320](http://ark.intel.com/zh-tw/products/33931) | R0       | 2.5 GHz                              | 2×3 MB                            | 1333 MT/s                            | 7.5x | 0.85\~1.3625 V                 | 95 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日 |
-| [Xeon X3330](http://ark.intel.com/zh-tw/products/35432) | 2.56 GHz | 8x                                   | 2008年8月10日                        |                                      |      |                                |                                  |                                          |           |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[14\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期      |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | --------- |
+| [Xeon X3320](http://ark.intel.com/zh-tw/products/33931) | R0       | 2.5 GHz                                                 | 2×3 MB                                               | 1333 MT/s                                               | 7.5x | 0.85\~1.3625 V                 | 95 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日 |
+| [Xeon X3330](http://ark.intel.com/zh-tw/products/35432) | 2.56 GHz | 8x                                                      | 2008年8月10日                                           |                                                         |      |                                |                                                     |                                          |           |
 
 #### "Yorkfield" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、[C1E](../Page/高級配置與電源接口.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[15\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | ---- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |                                      |                                   |                                      |      |                                |                                  |                                          |            |
-| [Xeon X3350](http://ark.intel.com/zh-tw/products/33932) | E0       | 2.67 GHz                             | 2×6 MB                            | 1333 MT/s                            | 8x   | 0.85\~1.3625 V                 | 95 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日  |
-| [Xeon X3360](http://ark.intel.com/zh-tw/products/33933) | 2.83 GHz | 8.5x                                 |                                   |                                      |      |                                |                                  |                                          |            |
-| [Xeon X3370](http://ark.intel.com/zh-tw/products/35433) | 3.0 GHz  | 9x                                   | 2008年8月10日                        |                                      |      |                                |                                  |                                          |            |
-| [Xeon X3380](http://ark.intel.com/zh-tw/products/41094) | 3.17 GHz | 9.5x                                 | 2009年2月22日                        |                                      |      |                                |                                  |                                          |            |
-| <font color=white>**低功耗**</font>                        |          |                                      |                                   |                                      |      |                                |                                  |                                          |            |
-| [Xeon L3360](http://ark.intel.com/zh-tw/products/40481) | E0       | 2.83 GHz                             | 2×6 MB                            | 1333 MT/s                            | 8.5x | 0.85\~1.3625 V                 | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年2月22日 |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[15\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |                                                         |                                                      |                                                         |      |                                |                                                     |                                          |            |
+| [Xeon X3350](http://ark.intel.com/zh-tw/products/33932) | E0       | 2.67 GHz                                                | 2×6 MB                                               | 1333 MT/s                                               | 8x   | 0.85\~1.3625 V                 | 95 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日  |
+| [Xeon X3360](http://ark.intel.com/zh-tw/products/33933) | 2.83 GHz | 8.5x                                                    |                                                      |                                                         |      |                                |                                                     |                                          |            |
+| [Xeon X3370](http://ark.intel.com/zh-tw/products/35433) | 3.0 GHz  | 9x                                                      | 2008年8月10日                                           |                                                         |      |                                |                                                     |                                          |            |
+| [Xeon X3380](http://ark.intel.com/zh-tw/products/41094) | 3.17 GHz | 9.5x                                                    | 2009年2月22日                                           |                                                         |      |                                |                                                     |                                          |            |
+| <font color=white>**低功耗**</font>                        |          |                                                         |                                                      |                                                         |      |                                |                                                     |                                          |            |
+| [Xeon L3360](http://ark.intel.com/zh-tw/products/40481) | E0       | 2.83 GHz                                                | 2×6 MB                                               | 1333 MT/s                                               | 8.5x | 0.85\~1.3625 V                 | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年2月22日 |
 
 #### "Yorkfield-CL" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、[C1E](../Page/高級配置與電源接口.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")*
   - 全部型號只支援單路處理器規格。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[16\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期    |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | ---- | ------------------------------ | -------------------------------- | ---------------------------------------- | ------- |
-| [Xeon X3323](http://ark.intel.com/zh-tw/products/35336) | E0       | 2.5 GHz                              | 2×3 MB                            | 1333 MT/s                            | 7.5x | 0.85\~1.35 V                   | 80 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年3月 |
-| [Xeon X3353](http://ark.intel.com/zh-tw/products/35278) | 2.67 GHz | 2×6 MB                               | 8x                                |                                      |      |                                |                                  |                                          |         |
-| [Xeon X3363](http://ark.intel.com/zh-tw/products/35279) | 2.83 GHz | 8.5x                                 |                                   |                                      |      |                                |                                  |                                          |         |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[16\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻   | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期    |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ------- |
+| [Xeon X3323](http://ark.intel.com/zh-tw/products/35336) | E0       | 2.5 GHz                                                 | 2×3 MB                                               | 1333 MT/s                                               | 7.5x | 0.85\~1.35 V                   | 80 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年3月 |
+| [Xeon X3353](http://ark.intel.com/zh-tw/products/35278) | 2.67 GHz | 2×6 MB                                                  | 8x                                                   |                                                         |      |                                |                                                     |                                                             |         |
+| [Xeon X3363](http://ark.intel.com/zh-tw/products/35279) | 2.83 GHz | 8.5x                                                    |                                                      |                                                         |      |                                |                                                     |                                                             |         |
 
 #### "Clovertown" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至雙路處理器規格。
   - 只有Xeon E5310 及 Xeon E5335不支援EIST。
   - 只有Xeon E5320, Xeon E5345, Xeon X5355, Xeon X5365 及 Xeon
@@ -1024,12 +1024,12 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[17]</p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[17]</p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1056,7 +1056,7 @@
 <td><p>6x</p></td>
 <td><p>1.0~1.5 V</p></td>
 <td><p>80 W</p></td>
-<td><p><a href="../Page/LGA_771.md" title="wikilink">LGA 771</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_771" title="wikilink">LGA 771</a></p></td>
 <td><p>2006年11月14日</p></td>
 </tr>
 <tr class="odd">
@@ -1190,7 +1190,7 @@ G0</p></td>
 <td><p>6x</p></td>
 <td><p>1.1~1.25 V</p></td>
 <td><p>50 W</p></td>
-<td><p><a href="../Page/LGA_771.md" title="wikilink">LGA 771</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_771" title="wikilink">LGA 771</a></p></td>
 <td><p>2007年3月12日</p></td>
 </tr>
 <tr class="even">
@@ -1235,81 +1235,81 @@ G0</p></td>
 #### "Harpertown" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、[C1E](../Page/高級配置與電源接口.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[C1E](https://zh.wikipedia.org/wiki/高級配置與電源接口 "wikilink")、*
   - 全部型號只支援單路處理器規格。
   - 只有Xeon E5405 及 Xeon L5408不支援Intel需求切換技術。
   - 只有Xeon E5405不支援EIST。
 
-| 型號                                                      | 步進       | [時脈](../Page/時脈.md "wikilink")\[18\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期        |
-| ------------------------------------------------------- | -------- | ------------------------------------ | --------------------------------- | ------------------------------------ | ----------- | ------------------------------ | -------------------------------- | ---------------------------------------- | ----------- |
-| <font color=white>**標準功耗**</font>                       |          |                                      |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5405](http://ark.intel.com/zh-tw/products/33079) | E0       | 2.0 GHz                              | 2×6 MB                            | 1333 MHz                             | 6x          | 0.85\~1.35 V                   | 80 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2007年11月11日 |
-| [Xeon E5410](http://ark.intel.com/zh-tw/products/33080) | 2.33 GHz | 7x                                   |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5420](http://ark.intel.com/zh-tw/products/33927) | 2.5 GHz  | 7.5x                                 |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5430](http://ark.intel.com/zh-tw/products/33081) | 2.67 GHz | 8x                                   |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5440](http://ark.intel.com/zh-tw/products/33082) | 2.83 GHz | 8.5x                                 |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5450](http://ark.intel.com/zh-tw/products/33083) | 3.0 GHz  | 9x                                   |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon X5450](http://ark.intel.com/zh-tw/products/34446) | 120 W    |                                      |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon X5460](http://ark.intel.com/zh-tw/products/33087) | 3.17 GHz | 9.5x                                 |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon E5462](http://ark.intel.com/zh-tw/products/33084) | 2.8 GHz  | 1600 MHz                             | 7x                                | 80 W                                 |             |                                |                                  |                                          |             |
-| [Xeon X5470](http://ark.intel.com/zh-tw/products/35430) | 3.33 GHz | 1333 MHz                             | 10x                               | 120 W                                | 2007年9月8日   |                                |                                  |                                          |             |
-| [Xeon E5472](http://ark.intel.com/zh-tw/products/33085) | 3.0 GHz  | 1600 MHz                             | 7.5x                              | 80 W                                 | 2007年11月11日 |                                |                                  |                                          |             |
-| [Xeon X5472](http://ark.intel.com/zh-tw/products/34447) | 120 W    |                                      |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon X5482](http://ark.intel.com/zh-tw/products/33088) | 3.2 GHz  | 8x                                   | 150 W                             |                                      |             |                                |                                  |                                          |             |
-| [Xeon X5492](http://ark.intel.com/zh-tw/products/36893) | 3.4 GHz  | 8.5x                                 | 2007年9月8日                         |                                      |             |                                |                                  |                                          |             |
-| <font color=white>**低功耗**</font>                        |          |                                      |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon L5408](http://ark.intel.com/zh-tw/products/34695) | E0       | 2.13 GHz                             | 2×6 MB                            | 1066 MHz                             | 8x          | 0.85\~1.35 V                   | 40 W                             | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年2月27日  |
-| [Xeon L5410](http://ark.intel.com/zh-tw/products/33090) | 2.33 GHz | 1333 MHz                             | 7x                                | 50 W                                 | 2008年3月25日  |                                |                                  |                                          |             |
-| [Xeon L5420](http://ark.intel.com/zh-tw/products/33929) | 2.5 GHz  | 7.5x                                 |                                   |                                      |             |                                |                                  |                                          |             |
-| [Xeon L5430](http://ark.intel.com/zh-tw/products/33091) | 2.67 GHz | 8x                                   | 2008年9月8日                         |                                      |             |                                |                                  |                                          |             |
+| 型號                                                      | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[18\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                          | 發佈日期        |
+| ------------------------------------------------------- | -------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ----------- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------- | ----------- |
+| <font color=white>**標準功耗**</font>                       |          |                                                         |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5405](http://ark.intel.com/zh-tw/products/33079) | E0       | 2.0 GHz                                                 | 2×6 MB                                               | 1333 MHz                                                | 6x          | 0.85\~1.35 V                   | 80 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2007年11月11日 |
+| [Xeon E5410](http://ark.intel.com/zh-tw/products/33080) | 2.33 GHz | 7x                                                      |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5420](http://ark.intel.com/zh-tw/products/33927) | 2.5 GHz  | 7.5x                                                    |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5430](http://ark.intel.com/zh-tw/products/33081) | 2.67 GHz | 8x                                                      |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5440](http://ark.intel.com/zh-tw/products/33082) | 2.83 GHz | 8.5x                                                    |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5450](http://ark.intel.com/zh-tw/products/33083) | 3.0 GHz  | 9x                                                      |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon X5450](http://ark.intel.com/zh-tw/products/34446) | 120 W    |                                                         |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon X5460](http://ark.intel.com/zh-tw/products/33087) | 3.17 GHz | 9.5x                                                    |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon E5462](http://ark.intel.com/zh-tw/products/33084) | 2.8 GHz  | 1600 MHz                                                | 7x                                                   | 80 W                                                    |             |                                |                                                     |                                                             |             |
+| [Xeon X5470](http://ark.intel.com/zh-tw/products/35430) | 3.33 GHz | 1333 MHz                                                | 10x                                                  | 120 W                                                   | 2007年9月8日   |                                |                                                     |                                                             |             |
+| [Xeon E5472](http://ark.intel.com/zh-tw/products/33085) | 3.0 GHz  | 1600 MHz                                                | 7.5x                                                 | 80 W                                                    | 2007年11月11日 |                                |                                                     |                                                             |             |
+| [Xeon X5472](http://ark.intel.com/zh-tw/products/34447) | 120 W    |                                                         |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon X5482](http://ark.intel.com/zh-tw/products/33088) | 3.2 GHz  | 8x                                                      | 150 W                                                |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon X5492](http://ark.intel.com/zh-tw/products/36893) | 3.4 GHz  | 8.5x                                                    | 2007年9月8日                                            |                                                         |             |                                |                                                     |                                                             |             |
+| <font color=white>**低功耗**</font>                        |          |                                                         |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon L5408](http://ark.intel.com/zh-tw/products/34695) | E0       | 2.13 GHz                                                | 2×6 MB                                               | 1066 MHz                                                | 8x          | 0.85\~1.35 V                   | 40 W                                                | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年2月27日  |
+| [Xeon L5410](http://ark.intel.com/zh-tw/products/33090) | 2.33 GHz | 1333 MHz                                                | 7x                                                   | 50 W                                                    | 2008年3月25日  |                                |                                                     |                                                             |             |
+| [Xeon L5420](http://ark.intel.com/zh-tw/products/33929) | 2.5 GHz  | 7.5x                                                    |                                                      |                                                         |             |                                |                                                     |                                                             |             |
+| [Xeon L5430](http://ark.intel.com/zh-tw/products/33091) | 2.67 GHz | 8x                                                      | 2008年9月8日                                            |                                                         |             |                                |                                                     |                                                             |             |
 
 ### Xeon MP (多核心)
 
 #### "Tigerton" (65 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")*
   - 全部型號最大支援至四路處理器規格。
 
-| 型號                                                      | 步進       | 核心      | [時脈](../Page/時脈.md "wikilink")\[19\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期      |
-| ------------------------------------------------------- | -------- | ------- | ------------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------------- | --------- |
-| <font color=white>**標準功耗**</font>                       |          |         |                                      |                                   |                                      |    |                                |                                  |                                                |           |
-| [Xeon E7210](http://ark.intel.com/zh-tw/products/30779) | G0       | 2       | 2.4 GHz                              | 2×4 MB                            | 1066 MT/s                            | 9x | 1.2\~1.325 V                   | 80 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2007年9月6日 |
-| [Xeon E7220](http://ark.intel.com/zh-tw/products/30790) | 2.93 GHz | 11x     |                                      |                                   |                                      |    |                                |                                  |                                                |           |
-| [Xeon E7310](http://ark.intel.com/zh-tw/products/30792) | 4        | 1.6 GHz | 2×2 MB                               | 6x                                | 1.2\~1.35 V                          |    |                                |                                  |                                                |           |
-| [Xeon E7320](http://ark.intel.com/zh-tw/products/30793) | 2.13 GHz | 8x      |                                      |                                   |                                      |    |                                |                                  |                                                |           |
-| [Xeon E7330](http://ark.intel.com/zh-tw/products/30794) | 2.4 GHz  | 2×3 MB  | 9x                                   |                                   |                                      |    |                                |                                  |                                                |           |
-| [Xeon E7340](http://ark.intel.com/zh-tw/products/30795) | 2×4 MB   |         |                                      |                                   |                                      |    |                                |                                  |                                                |           |
-| [Xeon E7350](http://ark.intel.com/zh-tw/products/30796) | 2.93 GHz | 11x     | 130 W                                |                                   |                                      |    |                                |                                  |                                                |           |
+| 型號                                                      | 步進       | 核心      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[19\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期      |
+| ------------------------------------------------------- | -------- | ------- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | --------- |
+| <font color=white>**標準功耗**</font>                       |          |         |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
+| [Xeon E7210](http://ark.intel.com/zh-tw/products/30779) | G0       | 2       | 2.4 GHz                                                 | 2×4 MB                                               | 1066 MT/s                                               | 9x | 1.2\~1.325 V                   | 80 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2007年9月6日 |
+| [Xeon E7220](http://ark.intel.com/zh-tw/products/30790) | 2.93 GHz | 11x     |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
+| [Xeon E7310](http://ark.intel.com/zh-tw/products/30792) | 4        | 1.6 GHz | 2×2 MB                                                  | 6x                                                   | 1.2\~1.35 V                                             |    |                                |                                                     |                                                                   |           |
+| [Xeon E7320](http://ark.intel.com/zh-tw/products/30793) | 2.13 GHz | 8x      |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
+| [Xeon E7330](http://ark.intel.com/zh-tw/products/30794) | 2.4 GHz  | 2×3 MB  | 9x                                                      |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
+| [Xeon E7340](http://ark.intel.com/zh-tw/products/30795) | 2×4 MB   |         |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
+| [Xeon E7350](http://ark.intel.com/zh-tw/products/30796) | 2.93 GHz | 11x     | 130 W                                                   |                                                      |                                                         |    |                                |                                                     |                                                                   |           |
 
 #### "Dunnington" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[EIST](../Page/EIST.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、*
   - 全部型號最大支援至四路處理器規格。
   - 只有Xeon E7440, Xeon E7450 及 Xeon X7460支援EIST。
 
-| 型號                                                                                                    | 步進       | 核心    | [時脈](../Page/時脈.md "wikilink")\[20\] | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| ----------------------------------------------------------------------------------------------------- | -------- | ----- | ------------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                                                                     |          |       |                                      |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon E7420](http://ark.intel.com/zh-tw/products/36945)                                               | A1       | 4     | 2.13 GHz                             | 8 MB                              | 1066 MT/s                            | 8x | 0.9\~1.45 V                    | 90 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2008年9月15日 |
-| [Xeon E7430](http://ark.intel.com/zh-tw/products/36939)                                               | 12 MB    |       |                                      |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon E7440](http://ark.intel.com/zh-tw/products/36943)                                               | 2.4 GHz  | 16 MB | 9x                                   |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon E7450](http://ark.intel.com/zh-tw/products/36941)                                               | 6        | 12 MB |                                      |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon E7458](https://web.archive.org/web/20120411065748/http://www.cpu-world.com/sspec/SL/SLG9N.html) | 16 MB    |       |                                      |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon X7460](http://ark.intel.com/zh-tw/products/36947)                                               | 2.66 GHz | 10x   | 130 W                                |                                   |                                      |    |                                |                                  |                                                |            |
-| <font color=white>**低功耗**</font>                                                                      |          |       |                                      |                                   |                                      |    |                                |                                  |                                                |            |
-| [Xeon L7445](http://ark.intel.com/zh-tw/products/36935)                                               | A1       | 4     | 2.13 GHz                             | 12 MB                             | 1066 MT/s                            | 8x | 0.9–1.45 V                     | 50 W                             | [Socket 604](../Page/Socket_604.md "wikilink") | 2008年9月15日 |
-| [Xeon L7455](http://ark.intel.com/zh-tw/products/36937)                                               | 6        | 65 W  |                                      |                                   |                                      |    |                                |                                  |                                                |            |
+| 型號                                                                                                    | 步進       | 核心    | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")\[20\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                                | 發佈日期       |
+| ----------------------------------------------------------------------------------------------------- | -------- | ----- | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                                     |          |       |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon E7420](http://ark.intel.com/zh-tw/products/36945)                                               | A1       | 4     | 2.13 GHz                                                | 8 MB                                                 | 1066 MT/s                                               | 8x | 0.9\~1.45 V                    | 90 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2008年9月15日 |
+| [Xeon E7430](http://ark.intel.com/zh-tw/products/36939)                                               | 12 MB    |       |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon E7440](http://ark.intel.com/zh-tw/products/36943)                                               | 2.4 GHz  | 16 MB | 9x                                                      |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon E7450](http://ark.intel.com/zh-tw/products/36941)                                               | 6        | 12 MB |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon E7458](https://web.archive.org/web/20120411065748/http://www.cpu-world.com/sspec/SL/SLG9N.html) | 16 MB    |       |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon X7460](http://ark.intel.com/zh-tw/products/36947)                                               | 2.66 GHz | 10x   | 130 W                                                   |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| <font color=white>**低功耗**</font>                                                                      |          |       |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
+| [Xeon L7445](http://ark.intel.com/zh-tw/products/36935)                                               | A1       | 4     | 2.13 GHz                                                | 12 MB                                                | 1066 MT/s                                               | 8x | 0.9–1.45 V                     | 50 W                                                | [Socket 604](https://zh.wikipedia.org/wiki/Socket_604 "wikilink") | 2008年9月15日 |
+| [Xeon L7455](http://ark.intel.com/zh-tw/products/36937)                                               | 6        | 65 W  |                                                         |                                                      |                                                         |    |                                |                                                     |                                                                   |            |
 
 ## 基於[Nehalem微架構的Xeon](../Page/Nehalem微架構.md "wikilink")
 
@@ -1318,229 +1318,229 @@ G0</p></td>
 #### "Clarkdale" ([MCP](../Page/多晶片模組.md "wikilink")，32 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、[ECC](../Page/糾錯內存.md "wikilink")、*
-  - 基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")(原名為Nehalem-C)發展的處理器。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
+  - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon L3406支援超執行緒及渦輪加速技術。
 
-| 型號                                                                                         | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[21\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [DMI](../Page/直接媒體介面.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期     |
-| ------------------------------------------------------------------------------------------ | -------- | -------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | ----------------------------------- | --- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | -------- |
-| <font color=white>**標準功耗**</font>                                                          |          |          |                                |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |          |
-| [Xeon L3403](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L3403%20-%20CM80616005496AB.html) | K0       | 2        | 2.0 GHz                        | 無                                               | 2×256 KB                          | 4 MB                              | 2.5 GT/s                            | 15x | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 30 W                             | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2010年10月 |
-| [Xeon L3406](http://ark.intel.com/zh-tw/products/47555)                                    | 2.27 GHz | 2.53 GHz | 17x                            | 2010年3月16日                                      |                                   |                                   |                                     |     |                                             |                                  |                                            |          |
+| 型號                                                                                         | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[21\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [DMI](https://zh.wikipedia.org/wiki/直接媒體介面 "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期     |
+| ------------------------------------------------------------------------------------------ | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ | --- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------ | -------- |
+| <font color=white>**標準功耗**</font>                                                          |          |          |                                                   |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |          |
+| [Xeon L3403](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L3403%20-%20CM80616005496AB.html) | K0       | 2        | 2.0 GHz                                           | 無                                                                  | 2×256 KB                                             | 4 MB                                                 | 2.5 GT/s                                               | 15x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 30 W                                                | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2010年10月 |
+| [Xeon L3406](http://ark.intel.com/zh-tw/products/47555)                                    | 2.27 GHz | 2.53 GHz | 17x                                               | 2010年3月16日                                                         |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |          |
 
 #### "Lynnfield" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、[ECC](../Page/糾錯內存.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有Xeon X3430不支援超執行緒。
 
-| 型號                                                      | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[22\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [DMI](../Page/直接媒體介面.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期      |
-| ------------------------------------------------------- | -------- | -------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | ----------------------------------- | --- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | --------- |
-| <font color=white>**標準功耗**</font>                       |          |          |                                |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon X3430](http://ark.intel.com/zh-tw/products/42927) | B1       | 4        | 2.4 GHz                        | 2.8 GHz                                         | 4×256 KB                          | 8 MB                              | 2.5 GT/s                            | 18x | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 95 W                             | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2009年9月8日 |
-| [Xeon X3440](http://ark.intel.com/zh-tw/products/42928) | 2.53 GHz | 2.93 GHz | 19x                            |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon X3450](http://ark.intel.com/zh-tw/products/42929) | 2.66 GHz | 3.2 GHz  | 20x                            |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon X3460](http://ark.intel.com/zh-tw/products/42931) | 2.8 GHz  | 3.46 GHz | 21x                            |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon X3470](http://ark.intel.com/zh-tw/products/42932) | 2.93 GHz | 3.6 GHz  | 22x                            |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon X3480](http://ark.intel.com/zh-tw/products/48501) | 3.06 GHz | 3.73 GHz | 23x                            | 2010年5月30日                                      |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| <font color=white>**低功耗**</font>                        |          |          |                                |                                                 |                                   |                                   |                                     |     |                                             |                                  |                                            |           |
-| [Xeon L3426](http://ark.intel.com/zh-tw/products/43233) | B1       | 4        | 1.87 GHz                       | 3.2 GHz                                         | 4×256 KB                          | 8 MB                              | 2.5 GT/s                            | 14x | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 45 W                             | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2009年9月8日 |
+| 型號                                                      | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[22\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [DMI](https://zh.wikipedia.org/wiki/直接媒體介面 "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期      |
+| ------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ | --- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------ | --------- |
+| <font color=white>**標準功耗**</font>                       |          |          |                                                   |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon X3430](http://ark.intel.com/zh-tw/products/42927) | B1       | 4        | 2.4 GHz                                           | 2.8 GHz                                                            | 4×256 KB                                             | 8 MB                                                 | 2.5 GT/s                                               | 18x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 95 W                                                | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2009年9月8日 |
+| [Xeon X3440](http://ark.intel.com/zh-tw/products/42928) | 2.53 GHz | 2.93 GHz | 19x                                               |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon X3450](http://ark.intel.com/zh-tw/products/42929) | 2.66 GHz | 3.2 GHz  | 20x                                               |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon X3460](http://ark.intel.com/zh-tw/products/42931) | 2.8 GHz  | 3.46 GHz | 21x                                               |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon X3470](http://ark.intel.com/zh-tw/products/42932) | 2.93 GHz | 3.6 GHz  | 22x                                               |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon X3480](http://ark.intel.com/zh-tw/products/48501) | 3.06 GHz | 3.73 GHz | 23x                                               | 2010年5月30日                                                         |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| <font color=white>**低功耗**</font>                        |          |          |                                                   |                                                                    |                                                      |                                                      |                                                        |     |                                                                |                                                     |                                            |           |
+| [Xeon L3426](http://ark.intel.com/zh-tw/products/43233) | B1       | 4        | 1.87 GHz                                          | 3.2 GHz                                                            | 4×256 KB                                             | 8 MB                                                 | 2.5 GT/s                                               | 14x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 45 W                                                | [LGA 1156](../Page/LGA_1156.md "wikilink") | 2009年9月8日 |
 
 #### "Bloomfield" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、[ECC](../Page/糾錯內存.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有四核心支援超執行緒及渦輪加速技術。
 
-| 型號                                                      | 步進       | 核心         | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[23\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [QPI](../Page/QPI.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| ------------------------------------------------------- | -------- | ---------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | -------------------------------- | --- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |            |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3503](http://ark.intel.com/zh-tw/products/40799) | D0       | 2          | 2.4 GHz                        | N/A                                             | 2×256 KB                          | 4 MB                              | 4.8 GT/s                         | 18x | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 130 W                            | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2009年3月30日 |
-| [Xeon W3505](http://ark.intel.com/zh-tw/products/40800) | 2.53 GHz | 19x        |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3520](http://ark.intel.com/zh-tw/products/39718) | 4        | 2.66 GHz   | 2.93 GHz                       | 4×256 KB                                        | 8 MB                              | 20x                               |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3530](http://ark.intel.com/zh-tw/products/41313) | 2.8 GHz  | 3.06 GHz   | 21x                            | 2010年3月16日                                      |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3540](http://ark.intel.com/zh-tw/products/39719) | 2.93 GHz | 3.2 GHz    | 22x                            | 2009年3月30日                                      |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3550](http://ark.intel.com/zh-tw/products/39720) | 3.06 GHz | 3.33 GHz   | 23x                            | 2009年8月9日                                       |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3565](http://ark.intel.com/zh-tw/products/39721) | 3.2 GHz  | 3.46 GHz   | 24x                            | 2009年11月1日                                      |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3570](http://ark.intel.com/zh-tw/products/39722) | 6.4 GT/s | 2009年3月30日 |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3580](http://ark.intel.com/zh-tw/products/39723) | 3.33 GHz | 3.6 GHz    | 25x                            | 2009年8月9日                                       |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
+| 型號                                                      | 步進       | 核心         | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[23\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| ------------------------------------------------------- | -------- | ---------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | --- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |            |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3503](http://ark.intel.com/zh-tw/products/40799) | D0       | 2          | 2.4 GHz                                           | N/A                                                                | 2×256 KB                                             | 4 MB                                                 | 4.8 GT/s                                            | 18x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 130 W                                               | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2009年3月30日 |
+| [Xeon W3505](http://ark.intel.com/zh-tw/products/40800) | 2.53 GHz | 19x        |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3520](http://ark.intel.com/zh-tw/products/39718) | 4        | 2.66 GHz   | 2.93 GHz                                          | 4×256 KB                                                           | 8 MB                                                 | 20x                                                  |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3530](http://ark.intel.com/zh-tw/products/41313) | 2.8 GHz  | 3.06 GHz   | 21x                                               | 2010年3月16日                                                         |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3540](http://ark.intel.com/zh-tw/products/39719) | 2.93 GHz | 3.2 GHz    | 22x                                               | 2009年3月30日                                                         |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3550](http://ark.intel.com/zh-tw/products/39720) | 3.06 GHz | 3.33 GHz   | 23x                                               | 2009年8月9日                                                          |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3565](http://ark.intel.com/zh-tw/products/39721) | 3.2 GHz  | 3.46 GHz   | 24x                                               | 2009年11月1日                                                         |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3570](http://ark.intel.com/zh-tw/products/39722) | 6.4 GT/s | 2009年3月30日 |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3580](http://ark.intel.com/zh-tw/products/39723) | 3.33 GHz | 3.6 GHz    | 25x                                               | 2009年8月9日                                                          |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
 
 #### "Jasper Forest" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、[ECC](../Page/糾錯內存.md "wikilink")、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
 
-| 型號                                                       | 步進 | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[24\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [DMI](../Page/直接媒體介面.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")            | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| -------------------------------------------------------- | -- | -------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | ----------------------------------- | --- | --------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                        |    |          |                                |                                                 |                                   |                                   |                                     |     |                                               |                                  |                                            |            |
-| [Xeon EC3539](http://ark.intel.com/zh-tw/products/47642) | B0 | 4        | 2.13 GHz                       | N/A                                             | 4×256 KB                          | 8 MB                              | 2.5 GT/s                            | 16x | 3×[DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 65 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年2月11日 |
-| <font color=white>**低功耗**</font>                         |    |          |                                |                                                 |                                   |                                   |                                     |     |                                               |                                  |                                            |            |
-| [Xeon LC3518](http://ark.intel.com/zh-tw/products/47646) | B0 | 1        | 1.73 GHz                       | 無                                               | 256 KB                            | 2 MB                              | 2.5 GT/s                            | 13x | 2×[DDR3](../Page/DDR3.md "wikilink")-800 MHz  | 23 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年2月11日 |
-| [Xeon LC3528](http://ark.intel.com/zh-tw/products/47645) | 2  | 1.87 GHz | 2×256 KB                       | 35 W                                            |                                   |                                   |                                     |     |                                               |                                  |                                            |            |
+| 型號                                                       | 步進 | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[24\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [DMI](https://zh.wikipedia.org/wiki/直接媒體介面 "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")            | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| -------------------------------------------------------- | -- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ | --- | ---------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                        |    |          |                                                   |                                                                    |                                                      |                                                      |                                                        |     |                                                                  |                                                     |                                                               |            |
+| [Xeon EC3539](http://ark.intel.com/zh-tw/products/47642) | B0 | 4        | 2.13 GHz                                          | N/A                                                                | 4×256 KB                                             | 8 MB                                                 | 2.5 GT/s                                               | 16x | 3×[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 65 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年2月11日 |
+| <font color=white>**低功耗**</font>                         |    |          |                                                   |                                                                    |                                                      |                                                      |                                                        |     |                                                                  |                                                     |                                                               |            |
+| [Xeon LC3518](http://ark.intel.com/zh-tw/products/47646) | B0 | 1        | 1.73 GHz                                          | 無                                                                  | 256 KB                                               | 2 MB                                                 | 2.5 GT/s                                               | 13x | 2×[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-800 MHz  | 23 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年2月11日 |
+| [Xeon LC3528](http://ark.intel.com/zh-tw/products/47645) | 2  | 1.87 GHz | 2×256 KB                                          | 35 W                                                               |                                                      |                                                      |                                                        |     |                                                                  |                                                     |                                                               |            |
 
 #### "Gulftown" (32 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、[ECC](../Page/糾錯內存.md "wikilink")、*
-  - 基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")(原名為Nehalem-C)發展的處理器。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
+  - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
 
-| 型號                                                      | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[25\] | L2 [快取](../Page/快取.md "wikilink")           | L3 [快取](../Page/快取.md "wikilink") | [QPI](../Page/QPI.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| ------------------------------------------------------- | -------- | -------- | ------------------------------ | ----------------------------------------------- | ------------------------------------------- | --------------------------------- | -------------------------------- | --- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |          |                                |                                                 |                                             |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3670](http://ark.intel.com/zh-tw/products/47918) | B1       | 6        | 3.2 GHz                        | 3.46 GHz                                        | 6×256 KB                                    | 12 MB                             | 4.8 GT/s                         | 24x | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 130 W                            | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年8月29日 |
-| [Xeon W3680](http://ark.intel.com/zh-tw/products/47917) | 3.33 GHz | 3.6 GHz  | 6.4 GT/s                       | 25x                                             | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 2010年3月16日                        |                                  |     |                                             |                                  |                                            |            |
-| [Xeon W3690](http://ark.intel.com/zh-tw/products/52586) | 3.47 GHz | 3.73 GHz | 26x                            | 2011年2月14日                                      |                                             |                                   |                                  |     |                                             |                                  |                                            |            |
+| 型號                                                      | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[25\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink")           | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| ------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | --- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |          |                                                   |                                                                    |                                                                |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3670](http://ark.intel.com/zh-tw/products/47918) | B1       | 6        | 3.2 GHz                                           | 3.46 GHz                                                           | 6×256 KB                                                       | 12 MB                                                | 4.8 GT/s                                            | 24x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 130 W                                               | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年8月29日 |
+| [Xeon W3680](http://ark.intel.com/zh-tw/products/47917) | 3.33 GHz | 3.6 GHz  | 6.4 GT/s                                          | 25x                                                                | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 2010年3月16日                                           |                                                     |     |                                                                |                                                     |                                                               |            |
+| [Xeon W3690](http://ark.intel.com/zh-tw/products/52586) | 3.47 GHz | 3.73 GHz | 26x                                               | 2011年2月14日                                                         |                                                                |                                                      |                                                     |     |                                                                |                                                     |                                                               |            |
 
 ### Xeon 5000系列 (雙路處理器)
 
 #### "Gainestown" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、*
-  - 基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")(原名為Nehalem-C)發展的處理器。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
+  - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon E5502, Xeon E5503, Xeon E5504, Xeon E5506, Xeon L5506 及 Xeon
     E5507不支援超執行緒及渦輪加速技術。
 
-| 型號                                                      | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[26\] | L2 [快取](../Page/快取.md "wikilink")           | L3 [快取](../Page/快取.md "wikilink") | [QPI](../Page/QPI.md "wikilink") | 倍頻                                         | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| ------------------------------------------------------- | -------- | -------- | ------------------------------ | ----------------------------------------------- | ------------------------------------------- | --------------------------------- | -------------------------------- | ------------------------------------------ | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |          |                                |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5502](http://ark.intel.com/zh-tw/products/37092) | D0       | 2        | 1.87 GHz                       | N/A                                             | 2×256 KB                                    | 4 MB                              | 2×4.8 GT/s                       | 14x                                        | [DDR3](../Page/DDR3.md "wikilink")-800 MHz  | 80 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2009年3月30日 |
-| [Xeon E5503](http://ark.intel.com/zh-tw/products/37094) | 2.0 GHz  | 15x      | 2010年3月16日                     |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5504](http://ark.intel.com/zh-tw/products/40711) | 4        | 4×256 KB | 2009年3月30日                     |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5506](http://ark.intel.com/zh-tw/products/37096) | 2.13 GHz | 16x      |                                |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5507](http://ark.intel.com/zh-tw/products/37100) | 2.26 GHz | 17x      | 2010年3月16日                     |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5520](http://ark.intel.com/zh-tw/products/40200) | 2.53 GHz | 8 MB     | 2×5.86 GT/s                    | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz     | 2009年3月30日                                  |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5530](http://ark.intel.com/zh-tw/products/37103) | 2.4 GHz  | 2.66 GHz | 18x                            |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5540](http://ark.intel.com/zh-tw/products/37104) | 2.53 GHz | 2.8 GHz  | 19x                            |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5550](http://ark.intel.com/zh-tw/products/37106) | 2.67 GHz | 3.06 GHz | 2×6.4 GT/s                     | 20x                                             | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 95 W                              |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5560](http://ark.intel.com/zh-tw/products/37109) | 2.8 GHz  | 3.2 GHz  | 21x                            |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5570](http://ark.intel.com/zh-tw/products/37111) | 2.93 GHz | 3.33 GHz | 22x                            |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon W5580](http://ark.intel.com/zh-tw/products/37113) | 3.2 GHz  | 3.46 GHz | 24x                            | 130 W                                           |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon W5590](http://ark.intel.com/zh-tw/products/41643) | 3.33 GHz | 3.6 GHz  | 25x                            | 2009年8月9日                                       |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| <font color=white>**低功耗**</font>                        |          |          |                                |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon E5508](http://ark.intel.com/zh-tw/products/40726) | D0       | 2        | 2.0 GHz                        | 2.4 GHz                                         | 2×256 KB                                    | 8 MB                              | 2×5.86 GT/s                      | 15x                                        | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 38 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2009年3月30日 |
-| [Xeon L5506](http://ark.intel.com/zh-tw/products/40712) | 4        | 2.13 GHz | N/A                            | 4×256 KB                                        | 4 MB                                        | 2×4.8 GT/s                        | 16x                              | [DDR3](../Page/DDR3.md "wikilink")-800 MHz | 60 W                                        |                                  |                                            |            |
-| [Xeon L5518](http://ark.intel.com/zh-tw/products/40727) | 2.4 GHz  | 8 MB     | 2×5.86 GT/s                    | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz     |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon L5520](http://ark.intel.com/zh-tw/products/40201) | 2.26 GHz | 2.48 GHz | 17x                            |                                                 |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
-| [Xeon L5530](http://ark.intel.com/zh-tw/products/41755) | 2.4 GHz  | 2.66 GHz | 18x                            | 2009年8月9日                                       |                                             |                                   |                                  |                                            |                                             |                                  |                                            |            |
+| 型號                                                      | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[26\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink")           | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻                                                            | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| ------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |          |                                                   |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5502](http://ark.intel.com/zh-tw/products/37092) | D0       | 2        | 1.87 GHz                                          | N/A                                                                | 2×256 KB                                                       | 4 MB                                                 | 2×4.8 GT/s                                          | 14x                                                           | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-800 MHz  | 80 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2009年3月30日 |
+| [Xeon E5503](http://ark.intel.com/zh-tw/products/37094) | 2.0 GHz  | 15x      | 2010年3月16日                                        |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5504](http://ark.intel.com/zh-tw/products/40711) | 4        | 4×256 KB | 2009年3月30日                                        |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5506](http://ark.intel.com/zh-tw/products/37096) | 2.13 GHz | 16x      |                                                   |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5507](http://ark.intel.com/zh-tw/products/37100) | 2.26 GHz | 17x      | 2010年3月16日                                        |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5520](http://ark.intel.com/zh-tw/products/40200) | 2.53 GHz | 8 MB     | 2×5.86 GT/s                                       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz     | 2009年3月30日                                                     |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5530](http://ark.intel.com/zh-tw/products/37103) | 2.4 GHz  | 2.66 GHz | 18x                                               |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5540](http://ark.intel.com/zh-tw/products/37104) | 2.53 GHz | 2.8 GHz  | 19x                                               |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5550](http://ark.intel.com/zh-tw/products/37106) | 2.67 GHz | 3.06 GHz | 2×6.4 GT/s                                        | 20x                                                                | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 95 W                                                 |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5560](http://ark.intel.com/zh-tw/products/37109) | 2.8 GHz  | 3.2 GHz  | 21x                                               |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5570](http://ark.intel.com/zh-tw/products/37111) | 2.93 GHz | 3.33 GHz | 22x                                               |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon W5580](http://ark.intel.com/zh-tw/products/37113) | 3.2 GHz  | 3.46 GHz | 24x                                               | 130 W                                                              |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon W5590](http://ark.intel.com/zh-tw/products/41643) | 3.33 GHz | 3.6 GHz  | 25x                                               | 2009年8月9日                                                          |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| <font color=white>**低功耗**</font>                        |          |          |                                                   |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon E5508](http://ark.intel.com/zh-tw/products/40726) | D0       | 2        | 2.0 GHz                                           | 2.4 GHz                                                            | 2×256 KB                                                       | 8 MB                                                 | 2×5.86 GT/s                                         | 15x                                                           | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 38 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2009年3月30日 |
+| [Xeon L5506](http://ark.intel.com/zh-tw/products/40712) | 4        | 2.13 GHz | N/A                                               | 4×256 KB                                                           | 4 MB                                                           | 2×4.8 GT/s                                           | 16x                                                 | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-800 MHz | 60 W                                                           |                                                     |                                                               |            |
+| [Xeon L5518](http://ark.intel.com/zh-tw/products/40727) | 2.4 GHz  | 8 MB     | 2×5.86 GT/s                                       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz     |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon L5520](http://ark.intel.com/zh-tw/products/40201) | 2.26 GHz | 2.48 GHz | 17x                                               |                                                                    |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
+| [Xeon L5530](http://ark.intel.com/zh-tw/products/41755) | 2.4 GHz  | 2.66 GHz | 18x                                               | 2009年8月9日                                                          |                                                                |                                                      |                                                     |                                                               |                                                                |                                                     |                                                               |            |
 
 #### "Jasper Forest" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、*
-  - 基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")(原名為Nehalem-C)發展的處理器。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
+  - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon 5509及 Xeon 5539不支援超執行緒及渦輪加速技術。
 
-| 型號                                                       | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[27\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [QPI](../Page/QPI.md "wikilink")            | 倍頻   | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| -------------------------------------------------------- | -------- | -------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------------- | ---- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                        |          |          |                                |                                                 |                                   |                                   |                                             |      |                                             |                                  |                                            |            |
-| [Xeon EC5509](http://ark.intel.com/zh-tw/products/47643) | B0       | 4        | 2.0 GHz                        | N/A                                             | 4×256 KB                          | 8 MB                              | 4.8 GT/s                                    | 15x  | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 85 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年2月12日 |
-| [Xeon EC5539](http://ark.intel.com/zh-tw/products/47640) | 2        | 2.27 GHz | 2×256 KB                       | 4 MB                                            | 5.86 GT/s                         | 17x                               | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 65 W |                                             |                                  |                                            |            |
-| [Xeon EC5549](http://ark.intel.com/zh-tw/products/47640) | 4        | 2.53 GHz | 2.93 GHz                       | 4×256 KB                                        | 8 MB                              | 19x                               | 85 W                                        |      |                                             |                                  |                                            |            |
-| <font color=white>**低功耗**</font>                         |          |          |                                |                                                 |                                   |                                   |                                             |      |                                             |                                  |                                            |            |
-| [Xeon LC5518](http://ark.intel.com/zh-tw/products/47644) | B0       | 4        | 1.73 GHz                       | 2.13 GHz                                        | 4×256 KB                          | 8 MB                              | 4.8 GT/s                                    | 13x  | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 48 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年2月12日 |
-| [Xeon EC5528](http://ark.intel.com/zh-tw/products/47641) | 2.13 GHz | 2.53 GHz | 16x                            | 60 W                                            |                                   |                                   |                                             |      |                                             |                                  |                                            |            |
+| 型號                                                       | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[27\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink")            | 倍頻   | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| -------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------- | ---- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                        |          |          |                                                   |                                                                    |                                                      |                                                      |                                                                |      |                                                                |                                                     |                                                               |            |
+| [Xeon EC5509](http://ark.intel.com/zh-tw/products/47643) | B0       | 4        | 2.0 GHz                                           | N/A                                                                | 4×256 KB                                             | 8 MB                                                 | 4.8 GT/s                                                       | 15x  | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 85 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年2月12日 |
+| [Xeon EC5539](http://ark.intel.com/zh-tw/products/47640) | 2        | 2.27 GHz | 2×256 KB                                          | 4 MB                                                               | 5.86 GT/s                                            | 17x                                                  | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 65 W |                                                                |                                                     |                                                               |            |
+| [Xeon EC5549](http://ark.intel.com/zh-tw/products/47640) | 4        | 2.53 GHz | 2.93 GHz                                          | 4×256 KB                                                           | 8 MB                                                 | 19x                                                  | 85 W                                                           |      |                                                                |                                                     |                                                               |            |
+| <font color=white>**低功耗**</font>                         |          |          |                                                   |                                                                    |                                                      |                                                      |                                                                |      |                                                                |                                                     |                                                               |            |
+| [Xeon LC5518](http://ark.intel.com/zh-tw/products/47644) | B0       | 4        | 1.73 GHz                                          | 2.13 GHz                                                           | 4×256 KB                                             | 8 MB                                                 | 4.8 GT/s                                                       | 13x  | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 48 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年2月12日 |
+| [Xeon EC5528](http://ark.intel.com/zh-tw/products/47641) | 2.13 GHz | 2.53 GHz | 16x                                               | 60 W                                                               |                                                      |                                                      |                                                                |      |                                                                |                                                     |                                                               |            |
 
 #### "Westmere-EP" (32 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、*
-  - 基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")(原名為Nehalem-C)發展的處理器。
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
+  - 基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")(原名為Nehalem-C)發展的處理器。
   - 只有Xeon E5603、Xeon E5606、Xeon E5607 及 Xeon L5609不支援超執行緒及渦輪加速技術。
 
-| 型號                                                                                         | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[28\] | L2 [快取](../Page/快取.md "wikilink")           | L3 [快取](../Page/快取.md "wikilink")           | [QPI](../Page/QPI.md "wikilink") | 倍頻   | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| ------------------------------------------------------------------------------------------ | -------- | -------- | ------------------------------ | ----------------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------- | ---- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                                                          |          |          |                                |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5603](http://ark.intel.com/zh-tw/products/52584)                                    | B1       | 4        | 1.6 GHz                        | N/A                                             | 4×256 KB                                    | 4 MB                                        | 2×4.8 GT/s                       | 12x  | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 80 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2011年2月14日 |
-| [Xeon E5604](http://ark.intel.com/zh-tw/products/52583)                                    | 2.13 GHz | 8 MB     | 16x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5607](http://ark.intel.com/zh-tw/products/52582)                                    | 2.27 GHz | 17x      |                                |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5620](http://ark.intel.com/zh-tw/products/47925)                                    | 2.4 GHz  | 2.66 GHz | 12 MB                          | 2×5.86 GT/s                                     | 18x                                         | 2010年3月16日                                  |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5630](http://ark.intel.com/zh-tw/products/47924)                                    | 2.53 GHz | 2.8 GHz  | 19x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5640](http://ark.intel.com/zh-tw/products/47923)                                    | 2.66 GHz | 2.93 GHz | 20x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5647](http://ark.intel.com/zh-tw/products/52580)                                    | 2.93 GHz | 3.2 GHz  | 22x                            | 130 W                                           | 2011年2月14日                                  |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5667](http://ark.intel.com/zh-tw/products/47919)                                    | 3.06 GHz | 3.46 GHz | 2×6.4 GT/s                     | 23x                                             | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 95 W                                        | 2010年3月16日                       |      |                                             |                                  |                                            |            |
-| [Xeon X5672](http://ark.intel.com/zh-tw/products/52579)                                    | 3.2 GHz  | 3.6 GHz  | 24x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5677](http://ark.intel.com/zh-tw/products/47929)                                    | 3.46 GHz | 3.73 GHz | 26x                            | 130 W                                           | 2010年3月16日                                  |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5687](http://ark.intel.com/zh-tw/products/52578)                                    | 3.6 GHz  | 3.86 GHz | 27x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon E5645](http://ark.intel.com/zh-tw/products/48768)                                    | 6        | 2.4 GHz  | 2.56 GHz                       | 6×256 KB                                        | 4 MB                                        | 2×5.86 GT/s                                 | 18x                              | 80 W | 2010年3月16日                                  |                                  |                                            |            |
-| [Xeon E5649](http://ark.intel.com/zh-tw/products/52581)                                    | 2.53 GHz | 2.93 GHz | 19x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5650](http://ark.intel.com/zh-tw/products/47922)                                    | 2.66 GHz | 3.06 GHz | 2×6.4 GT/s                     | 20x                                             | 95 W                                        | 2010年3月16日                                  |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5660](http://ark.intel.com/zh-tw/products/47921)                                    | 2.8 GHz  | 3.2 GHz  | 21x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5670](http://ark.intel.com/zh-tw/products/47920)                                    | 2.93 GHz | 3.33 GHz | 22x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5675](http://ark.intel.com/zh-tw/products/52577)                                    | 3.06 GHz | 3.46 GHz | 23x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5679](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20X5679%20-%20AT80614006924AA.html) | 3.2 GHz  | 3.47 GHz | 24x                            | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz     | 115 W                                       |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5680](http://ark.intel.com/zh-tw/products/47916)                                    | 3.33 GHz | 3.6 GHz  | 25x                            | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz     | 130 W                                       | 2010年3月16日                                  |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5690](http://ark.intel.com/zh-tw/products/52576)                                    | 3.46 GHz | 3.73 GHz | 26x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon X5698](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20X5698%20-%20AT80614007314AA.html) | 2        | 4.4 GHz  | 4.53 GHz                       | 2×256 KB                                        | 12 MB                                       | 33x                                         | 2011年第1季                         |      |                                             |                                  |                                            |            |
-| <font color=white>**低功耗**</font>                                                           |          |          |                                |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon L5609](http://ark.intel.com/zh-tw/products/47928)                                    | B1       | 4        | 1.86 GHz                       | N/A                                             | 4×256 KB                                    | 12 MB                                       | 2×4.8 GT/s                       | 14x  | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 40 W                             | [LGA 1366](../Page/LGA_1366.md "wikilink") | 2010年3月16日 |
-| [Xeon L5618](http://ark.intel.com/zh-tw/products/48767)                                    | 1.87 GHz | 2.26 GHz | 2×5.86 GT/s                    |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon L5630](http://ark.intel.com/zh-tw/products/47927)                                    | 2.13 GHz | 2.4 GHz  | 26x                            |                                                 |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon L5638](http://ark.intel.com/zh-tw/products/48766)                                    | 6        | 2.0 GHz  | 6×256 KB                       | 2×5.86 GT/s                                     | 15x                                         | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 60 W                             |      |                                             |                                  |                                            |            |
-| [Xeon L5639](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L5639%20-%20AT80614005076AB.html) | 2.13 GHz | 2.66 GHz | 16x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon L5640](http://ark.intel.com/zh-tw/products/48766)                                    | 2.26 GHz | 2.8 GHz  | 17x                            | 2010年3月16日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
-| [Xeon L5645](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L5639%20-%20AT80614005076AB.html) | 2.13 GHz | 2.93 GHz | 18x                            | 2011年2月14日                                      |                                             |                                             |                                  |      |                                             |                                  |                                            |            |
+| 型號                                                                                         | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[28\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink")           | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink")           | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻   | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期       |
+| ------------------------------------------------------------------------------------------ | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ---- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                          |          |          |                                                   |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5603](http://ark.intel.com/zh-tw/products/52584)                                    | B1       | 4        | 1.6 GHz                                           | N/A                                                                | 4×256 KB                                                       | 4 MB                                                           | 2×4.8 GT/s                                          | 12x  | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 80 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2011年2月14日 |
+| [Xeon E5604](http://ark.intel.com/zh-tw/products/52583)                                    | 2.13 GHz | 8 MB     | 16x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5607](http://ark.intel.com/zh-tw/products/52582)                                    | 2.27 GHz | 17x      |                                                   |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5620](http://ark.intel.com/zh-tw/products/47925)                                    | 2.4 GHz  | 2.66 GHz | 12 MB                                             | 2×5.86 GT/s                                                        | 18x                                                            | 2010年3月16日                                                     |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5630](http://ark.intel.com/zh-tw/products/47924)                                    | 2.53 GHz | 2.8 GHz  | 19x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5640](http://ark.intel.com/zh-tw/products/47923)                                    | 2.66 GHz | 2.93 GHz | 20x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5647](http://ark.intel.com/zh-tw/products/52580)                                    | 2.93 GHz | 3.2 GHz  | 22x                                               | 130 W                                                              | 2011年2月14日                                                     |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5667](http://ark.intel.com/zh-tw/products/47919)                                    | 3.06 GHz | 3.46 GHz | 2×6.4 GT/s                                        | 23x                                                                | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 95 W                                                           | 2010年3月16日                                          |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5672](http://ark.intel.com/zh-tw/products/52579)                                    | 3.2 GHz  | 3.6 GHz  | 24x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5677](http://ark.intel.com/zh-tw/products/47929)                                    | 3.46 GHz | 3.73 GHz | 26x                                               | 130 W                                                              | 2010年3月16日                                                     |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5687](http://ark.intel.com/zh-tw/products/52578)                                    | 3.6 GHz  | 3.86 GHz | 27x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon E5645](http://ark.intel.com/zh-tw/products/48768)                                    | 6        | 2.4 GHz  | 2.56 GHz                                          | 6×256 KB                                                           | 4 MB                                                           | 2×5.86 GT/s                                                    | 18x                                                 | 80 W | 2010年3月16日                                                     |                                                     |                                                               |            |
+| [Xeon E5649](http://ark.intel.com/zh-tw/products/52581)                                    | 2.53 GHz | 2.93 GHz | 19x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5650](http://ark.intel.com/zh-tw/products/47922)                                    | 2.66 GHz | 3.06 GHz | 2×6.4 GT/s                                        | 20x                                                                | 95 W                                                           | 2010年3月16日                                                     |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5660](http://ark.intel.com/zh-tw/products/47921)                                    | 2.8 GHz  | 3.2 GHz  | 21x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5670](http://ark.intel.com/zh-tw/products/47920)                                    | 2.93 GHz | 3.33 GHz | 22x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5675](http://ark.intel.com/zh-tw/products/52577)                                    | 3.06 GHz | 3.46 GHz | 23x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5679](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20X5679%20-%20AT80614006924AA.html) | 3.2 GHz  | 3.47 GHz | 24x                                               | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz     | 115 W                                                          |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5680](http://ark.intel.com/zh-tw/products/47916)                                    | 3.33 GHz | 3.6 GHz  | 25x                                               | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz     | 130 W                                                          | 2010年3月16日                                                     |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5690](http://ark.intel.com/zh-tw/products/52576)                                    | 3.46 GHz | 3.73 GHz | 26x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon X5698](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20X5698%20-%20AT80614007314AA.html) | 2        | 4.4 GHz  | 4.53 GHz                                          | 2×256 KB                                                           | 12 MB                                                          | 33x                                                            | 2011年第1季                                            |      |                                                                |                                                     |                                                               |            |
+| <font color=white>**低功耗**</font>                                                           |          |          |                                                   |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5609](http://ark.intel.com/zh-tw/products/47928)                                    | B1       | 4        | 1.86 GHz                                          | N/A                                                                | 4×256 KB                                                       | 12 MB                                                          | 2×4.8 GT/s                                          | 14x  | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 40 W                                                | [LGA 1366](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink") | 2010年3月16日 |
+| [Xeon L5618](http://ark.intel.com/zh-tw/products/48767)                                    | 1.87 GHz | 2.26 GHz | 2×5.86 GT/s                                       |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5630](http://ark.intel.com/zh-tw/products/47927)                                    | 2.13 GHz | 2.4 GHz  | 26x                                               |                                                                    |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5638](http://ark.intel.com/zh-tw/products/48766)                                    | 6        | 2.0 GHz  | 6×256 KB                                          | 2×5.86 GT/s                                                        | 15x                                                            | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 60 W                                                |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5639](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L5639%20-%20AT80614005076AB.html) | 2.13 GHz | 2.66 GHz | 16x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5640](http://ark.intel.com/zh-tw/products/48766)                                    | 2.26 GHz | 2.8 GHz  | 17x                                               | 2010年3月16日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
+| [Xeon L5645](http://cpu-world.com/CPUs/Xeon/Intel-Xeon%20L5639%20-%20AT80614005076AB.html) | 2.13 GHz | 2.93 GHz | 18x                                               | 2011年2月14日                                                         |                                                                |                                                                |                                                     |      |                                                                |                                                     |                                                               |            |
 
 ### Xeon 7000系列 (多路處理器)
 
 #### "Beckton" (45 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - Xeon 6500系列最大支援至雙路處理器規格，Xeon 7500系列則最大支援至八路處理器規格。
 
-| 型號                                                      | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | [Turbo最高時脈](../Page/渦輪加速技術.md "wikilink")\[29\] | L2 [快取](../Page/快取.md "wikilink") | L3 [快取](../Page/快取.md "wikilink") | [QPI](../Page/QPI.md "wikilink") | 倍頻  | [記憶體支援](../Page/記憶體.md "wikilink")          | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期       |
-| ------------------------------------------------------- | -------- | -------- | ------------------------------ | ----------------------------------------------- | --------------------------------- | --------------------------------- | -------------------------------- | --- | ------------------------------------------- | -------------------------------- | ------------------------------------------ | ---------- |
-| <font color=white>**標準功耗**</font>                       |          |          |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon E6510](http://ark.intel.com/zh-tw/products/46488) | D0       | 4        | 1.73 GHz                       | N/A                                             | 4×256 KB                          | 12 MB                             | 4×4.8 GT/s                       | 13x | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 105 W                            | [LGA 1567](../Page/LGA_1567.md "wikilink") | 2010年3月30日 |
-| [Xeon E7520](http://ark.intel.com/zh-tw/products/46490) | 1.86 GHz | 18 MB    | 14x                            |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon E7530](http://ark.intel.com/zh-tw/products/46491) | 6        | 1.86 GHz | 2.13 GHz                       | 6×256 KB                                        | 12 MB                             | 4×5.86 GT/s                       |                                  |     |                                             |                                  |                                            |            |
-| [Xeon E6540](http://ark.intel.com/zh-tw/products/46489) | 2.0 GHz  | 2.26 GHz | 18 MB                          | 4×6.4 GT/s                                      | 15x                               |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon E7540](http://ark.intel.com/zh-tw/products/46492) |          |          |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon X7542](http://ark.intel.com/zh-tw/products/46497) | 2.67 GHz | 2.8 GHz  | 4×5.86 GT/s                    | 20x                                             | 130 W                             |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon X6550](http://ark.intel.com/zh-tw/products/46495) | 8        | 2.0 GHz  | 2.4 GHz                        | 8×256 KB                                        | 4×6.4 GT/s                        | 15x                               |                                  |     |                                             |                                  |                                            |            |
-| [Xeon X7550](http://ark.intel.com/zh-tw/products/46498) |          |          |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon X7560](http://ark.intel.com/zh-tw/products/46499) | 2.26 GHz | 2.66 GHz | 24 MB                          | 17x                                             |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| <font color=white>**低功耗**</font>                        |          |          |                                |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
-| [Xeon L7545](http://ark.intel.com/zh-tw/products/46493) | D0       | 6        | 1.86 GHz                       | 2.53 GHz                                        | 6×256 KB                          | 18 MB                             | 4×5.86 GT/s                      | 14x | [DDR3](../Page/DDR3.md "wikilink")-1333 MHz | 95 W                             | [LGA 1567](../Page/LGA_1567.md "wikilink") | 2010年3月30日 |
-| [Xeon L7555](http://ark.intel.com/zh-tw/products/46494) | 8        | 8×256 KB | 24 MB                          |                                                 |                                   |                                   |                                  |     |                                             |                                  |                                            |            |
+| 型號                                                      | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | [Turbo最高時脈](https://zh.wikipedia.org/wiki/渦輪加速技術 "wikilink")\[29\] | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | L3 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [QPI](https://zh.wikipedia.org/wiki/QPI "wikilink") | 倍頻  | [記憶體支援](https://zh.wikipedia.org/wiki/記憶體 "wikilink")          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                         | 發佈日期       |
+| ------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | --- | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------ | ---------- |
+| <font color=white>**標準功耗**</font>                       |          |          |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon E6510](http://ark.intel.com/zh-tw/products/46488) | D0       | 4        | 1.73 GHz                                          | N/A                                                                | 4×256 KB                                             | 12 MB                                                | 4×4.8 GT/s                                          | 13x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 105 W                                               | [LGA 1567](../Page/LGA_1567.md "wikilink") | 2010年3月30日 |
+| [Xeon E7520](http://ark.intel.com/zh-tw/products/46490) | 1.86 GHz | 18 MB    | 14x                                               |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon E7530](http://ark.intel.com/zh-tw/products/46491) | 6        | 1.86 GHz | 2.13 GHz                                          | 6×256 KB                                                           | 12 MB                                                | 4×5.86 GT/s                                          |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon E6540](http://ark.intel.com/zh-tw/products/46489) | 2.0 GHz  | 2.26 GHz | 18 MB                                             | 4×6.4 GT/s                                                         | 15x                                                  |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon E7540](http://ark.intel.com/zh-tw/products/46492) |          |          |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon X7542](http://ark.intel.com/zh-tw/products/46497) | 2.67 GHz | 2.8 GHz  | 4×5.86 GT/s                                       | 20x                                                                | 130 W                                                |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon X6550](http://ark.intel.com/zh-tw/products/46495) | 8        | 2.0 GHz  | 2.4 GHz                                           | 8×256 KB                                                           | 4×6.4 GT/s                                           | 15x                                                  |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon X7550](http://ark.intel.com/zh-tw/products/46498) |          |          |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon X7560](http://ark.intel.com/zh-tw/products/46499) | 2.26 GHz | 2.66 GHz | 24 MB                                             | 17x                                                                |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| <font color=white>**低功耗**</font>                        |          |          |                                                   |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
+| [Xeon L7545](http://ark.intel.com/zh-tw/products/46493) | D0       | 6        | 1.86 GHz                                          | 2.53 GHz                                                           | 6×256 KB                                             | 18 MB                                                | 4×5.86 GT/s                                         | 14x | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1333 MHz | 95 W                                                | [LGA 1567](../Page/LGA_1567.md "wikilink") | 2010年3月30日 |
+| [Xeon L7555](http://ark.intel.com/zh-tw/products/46494) | 8        | 8×256 KB | 24 MB                                             |                                                                    |                                                      |                                                      |                                                     |     |                                                                |                                                     |                                            |            |
 
 ### Xeon E7系列 (多路處理器)
 
 #### "Westmere-EX" (32 nm)
 
   - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E7-8837不支援超執行緒。
 
 ##### Xeon E7-2800 系列 (雙路處理器)
@@ -1550,11 +1550,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[30]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[30]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1590,7 +1590,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>18 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -1658,11 +1658,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[31]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[31]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1698,7 +1698,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>18 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -1766,11 +1766,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[32]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[32]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1806,7 +1806,7 @@ G0</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>24 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -1872,21 +1872,21 @@ G0</p></td>
 <td><p>2.53 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>30 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 </tbody>
 </table>
 
-## 基於[Sandy Bridge微架構的Xeon](../Page/Sandy_Bridge.md "wikilink")
+## 基於[Sandy Bridge微架構的Xeon](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")
 
 ### "Gladden" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100系列 (單路處理器)
 
@@ -1895,11 +1895,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[33]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[33]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1935,7 +1935,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>6 MB</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>25 W</p></td>
 </tr>
 <tr class="even">
@@ -1954,16 +1954,16 @@ G0</p></td>
 
 ### "Sandy Bridge" (32 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、*
   - 只有Xeon E3-1220 及 Xeon E3-1225不支援超執行緒。
   - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD
     FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD
     Graphics](../Page/Intel_HD_Graphics.md "wikilink")
-    P3000也使用[驅動程式優化工作供專業用途](../Page/驅動程式.md "wikilink")。
+    P3000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 #### Xeon E3-1200系列 (單路處理器)
 
@@ -1972,12 +1972,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[34]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[34]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2016,7 +2016,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2148,7 +2148,7 @@ G0</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>3 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>20 W</p></td>
 </tr>
 <tr class="odd">
@@ -2168,11 +2168,11 @@ G0</p></td>
 
 ### "Sandy Bridge-EN" (32 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 及 Xeon E5-2407不支援超執行緒。
   - 只有Xeon E5-1428L、Xeon E5-2403 及 Xeon E5-2407不支援渦輪加速技術。
 
@@ -2183,11 +2183,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[35]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[35]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2223,7 +2223,7 @@ G0</p></td>
 <td><p>3.2 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2245,7 +2245,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>60 W</p></td>
 </tr>
 </tbody>
@@ -2258,11 +2258,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[36]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[36]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2298,7 +2298,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2320,7 +2320,7 @@ G0</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -2351,7 +2351,7 @@ G0</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2386,7 +2386,7 @@ G0</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>50 W</p></td>
 </tr>
 <tr class="even">
@@ -2418,7 +2418,7 @@ G0</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>70 W</p></td>
 <td></td>
 </tr>
@@ -2449,11 +2449,11 @@ G0</p></td>
 
 ### "Sandy Bridge-EP" (32 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609及 Xeon
     E5-4617不支援超執行緒。
   - 只有Xeon E5-1603、Xeon E5-1607、Xeon E5-2603、Xeon E5-2609、Xeon E5-4603 及
@@ -2466,11 +2466,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[37]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[37]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2506,7 +2506,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>130 W</p></td>
 </tr>
 <tr class="even">
@@ -2525,7 +2525,7 @@ G0</p></td>
 <td><p>4 / 8</p></td>
 <td><p>3.6 GHz</p></td>
 <td><p>3.8 GHz</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2563,11 +2563,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[38]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[38]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2603,7 +2603,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2625,7 +2625,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -2647,7 +2647,7 @@ G0</p></td>
 <td><p>3.5 GHz</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>5 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2658,7 +2658,7 @@ G0</p></td>
 <td><p>3.0 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="odd">
@@ -2669,7 +2669,7 @@ G0</p></td>
 <td><p>3.5 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>130 W</p></td>
 </tr>
 <tr class="even">
@@ -2801,7 +2801,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -2833,7 +2833,7 @@ G0</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>70 W</p></td>
 <td></td>
 </tr>
@@ -2858,11 +2858,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[39]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[39]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -2898,7 +2898,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -2917,7 +2917,7 @@ G0</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>2.9 GHz</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2928,7 +2928,7 @@ G0</p></td>
 <td><p>6 / 6</p></td>
 <td><p>2.9 GHz</p></td>
 <td><p>3.4 GHz</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>130 W</p></td>
 <td></td>
 <td></td>
@@ -2941,7 +2941,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>12 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>95 W</p></td>
 <td></td>
 </tr>
@@ -2950,7 +2950,7 @@ G0</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2986,7 +2986,7 @@ G0</p></td>
 <td><p>3.1 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>115 W</p></td>
 </tr>
 </tbody>
@@ -2996,11 +2996,11 @@ G0</p></td>
 
 ### "Gladden" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、*
 
 #### Xeon E3-1100 v2系列 (單路處理器)
 
@@ -3009,11 +3009,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3049,7 +3049,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>25 W</p></td>
 </tr>
 <tr class="even">
@@ -3079,16 +3079,16 @@ G0</p></td>
 
 ### "Ivy Bridge" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、[ECC](../Page/糾錯內存.md "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、*
   - 只有Xeon E3-1220 v2 及 Xeon E3-1225 v2不支援超執行緒。
   - 與[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") 及 [AMD
     FirePro一樣](../Page/AMD_FirePro.md "wikilink")，內建的[Intel HD
     Graphics](../Page/Intel_HD_Graphics.md "wikilink")
-    P4000也使用[驅動程式優化工作供專業用途](../Page/驅動程式.md "wikilink")。
+    P4000也使用[驅動程式優化工作供專業用途](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 #### Xeon E3-1200 v2系列 (單路處理器)
 
@@ -3097,12 +3097,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3141,7 +3141,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>69 W</p></td>
 </tr>
 <tr class="even">
@@ -3261,7 +3261,7 @@ G0</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>3 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>17 W</p></td>
 </tr>
 <tr class="even">
@@ -3281,14 +3281,14 @@ G0</p></td>
 
 ### "Ivy Bridge-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-2403 v2 及 Xeon E5-2407 v2不支援超執行緒。
   - 只有Xeon E5-2403 v2、Xeon E5-2407 v2 及 Xeon E5-2418L v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多6條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](../Page/DDR3.md "wikilink")。
+  - 全部型號對應的CPU插座能支援最多6條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1400 v2系列 (單路處理器)
 
@@ -3297,11 +3297,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[40]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[40]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3337,7 +3337,7 @@ G0</p></td>
 <td><p>3.2 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -3359,7 +3359,7 @@ G0</p></td>
 <td><p>2.7 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>60 W</p></td>
 </tr>
 </tbody>
@@ -3372,11 +3372,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[41]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[41]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3412,7 +3412,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -3433,7 +3433,7 @@ G0</p></td>
 <td><p>2.7 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3500,7 +3500,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>50 W</p></td>
 </tr>
 <tr class="even">
@@ -3511,7 +3511,7 @@ G0</p></td>
 <td><p>2.3 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>60 W</p></td>
 </tr>
 <tr class="odd">
@@ -3552,16 +3552,16 @@ G0</p></td>
 
 ### "Ivy Bridge-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2 及 Xeon E5-4627
     v2不支援超執行緒。
   - 只有Xeon E5-1607 v2、Xeon E5-2603 v2、Xeon E5-2609 v2、Xeon E5-2618L
     v2、Xeon E5-4603 v2 及 Xeon E5-4607 v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多12條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](../Page/DDR3.md "wikilink")。
+  - 全部型號對應的CPU插座能支援最多12條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1600 v2系列 (單路處理器)
 
@@ -3570,11 +3570,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[42]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[42]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3610,7 +3610,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>130 W</p></td>
 </tr>
 <tr class="even">
@@ -3618,7 +3618,7 @@ G0</p></td>
 <td><p>4 / 8</p></td>
 <td><p>3.7 GHz</p></td>
 <td><p>3.9 GHz</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3667,11 +3667,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[43]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[43]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -3707,7 +3707,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -3728,7 +3728,7 @@ G0</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3749,7 +3749,7 @@ G0</p></td>
 <td><p>3.5 GHz</p></td>
 <td><p>3.8 GHz</p></td>
 <td><p>4×256 KB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>130 W</p></td>
 <td></td>
 <td></td>
@@ -3762,7 +3762,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="odd">
@@ -3772,7 +3772,7 @@ G0</p></td>
 <td><p>3.8 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>130 W</p></td>
 <td></td>
 </tr>
@@ -3795,7 +3795,7 @@ G0</p></td>
 <td><p>2.2 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>30 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -3806,7 +3806,7 @@ G0</p></td>
 <td><p>3.0 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="odd">
@@ -3949,7 +3949,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>50 W</p></td>
 </tr>
 <tr class="even">
@@ -3960,7 +3960,7 @@ G0</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>70 W</p></td>
 </tr>
 <tr class="odd">
@@ -3982,14 +3982,14 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>70 W</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://ark.intel.com/zh-tw/products/75270">Xeon E5-2650L v2</a></p></td>
 <td><p>1.7 GHz</p></td>
 <td><p>2.1 GHz</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4006,11 +4006,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[44]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[44]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4046,7 +4046,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -4055,7 +4055,7 @@ G0</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4068,7 +4068,7 @@ G0</p></td>
 <td><p>2.7 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>16 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4088,7 +4088,7 @@ G0</p></td>
 <td><p>3.3 GHz</p></td>
 <td><p>3.6 GHz</p></td>
 <td><p>16 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>130 W</p></td>
 <td></td>
 <td></td>
@@ -4134,7 +4134,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1866 MHz</p></td>
 <td><p>70 W</p></td>
 </tr>
 <tr class="even">
@@ -4153,14 +4153,14 @@ G0</p></td>
 
 ### "Ivy Bridge-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、*
   - 只有Xeon E7-8857 v2不支援超執行緒。
   - 只有Xeon E7-4809 v2不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多24條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](../Page/DDR3.md "wikilink")。
+  - 全部型號對應的CPU插座能支援最多24條[DIMM的](../Page/DIMM.md "wikilink")[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E7-2800 v2系列 (雙路處理器)
 
@@ -4169,11 +4169,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[45]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[45]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4209,7 +4209,7 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>24 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -4255,11 +4255,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[46]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[46]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4295,7 +4295,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>12 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -4305,7 +4305,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>16 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4385,11 +4385,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[47]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[47]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4425,7 +4425,7 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>24 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
@@ -4524,7 +4524,7 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>15×256 KB</p></td>
 <td><p>37.5 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 </tbody>
@@ -4534,12 +4534,12 @@ G0</p></td>
 
 ### "Haswell-WS" (22 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[ECC](../Page/糾錯內存.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、2.0、[Intel
-    vPro](../Page/Intel_vPro.md "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")、、BMI2*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel
+    vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E3-1220 v3、Xeon E3-1225 v3 及 Xeon E3-1226 v3不支援超執行緒。
 
 #### Xeon E3-1200 v3系列 (單路處理器)
@@ -4549,12 +4549,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[48]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[48]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4593,7 +4593,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -4809,7 +4809,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>8 MB</p></td>
 <td><p>HD Graphics</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>45 W</p></td>
 </tr>
 <tr class="even">
@@ -4843,7 +4843,7 @@ G0</p></td>
 <td><p>6 MB</p></td>
 <td><p>Iris Pro Graphics 5200</p></td>
 <td><p>47 W</p></td>
-<td><p><a href="../Page/BGA_1364.md" title="wikilink">BGA 1364</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_1364" title="wikilink">BGA 1364</a></p></td>
 <td><p>2014年2月</p></td>
 <td></td>
 <td></td>
@@ -4893,7 +4893,7 @@ G0</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>4 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>13 W</p></td>
 </tr>
 <tr class="odd">
@@ -4925,14 +4925,14 @@ G0</p></td>
 
 ### "Haswell-EN" (22 nm) Entry (入門級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d/VT-c](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、、、2.0、[Intel
-    vPro](../Page/Intel_vPro.md "wikilink")、*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d/VT-c](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、、、2.0、[Intel
+    vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink")、*
   - 只有Xeon E5-2408L v3 及 Xeon E5-2418L v3不支援渦輪加速技術。
-  - 全部型號對應的CPU插座能支援最多6條DIMM的[DDR3記憶體](../Page/DDR3.md "wikilink")。
+  - 全部型號對應的CPU插座能支援最多6條DIMM的[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1400 v3系列 (單路處理器)
 
@@ -4941,11 +4941,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[49]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[49]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -4981,7 +4981,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>65 W</p></td>
 </tr>
 </tbody>
@@ -4994,11 +4994,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[50]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[50]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -5034,7 +5034,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>45 W</p></td>
 </tr>
 <tr class="even">
@@ -5055,7 +5055,7 @@ G0</p></td>
 <td><p>2.3 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>3×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz</p></td>
+<td><p>3×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz</p></td>
 <td><p>55 W</p></td>
 <td></td>
 </tr>
@@ -5075,19 +5075,19 @@ G0</p></td>
 
 ### "Haswell-EP" (22 nm) Efficient Performance (效能級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、2.0*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2609
     v3、Xeon E5-2628 v3、Xeon E5-2663 v3、Xeon E5-2685 v3 及Xeon E5-4627
     v3不支援超執行緒。
   - 只有Xeon E5-1603 v3、Xeon E5-1607 v3、Xeon E5-2603 v3、Xeon E5-2608L
     v3、Xeon E5-2609 v3 及 Xeon E5-4610 v3不支援渦輪加速技術2.0。
-  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](../Page/DDR4.md "wikilink")，只有Xeon
+  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，只有Xeon
     E5-2629 v3、Xeon E5-2649 v3 及 Xeon E5-2669
-    v3仍支援[DDR3記憶體](../Page/DDR3.md "wikilink")。
+    v3仍支援[DDR3記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。
 
 #### Xeon E5-1600 v3系列 (單路處理器)
 
@@ -5096,11 +5096,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[51]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[51]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -5136,7 +5136,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>140 W</p></td>
 </tr>
 <tr class="even">
@@ -5155,7 +5155,7 @@ G0</p></td>
 <td><p>4 / 8</p></td>
 <td><p>3.5 GHz</p></td>
 <td><p>3.6 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5248,11 +5248,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[52]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[52]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -5288,7 +5288,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1600 MHz</p></td>
 <td><p>85 W</p></td>
 </tr>
 <tr class="even">
@@ -5310,7 +5310,7 @@ G0</p></td>
 <td><p>3.2 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5342,7 +5342,7 @@ G0</p></td>
 <td><p>3.0 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>85 W</p></td>
 <td></td>
 </tr>
@@ -5352,7 +5352,7 @@ G0</p></td>
 <td><p>8 / 16</p></td>
 <td><p>2.4 GHz</p></td>
 <td><p>?</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5375,7 +5375,7 @@ G0</p></td>
 <td><p>3.7 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 </tr>
@@ -5386,7 +5386,7 @@ G0</p></td>
 <td><p>3.4 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>90 W</p></td>
 <td></td>
 </tr>
@@ -5397,7 +5397,7 @@ G0</p></td>
 <td><p>3.7 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 </tr>
@@ -5739,7 +5739,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>50 W</p></td>
 </tr>
 <tr class="odd">
@@ -5783,7 +5783,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>30 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>75 W</p></td>
 </tr>
 <tr class="odd">
@@ -5807,11 +5807,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[53]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[53]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -5847,14 +5847,14 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1600 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1600 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/85758">Xeon E5-4620 v3</a></p></td>
 <td><p>2.0 GHz</p></td>
 <td><p>2.6 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5867,7 +5867,7 @@ G0</p></td>
 <td><p>10 / 10</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>3.2 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 <td></td>
@@ -5880,7 +5880,7 @@ G0</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>30 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="odd">
@@ -5898,7 +5898,7 @@ G0</p></td>
 <td><p><a href="http://ark.intel.com/zh-tw/products/85762">Xeon E5-4650 v3</a></p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>2.8 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5954,11 +5954,11 @@ G0</p></td>
 
 ### "Haswell-EX" (22 nm) Expandable (擴展級)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、2.0*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](../Page/FMA指令集.md "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E7-4809 v3 及 Xeon E7-4820 v3不支援渦輪加速技術2.0。
   - 全部型號對應的CPU插座能支援最多24條DIMM的 DDR3 或 DDR4記憶體。
 
@@ -5969,11 +5969,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[54]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[54]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -6009,8 +6009,8 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz 或<br />
-4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz 或<br />
+4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>115 W</p></td>
 </tr>
 <tr class="even">
@@ -6056,11 +6056,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[55]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[55]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -6207,27 +6207,27 @@ G0</p></td>
 
 ### "Broadwell-DE" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、[ECC](../Page/糾錯內存.md "wikilink")、、2.0*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
   - 只有Xeon D-1518 及 Xeon D-1529不支援渦輪加速技術2.0。
-  - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L或](../Page/DDR3L.md "wikilink")[DDR4記憶體](../Page/DDR4.md "wikilink")。
+  - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L或](https://zh.wikipedia.org/wiki/DDR3L "wikilink")[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
 
-#### Xeon D-15xx (單路處理器，[SoC](../Page/SoC.md "wikilink"))
+#### Xeon D-15xx (單路處理器，[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink"))
 
 <table>
 <thead>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[56]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[56]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
 <th><p>插槽</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>發佈日期</p></th>
 </tr>
 </thead>
@@ -6262,9 +6262,9 @@ G0</p></td>
 <td><p>2.2 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>6 MB</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
-<td><p><a href="../Page/BGA_1667.md" title="wikilink">BGA 1667</a></p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_1667" title="wikilink">BGA 1667</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/91201">Xeon D-1518</a></p></td>
@@ -6524,12 +6524,12 @@ G0</p></td>
 
 ### "Broadwell-H" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、[EPT](../Page/EPT.md "wikilink")、[ECC](../Page/糾錯內存.md "wikilink")、、2.0*
-  - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L記憶體](../Page/DDR3L.md "wikilink")。
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、[EPT](https://zh.wikipedia.org/wiki/EPT "wikilink")、[ECC](https://zh.wikipedia.org/wiki/糾錯內存 "wikilink")、、2.0*
+  - 全部型號對應的CPU插座能支援最多4條DIMM的[DDR3L記憶體](https://zh.wikipedia.org/wiki/DDR3L "wikilink")。
 
 #### Xeon E3-1200 v4系列 (單路處理器)
 
@@ -6538,12 +6538,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[57]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[57]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -6582,7 +6582,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>6 MB</p></td>
 <td><p>Iris Pro Graphics P6300</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1866 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1866 MHz</p></td>
 <td><p>95 W</p></td>
 </tr>
 <tr class="even">
@@ -6606,7 +6606,7 @@ G0</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>6 MB</p></td>
 <td><p>HD Graphics P5700</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz</p></td>
 <td><p>47 W</p></td>
 </tr>
 <tr class="even">
@@ -6614,7 +6614,7 @@ G0</p></td>
 <td><p>2.3 GHz</p></td>
 <td><p>3.3 GHz</p></td>
 <td><p>Iris Pro Graphics P6300</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1866 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1866 MHz</p></td>
 <td><p>35 W</p></td>
 <td><p><a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a></p></td>
 <td></td>
@@ -6638,9 +6638,9 @@ G0</p></td>
 <td><p>2 GHz</p></td>
 <td><p>3.3 GHz</p></td>
 <td><p>Iris Pro Graphics P6300</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz</p></td>
 <td><p>47 W</p></td>
-<td><p><a href="../Page/BGA_1364.md" title="wikilink">BGA 1364</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_1364" title="wikilink">BGA 1364</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6649,7 +6649,7 @@ G0</p></td>
 <td><p><a href="http://ark.intel.com/zh-tw/products/88045">Xeon E3-1284L v4</a></p></td>
 <td><p>2.9 GHz</p></td>
 <td><p>3.8 GHz</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1866 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1866 MHz</p></td>
 <td><p><a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a></p></td>
 <td></td>
 <td></td>
@@ -6674,11 +6674,11 @@ G0</p></td>
 
 ### "Broadwell-EP" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、、[FMA3](../Page/FMA3.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、2.0*
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
   - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及
     Xeon E5-4627 v4不支援超執行緒。
   - 只有Xeon E5-1603 v4、Xeon E5-1607 v4、Xeon E5-2603 v4、Xeon E5-2609 v4 及
@@ -6692,11 +6692,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[58]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[58]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -6732,7 +6732,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>10 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>140 W</p></td>
 </tr>
 <tr class="even">
@@ -6811,11 +6811,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[59]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[59]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -6851,7 +6851,7 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>85 W</p></td>
 </tr>
 <tr class="even">
@@ -6870,7 +6870,7 @@ G0</p></td>
 <td><p>8 / 16</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>3 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6905,7 +6905,7 @@ G0</p></td>
 <td><p>3.7 GHz</p></td>
 <td><p>4×256 KB</p></td>
 <td><p>15 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 </tr>
@@ -6916,7 +6916,7 @@ G0</p></td>
 <td><p>3.4 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>90 W</p></td>
 <td></td>
 </tr>
@@ -6927,7 +6927,7 @@ G0</p></td>
 <td><p>3.7 GHz</p></td>
 <td><p>6×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 </tr>
@@ -7192,7 +7192,7 @@ G0</p></td>
 <td><p>1.7 GHz</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>50 W</p></td>
 </tr>
 <tr class="odd">
@@ -7202,7 +7202,7 @@ G0</p></td>
 <td><p>3.2 GHz</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>75 W</p></td>
 <td></td>
 </tr>
@@ -7236,7 +7236,7 @@ G0</p></td>
 <td><p>2.5 GHz</p></td>
 <td><p>14×256 KB</p></td>
 <td><p>35 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>75 W</p></td>
 </tr>
 <tr class="odd">
@@ -7260,11 +7260,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[60]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[60]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -7300,14 +7300,14 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>10×256 KB</p></td>
 <td><p>25 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>105 W</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/93880">Xeon E5-4620 v4</a></p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>2.6 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7319,7 +7319,7 @@ G0</p></td>
 <td><p>10 / 10</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>3.2 GHz</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>135 W</p></td>
 <td></td>
 <td></td>
@@ -7332,7 +7332,7 @@ G0</p></td>
 <td><p>2.6 GHz</p></td>
 <td><p>12×256 KB</p></td>
 <td><p>30 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>105 W</p></td>
 <td></td>
 </tr>
@@ -7343,7 +7343,7 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>14×256 KB</p></td>
 <td><p>35 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -7410,7 +7410,7 @@ G0</p></td>
 <td><p>2.2 GHz</p></td>
 <td><p>14×256 KB</p></td>
 <td><p>35 MB</p></td>
-<td><p>4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>75 W</p></td>
 </tr>
 </tbody>
@@ -7418,12 +7418,12 @@ G0</p></td>
 
 ### "Broadwell-EX" (14 nm)
 
-  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](../Page/AVX指令集.md "wikilink")、[Intel
-    64](../Page/x86-64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
-    VT-x/VT-d](../Page/X86虛擬化.md "wikilink")、、[FMA3](../Page/FMA3.md "wikilink")*
-  - 支援技術：*[超執行緒](../Page/Hyper-Threading.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、、2.0*
-  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](../Page/DDR4.md "wikilink")。
+  - 支援指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、、、[AVX/AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[AES-NI](../Page/AES指令集.md "wikilink")、[Intel
+    VT-x/VT-d](https://zh.wikipedia.org/wiki/X86虛擬化 "wikilink")、、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")*
+  - 支援技術：*[超執行緒](https://zh.wikipedia.org/wiki/Hyper-Threading "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、、2.0*
+  - 全部型號對應的CPU插座能支援最多12條DIMM的[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")。
 
 #### Xeon E7-4800 v4系列 (四路處理器)
 
@@ -7432,11 +7432,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[61]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[61]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -7472,8 +7472,8 @@ G0</p></td>
 <td><p>N/A</p></td>
 <td><p>8×256 KB</p></td>
 <td><p>20 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz 或<br />
-4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz 或<br />
+4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>115 W</p></td>
 </tr>
 <tr class="even">
@@ -7493,8 +7493,8 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>14×256 KB</p></td>
 <td><p>35 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz 或<br />
-4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz 或<br />
+4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7520,11 +7520,11 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[62]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[62]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -7560,8 +7560,8 @@ G0</p></td>
 <td><p>2.8 GHz</p></td>
 <td><p>14×256 KB</p></td>
 <td><p>35 MB</p></td>
-<td><p>4×<a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1600 MHz 或<br />
-4×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-1866 MHz</p></td>
+<td><p>4×<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1600 MHz 或<br />
+4×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-1866 MHz</p></td>
 <td><p>165 W</p></td>
 </tr>
 <tr class="even">
@@ -7666,12 +7666,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[63]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[63]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -7710,8 +7710,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>8 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>80 W</p></td>
 </tr>
 <tr class="even">
@@ -7819,8 +7819,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>6 MB</p></td>
 <td><p>HD Graphics P530</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>25 W</p></td>
 </tr>
 <tr class="odd">
@@ -7871,12 +7871,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a>[64]</p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a>[64]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -7915,8 +7915,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>8 MB</p></td>
 <td><p>Iris Pro Graphics P580</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>65 W</p></td>
 </tr>
 <tr class="even">
@@ -7940,8 +7940,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>8 MB</p></td>
 <td><p>HD Graphics P530</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>45 W</p></td>
 </tr>
 <tr class="even">
@@ -8013,9 +8013,9 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>8 MB</p></td>
 <td><p>HD Graphics P530</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz、<br />
-2×LP<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1866 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz、<br />
+2×LP<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1866 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>25 W</p></td>
 </tr>
 <tr class="even">
@@ -8024,8 +8024,8 @@ G0</p></td>
 <td><p>1.9 GHz</p></td>
 <td><p>3.3 GHz</p></td>
 <td><p>Iris Pro Graphics P555</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2133 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>45 W</p></td>
 <td><p>2016年5月</p></td>
 <td></td>
@@ -8070,7 +8070,7 @@ G0</p></td>
 </tbody>
 </table>
 
-## 基於[Kabylake微架構的Xeon](../Page/Kaby_Lake.md "wikilink")
+## 基於[Kabylake微架構的Xeon](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")
 
 ### "Kaby lake-S" (14 nm)
 
@@ -8081,12 +8081,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -8125,8 +8125,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>8 MB</p></td>
 <td><p>N/A</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1866 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1866 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>72 W</p></td>
 </tr>
 <tr class="even">
@@ -8237,12 +8237,12 @@ G0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/核心.md" title="wikilink">核心</a>/<a href="../Page/執行緒.md" title="wikilink">執行緒</a></p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p><a href="../Page/快取.md" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
 <th><p>顯示晶片</p></th>
-<th><p><a href="../Page/記憶體.md" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -8281,7 +8281,7 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>6 MB</p></td>
 <td><p>UHD Graphics P630</p></td>
-<td><p>2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>45 W</p></td>
 </tr>
 <tr class="even">
@@ -8290,9 +8290,9 @@ G0</p></td>
 <td><p>3 GHz</p></td>
 <td><p>4 GHz</p></td>
 <td><p>8 MB</p></td>
-<td><p>2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz、<br />
-2×<a href="../Page/LPDDR3.md" title="wikilink">LPDDR3</a>-2133 MHz 或<br />
-2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz、<br />
+2×<a href="https://zh.wikipedia.org/wiki/LPDDR3" title="wikilink">LPDDR3</a>-2133 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz</p></td>
 <td><p>2017年1月</p></td>
 <td></td>
 <td></td>
@@ -8331,8 +8331,8 @@ G0</p></td>
 <td><p>1 MB</p></td>
 <td><p>6 MB</p></td>
 <td><p>UHD Graphics P630</p></td>
-<td><p>2×<a href="../Page/DDR3L.md" title="wikilink">DDR3L</a>-1600 MHz 或<br />
-2×<a href="../Page/DDR4.md" title="wikilink">DDR4</a>-2400 MHz</p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz 或<br />
+2×<a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>25 W</p></td>
 </tr>
 <tr class="even">

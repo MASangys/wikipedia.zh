@@ -1,4 +1,4 @@
-::\*TQ11 基本[无机化学工业](../Page/无机化学工业.md "wikilink")
+::\*TQ11 基本[无机化学工业](https://zh.wikipedia.org/wiki/无机化学工业 "wikilink")
 
 ::::\*TQ110.1 基础理论
 
@@ -294,7 +294,8 @@
 
 :::\*TQ118 无机过酸及过酸盐
 
-::\*TQ12 [非金属无机化合物化学工业](../Page/非金属无机化合物.md "wikilink")
+::\*TQ12
+[非金属无机化合物化学工业](https://zh.wikipedia.org/wiki/非金属无机化合物 "wikilink")
 
 :::\*TQ122 氢
 
@@ -648,7 +649,7 @@
 
 ::::\*TQ139.2 其他复杂的无机化合物的生产
 
-::\*TQ15 [电化学工业](../Page/电化学工业.md "wikilink")
+::\*TQ15 [电化学工业](https://zh.wikipedia.org/wiki/电化学工业 "wikilink")
 
 ::::\*TQ150.1 基础理论
 
@@ -664,7 +665,7 @@
 
 ::::\*TQ150.9 三废处理与综合利用
 
-:::\*TQ151 [电解工业](../Page/电解工业.md "wikilink")
+:::\*TQ151 [电解工业](https://zh.wikipedia.org/wiki/电解工业 "wikilink")
 
 ::::\*TQ151.1 水的电解
 
@@ -710,7 +711,7 @@
 
 :::\*TQ152 化学电源
 
-:::\*TQ153 [电镀工业](../Page/电镀工业.md "wikilink")
+:::\*TQ153 [电镀工业](https://zh.wikipedia.org/wiki/电镀工业 "wikilink")
 
 ::::\*TQ153.1 单一金属的电镀
 
@@ -755,7 +756,7 @@
 ::::\*TQ153.7 气体电化学工业生产
 
 ::\*TQ16
-[电热工业](../Page/电热工业.md "wikilink")、[高温制品工业](../Page/高温制品工业.md "wikilink")
+[电热工业](https://zh.wikipedia.org/wiki/电热工业 "wikilink")、[高温制品工业](https://zh.wikipedia.org/wiki/高温制品工业 "wikilink")
 
 ::::\*TQ160.5 高温电炉
 
@@ -791,7 +792,7 @@
 
 :::\*TQ165 人造石墨
 
-::\*TQ17 [硅酸盐工业](../Page/硅酸盐工业.md "wikilink")
+::\*TQ17 [硅酸盐工业](https://zh.wikipedia.org/wiki/硅酸盐工业 "wikilink")
 
 ::::\*TQ170.1 基础理论
 
@@ -819,7 +820,7 @@
 
 ::::\*TQ170.9 三废处理与综合利用
 
-:::\*TQ171 [玻璃工业](../Page/玻璃工业.md "wikilink")
+:::\*TQ171 [玻璃工业](https://zh.wikipedia.org/wiki/玻璃工业 "wikilink")
 
 ::::\*TQ171.1 基础理论
 
@@ -1133,7 +1134,7 @@
 
 ::::\*TQ171.9 三废处理与综合利用
 
-:::\*TQ172 [水泥工业](../Page/水泥工业.md "wikilink")
+:::\*TQ172 [水泥工业](https://zh.wikipedia.org/wiki/水泥工业 "wikilink")
 
 ::::\*TQ172.1 基础理论
 
@@ -1611,7 +1612,7 @@
 
 ::::\*TQ173.9 三废处理与综合利用
 
-:::\*TQ174 [陶瓷工业](../Page/陶瓷工业.md "wikilink")
+:::\*TQ174 [陶瓷工业](https://zh.wikipedia.org/wiki/陶瓷工业 "wikilink")
 
 ::::\*TQ174.1 基础理论
 
@@ -1943,7 +1944,7 @@
 
 ::::\*TQ175.9 三废处理与综合利用
 
-:::\*TQ176 [石棉工业](../Page/石棉工业.md "wikilink")
+:::\*TQ176 [石棉工业](https://zh.wikipedia.org/wiki/石棉工业 "wikilink")
 
 ::::\*TQ176.1 基础理论
 
@@ -1996,7 +1997,7 @@
 ::::\*TQ176.9 三废处理与综合利用
 
 :::\*TQ177
-[人造石及其他](../Page/人造石.md "wikilink")[胶凝材料](../Page/胶凝材料.md "wikilink")
+[人造石及其他](https://zh.wikipedia.org/wiki/人造石 "wikilink")[胶凝材料](https://zh.wikipedia.org/wiki/胶凝材料 "wikilink")
 
 ::::\*TQ177.1 人造石
 

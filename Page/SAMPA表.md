@@ -2,7 +2,7 @@
 可參考較簡要的[英語SAMPA表](../Page/英語SAMPA表.md "wikilink")。請注意，下面內容將使用到國際音標，你必須擁有支援
 [1](http://www.alanwood.net/unicode/ipa_extensions.html)「國際音標擴充區」之字型，才可以看到那些音標。
 
-*注意：本表只是試圖集合「歐美國家」的[SAMPA子集表](../Page/SAMPA#Problems_with_SAMPA.md "wikilink")，表中的音標字母和其他語言的音標字母互相衝突，因此下面所提供的資料，一般只適合英語和一些歐洲語言使用。如需要使用ASCII來表示所有的國際音標，應改用[X-SAMPA](../Page/X-SAMPA.md "wikilink")。*
+*注意：本表只是試圖集合「歐美國家」的[SAMPA子集表](https://zh.wikipedia.org/wiki/SAMPA#Problems_with_SAMPA "wikilink")，表中的音標字母和其他語言的音標字母互相衝突，因此下面所提供的資料，一般只適合英語和一些歐洲語言使用。如需要使用ASCII來表示所有的國際音標，應改用[X-SAMPA](../Page/X-SAMPA.md "wikilink")。*
 
 ## 子音（輔音）
 
@@ -16,22 +16,22 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/塞音.md" title="wikilink">塞音</a><br />
-或<a href="../Page/塞擦音.md" title="wikilink">塞擦音</a></p></td>
+或<a href="https://zh.wikipedia.org/wiki/塞擦音" title="wikilink">塞擦音</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/擦音.md" title="wikilink">擦音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/擦音" title="wikilink">擦音</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鼻音_(辅音).md" title="wikilink">鼻音</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/邊音.md" title="wikilink">邊音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邊音" title="wikilink">邊音</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/捲舌音.md" title="wikilink">捲舌音</a>（閃音或彈音）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/無擦通音.md" title="wikilink">無擦通音（漸近音）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無擦通音" title="wikilink">無擦通音（漸近音）</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -385,18 +385,18 @@
 
 ## 母音（元音）
 
-|                                    |
-| ---------------------------------- |
-| **[元音](../Page/元音.md "wikilink")** |
-|                                    |
-|                                    |
-| [閉](../Page/閉元音.md "wikilink")     |
-| [次閉](../Page/次閉元音.md "wikilink")   |
-| [半閉](../Page/半閉元音.md "wikilink")   |
-| [中](../Page/中元音.md "wikilink")     |
-| [半開](../Page/半開元音.md "wikilink")   |
-| [次開](../Page/次開元音.md "wikilink")   |
-| [開](../Page/開元音.md "wikilink")     |
+|                                                     |
+| --------------------------------------------------- |
+| **[元音](../Page/元音.md "wikilink")**                  |
+|                                                     |
+|                                                     |
+| [閉](../Page/閉元音.md "wikilink")                      |
+| [次閉](../Page/次閉元音.md "wikilink")                    |
+| [半閉](https://zh.wikipedia.org/wiki/半閉元音 "wikilink") |
+| [中](https://zh.wikipedia.org/wiki/中元音 "wikilink")   |
+| [半開](https://zh.wikipedia.org/wiki/半開元音 "wikilink") |
+| [次開](https://zh.wikipedia.org/wiki/次開元音 "wikilink") |
+| [開](https://zh.wikipedia.org/wiki/開元音 "wikilink")   |
 
 元音修飾符號：
 
@@ -443,6 +443,6 @@
 
   - [英語SAMPA表](../Page/英語SAMPA表.md "wikilink")
   - [匈牙利語音用的 SAMPA
-    表](../Page/w:hu:SAMPA_Magyar_nyelvhez.md "wikilink")（於匈牙利文版的維基百科）
+    表](https://zh.wikipedia.org/wiki/w:hu:SAMPA_Magyar_nyelvhez "wikilink")（於匈牙利文版的維基百科）
 
 [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")

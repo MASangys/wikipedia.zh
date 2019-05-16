@@ -1,4 +1,4 @@
-**MapReduce**是[Google提出的一个](../Page/Google.md "wikilink")[软件架构](../Page/软件架构.md "wikilink")，用于大规模数据集（大于1[TB](../Page/terabyte.md "wikilink")）的[并行运算](../Page/并行运算.md "wikilink")。概念“Map（映射）”和“Reduce（归纳）”，及他们的主要思想，都是从[函数式编程语言借来的](../Page/函数式编程语言.md "wikilink")，还有从[矢量编程语言借来的特性](../Page/矢量编程语言.md "wikilink")。
+**MapReduce**是[Google提出的一个](../Page/Google.md "wikilink")[软件架构](../Page/软件架构.md "wikilink")，用于大规模数据集（大于1[TB](https://zh.wikipedia.org/wiki/terabyte "wikilink")）的[并行运算](https://zh.wikipedia.org/wiki/并行运算 "wikilink")。概念“Map（映射）”和“Reduce（归纳）”，及他们的主要思想，都是从[函数式编程语言借来的](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，还有从[矢量编程语言借来的特性](https://zh.wikipedia.org/wiki/矢量编程语言 "wikilink")。
 
 当前的软件实现是指定一个*Map（映射）*函数，用来把一组键值对映射成一组新的键值对，指定并发的*Reduce（归纳）*函数，用来保证所有映射的键值对中的每一个共享相同的键组。
 
@@ -10,13 +10,13 @@
 
 ## 分布和可靠性
 
-MapReduce通过把对数据集的大规模操作分发给网络上的每个节点实现可靠性；每个节点会周期性的把完成的工作和状态的更新报告回来。如果一个节点保持沉默超过一个预设的时间间隔，主节点（类同[Google檔案系統中的主服务器](../Page/Google檔案系統.md "wikilink")）记录下这个节点状态为死亡，并把分配给这个节点的数据发到别的节点。每个操作使用命名文件的不可分割操作以确保不会发生并行线程间的冲突；当文件被改名的时候，系统可能会把他们复制到任务名以外的另一个名字上去。（避免[副作用](../Page/副作用_\(计算机科学\).md "wikilink")）。
+MapReduce通过把对数据集的大规模操作分发给网络上的每个节点实现可靠性；每个节点会周期性的把完成的工作和状态的更新报告回来。如果一个节点保持沉默超过一个预设的时间间隔，主节点（类同[Google檔案系統中的主服务器](../Page/Google檔案系統.md "wikilink")）记录下这个节点状态为死亡，并把分配给这个节点的数据发到别的节点。每个操作使用命名文件的不可分割操作以确保不会发生并行线程间的冲突；当文件被改名的时候，系统可能会把他们复制到任务名以外的另一个名字上去。（避免[副作用](https://zh.wikipedia.org/wiki/副作用_\(计算机科学\) "wikilink")）。
 
 归纳操作工作方式很类似，但是由于归纳操作在并行能力较差，主节点会尽量把归纳操作调度在一个节点上，或者离需要操作的数据尽可能近的节点上了；这个特性可以满足Google的需求，因为他们有足够的带宽，他们的内部网络没有那么多的机器。
 
 ## 其他实现
 
-  - [Hadoop](../Page/Hadoop.md "wikilink")－[Apache軟件基金會的](../Page/Apache軟件基金會.md "wikilink")[開放源碼項目](../Page/開放源碼.md "wikilink")，提供與MapReduce檔案系統類似的功能。
+  - [Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")－[Apache軟件基金會的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[開放源碼項目](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，提供與MapReduce檔案系統類似的功能。
 
 ## 参考
 

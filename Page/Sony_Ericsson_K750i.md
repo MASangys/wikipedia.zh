@@ -1,6 +1,6 @@
-**索尼爱立信K750i**是[索尼爱立信一款在](../Page/索尼爱立信.md "wikilink")2005年推出的手提電話，而W800i為K750i的Walkman版本，W800i與K750i只是外型不同，硬體則完全相同。它是[Sony
+**索尼爱立信K750i**是[索尼爱立信一款在](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2005年推出的手提電話，而W800i為K750i的Walkman版本，W800i與K750i只是外型不同，硬體則完全相同。它是[Sony
 Ericsson
-K700i的延續](../Page/Sony_Ericsson_K700i.md "wikilink")，改良的版本為在2006年推出的[Sony
+K700i的延續](https://zh.wikipedia.org/wiki/Sony_Ericsson_K700i "wikilink")，改良的版本為在2006年推出的[Sony
 Ericsson
 K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。K750i配有二百萬[像素鏡頭](../Page/像素.md "wikilink")，位於手機背面，由一塊可移動的蓋掩保護。
 
@@ -14,23 +14,24 @@ K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。K750i配有二百萬[像素�
   - 補光燈
   - 數位變焦：4X 數碼變焦、自動對焦、圖片編輯器
   - 30秒、無限時影片拍攝
-  - 影片播放：[3GP](../Page/3GP.md "wikilink")、[MP4](../Page/MP4.md "wikilink")
+  - 影片播放：[3GP](https://zh.wikipedia.org/wiki/3GP "wikilink")、[MP4](../Page/MP4.md "wikilink")
   - 音樂播放：[MP3](../Page/MP3.md "wikilink")
-  - 影音補充資料：[Mega Bass等化器](../Page/Mega_Bass.md "wikilink")、
+  - 影音補充資料：[Mega
+    Bass等化器](https://zh.wikipedia.org/wiki/Mega_Bass "wikilink")、
     音樂播放、音樂編輯器／[MIDI](../Page/MIDI.md "wikilink")（音樂DJ）功能
-  - [記憶體](../Page/記憶體.md "wikilink")：34 MB
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：34 MB
   - 記憶卡插槽：Memory Stick Pro Duo（可擴充記憶至8GB，建議擴充至2GB以下）
 
 ### 傳輸功能
 
-  - [藍芽](../Page/藍芽.md "wikilink")、[紅外線](../Page/紅外線.md "wikilink")、[USB傳輸](../Page/USB.md "wikilink")
+  - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[紅外線](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[USB傳輸](../Page/USB.md "wikilink")
   - 上網功能：GPRS Class 10（WAP 2.0）
   - 多媒體訊息：MMS、EMS、SMS
   - Email收發
 
 ## 參考條目
 
-  - [索尼爱立信](../Page/索尼爱立信.md "wikilink")
+  - [索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")
 
 ## 外部連結
 

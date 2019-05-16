@@ -4,9 +4,9 @@
 [QGo.svg](https://zh.wikipedia.org/wiki/File:QGo.svg "fig:QGo.svg") |
 screenshot = | caption = qGo 1.0.4 | latest_release_version = 1.5.4 |
 latest_release_date =  | operating_system =
-[跨平台](../Page/跨平台.md "wikilink") | genre =
-[遊戲](../Page/遊戲.md "wikilink") | license = [GNU
-GPL](../Page/GNU_GPL.md "wikilink") | website =
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre =
+[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink") | license = [GNU
+GPL](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink") | website =
 <http://qgo.sourceforge.net/> }}
 
 ## 軟體
@@ -21,7 +21,7 @@ GPL](../Page/GNU_GPL.md "wikilink") | website =
 
 ## 參見
 
-  - [圍棋軟體](../Page/圍棋軟體.md "wikilink")
+  - [圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")
 
 ## 外部連結
 

@@ -3,23 +3,24 @@ HIME**，（原名“”）是[MediaWorks發行的](../Page/MediaWorks.md "wikil
 
 ## 歷史、介紹
 
-自1997年以来以《電擊姬》（）的标题作为《[電擊王](../Page/電擊王.md "wikilink")》的增刊发行，但於2001年成為獨立的月刊。後來開始連載[BL系遊戲情報專欄](../Page/BL.md "wikilink")《電擊若》〔〕，及後更發展成同名增刊。
+自1997年以来以《電擊姬》（）的标题作为《[電擊王](https://zh.wikipedia.org/wiki/電擊王 "wikilink")》的增刊发行，但於2001年成為獨立的月刊。後來開始連載[BL系遊戲情報專欄](https://zh.wikipedia.org/wiki/BL "wikilink")《電擊若》〔〕，及後更發展成同名增刊。
 
 從創刊數年間是唯一封面不使用插畫，而使用女藝人封面的成人遊戲雜誌。於2003年末開始轉為插畫封面。在2005年1月號使用先月才起用的插畫家[Tony的插圖](../Page/Tony_\(插畫家\).md "wikilink")，更令他擔當人物設定的遊戲《[光明之淚](../Page/光明之淚.md "wikilink")》成為話題。
 
-同時，它和姊妹誌《[電擊G's雜誌](../Page/電擊G's雜誌.md "wikilink")》同様有[讀者参加計劃實施](../Page/讀者参加計劃.md "wikilink")。「[Maid
-in Dream](../Page/Maid_in_Dream.md "wikilink")」於2002年被遊戲化。
+同時，它和姊妹誌《[電擊G's雜誌](https://zh.wikipedia.org/wiki/電擊G's雜誌 "wikilink")》同様有[讀者参加計劃實施](https://zh.wikipedia.org/wiki/讀者参加計劃 "wikilink")。「[Maid
+in
+Dream](https://zh.wikipedia.org/wiki/Maid_in_Dream "wikilink")」於2002年被遊戲化。
 
 2006年9月號，G's編集長高野希義兼任電擊姬的編集長，引起兩誌是否統一的謠言。
 
 2007年4月號，雜誌內容大幅重新設計，名稱也變為现在的「DENGEKI
-HIME」（電擊姬日文的[羅馬字](../Page/羅馬字.md "wikilink")）。
+HIME」（電擊姬日文的[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")）。
 
 2014年12月27日發售2015年2月号後休刊，2018年3月26日官方宣布於同年4月2日關閉官方網站「.com」。
 
 ## 本誌連載的讀者参加計劃
 
-  - （画：・文：[山下卓](../Page/山下卓.md "wikilink")）
+  - （画：・文：[山下卓](https://zh.wikipedia.org/wiki/山下卓 "wikilink")）
 
 <!-- end list -->
 
@@ -64,7 +65,7 @@ HIME」（電擊姬日文的[羅馬字](../Page/羅馬字.md "wikilink")）。
 
 <!-- end list -->
 
-  - （企劃：櫻森柚木・画：[水瀨凜](../Page/水瀨凜.md "wikilink")）
+  - （企劃：櫻森柚木・画：[水瀨凜](https://zh.wikipedia.org/wiki/水瀨凜 "wikilink")）
 
 <!-- end list -->
 

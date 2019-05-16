@@ -1,4 +1,4 @@
-《**至NET小人類**》（[英文](../Page/英文.md "wikilink")：****）（2000年1月3日—2004年12月31日），是[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[兒童節目](../Page/兒童節目.md "wikilink")，此節目接替同類型兒童節目《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》，後來被同類型兒童節目《[放學ICU](../Page/放學ICU.md "wikilink")》取代。\[1\]\[2\]\[3\]
+《**至NET小人類**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）（2000年1月3日—2004年12月31日），是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，此節目接替同類型兒童節目《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》，後來被同類型兒童節目《[放學ICU](../Page/放學ICU.md "wikilink")》取代。\[1\]\[2\]\[3\]
 
 ## 主持
 
@@ -12,25 +12,25 @@
 
 ## 節目
 
-《至NET小人類》時段內會播放約22分鐘的動畫，大多數都是[日本動畫](../Page/日本動畫.md "wikilink")。後期逢星期一有〈夢想劇場〉，演出一些話劇。再後期每天都有〈至NET工作坊〉：
+《至NET小人類》時段內會播放約22分鐘的動畫，大多數都是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。後期逢星期一有〈夢想劇場〉，演出一些話劇。再後期每天都有〈至NET工作坊〉：
 
-|     |                                      |                                  |                    |
-| --- | ------------------------------------ | -------------------------------- | ------------------ |
-| 星期  | 主題                                   | 主持                               | 備註                 |
-| 星期一 | [煮食](../Page/煮食.md "wikilink")       | [譚玉瑛](../Page/譚玉瑛.md "wikilink") | 每集教2-3個小朋友製作不同的食物  |
-| 星期二 | [運動](../Page/運動.md "wikilink")       | [張國洪](../Page/張國洪.md "wikilink") | 每集請一個教練教小朋友不同的運動   |
-| 星期三 | [舞蹈](../Page/舞蹈.md "wikilink")       | [馮慧敏](../Page/馮慧敏.md "wikilink") | 每集請一個舞蹈老師教人跳芭蕾舞    |
-| 星期四 | [藝術](../Page/藝術.md "wikilink")       | [唐韋琪](../Page/唐韋琪.md "wikilink") |                    |
-| 星期五 | [音樂看世界](../Page/音樂看世界.md "wikilink") | [李紫昕](../Page/李紫昕.md "wikilink") | 每集到不同的地方教人那裡的音樂和文化 |
+|     |                                                         |                                                     |                    |
+| --- | ------------------------------------------------------- | --------------------------------------------------- | ------------------ |
+| 星期  | 主題                                                      | 主持                                                  | 備註                 |
+| 星期一 | [煮食](https://zh.wikipedia.org/wiki/煮食 "wikilink")       | [譚玉瑛](../Page/譚玉瑛.md "wikilink")                    | 每集教2-3個小朋友製作不同的食物  |
+| 星期二 | [運動](https://zh.wikipedia.org/wiki/運動 "wikilink")       | [張國洪](https://zh.wikipedia.org/wiki/張國洪 "wikilink") | 每集請一個教練教小朋友不同的運動   |
+| 星期三 | [舞蹈](../Page/舞蹈.md "wikilink")                          | [馮慧敏](https://zh.wikipedia.org/wiki/馮慧敏 "wikilink") | 每集請一個舞蹈老師教人跳芭蕾舞    |
+| 星期四 | [藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")       | [唐韋琪](../Page/唐韋琪.md "wikilink")                    |                    |
+| 星期五 | [音樂看世界](https://zh.wikipedia.org/wiki/音樂看世界 "wikilink") | [李紫昕](../Page/李紫昕.md "wikilink")                    | 每集到不同的地方教人那裡的音樂和文化 |
 
 ## 動畫
 
 括號內的日期為開始播放日期。  <small>於《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》結束前開始播放。
-曾因[2000年夏季奧林匹克運動會關係停播約兩星期](../Page/2000年夏季奧林匹克運動會.md "wikilink")。</small>
+曾因[2000年夏季奧林匹克運動會關係停播約兩星期](https://zh.wikipedia.org/wiki/2000年夏季奧林匹克運動會 "wikilink")。</small>
 
 ## 參見
 
-  - 《[至NET小人類兒童雙周刊](../Page/至NET小人類兒童雙周刊.md "wikilink")》，關於至NET小人類的兒童周刊，已於2005年改名為《[放學ICU兒童雙周刊](../Page/放學ICU兒童雙周刊.md "wikilink")》
+  - 《[至NET小人類兒童雙周刊](https://zh.wikipedia.org/wiki/至NET小人類兒童雙周刊 "wikilink")》，關於至NET小人類的兒童周刊，已於2005年改名為《[放學ICU兒童雙周刊](https://zh.wikipedia.org/wiki/放學ICU兒童雙周刊 "wikilink")》
 
 ## 參考
 

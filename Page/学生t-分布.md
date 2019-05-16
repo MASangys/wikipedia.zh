@@ -11,8 +11,8 @@
 + \log{\left[\sqrt{\nu}B(\frac{\nu}{2},\frac{1}{2})\right]}
 \end{matrix}\)
 
-  - \(\psi\): [双Γ函数](../Page/双Γ函数.md "wikilink"),
-  - \(B\): [贝塔函数](../Page/贝塔函数.md "wikilink")
+  - \(\psi\): [双Γ函数](https://zh.wikipedia.org/wiki/双Γ函数 "wikilink"),
+  - \(B\): [贝塔函数](https://zh.wikipedia.org/wiki/贝塔函数 "wikilink")
 
 |mgf =未定义 |char
 =\(\frac{K_{\nu/2}(\sqrt{\nu}|t|)(\sqrt{\nu}|t|)^{\nu/2}}{\Gamma(\nu/2)2^{\nu/2-1}},\;\nu>0\)
@@ -20,17 +20,17 @@
   - \(K_{\nu}(x)\): [第二类修正貝塞爾函數](../Page/贝塞尔函数.md "wikilink")
 
 }}
-在[概率论和](../Page/概率论.md "wikilink")[统计学中](../Page/统计学.md "wikilink")，**学生*t*-分布**（Student's
-*t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[正态分布且](../Page/正态分布.md "wikilink")[方差未知的总体的](../Page/方差.md "wikilink")[均值](../Page/均值.md "wikilink")。如果总体方差已知（例如在样本数量足够多时），则应该用正态分布来估计总体均值。
+在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学中](../Page/统计学.md "wikilink")，**学生*t*-分布**（Student's
+*t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[正态分布且](../Page/正态分布.md "wikilink")[方差未知的总体的](../Page/方差.md "wikilink")[均值](https://zh.wikipedia.org/wiki/均值 "wikilink")。如果总体方差已知（例如在样本数量足够多时），则应该用正态分布来估计总体均值。
 
-它是对两个样本均值差异进行[显著性测试的](../Page/显著性差异.md "wikilink")[学生*t*檢定的基础](../Page/学生t测定.md "wikilink")。学生*t*檢定改進了[Z檢定](../Page/Z检验.md "wikilink")（），因為Z檢定以母體[標準差已知為前提](../Page/標準差.md "wikilink")。雖然在樣本數量大（超過30個）時，可以應用Z檢定來求得近似值，但Z檢定用在小樣本會產生很大的誤差，因此必須改用学生*t*檢定以求準確。
+它是对两个样本均值差异进行[显著性测试的](../Page/显著性差异.md "wikilink")[学生*t*檢定的基础](https://zh.wikipedia.org/wiki/学生t测定 "wikilink")。学生*t*檢定改進了[Z檢定](https://zh.wikipedia.org/wiki/Z检验 "wikilink")（），因為Z檢定以母體[標準差已知為前提](../Page/標準差.md "wikilink")。雖然在樣本數量大（超過30個）時，可以應用Z檢定來求得近似值，但Z檢定用在小樣本會產生很大的誤差，因此必須改用学生*t*檢定以求準確。
 
-在母體標準差未知的情況下，不論樣本數量大或小皆可應用学生*t*檢定。在待比較的數據有三組以上時，因為誤差無法被壓低，此時可以用[變異數分析](../Page/變異數分析.md "wikilink")（ANOVA）代替學生*t*檢定。
+在母體標準差未知的情況下，不論樣本數量大或小皆可應用学生*t*檢定。在待比較的數據有三組以上時，因為誤差無法被壓低，此時可以用[變異數分析](https://zh.wikipedia.org/wiki/變異數分析 "wikilink")（ANOVA）代替學生*t*檢定。
 
 *t*分布的推导最早由大地测量学家于1876年提出，并由数学家证明。\[1\]\[2\]
 
 英國人[威廉·戈塞](../Page/威廉·戈塞.md "wikilink")（Willam S.
-Gosset）于1908年再次发现并发表了*t*分布，当时他还在愛爾蘭[都柏林的](../Page/都柏林.md "wikilink")[吉尼斯](../Page/吉尼斯.md "wikilink")（Guinness）啤酒酿酒厂工作。酒廠雖然禁止員工發表一切與釀酒研究有關的成果，但允許他在不提到釀酒的前提下，以筆名發表*t*分佈的發現，所以论文使用了「学生」（Student）这一笔名。之后*t*检定以及相关理论经由[羅納德·費雪](../Page/羅納德·費雪.md "wikilink")（Sir
+Gosset）于1908年再次发现并发表了*t*分布，当时他还在愛爾蘭[都柏林的](../Page/都柏林.md "wikilink")[吉尼斯](https://zh.wikipedia.org/wiki/吉尼斯 "wikilink")（Guinness）啤酒酿酒厂工作。酒廠雖然禁止員工發表一切與釀酒研究有關的成果，但允許他在不提到釀酒的前提下，以筆名發表*t*分佈的發現，所以论文使用了「学生」（Student）这一笔名。之后*t*检定以及相关理论经由[羅納德·費雪](https://zh.wikipedia.org/wiki/羅納德·費雪 "wikilink")（Sir
 Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此分布命名为**学生*t*分布**（Student's
 *t*）。\[3\]
 
@@ -57,12 +57,12 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 \[T=\frac{\overline{X}_n-\mu}{\frac{S_n}{\sqrt{n}}}\]
 
-*T*的[概率密度函数是](../Page/概率密度函数.md "wikilink")：
+*T*的[概率密度函数是](https://zh.wikipedia.org/wiki/概率密度函数 "wikilink")：
 
 \[f(t) = \frac{\Gamma(\frac{\nu+1}{2})}{\sqrt{\nu\pi\,}\,\Gamma(\frac{\nu}{2})} (1+\frac{t^2}{\nu})^{\frac{-(\nu+1)}{2}}\]
 
 '' \(\nu\) *等于*n'' − 1。 *T*的分布称为***t*-分布**。参数''\(\nu\)
-''一般被称为[自由度](../Page/自由度.md "wikilink")。
+''一般被称为[自由度](https://zh.wikipedia.org/wiki/自由度 "wikilink")。
 
 ''' \(\Gamma\) '''是[伽玛函数](../Page/Γ函数.md "wikilink")。 如果\(\nu\)是偶数,
 
@@ -74,7 +74,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
   -
     \(\frac{\Gamma(\frac{\nu+1}{2})} {\sqrt{\nu\pi}\,\Gamma(\frac{\nu}{2})} =  \frac{(\nu -1)(\nu -3)\cdots 4 \cdot 2} {\pi \sqrt{\nu}(\nu -2)(\nu -4)\cdots 5 \cdot 3\,}\cdot\!\)
 
-*T*的[概率密度函数的形状类似于均值为](../Page/概率密度函数.md "wikilink")0方差为1的正态分布，但更低更宽。随着自由度\(\nu\)的增加，则越来越接近均值为0方差为1的正态分布。
+*T*的[概率密度函数的形状类似于均值为](https://zh.wikipedia.org/wiki/概率密度函数 "wikilink")0方差为1的正态分布，但更低更宽。随着自由度\(\nu\)的增加，则越来越接近均值为0方差为1的正态分布。
 
 |                                                                                                                                                |                                                                                                                                                   |                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,10 +82,10 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 | [T_distribution_5df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_5df_enhanced.svg "fig:T_distribution_5df_enhanced.svg") | [T_distribution_10df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_10df_enhanced.svg "fig:T_distribution_10df_enhanced.svg") | [T_distribution_30df_enhanced.svg](https://zh.wikipedia.org/wiki/File:T_distribution_30df_enhanced.svg "fig:T_distribution_30df_enhanced.svg") |
 
 *t*-分布密度 (红色曲线) 在自由度为 1, 2, 3, 5, 10,
-30比较于[标准正态分布](../Page/标准正态分布.md "wikilink")(蓝色曲线).
+30比较于[标准正态分布](https://zh.wikipedia.org/wiki/标准正态分布 "wikilink")(蓝色曲线).
 前幅图用绿色曲线表示.
 
-*T*分布的概率累计函数，用[不完全贝塔函数](../Page/Β函数#不完全贝塔函数.md "wikilink")*I*表示：
+*T*分布的概率累计函数，用[不完全贝塔函数](https://zh.wikipedia.org/wiki/Β函数#不完全贝塔函数 "wikilink")*I*表示：
 
 \[F(t) = \int_{-\infty}^t f(u)\,du = 1- \tfrac{1}{2} I_{x(t)}\left(\tfrac{\nu}{2}, \tfrac{1}{2}\right),\]
 其中
@@ -102,7 +102,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 ## 学生*t*-分布置信区间的推导
 
-假设数量*A*在当*T*呈*t*-分布（*T*的[自由度为](../Page/自由度.md "wikilink")*n* − 1）满足
+假设数量*A*在当*T*呈*t*-分布（*T*的[自由度为](https://zh.wikipedia.org/wiki/自由度 "wikilink")*n* − 1）满足
 
 \[\Pr(-A < T < A)=0.90\,\]
 

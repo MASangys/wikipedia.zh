@@ -1,9 +1,9 @@
 **Production I.G**
-為[日本的一家](../Page/日本.md "wikilink")[動畫製作公司](../Page/動畫.md "wikilink")，成立於1987年12月6日。英文字「I.G」分別取自現任社長**[石川光久](../Page/石川光久.md "wikilink")**和現任副社長兼[原畫師](../Page/原畫師.md "wikilink")**[後藤隆幸](../Page/後藤隆幸.md "wikilink")**的日文羅馬拼音開頭「I」和「G」作命名。Production
+為[日本的一家](../Page/日本.md "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，成立於1987年12月6日。英文字「I.G」分別取自現任社長**[石川光久](../Page/石川光久.md "wikilink")**和現任副社長兼[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")**[後藤隆幸](../Page/後藤隆幸.md "wikilink")**的日文羅馬拼音開頭「I」和「G」作命名。Production
 I.G便是在他們兩人共同出資之下而創立，創立初期名稱為**IG龍之子**（），是從[龍之子製作公司分拆出來的](../Page/龍之子製作公司.md "wikilink")。2007年母公司化並改名為「」，由內部另外成立現在的新Production
 I.G，為I.G Port的旗下子公司。
 
-代表作有[攻殼機動隊系列](../Page/攻殼機動隊.md "wikilink")、[PSYCHO-PASS系列](../Page/PSYCHO-PASS.md "wikilink")、[罪惡王冠](../Page/罪惡王冠.md "wikilink")、[影子籃球員](../Page/影子籃球員.md "wikilink")、[排球少年！！](../Page/排球少年！！.md "wikilink")、[進擊的巨人](../Page/進擊的巨人.md "wikilink")（支援製作）、[鑽石王牌](../Page/鑽石王牌.md "wikilink")（共同製作）等。
+代表作有[攻殼機動隊系列](../Page/攻殼機動隊.md "wikilink")、[PSYCHO-PASS系列](../Page/PSYCHO-PASS.md "wikilink")、[罪惡王冠](../Page/罪惡王冠.md "wikilink")、[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")、[排球少年！！](https://zh.wikipedia.org/wiki/排球少年！！ "wikilink")、[進擊的巨人](../Page/進擊的巨人.md "wikilink")（支援製作）、[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（共同製作）等。
 [PRODUCTION_I.G_STUDIO.jpg](https://zh.wikipedia.org/wiki/File:PRODUCTION_I.G_STUDIO.jpg "fig:PRODUCTION_I.G_STUDIO.jpg")
 
 ## 沿革
@@ -16,7 +16,7 @@ I.G，為I.G Port的旗下子公司。
   - 1993年9月，改名「**有限公司Production I.G**」。
   - 1995年5月，I.G的關係企業「[株式會社XEBEC](../Page/XEBEC.md "wikilink")」成立。同年10月，IG龍之子的背景美術部門「小倉工房」設立，該工房後來在2007年獨立。
   - 1997年6月，又另一間I.G的關係企業「[株式會社BEE
-    TRAIN](../Page/BEE_TRAIN.md "wikilink")」成立，該社後來在2004年從權益法子公司中排除。
+    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")」成立，該社後來在2004年從權益法子公司中排除。
 
 ### 舊Production I.G時期
 
@@ -35,9 +35,9 @@ I.G，為I.G Port的旗下子公司。
   - 2010年4月27日，為了促進辦公室的鞏固，搬遷至東京都武藏野市。同年6月2日，I.G以前的投資者龍之子製作公司公告I.G優先取得11.2％的持股權。8月20日，I.G
     Port董事就任[OLM董事](../Page/OLM.md "wikilink")，同時另一位董事下地志直則退任。
   - 2012年6月，I.G自製動畫《罪惡王冠》的6課工作室成立「[WIT
-    STUDIO](../Page/WIT_STUDIO.md "wikilink")」。
+    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")」。
   - 2012年10月，為幫助投入動畫電影《[009
-    RE:CYBORG](../Page/009_RE:CYBORG.md "wikilink")》製作委員會的母公司I.G
+    RE:CYBORG](https://zh.wikipedia.org/wiki/009_RE:CYBORG "wikilink")》製作委員會的母公司I.G
     Port資本金達成10％以上，Production I.G從製作委員會中特定子公司化。
   - 2014年10月，I.G的旗下企業「SIGNAL.MD（）」成立。
 
@@ -58,9 +58,9 @@ I.G，為I.G Port的旗下子公司。
       - [攻殼機動隊 STAND ALONE
         COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")（2002年－2003年）
       - [攻殼機動隊 S.A.C. 2nd
-        GIG](../Page/攻殼機動隊_S.A.C._2nd_GIG.md "wikilink")（2004年）
+        GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")（2004年）
       - [攻殼機動隊 S.A.C. Solid State
-        Society](../Page/攻殼機動隊_S.A.C._Solid_State_Society.md "wikilink")（2006年）－全1話長篇。
+        Society](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._Solid_State_Society "wikilink")（2006年）－全1話長篇。
       - [攻殼機動隊入門](../Page/攻殼機動隊_ARISE.md "wikilink")（）（2014年）※劇場版動畫「攻殻機動隊
         ARISE」附加PR短篇動畫。
       - 攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE（2016年）
@@ -86,21 +86,21 @@ I.G，為I.G Port的旗下子公司。
 
   - [精靈守護者](../Page/守護者系列.md "wikilink")（）（2007年）
 
-  - [威爾貝魯物語系列](../Page/威爾貝魯物語：威爾貝魯的姐妹.md "wikilink")（）（實質上由製作）
+  - [威爾貝魯物語系列](https://zh.wikipedia.org/wiki/威爾貝魯物語：威爾貝魯的姐妹 "wikilink")（）（實質上由製作）
 
       - 威爾貝魯物語：威爾貝魯的姐妹（）（2007年）
       - 威爾貝魯物語 第二幕（）（2008年）
 
   - [神靈狩/GHOST
-    HOUND](../Page/神靈狩/GHOST_HOUND.md "wikilink")（2007年－2008年）
+    HOUND](https://zh.wikipedia.org/wiki/神靈狩/GHOST_HOUND "wikilink")（2007年－2008年）
 
-  - [RD 潜腦調査室](../Page/RD_潜腦調査室.md "wikilink")（2008年）
+  - [RD 潜腦調査室](https://zh.wikipedia.org/wiki/RD_潜腦調査室 "wikilink")（2008年）
 
-  - [圖書館戰争](../Page/圖書館戰争.md "wikilink")（）（2008年）
+  - [圖書館戰争](https://zh.wikipedia.org/wiki/圖書館戰争 "wikilink")（）（2008年）
 
   - [毀滅世界的六人](../Page/世界毀滅.md "wikilink")（）（2008年）
 
-  - [戰國BASARA系列](../Page/戰國BASARA.md "wikilink")（）
+  - [戰國BASARA系列](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")（）
 
       - 戰國BASARA（2009年）
       - 戰國BASARA貳（）（2010年）
@@ -131,7 +131,7 @@ I.G，為I.G Port的旗下子公司。
 
   - [BLOOD-C](../Page/BLOOD-C.md "wikilink")（2011年）
 
-  - [影子籃球員系列](../Page/影子籃球員.md "wikilink")（）
+  - [影子籃球員系列](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")（）
 
       - 第1期（2012年）
       - 第2期（2013年－2014年）
@@ -143,11 +143,11 @@ I.G，為I.G Port的旗下子公司。
 
   - [ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")（2012年－2013年）
 
-  - [翠星上的加爾岡緹亞](../Page/翠星上的加爾岡緹亞.md "wikilink")（）（2013年）
+  - [翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（）（2013年）
 
-  - [現視研 二代目](../Page/現視研.md "wikilink") （）（2013年）
+  - [現視研 二代目](https://zh.wikipedia.org/wiki/現視研 "wikilink") （）（2013年）
 
-  - [排球少年！！系列](../Page/排球少年！！.md "wikilink")（）（2014年）
+  - [排球少年！！系列](https://zh.wikipedia.org/wiki/排球少年！！ "wikilink")（）（2014年）
 
       - 第1期（2014年）
       - 第2期（2015年－2016年）
@@ -155,13 +155,13 @@ I.G，為I.G Port的旗下子公司。
 
   - [閃爍的青春](../Page/閃爍的青春.md "wikilink")（）（2014年）
 
-  - [純潔的瑪利亞](../Page/純潔的瑪利亞.md "wikilink")（）（2015年）
+  - [純潔的瑪利亞](https://zh.wikipedia.org/wiki/純潔的瑪利亞 "wikilink")（）（2015年）
 
   - 進撃！巨人中學校（）（2015年）
 
   - [鬼牌遊戲](../Page/鬼牌遊戲.md "wikilink")（）（2016年）
 
-  - [舞動青春](../Page/舞動青春_\(漫畫\).md "wikilink")（）（2017年）
+  - [舞動青春](https://zh.wikipedia.org/wiki/舞動青春_\(漫畫\) "wikilink")（）（2017年）
 
   - [咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣.md "wikilink")（）（2017年）
 
@@ -173,15 +173,16 @@ I.G，為I.G Port的旗下子公司。
 
   - [碧奇魂](../Page/碧奇魂.md "wikilink")（／BLUE
     SEED）（與[葦PRODUCTION共同製作](../Page/PRODUCTION_REED.md "wikilink")，1994年）－[XEBEC成立契機的動畫作品](../Page/XEBEC.md "wikilink")。
-  - [獸之奏者 艾琳](../Page/獸之奏者.md "wikilink")（）（與共同製作，2009年）
+  - [獸之奏者
+    艾琳](https://zh.wikipedia.org/wiki/獸之奏者 "wikilink")（）（與共同製作，2009年）
   - [新網球王子](../Page/網球王子_\(動畫\).md "wikilink")（）（與共同製作，2012年）
   - [精靈寶可夢 THE
-    ORIGIN](../Page/精靈寶可夢_THE_ORIGIN.md "wikilink")（）（與[OLM](../Page/OLM.md "wikilink")、XEBEC共同製作，2013年）
-  - [鑽石王牌系列](../Page/鑽石王牌.md "wikilink")（）（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
+    ORIGIN](https://zh.wikipedia.org/wiki/精靈寶可夢_THE_ORIGIN "wikilink")（）（與[OLM](../Page/OLM.md "wikilink")、XEBEC共同製作，2013年）
+  - [鑽石王牌系列](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（）（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
       - 第1期（2013年－2015年）
       - 第2期（2015年－2016年）
   - 皮卡蟲（）（與OLM共同製作，2014年）
-  - [阿童木起源](../Page/阿童木起源.md "wikilink")（）（與OLM、SIGNAL.MD共同製作，2017年）
+  - [阿童木起源](https://zh.wikipedia.org/wiki/阿童木起源 "wikilink")（）（與OLM、SIGNAL.MD共同製作，2017年）
 
 #### 支援製作
 
@@ -191,7 +192,7 @@ I.G，為I.G Port的旗下子公司。
 
   - （）（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1987年）－I.G龍之子的前身「龍之子製作公司」分工作室製作的作品。
 
-  - [超能力魔美](../Page/超能力魔美.md "wikilink")（）（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，各話協力製作，1987年）－I.G龍之子時代。
+  - [超能力魔美](../Page/超能力魔美.md "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，各話協力製作，1987年）－I.G龍之子時代。
 
   - [大耳鼠](../Page/大耳鼠.md "wikilink")（）（總承包商：SHIN-EI動畫，各話協力製作，1989年）－I.G龍之子時代。
 
@@ -204,13 +205,13 @@ I.G，為I.G Port的旗下子公司。
   - [21衛門](../Page/21衛門.md "wikilink")（）（總承包商：SHIN-EI動畫，各話協力製作，1991年）－I.G龍之子時代。
 
   - **[蠟筆小新
-    (電視動畫)](../Page/蠟筆小新.md "wikilink")**（****）（總承包商：SHIN-EI動畫，各話協力製作（包含上色），1992年）－I.G龍之子時代\[2\]。
+    (電視動畫)](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（****）（總承包商：SHIN-EI動畫，各話協力製作（包含上色），1992年）－I.G龍之子時代\[2\]。
 
-  - [新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")（）（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[GAINAX](../Page/GAINAX.md "wikilink")，各話協力製作，1995年）
+  - [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（）（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[GAINAX](../Page/GAINAX.md "wikilink")，各話協力製作，1995年）
 
   - （）（總承包商：，動畫協力製作，1995年）
 
-  - [新・天地無用！](../Page/天地無用.md "wikilink")（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，動畫協力製作（包含原畫），1997年）
+  - [新・天地無用！](https://zh.wikipedia.org/wiki/天地無用 "wikilink")（總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，動畫協力製作（包含原畫），1997年）
 
   - （總承包商：[XEBEC](../Page/XEBEC.md "wikilink")，各話協力製作，1999年）
 
@@ -228,7 +229,7 @@ I.G，為I.G Port的旗下子公司。
 
   - [地球少女Arjuna](../Page/地球少女Arjuna.md "wikilink")（）（總承包商：[SATELIGHT](../Page/SATELIGHT.md "wikilink")，各話協力製作）
 
-  - （總承包商：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")，協力製作，2001年－2002年）
+  - （總承包商：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")，協力製作，2001年－2002年）
 
   - [網球王子](../Page/網球王子_\(動畫\).md "wikilink")（）（總承包商：TRANS
     ARTS，動畫協力製作，2001年－2005年）
@@ -238,11 +239,12 @@ I.G，為I.G Port的旗下子公司。
   - [笑園漫畫大王 THE
     ANIMATION](../Page/笑園漫畫大王.md "wikilink")（）（總承包商：J.C.STAFF，各話協力製作，2002年）
 
-  - [萬花筒之星](../Page/百變之星.md "wikilink")（）（總承包商：[GONZO
+  - [萬花筒之星](https://zh.wikipedia.org/wiki/百變之星 "wikilink")（）（總承包商：[GONZO
     DIGIMATION](../Page/GONZO.md "wikilink")，協力製作，2003年－2004年）
 
-  - [水星領航員系列](../Page/水星領航員.md "wikilink")（）（總承包商：[HAL FILM
-    MAKER](../Page/HAL_FILM_MAKER.md "wikilink")，數位美術協力）
+  - [水星領航員系列](https://zh.wikipedia.org/wiki/水星領航員 "wikilink")（）（總承包商：[HAL
+    FILM
+    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")，數位美術協力）
 
       - ARIA The ANIMATION（第1期）（2005年）
       - ARIA The NATURAL（第2期）（2006年）
@@ -254,14 +256,14 @@ I.G，為I.G Port的旗下子公司。
   - （總承包商：TRANS ARTS，協力製作，2007年）
 
   - [無限之住人](../Page/無限之住人.md "wikilink")（）（總承包商：[BEE
-    TRAIN](../Page/BEE_TRAIN.md "wikilink")，協力製作，2008年）
+    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")，協力製作，2008年）
 
   - [白色相簿](../Page/白色相簿.md "wikilink")（）（總承包商：[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")，各話協力製作，2009年）
 
   - [戰鬥司書 The Book of
     Bantorra](../Page/戰鬥司書系列.md "wikilink")（）（總承包商：[david
-    production](../Page/David_Production.md "wikilink")，各話協力製作，2009年－2010年）
+    production](https://zh.wikipedia.org/wiki/David_Production "wikilink")，各話協力製作，2009年－2010年）
 
 <!-- end list -->
 
@@ -277,14 +279,14 @@ I.G，為I.G Port的旗下子公司。
   - [未來日記](../Page/未來日記.md "wikilink")（）（總承包商：[Asread](../Page/Asread.md "wikilink")，各話協力製作，2011年－2012年）
   - [侵略\!?花枝娘](../Page/侵略！花枝娘.md "wikilink")（）（總承包商：[Diomedéa](../Page/Diomedéa.md "wikilink")，各話協力製作，2011年）
   - [輪迴的拉格朗日](../Page/輪迴的拉格朗日.md "wikilink")（）（總承包商：XEBEC，原作、製作協力，2012年）
-  - [Another](../Page/Another.md "wikilink")（總承包商：[P.A.WORKS](../Page/P.A._Works.md "wikilink")，各話協力製作，2012年）
+  - [Another](../Page/Another.md "wikilink")（總承包商：[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，各話協力製作，2012年）
   - [進擊的巨人](../Page/進擊的巨人.md "wikilink")（）（總承包商：[WIT
-    STUDIO](../Page/WIT_STUDIO.md "wikilink")，協力製作，2013年）
-  - [甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")（）（總承包商：WIT
+    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，協力製作，2013年）
+  - [甲鐵城的卡巴內里](https://zh.wikipedia.org/wiki/甲鐵城的卡巴內里 "wikilink")（）（總承包商：WIT
     STUDIO，協力製作，2016年）
   - [藍海少女！](../Page/藍海少女！.md "wikilink")（）（總承包商：J.C.STAFF，製作委員會參與，2016年）
-  - [魔法使的新娘](../Page/魔法使的新娘.md "wikilink")（）（總承包商：[WIT
-    STUDIO](../Page/WIT_STUDIO.md "wikilink")，製作委員會幹事，2017年）
+  - [魔法使的新娘](https://zh.wikipedia.org/wiki/魔法使的新娘 "wikilink")（）（總承包商：[WIT
+    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，製作委員會幹事，2017年）
 
 ### OVA
 
@@ -298,7 +300,7 @@ I.G，為I.G Port的旗下子公司。
   - （）（1988年）－分社名義出道作。
 
   - [銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")（總承包商：[Kitty
-    film](../Page/Kitty_film.md "wikilink")，各話製作協力，1988年－1989年）
+    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，各話製作協力，1988年－1989年）
 
 <!-- end list -->
 
@@ -356,14 +358,14 @@ I.G，為I.G Port的旗下子公司。
     ARTS，協力製作，2001年）
 
   - [HUNTER×HUNTER ORIGINAL VIDEO
-    ANIMATION](../Page/HUNTER×HUNTER.md "wikilink")（總承包商：[日本動畫公司](../Page/日本動畫公司.md "wikilink")，各話協力製作，2002年）
+    ANIMATION](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（總承包商：[日本動畫公司](../Page/日本動畫公司.md "wikilink")，各話協力製作，2002年）
 
   - [網球王子OVA](../Page/網球王子_\(動畫\).md "wikilink")（）（總承包商：，協力製作，2006年）
 
   - [TUSBASA翼 TOKYO
-    REVELATIONS](../Page/TSUBASA翼.md "wikilink")（）（2007年）
+    REVELATIONS](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（）（2007年）
 
-  - [東京糖衣巧克力](../Page/東京糖衣巧克力.md "wikilink")（）（2007年）
+  - [東京糖衣巧克力](https://zh.wikipedia.org/wiki/東京糖衣巧克力 "wikilink")（）（2007年）
 
   - [蝙蝠俠：高譚騎士](../Page/蝙蝠俠：高譚騎士.md "wikilink")（）（2008年）
 
@@ -426,7 +428,7 @@ I.G，為I.G Port的旗下子公司。
       - （2002年）
 
       - 機動警察 WXIII（）（總承包商：[TRIANGLE
-        STAFF](../Page/TRIANGLE_STAFF.md "wikilink")→[MADHOUSE](../Page/MADHOUSE.md "wikilink")，協力製作，2002年）
+        STAFF](https://zh.wikipedia.org/wiki/TRIANGLE_STAFF "wikilink")→[MADHOUSE](../Page/MADHOUSE.md "wikilink")，協力製作，2002年）
 
 <!-- end list -->
 
@@ -436,7 +438,7 @@ I.G，為I.G Port的旗下子公司。
 
   - （）（1990年）
 
-  - [亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")（）（總承包商：[安利美特](../Page/安利美特.md "wikilink")，協力製作，1991年）
+  - [亞爾斯蘭戰記](https://zh.wikipedia.org/wiki/亞爾斯蘭戰記 "wikilink")（）（總承包商：[安利美特](../Page/安利美特.md "wikilink")，協力製作，1991年）
 
   - （）（1992年）
 
@@ -447,28 +449,29 @@ I.G，為I.G Port的旗下子公司。
       - [攻殼機動隊 GHOST IN THE
         SHELL](../Page/攻殼機動隊_\(電影\).md "wikilink")（1995年）
       - [攻殼機動隊2
-        INNOCENCE](../Page/攻殼機動隊2_INNOCENCE.md "wikilink")（2004年）－[吉卜力工作室的企劃製作](../Page/吉卜力工作室.md "wikilink")。
-      - [攻殼機動隊 新劇場版](../Page/攻殼機動隊_新劇場版.md "wikilink")（2015年）
+        INNOCENCE](../Page/攻殼機動隊2_INNOCENCE.md "wikilink")（2004年）－[吉卜力工作室的企劃製作](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")。
+      - [攻殼機動隊
+        新劇場版](https://zh.wikipedia.org/wiki/攻殼機動隊_新劇場版 "wikilink")（2015年）
 
-  - [新世紀福音戰士系列](../Page/新世紀福音戰士.md "wikilink")（）
+  - [新世紀福音戰士系列](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（）
 
-      - [新世紀福音戰士劇場版：死與新生](../Page/新世紀福音戰士劇場版：死與新生.md "wikilink")（）（1997年）
+      - [新世紀福音戰士劇場版：死與新生](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：死與新生 "wikilink")（）（1997年）
       - [新世紀福音戰士劇場版：THE END OF
-        EVANGELION](../Page/新世紀福音戰士劇場版：THE_END_OF_EVANGELION.md "wikilink")（）（1997年）
+        EVANGELION](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")（）（1997年）
 
-  - [電影版蠟筆小新系列](../Page/蠟筆小新.md "wikilink")（）（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")）
+  - [電影版蠟筆小新系列](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")）
 
-      - [第4部：搞怪遊樂園大冒險](../Page/蠟筆小新：搞怪遊樂園大冒險.md "wikilink")（）（動畫、上色，1996年）
-      - [第5部：黑暗珠珠大追擊](../Page/蠟筆小新：黑暗珠珠大追擊.md "wikilink")（）（上色，1997年）
-      - [第6部：電擊！豬蹄大作戰](../Page/蠟筆小新：電擊！豬蹄大作戰.md "wikilink")（）（上色，1998年）
-      - [第13部：風起雲湧！不理不理3分鐘大進攻](../Page/蠟筆小新：風起雲湧！不理不理3分鐘大進攻.md "wikilink")（）（2005年）
+      - [第4部：搞怪遊樂園大冒險](https://zh.wikipedia.org/wiki/蠟筆小新：搞怪遊樂園大冒險 "wikilink")（）（動畫、上色，1996年）
+      - [第5部：黑暗珠珠大追擊](https://zh.wikipedia.org/wiki/蠟筆小新：黑暗珠珠大追擊 "wikilink")（）（上色，1997年）
+      - [第6部：電擊！豬蹄大作戰](https://zh.wikipedia.org/wiki/蠟筆小新：電擊！豬蹄大作戰 "wikilink")（）（上色，1998年）
+      - [第13部：風起雲湧！不理不理3分鐘大進攻](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧！不理不理3分鐘大進攻 "wikilink")（）（2005年）
 
-  - [神奇寶貝劇場版系列](../Page/神奇寶貝劇場版.md "wikilink")（）
+  - [神奇寶貝劇場版系列](https://zh.wikipedia.org/wiki/神奇寶貝劇場版 "wikilink")（）
 
       - [神奇寶貝劇場版：夢幻之神奇寶貝
         洛奇亞爆誕](../Page/神奇寶貝劇場版：夢幻之神奇寶貝_洛奇亞爆誕.md "wikilink")（）（總承包商：[OLM](../Page/OLM.md "wikilink")，上色，1998年）
       - [神奇寶貝劇場版：比克提尼與黑英雄 捷克羅姆/白英雄
-        雷希拉姆](../Page/神奇寶貝劇場版：比克提尼與黑英雄_捷克羅姆/白英雄_雷希拉姆.md "wikilink")（）（與OLM、XEBEC共同製作，2011年）
+        雷希拉姆](https://zh.wikipedia.org/wiki/神奇寶貝劇場版：比克提尼與黑英雄_捷克羅姆/白英雄_雷希拉姆 "wikilink")（）（與OLM、XEBEC共同製作，2011年）
 
   - [秋葉原電腦組－2011年的暑假](../Page/秋葉原電腦組.md "wikilink")（）（1999年）
 
@@ -483,26 +486,31 @@ I.G，為I.G Port的旗下子公司。
   - [血戰：最後的吸血鬼](../Page/血戰：最後的吸血鬼.md "wikilink")（）（2000年）－由押井門下學生自創，也是Production
     I.G首次取得原作著作権的作品。
 
-  - [櫻花大戰 活動照片](../Page/櫻花大戰系列#動畫電影《櫻花大戰：活動寫真》.md "wikilink")（）（2001年）
+  - [櫻花大戰
+    活動照片](https://zh.wikipedia.org/wiki/櫻花大戰系列#動畫電影《櫻花大戰：活動寫真》 "wikilink")（）（2001年）
 
-  - [神隱少女](../Page/千與千尋.md "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2001年）
+  - [神隱少女](https://zh.wikipedia.org/wiki/千與千尋 "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2001年）
 
-  - [殺死比爾 Vol.1](../Page/殺死比爾.md "wikilink")（）（2003年）－動畫章節製作。
+  - [殺死比爾
+    Vol.1](https://zh.wikipedia.org/wiki/殺死比爾 "wikilink")（）（2003年）－動畫章節製作。
 
   - （）（總承包商：[STUDIO 4℃](../Page/STUDIO_4℃.md "wikilink")，動畫，2004年）
 
   - （2004年）
 
-  - [霍爾的移動城堡](../Page/哈爾的移動城堡.md "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2006年）
+  - [霍爾的移動城堡](https://zh.wikipedia.org/wiki/哈爾的移動城堡 "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2006年）
 
-  - [蒸氣男孩](../Page/蒸氣男孩.md "wikilink")（）（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，協力製作，2004年）
+  - [蒸氣男孩](https://zh.wikipedia.org/wiki/蒸氣男孩 "wikilink")（）（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，協力製作，2004年）
 
   - [網球王子系列](../Page/網球王子_\(動畫\).md "wikilink")
 
-      - [網球王子 二人武士The First Game](../Page/網球王子.md "wikilink")（）（2005年）
-      - [網球王子 決戰英國網球城！](../Page/網球王子.md "wikilink")（）（與共同製作，2011年）
+      - [網球王子 二人武士The First
+        Game](https://zh.wikipedia.org/wiki/網球王子 "wikilink")（）（2005年）
+      - [網球王子
+        決戰英國網球城！](https://zh.wikipedia.org/wiki/網球王子 "wikilink")（）（與共同製作，2011年）
 
-  - [TSUBASA翼劇場版 鳥籠國的公主 (暫譯)](../Page/TSUBASA翼.md "wikilink")（）（2005年）
+  - [TSUBASA翼劇場版 鳥籠國的公主
+    (暫譯)](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（）（2005年）
 
   - [劇場版×××HOLiC 仲夏夜之夢](../Page/×××HOLiC.md "wikilink")（）（2005年）
 
@@ -510,7 +518,8 @@ I.G，為I.G Port的旗下子公司。
 
   - [地海戰記](../Page/地海傳說.md "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2006年）
 
-  - [空中殺手The Sky Crawlers](../Page/空中殺手.md "wikilink")（）（2008年）
+  - [空中殺手The Sky
+    Crawlers](https://zh.wikipedia.org/wiki/空中殺手 "wikilink")（）（2008年）
 
   - （）（2009年）
 
@@ -536,17 +545,18 @@ I.G，為I.G Port的旗下子公司。
 
   - [破刃之劍](../Page/破刃之劍.md "wikilink")（）（與[XEBEC共同製作](../Page/XEBEC.md "wikilink")，2010年）
 
-  - [Loups-Garous](../Page/Loups-Garous_應避開的狼.md "wikilink")（與共同製作，2010年）
+  - [Loups-Garous](https://zh.wikipedia.org/wiki/Loups-Garous_應避開的狼 "wikilink")（與共同製作，2010年）
 
   - [超時空甩尾](../Page/超時空甩尾.md "wikilink")（）（總承包商：MADHOUSE，特別感謝，2010年）
 
-  - [你看起來很好吃](../Page/你看起來很好吃_\(動畫電影\).md "wikilink")（）（總承包商：[TMS娛樂](../Page/TMS娛樂.md "wikilink")，動畫協力，2010年）
+  - [你看起來很好吃](https://zh.wikipedia.org/wiki/你看起來很好吃_\(動畫電影\) "wikilink")（）（總承包商：[TMS娛樂](../Page/TMS娛樂.md "wikilink")，動畫協力，2010年）
 
-  - （[青年動畫製作者育成計劃的作品](../Page/青年動畫製作者育成計劃.md "wikilink")。2011年）
+  - （[青年動畫製作者育成計劃的作品](https://zh.wikipedia.org/wiki/青年動畫製作者育成計劃 "wikilink")。2011年）
 
   - （2011年）
 
-  - [戰國BASARA -The Last Party-](../Page/戰國BASARA.md "wikilink")（（2011年）
+  - [戰國BASARA -The Last
+    Party-](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")（（2011年）
 
   - （青年動畫製作者育成計劃的作品。2012年）
 
@@ -556,10 +566,10 @@ I.G，為I.G Port的旗下子公司。
 
   - [圖書館戰爭 革命之翼](../Page/圖書館戰爭.md "wikilink")（）（2012年）
 
-  - [阿修羅](../Page/阿修羅_\(漫畫\).md "wikilink")（）（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，協力作畫製作，2012年）
+  - [阿修羅](https://zh.wikipedia.org/wiki/阿修羅_\(漫畫\) "wikilink")（）（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，協力作畫製作，2012年）
 
   - [009
-    RE:CYBORG](../Page/009_RE:CYBORG.md "wikilink")（與[SANZIGEN共同製作](../Page/SANZIGEN.md "wikilink")，2012年）
+    RE:CYBORG](https://zh.wikipedia.org/wiki/009_RE:CYBORG "wikilink")（與[SANZIGEN共同製作](https://zh.wikipedia.org/wiki/SANZIGEN "wikilink")，2012年）
 
   - [輝耀姬物語](../Page/輝耀姬物語.md "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2013年）
 
@@ -568,17 +578,20 @@ I.G，為I.G Port的旗下子公司。
   - [宇宙戰艦大和號2199
     遊星方舟](../Page/宇宙戰艦大和號2199.md "wikilink")（）（總承包商：XEBEC，協力製作，2014年）
 
-  - [劇場版 PSYCHO-PASS](../Page/心理測量者劇場版.md "wikilink")（）（2015年）
+  - [劇場版
+    PSYCHO-PASS](https://zh.wikipedia.org/wiki/心理測量者劇場版 "wikilink")（）（2015年）
 
-  - [花與愛麗絲的殺人事件](../Page/花與爱麗絲.md "wikilink")（）（總承包商：Rockwell
+  - [花與愛麗絲的殺人事件](https://zh.wikipedia.org/wiki/花與爱麗絲 "wikilink")（）（總承包商：Rockwell
     Eyes、Stephen Stephen，協力製作，2015年）
 
-  - [百日紅 〜Miss HOKUSAI〜](../Page/百日紅.md "wikilink")（2015年）
+  - [百日紅 〜Miss
+    HOKUSAI〜](https://zh.wikipedia.org/wiki/百日紅 "wikilink")（2015年）
 
-  - [影子籃球員](../Page/影子籃球員.md "wikilink") WINTER CUP 總集篇（）（2016年）
+  - [影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink") WINTER CUP
+    總集篇（）（2016年）
 
   - [你的名字。](../Page/你的名字。.md "wikilink")（。）（總承包商：[CoMix Wave
-    Films](../Page/CoMix_Wave_Films.md "wikilink")，2016年）
+    Films](https://zh.wikipedia.org/wiki/CoMix_Wave_Films "wikilink")，2016年）
 
 ### 遊戲動畫
 
@@ -635,9 +648,12 @@ I.G，為I.G Port的旗下子公司。
 
   - [櫻花大戰系列](../Page/櫻花大戰系列.md "wikilink")（）－動畫製作。
 
-      - [櫻花大戰2 ～願君平安～](../Page/櫻花大戰2_～願君平安～.md "wikilink")（）（1998年）
-      - [櫻花大戰3 ～巴黎在燃燒嗎～](../Page/櫻花大戰3_～巴黎在燃燒嗎～.md "wikilink")（）（2001年）
-      - [櫻花大戰4 ～戀愛吧少女～](../Page/櫻花大戰4_～戀愛吧少女～.md "wikilink")（）（2002年）
+      - [櫻花大戰2
+        ～願君平安～](https://zh.wikipedia.org/wiki/櫻花大戰2_～願君平安～ "wikilink")（）（1998年）
+      - [櫻花大戰3
+        ～巴黎在燃燒嗎～](https://zh.wikipedia.org/wiki/櫻花大戰3_～巴黎在燃燒嗎～ "wikilink")（）（2001年）
+      - [櫻花大戰4
+        ～戀愛吧少女～](https://zh.wikipedia.org/wiki/櫻花大戰4_～戀愛吧少女～ "wikilink")（）（2002年）
 
   - [異域神兵](../Page/異域神兵.md "wikilink")（）（1998年）－動畫製作。
 
@@ -652,8 +668,9 @@ I.G，為I.G Port的旗下子公司。
   - （）（1998年）－影片動畫製作。
 
   - [ACE COMBAT 3
-    electrosphere](../Page/ACE_COMBAT_3_electrosphere.md "wikilink")（）（1999年）
-    - 挿入部動畫章節製作及採用[佐藤大製作的腳本](../Page/佐藤大.md "wikilink")。
+    electrosphere](https://zh.wikipedia.org/wiki/ACE_COMBAT_3_electrosphere "wikilink")（）（1999年）
+    -
+    挿入部動畫章節製作及採用[佐藤大製作的腳本](https://zh.wikipedia.org/wiki/佐藤大 "wikilink")。
 
   - （）（1999年）－動畫製作。
 
@@ -669,7 +686,8 @@ I.G，為I.G Port的旗下子公司。
 
   - （）（2000年） - 動畫製作。
 
-  - [SCANDAL](../Page/SCANDAL_\(遊戲\).md "wikilink")（）（2000年） - 動畫製作。
+  - [SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL_\(遊戲\) "wikilink")（）（2000年）
+    - 動畫製作。
 
   - [血戰：最後的吸血鬼](../Page/血戰：最後的吸血鬼.md "wikilink")（）（2000年） - 動畫製作。
 
@@ -695,11 +713,11 @@ I.G，為I.G Port的旗下子公司。
 
   - （）（2008年）－動畫製作和圖形插畫。
 
-  - [無限航路](../Page/無限航路.md "wikilink")（2009年）－動畫製作。
+  - [無限航路](https://zh.wikipedia.org/wiki/無限航路 "wikilink")（2009年）－動畫製作。
 
   - [戰場女武神3](../Page/戰場女武神3.md "wikilink")（）（2011年）－動畫製作。
 
-  - [女神異聞錄5](../Page/女神異聞錄5.md "wikilink")（）（2015年）－動畫製作。
+  - [女神異聞錄5](https://zh.wikipedia.org/wiki/女神異聞錄5 "wikilink")（）（2015年）－動畫製作。
 
 ### 其它
 

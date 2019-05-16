@@ -1,4 +1,4 @@
-《**洗冤錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的古裝](../Page/電視廣播有限公司.md "wikilink")[劇集](../Page/劇集.md "wikilink")，全劇共22集，由[歐陽震華及](../Page/歐陽震華.md "wikilink")[佘詩曼領銜主演](../Page/佘詩曼.md "wikilink")，監製[蕭顯輝](../Page/蕭顯輝.md "wikilink")，此劇為《[洗冤錄系列](../Page/洗冤錄_\(系列\).md "wikilink")》第二輯。
+《**洗冤錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的古裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共22集，由[歐陽震華及](../Page/歐陽震華.md "wikilink")[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，監製[蕭顯輝](../Page/蕭顯輝.md "wikilink")，此劇為《[洗冤錄系列](https://zh.wikipedia.org/wiki/洗冤錄_\(系列\) "wikilink")》第二輯。
 
 此劇根據[南宋名人](../Page/南宋.md "wikilink")[宋慈所著的法醫學題材書籍](../Page/宋慈.md "wikilink")《[洗冤集录](../Page/洗冤集录.md "wikilink")》為基礎，再把著作改編劇集，然後進行拍攝製作。
 
@@ -37,7 +37,7 @@
 <a href="../Page/衙門.md" title="wikilink">衙門</a><a href="../Page/仵作.md" title="wikilink">仵作</a>→司理參軍<br />
 暗戀阮玉寶、阮玉珠<br />
 楊丹鳳之男友<br />
-于第19集被紫霞<a href="../Page/郡主.md" title="wikilink">郡主</a>、高雲軒升為司理參軍，並被二人利用對付<a href="../Page/宋慈.md" title="wikilink">宋慈</a>，後棄暗投明幫<a href="../Page/宋慈.md" title="wikilink">宋慈翻案</a></p></td>
+于第19集被紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主</a>、高雲軒升為司理參軍，並被二人利用對付<a href="../Page/宋慈.md" title="wikilink">宋慈</a>，後棄暗投明幫<a href="../Page/宋慈.md" title="wikilink">宋慈翻案</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
@@ -77,7 +77,7 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎彼德.md" title="wikilink">黎彼德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎彼德" title="wikilink">黎彼德</a></p></td>
 <td><p>阮丞昌</p></td>
 <td><p>敬賓樓老闆<br />
 何淑蘭之夫<br />
@@ -100,10 +100,10 @@
 阮玉寶之母<br />
 關萬福之岳母<br />
 敬賓樓老闆娘<br />
-於第19集遭紫霞<a href="../Page/郡主.md" title="wikilink">郡主毒手</a></p></td>
+於第19集遭紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主毒手</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>阮玉珠</strong></p></td>
 <td><p><strong>豬肉丸</strong><br />
 因早期與其有婚約之男性都因病而亡，被說剋夫且人稱掃把星（粵：劏豬凳）<br />
@@ -240,7 +240,7 @@
 <td><p><a href="../Page/安德尊.md" title="wikilink">安德尊</a></p></td>
 <td><p><strong>趙远材</strong></p></td>
 <td><p><strong>十王爺</strong><br />
-紫霞<a href="../Page/郡主.md" title="wikilink">郡主之兄</a><br />
+紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主之兄</a><br />
 <a href="../Page/宋慈.md" title="wikilink">宋慈之好友</a><br />
 參見上輯<strong><a href="../Page/洗冤錄.md" title="wikilink">洗冤錄</a></strong></p></td>
 </tr>
@@ -256,7 +256,7 @@
 <td><p><a href="../Page/李國麟_(演員).md" title="wikilink">李國麟</a></p></td>
 <td><p>夏侯國棟</p></td>
 <td><p>郡馬<br />
-紫霞<a href="../Page/郡主.md" title="wikilink">郡主之夫</a><br />
+紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主之夫</a><br />
 天下第一神醫<br />
 郭希德之師兄<br />
 于第6集謀害驍騎大將軍並陷害郭希德，第7集被處死刑</p></td>
@@ -310,20 +310,20 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧汝超.md" title="wikilink">鄧汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧汝超" title="wikilink">鄧汝超</a></p></td>
 <td><p>阿　牛</p></td>
 <td><p>牛媽之子<br />
 牛嫂之夫<br />
 于第1集被毒蛇咬傷死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周凱珊.md" title="wikilink">周凱珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凱珊" title="wikilink">周凱珊</a></p></td>
 <td><p>牛　嫂</p></td>
 <td><p>阿牛之妻<br />
 牛媽之媳</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅蘭.md" title="wikilink">羅　蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅　蘭</a></p></td>
 <td><p>牛　媽</p></td>
 <td><p>阿牛之母<br />
 牛嫂之奶奶</p></td>
@@ -354,7 +354,7 @@
 溫秀秀之母</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳安琪.md" title="wikilink">陳安琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳安琪" title="wikilink">陳安琪</a></p></td>
 <td><p>溫秀秀(钟秀秀)</p></td>
 <td><p>溫夫人之女<br />
 溫世亮之繼女<br />
@@ -401,7 +401,7 @@
 <td><p><strong>陳　明</strong></p></td>
 <td><p><strong>明叔</strong><br />
 原名<strong>郭希德</strong><br />
-名<a href="../Page/太醫.md" title="wikilink">太醫</a>，梅花神針傳人<br />
+名<a href="https://zh.wikipedia.org/wiki/太醫" title="wikilink">太醫</a>，梅花神針傳人<br />
 夏侯國棟之師弟<br />
 常滿粥老闆<br />
 被夏侯國棟陷害<br />
@@ -416,7 +416,7 @@
 <td><p><a href="../Page/李國麟_(演員).md" title="wikilink">李國麟</a></p></td>
 <td><p>夏侯國棟</p></td>
 <td><p>郡馬<br />
-紫霞<a href="../Page/郡主.md" title="wikilink">郡主之夫</a><br />
+紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主之夫</a><br />
 天下第一神醫<br />
 郭希德師兄<br />
 于第6集謀害驍騎大將軍並陷害郭希德，於第7集被處死刑</p></td>
@@ -479,7 +479,7 @@
 遭方金榮所殺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/華忠男.md" title="wikilink">華忠男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華忠男" title="wikilink">華忠男</a></p></td>
 <td><p>方金榮</p></td>
 <td><p>蔘茸燕窩莊老闆<br />
 賣假燕窩遭莫振聲揭發，錯手殺死莫振聲</p></td>
@@ -568,7 +568,7 @@
 名太醫，梅花神針傳人<br />
 夏侯國棟之師弟<br />
 常滿粥老闆<br />
-于第18集被紫霞<a href="../Page/郡主.md" title="wikilink">郡主所殺</a></p></td>
+于第18集被紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主所殺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></p></td>
@@ -587,7 +587,7 @@
 <td><p>神機妙算堂客人，因想見已死去的丈夫</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>朱　婆</p></td>
 <td><p>神機妙算堂客人之一<br />
 黃大媽的介紹人</p></td>
@@ -598,7 +598,7 @@
 <td><p>壽叔（第3-4集）</p>
 <hr>
 <p>王七（第11、20－22集）<br />
-于第20集被紫霞<a href="../Page/郡主.md" title="wikilink">郡主殺害並用來陷害</a><a href="../Page/宋慈.md" title="wikilink">宋慈</a></p></td>
+于第20集被紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主殺害並用來陷害</a><a href="../Page/宋慈.md" title="wikilink">宋慈</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/招石文.md" title="wikilink">招石文</a></p></td>
@@ -609,10 +609,10 @@
 <td><p><a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a></p></td>
 <td><p>高雲軒</p></td>
 <td><p>經略大人<br />
-與紫霞<a href="../Page/郡主.md" title="wikilink">郡主利用鄒子龍</a>，陷害<a href="../Page/宋慈.md" title="wikilink">宋慈</a></p></td>
+與紫霞<a href="https://zh.wikipedia.org/wiki/郡主" title="wikilink">郡主利用鄒子龍</a>，陷害<a href="../Page/宋慈.md" title="wikilink">宋慈</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p>和　叔</p></td>
 <td><p>松山鎮前<a href="../Page/仵作.md" title="wikilink">仵作</a></p></td>
 </tr>
@@ -623,7 +623,7 @@
 喜歡白如夢</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>何大興</p></td>
 <td></td>
 </tr>
@@ -641,13 +641,13 @@
 
 以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-|        |        |                                  |                                  |
-| ------ | ------ | -------------------------------- | -------------------------------- |
-| **週次** | **集數** | **平均收視**                         | **最高收視**                         |
-| 1      | 01-05  | 33[點](../Page/收視點.md "wikilink") | 36[點](../Page/收視點.md "wikilink") |
-| 2      | 06-10  | 35[點](../Page/收視點.md "wikilink") | 39[點](../Page/收視點.md "wikilink") |
-| 3      | 11-15  | 32[點](../Page/收視點.md "wikilink") |                                  |
-| 4      | 16-20  | 37[點](../Page/收視點.md "wikilink") | 46[點](../Page/收視點.md "wikilink") |
+|        |        |                                                     |                                                     |
+| ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
+| **週次** | **集數** | **平均收視**                                            | **最高收視**                                            |
+| 1      | 01-05  | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 36[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2      | 06-10  | 35[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 39[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3      | 11-15  | 32[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     |
+| 4      | 16-20  | 37[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 46[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
 ### 广州收视
 
@@ -672,7 +672,7 @@
 
   - [洗冤集录](../Page/洗冤集录.md "wikilink")
   - [大宋提刑官](../Page/大宋提刑官.md "wikilink")
-  - [洗冤錄 (系列)](../Page/洗冤錄_\(系列\).md "wikilink")
+  - [洗冤錄 (系列)](https://zh.wikipedia.org/wiki/洗冤錄_\(系列\) "wikilink")
   - [洗冤錄](../Page/洗冤錄.md "wikilink")
 
 ## 外部連結
@@ -687,7 +687,7 @@
 |align=center|**上一套：**
 [洗冤錄](../Page/洗冤錄.md "wikilink")
 －2007年5月19日 |align=center
-colspan="2"|**翡翠台凌晨重播劇集時段（[2007](../Page/翡翠台電視劇集列表_\(2007年\)#凌晨劇集時段.md "wikilink")）**
+colspan="2"|**翡翠台凌晨重播劇集時段（[2007](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2007年\)#凌晨劇集時段 "wikilink")）**
 **洗冤錄II**
 2007年5月22日－2007年6月20日
 00:15－01:20 |align=center|**下一套：**
@@ -695,7 +695,7 @@ colspan="2"|**翡翠台凌晨重播劇集時段（[2007](../Page/翡翠台電視
 2007年6月21日－
 
 [en:Witness to a
-Prosecution](../Page/en:Witness_to_a_Prosecution.md "wikilink")
+Prosecution](https://zh.wikipedia.org/wiki/en:Witness_to_a_Prosecution "wikilink")
 
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
 [Category:2003年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2003年無綫電視劇集 "wikilink")

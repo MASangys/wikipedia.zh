@@ -31,7 +31,7 @@ __NOTOC__
   - Margot——玛戈特（女）
   - Margret——玛格蕾特（女）
   - Margrit——玛格丽特（女）
-  - Maria——[玛丽亚](../Page/玛丽亚.md "wikilink")（女）
+  - Maria——[玛丽亚](https://zh.wikipedia.org/wiki/玛丽亚 "wikilink")（女）
   - Mariane——玛丽安妮（女）
   - Marie——玛丽（女）
   - Marieluise——玛丽路易丝（女）

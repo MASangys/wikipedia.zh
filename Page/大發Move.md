@@ -1,6 +1,6 @@
-**大發Move**是[日本](../Page/日本.md "wikilink")[大發汽車公司使用同廠Cuore底盤建造的](../Page/大發汽車.md "wikilink")[輕型車](../Page/輕型車.md "wikilink")，其子型號包括Gran
+**大發Move**是[日本](../Page/日本.md "wikilink")[大發汽車公司使用同廠Cuore底盤建造的](https://zh.wikipedia.org/wiki/大發汽車 "wikilink")[輕型車](../Page/輕型車.md "wikilink")，其子型號包括Gran
 Move、Move Latte及Move
-Custom。近期也推出一款[混合動力版本的Move](../Page/混合動力.md "wikilink")，建基於Pyzar，使用[汽油和](../Page/汽油.md "wikilink")[電力作動力](../Page/電力.md "wikilink")，現已開始投產。
+Custom。近期也推出一款[混合動力版本的Move](https://zh.wikipedia.org/wiki/混合動力 "wikilink")，建基於Pyzar，使用[汽油和](../Page/汽油.md "wikilink")[電力作動力](../Page/電力.md "wikilink")，現已開始投產。
 
 ## 內部連結
 

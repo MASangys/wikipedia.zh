@@ -1,6 +1,6 @@
 **智能ABC输入法**（又稱作**标准输入法**\[1\]）是运行于[Microsoft
-Windows之下的](../Page/Microsoft_Windows.md "wikilink")[汉语拼音输入法软件](../Page/汉语拼音输入法.md "wikilink")。大多数人都把智能ABC归纳入[拼音输入法](../Page/拼音输入法.md "wikilink")，其实该输入法身兼两职，既可以纯拼音输入，又可以音形码输入。智能ABC因捆绑于Microsoft
-Windows简体中文版操作系统而一举成名，曾经是中国大陆使用人数最多的输入法软件。此软件是[北京大学教授](../Page/北京大学.md "wikilink")[朱守涛发明的](../Page/朱守涛.md "wikilink")，开发于北京大学科技开发部。智能ABC的最新版本为5.23。
+Windows之下的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[汉语拼音输入法软件](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")。大多数人都把智能ABC归纳入[拼音输入法](../Page/拼音输入法.md "wikilink")，其实该输入法身兼两职，既可以纯拼音输入，又可以音形码输入。智能ABC因捆绑于Microsoft
+Windows简体中文版操作系统而一举成名，曾经是中国大陆使用人数最多的输入法软件。此软件是[北京大学教授](../Page/北京大学.md "wikilink")[朱守涛发明的](https://zh.wikipedia.org/wiki/朱守涛 "wikilink")，开发于北京大学科技开发部。智能ABC的最新版本为5.23。
 
 ## 双拼方案
 
@@ -39,7 +39,7 @@ winabc.ovl
 
 即可解决该问题。
 
-另外，由于智能ABC推出时间较早，缺乏对[Unicode的原生支持](../Page/Unicode.md "wikilink")，因此只要在「控制面板」的「区域和语言选项」中将「非Unicode程序的语言」由「-{zh-hans:中文（中国）;zh-hant:中文（PRC）;}-」改为其他语言，智能ABC便会无法使用。
+另外，由于智能ABC推出时间较早，缺乏对[Unicode的原生支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")，因此只要在「控制面板」的「区域和语言选项」中将「非Unicode程序的语言」由「-{zh-hans:中文（中国）;zh-hant:中文（PRC）;}-」改为其他语言，智能ABC便会无法使用。
 
 ## 被模仿
 

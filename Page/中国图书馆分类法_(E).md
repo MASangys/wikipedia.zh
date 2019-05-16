@@ -1,6 +1,6 @@
 ## 军事
 
-  - E0 [军事理论](../Page/军事.md "wikilink")
+  - E0 [军事理论](https://zh.wikipedia.org/wiki/军事 "wikilink")
 
 ::\*E0-02 军事哲学
 
@@ -34,7 +34,7 @@
 
 :\*E09 军事学史、军事思想史
 
-  - E1 [世界军事](../Page/世界军事.md "wikilink")
+  - E1 [世界军事](https://zh.wikipedia.org/wiki/世界军事 "wikilink")
 
 ::\*E1-49 世界军事普及读物
 
@@ -52,7 +52,7 @@
 
 ::\*E118 战备
 
-:\*E12 [军事制度](../Page/军事制度.md "wikilink")
+:\*E12 [军事制度](https://zh.wikipedia.org/wiki/军事制度 "wikilink")
 
 ::\*E121 军事行政
 
@@ -66,7 +66,7 @@
 
 ::\*E127 军队标识
 
-:\*E13 [军事教育与训练](../Page/军事教育.md "wikilink")
+:\*E13 [军事教育与训练](https://zh.wikipedia.org/wiki/军事教育 "wikilink")
 
 ::\*E139 军事科研组织与活动
 
@@ -103,7 +103,7 @@
 
 ::\*E159 其他
 
-:\*E16 [军事组织与活动](../Page/军事组织.md "wikilink")
+:\*E16 [军事组织与活动](https://zh.wikipedia.org/wiki/军事组织 "wikilink")
 
 ::\*E161 军事组织
 
@@ -111,9 +111,9 @@
 
 ::\*E163 军事条约、协定
 
-:\*E19 [军事史](../Page/军事史.md "wikilink")
+:\*E19 [军事史](https://zh.wikipedia.org/wiki/军事史 "wikilink")
 
-  - E2 [中国军事](../Page/中国军事.md "wikilink")
+  - E2 [中国军事](https://zh.wikipedia.org/wiki/中国军事 "wikilink")
 
 ::\*E2-49 中国军事普及读物
 
@@ -121,7 +121,7 @@
 
 ::\*E201 方针、政策及其阐述
 
-:\*E21 [司令部工作](../Page/司令部.md "wikilink")
+:\*E21 [司令部工作](https://zh.wikipedia.org/wiki/司令部 "wikilink")
 
 ::\*E211 作战指挥
 
@@ -195,7 +195,8 @@
 
 :\*E24 生产建设工作
 
-:\*E25 [国防建设与](../Page/国防建设.md "wikilink")[战备](../Page/战备.md "wikilink")
+:\*E25
+[国防建设与](https://zh.wikipedia.org/wiki/国防建设 "wikilink")[战备](https://zh.wikipedia.org/wiki/战备 "wikilink")
 
 ::\*E251 军事教育、军事训练
 
@@ -229,7 +230,7 @@
 
 ::\*E258 战备
 
-:\*E26 [军事制度](../Page/军事制度.md "wikilink")
+:\*E26 [军事制度](https://zh.wikipedia.org/wiki/军事制度 "wikilink")
 
 ::\*E261 军事行政
 
@@ -343,7 +344,7 @@
 ::::\*E289.58 台湾
 
 :\*E29
-[军事史](../Page/军事史.md "wikilink")（[战史](../Page/战史.md "wikilink")、[建军史](../Page/建军史.md "wikilink")）
+[军事史](https://zh.wikipedia.org/wiki/军事史 "wikilink")（[战史](https://zh.wikipedia.org/wiki/战史 "wikilink")、[建军史](https://zh.wikipedia.org/wiki/建军史 "wikilink")）
 
 ::\*E291 古代军事史
 
@@ -391,30 +392,35 @@
 
 ::::\*E296.94 抗日战争以后时期（1945－1949年）
 
-::\*E297 [中国人民解放军军事史](../Page/中国人民解放军军事史.md "wikilink")
+::\*E297
+[中国人民解放军军事史](https://zh.wikipedia.org/wiki/中国人民解放军军事史 "wikilink")
 
 :::\*E297.0 八一南昌起义
 
-:::\*E297.1 [北伐战争时期](../Page/北伐战争.md "wikilink")（1924－1927年）
+:::\*E297.1
+[北伐战争时期](https://zh.wikipedia.org/wiki/北伐战争 "wikilink")（1924－1927年）
 
-:::\*E297.2 [土地革命战争时期](../Page/土地革命.md "wikilink")（1927－1937年）
+:::\*E297.2
+[土地革命战争时期](https://zh.wikipedia.org/wiki/土地革命 "wikilink")（1927－1937年）
 
-:::\*E297.3 [抗日战争时期](../Page/抗日战争.md "wikilink")（1937－1945年）
+:::\*E297.3
+[抗日战争时期](https://zh.wikipedia.org/wiki/抗日战争 "wikilink")（1937－1945年）
 
-:::\*E297.4 [解放战争时期](../Page/解放战争.md "wikilink")（1945－1949年）
+:::\*E297.4
+[解放战争时期](https://zh.wikipedia.org/wiki/解放战争 "wikilink")（1945－1949年）
 
 :::\*E297.5
-[社会主义革命和](../Page/社会主义革命.md "wikilink")[社会主义建设时期](../Page/社会主义建设.md "wikilink")（1949年以后）
+[社会主义革命和](https://zh.wikipedia.org/wiki/社会主义革命 "wikilink")[社会主义建设时期](https://zh.wikipedia.org/wiki/社会主义建设 "wikilink")（1949年以后）
 
-  - E3 [亚洲军事](../Page/亚洲军事.md "wikilink")
-  - E4 [非洲军事](../Page/非洲军事.md "wikilink")
-  - E5 [欧洲军事](../Page/欧洲军事.md "wikilink")
-  - E6 [大洋洲军事](../Page/大洋洲军事.md "wikilink")
-  - E7 [美洲军事](../Page/美洲军事.md "wikilink")
+  - E3 [亚洲军事](https://zh.wikipedia.org/wiki/亚洲军事 "wikilink")
+  - E4 [非洲军事](https://zh.wikipedia.org/wiki/非洲军事 "wikilink")
+  - E5 [欧洲军事](https://zh.wikipedia.org/wiki/欧洲军事 "wikilink")
+  - E6 [大洋洲军事](https://zh.wikipedia.org/wiki/大洋洲军事 "wikilink")
+  - E7 [美洲军事](https://zh.wikipedia.org/wiki/美洲军事 "wikilink")
   - E8
-    [战略](../Page/战略.md "wikilink")、[战役](../Page/战役.md "wikilink")、[战术](../Page/战术.md "wikilink")
+    [战略](https://zh.wikipedia.org/wiki/战略 "wikilink")、[战役](../Page/战役.md "wikilink")、[战术](https://zh.wikipedia.org/wiki/战术 "wikilink")
 
-:\*E81 [战略学](../Page/战略学.md "wikilink")
+:\*E81 [战略学](https://zh.wikipedia.org/wiki/战略学 "wikilink")
 
 ::\*E811 战争初期问题
 
@@ -432,7 +438,7 @@
 
 ::\*E818 全球战略
 
-:\*E82 [战役学](../Page/战役学.md "wikilink")
+:\*E82 [战役学](https://zh.wikipedia.org/wiki/战役学 "wikilink")
 
 ::\*E821 集团军战役、方面军战役
 
@@ -446,7 +452,7 @@
 
 ::\*E828 核反击战役
 
-:\*E83 [战术学](../Page/战术学.md "wikilink")
+:\*E83 [战术学](https://zh.wikipedia.org/wiki/战术学 "wikilink")
 
 ::\*E831 游击战
 
@@ -514,7 +520,7 @@
 
 ::\*E846 特种部队战术
 
-:\*E86 [非常规战争](../Page/非常规战争.md "wikilink")
+:\*E86 [非常规战争](https://zh.wikipedia.org/wiki/非常规战争 "wikilink")
 
 ::\*E861 核战争与反核战争
 
@@ -526,15 +532,16 @@
 
 ::\*E869 其他
 
-:\*E87 [军事情报与军事侦察](../Page/军事情报.md "wikilink")
+:\*E87 [军事情报与军事侦察](https://zh.wikipedia.org/wiki/军事情报 "wikilink")
 
-:\*E89 古代[兵法](../Page/兵法.md "wikilink")、[战法](../Page/战法.md "wikilink")
+:\*E89
+古代[兵法](../Page/兵法.md "wikilink")、[战法](https://zh.wikipedia.org/wiki/战法 "wikilink")
 
-::\*E892 [中国](../Page/中国.md "wikilink")
+::\*E892 [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")
 
 ::\*E893/897 各国
 
-  - E9　[军事技术](../Page/军事技术.md "wikilink")
+  - E9　[军事技术](https://zh.wikipedia.org/wiki/军事技术 "wikilink")
 
 :\*E91 军事技术基础科学
 
@@ -554,7 +561,8 @@
 
 ::\*E919 其他学科在军事上的应用
 
-:\*E92 [武器](../Page/武器.md "wikilink")、[军用器材](../Page/军用器材.md "wikilink")
+:\*E92
+[武器](../Page/武器.md "wikilink")、[军用器材](https://zh.wikipedia.org/wiki/军用器材 "wikilink")
 
 :::\*E920.2 射击学
 
@@ -786,7 +794,7 @@
 
 ::\*E939 其他军用器材
 
-:\*E95 [军事工程](../Page/军事工程.md "wikilink")
+:\*E95 [军事工程](https://zh.wikipedia.org/wiki/军事工程 "wikilink")
 
 ::\*E951 工程技术一般作业
 
@@ -810,7 +818,7 @@
 
 ::\*E956 战略导弹军事工程
 
-:\*E96 [军事通信](../Page/军事通信.md "wikilink")
+:\*E96 [军事通信](https://zh.wikipedia.org/wiki/军事通信 "wikilink")
 
 ::\*E961 军用有线电通信
 
@@ -838,7 +846,7 @@
 
 ::\*E968 通信电源
 
-:\*E99　[军事地形学](../Page/军事地形学.md "wikilink")、[军事地理学](../Page/军事地理学.md "wikilink")
+:\*E99　[军事地形学](https://zh.wikipedia.org/wiki/军事地形学 "wikilink")、[军事地理学](https://zh.wikipedia.org/wiki/军事地理学 "wikilink")
 
 ::\*E991 军事地形学
 

@@ -1,7 +1,7 @@
 **Alexa
-Internet公司**是[亞馬遜公司的一家子公司](../Page/亞馬遜公司.md "wikilink")，總部位於[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")。於1996年由布魯斯特·卡勒及布鲁斯·吉里亚特创立。作為[互聯網檔案館的分支](../Page/互聯網檔案館.md "wikilink")，受到杰奎琳·萨福拉的埃托勒投资支持。1999年，Alexa被亞馬遜公司以約價值兩億五千萬美元的[股票買下](../Page/股票.md "wikilink")。\[1\]
+Internet公司**是[亞馬遜公司的一家子公司](../Page/亞馬遜公司.md "wikilink")，總部位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。於1996年由布魯斯特·卡勒及布鲁斯·吉里亚特创立。作為[互聯網檔案館的分支](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")，受到杰奎琳·萨福拉的埃托勒投资支持。1999年，Alexa被亞馬遜公司以約價值兩億五千萬美元的[股票買下](../Page/股票.md "wikilink")。\[1\]
 
-Alexa分析提供各种[網站的相關資訊與网页访问量](../Page/網站.md "wikilink")，以其Alexa.com網站闻名。透過收集用户的上網資訊，以便統計網站流量及相關資訊。Alexa為Alexadex.com提供[搜尋引擎](../Page/搜尋引擎.md "wikilink")，並為A9.com搜索引擎提供「網站資訊」服務。
+Alexa分析提供各种[網站的相關資訊與网页访问量](../Page/網站.md "wikilink")，以其Alexa.com網站闻名。透過收集用户的上網資訊，以便統計網站流量及相關資訊。Alexa為Alexadex.com提供[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並為A9.com搜索引擎提供「網站資訊」服務。
 
 Alexa 也是Amazon公司推出的著名语音助手的唤醒名字。语音助手本身称为 echo。
 
@@ -10,7 +10,7 @@ Alexa 也是Amazon公司推出的著名语音助手的唤醒名字。语音助�
 Alexa
 Internet由布魯斯特·卡勒和布魯斯·吉里亚特於1996年建立\[2\]。公司取名Alexa是為了向[亚历山大图书馆致敬](../Page/亚历山大图书馆.md "wikilink")，並代表互聯網是現代的亚历山大图书馆\[3\]。
 
-Alexa的搜索服務提供了一個[工具欄](../Page/Alexa工具欄.md "wikilink")，這個工具欄會根據用戶的流量模式來建議用戶選擇不同的網站。Alexa也會提供每個用戶到訪的網站的資料，其中包括網站註冊人、網頁數量、鏈接至此的網站數量、以及更新的頻繁度。\[4\]
+Alexa的搜索服務提供了一個[工具欄](https://zh.wikipedia.org/wiki/Alexa工具欄 "wikilink")，這個工具欄會根據用戶的流量模式來建議用戶選擇不同的網站。Alexa也會提供每個用戶到訪的網站的資料，其中包括網站註冊人、網頁數量、鏈接至此的網站數量、以及更新的頻繁度。\[4\]
 
 於1999年，Alexa被Amazon.com以總值約2.5億美金的股票收購\[5\]。自此，Alexa便開始提供智能搜索服務。於2002年初，Alexa開始與Google合作，並於2003年1月加入[开放式目录](../Page/开放式目录.md "wikilink")。\[6\]2006年5月，亞馬遜以[Bing取代Google作為搜尋工具](../Page/Bing.md "wikilink")。\[7\]於2006年12月，Alexa開始提供圖片搜索服務。
 
@@ -24,17 +24,18 @@ Alexa每天在网上搜集超过1,000GB的信息，然后进行整合发布，�
 
 Alexa網站排名主要根據[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")、[Firefox和](../Page/Firefox.md "wikilink")[Google
-Chrome提供的流量資料來排名](../Page/Google_Chrome.md "wikilink")，\[12\]\[13\]因此，使用它的人數是否能代表一般網路用户具有爭議。\[14\]此外，排名是根據最近三個月數據的總和來排行，因此要等很久才會有顯著的變化。\[15\]Alexa也承認排名中幾項不準確資訊的可能性，包括使用量較小的網站很難準確估量，主要被非IE用户使用的網站，以及某些同域的二级域名网站等。\[16\]但由於Alexa的取樣數量相當大，且參考依據為現今網路世界的主流[瀏覽器](../Page/瀏覽器.md "wikilink")，因此一般仍被最廣泛用於評估網站的受歡迎度。
+Chrome提供的流量資料來排名](../Page/Google_Chrome.md "wikilink")，\[12\]\[13\]因此，使用它的人數是否能代表一般網路用户具有爭議。\[14\]此外，排名是根據最近三個月數據的總和來排行，因此要等很久才會有顯著的變化。\[15\]Alexa也承認排名中幾項不準確資訊的可能性，包括使用量較小的網站很難準確估量，主要被非IE用户使用的網站，以及某些同域的二级域名网站等。\[16\]但由於Alexa的取樣數量相當大，且參考依據為現今網路世界的主流[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，因此一般仍被最廣泛用於評估網站的受歡迎度。
 
 於2008年4月16日，許多用戶報告了Alexa網站排名發生巨大變化。而Alexa則在翌日指出他們更新了排名系統，並聲稱這個新系統會提供更準確的數據。\[17\]\[18\]
 
 ## 2009年重新設計
 
-於2009年3月31日，Alexa重新設計了其網站，並提供了新的網絡流量指標，其中包括單獨用戶的平均頁面瀏覽量、跳出率、以及用戶瀏覽網站的時數\[19\]。在接下來的幾個星期內，Alexa進一步增加了其功能，其中包括訪客數量資料、點擊流量和搜索流量統計資料功能\[20\]。Alexa引入這些新功能：目的是為了與其他網絡分析網站競爭，如[Compete.com和](../Page/Compete.com.md "wikilink")[Quantcast](../Page/Quantcast.md "wikilink")\[21\]。
+於2009年3月31日，Alexa重新設計了其網站，並提供了新的網絡流量指標，其中包括單獨用戶的平均頁面瀏覽量、跳出率、以及用戶瀏覽網站的時數\[19\]。在接下來的幾個星期內，Alexa進一步增加了其功能，其中包括訪客數量資料、點擊流量和搜索流量統計資料功能\[20\]。Alexa引入這些新功能：目的是為了與其他網絡分析網站競爭，如[Compete.com和](https://zh.wikipedia.org/wiki/Compete.com "wikilink")[Quantcast](https://zh.wikipedia.org/wiki/Quantcast "wikilink")\[21\]。
 
 ## 参見
 
-  - [Alexa Toolbar](../Page/Alexa_Toolbar.md "wikilink")
+  - [Alexa
+    Toolbar](https://zh.wikipedia.org/wiki/Alexa_Toolbar "wikilink")
   - [互联网档案馆](../Page/互联网档案馆.md "wikilink")
   - [最受欢迎网站列表](../Page/最受欢迎网站列表.md "wikilink")
 

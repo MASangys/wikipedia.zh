@@ -1,9 +1,9 @@
 **TrigML** 是一種[XML導向的使用者介面描述語言](../Page/XML.md "wikilink")（XML-derived
 UI mark-up
-language），由英國Trigenix公司發明，功能類似[HTML和](../Page/HTML.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")。可提供美國[Qualcomm公司的BREW](../Page/Qualcomm.md "wikilink")
-[uiOne的Trig模式的撰寫](../Page/uiOne.md "wikilink")，2004年10月12日Qualcomm宣布以3600萬美金併購Trigenix公司，将提升BREW使用者介面技术开发推进到更高的境界\[1\]。
+language），由英國Trigenix公司發明，功能類似[HTML和](../Page/HTML.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")。可提供美國[Qualcomm公司的BREW](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
+[uiOne的Trig模式的撰寫](https://zh.wikipedia.org/wiki/uiOne "wikilink")，2004年10月12日Qualcomm宣布以3600萬美金併購Trigenix公司，将提升BREW使用者介面技术开发推进到更高的境界\[1\]。
 
-收购后，TrigML及其相关的集成开发环境（IDE）被[高通重新命名为](../Page/高通.md "wikilink")[uiOne](../Page/uiOne.md "wikilink")\[2\]。
+收购后，TrigML及其相关的集成开发环境（IDE）被[高通重新命名为](../Page/高通.md "wikilink")[uiOne](https://zh.wikipedia.org/wiki/uiOne "wikilink")\[2\]。
 
 ## 注釋
 

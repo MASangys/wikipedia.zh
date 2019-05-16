@@ -1,11 +1,11 @@
 [King_Lam_Estate.JPG](https://zh.wikipedia.org/wiki/File:King_Lam_Estate.JPG "fig:King_Lam_Estate.JPG")的Y型大廈佈局\]\]
 
 **Y型大廈**（**Trident
-block**）是[香港公共房屋大廈的一種標準型大廈設計](../Page/香港公共房屋.md "wikilink")，分為Y1型、Y2型、Y3型及Y4型，於1984年至1992年期間落成的[公共屋邨](../Page/香港公共屋邨.md "wikilink")（尤其是被納入[租者置其屋計劃的公共屋邨](../Page/租者置其屋計劃.md "wikilink")，即可拆售公屋）及[居者有其屋](../Page/居者有其屋.md "wikilink")（居屋）中最為常見。
+block**）是[香港公共房屋大廈的一種標準型大廈設計](../Page/香港公共房屋.md "wikilink")，分為Y1型、Y2型、Y3型及Y4型，於1984年至1992年期間落成的[公共屋邨](../Page/香港公共屋邨.md "wikilink")（尤其是被納入[租者置其屋計劃的公共屋邨](../Page/租者置其屋計劃.md "wikilink")，即可拆售公屋）及[居者有其屋](https://zh.wikipedia.org/wiki/居者有其屋 "wikilink")（居屋）中最為常見。
 
 ## 簡介
 
-Y型大廈是[香港房屋委員會](../Page/香港房屋委員會.md "wikilink")（簡稱「房委會」）成立後首款非[長型標準設計的公屋](../Page/舊長型大廈.md "wikilink")／居屋大廈。顧名思義，Y型樓宇的橫切面呈「Y」字型，三條翼樓自中央電梯大堂放射而出。4款Y型大廈的外觀和每層的單位佈局都有明顯分別。Y型樓宇與傳統長型公屋大廈相比，設計靈活性較低，不能隨意修改樓宇層數，佔地也較廣，所以這種樓宇設計經常被使用於新開拓土地、面積較大的地盤及不受高度限制的地盤，亦因此大多數Y型大廈落座於[新市鎮](../Page/香港新市鎮.md "wikilink")，部分位於[港島及](../Page/港島.md "wikilink")[新九龍的公共屋邨](../Page/新九龍.md "wikilink")／居屋屋苑亦有Y型大廈，但多採用佔地相對小的Y4型設計（其中，港島並無Y3型大廈）。
+Y型大廈是[香港房屋委員會](../Page/香港房屋委員會.md "wikilink")（簡稱「房委會」）成立後首款非[長型標準設計的公屋](../Page/舊長型大廈.md "wikilink")／居屋大廈。顧名思義，Y型樓宇的橫切面呈「Y」字型，三條翼樓自中央電梯大堂放射而出。4款Y型大廈的外觀和每層的單位佈局都有明顯分別。Y型樓宇與傳統長型公屋大廈相比，設計靈活性較低，不能隨意修改樓宇層數，佔地也較廣，所以這種樓宇設計經常被使用於新開拓土地、面積較大的地盤及不受高度限制的地盤，亦因此大多數Y型大廈落座於[新市鎮](../Page/香港新市鎮.md "wikilink")，部分位於[港島及](https://zh.wikipedia.org/wiki/港島 "wikilink")[新九龍的公共屋邨](../Page/新九龍.md "wikilink")／居屋屋苑亦有Y型大廈，但多採用佔地相對小的Y4型設計（其中，港島並無Y3型大廈）。
 
 另外，由於1980年代居屋需求殷切，令為數不少Y2型、Y3型及Y4型原公屋大廈被改裝作居屋出售。直至1998年，房委會推行租者置其屋計劃，讓租戶以合理價錢購買現居單位，而租者置其屋計劃中出售的屋邨皆為1982至1992年或之前落成（翠屏（北）邨翠樟樓除外），所以大部分被納入租者置其屋計劃中出售的屋邨，都是由Y型大廈組成的公共屋邨。
 
@@ -23,19 +23,19 @@ Y1型大廈樓高35層，單位設計主要是編配給3人或以下家庭的小
 
 ### Y2型
 
-Y2型大廈樓高35層，約有816個單位，每翼8伙，每層共24伙。樓宇的四分之三單位屬中型單位，編配給4-6人家庭，為房屋署首次引入「一屋多房」設計概念的標準設計大廈；只有佔四分一的翼尾單位是供7人或以上家庭的大型單位。欄柵式窗花全面改為鐵窗設計，窗戶位置配合房間間隔。此類大廈主要集中於1984-1989年間落成，最早落成的是[北區](../Page/北區_\(香港\).md "wikilink")[粉嶺](../Page/粉嶺.md "wikilink")[祥華邨祥德樓](../Page/祥華邨.md "wikilink")，於1984年落成，甚至比Y1型更早落成。其他還有[博康邨博逸樓](../Page/博康邨.md "wikilink")（1985年落成）及[長康邨康美樓](../Page/長康邨.md "wikilink")（1986年落成）。另外部分居屋亦擁有Y2型大廈，如[青衣](../Page/青衣.md "wikilink")[青盛苑等](../Page/青盛苑.md "wikilink")；而最後兩座同類樓宇是[元朗](../Page/元朗.md "wikilink")[朗屏邨畫屏樓和喜屏樓](../Page/朗屏邨.md "wikilink")（1989年初入伙）。此款樓宇的最大特徵為每翼頂層（天台）的外牆都有圓形開口。
+Y2型大廈樓高35層，約有816個單位，每翼8伙，每層共24伙。樓宇的四分之三單位屬中型單位，編配給4-6人家庭，為房屋署首次引入「一屋多房」設計概念的標準設計大廈；只有佔四分一的翼尾單位是供7人或以上家庭的大型單位。欄柵式窗花全面改為鐵窗設計，窗戶位置配合房間間隔。此類大廈主要集中於1984-1989年間落成，最早落成的是[北區](../Page/北區_\(香港\).md "wikilink")[粉嶺](../Page/粉嶺.md "wikilink")[祥華邨祥德樓](../Page/祥華邨.md "wikilink")，於1984年落成，甚至比Y1型更早落成。其他還有[博康邨博逸樓](../Page/博康邨.md "wikilink")（1985年落成）及[長康邨康美樓](../Page/長康邨.md "wikilink")（1986年落成）。另外部分居屋亦擁有Y2型大廈，如[青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青盛苑等](https://zh.wikipedia.org/wiki/青盛苑 "wikilink")；而最後兩座同類樓宇是[元朗](../Page/元朗.md "wikilink")[朗屏邨畫屏樓和喜屏樓](../Page/朗屏邨.md "wikilink")（1989年初入伙）。此款樓宇的最大特徵為每翼頂層（天台）的外牆都有圓形開口。
 
 Y2型大廈除廣福邨及長康邨外，皆已透過租者置其屋計劃出售。
 
 ### Y3型
 
-Y3型樓高35層，通常每翼8伙，每層共24伙，共有約800-1100個單位。Y3型大廈的設計無論在大大改良了Y1、Y2型的外觀或單位間隔，並是首款設置[冷氣機口的標準型公屋大廈](../Page/冷氣機.md "wikilink")，為其後出現的[和諧式大廈奠定了設計的基礎](../Page/和諧式大廈.md "wikilink")。Y3型佔地較大，所以較常見於新市鎮，例如[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")、[天水圍及](../Page/天水圍.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")、部分九龍市區新發展區，例如[藍田一帶亦興建了不少Y](../Page/藍田_\(香港\).md "wikilink")3型大廈。本型多於1987年至1992年期間落成。[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")[恆安邨恆山樓](../Page/恆安邨.md "wikilink")、恆峰樓和恆海樓是新界區首批同類建築（1987年3月入伙），最後三座同款大廈位於[天水圍](../Page/天水圍.md "wikilink")[天耀邨](../Page/天耀邨.md "wikilink")（1992年5月入伙）。部分居屋亦擁有Y3型大廈，例如[青衣](../Page/青衣.md "wikilink")[青雅苑等](../Page/青雅苑.md "wikilink")，一般於1989-1992年間由鄰近公屋屋邨抽出發售。此款樓宇最大特徵為每層電梯大堂面積不一，每三層由上至下、由小至大呈梯級型設計。
+Y3型樓高35層，通常每翼8伙，每層共24伙，共有約800-1100個單位。Y3型大廈的設計無論在大大改良了Y1、Y2型的外觀或單位間隔，並是首款設置[冷氣機口的標準型公屋大廈](https://zh.wikipedia.org/wiki/冷氣機 "wikilink")，為其後出現的[和諧式大廈奠定了設計的基礎](../Page/和諧式大廈.md "wikilink")。Y3型佔地較大，所以較常見於新市鎮，例如[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")、[天水圍及](../Page/天水圍.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")、部分九龍市區新發展區，例如[藍田一帶亦興建了不少Y](../Page/藍田_\(香港\).md "wikilink")3型大廈。本型多於1987年至1992年期間落成。[馬鞍山](../Page/馬鞍山_\(香港市鎮\).md "wikilink")[恆安邨恆山樓](../Page/恆安邨.md "wikilink")、恆峰樓和恆海樓是新界區首批同類建築（1987年3月入伙），最後三座同款大廈位於[天水圍](../Page/天水圍.md "wikilink")[天耀邨](../Page/天耀邨.md "wikilink")（1992年5月入伙）。部分居屋亦擁有Y3型大廈，例如[青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青雅苑等](https://zh.wikipedia.org/wiki/青雅苑 "wikilink")，一般於1989-1992年間由鄰近公屋屋邨抽出發售。此款樓宇最大特徵為每層電梯大堂面積不一，每三層由上至下、由小至大呈梯級型設計。
 
 這一款除長亨邨及天耀邨外皆已透過租者置其屋計劃出售。跟Y2型一樣，出售比率較高。
 
 ### Y4型
 
-Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設計以Y3型作藍本，但佔地較各款Y型大廈為小，故較適合用於市區佔地較小的地盤，而大、中、小型單位比例亦較其餘3型平均，適合各類家庭人數的需要。大部分Y4型大廈樓高35層，但有小部分市區Y4大廈只興建了24-31層，以應對當時[啟德機場飛機航道而設立的高度限制](../Page/啟德機場.md "wikilink")，如[東頭邨](../Page/東頭邨.md "wikilink")、[小西灣邨](../Page/小西灣邨.md "wikilink")、[李鄭屋邨等](../Page/李鄭屋邨.md "wikilink")。每座單位數量較少，只有約430-630個單位，每翼6至7伙，每層18至21伙。部分單位更可以間三間房。首批Y4型大廈於1988年初在[柴灣](../Page/柴灣.md "wikilink")[翠灣邨落成](../Page/翠灣邨.md "wikilink")，1992年5月最後兩座同類大廈於[天水圍](../Page/天水圍.md "wikilink")[天耀邨入伙](../Page/天耀邨.md "wikilink")，同時也是最後一批廣義Y型大廈。其他例子還有[深水埗](../Page/深水埗.md "wikilink")[李鄭屋邨孝廉樓](../Page/李鄭屋邨.md "wikilink")（1989年落成）、[牛頭角](../Page/牛頭角.md "wikilink")[彩霞邨彩日樓](../Page/彩霞邨.md "wikilink")（1990年落成）及[香港仔](../Page/香港仔.md "wikilink")[華貴邨華孝樓](../Page/華貴邨.md "wikilink")（1990年落成）。此款大廈的特點是其中兩翼夾角處有一橫向翼，為兩個大型單位所在，從外面來看此夾角有三面而非兩面。部分Y4型樓宇屬於居屋大廈（於1989-1992年間從鄰近公屋屋邨抽出出售），包括[黃大仙](../Page/黃大仙.md "wikilink")[鳳鑽苑和](../Page/鳳鑽苑.md "wikilink")[大埔](../Page/大埔.md "wikilink")[頌雅苑等](../Page/頌雅苑.md "wikilink")。除了[小西灣邨](../Page/小西灣邨.md "wikilink")、[翠屏南邨](../Page/翠屏南邨.md "wikilink")、[長亨邨](../Page/長亨邨.md "wikilink")、[天耀邨的Y](../Page/天耀邨.md "wikilink")4型公屋大廈因為同邨內設有[和諧式大廈而導致整條屋邨的所有大廈不作出售之外](../Page/和諧式大廈.md "wikilink")，其餘大部分Y4型公屋大廈均已透過租者置其屋計劃出售。
+Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設計以Y3型作藍本，但佔地較各款Y型大廈為小，故較適合用於市區佔地較小的地盤，而大、中、小型單位比例亦較其餘3型平均，適合各類家庭人數的需要。大部分Y4型大廈樓高35層，但有小部分市區Y4大廈只興建了24-31層，以應對當時[啟德機場飛機航道而設立的高度限制](../Page/啟德機場.md "wikilink")，如[東頭邨](../Page/東頭邨.md "wikilink")、[小西灣邨](../Page/小西灣邨.md "wikilink")、[李鄭屋邨等](../Page/李鄭屋邨.md "wikilink")。每座單位數量較少，只有約430-630個單位，每翼6至7伙，每層18至21伙。部分單位更可以間三間房。首批Y4型大廈於1988年初在[柴灣](../Page/柴灣.md "wikilink")[翠灣邨落成](../Page/翠灣邨.md "wikilink")，1992年5月最後兩座同類大廈於[天水圍](../Page/天水圍.md "wikilink")[天耀邨入伙](../Page/天耀邨.md "wikilink")，同時也是最後一批廣義Y型大廈。其他例子還有[深水埗](../Page/深水埗.md "wikilink")[李鄭屋邨孝廉樓](../Page/李鄭屋邨.md "wikilink")（1989年落成）、[牛頭角](../Page/牛頭角.md "wikilink")[彩霞邨彩日樓](../Page/彩霞邨.md "wikilink")（1990年落成）及[香港仔](../Page/香港仔.md "wikilink")[華貴邨華孝樓](../Page/華貴邨.md "wikilink")（1990年落成）。此款大廈的特點是其中兩翼夾角處有一橫向翼，為兩個大型單位所在，從外面來看此夾角有三面而非兩面。部分Y4型樓宇屬於居屋大廈（於1989-1992年間從鄰近公屋屋邨抽出出售），包括[黃大仙](https://zh.wikipedia.org/wiki/黃大仙 "wikilink")[鳳鑽苑和](https://zh.wikipedia.org/wiki/鳳鑽苑 "wikilink")[大埔](https://zh.wikipedia.org/wiki/大埔 "wikilink")[頌雅苑等](https://zh.wikipedia.org/wiki/頌雅苑 "wikilink")。除了[小西灣邨](../Page/小西灣邨.md "wikilink")、[翠屏南邨](https://zh.wikipedia.org/wiki/翠屏南邨 "wikilink")、[長亨邨](../Page/長亨邨.md "wikilink")、[天耀邨的Y](../Page/天耀邨.md "wikilink")4型公屋大廈因為同邨內設有[和諧式大廈而導致整條屋邨的所有大廈不作出售之外](../Page/和諧式大廈.md "wikilink")，其餘大部分Y4型公屋大廈均已透過租者置其屋計劃出售。
 
 **註：**不知是時間不合或其他因素：荃灣及葵涌一幢Y型樓宇也沒有
 
@@ -82,7 +82,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/景翠苑.md" title="wikilink">景翠苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/景翠苑" title="wikilink">景翠苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
@@ -136,7 +136,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鳳鑽苑.md" title="wikilink">鳳鑽苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳳鑽苑" title="wikilink">鳳鑽苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
@@ -184,7 +184,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/康盈苑.md" title="wikilink">康盈苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康盈苑" title="wikilink">康盈苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
@@ -281,7 +281,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/廣福邨.md" title="wikilink">廣福邨</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/廣福邨" title="wikilink">廣福邨</a></em></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td><p>-</p></td>
@@ -293,7 +293,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/寶雅苑.md" title="wikilink">寶雅苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寶雅苑" title="wikilink">寶雅苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>3</p></td>
@@ -305,25 +305,25 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/德雅苑.md" title="wikilink">德雅苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德雅苑" title="wikilink">德雅苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/運頭塘邨.md" title="wikilink">運頭塘邨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/運頭塘邨" title="wikilink">運頭塘邨</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/逸雅苑.md" title="wikilink">逸雅苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逸雅苑" title="wikilink">逸雅苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/頌雅苑.md" title="wikilink">頌雅苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/頌雅苑" title="wikilink">頌雅苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
@@ -347,7 +347,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/安盛苑.md" title="wikilink">安盛苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安盛苑" title="wikilink">安盛苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
@@ -371,7 +371,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/浩明苑.md" title="wikilink">浩明苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浩明苑" title="wikilink">浩明苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
@@ -408,7 +408,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/青盛苑.md" title="wikilink">青盛苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青盛苑" title="wikilink">青盛苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td><p>-</p></td>
@@ -432,7 +432,7 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/青雅苑.md" title="wikilink">青雅苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青雅苑" title="wikilink">青雅苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
@@ -468,25 +468,25 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兆邦苑.md" title="wikilink">兆邦苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兆邦苑" title="wikilink">兆邦苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/兆隆苑.md" title="wikilink">兆隆苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兆隆苑" title="wikilink">兆隆苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兆軒苑.md" title="wikilink">兆軒苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兆軒苑" title="wikilink">兆軒苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/兆畦苑.md" title="wikilink">兆畦苑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兆畦苑" title="wikilink">兆畦苑</a></p></td>
 <td><p>-</p></td>
 <td style="text-align: center;"><p>-</p></td>
 <td><p>1</p></td>
@@ -533,14 +533,14 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 
 *斜體字顯示的為並**沒有**被納入租者置其屋計劃的公共屋邨*
 
-[File:Lei_Tung_Easate_Tung_Mau_House_Y1.jpg|圖中是位於](File:Lei_Tung_Easate_Tung_Mau_House_Y1.jpg%7C圖中是位於)[鴨脷洲利東邨東茂樓屬](../Page/鴨脷洲.md "wikilink")[Y1型樓宇於](../Page/Y1型.md "wikilink")1987年落成。
+[File:Lei_Tung_Easate_Tung_Mau_House_Y1.jpg|圖中是位於](File:Lei_Tung_Easate_Tung_Mau_House_Y1.jpg%7C圖中是位於)[鴨脷洲利東邨東茂樓屬](../Page/鴨脷洲.md "wikilink")[Y1型樓宇於](https://zh.wikipedia.org/wiki/Y1型 "wikilink")1987年落成。
 <File:Tin> Ping Estate Phase
-1.jpg|圖中是位於[上水](../Page/上水.md "wikilink")[天平邨屬](../Page/天平邨.md "wikilink")[Y2型樓宇於](../Page/Y2型.md "wikilink")1986年落成。
-[File:Cheong_On_Est-On_Pok_Hse,On_Mei_Hse.JPG|圖中是位於](File:Cheong_On_Est-On_Pok_Hse,On_Mei_Hse.JPG%7C圖中是位於)[青衣](../Page/青衣島.md "wikilink")[長安邨屬](../Page/長安邨.md "wikilink")[Y3型樓宇於](../Page/Y3型.md "wikilink")1988年落成。
+1.jpg|圖中是位於[上水](../Page/上水.md "wikilink")[天平邨屬](../Page/天平邨.md "wikilink")[Y2型樓宇於](https://zh.wikipedia.org/wiki/Y2型 "wikilink")1986年落成。
+[File:Cheong_On_Est-On_Pok_Hse,On_Mei_Hse.JPG|圖中是位於](File:Cheong_On_Est-On_Pok_Hse,On_Mei_Hse.JPG%7C圖中是位於)[青衣](../Page/青衣島.md "wikilink")[長安邨屬](../Page/長安邨.md "wikilink")[Y3型樓宇於](https://zh.wikipedia.org/wiki/Y3型 "wikilink")1988年落成。
 <File:HK> HangOnEstate
-View1.jpg|[恆安邨屬](../Page/恆安邨.md "wikilink")[Y3型樓宇](../Page/Y3型.md "wikilink")，於1987年落成。
+View1.jpg|[恆安邨屬](../Page/恆安邨.md "wikilink")[Y3型樓宇](https://zh.wikipedia.org/wiki/Y3型 "wikilink")，於1987年落成。
 <File:Lee> Cheung Uk Estate Phase 3
-2009.jpg|[李鄭屋邨孝廉樓及孝慈樓](../Page/李鄭屋邨.md "wikilink")，屬[Y4型樓宇](../Page/Y4型.md "wikilink")，於1990年落成
+2009.jpg|[李鄭屋邨孝廉樓及孝慈樓](../Page/李鄭屋邨.md "wikilink")，屬[Y4型樓宇](https://zh.wikipedia.org/wiki/Y4型 "wikilink")，於1990年落成
 
 ## 外部連結
 

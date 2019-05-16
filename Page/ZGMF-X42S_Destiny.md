@@ -1,18 +1,18 @@
 **ZGMF-X42S Destiny**為[日本電視動畫](../Page/日本.md "wikilink")[機動戰士鋼彈 SEED
-DESTINY中登場](../Page/機動戰士鋼彈_SEED_DESTINY.md "wikilink")，被分類為機動戰士（[MS](../Page/MS.md "wikilink")）的虛構兵器之一，為主人翁[真·飛鳥於故事後期搭乘之座機](../Page/真·飛鳥.md "wikilink")。機體名為[英語](../Page/英語.md "wikilink")「命運」之意，日本地區通稱「運命」，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。
+DESTINY中登場](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED_DESTINY "wikilink")，被分類為機動戰士（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")）的虛構兵器之一，為主人翁[真·飛鳥於故事後期搭乘之座機](../Page/真·飛鳥.md "wikilink")。機體名為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「命運」之意，日本地區通稱「運命」，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。
 [Zgmf-x42s.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-x42s.jpg "fig:Zgmf-x42s.jpg")
 
 ## 開發經過
 
-[C.E.](../Page/C.E..md "wikilink")
-73年，在極為混沌的形勢之中，為了劃下與[地球聯合戰爭的休止符](../Page/地球聯合.md "wikilink")，本機的開發在[P.L.A.N.T.最高評議會議長](../Page/P.L.A.N.T..md "wikilink")[吉伯特·杜蘭朵的指令下啟動了](../Page/吉伯特·杜蘭朵.md "wikilink")。
+[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")
+73年，在極為混沌的形勢之中，為了劃下與[地球聯合戰爭的休止符](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")，本機的開發在[P.L.A.N.T.最高評議會議長](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")[吉伯特·杜蘭朵的指令下啟動了](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")。
 
 自開發之初即著眼於[脈衝鋼彈駕駛員](../Page/ZGMF-X56S_Impulse.md "wikilink")[真·飛鳥的專用機](../Page/真·飛鳥.md "wikilink")，設計概念是讓[脈衝鋼彈無須換裝](../Page/ZGMF-X56S_Impulse.md "wikilink")**魅影**即得到集合於單一形態中的多樣性。於是，將**威力型魅影（Force
 Silhouette）**、**巨劍型魅影（Sword Silhouette）**及**轟擊型魅影（Blast
 Silhouette）**三種裝備統合、發展的新裝備「**命運型魅影（Destiny
 Silhouette）**」的開發就此開始了。但是搭載了過多武裝的命運型魅影，對於由核心飛梭組成的[脈衝鋼彈複雜精密的機體構造帶來很大負荷](../Page/ZGMF-X56S_Impulse.md "wikilink")，又因耗費電力的膨脹，到頭來承受不了實戰運用。根據這些數據，得出了「要創造出最強的萬能機，不如從零開始設計全新機體更有效率」的判斷。結果命運型魅影的製造僅有四機便中斷，移行至本機的開發了。
 
-新機體開發之際，杜蘭朵議長提出了「將最高技術全都盛滿進去」的要求，這有著使用核引擎、幻象化粒子等為**尤尼烏斯條約**所禁止的各種技術的意味在，本機也實際用上了以這些技術發展出的裝備。另外，不僅僅是這些既有技術的發展轉移，可說是「以[MS戰鬥運用的全新創造](../Page/MS.md "wikilink")」的本機亦大量採用了獨有的系統。
+新機體開發之際，杜蘭朵議長提出了「將最高技術全都盛滿進去」的要求，這有著使用核引擎、幻象化粒子等為**尤尼烏斯條約**所禁止的各種技術的意味在，本機也實際用上了以這些技術發展出的裝備。另外，不僅僅是這些既有技術的發展轉移，可說是「以[MS戰鬥運用的全新創造](https://zh.wikipedia.org/wiki/MS "wikilink")」的本機亦大量採用了獨有的系統。
 
 本機原本應該擁有標示著搭載核引擎的型號「A」，超越**第二世代系列（Second Stage Series）**的**第三世代系列（Third
 Stage
@@ -23,20 +23,20 @@ Series）**定位。然而，當時尤尼烏斯條約已形同具文，搭載核
 本機搭載最新型動力機關**Hyper
 Duetrion**，多樣的強力兵裝均獲得了巨大出力，即便沒有外部裝備仍擁有恐怖的總體性能。此外，更統合、高性能化[脈衝鋼彈原有的](../Page/ZGMF-X56S_Impulse.md "wikilink")**威力型魅影**、**巨劍型魅影**與**轟擊型魅影**各武裝並成功裝備之，在任何戰鬥距離中都能發揮出壓倒敵機的最大攻擊力和驚異機動力。機能愈是增加，系統管理也愈是複雜，通過電子設備的強化，駕駛員得以不被打擾，細膩地控制機體遂行戰鬥。
 
-與裝備類的高端化相反，本機的基本構造可說是相對標準的，沒有前期第二世代系列的變形、合體機構等特徵。被稱為「以[MS戰鬥運用的全新創造](../Page/MS.md "wikilink")」的本機並不僅止於既有技術的發展轉移，亦大量採用了獨自的系統，能夠進行與既往機體完全不同級別的戰鬥。軟件、硬件兩端均針對總是展現超反應速度的[真·飛鳥加以調整](../Page/真·飛鳥.md "wikilink")，使真的潛在能力能夠毫無保留地發揮出來，唯有他搭乘時方能發揮本機的真正價值。
+與裝備類的高端化相反，本機的基本構造可說是相對標準的，沒有前期第二世代系列的變形、合體機構等特徵。被稱為「以[MS戰鬥運用的全新創造](https://zh.wikipedia.org/wiki/MS "wikilink")」的本機並不僅止於既有技術的發展轉移，亦大量採用了獨自的系統，能夠進行與既往機體完全不同級別的戰鬥。軟件、硬件兩端均針對總是展現超反應速度的[真·飛鳥加以調整](../Page/真·飛鳥.md "wikilink")，使真的潛在能力能夠毫無保留地發揮出來，唯有他搭乘時方能發揮本機的真正價值。
 
 本機搭載的新型Hyper
 Duetrion引擎，為核引擎與氘核系統的混合動力，兩套發電機相互補完下，理論上沒有缺電問題，能夠發揮出既往動力機關數倍之出力。同時採用了新型的駕駛艙，外景顯示器通過前方及側邊面板的無縫一體化，實現了高辨識度的廣域視界。操作系統亦採用新型的「MOBILE
 SUIT NEO OPERATION SYSTEM Ver.1.62 Rev.29
 」，能夠順暢地運行各種先進化裝備群。包括控制介面在內的設備類都是高端化的，維持了同第二世代系列駕駛艙相近的配置，因此真‧飛鳥即使初次搭乘也能夠毫無困惑地操作。機體在高出力運轉時，中央的副顯示器會彈出。
 
-全身各部位備有多樣武裝的本機，必須在戰鬥中不浪費時間地使用這些性質各異的武裝；為了實現之，機體各處的可動部位配備了能夠做出接近人類動作的機構。覆蓋本機全身的裝甲，在其可動部位周邊做了更細緻的分割，肢體運動時這些裝甲會靈活地連動滑行，使可動範圍擴大，提升運動性。此機構可說是以裝甲的輕量化換取運動性的提升，會使裝甲產生間隙，導致防禦力下降。值得一提的是[攻擊自由鋼彈亦採用了同樣的機構](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，以[煌·大和的被彈率低為由](../Page/煌·大和.md "wikilink")，粗暴地無視防禦力下降而提升運動性至極限，是以「不被彈」為前提的極端規格。然而本機則不同，通過解析專屬駕駛員[真·飛鳥的戰鬥數據](../Page/真·飛鳥.md "wikilink")，以他的實績來進行活動範圍的設定與裝甲的分割。令本機面對敵人時無防備的瞬間被壓縮至最小限度，同時盡量發揮出最大的機動性，是比較務實的規格，尋求防禦力與運動性之間的平衡。另外，在機體交付予[真·飛鳥後](../Page/真·飛鳥.md "wikilink")，裝甲又進行了數次微調整。構成關節的內部骨骼是由[VPS裝甲技術轉移的特殊素材所製成](../Page/機動戰士技術#PS裝甲（Variable_Phase_Shift_Armour）.md "wikilink")，素材性質會配合肢體運動而變化，打造出有柔軟度的關節。這種特殊素材的硬化和柔軟化需要常時穩定地供給電力，剩餘的電力會作為光子放出，使關節帶有鈍感的金屬光芒，因此本機具備巨大的發電能力是不可或缺的。然而，這樣的機構卻也使本機的機體構造較通常的[MS複雜數倍](../Page/MS.md "wikilink")，在生產性和整備性方面均存在頗大問題。
+全身各部位備有多樣武裝的本機，必須在戰鬥中不浪費時間地使用這些性質各異的武裝；為了實現之，機體各處的可動部位配備了能夠做出接近人類動作的機構。覆蓋本機全身的裝甲，在其可動部位周邊做了更細緻的分割，肢體運動時這些裝甲會靈活地連動滑行，使可動範圍擴大，提升運動性。此機構可說是以裝甲的輕量化換取運動性的提升，會使裝甲產生間隙，導致防禦力下降。值得一提的是[攻擊自由鋼彈亦採用了同樣的機構](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，以[煌·大和的被彈率低為由](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")，粗暴地無視防禦力下降而提升運動性至極限，是以「不被彈」為前提的極端規格。然而本機則不同，通過解析專屬駕駛員[真·飛鳥的戰鬥數據](../Page/真·飛鳥.md "wikilink")，以他的實績來進行活動範圍的設定與裝甲的分割。令本機面對敵人時無防備的瞬間被壓縮至最小限度，同時盡量發揮出最大的機動性，是比較務實的規格，尋求防禦力與運動性之間的平衡。另外，在機體交付予[真·飛鳥後](../Page/真·飛鳥.md "wikilink")，裝甲又進行了數次微調整。構成關節的內部骨骼是由[VPS裝甲技術轉移的特殊素材所製成](https://zh.wikipedia.org/wiki/機動戰士技術#PS裝甲（Variable_Phase_Shift_Armour） "wikilink")，素材性質會配合肢體運動而變化，打造出有柔軟度的關節。這種特殊素材的硬化和柔軟化需要常時穩定地供給電力，剩餘的電力會作為光子放出，使關節帶有鈍感的金屬光芒，因此本機具備巨大的發電能力是不可或缺的。然而，這樣的機構卻也使本機的機體構造較通常的[MS複雜數倍](https://zh.wikipedia.org/wiki/MS "wikilink")，在生產性和整備性方面均存在頗大問題。
 
 本機背部的飛翼部件是從[自由鋼彈的活動空氣動力彈性翼](../Page/ZGMF-X10A_Freedom.md "wikilink")（Active
 Aeroelastic
-Wing）發展而來的產物，無論[大氣圈內或](../Page/大氣圈.md "wikilink")[宇宙空間均能發揮絕大機動性](../Page/宇宙.md "wikilink")。而機翼的內部，更搭載了技術轉移自行星間航行用推進系統「**光輝傳遞者（Voiture
-Lumiere）**」的高推力推進器。原本[觀星者鋼彈所搭載的同名技術是接收太陽風及各種鐳射或荷電粒子](../Page/GSX401FW_Stargazer.md "wikilink")，通過能量轉換得以利用光壓推進，兼具作為鐳射推進的一面。導入此技術的其他軍用[MS](../Page/MS.md "wikilink")，則是利用機體內的雷射發送器，並搭載了動態的瞬間加速力優秀的模組。而本機也是通過特殊的能量轉換，獲得強大的光壓作為推進力，來自Hyper
-Duetrion引擎供給的無限電力形成巨大的赤色**光之翼**，發揮出無與倫比的超加速。同時廣域散佈**幻象化粒子**，在周圍的空間上形成自機的光學殘像，使敵人在視覺上、電子上均無法捕捉，本機壓倒的機動性已成為同時代[MS的最強級別](../Page/MS.md "wikilink")。
+Wing）發展而來的產物，無論[大氣圈內或](https://zh.wikipedia.org/wiki/大氣圈 "wikilink")[宇宙空間均能發揮絕大機動性](../Page/宇宙.md "wikilink")。而機翼的內部，更搭載了技術轉移自行星間航行用推進系統「**光輝傳遞者（Voiture
+Lumiere）**」的高推力推進器。原本[觀星者鋼彈所搭載的同名技術是接收太陽風及各種鐳射或荷電粒子](https://zh.wikipedia.org/wiki/GSX401FW_Stargazer "wikilink")，通過能量轉換得以利用光壓推進，兼具作為鐳射推進的一面。導入此技術的其他軍用[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，則是利用機體內的雷射發送器，並搭載了動態的瞬間加速力優秀的模組。而本機也是通過特殊的能量轉換，獲得強大的光壓作為推進力，來自Hyper
+Duetrion引擎供給的無限電力形成巨大的赤色**光之翼**，發揮出無與倫比的超加速。同時廣域散佈**幻象化粒子**，在周圍的空間上形成自機的光學殘像，使敵人在視覺上、電子上均無法捕捉，本機壓倒的機動性已成為同時代[MS的最強級別](https://zh.wikipedia.org/wiki/MS "wikilink")。
 
 武裝方面，本機頭部兩側內藏了近接防禦機關砲**MMI-GAU26
 17.5mmCIWS**，實體彈式的火器。比前期第二世代系列的20mm更加小徑化，裝彈數得以增加，並通過彈芯改良抑制了殺傷力的下降。用以對地壓制、牽制敵機及攔截導彈等，用途廣泛。主武裝**MA-BAR73/S
@@ -44,37 +44,39 @@ Duetrion引擎供給的無限電力形成巨大的赤色**光之翼**，發揮�
 Duetrion引擎豐沛的電力供給，實現了出力和連射性的大幅提升。
 
 裝備於雙手背部的**X2351
-「隔絕光」光束盾發生裝置**，改良自[亥伯龍的](../Page/CAT-1X1/3_Hyperion.md "wikilink")「單相光波防禦盾」。無論光束兵器、實體彈均可遮斷，能夠將[破滅鋼彈的大出力光束完全無效化](../Page/GFAS-X1_Destroy.md "wikilink")，防禦力凌駕於傳統施以對光束塗層的實體盾。即便展開中也能從盾的內側攻擊，可任意調整展開形狀與面積，適合全方位使用，光束接觸敵機的同時用於攻擊或作為光束砲射擊也是可以的。本機仍攜行一面**反光束盾**，這是考慮到本機經常衝擊砲火兇猛的敵陣，可能遭遇某些光束盾無法抵禦的攻擊（施以對光束塗層的物體可穿透光束盾），以及突破要塞的光束盾。盾是比較小型的規格，但與[脈衝鋼彈的機動防盾同樣具有可擴大防禦面積的伸縮機構](../Page/ZGMF-X56S_Impulse.md "wikilink")，兼顧良好的靈活性。以輕量且超高硬度的特殊金屬製成的對光束塗層防盾，亦可和光束盾並用。
+「隔絕光」光束盾發生裝置**，改良自[亥伯龍的](https://zh.wikipedia.org/wiki/CAT-1X1/3_Hyperion "wikilink")「單相光波防禦盾」。無論光束兵器、實體彈均可遮斷，能夠將[破滅鋼彈的大出力光束完全無效化](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")，防禦力凌駕於傳統施以對光束塗層的實體盾。即便展開中也能從盾的內側攻擊，可任意調整展開形狀與面積，適合全方位使用，光束接觸敵機的同時用於攻擊或作為光束砲射擊也是可以的。本機仍攜行一面**反光束盾**，這是考慮到本機經常衝擊砲火兇猛的敵陣，可能遭遇某些光束盾無法抵禦的攻擊（施以對光束塗層的物體可穿透光束盾），以及突破要塞的光束盾。盾是比較小型的規格，但與[脈衝鋼彈的機動防盾同樣具有可擴大防禦面積的伸縮機構](../Page/ZGMF-X56S_Impulse.md "wikilink")，兼顧良好的靈活性。以輕量且超高硬度的特殊金屬製成的對光束塗層防盾，亦可和光束盾並用。
 
 本機獨有的**MMI-X340
-「掌中槍」掌部光束砲**，裝備於兩手掌部，可說是暗器的光束砲。沒有架設光束砲的動作就能發動攻擊，交會的接近戰鬥也相當好用，可確實破壞密著狀態下的對手，亦有作為光束短劍的機能。以通常不會發生的零距離格鬥戰為想定的兵裝，可看出本機的特異性。實現「以[MS戰鬥運用的全新創造](../Page/MS.md "wikilink")」，本機獨自新機軸的兵裝之一，故戰術的變化也是未知數。威力非常高，擁有一擊破壞戰艦等級的恐怖威力。
+「掌中槍」掌部光束砲**，裝備於兩手掌部，可說是暗器的光束砲。沒有架設光束砲的動作就能發動攻擊，交會的接近戰鬥也相當好用，可確實破壞密著狀態下的對手，亦有作為光束短劍的機能。以通常不會發生的零距離格鬥戰為想定的兵裝，可看出本機的特異性。實現「以[MS戰鬥運用的全新創造](https://zh.wikipedia.org/wiki/MS "wikilink")」，本機獨自新機軸的兵裝之一，故戰術的變化也是未知數。威力非常高，擁有一擊破壞戰艦等級的恐怖威力。
 
 左右肩側配備了兩支**RQM60F
 「爍刃二式」光束迴旋鏢**，為巨劍型魅影的「爍刃」光束迴旋鏢的發展型，主要用於投擲攻擊。導入了簡易式**龍騎兵系統（DRAGOON
-System）**，可依照駕駛員腦中描繪的弧形軌道飛行，延伸光束刃的輸出長度作為手持式的光束軍刀使用也是可以的。投擲時的出力擁有輕易切斷防盾、連同[MS一併破壞掉的威力](../Page/MS.md "wikilink")。另外，，取消了兩刀連結的機能，新增了可作為實體刃迴旋鏢使用的原創機能，亦可作為手持實體刃。
+System）**，可依照駕駛員腦中描繪的弧形軌道飛行，延伸光束刃的輸出長度作為手持式的光束軍刀使用也是可以的。投擲時的出力擁有輕易切斷防盾、連同[MS一併破壞掉的威力](https://zh.wikipedia.org/wiki/MS "wikilink")。另外，，取消了兩刀連結的機能，新增了可作為實體刃迴旋鏢使用的原創機能，亦可作為手持實體刃。
 
 右背面配備一柄**MMI-714
-「亞隆戴特」光束巨劍**，為巨劍型魅影的「石中劍」鐳射對艦刀的改良型，名稱的由來則是[圓桌武士之長](../Page/圆桌骑士.md "wikilink")‧[蘭斯洛特的愛劍](../Page/兰斯洛特爵士.md "wikilink")。刀身進一步伸長，超越機體身長，裝備時為折疊的狀態。通過巨大的實體刃與光束刃如斬馬刀般輕易破壞艦艇，甚至能將破滅鋼彈一刀兩斷。擁有繼承自「石中劍」的高銳利度，作為格鬥戰用兵裝有著破格的威力。不使用時刀身折疊起來裝備於右後背的武器架台。具有如此長、大的刀身，可預料到平衡性絕對談不上良好，駕駛員須有相當的技術方能操控自如。本機五體的柔軟度更是不可或缺的，換作其他機體，即便裝備了也無法使用。
+「亞隆戴特」光束巨劍**，為巨劍型魅影的「石中劍」鐳射對艦刀的改良型，名稱的由來則是[圓桌武士之長](../Page/圆桌骑士.md "wikilink")‧[蘭斯洛特的愛劍](https://zh.wikipedia.org/wiki/兰斯洛特爵士 "wikilink")。刀身進一步伸長，超越機體身長，裝備時為折疊的狀態。通過巨大的實體刃與光束刃如斬馬刀般輕易破壞艦艇，甚至能將破滅鋼彈一刀兩斷。擁有繼承自「石中劍」的高銳利度，作為格鬥戰用兵裝有著破格的威力。不使用時刀身折疊起來裝備於右後背的武器架台。具有如此長、大的刀身，可預料到平衡性絕對談不上良好，駕駛員須有相當的技術方能操控自如。本機五體的柔軟度更是不可或缺的，換作其他機體，即便裝備了也無法使用。
 
 左背面裝備了**M2000GX 高能量長射程光束砲**，破壞力與精準度兼具的大型光束發射管。來自Hyper
-Duetrion引擎豐沛的能量供給，不僅高威力、長射程，連射性能也很優秀。其性能遙遙凌駕於包括轟擊型魅影在內、既有的[MS用光束發射器](../Page/MS.md "wikilink")。令人誇耀的是不只對艦戰、對要塞戰，對[MS戰亦有很高的運用性](../Page/MS.md "wikilink")，而且無須手持也可展開使用。發砲時展開22米的砲身超越機體的身長，應用了機體本體亦採用的基本構造細分割化與連動滑行機構，不使用時砲身折疊起來裝備於左後背的武器架台。另外也存在其他擁有變形機構的武裝，不過都沒有複雜化到如此程度的。
+Duetrion引擎豐沛的能量供給，不僅高威力、長射程，連射性能也很優秀。其性能遙遙凌駕於包括轟擊型魅影在內、既有的[MS用光束發射器](https://zh.wikipedia.org/wiki/MS "wikilink")。令人誇耀的是不只對艦戰、對要塞戰，對[MS戰亦有很高的運用性](https://zh.wikipedia.org/wiki/MS "wikilink")，而且無須手持也可展開使用。發砲時展開22米的砲身超越機體的身長，應用了機體本體亦採用的基本構造細分割化與連動滑行機構，不使用時砲身折疊起來裝備於左後背的武器架台。另外也存在其他擁有變形機構的武裝，不過都沒有複雜化到如此程度的。
 
 添加了各式各樣〝Gundam Type
-[MS](../Page/MS.md "wikilink")〞特色的本機是[Z.A.F.T.究極的](../Page/Z.A.F.T..md "wikilink")[MS](../Page/MS.md "wikilink")，其性能實際上已達第三世代以上的高世代，被評為「**火力、機動力、防禦力、信賴性等全面凌駕[脈衝鋼彈的](../Page/ZGMF-X56S_Impulse.md "wikilink")〝最強[MS](../Page/MS.md "wikilink")〞**」。
+[MS](https://zh.wikipedia.org/wiki/MS "wikilink")〞特色的本機是[Z.A.F.T.究極的](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")，其性能實際上已達第三世代以上的高世代，被評為「**火力、機動力、防禦力、信賴性等全面凌駕[脈衝鋼彈的](../Page/ZGMF-X56S_Impulse.md "wikilink")〝最強[MS](https://zh.wikipedia.org/wiki/MS "wikilink")〞**」。
 
-[C.E.](../Page/C.E..md "wikilink")
-74年，[Z.A.F.T.紅衣精英兵](../Page/Z.A.F.T..md "wikilink")[真·飛鳥駕駛本機投入反](../Page/真·飛鳥.md "wikilink")[理法戰爭](../Page/理法.md "wikilink")，作為捍衛「**命運計畫**」的象徵不斷地奮戰。為了根絕戰爭，其高超的駕駛技術將本機的潛在能力毫無保留地發揮出來，在地上和[宇宙取得對](../Page/宇宙.md "wikilink")[大西洋聯邦的全面勝利](../Page/大西洋聯邦.md "wikilink")，並成功殲滅了[理法](../Page/理法.md "wikilink")。然而在決定杜蘭朵議長是否能主宰世界的[彌賽亞攻防戰中](../Page/彌賽亞.md "wikilink")，由於[真·飛鳥自身意志的動搖和精神狀態的不穩定](../Page/真·飛鳥.md "wikilink")，本機吃下了唯一也是最後的敗仗。
+[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")
+74年，[Z.A.F.T.紅衣精英兵](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[真·飛鳥駕駛本機投入反](../Page/真·飛鳥.md "wikilink")[理法戰爭](https://zh.wikipedia.org/wiki/理法 "wikilink")，作為捍衛「**命運計畫**」的象徵不斷地奮戰。為了根絕戰爭，其高超的駕駛技術將本機的潛在能力毫無保留地發揮出來，在地上和[宇宙取得對](../Page/宇宙.md "wikilink")[大西洋聯邦的全面勝利](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")，並成功殲滅了[理法](https://zh.wikipedia.org/wiki/理法 "wikilink")。然而在決定杜蘭朵議長是否能主宰世界的[彌賽亞攻防戰中](../Page/彌賽亞.md "wikilink")，由於[真·飛鳥自身意志的動搖和精神狀態的不穩定](../Page/真·飛鳥.md "wikilink")，本機吃下了唯一也是最後的敗仗。
 
 ## 機體諸元
 
   - 型號：ZGMF-X42S
   - 名稱：Destiny
-  - 建造：[P.L.A.N.T.](../Page/P.L.A.N.T..md "wikilink")
-  - 所屬：[Z.A.F.T.](../Page/ZAFT.md "wikilink") 強襲登陸型MS戰艦智慧女神號 →
-    [Z.A.F.T.](../Page/ZAFT.md "wikilink")
+  - 建造：[P.L.A.N.T.](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")
+  - 所屬：[Z.A.F.T.](https://zh.wikipedia.org/wiki/ZAFT "wikilink")
+    強襲登陸型MS戰艦智慧女神號 →
+    [Z.A.F.T.](https://zh.wikipedia.org/wiki/ZAFT "wikilink")
     宇宙要塞[彌賽亞](../Page/彌賽亞.md "wikilink")
-  - 分類：[Z.A.F.T.](../Page/Z.A.F.T..md "wikilink")
-    [鋼彈目](../Page/鋼彈.md "wikilink") ‧ ZGMF-X第二世代系列 ‧ 高機動試作機
+  - 分類：[Z.A.F.T.](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")
+    [鋼彈目](https://zh.wikipedia.org/wiki/鋼彈 "wikilink") ‧
+    ZGMF-X第二世代系列 ‧ 高機動試作機
   - 全高：18.08公尺
   - 重量：79.44公噸
   - 裝甲材質：VPS裝甲
@@ -107,24 +109,24 @@ Duetrion引擎豐沛的能量供給，不僅高威力、長射程，連射性能
 
 ## 戰鬥史
 
-### [C.E.](../Page/C.E..md "wikilink") 74年
+### [C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink") 74年
 
-  - 阿斯蘭叛逃事件：[真·飛鳥駕駛本機首次出擊](../Page/真·飛鳥.md "wikilink")，以壓倒的性能輕易地擊墜了[阿斯蘭·薩拉搭乘的](../Page/阿斯兰·萨拉.md "wikilink")[古夫烈焰型](../Page/ZGMF-2000_Gouf_Ignited.md "wikilink")。\[4\]
+  - 阿斯蘭叛逃事件：[真·飛鳥駕駛本機首次出擊](../Page/真·飛鳥.md "wikilink")，以壓倒的性能輕易地擊墜了[阿斯蘭·薩拉搭乘的](../Page/阿斯兰·萨拉.md "wikilink")[古夫烈焰型](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")。\[4\]
   - Operation
-    Ragnarok（天堂基地攻防戰）：以[Z.A.F.T.為首的反](../Page/Z.A.F.T..md "wikilink")[理法同盟軍集結於](../Page/理法.md "wikilink")[直布羅陀基地後](../Page/直布羅陀.md "wikilink")，緊接著包圍位於[冰島的地球聯合軍最高司令部](../Page/冰島.md "wikilink")——天堂基地，要求交出戰犯‧[理法盟主兼](../Page/理法.md "wikilink")[藍色宇宙新盟主的](../Page/藍色宇宙.md "wikilink")[洛德·吉布列](../Page/洛德·吉布列.md "wikilink")。然而地球軍[理法派部隊無預警的奇襲](../Page/理法.md "wikilink")，並一口氣出動五機[破滅鋼彈令同盟軍前鋒艦隊損失慘重](../Page/GFAS-X1_Destroy.md "wikilink")。[真·飛鳥搭乘本機出擊](../Page/真·飛鳥.md "wikilink")，發揮強大的速度與攻擊力擊墜數機[威達](../Page/GAT-04_Windam.md "wikilink")。接著單獨擊破兩機[破滅鋼彈](../Page/GFAS-X1_Destroy.md "wikilink")，並偕[傳說鋼彈與](../Page/ZGMF-X666S_Legend.md "wikilink")[脈衝鋼彈攜手攻擊打倒一機](../Page/ZGMF-X56S_Impulse.md "wikilink")，最終攻破了天堂基地，同盟軍勝利。\[5\]
+    Ragnarok（天堂基地攻防戰）：以[Z.A.F.T.為首的反](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[理法同盟軍集結於](https://zh.wikipedia.org/wiki/理法 "wikilink")[直布羅陀基地後](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，緊接著包圍位於[冰島的地球聯合軍最高司令部](https://zh.wikipedia.org/wiki/冰島 "wikilink")——天堂基地，要求交出戰犯‧[理法盟主兼](https://zh.wikipedia.org/wiki/理法 "wikilink")[藍色宇宙新盟主的](https://zh.wikipedia.org/wiki/藍色宇宙 "wikilink")[洛德·吉布列](https://zh.wikipedia.org/wiki/洛德·吉布列 "wikilink")。然而地球軍[理法派部隊無預警的奇襲](https://zh.wikipedia.org/wiki/理法 "wikilink")，並一口氣出動五機[破滅鋼彈令同盟軍前鋒艦隊損失慘重](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")。[真·飛鳥搭乘本機出擊](../Page/真·飛鳥.md "wikilink")，發揮強大的速度與攻擊力擊墜數機[威達](https://zh.wikipedia.org/wiki/GAT-04_Windam "wikilink")。接著單獨擊破兩機[破滅鋼彈](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")，並偕[傳說鋼彈與](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")[脈衝鋼彈攜手攻擊打倒一機](../Page/ZGMF-X56S_Impulse.md "wikilink")，最終攻破了天堂基地，同盟軍勝利。\[5\]
   - Operation
-    Fury：[歐普因隱匿戰犯](../Page/歐普.md "wikilink")[洛德·吉布列而遭到反](../Page/洛德·吉布列.md "wikilink")[理法同盟軍舉兵攻擊](../Page/理法.md "wikilink")，[歐普國防軍在](../Page/歐普.md "wikilink")[卡嘉里·尤拉·阿斯哈駕駛](../Page/卡嘉里·尤拉·阿斯哈.md "wikilink")[曉歸來後的率領下頑強抵抗](../Page/ORB-01_Akatsuki.md "wikilink")。亟欲打垮[歐普的](../Page/歐普.md "wikilink")[真·飛鳥駕駛本機出擊](../Page/真·飛鳥.md "wikilink")，迅速擊破數機[村雨並完全壓制](../Page/MVF-M11C_Murasame.md "wikilink")[曉](../Page/ORB-01_Akatsuki.md "wikilink")，然而最後一擊卻被突然空降下來的[攻擊自由鋼彈阻撓](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，本機與之激鬥。隨著戰事陷入膠著，[智慧女神號推進前線參戰](../Page/智慧女神號.md "wikilink")，命[雷·札·巴雷爾駕駛](../Page/雷·札·巴雷爾.md "wikilink")[傳說鋼彈出擊支援本機](../Page/ZGMF-X666S_Legend.md "wikilink")。然而本機疑似因動力機關Hyper
-    Duetrion發生某種錯誤，無法充電導致殘餘能量低下，一度撤退歸艦。本機補給完成後回到戰場與[傳說鋼彈一同圍攻](../Page/ZGMF-X666S_Legend.md "wikilink")[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，正當本機將要擊墜[攻擊自由鋼彈時](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，突遭[阿斯蘭·薩拉駕駛的](../Page/阿斯蘭·薩拉.md "wikilink")[無限正義鋼彈介入](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")。曾被自己殺死的對象卻接連現身，真驚愕不已，又被阿斯蘭的勸誘所動搖，本機右手腕遭到[無限正義鋼彈切斷](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")。最終由於[洛德·吉布列成功逃往](../Page/洛德·吉布列.md "wikilink")[宇宙](../Page/宇宙.md "wikilink")，失去了大義名分的同盟軍撤退。\[6\]
-  - 第達羅斯、[安魂曲攻防戰](../Page/安魂曲.md "wikilink")：為了阻止[洛德·吉布列再度朝](../Page/洛德·吉布列.md "wikilink")[P.L.A.N.T.本國發射](../Page/P.L.A.N.T..md "wikilink")「[安魂曲](../Page/安魂曲.md "wikilink")」，試圖壓制「[安魂曲](../Page/安魂曲.md "wikilink")」第一中繼點「佛瑞」的[Z.A.F.T.](../Page/Z.A.F.T..md "wikilink")，以超大型航母岡瓦納號為主力的月軌道艦隊出擊。乘著駐守第達羅斯基地的地球軍第三機動艦隊前往防衛「佛瑞」時，[智慧女神號對第達羅斯基地發動奇襲](../Page/智慧女神號.md "wikilink")。[真·飛鳥駕駛本機再次展現其壓倒性戰鬥能力](../Page/真·飛鳥.md "wikilink")，擊墜眾多[威達與](../Page/GAT-04_Windam.md "wikilink")[破滅鋼彈](../Page/GFAS-X1_Destroy.md "wikilink")，並支援[轟擊型脈衝鋼彈潛入基地內部破壞](../Page/ZGMF-X56S_Impulse#ZGMF-X56S/γ_BLAST_IMPULSE.md "wikilink")[鎮魂曲的控制中心](../Page/鎮魂曲.md "wikilink")。而本機亦同樣突擊基地指揮部，並摧毀了在港口待命中的艦隊。最終[洛德·吉布列準備搭乘戰艦再度脫逃時](../Page/洛德·吉布列.md "wikilink")，被[傳說鋼彈成功攔截](../Page/ZGMF-X666S_Legend.md "wikilink")，[理法覆滅](../Page/理法.md "wikilink")。
-  - [彌賽亞攻防戰](../Page/彌賽亞.md "wikilink")：[Z.A.F.T.先坐視](../Page/Z.A.F.T..md "wikilink")[歐普軍破壞](../Page/歐普.md "wikilink")「[鎮魂曲](../Page/鎮魂曲.md "wikilink")」第一中繼站「佛瑞」，任其向第達洛斯基地進發後，再由以[智慧女神號為首的艦隊從後方突襲以期一口氣消滅](../Page/智慧女神號.md "wikilink")[歐普軍](../Page/歐普.md "wikilink")。本機同[傳說鋼彈再度和](../Page/ZGMF-X666S_Legend.md "wikilink")[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")、[無限正義鋼彈交鋒](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")，難分勝負。隨後本機追擊欲前往第達羅斯基地破壞「[安魂曲](../Page/安魂曲.md "wikilink")」的[無限正義鋼彈](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")，救援了遭其壓制的[脈衝鋼彈](../Page/ZGMF-X56S_Impulse.md "wikilink")。在對[無限正義鋼彈的戰鬥中](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")，精神狀態已不穩定的[真·飛鳥被](../Page/真·飛鳥.md "wikilink")[阿斯蘭·薩拉的言語所動搖而焦躁不已](../Page/阿斯蘭·薩拉.md "wikilink")，逐漸落居劣勢，對艦刀遭破壞。面對阿斯蘭的質問，真的腦中不斷浮現家人和史黛拉之死、對阿斯蘭與歐普的矛盾想法、對[自由鋼彈的憎恨而陷入混亂](../Page/ZGMF-X10A_Freedom.md "wikilink")，以「掌中槍」發動特攻，[露娜瑪麗亞·霍克的](../Page/露娜瑪麗亞·霍克.md "wikilink")[脈衝鋼彈卻意外地闖入阻擋](../Page/ZGMF-X56S_Impulse.md "wikilink")。這一瞬間，真竟看見了妹妹[真由‧飛鳥和](../Page/真由‧飛鳥.md "wikilink")[史黛拉‧路歇的幻影](../Page/史黛拉‧路歇.md "wikilink")，以及[自由鋼彈的幻影與](../Page/ZGMF-X10A_Freedom.md "wikilink")[脈衝鋼彈錯亂重疊](../Page/ZGMF-X56S_Impulse.md "wikilink")。彷彿是想要從自由鋼彈手中救下妹妹與史黛拉般，真徹底崩潰地嘶吼著「住手——！」持續將掌中槍伸向脈衝鋼彈。情急之中阿斯蘭的[無限正義鋼彈從旁出手](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")，本機未閃避而是以「掌中槍」正面接住了二刀流，卻以手指握住光束刃引發爆炸失去雙手；接著又胡亂踢出右腳迎擊對手的「斬蹴」而遭到切斷，機身損傷嚴重墜落在[月球表面上](../Page/月球.md "wikilink")。最終機動要塞‧[彌賽亞和第達羅斯基地的](../Page/彌賽亞.md "wikilink")[安魂曲均遭到](../Page/安魂曲.md "wikilink")[歐普軍摧毀](../Page/歐普.md "wikilink")，[Z.A.F.T.敗北](../Page/Z.A.F.T..md "wikilink")。
+    Fury：[歐普因隱匿戰犯](https://zh.wikipedia.org/wiki/歐普 "wikilink")[洛德·吉布列而遭到反](https://zh.wikipedia.org/wiki/洛德·吉布列 "wikilink")[理法同盟軍舉兵攻擊](https://zh.wikipedia.org/wiki/理法 "wikilink")，[歐普國防軍在](https://zh.wikipedia.org/wiki/歐普 "wikilink")[卡嘉里·尤拉·阿斯哈駕駛](https://zh.wikipedia.org/wiki/卡嘉里·尤拉·阿斯哈 "wikilink")[曉歸來後的率領下頑強抵抗](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")。亟欲打垮[歐普的](https://zh.wikipedia.org/wiki/歐普 "wikilink")[真·飛鳥駕駛本機出擊](../Page/真·飛鳥.md "wikilink")，迅速擊破數機[村雨並完全壓制](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink")[曉](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")，然而最後一擊卻被突然空降下來的[攻擊自由鋼彈阻撓](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，本機與之激鬥。隨著戰事陷入膠著，[智慧女神號推進前線參戰](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")，命[雷·札·巴雷爾駕駛](https://zh.wikipedia.org/wiki/雷·札·巴雷爾 "wikilink")[傳說鋼彈出擊支援本機](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")。然而本機疑似因動力機關Hyper
+    Duetrion發生某種錯誤，無法充電導致殘餘能量低下，一度撤退歸艦。本機補給完成後回到戰場與[傳說鋼彈一同圍攻](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，正當本機將要擊墜[攻擊自由鋼彈時](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")，突遭[阿斯蘭·薩拉駕駛的](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")[無限正義鋼彈介入](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")。曾被自己殺死的對象卻接連現身，真驚愕不已，又被阿斯蘭的勸誘所動搖，本機右手腕遭到[無限正義鋼彈切斷](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")。最終由於[洛德·吉布列成功逃往](https://zh.wikipedia.org/wiki/洛德·吉布列 "wikilink")[宇宙](../Page/宇宙.md "wikilink")，失去了大義名分的同盟軍撤退。\[6\]
+  - 第達羅斯、[安魂曲攻防戰](https://zh.wikipedia.org/wiki/安魂曲 "wikilink")：為了阻止[洛德·吉布列再度朝](https://zh.wikipedia.org/wiki/洛德·吉布列 "wikilink")[P.L.A.N.T.本國發射](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")「[安魂曲](https://zh.wikipedia.org/wiki/安魂曲 "wikilink")」，試圖壓制「[安魂曲](https://zh.wikipedia.org/wiki/安魂曲 "wikilink")」第一中繼點「佛瑞」的[Z.A.F.T.](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")，以超大型航母岡瓦納號為主力的月軌道艦隊出擊。乘著駐守第達羅斯基地的地球軍第三機動艦隊前往防衛「佛瑞」時，[智慧女神號對第達羅斯基地發動奇襲](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")。[真·飛鳥駕駛本機再次展現其壓倒性戰鬥能力](../Page/真·飛鳥.md "wikilink")，擊墜眾多[威達與](https://zh.wikipedia.org/wiki/GAT-04_Windam "wikilink")[破滅鋼彈](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")，並支援[轟擊型脈衝鋼彈潛入基地內部破壞](https://zh.wikipedia.org/wiki/ZGMF-X56S_Impulse#ZGMF-X56S/γ_BLAST_IMPULSE "wikilink")[鎮魂曲的控制中心](https://zh.wikipedia.org/wiki/鎮魂曲 "wikilink")。而本機亦同樣突擊基地指揮部，並摧毀了在港口待命中的艦隊。最終[洛德·吉布列準備搭乘戰艦再度脫逃時](https://zh.wikipedia.org/wiki/洛德·吉布列 "wikilink")，被[傳說鋼彈成功攔截](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")，[理法覆滅](https://zh.wikipedia.org/wiki/理法 "wikilink")。
+  - [彌賽亞攻防戰](../Page/彌賽亞.md "wikilink")：[Z.A.F.T.先坐視](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[歐普軍破壞](https://zh.wikipedia.org/wiki/歐普 "wikilink")「[鎮魂曲](https://zh.wikipedia.org/wiki/鎮魂曲 "wikilink")」第一中繼站「佛瑞」，任其向第達洛斯基地進發後，再由以[智慧女神號為首的艦隊從後方突襲以期一口氣消滅](https://zh.wikipedia.org/wiki/智慧女神號 "wikilink")[歐普軍](https://zh.wikipedia.org/wiki/歐普 "wikilink")。本機同[傳說鋼彈再度和](https://zh.wikipedia.org/wiki/ZGMF-X666S_Legend "wikilink")[攻擊自由鋼彈](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")、[無限正義鋼彈交鋒](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")，難分勝負。隨後本機追擊欲前往第達羅斯基地破壞「[安魂曲](https://zh.wikipedia.org/wiki/安魂曲 "wikilink")」的[無限正義鋼彈](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")，救援了遭其壓制的[脈衝鋼彈](../Page/ZGMF-X56S_Impulse.md "wikilink")。在對[無限正義鋼彈的戰鬥中](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")，精神狀態已不穩定的[真·飛鳥被](../Page/真·飛鳥.md "wikilink")[阿斯蘭·薩拉的言語所動搖而焦躁不已](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")，逐漸落居劣勢，對艦刀遭破壞。面對阿斯蘭的質問，真的腦中不斷浮現家人和史黛拉之死、對阿斯蘭與歐普的矛盾想法、對[自由鋼彈的憎恨而陷入混亂](../Page/ZGMF-X10A_Freedom.md "wikilink")，以「掌中槍」發動特攻，[露娜瑪麗亞·霍克的](https://zh.wikipedia.org/wiki/露娜瑪麗亞·霍克 "wikilink")[脈衝鋼彈卻意外地闖入阻擋](../Page/ZGMF-X56S_Impulse.md "wikilink")。這一瞬間，真竟看見了妹妹[真由‧飛鳥和](https://zh.wikipedia.org/wiki/真由‧飛鳥 "wikilink")[史黛拉‧路歇的幻影](https://zh.wikipedia.org/wiki/史黛拉‧路歇 "wikilink")，以及[自由鋼彈的幻影與](../Page/ZGMF-X10A_Freedom.md "wikilink")[脈衝鋼彈錯亂重疊](../Page/ZGMF-X56S_Impulse.md "wikilink")。彷彿是想要從自由鋼彈手中救下妹妹與史黛拉般，真徹底崩潰地嘶吼著「住手——！」持續將掌中槍伸向脈衝鋼彈。情急之中阿斯蘭的[無限正義鋼彈從旁出手](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")，本機未閃避而是以「掌中槍」正面接住了二刀流，卻以手指握住光束刃引發爆炸失去雙手；接著又胡亂踢出右腳迎擊對手的「斬蹴」而遭到切斷，機身損傷嚴重墜落在[月球表面上](../Page/月球.md "wikilink")。最終機動要塞‧[彌賽亞和第達羅斯基地的](../Page/彌賽亞.md "wikilink")[安魂曲均遭到](https://zh.wikipedia.org/wiki/安魂曲 "wikilink")[歐普軍摧毀](https://zh.wikipedia.org/wiki/歐普 "wikilink")，[Z.A.F.T.敗北](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")。
 
 ## 爭議
 
-在原作中以主角新機體的登場順序來說命運鋼彈是第一機，日本官方網站也是率先釋出這台眾所期待的「主角機」，結果卻引來許多資深鋼彈迷的批評。首先就是命運鋼彈的「光之翼」被指控剽竊U.C.系列的V2鋼彈，「掌中槍」亦被批評抄襲G鋼彈的「閃光掌」。還有背部的「高能量長射程光束砲」，其掛載形式與發砲動作被人認為模仿F91鋼彈的[VSBR砲](../Page/米諾夫斯基粒子#VSBR.md "wikilink")（儘管C.E.系列不少機體如轟擊型脈衝鋼彈、[救星鋼彈和](../Page/ZGMF-X23S_Saviour.md "wikilink")[曉均有類似武裝](../Page/ORB-01_Akatsuki.md "wikilink")）。除了對艦刀與光束迴旋鏢較有SEED風格之外，其餘部分均被認為是抄襲了U.C.系列歷代鋼彈的最強武裝，因此命運鋼彈又被部分台灣人士稱為「福田監督偉大的抄襲之作」，甚至還被冠上「最強合成獸」的稱號。
+在原作中以主角新機體的登場順序來說命運鋼彈是第一機，日本官方網站也是率先釋出這台眾所期待的「主角機」，結果卻引來許多資深鋼彈迷的批評。首先就是命運鋼彈的「光之翼」被指控剽竊U.C.系列的V2鋼彈，「掌中槍」亦被批評抄襲G鋼彈的「閃光掌」。還有背部的「高能量長射程光束砲」，其掛載形式與發砲動作被人認為模仿F91鋼彈的[VSBR砲](https://zh.wikipedia.org/wiki/米諾夫斯基粒子#VSBR "wikilink")（儘管C.E.系列不少機體如轟擊型脈衝鋼彈、[救星鋼彈和](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour "wikilink")[曉均有類似武裝](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")）。除了對艦刀與光束迴旋鏢較有SEED風格之外，其餘部分均被認為是抄襲了U.C.系列歷代鋼彈的最強武裝，因此命運鋼彈又被部分台灣人士稱為「福田監督偉大的抄襲之作」，甚至還被冠上「最強合成獸」的稱號。
 
 不過亦有人認為，若不借鑒U.C.系列和其他舊作的傳統，那麼C.E.又如何與當初發展繼U.C.之後「21世紀的新鋼彈系列」的原旨相符？沒有致敬、没有浮游兵器、没有特殊装甲…完全的原創是否能稱得上GUNDAM？如果武裝搭載形式相同便是抄袭，那么過去各作品中登場的假面男呢？鋼彈頭上的V字天線呢？後來的[OO為何又出現類似的物件或設定](../Page/機動戰士GUNDAM_00.md "wikilink")？甚至也有多重鎖定？[OO劇場版更創下鋼彈史上最絢麗的光束發射](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")，顯然官方认同这些都是GUNDAM的特色。
 
-最令人詬病的，原作副標題為Destiny（命運），傳統上各鋼彈作品的副標題通常也是該作品主角的新機體名稱。然而第25回起更換第三個OP主題歌的標題畫面中，代表機體不是命運鋼彈卻是攻擊自由鋼彈，第四個OP依舊如此，觀眾為之驚愕。同時故事中盤後，愈來愈多醜化[真·飛鳥的不自然描寫](../Page/真·飛鳥.md "wikilink")，質疑聲四起：福田監督是否欲更換主角？不幸的是，此一預料幾乎成真，令原作的評價極為負面。福田監督日後辯稱，[煌·大和](../Page/煌·大和.md "wikilink")、[阿斯蘭·薩拉與](../Page/阿斯蘭·薩拉.md "wikilink")[真·飛鳥三人都是主角](../Page/真·飛鳥.md "wikilink")，自一開始就打算以三主軸展開，因此沒有「主役交代（主角交替）」的問題。
+最令人詬病的，原作副標題為Destiny（命運），傳統上各鋼彈作品的副標題通常也是該作品主角的新機體名稱。然而第25回起更換第三個OP主題歌的標題畫面中，代表機體不是命運鋼彈卻是攻擊自由鋼彈，第四個OP依舊如此，觀眾為之驚愕。同時故事中盤後，愈來愈多醜化[真·飛鳥的不自然描寫](../Page/真·飛鳥.md "wikilink")，質疑聲四起：福田監督是否欲更換主角？不幸的是，此一預料幾乎成真，令原作的評價極為負面。福田監督日後辯稱，[煌·大和](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")、[阿斯蘭·薩拉與](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")[真·飛鳥三人都是主角](../Page/真·飛鳥.md "wikilink")，自一開始就打算以三主軸展開，因此沒有「主役交代（主角交替）」的問題。
 
 另外，原作中的命運鋼彈有多起與設定相矛盾的演出。例如第42集，命運鋼彈在與攻擊自由鋼彈對戰期間因電力低下（Power
 Down）而不得不暫時返艦補給，然而搭載Hyper
@@ -141,30 +143,30 @@ Duetrion提升了威力。而命運鋼彈的高能量長射程光束砲是特別
 日本「Hobby Japan MOOK 機動戰士鋼彈 SEED
 DESTINY模型Vol.1」曾指出，命運鋼彈的敗北並非性能上的差異，而是包含了駕駛員能力及戰鬥時精神狀態所造成的結果，即便迎來完全相反的結局也不奇怪。根據日本「週刊鋼彈‧Fact
 File」新鋼彈用語辭典的「命運鋼彈」項目的描述，本機為C.E. 紀元最強MS；但在新版的GUNDAM Perfect
-File則改為與傳說鋼彈、攻擊自由鋼彈及無限正義鋼彈並列最強四大MS，且追加了[阿斯蘭·薩拉轉向歐普後](../Page/阿斯蘭·薩拉.md "wikilink")，發揮出本來實力的十二分（120%）的設定，算是間接為[真·飛鳥的實力平反](../Page/真·飛鳥.md "wikilink")。\[8\]
+File則改為與傳說鋼彈、攻擊自由鋼彈及無限正義鋼彈並列最強四大MS，且追加了[阿斯蘭·薩拉轉向歐普後](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")，發揮出本來實力的十二分（120%）的設定，算是間接為[真·飛鳥的實力平反](../Page/真·飛鳥.md "wikilink")。\[8\]
 
 ## 衍生機
 
 ### ZGMF-X42S-REVOLUTION Destiny Gundam Heine Westenfluss Custom（海涅專用命運鋼彈）
 
 本機是慶祝鋼普拉30周年暨與T.M.Revolution合作的專輯「X42S-REVOLUTION 初回生産限定盤 Type
-A」發售，配合此專輯推出的新模型。據T.M.Revolution的[西川貴教表示](../Page/西川貴教.md "wikilink")，此專輯原本預定是要配合「劇場版
+A」發售，配合此專輯推出的新模型。據T.M.Revolution的[西川貴教表示](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，此專輯原本預定是要配合「劇場版
 [機動戰士鋼彈
-SEED](../Page/機動戰士鋼彈_SEED.md "wikilink")（暫稱）」發表的。然而隨著該電影始終無聲無息，專輯便成為了紀念鋼普拉30周年的企劃之一，其收錄的新曲《Imaginary
+SEED](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED "wikilink")（暫稱）」發表的。然而隨著該電影始終無聲無息，專輯便成為了紀念鋼普拉30周年的企劃之一，其收錄的新曲《Imaginary
 Ark》則作為活動的官方主題曲。
 
 ### 開發經過
 
-[C.E.](../Page/C.E..md "wikilink")
-74年，在與[地球聯合的戰爭末期](../Page/地球聯合.md "wikilink")，[Z.A.F.T.投入的最強](../Page/Z.A.F.T..md "wikilink")[MS命運鋼彈](../Page/MS.md "wikilink")，長久以來被認為僅有[真‧飛鳥搭乘的那一機而已](../Page/真‧飛鳥.md "wikilink")。然而，近年公開的資料揭露了其他同型机存在的可能。
+[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")
+74年，在與[地球聯合的戰爭末期](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")，[Z.A.F.T.投入的最強](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[MS命運鋼彈](https://zh.wikipedia.org/wiki/MS "wikilink")，長久以來被認為僅有[真‧飛鳥搭乘的那一機而已](https://zh.wikipedia.org/wiki/真‧飛鳥 "wikilink")。然而，近年公開的資料揭露了其他同型机存在的可能。
 
-面對規模、物量佔絕對優勢的[地球聯合](../Page/地球聯合.md "wikilink")，[P.L.A.N.T.不能重蹈前大戰陷入持久戰泥淖的覆轍](../Page/P.L.A.N.T..md "wikilink")。[Z.A.F.T.企望結合最強](../Page/Z.A.F.T..md "wikilink")[MS與駕駛員的部隊](../Page/MS.md "wikilink")，能夠一舉擊潰[地球聯合的戰力](../Page/地球聯合.md "wikilink")，迅速使其喪失戰意。於是產生了從各地战线集合战绩优秀的王牌駕駛員，建成有效運用以命运鋼彈为主力MS的特殊部隊「**Concluders**」的構想。
+面對規模、物量佔絕對優勢的[地球聯合](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")，[P.L.A.N.T.不能重蹈前大戰陷入持久戰泥淖的覆轍](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")。[Z.A.F.T.企望結合最強](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[MS與駕駛員的部隊](https://zh.wikipedia.org/wiki/MS "wikilink")，能夠一舉擊潰[地球聯合的戰力](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")，迅速使其喪失戰意。於是產生了從各地战线集合战绩优秀的王牌駕駛員，建成有效運用以命运鋼彈为主力MS的特殊部隊「**Concluders**」的構想。
 
-[海涅·威斯坦弗斯被选为其中一员](../Page/海涅·威斯坦弗斯.md "wikilink")，而且是預定的隊長，为其专用調整的命運鋼彈亦展開了製造。然而海涅在機體完成之前便戰死，計畫被擱置，部隊亦未編成。後來[真‧飛鳥崛起成為新的命運鋼彈駕駛員](../Page/真‧飛鳥.md "wikilink")，由於他一人就創下了當初欲成立**Concluders**所期望的戰果，且經實戰運用後暴露出命運鋼彈的機體构造較一般[MS複雜数倍](../Page/MS.md "wikilink")，在生产性和整備性方面有著很大的问题，故**Concluders**的成立不再被提及。
+[海涅·威斯坦弗斯被选为其中一员](https://zh.wikipedia.org/wiki/海涅·威斯坦弗斯 "wikilink")，而且是預定的隊長，为其专用調整的命運鋼彈亦展開了製造。然而海涅在機體完成之前便戰死，計畫被擱置，部隊亦未編成。後來[真‧飛鳥崛起成為新的命運鋼彈駕駛員](https://zh.wikipedia.org/wiki/真‧飛鳥 "wikilink")，由於他一人就創下了當初欲成立**Concluders**所期望的戰果，且經實戰運用後暴露出命運鋼彈的機體构造較一般[MS複雜数倍](https://zh.wikipedia.org/wiki/MS "wikilink")，在生产性和整備性方面有著很大的问题，故**Concluders**的成立不再被提及。
 
-本機型號ZGMF-X42S-REVOLUTION不同於[真‧飛鳥機的ZGMF](../Page/真‧飛鳥.md "wikilink")-X42S，因此兩者應非同一機。但關於本機和[真·飛鳥機的差異](../Page/真·飛鳥.md "wikilink")，除了將[真·飛鳥機的機體藍色部位改為橙色](../Page/真·飛鳥.md "wikilink")，以及光束兵器的光束顏色改為黃色之外，其他相異處官方未有說明。此外，[機動戰士鋼彈
+本機型號ZGMF-X42S-REVOLUTION不同於[真‧飛鳥機的ZGMF](https://zh.wikipedia.org/wiki/真‧飛鳥 "wikilink")-X42S，因此兩者應非同一機。但關於本機和[真·飛鳥機的差異](../Page/真·飛鳥.md "wikilink")，除了將[真·飛鳥機的機體藍色部位改為橙色](../Page/真·飛鳥.md "wikilink")，以及光束兵器的光束顏色改為黃色之外，其他相異處官方未有說明。此外，[機動戰士鋼彈
 SEED
-MSV開發系譜圖上並無本機的存在](../Page/機動戰士鋼彈_SEED_MSV.md "wikilink")，包括「本機是否製造完成」、「其他同型機是否存在」等疑問均不明。
+MSV開發系譜圖上並無本機的存在](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED_MSV "wikilink")，包括「本機是否製造完成」、「其他同型機是否存在」等疑問均不明。
 
 ## 參考資料
 

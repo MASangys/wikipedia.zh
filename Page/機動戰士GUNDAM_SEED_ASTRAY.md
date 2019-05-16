@@ -1,12 +1,12 @@
 **機動戰士GUNDAM SEED ASTRAY**
-是[Sunrise製作的動畫](../Page/Sunrise.md "wikilink")[機動戰士GUNDAM
+是[Sunrise製作的動畫](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[機動戰士GUNDAM
 SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「ASTRAY」意思是異常、異端、偏離正道。
 
-本系列採用多位漫畫家於不同的雜誌連載漫畫，而劇本則由[千葉智宏負責](../Page/千葉智宏.md "wikilink")。各個故事有著微妙的關聯、補完正篇沒有解釋的劇情，使故事更加完整。
+本系列採用多位漫畫家於不同的雜誌連載漫畫，而劇本則由[千葉智宏負責](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")。各個故事有著微妙的關聯、補完正篇沒有解釋的劇情，使故事更加完整。
 
 ## 機動戰士GUNDAM SEED ASTRAY 系列
 
-內容分別講述兩位主角羅·裘爾及叢雲劾於[C.E.](../Page/C.E..md "wikilink")70至71的經歷。
+內容分別講述兩位主角羅·裘爾及叢雲劾於[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70至71的經歷。
 
   - **機動戰士GUNDAM SEED ASTRAY**（漫畫）[鴇田洸一](../Page/時田洸一.md "wikilink")
 
@@ -14,11 +14,12 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 
   -
     於[Gundam
-    Ace連載](../Page/Gundam_Ace.md "wikilink")，主角為羅·裘爾。內容講述他取得異端GUNDAM紅色機的經過和其後的經歷，補完正篇劇情。例如是羅·裘爾救了被[神盾鋼彈](../Page/GAT-X303_Aegis.md "wikilink")[自爆受傷的煌](../Page/自爆.md "wikilink")。而叢雲劾亦以配角登場。單行本全3冊。
+    Ace連載](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")，主角為羅·裘爾。內容講述他取得異端GUNDAM紅色機的經過和其後的經歷，補完正篇劇情。例如是羅·裘爾救了被[神盾鋼彈](https://zh.wikipedia.org/wiki/GAT-X303_Aegis "wikilink")[自爆受傷的煌](../Page/自爆.md "wikilink")。而叢雲劾亦以配角登場。單行本全3冊。
 
 <!-- end list -->
 
-  - **機動戰士GUNDAM SEED ASTRAY**（小說）[千葉智宏](../Page/千葉智宏.md "wikilink")
+  - **機動戰士GUNDAM SEED
+    ASTRAY**（小說）[千葉智宏](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")
 
 <!-- end list -->
 
@@ -32,18 +33,19 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 <!-- end list -->
 
   -
-    於[少年 Ace連載](../Page/少年_Ace.md "wikilink")，主角為羅·裘爾。單行本全4冊。
+    於[少年
+    Ace連載](https://zh.wikipedia.org/wiki/少年_Ace "wikilink")，主角為羅·裘爾。單行本全4冊。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM SEED ASTRAY
-    B**（情景模型小說）[千葉智宏](../Page/千葉智宏.md "wikilink")
+    B**（情景模型小說）[千葉智宏](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")
 
 <!-- end list -->
 
   -
     於[電擊HOBBY
-    MAGAZINE連載](../Page/電擊HOBBY_MAGAZINE.md "wikilink")，主角為叢雲劾。單行本全1冊。
+    MAGAZINE連載](https://zh.wikipedia.org/wiki/電擊HOBBY_MAGAZINE "wikilink")，主角為叢雲劾。單行本全1冊。
 
 <!-- end list -->
 
@@ -68,7 +70,7 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 <!-- end list -->
 
   -
-    最初在奧布殖民衛星中執行回收作業時，與傭兵隊「蛇尾」隊長叢雲劾，同時發現[曙光社製作的Astray紅色機及藍色機](../Page/曙光社.md "wikilink")，以及金色機遺下的右臂。此後兩人決定每人分得一部機體（藍色機是叢雲劾為了救援夥伴而從裘尔手中借走，後得贈此機），而紅色機亦成為「羅」的專用MS。
+    最初在奧布殖民衛星中執行回收作業時，與傭兵隊「蛇尾」隊長叢雲劾，同時發現[曙光社製作的Astray紅色機及藍色機](https://zh.wikipedia.org/wiki/曙光社 "wikilink")，以及金色機遺下的右臂。此後兩人決定每人分得一部機體（藍色機是叢雲劾為了救援夥伴而從裘尔手中借走，後得贈此機），而紅色機亦成為「羅」的專用MS。
 
 <!-- end list -->
 
@@ -108,7 +110,7 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 
 <!-- end list -->
 
-  - 伊萊傑·基爾（CV：[鳥海勝美](../Page/鳥海勝美.md "wikilink")）
+  - 伊萊傑·基爾（CV：[鳥海勝美](https://zh.wikipedia.org/wiki/鳥海勝美 "wikilink")）
 
 <!-- end list -->
 
@@ -126,7 +128,7 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 
 <!-- end list -->
 
-  - 李德·威勒（CV：[宇垣秀成](../Page/宇垣秀成.md "wikilink")）
+  - 李德·威勒（CV：[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")）
 
 <!-- end list -->
 
@@ -161,12 +163,12 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
   -
     歐普五大家族之一薩哈克家族的當家。與阿斯哈一族平起平坐，其養父是GAT計劃和ASTRAY計劃的倡導者，和養父不同的是他反對阿斯哈代表的中立主義；在歐普被地球軍侵略後，和地球連合簽訂密約後靠自己的力量去重建歐普。
     其實是雙胞胎，而且兩姐弟也是協調者，也是作為蜜娜（姐）的替身。
-    擁有出雲級一號艦出雲號（二號艦是草薙號）和[金色機](../Page/異端鋼彈#金色機.md "wikilink")，將人民視為奴隸看待，並十分鄙視主角「羅」的存在（即是絆腳石），視他為卑賤的人。
-    駕駛金色機天與「羅」的[異端鋼彈紅色機激戰](../Page/異端鋼彈#紅色機.md "wikilink")，雖然折斷其菊一文字，但是紅色機改用從趕來營救的藍色機二型L給予的戰術複合武裝所變成的巨劍切斷機體右臂後，再被藍色機的破甲者直插駕駛艙而死。
+    擁有出雲級一號艦出雲號（二號艦是草薙號）和[金色機](https://zh.wikipedia.org/wiki/異端鋼彈#金色機 "wikilink")，將人民視為奴隸看待，並十分鄙視主角「羅」的存在（即是絆腳石），視他為卑賤的人。
+    駕駛金色機天與「羅」的[異端鋼彈紅色機激戰](https://zh.wikipedia.org/wiki/異端鋼彈#紅色機 "wikilink")，雖然折斷其菊一文字，但是紅色機改用從趕來營救的藍色機二型L給予的戰術複合武裝所變成的巨劍切斷機體右臂後，再被藍色機的破甲者直插駕駛艙而死。
 
 <!-- end list -->
 
-  - 索希斯（CV：[斎賀みつき](../Page/斎賀みつき.md "wikilink")）
+  - 索希斯（CV：[斎賀みつき](https://zh.wikipedia.org/wiki/斎賀みつき "wikilink")）
 
 #### 地球聯合軍
 
@@ -179,7 +181,7 @@ SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「A
 ## 機動戰士GUNDAM SEED X ASTRAY
 
 **機動戰士GUNDAM SEED X ASTRAY**是連載於月刊[Gundam
-Ace的漫畫作品](../Page/Gundam_Ace.md "wikilink")，由[鴇田洸一負責](../Page/時田洸一.md "wikilink")。本作是機動戰士GUNDAM
+Ace的漫畫作品](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")，由[鴇田洸一負責](../Page/時田洸一.md "wikilink")。本作是機動戰士GUNDAM
 SEED ASTRAY的續編，故事發生於動畫[機動戰士GUNDAM
 SEED第](../Page/機動戰士GUNDAM_SEED.md "wikilink")47話與第48話之間空白的2個月。主要講述這個故事新登場的普雷亞·雷菲力與卡納得·帕爾斯的對決，而前作的羅·裘爾及叢雲
 劾亦以配角登場。單行本全2冊。
@@ -204,12 +206,13 @@ OUTFRAME）。以追求與傳達真實為目的的傑斯，駕著非規格機奔
 <!-- end list -->
 
   -
-    於[Gundam Ace連載](../Page/Gundam_Ace.md "wikilink")。單行本全4冊。
+    於[Gundam
+    Ace連載](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")。單行本全4冊。
 
 <!-- end list -->
 
   - **機動戰士GUNDAM SEED DESTINY
-    ASTRAY**（小說）[千葉智宏](../Page/千葉智宏.md "wikilink")
+    ASTRAY**（小說）[千葉智宏](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")
 
 <!-- end list -->
 
@@ -219,13 +222,13 @@ OUTFRAME）。以追求與傳達真實為目的的傑斯，駕著非規格機奔
 <!-- end list -->
 
   - **機動戰士GUNDAM SEED DESTINY
-    ASTRAY**（情景模型小說）[千葉智宏](../Page/千葉智宏.md "wikilink")
+    ASTRAY**（情景模型小說）[千葉智宏](https://zh.wikipedia.org/wiki/千葉智宏 "wikilink")
 
 <!-- end list -->
 
   -
     於[電擊HOBBY
-    MAGAZINE連載](../Page/電擊HOBBY_MAGAZINE.md "wikilink")。單行本全2冊。
+    MAGAZINE連載](https://zh.wikipedia.org/wiki/電擊HOBBY_MAGAZINE "wikilink")。單行本全2冊。
       - 機動戰士GUNDAM SEED DESTINY ASTRAY 上 -追求真實的人-
       - 機動戰士GUNDAM SEED DESTINY ASTRAY 下 -找尋羈絆的人-
 
@@ -235,7 +238,7 @@ OUTFRAME）。以追求與傳達真實為目的的傑斯，駕著非規格機奔
 
   - 傑斯·-{里}-布爾（CV：[上田祐司](../Page/上田祐司.md "wikilink")）
 
-駕駛MS的記者，異端鋼彈非規格機（[ZGMF-X12](../Page/ZGMF-X12A_Testament.md "wikilink")）的駕駛
+駕駛MS的記者，異端鋼彈非規格機（[ZGMF-X12](https://zh.wikipedia.org/wiki/ZGMF-X12A_Testament "wikilink")）的駕駛
 
   - 貝爾娜黛特·勒胡
 
@@ -270,7 +273,7 @@ OUTFRAME）。以追求與傳達真實為目的的傑斯，駕著非規格機奔
 <!-- end list -->
 
   -
-    [歐普曙光社製作的公事包型量子電腦](../Page/歐普.md "wikilink")，由尹世煥所製作。擁有獨立人格。由於8不肯跟隨「羅」前往火星，於是「羅」將8交託予傑斯。
+    [歐普曙光社製作的公事包型量子電腦](https://zh.wikipedia.org/wiki/歐普 "wikilink")，由尹世煥所製作。擁有獨立人格。由於8不肯跟隨「羅」前往火星，於是「羅」將8交託予傑斯。
 
 <!-- end list -->
 
@@ -311,8 +314,8 @@ Astray（勇士鋼彈的完成型態）使用龍騎兵系統的特殊招數擊�
 <!-- end list -->
 
   -
-    一個失敗的超級新人類，在遭受破棄前由響博士（基拉的父親）的一個助手帶走，被地球連合捕獲，進行了大量的實驗。後來成為[歐亞聯盟的亥伯龍高達的駕駛員](../Page/歐亞聯盟.md "wikilink")，性格是“一匹狼”。為了想擊倒基拉·大和成為“完全體”，不斷追尋他。與基拉相反，他既擁有冷靜的一面，也擁有瘋狂的一面。
-    在搶奪[中子干擾調解器的任務中](../Page/中子干擾調解器.md "wikilink")，他駕駛的亥伯龍被勇士高達的龍騎兵系統所打敗後，以駕駛該機的普雷亞作為挑戰目標。為了再與勇士高達戰鬥，他甚至帶領特務部隊X叛逃後搶奪了[大西洋聯邦的中子干擾調解器來強化自己的亥伯龍](../Page/大西洋聯邦.md "wikilink")。在最終決戰中被X
+    一個失敗的超級新人類，在遭受破棄前由響博士（基拉的父親）的一個助手帶走，被地球連合捕獲，進行了大量的實驗。後來成為[歐亞聯盟的亥伯龍高達的駕駛員](https://zh.wikipedia.org/wiki/歐亞聯盟 "wikilink")，性格是“一匹狼”。為了想擊倒基拉·大和成為“完全體”，不斷追尋他。與基拉相反，他既擁有冷靜的一面，也擁有瘋狂的一面。
+    在搶奪[中子干擾調解器的任務中](https://zh.wikipedia.org/wiki/中子干擾調解器 "wikilink")，他駕駛的亥伯龍被勇士高達的龍騎兵系統所打敗後，以駕駛該機的普雷亞作為挑戰目標。為了再與勇士高達戰鬥，他甚至帶領特務部隊X叛逃後搶奪了[大西洋聯邦的中子干擾調解器來強化自己的亥伯龍](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")。在最終決戰中被X
     Astray（DREADNOUGHT完全體）的龍騎兵系統所圍困，突圍失敗後想自盡，但是被普雷亞救回，而普雷亞的遺言讓卡納得醒覺。
 
 #### 地球聯邦軍
@@ -384,127 +387,146 @@ Astray（勇士鋼彈的完成型態）使用龍騎兵系統的特殊招數擊�
 
 ### 登场机体
 
-#### [地球聯合](../Page/地球聯合.md "wikilink")──[幻痛](../Page/幻痛_\(GUNDAM\).md "wikilink")
+#### [地球聯合](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")──[幻痛](https://zh.wikipedia.org/wiki/幻痛_\(GUNDAM\) "wikilink")
 
-  - [GAT-01 Strike Dagger](../Page/GAT-01_Strike_Dagger.md "wikilink")
+  - [GAT-01 Strike
+    Dagger](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")
       - [GAT-01A1+AQM/E-X02 Sword
-        Dagger](../Page/GAT-01A1_Dagger#GAT-01A1_+A_QM/E-X02_Sword_Dagger.md "wikilink")
+        Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger#GAT-01A1_+A_QM/E-X02_Sword_Dagger "wikilink")
       - [GAT-01A1+AQM/E-X04 Gunbarrel
-        Dagger](../Page/GAT-01A1_Dagger#GAT-01A1_+_AQM/E-X04_Gunbarrel_Dagger.md "wikilink")
-  - [GAT-02L2 Dagger L](../Page/GAT-02L2_Dagger_L.md "wikilink")
+        Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger#GAT-01A1_+_AQM/E-X04_Gunbarrel_Dagger "wikilink")
+  - [GAT-02L2 Dagger
+    L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")
       - [GAT-02L2+AQM/E-M11 Doppelhorn Dagger
-        L](../Page/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-M11_Doppelhorn_Dagger_L.md "wikilink")
+        L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-M11_Doppelhorn_Dagger_L "wikilink")
       - [GAT-02L2+AQM/E-X02 Sword Dagger
-        L](../Page/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-X02_Sword_Dagger_L.md "wikilink")
+        L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-X02_Sword_Dagger_L "wikilink")
       - [GAT-02L2+AQM/E-X03 Launcher Dagger
-        L](../Page/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-X03_Launcher_Dagger_L.md "wikilink")
+        L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-X03_Launcher_Dagger_L "wikilink")
   - [GAT-04+AQM/E-X01 Aile
-    Windam](../Page/GAT-04_Windam#GAT-04_+_AQM/E-X01_Aile_Windam.md "wikilink")
+    Windam](https://zh.wikipedia.org/wiki/GAT-04_Windam#GAT-04_+_AQM/E-X01_Aile_Windam "wikilink")
   - [GAT-333 Raider Full
-    Spec](../Page/GAT-333_Raider_Full_Spec.md "wikilink")
+    Spec](https://zh.wikipedia.org/wiki/GAT-333_Raider_Full_Spec "wikilink")
   - [GAT-706S Deep
-    Forbidden](../Page/GAT-706S_Deep_Forbidden.md "wikilink")
-  - [GAT-S02R N Dagger N](../Page/GAT-S02R_N_Dagger_N.md "wikilink")
-  - [GAT-X131 Calamity Gundam](../Page/GAT-X131_Calamity.md "wikilink")
+    Forbidden](https://zh.wikipedia.org/wiki/GAT-706S_Deep_Forbidden "wikilink")
+  - [GAT-S02R N Dagger
+    N](https://zh.wikipedia.org/wiki/GAT-S02R_N_Dagger_N "wikilink")
+  - [GAT-X131 Calamity
+    Gundam](https://zh.wikipedia.org/wiki/GAT-X131_Calamity "wikilink")
       - [GAT-X133 Sword Calamity
-        Gundam](../Page/GAT-X133_Sword_Calamity_Gundam.md "wikilink")
+        Gundam](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity_Gundam "wikilink")
   - [GAT-X252 Forbidden
-    Gundam](../Page/GAT-X252_Forbidden.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/GAT-X252_Forbidden "wikilink")
   - [GAT-X255 Forbidden
-    Blue](../Page/GAT-X252_Forbidden#GAT-X255_Forbidden_Blue.md "wikilink")
-  - [GAT-X370 Raider Gundam](../Page/GAT-X370_Raider.md "wikilink")
-  - [TS-MA4F Exus](../Page/TS-MA4F_Exus.md "wikilink")
+    Blue](https://zh.wikipedia.org/wiki/GAT-X252_Forbidden#GAT-X255_Forbidden_Blue "wikilink")
+  - [GAT-X370 Raider
+    Gundam](https://zh.wikipedia.org/wiki/GAT-X370_Raider "wikilink")
+  - [TS-MA4F
+    Exus](https://zh.wikipedia.org/wiki/TS-MA4F_Exus "wikilink")
   - [TSX-MA717/ZD
-    Pergrande](../Page/TSX-MA717/ZD_Pergrande.md "wikilink")
-  - [ZGMF-X12A Testament](../Page/ZGMF-X12A_Testament.md "wikilink")
+    Pergrande](https://zh.wikipedia.org/wiki/TSX-MA717/ZD_Pergrande "wikilink")
+  - [ZGMF-X12A
+    Testament](https://zh.wikipedia.org/wiki/ZGMF-X12A_Testament "wikilink")
   - [ZGMF-X24S (RGX-01) Chaos
-    Gundam](../Page/ZGMF-X24S_Chaos.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X24S_Chaos "wikilink")
   - [ZGMF-X31S (RGX-02) Abyss
-    Gundam](../Page/ZGMF-X31S_Abyss.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X31S_Abyss "wikilink")
   - [ZGMF-X88S (RGX-03) Gaia
     Gundam](../Page/ZGMF-X88S_Gaia.md "wikilink")
   - [ZGMF-YX21R (RGX-04) Proto-Saviour
-    Gundam](../Page/ZGMF-X23S_Saviour#ZGMF-YX21R_Proto-Saviour.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour#ZGMF-YX21R_Proto-Saviour "wikilink")
       - [ZGMF-YX21R+X11A (RGX-04) Proto-Saviour
-        Gundam](../Page/ZGMF-X23S_Saviour#ZGMF-YX21R+X11A_Proto-Saviour.md "wikilink")
+        Gundam](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour#ZGMF-YX21R+X11A_Proto-Saviour "wikilink")
 
-#### [市民](../Page/市民.md "wikilink")
+#### [市民](https://zh.wikipedia.org/wiki/市民 "wikilink")
 
 Mobile Weapons
 
-  - [GAT-01A1 Dagger](../Page/GAT-01A1_Dagger.md "wikilink")
+  - [GAT-01A1
+    Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger "wikilink")
   - [GAT-333 Raider Full
-    Spec](../Page/GAT-333_Raider_Full_Spec.md "wikilink")
+    Spec](https://zh.wikipedia.org/wiki/GAT-333_Raider_Full_Spec "wikilink")
   - [GAT-X133 Sword
-    Calamity](../Page/GAT-X133_Sword_Calamity.md "wikilink")
+    Calamity](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity "wikilink")
   - [MBF-P02 Gundam Astray Red Frame Mars
-    Jacket](../Page/MBF-P02_Gundam_Astray_Red_Frame_Mars_Jacket.md "wikilink")
-  - [MWF-JG71 Raysta](../Page/MWF-JG71_Raysta.md "wikilink")
+    Jacket](https://zh.wikipedia.org/wiki/MBF-P02_Gundam_Astray_Red_Frame_Mars_Jacket "wikilink")
+  - [MWF-JG71
+    Raysta](https://zh.wikipedia.org/wiki/MWF-JG71_Raysta "wikilink")
   - [YMF-X000A/H
-    Dreadnought](../Page/YMF-X000A/H_Dreadnought.md "wikilink")
+    Dreadnought](https://zh.wikipedia.org/wiki/YMF-X000A/H_Dreadnought "wikilink")
 
-[C.E.](../Page/宇宙纪元.md "wikilink")71年，[扎夫特为提供](../Page/ZAFT.md "wikilink")[反中子干扰器及](../Page/中子干擾調解器.md "wikilink")[龙骑兵系统的测试平台制造了](../Page/機動戰士技術#龍騎兵系統_\(DRAGOON_System\).md "wikilink")[YMF-X000A
-勇士鋼彈](../Page/YMF-X000A_Dreadnought.md "wikilink")。测试完毕后，本机落入回收屋之手，由马尔奇欧导师的代表普雷亚·雷腓力驾驶。战争期间，普雷亚与欧亚联邦人员，[亥伯龙鋼彈一号机的驾驶员卡纳德](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")·帕尔斯有数次战斗。在他们的决战中，[亥伯龙鋼彈被摧毁](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")，而普雷亚为了救出机体陷入核暴走的卡纳德牺牲了自己。后来，卡纳德与回收屋驾驶员罗·裘尔将[勇士鋼彈改造为YMF](../Page/YMF-X000A_Dreadnought.md "wikilink")-X000A/H
+[C.E.](../Page/宇宙纪元.md "wikilink")71年，[扎夫特为提供](https://zh.wikipedia.org/wiki/ZAFT "wikilink")[反中子干扰器及](https://zh.wikipedia.org/wiki/中子干擾調解器 "wikilink")[龙骑兵系统的测试平台制造了](https://zh.wikipedia.org/wiki/機動戰士技術#龍騎兵系統_\(DRAGOON_System\) "wikilink")[YMF-X000A
+勇士鋼彈](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")。测试完毕后，本机落入回收屋之手，由马尔奇欧导师的代表普雷亚·雷腓力驾驶。战争期间，普雷亚与欧亚联邦人员，[亥伯龙鋼彈一号机的驾驶员卡纳德](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")·帕尔斯有数次战斗。在他们的决战中，[亥伯龙鋼彈被摧毁](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")，而普雷亚为了救出机体陷入核暴走的卡纳德牺牲了自己。后来，卡纳德与回收屋驾驶员罗·裘尔将[勇士鋼彈改造为YMF](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")-X000A/H
 勇士鋼彈Η。
 
-改造后的本机移除了[勇士鋼彈的一些武器](../Page/YMF-X000A_Dreadnought.md "wikilink")，并增加了[亥伯龙鋼彈的特色](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")。[龙骑兵系统被整套移除](../Page/機動戰士技術#龍騎兵系統_\(DRAGOON_System\).md "wikilink")，由一套光束加农炮/光束军刀所取代，因为卡纳德没有操纵[龙骑兵系统所必需的良好空间感](../Page/機動戰士技術#龍騎兵系統_\(DRAGOON_System\).md "wikilink")。在炮击模式下，加农炮位于肩部上方，与[亥伯龙鋼彈的](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")「吹牛」光束加农炮类似。在剑装模式下，加农炮可于臂下挥动，功能相当于光束军刀，组件后面的对空机关炮则置于肩上。髋甲上的远程制导「鲨」光束感应炮被[亥伯龙鋼彈的](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")「甲胄之光」光波防御屏取代，使用时装于前臂作装甲光罩。最后本机继承了[亥伯龙鋼彈的](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")「Zastava
+改造后的本机移除了[勇士鋼彈的一些武器](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")，并增加了[亥伯龙鋼彈的特色](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")。[龙骑兵系统被整套移除](https://zh.wikipedia.org/wiki/機動戰士技術#龍騎兵系統_\(DRAGOON_System\) "wikilink")，由一套光束加农炮/光束军刀所取代，因为卡纳德没有操纵[龙骑兵系统所必需的良好空间感](https://zh.wikipedia.org/wiki/機動戰士技術#龍騎兵系統_\(DRAGOON_System\) "wikilink")。在炮击模式下，加农炮位于肩部上方，与[亥伯龙鋼彈的](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")「吹牛」光束加农炮类似。在剑装模式下，加农炮可于臂下挥动，功能相当于光束军刀，组件后面的对空机关炮则置于肩上。髋甲上的远程制导「鲨」光束感应炮被[亥伯龙鋼彈的](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")「甲胄之光」光波防御屏取代，使用时装于前臂作装甲光罩。最后本机继承了[亥伯龙鋼彈的](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")「Zastava
 Stigmate」光束机关炮。
 
-另外，本机名称中的「Η」读作希腊字母「Eta」。由于通常形态下背后的加农炮的形状类似希腊字母「Η」，因此取了这个名字。一说来自[亥伯龙鋼彈名字首字母的](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")「H」。
+另外，本机名称中的「Η」读作希腊字母「Eta」。由于通常形态下背后的加农炮的形状类似希腊字母「Η」，因此取了这个名字。一说来自[亥伯龙鋼彈名字首字母的](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")「H」。
 
   - [ZGMF-1001 ZAKU Kaite Madigan
-    Custom](../Page/Zaku_\(Cosmic_Era\)#ZGMF-1000_ZAKU_Warrior.md "wikilink")
+    Custom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#ZGMF-1000_ZAKU_Warrior "wikilink")
       - [ZGMF-1017AS GINN Assault
-        Type](../Page/ZGMF-1017_GINN#ZGMF-1017AS_GINN_Assault_Type.md "wikilink")
+        Type](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN#ZGMF-1017AS_GINN_Assault_Type "wikilink")
       - [ZGMF-1017M2 GINN High Maneuver Type
-        II](../Page/ZGMF-1017_GINN#ZGMF-1017M2_GINN_High_Maneuver_Type_II.md "wikilink")
+        II](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN#ZGMF-1017M2_GINN_High_Maneuver_Type_II "wikilink")
   - [ZGMF-X12 Gundam Astray Out
-    Frame](../Page/ZGMF-X12_Gundam_Astray_Out_Frame.md "wikilink")
+    Frame](https://zh.wikipedia.org/wiki/ZGMF-X12_Gundam_Astray_Out_Frame "wikilink")
   - [ZGMF-X12D Gundam Astray Out Frame
-    D](../Page/ZGMF-X12D_Gundam_Astray_Out_Frame_D.md "wikilink")
-  - [ZGMF-X12A Testament](../Page/ZGMF-X12A_Testament.md "wikilink")
+    D](https://zh.wikipedia.org/wiki/ZGMF-X12D_Gundam_Astray_Out_Frame_D "wikilink")
+  - [ZGMF-X12A
+    Testament](https://zh.wikipedia.org/wiki/ZGMF-X12A_Testament "wikilink")
 
-#### [Z.A.F.T.](../Page/ZAFT.md "wikilink")
+#### [Z.A.F.T.](https://zh.wikipedia.org/wiki/ZAFT "wikilink")
 
-  - [ZGMF-X11A Regenerate](../Page/ZGMF-X11A_Regenerate.md "wikilink")
-  - [AMF-101 DINN](../Page/AMF-101_DINN.md "wikilink")
+  - [ZGMF-X11A
+    Regenerate](https://zh.wikipedia.org/wiki/ZGMF-X11A_Regenerate "wikilink")
+  - [AMF-101
+    DINN](https://zh.wikipedia.org/wiki/AMF-101_DINN "wikilink")
       - [AME-WAC01 DINN Special Electronic Installation
-        Type](../Page/AMF-101_DINN.md "wikilink")
-  - [UMF-04A GOOhN](../Page/UMF-04A_GOOhN.md "wikilink")
+        Type](https://zh.wikipedia.org/wiki/AMF-101_DINN "wikilink")
+  - [UMF-04A
+    GOOhN](https://zh.wikipedia.org/wiki/UMF-04A_GOOhN "wikilink")
   - [YFX-200 CGUE DEEP
-    Arms](../Page/YFX-200_CGUE_DEEP_Arms.md "wikilink")
-  - [XMF-P192P Proto Chaos](../Page/XMF-P192P_Proto_Chaos.md "wikilink")
-  - [ZGMF-600 GuAIZ](../Page/ZGMF-600_GuAIZ.md "wikilink")
+    Arms](https://zh.wikipedia.org/wiki/YFX-200_CGUE_DEEP_Arms "wikilink")
+  - [XMF-P192P Proto
+    Chaos](https://zh.wikipedia.org/wiki/XMF-P192P_Proto_Chaos "wikilink")
+  - [ZGMF-600
+    GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")
       - [ZGMF-601R GuAIZ
-        R](../Page/ZGMF-600_GuAIZ#ZGMF-601R_GuAIZ_R.md "wikilink")
+        R](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ#ZGMF-601R_GuAIZ_R "wikilink")
   - [ZGMF-1000 ZAKU
-    Warrior](../Page/Zaku_\(Cosmic_Era\)#ZGMF-1000_ZAKU_Warrior.md "wikilink")
+    Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#ZGMF-1000_ZAKU_Warrior "wikilink")
   - [ZGMF-1001/K Slash ZAKU
-    Phantom](../Page/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard.md "wikilink")
+    Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard "wikilink")
   - [ZGMF-1001/M Blaze ZAKU
-    Phantom](../Page/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard.md "wikilink")
-  - [ZGMF-1017 GINN](../Page/ZGMF-1017_GINN.md "wikilink")
+    Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard "wikilink")
+  - [ZGMF-1017
+    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")
   - [ZGMF-X13A Providence
-    Gundam](../Page/ZGMF-X13A_Providence.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")
   - [ZGMF-X24S (RGX-01) Chaos
-    Gundam](../Page/ZGMF-X24S_Chaos.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X24S_Chaos "wikilink")
   - [ZGMF-X31S (RGX-02) Abyss
-    Gundam](../Page/ZGMF-X31S_Abyss.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X31S_Abyss "wikilink")
   - [ZGMF-X88S (RGX-03) Gaia
     Gundam](../Page/ZGMF-X88S_Gaia.md "wikilink")
   - [ZGMF-X56S Impulse Gundam](../Page/ZGMF-X56S_Impulse.md "wikilink")
   - [ZGMF-X999A ZAKU Mass Production Trial
-    Type](../Page/Zaku_\(Cosmic_Era\)#渣古量產試作型.md "wikilink")
+    Type](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#渣古量產試作型 "wikilink")
 
-#### [O.R.B.](../Page/奧布.md "wikilink")
+#### [O.R.B.](https://zh.wikipedia.org/wiki/奧布 "wikilink")
 
   - [GAT-X133 Sword
-    Calamity](../Page/GAT-X133_Sword_Calamity.md "wikilink")
-  - [MBF-M1 M1 Astray](../Page/MBF-M1_M1_Astray.md "wikilink")
+    Calamity](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity "wikilink")
+  - [MBF-M1 M1
+    Astray](https://zh.wikipedia.org/wiki/MBF-M1_M1_Astray "wikilink")
   - [MBF-P01-Re2 AMATU Gundam Astray Gold Frame Amatu Mina
-    Custom](../Page/MBF-P01-Re2_AMATU_Gundam_Astray_Gold_Frame_Amatu_Mina_Custom.md "wikilink")
-  - [MBF-M1A M1A Astray](../Page/MBF-M1_M1_Astray.md "wikilink")
-  - [ZGMF-X09A Justice Gundam](../Page/ZGMF-X09A_Justice.md "wikilink")
+    Custom](https://zh.wikipedia.org/wiki/MBF-P01-Re2_AMATU_Gundam_Astray_Gold_Frame_Amatu_Mina_Custom "wikilink")
+  - [MBF-M1A M1A
+    Astray](https://zh.wikipedia.org/wiki/MBF-M1_M1_Astray "wikilink")
+  - [ZGMF-X09A Justice
+    Gundam](https://zh.wikipedia.org/wiki/ZGMF-X09A_Justice "wikilink")
   - [ZGMF-X10A Freedom Gundam](../Page/ZGMF-X10A_Freedom.md "wikilink")
 
 ## 機動戰士GUNDAM SEED C.E.73 Δ（Delta） ASTRAY
@@ -517,13 +539,13 @@ STARGAZER的主角们也有登场](../Page/机动战士GUNDAM_SEED_C.E.73_STARGA
 
 ### 登場人物
 
-#### [火星住民](../Page/火星住民.md "wikilink")
+#### [火星住民](https://zh.wikipedia.org/wiki/火星住民 "wikilink")
 
   - 亞格尼斯·布拉赫
   - 納厄·赫歇爾
   - 迪亞哥·羅威爾
 
-#### [Z.A.F.T.](../Page/ZAFT.md "wikilink")
+#### [Z.A.F.T.](https://zh.wikipedia.org/wiki/ZAFT "wikilink")
 
   - 艾札克·瑪烏
   - 米哈爾·寇斯特
@@ -533,54 +555,64 @@ STARGAZER的主角们也有登场](../Page/机动战士GUNDAM_SEED_C.E.73_STARGA
 
   - 罗·裘尔
 
-#### [地球聯合](../Page/地球聯合.md "wikilink")／[幻痛](../Page/幻痛_\(GUNDAM\).md "wikilink")
+#### [地球聯合](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")／[幻痛](https://zh.wikipedia.org/wiki/幻痛_\(GUNDAM\) "wikilink")
 
   - 史威恩·卡爾·巴亞
 
 ### 登场机体
 
-### [地球聯合](../Page/地球聯合.md "wikilink")／[幻痛](../Page/幻痛_\(GUNDAM\).md "wikilink")
+### [地球聯合](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")／[幻痛](https://zh.wikipedia.org/wiki/幻痛_\(GUNDAM\) "wikilink")
 
-  - [GAT-01A1 Dagger](../Page/GAT-01A1_Dagger.md "wikilink")
+  - [GAT-01A1
+    Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger "wikilink")
   - [GAT-01A2R Slaughter
-    Dagger](../Page/GAT-01A1_Dagger#GAT-01A2R_+_AQM/E-X01_Slaughter_Dagger.md "wikilink")
-  - [GAT-02L2 Dagger L](../Page/GAT-02L2_Dagger_L.md "wikilink")
+    Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger#GAT-01A2R_+_AQM/E-X01_Slaughter_Dagger "wikilink")
+  - [GAT-02L2 Dagger
+    L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L "wikilink")
   - [GAT-02L2+AQM/E-M11 Doppelhorn Dagger
-    L](../Page/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-M11_Doppelhorn_Dagger_L.md "wikilink")
-  - [GAT-X1022 Blu Duel](../Page/GAT-X1022_Blu_Duel.md "wikilink")
+    L](https://zh.wikipedia.org/wiki/GAT-02L2_Dagger_L#GAT-02L2_+_AQM/E-M11_Doppelhorn_Dagger_L "wikilink")
+  - [GAT-X1022 Blu
+    Duel](https://zh.wikipedia.org/wiki/GAT-X1022_Blu_Duel "wikilink")
   - [GAT-X103AP Verde
-    Buster](../Page/GAT-X103AP_Verde_Buster.md "wikilink")
-  - [GAT-X105E Strike E](../Page/GAT-X105E_Strike_E.md "wikilink")
+    Buster](https://zh.wikipedia.org/wiki/GAT-X103AP_Verde_Buster "wikilink")
+  - [GAT-X105E Strike
+    E](https://zh.wikipedia.org/wiki/GAT-X105E_Strike_E "wikilink")
   - [GAT-X105E+AQM/E-M1 Strike E
-    IWSP](../Page/GAT-X105E+AQM/E-M1_Strike_E_IWSP.md "wikilink")
+    IWSP](https://zh.wikipedia.org/wiki/GAT-X105E+AQM/E-M1_Strike_E_IWSP "wikilink")
   - [GAT-X105E+AQM/E-X09S Strike
-    Noir](../Page/GAT-X105E_Strike_E#GAT-X105E+AQM/E-X09S_Strike_Noir.md "wikilink")
-  - [GAT-X207SR Nero Blitz](../Page/GAT-X207SR_Nero_Blitz.md "wikilink")
+    Noir](https://zh.wikipedia.org/wiki/GAT-X105E_Strike_E#GAT-X105E+AQM/E-X09S_Strike_Noir "wikilink")
+  - [GAT-X207SR Nero
+    Blitz](https://zh.wikipedia.org/wiki/GAT-X207SR_Nero_Blitz "wikilink")
   - [GAT-X303AA Rosso
-    Aegis](../Page/GAT-X303AA_Rosso_Aegis.md "wikilink")
-  - [GFAS-X1 Destroy Gundam](../Page/GFAS-X1_Destroy.md "wikilink")
+    Aegis](https://zh.wikipedia.org/wiki/GAT-X303AA_Rosso_Aegis "wikilink")
+  - [GFAS-X1 Destroy
+    Gundam](https://zh.wikipedia.org/wiki/GFAS-X1_Destroy "wikilink")
 
-### [火星住民](../Page/火星住民.md "wikilink")
+### [火星住民](https://zh.wikipedia.org/wiki/火星住民 "wikilink")
 
-  - [Astray Mars Jacket](../Page/Astray_Mars_Jacket.md "wikilink")
-  - [GSF-YAM01 Δ Astray](../Page/GSF-YAM01_Δ_Astray.md "wikilink")
-  - [GSF-YAM02 Guardshell](../Page/GSF-YAM02_Guardshell.md "wikilink")
-  - [MMF-JG73L Turn Δ](../Page/MMF-JG73L_Turn_Δ.md "wikilink")
+  - [Astray Mars
+    Jacket](https://zh.wikipedia.org/wiki/Astray_Mars_Jacket "wikilink")
+  - [GSF-YAM01 Δ
+    Astray](https://zh.wikipedia.org/wiki/GSF-YAM01_Δ_Astray "wikilink")
+  - [GSF-YAM02
+    Guardshell](https://zh.wikipedia.org/wiki/GSF-YAM02_Guardshell "wikilink")
+  - [MMF-JG73L Turn
+    Δ](https://zh.wikipedia.org/wiki/MMF-JG73L_Turn_Δ "wikilink")
 
-### [Z.A.F.T.](../Page/ZAFT.md "wikilink")
+### [Z.A.F.T.](https://zh.wikipedia.org/wiki/ZAFT "wikilink")
 
   - [TMF/A-802W2 Kerberos BuCUE
-    Hound](../Page/TMF/A-802_BaCUE.md "wikilink")
+    Hound](https://zh.wikipedia.org/wiki/TMF/A-802_BaCUE "wikilink")
   - [ZGMF-1000 Kerberos ZAKU
-    Warrior](../Page/Zaku_\(Cosmic_Era\).md "wikilink")
+    Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")
   - [ZGMF-1000/A1 Gunner ZAKU
-    Warrior](../Page/Zaku_\(Cosmic_Era\)#重炮裝備_Gunner_Wizard.md "wikilink")
+    Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#重炮裝備_Gunner_Wizard "wikilink")
   - [ZGMF-1000/M Blaze ZAKU
-    Warrior](../Page/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard.md "wikilink")
+    Warrior](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard "wikilink")
   - [ZGMF-1001/K Slash ZAKU
-    Phantom](../Page/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard.md "wikilink")
+    Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#斬擊裝備_Slash_Wizard "wikilink")
   - [ZGMF-1001/M Blaze ZAKU
-    Phantom](../Page/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard.md "wikilink")
+    Phantom](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\)#瞬發裝備_Blaze_Wizard "wikilink")
 
 ## 機動戰士GUNDAM SEED FRAME ASTRAYS
 
@@ -603,14 +635,14 @@ ASTRAYS**的續篇。將於6月連載。
 
 ### 登場人物
 
-#### [廢物回收商工會](../Page/廢物回收商工會.md "wikilink")
+#### [廢物回收商工會](https://zh.wikipedia.org/wiki/廢物回收商工會 "wikilink")
 
   - 羅·裘爾
 
 <!-- end list -->
 
   -
-    廢物回收商公會成員，紅色機的駕駛，於跟另一架紅色機以及強風攻擊鋼彈戰鬥，知道圖書館館員的存在。對於機械有很深的造詣和技術，就這一方面看來都有天才般的資質。好奇心旺盛，對許多事情都喜歡插一腳（甚至成了[煌·大和的救命恩人](../Page/煌·大和.md "wikilink")），雖然很少人能理解，但是有自己的信念。
+    廢物回收商公會成員，紅色機的駕駛，於跟另一架紅色機以及強風攻擊鋼彈戰鬥，知道圖書館館員的存在。對於機械有很深的造詣和技術，就這一方面看來都有天才般的資質。好奇心旺盛，對許多事情都喜歡插一腳（甚至成了[煌·大和的救命恩人](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")），雖然很少人能理解，但是有自己的信念。
 
 <!-- end list -->
 
@@ -736,7 +768,7 @@ ASTRAYS**的續篇。將於6月連載。
   -
     居住在天之御柱的女性調整者，將那裡最為自己的居城居住著。吉納的姊姊，原為歐譜五大氏族的其中一人，用不同於歐普的方式關注世界進展的超然存在
 
-#### [火星居民](../Page/火星居民.md "wikilink")
+#### [火星居民](https://zh.wikipedia.org/wiki/火星居民 "wikilink")
 
   - 亞格尼斯·布拉赫
 
@@ -754,7 +786,7 @@ ASTRAYS**的續篇。將於6月連載。
 ### 圖書館館員
 
   - [LG-GAT-X105 Gale
-    Strike強風攻擊鋼彈](../Page/LG-GAT-X105_Gale_Strike.md "wikilink")
+    Strike強風攻擊鋼彈](https://zh.wikipedia.org/wiki/LG-GAT-X105_Gale_Strike "wikilink")
 
 <!-- end list -->
 
@@ -764,7 +796,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [LN-ZGMF-X13A Nix
-    Providence吹雪天帝鋼彈](../Page/LN-ZGMF-X13A_Nix_Providence.md "wikilink")
+    Providence吹雪天帝鋼彈](https://zh.wikipedia.org/wiki/LN-ZGMF-X13A_Nix_Providence "wikilink")
 
 <!-- end list -->
 
@@ -775,7 +807,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [LR-GAT-X102 Regen
-    Duel暴雨決鬥鋼彈](../Page/LR-GAT-X102_Regen_Duel.md "wikilink")
+    Duel暴雨決鬥鋼彈](https://zh.wikipedia.org/wiki/LR-GAT-X102_Regen_Duel "wikilink")
 
 <!-- end list -->
 
@@ -785,7 +817,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [MBF-P05LM Gundam Astray Mirage
-    Frame異端鋼彈幻惑機](../Page/MBF-P05LM_Gundam_Astray_Mirage_Frame.md "wikilink")
+    Frame異端鋼彈幻惑機](https://zh.wikipedia.org/wiki/MBF-P05LM_Gundam_Astray_Mirage_Frame "wikilink")
 
 <!-- end list -->
 
@@ -795,7 +827,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [LH-GAT-X103 Hail
-    Buster雹陣暴風鋼彈](../Page/LH-GAT-X103_Hail_Buster.md "wikilink")
+    Buster雹陣暴風鋼彈](https://zh.wikipedia.org/wiki/LH-GAT-X103_Hail_Buster "wikilink")
 
 <!-- end list -->
 
@@ -805,7 +837,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [LV-ZGMF-X23S Vent
-    Saviour旋風救星鋼彈](../Page/ZGMF-X23S_Saviour#LV-ZGMF-X23S_Vent_Saviour.md "wikilink")
+    Saviour旋風救星鋼彈](https://zh.wikipedia.org/wiki/ZGMF-X23S_Saviour#LV-ZGMF-X23S_Vent_Saviour "wikilink")
 
 <!-- end list -->
 
@@ -815,7 +847,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [LN-GAT-X207 Nebula
-    Blitz迷霧電擊鋼彈](../Page/LN-GAT-X207_Nebula_Blitz.md "wikilink")
+    Blitz迷霧電擊鋼彈](https://zh.wikipedia.org/wiki/LN-GAT-X207_Nebula_Blitz "wikilink")
 
 <!-- end list -->
 
@@ -826,7 +858,7 @@ ASTRAYS**的續篇。將於6月連載。
 <!-- end list -->
 
   - [MBF-P05LM2 Gundam Astray Mirage Frame Second
-    Issue異端鋼彈幻惑機二期型](../Page/MBF-P05LM2_Gundam_Astray_Mirage_Frame_Second_Issue.md "wikilink")
+    Issue異端鋼彈幻惑機二期型](https://zh.wikipedia.org/wiki/MBF-P05LM2_Gundam_Astray_Mirage_Frame_Second_Issue "wikilink")
 
 <!-- end list -->
 
@@ -836,7 +868,7 @@ ASTRAYS**的續篇。將於6月連載。
 ### 回收屋
 
   - [MBF-P02 Gundam Astray Red Frame
-    Kai異端鋼彈紅色機改](../Page/MBF-P02_Gundam_Astray_Red_Frame_Kai.md "wikilink")
+    Kai異端鋼彈紅色機改](https://zh.wikipedia.org/wiki/MBF-P02_Gundam_Astray_Red_Frame_Kai "wikilink")
 
 <!-- end list -->
 
@@ -847,7 +879,7 @@ ASTRAYS**的續篇。將於6月連載。
 ### 蛇尾
 
   - [MBF-P03 Second Gundam Astray Blue Frame Second
-    Revise異端鋼彈藍色機二型改](../Page/MBF-P03_Second_Gundam_Astray_Blue_Frame_Second_Revise.md "wikilink")
+    Revise異端鋼彈藍色機二型改](https://zh.wikipedia.org/wiki/MBF-P03_Second_Gundam_Astray_Blue_Frame_Second_Revise "wikilink")
 
 <!-- end list -->
 
@@ -858,7 +890,7 @@ ASTRAYS**的續篇。將於6月連載。
 ### 天之御柱
 
   - [MBF-P01 Gundam Astray Gold Frame
-    Mina異端鋼彈金色機天蜜娜](../Page/MBF-P01_Gundam_Astray_Gold_Frame_Mina.md "wikilink")
+    Mina異端鋼彈金色機天蜜娜](https://zh.wikipedia.org/wiki/MBF-P01_Gundam_Astray_Gold_Frame_Mina "wikilink")
 
 <!-- end list -->
 
@@ -904,4 +936,5 @@ ASTRAYS**的續篇。將於6月連載。
 [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
 [Category:GUNDAM系列漫畫](https://zh.wikipedia.org/wiki/Category:GUNDAM系列漫畫 "wikilink")
 
-1.  ガンダムの常識 モビルスーツ大百科 機動戦士ガンダムSEED ザフト篇[雙葉社](../Page/雙葉社.md "wikilink")
+1.  ガンダムの常識 モビルスーツ大百科 機動戦士ガンダムSEED
+    ザフト篇[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")

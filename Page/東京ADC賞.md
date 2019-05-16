@@ -2,7 +2,7 @@
 
 ## 概要
 
-每年的5月會進行作品審查會，會從[海報](../Page/海報.md "wikilink")、[新聞](../Page/新聞.md "wikilink")、[雜誌](../Page/雜誌.md "wikilink")、[電視等許多類別中](../Page/電視.md "wikilink")，由所有的ADC會員選出年度優秀的廣告和設計作品。在7月會在[日本](../Page/日本.md "wikilink")[東京的](../Page/東京.md "wikilink")[銀座舉行ADC賞的得獎和入選作品展覽](../Page/銀座.md "wikilink")。11月時會發行年鑑，每年的年底12月則會舉行頒獎典禮。
+每年的5月會進行作品審查會，會從[海報](https://zh.wikipedia.org/wiki/海報 "wikilink")、[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")、[電視等許多類別中](https://zh.wikipedia.org/wiki/電視 "wikilink")，由所有的ADC會員選出年度優秀的廣告和設計作品。在7月會在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[銀座舉行ADC賞的得獎和入選作品展覽](../Page/銀座.md "wikilink")。11月時會發行年鑑，每年的年底12月則會舉行頒獎典禮。
 
 ### 獎項
 
@@ -13,7 +13,7 @@
 ## 關於ADC
 
 **ADC**是「Art Directors
-Club」的[縮寫](../Page/縮寫.md "wikilink")。ADC在1952年9月5日成立於[日本](../Page/日本.md "wikilink")[東京](../Page/東京.md "wikilink")。成立之初的目的是為了提升和確立[藝術總監在社會上專業的職業能力](../Page/藝術總監.md "wikilink")。目前的會長為細谷巖先生，會員共有86名（2006年6月為止），主要為日本知名的設計師和藝術總監（例如：[青木克憲](../Page/青木克憲.md "wikilink")、[青葉益輝](../Page/青葉益輝.md "wikilink")、[秋山晶等](../Page/秋山晶.md "wikilink")）。
+Club」的[縮寫](../Page/縮寫.md "wikilink")。ADC在1952年9月5日成立於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。成立之初的目的是為了提升和確立[藝術總監在社會上專業的職業能力](https://zh.wikipedia.org/wiki/藝術總監 "wikilink")。目前的會長為細谷巖先生，會員共有86名（2006年6月為止），主要為日本知名的設計師和藝術總監（例如：[青木克憲](https://zh.wikipedia.org/wiki/青木克憲 "wikilink")、[青葉益輝](https://zh.wikipedia.org/wiki/青葉益輝 "wikilink")、[秋山晶等](https://zh.wikipedia.org/wiki/秋山晶 "wikilink")）。
 
 ### 出版書籍
 

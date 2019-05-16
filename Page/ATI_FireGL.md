@@ -1,7 +1,7 @@
 {{ infobox computer hardware generic | name = FireGL Graphics | image =
 Ati-fgl-logo.jpg | caption = FireGL商標 | invent-date = | invent-name =
-[ATI](../Page/ATI.md "wikilink") }}
-**FireGL**是由[ATi研發的一个](../Page/ATi.md "wikilink")[顯示卡系列](../Page/顯示卡.md "wikilink")。它主要應用在[工作站](../Page/工作站.md "wikilink")，作[CAD和DCC用途](../Page/CAD.md "wikilink")。它的硬體結構與[Radeon糸列顯示卡頗相似](../Page/Radeon.md "wikilink")，但有一些不同，以令驅动區別這是否FireGL顯示卡，並啓动其[OpenGL功能](../Page/OpenGL.md "wikilink")。還有，由於它与Radeon糸列顯示卡的相似性，所以有客户軟改Radeon顯示卡。利用改版的FireGL驅动，他們可得到一張便宜而等價的FireGL顯示卡。現時FireGL和[FireMV已被](../Page/FireMV.md "wikilink")[FirePro系列取代](../Page/FirePro.md "wikilink")。
+[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink") }}
+**FireGL**是由[ATi研發的一个](https://zh.wikipedia.org/wiki/ATi "wikilink")[顯示卡系列](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。它主要應用在[工作站](../Page/工作站.md "wikilink")，作[CAD和DCC用途](https://zh.wikipedia.org/wiki/CAD "wikilink")。它的硬體結構與[Radeon糸列顯示卡頗相似](../Page/Radeon.md "wikilink")，但有一些不同，以令驅动區別這是否FireGL顯示卡，並啓动其[OpenGL功能](../Page/OpenGL.md "wikilink")。還有，由於它与Radeon糸列顯示卡的相似性，所以有客户軟改Radeon顯示卡。利用改版的FireGL驅动，他們可得到一張便宜而等價的FireGL顯示卡。現時FireGL和[FireMV已被](https://zh.wikipedia.org/wiki/FireMV "wikilink")[FirePro系列取代](https://zh.wikipedia.org/wiki/FirePro "wikilink")。
 
 ## 与Radeon顯示卡的不同之处
 
@@ -13,9 +13,10 @@ Ati-fgl-logo.jpg | caption = FireGL商標 | invent-date = | invent-name =
     X3-256），專用的影像平面緩存（Maya得益於此）。儘管不清楚這些功能是否只存在於FireGL顯示卡，還是亦存在於Radeon顯示卡，縱使被驅动禁止。
   - 這个系列的顯示卡性能強大；理論上FireGL顯示卡比Radeon顯示卡能处理更多資料。
   - 這些顯示卡對双顯示輸出有極佳相容性，主要原因是它门包含了双TMDS傳送器。大部份從前的Radeon顯示卡只有一个，除了較新的[Radeon
-    X1 Series](../Page/Radeon_X1_Series.md "wikilink")。現在則大部份都支援雙輸出。
+    X1
+    Series](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")。現在則大部份都支援雙輸出。
   - 專業軟件，例如3d
-    Studio和Maya，它們對頂点处理器比較倚賴。而遊戲軟件則比較倚賴像素管線和[材質貼圖](../Page/材質貼圖.md "wikilink")。
+    Studio和Maya，它們對頂点处理器比較倚賴。而遊戲軟件則比較倚賴像素管線和[材質貼圖](https://zh.wikipedia.org/wiki/材質貼圖 "wikilink")。
 
 ## 顯示卡清單
 

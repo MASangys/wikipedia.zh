@@ -1,10 +1,10 @@
 《**IZUMO零**》是日本[Studio
-e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")，也是《[IZUMO](../Page/IZUMO.md "wikilink")》的前傳（但比《IZUMO》遲發售）。\[1\]\[2\]遊戲以19世紀，[日本的](../Page/日本.md "wikilink")[明治維新時代作背景](../Page/明治維新.md "wikilink")，時間是1879年（明治12年），舞台是國際都會[橫濱](../Page/橫濱.md "wikilink")。日本SUCCESS公司在2007年7月12日發售[PlayStation
+e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")，也是《[IZUMO](../Page/IZUMO.md "wikilink")》的前傳（但比《IZUMO》遲發售）。\[1\]\[2\]遊戲以19世紀，[日本的](../Page/日本.md "wikilink")[明治維新時代作背景](https://zh.wikipedia.org/wiki/明治維新 "wikilink")，時間是1879年（明治12年），舞台是國際都會[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。日本SUCCESS公司在2007年7月12日發售[PlayStation
 2版本](../Page/PlayStation_2.md "wikilink")，標題為《****》。\[3\]
 
 ## 遊戲系統
 
-此作改用[戰略模式](../Page/战略游戏.md "wikilink")，有別於前作的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")。另外遊戲角色的男女比例為一比一，避免了像前作「陰盛陽衰」的情況。另外在男女角色的配對中，在遊戲初推出時，只有兩個組合，第三組需安裝「迪波巢箱」的擴充方能啟動，分別是親兄妹關係的和人與陽子、同鄉關係的虎之助及美園，以及同為水上人的宗一郎和萌夕。
+此作改用[戰略模式](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，有別於前作的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")。另外遊戲角色的男女比例為一比一，避免了像前作「陰盛陽衰」的情況。另外在男女角色的配對中，在遊戲初推出時，只有兩個組合，第三組需安裝「迪波巢箱」的擴充方能啟動，分別是親兄妹關係的和人與陽子、同鄉關係的虎之助及美園，以及同為水上人的宗一郎和萌夕。
 
 ## 故事
 
@@ -134,7 +134,8 @@ e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[�
     e.go\!）](http://www.studio-ego.jp/game/izumo0/index.html)
   - [遊戲主頁（Success）](http://www.success-corp.co.jp/software/ps2/izumo/index.html)
 
-[ja:IZUMO (ゲーム)\#IZUMO零](../Page/ja:IZUMO_\(ゲーム\)#IZUMO零.md "wikilink")
+[ja:IZUMO
+(ゲーム)\#IZUMO零](https://zh.wikipedia.org/wiki/ja:IZUMO_\(ゲーム\)#IZUMO零 "wikilink")
 
 [Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
 [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")

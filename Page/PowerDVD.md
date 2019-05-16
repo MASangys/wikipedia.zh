@@ -1,5 +1,5 @@
-[Lenovo_ideapad_S12.jpg](https://zh.wikipedia.org/wiki/File:Lenovo_ideapad_S12.jpg "fig:Lenovo_ideapad_S12.jpg")s12[上網本內建的PowerDVD](../Page/上網本.md "wikilink")\]\]
-**PowerDVD**是由[訊連科技開發的](../Page/訊連科技.md "wikilink")[播放軟件](../Page/播放軟件.md "wikilink")，容許使用者在[個人電腦上觀看](../Page/個人電腦.md "wikilink")[DVD-Video](../Page/DVD-Video.md "wikilink")。Ultra版支援[Blu-ray的播放](../Page/Blu-ray.md "wikilink")。
+[Lenovo_ideapad_S12.jpg](https://zh.wikipedia.org/wiki/File:Lenovo_ideapad_S12.jpg "fig:Lenovo_ideapad_S12.jpg")s12[上網本內建的PowerDVD](https://zh.wikipedia.org/wiki/上網本 "wikilink")\]\]
+**PowerDVD**是由[訊連科技開發的](../Page/訊連科技.md "wikilink")[播放軟件](https://zh.wikipedia.org/wiki/播放軟件 "wikilink")，容許使用者在[個人電腦上觀看](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[DVD-Video](../Page/DVD-Video.md "wikilink")。Ultra版支援[Blu-ray的播放](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。
 
 ## 支援播放的光碟與檔案
 
@@ -7,30 +7,32 @@
 
   -
     [CD](../Page/CD.md "wikilink")（[CD-ROM](../Page/CD-ROM.md "wikilink"),
-    [CD-R](../Page/CD-R.md "wikilink"),
-    [CD-RW](../Page/CD-RW.md "wikilink")）
-    [DVD](../Page/DVD.md "wikilink")（DVD-ROM, DVD-R, DVD-RW, DVD+R,
-    DVD+RW, [DVD-RAM](../Page/DVD-RAM.md "wikilink")）
-    [Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink") (BD-R, BD-RE,
-    BD-ROM)
+    [CD-R](https://zh.wikipedia.org/wiki/CD-R "wikilink"),
+    [CD-RW](https://zh.wikipedia.org/wiki/CD-RW "wikilink")）
+    [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（DVD-ROM, DVD-R,
+    DVD-RW, DVD+R, DVD+RW,
+    [DVD-RAM](https://zh.wikipedia.org/wiki/DVD-RAM "wikilink")）
+    [Blu-ray
+    Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink") (BD-R,
+    BD-RE, BD-ROM)
     [HD DVD](../Page/HD_DVD.md "wikilink")（HD DVD-R, HD DVD-ROM） -
     版本8以後省略不支援。
-    [CPRM光碟](../Page/CPRM.md "wikilink")
+    [CPRM光碟](https://zh.wikipedia.org/wiki/CPRM "wikilink")
 
 ### 檔案
 
 **視訊格式**
 
-  - [ASF](../Page/Advanced_Systems_Format.md "wikilink")
+  - [ASF](https://zh.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")
   - [AVCHD](../Page/AVCHD.md "wikilink")
-  - [AVCREC](../Page/AVCREC.md "wikilink")
-  - [BDAV](../Page/BDAV.md "wikilink")
-  - [BDMV](../Page/BDMV.md "wikilink")
-  - [DVD+VR](../Page/DVD+VR.md "wikilink")
-  - [DVD-VR](../Page/DVD-VR.md "wikilink")
+  - [AVCREC](https://zh.wikipedia.org/wiki/AVCREC "wikilink")
+  - [BDAV](https://zh.wikipedia.org/wiki/BDAV "wikilink")
+  - [BDMV](https://zh.wikipedia.org/wiki/BDMV "wikilink")
+  - [DVD+VR](https://zh.wikipedia.org/wiki/DVD+VR "wikilink")
+  - [DVD-VR](https://zh.wikipedia.org/wiki/DVD-VR "wikilink")
   - [DVD-Video](../Page/DVD-Video.md "wikilink")
-  - [H.264](../Page/H.264.md "wikilink")
-  - [Mini-DVD](../Page/Mini-DVD.md "wikilink")
+  - [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
+  - [Mini-DVD](https://zh.wikipedia.org/wiki/Mini-DVD "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")
   - [MPEG-2](../Page/MPEG-2.md "wikilink")
   - [MPEG-2 HD](../Page/MPEG-2.md "wikilink")
@@ -51,27 +53,33 @@
 
 **音訊格式**
 
-  - [AAC](../Page/AAC.md "wikilink")
-  - [DTS 5.1](../Page/デジタル・シアター・システムズ.md "wikilink")
-  - [DTS 96/24](../Page/デジタル・シアター・システムズ.md "wikilink")
-  - [DTS Neo:6](../Page/デジタル・シアター・システムズ.md "wikilink")
-  - [DTS-ES Discrete](../Page/デジタル・シアター・システムズ.md "wikilink")
-  - [Dolby Digital EX](../Page/ドルビーデジタル.md "wikilink")
+  - [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")
+  - [DTS 5.1](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
+  - [DTS
+    96/24](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
+  - [DTS
+    Neo:6](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
+  - [DTS-ES
+    Discrete](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
+  - [Dolby Digital
+    EX](https://zh.wikipedia.org/wiki/ドルビーデジタル "wikilink")
   - [DVD-Audio](../Page/DVD-Audio.md "wikilink") - 版本9以後省略不支援。
-  - [MLP Lossless](../Page/MLP_Lossless.md "wikilink")
+  - [MLP
+    Lossless](https://zh.wikipedia.org/wiki/MLP_Lossless "wikilink")
   - [MPEG Audio Layer-3](../Page/MP3.md "wikilink")
   - [WMA](../Page/Windows_Media_Audio.md "wikilink")（[Windows Media
     Audio](../Page/Windows_Media_Audio.md "wikilink")）
-  - [WAV](../Page/WAV.md "wikilink")（[LPCM](../Page/LPCM.md "wikilink")）
+  - [WAV](../Page/WAV.md "wikilink")（[LPCM](https://zh.wikipedia.org/wiki/LPCM "wikilink")）
   - [DTS](../Page/DTS.md "wikilink")
   - [CDDA](../Page/CDDA.md "wikilink")（音樂CD）
-  - [DSD](../Page/DSD.md "wikilink") - 版本16以後支援。 (DFS與DFF)
+  - [DSD](https://zh.wikipedia.org/wiki/DSD "wikilink") - 版本16以後支援。
+    (DFS與DFF)
 
 **相片格式**
 
-  - [BMP](../Page/BMP.md "wikilink")
+  - [BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")
   - [JPEG](../Page/JPEG.md "wikilink")
-  - [JPG](../Page/JPG.md "wikilink")
+  - [JPG](https://zh.wikipedia.org/wiki/JPG "wikilink")
   - [PNG](../Page/PNG.md "wikilink")
   - [TIF](../Page/TIFF.md "wikilink")
   - [TIFF](../Page/TIFF.md "wikilink")
@@ -98,8 +106,8 @@
 
 ## 參見
 
-  - [媒體播放器列表](../Page/媒體播放器列表.md "wikilink")
-  - [媒體播放器比較](../Page/媒體播放器比較.md "wikilink")
+  - [媒體播放器列表](https://zh.wikipedia.org/wiki/媒體播放器列表 "wikilink")
+  - [媒體播放器比較](https://zh.wikipedia.org/wiki/媒體播放器比較 "wikilink")
 
 ## 外部連結
 

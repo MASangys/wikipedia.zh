@@ -1,11 +1,11 @@
 《**Summer
-Days**》（）是[0verflow在](../Page/0verflow.md "wikilink")2006年6月23日發售的全動畫[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2008年4月11日由AICHERRY（アイチェリー）發售[DVDPG版](../Page/DVDPG.md "wikilink")。\[3\]2010年9月24日由Palace發售[UMDPG版](../Page/UMDPG.md "wikilink")。\[4\]2012年4月27發售Summer
+Days**》（）是[0verflow在](../Page/0verflow.md "wikilink")2006年6月23日發售的全動畫[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2008年4月11日由AICHERRY（アイチェリー）發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2010年9月24日由Palace發售[UMDPG版](https://zh.wikipedia.org/wiki/UMDPG "wikilink")。\[4\]2012年4月27發售Summer
 Days的重製版《**SHINY DAYS**》（）。\[5\]2014年1月30日由AICHERRY發售SHINY
-DAYS的DVDPG版和[BDPG版](../Page/BDPG.md "wikilink")。\[6\]除了遊戲之外還發售漫畫、小說等相關作品。
+DAYS的DVDPG版和[BDPG版](https://zh.wikipedia.org/wiki/BDPG "wikilink")。\[6\]除了遊戲之外還發售漫畫、小說等相關作品。
 
 本作品與前作《[School
-Days](../Page/School_Days.md "wikilink")》相比，殘虐的描寫消聲匿跡，不急不徐地描寫整個夏天，從淺淺的愛慕開始的故事。並且至今為止不甚明朗的種種人際關係也可判明了，另外還可以發現與[Overflow的其他作品間的關連性](../Page/Overflow.md "wikilink")，帶有很高的[Fan
-disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/Overflow.md "wikilink")，本作「」。
+Days](../Page/School_Days.md "wikilink")》相比，殘虐的描寫消聲匿跡，不急不徐地描寫整個夏天，從淺淺的愛慕開始的故事。並且至今為止不甚明朗的種種人際關係也可判明了，另外還可以發現與[Overflow的其他作品間的關連性](https://zh.wikipedia.org/wiki/Overflow "wikilink")，帶有很高的[Fan
+disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overflow表示](https://zh.wikipedia.org/wiki/Overflow "wikilink")，本作「」。
 
 ## 故事
 
@@ -18,7 +18,7 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 
 <!-- end list -->
 
-  - 清浦剎那（聲優：[山本華](../Page/山本華.md "wikilink")）
+  - 清浦剎那（聲優：[山本華](https://zh.wikipedia.org/wiki/山本華 "wikilink")）
     本作品的女主角，榊野高中1年3班學生，擔任班長。與世界是青梅竹馬且是同父異母的姐妹，兩個人的母親也是公司的同僚兼優良競爭對手。寄予同班的誠模糊的感情。
 
 <!-- end list -->
@@ -48,13 +48,13 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 
 <!-- end list -->
 
-  - 加藤乙女（聲優：[松永雪希](../Page/松永雪希.md "wikilink")、[内野ぽち](../Page/内野ぽち.md "wikilink")(SHINY
+  - 加藤乙女（聲優：[松永雪希](../Page/松永雪希.md "wikilink")、[内野ぽち](https://zh.wikipedia.org/wiki/内野ぽち "wikilink")(SHINY
     DAYS)）
     榊野高中1年4班學生，和誠是同個國中出身的好友。雖然身屬女子籃球社，但因為是體育公費生，好像找不到敵手的樣子。很久以前就喜歡誠，但是對戀愛晚熟的個性，讓她不怎麼能拉近距離。和言葉關係極差，不過因為正在放暑假的關係並沒有欺負言葉。其妹可憐曾說她「沒有胸襟也沒有胸部」。
 
 <!-- end list -->
 
-  - 加藤可憐（聲優：[GUNTA](../Page/GUNTA.md "wikilink")）
+  - 加藤可憐（聲優：[GUNTA](https://zh.wikipedia.org/wiki/GUNTA "wikilink")）
     乙女的妹妹。想到什麼就說什麼的行動派。比姐姐更有身段。一邊和姐姐共同為誠打氣，自己也一邊仰慕著身為國中學長的誠。
 
 <!-- end list -->
@@ -69,27 +69,27 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 
 <!-- end list -->
 
-  - 二條二葉（聲優：[草月彌生](../Page/草月彌生.md "wikilink")）
+  - 二條二葉（聲優：[草月彌生](https://zh.wikipedia.org/wiki/草月彌生 "wikilink")）
     雙胞胎一葉的妹妹，可憐的同學兼朋友。常常和姐姐一起行動，但是如果決定了什麼，就算一個人也會卯起來衝的類型。本以為是無自覺天生型（天然系），但是卻出乎意外地精明。和Radish的前店長感情不錯。
 
 <!-- end list -->
 
-  - 大隈二喜（聲優：[倉田まりや](../Page/倉田まりや.md "wikilink")）
+  - 大隈二喜（聲優：[倉田まりや](https://zh.wikipedia.org/wiki/倉田まりや "wikilink")）
     SHINY DAYS登場的新角色，世界和剎那的青梅竹馬。
 
 <!-- end list -->
 
-  - 橋本織葉（聲優：[雙海葉月](../Page/雙海葉月.md "wikilink")）
+  - 橋本織葉（聲優：[雙海葉月](https://zh.wikipedia.org/wiki/雙海葉月 "wikilink")）
     Radish的工讀生。個性率直。以「因為很寂寞」為由，在打工結束後經常和男朋友碰面。
 
 <!-- end list -->
 
-  - 村山野杏（聲優：[原由葉](../Page/原由葉.md "wikilink")）
+  - 村山野杏（聲優：[原由葉](https://zh.wikipedia.org/wiki/原由葉 "wikilink")）
     Radish的工讀生。大方的待人態度雖然很不錯，但是嘴還滿毒的。
 
 <!-- end list -->
 
-  - 伊藤止（聲優：[南波華月](../Page/南波華月.md "wikilink")）
+  - 伊藤止（聲優：[南波華月](https://zh.wikipedia.org/wiki/南波華月 "wikilink")）
     誠的妹妹。由於雙親離婚，現在與父親同住。每個月可以和母方見面一次。因為很想念誠，預定暑假要在原巳浜和誠一起玩。
 
 <!-- end list -->
@@ -99,17 +99,17 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 
 <!-- end list -->
 
-  - 清浦舞（聲優：[夏海萌](../Page/夏海萌.md "wikilink")）
+  - 清浦舞（聲優：[夏海萌](https://zh.wikipedia.org/wiki/夏海萌 "wikilink")）
     刹那的母親，和世界的媽媽-{踊}-子是親戚也是競爭對手。「透過女兒向-{踊}-子施加壓力」這種事也曾做過，有著舉止很孩子氣的部分。在總社擔任重要職位的粉領階級。最近好像有點在節食。
 
 <!-- end list -->
 
-  - 桂真奈美（聲優：[鈴美巴](../Page/鈴美巴.md "wikilink")）
+  - 桂真奈美（聲優：[鈴美巴](https://zh.wikipedia.org/wiki/鈴美巴 "wikilink")）
     言葉和心的母親。擔任經營顧問，訪問踴子擔任店長的Radish視察。桂家是有錢人，因為自[丈夫她的買賣成功了](../Page/丈夫.md "wikilink")。與舞和-{踊}-子從很早以前有親密的交往。
 
 <!-- end list -->
 
-  - 間瞬（聲優：[樋口宏澄](../Page/樋口宏澄.md "wikilink")）
+  - 間瞬（聲優：[樋口宏澄](https://zh.wikipedia.org/wiki/樋口宏澄 "wikilink")）
     剎那和世界的[父親](../Page/父親.md "wikilink")。前任的Radish店長，在-{踊}-子和舞到巴黎出差的期間，成為代理店長再次回來到店內工作。
 
 ## 主題歌
@@ -120,13 +120,13 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 
   - 片頭曲：『Summer Days』\[7\]
       -
-        作詞/作曲：YURIA　編曲：鈴木マサキ　歌：[YURIA](../Page/YURIA.md "wikilink")
+        作詞/作曲：YURIA　編曲：鈴木マサキ　歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
   - 片尾曲：『』
       -
-        作詞/作曲：yozuca\*　編曲：鈴木マサキ　歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+        作詞/作曲：yozuca\*　編曲：鈴木マサキ　歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
   - 片尾曲：『』
       -
-        作詞/作曲：栗林美奈實　編曲：澤野広之　歌：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+        作詞/作曲：栗林美奈實　編曲：澤野広之　歌：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 <!-- end list -->
 
   -
-    作詞/歌：[いとうかなこ](../Page/いとうかなこ.md "wikilink")　作曲/編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
+    作詞/歌：[いとうかなこ](https://zh.wikipedia.org/wiki/いとうかなこ "wikilink")　作曲/編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
 
 <!-- end list -->
 
@@ -148,7 +148,7 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 <!-- end list -->
 
   -
-    作詞/歌：いとうかなこ　作曲/編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
+    作詞/歌：いとうかなこ　作曲/編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
 
 <!-- end list -->
 
@@ -157,11 +157,11 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 <!-- end list -->
 
   -
-    作詞：[すーぱーそに子](../Page/すーぱーそに子.md "wikilink")　作曲：[村上正芳](../Page/村上正芳.md "wikilink")　編曲：[第一宇宙速度](../Page/すーぱーそに子.md "wikilink")&村上正芳　歌：第一宇宙速度
+    作詞：[すーぱーそに子](https://zh.wikipedia.org/wiki/すーぱーそに子 "wikilink")　作曲：[村上正芳](https://zh.wikipedia.org/wiki/村上正芳 "wikilink")　編曲：[第一宇宙速度](https://zh.wikipedia.org/wiki/すーぱーそに子 "wikilink")&村上正芳　歌：第一宇宙速度
 
 ## 工作人員
 
-  - 计划／剧本／制作总指挥：[メイザーズぬまきち](../Page/大沼明夫.md "wikilink")
+  - 计划／剧本／制作总指挥：[メイザーズぬまきち](https://zh.wikipedia.org/wiki/大沼明夫 "wikilink")
   - 人物设计／总作画监督：後藤潤二
   - 程式：向日葵正
 
@@ -195,12 +195,12 @@ disc意義](../Page/Fan_disc.md "wikilink")。但根據[Overflow表示](../Page/
 ## 開發
 
 《Summer
-Days》原本預定在2006年1月發售\[15\]，但是因為製作上的問題而延期到6月23日。\[16\]在發售初回版的時候因為某些18禁場景沒有打碼違反[電腦軟體倫理機構的規定](../Page/電腦軟體倫理機構.md "wikilink")，在7月7日進行自主回收下架遊戲\[17\]\[18\]，使得銷量也沒能順利大規模成功。除此之外遊戲在運行過程中遇到許多BUG問題，官方從6月22日起不斷發佈修正檔，修正檔從1.01A發佈至1.09B版，累計檔案大小達到前所未聞的2.3G\[19\]，但BUG問題依然不斷讓0verflow苦不堪言，也導致當時Overflow有一半的社員離職\[20\]，最後在2006年10月27日發售修正後的新裝版，但依舊還有些許問題並發佈修正檔2.01版。
+Days》原本預定在2006年1月發售\[15\]，但是因為製作上的問題而延期到6月23日。\[16\]在發售初回版的時候因為某些18禁場景沒有打碼違反[電腦軟體倫理機構的規定](https://zh.wikipedia.org/wiki/電腦軟體倫理機構 "wikilink")，在7月7日進行自主回收下架遊戲\[17\]\[18\]，使得銷量也沒能順利大規模成功。除此之外遊戲在運行過程中遇到許多BUG問題，官方從6月22日起不斷發佈修正檔，修正檔從1.01A發佈至1.09B版，累計檔案大小達到前所未聞的2.3G\[19\]，但BUG問題依然不斷讓0verflow苦不堪言，也導致當時Overflow有一半的社員離職\[20\]，最後在2006年10月27日發售修正後的新裝版，但依舊還有些許問題並發佈修正檔2.01版。
 
 ## 評價
 
 根據有限公司Peaks曾發行的《[PC
-NEWS](../Page/PC_NEWS.md "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Summer
+NEWS](https://zh.wikipedia.org/wiki/PC_NEWS "wikilink")》所公佈的日本全國美少女遊戲銷售量排行榜，《Summer
 Days》於首次銷售隨即成為排行榜第1名\[21\]；七月上旬排行榜第7名。\[22\]另外在Getchu.com舉辦的2006年美少女遊戲排名中獲得映像部門第10名。\[23\]
 
 ## 參考來源

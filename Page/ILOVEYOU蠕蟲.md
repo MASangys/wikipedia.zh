@@ -16,18 +16,18 @@ worm**，是一個以[VBScript撰寫的](../Page/VBScript.md "wikilink")[電腦�
 
 ## 影響
 
-這個特殊的[惡意軟體造成了世界](../Page/惡意軟體.md "wikilink")55億美元的損失，使它成為史上最強的蠕蟲。此蠕蟲覆寫受感染電腦上的重要檔案，如音樂、多媒體與其他檔案。它也對受害者的郵件通訊列表上的每個朋友寄出病毒信，此蠕蟲僅感染執行[Microsoft
-Windows作業系統的電腦](../Page/Microsoft_Windows.md "wikilink")。
+這個特殊的[惡意軟體造成了世界](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")55億美元的損失，使它成為史上最強的蠕蟲。此蠕蟲覆寫受感染電腦上的重要檔案，如音樂、多媒體與其他檔案。它也對受害者的郵件通訊列表上的每個朋友寄出病毒信，此蠕蟲僅感染執行[Microsoft
+Windows作業系統的電腦](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ### 創作者
 
 此蠕蟲據信是由Michael
-Buen所寫，而此蠕蟲所用的Barok[特洛伊木馬則是由](../Page/特洛伊木马_\(电脑\).md "wikilink")[菲律賓大學生Onel](../Page/菲律賓.md "wikilink")
+Buen所寫，而此蠕蟲所用的Barok[特洛伊木馬則是由](../Page/特洛伊木马_\(电脑\).md "wikilink")[菲律賓大學生Onel](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")
 A de Guzman所寫。
 
 ## 蠕蟲結構
 
-本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](../Page/Microsoft.md "wikilink")
+本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 Visual Basic
 Scripting寫成，並需要受害者親自啟動此檔案。它也會在Windows登錄編輯程式增加一些注册表键（registry
 key），使得此惡意程式可以在電腦每次開機時隨之啟動。
@@ -91,13 +91,13 @@ Outlook通訊名單上的使用者](../Page/Microsoft_Outlook.md "wikilink")，�
 ## 法律責任
 
 由於菲律賓在2000年8月21日尚未存在散佈電腦病毒相關法令，因此檢察官放棄對Onel A. de
-Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼與銀行交易的犯罪。而菲律賓電子商務法（公佈編號8792）於2000年6月14日通過，制訂了電子犯罪的罰則。根據此法，非法散佈電腦病毒或觸犯網路犯罪（包括[盜版與破解](../Page/盜版.md "wikilink")）可處以至少十萬[比索](../Page/比索.md "wikilink")（約2350美元），至多與造成損害相當的罰款，並處以六個月以上三年以下有期徒刑。
+Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼與銀行交易的犯罪。而菲律賓電子商務法（公佈編號8792）於2000年6月14日通過，制訂了電子犯罪的罰則。根據此法，非法散佈電腦病毒或觸犯網路犯罪（包括[盜版與破解](https://zh.wikipedia.org/wiki/盜版 "wikilink")）可處以至少十萬[比索](https://zh.wikipedia.org/wiki/比索 "wikilink")（約2350美元），至多與造成損害相當的罰款，並處以六個月以上三年以下有期徒刑。
 
 ## 參閱
 
   - [知名病毒及蠕蟲的歷史年表](../Page/知名病毒及蠕蟲的歷史年表.md "wikilink")
-  - [紅色警戒病毒](../Page/紅色警戒病毒.md "wikilink")
-  - [衝擊波病毒](../Page/衝擊波病毒.md "wikilink")
+  - [紅色警戒病毒](https://zh.wikipedia.org/wiki/紅色警戒病毒 "wikilink")
+  - [衝擊波病毒](https://zh.wikipedia.org/wiki/衝擊波病毒 "wikilink")
 
 ## 外部連結
 
@@ -108,7 +108,8 @@ Guzman的電腦病毒犯罪偵察，轉而偵察其非法使用信用卡密碼�
   - [描述頁](https://web.archive.org/web/20061208172637/http://www3.ca.com/securityadvisor/virusinfo/virus.aspx?id=9024)
 
   - [ILOVEYOU作者：「毫不抱歉」](http://www.theregister.co.uk/2005/05/11/love_bug_author/)由
-    [The Register報導](../Page/The_Register.md "wikilink")
+    [The
+    Register報導](https://zh.wikipedia.org/wiki/The_Register "wikilink")
 
   - ["ILOVEYOU"郵件病毒顛覆企業只重視單機防毒的傳統觀念](https://imperia.trendmicro-europe.com/tw/about/news/pr/article/20070920055735.html)
 

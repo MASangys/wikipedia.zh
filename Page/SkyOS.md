@@ -1,6 +1,6 @@
 **SkyOS** 是一个[操作系统](../Page/操作系统.md "wikilink")，由[Robert
-Szeleney](../Page/Robert_Szeleney.md "wikilink")
-开发。它开始於1996年，但是在版本5.0时完全重新改写。现在软件还在开发和测试中。SkyOS原先為[自由軟體](../Page/自由軟體.md "wikilink")，使用大多数的开源软件，但是后来变成[私有](../Page/專有軟體.md "wikilink")。作者已于2009年1月30日宣布暂停开发。
+Szeleney](https://zh.wikipedia.org/wiki/Robert_Szeleney "wikilink")
+开发。它开始於1996年，但是在版本5.0时完全重新改写。现在软件还在开发和测试中。SkyOS原先為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用大多数的开源软件，但是后来变成[私有](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")。作者已于2009年1月30日宣布暂停开发。
 
 上个月，Szeleney突然将版本号6947的 SkyOS 5.0 beta免费放出下载，提供了一个用户名和序列号（user: public /
 serial:

@@ -1,8 +1,8 @@
-**LSAT**（），即[法學院入學](../Page/法學院.md "wikilink")[考試](../Page/考試.md "wikilink")。它是由位於[美國](../Page/美國.md "wikilink")[賓西法尼亞州的](../Page/賓西法尼亞州.md "wikilink")[法學院入學委員會](../Page/法學院入學委員會.md "wikilink")（）負責主辦的法學院人學資格考試。\[1\]幾乎所有的美國和加拿大法學院都要求申請人參加LSAT考試。LSAT考試共有五個部分（包含一個不記分的供入學委員會評估用的評測部分），包括三個方面的內容，每部分時間為35分鐘，另加30分鐘的寫作。
+**LSAT**（），即[法學院入學](https://zh.wikipedia.org/wiki/法學院 "wikilink")[考試](https://zh.wikipedia.org/wiki/考試 "wikilink")。它是由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[賓西法尼亞州的](https://zh.wikipedia.org/wiki/賓西法尼亞州 "wikilink")[法學院入學委員會](https://zh.wikipedia.org/wiki/法學院入學委員會 "wikilink")（）負責主辦的法學院人學資格考試。\[1\]幾乎所有的美國和加拿大法學院都要求申請人參加LSAT考試。LSAT考試共有五個部分（包含一個不記分的供入學委員會評估用的評測部分），包括三個方面的內容，每部分時間為35分鐘，另加30分鐘的寫作。
 
 ## LSAT考試時間及評價標準
 
-LSAT考試每年舉辦四次，分別在二月、六月、十月及十二月。[中國大陸地區六月和十二月在](../Page/中國.md "wikilink")[北京大學有固定考試](../Page/北京大學.md "wikilink")。部分中國大陸地區考生會選擇在二月、十月時到香港參加在那裡舉辦的LSAT考試。
+LSAT考試每年舉辦四次，分別在二月、六月、十月及十二月。[中國大陸地區六月和十二月在](../Page/中國.md "wikilink")[北京大學有固定考試](https://zh.wikipedia.org/wiki/北京大學 "wikilink")。部分中國大陸地區考生會選擇在二月、十月時到香港參加在那裡舉辦的LSAT考試。
 
 LSAT考試滿分為180分，最低分為120分，其計算方法是根據選擇的正確的答案的數目來確定。選對25個左右，分數大概為130分；選對39個左右，分數大概為140分；選對55個，分數大致為150分；選對72個，分數為160；選對87個，分數為170分；選對98個以上，分數為滿分180分。一般來說，排名前14的法學院要求成績都在170分以上；排名前25的法學要求成績在160分以上。考試成績一般在考後五週左右由主辦機構寄出，LSAT成績在5年內有效。
 
@@ -22,7 +22,7 @@ LSAT考試的註冊費用從2009年六月起是$132，延遲註冊需加$64[美�
 ## LSAT邏輯推理
 
 邏輯推理試題共有兩個部分，每部分有 24-26道試題。一般每道題都有一篇小的短文或對話，然後針對此短文或對話提出 問題。
-短文或對話涉及的範圍很廣，包括[哲學](../Page/哲學.md "wikilink")、[文學](../Page/文學.md "wikilink")、[政治](../Page/政治.md "wikilink")、[科技](../Page/科技.md "wikilink")、[藝術](../Page/藝術.md "wikilink")、[歷史](../Page/歷史.md "wikilink")、[體育等等](../Page/體育.md "wikilink")。
+短文或對話涉及的範圍很廣，包括[哲學](https://zh.wikipedia.org/wiki/哲學 "wikilink")、[文學](../Page/文學.md "wikilink")、[政治](../Page/政治.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")、[體育等等](https://zh.wikipedia.org/wiki/體育 "wikilink")。
 邏輯推理試題主要測試考生的以下能力 ，
 
   - 確定中心思想

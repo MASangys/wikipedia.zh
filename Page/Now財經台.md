@@ -1,15 +1,15 @@
 [HK_Telecom_House_201612.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_201612.jpg "fig:HK_Telecom_House_201612.jpg")
-**now財經台**（第333頻道），是香港[now寬頻電視首個自製的電視頻道](../Page/now寬頻電視.md "wikilink")，於2006年3月20日09:00啟播，同日10:00正式開台。now財經台是24小時財經新聞頻道，其直播新聞中心位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](../Page/電訊大廈.md "wikilink")，亦於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")。每個港股交易日交易時段直播，緊貼香港股市情況，該台其中一個特點是設有全港首創之電視報價服務，觀眾只需透過遙控器，便可在電視螢幕得到一小時延遲金股匯市免費報價服務，同時在2006年8月3日起，觀眾亦可付費訂購即時報價服務；另外由2006年9月6日起，觀眾更可付費訂購now財經台自選服務，隨時收看該-{台}-的精選節目《大鳴大放》、《樓市每日睇》及《環球金融快線》，平日亦設有新聞、財經、時事討論節目等，由2006年12月9日起，假日全日增設新聞報導，並重播部分精選與[港台的電視節目](../Page/香港電台.md "wikilink")。而在交易時段期間的新聞提要，則由2007年5月2日起全面取消。2007年10月24日，[now新聞台啟播](../Page/now新聞台.md "wikilink")，now財經台播放的新聞報道時段改與now新聞台聯播，並開始播放在財經台單獨播放的《now財經新聞》。2010年9月20日，now財經台進行改革（主要是於now財經台直播室的玻璃窗加上磨紗），連帶[now新聞台的資料列顯示亦同時出現改變](../Page/now新聞台.md "wikilink")，改革初期曾錯誤將財經節目的結尾改成「now新聞台製作」。
+**now財經台**（第333頻道），是香港[now寬頻電視首個自製的電視頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2006年3月20日09:00啟播，同日10:00正式開台。now財經台是24小時財經新聞頻道，其直播新聞中心位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，亦於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")。每個港股交易日交易時段直播，緊貼香港股市情況，該台其中一個特點是設有全港首創之電視報價服務，觀眾只需透過遙控器，便可在電視螢幕得到一小時延遲金股匯市免費報價服務，同時在2006年8月3日起，觀眾亦可付費訂購即時報價服務；另外由2006年9月6日起，觀眾更可付費訂購now財經台自選服務，隨時收看該-{台}-的精選節目《大鳴大放》、《樓市每日睇》及《環球金融快線》，平日亦設有新聞、財經、時事討論節目等，由2006年12月9日起，假日全日增設新聞報導，並重播部分精選與[港台的電視節目](../Page/香港電台.md "wikilink")。而在交易時段期間的新聞提要，則由2007年5月2日起全面取消。2007年10月24日，[now新聞台啟播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，now財經台播放的新聞報道時段改與now新聞台聯播，並開始播放在財經台單獨播放的《now財經新聞》。2010年9月20日，now財經台進行改革（主要是於now財經台直播室的玻璃窗加上磨紗），連帶[now新聞台的資料列顯示亦同時出現改變](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，改革初期曾錯誤將財經節目的結尾改成「now新聞台製作」。
 
-頻道之競爭對手為[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](../Page/無綫電視.md "wikilink")[無綫財經·資訊台和交易時段內的](../Page/無綫財經·資訊台.md "wikilink")[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
+頻道之競爭對手為[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")、[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[無綫財經·資訊台和交易時段內的](https://zh.wikipedia.org/wiki/無綫財經·資訊台 "wikilink")[奇妙電視](../Page/奇妙電視.md "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
 
-此台的所有電視和拍攝畫面，使用[Sony](../Page/Sony.md "wikilink")
+此台的所有電視和拍攝畫面，使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
 [XDCAM拍攝並以](../Page/XDCAM.md "wikilink")[Professional
-Disc媒介儲存](../Page/Professional_Disc.md "wikilink")，雖然XDCAM支援高清製作，但now新聞及財經台只製作標清節目及高清廣告於其他高清台作廣告用。
+Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援高清製作，但now新聞及財經台只製作標清節目及高清廣告於其他高清台作廣告用。
 
 在2007年8月1日開始的每個港股交易日，[電訊盈科提供了now財經台免費節目試看服務](../Page/電訊盈科.md "wikilink")。觀眾同時可以透過衛星天線接收亞洲衛星3S號C-band，收看now衛星台，在每個港股交易日於08:30-24:00時段播放now財經台的節目（約延遲2分鐘）。
 
-2015年11月30日起，now財經台改以16:9標清格式廣播\[1\]，亦在財經新聞片段加上字幕，但無跟隨[now直播台](../Page/now直播台.md "wikilink")（331頻道）及[now新聞台](../Page/now新聞台.md "wikilink")（332頻道）成為免費頻道。2016年4月6日起，now財經台更從「一站式套餐」中被剔除。
+2015年11月30日起，now財經台改以16:9標清格式廣播\[1\]，亦在財經新聞片段加上字幕，但無跟隨[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")（331頻道）及[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")（332頻道）成為免費頻道。2016年4月6日起，now財經台更從「一站式套餐」中被剔除。
 
 2017年11月起，為慶祝now新聞台啟播十週年，新聞台及財經台辦公室開始裝修及改變樓層，包括會提供高清廣播，財經台使用新直播室，及改變財經台舊直播室樓層成now新聞中心使用。
 
@@ -51,8 +51,8 @@ Alert」。
 
   - 節目主持：不固定
   - 評論員：不固定
-  - 記者：[馬子豪](../Page/馬子豪.md "wikilink")／[韓荃](../Page/韓荃.md "wikilink")／[黃思行](../Page/黃思行.md "wikilink")
-      - 上午節目第一部分先由主持、評論員及記者討論當日財經話題及由記者讀出財經焦點，第二部分為嘉賓[馬鐵穎的](../Page/馬鐵穎.md "wikilink")《神州內望》環節，第三部分主持會讀出大行報告，第四及第五部分均為《醒晨推介》的環節，由嘉賓推介心水股份。
+  - 記者：[馬子豪](https://zh.wikipedia.org/wiki/馬子豪 "wikilink")／[韓荃](https://zh.wikipedia.org/wiki/韓荃 "wikilink")／[黃思行](https://zh.wikipedia.org/wiki/黃思行 "wikilink")
+      - 上午節目第一部分先由主持、評論員及記者討論當日財經話題及由記者讀出財經焦點，第二部分為嘉賓[馬鐵穎的](https://zh.wikipedia.org/wiki/馬鐵穎 "wikilink")《神州內望》環節，第三部分主持會讀出大行報告，第四及第五部分均為《醒晨推介》的環節，由嘉賓推介心水股份。
 
 ### 《交易時段》（）
 
@@ -67,9 +67,9 @@ Alert」。
 <!-- end list -->
 
   - 節目主持：不固定
-  - 評論員：[趙善真](../Page/趙善真.md "wikilink")（09:30-12:00）
+  - 評論員：[趙善真](https://zh.wikipedia.org/wiki/趙善真 "wikilink")（09:30-12:00）
   - 嘉賓主持：不固定（14:40-14:50、15:50-16:00）
-  - 駐港交所記者：[now寬頻電視財經記者](../Page/now寬頻電視新聞.md "wikilink")／[新聞主播](../Page/新聞主播.md "wikilink")
+  - 駐港交所記者：[now寬頻電視財經記者](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")／[新聞主播](../Page/新聞主播.md "wikilink")
   - 駐上海記者：財經記者（上午《滬股動向》與之聯絡）
   - 《股市脈搏》環節主持：新聞主播
   - 《槓桿致勝》環節主持：新聞主播
@@ -161,8 +161,8 @@ Alert」。
 
 <!-- end list -->
 
-  - 節目主持：[徐蕙儀](../Page/徐蕙儀.md "wikilink")／[黃凱廸](../Page/黃凱廸.md "wikilink")／[饒慧珊](../Page/饒慧珊.md "wikilink")／[鄭瑩](../Page/鄭瑩.md "wikilink")
-  - 嘉賓主持：（星期一、二、四）不定／（星期三）[羅尚沛](../Page/羅尚沛.md "wikilink")／（星期五）[沈慶洪](../Page/沈慶洪.md "wikilink")
+  - 節目主持：[徐蕙儀](https://zh.wikipedia.org/wiki/徐蕙儀 "wikilink")／[黃凱廸](https://zh.wikipedia.org/wiki/黃凱廸 "wikilink")／[饒慧珊](https://zh.wikipedia.org/wiki/饒慧珊 "wikilink")／[鄭瑩](https://zh.wikipedia.org/wiki/鄭瑩 "wikilink")
+  - 嘉賓主持：（星期一、二、四）不定／（星期三）[羅尚沛](https://zh.wikipedia.org/wiki/羅尚沛 "wikilink")／（星期五）[沈慶洪](https://zh.wikipedia.org/wiki/沈慶洪 "wikilink")
 
 節目網站：[now財經網站－《港股今日睇》精華重溫](http://finance.now.com/analysis/study.php?topicId=2)
 
@@ -176,8 +176,8 @@ Alert」。
 
 <!-- end list -->
 
-  - 節目主持：[劉銘欣](../Page/劉銘欣.md "wikilink")／[饒慧珊](../Page/饒慧珊.md "wikilink")／[陳潁楓](../Page/陳潁楓.md "wikilink")／[黃浩霖](../Page/黃浩霖.md "wikilink")／[陳思銘](../Page/陳思銘.md "wikilink")
-  - 嘉賓主持：（星期一）[陳俊文](../Page/陳俊文.md "wikilink")／（隔周二）[陳鳳翔](../Page/陳鳳翔.md "wikilink")／（隔周二）[王華](../Page/王華.md "wikilink")／（隔周三）[何文俊](../Page/何文俊.md "wikilink")／（隔周三）[羅家聰](../Page/羅家聰.md "wikilink")／（星期四）[黃元山](../Page/黃元山.md "wikilink")／（星期五）[梁偉民](../Page/梁偉民.md "wikilink")
+  - 節目主持：[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[饒慧珊](https://zh.wikipedia.org/wiki/饒慧珊 "wikilink")／[陳潁楓](https://zh.wikipedia.org/wiki/陳潁楓 "wikilink")／[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")／[陳思銘](https://zh.wikipedia.org/wiki/陳思銘 "wikilink")
+  - 嘉賓主持：（星期一）[陳俊文](https://zh.wikipedia.org/wiki/陳俊文 "wikilink")／（隔周二）[陳鳳翔](https://zh.wikipedia.org/wiki/陳鳳翔 "wikilink")／（隔周二）[王華](https://zh.wikipedia.org/wiki/王華 "wikilink")／（隔周三）[何文俊](https://zh.wikipedia.org/wiki/何文俊 "wikilink")／（隔周三）[羅家聰](https://zh.wikipedia.org/wiki/羅家聰 "wikilink")／（星期四）[黃元山](../Page/黃元山.md "wikilink")／（星期五）[梁偉民](https://zh.wikipedia.org/wiki/梁偉民 "wikilink")
   - 環節節目：《環球FlipBoard》（播放時間：星期一至四，第三部分）／《Host View》（播放時間：星期五，第三部分）
 
 節目網站：[now財經網站－《環球金融快線》精華重溫](http://finance.now.com/analysis/study.php?topicId=7)
@@ -197,7 +197,7 @@ Alert」。
 
 <!-- end list -->
 
-  - 《最爆成交》環節記者：[周駿易](../Page/周駿易.md "wikilink")／[關靜儀](../Page/關靜儀.md "wikilink")／[李珈雯](../Page/李珈雯.md "wikilink")／[黃靜妍](../Page/黃靜妍.md "wikilink")
+  - 《最爆成交》環節記者：[周駿易](https://zh.wikipedia.org/wiki/周駿易 "wikilink")／[關靜儀](https://zh.wikipedia.org/wiki/關靜儀 "wikilink")／[李珈雯](https://zh.wikipedia.org/wiki/李珈雯 "wikilink")／[黃靜妍](https://zh.wikipedia.org/wiki/黃靜妍 "wikilink")
   - 節目安排：
       - （星期一）《樓市熱話》、《[置業攻略](https://finance.now.com/analysis/study.php?topicId=59&c=126)》，《[示位Show](https://finance.now.com/analysis/study.php?topicId=57&c=126)》、《放盤速遞》
       - （星期二）《樓市熱話》、《最爆成交》，《[樓計飾](https://finance.now.com/analysis/study.php?topicId=56&c=126)》、《放盤速遞》
@@ -210,7 +210,7 @@ Alert」。
 
   -
     《理財有方》是一個全方位個人理財節目，不單只介紹最新及最熱門的投資產品及服務，更會邀請城中著名理財專家，每集提供各項理財投資的實用知識，滿足投資者的不同需要。
-    節目由[康宏金融集團呈獻](../Page/康宏金融集團.md "wikilink")。
+    節目由[康宏金融集團呈獻](https://zh.wikipedia.org/wiki/康宏金融集團 "wikilink")。
     播放時間：（公眾假期改播新聞）
     逢星期二港股交易日19:20-19:30（當日20:00-20:20、20:50-21:00、21:20-21:30、23:20-23:30、翌日01:20-01:30、01:50-02:00、02:20-02:30、03:20-03:30、03:50-04:00、04:20-04:30、04:50-05:00、05:20-05:30、05:50-06:00、12:20-12:30及16:50-17:00重播，即當日《now財經新聞》後、《樓市每日睇》後、翌日《午間股評》後及《收市檢討》後播出；星期六09:20-09:30、14:20-14:30、星期日11:20-11:30及11:50-12:00重播）
 
@@ -225,14 +225,14 @@ Alert」。
 ### 《瑞信輪證追蹤》
 
   -
-    節目主持：[周駿易](../Page/周駿易.md "wikilink")／[連綽瑤](../Page/連綽瑤.md "wikilink")／[李珈雯](../Page/李珈雯.md "wikilink")／[黃靜妍](../Page/黃靜妍.md "wikilink")
+    節目主持：[周駿易](https://zh.wikipedia.org/wiki/周駿易 "wikilink")／[連綽瑤](https://zh.wikipedia.org/wiki/連綽瑤 "wikilink")／[李珈雯](https://zh.wikipedia.org/wiki/李珈雯 "wikilink")／[黃靜妍](https://zh.wikipedia.org/wiki/黃靜妍 "wikilink")
     播放時間：逢港股交易日10:50-11:00播出。
 
 ### 《數字．你懂的》
 
   -
     每集用一個數字，拆解財經話題。
-    節目主持：[馬子豪](../Page/馬子豪.md "wikilink")／[黃思行](../Page/黃思行.md "wikilink")／[李碧珊](../Page/李碧珊.md "wikilink")
+    節目主持：[馬子豪](https://zh.wikipedia.org/wiki/馬子豪 "wikilink")／[黃思行](https://zh.wikipedia.org/wiki/黃思行 "wikilink")／[李碧珊](https://zh.wikipedia.org/wiki/李碧珊 "wikilink")
     播放時間：（公眾假期改播新聞）
     逢星期三港股交易日19:20-19:30（當日20:00-20:20、20:50-21:00、21:20-21:30、23:20-23:30、翌日01:20-01:30、01:50-02:00、02:20-02:30、03:20-03:30、03:50-04:00、04:20-04:30、04:50-05:00、05:20-05:30、05:50-06:00、12:20-12:30及16:50-17:00重播，即當日《now財經新聞》後、《樓市每日睇》後、翌日《午間股評》後及《收市檢討》後播出；星期日16:50-17:00及星期一00:50-01:00重播）
 
@@ -267,20 +267,20 @@ Alert」。
 
 星期一至五公眾假期播放時間不在以下列出。
 
-  - 《[now早晨](../Page/now早晨.md "wikilink")》：港股交易日06:00-08:30；星期六及日06:00-09:00。
-  - 《[now午間新聞](../Page/now午間新聞.md "wikilink")》：港股交易日12:30-13:00；星期六及日12:00-14:00。
-  - 《[now新聞報道](../Page/now新聞報道.md "wikilink")》：港股交易日17:00-17:25、17:30-17:55、18:00-18:25、18:30-19:00及19:30-20:00；
+  - 《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》：港股交易日06:00-08:30；星期六及日06:00-09:00。
+  - 《[now午間新聞](https://zh.wikipedia.org/wiki/now午間新聞 "wikilink")》：港股交易日12:30-13:00；星期六及日12:00-14:00。
+  - 《[now新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》：港股交易日17:00-17:25、17:30-17:55、18:00-18:25、18:30-19:00及19:30-20:00；
     星期六09:00-09:20、10:00-10:20、10:30-10:50、11:00-11:20、11:30-11:50、14:00-14:20、15:00-16:20、16:30-16:50、17:00-17:20、18:00-18:30、19:00-20:30、21:00-22:30；
     星期日09:00-09:20、10:00-10:20、10:30-10:50、11:00-11:20、11:30-11:50、14:00-14:20、15:00-16:00、17:00-17:20、18:00-18:30、19:00-20:30、21:00-22:30。
   - 《環球薈報》：港股交易日17:25-17:30及17:55-18:00。
-  - 《[now深宵新聞](../Page/now深宵新聞.md "wikilink")》：星期六23:00-00:00、翌日00:00-01:30、02:00-02:30、03:00-03:30、04:00-04:30、05:00-06:00；
+  - 《[now深宵新聞](https://zh.wikipedia.org/wiki/now深宵新聞 "wikilink")》：星期六23:00-00:00、翌日00:00-01:30、02:00-02:30、03:00-03:30、04:00-04:30、05:00-06:00；
     星期日23:00-23:30、翌日01:00-01:30、02:00-02:30、03:00-03:30、04:00-04:30、05:00-05:30。
   - 《新聞智庫》：星期六13:25-13:30、13:55-14:00、16:25-16:30、16:55-17:00；星期日17:25-17:30、17:55-18:00。
   - 《氣象冷知識》：星期六及日17:20-17:30。
 
 ## 時間表
 
-  - <span style="color: green;">**綠字**</span>是與[now新聞台聯播](../Page/now新聞台.md "wikilink")；
+  - <span style="color: green;">**綠字**</span>是與[now新聞台聯播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")；
     <span style="color: red;">**紅字**</span>代表獨立播放時段，
     而<span style="color: purple;">**紫字**</span>則代表[香港電台或自製資訊節目時段](../Page/香港電台.md "wikilink")。
 
@@ -304,7 +304,7 @@ Alert」。
 </tr>
 <tr class="even">
 <td><p>06:00</p></td>
-<td><p><span style="color: green;">直播《<a href="../Page/now早晨.md" title="wikilink">now早晨</a>》</span></p></td>
+<td><p><span style="color: green;">直播《<a href="https://zh.wikipedia.org/wiki/now早晨" title="wikilink">now早晨</a>》</span></p></td>
 <td><p><span style="color: green;">直播／錄播《now早晨》</span></p></td>
 <td><p><span style="color: green;">直播／錄播《now早晨》</span></p></td>
 <td></td>
@@ -334,7 +334,7 @@ now財經台直播室（右方）<br />
 </tr>
 <tr class="even">
 <td><p>09:00</p></td>
-<td><p><span style="color: green;">直播《<a href="../Page/now新聞報道.md" title="wikilink">now新聞報道</a>》</span></p></td>
+<td><p><span style="color: green;">直播《<a href="https://zh.wikipedia.org/wiki/now新聞報道" title="wikilink">now新聞報道</a>》</span></p></td>
 <td><p><span style="color: green;">直播《now新聞報道》</span></p></td>
 <td></td>
 <td></td>
@@ -465,7 +465,7 @@ now財經台直播室（右方）<br />
 附註：如果當日港股下午休市，<br />
 12:50-17:00改為與now新聞台聯播節目<br />
 <br />
-附註1：如《城市論壇》暫停播映，改為播映<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A當日</a>12:00節目<br />
+附註1：如《城市論壇》暫停播映，改為播映<a href="https://zh.wikipedia.org/wiki/港台電視31、31A" title="wikilink">港台電視31、31A當日</a>12:00節目<br />
 <br />
 附註2：立法會暑期休會期間，《議事論事》暫停播映，改為重播其他港台節目</p></td>
 <td></td>
@@ -612,7 +612,7 @@ now財經台副直播室（中間大屏幕）<br />
 <br />
 附註 (1)：<br />
 暑假期間，星期六19:00-20:00<br />
-改播《<a href="../Page/與CEO對話.md" title="wikilink">與CEO對話</a>》（香港電台）<br />
+改播《<a href="https://zh.wikipedia.org/wiki/與CEO對話" title="wikilink">與CEO對話</a>》（香港電台）<br />
 <br />
 附註 (2)：<br />
 如港股因風暴或暴雨關係而全日休市，<br />
@@ -726,7 +726,7 @@ now財經台副直播室（中間大屏幕）<br />
 <tr class="even">
 <td><p>23:00</p></td>
 <td><p><span style="color: red;">錄播《now財經新聞》</span></p></td>
-<td><p><span style="color: green;">直播《<a href="../Page/now深宵新聞.md" title="wikilink">now深宵新聞</a>》</span></p></td>
+<td><p><span style="color: green;">直播《<a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">now深宵新聞</a>》</span></p></td>
 <td></td>
 <td></td>
 <td></td>

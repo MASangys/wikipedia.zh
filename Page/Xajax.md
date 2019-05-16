@@ -1,17 +1,18 @@
-**xajax**是一套利用[PHP的](../Page/PHP.md "wikilink")[開源](../Page/開源.md "wikilink")[AJAX框架](../Page/AJAX.md "wikilink")。目前最新穩定版本為0.5，同時亦推出0.6
+**xajax**是一套利用[PHP的](../Page/PHP.md "wikilink")[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[AJAX框架](../Page/AJAX.md "wikilink")。目前最新穩定版本為0.5，同時亦推出0.6
 Beta 1版。
 
 ## 系統需求
 
-1.  伺服端：PHP 4.3.X 或是 PHP5；[Apache](../Page/Apache.md "wikilink") 或是
-    [IIS](../Page/IIS.md "wikilink")
+1.  伺服端：PHP 4.3.X 或是
+    PHP5；[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") 或是
+    [IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")
 2.  客戶端：[Internet Explorer](../Page/Internet_Explorer.md "wikilink")
-    6、[Firefox](../Page/Firefox.md "wikilink")、[Opera](../Page/Opera.md "wikilink")
+    6、[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
     8.0+（其他瀏覽器亦有可能得以運行）
 
 ## 概要
 
-不同於其他的AJAX框架，xajax讓使用者只需使用PHP，無需深厚的[javascript基礎](../Page/javascript.md "wikilink")，即可寫出一個簡單易用的AJAX應用程式。
+不同於其他的AJAX框架，xajax讓使用者只需使用PHP，無需深厚的[javascript基礎](https://zh.wikipedia.org/wiki/javascript "wikilink")，即可寫出一個簡單易用的AJAX應用程式。
 
 ## 限制
 

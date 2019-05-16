@@ -8,12 +8,12 @@
 |                                 <font size="2">发行日期：                                  |
 |                                  <font size="2">分类：                                   |
 |                                 <font size="2">游戏模式：                                  |
-|                 <font size="2">[ESRB分级](../Page/ESRB.md "wikilink")：                  |
+|        <font size="2">[ESRB分级](https://zh.wikipedia.org/wiki/ESRB "wikilink")：        |
 |                                  <font size="2">平台：                                   |
 |                                  <font size="2">媒体：                                   |
 
 **合金弹头X：超级战车001**（**Metal Slug X: Super Vehicle
-001**）是[合金弹头系列的第三部](../Page/合金弹头系列.md "wikilink")[街机作品](../Page/街机.md "wikilink")，SNK於1999年在[MVS基板上推出](../Page/:en:Neo_Geo_\(system\).md "wikilink")，为[合金弹头2的加强](../Page/合金弹头2.md "wikilink")/重制版。
+001**）是[合金弹头系列的第三部](../Page/合金弹头系列.md "wikilink")[街机作品](../Page/街机.md "wikilink")，SNK於1999年在[MVS基板上推出](https://zh.wikipedia.org/wiki/:en:Neo_Geo_\(system\) "wikilink")，为[合金弹头2的加强](../Page/合金弹头2.md "wikilink")/重制版。
 
 ## 与二代的不同之处
 
@@ -36,7 +36,7 @@
   - [越南大戰系列官方網站](http://www.metalslug10th.com/)
 
 [en:Metal Slug 2\#Metal Slug
-X](../Page/en:Metal_Slug_2#Metal_Slug_X.md "wikilink")
+X](https://zh.wikipedia.org/wiki/en:Metal_Slug_2#Metal_Slug_X "wikilink")
 
 [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
 [Category:Neo-Geo游戏](https://zh.wikipedia.org/wiki/Category:Neo-Geo游戏 "wikilink")

@@ -1,24 +1,24 @@
-《**微笑PASTA**》（）是2006年三立華人電視劇週日十點檔系列的第十二部作品。全劇共17集。**Pasta**意指[義式麵食](../Page/義式麵食.md "wikilink")。於2006年5月25日開拍及於2006年7月16日在[台湾](../Page/台湾.md "wikilink")[台视播出](../Page/台湾电视公司.md "wikilink")，由[張棟樑](../Page/張棟樑.md "wikilink")、[王心凌](../Page/王心凌.md "wikilink")、[Gino](../Page/Gino.md "wikilink")、[小喬主演](../Page/趙虹喬.md "wikilink")。[香港无线电视已於](../Page/香港无线电视.md "wikilink")2007年买下在[香港的播映权](../Page/香港.md "wikilink")。接檔《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》。
+《**微笑PASTA**》（）是2006年三立華人電視劇週日十點檔系列的第十二部作品。全劇共17集。**Pasta**意指[義式麵食](https://zh.wikipedia.org/wiki/義式麵食 "wikilink")。於2006年5月25日開拍及於2006年7月16日在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[台视播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")，由[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[王心凌](../Page/王心凌.md "wikilink")、[Gino](../Page/Gino.md "wikilink")、[小喬主演](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。[香港无线电视已於](https://zh.wikipedia.org/wiki/香港无线电视 "wikilink")2007年买下在[香港的播映权](../Page/香港.md "wikilink")。接檔《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》。
 
 ## 播映時間
 
 ### 臺灣
 
-  - 2006年7月16日起在[台视於每星期日晚上九時三十分播出](../Page/台湾电视公司.md "wikilink")。2006年11月5日結束。
+  - 2006年7月16日起在[台视於每星期日晚上九時三十分播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")。2006年11月5日結束。
   - [三立都會台於](../Page/三立都會台.md "wikilink")2006年7月22日起，每星期六晚上九時播出。
 
 #### 續集
 
-本劇[微笑Pasta原定於](../Page/微笑Pasta.md "wikilink")2008年8月推出微笑Pasta2。後因王心凌人在國外遊學，檔期無法配合而取消。
+本劇[微笑Pasta原定於](https://zh.wikipedia.org/wiki/微笑Pasta "wikilink")2008年8月推出微笑Pasta2。後因王心凌人在國外遊學，檔期無法配合而取消。
 
 ### 香港
 
-[無綫劇集台於](../Page/無綫劇集台.md "wikilink")2006年逢星期日晚上7:00播映。
+[無綫劇集台於](https://zh.wikipedia.org/wiki/無綫劇集台 "wikilink")2006年逢星期日晚上7:00播映。
 無綫[J2台亦於](../Page/J2.md "wikilink")2008年9月21日起逢星期一至五下午4:50及深夜12:50播映。
 
 ### 中國大陸
 
-中國大陸的[湖南衛視已於](../Page/湖南衛視.md "wikilink")2007年買下播映權。2007年9月底，[廣東電視台購下了在](../Page/廣東電視台.md "wikilink")[廣東地區的播映權](../Page/廣東.md "wikilink")，並于同年10月1日中午12:25在廣東電視台珠江頻道首播。
+中國大陸的[湖南衛視已於](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")2007年買下播映權。2007年9月底，[廣東電視台購下了在](https://zh.wikipedia.org/wiki/廣東電視台 "wikilink")[廣東地區的播映權](https://zh.wikipedia.org/wiki/廣東 "wikilink")，並于同年10月1日中午12:25在廣東電視台珠江頻道首播。
 
 ## 故事簡介
 
@@ -63,7 +63,7 @@
 <td><p><strong>粵語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張棟樑.md" title="wikilink">張棟樑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張棟樑" title="wikilink">張棟樑</a></p></td>
 <td><p>何 群</p></td>
 <td><p>鼎風大學大三學生<br />
 議長何孟元的兒子<br />
@@ -76,17 +76,17 @@
 <td><p>鼎風大學大三學生<br />
 成家的寶貝女兒<br />
 父母是經營義大利麵店「微笑Pasta」。一個受愛情魔咒附身的女生，戀情總不超過三個月，已經交過十八名男朋友，總是三個月便分手。一次意外與何群拉上關係，被逼演何群的未婚妻。喜欢何群，最后答应何群的求婚。</p></td>
-<td><p><a href="../Page/曾佩儀.md" title="wikilink">曾佩儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Gino.md" title="wikilink">Gino</a></p></td>
 <td><p>何瑞哲</p></td>
 <td><p>阿哲，鼎風大學大三學生<br />
 滿了傲氣與自信，行事作風強悍霸道，擅用氣勢鞏固聲勢，經常維護被欺負的學生，在鼎大有鼎風少爺之稱，是何群的弟弟。因六年前，心愛的女朋友筱柔意外墜河而失蹤，認為是何群的錯，跟何群反目成仇，離家出走。他即使有了新女友RITA，但仍放不下筱柔。</p></td>
-<td><p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙虹喬.md" title="wikilink">趙虹喬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙虹喬" title="wikilink">趙虹喬</a></p></td>
 <td><p>RITA</p></td>
 <td><p>鼎風大學大三學生<br />
 公主幫領袖，初時跟何群和成曉詩作對。她是阿哲現任女友。</p></td>
@@ -108,7 +108,7 @@
 <td><p><strong>粵語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙舜.md" title="wikilink">趙　舜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙舜" title="wikilink">趙　舜</a></p></td>
 <td><p>成　金</p></td>
 <td><p>成曉詩的爺爺，微笑Pasta主廚<br />
 成金在成家雖然年紀最大，心境卻最年輕。他活潑開朗，愛好熱鬧，對新奇有趣的事物特別感興趣，對年輕一代的新觀念特別容易接受。他的思想開放，言行又不正經，不但容易跟上時代潮流，又勇於追求流行，所以跟兒子成剛站在一起，看起來甚至比成剛還年輕。</p></td>
@@ -129,21 +129,21 @@
 <td><p><a href="../Page/黃鳳英.md" title="wikilink">黃鳳英</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/胡培蔚.md" title="wikilink">胡培蔚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡培蔚" title="wikilink">胡培蔚</a></p></td>
 <td><p>成　銘</p></td>
 <td><p>成曉詩的哥哥，大型家電用品店員<br />
 他個性狡猾，又愛狡辯，老是喜歡大玩數學遊戲，好像怎麼說都是他對，老婆每次跟他有了爭執，講輸的人往往是老婆，還好在成家還有個主持正義的成金，可以壓制成銘，幫老婆千慧出氣。</p></td>
-<td><p><a href="../Page/黄荣璋.md" title="wikilink">黄荣璋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄荣璋" title="wikilink">黄荣璋</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宋智愛.md" title="wikilink">宋智愛</a></p></td>
 <td><p>黃千慧</p></td>
 <td><p>成銘的老婆<br />
 頭腦簡單、四肢勤快是別人對千慧的印象，她個性直、說話快，偏偏老是不在狀況內，所以總是說錯話、表錯情，往往都讓旁人為她捏出一把冷汗。千慧的個性說好聽一點是沒心機，講難聽一點是夠白濫，她永遠分不清楚什麼話該說，什麼話不該說，更可怕的是，她永遠學不會教訓，總是氣得身邊的人哇哇叫。</p></td>
-<td><p><a href="../Page/林元春.md" title="wikilink">林元春</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林元春" title="wikilink">林元春</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吳震亞.md" title="wikilink">吳震亞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳震亞" title="wikilink">吳震亞</a></p></td>
 <td><p>雷　龍</p></td>
 <td><p>成曉詩最忠實的愛慕者，誓死保護曉詩<br />
 個性耿直、渾身肌肉的雷龍，是成金在微笑Pasta最有力的助手，他在義大利麵的技術層面上，是個高手，但是在創意展現上，卻是個低能兒。雷龍愛曉詩愛到發狂，自認是曉詩的頭號擁護者，但曉詩卻對他一點意思也沒有。</p></td>
@@ -163,14 +163,14 @@
 <td><p><strong>粵語配音</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈孟生.md" title="wikilink">沈孟生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈孟生" title="wikilink">沈孟生</a></p></td>
 <td><p>何孟元</p></td>
 <td><p>是一位明星議長，<br />
 他表面冷漠，心裡卻十分關心兩名兒子。知道了兒子何群與曉詩一同過夜，而且聽到兒子的緋聞後，十分憤怒要跟兒子斷絕關係。但最後也被成曉詩真誠的愛所感動。</p></td>
 <td><p><a href="../Page/黃健強.md" title="wikilink">黃健強</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鮑正芳.md" title="wikilink">鮑正芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鮑正芳" title="wikilink">鮑正芳</a></p></td>
 <td><p>畢麗鈴</p></td>
 <td><p>何孟元的老婆<br />
 識大體、溫柔，是緩和兒子何群和老公孟元的衝突的中間人。</p></td>
@@ -188,18 +188,18 @@
 
 #### 樂團
 
-|                                       |          |                           |          |
-| ------------------------------------- | -------- | ------------------------- | -------- |
-| **演員**                                | **角色**   | **背景**                    | **粵語配音** |
-| 地下公社樂團                                |          |                           |          |
-| \-{[于浩威](../Page/于浩威.md "wikilink")}- | 蚊子       | **地下公社**樂團的主唱             |          |
-| [何官錠](../Page/何官錠.md "wikilink")      | 官錠       | 地下公社樂團成員                  |          |
-| [黃冠龍](../Page/黃冠龍.md "wikilink")      | 阿龍（Ben）  |                           |          |
-| [胡惟智](../Page/胡惟智.md "wikilink")      | DDWHO    |                           |          |
-| Freedom樂團                             |          |                           |          |
-| [柳錫文](../Page/柳錫文.md "wikilink")      | 大熊       | Freedom樂團中的吉他手，亦是何群最好的伙伴。 |          |
-| [梆阿](../Page/梆阿.md "wikilink")        | 小飛俠\[1\] | **Freedom**樂團的鼓手          |          |
-|                                       |          |                           |          |
+|                                                     |          |                           |          |
+| --------------------------------------------------- | -------- | ------------------------- | -------- |
+| **演員**                                              | **角色**   | **背景**                    | **粵語配音** |
+| 地下公社樂團                                              |          |                           |          |
+| \-{[于浩威](../Page/于浩威.md "wikilink")}-               | 蚊子       | **地下公社**樂團的主唱             |          |
+| [何官錠](../Page/何官錠.md "wikilink")                    | 官錠       | 地下公社樂團成員                  |          |
+| [黃冠龍](../Page/黃冠龍.md "wikilink")                    | 阿龍（Ben）  |                           |          |
+| [胡惟智](https://zh.wikipedia.org/wiki/胡惟智 "wikilink") | DDWHO    |                           |          |
+| Freedom樂團                                           |          |                           |          |
+| [柳錫文](https://zh.wikipedia.org/wiki/柳錫文 "wikilink") | 大熊       | Freedom樂團中的吉他手，亦是何群最好的伙伴。 |          |
+| [梆阿](https://zh.wikipedia.org/wiki/梆阿 "wikilink")   | 小飛俠\[1\] | **Freedom**樂團的鼓手          |          |
+|                                                     |          |                           |          |
 
 #### 其他
 
@@ -216,7 +216,7 @@
 <td><p>Vincent</p></td>
 <td><p>何群經紀人<br />
 愛在媒體面前炒作何群新聞，如宣佈何群未婚妻是成曉詩等等。他老謀心算、自傲，要令何群成為全國知名偶像，而且還特意拉攏各個市場。</p></td>
-<td><p><a href="../Page/馮錦堂.md" title="wikilink">馮錦堂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮錦堂" title="wikilink">馮錦堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/賴薇如.md" title="wikilink">賴薇如</a></p></td>
@@ -225,7 +225,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周子隽.md" title="wikilink">周子隽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周子隽" title="wikilink">周子隽</a></p></td>
 <td><p>Peter</p></td>
 <td><p>晓诗的前男友。</p></td>
 <td><p><a href="../Page/黎景全.md" title="wikilink">黎景全</a></p></td>
@@ -237,7 +237,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/袁儷珊.md" title="wikilink">袁儷珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/袁儷珊" title="wikilink">袁儷珊</a></p></td>
 <td><p>羅夢瑤</p></td>
 <td><p>曉詩的好姊妹,子齊的女友。</p></td>
 <td></td>
@@ -249,7 +249,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李玉琳.md" title="wikilink">李玉琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李玉琳" title="wikilink">李玉琳</a></p></td>
 <td><p>杏仁茶</p></td>
 <td><p>Rita跟班</p></td>
 <td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
@@ -265,19 +265,19 @@
 
 #### 客串
 
-|                                  |        |              |                                  |
-| -------------------------------- | ------ | ------------ | -------------------------------- |
-| **演員**                           | **角色** | **背景**       | **粵語配音**                         |
-| [陈俊生](../Page/陈俊生.md "wikilink") | CK梁    | 杂志后来的总编      |                                  |
-| [曾安琪](../Page/曾安琪.md "wikilink") | 时靖文    | 记者           | [鄭麗麗](../Page/鄭麗麗.md "wikilink") |
-| [刘至翰](../Page/刘至翰.md "wikilink") | 白总监    |              |                                  |
-| [潘仪君](../Page/潘仪君.md "wikilink") | Betty  | 超幸福恋人主持人     | [黄玉娟](../Page/黄玉娟.md "wikilink") |
-| [立威廉](../Page/立威廉.md "wikilink") | 夏天     | 与何群晓詩比赛超幸福恋人 |                                  |
-| [陈意涵](../Page/陈意涵.md "wikilink") | 田欣     | 夏天女友         |                                  |
+|                                                     |        |              |                                                     |
+| --------------------------------------------------- | ------ | ------------ | --------------------------------------------------- |
+| **演員**                                              | **角色** | **背景**       | **粵語配音**                                            |
+| [陈俊生](https://zh.wikipedia.org/wiki/陈俊生 "wikilink") | CK梁    | 杂志后来的总编      |                                                     |
+| [曾安琪](../Page/曾安琪.md "wikilink")                    | 时靖文    | 记者           | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                    |
+| [刘至翰](https://zh.wikipedia.org/wiki/刘至翰 "wikilink") | 白总监    |              |                                                     |
+| [潘仪君](https://zh.wikipedia.org/wiki/潘仪君 "wikilink") | Betty  | 超幸福恋人主持人     | [黄玉娟](https://zh.wikipedia.org/wiki/黄玉娟 "wikilink") |
+| [立威廉](../Page/立威廉.md "wikilink")                    | 夏天     | 与何群晓詩比赛超幸福恋人 |                                                     |
+| [陈意涵](https://zh.wikipedia.org/wiki/陈意涵 "wikilink") | 田欣     | 夏天女友         |                                                     |
 
 ## 收视率（台視）
 
-首集收視率打破[仔仔](../Page/周渝民.md "wikilink")、[朴恩惠主演的](../Page/朴恩惠.md "wikilink")《[Silence深情密碼](../Page/Silence深情密碼.md "wikilink")》，15歲至44歲平均收視為5.41，其中分段最高收視為6.15，同時打破《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》的第一集15歲到44歲平均收視4.19和[臺灣](../Page/臺灣.md "wikilink")[偶像劇首播收視率的紀錄](../Page/偶像劇.md "wikilink")\[2\]，後被《[無敵珊寶妹](../Page/無敵珊寶妹.md "wikilink")》打破紀錄。
+首集收視率打破[仔仔](https://zh.wikipedia.org/wiki/周渝民 "wikilink")、[朴恩惠主演的](../Page/朴恩惠.md "wikilink")《[Silence深情密碼](https://zh.wikipedia.org/wiki/Silence深情密碼 "wikilink")》，15歲至44歲平均收視為5.41，其中分段最高收視為6.15，同時打破《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》的第一集15歲到44歲平均收視4.19和[臺灣](../Page/臺灣.md "wikilink")[偶像劇首播收視率的紀錄](../Page/偶像劇.md "wikilink")\[2\]，後被《[無敵珊寶妹](../Page/無敵珊寶妹.md "wikilink")》打破紀錄。
 
 | 播映日期       | 集數   | 標題             | 收視率                       | 排名 |
 | ---------- | ---- | -------------- | ------------------------- | -- |
@@ -370,11 +370,11 @@ MP3、pasta隨身碟等等...創造偶像劇週邊效益並且帶來無限商機
 
 ### 北極星的眼淚
 
-**北極星的眼淚**是劇中的片尾曲，在MV中請來了[張棟樑](../Page/張棟樑.md "wikilink")、[Gino和](../Page/Gino.md "wikilink")[趙虹喬來拍攝](../Page/趙虹喬.md "wikilink")。原本是情情詮釋兄弟情，結果他們入戲太深，拍得有點曖昧，被外界及觀眾誤以為是「[斷背](../Page/同性戀.md "wikilink")」劇情\[8\]，後來[張棟樑和](../Page/張棟樑.md "wikilink")[Gino被獲邀到](../Page/Gino.md "wikilink")[完全娛樂解釋事件及給予否認](../Page/完全娛樂.md "wikilink")。
+**北極星的眼淚**是劇中的片尾曲，在MV中請來了[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[Gino和](../Page/Gino.md "wikilink")[趙虹喬來拍攝](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。原本是情情詮釋兄弟情，結果他們入戲太深，拍得有點曖昧，被外界及觀眾誤以為是「[斷背](../Page/同性戀.md "wikilink")」劇情\[8\]，後來[張棟樑和](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")[Gino被獲邀到](../Page/Gino.md "wikilink")[完全娛樂解釋事件及給予否認](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")。
 
 ## 漫畫版
 
-由於劇集內容新鮮容易吸引年輕族群，三立電視台與漫畫家[俞家燕合作推出本作的漫畫版本](../Page/俞家燕.md "wikilink")，由[青文出版社出版](../Page/青文出版社.md "wikilink")，共三冊，每本售價為140元新臺幣。
+由於劇集內容新鮮容易吸引年輕族群，三立電視台與漫畫家[俞家燕合作推出本作的漫畫版本](https://zh.wikipedia.org/wiki/俞家燕 "wikilink")，由[青文出版社出版](../Page/青文出版社.md "wikilink")，共三冊，每本售價為140元新臺幣。
 
 ## 注释
 

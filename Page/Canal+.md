@@ -33,7 +33,7 @@ Green。这些子公司有些已被出售。
     Scandinavia）1997年Canal+并购FilmNet频道后设立。2003年被出售，2005年被SBS
     Broadcasting Group（2007年被ProSiebenSat.1 Media合并）购买，2008年SBS
     Broadcasting Group把股份转让给TV4 Group。
-  - K+：越南的付费电视频道，2009年5月开播，由[越南电视台和法国Canal](../Page/越南电视台.md "wikilink")+合资。
+  - K+：越南的付费电视频道，2009年5月开播，由[越南电视台和法国Canal](https://zh.wikipedia.org/wiki/越南电视台 "wikilink")+合资。
 
 ## 参考资料
 

@@ -1,6 +1,6 @@
 [Kingston_KVR400X64C3A-1G_20051111.jpg](https://zh.wikipedia.org/wiki/File:Kingston_KVR400X64C3A-1G_20051111.jpg "fig:Kingston_KVR400X64C3A-1G_20051111.jpg")
 **双倍数据率同步動態隨機存取記憶體**（，簡稱**DDR
-SDRAM**）為具有的[SDRAM](../Page/SDRAM.md "wikilink")，其資料傳輸速度為系統[時脈的兩倍](../Page/時脈.md "wikilink")，由於速度增加，其傳輸效能優於傳統的SDRAM。
+SDRAM**）為具有的[SDRAM](../Page/SDRAM.md "wikilink")，其資料傳輸速度為系統[時脈的兩倍](https://zh.wikipedia.org/wiki/時脈 "wikilink")，由於速度增加，其傳輸效能優於傳統的SDRAM。
 
 DDR SDRAM 在系统时钟的上升沿和下降沿都可以进行数据传输。
 
@@ -17,17 +17,17 @@ SDRAM在一個時鐘周期内只传输一次資料，它是在时钟上升期進
 <tr class="odd">
 <td><p>標準名稱</p></td>
 <td><p>I/O 匯流排時脈<br />
-<small>(<a href="../Page/MHz.md" title="wikilink">MHz</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</small></p></td>
 <td><p>週期<br />
-<small>(<a href="../Page/納秒.md" title="wikilink">ns</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/納秒" title="wikilink">ns</a>)</small></p></td>
 <td><p>記憶體時脈<br />
-<small>(<a href="../Page/MHz.md" title="wikilink">MHz</a>)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</small></p></td>
 <td><p>數據速率<br />
 <small>(MT/s)</small></p></td>
 <td><p>傳輸方式</p></td>
 <td><p>模組名稱</p></td>
 <td><p>極限傳輸率<br />
-<small>(<a href="../Page/MB.md" title="wikilink">MB</a>/s)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>/s)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>DDR-200</p></td>
@@ -113,7 +113,7 @@ DIMMs的有兩個）。筆記本電腦上的DDR SDRAM
 lines）的多個芯片被稱為memory rank。這個術語被引入，是要避免與芯片內部row和bank的混亂。
 
   - PC-1600記憶體{模塊}指工作在 100MHz 下的DDR-200內存芯片，其擁有
-    1.600[GB](../Page/Gibibyte.md "wikilink")/s 的頻寬
+    1.600[GB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")/s 的頻寬
   - PC-2100記憶體模塊指工作在 133MHz 下的DDR-266內存芯片，其擁有 2.133GB/s 的頻寬
   - PC-2700記憶體模塊指工作在 166MHz 下的DDR-333內存芯片，其擁有 2.667GB/s 的頻寬
   - PC-3200記憶體模塊指工作在 200MHz 下的DDR-400內存芯片，其擁有 3.200GB/s 的頻寬
@@ -141,9 +141,9 @@ Standard</p></th>
 <th><p>Voltage</p></th>
 <th><p><a href="../Page/DIMM.md" title="wikilink">DIMM</a><br />
 pins</p></th>
-<th><p><a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/SO-DIMM" title="wikilink">SO-DIMM</a><br />
 pins</p></th>
-<th><p><a href="../Page/MicroDIMM.md" title="wikilink">MicroDIMM</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/MicroDIMM" title="wikilink">MicroDIMM</a><br />
 pins</p></th>
 </tr>
 </thead>
@@ -212,13 +212,13 @@ refresh options）技術，MDDR可以實現更高的電源效率。
 
 利用下列公式，就可以計算出DDR SDRAM時脈。
 
-[DDR](../Page/DDR.md "wikilink")
-I/II[記憶體運作](../Page/記憶體.md "wikilink")[時脈](../Page/時脈.md "wikilink")：實際時脈\*2。
+[DDR](https://zh.wikipedia.org/wiki/DDR "wikilink")
+I/II[記憶體運作](https://zh.wikipedia.org/wiki/記憶體 "wikilink")[時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")：實際時脈\*2。
 （由於兩筆資料同時傳輸，200MHz記憶體的時脈會以400MHz運作。）
 
-記憶體頻寬=記憶體速度\*8 [Byte](../Page/Byte.md "wikilink")
+記憶體頻寬=記憶體速度\*8 [Byte](https://zh.wikipedia.org/wiki/Byte "wikilink")
 
-標準[公式](../Page/公式.md "wikilink")：記憶體[除頻係數](../Page/除頻係數.md "wikilink")=時脈／200→\*速算法：[外頻](../Page/外頻.md "wikilink")\*（[除頻頻率](../Page/除頻.md "wikilink")／同步頻率）
+標準[公式](https://zh.wikipedia.org/wiki/公式 "wikilink")：記憶體[除頻係數](https://zh.wikipedia.org/wiki/除頻係數 "wikilink")=時脈／200→\*速算法：[外頻](https://zh.wikipedia.org/wiki/外頻 "wikilink")\*（[除頻頻率](https://zh.wikipedia.org/wiki/除頻 "wikilink")／同步頻率）
 （使用此公式將會導致4%的誤差）
 
 ## 注釋
@@ -234,14 +234,15 @@ I/II[記憶體運作](../Page/記憶體.md "wikilink")[時脈](../Page/時脈.md
   - [電腦記憶體](../Page/電腦記憶體.md "wikilink")
   - [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink")
-  - [SDR SDRAM](../Page/SDR_SDRAM.md "wikilink")
-  - [雙通道](../Page/雙通道.md "wikilink")
-  - [EDO DRAM](../Page/EDO_DRAM.md "wikilink")
+  - [SDR SDRAM](https://zh.wikipedia.org/wiki/SDR_SDRAM "wikilink")
+  - [雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
+  - [EDO DRAM](https://zh.wikipedia.org/wiki/EDO_DRAM "wikilink")
   - [FB-DIMM](../Page/FB-DIMM.md "wikilink")
 
 [el:Μνήμη τυχαίας προσπέλασης\#Τύποι μνήμης
-RAM](../Page/el:Μνήμη_τυχαίας_προσπέλασης#Τύποι_μνήμης_RAM.md "wikilink")
-[fi:DRAM\#DDR SDRAM](../Page/fi:DRAM#DDR_SDRAM.md "wikilink")
+RAM](https://zh.wikipedia.org/wiki/el:Μνήμη_τυχαίας_προσπέλασης#Τύποι_μνήμης_RAM "wikilink")
+[fi:DRAM\#DDR
+SDRAM](https://zh.wikipedia.org/wiki/fi:DRAM#DDR_SDRAM "wikilink")
 
 [Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink")
 [Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink")

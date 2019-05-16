@@ -1,5 +1,5 @@
 **GreenBrowser**是一款基於[Internet
-Explorer的分頁式瀏覽器](../Page/Internet_Explorer.md "wikilink")，曾經是[開放源碼軟體](../Page/開放源碼.md "wikilink")，。
+Explorer的分頁式瀏覽器](../Page/Internet_Explorer.md "wikilink")，曾經是[開放源碼軟體](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，。
 
 ## 特性
 

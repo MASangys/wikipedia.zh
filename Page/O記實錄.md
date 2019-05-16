@@ -1,8 +1,8 @@
-《**O記實錄**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，全劇共22集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄》系列第1輯。
+《**O記實錄**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝警匪](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共22集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄》系列第1輯。
 
 監製[戚其義的名字曾出現於此劇中](../Page/戚其義.md "wikilink")：
 
-  - 當王志淙向其名叫「[戚其義](../Page/戚其義.md "wikilink")」的舊同學打招呼示意將會一起玩撲克牌後，便對伍頌蓮說：「佢係[魚腩嚟㗎](../Page/魚腩部隊.md "wikilink")！」
+  - 當王志淙向其名叫「[戚其義](../Page/戚其義.md "wikilink")」的舊同學打招呼示意將會一起玩撲克牌後，便對伍頌蓮說：「佢係[魚腩嚟㗎](https://zh.wikipedia.org/wiki/魚腩部隊 "wikilink")！」
   - 故事中曾出現一位叫「阿戚」（[戚其義暱稱](../Page/戚其義.md "wikilink")）的工作人員。
 
 ## 演員表
@@ -88,7 +88,7 @@ Gary Lambert之前女友<br />
 <tr class="even">
 <td><p><a href="../Page/蔡國慶_(香港).md" title="wikilink">蔡國慶</a></p></td>
 <td><p>林　森</p></td>
-<td><p><a href="../Page/雜差.md" title="wikilink">CID</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/雜差" title="wikilink">CID</a><br />
 尖沙咀分區刑事調查隊警長，何美瑛之夫<br />
 林永泰之父<br />
 王明慧之老爺</p></td>
@@ -115,12 +115,12 @@ Gary Lambert之前女友<br />
 <tr class="even">
 <td><p><a href="../Page/黃日華.md" title="wikilink">黃日華</a></p></td>
 <td><p>王志淙</p></td>
-<td><p>參見<strong><a href="../Page/#王家.md" title="wikilink">王家</a></strong></p></td>
+<td><p>參見<strong><a href="https://zh.wikipedia.org/wiki/#王家" title="wikilink">王家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a></p></td>
 <td><p>林永泰</p></td>
-<td><p>參見<strong><a href="../Page/#林家.md" title="wikilink">林家</a></strong></p></td>
+<td><p>參見<strong><a href="https://zh.wikipedia.org/wiki/#林家" title="wikilink">林家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王偉_(香港).md" title="wikilink">王　偉</a></p></td>
@@ -130,7 +130,7 @@ Gary Lambert之前女友<br />
 陳桂、吳國兆上司</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡國權.md" title="wikilink">蔡國權</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡國權" title="wikilink">蔡國權</a></p></td>
 <td><p>陳　桂</p></td>
 <td><p>警司，有組織罪案及三合會調查科A組主管<br />
 Jeff<br />
@@ -147,10 +147,10 @@ Teddy<br />
 傅婷前男友，曾追求伍頌蓮<br />
 偵破胡世傑安置炸彈案<br />
 為人心胸狹窄，但具才幹，後盜用公款，同時借高利貸致走投無路，為警方拘控保釋後精神失常，串謀小路行劫，最終落網<br />
-參見<strong><a href="../Page/#小路械劫集團.md" title="wikilink">小路械劫集團</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#小路械劫集團" title="wikilink">小路械劫集團</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬德鐘.md" title="wikilink">馬德鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></p></td>
 <td><p>司徒文安</p></td>
 <td><p>吳國兆、陳桂下屬</p></td>
 </tr>
@@ -162,19 +162,19 @@ Teddy<br />
 第十三集中彈殉職</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p>朱日隆</p></td>
 <td><p>隆叔<br />
 吳國兆、陳桂下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈寶思.md" title="wikilink">沈寶思</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈寶思" title="wikilink">沈寶思</a></p></td>
 <td><p>胡守法</p></td>
 <td><p>貓屎<br />
 吳國兆、陳桂下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陸應康.md" title="wikilink">陸應康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸應康" title="wikilink">陸應康</a></p></td>
 <td><p>劉Sir</p></td>
 <td><p>警司，有組織罪案及三合會調查科C組主管</p></td>
 </tr>
@@ -184,13 +184,13 @@ Teddy<br />
 <td><p>警察（黑警），灣仔分區刑事調查隊探員，後被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃成想.md" title="wikilink">黃成想</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃成想" title="wikilink">黃成想</a></p></td>
 <td><p>譚Sir</p></td>
 <td><p>Eric<br />
 警司，有組織罪案及三合會調查科B組主管</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煌生.md" title="wikilink">李煌生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煌生" title="wikilink">李煌生</a></p></td>
 <td><p>李Sir</p></td>
 <td><p>Kevin<br />
 警司，有組織罪案及三合會調查科D組主管</p></td>
@@ -201,17 +201,17 @@ Teddy<br />
 <td><p>尖沙咀分區刑事調查隊主管</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/博君.md" title="wikilink">博　君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/博君" title="wikilink">博　君</a></p></td>
 <td><p>水　哥</p></td>
 <td><p>尖沙咀分區刑事調查隊探員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方傑_(演員).md" title="wikilink">方　傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方傑_(演員)" title="wikilink">方　傑</a></p></td>
 <td><p>張Sir</p></td>
 <td><p>灣仔分區刑事調查隊主管</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳文偉.md" title="wikilink">吳文偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳文偉" title="wikilink">吳文偉</a></p></td>
 <td><p>徐沛霖</p></td>
 <td><p>徐師奶<br />
 吳國兆、陳桂下屬</p></td>
@@ -258,7 +258,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧汝超.md" title="wikilink">鄧汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧汝超" title="wikilink">鄧汝超</a></p></td>
 <td><p>小　丙</p></td>
 <td><p>洪興社紅棍<br />
 楊兆慶手下<br />
@@ -274,20 +274,20 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃煒林.md" title="wikilink">黃煒林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃煒林" title="wikilink">黃煒林</a></p></td>
 <td><p>富貴仔</p></td>
 <td><p>洪興社成員<br />
 江天強手下<br />
 因亂找楊兆慶「認大佬」，被痛毆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳志雄.md" title="wikilink">陳志雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳志雄" title="wikilink">陳志雄</a></p></td>
 <td></td>
 <td><p>洪興社叔父<br />
 主持楊兆慶喪禮，與何鎮洋對質</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃仲匡.md" title="wikilink">黃仲匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃仲匡" title="wikilink">黃仲匡</a></p></td>
 <td></td>
 <td><p>洪興社成員<br />
 富貴仔手下<br />
@@ -301,7 +301,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/韋先倫.md" title="wikilink">韋先倫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韋先倫" title="wikilink">韋先倫</a></p></td>
 <td></td>
 <td><p>洪興社成員<br />
 富貴仔手下<br />
@@ -330,7 +330,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/薛純基.md" title="wikilink">薛純基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薛純基" title="wikilink">薛純基</a></p></td>
 <td><p>李　鳴</p></td>
 <td><p>汕頭旗兵<br />
 哥士的手下<br />
@@ -338,7 +338,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳軼.md" title="wikilink">陳　軼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳軼" title="wikilink">陳　軼</a></p></td>
 <td><p>鋒</p></td>
 <td><p>汕頭旗兵<br />
 哥士的手下<br />
@@ -354,7 +354,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉勇.md" title="wikilink">葉　勇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉勇" title="wikilink">葉　勇</a></p></td>
 <td><p>放</p></td>
 <td><p>汕頭旗兵<br />
 哥士的手下<br />
@@ -362,7 +362,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳紹華.md" title="wikilink">陳紹華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳紹華" title="wikilink">陳紹華</a></p></td>
 <td><p>馬華幹</p></td>
 <td><p>外號「扯火」<br />
 汕頭旗兵<br />
@@ -405,7 +405,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃智賢.md" title="wikilink">黃智賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃智賢</a></p></td>
 <td><p>藍威寶</p></td>
 <td><p>紅威寶拍檔<br />
 羅強手下<br />
@@ -415,7 +415,7 @@ Teddy<br />
 最終自首，被判誤殺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅維.md" title="wikilink">羅　維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅維" title="wikilink">羅　維</a></p></td>
 <td></td>
 <td><p>大強手下</p></td>
 </tr>
@@ -463,7 +463,7 @@ Teddy<br />
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝子峰.md" title="wikilink">謝子峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝子峰" title="wikilink">謝子峰</a></p></td>
 <td><p>羅偉傑</p></td>
 <td><p>富商羅金勝之子<br />
 被俊、溫信全等人綁架<br />
@@ -481,11 +481,11 @@ Teddy<br />
 <tr class="even">
 <td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
 <td><p>Tommy/李湯美</p></td>
-<td><p>溫信全、俊友人，<a href="../Page/的士.md" title="wikilink">的士司機</a><br />
+<td><p>溫信全、俊友人，<a href="https://zh.wikipedia.org/wiki/的士" title="wikilink">的士司機</a><br />
 綁架案共謀，事成後欲逃往臺灣，失敗</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃振寧.md" title="wikilink">黃振寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃振寧" title="wikilink">黃振寧</a></p></td>
 <td><p>溫信全</p></td>
 <td><p><a href="../Page/士多.md" title="wikilink">士多東主</a><br />
 李湯美、俊友人<br />
@@ -517,7 +517,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴誌衛.md" title="wikilink">戴誌衛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴誌衛" title="wikilink">戴誌衛</a></p></td>
 <td><p>馬　正</p></td>
 <td><p>馬金玉之兄<br />
 馬氏家族首領<br />
@@ -526,13 +526,13 @@ Teddy<br />
 兩度成功脫罪，最終被馬金玉槍殺</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁少狄.md" title="wikilink">梁少狄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁少狄" title="wikilink">梁少狄</a></p></td>
 <td><p>肥　強</p></td>
 <td><p>馬正手下<br />
 出賣馬正，被槍殺。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王啟德.md" title="wikilink">王啟德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王啟德" title="wikilink">王啟德</a></p></td>
 <td><p>Peter</p></td>
 <td><p>肥強手下<br />
 本於法庭指證馬正，但因馬正脅持其父，被迫作假口供，令馬正脫罪<br />
@@ -566,26 +566,26 @@ Teddy<br />
 馬正死後，與天叔、炳哥協調，制止秩序惡化</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/呂劍光.md" title="wikilink">呂劍光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂劍光" title="wikilink">呂劍光</a></p></td>
 <td><p>炳　哥</p></td>
 <td><p>馬氏家族叔父<br />
 馬正死後，與天叔、麥七協調，制止秩序惡化<br />
 向陳桂保證宗親會於24小時後不再作亂</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尹健榮.md" title="wikilink">尹健榮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹健榮" title="wikilink">尹健榮</a></p></td>
 <td><p>四眼標</p></td>
 <td><p>馬正手下<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張俊華.md" title="wikilink">張俊華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張俊華" title="wikilink">張俊華</a></p></td>
 <td><p>馬正手下/正手下乙</p></td>
 <td><p>馬正手下<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/簡俊然.md" title="wikilink">簡俊然</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡俊然" title="wikilink">簡俊然</a></p></td>
 <td><p>馬正手下/正手下甲</p></td>
 <td><p>馬正手下<br />
 逃跑時槍殺葉輝</p></td>
@@ -616,7 +616,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳志恆.md" title="wikilink">陳志恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳志恆" title="wikilink">陳志恆</a></p></td>
 <td></td>
 <td><p>陳助手<br />
 通過伴遊招募，進行詐騙勒索<br />
@@ -624,7 +624,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/宋憲樺.md" title="wikilink">宋憲樺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋憲樺" title="wikilink">宋憲樺</a></p></td>
 <td></td>
 <td><p>攝影師<br />
 通過伴遊招募，進行詐騙勒索<br />
@@ -632,28 +632,28 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李錦明.md" title="wikilink">李錦明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李錦明" title="wikilink">李錦明</a></p></td>
 <td></td>
 <td><p>伴遊<br />
 通過伴遊招募，被詐騙勒索<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江德華.md" title="wikilink">江德華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江德華" title="wikilink">江德華</a></p></td>
 <td></td>
 <td><p>伴遊<br />
 通過伴遊招募，被詐騙勒索<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄧煜榮.md" title="wikilink">鄧煜榮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧煜榮" title="wikilink">鄧煜榮</a></p></td>
 <td></td>
 <td><p>伴遊<br />
 通過伴遊招募，被詐騙勒索<br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳展鵬.md" title="wikilink">陳展鵬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></p></td>
 <td><p>胡世傑</p></td>
 <td><p>通過伴遊招募，但中途陳之如被捕，故未被詐騙勒索<br />
 另因與地產公司經理有<a href="../Page/同性戀.md" title="wikilink">感情糾紛</a>，遂於地產公司放置炸藥<br />
@@ -684,14 +684,14 @@ Teddy<br />
 後被林永泰槍殺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飆</a></p></td>
 <td><p>小　黃</p></td>
 <td><p>旗兵，小路表弟<br />
 被<a href="../Page/特別任務連.md" title="wikilink">特別任務連射殺</a><br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江明輝.md" title="wikilink">江明輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江明輝" title="wikilink">江明輝</a></p></td>
 <td><p>恐　龍</p></td>
 <td><p>旗兵，小路手下<br />
 個性衝動，於金行劫案槍傷陳桂<br />
@@ -699,7 +699,7 @@ Teddy<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何金靈.md" title="wikilink">何金靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何金靈" title="wikilink">何金靈</a></p></td>
 <td><p>福　水</p></td>
 <td><p>旗兵，小路手下<br />
 槍傷陳桂<br />
@@ -712,7 +712,7 @@ Teddy<br />
 <td><p>旗兵，小路手下<br />
 槍傷林森<br />
 後被捕，但成功重創拘留所警員後逃脫<br />
-潛回<a href="../Page/梅理大樓.md" title="wikilink">梅理大樓</a>，欲殺王志淙，糾纏間被王志淙槍殺</p></td>
+潛回<a href="https://zh.wikipedia.org/wiki/梅理大樓" title="wikilink">梅理大樓</a>，欲殺王志淙，糾纏間被王志淙槍殺</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/梁榮忠.md" title="wikilink">梁榮忠</a></p></td>
@@ -727,14 +727,14 @@ Teddy<br />
 <td><p>王志淙</p></td>
 <td><p>集團成員<br />
 實際為臥底探員<br />
-參見<strong><a href="../Page/#皇家香港警察.md" title="wikilink">皇家香港警察</a></strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#皇家香港警察" title="wikilink">皇家香港警察</a></strong><br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a></p></td>
 <td><p>吳國兆</p></td>
 <td><p>集團臨時成員<br />
-參見<strong><a href="../Page/#皇家香港警察.md" title="wikilink">皇家香港警察</a></strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#皇家香港警察" title="wikilink">皇家香港警察</a></strong><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -748,66 +748,68 @@ Teddy<br />
 ### 其他演員
 
   - [黃天鐸](../Page/黃天鐸.md "wikilink") 飾 Ben，王明慧老闆
-  - [李桂英](../Page/李桂英.md "wikilink") 飾 蘇嘉敏
+  - [李桂英](https://zh.wikipedia.org/wiki/李桂英 "wikilink") 飾 蘇嘉敏
   - [陳狄克](../Page/陳狄克.md "wikilink") 飾 胡　超
-  - [戴少民](../Page/戴少民.md "wikilink") 飾 CID
-  - [陳詠文](../Page/陳詠文.md "wikilink") 飾 囡　囡
-  - [溫文英](../Page/溫文英.md "wikilink") 飾 CID/CID乙
-  - [湯俊明](../Page/湯俊明.md "wikilink") 飾 CID/CID甲/便　衣
+  - [戴少民](https://zh.wikipedia.org/wiki/戴少民 "wikilink") 飾 CID
+  - [陳詠文](https://zh.wikipedia.org/wiki/陳詠文 "wikilink") 飾 囡　囡
+  - [溫文英](https://zh.wikipedia.org/wiki/溫文英 "wikilink") 飾 CID/CID乙
+  - [湯俊明](https://zh.wikipedia.org/wiki/湯俊明 "wikilink") 飾 CID/CID甲/便　衣
   - [曾慧雲](../Page/曾慧雲.md "wikilink") 飾 Iris
   - [樊亦敏](../Page/樊亦敏.md "wikilink") 飾 樊燕珊（林永泰前女友）
   - [林漪娸](../Page/林漪娸.md "wikilink") 飾 余靖允Rita（律師，陳桂女友）
   - [河國榮](../Page/河國榮.md "wikilink") 飾 Gary Lambert（林仔，王明慧前男友）
-  - [蔡雲霞](../Page/蔡雲霞.md "wikilink") 飾 Cindy
-  - [陳中堅](../Page/陳中堅.md "wikilink") 飾 法　官
+  - [蔡雲霞](https://zh.wikipedia.org/wiki/蔡雲霞 "wikilink") 飾 Cindy
+  - [陳中堅](https://zh.wikipedia.org/wiki/陳中堅 "wikilink") 飾 法　官
   - [艾　威](../Page/艾威.md "wikilink") 飾 Marty
-  - [黃凱詩](../Page/黃凱詩.md "wikilink") 飾 情侶甲
-  - [朱樂輝](../Page/朱樂輝.md "wikilink") 飾 情侶乙
-  - [吳列華](../Page/吳列華.md "wikilink") 飾 售貨員
-  - [蕭玉燕](../Page/蕭玉燕.md "wikilink") 飾 Linda（被扯火強姦，後來自殺）
+  - [黃凱詩](https://zh.wikipedia.org/wiki/黃凱詩 "wikilink") 飾 情侶甲
+  - [朱樂輝](https://zh.wikipedia.org/wiki/朱樂輝 "wikilink") 飾 情侶乙
+  - [吳列華](https://zh.wikipedia.org/wiki/吳列華 "wikilink") 飾 售貨員
+  - [蕭玉燕](https://zh.wikipedia.org/wiki/蕭玉燕 "wikilink") 飾
+    Linda（被扯火強姦，後來自殺）
   - [楊瑞麟](../Page/楊瑞麟.md "wikilink") 飾 陳醫生（樊燕珊之未婚夫）
   - [陳鳳冰](../Page/陳鳳冰.md "wikilink") 飾 扯火姑媽（被扯火槍殺）
-  - [何潔珊](../Page/何潔珊.md "wikilink") 飾 Model A/模特兒
-  - [鄧麗雯](../Page/鄧麗雯.md "wikilink") 飾 Model B/模特兒
-  - [趙美裕](../Page/趙美裕.md "wikilink") 飾 Model C/模特兒
+  - [何潔珊](https://zh.wikipedia.org/wiki/何潔珊 "wikilink") 飾 Model A/模特兒
+  - [鄧麗雯](https://zh.wikipedia.org/wiki/鄧麗雯 "wikilink") 飾 Model B/模特兒
+  - [趙美裕](https://zh.wikipedia.org/wiki/趙美裕 "wikilink") 飾 Model C/模特兒
   - [梁健平](../Page/梁健平.md "wikilink") 飾 霍耀祖（伍頌蓮前夫）
   - [楚　原](../Page/楚原.md "wikilink") 飾 霍爵士
   - [梁舜燕](../Page/梁舜燕.md "wikilink") 飾 霍　太
-  - [鍾潔儀](../Page/鍾潔儀.md "wikilink") 飾 鍾　莉
-  - [蔡劍雪](../Page/蔡劍雪.md "wikilink") 飾 Connie
+  - [鍾潔儀](https://zh.wikipedia.org/wiki/鍾潔儀 "wikilink") 飾 鍾　莉
+  - [蔡劍雪](https://zh.wikipedia.org/wiki/蔡劍雪 "wikilink") 飾 Connie
   - [孫季卿](../Page/孫季卿.md "wikilink") 飾 貴朋友
-  - [區　嶽](../Page/區嶽.md "wikilink") 飾 貴朋友
+  - [區　嶽](https://zh.wikipedia.org/wiki/區嶽 "wikilink") 飾 貴朋友
   - [何璧堅](../Page/何璧堅.md "wikilink") 飾 貴朋友
-  - [朱偉達](../Page/朱偉達.md "wikilink") 飾 Mandy
+  - [朱偉達](https://zh.wikipedia.org/wiki/朱偉達 "wikilink") 飾 Mandy
   - [羅樂林](../Page/羅樂林.md "wikilink") 飾 羅金勝
   - [劉桂芳](../Page/劉桂芳.md "wikilink") 飾 羅金勝妻
   - [譚一清](../Page/譚一清.md "wikilink") 飾 九　叔
-  - [鄭英龍](../Page/鄭英龍.md "wikilink") 飾 雄　頭
-  - [張宏偉](../Page/張宏偉.md "wikilink") 飾 華　B
+  - [鄭英龍](https://zh.wikipedia.org/wiki/鄭英龍 "wikilink") 飾 雄　頭
+  - [張宏偉](https://zh.wikipedia.org/wiki/張宏偉 "wikilink") 飾 華　B
   - [伍文生](../Page/伍文生.md "wikilink") 飾 Ken
-  - [石　-{云}-](../Page/石云.md "wikilink") 飾 村　民
+  - [石　-{云}-](https://zh.wikipedia.org/wiki/石云 "wikilink") 飾 村　民
   - [郭德信](../Page/郭德信.md "wikilink") 飾 鄧議員
-  - [黎秀英](../Page/黎秀英.md "wikilink") 飾 村　民
-  - [馮瑞珍](../Page/馮瑞珍.md "wikilink") 飾 圖書管理員
+  - [黎秀英](https://zh.wikipedia.org/wiki/黎秀英 "wikilink") 飾 村　民
+  - [馮瑞珍](https://zh.wikipedia.org/wiki/馮瑞珍 "wikilink") 飾 圖書管理員
   - [郭少芸](../Page/郭少芸.md "wikilink") 飾 脫星阿玲
-  - [陳寶玲](../Page/陳寶玲.md "wikilink") 飾 玲媬姆
-  - [何美好](../Page/何美好.md "wikilink") 飾 哥士的女友
+  - [陳寶玲](https://zh.wikipedia.org/wiki/陳寶玲 "wikilink") 飾 玲媬姆
+  - [何美好](https://zh.wikipedia.org/wiki/何美好 "wikilink") 飾 哥士的女友
   - [梁雪湄](../Page/梁雪湄.md "wikilink") 飾 髮型屋櫃面
-  - [林嘉麗](../Page/林嘉麗.md "wikilink") 飾 阿Pet
-  - [張詩韻](../Page/張詩韻.md "wikilink") 飾 Stephen秘書
-  - [黃清榕](../Page/黃清榕.md "wikilink") 飾 女護士
+  - [林嘉麗](https://zh.wikipedia.org/wiki/林嘉麗 "wikilink") 飾 阿Pet
+  - [張詩韻](https://zh.wikipedia.org/wiki/張詩韻 "wikilink") 飾 Stephen秘書
+  - [黃清榕](https://zh.wikipedia.org/wiki/黃清榕 "wikilink") 飾 女護士
   - [梁詠琳](../Page/梁詠琳.md "wikilink") 飾 傅　婷（Teddy前女友）
-  - [鍾潔怡](../Page/鍾潔怡.md "wikilink") 飾 祖女友
-  - [劉超凡](../Page/劉超凡.md "wikilink") 飾 地產公司經理，與胡世傑有同性戀關係
-  - [陳燕航](../Page/陳燕航.md "wikilink") 飾 職員甲
-  - [劉鳳婷](../Page/劉鳳婷.md "wikilink") 飾 職員乙
-  - [朱孝儀](../Page/朱孝儀.md "wikilink") 飾 鑑証員
+  - [鍾潔怡](https://zh.wikipedia.org/wiki/鍾潔怡 "wikilink") 飾 祖女友
+  - [劉超凡](https://zh.wikipedia.org/wiki/劉超凡 "wikilink") 飾
+    地產公司經理，與胡世傑有同性戀關係
+  - [陳燕航](https://zh.wikipedia.org/wiki/陳燕航 "wikilink") 飾 職員甲
+  - [劉鳳婷](https://zh.wikipedia.org/wiki/劉鳳婷 "wikilink") 飾 職員乙
+  - [朱孝儀](https://zh.wikipedia.org/wiki/朱孝儀 "wikilink") 飾 鑑証員
   - [歐耀興](../Page/歐耀興.md "wikilink") 飾 Ray
-  - [朱樂輝](../Page/朱樂輝.md "wikilink") 飾 Patrick
+  - [朱樂輝](https://zh.wikipedia.org/wiki/朱樂輝 "wikilink") 飾 Patrick
   - [廖麗麗](../Page/廖麗麗.md "wikilink") 飾 史夫人
-  - [何掌君](../Page/何掌君.md "wikilink") 飾 CID乙
+  - [何掌君](https://zh.wikipedia.org/wiki/何掌君 "wikilink") 飾 CID乙
   - [陳彥行](../Page/陳彥行.md "wikilink") 飾 私鐘妹A
-  - [譚寶珊](../Page/譚寶珊.md "wikilink") 飾 私鐘妹B
+  - [譚寶珊](https://zh.wikipedia.org/wiki/譚寶珊 "wikilink") 飾 私鐘妹B
   - [黎　宣](../Page/黎宣.md "wikilink") 飾 盲　婆
 
 ## 首播集數

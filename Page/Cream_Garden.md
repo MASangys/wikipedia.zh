@@ -1,5 +1,5 @@
 **《Cream
-Garden》**是香港歌唱組合[Cream的首張唱片](../Page/Cream_\(香港樂隊\).md "wikilink")，共推出2個版本。
+Garden》**是香港歌唱組合[Cream的首張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，共推出2個版本。
 
 ## 曲目列表
 
@@ -37,7 +37,7 @@ Poul Dehnhardt</p></td>
 <tr class="odd">
 <td><p>3.</p></td>
 <td><p>昨日·明天</p></td>
-<td><p><strong>盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a></strong></p></td>
+<td><p><strong>盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a></strong></p></td>
 <td><p>陳歷恒</p></td>
 <td><p>黃艾倫　</p></td>
 <td><p>黃艾倫、陳歷恒</p></td>
@@ -69,7 +69,7 @@ Poul Dehnhardt</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p>孖公仔 <small>（Piano Solo by盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a>）</small></p></td>
+<td><p>孖公仔 <small>（Piano Solo by盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a>）</small></p></td>
 <td><p>歐陽業俊</p></td>
 <td><p>陳歷恒、多多</p></td>
 <td><p>——</p></td>
@@ -77,8 +77,8 @@ Poul Dehnhardt</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p>昨日·明天 <small>（Piano Solo by 盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a>）</small></p></td>
-<td><p><strong>盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a></strong></p></td>
+<td><p>昨日·明天 <small>（Piano Solo by 盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a>）</small></p></td>
+<td><p><strong>盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a></strong></p></td>
 <td><p>陳歷恒</p></td>
 <td><p>——</p></td>
 <td><p>——</p></td>
@@ -96,7 +96,7 @@ Poul Dehnhardt</p></td>
 <td><p>10.</p></td>
 <td><p>Bonus Track：<br />
 昨日·明天自唱音樂</p></td>
-<td><p><strong>盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a></strong></p></td>
+<td><p><strong>盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a></strong></p></td>
 <td><p>陳歷恒</p></td>
 <td><p>——</p></td>
 <td><p>——</p></td>

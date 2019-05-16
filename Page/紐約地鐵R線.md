@@ -1,8 +1,8 @@
-**R線百老匯慢車**（），又稱**紐約地鐵R線**，是[紐約地鐵](../Page/紐約地鐵.md "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](../Page/BMT百老匯線.md "wikilink")，因此其路線徽號為黃色\[1\]
+**R線百老匯慢車**（），又稱**紐約地鐵R線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵路線](../Page/地鐵.md "wikilink")。由於該線在[曼哈頓使用](../Page/曼哈頓.md "wikilink")[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]
 
-R線任何時候都營運。日間來往[森林小丘的](../Page/森林小丘.md "wikilink")[71大道與](../Page/森林小丘-71大道車站_\(IND皇后林蔭路線\).md "wikilink")的[95街](../Page/灣脊區-95街車站_\(BMT第四大道線\).md "wikilink")，停靠全線所有車站；早上繁忙時段有1班北行列車以曼哈頓[上東城的](../Page/上東城.md "wikilink")[96街／第二大道為總站](../Page/96街車站_\(第二大道線\).md "wikilink")，而不是71大道。深夜時來往[曼哈頓下城的](../Page/曼哈頓下城.md "wikilink")[白廳街-南碼頭與](../Page/白廳街-南碼頭車站_\(BMT百老匯線\).md "wikilink")95街。
+R線任何時候都營運。日間來往[森林小丘的](../Page/森林小丘.md "wikilink")[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")，停靠全線所有車站；早上繁忙時段有1班北行列車以曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道為總站](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")，而不是71大道。深夜時來往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭與](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")95街。
 
-R線在皇后區沿[BMT阿斯托利亞線以慢車營運](../Page/BMT阿斯托利亞線.md "wikilink")，以[阿斯托利亞-迪特馬斯林蔭路為總站](../Page/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\).md "wikilink")，直至1987年與N線對調總站。1988年至1992年間也曾以慢車營運至[牙買加-179街](../Page/牙買加-179街車站_\(IND皇后林蔭路線\).md "wikilink")。
+R線在皇后區沿[BMT阿斯托利亞線以慢車營運](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")，以[阿斯托利亞-迪特馬斯林蔭路為總站](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")，直至1987年與N線對調總站。1988年至1992年間也曾以慢車營運至[牙買加-179街](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")。
 
 <div class="thumb tright" style="width:auto;">
 
@@ -13,7 +13,7 @@ R線在皇后區沿[BMT阿斯托利亞線以慢車營運](../Page/BMT阿斯托�
 </tr>
 <tr class="even">
 <td><div class="thumbcaption">
-<p><a href="../Page/R1_(紐約地鐵車輛).md" title="wikilink">R1</a><a href="../Page/方向幕.md" title="wikilink">方向幕</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/R1_(紐約地鐵車輛)" title="wikilink">R1</a><a href="https://zh.wikipedia.org/wiki/方向幕" title="wikilink">方向幕</a></p>
 </div></td>
 </tr>
 </tbody>
@@ -32,7 +32,7 @@ R線在皇后區沿[BMT阿斯托利亞線以慢車營運](../Page/BMT阿斯托�
 </tr>
 <tr class="even">
 <td><div class="thumbcaption">
-<p><a href="../Page/R27_(紐約地鐵車輛).md" title="wikilink">R27</a><a href="../Page/方向幕.md" title="wikilink">方向幕</a>（後改<a href="http://www.nycsubway.org/perl/show?4487">1</a>）</p>
+<p><a href="https://zh.wikipedia.org/wiki/R27_(紐約地鐵車輛)" title="wikilink">R27</a><a href="https://zh.wikipedia.org/wiki/方向幕" title="wikilink">方向幕</a>（後改<a href="http://www.nycsubway.org/perl/show?4487">1</a>）</p>
 </div></td>
 </tr>
 </tbody>
@@ -59,29 +59,29 @@ R線在皇后區沿[BMT阿斯托利亞線以慢車營運](../Page/BMT阿斯托�
 
 </div>
 
-線前身為2號線。早期2號線列車自欽伯斯街車站發車，經[曼哈頓橋至](../Page/曼哈頓橋.md "wikilink")86街車站。
+線前身為2號線。早期2號線列車自欽伯斯街車站發車，經[曼哈頓橋至](https://zh.wikipedia.org/wiki/曼哈頓橋 "wikilink")86街車站。
 
-1920年10月1日[蒙塔格街隧道通車](../Page/蒙塔格街隧道.md "wikilink")，列車調整為慢車自皇后區廣場車站經該隧道往86街車站。
+1920年10月1日[蒙塔格街隧道通車](https://zh.wikipedia.org/wiki/蒙塔格街隧道 "wikilink")，列車調整為慢車自皇后區廣場車站經該隧道往86街車站。
 
 1925年10月31日95街車站開幕，在開幕期間曾短暫的加開尖峰菱形列車至欽伯斯街車站。
 
-1949年10月17日，[BMT阿斯托利亞線月台縮減](../Page/BMT阿斯托利亞線.md "wikilink")，該線改由第四大道線的列車行駛。
+1949年10月17日，[BMT阿斯托利亞線月台縮減](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")，該線改由第四大道線的列車行駛。
 
 1960年冬季開行RR線列車，其被稱為第四大道經隧道線。
 
 1961年1月1日，北訖站改至七十一大道-洲陸大道-森林高地車站。
 
-1967年11月26日[IND克莉絲蒂街連接道通車](../Page/IND克莉絲蒂街連接道.md "wikilink")，隔日RR線訖站調至[BMT阿斯托利亞線迪特馬士大道車站](../Page/BMT阿斯托利亞線.md "wikilink")，納蘇街菱形列車改為RJ線，自95街車站駛至168街車站。
+1967年11月26日[IND克莉絲蒂街連接道通車](https://zh.wikipedia.org/wiki/IND克莉絲蒂街連接道 "wikilink")，隔日RR線訖站調至[BMT阿斯托利亞線迪特馬士大道車站](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")，納蘇街菱形列車改為RJ線，自95街車站駛至168街車站。
 
 RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 
 1986年雙字表慢車的措施取消，RR線改為黃圓線，不久後尖峰菱形列車取消，R線也恢復自七十一街-洲陸大道-森林高地車站發車。
 
-1988年[IND射手大道線通車](../Page/IND射手大道線.md "wikilink")，線列車改行駛其至牙買加中心-帕森思大道車站，為此R線列車延駛至179街車站。
+1988年[IND射手大道線通車](https://zh.wikipedia.org/wiki/IND射手大道線 "wikilink")，線列車改行駛其至牙買加中心-帕森思大道車站，為此R線列車延駛至179街車站。
 
 1990年9月30日，R線改為接駁列車自36街車站駛往95街車站。在90年代晚期，凌晨列車不停45與53街車站的北向月台。
 
-2001年[911事件隔幾日後](../Page/911事件.md "wikilink")，R線停駛，改由線（[布魯克林](../Page/布魯克林.md "wikilink")）與線（曼哈頓、皇后區）替代，各服務路線於10月28日恢復正常營運。
+2001年[911事件隔幾日後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，R線停駛，改由線（[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")）與線（曼哈頓、皇后區）替代，各服務路線於10月28日恢復正常營運。
 
 2002年9月8日，科尼島-斯提威爾大道車站因重建關閉，R線凌晨列車延駛至太平洋街車站。
 
@@ -115,22 +115,22 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/第二大道線.md" title="wikilink">IND第二大道線</a></p></td>
-<td><p><a href="../Page/96街車站_(第二大道線).md" title="wikilink">96街</a></p></td>
-<td><p><a href="../Page/72街車站_(第二大道線).md" title="wikilink">72街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/96街車站_(第二大道線)" title="wikilink">96街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/72街車站_(第二大道線)" title="wikilink">72街</a></p></td>
 <td><p>全部</p></td>
 <td><p>繁忙時段1班</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/63街線#BMT線.md" title="wikilink">BMT 63街線</a>（全線）</p></td>
-<td><p><a href="../Page/萊辛頓大道-63街車站_(63街線).md" title="wikilink">萊辛頓大道-63街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/63街線#BMT線" title="wikilink">BMT 63街線</a>（全線）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站_(63街線)" title="wikilink">萊辛頓大道-63街</a></p></td>
 <td><p>全部</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線</a></p></td>
-<td><p><a href="../Page/森林小丘-71大道車站_(IND皇后林蔭路線).md" title="wikilink">森林小丘-71大道</a></p></td>
-<td><p><a href="../Page/皇后廣場車站_(IND皇后林蔭路線).md" title="wikilink">皇后廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森林小丘-71大道車站_(IND皇后林蔭路線)" title="wikilink">森林小丘-71大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皇后廣場車站_(IND皇后林蔭路線)" title="wikilink">皇后廣場</a></p></td>
 <td><p>慢車</p></td>
 <td><p>大部分列車</p></td>
 </tr>
@@ -142,35 +142,35 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BMT百老匯線.md" title="wikilink">BMT百老匯線</a>（全線）</p></td>
-<td><p><a href="../Page/萊辛頓大道／59街車站_(BMT百老匯線).md" title="wikilink">萊辛頓大道／59街</a></p></td>
-<td><p><a href="../Page/49街車站_(BMT百老匯線).md" title="wikilink">49街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>（全線）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊辛頓大道／59街車站_(BMT百老匯線)" title="wikilink">萊辛頓大道／59街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/49街車站_(BMT百老匯線)" title="wikilink">49街</a></p></td>
 <td><p>慢車</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/57街-第七大道車站_(BMT百老匯線).md" title="wikilink">57街-第七大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/57街-第七大道車站_(BMT百老匯線)" title="wikilink">57街-第七大道</a></p></td>
 <td><p>快車</p></td>
 <td><p>繁忙時段1班</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/49街車站_(BMT百老匯線).md" title="wikilink">49街</a></p></td>
-<td><p><a href="../Page/堅尼街車站_(BMT百老匯線).md" title="wikilink">堅尼街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/49街車站_(BMT百老匯線)" title="wikilink">49街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堅尼街車站_(BMT百老匯線)" title="wikilink">堅尼街</a></p></td>
 <td><p>慢車</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/市政府車站_(BMT百老匯線).md" title="wikilink">市政府</a></p></td>
-<td><p><a href="../Page/雷克托街車站_(BMT百老匯線).md" title="wikilink">雷克托街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/市政府車站_(BMT百老匯線)" title="wikilink">市政府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷克托街車站_(BMT百老匯線)" title="wikilink">雷克托街</a></p></td>
 <td><p>全部</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/白廳街-南碼頭車站_(BMT百老匯線).md" title="wikilink">白廳街-南碼頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_(BMT百老匯線)" title="wikilink">白廳街-南碼頭</a></p></td>
 <td><p>全部</p></td>
 <td><p> </p></td>
 <td></td>
@@ -184,9 +184,9 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BMT第四大道線.md" title="wikilink">BMT第四大道線</a>（全線）</p></td>
-<td><p><a href="../Page/法庭街車站_(BMT第四大道線).md" title="wikilink">法庭街</a></p></td>
-<td><p><a href="../Page/灣脊區-95街車站_(BMT第四大道線).md" title="wikilink">灣脊區-95街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMT第四大道線" title="wikilink">BMT第四大道線</a>（全線）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法庭街車站_(BMT第四大道線)" title="wikilink">法庭街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灣脊區-95街車站_(BMT第四大道線)" title="wikilink">灣脊區-95街</a></p></td>
 <td><p>慢車</p></td>
 <td></td>
 </tr>
@@ -242,7 +242,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td><p>align=center rowspan = 3 </p></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/96街車站_(第二大道線).md" title="wikilink">96街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/96街車站_(第二大道線)" title="wikilink">96街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td><p> ↑</p></td>
-<td><p><a href="../Page/86街車站_(第二大道線).md" title="wikilink">86街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(第二大道線)" title="wikilink">86街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -260,7 +260,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td><p> ↑</p></td>
-<td><p><a href="../Page/72街車站_(第二大道線).md" title="wikilink">72街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/72街車站_(第二大道線)" title="wikilink">72街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -268,7 +268,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/63街線.md" title="wikilink">63街線</a></strong>（繁忙時段只有一班列車）[8]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a></strong>（繁忙時段只有一班列車）[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -279,13 +279,13 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td><p>align=center </p></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/萊辛頓大道-63街車站_(63街線).md" title="wikilink">萊辛頓大道-63街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站_(63街線)" title="wikilink">萊辛頓大道-63街</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
 以出站轉乘：<br />
-（<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>，<a href="../Page/59街車站_(IRT萊辛頓大道線).md" title="wikilink">59街</a>）<br />
-（<a href="../Page/BMT百老匯線.md" title="wikilink">BMT百老匯線</a>，<a href="../Page/萊辛頓大道／59街車站_(BMT百老匯線).md" title="wikilink">萊辛頓大道／59街</a>）</p></td>
+（<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>，<a href="https://zh.wikipedia.org/wiki/59街車站_(IRT萊辛頓大道線)" title="wikilink">59街</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">BMT百老匯線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道／59街車站_(BMT百老匯線)" title="wikilink">萊辛頓大道／59街</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -318,7 +318,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p>align=center rowspan = 13 </p></td>
-<td><p><a href="../Page/森林小丘-71大道車站_(IND皇后林蔭路線).md" title="wikilink">森林小丘-71大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森林小丘-71大道車站_(IND皇后林蔭路線)" title="wikilink">森林小丘-71大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -326,7 +326,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/67大道車站_(IND皇后林蔭路線).md" title="wikilink">67大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/67大道車站_(IND皇后林蔭路線)" title="wikilink">67大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -335,16 +335,16 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/63徑-雷哥公園車站_(IND皇后林蔭路線).md" title="wikilink">63徑-雷哥公園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/63徑-雷哥公園車站_(IND皇后林蔭路線)" title="wikilink">63徑-雷哥公園</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>巴士往<a href="../Page/拉瓜迪亞機場.md" title="wikilink">拉瓜迪亞機場</a></p></td>
+<td><p>巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/伍德哈文林蔭路車站_(IND皇后林蔭路線).md" title="wikilink">伍德哈文林蔭路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍德哈文林蔭路車站_(IND皇后林蔭路線)" title="wikilink">伍德哈文林蔭路</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -353,7 +353,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/格蘭大道-新城車站_(IND皇后林蔭路線).md" title="wikilink">格蘭大道-新城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格蘭大道-新城車站_(IND皇后林蔭路線)" title="wikilink">格蘭大道-新城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,7 +362,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/埃姆赫斯特大道車站_(IND皇后林蔭路線).md" title="wikilink">埃姆赫斯特大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃姆赫斯特大道車站_(IND皇后林蔭路線)" title="wikilink">埃姆赫斯特大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -371,19 +371,19 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/傑克遜高地-羅斯福大道車站_(IND皇后林蔭路線).md" title="wikilink">傑克遜高地-羅斯福大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傑克遜高地-羅斯福大道車站_(IND皇后林蔭路線)" title="wikilink">傑克遜高地-羅斯福大道</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）</p></td>
-<td><p>線巴士往<a href="../Page/拉瓜迪亞機場.md" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
+（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）</p></td>
+<td><p>線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
 <br />
-往<a href="../Page/拉瓜迪亞機場.md" title="wikilink">拉瓜迪亞機場</a></p></td>
+往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/65街車站_(IND皇后林蔭路線).md" title="wikilink">65街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/65街車站_(IND皇后林蔭路線)" title="wikilink">65街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -392,7 +392,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/北方林蔭路車站_(IND皇后林蔭路線).md" title="wikilink">北方林蔭路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北方林蔭路車站_(IND皇后林蔭路線)" title="wikilink">北方林蔭路</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -401,7 +401,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/46街車站_(IND皇后林蔭路線).md" title="wikilink">46街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/46街車站_(IND皇后林蔭路線)" title="wikilink">46街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -410,7 +410,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/斯坦威街車站_(IND皇后林蔭路線).md" title="wikilink">斯坦威街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯坦威街車站_(IND皇后林蔭路線)" title="wikilink">斯坦威街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -419,7 +419,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/36街車站_(IND皇后林蔭路線).md" title="wikilink">36街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/36街車站_(IND皇后林蔭路線)" title="wikilink">36街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -428,7 +428,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/皇后廣場車站_(IND皇后林蔭路線).md" title="wikilink">皇后廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皇后廣場車站_(IND皇后林蔭路線)" title="wikilink">皇后廣場</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -445,7 +445,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/BMT百老匯線.md" title="wikilink">百老匯線</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">百老匯線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -456,17 +456,17 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p>align=center rowspan = 2 </p></td>
-<td><p><a href="../Page/萊辛頓大道／59街車站_(BMT百老匯線).md" title="wikilink">萊辛頓大道／59街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊辛頓大道／59街車站_(BMT百老匯線)" title="wikilink">萊辛頓大道／59街</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）<br />
-出站轉乘：（<a href="../Page/63街線.md" title="wikilink">63街線</a>，<a href="../Page/萊辛頓大道-63街車站.md" title="wikilink">萊辛頓大道-63街</a>）</p></td>
-<td><p><a href="../Page/羅斯福島纜車.md" title="wikilink">羅斯福島纜車</a></p></td>
+出站轉乘：（<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">63街線</a>，<a href="https://zh.wikipedia.org/wiki/萊辛頓大道-63街車站" title="wikilink">萊辛頓大道-63街</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅斯福島纜車" title="wikilink">羅斯福島纜車</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/第五大道／59街車站_(BMT百老匯線).md" title="wikilink">第五大道／59街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第五大道／59街車站_(BMT百老匯線)" title="wikilink">第五大道／59街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -483,7 +483,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/BMT百老匯線.md" title="wikilink">百老匯線</a></strong>（皇后林蔭路線及第二大道支線匯合）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BMT百老匯線" title="wikilink">百老匯線</a></strong>（皇后林蔭路線及第二大道支線匯合）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -494,7 +494,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/57街-第七大道車站_(BMT百老匯線).md" title="wikilink">57街-第七大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/57街-第七大道車站_(BMT百老匯線)" title="wikilink">57街-第七大道</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td></td>
@@ -503,40 +503,40 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/49街車站_(BMT百老匯線).md" title="wikilink">49街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/49街車站_(BMT百老匯線)" title="wikilink">49街</a></p></td>
 <td></td>
 <td><p> ↑</p></td>
 <td></td>
-<td><p>車站僅北行可<a href="../Page/美國殘疾人法案.md" title="wikilink">無障礙通行</a></p></td>
+<td><p>車站僅北行可<a href="https://zh.wikipedia.org/wiki/美國殘疾人法案" title="wikilink">無障礙通行</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/時報廣場-42街車站_(BMT百老匯線).md" title="wikilink">時報廣場-42街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(BMT百老匯線)" title="wikilink">時報廣場-42街</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
 （<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>）<br />
-（<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>）<br />
-（<a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>，<a href="../Page/42街-航港局客運總站車站_(IND第八大道線).md" title="wikilink">42街-航港局客運總站</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_(IND第八大道線)" title="wikilink">42街-航港局客運總站</a>）<br />
 （<a href="../Page/42街接駁線.md" title="wikilink">42街接駁線</a>）</p></td>
-<td><p><a href="../Page/紐新航港局客運總站.md" title="wikilink">紐新航港局客運總站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐新航港局客運總站" title="wikilink">紐新航港局客運總站</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/34街-先驅廣場車站_(BMT百老匯線).md" title="wikilink">34街-先驅廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/34街-先驅廣場車站_(BMT百老匯線)" title="wikilink">34街-先驅廣場</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
 （<a href="../Page/IND第六大道線.md" title="wikilink">IND第六大道線</a>）</p></td>
 <td><p><br />
-<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="../Page/33街車站_(PATH).md" title="wikilink">33街</a></p></td>
+<a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="https://zh.wikipedia.org/wiki/33街車站_(PATH)" title="wikilink">33街</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/28街車站_(BMT百老匯線).md" title="wikilink">28街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/28街車站_(BMT百老匯線)" title="wikilink">28街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -545,7 +545,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/23街車站_(BMT百老匯線).md" title="wikilink">23街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/23街車站_(BMT百老匯線)" title="wikilink">23街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -554,18 +554,18 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/14街-聯合廣場車站_(BMT百老匯線).md" title="wikilink">14街-聯合廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/14街-聯合廣場車站_(BMT百老匯線)" title="wikilink">14街-聯合廣場</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="../Page/BMT卡納西線.md" title="wikilink">BMT卡納西線</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/BMT卡納西線" title="wikilink">BMT卡納西線</a>）<br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/第八街-紐約大學車站_(BMT百老匯線).md" title="wikilink">第八街-紐約大學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第八街-紐約大學車站_(BMT百老匯線)" title="wikilink">第八街-紐約大學</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -574,7 +574,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/王子街車站_(BMT百老匯線).md" title="wikilink">王子街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王子街車站_(BMT百老匯線)" title="wikilink">王子街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -583,18 +583,18 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/堅尼街車站_(BMT百老匯線).md" title="wikilink">堅尼街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堅尼街車站_(BMT百老匯線)" title="wikilink">堅尼街</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
 （<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>）<br />
-（<a href="../Page/BMT納蘇街線.md" title="wikilink">BMT納蘇街線</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/BMT納蘇街線" title="wikilink">BMT納蘇街線</a>）</p></td>
 <td><p>停靠上層。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/市政府車站_(BMT百老匯線).md" title="wikilink">市政府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/市政府車站_(BMT百老匯線)" title="wikilink">市政府</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -603,19 +603,19 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/科特蘭街車站_(BMT百老匯線).md" title="wikilink">科特蘭街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科特蘭街車站_(BMT百老匯線)" title="wikilink">科特蘭街</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>，<a href="../Page/公園廣場車站_(IRT百老匯-第七大道線).md" title="wikilink">公園廣場</a>）<br />
-（<a href="../Page/IND第八大道線.md" title="wikilink">IND第八大道線</a>，<a href="../Page/錢伯斯街車站_(IND第八大道線).md" title="wikilink">錢伯斯街</a>）<br />
-（IND第八大道線，<a href="../Page/世界貿易中心車站_(IND第八大道線).md" title="wikilink">世界貿易中心</a>）</p></td>
+（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>，<a href="https://zh.wikipedia.org/wiki/公園廣場車站_(IRT百老匯-第七大道線)" title="wikilink">公園廣場</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/IND第八大道線" title="wikilink">IND第八大道線</a>，<a href="https://zh.wikipedia.org/wiki/錢伯斯街車站_(IND第八大道線)" title="wikilink">錢伯斯街</a>）<br />
+（IND第八大道線，<a href="https://zh.wikipedia.org/wiki/世界貿易中心車站_(IND第八大道線)" title="wikilink">世界貿易中心</a>）</p></td>
 <td><p><a href="../Page/紐新航港局過哈德遜河捷運.md" title="wikilink">PATH</a>，<a href="../Page/世界貿易中心車站_(PATH).md" title="wikilink">世界貿易中心</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/雷克托街車站_(BMT百老匯線).md" title="wikilink">雷克托街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷克托街車站_(BMT百老匯線)" title="wikilink">雷克托街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -624,18 +624,18 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/白廳街-南碼頭車站_(BMT百老匯線).md" title="wikilink">白廳街-南碼頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_(BMT百老匯線)" title="wikilink">白廳街-南碼頭</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>），<a href="../Page/南碼頭車站_(IRT百老匯-第七大道線).md" title="wikilink">南碼頭</a><br />
-只可在週末以出站轉乘：（<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>，<a href="../Page/布林格陵車站_(IRT萊辛頓大道線).md" title="wikilink">布林格陵</a>）</p></td>
+（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>），<a href="https://zh.wikipedia.org/wiki/南碼頭車站_(IRT百老匯-第七大道線)" title="wikilink">南碼頭</a><br />
+只可在週末以出站轉乘：（<a href="../Page/IRT萊辛頓大道線.md" title="wikilink">IRT萊辛頓大道線</a>，<a href="https://zh.wikipedia.org/wiki/布林格陵車站_(IRT萊辛頓大道線)" title="wikilink">布林格陵</a>）</p></td>
 <td><p><br />
-<a href="../Page/史泰登島渡輪.md" title="wikilink">史泰登島渡輪</a>，<br />
+<a href="https://zh.wikipedia.org/wiki/史泰登島渡輪" title="wikilink">史泰登島渡輪</a>，<br />
 深夜列車的北端總站</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/布魯克林.md" title="wikilink">布魯克林</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/布魯克林" title="wikilink">布魯克林</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,35 +646,35 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/法庭街車站_(BMT第四大道線).md" title="wikilink">法庭街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法庭街車站_(BMT第四大道線)" title="wikilink">法庭街</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Aiga_elevator.svg" title="fig:Aiga_elevator.svg">Aiga_elevator.svg</a></p></td>
 <td><p><br />
-（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>，<a href="../Page/區公所車站_(IRT百老匯-第七大道線).md" title="wikilink">區公所</a>）<br />
-（<a href="../Page/IRT東公園道線.md" title="wikilink">IRT東公園道線</a>，<a href="../Page/區公所車站_(IRT東公園道線).md" title="wikilink">區公所</a>）</p></td>
+（<a href="../Page/IRT百老匯-第七大道線.md" title="wikilink">IRT百老匯-第七大道線</a>，<a href="https://zh.wikipedia.org/wiki/區公所車站_(IRT百老匯-第七大道線)" title="wikilink">區公所</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/IRT東公園道線" title="wikilink">IRT東公園道線</a>，<a href="https://zh.wikipedia.org/wiki/區公所車站_(IRT東公園道線)" title="wikilink">區公所</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/傑伊街-都會科技車站_(BMT第四大道線).md" title="wikilink">傑伊街-都會科技</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傑伊街-都會科技車站_(BMT第四大道線)" title="wikilink">傑伊街-都會科技</a></p></td>
 <td></td>
 <td></td>
 <td><p>| <br />
- （<a href="../Page/IND福爾頓街線.md" title="wikilink">IND福爾頓街線及</a><a href="../Page/IND卡爾弗線.md" title="wikilink">IND卡爾弗線</a>）</p></td>
+ （<a href="https://zh.wikipedia.org/wiki/IND福爾頓街線" title="wikilink">IND福爾頓街線及</a><a href="https://zh.wikipedia.org/wiki/IND卡爾弗線" title="wikilink">IND卡爾弗線</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/德卡爾布大道車站_(BMT第四大道線).md" title="wikilink">德卡爾布大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德卡爾布大道車站_(BMT第四大道線)" title="wikilink">德卡爾布大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/BMT第四大道線.md" title="wikilink">第四大道線</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BMT第四大道線" title="wikilink">第四大道線</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -685,18 +685,18 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/大西洋大道-巴克萊中心車站_(BMT第四大道線).md" title="wikilink">大西洋大道-巴克萊中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_(BMT第四大道線)" title="wikilink">大西洋大道-巴克萊中心</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="../Page/BMT布萊頓線.md" title="wikilink">BMT布萊頓線</a>）<br />
-（<a href="../Page/IRT東公園道線.md" title="wikilink">IRT東公園道線</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/BMT布萊頓線" title="wikilink">BMT布萊頓線</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/IRT東公園道線" title="wikilink">IRT東公園道線</a>）</p></td>
 <td><p><a href="../Page/長島鐵路.md" title="wikilink">長島鐵路</a>，</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/聯合街車站_(BMT第四大道線).md" title="wikilink">聯合街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聯合街車站_(BMT第四大道線)" title="wikilink">聯合街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -705,17 +705,17 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/第九街車站_(BMT第四大道線).md" title="wikilink">第九街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第九街車站_(BMT第四大道線)" title="wikilink">第九街</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
-（<a href="../Page/IND卡爾弗線.md" title="wikilink">IND卡爾弗線</a>，<a href="../Page/第四大道車站_(IND卡爾弗線).md" title="wikilink">第四大道</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/IND卡爾弗線" title="wikilink">IND卡爾弗線</a>，<a href="https://zh.wikipedia.org/wiki/第四大道車站_(IND卡爾弗線)" title="wikilink">第四大道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/展望大道車站_(BMT第四大道線).md" title="wikilink">展望大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/展望大道車站_(BMT第四大道線)" title="wikilink">展望大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -724,7 +724,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/25街車站_(BMT第四大道線).md" title="wikilink">25街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/25街車站_(BMT第四大道線)" title="wikilink">25街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -733,7 +733,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/36街車站_(BMT第四大道線).md" title="wikilink">36街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/36街車站_(BMT第四大道線)" title="wikilink">36街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -742,7 +742,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/45街車站_(BMT第四大道線).md" title="wikilink">45街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/45街車站_(BMT第四大道線)" title="wikilink">45街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -751,7 +751,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/53街車站_(BMT第四大道線).md" title="wikilink">53街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/53街車站_(BMT第四大道線)" title="wikilink">53街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -760,7 +760,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/59街車站_(BMT第四大道線).md" title="wikilink">59街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/59街車站_(BMT第四大道線)" title="wikilink">59街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -769,7 +769,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/灣脊區大道車站_(BMT第四大道線).md" title="wikilink">灣脊區大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灣脊區大道車站_(BMT第四大道線)" title="wikilink">灣脊區大道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -778,7 +778,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/77街車站_(BMT第四大道線).md" title="wikilink">77街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/77街車站_(BMT第四大道線)" title="wikilink">77街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -787,7 +787,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="even">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/86街車站_(BMT第四大道線).md" title="wikilink">86街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(BMT第四大道線)" title="wikilink">86街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -796,7 +796,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <tr class="odd">
 <td></td>
 <td><p> ↑</p></td>
-<td><p><a href="../Page/灣脊區-95街車站_(BMT第四大道線).md" title="wikilink">灣脊區-95街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灣脊區-95街車站_(BMT第四大道線)" title="wikilink">灣脊區-95街</a></p></td>
 <td></td>
 <td></td>
 <td></td>

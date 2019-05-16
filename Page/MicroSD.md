@@ -1,21 +1,21 @@
 [Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG](https://zh.wikipedia.org/wiki/File:Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG "fig:Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG")轉接成[MS
-Pro Duo的轉卡](../Page/MS_Pro_Duo.md "wikilink")\]\]
+Pro Duo的轉卡](https://zh.wikipedia.org/wiki/MS_Pro_Duo "wikilink")\]\]
 [MicroSD與SD記憶卡.JPG](https://zh.wikipedia.org/wiki/File:MicroSD與SD記憶卡.JPG "fig:MicroSD與SD記憶卡.JPG")
 
-**microSD**是一種極細小的[快閃記憶體卡](../Page/快閃記憶體.md "wikilink")，基於由[SanDisk製造的](../Page/SanDisk.md "wikilink")**[TransFlash](../Page/TransFlash.md "wikilink")**卡格式所創立。這類記憶卡主要於[流動電話使用](../Page/流動電話.md "wikilink")，但因其擁有體積極小的優點，隨著不斷提升的容量，它慢慢開始於[GPS設備](../Page/GPS.md "wikilink")、攜帶型音樂播放器和一些[快閃記憶體盤中使用](../Page/快閃記憶體盤.md "wikilink")。microSD的體積為
+**microSD**是一種極細小的[快閃記憶體卡](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，基於由[SanDisk製造的](https://zh.wikipedia.org/wiki/SanDisk "wikilink")**[TransFlash](https://zh.wikipedia.org/wiki/TransFlash "wikilink")**卡格式所創立。這類記憶卡主要於[流動電話使用](https://zh.wikipedia.org/wiki/流動電話 "wikilink")，但因其擁有體積極小的優點，隨著不斷提升的容量，它慢慢開始於[GPS設備](https://zh.wikipedia.org/wiki/GPS "wikilink")、攜帶型音樂播放器和一些[快閃記憶體盤中使用](https://zh.wikipedia.org/wiki/快閃記憶體盤 "wikilink")。microSD的體積為
 15 毫米 x 11 毫米 x 1 毫米 -
-约为SD卡的1/4，相当於手指甲蓋的大小，是目前（2011年）最小的[記憶卡](../Page/記憶卡.md "wikilink")。它亦能夠以[轉接器來接駁於](../Page/轉接器.md "wikilink")[SD卡或](../Page/SD卡.md "wikilink")[Memory
-Stick插槽中使用](../Page/Memory_Stick.md "wikilink")。
+约为SD卡的1/4，相当於手指甲蓋的大小，是目前（2011年）最小的[記憶卡](../Page/記憶卡.md "wikilink")。它亦能夠以[轉接器來接駁於](https://zh.wikipedia.org/wiki/轉接器 "wikilink")[SD卡或](../Page/SD卡.md "wikilink")[Memory
+Stick插槽中使用](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")。
 
 ## 歷史
 
-microSD卡原本稱為TF卡（T-Flash卡或TransFlash），由[摩托罗拉与](../Page/摩托罗拉.md "wikilink")[SanDisk共同研发](../Page/SanDisk.md "wikilink")，在2004年推出。不過[SanDisk無法自行將它推廣普及化](../Page/SanDisk.md "wikilink")，前期僅有[摩托罗拉的手機支援](../Page/Motorola.md "wikilink")**TransFlash**。為了能將銷路完全拓展，[SanDisk於是將](../Page/SanDisk.md "wikilink")**TransFlash**規格併入[SD協會](../Page/SD協會.md "wikilink")，成為SD家族產品之一，造就了目前使用最廣泛的手機記憶卡；而重新命名為microSD的原因是因為被[SD協會](../Page/SD協會.md "wikilink")（SDA）采纳。**TransFlash**納入[SD協會後](../Page/SD協會.md "wikilink")，僅有在實體規格的電性接觸端（[印刷電路板的金屬端子](../Page/印刷電路板.md "wikilink")，俗稱**[金手指](../Page/金手指.md "wikilink")**）縮短一點，其他部分完全沿用完全相容。另一些被SD協會採立的記憶卡包括[miniSD和](../Page/miniSD.md "wikilink")[SD卡](../Page/Secure_Digital.md "wikilink")。
+microSD卡原本稱為TF卡（T-Flash卡或TransFlash），由[摩托罗拉与](../Page/摩托罗拉.md "wikilink")[SanDisk共同研发](https://zh.wikipedia.org/wiki/SanDisk "wikilink")，在2004年推出。不過[SanDisk無法自行將它推廣普及化](https://zh.wikipedia.org/wiki/SanDisk "wikilink")，前期僅有[摩托罗拉的手機支援](https://zh.wikipedia.org/wiki/Motorola "wikilink")**TransFlash**。為了能將銷路完全拓展，[SanDisk於是將](https://zh.wikipedia.org/wiki/SanDisk "wikilink")**TransFlash**規格併入[SD協會](https://zh.wikipedia.org/wiki/SD協會 "wikilink")，成為SD家族產品之一，造就了目前使用最廣泛的手機記憶卡；而重新命名為microSD的原因是因為被[SD協會](https://zh.wikipedia.org/wiki/SD協會 "wikilink")（SDA）采纳。**TransFlash**納入[SD協會後](https://zh.wikipedia.org/wiki/SD協會 "wikilink")，僅有在實體規格的電性接觸端（[印刷電路板的金屬端子](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，俗稱**[金手指](https://zh.wikipedia.org/wiki/金手指 "wikilink")**）縮短一點，其他部分完全沿用完全相容。另一些被SD協會採立的記憶卡包括[miniSD和](https://zh.wikipedia.org/wiki/miniSD "wikilink")[SD卡](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink")。
 
-SD協會在2005年3月14日於2005年度的美國[行動通信暨無線網路年會](../Page/行動通信暨無線網路年會.md "wikilink")（CTIA
+SD協會在2005年3月14日於2005年度的美國[行動通信暨無線網路年會](https://zh.wikipedia.org/wiki/行動通信暨無線網路年會 "wikilink")（CTIA
 Wireless
 2005）中公佈microSD的格式，以及於2005年7月13日批准了microSD最終的規格。在最初公開發售時，microSD的儲存容量包括32MB、64MB和128MB。
 
-2014年[世界移动通信大会](../Page/世界移动通信大会.md "wikilink")（MWC）期间，[SanDisk发布了一款容量高达](../Page/SanDisk.md "wikilink")128GB的
+2014年[世界移动通信大会](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")（MWC）期间，[SanDisk发布了一款容量高达](https://zh.wikipedia.org/wiki/SanDisk "wikilink")128GB的
 Micro [SD XC储存卡](../Page/SDXC.md "wikilink")。
 
 ## 各式類別
@@ -33,6 +33,6 @@ Micro [SD XC储存卡](../Page/SDXC.md "wikilink")。
   - [SD協會](http://www.sdcard.org/)
 
 [uk:Secure Digital\#MicroSD та
-MiniSD](../Page/uk:Secure_Digital#MicroSD_та_MiniSD.md "wikilink")
+MiniSD](https://zh.wikipedia.org/wiki/uk:Secure_Digital#MicroSD_та_MiniSD "wikilink")
 
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")

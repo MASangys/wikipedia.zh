@@ -1,22 +1,23 @@
-**ATR**（，）為一家由[意大利的Aeritalia](../Page/意大利.md "wikilink")（已併入[李奧納多公司](../Page/李奧納多_\(公司\).md "wikilink")）及[法國的](../Page/法國.md "wikilink")[法國航太](../Page/法國航太.md "wikilink")（已併入[空中巴士集團](../Page/空中巴士集團.md "wikilink")）合組的[飛機製造商](../Page/飛機製造商.md "wikilink")，雙方各持有50%股權。**ATR**成立於1982年，條約規定，公司主席每三年更換一次，由合資雙方輪流擔任。
+**ATR**（，）為一家由[意大利的Aeritalia](../Page/意大利.md "wikilink")（已併入[李奧納多公司](../Page/李奧納多_\(公司\).md "wikilink")）及[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[法國航太](https://zh.wikipedia.org/wiki/法國航太 "wikilink")（已併入[空中巴士集團](https://zh.wikipedia.org/wiki/空中巴士集團 "wikilink")）合組的[飛機製造商](https://zh.wikipedia.org/wiki/飛機製造商 "wikilink")，雙方各持有50%股權。**ATR**成立於1982年，條約規定，公司主席每三年更換一次，由合資雙方輪流擔任。
 
 ## 型號
 
-ATR至今為止僅生產了兩種型號的客機：[ATR 42及](../Page/ATR_42.md "wikilink")[ATR
-72](../Page/ATR_72.md "wikilink")，它們均為雙[螺旋槳發動機的](../Page/螺旋槳.md "wikilink")[區域航線客機](../Page/區域航線客機.md "wikilink")，采用两人制驾驶舱。ATR
+ATR至今為止僅生產了兩種型號的客機：[ATR
+42及](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")[ATR
+72](../Page/ATR_72.md "wikilink")，它們均為雙[螺旋槳發動機的](../Page/螺旋槳.md "wikilink")[區域航線客機](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")，采用两人制驾驶舱。ATR
 42最高乘客人數為60人，而ATR 72是在前者基础上开发，扩展了机身长度，载客量增加至74人。
 
 [ATR
-42為起始版本](../Page/ATR_42.md "wikilink")，在1984年8月16日作首飛，同年9月，法國及意大利也對這飛機發出許可證，同年12月還作出了首次的商業飛行。
+42為起始版本](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，在1984年8月16日作首飛，同年9月，法國及意大利也對這飛機發出許可證，同年12月還作出了首次的商業飛行。
 
 [ATR 72是先建基於ATR](../Page/ATR_72.md "wikilink")
 42，然後再加長，加大引擎推力和增加油箱容量。ATR
-72就在1985年的巴黎航空展對外公報。在1988年10月27日進行首飛，剛好在一年後（即是1989年10月27日），屬於[芬蘭航空的](../Page/芬蘭航空.md "wikilink")[Kar
-Air成為ATR](../Page/Kar_Air.md "wikilink") 72的首個顧客。
+72就在1985年的巴黎航空展對外公報。在1988年10月27日進行首飛，剛好在一年後（即是1989年10月27日），屬於[芬蘭航空的](https://zh.wikipedia.org/wiki/芬蘭航空 "wikilink")[Kar
+Air成為ATR](https://zh.wikipedia.org/wiki/Kar_Air "wikilink") 72的首個顧客。
 
 在2000年4月，ATR公司交付第600部ATR飛機。原本在ATR公司打算研發78座的ATR 82，但是計劃在1996年就告吹了。
 
-位於意大利[拿坡里郊外的工廠負責製造機身及尾翼](../Page/拿坡里.md "wikilink")，位於法國[梅里尼亞克的工廠負責機翼的組裝](../Page/梅里尼亞克_\(夏朗德省\).md "wikilink")，而飛機的總裝及測試則在法國圖盧茲總廠進行。
+位於意大利[拿坡里郊外的工廠負責製造機身及尾翼](https://zh.wikipedia.org/wiki/拿坡里 "wikilink")，位於法國[梅里尼亞克的工廠負責機翼的組裝](https://zh.wikipedia.org/wiki/梅里尼亞克_\(夏朗德省\) "wikilink")，而飛機的總裝及測試則在法國圖盧茲總廠進行。
 
 ## ATR42
 
@@ -50,9 +51,9 @@ Air成為ATR](../Page/Kar_Air.md "wikilink") 72的首個顧客。
 ## 同類競爭機型
 
   - [龐巴迪宇航](../Page/龐巴迪宇航.md "wikilink") [Dash
-    8](../Page/Dash_8.md "wikilink")
+    8](https://zh.wikipedia.org/wiki/Dash_8 "wikilink")
   - [西安飞机工业集团](../Page/西安飞机工业集团.md "wikilink")
-    [新舟60](../Page/新舟60.md "wikilink")
+    [新舟60](https://zh.wikipedia.org/wiki/新舟60 "wikilink")
 
 ## 外部連結
 

@@ -1,7 +1,7 @@
 **Norton
-PartitionMagic**是最初由[PowerQuest公司所開發的](../Page/PowerQuest.md "wikilink")[個人電腦](../Page/個人電腦.md "wikilink")[硬碟分割](../Page/硬碟分割.md "wikilink")[軟件](../Page/軟件.md "wikilink")，而該公司今為[賽門鐵克公司收購](../Page/賽門鐵克.md "wikilink")。其適用之環境為[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")
-[作業系統或由引導](../Page/作業系統.md "wikilink")[光盤而適用於裝有任何作業系統和沒有作業系統的個人電腦](../Page/光盤.md "wikilink")。現有分區可以在不受數據損失的情況下調整大小。
+PartitionMagic**是最初由[PowerQuest公司所開發的](https://zh.wikipedia.org/wiki/PowerQuest "wikilink")[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[硬碟分割](https://zh.wikipedia.org/wiki/硬碟分割 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，而該公司今為[賽門鐵克公司收購](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")。其適用之環境為[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+[作業系統或由引導](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[光盤而適用於裝有任何作業系統和沒有作業系統的個人電腦](https://zh.wikipedia.org/wiki/光盤 "wikilink")。現有分區可以在不受數據損失的情況下調整大小。
 
 ## 特點
 
@@ -18,14 +18,14 @@ PartitionMagic在PowerQuest時代保持定期的版本更新，持續添加有�
 
 ## 參見
 
-  - [硬碟分割](../Page/硬碟分割.md "wikilink")
-  - [FIPS](../Page/FIPS.md "wikilink")
+  - [硬碟分割](https://zh.wikipedia.org/wiki/硬碟分割 "wikilink")
+  - [FIPS](https://zh.wikipedia.org/wiki/FIPS "wikilink")
   - [GNU Parted](../Page/GNU_Parted.md "wikilink")
   - [QtParted](../Page/QtParted.md "wikilink")
   - [Paragon Partition
-    Manager](../Page/Paragon_Partition_Manager.md "wikilink")
+    Manager](https://zh.wikipedia.org/wiki/Paragon_Partition_Manager "wikilink")
   - [Acronis Disk Director
-    Suite](../Page/Acronis_Disk_Director_Suite.md "wikilink")
+    Suite](https://zh.wikipedia.org/wiki/Acronis_Disk_Director_Suite "wikilink")
 
 ## 外部連結
 

@@ -1,19 +1,20 @@
 《**攻殼機動隊: Stand Alone Complex - Solid State
-Society**》是**[士郎正宗](../Page/士郎正宗.md "wikilink")**同名漫畫《[攻殼機動隊](../Page/攻殼機動隊_\(漫畫\).md "wikilink")》改編的作品。2006年3月17日在[Production
-I.G官方網站首次公布了相關消息](../Page/Production_I.G.md "wikilink")。正式發行定於2006年9月1日，發行方式為[OVA動畫](../Page/OVA.md "wikilink")，片長105分鐘，採用DD5.1音軌。劇情是接續電視影集[攻殼機動隊
-S.A.C. 2nd GIG](../Page/攻殼機動隊_S.A.C._2nd_GIG.md "wikilink")。製作人員也與2nd
-GIG相同。監督和分鏡仍由[神山健治擔當](../Page/神山健治.md "wikilink")，[押井守則會從中参與協力](../Page/押井守.md "wikilink")，而脚本由[神山健治](../Page/神山健治.md "wikilink")、[菅正太郎](../Page/菅正太郎.md "wikilink")、[樱井圭记三人共同負責](../Page/樱井圭记.md "wikilink")，音乐則由[菅野洋子負責](../Page/菅野洋子.md "wikilink")。該片的總製作費用據稱高達3億6千萬日元。獲選為2006年第十回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。2011年3月26日3D劇場版上映，雖受到[日本东北地方太平洋近海地震影響](../Page/2011年日本东北地方太平洋近海地震.md "wikilink")，新宿等地仍有許多人觀賞。
+Society**》是**[士郎正宗](../Page/士郎正宗.md "wikilink")**同名漫畫《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的作品。2006年3月17日在[Production
+I.G官方網站首次公布了相關消息](../Page/Production_I.G.md "wikilink")。正式發行定於2006年9月1日，發行方式為[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，片長105分鐘，採用DD5.1音軌。劇情是接續電視影集[攻殼機動隊
+S.A.C. 2nd
+GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")。製作人員也與2nd
+GIG相同。監督和分鏡仍由[神山健治擔當](../Page/神山健治.md "wikilink")，[押井守則會從中参與協力](../Page/押井守.md "wikilink")，而脚本由[神山健治](../Page/神山健治.md "wikilink")、[菅正太郎](../Page/菅正太郎.md "wikilink")、[樱井圭记三人共同負責](https://zh.wikipedia.org/wiki/樱井圭记 "wikilink")，音乐則由[菅野洋子負責](../Page/菅野洋子.md "wikilink")。該片的總製作費用據稱高達3億6千萬日元。獲選為2006年第十回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。2011年3月26日3D劇場版上映，雖受到[日本东北地方太平洋近海地震影響](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")，新宿等地仍有許多人觀賞。
 
 ## 發表
 
 Production
-I.G在[2006年](../Page/2006.md "wikilink")3月23日到3月26日期間舉辦的[東京國際動畫展](../Page/東京國際動畫展.md "wikilink")（TOKYO
+I.G在[2006年](https://zh.wikipedia.org/wiki/2006 "wikilink")3月23日到3月26日期間舉辦的[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")（TOKYO
 INTERNATIONAL ANIME FAIR 2006）上設有攤位。在攤位上相關人士發表了意見，並且播出了預告片。
 
 而在同年9月1日在PPV160收費頻道率先播出，而隨後《攻殼機動隊S.A.C. Solid State
-Society》的[DVD版於](../Page/DVD.md "wikilink")2006年11月24日發售，售價高達10290日元，DVD是使用雙D9介質，携带DD5.1音軌和高清畫質，除了正片碟以外，另外附有一張特典碟，收錄30分鐘左右的映像特典，其中包括“[笑臉男事件](../Page/笑臉男.md "wikilink")”
-、“[個别的十一人事件](../Page/個别的十一人.md "wikilink")”、“[攻殼機動隊
-S.A.C.的世界](../Page/攻殼機動隊_S.A.C..md "wikilink")”、“[塔奇克马的日常](../Page/攻壳机动队：塔奇克马的日常.md "wikilink")”四個片段以及製作花絮等幕後故事。此外隨碟片捆绑一本130頁的用語解說設定書，和一本16頁的DVD解說書。
+Society》的[DVD版於](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年11月24日發售，售價高達10290日元，DVD是使用雙D9介質，携带DD5.1音軌和高清畫質，除了正片碟以外，另外附有一張特典碟，收錄30分鐘左右的映像特典，其中包括“[笑臉男事件](https://zh.wikipedia.org/wiki/笑臉男 "wikilink")”
+、“[個别的十一人事件](https://zh.wikipedia.org/wiki/個别的十一人 "wikilink")”、“[攻殼機動隊
+S.A.C.的世界](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C. "wikilink")”、“[塔奇克马的日常](https://zh.wikipedia.org/wiki/攻壳机动队：塔奇克马的日常 "wikilink")”四個片段以及製作花絮等幕後故事。此外隨碟片捆绑一本130頁的用語解說設定書，和一本16頁的DVD解說書。
 
 《攻殼機動隊 S.A.C Solid State Society》的北美DVD版也於2007年發售，
 
@@ -23,22 +24,24 @@ S.A.C.的世界](../Page/攻殼機動隊_S.A.C..md "wikilink")”、“[塔奇�
   - 荒卷大辅：[阪脩](../Page/阪脩.md "wikilink")
   - 巴特：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - 陀古薩（德古沙）：[山寺宏一](../Page/山寺宏一.md "wikilink")
-  - 石川：[仲野裕](../Page/仲野裕.md "wikilink")
+  - 石川：[仲野裕](https://zh.wikipedia.org/wiki/仲野裕 "wikilink")
   - 齊藤：[大川透](../Page/大川透.md "wikilink")
-  - 巴兹：[小野塚貴志](../Page/小野塚貴志.md "wikilink")
-  - 博馬（波瑪）：[山口太郎](../Page/山口太郎.md "wikilink")
-  - 塔其克馬（攻殼車）：[玉川纱己子](../Page/玉川纱己子.md "wikilink")
+  - 巴兹：[小野塚貴志](https://zh.wikipedia.org/wiki/小野塚貴志 "wikilink")
+  - 博馬（波瑪）：[山口太郎](https://zh.wikipedia.org/wiki/山口太郎 "wikilink")
+  - 塔其克馬（攻殼車）：[玉川纱己子](https://zh.wikipedia.org/wiki/玉川纱己子 "wikilink")
 
 ## 故事簡介
 
 故事將會發生在公元2034年，即 TV 版 2nd GIG
 中「難民事件」的二年後，[公安九課引進了](../Page/公安九課.md "wikilink")
-20 名新人。故事主要事件的起因是以[梵文刺青為標誌的](../Page/梵文.md "wikilink") 13
-名恐怖分子（）所犯下的連續自殺以及機場劫持人質事件。公安九課負責此事件追查自盡的犯人遺言所提到的神秘超級[駭客](../Page/駭客.md "wikilink")「傀儡师」。
+20
+名新人。故事主要事件的起因是以[梵文刺青為標誌的](https://zh.wikipedia.org/wiki/梵文 "wikilink")
+13
+名恐怖分子（）所犯下的連續自殺以及機場劫持人質事件。公安九課負責此事件追查自盡的犯人遺言所提到的神秘超級[駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")「傀儡师」。
 
 故事发生在公元2034年，也就是攻壳机动队第二季（难民）事件之后的第二年。少佐[草薙素子离开了善于开展电子战的反恐以及刑侦的精英单位](../Page/草薙素子.md "wikilink")——公安九课。之后，公安九课扩招了20名战斗特工，而德古沙此时则作为前线指导员。九课遭遇到了神秘的十三起自杀事件。自杀的13人均为解散的西亚克共和国的特工，其余的特工则被发现正于日本寻求庇护。公安九课试图抓捕凯歌陆——前西亚克恐怖團體的团长。此人正挟持一名人质，希望能够安全的离境。歌陆恐惧地说：“傀儡师”将会过来取他性命。之后此人饮弹自尽。
 
-公安九课未经许可，擅自搜捕了已被驱逐的西亚克独裁者凯鲁马的居所，此人已经被软禁在家。九课发现，此人已经死亡了一段时间。其死因非常明显，为他杀，而非自杀。此外，凯鲁马还在地板上用鲜血写下了“傀儡师”的字样。他们还发现西亚克特工计划在凯鲁马死后用一个微机械病毒发动一次复仇的恐怖袭击，巴特被命令去拦截接收到病毒的特工马沙霸。但是他很偶然地遇见了少佐草薙素子。草薙素子说她正在进行一次独立的调查。草薙素子被马沙霸袭击，他非常害怕草薙素子就是傀儡师。马沙霸躲在武装的机车内，他相信只有如此，才能够保护他的[电子脑不会被駭客攻击](../Page/电子脑.md "wikilink")。但是，在巴特和草薙素子逮捕他之前，他死在了机车内。死因非常明显，正是电子脑被駭客攻击所致。素子正在调查病毒针剂的案件，在开车离开之前，她警告巴特远离“[固态社会](../Page/固态社会.md "wikilink")”。巴特并没有立即向公安九课汇报说自己遇见了少佐草薙素子，而是说马沙霸在没有被主动挑衅的情况下，攻击了自己。
+公安九课未经许可，擅自搜捕了已被驱逐的西亚克独裁者凯鲁马的居所，此人已经被软禁在家。九课发现，此人已经死亡了一段时间。其死因非常明显，为他杀，而非自杀。此外，凯鲁马还在地板上用鲜血写下了“傀儡师”的字样。他们还发现西亚克特工计划在凯鲁马死后用一个微机械病毒发动一次复仇的恐怖袭击，巴特被命令去拦截接收到病毒的特工马沙霸。但是他很偶然地遇见了少佐草薙素子。草薙素子说她正在进行一次独立的调查。草薙素子被马沙霸袭击，他非常害怕草薙素子就是傀儡师。马沙霸躲在武装的机车内，他相信只有如此，才能够保护他的[电子脑不会被駭客攻击](https://zh.wikipedia.org/wiki/电子脑 "wikilink")。但是，在巴特和草薙素子逮捕他之前，他死在了机车内。死因非常明显，正是电子脑被駭客攻击所致。素子正在调查病毒针剂的案件，在开车离开之前，她警告巴特远离“[固态社会](https://zh.wikipedia.org/wiki/固态社会 "wikilink")”。巴特并没有立即向公安九课汇报说自己遇见了少佐草薙素子，而是说马沙霸在没有被主动挑衅的情况下，攻击了自己。
 
 公安九课认为，“傀儡师”就是一个超级一流的駭客，攻入了西亚克特工的电子脑，然后强迫他们自我了断。他们同时发现，凯鲁马的复仇计划就是对一些儿童散播微机械病毒，并将这些受感染的儿童放回到社会当中去。为此，16个儿童被绑架了。虽然医学检查发现，这些儿童并没有被病毒感染，但是他们的电子脑被替换了，他们的记忆被部分的消除了，而且他们的个人身份被转移给了一些虚假的父母。在每一个案件当中，这些虚假的父母是“贵腐老人”——卧床不起的年老的，被连接到了卫生保健监控网上的老人。這個系統原本是為了要解決老年人之後生活的孤獨所建立的看護系統，但是很多老人連接到這個系統之後，不願離去，造成躺在床上一覺不起。
 
@@ -92,7 +95,7 @@ Complex)，劇情卻又可以與漫畫第一部大致上接合(即把SSS中的�
 ## 外部連結
 
   - [Production I.G
-    的聲明](https://www.release.tdnet.info/inbs/131101d0_20060317.pdf)（[PDF格式](../Page/PDF.md "wikilink")）
+    的聲明](https://www.release.tdnet.info/inbs/131101d0_20060317.pdf)（[PDF格式](https://zh.wikipedia.org/wiki/PDF "wikilink")）
   - [攻殼機動隊: Stand Alone Complex - Solid State Society
     預告片](https://web.archive.org/web/20060410211617/http://www.dannychoo.com/blog_entry/eng/466/Ghost+in+the+Shell+-+Solid+State+Society/)
   - [Production I.G 官方网站](http://www.productionig.com/)

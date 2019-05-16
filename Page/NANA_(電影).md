@@ -1,52 +1,52 @@
-《**NANA**》，又譯為《**世上的另一個我**》，是一部根据[日本漫畫家](../Page/日本.md "wikilink")[矢泽爱的](../Page/矢泽爱.md "wikilink")[漫画作品](../Page/漫画.md "wikilink")《[NANA](../Page/NANA.md "wikilink")》所改编而成的同名真人版時裝愛情[電影](../Page/電影.md "wikilink")，于2005年9月3日在日本首映，同年11月3日在[香港上映](../Page/香港.md "wikilink")，並於11月4日在[台湾上映](../Page/台湾.md "wikilink")，[DVD发行于](../Page/DVD.md "wikilink")2006年3月3日。由于漫画版《NANA》的高知名度，使得原著改編的電影獲得極佳的票房反應，并獲得筹拍[续集的機會](../Page/NANA_2.md "wikilink")。
+《**NANA**》，又譯為《**世上的另一個我**》，是一部根据[日本漫畫家](../Page/日本.md "wikilink")[矢泽爱的](https://zh.wikipedia.org/wiki/矢泽爱 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[NANA](../Page/NANA.md "wikilink")》所改编而成的同名真人版時裝愛情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，于2005年9月3日在日本首映，同年11月3日在[香港上映](../Page/香港.md "wikilink")，並於11月4日在[台湾上映](https://zh.wikipedia.org/wiki/台湾 "wikilink")，[DVD发行于](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年3月3日。由于漫画版《NANA》的高知名度，使得原著改編的電影獲得極佳的票房反應，并獲得筹拍[续集的機會](../Page/NANA_2.md "wikilink")。
 
 ## 簡介
 
-電影版的《NANA》是在2005年時，由「NANA製作委員會」根據原著漫畫單行本第一至第五集的內容為藍本，以盡可能忠於原著的方式濃縮拍攝而成。故事的情節大約介於[大崎娜娜](../Page/大崎娜娜.md "wikilink")（[中岛美嘉飾](../Page/中岛美嘉.md "wikilink")）與[小松奈奈](../Page/小松奈奈.md "wikilink")（[宫崎葵飾](../Page/宫崎葵.md "wikilink")）兩位女主角首次在[新幹線上的邂逅開始](../Page/新幹線.md "wikilink")，到奈奈因為打工的家飾店即將歇業而失業、並在當晚首次與TrapNest的主要團員見面為止。這部电影在上映後最初4天即获得7.3亿[日元的票房收入](../Page/日元.md "wikilink")，整個放映期間有高達300萬人次的觀眾數，總收益則達到40.3億日元，是2005年度日本電影賣座第四名的作品。由於這部電影，歌手出身的女主角中岛美嘉获得[藍絲帶賞的最佳女主角和最佳新人提名](../Page/藍絲帶賞_\(電影\).md "wikilink")，并最终获得最佳新人奖，此片也获得了最佳主题奖。
+電影版的《NANA》是在2005年時，由「NANA製作委員會」根據原著漫畫單行本第一至第五集的內容為藍本，以盡可能忠於原著的方式濃縮拍攝而成。故事的情節大約介於[大崎娜娜](https://zh.wikipedia.org/wiki/大崎娜娜 "wikilink")（[中岛美嘉飾](https://zh.wikipedia.org/wiki/中岛美嘉 "wikilink")）與[小松奈奈](https://zh.wikipedia.org/wiki/小松奈奈 "wikilink")（[宫崎葵飾](https://zh.wikipedia.org/wiki/宫崎葵 "wikilink")）兩位女主角首次在[新幹線上的邂逅開始](../Page/新幹線.md "wikilink")，到奈奈因為打工的家飾店即將歇業而失業、並在當晚首次與TrapNest的主要團員見面為止。這部电影在上映後最初4天即获得7.3亿[日元的票房收入](https://zh.wikipedia.org/wiki/日元 "wikilink")，整個放映期間有高達300萬人次的觀眾數，總收益則達到40.3億日元，是2005年度日本電影賣座第四名的作品。由於這部電影，歌手出身的女主角中岛美嘉获得[藍絲帶賞的最佳女主角和最佳新人提名](https://zh.wikipedia.org/wiki/藍絲帶賞_\(電影\) "wikilink")，并最终获得最佳新人奖，此片也获得了最佳主题奖。
 
 雖然並非[歌舞片](../Page/歌舞片.md "wikilink")，但由於《NANA》的原著情節牽涉到流行音樂產業的幕前幕後，因此電影配樂歌曲成為整部影片很重要的要素之一。在參與演出的主要演員中，除了女主角之一的中島美嘉外，飾演TrapNest樂團女主唱芹澤蕾拉的[伊藤由奈](../Page/伊藤由奈.md "wikilink")，實際上也是一位歌手。在情節中存在的虛構樂團Black
 Stones（黑石）的出道主打歌、同時也是電影主題曲的《Glamorous
-Sky》（魅惑天空）是由日本知名的[彩虹樂團](../Page/彩虹樂團.md "wikilink")（）主唱[HYDE作曲](../Page/HYDE.md "wikilink")，由漫畫作者矢澤填詞，並由女主角中島美嘉演唱。單曲上市後除了奪下[公信榜的銷售冠軍外](../Page/公信榜.md "wikilink")，也獲得當年[日本唱片大賞的特別賞](../Page/日本唱片大賞.md "wikilink")。除了主題曲外，該片的插曲、片中另一個虛構樂團TrapNest的主打歌《Endless
-Story》（無盡的故事）則是由女配角伊藤由奈演唱，在排行榜上也有非常優秀的成績。而兩位女歌手也因為歌曲的賣座而被邀請參與該年[除夕夜的](../Page/除夕夜.md "wikilink")[紅白歌唱大賽](../Page/紅白歌唱大賽.md "wikilink")。
+Sky》（魅惑天空）是由日本知名的[彩虹樂團](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")（）主唱[HYDE作曲](https://zh.wikipedia.org/wiki/HYDE "wikilink")，由漫畫作者矢澤填詞，並由女主角中島美嘉演唱。單曲上市後除了奪下[公信榜的銷售冠軍外](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，也獲得當年[日本唱片大賞的特別賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。除了主題曲外，該片的插曲、片中另一個虛構樂團TrapNest的主打歌《Endless
+Story》（無盡的故事）則是由女配角伊藤由奈演唱，在排行榜上也有非常優秀的成績。而兩位女歌手也因為歌曲的賣座而被邀請參與該年[除夕夜的](https://zh.wikipedia.org/wiki/除夕夜 "wikilink")[紅白歌唱大賽](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")。
 
 ## 演员
 
-  - 小松奈奈（）- [宫崎葵飾](../Page/宫崎葵.md "wikilink")
-  - 大崎娜娜（）- [中岛美嘉飾](../Page/中岛美嘉.md "wikilink")
+  - 小松奈奈（）- [宫崎葵飾](https://zh.wikipedia.org/wiki/宫崎葵 "wikilink")
+  - 大崎娜娜（）- [中岛美嘉飾](https://zh.wikipedia.org/wiki/中岛美嘉 "wikilink")
   - 本城莲 - [松田龍平飾](../Page/松田龍平.md "wikilink")
   - 遠藤章司 - [平岡祐太飾](../Page/平岡祐太.md "wikilink")
-  - 一之濑巧（）- [玉山铁二飾](../Page/玉山铁二.md "wikilink")
+  - 一之濑巧（）- [玉山铁二飾](https://zh.wikipedia.org/wiki/玉山铁二 "wikilink")
   - 冈崎真一 - [松山研一](../Page/松山研一.md "wikilink")（）飾
-  - 寺岛伸夫 - [成宫寬貴飾](../Page/成宫寬貴.md "wikilink")
-  - 高木泰士 - [丸山智己飾](../Page/丸山智己.md "wikilink")
+  - 寺岛伸夫 - [成宫寬貴飾](https://zh.wikipedia.org/wiki/成宫寬貴 "wikilink")
+  - 高木泰士 - [丸山智己飾](https://zh.wikipedia.org/wiki/丸山智己 "wikilink")
   - 芹泽蕾拉（）- [伊藤由奈飾](../Page/伊藤由奈.md "wikilink")
   - 川村幸子 - [紗榮子飾](../Page/紗榮子.md "wikilink")
-  - 藤枝直樹 - [水谷百輔飾](../Page/水谷百輔.md "wikilink")
+  - 藤枝直樹 - [水谷百輔飾](https://zh.wikipedia.org/wiki/水谷百輔 "wikilink")
   - 早乙女淳子 - [能世安奈](../Page/能世安奈.md "wikilink")（）飾
-  - 高倉京助 - [高山猛久飾](../Page/高山猛久.md "wikilink")
-  - 佐藤公一 - [虎牙光輝飾](../Page/虎牙光輝.md "wikilink")
-  - 小松奈津子 - [宮崎美子飾](../Page/宮崎美子.md "wikilink")
-  - 小松奈緒 - [紺谷三惠子](../Page/紺谷三惠子.md "wikilink")（）飾
+  - 高倉京助 - [高山猛久飾](https://zh.wikipedia.org/wiki/高山猛久 "wikilink")
+  - 佐藤公一 - [虎牙光輝飾](https://zh.wikipedia.org/wiki/虎牙光輝 "wikilink")
+  - 小松奈津子 - [宮崎美子飾](https://zh.wikipedia.org/wiki/宮崎美子 "wikilink")
+  - 小松奈緒 - [紺谷三惠子](https://zh.wikipedia.org/wiki/紺谷三惠子 "wikilink")（）飾
   - 小松奈美 - [岡本奈月飾](../Page/岡本奈月.md "wikilink")
-  - 不動產業者（安藤先生）- [村松利史飾](../Page/村松利史.md "wikilink")
-  - 橫井 - [池田鐵洋飾](../Page/池田鐵洋.md "wikilink")
-  - 水越誠一 - [鈴木一真飾](../Page/鈴木一真.md "wikilink")
+  - 不動產業者（安藤先生）- [村松利史飾](https://zh.wikipedia.org/wiki/村松利史 "wikilink")
+  - 橫井 - [池田鐵洋飾](https://zh.wikipedia.org/wiki/池田鐵洋 "wikilink")
+  - 水越誠一 - [鈴木一真飾](https://zh.wikipedia.org/wiki/鈴木一真 "wikilink")
   - 坂上小姐 - [宍戶留美飾](../Page/宍戶留美.md "wikilink")
-  - 總編輯 - [Bengaru](../Page/Bengaru.md "wikilink")（）飾
+  - 總編輯 - [Bengaru](https://zh.wikipedia.org/wiki/Bengaru "wikilink")（）飾
 
 ## 主要工作人員
 
-  - 导演：[大谷健太郎](../Page/大谷健太郎.md "wikilink")
-  - 原著：[矢泽爱](../Page/矢泽爱.md "wikilink")
+  - 导演：[大谷健太郎](https://zh.wikipedia.org/wiki/大谷健太郎 "wikilink")
+  - 原著：[矢泽爱](https://zh.wikipedia.org/wiki/矢泽爱 "wikilink")
   - 编剧：大谷健太郎、浅野妙子
 
 ## 剧情
 
-《NANA》的故事是以小松奈奈與大崎娜娜兩個名字發音同樣都是「NANA」的女孩子作為主軸。其中，奈奈是個為了愛情，追尋一年前至東京就讀美術大學的男友遠藤章司的腳步，而隻身前往[東京的女孩](../Page/東京.md "wikilink")。另一方面，娜娜則是一個熱愛[搖滾音樂的女孩](../Page/搖滾音樂.md "wikilink")，曾經在北方的家鄉與朋友們合組一名為Black
-Stones的[龐克搖滾樂團並在當地小有名氣](../Page/龐克搖滾.md "wikilink")。兩年前樂團中的[貝斯手](../Page/貝斯.md "wikilink")、同時也是娜娜爱人的本城莲因為被另一個樂團TrapNest挖角而離去，樂團也宣告解散。為了闖出自己的未來，娜娜獨自一個人前往東京，並且很巧地在[新幹線列車上與奈奈結識](../Page/新幹線.md "wikilink")。原本以為只是萍水相逢的兩個人在[東京車站分道揚鑣後](../Page/東京車站.md "wikilink")，卻因為意外看上同一間出租公寓而再相遇，並以每月7万日元的代價合力租下了一间號碼為「707」的公寓房子，以室友的身份開始兩人的同居生活。
+《NANA》的故事是以小松奈奈與大崎娜娜兩個名字發音同樣都是「NANA」的女孩子作為主軸。其中，奈奈是個為了愛情，追尋一年前至東京就讀美術大學的男友遠藤章司的腳步，而隻身前往[東京的女孩](https://zh.wikipedia.org/wiki/東京 "wikilink")。另一方面，娜娜則是一個熱愛[搖滾音樂的女孩](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")，曾經在北方的家鄉與朋友們合組一名為Black
+Stones的[龐克搖滾樂團並在當地小有名氣](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")。兩年前樂團中的[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、同時也是娜娜爱人的本城莲因為被另一個樂團TrapNest挖角而離去，樂團也宣告解散。為了闖出自己的未來，娜娜獨自一個人前往東京，並且很巧地在[新幹線列車上與奈奈結識](../Page/新幹線.md "wikilink")。原本以為只是萍水相逢的兩個人在[東京車站分道揚鑣後](https://zh.wikipedia.org/wiki/東京車站 "wikilink")，卻因為意外看上同一間出租公寓而再相遇，並以每月7万日元的代價合力租下了一间號碼為「707」的公寓房子，以室友的身份開始兩人的同居生活。
 
 原本是為了男友而來到東京的奈奈，因為對方移情別戀而失意，但也因為娜娜與重新再組成的Black
-Stones成員之陪伴，而有了新希望。有天原本就是TrapNest歌迷的奈奈意外地收到參加抽獎而獲得的兩張免費的[演唱會前排入場券](../Page/演唱會.md "wikilink")，並從Black
+Stones成員之陪伴，而有了新希望。有天原本就是TrapNest歌迷的奈奈意外地收到參加抽獎而獲得的兩張免費的[演唱會前排入場券](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，並從Black
 Stones其他團員的口中得知TrapNest成員之一的蓮，曾經與娜娜是一對戀人。為了促成娜娜與蓮的重逢，奈奈力邀娜娜一同至她的家鄉參加演唱會，並順利地在之後讓娜娜與蓮兩人破鏡重圓。但相反的，自己在感情上的挫折，再加上突然被告知失去工作，奈奈陷入前所未有的低潮，卻在回到707號房之後，意外發現娜娜為了感謝她的幫助，特別邀請了TrapNest大部分的團員一同至707號房相聚，而開始了一段新的經歷。
 
 ### 與原著漫畫的差異點
@@ -75,7 +75,7 @@ Stones其他團員的口中得知TrapNest成員之一的蓮，曾經與娜娜是
   -
   - [NANA漫畫原著官方網站](http://www.s-nana.com)
 
-[ja:NANA\#NANA](../Page/ja:NANA#NANA.md "wikilink")
+[ja:NANA\#NANA](https://zh.wikipedia.org/wiki/ja:NANA#NANA "wikilink")
 
 [Category:NANA](https://zh.wikipedia.org/wiki/Category:NANA "wikilink")
 [Category:2005年日本電影](https://zh.wikipedia.org/wiki/Category:2005年日本電影 "wikilink")

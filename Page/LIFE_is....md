@@ -4,10 +4,10 @@ is...**（中譯：生命之歌）是[日本男歌手](../Page/日本.md "wikili
 ## 概述
 
   - 距離上一張原創專輯『[gaining through
-    losing](../Page/gaining_through_losing.md "wikilink")』約一年六個月的第五張原創專輯。
+    losing](https://zh.wikipedia.org/wiki/gaining_through_losing "wikilink")』約一年六個月的第五張原創專輯。
   - 收錄了上一張原創專輯『gaining through losing』後發行的所有單曲「[Missin' you ～It will
     break my
-    heart～](../Page/missin'_you～It_will_break_my_heart～.md "wikilink")」、「[Strawberry
+    heart～](https://zh.wikipedia.org/wiki/missin'_you～It_will_break_my_heart～ "wikilink")」、「[Strawberry
     Sex](../Page/Strawberry_Sex.md "wikilink")」、「[古老的大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")」、「[Ring](../Page/Ring_\(平井堅單曲\).md "wikilink")」，以及兩首c/w曲「ex-girlfriend」、「somebody's
     girl」。
   - ORICON日本公信榜登場回數89周，是自身登場回數最多的原創專輯。
@@ -16,7 +16,7 @@ is...**（中譯：生命之歌）是[日本男歌手](../Page/日本.md "wikili
 ## 單曲銷量
 
   - [Missin' you ～It will break my
-    heart～](../Page/missin'_you～It_will_break_my_heart～.md "wikilink")：ORICON最高第4名。銷量約11.5萬張
+    heart～](https://zh.wikipedia.org/wiki/missin'_you～It_will_break_my_heart～ "wikilink")：ORICON最高第4名。銷量約11.5萬張
   - [Strawberry
     Sex](../Page/Strawberry_Sex.md "wikilink")：ORICON最高第13名。銷量約4.9萬張
   - [古老的大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")：ORICON最高第1名。銷量約77.2萬張
@@ -28,7 +28,7 @@ is...**（中譯：生命之歌）是[日本男歌手](../Page/日本.md "wikili
 
 1.  **[Strawberry Sex](../Page/Strawberry_Sex.md "wikilink")**
       - 作詞：多田塚、平井堅／作曲：中野雅人、平井堅／編曲：中野雅仁
-      - [HONDA](../Page/HONDA.md "wikilink")「That's」電視廣告曲
+      - [HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")「That's」電視廣告曲
 2.  **REVOLVER**
       - 作詞：平井堅、Sean Garren／作曲：T.KURA、Sean Garren／編曲：T.KURA
 3.  **[ex-girlfriend](../Page/Strawberry_Sex.md "wikilink")**
@@ -43,7 +43,7 @@ is...**（中譯：生命之歌）是[日本男歌手](../Page/日本.md "wikili
 7.  **I'm so drunk**
       - 作詞・作曲：平井堅／編曲：AKIRA
 8.  **[Missin' you ～It will break my
-    heart～](../Page/missin'_you～It_will_break_my_heart～.md "wikilink")**
+    heart～](https://zh.wikipedia.org/wiki/missin'_you～It_will_break_my_heart～ "wikilink")**
       - 作詞：平井堅／作曲・編曲：Babyface
 9.  **世界上最愛的就是妳？**
       - 作詞：平井堅／作曲・編曲：Makoto Kuriya
@@ -55,9 +55,10 @@ is...**（中譯：生命之歌）是[日本男歌手](../Page/日本.md "wikili
       - [TBS電視台連續劇](../Page/TBS電視台.md "wikilink")「帥哥醫生」主題歌
 12. **[古老的大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")**
       - 作詞・作曲：Henry Clay Work／譯詞：保富康午／編曲：龜田誠治
-      - [NHK](../Page/NHK.md "wikilink") 2002年8、9月「大家的歌」
+      - [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")
+        2002年8、9月「大家的歌」
       - au by KDDI「EZ配信」電視廣告曲
-      - 2003年第75回[選拔高等學校野球大會開會式入場曲](../Page/選拔高等學校野球大會.md "wikilink")
+      - 2003年第75回[選拔高等學校野球大會開會式入場曲](https://zh.wikipedia.org/wiki/選拔高等學校野球大會 "wikilink")
 
 ## 參考資料
 

@@ -4,7 +4,7 @@
 
 ### 成員
 
-  - 大島康祐（[日本](../Page/日本.md "wikilink")[福岡縣人](../Page/福岡縣.md "wikilink")），WANDS第一期鍵盤。
+  - 大島康祐（[日本](../Page/日本.md "wikilink")[福岡縣人](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")），WANDS第一期鍵盤。
   - 上杉昇（[日本](../Page/日本.md "wikilink")[神奈川縣人](../Page/神奈川縣.md "wikilink")），WANDS第一、二期主唱。
   - 柴崎浩（[日本](../Page/日本.md "wikilink")[東京都人](../Page/東京都.md "wikilink")），WANDS第一、二期吉他。
   - 木村真也（[日本](../Page/日本.md "wikilink")[青森縣人](../Page/青森縣.md "wikilink")），WANDS第二、三期鍵盤。
@@ -14,7 +14,7 @@
 ### 取名由來
 
 日本音樂大廠**Being Music
-Fantasy**在1991年，由[長戶大幸先生一手策劃](../Page/長戶大幸.md "wikilink")，促生的搖滾樂團。WANDS之名來源是取自[塔羅牌的卡片](../Page/塔羅牌.md "wikilink")[權杖](../Page/權杖.md "wikilink")，取其理想、熱情、追求之意。在鍵盤手大島康祐脫團後，也有了取當時的靈魂人物上杉昇（**W**esugi
+Fantasy**在1991年，由[長戶大幸先生一手策劃](../Page/長戶大幸.md "wikilink")，促生的搖滾樂團。WANDS之名來源是取自[塔羅牌的卡片](../Page/塔羅牌.md "wikilink")[權杖](https://zh.wikipedia.org/wiki/權杖 "wikilink")，取其理想、熱情、追求之意。在鍵盤手大島康祐脫團後，也有了取當時的靈魂人物上杉昇（**W**esugi
 Show）和柴崎浩（**S**hibasaki
 Hiroshi）的「W」和「S」組成『**W**AND**S**』的說法，更讓這個名字有了更深一層的意涵。
 
@@ -33,7 +33,7 @@ Hiroshi）的「W」和「S」組成『**W**AND**S**』的說法，更讓這個�
 
 \[第2期\]
 
-  - 1992年10月與**[中山美穂](../Page/中山美穂.md "wikilink")**發行單曲「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」，是張大賣近兩百萬的單曲。
+  - 1992年10月與**[中山美穂](https://zh.wikipedia.org/wiki/中山美穂 "wikilink")**發行單曲「[世界中の誰よりきっと](https://zh.wikipedia.org/wiki/世界中の誰よりきっと "wikilink")」，是張大賣近兩百萬的單曲。
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@ Hiroshi）的「W」和「S」組成『**W**AND**S**』的說法，更讓這個�
 
 <!-- end list -->
 
-  - 1994年6月發行第八張單曲「[世界が終るまでは…](../Page/直到世界的盡頭….md "wikilink")」。此單曲為朝日電視台動畫[灌籃高手片尾曲](../Page/灌籃高手.md "wikilink")。
+  - 1994年6月發行第八張單曲「[世界が終るまでは…](../Page/直到世界的盡頭….md "wikilink")」。此單曲為朝日電視台動畫[灌籃高手片尾曲](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")。
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@ Hiroshi）的「W」和「S」組成『**W**AND**S**』的說法，更讓這個�
 
 \[第3期\]
 
-  - 1997年9月發行第十二張單曲「錆びついたマシンガソで今を擊ち拔こう」。此單曲為富士電視台動畫[七龍珠GT片尾曲](../Page/七龍珠.md "wikilink")。
+  - 1997年9月發行第十二張單曲「錆びついたマシンガソで今を擊ち拔こう」。此單曲為富士電視台動畫[七龍珠GT片尾曲](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")。
   - 同年11月發行第二張精選輯「WANDS BEST ～HISTORIAL BEST ALBUM～」。
 
 <!-- end list -->

@@ -7,7 +7,7 @@
 2000年11月15日，騰訊公司發布了**騰訊Explorer**（**T**encent
 **E**xplorer，簡稱**TE**）的首個版本，並將其捆綁於5日後發布的OICQ 2000
 Preview1
-1115（即現在的[騰訊QQ](../Page/騰訊QQ.md "wikilink")）中。\[2\]該瀏覽器是中國大陸最早的[分頁瀏覽器之一](../Page/分頁瀏覽器.md "wikilink")\[3\]\[4\]，使用Trident排版引擎（即常說的Internet
+1115（即現在的[騰訊QQ](https://zh.wikipedia.org/wiki/騰訊QQ "wikilink")）中。\[2\]該瀏覽器是中國大陸最早的[分頁瀏覽器之一](https://zh.wikipedia.org/wiki/分頁瀏覽器 "wikilink")\[3\]\[4\]，使用Trident排版引擎（即常說的Internet
 Explorer內核）對页面進行渲染\[5\]。
 
 首個版本的騰訊TE中包含了「谁与我同在」的功能，該功能可以讓同時瀏覽同一網頁的OICQ用戶進行在線交流，然而這個功能引起用戶對個人資料安全的擔憂。為消除用戶疑慮，騰訊在2003年4月24日發布聲明，稱使用該功能時瀏覽網頁並不會暴露個人資料；若用戶不想使用該功能但同時要使用瀏覽器，可選擇「隱身」模式。\[6\]
@@ -15,7 +15,7 @@ Explorer內核）對页面進行渲染\[5\]。
 ### 剝離QQ並重寫原始碼的騰訊TT（2003－2009）
 
 2003年，騰訊在騰訊TE的基礎上對其原始碼進行重寫，並於11月11日發布首個版本的新瀏覽器，即**騰訊TT**（**T**encent
-**T**raveler）。\[7\]至此，軟件正式從騰訊QQ中剝離，成為獨立的一個軟件\[8\]。與騰訊TE相比，騰訊TT增加了如更換軟件皮膚等個性化功能；同時，還開始提供了[鼠標手勢](../Page/鼠標手勢.md "wikilink")、智能屏蔽廣告等輔助功能。\[9\]但其中的「智能屏蔽廣告」功能會對用戶上網瀏覽的內容進行記錄，並將記錄存儲在軟件安裝目錄下的TTraveler2.dat文件中，有洩漏用戶上網信息之虞。\[10\]
+**T**raveler）。\[7\]至此，軟件正式從騰訊QQ中剝離，成為獨立的一個軟件\[8\]。與騰訊TE相比，騰訊TT增加了如更換軟件皮膚等個性化功能；同時，還開始提供了[鼠標手勢](https://zh.wikipedia.org/wiki/鼠標手勢 "wikilink")、智能屏蔽廣告等輔助功能。\[9\]但其中的「智能屏蔽廣告」功能會對用戶上網瀏覽的內容進行記錄，並將記錄存儲在軟件安裝目錄下的TTraveler2.dat文件中，有洩漏用戶上網信息之虞。\[10\]
 
 騰訊於2008年再次對程式進行重寫，並於5月7日發布4.0版，自該版開始，TT打開網頁將以多線程進行瀏覽，以提高速度和性能。\[11\]但仍是以Trident排版引擎為核心。4.X系列的最後版本為2011年1月5日發布的4.8(1000)版\[12\]。
 
@@ -26,11 +26,11 @@ Explorer內核）對页面進行渲染\[5\]。
 2010年5月25日，騰訊發布了QQ瀏覽器5.0
 Preview1版，QQ瀏覽器開始使用Webkit和Trident雙內核對網頁進行渲染\[13\]。
 
-QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](../Page/搜狗瀏覽器.md "wikilink")、[楓樹瀏覽器](../Page/楓樹瀏覽器.md "wikilink")（ChromePlus）進行聯合推廣\[14\]，瀏覽者瀏覽[搜狐主頁](http://www.sohu.com/)和[楓樹瀏覽器主頁](http://www.chromeplus.org/)時，面頁頂端會彈出顯眼的提示條進行宣傳。
+QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https://zh.wikipedia.org/wiki/搜狗瀏覽器 "wikilink")、[楓樹瀏覽器](https://zh.wikipedia.org/wiki/楓樹瀏覽器 "wikilink")（ChromePlus）進行聯合推廣\[14\]，瀏覽者瀏覽[搜狐主頁](http://www.sohu.com/)和[楓樹瀏覽器主頁](http://www.chromeplus.org/)時，面頁頂端會彈出顯眼的提示條進行宣傳。
 
 ### QQ浏览器7.0预览版（2012）
 
-2012年10月，QQ浏览器7.0预览版在[腾讯体验中心网站公开发布](../Page/腾讯体验中心.md "wikilink")，开放测试。QQ浏览器7.0预览版采用新版界面，品牌与[手机QQ浏览器保持一致](../Page/手机QQ浏览器.md "wikilink")。7.0版本去除了[Webkit内核](../Page/Webkit.md "wikilink")，在功能方面也有大幅度简化\[15\]。
+2012年10月，QQ浏览器7.0预览版在[腾讯体验中心网站公开发布](https://zh.wikipedia.org/wiki/腾讯体验中心 "wikilink")，开放测试。QQ浏览器7.0预览版采用新版界面，品牌与[手机QQ浏览器保持一致](https://zh.wikipedia.org/wiki/手机QQ浏览器 "wikilink")。7.0版本去除了[Webkit内核](https://zh.wikipedia.org/wiki/Webkit "wikilink")，在功能方面也有大幅度简化\[15\]。
 
 ### QQ浏览器8.0（2014）
 
@@ -64,11 +64,11 @@ QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](../Pag
 
 <!-- end list -->
 
-  - [猎豹浏览器](../Page/猎豹浏览器.md "wikilink")
+  - [猎豹浏览器](https://zh.wikipedia.org/wiki/猎豹浏览器 "wikilink")
 
 <!-- end list -->
 
-  - [搜狗浏览器](../Page/搜狗浏览器.md "wikilink")
+  - [搜狗浏览器](https://zh.wikipedia.org/wiki/搜狗浏览器 "wikilink")
 
 ## 註釋及參考資料
 

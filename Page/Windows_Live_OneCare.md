@@ -12,9 +12,9 @@ Update合作，以提供自动视窗系统更新，OneCare也备有即时帮助�
 
 [Onecare.jpg](https://zh.wikipedia.org/wiki/File:Onecare.jpg "fig:Onecare.jpg")
 Windows Live
-OneCare在部分地区（例如美国等国家）销售，但未在[大中華地區推出](../Page/大中華地區.md "wikilink")。由于Windows
+OneCare在部分地区（例如美国等国家）销售，但未在[大中華地區推出](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。由于Windows
 Live
-Onecare的售价比一般的杀毒软件便宜不少，很受到[中小企业和家庭使用者的青睐](../Page/中小企业.md "wikilink")。試用版用户拥有90日的免费試用期，試用完整的功能。Windows
+Onecare的售价比一般的杀毒软件便宜不少，很受到[中小企业和家庭使用者的青睐](https://zh.wikipedia.org/wiki/中小企业 "wikilink")。試用版用户拥有90日的免费試用期，試用完整的功能。Windows
 Live OneCare每年收费49.95美元，最多可供3台PC共用。Windows Live
 OneCare直到2009年6月30日，直接销售则将随着Microsoft Security
 Essentials推出逐渐取消；声明指出：“微软将确保所有现存顾客在订购的服务期间，持续受到保护。在2009年10月，Windows Live
@@ -32,7 +32,7 @@ Windows Card Space Help（3.0.4506.4926）
 
   - [Windows Live](../Page/Windows_Live.md "wikilink")
   - [Windows Live OneCare Safety
-    Scanner](../Page/Windows_Live_OneCare_Safety_Scanner.md "wikilink")
+    Scanner](https://zh.wikipedia.org/wiki/Windows_Live_OneCare_Safety_Scanner "wikilink")
   - [Microsoft Security
     Essentials](../Page/Microsoft_Security_Essentials.md "wikilink")
 

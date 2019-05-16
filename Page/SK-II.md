@@ -1,4 +1,4 @@
-**SK-II**是一个源自[日本的走高檔路線的](../Page/日本.md "wikilink")[化妝品及](../Page/化妝品.md "wikilink")[護膚品品牌](../Page/護膚品.md "wikilink")\[1\]。1980年，SK-II品牌以及商标被[寶潔公司收购](../Page/寶潔公司.md "wikilink")，並授权日本的宝洁公司负责品牌的全面生產，其主要成份Pitera为镇牌配方，无[香料](../Page/香料.md "wikilink")。
+**SK-II**是一个源自[日本的走高檔路線的](../Page/日本.md "wikilink")[化妝品及](../Page/化妝品.md "wikilink")[護膚品品牌](https://zh.wikipedia.org/wiki/護膚品 "wikilink")\[1\]。1980年，SK-II品牌以及商标被[寶潔公司收购](https://zh.wikipedia.org/wiki/寶潔公司 "wikilink")，並授权日本的宝洁公司负责品牌的全面生產，其主要成份Pitera为镇牌配方，无[香料](https://zh.wikipedia.org/wiki/香料 "wikilink")。
 
 ## 歷史
 
@@ -15,7 +15,7 @@ SK-II本是蜜絲佛陀的子公司，其後蜜絲佛陀市佔率萎縮，賣了
   - [倪妮](../Page/倪妮.md "wikilink")
   - [春夏](../Page/春夏.md "wikilink")
   - [霍建華](../Page/霍建華.md "wikilink")
-  - [劉嘉玲](../Page/劉嘉玲.md "wikilink")
+  - [劉嘉玲](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")
   - [琦琦](../Page/琦琦.md "wikilink")
   - [關之琳](../Page/關之琳.md "wikilink")
   - [鄭秀文](../Page/鄭秀文.md "wikilink")
@@ -24,16 +24,16 @@ SK-II本是蜜絲佛陀的子公司，其後蜜絲佛陀市佔率萎縮，賣了
   - [李心潔](../Page/李心潔.md "wikilink")
   - [高以翔](../Page/高以翔.md "wikilink")
   - [綾瀨遙](../Page/綾瀨遙.md "wikilink")
-  - [李沇熹](../Page/李沇熹.md "wikilink")
+  - [李沇熹](https://zh.wikipedia.org/wiki/李沇熹 "wikilink")
   - [劉智泰](../Page/劉智泰.md "wikilink")
   - [有村架純](../Page/有村架純.md "wikilink")
-  - [桃井薰](../Page/桃井薰.md "wikilink")
+  - [桃井薰](https://zh.wikipedia.org/wiki/桃井薰 "wikilink")
 
 ## 爭議
 
 ### 烧碱风波
 
-  - 2005年3月，一名[南昌SK](../Page/南昌.md "wikilink")-II的消费者向当地法院起诉SK-II利用虚假广告进行欺骗并申请追加SK-II的广告代言人刘嘉玲为被告，理由是她在连续使用28天后并没有达到广告所宣传的效果，反而出现皮肤瘙痒和灼痛的情况。原告律师认为，SK-II添加了有强烈腐蚀作用的烧碱（[氢氧化钠](../Page/氢氧化钠.md "wikilink")）及[聚四氟乙烯和](../Page/聚四氟乙烯.md "wikilink")[苯甲酸钠是造成原告皮肤伤害的原因](../Page/苯甲酸钠.md "wikilink")。
+  - 2005年3月，一名[南昌SK](https://zh.wikipedia.org/wiki/南昌 "wikilink")-II的消费者向当地法院起诉SK-II利用虚假广告进行欺骗并申请追加SK-II的广告代言人刘嘉玲为被告，理由是她在连续使用28天后并没有达到广告所宣传的效果，反而出现皮肤瘙痒和灼痛的情况。原告律师认为，SK-II添加了有强烈腐蚀作用的烧碱（[氢氧化钠](../Page/氢氧化钠.md "wikilink")）及[聚四氟乙烯和](../Page/聚四氟乙烯.md "wikilink")[苯甲酸钠是造成原告皮肤伤害的原因](../Page/苯甲酸钠.md "wikilink")。
 
 <!-- end list -->
 

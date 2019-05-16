@@ -1,10 +1,10 @@
 [Clippy-letter.png](https://zh.wikipedia.org/wiki/File:Clippy-letter.png "fig:Clippy-letter.png")
 [WordHelpers.png](https://zh.wikipedia.org/wiki/File:WordHelpers.png "fig:WordHelpers.png")
 **Office助手**（）是[微软](../Page/微软.md "wikilink")[Office从Office](../Page/Microsoft_Office.md "wikilink")97开始具有的特性。这个特性是提供不同的搜索功能的程序帮助系统的入口，这个系统在Office
-97至2002年[Windows版本和](../Page/Windows.md "wikilink")98至2004
-[Macintosh版本是基于](../Page/Macintosh.md "wikilink")[贝叶斯算法的](../Page/贝叶斯概率.md "wikilink")。Office助手最初是由[滑铁卢大学的计算机科学实习生设计和发展的](../Page/滑铁卢大学.md "wikilink")。其默认助手为-{zh-hans:[大眼夹](../Page/迴紋針.md "wikilink");
-zh-hant:大眼[迴紋針](../Page/迴紋針.md "wikilink");}-（英语：Clippy），由Kevan J.
-Atteberry设计。\[1\]\[2\]
+97至2002年[Windows版本和](https://zh.wikipedia.org/wiki/Windows "wikilink")98至2004
+[Macintosh版本是基于](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[贝叶斯算法的](../Page/贝叶斯概率.md "wikilink")。Office助手最初是由[滑铁卢大学的计算机科学实习生设计和发展的](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")。其默认助手为-{zh-hans:[大眼夹](https://zh.wikipedia.org/wiki/迴紋針 "wikilink");
+zh-hant:大眼[迴紋針](https://zh.wikipedia.org/wiki/迴紋針 "wikilink");}-（英语：Clippy），由Kevan
+J. Atteberry设计。\[1\]\[2\]
 
 ## 概述
 
@@ -16,15 +16,15 @@ Friendly Character）”。
 
 除了大眼迴紋針外，其他动画助手也是可用的，比如“小灵通”，F-1等。很多情况下，激活其他助手角色需要插入Office
 CD，因此，默认的助手-大眼迴紋針，成为了最广为人知的角色，特别是盗版和共享版Office的用户。在有Agent的版本，用户通过添加一个其他.acs文件来是可以选择的助手出现在设定的地方。Office助手在[Mac
-OS版本的Office中](../Page/Mac_OS.md "wikilink")，从Office98也出现了，默认助手叫做Max，是一个[苹果Plus电脑](../Page/苹果Plus电脑.md "wikilink")（同时大眼迴紋針仍然可用）。
+OS版本的Office中](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，从Office98也出现了，默认助手叫做Max，是一个[苹果Plus电脑](https://zh.wikipedia.org/wiki/苹果Plus电脑 "wikilink")（同时大眼迴紋針仍然可用）。
 
 从Office 2000开始[Microsoft
-Agent](../Page/Microsoft_Agent.md "wikilink")（.ACS）代替了早前的微软Bob继承演员格式（.ACT）成为了这个特性的支持技术。在微软Office
-XP多语言包中提供了两个额外角色：[冴子先生](../Page/冴子先生.md "wikilink")（繁体中文版称Office小姐、简体中文版称苗苗老师）和[孙悟空](../Page/孙悟空.md "wikilink")。大眼迴紋針激发了像Vigor一样的滑稽的模仿。Vigor是一个vi文本编辑器的版本，它有一个提供无用帮助的大眼迴紋針。
+Agent](https://zh.wikipedia.org/wiki/Microsoft_Agent "wikilink")（.ACS）代替了早前的微软Bob继承演员格式（.ACT）成为了这个特性的支持技术。在微软Office
+XP多语言包中提供了两个额外角色：[冴子先生](https://zh.wikipedia.org/wiki/冴子先生 "wikilink")（繁体中文版称Office小姐、简体中文版称苗苗老师）和[孙悟空](../Page/孙悟空.md "wikilink")。大眼迴紋針激发了像Vigor一样的滑稽的模仿。Vigor是一个vi文本编辑器的版本，它有一个提供无用帮助的大眼迴紋針。
 
 ## 卸任的迴紋針
 
-微软[广告战的一个关键元素之一就是Office](../Page/广告.md "wikilink")
+微软[广告战的一个关键元素之一就是Office](https://zh.wikipedia.org/wiki/广告 "wikilink")
 XP中“可删除的”大眼迴紋針以及Office助手，虽然事实上只是简单地停用。Office助手在Office2003仍然可用，虽然这个版本有所进步——默认不会安装Office助手。一些不出名的运动包括已被关闭的网站officeclippy.com（仍然在archive.org可读），创造了动画——大眼迴紋針的冒险（由喜剧演员Gilbert
 Gottfrid配音，他因为故意的恼人嗓音而闻名），其中它要学着对抗失业。
 

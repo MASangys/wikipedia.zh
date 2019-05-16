@@ -1,20 +1,20 @@
-**AGM-84魚叉**（Harpoon）[反艦飛彈是由](../Page/反艦飛彈.md "wikilink")[美國](../Page/美國.md "wikilink")[麥克唐納-道格拉斯公司開發的反艦導彈](../Page/麥克唐納-道格拉斯公司.md "wikilink")，在1979年裝備部隊使用，也是美國海空軍現役最主要的反艦武器，可以自[飛機](../Page/飛機.md "wikilink")，各類水面[軍艦以及](../Page/軍艦.md "wikilink")[潛艇上發射](../Page/潛艇.md "wikilink")。此外，[美國海軍利用魚叉飛彈開發出遠程陸上攻擊型](../Page/美國海軍.md "wikilink")（SLAM：Stand-off
+**AGM-84魚叉**（Harpoon）[反艦飛彈是由](../Page/反艦飛彈.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麥克唐納-道格拉斯公司開發的反艦導彈](https://zh.wikipedia.org/wiki/麥克唐納-道格拉斯公司 "wikilink")，在1979年裝備部隊使用，也是美國海空軍現役最主要的反艦武器，可以自[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，各類水面[軍艦以及](https://zh.wikipedia.org/wiki/軍艦 "wikilink")[潛艇上發射](../Page/潛艇.md "wikilink")。此外，[美國海軍利用魚叉飛彈開發出遠程陸上攻擊型](../Page/美國海軍.md "wikilink")（SLAM：Stand-off
 Land Attack
 Missile）。在美國三軍通用編號當中，AGM-84為空射型，RGM-84為艦射型，UGM-84則是水下潛艇發射型，但是他們的基本結構都是相同的。
 
 ## 發展沿革
 
-在魚叉飛彈開發前，美國海軍已經有可空射的[AGM-12飛彈](../Page/AGM-12飛彈.md "wikilink")，1965年由推動研發的魚叉飛彈是一種空射、主要設定目標是[潛艦](../Page/潛艦.md "wikilink")，計畫射程45公裏；美國海軍在1960年代初尚無認真地思考艦載反艦飛彈的需求，當時[核子武器可以將大部分的威脅給解決掉](../Page/核子武器.md "wikilink")。直到1967年[第三次中東戰争中](../Page/第三次中東戰争.md "wikilink")，[埃及用俄製](../Page/埃及.md "wikilink")[冥河飛彈擊沉了](../Page/SS-N-2.md "wikilink")[以色列的](../Page/以色列.md "wikilink")[艾拉特号驅逐艦](../Page/艾拉特.md "wikilink")，美國海軍才意識到反艦飛彈對水面艦的威脅，並成立團隊評估艦載反艦飛彈的需求。在美國海軍作戰部長上將推動下，魚叉飛彈在1968年開始方案論證，1970年11月确定開發計劃，1971年1月進行招标，同年6月從參予競争的5家公司中選定[麥道公司爲主承包商](../Page/麥道公司.md "wikilink")，進入工程發展階段。
+在魚叉飛彈開發前，美國海軍已經有可空射的[AGM-12飛彈](../Page/AGM-12飛彈.md "wikilink")，1965年由推動研發的魚叉飛彈是一種空射、主要設定目標是[潛艦](https://zh.wikipedia.org/wiki/潛艦 "wikilink")，計畫射程45公裏；美國海軍在1960年代初尚無認真地思考艦載反艦飛彈的需求，當時[核子武器可以將大部分的威脅給解決掉](https://zh.wikipedia.org/wiki/核子武器 "wikilink")。直到1967年[第三次中東戰争中](https://zh.wikipedia.org/wiki/第三次中東戰争 "wikilink")，[埃及用俄製](../Page/埃及.md "wikilink")[冥河飛彈擊沉了](https://zh.wikipedia.org/wiki/SS-N-2 "wikilink")[以色列的](../Page/以色列.md "wikilink")[艾拉特号驅逐艦](https://zh.wikipedia.org/wiki/艾拉特 "wikilink")，美國海軍才意識到反艦飛彈對水面艦的威脅，並成立團隊評估艦載反艦飛彈的需求。在美國海軍作戰部長上將推動下，魚叉飛彈在1968年開始方案論證，1970年11月确定開發計劃，1971年1月進行招标，同年6月從參予競争的5家公司中選定[麥道公司爲主承包商](https://zh.wikipedia.org/wiki/麥道公司 "wikilink")，進入工程發展階段。
 
 魚叉飛彈發展計劃分爲武器系統的設計、研制和使用鑒定試驗3個階段。計劃中共用樣本飛彈102枚，其中設計用的有32枚，研制用的有40枚，用于鑒定試驗有30枚；其中80枚帶制導及控制系統，10枚裝有戰鬥段的全功能實彈。
 
-首批原型彈1972年10月17日試射，原型彈是由固態火箭發動機提供動力，不過在後續技術需求上射程加倍至90公裏，麥道因此放棄火箭推進，決定以[渦輪噴射發動機作為飛彈動力](../Page/渦輪噴射發動機.md "wikilink")。魚叉飛彈的動力測試直至1977年3月才試驗結束，共發射樣本飛彈40枚；至1974年起魚叉飛彈的主動尋標器開始進行測試。1975年7月投入首批生産，同年12月完成研制，在1977年7月開始進入美國海軍水面艦艇服役，空射型魚叉飛彈在1979年服役，配備至P-3巡邏機上；潛射型魚叉飛彈則到1981年才完成研發服役。
+首批原型彈1972年10月17日試射，原型彈是由固態火箭發動機提供動力，不過在後續技術需求上射程加倍至90公裏，麥道因此放棄火箭推進，決定以[渦輪噴射發動機作為飛彈動力](https://zh.wikipedia.org/wiki/渦輪噴射發動機 "wikilink")。魚叉飛彈的動力測試直至1977年3月才試驗結束，共發射樣本飛彈40枚；至1974年起魚叉飛彈的主動尋標器開始進行測試。1975年7月投入首批生産，同年12月完成研制，在1977年7月開始進入美國海軍水面艦艇服役，空射型魚叉飛彈在1979年服役，配備至P-3巡邏機上；潛射型魚叉飛彈則到1981年才完成研發服役。
 
 魚叉飛彈研制費382.3百萬[美元](../Page/美元.md "wikilink")，采購費爲3909.6百萬美元，總計4291.9百萬美元，制造樣本飛彈84枚，首批生産總數4013枚，每月生産率40枚，單價97.4萬美元。
 
 艦射型魚叉飛彈絕大部分都裝設在上，但某些缺少放置發射架空間的艦種也可以使用[Mk
-13型飛彈發射器或](../Page/Mk_13型飛彈發射器.md "wikilink")[MK-16反潛火箭發射器投射](../Page/阿斯洛克反潛飛彈.md "wikilink")。至今仍不相容[Mark
-41垂直發射系統](../Page/Mark_41垂直發射系統.md "wikilink")。
+13型飛彈發射器或](../Page/Mk_13型飛彈發射器.md "wikilink")[MK-16反潛火箭發射器投射](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")。至今仍不相容[Mark
+41垂直發射系統](https://zh.wikipedia.org/wiki/Mark_41垂直發射系統 "wikilink")。
 
 [中華民國空軍的](../Page/中華民國空軍.md "wikilink")[F-16 Block
 20是全世界F](../Page/F-16_Block_20.md "wikilink")-16族系中第一款整合魚叉飛彈做為主力反艦武器的型號\[1\]。
@@ -23,7 +23,7 @@ Missile）。在美國三軍通用編號當中，AGM-84為空射型，RGM-84為�
 
 魚叉飛彈設計主要分成四個結構：尋標器、導航電腦、彈頭、引擎。
 
-初期型魚叉飛彈主動尋標器型號為AN／DSQ-28，它為一款操作頻率的二維雷達，可在飛行方向45度角區域內進行搜索，由於魚叉飛彈原始設計為攻擊上浮的潛艦，對小型目標的尋獲鎖定功能不差，對現代驅逐艦搜索距離最遠可達40公裏，一般可搜索距離也有18公裏。導航電腦代號AN／DSQ-44，DSQ-44並無使用[慣性導航系統](../Page/慣性導航系統.md "wikilink")，而是運用可測定三軸空間的姿態參照系統（Attitude
+初期型魚叉飛彈主動尋標器型號為AN／DSQ-28，它為一款操作頻率的二維雷達，可在飛行方向45度角區域內進行搜索，由於魚叉飛彈原始設計為攻擊上浮的潛艦，對小型目標的尋獲鎖定功能不差，對現代驅逐艦搜索距離最遠可達40公裏，一般可搜索距離也有18公裏。導航電腦代號AN／DSQ-44，DSQ-44並無使用[慣性導航系統](https://zh.wikipedia.org/wiki/慣性導航系統 "wikilink")，而是運用可測定三軸空間的姿態參照系統（Attitude
 Reference
 Assembly，**ATA**），ATA導航準確度雖差於慣性導航，但是對配備主動尋標器的魚叉飛彈來說是一個可以容忍的設計權衡。至2000年代後，魚叉Block
 II之後的新型號導航段引入[聯合直接攻擊彈藥的導航設備](../Page/聯合直接攻擊彈藥.md "wikilink")，具有所謂「沿岸目標壓制模式」（Coastal
@@ -38,14 +38,14 @@ AGM-84魚叉導彈有各種衍生型號，其性能如下\[2\][AGM-84“捕鲸�
 ### 導引設計
 
   - ATA導航，末端主動雷達導引（AGM-84A/B/C/G）
-  - 慣性導航、[GPS中途導引和紅外成像末導引](../Page/GPS.md "wikilink")（AGM-84E/H）
+  - 慣性導航、[GPS中途導引和紅外成像末導引](https://zh.wikipedia.org/wiki/GPS "wikilink")（AGM-84E/H）
   - 慣性導航、GPS、地形辨識中途導引和紅外成像末導引（Grand SLAM）
 
 ### 結構
 
   - 引信：近炸引信／觸發引信
   - 彈重；540公斤（AGM-84A/B/C/G），627公斤（AGM-84E），725公斤（AGM-84H）
-  - 彈長：3.85[米](../Page/米.md "wikilink")（AGM-84A/B/C/G），4.50米（AGM-84E），4.37米（AGM-84H）
+  - 彈長：3.85[米](https://zh.wikipedia.org/wiki/米 "wikilink")（AGM-84A/B/C/G），4.50米（AGM-84E），4.37米（AGM-84H）
   - 彈徑：343毫米
   - 翼展：914毫米（AGM-84A/B/C/E/G），2430毫米（AGM-84H)
 
@@ -55,7 +55,7 @@ AGM-84魚叉導彈有各種衍生型號，其性能如下\[2\][AGM-84“捕鲸�
 
 ## 發射過程
 
-AGM-84魚叉導彈發射前，由載機上的探測系統提供目标數據，然後輸入導彈的-{zh-cn:[計算機](../Page/計算機.md "wikilink");zh-tw:[電腦](../Page/電腦.md "wikilink");}-内。導彈發射後，迅速下降至60米左右的[巡航高度](../Page/巡航.md "wikilink")，以0.75[馬赫的速度飛行](../Page/馬赫.md "wikilink")。在離目标一定距離時，導引頭根據所選定的方式，開始搜索前方的區域。於捕獲到目标後，AGM-84魚叉導彈進一步下降高度，並貼海飛行。當接近敵艦時，導彈會突然躍升，然後向目标俯沖，穿入艦橋内部爆炸，以提高摧毀敵艦指管通情能量效果。\[3\]
+AGM-84魚叉導彈發射前，由載機上的探測系統提供目标數據，然後輸入導彈的-{zh-cn:[計算機](https://zh.wikipedia.org/wiki/計算機 "wikilink");zh-tw:[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink");}-内。導彈發射後，迅速下降至60米左右的[巡航高度](https://zh.wikipedia.org/wiki/巡航 "wikilink")，以0.75[馬赫的速度飛行](https://zh.wikipedia.org/wiki/馬赫 "wikilink")。在離目标一定距離時，導引頭根據所選定的方式，開始搜索前方的區域。於捕獲到目标後，AGM-84魚叉導彈進一步下降高度，並貼海飛行。當接近敵艦時，導彈會突然躍升，然後向目标俯沖，穿入艦橋内部爆炸，以提高摧毀敵艦指管通情能量效果。\[3\]
 
 ## 實戰紀錄
 
@@ -63,11 +63,11 @@ AGM-84魚叉導彈發射前，由載機上的探測系統提供目标數據，�
 
 魚叉飛彈首次實戰紀錄發生於兩伊戰爭期間。1980年11月，伊朗在*珍珠行動*之中以飛彈快艇襲擊並擊沉了兩艘伊拉克所屬的“黃蜂”級(OSA-class)飛彈快艇。其中伊朗所使用的武裝即包括了魚叉飛彈。
 
-1986年，美國海軍在[錫德拉灣以魚叉飛彈擊沉了兩艘](../Page/錫德拉灣.md "wikilink")[利比亞所屬的巡邏艇](../Page/利比亞.md "wikilink")。其中兩枚飛彈係由CG-48約克頓號所發射的，但可能沒有命中目標；[A-6入侵者式攻擊機另外發射了數枚魚叉飛彈](../Page/A-6入侵者式攻擊機.md "wikilink")，並據信皆命中其鎖定之標的\[4\]\[5\]。雖然攻擊後的初步報告顯示由約克頓號所發射的飛彈亦擊中所瞄準的巡邏艇，但後續報告顯示這些魚叉飛彈所命中的可能僅僅是假目標，並非原先所認為的巡邏艇\[6\]。
+1986年，美國海軍在[錫德拉灣以魚叉飛彈擊沉了兩艘](../Page/錫德拉灣.md "wikilink")[利比亞所屬的巡邏艇](https://zh.wikipedia.org/wiki/利比亞 "wikilink")。其中兩枚飛彈係由CG-48約克頓號所發射的，但可能沒有命中目標；[A-6入侵者式攻擊機另外發射了數枚魚叉飛彈](../Page/A-6入侵者式攻擊機.md "wikilink")，並據信皆命中其鎖定之標的\[4\]\[5\]。雖然攻擊後的初步報告顯示由約克頓號所發射的飛彈亦擊中所瞄準的巡邏艇，但後續報告顯示這些魚叉飛彈所命中的可能僅僅是假目標，並非原先所認為的巡邏艇\[6\]。
 
 1988年，美國以魚叉飛彈擊沉了伊朗海軍所屬的砂罕號(Sahand)巡防艦。伊朗方面亦向美國CG-28溫賴特號飛彈巡洋艦發射了一枚魚叉飛彈，但遭到美軍之電子幹擾而沒有命中目標。\[7\]
 
-同年12月，一枚由美國海軍[CV-64所屬的](../Page/CV-64.md "wikilink")[F/A-18戰機所發射的魚叉飛彈擊中了一艘印度籍的貨船](../Page/F/A-18.md "wikilink")*Jagvivek*號。據信其發生原因為該貨船於離港時因沒有接到海上演習通知而誤入演習海域。因此安裝演習彈頭的魚叉飛彈誤以為該船為其鎖定目標，並造成一人死亡。\[8\]
+同年12月，一枚由美國海軍[CV-64所屬的](https://zh.wikipedia.org/wiki/CV-64 "wikilink")[F/A-18戰機所發射的魚叉飛彈擊中了一艘印度籍的貨船](https://zh.wikipedia.org/wiki/F/A-18 "wikilink")*Jagvivek*號。據信其發生原因為該貨船於離港時因沒有接到海上演習通知而誤入演習海域。因此安裝演習彈頭的魚叉飛彈誤以為該船為其鎖定目標，並造成一人死亡。\[8\]
 
 ## 衍生型
 
@@ -76,8 +76,8 @@ AGM-84E/F/G/H/J/K/L/M SLAM飛彈，即AGM-84的遠程空射攻擊型
 RGM-84E/F/G/H/J/K/L/M SLAM飛彈，即RGM-84的遠程艦射攻擊型
 
 UGM-84G/L
-SLAM飛彈，即UGM-84的遠程潛射攻擊型，它們合起來稱爲[戰區外攻陸導彈](../Page/戰區外.md "wikilink")
-除了以上的近代衍生型，還有近年來被廣為所知的[蔔派飛彈和](../Page/蔔派飛彈.md "wikilink")[巡弋飛彈的鼻祖](../Page/巡弋飛彈.md "wikilink")，尤其是[戰斧巡弋飛彈](../Page/戰斧巡弋飛彈.md "wikilink")。
+SLAM飛彈，即UGM-84的遠程潛射攻擊型，它們合起來稱爲[戰區外攻陸導彈](https://zh.wikipedia.org/wiki/戰區外 "wikilink")
+除了以上的近代衍生型，還有近年來被廣為所知的[蔔派飛彈和](https://zh.wikipedia.org/wiki/蔔派飛彈 "wikilink")[巡弋飛彈的鼻祖](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，尤其是[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")。
 
 ## 使用國
 
@@ -128,7 +128,8 @@ SLAM飛彈，即UGM-84的遠程潛射攻擊型，它們合起來稱爲[戰區外
 3.  [AGM-84“魚叉”導彈
     -兵器裝備網|世界軍事|中國軍事|中國海軍|武器裝備](http://www.wpeu.net/article/Article.asp?Articleid=138#)
 
-4.  [Time (magazine)](../Page/Time_\(magazine\).md "wikilink").
+4.  [Time
+    (magazine)](https://zh.wikipedia.org/wiki/Time_\(magazine\) "wikilink").
     [High-Tech
     Firepower](http://www.time.com/time/magazine/article/0,9171,961035,00.html).
     April 7, 1986.
@@ -139,10 +140,12 @@ SLAM飛彈，即UGM-84的遠程潛射攻擊型，它們合起來稱爲[戰區外
     Incident](http://www.reagan.utexas.edu/archives/speeches/1986/32686h.htm).
     March 26, 1986.
 
-6.  [The New York Times](../Page/The_New_York_Times.md "wikilink").
+6.  [The New York
+    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink").
     PENTAGON REVISES LIBYAN SHIP TOLL. March 27, 1986.
 
-7.  [The New York Times](../Page/The_New_York_Times.md "wikilink").
+7.  [The New York
+    Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink").
     [U.S. STRIKES 2 IRANIAN OIL RIGS AND HITS 6 WARSHIPS IN BATTLES OVER
     MINING SEA LANES IN
     GULF](http://query.nytimes.com/gst/fullpage.html?res=940DE0DC1038F93AA25757C0A96E948260).

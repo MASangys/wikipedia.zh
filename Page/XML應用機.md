@@ -1,4 +1,4 @@
-**XML應用機**是一种专用的计算机系統（或稱：[伺服器](../Page/伺服器.md "wikilink")），它专门用来处理其它计算机系統之间的[XML消息的交换](../Page/XML.md "wikilink")，其功能有[XML消息的加速](../Page/XML.md "wikilink")、加密、路由、整合、[轉換](../Page/XSL.md "wikilink")、交換等。与之相對的通用计算机系统（伺服器）則可以完成多种不同的任务，而非只具有某些特定的功能。
+**XML應用機**是一种专用的计算机系統（或稱：[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")），它专门用来处理其它计算机系統之间的[XML消息的交换](../Page/XML.md "wikilink")，其功能有[XML消息的加速](../Page/XML.md "wikilink")、加密、路由、整合、[轉換](https://zh.wikipedia.org/wiki/XSL "wikilink")、交換等。与之相對的通用计算机系统（伺服器）則可以完成多种不同的任务，而非只具有某些特定的功能。
 
 XML應用機的用戶主要為企業或機關單位，特別是在大型的企業或機關，以及經常與內外多方進行電子訊息聯繫、交換的企業或機關，這類型的用戶近年來為了強化資訊軟體與訊息的整合、交換，紛紛規劃與佈建[服務導向架構](../Page/面向服务的体系结构.md "wikilink")（Service
 Oriented Architecture，SOA）的資訊環境，而XML應用機能夠使SOA環境的建立及營運更加精省及效率。
@@ -11,16 +11,16 @@ Oriented Architecture，SOA）的資訊環境，而XML應用機能夠使SOA環�
 
 第一代的XML應用機約在1999年開始，由[DataPower公司的兩組工程師團隊各自負責一種應用取向的機型](../Page/DataPower.md "wikilink")，第一組團隊專注在如何進行大量的XML轉換（XML轉換團隊），第二組團隊則專注在如何讓XML的處理、加密等程序能更快執行（XML處理團隊）。
 
-XML轉換團隊運用了特別的軟體及[特殊應用積體電路](../Page/特殊應用積體電路.md "wikilink")，使轉換效率比「一般用途性的伺服器再搭配相同功效的軟體執行」還快上一百倍。而買主方面，初期以具有大量[電子商務](../Page/電子商務.md "wikilink")（e-Commerce）交易、執行需求的網站業者為多，如[雅虎](../Page/雅虎.md "wikilink")（Yahoo\!）、[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")（Amazon.com）等。而XML處理團隊則針對XML加密及整合進行高度最佳化的設計，XML加密及整合能適用在較多領域及層面。
+XML轉換團隊運用了特別的軟體及[特殊應用積體電路](../Page/特殊應用積體電路.md "wikilink")，使轉換效率比「一般用途性的伺服器再搭配相同功效的軟體執行」還快上一百倍。而買主方面，初期以具有大量[電子商務](https://zh.wikipedia.org/wiki/電子商務 "wikilink")（e-Commerce）交易、執行需求的網站業者為多，如[雅虎](../Page/雅虎.md "wikilink")（Yahoo\!）、[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")（Amazon.com）等。而XML處理團隊則針對XML加密及整合進行高度最佳化的設計，XML加密及整合能適用在較多領域及層面。
 
 在投入業者方面，早期主要有[DataPower公司](../Page/DataPower.md "wikilink")、Reactivity公司（）、Layer
-7科技公司（）、以及Sarvega公司（）。其中Sarvega公司於2005年8月由[英特爾公司](../Page/英特爾.md "wikilink")（Intel）所[收購](../Page/收購.md "wikilink")，而DataPower公司亦於2005年10月由[IBM公司收購](../Page/IBM.md "wikilink")，剛收購時以IBM
+7科技公司（）、以及Sarvega公司（）。其中Sarvega公司於2005年8月由[英特爾公司](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）所[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")，而DataPower公司亦於2005年10月由[IBM公司收購](../Page/IBM.md "wikilink")，剛收購時以IBM
 DataPower之名持續推行，之後於2006年5月改名成IBM WebSphere DataPower SOA
 Appliance，歸編到已推行多年的IBM WebSphere系列中。
 
 ### 第二代（2003年）
 
-約從2003年開始XML應用機進入了第二代的發展，促使世代提升的主要原因與需求有二，一是有愈來愈多的電腦需要在公眾網路上以[SOAP協定進行XML訊息交換](../Page/SOAP.md "wikilink")，由於公眾網路的安全防護性低，在此環境下傳送XML訊息必須對機密內容、重要過程進行防護，對此必須加入[加密](../Page/加密.md "wikilink")、[數位簽章以及預防](../Page/數位簽章.md "wikilink")[服務阻斷性攻擊等安全機制](../Page/分散式阻斷服務攻擊.md "wikilink")。
+約從2003年開始XML應用機進入了第二代的發展，促使世代提升的主要原因與需求有二，一是有愈來愈多的電腦需要在公眾網路上以[SOAP協定進行XML訊息交換](https://zh.wikipedia.org/wiki/SOAP "wikilink")，由於公眾網路的安全防護性低，在此環境下傳送XML訊息必須對機密內容、重要過程進行防護，對此必須加入[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、[數位簽章以及預防](../Page/數位簽章.md "wikilink")[服務阻斷性攻擊等安全機制](https://zh.wikipedia.org/wiki/分散式阻斷服務攻擊 "wikilink")。
 
 另一個原因是上述這些安全機制與交換工作，若是用純軟體式的電腦系統來執行則會耗佔相當多的時間，且這些交換也通常是企業或機關的重要商務或營運，因此必須盡可能爭取運作的時效性，能多節省時間也就意味著有更多的機會去爭取更多的商機及交易。此等條件與需求促使了用戶對專屬型執行機器的倚賴，特別是用戶期望新一代的XML應用機能運用[WS-Security這項安全標準為傳輸內容進行預先性的封包化](../Page/WS-Security.md "wikilink")，使安全性與交換標準性兩者都能獲得兼顧。
 
@@ -50,7 +50,7 @@ Appliance，歸編到已推行多年的IBM WebSphere系列中。
 
 <!-- end list -->
 
-  - 標準支援性，內建各種XML相關標準的支援能力，包括[XSLT](../Page/XSLT.md "wikilink")、[XPath](../Page/XPath.md "wikilink")、[SOAP以及](../Page/SOAP.md "wikilink")[WS-Security等](../Page/WS-Security.md "wikilink")。
+  - 標準支援性，內建各種XML相關標準的支援能力，包括[XSLT](../Page/XSLT.md "wikilink")、[XPath](../Page/XPath.md "wikilink")、[SOAP以及](https://zh.wikipedia.org/wiki/SOAP "wikilink")[WS-Security等](../Page/WS-Security.md "wikilink")。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ Appliance，歸編到已推行多年的IBM WebSphere系列中。
 <!-- end list -->
 
   - **XML功效型網路**（），在既有的IP型網上設想出一個抽象層（abstraction
-    layer），此抽象層的用意在於去除、吸收不利於交換或整合的各項妨礙，包括去除不安全因素、不相容性、傳遞延遲等差異問題，以便讓[XML訊息](../Page/XML.md "wikilink")、[網路服務](../Page/网络服务.md "wikilink")（Web
+    layer），此抽象層的用意在於去除、吸收不利於交換或整合的各項妨礙，包括去除不安全因素、不相容性、傳遞延遲等差異問題，以便讓[XML訊息](../Page/XML.md "wikilink")、[網路服務](https://zh.wikipedia.org/wiki/网络服务 "wikilink")（Web
     Service）、[面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")（SOA）等能更無礙地運作。
 
 ## 投入業者
@@ -100,16 +100,16 @@ Appliance，歸編到已推行多年的IBM WebSphere系列中。
 
   - [XML](../Page/XML.md "wikilink") - 可擴展標記語言。
   - [XSLT](../Page/XSLT.md "wikilink") -
-    [XSL規範的一部份](../Page/XSL.md "wikilink")，是[XML檔案進行轉換的轉化程式語言](../Page/XML.md "wikilink")。
-  - [SOAP](../Page/SOAP.md "wikilink") -
-    简单对行访问协议，[網路服務](../Page/网络服务.md "wikilink")（Web
+    [XSL規範的一部份](https://zh.wikipedia.org/wiki/XSL "wikilink")，是[XML檔案進行轉換的轉化程式語言](../Page/XML.md "wikilink")。
+  - [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink") -
+    简单对行访问协议，[網路服務](https://zh.wikipedia.org/wiki/网络服务 "wikilink")（Web
     Service）的通訊協定。
   - （）- 具備[XML功效的網路](../Page/XML.md "wikilink")。
   - （[WS-Security](../Page/WS-Security.md "wikilink")）-
-    [網路服務](../Page/网络服务.md "wikilink")（Web
+    [網路服務](https://zh.wikipedia.org/wiki/网络服务 "wikilink")（Web
     Service）在跨網交換訊息時的安全機制標準
   - （[Apache Axis](../Page/Apache_Axis.md "wikilink")）-
-    一套以[開放原碼](../Page/開放原碼.md "wikilink")、[Java程式語言](../Page/Java.md "wikilink")、[XML格式等為基礎的](../Page/XML.md "wikilink")[網路服務](../Page/网络服务.md "wikilink")（Web
+    一套以[開放原碼](https://zh.wikipedia.org/wiki/開放原碼 "wikilink")、[Java程式語言](../Page/Java.md "wikilink")、[XML格式等為基礎的](../Page/XML.md "wikilink")[網路服務](https://zh.wikipedia.org/wiki/网络服务 "wikilink")（Web
     Service）框架。
   - （）- 整合應用機。
 

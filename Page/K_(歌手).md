@@ -1,10 +1,10 @@
-**K**（，），原名**姜潤成**，出生于[韩国](../Page/韩国.md "wikilink")[首尔](../Page/首尔.md "wikilink")。在[日韩国男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，居住于日本。表弟為韓國男子組合[SF9成員](../Page/SF9.md "wikilink")[仁誠](../Page/仁誠.md "wikilink")。
+**K**（，），原名**姜潤成**，出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。在[日韩国男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，居住于日本。表弟為韓國男子組合[SF9成員](https://zh.wikipedia.org/wiki/SF9 "wikilink")[仁誠](https://zh.wikipedia.org/wiki/仁誠 "wikilink")。
 
 ## 作品 
 
 ### 單曲
 
-  - “over...”（2005年3月2日）※“[H2\~好逑双物语\~](../Page/H2.md "wikilink")”（）主题歌
+  - “over...”（2005年3月2日）※“[H2\~好逑双物语\~](https://zh.wikipedia.org/wiki/H2 "wikilink")”（）主题歌
   - “拥抱”（）（2005年5月11日）
   - “Girlfriend”（2005年7月27日）
   - “Only
@@ -15,7 +15,7 @@
   - “Birth of Treasure”（2007年8月29日）
   - “Play And Pray”（2008年6月25日）
   - “525600min. ～Seasons of Love～”（2008年11月5日）
-  - “[想見你](../Page/想見你.md "wikilink")”（2010年6月16日）
+  - “[想見你](https://zh.wikipedia.org/wiki/想見你 "wikilink")”（2010年6月16日）
   - “dear...”（2010年10月27日）
   - “Christmas Time Again”（2013年12月4日）
   - “Years”（2015年7月1日）

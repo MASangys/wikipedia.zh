@@ -1,8 +1,8 @@
 **Active
--{}-Directory**（简称**AD**。中国大陸譯名為「活動目錄」，台灣为維持英文不譯）是[微軟](../Page/微軟.md "wikilink")[Windows
-Server中](../Page/Windows_Server.md "wikilink")，負責架構中大型[網路環境的集中式](../Page/網路.md "wikilink")[目錄管理服務](../Page/目錄服務.md "wikilink")（Directory
+-{}-Directory**（简称**AD**。中国大陸譯名為「活動目錄」，台灣为維持英文不譯）是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
+Server中](../Page/Windows_Server.md "wikilink")，負責架構中大型[網路環境的集中式](https://zh.wikipedia.org/wiki/網路 "wikilink")[目錄管理服務](https://zh.wikipedia.org/wiki/目錄服務 "wikilink")（Directory
 Services），在[Windows 2000
-Server開始內建於Windows](../Page/Windows_2000_Server.md "wikilink")
+Server開始內建於Windows](https://zh.wikipedia.org/wiki/Windows_2000_Server "wikilink")
 Server產品中，它處理在組織中的網路物件，物件可以是使用者，群組，電腦，網域控制站，郵件，設定檔，組織單元，樹系等等，只要是在Active
 Directory結構定義檔（schema）中定義的物件，就可以儲存在Active Directory資料檔中，並利用[Active
 Directory Service
@@ -10,13 +10,13 @@ Interface來存取](../Page/Active_Directory_Service_Interface.md "wikilink")，
 Directory的管理工具都是利用這個介面來呼叫並使用Active Directory的資料。
 
 Active
-Directory也被做為微軟部份[伺服器](../Page/伺服器.md "wikilink")[軟體與](../Page/軟體.md "wikilink")[網域構連的資料結構](../Page/Windows_Server_Domain.md "wikilink")，例如[Microsoft
+Directory也被做為微軟部份[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[軟體與](https://zh.wikipedia.org/wiki/軟體 "wikilink")[網域構連的資料結構](https://zh.wikipedia.org/wiki/Windows_Server_Domain "wikilink")，例如[Microsoft
 Exchange Server
-2003-2007](../Page/Microsoft_Exchange_Server.md "wikilink")，均使用AD來儲存其個人[信箱資料](../Page/电子信箱.md "wikilink")（透過建立新的Active
+2003-2007](../Page/Microsoft_Exchange_Server.md "wikilink")，均使用AD來儲存其個人[信箱資料](https://zh.wikipedia.org/wiki/电子信箱 "wikilink")（透過建立新的Active
 Directory Schema），並將AD列為建置Exchange Server的必要條件。
 
 Active Directory最早在1996年出現，並在Windows
-2000中首次問世，[研發代號為](../Page/代号.md "wikilink")**Cascade**，並歷經Windows
+2000中首次問世，[研發代號為](https://zh.wikipedia.org/wiki/代号 "wikilink")**Cascade**，並歷經Windows
 2000、[Windows Server
 2003的演化](../Page/Windows_Server_2003.md "wikilink")，目前AD已成為成熟的目錄服務元件，在[Windows
 Server
@@ -50,7 +50,7 @@ Policy）的套用與集中管理。
 [ActiveDirectory_DomainTree_WithSubDomain.png](https://zh.wikipedia.org/wiki/File:ActiveDirectory_DomainTree_WithSubDomain.png "fig:ActiveDirectory_DomainTree_WithSubDomain.png")
 
 若組織的網路環境相當龐大與複雜時，網域可能會有許多個，在AD之中，網域可以有一個或多個，而一個大型公司可能會利用分公司或是辦公室的方式來組織網域物件，如此一來，在AD中會有數個網域，若需要在網域中共享資料或是做委派管理與組態設定時，便需要建立彼此間的組織關係，微軟將AD中多網域相互的關係階層化，稱為網域樹（domain
-tree），網域樹結構以[DNS識別方式來區分](../Page/DNS.md "wikilink")，例如一間公司可能有業務部門，工程部門與管理部門，那麼若要以部門來建立網域時，則可以如此建立（如右圖）：
+tree），網域樹結構以[DNS識別方式來區分](https://zh.wikipedia.org/wiki/DNS "wikilink")，例如一間公司可能有業務部門，工程部門與管理部門，那麼若要以部門來建立網域時，則可以如此建立（如右圖）：
 
   - acme.com.tw：根網域。
   - sales.acme.com.tw：業務部門。
@@ -94,9 +94,9 @@ Server（由DNS設定提供），若找不到時，才會連結到其他地區�
 
 ### Operation Masters
 
-[營運主機](../Page/營運主機.md "wikilink")（Operation Masters，又稱為Flexible Single
-Master
-Operation，即[FSMO](../Page/FSMO.md "wikilink")）\[2\]是被設定為擔任提供特定角色資訊的網域控制站，在每一個Active
+[營運主機](https://zh.wikipedia.org/wiki/營運主機 "wikilink")（Operation
+Masters，又稱為Flexible Single Master
+Operation，即[FSMO](https://zh.wikipedia.org/wiki/FSMO "wikilink")）\[2\]是被設定為擔任提供特定角色資訊的網域控制站，在每一個Active
 Directory網域中，至少會存在三種營運主機的角色。
 
   - Primary Domain Controller Emulator
@@ -122,28 +122,28 @@ replication）與對外複製（或站間複製，inter-site
 replication），對內複製是同一個網域間的控制站交換資訊，對外複製則是在網路管理人員的設定下，透過指定的通訊方法（IP或SMTP）以及拓樸進行複製。
 
 預設情況下，站台的通訊方式是使用IP（即RPC over
-IP）來通訊，這個方式是最快的，且可以利用[TCP/IP來執行遠端呼叫以及處理](../Page/TCP/IP.md "wikilink")，但若是非網域資料（架構、設定和通用類別目錄更新，亦即沒有AD物件）的複製，則可以利用[SMTP通訊方法](../Page/SMTP.md "wikilink")，但這個方法需要另外建立企業級的憑證服務才可以使用，目的是確保SMTP的資料可以被確認與保全。
+IP）來通訊，這個方式是最快的，且可以利用[TCP/IP來執行遠端呼叫以及處理](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，但若是非網域資料（架構、設定和通用類別目錄更新，亦即沒有AD物件）的複製，則可以利用[SMTP通訊方法](https://zh.wikipedia.org/wiki/SMTP "wikilink")，但這個方法需要另外建立企業級的憑證服務才可以使用，目的是確保SMTP的資料可以被確認與保全。
 
-在中大型的網路環境中，適當的分散網路流量以及設計網路拓樸是很重要的事，KCC會利用設定好的網路通訊成本（cost）來選擇要用哪一條網路來進行複製，例如可能公司和辦公室間有一條[T1和](../Page/T1.md "wikilink")[ISDN](../Page/ISDN.md "wikilink")
+在中大型的網路環境中，適當的分散網路流量以及設計網路拓樸是很重要的事，KCC會利用設定好的網路通訊成本（cost）來選擇要用哪一條網路來進行複製，例如可能公司和辦公室間有一條[T1和](../Page/T1.md "wikilink")[ISDN](https://zh.wikipedia.org/wiki/ISDN "wikilink")
 64Kbps的線路，而T1的成本設為500（因為會有很大流量），而ISDN只有100時，KCC會選擇ISDN做複製，這樣代表網路管理員可以自己決定要使用哪一條網路來進行複製，KCC的複製演算法會判斷哪一個網路最適合複製AD的資料。除了成本以外，AD也支援了橋接站台（site
 bridge）的結構，站台橋接能力讓複製的成本得以分散，並可讓同一台GC的複製流量分散，也適合在不同地理區域之間的AD資訊複製與散發工作。。
 
 ### DNS
 
 Active
-Directory極度依賴[DNS](../Page/DNS.md "wikilink")，因為DNS可以讓AD表現出階層化的樹狀結構，同時也可以和開放的目錄標準接軌，因此在建置網域時，DNS服務（或另有架設DNS
+Directory極度依賴[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")，因為DNS可以讓AD表現出階層化的樹狀結構，同時也可以和開放的目錄標準接軌，因此在建置網域時，DNS服務（或另有架設DNS
 Server）一定要存在於網路或該網域控制站中，AD以SRV記錄（SRV
 Record）來識別網域控制站，以提供網域處理的服務，而和Windows
 NT網域不同的是，Windows
-NT使用的是[NetBIOS通訊協定](../Page/NetBIOS.md "wikilink")，但AD使用的則是[TCP/IP](../Page/TCP/IP.md "wikilink")，但AD仍然提供可以在Windows
+NT使用的是[NetBIOS通訊協定](../Page/NetBIOS.md "wikilink")，但AD使用的則是[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，但AD仍然提供可以在Windows
 NT帳戶格式（DOMAIN\\User）和AD帳戶格式（user@domain）的格式互轉。
 
 ### 實體儲存
 
 Active Directory使用強化過的[Microsoft Jet Database
-Engine](../Page/Microsoft_Jet_Database_Engine.md "wikilink")（基於Microsoft
+Engine](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")（基於Microsoft
 Jet Blue計畫），即[Extensible Storage
-Engine](../Page/Extensible_Storage_Engine.md "wikilink")（ESE98），可儲存16TB的資料量，理論上可容納十億個網域物件，檔案名稱為NTDS.dit，它儲存在%system_root%\\NTDS目錄中（這個目錄所在的磁碟也必須要是[NTFS格式](../Page/NTFS.md "wikilink")），內含了物件資料表以及連結資料表，在Windows
+Engine](https://zh.wikipedia.org/wiki/Extensible_Storage_Engine "wikilink")（ESE98），可儲存16TB的資料量，理論上可容納十億個網域物件，檔案名稱為NTDS.dit，它儲存在%system_root%\\NTDS目錄中（這個目錄所在的磁碟也必須要是[NTFS格式](../Page/NTFS.md "wikilink")），內含了物件資料表以及連結資料表，在Windows
 Server 2003中加入了一個描述安全資訊的新資料表。
 
 而在AD更新資料時的記錄，都被儲存在edb\*.log，預設的名稱為edb.log，其他的檔案使用"edb" +數字 +
@@ -164,7 +164,7 @@ AD實體儲存的元件有\[3\]：
 2000，log files與數據庫可以分別存放在不同的磁碟上，但Windows Server
 2003則必須放在同一個磁碟上。要移動資料庫，必須重新啟動伺服器，並進入Active
 Directory Restore
-Mode裡，利用[ntdsutil工具進行移動](../Page/ntdsutil.md "wikilink")。
+Mode裡，利用[ntdsutil工具進行移動](https://zh.wikipedia.org/wiki/ntdsutil "wikilink")。
 
 ### 唯讀網域控制站
 
@@ -216,7 +216,7 @@ relationship）來建立Forest間的信任，以授權在彼此樹系間的存�
 ## 名稱系統
 
 Active
-Directory的命名預設是以[LDAP](../Page/LDAP.md "wikilink")（輕量級目錄存取協定）版本的[X.500協定為主](../Page/X.500.md "wikilink")（由ADSI
+Directory的命名預設是以[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")（輕量級目錄存取協定）版本的[X.500協定為主](https://zh.wikipedia.org/wiki/X.500 "wikilink")（由ADSI
 LDAP Directory Service
 Provider），對於AD這種如此規模的目錄服務而言，LDAP這種具有階層識別能力的協定，非常適合作為目錄服務的存取協定，但AD亦可以支援NT時代的UNC格式（由ADSI
 Windows NT Directory Service
@@ -261,7 +261,7 @@ name（簡稱RDN），儲存在rDnAttId屬性中，可在搜尋AD時可以快速
 
 ### GUID
 
-每一個物件都有一個唯一的GUID物件識別碼，儲存在objectGUID屬性中，其編碼方式與[GUID相同](../Page/GUID.md "wikilink")。
+每一個物件都有一個唯一的GUID物件識別碼，儲存在objectGUID屬性中，其編碼方式與[GUID相同](https://zh.wikipedia.org/wiki/GUID "wikilink")。
 
 ### 其他名稱
 
@@ -295,7 +295,7 @@ Directory中的資料結構，包含樹系以及網域的資料結構（使用�
 ## 物件結構
 
 由於微軟在設計Active
-Directory是使用開放型的目錄服務為方針，且目錄服務的最基本特性之一就是要能「廣納百川」，除了基本的網路服務資料外，還需要能夠和其他異質型服務連接與整合，因此微軟在AD之中實作了一個物件的儲存單位，稱為「物件結構」（schema），物件結構可以視為AD物件的[元數據](../Page/元數據.md "wikilink")（metadata）。每一個物件（不論是單元或是容器物件）都有各自的schema，用以儲存識別該物件的不同資料，schema是由class和attribute所組成，attribute是最小的儲存單元，class則是包含attribute的集合體。
+Directory是使用開放型的目錄服務為方針，且目錄服務的最基本特性之一就是要能「廣納百川」，除了基本的網路服務資料外，還需要能夠和其他異質型服務連接與整合，因此微軟在AD之中實作了一個物件的儲存單位，稱為「物件結構」（schema），物件結構可以視為AD物件的[元數據](https://zh.wikipedia.org/wiki/元數據 "wikilink")（metadata）。每一個物件（不論是單元或是容器物件）都有各自的schema，用以儲存識別該物件的不同資料，schema是由class和attribute所組成，attribute是最小的儲存單元，class則是包含attribute的集合體。
 
 儲存在attribute中的資料有很多種格式，微軟將這些格式定義成27種Schema資料型態，像是指示帳戶過期日的`Account-Expires`屬性，其值是interval資料型態（代表時間週期，為一個64位元整數值），又如指示帳戶SAM名稱的`sAMAccountName`屬性，其值是String（Unicode）值（支援Unicode的字串值），又如儲存使用者的照片的`Picture`屬性，其值是Object(Repl-Link，代表是位元組資料，且可以複製到其他網域控制站）。
 
@@ -355,9 +355,9 @@ Management Server以及RMS SDK，供Windows Server 2003平台使用，而在Wind
 ## 整合Unix到Active Directory中
 
 Active
-Directory互通的多樣性層次得以透過符合標準的LDAP用戶端在大多數的[類Unix作業系統記錄](../Page/類Unix作業系統.md "wikilink")，但這些系統通常缺乏與Windows元件像是群組原則與單向信任關聯的許多屬性的自動直譯，目前也有許多第三方軟體廠商提供了將Unix平台（包含[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+Directory互通的多樣性層次得以透過符合標準的LDAP用戶端在大多數的[類Unix作業系統記錄](https://zh.wikipedia.org/wiki/類Unix作業系統 "wikilink")，但這些系統通常缺乏與Windows元件像是群組原則與單向信任關聯的許多屬性的自動直譯，目前也有許多第三方軟體廠商提供了將Unix平台（包含[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X與數個](../Page/Mac_OS_X.md "wikilink")[Java與Unix](../Page/Java.md "wikilink")-based應用程式）整合Active
+X與數個](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Java與Unix](../Page/Java.md "wikilink")-based應用程式）整合Active
 Directory方法，這些供應商的一部份，包含Thursby Software System（ADmitMac）, Quest
 Software（Vintela Authentication Services）,
 Centrify（DirectControl），與Likewise Software（Likewise Open and
@@ -370,13 +370,13 @@ membership）的Active Directory Schema與被提議的RFC 2307bis延伸功能一
 2307bis使用LDAP成員屬性儲存Unix的群組成員資料，與基礎RFC
 2307，以儲存群組成員為以逗號分隔的使用者識別碼清單有所不同。Windows
 Server 2003
-R2包含了一個[MMC](../Page/Microsoft_Management_Console.md "wikilink")
+R2包含了一個[MMC](https://zh.wikipedia.org/wiki/Microsoft_Management_Console "wikilink")
 snap-in以建立與編輯這些屬性。
 
 一個替代選項是使用其他的目錄服務，像是[Fedora](../Page/Fedora.md "wikilink") Directory
 Server（之前的Netscape Directory
-Server）或是[Sun的Java](../Page/Sun.md "wikilink") System Directory
-Server，它可以執行與Active
+Server）或是[Sun的Java](https://zh.wikipedia.org/wiki/Sun "wikilink")
+System Directory Server，它可以執行與Active
 Directory雙向同步化，進而在需要使用FDS驗證的Unix與Linux平台與需要使用Windows驗證的Windows用戶端之間，提供一個與Active
 Directory之間**轉向**（deflected）的整合。另一個選項是使用[OpenLDAP以及它的透通覆蓋](../Page/OpenLDAP.md "wikilink")（translucent
 overlay）功能得以延伸項目於使用額外屬性儲存在本地資料庫的任何遠端LDAP伺服器上。在本地資料庫中指示的用戶端將會看到包含在遠端和地的屬性，當遠端資料庫仍保持完整不變的情況下。
@@ -407,10 +407,10 @@ overlay）功能得以延伸項目於使用額外屬性儲存在本地資料庫�
 
 ## 参见
 
-  - [活动目录服务接口](../Page/活动目录服务接口.md "wikilink")
-  - [Windows开放服务架构](../Page/Windows开放服务架构.md "wikilink")
-  - [微软目录同步服务](../Page/微软目录同步服务.md "wikilink")
-  - [群組原則](../Page/群組原則.md "wikilink")
+  - [活动目录服务接口](https://zh.wikipedia.org/wiki/活动目录服务接口 "wikilink")
+  - [Windows开放服务架构](https://zh.wikipedia.org/wiki/Windows开放服务架构 "wikilink")
+  - [微软目录同步服务](https://zh.wikipedia.org/wiki/微软目录同步服务 "wikilink")
+  - [群組原則](https://zh.wikipedia.org/wiki/群組原則 "wikilink")
 
 {{-}}
 

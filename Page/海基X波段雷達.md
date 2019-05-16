@@ -1,16 +1,17 @@
 [Blue_Marlin_transporting_sea-based_X-band_radar.jpg](https://zh.wikipedia.org/wiki/File:Blue_Marlin_transporting_sea-based_X-band_radar.jpg "fig:Blue_Marlin_transporting_sea-based_X-band_radar.jpg")（MV
 Blue
-Marlin）載運，進入[珍珠港進行運補](../Page/珍珠港.md "wikilink")，並在之後繼續前往[阿拉斯加](../Page/阿拉斯加.md "wikilink")[艾達克島](../Page/艾達克島.md "wikilink")。\]\]
+Marlin）載運，進入[珍珠港進行運補](../Page/珍珠港.md "wikilink")，並在之後繼續前往[阿拉斯加](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")[艾達克島](https://zh.wikipedia.org/wiki/艾達克島 "wikilink")。\]\]
 **海基X波段雷達**（Sea-Based X-Band Radar,
-**SBX**），是一種可在遠海的大型風浪中維持運作、以[螺旋槳推進的自走機動](../Page/螺旋槳.md "wikilink")[X波段](../Page/X波段.md "wikilink")[雷達站](../Page/雷達.md "wikilink")，是[美國國家飛彈防禦署](../Page/美國.md "wikilink")[陸基中段防禦系統](../Page/陸基中段防禦系統.md "wikilink")（NMD）的一環。
+**SBX**），是一種可在遠海的大型風浪中維持運作、以[螺旋槳推進的自走機動](../Page/螺旋槳.md "wikilink")[X波段](../Page/X波段.md "wikilink")[雷達站](https://zh.wikipedia.org/wiki/雷達 "wikilink")，是[美國國家飛彈防禦署](https://zh.wikipedia.org/wiki/美國 "wikilink")[陸基中段防禦系統](../Page/陸基中段防禦系統.md "wikilink")（NMD）的一環。
 
-海基X波段雷達安裝在一個[挪威設計](../Page/挪威.md "wikilink")、[俄國製造的第五代可半潛雙船體](../Page/俄國.md "wikilink")[鑽油平台](../Page/鑽油平台.md "wikilink")。鑽油平台的改造在[德州](../Page/德州.md "wikilink")[布朗斯維爾的](../Page/布朗斯維爾_\(德克薩斯州\).md "wikilink")[AmFELS造船廠完成](../Page/吉寶AmFELS造船廠.md "wikilink")，雷達的製造和安裝則是在德州完成。此雷達將部署在[阿拉斯加](../Page/阿拉斯加.md "wikilink")[艾達克島](../Page/艾達克島.md "wikilink")（Adak
-Island），但也可以漫遊太平洋以偵測[彈道飛彈的入侵](../Page/彈道飛彈.md "wikilink")。
+海基X波段雷達安裝在一個[挪威設計](../Page/挪威.md "wikilink")、[俄國製造的第五代可半潛雙船體](https://zh.wikipedia.org/wiki/俄國 "wikilink")[鑽油平台](https://zh.wikipedia.org/wiki/鑽油平台 "wikilink")。鑽油平台的改造在[德州](https://zh.wikipedia.org/wiki/德州 "wikilink")[布朗斯維爾的](../Page/布朗斯維爾_\(德克薩斯州\).md "wikilink")[AmFELS造船廠完成](https://zh.wikipedia.org/wiki/吉寶AmFELS造船廠 "wikilink")，雷達的製造和安裝則是在德州完成。此雷達將部署在[阿拉斯加](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")[艾達克島](https://zh.wikipedia.org/wiki/艾達克島 "wikilink")（Adak
+Island），但也可以漫遊太平洋以偵測[彈道飛彈的入侵](https://zh.wikipedia.org/wiki/彈道飛彈 "wikilink")。
 
 ## 基本資料
 
   - **平台長度**: 116公尺（380英尺）
-  - **平台高度**: 85公尺（280英尺）從[龍骨至雷達罩頂端](../Page/龍骨.md "wikilink")
+  - **平台高度**:
+    85公尺（280英尺）從[龍骨至雷達罩頂端](https://zh.wikipedia.org/wiki/龍骨 "wikilink")
   - **價格**: 九億美金
   - **成員編制**: 約75名
   - **雷達探測距離**: 2000公里（1242英里）
@@ -18,17 +19,17 @@ Island），但也可以漫遊太平洋以偵測[彈道飛彈的入侵](../Page/
 
 ## 詳細介紹
 
-此雷達包含許多小的[雷達罩和一個重](../Page/雷達罩.md "wikilink")1814公噸（4百萬磅）的[相位陣列雷達天線](../Page/相位陣列.md "wikilink")，此相位陣列雷達佔地384平方公尺，擁有超過3萬組傳送接收（T/R）模組，這些傳送接收模組大間格分佈，這種分佈方式使雷達可以追蹤極遠距離的目標，以支援[戰區高度區域防禦系統](../Page/戰區高度區域防禦系統.md "wikilink")（THAAD）外大氣層目標導引所需，這個陣列雷達需要超過一百萬瓦的電力運作。
+此雷達包含許多小的[雷達罩和一個重](https://zh.wikipedia.org/wiki/雷達罩 "wikilink")1814公噸（4百萬磅）的[相位陣列雷達天線](../Page/相位陣列.md "wikilink")，此相位陣列雷達佔地384平方公尺，擁有超過3萬組傳送接收（T/R）模組，這些傳送接收模組大間格分佈，這種分佈方式使雷達可以追蹤極遠距離的目標，以支援[戰區高度區域防禦系統](https://zh.wikipedia.org/wiki/戰區高度區域防禦系統 "wikilink")（THAAD）外大氣層目標導引所需，這個陣列雷達需要超過一百萬瓦的電力運作。
 
-此雷達從[神盾戰鬥系統使用的雷達變化而來](../Page/神盾戰鬥系統.md "wikilink")，是[美國](../Page/美國.md "wikilink")[飛彈防禦局](../Page/飛彈防禦局.md "wikilink")（MDA）為防禦彈道飛彈而部署。為了有效對應短程與較小型的彈道飛彈，此雷達與神盾系統的一個重要不同在於使用高解析度的[X波段雷達](../Page/X波段.md "wikilink")。
-神盾系統使用[S波段雷達](../Page/S波段.md "wikilink")，[愛國者飛彈系統使用](../Page/愛國者飛彈.md "wikilink")[C波段雷達](../Page/C波段.md "wikilink")。此平台是[雷神公司的防衛系統部門為](../Page/雷神公司.md "wikilink")[波音公司設計和製造的](../Page/波音公司.md "wikilink")，波音公司是飛彈防禦局此計劃的主要合約商。
+此雷達從[神盾戰鬥系統使用的雷達變化而來](../Page/神盾戰鬥系統.md "wikilink")，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[飛彈防禦局](https://zh.wikipedia.org/wiki/飛彈防禦局 "wikilink")（MDA）為防禦彈道飛彈而部署。為了有效對應短程與較小型的彈道飛彈，此雷達與神盾系統的一個重要不同在於使用高解析度的[X波段雷達](../Page/X波段.md "wikilink")。
+神盾系統使用[S波段雷達](https://zh.wikipedia.org/wiki/S波段 "wikilink")，[愛國者飛彈系統使用](https://zh.wikipedia.org/wiki/愛國者飛彈 "wikilink")[C波段雷達](https://zh.wikipedia.org/wiki/C波段 "wikilink")。此平台是[雷神公司的防衛系統部門為](../Page/雷神公司.md "wikilink")[波音公司設計和製造的](https://zh.wikipedia.org/wiki/波音公司 "wikilink")，波音公司是飛彈防禦局此計劃的主要合約商。
 
-此平台是飛彈防禦局[陸基中途防禦系統](../Page/陸基中途防禦系統.md "wikilink")（GMD）的一部份，身為海基使得此平台可以移動到需要加強飛彈防禦的地區，因為地球曲率的關係，固定式雷達能含蓋的範圍有很大限制。
+此平台是飛彈防禦局[陸基中途防禦系統](https://zh.wikipedia.org/wiki/陸基中途防禦系統 "wikilink")（GMD）的一部份，身為海基使得此平台可以移動到需要加強飛彈防禦的地區，因為地球曲率的關係，固定式雷達能含蓋的範圍有很大限制。
 
-第一艘此類船隻將部署在阿拉斯加艾達克島，此島是[阿留申群島的一部分](../Page/阿留申群島.md "wikilink")，在這個位置她可以追蹤在[北韓和](../Page/北韓.md "wikilink")[中國上方的飛彈](../Page/中國.md "wikilink")。雖然她的母港是在阿拉斯加，但她會被付予需要移動到[太平洋各地完成的任務](../Page/太平洋.md "wikilink")。
+第一艘此類船隻將部署在阿拉斯加艾達克島，此島是[阿留申群島的一部分](../Page/阿留申群島.md "wikilink")，在這個位置她可以追蹤在[北韓和](https://zh.wikipedia.org/wiki/北韓 "wikilink")[中國上方的飛彈](../Page/中國.md "wikilink")。雖然她的母港是在阿拉斯加，但她會被付予需要移動到[太平洋各地完成的任務](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
 
 按照飛彈防禦局局長崔·歐貝林（Trey
-Obering）中將的形容，SBX可以從[契沙比克灣追蹤在](../Page/契沙比克灣.md "wikilink")[舊金山上方](../Page/舊金山.md "wikilink")[棒球大小的物體](../Page/棒球.md "wikilink")（距離約），此雷達將導引美國從阿拉斯加和[加州發射的飛彈](../Page/加州.md "wikilink")，以及戰區內的軍事裝備。
+Obering）中將的形容，SBX可以從[契沙比克灣追蹤在](https://zh.wikipedia.org/wiki/契沙比克灣 "wikilink")[舊金山上方](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[棒球大小的物體](../Page/棒球.md "wikilink")（距離約），此雷達將導引美國從阿拉斯加和[加州發射的飛彈](https://zh.wikipedia.org/wiki/加州 "wikilink")，以及戰區內的軍事裝備。
 
 從2002年開始，此系統已經完成六次成功攔截測試。
 

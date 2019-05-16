@@ -1,6 +1,6 @@
-**Meebo**是一個用[AJAX編寫的網上](../Page/AJAX.md "wikilink")[即時通訊軟體](../Page/即時通訊.md "wikilink")，並與主要的即時通訊軟體，如：[AOL](../Page/AOL_Instant_Messenger.md "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[Yahoo\!
+**Meebo**是一個用[AJAX編寫的網上](../Page/AJAX.md "wikilink")[即時通訊軟體](../Page/即時通訊.md "wikilink")，並與主要的即時通訊軟體，如：[AOL](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[Yahoo\!
 Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[MSN
-Messenger](../Page/MSN_Messenger.md "wikilink")、[Jabber及](../Page/Jabber.md "wikilink")[Google
+Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")、[Jabber及](https://zh.wikipedia.org/wiki/Jabber "wikilink")[Google
 Talk相容的系統](../Page/Google_Talk.md "wikilink")，使用戶免除安裝即時通訊軟體之餘，就能與其他人保持聯繫。
 
 Meebo服務於2005年9月4日開始運作，並於9月14日正式開放與公眾使用。
@@ -9,11 +9,11 @@ Meebo服務於2005年9月4日開始運作，並於9月14日正式開放與公眾
 
 ## 成就
 
-2006年6月，Meebo被[PCWorld列為](../Page/PCWorld.md "wikilink")100大世界級產品。8月，Meebo被選為2006年度50大最酷的網站。
+2006年6月，Meebo被[PCWorld列為](https://zh.wikipedia.org/wiki/PCWorld "wikilink")100大世界級產品。8月，Meebo被選為2006年度50大最酷的網站。
 
 ## 參看
 
-  - [Gaim](../Page/Gaim.md "wikilink") -
+  - [Gaim](https://zh.wikipedia.org/wiki/Gaim "wikilink") -
     [Trillian](../Page/Trillian.md "wikilink") - [Miranda
     IM](../Page/Miranda_IM.md "wikilink")
 

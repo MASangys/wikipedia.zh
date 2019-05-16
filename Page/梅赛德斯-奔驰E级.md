@@ -1,7 +1,7 @@
 **梅赛德斯-奔驰E级**（[德语](../Page/德语.md "wikilink")：**Mercedes-Benz
-E-Klasse**）是由[梅赛德斯-奔驰生产的中型豪华](../Page/梅赛德斯-奔驰.md "wikilink")[轿车系列](../Page/轿车.md "wikilink")，其中的E是德语“Einspritzung（意为噴射）”原本指引擎採用效率較好的燃料噴射系統而非[化油器](../Page/化油器.md "wikilink")，燃料噴射引擎普遍後改為代表主管（Executive）的首字母。
+E-Klasse**）是由[梅赛德斯-奔驰生产的中型豪华](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[轿车系列](../Page/轿车.md "wikilink")，其中的E是德语“Einspritzung（意为噴射）”原本指引擎採用效率較好的燃料噴射系統而非[化油器](../Page/化油器.md "wikilink")，燃料噴射引擎普遍後改為代表主管（Executive）的首字母。
 
-E级车是梅塞德斯-奔驰全系列中销量最佳的车型，一向有堅固的車身與沉穩的底盤，1995年推出的W210款E-Class有復古兼空氣力學設計的雙圓燈車頭，風阻係數僅0.27，是當時最流線的四門轎車。其主要对手为[奥迪A6](../Page/奥迪A6.md "wikilink")、[宝马5系](../Page/宝马5系.md "wikilink")、[大众帕萨特](../Page/大众帕萨特.md "wikilink")、[萨博9-5](../Page/萨博9-5.md "wikilink")、凌志ES、豐田凱美瑞、本田雅閣、捷豹XE和日產天籟等等。
+E级车是梅塞德斯-奔驰全系列中销量最佳的车型，一向有堅固的車身與沉穩的底盤，1995年推出的W210款E-Class有復古兼空氣力學設計的雙圓燈車頭，風阻係數僅0.27，是當時最流線的四門轎車。其主要对手为[奥迪A6](../Page/奥迪A6.md "wikilink")、[宝马5系](https://zh.wikipedia.org/wiki/宝马5系 "wikilink")、[大众帕萨特](../Page/大众帕萨特.md "wikilink")、[萨博9-5](https://zh.wikipedia.org/wiki/萨博9-5 "wikilink")、凌志ES、豐田凱美瑞、本田雅閣、捷豹XE和日產天籟等等。
 
 ## 歷代車系
 
@@ -42,7 +42,7 @@ W123分別有四門、兩門，以及加長版本，並有3-4速自動變速。
 
 [MercedesBenzW124.jpg](https://zh.wikipedia.org/wiki/File:MercedesBenzW124.jpg "fig:MercedesBenzW124.jpg")
 同樣由Bruno
-Sacco操刀設計，1985年平治推出W124，有[四列和](../Page/四列直缸引擎.md "wikilink")[六列直缸引擎作選擇](../Page/直列六缸发动机.md "wikilink")。兩者皆有柴油版和汽油版本。
+Sacco操刀設計，1985年平治推出W124，有[四列和](https://zh.wikipedia.org/wiki/四列直缸引擎 "wikilink")[六列直缸引擎作選擇](../Page/直列六缸发动机.md "wikilink")。兩者皆有柴油版和汽油版本。
 
 與W124一樣作法，有分加長版、旅行車版、轎跑車版以及，常規轎車版本。
 
@@ -52,13 +52,13 @@ Sacco操刀設計，1985年平治推出W124，有[四列和](../Page/四列直�
 
 [Mercedes-Benz_E_Class_W210_(8120442725).jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_E_Class_W210_\(8120442725\).jpg "fig:Mercedes-Benz_E_Class_W210_(8120442725).jpg")
 1993年Bruno Sacco與德籍的工程人員Peter
-Pfeiffer共同設計出平治W210。這是第一款E級轎車是採用[V6引擎](../Page/V6引擎.md "wikilink")，去取代[直列六缸引擎](../Page/直列六缸发动机.md "wikilink")，輸出馬力為221匹。外觀方面則使用圓頭車頭燈，而這是自1976年W123面世以來，平治E級再度重新採用圓形頭燈。
+Pfeiffer共同設計出平治W210。這是第一款E級轎車是採用[V6引擎](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")，去取代[直列六缸引擎](../Page/直列六缸发动机.md "wikilink")，輸出馬力為221匹。外觀方面則使用圓頭車頭燈，而這是自1976年W123面世以來，平治E級再度重新採用圓形頭燈。
 
 ### 第八代W211
 
 [2004_Mercedes-Benz_E55_AMG_W211_Front.jpg](https://zh.wikipedia.org/wiki/File:2004_Mercedes-Benz_E55_AMG_W211_Front.jpg "fig:2004_Mercedes-Benz_E55_AMG_W211_Front.jpg")
 由於Bruno Sacco於1999年退休，新版本E級設計工作，改由Hartmut
-Sinkwitz負責。2002年正式推出W211，外形基本沿襲W210，仍是圓形車頭燈。引擎方面則除了仍然用V6引擎外，還有[V8引擎可供選擇](../Page/V8引擎.md "wikilink")。
+Sinkwitz負責。2002年正式推出W211，外形基本沿襲W210，仍是圓形車頭燈。引擎方面則除了仍然用V6引擎外，還有[V8引擎可供選擇](https://zh.wikipedia.org/wiki/V8引擎 "wikilink")。
 
 W211在推出時除了有常規轎車版本外，就只有旅行車。
 
@@ -73,12 +73,13 @@ W211在推出時除了有常規轎車版本外，就只有旅行車。
 
 [2012_Mercedes-Benz_E_63_AMG_(W_212_MY12)_sedan_(2012-10-26)_01.jpg](https://zh.wikipedia.org/wiki/File:2012_Mercedes-Benz_E_63_AMG_\(W_212_MY12\)_sedan_\(2012-10-26\)_01.jpg "fig:2012_Mercedes-Benz_E_63_AMG_(W_212_MY12)_sedan_(2012-10-26)_01.jpg")
 09年的性能款 E-Class 與SL63 AMG有幾乎相同的動力總成和結構， 包含AMG的 M156
-6.2升[V8引擎和SPEEDSHIFT](../Page/V8.md "wikilink") MCT 7段變速。 就跟C63
-AMG一樣， 這款E63有更寬的輪軸以適應低迴轉半徑。 從C63 到E63， AMG 展示了賓士對於量產車放入更高馬力引擎的技術躍進，
+6.2升[V8引擎和SPEEDSHIFT](https://zh.wikipedia.org/wiki/V8 "wikilink")
+MCT 7段變速。 就跟C63 AMG一樣， 這款E63有更寬的輪軸以適應低迴轉半徑。 從C63 到E63， AMG
+展示了賓士對於量產車放入更高馬力引擎的技術躍進，
 2012年款引擎換成5.5升V8雙渦輪增壓引擎，馬力525\~557bhp。\[2\]
 
 其中SPEEDSHIFT MCT 7段變速包含: "C" (效率)， "S" (跑車)， "S+" (強化跑車) "M"
-(手動)等四種模式，此自動變速系統採用賓士七前速傳統自排變速器，但不以傳統[扭力轉換器和引擎連結](../Page/扭力轉換器.md "wikilink")，而是搭配傳動效率更好的電子控制[離合器](../Page/離合器.md "wikilink")。另外
+(手動)等四種模式，此自動變速系統採用賓士七前速傳統自排變速器，但不以傳統[扭力轉換器和引擎連結](https://zh.wikipedia.org/wiki/扭力轉換器 "wikilink")，而是搭配傳動效率更好的電子控制[離合器](../Page/離合器.md "wikilink")。另外
 RIDE CONTROL 的電子式運動性懸吊， 可以減震前懸吊同時帶來更多外觀和內裝的設計自由。
 
 賓士稱此次E級設計為[AMG效能套件](../Page/梅賽德斯-AMG.md "wikilink")(AMG已經被賓士收購成為旗下一個改裝部門)
@@ -186,7 +187,7 @@ E500使用V8。\[12\]
 <tr class="even">
 <td><p>E 200 CGI BlueEFFICIENCY</p></td>
 <td><p>2009-</p></td>
-<td><p>1796cc <a href="../Page/渦輪.md" title="wikilink">渦輪</a> I4</p></td>
+<td><p>1796cc <a href="https://zh.wikipedia.org/wiki/渦輪" title="wikilink">渦輪</a> I4</p></td>
 <td><p>184ps</p></td>
 <td><p>270N.m</p></td>
 <td><p>8 sec</p></td>
@@ -195,7 +196,7 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 250 CGI BlueEFFICIENCY</p></td>
 <td><p>2009-</p></td>
-<td><p>1796cc <a href="../Page/渦輪.md" title="wikilink">渦輪</a> I4</p></td>
+<td><p>1796cc <a href="https://zh.wikipedia.org/wiki/渦輪" title="wikilink">渦輪</a> I4</p></td>
 <td><p>204ps</p></td>
 <td><p>310N.m</p></td>
 <td><p>7.4 sec</p></td>
@@ -204,7 +205,7 @@ E500使用V8。\[12\]
 <tr class="even">
 <td><p>E 300</p></td>
 <td><p>2009-</p></td>
-<td><p>2996cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>2996cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>231ps</p></td>
 <td><p>300N.m</p></td>
 <td><p>7.1 sec</p></td>
@@ -213,7 +214,7 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 350 CGI BlueEFFICIENCY</p></td>
 <td><p>2009-</p></td>
-<td><p>3498cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>3498cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>292ps</p></td>
 <td><p>365N.m</p></td>
 <td><p>6.3 sec</p></td>
@@ -222,7 +223,7 @@ E500使用V8。\[12\]
 <tr class="even">
 <td><p>E 350 4MATIC</p></td>
 <td><p>2009-</p></td>
-<td><p>3498cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>3498cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>272ps@6000</p></td>
 <td><p>350N.@2400-5000</p></td>
 <td><p>6.3 sec</p></td>
@@ -231,7 +232,7 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 500</p></td>
 <td><p>2009-</p></td>
-<td><p>5461cc <a href="../Page/V8.md" title="wikilink">V8</a></p></td>
+<td><p>5461cc <a href="https://zh.wikipedia.org/wiki/V8" title="wikilink">V8</a></p></td>
 <td><p>388ps</p></td>
 <td><p>530N.m</p></td>
 <td><p>5.2 sec</p></td>
@@ -240,7 +241,7 @@ E500使用V8。\[12\]
 <tr class="even">
 <td><p>E 500 4MATIC</p></td>
 <td><p>2009-</p></td>
-<td><p>5461cc <a href="../Page/V8.md" title="wikilink">V8</a></p></td>
+<td><p>5461cc <a href="https://zh.wikipedia.org/wiki/V8" title="wikilink">V8</a></p></td>
 <td><p>388ps@6000</p></td>
 <td><p>530N.m@2800-4800</p></td>
 <td><p>5.2 sec</p></td>
@@ -249,7 +250,7 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 63 AMG</p></td>
 <td><p>2009-</p></td>
-<td><p>6208cc <a href="../Page/V8.md" title="wikilink">V8</a></p></td>
+<td><p>6208cc <a href="https://zh.wikipedia.org/wiki/V8" title="wikilink">V8</a></p></td>
 <td><p>525ps@6800</p></td>
 <td><p>630N.m@5200</p></td>
 <td><p>4 sec</p></td>
@@ -258,7 +259,7 @@ E500使用V8。\[12\]
 <tr class="even">
 <td><p>E 63 AMG S-Model</p></td>
 <td><p>2013–</p></td>
-<td><p>5,461cc <a href="../Page/V8.md" title="wikilink">V8</a></p></td>
+<td><p>5,461cc <a href="https://zh.wikipedia.org/wiki/V8" title="wikilink">V8</a></p></td>
 <td><p>585ps@5500</p></td>
 <td><p>800 N·m@2000–4500</p></td>
 <td><p>3.6 sec</p></td>
@@ -303,16 +304,16 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 350 CDI BlueEFFICIENCY</p></td>
 <td><p>2009-</p></td>
-<td><p>2987cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>2987cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>231ps</p></td>
 <td><p>540N.m</p></td>
 <td><p>-</p></td>
 <td><p>18L/100 km</p></td>
 </tr>
 <tr class="even">
-<td><p>E 350 <a href="../Page/BlueTec.md" title="wikilink">BlueTEC</a></p></td>
+<td><p>E 350 <a href="https://zh.wikipedia.org/wiki/BlueTec" title="wikilink">BlueTEC</a></p></td>
 <td><p>2009-</p></td>
-<td><p>2987cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>2987cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>211ps</p></td>
 <td><p>540N.m</p></td>
 <td><p>-</p></td>
@@ -321,7 +322,7 @@ E500使用V8。\[12\]
 <tr class="odd">
 <td><p>E 350 CDI 4MATIC BlueEFFICIENCY</p></td>
 <td><p>2009-</p></td>
-<td><p>2987cc <a href="../Page/V6.md" title="wikilink">V6</a></p></td>
+<td><p>2987cc <a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a></p></td>
 <td><p>231ps</p></td>
 <td><p>540N.m</p></td>
 <td><p>-</p></td>
@@ -334,27 +335,28 @@ E 500在美加地區以 E 550 代號銷售。
 
 ##### 傳動
 
-| 車型                                             | 出廠年   | 標準                | 選配           |
-| ---------------------------------------------- | ----- | ----------------- | ------------ |
-| E 200 CGI BlueEFFICIENCY                       | 2009- | 6速手排              | \-           |
-| E 250 CGI BlueEFFICIENCY                       | 2009- | 6速手排              | \-           |
-| E 300                                          | 2009- | 7G-TRONIC         | \-           |
-| E 350 CGI BlueEFFICIENCY                       | 2009- | 7G-TRONIC         | \-           |
-| E 350 4MATIC                                   | 2009- | 7G-TRONIC         | \-           |
-| E 500/E 550 (US)                               | 2009- | 7G-TRONIC         | \-           |
-| E 500 4MATIC                                   | 2009- | 7G-TRONIC         | \-           |
-| E 63 AMG                                       | 2009- | SPEEDSHIFT MCT 7速 | \-           |
-| 車型                                             | 出廠年   | 標準                | 選配           |
-| E 200 CDI BlueEFFICIENCY                       | 2009- | 6速手排              | 5速自排         |
-| E 220 CDI BlueEFFICIENCY                       | 2009- | 6速手排              | 5速自排 |-8 sec |
-| E 350 CDI BlueEFFICIENCY                       | 2009- | 7G-TRONIC         | \-           |
-| E 350 [BlueTEC](../Page/BlueTec.md "wikilink") | 2009- | 7G-TRONIC         | \-           |
-| E 350 CDI 4MATIC BlueEFFICIENCY                | 2009- | 7G-TRONIC         | \-           |
+| 車型                                                                | 出廠年   | 標準                | 選配           |
+| ----------------------------------------------------------------- | ----- | ----------------- | ------------ |
+| E 200 CGI BlueEFFICIENCY                                          | 2009- | 6速手排              | \-           |
+| E 250 CGI BlueEFFICIENCY                                          | 2009- | 6速手排              | \-           |
+| E 300                                                             | 2009- | 7G-TRONIC         | \-           |
+| E 350 CGI BlueEFFICIENCY                                          | 2009- | 7G-TRONIC         | \-           |
+| E 350 4MATIC                                                      | 2009- | 7G-TRONIC         | \-           |
+| E 500/E 550 (US)                                                  | 2009- | 7G-TRONIC         | \-           |
+| E 500 4MATIC                                                      | 2009- | 7G-TRONIC         | \-           |
+| E 63 AMG                                                          | 2009- | SPEEDSHIFT MCT 7速 | \-           |
+| 車型                                                                | 出廠年   | 標準                | 選配           |
+| E 200 CDI BlueEFFICIENCY                                          | 2009- | 6速手排              | 5速自排         |
+| E 220 CDI BlueEFFICIENCY                                          | 2009- | 6速手排              | 5速自排 |-8 sec |
+| E 350 CDI BlueEFFICIENCY                                          | 2009- | 7G-TRONIC         | \-           |
+| E 350 [BlueTEC](https://zh.wikipedia.org/wiki/BlueTec "wikilink") | 2009- | 7G-TRONIC         | \-           |
+| E 350 CDI 4MATIC BlueEFFICIENCY                                   | 2009- | 7G-TRONIC         | \-           |
 
 #### 生產
 
-E-Class 跑車型與C-Class一樣在德國[不萊梅生產](../Page/不萊梅.md "wikilink")，
-轎車版在德國[辛德林根生產](../Page/辛德林根.md "wikilink")。
+E-Class
+跑車型與C-Class一樣在德國[不萊梅生產](https://zh.wikipedia.org/wiki/不萊梅 "wikilink")，
+轎車版在德國[辛德林根生產](https://zh.wikipedia.org/wiki/辛德林根 "wikilink")。
 
 E63 AMG 將由[Mercedes-AMG生產](../Page/梅賽德斯-AMG.md "wikilink")，
 這也是Mercedes-AMG第一款自行生產的產品。
@@ -374,7 +376,7 @@ Magazine](http://www.autobild.de/)。 \[17\]
 ### 第十代W213
 
 [2017_Mercedes-Benz_E_200_d_(W_213)_sedan_(2017-11-28)_01.jpg](https://zh.wikipedia.org/wiki/File:2017_Mercedes-Benz_E_200_d_\(W_213\)_sedan_\(2017-11-28\)_01.jpg "fig:2017_Mercedes-Benz_E_200_d_(W_213)_sedan_(2017-11-28)_01.jpg")
-2016年1月11日[北美车展上](../Page/北美车展.md "wikilink")，第10代奔驰E级车正式发布。
+2016年1月11日[北美车展上](https://zh.wikipedia.org/wiki/北美车展 "wikilink")，第10代奔驰E级车正式发布。
 
 ## 參考資料
 

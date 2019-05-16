@@ -3,25 +3,27 @@ Server**是[微软公司针对大中型企业设计的](../Page/微软.md "wikil
 
 ## 架构
 
-BizTalk Server运行时架构是一种[发布/订阅的架构](../Page/发布/订阅.md "wikilink"), 有时称作
-"基于内容的发布/订阅".消息先发布到Biztalk系统,然后一个或多个订阅者收到这些消息.\[1\]
-BizTalk在等待外部事件的时候，通过把消息序列化（Biztalk术语叫[dehydration](../Page/dehydration.md "wikilink")）保存到数据的方法来确保处理安全，防止数据丢失
+BizTalk
+Server运行时架构是一种[发布/订阅的架构](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink"),
+有时称作 "基于内容的发布/订阅".消息先发布到Biztalk系统,然后一个或多个订阅者收到这些消息.\[1\]
+BizTalk在等待外部事件的时候，通过把消息序列化（Biztalk术语叫[dehydration](https://zh.wikipedia.org/wiki/dehydration "wikilink")）保存到数据的方法来确保处理安全，防止数据丢失
 。这个架构 把BizTalk和[Microsoft SQL
-Server绑到了一起](../Page/Microsoft_SQL_Server.md "wikilink")。管理员可以通过管理控制台跟踪处理流程
+Server绑到了一起](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")。管理员可以通过管理控制台跟踪处理流程
 。 BizTalk支持事务流程。 BizTalk orchestrations 还实现了 [Long-running
-transaction](../Page/Long-running_transaction.md "wikilink").
+transaction](https://zh.wikipedia.org/wiki/Long-running_transaction "wikilink").
 
 ## 适配器
 
 参考：\[2\].
 
-BizTalk利用适配器与不同协议及其他软件产品交互。提供包括针对以下协议或产品的适配：[EDI](../Page/Electronic_Data_Interchange.md "wikilink")，File，[HTTP](../Page/HTTP.md "wikilink")，[FTP](../Page/FTP.md "wikilink")，[SFTP](../Page/SFTP.md "wikilink")，[SMTP](../Page/SMTP.md "wikilink")，[POP3](../Page/POP3.md "wikilink")，[SOAP](../Page/SOAP.md "wikilink")，[SQL](../Page/SQL.md "wikilink")，[MSMQ](../Page/MSMQ.md "wikilink")，[Windows
-SharePoint Services](../Page/Windows_SharePoint_Services.md "wikilink")
+BizTalk利用适配器与不同协议及其他软件产品交互。提供包括针对以下协议或产品的适配：[EDI](https://zh.wikipedia.org/wiki/Electronic_Data_Interchange "wikilink")，File，[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[SFTP](https://zh.wikipedia.org/wiki/SFTP "wikilink")，[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")，[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")，[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")，[SQL](../Page/SQL.md "wikilink")，[MSMQ](https://zh.wikipedia.org/wiki/MSMQ "wikilink")，[Windows
+SharePoint
+Services](https://zh.wikipedia.org/wiki/Windows_SharePoint_Services "wikilink")
 (WSS)。从2006
-R2起增加针对[WCF的适配器](../Page/Windows_Communication_Foundation.md "wikilink")。
-微软同时提供包含了针对商业系统的基于WCF的适配器，目前包括：[SAP](../Page/SAP_ERP.md "wikilink")，[Oracle数据库](../Page/Oracle_Database.md "wikilink")，[Oracle
+R2起增加针对[WCF的适配器](https://zh.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink")。
+微软同时提供包含了针对商业系统的基于WCF的适配器，目前包括：[SAP](https://zh.wikipedia.org/wiki/SAP_ERP "wikilink")，[Oracle数据库](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")，[Oracle
 E-Business
-Suite](../Page/Oracle_E-Business_Suite.md "wikilink")，[SQL以及](../Page/SQL.md "wikilink")[Siebel](../Page/Siebel.md "wikilink")。
+Suite](https://zh.wikipedia.org/wiki/Oracle_E-Business_Suite "wikilink")，[SQL以及](../Page/SQL.md "wikilink")[Siebel](https://zh.wikipedia.org/wiki/Siebel "wikilink")。
 
 ## 发布时间
 

@@ -1,4 +1,4 @@
-  - TL [原子能技术](../Page/原子能技术.md "wikilink")
+  - TL [原子能技术](https://zh.wikipedia.org/wiki/原子能技术 "wikilink")
 
 :\*TL-9 原子能技术经济
 
@@ -28,7 +28,7 @@
 
 :::\*TL292 热室及其设备
 
-:\*TL3 [核反应堆工程](../Page/核反应堆工程.md "wikilink")
+:\*TL3 [核反应堆工程](https://zh.wikipedia.org/wiki/核反应堆工程 "wikilink")
 
 ::\*TL31 反应堆基础理论
 
@@ -47,7 +47,7 @@
 ::\*TL38 反应堆运行与维修
 
 :\*TL4
-各种[核反应堆](../Page/核反应堆.md "wikilink")、[核电厂](../Page/核电厂.md "wikilink")
+各种[核反应堆](../Page/核反应堆.md "wikilink")、[核电厂](https://zh.wikipedia.org/wiki/核电厂 "wikilink")
 
 ::\*TL41 核反应堆：按用途分
 
@@ -63,7 +63,7 @@
 
 ::\*TL48 核电厂（核电站）
 
-:\*TL5 [加速器](../Page/加速器.md "wikilink")
+:\*TL5 [加速器](https://zh.wikipedia.org/wiki/加速器 "wikilink")
 
 ::\*TL51 高压倍加器
 
@@ -85,7 +85,7 @@
 
 :::\*TL594 储存环（对头碰）
 
-:\*TL6 [受控热核反应](../Page/受控热核反应.md "wikilink")
+:\*TL6 [受控热核反应](https://zh.wikipedia.org/wiki/受控热核反应 "wikilink")
 
 ::\*TL61 理论
 
@@ -101,7 +101,7 @@
 
 ::\*TL69 热核反应堆安全与环境
 
-:\*TL7 [辐射防护](../Page/辐射防护.md "wikilink")
+:\*TL7 [辐射防护](https://zh.wikipedia.org/wiki/辐射防护 "wikilink")
 
 ::\*TL71 防护理论
 
@@ -116,7 +116,7 @@
 ::\*TL77 辐射源的防护
 
 :\*TL8
-[粒子探测技术](../Page/粒子探测技术.md "wikilink")、[辐射探测技术与](../Page/辐射探测技术.md "wikilink")[核仪器仪表](../Page/核仪器仪表.md "wikilink")
+[粒子探测技术](https://zh.wikipedia.org/wiki/粒子探测技术 "wikilink")、[辐射探测技术与](https://zh.wikipedia.org/wiki/辐射探测技术 "wikilink")[核仪器仪表](https://zh.wikipedia.org/wiki/核仪器仪表 "wikilink")
 
 ::\*TL81 辐射探测技术和仪器仪表
 
@@ -124,17 +124,18 @@
 
 ::\*TL84 放射性计量学与计量技术
 
-::\*TL91 [核爆炸](../Page/核爆炸.md "wikilink")
+::\*TL91 [核爆炸](https://zh.wikipedia.org/wiki/核爆炸 "wikilink")
 
 ::\*TL92 [放射性同位素的生产与制备](../Page/放射性同位素.md "wikilink")
 
 :::\*TL929 辐射源
 
-::\*TL93 [放射性物质的包装](../Page/放射性物质.md "wikilink")、运输和贮存
+::\*TL93
+[放射性物质的包装](https://zh.wikipedia.org/wiki/放射性物质 "wikilink")、运输和贮存
 
-::\*TL94 [放射性废物管理及综合利用](../Page/放射性废物.md "wikilink")
+::\*TL94 [放射性废物管理及综合利用](https://zh.wikipedia.org/wiki/放射性废物 "wikilink")
 
-::\*TL99 [原子能技术的应用](../Page/原子能技术.md "wikilink")
+::\*TL99 [原子能技术的应用](https://zh.wikipedia.org/wiki/原子能技术 "wikilink")
 
 -----
 

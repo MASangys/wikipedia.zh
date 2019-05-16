@@ -1,6 +1,6 @@
-**Lia**（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[唱作歌手](../Page/唱作歌手.md "wikilink")，1st
+**Lia**（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[唱作歌手](https://zh.wikipedia.org/wiki/唱作歌手 "wikilink")，1st
 Place所屬。為[IA -ARIA ON THE
-PLANETES-的聲源](../Page/IA_-ARIA_ON_THE_PLANETES-.md "wikilink")。擁有治癒系的歌聲，其歌唱力亦極受肯定，並參加**[I've](../Page/I've.md "wikilink")**。她亦在[快樂硬核的領域中活躍](../Page/快樂硬核.md "wikilink")（以大寫「**LIA**」為名義），現居香港\[1\]。
+PLANETES-的聲源](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")。擁有治癒系的歌聲，其歌唱力亦極受肯定，並參加**[I've](../Page/I've.md "wikilink")**。她亦在[快樂硬核的領域中活躍](../Page/快樂硬核.md "wikilink")（以大寫「**LIA**」為名義），現居香港\[1\]。
 
 ## 作品列表
 
@@ -14,7 +14,7 @@ PLANETES-的聲源](../Page/IA_-ARIA_ON_THE_PLANETES-.md "wikilink")。擁有治
 <th></th>
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高名次</p></th>
 </tr>
 </thead>
@@ -78,21 +78,21 @@ PLANETES-的聲源](../Page/IA_-ARIA_ON_THE_PLANETES-.md "wikilink")。擁有治
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2008年11月14日</p></td>
-<td><p><strong><a href="../Page/時を刻む唄/TORCH.md" title="wikilink">時を刻む唄／TORCH</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/時を刻む唄/TORCH" title="wikilink">時を刻む唄／TORCH</a></strong></p></td>
 <td><p>KSLA-0044</p></td>
 <td><p>13名</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2010年5月26日</p></td>
-<td><p><strong><a href="../Page/My_Soul,_Your_Beats!/Brave_Song.md" title="wikilink">My Soul,Your Beats!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_Soul,_Your_Beats!/Brave_Song" title="wikilink">My Soul,Your Beats!</a></strong></p></td>
 <td><p>KSLA-0053</p></td>
 <td><p>3名</p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
 <td><p>2010年7月21日</p></td>
-<td><p><strong><a href="../Page/あした天気になぁれ.md" title="wikilink">あした天気になぁれ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/あした天気になぁれ" title="wikilink">あした天気になぁれ</a></strong></p></td>
 <td><p>NECM-12165</p></td>
 <td><p>189名</p></td>
 </tr>
@@ -107,7 +107,7 @@ AMG-7019（通常盤）</p></td>
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p>2010年12月15日</p></td>
-<td><p><strong><a href="../Page/心に届く詩.md" title="wikilink">心に届く詩</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/心に届く詩" title="wikilink">心に届く詩</a></strong></p></td>
 <td><p>PCCG-90058</p></td>
 <td><p>46名</p></td>
 </tr>
@@ -175,7 +175,7 @@ MJMCD-04（通常盤）</p></td>
 <th></th>
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高名次</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -216,7 +216,7 @@ MJMCD-04（通常盤）</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2008年9月2日（queens label流通）</p></td>
-<td><p><strong><a href="../Page/new_moon.md" title="wikilink">new moon</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/new_moon" title="wikilink">new moon</a></strong></p></td>
 <td><p>PCCR-90031</p></td>
 <td><p>107名</p></td>
 <td></td>
@@ -234,17 +234,17 @@ MJMCD-04（通常盤）</p></td>
 
 #### 精選輯
 
-|     | 發售日        | 標題                                                                                                                             | [規格編號](../Page/規格編號.md "wikilink") | 最高名次 |
-| --- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ---- |
-| 1st | 2008年9月2日  | **[Lia & LIA COLLECTION ALBUM -Special Limited BOX-](../Page/Lia_&_LIA_COLLECTION_ALBUM_-Special_Limited_BOX-.md "wikilink")** | QLCD-0008/9                        | 53名  |
-| 2nd | 2011年6月24日 | **[key+Lia Best 2001-2010](../Page/key+Lia_Best_2001-2010.md "wikilink")**                                                     | KSLA-0071                          | 11名  |
+|     | 發售日        | 標題                                                                                                                                                | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高名次 |
+| --- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---- |
+| 1st | 2008年9月2日  | **[Lia & LIA COLLECTION ALBUM -Special Limited BOX-](https://zh.wikipedia.org/wiki/Lia_&_LIA_COLLECTION_ALBUM_-Special_Limited_BOX- "wikilink")** | QLCD-0008/9                                           | 53名  |
+| 2nd | 2011年6月24日 | **[key+Lia Best 2001-2010](https://zh.wikipedia.org/wiki/key+Lia_Best_2001-2010 "wikilink")**                                                     | KSLA-0071                                             | 11名  |
 
 #### 收藏集(Collection album)
 
-|     | 發售日         | 標題                                             | [規格編號](../Page/規格編號.md "wikilink") | 最高名次 |
-| --- | ----------- | ---------------------------------------------- | ---------------------------------- | ---- |
-| 1st | 2007年9月19日  | **Lia Collection Album Vol.1 -Diamond Days-**  | PCCA-90029                         | 192名 |
-| 2nd | 2007年10月17日 | **Lia Collection Album Vol.2 -Crystal Voice-** | PCCA-90030                         | 213名 |
+|     | 發售日         | 標題                                             | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高名次 |
+| --- | ----------- | ---------------------------------------------- | ----------------------------------------------------- | ---- |
+| 1st | 2007年9月19日  | **Lia Collection Album Vol.1 -Diamond Days-**  | PCCA-90029                                            | 192名 |
+| 2nd | 2007年10月17日 | **Lia Collection Album Vol.2 -Crystal Voice-** | PCCA-90030                                            | 213名 |
 
 #### 黑膠唱片
 
@@ -261,7 +261,7 @@ MJMCD-04（通常盤）</p></td>
 <tr class="header">
 <th><p>發售日</p></th>
 <th><p>標題</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高名次</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -296,13 +296,13 @@ QLVD0001</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年6月20日</p></td>
-<td><p><strong><a href="../Page/Lia_&amp;_LIA_COLLECTION_ALBUM_-Special_Limited_BOX-.md" title="wikilink">Lia &amp; LIA COLLECTION ALBUM -Special Limited BOX-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lia_&amp;_LIA_COLLECTION_ALBUM_-Special_Limited_BOX-" title="wikilink">Lia &amp; LIA COLLECTION ALBUM -Special Limited BOX-</a></strong></p></td>
 <td><p>PCCA-90028</p></td>
 <td><p>53位</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Lia_&amp;_LIA_COLLECTION_ALBUM_-Special_Limited_BOX-#LIA*COLLECTION_ALBUM_SPECTRUM_RAYS.md" title="wikilink">LIA*COLLECTION ALBUM SPECTRUM RAYS</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lia_&amp;_LIA_COLLECTION_ALBUM_-Special_Limited_BOX-#LIA*COLLECTION_ALBUM_SPECTRUM_RAYS" title="wikilink">LIA*COLLECTION ALBUM SPECTRUM RAYS</a></strong></p></td>
 <td><p>QLCD-0012</p></td>
 <td></td>
 <td></td>
@@ -405,10 +405,10 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/AIR.md" title="wikilink">AIR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AIR" title="wikilink">AIR</a></p></td>
 <td><dl>
 <dt></dt>
-<dd><a href="../Page/鳥の詩.md" title="wikilink">鳥の詩</a> - PC遊戲・TV動畫OP主題曲
+<dd><a href="https://zh.wikipedia.org/wiki/鳥の詩" title="wikilink">鳥の詩</a> - PC遊戲・TV動畫OP主題曲
 </dd>
 <dd>夏影 - 印象曲
 </dd>
@@ -436,14 +436,14 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 <td><p><a href="../Page/CLANNAD.md" title="wikilink">CLANNAD AFTER STORY</a></p></td>
 <td><dl>
 <dt></dt>
-<dd><a href="../Page/時を刻む唄/TORCH.md" title="wikilink">時を刻む唄</a> - TV動畫OP主題曲
+<dd><a href="https://zh.wikipedia.org/wiki/時を刻む唄/TORCH" title="wikilink">時を刻む唄</a> - TV動畫OP主題曲
 </dd>
-<dd><a href="../Page/時を刻む唄/TORCH.md" title="wikilink">TORCH</a> - TV動畫ED主題曲
+<dd><a href="https://zh.wikipedia.org/wiki/時を刻む唄/TORCH" title="wikilink">TORCH</a> - TV動畫ED主題曲
 </dd>
 </dl></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/智代after.md" title="wikilink">智代after 〜It's a Wonderful Life〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/智代after" title="wikilink">智代after 〜It's a Wonderful Life〜</a></p></td>
 <td><dl>
 <dt></dt>
 <dd>Light colors - OP主題曲
@@ -483,7 +483,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/beatmaniaIIDX.md" title="wikilink">beatmaniaIIDX</a>11 - IIDXRED</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/beatmaniaIIDX" title="wikilink">beatmaniaIIDX</a>11 - IIDXRED</p></td>
 <td><dl>
 <dt></dt>
 <dd>HORIZON - 收錄曲、LIA名義、由 korsk（斎藤広祐）作曲
@@ -501,7 +501,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/RF_online.md" title="wikilink">RF online</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RF_online" title="wikilink">RF online</a></p></td>
 <td><dl>
 <dt></dt>
 <dd>War for Peace
@@ -521,7 +521,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/GUNSLINGER_GIRL.md" title="wikilink">GUNSLINGER GIRL -IL TEATRINO-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GUNSLINGER_GIRL" title="wikilink">GUNSLINGER GIRL -IL TEATRINO-</a></p></td>
 <td><dl>
 <dt></dt>
 <dd>doll - ED主題曲、另有<a href="../Page/多田葵.md" title="wikilink">多田葵主唱的版本</a>
@@ -560,7 +560,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 <td><p><a href="../Page/Angel_Beats!.md" title="wikilink">Angel Beats!</a></p></td>
 <td><dl>
 <dt></dt>
-<dd><a href="../Page/My_Soul,_Your_Beats!/Brave_Song.md" title="wikilink">My Soul,Your Beats!</a> - OP主題曲
+<dd><a href="https://zh.wikipedia.org/wiki/My_Soul,_Your_Beats!/Brave_Song" title="wikilink">My Soul,Your Beats!</a> - OP主題曲
 </dd>
 </dl></td>
 </tr>
@@ -617,7 +617,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/目隱城市的演繹者.md" title="wikilink">目隱城市的演繹者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/目隱城市的演繹者" title="wikilink">目隱城市的演繹者</a></p></td>
 <td><dl>
 <dt></dt>
 <dd>days - TV動畫ED主題曲
@@ -625,7 +625,7 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 </dl></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Charlotte_(動畫).md" title="wikilink">Charlotte (動畫)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Charlotte_(動畫)" title="wikilink">Charlotte (動畫)</a></p></td>
 <td><dl>
 <dt></dt>
 <dd>Bravely You - TV動畫OP主題曲
@@ -662,4 +662,4 @@ q流通＝queens label流通／p流通＝ポニーキャニオン流通
 2.  2001年8月10日Comic Market先行發售
 3.  2002年12月28日Comic Market先行發售
 4.  2003年8月15日Comic Market先行發售
-5.  収録シングルは同アニメのオープニング主題歌を担当した[松原剛志との合同名義](../Page/松原剛志.md "wikilink")。サウンドプロデュースに[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")、[右手愛美などのj](../Page/右手愛美.md "wikilink")-popシンガーに曲を提供してきた[HΛLが手がけている](../Page/HΛL.md "wikilink")。
+5.  収録シングルは同アニメのオープニング主題歌を担当した[松原剛志との合同名義](../Page/松原剛志.md "wikilink")。サウンドプロデュースに[浜崎あゆみ](https://zh.wikipedia.org/wiki/浜崎あゆみ "wikilink")、[右手愛美などのj](https://zh.wikipedia.org/wiki/右手愛美 "wikilink")-popシンガーに曲を提供してきた[HΛLが手がけている](https://zh.wikipedia.org/wiki/HΛL "wikilink")。

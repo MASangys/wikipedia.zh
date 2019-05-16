@@ -1,11 +1,11 @@
 **SUNIST**，全称Sino-UNIted Spherical
-Tokamak，也即“中国联合球形[托卡马克](../Page/托卡马克.md "wikilink")”，是一个由[北京清华大学工程物理系与](../Page/清华大学_\(北京\).md "wikilink")[中国科学院物理研究所联合建造的球形](../Page/中国科学院物理研究所.md "wikilink")[托卡马克](../Page/托卡马克.md "wikilink")，坐落于[北京的清华大学工程物理系](../Page/北京.md "wikilink")，于2002年建成并投入实验。
+Tokamak，也即“中国联合球形[托卡马克](../Page/托卡马克.md "wikilink")”，是一个由[北京清华大学工程物理系与](https://zh.wikipedia.org/wiki/清华大学_\(北京\) "wikilink")[中国科学院物理研究所联合建造的球形](https://zh.wikipedia.org/wiki/中国科学院物理研究所 "wikilink")[托卡马克](../Page/托卡马克.md "wikilink")，坐落于[北京的清华大学工程物理系](https://zh.wikipedia.org/wiki/北京 "wikilink")，于2002年建成并投入实验。
 
-SUNIST主要用于研究低环径比托卡马克[等离子体的物理特性](../Page/等离子体.md "wikilink")。从2002年11月产生第一炮[等离子体起](../Page/等离子体.md "wikilink")，SUNIST先后进行了欧姆放电、[等离子体边界湍流](../Page/等离子.md "wikilink")、垂直场改造、[微波驱动非感应电流启动](../Page/微波.md "wikilink")、电极辅助电流启动、[欧姆加热反向放电](../Page/欧姆.md "wikilink")，等等诸多研究。在有限的预算下，取得了较为不错的实验结果。
+SUNIST主要用于研究低环径比托卡马克[等离子体的物理特性](../Page/等离子体.md "wikilink")。从2002年11月产生第一炮[等离子体起](../Page/等离子体.md "wikilink")，SUNIST先后进行了欧姆放电、[等离子体边界湍流](https://zh.wikipedia.org/wiki/等离子 "wikilink")、垂直场改造、[微波驱动非感应电流启动](https://zh.wikipedia.org/wiki/微波 "wikilink")、电极辅助电流启动、[欧姆加热反向放电](https://zh.wikipedia.org/wiki/欧姆 "wikilink")，等等诸多研究。在有限的预算下，取得了较为不错的实验结果。
 
 ## 實驗室
 
-SUNIST联合实验室是围绕SUNIST装置而成立的一个专业实验室。成员包括4\~6名[教授](../Page/教授.md "wikilink")、[副教授和大约](../Page/副教授.md "wikilink")10名[研究生](../Page/研究生.md "wikilink")。真空、[电子学](../Page/电子学.md "wikilink")、电力电子、微波、计算等高温[等离子体相关实验室设备较为完备](../Page/等离子体.md "wikilink")。
+SUNIST联合实验室是围绕SUNIST装置而成立的一个专业实验室。成员包括4\~6名[教授](../Page/教授.md "wikilink")、[副教授和大约](https://zh.wikipedia.org/wiki/副教授 "wikilink")10名[研究生](../Page/研究生.md "wikilink")。真空、[电子学](../Page/电子学.md "wikilink")、电力电子、微波、计算等高温[等离子体相关实验室设备较为完备](../Page/等离子体.md "wikilink")。
 
 ## 主要參數
 

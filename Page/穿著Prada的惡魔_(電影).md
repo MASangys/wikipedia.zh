@@ -1,9 +1,9 @@
-**穿普拉达的女王**（）是2006年[美国](../Page/美国.md "wikilink")，改编自创作于2003年的同名小说。本片主演为[梅丽尔·斯特里普](../Page/梅丽尔·斯特里普.md "wikilink")、[安妮·海瑟薇](../Page/安妮·海瑟薇.md "wikilink")、[史丹利·特治](../Page/史丹利·特治.md "wikilink")、[西蒙·贝克](../Page/西蒙·贝克.md "wikilink")、[艾蜜莉·布朗以及](../Page/艾蜜莉·布朗.md "wikilink")[阿德里安·格蘭尼](../Page/阿德里安·格蘭尼.md "wikilink")。
-本片由制片，[大卫·法兰科执导](../Page/大卫·法兰科.md "wikilink")，并由[20世纪福克斯电影公司负责影片发行](../Page/20世紀福斯.md "wikilink")。梅丽尔·斯特里普在片中的演技备受褒扬，并因此获得诸多奖项提名，其中就包括创纪录的第14次[奥斯卡奖和](../Page/奥斯卡奖.md "wikilink")[金球奖最佳喜剧或音乐剧女主角提名](../Page/金球奖.md "wikilink")。艾蜜莉·布朗也凭借这自己在本片的优秀演出而获得了影评人的肯定和不少奖项的提名，同时也接到了不少电影制片人的邀约。
+**穿普拉达的女王**（）是2006年[美国](../Page/美国.md "wikilink")，改编自创作于2003年的同名小说。本片主演为[梅丽尔·斯特里普](https://zh.wikipedia.org/wiki/梅丽尔·斯特里普 "wikilink")、[安妮·海瑟薇](../Page/安妮·海瑟薇.md "wikilink")、[史丹利·特治](../Page/史丹利·特治.md "wikilink")、[西蒙·贝克](../Page/西蒙·贝克.md "wikilink")、[艾蜜莉·布朗以及](https://zh.wikipedia.org/wiki/艾蜜莉·布朗 "wikilink")[阿德里安·格蘭尼](https://zh.wikipedia.org/wiki/阿德里安·格蘭尼 "wikilink")。
+本片由制片，[大卫·法兰科执导](https://zh.wikipedia.org/wiki/大卫·法兰科 "wikilink")，并由[20世纪福克斯电影公司负责影片发行](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")。梅丽尔·斯特里普在片中的演技备受褒扬，并因此获得诸多奖项提名，其中就包括创纪录的第14次[奥斯卡奖和](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")[金球奖最佳喜剧或音乐剧女主角提名](https://zh.wikipedia.org/wiki/金球奖 "wikilink")。艾蜜莉·布朗也凭借这自己在本片的优秀演出而获得了影评人的肯定和不少奖项的提名，同时也接到了不少电影制片人的邀约。
 
 本片在2006年6月30日在北美公映后，得到了美国影评人和观众的欢迎，并在当年暑期档创造了让人惊讶的高票房。在海外市场，梅丽尔·斯特里普因为该片继续了她在商业上的成功，但同时也招致了影评人的批评。在2006年10月份之后，该片的主要票房收入都来自海外市场。影片下画之后，在2006年12月所推出的DVD在北美市场成为当月首选。根据最终票房统计，《穿普拉达的女王》无论是在美国本土票房还是海外票房都位居2006年的前20名。其全球总票房超过3亿美元，其中绝大部分来自北美以外的市场。
 
-尽管本片的背景设定为美国的时尚行业，但是大部分[时尚设计师或其他时尚名人都避免自己出镜](../Page/时尚设计师.md "wikilink")，因为担心此举会招致[《时尚》美国版主编](../Page/时尚_\(杂志\).md "wikilink")[安娜·温特的不满](../Page/安娜·温特.md "wikilink")。而温特女士被绝大多数人认为是片中米兰达的原型。但是，設計師們却允许他们所设计的服装或配饰以租借的方式在电影中出镜，因而使得本片成为影史上服装造型價值最昂贵的电影。\[1\]
+尽管本片的背景设定为美国的时尚行业，但是大部分[时尚设计师或其他时尚名人都避免自己出镜](https://zh.wikipedia.org/wiki/时尚设计师 "wikilink")，因为担心此举会招致[《时尚》美国版主编](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")[安娜·温特的不满](https://zh.wikipedia.org/wiki/安娜·温特 "wikilink")。而温特女士被绝大多数人认为是片中米兰达的原型。但是，設計師們却允许他们所设计的服装或配饰以租借的方式在电影中出镜，因而使得本片成为影史上服装造型價值最昂贵的电影。\[1\]
 安娜·温特最终克服了自己最初的怀疑，她表示她喜爱这部电影，特别是梅丽尔·斯特里普的表演。\[2\]
 
 ## 剧情简介
@@ -26,13 +26,13 @@
 <td><p>来纽约市寻找工作的大学毕业生，后成为米兰达的第二助理。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td><p>米兰达·普瑞斯特利<br />
 </p></td>
 <td><p>时尚杂志《伸展台》主编。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td><p>艾米丽·查尔顿<br />
 </p></td>
 <td><p>現任米兰达的第一助理。</p></td>
@@ -50,7 +50,7 @@
 <td><p>作家。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/艾德·葛納.md" title="wikilink">艾德·葛納</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾德·葛納" title="wikilink">艾德·葛納</a></p></td>
 <td><p>奈特·库伯<br />
 </p></td>
 <td><p>安迪男友，厨师。</p></td>
@@ -198,7 +198,7 @@
 
 [Anna_Wintour.jpg](https://zh.wikipedia.org/wiki/File:Anna_Wintour.jpg "fig:Anna_Wintour.jpg")最初质疑《穿普拉达的女王》，但最后却改变观点转而欣赏这部电影。\]\]
 
-《[时尚](../Page/时尚_\(杂志\).md "wikilink")》美国版[主编](../Page/主编.md "wikilink")[安娜·温特穿着](../Page/安娜·温特.md "wikilink")[普拉达出席了](../Page/普拉达.md "wikilink")《穿普拉达的女王》纽约首映礼。她的好友芭芭拉·埃米尔（）说道，安娜认为这部电影不值得进影院观看，买张DVD就够了。\[3\]
+《[时尚](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")》美国版[主编](https://zh.wikipedia.org/wiki/主编 "wikilink")[安娜·温特穿着](https://zh.wikipedia.org/wiki/安娜·温特 "wikilink")[普拉达出席了](https://zh.wikipedia.org/wiki/普拉达 "wikilink")《穿普拉达的女王》纽约首映礼。她的好友芭芭拉·埃米尔（）说道，安娜认为这部电影不值得进影院观看，买张DVD就够了。\[3\]
 但是根据安娜·温特在DVD发售日接受芭芭拉·沃尔特斯（）采访时却说，她认为这部电影“非常有趣”，并赞扬米兰达“果断”的性格，“任何使得时尚变得快乐、有趣和时尚的东西对于我们时尚产业都是有利的，我是百分百支持的。”\[4\]
 斯特里普评价安娜·温特“在书中的表现比电影里更令人不安”。 \[5\]
 
@@ -211,17 +211,17 @@
 > *《穿普拉达的女王》是一部激情洋溢、完美质感的电影，这部电影以它的超高票房在某些行业引起了震动。它让国人欣喜不已，就像维斯贝格尔的书，仍在几个国家级畅销书榜上表现强劲。*\[6\]
 
 《穿普拉达的女王》荣膺[美国国家评论协会](../Page/國家評論協會.md "wikilink")2006年度十佳影片之一。\[7\]
-[美国电影学会也给予了该片类似的](../Page/美国电影学会.md "wikilink")[奖励](../Page/2006年美國電影學會獎.md "wikilink")。\[8\]
+[美国电影学会也给予了该片类似的](../Page/美国电影学会.md "wikilink")[奖励](https://zh.wikipedia.org/wiki/2006年美國電影學會獎 "wikilink")。\[8\]
 
-本片同时也得到了[好莱坞外国记者协会的关注](../Page/好莱坞外国记者协会.md "wikilink")，并入围了2006年度[金球奖的提名](../Page/第64屆金球獎.md "wikilink")。其中梅丽尔·斯特里普因本片获得[最佳音乐及喜剧类电影女主角奖](../Page/金球獎最佳音樂及喜劇類電影女主角.md "wikilink")，而电影本身也获得了[最佳音乐及喜剧类电影提名](../Page/金球獎最佳音樂及喜劇電影.md "wikilink")，同时艾蜜莉·布朗也获得了[最佳女配角提名](../Page/金球獎最佳電影女配角.md "wikilink")。\[9\]
+本片同时也得到了[好莱坞外国记者协会的关注](../Page/好莱坞外国记者协会.md "wikilink")，并入围了2006年度[金球奖的提名](https://zh.wikipedia.org/wiki/第64屆金球獎 "wikilink")。其中梅丽尔·斯特里普因本片获得[最佳音乐及喜剧类电影女主角奖](../Page/金球獎最佳音樂及喜劇類電影女主角.md "wikilink")，而电影本身也获得了[最佳音乐及喜剧类电影提名](../Page/金球獎最佳音樂及喜劇電影.md "wikilink")，同时艾蜜莉·布朗也获得了[最佳女配角提名](../Page/金球獎最佳電影女配角.md "wikilink")。\[9\]
 
-2007年1月4日，梅丽尔·斯特里普被提名为[美国演员工会奖](../Page/美国演员工会奖.md "wikilink")[最佳女主角](../Page/美国演员工会奖最佳女主角.md "wikilink")。\[10\]
-四天后，斯特里普因为《穿普拉达的女王》和《[牧场之家好做伴](../Page/牧场之家好做伴.md "wikilink")》获得了[美国国家影评人协会的最佳女配角](../Page/國家影評人協會.md "wikilink")。\[11\]
+2007年1月4日，梅丽尔·斯特里普被提名为[美国演员工会奖](https://zh.wikipedia.org/wiki/美国演员工会奖 "wikilink")[最佳女主角](../Page/美国演员工会奖最佳女主角.md "wikilink")。\[10\]
+四天后，斯特里普因为《穿普拉达的女王》和《[牧场之家好做伴](https://zh.wikipedia.org/wiki/牧场之家好做伴 "wikilink")》获得了[美国国家影评人协会的最佳女配角](../Page/國家影評人協會.md "wikilink")。\[11\]
 2007年1月11日，编剧艾莲·布洛什·麦肯纳获得[美国编剧工会的](../Page/美国编剧工会.md "wikilink")[美国编剧工会奖最佳改编剧本提名](../Page/美国编剧工会奖.md "wikilink")。\[12\]
 
 随后，[英国电影和电视艺术学院公布了他们的](../Page/英国电影和电视艺术学院.md "wikilink")2006年度[提名](../Page/英国电影学院奖.md "wikilink")：女主角演员梅丽尔·斯特里普、女配角演员艾蜜莉·布朗、电影服装设计派翠西娅·菲尔德和编剧艾莲·布洛什·麦肯纳都获得了提名；此外，化妆及发型师妮姬·莱德曼（）和安吉尔·迪安杰里斯（）也获得了提名。\[13\]
 
-2007年1月23日，梅丽尔·斯特里普获得了她的第14个[奥斯卡奖提名](../Page/奥斯卡奖.md "wikilink")，进而将她所保持的表演类最多提名次数记录13次提升到14次。同时，派翠西娅·菲尔德也获得了提名。\[14\]
+2007年1月23日，梅丽尔·斯特里普获得了她的第14个[奥斯卡奖提名](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")，进而将她所保持的表演类最多提名次数记录13次提升到14次。同时，派翠西娅·菲尔德也获得了提名。\[14\]
 虽然她们二人都没有最终拿奖，但是在最后的宣读获奖人时，艾蜜莉·布朗和安妮·海瑟薇在舞台上通过一段有关本片的小表演让观众笑逐颜开。她们两人非常紧张地询问谁给梅丽尔·斯特里普买咖啡了，而斯特里普则在台下装出严厉的表情。\[15\]
 
 <table>
@@ -237,9 +237,9 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/奥斯卡金像奖.md" title="wikilink">奥斯卡金像奖</a></p></td>
-<td><p><a href="../Page/第79届奥斯卡金像奖.md" title="wikilink">2007年2月25日</a></p></td>
-<td><p><a href="../Page/奥斯卡最佳女主角奖.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第79届奥斯卡金像奖" title="wikilink">2007年2月25日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥斯卡最佳女主角奖" title="wikilink">最佳女主角</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -257,8 +257,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/美国电影学会#.E7.8D.8E.E9.A0.85.md" title="wikilink">美国电影学会奖</a></p></td>
-<td><p><a href="../Page/2006年美國電影學會獎.md" title="wikilink">2007年1月12日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美国电影学会#.E7.8D.8E.E9.A0.85" title="wikilink">美国电影学会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2006年美國電影學會獎" title="wikilink">2007年1月12日</a></p></td>
 <td><p>年度电影</p></td>
 <td><p>穿普拉达的女王</p></td>
 <td></td>
@@ -274,12 +274,12 @@
 <td><p><a href="../Page/女性电影记者联盟.md" title="wikilink">女性电影记者联盟伊达奖</a></p></td>
 <td><p>2006年12月</p></td>
 <td><p>最佳女性喜剧片</p></td>
-<td><p><a href="../Page/大卫·法兰科.md" title="wikilink">大卫·法兰科</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大卫·法兰科" title="wikilink">大卫·法兰科</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳喜剧女演员奖</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -296,40 +296,40 @@
 </p></td>
 <td><p>2006年12月</p></td>
 <td><p>最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳女配角</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/廣播音樂公司#.E7.8D.8E.E9.A0.85.md" title="wikilink">广播音乐公司奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣播音樂公司#.E7.8D.8E.E9.A0.85" title="wikilink">广播音乐公司奖</a></p></td>
 <td><p>2007年5月16日</p></td>
 <td><p>最佳电影配乐</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/波士顿影评人协会奖.md" title="wikilink">波士顿影评人协会奖</a></p></td>
-<td><p><a href="../Page/第27届波士顿影评人协会奖.md" title="wikilink">2006年12月11日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士顿影评人协会奖" title="wikilink">波士顿影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第27届波士顿影评人协会奖" title="wikilink">2006年12月11日</a></p></td>
 <td><p><a href="../Page/波士顿影评人协会奖最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/英国电影学院奖.md" title="wikilink">英国电影学院奖</a></p></td>
 <td><p>2007年2月11日</p></td>
 <td><p><a href="../Page/英國電影學院獎最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/英國電影學院獎最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -357,17 +357,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/俄亥俄中部影评人协会.md" title="wikilink">俄亥俄中部影评人协会</a></p></td>
-<td><p><a href="../Page/第5届俄亥俄中部影评人协会奖.md" title="wikilink">2007年1月11日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俄亥俄中部影评人协会" title="wikilink">俄亥俄中部影评人协会</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第5届俄亥俄中部影评人协会奖" title="wikilink">2007年1月11日</a></p></td>
 <td><p><a href="../Page/俄亥俄中部影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/芝加哥影评人协会#.E5.A5.96.E9.A1.B9.md" title="wikilink">芝加哥影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芝加哥影评人协会#.E5.A5.96.E9.A1.B9" title="wikilink">芝加哥影评人协会奖</a></p></td>
 <td><p>2006年12月28日</p></td>
 <td><p><a href="../Page/芝加哥影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -378,7 +378,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/评论家选择奖.md" title="wikilink">评论家选择奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/评论家选择奖" title="wikilink">评论家选择奖</a></p></td>
 <td><p>2007年1月20日</p></td>
 <td><p>最佳喜剧类电影</p></td>
 <td><p>穿普拉达的女王</p></td>
@@ -386,21 +386,21 @@
 </tr>
 <tr class="even">
 <td><p>最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/达拉斯—沃斯堡影评人协会.md" title="wikilink">达拉斯—沃斯堡影评人协会奖励</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达拉斯—沃斯堡影评人协会" title="wikilink">达拉斯—沃斯堡影评人协会奖励</a></p></td>
 <td><p>2006年12月19日</p></td>
 <td><p><a href="../Page/达拉斯—沃斯堡影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/达拉斯—沃斯堡影评人协会奖最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -409,26 +409,26 @@
 <td><p>都柏林影评人协会奖</p></td>
 <td><p>2006年12月</p></td>
 <td><p>最佳女配角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金球奖.md" title="wikilink">金球奖</a></p></td>
-<td><p><a href="../Page/第64屆金球獎.md" title="wikilink">2007年1月15日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金球奖" title="wikilink">金球奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第64屆金球獎" title="wikilink">2007年1月15日</a></p></td>
 <td><p><a href="../Page/金球獎最佳音樂及喜劇電影.md" title="wikilink">最佳音乐及喜剧类电影</a></p></td>
 <td><p>穿普拉达的女王</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金球獎最佳音樂及喜劇類電影女主角.md" title="wikilink">最佳音乐及喜剧类电影女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金球獎最佳電影女配角.md" title="wikilink">最佳电影女配角</a></p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -437,28 +437,28 @@
 <td><p>金笨瓜奖</p></td>
 <td><p>2006年12月</p></td>
 <td><p>年度最佳女配角</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>国际网络影评人票选奖</p></td>
 <td><p>2011年1月9日</p></td>
 <td><p>十年最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>意大利网络电影奖</p></td>
 <td><p>2007年5月</p></td>
 <td><p>最佳女配角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>朱庇特奖</p></td>
 <td><p>2007年3月</p></td>
 <td><p>最佳国际女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -469,36 +469,36 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伦敦影评人协会.md" title="wikilink">伦敦影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伦敦影评人协会" title="wikilink">伦敦影评人协会奖</a></p></td>
 <td><p>2007年2月8日</p></td>
 <td><p>年度女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>年度英国女配角</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MTV电影大奖.md" title="wikilink">MTV电影大奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MTV电影大奖" title="wikilink">MTV电影大奖</a></p></td>
 <td><p>2007年6月3日</p></td>
 <td><p>最佳突破演出</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳反派</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳喜剧演出</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -511,38 +511,38 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/国家评论协会.md" title="wikilink">美国国家评论协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/国家评论协会" title="wikilink">美国国家评论协会奖</a></p></td>
 <td><p>2007年1月9日</p></td>
 <td><p>十大电影</p></td>
 <td><p>穿普拉达的女王</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/國家影評人協會#.E5.9C.8B.E5.AE.B6.E5.BD.B1.E8.A9.95.E4.BA.BA.E5.8D.94.E6.9C.83.E7.8D.8E.md" title="wikilink">美国影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/國家影評人協會#.E5.9C.8B.E5.AE.B6.E5.BD.B1.E8.A9.95.E4.BA.BA.E5.8D.94.E6.9C.83.E7.8D.8E" title="wikilink">美国影评人协会奖</a></p></td>
 <td><p>2007年1月6日</p></td>
 <td><p>最佳女配角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/纽约影评人协会.md" title="wikilink">纽约影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/纽约影评人协会" title="wikilink">纽约影评人协会奖</a></p></td>
 <td><p>2006年12月11日</p></td>
 <td><p><a href="../Page/纽约影评人协会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/北德克萨斯影评人协会.md" title="wikilink">北德克萨斯影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北德克萨斯影评人协会" title="wikilink">北德克萨斯影评人协会奖</a></p></td>
 <td><p>2007年1月21日</p></td>
 <td><p>最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>网络电影电视协会奖</p></td>
 <td><p>2007年2月10日</p></td>
 <td><p>Best Actress</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -556,7 +556,7 @@
 <td><p>网络影评人协会奖</p></td>
 <td><p>2007年1月8日</p></td>
 <td><p>最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -570,7 +570,7 @@
 <td><p>伦勃朗奖</p></td>
 <td><p>2007年3月</p></td>
 <td><p>国际最佳女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -582,7 +582,7 @@
 </tr>
 <tr class="even">
 <td><p>最佳音乐及喜剧类电影女主角</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -595,17 +595,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/美国演员工会奖.md" title="wikilink">美国演员工会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美国演员工会奖" title="wikilink">美国演员工会奖</a></p></td>
 <td><p>2007年1月28日</p></td>
 <td><p><a href="../Page/美国演员工会奖最佳女主角.md" title="wikilink">最佳女主角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/圣路易斯影评人协会.md" title="wikilink">圣路易斯影评人协会奖</a></p></td>
-<td><p><a href="../Page/第3届圣路易斯影评人协会奖.md" title="wikilink">2007年1月7日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣路易斯影评人协会" title="wikilink">圣路易斯影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第3届圣路易斯影评人协会奖" title="wikilink">2007年1月7日</a></p></td>
 <td><p><a href="../Page/圣路易斯影评人协会奖最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -617,7 +617,7 @@
 </tr>
 <tr class="odd">
 <td><p>电影选择奖：化学反应</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a><br />
 <a href="../Page/安妮·海瑟薇.md" title="wikilink">安妮·海瑟薇</a></p></td>
 <td></td>
 <td></td>
@@ -625,14 +625,14 @@
 </tr>
 <tr class="even">
 <td><p>电影选择奖：突出表现女星</p></td>
-<td><p><a href="../Page/艾蜜莉·布朗.md" title="wikilink">艾蜜莉·布朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾蜜莉·布朗" title="wikilink">艾蜜莉·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>电影选择奖：反派</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,17 +646,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/温哥华影评人协会#.E5.A5.96.E9.A1.B9.md" title="wikilink">温哥华影评人协会奖</a></p></td>
-<td><p><a href="../Page/2006年温哥华影评人协会奖.md" title="wikilink">2007年1月9日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/温哥华影评人协会#.E5.A5.96.E9.A1.B9" title="wikilink">温哥华影评人协会奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2006年温哥华影评人协会奖" title="wikilink">2007年1月9日</a></p></td>
 <td><p><a href="../Page/温哥华影评人协会奖最佳女配角.md" title="wikilink">最佳女配角</a></p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>女性影评人协会奖</p></td>
 <td><p>2006年12月14日</p></td>
 <td><p>最佳喜剧电影演员</p></td>
-<td><p><a href="../Page/梅丽尔·斯特里普.md" title="wikilink">梅丽尔·斯特里普</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅丽尔·斯特里普" title="wikilink">梅丽尔·斯特里普</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -678,14 +678,14 @@
 
 ## 电影改编
 
-《穿普拉达的女王》电影的极大成功导致了一个美剧改编企划，但最终流产。该改编企划计划《穿普拉达的女王》电视剧版于2007年到2008年播出季在美国[福克斯电视网播出](../Page/福克斯电视网.md "wikilink")。该电视剧原计划由制作，并试图打破传统美剧长度或半小时或一小时的限制，以及改变美剧由[单机位拍摄的习惯](../Page/单机位.md "wikilink")。但是该剧最终没有完成试播集的拍摄，甚至连试播集的前期制作都没有完成。\[16\]
+《穿普拉达的女王》电影的极大成功导致了一个美剧改编企划，但最终流产。该改编企划计划《穿普拉达的女王》电视剧版于2007年到2008年播出季在美国[福克斯电视网播出](https://zh.wikipedia.org/wiki/福克斯电视网 "wikilink")。该电视剧原计划由制作，并试图打破传统美剧长度或半小时或一小时的限制，以及改变美剧由[单机位拍摄的习惯](https://zh.wikipedia.org/wiki/单机位 "wikilink")。但是该剧最终没有完成试播集的拍摄，甚至连试播集的前期制作都没有完成。\[16\]
 
-随着电影的热映，劳伦·维斯贝格尔所创作的原著也重新受到读者的关注。《穿普拉达的女王》的原著小说在2006年成为《[今日美国](../Page/今日美国.md "wikilink")》年度畅销书榜第八名，\[17\]
+随着电影的热映，劳伦·维斯贝格尔所创作的原著也重新受到读者的关注。《穿普拉达的女王》的原著小说在2006年成为《[今日美国](https://zh.wikipedia.org/wiki/今日美国 "wikilink")》年度畅销书榜第八名，\[17\]
 同时也是当年美国图书馆第二受欢迎的借阅书籍。\[18\]
-原著[有声书于](../Page/有声书.md "wikilink")2006年10月发行，并迅速成为多媒体小说畅销榜第三。\[19\]
+原著[有声书于](https://zh.wikipedia.org/wiki/有声书 "wikilink")2006年10月发行，并迅速成为多媒体小说畅销榜第三。\[19\]
 
-2015年，据报道，美国[百老汇](../Page/百老汇剧院.md "wikilink")与[20世纪福克斯电影公司达成一向协议](../Page/二十世紀福斯.md "wikilink")，麦科勒姆将在两年内陆续从福克斯的片库挑选一部分作品改编成[音乐剧](../Page/音乐剧.md "wikilink")。而其中他最感兴趣的两部电影就是《[窈窕奶爸](../Page/窈窕奶爸.md "wikilink")》和《穿普拉达的女王》。但麦科勒姆最终改编的第一部作品却是[德鲁·巴里摩尔在](../Page/德鲁·巴里摩尔.md "wikilink")1998年拍摄的电影《》，\[20\]
-剧场狂热者们可能会对《穿普拉达的女王》音乐剧感兴趣，“（《穿普拉达的女王》）并非一个可怕的原作，”[影音俱乐部观察道](../Page/影音俱乐部.md "wikilink")，推测将会由或在舞台上为大家出演一个令人难忘的米兰达。\[21\]
+2015年，据报道，美国[百老汇](https://zh.wikipedia.org/wiki/百老汇剧院 "wikilink")与[20世纪福克斯电影公司达成一向协议](../Page/二十世紀福斯.md "wikilink")，麦科勒姆将在两年内陆续从福克斯的片库挑选一部分作品改编成[音乐剧](https://zh.wikipedia.org/wiki/音乐剧 "wikilink")。而其中他最感兴趣的两部电影就是《[窈窕奶爸](../Page/窈窕奶爸.md "wikilink")》和《穿普拉达的女王》。但麦科勒姆最终改编的第一部作品却是[德鲁·巴里摩尔在](https://zh.wikipedia.org/wiki/德鲁·巴里摩尔 "wikilink")1998年拍摄的电影《》，\[20\]
+剧场狂热者们可能会对《穿普拉达的女王》音乐剧感兴趣，“（《穿普拉达的女王》）并非一个可怕的原作，”[影音俱乐部观察道](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")，推测将会由或在舞台上为大家出演一个令人难忘的米兰达。\[21\]
 
 ## 光盘发行
 
@@ -728,13 +728,13 @@
 
 在剪辑与导演的评论音轨里提及，被删除的镜头有交代一些影片中相关人物的背景信息。但是电影剪辑马克·里沃尔西认为应该将故事情节集中在米兰达和安迪的冲突上，因此往往没有经过导演大卫·法兰科的同意而删除。
 
-法兰科一般会赞同里沃尔西的剪辑，但是有一个镜头除外。这个镜头是讲述安迪前往[卡尔文·克雷恩展厅](../Page/卡尔文·克雷恩.md "wikilink")，法兰科认为这个情节展示了安迪的工作不仅仅只是为米兰达的私事而奔波
+法兰科一般会赞同里沃尔西的剪辑，但是有一个镜头除外。这个镜头是讲述安迪前往[卡尔文·克雷恩展厅](https://zh.wikipedia.org/wiki/卡尔文·克雷恩 "wikilink")，法兰科认为这个情节展示了安迪的工作不仅仅只是为米兰达的私事而奔波
 
 ## 文化冲击和法律影响
 
 ## 续集
 
-2013年，劳伦·维斯贝格尔完成了《穿普拉达的女王》的小说续集《穿著Prada的惡魔2：復仇》（）。但是《穿著Prada的惡魔2：復仇》电影版或者其他《穿普拉达的女王》的续集似乎并没有提上制作日程，原因是《穿普拉达的女王》片中的两位主角并不希望推出续集电影。[梅丽尔·斯特里普的电影是从来不拍摄续集的](../Page/梅丽尔·斯特里普.md "wikilink")，据说她尤其没有兴趣拍摄这部电影的续集。虽然[安妮·海瑟薇表示有兴趣和同样的人继续合作](../Page/安妮·海瑟薇.md "wikilink")，但是大家合作的东西必须是“完全不同的东西”。在接受《[名利场](../Page/名利场_\(杂志\).md "wikilink")》采访的时候，海瑟薇说道：“（《穿普拉达的女王》）也许弹出了美妙的音符，但现在已经是曲终人散的时候了。
+2013年，劳伦·维斯贝格尔完成了《穿普拉达的女王》的小说续集《穿著Prada的惡魔2：復仇》（）。但是《穿著Prada的惡魔2：復仇》电影版或者其他《穿普拉达的女王》的续集似乎并没有提上制作日程，原因是《穿普拉达的女王》片中的两位主角并不希望推出续集电影。[梅丽尔·斯特里普的电影是从来不拍摄续集的](https://zh.wikipedia.org/wiki/梅丽尔·斯特里普 "wikilink")，据说她尤其没有兴趣拍摄这部电影的续集。虽然[安妮·海瑟薇表示有兴趣和同样的人继续合作](../Page/安妮·海瑟薇.md "wikilink")，但是大家合作的东西必须是“完全不同的东西”。在接受《[名利场](../Page/名利场_\(杂志\).md "wikilink")》采访的时候，海瑟薇说道：“（《穿普拉达的女王》）也许弹出了美妙的音符，但现在已经是曲终人散的时候了。
 
 ## 相关词条
 
@@ -791,7 +791,7 @@
 4.
 5.  Brockes, Emma; 2006-09-23; "[The devil in Ms
     Streep](http://film.guardian.co.uk/interview/interviewpages/0,,1879049,00.html)";
-    [卫报](../Page/卫报.md "wikilink"); 2007-01-10查阅.
+    [卫报](https://zh.wikipedia.org/wiki/卫报 "wikilink"); 2007-01-10查阅.
 
 6.
 
@@ -803,7 +803,7 @@
     2006-12-19查阅.
 
 9.  [Hollywood Foreign Press
-    Association](../Page/Hollywood_Foreign_Press_Association.md "wikilink");
+    Association](https://zh.wikipedia.org/wiki/Hollywood_Foreign_Press_Association "wikilink");
     January 16, 2007; [HFPA — Nominations and
     Winners](http://www.hfpa.org/nominations/index.html) ; 2007-01-16查阅.
 
@@ -813,7 +813,8 @@
 
 11. Kilday, Gregg; 2007-01-08; [National Society picks 'Pan' as best
     pic](http://www.hollywoodreporter.com/hr/content_display/film/news/e3i5b2bddf1415bc8d7073596f319df0d11?imw=Y);
-    *[好莱坞报道](../Page/好莱坞报道.md "wikilink")*; 2007-01-10查阅.
+    *[好莱坞报道](https://zh.wikipedia.org/wiki/好莱坞报道 "wikilink")*;
+    2007-01-10查阅.
 
 12. Writers Guild of America Award, ; 2007-01-11查阅.
 
@@ -822,14 +823,15 @@
     NOMINEES](https://web.archive.org/web/20070820074034/http://www.bafta.org/site/page287.html);
     2008-07-04查阅.
 
-14. [奥斯卡奖](../Page/奥斯卡奖.md "wikilink"), 2007-01-23; [Nominations
-    List: 79th Annual Academy
+14. [奥斯卡奖](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink"), 2007-01-23;
+    [Nominations List: 79th Annual Academy
     Awards](http://www.oscars.org/79academyawards/noms.html),
     2007-01-23查阅.
 
 15. Dehnhart, Andy; 2007-02-26; [Oscar's best moments weren't in the
     script](http://www.msnbc.msn.com/id/17339214/);
-    *[MSNBC](../Page/MSNBC.md "wikilink")*; 2007-02-26查阅.
+    *[MSNBC](https://zh.wikipedia.org/wiki/MSNBC "wikilink")*;
+    2007-02-26查阅.
 
 16.
 

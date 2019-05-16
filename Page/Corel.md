@@ -1,4 +1,4 @@
-**科-{}-立爾數位科技**，英文名为**Corel**，中国大陆名为**科亿尔数码科技**（），是一間[電腦](../Page/電腦.md "wikilink")[軟件公司](../Page/軟件.md "wikilink")，總部在[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[渥太華](../Page/渥太華.md "wikilink")。主要产品包括[CorelDRAW](../Page/CorelDRAW.md "wikilink")、[绘画](../Page/绘画.md "wikilink")、[会声会影](../Page/会声会影.md "wikilink")、[PaintShop
+**科-{}-立爾數位科技**，英文名为**Corel**，中国大陆名为**科亿尔数码科技**（），是一間[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟件公司](https://zh.wikipedia.org/wiki/軟件 "wikilink")，總部在[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[渥太華](../Page/渥太華.md "wikilink")。主要产品包括[CorelDRAW](../Page/CorelDRAW.md "wikilink")、[绘画](../Page/绘画.md "wikilink")、[会声会影](https://zh.wikipedia.org/wiki/会声会影 "wikilink")、[PaintShop
 Photo](../Page/Corel_PaintShop_Pro.md "wikilink")、[WinZip和](../Page/WinZip.md "wikilink")[WordPerfect等](../Page/WordPerfect.md "wikilink")。
 
 ## 历史
@@ -12,47 +12,49 @@ Photo](../Page/Corel_PaintShop_Pro.md "wikilink")、[WinZip和](../Page/WinZip.m
 
 2004年收购，将[PaintShop Pro收入囊中](../Page/Corel_PaintShop_Pro.md "wikilink")。
 
-2006年再次在[纳斯达克上市](../Page/纳斯达克.md "wikilink")，并收购压缩软件开发商[WinZip](../Page/WinZip.md "wikilink")，斥资1.96億美元收购多媒体软件巨头，完成了英特维和[友立资讯的合并](../Page/友立资讯.md "wikilink")。
+2006年再次在[纳斯达克上市](../Page/纳斯达克.md "wikilink")，并收购压缩软件开发商[WinZip](../Page/WinZip.md "wikilink")，斥资1.96億美元收购多媒体软件巨头，完成了英特维和[友立资讯的合并](https://zh.wikipedia.org/wiki/友立资讯 "wikilink")。
 
 ## 產品
 
   - 图像處理類：
-      - [CorelDRAW](../Page/CorelDRAW.md "wikilink")/[CorelDRAW](../Page/CorelDRAW.md "wikilink")（[向量繪圖軟件](../Page/向量圖形.md "wikilink")）
-      - [Corel DESIGNER](../Page/Corel_DESIGNER.md "wikilink")/[Corel
+      - [CorelDRAW](../Page/CorelDRAW.md "wikilink")/[CorelDRAW](../Page/CorelDRAW.md "wikilink")（[向量繪圖軟件](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")）
+      - [Corel
+        DESIGNER](https://zh.wikipedia.org/wiki/Corel_DESIGNER "wikilink")/[Corel
         DESIGNER Technical
-        Suite](../Page/Corel_DESIGNER.md "wikilink")（[工业绘图軟件](../Page/工业绘图.md "wikilink")）
+        Suite](https://zh.wikipedia.org/wiki/Corel_DESIGNER "wikilink")（[工业绘图軟件](https://zh.wikipedia.org/wiki/工业绘图 "wikilink")）
       - [Corel Painter](../Page/Corel_Painter.md "wikilink")/[Corel
         Painter](../Page/Corel_Painter.md "wikilink")/[Corel
         Painter](../Page/Corel_Painter.md "wikilink")
       - [Corel PaintShop
-        Pro](../Page/Corel_PaintShop_Photo.md "wikilink")（原[Corel
+        Pro](https://zh.wikipedia.org/wiki/Corel_PaintShop_Photo "wikilink")（原[Corel
         PaintShop Pro](../Page/Corel_PaintShop_Pro.md "wikilink")）
       - [Corel PaintShop Photo
-        Express](../Page/Corel_PaintShop_Photo.md "wikilink")
-      - [Corel Paint it\!](../Page/Corel_Paint_it!.md "wikilink")
-      - [CorelCAD](../Page/CorelCAD.md "wikilink")
+        Express](https://zh.wikipedia.org/wiki/Corel_PaintShop_Photo "wikilink")
+      - [Corel Paint
+        it\!](https://zh.wikipedia.org/wiki/Corel_Paint_it! "wikilink")
+      - [CorelCAD](https://zh.wikipedia.org/wiki/CorelCAD "wikilink")
 
 <!-- end list -->
 
   - 多媒体類：
       - [Corel Digital
-        Studio](../Page/Corel_Digital_Studio.md "wikilink")（中文名稱：[影音寶典](../Page/影音寶典.md "wikilink")，原）
+        Studio](https://zh.wikipedia.org/wiki/Corel_Digital_Studio "wikilink")（中文名稱：[影音寶典](https://zh.wikipedia.org/wiki/影音寶典 "wikilink")，原）
 
       - [Corel PaintShop Photo
-        Express](../Page/Corel_PaintShop_Photo.md "wikilink")
+        Express](https://zh.wikipedia.org/wiki/Corel_PaintShop_Photo "wikilink")
 
       - [會聲會影](../Page/會聲會影.md "wikilink")（中文名稱：[會聲會影](../Page/會聲會影.md "wikilink")）
 
-      - （中文名稱：[DVD錄錄燒](../Page/DVD錄錄燒.md "wikilink")）
+      - （中文名稱：[DVD錄錄燒](https://zh.wikipedia.org/wiki/DVD錄錄燒 "wikilink")）
 
-      - [WinDVD](../Page/WinDVD.md "wikilink")
+      - [WinDVD](https://zh.wikipedia.org/wiki/WinDVD "wikilink")
 
       - [Corel DVD
-        Factory](../Page/Corel_DVD_Factory.md "wikilink")（原[Corel
-        DVD Copy](../Page/DVD_Copy.md "wikilink")）
+        Factory](https://zh.wikipedia.org/wiki/Corel_DVD_Factory "wikilink")（原[Corel
+        DVD Copy](https://zh.wikipedia.org/wiki/DVD_Copy "wikilink")）
 
       - [Corel MotionStudio
-        3D](../Page/Corel_MotionStudio_3D.md "wikilink")
+        3D](https://zh.wikipedia.org/wiki/Corel_MotionStudio_3D "wikilink")
 
 <!-- end list -->
 
@@ -60,10 +62,11 @@ Photo](../Page/Corel_PaintShop_Pro.md "wikilink")、[WinZip和](../Page/WinZip.m
       - [WordPerfect](../Page/WordPerfect.md "wikilink")/[WordPerfect](../Page/WordPerfect.md "wikilink")
       - [WinZip](../Page/WinZip.md "wikilink")
       - [WinZip Courier](../Page/WinZip.md "wikilink")
-      - [iGrafx](../Page/iGrafx.md "wikilink")
-      - [Corel PDF Fusion](../Page/Corel_PDF_Fusion.md "wikilink")
+      - [iGrafx](https://zh.wikipedia.org/wiki/iGrafx "wikilink")
+      - [Corel PDF
+        Fusion](https://zh.wikipedia.org/wiki/Corel_PDF_Fusion "wikilink")
       - [Corel Perfect
-        Authority](../Page/Corel_Perfect_Authority.md "wikilink")
+        Authority](https://zh.wikipedia.org/wiki/Corel_Perfect_Authority "wikilink")
 
 ## 參考資料
 

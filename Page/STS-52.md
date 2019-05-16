@@ -2,12 +2,12 @@
 
 ## 任务成员
 
-  - **[吉姆·威瑟比](../Page/吉姆·威瑟比.md "wikilink")**（，曾执行、、、、以及任务），指令长
-  - **[迈克尔·贝克](../Page/迈克尔·贝克.md "wikilink")**（，曾执行、、以及任务），飞行员
-  - **[查尔斯·维茨](../Page/查尔斯·维茨.md "wikilink")**（，曾执行以及任务），任务专家
-  - **[威廉·谢泼德](../Page/威廉·谢泼德.md "wikilink")**（，曾执行、、、、以及任务），任务专家
-  - **[塔玛拉·杰尼根](../Page/塔玛拉·杰尼根.md "wikilink")**（，曾执行、、、以及任务），任务专家
-  - **[斯蒂芬·麦克林](../Page/斯蒂芬·麦克林.md "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行以及任务），有效载荷专家
+  - **[吉姆·威瑟比](https://zh.wikipedia.org/wiki/吉姆·威瑟比 "wikilink")**（，曾执行、、、、以及任务），指令长
+  - **[迈克尔·贝克](https://zh.wikipedia.org/wiki/迈克尔·贝克 "wikilink")**（，曾执行、、以及任务），飞行员
+  - **[查尔斯·维茨](https://zh.wikipedia.org/wiki/查尔斯·维茨 "wikilink")**（，曾执行以及任务），任务专家
+  - **[威廉·谢泼德](https://zh.wikipedia.org/wiki/威廉·谢泼德 "wikilink")**（，曾执行、、、、以及任务），任务专家
+  - **[塔玛拉·杰尼根](https://zh.wikipedia.org/wiki/塔玛拉·杰尼根 "wikilink")**（，曾执行、、、以及任务），任务专家
+  - **[斯蒂芬·麦克林](https://zh.wikipedia.org/wiki/斯蒂芬·麦克林 "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行以及任务），有效载荷专家
 
 [Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
 [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")

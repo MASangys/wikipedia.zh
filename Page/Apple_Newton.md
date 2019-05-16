@@ -1,10 +1,11 @@
 [Apple_Newton.jpg](https://zh.wikipedia.org/wiki/File:Apple_Newton.jpg "fig:Apple_Newton.jpg")
- **蘋果牛頓**（[英文](../Page/英文.md "wikilink")：**Apple Newton**），是世界上早期
-[掌上电脑](../Page/掌上电脑.md "wikilink")（個人數位助理），由[蘋果電腦公司于](../Page/蘋果電腦.md "wikilink")1993年开始制造，但是因為newton在市場上找不到其定位而需求量低而停止發展，並於1997年停止了生產。其電子設計與製造是在日本由[夏普](../Page/夏普.md "wikilink")（Sharp）負責（Sharp曾推出過初期相容機種），而台灣的[英業達集團也曾經代工過MP](../Page/英業達集團.md "wikilink")130。
+ **蘋果牛頓**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Apple
+Newton**），是世界上早期
+[掌上电脑](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")（個人數位助理），由[蘋果電腦公司于](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1993年开始制造，但是因為newton在市場上找不到其定位而需求量低而停止發展，並於1997年停止了生產。其電子設計與製造是在日本由[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")（Sharp）負責（Sharp曾推出過初期相容機種），而台灣的[英業達集團也曾經代工過MP](../Page/英業達集團.md "wikilink")130。
 
 最初的Newton使用[ARM 610 RISC
-CPU](../Page/ARM_610.md "wikilink")，具有[觸控螢幕](../Page/觸控螢幕.md "wikilink")、[紅外線](../Page/紅外線.md "wikilink")、手寫輸入（甚至支援[草寫](../Page/草寫.md "wikilink")）等。使用的[作業系統是](../Page/作業系統.md "wikilink")[Newton
-OS](../Page/Newton_OS.md "wikilink")。而其[手寫辨識功能為一大特點](../Page/手寫辨識.md "wikilink")。蘋果公司對其的正式名稱為"MessagePad"，而"Newton"則是蘋果公司對其所使用之作業系統的稱呼（Newton
+CPU](https://zh.wikipedia.org/wiki/ARM_610 "wikilink")，具有[觸控螢幕](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")、[紅外線](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、手寫輸入（甚至支援[草寫](https://zh.wikipedia.org/wiki/草寫 "wikilink")）等。使用的[作業系統是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Newton
+OS](https://zh.wikipedia.org/wiki/Newton_OS "wikilink")。而其[手寫辨識功能為一大特點](https://zh.wikipedia.org/wiki/手寫辨識 "wikilink")。蘋果公司對其的正式名稱為"MessagePad"，而"Newton"則是蘋果公司對其所使用之作業系統的稱呼（Newton
 OS）。不過Newton一詞廣為愛用，因而包括了機器本身與其軟體。有人說Newton一詞暗指Isaac Newton的蘋果。
 
 ## 開發經過
@@ -12,10 +13,10 @@ OS）。不過Newton一詞廣為愛用，因而包括了機器本身與其軟體
 Newton計畫本來並不是要發展出PDA——PDA一詞是在Newton開發過程的相當晚期，才由當時的蘋果公司CEO——[约翰·斯卡利](../Page/约翰·斯卡利.md "wikilink")（亦即該計畫的幕後推手）——所提出。Newton本來的目的是要完全改變個人電腦，就像現在的[平板電腦](../Page/平板電腦.md "wikilink")（tablet
 PC）一樣。在開發過程中，Newton大都擁有一個大的平面螢幕，較大的內建記憶體，以及豐富的物件導向圖形核心。
 
-在Newton開發的中期，計畫中的程式語言是Dylan——不過它從未完成到足以以其撰寫出程式來。Dylan是一個衍生自[Lisp的](../Page/Lisp.md "wikilink")，小而有效率的物件導向語言。不過雖然有效率，但其從未能達到開發者預期的表現，而對於Lisp不熟悉的程式撰寫人員而言也是一個負擔。其後繼者為NewtonScript，在當時也是相當先進的。它有"garbage
+在Newton開發的中期，計畫中的程式語言是Dylan——不過它從未完成到足以以其撰寫出程式來。Dylan是一個衍生自[Lisp的](https://zh.wikipedia.org/wiki/Lisp "wikilink")，小而有效率的物件導向語言。不過雖然有效率，但其從未能達到開發者預期的表現，而對於Lisp不熟悉的程式撰寫人員而言也是一個負擔。其後繼者為NewtonScript，在當時也是相當先進的。它有"garbage
 collection"，與"soup"儲存機制以及使用者界面工具箱緊密結合，而且特別設計來在RAM不大而有相當大的ROM的環境中執行。
 
-不過這個計畫顯然失去了其為個人電腦帶來革命，以及改寫當代的程式設計的目標。Newton計畫的遠大願景敗給了計畫縮水、眼光短淺，以及對於其可能與蘋果自身的[麥金塔電腦競爭的恐懼](../Page/麥金塔電腦.md "wikilink")。結果被重新開發為PDA，作為麥金塔的周邊，而不是成為可能與麥金塔競爭的獨立電腦。
+不過這個計畫顯然失去了其為個人電腦帶來革命，以及改寫當代的程式設計的目標。Newton計畫的遠大願景敗給了計畫縮水、眼光短淺，以及對於其可能與蘋果自身的[麥金塔電腦競爭的恐懼](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")。結果被重新開發為PDA，作為麥金塔的周邊，而不是成為可能與麥金塔競爭的獨立電腦。
 
 [Applenewton_emate300.jpg](https://zh.wikipedia.org/wiki/File:Applenewton_emate300.jpg "fig:Applenewton_emate300.jpg")
 
@@ -51,7 +52,7 @@ Smith發展。有些程式發展人員抱怨蘋果的Toolbox程式發展環境�
 
 在Newton OS 2.0方面，則由李英聯推出Lily Language
 Kit，包括好幾個補完程式；界面顯示、搜尋功能、與桌上型電腦連接時的轉碼功能（Newton
-OS使用[Unicode](../Page/Unicode.md "wikilink")）等等，還有一個輸入盤，此輸入盤是一虛擬鍵盤，但也可變更為手寫區。後來更推出無蝦米輸入法，配合此輸入盤的手寫功能，可以在此寫入無蝦米碼，轉換為中文字，也算是另一種手寫中文輸入。
+OS使用[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")）等等，還有一個輸入盤，此輸入盤是一虛擬鍵盤，但也可變更為手寫區。後來更推出無蝦米輸入法，配合此輸入盤的手寫功能，可以在此寫入無蝦米碼，轉換為中文字，也算是另一種手寫中文輸入。
 
 可惜的是，由於當年光捷推出隨意筆時並未購得原始碼，而且原公司也不懂Newton
 Script，加以蘋果本身也未以神筆天韻（蘋果自身的手寫與語音中文輸入系統）為基礎改寫出Newton可用的中文輸入法，所以Newton
@@ -69,7 +70,7 @@ OS上是無法直接手寫輸入中文的。
 
 ## 參見
 
-  - [iPad](../Page/iPad.md "wikilink")
+  - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
 
 [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink")
 [Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink")

@@ -1,5 +1,5 @@
 《**戰鬥狂熱
-J**》（原題：，港譯：萬國戰隊）是日本[東映公司在](../Page/東映.md "wikilink")1979年製作的「[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")」第3部[特攝作品](../Page/特攝.md "wikilink")，1979年2月3日至1980年1月26日在[朝日電視台於每週星期六](../Page/朝日電視台.md "wikilink")18:00-18:30全52話播映。
+J**》（原題：，港譯：萬國戰隊）是日本[東映公司在](../Page/東映.md "wikilink")1979年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第3部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")，1979年2月3日至1980年1月26日在[朝日電視台於每週星期六](../Page/朝日電視台.md "wikilink")18:00-18:30全52話播映。
 
 ## 故事概要
 
@@ -15,35 +15,35 @@ Fever J。
 
 ## 戰鬥狂熱 J
 
-[國防部的](../Page/國防部.md "wikilink")[聯邦調查局內的成員精心挑選了](../Page/聯邦調查局.md "wikilink")**Battle
+[國防部的](../Page/國防部.md "wikilink")[聯邦調查局內的成員精心挑選了](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")**Battle
 Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基礎的戰鬥技術。
 
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------- | ----------- |
-| [<font color="White">谷岡弘規</font>](../Page/谷岡弘規.md "wikilink")                                                                                                                                                                                                                                                                                         | 傳正夫    | 戰鬥日本      | 新堀和男        |
-| [亞洲代表的戰士](../Page/亞洲.md "wikilink")。Battle Fever J的領導人。做事十分認真，也是幽默精粹的男子。空手道和[功夫等的養成的格鬥術](../Page/功夫.md "wikilink")，戰鬥時驅使了這些的「功夫舞蹈」。                                                                                                                                                                                                                   |        |           |             |
+| [<font color="White">谷岡弘規</font>](https://zh.wikipedia.org/wiki/谷岡弘規 "wikilink")                                                                                                                                                                                                                                                                      | 傳正夫    | 戰鬥日本      | 新堀和男        |
+| [亞洲代表的戰士](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。Battle Fever J的領導人。做事十分認真，也是幽默精粹的男子。空手道和[功夫等的養成的格鬥術](../Page/功夫.md "wikilink")，戰鬥時驅使了這些的「功夫舞蹈」。                                                                                                                                                                                                |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="black">伊藤武史</font>](../Page/伊藤武史.md "wikilink")（現:[<font color="black">伊藤幸雄</font>](../Page/伊藤幸雄.md "wikilink")）                                                                                                                                                                                                                        | 白石謙作   | 戰鬥哥薩克（初期） | 渥美博→古賀弘文    |
-| [歐亞大陸代表的戰士](../Page/歐亞大陸.md "wikilink")。Battle Fever J的初期的哥薩克。[中亞誕生的孤兒](../Page/中亞.md "wikilink")。然而，被鐵礦山將軍拾回收養了。視科學為主要戰術。性格溫和。戰鬥時用俄國時代的勇敢騎兵「哥薩克」充分的戰術「哥薩克舞蹈」驅散敵人。33話，為了打開自殺父親憎恨戰爭的心，被認為「血臭」的戰鬥服而自我發射子彈而死。 伊藤幸雄曾飾演1975年初作「[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")」的**綠連者\~明日香健二**                                                                    |        |           |             |
+| [<font color="black">伊藤武史</font>](https://zh.wikipedia.org/wiki/伊藤武史 "wikilink")（現:[<font color="black">伊藤幸雄</font>](https://zh.wikipedia.org/wiki/伊藤幸雄 "wikilink")）                                                                                                                                                                                  | 白石謙作   | 戰鬥哥薩克（初期） | 渥美博→古賀弘文    |
+| [歐亞大陸代表的戰士](../Page/歐亞大陸.md "wikilink")。Battle Fever J的初期的哥薩克。[中亞誕生的孤兒](https://zh.wikipedia.org/wiki/中亞 "wikilink")。然而，被鐵礦山將軍拾回收養了。視科學為主要戰術。性格溫和。戰鬥時用俄國時代的勇敢騎兵「哥薩克」充分的戰術「哥薩克舞蹈」驅散敵人。33話，為了打開自殺父親憎恨戰爭的心，被認為「血臭」的戰鬥服而自我發射子彈而死。 伊藤幸雄曾飾演1975年初作「[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")」的**綠連者\~明日香健二**                                                 |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="black">伴直弥</font>](../Page/伴直弥.md "wikilink")（現:[<font color="black">伴大介</font>](../Page/伴大介.md "wikilink")）                                                                                                                                                                                                                            | 神誠     | 戰鬥哥薩克（後期） | 古賀弘文        |
-| 白石在國防部的前輩，是射擊高手。由於白石而死而繼任戰鬥哥薩克，也繼承了相當於副隊長的地位。以黃色系戰士為輔助領導人的隊員，為戰隊系列中最為罕見。（本作品以外「[百獸戰隊](../Page/百獸戰隊.md "wikilink")」的牙吠黃也是）。                                                                                                                                                                                                                            |        |           |             |
+| [<font color="black">伴直弥</font>](https://zh.wikipedia.org/wiki/伴直弥 "wikilink")（現:[<font color="black">伴大介</font>](https://zh.wikipedia.org/wiki/伴大介 "wikilink")）                                                                                                                                                                                      | 神誠     | 戰鬥哥薩克（後期） | 古賀弘文        |
+| 白石在國防部的前輩，是射擊高手。由於白石而死而繼任戰鬥哥薩克，也繼承了相當於副隊長的地位。以黃色系戰士為輔助領導人的隊員，為戰隊系列中最為罕見。（本作品以外「[百獸戰隊](https://zh.wikipedia.org/wiki/百獸戰隊 "wikilink")」的牙吠黃也是）。                                                                                                                                                                                                         |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="White">倉地雄平</font>](../Page/倉地雄平.md "wikilink")（現:[<font color="White">倉知成滿</font>](../Page/倉知成滿.md "wikilink")）                                                                                                                                                                                                                        | 志田京介   | 戰鬥法國      | 橋本春彥        |
-| [歐洲代表的戰士](../Page/歐洲.md "wikilink"),是個很留意潮流,性格故作姿態的美容及髮型師.戰鬥時會使用獨門的史巴尼修舞(スパニッシュダンス),一種以Flamenco為基礎的舞蹈.專用武器是西洋劍,但使用時以投擲攻擊居多. 。                                                                                                                                                                                                                         |        |           |             |
+| [<font color="White">倉地雄平</font>](https://zh.wikipedia.org/wiki/倉地雄平 "wikilink")（現:[<font color="White">倉知成滿</font>](https://zh.wikipedia.org/wiki/倉知成滿 "wikilink")）                                                                                                                                                                                  | 志田京介   | 戰鬥法國      | 橋本春彥        |
+| [歐洲代表的戰士](https://zh.wikipedia.org/wiki/歐洲 "wikilink"),是個很留意潮流,性格故作姿態的美容及髮型師.戰鬥時會使用獨門的史巴尼修舞(スパニッシュダンス),一種以Flamenco為基礎的舞蹈.專用武器是西洋劍,但使用時以投擲攻擊居多. 。                                                                                                                                                                                                      |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="Green">大葉健二</font>](../Page/大葉健二.md "wikilink")                                                                                                                                                                                                                                                                                         | 曙四郎    | 戰鬥肯亞      | 大葉健二、喜多川務   |
+| [<font color="Green">大葉健二</font>](https://zh.wikipedia.org/wiki/大葉健二 "wikilink")                                                                                                                                                                                                                                                                      | 曙四郎    | 戰鬥肯亞      | 大葉健二、喜多川務   |
 | [非洲代表的戰士](../Page/非洲.md "wikilink"),有著野孩子般的明朗性格,是個大食漢,有懂得與動物對話的特殊能力.戰鬥時會使用獨門的熱帶舞蹈(トロピカルダンス),專用武器是鞭子.其他有稱為動物行動(アニマルアクション)的技巧. 大葉健二後參演後作「[電子戰隊電磁人](../Page/電子戰隊電磁人.md "wikilink")」的**電磁藍\~青梅大五郎**。 其他登場作品:2011年第35作「[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")」第44話、劇場版「[海賊戰隊豪快者 VS 宇宙刑事卡邦 The Movie](../Page/海賊戰隊豪快者_VS_宇宙刑事卡邦_The_Movie.md "wikilink")」 |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="blue">Diane Martin</font>](../Page/Diane_Martin.md "wikilink")                                                                                                                                                                                                                                                                          | 黛安‧馬汀  | 美國小姐（初期）  | 小牧麗莎、小野寺えい子 |
+| [<font color="blue">Diane Martin</font>](https://zh.wikipedia.org/wiki/Diane_Martin "wikilink")                                                                                                                                                                                                                                                       | 黛安‧馬汀  | 美國小姐（初期）  | 小牧麗莎、小野寺えい子 |
 | 代表美國與澳洲的戰士,是熱戰隊中唯一的女成員,職業是FBI 的秘密探員. 性格雖沈著冷靜,但同時亦很激情.精通日語及泳術,不喜歡曬太陽及老鼠,因她有相當大的潔癖.所以對喜歡動物的四郎有點厭惡.戰鬥時會使用獨門的迪斯可舞蹈(ディスコダンス),專用武器是飛刀.第24集她妹妹被艾哥斯捉去,而自己亦被吸血鬼怪人打傷,所以把強化服交給瑪利亞.其後她的傷勢好轉,但因妹妹的身份已被艾哥斯知曉,為了妹妹的安全而退隊回到美國.                                                                                                                                        |        |           |             |
 |                                                                                                                                                                                                                                                                                                                                                       |        |           |             |
 | 演員                                                                                                                                                                                                                                                                                                                                                    | 劇中角色名稱 | 代號        | 替身          |
-| [<font color="blue">萩奈穂美</font>](../Page/萩奈穂美.md "wikilink")                                                                                                                                                                                                                                                                                          | 汀瑪莉亞   | 美國小姐（後期）  | 小野寺えい子      |
+| [<font color="blue">萩奈穂美</font>](https://zh.wikipedia.org/wiki/萩奈穂美 "wikilink")                                                                                                                                                                                                                                                                       | 汀瑪莉亞   | 美國小姐（後期）  | 小野寺えい子      |
 | FBI 的警員,負責保護戴安的妹妹而來到日本,後代替受傷的戴安成為第二代美國小姐.性格活躍,有著比戴安更強的戰鬥力及行動力,精通泳術及新體操,亦以此作為戰鬥的技巧                                                                                                                                                                                                                                                                     |        |           |             |
 
 ## 协助者
@@ -160,7 +160,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1</p></td>
 <td><p>突撃</p></td>
 <td><p>球場へ走れ</p></td>
-<td><p>コウモリ怪人（声：<a href="../Page/大宮悌二.md" title="wikilink">大宮悌二</a>） キバジシ怪人</p></td>
+<td><p>コウモリ怪人（声：<a href="https://zh.wikipedia.org/wiki/大宮悌二" title="wikilink">大宮悌二</a>） キバジシ怪人</p></td>
 <td><p>－</p></td>
 <td><p>高久進</p></td>
 </tr>
@@ -177,7 +177,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/2/17</p></td>
 <td><p>3</p></td>
 <td><p>スパイを探せ！</p></td>
-<td><p>デスマスク怪人（声、人間態：<a href="../Page/曽我町子.md" title="wikilink">曽我町子</a>）</p></td>
+<td><p>デスマスク怪人（声、人間態：<a href="https://zh.wikipedia.org/wiki/曽我町子" title="wikilink">曽我町子</a>）</p></td>
 <td><p>－</p></td>
 <td><p>高久進</p></td>
 <td><p>広田茂穂</p></td>
@@ -195,7 +195,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/3/3</p></td>
 <td><p>5</p></td>
 <td><p>ロボット大空中戦</p></td>
-<td><p>バッファロー怪人（声：<a href="../Page/渡部猛.md" title="wikilink">渡部猛</a>）</p></td>
+<td><p>バッファロー怪人（声：<a href="https://zh.wikipedia.org/wiki/渡部猛" title="wikilink">渡部猛</a>）</p></td>
 <td><p>バッファローロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>竹本弘一</p></td>
@@ -213,7 +213,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/3/17</p></td>
 <td><p>7</p></td>
 <td><p>お家が燃える！</p></td>
-<td><p>火の玉怪人（声：清川元夢、人間態：<a href="../Page/弘松三郎.md" title="wikilink">弘松三郎</a>）</p></td>
+<td><p>火の玉怪人（声：清川元夢、人間態：<a href="https://zh.wikipedia.org/wiki/弘松三郎" title="wikilink">弘松三郎</a>）</p></td>
 <td><p>火の玉ロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>広田茂穂</p></td>
@@ -222,7 +222,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/3/24</p></td>
 <td><p>8</p></td>
 <td><p>鉄腕エースの謎</p></td>
-<td><p>スポーツ怪人（声：<a href="../Page/杉義一.md" title="wikilink">杉義一</a>）</p></td>
+<td><p>スポーツ怪人（声：<a href="https://zh.wikipedia.org/wiki/杉義一" title="wikilink">杉義一</a>）</p></td>
 <td><p>スポーツロボット</p></td>
 <td><p>上原正三</p></td>
 <td></td>
@@ -231,7 +231,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/3/31</p></td>
 <td><p>9</p></td>
 <td><p>氷の国の女</p></td>
-<td><p>ツララ怪人（声：<a href="../Page/坂井寿美江.md" title="wikilink">坂井すみ江</a>、人間態：<a href="../Page/森愛.md" title="wikilink">森愛</a>）</p></td>
+<td><p>ツララ怪人（声：<a href="https://zh.wikipedia.org/wiki/坂井寿美江" title="wikilink">坂井すみ江</a>、人間態：<a href="https://zh.wikipedia.org/wiki/森愛" title="wikilink">森愛</a>）</p></td>
 <td><p>ツララロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>竹本弘一</p></td>
@@ -240,7 +240,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/4/7</p></td>
 <td><p>10</p></td>
 <td><p>ナウマン象を見た</p></td>
-<td><p>ナウマン怪人（声：<a href="../Page/依田英助.md" title="wikilink">依田英助</a>）</p></td>
+<td><p>ナウマン怪人（声：<a href="https://zh.wikipedia.org/wiki/依田英助" title="wikilink">依田英助</a>）</p></td>
 <td><p>ナウマンロボット</p></td>
 <td><p>上原正三</p></td>
 <td></td>
@@ -249,7 +249,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/4/14</p></td>
 <td><p>11</p></td>
 <td><p>ペット誘拐大事件</p></td>
-<td><p>コブラ怪人（声：<a href="../Page/青森伸.md" title="wikilink">青森伸</a>）</p></td>
+<td><p>コブラ怪人（声：<a href="https://zh.wikipedia.org/wiki/青森伸" title="wikilink">青森伸</a>）</p></td>
 <td><p>コブラロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>広田茂穂</p></td>
@@ -258,7 +258,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/4/21</p></td>
 <td><p>12</p></td>
 <td><p>呪い殺法バラ吹雪</p></td>
-<td><p>怪人バラリンカ（演：<a href="../Page/潤真理子.md" title="wikilink">潤真理子</a>）</p></td>
+<td><p>怪人バラリンカ（演：<a href="https://zh.wikipedia.org/wiki/潤真理子" title="wikilink">潤真理子</a>）</p></td>
 <td><p>バラリンカロボット（演：潤真理子）</p></td>
 <td><p>江連卓</p></td>
 <td></td>
@@ -285,7 +285,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/5/12</p></td>
 <td><p>15</p></td>
 <td><p>エゴスの地獄料理</p></td>
-<td><p>カタツムリ怪人（声：渡部猛、人間態：<a href="../Page/久地明.md" title="wikilink">久地明</a>）</p></td>
+<td><p>カタツムリ怪人（声：渡部猛、人間態：<a href="https://zh.wikipedia.org/wiki/久地明" title="wikilink">久地明</a>）</p></td>
 <td><p>カタツムリロボット</p></td>
 <td><p>高久進</p></td>
 <td><p>竹本弘一</p></td>
@@ -294,7 +294,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/5/19</p></td>
 <td><p>16</p></td>
 <td><p>格闘技！闇の女王</p></td>
-<td><p>格闘技怪人（演：<a href="../Page/大前均.md" title="wikilink">大前鈞</a>）</p></td>
+<td><p>格闘技怪人（演：<a href="https://zh.wikipedia.org/wiki/大前均" title="wikilink">大前鈞</a>）</p></td>
 <td><p>格闘技ロボット（演：大前鈞）</p></td>
 <td><p>江連卓</p></td>
 <td></td>
@@ -367,7 +367,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/7/14</p></td>
 <td><p>24</p></td>
 <td><p>涙！ダイアン倒る</p></td>
-<td><p>ドラキュラ怪人（声：依田英助、人間態：<a href="../Page/折原啓子.md" title="wikilink">折原啓子</a>）</p></td>
+<td><p>ドラキュラ怪人（声：依田英助、人間態：<a href="https://zh.wikipedia.org/wiki/折原啓子" title="wikilink">折原啓子</a>）</p></td>
 <td><p>ドラキュラロボット</p></td>
 <td></td>
 <td></td>
@@ -385,7 +385,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/7/28</p></td>
 <td><p>26</p></td>
 <td><p>包帯男の仮面報告</p></td>
-<td><p>ホウタイ怪人（声：<a href="../Page/岩城和男.md" title="wikilink">岩城和男</a>）</p></td>
+<td><p>ホウタイ怪人（声：<a href="https://zh.wikipedia.org/wiki/岩城和男" title="wikilink">岩城和男</a>）</p></td>
 <td><p>ホウタイロボット</p></td>
 <td><p>曽田博久</p></td>
 <td><p>広田茂穂</p></td>
@@ -394,7 +394,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/8/4</p></td>
 <td><p>27</p></td>
 <td><p>初恋泥棒にご用心</p></td>
-<td><p>黒仮面怪人（声：<a href="../Page/加藤精三_(声優).md" title="wikilink">加藤精三</a>）</p></td>
+<td><p>黒仮面怪人（声：<a href="https://zh.wikipedia.org/wiki/加藤精三_(声優)" title="wikilink">加藤精三</a>）</p></td>
 <td><p>－</p></td>
 <td><p>上原正三</p></td>
 <td></td>
@@ -421,7 +421,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/8/25</p></td>
 <td><p>30</p></td>
 <td><p>悪食雑食の料理長</p></td>
-<td><p>ヘンショク怪人（声：<a href="../Page/和田周.md" title="wikilink">和田周</a>）</p></td>
+<td><p>ヘンショク怪人（声：<a href="https://zh.wikipedia.org/wiki/和田周" title="wikilink">和田周</a>）</p></td>
 <td><p>ヘンショクロボット</p></td>
 <td><p>曽田博久</p></td>
 <td><p>山田稔</p></td>
@@ -493,7 +493,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/10/20</p></td>
 <td><p>38</p></td>
 <td><p>怪奇！仮装行列</p></td>
-<td><p>ドクロキノコ怪人（声：政宗一成、人間態：<a href="../Page/高木修平_(俳優).md" title="wikilink">高木修平</a>）</p></td>
+<td><p>ドクロキノコ怪人（声：政宗一成、人間態：<a href="https://zh.wikipedia.org/wiki/高木修平_(俳優)" title="wikilink">高木修平</a>）</p></td>
 <td><p>ドクロキノコロボット</p></td>
 <td><p>曽田博久</p></td>
 <td><p>竹本弘一</p></td>
@@ -520,7 +520,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/11/10</p></td>
 <td><p>41</p></td>
 <td><p>爆破寸前の大逆転</p></td>
-<td><p>カラクリ怪人（声：<a href="../Page/細井雅男.md" title="wikilink">細井雅男</a>）</p></td>
+<td><p>カラクリ怪人（声：<a href="https://zh.wikipedia.org/wiki/細井雅男" title="wikilink">細井雅男</a>）</p></td>
 <td><p>－</p></td>
 <td><p>広田茂穂</p></td>
 <td></td>
@@ -529,7 +529,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/11/17</p></td>
 <td><p>42</p></td>
 <td><p>電気人間愛の火花</p></td>
-<td><p>デンキ怪人（声：<a href="../Page/島田彰.md" title="wikilink">島田彰</a>）</p></td>
+<td><p>デンキ怪人（声：<a href="https://zh.wikipedia.org/wiki/島田彰" title="wikilink">島田彰</a>）</p></td>
 <td><p>デンキロボット</p></td>
 <td><p>曽田博久</p></td>
 <td></td>
@@ -556,7 +556,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/12/8</p></td>
 <td><p>45</p></td>
 <td><p>心臓停止五分前!</p></td>
-<td><p>シンゾウ怪人（声：<a href="../Page/今西正男.md" title="wikilink">今西正男</a>）</p></td>
+<td><p>シンゾウ怪人（声：<a href="https://zh.wikipedia.org/wiki/今西正男" title="wikilink">今西正男</a>）</p></td>
 <td><p>シンゾウロボット</p></td>
 <td></td>
 <td></td>
@@ -574,7 +574,7 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 <td><p>1979/12/22</p></td>
 <td><p>47</p></td>
 <td><p>怪！謀略の草野球</p></td>
-<td><p>ヒダリテ怪人（声：<a href="../Page/増岡弘.md" title="wikilink">増岡弘</a>）</p></td>
+<td><p>ヒダリテ怪人（声：<a href="https://zh.wikipedia.org/wiki/増岡弘" title="wikilink">増岡弘</a>）</p></td>
 <td><p>ヒダリテロボット</p></td>
 <td></td>
 <td></td>
@@ -638,20 +638,20 @@ Fever J**成員的5個人，並訓練他們學會以世界各地的舞蹈為基�
 
   - 『**バトルフィーバー J**』
       -
-        作詞：[山川啟介](../Page/山川啟介.md "wikilink")　作曲／編曲：[渡邊宙明](../Page/渡邊宙明.md "wikilink")　歌：[MoJo](../Page/MoJo.md "wikilink")、[哥倫比亞搖籠會](../Page/音羽搖籠會.md "wikilink")、[Feeling
-        Free](../Page/Feeling_Free.md "wikilink")
+        作詞：[山川啟介](https://zh.wikipedia.org/wiki/山川啟介 "wikilink")　作曲／編曲：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")　歌：[MoJo](https://zh.wikipedia.org/wiki/MoJo "wikilink")、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")、[Feeling
+        Free](https://zh.wikipedia.org/wiki/Feeling_Free "wikilink")
 
 ### 片尾曲
 
   - 『**勇者が行く**』
       -
-        作詞：[八手三郎](../Page/八手三郎.md "wikilink")　作曲／編曲：渡邊宙明　歌：MoJo
+        作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")　作曲／編曲：渡邊宙明　歌：MoJo
 
 ### 插曲
 
   - 『**バトルフィーバー 大出擊**』
       -
-        作詞：[保富康午](../Page/保富康午.md "wikilink")　作曲／編曲：渡邊宙明　歌：[水木一郎](../Page/水木一郎.md "wikilink")、[蟋蟀'73](../Page/蟋蟀'73.md "wikilink")、哥倫比亞搖籠會
+        作詞：[保富康午](https://zh.wikipedia.org/wiki/保富康午 "wikilink")　作曲／編曲：渡邊宙明　歌：[水木一郎](../Page/水木一郎.md "wikilink")、[蟋蟀'73](https://zh.wikipedia.org/wiki/蟋蟀'73 "wikilink")、哥倫比亞搖籠會
   - 『**バトルフィーバー 讃歌**』
       -
         作詞：保富康午　作曲／編曲：渡邊宙明　歌：水木一郎、蟋蟀'73、哥倫比亞搖籠會

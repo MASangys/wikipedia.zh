@@ -21,63 +21,63 @@
 
 :\*U18 索道运输
 
-  - U2 [铁路运输](../Page/铁路运输.md "wikilink")
+  - U2 [铁路运输](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")
 
 :\*U2-9 铁路运输经济
 
-:\*U21 [铁路线路工程](../Page/铁路线路工程.md "wikilink")
+:\*U21 [铁路线路工程](https://zh.wikipedia.org/wiki/铁路线路工程 "wikilink")
 
-:\*U22 [电气化铁路](../Page/电气化铁路.md "wikilink")
+:\*U22 [电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")
 
-:\*U23 [特种铁路](../Page/特种铁路.md "wikilink")
+:\*U23 [特种铁路](https://zh.wikipedia.org/wiki/特种铁路 "wikilink")
 
 :\*U24 铁路桥涵工程
 
 :\*U25 铁路隧道工程
 
-:\*U26 [机车工程](../Page/机车工程.md "wikilink")
+:\*U26 [机车工程](https://zh.wikipedia.org/wiki/机车工程 "wikilink")
 
-:\*U27 [车辆工程](../Page/车辆工程.md "wikilink")
+:\*U27 [车辆工程](https://zh.wikipedia.org/wiki/车辆工程 "wikilink")
 
-:\*U28 [铁路通信](../Page/铁路通信.md "wikilink")、信号
+:\*U28 [铁路通信](https://zh.wikipedia.org/wiki/铁路通信 "wikilink")、信号
 
-:\*U29 [铁路运输管理工程](../Page/铁路运输管理工程.md "wikilink")
+:\*U29 [铁路运输管理工程](https://zh.wikipedia.org/wiki/铁路运输管理工程 "wikilink")
 
-  - U4 [公路运输](../Page/公路运输.md "wikilink")
+  - U4 [公路运输](https://zh.wikipedia.org/wiki/公路运输 "wikilink")
 
 :\*U4-9 公路运输经济
 
-:\*U41 [道路工程](../Page/道路工程.md "wikilink")
+:\*U41 [道路工程](https://zh.wikipedia.org/wiki/道路工程 "wikilink")
 
-:\*U44 [桥涵工程](../Page/桥涵工程.md "wikilink")
+:\*U44 [桥涵工程](https://zh.wikipedia.org/wiki/桥涵工程 "wikilink")
 
-:\*U45 [隧道工程](../Page/隧道工程.md "wikilink")
+:\*U45 [隧道工程](https://zh.wikipedia.org/wiki/隧道工程 "wikilink")
 
-:\*U46 [汽车工程](../Page/汽车工程.md "wikilink")
+:\*U46 [汽车工程](https://zh.wikipedia.org/wiki/汽车工程 "wikilink")
 
 ::\*U471 [汽车驾驶与使用](../Page/汽车.md "wikilink")
 
-:\*U48 其他[道路运输工具](../Page/道路运输工具.md "wikilink")
+:\*U48 其他[道路运输工具](https://zh.wikipedia.org/wiki/道路运输工具 "wikilink")
 
 :\*U49
-[交通工程与](../Page/交通工程.md "wikilink")[公路运输技术管理](../Page/公路运输技术管理.md "wikilink")
+[交通工程与](https://zh.wikipedia.org/wiki/交通工程 "wikilink")[公路运输技术管理](https://zh.wikipedia.org/wiki/公路运输技术管理 "wikilink")
 
-  - U6 [水路运输](../Page/水路运输.md "wikilink")
+  - U6 [水路运输](https://zh.wikipedia.org/wiki/水路运输 "wikilink")
 
 :\*U6-9 水路运输经济
 
-:\*U61 [航道工程](../Page/航道工程.md "wikilink")
+:\*U61 [航道工程](https://zh.wikipedia.org/wiki/航道工程 "wikilink")
 
 :\*U64
-[通航建筑物与](../Page/通航建筑物.md "wikilink")[助航设备](../Page/助航设备.md "wikilink")
+[通航建筑物与](https://zh.wikipedia.org/wiki/通航建筑物 "wikilink")[助航设备](https://zh.wikipedia.org/wiki/助航设备 "wikilink")
 
-:\*U65 [港口工程](../Page/港口工程.md "wikilink")
+:\*U65 [港口工程](https://zh.wikipedia.org/wiki/港口工程 "wikilink")
 
-:\*U66 [船舶工程](../Page/船舶工程.md "wikilink")
+:\*U66 [船舶工程](https://zh.wikipedia.org/wiki/船舶工程 "wikilink")
 
-::\*U674 各种[船舶](../Page/船舶.md "wikilink")
+::\*U674 各种[船舶](https://zh.wikipedia.org/wiki/船舶 "wikilink")
 
-:\*U69 [水路运输技术管理](../Page/水路运输技术管理.md "wikilink")
+:\*U69 [水路运输技术管理](https://zh.wikipedia.org/wiki/水路运输技术管理 "wikilink")
 
 ::\*U691 港口工作组织
 
@@ -331,7 +331,7 @@
 
 ::\*U699 世界航运业
 
-  - U8 [航空运输](../Page/航空运输.md "wikilink")
+  - U8 [航空运输](https://zh.wikipedia.org/wiki/航空运输 "wikilink")
 
 -----
 

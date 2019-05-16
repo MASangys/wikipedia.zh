@@ -12,9 +12,9 @@
 </center>
 
 其中
-\(m_1,m_2,\ldots m_n\)是代表*n*个[质点](../Page/质点.md "wikilink")[质量的常量](../Page/质量.md "wikilink")。\(q_1,q_2,\ldots,q_n\)是以时间*t*为变量描述质点位置的三维矢量函数。
+\(m_1,m_2,\ldots m_n\)是代表*n*个[质点](https://zh.wikipedia.org/wiki/质点 "wikilink")[质量的常量](../Page/质量.md "wikilink")。\(q_1,q_2,\ldots,q_n\)是以时间*t*为变量描述质点位置的三维矢量函数。
 
-[约翰·伯努利已经完全解决了](../Page/约翰·伯努利.md "wikilink")\(n=2\)的情况。（参见[\#二体问题](../Page/#二体问题.md "wikilink")）
+[约翰·伯努利已经完全解决了](https://zh.wikipedia.org/wiki/约翰·伯努利 "wikilink")\(n=2\)的情况。（参见[\#二体问题](https://zh.wikipedia.org/wiki/#二体问题 "wikilink")）
 
 ### 一般考虑:解决N体问题
 
@@ -24,7 +24,7 @@
 
 ## 二体问题
 
-假如两个物体的共同[质心是静止的](../Page/质心.md "wikilink")，每一个物体沿着一条圆锥曲线运行,而这条圆锥曲线的焦点与这个系统的质心重合（对于双曲线，是与焦点同侧的那一支）。
+假如两个物体的共同[质心是静止的](https://zh.wikipedia.org/wiki/质心 "wikilink")，每一个物体沿着一条圆锥曲线运行,而这条圆锥曲线的焦点与这个系统的质心重合（对于双曲线，是与焦点同侧的那一支）。
 
 假如这两个物体被限制在一起，它们的运动轨迹都为椭圆；这时的势能（经常为一负值）相对于它们离得很远情况在绝对值上大于这个系统总动能（这些物体在它们坐标轴的旋转能这里未计算在内）。
 
@@ -40,8 +40,8 @@
 
 当\(n\geq 3\)时的N体问题现在知道得很少。*n=3*的情况研究得最多，且很多结论可以推广到更大的*n*。最先尝试解决[三体问题是从量化的](../Page/三体问题.md "wikilink")、寻找显式解的角度。
 
-  - 1767年[欧拉找到了共线周期轨道](../Page/欧拉.md "wikilink"),其中任意质量的三个物体振荡在旋转线上。
-  - 1772年[拉格朗日发现了一些周期解](../Page/拉格朗日.md "wikilink")，存在周期性的扩张和收缩的旋转等边三角形的顶点上。这些解引领了关于中心结构的研究，其中\(\ddot q=kq\)（*k*为大于零的常数）。
+  - 1767年[欧拉找到了共线周期轨道](https://zh.wikipedia.org/wiki/欧拉 "wikilink"),其中任意质量的三个物体振荡在旋转线上。
+  - 1772年[拉格朗日发现了一些周期解](https://zh.wikipedia.org/wiki/拉格朗日 "wikilink")，存在周期性的扩张和收缩的旋转等边三角形的顶点上。这些解引领了关于中心结构的研究，其中\(\ddot q=kq\)（*k*为大于零的常数）。
 
 **三体问题**是很令人费解的。它的解可能是[混沌的](../Page/混沌理论.md "wikilink")。Charles
 Delaunay曾经在地-月-日系统做出了主要研究。他曾于1860年和1867年分别出版了长达900页的关于这个问题的著作。
@@ -56,9 +56,9 @@ Delaunay曾经在地-月-日系统做出了主要研究。他曾于1860年和186
 
 ## 其它
 
-  - N体问题在[电视剧](../Page/电视剧.md "wikilink")《[犯罪心理](../Page/犯罪心理.md "wikilink")》中"Compulsion"这段被显著提到。
+  - N体问题在[电视剧](../Page/电视剧.md "wikilink")《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理 "wikilink")》中"Compulsion"这段被显著提到。
   - N体问题也出现在1951年[科幻电影](../Page/科幻电影.md "wikilink")《[地球停转之日](../Page/地球停转之日.md "wikilink")》，其中Klaatu为了吸引一位科学家的注意而解决了这个问题。
-  - [科幻小說](../Page/科幻小說.md "wikilink")《[夜幕低垂](../Page/夜幕低垂.md "wikilink")》即是在多體問題的世界中（n\>6），星球上的居民一生中從沒有遇過黑夜直到2049年一次的「[日蝕](../Page/日蝕.md "wikilink")」。
+  - [科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")《[夜幕低垂](https://zh.wikipedia.org/wiki/夜幕低垂 "wikilink")》即是在多體問題的世界中（n\>6），星球上的居民一生中從沒有遇過黑夜直到2049年一次的「[日蝕](https://zh.wikipedia.org/wiki/日蝕 "wikilink")」。
   - 中国大陆作家[刘慈欣的科幻小说](../Page/刘慈欣.md "wikilink")《[三体](../Page/三体_\(小说\).md "wikilink")》中一个主题就是三体问题。
 
 [Category:经典力学](https://zh.wikipedia.org/wiki/Category:经典力学 "wikilink")

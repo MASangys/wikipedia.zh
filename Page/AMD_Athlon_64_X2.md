@@ -3,16 +3,18 @@
 [33544a-2_AthlonX2.gif](https://zh.wikipedia.org/wiki/File:33544a-2_AthlonX2.gif "fig:33544a-2_AthlonX2.gif")
 
 **Athlon 64
-X2**是[AMD設計的首款桌面級雙核心](../Page/AMD.md "wikilink")[處理器](../Page/中央处理器.md "wikilink")，腳位有[Socket
+X2**是[AMD設計的首款桌面級雙核心](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器](../Page/中央处理器.md "wikilink")，腳位有[Socket
 939](../Page/Socket_939.md "wikilink")、[AM2](../Page/Socket_AM2.md "wikilink")，於2005年5月首次推出。首批產品採用90奈米[SOI製程](../Page/SOI.md "wikilink")，其後也開始推出代號
 **Brisbane**
-的65奈米產品，並於2006年12月發售，全數產品均支援[SSE3](../Page/SSE3.md "wikilink")[指令集](../Page/指令集.md "wikilink")。處理器內建兩顆[Athlon
-64核心](../Page/Athlon_64.md "wikilink")，兩个核心可以透過 **System Request Queue**
-互相溝通。[Intel](../Page/Intel.md "wikilink") [Pentium
-D的兩個核心溝通必須透過FSB](../Page/Pentium_D.md "wikilink")，繞過北橋方能；換言之，這會增加FSB的負擔，減低系統性能。相比之下，由於**Athlon
+的65奈米產品，並於2006年12月發售，全數產品均支援[SSE3](../Page/SSE3.md "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")。處理器內建兩顆[Athlon
+64核心](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")，兩个核心可以透過
+**System Request Queue**
+互相溝通。[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+[Pentium
+D的兩個核心溝通必須透過FSB](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")，繞過北橋方能；換言之，這會增加FSB的負擔，減低系統性能。相比之下，由於**Athlon
 64 X2**有專屬通道，系統性能比Pentium D高，但售價較貴。
 
-與單核心的Athlon64比較，這款雙核產品擁有更多的[晶體管](../Page/晶體管.md "wikilink")，因此晶圓需使用更複雜的製程，期間必須有更大面積的[矽為無損](../Page/矽.md "wikilink")，使其產量不及單核產品，因此售價也會比單核產品昂貴。
+與單核心的Athlon64比較，這款雙核產品擁有更多的[晶體管](https://zh.wikipedia.org/wiki/晶體管 "wikilink")，因此晶圓需使用更複雜的製程，期間必須有更大面積的[矽為無損](https://zh.wikipedia.org/wiki/矽 "wikilink")，使其產量不及單核產品，因此售價也會比單核產品昂貴。
 
 由於Athlon
 X2對外連接是[HyperTransport](../Page/HyperTransport.md "wikilink")，與Athlon
@@ -24,12 +26,12 @@ X2對外連接是[HyperTransport](../Page/HyperTransport.md "wikilink")，與Ath
 1024 KB L2的Athlon X2。
 
 另有更低階的X2 3600+型號，時脈與3800+相同，但L2被減為2 x 256
-KB。這款產品最早是提供[OEM廠商使用的](../Page/OEM.md "wikilink")，後來為應對[Intel
+KB。這款產品最早是提供[OEM廠商使用的](https://zh.wikipedia.org/wiki/OEM "wikilink")，後來為應對[Intel
 Core
-2上市](../Page/Intel_Core_2.md "wikilink")，AMD也於2006年7月至8月發行AM2版本的3600+，與Intel的Pentium
+2上市](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")，AMD也於2006年7月至8月發行AM2版本的3600+，與Intel的Pentium
 D 915/925競爭。
 
-AMD於2006年12月發售65nm產品，代號Brisbane，產品仍舊使用K8微架構，而使用[K10微架構的新產品預計會於](../Page/AMD_K10.md "wikilink")2007年中推出。另外在2007年6月推出的Brisbane
+AMD於2006年12月發售65nm產品，代號Brisbane，產品仍舊使用K8微架構，而使用[K10微架構的新產品預計會於](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")2007年中推出。另外在2007年6月推出的Brisbane
 45W BE省電版本的雙核處理器中，新品改稱為「Athlon X2」，去掉 "64"
 字樣，並使用全新型號，原有的4000+及4400+另外推出型號為BE-2350及BE-2400省電型處理器。[1](https://web.archive.org/web/20071219125239/http://publish.it168.com/2007/0525/20070525071901.shtml)[2](http://cpu.zol.com.cn/57/571383.html)
 
@@ -84,8 +86,8 @@ X2系列的Black Edition型號有90nm F3步進值的6400+處理器及65nm G2步�
   - L1 快取：每核 64 + 64 KB (資料 + 指令)
   - L2 快取：每核 512 / 1024 KB 全速
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - [Socket
     939](../Page/Socket_939.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (1000 MHz, HT1000)
@@ -106,8 +108,8 @@ X2系列的Black Edition型號有90nm F3步進值的6400+處理器及65nm G2步�
   - L1 快取：每核 64 + 64 KB (資料 + 指令)
   - L2 快取：每核 256 / 512 KB 全速
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")
   - [Socket
     939](../Page/Socket_939.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (1000 MHz, HT1000)
@@ -127,10 +129,10 @@ X2系列的Black Edition型號有90nm F3步進值的6400+處理器及65nm G2步�
   - L1 快取：每核 64 + 64 KB (資料 + 指令)
   - L2 快取：每核 512 / 1024 KB 全速
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[AMD
-    Virtualization](../Page/AMD_Virtualization.md "wikilink")（3800+ EE
-    SFF 35w 獨有）
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[AMD
+    Virtualization](https://zh.wikipedia.org/wiki/AMD_Virtualization "wikilink")（3800+
+    EE SFF 35w 獨有）
   - [Socket
     AM2](../Page/Socket_AM2.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (1000 MHz, HT1000)
@@ -163,8 +165,8 @@ X2 4000+、4400+及4800+。
   - L1 快取：每核 64 + 64 KB (資料 + 指令)
   - L2 快取：每核 512 KB 全速
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[AMD-V](../Page/AMD-V.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - [Socket
     AM2](../Page/Socket_AM2.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (1000 MHz, HT1000)
@@ -192,8 +194,8 @@ X2 4000+、4400+及4800+。
   - L2 快取：每核 512 KB 全速
   - L3 快取：2 MB (共用)
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSE4A](../Page/SSE4A.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[AMD-V](../Page/虛擬化技術#AMD虚拟化.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSE4A](https://zh.wikipedia.org/wiki/SSE4A "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
   - [Socket
     AM2+](../Page/Socket_AM2+.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (3200 MHz, HT1600)
@@ -216,8 +218,8 @@ X2 4000+、4400+及4800+。
   - L1 快取：每核 64 + 64 KB (Data + Instructions)
   - L2 快取：每核 512 KB 全速
   - [MMX](../Page/MMX.md "wikilink")，Extended
-    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](../Page/AMD64.md "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
-    Bit](../Page/NX_Bit.md "wikilink")，[AMD-V](../Page/虛擬化技術#AMD虚拟化.md "wikilink")
+    [3DNow\!](../Page/3DNow!.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，[Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink")，[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")，[AMD-V](https://zh.wikipedia.org/wiki/虛擬化技術#AMD虚拟化 "wikilink")
   - [Socket
     AM2](../Page/Socket_AM2.md "wikilink")，[HyperTransport](../Page/HyperTransport.md "wikilink")
     (1000 MHz, HT1000)
@@ -235,7 +237,7 @@ X2 4000+、4400+及4800+。
 
 ## 請參閱
 
-  - [Athlon 64](../Page/Athlon_64.md "wikilink")
+  - [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
   - [AMD Athlon X2處理器列表](../Page/AMD_Athlon_X2處理器列表.md "wikilink")
   - [泡泡网 -

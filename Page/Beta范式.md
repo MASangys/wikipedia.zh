@@ -1,7 +1,7 @@
-在 [lambda 演算中](../Page/lambda_演算.md "wikilink")，一个项是**beta
-范式**（规范型），如果没有“beta 归约”是可能的。一个项是 **beta-eta
-范式**，如果既没有 beta 归约又没有“eta 归约”是可能的。一个项是**头部范式**，如果没有“在头部位置的
-beta-可规约式”。
+在 [lambda
+演算中](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")，一个项是**beta
+范式**（规范型），如果没有“beta 归约”是可能的。一个项是 **beta-eta 范式**，如果既没有 beta 归约又没有“eta
+归约”是可能的。一个项是**头部范式**，如果没有“在头部位置的 beta-可规约式”。
 
 ## Beta 归约
 
@@ -54,7 +54,7 @@ beta 归约”的规则，直到没有更多的这种归约是可能的。在这
 
 ## 参见
 
-  - [lambda 演算](../Page/lambda_演算.md "wikilink")
+  - [lambda 演算](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")
   - [规范化性质](../Page/规范化性质.md "wikilink")
 
 [Category:Lambda演算](https://zh.wikipedia.org/wiki/Category:Lambda演算 "wikilink")

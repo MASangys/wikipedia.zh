@@ -1,7 +1,7 @@
 《》(又名"ZOSO"、"Four Symbols"、"Untitled,
 Runes")是英國搖滾樂團[齐柏林飞船乐队发行的第四张專輯](../Page/齐柏林飞船_\(乐团\).md "wikilink")，被誉为摇滚史上最杰出的专辑之一。专辑发售时并无标题，但作为乐队第四张专辑，后通称《Led
 Zeppelin IV》。专辑中最著名的作品是《[Stairway to
-Heaven](../Page/Stairway_to_Heaven.md "wikilink")》被誉为摇滚史诗。
+Heaven](https://zh.wikipedia.org/wiki/Stairway_to_Heaven "wikilink")》被誉为摇滚史诗。
 
 ## 專輯曲目
 
@@ -28,15 +28,15 @@ Pitchfork Media選為1970年代中第七偉大的專輯。
 ## 參與製作的成員
 
   - 約翰·博納姆 -
-    [爵士鼓](../Page/爵士鼓.md "wikilink")、[打擊樂器](../Page/打擊樂器.md "wikilink")
+    [爵士鼓](../Page/爵士鼓.md "wikilink")、[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")
 
   - 約翰·保羅·瓊斯 -
     [貝斯](../Page/電貝斯.md "wikilink")、[電鋼琴](../Page/電鋼琴.md "wikilink")、[直笛](../Page/直笛.md "wikilink")、；"Going
     to California"中擔任[曼陀林](../Page/曼陀林.md "wikilink")、"The Battle of
-    Evermore"中擔任[民謠吉他](../Page/民謠吉他.md "wikilink")
+    Evermore"中擔任[民謠吉他](https://zh.wikipedia.org/wiki/民謠吉他 "wikilink")
 
   - 吉米·佩奇 -
-    [電吉他與民謠吉他](../Page/電吉他.md "wikilink")、[音樂製作](../Page/音樂製作人.md "wikilink")、、[數位修復](../Page/數位修復.md "wikilink")；"The
+    [電吉他與民謠吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")、[音樂製作](../Page/音樂製作人.md "wikilink")、、[數位修復](https://zh.wikipedia.org/wiki/數位修復 "wikilink")；"The
     Battle of Evermore"中擔任曼陀林
 
   - 羅伯特·普蘭特 -
@@ -46,17 +46,17 @@ Pitchfork Media選為1970年代中第七偉大的專輯。
   - \- "The Battle of Evermore"中的主唱
 
   - [艾恩·史都華](../Page/艾恩·史都華.md "wikilink") - "Rock and
-    Roll"中擔任[鋼琴](../Page/鋼琴.md "wikilink")
+    Roll"中擔任[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")
 
   - Barrington Colby M.O.M. - 專輯封面繪製
 
   - \- [混音](../Page/混音.md "wikilink")
 
-  - [彼得·格蘭特](../Page/彼得·格蘭特.md "wikilink") - 音樂發行
+  - [彼得·格蘭特](https://zh.wikipedia.org/wiki/彼得·格蘭特 "wikilink") - 音樂發行
 
   - Graphreaks – 設計協調
 
-  -  – [音訊工程](../Page/音訊工程師.md "wikilink")、混音
+  -  – [音訊工程](https://zh.wikipedia.org/wiki/音訊工程師 "wikilink")、混音
 
   - Joe Sidore – 音頻母帶調整（1984年光碟版）
 

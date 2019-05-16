@@ -1,16 +1,16 @@
-**交易所交易基金、交易所買賣基金**（，常常縮寫為**ETF**，臺譯指數型證券投資信託基金），是一種在[證券交易所交易](../Page/證券交易所.md "wikilink")，提供投資人參與指數表現的[指數基金](../Page/指數基金.md "wikilink")。ETF將[指數](../Page/股價指數.md "wikilink")[證券化](../Page/资产证券化.md "wikilink")，投資人不以傳統方式直接進行一籃子證券之投資，而是透過持有表彰指數標的證券權益的受益憑證來間接投資。
+**交易所交易基金、交易所買賣基金**（，常常縮寫為**ETF**，臺譯指數型證券投資信託基金），是一種在[證券交易所交易](https://zh.wikipedia.org/wiki/證券交易所 "wikilink")，提供投資人參與指數表現的[指數基金](https://zh.wikipedia.org/wiki/指數基金 "wikilink")。ETF將[指數](../Page/股價指數.md "wikilink")[證券化](../Page/资产证券化.md "wikilink")，投資人不以傳統方式直接進行一籃子證券之投資，而是透過持有表彰指數標的證券權益的受益憑證來間接投資。
 
-ETF基金以持有與指數相同之[證券為主](../Page/證券.md "wikilink")，分割成眾多單價較低之投資單位，進而發行[受益憑證](../Page/受益憑證.md "wikilink")\[1\]。ETF商品將指數的價值由傳統的證券市場漲跌指標，轉變成具有流動性的資本證券，指數成分股票的管理由專業機構來進行，指數變動的損益直接反映在憑證價值的漲跌中。因此，只會因為連動指數成分股內容及權重改變而調整投資組合之內容或比重以符合「被動式管理」之目的\[2\]。
+ETF基金以持有與指數相同之[證券為主](../Page/證券.md "wikilink")，分割成眾多單價較低之投資單位，進而發行[受益憑證](https://zh.wikipedia.org/wiki/受益憑證 "wikilink")\[1\]。ETF商品將指數的價值由傳統的證券市場漲跌指標，轉變成具有流動性的資本證券，指數成分股票的管理由專業機構來進行，指數變動的損益直接反映在憑證價值的漲跌中。因此，只會因為連動指數成分股內容及權重改變而調整投資組合之內容或比重以符合「被動式管理」之目的\[2\]。
 
-投資者可以通過兩種方式購買ETF：可以在[證券市場收盤之後](../Page/證券市場.md "wikilink")，按照當天的基金[净值向基金發行商購買](../Page/净值.md "wikilink")（同開放式[共同基金](../Page/共同基金.md "wikilink")）；也可以在證券市場上直接從其他投資者那裡購買（同封閉式共同基金），購買的價格由買賣雙方共同决定。透過實物申購與買回機制，ETF市價可以貼近淨值。
+投資者可以通過兩種方式購買ETF：可以在[證券市場收盤之後](https://zh.wikipedia.org/wiki/證券市場 "wikilink")，按照當天的基金[净值向基金發行商購買](https://zh.wikipedia.org/wiki/净值 "wikilink")（同開放式[共同基金](../Page/共同基金.md "wikilink")）；也可以在證券市場上直接從其他投資者那裡購買（同封閉式共同基金），購買的價格由買賣雙方共同决定。透過實物申購與買回機制，ETF市價可以貼近淨值。
 
-絕大多數ETF的指數成分是[股票](../Page/股票.md "wikilink")，但基於固定收益證券、[債券](../Page/債券.md "wikilink")、商品和[貨幣的ETF也在發展中](../Page/貨幣.md "wikilink")。對於投資者來說，ETF的[交易費用和管理費用都很低廉](../Page/交易費用.md "wikilink")，持股組合比較穩定，[風險往往比較分散](../Page/風險.md "wikilink")，而且[流動性很高](../Page/流動性.md "wikilink")，單筆投資便可獲得多元化投資效果，節省大量之時間及金錢。
+絕大多數ETF的指數成分是[股票](../Page/股票.md "wikilink")，但基於固定收益證券、[債券](https://zh.wikipedia.org/wiki/債券 "wikilink")、商品和[貨幣的ETF也在發展中](../Page/貨幣.md "wikilink")。對於投資者來說，ETF的[交易費用和管理費用都很低廉](https://zh.wikipedia.org/wiki/交易費用 "wikilink")，持股組合比較穩定，[風險往往比較分散](https://zh.wikipedia.org/wiki/風險 "wikilink")，而且[流動性很高](https://zh.wikipedia.org/wiki/流動性 "wikilink")，單筆投資便可獲得多元化投資效果，節省大量之時間及金錢。
 
 到目前為止，幾乎所有的交易所都有ETF基金。
 
 ## 歷史
 
-世界上最早的指數型ETF是1993年發行的[標準普爾500指数ETF](../Page/標準普爾500指数.md "wikilink")，此後，針對[道瓊](../Page/道瓊工業平均指數.md "wikilink")、[那斯達克](../Page/納斯達克100指數.md "wikilink")、[羅素](../Page/羅素指數.md "wikilink")、[威爾夏等指數的ETF紛紛問世](../Page/道瓊威爾夏5000綜合指數.md "wikilink")。
+世界上最早的指數型ETF是1993年發行的[標準普爾500指数ETF](https://zh.wikipedia.org/wiki/標準普爾500指数 "wikilink")，此後，針對[道瓊](https://zh.wikipedia.org/wiki/道瓊工業平均指數 "wikilink")、[那斯達克](https://zh.wikipedia.org/wiki/納斯達克100指數 "wikilink")、[羅素](https://zh.wikipedia.org/wiki/羅素指數 "wikilink")、[威爾夏等指數的ETF紛紛問世](https://zh.wikipedia.org/wiki/道瓊威爾夏5000綜合指數 "wikilink")。
 
 世界上最早的債券型ETF在2001年被編製出來，是由加拿大證券交易所推出的5年期政府公債基金。
 
@@ -37,19 +37,22 @@ ETF的收益來源可能有以下情況：
 
 ### ETF
 
-  - DIAMONDS Trust（[道瓊工業指數基金](../Page/道瓊工業平均指數.md "wikilink")）\[3\]
-  - PowerShares QQQ（[那斯達克100科技指數基金](../Page/納斯達克100指數.md "wikilink")）
-  - SPDR S\&P 500 ETF（[標準普爾500指數基金](../Page/標準普爾500指數.md "wikilink")）
-  - [稀土ETF](../Page/稀土.md "wikilink")\[4\]
+  - DIAMONDS
+    Trust（[道瓊工業指數基金](https://zh.wikipedia.org/wiki/道瓊工業平均指數 "wikilink")）\[3\]
+  - PowerShares
+    QQQ（[那斯達克100科技指數基金](https://zh.wikipedia.org/wiki/納斯達克100指數 "wikilink")）
+  - SPDR S\&P 500
+    ETF（[標準普爾500指數基金](https://zh.wikipedia.org/wiki/標準普爾500指數 "wikilink")）
+  - [稀土ETF](https://zh.wikipedia.org/wiki/稀土 "wikilink")\[4\]
   - 美國指數/ETF比較和簡介\[5\]\[6\]
 
 ### ETF
 
-2010年為了活絡日本股市，日本央行（BOJ）計畫首度自市場「直接購買」追蹤[東證股價指數](../Page/東證股價指數.md "wikilink")（TOPIX）的ETF\[7\]。
+2010年為了活絡日本股市，日本央行（BOJ）計畫首度自市場「直接購買」追蹤[東證股價指數](https://zh.wikipedia.org/wiki/東證股價指數 "wikilink")（TOPIX）的ETF\[7\]。
 
 ### 指數股票型基金
 
-2003年首檔ETF寶來台灣卓越50基金（現[元大台灣卓越50證券投資信託基金](../Page/元大台灣卓越50證券投資信託基金.md "wikilink")）（參卓[臺灣50指數](../Page/臺灣50指數.md "wikilink")，）掛牌[上市](../Page/上市.md "wikilink")。
+2003年首檔ETF寶來台灣卓越50基金（現[元大台灣卓越50證券投資信託基金](../Page/元大台灣卓越50證券投資信託基金.md "wikilink")）（參卓[臺灣50指數](https://zh.wikipedia.org/wiki/臺灣50指數 "wikilink")，）掛牌[上市](https://zh.wikipedia.org/wiki/上市 "wikilink")。
 
 | 年           | 年費 (SITCA [各項費用比率](http://www.sitca.org.tw/ROC/Industry/IN2211.aspx?pid=IN2222_01)) |
 | ----------- | ----------------------------------------------------------------------------------- |
@@ -74,7 +77,8 @@ ETF的收益來源可能有以下情況：
   - 159902 华夏中小板ETF基金
   - 510880 华泰柏瑞红利ETF基金
   - 510120 海富通上证非周期ETF基金
-  - 510050 华夏[上证50ETF基金](../Page/上证50ETF.md "wikilink")
+  - 510050
+    华夏[上证50ETF基金](https://zh.wikipedia.org/wiki/上证50ETF "wikilink")
   - 159916 建信深证60ETF基金
   - 510060 工银上证央企50ETF基金
   - 159903 南方深成ETF基金
@@ -115,23 +119,24 @@ ETF的收益來源可能有以下情況：
 
   - [南方富時中國A50ETF](../Page/南方富時中國A50ETF.md "wikilink")
 
-  - [沛富基金](../Page/沛富基金.md "wikilink")
+  - [沛富基金](https://zh.wikipedia.org/wiki/沛富基金 "wikilink")
 
-  - [安碩A50中國基金](../Page/安碩A50中國基金.md "wikilink")
+  - [安碩A50中國基金](https://zh.wikipedia.org/wiki/安碩A50中國基金 "wikilink")
 
   - [恒生H股指數ETF](../Page/恒生H股指數ETF.md "wikilink")
 
-  - [恒生指數ETF](../Page/恒生指數ETF.md "wikilink")
+  - [恒生指數ETF](https://zh.wikipedia.org/wiki/恒生指數ETF "wikilink")
 
-  - [價值黃金ETF](../Page/價值黃金ETF.md "wikilink")
+  - [價值黃金ETF](https://zh.wikipedia.org/wiki/價值黃金ETF "wikilink")
 
-  - [易方達中證100 A股指數ETF](../Page/易方達中證100.md "wikilink")
+  - [易方達中證100
+    A股指數ETF](https://zh.wikipedia.org/wiki/易方達中證100 "wikilink")
 
   - [華夏滬深300指數ETF](../Page/華夏滬深300指數ETF.md "wikilink")
 
 ## 跨地区ETF
 
-2011年4月[臺灣證券交易所與](../Page/臺灣證券交易所.md "wikilink")[上海證券交易所合作爭取ETF互相掛牌](../Page/上海證券交易所.md "wikilink")，臺灣證券交易所、上海證券交易所、[深圳證券交易所與](../Page/深圳證券交易所.md "wikilink")[香港交易所更共同授權編製](../Page/香港交易所.md "wikilink")「中證兩岸三地500指數」，納編[臺灣海峽兩岸](../Page/臺灣海峽.md "wikilink")500檔個股\[9\]\[10\]。
+2011年4月[臺灣證券交易所與](../Page/臺灣證券交易所.md "wikilink")[上海證券交易所合作爭取ETF互相掛牌](https://zh.wikipedia.org/wiki/上海證券交易所 "wikilink")，臺灣證券交易所、上海證券交易所、[深圳證券交易所與](https://zh.wikipedia.org/wiki/深圳證券交易所 "wikilink")[香港交易所更共同授權編製](../Page/香港交易所.md "wikilink")「中證兩岸三地500指數」，納編[臺灣海峽兩岸](https://zh.wikipedia.org/wiki/臺灣海峽 "wikilink")500檔個股\[9\]\[10\]。
 
 ## ETF联接基金
 
@@ -146,7 +151,7 @@ ETF的收益來源可能有以下情況：
 
 ## 相關條目
 
-  - [證券投資基金](../Page/證券投資基金.md "wikilink")
+  - [證券投資基金](https://zh.wikipedia.org/wiki/證券投資基金 "wikilink")
 
 ## 註釋
 
@@ -178,7 +183,8 @@ ETF的收益來源可能有以下情況：
   - [用ETF掌握世界脈動（上）](https://archive.is/20121223025023/http://www.fund.gov.tw/ct.asp?xItem=2752&ctNode=473&mp=1)[（下）](https://archive.is/20121222070742/http://www.fund.gov.tw/ct.asp?xItem=3074&ctNode=473&mp=1)
 
   - [交易所買賣基金名單及交易安排](http://www.hkex.com.hk/chi/etfrc/ETFTA/ETFTradingArrangement_c.htm)
-    - [香港交易及結算所有限公司](../Page/香港交易及結算所有限公司.md "wikilink")
+    -
+    [香港交易及結算所有限公司](https://zh.wikipedia.org/wiki/香港交易及結算所有限公司 "wikilink")
 
 [Category:金融工程學](https://zh.wikipedia.org/wiki/Category:金融工程學 "wikilink")
 [Category:交易所交易產品](https://zh.wikipedia.org/wiki/Category:交易所交易產品 "wikilink")

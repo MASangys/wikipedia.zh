@@ -1,4 +1,4 @@
-《**壹號皇庭IV**》（[英文](../Page/英語.md "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，於1995年9月11日首播，共26集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出。\[1\]\[2\]本劇前往[新加坡拍攝外景](../Page/新加坡.md "wikilink")。
+《**壹號皇庭IV**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1995年9月11日首播，共26集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出。\[1\]\[2\]本劇前往[新加坡拍攝外景](../Page/新加坡.md "wikilink")。
 
 ## 演員表
 
@@ -107,7 +107,7 @@
 後為Ada男友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳梅馨.md" title="wikilink">陳梅馨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳梅馨" title="wikilink">陳梅馨</a></p></td>
 <td><p>關　靜</p></td>
 <td><p>Jessica<br />
 检控官</p></td>
@@ -132,7 +132,7 @@
 程若暉之男友, 後分手為好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁婉靜.md" title="wikilink">梁婉靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁婉靜" title="wikilink">梁婉靜</a></p></td>
 <td><p>湯芷琪</p></td>
 <td><p>Susan<br />
 設計師<br />
@@ -173,7 +173,7 @@
 <td><p>英姐<br />
 江家前傭人<br />
 邱永健、邱永康之母<br />
-（第一輯由<a href="../Page/梁愛.md" title="wikilink">梁愛飾演</a>）</p></td>
+（第一輯由<a href="https://zh.wikipedia.org/wiki/梁愛" title="wikilink">梁愛飾演</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李龍基.md" title="wikilink">李龍基</a></p></td>
@@ -202,12 +202,12 @@
 代替被判入獄的王安</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃清榕.md" title="wikilink">黃清榕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃清榕" title="wikilink">黃清榕</a></p></td>
 <td><p>Annie</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煌生.md" title="wikilink">李煌生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煌生" title="wikilink">李煌生</a></p></td>
 <td><p>強</p></td>
 <td><p>探員</p></td>
 </tr>
@@ -227,39 +227,39 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>玲　姐</p></td>
 <td><p>程家傭人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃凱詩.md" title="wikilink">黃凱詩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃凱詩" title="wikilink">黃凱詩</a></p></td>
 <td><p>Ada</p></td>
 <td><p>律師樓職員<br />
 後為邱永健女友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡劍雪.md" title="wikilink">蔡劍雪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡劍雪" title="wikilink">蔡劍雪</a></p></td>
 <td><p>律師樓職員<br />
 ／接待員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/可心.md" title="wikilink">可　心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/可心" title="wikilink">可　心</a></p></td>
 <td><p>律師樓職員</p></td>
 <td><p>Brenda</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張韻紅.md" title="wikilink">張韻紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張韻紅" title="wikilink">張韻紅</a></p></td>
 <td><p>Maggie</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳忠華.md" title="wikilink">陳忠華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳忠華" title="wikilink">陳忠華</a></p></td>
 <td><p>的士佬</p></td>
 <td><p>新加坡的士司機</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金舉棋.md" title="wikilink">金舉棋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金舉棋" title="wikilink">金舉棋</a></p></td>
 <td><p>Alex</p></td>
 <td><p>私家偵探</p></td>
 </tr>
@@ -269,17 +269,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓凡.md" title="wikilink">卓　凡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓凡" title="wikilink">卓　凡</a></p></td>
 <td><p>Mike</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/文嘉永.md" title="wikilink">文嘉永</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文嘉永" title="wikilink">文嘉永</a></p></td>
 <td><p>Simon</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許思敏" title="wikilink">許思敏</a></p></td>
 <td><p>杜　太</p></td>
 <td><p>杜永富太太</p></td>
 </tr>
@@ -294,7 +294,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馮瑞珍.md" title="wikilink">馮瑞珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瑞珍" title="wikilink">馮瑞珍</a></p></td>
 <td><p>馬修女</p></td>
 <td></td>
 </tr>
@@ -314,7 +314,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何美好.md" title="wikilink">何美好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何美好" title="wikilink">何美好</a></p></td>
 <td><p>Bartender</p></td>
 <td></td>
 </tr>
@@ -329,60 +329,60 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭瑞曉.md" title="wikilink">鄭瑞曉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭瑞曉" title="wikilink">鄭瑞曉</a></p></td>
 <td><p>法官助手<br />
 ／律師助手<br />
 ／程若暉助手</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陸希揚.md" title="wikilink">陸希揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸希揚" title="wikilink">陸希揚</a></p></td>
 <td><p>程若曦助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈寶思.md" title="wikilink">沈寶思</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈寶思" title="wikilink">沈寶思</a></p></td>
 <td><p>法醫助手</p></td>
 <td><p>殷芷-{杰}-之助手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>法醫助手</p></td>
 <td><p>殷芷-{杰}-之助手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/盧剛_(演員).md" title="wikilink">盧　剛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧剛_(演員)" title="wikilink">盧　剛</a></p></td>
 <td><p>律師助手<br />
 ／柔助手</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李衛民.md" title="wikilink">李衛民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李衛民" title="wikilink">李衛民</a></p></td>
 <td><p>律師助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈星銘.md" title="wikilink">沈星銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈星銘" title="wikilink">沈星銘</a></p></td>
 <td><p>聰助手</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王大偉_(演員).md" title="wikilink">王大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王大偉_(演員)" title="wikilink">王大偉</a></p></td>
 <td><p>律師助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/曹濟.md" title="wikilink">曹　濟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曹濟" title="wikilink">曹　濟</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳中堅.md" title="wikilink">陳中堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳中堅" title="wikilink">陳中堅</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/華忠男.md" title="wikilink">華忠男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華忠男" title="wikilink">華忠男</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
@@ -392,12 +392,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅國維.md" title="wikilink">羅國維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅國維" title="wikilink">羅國維</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/呂劍光.md" title="wikilink">呂劍光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂劍光" title="wikilink">呂劍光</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
@@ -464,14 +464,14 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何英偉.md" title="wikilink">何英偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何英偉" title="wikilink">何英偉</a></p></td>
 <td><p>仁</p></td>
 <td><p>孔先生<br />
 辯方<br />
 謝秀美前僱主</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/謝鳳儀.md" title="wikilink">謝鳳儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝鳳儀" title="wikilink">謝鳳儀</a></p></td>
 <td><p>謝秀美</p></td>
 <td></td>
 </tr>
@@ -510,13 +510,13 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李家強.md" title="wikilink">李家強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李家強" title="wikilink">李家強</a></p></td>
 <td><p>李偉成</p></td>
 <td><p>的士司機<br />
 被告</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳寶靈.md" title="wikilink">陳寶靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳寶靈" title="wikilink">陳寶靈</a></p></td>
 <td><p>阿　娟</p></td>
 <td><p>全名趙麗娟<br />
 李偉成強姦案受害人</p></td>
@@ -557,7 +557,7 @@
 毒殺兩子王文忠, 王文龍</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃成想.md" title="wikilink">黃成想</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃成想" title="wikilink">黃成想</a></p></td>
 <td><p>王　華</p></td>
 <td><p>陳美蓮前夫<br />
 王文忠, 王文龍之父</p></td>
@@ -618,13 +618,13 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李家明_(演員).md" title="wikilink">李家明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李家明_(演員)" title="wikilink">李家明</a></p></td>
 <td><p>李立光</p></td>
 <td><p>Marco<br />
 醫生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陸婉芬.md" title="wikilink">陸婉芬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸婉芬" title="wikilink">陸婉芬</a></p></td>
 <td><p>姚　倩</p></td>
 <td></td>
 </tr>
@@ -634,7 +634,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何美鈿.md" title="wikilink">何美鈿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何美鈿" title="wikilink">何美鈿</a></p></td>
 <td><p>護　士</p></td>
 <td><p>李立光診所護士</p></td>
 </tr>
@@ -654,7 +654,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/石云.md" title="wikilink">石　-{云}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石云" title="wikilink">石　-{云}-</a></p></td>
 <td><p>管理員</p></td>
 <td></td>
 </tr>
@@ -698,14 +698,14 @@
 
 ### 七、神油公司案
 
-|                                  |          |           |
-| -------------------------------- | -------- | --------- |
-| **演員**                           | **角色**   | **暱稱/身份** |
-| [王維德](../Page/王維德.md "wikilink") | 葉世邦      |           |
-| [李桂英](../Page/李桂英.md "wikilink") | 葉世邦妻     |           |
-| [林道權](../Page/林道權.md "wikilink") | 神油公司東主   |           |
-| [曾健明](../Page/曾健明.md "wikilink") | 神油公司代表律師 |           |
-|                                  |          |           |
+|                                                     |          |           |
+| --------------------------------------------------- | -------- | --------- |
+| **演員**                                              | **角色**   | **暱稱/身份** |
+| [王維德](../Page/王維德.md "wikilink")                    | 葉世邦      |           |
+| [李桂英](https://zh.wikipedia.org/wiki/李桂英 "wikilink") | 葉世邦妻     |           |
+| [林道權](https://zh.wikipedia.org/wiki/林道權 "wikilink") | 神油公司東主   |           |
+| [曾健明](../Page/曾健明.md "wikilink")                    | 神油公司代表律師 |           |
+|                                                     |          |           |
 
 |          |      |
 | -------- | ---- |
@@ -720,16 +720,16 @@
 
 ### 八、趙中正、李正堅案
 
-|                                         |        |           |
-| --------------------------------------- | ------ | --------- |
-| **演員**                                  | **角色** | **暱稱/身份** |
-| [陳立志](../Page/陳立志_\(演員\).md "wikilink") | 趙中正    | 被告        |
-| [黃賦裴](../Page/黃賦裴.md "wikilink")        | 李正堅    | 被告        |
-| [關　菁](../Page/關菁.md "wikilink")         | 德　父    | 梁偉德父親     |
-| [蘇恩磁](../Page/蘇恩磁.md "wikilink")        | 德　母    | 梁偉德母親     |
-| [博　君](../Page/博君.md "wikilink")         | 張　勝    |           |
-| [郭德信](../Page/郭德信.md "wikilink")        | 陳律師    |           |
-|                                         |        |           |
+|                                                            |        |           |
+| ---------------------------------------------------------- | ------ | --------- |
+| **演員**                                                     | **角色** | **暱稱/身份** |
+| [陳立志](https://zh.wikipedia.org/wiki/陳立志_\(演員\) "wikilink") | 趙中正    | 被告        |
+| [黃賦裴](https://zh.wikipedia.org/wiki/黃賦裴 "wikilink")        | 李正堅    | 被告        |
+| [關　菁](../Page/關菁.md "wikilink")                            | 德　父    | 梁偉德父親     |
+| [蘇恩磁](../Page/蘇恩磁.md "wikilink")                           | 德　母    | 梁偉德母親     |
+| [博　君](https://zh.wikipedia.org/wiki/博君 "wikilink")         | 張　勝    |           |
+| [郭德信](../Page/郭德信.md "wikilink")                           | 陳律師    |           |
+|                                                            |        |           |
 
 |          |     |     |
 | -------- | --- | --- |
@@ -744,14 +744,14 @@
 
 ### 九、胡貴蘭案
 
-|                                          |        |           |
-| ---------------------------------------- | ------ | --------- |
-| **演員**                                   | **角色** | **暱稱/身份** |
-| [張　捷](../Page/張捷_\(內地演員\).md "wikilink") | 胡貴蘭    |           |
-| [鄧英敏](../Page/鄧英敏.md "wikilink")         | 陳貴東    |           |
-| [談佩珊](../Page/談佩珊.md "wikilink")         | 梁慧珍    | 陳貴東之妻     |
-| [曹倩婷](../Page/曹倩婷.md "wikilink")         | 陳美芝    | 陳貴東與胡貴蘭女兒 |
-|                                          |        |           |
+|                                                             |        |           |
+| ----------------------------------------------------------- | ------ | --------- |
+| **演員**                                                      | **角色** | **暱稱/身份** |
+| [張　捷](https://zh.wikipedia.org/wiki/張捷_\(內地演員\) "wikilink") | 胡貴蘭    |           |
+| [鄧英敏](../Page/鄧英敏.md "wikilink")                            | 陳貴東    |           |
+| [談佩珊](../Page/談佩珊.md "wikilink")                            | 梁慧珍    | 陳貴東之妻     |
+| [曹倩婷](https://zh.wikipedia.org/wiki/曹倩婷 "wikilink")         | 陳美芝    | 陳貴東與胡貴蘭女兒 |
+|                                                             |        |           |
 
 |          |      |
 | -------- | ---- |
@@ -774,18 +774,18 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳展鵬.md" title="wikilink">陳展鵬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></p></td>
 <td><p>Frankie Fan</p></td>
 <td><p>被告</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳燕航.md" title="wikilink">陳燕航</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳燕航" title="wikilink">陳燕航</a></p></td>
 <td><p>售貨員</p></td>
 <td><p>全名歐冠英<br />
 上華百貨職員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃仲匡.md" title="wikilink">黃仲匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃仲匡" title="wikilink">黃仲匡</a></p></td>
 <td><p>保安主任</p></td>
 <td><p>上華百貨職員</p></td>
 </tr>
@@ -851,13 +851,13 @@
 
 ### 十二、劉錦權案
 
-|                                  |        |           |
-| -------------------------------- | ------ | --------- |
-| **演員**                           | **角色** | **暱稱/身份** |
-| [黎漢持](../Page/黎漢持.md "wikilink") | 蔡樹基    | 被告        |
-| [饒秋寶](../Page/饒秋寶.md "wikilink") | 馬淑芳    | 劉錦權之妻     |
-| [鄺佐輝](../Page/鄺佐輝.md "wikilink") | 王律師    | 蔡樹基辯護律師   |
-|                                  |        |           |
+|                                                     |        |           |
+| --------------------------------------------------- | ------ | --------- |
+| **演員**                                              | **角色** | **暱稱/身份** |
+| [黎漢持](../Page/黎漢持.md "wikilink")                    | 蔡樹基    | 被告        |
+| [饒秋寶](https://zh.wikipedia.org/wiki/饒秋寶 "wikilink") | 馬淑芳    | 劉錦權之妻     |
+| [鄺佐輝](../Page/鄺佐輝.md "wikilink")                    | 王律師    | 蔡樹基辯護律師   |
+|                                                     |        |           |
 
 |          |     |
 | -------- | --- |
@@ -899,7 +899,7 @@
 證人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/饒秋寶.md" title="wikilink">饒秋寶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/饒秋寶" title="wikilink">饒秋寶</a></p></td>
 <td><p>馬淑芳</p></td>
 <td><p>劉錦權之妻</p></td>
 </tr>
@@ -924,18 +924,24 @@
 
 ## 歌曲
 
-  - 主題音樂：《[Your Latest Trick](../Page/Your_Latest_Trick.md "wikilink")》
-      - SAXO-PHONE：[Phil Rombaoa](../Page/Phil_Rombaoa.md "wikilink")
-      - 作曲：[Mark Knopfler](../Page/Mark_Knopfler.md "wikilink") /
-        [羅雁武](../Page/羅雁武.md "wikilink")
+  - 主題音樂：《[Your Latest
+    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil
+        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark
+        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
+        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
-  - 插曲《[Dreaming Of You](../Page/夢見你_\(音樂專輯\).md "wikilink")》
-      - 作曲：[Franne Golde](../Page/Franne_Golde.md "wikilink") 及 [Tom
-        Snow](../Page/Tom_Snow.md "wikilink")
-      - 填詞：[Franne Golde](../Page/Franne_Golde.md "wikilink") 及 [Tom
-        Snow](../Page/Tom_Snow.md "wikilink")
+  - 插曲《[Dreaming Of
+    You](https://zh.wikipedia.org/wiki/夢見你_\(音樂專輯\) "wikilink")》
+      - 作曲：[Franne
+        Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及
+        [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
+      - 填詞：[Franne
+        Golde](https://zh.wikipedia.org/wiki/Franne_Golde "wikilink") 及
+        [Tom Snow](https://zh.wikipedia.org/wiki/Tom_Snow "wikilink")
       - 主唱：[Selena](../Page/莎麗娜.md "wikilink")
 
 <!-- end list -->

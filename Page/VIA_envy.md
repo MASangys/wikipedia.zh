@@ -1,14 +1,14 @@
 [VIA_Envy.jpg](https://zh.wikipedia.org/wiki/File:VIA_Envy.jpg "fig:VIA_Envy.jpg")
 **VIA
-Envy24**是[威盛電子研發的一个支援](../Page/威盛電子.md "wikilink")24-bit音效的[音效晶片](../Page/音效晶片.md "wikilink")。它除了以声效卡的姿態出現外，還有一定數量的[主機板安裝了這塊晶片](../Page/主機板.md "wikilink")。
+Envy24**是[威盛電子研發的一个支援](../Page/威盛電子.md "wikilink")24-bit音效的[音效晶片](https://zh.wikipedia.org/wiki/音效晶片 "wikilink")。它除了以声效卡的姿態出現外，還有一定數量的[主機板安裝了這塊晶片](https://zh.wikipedia.org/wiki/主機板 "wikilink")。
 
 Envy24晶片原先由IC Ensemble Inc.（1997年成立）研發，其後於2000年被威盛收購。
 
-Envy系列总共有五款控制器。諷刺的是，自從[SoundStorm不再成為音效解決辦法](../Page/SoundStorm.md "wikilink")，VIA
-Envy便成為其中一个[nForce晶片主機板合成音效解決辦法](../Page/nForce.md "wikilink")，另外一款由[瑞昱半導體](../Page/瑞昱半導體.md "wikilink")（Realtek）提供。
+Envy系列总共有五款控制器。諷刺的是，自從[SoundStorm不再成為音效解決辦法](https://zh.wikipedia.org/wiki/SoundStorm "wikilink")，VIA
+Envy便成為其中一个[nForce晶片主機板合成音效解決辦法](https://zh.wikipedia.org/wiki/nForce "wikilink")，另外一款由[瑞昱半導體](../Page/瑞昱半導體.md "wikilink")（Realtek）提供。
 
-除了Envy24音效晶片，其餘Envy晶片均不支援硬體[3D](../Page/3D.md "wikilink")
-[HRTF音效定位](../Page/HRTF.md "wikilink")，所以[CPU佔用率會比較高](../Page/CPU.md "wikilink")。威盛亦傾向不會為未來的Envy音效晶片追加相應的硬體支援，原因是這會增加製作成本。
+除了Envy24音效晶片，其餘Envy晶片均不支援硬體[3D](https://zh.wikipedia.org/wiki/3D "wikilink")
+[HRTF音效定位](https://zh.wikipedia.org/wiki/HRTF "wikilink")，所以[CPU佔用率會比較高](https://zh.wikipedia.org/wiki/CPU "wikilink")。威盛亦傾向不會為未來的Envy音效晶片追加相應的硬體支援，原因是這會增加製作成本。
 
 ## 規格
 

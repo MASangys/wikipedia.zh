@@ -1,5 +1,5 @@
-是《[魔法门之英雄无敌](../Page/魔法门之英雄无敌.md "wikilink")》系列[电脑游戏的第五部作品](../Page/电脑游戏.md "wikilink")，在魔法门品牌所有者[育碧软件的监督下](../Page/育碧软件.md "wikilink")，由俄罗斯的Nival
-Interactive开发。在比预定发行时间延期两个半月之后，该游戏于2006年5月16日在[英国首发](../Page/英国.md "wikilink")。俄文版由[1C公司于](../Page/1C公司.md "wikilink")5月19日在俄罗斯发布。2006年5月24日，在[美国和](../Page/美国.md "wikilink")[加拿大发行](../Page/加拿大.md "wikilink")。随后，游戏还在[波兰](../Page/波兰.md "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")、[台湾等地发行了当地的语言版本](../Page/台湾.md "wikilink")。
+是《[魔法门之英雄无敌](https://zh.wikipedia.org/wiki/魔法门之英雄无敌 "wikilink")》系列[电脑游戏的第五部作品](../Page/电脑游戏.md "wikilink")，在魔法门品牌所有者[育碧软件的监督下](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")，由俄罗斯的Nival
+Interactive开发。在比预定发行时间延期两个半月之后，该游戏于2006年5月16日在[英国首发](https://zh.wikipedia.org/wiki/英国 "wikilink")。俄文版由[1C公司于](https://zh.wikipedia.org/wiki/1C公司 "wikilink")5月19日在俄罗斯发布。2006年5月24日，在[美国和](../Page/美国.md "wikilink")[加拿大发行](../Page/加拿大.md "wikilink")。随后，游戏还在[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")、[台湾等地发行了当地的语言版本](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
 ## 补丁
 
@@ -7,7 +7,7 @@ Interactive开发。在比预定发行时间延期两个半月之后，该游戏
 
 1.2版本的补丁发布于2006年7月20日，修正多人游戏模式下的程序错误以及一些小问题。
 
-1.3版本的补丁已在2006年9月13日发布。包含了一个[地图编辑器](../Page/地图编辑器.md "wikilink")，并修正了大量包含程序错误，并对[游戏平衡性进行了一些调整](../Page/游戏平衡性.md "wikilink")。尽管这个补丁还没有被正式发布，但是已经可以通过游戏自动更新或浏览“patches.ubi.com”的“HOMM
+1.3版本的补丁已在2006年9月13日发布。包含了一个[地图编辑器](https://zh.wikipedia.org/wiki/地图编辑器 "wikilink")，并修正了大量包含程序错误，并对[游戏平衡性进行了一些调整](https://zh.wikipedia.org/wiki/游戏平衡性 "wikilink")。尽管这个补丁还没有被正式发布，但是已经可以通过游戏自动更新或浏览“patches.ubi.com”的“HOMM
 V”目录进行下载。
 
 1.41版本的补丁已在2007年5月15日发布。该补丁修正了Ubi.com平台升级所导致的系统问题，仅含一个文件：H5_Game.exe。

@@ -41,7 +41,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006年12月2日</p></td>
-<td><p><a href="../Page/薩爾達傳說：曙光公主.md" title="wikilink">薩爾達傳說：曙光公主</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薩爾達傳說：曙光公主" title="wikilink">薩爾達傳說：曙光公主</a>（）</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>6,800日圓</p></td>
 <td></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><p>2006年12月2日</p></td>
-<td><p><a href="../Page/初次的Wii.md" title="wikilink">初次的Wii</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/初次的Wii" title="wikilink">初次的Wii</a>（）</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>4,800日圓</p></td>
 <td></td>
@@ -57,8 +57,8 @@
 </tr>
 <tr class="odd">
 <td><p>2006年12月2日</p></td>
-<td><p><a href="../Page/CaduceusZ_两把超执刀.md" title="wikilink">神使之杖Z 雙超執刀</a>（）</p></td>
-<td><p><a href="../Page/ATLAS.md" title="wikilink">ATLAS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CaduceusZ_两把超执刀" title="wikilink">神使之杖Z 雙超執刀</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ATLAS" title="wikilink">ATLAS</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -66,7 +66,7 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>能源小精靈（）</p></td>
-<td><p><a href="../Page/KONAMI.md" title="wikilink">KONAMI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KONAMI" title="wikilink">KONAMI</a></p></td>
 <td><p>5,800日圓</p></td>
 <td></td>
 <td></td>
@@ -82,7 +82,7 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>超級猴子球 派對大集合（）</p></td>
-<td><p><a href="../Page/SEGA.md" title="wikilink">SEGA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -90,7 +90,7 @@
 <tr class="odd">
 <td><p>2006年12月2日</p></td>
 <td><p>魔法飛球 Pangya（）</p></td>
-<td><p><a href="../Page/TECMO.md" title="wikilink">TECMO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TECMO" title="wikilink">TECMO</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -98,7 +98,7 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>飛翼之島（）</p></td>
-<td><p><a href="../Page/HUDSON.md" title="wikilink">HUDSON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUDSON" title="wikilink">HUDSON</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -106,7 +106,7 @@
 <tr class="odd">
 <td><p>2006年12月2日</p></td>
 <td><p>轉轉球迷宮（）</p></td>
-<td><p><a href="../Page/HUDSON.md" title="wikilink">HUDSON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUDSON" title="wikilink">HUDSON</a></p></td>
 <td><p>5,040日圓</p></td>
 <td></td>
 <td></td>
@@ -114,7 +114,7 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>SD剛彈 疾速流星槌（）</p></td>
-<td><p><a href="../Page/南梦宫万代发展公司.md" title="wikilink">BANDAI NAMCO Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南梦宫万代发展公司" title="wikilink">BANDAI NAMCO Games</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -130,7 +130,7 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>電子雞 閃亮大總統（）</p></td>
-<td><p><a href="../Page/南梦宫万代发展公司.md" title="wikilink">BANDAI NAMCO Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南梦宫万代发展公司" title="wikilink">BANDAI NAMCO Games</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -146,14 +146,14 @@
 <tr class="even">
 <td><p>2006年12月2日</p></td>
 <td><p>赤色鋼鐵（）</p></td>
-<td><p><a href="../Page/UBI_Soft.md" title="wikilink">UBI Soft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UBI_Soft" title="wikilink">UBI Soft</a></p></td>
 <td><p>6,800日圓</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2006年12月14日</p></td>
-<td><p><a href="../Page/神奇寶貝戰鬥革命.md" title="wikilink">神奇寶貝戰鬥革命</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奇寶貝戰鬥革命" title="wikilink">神奇寶貝戰鬥革命</a>（）</p></td>
 <td><p>PokeMon／<a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>5,800日圓</p></td>
 <td><p>●</p></td>
@@ -170,7 +170,7 @@
 <tr class="odd">
 <td><p>2006年12月14日</p></td>
 <td><p>雷射超人 瘋狂兔子（）</p></td>
-<td><p><a href="../Page/UBI_Soft.md" title="wikilink">UBI Soft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UBI_Soft" title="wikilink">UBI Soft</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -178,7 +178,7 @@
 <tr class="even">
 <td><p>2006年12月21日</p></td>
 <td><p><a href="../Page/極速快感：玩命山道.md" title="wikilink">-{zh:極速快感：玩命山道; zh-hans:极品飞车：生死卡本谷; zh-hant:極速快感：玩命山道;}-</a>（）</p></td>
-<td><p><a href="../Page/EA.md" title="wikilink">EA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA" title="wikilink">EA</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -186,7 +186,7 @@
 <tr class="odd">
 <td><p>2006年12月21日</p></td>
 <td><p>怪獸卡車4x4 世界賽車廠（）</p></td>
-<td><p><a href="../Page/UBI_Soft.md" title="wikilink">UBI Soft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UBI_Soft" title="wikilink">UBI Soft</a></p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
 <td></td>
@@ -274,7 +274,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年7月26日</p></td>
-<td><p><a href="../Page/魔法氣泡.md" title="wikilink">魔法氣泡！</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法氣泡" title="wikilink">魔法氣泡！</a>（）</p></td>
 <td><p>SEGA</p></td>
 <td><p>5,040日圓</p></td>
 <td></td>
@@ -558,7 +558,7 @@
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>8,800日圓</p></td>
 <td></td>
-<td><p>同時包含<a href="../Page/Wii平衡板.md" title="wikilink">Wii平衡板</a></p></td>
+<td><p>同時包含<a href="https://zh.wikipedia.org/wiki/Wii平衡板" title="wikilink">Wii平衡板</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年12月6日</p></td>
@@ -821,7 +821,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年1月17日</p></td>
-<td><p><a href="../Page/Caduceus_新血.md" title="wikilink">超執刀 - New Blood</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Caduceus_新血" title="wikilink">超執刀 - New Blood</a>（）</p></td>
 <td><p>ATLUS</p></td>
 <td><p>6,090日圓</p></td>
 <td></td>
@@ -893,7 +893,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年2月21日</p></td>
-<td><p><a href="../Page/Winning_Eleven.md" title="wikilink">Winning Eleven</a> PLAY MAKER 2008（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Winning_Eleven" title="wikilink">Winning Eleven</a> PLAY MAKER 2008（）</p></td>
 <td><p>KONAMI</p></td>
 <td><p>7,140日圓</p></td>
 <td><p>●</p></td>
@@ -1458,7 +1458,7 @@
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>5,800日圓</p></td>
 <td><p>●</p></td>
-<td><p><a href="../Page/wii平衡板.md" title="wikilink">wii平衡板</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wii平衡板" title="wikilink">wii平衡板</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年10月16日</p></td>
@@ -2101,7 +2101,7 @@
 </tr>
 <tr class="even">
 <td><p>2009年4月23日</p></td>
-<td><p><a href="../Page/Monster_Hunter.md" title="wikilink">Monster Hunter G</a> (モンスターハンターＧ)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Monster_Hunter" title="wikilink">Monster Hunter G</a> (モンスターハンターＧ)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2233,7 +2233,7 @@
 </tr>
 <tr class="even">
 <td><p>2009年6月25日</p></td>
-<td><p><a href="../Page/Wii運動：度假勝地.md" title="wikilink">Wii Sports Resort</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wii運動：度假勝地" title="wikilink">Wii Sports Resort</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td></td>
 <td></td>
@@ -2281,7 +2281,7 @@
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>5,800日圓</p></td>
 <td></td>
-<td><p><a href="../Page/wii平衡板.md" title="wikilink">wii平衡板</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wii平衡板" title="wikilink">wii平衡板</a></p></td>
 <td><p><a href="http://www.nintendo.co.jp/wii/r7pj">R7PJ01</a></p></td>
 <td></td>
 <td></td>
@@ -2321,7 +2321,7 @@
 </tr>
 <tr class="even">
 <td><p>2009年8月1日</p></td>
-<td><p><a href="../Page/Monster_Hunter.md" title="wikilink">Monster Hunter Tri</a> (モンスターハンター3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Monster_Hunter" title="wikilink">Monster Hunter Tri</a> (モンスターハンター3)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2458,7 +2458,7 @@
 <td><p>遊戲2,000日圓<br />
 Wii平衡板套裝9,800日圓</p></td>
 <td></td>
-<td><p><a href="../Page/wii平衡板.md" title="wikilink">wii平衡板</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wii平衡板" title="wikilink">wii平衡板</a></p></td>
 <td><p><a href="http://www.nintendo.co.jp/wii/rfpj">RFPJ01</a></p></td>
 <td></td>
 <td></td>
@@ -2579,7 +2579,7 @@ Wii平衡板套裝9,800日圓</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>5,800日圓</p></td>
 <td><p>Wi-Fi</p></td>
-<td><p><a href="../Page/wii平衡板.md" title="wikilink">wii平衡板</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wii平衡板" title="wikilink">wii平衡板</a></p></td>
 <td><p><a href="http://www.nintendo.co.jp/wii/rolj">ROLJ01</a></p></td>
 <td></td>
 <td></td>
@@ -2707,7 +2707,7 @@ Wii平衡板套裝9,800日圓</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年12月3日</p></td>
-<td><p><a href="../Page/馬里奧系列遊戲列表.md" title="wikilink">新超級瑪利歐兄弟Wii</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬里奧系列遊戲列表" title="wikilink">新超級瑪利歐兄弟Wii</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>5,800日圓</p></td>
 <td></td>
@@ -2741,7 +2741,7 @@ Wii平衡板套裝9,800日圓</p></td>
 <tr class="even">
 <td><p>2009年12月3日</p></td>
 <td><p>戦国無双３</p></td>
-<td><p><a href="../Page/KOEI.md" title="wikilink">KOEI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KOEI" title="wikilink">KOEI</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2840,7 +2840,7 @@ Wii平衡板套裝9,800日圓</p></td>
 <tr class="odd">
 <td><p>2009年12月10日</p></td>
 <td><p>ウイニングイレブン プレーメーカー 2010</p></td>
-<td><p><a href="../Page/KONAMI.md" title="wikilink">KONAMI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KONAMI" title="wikilink">KONAMI</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2886,138 +2886,138 @@ Wii平衡板套裝9,800日圓</p></td>
 
 ## 2010年 (61款)
 
-| 發布日期        | 標題                                        | 製造商出售                                                | 價格      | 在線    | 備考          | (日)                                                     | (美)    | (歐)    |
-| ----------- | ----------------------------------------- | ---------------------------------------------------- | ------- | ----- | ----------- | ------------------------------------------------------- | ------ | ------ |
-| 2010年1月14日  | 惡靈古堡 黑暗面編年史                               |                                                      |         |       |             | [SBDJ08](http://www.nintendo.co.jp/wii/software/sbdj)   |        |        |
-| 2010年1月28日  | 熱舞革命 音樂塑身                                 |                                                      |         |       |             | [RJRJA4](http://www.nintendo.co.jp/wii/software/rjrj)   |        |        |
-| 2010年1月28日  | 龍之子 VS. CAPCOM 終極明星戰                      | [Capcom](../Page/Capcom.md "wikilink")               |         |       |             | [STKJ08](http://www.nintendo.co.jp/wii/software/stkj)   |        |        |
-| 2010年2月10日  | 瘋狂世界                                      |                                                      |         |       |             | [RZZJEL](http://www.nintendo.co.jp/wii/software/rzzj)   |        |        |
-| 2010年2月11日  | 斬擊的女武神                                    | [任天堂](../Page/任天堂.md "wikilink")                     | 6800日圓  |       |             | [RZNJ01](http://www.nintendo.co.jp/wii/rznj/)           |        |        |
-| 2010年2月25日  | 電波少女諾亞Wii                                 |                                                      |         |       |             | [SRAJMS](http://www.nintendo.co.jp/wii/software/sraj/)  |        |        |
-| 2010年2月25日  | 大怪獸對決 超人力霸王競技場                            |                                                      |         |       |             | [RJBJAF](http://www.nintendo.co.jp/wii/software/rjbj)   |        |        |
-| 2010年2月25日  | 超級猴子球 派對大集合                               |                                                      |         |       |             | [RSMJ8P](http://www.nintendo.co.jp/wii/software/rsmj)   |        |        |
-| 2010年2月25日  | GTI汽車俱樂部 世界城市競速                           |                                                      |         |       |             | [SGIJA4](http://www.nintendo.co.jp/wii/software/sgij)   |        |        |
-| 2010年3月18日  | 親子遊戲 米菲兔的玩具                               |                                                      |         |       |             | [R3UJGD](http://www.nintendo.co.jp/wii/software/r3uj)   |        |        |
-| 2010年3月25日  | [沉默之丘 破碎的記憶](../Page/寂静岭系列.md "wikilink") |                                                      |         |       |             | [R5WJA4](http://www.nintendo.co.jp/wii/software/r5wj)   |        |        |
-| 2010年4月1日   | EA 活力健身房 更多訓練                             | Electronic Arts                                      | 3,990日圓 |       |             | [R43J13](http://www.nintendo.co.jp/wii/software/r43j)   |        |        |
-| 2010年4月1日   | [孢子英雄](../Page/Spore.md "wikilink")       | Electronic Arts                                      | 6,090日圓 |       |             | [RQOJ13](http://www.nintendo.co.jp/wii/software/rq0j)   |        |        |
-| 2010年4月2日   | 勝利賽馬世界2010                                |                                                      |         |       |             | [SUMJC8](http://www.nintendo.co.jp/wii/software/sumj)   |        |        |
-| 2010年4月22日  | 茵樹奇異鳥                                     | バンダイナムコゲームス                                          | 3,990日圓 |       |             | [RIVJAF](http://www.nintendo.co.jp/wii/software/rivj)   |        |        |
-| 2010年4月28日  | 鱸魚垂釣Wii 世界錦標賽                             | アークシステムワークス                                          | 5,040日圓 | Wi-Fi |             | [RXNJJF](http://www.nintendo.co.jp/wii/software/rxnj)   |        |        |
-| 2010年4月29日  | 安藤檢索                                      | [任天堂](../Page/任天堂.md "wikilink")                     | 4,800日圓 | Wi-Fi |             | [RK3J01](http://www.nintendo.co.jp/wii/rk3j)            |        |        |
-| 2010年4月29日  | 奇幻房間                                      | ハドソン                                                 | 3,990日圓 |       |             | [SRMJ18](http://www.nintendo.co.jp/wii/software/srmj)   |        |        |
-| 2010年5月13日  | FIFA 世界盃足球賽 2010                          | エレクトロニック・アーツ                                         | 3,990日圓 | Wi-Fi |             | [SFWJ13](http://www.nintendo.co.jp/wii/software/sfwj)   |        |        |
-| 2010年5月20日  | 實況足球 2010 藍武侍的挑戰                          | コナミデジタルエンタテインメント                                     | 5,980日圓 | Wi-Fi |             | [SJWJA4](http://www.nintendo.co.jp/wii/software/sjwj)   |        |        |
-| 2010年5月27日  | 超級馬力歐銀河2                                  | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |       |             | [SB4J01](http://www.nintendo.co.jp/wii/sb4j)            |        |        |
-| 2010年5月27日  | 赤色鋼鐵2                                     | ユービーアイソフト                                            | 6,090日圓 |       |             | [RD2J41](http://www.nintendo.co.jp/wii/software/rd2j)   |        |        |
-| 2010年6月10日  | 異度之刃                                      | [任天堂](../Page/任天堂.md "wikilink")                     | 6,800日圓 |       |             | [SX4J01](http://www.nintendo.co.jp/wii/sx4j)            |        |        |
-| 2010年6月10日  | 卡拉OK JOYSOUND Wii                         | Hudson Soft                                          | 7,140日圓 |       | 特別附贈的USB麥克風 | [SKEJ](http://www.nintendo.co.jp/wii/software/skej)     |        |        |
-| 2010年6月10日  | 卡拉OK JOYSOUND Wii的二重奏                     | Hudson Soft                                          | 8,190日圓 |       | 特別附贈的USB麥克風 | [SKDJ](http://www.nintendo.co.jp/wii/software/skdj)     |        |        |
-| 2010年6月17日  | 化石超進化                                     | ディズニー・インタラクティブ・スタジオ                                  | 7,140日圓 |       |             | [RXXJ4Q](http://www.nintendo.co.jp/wii/software/rxxj)   |        |        |
-| 2010年6月17日  | Hospital 六名醫師                             | [Atlus](../Page/Atlus.md "wikilink")                 | 6,980日圓 |       |             | [SPTJEB](http://www.nintendo.co.jp/wii/software/sptj)   | SK3EEB |        |
-| 2010年6月24日  | SD鋼彈 膠囊大戰                                 | [NAMCO BANDAI](../Page/万代南梦宫游戏.md "wikilink")        | 3,990日圓 |       |             | [SD9JAF](http://www.nintendo.co.jp/wii/software/sd9j)   |        |        |
-| 2010年7月8日   | wii派對                                     | [任天堂](../Page/任天堂.md "wikilink")                     | 4,800日圓 |       |             | [SUPJ01](http://www.nintendo.co.jp/wii/supj/index.html) |        |        |
-| 2010年7月15日  | 勇者鬥惡龍 怪獸戰鬥之路                              | [Square Enix](../Page/Square_Enix.md "wikilink")     | 6,090日圓 | Wi-Fi |             | [SBAJGD](http://www.nintendo.co.jp/wii/software/sbaj)   |        |        |
-| 2010年7月15日  | 大家的啦啦隊                                    |                                                      | 6,090日圓 |       |             | [R6CJAF](http://www.nintendo.co.jp/wii/software/r6cj)   |        |        |
-| 2010年7月22日  | 黑影之塔                                      |                                                      | 6,090日圓 |       |             | [SDWJ18](http://www.nintendo.co.jp/wii/software/sdwj)   |        |        |
-| 2010年7月29日  | 戰國BASARA 3                                | [Capcom](../Page/Capcom.md "wikilink")               | 5,990日圓 |       |             | [SB3J08](http://www.nintendo.co.jp/wii/software/sb3j)   |        |        |
-| 2010年8月5日   | 俄羅斯方塊派對 豪華版                               |                                                      | 3,990日圓 | Wi-Fi |             | [STEJ18](http://www.nintendo.co.jp/wii/software/stej)   | STEETR | STEPTR |
-| 2010年8月26日  | 一閃女王                                      |                                                      | 6,090日圓 | Wi-Fi |             | [S3RJMS](http://www.nintendo.co.jp/wii/software/s3rj)   |        |        |
-| 2010年9月2日   | 銀河戰士 另一個 M                                | [任天堂](../Page/任天堂.md "wikilink")                     | 6,800日圓 |       |             | [R3OJ01](http://www.nintendo.co.jp/wii/r3oj)            | R3OE01 | R3OP01 |
-| 2010年9月16日  | DECA Sporta 3                             |                                                      | 5,040日圓 | Wi-Fi |             | [S3DJ](http://www.nintendo.co.jp/wii/software/s3dj)     |        |        |
-| 2010年10月14日 | 毛線卡比                                      | 任天堂                                                  | 5,800日圓 |       |             |                                                         |        |        |
-| 2010年10月21日 | 英雄不再2：垂死掙扎                                | [MMV](../Page/Marvelous_Entertainment.md "wikilink") | 7,140日圓 |       |             |                                                         |        |        |
-| 2010年10月21日 | 大家來冒險 家庭訓練機                               | バンダイナムコゲームス                                          | 3,990日圓 |       |             |                                                         |        |        |
-| 2010年10月21日 | Wii超級瑪莉歐25週年版                             | 任天堂                                                  | 2,500日圓 |       |             |                                                         |        |        |
-| 2010年11月11日 | 派對遊戲100選                                  |                                                      | 4,800日圓 |       |             |                                                         |        |        |
-| 2010年11月11日 | 人生遊戲 快樂家庭                                 |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年11月11日 | Wii Sports Resort                         | 任天堂                                                  | 5,800日圓 |       |             |                                                         |        |        |
-| 2010年11月18日 | 音速小子 繽紛色彩                                 |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年11月18日 | 世界足球競賽 2011                               |                                                      | 5,980日圓 |       |             |                                                         |        |        |
-| 2010年11月18日 | 超級粉碎球 PLUS                                |                                                      | 4,800日圓 |       |             |                                                         |        |        |
-| 2010年11月25日 | 麵包超人 微笑派對                                 | アガツマ・エンタテインメント                                       | 5,980日圓 |       |             |                                                         |        |        |
-| 2010年11月25日 | 瑪利歐綜合運動                                   |                                                      | 5,800日圓 |       |             |                                                         |        |        |
-| 2010年12月2日  | 太鼓之達人Wii 大家同樂第3代                          |                                                      | 5,040日圓 |       |             |                                                         |        |        |
-| 2010年12月2日  | 假面騎士 巔峰英雄 歐茲                              |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年12月2日  | 火影忍者疾風傳 激鬥忍者大戰 SP                         |                                                      | 6,800日圓 |       |             |                                                         |        |        |
-| 2010年12月2日  | 保母老媽                                      |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年12月9日  | 動感塑身派對                                    |                                                      | 5,040日圓 |       |             |                                                         |        |        |
-| 2010年12月9日  | 卡拉OK JOYSOUND 超級DX                        |                                                      | 3,990日圓 |       |             |                                                         |        |        |
-| 2010年12月9日  | 極速快感 超熱力追緝                                |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年12月9日  | 大金剛再起                                     |                                                      | 5,800日圓 |       |             |                                                         |        |        |
-| 2010年12月16日 | 節奏拳擊2 用Wii享瘦                              |                                                      | 6,090日圓 |       |             |                                                         |        |        |
-| 2010年12月16日 | 小精靈派對                                     |                                                      | 5,040日圓 |       |             |                                                         |        |        |
-| 2010年12月23日 | 美體瘦身Wii 鄭多燕的塑型有氧                          |                                                      | 3,990日圓 |       |             |                                                         |        |        |
-| 2010年12月30日 | MILESTONE 射擊遊戲收藏集2                        |                                                      | 5,040日圓 |       |             |                                                         |        |        |
+| 發布日期        | 標題                                                     | 製造商出售                                                                   | 價格      | 在線    | 備考          | (日)                                                     | (美)    | (歐)    |
+| ----------- | ------------------------------------------------------ | ----------------------------------------------------------------------- | ------- | ----- | ----------- | ------------------------------------------------------- | ------ | ------ |
+| 2010年1月14日  | 惡靈古堡 黑暗面編年史                                            |                                                                         |         |       |             | [SBDJ08](http://www.nintendo.co.jp/wii/software/sbdj)   |        |        |
+| 2010年1月28日  | 熱舞革命 音樂塑身                                              |                                                                         |         |       |             | [RJRJA4](http://www.nintendo.co.jp/wii/software/rjrj)   |        |        |
+| 2010年1月28日  | 龍之子 VS. CAPCOM 終極明星戰                                   | [Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")               |         |       |             | [STKJ08](http://www.nintendo.co.jp/wii/software/stkj)   |        |        |
+| 2010年2月10日  | 瘋狂世界                                                   |                                                                         |         |       |             | [RZZJEL](http://www.nintendo.co.jp/wii/software/rzzj)   |        |        |
+| 2010年2月11日  | 斬擊的女武神                                                 | [任天堂](../Page/任天堂.md "wikilink")                                        | 6800日圓  |       |             | [RZNJ01](http://www.nintendo.co.jp/wii/rznj/)           |        |        |
+| 2010年2月25日  | 電波少女諾亞Wii                                              |                                                                         |         |       |             | [SRAJMS](http://www.nintendo.co.jp/wii/software/sraj/)  |        |        |
+| 2010年2月25日  | 大怪獸對決 超人力霸王競技場                                         |                                                                         |         |       |             | [RJBJAF](http://www.nintendo.co.jp/wii/software/rjbj)   |        |        |
+| 2010年2月25日  | 超級猴子球 派對大集合                                            |                                                                         |         |       |             | [RSMJ8P](http://www.nintendo.co.jp/wii/software/rsmj)   |        |        |
+| 2010年2月25日  | GTI汽車俱樂部 世界城市競速                                        |                                                                         |         |       |             | [SGIJA4](http://www.nintendo.co.jp/wii/software/sgij)   |        |        |
+| 2010年3月18日  | 親子遊戲 米菲兔的玩具                                            |                                                                         |         |       |             | [R3UJGD](http://www.nintendo.co.jp/wii/software/r3uj)   |        |        |
+| 2010年3月25日  | [沉默之丘 破碎的記憶](../Page/寂静岭系列.md "wikilink")              |                                                                         |         |       |             | [R5WJA4](http://www.nintendo.co.jp/wii/software/r5wj)   |        |        |
+| 2010年4月1日   | EA 活力健身房 更多訓練                                          | Electronic Arts                                                         | 3,990日圓 |       |             | [R43J13](http://www.nintendo.co.jp/wii/software/r43j)   |        |        |
+| 2010年4月1日   | [孢子英雄](https://zh.wikipedia.org/wiki/Spore "wikilink") | Electronic Arts                                                         | 6,090日圓 |       |             | [RQOJ13](http://www.nintendo.co.jp/wii/software/rq0j)   |        |        |
+| 2010年4月2日   | 勝利賽馬世界2010                                             |                                                                         |         |       |             | [SUMJC8](http://www.nintendo.co.jp/wii/software/sumj)   |        |        |
+| 2010年4月22日  | 茵樹奇異鳥                                                  | バンダイナムコゲームス                                                             | 3,990日圓 |       |             | [RIVJAF](http://www.nintendo.co.jp/wii/software/rivj)   |        |        |
+| 2010年4月28日  | 鱸魚垂釣Wii 世界錦標賽                                          | アークシステムワークス                                                             | 5,040日圓 | Wi-Fi |             | [RXNJJF](http://www.nintendo.co.jp/wii/software/rxnj)   |        |        |
+| 2010年4月29日  | 安藤檢索                                                   | [任天堂](../Page/任天堂.md "wikilink")                                        | 4,800日圓 | Wi-Fi |             | [RK3J01](http://www.nintendo.co.jp/wii/rk3j)            |        |        |
+| 2010年4月29日  | 奇幻房間                                                   | ハドソン                                                                    | 3,990日圓 |       |             | [SRMJ18](http://www.nintendo.co.jp/wii/software/srmj)   |        |        |
+| 2010年5月13日  | FIFA 世界盃足球賽 2010                                       | エレクトロニック・アーツ                                                            | 3,990日圓 | Wi-Fi |             | [SFWJ13](http://www.nintendo.co.jp/wii/software/sfwj)   |        |        |
+| 2010年5月20日  | 實況足球 2010 藍武侍的挑戰                                       | コナミデジタルエンタテインメント                                                        | 5,980日圓 | Wi-Fi |             | [SJWJA4](http://www.nintendo.co.jp/wii/software/sjwj)   |        |        |
+| 2010年5月27日  | 超級馬力歐銀河2                                               | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |       |             | [SB4J01](http://www.nintendo.co.jp/wii/sb4j)            |        |        |
+| 2010年5月27日  | 赤色鋼鐵2                                                  | ユービーアイソフト                                                               | 6,090日圓 |       |             | [RD2J41](http://www.nintendo.co.jp/wii/software/rd2j)   |        |        |
+| 2010年6月10日  | 異度之刃                                                   | [任天堂](../Page/任天堂.md "wikilink")                                        | 6,800日圓 |       |             | [SX4J01](http://www.nintendo.co.jp/wii/sx4j)            |        |        |
+| 2010年6月10日  | 卡拉OK JOYSOUND Wii                                      | Hudson Soft                                                             | 7,140日圓 |       | 特別附贈的USB麥克風 | [SKEJ](http://www.nintendo.co.jp/wii/software/skej)     |        |        |
+| 2010年6月10日  | 卡拉OK JOYSOUND Wii的二重奏                                  | Hudson Soft                                                             | 8,190日圓 |       | 特別附贈的USB麥克風 | [SKDJ](http://www.nintendo.co.jp/wii/software/skdj)     |        |        |
+| 2010年6月17日  | 化石超進化                                                  | ディズニー・インタラクティブ・スタジオ                                                     | 7,140日圓 |       |             | [RXXJ4Q](http://www.nintendo.co.jp/wii/software/rxxj)   |        |        |
+| 2010年6月17日  | Hospital 六名醫師                                          | [Atlus](../Page/Atlus.md "wikilink")                                    | 6,980日圓 |       |             | [SPTJEB](http://www.nintendo.co.jp/wii/software/sptj)   | SK3EEB |        |
+| 2010年6月24日  | SD鋼彈 膠囊大戰                                              | [NAMCO BANDAI](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")        | 3,990日圓 |       |             | [SD9JAF](http://www.nintendo.co.jp/wii/software/sd9j)   |        |        |
+| 2010年7月8日   | wii派對                                                  | [任天堂](../Page/任天堂.md "wikilink")                                        | 4,800日圓 |       |             | [SUPJ01](http://www.nintendo.co.jp/wii/supj/index.html) |        |        |
+| 2010年7月15日  | 勇者鬥惡龍 怪獸戰鬥之路                                           | [Square Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")     | 6,090日圓 | Wi-Fi |             | [SBAJGD](http://www.nintendo.co.jp/wii/software/sbaj)   |        |        |
+| 2010年7月15日  | 大家的啦啦隊                                                 |                                                                         | 6,090日圓 |       |             | [R6CJAF](http://www.nintendo.co.jp/wii/software/r6cj)   |        |        |
+| 2010年7月22日  | 黑影之塔                                                   |                                                                         | 6,090日圓 |       |             | [SDWJ18](http://www.nintendo.co.jp/wii/software/sdwj)   |        |        |
+| 2010年7月29日  | 戰國BASARA 3                                             | [Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")               | 5,990日圓 |       |             | [SB3J08](http://www.nintendo.co.jp/wii/software/sb3j)   |        |        |
+| 2010年8月5日   | 俄羅斯方塊派對 豪華版                                            |                                                                         | 3,990日圓 | Wi-Fi |             | [STEJ18](http://www.nintendo.co.jp/wii/software/stej)   | STEETR | STEPTR |
+| 2010年8月26日  | 一閃女王                                                   |                                                                         | 6,090日圓 | Wi-Fi |             | [S3RJMS](http://www.nintendo.co.jp/wii/software/s3rj)   |        |        |
+| 2010年9月2日   | 銀河戰士 另一個 M                                             | [任天堂](../Page/任天堂.md "wikilink")                                        | 6,800日圓 |       |             | [R3OJ01](http://www.nintendo.co.jp/wii/r3oj)            | R3OE01 | R3OP01 |
+| 2010年9月16日  | DECA Sporta 3                                          |                                                                         | 5,040日圓 | Wi-Fi |             | [S3DJ](http://www.nintendo.co.jp/wii/software/s3dj)     |        |        |
+| 2010年10月14日 | 毛線卡比                                                   | 任天堂                                                                     | 5,800日圓 |       |             |                                                         |        |        |
+| 2010年10月21日 | 英雄不再2：垂死掙扎                                             | [MMV](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink") | 7,140日圓 |       |             |                                                         |        |        |
+| 2010年10月21日 | 大家來冒險 家庭訓練機                                            | バンダイナムコゲームス                                                             | 3,990日圓 |       |             |                                                         |        |        |
+| 2010年10月21日 | Wii超級瑪莉歐25週年版                                          | 任天堂                                                                     | 2,500日圓 |       |             |                                                         |        |        |
+| 2010年11月11日 | 派對遊戲100選                                               |                                                                         | 4,800日圓 |       |             |                                                         |        |        |
+| 2010年11月11日 | 人生遊戲 快樂家庭                                              |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年11月11日 | Wii Sports Resort                                      | 任天堂                                                                     | 5,800日圓 |       |             |                                                         |        |        |
+| 2010年11月18日 | 音速小子 繽紛色彩                                              |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年11月18日 | 世界足球競賽 2011                                            |                                                                         | 5,980日圓 |       |             |                                                         |        |        |
+| 2010年11月18日 | 超級粉碎球 PLUS                                             |                                                                         | 4,800日圓 |       |             |                                                         |        |        |
+| 2010年11月25日 | 麵包超人 微笑派對                                              | アガツマ・エンタテインメント                                                          | 5,980日圓 |       |             |                                                         |        |        |
+| 2010年11月25日 | 瑪利歐綜合運動                                                |                                                                         | 5,800日圓 |       |             |                                                         |        |        |
+| 2010年12月2日  | 太鼓之達人Wii 大家同樂第3代                                       |                                                                         | 5,040日圓 |       |             |                                                         |        |        |
+| 2010年12月2日  | 假面騎士 巔峰英雄 歐茲                                           |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年12月2日  | 火影忍者疾風傳 激鬥忍者大戰 SP                                      |                                                                         | 6,800日圓 |       |             |                                                         |        |        |
+| 2010年12月2日  | 保母老媽                                                   |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年12月9日  | 動感塑身派對                                                 |                                                                         | 5,040日圓 |       |             |                                                         |        |        |
+| 2010年12月9日  | 卡拉OK JOYSOUND 超級DX                                     |                                                                         | 3,990日圓 |       |             |                                                         |        |        |
+| 2010年12月9日  | 極速快感 超熱力追緝                                             |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年12月9日  | 大金剛再起                                                  |                                                                         | 5,800日圓 |       |             |                                                         |        |        |
+| 2010年12月16日 | 節奏拳擊2 用Wii享瘦                                           |                                                                         | 6,090日圓 |       |             |                                                         |        |        |
+| 2010年12月16日 | 小精靈派對                                                  |                                                                         | 5,040日圓 |       |             |                                                         |        |        |
+| 2010年12月23日 | 美體瘦身Wii 鄭多燕的塑型有氧                                       |                                                                         | 3,990日圓 |       |             |                                                         |        |        |
+| 2010年12月30日 | MILESTONE 射擊遊戲收藏集2                                     |                                                                         | 5,040日圓 |       |             |                                                         |        |        |
 
 ## 2011年 (38款)
 
-| 發布日期        | 標題                                                                                             | 製造商出售                                                | 價格      | 在線 | 備考 | (日)                                                   | (美)    | (歐) |
-| ----------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------- | -- | -- | ----------------------------------------------------- | ------ | --- |
-| 2011年1月27日  | 雷射超人瘋狂兔子：時光旅行                                                                                  | [育碧](../Page/育碧軟體.md "wikilink")                     | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年1月27日  | 夢幻終章                                                                                           | [任天堂](../Page/任天堂.md "wikilink")                     | 6,800日圓 |    |    | [SLSJ](http://www.nintendo.co.jp/wii/slsj/index.html) |        |     |
-| 2011年2月10日  | [戰國無雙3 猛將傳](../Page/戰國無雙3.md "wikilink")                                                       |                                                      | 3,990日圓 |    |    |                                                       |        |     |
-| 2011年2月24日  | 符文工廠 藍海奇緣                                                                                      | [Marvelous AQL](../Page/Marvelous_AQL.md "wikilink") | 7,140日圓 |    |    |                                                       |        |     |
-| 2011年2月24日  | SD鋼彈G世代 新世界                                                                                    |                                                      | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年3月24日  | 活祭之夜                                                                                           | [Marvelous AQL](../Page/Marvelous_AQL.md "wikilink") | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年4月21日  | 比利的軍事訓練營Wii 享受減肥                                                                               |                                                      | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年4月21日  | 遊戲王5D's 決鬥狂熱者                                                                                  | [KONAMI](../Page/KONAMI.md "wikilink")               | 8,379日圓 |    |    |                                                       |        |     |
-| 2011年5月26日  | 潘朵拉之塔 直到你身邊                                                                                    | [任天堂](../Page/任天堂.md "wikilink")                     | 6,800日圓 |    |    | [SX3J](http://www.nintendo.co.jp/wii/sx3j/index.html) |        |     |
-| 2011年6月23日  | 地球探尋者                                                                                          |                                                      | 7,140日圓 |    |    |                                                       |        |     |
-| 2011年6月30日  | 007：黄金眼                                                                                        | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SJBJ](http://www.nintendo.co.jp/wii/sjbj/index.html) |        |     |
-| 2011年7月7日   | Wii遙控器Plus 動感歡樂組合                                                                              | [任天堂](../Page/任天堂.md "wikilink")                     | 4,800日圓 |    |    | [SC8J](http://www.nintendo.co.jp/wii/sc8j/index.html) |        |     |
-| 2011年7月16日  | [閃電十一人 王牌前鋒](../Page/閃電十一人_王牌前鋒.md "wikilink")                                                 | [LEVEL-5](../Page/LEVEL-5.md "wikilink")             | 5,980日圓 |    |    |                                                       |        |     |
-| 2011年7月21日  | 全民節奏天國                                                                                         | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SOMJ](http://www.nintendo.co.jp/wii/somj/index.html) |        |     |
-| 2011年7月28日  | 健身六法                                                                                           | [育碧](../Page/育碧.md "wikilink")                       | 5,040日圓 |    |    |                                                       |        |     |
-| 2011年8月4日   | 家庭釣魚                                                                                           | バンダイナムコゲームス                                          | 5,040日圓 |    |    |                                                       |        |     |
-| 2011年8月4日   | 傳奇米老鼠                                                                                          | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SEMJ](http://www.nintendo.co.jp/wii/semj/index.html) | SEME4Q |     |
-| 2011年9月1日   | 人生遊戲 快樂家庭                                                                                      | TAKARA TOMY                                          | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年9月8日   | 超級戰隊大戰 群雄雲集                                                                                    | BANDAI NAMCO Games                                   | 4,440日圓 |    |    |                                                       |        |     |
-| 2011年9月15日  | 勇者鬥惡龍25周年紀念                                                                                    | [SQEX](../Page/史克威爾艾尼克斯.md "wikilink")               | 7,140日圓 |    |    |                                                       |        |     |
-| 2011年9月22日  | 賽馬大亨世界                                                                                         |                                                      | 7,140日圓 |    |    |                                                       |        |     |
-| 2011年10月13日 | 舞力全開Wii                                                                                        | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SD2J](http://www.nintendo.co.jp/wii/sd2j/index.html) |        |     |
-| 2011年10月20日 | 歡樂假期                                                                                           |                                                      | 5,800日圓 |    |    |                                                       |        |     |
-| 2011年10月27日 | 星之卡比Wii                                                                                        | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SUKJ](http://www.nintendo.co.jp/wii/sukj/index.html) |        |     |
-| 2011年11月3日  | 世界足球競賽2012                                                                                     | [KONAMI](../Page/KONAMI.md "wikilink")               | 4,980日圓 |    |    |                                                       |        |     |
-| 2011年11月10日 | 戰國BASARA3 宴                                                                                    | [CAPCOM](../Page/CAPCOM.md "wikilink")               | 4,990日圓 |    |    |                                                       |        |     |
-| 2011年11月12日 | 神奇寶貝樂園2                                                                                        | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [S2LJ](http://www.nintendo.co.jp/wii/s2lj/index.html) |        |     |
-| 2011年11月15日 | [馬里奧和索尼克在倫敦2012奧運會](../Page/馬里奧和索尼克在倫敦2012奧運會.md "wikilink")([Wii](../Page/Wii.md "wikilink")) | [Sega](../Page/Sega.md "wikilink")                   | 4,990日圓 |    |    |                                                       |        |     |
-| 2011年11月23日 | 太鼓之達人Wii 決定版                                                                                   | [Namco Bandai](../Page/万代南梦宫游戏.md "wikilink")        | 5,040日圓 |    |    | [1](http://app.bnfes.jp/sp/taikowii-ketteiban/)       |        |     |
-| 2011年11月23日 | [薩爾達傳說：天空之劍](../Page/薩爾達傳說：Skyward_Sword.md "wikilink")                                        | [任天堂](../Page/任天堂.md "wikilink")                     | 6,800日圓 |    |    | [SOUE01](http://www.nintendo.co.jp/wii/souj/)         |        |     |
-| 2011年12月1日  | 假面騎士 巔峰英雄FOURZE                                                                                |                                                      | 6,280日圓 |    |    |                                                       |        |     |
-| 2011年12月1日  | 人生街道Wii                                                                                        | [SQEX](../Page/史克威爾艾尼克斯.md "wikilink")               | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年12月8日  | Wii麥可傑克森：飆體驗                                                                                   | [育碧](../Page/育碧.md "wikilink")                       | 6,279日圓 |    |    |                                                       |        |     |
-| 2011年12月8日  | 極速快感 亡命天涯                                                                                      | [EA](../Page/美商藝電.md "wikilink")                     | 6,090日圓 |    |    |                                                       |        |     |
-| 2011年12月8日  | 瑪利歐&索尼克 倫敦奧運                                                                                   | [任天堂](../Page/任天堂.md "wikilink")                     | 5,800日圓 |    |    | [SIIJ](http://www.nintendo.co.jp/wii/siij/index.html) |        |     |
-| 2011年12月15日 | 家庭訓練機夢幻主題樂園                                                                                    |                                                      | 3,990日圓 |    |    |                                                       |        |     |
-| 2011年12月15日 | 魔法氣泡7                                                                                          | [SEGA](../Page/SEGA.md "wikilink")                   | 5,040日圓 |    |    |                                                       |        |     |
-| 2011年12月22日 | [閃電十一人 王牌前鋒2012 終極版](../Page/閃電十一人_王牌前鋒_2012_Xtreme.md "wikilink")                             | [LEVEL-5](../Page/LEVEL-5.md "wikilink")             | 4,980日圓 |    |    | [SEZJHF](http://www.inazuma.jp/strikers/)             |        |     |
+| 發布日期        | 標題                                                                                                                | 製造商出售                                                                   | 價格      | 在線 | 備考 | (日)                                                   | (美)    | (歐) |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------- | -- | -- | ----------------------------------------------------- | ------ | --- |
+| 2011年1月27日  | 雷射超人瘋狂兔子：時光旅行                                                                                                     | [育碧](https://zh.wikipedia.org/wiki/育碧軟體 "wikilink")                     | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年1月27日  | 夢幻終章                                                                                                              | [任天堂](../Page/任天堂.md "wikilink")                                        | 6,800日圓 |    |    | [SLSJ](http://www.nintendo.co.jp/wii/slsj/index.html) |        |     |
+| 2011年2月10日  | [戰國無雙3 猛將傳](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")                                                       |                                                                         | 3,990日圓 |    |    |                                                       |        |     |
+| 2011年2月24日  | 符文工廠 藍海奇緣                                                                                                         | [Marvelous AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink") | 7,140日圓 |    |    |                                                       |        |     |
+| 2011年2月24日  | SD鋼彈G世代 新世界                                                                                                       |                                                                         | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年3月24日  | 活祭之夜                                                                                                              | [Marvelous AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink") | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年4月21日  | 比利的軍事訓練營Wii 享受減肥                                                                                                  |                                                                         | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年4月21日  | 遊戲王5D's 決鬥狂熱者                                                                                                     | [KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")               | 8,379日圓 |    |    |                                                       |        |     |
+| 2011年5月26日  | 潘朵拉之塔 直到你身邊                                                                                                       | [任天堂](../Page/任天堂.md "wikilink")                                        | 6,800日圓 |    |    | [SX3J](http://www.nintendo.co.jp/wii/sx3j/index.html) |        |     |
+| 2011年6月23日  | 地球探尋者                                                                                                             |                                                                         | 7,140日圓 |    |    |                                                       |        |     |
+| 2011年6月30日  | 007：黄金眼                                                                                                           | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SJBJ](http://www.nintendo.co.jp/wii/sjbj/index.html) |        |     |
+| 2011年7月7日   | Wii遙控器Plus 動感歡樂組合                                                                                                 | [任天堂](../Page/任天堂.md "wikilink")                                        | 4,800日圓 |    |    | [SC8J](http://www.nintendo.co.jp/wii/sc8j/index.html) |        |     |
+| 2011年7月16日  | [閃電十一人 王牌前鋒](../Page/閃電十一人_王牌前鋒.md "wikilink")                                                                    | [LEVEL-5](../Page/LEVEL-5.md "wikilink")                                | 5,980日圓 |    |    |                                                       |        |     |
+| 2011年7月21日  | 全民節奏天國                                                                                                            | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SOMJ](http://www.nintendo.co.jp/wii/somj/index.html) |        |     |
+| 2011年7月28日  | 健身六法                                                                                                              | [育碧](../Page/育碧.md "wikilink")                                          | 5,040日圓 |    |    |                                                       |        |     |
+| 2011年8月4日   | 家庭釣魚                                                                                                              | バンダイナムコゲームス                                                             | 5,040日圓 |    |    |                                                       |        |     |
+| 2011年8月4日   | 傳奇米老鼠                                                                                                             | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SEMJ](http://www.nintendo.co.jp/wii/semj/index.html) | SEME4Q |     |
+| 2011年9月1日   | 人生遊戲 快樂家庭                                                                                                         | TAKARA TOMY                                                             | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年9月8日   | 超級戰隊大戰 群雄雲集                                                                                                       | BANDAI NAMCO Games                                                      | 4,440日圓 |    |    |                                                       |        |     |
+| 2011年9月15日  | 勇者鬥惡龍25周年紀念                                                                                                       | [SQEX](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")               | 7,140日圓 |    |    |                                                       |        |     |
+| 2011年9月22日  | 賽馬大亨世界                                                                                                            |                                                                         | 7,140日圓 |    |    |                                                       |        |     |
+| 2011年10月13日 | 舞力全開Wii                                                                                                           | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SD2J](http://www.nintendo.co.jp/wii/sd2j/index.html) |        |     |
+| 2011年10月20日 | 歡樂假期                                                                                                              |                                                                         | 5,800日圓 |    |    |                                                       |        |     |
+| 2011年10月27日 | 星之卡比Wii                                                                                                           | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SUKJ](http://www.nintendo.co.jp/wii/sukj/index.html) |        |     |
+| 2011年11月3日  | 世界足球競賽2012                                                                                                        | [KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")               | 4,980日圓 |    |    |                                                       |        |     |
+| 2011年11月10日 | 戰國BASARA3 宴                                                                                                       | [CAPCOM](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")               | 4,990日圓 |    |    |                                                       |        |     |
+| 2011年11月12日 | 神奇寶貝樂園2                                                                                                           | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [S2LJ](http://www.nintendo.co.jp/wii/s2lj/index.html) |        |     |
+| 2011年11月15日 | [馬里奧和索尼克在倫敦2012奧運會](https://zh.wikipedia.org/wiki/馬里奧和索尼克在倫敦2012奧運會 "wikilink")([Wii](../Page/Wii.md "wikilink")) | [Sega](https://zh.wikipedia.org/wiki/Sega "wikilink")                   | 4,990日圓 |    |    |                                                       |        |     |
+| 2011年11月23日 | 太鼓之達人Wii 決定版                                                                                                      | [Namco Bandai](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")        | 5,040日圓 |    |    | [1](http://app.bnfes.jp/sp/taikowii-ketteiban/)       |        |     |
+| 2011年11月23日 | [薩爾達傳說：天空之劍](https://zh.wikipedia.org/wiki/薩爾達傳說：Skyward_Sword "wikilink")                                        | [任天堂](../Page/任天堂.md "wikilink")                                        | 6,800日圓 |    |    | [SOUE01](http://www.nintendo.co.jp/wii/souj/)         |        |     |
+| 2011年12月1日  | 假面騎士 巔峰英雄FOURZE                                                                                                   |                                                                         | 6,280日圓 |    |    |                                                       |        |     |
+| 2011年12月1日  | 人生街道Wii                                                                                                           | [SQEX](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")               | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年12月8日  | Wii麥可傑克森：飆體驗                                                                                                      | [育碧](../Page/育碧.md "wikilink")                                          | 6,279日圓 |    |    |                                                       |        |     |
+| 2011年12月8日  | 極速快感 亡命天涯                                                                                                         | [EA](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")                     | 6,090日圓 |    |    |                                                       |        |     |
+| 2011年12月8日  | 瑪利歐&索尼克 倫敦奧運                                                                                                      | [任天堂](../Page/任天堂.md "wikilink")                                        | 5,800日圓 |    |    | [SIIJ](http://www.nintendo.co.jp/wii/siij/index.html) |        |     |
+| 2011年12月15日 | 家庭訓練機夢幻主題樂園                                                                                                       |                                                                         | 3,990日圓 |    |    |                                                       |        |     |
+| 2011年12月15日 | 魔法氣泡7                                                                                                             | [SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")                   | 5,040日圓 |    |    |                                                       |        |     |
+| 2011年12月22日 | [閃電十一人 王牌前鋒2012 終極版](https://zh.wikipedia.org/wiki/閃電十一人_王牌前鋒_2012_Xtreme "wikilink")                             | [LEVEL-5](../Page/LEVEL-5.md "wikilink")                                | 4,980日圓 |    |    | [SEZJHF](http://www.inazuma.jp/strikers/)             |        |     |
 
 ## 2012年
 
-| 發布日期        | 標題                        | 製造商出售                                         | 價格      | 在線 | 備考 | (日)                                                   | (美) | (歐) |
-| ----------- | ------------------------- | --------------------------------------------- | ------- | -- | -- | ----------------------------------------------------- | --- | --- |
-| 2012年1月19日  | キキトリック                    | [任天堂](../Page/任天堂.md "wikilink")              | 5,800日圓 |    |    | [ST3J](http://www.nintendo.co.jp/wii/st3j/index.html) |     |     |
-| 2012年4月26日  | 瑪利歐派對9                    | [任天堂](../Page/任天堂.md "wikilink")              | 5,800日圓 |    |    | [SSQJ](http://www.nintendo.co.jp/wii/ssqj/index.html) |     |     |
-| 2012年6月28日  | 零 ～眞紅の蝶～                  | [任天堂](../Page/任天堂.md "wikilink")              | 6,800日圓 |    |    | [SL2J](http://www.nintendo.co.jp/wii/sl2j/index.html) |     |     |
-| 2012年7月19日  | 星のカービィ 20周年スペシャルコレクション    | [任天堂](../Page/任天堂.md "wikilink")              | 3,800日圓 |    |    | [S72J](http://www.nintendo.co.jp/wii/s72j/index.html) |     |     |
-| 2012年8月2日   | ドラゴンクエストX 目覚めし五つの種族 オンライン | [SQEX](../Page/史克威爾艾尼克斯.md "wikilink")        |         |    |    |                                                       |     |     |
-| 2012年11月29日 | 太鼓之達人Wii 超豪華版             | [Namco Bandai](../Page/万代南梦宫游戏.md "wikilink") | 5,080日圓 |    |    | [S5KJAF](http://wii5.taiko-ch.net/)                   |     |     |
-| 2012年12月20日 | 閃電十一人GO王牌前鋒2013           | [LEVEL-5](../Page/LEVEL-5.md "wikilink")      | 4,980日圓 |    |    | [S5SJHF](http://www.inazuma.jp/gostrikers/)           |     |     |
+| 發布日期        | 標題                        | 製造商出售                                                            | 價格      | 在線 | 備考 | (日)                                                   | (美) | (歐) |
+| ----------- | ------------------------- | ---------------------------------------------------------------- | ------- | -- | -- | ----------------------------------------------------- | --- | --- |
+| 2012年1月19日  | キキトリック                    | [任天堂](../Page/任天堂.md "wikilink")                                 | 5,800日圓 |    |    | [ST3J](http://www.nintendo.co.jp/wii/st3j/index.html) |     |     |
+| 2012年4月26日  | 瑪利歐派對9                    | [任天堂](../Page/任天堂.md "wikilink")                                 | 5,800日圓 |    |    | [SSQJ](http://www.nintendo.co.jp/wii/ssqj/index.html) |     |     |
+| 2012年6月28日  | 零 ～眞紅の蝶～                  | [任天堂](../Page/任天堂.md "wikilink")                                 | 6,800日圓 |    |    | [SL2J](http://www.nintendo.co.jp/wii/sl2j/index.html) |     |     |
+| 2012年7月19日  | 星のカービィ 20周年スペシャルコレクション    | [任天堂](../Page/任天堂.md "wikilink")                                 | 3,800日圓 |    |    | [S72J](http://www.nintendo.co.jp/wii/s72j/index.html) |     |     |
+| 2012年8月2日   | ドラゴンクエストX 目覚めし五つの種族 オンライン | [SQEX](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")        |         |    |    |                                                       |     |     |
+| 2012年11月29日 | 太鼓之達人Wii 超豪華版             | [Namco Bandai](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink") | 5,080日圓 |    |    | [S5KJAF](http://wii5.taiko-ch.net/)                   |     |     |
+| 2012年12月20日 | 閃電十一人GO王牌前鋒2013           | [LEVEL-5](../Page/LEVEL-5.md "wikilink")                         | 4,980日圓 |    |    | [S5SJHF](http://www.inazuma.jp/gostrikers/)           |     |     |
 
 ## 非賣品
 
-  - （[日本可口可樂](../Page/日本可口可樂.md "wikilink")）
+  - （[日本可口可樂](https://zh.wikipedia.org/wiki/日本可口可樂 "wikilink")）
 
 <!-- end list -->
 
   -
-    2007年5月－8月，[水瓶座運動飲料的應募獎品](../Page/水瓶座運動飲料.md "wikilink")。
+    2007年5月－8月，[水瓶座運動飲料的應募獎品](https://zh.wikipedia.org/wiki/水瓶座運動飲料 "wikilink")。
 
 <!-- end list -->
 
   - （[日產汽車](../Page/日產汽車.md "wikilink")／開發：[AQ
-    Interactive](../Page/AQ_Interactive.md "wikilink")）
+    Interactive](https://zh.wikipedia.org/wiki/AQ_Interactive "wikilink")）
 
 <!-- end list -->
 

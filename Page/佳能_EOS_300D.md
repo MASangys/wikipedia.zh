@@ -1,17 +1,17 @@
 **佳能 EOS 300D**,
-又称为（[北美市场](../Page/北美.md "wikilink")）和（[日本市场](../Page/日本.md "wikilink")），是[佳能推出的一款](../Page/佳能.md "wikilink")630萬[像素级别的](../Page/像素.md "wikilink")[數位单镜反光相机](../Page/數位单镜反光相机.md "wikilink")，在2003年8月20日正式发布，发布价格单机899[美元](../Page/美元.md "wikilink")，和镜头套装999美元，使用[CF卡作为存储介质存储](../Page/CF卡.md "wikilink")。
+又称为（[北美市场](https://zh.wikipedia.org/wiki/北美 "wikilink")）和（[日本市场](../Page/日本.md "wikilink")），是[佳能推出的一款](../Page/佳能.md "wikilink")630萬[像素级别的](../Page/像素.md "wikilink")[數位单镜反光相机](https://zh.wikipedia.org/wiki/數位单镜反光相机 "wikilink")，在2003年8月20日正式发布，发布价格单机899[美元](../Page/美元.md "wikilink")，和镜头套装999美元，使用[CF卡作为存储介质存储](https://zh.wikipedia.org/wiki/CF卡 "wikilink")。
 
 ## 影響
 
 佳能 EOS
-300D是全球第一部定價低於1000美元的[數位单镜反光相机](../Page/數位单镜反光相机.md "wikilink")，其他相機廠商也在其後相继推出定價低於1000美元的數位单镜反光相机，這個價格很多地區的消費者都能購買，影像質數令消費者接受，間接令數位单镜反光相机普及化。
+300D是全球第一部定價低於1000美元的[數位单镜反光相机](https://zh.wikipedia.org/wiki/數位单镜反光相机 "wikilink")，其他相機廠商也在其後相继推出定價低於1000美元的數位单镜反光相机，這個價格很多地區的消費者都能購買，影像質數令消費者接受，間接令數位单镜反光相机普及化。
 
 ## 參看
 
-  - [Canon EOS](../Page/Canon_EOS.md "wikilink")
+  - [Canon EOS](https://zh.wikipedia.org/wiki/Canon_EOS "wikilink")
   - [佳能 EOS 350D](../Page/佳能_EOS_350D.md "wikilink")
   - [佳能 EOS 400D](../Page/佳能_EOS_400D.md "wikilink")
-  - [尼康 D70](../Page/尼康_D70.md "wikilink")
+  - [尼康 D70](https://zh.wikipedia.org/wiki/尼康_D70 "wikilink")
 
 ## 外部链接
 
@@ -40,7 +40,8 @@
     Wiki](https://web.archive.org/web/20061201051330/http://www.alexbernstein.com/wiki/CanonDigitalRebelHacking)
   - [Canon Digicam
     Hacking](http://groups.yahoo.com/group/canondigicamhacking/) at
-    [Yahoo\! Groups](../Page/Yahoo!_Groups.md "wikilink")
+    [Yahoo\!
+    Groups](https://zh.wikipedia.org/wiki/Yahoo!_Groups "wikilink")
 
 [Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

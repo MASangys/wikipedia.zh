@@ -1,20 +1,20 @@
 <onlyinclude></onlyinclude>
 
 **Sudo** （**s**ubstitute **u**ser \[或 **s**uper**u**ser\]
-**do**），是一種[程式](../Page/電腦程式.md "wikilink")，用於[類Unix](../Page/類Unix系統.md "wikilink")[作業系統如](../Page/作業系統.md "wikilink")[BSD](../Page/BSD.md "wikilink")，[Mac
+**do**），是一種[程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")，用於[類Unix](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")[作業系統如](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[BSD](../Page/BSD.md "wikilink")，[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")，以及[GNU/Linux以允許使用者透過安全的方式使用特殊的權限執行程式](../Page/GNU/Linux.md "wikilink")
-（通常為[系統的](../Page/作業系統.md "wikilink")[超級使用者](../Page/超級使用者.md "wikilink")）。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及[GNU/Linux以允許使用者透過安全的方式使用特殊的權限執行程式](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")
+（通常為[系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[超級使用者](https://zh.wikipedia.org/wiki/超級使用者 "wikilink")）。
 
 ## 原理
 
 在sudo於1980年前後被寫出之前\[1\]，一般使用者管理系統的方式是利用
-[`su`](../Page/su_\(Unix\).md "wikilink")
+[`su`](https://zh.wikipedia.org/wiki/su_\(Unix\) "wikilink")
 切換為超級使用者。但是使用su的缺點之一在於必須要先告知超級使用者的密碼。
 
-sudo使一般使用者不需要知道超級使用者的密碼即可獲得權限。首先超級使用者將普通用户的名字、可以执行的特定命令、按照哪种用户或用户组的身份执行等信息，登記在特殊的檔案中（通常是`/etc/sudoers`），即完成對該使用者的授權（此時該使用者稱為「sudoer」）\[2\]；在一般使用者需要取得特殊權限時，其可在命令前加上「`sudo`」，此時sudo將會詢問該使用者**自己的**密碼（以確認終端機前的是該使用者本人），回答後系統即會將該命令的[-{zh-tw:行程;zh-cn:进程}-以超級使用者的權限執行](../Page/进程.md "wikilink")。之後的一段時間內（預設為5分鐘\[3\]，可在`/etc/sudoers`自訂），使用sudo不需要再次輸入密碼。
+sudo使一般使用者不需要知道超級使用者的密碼即可獲得權限。首先超級使用者將普通用户的名字、可以执行的特定命令、按照哪种用户或用户组的身份执行等信息，登記在特殊的檔案中（通常是`/etc/sudoers`），即完成對該使用者的授權（此時該使用者稱為「sudoer」）\[2\]；在一般使用者需要取得特殊權限時，其可在命令前加上「`sudo`」，此時sudo將會詢問該使用者**自己的**密碼（以確認終端機前的是該使用者本人），回答後系統即會將該命令的[-{zh-tw:行程;zh-cn:进程}-以超級使用者的權限執行](https://zh.wikipedia.org/wiki/进程 "wikilink")。之後的一段時間內（預設為5分鐘\[3\]，可在`/etc/sudoers`自訂），使用sudo不需要再次輸入密碼。
 
-由於不需要超級使用者的密碼，部分Unix系統甚至利用sudo使一般使用者取代超級使用者作為管理帳號，例如[Ubuntu](../Page/Ubuntu.md "wikilink")、[macOS等](../Page/macOS.md "wikilink")。
+由於不需要超級使用者的密碼，部分Unix系統甚至利用sudo使一般使用者取代超級使用者作為管理帳號，例如[Ubuntu](../Page/Ubuntu.md "wikilink")、[macOS等](https://zh.wikipedia.org/wiki/macOS "wikilink")。
 
 ## 语法
 

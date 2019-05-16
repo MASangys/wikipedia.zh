@@ -1,22 +1,22 @@
 **GeForce
-7**是[NVIDIA第七代](../Page/NVIDIA.md "wikilink")[繪圖處理器的總稱](../Page/GPU.md "wikilink")，3D引擎升級為CineFX
+7**是[NVIDIA第七代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[繪圖處理器的總稱](https://zh.wikipedia.org/wiki/GPU "wikilink")，3D引擎升級為CineFX
 4.0。全系列繪圖晶片是原生PCI-E，並沒有原生[AGP產品推出过](../Page/AGP.md "wikilink")。与[GeForce
-6一样](../Page/GeForce_6.md "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink")
+6一样](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink")
 9.0c，Shader Model 3.0, [OpenGL](../Page/OpenGL.md "wikilink")
-2.0，[HDR](../Page/高動態光照渲染.md "wikilink")。nVidia聲稱GeForce 7的[Pixel
-Shader單元運算能力比GeForce](../Page/像素著色引擎.md "wikilink")
+2.0，[HDR](https://zh.wikipedia.org/wiki/高動態光照渲染 "wikilink")。nVidia聲稱GeForce
+7的[Pixel Shader單元運算能力比GeForce](../Page/像素著色引擎.md "wikilink")
 6強兩倍。不少人認為G70核心只是舊NV40的改良版。
 
 Geforce 7800 GTX（核心代號為G70），核心採用較成熟的TSMC
-0.11微米制程，而不是[90奈米制程](../Page/90纳米制程.md "wikilink")。可能NVIDIA吸取了當年NV30太早引進[0.13微米製程的教訓](../Page/0.13微米製程.md "wikilink")，良率很差。而ATi則採用不成熟的90奈米制程，令[Radeon
-X1000系列延期很久才能推出](../Page/Radeon_X1_Series.md "wikilink")。
+0.11微米制程，而不是[90奈米制程](../Page/90纳米制程.md "wikilink")。可能NVIDIA吸取了當年NV30太早引進[0.13微米製程的教訓](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")，良率很差。而ATi則採用不成熟的90奈米制程，令[Radeon
+X1000系列延期很久才能推出](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")。
 
 ## CineFX 4.0引擎
 
   - 重新設計Vertex Shader引擎 - 支援Vertex Shader 3.0，優化了Triangle Setup
     Unit，加快3D模型的建立速度。
   - Pixel Shader引擎 - 支援Pixel Shader
-    3.0，加強了對（[MADD](../Page/MADD.md "wikilink")）的運算，速度是上代NV40的兩倍。
+    3.0，加強了對（[MADD](https://zh.wikipedia.org/wiki/MADD "wikilink")）的運算，速度是上代NV40的兩倍。
   - HDR
   - Anti-Aliasing - 支援IntelliSample 4.0，支援16x非等方濾鏡
 
@@ -58,7 +58,7 @@ Nvidia G71顯示晶片\]\]
   - 電晶體數目：1億1千2百萬
   - 製程：0.09微米
   - 支援SLi
-  - 支持[TurboCache](../Page/TurboCache.md "wikilink")
+  - 支持[TurboCache](https://zh.wikipedia.org/wiki/TurboCache "wikilink")
 
 ### G73
 
@@ -82,14 +82,14 @@ Nvidia G71顯示晶片\]\]
 ### GeForce 7200
 
   - GeForce 7200 GS（G72核心）-
-    2條像素流水線，官方規格450/800，採用GDDR2記憶體，支持[TurboCache](../Page/TurboCache.md "wikilink")
+    2條像素流水線，官方規格450/800，採用GDDR2記憶體，支持[TurboCache](https://zh.wikipedia.org/wiki/TurboCache "wikilink")
 
 ### GeForce 7300
 
   - GeForce 7300 LE（G72核心）-
-    完整架構，跟GS只有時脈上的差別（450/700），支持[TurboCache](../Page/TurboCache.md "wikilink")
+    完整架構，跟GS只有時脈上的差別（450/700），支持[TurboCache](https://zh.wikipedia.org/wiki/TurboCache "wikilink")
   - GeForce 7300 GS（G72核心）- 完整架構，時脈550/800，對抗ATi的X1300
-    Pro，支持[TurboCache](../Page/TurboCache.md "wikilink")
+    Pro，支持[TurboCache](https://zh.wikipedia.org/wiki/TurboCache "wikilink")
   - GeForce 7300 GT（G73核心）-
     8條像素流水線，4個頂點著色單元，官方規格350/667，官方規格採用GDDR2記憶體，用以填補7300GS和7600GS之間的效能空檔，對抗ATi的X1300XT
 
@@ -127,11 +127,11 @@ Nvidia G71顯示晶片\]\]
   - GeForce 7900 GTX（G71核心）- 完整架構，官方規格採用136Ball 1.1ns
     GDDR3記憶體，512MB記憶體，時脈650/1600，核心電壓1.4V,12層PCB設計，對抗ATi的X1800XL,X1900GT
   - GeForce 7900 GX2（G71核心）-
-    利用[BR03接橋各用](../Page/NVIDIA_BR03.md "wikilink")16條PCI-E
+    利用[BR03接橋各用](https://zh.wikipedia.org/wiki/NVIDIA_BR03 "wikilink")16條PCI-E
     Lanes把兩顆建於不同PCB的G71核心連接起來的顯示卡，再用16條PCI-E
     Lanes向外溝通，時脈500/1200，擁有1GB/512-Bit記憶體，並支援Quad
-    SLi，[PCB相對於](../Page/PCB.md "wikilink")7950
-    GX2要長，只能裝在[E-ATX規格的機殼中](../Page/ATX規格.md "wikilink")，所以只針對[OEM市場銷售](../Page/OEM.md "wikilink")，但也有部分生產商推出過[零售版本的](../Page/零售.md "wikilink")7900
+    SLi，[PCB相對於](https://zh.wikipedia.org/wiki/PCB "wikilink")7950
+    GX2要長，只能裝在[E-ATX規格的機殼中](../Page/ATX規格.md "wikilink")，所以只針對[OEM市場銷售](https://zh.wikipedia.org/wiki/OEM "wikilink")，但也有部分生產商推出過[零售版本的](../Page/零售.md "wikilink")7900
     GX2。實際上7900 GX2是整個GeForce 7系列效能最強的顯示卡。在後期的驅動程式中，7900 GX2亦改名成為7950
     GX2\[2\]
 
@@ -140,7 +140,7 @@ Nvidia G71顯示晶片\]\]
   - GeForce 7950 GT（G71核心）- 核心频率为550MHz，拥有24 Pixel Shader流水线，對抗ATi的X1950
     Pro，取代7900GT
   - GeForce 7950 GX2（G71核心）-
-    利用[BR03接橋各用](../Page/NVIDIA_BR03.md "wikilink")8條PCI-E
+    利用[BR03接橋各用](https://zh.wikipedia.org/wiki/NVIDIA_BR03 "wikilink")8條PCI-E
     Lanes把兩顆建於不同PCB的G71核心連接起來的顯示卡，再用16條PCI-E Lanes向外溝通，時脈與7900
     GX2一樣為500/1200，擁有1GB/512-Bit記憶體，並支援Quad SLi，PCB設計較7900
     GX2有所簡化，效能較7900 GX2稍低，但功耗發熱大幅減少，是7900 GX2的改進型產品
@@ -162,10 +162,11 @@ NVIDIA在2013年以後停止對NVIDIA GeForce 8以前的顯示驅動程式支援
 
 ## 相關條目
 
-  - [GeForce 7系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_7.md "wikilink")
+  - [GeForce
+    7系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_7 "wikilink")
   - [GeForce Go
-    7系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_Go_7.md "wikilink")
-  - [Radeon R520](../Page/Radeon_R520.md "wikilink")
+    7系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_Go_7 "wikilink")
+  - [Radeon R520](https://zh.wikipedia.org/wiki/Radeon_R520 "wikilink")
 
 ## 參考鏈接
 

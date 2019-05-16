@@ -1,4 +1,4 @@
-**Pike**是一種高階，跨平台的[電腦](../Page/電腦.md "wikilink")[程式語言](../Page/程式語言.md "wikilink")，其語法與[C語言相近](../Page/C語言.md "wikilink")。Pike是屬於[自由軟體](../Page/自由軟體.md "wikilink")，它在[GPL](../Page/GPL.md "wikilink")、[LGPL以及](../Page/LGPL.md "wikilink")[MPL之下發表](../Page/MPL.md "wikilink")。
+**Pike**是一種高階，跨平台的[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，其語法與[C語言相近](https://zh.wikipedia.org/wiki/C語言 "wikilink")。Pike是屬於[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，它在[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[LGPL以及](https://zh.wikipedia.org/wiki/LGPL "wikilink")[MPL之下發表](https://zh.wikipedia.org/wiki/MPL "wikilink")。
 
 ## 参见
 

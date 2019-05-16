@@ -1,9 +1,9 @@
 **-{zh:TVBS-Asia;zh-hans:TVBS-Asia;zh-hant:TVBS-Asia;zh-hk:無線衛星亞洲台;zh-tw:TVBS-Asia;zh-mo:無線衛星亞洲台;}-**（-{zh:香港又稱作**無線衛星亞洲台**;
 zh-hans:香港myTV SUPER称作**无线卫星亚洲台**; zh-hant:香港myTV SUPER稱作**無線衛星亞洲台**;
 zh-hk:; zh-tw:香港myTV
-SUPER又稱作**無線衛星亞洲台**;}-），是[台灣](../Page/台灣.md "wikilink")[TVBS旗下的海外](../Page/TVBS.md "wikilink")[電視頻道](../Page/電視頻道.md "wikilink")。
+SUPER又稱作**無線衛星亞洲台**;}-），是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS旗下的海外](https://zh.wikipedia.org/wiki/TVBS "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")。
 
-TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[國語播放TVBS節目](../Page/現代標準漢語.md "wikilink")，包括新聞報道、娛樂、劇集綜藝及音樂流行，也會播放外購劇集、動畫、綜藝節目。TVBS-Asia可於大部份亞洲地區、[澳洲及](../Page/澳洲.md "wikilink")[北美等地透過](../Page/北美.md "wikilink")[衛星電視和](../Page/衛星電視.md "wikilink")[IPTV接收](../Page/IPTV.md "wikilink")，節目編排視乎收視地區而略有不同。
+TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[國語播放TVBS節目](../Page/現代標準漢語.md "wikilink")，包括新聞報道、娛樂、劇集綜藝及音樂流行，也會播放外購劇集、動畫、綜藝節目。TVBS-Asia可於大部份亞洲地區、[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[北美等地透過](https://zh.wikipedia.org/wiki/北美 "wikilink")[衛星電視和](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[IPTV接收](../Page/IPTV.md "wikilink")，節目編排視乎收視地區而略有不同。
 
 ## 現時播出節目
 
@@ -37,12 +37,12 @@ TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[
 <td><p>重播:星期六 22:00-23:00</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/食尚玩家-來去住一晚.md" title="wikilink">食尚玩家-來去住一晚</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/食尚玩家-來去住一晚" title="wikilink">食尚玩家-來去住一晚</a>》</p></td>
 <td><p>星期五 18:00-19:00</p></td>
 <td><p>重播:星期日 22:00-23:00</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/上班这党事.md" title="wikilink">上班这党事</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/上班这党事" title="wikilink">上班这党事</a>》</p></td>
 <td><p>星期一至四 22:00-23:00</p></td>
 <td></td>
 </tr>
@@ -52,7 +52,7 @@ TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/中國進行式.md" title="wikilink">中國進行式</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/中國進行式" title="wikilink">中國進行式</a>》</p></td>
 <td><p>星期日 17:00-18:00</p></td>
 <td></td>
 </tr>
@@ -67,7 +67,7 @@ TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/TVBS看板人物.md" title="wikilink">TVBS看板人物</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/TVBS看板人物" title="wikilink">TVBS看板人物</a>》</p></td>
 <td><p>星期六 16:00-17:00</p></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@ TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[
 <td><p><strong>直播</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/少康战情室.md" title="wikilink">少康战情室</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/少康战情室" title="wikilink">少康战情室</a>》</p></td>
 <td><p>星期一至五 07:00-09:00</p></td>
 <td></td>
 </tr>
@@ -116,7 +116,7 @@ TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[
 <tr class="even">
 <td><p>《<a href="../Page/天才衝衝衝.md" title="wikilink">天才衝衝衝</a>》</p></td>
 <td><p>星期六、日 18:00-20:00</p></td>
-<td><p><a href="../Page/華視.md" title="wikilink">華視節目</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視節目</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

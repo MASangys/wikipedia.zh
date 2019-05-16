@@ -1,8 +1,8 @@
 **Windows Live Spaces**（或称：**Windows Live -{zh-hans:共享空间;
 zh-hant:分享空間;}-**；前身：**MSN
-Spaces**）是[微软的](../Page/微软.md "wikilink")[博客和](../Page/博客.md "wikilink")[社交网络平台](../Page/社交網路服務.md "wikilink")。它是微软[live.com旗下的产品](../Page/live.com.md "wikilink")，也是MSN
+Spaces**）是[微软的](../Page/微软.md "wikilink")[博客和](https://zh.wikipedia.org/wiki/博客 "wikilink")[社交网络平台](../Page/社交網路服務.md "wikilink")。它是微软[live.com旗下的产品](https://zh.wikipedia.org/wiki/live.com "wikilink")，也是MSN
 Spaces的後續版本。用户可以通过Windows Live
-Spaces发布[網誌内容](../Page/網誌.md "wikilink")、[照片等](../Page/照片.md "wikilink")。同时Windows
+Spaces发布[網誌内容](../Page/網誌.md "wikilink")、[照片等](https://zh.wikipedia.org/wiki/照片 "wikilink")。同时Windows
 Live Spaces与[Windows Live
 Messenger有紧密联系](../Page/Windows_Live_Messenger.md "wikilink")，包括更新時在[Windows
 Live
@@ -13,11 +13,12 @@ Spaces服务，与[WordPress.com合作](../Page/WordPress.com.md "wikilink")，�
 
 ## 历史
 
-MSN Spaces在2004年12月初在[韓國最先推出](../Page/韓國.md "wikilink")，最初命名為“MSN
+MSN
+Spaces在2004年12月初在[韓國最先推出](https://zh.wikipedia.org/wiki/韓國 "wikilink")，最初命名為“MSN
 Hompy”，是[MSN
-Messenger的附加服務](../Page/MSN_Messenger.md "wikilink")，本來是要付費的[增值服務](../Page/增值服務.md "wikilink")；後來改為免費版，並加入[日本作測試地點](../Page/日本.md "wikilink")，測試期間不收取任何費用。再後來，微軟把有關界面[英語化](../Page/英語.md "wikilink")，並讓其他地區的用戶進行測試。微软於2004年12月1日正式宣佈有關計劃，並開放讓公眾測試。2005年4月7日发行正式版\[2\]，并且有[简体中文版和](../Page/简体中文.md "wikilink")[繁体中文版](../Page/繁体中文.md "wikilink")、[日文版等不同語言的版本](../Page/日文.md "wikilink")。正式版推出后，在收費模式上MSN
+Messenger的附加服務](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")，本來是要付費的[增值服務](https://zh.wikipedia.org/wiki/增值服務 "wikilink")；後來改為免費版，並加入[日本作測試地點](../Page/日本.md "wikilink")，測試期間不收取任何費用。再後來，微軟把有關界面[英語化](https://zh.wikipedia.org/wiki/英語 "wikilink")，並讓其他地區的用戶進行測試。微软於2004年12月1日正式宣佈有關計劃，並開放讓公眾測試。2005年4月7日发行正式版\[2\]，并且有[简体中文版和](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[繁体中文版](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")、[日文版等不同語言的版本](https://zh.wikipedia.org/wiki/日文 "wikilink")。正式版推出后，在收費模式上MSN
 Spaces採用與Hotmail或[MSN
-Groups](../Page/MSN_Groups.md "wikilink")（MSN社群）類似的服務模式：免費用戶與付費用戶同時存在，但付費用戶可以享用較大的儲存空間和更多的服务。
+Groups](https://zh.wikipedia.org/wiki/MSN_Groups "wikilink")（MSN社群）類似的服務模式：免費用戶與付費用戶同時存在，但付費用戶可以享用較大的儲存空間和更多的服务。
 
 从7.0版本起，MSN Messenger与MSN Spaces进行整合。\[3\]MSN
 Messenger的用户可以通过-{zh-hant:聯絡人;zh-hans:联系人}-卡片等方式了解某一-{zh-hant:聯絡人;zh-hans:联系人}-的MSN
@@ -33,7 +34,8 @@ Live
 Spaces，不过之后就需要切换到WordPress.com或者将原有博客内容下载到自己的计算机上。\[4\]由于[中国大陆访问WordPress](../Page/中国大陆.md "wikilink").com不稳定，Live
 Spaces中国官方筹备了一个“本地解决方案”，将[新浪博客做为中国大陆唯一官方合作伙伴](../Page/新浪博客.md "wikilink")。\[5\]
 
-現在,訪問Windows Live Spaces的用戶被[重定向到](../Page/重定向.md "wikilink")[Windows
+現在,訪問Windows Live
+Spaces的用戶被[重定向到](https://zh.wikipedia.org/wiki/重定向 "wikilink")[Windows
 Live ID的登入頁](https://login.live.com)。
 
 ## 功能
@@ -43,7 +45,7 @@ Live ID的登入頁](https://login.live.com)。
 Windows Live Spaces的基本要素包括：
 
   - **日志** -
-    包括对评论、[引用通告和](../Page/Trackback.md "wikilink")[RSS的支持](../Page/RSS.md "wikilink")；
+    包括对评论、[引用通告和](https://zh.wikipedia.org/wiki/Trackback "wikilink")[RSS的支持](../Page/RSS.md "wikilink")；
   - **-{zh-hans:照片; zh-hant:相片;}-** - 包括对相册、评论和RSS的支持；
   - **-{zh-hans:自定义列表; zh-hant:自訂清單;}-** - 包括音乐列表、电影列表、图书列表和对RSS的支持；
   - **朋友** - 包括为朋友加上标签和注释的功能以及对RSS的支持；
@@ -67,7 +69,7 @@ Live Gallery中。
 \-{zh-hans:联系人; zh-hant:聯絡人;}-卡片可以简要显示某一用户近期对其Windows Live
 Spaces所做的更新。-{zh-hans:联系人; zh-hant:聯絡人;}-卡片被整合到Windows Live
 Messenger、[Windows Live Web
-Messenger及](../Page/Windows_Live_Messenger#Windows_Live_Web_Messenger.md "wikilink")[Hotmail联系人中](../Page/Hotmail.md "wikilink")。单击-{zh-hans:联系人;
+Messenger及](https://zh.wikipedia.org/wiki/Windows_Live_Messenger#Windows_Live_Web_Messenger "wikilink")[Hotmail联系人中](https://zh.wikipedia.org/wiki/Hotmail "wikilink")。单击-{zh-hans:联系人;
 zh-hant:聯絡人;}-列表中某一用户的头像，此人的-{zh-hans:联系人;
 zh-hant:聯絡人;}-卡片就会出现，从中可以看到此人最近上传的照片、最近日志的摘要以及最近在听的音乐等内容。
 
@@ -85,7 +87,7 @@ MSN Spaces的用户可以利用一些PowerToy来进一步个性化自己的空�
 Player”PowerToy可以让用户在自己的MSN Space上播放音乐和视频，“Tweak
 UI”PowerToy可以让用户更为灵活地调整自己MSN
 Space某些方面的风格、颜色以及透明度，而“Custom
-HTML”PowerToy可以让用户调用少量自己编写的[HTML代码](../Page/HTML代码.md "wikilink")。
+HTML”PowerToy可以让用户调用少量自己编写的[HTML代码](https://zh.wikipedia.org/wiki/HTML代码 "wikilink")。
 
 所有PowerToy中的功能都是测试性的，用户惟有通过在网址后加入特定代码才能向空间中加入PowerToy\[6\]。
 
@@ -109,14 +111,16 @@ Spaces将所有模块居中对齐，并且看起来在1024×768像素的分辨�
 
 ### 网址
 
-所有MSN Spaces成员的[网址都已被修改](../Page/网址.md "wikilink")，以便和Windows
-Live的称谓相符。（例如thespacecraft.spaces.msn.com被改为thespacecraft.spaces.live.com。）从前的网址被保留用以[重定向](../Page/重定向.md "wikilink")。
+所有MSN
+Spaces成员的[网址都已被修改](https://zh.wikipedia.org/wiki/网址 "wikilink")，以便和Windows
+Live的称谓相符。（例如thespacecraft.spaces.msn.com被改为thespacecraft.spaces.live.com。）从前的网址被保留用以[重定向](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
 
 ### 广告
 
 MSN Spaces放置小型文字广告，这些广告置于页面顶端并经常配有小图标。
 
-Windows Live Spaces最初以[GIF动画和](../Page/GIF动画.md "wikilink")[Adobe
+Windows Live
+Spaces最初以[GIF动画和](https://zh.wikipedia.org/wiki/GIF动画 "wikilink")[Adobe
 Flash的形式在顶部放置一条标准大小的横幅广告](../Page/Adobe_Flash.md "wikilink")，享用Windows
 Live增值服务的用户可以选择关闭这些广告。但后来因放置大幅广告的做法引起用户的普遍不满而且广告效果也不甚理想\[8\]，在2008年12月的升级中，微软取消了Windows
 Live Spaces顶部的广告，至此整个空间已基本上没有了广告。
@@ -130,11 +134,11 @@ Spaces的离线日志编辑软件。借助这个“所见即所得”编辑软�
 
 目前Windows Live Spaces最适合用[Internet
 Explorer浏览](../Page/Internet_Explorer.md "wikilink")。使用较旧版本的[Mozilla
-Firefox的一些用户会发现共享空间根本无法使用](../Page/Mozilla_Firefox.md "wikilink")（浏览器会报“missing
+Firefox的一些用户会发现共享空间根本无法使用](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（浏览器会报“missing
 framework”错误）。较新版本的Firefox（2.0以上）在查看和编辑页面时仍会出错，例如无法显示和运行[Windows Media
-Player音乐播放模块等](../Page/Windows_Media_Player.md "wikilink")。其他的用户则可能发现页面会偶尔不能正常显示。不过现在一些Firefox错误，诸如“missing
+Player音乐播放模块等](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")。其他的用户则可能发现页面会偶尔不能正常显示。不过现在一些Firefox错误，诸如“missing
 framework”错误和无法通过Firefox在空间上发表评论等，似乎已经被修复。此外，[Mac OS
-X浏览器和](../Page/Mac_OS_X.md "wikilink")[Safari浏览器的用户无法更换空间主题](../Page/Safari.md "wikilink")。
+X浏览器和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Safari浏览器的用户无法更换空间主题](../Page/Safari.md "wikilink")。
 
 ## 言论限制
 
@@ -148,14 +152,15 @@ Live行为准则的词语，用户发布的網誌以及上传的照片等也在�
 ### 在中國的言論牽制
 
 在[中國大陸市場](../Page/中國.md "wikilink")，Windows Live
-Spaces有時會禁止用戶在空間名稱及日誌中使用諸如「[民主](../Page/民主.md "wikilink")」、「[自由](../Page/自由.md "wikilink")」等敏感字眼，以免引起[北京政府新聞審核人員的不悅](../Page/北京.md "wikilink")。\[9\]因为这些限制，Windows
+Spaces有時會禁止用戶在空間名稱及日誌中使用諸如「[民主](../Page/民主.md "wikilink")」、「[自由](../Page/自由.md "wikilink")」等敏感字眼，以免引起[北京政府新聞審核人員的不悅](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[9\]因为这些限制，Windows
 Live
-Spaces可能會不定時無法訪問，部分人士的部落格可能會被過濾或只有中國大陸以外才可以瀏覽，這和[GFW及微軟的](../Page/GFW.md "wikilink")[IP識別有關](../Page/IP.md "wikilink")。
+Spaces可能會不定時無法訪問，部分人士的部落格可能會被過濾或只有中國大陸以外才可以瀏覽，這和[GFW及微軟的](https://zh.wikipedia.org/wiki/GFW "wikilink")[IP識別有關](https://zh.wikipedia.org/wiki/IP "wikilink")。
 
 Windows Live Spaces（包括MSN
 Spaces）曾多次因網站内存有敏感内容等原因在中國大陸地區被屏蔽。例如，從2008年10月31日起，[[http://spaces.live.com/\]一度无法登入访问，只有\[http://](http://spaces.live.com/%5D一度无法登入访问，只有%5Bhttp://)\*.spaces.live.com/
 <http://>\*.spaces.live.com/](http://spaces.live.com/)仍可以访问，这样，用户无法登入发表網誌，只可以通過借用[Windows
-Live Writer](../Page/Windows_Live_Writer.md "wikilink")-{zh-hans:软件;
+Live
+Writer](https://zh.wikipedia.org/wiki/Windows_Live_Writer "wikilink")-{zh-hans:软件;
 zh-hant:軟体;}-等方式发表。11月3日后屏蔽解除，恢复正常。又如，2009年6月2日起，Windows Live
 Spaces再次无法打开，疑似遭中國大陸當局屏蔽，\[10\]\[11\]6月8日后恢复正常。
 

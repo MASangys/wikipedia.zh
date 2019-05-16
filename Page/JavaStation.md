@@ -1,8 +1,8 @@
 **JavaStation**是一種[網路電腦](../Page/網路電腦.md "wikilink")（Network
 Computer，NC），由[昇陽電腦於](../Page/昇陽電腦.md "wikilink")1996年－1998年間所研發。
 
-JavaStation的硬體是以[昇陽電腦過往的](../Page/昇陽電腦.md "wikilink")工作站為基礎而設計，工作站及其架構過去在[UNIX](../Page/UNIX.md "wikilink")[工作站領域中相當成功](../Page/工作站.md "wikilink")。不過，JavaStation缺乏[硬碟機](../Page/硬碟機.md "wikilink")、[軟碟機](../Page/软盘.md "wikilink")、[光碟機](../Page/光盘驱动器.md "wikilink")，同時也有許多地方與[SPARC電腦不同](../Page/SPARC.md "wikilink")，如使用標準的[IBM
-PS/2週邊介面及](../Page/PS/2.md "wikilink")[VGA視訊介面](../Page/VGA.md "wikilink")。
+JavaStation的硬體是以[昇陽電腦過往的](../Page/昇陽電腦.md "wikilink")工作站為基礎而設計，工作站及其架構過去在[UNIX](../Page/UNIX.md "wikilink")[工作站領域中相當成功](../Page/工作站.md "wikilink")。不過，JavaStation缺乏[硬碟機](https://zh.wikipedia.org/wiki/硬碟機 "wikilink")、[軟碟機](../Page/软盘.md "wikilink")、[光碟機](../Page/光盘驱动器.md "wikilink")，同時也有許多地方與[SPARC電腦不同](../Page/SPARC.md "wikilink")，如使用標準的[IBM
+PS/2週邊介面及](https://zh.wikipedia.org/wiki/PS/2 "wikilink")[VGA視訊介面](https://zh.wikipedia.org/wiki/VGA "wikilink")。
 
 1.  \- 過去的中文相關報導有時翻譯成：爪哇工作站。
 
@@ -43,7 +43,7 @@ PS/2週邊介面及](../Page/PS/2.md "wikilink")[VGA視訊介面](../Page/VGA.md
 
 ## 作業系統
 
-JavaStation所採行的[作業系統是](../Page/作業系統.md "wikilink")[JavaOS](../Page/JavaOS.md "wikilink")，並以[快閃記憶體的型態存放在機內](../Page/闪存.md "wikilink")，不過也可以改安裝[Linux或](../Page/Linux.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")。
+JavaStation所採行的[作業系統是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[JavaOS](../Page/JavaOS.md "wikilink")，並以[快閃記憶體的型態存放在機內](../Page/闪存.md "wikilink")，不過也可以改安裝[Linux或](../Page/Linux.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")。
 
 ## 外部連結
 

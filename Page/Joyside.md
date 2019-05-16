@@ -1,4 +1,4 @@
-**Joyside**，[中国](../Page/中国.md "wikilink")[朋克著名乐队之一](../Page/朋克.md "wikilink")。知名歌曲包括
+**Joyside**，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[朋克著名乐队之一](https://zh.wikipedia.org/wiki/朋克 "wikilink")。知名歌曲包括
 *Eat Me Hey Bitch,(i am)lazy & wasting,sunday morning,Dong Dong
 Dong,Neptune's Child,Your city is desert to me*等。
 
@@ -41,7 +41,7 @@ Dolls同台，被乐队吉他手西尔文成为中国至今为止最好的摇滚
 
 2007年10月4日，07摩登天空音乐节主舞台表演；
 
-2008年5月，为[Converse拍摄平面广告](../Page/Converse.md "wikilink")。
+2008年5月，为[Converse拍摄平面广告](https://zh.wikipedia.org/wiki/Converse "wikilink")。
 
 2008年9月，乐队录制完成第二张EP，将由兵马司唱片公司在2009年发行。
 
@@ -67,18 +67,18 @@ Dolls同台，被乐队吉他手西尔文成为中国至今为止最好的摇滚
     <http://music.douban.com/subject/1428079/>
   - [2006年6月](../Page/2006年6月.md "wikilink")：Bitches of Rock'n'Roll
     <http://music.douban.com/subject/2032817/>
-  - [2006年6月11日](../Page/2006年6月11日.md "wikilink")：Songs
+  - [2006年6月11日](https://zh.wikipedia.org/wiki/2006年6月11日 "wikilink")：Songs
     <http://music.douban.com/subject/3447333/>
   - [2007年5月](../Page/2007年5月.md "wikilink")：Beijing Volume One
     <http://music.douban.com/subject/3183910/>
-  - [2007年9月8日](../Page/2007年9月8日.md "wikilink")：海王星黎明的酒宴 / Booze At
-    Neptune's Dawn <http://music.douban.com/subject/2243565/>
-  - [2007年11月5日](../Page/2007年11月5日.md "wikilink")：Booze At Neptune's
-    Dawn（欧洲版） <http://music.douban.com/subject/2302501/>
-  - [2008年9月20日](../Page/2008年9月20日.md "wikilink")：other songs
-    <http://music.douban.com/subject/3227625/>
-  - [2009年4月24日](../Page/2009年4月24日.md "wikilink")：maybe tonight
-    <http://music.douban.com/subject/3227625/>
+  - [2007年9月8日](https://zh.wikipedia.org/wiki/2007年9月8日 "wikilink")：海王星黎明的酒宴
+    / Booze At Neptune's Dawn <http://music.douban.com/subject/2243565/>
+  - [2007年11月5日](https://zh.wikipedia.org/wiki/2007年11月5日 "wikilink")：Booze
+    At Neptune's Dawn（欧洲版） <http://music.douban.com/subject/2302501/>
+  - [2008年9月20日](https://zh.wikipedia.org/wiki/2008年9月20日 "wikilink")：other
+    songs <http://music.douban.com/subject/3227625/>
+  - [2009年4月24日](https://zh.wikipedia.org/wiki/2009年4月24日 "wikilink")：maybe
+    tonight <http://music.douban.com/subject/3227625/>
   - [2010年2月](../Page/2010年2月.md "wikilink")：Your City Is A Desert To
     Me（欧洲版） <http://music.douban.com/subject/4172710/>
   - [2010年9月](../Page/2010年9月.md "wikilink")：JOYSIDE
@@ -86,13 +86,13 @@ Dolls同台，被乐队吉他手西尔文成为中国至今为止最好的摇滚
 
 ## 相关电影
 
-  - [2005年11月10日](../Page/2005年11月10日.md "wikilink")：北京浪花 Beijing
-    Bubbles <http://movie.douban.com/subject/2128931/>
-  - [2006年4月7日](../Page/2006年4月7日.md "wikilink")：颓废的东方 Wasted Orient
-    <http://movie.douban.com/subject/3161809/>
-  - [2009年1月15日](../Page/2009年1月15日.md "wikilink")：Joyside欧洲巡演记录 The
-    Joyside of Europe <http://movie.douban.com/subject/3603156/>
-  - [2009年6月14日](../Page/2009年6月14日.md "wikilink")：破碎
+  - [2005年11月10日](https://zh.wikipedia.org/wiki/2005年11月10日 "wikilink")：北京浪花
+    Beijing Bubbles <http://movie.douban.com/subject/2128931/>
+  - [2006年4月7日](https://zh.wikipedia.org/wiki/2006年4月7日 "wikilink")：颓废的东方
+    Wasted Orient <http://movie.douban.com/subject/3161809/>
+  - [2009年1月15日](https://zh.wikipedia.org/wiki/2009年1月15日 "wikilink")：Joyside欧洲巡演记录
+    The Joyside of Europe <http://movie.douban.com/subject/3603156/>
+  - [2009年6月14日](https://zh.wikipedia.org/wiki/2009年6月14日 "wikilink")：破碎
     <http://movie.douban.com/subject/3804388/>
 
 ## 成员列表

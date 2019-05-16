@@ -1,5 +1,5 @@
 [Transmac_R211_35.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R211_35.JPG "fig:Transmac_R211_35.JPG")
-[澳門新福利公共汽車有限公司由](../Page/澳門新福利公共汽車有限公司.md "wikilink")1988年開始購買由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車株式會社生產的](../Page/三菱FUSO.md "wikilink")[ROSA小巴](../Page/三菱Rosa.md "wikilink")。[新福利以](../Page/澳門新福利公共汽車有限公司.md "wikilink")「**R**（ROSA的首個字母）」作為此批巴士的車隊編號，車隊首部ROSA編號為R01，再如此類推。
+[澳門新福利公共汽車有限公司由](../Page/澳門新福利公共汽車有限公司.md "wikilink")1988年開始購買由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車株式會社生產的](https://zh.wikipedia.org/wiki/三菱FUSO "wikilink")[ROSA小巴](https://zh.wikipedia.org/wiki/三菱Rosa "wikilink")。[新福利以](../Page/澳門新福利公共汽車有限公司.md "wikilink")「**R**（ROSA的首個字母）」作為此批巴士的車隊編號，車隊首部ROSA編號為R01，再如此類推。
 
 截至2015年，[新福利車隊中的ROSA小巴共有](../Page/澳門新福利公共汽車有限公司.md "wikilink")370輛。ROSA小巴佔新福利整個車隊達半數之多，不過當中不少已因車齡問題而陸續退役。
 
@@ -96,9 +96,9 @@
 
 [Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG")
 [Transmac_Mitsubishi_Fuso_Rosa_R335.jpg](https://zh.wikipedia.org/wiki/File:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg "fig:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg")
-新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](../Page/米芝蓮.md "wikilink")[橫濱橡膠生產的內膽式車胎](../Page/橫濱橡膠.md "wikilink")（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
+新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠生產的內膽式車胎](../Page/橫濱橡膠.md "wikilink")（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
 
-2013年引進兩輛新版車輛，引擎改用[快意製造的](../Page/菲亞特汽車.md "wikilink")4P10（T6）直列四汽缸DOHC共軌直噴渦輪柴油引擎並配合BLUETEC尿素SCR系統以符合歐盟環保五型標準，波箱同時改為六前速DUONIC半自動加減波箱，車胎也改用205/85R16尺寸之無內膽原子胎，唯因波箱在斜路停車時會被中控電腦強制切換至手動模式，該版本的Rosa在斜路起步時對比採用全自動波箱之舊版顯得吃力。
+2013年引進兩輛新版車輛，引擎改用[快意製造的](https://zh.wikipedia.org/wiki/菲亞特汽車 "wikilink")4P10（T6）直列四汽缸DOHC共軌直噴渦輪柴油引擎並配合BLUETEC尿素SCR系統以符合歐盟環保五型標準，波箱同時改為六前速DUONIC半自動加減波箱，車胎也改用205/85R16尺寸之無內膽原子胎，唯因波箱在斜路停車時會被中控電腦強制切換至手動模式，該版本的Rosa在斜路起步時對比採用全自動波箱之舊版顯得吃力。
 
 <table>
 <thead>
@@ -225,11 +225,11 @@ R327及R328為樣辦車。<br />
 
 ## 特殊用途
 
-  - 1995年，為配合行駛[AP1路線](../Page/澳門巴士AP1線.md "wikilink")，R167-R169裝上行李架，車上座位減少3個。現已拆除。
-  - 2004年6月起，為配合行駛[AP1路線](../Page/澳門巴士AP1線.md "wikilink")，R207-R210裝上行李架，車上座位減少3個。現已拆除。
-  - 2005年起，為配合行駛[AP1路線及機場直通快線](../Page/澳門巴士AP1線.md "wikilink")，R130、R132、R133曾裝上行李架，車上座位減少3個。現已拆除。
+  - 1995年，為配合行駛[AP1路線](https://zh.wikipedia.org/wiki/澳門巴士AP1線 "wikilink")，R167-R169裝上行李架，車上座位減少3個。現已拆除。
+  - 2004年6月起，為配合行駛[AP1路線](https://zh.wikipedia.org/wiki/澳門巴士AP1線 "wikilink")，R207-R210裝上行李架，車上座位減少3個。現已拆除。
+  - 2005年起，為配合行駛[AP1路線及機場直通快線](https://zh.wikipedia.org/wiki/澳門巴士AP1線 "wikilink")，R130、R132、R133曾裝上行李架，車上座位減少3個。現已拆除。
   - 2007年5月起，R121、R123用作錢箱車或工程車用途。
-  - 為配合行駛[AP1路線](../Page/澳門巴士AP1線.md "wikilink")，R259、R303、R309及R321車上裝有行李架，車上座位減少4個。全數行李架現已拆除，裝回座位。
+  - 為配合行駛[AP1路線](https://zh.wikipedia.org/wiki/澳門巴士AP1線 "wikilink")，R259、R303、R309及R321車上裝有行李架，車上座位減少4個。全數行李架現已拆除，裝回座位。
   - R139已改為D1牌照訓練車，路線牌箱、錢箱及澳門通收費機均已拆除；車頭左邊座位加裝教練專用軚盤及煞車腳踏，並將座椅更換成司機用高背座椅。
   - R257及R260在2014年6月停止行駛公共巴士路線後，於2015年3月起改為錢箱或工程車用途。
   - R285是新福利首部安裝電子LED頭牌的Rosa巴士。
@@ -242,21 +242,21 @@ R327及R328為樣辦車。<br />
 
 ## 曾使用此車路線
 
-新巴士服務模式前原新福利路線：**[1](../Page/澳門巴士1路線.md "wikilink")**、**[2](../Page/澳門巴士2路線.md "wikilink")**、**[2A](../Page/澳門巴士2A路線.md "wikilink")**、**[3](../Page/澳門巴士3路線.md "wikilink")**（特見）、**[3A](../Page/澳門巴士3A路線.md "wikilink")**、**[6](../Page/澳門巴士6路線.md "wikilink")**、**[7](../Page/澳門巴士7路線.md "wikilink")**、**[7A](../Page/澳門巴士7A路線.md "wikilink")**、**[8](../Page/澳門巴士8路線.md "wikilink")**、**[8A](../Page/澳門巴士8A路線.md "wikilink")**、**[27](../Page/澳門巴士27路線.md "wikilink")**、**[28A](../Page/澳門巴士28A路線.md "wikilink")**、**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[28BX](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**、**[36](../Page/澳門巴士36路線.md "wikilink")**、**[50](../Page/澳門巴士50路線.md "wikilink")**、**[128](../Page/澳門巴士128路線.md "wikilink")**
+新巴士服務模式前原新福利路線：**[1](../Page/澳門巴士1路線.md "wikilink")**、**[2](../Page/澳門巴士2路線.md "wikilink")**、**[2A](../Page/澳門巴士2A路線.md "wikilink")**、**[3](../Page/澳門巴士3路線.md "wikilink")**（特見）、**[3A](../Page/澳門巴士3A路線.md "wikilink")**、**[6](https://zh.wikipedia.org/wiki/澳門巴士6路線 "wikilink")**、**[7](https://zh.wikipedia.org/wiki/澳門巴士7路線 "wikilink")**、**[7A](https://zh.wikipedia.org/wiki/澳門巴士7A路線 "wikilink")**、**[8](../Page/澳門巴士8路線.md "wikilink")**、**[8A](../Page/澳門巴士8A路線.md "wikilink")**、**[27](../Page/澳門巴士27路線.md "wikilink")**、**[28A](../Page/澳門巴士28A路線.md "wikilink")**、**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[28BX](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**、**[36](../Page/澳門巴士36路線.md "wikilink")**、**[50](../Page/澳門巴士50路線.md "wikilink")**、**[128](https://zh.wikipedia.org/wiki/澳門巴士128路線 "wikilink")**
 
 現今新福利路線：**[1A](../Page/澳門巴士1A路線.md "wikilink")**、**[4](../Page/澳門巴士4路線.md "wikilink")**、**[5](../Page/澳門巴士5路線.md "wikilink")**、**[9A](../Page/澳門巴士9A路線.md "wikilink")**、**[26](../Page/澳門巴士26路線.md "wikilink")**、**[26A](../Page/澳門巴士26A路線.md "wikilink")**、**[32](../Page/澳門巴士32路線.md "wikilink")**、**[33](../Page/澳門巴士33路線.md "wikilink")**、**[34](../Page/澳門巴士34路線.md "wikilink")**、**[39](../Page/澳門巴士39路線.md "wikilink")**、**[AP1](../Page/澳門巴士AP1路線.md "wikilink")**、**[AP1X](../Page/澳門巴士AP1X路線.md "wikilink")**
 
 新時代路線：**[8](../Page/澳門巴士8路線.md "wikilink")**、**[8A](../Page/澳門巴士8A路線.md "wikilink")**、**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**
 
-澳巴路線：**[6B](../Page/澳門巴士6B路線.md "wikilink")**、**[7](../Page/澳門巴士7路線.md "wikilink")**、**[7A](../Page/澳門巴士7A路線.md "wikilink")**
+澳巴路線：**[6B](https://zh.wikipedia.org/wiki/澳門巴士6B路線 "wikilink")**、**[7](https://zh.wikipedia.org/wiki/澳門巴士7路線 "wikilink")**、**[7A](https://zh.wikipedia.org/wiki/澳門巴士7A路線 "wikilink")**
 
 澳巴與新時代合併後的澳巴路線：**[28B](../Page/澳門巴士28B路線.md "wikilink")**、**[29](../Page/澳門巴士29路線.md "wikilink")**、**[35](../Page/澳門巴士35路線.md "wikilink")**
 
 ## 相關條目
 
   - [澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")
-  - [澳門公共汽車有限公司](../Page/澳門公共汽車有限公司.md "wikilink")
-  - [澳門巴士](../Page/澳門巴士.md "wikilink")
+  - [澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")
+  - [澳門巴士](https://zh.wikipedia.org/wiki/澳門巴士 "wikilink")
 
 ## 備註
 

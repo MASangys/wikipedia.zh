@@ -1,7 +1,7 @@
 **aMSN**（alvaro's Messenger）是一款功能丰富的[MSN
-Messenger软件](../Page/MSN_Messenger.md "wikilink")，遵照[GNU
-GPL进行发布](../Page/GNU_GPL.md "wikilink")，除了[Windows](../Page/Windows.md "wikilink")，还可在其他多种平台下运行，比如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac
-OS X等](../Page/Mac_OS_X.md "wikilink")。
+Messenger软件](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")，遵照[GNU
+GPL进行发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，除了[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，还可在其他多种平台下运行，比如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac
+OS X等](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 功能
 
@@ -25,7 +25,7 @@ OS X等](../Page/Mac_OS_X.md "wikilink")。
 
 ## 参见
 
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
   - 目前For Mac的aMSN
     0.98版仍无法支持任何中文输入法，亦无任何外掛可用，只能勉强使用剪贴的方式打中文字，有时还有掉字发生或出现乱码。

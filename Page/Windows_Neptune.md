@@ -4,18 +4,19 @@
 2000操作系统是面向商业用户开发的](../Page/Windows_2000.md "wikilink")）用以代替老的基于[DOS的](../Page/MS-DOS.md "wikilink")[Windows
 9x家用系统](../Page/Windows_9x.md "wikilink")。在 Windows 2000 推出之後，Windows
 Neptune 的開發隊伍與剛成立的 [Windows
-Whistler](../Page/Windows_Whistler.md "wikilink")
-隊伍合併，最後研製出正式版的[作業系統](../Page/作業系統.md "wikilink")
-[Windows ME](../Page/Windows_ME.md "wikilink")（使用[Windows
+Whistler](https://zh.wikipedia.org/wiki/Windows_Whistler "wikilink")
+隊伍合併，最後研製出正式版的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")
+[Windows
+ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")（使用[Windows
 9x内核](../Page/Windows_9x.md "wikilink")）\[1\] 及 [Windows
 XP](../Page/Windows_XP.md "wikilink")（使用 NT 內核）\[2\]。在兩個版本發佈以後，Neptune
 亦在2000年1月中止開發。
 
 ## 特色
 
-Neptune系统引入了一些新功能，例如比较初步的[防火牆](../Page/防火牆.md "wikilink")，此功能最後作为「網絡連接防火牆」（Internet
+Neptune系统引入了一些新功能，例如比较初步的[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")，此功能最後作为「網絡連接防火牆」（Internet
 Connection Firewall）被整合入 Windows XP 系统中，隨後重新命名为 [Windows
-防火牆](../Page/Windows_防火牆.md "wikilink")
+防火牆](https://zh.wikipedia.org/wiki/Windows_防火牆 "wikilink")
 [1](https://web.archive.org/web/20060810151335/http://www.microsoft.com/windowsxp/using/networking/learnmore/icf.mspx)；还有
 Windows XP 中的新式登入畫面（有「歡迎」字樣、列表式選擇帳戶）、使用者帳戶控制面板等。
 

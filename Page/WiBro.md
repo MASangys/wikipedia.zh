@@ -1,13 +1,14 @@
 **WiBro**（全稱為**Wi**reless
-**Bro**adband，韓語原文為：와이브로）是由[韩国电子通信研究院發展的一個](../Page/韩国电子通信研究院.md "wikilink")[無線寬頻網際網路的技術](../Page/無線寬頻.md "wikilink")，在2002年2月。韓國政府在2.3GHz的頻帶中保留了100MHz的頻寬。在2004年的稍後，韓國的TTA（Telecommunications
+**Bro**adband，韓語原文為：와이브로）是由[韩国电子通信研究院發展的一個](../Page/韩国电子通信研究院.md "wikilink")[無線寬頻網際網路的技術](https://zh.wikipedia.org/wiki/無線寬頻 "wikilink")，在2002年2月。韓國政府在2.3GHz的頻帶中保留了100MHz的頻寬。在2004年的稍後，韓國的TTA（Telecommunications
 Technology Association）將WiBro第一階段予以標準化。
 
 WiBro基地台（Base
 Station，也稱：[基站](../Page/基站.md "wikilink")）提供了30Mbps—50Mbps的資料流速度並可涵蓋1公里—5公里的距離內移動式的網際網路需求使用。
 
 2005年APEC
-Summit在[釜山會議的實際測試中](../Page/釜山.md "wikilink")，可用的距離與頻寬比上述的數字都還要略小一些。這項技術並且包含了頻寬管理、流量控管（Quality
-of Service，[QoS](../Page/QoS.md "wikilink")）的機制，使得WiBro得以可靠的傳送影像流等資訊。
+Summit在[釜山會議的實際測試中](https://zh.wikipedia.org/wiki/釜山 "wikilink")，可用的距離與頻寬比上述的數字都還要略小一些。這項技術並且包含了頻寬管理、流量控管（Quality
+of
+Service，[QoS](https://zh.wikipedia.org/wiki/QoS "wikilink")）的機制，使得WiBro得以可靠的傳送影像流等資訊。
 
 當WiBro精準的定義了他的需求--自頻譜的使用到設備的設計，[WiMAX卻將他大多數的需求留給設備製造商去定義](../Page/WiMAX.md "wikilink")，從而確保了這些設計的互通性、相容性。
 
@@ -18,7 +19,7 @@ of Service，[QoS](../Page/QoS.md "wikilink")）的機制，使得WiBro得以可
 
   - [WiMAX](../Page/WiMAX.md "wikilink")
 
-  - [IEEE 802.16](../Page/IEEE_802.16.md "wikilink")
+  - [IEEE 802.16](https://zh.wikipedia.org/wiki/IEEE_802.16 "wikilink")
 
   -
 ## 外部連結

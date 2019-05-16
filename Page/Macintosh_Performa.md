@@ -7,10 +7,10 @@ LC」系列，訴求於低階、入門、家用，好與中高檔且專業定位
 之後Apple廢除Performa系列，改直接以型號數字較低的PowerMac來因應低價市場，如PowerMac
 4400（在台灣改稱[PowerMac
 7220](../Page/Power_Macintosh.md "wikilink")，由於中國由來傳統對「4」與「死」諧音的不詳聯想，因而刻意變更型號數字，過去已有PowerMac
-7200，所以新數字選擇比7200高一些的7220），更之後相同的訴求與市場定位則由1998年的[iMac接替](../Page/iMac.md "wikilink")。
+7200，所以新數字選擇比7200高一些的7220），更之後相同的訴求與市場定位則由1998年的[iMac接替](https://zh.wikipedia.org/wiki/iMac "wikilink")。
 
-附帶一提的是，1996年台灣[力捷電腦](../Page/力捷電腦公司.md "wikilink")（[UMAX](../Page/UMAX.md "wikilink")）也研製、推出低價訴求的Mac相容機：Apus系列，在此之前則有中高階定位的相容機：Pursar系列。不過[Steve
-Jobs重回蘋果電腦後](../Page/Steve_Jobs.md "wikilink")，原本蘋果電腦授權美國[PowerComputing公司與台灣UMAX公司可以研製生產Mac相容機](../Page/PowerComputing.md "wikilink")，但Steve
+附帶一提的是，1996年台灣[力捷電腦](https://zh.wikipedia.org/wiki/力捷電腦公司 "wikilink")（[UMAX](../Page/UMAX.md "wikilink")）也研製、推出低價訴求的Mac相容機：Apus系列，在此之前則有中高階定位的相容機：Pursar系列。不過[Steve
+Jobs重回蘋果電腦後](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink")，原本蘋果電腦授權美國[PowerComputing公司與台灣UMAX公司可以研製生產Mac相容機](https://zh.wikipedia.org/wiki/PowerComputing "wikilink")，但Steve
 Jobs上任後立即花錢買下PowerComputing，使PowerComputing成為Apple的研製生產線，同時毀約收回對UMAX的相容研製生產授權，UMAX因此賠了一億多美元，從此Mac電腦回歸僅有Apple一家公司自研自製自銷的時代。
 
 ## 追編改納
@@ -29,7 +29,7 @@ II進行改名而成，幾乎原有LC系列的每一型款電腦都在之後被�
 [Performa_6400.jpg](https://zh.wikipedia.org/wiki/File:Performa_6400.jpg "fig:Performa_6400.jpg")的Performa
 6400型個人電腦，採行機身與顯示器分離的設計，機身為直立塔型（Tower）型的設計，Performa系列僅少數機種採行直立塔型的外觀風格。\]\]
 
-Performa版的電腦是以配套方式銷售，配套中包括了顯示器、外接型數據機（也稱：調變解調器）、以及一些典型的隨附軟體，這個配套物在當時就一般而言是在非Performa的電腦上所不具備的，而隨附的軟體經常包括了教育用的軟體：[ClarisWorks以及一些娛樂用的遊戲軟體](../Page/ClarisWorks.md "wikilink")。另外Performa的電腦內已經預先安裝好作業系統，且是針對Performa電腦也特定修改成的版本，在版本編號上的最後會加上「P」字樣，例如System
+Performa版的電腦是以配套方式銷售，配套中包括了顯示器、外接型數據機（也稱：調變解調器）、以及一些典型的隨附軟體，這個配套物在當時就一般而言是在非Performa的電腦上所不具備的，而隨附的軟體經常包括了教育用的軟體：[ClarisWorks以及一些娛樂用的遊戲軟體](https://zh.wikipedia.org/wiki/ClarisWorks "wikilink")。另外Performa的電腦內已經預先安裝好作業系統，且是針對Performa電腦也特定修改成的版本，在版本編號上的最後會加上「P」字樣，例如System
 7.1P5。
 
 不過，特定用於Performa機種上的Mac作業系統，有些作業系統的新功能、新特點是先在此種作業系統上先擁有，之後才轉移到正規主流的作業系統上，例如知名的「Launcher」功能即是如此而來。供Performa機種所用的作業系統，其最末的一個版本為System
@@ -58,49 +58,50 @@ User）而言他們就更需要更有彈性的還原方式及軟體。不過，�
 ## 使用68k系列處理器的Performa型號
 
   - Performa 200（1992年，也稱[Macintosh Classic
-    II](../Page/Macintosh_Classic_II.md "wikilink")）
+    II](https://zh.wikipedia.org/wiki/Macintosh_Classic_II "wikilink")）
   - Performa 250（也稱[Macintosh Color
-    Classic](../Page/Macintosh_Color_Classic.md "wikilink")）
+    Classic](https://zh.wikipedia.org/wiki/Macintosh_Color_Classic "wikilink")）
   - Performa 275（1993年，也稱[Macintosh Color Classic
-    II](../Page/Macintosh_Color_Classic_II.md "wikilink")）
+    II](https://zh.wikipedia.org/wiki/Macintosh_Color_Classic_II "wikilink")）
   - Performa 400 / 405 / 410 / 430（也稱[Macintosh LC
-    II](../Page/Macintosh_LC_II.md "wikilink")）
+    II](https://zh.wikipedia.org/wiki/Macintosh_LC_II "wikilink")）
   - Performa 450（也稱[Macintosh LC
-    III](../Page/Macintosh_LC_III.md "wikilink")）
+    III](https://zh.wikipedia.org/wiki/Macintosh_LC_III "wikilink")）
   - Performa 460 / 466 / 467（也稱[Macintosh LC
-    III+](../Page/Macintosh_LC_III+.md "wikilink")）
+    III+](https://zh.wikipedia.org/wiki/Macintosh_LC_III+ "wikilink")）
   - Performa 475 / 476（也稱[Macintosh LC
-    475及](../Page/Macintosh_LC_475.md "wikilink")[Quadra
-    605](../Page/Quadra_605.md "wikilink")）
+    475及](https://zh.wikipedia.org/wiki/Macintosh_LC_475 "wikilink")[Quadra
+    605](https://zh.wikipedia.org/wiki/Quadra_605 "wikilink")）
   - Performa 520（也稱[Macintosh LC
-    520](../Page/Macintosh_LC_520.md "wikilink")）
+    520](https://zh.wikipedia.org/wiki/Macintosh_LC_520 "wikilink")）
   - Performa 550 / 560（也稱[Macintosh LC
-    550](../Page/Macintosh_LC_550.md "wikilink")）
+    550](https://zh.wikipedia.org/wiki/Macintosh_LC_550 "wikilink")）
   - Performa 575 / 577 / 578（也稱[Macintosh LC
-    575](../Page/Macintosh_LC_575.md "wikilink")）
+    575](https://zh.wikipedia.org/wiki/Macintosh_LC_575 "wikilink")）
   - Performa 580CD / 588CD（也稱[Macintosh LC
-    580](../Page/Macintosh_LC_580.md "wikilink")）
+    580](https://zh.wikipedia.org/wiki/Macintosh_LC_580 "wikilink")）
   - Performa 600 / 600CD（也稱[Macintosh
-    IIvi](../Page/Macintosh_IIvi.md "wikilink")）
+    IIvi](https://zh.wikipedia.org/wiki/Macintosh_IIvi "wikilink")）
   - Performa 630 / 630CD / 631CD / 635CD / 636 / 636CD / 637CD / 638CD /
     640CD / 640CD DOS Compatible（也稱[Quadra
-    630](../Page/Quadra_630.md "wikilink")）
+    630](https://zh.wikipedia.org/wiki/Quadra_630 "wikilink")）
 
 ## 使用PowerPC系列處理器的Performa型號
 
   - Performa 5200CD / 5210CD / 5215CD / 5220CD（也稱[Power Macintosh
-    5200](../Page/Power_Macintosh_5200.md "wikilink")）
+    5200](https://zh.wikipedia.org/wiki/Power_Macintosh_5200 "wikilink")）
   - Performa 5260CD / 5270CD / 5280 / 5300CD / 5320CD（也稱[Power Macintosh
-    5260](../Page/Power_Macintosh_5260.md "wikilink")）
+    5260](https://zh.wikipedia.org/wiki/Power_Macintosh_5260 "wikilink")）
   - Performa 5400CD / 5410 / 5420 / 5430 / 5440CD（也稱[Power Macintosh
-    5400](../Page/Power_Macintosh_5400.md "wikilink")）
+    5400](https://zh.wikipedia.org/wiki/Power_Macintosh_5400 "wikilink")）
   - Performa 6110 / 6112 / 6115 / 6116 / 6117 / 6118CD（也稱[Power
-    Macintosh 6100](../Page/Power_Macintosh_6100.md "wikilink")）
+    Macintosh
+    6100](https://zh.wikipedia.org/wiki/Power_Macintosh_6100 "wikilink")）
   - Performa 6200 / 6205 / 6210 / 6214 / 6216 / 6218 / 6220 / 6230 /
     6260 / 6290CD / 6300 / 6310 / 6320CD（也稱[Power Macintosh
-    6200](../Page/Power_Macintosh_6200.md "wikilink")）
+    6200](https://zh.wikipedia.org/wiki/Power_Macintosh_6200 "wikilink")）
   - Performa 6360 / 6400 / 6410 / 6420（也稱[Power Macintosh
-    6400](../Page/Power_Macintosh_6400.md "wikilink")）
+    6400](https://zh.wikipedia.org/wiki/Power_Macintosh_6400 "wikilink")）
 
 ## 附註
 
@@ -110,7 +111,7 @@ User）而言他們就更需要更有彈性的還原方式及軟體。不過，�
 2.  \- 過去Mac電腦的作業系統並沒有稱為Mac OS x.x，而是直接稱為System x.x。
 
 3.  \-
-    使用[68k系列處理器的Performa是之後補追稱](../Page/68k.md "wikilink")，在1995年Performa一詞尚未出現前則使用Macintosh的各系列稱呼。
+    使用[68k系列處理器的Performa是之後補追稱](https://zh.wikipedia.org/wiki/68k "wikilink")，在1995年Performa一詞尚未出現前則使用Macintosh的各系列稱呼。
 
 ## 外部連結
 

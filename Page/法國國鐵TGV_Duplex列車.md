@@ -2,7 +2,7 @@
 [TGVDuplex_Centre.JPG](https://zh.wikipedia.org/wiki/File:TGVDuplex_Centre.JPG "fig:TGVDuplex_Centre.JPG")
 
 **TGV
-Duplex**，是[法國](../Page/法國.md "wikilink")[國鐵的](../Page/法國國鐵.md "wikilink")[TGV高鐵列車車款之一](../Page/TGV.md "wikilink")，這款列車的特色，是首款設置雙層車廂的車款，同時也是第三代TGV列車，針對客量大及流量飽和的高鐵路線而設。每組Duplex列車最高可載545人，憑著容量大的特點，這款列車成為法國高鐵系統的主力車型。
+Duplex**，是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[國鐵的](https://zh.wikipedia.org/wiki/法國國鐵 "wikilink")[TGV高鐵列車車款之一](https://zh.wikipedia.org/wiki/TGV "wikilink")，這款列車的特色，是首款設置雙層車廂的車款，同時也是第三代TGV列車，針對客量大及流量飽和的高鐵路線而設。每組Duplex列車最高可載545人，憑著容量大的特點，這款列車成為法國高鐵系統的主力車型。
 
 截至2007年，現役的TGV Duplex列車數量為109組（201-289, 601-619, 701）。
 
@@ -18,14 +18,14 @@ Réseau電力機車於頭尾作牽引](../Page/法國國鐵TGV_Réseau列車.md 
 
 ## 「V150」列車
 
-2007年4月3日，[法鐵把同型號的列車進行特殊改造](../Page/法國國鐵.md "wikilink")，換上較大的車輪、使用經改裝的[TGV
-POS電力機車](../Page/TGV_POS.md "wikilink")，把列車車廂數目由10個減半至5個（兩個電力機車+三個雙層車廂），及把客車車廂的轉向架改用供[AGV使用的帶動力款式](../Page/AGV.md "wikilink")，令列車的重量更輕及擁有更強的動力輸出功率，最終在試驗時的速度達到每小時574.8公里，打破路軌列車速度新的世界記錄。
+2007年4月3日，[法鐵把同型號的列車進行特殊改造](https://zh.wikipedia.org/wiki/法國國鐵 "wikilink")，換上較大的車輪、使用經改裝的[TGV
+POS電力機車](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")，把列車車廂數目由10個減半至5個（兩個電力機車+三個雙層車廂），及把客車車廂的轉向架改用供[AGV使用的帶動力款式](https://zh.wikipedia.org/wiki/AGV "wikilink")，令列車的重量更輕及擁有更強的動力輸出功率，最終在試驗時的速度達到每小時574.8公里，打破路軌列車速度新的世界記錄。
 
 ## 其他雙層高速列車
 
   - [新幹線E1系電力動車組](../Page/新幹線E1系電力動車組.md "wikilink")－首款全雙層高速列車，由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）擁有及營運。
   - [新幹線E4系電力動車組](../Page/新幹線E4系電力動車組.md "wikilink")－E1系後繼車款，同樣由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）擁有及營運。
-  - [和諧號CRH2型電聯車](../Page/和諧號CRH2型電聯車.md "wikilink")－中國首輛雙層臥鋪動車組。
+  - [和諧號CRH2型電聯車](https://zh.wikipedia.org/wiki/和諧號CRH2型電聯車 "wikilink")－中國首輛雙層臥鋪動車組。
 
 ## 外部連結
 

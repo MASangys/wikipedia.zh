@@ -1,12 +1,12 @@
 **NGC 88**(**ESO 194-10, AM 0018-485, PGC
-1370**)是[鳳凰座一個](../Page/鳳凰座.md "wikilink")[棒旋星系](../Page/棒旋星系.md "wikilink")，[星等為](../Page/星等.md "wikilink")14.1等，[赤經為](../Page/赤經.md "wikilink")21分22秒，[赤緯為](../Page/赤緯.md "wikilink")-48°38'23"。在1834年9月30日首次被[約翰·弗里德里希·威廉·赫歇爾發現](../Page/約翰·弗里德里希·威廉·赫歇爾.md "wikilink")，與[NGC
-87](../Page/NGC_87.md "wikilink")、[NGC
-89和](../Page/NGC_89.md "wikilink")[NGC
-92一起組成](../Page/NGC_92.md "wikilink")[羅伯特四重奏](../Page/羅伯特四重奏.md "wikilink")。
+1370**)是[鳳凰座一個](https://zh.wikipedia.org/wiki/鳳凰座 "wikilink")[棒旋星系](../Page/棒旋星系.md "wikilink")，[星等為](../Page/星等.md "wikilink")14.1等，[赤經為](https://zh.wikipedia.org/wiki/赤經 "wikilink")21分22秒，[赤緯為](https://zh.wikipedia.org/wiki/赤緯 "wikilink")-48°38'23"。在1834年9月30日首次被[約翰·弗里德里希·威廉·赫歇爾發現](https://zh.wikipedia.org/wiki/約翰·弗里德里希·威廉·赫歇爾 "wikilink")，與[NGC
+87](https://zh.wikipedia.org/wiki/NGC_87 "wikilink")、[NGC
+89和](https://zh.wikipedia.org/wiki/NGC_89 "wikilink")[NGC
+92一起組成](https://zh.wikipedia.org/wiki/NGC_92 "wikilink")[羅伯特四重奏](../Page/羅伯特四重奏.md "wikilink")。
 
 ## 參見
 
-  - [NGC天體列表](../Page/NGC天體列表.md "wikilink")
+  - [NGC天體列表](https://zh.wikipedia.org/wiki/NGC天體列表 "wikilink")
 
 ## 外部連結
 

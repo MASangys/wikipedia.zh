@@ -1,13 +1,13 @@
 [OpenID_logo.svg](https://zh.wikipedia.org/wiki/File:OpenID_logo.svg "fig:OpenID_logo.svg")
 
-**OpenID**是一个[去中心化的網上](../Page/去中心化.md "wikilink")[身份認證系统](../Page/数字身份.md "wikilink")。对于支持OpenID的网站，用户不需要记住像用户名和密码这样的传统验证标记。取而代之的是，他们只需要预先在一个作为OpenID身份提供者（identity
+**OpenID**是一个[去中心化的網上](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[身份認證系统](../Page/数字身份.md "wikilink")。对于支持OpenID的网站，用户不需要记住像用户名和密码这样的传统验证标记。取而代之的是，他们只需要预先在一个作为OpenID身份提供者（identity
 provider,
 IdP）的网站上注册。OpenID是去中心化的，任何网站都可以使用OpenID来作为用户登录的一种方式，任何网站也都可以作为OpenID身份提供者。OpenID既解决了问题而又不需要依赖于中心性的网站来确认[数字身份](../Page/数字身份.md "wikilink")。
 
 ## 历史
 
-OpenID最初由[LiveJournal的](../Page/LiveJournal.md "wikilink")[Brad
-Fitzpatrick开发](../Page/Brad_Fitzpatrick.md "wikilink")，后来加入了Light-Weight
+OpenID最初由[LiveJournal的](https://zh.wikipedia.org/wiki/LiveJournal "wikilink")[Brad
+Fitzpatrick开发](https://zh.wikipedia.org/wiki/Brad_Fitzpatrick "wikilink")，后来加入了Light-Weight
 Identity，Yadis，Sxip DIX
 protocol和XRI/i-names。未来的OpenID规范正在由OpenID.net开发，都参与其中。
 
@@ -27,7 +27,7 @@ OpenID相关基本术语：
 **标识（Identifier）**
 
   -
-    最终用户用以标识其身份的[URL或](../Page/URL.md "wikilink")[XRI](../Page/XRI.md "wikilink")。
+    最终用户用以标识其身份的[URL或](https://zh.wikipedia.org/wiki/URL "wikilink")[XRI](https://zh.wikipedia.org/wiki/XRI "wikilink")。
 
 **身份提供者（Identity Provider, IdP）**
 
@@ -69,18 +69,18 @@ OpenID不提供它自己的验证方式，但是如果身份提供者使用强�
 
 ## 推广
 
-OpenID正在被越来越多的大网站采用。[Yahoo\!已经支持OpenID](../Page/Yahoo!.md "wikilink")。所有有Yahoo账户的用户可以通过OpenID
+OpenID正在被越来越多的大网站采用。[Yahoo\!已经支持OpenID](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")。所有有Yahoo账户的用户可以通过OpenID
 directed identity方式登录支持OpenID信赖方网站。\[1\]　\[2\]
 
 Google 曾經支援OpenID 2.0，不過自 2015 年 4 月 20 日起，Google 帳戶將不再使用
 OpenID，转而使用[OpenID
-Connect](../Page/OpenID_Connect.md "wikilink")。\[3\]
+Connect](https://zh.wikipedia.org/wiki/OpenID_Connect "wikilink")。\[3\]
 
-[Orange](../Page/Orange_\(公司\).md "wikilink")、[AOL與](../Page/AOL.md "wikilink")[Yahoo\!都已經支援OpenID](../Page/Yahoo!.md "wikilink")。AOL提供每個AOL或AIM的使用者一組OpenID
+[Orange](../Page/Orange_\(公司\).md "wikilink")、[AOL與](https://zh.wikipedia.org/wiki/AOL "wikilink")[Yahoo\!都已經支援OpenID](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")。AOL提供每個AOL或AIM的使用者一組OpenID
 Identity，目前還在測試階段，為`openid.aol.com/username`。
 
 目前使用OpenID代替一般帳號密碼的網站包括了
-著名的开源社区[SourceForge](../Page/SourceForge.md "wikilink")、[LiveJournal](../Page/LiveJournal.md "wikilink")、[Zooomr](../Page/Zooomr.md "wikilink")、[Wikitravel](../Page/Wikitravel.md "wikilink")、ma.gnolia.com、claimid.com以及[Jyte](../Page/Jyte.md "wikilink")。
+著名的开源社区[SourceForge](../Page/SourceForge.md "wikilink")、[LiveJournal](https://zh.wikipedia.org/wiki/LiveJournal "wikilink")、[Zooomr](https://zh.wikipedia.org/wiki/Zooomr "wikilink")、[Wikitravel](https://zh.wikipedia.org/wiki/Wikitravel "wikilink")、ma.gnolia.com、claimid.com以及[Jyte](https://zh.wikipedia.org/wiki/Jyte "wikilink")。
 
 在openid.net上有一份公開的[伺服器列表](https://web.archive.org/web/20070314003841/http://openid.net/wiki/index.php/OpenIDServers)，可以讓一般人申請OpenID
 Identity。
@@ -90,7 +90,7 @@ Identity。
 ### 隐蔽重定向漏洞(Covert Redirect)
 
 2014年5月，新加坡南洋理工大学一位名叫王晶(Wang
-Jing)的物理和数学科学学院博士生\[4\]，发现了[OAuth和](../Page/OAuth.md "wikilink")**OpenID**开源登录工具的"[隐蔽重定向漏洞](../Page/隐蔽重定向漏洞.md "wikilink")"\[5\]\[6\]\[7\]。
+Jing)的物理和数学科学学院博士生\[4\]，发现了[OAuth和](https://zh.wikipedia.org/wiki/OAuth "wikilink")**OpenID**开源登录工具的"[隐蔽重定向漏洞](https://zh.wikipedia.org/wiki/隐蔽重定向漏洞 "wikilink")"\[5\]\[6\]\[7\]。
 
 其实漏洞不是出现在OpenID这个协议本身，这个协议本身是没有问题的，之所以存在问题是因为各个厂商没有严格參照官方文档，只是实现了简版。问题的原因在于OpenID的提供方提供OpenID授权过程中没有对回调的URL进行校验，从而导致可以被赋值为非原定的回调URL\[8\]\[9\]。
 

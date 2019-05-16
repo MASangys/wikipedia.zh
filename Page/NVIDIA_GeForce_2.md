@@ -1,5 +1,5 @@
 **GeForce
-2**（核心代號為**NV15**），是由[NVIDIA設計的第二代](../Page/NVIDIA.md "wikilink")[GeForce](../Page/GeForce.md "wikilink")[顯示核心](../Page/顯示核心.md "wikilink")，於2000年4月26日推出\[1\]。其後推出了首款應用於[筆記型電腦的顯示核心GeForce](../Page/筆記型電腦.md "wikilink")
+2**（核心代號為**NV15**），是由[NVIDIA設計的第二代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2000年4月26日推出\[1\]。其後推出了首款應用於[筆記型電腦的顯示核心GeForce](../Page/筆記型電腦.md "wikilink")
 2 Go系列\[2\]。
 
 ## 產品介紹
@@ -9,17 +9,17 @@
 GeForce 2 GTS（NV15）是整个家族第一款顯卡。GTS代表**G**iga**T**exture
 **S**hader。它的像素填充率達到每秒16亿。由於額外增加了的第二个TMU(texture map
 unit)，令像素流水線數目達到每个四條。而核心速度亦由[GeForce
-256的](../Page/GeForce_256.md "wikilink")120MHz提升到200Mhz。GeForce 2
-GTS的性能是前代GeForce 256的3.3倍。其他硬體上的增加包括更新了影像处理管線，名為**HDVP** (high
+256的](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")120MHz提升到200Mhz。GeForce
+2 GTS的性能是前代GeForce 256的3.3倍。其他硬體上的增加包括更新了影像处理管線，名為**HDVP** (high
 definition video processor)。HDVP支援高解像度動態影像播放，雖然強勁的CPU還是必須的。
 
 在立體標準檢查程式和遊戲中，GTS比前輩（GeForce 256）快40%，而又比GeForce 256
 DDR快10%。在[OpenGL遊戲](../Page/OpenGL.md "wikilink")（例如[Quake
-III](../Page/Quake_III.md "wikilink")）中，GTS在16bpp和32bpp真彩顯視模式中，亦勝過[ATi的](../Page/ATi.md "wikilink")[Radeon和](../Page/Radeon.md "wikilink")[3dfx的](../Page/3dfx.md "wikilink")[Voodoo
-5顯卡](../Page/Voodoo_5.md "wikilink")。
+III](https://zh.wikipedia.org/wiki/Quake_III "wikilink")）中，GTS在16bpp和32bpp真彩顯視模式中，亦勝過[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[Radeon和](../Page/Radeon.md "wikilink")[3dfx的](https://zh.wikipedia.org/wiki/3dfx "wikilink")[Voodoo
+5顯卡](https://zh.wikipedia.org/wiki/Voodoo_5 "wikilink")。
 
 但在[Direct3D遊戲中](../Page/Direct3D.md "wikilink")，Radeon有時在32-bit顏色模式中勝出。從"NV1x"結構可看出，GeForce
-2的記憶體頻寬是相當不足的。還有，它沒有記憶體頻寬節省技術，而ATi則有[HyperZ優化](../Page/HyperZ.md "wikilink")。"NV1x"系列顯卡的記憶體頻寬可謂史上最少，令它達不到應有的性能。而Radeon則比較有效率。當時大部分遊戲都只是單層貼圖，縱使GeForce
+2的記憶體頻寬是相當不足的。還有，它沒有記憶體頻寬節省技術，而ATi則有[HyperZ優化](https://zh.wikipedia.org/wiki/HyperZ "wikilink")。"NV1x"系列顯卡的記憶體頻寬可謂史上最少，令它達不到應有的性能。而Radeon則比較有效率。當時大部分遊戲都只是單層貼圖，縱使GeForce
 2和Radeon支援[DirectX](../Page/DirectX.md "wikilink") 7，但都不能在多材質貼圖得到任何益处。
 
 GeForce 2 GTS核心有三個修正版本，第一個是**GeForce 2 Ultra**，
@@ -87,8 +87,9 @@ MX能支援真正的双顯示輸出（TwinView）。（其實GTS也支援双顯�
 
 GeForce 2的有效率設計 - GeForce 2 Go的功耗是4瓦特，令它易於被筆記本電腦市場接受。GeForce 2
 GTS是8瓦特，較舊的[GeForce
-256則是](../Page/GeForce_256.md "wikilink")16瓦特。對手ATI用[Radeon](../Page/Radeon.md "wikilink")
-VE對抗（稍後用Radeon 7000），它並不支援[T\&L](../Page/T&L.md "wikilink")。而Radeon
+256則是](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")16瓦特。對手ATI用[Radeon](../Page/Radeon.md "wikilink")
+VE對抗（稍後用Radeon
+7000），它並不支援[T\&L](https://zh.wikipedia.org/wiki/T&L "wikilink")。而Radeon
 SDR則稍遲發表，價錢又太貴。除了早發表和極佳的性價比之外，GeForce 2
 MX和剩餘的產品線都採用單一而又穩定的驅動程式，而ATI的驅動程式則比較不穩定。
 
@@ -98,10 +99,12 @@ GeForce 2
 MX表現得好，使之比GTS（或其他後續形號）更勝任成為主流產品。電腦遊戲方面，MX完全取代舊有的**TNT2**顯示卡。隨後nVidia將MX產品線分拆為MX400和MX200，分別代表效能級和價錢級。MX200的記憶体頻寬是64-bit，採用SD
 Ram作為顯存，嚴重影響其效能發揮。MX400的記憶体頻寬是128-bit，採用SD Ram作為顯存，DDR版本的記憶体頻寬是64-bit。
 
-GeForce 2 MX的後繼者是[GeForce 4](../Page/GeForce_4.md "wikilink")
-MX。雖然很多人認為[GeForce 4](../Page/GeForce_4.md "wikilink")
-MX只不過是GeForce 2 MX的128-bit DDR記憶体頻寬版本，因為它沒有高階顯示核心的規格，但它（除了MX
-420）的效能始終比GeForce 2 Ultra優勝。
+GeForce 2 MX的後繼者是[GeForce
+4](https://zh.wikipedia.org/wiki/GeForce_4 "wikilink")
+MX。雖然很多人認為[GeForce
+4](https://zh.wikipedia.org/wiki/GeForce_4 "wikilink") MX只不過是GeForce 2
+MX的128-bit DDR記憶体頻寬版本，因為它沒有高階顯示核心的規格，但它（除了MX 420）的效能始終比GeForce 2
+Ultra優勝。
 
   - GeForce2 MX
       - 顯示記憶體類型：64或128-bit SDR, 或64-bit DDR
@@ -150,9 +153,10 @@ Go 200，主流級的GeForce 2 Go 100。
 
 ## 相關條目
 
-  - [GeForce 2系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_2.md "wikilink")
+  - [GeForce
+    2系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_2 "wikilink")
   - [GeForce 2
-    Go系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_2_Go.md "wikilink")
+    Go系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_2_Go "wikilink")
   - [Quadro 2](../Page/Quadro_2.md "wikilink")
 
 ## 參考鏈接

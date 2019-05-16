@@ -1,17 +1,18 @@
-（）是美國[微軟公司推出](../Page/微軟.md "wikilink")[.NET Framework
+（）是美國[微軟公司推出](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET
+Framework
 3.0及以后版本的组成部分之一](../Page/.NET_Framework_3.0.md "wikilink")，它是一套基于[XML](../Page/XML.md "wikilink")、[.NET
-Framework](../Page/.NET_Framework.md "wikilink")、[向量绘图技术的展示層开发框架](../Page/向量.md "wikilink")，微软视其为下一代使用者介面技术，广泛被用于[Windows
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")、[向量绘图技术的展示層开发框架](../Page/向量.md "wikilink")，微软视其为下一代使用者介面技术，广泛被用于[Windows
 Vista的界面开发](../Page/Windows_Vista.md "wikilink")。
 
 WPF使用一种新的[XAML](../Page/XAML.md "wikilink")（eXtensible Application
 Markup
-Language）语言来开发界面，这将把界面开发以及后台逻辑很好的分开，降低了[耦合度](../Page/耦合度_\(計算機科學\).md "wikilink")，使用户界面设计师与程序开发者能更好的合作，降低维护和更新的成本。
+Language）语言来开发界面，这将把界面开发以及后台逻辑很好的分开，降低了[耦合度](https://zh.wikipedia.org/wiki/耦合度_\(計算機科學\) "wikilink")，使用户界面设计师与程序开发者能更好的合作，降低维护和更新的成本。
 
-[WPF/E是WPF的子集合](../Page/WPF/E.md "wikilink")，全名是：*Windows Presentation
-Foundation
+[WPF/E是WPF的子集合](https://zh.wikipedia.org/wiki/WPF/E "wikilink")，全名是：*Windows
+Presentation Foundation
 Everywhere*。在基於XAML與[JavaScript之下](../Page/JavaScript.md "wikilink")，可跨越各種平台，目前WPF/E已演化為Microsoft
-[Silverlight](../Page/Silverlight.md "wikilink")，擔負微軟在[丰富互联网应用程序領域](../Page/丰富互联网应用程序.md "wikilink")，並正面與Adobe
-[Flash競爭的產品](../Page/Flash.md "wikilink")。
+[Silverlight](https://zh.wikipedia.org/wiki/Silverlight "wikilink")，擔負微軟在[丰富互联网应用程序領域](../Page/丰富互联网应用程序.md "wikilink")，並正面與Adobe
+[Flash競爭的產品](https://zh.wikipedia.org/wiki/Flash "wikilink")。
 
 ## 特徵
 
@@ -21,7 +22,7 @@ WPF部份之特徵如下：
 
   - 所有的圖形皆可由[Direct3D產生](../Page/Direct3D.md "wikilink")。
       - 目標在於統一各種顯示圖形。
-      - Windows可以透過Direct3D來減輕在繪圖任務上的負荷，這項技術乃基於電腦[顯示卡的](../Page/顯示卡.md "wikilink")[繪圖處理單元](../Page/繪圖處理單元.md "wikilink")（Graphics
+      - Windows可以透過Direct3D來減輕在繪圖任務上的負荷，這項技術乃基於電腦[顯示卡的](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[繪圖處理單元](https://zh.wikipedia.org/wiki/繪圖處理單元 "wikilink")（Graphics
         Processing Unit）。
       - 支援向量繪圖（vector graphic）。
       - 支援3D透視圖並且影響2D應用程式。
@@ -35,12 +36,12 @@ WPF部份之特徵如下：
       - [XAML Browser
         Application](../Page/XAML_Browser_Application.md "wikilink")（XBAPs）是一種寄宿於網頁瀏覽器上的程式，像是[Internet
         Explorer](../Page/Internet_Explorer.md "wikilink")。寄宿的程式可取得部份信任（partial
-        trust）的[沙箱](../Page/沙箱_\(資訊安全\).md "wikilink")（sandbox）環境之下，且無法取得完整的系統資源，WPF的功能亦無法完全發揮。寄宿的環境必須有意地防衛惡意的程式碼。從網頁上執行XBAP（讀音"ex-bap"）必須是毫無破綻的（沒有安全性或安裝提示）。雖然這樣的寄宿程式在感觀上與傳統微軟的[DLL](../Page/DLL.md "wikilink")（out
+        trust）的[沙箱](https://zh.wikipedia.org/wiki/沙箱_\(資訊安全\) "wikilink")（sandbox）環境之下，且無法取得完整的系統資源，WPF的功能亦無法完全發揮。寄宿的環境必須有意地防衛惡意的程式碼。從網頁上執行XBAP（讀音"ex-bap"）必須是毫無破綻的（沒有安全性或安裝提示）。雖然這樣的寄宿程式在感觀上與傳統微軟的[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")（out
         of process）有相異處。
 
 ### 互操作性
 
-  - WPF可與[Win32互相操作](../Page/Win32.md "wikilink")：經由主導（hosting）機制，可以在Win32碼之下使用Windows
+  - WPF可與[Win32互相操作](https://zh.wikipedia.org/wiki/Win32 "wikilink")：經由主導（hosting）機制，可以在Win32碼之下使用Windows
     Presentation Foundation，或是在Windows Presentation
     Foundation環境下使用Win32程式碼\[1\]。
   - [Windows
@@ -54,7 +55,7 @@ WPF部份之特徵如下：
   - WPF以Direct3D提供完整的3D功能。但是，WPF提供更完整的整合性在於使用者介面上（UI）、文件（documents），與媒體（media）。這使得儘可以實現3D
     UI, 3D文件，和3D媒體。
   - 支援了大量的圖片格式（image formats）。
-  - WPF支援大量影音格式，如：[WMV](../Page/WMV.md "wikilink")，[MPEG以及某些](../Page/MPEG.md "wikilink")[AVI檔](../Page/AVI.md "wikilink")。
+  - WPF支援大量影音格式，如：[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")，[MPEG以及某些](../Page/MPEG.md "wikilink")[AVI檔](https://zh.wikipedia.org/wiki/AVI "wikilink")。
   - WPF支援以時間為基礎的動畫效果，不同於以影格為基礎的處理方式。如此動畫的速度與系統效能就不會有所關連。
   - 文件的呈現支援[ClearType](../Page/ClearType.md "wikilink")，這提供一種次像素（sub-pixel）定位功能，強化其自然風格。WPF同時支援[OpenType字型樣式](../Page/OpenType.md "wikilink")。
 
@@ -79,9 +80,9 @@ WPF部份之特徵如下：
   - [合字](../Page/合字.md "wikilink")（Ligatures）
   - 舊式數碼（Old-style numerals，for example, parts of the glyph hang below
     the text baseline）
-  - [花体字](../Page/花体字.md "wikilink")（Swash）
+  - [花体字](https://zh.wikipedia.org/wiki/花体字 "wikilink")（Swash）
   - 分數形式（Fractions）
-  - [上标及](../Page/上标.md "wikilink")[下标](../Page/下标.md "wikilink")
+  - [上标及](https://zh.wikipedia.org/wiki/上标 "wikilink")[下标](https://zh.wikipedia.org/wiki/下标 "wikilink")
   - [小型大写字母](../Page/小型大写字母.md "wikilink")
 
 ## 工具
@@ -90,14 +91,14 @@ WPF部份之特徵如下：
 API時代，要在使用者介面中實作特效的話，都需要撰寫大量的程式碼才可以做到。
 
 在WPF中，因為大多數的使用者介面元素都可以利用XAML來宣告，因此微軟試著要將Designer和Developer結合在一起，如此可以讓Designer可以充份發揮，並且Developer也不用傷腦筋在外觀設計上，微軟的Designer工具為[Microsoft
-Expression產品集](../Page/Microsoft_Expression.md "wikilink")，其中的[Expression
-Blend即為設計WPF應用程式的設計工具](../Page/Expression_Blend.md "wikilink")，它也可以用來設計[Silverlight程式](../Page/Silverlight.md "wikilink")。
+Expression產品集](https://zh.wikipedia.org/wiki/Microsoft_Expression "wikilink")，其中的[Expression
+Blend即為設計WPF應用程式的設計工具](https://zh.wikipedia.org/wiki/Expression_Blend "wikilink")，它也可以用來設計[Silverlight程式](https://zh.wikipedia.org/wiki/Silverlight "wikilink")。
 
 開發人員仍然可以使用Visual Studio來開發WPF應用程式，在Visual Studio中內含WPF Designer可供開發人員使用。
 
 ## WPF/E
 
-WPF/E發展初期為微軟計畫將WPF推向各平台的計畫，目前此計畫已經被發展成為[Silverlight技術](../Page/Silverlight.md "wikilink")。
+WPF/E發展初期為微軟計畫將WPF推向各平台的計畫，目前此計畫已經被發展成為[Silverlight技術](https://zh.wikipedia.org/wiki/Silverlight "wikilink")。
 
 ## WPF應用程式
 
@@ -106,14 +107,15 @@ WPF是下一代圖形API在桌面上的延伸。以WPF撰寫應用程式，具�
   - [Microsoft Visual Studio
     2010](../Page/Microsoft_Visual_Studio.md "wikilink")
   - [Microsoft Expression
-    Design](../Page/Microsoft_Expression_Design.md "wikilink")
+    Design](https://zh.wikipedia.org/wiki/Microsoft_Expression_Design "wikilink")
   - [Microsoft Expression
-    Blend](../Page/Microsoft_Expression_Blend.md "wikilink")
+    Blend](https://zh.wikipedia.org/wiki/Microsoft_Expression_Blend "wikilink")
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")
-  - [New York Times Reader](../Page/New_York_Times_Reader.md "wikilink")
-  - [Blu](../Page/Blu.md "wikilink")
+  - [New York Times
+    Reader](https://zh.wikipedia.org/wiki/New_York_Times_Reader "wikilink")
+  - [Blu](https://zh.wikipedia.org/wiki/Blu "wikilink")
   - [腾讯QQ概念版](../Page/腾讯QQ.md "wikilink")（只能在[Windows
-    7上使用](../Page/Windows_7.md "wikilink")）\[2\]
+    7上使用](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")）\[2\]
 
 ## 發行歷史
 

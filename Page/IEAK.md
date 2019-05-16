@@ -1,4 +1,4 @@
-**IEAK**是[微軟](../Page/微軟.md "wikilink")[Internet
+**IEAK**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet
 Explorer的管理員更新套裝](../Page/Internet_Explorer.md "wikilink")，取其英文名稱的簡寫。IEAK的主要用途，一方面是為了讓互聯網連線較慢的公司可以下載一套可放置於中央檔案伺服器的安裝版本，以提供公司的電腦作安裝使用；另一方面，亦容許公司為IE的界面作出設定，包括其外觀、連線設定、防火牆設定，及公司所使用的特別軟體等。
 
 ## 外部連結

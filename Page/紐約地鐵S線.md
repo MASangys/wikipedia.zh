@@ -4,7 +4,7 @@
 
 </div>
 
-**紐約地鐵S線**是[紐約地鐵的接駁線編號](../Page/紐約地鐵.md "wikilink")，現今共有三條接駁線：
+**紐約地鐵S線**是[紐約地鐵的接駁線編號](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")，現今共有三條接駁線：
 
 <div class="thumb tright" style="width:auto;">
 
@@ -18,13 +18,13 @@
 </tr>
 <tr class="even">
 <td><div class="thumbcaption">
-<p><a href="../Page/R1_(紐約地鐵車輛).md" title="wikilink">R1</a><a href="../Page/方向幕.md" title="wikilink">方向幕</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/R1_(紐約地鐵車輛)" title="wikilink">R1</a><a href="https://zh.wikipedia.org/wiki/方向幕" title="wikilink">方向幕</a></p>
 </div></td>
 <td><div class="thumbcaption">
-<p><a href="../Page/R12_(紐約地鐵車輛).md" title="wikilink">R12</a><a href="../Page/方向幕.md" title="wikilink">方向幕</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/R12_(紐約地鐵車輛)" title="wikilink">R12</a><a href="https://zh.wikipedia.org/wiki/方向幕" title="wikilink">方向幕</a></p>
 </div></td>
 <td><div class="thumbcaption">
-<p><a href="../Page/R27_(紐約地鐵車輛).md" title="wikilink">R27</a><a href="../Page/方向幕.md" title="wikilink">方向幕</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/R27_(紐約地鐵車輛)" title="wikilink">R27</a><a href="https://zh.wikipedia.org/wiki/方向幕" title="wikilink">方向幕</a></p>
 </div></td>
 <td></td>
 </tr>
@@ -33,9 +33,9 @@
 
 </div>
 
-  - [42街接駁線](../Page/紐約地鐵42街接駁線.md "wikilink")
-  - [洛克威街公園接駁線](../Page/紐約地鐵洛克威公園接駁線.md "wikilink")
-  - [法蘭克林大道接駁線](../Page/紐約地鐵法蘭克林大道接駁線.md "wikilink")
+  - [42街接駁線](https://zh.wikipedia.org/wiki/紐約地鐵42街接駁線 "wikilink")
+  - [洛克威街公園接駁線](https://zh.wikipedia.org/wiki/紐約地鐵洛克威公園接駁線 "wikilink")
+  - [法蘭克林大道接駁線](https://zh.wikipedia.org/wiki/紐約地鐵法蘭克林大道接駁線 "wikilink")
 
 以下服務路線為其他編號，但有提供接駁線服務：
 
@@ -72,10 +72,10 @@
 
 曾使用S或SS的服務路線如下：
 
-  - [布林格陵-南碼頭接駁線](../Page/布林格陵-南碼頭接駁線.md "wikilink")（1909—1977）
-  - [克佛街接駁線](../Page/克佛街接駁線.md "wikilink")（1954—1975）
-  - [63街接駁線](../Page/63街接駁線.md "wikilink")（1997—2001）
-  - [大街接駁線](../Page/大街接駁線.md "wikilink")（？—2001）
+  - [布林格陵-南碼頭接駁線](https://zh.wikipedia.org/wiki/布林格陵-南碼頭接駁線 "wikilink")（1909—1977）
+  - [克佛街接駁線](https://zh.wikipedia.org/wiki/克佛街接駁線 "wikilink")（1954—1975）
+  - [63街接駁線](https://zh.wikipedia.org/wiki/63街接駁線 "wikilink")（1997—2001）
+  - [大街接駁線](https://zh.wikipedia.org/wiki/大街接駁線 "wikilink")（？—2001）
 
 <div class="thumb tright" style="width:auto;">
 
@@ -106,7 +106,7 @@
 
   - 萊諾克斯延伸接駁線（1905？—1970年前後）
 
-[IRT白原路線與](../Page/IRT白原路線.md "wikilink")[IRT萊諾克斯線通車的隔年](../Page/IRT萊諾克斯線.md "wikilink")（1905年），號線改道行駛，而145街至135街則開行「145街區間車」。
+[IRT白原路線與](https://zh.wikipedia.org/wiki/IRT白原路線 "wikilink")[IRT萊諾克斯線通車的隔年](https://zh.wikipedia.org/wiki/IRT萊諾克斯線 "wikilink")（1905年），號線改道行駛，而145街至135街則開行「145街區間車」。
 
 1968年5月13日哈林–148街車站開幕，接駁線改名為「萊諾克斯延伸接駁線」（又稱萊諾克斯接駁線、萊諾克斯大道接駁線），並於號線停駛時段（深夜、凌晨）開行。
 
@@ -145,7 +145,7 @@
 
 東180街-代里大道接駁線（簡稱代里大道接駁線）於1941年啟用，為紐約西赤斯特暨波士頓鐵路（）經營。列車自前東180街車站往代里大道而行，乘客需經由廊道轉乘。
 
-1957年結束營業，同時間[IRT白原路線連接](../Page/IRT白原路線.md "wikilink")[IRT代里大道線的高架連接道通車](../Page/IRT代里大道線.md "wikilink")，接駁線改至今東180街車站發車，最初編號為2，不久後改為[IRT百老匯-第七大道線跳站停的](../Page/IRT百老匯-第七大道線.md "wikilink")9號線。
+1957年結束營業，同時間[IRT白原路線連接](https://zh.wikipedia.org/wiki/IRT白原路線 "wikilink")[IRT代里大道線的高架連接道通車](https://zh.wikipedia.org/wiki/IRT代里大道線 "wikilink")，接駁線改至今東180街車站發車，最初編號為2，不久後改為[IRT百老匯-第七大道線跳站停的](../Page/IRT百老匯-第七大道線.md "wikilink")9號線。
 
 今日以號線行駛代里大道的接駁線。
 

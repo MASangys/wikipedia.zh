@@ -8,7 +8,7 @@ YOHO採用「綜合城市樞紐」概念，
 ## 計劃大網
 
 根據[新鴻基地產於](../Page/新鴻基地產.md "wikilink")2003年時的規劃，YOHO
-Town由八個分區組成\[1\]，規劃概念仿傚集團於1985年落成的[沙田](../Page/沙田.md "wikilink")[新城市廣場](../Page/新城市廣場.md "wikilink")，配合區內大型交通設施及現有的[新元朗中心](../Page/新元朗中心.md "wikilink")，目標是塑造一個可以自給自足的大型社區城市：
+Town由八個分區組成\[1\]，規劃概念仿傚集團於1985年落成的[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[新城市廣場](../Page/新城市廣場.md "wikilink")，配合區內大型交通設施及現有的[新元朗中心](../Page/新元朗中心.md "wikilink")，目標是塑造一個可以自給自足的大型社區城市：
 
   - Zone
     1：[西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
@@ -21,7 +21,7 @@ Town由八個分區組成\[1\]，規劃概念仿傚集團於1985年落成的[沙
 <!-- end list -->
 
   - Zone 5：YOHO Mall 北翼 及 其上蓋住宅[Grand
-    YOHO](../Page/Grand_YOHO.md "wikilink")
+    YOHO](https://zh.wikipedia.org/wiki/Grand_YOHO "wikilink")
   - Zone 6：YOHO Boulevard－接連YOHO Mall 北南翼的購物走廊
   - Zone 7：YOHO Mall南翼 及 其上蓋住宅 [YOHO
     Midtown](../Page/YOHO_Midtown.md "wikilink")
@@ -50,7 +50,7 @@ Club亦設有無線上網系統及多媒體中心。
 
 ### 售樓手法
 
-2003年正值香港經濟不景氣，沙士剛結束時期，發展商同年7月開售時採用低價策略推售樓盤，希望達到「薄利多銷」效果。首批16個公開發售單位，即供平均呎價為1,560元；最低呎價為1,399元，入場費僅73.7萬元，創下[亞洲金融風暴爆發後銀碼最低及香港回歸後入場費最低的新盤](../Page/亞洲金融風暴.md "wikilink")。\[3\]
+2003年正值香港經濟不景氣，沙士剛結束時期，發展商同年7月開售時採用低價策略推售樓盤，希望達到「薄利多銷」效果。首批16個公開發售單位，即供平均呎價為1,560元；最低呎價為1,399元，入場費僅73.7萬元，創下[亞洲金融風暴爆發後銀碼最低及香港回歸後入場費最低的新盤](https://zh.wikipedia.org/wiki/亞洲金融風暴 "wikilink")。\[3\]
 
 ## 第二期：YOHO Mall 1 及 YOHO Midtown
 
@@ -60,19 +60,19 @@ Club亦設有無線上網系統及多媒體中心。
 Town第二期，由8座住宅大廈組成，提供1,890個單位。物業低座為佔地4層大型購物商場。住宅部分在2010年10月入伙。
 
 商場命名為[YOHO MALL
-形點](../Page/YOHO_MALL_形點.md "wikilink")。樓高三層，佔地200,000平方呎。地下設有開放式食肆，1樓為各式店舖，2樓為美食廣場。當中地下設有一個大型廣場及公園，以模仿日本六本木（Tokyo
+形點](https://zh.wikipedia.org/wiki/YOHO_MALL_形點 "wikilink")。樓高三層，佔地200,000平方呎。地下設有開放式食肆，1樓為各式店舖，2樓為美食廣場。當中地下設有一個大型廣場及公園，以模仿日本六本木（Tokyo
 Midtown）的公共空間概念。公眾將可以在公園綠色草坪欣賞翠綠景緻，或觀賞公共雕塑。商場於2010年10月落成，落成後曾空置3年。到2013年10月15日起，商場部份範圍進行重舖地台及翻新假天花工程，在2015年9月正式投入運作。
 
 ## YOHO Midtown 第2A期
 
-2013年3月19日，新鴻基向[城規會提出的規劃申請](../Page/城規會.md "wikilink")，建議將Yoho Midtown
-以西，面積約10,180
+2013年3月19日，新鴻基向[城規會提出的規劃申請](https://zh.wikipedia.org/wiki/城規會 "wikilink")，建議將Yoho
+Midtown 以西，面積約10,180
 平方呎空地發展為一座樓高達37層的酒店，可提供292間房間，總樓面約13.14萬方呎，但並不包括餐飲設施。而酒店基座將4層屬於教育機構用地，較大機會作為專上學院，樓面約2.7
 萬方呎。
 
 申請人指出，元朗區缺乏教育設施和現代的酒店，今次擬議的計劃可以幫助應付元朗暫時未能完全提供的教育機構及酒店，而且，教育用途本身在此規劃是常准許的，酒店發展則需待城規會委員的批准。\[4\]最終在反對聲音下撤回。
 
-到2016年7月5日，新鴻基宣佈，捐出該地皮予[香港聖公會福利協會興建樓高](../Page/香港聖公會福利協會.md "wikilink")19層的綜合服務中心，當中包括特殊幼兒中心、5層安老院及160間房的青年宿舍。另有一層是教堂和多用途活動室。整個項目建築費約3億元，將於2019年施工，2022至23年落成。\[5\]
+到2016年7月5日，新鴻基宣佈，捐出該地皮予[香港聖公會福利協會興建樓高](https://zh.wikipedia.org/wiki/香港聖公會福利協會 "wikilink")19層的綜合服務中心，當中包括特殊幼兒中心、5層安老院及160間房的青年宿舍。另有一層是教堂和多用途活動室。整個項目建築費約3億元，將於2019年施工，2022至23年落成。\[5\]
 
 ## YOHO Midtown 第2B期
 
@@ -129,7 +129,7 @@ YOHO Town
 <!-- end list -->
 
   - [西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
-  - [輕鐵](../Page/輕鐵.md "wikilink")[元朗站](../Page/元朗站_\(輕鐵\).md "wikilink")
+  - [輕鐵](https://zh.wikipedia.org/wiki/輕鐵 "wikilink")[元朗站](../Page/元朗站_\(輕鐵\).md "wikilink")
 
 <!-- end list -->
 
@@ -137,11 +137,11 @@ YOHO Town
 
 <!-- end list -->
 
-  - [元朗站公共運輸交匯處](../Page/元朗站公共運輸交匯處.md "wikilink")/[朗樂路](../Page/朗樂路.md "wikilink")
+  - [元朗站公共運輸交匯處](../Page/元朗站公共運輸交匯處.md "wikilink")/[朗樂路](https://zh.wikipedia.org/wiki/朗樂路 "wikilink")
 
 <!-- end list -->
 
-  - [紅色小巴](../Page/紅色小巴.md "wikilink")
+  - [紅色小巴](https://zh.wikipedia.org/wiki/紅色小巴 "wikilink")
 
 <!-- end list -->
 
@@ -158,31 +158,32 @@ YOHO Town
 
 <!-- end list -->
 
-  - [朗日路](../Page/朗日路.md "wikilink")
+  - [朗日路](https://zh.wikipedia.org/wiki/朗日路 "wikilink")
 
 <!-- end list -->
 
-  - [青山公路-元朗段](../Page/青山公路-元朗段.md "wikilink")
+  - [青山公路-元朗段](https://zh.wikipedia.org/wiki/青山公路-元朗段 "wikilink")
 
 </div>
 
 </div>
 
-主要交通幹線：[三號幹線](../Page/三號幹線.md "wikilink")（經[大欖隧道](../Page/大欖隧道.md "wikilink")）、[九號幹線](../Page/九號幹線.md "wikilink")
+主要交通幹線：[三號幹線](https://zh.wikipedia.org/wiki/三號幹線 "wikilink")（經[大欖隧道](../Page/大欖隧道.md "wikilink")）、[九號幹線](https://zh.wikipedia.org/wiki/九號幹線 "wikilink")
 
 ## 大眾與媒體
 
   - 2016年，新鴻基地產把鄰近YOHO midtown
     的一幅地皮捐給香港政府。因其位置屬黃金地段，令外界嘩然，因此不少市民也戲稱新鴻基此舉是為了取悅政府，以此換取正在監禁的前主席[郭炳江在一年後的上訴案中勝訴](../Page/郭炳江.md "wikilink")。而巧合的是，[郭炳江正是當初YOHO計劃的發起人](../Page/郭炳江.md "wikilink")。
-  - 因[元朗站周邊區域及其上蓋也屬於YOHO範圍之內](../Page/元朗站.md "wikilink")，而且其規模龐大，有市民建議，應該把元朗站的名稱改為「YOHO站」。並建議把更加靠近[元朗墟市的](../Page/元朗墟市.md "wikilink")[朗屏站](../Page/朗屏站.md "wikilink")，更名為「元朗站」。
+  - 因[元朗站周邊區域及其上蓋也屬於YOHO範圍之內](https://zh.wikipedia.org/wiki/元朗站 "wikilink")，而且其規模龐大，有市民建議，應該把元朗站的名稱改為「YOHO站」。並建議把更加靠近[元朗墟市的](https://zh.wikipedia.org/wiki/元朗墟市 "wikilink")[朗屏站](../Page/朗屏站.md "wikilink")，更名為「元朗站」。
   - YOHO區位置在元朗東面，在60-70年代，是區內的家禽市場，區內市民也習慣稱呼該地為「[雞地](../Page/雞地.md "wikilink")」。直至新鴻基地產投放千億投資，有傳媒稱該地為「黃金雞地」，予意該區升價萬倍，登上枝頭變鳳凰（金雞）。
 
 ## 參考文獻
 
 ## 參見
 
-  - [YOHO MALL 形點](../Page/YOHO_MALL_形點.md "wikilink")
-  - [形點II](../Page/形點II.md "wikilink")
+  - [YOHO MALL
+    形點](https://zh.wikipedia.org/wiki/YOHO_MALL_形點 "wikilink")
+  - [形點II](https://zh.wikipedia.org/wiki/形點II "wikilink")
   - [新元朗中心](../Page/新元朗中心.md "wikilink")
   - [元朗市中心](../Page/元朗市中心.md "wikilink")
   - [元朗廣場](../Page/元朗廣場.md "wikilink")

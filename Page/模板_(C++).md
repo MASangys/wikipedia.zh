@@ -1,6 +1,6 @@
-**模板**（****）指[C++](../Page/C++.md "wikilink")[程序设计语言中的](../Page/程序设计语言.md "wikilink")[函数模板与](../Page/子程序.md "wikilink")[类模板](../Page/类_\(计算机科学\).md "wikilink")\[1\]，是一种[参数化类型机制](../Page/参数化类型.md "wikilink")，大体对应于[java和](../Page/java.md "wikilink")[C＃中的](../Page/C＃.md "wikilink")[泛型](../Page/泛型.md "wikilink")，但也有一些功能上的显著差异（C++模板支持后两者没有明确对应的模板模板参数和模板非类型参数，但不支持Java的通配符以及C\#的泛型类型约束）。模板是C++的[泛型编程中不可缺少的一部分](../Page/泛型编程.md "wikilink")。
+**模板**（****）指[C++](../Page/C++.md "wikilink")[程序设计语言中的](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")[函数模板与](../Page/子程序.md "wikilink")[类模板](../Page/类_\(计算机科学\).md "wikilink")\[1\]，是一种[参数化类型机制](https://zh.wikipedia.org/wiki/参数化类型 "wikilink")，大体对应于[java和](https://zh.wikipedia.org/wiki/java "wikilink")[C＃中的](https://zh.wikipedia.org/wiki/C＃ "wikilink")[泛型](../Page/泛型.md "wikilink")，但也有一些功能上的显著差异（C++模板支持后两者没有明确对应的模板模板参数和模板非类型参数，但不支持Java的通配符以及C\#的泛型类型约束）。模板是C++的[泛型编程中不可缺少的一部分](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。
 
-模板是C++程序员绝佳的武器，特別是結合了[多重继承与](../Page/多重继承.md "wikilink")[运算符重载之后](../Page/运算符重载.md "wikilink")。C++的标准函数库提供的许多有用的函数大多結合了模板的概念，如[STL以及](../Page/STL.md "wikilink")[iostream](../Page/iostream.md "wikilink")。
+模板是C++程序员绝佳的武器，特別是結合了[多重继承与](../Page/多重继承.md "wikilink")[运算符重载之后](../Page/运算符重载.md "wikilink")。C++的标准函数库提供的许多有用的函数大多結合了模板的概念，如[STL以及](https://zh.wikipedia.org/wiki/STL "wikilink")[iostream](https://zh.wikipedia.org/wiki/iostream "wikilink")。
 
 ## 语法
 
@@ -113,7 +113,7 @@ arguments）。
 ### 模板的使用
 
 使用模板时，可以在模板名字后面显式给出用尖括号括住的模板实参列表（template argument
-list）。对模板函数或类的模板成员函数，也可不显式给出模板实参，而是由编译器根据函数调用的上下文推导出模板实参，这称为**[模板参数推导](../Page/模板参数推导.md "wikilink")**。
+list）。对模板函数或类的模板成员函数，也可不显式给出模板实参，而是由编译器根据函数调用的上下文推导出模板实参，这称为**[模板参数推导](https://zh.wikipedia.org/wiki/模板参数推导 "wikilink")**。
 
 如果模板参数使用其默认值，则在模板实参列表中可以忽略它。如果所有的模板参数都使用了默认值，模板实参列表为空，但仍然必须写出成对的尖括号。例如：
 
@@ -419,34 +419,34 @@ using FunctionType1 = void (*)(double); // New introduced syntax
 **模板实例化**（）是指在编译或链接时生成函数模板或类模板的具体实例源代码。ISO
 C++定义了两种模板实例化方法：隐式实例化（当使用实例化的模板时自动地在当前代码单元之前插入模板的实例化代码）、显式实例化（直接声明模板实例化）。在[C++语言的不同实现中](../Page/C++.md "wikilink")，模板编译模式（模板初始化的方法）大致可分为三种：
 
-  - [Borland模型](../Page/Borland.md "wikilink")（**包含**模板编译模式）：[编译器生成每个](../Page/编译器.md "wikilink")[编译单元中遇到的所有的模板实例](../Page/编译单元.md "wikilink")，并存放在相应的[目标文件中](../Page/目标文件.md "wikilink")；[链接器合并相同的模板实例](../Page/链接器.md "wikilink")，生成[可执行文件](../Page/可执行文件.md "wikilink")。为了在每次模板实例化时模板的定义都是可见的，模板的声明与定义放在同一个.h文件中。这种方法的优点是[链接器只需要处理](../Page/链接器.md "wikilink")[目标文件](../Page/目标文件.md "wikilink")；这种方法的缺点是由于模板实例被重复编译，编译时间被加长了，而且不能使用系统的[链接器](../Page/链接器.md "wikilink")，需重新设计[链接器](../Page/链接器.md "wikilink")。
-  - [Cfront/查询模型](../Page/Cfront/查询.md "wikilink")（**分离**（）模板编译模式）：[AT\&T公司的](../Page/AT&T公司.md "wikilink")[C++](../Page/C++.md "wikilink")[编译器](../Page/编译器.md "wikilink")[Cfront为解决模板实例化问题](../Page/Cfront.md "wikilink")，增加了一个**模板仓库**，用以存放模板实例的代码并可被自动维护。当生成一个[目标文件时](../Page/目标文件.md "wikilink")，[编译器把遇到的模板定义与当前可生成的模板实例存放到模板仓库中](../Page/编译器.md "wikilink")。[链接时](../Page/链接.md "wikilink")，[链接器的包装程序](../Page/链接器.md "wikilink")（wrapper）首先调用[编译器生成所有需要的且不在模板仓库中的模板实例](../Page/编译器.md "wikilink")。这种方法的优点是[编译速度得到了优化](../Page/编译.md "wikilink")，而且可以直接使用系统的[链接器](../Page/链接器.md "wikilink")；这种方法的缺点是复杂度大大增加，更容易出错。使用这种模型的源程序通常把模板声明与非内联的模板成员分别放在.h文件与模板定义文件中，后者单独[编译](../Page/编译.md "wikilink")。
-  - 混合（迭代）模型：[g++目前是基于](../Page/gcc.md "wikilink")[Borland模型完成模板实例化](../Page/Borland.md "wikilink")。[g++未来将实现混合模型的模板实例化](../Page/GCC.md "wikilink")，即[编译器把](../Page/编译器.md "wikilink")[编译单元中的模板定义与遇到的当前可实现的模板实例存放在相应的](../Page/编译单元.md "wikilink")[目标文件中](../Page/目标文件.md "wikilink")；[链接器的包装程序](../Page/链接器.md "wikilink")（）调用[编译器生成所需的目前还没有实例化的模板实例](../Page/编译器.md "wikilink")；[链接器合并所有相同的模板实例](../Page/链接器.md "wikilink")。使用这种模型的源程序通常把模板声明与非内联的模板成员分别放在.h文件与模板定义文件中，后者单独[编译](../Page/编译.md "wikilink")。
+  - [Borland模型](../Page/Borland.md "wikilink")（**包含**模板编译模式）：[编译器生成每个](https://zh.wikipedia.org/wiki/编译器 "wikilink")[编译单元中遇到的所有的模板实例](https://zh.wikipedia.org/wiki/编译单元 "wikilink")，并存放在相应的[目标文件中](https://zh.wikipedia.org/wiki/目标文件 "wikilink")；[链接器合并相同的模板实例](../Page/链接器.md "wikilink")，生成[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。为了在每次模板实例化时模板的定义都是可见的，模板的声明与定义放在同一个.h文件中。这种方法的优点是[链接器只需要处理](../Page/链接器.md "wikilink")[目标文件](https://zh.wikipedia.org/wiki/目标文件 "wikilink")；这种方法的缺点是由于模板实例被重复编译，编译时间被加长了，而且不能使用系统的[链接器](../Page/链接器.md "wikilink")，需重新设计[链接器](../Page/链接器.md "wikilink")。
+  - [Cfront/查询模型](https://zh.wikipedia.org/wiki/Cfront/查询 "wikilink")（**分离**（）模板编译模式）：[AT\&T公司的](../Page/AT&T公司.md "wikilink")[C++](../Page/C++.md "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")[Cfront为解决模板实例化问题](https://zh.wikipedia.org/wiki/Cfront "wikilink")，增加了一个**模板仓库**，用以存放模板实例的代码并可被自动维护。当生成一个[目标文件时](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，[编译器把遇到的模板定义与当前可生成的模板实例存放到模板仓库中](https://zh.wikipedia.org/wiki/编译器 "wikilink")。[链接时](https://zh.wikipedia.org/wiki/链接 "wikilink")，[链接器的包装程序](../Page/链接器.md "wikilink")（wrapper）首先调用[编译器生成所有需要的且不在模板仓库中的模板实例](https://zh.wikipedia.org/wiki/编译器 "wikilink")。这种方法的优点是[编译速度得到了优化](https://zh.wikipedia.org/wiki/编译 "wikilink")，而且可以直接使用系统的[链接器](../Page/链接器.md "wikilink")；这种方法的缺点是复杂度大大增加，更容易出错。使用这种模型的源程序通常把模板声明与非内联的模板成员分别放在.h文件与模板定义文件中，后者单独[编译](https://zh.wikipedia.org/wiki/编译 "wikilink")。
+  - 混合（迭代）模型：[g++目前是基于](https://zh.wikipedia.org/wiki/gcc "wikilink")[Borland模型完成模板实例化](../Page/Borland.md "wikilink")。[g++未来将实现混合模型的模板实例化](../Page/GCC.md "wikilink")，即[编译器把](https://zh.wikipedia.org/wiki/编译器 "wikilink")[编译单元中的模板定义与遇到的当前可实现的模板实例存放在相应的](https://zh.wikipedia.org/wiki/编译单元 "wikilink")[目标文件中](https://zh.wikipedia.org/wiki/目标文件 "wikilink")；[链接器的包装程序](../Page/链接器.md "wikilink")（）调用[编译器生成所需的目前还没有实例化的模板实例](https://zh.wikipedia.org/wiki/编译器 "wikilink")；[链接器合并所有相同的模板实例](../Page/链接器.md "wikilink")。使用这种模型的源程序通常把模板声明与非内联的模板成员分别放在.h文件与模板定义文件中，后者单独[编译](https://zh.wikipedia.org/wiki/编译 "wikilink")。
 
-[ISO](../Page/ISO.md "wikilink")
+[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")
 [C++标准规定](../Page/C++.md "wikilink")，如果隐式实例化模板，则模板的成员函数一直到引用时才被实例化；如果显式实例化模板，则模板所有成员立即都被实例化，所以模板的声明与定义在此处都应该是可见的，而且在其它程序[文本文件使用了这个模板实例时用编译器选项抑制模板隐式实例化](../Page/文本文件.md "wikilink")，或者模板的定义部分是不可见的，或者使用*template\<\>
 type FUN_NAME(type list)*的语句声明模板的特化但不实例化。
 
-[g++的模板实例化](../Page/gcc.md "wikilink")，目前分为三种方式：\[8\]
+[g++的模板实例化](https://zh.wikipedia.org/wiki/gcc "wikilink")，目前分为三种方式：\[8\]
 
-  - 不指定任何特殊的[编译器参数](../Page/编译器.md "wikilink")：按[Borland模型写的源代码能正常完成模板实例化](../Page/Borland.md "wikilink")，但每个编译单元将包含所有它用到的模板实例，导致在大的程序中无法接受的代码冗余。需要用[GNU的](../Page/GNU.md "wikilink")[链接器删除各个](../Page/链接器.md "wikilink")[目标文件中冗余的模板实例](../Page/目标文件.md "wikilink")，不能使用操作系统提供的[链接器](../Page/链接器.md "wikilink")。
-  - 使用**-fno-implicit-templates**编译选项：在生成[目标文件时完全禁止隐式的模板实例化](../Page/目标文件.md "wikilink")，所有模板实例都显式的写出来，可以存放在一个单独的源文件中；也可以存放在各个模板定义文件中。如果一个很大的源文件中使用了各个模板实例，这个源文件不用-fno-implicit-templates选项编译，就可以自动隐式的生成所需要的模板实例。在生成库文件时这个编译选项特别有用。
-  - 使用**-frepo**编译选项：在生成每个[目标文件时](../Page/目标文件.md "wikilink")，把需要用到的当前可生成的模板实例存放在相应的**.rpo**文件中。[链接器包装程序](../Page/链接器.md "wikilink")(wrapper)—[collect2将删除](../Page/collect2.md "wikilink").rpo文件中冗余的模板实例并且修改相应的.rpo文件，使得[编译器可以利用](../Page/编译器.md "wikilink").rpo文件知道在那里正确放置、引用模板实例，并重新编译生成受影响的[目标文件](../Page/目标文件.md "wikilink")。由操作系统的通用的[链接器生成](../Page/链接器.md "wikilink")[可执行文件](../Page/可执行文件.md "wikilink")。这对[Borland模型是很好的模板实例化方法](../Page/Borland.md "wikilink")。对于使用[Cfront模型的软件](../Page/Cfront.md "wikilink")，需要修改源代码，在模板头文件的末尾加上*\#include
-    \<tmethods.cc\>*。不过[MinGW中不包含](../Page/MinGW.md "wikilink")[链接器包装程序](../Page/链接器.md "wikilink")[collect2](../Page/collect2.md "wikilink")，故不使用此方法。对于库(library)，建议使用显式实例化方法。
-  - 另外，[g++扩展了ISO](../Page/gcc.md "wikilink")
-    [C++标准](../Page/C++.md "wikilink")，用**extern**[关键字指出模板实例在其它编译单元中显式声明](../Page/关键字.md "wikilink")（这已经被C++11标准接受）；用**inline**[关键字实例化](../Page/关键字.md "wikilink")[编译器支持的数据](../Page/编译器.md "wikilink")（如[类的](../Page/类.md "wikilink")[虚表](../Page/虚表.md "wikilink")）但不实例化模板成员；用**static**[关键字实例化模板的](../Page/关键字.md "wikilink")[静态数据成员但不实例化其它非静态的模板成员](../Page/静态数据成员.md "wikilink")。
-  - [g++不支持模板实例化的](../Page/gcc.md "wikilink")**export**[关键字](../Page/关键字.md "wikilink")（此关键字的这个用法已在C++11标准里被取消）。
+  - 不指定任何特殊的[编译器参数](https://zh.wikipedia.org/wiki/编译器 "wikilink")：按[Borland模型写的源代码能正常完成模板实例化](../Page/Borland.md "wikilink")，但每个编译单元将包含所有它用到的模板实例，导致在大的程序中无法接受的代码冗余。需要用[GNU的](../Page/GNU.md "wikilink")[链接器删除各个](../Page/链接器.md "wikilink")[目标文件中冗余的模板实例](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，不能使用操作系统提供的[链接器](../Page/链接器.md "wikilink")。
+  - 使用**-fno-implicit-templates**编译选项：在生成[目标文件时完全禁止隐式的模板实例化](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，所有模板实例都显式的写出来，可以存放在一个单独的源文件中；也可以存放在各个模板定义文件中。如果一个很大的源文件中使用了各个模板实例，这个源文件不用-fno-implicit-templates选项编译，就可以自动隐式的生成所需要的模板实例。在生成库文件时这个编译选项特别有用。
+  - 使用**-frepo**编译选项：在生成每个[目标文件时](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，把需要用到的当前可生成的模板实例存放在相应的**.rpo**文件中。[链接器包装程序](../Page/链接器.md "wikilink")(wrapper)—[collect2将删除](https://zh.wikipedia.org/wiki/collect2 "wikilink").rpo文件中冗余的模板实例并且修改相应的.rpo文件，使得[编译器可以利用](https://zh.wikipedia.org/wiki/编译器 "wikilink").rpo文件知道在那里正确放置、引用模板实例，并重新编译生成受影响的[目标文件](https://zh.wikipedia.org/wiki/目标文件 "wikilink")。由操作系统的通用的[链接器生成](../Page/链接器.md "wikilink")[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。这对[Borland模型是很好的模板实例化方法](../Page/Borland.md "wikilink")。对于使用[Cfront模型的软件](https://zh.wikipedia.org/wiki/Cfront "wikilink")，需要修改源代码，在模板头文件的末尾加上*\#include
+    \<tmethods.cc\>*。不过[MinGW中不包含](../Page/MinGW.md "wikilink")[链接器包装程序](../Page/链接器.md "wikilink")[collect2](https://zh.wikipedia.org/wiki/collect2 "wikilink")，故不使用此方法。对于库(library)，建议使用显式实例化方法。
+  - 另外，[g++扩展了ISO](https://zh.wikipedia.org/wiki/gcc "wikilink")
+    [C++标准](../Page/C++.md "wikilink")，用**extern**[关键字指出模板实例在其它编译单元中显式声明](https://zh.wikipedia.org/wiki/关键字 "wikilink")（这已经被C++11标准接受）；用**inline**[关键字实例化](https://zh.wikipedia.org/wiki/关键字 "wikilink")[编译器支持的数据](https://zh.wikipedia.org/wiki/编译器 "wikilink")（如[类的](https://zh.wikipedia.org/wiki/类 "wikilink")[虚表](https://zh.wikipedia.org/wiki/虚表 "wikilink")）但不实例化模板成员；用**static**[关键字实例化模板的](https://zh.wikipedia.org/wiki/关键字 "wikilink")[静态数据成员但不实例化其它非静态的模板成员](https://zh.wikipedia.org/wiki/静态数据成员 "wikilink")。
+  - [g++不支持模板实例化的](https://zh.wikipedia.org/wiki/gcc "wikilink")**export**[关键字](https://zh.wikipedia.org/wiki/关键字 "wikilink")（此关键字的这个用法已在C++11标准里被取消）。
 
-[VC++](../Page/VC++.md "wikilink")7.0中必须类模板实例化只有[Borland模型](../Page/Borland.md "wikilink")；函数模板一般隐式实例化，自5.0版以后也可显式实例化。
+[VC++](https://zh.wikipedia.org/wiki/VC++ "wikilink")7.0中必须类模板实例化只有[Borland模型](../Page/Borland.md "wikilink")；函数模板一般隐式实例化，自5.0版以后也可显式实例化。
 
 ## 参考文献
 
 <references/>
 
 [de:Vorlage
-(Datenverarbeitung)](../Page/de:Vorlage_\(Datenverarbeitung\).md "wikilink")
+(Datenverarbeitung)](https://zh.wikipedia.org/wiki/de:Vorlage_\(Datenverarbeitung\) "wikilink")
 [fr:Modèle
-(informatique)](../Page/fr:Modèle_\(informatique\).md "wikilink")
+(informatique)](https://zh.wikipedia.org/wiki/fr:Modèle_\(informatique\) "wikilink")
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 

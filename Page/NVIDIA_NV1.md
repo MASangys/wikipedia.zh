@@ -1,10 +1,10 @@
-**NV1**是由[NVIDIA用了兩年時間研發](../Page/NVIDIA.md "wikilink")，於1995年5月推出的[顯示晶片](../Page/GPU.md "wikilink")\[1\]。它亦是NVIDIA自創立起的首款產品。NVIDIA曾授權[SGS
+**NV1**是由[NVIDIA用了兩年時間研發](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，於1995年5月推出的[顯示晶片](https://zh.wikipedia.org/wiki/GPU "wikilink")\[1\]。它亦是NVIDIA自創立起的首款產品。NVIDIA曾授權[SGS
 Thomson Microelectronics生產](../Page/意法半導體.md "wikilink")，型号為STG2000X。
 
 ## 产品介绍
 
 當時還沒有像[Direct3D的多边形](../Page/Direct3D.md "wikilink")3D标准，所以nVIDIA使用了二次方程纹理贴图作為立體圖形的实现方式。它不但拥有完整的2D/3D核心，還內建了声音处理核心。這个声音处理核心的性能有350
-MIPS，能处理简单的立體声，但這个音效核心的功能相比很多同期的[声卡為差](../Page/声卡.md "wikilink")，還含有一個[DMA引擎](../Page/DMA.md "wikilink")，能利用[PCI接口](../Page/PCI.md "wikilink")，與系統[記憶體直接交換數據](../Page/記憶體.md "wikilink")，避免佔用顯示[記憶體](../Page/記憶體.md "wikilink")。說回顯核部分，它首次使用VRAM作為[顯存](../Page/顯存.md "wikilink")。游戏接口方面，NV1直接支持[世嘉土星游戏手柄和操纵杆](../Page/世嘉土星.md "wikilink")。
+MIPS，能处理简单的立體声，但這个音效核心的功能相比很多同期的[声卡為差](../Page/声卡.md "wikilink")，還含有一個[DMA引擎](https://zh.wikipedia.org/wiki/DMA "wikilink")，能利用[PCI接口](https://zh.wikipedia.org/wiki/PCI "wikilink")，與系統[記憶體直接交換數據](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，避免佔用顯示[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。說回顯核部分，它首次使用VRAM作為[顯存](https://zh.wikipedia.org/wiki/顯存 "wikilink")。游戏接口方面，NV1直接支持[世嘉土星游戏手柄和操纵杆](../Page/世嘉土星.md "wikilink")。
 
 隨後[微软在](../Page/微软.md "wikilink")[Windows
 95制订了Direct](../Page/Windows_95.md "wikilink")3D多边形立體标准，縱使NV1的二次方程纹理贴图是出色的技术，但始終不兼容Direct3D，亦不支援當時還很流行的GLIDE。Diamond推出的NV1大幅度降低了產品售價，並附送一个[世嘉土星游戏手柄](../Page/世嘉土星.md "wikilink")，都无济于事。NV1始終未能打進主流市场，而电腦厂商也拒绝使用不兼容Direct3D的圖形芯片。為了節省開支以研發Direct3D圖形芯片，NVIDIA解雇了部分员工。
@@ -27,7 +27,8 @@ MIPS，能处理简单的立體声，但這个音效核心的功能相比很多�
 
 <!-- end list -->
 
-  - [Diamond Multimedia（帝盟多媒體）](../Page/帝盟多媒體.md "wikilink")
+  - [Diamond
+    Multimedia（帝盟多媒體）](https://zh.wikipedia.org/wiki/帝盟多媒體 "wikilink")
       - EDGE 3D 2120
       - EDGE 3D 2200
       - EDGE 3D 3240
@@ -55,7 +56,7 @@ MIPS，能处理简单的立體声，但這个音效核心的功能相比很多�
 
 <!-- end list -->
 
-  - [Leadtek（麗台）](../Page/麗台科技.md "wikilink")
+  - [Leadtek（麗台）](https://zh.wikipedia.org/wiki/麗台科技 "wikilink")
       - WinFast Proview 3D GD400
       - WinFast Proview 3D GD500
 
@@ -67,7 +68,7 @@ MIPS，能处理简单的立體声，但這个音效核心的功能相比很多�
 
 <!-- end list -->
 
-  - [Yuan（聰泰）](../Page/同德股份有限公司.md "wikilink")
+  - [Yuan（聰泰）](https://zh.wikipedia.org/wiki/同德股份有限公司 "wikilink")
       - JRS-3DS100
 
 ## 參考連結
@@ -76,7 +77,7 @@ MIPS，能处理简单的立體声，但這个音效核心的功能相比很多�
 
 ## 相關條目
 
-  - [NVIDIA顯示核心列表](../Page/NVIDIA顯示核心列表.md "wikilink")
+  - [NVIDIA顯示核心列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
 
 ## 外部連結
 

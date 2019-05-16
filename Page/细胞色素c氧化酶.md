@@ -1,16 +1,16 @@
 [ETC_(zh-cn).svg](https://zh.wikipedia.org/wiki/File:ETC_\(zh-cn\).svg "fig:ETC_(zh-cn).svg")，显示为紫色的复合物IV可以将氧气还原为水分子。\]\]
-**细胞色素*c*氧化酶**（）是一种[氧化还原酶](../Page/氧化还原酶.md "wikilink")，通用名为“细胞色素-*c*氧化酶”，系统名称为“亚铁细胞色素-*c*:氧气氧化还原酶”（）。它是一种存在于[细菌或](../Page/细菌.md "wikilink")[线粒体上的大型](../Page/线粒体.md "wikilink")[跨膜蛋白](../Page/跨膜蛋白.md "wikilink")[复合物](../Page/蛋白质复合物.md "wikilink")。由于细胞色素氧化酶是[呼吸作用](../Page/呼吸作用.md "wikilink")[电子传递链的第四个中心酶复合物](../Page/电子传递链.md "wikilink")，因此又被称为**复合物IV**（英文）。它可以接受来自四个[细胞色素c的四个电子](../Page/细胞色素c.md "wikilink")，并传递到一个[氧气分子上](../Page/氧气.md "wikilink")，将氧气转化为两个水分子。在这一进程中，它结合来自基质内的四个[质子来制造水分子](../Page/质子.md "wikilink")，同时跨膜转运四个质子，从而有助于形成跨膜的质子[电化学势能差](../Page/电化学势能.md "wikilink")，而这一势能差可以被[三磷酸腺苷合酶用于制造生物体中最基本的能量分子](../Page/三磷酸腺苷合酶.md "wikilink")[ATP](../Page/三磷酸腺苷.md "wikilink")。
+**细胞色素*c*氧化酶**（）是一种[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")，通用名为“细胞色素-*c*氧化酶”，系统名称为“亚铁细胞色素-*c*:氧气氧化还原酶”（）。它是一种存在于[细菌或](../Page/细菌.md "wikilink")[线粒体上的大型](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[跨膜蛋白](../Page/跨膜蛋白.md "wikilink")[复合物](https://zh.wikipedia.org/wiki/蛋白质复合物 "wikilink")。由于细胞色素氧化酶是[呼吸作用](../Page/呼吸作用.md "wikilink")[电子传递链的第四个中心酶复合物](https://zh.wikipedia.org/wiki/电子传递链 "wikilink")，因此又被称为**复合物IV**（英文）。它可以接受来自四个[细胞色素c的四个电子](https://zh.wikipedia.org/wiki/细胞色素c "wikilink")，并传递到一个[氧气分子上](../Page/氧气.md "wikilink")，将氧气转化为两个水分子。在这一进程中，它结合来自基质内的四个[质子来制造水分子](https://zh.wikipedia.org/wiki/质子 "wikilink")，同时跨膜转运四个质子，从而有助于形成跨膜的质子[电化学势能差](https://zh.wikipedia.org/wiki/电化学势能 "wikilink")，而这一势能差可以被[三磷酸腺苷合酶用于制造生物体中最基本的能量分子](https://zh.wikipedia.org/wiki/三磷酸腺苷合酶 "wikilink")[ATP](../Page/三磷酸腺苷.md "wikilink")。
 
 ## 结构
 
 [Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png](https://zh.wikipedia.org/wiki/File:Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png "fig:Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png")
-细胞色素氧化酶复合物是一个大型[蛋白質](../Page/蛋白質.md "wikilink")，位於[粒線體內膜](../Page/粒線體.md "wikilink")（inner-membrane）上，含有多个金属[辅因子和](../Page/辅因子.md "wikilink")13个[亚基](../Page/蛋白质亚基.md "wikilink")（在哺乳动物细胞中）。其中，10个亚基是来自[细胞核](../Page/细胞核.md "wikilink")，而另外三个亚基则是在线粒体中合成。复合物还含有两个血红素、一个细胞色素a和细胞色素a<sub>3</sub>以及两个[铜中心](../Page/铜.md "wikilink")（Cu<sub>A</sub>和Cu<sub>B</sub>）。\[1\]实际上，细胞色素a<sub>3</sub>和Cu<sub>B</sub>形成了一个双核心中心，作为氧气的还原位点。[细胞色素c被呼吸链复合物IV还原后](../Page/细胞色素c.md "wikilink")，會结合到Cu<sub>A</sub>双核中心，並把一個[電子傳遞給雙合中心](../Page/電子.md "wikilink")，[细胞色素c本身則恢復氧化状态](../Page/细胞色素c.md "wikilink")（细胞色素c上的铁从+2价氧化到+3价）。被还原的Cu<sub>A</sub>双核中心再将一个电子通过细胞色素a传递给细胞色素a<sub>3</sub>-Cu<sub>B</sub>双核中心。在这一双核中心上的两个金属离子相距4.5[Å](../Page/埃格斯特朗_\(单位\).md "wikilink")，并通过一个处于完全氧化状态的[氢氧根离子相连接](../Page/氢氧根离子.md "wikilink")。
+细胞色素氧化酶复合物是一个大型[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，位於[粒線體內膜](https://zh.wikipedia.org/wiki/粒線體 "wikilink")（inner-membrane）上，含有多个金属[辅因子和](../Page/辅因子.md "wikilink")13个[亚基](https://zh.wikipedia.org/wiki/蛋白质亚基 "wikilink")（在哺乳动物细胞中）。其中，10个亚基是来自[细胞核](https://zh.wikipedia.org/wiki/细胞核 "wikilink")，而另外三个亚基则是在线粒体中合成。复合物还含有两个血红素、一个细胞色素a和细胞色素a<sub>3</sub>以及两个[铜中心](../Page/铜.md "wikilink")（Cu<sub>A</sub>和Cu<sub>B</sub>）。\[1\]实际上，细胞色素a<sub>3</sub>和Cu<sub>B</sub>形成了一个双核心中心，作为氧气的还原位点。[细胞色素c被呼吸链复合物IV还原后](https://zh.wikipedia.org/wiki/细胞色素c "wikilink")，會结合到Cu<sub>A</sub>双核中心，並把一個[電子傳遞給雙合中心](https://zh.wikipedia.org/wiki/電子 "wikilink")，[细胞色素c本身則恢復氧化状态](https://zh.wikipedia.org/wiki/细胞色素c "wikilink")（细胞色素c上的铁从+2价氧化到+3价）。被还原的Cu<sub>A</sub>双核中心再将一个电子通过细胞色素a传递给细胞色素a<sub>3</sub>-Cu<sub>B</sub>双核中心。在这一双核中心上的两个金属离子相距4.5[Å](https://zh.wikipedia.org/wiki/埃格斯特朗_\(单位\) "wikilink")，并通过一个处于完全氧化状态的[氢氧根离子相连接](https://zh.wikipedia.org/wiki/氢氧根离子 "wikilink")。
 
-对牛细胞色素氧化酶的[结构研究显示](../Page/结构生物学.md "wikilink")，它发生了特殊的[翻译后修饰](../Page/翻译后修饰.md "wikilink")，即其244位上的[酪氨酸](../Page/酪氨酸.md "wikilink")（Tyr244）的[C](../Page/碳.md "wikilink")6原子和240位上的[组氨酸](../Page/组氨酸.md "wikilink")[Nε原子被](../Page/氮.md "wikilink")[共价连接](../Page/共价键.md "wikilink")。这一修饰作用在细胞色素a<sub>3</sub>-Cu<sub>B</sub>双核中心接受4个电子来将氧气还原为水分子的过程中发挥了重要作用。过去认为还原机制包括有一个可以导致[超氧化物形成的](../Page/超氧化物.md "wikilink")[过氧化物中间体](../Page/过氧化物.md "wikilink")。但现在普遍接受的机制是一个快速的四电子还原过程，包括迅速的氧-氧键剪切，以避免任何中间产物形成超氧化物的可能性。\[2\]
+对牛细胞色素氧化酶的[结构研究显示](../Page/结构生物学.md "wikilink")，它发生了特殊的[翻译后修饰](../Page/翻译后修饰.md "wikilink")，即其244位上的[酪氨酸](../Page/酪氨酸.md "wikilink")（Tyr244）的[C](../Page/碳.md "wikilink")6原子和240位上的[组氨酸](https://zh.wikipedia.org/wiki/组氨酸 "wikilink")[Nε原子被](../Page/氮.md "wikilink")[共价连接](../Page/共价键.md "wikilink")。这一修饰作用在细胞色素a<sub>3</sub>-Cu<sub>B</sub>双核中心接受4个电子来将氧气还原为水分子的过程中发挥了重要作用。过去认为还原机制包括有一个可以导致[超氧化物形成的](../Page/超氧化物.md "wikilink")[过氧化物中间体](https://zh.wikipedia.org/wiki/过氧化物 "wikilink")。但现在普遍接受的机制是一个快速的四电子还原过程，包括迅速的氧-氧键剪切，以避免任何中间产物形成超氧化物的可能性。\[2\]
 
 ## 组装
 
-细胞色素氧化酶是由多个亚基和辅因子组成的，必须要通过组装才能形成完成的活性分子。它的组装位点被认为接近[TOM／TIM复合体](../Page/线粒体膜转运蛋白.md "wikilink")；在这一位置，复合物中间体可以与来自[原生质中的亚基结合](../Page/原生质.md "wikilink")。血红素和辅因子被插入到亚基I和II中。亚基I和IV可以启动组装。其他亚基可以先形成亚复合物中间体，然后再与亚基I和IV结合形成完整的细胞色素氧化酶。在组装后修饰中，酶分子发生二聚化以获得有效的酶活性。二聚体是通过一个[心磷脂](../Page/心磷脂.md "wikilink")（cardiolipin）分子来连接。整个组装机制的信息已经得到大量的揭示，\[3\]
+细胞色素氧化酶是由多个亚基和辅因子组成的，必须要通过组装才能形成完成的活性分子。它的组装位点被认为接近[TOM／TIM复合体](../Page/线粒体膜转运蛋白.md "wikilink")；在这一位置，复合物中间体可以与来自[原生质中的亚基结合](https://zh.wikipedia.org/wiki/原生质 "wikilink")。血红素和辅因子被插入到亚基I和II中。亚基I和IV可以启动组装。其他亚基可以先形成亚复合物中间体，然后再与亚基I和IV结合形成完整的细胞色素氧化酶。在组装后修饰中，酶分子发生二聚化以获得有效的酶活性。二聚体是通过一个[心磷脂](https://zh.wikipedia.org/wiki/心磷脂 "wikilink")（cardiolipin）分子来连接。整个组装机制的信息已经得到大量的揭示，\[3\]
 但具体过程还有待进一步的研究。
 
 ## 生物化学性质
@@ -33,11 +33,11 @@ H<sup>+</sup><sub><span style="font-size:smaller;">出</span></sub>
 
 ## 相关遗传紊乱疾病
 
-细胞色素氧化酶[基因上的缺陷](../Page/基因.md "wikilink")，包括突变，能够导致严重的常常甚至是致命的[代谢紊乱](../Page/代谢紊乱.md "wikilink")。这种紊乱通常出现在幼儿时代的早期，并且主要影响需要高能量的组织器官（脑、心脏、肌肉）。在许多分级的[线粒体疾病中](../Page/线粒体疾病.md "wikilink")，与细胞色素氧化酶组装缺陷的疾病被认为是最严重的。\[6\]
+细胞色素氧化酶[基因上的缺陷](../Page/基因.md "wikilink")，包括突变，能够导致严重的常常甚至是致命的[代谢紊乱](https://zh.wikipedia.org/wiki/代谢紊乱 "wikilink")。这种紊乱通常出现在幼儿时代的早期，并且主要影响需要高能量的组织器官（脑、心脏、肌肉）。在许多分级的[线粒体疾病中](https://zh.wikipedia.org/wiki/线粒体疾病 "wikilink")，与细胞色素氧化酶组装缺陷的疾病被认为是最严重的。\[6\]
 
-细胞色素氧化酶所造成的紊乱主要是与细胞核编码的作为组装因子的亚基蛋白上的突变相关。这些组装因子对于酶复合物的结构和功能都是非常重要的，它们参与了多个关键的进程，包括线粒体编码的亚基的[转录和](../Page/转录.md "wikilink")[翻译](../Page/翻译_\(遗传学\).md "wikilink")、对前体蛋白的剪切以及膜的插入、辅因子的生物合成以及插入。\[7\]
+细胞色素氧化酶所造成的紊乱主要是与细胞核编码的作为组装因子的亚基蛋白上的突变相关。这些组装因子对于酶复合物的结构和功能都是非常重要的，它们参与了多个关键的进程，包括线粒体编码的亚基的[转录和](../Page/转录.md "wikilink")[翻译](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")、对前体蛋白的剪切以及膜的插入、辅因子的生物合成以及插入。\[7\]
 
-在病人体内发现的带有突变的组装因子有[SURF1](../Page/SURF1.md "wikilink")、[SCO1](../Page/SCO1.md "wikilink")、[SCO2](../Page/SCO2.md "wikilink")、[COX10](../Page/COX10.md "wikilink")、[COX15和](../Page/COX15.md "wikilink")[LRPPRC](../Page/LRPPRC.md "wikilink")。这些突变能够导致亚复合物的组装、铜的运输或转录调控的功能发生改变。每一个基因突变都与一种特定疾病相关，其中一些还与多种紊乱疾病相关。由于基因突变引起的细胞色素氧化酶组装缺陷相关的紊乱症包括[Leigh综合征](../Page/Leigh综合征.md "wikilink")、[心肌病](../Page/心肌病.md "wikilink")（cardiomyopathy）、[脑白质病](../Page/脑白质病.md "wikilink")（leukodystrophy）、[贫血和](../Page/贫血.md "wikilink")[感觉神经性耳聋](../Page/感觉神经性耳聋.md "wikilink")。
+在病人体内发现的带有突变的组装因子有[SURF1](https://zh.wikipedia.org/wiki/SURF1 "wikilink")、[SCO1](https://zh.wikipedia.org/wiki/SCO1 "wikilink")、[SCO2](https://zh.wikipedia.org/wiki/SCO2 "wikilink")、[COX10](https://zh.wikipedia.org/wiki/COX10 "wikilink")、[COX15和](https://zh.wikipedia.org/wiki/COX15 "wikilink")[LRPPRC](https://zh.wikipedia.org/wiki/LRPPRC "wikilink")。这些突变能够导致亚复合物的组装、铜的运输或转录调控的功能发生改变。每一个基因突变都与一种特定疾病相关，其中一些还与多种紊乱疾病相关。由于基因突变引起的细胞色素氧化酶组装缺陷相关的紊乱症包括[Leigh综合征](https://zh.wikipedia.org/wiki/Leigh综合征 "wikilink")、[心肌病](https://zh.wikipedia.org/wiki/心肌病 "wikilink")（cardiomyopathy）、[脑白质病](https://zh.wikipedia.org/wiki/脑白质病 "wikilink")（leukodystrophy）、[贫血和](https://zh.wikipedia.org/wiki/贫血 "wikilink")[感觉神经性耳聋](https://zh.wikipedia.org/wiki/感觉神经性耳聋 "wikilink")。
 
 ## 参考资料
 
@@ -45,7 +45,8 @@ H<sup>+</sup><sub><span style="font-size:smaller;">出</span></sub>
 
   - [The Cytochrome Oxidase home
     page](https://web.archive.org/web/20021013113802/http://www-bioc.rice.edu/~graham/CcO.html)
-    at [Rice University](../Page/Rice_University.md "wikilink")
+    at [Rice
+    University](https://zh.wikipedia.org/wiki/Rice_University "wikilink")
 
   - [Interactive Molecular model of cytochrome c
     oxidase](https://web.archive.org/web/20090111220321/http://www2.ufp.pt/~pedros/anim/2frame-iven.htm)

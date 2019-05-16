@@ -1,10 +1,10 @@
-**樂天株式會社**（，），是[三木谷浩史于](../Page/三木谷浩史.md "wikilink")1997年2月7日創辦的一家经营互联网服务的公司。旗下企业包括：日本[電商平台](../Page/電商.md "wikilink")「樂天市場」、[门户网站](../Page/门户网站.md "wikilink")「Infoseek」等[網站](../Page/網站.md "wikilink")。
+**樂天株式會社**（，），是[三木谷浩史于](../Page/三木谷浩史.md "wikilink")1997年2月7日創辦的一家经营互联网服务的公司。旗下企业包括：日本[電商平台](https://zh.wikipedia.org/wiki/電商 "wikilink")「樂天市場」、[门户网站](../Page/门户网站.md "wikilink")「Infoseek」等[網站](../Page/網站.md "wikilink")。
 
 ## 历史
 
 1997年2月，樂天（Rakuten）株式會社創立。同年5月，「樂天市場」誕生，在網站開設的店舖共計13間。\[1\]
 
-樂天自2000年開始[併購其他公司](../Page/併購.md "wikilink")，相關企業還包含[證券公司](../Page/證券公司.md "wikilink")、[職業棒球隊](../Page/東北樂天金鷹.md "wikilink")、[旅遊網站等](../Page/旅遊.md "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](../Page/經團連.md "wikilink")。
+樂天自2000年開始[併購其他公司](../Page/併購.md "wikilink")，相關企業還包含[證券公司](https://zh.wikipedia.org/wiki/證券公司 "wikilink")、[職業棒球隊](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")、[旅遊網站等](https://zh.wikipedia.org/wiki/旅遊 "wikilink")。該公司現時是[JASDAQ](../Page/JASDAQ.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")，也是日本[經團連會員](https://zh.wikipedia.org/wiki/經團連 "wikilink")。
 
 2007年11月29日，樂天株式會社在[臺灣](../Page/臺灣.md "wikilink")[臺北市與](../Page/臺北市.md "wikilink")[統一企業集團簽約成立合資公司](../Page/統一企業.md "wikilink")[台灣樂天市場](../Page/台灣樂天市場.md "wikilink")（樂天株式會社持股51％，[統一超商持股](../Page/統一超商.md "wikilink")49％），2008年第二季正式開始營運，臺灣是樂天市場的第一個海外拓點。
 
@@ -21,7 +21,7 @@ Crimson House\[2\]，从事銀行業。
 另外，樂天株式會社也有成立市場調查機構，名稱叫做「AIP」。2017年7月1日起，在名稱前面加上「Rakuten」，更改為「Rakuten
 AIP」。
 
-2016年9月29日，樂天株式會社在[台灣成立台灣樂天Kobo電子書](../Page/台灣.md "wikilink")\[3\]，與城邦、遠流、大塊、聯經、圓神等12家台灣出版社合作，首波推出數千冊繁體中文書籍。\[4\]
+2016年9月29日，樂天株式會社在[台灣成立台灣樂天Kobo電子書](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[3\]，與城邦、遠流、大塊、聯經、圓神等12家台灣出版社合作，首波推出數千冊繁體中文書籍。\[4\]
 
 2017年底，樂天株式會社出售旗下Ebates中國站業務給55海淘\[5\]，2018年2月1日，Ebates中國站正式宣佈全面被收購\[6\]。
 

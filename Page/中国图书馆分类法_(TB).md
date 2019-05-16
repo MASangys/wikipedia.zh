@@ -1,4 +1,4 @@
-  - TB 一般[工业技术](../Page/工业.md "wikilink")
+  - TB 一般[工业技术](https://zh.wikipedia.org/wiki/工业 "wikilink")
 
 :\*TB1 工程基础科学
 
@@ -52,7 +52,7 @@
 
 ::\*TB18 人体工程学
 
-:\*TB2 [工程设计与测绘](../Page/工程设计.md "wikilink")
+:\*TB2 [工程设计与测绘](https://zh.wikipedia.org/wiki/工程设计 "wikilink")
 
 ::\*TB21 工程设计
 
@@ -70,7 +70,7 @@
 
 ::\*TB24 工程模拟
 
-:\*TB3 [工程材料学](../Page/工程材料学.md "wikilink")
+:\*TB3 [工程材料学](https://zh.wikipedia.org/wiki/工程材料学 "wikilink")
 
 :::\*TB301 工程材料力学（材料强弱学）
 
@@ -124,7 +124,7 @@
 
 ::\*TB39 其他材料
 
-:\*TB4 [工业通用技术与设备](../Page/工业通用技术.md "wikilink")
+:\*TB4 [工业通用技术与设备](https://zh.wikipedia.org/wiki/工业通用技术 "wikilink")
 
 ::\*TB41 爆破技术
 
@@ -210,7 +210,7 @@
 
 :::\*TB499 工业三废处理与综合利用
 
-:\*TB5 [声学工程](../Page/声学工程.md "wikilink")
+:\*TB5 [声学工程](https://zh.wikipedia.org/wiki/声学工程 "wikilink")
 
 ::\*TB51 声学仪器
 
@@ -318,7 +318,7 @@
 
 ::\*TB57 光声工程
 
-:\*TB6 [制冷工程](../Page/制冷工程.md "wikilink")
+:\*TB6 [制冷工程](https://zh.wikipedia.org/wiki/制冷工程 "wikilink")
 
 ::\*TB61 制冷理论
 
@@ -394,7 +394,7 @@
 
 ::\*TB69 制冷应用
 
-:\*TB7 [真空技术](../Page/真空技术.md "wikilink")
+:\*TB7 [真空技术](https://zh.wikipedia.org/wiki/真空技术 "wikilink")
 
 ::\*TB71 真空技术基础理论
 
@@ -516,7 +516,7 @@
 
 ::\*TB79 真空技术的应用
 
-:\*TB8 [摄影技术](../Page/摄影技术.md "wikilink")
+:\*TB8 [摄影技术](https://zh.wikipedia.org/wiki/摄影技术 "wikilink")
 
 ::\*TB81 [摄影理论](../Page/摄影.md "wikilink")
 
@@ -550,11 +550,11 @@
 
 ::::\*TB812+.5 调色原理
 
-::\*TB82 [拍摄技术](../Page/拍摄技术.md "wikilink")
+::\*TB82 [拍摄技术](https://zh.wikipedia.org/wiki/拍摄技术 "wikilink")
 
-::\*TB84 [感光材料](../Page/感光材料.md "wikilink")
+::\*TB84 [感光材料](https://zh.wikipedia.org/wiki/感光材料 "wikilink")
 
-::\*TB85 [摄影机具与设备](../Page/摄影机.md "wikilink")
+::\*TB85 [摄影机具与设备](https://zh.wikipedia.org/wiki/摄影机 "wikilink")
 
 :::\*TB851 光学镜头、滤光器
 
@@ -728,7 +728,7 @@
 
 :::\*TB879 其他
 
-::\*TB88 [洗印技术](../Page/洗印技术.md "wikilink")
+::\*TB88 [洗印技术](https://zh.wikipedia.org/wiki/洗印技术 "wikilink")
 
 :::\*TB881 负片过程
 
@@ -747,13 +747,14 @@
 :\*TB9 [计量学](../Page/计量学.md "wikilink")
 
 ::\*TB91
-[计量单位与](../Page/计量单位.md "wikilink")[单位制](../Page/单位制.md "wikilink")
+[计量单位与](../Page/计量单位.md "wikilink")[单位制](https://zh.wikipedia.org/wiki/单位制 "wikilink")
 
 :::\*TB91-6 计量单位与单位制参考工具书
 
 ::::\*TB91-62 [计量单位手册](../Page/计量单位.md "wikilink")
 
-::::\*TB91-64 [度量衡换算法和换算表](../Page/度量衡换算法.md "wikilink")
+::::\*TB91-64
+[度量衡换算法和换算表](https://zh.wikipedia.org/wiki/度量衡换算法 "wikilink")
 
 :::\*TB911 公制（米制）
 

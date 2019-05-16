@@ -3,21 +3,21 @@
 ## 历史
 
 由Jack Thompson、Dan Gregory及Ed
-McVaney三個人，共同於1977年的美國[科羅拉多州](../Page/科羅拉多州.md "wikilink")[丹佛市成立](../Page/丹佛.md "wikilink")。該公司最早推出的會計軟體就直接以公司名稱為其軟體產品名稱，並執行於[IBM的迷你電腦](../Page/IBM.md "wikilink")（[System/34及](../Page/System/34.md "wikilink")[System/36](../Page/System/36.md "wikilink")）上，到了1980年代中則轉專注到IBM的[System/38迷你電腦上](../Page/System/38.md "wikilink")，更之後此一系列的迷你電腦改名成IBM
-[AS/400](../Page/AS/400.md "wikilink")。
+McVaney三個人，共同於1977年的美國[科羅拉多州](../Page/科羅拉多州.md "wikilink")[丹佛市成立](../Page/丹佛.md "wikilink")。該公司最早推出的會計軟體就直接以公司名稱為其軟體產品名稱，並執行於[IBM的迷你電腦](../Page/IBM.md "wikilink")（[System/34及](https://zh.wikipedia.org/wiki/System/34 "wikilink")[System/36](https://zh.wikipedia.org/wiki/System/36 "wikilink")）上，到了1980年代中則轉專注到IBM的[System/38迷你電腦上](https://zh.wikipedia.org/wiki/System/38 "wikilink")，更之後此一系列的迷你電腦改名成IBM
+[AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink")。
 
 此外J.D.
-Edwards公司逐漸為其會計軟體追加功能，逐漸演變形成一個具平台獨立性的[企業資源規劃](../Page/ERP.md "wikilink")（Enterprise
+Edwards公司逐漸為其會計軟體追加功能，逐漸演變形成一個具平台獨立性的[企業資源規劃](https://zh.wikipedia.org/wiki/ERP "wikilink")（Enterprise
 Resource
-Planning，簡稱：[ERP](../Page/ERP.md "wikilink")）商務應用程式，並在1996年改名為OneWorld。
+Planning，簡稱：[ERP](https://zh.wikipedia.org/wiki/ERP "wikilink")）商務應用程式，並在1996年改名為OneWorld。
 
 1998年5月，Ed
-McVaney贊助超過3,200萬美元給[林肯內布拉斯加大學](../Page/林肯內布拉斯加大學.md "wikilink")（University
+McVaney贊助超過3,200萬美元給[林肯內布拉斯加大學](https://zh.wikipedia.org/wiki/林肯內布拉斯加大學 "wikilink")（University
 of Nebraska-Lincoln）以成立J.D. Edwards Honors
-Program（榮譽獎、獎助學金計畫），此計畫用來鼓勵：將「[電腦科學教育](../Page/電腦科學.md "wikilink")」與「[商業管理技能](../Page/管理學.md "wikilink")」兩者相結合，以培養出下一代的商業專才。
+Program（榮譽獎、獎助學金計畫），此計畫用來鼓勵：將「[電腦科學教育](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")」與「[商業管理技能](https://zh.wikipedia.org/wiki/管理學 "wikilink")」兩者相結合，以培養出下一代的商業專才。
 
 2003年6月，J.D.
-Edwards的董事會接受[仁科公司](../Page/仁科公司.md "wikilink")（[PeopleSoft](../Page/PeopleSoft.md "wikilink")）的收併提案，並於7月完成接收，接收後OneWorld軟體納入仁科公司旗下的產品線，並改名為EnterpriseOne。2004年12月[甲骨文公司收併](../Page/甲骨文公司.md "wikilink")[仁科公司](../Page/仁科公司.md "wikilink")，並持續維護支援J.D.
+Edwards的董事會接受[仁科公司](https://zh.wikipedia.org/wiki/仁科公司 "wikilink")（[PeopleSoft](https://zh.wikipedia.org/wiki/PeopleSoft "wikilink")）的收併提案，並於7月完成接收，接收後OneWorld軟體納入仁科公司旗下的產品線，並改名為EnterpriseOne。2004年12月[甲骨文公司收併](../Page/甲骨文公司.md "wikilink")[仁科公司](https://zh.wikipedia.org/wiki/仁科公司 "wikilink")，並持續維護支援J.D.
 Edwards公司原有的（軟體）產品。
 
 此外甲骨文公司對外透露該公司正在研發中的軟體，此稱為 "融合專案，Project Fusion

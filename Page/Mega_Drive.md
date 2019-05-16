@@ -1,7 +1,7 @@
 是[日本](../Page/日本.md "wikilink")[世嘉在](../Page/世嘉.md "wikilink")1988年推出的16-bit家用遊戲機，1989年在美國推出。
 
 Mega
-Drive在全球共售出3075万台。此外[Tectoy在巴西售出大约](../Page/Tectoy.md "wikilink")300万台授权的兼容机。Majesco估計在美国共售出150万台授权的兼容机。
+Drive在全球共售出3075万台。此外[Tectoy在巴西售出大约](https://zh.wikipedia.org/wiki/Tectoy "wikilink")300万台授权的兼容机。Majesco估計在美国共售出150万台授权的兼容机。
 
 ## 历史
 
@@ -28,20 +28,20 @@ kB显存。能够一次从512个调色板中显示最多至61个颜色。\[2\]�
 
 ### 音效
 
-  - [山葉](../Page/山葉.md "wikilink") YM2612
+  - [山葉](https://zh.wikipedia.org/wiki/山葉 "wikilink") YM2612
 
-:\*[FM身歷聲](../Page/FM.md "wikilink")6音源(第六聲道有8位元DAC，可做[PCM音源之用](../Page/PCM.md "wikilink"))\[3\]
+:\*[FM身歷聲](../Page/FM.md "wikilink")6音源(第六聲道有8位元DAC，可做[PCM音源之用](https://zh.wikipedia.org/wiki/PCM "wikilink"))\[3\]
 
-  - [德州儀器](../Page/德州儀器.md "wikilink") SN76489
+  - [德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink") SN76489
 
 :\* 4音源(3方波+1噪聲)
 
 ## 遊戲库
 
 Mega
-Drive的游戏库最初较小，但是最终成长成为含有各种游戏来吸引各种类型的玩家。最初的捆绑游戏是《[兽王记](../Page/兽王记.md "wikilink")》，后来于1991年替换成为《[刺猬索尼克](../Page/刺猬索尼克_\(1991年游戏\).md "wikilink")》。最佳销售游戏为《刺猬索尼克》、《刺猬索尼克2》和《迪斯尼阿拉丁》。\[4\]在游戏机的制作阶段，世嘉着重于动作游戏的制作。而世嘉北美公司则着重于制作体育类游戏。在游戏机的生命周期中，大部分吸引人的游戏库是以街机为基础游戏，以及具有难度的作品，诸如《Ecco
+Drive的游戏库最初较小，但是最终成长成为含有各种游戏来吸引各种类型的玩家。最初的捆绑游戏是《[兽王记](https://zh.wikipedia.org/wiki/兽王记 "wikilink")》，后来于1991年替换成为《[刺猬索尼克](../Page/刺猬索尼克_\(1991年游戏\).md "wikilink")》。最佳销售游戏为《刺猬索尼克》、《刺猬索尼克2》和《迪斯尼阿拉丁》。\[4\]在游戏机的制作阶段，世嘉着重于动作游戏的制作。而世嘉北美公司则着重于制作体育类游戏。在游戏机的生命周期中，大部分吸引人的游戏库是以街机为基础游戏，以及具有难度的作品，诸如《Ecco
 the Dolphin》。也有如《Joe
-Montana橄榄球》的体育游戏。与其竞争对手相比，世嘉通过加入一些成熟的游戏来吸引年纪更大的群体，包括含有未经审查版本的《[真人快打](../Page/真人快打_\(1992年游戏\).md "wikilink")》。
+Montana橄榄球》的体育游戏。与其竞争对手相比，世嘉通过加入一些成熟的游戏来吸引年纪更大的群体，包括含有未经审查版本的《[真人快打](https://zh.wikipedia.org/wiki/真人快打_\(1992年游戏\) "wikilink")》。
 
 最初，Mega Drive遭受较少的第三方支持，这是由于其占有市场比例较小，以及任天堂的垄断做法。早期对于Mega
 Drive支持的最大第三方是艺电。艺电的创始人和当时的总裁[特里普·霍金斯认为](../Page/特里普·霍金斯.md "wikilink")，Mega
@@ -50,9 +50,9 @@ Drive的快速绘图速度使其与超级任天堂相比，更为适合体育类
 ## 附加設備
 
 除了一些诸如能向下相容[Mark III/Master
-System遊戲的](../Page/Sega_Master_System.md "wikilink")[Mega
-Adaptor](../Page/Mega_Adaptor.md "wikilink")（日版名：メガアダプタ，美版名：Power Base
-Converter，歐版名：Master System Converter）的附属设备，Mega
+System遊戲的](https://zh.wikipedia.org/wiki/Sega_Master_System "wikilink")[Mega
+Adaptor](https://zh.wikipedia.org/wiki/Mega_Adaptor "wikilink")（日版名：メガアダプタ，美版名：Power
+Base Converter，歐版名：Master System Converter）的附属设备，Mega
 Drive亦支持两项附加设备，每项设备具有其独自的游戏库。
 
 第一项是Mega CD，第二项是32X
@@ -75,9 +75,9 @@ Drive的外围设备。
 
 ### 其他
 
-  - [滑鼠](../Page/滑鼠.md "wikilink")
-  - [磁碟機](../Page/磁碟機.md "wikilink")
-  - [Modem](../Page/Modem.md "wikilink")
+  - [滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")
+  - [磁碟機](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")
+  - [Modem](https://zh.wikipedia.org/wiki/Modem "wikilink")
 
 ## 兼容机
 
@@ -94,7 +94,7 @@ Corporation、Amstrad和Aiwa推出其他的兼容机。
 Drive/Mega CD游戏机。
 
 在16位时代后期，世嘉在北美地區发行了名为[Genesis
-Nomad的便携式Genesis游戏机](../Page/Sega_Nomad.md "wikilink")。这个根据在日本地区发行的Mega
+Nomad的便携式Genesis游戏机](https://zh.wikipedia.org/wiki/Sega_Nomad "wikilink")。这个根据在日本地区发行的Mega
 Jet而设计。Mega Jet是一个Mega
 Drive的便携式游戏机，具有喷气式飞机样式的特征，1993年7月1日開始提供給[日本航空機上租用服務](../Page/日本航空.md "wikilink")，之後零售版於1994年3月10日發行。
 
@@ -112,7 +112,7 @@ Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN
 ## Mega Drive Mini
 
 2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「Mega Drive
-Mini」版，記念此系列主機推出30週年，內置多款如《[音速小子](../Page/音速小子.md "wikilink")》等以往經典遊戲\[7\]\[8\]，並將於2019年9月19日在全球發行\[9\]。
+Mini」版，記念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等以往經典遊戲\[7\]\[8\]，並將於2019年9月19日在全球發行\[9\]。
 
 ## 参考资料
 

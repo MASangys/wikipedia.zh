@@ -1,15 +1,15 @@
-《**TIGER×DRAGON！**》（**虎與龍**）是由[竹宮悠由子寫作](../Page/竹宮悠由子.md "wikilink")、[泰](../Page/泰.md "wikilink")（）負責繪製插畫的一部[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。本系列作品在日本的[電擊文庫刊載](../Page/電擊文庫.md "wikilink")，本編10卷，另有番外篇3卷，共13卷[單行本](../Page/單行本.md "wikilink")。[台灣與](../Page/台灣.md "wikilink")[香港地區由](../Page/香港.md "wikilink")[台灣角川發行](../Page/台灣角川.md "wikilink")，[中國大陸地區則由](../Page/中國大陸.md "wikilink")[天聞角川取得授權發行](../Page/天聞角川.md "wikilink")。電視動畫獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部科學省](../Page/文部科學省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
+《**TIGER×DRAGON！**》（**虎與龍**）是由[竹宮悠由子寫作](../Page/竹宮悠由子.md "wikilink")、[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")（）負責繪製插畫的一部[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。本系列作品在日本的[電擊文庫刊載](../Page/電擊文庫.md "wikilink")，本編10卷，另有番外篇3卷，共13卷[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港地區由](../Page/香港.md "wikilink")[台灣角川發行](../Page/台灣角川.md "wikilink")，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天聞角川取得授權發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。電視動畫獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部科學省](../Page/文部科學省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 本作品也從《[月刊電擊Comic
-gao\!](../Page/月刊電擊Comic_gao!.md "wikilink")》（[MediaWorks](../Page/MediaWorks.md "wikilink")）於2007年9月號開始連載漫畫版本，由[絕叫擔任作畫](../Page/絕叫.md "wikilink")。\[1\]於2008年3月起转到《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
+gao\!](https://zh.wikipedia.org/wiki/月刊電擊Comic_gao! "wikilink")》（[MediaWorks](../Page/MediaWorks.md "wikilink")）於2007年9月號開始連載漫畫版本，由[絕叫擔任作畫](https://zh.wikipedia.org/wiki/絕叫 "wikilink")。\[1\]於2008年3月起转到《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII
 MEDIA WORKS、MediaWorks）上连载。
 
 ## 故事大綱
 
   - 本傳故事
     眼神兇惡、看起來像不良少年的高須龍兒，事實上連跟別人吵架都沒有吵過，是個很普通的少年。如今，他正要升上高中二年級，並幸運地跟暗戀一年的櫛枝實乃梨和高一時的好友北村祐作同班。擔心自己再度被新班級的同學誤會的龍兒，卻意外地因為與被稱為「掌中老虎」的逢坂大河邂逅而解開大家對他的誤解。
-    事實上，大河暗戀的是北村。某天大河正要將[情書放進北村的書包時](../Page/情書.md "wikilink")，龍兒正好走進教室裡。慌忙間，大河將情書誤放進龍兒的書包中，於是她決定晚上帶著[木刀潛入龍兒家中將情書搶回來](../Page/木刀.md "wikilink")，沒想到放進龍兒書包內的只有信封。那一晚，龍兒決定要幫助大河，讓她能與北村交往。由於大河一人獨居，且完全不會作家事及料理，因此龍兒與大河便常常一起在龍兒家吃晚餐、一起上學、一起去超市買料理材料。因為這件事情，他們兩人被實乃梨與北村誤解正在交往了……
-    書名《TIGER×DRAGON！》即是來自於「掌中老虎」的[老虎及](../Page/老虎.md "wikilink")「龍兒」的[龍](../Page/龍.md "wikilink")。
+    事實上，大河暗戀的是北村。某天大河正要將[情書放進北村的書包時](https://zh.wikipedia.org/wiki/情書 "wikilink")，龍兒正好走進教室裡。慌忙間，大河將情書誤放進龍兒的書包中，於是她決定晚上帶著[木刀潛入龍兒家中將情書搶回來](../Page/木刀.md "wikilink")，沒想到放進龍兒書包內的只有信封。那一晚，龍兒決定要幫助大河，讓她能與北村交往。由於大河一人獨居，且完全不會作家事及料理，因此龍兒與大河便常常一起在龍兒家吃晚餐、一起上學、一起去超市買料理材料。因為這件事情，他們兩人被實乃梨與北村誤解正在交往了……
+    書名《TIGER×DRAGON！》即是來自於「掌中老虎」的[老虎及](https://zh.wikipedia.org/wiki/老虎 "wikilink")「龍兒」的[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")。
 
 <!-- end list -->
 
@@ -25,19 +25,19 @@ MEDIA WORKS、MediaWorks）上连载。
 
   -
     配音員：（日）[間島淳司](../Page/間島淳司.md "wikilink")／（台）[李景唐](../Page/李景唐.md "wikilink")
-    本作的男主角。16歲(第九卷後17歲)，就讀於2年C班。星座：雙魚座（原作小說）／金牛座（動畫），身高173cm，血型為A型。由於遺傳到爸爸的兇惡眼神，常常被誤認為不良少年，本人因此十分討厭自己的長相。但事實上龍兒只是一個普通的少年，性情認真負責，擅長家務，愛乾淨，做的料理也相當美味。暗戀同班同學櫛枝實乃梨，後來則喜歡上大河。從未了解到同班同學川嶋亞美喜歡他的心意。飼養一隻名為「小鸚」的[鸚鵡](../Page/鸚鵡.md "wikilink")，並與母親高須泰子生活。第十卷向大河求婚成功，之後讓大河離開前去處理她與母親的問題，最後與高三復學的大河重逢並交往。(動畫版中則是大河轉走並在高中畢業典禮那天回來並與龍兒重逢)。
+    本作的男主角。16歲(第九卷後17歲)，就讀於2年C班。星座：雙魚座（原作小說）／金牛座（動畫），身高173cm，血型為A型。由於遺傳到爸爸的兇惡眼神，常常被誤認為不良少年，本人因此十分討厭自己的長相。但事實上龍兒只是一個普通的少年，性情認真負責，擅長家務，愛乾淨，做的料理也相當美味。暗戀同班同學櫛枝實乃梨，後來則喜歡上大河。從未了解到同班同學川嶋亞美喜歡他的心意。飼養一隻名為「小鸚」的[鸚鵡](https://zh.wikipedia.org/wiki/鸚鵡 "wikilink")，並與母親高須泰子生活。第十卷向大河求婚成功，之後讓大河離開前去處理她與母親的問題，最後與高三復學的大河重逢並交往。(動畫版中則是大河轉走並在高中畢業典禮那天回來並與龍兒重逢)。
   -
     配音員：（日）[釘宮理惠](../Page/釘宮理惠.md "wikilink")／（台）[謝佼娟](../Page/謝佼娟.md "wikilink")
-    本作的女主角。就讀2年C班。生日12月15日（官方），星座射手座。有「**掌中老虎**」（）的綽號。其名字「大河」的日文發音和老虎的英文名稱「Tiger」發音類似，是個[傲嬌](../Page/傲嬌.md "wikilink")、兇暴、任性、毒舌但又有點愛哭的[冒失娘](../Page/冒失娘.md "wikilink")。自稱身高145[公分](../Page/公分.md "wikilink")（事實上143.6公分），好像可以捧在手中一樣的嬌小。這也是她綽號的來源。對綽號也有些情結。比起[起司和](../Page/起司.md "wikilink")[甜點](../Page/甜點.md "wikilink")，比較喜歡肉製品。喜歡同班同學北村祐作，但曾經拒絕過他的告白（本人說是因為突然被告白，一時不知所措，想都沒想就先拒絕了）。在北村面前表現得極度緊張，常常有可笑的言行舉止。在聖誕節中才發現自己喜歡龍兒，此後對北村說話也不再那麼緊張。總是穿著棉製折邊的衣服，常被說像人偶。自幼在[天主教系](../Page/天主教.md "wikilink")[女子學校接受教育](../Page/女子學校.md "wikilink")，雖然因為品行不良而未升入對應高中，但是，仍然遵循着先前學校行善志願者的要求，每年聖誕節都會向孤兒以聖誕老人的名義寄送禮物。家庭富裕，但由於父母兩人關係不好，而被半強迫的離開家住進公寓，只靠定期的生活費過活。此外，射手座的大河對於家事完全不拿手，總是要龍兒照顧。生氣時力氣很大，卻不會騎腳踏車。同時對自己的[貧乳身材也十分在意](../Page/貧乳.md "wikilink")。是超級旱鴨子，經過龍兒的特訓後，終於可以使用浮板游泳（基本上是靠她的超強腳力，浮起來以後狂踢爆衝，瞬間游到對岸）。第十卷被龍兒求婚並答應且表示龍兒不得反悔，之後離開去處理自己與母親的問題，在高三復學後與龍兒重逢並交往。(動畫版中則是大河轉走並在高中畢業典禮那天回來並與龍兒重逢)
+    本作的女主角。就讀2年C班。生日12月15日（官方），星座射手座。有「**掌中老虎**」（）的綽號。其名字「大河」的日文發音和老虎的英文名稱「Tiger」發音類似，是個[傲嬌](../Page/傲嬌.md "wikilink")、兇暴、任性、毒舌但又有點愛哭的[冒失娘](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")。自稱身高145[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")（事實上143.6公分），好像可以捧在手中一樣的嬌小。這也是她綽號的來源。對綽號也有些情結。比起[起司和](https://zh.wikipedia.org/wiki/起司 "wikilink")[甜點](https://zh.wikipedia.org/wiki/甜點 "wikilink")，比較喜歡肉製品。喜歡同班同學北村祐作，但曾經拒絕過他的告白（本人說是因為突然被告白，一時不知所措，想都沒想就先拒絕了）。在北村面前表現得極度緊張，常常有可笑的言行舉止。在聖誕節中才發現自己喜歡龍兒，此後對北村說話也不再那麼緊張。總是穿著棉製折邊的衣服，常被說像人偶。自幼在[天主教系](../Page/天主教.md "wikilink")[女子學校接受教育](https://zh.wikipedia.org/wiki/女子學校 "wikilink")，雖然因為品行不良而未升入對應高中，但是，仍然遵循着先前學校行善志願者的要求，每年聖誕節都會向孤兒以聖誕老人的名義寄送禮物。家庭富裕，但由於父母兩人關係不好，而被半強迫的離開家住進公寓，只靠定期的生活費過活。此外，射手座的大河對於家事完全不拿手，總是要龍兒照顧。生氣時力氣很大，卻不會騎腳踏車。同時對自己的[貧乳身材也十分在意](https://zh.wikipedia.org/wiki/貧乳 "wikilink")。是超級旱鴨子，經過龍兒的特訓後，終於可以使用浮板游泳（基本上是靠她的超強腳力，浮起來以後狂踢爆衝，瞬間游到對岸）。第十卷被龍兒求婚並答應且表示龍兒不得反悔，之後離開去處理自己與母親的問題，在高三復學後與龍兒重逢並交往。(動畫版中則是大河轉走並在高中畢業典禮那天回來並與龍兒重逢)
   -
     配音員：（日）[堀江由衣](../Page/堀江由衣.md "wikilink")／（台）[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
-    2年C班，身高158cm。大河的好友。暱稱「小實」（）。女子[壘球社的社長](../Page/壘球.md "wikilink")。性格雖相當天然但卻擁有自己的一套處事原則。看似無憂無慮甚至幼稚，但其實內心成熟。打工很多，食量極大。討厭[發酵食品](../Page/發酵食品.md "wikilink")。本人自稱超害怕幽靈或者恐怖的超自然現象，實際上則相反。非常關心大河的生活，幾度以為龍兒與大河正在交往。喜歡龍兒，但因為大河喜歡龍兒，所以沒有接受龍兒的告白，也想撮合他們兩個。
+    2年C班，身高158cm。大河的好友。暱稱「小實」（）。女子[壘球社的社長](../Page/壘球.md "wikilink")。性格雖相當天然但卻擁有自己的一套處事原則。看似無憂無慮甚至幼稚，但其實內心成熟。打工很多，食量極大。討厭[發酵食品](https://zh.wikipedia.org/wiki/發酵食品 "wikilink")。本人自稱超害怕幽靈或者恐怖的超自然現象，實際上則相反。非常關心大河的生活，幾度以為龍兒與大河正在交往。喜歡龍兒，但因為大河喜歡龍兒，所以沒有接受龍兒的告白，也想撮合他們兩個。
   -
     配音員：（日）[野島裕史](../Page/野島裕史.md "wikilink")／（台）[何志威](../Page/何志威.md "wikilink")
-    2年C班，身高170cm。擔任學生會副會長與班長，是男子壘球社社長。龍兒最好的朋友。由於戴著度數極深的[眼鏡](../Page/眼鏡.md "wikilink")，加上勤勉正直，於是被班上同學取了「**丸尾同學**」（《[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")》裡的班長）的綽號。有著能夠很快融洽附近環境的開朗性格，但有時也會有莫名其妙的語出驚人。有摩托車駕照（但這是違反校規的）。在被大河狠狠甩掉後，被學生會長找去參加學生會，後來喜歡上會長。在會長出國之前，利用学生会长竞选演讲的機會公開在全校學生面前向她告白後卻被拒絕了，事後被全校奉為「失戀大明神」。
+    2年C班，身高170cm。擔任學生會副會長與班長，是男子壘球社社長。龍兒最好的朋友。由於戴著度數極深的[眼鏡](../Page/眼鏡.md "wikilink")，加上勤勉正直，於是被班上同學取了「**丸尾同學**」（《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》裡的班長）的綽號。有著能夠很快融洽附近環境的開朗性格，但有時也會有莫名其妙的語出驚人。有摩托車駕照（但這是違反校規的）。在被大河狠狠甩掉後，被學生會長找去參加學生會，後來喜歡上會長。在會長出國之前，利用学生会长竞选演讲的機會公開在全校學生面前向她告白後卻被拒絕了，事後被全校奉為「失戀大明神」。
   -
     配音員：（日）[喜多村英梨](../Page/喜多村英梨.md "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
-    北村祐作的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，在第一學期中轉學到2年C班的美少女，身高165cm，體重45kg。原本的工作是[模特兒](../Page/模特.md "wikilink")，但因為某些事情，在轉學後就暫時停止工作。模特兒的工作外，同時在拳擊場練習，對保持完美的體態以及美貌的事情十分注意。外表看起來對人很好，事實上是個驕縱的[腹黑女](../Page/腹黑.md "wikilink")。自我中心、毒舌的她在第一次遇到大河時就露出了本性，並遭到大河反擊。從此以後兩人關係是水火不容（大河叫亞美「性格惡劣的吉娃娃」、「笨蛋吉」等）。但是另一方面又有些羨慕大河毫不雕飾的性格。對於自己的兩面性不斷地在肯定和否定間搖擺不定，也有著一個人躲在自動販賣機空隙閒落獨飲果汁令人意外的陰暗面存在。當初只是為了讓大河不爽半開玩笑性地對龍兒出手，然而由於龍兒能夠接受自己的兩面性，也開始表現出單純想要和龍兒在一起心情的模樣，在龍兒面前也變得坦誠，後來漸漸被龍兒吸引進而喜歡龍兒，發現龍兒與大河和實乃梨的三角戀沒有介入的餘地，進而刺激他們讓三人的戀情漸漸明瞭，為本作惟一沒有表達心意的角色。
+    北村祐作的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，在第一學期中轉學到2年C班的美少女，身高165cm，體重45kg。原本的工作是[模特兒](https://zh.wikipedia.org/wiki/模特 "wikilink")，但因為某些事情，在轉學後就暫時停止工作。模特兒的工作外，同時在拳擊場練習，對保持完美的體態以及美貌的事情十分注意。外表看起來對人很好，事實上是個驕縱的[腹黑女](https://zh.wikipedia.org/wiki/腹黑 "wikilink")。自我中心、毒舌的她在第一次遇到大河時就露出了本性，並遭到大河反擊。從此以後兩人關係是水火不容（大河叫亞美「性格惡劣的吉娃娃」、「笨蛋吉」等）。但是另一方面又有些羨慕大河毫不雕飾的性格。對於自己的兩面性不斷地在肯定和否定間搖擺不定，也有著一個人躲在自動販賣機空隙閒落獨飲果汁令人意外的陰暗面存在。當初只是為了讓大河不爽半開玩笑性地對龍兒出手，然而由於龍兒能夠接受自己的兩面性，也開始表現出單純想要和龍兒在一起心情的模樣，在龍兒面前也變得坦誠，後來漸漸被龍兒吸引進而喜歡龍兒，發現龍兒與大河和實乃梨的三角戀沒有介入的餘地，進而刺激他們讓三人的戀情漸漸明瞭，為本作惟一沒有表達心意的角色。
 
 ### 學生
 
@@ -46,7 +46,7 @@ MEDIA WORKS、MediaWorks）上连载。
     2年C班的男學生，龍兒的好友。戴著黑框眼鏡，對文系科目相當擅長。常與同班的木原麻耶互相對峙甚至最後鬧翻，才發現自己喜歡上她。
   -
     配音員：（日）[吉野裕行](../Page/吉野裕行.md "wikilink")／（台）[蔣鐵城](../Page/蔣鐵城.md "wikilink")
-    2年C班的男學生，龍兒的好友，天性開朗。由於成績很差，加上時常作出可笑的言行舉止，被同班同學認為是[走後門進學校的](../Page/走後門.md "wikilink")。
+    2年C班的男學生，龍兒的好友，天性開朗。由於成績很差，加上時常作出可笑的言行舉止，被同班同學認為是[走後門進學校的](https://zh.wikipedia.org/wiki/走後門 "wikilink")。
   -
     配音員：（日）[野中藍](../Page/野中藍.md "wikilink")／（台）[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     2年C班的女學生。愛好追逐流行的女孩，擁有一頭奶茶色長髮，喜歡北村。
@@ -55,7 +55,7 @@ MEDIA WORKS、MediaWorks）上连载。
     2年C班的女學生。與木原麻耶是好朋友。
   -
     配音員：（日）[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
-    經常保持成績首位的女學生會長，特待生。拥有[剑道和](../Page/剑道.md "wikilink")[合气道的段位](../Page/合气道.md "wikilink")（但在一次搏鬥中輸給大河），视力也好到测不出来的程度。因为比男性还要能干，所以被一部分学生当作可以依靠的大哥。家里经营超市，非常不善于饮酒，也很怕蛇。有个叫樱的妹妹。因为和祐作比较亲近，所以被大河敌视。於小說第六卷後往美國留學，目標是成為太空人。在強勢的背後也有出乎意料地感性的一面，對北村有好感。
+    經常保持成績首位的女學生會長，特待生。拥有[剑道和](https://zh.wikipedia.org/wiki/剑道 "wikilink")[合气道的段位](https://zh.wikipedia.org/wiki/合气道 "wikilink")（但在一次搏鬥中輸給大河），视力也好到测不出来的程度。因为比男性还要能干，所以被一部分学生当作可以依靠的大哥。家里经营超市，非常不善于饮酒，也很怕蛇。有个叫樱的妹妹。因为和祐作比较亲近，所以被大河敌视。於小說第六卷後往美國留學，目標是成為太空人。在強勢的背後也有出乎意料地感性的一面，對北村有好感。
   -
     配音員：（日）[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")／（台）[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     番外篇《幸福的櫻色龍捲風》的女主角，堇就读同一高中的妹妹，憧憬着姐姐。不过自身成绩非常糟糕，第一学期期中考，曾经全科不及格。同姐姐一样很怕蛇。個性[天然呆而身材絕佳](../Page/天然呆.md "wikilink")，完全不設防的個性，即使走光也不在意。
@@ -67,10 +67,10 @@ MEDIA WORKS、MediaWorks）上连载。
     二年A班學生，學生會總務長。
   -
     配音員：（日）[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")
-    二年級學生，本名不詳，學生會[書記](../Page/書記.md "wikilink")。
+    二年級學生，本名不詳，學生會[書記](https://zh.wikipedia.org/wiki/書記 "wikilink")。
   -
     配音員：（日）[藤田麻美](../Page/藤田麻美.md "wikilink")
-    一年級學生，個性嬌羞內向，曾在[文化祭](../Page/文化祭.md "wikilink")（類似[園遊會](../Page/園遊會.md "wikilink")）中以[女僕咖啡廳店員裝扮登場](../Page/女僕咖啡廳.md "wikilink")。
+    一年級學生，個性嬌羞內向，曾在[文化祭](../Page/文化祭.md "wikilink")（類似[園遊會](https://zh.wikipedia.org/wiki/園遊會 "wikilink")）中以[女僕咖啡廳店員裝扮登場](../Page/女僕咖啡廳.md "wikilink")。
 
 ### 教職員
 
@@ -78,7 +78,7 @@ MEDIA WORKS、MediaWorks）上连载。
     配音員：（日）[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
     29歲單身，並即將邁入第30個年頭。2年C班的導師，教授英文。相當懷念年輕的時光，轉而對學生們懷有類似嫉妒的微妙感情，常近乎瘋狂的自暴自棄說自己只是個「年近三十的獨身老姑婆」。當與大河言語對峙時常顯出她的懦弱。
   -
-    配音員：（日）[金光宣明](../Page/金光宣明.md "wikilink")／（台）[何志威](../Page/何志威.md "wikilink")
+    配音員：（日）[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")／（台）[何志威](../Page/何志威.md "wikilink")
     體育教師，身材壯碩且皮膚黝黑。
 
 ### 家人
@@ -90,16 +90,16 @@ MEDIA WORKS、MediaWorks）上连载。
     配音員：（日）[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")
     鸚鵡，龍兒飼養的寵物，長相相當醜陋，大河稱之為「醜斃了的變態鸚鵡」，似乎只有龍兒及泰子不這麼覺得。會講許多困難的詞，似乎還有依自我意識說話的能力，卻總不會說自己的名字，於最後一集才終於說出。
   -
-    配音員：（日）[青木強](../Page/青木強.md "wikilink")／（台）[蔣鐵城](../Page/蔣鐵城.md "wikilink")
+    配音員：（日）[青木強](https://zh.wikipedia.org/wiki/青木強 "wikilink")／（台）[蔣鐵城](../Page/蔣鐵城.md "wikilink")
     泰子的父親，57歲，自營[會計師事務所](../Page/會計師.md "wikilink")。
   -
-    配音員：（日）[小林美奈](../Page/小林美奈.md "wikilink")／（台）[謝佼娟](../Page/謝佼娟.md "wikilink")
+    配音員：（日）[小林美奈](https://zh.wikipedia.org/wiki/小林美奈 "wikilink")／（台）[謝佼娟](../Page/謝佼娟.md "wikilink")
     泰子的母親，55歲，與泰子長相相似。
   -
     配音員：（日）[古澤徹](../Page/古澤徹.md "wikilink")／（台）[蔣鐵城](../Page/蔣鐵城.md "wikilink")
     逢坂大河的生父。在與前妻離異後，與年輕的逢坂夕再婚。因為後妻與大河的矛盾升級，在大河的要求下，將大河安置在另外的寓所生活並供給生活費。但在對待大河的問題上並沒有盡到父親應有的責任。
   -
-    配音員：（日）[大浦冬華](../Page/大浦冬華.md "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
+    配音員：（日）[大浦冬華](https://zh.wikipedia.org/wiki/大浦冬華 "wikilink")／（台）[劉如蘋](../Page/劉如蘋.md "wikilink")
     逢坂大河的生母，沒有確切提到過名字。再婚後，又再度懷孕。與大河關係良好。在大河高中二年級結束後，為大河辦理轉校手續(後改為休學手續)，之後一同生活。
 
 ### 其他角色
@@ -314,13 +314,14 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 
 ### 工作人員
 
-  - 導演：[長井龍雪](../Page/長井龍雪.md "wikilink")
+  - 導演：[長井龍雪](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")
   - 系列構成：[岡田麿里](../Page/岡田麿里.md "wikilink")
   - 人物設定：[田中將賀](../Page/田中將賀.md "wikilink")
-  - 動畫製作：[J.C.STAFF](../Page/J.C.STAFF.md "wikilink")
-  - 企劃製作：[GENCO](../Page/GENCO.md "wikilink")
+  - 動畫製作：[J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
+  - 企劃製作：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
   - 音樂：[橋本由香利](../Page/橋本由香利.md "wikilink")
-  - 音樂製作：[STARCHILD Record](../Page/STARCHILD.md "wikilink")
+  - 音樂製作：[STARCHILD
+    Record](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")
 
 ### 主題曲
 
@@ -339,8 +340,9 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
   -
 
       -
-        歌 - 堀江由衣，作詞 - Satomi，作曲 - [藤末樹](../Page/藤末樹.md "wikilink")，編曲 -
-        川口圭太
+        歌 - 堀江由衣，作詞 - Satomi，作曲 -
+        [藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")，編曲
+        - 川口圭太
 
 <!-- end list -->
 
@@ -348,8 +350,9 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 
 :; 1話～16話、OVA：「」（盐味香草冰淇淋）
 
-:: 歌 - 堀江由衣，作詞 - [Satomi](../Page/Satomi.md "wikilink")，作曲 -
-[Funta](../Page/Funta.md "wikilink")，編曲 - 中塚武
+:: 歌 - 堀江由衣，作詞 -
+[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")，作曲 -
+[Funta](https://zh.wikipedia.org/wiki/Funta "wikilink")，編曲 - 中塚武
 
 :; 17話～18話，20話～25话：「」（橙色）
 
@@ -392,7 +395,7 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 <td></td>
 <td><p>虎與龍</p></td>
 <td><p><a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
-<td><p><a href="../Page/長井龍雪.md" title="wikilink">長井龍雪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長井龍雪" title="wikilink">長井龍雪</a></p></td>
 <td><p><a href="../Page/田中將賀.md" title="wikilink">田中將賀</a></p></td>
 <td><p>-</p></td>
 <td><p>1卷</p></td>
@@ -724,10 +727,10 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2008年10月1日－2009年3月25日</p></td>
 <td><p>星期三 25時20分 - 25時50分</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">東京電視系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視系</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -741,7 +744,7 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>2008年10月5日－2009年3月29日</p></td>
 <td><p>星期日 26時30分 - 27時00分</p></td>
@@ -755,7 +758,7 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td><p>2008年10月8日－2009年4月1日</p></td>
 <td><p>星期三 25時48分 - 26時18分</p></td>
@@ -766,21 +769,21 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2008年10月17日－2009年4月3日</p></td>
 <td><p>星期五 11時30分 - 12時00分</p></td>
-<td><p>CS（<a href="../Page/通信衛星.md" title="wikilink">通信衛星</a>）</p></td>
+<td><p>CS（<a href="https://zh.wikipedia.org/wiki/通信衛星" title="wikilink">通信衛星</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鹿儿岛县.md" title="wikilink">鹿儿岛县</a></p></td>
-<td><p><a href="../Page/鹿儿岛电视台.md" title="wikilink">鹿儿岛电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鹿儿岛电视台" title="wikilink">鹿儿岛电视台</a></p></td>
 <td><p>2009年2月26日－8月20日</p></td>
 <td><p>星期四 26時10分 - 26時40分</p></td>
-<td><p><a href="../Page/FNS.md" title="wikilink">富士网</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNS" title="wikilink">富士网</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2011年12月19日－2012年1月20日</p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">星期一至五 22:30－23:00</a></p></td>
-<td><p><a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">星期一至五 22:30－23:00</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -788,13 +791,13 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
 ## 游戏作品
 
   - 2009年4月30日，由[Bandai Namco
-    Game制作的](../Page/南梦宫万代.md "wikilink")发售。\[4\]故事是以高須龍兒圣诞节晚会后，因流感而失忆为背景展开的冒险故事。
+    Game制作的](https://zh.wikipedia.org/wiki/南梦宫万代 "wikilink")发售。\[4\]故事是以高須龍兒圣诞节晚会后，因流感而失忆为背景展开的冒险故事。
 
 ## 其他
 
   - 2008年，高須龍兒在「這本輕小說真厲害！」男性人氣票選拿下第二名，逢坂大河拿下女性人氣第三名。
   - 2009年，逢坂大河分別在日本與韓國的[最萌大賽拿下雙冠軍](../Page/最萌大賽.md "wikilink")，也是釘宮理惠所配角色第一次封后。
-  - 2010年4月11日，原作者竹宮老師應台灣[淳久堂書店的邀請](../Page/淳久堂書店.md "wikilink")，來台舉辦新書發表與簽書會。
+  - 2010年4月11日，原作者竹宮老師應台灣[淳久堂書店的邀請](https://zh.wikipedia.org/wiki/淳久堂書店 "wikilink")，來台舉辦新書發表與簽書會。
 
 ## 註釋
 

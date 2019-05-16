@@ -1,13 +1,13 @@
 **XSD (XML Schema
-Definition)**是[W3C于](../Page/World_Wide_Web_Consortium.md "wikilink")2001年5月发布的推荐标准，指出如何形式描述XML文档的元素。XSD是許多[XML
+Definition)**是[W3C于](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")2001年5月发布的推荐标准，指出如何形式描述XML文档的元素。XSD是許多[XML
 Schema
-语言中的一支](../Page/XML_Schema_语言.md "wikilink")。XSD是首先分離於XML本身的schema語言，故取得W3C的推薦地位。
+语言中的一支](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")。XSD是首先分離於XML本身的schema語言，故取得W3C的推薦地位。
 
 像所有[XML Schema
-语言一樣](../Page/XML_Schema_语言.md "wikilink")，XSD用來描述一組规则──一个XML文件必須遵守这些規则，才能根據該schema『合法（Valid）』。
+语言一樣](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，XSD用來描述一組规则──一个XML文件必須遵守这些規则，才能根據該schema『合法（Valid）』。
 
 然而，与其他[XML Schema
-语言不同](../Page/XML_Schema_语言.md "wikilink")，XSD意圖設計为在确认一个文档的有效性时，将会产生满足特定[数据类型的一个信息集合](../Page/数据类型.md "wikilink")。这种后验证的[XML信息集可用来開發XML文件處理軟件](../Page/XML信息集.md "wikilink")。
+语言不同](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，XSD意圖設計为在确认一个文档的有效性时，将会产生满足特定[数据类型的一个信息集合](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。这种后验证的[XML信息集可用来開發XML文件處理軟件](../Page/XML信息集.md "wikilink")。
 
 ## XSD名称的来源
 
@@ -16,7 +16,7 @@ Schema，Schema永遠字首大寫。
 
 “XML Schema”在2001年5月成为W3C推荐标准。由于“XML Schema”作为一种W3C的推荐标准的名字与广义的[XML
 Schema
-语言存在名称上的混淆](../Page/XML_Schema_语言.md "wikilink")，用户社区的一部分人采用了“WXS”来称呼它，
+语言存在名称上的混淆](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")，用户社区的一部分人采用了“WXS”来称呼它，
 用户社区的另一部分人采用“**XSD**”（**X**ML **S**chema
 **D**efinition[首字母縮略字](../Page/首字母縮略字.md "wikilink")）来称呼它。W3C发布的1.1标准采用了“**XSD**”作为官方称呼。
 
@@ -25,7 +25,7 @@ Schema
 在官方文档的參考附錄里，XSD标准承認受到\[文件类型描述|DTD\]\]和其他早期XML schema
 语言的影响，如、、、以及。XSD從中吸收了一些特性，然而也在這些特性中有所折衷。這些早期schema
 語言中的XDR與SOX在XML
-Schema發布後仍繼續使用了一段时间。不少[微軟的產品支援XDR直到](../Page/微軟.md "wikilink")2006年十二月[MSXML](../Page/MSXML.md "wikilink")
+Schema發布後仍繼續使用了一段时间。不少[微軟的產品支援XDR直到](https://zh.wikipedia.org/wiki/微軟 "wikilink")2006年十二月[MSXML](../Page/MSXML.md "wikilink")
 6.0的發佈（MSXML
 6.0拋棄了XDR改用XSD）[1](http://msdn.microsoft.com/en-us/library/ms761410)
 。支援它自己的SOX schema 語言直到該公司於2004年末破產。2004年十二月，[Novell,
@@ -163,7 +163,7 @@ Jelliffe\[3\]，David Webber.\[4\]
 
   - 推荐标准数百页，语句非常技术化，对于非专业的用户来说过于复杂难读。很多人发现[W3Cs XML Schema
     Primer](http://www.w3.org/TR/xmlschema-0/)更易于理解.
-  - XSD缺少形式化数学规范，这使得关于schema的自动推理很困难，例如证明一个修改过的schema是[向后兼容的](../Page/向后兼容.md "wikilink")。
+  - XSD缺少形式化数学规范，这使得关于schema的自动推理很困难，例如证明一个修改过的schema是[向后兼容的](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")。
   - 语言中有很多例外，如元素的限制（restriction）不同于属性的限制。
 
 表达能力的实践限制:
@@ -210,9 +210,8 @@ Jelliffe\[3\]，David Webber.\[4\]
 
 ## 參見
 
-  - [RELAX NG](../Page/RELAX_NG.md "wikilink") -
-    另一種XML綱要語言（ISO國際標準）通常用在XML
-    Schema資料型別上
+  - [RELAX NG](https://zh.wikipedia.org/wiki/RELAX_NG "wikilink") -
+    另一種XML綱要語言（ISO國際標準）通常用在XML Schema資料型別上
   - [XML信息集](../Page/XML信息集.md "wikilink")
 
 ## 外部連結
@@ -233,18 +232,22 @@ Jelliffe\[3\]，David Webber.\[4\]
 [Category:W3C標準](https://zh.wikipedia.org/wiki/Category:W3C標準 "wikilink")
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 
-1.  [James Clark](../Page/James_Clark_\(XML_expert\).md "wikilink")
+1.  [James
+    Clark](https://zh.wikipedia.org/wiki/James_Clark_\(XML_expert\) "wikilink")
     summary of *XML Schema* criticisms, and promotion of [RELAX
-    NG](../Page/RELAX_NG.md "wikilink") as an alternative,
+    NG](https://zh.wikipedia.org/wiki/RELAX_NG "wikilink") as an
+    alternative,
     <https://web.archive.org/web/20150316212413/http://www.imc.org/ietf-xml-use/mail-archive/msg00217.html>
 2.  Anders Møller and Michael I. Schwartzbach presents "Problems with
     XML Schema",
     <http://cs.au.dk/~amoeller/XML/schemas/xmlschema-problems.html>
-3.  [Rick Jelliffe](../Page/Rick_Jelliffe.md "wikilink") critique in May
-    2009,
+3.  [Rick
+    Jelliffe](https://zh.wikipedia.org/wiki/Rick_Jelliffe "wikilink")
+    critique in May 2009,
     <http://broadcast.oreilly.com/2009/05/w3c-please-put-xsd-11-on-hold.html>
-4.  [David Webber](../Page/David_Webber.md "wikilink") OASIS comparison
-    and insights white paper from August 2008,
+4.  [David
+    Webber](https://zh.wikipedia.org/wiki/David_Webber "wikilink") OASIS
+    comparison and insights white paper from August 2008,
     <http://www.oasis-open.org/committees/download.php/29164/White%20Paper%20on%20CAM%20and%20XSD.pdf>
 5.  This point is amplified by Uche Ogbuji [More on XML class warfare -
     O'Reilly ONLamp

@@ -52,7 +52,8 @@ F类，经济。
 
 :::\*F019.6 经济政策理论
 
-:\*F02 [前资本主义社会生产方式](../Page/前资本主义社会生产方式.md "wikilink")
+:\*F02
+[前资本主义社会生产方式](https://zh.wikipedia.org/wiki/前资本主义社会生产方式 "wikilink")
 
 ::\*F021 原始社会
 
@@ -60,7 +61,7 @@ F类，经济。
 
 ::\*F023 封建社会
 
-:\*F03 [资本主义社会生产方式](../Page/资本主义社会生产方式.md "wikilink")
+:\*F03 [资本主义社会生产方式](https://zh.wikipedia.org/wiki/资本主义社会生产方式 "wikilink")
 
 ::\*F030 生产关系、所有制
 
@@ -132,7 +133,7 @@ F类，经济。
 
 ::\*F039 资本主义经济危机
 
-:\*F04 [社会主义社会生产方式](../Page/社会主义社会生产方式.md "wikilink")
+:\*F04 [社会主义社会生产方式](https://zh.wikipedia.org/wiki/社会主义社会生产方式 "wikilink")
 
 ::\*F041 从资本主义到社会主义的过渡
 
@@ -212,15 +213,15 @@ F类，经济。
 
 ::\*F049 经济循环
 
-:\*F05 [共产主义社会生产方式](../Page/共产主义社会生产方式.md "wikilink")
+:\*F05 [共产主义社会生产方式](https://zh.wikipedia.org/wiki/共产主义社会生产方式 "wikilink")
 
 :\*F06 [经济学分支科学](../Page/经济学.md "wikilink")
 
 :::\*F061.1 生产力经济学
 
-:::\*F061.2 [增长经济学](../Page/增长经济学.md "wikilink")
+:::\*F061.2 [增长经济学](https://zh.wikipedia.org/wiki/增长经济学 "wikilink")
 
-:::\*F061.3 [发展经济学](../Page/发展经济学.md "wikilink")
+:::\*F061.3 [发展经济学](https://zh.wikipedia.org/wiki/发展经济学 "wikilink")
 
 :::\*F061.4 福利经济学
 
@@ -228,28 +229,29 @@ F类，经济。
 
 :::\*F061.6 国土经济学
 
-:::\*F062.1 [资源经济学](../Page/资源经济学.md "wikilink")
+:::\*F062.1 [资源经济学](https://zh.wikipedia.org/wiki/资源经济学 "wikilink")
 
-:::\*F062.2 [生态经济学](../Page/生态经济学.md "wikilink")
+:::\*F062.2 [生态经济学](https://zh.wikipedia.org/wiki/生态经济学 "wikilink")
 
 :::\*F062.3
-[科学经济学](../Page/科学经济学.md "wikilink")、[知识经济学](../Page/知识经济学.md "wikilink")
+[科学经济学](https://zh.wikipedia.org/wiki/科学经济学 "wikilink")、[知识经济学](https://zh.wikipedia.org/wiki/知识经济学 "wikilink")
 
-:::\*F062.4 [技术经济学](../Page/技术经济学.md "wikilink")
+:::\*F062.4 [技术经济学](https://zh.wikipedia.org/wiki/技术经济学 "wikilink")
 
-:::\*F062.5 [信息经济学](../Page/信息经济学.md "wikilink")
+:::\*F062.5 [信息经济学](https://zh.wikipedia.org/wiki/信息经济学 "wikilink")
 
 :::\*F062.6 公共经济学
 
-:::\*F062.9 [产业经济学](../Page/产业经济学.md "wikilink")
+:::\*F062.9 [产业经济学](https://zh.wikipedia.org/wiki/产业经济学 "wikilink")
 
-:::\*F063.1 [非生产领域经济学](../Page/非生产领域经济学.md "wikilink")
+:::\*F063.1
+[非生产领域经济学](https://zh.wikipedia.org/wiki/非生产领域经济学 "wikilink")
 
 :::\*F063.2 消费经济学
 
 :::\*F063.3 国防经济学
 
-:::\*F063.4 [家庭经济学](../Page/家庭经济学.md "wikilink")
+:::\*F063.4 [家庭经济学](https://zh.wikipedia.org/wiki/家庭经济学 "wikilink")
 
 :::\*F063.6 民族经济学
 
@@ -263,7 +265,7 @@ F类，经济。
 
 :\*F08 各科经济学
 
-:\*F09 [经济思想史](../Page/经济思想史.md "wikilink")
+:\*F09 [经济思想史](https://zh.wikipedia.org/wiki/经济思想史 "wikilink")
 
 ::\*F091 [世界](../Page/世界.md "wikilink")
 
@@ -325,7 +327,8 @@ F类，经济。
 
 :::\*F091.5 空想社会主义经济思想
 
-:::\*F091.9 [马克思列宁主义经济思想](../Page/马克思列宁主义经济思想.md "wikilink")
+:::\*F091.9
+[马克思列宁主义经济思想](https://zh.wikipedia.org/wiki/马克思列宁主义经济思想 "wikilink")
 
 ::::\*F091.91 马克思、恩格斯经济思想
 
@@ -335,7 +338,7 @@ F类，经济。
 
 ::::\*F091.96 西方马克思主义经济思想、右翼社会主义经济思想
 
-::\*F092 [中国经济思想](../Page/中国经济思想.md "wikilink")
+::\*F092 [中国经济思想](https://zh.wikipedia.org/wiki/中国经济思想 "wikilink")
 
 :::\*F092.2 古代
 
@@ -345,10 +348,10 @@ F类，经济。
 
 ::\*F093/097 各国经济思想
 
-## F1 世界各国经济概况、[经济史](../Page/经济史.md "wikilink")、[经济地理](../Page/经济地理.md "wikilink")
+## F1 世界各国经济概况、[经济史](https://zh.wikipedia.org/wiki/经济史 "wikilink")、[经济地理](https://zh.wikipedia.org/wiki/经济地理 "wikilink")
 
 :\*F11
-[世界经济](../Page/世界经济.md "wikilink")、[国际经济关系](../Page/国际经济关系.md "wikilink")
+[世界经济](https://zh.wikipedia.org/wiki/世界经济 "wikilink")、[国际经济关系](https://zh.wikipedia.org/wiki/国际经济关系 "wikilink")
 
 ::\*F11-0 世界经济学、国际经济学
 
@@ -424,17 +427,19 @@ F类，经济。
 
 :::\*F119.9 世界经济地理
 
-:\*F12 [中国经济](../Page/中国经济.md "wikilink")
+:\*F12 [中国经济](https://zh.wikipedia.org/wiki/中国经济 "wikilink")
 
 ::\*F120 方针政策及其阐述
 
-:::\*F120.2 [中国社会主义经济基本理论](../Page/中国社会主义经济基本理论.md "wikilink")
+:::\*F120.2
+[中国社会主义经济基本理论](https://zh.wikipedia.org/wiki/中国社会主义经济基本理论 "wikilink")
 
-:::\*F120.3 [经济发展道路模式](../Page/经济发展道路模式.md "wikilink")
+:::\*F120.3
+[经济发展道路模式](https://zh.wikipedia.org/wiki/经济发展道路模式 "wikilink")
 
 :::\*F120.4 经济发展基础
 
-::\*F121 [社会经济结构与体制](../Page/社会经济结构.md "wikilink")
+::\*F121 [社会经济结构与体制](https://zh.wikipedia.org/wiki/社会经济结构 "wikilink")
 
 :::\*F121.1 过渡时期经济成分及其改造
 
@@ -456,13 +461,13 @@ F类，经济。
 
 :::\*F121.3 产业结构
 
-::\*F123 [国民经济计划和管理](../Page/国民经济计划.md "wikilink")
+::\*F123 [国民经济计划和管理](https://zh.wikipedia.org/wiki/国民经济计划 "wikilink")
 
-:::\*F123.1 [计划管理](../Page/计划管理.md "wikilink")
+:::\*F123.1 [计划管理](https://zh.wikipedia.org/wiki/计划管理 "wikilink")
 
 ::::\*F123.11 计划工作
 
-::::\*F123.13[计划调节](../Page/计划调节.md "wikilink")
+::::\*F123.13[计划调节](https://zh.wikipedia.org/wiki/计划调节 "wikilink")
 
 ::::\*F123.14 中央与地方关系
 
@@ -470,9 +475,10 @@ F类，经济。
 
 ::::\*F123.16 宏观经济管理
 
-:::\*F123.2 [远景规划](../Page/远景规划.md "wikilink")
+:::\*F123.2 [远景规划](https://zh.wikipedia.org/wiki/远景规划 "wikilink")
 
-:::\*F123.3 [国民经济发展综合计划](../Page/国民经济发展综合计划.md "wikilink")
+:::\*F123.3
+[国民经济发展综合计划](https://zh.wikipedia.org/wiki/国民经济发展综合计划 "wikilink")
 
 ::::\*F123.31 第一个五年计划
 
@@ -500,12 +506,12 @@ F类，经济。
 
 :::\*F123.6 基本建设计划与管理
 
-:::\*F123.7 [国有资产管理与评估](../Page/国有资产.md "wikilink")
+:::\*F123.7 [国有资产管理与评估](https://zh.wikipedia.org/wiki/国有资产 "wikilink")
 
 :::\*F123.8 专题规划
 
 :::\*F123.9
-[市场机制与](../Page/市场机制.md "wikilink")[市场调节](../Page/市场调节.md "wikilink")
+[市场机制与](https://zh.wikipedia.org/wiki/市场机制 "wikilink")[市场调节](https://zh.wikipedia.org/wiki/市场调节 "wikilink")
 
 ::\*F124 经济建设和发展
 
@@ -520,9 +526,9 @@ F类，经济。
 :::\*F124.6 提高经济效益
 
 :::\*F124.7
-[国民收入](../Page/国民收入.md "wikilink")、[国民财富](../Page/国民财富.md "wikilink")
+[国民收入](https://zh.wikipedia.org/wiki/国民收入 "wikilink")、[国民财富](https://zh.wikipedia.org/wiki/国民财富 "wikilink")
 
-:::\*F124.8 [经济波动](../Page/经济波动.md "wikilink")
+:::\*F124.8 [经济波动](https://zh.wikipedia.org/wiki/经济波动 "wikilink")
 
 :::\*F124.9 其他
 
@@ -548,39 +554,40 @@ F类，经济。
 
 :::\*F127.8 少数民族经济
 
-:::\*F127.9 特区经济、[经济技术开发区经济](../Page/经济技术开发区.md "wikilink")
+:::\*F127.9
+特区经济、[经济技术开发区经济](https://zh.wikipedia.org/wiki/经济技术开发区 "wikilink")
 
 ::\*F129 [中国经济史](../Page/中国经济史.md "wikilink")
 
-:::\*F129.9 [中国经济地理](../Page/中国经济地理.md "wikilink")
+:::\*F129.9 [中国经济地理](https://zh.wikipedia.org/wiki/中国经济地理 "wikilink")
 
-:\*F13 [亚洲经济](../Page/亚洲经济.md "wikilink")
+:\*F13 [亚洲经济](https://zh.wikipedia.org/wiki/亚洲经济 "wikilink")
 
-:::\*F131.3 [日本经济](../Page/日本经济.md "wikilink")
+:::\*F131.3 [日本经济](https://zh.wikipedia.org/wiki/日本经济 "wikilink")
 
-:\*F14 [非洲经济](../Page/非洲经济.md "wikilink")
+:\*F14 [非洲经济](https://zh.wikipedia.org/wiki/非洲经济 "wikilink")
 
 :\*F15 [欧洲经济](../Page/欧洲经济.md "wikilink")
 
-:::\*F151.2 [前苏联经济](../Page/前苏联经济.md "wikilink")
+:::\*F151.2 [前苏联经济](https://zh.wikipedia.org/wiki/前苏联经济 "wikilink")
 
-:::\*F151.6 [德国经济](../Page/德国经济.md "wikilink")
+:::\*F151.6 [德国经济](https://zh.wikipedia.org/wiki/德国经济 "wikilink")
 
 :::\*F156.1 [英国经济](../Page/英国经济.md "wikilink")
 
-:::\*F156.5 [法国经济](../Page/法国经济.md "wikilink")
+:::\*F156.5 [法国经济](https://zh.wikipedia.org/wiki/法国经济 "wikilink")
 
-:\*F16 [大洋洲经济](../Page/大洋洲经济.md "wikilink")
+:\*F16 [大洋洲经济](https://zh.wikipedia.org/wiki/大洋洲经济 "wikilink")
 
-:\*F17 [美洲经济](../Page/美洲经济.md "wikilink")
+:\*F17 [美洲经济](https://zh.wikipedia.org/wiki/美洲经济 "wikilink")
 
 ::\*F171 北美洲经济
 
-:::\*F171.2 [美国经济](../Page/美国经济.md "wikilink")
+:::\*F171.2 [美国经济](https://zh.wikipedia.org/wiki/美国经济 "wikilink")
 
-## F2 [经济计划与管理](../Page/经济计划.md "wikilink")
+## F2 [经济计划与管理](https://zh.wikipedia.org/wiki/经济计划 "wikilink")
 
-:\*F20 [国民经济管理](../Page/国民经济管理.md "wikilink")
+:\*F20 [国民经济管理](https://zh.wikipedia.org/wiki/国民经济管理 "wikilink")
 
 ::\*F201 经济预测
 
@@ -600,7 +607,7 @@ F类，经济。
 
 ::\*F208 经济信息管理
 
-:\*F21 [经济计划](../Page/经济计划.md "wikilink")
+:\*F21 [经济计划](https://zh.wikipedia.org/wiki/经济计划 "wikilink")
 
 ::\*F210 国民经济计划原理
 
@@ -621,11 +628,11 @@ F类，经济。
 :::\*F213.9 其他
 
 :\*F22
-[经济计算](../Page/经济计算.md "wikilink")、[经济数学方法](../Page/经济数学方法.md "wikilink")
+[经济计算](https://zh.wikipedia.org/wiki/经济计算 "wikilink")、[经济数学方法](https://zh.wikipedia.org/wiki/经济数学方法 "wikilink")
 
-::\*F221 [经济核算](../Page/经济核算.md "wikilink")
+::\*F221 [经济核算](https://zh.wikipedia.org/wiki/经济核算 "wikilink")
 
-::\*F222 [经济统计学](../Page/经济统计学.md "wikilink")
+::\*F222 [经济统计学](https://zh.wikipedia.org/wiki/经济统计学 "wikilink")
 
 :::\*F222.1 经济统计方法
 
@@ -645,9 +652,9 @@ F类，经济。
 
 :::\*F222.7 经济统计组织与工作
 
-::\*F223 [投入产出分析](../Page/投入产出分析.md "wikilink")
+::\*F223 [投入产出分析](https://zh.wikipedia.org/wiki/投入产出分析 "wikilink")
 
-::\*F224 [经济数学方法](../Page/经济数学方法.md "wikilink")
+::\*F224 [经济数学方法](https://zh.wikipedia.org/wiki/经济数学方法 "wikilink")
 
 :::\*F224-3 经济研究方法、工作方法
 
@@ -679,13 +686,13 @@ F类，经济。
 
 :::\*F224.9 经济数学方法的应用
 
-:\*F23 [会计](../Page/会计.md "wikilink")
+:\*F23 [会计](https://zh.wikipedia.org/wiki/会计 "wikilink")
 
 ::\*F230 [会计学](../Page/会计学.md "wikilink")
 
 :::\*F230.9 会计数学
 
-::\*F231 [会计簿记方法](../Page/会计簿记方法.md "wikilink")
+::\*F231 [会计簿记方法](https://zh.wikipedia.org/wiki/会计簿记方法 "wikilink")
 
 :::\*F231.1 资产负债表
 
@@ -699,21 +706,21 @@ F类，经济。
 
 :::\*F231.6 会计检查和监督
 
-::\*F232 [会计设备](../Page/会计设备.md "wikilink")
+::\*F232 [会计设备](https://zh.wikipedia.org/wiki/会计设备 "wikilink")
 
 ::\*F233 会计工作组织与制度
 
-::\*F234 各种会计和[簿记](../Page/簿记.md "wikilink")
+::\*F234 各种会计和[簿记](https://zh.wikipedia.org/wiki/簿记 "wikilink")
 
-:::\*F234.1 [社会会计](../Page/社会会计.md "wikilink")
+:::\*F234.1 [社会会计](https://zh.wikipedia.org/wiki/社会会计 "wikilink")
 
-:::\*F234.2 [成本会计](../Page/成本会计.md "wikilink")
+:::\*F234.2 [成本会计](https://zh.wikipedia.org/wiki/成本会计 "wikilink")
 
-:::\*F234.3 [管理会计](../Page/管理会计.md "wikilink")
+:::\*F234.3 [管理会计](https://zh.wikipedia.org/wiki/管理会计 "wikilink")
 
-:::\*F234.4 [财务会计](../Page/财务会计.md "wikilink")
+:::\*F234.4 [财务会计](https://zh.wikipedia.org/wiki/财务会计 "wikilink")
 
-:::\*F234.5 [国际会计](../Page/国际会计.md "wikilink")
+:::\*F234.5 [国际会计](https://zh.wikipedia.org/wiki/国际会计 "wikilink")
 
 ::\*F235 各部门会计和簿记
 
@@ -743,7 +750,7 @@ F类，经济。
 
 ::::\*F235.99 其他
 
-::\*F239 [审计](../Page/审计.md "wikilink")
+::\*F239 [审计](https://zh.wikipedia.org/wiki/审计 "wikilink")
 
 :::\*F239.0 审计学
 
@@ -795,7 +802,7 @@ F类，经济。
 
 ::::\*F239.67 外资审计
 
-:\*F24 [劳动经济](../Page/劳动经济.md "wikilink")
+:\*F24 [劳动经济](https://zh.wikipedia.org/wiki/劳动经济 "wikilink")
 
 ::\*F240 劳动经济理论
 
@@ -803,11 +810,12 @@ F类，经济。
 
 :::\*F241.1 劳动力计划
 
-:::\*F241.2 [劳动力市场](../Page/劳动力市场.md "wikilink")
+:::\*F241.2 [劳动力市场](https://zh.wikipedia.org/wiki/劳动力市场 "wikilink")
 
-::::\*F241.21 [劳动力需求](../Page/劳动力需求.md "wikilink")
+::::\*F241.21 [劳动力需求](https://zh.wikipedia.org/wiki/劳动力需求 "wikilink")
 
-::::\*F241.23 [劳动力市场类型](../Page/劳动力市场类型.md "wikilink")
+::::\*F241.23
+[劳动力市场类型](https://zh.wikipedia.org/wiki/劳动力市场类型 "wikilink")
 
 :::\*F241.3 劳动制度
 
@@ -885,7 +893,7 @@ F类，经济。
 
 :::\*F249.3/.7 各国
 
-:\*F25 [物资经济](../Page/物资经济.md "wikilink")
+:\*F25 [物资经济](https://zh.wikipedia.org/wiki/物资经济 "wikilink")
 
 ::\*F250 物资经济理论
 
@@ -957,7 +965,7 @@ F类，经济。
 
 :::\*F259.3/.7 各国
 
-:\*F27 [企业经济](../Page/企业经济.md "wikilink")
+:\*F27 [企业经济](https://zh.wikipedia.org/wiki/企业经济 "wikilink")
 
 ::\*F270 企业经济理论和方法
 
@@ -969,10 +977,10 @@ F类，经济。
 
 :::\*F270.7 企业现代化管理
 
-::\*F271 [企业体制](../Page/企业体制.md "wikilink")
+::\*F271 [企业体制](https://zh.wikipedia.org/wiki/企业体制 "wikilink")
 
 ::\*F272
-[企业计划与](../Page/企业计划.md "wikilink")[经营决策](../Page/经营决策.md "wikilink")
+[企业计划与](https://zh.wikipedia.org/wiki/企业计划 "wikilink")[经营决策](https://zh.wikipedia.org/wiki/经营决策 "wikilink")
 
 :::\*F272.1 预测
 
@@ -982,7 +990,7 @@ F类，经济。
 
 :::\*F272.5 经济评价
 
-:::\*F272.9 [企业行政管理](../Page/企业行政管理.md "wikilink")
+:::\*F272.9 [企业行政管理](https://zh.wikipedia.org/wiki/企业行政管理 "wikilink")
 
 ::::\*F272.91 企业领导
 
@@ -990,7 +998,7 @@ F类，经济。
 
 ::::\*F272.93 民主管理
 
-::\*F273 [企业生产管理](../Page/企业生产管理.md "wikilink")
+::\*F273 [企业生产管理](https://zh.wikipedia.org/wiki/企业生产管理 "wikilink")
 
 :::\*F273.1 企业技术管理
 
@@ -1002,7 +1010,7 @@ F类，经济。
 
 ::\*F274 企业供销管理
 
-::\*F275 [企业财务管理](../Page/企业财务管理.md "wikilink")
+::\*F275 [企业财务管理](https://zh.wikipedia.org/wiki/企业财务管理 "wikilink")
 
 :::\*F275.1 企业资金管理
 
@@ -1068,7 +1076,7 @@ F类，经济。
 
 :::\*F279.3/.7 各国
 
-:\*F28 [基本建设经济](../Page/基本建设经济.md "wikilink")
+:\*F28 [基本建设经济](https://zh.wikipedia.org/wiki/基本建设经济 "wikilink")
 
 ::\*F280 基本建设理论与方法
 
@@ -1100,7 +1108,7 @@ F类，经济。
 
 :::\*F287.8 住宅建设
 
-:\*F29 城市与[市政经济](../Page/市政经济.md "wikilink")
+:\*F29 城市与[市政经济](https://zh.wikipedia.org/wiki/市政经济 "wikilink")
 
 ::\*F290 城市经济理论
 
@@ -1112,7 +1120,7 @@ F类，经济。
 
 ::\*F292 城镇规划与建设
 
-::\*F293 [城市经济管理](../Page/城市经济管理.md "wikilink")
+::\*F293 [城市经济管理](https://zh.wikipedia.org/wiki/城市经济管理 "wikilink")
 
 :::\*F293.1 城市经济结构
 
@@ -1120,13 +1128,13 @@ F类，经济。
 
 :::\*F293.3 [房地产经济](../Page/房地产.md "wikilink")
 
-::::\*F293.30 [房地产经济理论](../Page/房地产经济.md "wikilink")
+::::\*F293.30 [房地产经济理论](https://zh.wikipedia.org/wiki/房地产经济 "wikilink")
 
-::::\*F293.31 [房地产制度](../Page/房地产制度.md "wikilink")
+::::\*F293.31 [房地产制度](https://zh.wikipedia.org/wiki/房地产制度 "wikilink")
 
-::::\*F293.33 [房地产管理](../Page/房地产管理.md "wikilink")
+::::\*F293.33 [房地产管理](https://zh.wikipedia.org/wiki/房地产管理 "wikilink")
 
-::::\*F293.35 [房地产市场](../Page/房地产市场.md "wikilink")
+::::\*F293.35 [房地产市场](https://zh.wikipedia.org/wiki/房地产市场 "wikilink")
 
 ::\*F294 基础设施、公用事业建设与管理
 
@@ -1166,7 +1174,7 @@ F类，经济。
 
 :::\*F299.3/.7 各国
 
-## F3 [农业经济](../Page/农业经济.md "wikilink")
+## F3 [农业经济](https://zh.wikipedia.org/wiki/农业经济 "wikilink")
 
 :\*F30 农业经济理论
 
@@ -1272,7 +1280,7 @@ F类，经济。
 
 :::\*F307.5 农家副业、农产品加工工业
 
-:\*F31 [世界农业经济](../Page/世界农业经济.md "wikilink")
+:\*F31 [世界农业经济](https://zh.wikipedia.org/wiki/世界农业经济 "wikilink")
 
 ::\*F310 农业经济政策
 
@@ -1326,7 +1334,7 @@ F类，经济。
 
 :::\*F319.9 农业经济地理
 
-:\*F32 [中国农业经济](../Page/中国农业经济.md "wikilink")
+:\*F32 [中国农业经济](https://zh.wikipedia.org/wiki/中国农业经济 "wikilink")
 
 ::\*F320 方针政策及其阐述
 
@@ -1336,9 +1344,9 @@ F类，经济。
 
 :::\*F320.3 农村发展与建设方针
 
-::\*F321 [农村经济结构与体制](../Page/农村经济结构.md "wikilink")
+::\*F321 [农村经济结构与体制](https://zh.wikipedia.org/wiki/农村经济结构 "wikilink")
 
-:::\*F321.1 [土地问题](../Page/土地问题.md "wikilink")
+:::\*F321.1 [土地问题](https://zh.wikipedia.org/wiki/土地问题 "wikilink")
 
 :::\*F321.2 农业社会主义改造
 
@@ -1502,7 +1510,7 @@ F类，经济。
 
 ::\*F33/37 各国农业经济
 
-## F4 [工业经济](../Page/工业经济.md "wikilink")
+## F4 [工业经济](https://zh.wikipedia.org/wiki/工业经济 "wikilink")
 
 :\*F40 工业经济理论
 
@@ -1658,7 +1666,7 @@ F类，经济。
 
 :::\*F407.9 建筑、水利工程
 
-:\*F41 [世界工业经济](../Page/世界工业经济.md "wikilink")
+:\*F41 [世界工业经济](https://zh.wikipedia.org/wiki/世界工业经济 "wikilink")
 
 ::\*F410 工业政策
 
@@ -1750,7 +1758,7 @@ F类，经济。
 
 :::\*F419.9 工业经济地理
 
-:\*F42 [中国工业经济](../Page/中国工业经济.md "wikilink")
+:\*F42 [中国工业经济](https://zh.wikipedia.org/wiki/中国工业经济 "wikilink")
 
 ::\*F420 方针政策及其阐述
 
@@ -1826,9 +1834,9 @@ F类，经济。
 
 ::\*F43/47 各国工业经济
 
-:\*F49 [信息产业经济](../Page/信息产业经济.md "wikilink")（总论）
+:\*F49 [信息产业经济](https://zh.wikipedia.org/wiki/信息产业经济 "wikilink")（总论）
 
-## F5 [交通运输经济](../Page/交通运输经济.md "wikilink")
+## F5 [交通运输经济](https://zh.wikipedia.org/wiki/交通运输经济 "wikilink")
 
 :\*F50 交通运输经济理论
 
@@ -1892,7 +1900,7 @@ F类，经济。
 
 ::\*F513/517 各国
 
-:\*F53 [铁路运输经济](../Page/铁路运输经济.md "wikilink")
+:\*F53 [铁路运输经济](https://zh.wikipedia.org/wiki/铁路运输经济 "wikilink")
 
 ::\*F530 铁路运输经济理论
 
@@ -1998,7 +2006,7 @@ F类，经济。
 
 ::\*F533/537 各国铁路运输经济
 
-:\*F54 陆路、[公路运输经济](../Page/公路运输经济.md "wikilink")
+:\*F54 陆路、[公路运输经济](https://zh.wikipedia.org/wiki/公路运输经济 "wikilink")
 
 ::\*F540 陆路、公路运输经济理论
 
@@ -2050,7 +2058,7 @@ F类，经济。
 
 ::\*F543/547 各国陆路、公路运输经济
 
-:\*F55 [水路运输经济](../Page/水路运输经济.md "wikilink")
+:\*F55 [水路运输经济](https://zh.wikipedia.org/wiki/水路运输经济 "wikilink")
 
 ::\*F550 水路运输经济理论
 
@@ -2122,7 +2130,7 @@ F类，经济。
 
 ::\*F553/557 各国水路运输经济
 
-:\*F56 [航空运输经济](../Page/航空运输经济.md "wikilink")
+:\*F56 [航空运输经济](https://zh.wikipedia.org/wiki/航空运输经济 "wikilink")
 
 ::\*F560 航空运输经济理论
 
@@ -2170,7 +2178,7 @@ F类，经济。
 
 ::\*F563/567 各国航空运输与民航事业
 
-:\*F57 [城市交通运输经济](../Page/城市交通运输经济.md "wikilink")
+:\*F57 [城市交通运输经济](https://zh.wikipedia.org/wiki/城市交通运输经济 "wikilink")
 
 ::\*F570 城市交通运输经济理论
 
@@ -2206,7 +2214,7 @@ F类，经济。
 
 ::\*F573/577 各国城市交通运输经济
 
-:\*F59 [旅游经济](../Page/旅游经济.md "wikilink")
+:\*F59 [旅游经济](https://zh.wikipedia.org/wiki/旅游经济 "wikilink")
 
 ::\*F590 旅游经济理论与方法
 
@@ -2224,7 +2232,7 @@ F类，经济。
 
 :::\*F590.7 各类型旅游
 
-:::\*F590.8 [旅游市场](../Page/旅游市场.md "wikilink")
+:::\*F590.8 [旅游市场](https://zh.wikipedia.org/wiki/旅游市场 "wikilink")
 
 ::\*F591 世界旅游事业
 
@@ -2250,7 +2258,7 @@ F类，经济。
 
 ::\*F593/597 各国旅游事业
 
-## F6 [邮电经济](../Page/邮电经济.md "wikilink")
+## F6 [邮电经济](https://zh.wikipedia.org/wiki/邮电经济 "wikilink")
 
 :\*F60 邮电经济理论
 
@@ -2266,7 +2274,7 @@ F类，经济。
 
 :::\*F606.6 财务管理、会计核算
 
-:\*F61 [邮政](../Page/邮政.md "wikilink")
+:\*F61 [邮政](https://zh.wikipedia.org/wiki/邮政 "wikilink")
 
 ::\*F611 邮政事业计划和管理
 
@@ -2362,9 +2370,9 @@ F类，经济。
 
 ::\*F633/637 各国
 
-## F7 [贸易经济](../Page/贸易经济.md "wikilink")
+## F7 [贸易经济](https://zh.wikipedia.org/wiki/贸易经济 "wikilink")
 
-:\*F71 [国内贸易经济](../Page/国内贸易经济.md "wikilink")
+:\*F71 [国内贸易经济](https://zh.wikipedia.org/wiki/国内贸易经济 "wikilink")
 
 ::\*F710 贸易经济理论与方法
 
@@ -2387,7 +2395,7 @@ F类，经济。
 :::\*F712.9 贸易建设与发展
 
 ::\*F713
-[商品流通与](../Page/商品流通.md "wikilink")[市场](../Page/市场.md "wikilink")
+[商品流通与](https://zh.wikipedia.org/wiki/商品流通 "wikilink")[市场](../Page/市场.md "wikilink")
 
 :::\*F713.1 商品流通渠道
 
@@ -2400,49 +2408,49 @@ F类，经济。
 ::::\*F713.32 零售贸易
 
 ::::\*F713.33
-[城乡贸易](../Page/城乡贸易.md "wikilink")、[集市贸易](../Page/集市贸易.md "wikilink")
+[城乡贸易](https://zh.wikipedia.org/wiki/城乡贸易 "wikilink")、[集市贸易](https://zh.wikipedia.org/wiki/集市贸易 "wikilink")
 
-::::\*F713.34 [民族贸易](../Page/民族贸易.md "wikilink")
+::::\*F713.34 [民族贸易](https://zh.wikipedia.org/wiki/民族贸易 "wikilink")
 
-::::\*F713.35 [期货贸易](../Page/期货贸易.md "wikilink")
+::::\*F713.35 [期货贸易](https://zh.wikipedia.org/wiki/期货贸易 "wikilink")
 
 :::::\*F713.359 [拍卖](../Page/拍卖.md "wikilink")
 
 ::::\*F713.36
-[电子贸易](../Page/电子贸易.md "wikilink")、[网上贸易](../Page/网上贸易.md "wikilink")
+[电子贸易](https://zh.wikipedia.org/wiki/电子贸易 "wikilink")、[网上贸易](https://zh.wikipedia.org/wiki/网上贸易 "wikilink")
 
 :::\*F713.4 商品分配与调拨
 
 :::\*F713.5 [市场](../Page/市场.md "wikilink")
 
-::::\*F713.50 [市场学](../Page/市场学.md "wikilink")
+::::\*F713.50 [市场学](https://zh.wikipedia.org/wiki/市场学 "wikilink")
 
-::::\*F713.51 [商业信息](../Page/商业信息.md "wikilink")
+::::\*F713.51 [商业信息](https://zh.wikipedia.org/wiki/商业信息 "wikilink")
 
-::::\*F713.52 [市场供需关系](../Page/市场供需关系.md "wikilink")
+::::\*F713.52 [市场供需关系](https://zh.wikipedia.org/wiki/市场供需关系 "wikilink")
 
-::::\*F713.53 [商品供需关系](../Page/商品供需关系.md "wikilink")
+::::\*F713.53 [商品供需关系](https://zh.wikipedia.org/wiki/商品供需关系 "wikilink")
 
-::::\*F713.54 [市场预测](../Page/市场预测.md "wikilink")
+::::\*F713.54 [市场预测](https://zh.wikipedia.org/wiki/市场预测 "wikilink")
 
 ::::\*F713.55
-[商业心理学](../Page/商业心理学.md "wikilink")、[市场心理学](../Page/市场心理学.md "wikilink")
+[商业心理学](https://zh.wikipedia.org/wiki/商业心理学 "wikilink")、[市场心理学](https://zh.wikipedia.org/wiki/市场心理学 "wikilink")
 
-::::\*F713.56 [市场管理](../Page/市场管理.md "wikilink")
+::::\*F713.56 [市场管理](https://zh.wikipedia.org/wiki/市场管理 "wikilink")
 
 ::::\*F713.58 各种市场
 
-:::::\*F713.581 [城市市场](../Page/城市市场.md "wikilink")
+:::::\*F713.581 [城市市场](https://zh.wikipedia.org/wiki/城市市场 "wikilink")
 
-:::::\*F713.582 [农村市场](../Page/农村市场.md "wikilink")
+:::::\*F713.582 [农村市场](https://zh.wikipedia.org/wiki/农村市场 "wikilink")
 
-:::::\*F713.584 [技术市场](../Page/技术市场.md "wikilink")
+:::::\*F713.584 [技术市场](https://zh.wikipedia.org/wiki/技术市场 "wikilink")
 
-:::\*F713.6 [经纪人](../Page/经纪人.md "wikilink")
+:::\*F713.6 [经纪人](https://zh.wikipedia.org/wiki/经纪人 "wikilink")
 
-:::\*F713.7 [商品陈列布置](../Page/商品陈列布置.md "wikilink")
+:::\*F713.7 [商品陈列布置](https://zh.wikipedia.org/wiki/商品陈列布置 "wikilink")
 
-:::\*F713.8 [广告](../Page/广告.md "wikilink")
+:::\*F713.8 [广告](https://zh.wikipedia.org/wiki/广告 "wikilink")
 
 ::::\*F713.80 广告理论与方法
 
@@ -2452,9 +2460,9 @@ F类，经济。
 
 ::::\*F713.83 商品展览
 
-::\*F714 [商品价格](../Page/商品价格.md "wikilink")
+::\*F714 [商品价格](https://zh.wikipedia.org/wiki/商品价格 "wikilink")
 
-:::\*F714.1 [物价](../Page/物价.md "wikilink")
+:::\*F714.1 [物价](https://zh.wikipedia.org/wiki/物价 "wikilink")
 
 :::\*F714.2 流通费用
 
@@ -2480,7 +2488,7 @@ F类，经济。
 
 ::\*F716 商业技术与设备
 
-::\*F717 各种[商业企业](../Page/商业企业.md "wikilink")
+::\*F717 各种[商业企业](https://zh.wikipedia.org/wiki/商业企业 "wikilink")
 
 :::\*F717.1 国有商业企业
 
@@ -2488,51 +2496,52 @@ F类，经济。
 
 :::\*F717.3 私营商业
 
-:::\*F717.4 [商业垄断组织](../Page/商业垄断组织.md "wikilink")
+:::\*F717.4 [商业垄断组织](https://zh.wikipedia.org/wiki/商业垄断组织 "wikilink")
 
-::::\*F717.49 [股份制商业企业](../Page/股份制商业企业.md "wikilink")
+::::\*F717.49
+[股份制商业企业](https://zh.wikipedia.org/wiki/股份制商业企业 "wikilink")
 
 :::\*F717.5 专业贸易企业
 
 :::\*F717.6
-[超级市场](../Page/超级市场.md "wikilink")、[连锁店](../Page/连锁店.md "wikilink")、[专卖店](../Page/专卖店.md "wikilink")
+[超级市场](https://zh.wikipedia.org/wiki/超级市场 "wikilink")、[连锁店](https://zh.wikipedia.org/wiki/连锁店 "wikilink")、[专卖店](https://zh.wikipedia.org/wiki/专卖店 "wikilink")
 
-::\*F718 [商业工作者](../Page/商业工作者.md "wikilink")
+::\*F718 [商业工作者](https://zh.wikipedia.org/wiki/商业工作者 "wikilink")
 
-::\*F719 [服务业](../Page/服务业.md "wikilink")
+::\*F719 [服务业](https://zh.wikipedia.org/wiki/服务业 "wikilink")
 
-:::\*F719.2 [旅馆业](../Page/旅馆业.md "wikilink")
+:::\*F719.2 [旅馆业](https://zh.wikipedia.org/wiki/旅馆业 "wikilink")
 
-:::\*F719.3 [餐饮业](../Page/餐饮业.md "wikilink")
+:::\*F719.3 [餐饮业](https://zh.wikipedia.org/wiki/餐饮业 "wikilink")
 
-:::\*F719.5 [娱乐业](../Page/娱乐业.md "wikilink")
+:::\*F719.5 [娱乐业](https://zh.wikipedia.org/wiki/娱乐业 "wikilink")
 
 :::\*F719.9 其他
 
-:\*F72 [中国国内贸易经济](../Page/中国国内贸易经济.md "wikilink")
+:\*F72 [中国国内贸易经济](https://zh.wikipedia.org/wiki/中国国内贸易经济 "wikilink")
 
 ::\*F720 方针政策及其阐述
 
 ::\*F721 商业经济体制和组织
 
-:::\*F721.1 [国有商业企业](../Page/国有商业企业.md "wikilink")
+:::\*F721.1 [国有商业企业](https://zh.wikipedia.org/wiki/国有商业企业 "wikilink")
 
 :::\*F721.2
-[供销合作社](../Page/供销合作社.md "wikilink")、[集体商业](../Page/集体商业.md "wikilink")
+[供销合作社](https://zh.wikipedia.org/wiki/供销合作社 "wikilink")、[集体商业](https://zh.wikipedia.org/wiki/集体商业 "wikilink")
 
-:::\*F721.3 [公私合营商业](../Page/公私合营商业.md "wikilink")
+:::\*F721.3 [公私合营商业](https://zh.wikipedia.org/wiki/公私合营商业 "wikilink")
 
-:::\*F721.4 [私营商业](../Page/私营商业.md "wikilink")
+:::\*F721.4 [私营商业](https://zh.wikipedia.org/wiki/私营商业 "wikilink")
 
-:::\*F721.5 [股份制商业企业](../Page/股份制商业企业.md "wikilink")
+:::\*F721.5 [股份制商业企业](https://zh.wikipedia.org/wiki/股份制商业企业 "wikilink")
 
 :::\*F721.6
-[承包](../Page/承包.md "wikilink")、[租赁](../Page/租赁.md "wikilink")
+[承包](https://zh.wikipedia.org/wiki/承包 "wikilink")、[租赁](https://zh.wikipedia.org/wiki/租赁 "wikilink")
 
 :::\*F721.7
-[超级市场](../Page/超级市场.md "wikilink")、[连锁店](../Page/连锁店.md "wikilink")、[专卖店](../Page/专卖店.md "wikilink")
+[超级市场](https://zh.wikipedia.org/wiki/超级市场 "wikilink")、[连锁店](https://zh.wikipedia.org/wiki/连锁店 "wikilink")、[专卖店](https://zh.wikipedia.org/wiki/专卖店 "wikilink")
 
-:::\*F721.8 [专业贸易企业](../Page/专业贸易企业.md "wikilink")
+:::\*F721.8 [专业贸易企业](https://zh.wikipedia.org/wiki/专业贸易企业 "wikilink")
 
 ::\*F722 商业计划与管理
 
@@ -2546,27 +2555,28 @@ F类，经济。
 
 ::\*F723 市场
 
-::\*F724 [商品流通](../Page/商品流通.md "wikilink")
+::\*F724 [商品流通](https://zh.wikipedia.org/wiki/商品流通 "wikilink")
 
 :::\*F724.1 批发贸易
 
 :::\*F724.2 零售贸易
 
 :::\*F724.3
-[城乡贸易](../Page/城乡贸易.md "wikilink")、[集市贸易](../Page/集市贸易.md "wikilink")
+[城乡贸易](https://zh.wikipedia.org/wiki/城乡贸易 "wikilink")、[集市贸易](https://zh.wikipedia.org/wiki/集市贸易 "wikilink")
 
-:::\*F724.4 [少数民族地区贸易](../Page/少数民族地区贸易.md "wikilink")
+:::\*F724.4
+[少数民族地区贸易](https://zh.wikipedia.org/wiki/少数民族地区贸易 "wikilink")
 
-:::\*F724.5 [期货贸易](../Page/期货贸易.md "wikilink")
+:::\*F724.5 [期货贸易](https://zh.wikipedia.org/wiki/期货贸易 "wikilink")
 
 ::::\*F724.59 [拍卖](../Page/拍卖.md "wikilink")
 
 :::\*F724.6
-[电子贸易](../Page/电子贸易.md "wikilink")、[网上贸易](../Page/网上贸易.md "wikilink")
+[电子贸易](https://zh.wikipedia.org/wiki/电子贸易 "wikilink")、[网上贸易](https://zh.wikipedia.org/wiki/网上贸易 "wikilink")
 
 :::\*F724.7 各种商品贸易
 
-::\*F726 [物价](../Page/物价.md "wikilink")
+::\*F726 [物价](https://zh.wikipedia.org/wiki/物价 "wikilink")
 
 :::\*F726.1 价格体系
 
@@ -2592,13 +2602,13 @@ F类，经济。
 
 ::\*F740 国际贸易理论与方法
 
-:::\*F740.2 [世界市场](../Page/世界市场.md "wikilink")
+:::\*F740.2 [世界市场](https://zh.wikipedia.org/wiki/世界市场 "wikilink")
 
 ::::\*F740.22 国际市场调查与预测
 
 :::\*F740.3 国际价格理论
 
-:::\*F740.4 [国际贸易实务](../Page/国际贸易实务.md "wikilink")
+:::\*F740.4 [国际贸易实务](https://zh.wikipedia.org/wiki/国际贸易实务 "wikilink")
 
 ::::\*F740.41 贸易谈判
 
@@ -2616,9 +2626,9 @@ F类，经济。
 
 :::\*F741.2 自由贸易与保护贸易
 
-::\*F742 [国际贸易关系](../Page/国际贸易关系.md "wikilink")
+::\*F742 [国际贸易关系](https://zh.wikipedia.org/wiki/国际贸易关系 "wikilink")
 
-::\*F743 [国际贸易组织与会议](../Page/国际贸易组织.md "wikilink")
+::\*F743 [国际贸易组织与会议](https://zh.wikipedia.org/wiki/国际贸易组织 "wikilink")
 
 :::\*F743.1 联合国国际贸易组织
 
@@ -2626,7 +2636,7 @@ F类，经济。
 
 :::\*F743.3 国际贸易会议
 
-::\*F744[国际贸易条约和协定](../Page/国际贸易条约.md "wikilink")
+::\*F744[国际贸易条约和协定](https://zh.wikipedia.org/wiki/国际贸易条约 "wikilink")
 
 ::\*F745 [海关及](../Page/海关.md "wikilink")[关税](../Page/关税.md "wikilink")
 
@@ -2660,9 +2670,9 @@ F类，经济。
 
 ::\*F749 国际贸易史
 
-:\*F75 各国[对外贸易](../Page/对外贸易.md "wikilink")
+:\*F75 各国[对外贸易](https://zh.wikipedia.org/wiki/对外贸易 "wikilink")
 
-::\*F752 [中国对外贸易](../Page/中国.md "wikilink")
+::\*F752 [中国对外贸易](https://zh.wikipedia.org/wiki/中国 "wikilink")
 
 :::\*F752.0 方针政策及其阐述
 
@@ -2728,7 +2738,7 @@ F类，经济。
 
 ::\*F757 [美洲对外贸易](../Page/美洲.md "wikilink")
 
-:\*F76 [商品学](../Page/商品学.md "wikilink")
+:\*F76 [商品学](https://zh.wikipedia.org/wiki/商品学 "wikilink")
 
 :::\*F760.1 商品目录
 
@@ -2828,9 +2838,10 @@ F类，经济。
 
 :::\*F769.9 初级产品（总论）
 
-## F8 [财政](../Page/财政.md "wikilink")、[金融](../Page/金融.md "wikilink")
+## F8 [财政](https://zh.wikipedia.org/wiki/财政 "wikilink")、[金融](../Page/金融.md "wikilink")
 
-:\*F81 [财政](../Page/财政.md "wikilink")、[国家财政](../Page/国家财政.md "wikilink")
+:\*F81
+[财政](https://zh.wikipedia.org/wiki/财政 "wikilink")、[国家财政](https://zh.wikipedia.org/wiki/国家财政 "wikilink")
 
 ::\*F810 财政理论
 
@@ -2918,7 +2929,7 @@ F类，经济。
 
 ::\*F813/817 各国财政
 
-:\*F82 [货币](../Page/货币.md "wikilink")
+:\*F82 [货币](https://zh.wikipedia.org/wiki/货币 "wikilink")
 
 ::\*F820 货币理论
 
@@ -2930,7 +2941,7 @@ F类，经济。
 
 :::\*F820.5 通货膨胀
 
-::\*F821 [世界货币](../Page/世界货币.md "wikilink")
+::\*F821 [世界货币](https://zh.wikipedia.org/wiki/世界货币 "wikilink")
 
 :::\*F821.0 货币政策
 
@@ -2942,7 +2953,7 @@ F类，经济。
 
 :::\*F821.9 货币史
 
-::\*F822 [中国货币](../Page/中国货币.md "wikilink")
+::\*F822 [中国货币](https://zh.wikipedia.org/wiki/中国货币 "wikilink")
 
 :::\*F822.0 方针政策及其阐述
 
@@ -2958,9 +2969,11 @@ F类，经济。
 
 ::\*F823/827 各国货币
 
-:\*F83 [金融](../Page/金融.md "wikilink")、[银行](../Page/银行.md "wikilink")
+:\*F83
+[金融](../Page/金融.md "wikilink")、[银行](https://zh.wikipedia.org/wiki/银行 "wikilink")
 
-::\*F830 [金融](../Page/金融.md "wikilink")、[银行理论](../Page/银行.md "wikilink")
+::\*F830
+[金融](../Page/金融.md "wikilink")、[银行理论](https://zh.wikipedia.org/wiki/银行 "wikilink")
 
 :::\*F830.1 银行制度
 
@@ -3134,7 +3147,7 @@ F类，经济。
 
 ::\*F833/837 各国金融、银行
 
-:\*F84 [保险](../Page/保险.md "wikilink")
+:\*F84 [保险](https://zh.wikipedia.org/wiki/保险 "wikilink")
 
 ::\*F840 保险理论
 
@@ -3160,15 +3173,17 @@ F类，经济。
 
 ::::\*F840.66 农业、森林保险
 
-::::\*F840.67 [养老保险](../Page/养老保险.md "wikilink")
+::::\*F840.67 [养老保险](https://zh.wikipedia.org/wiki/养老保险 "wikilink")
 
-:::::\*F840.681 工商企业、[工程保险](../Page/工程保险.md "wikilink")
+:::::\*F840.681
+工商企业、[工程保险](https://zh.wikipedia.org/wiki/工程保险 "wikilink")
 
-:::::\*F840.682 [金融信贷保险](../Page/金融信贷保险.md "wikilink")
+:::::\*F840.682
+[金融信贷保险](https://zh.wikipedia.org/wiki/金融信贷保险 "wikilink")
 
-:::::\*F840.684 [医疗保险](../Page/医疗保险.md "wikilink")
+:::::\*F840.684 [医疗保险](https://zh.wikipedia.org/wiki/医疗保险 "wikilink")
 
-:::::\*F840.685 [涉外保险](../Page/涉外保险.md "wikilink")
+:::::\*F840.685 [涉外保险](https://zh.wikipedia.org/wiki/涉外保险 "wikilink")
 
 ::::\*F840.69 其他
 

@@ -186,7 +186,7 @@ __NOTOC__
   - Hohenzollern——霍亨索伦
   - Hohlbaum——霍尔鲍姆
   - Holbach——霍尔巴赫
-  - Holbein——[霍尔拜因](../Page/霍尔拜因.md "wikilink")
+  - Holbein——[霍尔拜因](https://zh.wikipedia.org/wiki/霍尔拜因 "wikilink")
   - Holberg——霍尔贝格
   - Hölderlin——赫尔德林
   - Holger——霍尔格

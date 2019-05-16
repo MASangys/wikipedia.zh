@@ -1,8 +1,8 @@
-**音樂-{台}-**（，英文全稱為）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](../Page/無綫網絡電視.md "wikilink")（2013年前身為[無綫收費電視](../Page/無綫收費電視.md "wikilink")）擁有的一條以播放音樂節目為主的頻道，該頻道為全[香港第一條以播放音樂節目為主的頻道](../Page/香港.md "wikilink")，有別之前已停播的[香港有線電視YMC台](../Page/香港有線電視YMC台.md "wikilink")。
+**音樂-{台}-**（，英文全稱為）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（2013年前身為[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）擁有的一條以播放音樂節目為主的頻道，該頻道為全[香港第一條以播放音樂節目為主的頻道](../Page/香港.md "wikilink")，有別之前已停播的[香港有線電視YMC台](https://zh.wikipedia.org/wiki/香港有線電視YMC台 "wikilink")。
 
 ## 历史
 
-2005年5月30日，該頻道以「**無綫音樂-{台}-**」和「」分別作為中文和英文的頻道名稱正式開播，同時正式透過無綫收費電視使用第12/212頻道收看和[now寬頻電視的無綫收費電視特選組合第](../Page/now寬頻電視.md "wikilink")812頻道播出。
+2005年5月30日，該頻道以「**無綫音樂-{台}-**」和「」分別作為中文和英文的頻道名稱正式開播，同時正式透過無綫收費電視使用第12/212頻道收看和[now寬頻電視的無綫收費電視特選組合第](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")812頻道播出。
 
 2013年4月1日，無綫網絡電視部分頻道號碼正式更改，其中該頻道將使用原有的第12/212頻道更改為現有的第13/213頻道。\[1\]
 
@@ -18,17 +18,17 @@
 
 ## 宣傳
 
-  - 在2006年2月起，該頻道每月都會舉辦「[音樂潮拜](../Page/音樂潮拜.md "wikilink")」音樂會，每月約一至兩次，找到不同的歌手或嘉賓演出，以吸引觀眾參與或收看。當中包括《浪漫滿街音樂會》、《[小齊熱唱音樂會](../Page/任賢齊.md "wikilink")》、《[鄭中基唱聚有情音樂會](../Page/鄭中基.md "wikilink")》、《女兒紅音樂會》等。
+  - 在2006年2月起，該頻道每月都會舉辦「[音樂潮拜](https://zh.wikipedia.org/wiki/音樂潮拜 "wikilink")」音樂會，每月約一至兩次，找到不同的歌手或嘉賓演出，以吸引觀眾參與或收看。當中包括《浪漫滿街音樂會》、《[小齊熱唱音樂會](../Page/任賢齊.md "wikilink")》、《[鄭中基唱聚有情音樂會](../Page/鄭中基.md "wikilink")》、《女兒紅音樂會》等。
 
 ## 停播前VJ / 主持
 
 2009年6月6日無綫音樂台，新節目。
 
   - [周子駒](../Page/周子駒.md "wikilink")〔樂透社〕．〔Live Houes〕
-  - [何基佑](../Page/何基佑.md "wikilink")〔Live
+  - [何基佑](https://zh.wikipedia.org/wiki/何基佑 "wikilink")〔Live
     Houes〕．〔Boom部樂格〕．〔獨立空間〕．〔型人型樂館〕
   - [余宜發](../Page/余宜發.md "wikilink")〔型人型樂館〕．〔華氏212〕．〔游行音樂〕
-  - [農夫](../Page/農夫_\(樂隊\).md "wikilink")〔Boom部樂格〕
+  - [農夫](https://zh.wikipedia.org/wiki/農夫_\(樂隊\) "wikilink")〔Boom部樂格〕
   - [莊思敏](../Page/莊思敏.md "wikilink")〔金榜達人〕．〔Boom部樂格〕
   - [朱薰](../Page/朱薰.md "wikilink")〔游行音樂〕
   - [湯駿業](../Page/湯駿業.md "wikilink")〔游行音樂〕
@@ -38,35 +38,36 @@
 
 ## 本地音壇
 
-[Hit100](../Page/Hit100.md "wikilink")
-[流行在線](../Page/流行在線.md "wikilink")
+[Hit100](https://zh.wikipedia.org/wiki/Hit100 "wikilink")
+[流行在線](https://zh.wikipedia.org/wiki/流行在線 "wikilink")
 
 ## 華語音壇
 
-[流行在線](../Page/流行在線.md "wikilink")
+[流行在線](https://zh.wikipedia.org/wiki/流行在線 "wikilink")
 
 ## 亞洲音壇
 
 ## 國際音壇
 
-[環球暴走](../Page/環球暴走.md "wikilink")
+[環球暴走](https://zh.wikipedia.org/wiki/環球暴走 "wikilink")
 
 ## 已離開VJ / 主持
 
   - [謝安琪](../Page/謝安琪.md "wikilink")
   - [張繼聰](../Page/張繼聰.md "wikilink")
-  - [梁雨思](../Page/梁雨思.md "wikilink")
+  - [梁雨思](https://zh.wikipedia.org/wiki/梁雨思 "wikilink")
 
 ## 播放節目
 
 每日更新節目：
 
-  - 《無綫音樂台JukeBox》（純MV節目）：派台歌節目「[m台PopUp](../Page/m台PopUp.md "wikilink")」、外語MV節目「[環球暴走](../Page/環球暴走.md "wikilink")」、較舊、經典MV節目「[24轉](../Page/24轉.md "wikilink")」、由網民投票點播的「[M.WE自選](../Page/M.WE自選.md "wikilink")」
-  - 每周專訪歌手的《[型人型樂館](../Page/型人型樂館.md "wikilink")》
-  - 播放華語音樂的《[華氏212](../Page/華氏212.md "wikilink")》
-  - 最新勁歌金榜的「[金榜達人](../Page/金榜達人.md "wikilink")」
-  - 無綫音樂台主辦的小形演唱會錄播「[Live House](../Page/Live_House.md "wikilink")」
-  - 每星期最潮音樂雜誌「[Boom部落格](../Page/Boom部落格.md "wikilink")」主持是何基佑、前VJ主持：[梁雨恩](../Page/梁雨恩.md "wikilink")、農夫、莊思敏。
+  - 《無綫音樂台JukeBox》（純MV節目）：派台歌節目「[m台PopUp](https://zh.wikipedia.org/wiki/m台PopUp "wikilink")」、外語MV節目「[環球暴走](https://zh.wikipedia.org/wiki/環球暴走 "wikilink")」、較舊、經典MV節目「[24轉](https://zh.wikipedia.org/wiki/24轉 "wikilink")」、由網民投票點播的「[M.WE自選](https://zh.wikipedia.org/wiki/M.WE自選 "wikilink")」
+  - 每周專訪歌手的《[型人型樂館](https://zh.wikipedia.org/wiki/型人型樂館 "wikilink")》
+  - 播放華語音樂的《[華氏212](https://zh.wikipedia.org/wiki/華氏212 "wikilink")》
+  - 最新勁歌金榜的「[金榜達人](https://zh.wikipedia.org/wiki/金榜達人 "wikilink")」
+  - 無綫音樂台主辦的小形演唱會錄播「[Live
+    House](https://zh.wikipedia.org/wiki/Live_House "wikilink")」
+  - 每星期最潮音樂雜誌「[Boom部落格](https://zh.wikipedia.org/wiki/Boom部落格 "wikilink")」主持是何基佑、前VJ主持：[梁雨恩](../Page/梁雨恩.md "wikilink")、農夫、莊思敏。
 
 2009年6月8日，無綫音樂台，新節目。
 
@@ -111,7 +112,7 @@
 
 ## 曾播放節目(動畫)
 
-  - [龍珠](../Page/龍珠.md "wikilink")(重播, 於
+  - [龍珠](https://zh.wikipedia.org/wiki/龍珠 "wikilink")(重播, 於
     [tvbQ](../Page/TVB兒童台.md "wikilink") 首播)
   - [火影忍者](../Page/火影忍者.md "wikilink")(第53-104集, 第1-26集為重播, 於
     [tvbQ](../Page/TVB兒童台.md "wikilink") 首播)

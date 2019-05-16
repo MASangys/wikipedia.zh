@@ -1,22 +1,22 @@
-**Netburst微處理器架構**，[Intel内部称为](../Page/Intel.md "wikilink")**P68**，為[英特爾的](../Page/英特爾.md "wikilink")[X86微處理器架構](../Page/X86.md "wikilink")，[P6微處理器製程的後繼者](../Page/Intel_P6.md "wikilink")。第一個使用這架構的[CPU是](../Page/CPU.md "wikilink")[Pentium
-4的第一代核心](../Page/Pentium_4.md "wikilink")[Willamette](../Page/Willamette.md "wikilink")，於2000年推出。所有后继的[Pentium
-4和](../Page/Pentium_4.md "wikilink")[Pentium
-D衍生架构也都基于Netburst](../Page/Pentium_D.md "wikilink")。2001年中期推出的〔[Foster核心](../Page/Foster.md "wikilink")〕亦是基于此架構；但此后[Xeon核心切换到其他架构](../Page/Xeon.md "wikilink")。基於Pentium
-4的[Celeron也使用了此架構](../Page/Celeron.md "wikilink")。
+**Netburst微處理器架構**，[Intel内部称为](https://zh.wikipedia.org/wiki/Intel "wikilink")**P68**，為[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[X86微處理器架構](../Page/X86.md "wikilink")，[P6微處理器製程的後繼者](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")。第一個使用這架構的[CPU是](https://zh.wikipedia.org/wiki/CPU "wikilink")[Pentium
+4的第一代核心](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Willamette](https://zh.wikipedia.org/wiki/Willamette "wikilink")，於2000年推出。所有后继的[Pentium
+4和](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Pentium
+D衍生架构也都基于Netburst](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")。2001年中期推出的〔[Foster核心](https://zh.wikipedia.org/wiki/Foster "wikilink")〕亦是基于此架構；但此后[Xeon核心切换到其他架构](https://zh.wikipedia.org/wiki/Xeon "wikilink")。基於Pentium
+4的[Celeron也使用了此架構](https://zh.wikipedia.org/wiki/Celeron "wikilink")。
 
 为了与前代架构区别，有时也將Netburst稱作**Intel P7**或**Intel
-80786**，但都不是官方名稱。事實上，P7被[Intel内部用作](../Page/Intel.md "wikilink")[Itanium處理器微架構的代號](../Page/Itanium.md "wikilink")。
+80786**，但都不是官方名稱。事實上，P7被[Intel内部用作](https://zh.wikipedia.org/wiki/Intel "wikilink")[Itanium處理器微架構的代號](https://zh.wikipedia.org/wiki/Itanium "wikilink")。
 
 ## 技術
 
 ### 超深管線技術
 
 第一代的NetBurst架構的核心的Willamette擁有比[Pentium
-III的](../Page/Pentium_III.md "wikilink")10級管線更多的12級管線。直到最後的Prescott核心，它有令人驚奇的31級管線。深管線可以讓處理器以更高的時脈運作，但這個做法有很多壞處，主要是減低了一個週期中可執行的指令數。另一方面，深管線在[預測執行預測錯誤時的效能損失更大](../Page/預測執行.md "wikilink")。因此NetBurst使用快速執行引擎以解決問題。
+III的](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")10級管線更多的12級管線。直到最後的Prescott核心，它有令人驚奇的31級管線。深管線可以讓處理器以更高的時脈運作，但這個做法有很多壞處，主要是減低了一個週期中可執行的指令數。另一方面，深管線在[預測執行預測錯誤時的效能損失更大](https://zh.wikipedia.org/wiki/預測執行 "wikilink")。因此NetBurst使用快速執行引擎以解決問題。
 
 ### 快速執行引擎
 
-處理器上的[算術邏輯單元在這個技術下會有核心時脈的兩倍時脈速度](../Page/算術邏輯單元.md "wikilink")。即3.5GHz的處理器，其算術邏輯單元則以7GHz速度運行。此舉用以解決IPC過低的問題，同時增強其整數的運算能力。但有部份指令會在此情形下相對及絕對的運行較慢。
+處理器上的[算術邏輯單元在這個技術下會有核心時脈的兩倍時脈速度](https://zh.wikipedia.org/wiki/算術邏輯單元 "wikilink")。即3.5GHz的處理器，其算術邏輯單元則以7GHz速度運行。此舉用以解決IPC過低的問題，同時增強其整數的運算能力。但有部份指令會在此情形下相對及絕對的運行較慢。
 
 ### 执行跟踪高速缓存
 
@@ -43,7 +43,7 @@ Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了�
   - 共有三個不同前置匯流排的版本
       - 400 MHz
       - 533 MHz
-          - 3.06GHz的處理器加入[超線程技術](../Page/超線程.md "wikilink")
+          - 3.06GHz的處理器加入[超線程技術](https://zh.wikipedia.org/wiki/超線程 "wikilink")
           - 型號中一律加入B以分別
       - 800 MHz
           - 全部加入超線程
@@ -58,11 +58,12 @@ Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了�
   - 分別使用兩種介面
       - [Socket 478](../Page/Socket_478.md "wikilink") -
         型號一律加上E〔800MH外頻〕或A〔533MHz外頻〕
-      - [LGA775](../Page/LGA775.md "wikilink") - 一律以新命名法命名〔5XX系列及6XX系列〕
+      - [LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink") -
+        一律以新命名法命名〔5XX系列及6XX系列〕
   - L2加大至1MB，隨後2MB
   - 支線預測器有重大的更新
   - 加入[SSE3](../Page/SSE3.md "wikilink")
-  - 部份加入[EM64T](../Page/EM64T.md "wikilink")、[xD](../Page/NX位元.md "wikilink")
+  - 部份加入[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[xD](../Page/NX位元.md "wikilink")
 
 雖然有大量新的特色，但只有Northwood相近的時脈〔當時由2.8GHz起跳〕，同時熱量不斷上升。
 
@@ -79,22 +80,24 @@ Cache（执行跟踪高速缓存）的快取包含在L1快取中，其儲存了�
 
 ## 後繼者
 
-[英特爾宣佈以](../Page/英特爾.md "wikilink")[Intel
-Core微處理器架構取代NetBurst微處理器架構](../Page/Intel_Core微處理器架構.md "wikilink")。
+[英特爾宣佈以](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel
+Core微處理器架構取代NetBurst微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")。
 於2006年初推出的**Presler**將會是最後一個使用NetBurst的桌面處理器核心，將會被使用Intel
 Core架構的**Conroe**取代。
 
 ## 基於NetBurst的處理器
 
-  - [Celeron](../Page/Celeron.md "wikilink")（與Pentium 4同期）
-  - [Celeron D](../Page/Celeron#Celeron_D.md "wikilink")
-  - [Pentium 4](../Page/Pentium_4.md "wikilink")
+  - [Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")（與Pentium
+    4同期）
+  - [Celeron
+    D](https://zh.wikipedia.org/wiki/Celeron#Celeron_D "wikilink")
+  - [Pentium 4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")
   - [Pentium 4 Extreme
-    Edition](../Page/Pentium_4#Extreme_Edition.md "wikilink")
-  - [Pentium D](../Page/Pentium_D.md "wikilink")
+    Edition](https://zh.wikipedia.org/wiki/Pentium_4#Extreme_Edition "wikilink")
+  - [Pentium D](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")
   - [Pentium Extreme
-    Edition](../Page/Pentium_Extreme_Edition.md "wikilink")
-  - [Xeon](../Page/Xeon.md "wikilink")（與Pentium 4同期）
+    Edition](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
+  - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")（與Pentium 4同期）
 
 ## 參見
 

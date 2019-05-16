@@ -1,4 +1,4 @@
-::\*TQ51 [燃料化学工业](../Page/燃料化学工业.md "wikilink")（总论）
+::\*TQ51 [燃料化学工业](https://zh.wikipedia.org/wiki/燃料化学工业 "wikilink")（总论）
 
 :::\*TQ511 基础理论
 
@@ -42,7 +42,7 @@
 
 :::\*TQ519 燃料化学加工的综合利用
 
-::\*TQ52 [炼焦化学工业](../Page/炼焦化学工业.md "wikilink")
+::\*TQ52 [炼焦化学工业](https://zh.wikipedia.org/wiki/炼焦化学工业 "wikilink")
 
 ::::\*TQ520.1 基础理论
 
@@ -135,7 +135,7 @@
 ::::\*TQ529.2 间接液化
 
 ::\*TQ53
-[煤化学及](../Page/煤化学.md "wikilink")[煤的加工利用](../Page/煤.md "wikilink")
+[煤化学及](https://zh.wikipedia.org/wiki/煤化学 "wikilink")[煤的加工利用](../Page/煤.md "wikilink")
 
 :::\*TQ530 煤化学基础理论
 
@@ -197,7 +197,7 @@
 
 ::::\*TQ536.9 其他
 
-::\*TQ54 [煤炭气化工业](../Page/煤炭气化工业.md "wikilink")
+::\*TQ54 [煤炭气化工业](https://zh.wikipedia.org/wiki/煤炭气化工业 "wikilink")
 
 :::\*TQ541 气化理论（可燃气体、瓦斯）
 
@@ -255,10 +255,10 @@
 
 :::\*TQ549 城市煤气供应
 
-::\*TQ55 [燃料照明工业](../Page/燃料照明工业.md "wikilink")
+::\*TQ55 [燃料照明工业](https://zh.wikipedia.org/wiki/燃料照明工业 "wikilink")
 
 ::\*TQ56
-[爆炸物工业](../Page/爆炸物工业.md "wikilink")、[火柴工业](../Page/火柴工业.md "wikilink")
+[爆炸物工业](https://zh.wikipedia.org/wiki/爆炸物工业 "wikilink")、[火柴工业](https://zh.wikipedia.org/wiki/火柴工业 "wikilink")
 
 ::::\*TQ56-09 火药史、古代火工术
 
@@ -376,7 +376,7 @@
 
 :::\*TQ569 灭火器与灭火用剂的生产
 
-::\*TQ57 [感光材料工业](../Page/感光材料工业.md "wikilink")
+::\*TQ57 [感光材料工业](https://zh.wikipedia.org/wiki/感光材料工业 "wikilink")
 
 :::\*TQ571 感光理论
 
@@ -724,7 +724,7 @@
 
 :::\*TQ579 三废处理与综合利用
 
-::\*TQ58 [磁性记录材料工业](../Page/磁性记录材料工业.md "wikilink")
+::\*TQ58 [磁性记录材料工业](https://zh.wikipedia.org/wiki/磁性记录材料工业 "wikilink")
 
 :::\*TQ581 磁记录技术理论
 
@@ -808,7 +808,7 @@
 
 :::\*TQ589 三废处理与综合利用
 
-::\*TQ59 [光学记录材料工业](../Page/光学记录材料工业.md "wikilink")
+::\*TQ59 [光学记录材料工业](https://zh.wikipedia.org/wiki/光学记录材料工业 "wikilink")
 
 :::\*TQ591 光学记录技术理论
 

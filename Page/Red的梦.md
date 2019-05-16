@@ -1,9 +1,9 @@
 《**Red的梦**》(*Red's
-Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page/皮克斯动画工作室.md "wikilink")，制作发行于1987年，由[-{zh-hans:约翰·拉萨特;zh-hk:尊·賴斯達;zh-tw:約翰·拉薩特;}-编导](../Page/约翰·雷斯特.md "wikilink")。技术上短片开拓了夜景的制作，增加了下雨的场景，第一次尝试了人物角色设计，小丑形象尽管在今天看来看起来还没有多少表情，动作也显得僵硬，但是按照当时的计算机硬件水平和处理能力，应该算是同时期的上称作品了。
+Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page/皮克斯动画工作室.md "wikilink")，制作发行于1987年，由[-{zh-hans:约翰·拉萨特;zh-hk:尊·賴斯達;zh-tw:約翰·拉薩特;}-编导](https://zh.wikipedia.org/wiki/约翰·雷斯特 "wikilink")。技术上短片开拓了夜景的制作，增加了下雨的场景，第一次尝试了人物角色设计，小丑形象尽管在今天看来看起来还没有多少表情，动作也显得僵硬，但是按照当时的计算机硬件水平和处理能力，应该算是同时期的上称作品了。
 
 ## 剧情
 
-该片的背景是一个雨夜，在一家名叫埃本的[自行车店里](../Page/自行车.md "wikilink")，有一辆打折出售的独轮车。外面风雨交加，车店里面也有漏雨，倒在墙角待售的红色独轮车在这个夜晚进入梦乡。
+该片的背景是一个雨夜，在一家名叫埃本的[自行车店里](https://zh.wikipedia.org/wiki/自行车 "wikilink")，有一辆打折出售的独轮车。外面风雨交加，车店里面也有漏雨，倒在墙角待售的红色独轮车在这个夜晚进入梦乡。
 
 在梦里，独轮车在马戏团工作，他的伙伴是马戏团耍球的[小丑](../Page/小丑.md "wikilink")。小丑骑着独轮车手里还同时耍着三个不同颜色的球。独轮车想象他自己也可以玩杂耍而且比小丑玩的还要好，这样他就成了焦点，得到热烈的掌声。
 
@@ -14,13 +14,14 @@ Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page
 ## 获奖
 
   - [旧金山国际电影节电脑综合影像奖](../Page/旧金山.md "wikilink")
-  - [奥地利Prix](../Page/奥地利.md "wikilink") Ars Elcetronica电影节的金尼卡斯奖
+  - [奥地利Prix](https://zh.wikipedia.org/wiki/奥地利 "wikilink") Ars
+    Elcetronica电影节的金尼卡斯奖
 
 ## 其他
 
 [redsdream11.jpg](https://zh.wikipedia.org/wiki/File:redsdream11.jpg "fig:redsdream11.jpg")
 
-  - 该片中出现的埃本的自行车店是皮克斯动画工作室另一部短片《[小雪人大行动](../Page/小雪人大行动.md "wikilink")》（Knick
+  - 该片中出现的埃本的自行车店是皮克斯动画工作室另一部短片《[小雪人大行动](https://zh.wikipedia.org/wiki/小雪人大行动 "wikilink")》（Knick
     Knack）的技术导演Eben Ostby。
   - 该片中在马戏团舞台中央的地板上出现的图案和皮克斯的前一部短片[-{zh-hans:小台灯;zh-hk:小洛素;zh-tw:頑皮跳跳燈;}-中的球的图案一样](../Page/小台灯.md "wikilink")。这个球多次出现在皮克斯各种影片中，被称为皮克斯球。
   - 该片中展示了皮克斯第一个具有人形的角色，小丑。（短片：安德鲁和威利B的冒险（The Adventures of André and
@@ -29,7 +30,7 @@ Dream*)，是[皮克斯动画工作室制作的的第二部动画短片](../Page
 
 ## 外部链接
 
-  - [Red的梦](http://www.imdb.com/title/tt0093832/)在[互联网电影数据库](../Page/互联网电影数据库.md "wikilink")
+  - [Red的梦](http://www.imdb.com/title/tt0093832/)在[互联网电影数据库](https://zh.wikipedia.org/wiki/互联网电影数据库 "wikilink")
   - [Youtube－Red's Dream](https://www.youtube.com/watch?v=zKgK2jagELw)
   - [该片在皮克斯官方网站](http://www.pixar.com/shorts/rd/index.html)
 

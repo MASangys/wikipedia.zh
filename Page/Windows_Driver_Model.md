@@ -1,5 +1,5 @@
 **視窗驅動程式模型**（**Windows Driver
-Model**，簡稱WDM），是[微軟](../Page/微軟.md "wikilink")[視窗作業系統的](../Page/視窗作業系統.md "wikilink")[驅動程式設計架構](../Page/驅動程式.md "wikilink")，包括對於各項裝置（Device）的支援，如鍵盤（Keyboard）、滑鼠（Mouse）、網路卡（Network
+Model**，簡稱WDM），是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[視窗作業系統的](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")[驅動程式設計架構](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")，包括對於各項裝置（Device）的支援，如鍵盤（Keyboard）、滑鼠（Mouse）、網路卡（Network
 Driver Interface Specification，Ndis）、通用序列匯流排（Universal Serial
 Bus，USB）等。WDM可支援Windows 98, Windows 98 Second Edition, Windows
 Me, Windows 2000, Windows XP以及Windows Server
@@ -20,17 +20,18 @@ Me, Windows 2000, Windows XP以及Windows Server
 
 ## 種類
 
-驅動程式的種類有[匯流排驅動程式](../Page/匯流排驅動程式.md "wikilink")（bus
-driver）、[功能驅動程式](../Page/功能驅動程式.md "wikilink")（function
-driver）、[篩選驅動程式](../Page/篩選驅動程式.md "wikilink")（filter driver）三種：
+驅動程式的種類有[匯流排驅動程式](https://zh.wikipedia.org/wiki/匯流排驅動程式 "wikilink")（bus
+driver）、[功能驅動程式](https://zh.wikipedia.org/wiki/功能驅動程式 "wikilink")（function
+driver）、[篩選驅動程式](https://zh.wikipedia.org/wiki/篩選驅動程式 "wikilink")（filter
+driver）三種：
 
   - 匯流排驅動程式（bus drivers）
       - 虛擬匯流排驅動程式（Virtual bus
         drivers）：呼叫IoInvalidateDeviceRelations通知PnP Manager。
   - 功能驅動程式（function drivers）
       - 微埠型驅動程式（[miniport
-        drivers](../Page/miniport_driver.md "wikilink")）：屬於USB, Audio,
-        SCSI以及network的轉換器（adapters）。
+        drivers](https://zh.wikipedia.org/wiki/miniport_driver "wikilink")）：屬於USB,
+        Audio, SCSI以及network的轉換器（adapters）。
       - 虛擬裝置驅動程式（Virtual device drivers）
       - 類型驅動程式（Class drivers）
   - 篩選性驅動程式（filter drivers）
@@ -210,10 +211,10 @@ DDK提供了大量的WDM範例（samples）參考，這些範例隨著DDK的安�
 ## 相關條目
 
   - [Windows Driver
-    Foundation](../Page/Windows_Driver_Foundation.md "wikilink")
+    Foundation](https://zh.wikipedia.org/wiki/Windows_Driver_Foundation "wikilink")
   - [Windows Display Driver
     Model](../Page/Windows_Display_Driver_Model.md "wikilink")
-  - [VxD](../Page/VxD.md "wikilink")
+  - [VxD](https://zh.wikipedia.org/wiki/VxD "wikilink")
 
 ## 外部連結
 

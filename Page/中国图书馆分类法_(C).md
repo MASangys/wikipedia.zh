@@ -1,6 +1,6 @@
 ## 社会科学总论
 
-  - C0　[社会科学理论与](../Page/社会科学.md "wikilink")[方法论](../Page/方法论.md "wikilink")
+  - C0　[社会科学理论与](../Page/社会科学.md "wikilink")[方法论](https://zh.wikipedia.org/wiki/方法论 "wikilink")
 
 :\*C01 科学研究的方针、政策及其阐述
 
@@ -8,15 +8,16 @@
 
 :\*C03 科学的方法论
 
-:\*C04 [术语规范及交流](../Page/术语.md "wikilink")
+:\*C04 [术语规范及交流](https://zh.wikipedia.org/wiki/术语 "wikilink")
 
 :\*C05 与其他科学的关系
 
-:\*C06 [学派及其](../Page/学派.md "wikilink")[学说](../Page/学说.md "wikilink")
+:\*C06
+[学派及其](https://zh.wikipedia.org/wiki/学派 "wikilink")[学说](https://zh.wikipedia.org/wiki/学说 "wikilink")
 
 :\*C08 资产阶级理论及其评论研究
 
-:\*C09 [社会科学史](../Page/社会科学史.md "wikilink")
+:\*C09 [社会科学史](https://zh.wikipedia.org/wiki/社会科学史 "wikilink")
 
   - C1　[社会科学现状](../Page/社会科学.md "wikilink")、概况
 
@@ -24,7 +25,7 @@
 
 :\*C19 创造发明、先进经验
 
-  - C2　[机关](../Page/机关.md "wikilink")、[团体](../Page/团体.md "wikilink")、[会议](../Page/会议.md "wikilink")
+  - C2　[机关](https://zh.wikipedia.org/wiki/机关 "wikilink")、[团体](https://zh.wikipedia.org/wiki/团体 "wikilink")、[会议](https://zh.wikipedia.org/wiki/会议 "wikilink")
 
 :\*C20 国际组织
 
@@ -42,7 +43,7 @@
 
 :\*C29 企业
 
-  - C3　[社会科学研究方法](../Page/社会科学研究方法.md "wikilink")
+  - C3　[社会科学研究方法](https://zh.wikipedia.org/wiki/社会科学研究方法 "wikilink")
 
 :\*C31 调查方法、工作方法
 
@@ -60,7 +61,7 @@
 
 :\*C39 新技术的应用
 
-  - C4　[社会科学教育与普及](../Page/社会科学教育.md "wikilink")
+  - C4　[社会科学教育与普及](https://zh.wikipedia.org/wiki/社会科学教育 "wikilink")
 
 :\*C40 教育组织、学校
 
@@ -76,14 +77,15 @@
 
 :\*C49 社会科学普及读物
 
-  - C5　社会科学[丛书](../Page/丛书.md "wikilink")、[文集](../Page/文集.md "wikilink")、[连续性出版物](../Page/连续性出版物.md "wikilink")
+  - C5　社会科学[丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")、[文集](https://zh.wikipedia.org/wiki/文集 "wikilink")、[连续性出版物](https://zh.wikipedia.org/wiki/连续性出版物 "wikilink")
 
 :\*C51
-[丛书](../Page/丛书.md "wikilink")（汇刻书）、[文库](../Page/文库.md "wikilink")
+[丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")（汇刻书）、[文库](https://zh.wikipedia.org/wiki/文库 "wikilink")
 
-:\*C52 [全集](../Page/全集.md "wikilink")、[选集](../Page/选集.md "wikilink")
+:\*C52
+[全集](../Page/全集.md "wikilink")、[选集](https://zh.wikipedia.org/wiki/选集 "wikilink")
 
-:\*C53 [文集](../Page/文集.md "wikilink")、会议录
+:\*C53 [文集](https://zh.wikipedia.org/wiki/文集 "wikilink")、会议录
 
 ::\*C532 会议录
 
@@ -91,19 +93,19 @@
 
 ::\*C539 杂著
 
-:\*C54 [年鉴](../Page/年鉴.md "wikilink")、年刊
+:\*C54 [年鉴](https://zh.wikipedia.org/wiki/年鉴 "wikilink")、年刊
 
-:\*C55 [连续出版物](../Page/连续出版物.md "wikilink")
+:\*C55 [连续出版物](https://zh.wikipedia.org/wiki/连续出版物 "wikilink")
 
 :\*C56 政府出版物、团体出版物
 
-  - C6　社会科学[参考工具书](../Page/参考工具书.md "wikilink")
+  - C6　社会科学[参考工具书](https://zh.wikipedia.org/wiki/参考工具书 "wikilink")
 
 :\*C61
-[名词术语](../Page/名词术语.md "wikilink")、[辞典](../Page/辞典.md "wikilink")、[百科全书](../Page/百科全书.md "wikilink")（[类书](../Page/类书.md "wikilink")）
+[名词术语](https://zh.wikipedia.org/wiki/名词术语 "wikilink")、[辞典](https://zh.wikipedia.org/wiki/辞典 "wikilink")、[百科全书](../Page/百科全书.md "wikilink")（[类书](https://zh.wikipedia.org/wiki/类书 "wikilink")）
 
 :\*C62
-[手册](../Page/手册.md "wikilink")、[指南](../Page/指南.md "wikilink")、[一览表](../Page/一览表.md "wikilink")、[年表](../Page/年表.md "wikilink")
+[手册](https://zh.wikipedia.org/wiki/手册 "wikilink")、[指南](https://zh.wikipedia.org/wiki/指南 "wikilink")、[一览表](https://zh.wikipedia.org/wiki/一览表 "wikilink")、[年表](https://zh.wikipedia.org/wiki/年表 "wikilink")
 
 :\*C63 目录、样本、说明书
 
@@ -115,10 +117,10 @@
 
 :\*C67 参考资料
 
-  - C7 社会科学[文献检索工具书](../Page/文献检索.md "wikilink")
+  - C7 社会科学[文献检索工具书](https://zh.wikipedia.org/wiki/文献检索 "wikilink")
   - C8 [统计学](../Page/统计学.md "wikilink")
 
-:\*C81 [统计方法](../Page/统计方法.md "wikilink")
+:\*C81 [统计方法](https://zh.wikipedia.org/wiki/统计方法 "wikilink")
 
 ::\*C811 统计调查
 
@@ -152,7 +154,7 @@
 
 :::\*C829.3/.7 各国
 
-:\*C83 [统计资料](../Page/统计资料.md "wikilink")
+:\*C83 [统计资料](https://zh.wikipedia.org/wiki/统计资料 "wikilink")
 
 ::\*C831 世界
 
@@ -178,20 +180,20 @@
 [社会结构和](../Page/社会结构.md "wikilink")[社会关系](../Page/社会关系.md "wikilink")
 
 :::\*C912.1
-[个人](../Page/个人.md "wikilink")（[社会人](../Page/社会人.md "wikilink")）
+[个人](https://zh.wikipedia.org/wiki/个人 "wikilink")（[社会人](https://zh.wikipedia.org/wiki/社会人 "wikilink")）
 
 :::\*C912.2 [社会团体](../Page/社会团体.md "wikilink")
 
 :::\*C912.3
-[社会关系](../Page/社会关系.md "wikilink")、[社会制约](../Page/社会制约.md "wikilink")
+[社会关系](../Page/社会关系.md "wikilink")、[社会制约](https://zh.wikipedia.org/wiki/社会制约 "wikilink")
 
 :::\*C912.4
-[文化人类学](../Page/文化人类学.md "wikilink")、[社会人类学](../Page/社会人类学.md "wikilink")
+[文化人类学](../Page/文化人类学.md "wikilink")、[社会人类学](https://zh.wikipedia.org/wiki/社会人类学 "wikilink")
 
 :::\*C912.5 [民族学](../Page/民族学.md "wikilink")
 
 :::\*C912.6
-[社会心理](../Page/社会心理.md "wikilink")、[社会行为](../Page/社会行为.md "wikilink")
+[社会心理](https://zh.wikipedia.org/wiki/社会心理 "wikilink")、[社会行为](https://zh.wikipedia.org/wiki/社会行为 "wikilink")
 
 ::::\*C912.61 阶级心理
 
@@ -207,17 +209,17 @@
 
 ::::\*C912.69 其他
 
-:::\*C912.8 [地区社会学](../Page/地区社会学.md "wikilink")
+:::\*C912.8 [地区社会学](https://zh.wikipedia.org/wiki/地区社会学 "wikilink")
 
 ::::\*C912.81 城市社会学
 
 ::::\*C912.82 农村社会学
 
 ::\*C913
-[社会生活和](../Page/社会生活.md "wikilink")[社会问题](../Page/社会问题.md "wikilink")
+[社会生活和](https://zh.wikipedia.org/wiki/社会生活 "wikilink")[社会问题](../Page/社会问题.md "wikilink")
 
 :::\*C913.1
-[恋爱](../Page/恋爱.md "wikilink")、[家庭](../Page/家庭.md "wikilink")、[婚姻](../Page/婚姻.md "wikilink")
+[恋爱](https://zh.wikipedia.org/wiki/恋爱 "wikilink")、[家庭](../Page/家庭.md "wikilink")、[婚姻](../Page/婚姻.md "wikilink")
 
 ::::\*C913.11 家庭、家族
 
@@ -227,10 +229,10 @@
 
 ::::\*C913.15 生育
 
-:::\*C913.2 [职业](../Page/职业.md "wikilink")
+:::\*C913.2 [职业](https://zh.wikipedia.org/wiki/职业 "wikilink")
 
 :::\*C913.3
-[生活与](../Page/生活.md "wikilink")[消费](../Page/消费.md "wikilink")
+[生活与](https://zh.wikipedia.org/wiki/生活 "wikilink")[消费](../Page/消费.md "wikilink")
 
 ::::\*C913.31 居住
 
@@ -240,24 +242,24 @@
 
 :::\*C913.4 文教卫生
 
-:::\*C913.5 [青少年问题](../Page/青少年问题.md "wikilink")
+:::\*C913.5 [青少年问题](https://zh.wikipedia.org/wiki/青少年问题 "wikilink")
 
-:::\*C913.6 [老年人问题](../Page/老年人问题.md "wikilink")
+:::\*C913.6 [老年人问题](https://zh.wikipedia.org/wiki/老年人问题 "wikilink")
 
-::::\*C913.68[妇女问题](../Page/妇女问题.md "wikilink")
+::::\*C913.68[妇女问题](https://zh.wikipedia.org/wiki/妇女问题 "wikilink")
 
-::::\*C913.69[残疾人问题](../Page/残疾人问题.md "wikilink")
+::::\*C913.69[残疾人问题](https://zh.wikipedia.org/wiki/残疾人问题 "wikilink")
 
 :::\*C913.7
-[社会福利](../Page/社会福利.md "wikilink")、[救济](../Page/救济.md "wikilink")、[社会保障](../Page/社会保障.md "wikilink")
+[社会福利](../Page/社会福利.md "wikilink")、[救济](https://zh.wikipedia.org/wiki/救济 "wikilink")、[社会保障](../Page/社会保障.md "wikilink")
 
-:::\*C913.8 [社会病态](../Page/社会病态.md "wikilink")
+:::\*C913.8 [社会病态](https://zh.wikipedia.org/wiki/社会病态 "wikilink")
 
 :::\*C913.9 其他[社会问题](../Page/社会问题.md "wikilink")
 
-::\*C914 [社会利益](../Page/社会利益.md "wikilink")
+::\*C914 [社会利益](https://zh.wikipedia.org/wiki/社会利益 "wikilink")
 
-::\*C915 [社会调查和分析](../Page/社会调查.md "wikilink")
+::\*C915 [社会调查和分析](https://zh.wikipedia.org/wiki/社会调查 "wikilink")
 
 :\*C92 [人口学](../Page/人口学.md "wikilink")
 
@@ -317,9 +319,9 @@
 
 :::\*C931.3 管理工作、管理人员
 
-:::\*C931.4 [办公室工作](../Page/办公室.md "wikilink")
+:::\*C931.4 [办公室工作](https://zh.wikipedia.org/wiki/办公室 "wikilink")
 
-::::\*C931.46 [文书工作](../Page/文书工作.md "wikilink")
+::::\*C931.46 [文书工作](https://zh.wikipedia.org/wiki/文书工作 "wikilink")
 
 ::::\*C931.47 会议组织与管理
 
@@ -327,7 +329,7 @@
 
 :::\*C931.9 管理工作自动化
 
-::\*C932 [咨询学](../Page/咨询学.md "wikilink")
+::\*C932 [咨询学](https://zh.wikipedia.org/wiki/咨询学 "wikilink")
 
 :::\*C932.2 咨询方法与咨询技术
 
@@ -339,7 +341,7 @@
 
 :::\*C932.9 专科咨询学
 
-::\*C933 [领导学](../Page/领导学.md "wikilink")
+::\*C933 [领导学](https://zh.wikipedia.org/wiki/领导学 "wikilink")
 
 :::\*C933.1 领导体制
 
@@ -349,13 +351,13 @@
 
 :::\*C933.4 领导组织建设
 
-::\*C934 [决策学](../Page/决策学.md "wikilink")
+::\*C934 [决策学](https://zh.wikipedia.org/wiki/决策学 "wikilink")
 
 ::\*C935 管理计划和控制
 
-::\*C936 [管理组织学](../Page/管理组织学.md "wikilink")
+::\*C936 [管理组织学](https://zh.wikipedia.org/wiki/管理组织学 "wikilink")
 
-::\*C939 [应用管理学](../Page/应用管理学.md "wikilink")
+::\*C939 [应用管理学](https://zh.wikipedia.org/wiki/应用管理学 "wikilink")
 
 :\*C94 [系统科学](../Page/系统科学.md "wikilink")
 
@@ -381,27 +383,27 @@
 
 ::\*C957 民族工作、民族问题
 
-:\*C96 [人才学](../Page/人才学.md "wikilink")
+:\*C96 [人才学](https://zh.wikipedia.org/wiki/人才学 "wikilink")
 
 ::\*C961
-[人才培养与](../Page/人才培养.md "wikilink")[人才选拔](../Page/人才选拔.md "wikilink")
+[人才培养与](https://zh.wikipedia.org/wiki/人才培养 "wikilink")[人才选拔](https://zh.wikipedia.org/wiki/人才选拔 "wikilink")
 
 :::\*C961.9
-[人才预测与](../Page/人才预测.md "wikilink")[人才规划](../Page/人才规划.md "wikilink")
+[人才预测与](https://zh.wikipedia.org/wiki/人才预测 "wikilink")[人才规划](https://zh.wikipedia.org/wiki/人才规划 "wikilink")
 
-::\*C962 [人才管理](../Page/人才管理.md "wikilink")
+::\*C962 [人才管理](https://zh.wikipedia.org/wiki/人才管理 "wikilink")
 
-::\*C963 [人才智力开发](../Page/人才智力开发.md "wikilink")
+::\*C963 [人才智力开发](https://zh.wikipedia.org/wiki/人才智力开发 "wikilink")
 
 ::\*C964 世界各国人才调查及研究
 
-::\*C965 [人才市场](../Page/人才市场.md "wikilink")
+::\*C965 [人才市场](https://zh.wikipedia.org/wiki/人才市场 "wikilink")
 
 ::\*C969 专门人才学
 
-:\*C97 [劳动科学](../Page/劳动科学.md "wikilink")
+:\*C97 [劳动科学](https://zh.wikipedia.org/wiki/劳动科学 "wikilink")
 
-::\*C970 [劳动科学基础理论](../Page/劳动科学.md "wikilink")
+::\*C970 [劳动科学基础理论](https://zh.wikipedia.org/wiki/劳动科学 "wikilink")
 
 :::\*C970.2 劳动哲学
 
@@ -419,17 +421,17 @@
 
 ::\*C974 劳动管理学
 
-::\*C975 [职业培训](../Page/职业培训.md "wikilink")
+::\*C975 [职业培训](https://zh.wikipedia.org/wiki/职业培训 "wikilink")
 
-:::\*C976.1 [劳动社会学](../Page/劳动社会学.md "wikilink")
+:::\*C976.1 [劳动社会学](https://zh.wikipedia.org/wiki/劳动社会学 "wikilink")
 
 :::\*C976.2 劳动安全、劳动卫生
 
-:::\*C976.7 [劳动计量学](../Page/劳动计量学.md "wikilink")
+:::\*C976.7 [劳动计量学](https://zh.wikipedia.org/wiki/劳动计量学 "wikilink")
 
 :::\*C976.8 劳动统计学
 
-::\*C979 [社会保障学](../Page/社会保障学.md "wikilink")
+::\*C979 [社会保障学](https://zh.wikipedia.org/wiki/社会保障学 "wikilink")
 
 -----
 

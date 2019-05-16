@@ -6,9 +6,9 @@
 2001年2月-{zh-hans:[索尼](../Page/索尼.md "wikilink");
 zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各個網路公司陸續規劃並提出了「QUALIA」產品提案，並交由Sony高層所組成的「QUALIA」委員會進行評估。評估的標準並不僅取決於產品的功能及規格，更包括產品是否能創造「情感價值」，通過審查的產品提案則會被給予一個「QUALIA」序號。
 
-2002年5月[出井伸之在年度管理會議上提出](../Page/出井伸之.md "wikilink")，2002年12月所著作的[非連續時代中所刊載](../Page/非連續時代.md "wikilink")。並於2003年6月以「**感質**」為核心價值，只接受訂單方式，推出實體化的「QUALIA」高級品牌，在全球市場中，只在[日本](../Page/日本.md "wikilink")、[美國推出此計劃](../Page/美國.md "wikilink")。
+2002年5月[出井伸之在年度管理會議上提出](../Page/出井伸之.md "wikilink")，2002年12月所著作的[非連續時代中所刊載](https://zh.wikipedia.org/wiki/非連續時代 "wikilink")。並於2003年6月以「**感質**」為核心價值，只接受訂單方式，推出實體化的「QUALIA」高級品牌，在全球市場中，只在[日本](../Page/日本.md "wikilink")、[美國推出此計劃](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
-此計劃於2005年9月的「中期企業策略」改革計畫中，連同機器人「[QRIO](../Page/QRIO.md "wikilink")」、機器狗「[AIBO](../Page/AIBO.md "wikilink")」三項計畫凍結。
+此計劃於2005年9月的「中期企業策略」改革計畫中，連同機器人「[QRIO](https://zh.wikipedia.org/wiki/QRIO "wikilink")」、機器狗「[AIBO](../Page/AIBO.md "wikilink")」三項計畫凍結。
 
 ## QUALIA 涵義
 
@@ -37,17 +37,17 @@ zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各�
 **QUALIA 005**
 
   -
-    LCD電視，2004年8月公布，产品型号KDX46Q005。搭载了使用约400个美国Lumileds公司制造的[LED而制成的TRILUMINOS液晶面板](../Page/LED.md "wikilink")，以再现鲜明的颜色。颜色的表现力很高，但是特别的红色吓退了不少追随者。使用二倍速驱动但还是仍有液晶电视特有的残像，并且功耗和发热很高。QUALIA爱好者中失望和要求改进的声音也很多。这是在QUALIA产品中唯一不需要预定的产品，有46寸和40寸两种制式。
+    LCD電視，2004年8月公布，产品型号KDX46Q005。搭载了使用约400个美国Lumileds公司制造的[LED而制成的TRILUMINOS液晶面板](https://zh.wikipedia.org/wiki/LED "wikilink")，以再现鲜明的颜色。颜色的表现力很高，但是特别的红色吓退了不少追随者。使用二倍速驱动但还是仍有液晶电视特有的残像，并且功耗和发热很高。QUALIA爱好者中失望和要求改进的声音也很多。这是在QUALIA产品中唯一不需要预定的产品，有46寸和40寸两种制式。
 
 **QUALIA 006**
 
   -
-    SXRD的[背投电视](../Page/背投电视.md "wikilink")，2004年9月公布，产品型号KDX46Q006。70寸的FullHD背投电视，装载索尼独家反射型液晶面板SXRD，拥有高对比度的鲜艳颜色和高速的响应速度。
+    SXRD的[背投电视](https://zh.wikipedia.org/wiki/背投电视 "wikilink")，2004年9月公布，产品型号KDX46Q006。70寸的FullHD背投电视，装载索尼独家反射型液晶面板SXRD，拥有高对比度的鲜艳颜色和高速的响应速度。
 
 **QUALIA 007**
 
   -
-    [SACD音響](../Page/SACD.md "wikilink")，2003年6月公布，产品型号Q007-SCD。特征是盘片像在空中一样漂浮着，[扬声器部分使用](../Page/扬声器.md "wikilink")6组超高音喇叭，忠实再现SACD宽广的高音域。
+    [SACD音響](https://zh.wikipedia.org/wiki/SACD "wikilink")，2003年6月公布，产品型号Q007-SCD。特征是盘片像在空中一样漂浮着，[扬声器部分使用](https://zh.wikipedia.org/wiki/扬声器 "wikilink")6组超高音喇叭，忠实再现SACD宽广的高音域。
 
 **QUALIA 010**
 
@@ -57,20 +57,20 @@ zh-hant:[索尼](../Page/索尼.md "wikilink");}-進行QUALIA-Project，Sony各�
 **QUALIA 015**
 
   -
-    CRT電視，2003年6月公布，产品型号Q015-KX36。使用[特丽珑](../Page/特丽珑.md "wikilink")[显像管](../Page/显像管.md "wikilink")，是索尼引以为傲的显像管技术的集大成者，尺寸为36寸，是显像管的最大尺寸。和专用扬声器与专用桌台捆绑销售完毕后，本体也单独销售。
+    CRT電視，2003年6月公布，产品型号Q015-KX36。使用[特丽珑](../Page/特丽珑.md "wikilink")[显像管](https://zh.wikipedia.org/wiki/显像管 "wikilink")，是索尼引以为傲的显像管技术的集大成者，尺寸为36寸，是显像管的最大尺寸。和专用扬声器与专用桌台捆绑销售完毕后，本体也单独销售。
 
 **QUALIA 016**
 
   -
-    210萬像素的[數位相機](../Page/數位相機.md "wikilink")，2003年6月公布，产品型号Q016-WE1。拇指大小的微型数码相机，用一个皮箱来放置所有组件并给人留下了以[密诺斯为代表的间谍照相机的印象](../Page/密诺斯.md "wikilink")。存储介质是[Memory
-    Stick](../Page/Memory_Stick.md "wikilink")
+    210萬像素的[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，2003年6月公布，产品型号Q016-WE1。拇指大小的微型数码相机，用一个皮箱来放置所有组件并给人留下了以[密诺斯为代表的间谍照相机的印象](https://zh.wikipedia.org/wiki/密诺斯 "wikilink")。存储介质是[Memory
+    Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")
     Duo。但是只有超小型这个特点，作为数码相机的性能和同时代其他产品比没有优势，因而不被市场理解，也有不少人认为它是QUALIA系列失败的象徵。鉴于其高昂的价格与稀少的产量(首批133台，全部发行量约300台)，QUALIA
     016被誉为最稀有的QUALIA产品。
 
 **QUALIA 017**
 
   -
-    [MD隨身聽](../Page/MD.md "wikilink")，2004年6月公布，产品型号Q017-MD1。全金属制成的高级MD单放随身听。原型是2002年11月发售、为了纪念MD发售10周年而出产的镁合金世界最小的MD：MZ-E10，它首次搭载了SONY数字放大器等最尖端功能，成为MD随身听的名机之一。对Q017-MD1也可以付费镀金、镀银。附带MDR-EX070耳机。
+    [MD隨身聽](https://zh.wikipedia.org/wiki/MD "wikilink")，2004年6月公布，产品型号Q017-MD1。全金属制成的高级MD单放随身听。原型是2002年11月发售、为了纪念MD发售10周年而出产的镁合金世界最小的MD：MZ-E10，它首次搭载了SONY数字放大器等最尖端功能，成为MD随身听的名机之一。对Q017-MD1也可以付费镀金、镀银。附带MDR-EX070耳机。
 
 **MDR-EXQ1**
 

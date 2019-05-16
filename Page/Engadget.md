@@ -4,40 +4,40 @@
 ## 創立與成員
 
 Engadget由前[Gizmodo科技網誌編輯](../Page/Gizmodo.md "wikilink")[Peter
-Rojas所創立](../Page/Peter_Rojas.md "wikilink")。Engadget是[Weblogs,
-Inc.成員之一](../Page/Weblogs,_Inc..md "wikilink")，一個擁有超過75個[網誌的](../Page/網誌.md "wikilink")[網誌網絡](../Page/網誌網絡.md "wikilink")，其中包括了[Autoblog與](../Page/Autoblog.md "wikilink")[Joystiq](../Page/Joystiq.md "wikilink")，之前亦包括了[Hack-A-Day](../Page/Hack-A-Day.md "wikilink")。2005年[Weblogs
-Inc.被](../Page/Weblogs_Inc..md "wikilink")[AOL收購](../Page/AOL.md "wikilink")。Engadget的總編輯是[Ryan
-Block](../Page/Ryan_Block.md "wikilink")。
+Rojas所創立](https://zh.wikipedia.org/wiki/Peter_Rojas "wikilink")。Engadget是[Weblogs,
+Inc.成員之一](https://zh.wikipedia.org/wiki/Weblogs,_Inc. "wikilink")，一個擁有超過75個[網誌的](../Page/網誌.md "wikilink")[網誌網絡](https://zh.wikipedia.org/wiki/網誌網絡 "wikilink")，其中包括了[Autoblog與](https://zh.wikipedia.org/wiki/Autoblog "wikilink")[Joystiq](../Page/Joystiq.md "wikilink")，之前亦包括了[Hack-A-Day](https://zh.wikipedia.org/wiki/Hack-A-Day "wikilink")。2005年[Weblogs
+Inc.被](https://zh.wikipedia.org/wiki/Weblogs_Inc. "wikilink")[AOL收購](https://zh.wikipedia.org/wiki/AOL "wikilink")。Engadget的總編輯是[Ryan
+Block](https://zh.wikipedia.org/wiki/Ryan_Block "wikilink")。
 
 ## 網誌
 
-自2004年3月開始，Engadget每天更新數次[電子玩意與](../Page/電子玩意.md "wikilink")[消費電子產品的文章](../Page/消費電子產品.md "wikilink")。它亦張貼關於電子世界的流行[小道消息](../Page/小道消息.md "wikilink")，加上每週一次的[播客](../Page/播客.md "wikilink")[Engadget
-Podcast](../Page/Engadget_Podcast.md "wikilink")，以覆蓋一週以來的科技與電子玩意的新聞及故事。
+自2004年3月開始，Engadget每天更新數次[電子玩意與](https://zh.wikipedia.org/wiki/電子玩意 "wikilink")[消費電子產品的文章](../Page/消費電子產品.md "wikilink")。它亦張貼關於電子世界的流行[小道消息](https://zh.wikipedia.org/wiki/小道消息 "wikilink")，加上每週一次的[播客](../Page/播客.md "wikilink")[Engadget
+Podcast](https://zh.wikipedia.org/wiki/Engadget_Podcast "wikilink")，以覆蓋一週以來的科技與電子玩意的新聞及故事。
 
 由其創立開始很多作家曾為Engadget、Engadget Mobile與[Engadget
-hd寫作或寫稿](../Page/Engadget_hd.md "wikilink")，包括高知名度的Blogger、分析家與專業新聞記者。那些作家包括了[Jason
-Calacanis](../Page/Jason_Calacanis.md "wikilink")、[Paul
-Boutin](../Page/Paul_Boutin.md "wikilink")、[Phillip
-Torrone與](../Page/Phillip_Torrone.md "wikilink")[Susan
-Mernit](../Page/Susan_Mernit.md "wikilink")。
+hd寫作或寫稿](https://zh.wikipedia.org/wiki/Engadget_hd "wikilink")，包括高知名度的Blogger、分析家與專業新聞記者。那些作家包括了[Jason
+Calacanis](https://zh.wikipedia.org/wiki/Jason_Calacanis "wikilink")、[Paul
+Boutin](https://zh.wikipedia.org/wiki/Paul_Boutin "wikilink")、[Phillip
+Torrone與](https://zh.wikipedia.org/wiki/Phillip_Torrone "wikilink")[Susan
+Mernit](https://zh.wikipedia.org/wiki/Susan_Mernit "wikilink")。
 
-Engadget曾被提名多個獎項，包括2004年的[Bloggie最佳科技網誌與](../Page/Bloggie.md "wikilink")2005年的Bloggie最佳電腦或科技與最佳團隊網誌；Engadget贏得了Weblog
+Engadget曾被提名多個獎項，包括2004年的[Bloggie最佳科技網誌與](https://zh.wikipedia.org/wiki/Bloggie "wikilink")2005年的Bloggie最佳電腦或科技與最佳團隊網誌；Engadget贏得了Weblog
 Awards的2004年與2005年最佳科技網誌。
 
 [Google的电子邮件服務](../Page/Google.md "wikilink")[Gmail與許多其他RSS閱讀器一樣](../Page/Gmail.md "wikilink")，將Engadget加到預設的[RSS饋送](../Page/RSS.md "wikilink")，最新的文章會顯示到所有用戶的電子郵箱頂部。
 
-Engadget最开始时在其網站放置[woot.com的廣告](../Page/woot.com.md "wikilink")，為當時剛起步的小公司提供了一個龐大的客戶基礎。
+Engadget最开始时在其網站放置[woot.com的廣告](https://zh.wikipedia.org/wiki/woot.com "wikilink")，為當時剛起步的小公司提供了一個龐大的客戶基礎。
 
 ## 語言
 
-為了增加讀者人數該網誌數種語言擁有包括了西班牙語、日語與中文（繁體及簡體）、波蘭文\[1\]、德文和韓文\[2\]。內容主要為[翻譯英文主站的文章為主](../Page/翻譯.md "wikilink")。如該網誌不斷在世界各地增加名聲，語言的數量很有可能會增加。
+為了增加讀者人數該網誌數種語言擁有包括了西班牙語、日語與中文（繁體及簡體）、波蘭文\[1\]、德文和韓文\[2\]。內容主要為[翻譯英文主站的文章為主](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。如該網誌不斷在世界各地增加名聲，語言的數量很有可能會增加。
 
 ### 中文（繁體）
 
-Engadget在2005年7月1日與[FunMakr合作](../Page/FunMakr.md "wikilink")，開設Engadget繁體中文版。\[3\]
+Engadget在2005年7月1日與[FunMakr合作](https://zh.wikipedia.org/wiki/FunMakr "wikilink")，開設Engadget繁體中文版。\[3\]
 兩家網站拆夥後，现在原「瘾科技」繁体中文版已改名为 Engadget 中文版。
 
-Engadget繁体版在中国大陆被[GFW封锁](../Page/GFW.md "wikilink")。
+Engadget繁体版在中国大陆被[GFW封锁](https://zh.wikipedia.org/wiki/GFW "wikilink")。
 
 ### 中文（简体）
 
@@ -47,27 +47,28 @@ Atticus Wu，目前 Engadget 成为中国最受欢迎的新数码媒体之一。
 
 ### 繁體中文站拆夥事件
 
-2011年6月28日，Engadget繁體中文站與[FunMakr無預警拆夥](../Page/FunMakr.md "wikilink")\[5\]，原癮科技繁體中文站更名為「Engadget中文版」，並由Engadget香港編輯接手。現在FunMakr與Engadget兩家網站已無任何關係，為獨立經營的兩個不同網站。
+2011年6月28日，Engadget繁體中文站與[FunMakr無預警拆夥](https://zh.wikipedia.org/wiki/FunMakr "wikilink")\[5\]，原癮科技繁體中文站更名為「Engadget中文版」，並由Engadget香港編輯接手。現在FunMakr與Engadget兩家網站已無任何關係，為獨立經營的兩個不同網站。
 
 ## 播客
 
 Engadget的播客於2004年10月启动，由[Phillip
-Torrone主持](../Page/Phillip_Torrone.md "wikilink")，一個[Makezine的作家與網誌](../Page/Makezine.md "wikilink")[Make的資深編輯](../Page/Make.md "wikilink")。他主持了22集播客直至[Eric
-Rice接替](../Page/Eric_Rice.md "wikilink")。[Eric
-Rice因其自己名為](../Page/Eric_Rice.md "wikilink")[The Eric Rice
-Show的播客而聞名](../Page/The_Eric_Rice_Show.md "wikilink")，同時他亦為[Weblogs
-Inc.製作播客](../Page/Weblogs_Inc..md "wikilink")。Eric主持與製作4集播客直至該節目被[Peter
-Rojas與](../Page/Peter_Rojas.md "wikilink")[Ryan
-Block接管](../Page/Ryan_Block.md "wikilink")。在兩人主持與製作(38集)約二十集Engadget雇用了播客製作人[Randall
-Bennett](../Page/Randall_Bennett.md "wikilink")，成為Engadget與Weblogs,
+Torrone主持](https://zh.wikipedia.org/wiki/Phillip_Torrone "wikilink")，一個[Makezine的作家與網誌](https://zh.wikipedia.org/wiki/Makezine "wikilink")[Make的資深編輯](../Page/Make.md "wikilink")。他主持了22集播客直至[Eric
+Rice接替](https://zh.wikipedia.org/wiki/Eric_Rice "wikilink")。[Eric
+Rice因其自己名為](https://zh.wikipedia.org/wiki/Eric_Rice "wikilink")[The
+Eric Rice
+Show的播客而聞名](https://zh.wikipedia.org/wiki/The_Eric_Rice_Show "wikilink")，同時他亦為[Weblogs
+Inc.製作播客](https://zh.wikipedia.org/wiki/Weblogs_Inc. "wikilink")。Eric主持與製作4集播客直至該節目被[Peter
+Rojas與](https://zh.wikipedia.org/wiki/Peter_Rojas "wikilink")[Ryan
+Block接管](https://zh.wikipedia.org/wiki/Ryan_Block "wikilink")。在兩人主持與製作(38集)約二十集Engadget雇用了播客製作人[Randall
+Bennett](https://zh.wikipedia.org/wiki/Randall_Bennett "wikilink")，成為Engadget與Weblogs,
 Inc.的重要媒體製作人直至2006年5月。
 
-該播客的討論話題為科技相關與該週科技世界所發生的事件。該節目一般每週一次，每次半到一小時，不過偶爾會被一些事件中斷，如每年一次的[國際消費電子展](../Page/國際消費電子展.md "wikilink")(CES)與[電子娛樂展覽](../Page/E3.md "wikilink")(E3)，於事件發生時播客會每天廣播以覆蓋電子玩意的最新消息。最近的特別版播客為Engadget的lovecast與一個聽眾的語音信箱播客。
+該播客的討論話題為科技相關與該週科技世界所發生的事件。該節目一般每週一次，每次半到一小時，不過偶爾會被一些事件中斷，如每年一次的[國際消費電子展](https://zh.wikipedia.org/wiki/國際消費電子展 "wikilink")(CES)與[電子娛樂展覽](https://zh.wikipedia.org/wiki/E3 "wikilink")(E3)，於事件發生時播客會每天廣播以覆蓋電子玩意的最新消息。最近的特別版播客為Engadget的lovecast與一個聽眾的語音信箱播客。
 
 最近該播客受到贊助。作為對贊助商的回報會在節目中被提及。播客主持會放節目初、中段與結尾時提及贊助商。贊助商包括[Best
-Buy](../Page/Best_Buy.md "wikilink")、[尼康與最近的](../Page/尼康.md "wikilink")[嘉實多](../Page/嘉實多.md "wikilink")。
+Buy](https://zh.wikipedia.org/wiki/Best_Buy "wikilink")、[尼康與最近的](../Page/尼康.md "wikilink")[嘉實多](https://zh.wikipedia.org/wiki/嘉實多 "wikilink")。
 
-Engadget播客可以[RSS饋送通過](../Page/RSS.md "wikilink")[iTunes訂閱或可於該網站上選擇下載](../Page/iTunes.md "wikilink")[MP3](../Page/MP3.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[AAC或](../Page/AAC.md "wikilink")[m4b格式](../Page/m4b.md "wikilink")。m4b版本提供有關當前話題的圖像，可放[iTunes或相容的播放器上顯示](../Page/iTunes.md "wikilink")。
+Engadget播客可以[RSS饋送通過](../Page/RSS.md "wikilink")[iTunes訂閱或可於該網站上選擇下載](https://zh.wikipedia.org/wiki/iTunes "wikilink")[MP3](../Page/MP3.md "wikilink")、[Ogg](../Page/Ogg.md "wikilink")、[AAC或](https://zh.wikipedia.org/wiki/AAC "wikilink")[m4b格式](https://zh.wikipedia.org/wiki/m4b "wikilink")。m4b版本提供有關當前話題的圖像，可放[iTunes或相容的播放器上顯示](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 ## 被盜用商標
 
@@ -75,42 +76,53 @@ Engadget播客可以[RSS饋送通過](../Page/RSS.md "wikilink")[iTunes訂閱或
 
 ## 讀者集會
 
-Engadget於不同城市主持讀者集會，參加為完全免費而且會分發獎品。曾舉辦的地點包括[紐約](../Page/紐約.md "wikilink")、[冰島](../Page/冰島.md "wikilink")、[華盛頓](../Page/華盛頓.md "wikilink")、[三藩市](../Page/三藩市.md "wikilink")、[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[西雅圖與](../Page/西雅圖.md "wikilink")[波士頓](../Page/波士頓.md "wikilink")。
+Engadget於不同城市主持讀者集會，參加為完全免費而且會分發獎品。曾舉辦的地點包括[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")、[華盛頓](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")、[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")、[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[西雅圖與](../Page/西雅圖.md "wikilink")[波士頓](https://zh.wikipedia.org/wiki/波士頓 "wikilink")。
 
 ## 編輯群
 
 ### 現時的資深編輯
 
-  - [Peter Rojas](../Page/Peter_Rojas.md "wikilink")
-  - [Ryan Block](../Page/Ryan_Block.md "wikilink")
-  - [Cyrus Farivar](../Page/Cyrus_Farivar.md "wikilink")
-  - [Evan Blass](../Page/Evan_Blass.md "wikilink")
+  - [Peter Rojas](https://zh.wikipedia.org/wiki/Peter_Rojas "wikilink")
+  - [Ryan Block](https://zh.wikipedia.org/wiki/Ryan_Block "wikilink")
+  - [Cyrus
+    Farivar](https://zh.wikipedia.org/wiki/Cyrus_Farivar "wikilink")
+  - [Evan Blass](https://zh.wikipedia.org/wiki/Evan_Blass "wikilink")
 
 ### 投稿編輯
 
-  - [Josh Fruhlinger](../Page/Josh_Fruhlinger.md "wikilink")
-  - [Donald Melanson](../Page/Donald_Melanson.md "wikilink")
-  - [Paul Miller](../Page/Paul_Miller.md "wikilink")
-  - [Darren Murph](../Page/Darren_Murph.md "wikilink")
-  - [Thomas Ricker](../Page/Thomas_Ricker.md "wikilink")
-  - [Chris Ziegler](../Page/Chris_Ziegler.md "wikilink")
-  - [Ross Rubin](../Page/Ross_Rubin.md "wikilink")
-  - [Stan Horaczek](../Page/Stan_Horaczek.md "wikilink")
-  - [Matt Burns](../Page/Matt_Burns.md "wikilink")
-  - [Conrad Quilty-Harper](../Page/Conrad_Quilty-Harper.md "wikilink")
-  - [Benjamin Heckendorn](../Page/Benjamin_Heckendorn.md "wikilink")
+  - [Josh
+    Fruhlinger](https://zh.wikipedia.org/wiki/Josh_Fruhlinger "wikilink")
+  - [Donald
+    Melanson](https://zh.wikipedia.org/wiki/Donald_Melanson "wikilink")
+  - [Paul Miller](https://zh.wikipedia.org/wiki/Paul_Miller "wikilink")
+  - [Darren
+    Murph](https://zh.wikipedia.org/wiki/Darren_Murph "wikilink")
+  - [Thomas
+    Ricker](https://zh.wikipedia.org/wiki/Thomas_Ricker "wikilink")
+  - [Chris
+    Ziegler](https://zh.wikipedia.org/wiki/Chris_Ziegler "wikilink")
+  - [Ross Rubin](https://zh.wikipedia.org/wiki/Ross_Rubin "wikilink")
+  - [Stan
+    Horaczek](https://zh.wikipedia.org/wiki/Stan_Horaczek "wikilink")
+  - [Matt Burns](https://zh.wikipedia.org/wiki/Matt_Burns "wikilink")
+  - [Conrad
+    Quilty-Harper](https://zh.wikipedia.org/wiki/Conrad_Quilty-Harper "wikilink")
+  - [Benjamin
+    Heckendorn](https://zh.wikipedia.org/wiki/Benjamin_Heckendorn "wikilink")
 
 ### 前編輯
 
-  - [Jason Calacanis](../Page/Jason_Calacanis.md "wikilink")
-  - [Marc Perton](../Page/Marc_Perton.md "wikilink")
-  - [Phillip Torrone](../Page/Phillip_Torrone.md "wikilink")
+  - [Jason
+    Calacanis](https://zh.wikipedia.org/wiki/Jason_Calacanis "wikilink")
+  - [Marc Perton](https://zh.wikipedia.org/wiki/Marc_Perton "wikilink")
+  - [Phillip
+    Torrone](https://zh.wikipedia.org/wiki/Phillip_Torrone "wikilink")
 
 ## 評論
 
 ### 侵犯版权
 
-2006年3月一個關於[數位音頻播放器的網站](../Page/數位音頻播放器.md "wikilink")[DAPreview聲稱Engadget使用了一張原為DAPreview所拍攝的照片並裁减掉了DAPreview的標誌來占为己用](../Page/DAPreview.md "wikilink")\[7\]。Engadget的總編輯Ryan
+2006年3月一個關於[數位音頻播放器的網站](https://zh.wikipedia.org/wiki/數位音頻播放器 "wikilink")[DAPreview聲稱Engadget使用了一張原為DAPreview所拍攝的照片並裁减掉了DAPreview的標誌來占为己用](https://zh.wikipedia.org/wiki/DAPreview "wikilink")\[7\]。Engadget的總編輯Ryan
 Block承認該照片确实曾遭複製與修剪，为此他做出了道歉并移除了这张图片\[8\]。
 
 ## 参考文献

@@ -1,23 +1,23 @@
 [Melty-Blood_ss.jpg](https://zh.wikipedia.org/wiki/File:Melty-Blood_ss.jpg "fig:Melty-Blood_ss.jpg")
 《**Melty Blood
-逝血之戰**》是由[同人](../Page/同人.md "wikilink")[冒險遊戲](../Page/冒險遊戲.md "wikilink")《[月姬](../Page/月姬.md "wikilink")》改编的同人[格斗游戏系列](../Page/格斗游戏.md "wikilink")，一般翻译为“月姬格斗”。原本是由[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")（《月姬》原作者）和[渡边制作所共同开发的Windows平台的PC游戏](../Page/渡边制作所.md "wikilink")，渡边制作所解散后，由新组织[フランスパン继承其版权并进行后续开发](../Page/フランスパン.md "wikilink")，并由ECOLE
+逝血之戰**》是由[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")《[月姬](../Page/月姬.md "wikilink")》改编的同人[格斗游戏系列](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，一般翻译为“月姬格斗”。原本是由[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")（《月姬》原作者）和[渡边制作所共同开发的Windows平台的PC游戏](https://zh.wikipedia.org/wiki/渡边制作所 "wikilink")，渡边制作所解散后，由新组织[フランスパン继承其版权并进行后续开发](https://zh.wikipedia.org/wiki/フランスパン "wikilink")，并由ECOLE
 SOFTWARE进行发行及其它平台的移植。
 
 ## 沿革
 
 2002年12月，本作原始版初发表时，作为格斗游戏其平衡性相当之差，甚至还存在一击必杀（并非正常设定，将其视为BUG较为妥当）、无限连段（即可以由一方完全压制另一方直至胜利，且被压制方毫无反击甚至破解的办法；这对于对战游戏来说是非常恶劣的设计不良）等十分严重的问题。后来经过多次补丁调整之后平衡性逐渐提高。
 
-后来，渡边制作所宣告解散，由[フランスパン继承渡边制作所名义对本作进行技术支援](../Page/フランスパン.md "wikilink")。再后来，TYPE-MOON也宣告解散，并由其成员成立的新公司[ノーツ继承TYPE](../Page/ノーツ.md "wikilink")-MOON名义及月姬相关的各种权力。
+后来，渡边制作所宣告解散，由[フランスパン继承渡边制作所名义对本作进行技术支援](https://zh.wikipedia.org/wiki/フランスパン "wikilink")。再后来，TYPE-MOON也宣告解散，并由其成员成立的新公司[ノーツ继承TYPE](https://zh.wikipedia.org/wiki/ノーツ "wikilink")-MOON名义及月姬相关的各种权力。
 
 2004年5月，发表其资料片“MELTY BLOOD
 Re·act”（虽然从其更新的幅度来看即使脱离原始版恐怕也没有问题，但此版本确实无法单独运行，不过存在爱好者自行制作的“精简版”；此外，会覆盖原始版中的剧情模式存档），并于其后发布补丁直至其最终调整版（版本号Ver2.51
 FinalTuned，简称FT）中，总算是完成了调整到可以胜任对战要求的最终版本。
 
-Re·ACT中，尽管对系统、界面、角色等进行了各种大幅的调整，但直到最终的FT版也并未提供任何通过网络连线进行对战的设计或方式\[1\]，也不支持更改键盘操作所需的按键\[2\]（存在可以通过键盘操作的默认Player1及Player2按键设置，但由于Player2要使用到小键盘，对于精简了键盘的笔记本电脑来说比较容易造成困扰），但提供了设定画面供修改[摇杆按键](../Page/摇杆.md "wikilink")。
+Re·ACT中，尽管对系统、界面、角色等进行了各种大幅的调整，但直到最终的FT版也并未提供任何通过网络连线进行对战的设计或方式\[1\]，也不支持更改键盘操作所需的按键\[2\]（存在可以通过键盘操作的默认Player1及Player2按键设置，但由于Player2要使用到小键盘，对于精简了键盘的笔记本电脑来说比较容易造成困扰），但提供了设定画面供修改[摇杆按键](https://zh.wikipedia.org/wiki/摇杆 "wikilink")。
 
 在原作《月姬》的影响力下，加上华丽的画面及简单的操作和语音（除原始版的剧情模式没有语音外，本游戏为全程语音），拥有不少忠实玩家的MELTY
 BLOOD于2004年7月发表了即将登陆[大型机台的消息](../Page/街机.md "wikilink")。届时将作为系列新作\[3\]“ACT
-Cadenza”发表，而从实际发表的作品来看，系统上进行了各种调整，并增加了数名新角色。其后更是拓展到了PS2平台，并曾一度成为著名[电子竞技格斗赛事](../Page/电子竞技.md "wikilink")[鬥劇的比赛项目之一](../Page/鬥劇.md "wikilink")\[4\]。
+Cadenza”发表，而从实际发表的作品来看，系统上进行了各种调整，并增加了数名新角色。其后更是拓展到了PS2平台，并曾一度成为著名[电子竞技格斗赛事](../Page/电子竞技.md "wikilink")[鬥劇的比赛项目之一](https://zh.wikipedia.org/wiki/鬥劇 "wikilink")\[4\]。
 
 ACT
 Cadenza移植到PC平台时，于初回版中附赠了2片装的原声音乐CD。由于仍然存在少量BUG，移植后于官方网站发布了直至1.03版的补丁\[5\]。
@@ -180,12 +180,12 @@ Again Current Code ”的PC版本(新增真祖愛爾奎特、完全武裝雪兒�
 ## 角色简介
 
 以下以MELTY
-BLOOD系列中的剧情为主，另参见[月姬](../Page/月姬.md "wikilink")、[歌月十夜中的介紹](../Page/歌月十夜.md "wikilink")。
+BLOOD系列中的剧情为主，另参见[月姬](../Page/月姬.md "wikilink")、[歌月十夜中的介紹](https://zh.wikipedia.org/wiki/歌月十夜 "wikilink")。
 以下如非特例，人名采用译名/原名/英字（游戏内显示为准）的记述方式。
 
 ### 远野志贵
 
-CV：[野島健児](../Page/野島健児.md "wikilink")
+CV：[野島健児](https://zh.wikipedia.org/wiki/野島健児 "wikilink")
 
   - 为了方便，一般来说，下文中出现“志贵”是指远野志贵，“七夜”是指七夜志贵（后详）。
 
@@ -251,7 +251,7 @@ CV：[野島健児](../Page/野島健児.md "wikilink")
 ### 希翁
 
 身高：161 cm 体重：48 kg 三围：86/55/83 生日：6月1日 血型：Ｂ型
-CV：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
+CV：[夏樹リオ](https://zh.wikipedia.org/wiki/夏樹リオ "wikilink")
 
   - 希翁‧艾爾多娜‧亞特拉斯//Sion Eltnam Atlasia
 
@@ -275,7 +275,7 @@ CV：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
   -
     MELTY
     BLOOD剧情部分的主角。埃及人。完全的理性主义者，认为“通过计算得出的结果就是全部”。不过，在相互关系恶劣的“月姬”女主角中，是珍稀的能和其他女主角比较合得来的存在。
-    使用家族代代相传的以太光纤（纳米单位的纤维丝，平常收纳在手镯里）盗取他人思考的灵子[骇客](../Page/骇客.md "wikilink")。光纤延伸距离可达1500米，肉眼难以察觉并具备束缚和麻醉的骇客的效果，火力不足但对人战斗是一流武装。此外，能够进行以假想式将思考中枢分为数个，进行同时演算的“高速思考和分割思考”。分割思考数量为7，在学院里贝分类为天才。演算能力能达到旧型办公室电脑的水平。
+    使用家族代代相传的以太光纤（纳米单位的纤维丝，平常收纳在手镯里）盗取他人思考的灵子[骇客](https://zh.wikipedia.org/wiki/骇客 "wikilink")。光纤延伸距离可达1500米，肉眼难以察觉并具备束缚和麻醉的骇客的效果，火力不足但对人战斗是一流武装。此外，能够进行以假想式将思考中枢分为数个，进行同时演算的“高速思考和分割思考”。分割思考数量为7，在学院里贝分类为天才。演算能力能达到旧型办公室电脑的水平。
     她本名为索卡利斯，8年前成为埃及炼金术师协会“亚特拉斯院”的次期院长候补而被冠上亚特拉斯之名。但在3年前前往讨伐TATARI（瓦拉齐亚之夜）时，被击败并遭到吸血而**半死徒**化（由于TATARI的特殊性一直免于受到它的影响，加上她没有产生过对他人的好感也就谈不上产生吸血冲动而没有吸过血，所以尚未完全死徒化）。不过依据攻略本给的设定，这阶段的运动能力已经比一般死徒还高了。希翁为了消灭TATARI叛离了亚特拉斯院，因此正被追捕中。在主线结局中，战胜了死徒化，与志贵和爱尔奎特共同将TATARI完全消灭。
     使用将以太光纤像鞭子一样挥出的技能及枪技、摔角技，属于全能型角色。原本是本系列中唯一具有几乎可以无限压制对手的连续技的角色，不过在Act
     Cadenza Ver.B中被调整了。作为代替，各技能的基础性能得到了提高。
@@ -320,7 +320,7 @@ CV：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
   -
     CPU专用角色。除一部分角色之外是Actress Again中的共通Boss角色。
     冥界之鸟，作为瓦拉齐亚之夜的后继者继承**死徒二十七祖**的第13位，再次令三咲町蒙受TATARI袭击的元凶。企图通过再现瓦拉齐亚之夜所作出的**幻影之夏**，将结局篡改完成**空想的结末**的世界，发动把现实封印到空想中的大禁咒。能够用人类的血液大量生产炼金术奥义的**贤者之石**。
-    其实是4年前遭遇TATARI被瓦拉齐亚之夜吸去的希翁的“人类的血液”在TATARI被消灭后得以利用TATARI的机能具现出来的，未被瓦拉齐亚之夜吸血，因此未曾到访日本，在亚特拉斯院生活的希翁的最终形态。乘坐切换到自卫模式的赫尔梅斯进行战斗。欧西里斯之名来自埃及神话中掌管生产及死后冥界的神[欧西里斯](../Page/欧西里斯.md "wikilink")。
+    其实是4年前遭遇TATARI被瓦拉齐亚之夜吸去的希翁的“人类的血液”在TATARI被消灭后得以利用TATARI的机能具现出来的，未被瓦拉齐亚之夜吸血，因此未曾到访日本，在亚特拉斯院生活的希翁的最终形态。乘坐切换到自卫模式的赫尔梅斯进行战斗。欧西里斯之名来自埃及神话中掌管生产及死后冥界的神[欧西里斯](https://zh.wikipedia.org/wiki/欧西里斯 "wikilink")。
     她的目的是保存灵长类（人类）的记录。由于得出无法规避世界及人类终将毁灭的结局，为了将人类的记录残存到毁灭后的世界而制作了“灵子演算机（赫尔梅斯）”。但是，要运行赫尔梅斯需要将全人类的血液转化为贤者之石，进一步演算出全人类被贤者之石化的“空想的结末”并将其实现。
     继G秋叶、混沌猫姬G666后登场的巨大Boss。拥有广大的攻击范围。大型机台版中随着魔术回路的累积能够使用EX技，PS2版则是能使用高威力的不可防御的Arc
     Drive使得难度有所提高。在没有冠上CC的《Actress Again》中，只要能取得一次胜利就算战胜。
@@ -374,7 +374,7 @@ CV：[柚木涼香](../Page/柚木涼香.md "wikilink")
 
   -
     志贵记忆中不想遇到的事物通过TATARI形成的具有爱尔奎特形态的东西（《Act
-    Cadenza》中是受TATARI影响导致爱尔奎特的吸血冲动得到自我而[乖离出的存在](../Page/乖离.md "wikilink")）。也是爱尔奎特本身因血发狂失去理性时的样子，但在本系列中未曾作为本身登场过。
+    Cadenza》中是受TATARI影响导致爱尔奎特的吸血冲动得到自我而[乖离出的存在](https://zh.wikipedia.org/wiki/乖离 "wikilink")）。也是爱尔奎特本身因血发狂失去理性时的样子，但在本系列中未曾作为本身登场过。
     由于是仿冒品，或者可能是因为仅仅是由“不安”所产生，设定上仅有正品的爱尔奎特真正暴走时40%程度的水平（普通情况下爱尔奎特是暴走时30%左右）。瓦拉齐亚之夜也表示“到底也只能重现30%左右就是极限了”。《Act
     Cadenza》中，面对正品爱尔奎特时曾表示“就算把100个我加起来也打不赢正品”，但不能确定是否是真话。
     《Re·Act》中登场的时候，是由白莲使用TATARI的能力具现化的产物。为了与正品区别，言行都相当粗野，因此也被称为“恶（日语与爱尔奎特的爱尔发音相似）奎特”。
@@ -402,7 +402,7 @@ CV：[柚木涼香](../Page/柚木涼香.md "wikilink")
 
 ### 远野秋叶
 
-CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../Page/ひと美.md "wikilink")
+CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](https://zh.wikipedia.org/wiki/ひと美 "wikilink")
 
   - 远野秋叶//Akiha Tohno
 
@@ -488,13 +488,13 @@ CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../
     被在TATARI影响下的琥珀打了怪药“まききゅーX”而巨人化的秋叶。
     角色造型、技能很大程度上借鉴了《X-MEN VS. STREET FIGHTER》及《MARVEL SUPER HEROES VS.
     STREET
-    FIGHTER》中登场的Boss角色アポカリプス。原本开发时准备将秋叶的[点阵图进行放大来表现](../Page/点阵图.md "wikilink")，不过由于渡边制作所方面提出的“不如做成アポカリプス那样好了”的建议被TYPE-MOON方面接受（主笔的[奈须蘑菇也很喜欢アポカリプス](../Page/奈须蘑菇.md "wikilink")），结果就成为了现在的样子。
+    FIGHTER》中登场的Boss角色アポカリプス。原本开发时准备将秋叶的[点阵图进行放大来表现](https://zh.wikipedia.org/wiki/点阵图 "wikilink")，不过由于渡边制作所方面提出的“不如做成アポカリプス那样好了”的建议被TYPE-MOON方面接受（主笔的[奈须蘑菇也很喜欢アポカリプス](https://zh.wikipedia.org/wiki/奈须蘑菇 "wikilink")），结果就成为了现在的样子。
     原始版中只有从眼睛射出激光、猛击地板、拳击、手上产生钻头（？）攻击几种技能，PS2版Actress
-    Again的BossRush模式中作为“G秋叶N”（N指[梦魇](../Page/梦魇.md "wikilink")（Nightmare））登场时，增加了若干技能（勾拳和抓人等）。
+    Again的BossRush模式中作为“G秋叶N”（N指[梦魇](https://zh.wikipedia.org/wiki/梦魇 "wikilink")（Nightmare））登场时，增加了若干技能（勾拳和抓人等）。
 
 ### 翡翠&琥珀
 
-  - 翡翠//Hisui/CV：[松来未祐](../Page/松来未祐.md "wikilink")
+  - 翡翠//Hisui/CV：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")
 
 <!-- end list -->
 
@@ -514,7 +514,7 @@ CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../
 
   -
     随攻略本追加的翡翠单人版。服侍远野家的女佣，主要工作是照顾健康状况不佳的志贵。由于受到TATARI的影响突然开眼，具有了能与其他角色（某种意义上来说，非人）抗衡的战斗力。
-    借助各种家具及生活用品，及[歌月十夜中奇怪拳法的升级版](../Page/歌月十夜.md "wikilink")“暗黑翡翠拳”（），及由于原作中的误字、漏字等产生的“洗脑侦探”（）能力衍生出的“伪固有结界”等进行战斗。具体的技能名称也很令人无语。
+    借助各种家具及生活用品，及[歌月十夜中奇怪拳法的升级版](https://zh.wikipedia.org/wiki/歌月十夜 "wikilink")“暗黑翡翠拳”（），及由于原作中的误字、漏字等产生的“洗脑侦探”（）能力衍生出的“伪固有结界”等进行战斗。具体的技能名称也很令人无语。
     机动性较低，但靠设置系技能及各种家具拥有范围较大的攻击技。连击伤害很高，虽然看起来柔弱不过其实是力量型角色。
 
 <!-- end list -->
@@ -547,7 +547,7 @@ CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../
 
 <!-- end list -->
 
-  - 机械翡翠//Mech-HISUI/CV：[松来未祐](../Page/松来未祐.md "wikilink")
+  - 机械翡翠//Mech-HISUI/CV：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")
 
 <!-- end list -->
 
@@ -567,7 +567,7 @@ CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../
 
   -
     琥珀仿照翡翠制作的“愉快型城市压制兵器”。在月姬本篇中本来已经失败，琥珀为了“某个目的”计划卷土重来的妄想由TATARI具现化而完成。尽管是偶然的产物，但在Re·Act中已经成功量产了的样子。
-    手指内藏机枪、从手腕和裙底发射导弹等，取材自[人造人009中的](../Page/人造人009.md "wikilink")004。此外，还能从眼睛发射镭射，空中后冲会飞起来等，充满了来自萝卜作品的捏他。此外还使用着[PSO中出现的武器](../Page/梦幻之星在线.md "wikilink")（Act
+    手指内藏机枪、从手腕和裙底发射导弹等，取材自[人造人009中的](../Page/人造人009.md "wikilink")004。此外，还能从眼睛发射镭射，空中后冲会飞起来等，充满了来自萝卜作品的捏他。此外还使用着[PSO中出现的武器](https://zh.wikipedia.org/wiki/梦幻之星在线 "wikilink")（Act
     Cadenza中还由原作世嘉公司担任机械翡翠的武器监修）、仿佛PSO中的角色一样。动力来源是“魔法心脏”和“橡胶辊”，不过由于有充电表现所以真假不明。
     Act Cadenza中，反抗了创造者琥珀，其后在Actress
     Again中侍奉着不明的角色、为解决各地的SOS信号而奔走，最终心中想着最爱的人并因过度损伤而停止活动等，本身的剧情相当萝卜王道路线。
@@ -577,7 +577,7 @@ CV：[北都南](../Page/北都南.md "wikilink")（原始版）/[ひと美](../
 ### 莲
 
 身高：132 cm 体重：33 kg 三围：63/48/61 生日：9月9日 血型：不明
-CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
+CV：[水橋かおり](https://zh.wikipedia.org/wiki/水橋かおり "wikilink")
 
   - 蓮//Len
 
@@ -624,7 +624,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
     性格和莲完全不同，做作无礼又唠叨。虽然平时表现得很从容，但也有因为被自己当成同类的暴走爱尔奎特及七夜的反叛而哑口无言、没能预测到机械翡翠和猫姬的出现等，有些天真的一面。特别是非常拿猫姬没辙。
     Re·Act中，用莲的能力及TATARI的力量，产生出瓦拉齐亚之夜、尼禄·卡欧斯、七夜志贵、暴走爱尔奎特等，企图代替莲本身。
     Act
-    Cadenza中，最终与莲和解而达成共存。还有由于莲想守护的、对于白莲也很重要的志贵被猫姬拐走，晚上出门前去营救而出现的，莲和都古为此担心的场面。PS2版中被称作“新增加了[傲娇属性](../Page/傲娇.md "wikilink")”，并且在其后的系列作品中更加强烈地表现出这个趋势。
+    Cadenza中，最终与莲和解而达成共存。还有由于莲想守护的、对于白莲也很重要的志贵被猫姬拐走，晚上出门前去营救而出现的，莲和都古为此担心的场面。PS2版中被称作“新增加了[傲娇属性](https://zh.wikipedia.org/wiki/傲娇 "wikilink")”，并且在其后的系列作品中更加强烈地表现出这个趋势。
     2006年12月移植的Ver.B中，成为了玩家可操作的角色。为了寻找适合自己的Master打破和爱尔奎特的契约，最终选了七夜志贵为Master，订下契约后成为了他的使魔（虽然说是“没办法呀”，不过从以后的情节来看应该是对七夜产生了好感）。不过在《アーネンエルベの一日》中，是反过来将七夜当作使魔对待。另外，Actress
     Again的七夜的剧情中本来因为七夜前去与红摩决战而中止了契约，但在白莲的剧情中面对“没理由活下去，不如就此消失好了”的七夜以“（七夜）最不希望的事”“作为Master，活（存在）下去直到消失为止吧”为理由而再次订下契约。
     拥有与莲相似的技能，但基本是另一名角色。Act Cadenza
@@ -633,7 +633,8 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 ### 其他混血
 
-  - 有間都古//Miyako Arima/CV：[倖月美和](../Page/倖月美和.md "wikilink")
+  - 有間都古//Miyako
+    Arima/CV：[倖月美和](https://zh.wikipedia.org/wiki/倖月美和 "wikilink")
 
 <!-- end list -->
 
@@ -714,7 +715,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 <!-- end list -->
 
-  - 瓦拉齊亞之夜//Warachia/CV：[増谷康紀](../Page/増谷康紀.md "wikilink")
+  - 瓦拉齊亞之夜//Warachia/CV：[増谷康紀](https://zh.wikipedia.org/wiki/増谷康紀 "wikilink")
 
 <!-- end list -->
 
@@ -783,7 +784,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 <!-- end list -->
 
   - CV：[成田劍](../Page/成田劍.md "wikilink")
-  - 主武装：[数秘纹之雷霆](../Page/數秘術.md "wikilink")
+  - 主武装：[数秘纹之雷霆](https://zh.wikipedia.org/wiki/數秘術 "wikilink")
 
 <!-- end list -->
 
@@ -839,7 +840,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 <!-- end list -->
 
-  - CV：[渡辺明乃](../Page/渡辺明乃.md "wikilink")
+  - CV：[渡辺明乃](https://zh.wikipedia.org/wiki/渡辺明乃 "wikilink")
 
 <!-- end list -->
 
@@ -998,7 +999,8 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 <!-- end list -->
 
-  - 两仪式//Ryougi Shiki/CV：[坂本真綾](../Page/坂本真綾.md "wikilink")
+  - 两仪式//Ryougi
+    Shiki/CV：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
 
 <!-- end list -->
 
@@ -1031,7 +1033,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 ### 辅助角色
 
-  - 濑尾 晶//CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
+  - 濑尾 晶//CV：[水橋かおり](https://zh.wikipedia.org/wiki/水橋かおり "wikilink")
 
 <!-- end list -->
 
@@ -1054,7 +1056,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
   -
     在PS2版《Actress Again》对话中登场。没有台词。两人都是秋叶在学校宿舍的室友兼朋友。
 
-  - 欧西里斯改/CV：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
+  - 欧西里斯改/CV：[夏樹リオ](https://zh.wikipedia.org/wiki/夏樹リオ "wikilink")
 
 <!-- end list -->
 
@@ -1177,7 +1179,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 ### 漫畫
 
-由本作原始版（主要是K及O2路线）所改编的[漫畫版由](../Page/漫畫.md "wikilink")《[月刊CompAce](../Page/月刊CompAce.md "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）雜誌連載，由作畫，已于第9册宣告完结。
+由本作原始版（主要是K及O2路线）所改编的[漫畫版由](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")》（[角川書店](../Page/角川書店.md "wikilink")）雜誌連載，由作畫，已于第9册宣告完结。
 由同一作者以本作中形成的新角色组合“后巷同盟”（）为主角创作的《MELTY BLOOD X》于同一個杂志连载。
 ;MELTY BLOOD
 
@@ -1188,7 +1190,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 <th><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a> |-</p></th>
 <th><p>發售日期</p></th>
-<th><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></th>
 <th><p>發售日期</p></th>
 <th><p>ISBN</p></th>
 </tr>
@@ -1279,7 +1281,7 @@ CV：[水橋かおり](../Page/水橋かおり.md "wikilink")
 
 #### Lycee
 
-本作目前已作为TYPE-MOON作品加盟著名卡片游戏制作公司[Broccoli](../Page/Broccoli.md "wikilink")（ブロッコリー）旗下的大乱斗对战收集卡片游戏[Lycee系列](../Page/Lycee.md "wikilink")。
+本作目前已作为TYPE-MOON作品加盟著名卡片游戏制作公司[Broccoli](../Page/Broccoli.md "wikilink")（ブロッコリー）旗下的大乱斗对战收集卡片游戏[Lycee系列](https://zh.wikipedia.org/wiki/Lycee "wikilink")。
 
 ver.TYPE-MOON ver1.0
 
@@ -1317,7 +1319,7 @@ ver.TYPE-MOON ver空の境界
 
 #### Weiß Schwarz
 
-2010年，本作加盟另一著名卡片游戏制作公司[ブシロード旗下的大乱斗对战收集卡片游戏](../Page/ブシロード.md "wikilink")[Weiß
+2010年，本作加盟另一著名卡片游戏制作公司[ブシロード旗下的大乱斗对战收集卡片游戏](https://zh.wikipedia.org/wiki/ブシロード "wikilink")[Weiß
 Schwarz](../Page/Weiß_Schwarz.md "wikilink")（ヴァイスシュヴァルツ）。各角色卡牌颜色分配如下：
 
   - 黄色：莲、白莲、爱尔奎特、暴走爱尔奎特、公主爱尔奎特、远野志贵、七夜志贵

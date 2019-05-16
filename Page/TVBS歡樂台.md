@@ -3,9 +3,9 @@
 ## 歷史
 
   - 1994年9月12日開播，原名「**TVBS-G
-    黃金娛樂台**」為[TVBS四個家族頻道中](../Page/TVBS.md "wikilink")，第二個開播的頻道。
+    黃金娛樂台**」為[TVBS四個家族頻道中](https://zh.wikipedia.org/wiki/TVBS "wikilink")，第二個開播的頻道。
   - 2009年6月1日零時更名「**TVBS歡樂台**」，簡稱「**歡樂台**」。
-  - 專門播放[音樂](../Page/音樂.md "wikilink")、流行、戲劇、娛樂、體育等精選內容，尤以播放母公司[香港無綫電視（TVB）的](../Page/電視廣播有限公司.md "wikilink")[港劇著名](../Page/港劇.md "wikilink")（SD訊號為國語配音，HD訊號為國粵雙語）。除外購節目也製作不少青春偶像劇。
+  - 專門播放[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、流行、戲劇、娛樂、體育等精選內容，尤以播放母公司[香港無綫電視（TVB）的](../Page/電視廣播有限公司.md "wikilink")[港劇著名](https://zh.wikipedia.org/wiki/港劇 "wikilink")（SD訊號為國語配音，HD訊號為國粵雙語）。除外購節目也製作不少青春偶像劇。
   - 最早TVBS節目部，在「[八德大樓](../Page/TVBS企業總部.md "wikilink")」內。
   - 2000年遷入「[南港大樓](../Page/TVBS企業總部.md "wikilink")」一樓。
   - 2009年同TVBS部門集中「[內湖大樓](../Page/TVBS企業總部.md "wikilink")」，目前位於「[內湖大樓](../Page/TVBS企業總部.md "wikilink")」四樓。

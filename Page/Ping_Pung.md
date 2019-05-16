@@ -1,14 +1,14 @@
 **Ping
-Pung**，一支[香港樂隊](../Page/香港.md "wikilink")，於2004年成立，曾簽約[金牌娛樂](../Page/金牌娛樂.md "wikilink")，現已解散。Ping
+Pung**，一支[香港樂隊](../Page/香港.md "wikilink")，於2004年成立，曾簽約[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")，現已解散。Ping
 Pung成員包括[吳雨霏](../Page/吳雨霏.md "wikilink")（Kary
 Ng）、[李漢](../Page/李漢文.md "wikilink")（Jerry
 Lee）、[李嘉文](../Page/李嘉文.md "wikilink")（Jan Lee）及黃天豪（Tin
 Ho）。吳雨霏為Ping
-Pung的主音，李漢和同李嘉文主力[作曲](../Page/作曲.md "wikilink")、[編曲和](../Page/編曲.md "wikilink")[監製](../Page/監製.md "wikilink")，而黃天豪則為Ping
+Pung的主音，李漢和同李嘉文主力[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲和](https://zh.wikipedia.org/wiki/編曲 "wikilink")[監製](https://zh.wikipedia.org/wiki/監製 "wikilink")，而黃天豪則為Ping
 Pung摔碟。其中的李嘉文和李漢是親生兄弟，亦是作曲人[雷頌德同母異父的兄弟](../Page/雷頌德.md "wikilink")。Ping
 Pung的歌曲主要為自創樂曲，沒有特定的風格。Ping Pung有演出電影《戀愛初歌》
 
-2004年，[金牌娛樂有意把旗下的三位音樂人組樂隊進軍樂壇](../Page/金牌娛樂.md "wikilink")，而主唱則在旗下女子組合[Cookies的四位成員中挑選](../Page/Cookies_\(組合\).md "wikilink")，最終確定了四人當中唱功較穩定的[吳雨霏](../Page/吳雨霏.md "wikilink")。同年，Ping
+2004年，[金牌娛樂有意把旗下的三位音樂人組樂隊進軍樂壇](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")，而主唱則在旗下女子組合[Cookies的四位成員中挑選](../Page/Cookies_\(組合\).md "wikilink")，最終確定了四人當中唱功較穩定的[吳雨霏](../Page/吳雨霏.md "wikilink")。同年，Ping
 Pung正式成軍並推出首張大碟《Love &
 Hate》，憑大碟上榜歌曲《我話事》、《殺她死》及《愛是最大權利》於[2004年度叱咤樂壇流行榜頒獎典禮奪得](../Page/2004年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")「叱咤樂壇生力軍組合銀獎」。儘管成績不錯，但吳雨霏表示以後的工作均會以[Cookies為主](../Page/Cookies_\(組合\).md "wikilink")。
 
@@ -48,8 +48,8 @@ Pung的發展亦隨即暫停。
     Pung
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2004 ── 新城勁爆卡拉OK歌曲（Ping Pung
     - 愛是最大權利）
-  - [叱吒樂壇流行榜頒獎典禮](../Page/叱吒樂壇流行榜頒獎典禮.md "wikilink")2004 ──
-    叱咤樂壇生力軍組合銀獎：Ping Pung
+  - [叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")2004
+    ── 叱咤樂壇生力軍組合銀獎：Ping Pung
   - [第二十七屆十大中文金曲頒獎音樂會](../Page/第二十七屆十大中文金曲得獎名單.md "wikilink")2004 –
     最有前途新人獎（組合）銀獎 ：Ping Pung
 

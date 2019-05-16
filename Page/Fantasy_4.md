@@ -1,13 +1,13 @@
 **Fantasy
-4**，通稱**女F4**，是一個臺灣[女子團體](../Page/女子團體.md "wikilink")，其成員包括[劉樂妍](../Page/劉樂妍.md "wikilink")（Fanny）、[安真佑](../Page/安真佑.md "wikilink")（Amy）、[謝孟恬](../Page/謝孟恬.md "wikilink")（Tiffany）以及[周均諺](../Page/周均諺.md "wikilink")（Stacy）。主持的節目有[亞洲旅遊台](../Page/亞洲旅遊台.md "wikilink")《F4遊台灣》，電影《[幫幫我愛神](../Page/幫幫我愛神.md "wikilink")》。及後改組為**[超女F4](../Page/超女F4.md "wikilink")**，在新成員加入後一周解散。
+4**，通稱**女F4**，是一個臺灣[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，其成員包括[劉樂妍](https://zh.wikipedia.org/wiki/劉樂妍 "wikilink")（Fanny）、[安真佑](../Page/安真佑.md "wikilink")（Amy）、[謝孟恬](https://zh.wikipedia.org/wiki/謝孟恬 "wikilink")（Tiffany）以及[周均諺](https://zh.wikipedia.org/wiki/周均諺 "wikilink")（Stacy）。主持的節目有[亞洲旅遊台](https://zh.wikipedia.org/wiki/亞洲旅遊台 "wikilink")《F4遊台灣》，電影《[幫幫我愛神](https://zh.wikipedia.org/wiki/幫幫我愛神 "wikilink")》。及後改組為**[超女F4](https://zh.wikipedia.org/wiki/超女F4 "wikilink")**，在新成員加入後一周解散。
 
 ## 簡介
 
 ### 成立與解散
 
 Fantasy
-4與因為演出《[流星花園](../Page/流星花園_\(台灣電視劇\).md "wikilink")》一劇而成功的[男子團體](../Page/男子團體.md "wikilink")[F4沒有關係](../Page/F4_\(男子團體\).md "wikilink")。Fantasy
-4在成立前有傳聞指出有四位胸圍擁有F罩杯的女藝人將打著「女F4」的名號進軍演藝圈，而最後在2005年6月27日當天，團長[劉樂妍在經紀人的陪同下開始拍攝宣傳照](../Page/劉樂妍.md "wikilink")。\[1\]值得注意的是當時Fantasy
+4與因為演出《[流星花園](https://zh.wikipedia.org/wiki/流星花園_\(台灣電視劇\) "wikilink")》一劇而成功的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[F4沒有關係](https://zh.wikipedia.org/wiki/F4_\(男子團體\) "wikilink")。Fantasy
+4在成立前有傳聞指出有四位胸圍擁有F罩杯的女藝人將打著「女F4」的名號進軍演藝圈，而最後在2005年6月27日當天，團長[劉樂妍在經紀人的陪同下開始拍攝宣傳照](https://zh.wikipedia.org/wiki/劉樂妍 "wikilink")。\[1\]值得注意的是當時Fantasy
 4的成員只有劉樂妍、安真佑和謝孟恬三人，第四人尚未決定、結果Fantasy 4的最後一名成員由周均諺獲得，至此團體已變相解散。
 
 ### 超女F4成員
@@ -17,7 +17,7 @@ Fantasy
   -
     英文名：Stacy
     生日：1984年6月26日（歲）
-    學校：[國立台灣戲曲專科學校歌仔戲科](../Page/國立台灣戲曲專科學校.md "wikilink")
+    學校：[國立台灣戲曲專科學校歌仔戲科](https://zh.wikipedia.org/wiki/國立台灣戲曲專科學校 "wikilink")
     身高：163公分
     體重：48公斤
     三圍：32F.25.36
@@ -27,7 +27,7 @@ Fantasy
   -
     英文名：Elva
     生日：1986年2月4日（歲）
-    學校：[國立岡山高中](../Page/國立岡山高中.md "wikilink")
+    學校：[國立岡山高中](https://zh.wikipedia.org/wiki/國立岡山高中 "wikilink")
     身高：168公分
     體重：50 公斤
     三圍：34 C.24.38
@@ -37,7 +37,7 @@ Fantasy
   -
     英文名：CoCo
     生日：1982年6月19日（歲）
-    學校：[台灣藝術學院肄業](../Page/台灣藝術學院.md "wikilink")
+    學校：[台灣藝術學院肄業](https://zh.wikipedia.org/wiki/台灣藝術學院 "wikilink")
     身高：166公分
     體重：49公斤
     三圍：32B.24.35
@@ -47,7 +47,7 @@ Fantasy
   -
     英文名：Maggie Qu (李霓)
     生日：1982年9月26日（歲）
-    學校：[國立台灣藝術大學戲劇系畢業](../Page/國立台灣藝術大學.md "wikilink")
+    學校：[國立台灣藝術大學戲劇系畢業](https://zh.wikipedia.org/wiki/國立台灣藝術大學 "wikilink")
     身高：165公分
     體重：45公斤
     三圍：32C.23.33

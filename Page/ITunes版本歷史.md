@@ -17,7 +17,9 @@
 
 ### iTunes 2
 
-開始支援 [iPod](../Page/iPod.md "wikilink")。這個版本開始朝音樂管理、iPod 檔案同步形式邁進。
+開始支援
+[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")。這個版本開始朝音樂管理、iPod
+檔案同步形式邁進。
 
   - **2.0 — 2001年10月23日**
       - iPod 支援。
@@ -55,16 +57,18 @@
       - 匯入與匯出播放清單。
   - **3.0.1 — 2002年9月18日**
       - 效能改善。
-      - 對 [Mac OS X Jaguar](../Page/Mac_OS_X_Jaguar.md "wikilink")
+      - 對 [Mac OS X
+        Jaguar](https://zh.wikipedia.org/wiki/Mac_OS_X_Jaguar "wikilink")
         有更好的支援。
 
 ### iTunes 4
 
 支援 AAC、Windows。開始提供 [iTunes Music
-Store](../Page/iTunes_Music_Store.md "wikilink") 音樂下載服務(僅限美國)。此時開始強化
-iTunes 與 iPod 的連動，也開始能在 Windows 上連接 iPod。只限這個版本，Mac 版與 Windows
-版下載方式是不同的。不只音樂，也增加了與 iPod 同步圖片、影像等令人注目的功能。到 4.5
-時，iTunes Music Store 的資料庫已成長到 70 萬首歌曲。
+Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")
+音樂下載服務(僅限美國)。此時開始強化 iTunes 與 iPod 的連動，也開始能在 Windows 上連接
+iPod。只限這個版本，Mac 版與 Windows 版下載方式是不同的。不只音樂，也增加了與 iPod
+同步圖片、影像等令人注目的功能。到 4.5 時，iTunes Music Store
+的資料庫已成長到 70 萬首歌曲。
 
   - **4.0 — 2003年4月28日**
       - **Music Store 支援。**
@@ -113,18 +117,22 @@ iTunes 與 iPod 的連動，也開始能在 Windows 上連接 iPod。只限這�
       - 在 iTunes Music Store 能夠藉由名稱搜尋 iMixes。
       - 工作列的 iTunes 工具列，最小化到系統匣。（僅限 Windows）
   - **4.7.1－2005年1月11日**
-      - 對 [iPod Shuffle](../Page/iPod_Shuffle.md "wikilink") 的支援 與
-        "自動完成" 功能。
+      - 對 [iPod
+        Shuffle](https://zh.wikipedia.org/wiki/iPod_Shuffle "wikilink")
+        的支援 與 "自動完成" 功能。
       - 不許藉第三方應用程式播放與傳輸購買的 Music Store 去除
-        [DRM](../Page/數位著作權管理.md "wikilink") 保護的曲目。
+        [DRM](https://zh.wikipedia.org/wiki/數位著作權管理 "wikilink") 保護的曲目。
       - 僅允許 5 個經由網路連線至共享資料庫。
   - **4.8－2005年5月9日**
       - 視訊支援
-      - 支援新的國際 [iTunes Music Store](../Page/iTunes_Store.md "wikilink")
+      - 支援新的國際 [iTunes Music
+        Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")
       - 支援從電腦傳輸聯絡人和日曆至 iPod（僅限 Mac OS X v10.4 Tiger）
       - [安全性提高](http://docs.info.apple.com/article.html?artnum=301596)
   - **4.9－2005年6月28日**
-      - 對 [Podcasting](../Page/Podcasting.md "wikilink") 的支援
+      - 對
+        [Podcasting](https://zh.wikipedia.org/wiki/Podcasting "wikilink")
+        的支援
       - 對行動電話的支援（當時僅  與  能夠使用）
 
 ### iTunes 5
@@ -138,12 +146,13 @@ OS 提供相符的語系。
   - **5.0－2005年9月7日**
       - 精緻的外表（更簡潔）。
       - 新增家長控制功能。
-      - 支援 [iTunes Phone](../Page/iTunes_Phone.md "wikilink")。
+      - 支援 [iTunes
+        Phone](https://zh.wikipedia.org/wiki/iTunes_Phone "wikilink")。
       - 用資料夾將播放清單分組的能力。
       - 智慧隨機播放（Smart Shuffle）。
       - 具備了更強力的立即搜尋功能。It duplicates the
-        [Spotlight](../Page/Spotlight.md "wikilink") bar in Mac OS X
-        10.4 [Finder](../Page/Finder.md "wikilink")：
+        [Spotlight](https://zh.wikipedia.org/wiki/Spotlight "wikilink")
+        bar in Mac OS X 10.4 [Finder](../Page/Finder.md "wikilink")：
           - 搜尋所有的音樂、有聲書、Podcast 和視訊等。
           - 搜尋所有的演出者、專輯和歌曲。
       - 新增 AAC VBR 編碼。
@@ -232,11 +241,11 @@ CD 或 DVD 光碟上以保護資料庫的內容、使用 Windows 的 Apple Softw
       - 正式支援 [Windows Vista](../Page/Windows_Vista.md "wikilink")。
       - iTunes U introduced which offers free content from some of the
         top universities around the [United
-        States](../Page/United_States.md "wikilink")。
+        States](https://zh.wikipedia.org/wiki/United_States "wikilink")。
       - Added in customizable sort field for Name, Artist, Album, Album
         Artist, Show, and Composer. For example, if you wanted you could
         change the album "4" by Foreigner to be sorted under "[Foreigner
-        4](../Page/Foreigner_4.md "wikilink")".
+        4](https://zh.wikipedia.org/wiki/Foreigner_4 "wikilink")".
   - **7.3－2007年6月29日**
       - 正式支援 iPhone 及相關服務。\[1\]
 
@@ -304,7 +313,8 @@ CD 或 DVD 光碟上以保護資料庫的內容、使用 Windows 的 Apple Softw
 
   - **7.7.0.43 — 2008年7月10日**
       - 對應 7 月 11 日發售的新型 iPhone 3G。
-      - 對應 [App Store](../Page/App_Store.md "wikilink")。
+      - 對應 [App
+        Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")。
 
 <!-- end list -->
 
@@ -409,7 +419,8 @@ iPod nano (第四代)、iPod classic (120 GB)、iPod touch (第二代)。此版�
       - 支援了 Apple TV 軟體版本 3.0，
       - 加入了深色背景的“格狀顯示方式”選項，並改進了輔助使用功能。
       - iTunes Store 輔助使用功能需要 Window-Eyes 7.1.1 或以上版本。
-      - 正式支援 [Windows 7](../Page/Windows_7.md "wikilink")
+      - 正式支援 [Windows
+        7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
 
 <!-- end list -->
 
@@ -614,7 +625,8 @@ iPod nano (第四代)、iPod classic (120 GB)、iPod touch (第二代)。此版�
   - **10.7.5 — 2012年9月12日**
       - 支援在相容 iPhone、iPad 和 iPod touch 機型上執行的 iOS 6。此更新項目也支援最新機型的 iPod
         nano 和 iPod shuffle。
-      - 支援同日發表的 [iPhone 5](../Page/iPhone_5.md "wikilink")、第7代 iPod
+      - 支援同日發表的 [iPhone
+        5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、第7代 iPod
         nano、第5代 iPod touch。
       - 不再對應 PowerPC。
 

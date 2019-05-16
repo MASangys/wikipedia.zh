@@ -1,23 +1,23 @@
 [PD-20060911-BASIC-Stamp-2.svg](https://zh.wikipedia.org/wiki/File:PD-20060911-BASIC-Stamp-2.svg "fig:PD-20060911-BASIC-Stamp-2.svg")
 
 **BASIC Stamp**（有時也稱**BASIC Stamp
-Module**）\[1\]是由[美國](../Page/美國.md "wikilink")[Parallax公司自](../Page/Parallax公司.md "wikilink")1992年起所提創的一種[微控制器](../Page/微控制器.md "wikilink")，此種微控制器與其他微控制器不同的地方在於：微控制器（BASIC
-Stamp）中的[ROM記憶體內建了一套小型](../Page/ROM.md "wikilink")、特有的[BASIC](../Page/BASIC.md "wikilink")（培基）程式語言[直譯器](../Page/直譯器.md "wikilink")，稱為：[PBASIC](../Page/PBASIC.md "wikilink")。有了PBASIC後，想開發、撰寫微控器應用的設計者，只要學會、具備BASIC程式語言的撰寫能力，就能夠用其開發出嵌入式系統所用的控制應用程式，大幅降低了嵌入式設計的技能學習門檻，也因此BASIC
+Module**）\[1\]是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Parallax公司自](https://zh.wikipedia.org/wiki/Parallax公司 "wikilink")1992年起所提創的一種[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")，此種微控制器與其他微控制器不同的地方在於：微控制器（BASIC
+Stamp）中的[ROM記憶體內建了一套小型](https://zh.wikipedia.org/wiki/ROM "wikilink")、特有的[BASIC](../Page/BASIC.md "wikilink")（培基）程式語言[直譯器](../Page/直譯器.md "wikilink")，稱為：[PBASIC](https://zh.wikipedia.org/wiki/PBASIC "wikilink")。有了PBASIC後，想開發、撰寫微控器應用的設計者，只要學會、具備BASIC程式語言的撰寫能力，就能夠用其開發出嵌入式系統所用的控制應用程式，大幅降低了嵌入式設計的技能學習門檻，也因此BASIC
 Stamp在電子電機的嗜好玩家群中相當普遍與受歡迎。
 
 ## 概述
 
 就外觀來看，BASIC
-Stamp如同一個以[DIP型態封裝的](../Page/雙列直插封裝.md "wikilink")[積體電路](../Page/集成电路.md "wikilink")\[2\]，不過實際上它卻是用一片小型的[印刷電路板](../Page/印刷電路板.md "wikilink")\[3\]，並在電路板上建立一個嬌小的控制系統，這個系統內包括了以下的組件：
+Stamp如同一個以[DIP型態封裝的](../Page/雙列直插封裝.md "wikilink")[積體電路](../Page/集成电路.md "wikilink")\[2\]，不過實際上它卻是用一片小型的[印刷電路板](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")\[3\]，並在電路板上建立一個嬌小的控制系統，這個系統內包括了以下的組件：
 
-  - 一顆[微控制器晶片](../Page/微控制器.md "wikilink")（在小型電路板中的角色為[中央处理器](../Page/中央处理器.md "wikilink")）
-  - 一顆串列式傳輸介面的[EEPROM晶片](../Page/EEPROM.md "wikilink")（在小型電路板中的角色為[記憶體](../Page/記憶體.md "wikilink")）
+  - 一顆[微控制器晶片](https://zh.wikipedia.org/wiki/微控制器 "wikilink")（在小型電路板中的角色為[中央处理器](../Page/中央处理器.md "wikilink")）
+  - 一顆串列式傳輸介面的[EEPROM晶片](https://zh.wikipedia.org/wiki/EEPROM "wikilink")（在小型電路板中的角色為[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")）
   - 一顆時脈產生晶片
   - 一個電源供應晶片
   - 外部輸入與輸出
 
 在BASIC
-Stamp的程式語言內已備齊了一般微控制器的功效函式，包括：[脈寬調變](../Page/脈寬調變.md "wikilink")（PWM）輸出、[I2C的串列通訊](../Page/I2C.md "wikilink")、[LCD驅動等](../Page/LCD.md "wikilink")，此外也能產生馬達伺服控制之用的脈波、假充（pseudo）的正弦波頻率、以及用[RC電路來偵測一個模拟數值](../Page/RC電路.md "wikilink")\[4\]等。最後，電子電機的嗜好玩家只要再接上一顆9V電壓準位輸出的電池，BASI
+Stamp的程式語言內已備齊了一般微控制器的功效函式，包括：[脈寬調變](https://zh.wikipedia.org/wiki/脈寬調變 "wikilink")（PWM）輸出、[I2C的串列通訊](https://zh.wikipedia.org/wiki/I2C "wikilink")、[LCD驅動等](https://zh.wikipedia.org/wiki/LCD "wikilink")，此外也能產生馬達伺服控制之用的脈波、假充（pseudo）的正弦波頻率、以及用[RC電路來偵測一個模拟數值](../Page/RC電路.md "wikilink")\[4\]等。最後，電子電機的嗜好玩家只要再接上一顆9V電壓準位輸出的電池，BASI
 Stamp就正式成為一個完整可用的系統。
 
 接著，BASIC Stamp也能與[PC連線](../Page/个人电脑.md "wikilink")，從PC端將軟體程式上載傳輸到BASIC
@@ -37,7 +37,7 @@ Stamp內，並且存放到電路板上的EEPROM中，如此即便系統斷電後
   - BS2px
 
 此外，許多公司運用虛擬性相容（virtual clone）的手法為BASIC
-Stamp加添更多的功效機制與特性功能，例如更快速的控制執行、硬體式的[類比數位轉換](../Page/類比數位轉換.md "wikilink")（ADC）、硬體式的[脈寬調變輸出](../Page/脈寬調變.md "wikilink")（PWM），使ADC、PWM工作可以在背景運作，不用耗費軟體運算執行的資源心力。更重要的是，這些功能增添仍能與BASIC
+Stamp加添更多的功效機制與特性功能，例如更快速的控制執行、硬體式的[類比數位轉換](https://zh.wikipedia.org/wiki/類比數位轉換 "wikilink")（ADC）、硬體式的[脈寬調變輸出](https://zh.wikipedia.org/wiki/脈寬調變 "wikilink")（PWM），使ADC、PWM工作可以在背景運作，不用耗費軟體運算執行的資源心力。更重要的是，這些功能增添仍能與BASIC
 Stamp在引脚配置上維持相容，這表示原有已運用BASIC Stamp來進行控制的應用不需要變更設計，也能夠享用新添功能的特性益處。
 \[6\]\[7\]\[8\]
 
@@ -47,7 +47,7 @@ Stamp在引脚配置上維持相容，這表示原有已運用BASIC Stamp來進�
 
 ## 關連條目
 
-  - [Boe-Bot](../Page/Boe-Bot.md "wikilink")
+  - [Boe-Bot](https://zh.wikipedia.org/wiki/Boe-Bot "wikilink")
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@ Stamp在引脚配置上維持相容，這表示原有已運用BASIC Stamp來進�
 
 <!-- end list -->
 
-  - [PICAXE](../Page/PICAXE.md "wikilink")
+  - [PICAXE](https://zh.wikipedia.org/wiki/PICAXE "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,8 @@ Stamp在引脚配置上維持相容，這表示原有已運用BASIC Stamp來進�
 
 <!-- end list -->
 
-  - [Javelin Stamp](../Page/Javelin_Stamp.md "wikilink")
+  - [Javelin
+    Stamp](https://zh.wikipedia.org/wiki/Javelin_Stamp "wikilink")
 
 <!-- end list -->
 
@@ -146,9 +147,9 @@ Stamp在引脚配置上維持相容，這表示原有已運用BASIC Stamp來進�
 4.  **註：**言下之意是運用軟體的演算法來進行類比數位的偵測、轉換程序，相對於此的是硬體式[類比數位轉換器晶片](../Page/類比數位轉換器.md "wikilink")（ADC）。
 5.  **註：**BS即是BASIC Stamp的縮寫含意。
 6.  **參：**主體描述參考自英文維基百科的BASIC Stamp條目。
-7.  **參：**[概述段落若干參考](../Page/#概述.md "wikilink")[關於BASIC
+7.  **參：**[概述段落若干參考](https://zh.wikipedia.org/wiki/#概述 "wikilink")[關於BASIC
     Stamp](http://www.parallax.com/html_pages/products/basicstamps/basic_stamps_about.asp)
      並進行再次確認比對。
-8.  **參：**[版本段落若干參考](../Page/#版本.md "wikilink")[BASIC
+8.  **參：**[版本段落若干參考](https://zh.wikipedia.org/wiki/#版本 "wikilink")[BASIC
     Stamp模組](http://www.parallax.com/html_pages/products/basicstamps/basic_stamps.asp)
      並進行再次確認比對。

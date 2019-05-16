@@ -1,8 +1,9 @@
 [2011-04-07-birdy-by-RalfR-01.jpg](https://zh.wikipedia.org/wiki/File:2011-04-07-birdy-by-RalfR-01.jpg "fig:2011-04-07-birdy-by-RalfR-01.jpg")
 [13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg](https://zh.wikipedia.org/wiki/File:13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg "fig:13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg")
 [BIRDY.jpg](https://zh.wikipedia.org/wiki/File:BIRDY.jpg "fig:BIRDY.jpg")
-**Birdy**，昵称为[鸟车](../Page/鸟车.md "wikilink")，由[Riese und
-Müller所设计的](../Page/Riese_und_Müller.md "wikilink")[折叠车](../Page/折叠车.md "wikilink")。
+**Birdy**，昵称为[鸟车](https://zh.wikipedia.org/wiki/鸟车 "wikilink")，由[Riese
+und
+Müller所设计的](https://zh.wikipedia.org/wiki/Riese_und_Müller "wikilink")[折叠车](https://zh.wikipedia.org/wiki/折叠车 "wikilink")。
 
 ## 源起
 
@@ -18,9 +19,9 @@ Müller，『 If you want to be successful, come to Taiwan. 』
 
 ### 特色
 
-Birdy使用了标准的后叉端间距，所以Birdy可以使用许多轮组。标准配置包括8速花鼓齿轮，8速后拨变速器、24速的[Shimano](../Page/Shimano.md "wikilink")
+Birdy使用了标准的后叉端间距，所以Birdy可以使用许多轮组。标准配置包括8速花鼓齿轮，8速后拨变速器、24速的[Shimano](https://zh.wikipedia.org/wiki/Shimano "wikilink")
 Intego，以及14速的[Rohloff
-Speedhub花鼓齿轮](../Page/Rohloff_Speedhub.md "wikilink")。可选附件包括挡泥板、山地车轮胎、不同的货架、包以及灯具。
+Speedhub花鼓齿轮](https://zh.wikipedia.org/wiki/Rohloff_Speedhub "wikilink")。可选附件包括挡泥板、山地车轮胎、不同的货架、包以及灯具。
 
 Birdy一般用15－30秒钟就可以折叠完毕\[1\]，体积大约是79x61x36cm，虽然不算很小，但携带上车或者上船，一般都没有问题。重量为10－13kg。
 

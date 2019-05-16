@@ -1,4 +1,4 @@
-《**特務戇J**》（）是一部於2003年上映的[英國](../Page/英國.md "wikilink")[喜劇電影](../Page/喜劇電影.md "wikilink")，由執導，也是《[戇豆先生](../Page/戇豆先生.md "wikilink")》[罗温·阿特金森主演的作品之一](../Page/路雲·雅堅遜.md "wikilink")。《特務戇J》与[罗温·阿特金森主演的](../Page/路雲·雅堅遜.md "wikilink")《憨豆先生》系列并没有任何联系，惟二者的主人公之扮演者为同一人且性格十分相似而得名。
+《**特務戇J**》（）是一部於2003年上映的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[喜劇電影](../Page/喜劇電影.md "wikilink")，由執導，也是《[戇豆先生](../Page/戇豆先生.md "wikilink")》[罗温·阿特金森主演的作品之一](../Page/路雲·雅堅遜.md "wikilink")。《特務戇J》与[罗温·阿特金森主演的](../Page/路雲·雅堅遜.md "wikilink")《憨豆先生》系列并没有任何联系，惟二者的主人公之扮演者为同一人且性格十分相似而得名。
 
 ## 剧情
 
@@ -8,7 +8,7 @@
 
 「戇J」與一名女特務（[娜塔莉·安博莉亚飾](../Page/娜塔莉·安博莉亚.md "wikilink")）潛入蘇華的基地，但被他們發現，並投進監獄之中，幸得另一特務波夫的協助，他們得以逃走。
 
-在蘇華的登基儀式上，「戇J」聯同女特務一同阻止其加冕，皇冠突然落在「戇J」頭上，「戇J」瞬即得到權力，在「英皇戇J」的命令下，蘇華被捕，並以[叛國罪起訴](../Page/叛國罪.md "wikilink")。最後英女王復位，並冊封「戇J」為[爵士](../Page/爵士.md "wikilink")。
+在蘇華的登基儀式上，「戇J」聯同女特務一同阻止其加冕，皇冠突然落在「戇J」頭上，「戇J」瞬即得到權力，在「英皇戇J」的命令下，蘇華被捕，並以[叛國罪起訴](https://zh.wikipedia.org/wiki/叛國罪 "wikilink")。最後英女王復位，並冊封「戇J」為[爵士](../Page/爵士.md "wikilink")。
 
 ## 角色
 
@@ -19,11 +19,11 @@
 
 ## 評價
 
-[爛番茄新鮮度](../Page/爛番茄.md "wikilink")33%，基於118條評論，平均分為4.8/10\[1\]，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")51分\[2\]，[IMDB上得](../Page/IMDB.md "wikilink")6.1分，差評居多。
+[爛番茄新鮮度](../Page/爛番茄.md "wikilink")33%，基於118條評論，平均分為4.8/10\[1\]，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")51分\[2\]，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")6.1分，差評居多。
 
 ## 續集
 
-續集改由[奧利弗·帕克執導](../Page/奧利弗·帕克.md "wikilink")，並於2011年9月15日上映。
+續集改由[奧利弗·帕克執導](https://zh.wikipedia.org/wiki/奧利弗·帕克 "wikilink")，並於2011年9月15日上映。
 
 ## 参考资料
 

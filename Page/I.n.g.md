@@ -1,4 +1,4 @@
-**i.n.g**是[台灣的新晉三人少女歌手組合](../Page/台灣.md "wikilink")，在2006年4月成立，隸屬於[台灣](../Page/台灣.md "wikilink")[艾迴音樂公司與](../Page/艾迴音樂.md "wikilink")[哇哈哈製作有限公司經紀部](../Page/哇哈哈製作有限公司.md "wikilink")。她們初出道就已立即得到[台灣職棒四大球隊之一的](../Page/台灣職棒.md "wikilink")[兄弟象隊採用她們的主打歌](../Page/兄弟象.md "wikilink")「健健美」成為球隊的2006年度的加油主題曲。\[1\]
+**i.n.g**是[台灣的新晉三人少女歌手組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在2006年4月成立，隸屬於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[艾迴音樂公司與](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")[哇哈哈製作有限公司經紀部](https://zh.wikipedia.org/wiki/哇哈哈製作有限公司 "wikilink")。她們初出道就已立即得到[台灣職棒四大球隊之一的](https://zh.wikipedia.org/wiki/台灣職棒 "wikilink")[兄弟象隊採用她們的主打歌](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")「健健美」成為球隊的2006年度的加油主題曲。\[1\]
 
 ## 名稱的意思
 

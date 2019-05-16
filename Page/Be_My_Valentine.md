@@ -1,5 +1,5 @@
 《**Be My
-Valentine**》是[歌手](../Page/歌手.md "wikilink")[古巨基的流行](../Page/古巨基.md "wikilink")[音樂專輯](../Page/音樂.md "wikilink")，於1998年12月29日正式發行。
+Valentine**》是[歌手](../Page/歌手.md "wikilink")[古巨基的流行](../Page/古巨基.md "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於1998年12月29日正式發行。
 
 ## 派台歌曲成績
 

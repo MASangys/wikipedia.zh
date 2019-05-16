@@ -1,15 +1,15 @@
 『**MUSASHI -GUN道-**』是[Monkey
-Punch原作時代劇槍械動作](../Page/Monkey_Punch.md "wikilink")[動畫作品](../Page/日本動畫.md "wikilink")。於2006年4月9日起[BS-i逢星期日上午](../Page/BS-i.md "wikilink")9:30～10:00放映，一共26集。此外，從2006年5月13日起，在[GyaO免費收看](../Page/GyaO.md "wikilink")。
+Punch原作時代劇槍械動作](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2006年4月9日起[BS-i逢星期日上午](https://zh.wikipedia.org/wiki/BS-i "wikilink")9:30～10:00放映，一共26集。此外，從2006年5月13日起，在[GyaO免費收看](https://zh.wikipedia.org/wiki/GyaO "wikilink")。
 
-標題的讀法為「GUN道MUSASHI」，但是在不同的媒介有不同的標題。於[BS-i以](../Page/BS-i.md "wikilink")『MUSASHI』（ムサシ）、イーネットフロンティア為『GUN道
+標題的讀法為「GUN道MUSASHI」，但是在不同的媒介有不同的標題。於[BS-i以](https://zh.wikipedia.org/wiki/BS-i "wikilink")『MUSASHI』（ムサシ）、イーネットフロンティア為『GUN道
 MUSASHI』（ガンどう ムサシ）、其他名稱為『GUNDOH ムサシ』（ガンドー
-ムサシ），有這樣的記述，表題在[GyaO以](../Page/GyaO.md "wikilink")『**MUSASHI
+ムサシ），有這樣的記述，表題在[GyaO以](https://zh.wikipedia.org/wiki/GyaO "wikilink")『**MUSASHI
 -GUN道-**』，同時是一般對此作品的稱呼。
 
 ## 概要
 
-這作品是『[魯邦三世](../Page/魯邦三世.md "wikilink")』的原作者[Monkey
-Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikilink")。由於低素質的動畫制作引起了廣泛的話題作品。\[1\]本作的話題性及人氣，2006年5月中旬在[GyaO綜合節目排名為第一位](../Page/GyaO.md "wikilink")、而無修改版本的DVD在日本的排名位於前列。
+這作品是『[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")』的原作者[Monkey
+Punch花了十二年的時間所構成的成品](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")。由於低素質的動畫制作引起了廣泛的話題作品。\[1\]本作的話題性及人氣，2006年5月中旬在[GyaO綜合節目排名為第一位](https://zh.wikipedia.org/wiki/GyaO "wikilink")、而無修改版本的DVD在日本的排名位於前列。
 
 ## 故事
 
@@ -17,7 +17,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 ## 登場人物
 
-  - 表記是「登場人物名：[声優](../Page/声優.md "wikilink")」。
+  - 表記是「登場人物名：[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")」。
 
 ### 武藏一方
 
@@ -28,20 +28,20 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - 浪人（）：[堀川仁](../Page/堀川仁.md "wikilink")
+  - 浪人（）：[堀川仁](https://zh.wikipedia.org/wiki/堀川仁 "wikilink")
 
 <!-- end list -->
 
-  - 忍者太郎（）：[小林优](../Page/小林优.md "wikilink")
+  - 忍者太郎（）：[小林优](https://zh.wikipedia.org/wiki/小林优 "wikilink")
 
 <!-- end list -->
 
-  - デスペラード：[柳沢真由美](../Page/柳沢真由美.md "wikilink")
+  - デスペラード：[柳沢真由美](https://zh.wikipedia.org/wiki/柳沢真由美 "wikilink")
 
 <!-- end list -->
 
-  - 辉夜(カグヤ)：[河原木志穂](../Page/河原木志穂.md "wikilink")
-    [豐臣秀吉養女於大阪城居住的姫](../Page/豐臣秀吉.md "wikilink")。
+  - 辉夜(カグヤ)：[河原木志穂](https://zh.wikipedia.org/wiki/河原木志穂 "wikilink")
+    [豐臣秀吉養女於大阪城居住的姫](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")。
 
 <!-- end list -->
 
@@ -49,11 +49,11 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - タクアン和尚：[田中総一郎](../Page/田中総一郎.md "wikilink")
+  - タクアン和尚：[田中総一郎](https://zh.wikipedia.org/wiki/田中総一郎 "wikilink")
 
 <!-- end list -->
 
-  - 茶毘之字 ：[廣田行生](../Page/廣田行生.md "wikilink")
+  - 茶毘之字 ：[廣田行生](https://zh.wikipedia.org/wiki/廣田行生 "wikilink")
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - 夢姫（ゆめひめ）：[中村千繪](../Page/中村千繪.md "wikilink")
+  - 夢姫（ゆめひめ）：[中村千繪](https://zh.wikipedia.org/wiki/中村千繪 "wikilink")
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - リョウゲン：[斎藤志郎](../Page/斎藤志郎.md "wikilink")
+  - リョウゲン：[斎藤志郎](https://zh.wikipedia.org/wiki/斎藤志郎 "wikilink")
     正體為[德川家康](../Page/德川家康.md "wikilink")。
 
 <!-- end list -->
@@ -92,20 +92,20 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - アヤカシ[カラス](../Page/カラス属.md "wikilink")：[桐井大介](../Page/桐井大介.md "wikilink")
+  - アヤカシ[カラス](https://zh.wikipedia.org/wiki/カラス属 "wikilink")：[桐井大介](../Page/桐井大介.md "wikilink")
 
 <!-- end list -->
 
-  - アヤカシ[フクロウ](../Page/フクロウ.md "wikilink")
+  - アヤカシ[フクロウ](https://zh.wikipedia.org/wiki/フクロウ "wikilink")
 
 <!-- end list -->
 
   - アヤカシ[武田信玄](../Page/武田信玄.md "wikilink")（たけだ
-    しんげん）：[西凛太朗](../Page/西凛太朗.md "wikilink")
+    しんげん）：[西凛太朗](https://zh.wikipedia.org/wiki/西凛太朗 "wikilink")
 
 <!-- end list -->
 
-  - 気の塊：[赤城進](../Page/赤城進.md "wikilink")
+  - 気の塊：[赤城進](https://zh.wikipedia.org/wiki/赤城進 "wikilink")
 
 <!-- end list -->
 
@@ -131,32 +131,32 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - [小早川秀秋](../Page/小早川秀秋.md "wikilink")：[武藤正史](../Page/武藤正史.md "wikilink")
+  - [小早川秀秋](../Page/小早川秀秋.md "wikilink")：[武藤正史](https://zh.wikipedia.org/wiki/武藤正史 "wikilink")
 
 <!-- end list -->
 
-  - [真田幸村](../Page/真田幸村.md "wikilink")（さなだ
-    ゆきむら）：[木下紗華](../Page/木下紗華.md "wikilink")
+  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")（さなだ
+    ゆきむら）：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")
 
 <!-- end list -->
 
-  - [三好清海入道](../Page/三好清海入道.md "wikilink")（みよし
-    せいかいにゅうどう）：[飯島肇](../Page/飯島肇.md "wikilink")
+  - [三好清海入道](https://zh.wikipedia.org/wiki/三好清海入道 "wikilink")（みよし
+    せいかいにゅうどう）：[飯島肇](https://zh.wikipedia.org/wiki/飯島肇 "wikilink")
 
 <!-- end list -->
 
-  - [霧隱才藏](../Page/霧隱才藏.md "wikilink")：[増田裕生](../Page/増田裕生.md "wikilink")
-    真田十勇士其一，身型瘦削。使用[手裡劍](../Page/手裡劍.md "wikilink")。
+  - [霧隱才藏](https://zh.wikipedia.org/wiki/霧隱才藏 "wikilink")：[増田裕生](https://zh.wikipedia.org/wiki/増田裕生 "wikilink")
+    真田十勇士其一，身型瘦削。使用[手裡劍](https://zh.wikipedia.org/wiki/手裡劍 "wikilink")。
 
 <!-- end list -->
 
-  - [根津甚八](../Page/根津甚八.md "wikilink")（ねづ じんぱち）：赤城進
+  - [根津甚八](https://zh.wikipedia.org/wiki/根津甚八 "wikilink")（ねづ じんぱち）：赤城進
     真田十勇士其一。
 
 <!-- end list -->
 
   - [豐臣秀賴](../Page/豐臣秀賴.md "wikilink")（とよとみ
-    ひでより）：[笹島かほる](../Page/笹島かほる.md "wikilink")
+    ひでより）：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")
     豊臣秀吉兒子。
 
 <!-- end list -->
@@ -166,7 +166,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - [德川秀忠](../Page/德川秀忠.md "wikilink")（とくがわ　ひでただ）：[木下尚紀](../Page/木下尚紀.md "wikilink")
+  - [德川秀忠](../Page/德川秀忠.md "wikilink")（とくがわ　ひでただ）：[木下尚紀](https://zh.wikipedia.org/wiki/木下尚紀 "wikilink")
     德川家康的三男。
 
 <!-- end list -->
@@ -175,7 +175,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - [ラセツ](../Page/羅刹天.md "wikilink")
+  - [ラセツ](https://zh.wikipedia.org/wiki/羅刹天 "wikilink")
 
 <!-- end list -->
 
@@ -186,14 +186,14 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 <!-- end list -->
 
-  - [豐臣秀吉](../Page/豐臣秀吉.md "wikilink")（とよとみひでよし）
+  - [豐臣秀吉](https://zh.wikipedia.org/wiki/豐臣秀吉 "wikilink")（とよとみひでよし）
 
 ## MUSASHI世界裡的「歷史」
 
   - 1500年初期　[列奥纳多·达·芬奇死亡](../Page/列奥纳多·达·芬奇.md "wikilink")
   - 1573年　[武田信玄死亡](../Page/武田信玄.md "wikilink")
-  - 1582年　[明智光秀發起](../Page/明智光秀.md "wikilink")[本能寺之變](../Page/本能寺之變.md "wikilink")。光秀和[織田信長死亡](../Page/織田信長.md "wikilink")。
-  - 1597年－[慶長之役豊臣軍取得勝利](../Page/慶長之役.md "wikilink")。反對出兵的德川家康失去了權力。
+  - 1582年　[明智光秀發起](../Page/明智光秀.md "wikilink")[本能寺之變](https://zh.wikipedia.org/wiki/本能寺之變 "wikilink")。光秀和[織田信長死亡](../Page/織田信長.md "wikilink")。
+  - 1597年－[慶長之役豊臣軍取得勝利](https://zh.wikipedia.org/wiki/慶長之役 "wikilink")。反對出兵的德川家康失去了權力。
   - 1600年7月 石田三成出兵。アヤカシ自千年的沉睡中覺醒。
   - 1600年9月 關原之戰爆發。在小早川秀秋活躍下，西軍取得勝利。
   - 豐臣秀賴就任征夷大將軍。
@@ -204,19 +204,21 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 ## 製作團隊
 
-  - 原作 - [Monkey Punch](../Page/Monkey_Punch.md "wikilink")
-  - 監督 - [木下勇喜](../Page/木下勇喜.md "wikilink")
-  - 人物設計 - [須田正巳](../Page/須田正己.md "wikilink")
-  - 主要腳本統籌 - [酒井直行](../Page/酒井直行.md "wikilink")
+  - 原作 - [Monkey
+    Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")
+  - 監督 - [木下勇喜](https://zh.wikipedia.org/wiki/木下勇喜 "wikilink")
+  - 人物設計 - [須田正巳](https://zh.wikipedia.org/wiki/須田正己 "wikilink")
+  - 主要腳本統籌 - [酒井直行](https://zh.wikipedia.org/wiki/酒井直行 "wikilink")
   - 美術監督 - 中原英統
-  - 音響監督 - [高桑一](../Page/高桑一.md "wikilink")
+  - 音響監督 - [高桑一](https://zh.wikipedia.org/wiki/高桑一 "wikilink")
   - 音響製作 - 平田哲、明瀬礼洋（[Dax
-    Production](../Page/Dax_International.md "wikilink")）
+    Production](https://zh.wikipedia.org/wiki/Dax_International "wikilink")）
   - 音樂監督 - 石黒典生
-  - 劇中音楽 - 小池敦、[杉本善德](../Page/杉本善德.md "wikilink")
+  - 劇中音楽 - 小池敦、[杉本善德](https://zh.wikipedia.org/wiki/杉本善德 "wikilink")
   - 編輯 - 西山茂（リアル・ティ）
   - 製作統括製作人 - 菅谷信行
-  - 動畫製作 - [ACC Production製作工作室](../Page/ACC_Production.md "wikilink")
+  - 動畫製作 - [ACC
+    Production製作工作室](https://zh.wikipedia.org/wiki/ACC_Production "wikilink")
   - [製作](../Page/製作.md "wikilink") - 「MUSASHI」製作委員会（ACC Production、E-NET
     Frontier）
 
@@ -226,33 +228,35 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 
 :; 「GHOST BUSTERZ」（1 - 14話）
 
-:: 歌 - [ULTRA BRAiN](../Page/ULTRA_BRAiN.md "wikilink")
+:: 歌 - [ULTRA
+BRAiN](https://zh.wikipedia.org/wiki/ULTRA_BRAiN "wikilink")
 
 :; 「Glitter」（15話 - ）
 
   -
 
       -
-        歌 - [Phantasmagoria](../Page/Phantasmagoria.md "wikilink")
+        歌 -
+        [Phantasmagoria](https://zh.wikipedia.org/wiki/Phantasmagoria "wikilink")
 
   - 片尾曲
 
 :; 「STYLE」（1 - 14話）
 
-:: 歌 - [Kimeru](../Page/Kimeru.md "wikilink")
+:: 歌 - [Kimeru](https://zh.wikipedia.org/wiki/Kimeru "wikilink")
 
 :; 「艶色の光」（15話 - ）
 
   -
 
       -
-        歌 - 青山愛（[野本愛](../Page/野本愛.md "wikilink")）
+        歌 - 青山愛（[野本愛](https://zh.wikipedia.org/wiki/野本愛 "wikilink")）
 
 ## 各話列表
 
 ### 各話標題
 
-各方面的預告和播放時的標題和簡介有時會不一致。各種媒體是指以[BS-i開始的作品介紹和](../Page/BS-i.md "wikilink")[動畫雜誌的發表](../Page/動畫雜誌.md "wikilink")。
+各方面的預告和播放時的標題和簡介有時會不一致。各種媒體是指以[BS-i開始的作品介紹和](https://zh.wikipedia.org/wiki/BS-i "wikilink")[動畫雜誌的發表](../Page/動畫雜誌.md "wikilink")。
 
 <table>
 <thead>
@@ -465,14 +469,14 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 <td><p>1</p></td>
 <td></td>
 <td><p>酒井直行</p></td>
-<td><p><a href="../Page/木下勇喜.md" title="wikilink">木下勇喜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木下勇喜" title="wikilink">木下勇喜</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td><p><a href="../Page/福冨博.md" title="wikilink">福富博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福冨博" title="wikilink">福富博</a></p></td>
 <td><p>国立宏</p></td>
 <td><p>木下勇喜<br />
 倲偉文</p></td>
@@ -490,7 +494,7 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
-<td><p><a href="../Page/勝間田具治.md" title="wikilink">勝間田具治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勝間田具治" title="wikilink">勝間田具治</a></p></td>
 <td><p>陳龍</p></td>
 <td></td>
 <td></td>
@@ -697,10 +701,11 @@ Punch花了十二年的時間所構成的成品](../Page/Monkey_Punch.md "wikili
 ## 相關條目
 
   - [作畫崩壞](../Page/作畫崩壞.md "wikilink")
-  - [GUNDRESS](../Page/GUNDRESS.md "wikilink")（MUSASHI的製作公司、ACC製作攝影與參與的作品）
+  - [GUNDRESS](https://zh.wikipedia.org/wiki/GUNDRESS "wikilink")（MUSASHI的製作公司、ACC製作攝影與參與的作品）
   - [Answer
-    Studio](../Page/Answer_Studio.md "wikilink")（第24話的作畫擔當、本回作畫崩壞發生次數很少）
-  - [RGB Adventure](../Page/RGB_Adventure.md "wikilink")
+    Studio](https://zh.wikipedia.org/wiki/Answer_Studio "wikilink")（第24話的作畫擔當、本回作畫崩壞發生次數很少）
+  - [RGB
+    Adventure](https://zh.wikipedia.org/wiki/RGB_Adventure "wikilink")
 
 ## 外部連結
 

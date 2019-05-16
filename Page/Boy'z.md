@@ -1,28 +1,28 @@
-**Boy'z**是[英皇娛樂旗下的](../Page/英皇娛樂.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")，成員為[張致恆及](../Page/張致恆.md "wikilink")[關智斌](../Page/關智斌.md "wikilink")。2005年關智斌退出組合後先後增添新成員[麥子豪及](../Page/麥子豪.md "wikilink")[陳偉霆](../Page/陳偉霆.md "wikilink")，2006年時改名為**Sun
+**Boy'z**是[英皇娛樂旗下的](../Page/英皇娛樂.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員為[張致恆及](../Page/張致恆.md "wikilink")[關智斌](../Page/關智斌.md "wikilink")。2005年關智斌退出組合後先後增添新成員[麥子豪及](../Page/麥子豪.md "wikilink")[陳偉霆](../Page/陳偉霆.md "wikilink")，2006年時改名為**Sun
 Boy'z**，至2008年陳偉霆及麥子豪退出組合。2010年，張致恆及關智斌重組為**Boy'z**，組合名稱於2018年改為**BOYZ**。2018年10月，BOYZ舉行出道16年來首個正式演唱會。\[1\]
 
 ## 歷史
 
-2003年，Boy'z打著「男版[Twins](../Page/Twins.md "wikilink")」的旗號進軍[娛樂圈](../Page/娛樂圈.md "wikilink")，當時成員為[關智斌](../Page/關智斌.md "wikilink")（Kenny）及[張致恒](../Page/張致恒.md "wikilink")（Steven）。首張唱片為《[LALA世界](../Page/LALA世界.md "wikilink")》，出道同名作品《Lala世界》推出即大受歡迎，而同年作品《死性不改》更是街知巷聞，後來英皇娛樂更推出與Twins的合唱版。《死性不改》至今仍為香港K場大熱。Boy'z在2003年度[叱吒樂壇流行榜頒獎禮獲得叱吒樂壇新力軍組合金獎](../Page/叱吒樂壇流行榜頒獎禮.md "wikilink")。
+2003年，Boy'z打著「男版[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")」的旗號進軍[娛樂圈](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")，當時成員為[關智斌](../Page/關智斌.md "wikilink")（Kenny）及[張致恒](https://zh.wikipedia.org/wiki/張致恒 "wikilink")（Steven）。首張唱片為《[LALA世界](https://zh.wikipedia.org/wiki/LALA世界 "wikilink")》，出道同名作品《Lala世界》推出即大受歡迎，而同年作品《死性不改》更是街知巷聞，後來英皇娛樂更推出與Twins的合唱版。《死性不改》至今仍為香港K場大熱。Boy'z在2003年度[叱吒樂壇流行榜頒獎禮獲得叱吒樂壇新力軍組合金獎](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎禮 "wikilink")。
 
 2005年2月，關智斌因作個人發展而退出Boy'z，後來加入新成員[麥子豪](../Page/麥子豪.md "wikilink")（Dennis），成為第二代Boy'z。2006年6月，Boy'z再加添新成員[陳偉霆](../Page/陳偉霆.md "wikilink")（William），變成三人組合，並改名為**Sun
 Boy'z**，以全新形象示人，而張致恆亦成為組合隊長。
 
 2008年4月，[陳偉霆宣佈作個人發展及退出Sun](../Page/陳偉霆.md "wikilink")
-Boy'z\[2\]。同年12月，麥子豪亦宣佈退出娛樂圏，計劃到[瑞士修讀](../Page/瑞士.md "wikilink")[酒店管理課程](../Page/酒店管理.md "wikilink")\[3\]。據悉，麥子豪自覺性格不適合在娛樂圈發展，早前已曾考慮前途問題，最後決定越洋留學。Sun
+Boy'z\[2\]。同年12月，麥子豪亦宣佈退出娛樂圏，計劃到[瑞士修讀](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[酒店管理課程](https://zh.wikipedia.org/wiki/酒店管理 "wikilink")\[3\]。據悉，麥子豪自覺性格不適合在娛樂圈發展，早前已曾考慮前途問題，最後決定越洋留學。Sun
 Boy'z經理人[霍汶希對麥子豪的決定表示支持](../Page/霍汶希.md "wikilink")，，不排除短期內再度公開招募成員的可能。
 
 2010年4月，[關智斌及](../Page/關智斌.md "wikilink")[張致恆再以Boy](../Page/張致恆.md "wikilink")'z的名義於《Twins人人彈起2010演唱會》擔任嘉賓並參與其他活動之演出。
 
-2011年6月，[張敬軒於星島日報之報導中證實](../Page/張敬軒.md "wikilink")[關智斌及](../Page/關智斌.md "wikilink")[張致恆重組Boy](../Page/張致恆.md "wikilink")'z\[4\]。
+2011年6月，[張敬軒於星島日報之報導中證實](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[關智斌及](../Page/關智斌.md "wikilink")[張致恆重組Boy](../Page/張致恆.md "wikilink")'z\[4\]。
 
 2011年7月，Boy'z推出全新歌曲《Ready To Go》，是二人分隔五年後再次合體的首支派台歌。
 
 雖然Boy'z在官方上仍未宣佈解散，但自2012年後二人已經分道揚鑣。其中關智斌已轉往中國大陸發展，而張致恆則留守香港並簽約無綫成爲旗下藝員。關智斌於2016年宣布續約英皇娛樂，唯張致恆已於2017年完成合約後離開。
 
 近年開始經常擔任其他歌手演唱會的嘉賓，例如 Twins LOL Live (2016) 及 張敬軒HINSIDEOUT (2018)
-演唱會的嘉賓。而[張敬軒於](../Page/張敬軒.md "wikilink") 張敬軒HINSIDEOUT
-尾場演唱會更提及 Boy'z 日後會開一場演唱會。\[5\]
+演唱會的嘉賓。而[張敬軒於](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+張敬軒HINSIDEOUT 尾場演唱會更提及 Boy'z 日後會開一場演唱會。\[5\]
 
 2018年10月16日，BOYZ官方宣佈於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing
 Live》演唱會。\[6\]。
@@ -65,44 +65,44 @@ Live》演唱會。\[6\]。
 
 ### 派台歌曲成績
 
-| **派台歌曲成績**                                                     |
-| -------------------------------------------------------------- |
-| 唱片                                                             |
-| **2003年**                                                      |
-| [LALA世界](../Page/LALA世界.md "wikilink")                         |
-| LALA世界                                                         |
-| [LALA世界](../Page/LALA世界.md "wikilink")(第二版)                    |
-| [一起喝采](../Page/一起喝采.md "wikilink")                             |
-| 一起喝采                                                           |
-| [A Year To Remember](../Page/A_Year_To_Remember.md "wikilink") |
-| **2004年**                                                      |
-| A Year To Remember                                             |
-| A Year To Remember                                             |
-| A Year To Remember                                             |
-| [Boy'zone 男生圍](../Page/Boy'zone_男生圍.md "wikilink")             |
-| Boy'zone 男生圍                                                   |
-| Boy'zone 男生圍                                                   |
-| [Boy'z Can Cook](../Page/Boy'z_Can_Cook.md "wikilink")         |
-| Boy'z Can Cook                                                 |
-| Boy'z Can Cook                                                 |
-| **2005年**                                                      |
-| [八星報囍賀賀囍](../Page/八星報囍賀賀囍.md "wikilink")                       |
-| **2006年**                                                      |
-| [Sun Boy'z](../Page/Sun_Boy'z_\(專輯\).md "wikilink")            |
-| Sun Boy'z                                                      |
-| Sun Boy'z                                                      |
-| [All For 1](../Page/All_For_1.md "wikilink")                   |
-| **2007年**                                                      |
-| All For 1                                                      |
-| All For 1                                                      |
-| [初次約會](../Page/初次約會.md "wikilink")                             |
-| **2008年**                                                      |
-| 初次約會                                                           |
-| **2011年**                                                      |
-| [Ready To Go 新曲+精選](../Page/Ready_To_Go_新曲+精選.md "wikilink")   |
-| Ready To Go 新曲+精選                                              |
-| **2018年**                                                      |
-| [大男孩 新曲+精選](../Page/大男孩_新曲+精選.md "wikilink")                   |
+| **派台歌曲成績**                                                                        |
+| --------------------------------------------------------------------------------- |
+| 唱片                                                                                |
+| **2003年**                                                                         |
+| [LALA世界](https://zh.wikipedia.org/wiki/LALA世界 "wikilink")                         |
+| LALA世界                                                                            |
+| [LALA世界](https://zh.wikipedia.org/wiki/LALA世界 "wikilink")(第二版)                    |
+| [一起喝采](https://zh.wikipedia.org/wiki/一起喝采 "wikilink")                             |
+| 一起喝采                                                                              |
+| [A Year To Remember](https://zh.wikipedia.org/wiki/A_Year_To_Remember "wikilink") |
+| **2004年**                                                                         |
+| A Year To Remember                                                                |
+| A Year To Remember                                                                |
+| A Year To Remember                                                                |
+| [Boy'zone 男生圍](https://zh.wikipedia.org/wiki/Boy'zone_男生圍 "wikilink")             |
+| Boy'zone 男生圍                                                                      |
+| Boy'zone 男生圍                                                                      |
+| [Boy'z Can Cook](https://zh.wikipedia.org/wiki/Boy'z_Can_Cook "wikilink")         |
+| Boy'z Can Cook                                                                    |
+| Boy'z Can Cook                                                                    |
+| **2005年**                                                                         |
+| [八星報囍賀賀囍](https://zh.wikipedia.org/wiki/八星報囍賀賀囍 "wikilink")                       |
+| **2006年**                                                                         |
+| [Sun Boy'z](https://zh.wikipedia.org/wiki/Sun_Boy'z_\(專輯\) "wikilink")            |
+| Sun Boy'z                                                                         |
+| Sun Boy'z                                                                         |
+| [All For 1](https://zh.wikipedia.org/wiki/All_For_1 "wikilink")                   |
+| **2007年**                                                                         |
+| All For 1                                                                         |
+| All For 1                                                                         |
+| [初次約會](https://zh.wikipedia.org/wiki/初次約會 "wikilink")                             |
+| **2008年**                                                                         |
+| 初次約會                                                                              |
+| **2011年**                                                                         |
+| [Ready To Go 新曲+精選](https://zh.wikipedia.org/wiki/Ready_To_Go_新曲+精選 "wikilink")   |
+| Ready To Go 新曲+精選                                                                 |
+| **2018年**                                                                         |
+| [大男孩 新曲+精選](https://zh.wikipedia.org/wiki/大男孩_新曲+精選 "wikilink")                   |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -117,13 +117,13 @@ Live》演唱會。\[6\]。
 
 ### 電影
 
-  - S、K：[這個亞爸真爆炸](../Page/這個亞爸真爆炸.md "wikilink")
+  - S、K：[這個亞爸真爆炸](https://zh.wikipedia.org/wiki/這個亞爸真爆炸 "wikilink")
   - S、K：[鬼馬狂想曲](../Page/鬼馬狂想曲.md "wikilink")
   - S、K：[大無謂](../Page/大無謂.md "wikilink")
-  - S、K：[蟲不知](../Page/蟲不知.md "wikilink")
+  - S、K：[蟲不知](https://zh.wikipedia.org/wiki/蟲不知 "wikilink")
   - S、K：[情癲大聖](../Page/情癲大聖.md "wikilink")
-  - S：[伊莎貝拉](../Page/伊莎貝拉.md "wikilink")
-  - S：[犀照](../Page/犀照.md "wikilink")
+  - S：[伊莎貝拉](https://zh.wikipedia.org/wiki/伊莎貝拉 "wikilink")
+  - S：[犀照](https://zh.wikipedia.org/wiki/犀照 "wikilink")
   - S、K：[古宅心慌慌](../Page/古宅心慌慌.md "wikilink")
   - S、D：[校墓處](../Page/校墓處.md "wikilink")
   - S、D：[春田花花同學會](../Page/春田花花同學會.md "wikilink")
@@ -171,7 +171,7 @@ Live》演唱會。\[6\]。
 
 #### 2003年
 
-  - S、K：[無綫電視劇](../Page/無綫.md "wikilink")《[當四葉草碰上劍尖時](../Page/當四葉草碰上劍尖時.md "wikilink")》（客串）
+  - S、K：[無綫電視劇](https://zh.wikipedia.org/wiki/無綫 "wikilink")《[當四葉草碰上劍尖時](../Page/當四葉草碰上劍尖時.md "wikilink")》（客串）
   - S、K：一起喝采（now.com網劇）
 
 #### 2004年
@@ -261,7 +261,8 @@ Live》演唱會。\[6\]。
   - 2006年度[新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") ：新城勁爆新人王組合
   - 2006年度[RoadShow至尊音樂頒獎禮](../Page/RoadShow至尊音樂頒獎禮.md "wikilink")
     ：至尊新組合樂隊
-  - 第二十九屆[十大中文金曲](../Page/十大中文金曲.md "wikilink") ：最有前途新人獎優異獎
+  - 第二十九屆[十大中文金曲](https://zh.wikipedia.org/wiki/十大中文金曲 "wikilink")
+    ：最有前途新人獎優異獎
   - 廣州電台《2006金曲金榜》： 最佳新人組合（港台及海外地區部份）
   - 《9+2音樂先鋒榜》： 港台最受歡迎新人獎（組合）
   - 加拿大中文電台《加拿大至Hit 中文歌曲排行榜06年總選》： 全國推崇新組合

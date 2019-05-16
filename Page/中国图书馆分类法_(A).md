@@ -1,5 +1,5 @@
   - A1
-    [马克思](../Page/马克思.md "wikilink")、[恩格斯著作](../Page/恩格斯.md "wikilink")
+    [马克思](https://zh.wikipedia.org/wiki/马克思 "wikilink")、[恩格斯著作](https://zh.wikipedia.org/wiki/恩格斯 "wikilink")
 
 :\*A11 选集、文集
 
@@ -18,17 +18,17 @@
 ::\*A125 第二国际时期（1889年7月－1895年）
 
 :\*A13
-[书信集](../Page/书信集.md "wikilink")、[日记](../Page/日记.md "wikilink")、[函电](../Page/函电.md "wikilink")、谈话
+[书信集](https://zh.wikipedia.org/wiki/书信集 "wikilink")、[日记](../Page/日记.md "wikilink")、[函电](https://zh.wikipedia.org/wiki/函电 "wikilink")、谈话
 
-:\*A14 [诗词](../Page/诗词.md "wikilink")
+:\*A14 [诗词](https://zh.wikipedia.org/wiki/诗词 "wikilink")
 
-:\*A15 [手迹](../Page/手迹.md "wikilink")
+:\*A15 [手迹](https://zh.wikipedia.org/wiki/手迹 "wikilink")
 
 :\*A16 专题汇编
 
-:\*A18 [语录](../Page/语录.md "wikilink")
+:\*A18 [语录](https://zh.wikipedia.org/wiki/语录 "wikilink")
 
-  - A2 [列宁著作](../Page/列宁.md "wikilink")
+  - A2 [列宁著作](https://zh.wikipedia.org/wiki/列宁 "wikilink")
 
 :\*A21 选集、文集
 
@@ -64,7 +64,7 @@
 
 :\*A28 语录
 
-  - A3 [斯大林著作](../Page/斯大林.md "wikilink")
+  - A3 [斯大林著作](https://zh.wikipedia.org/wiki/斯大林 "wikilink")
 
 :\*A31 选集、文集
 
@@ -152,7 +152,8 @@
 
 :\*A58 语录
 
-  - A7 马克思、恩格斯、列宁、斯大林、毛泽东、邓小平的生平和[传记](../Page/传记.md "wikilink")
+  - A7
+    马克思、恩格斯、列宁、斯大林、毛泽东、邓小平的生平和[传记](https://zh.wikipedia.org/wiki/传记 "wikilink")
 
 :\*A71 马克思
 

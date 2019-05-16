@@ -1,6 +1,6 @@
-****（簡稱****）是[台北101興建工程的總](../Page/台北101.md "wikilink")[承包商](../Page/承包商.md "wikilink")\[1\]\[2\]，為日商[熊谷組](../Page/熊谷組.md "wikilink")（**K**UMAGAI
+****（簡稱****）是[台北101興建工程的總](../Page/台北101.md "wikilink")[承包商](https://zh.wikipedia.org/wiki/承包商 "wikilink")\[1\]\[2\]，為日商[熊谷組](../Page/熊谷組.md "wikilink")（**K**UMAGAI
 GUMI）、華熊營造（**T**AIWAN
-KUMAGAI；熊谷組在台子公司）、[榮民工程](../Page/榮民工程公司.md "wikilink")（**R**SEA）、大友為營造（**T**A-YO-WEI；[和信集團成員](../Page/和信集團.md "wikilink")\[3\]）因爭取台北101興建[招標所組成的](../Page/招標.md "wikilink")團隊\[4\]。
+KUMAGAI；熊谷組在台子公司）、[榮民工程](https://zh.wikipedia.org/wiki/榮民工程公司 "wikilink")（**R**SEA）、大友為營造（**T**A-YO-WEI；[和信集團成員](../Page/和信集團.md "wikilink")\[3\]）因爭取台北101興建[招標所組成的](https://zh.wikipedia.org/wiki/招標 "wikilink")團隊\[4\]。
 
 ## 參考資料
 

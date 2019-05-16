@@ -2,12 +2,12 @@
 
 ## 历史
 
-SK成立于1997年，最初是由3兄弟组建的[德国](../Page/德国.md "wikilink")[雷神之锤战队](../Page/雷神之锤.md "wikilink")。他们第一次取得重大成功是把[瑞典当时著名的](../Page/瑞典.md "wikilink")[反恐精英战队](../Page/反恐精英.md "wikilink")[NiP收归麾下](../Page/NiP.md "wikilink")，后来这支队伍成为了著名的SK.swe。SK在当时几乎赢得了所有世界反恐精英大赛的冠军，并且成为[CPL中独树一帜的强队](../Page/CPL.md "wikilink")。而SK旗下的其他游戏分队也取得了不错的成绩。
+SK成立于1997年，最初是由3兄弟组建的[德国](../Page/德国.md "wikilink")[雷神之锤战队](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。他们第一次取得重大成功是把[瑞典当时著名的](../Page/瑞典.md "wikilink")[反恐精英战队](../Page/反恐精英.md "wikilink")[NiP收归麾下](https://zh.wikipedia.org/wiki/NiP "wikilink")，后来这支队伍成为了著名的SK.swe。SK在当时几乎赢得了所有世界反恐精英大赛的冠军，并且成为[CPL中独树一帜的强队](https://zh.wikipedia.org/wiki/CPL "wikilink")。而SK旗下的其他游戏分队也取得了不错的成绩。
 
 2003年2月1日，SK成为第一支和队员签订合同的电子竞技队伍，之后的2004年5月18日，他们又成为操作有偿转会电子竞技玩家的第一队，当时他们的Ola
 'element' Moum转投死对头NoA。
 
-但是在2005年初，SK.swe开始因为赞助问题分崩离析。队员整体离开，并且重组了[NiP](../Page/NiP.md "wikilink")。但是后来又有一些队员回归SK，并且直到现在还在为SK效力。
+但是在2005年初，SK.swe开始因为赞助问题分崩离析。队员整体离开，并且重组了[NiP](https://zh.wikipedia.org/wiki/NiP "wikilink")。但是后来又有一些队员回归SK，并且直到现在还在为SK效力。
 
 2007年後影響力漸低，在2011年成立英雄聯盟職業隊伍，只是成績普通，還曾在2014年英雄聯盟世界賽時引發種族歧視事件，後面解散今年又重組隊伍。而在2016年買下絕對武力:全球攻勢的Luminosity
 Gaming職業隊伍時亦引發爭議，不過儘管議論紛紛仍在2016-2017年拿下最多國際賽冠軍，現今隊伍大部分成員過檔miBR戰隊。
@@ -25,9 +25,9 @@ SK曾经在下面的比赛中取得过前三名：
 
 #### 2005年
 
-  - [CPL冬季冠军赛](../Page/CPL.md "wikilink")：冠军
-  - [CPL夏季冠军赛](../Page/CPL.md "wikilink")：冠军
-  - [ESWC](../Page/ESWC.md "wikilink")：亚军（SK.dk）
+  - [CPL冬季冠军赛](https://zh.wikipedia.org/wiki/CPL "wikilink")：冠军
+  - [CPL夏季冠军赛](https://zh.wikipedia.org/wiki/CPL "wikilink")：冠军
+  - [ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")：亚军（SK.dk）
 
 #### 2004年
 
@@ -36,10 +36,10 @@ SK曾经在下面的比赛中取得过前三名：
 #### 2003年
 
   - CPL冬季冠军赛：冠军
-  - CPL[哥本哈根站](../Page/哥本哈根.md "wikilink")：冠军
+  - CPL[哥本哈根站](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")：冠军
   - CPL夏季冠军赛：冠军
-  - CPL[嘎纳站](../Page/嘎纳.md "wikilink")：冠军
-  - [WCG](../Page/WCG.md "wikilink")：冠军
+  - CPL[嘎纳站](https://zh.wikipedia.org/wiki/嘎纳 "wikilink")：冠军
+  - [WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")：冠军
   - ESWC：季军
 
 #### 2002年
@@ -100,7 +100,7 @@ SK曾经在下面的比赛中取得过前三名：
 
   - Adam "zBob" Nordgren
 
-### [魔獸世界](../Page/魔獸世界.md "wikilink")
+### [魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")
 
   - Stefan 'zeksy' Baudin (Team Captain)
 
@@ -114,7 +114,7 @@ SK曾经在下面的比赛中取得过前三名：
 
   - Mattias 'Oteus' Franck
 
-### [雷神之鎚4](../Page/雷神之鎚4.md "wikilink")
+### [雷神之鎚4](https://zh.wikipedia.org/wiki/雷神之鎚4 "wikilink")
 
   - Fredrik "gopher" Quick
 
@@ -156,14 +156,14 @@ SK曾经在下面的比赛中取得过前三名：
 
 ## 著名隊員
 
-  - [埃米尔·克里斯坦森](../Page/埃米尔·克里斯坦森.md "wikilink")－HeatoN（2005年1月1日轉至[NiP](../Page/NiP.md "wikilink")）
+  - [埃米尔·克里斯坦森](https://zh.wikipedia.org/wiki/埃米尔·克里斯坦森 "wikilink")－HeatoN（2005年1月1日轉至[NiP](https://zh.wikipedia.org/wiki/NiP "wikilink")）
 
-  - [湯米·因格馬森](../Page/湯米·因格馬森.md "wikilink")－Potti（2005年1月1日轉至[NiP](../Page/NiP.md "wikilink")）
+  - [湯米·因格馬森](https://zh.wikipedia.org/wiki/湯米·因格馬森 "wikilink")－Potti（2005年1月1日轉至[NiP](https://zh.wikipedia.org/wiki/NiP "wikilink")）
 
   - Michael "ahl" Korduner
 
   - [Ola "elemeNt"
-    Moum](../Page/Ola_"elemeNt"_Moum.md "wikilink")（2004年5月18日轉隊至[Team
+    Moum](https://zh.wikipedia.org/wiki/Ola_"elemeNt"_Moum "wikilink")（2004年5月18日轉隊至[Team
     NoA](../Page/Team_NoA.md "wikilink")）
 
   - Daniel "Hyper" Kuusisto

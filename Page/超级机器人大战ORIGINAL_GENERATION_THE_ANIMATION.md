@@ -1,16 +1,16 @@
 《**超級機械人大戰ORIGINAL GENERATION THE
 ANIMATION**》是以[萬普發售的策略模擬遊戲為題材的動畫](../Page/萬普.md "wikilink")。
 
-除了動畫，亦同時發售[廣播劇CD和](../Page/廣播劇CD.md "wikilink")[漫畫等衍生商品](../Page/漫畫.md "wikilink")。本動畫由[Brain's
-Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集及](../Page/DVD.md "wikilink")[UMD一集收錄全](../Page/UMD.md "wikilink")3話。
+除了動畫，亦同時發售[廣播劇CD和](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[漫畫等衍生商品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本動畫由[Brain's
+Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集及](https://zh.wikipedia.org/wiki/DVD "wikilink")[UMD一集收錄全](https://zh.wikipedia.org/wiki/UMD "wikilink")3話。
 
 ## 概要
 
-本作是[超級機器人大戰首次製成動畫](../Page/超級機器人大戰.md "wikilink")，故事背景在「OG2」結束後發生的「巴魯多露事件」的原創故事。因為這是第一次動畫化，機戰迷都十分期待，但因動畫素質低而不獲好評。
+本作是[超級機器人大戰首次製成動畫](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")，故事背景在「OG2」結束後發生的「巴魯多露事件」的原創故事。因為這是第一次動畫化，機戰迷都十分期待，但因動畫素質低而不獲好評。
 
 為了不再被批評，TV動畫「**超级机器人大战OG -Divine Wars-**」 的製作公司由Brain's Base改為OLM。
 
-而廣播劇CD則新加[OVA內沒有登場角色的故事及補充OVA內說明不足的地方](../Page/OVA.md "wikilink")。
+而廣播劇CD則新加[OVA內沒有登場角色的故事及補充OVA內說明不足的地方](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 各話副標題
 
@@ -50,7 +50,7 @@ Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集�
   - 監督：川越淳
   - 劇本：西園悟
   - 人物設計(原案)：河野さち子
-  - 機械設計(原案)：宮武一貴、[カトキハジメ](../Page/カトキハジメ.md "wikilink")(角木肇)、齋藤和衛、金丸仁、安藤弘、守谷淳一
+  - 機械設計(原案)：宮武一貴、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")(角木肇)、齋藤和衛、金丸仁、安藤弘、守谷淳一
   - 人物設計·作畫監督：田中良
   - 機械設計·作畫監督：才木康寛
   - CG機械設計：高倉武史
@@ -70,17 +70,18 @@ Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集�
   - 艾克瑟蓮·白朗寧（エクセレン・ブロウニング）：[水谷優子](../Page/水谷優子.md "wikilink")
   - 布魯克林·拉克菲德（ブルックリン・ラックフィールド）：[杉田智和](../Page/杉田智和.md "wikilink")
   - 水羽 楠葉（クスハ・ミズハ）：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
-  - 伊達 隆聖（リュウセイ・ダテ）：[三木眞一郎](../Page/三木眞一郎.md "wikilink")
+  - 伊達
+    隆聖（リュウセイ・ダテ）：[三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")
   - 萊迪斯·F·布蘭修坦（ライディース・F・ブランシュタイン）：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
-  - 古林 彩（アヤ・コバヤシ）：[冬馬由美](../Page/冬馬由美.md "wikilink")
+  - 古林 彩（アヤ・コバヤシ）：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")
   - 古林 舞（マイ・コバヤシ）：[折笠愛](../Page/折笠愛.md "wikilink")
   - 薇蕾塔·巴迪姆（ヴィレッタ・バディム）：[田中敦子](../Page/田中敦子.md "wikilink")
   - 奇里亞姆·葉格（ギリアム・イェーガー）：[田中秀幸](../Page/田中秀幸.md "wikilink")
   - 拉米亞·拉布雷斯（ラミア・ラヴレス）：[清水香里](../Page/清水香里.md "wikilink")
-  - 亞拉德·巴蘭加（アラド・バランガ）：[鶏内一也](../Page/鶏内一也.md "wikilink")
+  - 亞拉德·巴蘭加（アラド・バランガ）：[鶏内一也](https://zh.wikipedia.org/wiki/鶏内一也 "wikilink")
   - 潔歐菈·修拜札（ゼオラ・シュバイツァー）：[嘉數由美](../Page/嘉數由美.md "wikilink")
   - 菈朵妮·史伯特（ラトゥーニ・スゥボータ）：[平井理子](../Page/平井理子.md "wikilink")
-  - 小野寺 鐵哉（テツヤ・オノデラ）：[堀川仁](../Page/堀川仁.md "wikilink")
+  - 小野寺 鐵哉（テツヤ・オノデラ）：[堀川仁](https://zh.wikipedia.org/wiki/堀川仁 "wikilink")
   - 冰川 諒斗（リョウト・ヒカワ）：[小林由美子](../Page/小林由美子.md "wikilink")
   - 慕蓉 琉（リオ・メイロン）：[夏樹莉緒](../Page/夏樹莉緒.md "wikilink")
   - 名高 英太（エイタ・ナダカ）：[田中大文](../Page/田中大文.md "wikilink")
@@ -89,7 +90,7 @@ Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集�
   - 小黑（クロ）：[佐久間玲](../Page/佐久間玲.md "wikilink")
   - 桑格·佐沃特（ゼンガー・ゾンボルト）：[小野健一](../Page/小野健一.md "wikilink")
   - 雷傑爾·法因修梅卡（レーツェル・ファインシュメッカー）：[稻田徹](../Page/稻田徹.md "wikilink")
-  - 威路海姆·科·由路根（ヴィルヘルム・フォン・ユルゲン）：[牛山茂](../Page/牛山茂.md "wikilink")
+  - 威路海姆·科·由路根（ヴィルヘルム・フォン・ユルゲン）：[牛山茂](https://zh.wikipedia.org/wiki/牛山茂 "wikilink")
 
 ## 主題曲
 
@@ -100,7 +101,7 @@ Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集�
   -
 
       -
-        作詞、作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")／編曲：[須藤賢一](../Page/須藤賢一.md "wikilink")／主唱：[JAM
+        作詞、作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")／編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink")／主唱：[JAM
         Project](../Page/JAM_Project.md "wikilink")
 
 <!-- end list -->
@@ -120,7 +121,7 @@ Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集�
   -
 
       -
-        作詞、作曲：[北谷洋](../Page/北谷洋.md "wikilink")／編曲：[河野陽吾](../Page/河野陽吾.md "wikilink")／主唱：JAM
+        作詞、作曲：[北谷洋](../Page/北谷洋.md "wikilink")／編曲：[河野陽吾](https://zh.wikipedia.org/wiki/河野陽吾 "wikilink")／主唱：JAM
         Project featuring [松本梨香](../Page/松本梨香.md "wikilink")、北谷洋
 
 :;「星空的安魂曲」（） （第三話）

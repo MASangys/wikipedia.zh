@@ -1,39 +1,39 @@
-**高畫質多媒體介面**（，簡稱**HDMI**）是一種全[數位化](../Page/數位.md "wikilink")[影像和](../Page/影像.md "wikilink")[聲音傳送介面](../Page/聲音.md "wikilink")，可以傳送未[壓縮的](../Page/數位壓縮.md "wikilink")[音訊及](../Page/音頻.md "wikilink")[視訊訊號](../Page/視頻.md "wikilink")。HDMI可用於[機上盒](../Page/機上盒.md "wikilink")、[DVD播放機](../Page/DVD播放機.md "wikilink")、[個人電腦](../Page/個人電腦.md "wikilink")、[電視遊樂器](../Page/電視遊樂器.md "wikilink")、綜合擴大機、數位音響與[電視機等設備](../Page/電視機.md "wikilink")。HDMI可以同時傳送音訊和視訊訊號，由於音訊和視訊訊號採用同一條線材，大大簡化系統線路的安裝難度。
+**高畫質多媒體介面**（，簡稱**HDMI**）是一種全[數位化](https://zh.wikipedia.org/wiki/數位 "wikilink")[影像和](https://zh.wikipedia.org/wiki/影像 "wikilink")[聲音傳送介面](https://zh.wikipedia.org/wiki/聲音 "wikilink")，可以傳送未[壓縮的](https://zh.wikipedia.org/wiki/數位壓縮 "wikilink")[音訊及](https://zh.wikipedia.org/wiki/音頻 "wikilink")[視訊訊號](https://zh.wikipedia.org/wiki/視頻 "wikilink")。HDMI可用於[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")、[DVD播放機](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")、[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[電視遊樂器](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")、綜合擴大機、數位音響與[電視機等設備](https://zh.wikipedia.org/wiki/電視機 "wikilink")。HDMI可以同時傳送音訊和視訊訊號，由於音訊和視訊訊號採用同一條線材，大大簡化系統線路的安裝難度。
 
 ## 簡述
 
-HDMI是被設計來取代較舊的[類比訊號影音傳送介面如](../Page/類比訊號.md "wikilink")或[RCA等端子的](../Page/RCA端子.md "wikilink")。它支援各類[電視與](../Page/電視.md "wikilink")[電腦影像格式](../Page/電腦.md "wikilink")，包括[SDTV](../Page/SDTV.md "wikilink")、[HDTV視訊畫面](../Page/HDTV.md "wikilink")，再加上多聲道數位音訊。HDMI与去掉音频传输功能的[UDI都继承](../Page/UDI.md "wikilink")[DVI的核心技术](../Page/DVI.md "wikilink")「传输最小化差分訊號」TMDS，从本质上来说仍然是DVI的扩展。DVI、HDMI、UDI的视频内容都以即时、专线方式进行传输，这可以保证视频流量大时不会发生堵塞的现象。每个像素数据量为24位。信号的时序与[VGA极为类似](../Page/VGA.md "wikilink")。画面是以逐行的方式被发送，并在每一行与每祯画面发送完毕后加入一个特定的空白时间（类似模拟扫描线），并没有将数据“Micro-Packet
-Architecture（微封包架构）”化，也不会只更新前后两帧画面改变的部分。每张画面在该更新时都会被完整的重新发送。規格初制訂時其最大[畫素傳輸率為](../Page/畫素.md "wikilink")165Mpx/sec，足以支援[1080p畫質每秒](../Page/1080p.md "wikilink")60張畫面，或者[UXGA](../Page/UXGA.md "wikilink")[解像度](../Page/解像度.md "wikilink")（1600x1200）；後來在HDMI
+HDMI是被設計來取代較舊的[類比訊號影音傳送介面如](https://zh.wikipedia.org/wiki/類比訊號 "wikilink")或[RCA等端子的](../Page/RCA端子.md "wikilink")。它支援各類[電視與](https://zh.wikipedia.org/wiki/電視 "wikilink")[電腦影像格式](https://zh.wikipedia.org/wiki/電腦 "wikilink")，包括[SDTV](https://zh.wikipedia.org/wiki/SDTV "wikilink")、[HDTV視訊畫面](https://zh.wikipedia.org/wiki/HDTV "wikilink")，再加上多聲道數位音訊。HDMI与去掉音频传输功能的[UDI都继承](https://zh.wikipedia.org/wiki/UDI "wikilink")[DVI的核心技术](../Page/DVI.md "wikilink")「传输最小化差分訊號」TMDS，从本质上来说仍然是DVI的扩展。DVI、HDMI、UDI的视频内容都以即时、专线方式进行传输，这可以保证视频流量大时不会发生堵塞的现象。每个像素数据量为24位。信号的时序与[VGA极为类似](https://zh.wikipedia.org/wiki/VGA "wikilink")。画面是以逐行的方式被发送，并在每一行与每祯画面发送完毕后加入一个特定的空白时间（类似模拟扫描线），并没有将数据“Micro-Packet
+Architecture（微封包架构）”化，也不会只更新前后两帧画面改变的部分。每张画面在该更新时都会被完整的重新发送。規格初制訂時其最大[畫素傳輸率為](https://zh.wikipedia.org/wiki/畫素 "wikilink")165Mpx/sec，足以支援[1080p畫質每秒](../Page/1080p.md "wikilink")60張畫面，或者[UXGA](https://zh.wikipedia.org/wiki/UXGA "wikilink")[解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink")（1600x1200）；後來在HDMI
 1.3規格中擴增為340Mpx/秒，以符合未來可能的需求。
 
 而[DisplayPort一开始则面向液晶显示器开发](../Page/DisplayPort.md "wikilink")，采用“Micro-Packet
 Architecture(微封包架构)”传输架构，视频内容以封包方式传送，这一点同DVI、HDMI等视频传输技术有着明显区别。也就是说，HDMI的出现取代模拟信号视频，而DisplayPort的出现则取代的是DVI和VGA接口。
 
-HDMI也支援非壓縮的8聲道數位音訊傳送（取樣率192[kHz](../Page/kHz.md "wikilink")，資料長度24bits/sample），以及任何壓縮音訊串流如[Dolby
-Digital或](../Page/Dolby_Digital.md "wikilink")[DTS](../Page/DTS.md "wikilink")，亦支援[SACD所使用的](../Page/SACD.md "wikilink")8聲道的1bit
+HDMI也支援非壓縮的8聲道數位音訊傳送（取樣率192[kHz](https://zh.wikipedia.org/wiki/kHz "wikilink")，資料長度24bits/sample），以及任何壓縮音訊串流如[Dolby
+Digital或](https://zh.wikipedia.org/wiki/Dolby_Digital "wikilink")[DTS](../Page/DTS.md "wikilink")，亦支援[SACD所使用的](https://zh.wikipedia.org/wiki/SACD "wikilink")8聲道的1bit
 DSD訊號。在HDMI 1.3規格中，又追加超高資料量的無失真壓縮音訊串流如[Dolby
-TrueHD與](../Page/Dolby_TrueHD.md "wikilink")[DTS-HD的支援](../Page/DTS-HD.md "wikilink")。
+TrueHD與](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")[DTS-HD的支援](https://zh.wikipedia.org/wiki/DTS-HD "wikilink")。
 
 標準的Type A HDMI接頭有19個腳位，另有一種支援更高解像度的Type B接頭被定義出來，但目前仍無任何廠商使用Type
 B接頭。Type
-B接頭有29個腳位，容許其傳送擴展的視訊通道以應付未來的高[畫質需求](../Page/畫質.md "wikilink")，如[WQSXGA](../Page/WQSXGA.md "wikilink")（3200x2048）。
+B接頭有29個腳位，容許其傳送擴展的視訊通道以應付未來的高[畫質需求](https://zh.wikipedia.org/wiki/畫質 "wikilink")，如[WQSXGA](https://zh.wikipedia.org/wiki/WQSXGA "wikilink")（3200x2048）。
 
 Type A
-HDMI可向下相容於現今多數[顯示器與](../Page/顯示器.md "wikilink")[顯示卡所使用的Single](../Page/顯示卡.md "wikilink")-link
-[DVI](../Page/DVI.md "wikilink")-D或DVI-I介面（但不支援DVI-A），這表示採用DVI-D介面的訊號來源可以透過[轉換線驅動HDMI螢幕](../Page/轉換線.md "wikilink")，但是此種轉換方案並不支援音訊傳送與[遙控機能](../Page/遙控.md "wikilink")。此外如無[HDCP認證的DVI螢幕也將不能收看從HDMI所輸出帶有HDCP](../Page/HDCP.md "wikilink")[加密保護的視訊資料](../Page/加密.md "wikilink")（所有HDMI螢幕皆支援HDCP，但大多數DVI介面的顯示器不支援HDCP），Type
+HDMI可向下相容於現今多數[顯示器與](https://zh.wikipedia.org/wiki/顯示器 "wikilink")[顯示卡所使用的Single](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")-link
+[DVI](../Page/DVI.md "wikilink")-D或DVI-I介面（但不支援DVI-A），這表示採用DVI-D介面的訊號來源可以透過[轉換線驅動HDMI螢幕](https://zh.wikipedia.org/wiki/轉換線 "wikilink")，但是此種轉換方案並不支援音訊傳送與[遙控機能](../Page/遙控.md "wikilink")。此外如無[HDCP認證的DVI螢幕也將不能收看從HDMI所輸出帶有HDCP](../Page/HDCP.md "wikilink")[加密保護的視訊資料](https://zh.wikipedia.org/wiki/加密 "wikilink")（所有HDMI螢幕皆支援HDCP，但大多數DVI介面的顯示器不支援HDCP），Type
 B HDMI接頭也將向下相容於Dual-link DVI介面。
 
-[HDMI組織的發起者包括各大](../Page/HDMI組織.md "wikilink")[消費電子產品製造商](../Page/消費電子產品.md "wikilink")，如[日立製作所](../Page/日立製作所.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")、[Quasar](../Page/Quasar.md "wikilink")、[飛利浦](../Page/飛利浦.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[湯姆生RCA](../Page/湯姆生RCA.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[Silicon
-Image](../Page/Silicon_Image.md "wikilink")。[數位內容保護公司](../Page/數位內容保護公司.md "wikilink")（Digital
+[HDMI組織的發起者包括各大](https://zh.wikipedia.org/wiki/HDMI組織 "wikilink")[消費電子產品製造商](../Page/消費電子產品.md "wikilink")，如[日立製作所](../Page/日立製作所.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")、[Quasar](https://zh.wikipedia.org/wiki/Quasar "wikilink")、[飛利浦](../Page/飛利浦.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[湯姆生RCA](https://zh.wikipedia.org/wiki/湯姆生RCA "wikilink")、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[Silicon
+Image](https://zh.wikipedia.org/wiki/Silicon_Image "wikilink")。[數位內容保護公司](https://zh.wikipedia.org/wiki/數位內容保護公司 "wikilink")（Digital
 Content Protection,
-LLC）\[1\]提供HDMI介面相關的防拷保護技術。此外，HDMI也受到各主要電影製作公司如[20世紀福斯](../Page/20世紀福斯.md "wikilink")、[華納兄弟](../Page/華納兄弟.md "wikilink")、[迪士尼](../Page/迪士尼.md "wikilink")，包括[三星電子在內的各大消費電子產品製造商](../Page/三星電子.md "wikilink")，以及多家[有線電視系統業者的支援](../Page/有線電視.md "wikilink")。
+LLC）\[1\]提供HDMI介面相關的防拷保護技術。此外，HDMI也受到各主要電影製作公司如[20世紀福斯](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")、[華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")、[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，包括[三星電子在內的各大消費電子產品製造商](../Page/三星電子.md "wikilink")，以及多家[有線電視系統業者的支援](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。
 
 ## 規格
 
 ### HDMI接頭
 
-[HDMI-HDMImini-HDMImicro.png](https://zh.wikipedia.org/wiki/File:HDMI-HDMImini-HDMImicro.png "fig:HDMI-HDMImini-HDMImicro.png")、[mini-HDMI（C）](../Page/#HDMI_C_Type.md "wikilink")、[Micro
-HDMI（D）](../Page/#HDMI_D_Type.md "wikilink") \]\]
+[HDMI-HDMImini-HDMImicro.png](https://zh.wikipedia.org/wiki/File:HDMI-HDMImini-HDMImicro.png "fig:HDMI-HDMImini-HDMImicro.png")、[mini-HDMI（C）](https://zh.wikipedia.org/wiki/#HDMI_C_Type "wikilink")、[Micro
+HDMI（D）](https://zh.wikipedia.org/wiki/#HDMI_D_Type "wikilink") \]\]
 
 HDMI的規格書中規定四種HDMI接口，分別是：
 
@@ -114,7 +114,7 @@ type的訊號，則必須要兩倍的傳輸效率，會造成TMDS的Tx、Rx的�
 [Graphics_board_mini-HDMI_and_DVI-I_connectors_IMGP0972_wp.jpg](https://zh.wikipedia.org/wiki/File:Graphics_board_mini-HDMI_and_DVI-I_connectors_IMGP0972_wp.jpg "fig:Graphics_board_mini-HDMI_and_DVI-I_connectors_IMGP0972_wp.jpg")
 俗稱mini-HDMI，应用于HDMI1.3版本，總共有19pin，可以說是縮小版的HDMI A
 type，规格为2.42 mm×10.42 mm，但腳位定義有所改變。主要是用在攜帶型裝置上，例如DV、數位相機、攜帶型多媒體播放機等。由於大小所限，一些顯示卡會使用mini-HDMI，用家須使用轉接頭轉成標準大小的Type
-A再連接[顯示器](../Page/顯示器.md "wikilink")。
+A再連接[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")。
 
 |     |                          |
 | --- | ------------------------ |
@@ -178,23 +178,24 @@ HDMI版接口小50％左右，可为相机、手机等便携设备带来最高10
     HDMI) 或 dual-link (Type B HDMI)
   - 視頻像素頻寬：從25 MHz到340 MHz（Type A, HDMI 1.3）或至680 MHz (Type
     B)。頻寬低於25MHz的視頻訊號如NTSC
-    [480i將以倍頻方式輸出](../Page/480i.md "wikilink")。每個像素的容許資料量從24位元至48位元。支援每秒120張畫面[1080p解析度畫面傳送以及WQSXGA解析度](../Page/1080p.md "wikilink")[1](http://www.hdmi.org/consumer/faq.asp)
-  - 像素編碼方式：[RGB](../Page/RGB.md "wikilink") 4:4:4, YCbCr 4:4:4（8-16 bits
-    per component）; YCbCr 4:2:2（12 bits per component）; YCbCr 4:2:0（HDMI
-    2.0）
+    [480i將以倍頻方式輸出](https://zh.wikipedia.org/wiki/480i "wikilink")。每個像素的容許資料量從24位元至48位元。支援每秒120張畫面[1080p解析度畫面傳送以及WQSXGA解析度](../Page/1080p.md "wikilink")[1](http://www.hdmi.org/consumer/faq.asp)
+  - 像素編碼方式：[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink") 4:4:4,
+    YCbCr 4:4:4（8-16 bits per component）; YCbCr 4:2:2（12 bits per
+    component）; YCbCr 4:2:0（HDMI 2.0）
   - 音頻取樣率：32 kHz, 44.1 kHz, 48 kHz, 88.2 kHz, 96 kHz, 176.4 kHz,
     192 kHz, 1536 kHz（HDMI 2.0）。
   - 音頻聲道數量：最大8聲道。HDMI 2.0支持32声道。
   - 音頻串流規格：IEC61937相容串流，包括高流量無失真訊號如[Dolby
-    TrueHD](../Page/Dolby_TrueHD.md "wikilink")、[DTS](../Page/DTS.md "wikilink")-HD
+    TrueHD](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")、[DTS](../Page/DTS.md "wikilink")-HD
     Master Audio。
 
 ### DDC通道
 
   - DDC全文為Display Data Channel
   - 傳送端與接收端可利用DDC通道得知彼此的傳送與接收能力，但HDMI僅需單向獲知接收端（顯示器）的能力。
-  - 使用100kHz時脈的[I²C訊號](../Page/I2C.md "wikilink")
-  - 傳送資料結構為[VESA](../Page/VESA.md "wikilink") Enhanced EDID（V1.3）。
+  - 使用100kHz時脈的[I²C訊號](https://zh.wikipedia.org/wiki/I2C "wikilink")
+  - 傳送資料結構為[VESA](https://zh.wikipedia.org/wiki/VESA "wikilink")
+    Enhanced EDID（V1.3）。
 
 ### CEC通道
 
@@ -232,9 +233,9 @@ HDMI版接口小50％左右，可为相机、手机等便携设备带来最高10
 在HDMI 2.1版本前，根據規範，所有的HDMI線分為五種，線材的種類，HDMI的版本為規範連接器，大部分情況下線材部分沒有更動。
 
   - 標準纜線 （支援1080i及720p）
-  - 標準纜線附帶[乙太網路](../Page/乙太網路.md "wikilink")
+  - 標準纜線附帶[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")
   - 高速纜線 （支援1080p, 4K@30fps, 3D 與 Deep Color）
-  - 高速纜線附帶[乙太網路](../Page/乙太網路.md "wikilink")
+  - 高速纜線附帶[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")
   - 車用纜線
 
 ### 防拷機制
@@ -277,10 +278,10 @@ HDMI版接口小50％左右，可为相机、手机等便携设备带来最高10
   - 擴增single-link模式的頻寬至340 Mhz（資料傳送速度10.2 Gbps）
   - 從24bit色域（1677萬色）擴張支援至30-bit, 36-bit,與48-bit（RGB or
     YCbCr）色域（相當於超過十億色顯示）
-  - 支援新的[xvYCC色彩標準](../Page/xvYCC.md "wikilink")
+  - 支援新的[xvYCC色彩標準](https://zh.wikipedia.org/wiki/xvYCC "wikilink")
   - 支援自動語音同步（台詞對嘴）機能
   - 支援[Dolby
-    TrueHD以及](../Page/Dolby_TrueHD.md "wikilink")[DTS](../Page/DTS.md "wikilink")-HD
+    TrueHD以及](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")[DTS](../Page/DTS.md "wikilink")-HD
     Master Audio訊號輸出至外接解碼器\[3\]如果播放機具有直接將此二種訊號解碼的能力，則不需要支援HDMI
     1.3，因為所有的HDMI規格都可以傳送未壓縮的音頻訊號。
   - 提出新的小型化接頭以支援輕便型攝錄影機\[4\]
@@ -408,14 +409,15 @@ HDMI版接口小50％左右，可为相机、手机等便携设备带来最高10
 
 2015年4月8日提出
 
-  - 支援[高動態範圍成像](../Page/高動態範圍成像.md "wikilink")（HDR）
+  - 支援[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（HDR）
 
 <!-- end list -->
 
   - HDMI 2.0b
 
-支援[高動態範圍成像](../Page/高動態範圍成像.md "wikilink")（HDR）视频的传输 带宽高达18Gbps 4K @
-50与/ 60（2160P），这是1080/60的视频分辨率的清晰的4倍 多达32个音频通道进行多维身临其境的音频体验
+支援[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（HDR）视频的传输
+带宽高达18Gbps 4K @ 50与/ 60（2160P），这是1080/60的视频分辨率的清晰的4倍
+多达32个音频通道进行多维身临其境的音频体验
 最多的最高音频保真度1536kHz音频采样频率 双视频的同时递送流提供给多个用户在同一屏幕上
 同时传送多路音频多用户（最多4） 9视频宽高比：为广角戏剧21支持 视频和音频流的动态同步
 CEC扩展通过单一控制点提供更多的扩展命令和消费电子设备的控制
@@ -430,16 +432,16 @@ HDMI 2.1根据飞利浦撰写的白皮书增加支持“动态元”
 
   - 頻寬提升至48Gbps
   - 支援4K 120Hz及8K 60Hz
-  - 支援[高動態範圍成像](../Page/高動態範圍成像.md "wikilink")（HDR），可以針對場景或幀數進行優化
+  - 支援[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（HDR），可以針對場景或幀數進行優化
   - 支援eARC功能
   - 可針對遊戲幀數進行信號同步，減少[畫面撕裂](../Page/畫面撕裂.md "wikilink")
   - 向下相容HDMI 2.0、HDMI 1.4
 
 ## 長度限制問題
 
-HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行測試當中回報標準的28[AWG](../Page/AWG.md "wikilink")（American
+HDMI的纜線長度限制是其主要的問題之一，在部分消費者自行測試當中回報標準的28[AWG](https://zh.wikipedia.org/wiki/AWG "wikilink")（American
 Wire
-Gauge,美國纜線度量）規格HDMI銅線大約在超過5公尺之後開始訊號衰減。此長度通常不足以滿足[投影機與電腦的連接](../Page/投影機.md "wikilink")。
+Gauge,美國纜線度量）規格HDMI銅線大約在超過5公尺之後開始訊號衰減。此長度通常不足以滿足[投影機與電腦的連接](https://zh.wikipedia.org/wiki/投影機 "wikilink")。
 
 但HDMI組織網頁並不認可此限制，其網頁常見問答集[HDMI FAQ
 page](http://www.hdmi.com/learningcenter/faq.aspx#q7_1)當中記載：「我們見過有纜線在沒有"轉接器"之情況下通過不短於十米的HDMI
@@ -447,7 +449,7 @@ page](http://www.hdmi.com/learningcenter/faq.aspx#q7_1)當中記載：「我們�
 
 現有通過HDMI認證的10M cable（未使用HDMI equalizer IC），大都使用24AWG的線材去製作。
 
-一些報告指出，增加纜線中銅線的直徑以降低[阻抗](../Page/阻抗.md "wikilink")，是有效延長纜線長度的方法之一。另外也有報告指出，24AWG規格的纜線表現較28AWG好。另外也有人使用[光纖或兩條](../Page/光纖.md "wikilink")[CAT-5網路纜線來取代標準HDMI銅線](../Page/CAT-5.md "wikilink")。某些廠商也製造HDMI訊號增強器以因應使用者的需求。
+一些報告指出，增加纜線中銅線的直徑以降低[阻抗](../Page/阻抗.md "wikilink")，是有效延長纜線長度的方法之一。另外也有報告指出，24AWG規格的纜線表現較28AWG好。另外也有人使用[光纖或兩條](https://zh.wikipedia.org/wiki/光纖 "wikilink")[CAT-5網路纜線來取代標準HDMI銅線](../Page/CAT-5.md "wikilink")。某些廠商也製造HDMI訊號增強器以因應使用者的需求。
 
 現有單一一顆HDMI equalizer IC，可讓24AWG HDMI cable最大使用長度變成50公尺。
 
@@ -458,7 +460,7 @@ page](http://www.hdmi.com/learningcenter/faq.aspx#q7_1)當中記載：「我們�
   - **超高速HDMI (48G)**
 
 **標準HDMI**数据线可选支持HDMI版本特定的子技术规范，而**高速HDMI**數據線皆支援，如Deep
-Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太網路](../Page/乙太網路.md "wikilink")。HDMI
+Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")。HDMI
 2.1版本則提供新的48G線材規格，包含所有功能。\[5\]
 
 **主要規格**
@@ -780,35 +782,35 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td><p>49.152（IEC61937以及DST audio）</p></td>
 </tr>
 <tr class="odd">
-<td><p>最大<a href="../Page/色深.md" title="wikilink">色深</a>（bit/px）</p></td>
+<td><p>最大<a href="https://zh.wikipedia.org/wiki/色深" title="wikilink">色深</a>（bit/px）</p></td>
 <td><p>24</p></td>
 <td><p>48</p></td>
 <td><p>48</p></td>
 <td><p>48</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Truecolor.md" title="wikilink">24-bit/px</a> HDMI单通道最大分辨率</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Truecolor" title="wikilink">24-bit/px</a> HDMI单通道最大分辨率</p></td>
 <td><p>1920×1200p 60 Hz</p></td>
 <td><p>2560×1600p 75 Hz</p></td>
 <td><p>4096×2160p 24 Hz</p></td>
 <td><p>3840×2160p 60 Hz</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Deep_Color.md" title="wikilink">30-bit/px</a> HDMI单通道最大分辨率</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Color" title="wikilink">30-bit/px</a> HDMI单通道最大分辨率</p></td>
 <td></td>
 <td><p>2560×1600p 60 Hz</p></td>
 <td><p>3840×2160p 30 Hz</p></td>
 <td><p>3840×2160p 60 Hz</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Deep_Color.md" title="wikilink">36-bit/px</a> HDMI单通道最大分辨率</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Color" title="wikilink">36-bit/px</a> HDMI单通道最大分辨率</p></td>
 <td></td>
 <td><p>1920×1200p 75 Hz</p></td>
 <td><p>3840×2160p 25 Hz</p></td>
 <td><p>3840×2160p 50 Hz</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Deep_Color.md" title="wikilink">48-bit/px</a> HDMI单通道最大分辨率</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Color" title="wikilink">48-bit/px</a> HDMI单通道最大分辨率</p></td>
 <td></td>
 <td><p>1920×1200p 60 Hz</p></td>
 <td><p>3840×2160p 24 Hz</p></td>
@@ -836,7 +838,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/sRGB.md" title="wikilink">sRGB</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/sRGB" title="wikilink">sRGB</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -856,7 +858,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>8 声道<a href="../Page/脈衝編號調變.md" title="wikilink">LPCM</a>，192 <a href="../Page/Hertz#Order_of_magnitude.md" title="wikilink">kHz</a>，24 bit音频传输</p></td>
+<td><p>8 声道<a href="https://zh.wikipedia.org/wiki/脈衝編號調變" title="wikilink">LPCM</a>，192 <a href="https://zh.wikipedia.org/wiki/Hertz#Order_of_magnitude" title="wikilink">kHz</a>，24 bit音频传输</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -866,7 +868,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray Disc视频音频全分辨率支持</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blu-ray_Disc" title="wikilink">Blu-ray Disc视频音频全分辨率支持</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -906,7 +908,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Deep_Color.md" title="wikilink">Deep Color</a><a href="../Page/色深.md" title="wikilink">色深技术</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Color" title="wikilink">Deep Color</a><a href="https://zh.wikipedia.org/wiki/色深" title="wikilink">色深技术</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -916,7 +918,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/xvYCC.md" title="wikilink">xvYCC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/xvYCC" title="wikilink">xvYCC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -926,7 +928,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Auto_lip-sync.md" title="wikilink">自动声画同步</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Auto_lip-sync" title="wikilink">自动声画同步</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -936,7 +938,7 @@ Color和xvYCC等規範。標準與高速HDMI數據線皆可選配支援[乙太�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Dolby_TrueHD.md" title="wikilink">Dolby TrueHD音频</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dolby_TrueHD" title="wikilink">Dolby TrueHD音频</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1131,7 +1133,7 @@ HDMI是HDMI Licensing, LLC的登录商标。使用HDMI规格需缴付版权费�
 [Category:數碼顯示接口](https://zh.wikipedia.org/wiki/Category:數碼顯示接口 "wikilink")
 [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
 
-1.  HDCP管理機構，是[英特爾的](../Page/英特爾.md "wikilink")[子公司](../Page/子公司.md "wikilink")。
+1.  HDCP管理機構，是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[子公司](../Page/子公司.md "wikilink")。
 2.
 3.
 4.

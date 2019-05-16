@@ -1,4 +1,4 @@
-**`crontab`**命令常见于[Unix和](../Page/Unix.md "wikilink")[类Unix的](../Page/类Unix.md "wikilink")[操作系统之中](../Page/操作系统.md "wikilink")，用于设置周期性被执行的指令。该命令从标准输入设备读取指令，并将其存放于“crontab”文件中，以供之后读取和执行。该词来源于[希腊语chronos](../Page/希腊语.md "wikilink")（χρόνος），原意是时间。
+**`crontab`**命令常见于[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统之中](../Page/操作系统.md "wikilink")，用于设置周期性被执行的指令。该命令从标准输入设备读取指令，并将其存放于“crontab”文件中，以供之后读取和执行。该词来源于[希腊语chronos](https://zh.wikipedia.org/wiki/希腊语 "wikilink")（χρόνος），原意是时间。
 
 通常，**`crontab`**储存的指令被[守护进程激活](../Page/守护进程.md "wikilink")，`crond`常常在后台运行，每一分钟检查是否有预定的作业需要执行。这类作业一般称为**cron
 jobs**。
@@ -63,7 +63,7 @@ crontab文件的每一行均遵守特定的格式，由空格或tab分隔为数�
 `# 錯誤的例子：`
 ``1 2 3 4 5 touch ~/error_`date "+%Y%m%d"`.txt``
 
-在[守護進程发出的電子郵件中會見到錯誤訊息](../Page/守護進程.md "wikilink")：
+在[守護進程发出的電子郵件中會見到錯誤訊息](https://zh.wikipedia.org/wiki/守護進程 "wikilink")：
 
     /bin/sh: unexpected EOF while looking for `'''''''
 
@@ -109,18 +109,18 @@ crontab文件的每一行均遵守特定的格式，由空格或tab分隔为数�
 `>/dev/null 2>&1`
 
   - 在常用的[Vixie
-    cron中](../Page/Vixie_cron.md "wikilink")，也可以在文件的开始部分加入命令来关闭所有命令的邮件输出：
+    cron中](https://zh.wikipedia.org/wiki/Vixie_cron "wikilink")，也可以在文件的开始部分加入命令来关闭所有命令的邮件输出：
 
 `MAILTO=""`
 
 ## 其他话题
 
-  - [At](../Page/At_\(Unix\).md "wikilink")：在未来某个时间运行一个作业。
+  - [At](https://zh.wikipedia.org/wiki/At_\(Unix\) "wikilink")：在未来某个时间运行一个作业。
 
   - ：runs job on a periodic interval, anachronistically.
 
   - ：[Mac OS
-    X](../Page/Mac_OS_X.md "wikilink")／[Darwin](../Page/Darwin_\(操作系统\).md "wikilink")
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")／[Darwin](../Page/Darwin_\(操作系统\).md "wikilink")
     cron替代版本。
 
   - [Unix程序列表](../Page/Unix实用程序列表.md "wikilink")
@@ -135,7 +135,7 @@ crontab文件的每一行均遵守特定的格式，由空格或tab分隔为数�
     / UNIX中crontab的用法
   - [Opengroup's crontab
     specification](http://www.opengroup.org/onlinepubs/009695399/utilities/crontab.html)
-    - [UNIX 03正式文档](../Page/UNIX_03.md "wikilink")
+    - [UNIX 03正式文档](https://zh.wikipedia.org/wiki/UNIX_03 "wikilink")
   - [Crontab - Reference and Examples at
     mkaz.com](http://www.mkaz.com/ref/unix_cron.html)
 
@@ -145,9 +145,11 @@ crontab文件的每一行均遵守特定的格式，由空格或tab分隔为数�
     Windows](https://web.archive.org/web/20061127012624/http://www.kalab.com/freeware/cron/cron.htm)
   - [CVSweb for FreeBSD's
     cron](http://www.freebsd.org/cgi/cvsweb.cgi/src/usr.sbin/cron) -
-    [Paul Vixie的](../Page/Paul_Vixie.md "wikilink")1993 [Vixie
-    cron](../Page/Vixie_cron.md "wikilink") 3.0版本修补了一些错误
+    [Paul
+    Vixie的](https://zh.wikipedia.org/wiki/Paul_Vixie "wikilink")1993
+    [Vixie cron](https://zh.wikipedia.org/wiki/Vixie_cron "wikilink")
+    3.0版本修补了一些错误
   - [fcron](http://fcron.free.fr/) - vixiecron /
-    anacron的增强版本（[GPL](../Page/GNU_General_Public_License.md "wikilink")）
+    anacron的增强版本（[GPL](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")）
 
 [Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")

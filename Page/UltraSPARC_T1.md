@@ -1,6 +1,6 @@
 **UltraSPARC
-T1**是[昇陽電腦所研發的](../Page/昇陽電腦.md "wikilink")[微處理器](../Page/微處理器.md "wikilink")，而處理器還在開發階段時的研發[代號稱為](../Page/代號.md "wikilink")「Niagara，[尼亞加拉瀑布](../Page/尼亞加拉瀑布.md "wikilink")」，之後在2005年11月14日正式研發完成並發表。UltraSPARC
-T1是一顆[多核心](../Page/多核心.md "wikilink")（執行核）、[多线程](../Page/多线程.md "wikilink")（多執行緒）的[CPU](../Page/CPU.md "wikilink")，且針對[伺服器運算的運用需求而強化省電設計](../Page/伺服器.md "wikilink")，在1.2GHz運作時脈下的典型用電為72W（Watt，瓦、瓦特）。
+T1**是[昇陽電腦所研發的](../Page/昇陽電腦.md "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，而處理器還在開發階段時的研發[代號稱為](https://zh.wikipedia.org/wiki/代號 "wikilink")「Niagara，[尼亞加拉瀑布](https://zh.wikipedia.org/wiki/尼亞加拉瀑布 "wikilink")」，之後在2005年11月14日正式研發完成並發表。UltraSPARC
+T1是一顆[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")（執行核）、[多线程](../Page/多线程.md "wikilink")（多執行緒）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，且針對[伺服器運算的運用需求而強化省電設計](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，在1.2GHz運作時脈下的典型用電為72W（Watt，瓦、瓦特）。
 
 UltraSPARC
 T1衍生自UltraSPARC系列微處理器，它是昇陽電腦公司的第一顆多核多緒處理器，這顆處理器內可以有4個、6個、8個CPU核心，且每個核心最多可同時執掌、處理4個執行緒，如此UltraSPARC
@@ -13,16 +13,16 @@ T1的運作與昇陽電腦的高階對稱處理（SMP）系統很近似，它具
 
 [Pipeline_Niagara.svg](https://zh.wikipedia.org/wiki/File:Pipeline_Niagara.svg "fig:Pipeline_Niagara.svg")
 UltraSPARC
-T1是針對多緒執行而設計的特殊處理器，它運用新的架構來獲取高執行效率，而不是為單一個執行核心加入更多智慧化、[最優化的心力設計](../Page/最佳化.md "wikilink")，昇陽的目標是在同一時間內盡可能執行、處理多個執行緒，使每個執行核心的執行管線能達到最大的使用率。
+T1是針對多緒執行而設計的特殊處理器，它運用新的架構來獲取高執行效率，而不是為單一個執行核心加入更多智慧化、[最優化的心力設計](https://zh.wikipedia.org/wiki/最佳化 "wikilink")，昇陽的目標是在同一時間內盡可能執行、處理多個執行緒，使每個執行核心的執行管線能達到最大的使用率。
 
 此種作法目前來看似乎成效不錯，現有的基準標竿測試證實UltraSPARC
 T1內的每個執行核心確實更有效率，這是與約2001年的UltraSPARC
 III相比，UltraSPARC III是一顆單核、單緒，且能完整執行SPARC
-v9[指令集的處理器](../Page/指令集.md "wikilink")。
+v9[指令集的處理器](https://zh.wikipedia.org/wiki/指令集 "wikilink")。
 
 UltraSPARC
-T1內雖有8個執行核心，但每個執行核心的結構複雜度並不如現有的高階處理器，而且每個執行核心也不具備[超序執行](../Page/超序執行.md "wikilink")（out-of-order
-execution，簡稱：OOO，也稱[亂序執行](../Page/亂序執行.md "wikilink")）的能力，也沒有配屬大容量的[快取記憶體](../Page/快取記憶體.md "wikilink")。單緒型的處理器極倚賴大容量的快取記憶體來提升執行效能，原因是：一旦在快取記憶體中抓取不到所需的資料（稱為：漏失，miss）時，就必須從主記憶體中去提取（fetch）資料，而增加快取記憶體的容量可減少漏失的機率，不過即便如此，漏失對效能依然是很大的衝擊影響。
+T1內雖有8個執行核心，但每個執行核心的結構複雜度並不如現有的高階處理器，而且每個執行核心也不具備[超序執行](https://zh.wikipedia.org/wiki/超序執行 "wikilink")（out-of-order
+execution，簡稱：OOO，也稱[亂序執行](https://zh.wikipedia.org/wiki/亂序執行 "wikilink")）的能力，也沒有配屬大容量的[快取記憶體](https://zh.wikipedia.org/wiki/快取記憶體 "wikilink")。單緒型的處理器極倚賴大容量的快取記憶體來提升執行效能，原因是：一旦在快取記憶體中抓取不到所需的資料（稱為：漏失，miss）時，就必須從主記憶體中去提取（fetch）資料，而增加快取記憶體的容量可減少漏失的機率，不過即便如此，漏失對效能依然是很大的衝擊影響。
 
 相對的，UltraSPARC
 T1的核心是運用多執行緒的處理特性來避開快取漏失所造成的效能衝擊，當快取漏失發生時，核心會轉去處理另一個執行緒（在此假設還有其他可放置的待處理位置，每個核最多可執掌4個執行緒），在處理的同時，原先漏失的的需求資料，也會在這時候以背景作業的方式自外部主記憶體提取到處理器內。如此雖然每個執行緒的處理速度會較慢，但每個核心的整體處理進出量及運算利用率反而是大幅提高。而這也意味著快取漏失的衝擊影響被大幅降低，這樣UltraSPARC
@@ -34,7 +34,7 @@ UltraSPARC
 T1有其獨到的功效能力使其能專注、適合在特有的市場，而不是用在高階財務數字運算及超高效能的應用，它是鎖定在網路方面的高需求伺服運算上，如高流量的網站伺服器，這類的伺服運算會用到大量的執行緒，且各執行緒間沒有相依性，或者是沒有太高的相依性，各緒相當的個別獨立。
 
 不過，UltraSPARC
-T1的設計上也有個拘限，那就是整個處理器內僅有1個[浮點運算單元](../Page/浮點運算單元.md "wikilink")，且使用上由8個核心所共享，因此UltraSPARC
+T1的設計上也有個拘限，那就是整個處理器內僅有1個[浮點運算單元](https://zh.wikipedia.org/wiki/浮點運算單元 "wikilink")，且使用上由8個核心所共享，因此UltraSPARC
 T1不適合用來執行具有大量浮點運算的應用程式。然而，這顆處理器所想定的互联网服务器應用市場本就不常用到大量的浮點運算，昇陽電腦方面不认为在这个市场上這將成為一個問題。
 
 1.  \- **附註：***文章雖如此翻譯，但我持有另一個看法，即是昇陽電腦為了及早推出UltraSPARC
@@ -52,11 +52,11 @@ V9指令集支持能力，均可独立执行任何指令，理论上二进制代
 
 UltraSPARC T1是針對單顆CPU的系統所設計，所以它不具備對稱處理（SMP）能力，即由UltraSPARC
 T1组成的系统，最多只能有一颗多核心芯片。而未來昇陽的CMT
-UltraSPARC處理器，如Rock（研發代號）將會是多顆處理晶片的伺服器架構，多颗多核心Rock芯片将能组成[对称多处理机](../Page/对称多处理机.md "wikilink")（SMP）系统，进一步扩展运算能力。Rock處理器將鎖定在傳統資料運算工作，如資料庫執行。因此，Rock看來將成為昇陽電腦在SMP架構處理器上的新接替，預計會取代現有的UltraSPARC
+UltraSPARC處理器，如Rock（研發代號）將會是多顆處理晶片的伺服器架構，多颗多核心Rock芯片将能组成[对称多处理机](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")（SMP）系统，进一步扩展运算能力。Rock處理器將鎖定在傳統資料運算工作，如資料庫執行。因此，Rock看來將成為昇陽電腦在SMP架構處理器上的新接替，預計會取代現有的UltraSPARC
 III、UltraSPARC IV。
 
 與UltraSPARC T1不同的，Rock重視且強化浮點運算的能力。另外根據昇陽電腦的透露，Rock上將具有一種[Hardware
-Scout](../Page/Hardware_Scout.md "wikilink")（硬件侦测，硬體偵察）功能，是以多執行緒式的硬體線路設計讓Rock具有[数据預取](../Page/数据預取.md "wikilink")（prefetching）的能力。
+Scout](https://zh.wikipedia.org/wiki/Hardware_Scout "wikilink")（硬件侦测，硬體偵察）功能，是以多執行緒式的硬體線路設計讓Rock具有[数据預取](https://zh.wikipedia.org/wiki/数据預取 "wikilink")（prefetching）的能力。
 
 此外，Rock不是用來接替UltraSPARC T1，昇陽電腦已公開其[UltraSPARC
 T2](../Page/UltraSPARC_T2.md "wikilink")（Niagara 2）處理器的計畫，Niagara
@@ -70,7 +70,7 @@ T2](../Page/UltraSPARC_T2.md "wikilink")（Niagara 2）處理器的計畫，Niag
 ## 開放原碼
 
 2006年3月21日，昇陽電腦將UltraSPARC
-T1的相關原始程式碼，以[GPL](../Page/GPL.md "wikilink")（GNU
+T1的相關原始程式碼，以[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")（GNU
 General Public License）授權的方式加以公開公佈，而公開的項目包括：
 
   - UltraSPARC

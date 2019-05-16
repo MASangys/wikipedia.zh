@@ -1,6 +1,6 @@
 [Pictbridge_symbol.gif](https://zh.wikipedia.org/wiki/File:Pictbridge_symbol.gif "fig:Pictbridge_symbol.gif")
-**PictBridge**是由[照相机影像机器工业会](../Page/照相机影像机器工业会.md "wikilink")
-(CIPA)提出的[直接打印的](../Page/直接打印.md "wikilink")[工业标准](../Page/工业标准.md "wikilink")。该标准允许数字图像可以从[数码相机直接通过](../Page/数码相机.md "wikilink")[打印机打印](../Page/打印机.md "wikilink")，而不需要把数码相机连接到计算机上。标准的正式名称是“相机与影像产品协会标准DC-001
+**PictBridge**是由[照相机影像机器工业会](https://zh.wikipedia.org/wiki/照相机影像机器工业会 "wikilink")
+(CIPA)提出的[直接打印的](https://zh.wikipedia.org/wiki/直接打印 "wikilink")[工业标准](https://zh.wikipedia.org/wiki/工业标准 "wikilink")。该标准允许数字图像可以从[数码相机直接通过](../Page/数码相机.md "wikilink")[打印机打印](../Page/打印机.md "wikilink")，而不需要把数码相机连接到计算机上。标准的正式名称是“相机与影像产品协会标准DC-001
 — 2003
 影像设配的数字方案”。[1](https://web.archive.org/web/20040727141048/http://www.cipa.jp/english/pictbridge/FAQ_E_05122003.pdf)
 
@@ -12,20 +12,20 @@ PictBridge的出现使得任何PictBridge兼容的数码相机和打印机都可
 ## 历史
 
 [Directprint.jpg](https://zh.wikipedia.org/wiki/File:Directprint.jpg "fig:Directprint.jpg")
-2002年12月2日，六家数字影像巨头[佳能](../Page/佳能.md "wikilink")、[富士](../Page/富士.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[奥林巴斯](../Page/奥林巴斯.md "wikilink")、[爱普生和](../Page/爱普生.md "wikilink")[索尼联合推出了一个名为](../Page/索尼.md "wikilink")[直接打印标准](../Page/直接打印标准.md "wikilink")（Direct
+2002年12月2日，六家数字影像巨头[佳能](../Page/佳能.md "wikilink")、[富士](https://zh.wikipedia.org/wiki/富士 "wikilink")、[惠普](../Page/惠普.md "wikilink")、[奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")、[爱普生和](https://zh.wikipedia.org/wiki/爱普生 "wikilink")[索尼联合推出了一个名为](../Page/索尼.md "wikilink")[直接打印标准](https://zh.wikipedia.org/wiki/直接打印标准 "wikilink")（Direct
 Print
 Standard，简称DPS）的标准。符合标准的数码相机可以与符合标准的打印机相连，数码相机发送需要打印的图片数据，以及打印条件，打印机收到信息后进行打印。
 
 2003年2月3日，在直接打印标准的基础上，相机和影像产品协会（CIPA）主导形成了影像设备的数码照片方案（Digital Photo
 Solutions for Imaging Devices，简称PictBridge）。
 
-2005年4月，[诺基亚推出的](../Page/诺基亚.md "wikilink")[3G](../Page/3G.md "wikilink")[照相手机](../Page/照相手机.md "wikilink")6680支持PictBridge标准，成为第一个支持该标准的照相手机。
+2005年4月，[诺基亚推出的](../Page/诺基亚.md "wikilink")[3G](../Page/3G.md "wikilink")[照相手机](https://zh.wikipedia.org/wiki/照相手机 "wikilink")6680支持PictBridge标准，成为第一个支持该标准的照相手机。
 
 ## 技术标准
 
 [PictBridge_stack.jpg](https://zh.wikipedia.org/wiki/File:PictBridge_stack.jpg "fig:PictBridge_stack.jpg")
 PictBridge定义了与传输层独立的应用层接口，使得该标准可以在将来出现的物理接口上实现。
-新标准最初是把[USB作为物理介质](../Page/通用串行总线.md "wikilink")，[图片传输协议作为](../Page/图片传输协议.md "wikilink")[数据传输协议](../Page/数据.md "wikilink")。不需要个人电脑，只通过一根信号线把一台符合PictBridge标准的数码相机连接到符合PictBridge标准的打印机上，用户就可以容易地使用他们的数码相机控制打印设定，并输出高质量的图片。
+新标准最初是把[USB作为物理介质](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")，[图片传输协议作为](https://zh.wikipedia.org/wiki/图片传输协议 "wikilink")[数据传输协议](https://zh.wikipedia.org/wiki/数据 "wikilink")。不需要个人电脑，只通过一根信号线把一台符合PictBridge标准的数码相机连接到符合PictBridge标准的打印机上，用户就可以容易地使用他们的数码相机控制打印设定，并输出高质量的图片。
 
 ## 技术特性
 
@@ -36,7 +36,7 @@ PictBridge支持以下特性：
 
 1.  打印显示在数码相机的显示屏上的一张图片
 2.  通过数码相机的显示屏选择两张或多张图片进行打印
-3.  自动使用[DPOF设定进行打印](../Page/数字影像打印模式.md "wikilink")
+3.  自动使用[DPOF设定进行打印](https://zh.wikipedia.org/wiki/数字影像打印模式 "wikilink")
 4.  打印一张全部图片的索引片
 5.  打印全部图片。
 

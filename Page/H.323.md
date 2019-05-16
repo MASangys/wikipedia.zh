@@ -1,12 +1,12 @@
-**H.323协议**是[ITU-T提出的关于](../Page/ITU-T.md "wikilink")[视频电话及](../Page/视频电话.md "wikilink")[多媒体会议传输协议H](../Page/多媒体.md "wikilink").32x系列中的一部分。
+**H.323协议**是[ITU-T提出的关于](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[视频电话及](https://zh.wikipedia.org/wiki/视频电话 "wikilink")[多媒体会议传输协议H](../Page/多媒体.md "wikilink").32x系列中的一部分。
 
 ## 歷史
 
-第一版的 H.323 由 [ITU](../Page/ITU.md "wikilink")
+第一版的 H.323 由 [ITU](https://zh.wikipedia.org/wiki/ITU "wikilink")
 公布於1996年9月推出\[1\]。ITU-T在完成了在ISDN
-2Mbit/s上的视频电话及多媒体会议传输协议[H.320后](../Page/H.320.md "wikilink")，ITU-T又相继发布了具有相似功能的[H.310](../Page/H.310.md "wikilink")，[H.321工作于](../Page/H.321.md "wikilink")[ATM网络和使用了调制解调技术的](../Page/异步传输模式.md "wikilink")[H.324工作于](../Page/H.324.md "wikilink")[公共交换电话网](../Page/公共交换电话网.md "wikilink")（PSTN）以及没有来得及发布就淘汰的[H.322工作在Isochronous](../Page/H.322.md "wikilink")
+2Mbit/s上的视频电话及多媒体会议传输协议[H.320后](https://zh.wikipedia.org/wiki/H.320 "wikilink")，ITU-T又相继发布了具有相似功能的[H.310](https://zh.wikipedia.org/wiki/H.310 "wikilink")，[H.321工作于](https://zh.wikipedia.org/wiki/H.321 "wikilink")[ATM网络和使用了调制解调技术的](https://zh.wikipedia.org/wiki/异步传输模式 "wikilink")[H.324工作于](https://zh.wikipedia.org/wiki/H.324 "wikilink")[公共交换电话网](../Page/公共交换电话网.md "wikilink")（PSTN）以及没有来得及发布就淘汰的[H.322工作在Isochronous](https://zh.wikipedia.org/wiki/H.322 "wikilink")
 Ethernet. 直到1995年ITU-T发布了迄今为止被广泛采用的，最有前途的，也是在QoS（Quality of Service
-服务质量）上克服了众多困难，定义了完善的服务质量，提供较好的服务质量保证。H.323工作在[局域网](../Page/局域网.md "wikilink")，H.323为现有的分组网络（如IP网络）提供多媒体通信标准。若和其它的IP技术如[IETF的](../Page/IETF.md "wikilink")[资源预留协议](../Page/资源预留协议.md "wikilink")（RSVP）相结合，就可以实现IP网络的多媒体通信。它配合IP做为在OSI网络层的协议。它的最主要的目的是提供PBN在不同的网络之间进行多媒体通信互连互通的标准。
+服务质量）上克服了众多困难，定义了完善的服务质量，提供较好的服务质量保证。H.323工作在[局域网](../Page/局域网.md "wikilink")，H.323为现有的分组网络（如IP网络）提供多媒体通信标准。若和其它的IP技术如[IETF的](https://zh.wikipedia.org/wiki/IETF "wikilink")[资源预留协议](../Page/资源预留协议.md "wikilink")（RSVP）相结合，就可以实现IP网络的多媒体通信。它配合IP做为在OSI网络层的协议。它的最主要的目的是提供PBN在不同的网络之间进行多媒体通信互连互通的标准。
 
 关于H.323最初的版本是在1996年6月由ITU-T发布的，为各种通信行业提供了一个标准。最初的焦点只是在局域网上，因为当时Qos服务质量标准对于基于IP的广域网，例如Internet，还没有的很好的制定出。在1996年早期，H.323的应用明确的要求在广域网中得到应用，将语音通信做为唯一的目标，所以基于IP技术的H.323诞生了。随后，H.323继续向前发展，做为一个以IP技术应用为基础，集成了众多关于语音通信技术协议的平台。第一次主要的对这个协议做出的修改和添加内容，是由ITU-T在1998年1月发布的H.323版本2。在1999年9月，ITU-T发布H.323v3，合并了众多的长远的功能，并扩展了它的概念，这些工作使得H.323成为全球范围内数据IP电话及企业内部IP电话发展得基础。而且随后得时间更多得扩充被添加到H.323协议中，2000年11月17日H.323
 的第4版问世，添加了在很多重要的领域的扩充和改进。其中包括可靠性，可测量性，和灵活性。新的特性使它在市场要求网关和MCU不断升级中更加灵活的完成自身的升级。H.323
@@ -18,7 +18,7 @@ H.323是一個系統的規範，它使用多個ITU-T和IETF協議。H.323系統�
 
   - [H.225.0](../Page/H.225.md "wikilink")
     註冊（Registration），同意（Admission）和狀態（Status,
-    簡稱RAS），這是一個H.323終端和[Gatekeeper之間提供地址解析和准入控制服務](../Page/Gatekeeper.md "wikilink")。
+    簡稱RAS），這是一個H.323終端和[Gatekeeper之間提供地址解析和准入控制服務](https://zh.wikipedia.org/wiki/Gatekeeper "wikilink")。
   - H.225.0呼叫信令，這是兩個H.323實體之間的任何使用，以建立溝通。
   - [H.245的控制協議的多媒體通信](../Page/H.245.md "wikilink")（multimedia
     communication），它描述的消息和程序，用於能力交換，打開和關閉邏輯通道音頻，視頻和數據，控制和適應症。
@@ -26,10 +26,10 @@ H.323是一個系統的規範，它使用多個ITU-T和IETF協議。H.323系統�
 
 許多H.323系統還實現了在各個定義的其他協議ITU-T建議提供補充服務支持。
 
-  - [H.235系列介紹](../Page/H.235.md "wikilink")，包括信令和媒體的安全範圍內的H.323安全。
-  - [H.239描述了雙流使用的視頻會議](../Page/H.239.md "wikilink")，視頻直播，其他靜止圖像。
-  - [H.450系列介紹各種輔助服務](../Page/H.450.md "wikilink")。
-  - [H.460系列的定義](../Page/H.460.md "wikilink")，可能是由一個端點或Gatekeeper來實作選擇性擴展，包括ITU-T建議書，
+  - [H.235系列介紹](https://zh.wikipedia.org/wiki/H.235 "wikilink")，包括信令和媒體的安全範圍內的H.323安全。
+  - [H.239描述了雙流使用的視頻會議](https://zh.wikipedia.org/wiki/H.239 "wikilink")，視頻直播，其他靜止圖像。
+  - [H.450系列介紹各種輔助服務](https://zh.wikipedia.org/wiki/H.450 "wikilink")。
+  - [H.460系列的定義](https://zh.wikipedia.org/wiki/H.460 "wikilink")，可能是由一個端點或Gatekeeper來實作選擇性擴展，包括ITU-T建議書，
     H.460.17 ， \*H.460.18，和 H.460.19網絡地址轉換（NAT）/防火牆（FW）穿越。
 
 除了這些ITU-T建議，H.323還實現各種IETF 的RFC, 為媒體傳輸和媒體打包，包括實時傳輸協議 （RTP）。
@@ -47,7 +47,7 @@ H.323系統定義以提供豐富的多媒體通信功能的多個網絡元素。
 終端（Terminals）在H.323網路裡是最基本的要素，因為這些設備，用戶通常會遇到。他們可能會在一個簡單的IP電話（IP
 phone）或一個功能強大的high-definition視訊會議系統的形式存在。
 
-H.323終端裡面是一些被稱為[協議堆疊](../Page/協議堆疊.md "wikilink")（Protocol
+H.323終端裡面是一些被稱為[協議堆疊](https://zh.wikipedia.org/wiki/協議堆疊 "wikilink")（Protocol
 stack），實現H.323系統中定義的功能。 協議棧將包括ITU - T的建議
 H.225.0和H.245，以及RTP或以上描述的其他協議中定義的基本協議的執行情況。
 
@@ -136,7 +136,7 @@ H.323的擴展性在超大型應用中存在問題。例如H.323不能與[SS7整
 IETF
 發明會話發起協議（SIP），也可以通過IP語音和視頻通信的標準，SIP只使用6個指令管理呼叫控制資訊。也有其他的ITU-T建議用於視頻會議和可視電話服務-H.320（使用ISDN）和
 H.324（使用普通模擬電話線和3G手機）。一些供應商（如Skype），還可以使用自己的封閉專有格式。[Access
-Grid提供了大致相似的功能](../Page/Access_Grid.md "wikilink")，強調是open
+Grid提供了大致相似的功能](https://zh.wikipedia.org/wiki/Access_Grid "wikilink")，強調是open
 source以及multicast。EVO還提供通過Java的功能，包括對H.323的支持。媒體網路閘道控制協議（MGCP）是另一種解決方案。
 
 ## H.323系统ITU-T建议书

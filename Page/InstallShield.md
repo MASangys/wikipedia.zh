@@ -1,6 +1,6 @@
-**InstallShield**是由同名的公司制作的一款可以制作安装程序的开发套件。該公司自從2004年被[Macrovision所購併之後](../Page/:en:TiVo_Corporation.md "wikilink")，InstallShield產品納入Macrovision的FLEXnet產品系列，因此在原名前冠上FLEXnet而成為FLEXnet
+**InstallShield**是由同名的公司制作的一款可以制作安装程序的开发套件。該公司自從2004年被[Macrovision所購併之後](https://zh.wikipedia.org/wiki/:en:TiVo_Corporation "wikilink")，InstallShield產品納入Macrovision的FLEXnet產品系列，因此在原名前冠上FLEXnet而成為FLEXnet
 InstallShield。2008年，FLEXnet InstallShield被出售给私人股权投资公司[Thoma Cressey
-Bravo](../Page/:en:Thoma_Bravo.md "wikilink")\[1\]，并更名为Acresso软件公司。2009年10月，Acresso软件公司更名为[Flexera软件](../Page/:en:Flexera_Software.md "wikilink")\[2\]。
+Bravo](https://zh.wikipedia.org/wiki/:en:Thoma_Bravo "wikilink")\[1\]，并更名为Acresso软件公司。2009年10月，Acresso软件公司更名为[Flexera软件](https://zh.wikipedia.org/wiki/:en:Flexera_Software "wikilink")\[2\]。
 
 ## 特性
 

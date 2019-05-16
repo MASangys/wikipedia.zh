@@ -1,17 +1,18 @@
 [Power_Mac_G5_hero_left.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_G5_hero_left.jpg "fig:Power_Mac_G5_hero_left.jpg")。\]\]
 
 **Power Macintosh**（或簡稱**Power Mac**、**PPC
-Mac**，少部分中文使用者以直譯稱之為：**威力麥金塔**），是由美商[蘋果電腦公司](../Page/蘋果電腦.md "wikilink")（今[蘋果公司](../Page/蘋果公司.md "wikilink")）所設計生產的桌上型[個人電腦系列產品](../Page/個人電腦.md "wikilink")。
+Mac**，少部分中文使用者以直譯稱之為：**威力麥金塔**），是由美商[蘋果電腦公司](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")（今[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）所設計生產的桌上型[個人電腦系列產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
-繼 [Macintosh](../Page/Macintosh.md "wikilink")（麥金塔）系列產品之後，Power
-Macintosh在90年代中後期是蘋果電腦主要的硬體系列產品，機型則因不同的市場定位而有：平台式、直立式及含螢幕的一體成型式等各種設計，前期龐大繁雜的產品線並未對提升蘋果電腦在個人電腦的市佔率有所幫助（因其高昂的定價，或是部分價格雖較低廉但品質亦較差的授權相容機等因素，使得一般使用者多轉而採購一般PC產品），後期機種（1997年[賈伯斯返回蘋果電腦後](../Page/賈伯斯.md "wikilink")）雖然以精簡產品線、收回相容機生產授權、更具創意風格的外形設計、較為大眾化的硬體規格等方式力圖振作，但仍無法再創[Apple
-II或初期Macintosh般的成功](../Page/Apple_II.md "wikilink")，而賈伯斯也以[iPod等消費型電子產品帶領蘋果電腦走向轉型之路](../Page/iPod.md "wikilink")。Power
+繼
+[Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")（麥金塔）系列產品之後，Power
+Macintosh在90年代中後期是蘋果電腦主要的硬體系列產品，機型則因不同的市場定位而有：平台式、直立式及含螢幕的一體成型式等各種設計，前期龐大繁雜的產品線並未對提升蘋果電腦在個人電腦的市佔率有所幫助（因其高昂的定價，或是部分價格雖較低廉但品質亦較差的授權相容機等因素，使得一般使用者多轉而採購一般PC產品），後期機種（1997年[賈伯斯返回蘋果電腦後](https://zh.wikipedia.org/wiki/賈伯斯 "wikilink")）雖然以精簡產品線、收回相容機生產授權、更具創意風格的外形設計、較為大眾化的硬體規格等方式力圖振作，但仍無法再創[Apple
+II或初期Macintosh般的成功](../Page/Apple_II.md "wikilink")，而賈伯斯也以[iPod等消費型電子產品帶領蘋果電腦走向轉型之路](https://zh.wikipedia.org/wiki/iPod "wikilink")。Power
 Macintosh後為新產品[Mac Pro所取代](../Page/Mac_Pro.md "wikilink")。
 
 有別於麥金塔系列產品，名稱中的 "Power" 係指使用
-[PowerPC系列](../Page/PowerPC.md "wikilink")[處理器（CPU）](../Page/中央處理器.md "wikilink")（簡稱PPC）的產品系列，而後相對於Power
+[PowerPC系列](../Page/PowerPC.md "wikilink")[處理器（CPU）](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（簡稱PPC）的產品系列，而後相對於Power
 Mac系列，使用[摩托羅拉
-68000系列中央處理器的麥金塔系列產品則被使用者稱之為](../Page/摩托羅拉_68000.md "wikilink")68k系列、68k
+68000系列中央處理器的麥金塔系列產品則被使用者稱之為](https://zh.wikipedia.org/wiki/摩托羅拉_68000 "wikilink")68k系列、68k
 Mac。
 
 [Power_Mac_6100_60.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_6100_60.jpg "fig:Power_Mac_6100_60.jpg")
@@ -60,14 +61,15 @@ Macintosh G3/350、Power Macintosh G4/500或Power Macintosh G4 M.D.D.⋯等。
 
 ## 硬體架構
 
-硬體方面，前期機種採用[SCSI介面硬碟](../Page/SCSI.md "wikilink")/光碟機、[EDO
-RAM](../Page/EDO_RAM.md "wikilink")、（Apple Desktop Bus）介面⋯等。
+硬體方面，前期機種採用[SCSI介面硬碟](https://zh.wikipedia.org/wiki/SCSI "wikilink")/光碟機、[EDO
+RAM](https://zh.wikipedia.org/wiki/EDO_RAM "wikilink")、（Apple Desktop
+Bus）介面⋯等。
 
-從G3開始的後期機種改採[IDE介面硬碟](../Page/IDE.md "wikilink")/光碟機、[SDRAM](../Page/SDRAM.md "wikilink")、[USB介面](../Page/USB.md "wikilink")、[FireWire介面](../Page/FireWire.md "wikilink")⋯等。
+從G3開始的後期機種改採[IDE介面硬碟](https://zh.wikipedia.org/wiki/IDE "wikilink")/光碟機、[SDRAM](../Page/SDRAM.md "wikilink")、[USB介面](../Page/USB.md "wikilink")、[FireWire介面](https://zh.wikipedia.org/wiki/FireWire "wikilink")⋯等。
 
 ## 歷史
 
-1994年[蘋果推出了第一代Power](../Page/蘋果.md "wikilink")
+1994年[蘋果推出了第一代Power](https://zh.wikipedia.org/wiki/蘋果 "wikilink")
 Macintosh桌上型電腦，其型號為[6100、7100、8100](../Page/Pre-PCI_Power_Macintosh.md "wikilink")。嚴格講這個系列的產品只是將原先使用
 Motorola 68040 處理器的機種更換成使用 PowerPC 處理器，在主機板等硬體架構以及相關軟體未能針對 PowerPC
 處理器做出較佳的設計之下，因而使得整體效能並未大幅提升。例如：Power Macintosh 6100跟Centris
@@ -81,16 +83,16 @@ PowerPC版本，因而使效能獲得大幅改善；但過於繁雜龐大的產�
 Mac（Macintosh LC 630 DOS Compatible）也在1996年4月13日正式停產。
 
 1997年推出米白色 G3 系列，其中也包括Power
-Macintosh系列最後的平台式和一體成型式的二種機型；在主機板上增加了多數PC廣為使用的[ATA](../Page/ATA.md "wikilink")
+Macintosh系列最後的平台式和一體成型式的二種機型；在主機板上增加了多數PC廣為使用的[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")
 (IDE) 介面，放棄[EDO
-RAM而改為採用](../Page/EDO_RAM.md "wikilink")[SDRAM](../Page/SDRAM.md "wikilink")，並且配置新型大容量儲存裝置[zip
-Drive](../Page/zip_Drive.md "wikilink")（相對僅有1.44
-MB的3.5吋[軟碟而言](../Page/軟碟.md "wikilink")），此一轉變頗受多數使用者的歡迎；1999年1月，推出外觀有突破式改變的
+RAM而改為採用](https://zh.wikipedia.org/wiki/EDO_RAM "wikilink")[SDRAM](../Page/SDRAM.md "wikilink")，並且配置新型大容量儲存裝置[zip
+Drive](https://zh.wikipedia.org/wiki/zip_Drive "wikilink")（相對僅有1.44
+MB的3.5吋[軟碟而言](https://zh.wikipedia.org/wiki/軟碟 "wikilink")），此一轉變頗受多數使用者的歡迎；1999年1月，推出外觀有突破式改變的
 "Yosemite" （研發時期的代號），即後來被稱為“藍白機”的Power Macintosh G3 (Blue and
 White)，加入了在
-iMac上頗受好評的[USB埠以及](../Page/USB.md "wikilink")[FireWire埠](../Page/FireWire.md "wikilink")
+iMac上頗受好評的[USB埠以及](../Page/USB.md "wikilink")[FireWire埠](https://zh.wikipedia.org/wiki/FireWire "wikilink")
 (IEEE
-1394a)；更進一步的移除主機板上的[SCSI介面以及](../Page/SCSI.md "wikilink")埠，但部分傳統蘋果使用者對此轉變以及其外觀與配色有所質疑。
+1394a)；更進一步的移除主機板上的[SCSI介面以及](https://zh.wikipedia.org/wiki/SCSI "wikilink")埠，但部分傳統蘋果使用者對此轉變以及其外觀與配色有所質疑。
 
 在G3藍白機上市的短短八個月後，1999年8月G4發表上市，沿用藍白機的外形但將配色改為感覺較沈穩的石墨色配色，外觀設計上則做過二次小幅度的改變（不含Cube）；整體而言，G4系列在耗（電）能上甚至比後期的G5更為優秀（這點可以由G5始終無法推出筆記型產品佐證），但相對於其時如火如荼發展的Mac
 OS X作業系統，過低的運作效能（Mac OS X作業系統直到第三版才較為穩定，多數的使用者在G4時期仍沿用前期PPC的軟體與作業系統Mac
@@ -103,7 +105,7 @@ Cube”，其獨特的外觀與無內建風扇的設計曾轟動一時，並曾�
 Cooling System,
 LCS）以求有效降低CPU的溫度，但是卻在使用者使用一段時間後頻頻發生因為冷卻液外漏而導致內部元件（主機板、電源供應器...等）短路燒毀，反而造成大眾對於G5系列產品有著設計不良的惡劣觀感。再加上PowerPC
 CPU始終無法有效降低生產成本，並且在研發部分的技術瓶頸無法突破（註），更因為隨著新版的Mac OS
-X作業系統功能和軟體的日漸龐大複雜，以及[iMac與](../Page/iMac.md "wikilink")[MacBook
+X作業系統功能和軟體的日漸龐大複雜，以及[iMac與](https://zh.wikipedia.org/wiki/iMac "wikilink")[MacBook
 Pro改採用英特爾生產的處理器](../Page/MacBook_Pro.md "wikilink")，並獲得市場的正面反應之下，使得蘋果決定放棄繼續採用PowerPC
 CPU設計生產新世代產品。
 
@@ -112,7 +114,7 @@ CPU設計生產新世代產品。
 系列產品也正式走入歷史，同時接替上市的新產品系列命名為“[Mac
 Pro](../Page/Mac_Pro.md "wikilink")”。
 
-註：參見：[Apple的Intel平台遷移](../Page/Apple的Intel平台遷移.md "wikilink")。
+註：參見：[Apple的Intel平台遷移](https://zh.wikipedia.org/wiki/Apple的Intel平台遷移 "wikilink")。
 
 　
 
@@ -121,91 +123,102 @@ Pro](../Page/Mac_Pro.md "wikilink")”。
 ㄧ、PPC時期（採用PowerPC 601/603/603e/604/604e CPU）
 
 1994年 3月\~1995年 8月 [Power Macintosh
-6100](../Page/Power_Macintosh_6100.md "wikilink") /60 (PC), 60AV, 66
-(PC), 66AV
+6100](https://zh.wikipedia.org/wiki/Power_Macintosh_6100 "wikilink") /60
+(PC), 60AV, 66 (PC), 66AV
 
 　　　　　　　　　　　[Power Macintosh
-7100](../Page/Power_Macintosh_7100.md "wikilink") /66, 66AV, 80, 80AV
+7100](https://zh.wikipedia.org/wiki/Power_Macintosh_7100 "wikilink")
+/66, 66AV, 80, 80AV
 
 　　　　　　　　　　　[Power Macintosh
-8100](../Page/Power_Macintosh_8100.md "wikilink") /80, 80AV, 100, 100AV,
-110, 110AV
+8100](https://zh.wikipedia.org/wiki/Power_Macintosh_8100 "wikilink")
+/80, 80AV, 100, 100AV, 110, 110AV
 
 1995年 4月\~1996年 4月 [Power Macintosh
-5200](../Page/Power_Macintosh_5200.md "wikilink") /75 （註：含螢幕之All in
-One機型）
-
-1995年 5月\~1996年 7月 [Power Macintosh
-6200](../Page/Power_Macintosh_6200.md "wikilink") /75
-
-1995年 5月\~1997年 2月 [Power Macintosh
-9500](../Page/Power_Macintosh_9500.md "wikilink") /120, 132, 150, 180MP,
-200 （註：MP為雙CPU機種）
-
-1995年 8月\~1996年 4月 [Power Macintosh
-5300](../Page/Power_Macintosh_5300.md "wikilink") /100 LC （註：含螢幕之All in
-One機型）
-
-1995年 8月\~1996年 3月 [Power Macintosh
-7200](../Page/Power_Macintosh_7200.md "wikilink") /75, 90, 120 (PC), 200
-(PC)
-
-1995年 8月\~1996年 5月 [Power Macintosh
-7500](../Page/Power_Macintosh_7500.md "wikilink") /100
-
-1995年 8月\~1997年 2月 [Power Macintosh
-8500](../Page/Power_Macintosh_8500.md "wikilink") /120, 132, 150, 180
-
-1996年 1月\~1997年 2月 [Power Macintosh
-7215](../Page/Power_Macintosh_7215.md "wikilink") /90
-
-1996年 4月\~1997年 3月 [Power Macintosh
-5260](../Page/Power_Macintosh_5260.md "wikilink") /100, 120 （註：含螢幕之All
-in One機型）
-
-1996年 4月\~1998年 3月 [Power Macintosh
-5400](../Page/Power_Macintosh_5400.md "wikilink") /120, 180, 200
+5200](https://zh.wikipedia.org/wiki/Power_Macintosh_5200 "wikilink") /75
 （註：含螢幕之All in One機型）
 
-1996年 4月\~1997年12月 [Power Macintosh
-7600](../Page/Power_Macintosh_7600.md "wikilink") /120, 132, 200
+1995年 5月\~1996年 7月 [Power Macintosh
+6200](https://zh.wikipedia.org/wiki/Power_Macintosh_6200 "wikilink") /75
+
+1995年 5月\~1997年 2月 [Power Macintosh
+9500](https://zh.wikipedia.org/wiki/Power_Macintosh_9500 "wikilink")
+/120, 132, 150, 180MP, 200 （註：MP為雙CPU機種）
+
+1995年 8月\~1996年 4月 [Power Macintosh
+5300](https://zh.wikipedia.org/wiki/Power_Macintosh_5300 "wikilink")
+/100 LC （註：含螢幕之All in One機型）
+
+1995年 8月\~1996年 3月 [Power Macintosh
+7200](https://zh.wikipedia.org/wiki/Power_Macintosh_7200 "wikilink")
+/75, 90, 120 (PC), 200 (PC)
+
+1995年 8月\~1996年 5月 [Power Macintosh
+7500](https://zh.wikipedia.org/wiki/Power_Macintosh_7500 "wikilink")
+/100
+
+1995年 8月\~1997年 2月 [Power Macintosh
+8500](https://zh.wikipedia.org/wiki/Power_Macintosh_8500 "wikilink")
+/120, 132, 150, 180
+
+1996年 1月\~1997年 2月 [Power Macintosh
+7215](https://zh.wikipedia.org/wiki/Power_Macintosh_7215 "wikilink") /90
 
 1996年 4月\~1997年 3月 [Power Macintosh
-8200](../Page/Power_Macintosh_8200.md "wikilink") /100, 120
+5260](https://zh.wikipedia.org/wiki/Power_Macintosh_5260 "wikilink")
+/100, 120 （註：含螢幕之All in One機型）
+
+1996年 4月\~1998年 3月 [Power Macintosh
+5400](https://zh.wikipedia.org/wiki/Power_Macintosh_5400 "wikilink")
+/120, 180, 200 （註：含螢幕之All in One機型）
+
+1996年 4月\~1997年12月 [Power Macintosh
+7600](https://zh.wikipedia.org/wiki/Power_Macintosh_7600 "wikilink")
+/120, 132, 200
+
+1996年 4月\~1997年 3月 [Power Macintosh
+8200](https://zh.wikipedia.org/wiki/Power_Macintosh_8200 "wikilink")
+/100, 120
 
 1996年 7月\~1997年10月 [Power Macintosh
-6300](../Page/Power_Macintosh_6300.md "wikilink") /120
+6300](https://zh.wikipedia.org/wiki/Power_Macintosh_6300 "wikilink")
+/120
 
 1996年10月\~1997年 8月 [Power Macintosh
-6400](../Page/Power_Macintosh_6400.md "wikilink") /180, 200
+6400](https://zh.wikipedia.org/wiki/Power_Macintosh_6400 "wikilink")
+/180, 200
 
 1996年11月\~1997年 2月 [Power Macintosh
-4400](../Page/Power_Macintosh_4400.md "wikilink") /160, 200 (PC)
-（註：後改為7220）
+4400](https://zh.wikipedia.org/wiki/Power_Macintosh_4400 "wikilink")
+/160, 200 (PC) （註：後改為7220）
 
 1997年 2月\~1998年 3月 [Power Macintosh
-5500](../Page/Power_Macintosh_5500.md "wikilink") /225, 250 （註：含螢幕之All
-in One機型）
+5500](https://zh.wikipedia.org/wiki/Power_Macintosh_5500 "wikilink")
+/225, 250 （註：含螢幕之All in One機型）
 
 1997年 2月\~1998年 2月 [Power Macintosh
-7220](../Page/Power_Macintosh_7220.md "wikilink") /160, 200 (PC)
+7220](https://zh.wikipedia.org/wiki/Power_Macintosh_7220 "wikilink")
+/160, 200 (PC)
 
 1997年 2月\~1997年末　[Power Macintosh
-7300](../Page/Power_Macintosh_7300.md "wikilink") /166, 180 (PC), 200
+7300](https://zh.wikipedia.org/wiki/Power_Macintosh_7300 "wikilink")
+/166, 180 (PC), 200
 
 1997年 2月\~1998年 3月 [Power Macintosh
-6500](../Page/Power_Macintosh_6500.md "wikilink") /225, 250, 275, 300
+6500](https://zh.wikipedia.org/wiki/Power_Macintosh_6500 "wikilink")
+/225, 250, 275, 300
 
 1997年 2月\~1998年11月 [Power Macintosh
-8600](../Page/Power_Macintosh_8600.md "wikilink") /200, 250, 300
+8600](https://zh.wikipedia.org/wiki/Power_Macintosh_8600 "wikilink")
+/200, 250, 300
 
 1997年 2月\~1998年11月 [Power Macintosh
-9600](../Page/Power_Macintosh_9600.md "wikilink") /200, 200MP, 233, 300,
-350 （註：MP為雙CPU機種）
+9600](https://zh.wikipedia.org/wiki/Power_Macintosh_9600 "wikilink")
+/200, 200MP, 233, 300, 350 （註：MP為雙CPU機種）
 
 1997年 7月\~1998年 3月 [Twentieth Anniversary
-Macintosh](../Page/Twentieth_Anniversary_Macintosh.md "wikilink") /250 （
-註：限量生產的20週年紀念機，含螢幕之All in One機型）
+Macintosh](https://zh.wikipedia.org/wiki/Twentieth_Anniversary_Macintosh "wikilink")
+/250 （ 註：限量生產的20週年紀念機，含螢幕之All in One機型）
 
 二、G3/G4/G5時期
 
@@ -226,7 +239,8 @@ G3](../Page/Power_Macintosh_G3.md "wikilink") (Blue and White) /350,
 400, 450
 
 1999年 8月\~2001年 7月 [Power Mac
-G4](../Page/Power_Mac_G4.md "wikilink")（Graphite） 註：部分中文使用者稱為：G4石墨機。
+G4](https://zh.wikipedia.org/wiki/Power_Mac_G4 "wikilink")（Graphite）
+註：部分中文使用者稱為：G4石墨機。
 
 2000年 7月\~2001年 7月 [Power Mac G4
 Cube](../Page/Power_Mac_G4_Cube.md "wikilink")
@@ -234,26 +248,27 @@ Cube](../Page/Power_Mac_G4_Cube.md "wikilink")
 Mini』。
 
 2001年 7月\~2003年 1月 [Power Mac
-G4](../Page/Power_Mac_G4.md "wikilink")（Quicksilver） 註：部分中文使用者稱為：G4快銀。
+G4](https://zh.wikipedia.org/wiki/Power_Mac_G4 "wikilink")（Quicksilver）
+註：部分中文使用者稱為：G4快銀。
 
 2002年 8月\~2004年 6月 [Power Mac
-G4](../Page/Power_Mac_G4.md "wikilink")（Mirrored Drive Doors）
-註：部分使用者簡稱為：G4 M.D.D.。
+G4](https://zh.wikipedia.org/wiki/Power_Mac_G4 "wikilink")（Mirrored
+Drive Doors） 註：部分使用者簡稱為：G4 M.D.D.。
 
 2003年 6月\~2006年 8月 [Power Mac G5](../Page/Power_Mac_G5.md "wikilink")
 註：最後一代使用 [PowerPC](../Page/PowerPC.md "wikilink") 處理器的系列產品。
 
 ## 繼承
 
-一體成型款式：1998年[iMac發表上市並廣受好評以後](../Page/iMac.md "wikilink")，成為一項獨立的新產品系列，雖然[iMac](../Page/iMac.md "wikilink")（初代同樣採用G3
+一體成型款式：1998年[iMac發表上市並廣受好評以後](https://zh.wikipedia.org/wiki/iMac "wikilink")，成為一項獨立的新產品系列，雖然[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")（初代同樣採用G3
 CPU）從未被歸類為本系列，但是**Power
-Macintosh**系列產品在[iMac之後即不再推出一體成型款式的新機種](../Page/iMac.md "wikilink")，部分使用者將其視為某種程度上的繼承。
+Macintosh**系列產品在[iMac之後即不再推出一體成型款式的新機種](https://zh.wikipedia.org/wiki/iMac "wikilink")，部分使用者將其視為某種程度上的繼承。
 
 平台款式：2005年發表上市的[Mac
-mini被部分使用者將其視為某種程度上繼承自Power](../Page/Mac_mini.md "wikilink")
+mini被部分使用者將其視為某種程度上繼承自Power](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")
 Mac G4 Cube。
 
-直立款式：2006年採用[英特爾核心的](../Page/英特爾.md "wikilink") [Mac
+直立款式：2006年採用[英特爾核心的](https://zh.wikipedia.org/wiki/英特爾 "wikilink") [Mac
 Pro](../Page/Mac_Pro.md "wikilink") 繼承了Power Macintosh。
 
 　
@@ -264,11 +279,11 @@ Pro](../Page/Mac_Pro.md "wikilink") 繼承了Power Macintosh。
 
 <!-- end list -->
 
-  - [摩托羅拉 68000](../Page/摩托羅拉_68000.md "wikilink")
+  - [摩托羅拉 68000](https://zh.wikipedia.org/wiki/摩托羅拉_68000 "wikilink")
 
 <!-- end list -->
 
-  - [Macintosh](../Page/Macintosh.md "wikilink")
+  - [Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
 
 <!-- end list -->
 

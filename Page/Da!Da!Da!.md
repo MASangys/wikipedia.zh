@@ -1,8 +1,8 @@
-《**Da\!Da\!Da\!**》（）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[川村美香所創作的](../Page/川村美香.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")，後來被改編為[電視動畫](../Page/日本電視動畫.md "wikilink")，自2000年至2002年在日本[NHK衛星第2頻道首播](../Page/NHK衛星第2頻道.md "wikilink")，共78集。香港[無綫電視播映版本定名為](../Page/無綫電視.md "wikilink")-{《**外星BB撞地球**》}-，[Animax播映版本定名為](../Page/Animax.md "wikilink")《**外星人寶寶**》；台灣[普威爾代理定名為](../Page/普威爾.md "wikilink")-{《**幽浮寶貝**》}-，[東森幼幼台和](../Page/東森幼幼台.md "wikilink")[迪士尼頻道播放時沿用之](../Page/迪士尼頻道.md "wikilink")。其漫畫的續集是《新-{Da\!Da\!Da\!}-》。
+《**Da\!Da\!Da\!**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[川村美香所創作的](https://zh.wikipedia.org/wiki/川村美香 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，後來被改編為[電視動畫](../Page/日本電視動畫.md "wikilink")，自2000年至2002年在日本[NHK衛星第2頻道首播](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")，共78集。香港[無綫電視播映版本定名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")-{《**外星BB撞地球**》}-，[Animax播映版本定名為](../Page/Animax.md "wikilink")《**外星人寶寶**》；台灣[普威爾代理定名為](https://zh.wikipedia.org/wiki/普威爾 "wikilink")-{《**幽浮寶貝**》}-，[東森幼幼台和](../Page/東森幼幼台.md "wikilink")[迪士尼頻道播放時沿用之](../Page/迪士尼頻道.md "wikilink")。其漫畫的續集是《新-{Da\!Da\!Da\!}-》。
 
 ## 故事簡介
 
-中學二年級女生光月未夢的父母，因為要到[美國太空總署工作](../Page/美國太空總署.md "wikilink")，將未夢安排在朋友西遠寺寶晶的寺院中居住；但寶晶不久後也離開日本，到印度修行，剩下未夢和他的兒子西遠寺彷徨一起在寺院生活。而在未夢與彷徨共同生活的第一個晚上，有UFO從天而降，將從歐德星來的嬰兒小路及他的保姆寵物汪喵帶到西遠寺，自此，他們便與未夢和彷徨一起生活……
+中學二年級女生光月未夢的父母，因為要到[美國太空總署工作](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")，將未夢安排在朋友西遠寺寶晶的寺院中居住；但寶晶不久後也離開日本，到印度修行，剩下未夢和他的兒子西遠寺彷徨一起在寺院生活。而在未夢與彷徨共同生活的第一個晚上，有UFO從天而降，將從歐德星來的嬰兒小路及他的保姆寵物汪喵帶到西遠寺，自此，他們便與未夢和彷徨一起生活……
 
 ## 登場角色
 
@@ -34,7 +34,7 @@
     平時在地球向「郵購星」下訂單購買外星物品。
   -
     小路的寵物，來自邊境星球貝啵星。
-    在送往郵購星的途中誤墜地球，被誤認為玩偶，後來被彷徨玩[選物販賣機時抽中](../Page/選物販賣機.md "wikilink")。
+    在送往郵購星的途中誤墜地球，被誤認為玩偶，後來被彷徨玩[選物販賣機時抽中](https://zh.wikipedia.org/wiki/選物販賣機 "wikilink")。
     會飛行、尾巴末端會放出電力、食量驚人。
   -
     在漫畫版第9卷結尾和動畫版第78集登場，彷徨與未夢的女兒。
@@ -42,7 +42,7 @@
 #### 學校·相識關係
 
   -
-    14歲。9月2日出生。[處女座](../Page/處女宮.md "wikilink")。AB型。身高163cm，體重48kg。
+    14歲。9月2日出生。[處女座](https://zh.wikipedia.org/wiki/處女宮 "wikilink")。AB型。身高163cm，體重48kg。
     日法混血兒，暱稱“克莉絲”，家境非常富裕。是未夢和彷徨的同班同學。她喜歡彷徨。平時溫柔可親，但當見到有其他女孩接近彷徨時，便會胡思亂想，性情突變，而且力大無窮。喜歡的食品是櫻桃派。
     從漫畫原作第4卷知道小路能使用超能力的，不過在動畫版是到了第77集才知道，這樣存在很大的差異。
   -
@@ -53,7 +53,7 @@
     來自矢拉-{克}-星。最愛宇宙旅行。自稱貧窮的宇宙流浪者。
     對未夢及彷徨的關係極有興趣，曾多次假冒彷徨戲弄未夢。
   -
-    2月10日出生。[水瓶座](../Page/水瓶宮.md "wikilink")。B型。身高165cm，體重54kg。
+    2月10日出生。[水瓶座](https://zh.wikipedia.org/wiki/水瓶宮 "wikilink")。B型。身高165cm，體重54kg。
     未夢同班同學，與彷徨自小就是好友，名字是愛開玩笑的雙親在玩笑中取的。熱愛相機、電影及靈異事件。為天文社社團份子，喜歡與社團同學一起觀星。是多個社團的幽靈成員，長大後與偶像恭子交往。
   -
     8月24日出生。處女座。B型。身高156cm，體重46.5kg。
@@ -69,11 +69,11 @@
 #### 未夢·彷徨的雙親
 
   -
-    7月7日出生。[巨蟹座](../Page/巨蟹宮.md "wikilink")。A型。身高168cm。
+    7月7日出生。[巨蟹座](https://zh.wikipedia.org/wiki/巨蟹宮 "wikilink")。A型。身高168cm。
     未夢的母親。太空人，到美國接受訓練。高中時是西遠寺瞳的朋友。雖然以自我為中心，但很關心未夢。
     夢想是跟喜歡的人生下小孩、登上太空以及與外星人交流。
   -
-    4月4日出生。[白羊座](../Page/白羊宮.md "wikilink")。O型。身高179cm，體重68kg。
+    4月4日出生。[白羊座](https://zh.wikipedia.org/wiki/白羊宮 "wikilink")。O型。身高179cm，體重68kg。
     未夢的父親。地球物理學家，與光月未來與大學認識了一年後結婚，後來因被美國太空總署聘請負責開發宇宙船而搬到美國。
   -
     6月16日出生。[雙子座](../Page/雙子宮.md "wikilink")。B型。身高176cm，體重79kg。
@@ -85,7 +85,7 @@
 
   -
     6月21日出生。雙子座。O型。身高165cm，體重52kg。
-    克莉絲汀的堂哥，與未夢和彷徨同校，就讀二年七班，是委員會成員。對未夢一見鍾情。喜歡吃[黑輪](../Page/黑輪.md "wikilink")。
+    克莉絲汀的堂哥，與未夢和彷徨同校，就讀二年七班，是委員會成員。對未夢一見鍾情。喜歡吃[黑輪](https://zh.wikipedia.org/wiki/黑輪 "wikilink")。
 
 ### 動畫限定
 
@@ -118,7 +118,7 @@
 ### 客串
 
   - （原作3卷、動畫33 - 34話）
-    9月28日出生。[天秤座](../Page/天秤宮.md "wikilink")。AB型。身高167cm，體重47kg。
+    9月28日出生。[天秤座](https://zh.wikipedia.org/wiki/天秤宮 "wikilink")。AB型。身高167cm，體重47kg。
     彷徨的青梅竹馬，很喜歡彷徨，由於父母要移民，所以與彷徨分開了。後來重新見面。
   - （原作5,9卷、動畫26,27,77話）
     歐德星人。搭乘歐德星救助船到地球外迎接來被時空扭曲帶送走的小路和汪喵。
@@ -146,7 +146,7 @@
   - （動畫66話）
     梅之樹幼稚園梅子班三號學生，喜歡小路，因此與桃香成為情敵，後來成為好友。
   -
-    阿福（福祿壽）（聲：[八木光生](../Page/八木光生.md "wikilink")）、阿弁（弁財天）（導遊）（聲：[麻生加穗里](../Page/麻生加穗里.md "wikilink")）、阿恵比（恵比壽神）（聲：[鈴木琢磨](../Page/鈴木琢磨.md "wikilink")）、阿大（大黑天）（聲：[永野廣一](../Page/永野廣一.md "wikilink")）、阿布（布袋和尚）（聲：[田中完](../Page/田中完.md "wikilink")）、阿毘沙（毘沙門天）（聲：[志村知幸](../Page/志村知幸.md "wikilink")）、阿壽（壽老人）（聲：[平野俊隆](../Page/平野俊隆.md "wikilink")）。（動畫71話）
+    阿福（福祿壽）（聲：[八木光生](../Page/八木光生.md "wikilink")）、阿弁（弁財天）（導遊）（聲：[麻生加穗里](https://zh.wikipedia.org/wiki/麻生加穗里 "wikilink")）、阿恵比（恵比壽神）（聲：[鈴木琢磨](../Page/鈴木琢磨.md "wikilink")）、阿大（大黑天）（聲：[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")）、阿布（布袋和尚）（聲：[田中完](../Page/田中完.md "wikilink")）、阿毘沙（毘沙門天）（聲：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")）、阿壽（壽老人）（聲：[平野俊隆](https://zh.wikipedia.org/wiki/平野俊隆 "wikilink")）。（動畫71話）
     隨宇宙老人協會的地球觀光旅行團到西遠寺參觀。
   - （原作2巻、動畫各話）
     和長髮武田鐵矢相似。原作的名字叫「金九」。
@@ -256,7 +256,7 @@
 
   - 原作 - 川村美香
   - 監督 - [櫻井弘明](../Page/櫻井弘明.md "wikilink")
-  - 系列構成 - [金春智子](../Page/金春智子.md "wikilink")
+  - 系列構成 - [金春智子](https://zh.wikipedia.org/wiki/金春智子 "wikilink")
   - 人物設定 - 音地正行
   - 美術監督 - 小林七郎
   - 攝影 - 黑澤豐
@@ -264,40 +264,41 @@
   - 音響監督 - 中野徹
   - 動畫製作人 - [松倉友二](../Page/松倉友二.md "wikilink")、佐藤孝
   - 製作人 - 近藤榮三
-  - 動畫製作 - [J.C.STAFF](../Page/J.C.STAFF.md "wikilink")
+  - 動畫製作 -
+    [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 共同制作 -
-  - 制作・著作 - [NHK](../Page/日本放送協會.md "wikilink")
+  - 制作・著作 - [NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")
 
 ### 配音員
 
-| 角色          | 日本配音員                                | 香港配音員                                                                 | 台灣配音員                                    |
-| ----------- | ------------------------------------ | --------------------------------------------------------------------- | ---------------------------------------- |
-| 光月未夢        | [名塚佳織](../Page/名塚佳織.md "wikilink")   | [曾秀清](../Page/曾秀清.md "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink") |
-| 西遠寺彷徨       | [三瓶由布子](../Page/三瓶由布子.md "wikilink") | [袁淑珍](../Page/袁淑珍.md "wikilink")                                      | [于正昇](../Page/于正昇.md "wikilink")         |
-| 汪喵／威貓       | [千葉千惠巳](../Page/千葉千惠巳.md "wikilink") | [雷碧娜](../Page/雷碧娜.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 小路／路路       | [金井美香](../Page/金井美香.md "wikilink")   | [劉蕙雲](../Page/劉蕙雲.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 光月優         | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")   | [雷霆](../Page/雷霆.md "wikilink")                                        | [于正昇](../Page/于正昇.md "wikilink")         |
-| 光月未來        | [皆口裕子](../Page/皆口裕子.md "wikilink")   | [沈小蘭](../Page/沈小蘭.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 夜星星矢        | [真田麻美](../Page/真田麻美.md "wikilink")   | [蔡惠萍](../Page/蔡惠萍.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 夜星流         | [野田順子](../Page/野田順子.md "wikilink")   | [陸惠玲](../Page/陸惠玲.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 花小町克莉絲汀／姬絲汀 | [池澤春菜](../Page/池澤春菜.md "wikilink")   | [林元春](../Page/林元春.md "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（代配） | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 花小町桃香       | [西村千奈美](../Page/西村千奈美.md "wikilink") | [陳凱婷](../Page/陳凱婷.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 山川蜜柑        | [金井美香](../Page/金井美香.md "wikilink")   | [黃鳳英](../Page/黃鳳英.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 山川水樹        | [鈴木千尋](../Page/鈴木千尋.md "wikilink")   | [鄺樹培](../Page/鄺樹培.md "wikilink")→[雷霆](../Page/雷霆.md "wikilink")       | [于正昇](../Page/于正昇.md "wikilink")         |
-| 貝啵／波波       | [德永愛](../Page/德永愛.md "wikilink")     | [林丹鳳](../Page/林丹鳳.md "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink") |
-| 西遠寺寶晶       | [緒方賢一](../Page/緒方賢一.md "wikilink")   | [盧國權](../Page/盧國權.md "wikilink")                                      | [孫中台](../Page/孫中台.md "wikilink")         |
-| 西遠寺曈        | [玉川砂記子](../Page/玉川砂記子.md "wikilink") | [蔡惠萍](../Page/蔡惠萍.md "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink") |
-| 天地奈奈美       | [白倉麻子](../Page/白倉麻子.md "wikilink")   | [黃麗芳](../Page/黃麗芳.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 小西綾         | [榎本溫子](../Page/榎本溫子.md "wikilink")   | [梁少霞](../Page/梁少霞.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 黑須三太        | [時田光](../Page/時田光.md "wikilink")     | [沈小蘭](../Page/沈小蘭.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 光丘望／光之丘望    | [山本泰輔](../Page/山本泰輔.md "wikilink")   | [梁偉德](../Page/梁偉德.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 水野老師        | [遠藤勝代](../Page/遠藤勝代.md "wikilink")   | [盧素娟](../Page/盧素娟.md "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink") |
-| 諸星輝         | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink") | [雷霆](../Page/雷霆.md "wikilink")                                        | [于正昇](../Page/于正昇.md "wikilink")         |
-| 多利安         | [望月久代](../Page/望月久代.md "wikilink")   | [梁少霞](../Page/梁少霞.md "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")         |
-| 琦偉          | [尤加奈](../Page/尤加奈.md "wikilink")     | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink") |
-| 嘉雯          | [長澤美樹](../Page/長澤美樹.md "wikilink")   | [黃鳳英](../Page/黃鳳英.md "wikilink")                                      | [詹雅菁](../Page/詹雅菁.md "wikilink")         |
-| 鹿田          | [安井邦彥](../Page/安井邦彥.md "wikilink")   | [盧國權](../Page/盧國權.md "wikilink")                                      | [于正昇](../Page/于正昇.md "wikilink")         |
-| 校長          | [坂東尚樹](../Page/坂東尚樹.md "wikilink")   | [林保全](../Page/林保全.md "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（幼年） | [孫中台](../Page/孫中台.md "wikilink")         |
+| 角色          | 日本配音員                                                 | 香港配音員                                                                                    | 台灣配音員                                               |
+| ----------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 光月未夢        | [名塚佳織](../Page/名塚佳織.md "wikilink")                    | [曾秀清](../Page/曾秀清.md "wikilink")                                                         | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
+| 西遠寺彷徨       | [三瓶由布子](../Page/三瓶由布子.md "wikilink")                  | [袁淑珍](../Page/袁淑珍.md "wikilink")                                                         | [于正昇](../Page/于正昇.md "wikilink")                    |
+| 汪喵／威貓       | [千葉千惠巳](../Page/千葉千惠巳.md "wikilink")                  | [雷碧娜](../Page/雷碧娜.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 小路／路路       | [金井美香](../Page/金井美香.md "wikilink")                    | [劉蕙雲](https://zh.wikipedia.org/wiki/劉蕙雲 "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 光月優         | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")                    | [雷霆](../Page/雷霆.md "wikilink")                                                           | [于正昇](../Page/于正昇.md "wikilink")                    |
+| 光月未來        | [皆口裕子](../Page/皆口裕子.md "wikilink")                    | [沈小蘭](../Page/沈小蘭.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 夜星星矢        | [真田麻美](../Page/真田麻美.md "wikilink")                    | [蔡惠萍](../Page/蔡惠萍.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 夜星流         | [野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink") | [陸惠玲](../Page/陸惠玲.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 花小町克莉絲汀／姬絲汀 | [池澤春菜](../Page/池澤春菜.md "wikilink")                    | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（代配） | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 花小町桃香       | [西村千奈美](../Page/西村千奈美.md "wikilink")                  | [陳凱婷](../Page/陳凱婷.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 山川蜜柑        | [金井美香](../Page/金井美香.md "wikilink")                    | [黃鳳英](../Page/黃鳳英.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 山川水樹        | [鈴木千尋](../Page/鈴木千尋.md "wikilink")                    | [鄺樹培](../Page/鄺樹培.md "wikilink")→[雷霆](../Page/雷霆.md "wikilink")                          | [于正昇](../Page/于正昇.md "wikilink")                    |
+| 貝啵／波波       | [德永愛](https://zh.wikipedia.org/wiki/德永愛 "wikilink")   | [林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")                                      | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
+| 西遠寺寶晶       | [緒方賢一](../Page/緒方賢一.md "wikilink")                    | [盧國權](../Page/盧國權.md "wikilink")                                                         | [孫中台](../Page/孫中台.md "wikilink")                    |
+| 西遠寺曈        | [玉川砂記子](../Page/玉川砂記子.md "wikilink")                  | [蔡惠萍](../Page/蔡惠萍.md "wikilink")                                                         | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
+| 天地奈奈美       | [白倉麻子](https://zh.wikipedia.org/wiki/白倉麻子 "wikilink") | [黃麗芳](../Page/黃麗芳.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 小西綾         | [榎本溫子](../Page/榎本溫子.md "wikilink")                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")                                      | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 黑須三太        | [時田光](https://zh.wikipedia.org/wiki/時田光 "wikilink")   | [沈小蘭](../Page/沈小蘭.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 光丘望／光之丘望    | [山本泰輔](https://zh.wikipedia.org/wiki/山本泰輔 "wikilink") | [梁偉德](../Page/梁偉德.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 水野老師        | [遠藤勝代](https://zh.wikipedia.org/wiki/遠藤勝代 "wikilink") | [盧素娟](../Page/盧素娟.md "wikilink")                                                         | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
+| 諸星輝         | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")                  | [雷霆](../Page/雷霆.md "wikilink")                                                           | [于正昇](../Page/于正昇.md "wikilink")                    |
+| 多利安         | [望月久代](../Page/望月久代.md "wikilink")                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")                                      | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
+| 琦偉          | [尤加奈](../Page/尤加奈.md "wikilink")                      | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                                                         | [林美秀](../Page/林美秀_\(配音員\).md "wikilink")            |
+| 嘉雯          | [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink") | [黃鳳英](../Page/黃鳳英.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 鹿田          | [安井邦彥](../Page/安井邦彥.md "wikilink")                    | [盧國權](../Page/盧國權.md "wikilink")                                                         | [于正昇](../Page/于正昇.md "wikilink")                    |
+| 校長          | [坂東尚樹](https://zh.wikipedia.org/wiki/坂東尚樹 "wikilink") | [林保全](../Page/林保全.md "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（幼年）                    | [孫中台](../Page/孫中台.md "wikilink")                    |
 
 ### 主題曲
 
@@ -348,7 +349,7 @@
 
 ### 獎項
 
-  - [2002兒歌金曲頒獎典禮](../Page/2002年度兒歌金曲頒獎典禮得獎名單.md "wikilink")－－「十大兒歌金曲」・「兒歌金曲銅獎」-《外星BB》
+  - [2002兒歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2002年度兒歌金曲頒獎典禮得獎名單 "wikilink")－－「十大兒歌金曲」・「兒歌金曲銅獎」-《外星BB》
 
 ### 動畫各集標題
 

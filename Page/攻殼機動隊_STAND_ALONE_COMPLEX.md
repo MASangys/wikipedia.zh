@@ -1,10 +1,10 @@
 《**攻殼機動隊 STAND ALONE COMPLEX**》（簡稱：**攻殼機動隊
-S.A.C.**）是一部[日本](../Page/日本.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")，改編自[士郎正宗原作的](../Page/士郎正宗.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》。於2002年播映，全26話。獲選為2002年[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門第六回動畫優秀獎](../Page/文化廳媒體藝術祭.md "wikilink")。
+S.A.C.**）是一部[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自[士郎正宗原作的](../Page/士郎正宗.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》。於2002年播映，全26話。獲選為2002年[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門第六回動畫優秀獎](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 相較於原作漫畫及電影改編的故事以「人偶師」為主軸而進行，在本作的故事中主角草薙素子並未遇見人偶師，而繼續留在公安九課之中。因此本作品可視為與其他作品無關的平行世界。
 
 由於本作品廣受好評，製作公司又推出了第二部電視動畫《[攻殼機動隊 S.A.C 2nd
-GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延續第一部動畫的設定而劇情的時間設定則為第一部動畫之後發生的事情。
+GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C_2nd_GIG "wikilink")》，人物繼續延續第一部動畫的設定而劇情的時間設定則為第一部動畫之後發生的事情。
 
 ## 劇情簡介
 
@@ -29,7 +29,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
   - **波瑪（日文：ボーマ）**：經常與帕茲一起行動，设备、武器、爆破专家，有時也會幫忙石川進行情報收集，全身幾乎完全義體化。男性、身高
     200 公分。
   - **帕茲（日文：パズ）**：一個沉默寡言又愛抽菸的男人，万事通，義體化項目不明。身高 177 公分。
-  - **[攻殼車](../Page/攻殼車.md "wikilink")（「塔奇克馬」，日文：タチコマ）**：配屬於公安九課的小型「思考戰車」，共九架。擁有高度的人工智慧，能獨立作戰。可供一名人類操作。
+  - **[攻殼車](https://zh.wikipedia.org/wiki/攻殼車 "wikilink")（「塔奇克馬」，日文：タチコマ）**：配屬於公安九課的小型「思考戰車」，共九架。擁有高度的人工智慧，能獨立作戰。可供一名人類操作。
 
 （與其它關聯作品之差異請詳見*[公安九課](../Page/公安九課.md "wikilink")*）
 
@@ -73,8 +73,9 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <!-- end list -->
 
   - **馬賽羅‧賈提（日文：マルセロ）**：**捷諾馬**的民主革命指導者，兼捷諾馬軍事顧問，同時也是南美的[毒品大王](../Page/毒品.md "wikilink")，是引導捷諾馬革命邁向成功的功臣。包含
-    **[SAS](../Page/英國空降特勤隊.md "wikilink")** 及 **Delta**
-    策劃的暗殺在內，在劇中至少遭到六次暗殺，但本人實際上早已死亡，於其後出現的皆是經過[靈魂複製的替身](../Page/靈魂.md "wikilink")。
+    **[SAS](https://zh.wikipedia.org/wiki/英國空降特勤隊 "wikilink")** 及
+    **Delta**
+    策劃的暗殺在內，在劇中至少遭到六次暗殺，但本人實際上早已死亡，於其後出現的皆是經過[靈魂複製的替身](https://zh.wikipedia.org/wiki/靈魂 "wikilink")。
 
 <!-- end list -->
 
@@ -83,7 +84,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 
 <!-- end list -->
 
-  - **岩崎**：日本醫療科技公司董事長，全身義體化，採用**詹姆森（Jameson）**型的義體，有[關西腔](../Page/關西腔.md "wikilink")，經常出現在附於每話之後的"**[攻殼車的日常生活](../Page/攻殼車的日常生活.md "wikilink")**"小[劇場](../Page/劇場.md "wikilink")。
+  - **岩崎**：日本醫療科技公司董事長，全身義體化，採用**詹姆森（Jameson）**型的義體，有[關西腔](https://zh.wikipedia.org/wiki/關西腔 "wikilink")，經常出現在附於每話之後的"**[攻殼車的日常生活](https://zh.wikipedia.org/wiki/攻殼車的日常生活 "wikilink")**"小[劇場](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 <!-- end list -->
 
@@ -96,9 +97,9 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
   - 企劃 - [石川光久](../Page/石川光久.md "wikilink")、渡辺繁
   - 監督、系列構成 - [神山健治](../Page/神山健治.md "wikilink")
   - 人物設計 - 下村一
-  - 機械設計 - [寺岡賢司](../Page/寺岡賢司.md "wikilink")、常木志伸
+  - 機械設計 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")、常木志伸
   - 美術監督 - 竹田悠介
-  - 美術設定 - [加藤浩](../Page/加藤浩.md "wikilink")
+  - 美術設定 - [加藤浩](https://zh.wikipedia.org/wiki/加藤浩 "wikilink")
   - 色彩設定 - 片山由美子
   - 特殊效果 - 村上正博
   - 攝影監督 - 田中宏侍
@@ -108,35 +109,38 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
   - 音樂 - [菅野洋子](../Page/菅野洋子.md "wikilink")
   - 音樂製作人 - 太田敏明
   - 音樂監督 - 石川吉元
-  - 音樂製作 - [勝利娛樂](../Page/勝利娛樂.md "wikilink")
+  - 音樂製作 - [勝利娛樂](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
   - 製作人 - 松家雄一郎、杉田敦
   - 動畫製作 - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - 製作 - 攻殻機動隊[製作委員會](../Page/製作委員會.md "wikilink")（Production
-    I.G、[萬代影視](../Page/萬代影視.md "wikilink")、萬代娛樂、[電通](../Page/電通.md "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
+  - 製作 -
+    攻殻機動隊[製作委員會](https://zh.wikipedia.org/wiki/製作委員會 "wikilink")（Production
+    I.G、[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")、萬代娛樂、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日本電視台](../Page/日本電視台.md "wikilink")、[德間書店](../Page/德間書店.md "wikilink")、勝利娛樂、MANGA娛樂）
 
 ## 配音員
 
   - **草薙素子**：[田中敦子](../Page/田中敦子.md "wikilink")
-  - **荒卷大輔**：[阪修](../Page/阪修.md "wikilink")
+  - **荒卷大輔**：[阪修](https://zh.wikipedia.org/wiki/阪修 "wikilink")
   - **巴特**：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - **德古沙**：[山寺宏一](../Page/山寺宏一.md "wikilink")
-  - **石川**：[仲野裕](../Page/仲野裕.md "wikilink")
+  - **石川**：[仲野裕](https://zh.wikipedia.org/wiki/仲野裕 "wikilink")
   - **齋藤**：[大川透](../Page/大川透.md "wikilink")
-  - **帕茲**：[小野塚貴志](../Page/小野塚貴志.md "wikilink")
-  - **波瑪**：[山口太郎](../Page/山口太郎.md "wikilink")
-  - **攻殼車**：[玉川紗己子](../Page/玉川紗己子.md "wikilink")
+  - **帕茲**：[小野塚貴志](https://zh.wikipedia.org/wiki/小野塚貴志 "wikilink")
+  - **波瑪**：[山口太郎](https://zh.wikipedia.org/wiki/山口太郎 "wikilink")
+  - **攻殼車**：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
 
 ## 主題歌
 
 ### 片頭曲
 
   - 「inner universe」
-    作詞 - Origa、[Shanti Snyder](../Page/Shanti_Snyder.md "wikilink") /
-    作曲・編曲 - [菅野羊子](../Page/菅野羊子.md "wikilink") / 歌 -
-    [Origa](../Page/Origa.md "wikilink")
+    作詞 - Origa、[Shanti
+    Snyder](https://zh.wikipedia.org/wiki/Shanti_Snyder "wikilink") /
+    作曲・編曲 - [菅野羊子](https://zh.wikipedia.org/wiki/菅野羊子 "wikilink")
+    / 歌 - [Origa](../Page/Origa.md "wikilink")
   - 「GET9」
-    作詞 - [Tim Jensen](../Page/Tim_Jensen.md "wikilink") / 作曲・編曲 - 菅野洋子 /
-    歌 - jillmax
+    作詞 - [Tim
+    Jensen](https://zh.wikipedia.org/wiki/Tim_Jensen "wikilink") / 作曲・編曲
+    - 菅野洋子 / 歌 - jillmax
       - 電視上放送時
 
 ### 片尾曲
@@ -144,11 +148,12 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
   - 「lithium flower」
     作詞 - Tim Jensen / 作曲・編曲 - 菅野よう子 / 歌 - Scott Matthew
   - 「I do」
-    作詞・歌 - [Ilaria Graziano](../Page/Ilaria_Graziano.md "wikilink") /
-    作曲、編曲 - 菅野洋子
+    作詞・歌 - [Ilaria
+    Graziano](https://zh.wikipedia.org/wiki/Ilaria_Graziano "wikilink")
+    / 作曲、編曲 - 菅野洋子
       - 電視上放送時
     ※也是在《[攻殻機動隊 S.A.C. 2nd
-    GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")》當中的插入曲。
+    GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")》當中的插入曲。
 
 ## 各話列表
 
@@ -159,11 +164,11 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>日文標題（中文標題）<br />
-<span style="font-size:95%">英文標題 (參照<a href="../Page/英語維基百科.md" title="wikilink">英語維基百科</a>)</span></p></th>
-<th><p><a href="../Page/腳本.md" title="wikilink">腳本</a></p></th>
+<span style="font-size:95%">英文標題 (參照<a href="https://zh.wikipedia.org/wiki/英語維基百科" title="wikilink">英語維基百科</a>)</span></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/腳本" title="wikilink">腳本</a></p></th>
 <th><p><a href="../Page/分鏡.md" title="wikilink">分鏡</a></p></th>
-<th><p><a href="../Page/演出.md" title="wikilink">演出</a></p></th>
-<th><p><a href="../Page/作畫監督.md" title="wikilink">作畫監督</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/演出" title="wikilink">演出</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/作畫監督" title="wikilink">作畫監督</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -180,7 +185,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p>2</p></td>
 <td><p><strong> <em>TESTATION</em></strong>（暴走的證明）<br />
 <span style="font-size:95%"><em>SA: Runaway Evidence – TESTATION</em></span></p></td>
-<td><p><a href="../Page/藤咲淳一.md" title="wikilink">藤咲淳一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤咲淳一" title="wikilink">藤咲淳一</a></p></td>
 <td><p>河野利幸</p></td>
 <td><p>浅野恭司<br />
 玄馬宣彦(機械)</p></td>
@@ -190,7 +195,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p>3</p></td>
 <td><p><strong> <em>ANDROID AND I</em></strong>（小小的叛亂）<br />
 <span style="font-size:95%"><em>SA: A Modest Rebellion – ANDROID AND I</em></span></p></td>
-<td><p><a href="../Page/櫻井圭記.md" title="wikilink">櫻井圭記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻井圭記" title="wikilink">櫻井圭記</a></p></td>
 <td><p>吉原正行</p></td>
 <td><p>植村淳</p></td>
 <td></td>
@@ -211,7 +216,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p><strong> <em>DECOY</em></strong>（誘餌鳥在歌唱）<br />
 <span style="font-size:95%"><em>C: The Inviting Bird will Chant – DECOY</em></span></p></td>
 <td><p>藤咲淳一</p></td>
-<td><p><a href="../Page/中村隆太郎.md" title="wikilink">中村隆太郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中村隆太郎" title="wikilink">中村隆太郎</a></p></td>
 <td><p>須賀重行<br />
 川原智弘(機械)</p></td>
 <td></td>
@@ -220,7 +225,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p>6</p></td>
 <td><p><strong> <em>MEME</em></strong>（模仿者在跳舞）<br />
 <span style="font-size:95%"><em>C: The Copycat will Dance – MEME</em></span></p></td>
-<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘正紀" title="wikilink">橘正紀</a></p></td>
 <td><p>後藤隆幸</p></td>
 <td></td>
 <td></td>
@@ -229,7 +234,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p>7</p></td>
 <td><p><strong> <em>IDOLATER</em></strong>（偶像崇拜）<br />
 <span style="font-size:95%"><em>SA: Idolatry – IDOLATOR</em></span></p></td>
-<td><p><a href="../Page/若林厚史.md" title="wikilink">若林厚史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/若林厚史" title="wikilink">若林厚史</a></p></td>
 <td><p>佐藤雅弘</p></td>
 <td></td>
 <td></td>
@@ -249,7 +254,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p><strong> <em>CHAT! CHAT! CHAT!</em></strong><br />
 （棲息在網路暗處的男人）<br />
 <span style="font-size:95%"><em>C: The Man Who Dwells in the Shadows of the Net – CHAT! CHAT! CHAT!</em></span></p></td>
-<td><p><a href="../Page/佐藤大.md" title="wikilink">佐藤大</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤大" title="wikilink">佐藤大</a></p></td>
 <td><p>神山健治</p></td>
 <td><p>橘正紀</p></td>
 <td><p>浅野恭司</p></td>
@@ -259,7 +264,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p><strong> <em>JUNGLE CRUISE</em></strong><br />
 （適合在密林航路的日子）<br />
 <span style="font-size:95%"><em>SA: A Perfect Day for a Jungle Cruise – JUNGLE CRUISE</em></span></p></td>
-<td><p><a href="../Page/松本淳.md" title="wikilink">松本淳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本淳" title="wikilink">松本淳</a></p></td>
 <td><p>前田明寿</p></td>
 <td></td>
 <td></td>
@@ -348,7 +353,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td><p>菅正太郎</p></td>
 <td><p><a href="../Page/安藤真裕.md" title="wikilink">安藤真裕</a></p></td>
 <td><p>大原実</p></td>
-<td><p><a href="../Page/木崎文智.md" title="wikilink">木崎文智</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木崎文智" title="wikilink">木崎文智</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -432,14 +437,14 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/SKY_PerfecTV!.md" title="wikilink">Perfect Choice</a></p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>2002年10月1日 - 2003年11月30日</p></td>
 <td><p>PPV每月播放兩話</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></p></td>
-<td><p><a href="../Page/Nippon_News_Network.md" title="wikilink">日本電視台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">日本電視台系列</a></p></td>
 <td><p>2004年1月6日 - 6月8日</p></td>
 <td><p>星期二 25:23 - 25:53<br />
 4月放送時間改為25:10 - 25:40</p></td>
@@ -467,7 +472,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/長崎國際電視台.md" title="wikilink">長崎國際電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長崎國際電視台" title="wikilink">長崎國際電視台</a></p></td>
 <td><p>2004年1月19日 - 6月28日</p></td>
 <td><p>星期一 25:23 - 25:53</p></td>
 <td></td>
@@ -481,28 +486,28 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福島中央電視台.md" title="wikilink">福島中央電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島中央電視台" title="wikilink">福島中央電視台</a></p></td>
 <td><p>2004年1月30日 - 7月23日</p></td>
 <td><p>星期五 25:28 - 25:58</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/札幌電視台.md" title="wikilink">札幌電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/札幌電視台" title="wikilink">札幌電視台</a></p></td>
 <td><p>2004年4月9日 - 2005年9月24日</p></td>
 <td><p>星期一 25:15 - 25:45</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/山梨放送.md" title="wikilink">山梨放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></p></td>
 <td><p>2004年4月12日 - 2005年9月27日</p></td>
 <td><p>星期二 25:40 - 26:10</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/西日本放送.md" title="wikilink">西日本放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西日本放送" title="wikilink">西日本放送</a></p></td>
 <td><p>2004年7月7日 - 12月15日</p></td>
 <td><p>星期三 25:50 - 26:20</p></td>
 <td></td>
@@ -525,7 +530,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -540,7 +545,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 
   - 小說
 
-小說版著者為[藤咲淳一](../Page/藤咲淳一.md "wikilink")，本身也有參與動畫本篇的[腳本](../Page/腳本.md "wikilink")。
+小說版著者為[藤咲淳一](https://zh.wikipedia.org/wiki/藤咲淳一 "wikilink")，本身也有參與動畫本篇的[腳本](https://zh.wikipedia.org/wiki/腳本 "wikilink")。
 
   - 攻殻機動隊 STAND ALONE COMPLEX 虚夢回路 - 2004年1月21日發售、ISBN 4-19-905145-7
   - 攻殻機動隊 STAND ALONE COMPLEX 凍える機械 - 2004年7月8日發售、ISBN 4-19-905147-3
@@ -549,7 +554,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 
   -
     時代背景設定為[攻殻機動隊 S.A.C. 2nd
-    GIG](../Page/攻殻機動隊_S.A.C._2nd_GIG.md "wikilink")。
+    GIG](https://zh.wikipedia.org/wiki/攻殻機動隊_S.A.C._2nd_GIG "wikilink")。
 
 <!-- end list -->
 
@@ -573,7 +578,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -634,9 +639,9 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
 ### 遊戲
 
   - 《[攻殻機動隊 STAND ALONE
-    COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_\(遊戲\).md "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")、2004年3月發售）
+    COMPLEX](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_\(遊戲\) "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")、2004年3月發售）
   - 《[攻殻機動隊 STAND ALONE COMPLEX
-    -狩人の領域-](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域-.md "wikilink")》（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月發售）
+    -狩人の領域-](https://zh.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域- "wikilink")》（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月發售）
   - 《攻殻機動隊 STAND ALONE COMPLEX オンライン》（電腦用線上FPS、2016年11月起β版伺服器開始營運）
 
 ### 機台
@@ -644,7 +649,7 @@ GIG](../Page/攻殼機動隊_S.A.C_2nd_GIG.md "wikilink")》，人物繼續延�
   - **柏青哥**：新世紀ぱちんこCR攻殻機動隊 STAND ALONE COMPLEX（2012年9月、Okey dokey.）
       -
         京樂産業.與Fields Corporation合併Brand okey.所生產，約7年保固期間的新作機種。
-  - **老虎機**：パチスロ攻殻機動隊S.A.C.（2013年1月、[Sammy](../Page/Sammy.md "wikilink")）
+  - **老虎機**：パチスロ攻殻機動隊S.A.C.（2013年1月、[Sammy](https://zh.wikipedia.org/wiki/Sammy "wikilink")）
 
 ## 注釋
 

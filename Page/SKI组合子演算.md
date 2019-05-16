@@ -1,6 +1,6 @@
-**SKI组合子演算**是一个计算系统，它是对无类型版本的[Lambda演算的简约](../Page/Lambda演算.md "wikilink")。这个系统声称在Lambda演算中所有运算都可以用三个组合子**S**、**K**和**I**来表达。
+**SKI组合子演算**是一个计算系统，它是对无类型版本的[Lambda演算的简约](https://zh.wikipedia.org/wiki/Lambda演算 "wikilink")。这个系统声称在Lambda演算中所有运算都可以用三个组合子**S**、**K**和**I**来表达。
 
-在这个系统中的所有[函数可以只使用](../Page/函数.md "wikilink")**S**、**K**、**I**的字母表和圆括号（分组符号）来表达。通常假定组合子是[左结合的](../Page/结合性.md "wikilink")，从而在不影响执行次序的情况下精简表达式中的圆括号。
+在这个系统中的所有[函数可以只使用](../Page/函数.md "wikilink")**S**、**K**、**I**的字母表和圆括号（分组符号）来表达。通常假定组合子是[左结合的](https://zh.wikipedia.org/wiki/结合性 "wikilink")，从而在不影响执行次序的情况下精简表达式中的圆括号。
 
 ## 非形式定义
 
@@ -151,23 +151,23 @@ SKI组合子演算还可以用if-then-else结构的形式实现[布尔逻辑](..
 
 ### 直覺邏輯
 
-組合子**K**和**S**對應於兩個周知的[命題邏輯公理](../Page/命題邏輯.md "wikilink")：
+組合子**K**和**S**對應於兩個周知的[命題邏輯公理](https://zh.wikipedia.org/wiki/命題邏輯 "wikilink")：
 
   -
     **AK**: A →(B → A)
     **AS**:(A →(B → C))→((A → B) →(A →
-    C))函數應用對應於[肯定前件規則](../Page/肯定前件.md "wikilink")：
+    C))函數應用對應於[肯定前件規則](https://zh.wikipedia.org/wiki/肯定前件 "wikilink")：
 
 **MP**：從A和A → B推出B。
 
-公理**AK**和**AS**和規則**MP**對于[直覺邏輯的蘊含片段是完備的](../Page/直覺邏輯.md "wikilink")。
+公理**AK**和**AS**和規則**MP**對于[直覺邏輯的蘊含片段是完備的](https://zh.wikipedia.org/wiki/直覺邏輯 "wikilink")。
 
 ## 参见
 
   - [函数式编程](../Page/函数式编程.md "wikilink")
   - [组合子逻辑](../Page/组合子逻辑.md "wikilink")
   - [B,C,K,W系统](../Page/B,C,K,W系统.md "wikilink")
-  - [邱奇數](../Page/邱奇數.md "wikilink")
+  - [邱奇數](https://zh.wikipedia.org/wiki/邱奇數 "wikilink")
 
 ## 外部链接
 

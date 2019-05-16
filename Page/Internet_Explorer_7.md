@@ -1,6 +1,6 @@
 **Windows Internet Explorer
-7**（简称**IE7**）是[微軟所開發的一套使用](../Page/微軟.md "wikilink")[GUI的](../Page/GUI.md "wikilink")[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")，它是[Internet
-Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於2006年10月18日首次發行適用於[Windows的版本](../Page/Windows.md "wikilink")，之後就沒有再發行過次要更新版本了。它是Internet
+7**（简称**IE7**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，它是[Internet
+Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於2006年10月18日首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")，之後就沒有再發行過次要更新版本了。它是Internet
 Explorer自[Internet Explorer
 6版本推出五年以來的一次重大版本更新](../Page/Internet_Explorer_6.md "wikilink")。
 
@@ -15,16 +15,16 @@ Explorer的更新。自Internet Explorer 7起，不支援Windows XP SP1及更舊
 
 2005年2月15日，在舊金山舉行的RSA會議上，微軟主席[比爾·蓋茨宣佈微軟計劃將在Windows](../Page/比尔·盖茨.md "wikilink")
 XP上推出新版的Internet Explorer\[1\]。他和Internet
-Explorer團隊總經理[迪安·哈查莫維奇都認為改善安全性是推出新版本的主要原因](../Page/迪安·哈查莫維奇.md "wikilink")\[2\]。
+Explorer團隊總經理[迪安·哈查莫維奇都認為改善安全性是推出新版本的主要原因](https://zh.wikipedia.org/wiki/迪安·哈查莫維奇 "wikilink")\[2\]。
 
 IE7的第一個測試版於2005年7月27日發布，用於技術測試，Internet Explorer 7的第一個公開預覽版本（Beta 2
 preview: Pre-Beta 2 version）於2006年1月31日發布\[3\]。
 
-最終正式版本於2006年10月18日發布\[4\]。同一天，[Yahoo\!提供了與Yahoo](../Page/Yahoo!.md "wikilink")\!工具列捆綁的Internet
+最終正式版本於2006年10月18日發布\[4\]。同一天，[Yahoo\!提供了與Yahoo](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")\!工具列捆綁的Internet
 Explorer 7測試版本以及其他Yahoo\!特色的客製化。
 
 2007年10月8日，微軟移除了IE7的[Windows Genuine
-Advantage元件](../Page/Windows_Genuine_Advantage.md "wikilink")，可以讓非正版的Windows使用者也能下載和安裝\[5\]。
+Advantage元件](https://zh.wikipedia.org/wiki/Windows_Genuine_Advantage "wikilink")，可以讓非正版的Windows使用者也能下載和安裝\[5\]。
 
 2007年底，微軟宣布IE7不會被包含在Windows XP SP3中，Internet Explorer
 6和7都會接收更新\[6\]。然而，大多數個人電腦製造商已經在新的XP個人電腦上預裝了Internet
@@ -50,7 +50,7 @@ Explorer 7（以及8），尤其是筆記型電腦。
 ## 參考資料
 
 [th:อินเทอร์เน็ตเอกซ์พลอเรอร์\#อินเทอร์เน็ตเอกซ์พลอเรอร์
-7](../Page/th:อินเทอร์เน็ตเอกซ์พลอเรอร์#อินเทอร์เน็ตเอกซ์พลอเรอร์_7.md "wikilink")
+7](https://zh.wikipedia.org/wiki/th:อินเทอร์เน็ตเอกซ์พลอเรอร์#อินเทอร์เน็ตเอกซ์พลอเรอร์_7 "wikilink")
 
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 [Category:RSS](https://zh.wikipedia.org/wiki/Category:RSS "wikilink")

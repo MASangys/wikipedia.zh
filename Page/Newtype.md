@@ -1,6 +1,6 @@
 **New
-Type**，是《[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")》[動畫系列中的](../Page/動畫.md "wikilink")[架空概念](../Page/架空.md "wikilink")。在作品中有宇宙世紀紀元的作品跟機動新世紀GUNDAM
-X的戰後紀元有使用這個名詞。隨著作品的擴張，對於何謂Newtype有定義上的困難，大多認為Newtype是一種特異的能力，與其相對稱為Oldtype。雖然NEWTYPE被台灣譯作新人類，但NEWTYPE現時被當作GUNDAM系列作品的[專有名詞而不是更廣義和抽像的新人類](../Page/專有名詞.md "wikilink")。
+Type**，是《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》[動畫系列中的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[架空概念](https://zh.wikipedia.org/wiki/架空 "wikilink")。在作品中有宇宙世紀紀元的作品跟機動新世紀GUNDAM
+X的戰後紀元有使用這個名詞。隨著作品的擴張，對於何謂Newtype有定義上的困難，大多認為Newtype是一種特異的能力，與其相對稱為Oldtype。雖然NEWTYPE被台灣譯作新人類，但NEWTYPE現時被當作GUNDAM系列作品的[專有名詞而不是更廣義和抽像的新人類](https://zh.wikipedia.org/wiki/專有名詞 "wikilink")。
 
 ## 宇宙世紀的新人類
 
@@ -36,7 +36,7 @@ GUNDAM中，擁有高度Newtype能力的人被抽象的表現出身邊放出如�
 ## 強化人
 
 本意強化人意指以藥物、外科手術或是洗腦等人工手段來製造出具有精神感應能力的「人造NEWTYPE」。但後來出現了把NEWTYPE強化後也統稱強化人，只是這種非必要的做法似乎為了加速其熟悉專用機，如[機動戰士GUNDAM
-NT的主角三人組](../Page/機動戰士GUNDAM_NT.md "wikilink")，所以以下特意早期的意義上的強化人。
+NT的主角三人組](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")，所以以下特意早期的意義上的強化人。
 
 強化人一樣能使用感應波，也能驅動精神感應裝置，但是這樣的能力並非與生俱來的，因此強化人的身體及心理往往會因為承受相當大的負擔，而產生各方面的問題。
 
@@ -45,7 +45,7 @@ NT的主角三人組](../Page/機動戰士GUNDAM_NT.md "wikilink")，所以以�
 ## 其他[GUNDAM系列作品類似Newtype觀念](../Page/GUNDAM系列作品.md "wikilink")
 
 [GUNDAM系列作品的擴展宇宙遠比原始的](../Page/GUNDAM系列作品.md "wikilink")[宇宙世紀更龐大和複雜](../Page/宇宙世紀.md "wikilink")，在其他作品中也有新人類的提法，但不一定繼承Newtype的名稱或能力。其中[GUNDAM
-X的名稱和機設最接近宇宙世紀背景](../Page/GUNDAM_X.md "wikilink")，所以下文較集中介紹。
+X的名稱和機設最接近宇宙世紀背景](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")，所以下文較集中介紹。
 
 ### 戰後紀元的Newtype
 
@@ -70,34 +70,38 @@ X故事中的一般新人類沒有差別，但是由於身體過度的改造，�
 ### F類型（カテゴリーF）
 
 GUNDAM
-X劇情裡，NewType研究所給弗羅司特兄弟的特別稱號。雖然天生就有不凡的能力，兩人能遠距離[心電感應](../Page/心電感應.md "wikilink")，由於無法啟動FLASH
+X劇情裡，NewType研究所給弗羅司特兄弟的特別稱號。雖然天生就有不凡的能力，兩人能遠距離[心電感應](https://zh.wikipedia.org/wiki/心電感應 "wikilink")，由於無法啟動FLASH
 SYSTEM，被NewType研究所當成失敗品看待。另外F類型的F有Fake的意思，令弗羅司特兄弟感到反感，因此造成故事中兩人嚴重偏差的想法，立志要解決掉所有的NewType，甚至後來要滅世界的瘋狂手段。
 
-兩人設定和[機動戰士海盜高達 鋼鐵之七人卡利斯托兄弟有些相似](../Page/機動戰士海盜高達_鋼鐵之七人.md "wikilink")。
+兩人設定和[機動戰士海盜高達
+鋼鐵之七人卡利斯托兄弟有些相似](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")。
 
 ### 更廣義的新人類
 
 Newtype
-不能窮盡系列的新人類的概念，因為新人類並不是首先在鋼彈中出現，但因為翻譯問題常把Newtype譯作新人類。Newtype僅是故事中對新人類的專用稱呼，在進入二十一世紀後系列作品中，創造出其他名詞來補充更廣義的[超人類主義觀念](../Page/超人類主義.md "wikilink")。
+不能窮盡系列的新人類的概念，因為新人類並不是首先在鋼彈中出現，但因為翻譯問題常把Newtype譯作新人類。Newtype僅是故事中對新人類的專用稱呼，在進入二十一世紀後系列作品中，創造出其他名詞來補充更廣義的[超人類主義觀念](https://zh.wikipedia.org/wiki/超人類主義 "wikilink")。
 
   - [GUNDAM
-    W劇中不時提到](../Page/GUNDAM_W.md "wikilink")「新的人類」或「人的革新」的話，但不存在一個特異新人類的人種或能力，其實是出於太空居民對地球的反抗思想。
+    W劇中不時提到](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")「新的人類」或「人的革新」的話，但不存在一個特異新人類的人種或能力，其實是出於太空居民對地球的反抗思想。
 
 <!-- end list -->
 
-  - [GUNDAM SEED中稱作調整者](../Page/GUNDAM_SEED.md "wikilink")（コーディネーター
-    Coordinator）的[基因改造人](../Page/基因改造.md "wikilink")，一部分調整者常自稱新人類，但沒有像Newtype的能力，卻在平時生活的能力綜合優於普通人。故事中也有類似強化人的角色，見[宇宙纪元與](../Page/宇宙纪元.md "wikilink")[機動戰士鋼彈SEED系列世界觀與設定](../Page/機動戰士鋼彈SEED系列世界觀與設定.md "wikilink")。
+  - [GUNDAM
+    SEED中稱作調整者](https://zh.wikipedia.org/wiki/GUNDAM_SEED "wikilink")（コーディネーター
+    Coordinator）的[基因改造人](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，一部分調整者常自稱新人類，但沒有像Newtype的能力，卻在平時生活的能力綜合優於普通人。故事中也有類似強化人的角色，見[宇宙纪元與](../Page/宇宙纪元.md "wikilink")[機動戰士鋼彈SEED系列世界觀與設定](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定 "wikilink")。
 
 <!-- end list -->
 
-  - [GUNDAM 00演化出稱為變革者](../Page/GUNDAM_00.md "wikilink")(イノベーター
+  - [GUNDAM
+    00演化出稱為變革者](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")(イノベーター
     INNOVATOR)的新人類，和Newtype概念與能力有些相似。也是首次在全新的GUNDAM紀元中出現類似Newtype的能力，但卻同時採用了新的稱謂，而故事中亦有類似強化人的角色如人造變革者和超兵，見[機動戰士GUNDAM
     00世界觀及設定](../Page/機動戰士GUNDAM_00世界觀及設定.md "wikilink")。
 
 <!-- end list -->
 
-  - [GUNDAM AGE](../Page/GUNDAM_AGE.md "wikilink") 中演化出稱為極能者(X巡遊者 Xラウンダー
-    X-ROUNDER)的新人類，有和Newtype相似的能力，但概念不同而被視為**[返祖現象](../Page/返祖現象.md "wikilink")**的演化。
+  - [GUNDAM AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")
+    中演化出稱為極能者(X巡遊者 Xラウンダー
+    X-ROUNDER)的新人類，有和Newtype相似的能力，但概念不同而被視為**[返祖現象](https://zh.wikipedia.org/wiki/返祖現象 "wikilink")**的演化。
 
 ## 新人類的應用技術
 
@@ -105,27 +109,27 @@ Newtype
 
 精神感應系統（Psycommu）一詞是由精神（Psychic）和溝通（Communicator）兩字合併而成，能夠直接和使用者的精神思考連接並化為能讓電腦接收的電子數據。
 
-此研究在發現腦電波能夠通過[米諾夫斯基粒子的電磁波干擾時開始](../Page/GUNDAM科技#米諾夫斯基物理學_Minovsky_Physics.md "wikilink")。由[吉翁公國首先研發](../Page/吉翁公國.md "wikilink")。[地球聯邦軍則因為普遍將領害怕或不相信有新人類](../Page/地球聯邦.md "wikilink")，而只有少數派系對和新人類能力應用有關的EXAM系統有所支持。
+此研究在發現腦電波能夠通過[米諾夫斯基粒子的電磁波干擾時開始](https://zh.wikipedia.org/wiki/GUNDAM科技#米諾夫斯基物理學_Minovsky_Physics "wikilink")。由[吉翁公國首先研發](../Page/吉翁公國.md "wikilink")。[地球聯邦軍則因為普遍將領害怕或不相信有新人類](../Page/地球聯邦.md "wikilink")，而只有少數派系對和新人類能力應用有關的EXAM系統有所支持。
 
 精神感應系統最初被使用來搖控載有光束武器的感應炮，不過漸漸改良之下，就成為了**Newtype**專用機中改善駕駛者與機體之間的控制，使機體的反應速度上升，就越來越接近以思想直接控制機體。
 
-2010年代起[GUNDAM系列作品出現了使用電線直連駕駛員](../Page/GUNDAM系列作品.md "wikilink")[神經的感應裝置](../Page/神經.md "wikilink")，如[機動戰士GUNDAM
-Thunderbolt的](../Page/機動戰士GUNDAM_Thunderbolt.md "wikilink")**ReusePsycho
-Device(再生P裝置)**和[鐵血的孤兒的](../Page/鐵血的孤兒.md "wikilink")**阿賴耶識**，原理是安裝了專用的[人造器官或](../Page/人造器官.md "wikilink")[義肢](../Page/義肢.md "wikilink")，駕駛員和經典的NEWTYPE和強化人有明顯的分別，便是平時不會有較常人高的感受性和反應速度，實際上屬於[半機器人而且在故事中也不會冠以新人類或類似的稱號](../Page/半機器人.md "wikilink")。
+2010年代起[GUNDAM系列作品出現了使用電線直連駕駛員](../Page/GUNDAM系列作品.md "wikilink")[神經的感應裝置](https://zh.wikipedia.org/wiki/神經 "wikilink")，如[機動戰士GUNDAM
+Thunderbolt的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Thunderbolt "wikilink")**ReusePsycho
+Device(再生P裝置)**和[鐵血的孤兒的](https://zh.wikipedia.org/wiki/鐵血的孤兒 "wikilink")**阿賴耶識**，原理是安裝了專用的[人造器官或](https://zh.wikipedia.org/wiki/人造器官 "wikilink")[義肢](../Page/義肢.md "wikilink")，駕駛員和經典的NEWTYPE和強化人有明顯的分別，便是平時不會有較常人高的感受性和反應速度，實際上屬於[半機器人而且在故事中也不會冠以新人類或類似的稱號](https://zh.wikipedia.org/wiki/半機器人 "wikilink")。
 
 在現實中，日本防衛省開發的對導彈動能彈頭被指出是感應炮（Funnel）。\[2\]而NTT通訊科學基礎研究所亦有借用GUNDAM中的新人類研究所之一Flannagan機構的名稱來發表在現實中相對於精神感應系統的技術研究。\[3\]
 
 ### 「感應炮」和類似的武器
 
-特指在[GUNDAM系列作品使用的無人兵器](../Page/GUNDAM系列作品.md "wikilink")，通常有一個新人類的[駕駛員或](../Page/駕駛員.md "wikilink")[指揮官](../Page/指揮官.md "wikilink")，在專用的[機動戰士或](../Page/機動戰士.md "wikilink")[機動裝甲上控制的](../Page/機動裝甲.md "wikilink")，少數可以在[宇宙戰艦和固定基地操作](../Page/宇宙戰艦.md "wikilink")。以新人類的心靈感應透過駕駛艙用特別的儀器(精神感應系統)來指揮，可以從多個方位包圍攻擊少數集合的或單個的敵人的戰術，稱為All-Range
+特指在[GUNDAM系列作品使用的無人兵器](../Page/GUNDAM系列作品.md "wikilink")，通常有一個新人類的[駕駛員或](https://zh.wikipedia.org/wiki/駕駛員 "wikilink")[指揮官](https://zh.wikipedia.org/wiki/指揮官 "wikilink")，在專用的[機動戰士或](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")[機動裝甲上控制的](../Page/機動裝甲.md "wikilink")，少數可以在[宇宙戰艦和固定基地操作](../Page/宇宙戰艦.md "wikilink")。以新人類的心靈感應透過駕駛艙用特別的儀器(精神感應系統)來指揮，可以從多個方位包圍攻擊少數集合的或單個的敵人的戰術，稱為All-Range
 Attacks。唯[GUNDAM
-W和](../Page/GUNDAM_W.md "wikilink")[鐵血的孤兒並未出現類似的武器](../Page/鐵血的孤兒.md "wikilink")。
+W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[鐵血的孤兒並未出現類似的武器](https://zh.wikipedia.org/wiki/鐵血的孤兒 "wikilink")。
 
   - 感應炮,
-    全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的無線控制和自帶電源用[火箭推進的小型光束炮台](../Page/火箭.md "wikilink")，一般大小和[空對空導彈相仿](../Page/空對空導彈.md "wikilink")。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM
-    X](../Page/GUNDAM_X.md "wikilink")、[GUNDAM
-    00](../Page/GUNDAM_00.md "wikilink")、[GUNDAM
-    AGE](../Page/GUNDAM_AGE.md "wikilink"))的武器，是一種利用新人類(含NEWTYPE、INNOVATOR、X-ROUNDER)的強大精神力,以及對米諾夫斯基或GN粒子的影響對遠距離的無人武裝子機作出控制的兵器，這種兵裝在宇宙世紀中稱為Funnel在其他系列(GUNDAM
+    全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的無線控制和自帶電源用[火箭推進的小型光束炮台](../Page/火箭.md "wikilink")，一般大小和[空對空導彈相仿](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM
+    X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")、[GUNDAM
+    00](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")、[GUNDAM
+    AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink"))的武器，是一種利用新人類(含NEWTYPE、INNOVATOR、X-ROUNDER)的強大精神力,以及對米諾夫斯基或GN粒子的影響對遠距離的無人武裝子機作出控制的兵器，這種兵裝在宇宙世紀中稱為Funnel在其他系列(GUNDAM
     X/00/AGE)稱為Bit，機制是不使用傳統頻道而是以放大[腦波傳通信號](../Page/腦波.md "wikilink")。雖然在純理論上是仍然屬於無線電控制，但因為腦波的波長極大，同一時間用可以傳送的信息較傳統無線電波少，所以需要在極短時間作出正確的指令，所以通常是用心靈感應的方式控制。缺點:一是只有新人類(含強化人)才可以用，二是會洩漏信息而被敵人截聽到主機所在或其對感應炮的指令，三是因為火箭燃料儲存量的限制實際上不易回收。所以即使是NEWTYPE專用機也不一定配備，但在宇宙世紀0090年代出現了大幅度改良的**翼狀感應炮**，才成為了NEWTYPE專用機動戰士經常性配備。
 
 <!-- end list -->
@@ -143,30 +147,32 @@ W和](../Page/GUNDAM_W.md "wikilink")[鐵血的孤兒並未出現類似的武器
 
   - Funnel
     Missile，在[宇宙世紀](../Page/宇宙世紀.md "wikilink")100-200年代[富野由悠季的小說如](../Page/富野由悠季.md "wikilink")[機動戰士GUNDAM
-    閃光的哈薩維和](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")[GAIA
-    GEAR登場的](../Page/GAIA_GEAR.md "wikilink")，以感應炮難回收所以發展出採用相似控制器的一次性的[導彈](../Page/導彈.md "wikilink")，索性直接從不同角度射向敵人以撞擊或爆炸等物理方式攻擊的。
+    閃光的哈薩維和](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")[GAIA
+    GEAR登場的](https://zh.wikipedia.org/wiki/GAIA_GEAR "wikilink")，以感應炮難回收所以發展出採用相似控制器的一次性的[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")，索性直接從不同角度射向敵人以撞擊或爆炸等物理方式攻擊的。
 
 <!-- end list -->
 
   - G-BIT或BIT-MS,GUNDAM
     X獨有的是NEWTYPE專用的無人機動戰士，可以由一台由新人類的隊長機(通常是鋼彈)或母艦或基地上，也是少數不以機動戰士或機動裝甲搭載，只可以在宇宙戰艦(或在大氣層中[飛行戰艦或陸上行駛的巨大](../Page/飛行戰艦.md "wikilink")[氣墊船](../Page/氣墊船.md "wikilink"))或固定基地配備的類感應炮武器。經過稱為閃影系統(FLASH
-    SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](../Page/當量.md "wikilink")[太陽能衛星炮和原則上可以使用](../Page/太陽能.md "wikilink")[核彈](../Page/核彈.md "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。
+    SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](https://zh.wikipedia.org/wiki/當量 "wikilink")[太陽能衛星炮和原則上可以使用](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。
 
 <!-- end list -->
 
-  - 龍騎兵系統，同世界觀中亦有線控炮稱為**炮筒**。全稱為「分離式統合制御高速機動兵裝群網絡系統」，是[宇宙紀元中獨有的一種武器技術](../Page/宇宙紀元.md "wikilink")，是利用量子瞬移效果的通訊：量子通訊來作出遠端遙控的武器系統，雖然原理不同，但在操作方面與感應炮並無區別，仍然屌於感應使用者的腦波，優點的是使用的難度較低。參見[機動戰士技術相關部分](../Page/機動戰士技術.md "wikilink")。
+  - 龍騎兵系統，同世界觀中亦有線控炮稱為**炮筒**。全稱為「分離式統合制御高速機動兵裝群網絡系統」，是[宇宙紀元中獨有的一種武器技術](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")，是利用量子瞬移效果的通訊：量子通訊來作出遠端遙控的武器系統，雖然原理不同，但在操作方面與感應炮並無區別，仍然屌於感應使用者的腦波，優點的是使用的難度較低。參見[機動戰士技術相關部分](../Page/機動戰士技術.md "wikilink")。
 
 <!-- end list -->
 
   - GN浮游單元，[GUNDAM
-    00獨有的感應炮](../Page/GUNDAM_00.md "wikilink")，是把傳統的光束槍和[光劍甚至盾牌](../Page/光劍.md "wikilink")，當作自行式的無線控制武器使用，因為其電腦的發達沒有明確所謂變革者專用的問題。
+    00獨有的感應炮](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")，是把傳統的光束槍和[光劍甚至盾牌](https://zh.wikipedia.org/wiki/光劍 "wikilink")，當作自行式的無線控制武器使用，因為其電腦的發達沒有明確所謂變革者專用的問題。
 
 <!-- end list -->
 
-  - [G GUNDAM和](../Page/G_GUNDAM.md "wikilink")[GUNDAM
-    AGE](../Page/GUNDAM_AGE.md "wikilink")，較少獨創的武器。前者的Gundam
+  - [G
+    GUNDAM和](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")[GUNDAM
+    AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")，較少獨創的武器。前者的Gundam
     Rose配備使用稱Rose Bitz的感應炮但沒有說明過控制的方式。後者的初期有稱為法爾西亞浮游砲（Farsia
-    Bit）的極能者專用的感應炮原理和宇宙世紀或GUNDAM X相似，後期出現的C-感應砲則是Gundam AGE-FX專用的光劍型浮遊炮。
+    Bit）的極能者專用的感應炮原理和宇宙世紀或GUNDAM
+    X相似，後期出現的C-感應砲則是Gundam AGE-FX專用的光劍型浮遊炮。
 
 ### 反感應炮系統
 
@@ -187,7 +193,7 @@ Electronics社建造，令技術流出使得聯邦軍也能夠生產精神感應
 
 除了一般的精神感應能力外，精神感應框架還能夠利用增幅腦電波來使機體有著驚人的出力。在機動戰士-{zh-hans:高达 逆襲的夏亞;
 zh-hk:高達 馬沙反擊戰; zh-tw:鋼彈
-逆襲的夏亞;}-最後，MS群能夠擋下資源衛星墜下地球，就常被形容為精神感應框架增幅腦電波使米諾夫斯基粒子集合到一個非常高的濃度，產生[米諾夫斯基飄浮效應來改變墜落軌道](../Page/米諾夫斯基粒子#米諾夫斯基飄浮系統_Minovsky_Craft_System.md "wikilink")。(上述解釋是粉絲對這超自然現象的合理化，設定上只說過這是奇積，剩下的甚麼都沒說)
+逆襲的夏亞;}-最後，MS群能夠擋下資源衛星墜下地球，就常被形容為精神感應框架增幅腦電波使米諾夫斯基粒子集合到一個非常高的濃度，產生[米諾夫斯基飄浮效應來改變墜落軌道](https://zh.wikipedia.org/wiki/米諾夫斯基粒子#米諾夫斯基飄浮系統_Minovsky_Craft_System "wikilink")。(上述解釋是粉絲對這超自然現象的合理化，設定上只說過這是奇積，剩下的甚麼都沒說)
 
 ### 腦波傳導干擾系統
 
@@ -205,12 +211,12 @@ O等上面\[4\]。
 
 #### 線導砲台( インコム / Incom )
 
-一種較簡化的線控炮系統，需要配搭了生化感器器的機體使用。其有採用電腦按發射前的指令排列陣式的戰術，而不需要像傳統的感應炮或線控炮需要逐個炮台下指令，移動的位置和攻擊的座標所在。這可以大大減輕駕駛員的負擔，但因為只能以[二維方式佈陣](../Page/二維.md "wikilink")，所以較易被敵人逃脫。
+一種較簡化的線控炮系統，需要配搭了生化感器器的機體使用。其有採用電腦按發射前的指令排列陣式的戰術，而不需要像傳統的感應炮或線控炮需要逐個炮台下指令，移動的位置和攻擊的座標所在。這可以大大減輕駕駛員的負擔，但因為只能以[二維方式佈陣](https://zh.wikipedia.org/wiki/二維 "wikilink")，所以較易被敵人逃脫。
 
 ### 新型精神感應系統
 
 新型精神感應系統比起過去的精神感應系統要更為先進，容許駕駛員以思想控制機體而不需手動操作。巨形ＭＡ[XMA-01
-Rafflesia是唯一擁有這個系統的例子](../Page/XMA-01_Rafflesia.md "wikilink")，當中駕駛員的頭盔裝置了很多用光纖連接著ＭＡ的神經接收器。
+Rafflesia是唯一擁有這個系統的例子](https://zh.wikipedia.org/wiki/XMA-01_Rafflesia "wikilink")，當中駕駛員的頭盔裝置了很多用光纖連接著ＭＡ的神經接收器。
 
 ### 生化電腦
 
@@ -231,11 +237,11 @@ UC](../Page/機動戰士GUNDAM_UC.md "wikilink")，另一種針對新人類專�
 
 ## 現實世界相似的主張
 
-  - [超人類主義](../Page/超人類主義.md "wikilink")
+  - [超人類主義](https://zh.wikipedia.org/wiki/超人類主義 "wikilink")
 
 <!-- end list -->
 
-  - [人類增強](../Page/人類增強.md "wikilink")
+  - [人類增強](https://zh.wikipedia.org/wiki/人類增強 "wikilink")
 
 ## 參考文獻
 

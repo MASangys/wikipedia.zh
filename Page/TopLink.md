@@ -1,10 +1,10 @@
 **TopLink**是一套專供[Java程式師運用的](../Page/Java.md "wikilink")**物件關連映射**（[object-relational
-mapping](../Page/object-relational_mapping.md "wikilink")）套件（Package，Java程式語言的Package是專門用來對「[類別](../Page/類別.md "wikilink")」進行群化整理之用）。它提供一個強效且彈性的框架（Framework），可讓Java物件存放到關連性資料庫內，或提供Java物件與[XML文件的轉換功效](../Page/XML.md "wikilink")。
+mapping](https://zh.wikipedia.org/wiki/object-relational_mapping "wikilink")）套件（Package，Java程式語言的Package是專門用來對「[類別](https://zh.wikipedia.org/wiki/類別 "wikilink")」進行群化整理之用）。它提供一個強效且彈性的框架（Framework），可讓Java物件存放到關連性資料庫內，或提供Java物件與[XML文件的轉換功效](../Page/XML.md "wikilink")。
 [EntityLifeCycle.png](https://zh.wikipedia.org/wiki/File:EntityLifeCycle.png "fig:EntityLifeCycle.png")
 **TopLink
 Essentials**\[[https://web.archive.org/web/20060707013121/http://www.oracle.com/technology/products/ias/toplink/jpa/index.html\]是](https://web.archive.org/web/20060707013121/http://www.oracle.com/technology/products/ias/toplink/jpa/index.html%5D是)[EJB](../Page/EJB.md "wikilink")
 3.0 Java Persistence
-API（簡稱：[JPA](../Page/JPA.md "wikilink")）的一個參考實現（Reference
+API（簡稱：[JPA](https://zh.wikipedia.org/wiki/JPA "wikilink")）的一個參考實現（Reference
 Implementation，簡稱：RI），更簡單說是即是一個合乎EJB 3.0規範的JPA RI。此外TopLink
 Essentials也是Oracle公司TopLink軟體的開放原碼社群版（open-source community
 edition）。
@@ -18,7 +18,7 @@ People"。到了1995年、1996年左右這套軟體產品被人用[Java程式語
 for Java」。
 
 到了2000年The Object
-People公司被拆分，同時TopLink軟體也被[WebGain公司買去](../Page/WebGain公司.md "wikilink")。至2002年時又由甲骨文公司（[Oracle](../Page/Oracle.md "wikilink")）買走TopLink，並由其接手後續的研發改版，如今TopLink這套軟體已經成為Oracle
+People公司被拆分，同時TopLink軟體也被[WebGain公司買去](https://zh.wikipedia.org/wiki/WebGain公司 "wikilink")。至2002年時又由甲骨文公司（[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")）買走TopLink，並由其接手後續的研發改版，如今TopLink這套軟體已經成為Oracle
 Fusion Middleware（融合中介軟體）軟體家族中的一員。
 
 有關TopLink的更細節歷史請見：[TopLink軟體的歷史](https://web.archive.org/web/20080908025120/http://www.oracle.com/technology/tech/java/newsletter/articles/toplink/history_of_toplink.html)
@@ -26,29 +26,29 @@ Fusion Middleware（融合中介軟體）軟體家族中的一員。
 TopLink依然是該領域的領導軟體，它有多項獲獎特點包括：
 
   - 經由**Java程式師期刊**（**[Java Developer's
-    Journal](../Page/Java_Developer's_Journal.md "wikilink")**）的讀者投票，TopLink被票選為**最佳Java貫徹架構獎**（**Best
+    Journal](https://zh.wikipedia.org/wiki/Java_Developer's_Journal "wikilink")**）的讀者投票，TopLink被票選為**最佳Java貫徹架構獎**（**Best
     Java Persistence Architecture**）。
 
 <!-- end list -->
 
-  - **Java世界**（**[JavaWorld](../Page/JavaWorld.md "wikilink")**）期刊的編輯，評選TopLink為2003年的**最佳Java資料存取工具獎**（**Best
+  - **Java世界**（**[JavaWorld](https://zh.wikipedia.org/wiki/JavaWorld "wikilink")**）期刊的編輯，評選TopLink為2003年的**最佳Java資料存取工具獎**（**Best
     Java Data Access Tool**）。
 
 <!-- end list -->
 
   - **[Java
-    Pro](../Page/Java_Pro.md "wikilink")**期刊的**讀者評選獎**（**Readers'
+    Pro](https://zh.wikipedia.org/wiki/Java_Pro "wikilink")**期刊的**讀者評選獎**（**Readers'
     Choice Award**）中，TopLink獲得**最佳Java資料存取工具或驅動程式**（**Best Java Data
     Access Tool or Driver**）的獎項。
 
 ## 特點
 
-雖然多數人都已知TopLink是一套[物件關連映射](../Page/物件關連映射.md "wikilink")（或稱：對應）的工具程式，但其仍有幾項關鍵特點值得強調：
+雖然多數人都已知TopLink是一套[物件關連映射](https://zh.wikipedia.org/wiki/物件關連映射 "wikilink")（或稱：對應）的工具程式，但其仍有幾項關鍵特點值得強調：
 
   - 豐富的「查詢框架，query framework」，該框架支援：物件導向的表現框架、範例式查詢「Query by
     Example，簡稱：QBE」、EJB
-    QL、SQL以及[預存程序](../Page/預存程序.md "wikilink")（[stored
-    procedure](../Page/stored_procedure.md "wikilink")）。
+    QL、SQL以及[預存程序](https://zh.wikipedia.org/wiki/預存程序 "wikilink")（[stored
+    procedure](https://zh.wikipedia.org/wiki/stored_procedure "wikilink")）。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@ TopLink依然是該領域的領導軟體，它有多項獲獎特點包括：
 
 <!-- end list -->
 
-  - 支援[EIS](../Page/EIS.md "wikilink")／[JCA等非關連性的資料來源](../Page/JCA.md "wikilink")。
+  - 支援[EIS](https://zh.wikipedia.org/wiki/EIS "wikilink")／[JCA等非關連性的資料來源](https://zh.wikipedia.org/wiki/JCA "wikilink")。
 
 <!-- end list -->
 

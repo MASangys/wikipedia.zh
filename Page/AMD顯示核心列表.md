@@ -1,10 +1,10 @@
-本列表包含由[AMD公司推出的顯示核心之基本資料](../Page/AMD.md "wikilink")，包含其收購于[ATI的產品](../Page/冶天科技.md "wikilink")。內容只供參考。
+本列表包含由[AMD公司推出的顯示核心之基本資料](https://zh.wikipedia.org/wiki/AMD "wikilink")，包含其收購于[ATI的產品](../Page/冶天科技.md "wikilink")。內容只供參考。
 
 ## [DirectX版本註釋](../Page/DirectX.md "wikilink")
 
   - DirectX 5.0 - 雾化效果，Alpha混合
-  - DirectX 6.0 - [紋理映射](../Page/紋理映射.md "wikilink")
-  - DirectX 7.0 - 硬體[T\&L](../Page/T&L.md "wikilink")
+  - DirectX 6.0 - [紋理映射](https://zh.wikipedia.org/wiki/紋理映射 "wikilink")
+  - DirectX 7.0 - 硬體[T\&L](https://zh.wikipedia.org/wiki/T&L "wikilink")
   - DirectX 8.0 - Shader Model 1.1
   - DirectX 8.1 - Pixel Shader 1.4，Vertex Shader 1.1
   - DirectX 9.0 - Shader Model 2.0
@@ -55,25 +55,31 @@
 
 ## Video codec acceleration
 
-  - **R100** - [Video Immersion](../Page/Video_Immersion.md "wikilink")
+  - **R100** - [Video
+    Immersion](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
   - **R200** - [Video Immersion
-    II](../Page/Video_Immersion.md "wikilink")
+    II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink")
   - **R300** - [Video Immersion
-    II](../Page/Video_Immersion.md "wikilink") + [Video
-    Shader](../Page/Video_Shader.md "wikilink")
-  - **R410** - [Video Shader HD](../Page/Video_Shader.md "wikilink")
-  - **R420** - [Video Shader HD](../Page/Video_Shader.md "wikilink") +
-    [DXVA](../Page/DXVA.md "wikilink")
-  - **R520** - [Avivo Video](../Page/Avivo.md "wikilink")
-  - **R600** - [Avivo HD Video](../Page/Avivo.md "wikilink") -
-    [UVD](../Page/Unified_Video_Decoder.md "wikilink")
+    II](https://zh.wikipedia.org/wiki/Video_Immersion "wikilink") +
+    [Video
+    Shader](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
+  - **R410** - [Video Shader
+    HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink")
+  - **R420** - [Video Shader
+    HD](https://zh.wikipedia.org/wiki/Video_Shader "wikilink") +
+    [DXVA](https://zh.wikipedia.org/wiki/DXVA "wikilink")
+  - **R520** - [Avivo
+    Video](https://zh.wikipedia.org/wiki/Avivo "wikilink")
+  - **R600** - [Avivo HD
+    Video](https://zh.wikipedia.org/wiki/Avivo "wikilink") -
+    [UVD](https://zh.wikipedia.org/wiki/Unified_Video_Decoder "wikilink")
   - **R700** - UVD 2, UVD 2.2
   - **Evergreen** - UVD 2.2
   - **Northern Islands** - UVD 3 (HD 67xx UVD 2.2)
   - **Southern Islands** - UVD 3, [Video Codec
-    Engine](../Page/Video_Codec_Engine.md "wikilink")
+    Engine](https://zh.wikipedia.org/wiki/Video_Codec_Engine "wikilink")
   - **Volcanic Islands** - UVD 4.x, [Video Codec Engine
-    2.0](../Page/Video_Codec_Engine_2.0.md "wikilink")\[1\]\[2\]
+    2.0](https://zh.wikipedia.org/wiki/Video_Codec_Engine_2.0 "wikilink")\[1\]\[2\]
 
 ## 桌面核心列表
 
@@ -84,18 +90,18 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p>製程 (<a href="../Page/Micrometre.md" title="wikilink">µm</a>)</p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Micrometre" title="wikilink">µm</a>)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體 (<a href="../Page/Kilobyte.md" title="wikilink">KB</a>)</p></th>
+<th><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/Kilobyte" title="wikilink">KB</a>)</p></th>
 <th><p>Config core<sup>1</sup></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>Bus type</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,8 +143,10 @@
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel pipelines](../Page/Pixel_pipeline.md "wikilink") :
-[Render output units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Pixel
+pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mach 系列
 
@@ -147,18 +155,18 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p>製程 (<a href="../Page/Micrometre.md" title="wikilink">µm</a>)</p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Micrometre" title="wikilink">µm</a>)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體 (<a href="../Page/Kilobyte.md" title="wikilink">KB</a>)</p></th>
+<th><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/Kilobyte" title="wikilink">KB</a>)</p></th>
 <th><p>Config core<sup>1</sup></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>記憶體類型</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -204,8 +212,10 @@ VRAM</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel pipelines](../Page/Pixel_pipeline.md "wikilink") :
-[Render output units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Pixel
+pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Rage系列
 
@@ -214,15 +224,15 @@ VRAM</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p>製程 (<a href="../Page/nanometer.md" title="wikilink">nm</a>)</p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/nanometer" title="wikilink">nm</a>)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>Memory (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
-<th><p>Core clock (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></th>
+<th><p>Memory (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
+<th><p>Core clock (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>Memory</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance</p></th>
 </tr>
 </thead>
 <tbody>
@@ -231,9 +241,9 @@ VRAM</p></td>
 <td><p>MPixels/s</p></td>
 <td><p>MTexels/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>DirectX</p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -359,17 +369,20 @@ VRAM</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel pipelines](../Page/Pixel_pipeline.md "wikilink") :
-[Vertex shaders](../Page/Vertex_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Pixel
+pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
+[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> OpenGL 1.0 (Generic 2D) is provided through software
 implementations.
 
 ### Radeon R100系列
 
   - <sup>1</sup>
-    [顶点着色单元](../Page/顶点着色单元.md "wikilink")：[像素着色单元](../Page/像素着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
 <table>
 <thead>
@@ -378,13 +391,13 @@ implementations.
 <th><p>推出年分</p></th>
 <th><p>开發代号</p></th>
 <th><p>製程（<a href="../Page/纳米.md" title="wikilink">纳米</a>）</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>最高支援記憶体容量（<a href="../Page/MB.md" title="wikilink">MB</a>）</p></th>
-<th><p>最高核心頻率（<a href="../Page/MHz.md" title="wikilink">MHz</a>）</p></th>
-<th><p>最高記憶体頻率（<a href="../Page/MHz.md" title="wikilink">MHz</a>）</p></th>
-<th><p>硬件<a href="../Page/T&amp;L.md" title="wikilink">T&amp;L</a></p></th>
-<th><p><a href="../Page/管線.md" title="wikilink">管線</a> x <a href="../Page/TMU.md" title="wikilink">TMU</a> x <a href="../Page/VPU.md" title="wikilink">VPU</a></p></th>
-<th><p>最高<a href="../Page/多邊形產生速率.md" title="wikilink">多邊形產生速率</a>（<a href="../Page/Texel_(graphics).md" title="wikilink">MT</a>／s）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>最高支援記憶体容量（<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>）</p></th>
+<th><p>最高核心頻率（<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>）</p></th>
+<th><p>最高記憶体頻率（<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>）</p></th>
+<th><p>硬件<a href="https://zh.wikipedia.org/wiki/T&amp;L" title="wikilink">T&amp;L</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/管線" title="wikilink">管線</a> x <a href="https://zh.wikipedia.org/wiki/TMU" title="wikilink">TMU</a> x <a href="https://zh.wikipedia.org/wiki/VPU" title="wikilink">VPU</a></p></th>
+<th><p>最高<a href="https://zh.wikipedia.org/wiki/多邊形產生速率" title="wikilink">多邊形產生速率</a>（<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">MT</a>／s）</p></th>
 <th><p>記憶体</p></th>
 <th><p>Graphics library support（版本）</p></th>
 <th><p>特色</p></th>
@@ -392,7 +405,7 @@ implementations.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>最高頻寛（<a href="../Page/Gibibyte.md" title="wikilink">GiB</a>／s）</p></td>
+<td><p>最高頻寛（<a href="https://zh.wikipedia.org/wiki/Gibibyte" title="wikilink">GiB</a>／s）</p></td>
 <td><p>記憶体種類</p></td>
 <td><p>記憶体頻寛（<a href="../Page/位元.md" title="wikilink">bit</a>）</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a>®</p></td>
@@ -559,178 +572,178 @@ implementations.
 ### Radeon R200系列
 
   - <sup>1</sup>
-    [像素着色单元](../Page/像素着色单元.md "wikilink")：[顶点着色单元](../Page/顶点着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
   - <sup>2</sup> 基于R200的GPU缺少对于GL_ARB的纹理深度和阴影的支持，因此并不完全支持OpenGL 1.4
 
-| 型号                                            | 推出年分  | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")     | 最高支援記憶体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記憶体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記憶体  | Graphics library support（版本） | 特色  |
-| --------------------------------------------- | ----- | -------------------------------------- | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ---------------------------- | --- |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s） | 記憶体種類 | 記憶体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink") |                                           |                                          |                                           |                                                                                                      |                                                                                              |      |                              |     |
-| Radeon 8500 LE                                | 2001年 | R200                                   | 150                                       | AGP 4x                                 | 128                                       | 250                                      | 250                                       | 2:4:8:4                                                                                              | 2000                                                                                         | 8.00 | DDR                          | 128 |
-| Radeon 8500                                   | 2001年 | R200                                   | 150                                       | AGP 4x                                 | 128                                       | 275                                      | 275                                       | 2:4:8:4                                                                                              | 2200                                                                                         | 8.80 | DDR                          | 128 |
-| Radeon 9000                                   | 2002年 | RV250                                  | 150                                       | AGP 4x/PCI                             | 128                                       | 250                                      | 200                                       | 1:4:4:4                                                                                              | 1000                                                                                         | 6.40 | DDR                          | 128 |
-| Radeon 9000 Pro                               | 2002年 | RV250                                  | 150                                       | AGP 4x                                 | 128                                       | 275                                      | 275                                       | 1:4:4:4                                                                                              | 1100                                                                                         | 8.80 | DDR                          | 128 |
-| Radeon 9100                                   | 2002年 | R200                                   | 150                                       | AGP 4x/PCI                             | 64, 128                                   | 250                                      | 250                                       | 2:4:8:4                                                                                              | 2000                                                                                         | 8.00 | DDR                          | 128 |
-| Radeon 9200 SE                                | 2003年 | RV280                                  | 150                                       | AGP 8x/PCI                             | 64, 128                                   | 200                                      | 166                                       | 1:4:4:4                                                                                              | 800                                                                                          | 2.66 | DDR                          | 64  |
-| Radeon 9200                                   | 2003年 | RV280                                  | 150                                       | AGP 8x/PCI                             | 64, 128, 256                              | 250                                      | 200                                       | 1:4:4:4                                                                                              | 1000                                                                                         | 6.40 | DDR                          | 128 |
-| Radeon 9250 SE                                | 2004年 | RV280                                  | 150                                       | AGP 8x/PCI                             | 128, 256                                  | 240                                      | 200                                       | 1:4:4:4                                                                                              | 960                                                                                          | 3.20 | DDR                          | 64  |
-| Radeon 9250                                   | 2004年 | RV280                                  | 150                                       | AGP 8x/PCI                             | 128, 256                                  | 240                                      | 200                                       | 1:4:4:4                                                                                              | 960                                                                                          | 6.40 | DDR                          | 128 |
-| Radeon 8500 AIW                               | 2002年 | R200                                   | 150                                       | AGP 4x                                 | 128                                       | 275                                      | 275                                       | 2:4:8:4                                                                                              | 2200                                                                                         | 8.80 | DDR                          | 128 |
-| Radeon 8500 AIW DV                            | 2002年 | R200                                   | 150                                       | AGP 4x                                 | 128                                       | 230                                      | 190                                       | 2:4:8:4                                                                                              | 1840                                                                                         | 6.08 | DDR                          | 128 |
-| Radeon 9000 Pro AIW                           | 2003年 | RV250                                  | 150                                       | AGP 4x                                 | 64                                        | 275                                      | 270                                       | 2:4:8:4                                                                                              | 1100                                                                                         | 8.64 | DDR                          | 128 |
-| Radeon 9200 Pro AIW                           | 2004年 | RV280                                  | 150                                       | AGP 8x                                 | 128                                       | 250                                      | 200                                       | 2:4:8:4                                                                                              | 1000                                                                                         | 6.40 | DDR                          | 128 |
-| Radeon 9000 IGP                               | 2003年 | RC350                                  | 150                                       | 集成                                     | AGP                                       | 128                                      | 300                                       | 0:2:2:2                                                                                              | 6.40                                                                                         | DDR  | 共享                           | 64  |
-| Radeon 9100 IGP                               | 2003年 | RS300                                  | 150                                       | 集成                                     | AGP                                       | 128                                      | 300                                       | 0:2:2:2                                                                                              | 6.40                                                                                         | DDR  | 共享                           | 128 |
-| Radeon 9100 Pro IGP                           | 2004年 | RS350                                  | 150                                       | 集成                                     | AGP                                       | 128                                      | 300                                       | 0:2:2:2                                                                                              | 6.40                                                                                         | DDR  | 共享                           | 128 |
-|                                               |       |                                        |                                           |                                        |                                           |                                          |                                           |                                                                                                      |                                                                                              |      |                              |     |
+| 型号                                                               | 推出年分  | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記憶体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記憶体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記憶体  | Graphics library support（版本） | 特色  |
+| ---------------------------------------------------------------- | ----- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------- | --- |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s） | 記憶体種類 | 記憶体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |      |                              |     |
+| Radeon 8500 LE                                                   | 2001年 | R200                                   | 150                                       | AGP 4x                                                | 128                                                          | 250                                                         | 250                                                          | 2:4:8:4                                                                                                                                                       | 2000                                                                                                                               | 8.00 | DDR                          | 128 |
+| Radeon 8500                                                      | 2001年 | R200                                   | 150                                       | AGP 4x                                                | 128                                                          | 275                                                         | 275                                                          | 2:4:8:4                                                                                                                                                       | 2200                                                                                                                               | 8.80 | DDR                          | 128 |
+| Radeon 9000                                                      | 2002年 | RV250                                  | 150                                       | AGP 4x/PCI                                            | 128                                                          | 250                                                         | 200                                                          | 1:4:4:4                                                                                                                                                       | 1000                                                                                                                               | 6.40 | DDR                          | 128 |
+| Radeon 9000 Pro                                                  | 2002年 | RV250                                  | 150                                       | AGP 4x                                                | 128                                                          | 275                                                         | 275                                                          | 1:4:4:4                                                                                                                                                       | 1100                                                                                                                               | 8.80 | DDR                          | 128 |
+| Radeon 9100                                                      | 2002年 | R200                                   | 150                                       | AGP 4x/PCI                                            | 64, 128                                                      | 250                                                         | 250                                                          | 2:4:8:4                                                                                                                                                       | 2000                                                                                                                               | 8.00 | DDR                          | 128 |
+| Radeon 9200 SE                                                   | 2003年 | RV280                                  | 150                                       | AGP 8x/PCI                                            | 64, 128                                                      | 200                                                         | 166                                                          | 1:4:4:4                                                                                                                                                       | 800                                                                                                                                | 2.66 | DDR                          | 64  |
+| Radeon 9200                                                      | 2003年 | RV280                                  | 150                                       | AGP 8x/PCI                                            | 64, 128, 256                                                 | 250                                                         | 200                                                          | 1:4:4:4                                                                                                                                                       | 1000                                                                                                                               | 6.40 | DDR                          | 128 |
+| Radeon 9250 SE                                                   | 2004年 | RV280                                  | 150                                       | AGP 8x/PCI                                            | 128, 256                                                     | 240                                                         | 200                                                          | 1:4:4:4                                                                                                                                                       | 960                                                                                                                                | 3.20 | DDR                          | 64  |
+| Radeon 9250                                                      | 2004年 | RV280                                  | 150                                       | AGP 8x/PCI                                            | 128, 256                                                     | 240                                                         | 200                                                          | 1:4:4:4                                                                                                                                                       | 960                                                                                                                                | 6.40 | DDR                          | 128 |
+| Radeon 8500 AIW                                                  | 2002年 | R200                                   | 150                                       | AGP 4x                                                | 128                                                          | 275                                                         | 275                                                          | 2:4:8:4                                                                                                                                                       | 2200                                                                                                                               | 8.80 | DDR                          | 128 |
+| Radeon 8500 AIW DV                                               | 2002年 | R200                                   | 150                                       | AGP 4x                                                | 128                                                          | 230                                                         | 190                                                          | 2:4:8:4                                                                                                                                                       | 1840                                                                                                                               | 6.08 | DDR                          | 128 |
+| Radeon 9000 Pro AIW                                              | 2003年 | RV250                                  | 150                                       | AGP 4x                                                | 64                                                           | 275                                                         | 270                                                          | 2:4:8:4                                                                                                                                                       | 1100                                                                                                                               | 8.64 | DDR                          | 128 |
+| Radeon 9200 Pro AIW                                              | 2004年 | RV280                                  | 150                                       | AGP 8x                                                | 128                                                          | 250                                                         | 200                                                          | 2:4:8:4                                                                                                                                                       | 1000                                                                                                                               | 6.40 | DDR                          | 128 |
+| Radeon 9000 IGP                                                  | 2003年 | RC350                                  | 150                                       | 集成                                                    | AGP                                                          | 128                                                         | 300                                                          | 0:2:2:2                                                                                                                                                       | 6.40                                                                                                                               | DDR  | 共享                           | 64  |
+| Radeon 9100 IGP                                                  | 2003年 | RS300                                  | 150                                       | 集成                                                    | AGP                                                          | 128                                                         | 300                                                          | 0:2:2:2                                                                                                                                                       | 6.40                                                                                                                               | DDR  | 共享                           | 128 |
+| Radeon 9100 Pro IGP                                              | 2004年 | RS350                                  | 150                                       | 集成                                                    | AGP                                                          | 128                                                         | 300                                                          | 0:2:2:2                                                                                                                                                       | 6.40                                                                                                                               | DDR  | 共享                           | 128 |
+|                                                                  |       |                                        |                                           |                                                       |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |      |                              |     |
 
 ### Radeon R300 AGP系列
 
   - <sup>1</sup>
-    [顶点着色器](../Page/顶点着色器.md "wikilink")：[像素着色器](../Page/像素着色器.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")：[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
   - <sup>2</sup> F-buffer是位于每条像素管线的小型缓冲，目的是为了突破由于R300架构每次只能处理64指令的限制
 
-| 型号                                            | 推出年分                         | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")     | 最高支援記億体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記億体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色         |
-| --------------------------------------------- | ---------------------------- | -------------------------------------- | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------- |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s） | 記億体種類                        | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink") |                                           |                                          |                                           |                                                                                                      |                                                                                              |            |                              |            |
-| Radeon 9650 Apple OEM                         | [?](../Page/?.md "wikilink") | RV351                                  | 110                                       | AGP 8x                                 | 256                                       | 400                                      | 270                                       | 2:4:4:4                                                                                              | ?                                                                                            | ?          | DDR                          | 128        |
-| Radeon 9500                                   | 2002年                        | R300                                   | 110                                       | AGP 8x                                 | 64, 128                                   | 275                                      | 270                                       | 4:4:4:4                                                                                              | 1100                                                                                         | 8.64       | DDR                          | 128(256\*) |
-| Radeon 9500 Pro                               | 2002年10月                     | R300                                   | 150                                       | AGP 8x                                 | 128                                       | 275                                      | 270                                       | 4:8:8:8                                                                                              | 2200                                                                                         | 8.64       | DDR                          | 128        |
-| Radeon 9550 SE                                | 2004年                        | RV350                                  | 130                                       | AGP 8x                                 | 64, 128, 256                              | 250                                      | 200                                       | 2:4:4:4                                                                                              | 1000                                                                                         | 3.20       | DDR                          | 64         |
-| Radeon 9550                                   | 2004年                        | RV350                                  | 130                                       | AGP 8x                                 | 64, 128, 256                              | 250                                      | 200                                       | 2:4:4:4                                                                                              | 1000                                                                                         | 6.40       | DDR                          | 128        |
-| Radeon 9600 SE                                | 2003年                        | RV350                                  | 130                                       | AGP 8x                                 | 128, 256                                  | 325                                      | 200                                       | 2:4:4:4                                                                                              | 1300                                                                                         | 3.20       | DDR                          | 64         |
-| Radeon 9600                                   | 2003年                        | RV350                                  | 130                                       | AGP 8x                                 | 128, 256                                  | 325                                      | 200                                       | 2:4:4:4                                                                                              | 1300                                                                                         | 6.40       | DDR                          | 128        |
-| Radeon 9600 Pro EZ                            | 2003年                        | RV350                                  | 130                                       | AGP 8x                                 | 128, 256                                  | 400                                      | 200                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 6.40       | DDR                          | 128        |
-| AIW 9600 Pro                                  | 2003年4月                      | RV350                                  | 130                                       | AGP 8x                                 | 128, 256                                  | 400                                      | 325                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 10.4       | DDR                          | 128        |
-| Radeon 9600 Pro                               | 2003年4月                      | RV350                                  | 130                                       | AGP 8x                                 | 128, 256                                  | 400                                      | 300                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 9.60       | DDR                          | 128        |
-| Radeon 9600 XT                                | 2003年10月                     | RV360                                  | 130 Low-k                                 | AGP 8x                                 | 128, 256                                  | 500                                      | 300                                       | 2:4:4:4                                                                                              | 2000                                                                                         | 9.60       | DDR                          | 128        |
-| Radeon 9700                                   | 2002年                        | R300                                   | 150                                       | AGP 8x                                 | 128                                       | 275                                      | 270                                       | 4:8:8:8                                                                                              | 2200                                                                                         | 17.28      | DDR                          | 256        |
-| Radeon 9700 Pro                               | 2002年7月                      | R300                                   | 150                                       | AGP 8x                                 | 128                                       | 325                                      | 310                                       | 4:8:8:8                                                                                              | 2600                                                                                         | 19.80      | DDR                          | 256        |
-| AIW 9700 Pro                                  | 2002年7月                      | R300                                   | 150                                       | AGP 8x                                 | 128                                       | 325                                      | 310                                       | 4:8:8:8                                                                                              | 2600                                                                                         | 19.80      | DDR                          | 256        |
-| Radeon 9800 SE 128Bit                         | 2003年                        | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 325                                      | 270                                       | 4:4:4:4                                                                                              | 1300                                                                                         | 9.28       | DDR                          | 128        |
-| Radeon 9800 SE 256Bit                         | 2003年                        | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 380                                      | 340                                       | 4:4:4:4                                                                                              | 1520                                                                                         | 21.76      | DDR, GDDR2                   | 256        |
-| Radeon 9800 128Bit                            | 2003年                        | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 325                                      | 270                                       | 4:8:8:8                                                                                              | 2600                                                                                         | 9.28       | DDR                          | 128        |
-| Radeon 9800 Pro 128Bit                        | 2003年3月                      | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 380                                      | 340                                       | 4:8:8:8                                                                                              | 3040                                                                                         | 10.88      | DDR                          | 128        |
-| Radeon 9800                                   | 2003年                        | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 325                                      | 290                                       | 4:8:8:8                                                                                              | 2600                                                                                         | 18.56      | DDR                          | 256        |
-| Radeon 9800 Pro                               | 2003年3月                      | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 380                                      | 340                                       | 4:8:8:8                                                                                              | 3040                                                                                         | 21.76      | DDR, GDDR2                   | 256        |
-| AIW 9800 Pro                                  | 2003年3月                      | R350                                   | 150                                       | AGP 8x                                 | 128                                       | 380                                      | 340                                       | 4:8:8:8                                                                                              | 3040                                                                                         | 21.76      | DDR                          | 256        |
-| Radeon 9800 Pro 256MB                         | 2003年                        | R350                                   | 150                                       | AGP 8x                                 | 256                                       | 380                                      | 350                                       | 4:8:8:8                                                                                              | 3040                                                                                         | 22.4       | GDDR2                        | 256        |
-| Radeon 9800 XT                                | 2003年10月                     | R360                                   | 150                                       | AGP 8x                                 | 256                                       | 412                                      | 365                                       | 4:8:8:8                                                                                              | 3296                                                                                         | 23.36      | DDR                          | 256        |
-| Radeon X1050                                  | 2007年1月                      | RV370                                  | 110                                       | AGP 8x, PCIe x16                       | 128,256                                   | 400                                      | 333                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 5.33,10.66 | DDR, DDR2                    | 64,128     |
-|                                               |                              |                                        |                                           |                                        |                                           |                                          |                                           |                                                                                                      |                                                                                              |            |                              |            |
+| 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色         |
+| ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ---------- |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s） | 記億体種類                                           | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |            |                              |            |
+| Radeon 9650 Apple OEM                                            | [?](https://zh.wikipedia.org/wiki/? "wikilink") | RV351                                  | 110                                       | AGP 8x                                                | 256                                                          | 400                                                         | 270                                                          | 2:4:4:4                                                                                                                                                       | ?                                                                                                                                  | ?          | DDR                          | 128        |
+| Radeon 9500                                                      | 2002年                                           | R300                                   | 110                                       | AGP 8x                                                | 64, 128                                                      | 275                                                         | 270                                                          | 4:4:4:4                                                                                                                                                       | 1100                                                                                                                               | 8.64       | DDR                          | 128(256\*) |
+| Radeon 9500 Pro                                                  | 2002年10月                                        | R300                                   | 150                                       | AGP 8x                                                | 128                                                          | 275                                                         | 270                                                          | 4:8:8:8                                                                                                                                                       | 2200                                                                                                                               | 8.64       | DDR                          | 128        |
+| Radeon 9550 SE                                                   | 2004年                                           | RV350                                  | 130                                       | AGP 8x                                                | 64, 128, 256                                                 | 250                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1000                                                                                                                               | 3.20       | DDR                          | 64         |
+| Radeon 9550                                                      | 2004年                                           | RV350                                  | 130                                       | AGP 8x                                                | 64, 128, 256                                                 | 250                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1000                                                                                                                               | 6.40       | DDR                          | 128        |
+| Radeon 9600 SE                                                   | 2003年                                           | RV350                                  | 130                                       | AGP 8x                                                | 128, 256                                                     | 325                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1300                                                                                                                               | 3.20       | DDR                          | 64         |
+| Radeon 9600                                                      | 2003年                                           | RV350                                  | 130                                       | AGP 8x                                                | 128, 256                                                     | 325                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1300                                                                                                                               | 6.40       | DDR                          | 128        |
+| Radeon 9600 Pro EZ                                               | 2003年                                           | RV350                                  | 130                                       | AGP 8x                                                | 128, 256                                                     | 400                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 6.40       | DDR                          | 128        |
+| AIW 9600 Pro                                                     | 2003年4月                                         | RV350                                  | 130                                       | AGP 8x                                                | 128, 256                                                     | 400                                                         | 325                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 10.4       | DDR                          | 128        |
+| Radeon 9600 Pro                                                  | 2003年4月                                         | RV350                                  | 130                                       | AGP 8x                                                | 128, 256                                                     | 400                                                         | 300                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 9.60       | DDR                          | 128        |
+| Radeon 9600 XT                                                   | 2003年10月                                        | RV360                                  | 130 Low-k                                 | AGP 8x                                                | 128, 256                                                     | 500                                                         | 300                                                          | 2:4:4:4                                                                                                                                                       | 2000                                                                                                                               | 9.60       | DDR                          | 128        |
+| Radeon 9700                                                      | 2002年                                           | R300                                   | 150                                       | AGP 8x                                                | 128                                                          | 275                                                         | 270                                                          | 4:8:8:8                                                                                                                                                       | 2200                                                                                                                               | 17.28      | DDR                          | 256        |
+| Radeon 9700 Pro                                                  | 2002年7月                                         | R300                                   | 150                                       | AGP 8x                                                | 128                                                          | 325                                                         | 310                                                          | 4:8:8:8                                                                                                                                                       | 2600                                                                                                                               | 19.80      | DDR                          | 256        |
+| AIW 9700 Pro                                                     | 2002年7月                                         | R300                                   | 150                                       | AGP 8x                                                | 128                                                          | 325                                                         | 310                                                          | 4:8:8:8                                                                                                                                                       | 2600                                                                                                                               | 19.80      | DDR                          | 256        |
+| Radeon 9800 SE 128Bit                                            | 2003年                                           | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 325                                                         | 270                                                          | 4:4:4:4                                                                                                                                                       | 1300                                                                                                                               | 9.28       | DDR                          | 128        |
+| Radeon 9800 SE 256Bit                                            | 2003年                                           | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 380                                                         | 340                                                          | 4:4:4:4                                                                                                                                                       | 1520                                                                                                                               | 21.76      | DDR, GDDR2                   | 256        |
+| Radeon 9800 128Bit                                               | 2003年                                           | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 325                                                         | 270                                                          | 4:8:8:8                                                                                                                                                       | 2600                                                                                                                               | 9.28       | DDR                          | 128        |
+| Radeon 9800 Pro 128Bit                                           | 2003年3月                                         | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 380                                                         | 340                                                          | 4:8:8:8                                                                                                                                                       | 3040                                                                                                                               | 10.88      | DDR                          | 128        |
+| Radeon 9800                                                      | 2003年                                           | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 325                                                         | 290                                                          | 4:8:8:8                                                                                                                                                       | 2600                                                                                                                               | 18.56      | DDR                          | 256        |
+| Radeon 9800 Pro                                                  | 2003年3月                                         | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 380                                                         | 340                                                          | 4:8:8:8                                                                                                                                                       | 3040                                                                                                                               | 21.76      | DDR, GDDR2                   | 256        |
+| AIW 9800 Pro                                                     | 2003年3月                                         | R350                                   | 150                                       | AGP 8x                                                | 128                                                          | 380                                                         | 340                                                          | 4:8:8:8                                                                                                                                                       | 3040                                                                                                                               | 21.76      | DDR                          | 256        |
+| Radeon 9800 Pro 256MB                                            | 2003年                                           | R350                                   | 150                                       | AGP 8x                                                | 256                                                          | 380                                                         | 350                                                          | 4:8:8:8                                                                                                                                                       | 3040                                                                                                                               | 22.4       | GDDR2                        | 256        |
+| Radeon 9800 XT                                                   | 2003年10月                                        | R360                                   | 150                                       | AGP 8x                                                | 256                                                          | 412                                                         | 365                                                          | 4:8:8:8                                                                                                                                                       | 3296                                                                                                                               | 23.36      | DDR                          | 256        |
+| Radeon X1050                                                     | 2007年1月                                         | RV370                                  | 110                                       | AGP 8x, PCIe x16                                      | 128,256                                                      | 400                                                         | 333                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 5.33,10.66 | DDR, DDR2                    | 64,128     |
+|                                                                  |                                                 |                                        |                                           |                                                       |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |            |                              |            |
 
 ### Radeon R300 PCIe系列
 
   - <sup>1</sup>
-    [顶点着色单元](../Page/顶点着色单元.md "wikilink")：[像素着色单元](../Page/像素着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
-| 型号                                            | 推出年分       | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")     | 最高支援記億体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記億体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色            |
-| --------------------------------------------- | ---------- | -------------------------------------- | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ------------- |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s） | 記億体種類      | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink") |                                           |                                          |                                           |                                                                                                      |                                                                                              |            |                              |               |
-| Radeon Xpress 200 IGP                         | 2004年11月8日 | RS480                                  | 130                                       | 集成 PCIe                                | 128                                       | 300                                      | 200 (DDR) 333 (DDR2)                      | 0:2:2:2                                                                                              | 600                                                                                          | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
-| Radeon Xpress 200 IGP                         | 2005年7月    | RS482                                  | 110                                       | 集成 PCIe                                | 128                                       | 300                                      | 200 (DDR) 333 (DDR2)                      | 0:2:2:2                                                                                              | 600                                                                                          | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
-| Radeon Xpress 200 IGP                         | 2005年3月11日 | RS400                                  | 130                                       | 集成 PCIe                                | 256                                       | 300                                      | 200 (DDR) 333 (DDR2)                      | 0:2:2:2                                                                                              | 600                                                                                          | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
-| Radeon Xpress 1100 IGP                        | 2006年5月23日 | RS482                                  | 110                                       | 集成 PCIe                                | 128                                       | 300                                      | 400                                       | 0:2:2:2                                                                                              | 600                                                                                          | 12.80      | DDR2                         | 128 Shared    |
-| Radeon Xpress 1150 IGP                        | 2006年5月23日 | RS485                                  | 110                                       | 集成 PCIe                                | 128                                       | 400                                      | 400                                       | 0:2:2:2                                                                                              | 800                                                                                          | 12.80      | DDR2                         | 128 Shared    |
-| Radeon X300 SE                                | 2004年6月    | RV370                                  | 110                                       | PCIe x16                               | 128                                       | 325                                      | 200                                       | 2:4:4:4                                                                                              | 1300                                                                                         | 3.20       | DDR, GDDR2                   | 64            |
-| Radeon X300                                   | 2004年6月    | RV370                                  | 110                                       | PCIe x16                               | 128                                       | 325                                      | 200                                       | 2:4:4:4                                                                                              | 1300                                                                                         | 6.40       | DDR, GDDR2                   | 128           |
-| Radeon X550 SE                                | 2005年7月    | RV370                                  | 110                                       | PCIe x16                               | 64, 128                                   | 400                                      | 250                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 4.00       | DDR, GDDR2                   | 64            |
-| Radeon X550                                   | 2005年7月    | RV370                                  | 110                                       | PCIe x16                               | 64, 128                                   | 400                                      | 250                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 8.00       | DDR, GDDR2                   | 128           |
-| Radeon X600 Pro                               | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                               | 128, 256                                  | 400                                      | 300                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 9.60       | DDR, GDDR2                   | 128           |
-| AIW X600 Pro                                  | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                               | 128, 256                                  | 400                                      | 300                                       | 2:4:4:4                                                                                              | 1600                                                                                         | 9.60       | DDR                          | 128           |
-| Radeon X600 XT                                | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                               | 128, 256                                  | 500                                      | 370                                       | 2:4:4:4                                                                                              | 2000                                                                                         | 11.84      | DDR, GDDR2                   | 128           |
-|                                               |            |                                        |                                           |                                        |                                           |                                          |                                           |                                                                                                      |                                                                                              |            |                              |               |
+| 型号                                                               | 推出年分       | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体        | Graphics library support（版本） | 特色            |
+| ---------------------------------------------------------------- | ---------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | ------------- |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s） | 記億体種類      | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |            |                              |               |
+| Radeon Xpress 200 IGP                                            | 2004年11月8日 | RS480                                  | 130                                       | 集成 PCIe                                               | 128                                                          | 300                                                         | 200 (DDR) 333 (DDR2)                                         | 0:2:2:2                                                                                                                                                       | 600                                                                                                                                | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
+| Radeon Xpress 200 IGP                                            | 2005年7月    | RS482                                  | 110                                       | 集成 PCIe                                               | 128                                                          | 300                                                         | 200 (DDR) 333 (DDR2)                                         | 0:2:2:2                                                                                                                                                       | 600                                                                                                                                | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
+| Radeon Xpress 200 IGP                                            | 2005年3月11日 | RS400                                  | 130                                       | 集成 PCIe                                               | 256                                                          | 300                                                         | 200 (DDR) 333 (DDR2)                                         | 0:2:2:2                                                                                                                                                       | 600                                                                                                                                | 6.40 10.67 | DDR DDR2                     | 64/128 Shared |
+| Radeon Xpress 1100 IGP                                           | 2006年5月23日 | RS482                                  | 110                                       | 集成 PCIe                                               | 128                                                          | 300                                                         | 400                                                          | 0:2:2:2                                                                                                                                                       | 600                                                                                                                                | 12.80      | DDR2                         | 128 Shared    |
+| Radeon Xpress 1150 IGP                                           | 2006年5月23日 | RS485                                  | 110                                       | 集成 PCIe                                               | 128                                                          | 400                                                         | 400                                                          | 0:2:2:2                                                                                                                                                       | 800                                                                                                                                | 12.80      | DDR2                         | 128 Shared    |
+| Radeon X300 SE                                                   | 2004年6月    | RV370                                  | 110                                       | PCIe x16                                              | 128                                                          | 325                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1300                                                                                                                               | 3.20       | DDR, GDDR2                   | 64            |
+| Radeon X300                                                      | 2004年6月    | RV370                                  | 110                                       | PCIe x16                                              | 128                                                          | 325                                                         | 200                                                          | 2:4:4:4                                                                                                                                                       | 1300                                                                                                                               | 6.40       | DDR, GDDR2                   | 128           |
+| Radeon X550 SE                                                   | 2005年7月    | RV370                                  | 110                                       | PCIe x16                                              | 64, 128                                                      | 400                                                         | 250                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 4.00       | DDR, GDDR2                   | 64            |
+| Radeon X550                                                      | 2005年7月    | RV370                                  | 110                                       | PCIe x16                                              | 64, 128                                                      | 400                                                         | 250                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 8.00       | DDR, GDDR2                   | 128           |
+| Radeon X600 Pro                                                  | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                                              | 128, 256                                                     | 400                                                         | 300                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 9.60       | DDR, GDDR2                   | 128           |
+| AIW X600 Pro                                                     | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                                              | 128, 256                                                     | 400                                                         | 300                                                          | 2:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 9.60       | DDR                          | 128           |
+| Radeon X600 XT                                                   | 2004年6月    | RV380                                  | 130 Low-k                                 | PCIe x16                                              | 128, 256                                                     | 500                                                         | 370                                                          | 2:4:4:4                                                                                                                                                       | 2000                                                                                                                               | 11.84      | DDR, GDDR2                   | 128           |
+|                                                                  |            |                                        |                                           |                                                       |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |            |                              |               |
 
 ### Radeon R400 AGP系列
 
   - <sup>1</sup>
-    [顶点着色单元](../Page/顶点着色单元.md "wikilink")：[像素着色单元](../Page/像素着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
-| 型号                                            | 推出年分                         | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")     | 最高支援記億体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記億体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
-| --------------------------------------------- | ---------------------------- | -------------------------------------- | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s） | 記億体種類                        | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink") |                                           |                                          |                                           |                                                                                                      |                                                                                              |       |                              |     |
-| Radeon X800 SE                                | [?](../Page/?.md "wikilink") | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 425                                      | 400                                       | 6:8:8:8                                                                                              | 3400                                                                                         | 25.60 | DDR, GDDR2, GDDR3            | 256 |
-| Radeon X800 GT                                | 2005年                        | R420                                   | 130                                       | Low-k AGP 8x                           | 256                                       | 475                                      | 490                                       | 6:8:8:8                                                                                              | 3800                                                                                         | 31.36 | GDDR3                        | 256 |
-| Radeon X800 Pro                               | 2004年5月                      | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 475                                      | 450                                       | 6:12:12:12                                                                                           | 5700                                                                                         | 28.80 | GDDR3                        | 256 |
-| Radeon X800 Pro VIVO                          | 2004年5月                      | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 475                                      | 450                                       | 6:12:12:12                                                                                           | 5700                                                                                         | 28.80 | GDDR3                        | 256 |
-| Radeon X800 XL                                | [?](../Page/?.md "wikilink") | R430                                   | 110                                       | AGP 8x                                 | 256                                       | 400                                      | 500                                       | 6:16:16:16                                                                                           | 6400                                                                                         | 32.00 | GDDR3                        | 256 |
-| Radeon X800 XT                                | 2004年                        | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 500                                      | 500                                       | 6:16:16:16                                                                                           | 8000                                                                                         | 32.00 | GDDR3                        | 256 |
-| AIW X800 XT                                   | 2004年                        | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 500                                      | 500                                       | 6:16:16:16                                                                                           | 8000                                                                                         | 32.00 | GDDR3                        | 256 |
-| Radeon X800 XT PE                             | 2004年5月                      | R420                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 520                                      | 560                                       | 6:16:16:16                                                                                           | 8320                                                                                         | 35.84 | GDDR3                        | 256 |
-| Radeon X850 Pro                               | 2005年                        | R481                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 520                                      | 540                                       | 6:12:12:12                                                                                           | 6240                                                                                         | 34.56 | GDDR3                        | 256 |
-| Radeon X850 XT                                | 2005年                        | R481                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 520                                      | 540                                       | 6:16:16:16                                                                                           | 8320                                                                                         | 34.56 | GDDR3                        | 256 |
-| Radeon X850 XT PE                             | 2005年                        | R481                                   | 130 Low-k                                 | AGP 8x                                 | 256                                       | 540                                      | 590                                       | 6:16:16:16                                                                                           | 8640                                                                                         | 37.76 | GDDR3                        | 256 |
-|                                               |                              |                                        |                                           |                                        |                                           |                                          |                                           |                                                                                                      |                                                                                              |       |                              |     |
+| 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
+| ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s） | 記億体種類                                           | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |       |                              |     |
+| Radeon X800 SE                                                   | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 425                                                         | 400                                                          | 6:8:8:8                                                                                                                                                       | 3400                                                                                                                               | 25.60 | DDR, GDDR2, GDDR3            | 256 |
+| Radeon X800 GT                                                   | 2005年                                           | R420                                   | 130                                       | Low-k AGP 8x                                          | 256                                                          | 475                                                         | 490                                                          | 6:8:8:8                                                                                                                                                       | 3800                                                                                                                               | 31.36 | GDDR3                        | 256 |
+| Radeon X800 Pro                                                  | 2004年5月                                         | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 475                                                         | 450                                                          | 6:12:12:12                                                                                                                                                    | 5700                                                                                                                               | 28.80 | GDDR3                        | 256 |
+| Radeon X800 Pro VIVO                                             | 2004年5月                                         | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 475                                                         | 450                                                          | 6:12:12:12                                                                                                                                                    | 5700                                                                                                                               | 28.80 | GDDR3                        | 256 |
+| Radeon X800 XL                                                   | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R430                                   | 110                                       | AGP 8x                                                | 256                                                          | 400                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 6400                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| Radeon X800 XT                                                   | 2004年                                           | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 500                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| AIW X800 XT                                                      | 2004年                                           | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 500                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| Radeon X800 XT PE                                                | 2004年5月                                         | R420                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 520                                                         | 560                                                          | 6:16:16:16                                                                                                                                                    | 8320                                                                                                                               | 35.84 | GDDR3                        | 256 |
+| Radeon X850 Pro                                                  | 2005年                                           | R481                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 520                                                         | 540                                                          | 6:12:12:12                                                                                                                                                    | 6240                                                                                                                               | 34.56 | GDDR3                        | 256 |
+| Radeon X850 XT                                                   | 2005年                                           | R481                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 520                                                         | 540                                                          | 6:16:16:16                                                                                                                                                    | 8320                                                                                                                               | 34.56 | GDDR3                        | 256 |
+| Radeon X850 XT PE                                                | 2005年                                           | R481                                   | 130 Low-k                                 | AGP 8x                                                | 256                                                          | 540                                                         | 590                                                          | 6:16:16:16                                                                                                                                                    | 8640                                                                                                                               | 37.76 | GDDR3                        | 256 |
+|                                                                  |                                                 |                                        |                                           |                                                       |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |       |                              |     |
 
 ### Radeon R400 PCIe系列
 
   - <sup>1</sup>
-    [顶点着色单元](../Page/顶点着色单元.md "wikilink")：[像素着色单元](../Page/像素着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
-| 型号                                            | 推出年分                         | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")     | 最高支援記億体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記億体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
-| --------------------------------------------- | ---------------------------- | -------------------------------------- | ----------------------------------------- | -------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s） | 記億体種類                        | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink") |                                           |                                          |                                           |                                                                                                      |                                                                                              |       |                              |     |
-| Radeon Xpress 1250 IGP（基于 X700）               | 2006年8月29日                   | RS600                                  | 80                                        | 板载 PCIe                                | 512 (HM)                                  | 500                                      | 系统内存                                      | 0:4:4:4                                                                                              | 2000                                                                                         |       | 共享系统内存 (DDR2)                | 128 |
-| Radeon X1270 IGP（基于 X700）                     | 2007年2月28日                   | M690T                                  | 80                                        | 板载 PCIe                                | 1024 (local frame buffer + HM)            | 400                                      | 系统内存                                      | 0:4:4:4                                                                                              | 1600                                                                                         | 系统内存  | 系统内存 + 本地缓存 (DDR2)           | 128 |
-| Radeon X1250 IGP（基于 X700）                     | 2007年2月28日                   | RS690                                  | 80                                        | 板载 PCIe                                | 1024 (HM)                                 | 400                                      | 系统内存                                      | 0:4:4:4                                                                                              | 1600                                                                                         | 系统内存  | 共享系统内存 (DDR2)                | 128 |
-| Radeon X1200 IGP（基于 X700）                     | 2007年2月28日                   | RS690C                                 | 80                                        | 板载 PCIe                                | 1024 (HM)                                 | 350                                      | 系统内存                                      | 0:4:4:4                                                                                              | 1400                                                                                         | 系统内存  | 系统内存 (DDR2)                  | 128 |
-| AVIVO Radeon HD 2400 IGP                      | 2007年2月28日                   | RS740/RS740C                           | 55                                        | 板载 PCIe                                | 1024 (HM)                                 | ?                                        | 系统内存                                      | 0:4:4:4                                                                                              | ?                                                                                            | 系统内存  | 系统内存 (DDR2)                  | 128 |
-| Radeon X700                                   | [?](../Page/?.md "wikilink") | RV410                                  | 110                                       | PCIe x16                               | 128, 256                                  | 400                                      | 350                                       | 6:8:8:8                                                                                              | 3200                                                                                         | 11.20 | DDR, GDDR2, GDDR3            | 128 |
-| Radeon X700 Pro                               | 2004年9月                      | RV410                                  | 110                                       | PCIe x16                               | 128, 256                                  | 425                                      | 430                                       | 6:8:8:8                                                                                              | 3400                                                                                         | 13.76 | GDDR3                        | 128 |
-| Radeon X700 XT                                | 2004年9月                      | RV410                                  | 110                                       | PCIe x16                               | 128                                       | 475                                      | 525                                       | 6:8:8:8                                                                                              | 3800                                                                                         | 16.80 | GDDR3                        | 128 |
-| Radeon X800 SE                                | [?](../Page/?.md "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                               | 128                                       | 425                                      | 350                                       | 6:8:8:8                                                                                              | 3400                                                                                         | 22.40 | DDR, GDDR2, GDDR3            | 256 |
-| Radeon X800 GT 128                            | 2005年9月                      | R423, R480                             | 130 Low-k                                 | PCIe x16                               | 128                                       | 475                                      | 350                                       | 6:8:8:8                                                                                              | 3800                                                                                         | 22.40 | DDR, GDDR2, GDDR3            | 256 |
-| Radeon X800 GT 256                            | 2005年9月                      | R423, R480                             | 130 Low-k                                 | PCIe x16                               | 256                                       | 475                                      | 490                                       | 6:8:8:8                                                                                              | 3800                                                                                         | 31.36 | GDDR3                        | 256 |
-| Radeon X800 GTO 128                           | 2005年11月R423,                | R480                                   | 130 Low-k                                 | PCIe x16                               | 128                                       | 400                                      | 350                                       | 6:12:12:12                                                                                           | 4800                                                                                         | 22.40 | DDR, GDDR2, GDDR3            | 256 |
-| Radeon X800                                   | 2004年12月                     | R430                                   | 110                                       | PCIe x16                               | 128, 256                                  | 392                                      | 350                                       | 6:12:12:12                                                                                           | 4704                                                                                         | 22.40 | DDR, GDDR2, GDDR3            | 256 |
-| Radeon X800 GTO 256                           | 2005年11月                     | R423, R480                             | 130 Low-k                                 | PCIe x16                               | 256                                       | 400                                      | 490                                       | 6:12:12:12                                                                                           | 4800                                                                                         | 31.36 | GDDR3                        | 256 |
-| Radeon X800 GTO²                              |                              | R430, R480                             | 110, 130                                  | PCIe x16                               | 256                                       | 400                                      | 490                                       | 6:16:16:16                                                                                           | 6400                                                                                         | 31.36 | GDDR3                        | 256 |
-| Radeon X800 GTO-16                            |                              | R430                                   | 110                                       | PCIe x16                               | 256                                       | 400                                      | 490                                       | 6:16:16:16                                                                                           | 6400                                                                                         | 31.36 | GDDR3                        | 256 |
-| Radeon X800 Pro                               | 2004年5月                      | R423                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 475                                      | 450                                       | 6:12:12:12                                                                                           | 5700                                                                                         | 28.80 | GDDR3                        | 256 |
-| Radeon X800 Pro VIVO                          | [?](../Page/?.md "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                               |                                           | 900                                      |                                           | ?:12:12:12                                                                                           |                                                                                              |       | GDDR3                        | 256 |
-| AIW X800 XL                                   | [?](../Page/?.md "wikilink") | R430                                   | 110                                       | PCIe 16x                               | 256                                       | 400                                      | 490                                       | 6:16:16:16                                                                                           | 6400                                                                                         | 31.40 | GDDR3                        | 256 |
-| Radeon X800 XL                                | 2004年12月，2005年5月             | R430                                   | 110                                       | PCIe x16                               | 256, 512                                  | 400                                      | 500                                       | 6:16:16:16                                                                                           | 6400                                                                                         | 32.00 | GDDR3                        | 256 |
-| Radeon X800 XT                                | [?](../Page/?.md "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 500                                      | 500                                       | 6:16:16:16                                                                                           | 8000                                                                                         | 32.00 | GDDR3                        | 256 |
-| Radeon X800 XT VIVO                           | [?](../Page/?.md "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 500                                      | 500                                       | 6:16:16:16                                                                                           | 8000                                                                                         | 32.00 | GDDR3                        | 256 |
-| Radeon X800 XT PE                             | [?](../Page/?.md "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 520                                      | 560                                       | 6:16:16:16                                                                                           | 8320                                                                                         | 35.84 | GDDR3                        | 256 |
-| Radeon X850 Pro                               | 2004年12月                     | R480                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 520                                      | 540                                       | 6:12:12:12                                                                                           | 6240                                                                                         | 34.56 | GDDR3                        | 256 |
-| Radeon X850 XT                                | 2004年12月                     | R480                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 520                                      | 540                                       | 6:16:16:16                                                                                           | 8320                                                                                         | 34.56 | GDDR3                        | 256 |
-| Radeon X850 XT PE                             | 2004年12月                     | R480                                   | 130 Low-k                                 | PCIe x16                               | 256                                       | 540                                      | 590                                       | 6:16:16:16                                                                                           | 8640                                                                                         | 37.76 | GDDR3                        | 256 |
-|                                               |                              |                                        |                                           |                                        |                                           |                                          |                                           |                                                                                                      |                                                                                              |       |                              |     |
+| 型号                                                               | 推出年分                                            | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink") | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体   | Graphics library support（版本） | 特色  |
+| ---------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- | --- |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s） | 記億体種類                                           | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |       |                              |     |
+| Radeon Xpress 1250 IGP（基于 X700）                                  | 2006年8月29日                                      | RS600                                  | 80                                        | 板载 PCIe                                               | 512 (HM)                                                     | 500                                                         | 系统内存                                                         | 0:4:4:4                                                                                                                                                       | 2000                                                                                                                               |       | 共享系统内存 (DDR2)                | 128 |
+| Radeon X1270 IGP（基于 X700）                                        | 2007年2月28日                                      | M690T                                  | 80                                        | 板载 PCIe                                               | 1024 (local frame buffer + HM)                               | 400                                                         | 系统内存                                                         | 0:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 系统内存  | 系统内存 + 本地缓存 (DDR2)           | 128 |
+| Radeon X1250 IGP（基于 X700）                                        | 2007年2月28日                                      | RS690                                  | 80                                        | 板载 PCIe                                               | 1024 (HM)                                                    | 400                                                         | 系统内存                                                         | 0:4:4:4                                                                                                                                                       | 1600                                                                                                                               | 系统内存  | 共享系统内存 (DDR2)                | 128 |
+| Radeon X1200 IGP（基于 X700）                                        | 2007年2月28日                                      | RS690C                                 | 80                                        | 板载 PCIe                                               | 1024 (HM)                                                    | 350                                                         | 系统内存                                                         | 0:4:4:4                                                                                                                                                       | 1400                                                                                                                               | 系统内存  | 系统内存 (DDR2)                  | 128 |
+| AVIVO Radeon HD 2400 IGP                                         | 2007年2月28日                                      | RS740/RS740C                           | 55                                        | 板载 PCIe                                               | 1024 (HM)                                                    | ?                                                           | 系统内存                                                         | 0:4:4:4                                                                                                                                                       | ?                                                                                                                                  | 系统内存  | 系统内存 (DDR2)                  | 128 |
+| Radeon X700                                                      | [?](https://zh.wikipedia.org/wiki/? "wikilink") | RV410                                  | 110                                       | PCIe x16                                              | 128, 256                                                     | 400                                                         | 350                                                          | 6:8:8:8                                                                                                                                                       | 3200                                                                                                                               | 11.20 | DDR, GDDR2, GDDR3            | 128 |
+| Radeon X700 Pro                                                  | 2004年9月                                         | RV410                                  | 110                                       | PCIe x16                                              | 128, 256                                                     | 425                                                         | 430                                                          | 6:8:8:8                                                                                                                                                       | 3400                                                                                                                               | 13.76 | GDDR3                        | 128 |
+| Radeon X700 XT                                                   | 2004年9月                                         | RV410                                  | 110                                       | PCIe x16                                              | 128                                                          | 475                                                         | 525                                                          | 6:8:8:8                                                                                                                                                       | 3800                                                                                                                               | 16.80 | GDDR3                        | 128 |
+| Radeon X800 SE                                                   | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                                              | 128                                                          | 425                                                         | 350                                                          | 6:8:8:8                                                                                                                                                       | 3400                                                                                                                               | 22.40 | DDR, GDDR2, GDDR3            | 256 |
+| Radeon X800 GT 128                                               | 2005年9月                                         | R423, R480                             | 130 Low-k                                 | PCIe x16                                              | 128                                                          | 475                                                         | 350                                                          | 6:8:8:8                                                                                                                                                       | 3800                                                                                                                               | 22.40 | DDR, GDDR2, GDDR3            | 256 |
+| Radeon X800 GT 256                                               | 2005年9月                                         | R423, R480                             | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 475                                                         | 490                                                          | 6:8:8:8                                                                                                                                                       | 3800                                                                                                                               | 31.36 | GDDR3                        | 256 |
+| Radeon X800 GTO 128                                              | 2005年11月R423,                                   | R480                                   | 130 Low-k                                 | PCIe x16                                              | 128                                                          | 400                                                         | 350                                                          | 6:12:12:12                                                                                                                                                    | 4800                                                                                                                               | 22.40 | DDR, GDDR2, GDDR3            | 256 |
+| Radeon X800                                                      | 2004年12月                                        | R430                                   | 110                                       | PCIe x16                                              | 128, 256                                                     | 392                                                         | 350                                                          | 6:12:12:12                                                                                                                                                    | 4704                                                                                                                               | 22.40 | DDR, GDDR2, GDDR3            | 256 |
+| Radeon X800 GTO 256                                              | 2005年11月                                        | R423, R480                             | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 400                                                         | 490                                                          | 6:12:12:12                                                                                                                                                    | 4800                                                                                                                               | 31.36 | GDDR3                        | 256 |
+| Radeon X800 GTO²                                                 |                                                 | R430, R480                             | 110, 130                                  | PCIe x16                                              | 256                                                          | 400                                                         | 490                                                          | 6:16:16:16                                                                                                                                                    | 6400                                                                                                                               | 31.36 | GDDR3                        | 256 |
+| Radeon X800 GTO-16                                               |                                                 | R430                                   | 110                                       | PCIe x16                                              | 256                                                          | 400                                                         | 490                                                          | 6:16:16:16                                                                                                                                                    | 6400                                                                                                                               | 31.36 | GDDR3                        | 256 |
+| Radeon X800 Pro                                                  | 2004年5月                                         | R423                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 475                                                         | 450                                                          | 6:12:12:12                                                                                                                                                    | 5700                                                                                                                               | 28.80 | GDDR3                        | 256 |
+| Radeon X800 Pro VIVO                                             | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                                              |                                                              | 900                                                         |                                                              | ?:12:12:12                                                                                                                                                    |                                                                                                                                    |       | GDDR3                        | 256 |
+| AIW X800 XL                                                      | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R430                                   | 110                                       | PCIe 16x                                              | 256                                                          | 400                                                         | 490                                                          | 6:16:16:16                                                                                                                                                    | 6400                                                                                                                               | 31.40 | GDDR3                        | 256 |
+| Radeon X800 XL                                                   | 2004年12月，2005年5月                                | R430                                   | 110                                       | PCIe x16                                              | 256, 512                                                     | 400                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 6400                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| Radeon X800 XT                                                   | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 500                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| Radeon X800 XT VIVO                                              | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 500                                                         | 500                                                          | 6:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.00 | GDDR3                        | 256 |
+| Radeon X800 XT PE                                                | [?](https://zh.wikipedia.org/wiki/? "wikilink") | R423                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 520                                                         | 560                                                          | 6:16:16:16                                                                                                                                                    | 8320                                                                                                                               | 35.84 | GDDR3                        | 256 |
+| Radeon X850 Pro                                                  | 2004年12月                                        | R480                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 520                                                         | 540                                                          | 6:12:12:12                                                                                                                                                    | 6240                                                                                                                               | 34.56 | GDDR3                        | 256 |
+| Radeon X850 XT                                                   | 2004年12月                                        | R480                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 520                                                         | 540                                                          | 6:16:16:16                                                                                                                                                    | 8320                                                                                                                               | 34.56 | GDDR3                        | 256 |
+| Radeon X850 XT PE                                                | 2004年12月                                        | R480                                   | 130 Low-k                                 | PCIe x16                                              | 256                                                          | 540                                                         | 590                                                          | 6:16:16:16                                                                                                                                                    | 8640                                                                                                                               | 37.76 | GDDR3                        | 256 |
+|                                                                  |                                                 |                                        |                                           |                                                       |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |       |                              |     |
 
 ### Radeon R500系列
 
   - <sup>1</sup>
-    [顶点着色单元](../Page/顶点着色单元.md "wikilink")：[像素着色单元](../Page/像素着色单元.md "wikilink")：[材质贴图单元](../Page/材质贴图单元.md "wikilink")：[渲染输出单元](../Page/渲染输出单元.md "wikilink")
+    [顶点着色单元](https://zh.wikipedia.org/wiki/顶点着色单元 "wikilink")：[像素着色单元](https://zh.wikipedia.org/wiki/像素着色单元 "wikilink")：[材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink")：[渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
 
-| 型号                                                                | 推出年分                     | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](../Page/匯流排.md "wikilink")                                                                                                                                                 | 最高支援記億体容量（[MB](../Page/MB.md "wikilink")） | 最高核心頻率（[MHz](../Page/MHz.md "wikilink")） | 最高記億体頻率（[MHz](../Page/MHz.md "wikilink")） | [管線](../Page/管線.md "wikilink") x [TMU](../Page/TMU.md "wikilink") x [VPU](../Page/VPU.md "wikilink") | 最高[多邊形產生速率](../Page/多邊形產生速率.md "wikilink")（[MT](../Page/Texel_\(graphics\).md "wikilink")／s） | 記億体  | Graphics library support（版本）                 | 特色                 |
-| ----------------------------------------------------------------- | ------------------------ | -------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | -------------------------------------------- | ------------------ |
-| 最高頻寛（[GiB](../Page/Gibibyte.md "wikilink")／s）                     | 記億体種類                    | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                                                                                                                                             |                                           |                                          |                                           |                                                                                                      |                                                                                              |      |                                              |                    |
-| Radeon X1300                                                      | Oct 2005                 | RV515                                  | 90                                        | [PCIe](../Page/PCI_Express.md "wikilink") x16,（[AGP](../Page/Accelerated_Graphics_Port.md "wikilink") 8x, [PCI](../Page/Peripheral_Component_Interconnect.md "wikilink")）Visiontek | 128, 256, 512                             | 450                                      | 533                                       | 2:4:4:4                                                                                              | 1800                                                                                         | 8.0  | [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink") | 128, 128, 64 (PCI) |
-| Radeon X1300 Pro                                                  | Oct 2005                 | RV515                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 256                                       | 600                                      | 400                                       | 2:4:4:4                                                                                              | 2400                                                                                         | 12.8 | [GDDR2](../Page/DDR2_SDRAM.md "wikilink")    | 128                |
-| Radeon X1300 XT                                                   | Sep 2006                 | RV530, RV535                           | 90, 80                                    | PCIe x16                                                                                                                                                                           | 128, 256, 512                             | 500                                      | 400                                       | 5:12:4:4                                                                                             | 2000                                                                                         | 12.8 | GDDR2                                        | 128                |
-| Radeon X1550                                                      | Jan 2007                 | RV516                                  | 80                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 256, 512                                  | 550                                      | 400                                       | 2:4:4:4                                                                                              | 2200                                                                                         | 12.8 | GDDR2                                        | 128                |
-| Radeon X1600 Pro                                                  | Oct 2005                 | RV530                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 128, 256, 512                             | 500                                      | 405                                       | 5:12:4:4                                                                                             | 2000                                                                                         | 12.8 | GDDR2                                        | 128                |
-| Radeon X1600 XT                                                   | Oct 2005                 | RV530                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 256                                       | 590                                      | 690                                       | 5:12:4:4                                                                                             | 2360                                                                                         | 22.1 | [GDDR3](../Page/GDDR3.md "wikilink")         | 128                |
-| Radeon X1650                                                      | 2007?                    | RV530, RV535                           | 90, 80                                    | PCIe x16, AGP 8x                                                                                                                                                                   | 256, 512                                  | 500                                      | 400                                       | 5:12:4:4                                                                                             | 2000                                                                                         | 12.8 | GDDR2                                        | 128                |
-| Radeon X1650 Pro                                                  | Sep 2006                 | RV530, RV535                           | 90, 80                                    | PCIe x16, AGP 8x                                                                                                                                                                   | 256, 512                                  | 650                                      | 700                                       | 5:12:4:4                                                                                             | 2400                                                                                         | 22.4 | GDDR2                                        | 128                |
-| Radeon X1650 GT                                                   | 2006                     | RV560                                  | 80                                        | PCIe x16                                                                                                                                                                           | 256                                       | 400                                      | 400                                       | 8:24:8:8                                                                                             | 3200                                                                                         | 12.8 | GDDR3                                        | 128                |
-| Radeon X1650 XT                                                   | Oct 2006                 | RV560                                  | 80                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 256                                       | 575                                      | 690                                       | 8:24:8:8                                                                                             | 4600                                                                                         | 22.1 | GDDR3                                        | 128                |
-| Radeon X1800 GTO                                                  | Mar 2006                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 500                                      | 500                                       | 8:12:12:12                                                                                           | 6000                                                                                         | 32.0 | GDDR3                                        | 256                |
-| Radeon X1800 GTO Rev.2                                            | Mar 2006                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 500                                      | 500                                       | 8:16:16:16                                                                                           | 8000                                                                                         | 32.0 | GDDR3                                        | 256                |
-| AIW X1800 XL                                                      | Nov 2005                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 500                                      | 500                                       | 8:16:16:16                                                                                           | 8000                                                                                         | 32.0 | GDDR3                                        | 256                |
-| Radeon X1800 XL                                                   | Oct 2005                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 500                                      | 500                                       | 8:16:16:16                                                                                           | 8000                                                                                         | 32.0 | GDDR3                                        | 256                |
-| Radeon X1800 XT                                                   | Mar 2006, Oct 2005       | R520                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256, 512                                  | 625                                      | 750                                       | 8:16:16:16                                                                                           | 10000                                                                                        | 48.0 | GDDR3                                        | 256                |
-| Radeon X1900 GT                                                   | May 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 575                                      | 600                                       | 8:36:12:12                                                                                           | 6900                                                                                         | 38.4 | GDDR3                                        | 256                |
-| Radeon X1900 GT Rev.2                                             | Oct 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 512                                      | 660                                       | 8:36:12:12                                                                                           | 6144                                                                                         | 42.2 | GDDR3                                        | 256                |
-| Radeon X1900 [All-In-Wonder](../Page/All-In-Wonder.md "wikilink") | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256                                       | 500                                      | 480                                       | 8:48:16:16                                                                                           | 8000                                                                                         | 30.7 | GDDR3                                        | 256                |
-| Radeon X1900 CrossFire Edition                                    | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 512                                       | 625                                      | 725                                       | 8:48:16:16                                                                                           | 10000                                                                                        | 46.4 | GDDR3                                        | 256                |
-| Radeon X1900 XT                                                   | Sep 2006, Jan 2006       | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 256, 512                                  | 625                                      | 725                                       | 8:48:16:16                                                                                           | 10000                                                                                        | 46.4 | GDDR3                                        | 256                |
-| Radeon X1900 XTX                                                  | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                           | 512                                       | 650                                      | 775                                       | 8:48:16:16                                                                                           | 10400                                                                                        | 49.6 | GDDR3                                        | 256                |
-| Radeon X1950 GT                                                   | Oct 2006, Nov 2006 (AGP) | RV570                                  | 80                                        | PCIe x16, AGP 8X                                                                                                                                                                   | 256, 512                                  | 500                                      | 600                                       | 8:36:12:12                                                                                           | 6000                                                                                         | 38.4 | GDDR3                                        | 256                |
-| Radeon X1950 Pro                                                  | Oct 2006, Nov 2006 (AGP) | RV570                                  | 80                                        | PCIe x16, AGP 8X                                                                                                                                                                   | 256, 512                                  | 575                                      | 690                                       | 8:36:12:12                                                                                           | 6900                                                                                         | 44.2 | GDDR3                                        | 256                |
-| Radeon X1950 XT 256                                               | Nov 2006                 | R580                                   | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 256                                       | 625                                      | 900                                       | 8:48:16:16                                                                                           | 10000                                                                                        | 57.6 | GDDR3                                        | 256                |
-| Radeon X1950 XT 512                                               | Q1 2007                  | R580                                   | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                   | 512                                       | 625                                      | 900                                       | 8:48:16:16                                                                                           | 10000                                                                                        | 51.2 | GDDR3                                        | 256                |
-| Radeon X1950 XTX                                                  | Sep 2006                 | R580+                                  | 90                                        | PCIe x16                                                                                                                                                                           | 512                                       | 650                                      | 1000                                      | 8:48:16:16                                                                                           | 10400                                                                                        | 64.0 | [GDDR4](../Page/GDDR4.md "wikilink")         | 256                |
+| 型号                                                                                   | 推出年分                     | 开發代号                                   | 製程（[纳米](../Page/纳米.md "wikilink")）        | [匯流排介面](https://zh.wikipedia.org/wiki/匯流排 "wikilink")                                                                                                                                                                    | 最高支援記億体容量（[MB](https://zh.wikipedia.org/wiki/MB "wikilink")） | 最高核心頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | 最高記億体頻率（[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")） | [管線](https://zh.wikipedia.org/wiki/管線 "wikilink") x [TMU](https://zh.wikipedia.org/wiki/TMU "wikilink") x [VPU](https://zh.wikipedia.org/wiki/VPU "wikilink") | 最高[多邊形產生速率](https://zh.wikipedia.org/wiki/多邊形產生速率 "wikilink")（[MT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")／s） | 記億体  | Graphics library support（版本）                            | 特色                 |
+| ------------------------------------------------------------------------------------ | ------------------------ | -------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------- | ------------------ |
+| 最高頻寛（[GiB](https://zh.wikipedia.org/wiki/Gibibyte "wikilink")／s）                     | 記億体種類                    | 記億体頻寛（[bit](../Page/位元.md "wikilink")） | [DirectX](../Page/DirectX.md "wikilink")® | [OpenGL](../Page/OpenGL.md "wikilink")                                                                                                                                                                                   |                                                              |                                                             |                                                              |                                                                                                                                                               |                                                                                                                                    |      |                                                         |                    |
+| Radeon X1300                                                                         | Oct 2005                 | RV515                                  | 90                                        | [PCIe](../Page/PCI_Express.md "wikilink") x16,（[AGP](https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port "wikilink") 8x, [PCI](https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect "wikilink")）Visiontek | 128, 256, 512                                                | 450                                                         | 533                                                          | 2:4:4:4                                                                                                                                                       | 1800                                                                                                                               | 8.0  | [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink")            | 128, 128, 64 (PCI) |
+| Radeon X1300 Pro                                                                     | Oct 2005                 | RV515                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256                                                          | 600                                                         | 400                                                          | 2:4:4:4                                                                                                                                                       | 2400                                                                                                                               | 12.8 | [GDDR2](../Page/DDR2_SDRAM.md "wikilink")               | 128                |
+| Radeon X1300 XT                                                                      | Sep 2006                 | RV530, RV535                           | 90, 80                                    | PCIe x16                                                                                                                                                                                                                 | 128, 256, 512                                                | 500                                                         | 400                                                          | 5:12:4:4                                                                                                                                                      | 2000                                                                                                                               | 12.8 | GDDR2                                                   | 128                |
+| Radeon X1550                                                                         | Jan 2007                 | RV516                                  | 80                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256, 512                                                     | 550                                                         | 400                                                          | 2:4:4:4                                                                                                                                                       | 2200                                                                                                                               | 12.8 | GDDR2                                                   | 128                |
+| Radeon X1600 Pro                                                                     | Oct 2005                 | RV530                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 128, 256, 512                                                | 500                                                         | 405                                                          | 5:12:4:4                                                                                                                                                      | 2000                                                                                                                               | 12.8 | GDDR2                                                   | 128                |
+| Radeon X1600 XT                                                                      | Oct 2005                 | RV530                                  | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256                                                          | 590                                                         | 690                                                          | 5:12:4:4                                                                                                                                                      | 2360                                                                                                                               | 22.1 | [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink") | 128                |
+| Radeon X1650                                                                         | 2007?                    | RV530, RV535                           | 90, 80                                    | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256, 512                                                     | 500                                                         | 400                                                          | 5:12:4:4                                                                                                                                                      | 2000                                                                                                                               | 12.8 | GDDR2                                                   | 128                |
+| Radeon X1650 Pro                                                                     | Sep 2006                 | RV530, RV535                           | 90, 80                                    | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256, 512                                                     | 650                                                         | 700                                                          | 5:12:4:4                                                                                                                                                      | 2400                                                                                                                               | 22.4 | GDDR2                                                   | 128                |
+| Radeon X1650 GT                                                                      | 2006                     | RV560                                  | 80                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 400                                                         | 400                                                          | 8:24:8:8                                                                                                                                                      | 3200                                                                                                                               | 12.8 | GDDR3                                                   | 128                |
+| Radeon X1650 XT                                                                      | Oct 2006                 | RV560                                  | 80                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256                                                          | 575                                                         | 690                                                          | 8:24:8:8                                                                                                                                                      | 4600                                                                                                                               | 22.1 | GDDR3                                                   | 128                |
+| Radeon X1800 GTO                                                                     | Mar 2006                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 500                                                         | 500                                                          | 8:12:12:12                                                                                                                                                    | 6000                                                                                                                               | 32.0 | GDDR3                                                   | 256                |
+| Radeon X1800 GTO Rev.2                                                               | Mar 2006                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 500                                                         | 500                                                          | 8:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.0 | GDDR3                                                   | 256                |
+| AIW X1800 XL                                                                         | Nov 2005                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 500                                                         | 500                                                          | 8:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.0 | GDDR3                                                   | 256                |
+| Radeon X1800 XL                                                                      | Oct 2005                 | R520                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 500                                                         | 500                                                          | 8:16:16:16                                                                                                                                                    | 8000                                                                                                                               | 32.0 | GDDR3                                                   | 256                |
+| Radeon X1800 XT                                                                      | Mar 2006, Oct 2005       | R520                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256, 512                                                     | 625                                                         | 750                                                          | 8:16:16:16                                                                                                                                                    | 10000                                                                                                                              | 48.0 | GDDR3                                                   | 256                |
+| Radeon X1900 GT                                                                      | May 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 575                                                         | 600                                                          | 8:36:12:12                                                                                                                                                    | 6900                                                                                                                               | 38.4 | GDDR3                                                   | 256                |
+| Radeon X1900 GT Rev.2                                                                | Oct 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 512                                                         | 660                                                          | 8:36:12:12                                                                                                                                                    | 6144                                                                                                                               | 42.2 | GDDR3                                                   | 256                |
+| Radeon X1900 [All-In-Wonder](https://zh.wikipedia.org/wiki/All-In-Wonder "wikilink") | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256                                                          | 500                                                         | 480                                                          | 8:48:16:16                                                                                                                                                    | 8000                                                                                                                               | 30.7 | GDDR3                                                   | 256                |
+| Radeon X1900 CrossFire Edition                                                       | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 512                                                          | 625                                                         | 725                                                          | 8:48:16:16                                                                                                                                                    | 10000                                                                                                                              | 46.4 | GDDR3                                                   | 256                |
+| Radeon X1900 XT                                                                      | Sep 2006, Jan 2006       | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 256, 512                                                     | 625                                                         | 725                                                          | 8:48:16:16                                                                                                                                                    | 10000                                                                                                                              | 46.4 | GDDR3                                                   | 256                |
+| Radeon X1900 XTX                                                                     | Jan 2006                 | R580                                   | 90                                        | PCIe x16                                                                                                                                                                                                                 | 512                                                          | 650                                                         | 775                                                          | 8:48:16:16                                                                                                                                                    | 10400                                                                                                                              | 49.6 | GDDR3                                                   | 256                |
+| Radeon X1950 GT                                                                      | Oct 2006, Nov 2006 (AGP) | RV570                                  | 80                                        | PCIe x16, AGP 8X                                                                                                                                                                                                         | 256, 512                                                     | 500                                                         | 600                                                          | 8:36:12:12                                                                                                                                                    | 6000                                                                                                                               | 38.4 | GDDR3                                                   | 256                |
+| Radeon X1950 Pro                                                                     | Oct 2006, Nov 2006 (AGP) | RV570                                  | 80                                        | PCIe x16, AGP 8X                                                                                                                                                                                                         | 256, 512                                                     | 575                                                         | 690                                                          | 8:36:12:12                                                                                                                                                    | 6900                                                                                                                               | 44.2 | GDDR3                                                   | 256                |
+| Radeon X1950 XT 256                                                                  | Nov 2006                 | R580                                   | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 256                                                          | 625                                                         | 900                                                          | 8:48:16:16                                                                                                                                                    | 10000                                                                                                                              | 57.6 | GDDR3                                                   | 256                |
+| Radeon X1950 XT 512                                                                  | Q1 2007                  | R580                                   | 90                                        | PCIe x16, AGP 8x                                                                                                                                                                                                         | 512                                                          | 625                                                         | 900                                                          | 8:48:16:16                                                                                                                                                    | 10000                                                                                                                              | 51.2 | GDDR3                                                   | 256                |
+| Radeon X1950 XTX                                                                     | Sep 2006                 | R580+                                  | 90                                        | PCIe x16                                                                                                                                                                                                                 | 512                                                          | 650                                                         | 1000                                                         | 8:48:16:16                                                                                                                                                    | 10400                                                                                                                              | 64.0 | [GDDR4](https://zh.wikipedia.org/wiki/GDDR4 "wikilink") | 256                |
 
 ### Radeon R600 (包含HD 2000 系列, HD 3000 系列) 系列
 
@@ -744,16 +757,16 @@ implementations.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API支援</a> (版本)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API支援</a> (版本)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
@@ -761,14 +774,14 @@ implementations.
 <tr class="odd">
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>顆粒頻寬 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度</a></p></td>
+<td><p>顆粒頻寬 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度</a></p></td>
 <td><p>Idle</p></td>
 <td><p>Max.</p></td>
 <td><p>Direct3D</p></td>
@@ -956,16 +969,16 @@ GDDR4</p></td>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API支援</a> (版本)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API支援</a> (版本)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
@@ -973,14 +986,14 @@ GDDR4</p></td>
 <tr class="odd">
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>顆粒頻寬 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度</a></p></td>
+<td><p>顆粒頻寬 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度</a></p></td>
 <td><p>Idle</p></td>
 <td><p>Max.</p></td>
 <td><p>Direct3D</p></td>
@@ -1260,8 +1273,8 @@ GDDR4</p></td>
 #### Radeon HD 3xxx IGP 系列
 
   - <sup>1</sup>
-    [向量著色器](../Page/向量著色器.md "wikilink")：[像素著色器](../Page/像素著色器.md "wikilink")：[紋理映射單元](../Page/紋理映射單元.md "wikilink")：[Render
-    輸出單元](../Page/Render_輸出單元.md "wikilink")
+    [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")：[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink")：[紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")：[Render
+    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>2</sup> AMD OverDrive
   - <sup>3</sup> 880G還會提供加速視頻轉碼(AVT)技術，借助驅動實現GPU加速，使得H.264/MPEG-2
     1080p視頻轉碼速度比播放速度更快。該技術將獲得CyberLink PowerDirector 7的支持
@@ -1272,13 +1285,13 @@ GDDR4</p></td>
 <th><p>型號</p></th>
 <th><p>推出年分</p></th>
 <th><p>開發代號</p></th>
-<th><p>製程（<a href="../Page/nm.md" title="wikilink">nm</a>）</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>最高支援記億體容量（<a href="../Page/MB.md" title="wikilink">MB</a>）</p></th>
-<th><p>最高核心頻率（<a href="../Page/MHz.md" title="wikilink">MHz</a>）</p></th>
-<th><p>最高記億體頻率（<a href="../Page/MHz.md" title="wikilink">MHz</a>）</p></th>
+<th><p>製程（<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>最高支援記億體容量（<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>）</p></th>
+<th><p>最高核心頻率（<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>）</p></th>
+<th><p>最高記億體頻率（<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>）</p></th>
 <th><p>核心配置</p></th>
-<th><p>最高<a href="../Page/多邊形產生速率.md" title="wikilink">多邊形產生速率</a>（<a href="../Page/Texel_(graphics).md" title="wikilink">MT</a>／s）</p></th>
+<th><p>最高<a href="https://zh.wikipedia.org/wiki/多邊形產生速率" title="wikilink">多邊形產生速率</a>（<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">MT</a>／s）</p></th>
 <th><p>記億體</p></th>
 <th><p>支援的API（版本）</p></th>
 <th><p>特色</p></th>
@@ -1286,7 +1299,7 @@ GDDR4</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>最高頻寛（<a href="../Page/Gibibyte.md" title="wikilink">GiB</a>／s）</p></td>
+<td><p>最高頻寛（<a href="https://zh.wikipedia.org/wiki/Gibibyte" title="wikilink">GiB</a>／s）</p></td>
 <td><p>記億體種類</p></td>
 <td><p>記億體頻寛（<a href="../Page/位元.md" title="wikilink">bit</a>）</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a>®</p></td>
@@ -1304,10 +1317,10 @@ GDDR4</p></td>
 <td><p>Radeon 3100 Graphics (780V IGP)</p></td>
 <td><p>2008<br />
 Jan,23rd</p></td>
-<td><p><a href="../Page/AMD_700_晶片組系列.md" title="wikilink">780V</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AMD_700_晶片組系列" title="wikilink">780V</a></p></td>
 <td><p>55</p></td>
 <td><p>Onboard PCIe</p></td>
-<td><p>128, 256 (local <a href="../Page/frame_buffer.md" title="wikilink">frame buffer</a>)+ ? (<a href="../Page/HyperMemory.md" title="wikilink">HM</a>)</p></td>
+<td><p>128, 256 (local <a href="https://zh.wikipedia.org/wiki/frame_buffer" title="wikilink">frame buffer</a>)+ ? (<a href="https://zh.wikipedia.org/wiki/HyperMemory" title="wikilink">HM</a>)</p></td>
 <td><p>300</p></td>
 <td><p>系统記憶體</p></td>
 <td><p>40(8x5):8:4</p></td>
@@ -1320,10 +1333,10 @@ Jan,23rd</p></td>
 <td><p>Radeon HD 3200 Graphics (780G IGP)</p></td>
 <td><p>2008<br />
 Jan,23rd</p></td>
-<td><p><a href="../Page/AMD_700_晶片組系列.md" title="wikilink">780G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AMD_700_晶片組系列" title="wikilink">780G</a></p></td>
 <td><p>55</p></td>
 <td><p>Onboard PCIe</p></td>
-<td><p>128, 256 (local <a href="../Page/frame_buffer.md" title="wikilink">frame buffer</a>)+ ? (<a href="../Page/HyperMemory.md" title="wikilink">HM</a>)</p></td>
+<td><p>128, 256 (local <a href="https://zh.wikipedia.org/wiki/frame_buffer" title="wikilink">frame buffer</a>)+ ? (<a href="https://zh.wikipedia.org/wiki/HyperMemory" title="wikilink">HM</a>)</p></td>
 <td><p>500</p></td>
 <td><p>系统記憶體</p></td>
 <td><p>40(8x5):8:4</p></td>
@@ -1331,17 +1344,17 @@ Jan,23rd</p></td>
 <td><p>32 (local frame buffer)</p></td>
 <td><p>系统内存/<br />
 local frame buffer<br />
-(DDR2/<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a>)</p></td>
+(DDR2/<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a>)</p></td>
 <td><p>?</p></td>
 </tr>
 <tr class="even">
 <td><p>Radeon HD 3300 Graphics (790GX IGP)</p></td>
 <td><p>2008<br />
 Jan,23rd</p></td>
-<td><p><a href="../Page/AMD_700_晶片組系列.md" title="wikilink">790GX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AMD_700_晶片組系列" title="wikilink">790GX</a></p></td>
 <td><p>55</p></td>
 <td><p>Onboard PCIe</p></td>
-<td><p>128, 256 (local <a href="../Page/frame_buffer.md" title="wikilink">frame buffer</a>)+ ? (<a href="../Page/HyperMemory.md" title="wikilink">HM</a>)</p></td>
+<td><p>128, 256 (local <a href="https://zh.wikipedia.org/wiki/frame_buffer" title="wikilink">frame buffer</a>)+ ? (<a href="https://zh.wikipedia.org/wiki/HyperMemory" title="wikilink">HM</a>)</p></td>
 <td><p>700</p></td>
 <td><p>系统内存</p></td>
 <td><p>40(8x5):8:4</p></td>
@@ -1349,7 +1362,7 @@ Jan,23rd</p></td>
 <td><p>系统内存</p></td>
 <td><p>系统内存/<br />
 local frame buffer<br />
-(DDR2/<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a>)</p></td>
+(DDR2/<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a>)</p></td>
 <td><p>?</p></td>
 </tr>
 <tr class="odd">
@@ -1358,7 +1371,7 @@ local frame buffer<br />
 <td><p>785G</p></td>
 <td><p>55</p></td>
 <td><p>Onboard PCIe</p></td>
-<td><p>?, ? (local <a href="../Page/frame_buffer.md" title="wikilink">frame buffer</a>)+ ? (<a href="../Page/HyperMemory.md" title="wikilink">HM</a>)</p></td>
+<td><p>?, ? (local <a href="https://zh.wikipedia.org/wiki/frame_buffer" title="wikilink">frame buffer</a>)+ ? (<a href="https://zh.wikipedia.org/wiki/HyperMemory" title="wikilink">HM</a>)</p></td>
 <td><p>900</p></td>
 <td><p>系统内存</p></td>
 <td><p>40(8x5):8:4</p></td>
@@ -1366,7 +1379,7 @@ local frame buffer<br />
 <td><p>系统内存</p></td>
 <td><p>系统内存/<br />
 local frame buffer<br />
-(DDR2/<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a>)</p></td>
+(DDR2/<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a>)</p></td>
 <td><p>?</p></td>
 </tr>
 </tbody>
@@ -1380,14 +1393,14 @@ local frame buffer<br />
 <th><p>型號</p></th>
 <th><p>發布時間</p></th>
 <th><p>核心代號</p></th>
-<th><p><a href="../Page/製程.md" title="wikilink">製程</a> (nm)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/製程" title="wikilink">製程</a> (nm)</p></th>
 <th><p>傳輸介面</p></th>
 <th><p>核心時脈 (MHz)</p></th>
 <th><p>記憶體時脈 (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API支援</a> (版本)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API支援</a> (版本)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1395,10 +1408,10 @@ local frame buffer<br />
 <td><p>MPixels/s</p></td>
 <td><p>MTextels/s</p></td>
 <td><p>MVertices/s</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸介面 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸介面 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>顆粒頻寬 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>顆粒頻寬 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -1693,21 +1706,27 @@ local frame buffer<br />
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel pipelines](../Page/Pixel_pipeline.md "wikilink") :
-[Vertex shaders](../Page/Vertex_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Pixel
+pipelines](https://zh.wikipedia.org/wiki/Pixel_pipeline "wikilink") :
+[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Radeon R700系列
 
-  - <sup>1</sup> [向量著色器](../Page/向量著色器.md "wikilink") :
-    [像素著色器](../Page/像素著色器.md "wikilink") :
-    [紋理映射單元](../Page/紋理映射單元.md "wikilink") : [Render
-    輸出單元](../Page/Render_輸出單元.md "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
+    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
+    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
+    : [Render
+    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>2</sup> Radeon HD 4850的浮點運算能力已經達到接近1T Flops的水平，而Radeon HD
     4870更是達到了1.2T Flops，超過了過去3870 X2的1.056T Flops。
   - <sup>3</sup> [UVD](../Page/UVD.md "wikilink")
@@ -1722,16 +1741,16 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>傳輸介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>2</sup></p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP<sup>3</sup> (W)</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API支援</a> (版本)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API支援</a> (版本)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
@@ -1739,14 +1758,14 @@ units](../Page/Render_output_unit.md "wikilink")
 <tr class="odd">
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>顆粒頻寬 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度</a></p></td>
+<td><p>顆粒頻寬 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度</a></p></td>
 <td><p>Idle</p></td>
 <td><p>Max.</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
@@ -2096,16 +2115,17 @@ GDDR4</p></td>
 
 ### Evergreen 系列
 
-  - <sup>1</sup> [向量著色器](../Page/向量著色器.md "wikilink") :
-    [像素著色器](../Page/像素著色器.md "wikilink") :
-    [紋理映射單元](../Page/紋理映射單元.md "wikilink") : [Render
-    輸出單元](../Page/Render_輸出單元.md "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
+    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
+    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
+    : [Render
+    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>2</sup> Radeon HD 5870的浮點運算能力已經達到2.72 TeraFLOPS的水平。
   - <sup>3</sup> Radeon HD 5870是業界首款支援DirectX 11的顯示晶片。採用40奈米工藝製造。
   - <sup>4</sup> 首次配備[ATI
-    Eyefinity單卡多顯技術](../Page/ATI_Eyefinity.md "wikilink")，全球首款支援源碼輸出[Dolby
-    TrueHD與](../Page/Dolby_TrueHD.md "wikilink")[DTS-HD Master
-    Audio的顯示晶片](../Page/DTS-HD_Master_Audio.md "wikilink")。
+    Eyefinity單卡多顯技術](https://zh.wikipedia.org/wiki/ATI_Eyefinity "wikilink")，全球首款支援源碼輸出[Dolby
+    TrueHD與](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")[DTS-HD
+    Master Audio的顯示晶片](../Page/DTS-HD_Master_Audio.md "wikilink")。
 
 #### PCIe
 
@@ -2115,13 +2135,13 @@ GDDR4</p></td>
 <th><p>型号</p></th>
 <th><p>年份</p></th>
 <th><p>代号</p></th>
-<th><p>製程(<a href="../Page/納米.md" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>記億体容量(<a href="../Page/MB.md" title="wikilink">MB</a>)</p></th>
-<th><p>核心頻率 (<a href="../Page/MHz.md" title="wikilink">MHz</a>)</p></th>
-<th><p>記億体頻率(<a href="../Page/MHz.md" title="wikilink">MHz</a>)</p></th>
-<th><p><a href="../Page/管線.md" title="wikilink">管線x</a><a href="../Page/TMU.md" title="wikilink">TMUx</a><a href="../Page/VPU.md" title="wikilink">VPU</a></p></th>
-<th><p><a href="../Page/多邊形產生速率.md" title="wikilink">多邊形產生速率</a> (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></th>
+<th><p>製程(<a href="https://zh.wikipedia.org/wiki/納米" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>記億体容量(<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
+<th><p>核心頻率 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
+<th><p>記億体頻率(<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/管線" title="wikilink">管線x</a><a href="https://zh.wikipedia.org/wiki/TMU" title="wikilink">TMUx</a><a href="https://zh.wikipedia.org/wiki/VPU" title="wikilink">VPU</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/多邊形產生速率" title="wikilink">多邊形產生速率</a> (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></th>
 <th><p>記億体</p></th>
 <th><p>Graphics library support (版本)</p></th>
 <th><p>特色</p></th>
@@ -2129,7 +2149,7 @@ GDDR4</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>最高頻寛(<a href="../Page/Gibibyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>最高頻寛(<a href="https://zh.wikipedia.org/wiki/Gibibyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記億体種類</p></td>
 <td><p>記億体頻寛 (<a href="../Page/位元.md" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
@@ -2314,13 +2334,13 @@ DDR3</p></td>
 <th><p>型號</p></th>
 <th><p>年分</p></th>
 <th><p>代號</p></th>
-<th><p>製程 (<a href="../Page/納米.md" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/納米" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
 <th><p>記憶體容量</p></th>
-<th><p>核心頻率 (<a href="../Page/MHz.md" title="wikilink">MHz</a>)</p></th>
-<th><p>管線xTMUx<a href="../Page/VPU.md" title="wikilink">VPU</a></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> support (version)</p></th>
+<th><p>核心頻率 (<a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>)</p></th>
+<th><p>管線xTMUx<a href="https://zh.wikipedia.org/wiki/VPU" title="wikilink">VPU</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> support (version)</p></th>
 <th><p>GFLOPS</p></th>
 <th><p>Double-precision FP</p></th>
 <th><p>Notes</p></th>
@@ -2328,7 +2348,7 @@ DDR3</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>多邊形產生速率(<a href="../Page/GT.md" title="wikilink">GT</a>/s)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
@@ -2391,9 +2411,9 @@ DDR3</p></td>
 <th><p>推出年分</p></th>
 <th><p>开发代号</p></th>
 <th><p><a href="../Page/晶体管.md" title="wikilink">晶体管数</a> (百万)</p></th>
-<th><p>核心尺寸 (<a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>記億体 (<a href="../Page/MB.md" title="wikilink">MB</a>)</p></th>
+<th><p>核心尺寸 (<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>記億体 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>核心頻率</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
 <th><p>填充率</p></th>
@@ -2407,13 +2427,13 @@ DDR3</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記億体 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>材质 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寛 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>核心 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記億体 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>材质 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寛 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>匯流排类型<sup>2</sup></p></td>
-<td><p>匯流排宽度 (<a href="../Page/比特.md" title="wikilink">比特</a>)</p></td>
+<td><p>匯流排宽度 (<a href="https://zh.wikipedia.org/wiki/比特" title="wikilink">比特</a>)</p></td>
 <td><p>空闲</p></td>
 <td><p>满载</p></td>
 <td></td>
@@ -2636,10 +2656,10 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup> [通用着色器](../Page/GPGPU.md "wikilink")
-    ([顶点着色器](../Page/顶点着色器.md "wikilink")/[几何着色器](../Page/几何着色器.md "wikilink")/[像素着色器](../Page/像素着色器.md "wikilink"))
-    : [材质贴图单元](../Page/材质贴图单元.md "wikilink") :
-    [渲染输出单元](../Page/渲染输出单元.md "wikilink")
+  - <sup>1</sup> [通用着色器](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
+    ([顶点着色器](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")/[几何着色器](https://zh.wikipedia.org/wiki/几何着色器 "wikilink")/[像素着色器](https://zh.wikipedia.org/wiki/像素着色器 "wikilink"))
+    : [材质贴图单元](https://zh.wikipedia.org/wiki/材质贴图单元 "wikilink") :
+    [渲染输出单元](https://zh.wikipedia.org/wiki/渲染输出单元 "wikilink")
   - <sup>2</sup>
     [GDDR5的有效数据传输速率为时钟频率的](../Page/GDDR5.md "wikilink")4倍，而非其他DDR记忆体的2倍
   - <sup>3</sup> TDP热设计功耗来自AMD的设计数据。各品牌的非公版板卡的实际TDP可能会有变动。
@@ -2657,11 +2677,11 @@ GDDR5</p></td>
 <th><p>型號</p></th>
 <th><p>推出年分</p></th>
 <th><p>開發代號</p></th>
-<th><p>製造工藝(<a href="../Page/nm.md" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/晶體管.md" title="wikilink">晶體管數目</a> (百萬)</p></th>
-<th><p>核心尺寸(<a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>記億體 (<a href="../Page/MB.md" title="wikilink">MB</a>)</p></th>
+<th><p>製造工藝(<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/晶體管" title="wikilink">晶體管數目</a> (百萬)</p></th>
+<th><p>核心尺寸(<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>記億體 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>核心頻率</p></th>
 <th><p>核心配置<br />
 <sup>SPs:TMUs:ROPs<sub>1</sub></sup></p></th>
@@ -2679,13 +2699,13 @@ GDDR5</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記億體 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>材質 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寛 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>核心 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記億體 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>材質 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寛 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>匯流排類型<sup>2</sup></p></td>
-<td><p>匯流排寬度(<a href="../Page/比特.md" title="wikilink">比特</a>)</p></td>
+<td><p>匯流排寬度(<a href="https://zh.wikipedia.org/wiki/比特" title="wikilink">比特</a>)</p></td>
 <td><p>空閒</p></td>
 <td><p>滿載</p></td>
 <td></td>
@@ -2833,11 +2853,11 @@ GDDR5</p></td>
 <th><p>型號</p></th>
 <th><p>推出年分</p></th>
 <th><p>開發代號</p></th>
-<th><p>製造工藝(<a href="../Page/nm.md" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/晶體管.md" title="wikilink">晶體管數目</a> (百萬)</p></th>
-<th><p>核心尺寸(<a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>記億體 (<a href="../Page/MB.md" title="wikilink">MB</a>)</p></th>
+<th><p>製造工藝(<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/晶體管" title="wikilink">晶體管數目</a> (百萬)</p></th>
+<th><p>核心尺寸(<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>記億體 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>頻率</p></th>
 <th><p>核心配置<br />
 <sup>CUs:SPs/ALUs:TMUs:ROPs<sub>1</sub></sup></p></th>
@@ -2855,13 +2875,13 @@ GDDR5</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記億體 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>材質 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寛 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>核心 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記億體 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>材質 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寛 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>匯流排類型<sup>2</sup></p></td>
-<td><p>匯流排寬度(<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>匯流排寬度(<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>空閒</p></td>
 <td><p>滿載</p></td>
 <td></td>
@@ -3138,11 +3158,13 @@ Boost: 925</p></td>
 
   -
     <sup>1</sup> （計算單元，Compute
-    Units）：[統一渲染器](../Page/GPGPU.md "wikilink")（[頂點渲染器](../Page/頂點著色器.md "wikilink")/[幾何渲染器](../Page/幾何著色器.md "wikilink")/[像素渲染器](../Page/像素著色器.md "wikilink"))
-    : [紋理鏡射單元](../Page/紋理鏡射單元.md "wikilink")（Texture mapping unit） :
-    [渲染輸出單元](../Page/渲染輸出單元.md "wikilink")（Render Output unit）
+    Units）：[統一渲染器](https://zh.wikipedia.org/wiki/GPGPU "wikilink")（[頂點渲染器](https://zh.wikipedia.org/wiki/頂點著色器 "wikilink")/[幾何渲染器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素渲染器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink"))
+    : [紋理鏡射單元](https://zh.wikipedia.org/wiki/紋理鏡射單元 "wikilink")（Texture
+    mapping unit） :
+    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（Render
+    Output unit）
     <sup>2</sup>
-    [GDDR5](../Page/GDDR5.md "wikilink")[顯示記憶體的資料存取時脈是顯示記憶體時脈的四倍](../Page/顯示記憶體.md "wikilink")，而不是GDDR3/DDR3的兩倍
+    [GDDR5](../Page/GDDR5.md "wikilink")[顯示記憶體的資料存取時脈是顯示記憶體時脈的四倍](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")，而不是GDDR3/DDR3的兩倍
     <sup>3</sup>
     熱設計功耗（TDP）是超微官方數據，實際由於不同廠商有不同的顯卡線路板設計以及不同的核心時脈參數設定，會影響實際的TDP數值
     <sup>4</sup> Radeon HD
@@ -3162,11 +3184,11 @@ Boost: 925</p></td>
 <th><p>型號</p></th>
 <th><p>推出年分</p></th>
 <th><p>開發代號</p></th>
-<th><p>製程(<a href="../Page/nm.md" title="wikilink">nm</a>)</p></th>
-<th><p><a href="../Page/晶體管.md" title="wikilink">晶體管數目</a> (百萬)</p></th>
-<th><p>核心尺寸(<a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
-<th><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></th>
-<th><p>顯示記億體容量 (<a href="../Page/MB.md" title="wikilink">MB</a>)</p></th>
+<th><p>製程(<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/晶體管" title="wikilink">晶體管數目</a> (百萬)</p></th>
+<th><p>核心尺寸(<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></th>
+<th><p>顯示記億體容量 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></th>
 <th><p>核心頻率</p></th>
 <th><p>核心配置<br />
 <sup>SPs:TMUs:ROPs<sub>1</sub></sup></p></th>
@@ -3176,29 +3198,29 @@ Boost: 925</p></td>
 （GFLOPS）</p></th>
 <th><p>TDP<sup>3</sup> (W)</p></th>
 <th><p>單精度浮點能效(GFLOPS/W)</p></th>
-<th><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></th>
 <th><p>True Audio</p></th>
 <th><p>售價 (USD)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>預設 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>加速 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
+<td><p>預設 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
 <td><p>材質 (GT/s)</p></td>
 <td><p>匯流排寬度 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
 <td><p>匯流排類型</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
-<td><p><a href="../Page/單精度浮點數格式.md" title="wikilink">單精度浮點數</a></p></td>
-<td><p><a href="../Page/雙精度浮點數格式.md" title="wikilink">雙精度浮點數</a></p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數格式" title="wikilink">單精度浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙精度浮點數格式" title="wikilink">雙精度浮點數</a></p></td>
 <td><p>空閒</p></td>
 <td><p>滿載</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="../Page/Mantle_(應用程式介面).md" title="wikilink">Mantle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mantle_(應用程式介面)" title="wikilink">Mantle</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3583,11 +3605,11 @@ Tahiti XTL[103]</p></td>
 <td><p>型號</p></td>
 <td><p>推出年分</p></td>
 <td><p>開發代號</p></td>
-<td><p>製造工藝(<a href="../Page/nm.md" title="wikilink">nm</a>)</p></td>
-<td><p><a href="../Page/晶體管.md" title="wikilink">晶體管數目</a> (百萬)</p></td>
-<td><p>核心尺寸(<a href="../Page/平方毫米.md" title="wikilink">mm<sup>2</sup></a>)</p></td>
-<td><p><a href="../Page/匯流排.md" title="wikilink">匯流排介面</a></p></td>
-<td><p>顯示記億體容量 (<a href="../Page/MB.md" title="wikilink">MB</a>)</p></td>
+<td><p>製造工藝(<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/晶體管" title="wikilink">晶體管數目</a> (百萬)</p></td>
+<td><p>核心尺寸(<a href="https://zh.wikipedia.org/wiki/平方毫米" title="wikilink">mm<sup>2</sup></a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/匯流排" title="wikilink">匯流排介面</a></p></td>
+<td><p>顯示記億體容量 (<a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>)</p></td>
 <td><p>核心頻率</p></td>
 <td><p>核心配置<br />
 <sup>SPs:TMUs:ROPs<sub>1</sub></sup></p></td>
@@ -3597,27 +3619,27 @@ Tahiti XTL[103]</p></td>
 （GFLOPS）</p></td>
 <td><p>TDP<sup>3</sup> (W)</p></td>
 <td><p>單精度浮點能效(GFLOPS/W)</p></td>
-<td><p><a href="../Page/應用程式介面.md" title="wikilink">API支援</a>（版本）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支援</a>（版本）</p></td>
 <td><p>True Audio</p></td>
 <td><p>售價 (USD)</p></td>
 </tr>
 <tr class="odd">
-<td><p>預設 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>加速 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>像素 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>材質 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>預設 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>材質 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>匯流排類型</p></td>
 <td><p>匯流排寬度 (<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
-<td><p><a href="../Page/單精度浮點數格式.md" title="wikilink">單精度浮點數</a></p></td>
-<td><p><a href="../Page/雙精度浮點數格式.md" title="wikilink">雙精度浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單精度浮點數格式" title="wikilink">單精度浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙精度浮點數格式" title="wikilink">雙精度浮點數</a></p></td>
 <td><p>空閒</p></td>
 <td><p>滿載</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
-<td><p><a href="../Page/Mantle_(應用程式介面).md" title="wikilink">Mantle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mantle_(應用程式介面)" title="wikilink">Mantle</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3654,36 +3676,36 @@ Tahiti XTL[103]</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p><a href="../Page/核心代號.md" title="wikilink">核心代號</a></p></th>
-<th><p><a href="../Page/Microarchitecture.md" title="wikilink">GCN架構版本</a></p></th>
-<th><p>製程 (<a href="../Page/Nanometer.md" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心代號" title="wikilink">核心代號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Microarchitecture" title="wikilink">GCN架構版本</a></p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Nanometer" title="wikilink">nm</a>)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>6</sup></p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p>支援的<a href="../Page/Application_programming_interface.md" title="wikilink">API</a> (version)</p></th>
+<th><p>支援的<a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> (version)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>加速時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體時脈 (<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
+<td><p>核心時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記憶體時脈 (<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)<sup>3</sup></p></td>
 <td><p>容量 (<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>)</p></td>
-<td><p>顆粒頻寬(<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>顆粒頻寬(<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>類型</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度浮點運算</a><sup>4</sup></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度浮點運算</a><sup>5</sup></p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度浮點運算</a><sup>4</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度浮點運算</a><sup>5</sup></p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -3981,7 +4003,7 @@ GDDR5</p></td>
 <td><p>224</p></td>
 <td><p>4096</p></td>
 <td><p>4096</p></td>
-<td><p><a href="../Page/High_Bandwidth_Memory.md" title="wikilink">HBM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/High_Bandwidth_Memory" title="wikilink">HBM</a></p></td>
 <td><p>512</p></td>
 </tr>
 <tr class="odd">
@@ -4061,7 +4083,7 @@ GDDR5</p></td>
 <td><p>填充率</p></td>
 <td><p>記憶體<sup>6</sup></p></td>
 <td><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></td>
 <td><p>支援的API (version)</p></td>
 <td></td>
 <td></td>
@@ -4078,14 +4100,15 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-  - <sup>1</sup> [統一渲染器數量](../Page/統一渲染器.md "wikilink") :
-    [紋理對映單元](../Page/紋理對映單元.md "wikilink")（TMU）數量 :
-    [渲染輸出單元](../Page/渲染輸出單元.md "wikilink")（ROP）數量
+  - <sup>1</sup>
+    [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink")
+    : [紋理對映單元](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink")（TMU）數量 :
+    [渲染輸出單元](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")（ROP）數量
   - <sup>2</sup>
-    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](../Page/時脈.md "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
+    畫素填充率的計算：ROP的數量乘以基準核心[時脈速率](https://zh.wikipedia.org/wiki/時脈 "wikilink")（時脈單位Hz），單位畫素數每秒（P/s）。
   - <sup>3</sup> 紋理填充率的計算：TMU的數量乘以基準核心時脈速率（時脈單位Hz），單位紋理數每秒（T/s）。
   - <sup>4</sup>
-    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](../Page/FLOPS.md "wikilink")。
+    單精度浮點數運算效能的計算：兩倍渲染器的數量然後乘以基準核心時脈速率（時脈單位Hz），單位[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink")。
   - <sup>5</sup>
     「Grenada(Hawaii)」核心的圖形處理器，雙精度浮點數運算效能是單精度的1/8，其它使用28奈米製程的顯示核心都是1/16的雙精度/單精度運算效能比率。
   - <sup>6</sup> R9 380（包括OEM型號）、Nano、Fury、Fury X所使用的
@@ -4100,15 +4123,20 @@ GDDR5</p></td>
 
 全系列支援以下技術:
 
-  - 支援AMD [FreeSync](../Page/FreeSync.md "wikilink"), AMD
-    [TrueAudio](../Page/TrueAudio.md "wikilink") Next, [DirectX
-    12](../Page/DirectX_12.md "wikilink"), H.265
-    [HEVC](../Page/HEVC.md "wikilink"),
-    [Vulkan](../Page/Vulkan_\(API\).md "wikilink") API
+  - 支援AMD [FreeSync](https://zh.wikipedia.org/wiki/FreeSync "wikilink"),
+    AMD [TrueAudio](https://zh.wikipedia.org/wiki/TrueAudio "wikilink")
+    Next, [DirectX
+    12](https://zh.wikipedia.org/wiki/DirectX_12 "wikilink"), H.265
+    [HEVC](https://zh.wikipedia.org/wiki/HEVC "wikilink"),
+    [Vulkan](https://zh.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")
+    API
   - 支援PlayReady 3.0、4k解析度
   - 支援影像輸出: [DisplayPort](../Page/DisplayPort.md "wikilink") 1.3 HBR and
-    1.4 [HDR](../Page/High_Dynamic_Range.md "wikilink"), [HDMI
-    2.0b](../Page/HDMI#Version_2.0.md "wikilink"), 支援HDR\[123\]
+    1.4
+    [HDR](https://zh.wikipedia.org/wiki/High_Dynamic_Range "wikilink"),
+    [HDMI
+    2.0b](https://zh.wikipedia.org/wiki/HDMI#Version_2.0 "wikilink"),
+    支援HDR\[123\]
   - Polaris 11 核心輸出介面僅 [PCI Express](../Page/PCI_Express.md "wikilink")
     3.0 ×8 Interface\[124\]
 
@@ -4117,36 +4145,36 @@ GDDR5</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
-<th><p><a href="../Page/核心代號.md" title="wikilink">核心代號</a></p></th>
-<th><p><a href="../Page/Microarchitecture.md" title="wikilink">GCN架構版本</a></p></th>
-<th><p>製程 (<a href="../Page/Nanometer.md" title="wikilink">nm</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/核心代號" title="wikilink">核心代號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Microarchitecture" title="wikilink">GCN架構版本</a></p></th>
+<th><p>製程 (<a href="https://zh.wikipedia.org/wiki/Nanometer" title="wikilink">nm</a>)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>晶片面積 (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>晶片面積 (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
 <th><p>TDP (W)</p></th>
-<th><p>支援的<a href="../Page/Application_programming_interface.md" title="wikilink">API</a> (version)</p></th>
+<th><p>支援的<a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> (version)</p></th>
 <th><p>上市價格 (美金)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>核心時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>加速時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p>記憶體時脈 (<a href="../Page/Transfer_(computing).md" title="wikilink">MT/s</a>)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
+<td><p>核心時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>記憶體時脈 (<a href="https://zh.wikipedia.org/wiki/Transfer_(computing)" title="wikilink">MT/s</a>)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)<sup>2</sup></p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
 <td><p>容量 (<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>)</p></td>
-<td><p>顆粒頻寬(<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>顆粒頻寬(<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>類型</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">單精度浮點運算</a>(Boost)</p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">雙精度浮點運算</a>(Boost)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">單精度浮點運算</a>(Boost)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">雙精度浮點運算</a>(Boost)</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -4390,7 +4418,7 @@ $239 (8 GB)</p></td>
 <td><p>填充率</p></td>
 <td><p>記憶體</p></td>
 <td><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></td>
 <td><p>支援的API (version)</p></td>
 <td></td>
 <td></td>
@@ -4418,24 +4446,24 @@ $239 (8 GB)</p></td>
 <th><p>發表時間</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
-<th><p>Hardware <a href="../Page/transform_and_lighting.md" title="wikilink">T&amp;L</a></p></th>
+<th><p>Hardware <a href="https://zh.wikipedia.org/wiki/transform_and_lighting" title="wikilink">T&amp;L</a></p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -4494,7 +4522,7 @@ $239 (8 GB)</p></td>
 <td><p>|Rage Mobility M1 (Rage 128)</p></td>
 <td><p>Feb 1999</p></td>
 <td><p>250</p></td>
-<td><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP</a>, <a href="../Page/Peripheral_Component_Interconnect.md" title="wikilink">PCI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP</a>, <a href="https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect" title="wikilink">PCI</a></p></td>
 <td><p>8</p></td>
 <td><p>90</p></td>
 <td><p>90</p></td>
@@ -4568,10 +4596,13 @@ $239 (8 GB)</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon 系列
 
@@ -4584,23 +4615,23 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -4791,10 +4822,13 @@ DDR</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink").
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon X300, X600, X700, X800 系列
 
@@ -4807,23 +4841,23 @@ units](../Page/Render_output_unit.md "wikilink").
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -4917,10 +4951,13 @@ units](../Page/Render_output_unit.md "wikilink").
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink").
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon X1xxx 系列
 
@@ -4933,23 +4970,23 @@ units](../Page/Render_output_unit.md "wikilink").
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -5110,10 +5147,13 @@ GDDR3</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink").
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 
 ### Mobility Radeon HD 2xxx 系列
 
@@ -5126,13 +5166,13 @@ units](../Page/Render_output_unit.md "wikilink").
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>Memory</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>備註</p></th>
@@ -5140,11 +5180,11 @@ GFLOPs</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -5315,14 +5355,19 @@ GDDR3</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink").
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink").
 <sup>2</sup> [Unified
-Shaderss](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+Shaderss](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon HD 3xxx 系列
 
@@ -5335,13 +5380,13 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>備註</p></th>
@@ -5349,11 +5394,11 @@ GFLOPs</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -5452,7 +5497,7 @@ GFLOPs</p></th>
 <td><p>6.4<br />
 11.2</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -5472,7 +5517,7 @@ GFLOPs</p></th>
 <td><p>6.4<br />
 12.8</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
@@ -5493,8 +5538,8 @@ GFLOPs</p></th>
 <td><p>16.0<br />
 22.4</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
-<a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -5513,8 +5558,8 @@ GFLOPs</p></th>
 <td><p>5.44</p></td>
 <td><p>25.6</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
-<a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="even">
@@ -5531,7 +5576,7 @@ GFLOPs</p></th>
 <td><p>9.28</p></td>
 <td><p>9.28</p></td>
 <td><p>48.0</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="odd">
@@ -5548,7 +5593,7 @@ GFLOPs</p></th>
 <td><p>10.56</p></td>
 <td><p>10.56</p></td>
 <td><p>54.4</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="even">
@@ -5565,7 +5610,7 @@ GFLOPs</p></th>
 <td><p>2x 9.28</p></td>
 <td><p>2x 9.28</p></td>
 <td><p>2x 48.0</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>2x 256</p></td>
 </tr>
 <tr class="odd">
@@ -5582,16 +5627,18 @@ GFLOPs</p></th>
 <td><p>2x 10.56</p></td>
 <td><p>2x 10.56</p></td>
 <td><p>2x 54.4</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>2x 256</p></td>
 </tr>
 </tbody>
 </table>
 
 <sup>1</sup> [Unified
-Shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+Shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### Mobility Radeon HD 4xxx 系列
 
@@ -5604,13 +5651,13 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心介面<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>備註</p></th>
@@ -5618,11 +5665,11 @@ GFLOPs</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -5649,7 +5696,7 @@ GFLOPs</p></th>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>64/128</p></td>
 </tr>
 <tr class="odd">
@@ -5667,7 +5714,7 @@ GFLOPs</p></th>
 <td><p>1.52</p></td>
 <td><p>1.52</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>64/128</p></td>
 </tr>
 <tr class="even">
@@ -5685,7 +5732,7 @@ GFLOPs</p></th>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>64/128</p></td>
 </tr>
 <tr class="odd">
@@ -5703,7 +5750,7 @@ GFLOPs</p></th>
 <td><p>2.36</p></td>
 <td><p>2.36</p></td>
 <td><p>6.4/12.8</p></td>
-<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>64/128</p></td>
 </tr>
 <tr class="even">
@@ -5721,8 +5768,8 @@ GFLOPs</p></th>
 <td><p>3.6</p></td>
 <td><p>9.6</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -5740,8 +5787,8 @@ GFLOPs</p></th>
 <td><p>4</p></td>
 <td><p>11.2</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
@@ -5759,8 +5806,8 @@ GFLOPs</p></th>
 <td><p>4.4</p></td>
 <td><p>11.2</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -5778,8 +5825,8 @@ GFLOPs</p></th>
 <td><p>5.44</p></td>
 <td><p>12.8</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
@@ -5803,8 +5850,8 @@ GFLOPs</p></th>
 <td><p>19.2<br />
 25.6</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -5824,8 +5871,8 @@ GFLOPs</p></th>
 <td><p>12.8<br />
 25.6</p></td>
 <td><p><a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a><br />
-<a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="even">
@@ -5848,8 +5895,8 @@ GFLOPs</p></th>
 12.8/19.2</p></td>
 <td><p>25.6/28.8<br />
 25.6/28.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
-<a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
+<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -5868,7 +5915,7 @@ GFLOPs</p></th>
 <td><p>20</p></td>
 <td><p>54.4<br />
 89.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
 <a href="../Page/GDDR5.md" title="wikilink">GDDR5</a><sup>2</sup></p></td>
 <td><p>256</p></td>
 </tr>
@@ -5906,7 +5953,7 @@ GFLOPs</p></th>
 <td><p>22</p></td>
 <td><p>56.832<br />
 89.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a><br />
 <a href="../Page/GDDR5.md" title="wikilink">GDDR5</a><sup>2</sup></p></td>
 <td><p>256</p></td>
 </tr>
@@ -5931,9 +5978,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of GDDR5 is quadruple its
 nominal clock, instead of double as with other DDR memory.
 
@@ -5948,13 +5997,13 @@ nominal clock, instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>TDP (Watts)</p></th>
@@ -5962,11 +6011,11 @@ GFLOPs</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -6319,21 +6368,21 @@ GDDR5</p></td>
 <td><p>Model Number</p></td>
 <td><p>Code name</p></td>
 <td><p>Fab (nm)</p></td>
-<td><p><a href="../Page/Computer_bus.md" title="wikilink">Bus</a> <a href="../Page/I/O_interface.md" title="wikilink">interface</a></p></td>
-<td><p>Memory (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">Bus</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">interface</a></p></td>
+<td><p>Memory (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
 <td><p>Core clock (MHz)</p></td>
 <td><p>Memory clock (MHz)</p></td>
 <td><p>Config core<sup>1</sup></p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>Bandwidth (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>Bandwidth (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>Bus type</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></td>
 <td><p>Memory</p></td>
-<td><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6351,8 +6400,9 @@ GDDR5</p></td>
 </table>
 
 <sup>1</sup> Unified shaders : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -6368,13 +6418,13 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>TDP (Watts) GPU only</p></th>
@@ -6383,11 +6433,11 @@ GFLOPs</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -6856,9 +6906,11 @@ DDR3</p></td>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -6869,12 +6921,13 @@ instead of double as with other DDR memory.
     [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and
     [OpenCL](../Page/OpenCL.md "wikilink") 1.2
   - All models feature the UNB/MC
-    [Bus](../Page/Computer_bus.md "wikilink")
-    [interface](../Page/I/O_interface.md "wikilink")
+    [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink")
+    [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
   - 全部型號皆不支援雙精度浮點運算
   - All models feature Angle independent anisotropic filtering, UVD3,
-    and [Eyefinity](../Page/AMD_Eyefinity.md "wikilink") capabilities,
-    with up to three outputs.
+    and
+    [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
+    capabilities, with up to three outputs.
   - 全部型號皆基於VLIW-5架構
 
 <table>
@@ -6883,24 +6936,24 @@ instead of double as with other DDR memory.
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
 <th><p>核心代號</p></th>
-<th><p><a href="../Page/製程.md" title="wikilink">製程</a> (nm)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/製程" title="wikilink">製程</a> (nm)</p></th>
 <th><p>Core Clock (MHz)</p></th>
 <th><p>核心代號<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>Shared Memory</p></th>
 <th><p>GFLOPS</p></th>
 <th><p>Max. Combined TDP<sup>2</sup> (W)</p></th>
 <th><p>GFLOPS/W</p></th>
-<th><p><a href="../Page/Accelerated_processing_unit.md" title="wikilink">APU</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_processing_unit" title="wikilink">APU</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6971,9 +7024,11 @@ E-350</p></td>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> TDP specified for AMD reference designs, includes CPU power
 consumption. Actual TDP of retail products may vary.
 
@@ -6983,12 +7038,12 @@ consumption. Actual TDP of retail products may vary.
     [OpenGL](../Page/OpenGL.md "wikilink") 4.4 and
     [OpenCL](../Page/OpenCL.md "wikilink") 1.2
   - All models feature the UNB/MC
-    [Bus](../Page/Computer_bus.md "wikilink")
-    [interface](../Page/I/O_interface.md "wikilink")
+    [Bus](https://zh.wikipedia.org/wiki/Computer_bus "wikilink")
+    [interface](https://zh.wikipedia.org/wiki/I/O_interface "wikilink")
   - 全型號不支援雙精度浮點運算
   - All models feature Angle independent anisotropic filtering, UVD3 and
-    [Eyefinity](../Page/AMD_Eyefinity.md "wikilink") capabilities, with
-    up to three outputs.
+    [Eyefinity](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
+    capabilities, with up to three outputs.
   - 全型號基於VLIW-5架構
 
 <table>
@@ -6997,23 +7052,23 @@ consumption. Actual TDP of retail products may vary.
 <th><p>型號</p></th>
 <th><p>發表時間</p></th>
 <th><p>核心代號</p></th>
-<th><p><a href="../Page/製程.md" title="wikilink">製程</a> (nm)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/製程" title="wikilink">製程</a> (nm)</p></th>
 <th><p>Core Clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>Shared Memory</p></th>
 <th><p>GFLOPS</p></th>
 <th><p>Max. Combined TDP<sup>2</sup> (W)</p></th>
-<th><p><a href="../Page/AMD_Fusion.md" title="wikilink">APU</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AMD_Fusion" title="wikilink">APU</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7077,9 +7132,11 @@ consumption. Actual TDP of retail products may vary.
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> TDP specified for AMD reference designs, includes CPU power
 consumption. Actual TDP of retail products may vary.
 
@@ -7097,13 +7154,13 @@ consumption. Actual TDP of retail products may vary.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP (Watts)GPU only</p></th>
 <th><p>Features / Notes</p></th>
 </tr>
@@ -7112,11 +7169,11 @@ consumption. Actual TDP of retail products may vary.
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型<sup>2</sup></p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -7529,9 +7586,11 @@ GDDR5</p></td>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -7549,13 +7608,13 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP (Watts)GPU only</p></th>
 </tr>
 </thead>
@@ -7564,11 +7623,11 @@ instead of double as with other DDR memory.
 <td><p>Core (MHz)</p></td>
 <td><p>Boost (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型<sup>2</sup></p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -7778,9 +7837,11 @@ instead of double as with other DDR memory.
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -7800,13 +7861,13 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP (Watts)GPU only</p></th>
 </tr>
 </thead>
@@ -7815,11 +7876,11 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <td><p>Core (MHz)</p></td>
 <td><p>Boost (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -8030,14 +8091,14 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <th><p>開發代號</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
-<th><p><a href="../Page/Computer_bus.md" title="wikilink">匯流排</a> <a href="../Page/I/O_interface.md" title="wikilink">介面</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">匯流排</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">介面</a></p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
-(<a href="../Page/GFLOPS.md" title="wikilink">GFLOPS</a>)</p></th>
-<th><p>支援的<a href="../Page/Application_programming_interface.md" title="wikilink">API</a>(版本)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
+<th><p>支援的<a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a>(版本)</p></th>
 <th><p>TDP (Watts) GPU only</p></th>
 </tr>
 </thead>
@@ -8046,12 +8107,12 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>加速時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>像素填充率 (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>紋理填充率 (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></td>
-<td><p>傳輸頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>像素填充率 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>紋理填充率 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></td>
+<td><p>傳輸頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>類型</p></td>
-<td><p>傳輸介面 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>傳輸介面 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/Direct3D.md" title="wikilink">Direct3D支援</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGLˊ</a> 元</p></td>
 <td></td>
@@ -8240,25 +8301,25 @@ of the AMD Radeon Rx 200 Series are code-named "Crystal Series":
 <th><p>核心</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>核心時脈 (MHz)</p></th>
 <th><p>記憶體時脈 (MHz)</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>Single precision</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
@@ -8272,7 +8333,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL 8700</p></td>
 <td><p>2001</p></td>
-<td><p><a href="../Page/Radeon_R200.md" title="wikilink">Radeon 8500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R200" title="wikilink">Radeon 8500</a></p></td>
 <td><p>150</p></td>
 <td><p><a href="../Page/AGP.md" title="wikilink">AGP</a></p></td>
 <td><p>64</p></td>
@@ -8288,7 +8349,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL 8800</p></td>
 <td><p>2001</p></td>
-<td><p><a href="../Page/Radeon_R200.md" title="wikilink">Radeon 8500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R200" title="wikilink">Radeon 8500</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP</p></td>
 <td><p>128</p></td>
@@ -8304,7 +8365,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL T2-64</p></td>
 <td><p>2003</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9600 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9600 Pro</a></p></td>
 <td><p>130</p></td>
 <td><p>AGP</p></td>
 <td><p>64</p></td>
@@ -8320,7 +8381,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL T2-128</p></td>
 <td><p>2003</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9600 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9600 Pro</a></p></td>
 <td><p>130</p></td>
 <td><p>AGP</p></td>
 <td><p>128</p></td>
@@ -8336,7 +8397,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL Z1-128</p></td>
 <td><p>2002</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9500 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9500 Pro</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP</p></td>
 <td><p>128</p></td>
@@ -8352,7 +8413,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL X1-128</p></td>
 <td><p>2002</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9700</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9700</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP</p></td>
 <td><p>128</p></td>
@@ -8368,9 +8429,9 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL X1-256</p></td>
 <td><p>2002</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9700 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9700 Pro</a></p></td>
 <td><p>150</p></td>
-<td><p><a href="../Page/AGP#Versions.md" title="wikilink">AGP-Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AGP#Versions" title="wikilink">AGP-Pro</a></p></td>
 <td><p>256</p></td>
 <td><p>325</p></td>
 <td><p>310</p></td>
@@ -8384,7 +8445,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL X2-256</p></td>
 <td><p>2003</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9800 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9800 Pro</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP</p></td>
 <td><p>256</p></td>
@@ -8400,7 +8461,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL X2-256T</p></td>
 <td><p>2003</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon 9800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon 9800 XT</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP</p></td>
 <td><p>256</p></td>
@@ -8416,7 +8477,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL X3-256</p></td>
 <td><p>2004</p></td>
-<td><p><a href="../Page/Radeon_R420.md" title="wikilink">Radeon X800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R420" title="wikilink">Radeon X800 XT</a></p></td>
 <td><p>130</p></td>
 <td><p>AGP</p></td>
 <td><p>256</p></td>
@@ -8432,7 +8493,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL V3100</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon X300 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon X300 XT</a></p></td>
 <td><p>110</p></td>
 <td><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> x16</p></td>
 <td><p>128</p></td>
@@ -8448,7 +8509,7 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>FireGL V3200</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Radeon X600 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Radeon X600 XT</a></p></td>
 <td><p>130</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -8464,7 +8525,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL V3300</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon 1300 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon 1300 Pro</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -8474,13 +8535,13 @@ GFLOPs</p></th>
 <td><p>2.4</p></td>
 <td><p>2.4</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="../Page/GDDR2.md" title="wikilink">GDDR2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR2" title="wikilink">GDDR2</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V3350</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon 1300 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon 1300 Pro</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>256</p></td>
@@ -8490,13 +8551,13 @@ GFLOPs</p></th>
 <td><p>2.4</p></td>
 <td><p>2.4</p></td>
 <td><p>6.4</p></td>
-<td><p><a href="../Page/GDDR2.md" title="wikilink">GDDR2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR2" title="wikilink">GDDR2</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V3400</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon 1600 Rro/XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon 1600 Rro/XT</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -8506,13 +8567,13 @@ GFLOPs</p></th>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V3600</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 2600 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 2600 Pro</a></p></td>
 <td><p>65</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>256</p></td>
@@ -8522,13 +8583,13 @@ GFLOPs</p></th>
 <td><p>2.4</p></td>
 <td><p>4.8</p></td>
 <td><p>16.0</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V5000</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R420.md" title="wikilink">Radeon X700 Pro/XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R420" title="wikilink">Radeon X700 Pro/XT</a></p></td>
 <td><p>130</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -8538,13 +8599,13 @@ GFLOPs</p></th>
 <td><p>3.4</p></td>
 <td><p>3.4</p></td>
 <td><p>13.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V5100</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R420.md" title="wikilink">Radeon X800 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R420" title="wikilink">Radeon X800 Pro</a></p></td>
 <td><p>130</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -8560,7 +8621,7 @@ GFLOPs</p></th>
 <tr class="even">
 <td><p>FireGL V5200</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon X1600 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon X1600 XT</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>256</p></td>
@@ -8570,13 +8631,13 @@ GFLOPs</p></th>
 <td><p>2.4</p></td>
 <td><p>2.4</p></td>
 <td><p>22.4</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V5600</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 2600 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 2600 XT</a></p></td>
 <td><p>65</p></td>
 <td><p>PCIe</p></td>
 <td><p>512</p></td>
@@ -8586,13 +8647,13 @@ GFLOPs</p></th>
 <td><p>3.2</p></td>
 <td><p>6.4</p></td>
 <td><p>35.2</p></td>
-<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V7100</p></td>
 <td><p>2005</p></td>
-<td><p><a href="../Page/Radeon_R420.md" title="wikilink">Radeon X800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R420" title="wikilink">Radeon X800 XT</a></p></td>
 <td><p>130</p></td>
 <td><p>PCIe</p></td>
 <td><p>256</p></td>
@@ -8602,13 +8663,13 @@ GFLOPs</p></th>
 <td><p>8</p></td>
 <td><p>8</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V7200</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon X1800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon X1800 XT</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>256</p></td>
@@ -8618,13 +8679,13 @@ GFLOPs</p></th>
 <td><p>9.6</p></td>
 <td><p>9.6</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V7300</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon X1800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon X1800 XT</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe</p></td>
 <td><p>512</p></td>
@@ -8634,13 +8695,13 @@ GFLOPs</p></th>
 <td><p>9.6</p></td>
 <td><p>9.6</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V7350</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon X1800 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon X1800 XT</a></p></td>
 <td><p>90</p></td>
 <td><p>PCIe</p></td>
 <td><p>1024</p></td>
@@ -8650,13 +8711,13 @@ GFLOPs</p></th>
 <td><p>9.6</p></td>
 <td><p>9.6</p></td>
 <td><p>41.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V7400</p></td>
 <td><p>2006 (Canceled)</p></td>
-<td><p><a href="../Page/Radeon_R520.md" title="wikilink">Radeon X1950 Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R520" title="wikilink">Radeon X1950 Pro</a></p></td>
 <td><p>80</p></td>
 <td><p>PCIe</p></td>
 <td><p>512?</p></td>
@@ -8666,13 +8727,13 @@ GFLOPs</p></th>
 <td><p>19.8?</p></td>
 <td><p>19.8?</p></td>
 <td><p>41.6?</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V7600</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 2900 GT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 2900 GT</a></p></td>
 <td><p>80</p></td>
 <td><p>PCIe</p></td>
 <td><p>512</p></td>
@@ -8682,13 +8743,13 @@ GFLOPs</p></th>
 <td><p>9.6</p></td>
 <td><p>9.6</p></td>
 <td><p>51.2</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V7700</p></td>
 <td><p>2007 (2008)</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 3870</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 3870</a></p></td>
 <td><p>55</p></td>
 <td><p>PCIe 2.0</p></td>
 <td><p>512</p></td>
@@ -8698,13 +8759,13 @@ GFLOPs</p></th>
 <td><p>12.4</p></td>
 <td><p>12.4</p></td>
 <td><p>72</p></td>
-<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>256</p></td>
 </tr>
 <tr class="odd">
 <td><p>FireGL V8600</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 2900 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 2900 XT</a></p></td>
 <td><p>80</p></td>
 <td><p>PCIe</p></td>
 <td><p>1024</p></td>
@@ -8714,13 +8775,13 @@ GFLOPs</p></th>
 <td><p>11.008</p></td>
 <td><p>11.008</p></td>
 <td><p>111.1[143]</p></td>
-<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>512</p></td>
 </tr>
 <tr class="even">
 <td><p>FireGL V8650</p></td>
 <td><p>2007</p></td>
-<td><p><a href="../Page/Radeon_R600.md" title="wikilink">Radeon HD 2900 XT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R600" title="wikilink">Radeon HD 2900 XT</a></p></td>
 <td><p>80</p></td>
 <td><p>PCIe</p></td>
 <td><p>2048</p></td>
@@ -8730,20 +8791,25 @@ GFLOPs</p></th>
 <td><p>11.008</p></td>
 <td><p>11.008</p></td>
 <td><p>111.1</p></td>
-<td><p><a href="../Page/GDDR4.md" title="wikilink">GDDR4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR4" title="wikilink">GDDR4</a></p></td>
 <td><p>512</p></td>
 </tr>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro 3D 系列
 
@@ -8755,16 +8821,16 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>Die Size (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>Die Size (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -8773,13 +8839,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>匯流排寬度 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>匯流排寬度 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -8803,7 +8869,7 @@ GFLOPs</p></th>
 <td><p>3.2</p></td>
 <td><p>3.2</p></td>
 <td><p>15.2</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -8821,7 +8887,7 @@ GFLOPs</p></th>
 <td><p>4.4</p></td>
 <td><p>17.6</p></td>
 <td><p>24</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="even">
@@ -8839,7 +8905,7 @@ GFLOPs</p></th>
 <td><p>5.2</p></td>
 <td><p>13</p></td>
 <td><p>14.4</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -8875,7 +8941,7 @@ GFLOPs</p></th>
 <td><p>5.6</p></td>
 <td><p>22.4</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -8911,7 +8977,7 @@ GFLOPs</p></th>
 <td><p>6.4</p></td>
 <td><p>25.6</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -9008,9 +9074,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9025,14 +9093,14 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>Notes</p></th>
 </tr>
@@ -9041,13 +9109,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9067,7 +9135,7 @@ GFLOPs</p></th>
 <td><p>5.2</p></td>
 <td><p>15.6</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -9122,9 +9190,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9138,15 +9208,15 @@ instead of double as with other DDR memory.
 <th><p>發表時間</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
-<th><p><a href="../Page/Computer_bus.md" title="wikilink">Bus</a> <a href="../Page/I/O_interface.md" title="wikilink">interface</a></p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">Bus</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">interface</a></p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體配置</p></th>
 <th><p>浮點運算效能<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> 支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> 支援</p></th>
 <th><p>TDP watts</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -9155,13 +9225,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>核心時脈 (MHz)</p></td>
 <td><p>記憶體時脈 (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>介面類型</p></td>
-<td><p>匯流排寬度 (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>匯流排寬度 (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9252,9 +9322,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9269,14 +9341,14 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>Notes</p></th>
 </tr>
@@ -9285,13 +9357,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9311,7 +9383,7 @@ GFLOPs</p></th>
 <td><p>5.04</p></td>
 <td><p>12.6</p></td>
 <td><p>28.8</p></td>
-<td><p><a href="../Page/DDR3.md" title="wikilink">DDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a></p></td>
 <td><p>128</p></td>
 </tr>
 <tr class="odd">
@@ -9398,9 +9470,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9417,14 +9491,14 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -9433,13 +9507,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9530,9 +9604,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9547,14 +9623,14 @@ instead of double as with other DDR memory.
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>Memory</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -9563,13 +9639,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9628,9 +9704,11 @@ GFLOPs</p></th>
 </table>
 
 <sup>1</sup> [Unified
-shaders](../Page/Unified_Shader_Model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_Shader_Model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> The effective data transfer rate of
 [GDDR5](../Page/GDDR5.md "wikilink") is quadruple its nominal clock,
 instead of double as with other DDR memory.
@@ -9644,22 +9722,22 @@ instead of double as with other DDR memory.
 <th><p>發表時間</p></th>
 <th><p>核心</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a> (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a> (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
-<th><p><a href="../Page/Thermal_Design_Power.md" title="wikilink">TDP</a> / idle (watts)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Thermal_Design_Power" title="wikilink">TDP</a> / idle (watts)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -9675,7 +9753,7 @@ instead of double as with other DDR memory.
 <td><p>FireMV 2200 PCI</p></td>
 <td></td>
 <td><p>RV280</p></td>
-<td><p><a href="../Page/Conventional_PCI.md" title="wikilink">PCI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Conventional_PCI" title="wikilink">PCI</a></p></td>
 <td><p>64</p></td>
 <td></td>
 <td></td>
@@ -9690,7 +9768,7 @@ instead of double as with other DDR memory.
 <td><p>FireMV 2200 PCIe</p></td>
 <td></td>
 <td><p>RV370</p></td>
-<td><p><a href="../Page/PCIE.md" title="wikilink">PCIe</a> x16</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PCIE" title="wikilink">PCIe</a> x16</p></td>
 <td><p>128</p></td>
 <td></td>
 <td></td>
@@ -9705,7 +9783,7 @@ instead of double as with other DDR memory.
 <td><p>FireMV 2260</p></td>
 <td><p>2008</p></td>
 <td><p>RV620</p></td>
-<td><p><a href="../Page/PCIE.md" title="wikilink">PCIe</a> 2.0 x1/x16, PCI</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PCIE" title="wikilink">PCIe</a> 2.0 x1/x16, PCI</p></td>
 <td><p>256</p></td>
 <td></td>
 <td></td>
@@ -9720,7 +9798,7 @@ instead of double as with other DDR memory.
 <td><p>FireMV 2400 PCI</p></td>
 <td></td>
 <td><p>RV380</p></td>
-<td><p><a href="../Page/Conventional_PCI.md" title="wikilink">PCI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Conventional_PCI" title="wikilink">PCI</a></p></td>
 <td><p>128</p></td>
 <td></td>
 <td></td>
@@ -9735,7 +9813,7 @@ instead of double as with other DDR memory.
 <td><p>FireMV 2400 PCIe</p></td>
 <td></td>
 <td><p>RV380</p></td>
-<td><p><a href="../Page/PCIE.md" title="wikilink">PCIe</a> x1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PCIE" title="wikilink">PCIe</a> x1</p></td>
 <td><p>256</p></td>
 <td></td>
 <td></td>
@@ -9749,14 +9827,19 @@ instead of double as with other DDR memory.
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shaders](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-unit](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Vertex
+shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") :
+[Pixel shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-unit](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+unit](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro (多螢幕顯示) 系列
 
@@ -9770,26 +9853,26 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>電晶體數量 (Million)</p></th>
-<th><p>Die Size (<a href="../Page/Millimeter_Squared.md" title="wikilink">mm<sup>2</sup></a>)</p></th>
+<th><p>Die Size (<a href="https://zh.wikipedia.org/wiki/Millimeter_Squared" title="wikilink">mm<sup>2</sup></a>)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量(<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量(<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
-<th><p><a href="../Page/Thermal_Design_Power.md" title="wikilink">TDP</a> / idle (watts)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Thermal_Design_Power" title="wikilink">TDP</a> / idle (watts)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td></td>
@@ -9836,7 +9919,7 @@ units](../Page/Render_output_unit.md "wikilink")
 <td><p>2.4</p></td>
 <td><p>4.8</p></td>
 <td><p>9.6</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
@@ -9854,7 +9937,7 @@ units](../Page/Render_output_unit.md "wikilink")
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -9886,14 +9969,14 @@ units](../Page/Render_output_unit.md "wikilink")
     [OpenGL](../Page/OpenGL.md "wikilink") 4.0 and
     [OpenCL](../Page/OpenCL.md "wikilink") 1.0
 
-| Model                                      | 發佈日期                                                    | 核心代號                                        | 製程 (nm) | 傳輸介面                                         | [記憶體](../Page/記憶體.md "wikilink") ([MB](../Page/megabyte.md "wikilink")) | 時脈                                                                   | [Stream processors](../Page/Stream_processing.md "wikilink") | [RAM](../Page/Random-access_memory.md "wikilink") | Peak G[FLOPS](../Page/FLOPS.md "wikilink") | [TDP](../Page/Thermal_Design_Power.md "wikilink") [Watts](../Page/Watt.md "wikilink") | Notes |
-| ------------------------------------------ | ------------------------------------------------------- | ------------------------------------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------- | ----- |
-| [GPGPU](../Page/GPGPU.md "wikilink") (MHz) | [RAM](../Page/Random-access_memory.md "wikilink") (MHz) | 頻寬 ([GB](../Page/Gigabyte.md "wikilink")/s) | 記憶體類型   | Bus width ([bit](../Page/bit.md "wikilink")) | [FP32](../Page/Single_precision_floating-point_format.md "wikilink")    | [FP64](../Page/Double_precision_floating-point_format.md "wikilink") |                                                              |                                                   |                                            |                                                                                       |       |
-| FireStream 9170                            | November 8, 2007                                        | RV670                                       | 55      | PCIe 2.0 x16                                 | 2048                                                                    | 800                                                                  | 800                                                          | 320                                               | 51.2                                       | [GDDR3](../Page/GDDR3.md "wikilink")                                                  | 256   |
-| FireStream 9250                            | June 16, 2008                                           | RV770                                       | 55      | PCIe 2.0 x16                                 | 1024                                                                    | 625                                                                  | 993                                                          | 800                                               | 63.552                                     | [GDDR3](../Page/GDDR3.md "wikilink")                                                  | 256   |
-| FireStream 9270                            | November 13, 2008                                       | RV770                                       | 55      | PCIe 2.0 x16                                 | 2048                                                                    | 750                                                                  | 850                                                          | 800                                               | 108.8                                      | [GDDR5](../Page/GDDR5.md "wikilink")                                                  | 256   |
-| FireStream 9350                            | June 23, 2010                                           | RV870                                       | 40      | PCIe 2.1 x16                                 | 2048                                                                    | 700                                                                  | 1000                                                         | 1440                                              | 128                                        | [GDDR5](../Page/GDDR5.md "wikilink")                                                  | 256   |
-| FireStream 9370                            | June 23, 2010                                           | RV870                                       | 40      | PCIe 2.1 x16                                 | 4096                                                                    | 825                                                                  | 1150                                                         | 1600                                              | 147.2                                      | [GDDR5](../Page/GDDR5.md "wikilink")                                                  | 256   |
+| Model                                                         | 發佈日期                                                                       | 核心代號                                                           | 製程 (nm) | 傳輸介面                                                            | [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink") ([MB](https://zh.wikipedia.org/wiki/megabyte "wikilink")) | 時脈                                                                                      | [Stream processors](https://zh.wikipedia.org/wiki/Stream_processing "wikilink") | [RAM](https://zh.wikipedia.org/wiki/Random-access_memory "wikilink") | Peak G[FLOPS](https://zh.wikipedia.org/wiki/FLOPS "wikilink") | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") [Watts](https://zh.wikipedia.org/wiki/Watt "wikilink") | Notes |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- | ------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink") (MHz) | [RAM](https://zh.wikipedia.org/wiki/Random-access_memory "wikilink") (MHz) | 頻寬 ([GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")/s) | 記憶體類型   | Bus width ([bit](https://zh.wikipedia.org/wiki/bit "wikilink")) | [FP32](https://zh.wikipedia.org/wiki/Single_precision_floating-point_format "wikilink")                       | [FP64](https://zh.wikipedia.org/wiki/Double_precision_floating-point_format "wikilink") |                                                                                 |                                                                      |                                                               |                                                                                                                             |       |
+| FireStream 9170                                               | November 8, 2007                                                           | RV670                                                          | 55      | PCIe 2.0 x16                                                    | 2048                                                                                                          | 800                                                                                     | 800                                                                             | 320                                                                  | 51.2                                                          | [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")                                                                     | 256   |
+| FireStream 9250                                               | June 16, 2008                                                              | RV770                                                          | 55      | PCIe 2.0 x16                                                    | 1024                                                                                                          | 625                                                                                     | 993                                                                             | 800                                                                  | 63.552                                                        | [GDDR3](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")                                                                     | 256   |
+| FireStream 9270                                               | November 13, 2008                                                          | RV770                                                          | 55      | PCIe 2.0 x16                                                    | 2048                                                                                                          | 750                                                                                     | 850                                                                             | 800                                                                  | 108.8                                                         | [GDDR5](../Page/GDDR5.md "wikilink")                                                                                        | 256   |
+| FireStream 9350                                               | June 23, 2010                                                              | RV870                                                          | 40      | PCIe 2.1 x16                                                    | 2048                                                                                                          | 700                                                                                     | 1000                                                                            | 1440                                                                 | 128                                                           | [GDDR5](../Page/GDDR5.md "wikilink")                                                                                        | 256   |
+| FireStream 9370                                               | June 23, 2010                                                              | RV870                                                          | 40      | PCIe 2.1 x16                                                    | 4096                                                                                                          | 825                                                                                     | 1150                                                                            | 1600                                                                 | 147.2                                                         | [GDDR5](../Page/GDDR5.md "wikilink")                                                                                        | 256   |
 
 ### FirePro Remote 系列
 
@@ -9905,14 +9988,14 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>TDP watts</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -9921,13 +10004,13 @@ GFLOPs</p></th>
 <tr class="odd">
 <td><p>Core (MHz)</p></td>
 <td><p>Memory (MHz)</p></td>
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
-<td><p><a href="../Page/Single_precision_floating-point_format.md" title="wikilink">Single Precision</a></p></td>
-<td><p><a href="../Page/Double_precision_floating-point_format.md" title="wikilink">Double Precision</a></p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Single_precision_floating-point_format" title="wikilink">Single Precision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_precision_floating-point_format" title="wikilink">Double Precision</a></p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
@@ -9947,7 +10030,7 @@ GFLOPs</p></th>
 <td><p>2.0</p></td>
 <td><p>4.0</p></td>
 <td><p>12.8</p></td>
-<td><p><a href="../Page/GDDR3.md" title="wikilink">GDDR3</a> for GPU,<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/GDDR3" title="wikilink">GDDR3</a> for GPU,<br />
 RDRAM for PCoIP</p></td>
 <td><p>64</p></td>
 </tr>
@@ -9983,25 +10066,25 @@ RDRAM for PCoIP</p></td>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體容量</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>Single precision</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
@@ -10017,7 +10100,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL 7800</p></td>
 <td><p>2001</p></td>
 <td><p>M7-GL</p></td>
-<td><p><a href="../Page/Radeon_R100.md" title="wikilink">Mobility Radeon 7500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R100" title="wikilink">Mobility Radeon 7500</a></p></td>
 <td><p>180</p></td>
 <td><p>AGP</p></td>
 <td><p>64</p></td>
@@ -10034,7 +10117,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL 9000</p></td>
 <td><p>2002</p></td>
 <td><p>M9</p></td>
-<td><p><a href="../Page/Radeon_R200.md" title="wikilink">Mobility Radeon 9000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R200" title="wikilink">Mobility Radeon 9000</a></p></td>
 <td><p>150</p></td>
 <td><p>AGP 4X</p></td>
 <td><p>64</p></td>
@@ -10051,7 +10134,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL T2</p></td>
 <td><p>2003</p></td>
 <td><p>M10</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Mobility Radeon 9600</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Mobility Radeon 9600</a></p></td>
 <td><p>130</p></td>
 <td><p>AGP 4X</p></td>
 <td><p>128</p></td>
@@ -10068,7 +10151,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL T2e</p></td>
 <td><p>2004</p></td>
 <td><p>M11GL</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Mobility Radeon 9700</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Mobility Radeon 9700</a></p></td>
 <td><p>130</p></td>
 <td><p>AGP</p></td>
 <td><p>128</p></td>
@@ -10085,7 +10168,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL V3100</p></td>
 <td><p>2004</p></td>
 <td><p>M22GL</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Mobility Radeon X300</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Mobility Radeon X300</a></p></td>
 <td><p>110</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -10102,7 +10185,7 @@ GFLOPs</p></th>
 <td><p>Mobility FireGL V3200</p></td>
 <td><p>2004</p></td>
 <td><p>M24GL</p></td>
-<td><p><a href="../Page/Radeon_R300.md" title="wikilink">Mobility Radeon X600</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radeon_R300" title="wikilink">Mobility Radeon X600</a></p></td>
 <td><p>130</p></td>
 <td><p>PCIe x16</p></td>
 <td><p>128</p></td>
@@ -10220,14 +10303,19 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [Vertex shader](../Page/Vertex_shader.md "wikilink") :
-[Pixel shaders](../Page/Pixel_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+<sup>1</sup> [Vertex
+shader](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink") : [Pixel
+shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 <sup>2</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : [Render output
-units](../Page/Render_output_unit.md "wikilink")
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+[Render output
+units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
 
 ### FirePro Mobile 系列
 
@@ -10240,25 +10328,25 @@ units](../Page/Render_output_unit.md "wikilink")
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
 <th><p>傳輸介面</p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Pixel (<a href="../Page/Pixel.md" title="wikilink">GP</a>/s)</p></td>
-<td><p>Texture (<a href="../Page/Texel_(graphics).md" title="wikilink">GT</a>/s)</p></td>
-<td><p>頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>Pixel (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>Texture (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>Single precision</p></td>
 <td><p>Double precision</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
@@ -10513,14 +10601,15 @@ GFLOPs</p></th>
 
 ## 遊戲機繪圖處理器
 
-  - <sup>1</sup> [向量著色器](../Page/向量著色器.md "wikilink") :
-    [像素著色器](../Page/像素著色器.md "wikilink") :
-    [紋理映射單元](../Page/紋理映射單元.md "wikilink") : [Render
-    輸出單元](../Page/Render_輸出單元.md "wikilink")
-  - <sup>2</sup> [GPGPU](../Page/GPGPU.md "wikilink")
-    ([向量著色器](../Page/向量著色器.md "wikilink")/[幾何著色器](../Page/幾何著色器.md "wikilink")/[像素著色器](../Page/像素著色器.md "wikilink"))
-    : [紋理映射單元](../Page/紋理映射單元.md "wikilink") : [Render
-    輸出單元](../Page/Render_輸出單元.md "wikilink")
+  - <sup>1</sup> [向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")
+    : [像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink") :
+    [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink")
+    : [Render
+    輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
+  - <sup>2</sup> [GPGPU](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
+    ([向量著色器](https://zh.wikipedia.org/wiki/向量著色器 "wikilink")/[幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")/[像素著色器](https://zh.wikipedia.org/wiki/像素著色器 "wikilink"))
+    : [紋理映射單元](https://zh.wikipedia.org/wiki/紋理映射單元 "wikilink") :
+    [Render 輸出單元](https://zh.wikipedia.org/wiki/Render_輸出單元 "wikilink")
   - <sup>3</sup> 10.4 GB/s 材質頻寬。7.6 GB/s 頁面緩衝頻寬。
 
 <table>
@@ -10530,14 +10619,14 @@ GFLOPs</p></th>
 <th><p>發表時間</p></th>
 <th><p>核心代號</p></th>
 <th><p>製程 (nm)</p></th>
-<th><p><a href="../Page/傳輸介面.md" title="wikilink">傳輸介面</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/傳輸介面" title="wikilink">傳輸介面</a></p></th>
 <th><p>Core clock (MHz)</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="../Page/Fillrate.md" title="wikilink">Fillrate</a></p></th>
-<th><p>記憶體容量 (<a href="../Page/megabyte.md" title="wikilink">MB</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Fillrate" title="wikilink">Fillrate</a></p></th>
+<th><p>記憶體容量 (<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>)</p></th>
 <th><p>Memory clock (MHz)</p></th>
 <th><p>記憶體</p></th>
-<th><p><a href="../Page/Application_programming_interface.md" title="wikilink">API</a> compliance (version)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Application_programming_interface" title="wikilink">API</a> compliance (version)</p></th>
 <th><p>Processing Power<br />
 GFLOPs</p></th>
 <th><p>備註</p></th>
@@ -10549,9 +10638,9 @@ GFLOPs</p></th>
 <td><p>MPixels/s</p></td>
 <td><p>MTextels/s</p></td>
 <td><p>Vertices/s</p></td>
-<td><p>記憶體頻寬 (<a href="../Page/Gigabyte.md" title="wikilink">GB</a>/s)</p></td>
+<td><p>記憶體頻寬 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p>記憶體類型</p></td>
-<td><p>Bus width (<a href="../Page/bit.md" title="wikilink">bit</a>)</p></td>
+<td><p>Bus width (<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>DirectX</p></td>
 <td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
 <td><p>其他</p></td>
@@ -10561,7 +10650,7 @@ GFLOPs</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|Flipper (<a href="../Page/Nintendo_GameCube.md" title="wikilink">GameCube</a>)[158]</p></td>
+<td><p>|Flipper (<a href="https://zh.wikipedia.org/wiki/Nintendo_GameCube" title="wikilink">GameCube</a>)[158]</p></td>
 <td><p>September 14, 2001</p></td>
 <td></td>
 <td><p>180</p></td>
@@ -10572,7 +10661,7 @@ GFLOPs</p></th>
 <td><p>648</p></td>
 <td><p>648</p></td>
 <td><p>60.75</p></td>
-<td><p>24 <a href="../Page/shared_memory.md" title="wikilink">shared</a><br />
+<td><p>24 <a href="https://zh.wikipedia.org/wiki/shared_memory" title="wikilink">shared</a><br />
 16 shared<br />
 3 eDRAM</p></td>
 <td><p>324<br />
@@ -10583,7 +10672,7 @@ GFLOPs</p></th>
 10.4/7.6<sup>3</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>|<a href="../Page/Xenos_(graphics_chip).md" title="wikilink">Xenos</a> (<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>)[159]</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Xenos_(graphics_chip)" title="wikilink">Xenos</a> (<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>)[159]</p></td>
 <td><p>November 22, 2005</p></td>
 <td><p>Xenon<br />
 Zephyr<br />
@@ -10612,10 +10701,10 @@ Corona</p></td>
 500</p></td>
 <td><p>22.4<br />
 32 (GPU to daughter die)<br />
-256 (Daughter die <a href="../Page/Render_output_unit.md" title="wikilink">ROP</a> to eDRAM)</p></td>
+256 (Daughter die <a href="https://zh.wikipedia.org/wiki/Render_output_unit" title="wikilink">ROP</a> to eDRAM)</p></td>
 </tr>
 <tr class="even">
-<td><p>|<a href="../Page/Hollywood_(graphics_chip).md" title="wikilink">Hollywood</a> (<a href="../Page/Wii.md" title="wikilink">Wii</a>)</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Hollywood_(graphics_chip)" title="wikilink">Hollywood</a> (<a href="../Page/Wii.md" title="wikilink">Wii</a>)</p></td>
 <td><p>November 19, 2006</p></td>
 <td></td>
 <td><p>90</p></td>
@@ -10637,7 +10726,7 @@ Unknown<br />
 15.6/11.4</p></td>
 </tr>
 <tr class="odd">
-<td><p>|<a href="../Page/Latte_(graphics_chip).md" title="wikilink">Latte</a> (<a href="../Page/Wii_U.md" title="wikilink">Wii U</a>)</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Latte_(graphics_chip)" title="wikilink">Latte</a> (<a href="../Page/Wii_U.md" title="wikilink">Wii U</a>)</p></td>
 <td><p>November 18, 2012</p></td>
 <td></td>
 <td><p>45</p></td>
@@ -10725,13 +10814,15 @@ Unknown<br />
 </tbody>
 </table>
 
-<sup>1</sup> [Pixel shaders](../Page/Pixel_shader.md "wikilink") :
-[Vertex shaders](../Page/Vertex_shader.md "wikilink") : [Texture mapping
-units](../Page/Texture_mapping_unit.md "wikilink") : Render output
-units
+<sup>1</sup> [Pixel
+shaders](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink") :
+[Vertex shaders](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")
+: [Texture mapping
+units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") :
+Render output units
 <sup>2</sup> [Unified
-shaders](../Page/Unified_shader_model.md "wikilink") : Texture mapping
-units : Render output units
+shaders](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
+: Texture mapping units : Render output units
 <sup>3</sup> 10.4 GB/s texture bandwidth. 7.6 GB/s framebuffer
 bandwidth.
 
@@ -10744,7 +10835,7 @@ bandwidth.
 
   - [AMD處理器列表](../Page/AMD處理器列表.md "wikilink")
   - [AMD晶片組列表](../Page/AMD晶片組列表.md "wikilink")
-  - [NVIDIA顯示核心列表](../Page/NVIDIA顯示核心列表.md "wikilink")
+  - [NVIDIA顯示核心列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
 
 ## 参考文献
 
@@ -10774,16 +10865,16 @@ bandwidth.
 
 8.
 9.  used in C-30 (1.2GHz) and C-50 (1.0GHz)
-    [APU](../Page/AMD_Fusion.md "wikilink"), paired with Hudson-M1 SB,
-    socket FT1 (BGA-413)
+    [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired
+    with Hudson-M1 SB, socket FT1 (BGA-413)
 
 10.
 11.
 12.
 13.
 14. used in E-240 (1.5GHz) and E-350 (1.6GHz)
-    [APU](../Page/AMD_Fusion.md "wikilink"), paired with Hudson-M1 SB,
-    socket FT1 (BGA-413)
+    [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired
+    with Hudson-M1 SB, socket FT1 (BGA-413)
 
 15.
 16. [HD 6450 Graphics (For OEM

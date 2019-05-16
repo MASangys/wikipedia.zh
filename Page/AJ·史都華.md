@@ -1,11 +1,11 @@
-**AJ·史都華**（，本名，）是《[全美超級模特兒新秀大賽](../Page/全美超級模特兒新秀大賽.md "wikilink")》[第七季的參賽者](../Page/全美超級模特兒新秀大賽第七季.md "wikilink")，來自[加州的沙加緬度市](../Page/加州.md "wikilink")。她是比賽中第五個被淘汰的參賽者。\[1\]
+**AJ·史都華**（，本名，）是《[全美超級模特兒新秀大賽](../Page/全美超級模特兒新秀大賽.md "wikilink")》[第七季的參賽者](https://zh.wikipedia.org/wiki/全美超級模特兒新秀大賽第七季 "wikilink")，來自[加州的沙加緬度市](https://zh.wikipedia.org/wiki/加州 "wikilink")。她是比賽中第五個被淘汰的參賽者。\[1\]
 
 ## 早年生平
 
 出生於九月八日。
 
 A.J.在St. Francis High
-School高中畢業，一間在[加州](../Page/加州.md "wikilink")[沙加緬度市的天主教老式中學](../Page/沙加緬度.md "wikilink")。高中畢業後，她搬到[洛杉磯繼續學業](../Page/洛杉磯.md "wikilink")。她比賽前沒有模特兒經驗，以及未看過任何一集《[全美超級模特兒新秀大賽](../Page/全美超級模特兒新秀大賽.md "wikilink")》。
+School高中畢業，一間在[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[沙加緬度市的天主教老式中學](https://zh.wikipedia.org/wiki/沙加緬度 "wikilink")。高中畢業後，她搬到[洛杉磯繼續學業](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。她比賽前沒有模特兒經驗，以及未看過任何一集《[全美超級模特兒新秀大賽](../Page/全美超級模特兒新秀大賽.md "wikilink")》。
 
 A.J.曾患子宮頸癌，現已痊癒。
 
@@ -18,9 +18,9 @@ A.J.曾患子宮頸癌，現已痊癒。
 
 ## 比賽過後
 
-她在2006年10月25日的《[泰雅賓絲脫口秀](../Page/泰雅·賓絲#泰雅賓絲脫口秀.md "wikilink")》中出現。\[2\]她說會繼續做模特兒。
+她在2006年10月25日的《[泰雅賓絲脫口秀](https://zh.wikipedia.org/wiki/泰雅·賓絲#泰雅賓絲脫口秀 "wikilink")》中出現。\[2\]她說會繼續做模特兒。
 
-A.J.在2007年冬季到亞洲發展，包括[韓國和](../Page/韓國.md "wikilink")[香港](../Page/香港.md "wikilink")，拍攝當地時裝雜誌的內頁，還登上了封面，在香港登上時裝雜誌《Jessica》，並成為手袋品牌《Cervo》的代言模特兒，發展相當不俗。
+A.J.在2007年冬季到亞洲發展，包括[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[香港](../Page/香港.md "wikilink")，拍攝當地時裝雜誌的內頁，還登上了封面，在香港登上時裝雜誌《Jessica》，並成為手袋品牌《Cervo》的代言模特兒，發展相當不俗。
 
 ## 注釋
 

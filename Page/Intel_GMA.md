@@ -1,23 +1,23 @@
 [Harumphy.dg965.heatsink.jpg](https://zh.wikipedia.org/wiki/File:Harumphy.dg965.heatsink.jpg "fig:Harumphy.dg965.heatsink.jpg")
-****是於2004年至2008年所推出的[顯示核心產品線](../Page/顯示核心.md "wikilink")，用於在[晶片組內內建](../Page/晶片組.md "wikilink")[顯示核心](../Page/顯示核心.md "wikilink")。
+****是於2004年至2008年所推出的[顯示核心產品線](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，用於在[晶片組內內建](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。
 
-這個「集成圖像」方案容許使用者在組裝電腦時無需購買額外的顯示卡，使整個平台的成本下降和功耗更低。GMA[顯示核心多數出現於低階或笔记本电腦](../Page/顯示核心.md "wikilink")。GMA[顯示核心使用會在運行時佔用電腦的部分的](../Page/顯示核心.md "wikilink")[主記憶體](../Page/主記憶體.md "wikilink")，令電腦的效能略為降低，這是由於[中央處理器以及](../Page/中央處理器.md "wikilink")[顯示核心需要同時經同一](../Page/顯示核心.md "wikilink")[匯流排來存取主記憶體所致](../Page/匯流排.md "wikilink")。
+這個「集成圖像」方案容許使用者在組裝電腦時無需購買額外的顯示卡，使整個平台的成本下降和功耗更低。GMA[顯示核心多數出現於低階或笔记本电腦](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。GMA[顯示核心使用會在運行時佔用電腦的部分的](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[主記憶體](https://zh.wikipedia.org/wiki/主記憶體 "wikilink")，令電腦的效能略為降低，這是由於[中央處理器以及](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[顯示核心需要同時經同一](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[匯流排來存取主記憶體所致](https://zh.wikipedia.org/wiki/匯流排 "wikilink")。
 
 ## 歷史
 
-GMA[顯示核心用以取代](../Page/顯示核心.md "wikilink")[Intel第一代](../Page/Intel.md "wikilink")[內建顯示核心](../Page/內建顯示核心.md "wikilink")[Extreme
-Graphics](../Page/Extreme_Graphics.md "wikilink")，和分離形式的AGP顯示卡[Intel740](../Page/I740.md "wikilink")。
+GMA[顯示核心用以取代](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[Intel第一代](https://zh.wikipedia.org/wiki/Intel "wikilink")[內建顯示核心](https://zh.wikipedia.org/wiki/內建顯示核心 "wikilink")[Extreme
+Graphics](https://zh.wikipedia.org/wiki/Extreme_Graphics "wikilink")，和分離形式的AGP顯示卡[Intel740](https://zh.wikipedia.org/wiki/I740 "wikilink")。
 
-GMA[顯示核心原本架構在硬體內只支援一些功能](../Page/顯示核心.md "wikilink")，並且倚賴主機[中央處理器處理至少一些圖形管線](../Page/中央處理器.md "wikilink")，令電腦效能更進一步減低。然而在2006年，[Intel引進第四代GMA架構](../Page/Intel.md "wikilink")（GMA
-X3000），大多數功能現在被加進，提高了性能。第四代GMA整合了固定的功能與一系列可編程執行單元，提供更佳性能給圖形和影片。大多數新GMA架構的優勢是在執行圖形有關任務或者有關影片任務能靈活改變。當時GMA性能一直被廣泛批評在[電腦遊戲執行太慢](../Page/電腦遊戲.md "wikilink")，最新的GMA應該能令一些中間的玩家關心。
+GMA[顯示核心原本架構在硬體內只支援一些功能](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，並且倚賴主機[中央處理器處理至少一些圖形管線](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，令電腦效能更進一步減低。然而在2006年，[Intel引進第四代GMA架構](https://zh.wikipedia.org/wiki/Intel "wikilink")（GMA
+X3000），大多數功能現在被加進，提高了性能。第四代GMA整合了固定的功能與一系列可編程執行單元，提供更佳性能給圖形和影片。大多數新GMA架構的優勢是在執行圖形有關任務或者有關影片任務能靈活改變。當時GMA性能一直被廣泛批評在[電腦遊戲執行太慢](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，最新的GMA應該能令一些中間的玩家關心。
 
 儘管相似，GMA不是基於由[Imagination
-Technologies授權給](../Page/Imagination_Technologies.md "wikilink")[Intel的](../Page/Intel.md "wikilink")[PowerVR技術](../Page/PowerVR.md "wikilink")。[Intel曾在支持](../Page/Intel.md "wikilink")[XScale平台的晶片組上使用低功率的](../Page/XScale.md "wikilink")[PowerVR
-MBX設計](../Page/PowerVR#MBX.md "wikilink")，但自从 2006 年 XScale 被售出后，Intel
-取得了 PowerVR SGX 授權，用于 Atom 平台上的 [GMA
-500](../Page/#GMA_500.md "wikilink") 显示核心。
+Technologies授權給](../Page/Imagination_Technologies.md "wikilink")[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[PowerVR技術](../Page/PowerVR.md "wikilink")。[Intel曾在支持](https://zh.wikipedia.org/wiki/Intel "wikilink")[XScale平台的晶片組上使用低功率的](../Page/XScale.md "wikilink")[PowerVR
+MBX設計](https://zh.wikipedia.org/wiki/PowerVR#MBX "wikilink")，但自从 2006 年
+XScale 被售出后，Intel 取得了 PowerVR SGX 授權，用于 Atom 平台上的 [GMA
+500](https://zh.wikipedia.org/wiki/#GMA_500 "wikilink") 显示核心。
 
-據報道[Intel已開始設計一種新系列分離式圖形硬體產品](../Page/Intel.md "wikilink")，代號為[Intel_Larrabee](../Page/Intel_Larrabee.md "wikilink")。
+據報道[Intel已開始設計一種新系列分離式圖形硬體產品](https://zh.wikipedia.org/wiki/Intel "wikilink")，代號為[Intel_Larrabee](../Page/Intel_Larrabee.md "wikilink")。
 
 2010年起，Intel已使用集成于[中央处理器内的](../Page/中央处理器.md "wikilink")[Intel HD
 Graphics显示核心取代了GMA显示核心](../Page/Intel_HD_Graphics.md "wikilink")。
@@ -28,20 +28,20 @@ Graphics显示核心取代了GMA显示核心](../Page/Intel_HD_Graphics.md "wiki
 
 **GMA 900**是第一款以Intel图形加速器作为产品名称的显示核心，整合于Intel 910G,
 915G，以及915Gx芯片组中。相较于之前的*Extreme 3D*显示核心，GMA
-900在性能上有显著的进步，但是与其它的图形加速方案相比，还停留在很基础的层面上。例如，它的3D核心缺乏对于[T\&L和类似的](../Page/T&L.md "wikilink")[顶点着色器等](../Page/顶点着色器.md "wikilink")3D加速管线中重要技术的硬件支援，而是改以软件模拟的方式提供支持，降低了3D游戏的兼容性和表现。
+900在性能上有显著的进步，但是与其它的图形加速方案相比，还停留在很基础的层面上。例如，它的3D核心缺乏对于[T\&L和类似的](https://zh.wikipedia.org/wiki/T&L "wikilink")[顶点着色器等](https://zh.wikipedia.org/wiki/顶点着色器 "wikilink")3D加速管线中重要技术的硬件支援，而是改以软件模拟的方式提供支持，降低了3D游戏的兼容性和表现。
 
 GMA 900拥有4条支援DirectX shader model 2.0的像素渲染管线，最高运行频率为333
 MHz，不同的芯片组内部运行频率不同。峰值像素填充率为1333
 百万像素／秒，与它的前任类似，GMA 900
-支援[MPEG-2运动补偿](../Page/MPEG-2.md "wikilink")，色彩空间变换和[DirectDraw](../Page/DirectDraw.md "wikilink")
+支援[MPEG-2运动补偿](../Page/MPEG-2.md "wikilink")，色彩空间变换和[DirectDraw](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")
 overlay。
 
 显存控制器最多能够对224MB的内存寻址，但是随后的一次视频 bios 更新把这个限制在了128 MB。
 
 显示核心用于显示和渲染的时钟发生器是不同的。显示部分包含一个 400MHz
-[RAMDAC](../Page/RAMDAC.md "wikilink")，2个25-200Mpixel/s 的串行 DVO
-端口。同时在移动芯片组中，还包括两个18 bit 25-112MHz
-[LVDS转换器](../Page/LVDS.md "wikilink")。
+[RAMDAC](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")，2个25-200Mpixel/s
+的串行 DVO 端口。同时在移动芯片组中，还包括两个18 bit 25-112MHz
+[LVDS转换器](https://zh.wikipedia.org/wiki/LVDS "wikilink")。
 
 ### GMA 950
 
@@ -49,8 +49,8 @@ overlay。
 的**第3.5代整合图形核心**。它整合于 Intel 940GML, 945G, 945GU
 和 945GT 芯片组中。硬件架构中视频解码单元有所增加，同时还包括
 VLD、[离散余弦变换和双重](../Page/离散余弦变换.md "wikilink")[video
-overlay](../Page/video_overlay.md "wikilink")。最高时钟频率为 400 MHz（存在于Intel
-945G, 945GC, 945GZ）），峰值像素填充率理论上为1600 百万像素／秒。
+overlay](https://zh.wikipedia.org/wiki/video_overlay "wikilink")。最高时钟频率为
+400 MHz（存在于Intel 945G, 945GC, 945GZ）），峰值像素填充率理论上为1600 百万像素／秒。
 
 GMA 950 与 GMA 900
 在架构上的弱点相同，即没有硬件几何处理单元，既没有基本的（DX7所包含）硬件T\&L\[1\]，也没有（DX8及以后）高级顶点着色单元。
@@ -60,7 +60,7 @@ GMA 950 与 GMA 900
 946GZ, Q965 和 Q963 芯片组集成的显示核心为**GMA 3000**。\[2\]\[3\] GMA 3000 的3D 核心与
 X3000 的完全不同，虽然名称很类似。它更多的基于之前 GMA 900 和 GMA 950 显示核心的体系，并且与它们同属于 "i915"
 芯片组家族。它的像素和顶点渲染单元只支援到shader model 2.0
-的特性，并且顶点渲染单元依旧只是软件模拟的方式工作。另外视频播放的硬件加速，即基于硬件的离散余弦变换，ProcAmp（独立视频流的[色彩校正](../Page/色彩校正.md "wikilink")）和
+的特性，并且顶点渲染单元依旧只是软件模拟的方式工作。另外视频播放的硬件加速，即基于硬件的离散余弦变换，ProcAmp（独立视频流的[色彩校正](https://zh.wikipedia.org/wiki/色彩校正 "wikilink")）和
 VC-1 的解码并没有在硬件上实现。在所有集成 GMA 3000 显示核心的芯片组中，只有 Q965
 保留了双重独立显示器的支持。规格表中的核心频率为400
 MHz，像素填充率为1.6 Gpixel/s，然而在硬件白皮书中它的核心频率却为667 MHz\[4\]。
@@ -78,7 +78,7 @@ G31, G33, Q33 和 Q35 芯片组中所使用的显示核心为**GMA 3100**，能�
 ### GMA 3150
 
 整合 Intel Atom N4xx, N5xx
-(代號: *[Pineview](../Page/Pineview_\(microprocessor\).md "wikilink")*)
+(代號: *[Pineview](https://zh.wikipedia.org/wiki/Pineview_\(microprocessor\) "wikilink")*)
 處理器，能夠支援DirectX 9。架構跟 GMA 3000及3100 相近，像素及頂點着色器硬件最高支援為2.0B，而其頂點着色器 3.0
 版本同樣缺乏硬件支援(只能以驅動+軟件模擬方式執行)，最高支援384MB 顯示記憶體，Shader Model 3.0，核心频率为400
 MHz。支援OpenGL 1.5 (Windows)及 2.1 (Linux)
@@ -86,7 +86,7 @@ MHz。支援OpenGL 1.5 (Windows)及 2.1 (Linux)
 ### GMA X3000
 
 **GMA X3000**与之前的GMA系列相比，在架构上有了戏剧性的变化，最主要的一点即 X3000
-将以8个[向量处理器作为执行单元的统一渲染架构作为](../Page/并行向量處理機.md "wikilink")
+将以8个[向量处理器作为执行单元的统一渲染架构作为](https://zh.wikipedia.org/wiki/并行向量處理機 "wikilink")
 3D
 渲染硬件的基础。每一条管线都能够进行视频，顶点或是材质的操作。一个中枢时序表动态调整管线资源上线程的分派，以达到渲染输出的最大化（同时降低单个管线延迟的影响）。然而由于执行单元架构特性，同一时间仅能在一条管线上处理数据。\[5\]
 GMA X3000 支援顶点和像素 Shader Model 3.0 特性。其中每个向量的渲染达到了 32-bit
@@ -127,10 +127,10 @@ Clear Video 技术以及对于 HDCP 的支援，增强 HD-DVD 和 Blu-Ray 的流
 
 ### GMA 500
 
-GMA 500 是一款為 [MID](../Page/MID.md "wikilink") 和
-[netbook](../Page/netbook.md "wikilink") 而設計的顯示核心, 配合[Intel
-Atom](../Page/Intel_Atom.md "wikilink") Z5XX系列處理器推出市場。與一般GMA系列不同, 此核心是
-[Imagination
+GMA 500 是一款為 [MID](https://zh.wikipedia.org/wiki/MID "wikilink") 和
+[netbook](https://zh.wikipedia.org/wiki/netbook "wikilink") 而設計的顯示核心,
+配合[Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")
+Z5XX系列處理器推出市場。與一般GMA系列不同, 此核心是 [Imagination
 Technologies](../Page/Imagination_Technologies.md "wikilink") 所設計的
 [PowerVR](../Page/PowerVR.md "wikilink") SGX 535, 由於
 [PowerVR](../Page/PowerVR.md "wikilink") 的開源合作計劃甚少, 在 linux
@@ -188,7 +188,7 @@ Q35</p></td>
 <td><p>GL960</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/频率.md" title="wikilink">频率</a>（<a href="../Page/赫兹.md" title="wikilink">MHz</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/频率" title="wikilink">频率</a>（<a href="../Page/赫兹.md" title="wikilink">MHz</a>）</p></td>
 <td><p>100 (UL11L) 200 (US15L,W)</p></td>
 <td><p>333[11]</p></td>
 <td><p>200[12]</p></td>
@@ -206,7 +206,7 @@ Q35</p></td>
 <td><p>400</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/顶点着色器.md" title="wikilink">顶点着色器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顶点着色器" title="wikilink">顶点着色器</a></p></td>
 <td><p>3.0</p></td>
 <td><p>2.0</p></td>
 <td><p>2.0(HW)/3.0(SW)</p></td>
@@ -224,7 +224,7 @@ Q35</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/像素着色器.md" title="wikilink">像素着色器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/像素着色器" title="wikilink">像素着色器</a></p></td>
 <td><p>3.0</p></td>
 <td><p>2.0</p></td>
 <td><p>3.0</p></td>
@@ -242,7 +242,7 @@ Q35</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/像素管线.md" title="wikilink">像素管线</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/像素管线" title="wikilink">像素管线</a></p></td>
 <td><p>NA</p></td>
 <td><p>4</p></td>
 <td><p>2</p></td>
@@ -260,7 +260,7 @@ Q35</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/统一渲染架构.md" title="wikilink">统一渲染架构</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/统一渲染架构" title="wikilink">统一渲染架构</a></p></td>
 <td><p>4</p></td>
 <td><p>NA</p></td>
 <td><p>8</p></td>
@@ -296,7 +296,7 @@ Q35</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>峰值 <a href="../Page/显存带宽.md" title="wikilink">显存带宽</a> (GB/s)</p></td>
+<td><p>峰值 <a href="https://zh.wikipedia.org/wiki/显存带宽" title="wikilink">显存带宽</a> (GB/s)</p></td>
 <td><p>3.2 (UL11L) 4.2 (US15L,W)</p></td>
 <td><p>8.5</p></td>
 <td><p>10.7</p></td>
@@ -406,7 +406,7 @@ Q35</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/H.264/AVC.md" title="wikilink">H.264/AVC</a> 硬解码</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/H.264/AVC" title="wikilink">H.264/AVC</a> 硬解码</p></td>
 <td><p>Full HW</p></td>
 <td><p>No</p></td>
 <td><p>MC + In Loop Filter</p></td>
@@ -442,8 +442,8 @@ This table is derived from these sources: \[33\] \[34\] \[35\] \[36\]
 Notes:
 
   - VLD: [Variable-length
-    code](../Page/Variable-length_code.md "wikilink") (sometimes
-    referred to as slice-level acceleration)
+    code](https://zh.wikipedia.org/wiki/Variable-length_code "wikilink")
+    (sometimes referred to as slice-level acceleration)
   - iDCT: inverse [离散余弦变换](../Page/离散余弦变换.md "wikilink")
   - MC: [运动补偿](../Page/运动补偿.md "wikilink")
   - WMV9: [Windows Media Video
@@ -454,10 +454,12 @@ Notes:
 
 ### Mac OS X
 
-[Mac OS X 10.4](../Page/Mac_OS_X_10.4.md "wikilink") 支持 GMA 950
-[Mac OS X 10.5](../Page/Mac_OS_X_10.5.md "wikilink") 支持 GMA X3100
-[Mac OS X 10.6](../Page/Mac_OS_X_10.6.md "wikilink") 支援 GMA 950/X3100
-(32Bit)
+[Mac OS X 10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_10.4 "wikilink")
+支持 GMA 950
+[Mac OS X 10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_10.5 "wikilink")
+支持 GMA X3100
+[Mac OS X 10.6](https://zh.wikipedia.org/wiki/Mac_OS_X_10.6 "wikilink")
+支援 GMA 950/X3100 (32Bit)
 
 ### FreeBSD
 

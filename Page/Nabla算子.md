@@ -24,13 +24,13 @@
 
 ## 名稱
 
-Nabla算子的名字来自[希腊语中一种被称为纳布拉琴的](../Page/希腊语.md "wikilink")[竖琴](../Page/竖琴.md "wikilink")。相关的词汇也存在于[亚拉姆语和](../Page/亚拉姆语.md "wikilink")[希伯来语中](../Page/希伯来语.md "wikilink")。
+Nabla算子的名字来自[希腊语中一种被称为纳布拉琴的](https://zh.wikipedia.org/wiki/希腊语 "wikilink")[竖琴](https://zh.wikipedia.org/wiki/竖琴 "wikilink")。相关的词汇也存在于[亚拉姆语和](https://zh.wikipedia.org/wiki/亚拉姆语 "wikilink")[希伯来语中](../Page/希伯来语.md "wikilink")。
 
 该符号的另一常见的名称是*atled*，因为它是希腊字母Δ倒过来的形状。除了*atled*外，它还有一个名称是*del*。
 
-Del算子在标准HTML中写为\&nabla，而在[LaTeX中为](../Page/LaTeX.md "wikilink")\\nabla。在[Unicode中](../Page/Unicode.md "wikilink")，它是[十进制](../Page/十进制.md "wikilink")[数](../Page/数.md "wikilink")8711，也即[十六进制数](../Page/十六进制.md "wikilink")0x2207。
+Del算子在标准HTML中写为\&nabla，而在[LaTeX中为](https://zh.wikipedia.org/wiki/LaTeX "wikilink")\\nabla。在[Unicode中](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它是[十进制](../Page/十进制.md "wikilink")[数](../Page/数.md "wikilink")8711，也即[十六进制数](../Page/十六进制.md "wikilink")0x2207。
 
-Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](../Page/梯度.md "wikilink")，並可組成[散度](../Page/散度.md "wikilink")、[旋度和](../Page/旋度.md "wikilink")[拉普拉斯算子](../Page/拉普拉斯算子.md "wikilink")。它也用于指代[微分几何中的](../Page/微分几何.md "wikilink")[联络](../Page/联络.md "wikilink")（可以视为更广意义上的梯度算子）。它由[哈密尔顿引入](../Page/威廉·哈密顿.md "wikilink")。
+Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](../Page/梯度.md "wikilink")，並可組成[散度](../Page/散度.md "wikilink")、[旋度和](../Page/旋度.md "wikilink")[拉普拉斯算子](../Page/拉普拉斯算子.md "wikilink")。它也用于指代[微分几何中的](../Page/微分几何.md "wikilink")[联络](../Page/联络.md "wikilink")（可以视为更广意义上的梯度算子）。它由[哈密尔顿引入](https://zh.wikipedia.org/wiki/威廉·哈密顿 "wikilink")。
 
 ## 參考
 

@@ -1,6 +1,6 @@
 **魔法少女Juniper Lee**（英文：The Life and Times of Juniper Lee）是一套由[Cartoon
 Network
-Studios製作的動畫集](../Page/Cartoon_Network_Studios.md "wikilink")。這個故事中的主角
+Studios製作的動畫集](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")。這個故事中的主角
 — Juniper Lee，
 住在一個與魔界錯亂混合的城市。儘管城內的人都不能看到魔界怪獸，但能看見其所作的破壞。於是，Juniper被賦予「守護者」的身份，協助令魔界和人間界的生活節奏平衡。
 
@@ -69,9 +69,10 @@ Lee（Juniper全名）是故事中的主角。這位11歲的中美混血少女�
 
 ## 參見
 
-  - [Cartoon Network](../Page/Cartoon_Network.md "wikilink")
+  - [Cartoon
+    Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
   - [Cartoon Network
-    Studios](../Page/Cartoon_Network_Studios.md "wikilink")
+    Studios](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")
 
 ## 相關連結
 

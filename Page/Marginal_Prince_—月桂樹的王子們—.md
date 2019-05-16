@@ -1,11 +1,11 @@
 [Majipuri.jpg](https://zh.wikipedia.org/wiki/File:Majipuri.jpg "fig:Majipuri.jpg")
 《**Marginal Prince
-—邊境王子-月桂樹的王子們—**》（）是[日本](../Page/日本.md "wikilink")[手機平台的一款](../Page/手機.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")，2005年8月開始配信，目前於[NTT
-DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md "wikilink")[au的](../Page/au_\(行動電話\).md "wikilink")[EZWeb平台展開服務](../Page/EZWeb.md "wikilink")。嶄新的系統與豐富的故事性獲得玩家的廣大好評。本作獲選為第9回[文化廳媒體藝術祭審查委員會特別推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")，在女性向遊戲界是首例。此外也改編成[TV動畫](../Page/TV動畫.md "wikilink")，2006年10月開始放送。
+—邊境王子-月桂樹的王子們—**》（）是[日本](../Page/日本.md "wikilink")[手機平台的一款](https://zh.wikipedia.org/wiki/手機 "wikilink")[女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，2005年8月開始配信，目前於[NTT
+DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與](https://zh.wikipedia.org/wiki/i-mode "wikilink")[au的](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")[EZWeb平台展開服務](https://zh.wikipedia.org/wiki/EZWeb "wikilink")。嶄新的系統與豐富的故事性獲得玩家的廣大好評。本作獲選為第9回[文化廳媒體藝術祭審查委員會特別推薦作品](../Page/文化廳媒體藝術祭.md "wikilink")，在女性向遊戲界是首例。此外也改編成[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")，2006年10月開始放送。
 
 ## 概要
 
-玩家經由遊戲中所設定的玩家弟弟「」，與遊戲內其他男性角色交流與溝通。隨著對話選擇的不同，增加攻略角色的好感度。在遊戲過程中也可以得到角色的手機用語音或圖片。除此之外，因為這是在手機平台上的遊戲，也會有遊戲內角色以電話語音方式撥打到玩家手機，讓玩家宛如實際接到攻略角色所打來的電話之特別服務，在日本[手機遊戲界來說是一種十分嶄新的手法](../Page/手機遊戲.md "wikilink")。
+玩家經由遊戲中所設定的玩家弟弟「」，與遊戲內其他男性角色交流與溝通。隨著對話選擇的不同，增加攻略角色的好感度。在遊戲過程中也可以得到角色的手機用語音或圖片。除此之外，因為這是在手機平台上的遊戲，也會有遊戲內角色以電話語音方式撥打到玩家手機，讓玩家宛如實際接到攻略角色所打來的電話之特別服務，在日本[手機遊戲界來說是一種十分嶄新的手法](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
 
 ## 角色介紹
 
@@ -16,7 +16,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 
   -
     名門Grant一族的女兒與Loreto公國公子的兒子。父母在他年幼時雙亡，是在母方的伯父家長大。13歲時進入聖Alfonso學院，是學院的學生代表。個性誠實且溫和、負有正義感與責任感，深得大家的信賴。但是有時仍會給人無法輕易接近的感覺。對玩家的弟弟十分照顧。
-      - 18歲，7月28日出生，178cm，[獅子座](../Page/獅子座.md "wikilink")，AB型
+      - 18歲，7月28日出生，178cm，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，AB型
       - 興趣：騎馬、讀書
       - 擅長科目：自然科學
       - 喜歡的東西：咖啡
@@ -29,7 +29,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 
   -
     玩家的弟弟。因為想要到海外留學，所以經由兩親所認識的外國人富豪推薦、自己隻身前往異國的聖Alfonso學院留學。個性善開朗、很容易就與人打成一片。與Joshua等人一起住在學校宿舍。跟姐姐（＝玩家）感情非常好的弟弟。
-      - 16歲，12月15日出生，169cm，[射手座](../Page/射手座.md "wikilink")
+      - 16歲，12月15日出生，169cm，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
       - 興趣：看足球比賽
       - 討厭的東西：鬼怪、恐怖片
 
@@ -40,8 +40,8 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   -
-    祖父是有名的[導演](../Page/導演.md "wikilink")，父親則是電視製作人。出生於藝能世家、傳承了優秀血統的人氣知名年輕演員，5歲的時候就以童星的身分出道。16歲時進入聖Alfonso學院。個性開朗愛玩，對待他人態度十分圓潤，是個自信家。但是對於演技方面是個要求絕對的完美主義者。
-      - 17歲，3月21日出生，185cm，[雙魚座](../Page/雙魚座.md "wikilink")，O型
+    祖父是有名的[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，父親則是電視製作人。出生於藝能世家、傳承了優秀血統的人氣知名年輕演員，5歲的時候就以童星的身分出道。16歲時進入聖Alfonso學院。個性開朗愛玩，對待他人態度十分圓潤，是個自信家。但是對於演技方面是個要求絕對的完美主義者。
+      - 17歲，3月21日出生，185cm，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，O型
       - 興趣：所有的運動、樂團演奏
       - 擅長科目：戲劇論、體育
       - 喜歡的東西：鮪魚三明治
@@ -56,7 +56,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
   -
     被世人稱為[煉金術師或探鑛師的傳說貴族](../Page/炼金术.md "wikilink")、Saint
     Germain伯爵的直系後代子孫。母親在生下他後便過世，與父親的關係則十分疏遠。13歲時進入聖Alfonso學院。成績優秀，甚至擁有自行經營的事業。冷酷傲慢的優雅毒舌派，基本上對陌生人完全不信任。
-      - 17歲，6月6日出生，172cm，[雙子座](../Page/雙子座.md "wikilink")，AB型
+      - 17歲，6月6日出生，172cm，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，AB型
       - 興趣：小提琴、劍術、塔羅牌
       - 擅長科目：法律、神秘學、科學、金融工學
       - 喜歡的東西：紅茶
@@ -69,7 +69,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 
   -
     軍人名門出身，幼年時因為父親工作的關係過著不停搬家的生活，母親是畫家。在不斷轉學的過成程中接觸了多國文化與思想，讓他擁有了獨特的感性並精通多國語言。好奇心旺盛，對於新的事物都希望能夠體驗並親自吸收。17歲時進入聖Alfonso學院。一開始對學院的生活持有反抗，但因為自身的轉學體質很快就習慣了校園生活。
-      - 19歲，1月13日出生，188cm，[魔羯座](../Page/魔羯座.md "wikilink")，O型
+      - 19歲，1月13日出生，188cm，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，O型
       - 興趣：武術、語言學、西洋棋、文學
       - 擅長科目：家政、體育
       - 喜歡的東西：檸檬汽水
@@ -81,7 +81,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   -
-    祖父是國寶級的[日本舞名家之當家主](../Page/日本.md "wikilink")，母親是[藝妓](../Page/藝妓.md "wikilink")。因為常去母親所工作的日本舞名家之處，所以從小就耳濡目染，對日本舞以及茶道十分熟悉。經歷過一番曲折的幼年時期。16歲時進入聖Alfonso學院。在學校與Alfred一起接受舞蹈以及演戲的課程。與人相處時個別十分隨和。
+    祖父是國寶級的[日本舞名家之當家主](../Page/日本.md "wikilink")，母親是[藝妓](https://zh.wikipedia.org/wiki/藝妓 "wikilink")。因為常去母親所工作的日本舞名家之處，所以從小就耳濡目染，對日本舞以及茶道十分熟悉。經歷過一番曲折的幼年時期。16歲時進入聖Alfonso學院。在學校與Alfred一起接受舞蹈以及演戲的課程。與人相處時個別十分隨和。
       - 17歲，4月29日出生，175cm，[金牛座](../Page/金牛座.md "wikilink")，O型
       - 興趣：茶道、日本舞
       - 擅長科目：建築學、歷史學
@@ -94,8 +94,8 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   -
-    於[莫斯科出生](../Page/莫斯科.md "wikilink")，父親是醫生，母親是東歐立陶宛貴族血統家族出身，有一個妹妹。小時候就接受了良好的英才教育，17歲時被送到[美國留學](../Page/美國.md "wikilink")，19歲便於美國的研究所畢業。畢業後前往某國的軍事機關擔任研究人員。6年前進入了聖Alfonso學院擔任保健醫與輔導教師，個性沉穩且冷靜。
-      - 36歲，11月2日出生，180cm，[天蠍座](../Page/天蠍座.md "wikilink")，AB型，[俄羅斯出身](../Page/俄羅斯.md "wikilink")
+    於[莫斯科出生](../Page/莫斯科.md "wikilink")，父親是醫生，母親是東歐立陶宛貴族血統家族出身，有一個妹妹。小時候就接受了良好的英才教育，17歲時被送到[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")，19歲便於美國的研究所畢業。畢業後前往某國的軍事機關擔任研究人員。6年前進入了聖Alfonso學院擔任保健醫與輔導教師，個性沉穩且冷靜。
+      - 36歲，11月2日出生，180cm，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，AB型，[俄羅斯出身](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
       - 身份：保健醫生兼心理輔導師
       - 興趣：特雷門演奏
       - 喜歡的東西：中華料理
@@ -103,13 +103,13 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   - **染谷俊**／Shun Someya（配音員
-    [染谷俊](../Page/染谷俊.md "wikilink")）*註·染谷俊是實際存在的日本鋼琴家，但在遊戲內的人物設定為虛構*
+    [染谷俊](https://zh.wikipedia.org/wiki/染谷俊 "wikilink")）*註·染谷俊是實際存在的日本鋼琴家，但在遊戲內的人物設定為虛構*
 
 <!-- end list -->
 
   -
-    接受過良好英才教育的天才[鋼琴家](../Page/鋼琴.md "wikilink")。過去曾是聖Alfonso學院的學生。不知為何常常行蹤成謎。有時活躍於搖滾樂團，有的時候則前往戰場為孩童演奏，以神出鬼沒鋼琴家的名號聞名。因為不知道到底什麼時候會辦下一場，所以每次演奏會都人氣大爆滿，演變成票券難以入手的情態。接受了聖Alfonso學院的邀請來創作學院的新校歌，成為期間限定的音樂教師。
-      - 36歲，2月22日出生，[雙魚座](../Page/雙魚座.md "wikilink")
+    接受過良好英才教育的天才[鋼琴家](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。過去曾是聖Alfonso學院的學生。不知為何常常行蹤成謎。有時活躍於搖滾樂團，有的時候則前往戰場為孩童演奏，以神出鬼沒鋼琴家的名號聞名。因為不知道到底什麼時候會辦下一場，所以每次演奏會都人氣大爆滿，演變成票券難以入手的情態。接受了聖Alfonso學院的邀請來創作學院的新校歌，成為期間限定的音樂教師。
+      - 36歲，2月22日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
       - 興趣：睡午覺
       - 專長：音樂
       - 喜歡的東西：鮑魚、鯡魚卵、赤貝
@@ -151,7 +151,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   -
-    演唱：[FLAME](../Page/FLAME.md "wikilink")
+    演唱：[FLAME](https://zh.wikipedia.org/wiki/FLAME "wikilink")
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 <!-- end list -->
 
   -
-    演唱：[黑田倫弘](../Page/黑田倫弘.md "wikilink")
+    演唱：[黑田倫弘](https://zh.wikipedia.org/wiki/黑田倫弘 "wikilink")
 
 <!-- end list -->
 
@@ -173,10 +173,10 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
 
 ### 製作人員
 
-  - [原作](../Page/原作.md "wikilink")：森本繭-{斗}-、
-  - [導演](../Page/導演.md "wikilink")：稻垣隆行
-  - 角色原案：[甲斐智久](../Page/甲斐智久.md "wikilink")
-  - [角色設計](../Page/角色設計.md "wikilink")、總[作畫監督](../Page/作畫監督.md "wikilink")：佐佐木敏子
+  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink")：森本繭-{斗}-、
+  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink")：稻垣隆行
+  - 角色原案：[甲斐智久](https://zh.wikipedia.org/wiki/甲斐智久 "wikilink")
+  - [角色設計](https://zh.wikipedia.org/wiki/角色設計 "wikilink")、總[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")：佐佐木敏子
   - 系列構成、編劇：早坂律子
   - 美術監督：東厚治
   - 色彩設計：阿部美雪
@@ -186,7 +186,7 @@ DoCoMo的](../Page/NTT_DoCoMo.md "wikilink")[i-mode平台與](../Page/i-mode.md 
   - 音響監督：飯田-{里}-樹
   - 製作人：和泉凱、秦充洋、井上律子、難波秀行
   - 動畫制作：GONZINO、東京Kids、studioT\&B
-  - 製作：[聖Alfonso學院理事會](../Page/製作委員會方式.md "wikilink")
+  - 製作：[聖Alfonso學院理事會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ### 各集名稱
 

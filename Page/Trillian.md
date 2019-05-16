@@ -1,16 +1,16 @@
-**Trillian**是一個由[美國](../Page/美國.md "wikilink")[軟件公司](../Page/軟件.md "wikilink")[Cerulean
-Studios所創造](../Page/Cerulean_Studios.md "wikilink")[即時通訊軟件](../Page/即時通訊軟件.md "wikilink")。它兼容[ICQ](../Page/ICQ.md "wikilink")、[MSN
-Messenger](../Page/MSN_Messenger.md "wikilink")、[雅虎通](../Page/雅虎通.md "wikilink")、[IRC](../Page/IRC.md "wikilink")、[AOL
+**Trillian**是一個由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[軟件公司](https://zh.wikipedia.org/wiki/軟件 "wikilink")[Cerulean
+Studios所創造](https://zh.wikipedia.org/wiki/Cerulean_Studios "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。它兼容[ICQ](../Page/ICQ.md "wikilink")、[MSN
+Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")、[雅虎通](https://zh.wikipedia.org/wiki/雅虎通 "wikilink")、[IRC](../Page/IRC.md "wikilink")、[AOL
 Instant
-Messenger等各大即時通訊軟件](../Page/AOL_Instant_Messenger.md "wikilink")，使得用戶可以只使用一個軟件同時連接不同即時通訊服務的聯繫人。其商業版的插件更兼容許多其他的即時通訊服務。
+Messenger等各大即時通訊軟件](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")，使得用戶可以只使用一個軟件同時連接不同即時通訊服務的聯繫人。其商業版的插件更兼容許多其他的即時通訊服務。
 
 2000年7月1日，最初公佈時的Trillian是一個免費的IRC使用者端。其第一個商業版本（Trillian Pro
 1.0）在2002年9月10日公佈銷售。現時有兩種版本，Basic基本版和Pro商業版，分別以免費和收費方式發放。收費版有更多功能。2006年11月21日，Cerulean
 Studios宣布即將發放Trillian Astra（4.0），目前正在Alpha測試階段。
 
 Cerulean Studios總部設在美國[康乃狄克州](../Page/康乃狄克州.md "wikilink")，由[Kevin
-Kurtz和](../Page/Kevin_Kurtz.md "wikilink")[Scott
-Werndorfer以其](../Page/Scott_Werndorfer.md "wikilink")1萬美元積蓄於1998年5月創立。\[1\]其後，他們聘請了[華人](../Page/華人.md "wikilink")[設計師](../Page/設計師.md "wikilink")[麥珀騹擔任軟件的設計](../Page/麥珀騹.md "wikilink")。
+Kurtz和](https://zh.wikipedia.org/wiki/Kevin_Kurtz "wikilink")[Scott
+Werndorfer以其](https://zh.wikipedia.org/wiki/Scott_Werndorfer "wikilink")1萬美元積蓄於1998年5月創立。\[1\]其後，他們聘請了[華人](https://zh.wikipedia.org/wiki/華人 "wikilink")[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink")[麥珀騹擔任軟件的設計](https://zh.wikipedia.org/wiki/麥珀騹 "wikilink")。
 
 ## 版本歷史
 

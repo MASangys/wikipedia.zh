@@ -1,14 +1,14 @@
 **Adobe
-GoLive**是[Adobe系统公司出品的网页设计及编辑软件](../Page/Adobe系统.md "wikilink")。它的推出代替了[Adobe
-PageMill](../Page/Adobe_PageMill.md "wikilink")，其最新版本为9，且不再是[Adobe
+GoLive**是[Adobe系统公司出品的网页设计及编辑软件](https://zh.wikipedia.org/wiki/Adobe系统 "wikilink")。它的推出代替了[Adobe
+PageMill](https://zh.wikipedia.org/wiki/Adobe_PageMill "wikilink")，其最新版本为9，且不再是[Adobe
 Creative
-Suite软件包的套件之一](../Page/Adobe_Creative_Suite.md "wikilink")。GoLive是一個早期的网页编辑工具，屬於[所見即所得軟體](../Page/所見即所得.md "wikilink")。開發公司是[CyberStudio](../Page/CyberStudio.md "wikilink")，而GoLive就是其旗艦產品。於1999年，Adobe系统收購了GoLive，並更名為Adobe
+Suite软件包的套件之一](../Page/Adobe_Creative_Suite.md "wikilink")。GoLive是一個早期的网页编辑工具，屬於[所見即所得軟體](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")。開發公司是[CyberStudio](https://zh.wikipedia.org/wiki/CyberStudio "wikilink")，而GoLive就是其旗艦產品。於1999年，Adobe系统收購了GoLive，並更名為Adobe
 GoLive。
 
 Adobe
-GoLive以前主要的竞争对手是[Dreamweaver](../Page/Dreamweaver.md "wikilink")，后来Adobe公司收购[Macromedia](../Page/Macromedia.md "wikilink")，两个软件被纳入同一家公司。现在，在[Creative
-Suite](../Page/Creative_Suite.md "wikilink")
-3中，Adobe已經剔除了GoLive，而用Dreamweaver代替，且Adobe鼓励客户们轉移至Dreamweaver。Dreamweaver可以支援[AJAX和](../Page/AJAX.md "wikilink")[CSS](../Page/CSS.md "wikilink")，而GoLive則不支援。所以GoLive被Dreamweaver代替是一個趨勢。
+GoLive以前主要的竞争对手是[Dreamweaver](https://zh.wikipedia.org/wiki/Dreamweaver "wikilink")，后来Adobe公司收购[Macromedia](../Page/Macromedia.md "wikilink")，两个软件被纳入同一家公司。现在，在[Creative
+Suite](https://zh.wikipedia.org/wiki/Creative_Suite "wikilink")
+3中，Adobe已經剔除了GoLive，而用Dreamweaver代替，且Adobe鼓励客户们轉移至Dreamweaver。Dreamweaver可以支援[AJAX和](../Page/AJAX.md "wikilink")[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")，而GoLive則不支援。所以GoLive被Dreamweaver代替是一個趨勢。
 
 2008年4月，Adobe宣佈GoLive停止開發，只會提供相關的技术支持。舊GoLive用戶可以199美元升級到Dreamweaver。
 

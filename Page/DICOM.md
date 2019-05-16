@@ -1,6 +1,6 @@
-**醫療數位影像傳輸協定**（，）是一組通用的標準協定，在對於[醫學影像的處理](../Page/醫學影像.md "wikilink")、儲存、列印、傳輸上。它包含了檔案格式的定義及網路通信協定。DICOM是以[TCP/IP為基礎的應用協定](../Page/TCP/IP协议.md "wikilink")，並以TCP/IP聯繫各個系統。兩個能接受DICOM格式的醫療儀器間，可藉由DICOM格式的檔案，來接收與交換影像及病人資料。
+**醫療數位影像傳輸協定**（，）是一組通用的標準協定，在對於[醫學影像的處理](../Page/醫學影像.md "wikilink")、儲存、列印、傳輸上。它包含了檔案格式的定義及網路通信協定。DICOM是以[TCP/IP為基礎的應用協定](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")，並以TCP/IP聯繫各個系統。兩個能接受DICOM格式的醫療儀器間，可藉由DICOM格式的檔案，來接收與交換影像及病人資料。
 
-DICOM可以整合不同廠商的醫療影像儀器、[伺服器](../Page/伺服器.md "wikilink")、[工作站](../Page/工作站.md "wikilink")、列印機和網路設備，使它們都能整合在[PACS系統中](../Page/PACS.md "wikilink")。許多不同廠商的儀器、伺服器、工作站都根據DICOM的標準，來製造支援DICOM機器。DICOM已經廣泛地被醫院所採用，並且在牙醫和一般的診所中獲得小規模的運用。
+DICOM可以整合不同廠商的醫療影像儀器、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[工作站](../Page/工作站.md "wikilink")、列印機和網路設備，使它們都能整合在[PACS系統中](https://zh.wikipedia.org/wiki/PACS "wikilink")。許多不同廠商的儀器、伺服器、工作站都根據DICOM的標準，來製造支援DICOM機器。DICOM已經廣泛地被醫院所採用，並且在牙醫和一般的診所中獲得小規模的運用。
 
 ## DICOM的資料格式
 
@@ -48,74 +48,114 @@ DICOM限制DICOM上的支援設備名稱有8字元的名字（很多人都錯誤
 
 DICOM支持的設備有下列項目：
 
-  - AS = [Angioscopy](../Page/Angioscopy.md "wikilink") 血管鏡
+  - AS =
+    [Angioscopy](https://zh.wikipedia.org/wiki/Angioscopy "wikilink")
+    血管鏡
   - BI = [Biomagnetic
-    Imaging](../Page/Biomagnetic_Imaging.md "wikilink") 生物磁場成像
-  - CD = [Color Flow Doppler](../Page/Color_Flow_Doppler.md "wikilink")
+    Imaging](https://zh.wikipedia.org/wiki/Biomagnetic_Imaging "wikilink")
+    生物磁場成像
+  - CD = [Color Flow
+    Doppler](https://zh.wikipedia.org/wiki/Color_Flow_Doppler "wikilink")
     彩色血流多普勒
-  - CF = [Cinefluorography](../Page/Cinefluorography.md "wikilink") 熒光透視
-  - CP = [Colposcopy](../Page/Colposcopy.md "wikilink") 陰道鏡
+  - CF =
+    [Cinefluorography](https://zh.wikipedia.org/wiki/Cinefluorography "wikilink")
+    熒光透視
+  - CP =
+    [Colposcopy](https://zh.wikipedia.org/wiki/Colposcopy "wikilink")
+    陰道鏡
   - CR = [Computed
-    Radiography](../Page/Computed_Radiography.md "wikilink") 電腦X光攝影
-  - CS = [Cystoscopy](../Page/Cystoscopy.md "wikilink") 膀胱鏡
+    Radiography](https://zh.wikipedia.org/wiki/Computed_Radiography "wikilink")
+    電腦X光攝影
+  - CS =
+    [Cystoscopy](https://zh.wikipedia.org/wiki/Cystoscopy "wikilink")
+    膀胱鏡
   - CT = [Computed
-    Tomography](../Page/Computed_Tomography.md "wikilink") 電腦斷層攝影
-  - DD = [Duplex Doppler](../Page/Duplex_Doppler.md "wikilink") 雙工多普勒
+    Tomography](https://zh.wikipedia.org/wiki/Computed_Tomography "wikilink")
+    電腦斷層攝影
+  - DD = [Duplex
+    Doppler](https://zh.wikipedia.org/wiki/Duplex_Doppler "wikilink")
+    雙工多普勒
   - DF = [Digital
-    Fluoroscopy](../Page/Digital_Fluoroscopy.md "wikilink") 數位熒光透視
-  - DG = [Diaphanography](../Page/Diaphanography.md "wikilink") 透視攝影
-  - DM = [Digital Microscopy](../Page/Digital_Microscopy.md "wikilink")
+    Fluoroscopy](https://zh.wikipedia.org/wiki/Digital_Fluoroscopy "wikilink")
+    數位熒光透視
+  - DG =
+    [Diaphanography](https://zh.wikipedia.org/wiki/Diaphanography "wikilink")
+    透視攝影
+  - DM = [Digital
+    Microscopy](https://zh.wikipedia.org/wiki/Digital_Microscopy "wikilink")
     數字顯微鏡
   - DSA = [Digital Subtraction
-    Angiography](../Page/Digital_subtraction_angiography.md "wikilink")
+    Angiography](https://zh.wikipedia.org/wiki/Digital_subtraction_angiography "wikilink")
     數位減影心血管造影
   - DX = [Digital
-    Radiography](../Page/Digital_Radiography.md "wikilink") 數位X光攝影
-  - EC = [Echocardiography](../Page/Echocardiography.md "wikilink")
+    Radiography](https://zh.wikipedia.org/wiki/Digital_Radiography "wikilink")
+    數位X光攝影
+  - EC =
+    [Echocardiography](https://zh.wikipedia.org/wiki/Echocardiography "wikilink")
     超聲心動圖
   - ES = [Endoscopy](../Page/內視鏡.md "wikilink") 內視鏡
   - FA = [Fluorescein
-    Angiography](../Page/Fluorescein_angiography.md "wikilink") 透視血管攝影
-  - FS = [Fundoscopy](../Page/Fundoscopy.md "wikilink") 眼底檢查
-  - HC = [Hard Copy](../Page/Hard_Copy.md "wikilink") 硬拷貝
-  - LP = [Laparoscopy](../Page/Laparoscopy.md "wikilink") 腹腔鏡
-  - LS = [Laser Surface Scan](../Page/Laser_Surface_Scan.md "wikilink")
+    Angiography](https://zh.wikipedia.org/wiki/Fluorescein_angiography "wikilink")
+    透視血管攝影
+  - FS =
+    [Fundoscopy](https://zh.wikipedia.org/wiki/Fundoscopy "wikilink")
+    眼底檢查
+  - HC = [Hard Copy](https://zh.wikipedia.org/wiki/Hard_Copy "wikilink")
+    硬拷貝
+  - LP =
+    [Laparoscopy](https://zh.wikipedia.org/wiki/Laparoscopy "wikilink")
+    腹腔鏡
+  - LS = [Laser Surface
+    Scan](https://zh.wikipedia.org/wiki/Laser_Surface_Scan "wikilink")
     雷射體表掃描
   - MA = [Magnetic Resonance
-    Angiography](../Page/Magnetic_Resonance_Angiography.md "wikilink")
+    Angiography](https://zh.wikipedia.org/wiki/Magnetic_Resonance_Angiography "wikilink")
     磁共振血管攝影
   - MR = [Magnetic Resonance](../Page/核磁共振成像.md "wikilink") 核磁共振成像
   - MS = [Magnetic Resonance
-    Spectroscopy](../Page/Magnetic_Resonance_Spectroscopy.md "wikilink")
+    Spectroscopy](https://zh.wikipedia.org/wiki/Magnetic_Resonance_Spectroscopy "wikilink")
     核磁共振波譜
-  - NM = [Nuclear Medicine](../Page/Nuclear_Medicine.md "wikilink")
-    [核子醫學](../Page/核子醫學.md "wikilink")（简体：核医学）
+  - NM = [Nuclear
+    Medicine](https://zh.wikipedia.org/wiki/Nuclear_Medicine "wikilink")
+    [核子醫學](https://zh.wikipedia.org/wiki/核子醫學 "wikilink")（简体：核医学）
   - OT = Other 其他
   - PT = [Positron Emission
-    Tomography](../Page/Positron_Emission_Tomography.md "wikilink")
-    (PET) [正電子發射斷層顯像](../Page/正電子發射斷層顯像.md "wikilink")
-  - RF = [Radio Fluoroscopy](../Page/Fluoroscopy.md "wikilink") 透視攝影
+    Tomography](https://zh.wikipedia.org/wiki/Positron_Emission_Tomography "wikilink")
+    (PET)
+    [正電子發射斷層顯像](https://zh.wikipedia.org/wiki/正電子發射斷層顯像 "wikilink")
+  - RF = [Radio
+    Fluoroscopy](https://zh.wikipedia.org/wiki/Fluoroscopy "wikilink")
+    透視攝影
   - RG = Radiographic Imaging (conventional film screen) X光成像（傳統底片）
-  - RTDOSE = [Radiotherapy](../Page/Radiotherapy.md "wikilink") Dose
-    放射治療劑量
+  - RTDOSE =
+    [Radiotherapy](https://zh.wikipedia.org/wiki/Radiotherapy "wikilink")
+    Dose 放射治療劑量
   - RTIMAGE = Radiotherapy Image 放射治療影像
   - RTPLAN = Radiotherapy Plan 放射治療計劃
   - RTSTRUCT = Radiotherapy Structure Set 放射治療結構裝置
   - ST = Single-photon Emission Computed Tomography
     單光子放射斷層攝影（单光子发射计算机断层摄影）
-  - TG = [Thermography](../Page/Thermography.md "wikilink") 熱影像技術
-  - US = [Ultrasound](../Page/Ultrasound.md "wikilink") 超聲波成像
+  - TG =
+    [Thermography](https://zh.wikipedia.org/wiki/Thermography "wikilink")
+    熱影像技術
+  - US =
+    [Ultrasound](https://zh.wikipedia.org/wiki/Ultrasound "wikilink")
+    超聲波成像
   - VF = Videofluorography 視頻透視
-  - XA = [X-Ray Angiography](../Page/Angiogram.md "wikilink") X光血管攝影
+  - XA = [X-Ray
+    Angiography](https://zh.wikipedia.org/wiki/Angiogram "wikilink")
+    X光血管攝影
   - XC = eXternal Camera 外置鏡頭
-  - ECG = [Electrocardiograms](../Page/心電圖.md "wikilink") 心電圖
+  - ECG =
+    [Electrocardiograms](https://zh.wikipedia.org/wiki/心電圖 "wikilink")
+    心電圖
 
 ## 参见
 
-  - [LOINC](../Page/LOINC.md "wikilink")
-  - [HL7](../Page/HL7.md "wikilink")
-  - [IHE](../Page/IHE.md "wikilink")
-  - [HIPAA](../Page/HIPAA.md "wikilink")
+  - [LOINC](https://zh.wikipedia.org/wiki/LOINC "wikilink")
+  - [HL7](https://zh.wikipedia.org/wiki/HL7 "wikilink")
+  - [IHE](https://zh.wikipedia.org/wiki/IHE "wikilink")
+  - [HIPAA](https://zh.wikipedia.org/wiki/HIPAA "wikilink")
 
 [Category:医学成像](https://zh.wikipedia.org/wiki/Category:医学成像 "wikilink")
 [Category:医学信息学](https://zh.wikipedia.org/wiki/Category:医学信息学 "wikilink")

@@ -1,9 +1,9 @@
 [linuxfab.png](https://zh.wikipedia.org/wiki/File:linuxfab.png "fig:linuxfab.png")
 
-**LinuxFab**是由當時仍在[交大資科所博士班黃經緯](../Page/國立交通大學.md "wikilink")（Rolland）在1998年8月4日架設的[網站](../Page/網站.md "wikilink")。初期架設在[台灣學術網路內](../Page/TANet.md "wikilink")，提供[台灣的開放社群在網路上分享與討論的空間](../Page/台灣.md "wikilink")。
+**LinuxFab**是由當時仍在[交大資科所博士班黃經緯](../Page/國立交通大學.md "wikilink")（Rolland）在1998年8月4日架設的[網站](../Page/網站.md "wikilink")。初期架設在[台灣學術網路內](../Page/TANet.md "wikilink")，提供[台灣的開放社群在網路上分享與討論的空間](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 之後以該站為基礎，加入了外來資金與人才，成立開放原碼股份有限公司（OpenFab
-Inc.），設址於[台北市](../Page/台北市.md "wikilink")[中華路](../Page/中華路_\(台北\).md "wikilink")。總經理為鄭國亮，黃經緯任技術長，在[經濟部登記公司統一編號為](../Page/中華民國經濟部.md "wikilink")70563214，公司標語為「Open
+Inc.），設址於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中華路](https://zh.wikipedia.org/wiki/中華路_\(台北\) "wikilink")。總經理為鄭國亮，黃經緯任技術長，在[經濟部登記公司統一編號為](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")70563214，公司標語為「Open
 source for the open mind」。此時正式將網站遷出教育學術網路，為商業化的網站。
 
 該站甫商業化時，台灣開放社群中有部份意見要該站的全部網站程式開放，造成 Rolland 與相關工程師趕工，將它整理出來，並成套件化，就是
@@ -23,9 +23,11 @@ Sourcefab.cx 的最重要軟體之一。
 ## 外部連結
 
   - [LinuxFab.cx](http://web.archive.org/web/*/http://www.linuxfab.cx/)，[Internet
-    Archive](../Page/Internet_Archive.md "wikilink") 收錄的LinuxFab網站。
+    Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")
+    收錄的LinuxFab網站。
   - [LinuxFab.com](http://web.archive.org/web/*/http://www.linuxfab.com/)，[Internet
-    Archive](../Page/Internet_Archive.md "wikilink") 收錄的LinuxFab.com網站。
+    Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")
+    收錄的LinuxFab.com網站。
 
 以下網站均已消失，點選後非原 LinuxFab 之資訊
 

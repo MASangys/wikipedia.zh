@@ -1,8 +1,9 @@
-**Rosetta**是[苹果电脑公司发布的在](../Page/苹果电脑公司.md "wikilink")[Mac OS
-X上的一个二进制编译器](../Page/Mac_OS_X.md "wikilink")[软件](../Page/软件.md "wikilink")。它可以让在[Power
-PC平台上开发的软件在](../Page/Power_PC.md "wikilink")[英特尔平台的](../Page/英特尔.md "wikilink")[麦金塔电脑上顺利运行](../Page/麦金塔电脑.md "wikilink")。它基于Transitive公司的QuickTransit技术，也是麦金塔电脑从PowerPC向英特尔转换的一个重要部分，确保原先的[Mac
+**Rosetta**是[苹果电脑公司发布的在](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[Mac
 OS
-X程序能在新的英特尔平台上运行](../Page/Mac_OS_X.md "wikilink")。虽然和英特尔原生编译的软件比较起来会有速度上的差别，但是对大多数对[CPU资源使用不是很多的软件来说](../Page/CPU.md "wikilink")，速度上的差别是非常小的。
+X上的一个二进制编译器](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[软件](../Page/软件.md "wikilink")。它可以让在[Power
+PC平台上开发的软件在](https://zh.wikipedia.org/wiki/Power_PC "wikilink")[英特尔平台的](../Page/英特尔.md "wikilink")[麦金塔电脑上顺利运行](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")。它基于Transitive公司的QuickTransit技术，也是麦金塔电脑从PowerPC向英特尔转换的一个重要部分，确保原先的[Mac
+OS
+X程序能在新的英特尔平台上运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。虽然和英特尔原生编译的软件比较起来会有速度上的差别，但是对大多数对[CPU资源使用不是很多的软件来说](https://zh.wikipedia.org/wiki/CPU "wikilink")，速度上的差别是非常小的。
 
 这个软件的名字起源于[羅塞塔石碑](../Page/羅塞塔石碑.md "wikilink")（Rosetta
 Stone）。在考古学上，它的发现成为破译古埃及象形文字的关键。苹果利用这名字来形容编译器的重要性。
@@ -16,11 +17,11 @@ OS X Lion](../Page/Mac_OS_X_Lion.md "wikilink")，則不再支援Rosetta。\[1\]
 
 ## 性能
 
-Rosetta预装在[英特尔芯片](../Page/英特尔.md "wikilink")[麦金塔电脑的操作系统上](../Page/麦金塔电脑.md "wikilink")。它可以将[G3](../Page/PowerPC_G3.md "wikilink")，[G4和](../Page/PowerPC_G4.md "wikilink")[AltiVec指令进行翻译](../Page/AltiVec.md "wikilink")，但是不编译需要[G5的软件](../Page/PowerPC_G5.md "wikilink")——这些应用程序需要开发者自行修改。尽管如此，目前几乎没有软件必须需要G5处理器这样的高配置，所以对于绝大多数的应用程序来说，Rosetta都可以工作。
+Rosetta预装在[英特尔芯片](../Page/英特尔.md "wikilink")[麦金塔电脑的操作系统上](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")。它可以将[G3](https://zh.wikipedia.org/wiki/PowerPC_G3 "wikilink")，[G4和](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")[AltiVec指令进行翻译](https://zh.wikipedia.org/wiki/AltiVec "wikilink")，但是不编译需要[G5的软件](https://zh.wikipedia.org/wiki/PowerPC_G5 "wikilink")——这些应用程序需要开发者自行修改。尽管如此，目前几乎没有软件必须需要G5处理器这样的高配置，所以对于绝大多数的应用程序来说，Rosetta都可以工作。
 [Intel_Mac_with_PowerPC_application.png](https://zh.wikipedia.org/wiki/File:Intel_Mac_with_PowerPC_application.png "fig:Intel_Mac_with_PowerPC_application.png")正在執行PowerPC應用程式[Internet
 Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")\]\]
 
-[苹果公司声称](../Page/苹果公司.md "wikilink")，那些重视用户互动而较少计算量的应用程序（比如[Word等文字处理器](../Page/Word.md "wikilink")）是比较适合通过Rosetta编译的；而需要大计算量的程序，比如[Photoshop等就并非如此了](../Page/Photoshop.md "wikilink")。原先苹果公司的"Pro"系列媒体产品应用软件的PowerPC版本（Final
+[苹果公司声称](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，那些重视用户互动而较少计算量的应用程序（比如[Word等文字处理器](https://zh.wikipedia.org/wiki/Word "wikilink")）是比较适合通过Rosetta编译的；而需要大计算量的程序，比如[Photoshop等就并非如此了](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。原先苹果公司的"Pro"系列媒体产品应用软件的PowerPC版本（Final
 Cut Pro/Express, Motion, Soundtrack Pro, DVD Studio Pro, Aperture，和Logic
 Pro/Express）都不支持Rosetta，而这些软件需要另外的[通用二进制版本才能运行在英特尔麦金塔电脑上](../Page/通用二进制.md "wikilink")。
 
@@ -30,11 +31,11 @@ Pro/Express）都不支持Rosetta，而这些软件需要另外的[通用二进�
   - 需要将设置插入系统参数设置的代码
   - 必须基于G5处理器的应用程序
   - 屏幕保护程序
-  - [Kernel拓展程序](../Page/Kernel.md "wikilink")，以及其他基于此的应用程序
-  - 捆绑[Java平台的应用程序](../Page/Java.md "wikilink")，和不能被编译的[JNI](../Page/JNI.md "wikilink")（Java本地接口，Java
+  - [Kernel拓展程序](https://zh.wikipedia.org/wiki/Kernel "wikilink")，以及其他基于此的应用程序
+  - 捆绑[Java平台的应用程序](../Page/Java.md "wikilink")，和不能被编译的[JNI](https://zh.wikipedia.org/wiki/JNI "wikilink")（Java本地接口，Java
     Native Interface）库的应用程序
   - Rosetta编译后应用程序中的Java插件。这意味着，仅PowerPC的网页浏览器（如微软的Internet Explorer for
-    Mac）将无法读取Java插件。用户需要支持英特尔版本的浏览器，如[Safari](../Page/Safari.md "wikilink")，[Camino](../Page/Camino.md "wikilink")，[Firefox或者新版本的](../Page/Mozilla_Firefox.md "wikilink")[Opera等等](../Page/Opera.md "wikilink")）。
+    Mac）将无法读取Java插件。用户需要支持英特尔版本的浏览器，如[Safari](../Page/Safari.md "wikilink")，[Camino](../Page/Camino.md "wikilink")，[Firefox或者新版本的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Opera等等](https://zh.wikipedia.org/wiki/Opera "wikilink")）。
   - 其他读取运行时间的二进制库。
 
 ## 參考

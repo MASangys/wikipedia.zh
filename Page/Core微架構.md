@@ -1,16 +1,16 @@
 **Core微架构**（**Core
-Microarchitecture**）是[Intel的](../Page/Intel.md "wikilink")[處理器架構](../Page/處理器架構.md "wikilink")，原稱「Intel's
+Microarchitecture**）是[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[處理器架構](https://zh.wikipedia.org/wiki/處理器架構 "wikilink")，原稱「Intel's
 Next Generation
-Microarchitecture」。於2006年宣佈，並取代舊有的[NetBurst及](../Page/NetBurst.md "wikilink")[Pentium
-M架構](../Page/Pentium_M.md "wikilink")。本架構的特色為低功耗、多核心、[虛擬化技術](../Page/虛擬化技術.md "wikilink")（部分型號）、[Intel
-64](../Page/Intel_64.md "wikilink")（又稱EM64T等）及[SSSE3](../Page/SSSE3.md "wikilink")。
+Microarchitecture」。於2006年宣佈，並取代舊有的[NetBurst及](https://zh.wikipedia.org/wiki/NetBurst "wikilink")[Pentium
+M架構](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。本架構的特色為低功耗、多核心、[虛擬化技術](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")（部分型號）、[Intel
+64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")（又稱EM64T等）及[SSSE3](../Page/SSSE3.md "wikilink")。
 
 首先推出的處理為用本架構的Merom、Conroe及Woodcrest核心處理器。Merom為流動核心、Conroe為桌面核心、而Woodcrest為伺服器用核心。
 
 ## 技術
 
 Core微架構是全新設計的处理器内部架構，但其有類似[Pentium
-M的設計](../Page/Pentium_M.md "wikilink")，有14级[流水線](../Page/流水線.md "wikilink")（Pipeline），相比[NetBurst架構](../Page/NetBurst.md "wikilink")[Prescott的](../Page/奔腾4#Prescott.md "wikilink")31级，足足少了超過一半。另外執行核心亦由[P6](../Page/Intel_P6.md "wikilink")、P6-M、及Netburst的一次可處理3個指令，增加至4個。本架構亦是雙核心設計，兩個核心的L1快取互相連接，共用L2快取。使用以上設計以達到最高效能功耗比（Performance
+M的設計](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")，有14级[流水線](https://zh.wikipedia.org/wiki/流水線 "wikilink")（Pipeline），相比[NetBurst架構](https://zh.wikipedia.org/wiki/NetBurst "wikilink")[Prescott的](https://zh.wikipedia.org/wiki/奔腾4#Prescott "wikilink")31级，足足少了超過一半。另外執行核心亦由[P6](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")、P6-M、及Netburst的一次可處理3個指令，增加至4個。本架構亦是雙核心設計，兩個核心的L1快取互相連接，共用L2快取。使用以上設計以達到最高效能功耗比（Performance
 per watt）。
 
 其中一個新設計為[宏融合](../Page/宏融合.md "wikilink")，將兩個x86指令合併成為一個，以達到優化。另外，本架構亦將128位元的SSE指令的思考時間由兩個週期縮短為一個週期，及全新的省電設計。所有核心會以最低速度運行，當有需要時則自動增速，以減低晶片的發熱量，及其耗電量。本架構的[前端总线](../Page/前端总线.md "wikilink")（FSB）為Woodcrest核心的1333MHz（MT/s），Merom核心的667MHz（MT/s），及Conroe核心的1066MHz（MT/s，E6X00/Q6X00/QX6X00/X6X00）或1333MHz（MT/s，E6X50/E6X40/QX6X50）。不過外頻是本架構的弱點，因為其仍使用Pentium
@@ -24,7 +24,7 @@ per watt）。
 ### 行動平台
 
   - *Merom*，第一枚第八代行動處理器核心，65nm，Dual Core，2–4MB
-    L2[快取](../Page/快取.md "wikilink")（發佈：2006年8月）
+    L2[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")（發佈：2006年8月）
 
 :\* *Penryn*，雙核心，45nm，3–6MB L2快取
 
@@ -66,7 +66,7 @@ per watt）。
 
 ## 另見
 
-  - [英特爾微處理器列表](../Page/英特爾微處理器列表.md "wikilink")
+  - [英特爾微處理器列表](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")
 
 ## 參照
 

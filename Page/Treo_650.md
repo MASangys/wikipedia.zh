@@ -1,36 +1,38 @@
 [Treo.jpg](https://zh.wikipedia.org/wiki/File:Treo.jpg "fig:Treo.jpg")
 **Treo 650**是[Palm公司推出的一款採用](../Page/Palm.md "wikilink")[Palm
-OS的](../Page/Palm_OS.md "wikilink")[智能手機](../Page/智能手機.md "wikilink")。擁有[移动电话及](../Page/移动电话.md "wikilink")[PDA功能](../Page/PDA.md "wikilink")，曾在国际上獲得獎項。
+OS的](../Page/Palm_OS.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。擁有[移动电话及](../Page/移动电话.md "wikilink")[PDA功能](https://zh.wikipedia.org/wiki/PDA "wikilink")，曾在国际上獲得獎項。
 
 ## 基本情况
 
 Treo 650预装的系统为Palm OS 5.4.8。用户也可以自行定制ROM文件并更换预装的ROM文件\[1\]。
 
-Treo 650使用了[QWERTY键盘](../Page/QWERTY.md "wikilink")，并配以PALM上常用的五向导航键。
+Treo
+650使用了[QWERTY键盘](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，并配以PALM上常用的五向导航键。
 
-Treo 650使用了[TFT](../Page/TFT.md "wikilink") 触控式屏幕（320 x
+Treo 650使用了[TFT](https://zh.wikipedia.org/wiki/TFT "wikilink") 触控式屏幕（320
+x
 320分辨率，16位色彩）。屏幕的生产商有[索尼和](../Page/索尼.md "wikilink")[三星等](../Page/三星電子.md "wikilink")\[2\]。
 
 Treo
-650的机身[内存仅为](../Page/内存.md "wikilink")32MB，用户可用内存也只有21MB。这也使得后来推出的[Treo
-680虽然同样使用了Intel](../Page/Treo_680.md "wikilink") XScale主频为312
-MHz的处理器，但在内存增加后性能却得到大大提升\[3\]。
+650的机身[内存仅为](https://zh.wikipedia.org/wiki/内存 "wikilink")32MB，用户可用内存也只有21MB。这也使得后来推出的[Treo
+680虽然同样使用了Intel](https://zh.wikipedia.org/wiki/Treo_680 "wikilink")
+XScale主频为312 MHz的处理器，但在内存增加后性能却得到大大提升\[3\]。
 
 Treo 650的尺寸（11.3 x 5.9 x 2.3 cm）和重量（178克）相对于后来推出的Treo 680及其它同时期的手机都相对较大。
 
 在扩展性方面，Treo 650支持
-[SD](../Page/SD.md "wikilink")，[SDIO及](../Page/SDIO.md "wikilink")
-[MMC](../Page/MMC.md "wikilink")。另外，Treo
+[SD](https://zh.wikipedia.org/wiki/SD "wikilink")，[SDIO及](https://zh.wikipedia.org/wiki/SDIO "wikilink")
+[MMC](https://zh.wikipedia.org/wiki/MMC "wikilink")。另外，Treo
 650也支持[SDHC卡](../Page/SDHC.md "wikilink")。但在使用时可能会出现一些问题，如不能拍摄视频\[4\]。
 
 在多媒体性能方面，Treo 650使用2.5 mm 耳机插孔。Treo 650自带了30万像素的摄像头，并搭载了自拍镜。
 
-数据传输方面，Treo配备了[红外和](../Page/红外.md "wikilink")[蓝牙传输的功能](../Page/蓝牙.md "wikilink")，也支持
+数据传输方面，Treo配备了[红外和](https://zh.wikipedia.org/wiki/红外 "wikilink")[蓝牙传输的功能](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")，也支持
 GPRS 网络连接，但是目前没有证据表示 Treo 650 支持 EDGE 网络。
 
 Palm公司并没有提供Treo
 650在[Linux下的同步方案](../Page/Linux.md "wikilink")，但通过一系列设置后，Treo
-650也可以通过[Jpilot](../Page/Jpilot.md "wikilink")、[Gnome-pilot](../Page/Gnome-pilot.md "wikilink")、[KPilot等软件进行同步](../Page/KPilot.md "wikilink")\[5\]\[6\]。
+650也可以通过[Jpilot](https://zh.wikipedia.org/wiki/Jpilot "wikilink")、[Gnome-pilot](https://zh.wikipedia.org/wiki/Gnome-pilot "wikilink")、[KPilot等软件进行同步](https://zh.wikipedia.org/wiki/KPilot "wikilink")\[5\]\[6\]。
 
 ## 特色功能
 
@@ -42,7 +44,7 @@ Treo
 650的[SIM卡插槽放置在手机顶端](../Page/SIM卡.md "wikilink")，可以在不拆电池的情况下进行插拔\[7\]。
 
 Treo
-650另外一个特色功能就是采用了聊天模式的短信管理，这使得用户可以像使用[即时通讯软件一样进行短信通讯](../Page/即时通讯软件.md "wikilink")。
+650另外一个特色功能就是采用了聊天模式的短信管理，这使得用户可以像使用[即时通讯软件一样进行短信通讯](https://zh.wikipedia.org/wiki/即时通讯软件 "wikilink")。
 
 ## 缺陷
 
@@ -55,7 +57,7 @@ Treo
 
 [Treo_prison_break.jpg](https://zh.wikipedia.org/wiki/File:Treo_prison_break.jpg "fig:Treo_prison_break.jpg")
 在不少影视作品中也可以找到Treo
-650的身影\[10\]，如《[越狱](../Page/越狱.md "wikilink")》第三季第一集末尾，林肯所使用的手机就是Treo
+650的身影\[10\]，如《[越狱](https://zh.wikipedia.org/wiki/越狱 "wikilink")》第三季第一集末尾，林肯所使用的手机就是Treo
 650\[11\]。
 
 ## 参考文献

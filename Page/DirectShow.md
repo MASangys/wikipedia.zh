@@ -1,6 +1,6 @@
-**DirectShow**（有时缩写如**DS**或**DShow**），开发代号*Quartz*，是一种由[微软公司开发的能够让软件开发者对媒体文件执行各种不同处理的](../Page/微软公司.md "wikilink")[应用程序设计接口](../Page/应用程序设计接口.md "wikilink")。它是微软公司对早先[Windows视频科技的一次更新](../Page/Windows.md "wikilink")。基于微软公司Windows组件对象模型（[COM](../Page/COM.md "wikilink")）框架，DirectShow为大部份微软公司程序设计语言提供了一个媒体的普遍接口，而且是一个可扩展的，能在使用者或开发者的命令下播放或记录媒体文件的，以Filter为基础的框架。DirectShow开发工具及凭证被加入到微软公司[SDK平台的一部份](../Page/SDK.md "wikilink")。Windows
+**DirectShow**（有时缩写如**DS**或**DShow**），开发代号*Quartz*，是一种由[微软公司开发的能够让软件开发者对媒体文件执行各种不同处理的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[应用程序设计接口](https://zh.wikipedia.org/wiki/应用程序设计接口 "wikilink")。它是微软公司对早先[Windows视频科技的一次更新](https://zh.wikipedia.org/wiki/Windows "wikilink")。基于微软公司Windows组件对象模型（[COM](https://zh.wikipedia.org/wiki/COM "wikilink")）框架，DirectShow为大部份微软公司程序设计语言提供了一个媒体的普遍接口，而且是一个可扩展的，能在使用者或开发者的命令下播放或记录媒体文件的，以Filter为基础的框架。DirectShow开发工具及凭证被加入到微软公司[SDK平台的一部份](https://zh.wikipedia.org/wiki/SDK "wikilink")。Windows
 Media
-Player这样的应用程序运用DirectShow或者它的各种衍生来播放来自文件或是互联网上的内容。DirectShow's的最大的竞争对手是[苹果计算机的](../Page/苹果计算机.md "wikilink")[QuickTime框架](../Page/QuickTime.md "wikilink")。
+Player这样的应用程序运用DirectShow或者它的各种衍生来播放来自文件或是互联网上的内容。DirectShow's的最大的竞争对手是[苹果计算机的](https://zh.wikipedia.org/wiki/苹果计算机 "wikilink")[QuickTime框架](../Page/QuickTime.md "wikilink")。
 
 ## 历史
 
@@ -16,7 +16,7 @@ SDK主要组成部分而且如同DirectInput等其它DirectX
 APIs一样被给予了它自己的位置。甚至之后，DirectShow被主要用来接收来自像一个手提摄像机这样的电��输入装置的数据，而且它从文件中显示数据的能力被广泛用在Windows
 Media Player上面。 从2005年四月起，DirectShow被从DirectX
 SDK移除，必须单独下载Extra包才能得以支持，之后DirectShow的文档和示例被转移到[Windows
-SDK](../Page/Windows_SDK.md "wikilink")，DirectShow也正式成为Windows的一个组件。然而，在编译某些DirectShow的示例时，DirectX
+SDK](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")，DirectShow也正式成为Windows的一个组件。然而，在编译某些DirectShow的示例时，DirectX
 SDK仍然是必需的。
 
 ## 设计模型
@@ -25,9 +25,8 @@ DirectShow运行的方式通常是一个开发者创建一个Filter Graph，把�
 Graph，然后播放文件，或者播放来自互联网或照相机的数据。当播放进程运行时，Filter
 Graph在Windows注册中寻找注册了的Filters并且为这些Filter创建本地提供的Graph。在这之后，它将所有的Filter连接在一起，并且在开发者的请求下，播放／中止创造的Graph。
 
-为一个[mp3文件创建的Filter](../Page/mp3.md "wikilink")
-graph，由DirectShow自带的示例GraphEdit来播放。在这幅图中大的方块代表Filter
-graph，小的方块代表端口。
+为一个[mp3文件创建的Filter](https://zh.wikipedia.org/wiki/mp3 "wikilink")
+graph，由DirectShow自带的示例GraphEdit来播放。在这幅图中大的方块代表Filter graph，小的方块代表端口。
 每个Filter表示数据处理过程的一个阶段，举例来说从一个文件或照相机读取数据，解码，转换以及绘制。filter有若干的能被连接到其他filter上的连接点的Interface。Interface可能是输出或输入。根据filter，数据被采用“拉模式”从输出端口输出，或者以“推模式”被推到另一个输入端口，并借此来传输数据。
 大多数filters的创建使用了一组DirectShow SDK提供的C++类，叫做DirectShow
 BaseClass。这些为filters解决了许多创建，注册和连接的问题。如果要让filter
@@ -59,13 +58,13 @@ Classes）”的一组类别来处理大多数的工作。基本类的代码大�
 library类大小的一半。所以即使有了基本类，DirectShow的COM物件仍然是相當的多，仍然會讓開發者在開發時倍感辛苦。DirectShow的API有时违反传统的COM规则，比如在方法中参数的用法等。因此，开发者也时常使用比DirectShow更高层次的API，如Windows
 Media Player SDK，它提供了较少COM介面的ActiveX控制。
 
-DirectShow也因為僅支援非常有限的[数位版权管理](../Page/数位版权管理.md "wikilink")（DRM）功能而受到批评。相對的，Windows
+DirectShow也因為僅支援非常有限的[数位版权管理](https://zh.wikipedia.org/wiki/数位版权管理 "wikilink")（DRM）功能而受到批评。相對的，Windows
 Media Player SDK支持較多的DRM功能。
 
 ## 参看
 
   - [DirectX](../Page/DirectX.md "wikilink")
-  - [GraphEdit](../Page/GraphEdit.md "wikilink")
+  - [GraphEdit](https://zh.wikipedia.org/wiki/GraphEdit "wikilink")
   - [Video for Windows](../Page/Video_for_Windows.md "wikilink")
 
 ## 外部链接
@@ -78,8 +77,9 @@ Media Player SDK支持較多的DRM功能。
     - 'DirectShow Downloads from MSDN'
   - [Home page of Geraint Davies](http://www.gdcl.co.uk) - 'Creator of
     DirectShow and a DirectShow
-    [MVP](../Page/Microsoft_Most_Valuable_Professional.md "wikilink") –
-    Contains several [FAQs](../Page/FAQ.md "wikilink") and examples.'
+    [MVP](https://zh.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional "wikilink")
+    – Contains several
+    [FAQs](https://zh.wikipedia.org/wiki/FAQ "wikilink") and examples.'
   - [The March Hare](http://tmhare.mvps.org/) - 'Prolific DirectShow MVP
     – Contains several FAQs'
   - [Chris P's code](http://www.chrisnet.net/code.htm) - 'Another

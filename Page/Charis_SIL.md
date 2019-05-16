@@ -1,6 +1,6 @@
 **Charis
-SIL**是[SIL國際開發設計的一個電腦](../Page/SIL國際.md "wikilink")[有襯線](../Page/有襯線體.md "wikilink")（Serif）[字型](../Page/字型.md "wikilink")。這是根據[Bitstream
-Charter](http://www.myfonts.com/fonts/bitstream/charter/)（為雷射印表機設計的最早的字型之一）的模樣打造出來的，目的是要提供人們一個齊全的[Unicode字型](../Page/Unicode.md "wikilink")，使得包括世上所有的[羅馬字或是](../Page/羅馬字.md "wikilink")[西里爾字母](../Page/西里爾字母.md "wikilink")，能夠被注音或是書寫。
+SIL**是[SIL國際開發設計的一個電腦](../Page/SIL國際.md "wikilink")[有襯線](https://zh.wikipedia.org/wiki/有襯線體 "wikilink")（Serif）[字型](../Page/字型.md "wikilink")。這是根據[Bitstream
+Charter](http://www.myfonts.com/fonts/bitstream/charter/)（為雷射印表機設計的最早的字型之一）的模樣打造出來的，目的是要提供人們一個齊全的[Unicode字型](https://zh.wikipedia.org/wiki/Unicode "wikilink")，使得包括世上所有的[羅馬字或是](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")[西里爾字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")，能夠被注音或是書寫。
 
 和其他SIL字型相較，Charis SIL有數種特色。較早期的字型（比如說[Doulos
 SIL](../Page/Doulos_SIL.md "wikilink")）只有一款樣式，但Charis
@@ -8,7 +8,7 @@ SIL有四種：一般、粗體、斜體、粗斜體。Charis
 SIL也是SIL推出的第一個「正式完成」的字型。其他字型主要是提供給人再加工用的（雖然也是可以直接用）。
 
 Charis SIL和Doulos
-SIL一樣是[自由軟體](../Page/自由軟體.md "wikilink")，並且有支援[Graphite](../Page/Graphite.md "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、和[AAT這些進階字型技術](../Page/AAT.md "wikilink")。
+SIL一樣是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，並且有支援[Graphite](../Page/Graphite.md "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、和[AAT這些進階字型技術](https://zh.wikipedia.org/wiki/AAT "wikilink")。
 
 ## 外部連結
 

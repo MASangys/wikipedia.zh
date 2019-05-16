@@ -1,6 +1,6 @@
 [Breda_stadion.jpg](https://zh.wikipedia.org/wiki/File:Breda_stadion.jpg "fig:Breda_stadion.jpg")
 **NAC比達**（**NAC
-Breda**），一般稱為**NAC**或**比達**。是一間位於[荷蘭](../Page/荷蘭.md "wikilink")[布雷達的足球會](../Page/布雷達.md "wikilink")，成立於1912年，目前在[荷甲聯賽作賽](../Page/荷甲.md "wikilink")。主場為[弗吉菲爾姆球場](../Page/弗吉菲爾姆球場.md "wikilink")（Rat
+Breda**），一般稱為**NAC**或**比達**。是一間位於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[布雷達的足球會](https://zh.wikipedia.org/wiki/布雷達 "wikilink")，成立於1912年，目前在[荷甲聯賽作賽](https://zh.wikipedia.org/wiki/荷甲 "wikilink")。主場為[弗吉菲爾姆球場](https://zh.wikipedia.org/wiki/弗吉菲爾姆球場 "wikilink")（Rat
 Verlegh Stadion），可容納19,000人。
 
 ## 歷史
@@ -10,22 +10,22 @@ Verlegh Stadion），可容納19,000人。
 
 在1921年，NAC奪得聯賽冠軍，而在1973年，他們奪得[荷蘭盃](../Page/荷蘭盃.md "wikilink")。
 
-在1996年，NAC的主場由先前位於市中心的''，搬至市中心外圍的[弗吉菲爾姆球場](../Page/弗吉菲爾姆球場.md "wikilink")，這個全新的球場擁有16,400個座位，先前稱為富士菲林球場（）。2004/05球季的平均入場人數為
+在1996年，NAC的主場由先前位於市中心的''，搬至市中心外圍的[弗吉菲爾姆球場](https://zh.wikipedia.org/wiki/弗吉菲爾姆球場 "wikilink")，這個全新的球場擁有16,400個座位，先前稱為富士菲林球場（）。2004/05球季的平均入場人數為
 12,500人。
 
 2003年的早期，球會把名稱由NAC改為NAC布雷達。因為差劣的管理，NAC面臨財政危機，布雷達市買了NAC的弗吉菲爾姆球場，為NAC注入資金（NAC現在是向布雷達市借用球場）。為了感淚布雷達市的善意，球會在名字後面加上布雷達（'Breda'）。
 
-2003年，NAC布雷達獲得[歐洲足協杯的參賽資格](../Page/歐洲足協杯.md "wikilink")（縱使他們面對財政危機）。在第一圈，他們面對[英超聯球會](../Page/英超聯.md "wikilink")[紐卡素](../Page/紐卡素足球會.md "wikilink")，是球會近十年來最矚目的事。
+2003年，NAC布雷達獲得[歐洲足協杯的參賽資格](https://zh.wikipedia.org/wiki/歐洲足協杯 "wikilink")（縱使他們面對財政危機）。在第一圈，他們面對[英超聯球會](https://zh.wikipedia.org/wiki/英超聯 "wikilink")[紐卡素](https://zh.wikipedia.org/wiki/紐卡素足球會 "wikilink")，是球會近十年來最矚目的事。
 
-2004年，球會在[荷蘭盃作客分別擊敗](../Page/荷蘭盃.md "wikilink")[燕豪芬和](../Page/燕豪芬.md "wikilink")[阿積士](../Page/阿積士.md "wikilink")，但在準決賽作客輸給[川迪](../Page/川迪.md "wikilink")。不過有這樣的成績，對球會來說已經是相當不錯了。
+2004年，球會在[荷蘭盃作客分別擊敗](../Page/荷蘭盃.md "wikilink")[燕豪芬和](https://zh.wikipedia.org/wiki/燕豪芬 "wikilink")[阿積士](https://zh.wikipedia.org/wiki/阿積士 "wikilink")，但在準決賽作客輸給[川迪](https://zh.wikipedia.org/wiki/川迪 "wikilink")。不過有這樣的成績，對球會來說已經是相當不錯了。
 
-[2014/15球季](../Page/2014年至2015年荷蘭足球甲級聯賽.md "wikilink")，球會護級失敗，降落乙組。
+[2014/15球季](https://zh.wikipedia.org/wiki/2014年至2015年荷蘭足球甲級聯賽 "wikilink")，球會護級失敗，降落乙組。
 
 2016/17球季，球會附加賽第3圈擊敗[NEC奈梅亨](../Page/NEC奈梅亨.md "wikilink")，獲得升上荷甲資格。
 
 ## 著名球員
 
-  - [-{zh-cn:范霍伊东克;zh-hk:雲賀當;zh-tw:范霍伊東克;}-](../Page/皮埃尔·范·霍伊东克.md "wikilink")
+  - [-{zh-cn:范霍伊东克;zh-hk:雲賀當;zh-tw:范霍伊東克;}-](https://zh.wikipedia.org/wiki/皮埃尔·范·霍伊东克 "wikilink")
 
 ## 參考資料／註腳
 

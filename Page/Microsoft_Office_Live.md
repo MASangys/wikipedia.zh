@@ -1,4 +1,4 @@
-****是一個為少於10名員工的小型業務而設基於[互聯網的軟件服務](../Page/互聯網.md "wikilink")，於2006年2月15日開始\[1\]，為起始的一部份。2006年9月該軟件進入階段，並且只對美國居民開放。2006年後期該服務計劃延伸到數個其他的語言與國家。\[2\]
+****是一個為少於10名員工的小型業務而設基於[互聯網的軟件服務](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，於2006年2月15日開始\[1\]，為起始的一部份。2006年9月該軟件進入階段，並且只對美國居民開放。2006年後期該服務計劃延伸到數個其他的語言與國家。\[2\]
 
 ## 特點
 
@@ -17,9 +17,9 @@ Office Live Basics
 
 ### Microsoft Office Live Essentials
 
-基於 [Windows SharePoint](../Page/Windows_SharePoint.md "wikilink")
-技術，Office Live Essentials 包括 Basics 版的功能並加入 Shared Sites
-與一些管理工具。\[8\]
+基於 [Windows
+SharePoint](https://zh.wikipedia.org/wiki/Windows_SharePoint "wikilink")
+技術，Office Live Essentials 包括 Basics 版的功能並加入 Shared Sites 與一些管理工具。\[8\]
 
 ### Microsoft Office Live Premium
 

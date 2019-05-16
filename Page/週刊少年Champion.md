@@ -1,4 +1,4 @@
-《**週刊少年Champion**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店發行的週刊](../Page/秋田書店.md "wikilink")[漫畫雜誌](../Page/漫画.md "wikilink")，以[少年漫畫為主](../Page/少年漫画.md "wikilink")。1969年7月15日創刊，創刊初期雜誌名為少年Champion(少年チャンピオン)。
+《**週刊少年Champion**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店發行的週刊](../Page/秋田書店.md "wikilink")[漫畫雜誌](https://zh.wikipedia.org/wiki/漫画 "wikilink")，以[少年漫畫為主](../Page/少年漫画.md "wikilink")。1969年7月15日創刊，創刊初期雜誌名為少年Champion(少年チャンピオン)。
 
 2005年度每期發行量大約50萬冊左右。
 
@@ -10,26 +10,26 @@
 
   - [怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")——[手塚治虫](../Page/手塚治虫.md "wikilink")
   - [甜心戰士](../Page/甜心戰士.md "wikilink")——[永井豪](../Page/永井豪.md "wikilink")
-  - [乳旋風](../Page/乳旋風.md "wikilink")（[巨乳學園](../Page/巨乳學園.md "wikilink")）——[松山清治](../Page/松山清治.md "wikilink")
-  - [烏爾](../Page/乌尔.md "wikilink")——[石川球太](../Page/石川球太.md "wikilink")
-  - [赤影](../Page/赤影.md "wikilink")——[横山光輝](../Page/横山光輝.md "wikilink")
-  - [大甲子園](../Page/大甲子園.md "wikilink")
-    ——[水島新司](../Page/水島新司.md "wikilink")
-  - [浦安鉄筋家族](../Page/浦安鉄筋家族.md "wikilink")——[浜岡賢次](../Page/浜岡賢次.md "wikilink")
-  - [元祖！浦安鉄筋家族](../Page/元祖！抓狂一族.md "wikilink")——[浜岡賢次](../Page/浜岡賢次.md "wikilink")
-  - [ORANGE](../Page/ORANGE.md "wikilink")——[能田達規](../Page/能田達規.md "wikilink")
-  - [日本沉沒](../Page/日本沉沒.md "wikilink")——[小松左京](../Page/小松左京.md "wikilink")・[齊藤隆夫](../Page/齊藤隆夫.md "wikilink")
-  - [刃牙](../Page/刃牙.md "wikilink")（Baki）——[板垣惠介](../Page/板垣惠介.md "wikilink")
+  - [乳旋風](https://zh.wikipedia.org/wiki/乳旋風 "wikilink")（[巨乳學園](../Page/巨乳學園.md "wikilink")）——[松山清治](https://zh.wikipedia.org/wiki/松山清治 "wikilink")
+  - [烏爾](../Page/乌尔.md "wikilink")——[石川球太](https://zh.wikipedia.org/wiki/石川球太 "wikilink")
+  - [赤影](https://zh.wikipedia.org/wiki/赤影 "wikilink")——[横山光輝](https://zh.wikipedia.org/wiki/横山光輝 "wikilink")
+  - [大甲子園](https://zh.wikipedia.org/wiki/大甲子園 "wikilink")
+    ——[水島新司](https://zh.wikipedia.org/wiki/水島新司 "wikilink")
+  - [浦安鉄筋家族](https://zh.wikipedia.org/wiki/浦安鉄筋家族 "wikilink")——[浜岡賢次](https://zh.wikipedia.org/wiki/浜岡賢次 "wikilink")
+  - [元祖！浦安鉄筋家族](../Page/元祖！抓狂一族.md "wikilink")——[浜岡賢次](https://zh.wikipedia.org/wiki/浜岡賢次 "wikilink")
+  - [ORANGE](https://zh.wikipedia.org/wiki/ORANGE "wikilink")——[能田達規](https://zh.wikipedia.org/wiki/能田達規 "wikilink")
+  - [日本沉沒](../Page/日本沉沒.md "wikilink")——[小松左京](../Page/小松左京.md "wikilink")・[齊藤隆夫](https://zh.wikipedia.org/wiki/齊藤隆夫 "wikilink")
+  - [刃牙](https://zh.wikipedia.org/wiki/刃牙 "wikilink")（Baki）——[板垣惠介](https://zh.wikipedia.org/wiki/板垣惠介 "wikilink")
   - [七小花](../Page/七小花.md "wikilink")——[今川泰宏](../Page/今川泰宏.md "wikilink")
   - [聖鬥士星矢 NEXT DIMENSION
-    冥王神話](../Page/聖鬥士星矢_NEXT_DIMENSION_冥王神話.md "wikilink")——[車田正美](../Page/車田正美.md "wikilink")（連載中）
+    冥王神話](../Page/聖鬥士星矢_NEXT_DIMENSION_冥王神話.md "wikilink")——[車田正美](https://zh.wikipedia.org/wiki/車田正美 "wikilink")（連載中）
   - [聖鬥士星矢 THE LOST CANVAS
-    冥王神話](../Page/聖鬥士星矢_THE_LOST_CANVAS_冥王神話.md "wikilink")——[車田正美](../Page/車田正美.md "wikilink")・[手代木史織](../Page/手代木史織.md "wikilink")（連載中）
-  - [巴比倫二世](../Page/巴比倫二世.md "wikilink")（Babel
-    II）——[横山光輝](../Page/横山光輝.md "wikilink")
-  - [舞-HiME](../Page/舞-HiME.md "wikilink")——[佐藤健悦](../Page/佐藤健悦.md "wikilink")
-  - [魔界学園](../Page/魔界学園.md "wikilink")——[菊地秀行](../Page/菊地秀行.md "wikilink")・[細馬信一](../Page/細馬信一.md "wikilink")
-  - [七華6/17](../Page/七華6/17.md "wikilink")（Nanaka
+    冥王神話](https://zh.wikipedia.org/wiki/聖鬥士星矢_THE_LOST_CANVAS_冥王神話 "wikilink")——[車田正美](https://zh.wikipedia.org/wiki/車田正美 "wikilink")・[手代木史織](https://zh.wikipedia.org/wiki/手代木史織 "wikilink")（連載中）
+  - [巴比倫二世](https://zh.wikipedia.org/wiki/巴比倫二世 "wikilink")（Babel
+    II）——[横山光輝](https://zh.wikipedia.org/wiki/横山光輝 "wikilink")
+  - [舞-HiME](../Page/舞-HiME.md "wikilink")——[佐藤健悦](https://zh.wikipedia.org/wiki/佐藤健悦 "wikilink")
+  - [魔界学園](https://zh.wikipedia.org/wiki/魔界学園 "wikilink")——[菊地秀行](../Page/菊地秀行.md "wikilink")・[細馬信一](https://zh.wikipedia.org/wiki/細馬信一 "wikilink")
+  - [七華6/17](https://zh.wikipedia.org/wiki/七華6/17 "wikilink")（Nanaka
     6/17）——[八神健](../Page/八神健.md "wikilink")
   - [超能奇兵](../Page/超能奇兵.md "wikilink")（s-CRY-ed）——[黑田洋介](../Page/黑田洋介.md "wikilink")・[戶田泰成](../Page/戶田泰成.md "wikilink")
 

@@ -2,7 +2,7 @@
 [Bentley_Continental_GT_Speed.JPG](https://zh.wikipedia.org/wiki/File:Bentley_Continental_GT_Speed.JPG "fig:Bentley_Continental_GT_Speed.JPG")
 [Bentley_Flying_Spur_Front.jpg](https://zh.wikipedia.org/wiki/File:Bentley_Flying_Spur_Front.jpg "fig:Bentley_Flying_Spur_Front.jpg")
 [Bentley_Continental_GTC_V8_(II)_–_Frontansicht_(1),_18._Juli_2012,_Düsseldorf.jpg](https://zh.wikipedia.org/wiki/File:Bentley_Continental_GTC_V8_\(II\)_–_Frontansicht_\(1\),_18._Juli_2012,_Düsseldorf.jpg "fig:Bentley_Continental_GTC_V8_(II)_–_Frontansicht_(1),_18._Juli_2012,_Düsseldorf.jpg")
-**Continental**系列車款是[賓利旗下最具賓利特色也是銷售最好的車款](../Page/賓利.md "wikilink")，這個系列原本都是雙門車，早在賓利仍是[勞斯萊斯旗下公司時](../Page/勞斯萊斯.md "wikilink")，Continental就被認為是一款沒有分享太多勞斯萊斯資源，獨具一格的車款。在賓利劃歸[大众汽车集團之後Continental車款一度消失](../Page/大众汽车集團.md "wikilink")，2003發表的Continental
+**Continental**系列車款是[賓利旗下最具賓利特色也是銷售最好的車款](../Page/賓利.md "wikilink")，這個系列原本都是雙門車，早在賓利仍是[勞斯萊斯旗下公司時](https://zh.wikipedia.org/wiki/勞斯萊斯 "wikilink")，Continental就被認為是一款沒有分享太多勞斯萊斯資源，獨具一格的車款。在賓利劃歸[大众汽车集團之後Continental車款一度消失](https://zh.wikipedia.org/wiki/大众汽车集團 "wikilink")，2003發表的Continental
 GT就是最新的Continental車款。Continental
 GT是大眾主導設計的，除了分享大眾資源之外，外觀也與先前賓利的方正有很大的差別，取而代之的是前所未有的流線。此車因為價格定位合理（是有史以來最便宜的賓利車）成為賓歷史上最暢銷車款。如今更有四門版（Continental
 GT Flying Spur）和敞篷板（Continental GTC）上市。
@@ -16,7 +16,7 @@ GT Flying Spur）和敞篷板（Continental GTC）上市。
       - 排氣量：6.0[公升](../Page/公升.md "wikilink")
   - 變速箱形式：Tiptronics手自排系統
       - 檔位：6速（不含倒車檔）
-  - 馬力輸出：560匹[英制馬力](../Page/英制.md "wikilink")（在引擎轉速每分鐘6100轉時）
+  - 馬力輸出：560匹[英制馬力](https://zh.wikipedia.org/wiki/英制 "wikilink")（在引擎轉速每分鐘6100轉時）
   - 扭力（距）輸出：650牛頓米（在引擎轉速每分鐘1600轉時）
   - 傳動系統：4Motion四輪傳動系統
   - 車重：2385公斤
@@ -26,15 +26,15 @@ GT Flying Spur）和敞篷板（Continental GTC）上市。
       - 0-400公尺：13.4秒（通過時速：106mph）
   - 極速：198mph(312kph)
 
-## 與[大眾輝騰共享資源](../Page/大眾輝騰.md "wikilink")
+## 與[大眾輝騰共享資源](https://zh.wikipedia.org/wiki/大眾輝騰 "wikilink")
 
 Continental
-GT超乎以往的造型還不足以證明[大众在其投注的心血](../Page/大众.md "wikilink")，福斯對Continental
-GT下的最大功夫就是在此車的內在。[大众為D原型車](../Page/大众.md "wikilink")（[輝騰概念車](../Page/輝騰.md "wikilink")）所開發的引擎和底盤都被搭載於Continental
-GT，這一具6.0升W12引擎在[奧迪A](../Page/奧迪.md "wikilink")8上也有使用（不過只有Continental
+GT超乎以往的造型還不足以證明[大众在其投注的心血](https://zh.wikipedia.org/wiki/大众 "wikilink")，福斯對Continental
+GT下的最大功夫就是在此車的內在。[大众為D原型車](https://zh.wikipedia.org/wiki/大众 "wikilink")（[輝騰概念車](https://zh.wikipedia.org/wiki/輝騰 "wikilink")）所開發的引擎和底盤都被搭載於Continental
+GT，這一具6.0升W12引擎在[奧迪A](https://zh.wikipedia.org/wiki/奧迪 "wikilink")8上也有使用（不過只有Continental
 GT加掛雙渦輪）。Continental GT和輝騰都搭載福斯設計的4Motion四輪驅動系統，其實除了共用底盤外，Continental
 GT的四門版Flying
-Spur更和[輝騰共用位於](../Page/輝騰.md "wikilink")[狼堡的生產線](../Page/狼堡.md "wikilink")。
+Spur更和[輝騰共用位於](https://zh.wikipedia.org/wiki/輝騰 "wikilink")[狼堡的生產線](https://zh.wikipedia.org/wiki/狼堡 "wikilink")。
 
 ## 小知識
 

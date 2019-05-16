@@ -1,19 +1,19 @@
-**3DLABS**（三維實驗室）成立於1984年，曾是一家[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")，目前已歇業。3DLABS總部位於[美國](../Page/美國.md "wikilink")[加利福尼亞州的](../Page/加利福尼亞州.md "wikilink")[森尼韋爾](../Page/森尼韦尔_\(加利福尼亚州\).md "wikilink")。3DLABS主要开發高端繪圖晶片。其著名產品是Wildcat與Oxygen系列顯示卡。
+**3DLABS**（三維實驗室）成立於1984年，曾是一家[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")，目前已歇業。3DLABS總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[森尼韋爾](../Page/森尼韦尔_\(加利福尼亚州\).md "wikilink")。3DLABS主要开發高端繪圖晶片。其著名產品是Wildcat與Oxygen系列顯示卡。
 
 [ELSA_Gloria_L-88.jpg](https://zh.wikipedia.org/wiki/File:ELSA_Gloria_L-88.jpg "fig:ELSA_Gloria_L-88.jpg")
 
 ## 公司歷史
 
 公司前身創建於1984年，早期公司名為benchMark Technology，1988年與DuPont公司合併，旗下成立DuPont
-Pixel，開始為[升陽開發IRISGL工作站顯示卡](../Page/升陽.md "wikilink")，在1994年4月從DuPont分離正式更名為3DLABS，專為個人電腦開發繪圖晶片。1995年發表當時世界最快的商業OpenGL顯示晶片GLINT
-300SX。1996年10月在美國[NASDAQ上市](../Page/NASDAQ.md "wikilink")。其後在1998年7月收購了Dynamic
+Pixel，開始為[升陽開發IRISGL工作站顯示卡](https://zh.wikipedia.org/wiki/升陽 "wikilink")，在1994年4月從DuPont分離正式更名為3DLABS，專為個人電腦開發繪圖晶片。1995年發表當時世界最快的商業OpenGL顯示晶片GLINT
+300SX。1996年10月在美國[NASDAQ上市](https://zh.wikipedia.org/wiki/NASDAQ "wikilink")。其後在1998年7月收購了Dynamic
 Pictures，2000年7月收購了Intense3D。最後在2002年6月被[创新科技收購](../Page/创新科技.md "wikilink")，成為旗下子公司。2009年1月與創新科技的個人數位娛樂部門合併，更名為[ZiiLABS](../Page/ZiiLABS.md "wikilink")（籽亿）公司。
 
 3DLABS曾是[OpenGL架构评估委员会](../Page/OpenGL.md "wikilink")（OpenGL
 ARB）與[Khronos
-Group的成員](../Page/Khronos_Group.md "wikilink")。它是該組織的重要一員，尤其是在开發OpenGL
+Group的成員](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink")。它是該組織的重要一員，尤其是在开發OpenGL
 2.0和不間斷改进OpenGL
-API方面。在1999年之前，3DLABS一直是一家还跟得上时代的主流显示芯片制造商，但由于Permedia3研发不顺利，被[NVIDIA迅速甩离主流显卡芯片制造商的地位](../Page/NVIDIA.md "wikilink")。
+API方面。在1999年之前，3DLABS一直是一家还跟得上时代的主流显示芯片制造商，但由于Permedia3研发不顺利，被[NVIDIA迅速甩离主流显卡芯片制造商的地位](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。
 
 ## 产品
 
@@ -32,7 +32,7 @@ API方面。在1999年之前，3DLABS一直是一家还跟得上时代的主流�
 
 ## 參考連結
 
-  - [創新科技](../Page/創新科技.md "wikilink")
+  - [創新科技](https://zh.wikipedia.org/wiki/創新科技 "wikilink")
   - [ZiiLABS](../Page/ZiiLABS.md "wikilink")（籽亿）
 
 ## 外部連結

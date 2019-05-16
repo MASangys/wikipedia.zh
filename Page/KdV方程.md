@@ -3,7 +3,7 @@
 
 \[\partial_t\phi+6\phi\partial_x\phi+\partial^3_x\phi=0\]
 
-KdV方程的解为簇集的[孤立子](../Page/孤立子.md "wikilink")（又称**孤子**，**孤波**）。
+KdV方程的解为簇集的[孤立子](https://zh.wikipedia.org/wiki/孤立子 "wikilink")（又称**孤子**，**孤波**）。
 
 ## KdV方程的行波解
 
@@ -88,7 +88,7 @@ KdV 方程有多种孤波解\[1\]\[2\]。
 
 KdV方程在物理学的许多领域都有应用，例如等离子体磁流波、离子声波、非谐振晶格振动、低温非线性晶格声子波包的热激发、液体气体混合物的压力表等。
 
-KdV方程也可以用[逆散射技术求解](../Page/逆散射.md "wikilink")。
+KdV方程也可以用[逆散射技术求解](https://zh.wikipedia.org/wiki/逆散射 "wikilink")。
 
 ## 参考文献
 
@@ -100,7 +100,7 @@ KdV方程也可以用[逆散射技术求解](../Page/逆散射.md "wikilink")。
 <!-- end list -->
 
 1.  \*谷超豪
-    《[孤立子理论中的](../Page/孤立子.md "wikilink")[达布变换及其几何应用](../Page/达布变换.md "wikilink")》
+    《[孤立子理论中的](https://zh.wikipedia.org/wiki/孤立子 "wikilink")[达布变换及其几何应用](../Page/达布变换.md "wikilink")》
     上海科学技术出版社
 2.  \*阎振亚著 《复杂非线性波的构造性理论及其应用》 科学出版社 2007年
 3.  李志斌编著 《非线性数学物理方程的行波解》 科学出版社

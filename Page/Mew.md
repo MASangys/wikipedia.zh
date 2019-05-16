@@ -1,20 +1,20 @@
-**海鷗樂團**（Mew）是來自[丹麥的](../Page/丹麥.md "wikilink")[獨立搖滾](../Page/獨立搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")。
+**海鷗樂團**（Mew）是來自[丹麥的](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[獨立搖滾](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 歷史
 
-海鷗樂團於1995年在[哥本哈根附近的Hellerup成立](../Page/哥本哈根.md "wikilink")，現居於[英國](../Page/英國.md "wikilink")[倫敦](../Page/倫敦.md "wikilink")。
+海鷗樂團於1995年在[哥本哈根附近的Hellerup成立](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")，現居於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
 
 他們的音樂風格受到瞪鞋派樂團如*Pixies*、*My Bloody Valentine*、*Dinosaur Jr.*、*Red House
 Painters*等團影響，呈現出類似於後搖滾的New Prog曲風。
 
-他們在[丹麥初次展露頭角是在](../Page/丹麥.md "wikilink")2003年發行專輯《Frengers》之後，在當年度的Danish
+他們在[丹麥初次展露頭角是在](https://zh.wikipedia.org/wiki/丹麥 "wikilink")2003年發行專輯《Frengers》之後，在當年度的Danish
 Music Critics Award獲得了「年度最佳專輯」和「年度最佳樂團」。2005年的專輯《And The Glass Handed
-Kites》在歐洲地區更大受好評，於[丹麥地區奪得各項音樂獎](../Page/丹麥.md "wikilink")，並在2006年的Danish
+Kites》在歐洲地區更大受好評，於[丹麥地區奪得各項音樂獎](https://zh.wikipedia.org/wiki/丹麥 "wikilink")，並在2006年的Danish
 Music Awards（DMA06）中得到「最佳丹麥專輯」、「最佳丹麥樂團」、「最佳搖滾發行」、「最佳男歌手（Jonas
 Bjerre）」四項大獎[1](https://web.archive.org/web/20070111230948/http://www.dr.dk/dma/)。
 [Mewevilangel.jpg](https://zh.wikipedia.org/wiki/File:Mewevilangel.jpg "fig:Mewevilangel.jpg")
 作曲及編曲由全團團員共同負責，歌詞創作由主唱**Jonas
-Bjerre**負責，多數靈感來自他的夢魘，他亦將這些夢境自行拍攝製作成[動畫用於演唱會的背景](../Page/動畫.md "wikilink")，這也是海鷗樂團現場表演的最大特色。另外在動畫中所用到的毛線布偶也出自他之手。
+Bjerre**負責，多數靈感來自他的夢魘，他亦將這些夢境自行拍攝製作成[動畫用於演唱會的背景](https://zh.wikipedia.org/wiki/動畫 "wikilink")，這也是海鷗樂團現場表演的最大特色。另外在動畫中所用到的毛線布偶也出自他之手。
 
 在專輯中的合音、重唱皆是主唱**Jonas
 Bjerre**一人完成，只有在演唱會時才有團員們的合音。其強烈特色的夢幻式高亢唱腔並非天生所有，是由於成團之初在學校教室練團時，因隔音效果太差，為了聽見自己的聲音而訓練出的高音，所以在許多歌曲中都可聽到他以截然不同的高音及低音音色所呈現的合音效果。而海鷗樂團的代表標誌也為主唱**Jonas
@@ -23,12 +23,12 @@ Bjerre**所繪，一般稱為『Mew Angel』。
 ### 《A Triumph For Man》
 
 首張專輯《[A Triumph For
-Man](../Page/A_Triumph_For_Man.md "wikilink")》由[美國獨立搖滾樂團](../Page/美國.md "wikilink")*Swirlies*\[[http://www.evil-office.net/swirlies/\]的主腦](http://www.evil-office.net/swirlies/%5D的主腦)*Damon
+Man](../Page/A_Triumph_For_Man.md "wikilink")》由[美國獨立搖滾樂團](https://zh.wikipedia.org/wiki/美國 "wikilink")*Swirlies*\[[http://www.evil-office.net/swirlies/\]的主腦](http://www.evil-office.net/swirlies/%5D的主腦)*Damon
 Tutunjian*錄製，1997年4月於丹麥唱片廠牌*Exlibris
-Musik*\[[https://web.archive.org/web/20061027232221/http://www.exlibris.dk/\]限量發行2000張，由於數量稀少，因此在](https://web.archive.org/web/20061027232221/http://www.exlibris.dk/%5D限量發行2000張，由於數量稀少，因此在)[eBay拍賣網站上的價格高達](../Page/eBay.md "wikilink")7000至10000元台幣。此專輯已於2006年9月18日由丹麥唱片廠牌*A:larm
+Musik*\[[https://web.archive.org/web/20061027232221/http://www.exlibris.dk/\]限量發行2000張，由於數量稀少，因此在](https://web.archive.org/web/20061027232221/http://www.exlibris.dk/%5D限量發行2000張，由於數量稀少，因此在)[eBay拍賣網站上的價格高達](https://zh.wikipedia.org/wiki/eBay "wikilink")7000至10000元台幣。此專輯已於2006年9月18日由丹麥唱片廠牌*A:larm
 Music*\[[https://web.archive.org/web/20061205014948/http://alarmmusic.dk/\]重新發行為雙CD版](https://web.archive.org/web/20061205014948/http://alarmmusic.dk/%5D重新發行為雙CD版)。
 
-原專輯曲目共14首，2006年重新發行的版本則增加一張收錄9首[Demo曲目的CD](../Page/Demo.md "wikilink")。封面圖案由**Jonas
+原專輯曲目共14首，2006年重新發行的版本則增加一張收錄9首[Demo曲目的CD](https://zh.wikipedia.org/wiki/Demo "wikilink")。封面圖案由**Jonas
 Bjerre**繪製。
 
 由於發行時間與[水叮噹樂團的](../Page/水叮噹.md "wikilink")《Aquarium》相近，在當時舞曲風勝行的樂壇中並沒有受到太大的注目。
@@ -37,7 +37,7 @@ Bjerre**繪製。
 
 由於結束與原本唱片廠牌*Exlibris Musik*的合約，《[Half The World Is Watching
 Me](../Page/Half_The_World_Is_Watching_Me.md "wikilink")》於2000年由自創的廠牌*Evil
-Office*於唱片公司*Playground*\[[http://www.playgroundmusic.com/\]下發行約5000張，此專輯目前尚無重新發行之打算，因此在](http://www.playgroundmusic.com/%5D下發行約5000張，此專輯目前尚無重新發行之打算，因此在)[eBay拍賣網站上仍有](../Page/eBay.md "wikilink")4000至7000元的價值。
+Office*於唱片公司*Playground*\[[http://www.playgroundmusic.com/\]下發行約5000張，此專輯目前尚無重新發行之打算，因此在](http://www.playgroundmusic.com/%5D下發行約5000張，此專輯目前尚無重新發行之打算，因此在)[eBay拍賣網站上仍有](https://zh.wikipedia.org/wiki/eBay "wikilink")4000至7000元的價值。
 
 專輯共發行為三種版本：
 
@@ -48,12 +48,12 @@ Office*於唱片公司*Playground*\[[http://www.playgroundmusic.com/\]下發行�
 
 其中{{〈}}Her Voice Is Beyond Her
 Years{{〉}}是與[瑞典女歌手](../Page/瑞典.md "wikilink")*Stina
-Nordenstam*\[[http://www.stinanordenstam.com/\]合唱](http://www.stinanordenstam.com/%5D合唱)，{{〈}}Symmetry{{〉}}則是與當年14歲的[美國女孩](../Page/美國.md "wikilink")*Becky
+Nordenstam*\[[http://www.stinanordenstam.com/\]合唱](http://www.stinanordenstam.com/%5D合唱)，{{〈}}Symmetry{{〉}}則是與當年14歲的[美國女孩](https://zh.wikipedia.org/wiki/美國 "wikilink")*Becky
 Jarrett*\[[http://beckyjarret.tripod.com/\]合唱](http://beckyjarret.tripod.com/%5D合唱)。
 
 ### 《Frengers》
 
-《[陌生的友人](../Page/Frengers.md "wikilink")》於2003年發行，為海鷗樂團加入*[Sony](../Page/SonyBMG.md "wikilink")／Epic*唱片公司的第一張國際發行唱片，主要以前張專輯《[Half
+《[陌生的友人](../Page/Frengers.md "wikilink")》於2003年發行，為海鷗樂團加入*[Sony](https://zh.wikipedia.org/wiki/SonyBMG "wikilink")／Epic*唱片公司的第一張國際發行唱片，主要以前張專輯《[Half
 The World Is Watching
 Me](../Page/Half_The_World_Is_Watching_Me.md "wikilink")》的作品重新編曲錄製，另有4首全新曲。
 
@@ -68,7 +68,7 @@ Jr.*\[[http://www.lavenderdiamond.com/ron/\]繪製，他目前亦是](http://www
 mystery」。
 
 在第四次發行的{{〈}}She Came Home For
-Christmas{{〉}}DVD單曲中特別收錄了自製的[Flash遊戲](../Page/Flash.md "wikilink")「Frengers
+Christmas{{〉}}DVD單曲中特別收錄了自製的[Flash遊戲](https://zh.wikipedia.org/wiki/Flash "wikilink")「Frengers
 Game」[2](https://web.archive.org/web/20061211235939/http://www.mewsite.com/frengersgame/)。
 
 日本地區在2003年11月12日另外發行了限量的聖誕節CD+DVD專輯[3](http://www.sonymusic.co.jp/Music/International/Arch/ES/MEW/EICP-297/index.html)，DVD特別收錄"Am
@@ -79,7 +79,7 @@ Pestilence"，以及"Comforting Sounds"和"156"的音樂錄影帶，並外加一
 Angel的紙殼。
 
 {{〈}}Comforting
-Sounds{{〉}}可說是海鷗樂團最知名的歌曲之一，此曲曾被[台灣行動電信公司](../Page/台灣.md "wikilink")[台灣大哥大重新編曲做為其廣告](../Page/台灣大哥大.md "wikilink")「三網一家親」[4](https://www.youtube.com/watch?v=WiZFachtnRE)\[[https://web.archive.org/web/20070928033904/http://service.taiwanmobile.com/tvc/3in1.mpeg\]的主題曲，但在尋問出處時卻得到](https://web.archive.org/web/20070928033904/http://service.taiwanmobile.com/tvc/3in1.mpeg%5D的主題曲，但在尋問出處時卻得到)“**這是廣告公司自行剪接編曲，所以不是出自哪張專輯的作品**”的回覆[5](http://blog.xuite.net/goldbear/Lounge/3866003)，因此是否有向樂團購買版權仍然未知。
+Sounds{{〉}}可說是海鷗樂團最知名的歌曲之一，此曲曾被[台灣行動電信公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣大哥大重新編曲做為其廣告](../Page/台灣大哥大.md "wikilink")「三網一家親」[4](https://www.youtube.com/watch?v=WiZFachtnRE)\[[https://web.archive.org/web/20070928033904/http://service.taiwanmobile.com/tvc/3in1.mpeg\]的主題曲，但在尋問出處時卻得到](https://web.archive.org/web/20070928033904/http://service.taiwanmobile.com/tvc/3in1.mpeg%5D的主題曲，但在尋問出處時卻得到)“**這是廣告公司自行剪接編曲，所以不是出自哪張專輯的作品**”的回覆[5](http://blog.xuite.net/goldbear/Lounge/3866003)，因此是否有向樂團購買版權仍然未知。
 
 ### 《And The Glass Handed Kites》
 
@@ -395,11 +395,11 @@ That Time On The Ledge</p></td>
 ### EP
 
   - [She Came Home For
-    Christmas](../Page/She_Came_Home_For_Christmas_\(EP\).md "wikilink")，2003年11月，日本
+    Christmas](https://zh.wikipedia.org/wiki/She_Came_Home_For_Christmas_\(EP\) "wikilink")，2003年11月，日本
   - [The Zookeeper's
-    Boy](../Page/The_Zookeeper's_Boy_\(EP\).md "wikilink")，2006年6月，美國
+    Boy](https://zh.wikipedia.org/wiki/The_Zookeeper's_Boy_\(EP\) "wikilink")，2006年6月，美國
   - [No More
-    Stories](../Page/No_More_Stories_\(EP\).md "wikilink")，2009年6月30日，美國
+    Stories](https://zh.wikipedia.org/wiki/No_More_Stories_\(EP\) "wikilink")，2009年6月30日，美國
 
 ### DVD
 
@@ -440,12 +440,12 @@ That Time On The Ledge</p></td>
     Choir』[8](http://www.sonymusic.co.jp/Music/International/Special/Mew/special.html)[9](http://www.sonymusic.co.jp/Music/International/Special/Mew/ecard/clown.zip)。
   - 於日本接受*Fusion Musique*訪問時手繪『Evil
     Angel』翻頁漫畫[10](https://web.archive.org/web/20070102160742/http://www.sonymusic.co.jp/Music/International/Special/FusionMusique/vision/meta/vol20_mew.asx)，並由*Fusion
-    Musique*製成[Flash動畫](../Page/Flash.md "wikilink")。
+    Musique*製成[Flash動畫](https://zh.wikipedia.org/wiki/Flash "wikilink")。
   - 製作動畫短片《Crackle》並發表於[Grave
     Invaders](https://web.archive.org/web/20061213201916/http://www.mewsite.com/lookinggrave/)遊戲中。
-  - 設計英國[iTunes獨家販售曲](../Page/iTunes.md "wikilink"){{〈}}The Zookeeper's
-    Boy (Livingston Version){{〉}}的CD紙套，此為預購單曲{{〈}}The Zookeeper's
-    Boy{{〉}}贈品。
+  - 設計英國[iTunes獨家販售曲](https://zh.wikipedia.org/wiki/iTunes "wikilink"){{〈}}The
+    Zookeeper's Boy (Livingston Version){{〉}}的CD紙套，此為預購單曲{{〈}}The
+    Zookeeper's Boy{{〉}}贈品。
   - 繪製2006年聖誕節賀卡[11](https://web.archive.org/web/20070112022319/http://www.sonymusic.com/artists/Mew/banners/mewcard.pdf)。
 
 #### 團外工作

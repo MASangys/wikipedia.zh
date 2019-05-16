@@ -11,39 +11,39 @@
       - 1999年 成立Gackt job，開始單飛。
   - 2000～2005年
       - 2001年
-        開始連續四年，於[NHK的](../Page/日本放送協會.md "wikilink")[红白歌合戰出場](../Page/红白歌合戰.md "wikilink")。
+        開始連續四年，於[NHK的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[红白歌合戰出場](https://zh.wikipedia.org/wiki/红白歌合戰 "wikilink")。
       - 2003年
-        與[HYDE和](../Page/HYDE.md "wikilink")[王力宏一起主演電影](../Page/王力宏.md "wikilink")。
+        與[HYDE和](https://zh.wikipedia.org/wiki/HYDE "wikilink")[王力宏一起主演電影](../Page/王力宏.md "wikilink")。
       - 2005年12月24日 初次在[東京巨蛋舉辦演唱會](../Page/東京巨蛋.md "wikilink")《Gackt
         Live Tour2005 12 24 DIABOLOS～哀婉の詩と聖夜の涙～》。
   - 2006年
       - 1月14日
-        在[韓國](../Page/韓國.md "wikilink")[首爾舉辦與日本同樣规模及内容的演唱會](../Page/首爾.md "wikilink")《Gackt
+        在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾舉辦與日本同樣规模及内容的演唱會](https://zh.wikipedia.org/wiki/首爾 "wikilink")《Gackt
         Live Tour 2005 DIABOLOS\~哀婉の詩\~In ASIA》。
       - 2月28日
-        透過廣播節目通信認識的兵庫縣立舞子高等學校的學生邀請參加他們的畢業典禮。於是決定在畢業生、在校生前舉辦[畢業典禮纪念演唱](../Page/:GACKT#.E7.95.A2.E6.A5.AD.E5.85.B8.E7.A6.AE.E7.8D.BB.E5.94.B1.md "wikilink")。兩天後公開為了畢業典禮寫的歌曲《像花一樣自由綻放》（野に咲く花のように），於2007年2月7日發售。
+        透過廣播節目通信認識的兵庫縣立舞子高等學校的學生邀請參加他們的畢業典禮。於是決定在畢業生、在校生前舉辦[畢業典禮纪念演唱](https://zh.wikipedia.org/wiki/:GACKT#.E7.95.A2.E6.A5.AD.E5.85.B8.E7.A6.AE.E7.8D.BB.E5.94.B1 "wikilink")。兩天後公開為了畢業典禮寫的歌曲《像花一樣自由綻放》（野に咲く花のように），於2007年2月7日發售。
       - 2006年12月
-        與[YOSHIKI及](../Page/YOSHIKI.md "wikilink")[SUGIZO決定在](../Page/SUGIZO.md "wikilink")2007年開始組成新的樂團『[S.K.I.N.](../Page/S.K.I.N..md "wikilink")』，並邀請[雅-miyavi-加入](../Page/雅-miyavi-.md "wikilink")。
+        與[YOSHIKI及](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")[SUGIZO決定在](../Page/SUGIZO.md "wikilink")2007年開始組成新的樂團『[S.K.I.N.](../Page/S.K.I.N..md "wikilink")』，並邀請[雅-miyavi-加入](../Page/雅-miyavi-.md "wikilink")。
   - 2007年
       - 2月7、08日 在台灣舉辦為期兩天的《GACKT TRAINING DAYS 2007 DRUG PARTY IN
         TAIWAN》演唱會。兩場演唱會門票均銷售一空，搖滾席在十幾秒內瞬間售完。
       - 4月24日
-        單曲《像花一樣自由綻放》（野に咲く花のように）在[台灣MTV日韓音樂瘋中首播](../Page/台灣.md "wikilink")。
+        單曲《像花一樣自由綻放》（野に咲く花のように）在[台灣MTV日韓音樂瘋中首播](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
       - 6月17日
-        出演NHK大河劇『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中[上杉謙信一角](../Page/上杉謙信.md "wikilink")，並於6月17日初登場。同年與次年（2008）連續兩年受邀於[上越市](../Page/上越市.md "wikilink")『[謙信公祭](../Page/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD.md "wikilink")』中以[上杉謙信之姿參與演出](../Page/上杉謙信.md "wikilink")，每回皆有約20萬人次參與。
+        出演NHK大河劇『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中[上杉謙信一角](../Page/上杉謙信.md "wikilink")，並於6月17日初登場。同年與次年（2008）連續兩年受邀於[上越市](../Page/上越市.md "wikilink")『[謙信公祭](https://zh.wikipedia.org/wiki/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD "wikilink")』中以[上杉謙信之姿參與演出](../Page/上杉謙信.md "wikilink")，每回皆有約20萬人次參與。
       - 6月20日 發行第27張單曲《RETURNER
         ～黑暗的死亡～》（RETURNER～闇の終焉～），並登上7月2日[Oricon公信榜第一名](../Page/Oricon公信榜.md "wikilink")。
       - 12月31日
-        [第58回NHK紅白歌合戰節目上以在](../Page/第58回NHK紅白歌合戰.md "wikilink")『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中飾演[上杉謙信的模樣登場演唱](../Page/上杉謙信.md "wikilink")《RETURNER
+        [第58回NHK紅白歌合戰節目上以在](https://zh.wikipedia.org/wiki/第58回NHK紅白歌合戰 "wikilink")『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中飾演[上杉謙信的模樣登場演唱](../Page/上杉謙信.md "wikilink")《RETURNER
         ～黑暗的死亡～ 獻給消逝士兵的安魂曲》（RETURNER 〜闇の終焉〜 消え逝く武士への鎮魂歌）。
   - 2008年
       - 1月28日
         以NHK大河劇『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』裡的[上杉謙信一角在](../Page/上杉謙信.md "wikilink")『[月刊TV
         navi](http://ja.wikipedia.org/wiki/TVnavi)』3月號2007（10月～12月期）特集中獲日劇助演男優賞（男配角）第1位。
       - 3月8日
-        [WBC世界輕量級冠軍選手](../Page/WBC.md "wikilink")[內藤大助](http://ja.wikipedia.org/wiki/%E5%86%85%E8%97%A4%E5%A4%A7%E5%8A%A9)應援，GACKT在[兩國國技館演唱](../Page/兩國國技館.md "wikilink")[日本國歌](../Page/日本.md "wikilink")『[君之代](../Page/君之代.md "wikilink")』。
+        [WBC世界輕量級冠軍選手](https://zh.wikipedia.org/wiki/WBC "wikilink")[內藤大助](http://ja.wikipedia.org/wiki/%E5%86%85%E8%97%A4%E5%A4%A7%E5%8A%A9)應援，GACKT在[兩國國技館演唱](../Page/兩國國技館.md "wikilink")[日本國歌](../Page/日本.md "wikilink")『[君之代](../Page/君之代.md "wikilink")』。
       - 4月
-        赴[羅馬尼亞拍攝](../Page/羅馬尼亞.md "wikilink")《[BUNRAKU](http://en.wikipedia.org/wiki/Bunraku_%28film%29)》（文樂），與好萊塢明星[喬許·哈奈特](../Page/喬許·哈奈特.md "wikilink")、[黛咪·摩爾一同演出](../Page/黛咪·摩爾.md "wikilink")，2011年於美國上檔。
+        赴[羅馬尼亞拍攝](../Page/羅馬尼亞.md "wikilink")《[BUNRAKU](http://en.wikipedia.org/wiki/Bunraku_%28film%29)》（文樂），與好萊塢明星[喬許·哈奈特](../Page/喬許·哈奈特.md "wikilink")、[黛咪·摩爾一同演出](https://zh.wikipedia.org/wiki/黛咪·摩爾 "wikilink")，2011年於美國上檔。
       - 6月1日 愛犬Ener之『Ener大冒险』（エネルの大冒険）關懷地球環境網站公開。
       - 2008年12月～2009年7月 睽違3年的大型演唱會《GACKT VISUALIVE TOUR 2009 REQUIEM ET
         REMINISCENCER II〜鎮魂と再生〜》全國60場巡迴，約21萬人參與。
@@ -53,24 +53,24 @@
         これぞ真の一流品だ\!2009お正月スペシャル』中最後一道題目以一人獨贏之姿得到一流藝能人的稱號。之後在所出演的2010、2012、2013、2014、2015年以共36道題目不敗之姿連續蟬聯6年的一流藝人稱號。因為在牛肉的題目上有著超乎常人的講究而被冠上『肉博士』之稱。
       - 6月10日 迎接單飛出道10週年『Gackt』改名為大文字『GACKT』。
       - 2009年12月
-        『[神威♂樂園](../Page/:GACKT#.E7.A5.9E.E5.A8.81.E2.99.82.E6.A8.82.E5.9C.92.md "wikilink")
+        『[神威♂樂園](https://zh.wikipedia.org/wiki/:GACKT#.E7.A5.9E.E5.A8.81.E2.99.82.E6.A8.82.E5.9C.92 "wikilink")
         de イキナ祭』開催。
   - 2010年
       - 3月21日 初次男性限定LIVE《GACKT YFCz 煌☆雄兎狐塾～男尊女祕肌嘩祭～》，並預告同年6月[YELLOW
         FRIED
         CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)（簡稱YFCz）初．全國巡迴的運行。
       - 4月22日
-        轉投唱片公司[avex](../Page/avex.md "wikilink")，於同年7月28日推出移籍後首張單曲《EVER》。
+        轉投唱片公司[avex](https://zh.wikipedia.org/wiki/avex "wikilink")，於同年7月28日推出移籍後首張單曲《EVER》。
       - 5月14日～2011年2月27日 初次舞台《GACKT
         [眠狂四郎無賴控](../Page/眠狂四郎.md "wikilink")》全國120場巡迴公演。
       - 6月10日～8月29日 初．全國巡迴《GACKT YFCz煌☆雄兎狐塾～男女混欲肌嘩祭～》。
       - 7月16日～7月24日 初次歐洲巡迴《GACKT COMING TO EUROPE 2010 ATTACK OF THE
         “[YELLOW FRIED
-        CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)”》於[倫敦](../Page/倫敦.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[巴塞隆納](../Page/巴塞隆納.md "wikilink")、[慕尼黑](../Page/慕尼黑.md "wikilink")、[波鴻共](../Page/波鴻.md "wikilink")5場巡迴演出。
+        CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)”》於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")、[慕尼黑](../Page/慕尼黑.md "wikilink")、[波鴻共](https://zh.wikipedia.org/wiki/波鴻 "wikilink")5場巡迴演出。
       - 8月22日
-        睽違二年後，第3度以[上杉謙信之姿參與](../Page/上杉謙信.md "wikilink")[上越市](../Page/上越市.md "wikilink")『第85回謙信公祭2010』的演出，並創下[上越市](../Page/上越市.md "wikilink")[謙信公祭有史以來最多參與人數](../Page/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD.md "wikilink")─240,211人次。之後更於2011、2013、2014年參與[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)的演出，每年皆有超過20萬人次的名眾共襄盛舉。
+        睽違二年後，第3度以[上杉謙信之姿參與](../Page/上杉謙信.md "wikilink")[上越市](../Page/上越市.md "wikilink")『第85回謙信公祭2010』的演出，並創下[上越市](../Page/上越市.md "wikilink")[謙信公祭有史以來最多參與人數](https://zh.wikipedia.org/wiki/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD "wikilink")─240,211人次。之後更於2011、2013、2014年參與[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)的演出，每年皆有超過20萬人次的名眾共襄盛舉。
       - 12月14日
-        與[韓國明星](../Page/韓國.md "wikilink")[裴勇俊](../Page/裴勇俊.md "wikilink")、[台灣明星](../Page/台灣.md "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](../Page/鄭元暢.md "wikilink")...等藝人於[東京巨蛋參加](../Page/東京巨蛋.md "wikilink")[Message\!
+        與[韓國明星](https://zh.wikipedia.org/wiki/韓國 "wikilink")[裴勇俊](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")、[台灣明星](https://zh.wikipedia.org/wiki/台灣 "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](https://zh.wikipedia.org/wiki/鄭元暢 "wikilink")...等藝人於[東京巨蛋參加](../Page/東京巨蛋.md "wikilink")[Message\!
         to
         Asia](http://hohoemi.datv.jp/event.php)公開收錄，並捐出單飛以來一直陪伴在身邊有如戀人般的愛車『[龐蒂克火鳥](../Page/龐蒂克火鳥.md "wikilink")
         限定款 WS6』（ポンティアック・ファイヤーバード・トランザム 限定モデル
@@ -81,23 +81,23 @@
         YOUR
         HEART](https://web.archive.org/web/20150402113227/http://www.syh-ngo.org/)募款頁面，主催。
       - 6月9日
-        於[ニコニコ動画的](../Page/ニコニコ動画.md "wikilink")『禁級来日記者発表』中發表新生“[YELLOW
+        於[ニコニコ動画的](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")『禁級来日記者発表』中發表新生“[YELLOW
         FRIED
         CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)”的再始動。同時也發表新成員與歐洲巡迴演出的日程。新生YFCz為雙主唱-GACKT、JON（[fade](http://ja.wikipedia.org/wiki/Fade)）、三吉他手-[YOU](https://www.facebook.com/pages/YOU/161091424051137?fref=photo)、[CHACHAMARU](http://ja.wikipedia.org/wiki/Chachamaru)、[TAKUMI](http://ja.wikipedia.org/wiki/%E9%AE%AB%E5%B3%B6%E5%B7%A7)、貝斯手-[U:ZO](http://ja.wikipedia.org/wiki/RIZE#.E5.85.83.E3.83.A1.E3.83.B3.E3.83.90.E3.83.BC)與鼓手-[SHINYA](http://ja.wikipedia.org/wiki/%E7%9C%9F%E7%9F%A2_%28%E3%83%89%E3%83%A9%E3%83%9E%E3%83%BC%29)（[LUNA
-        SEA](../Page/LUNA_SEA.md "wikilink")）共七人所組成。
+        SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")）共七人所組成。
   - 2012年
       - 4月6日～6月29日
-        每周星期五的晚上於[ニコニコ動画上現場放送](../Page/ニコニコ動画.md "wikilink")《YELLOW
+        每周星期五的晚上於[ニコニコ動画上現場放送](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")《YELLOW
         FRIED CHICKENzの金曜ニコラジ
         ～家が暗いんで●▲※◎っス》節目。主持人為YFCz的成員[TAKUMI](http://ja.wikipedia.org/wiki/%E9%AE%AB%E5%B3%B6%E5%B7%A7)，來賓由YFCz的其他成員出演。而主唱GACKT有時候也會以突襲之姿突然出現在現場放送的節目上。
       - 7月4日
-        於主唱GACKT的生日當天於[日本東京](../Page/日本.md "wikilink")[武道館舉辦新生YFCz的結束活動演唱會](../Page/武道館.md "wikilink")《煌☆雄兎狐塾
+        於主唱GACKT的生日當天於[日本東京](../Page/日本.md "wikilink")[武道館舉辦新生YFCz的結束活動演唱會](https://zh.wikipedia.org/wiki/武道館 "wikilink")《煌☆雄兎狐塾
         ～破秘婆酒日解散祭～泣くのは辞めな、笑ってサヨナラしましょうねぇ》。演唱會票卷銷售一空，結束新生YFCz短短一年的活動。
       - 7月15日～10月2日 GACKT原作、腳本、演出、主演共身兼4個角色的舞台《[MOON SAGA
         -義経秘伝-](https://web.archive.org/web/20150210151404/http://www.dmm.com/moonsaga/)
-        [源義仲篇](../Page/源義仲.md "wikilink")》於[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[大阪](../Page/大阪.md "wikilink")、[福岡演出](../Page/福岡.md "wikilink")，並邀請有[歌舞伎天才女形之稱的](../Page/歌舞伎.md "wikilink")[早乙女太一](../Page/早乙女太一.md "wikilink")、原[寶塚宙組TOP](../Page/寶塚.md "wikilink")[大和悠河一起出演此舞台劇](../Page/大和悠河.md "wikilink")。
+        [源義仲篇](../Page/源義仲.md "wikilink")》於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[福岡演出](https://zh.wikipedia.org/wiki/福岡 "wikilink")，並邀請有[歌舞伎天才女形之稱的](../Page/歌舞伎.md "wikilink")[早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")、原[寶塚宙組TOP](https://zh.wikipedia.org/wiki/寶塚 "wikilink")[大和悠河一起出演此舞台劇](../Page/大和悠河.md "wikilink")。
       - 8月12日
-        開始於[ニコニコ動画中開始ブロマガ](../Page/ニコニコ動画.md "wikilink")（blomaga）《[OH\!
+        開始於[ニコニコ動画中開始ブロマガ](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")（blomaga）《[OH\!
         MY\!\!
         GACKT\!\!\!](http://ch.nicovideo.jp/gackt)》的經營。每個月固定會更新3次。
   - 2013年
@@ -107,15 +107,15 @@
         將原有對歌迷的稱呼『DEARS』變換成『LOVERS』，並與原有的經紀公司合約到期後自行另創"G-PRO"《GACKT
         & LOVERS》。
       - 12月16日
-        於[東京歌劇城](../Page/東京歌劇城.md "wikilink")（東京オペラシティコンサートホール）舉辦初次的古典交響樂演唱會《GACKT×東京フィルハーモニー交響楽団
+        於[東京歌劇城](https://zh.wikipedia.org/wiki/東京歌劇城 "wikilink")（東京オペラシティコンサートホール）舉辦初次的古典交響樂演唱會《GACKT×東京フィルハーモニー交響楽団
         華麗なるクラシックのタベ》。
   - 2014年
       - 7月1日開始和日本[雀巢公司合作](../Page/雀巢.md "wikilink")《[GACKTなゲーム！？ガメ先手ル！](https://web.archive.org/web/20150306084618/http://nestle.jp/entertain/gamecenter/)》。至2015年6月30日為止共365天於日本時間晚上7點每日不間斷的上傳GACKT玩各種遊戲的實況影片。
       - 8月8日～10月31日 GACKT原作、腳本、演出、主演共身兼4個角色的舞台《[MOON SAGA
         -義経秘伝-](http://moonsaga.jp/) 第二章
-        [平教經篇](../Page/平教經.md "wikilink")》於[東京](../Page/東京.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[大阪與其他](../Page/大阪.md "wikilink")4個城市共7個城市演出，並邀請[川崎麻世](http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%BA%BB%E4%B8%96)、原[寶塚宙組男役](../Page/寶塚.md "wikilink")[悠未ひろ](http://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%AA%E3%81%B2%E3%82%8D)一起出演此次舞台劇。
+        [平教經篇](../Page/平教經.md "wikilink")》於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[大阪與其他](https://zh.wikipedia.org/wiki/大阪 "wikilink")4個城市共7個城市演出，並邀請[川崎麻世](http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%BA%BB%E4%B8%96)、原[寶塚宙組男役](https://zh.wikipedia.org/wiki/寶塚 "wikilink")[悠未ひろ](http://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%AA%E3%81%B2%E3%82%8D)一起出演此次舞台劇。
       - 12月26日
-        因前一年的熱烈迴響，再次於[東京歌劇城](../Page/東京歌劇城.md "wikilink")（東京オペラシティコンサートホール）舉辦第二回的古典交響樂演唱會《GACKT×東京フィルハーモニー交響楽団
+        因前一年的熱烈迴響，再次於[東京歌劇城](https://zh.wikipedia.org/wiki/東京歌劇城 "wikilink")（東京オペラシティコンサートホール）舉辦第二回的古典交響樂演唱會《GACKT×東京フィルハーモニー交響楽団
         華麗なるクラシックのタベ》。
   - 2015年
       - 1月8日
@@ -142,7 +142,7 @@
 ## 逸事
 
   - GACKT家中的小孩除了他以外，还有一个姊姊与弟弟。GACKT会称呼姊姊作「姉さん」或「姉貴」。（GACKT的姊姊跟经纪公司的工作人员都拥有GACKT家中的钥匙）
-  - GACKT尊敬[B'z的主唱](../Page/B'z.md "wikilink")[稻叶浩志](../Page/稻叶浩志.md "wikilink")，而[B'z的歌曲](../Page/B'z.md "wikilink")『いつかのメリークリスマス』更是令他感动。
+  - GACKT尊敬[B'z的主唱](../Page/B'z.md "wikilink")[稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，而[B'z的歌曲](../Page/B'z.md "wikilink")『いつかのメリークリスマス』更是令他感动。
   - 本人長年愛用香奈兒 Platinum Égoïste
     香水。據說只要GACKT到過的地方其香水味可以三天不散，在日本演藝圈及歌迷之間相當有名。本人也曾說過一瓶100ml的香水可以在1個星期內全部用光。
   - 精通日本劍道、跆拳道、空手道等格鬥技，以不到一年的速度取得跆拳道黑帶；興趣是開車兜風、騎馬、釣魚、滑雪板，冬季期間只要有時間就會跟著工作人員一起到雪山去滑滑雪板。
@@ -150,9 +150,9 @@
   - 因為眼睛有些怕光，所以並不喜歡太過明亮的地方，因此家中不但陰暗且一直帶著墨鏡，而且都是裸體的生活其中。平常看起來很酷，但唱歌時感情卻非常的熱烈。在電視上雖然沒什麼機會看到，不過GACKT本人十分健談也十分幽默。因為GACKT喜歡讓人驚喜的性格，GACKT
     JOB成員及工作人員生日時一定會為對方帶來大驚喜，除了成員及工作人員以外，GACKT對歌迷的驚喜企劃也感動得令人落淚。
   - 在GACKT的著作『自白』中曾提到，GACKT以及GACKT
-    JOB的成員全部都會[格鬥技](../Page/格鬥.md "wikilink")，GACKT本人曾為了日本NHK電視臺的工作去[馬達加斯加島時](../Page/馬達加斯加.md "wikilink")，挑釁了當地的拳擊教練後，將那名教練打倒。但是當時拍攝的影像被日本NHK電視臺以『為歌迷著想的關係，這樣的GACKT不能被別人看到』為由沒有放送。
+    JOB的成員全部都會[格鬥技](https://zh.wikipedia.org/wiki/格鬥 "wikilink")，GACKT本人曾為了日本NHK電視臺的工作去[馬達加斯加島時](https://zh.wikipedia.org/wiki/馬達加斯加 "wikilink")，挑釁了當地的拳擊教練後，將那名教練打倒。但是當時拍攝的影像被日本NHK電視臺以『為歌迷著想的關係，這樣的GACKT不能被別人看到』為由沒有放送。
   - 2009年末被問及會選哪一個漢字代表他的2009年，GACKT用毛筆很帥氣地寫了一個『謝』字，感謝出道10年來歌迷的支持與愛護。《參考頁面：[GACKT 2009年的關鍵漢字是"謝"](http://www.musicjapanplus.jp/news/1/3680/%E4%B8%AD-gackt-key-kanji-for-2009-%E8%AC%9D-gratitude/#chn)》
-  - 會講[中文](../Page/中文.md "wikilink")、[英文](../Page/英文.md "wikilink")、[韓文](../Page/韓文.md "wikilink")、[法文](../Page/法文.md "wikilink")。曾在日本[富士電視臺電視節目](../Page/富士電視臺.md "wikilink")《[堂本兄弟](../Page/堂本兄弟.md "wikilink")》中，與[徐若瑄用標準的](../Page/徐若瑄.md "wikilink")-{zh-cn:普通話;zh-sg:華語;zh-tw:國語;zh-hk:普通話;}-對話，全體驚訝，也只有[徐若瑄聽得懂](../Page/徐若瑄.md "wikilink")；而且也唱過重寫成中文的『十二月的情歌』，發音十分準確。
+  - 會講[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")、[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")。曾在日本[富士電視臺電視節目](https://zh.wikipedia.org/wiki/富士電視臺 "wikilink")《[堂本兄弟](https://zh.wikipedia.org/wiki/堂本兄弟 "wikilink")》中，與[徐若瑄用標準的](../Page/徐若瑄.md "wikilink")-{zh-cn:普通話;zh-sg:華語;zh-tw:國語;zh-hk:普通話;}-對話，全體驚訝，也只有[徐若瑄聽得懂](../Page/徐若瑄.md "wikilink")；而且也唱過重寫成中文的『十二月的情歌』，發音十分準確。
   - 本人曾經說過比起太陽，自己比較喜歡月亮；不是在人前閃耀，而是在夜晚中照亮前方的路指引別人。所以在GACKT的作品中有許許多多跟月亮有關係的作品，並以『在背後推人一把向前邁進』做為自己的使命。
   - 將自己的事以『表現者』稱之，發揮不侷限於音樂家這個框架的多才型個性派藝人。
 
@@ -176,7 +176,7 @@
 
 ## 謙信公祭
 
-自從於NHK大河劇『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』飾演[上杉謙信一角後](../Page/上杉謙信.md "wikilink")，每年（2009與2012年除外）GACKT都會以謙信扮像受邀參加[新潟縣](../Page/新潟縣.md "wikilink")[上越市的](../Page/上越市.md "wikilink")[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)。GACKT的參與為該活動帶來大量的人氣，在第一次參與時便以20萬人的出展人數，大幅打破了以往該展的記錄（2007年前最高紀錄為8萬人）。從2007年起，GACKT出演過的所有謙信公祭，參加此祭典的人數都超過了20萬，也使該活動在日本全國的知名度大幅上升。
+自從於NHK大河劇『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』飾演[上杉謙信一角後](../Page/上杉謙信.md "wikilink")，每年（2009與2012年除外）GACKT都會以謙信扮像受邀參加[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[上越市的](../Page/上越市.md "wikilink")[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)。GACKT的參與為該活動帶來大量的人氣，在第一次參與時便以20萬人的出展人數，大幅打破了以往該展的記錄（2007年前最高紀錄為8萬人）。從2007年起，GACKT出演過的所有謙信公祭，參加此祭典的人數都超過了20萬，也使該活動在日本全國的知名度大幅上升。
 
   - 2007年……203,100人（初次出演）
   - 2008年……217,200人（第2次出演）
@@ -242,12 +242,12 @@ CD與[VHS](../Page/VHS.md "wikilink"))』作品。[Oricon公信榜初次登場�
   - 12月のLove song
 
 2001年12月16日發售的第10張單曲。[Oricon公信榜初登場第](../Page/Oricon公信榜.md "wikilink")5名，銷售17萬張。每年12月都會復刻銷售。
-共發售了2002年11月27日第13張、2003年12月3日第18張單曲、2004年12月8日第20張單曲。除此之外，02年收錄有[英語版](../Page/英語.md "wikilink")、03年收錄有[中文版](../Page/中文.md "wikilink")、04年收錄有[韓文版發行](../Page/韓文.md "wikilink")，分别在[Oricon公信榜最高排名第](../Page/Oricon公信榜.md "wikilink")5、第6、第8位（累積5萬張）。2006年12月13日發售同名『12月のLove
+共發售了2002年11月27日第13張、2003年12月3日第18張單曲、2004年12月8日第20張單曲。除此之外，02年收錄有[英語版](https://zh.wikipedia.org/wiki/英語 "wikilink")、03年收錄有[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")、04年收錄有[韓文版發行](https://zh.wikipedia.org/wiki/韓文 "wikilink")，分别在[Oricon公信榜最高排名第](../Page/Oricon公信榜.md "wikilink")5、第6、第8位（累積5萬張）。2006年12月13日發售同名『12月のLove
 songs 〜COMPLETE BOX〜』。
 
   - Metamorphoze|〜メタモルフォーゼ〜
 
-2005年5月25日發售的第22張單曲。自己就是[鋼彈迷的他](../Page/鋼彈.md "wikilink")，為『[機動戰士Z
+2005年5月25日發售的第22張單曲。自己就是[鋼彈迷的他](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")，為『[機動戰士Z
 GUNDAM劇場版](../Page/機動戰士Z_GUNDAM劇場版.md "wikilink")』電影所寫的主題曲。[Oricon公信榜初登場第](../Page/Oricon公信榜.md "wikilink")2名，共銷售15萬張。
 
   - 届カナイ愛ト知ッテイタノニ抑エキレズニ愛シ続ケタ…
@@ -258,7 +258,7 @@ GUNDAM劇場版](../Page/機動戰士Z_GUNDAM劇場版.md "wikilink")』電影�
 
 2007年6月20日發售的第27張單曲。[Oricon公信榜初登場第](../Page/Oricon公信榜.md "wikilink")1名，2007年7月度月間順位第9位，累計銷售6.6萬枚。
 為電影『[頂尖對決](../Page/頂尖對決.md "wikilink")（The Prestige）』（プレステージ）日本版主題曲。
-2007年12月31日[第58回NHK紅白歌合戰節目上以在](../Page/第58回NHK紅白歌合戰.md "wikilink")『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中所飾演的[上杉謙信模樣登場演唱](../Page/上杉謙信.md "wikilink")『RETURNER～闇の終焉～獻給消逝士兵的安魂曲～』。
+2007年12月31日[第58回NHK紅白歌合戰節目上以在](https://zh.wikipedia.org/wiki/第58回NHK紅白歌合戰 "wikilink")『[風林火山](../Page/風林火山_\(大河劇\).md "wikilink")』中所飾演的[上杉謙信模樣登場演唱](../Page/上杉謙信.md "wikilink")『RETURNER～闇の終焉～獻給消逝士兵的安魂曲～』。
 
 ## 作品
 
@@ -979,7 +979,7 @@ GLCD-00003(CD盤)</small></p></td>
 <p>}} </p></td>
 <td><p><small>GLCD-00006(CD+DVD盤)<br />
 GLCD-00007(CD盤)<br />
-GLCD-00008(<a href="../Page/TSUTAYA.md" title="wikilink">TSUTAYA限定盤</a>)</small></p></td>
+GLCD-00008(<a href="https://zh.wikipedia.org/wiki/TSUTAYA" title="wikilink">TSUTAYA限定盤</a>)</small></p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
@@ -1776,7 +1776,7 @@ CRBP-10049</small></p></td>
 <td><p>26</p></td>
 <td><p><small>2010年6月28日</small></p></td>
 <td><p><strong>YELLOW FRIED CHICKENz 煌☆雄兎狐塾 ～男尊女秘肌嘩祭～ 百日抱擁</strong></p></td>
-<td><p><small><a href="../Page/microSD.md" title="wikilink">microSD</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/microSD" title="wikilink">microSD</a></small></p></td>
 <td><p><small>DSDV-00032</small></p></td>
 </tr>
 <tr class="odd">
@@ -1838,7 +1838,7 @@ YIBQ-10070</small></p></td>
 <td><p>34</p></td>
 <td><p><small>2013年3月26日</small></p></td>
 <td><p><strong>BEST OF THE BEST I ～40TH BIRTHDAY～ 2013</strong></p></td>
-<td><p><small><a href="../Page/Blu-ray.md" title="wikilink">Blu-ray</a><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/Blu-ray" title="wikilink">Blu-ray</a><br />
 DVD</small></p></td>
 <td><p><small>GLDV-00003<br />
 GLDV-00004</small></p></td>
@@ -1847,7 +1847,7 @@ GLDV-00004</small></p></td>
 <td><p>35</p></td>
 <td><p><small>2014年3月26日</small></p></td>
 <td><p><strong>BEST OF THE BEST I ～XTASY～ 2013</strong></p></td>
-<td><p><small><a href="../Page/Blu-ray.md" title="wikilink">Blu-ray</a><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/Blu-ray" title="wikilink">Blu-ray</a><br />
 DVD</small></p></td>
 <td><p><small>GLDV-00005<br />
 GLDV-00006</small></p></td>
@@ -1898,7 +1898,7 @@ GLDV-00006</small></p></td>
 <td><p>42</p></td>
 <td><p><small>2017年3月14日</small></p></td>
 <td><p><strong>GACKT WORLD TOUR 2016 LAST VISUALIVE 最期ノ月 -LAST MOON-</strong></p></td>
-<td><p><small><a href="../Page/Blu-ray.md" title="wikilink">Blu-ray</a><br />
+<td><p><small><a href="https://zh.wikipedia.org/wiki/Blu-ray" title="wikilink">Blu-ray</a><br />
 DVD</small></p></td>
 <td><p><small>DCDV-10001<br />
 DCDV-00001</small></p></td>
@@ -1945,7 +1945,7 @@ DCDV-00001</small></p></td>
 <td><p><small>2002年12月21日</small></p></td>
 <td><p>PLATINUM BOX 〜III〜</p></td>
 <td><p><small>通常盤<br />
-<a href="../Page/LAWSON.md" title="wikilink">LAWSON限定盤</a></small></p></td>
+<a href="https://zh.wikipedia.org/wiki/LAWSON" title="wikilink">LAWSON限定盤</a></small></p></td>
 <td><p><small>CRBP-10010<br />
 DAVC-20022</small></p></td>
 </tr>
@@ -2090,7 +2090,7 @@ DSDV-00036</small></p></td>
 <td><p><small>2014年3月26日</small></p></td>
 <td><p>BEST OF THE BEST Ⅰ GACKT STORE限定 COMPLETE BOX</p></td>
 <td><p><small>DVD<br />
-<a href="../Page/Blu-ray.md" title="wikilink">Blu-ray</a></small></p></td>
+<a href="https://zh.wikipedia.org/wiki/Blu-ray" title="wikilink">Blu-ray</a></small></p></td>
 <td><p><small>GLDV-00002<br />
 GLDV-00001</small></p></td>
 </tr>
@@ -2215,11 +2215,13 @@ GACKT本人此五曲擔當。</small></p></td>
 
 ### 樂曲提供
 
-  - [紀敏佳](../Page/紀敏佳.md "wikilink") － 「Lover 〜愛しい人〜」（作詞・作曲）
+  - [紀敏佳](https://zh.wikipedia.org/wiki/紀敏佳 "wikilink") － 「Lover
+    〜愛しい人〜」（作詞・作曲）
   - [古谷徹](../Page/古谷徹.md "wikilink") － 「ララの夜想曲-nocturne-」（作曲）
   - [川崎麻世](http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%BA%BB%E4%B8%96)
     － 「WHY」（作詞・作曲）
-  - [BoA](../Page/BoA.md "wikilink") － 「スキだよーMy Loveー」（作詞）
+  - [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink") － 「スキだよーMy
+    Loveー」（作詞）
 
 ## 演出
 
@@ -2229,7 +2231,7 @@ GACKT本人此五曲擔當。</small></p></td>
     CHILD](http://ja.wikipedia.org/wiki/MOON_CHILD_%28%E6%98%A0%E7%94%BB%29)
     － ショウ 役（[松竹](../Page/松竹.md "wikilink")）
   - 2007年9月22日 日文配音版
-    [亞瑟的奇幻王國：毫髮人的冒險](../Page/亞瑟的奇幻王國：毫髮人的冒險.md "wikilink")（Arthur
+    [亞瑟的奇幻王國：毫髮人的冒險](https://zh.wikipedia.org/wiki/亞瑟的奇幻王國：毫髮人的冒險 "wikilink")（Arthur
     et les
     Minimoys）[アーサーとミニモイの不思議な国](http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%A8%E3%83%9F%E3%83%8B%E3%83%A2%E3%82%A4%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E5%9B%BD)
     － マルタザール（馬塔殺）役（[松竹](../Page/松竹.md "wikilink")）
@@ -2244,19 +2246,21 @@ GACKT本人此五曲擔當。</small></p></td>
   - 2011年9月30日（美國）2012年1月14日（日本）
     [Bunraku](http://en.wikipedia.org/wiki/Bunraku_%28film%29) － Yoshi役
   - 2012年1月28日
-    [龍之女](../Page/龍之女.md "wikilink")3D（[テンペスト3D](http://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88_%28%E6%B1%A0%E4%B8%8A%E6%B0%B8%E4%B8%80%29#.E6.98.A0.E7.94.BB)）
+    [龍之女](https://zh.wikipedia.org/wiki/龍之女 "wikilink")3D（[テンペスト3D](http://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88_%28%E6%B1%A0%E4%B8%8A%E6%B0%B8%E4%B8%80%29#.E6.98.A0.E7.94.BB)）
     － 徐丁垓 役
   - 2012年2月11日 日文配音版
     [-ブラッドメイジの聖戦-](http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%A8%E3%82%A4%E3%82%B8_-%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%A1%E3%82%A4%E3%82%B8%E3%81%AE%E8%81%96%E6%88%A6-ドラゴンエイジ)（Dragon
     Age: Dawn of the Seeker） － ナイトコマンダー
     役（[TOブックス](http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88)）
-  - 2013年7月12日 日文配音版 [沉默之丘2：啟示錄](../Page/沉默之丘2：啟示錄.md "wikilink")（Silent
+  - 2013年7月12日 日文配音版
+    [沉默之丘2：啟示錄](https://zh.wikipedia.org/wiki/沉默之丘2：啟示錄 "wikilink")（Silent
     Hill: Revelation 3D）[サイレントヒル:
     リベレーション3D](http://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB:_%E3%83%AA%E3%83%99%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B33D)劇場公開版
     －
     トラヴィス・グレイディ（崔維斯·葛萊迪）役（[プレシディオ](http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B7%E3%83%87%E3%82%A3%E3%82%AA)）
-  - 2014年5月3日 [我的學生是惡夢劇場版](../Page/我的學生是惡夢.md "wikilink")「悪夢ちゃん The
-    夢ovie」 － 志岐貴、夢王子 役（[東寶](../Page/東寶.md "wikilink")）
+  - 2014年5月3日
+    [我的學生是惡夢劇場版](https://zh.wikipedia.org/wiki/我的學生是惡夢 "wikilink")「悪夢ちゃん
+    The 夢ovie」 － 志岐貴、夢王子 役（[東寶](../Page/東寶.md "wikilink")）
   - 2015年3月
     [ORIGAMI](http://sub.festival-cannes.fr/SfcCatalogue/MovieDetail/ea048bd2-2f4b-4389-8100-c4f098cbbedd)（坎城影展公開25分鐘短片）－
     友情演出；日本公開日期未定。
@@ -2271,39 +2275,42 @@ GACKT本人此五曲擔當。</small></p></td>
 
 ### 電視劇
 
-  - 2003年10月10日 生放送はとまらない\! － 本人 役（[朝日电视台](../Page/朝日电视台.md "wikilink")）
+  - 2003年10月10日 生放送はとまらない\! － 本人
+    役（[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
   - 2007年 [風林火山](../Page/風林火山_\(大河劇\).md "wikilink") －
     [上杉謙信](../Page/上杉謙信.md "wikilink")
-    役（[NHK大河剧](../Page/NHK大河剧.md "wikilink")）
+    役（[NHK大河剧](https://zh.wikipedia.org/wiki/NHK大河剧 "wikilink")）
   - 2009年5月23、30日 [MR.BRAIN](../Page/MR.BRAIN.md "wikilink") － 竹神貞次郎
     役（[TBS](../Page/TBS.md "wikilink")）
-  - 2011年7月 [龍之女](../Page/龍之女.md "wikilink") － 徐丁垓 役（[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）
-  - 2012年7月 [戰國BASARA](../Page/戰國BASARA.md "wikilink") -MOONLIGHT PARTY-
-    － [織田信長](../Page/織田信長.md "wikilink")
+  - 2011年7月 [龍之女](https://zh.wikipedia.org/wiki/龍之女 "wikilink") － 徐丁垓
+    役（[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）
+  - 2012年7月
+    [戰國BASARA](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")
+    -MOONLIGHT PARTY- － [織田信長](../Page/織田信長.md "wikilink")
     役（[BS-TBS](../Page/BS-TBS.md "wikilink")）
-  - 2012年10月 [我的學生是惡夢](../Page/我的學生是惡夢.md "wikilink") －
-    志岐貴、夢王子役（[日本テレビ](../Page/日本テレビ.md "wikilink")）
+  - 2012年10月 [我的學生是惡夢](https://zh.wikipedia.org/wiki/我的學生是惡夢 "wikilink")
+    － 志岐貴、夢王子役（[日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ "wikilink")）
   - 2013年11月 [BIMA Satria
     Garuda](http://en.wikipedia.org/wiki/BIMA_Satria_Garuda) － Noir、Bima
     Legend 役（[MNC
     Media](http://en.wikipedia.org/wiki/Media_Nusantara_Citra)）
   - 2014年1月 恋愛は必然である － 故事解說員一角（[BeeTV](../Page/BeeTV.md "wikilink")）
-  - 2014年5月2日 [我的學生是惡夢SP](../Page/我的學生是惡夢.md "wikilink") －
-    志岐貴、夢王子役（[日本テレビ](../Page/日本テレビ.md "wikilink")）
+  - 2014年5月2日
+    [我的學生是惡夢SP](https://zh.wikipedia.org/wiki/我的學生是惡夢 "wikilink")
+    － 志岐貴、夢王子役（[日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ "wikilink")）
   - 2014年9月
     [タイムスパイラル](http://ja.wikipedia.org/wiki/%E8%A7%A3%E3%81%91%E3%82%8B%E8%9E%BA%E6%97%8B#.E3.83.86.E3.83.AC.E3.83.93.E3.83.89.E3.83.A9.E3.83.9E)
     － 辰巳愁夜 役（[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）
 
 ### 电视動畫
 
-  - [屍鬼](../Page/屍鬼.md "wikilink") －
+  - [屍鬼](https://zh.wikipedia.org/wiki/屍鬼 "wikilink") －
     桐敷正志郎（[富士電視台](../Page/富士電視台.md "wikilink")）
 
   - －
     [上杉謙信](../Page/上杉謙信.md "wikilink")（[東京電視台](../Page/東京電視台.md "wikilink")）
 
-  - [學園救援團](../Page/學園救援團.md "wikilink") －
+  - [學園救援團](https://zh.wikipedia.org/wiki/學園救援團 "wikilink") －
     伊達聖士（ダンテ）（[讀賣電視台](../Page/讀賣電視台.md "wikilink")）
 
   - － 怪人二十面相（TOKYO MX、讀賣電視台、BS11）
@@ -2312,14 +2319,16 @@ GACKT本人此五曲擔當。</small></p></td>
 
   - 新、[北斗神拳](../Page/北斗神拳.md "wikilink") － 謝疾 役
   - 殿といっしょOVA版 － [上杉謙信](../Page/上杉謙信.md "wikilink") 役
-  - [超自然檔案](../Page/超自然檔案.md "wikilink") OVA日文配音動畫版 － アンディ 役
+  - [超自然檔案](https://zh.wikipedia.org/wiki/超自然檔案 "wikilink") OVA日文配音動畫版 －
+    アンディ 役
 
 ### 主要电视节目
 
   - 2001年4月〜2003年3月
-    [堂本兄弟](../Page/堂本兄弟.md "wikilink")（吉他、鋼琴擔當）／[富士電視台](../Page/富士電視台.md "wikilink")
+    [堂本兄弟](https://zh.wikipedia.org/wiki/堂本兄弟 "wikilink")（吉他、鋼琴擔當）／[富士電視台](../Page/富士電視台.md "wikilink")
   - 2001年12月26日 いま裸にしたい男たち 〜Gackt 僕の破片が見えますか？〜／デジタルBS Hi
-  - 2002年7月17日 [CDTV](../Page/CDTV.md "wikilink") 激動の上半期シングルTOP100&超豪華\!
+  - 2002年7月17日 [CDTV](https://zh.wikipedia.org/wiki/CDTV "wikilink")
+    激動の上半期シングルTOP100&超豪華\!
     夏の歌すべて見せますSP／[TBS](../Page/TBS.md "wikilink")（與[濱崎步一起主持共演](../Page/濱崎步.md "wikilink")）
   - 2002年8月7日 HERO'S HERO 〜Gacktが語る英雄伝説〜／日本NHK總合
   - 2002年12月24日
@@ -2337,13 +2346,13 @@ GACKT本人此五曲擔當。</small></p></td>
   - 2013年4月20日 - 9月14日 ASIA VERSUS
     [富士電視台](../Page/富士電視台.md "wikilink")（評審）
   - 2014年1年1日 芸能人格付けチェック
-    これぞ真の一流品だ\!2014お正月スペシャル／テレビ朝日（一流藝人(GACKT‧[西川貴教](../Page/西川貴教.md "wikilink"))）
+    これぞ真の一流品だ\!2014お正月スペシャル／テレビ朝日（一流藝人(GACKT‧[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"))）
   - 2015年1年1日 芸能人格付けチェック
     これぞ真の一流品だ\!2015お正月スペシャル／テレビ朝日（一流藝人(GACKT‧[鬼龍院翔](../Page/Golden_Bomber.md "wikilink")(ゴールデンボンバー)）
   - 2016年1年1日 芸能人格付けチェック
     これぞ真の一流品だ\!2016お正月スペシャル／テレビ朝日（普通藝人(GACKT‧[中山優馬](../Page/中山優馬.md "wikilink")‧[北山宏光](../Page/北山宏光.md "wikilink")(Kis-My-Ft2)）於2016年連續六年一流藝能人連勝中止；個人42連勝紀錄更新。
   - 2017年1年1日 芸能人格付けチェック これぞ真の一流品だ\!2017お正月スペシャル／テレビ朝日(
-    GACKT‧[堀江貴文](../Page/堀江貴文.md "wikilink"))
+    GACKT‧[堀江貴文](https://zh.wikipedia.org/wiki/堀江貴文 "wikilink"))
   - 2018年1年1日 芸能人格付けチェック これぞ真の一流品だ\!2018お正月スペシャル／テレビ朝日( GACKT‧ YOSHIKI )
   - 2019年1年1日 芸能人格付けチェック これぞ真の一流品だ\!2019お正月スペシャル／テレビ朝日( GACKT‧ YOSHIKI )
 
@@ -2360,7 +2369,7 @@ GACKT本人此五曲擔當。</small></p></td>
 ### 舞台
 
   - 2010年5月14日～2011年2月27日 [眠狂四郎
-    無賴控](../Page/:眠狂四郎#.E8.88.9E.E5.8F.B0.md "wikilink")（NEMURI×GACKT
+    無賴控](https://zh.wikipedia.org/wiki/:眠狂四郎#.E8.88.9E.E5.8F.B0 "wikilink")（NEMURI×GACKT
     PROJECT） － 眠狂四郎 役
   - 2012年7月15日～2012年10月2日 [MOON SAGA
     -義経秘伝-](https://web.archive.org/web/20150210151404/http://www.dmm.com/moonsaga/)
@@ -2378,15 +2387,15 @@ GACKT本人此五曲擔當。</small></p></td>
     of FIRE》的活動CD裡也參與）
   - メタルギアソリッド2／[科樂美](../Page/科樂美.md "wikilink")（KOMAMI）
   - e-maのど飴、Cケア、ぷっちょ、cucu／UHA[味覺糖](../Page/味覺糖.md "wikilink")
-  - フジカラーデジカメプリントキャンペーン／[富士相機底片](../Page/富士相機.md "wikilink")
+  - フジカラーデジカメプリントキャンペーン／[富士相機底片](https://zh.wikipedia.org/wiki/富士相機 "wikilink")
   - NEUE MENS（ノイエメンズ）／[資生堂](../Page/資生堂.md "wikilink")
-  - [怪獸電力公司](../Page/怪獸電力公司.md "wikilink")（日本上映宣傳）
+  - [怪獸電力公司](https://zh.wikipedia.org/wiki/怪獸電力公司 "wikilink")（日本上映宣傳）
   - 來電答鈴／[多玩國](../Page/多玩國.md "wikilink")（DWANGO）
   - たかの友梨ビューティクリニック
   - 銀嶺立山／立山酒造
   - [ポッカコーヒー](http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%82%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)（罐裝咖啡上使用GACKT包裝）
   - MOVE CUSTOM 星座編（CM曲『BLACK
-    SOTNE』使用）／[大發工業株式會社](../Page/大發工業株式會社.md "wikilink")（DAIHATSU）
+    SOTNE』使用）／[大發工業株式會社](https://zh.wikipedia.org/wiki/大發工業株式會社 "wikilink")（DAIHATSU）
   - U-Pty／[オリエントコーポレーション](http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
   - フレッグインターナショナル Executive Monthly
   - [川口オートレース場](http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8F%A3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E5%A0%B4)
@@ -2395,21 +2404,23 @@ GACKT本人此五曲擔當。</small></p></td>
   - SLO PACHINKO GLADIATOR
     Evolution（CM曲『Jesus』使用）／\[<http://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A5%BD%E7%94%A3%E6%A5%AD>.
     京樂產業\]（KYORAKU）
-  - ネット宅配レンタル／[TSUTAYA](../Page/TSUTAYA.md "wikilink") DISCAS
+  - ネット宅配レンタル／[TSUTAYA](https://zh.wikipedia.org/wiki/TSUTAYA "wikilink")
+    DISCAS
   - [Asahi飲品](http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%83%92%E9%A3%B2%E6%96%99)
       - 「新社会人の応援メッセージ編」／[WONDA](http://ja.wikipedia.org/wiki/WONDA)
       - 金の微糖「男のゴールデンタイム編」／[WONDA](http://ja.wikipedia.org/wiki/WONDA)
-  - ニコニコ電話／[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
+  - ニコニコ電話／[ニコニコ動画](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")
   - 春の新キャンペーンCM（CM主題歌「エガ、オーマイガ、ヘイタクシー\!」擔當）／[BeeTV](http://ja.wikipedia.org/wiki/BeeTV)
   - [決勝時刻：現代戰爭3](../Page/決勝時刻：現代戰爭3.md "wikilink")（コール オブ デューティ
     モダン・ウォーフェア3
-    日本發售宣傳）／[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")（スクウェア・エニックス）
-  - ノートン　360マルチデバイス／[諾頓網路安全大師](../Page/諾頓網路安全大師.md "wikilink")（ノートン）
+    日本發售宣傳）／[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")（スクウェア・エニックス）
+  - ノートン　360マルチデバイス／[諾頓網路安全大師](https://zh.wikipedia.org/wiki/諾頓網路安全大師 "wikilink")（ノートン）
   - GACKT×Kissmark　Rouge et
     Noir／[Kissmark](http://ja.wikipedia.org/wiki/Kissmark)
   - GACKT×VARTIX TVCM／[VARTIX](http://ja.wikipedia.org/wiki/VARTIX)
   - ホクトプレミアム霜降りひらたけ／好菇道（[ホクト](http://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AF%E3%83%88)）
-  - SHARP スマートフォンAQUOS系列短篇／[夏普](../Page/夏普.md "wikilink")
+  - SHARP
+    スマートフォンAQUOS系列短篇／[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")
   - BIG
     お金持ち入門篇／[日本スポーツ振興センター](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E6%8C%AF%E8%88%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC)（JSC）
   - オラクル美容皮膚科-花占い編；寝言編；熱々編；ライムソーダ編／[オラクル美容皮膚科](http://www.oracleclinic.jp/)
@@ -2419,7 +2430,7 @@ GACKT本人此五曲擔當。</small></p></td>
 ### 广播
 
   - 1999年4月～1999年9月
-    Gacktの[ラジオ黄金時代](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E9%BB%84%E9%87%91%E6%99%82%E4%BB%A3)「喰われた羊羹と齧られた蜜柑」／[JFN](../Page/JFN.md "wikilink")
+    Gacktの[ラジオ黄金時代](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E9%BB%84%E9%87%91%E6%99%82%E4%BB%A3)「喰われた羊羹と齧られた蜜柑」／[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")
   - 2002年4月～2003年3月
     Gacktの[@llnightnippon.com](http://ja.wikipedia.org/wiki/@llnightnippon.com)／[日本放送](../Page/日本放送.md "wikilink")（ニッポン放送）
   - 2003年4月～2005年3月
@@ -2492,14 +2503,14 @@ GACKT本人此五曲擔當。</small></p></td>
   - PS3《鋼彈VS鋼彈 極限對決》／配音：EX-
   - PS2《[武刃街](http://ja.wikipedia.org/wiki/%E6%AD%A6%E5%88%83%E8%A1%97)》／[太東](../Page/太東.md "wikilink")（2003年12月25日発売）／配音：劉王羽（同時為此角色的設計藍本及動作演員）
   - COMPILATION of [Final Fantasy
-    VII](../Page/Final_Fantasy_VII.md "wikilink")／[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")／配音：G
+    VII](https://zh.wikipedia.org/wiki/Final_Fantasy_VII "wikilink")／[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")／配音：G
     傑內西斯·拉普蘇道斯（ジェネシス・ラプソードス/[Genesis
     Rhapsodos](http://finalfantasy.wikia.com/wiki/Genesis_Rhapsodos)）（同時為此角色的設計藍本）
       - PS2《[地獄犬的輓歌
         -最終幻想VII-](../Page/地獄犬的輓歌_-最終幻想VII-.md "wikilink")》／（2006年1月26日発売）／演唱：主題曲、插入曲
       - PSP《[核心危機
         -最終幻想VII-](../Page/核心危機_-最終幻想VII-.md "wikilink")》／（2007年9月13日發售）
-  - PC線上遊戲《[龍之谷](../Page/龍之谷.md "wikilink")》／Eyedentity
+  - PC線上遊戲《[龍之谷](https://zh.wikipedia.org/wiki/龍之谷 "wikilink")》／Eyedentity
     Games／配音：貝斯柯德，演唱：主題曲（黑暗版）
   - 柏青哥《CRスロぱちんこグラディエーターエボリューション》／\[<http://ja.wikipedia.org/wiki/%E4%BA%AC%E6%A5%BD%E7%94%A3%E6%A5%AD>.
     京楽産業\]（機台完全使用GACKT本人所拍攝的影像及大量使用GACKT的樂曲）
@@ -2513,23 +2524,24 @@ GACKT本人此五曲擔當。</small></p></td>
   - [HOTEL
     VARTIX](http://hotelvx.com/)（IOS/Android）／[VARTIX](http://ja.wikipedia.org/wiki/VARTIX)
   - [3594e
-    -三国志英歌-](http://3594e.jp/)（IOS）／[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")／配音：[呂布](../Page/呂布.md "wikilink")；印象曲擔當（2015年12月15日終止服務）
+    -三国志英歌-](http://3594e.jp/)（IOS）／[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")／配音：[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")；印象曲擔當（2015年12月15日終止服務）
   - [楽園Lifeロイヤルパレス](https://yoyaku-top10.jp/u/a/MTM1NTU)（IOS）／Raystrike
     Inc.
   - \[<http://www.sengokushurasoul.jp/>　戦国修羅SOUL\]（IOS/Android/楽天アプリ）／クリーク・アンド・リバー社／配音：戦国GACKT、[上杉謙信](../Page/上杉謙信.md "wikilink")
-  - [逆転オセロニア](https://www.othellonia.com/)（IOS/Android）／[DeNA](../Page/DeNA.md "wikilink")／配音：魔天・ルエド
+  - [逆転オセロニア](https://www.othellonia.com/)（IOS/Android）／[DeNA](https://zh.wikipedia.org/wiki/DeNA "wikilink")／配音：魔天・ルエド
 
 ## 書籍
 
   - 2001年12月24日 素晴らしきかな人生／オリコン
-  - 2003年9月26日 自白／[光文社](../Page/光文社.md "wikilink")
+  - 2003年9月26日 自白／[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")
   - 2003年10月30日 MOON CHILD
     鎮魂歌【レクイエム】篇／[角川書店](../Page/角川書店.md "wikilink")
   - 2003年11月28日 素晴らしきかな人生2／オリコン
   - 2005年1月3日 中文版 MOON CHILD 鎮魂歌篇／[台灣角川](../Page/台灣角川.md "wikilink")
   - 2005年9月22日 素晴らしきかな人生3／オリコン
   - 2009年12月18日 GACKTIONARY／[角川書店](../Page/角川書店.md "wikilink")
-  - 2014年8月1日 MOON SAGA 義経秘伝／[講談社](../Page/講談社.md "wikilink")
+  - 2014年8月1日 MOON SAGA
+    義経秘伝／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
   - 2015年4月25日 GACKTの 格゛言集
     (ガクゲンシュウ)／[宝島社](http://ja.wikipedia.org/wiki/%E5%AE%9D%E5%B3%B6%E7%A4%BE)
 
@@ -2542,12 +2554,14 @@ GACKT本人此五曲擔當。</small></p></td>
   - 2003年3月1日 Gackt―君が追いかけた夢 (Sabra
     books)（大型本）／小林ばく／[小學館](../Page/小學館.md "wikilink")
   - 2003年3月1日 MOON CHILD―HYDE & Gackt写真集（単行本）／塚越健治／ワニブックス
-  - 2007年11月28日 龍の化身／野村誠一／[NHK出版](../Page/NHK.md "wikilink")
-  - 2011年1月19日 眠狂四郎 闇と月／野村誠一／[講談社](../Page/講談社.md "wikilink")
+  - 2007年11月28日
+    龍の化身／野村誠一／[NHK出版](https://zh.wikipedia.org/wiki/NHK "wikilink")
+  - 2011年1月19日 眠狂四郎
+    闇と月／野村誠一／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
   - 2011年2月28日 GACKT眠狂四郎無頼控POST CARD
-    BOOK／野村誠一／[講談社](../Page/講談社.md "wikilink")
+    BOOK／野村誠一／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
   - 2012年2月28日 Gackt in Europe: “Yellow Fried Chichkenz”2010-2011
-    写真集／竹中圭樹／[講談社](../Page/講談社.md "wikilink")
+    写真集／竹中圭樹／[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
   - 2013年8月1日 MOON SAGA-義経秘伝-舞台写真集／竹中圭樹／株式会社うぼん
   - 2015年6月下旬 第91期 神威♂楽園 de 雪上体イック祭 思ひ出アルバム
 
@@ -2570,7 +2584,7 @@ GACKT本人此五曲擔當。</small></p></td>
     REMINISCENCE II 〜鎮魂と再生〜 Dears限定版
   - 2009年11月30日 「VISUALIVE 2009 DOCUMENTARY BOOK」 GACKT REQUIEM ET
     REMINISCENCE II 〜鎮魂と再生〜
-    福家書店、[LAWSON限定版](../Page/LAWSON.md "wikilink")
+    福家書店、[LAWSON限定版](https://zh.wikipedia.org/wiki/LAWSON "wikilink")
   - 2012年12月5日 WORLD TOUR "SHOW UR SOUL.I" 世壊傷結愛魂祭JAPAN TOUR OFFICIAL
     PHOTO BOOK
   - 2014年5月 GACKT LIVE TOUR 2013 BEST OF THE BEST vol.I M/W
@@ -2593,7 +2607,7 @@ GACKT本人此五曲擔當。</small></p></td>
 ## 其他
 
   - 2008年7月31日 於音樂軟體[VOCALOID
-    2](../Page/VOCALOID.md "wikilink")：[GACKPOID](../Page/GACKPOID.md "wikilink")（がくっぽいど）擔任原音提供。軟體封面則由漫畫家[三浦建太郎所繪](../Page/三浦建太郎.md "wikilink")。
+    2](../Page/VOCALOID.md "wikilink")：[GACKPOID](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")（がくっぽいど）擔任原音提供。軟體封面則由漫畫家[三浦建太郎所繪](../Page/三浦建太郎.md "wikilink")。
 
 ## 外部链接
 

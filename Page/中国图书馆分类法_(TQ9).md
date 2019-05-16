@@ -1,6 +1,6 @@
 :\*TQ9 其他化学工业
 
-::\*TQ91 [农产物化学加工工业](../Page/农产物化学.md "wikilink")
+::\*TQ91 [农产物化学加工工业](https://zh.wikipedia.org/wiki/农产物化学 "wikilink")
 
 :::\*TQ911 基础理论
 
@@ -38,7 +38,7 @@
 
 :::\*TQ921 发酵法制有机酸
 
-::::\*TQ921+.1 [柠檬酸](../Page/柠檬酸.md "wikilink")
+::::\*TQ921+.1 [柠檬酸](https://zh.wikipedia.org/wiki/柠檬酸 "wikilink")
 
 ::::\*TQ921+.2 [葡萄糖酸](../Page/葡萄糖酸.md "wikilink")
 
@@ -54,7 +54,7 @@
 
 ::::\*TQ922+.2 [丙氨酸](../Page/丙氨酸.md "wikilink")
 
-::::\*TQ922+.3 [赖氨酸](../Page/赖氨酸.md "wikilink")
+::::\*TQ922+.3 [赖氨酸](https://zh.wikipedia.org/wiki/赖氨酸 "wikilink")
 
 ::::\*TQ922+.9 其他
 

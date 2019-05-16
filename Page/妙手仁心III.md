@@ -1,6 +1,6 @@
-《**妙手仁心III**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")、[吳美珩](../Page/吳美珩.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[曹永廉及](../Page/曹永廉.md "wikilink")[廖碧兒領銜主演](../Page/廖碧兒.md "wikilink")，監製[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第三輯。
+《**妙手仁心III**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")、[吳美珩](../Page/吳美珩.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[曹永廉及](../Page/曹永廉.md "wikilink")[廖碧兒領銜主演](../Page/廖碧兒.md "wikilink")，監製[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第三輯。
 
-此劇於2007年10月30日、2017年5月25日在[翡翠台](../Page/翡翠台.md "wikilink")，2016年2月27日在[TVB星河频道重播](../Page/TVB星河频道.md "wikilink")。
+此劇於2007年10月30日、2017年5月25日在[翡翠台](../Page/翡翠台.md "wikilink")，2016年2月27日在[TVB星河频道重播](https://zh.wikipedia.org/wiki/TVB星河频道 "wikilink")。
 
 ## 演員表
 
@@ -28,7 +28,7 @@
 王國彬妻子，後分開</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃鳳琼.md" title="wikilink">黃鳳-{琼}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳-{琼}-</a></p></td>
 <td><p>Daisy</p></td>
 <td><p>醫院公關</p></td>
 </tr>
@@ -95,7 +95,7 @@ Amy之丈夫，後分開<br />
 <td><p><strong><a href="../Page/吳啟華.md" title="wikilink">吳啟華</a></strong></p></td>
 <td><p><strong>程至美</strong></p></td>
 <td><p><strong>Paul</strong><br />
-<a href="../Page/腦外科.md" title="wikilink">腦外科首席顧問醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/腦外科" title="wikilink">腦外科首席顧問醫生</a><br />
 曾任仁愛醫院代理行政總監（第1及2集）<br />
 唐姿禮、何心妍、簡素媛前男友<br />
 岑雅晴男友<br />
@@ -105,7 +105,7 @@ Amy之丈夫，後分開<br />
 <td><p><strong><a href="../Page/陳豪.md" title="wikilink">陳　豪</a></strong></p></td>
 <td><p><strong>林敏智</strong></p></td>
 <td><p><strong>M.C.</strong><br />
-<a href="../Page/心臟外科.md" title="wikilink">心臟外科主診醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/心臟外科" title="wikilink">心臟外科主診醫生</a><br />
 簡素媛之前男友<br />
 Martha之前夫<br />
 林祖陽之養父<br />
@@ -117,7 +117,7 @@ SARS後患有骨枯</p></td>
 <td><p><strong><a href="../Page/邵美琪.md" title="wikilink">邵美琪</a></strong></p></td>
 <td><p><strong>萬安生</strong></p></td>
 <td><p><strong>Anson</strong><br />
-<a href="../Page/婦產科.md" title="wikilink">婦產科主診醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/婦產科" title="wikilink">婦產科主診醫生</a><br />
 萬寧生（第二輯已死）之姊<br />
 向眾仁之妻子<br />
 高樂之前女友<br />
@@ -127,7 +127,7 @@ SARS後患有骨枯</p></td>
 <td><p><strong><a href="../Page/吳美珩.md" title="wikilink">吳美珩</a></strong></p></td>
 <td><p><strong>葉　淘</strong></p></td>
 <td><p><strong>Sarah</strong><br />
-<a href="../Page/骨科.md" title="wikilink">骨科高級醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/骨科" title="wikilink">骨科高級醫生</a><br />
 岑雅晴之好友<br />
 曾患癌，後復發<br />
 林敏智對其有好感，後為好友<br />
@@ -253,12 +253,12 @@ SARS後患有骨枯</p></td>
 <td><p><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></p></td>
 <td><p>何心妍</p></td>
 <td><p><strong>Tracy</strong><br />
-前全<a href="../Page/外科.md" title="wikilink">外科醫生</a><br />
+前全<a href="https://zh.wikipedia.org/wiki/外科" title="wikilink">外科醫生</a><br />
 程至美前女友（第二輯）<br />
 何守仁女兒<br />
 何志泓之妹<br />
 於第1集意外身亡<br />
-罹患有<a href="../Page/癲癇症.md" title="wikilink">癲癇症</a>（第二輯）及<a href="../Page/精神分裂.md" title="wikilink">精神分裂</a>（第三輯）<br />
+罹患有<a href="https://zh.wikipedia.org/wiki/癲癇症" title="wikilink">癲癇症</a>（第二輯）及<a href="https://zh.wikipedia.org/wiki/精神分裂" title="wikilink">精神分裂</a>（第三輯）<br />
 （客串）</p></td>
 </tr>
 <tr class="odd">
@@ -295,7 +295,7 @@ SARS後患有骨枯</p></td>
 林祖陽之母</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/包駿寅.md" title="wikilink">包駿寅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/包駿寅" title="wikilink">包駿寅</a></p></td>
 <td><p>林祖陽</p></td>
 <td><p><strong>Joe</strong><br />
 Martha之子<br />
@@ -336,7 +336,7 @@ Martha之子<br />
 <td><p><strong>Alice</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/殷_櫻.md" title="wikilink">殷　櫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷_櫻" title="wikilink">殷　櫻</a></p></td>
 <td><p>史靜嘉</p></td>
 <td></td>
 </tr>
@@ -372,24 +372,24 @@ Martha之子<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>黃慧萍</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>任志昇</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/虞天偉.md" title="wikilink">虞天偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虞天偉" title="wikilink">虞天偉</a></p></td>
 <td><p>男病人</p></td>
 <td><p>因家庭慘劇而大鬧醫院<br />
 拔掉了救援儀器令自己的女兒有一線生機而變了不治死亡<br />
 最後被程至美打了一頓</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>譚禮堅</p></td>
 <td><p>救護員</p></td>
 </tr>
@@ -399,17 +399,17 @@ Martha之子<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>黎鎮岳</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/關_菁.md" title="wikilink">關　菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關_菁" title="wikilink">關　菁</a></p></td>
 <td><p>李成威</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張貝蒨.md" title="wikilink">張貝蒨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張貝蒨" title="wikilink">張貝蒨</a></p></td>
 <td><p>梁惠蓮</p></td>
 <td></td>
 </tr>
@@ -431,12 +431,12 @@ Martha之子<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李永豪.md" title="wikilink">李永豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李永豪" title="wikilink">李永豪</a></p></td>
 <td><p>康仔</p></td>
 <td><p>周寶珊之子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國威.md" title="wikilink">張國威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國威" title="wikilink">張國威</a></p></td>
 <td><p>張家傑（傑仔）</p></td>
 <td><p>弱智人士、勇明已逝舊同袍的弟弟<br />
 於第17集與譚勇明一同遭黑手黨殺害</p></td>
@@ -480,17 +480,17 @@ Martha之子<br />
 
 以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-|        |        |                                  |                                  |
-| ------ | ------ | -------------------------------- | -------------------------------- |
-| **週次** | **集數** | **平均收視**                         | **最高收視**                         |
-| 1      | 01-05  | 30[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 2      | 06-10  | 28[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 3      | 11-15  | 29[點](../Page/收視點.md "wikilink") | 32[點](../Page/收視點.md "wikilink") |
-| 4      | 16-20  | 29[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 5      | 21-25  | 28[點](../Page/收視點.md "wikilink") | 30[點](../Page/收視點.md "wikilink") |
-| 6      | 26-30  | 28[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 7      | 31-35  | 27[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") |
-| 8      | 36-40  | 27[點](../Page/收視點.md "wikilink") | 30[點](../Page/收視點.md "wikilink") |
+|        |        |                                                     |                                                     |
+| ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
+| **週次** | **集數** | **平均收視**                                            | **最高收視**                                            |
+| 1      | 01-05  | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2      | 06-10  | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3      | 11-15  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 32[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4      | 16-20  | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 5      | 21-25  | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 6      | 26-30  | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 7      | 31-35  | 27[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 8      | 36-40  | 27[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
 ## 製作特輯
 

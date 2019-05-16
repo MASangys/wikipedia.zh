@@ -1,28 +1,30 @@
-**POV-Ray**，全名是，是一个使用[光线跟踪绘制三维图像的](../Page/光线跟踪.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[自由軟體](../Page/自由軟體.md "wikilink")。运行POV脚本语言。它是基于[DKBTrace来开发的](../Page/DKBTrace.md "wikilink")，DKBTrace是由[David
-Kirk Buck和](../Page/David_Kirk_Buck.md "wikilink")[Aaron A.
-Collins编写在Amiga上的](../Page/Aaron_A._Collins.md "wikilink")。POV-Ray早期也受到了Polyray
+**POV-Ray**，全名是，是一个使用[光线跟踪绘制三维图像的](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。运行POV脚本语言。它是基于[DKBTrace来开发的](https://zh.wikipedia.org/wiki/DKBTrace "wikilink")，DKBTrace是由[David
+Kirk
+Buck和](https://zh.wikipedia.org/wiki/David_Kirk_Buck "wikilink")[Aaron
+A.
+Collins编写在Amiga上的](https://zh.wikipedia.org/wiki/Aaron_A._Collins "wikilink")。POV-Ray早期也受到了Polyray
 raytracer作者Alexander Enzmann的帮助。很多漂亮的图片就是由POV-Ray来制作的。
 
 ## 历史
 
 该软件最初发展始于80年代，是一個歷史悠久的三維算圖引擎。[David Kirk
-Buck下载了一个为](../Page/David_Kirk_Buck.md "wikilink")[Unix编写的](../Page/Unix.md "wikilink")[Amiga光线跟踪软件的](../Page/Amiga.md "wikilink")[source
-code](../Page/source_code.md "wikilink")。有趣的是，当他玩了一段时间后，他觉得应该自己写一个类似软件，最初名字叫[DKBTrace](../Page/DKBTrace.md "wikilink")。於是他將它贴在了一个论坛上面，以为别人会对它感兴趣。1987,
+Buck下载了一个为](https://zh.wikipedia.org/wiki/David_Kirk_Buck "wikilink")[Unix编写的](https://zh.wikipedia.org/wiki/Unix "wikilink")[Amiga光线跟踪软件的](../Page/Amiga.md "wikilink")[source
+code](https://zh.wikipedia.org/wiki/source_code "wikilink")。有趣的是，当他玩了一段时间后，他觉得应该自己写一个类似软件，最初名字叫[DKBTrace](https://zh.wikipedia.org/wiki/DKBTrace "wikilink")。於是他將它贴在了一个论坛上面，以为别人会对它感兴趣。1987,
 [Aaron
-Collins下载了](../Page/Aaron_Collins.md "wikilink")[DKBTrace然后开始了](../Page/DKBTrace.md "wikilink")[x86机器的移植工作](../Page/x86.md "wikilink")。他和[David
-Buck一起合作为它添加了更多功能](../Page/David_Buck.md "wikilink")。直到这个软件更加的流行，他们已经为了加新功能而应付不过来。1989,
+Collins下载了](https://zh.wikipedia.org/wiki/Aaron_Collins "wikilink")[DKBTrace然后开始了](https://zh.wikipedia.org/wiki/DKBTrace "wikilink")[x86机器的移植工作](https://zh.wikipedia.org/wiki/x86 "wikilink")。他和[David
+Buck一起合作为它添加了更多功能](https://zh.wikipedia.org/wiki/David_Buck "wikilink")。直到这个软件更加的流行，他们已经为了加新功能而应付不过来。1989,
 David把这个軟體变成了一个程序员团队合作的項目。这时候，他觉得已经没有资格来命名软件名字了。所以考虑了很多新的名字。"STAR"（为动画和渲染而生存的软件：Software
 Taskforce on Animation and
 Rendering）是一个最初的打算，但是最后变成了"持续不断更新版本的光线跟踪引擎Persistence
 of Vision Raytracer,"简写为"POV-Ray" .
 
-POV-Ray是第一个在[空间轨道渲染出图片的](../Page/空间轨道.md "wikilink")[光线跟踪软件](../Page/光线跟踪.md "wikilink")，由[马克·沙特尔沃思在](../Page/马克·沙特尔沃思.md "wikilink")[国际空间站渲染](../Page/国际空间站.md "wikilink")。
+POV-Ray是第一个在[空间轨道渲染出图片的](https://zh.wikipedia.org/wiki/空间轨道 "wikilink")[光线跟踪软件](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")，由[马克·沙特尔沃思在](../Page/马克·沙特尔沃思.md "wikilink")[国际空间站渲染](../Page/国际空间站.md "wikilink")。
 
 ## 特征
 
-POV-Ray不像一般的3D軟體有圖形化使用介面，其使用自有腳本語言來描述場景。POV腳本語言具備[圖靈完備性](../Page/圖靈完備性.md "wikilink")，可以編寫巨集以及迴圈程式。
+POV-Ray不像一般的3D軟體有圖形化使用介面，其使用自有腳本語言來描述場景。POV腳本語言具備[圖靈完備性](https://zh.wikipedia.org/wiki/圖靈完備性 "wikilink")，可以編寫巨集以及迴圈程式。
 
-  - 支援幾種幾何元素以及[構造實體幾何](../Page/構造實體幾何.md "wikilink")。
+  - 支援幾種幾何元素以及[構造實體幾何](https://zh.wikipedia.org/wiki/構造實體幾何 "wikilink")。
   - 物件表面的折射、反射。
   - 支援TGA、PNG影像格式
 
@@ -30,8 +32,8 @@ POV-Ray不像一般的3D軟體有圖形化使用介面，其使用自有腳本�
 
 最新的版本是3.7。
 
-  - 支援多核心CPU[對稱多處理](../Page/對稱多處理.md "wikilink")。
-  - 新增[高動態範圍成像](../Page/高動態範圍成像.md "wikilink")（HDRI）格式如[OpenEXR和](../Page/OpenEXR.md "wikilink")[Radiance輸入與輸出](../Page/Radiance.md "wikilink")。
+  - 支援多核心CPU[對稱多處理](https://zh.wikipedia.org/wiki/對稱多處理 "wikilink")。
+  - 新增[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（HDRI）格式如[OpenEXR和](../Page/OpenEXR.md "wikilink")[Radiance輸入與輸出](https://zh.wikipedia.org/wiki/Radiance "wikilink")。
 
 ## 基元
 

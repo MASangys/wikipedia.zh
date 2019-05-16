@@ -1,4 +1,4 @@
-  - TD [矿业工程](../Page/矿业工程.md "wikilink")
+  - TD [矿业工程](https://zh.wikipedia.org/wiki/矿业工程 "wikilink")
 
 :\*TD-0 矿业工程理论与方法论
 
@@ -6,7 +6,7 @@
 
 :\*TD-9 矿山经济
 
-:\*TD1 [矿山地质与测量](../Page/矿山.md "wikilink")
+:\*TD1 [矿山地质与测量](https://zh.wikipedia.org/wiki/矿山 "wikilink")
 
 ::\*TD11 矿床学
 
@@ -90,7 +90,7 @@
 
 :::\*TD178 矿山测量仪器与工具
 
-:\*TD2 [矿山设计与建设](../Page/矿山设计.md "wikilink")
+:\*TD2 [矿山设计与建设](https://zh.wikipedia.org/wiki/矿山设计 "wikilink")
 
 ::\*TD21 矿山设计
 
@@ -528,7 +528,7 @@
 
 ::::\*TD355+.9 其他
 
-:\*TD4 [矿山机械](../Page/矿山机械.md "wikilink")
+:\*TD4 [矿山机械](https://zh.wikipedia.org/wiki/矿山机械 "wikilink")
 
 ::\*TD40 一般性问题
 
@@ -736,7 +736,7 @@
 
 :::\*TD464 烧结、团矿机械
 
-:\*TD5 [矿山运输与设备](../Page/矿山运输.md "wikilink")
+:\*TD5 [矿山运输与设备](https://zh.wikipedia.org/wiki/矿山运输 "wikilink")
 
 ::\*TD52 井下运输与设备
 
@@ -854,7 +854,7 @@
 
 ::\*TD58 矿外运输
 
-:\*TD6 [矿山电工](../Page/矿山电工.md "wikilink")
+:\*TD6 [矿山电工](https://zh.wikipedia.org/wiki/矿山电工 "wikilink")
 
 :::\*TD601 理论
 
@@ -983,7 +983,7 @@
 :::\*TD687 检验技术
 
 :\*TD7
-[矿山安全与](../Page/矿山安全.md "wikilink")[劳动保护](../Page/劳动保护.md "wikilink")
+[矿山安全与](https://zh.wikipedia.org/wiki/矿山安全 "wikilink")[劳动保护](https://zh.wikipedia.org/wiki/劳动保护 "wikilink")
 
 ::\*TD71 矿井大气
 
@@ -1267,7 +1267,7 @@
 
 :::\*TD79+3 个体防护装备
 
-:\*TD8 [矿山开采](../Page/矿山开采.md "wikilink")
+:\*TD8 [矿山开采](https://zh.wikipedia.org/wiki/矿山开采 "wikilink")
 
 :::\*TD80-9 开采作业管理
 
@@ -1853,7 +1853,7 @@
 
 ::\*TD88 矿区复田
 
-:\*TD9 [选矿](../Page/选矿.md "wikilink")
+:\*TD9 [选矿](https://zh.wikipedia.org/wiki/选矿 "wikilink")
 
 ::\*TD91 选矿理论
 
@@ -2011,7 +2011,7 @@
 
 ::\*TD97 非金属矿选矿
 
-::\*TD98 [矿产资源的综合利用](../Page/矿产资源.md "wikilink")
+::\*TD98 [矿产资源的综合利用](https://zh.wikipedia.org/wiki/矿产资源 "wikilink")
 
 :::\*TD981 黑色金属矿产
 

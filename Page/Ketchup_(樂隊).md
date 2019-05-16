@@ -1,5 +1,5 @@
-**Ketchup**是[香港本地一人](../Page/香港.md "wikilink")[獨立樂隊](../Page/獨立樂隊.md "wikilink")，原本是3人組合，後來只剩**Ken
-Tsoi**一人。Ketchup的創作歌曲以溫情的城市[民謠音樂為主](../Page/民謠.md "wikilink")，常以個人的生活感覺為題材，其特色是全部歌曲皆為英文歌曲。
+**Ketchup**是[香港本地一人](../Page/香港.md "wikilink")[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")，原本是3人組合，後來只剩**Ken
+Tsoi**一人。Ketchup的創作歌曲以溫情的城市[民謠音樂為主](https://zh.wikipedia.org/wiki/民謠 "wikilink")，常以個人的生活感覺為題材，其特色是全部歌曲皆為英文歌曲。
 
 ## 起源
 
@@ -9,9 +9,9 @@ Tsoi**一人。Ketchup的創作歌曲以溫情的城市[民謠音樂為主](../P
 
 Ketchup起初成立時，三人均對樂器以致音樂沒有什麼認識，但大家因興趣而邊玩邊學。Ken一學會結他便開始嘗試作曲。
 
-1998年至1999年三人曾在[荃灣租了地方不分晝夜地玩音樂](../Page/荃灣.md "wikilink")。直至1999年底，因[亞洲金融風暴的影響下](../Page/亞洲金融風暴.md "wikilink")，三人不能再續租該處練歌，樂隊唯有暫時解散。
+1998年至1999年三人曾在[荃灣租了地方不分晝夜地玩音樂](../Page/荃灣.md "wikilink")。直至1999年底，因[亞洲金融風暴的影響下](https://zh.wikipedia.org/wiki/亞洲金融風暴 "wikilink")，三人不能再續租該處練歌，樂隊唯有暫時解散。
 
-Ken因個人工作關係，因此對製作唱片的一般運作及成本有所認識，加上他亦不想白費其樂隊多年來的心血，希望將作品發表。及至2000年，Ken便大膽地只以兩部[MD開始了機家庭作業式的錄音工作](../Page/MD.md "wikilink")。起初只想為他的音樂留下一個記錄，所以只用了兩部
+Ken因個人工作關係，因此對製作唱片的一般運作及成本有所認識，加上他亦不想白費其樂隊多年來的心血，希望將作品發表。及至2000年，Ken便大膽地只以兩部[MD開始了機家庭作業式的錄音工作](https://zh.wikipedia.org/wiki/MD "wikilink")。起初只想為他的音樂留下一個記錄，所以只用了兩部
 MD
 機灌錄自己的歌曲，但從朋友手中得來一部混音器後，便認真進行錄音的工作，整個過程都是他自己一手包辦，他亦覺得製作過程很有趣，並對出來效果感到滿意，因此便一直創作下去。
 
@@ -19,33 +19,33 @@ MD
 
 ## 關於Ken
 
-Ketchup的Ken在樂隊中身兼創作、結他手和主音。而事實上Ken是香港一位全職的圖像設計師，音樂創作是業餘興趣。中學時期，Ken只聽本地廣東流行歌曲，後來到[新加坡修讀](../Page/新加坡.md "wikilink")[圖像設計和](../Page/圖像設計.md "wikilink")[美術時](../Page/美術.md "wikilink")，同學推介了他不少音樂又帶他去看樂團演出。回港工作後，Ken認識了[JSD的](../Page/JSD.md "wikilink")[低音結他手](../Page/低音結他.md "wikilink")，自始認識了[Nirvana](../Page/Nirvana.md "wikilink")，因而開始他對樂隊及音樂的興趣。現時Ken仍十分欣賞[The
-Beatles](../Page/The_Beatles.md "wikilink")、[Travis等的旋律溫柔歌曲](../Page/Travis.md "wikilink")，他曾表示希望可以和[Whence
+Ketchup的Ken在樂隊中身兼創作、結他手和主音。而事實上Ken是香港一位全職的圖像設計師，音樂創作是業餘興趣。中學時期，Ken只聽本地廣東流行歌曲，後來到[新加坡修讀](../Page/新加坡.md "wikilink")[圖像設計和](https://zh.wikipedia.org/wiki/圖像設計 "wikilink")[美術時](../Page/美術.md "wikilink")，同學推介了他不少音樂又帶他去看樂團演出。回港工作後，Ken認識了[JSD的](https://zh.wikipedia.org/wiki/JSD "wikilink")[低音結他手](https://zh.wikipedia.org/wiki/低音結他 "wikilink")，自始認識了[Nirvana](https://zh.wikipedia.org/wiki/Nirvana "wikilink")，因而開始他對樂隊及音樂的興趣。現時Ken仍十分欣賞[The
+Beatles](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")、[Travis等的旋律溫柔歌曲](https://zh.wikipedia.org/wiki/Travis "wikilink")，他曾表示希望可以和[Whence
 He
-Came合作](../Page/Whence_He_Came.md "wikilink")。Ken住在鄉郊，所以曾自稱「鄉下佬」，卻因而能創造出與香港大城市繁忙生活中截然不同的作品，他在鄉郊的家中一手包辦構想、作曲、填詞、錄音、編曲和封面設計，然後再親自將自己的音樂送交別人印製。
+Came合作](https://zh.wikipedia.org/wiki/Whence_He_Came "wikilink")。Ken住在鄉郊，所以曾自稱「鄉下佬」，卻因而能創造出與香港大城市繁忙生活中截然不同的作品，他在鄉郊的家中一手包辦構想、作曲、填詞、錄音、編曲和封面設計，然後再親自將自己的音樂送交別人印製。
 
 Ken早期曾得到一些行內唱片監製及朋友的意見，可是由於不同意以商業元素和市場流行作為創作方針，便執意以自己的風格創音樂，他認為這是獨立樂隊對音樂應有的態度。
 
-Ken製作專輯的做法比較特別，一般人會先作歌然後選歌，之後才從歌曲中考慮唱片主題、封面及內頁的設計元素，Ken卻剛好相反。他是先想好大碟主題的，而因其本身是設計師，他甚至還想好封面設計等然後才開始以此主題開始作曲、作詞和錄音等工序，最後完成了才將部份混音交給混音公司，再行推出。Ken為了迴避難填的中文歌詞，一向全數歌曲以英文創作，卻時在填詞時遇上文法錯誤，但有時文法改對了卻與旋律不符。最終，他只好想出折衷的辦法就是歌曲唱原來的版本，不過歌詞頁則加上修正了的版本，可是這樣便變成歌詞與唱的不同。為了使Ken自己的音樂可以在現場表演時完整地演繹出來，所以Ketchup的歌曲都以基本樂器[木結他為主](../Page/木結他.md "wikilink")，形成了一種民歌風格。
+Ken製作專輯的做法比較特別，一般人會先作歌然後選歌，之後才從歌曲中考慮唱片主題、封面及內頁的設計元素，Ken卻剛好相反。他是先想好大碟主題的，而因其本身是設計師，他甚至還想好封面設計等然後才開始以此主題開始作曲、作詞和錄音等工序，最後完成了才將部份混音交給混音公司，再行推出。Ken為了迴避難填的中文歌詞，一向全數歌曲以英文創作，卻時在填詞時遇上文法錯誤，但有時文法改對了卻與旋律不符。最終，他只好想出折衷的辦法就是歌曲唱原來的版本，不過歌詞頁則加上修正了的版本，可是這樣便變成歌詞與唱的不同。為了使Ken自己的音樂可以在現場表演時完整地演繹出來，所以Ketchup的歌曲都以基本樂器[木結他為主](https://zh.wikipedia.org/wiki/木結他 "wikilink")，形成了一種民歌風格。
 
-Ken的創作靈感主要來自生活體驗，如[茶餐廳中或乘搭](../Page/茶餐廳.md "wikilink")[巴士時裝作聽著耳機](../Page/巴士.md "wikilink")，其實在偷聽別人的生活對話，他稱說這是他的重要靈感來源。
+Ken的創作靈感主要來自生活體驗，如[茶餐廳中或乘搭](../Page/茶餐廳.md "wikilink")[巴士時裝作聽著耳機](https://zh.wikipedia.org/wiki/巴士 "wikilink")，其實在偷聽別人的生活對話，他稱說這是他的重要靈感來源。
 
 雖然現時樂隊只剩Ketchup一人，但他仍保留了Ketchup之名字之原因是因為這是他與朋友一起創立的樂隊，或許日後他們三人有機會再次重組。
 
 Ken喜愛自稱Freaker，有時會以「The
-Freaker」的名義參與樂隊演出，其早期成員包括[王雙駿](../Page/王雙駿.md "wikilink")、[英師傅及肥仔明](../Page/英師傅.md "wikilink")；最喜愛的口號是「I
+Freaker」的名義參與樂隊演出，其早期成員包括[王雙駿](../Page/王雙駿.md "wikilink")、[英師傅及肥仔明](https://zh.wikipedia.org/wiki/英師傅 "wikilink")；最喜愛的口號是「I
 love my life, even though I'm a freaker.」
 
 2006年，Ken Tsoi推出最新專輯大碟《The Beautiful
-Things》並與另一獨立音樂人[林一峰組成樂團](../Page/林一峰.md "wikilink")「Bunsen
+Things》並與另一獨立音樂人[林一峰組成樂團](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「Bunsen
 Burner」。
 
 ## 曾合作音樂單位
 
   - Nigo - 時裝品牌[A Bathing
     Ape的主腦人物](../Page/A_Bathing_Ape.md "wikilink")。因大家工作關係及志趣相投曾合作製作音樂。
-  - [李燦森](../Page/李燦森.md "wikilink") -
-    香港[電影演員](../Page/電影演員.md "wikilink")。曾與Ken合作了一首歌曲《唔關你事》，後轉到另一本地樂隊[LMF](../Page/LMF.md "wikilink")。
+  - [李燦森](https://zh.wikipedia.org/wiki/李燦森 "wikilink") -
+    香港[電影演員](https://zh.wikipedia.org/wiki/電影演員 "wikilink")。曾與Ken合作了一首歌曲《唔關你事》，後轉到另一本地樂隊[LMF](../Page/LMF.md "wikilink")。
 
 ## 唱片專輯列表
 
@@ -194,8 +194,9 @@ side B
 
 <!-- end list -->
 
-  - 《**Freeplay**》（與[林一峰](../Page/林一峰.md "wikilink")（Chet Lam）、[The
-    Pancakes合作的專輯](../Page/The_Pancakes.md "wikilink")）/ 2004年3月20日
+  - 《**Freeplay**》（與[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")（Chet
+    Lam）、[The Pancakes合作的專輯](../Page/The_Pancakes.md "wikilink")）/
+    2004年3月20日
 
 <!-- end list -->
 
@@ -224,10 +225,10 @@ side B
 ## 現場演出
 
   - 「FM Union Show 1999」 -
-    是Ketchup早年三人時期曾參與的演出，由葛民輝籌劃，於[藝穗會演出](../Page/藝穗會.md "wikilink")。Ketchup亦有參與中學[聖誕舞會等小型演出](../Page/聖誕.md "wikilink")。
-  - 「Ketchup失憶前倒數音樂會」－2003年10月23日及10月24日一連兩晚Ketchup於[上環文娛中心劇院舉行](../Page/上環文娛中心劇院.md "wikilink")。當晚與音樂總監兼結他手是[英師傅](../Page/英師傅.md "wikilink")，低音結他手[麥文威](../Page/麥文威.md "wikilink")，鍵琴手[陳浩然及敲擊手](../Page/陳浩然.md "wikilink")[肥仔明等合作](../Page/肥仔明.md "wikilink")。
+    是Ketchup早年三人時期曾參與的演出，由葛民輝籌劃，於[藝穗會演出](../Page/藝穗會.md "wikilink")。Ketchup亦有參與中學[聖誕舞會等小型演出](https://zh.wikipedia.org/wiki/聖誕 "wikilink")。
+  - 「Ketchup失憶前倒數音樂會」－2003年10月23日及10月24日一連兩晚Ketchup於[上環文娛中心劇院舉行](https://zh.wikipedia.org/wiki/上環文娛中心劇院 "wikilink")。當晚與音樂總監兼結他手是[英師傅](https://zh.wikipedia.org/wiki/英師傅 "wikilink")，低音結他手[麥文威](https://zh.wikipedia.org/wiki/麥文威 "wikilink")，鍵琴手[陳浩然及敲擊手](https://zh.wikipedia.org/wiki/陳浩然 "wikilink")[肥仔明等合作](https://zh.wikipedia.org/wiki/肥仔明 "wikilink")。
   - 「1·2·3到你！音樂會」 -
-    是[香港藝術節主辦的活動之一](../Page/香港藝術節.md "wikilink")，Ketchup與另外兩位著名香港獨立音樂人[林一峰和](../Page/林一峰.md "wikilink")[The
+    是[香港藝術節主辦的活動之一](../Page/香港藝術節.md "wikilink")，Ketchup與另外兩位著名香港獨立音樂人[林一峰和](https://zh.wikipedia.org/wiki/林一峰 "wikilink")[The
     Pancakes合作演出](../Page/The_Pancakes.md "wikilink")。
 
 ## 外部連結

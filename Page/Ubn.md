@@ -1,15 +1,15 @@
-**Ubn**（英語：**Unbinilium**，化學符號為**Ubn**）是一種尚未被發現的化學元素，原子序數是120。在元素週期表中排列在第8周期、2族。其中子數為[幻數](../Page/幻數.md "wikilink")，根據[穩定島理論推測其](../Page/穩定島.md "wikilink")[半衰期极長](../Page/半衰期.md "wikilink")。
+**Ubn**（英語：**Unbinilium**，化學符號為**Ubn**）是一種尚未被發現的化學元素，原子序數是120。在元素週期表中排列在第8周期、2族。其中子數為[幻數](https://zh.wikipedia.org/wiki/幻數 "wikilink")，根據[穩定島理論推測其](https://zh.wikipedia.org/wiki/穩定島 "wikilink")[半衰期极長](https://zh.wikipedia.org/wiki/半衰期 "wikilink")。
 
 ## 合成嘗試
 
-2002年，[尤里·奥加涅相在](../Page/尤里·奥加涅相.md "wikilink")[俄羅斯](../Page/俄羅斯.md "wikilink")[杜布納的團隊於](../Page/杜布納.md "wikilink")[聯合核研究所](../Page/聯合核研究所.md "wikilink")（JINR）首次發現並觀測[鿫原子的衰變](../Page/鿫.md "wikilink")，\[1\]
-之後打算製作類似的實驗：從<sup>58</sup>[Fe和](../Page/铁.md "wikilink")<sup>244</sup>[Pu製造Ubn](../Page/钚.md "wikilink")。\[2\]
+2002年，[尤里·奥加涅相在](../Page/尤里·奥加涅相.md "wikilink")[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[杜布納的團隊於](https://zh.wikipedia.org/wiki/杜布納 "wikilink")[聯合核研究所](https://zh.wikipedia.org/wiki/聯合核研究所 "wikilink")（JINR）首次發現並觀測[鿫原子的衰變](../Page/鿫.md "wikilink")，\[1\]
+之後打算製作類似的實驗：從<sup>58</sup>[Fe和](https://zh.wikipedia.org/wiki/铁 "wikilink")<sup>244</sup>[Pu製造Ubn](../Page/钚.md "wikilink")。\[2\]
 Ubn同位素的半衰期預計以微秒計。\[3\]\[4\]
 
 ## 同位素与核特性
 
 \=== 能产生Z=120复核的目标、发射体组合 ===
-下表包含了各種實驗可用於形成複合核的[原子序為](../Page/原子序.md "wikilink")[120](../Page/120.md "wikilink")。
+下表包含了各種實驗可用於形成複合核的[原子序為](https://zh.wikipedia.org/wiki/原子序 "wikilink")[120](https://zh.wikipedia.org/wiki/120 "wikilink")。
 
 <table>
 <caption>達到Z=120复核的元素組合</caption>

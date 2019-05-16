@@ -1,8 +1,8 @@
 [c7m_logo.jpg](https://zh.wikipedia.org/wiki/File:c7m_logo.jpg "fig:c7m_logo.jpg")
 **VIA
-C7-M**是一款[x86](../Page/x86.md "wikilink")[处理器](../Page/处理器.md "wikilink")，由[威盛电子設計](../Page/VIA.md "wikilink")，它采用
+C7-M**是一款[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，由[威盛电子設計](https://zh.wikipedia.org/wiki/VIA "wikilink")，它采用
 **CoolStream** 处理器架构，uFCPGA 478封装，[IBM](../Page/IBM.md "wikilink") 90nm
-[SOI工艺](../Page/SOI.md "wikilink")，支持[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2和](../Page/SSE2.md "wikilink")[SSE3等多媒體指令集](../Page/SSE3.md "wikilink")。主要用於[筆記型電腦和](../Page/筆記型電腦.md "wikilink")[UMPC上](../Page/UMPC.md "wikilink")。開發代號為**Esther**
+[SOI工艺](../Page/SOI.md "wikilink")，支持[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2和](../Page/SSE2.md "wikilink")[SSE3等多媒體指令集](../Page/SSE3.md "wikilink")。主要用於[筆記型電腦和](../Page/筆記型電腦.md "wikilink")[UMPC上](https://zh.wikipedia.org/wiki/UMPC "wikilink")。開發代號為**Esther**
 **(C5J)**
 
 和之前VIA的处理器不同的是，它拥有64KB L1 Cache,128KB L2
@@ -49,15 +49,15 @@ VX700及VX700M是一晶片式晶片組，結構上是把VN800北橋加上VT8235M
 
 ## Padlock
 
-一种加密技术，除了前代VIA处理器的乱数产生器和[AES加密引擎外](../Page/AES.md "wikilink")，亦新加了[SHA1和](../Page/SHA-1.md "wikilink")[SHA256散列运算](../Page/SHA-256.md "wikilink")、[Montgomery
-Multiplier和](../Page/Montgomery_Multiplier.md "wikilink")[NX](../Page/NX_bit.md "wikilink")。
+一种加密技术，除了前代VIA处理器的乱数产生器和[AES加密引擎外](https://zh.wikipedia.org/wiki/AES "wikilink")，亦新加了[SHA1和](../Page/SHA-1.md "wikilink")[SHA256散列运算](https://zh.wikipedia.org/wiki/SHA-256 "wikilink")、[Montgomery
+Multiplier和](https://zh.wikipedia.org/wiki/Montgomery_Multiplier "wikilink")[NX](https://zh.wikipedia.org/wiki/NX_bit "wikilink")。
 
-而且，配合[StrongBOX軟件](../Page/StrongBOX.md "wikilink")，能在硬碟割出一个加密分割區。
+而且，配合[StrongBOX軟件](https://zh.wikipedia.org/wiki/StrongBOX "wikilink")，能在硬碟割出一个加密分割區。
 
 ## VIA C7產品
 
 因為C7系列處理器的功耗低、體積迷你，所以有不少電腦廠商推出個人桌上型電腦、精簡型電腦（Thin
-Client）、筆記型電腦和[UMPC](../Page/UMPC.md "wikilink")
+Client）、筆記型電腦和[UMPC](https://zh.wikipedia.org/wiki/UMPC "wikilink")
 
   - HP Compaq DX2020
   - HP Mini-Note 2133
@@ -75,13 +75,13 @@ Client）、筆記型電腦和[UMPC](../Page/UMPC.md "wikilink")
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
   - [VIA C3](../Page/VIA_C3.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA CoreFusion](../Page/VIA_CoreFusion.md "wikilink")
   - [VIA Eden](../Page/VIA_Eden.md "wikilink")
   - [VIA C7-D](../Page/VIA_C7-D.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
   - [VIA Nano](../Page/VIA_Nano.md "wikilink")
 
 ## 外部連結

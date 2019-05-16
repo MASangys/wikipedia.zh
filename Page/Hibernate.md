@@ -1,10 +1,10 @@
-**Hibernate**是一种[Java语言下的](../Page/Java.md "wikilink")[对象关系映射解决方案](../Page/对象关系映射.md "wikilink")。它是使用[GNU宽通用公共许可证发行的](../Page/GNU宽通用公共许可证.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[开源的软件](../Page/开源软件.md "wikilink")。它为[面向对象的](../Page/面向对象.md "wikilink")[领域模型到传统的](../Page/领域模型.md "wikilink")[关系型数据库的映射](../Page/关系数据库.md "wikilink")，提供了一个使用方便的框架。
+**Hibernate**是一种[Java语言下的](../Page/Java.md "wikilink")[对象关系映射解决方案](../Page/对象关系映射.md "wikilink")。它是使用[GNU宽通用公共许可证发行的](../Page/GNU宽通用公共许可证.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[开源的软件](../Page/开源软件.md "wikilink")。它为[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[领域模型到传统的](https://zh.wikipedia.org/wiki/领域模型 "wikilink")[关系型数据库的映射](../Page/关系数据库.md "wikilink")，提供了一个使用方便的框架。
 
 ## 概览
 
-它的设计目标是将软件开发人员从大量相同的[数据持久层相关编程工作中解放出来](../Page/数据持久层.md "wikilink")。无论是从设计草案还是从一个[遗留数据库开始](../Page/遗留系统.md "wikilink")，开发人员都可以采用Hibernate。
+它的设计目标是将软件开发人员从大量相同的[数据持久层相关编程工作中解放出来](https://zh.wikipedia.org/wiki/数据持久层 "wikilink")。无论是从设计草案还是从一个[遗留数据库开始](https://zh.wikipedia.org/wiki/遗留系统 "wikilink")，开发人员都可以采用Hibernate。
 
-Hibernate不仅负责从Java[类到数据库表的映射](../Page/类_\(计算机科学\).md "wikilink")（还包括从Java数据类型到SQL数据类型的映射），还提供了面向对象的数据查询检索机制，从而极大地缩短了手动处理[SQL和](../Page/SQL.md "wikilink")[JDBC上的开发时间](../Page/JDBC.md "wikilink")。
+Hibernate不仅负责从Java[类到数据库表的映射](../Page/类_\(计算机科学\).md "wikilink")（还包括从Java数据类型到SQL数据类型的映射），还提供了面向对象的数据查询检索机制，从而极大地缩短了手动处理[SQL和](../Page/SQL.md "wikilink")[JDBC上的开发时间](https://zh.wikipedia.org/wiki/JDBC "wikilink")。
 
 ## 发展历程
 
@@ -43,7 +43,7 @@ MyEclipse：由Genuitec公司开发的一款商业化软件，是应用比较广
 ## .NET上的Hibernate
 
 Hibernate有個在.NET Framework上的實作版本，稱為NHibernate，在[ADO.NET Entity
-Framework發表之前](../Page/ADO.NET_Entity_Framework.md "wikilink")，NHibernate是在.NET
+Framework發表之前](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink")，NHibernate是在.NET
 Framework上經常被使用的ORM實作。
 
 ## 参考文献

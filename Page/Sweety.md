@@ -1,6 +1,6 @@
-**Sweety**，[台灣的](../Page/台灣.md "wikilink")[女子歌唱組合](../Page/女子.md "wikilink")，由[劉品言和](../Page/劉品言.md "wikilink")[曾之喬所組成](../Page/曾之喬.md "wikilink")。2003年正式召開記者會，當年出道時，兩人均只有十四歲，(新加坡華人女子團體[BY2則為](../Page/BY2.md "wikilink")16歲時出道)成為台灣史上最年輕的少女團體，至今仍未有團體打破（不含[大小姐或](../Page/大小姐_\(組合\).md "wikilink")[左左右右等童星組合](../Page/左左右右.md "wikilink")）。經過幾年的發展，兩人在[戲劇及](../Page/戲劇.md "wikilink")[歌唱上都各有亮眼的表現](../Page/歌唱.md "wikilink")。直至2007年，其中成員劉品言決定暫停其演藝事業，前往[法國](../Page/法國.md "wikilink")[巴黎](../Page/巴黎.md "wikilink")[留學](../Page/留學.md "wikilink")，Sweety團體單飛不解散。Sweety曾經在2008年播映的《型男大主廚》中提及到兩人單飛不解散，在2009年播映的《百萬大歌星》中，曾之喬也說到了兩人單飛不解散的事情。2015年，劉品言和曾之喬也多次在專訪提到兩人還在努力尋找最佳的合體機會。同年12月12日，兩人在三立華劇大賞頒獎典禮上正式合體。
+**Sweety**，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子歌唱組合](https://zh.wikipedia.org/wiki/女子 "wikilink")，由[劉品言和](../Page/劉品言.md "wikilink")[曾之喬所組成](../Page/曾之喬.md "wikilink")。2003年正式召開記者會，當年出道時，兩人均只有十四歲，(新加坡華人女子團體[BY2則為](https://zh.wikipedia.org/wiki/BY2 "wikilink")16歲時出道)成為台灣史上最年輕的少女團體，至今仍未有團體打破（不含[大小姐或](../Page/大小姐_\(組合\).md "wikilink")[左左右右等童星組合](../Page/左左右右.md "wikilink")）。經過幾年的發展，兩人在[戲劇及](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[歌唱上都各有亮眼的表現](https://zh.wikipedia.org/wiki/歌唱 "wikilink")。直至2007年，其中成員劉品言決定暫停其演藝事業，前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[留學](https://zh.wikipedia.org/wiki/留學 "wikilink")，Sweety團體單飛不解散。Sweety曾經在2008年播映的《型男大主廚》中提及到兩人單飛不解散，在2009年播映的《百萬大歌星》中，曾之喬也說到了兩人單飛不解散的事情。2015年，劉品言和曾之喬也多次在專訪提到兩人還在努力尋找最佳的合體機會。同年12月12日，兩人在三立華劇大賞頒獎典禮上正式合體。
 
-劉品言於2009年暑假過後，把學校由巴黎轉至[上海分校以方便工作](../Page/上海.md "wikilink")，並重返演藝界，但Sweety同台的蹤影仍寥寥可數，不過兩人私下仍是好朋友。目前兩人屬不同經紀公司，但據兩人透露，將來仍有合作的機會。
+劉品言於2009年暑假過後，把學校由巴黎轉至[上海分校以方便工作](https://zh.wikipedia.org/wiki/上海 "wikilink")，並重返演藝界，但Sweety同台的蹤影仍寥寥可數，不過兩人私下仍是好朋友。目前兩人屬不同經紀公司，但據兩人透露，將來仍有合作的機會。
 
 ## 成員
 
@@ -22,7 +22,7 @@
 <td><p>Esther</p></td>
 <td><p>言言</p></td>
 <td></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -116,7 +116,7 @@
 </ul>
 <dl>
 <dt></dt>
-<dd>《櫻花草》為電視劇《<a href="../Page/星蘋果樂園.md" title="wikilink">星蘋果樂園</a>》插曲及《<a href="../Page/米可，GO！.md" title="wikilink">米可，GO！</a>》主題曲
+<dd>《櫻花草》為電視劇《<a href="https://zh.wikipedia.org/wiki/星蘋果樂園" title="wikilink">星蘋果樂園</a>》插曲及《<a href="../Page/米可，GO！.md" title="wikilink">米可，GO！</a>》主題曲
 </dd>
 </dl>
 <ul>
@@ -140,7 +140,7 @@
       - 全新人作品，sweety擔任代言人並獻唱兩首《Sweety》&《愛是怎麼一回事》
   - 2005年11月《[綠光森林](../Page/綠光森林.md "wikilink")》電視原聲帶《勇敢的幸福》
       - 原曲為[Kinki
-        Kids的](../Page/Kinki_Kids.md "wikilink")《[在我背上的翅膀](../Page/在我背上的翅膀.md "wikilink")》
+        Kids的](https://zh.wikipedia.org/wiki/Kinki_Kids "wikilink")《[在我背上的翅膀](../Page/在我背上的翅膀.md "wikilink")》
   - 2007年2月13日[豐華唱片合輯](../Page/豐華唱片.md "wikilink")《再愛一次》
 
 #### 其他歌曲
@@ -185,8 +185,8 @@
 <tr class="even">
 <td><center>
 <p>2005年1月</p></td>
-<td><p><a href="../Page/中視_(頻道).md" title="wikilink">中視</a>、<a href="../Page/重慶衛視.md" title="wikilink">重慶衛視</a></p></td>
-<td><p>《<a href="../Page/仙劍奇俠傳_(電視劇).md" title="wikilink">仙劍奇俠傳</a>》</p></td>
+<td><p><a href="../Page/中視_(頻道).md" title="wikilink">中視</a>、<a href="https://zh.wikipedia.org/wiki/重慶衛視" title="wikilink">重慶衛視</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/仙劍奇俠傳_(電視劇)" title="wikilink">仙劍奇俠傳</a>》</p></td>
 <td><p>劉品言飾演 阿奴<br />
 曾之喬飾演 秀蘭</p></td>
 <td><p>女配角<br />
@@ -206,7 +206,7 @@
 <td><center>
 <p>2005年</p></td>
 <td><p>三立都會台</p></td>
-<td><p>《<a href="../Page/大熊醫師家.md" title="wikilink">大熊醫師家</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/大熊醫師家" title="wikilink">大熊醫師家</a>》</p></td>
 <td><p>劉品言飾演 言言<br />
 曾之喬飾演 喬喬</p></td>
 <td><p>客串<br />
@@ -239,7 +239,7 @@
 <tr class="even">
 <td><center>
 <p>2007年7月</p></td>
-<td><p>華視、<a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
+<td><p>華視、<a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>《<a href="../Page/又見一簾幽夢.md" title="wikilink">又見一簾幽夢</a>》</p></td>
 <td><p>曾之喬飾演 劉雨珊（613）</p></td>
 <td><p>女配角</p></td>
@@ -256,7 +256,7 @@
 <td><center>
 <p>2007年</p></td>
 <td><p>上海東方電影頻道</p></td>
-<td><p>《<a href="../Page/聊齋_(2007年電視劇).md" title="wikilink">聊齋2</a>-粉蝶》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/聊齋_(2007年電視劇)" title="wikilink">聊齋2</a>-粉蝶》</p></td>
 <td><p>劉品言飾演 粉蝶</p></td>
 <td><p>女主角</p></td>
 </tr>
@@ -292,11 +292,11 @@
 ### 主持
 
   - 2005年
-    [東風衛視](../Page/東風衛視.md "wikilink")：[阿給大滿冠](../Page/阿給大滿冠.md "wikilink")
+    [東風衛視](../Page/東風衛視.md "wikilink")：[阿給大滿冠](https://zh.wikipedia.org/wiki/阿給大滿冠 "wikilink")
   - 2005年
-    [台視](../Page/台視主頻.md "wikilink")：[齊天大勝](../Page/齊天大勝.md "wikilink")
+    [台視](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")：[齊天大勝](../Page/齊天大勝.md "wikilink")
   - 2006年
-    [衛視中文台](../Page/衛視中文台.md "wikilink")：[電玩特攻](../Page/電玩特攻.md "wikilink")
+    [衛視中文台](../Page/衛視中文台.md "wikilink")：[電玩特攻](https://zh.wikipedia.org/wiki/電玩特攻 "wikilink")
 
 ## 廣告
 
@@ -313,7 +313,7 @@
 
 ## 相關連結
 
-  - [BY2](../Page/BY2.md "wikilink")
+  - [BY2](https://zh.wikipedia.org/wiki/BY2 "wikilink")
 
 ## 參考資料
 

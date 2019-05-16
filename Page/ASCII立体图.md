@@ -1,7 +1,7 @@
 **ASCII立体图**（ASCII
-stereogram），是[ASCII艺术的一种形式](../Page/ASCII艺术.md "wikilink")，它利用觀察[图像時](../Page/图像.md "wikilink")，令視線产生适当的交叉从而生成[三维图像的](../Page/三维.md "wikilink")[错视](../Page/错视.md "wikilink")。
+stereogram），是[ASCII艺术的一种形式](../Page/ASCII艺术.md "wikilink")，它利用觀察[图像時](https://zh.wikipedia.org/wiki/图像 "wikilink")，令視線产生适当的交叉从而生成[三维图像的](https://zh.wikipedia.org/wiki/三维 "wikilink")[错视](https://zh.wikipedia.org/wiki/错视 "wikilink")。
 
-以图1为例，为了得到[三维效果](../Page/三维.md "wikilink")，观察者需要使眼睛偏离[聚焦状态](../Page/聚焦.md "wikilink")，这样同一行中的两个相邻字符就会贴近到一起。为了帮助聚焦，努力使两个顶上的两个大写字母
+以图1为例，为了得到[三维效果](https://zh.wikipedia.org/wiki/三维 "wikilink")，观察者需要使眼睛偏离[聚焦状态](https://zh.wikipedia.org/wiki/聚焦 "wikilink")，这样同一行中的两个相邻字符就会贴近到一起。为了帮助聚焦，努力使两个顶上的两个大写字母
 O 看起来像三个，确保中间那个 O
 的图像稳定并且位于焦点之上。一旦做到了这一点，往下看下面的图像，这时三维效果就很明显了：7列字母會呈現遠近相間的視覺效果。如果图
 1 底部的两个 O 看起来像三个，那么遠近效果就会相反。另外也可以通过视线交叉观察到相反的三维效果。
@@ -69,8 +69,8 @@ r   r   r   r   r   r   r   r   r   r   r   r   r   r   r   r   r
 -----
 
 图 3 根据与单图像随机点立体图（Single Image Random Dot Stereogram，简称
-[SIRDS](../Page/SIRDS.md "wikilink")）同样的思想显示了一个单图像随机文本立体图（Single Image
-Random Text Stereogram，简称 SIRTS）。当立体图像变得清楚的时候就可以看到浮雕中的“Hi”。
+[SIRDS](https://zh.wikipedia.org/wiki/SIRDS "wikilink")）同样的思想显示了一个单图像随机文本立体图（Single
+Image Random Text Stereogram，简称 SIRTS）。当立体图像变得清楚的时候就可以看到浮雕中的“Hi”。
 
 -----
 
@@ -171,9 +171,10 @@ alone.                  alone.
 ## 致谢
 
 图 1、2、3 与 4 分别归属于 David B. Thomas、[Jonathan
-Bowen](../Page/Jonathan_Bowen.md "wikilink")、Charles Durst 与 Marty
-Hewes。这四幅立体图出现在公开的 *alt.3d* [USENET](../Page/Usenet.md "wikilink")
-[新闻组](../Page/新闻组.md "wikilink") 中。图 5 是一位维基人现场作出来的。
+Bowen](https://zh.wikipedia.org/wiki/Jonathan_Bowen "wikilink")、Charles
+Durst 与 Marty Hewes。这四幅立体图出现在公开的 *alt.3d*
+[USENET](../Page/Usenet.md "wikilink") [新闻组](../Page/新闻组.md "wikilink")
+中。图 5 是一位维基人现场作出来的。
 
 最初由 *[ASCII
 Stereograms](https://web.archive.org/web/20080517013244/http://archive.museophile.org/3d/ascii-3d.html)*
@@ -186,7 +187,8 @@ Stereograms](https://web.archive.org/web/20080517013244/http://archive.museophil
     Generator](http://www.kammerl.de/ascii/AsciiStereoMovie.php)
   - [ASCII
     Stereograms](https://web.archive.org/web/20080517013244/http://archive.museophile.org/3d/ascii-3d.html)
-    by [Jonathan Bowen](../Page/Jonathan_Bowen.md "wikilink")
+    by [Jonathan
+    Bowen](https://zh.wikipedia.org/wiki/Jonathan_Bowen "wikilink")
   - [Random-ASCII
     Stereograms](https://web.archive.org/web/20050218074826/http://www.mindspring.com/~dcovin/stereo.html)
   - [ASCII art stereogram

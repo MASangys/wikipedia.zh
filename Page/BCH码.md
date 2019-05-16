@@ -1,15 +1,15 @@
 **BCH码**（BCH codes、Bose–Chaudhuri–Hocquenghem
-codes）為取自Bose、Ray-Chaudhuri与Hocquenghem的缩写，是[编码理论尤其是](../Page/编码理论.md "wikilink")[纠错码中研究得比较多的一种编码方法](../Page/纠错码.md "wikilink")。用术语来说，BCH码是用于校正多个随机错误模式的多级、循环、错误校正、变长数字编码。BCH码也可以用于[质数级或者](../Page/质数.md "wikilink")[质数的幂级的多级](../Page/质数.md "wikilink")[相移键控](../Page/相移键控.md "wikilink")。11级的BCH码已经用于表示10进制数外加一个符号位。
+codes）為取自Bose、Ray-Chaudhuri与Hocquenghem的缩写，是[编码理论尤其是](../Page/编码理论.md "wikilink")[纠错码中研究得比较多的一种编码方法](https://zh.wikipedia.org/wiki/纠错码 "wikilink")。用术语来说，BCH码是用于校正多个随机错误模式的多级、循环、错误校正、变长数字编码。BCH码也可以用于[质数级或者](https://zh.wikipedia.org/wiki/质数 "wikilink")[质数的幂级的多级](https://zh.wikipedia.org/wiki/质数 "wikilink")[相移键控](https://zh.wikipedia.org/wiki/相移键控 "wikilink")。11级的BCH码已经用于表示10进制数外加一个符号位。
 
 ## 构建
 
 BCH
-码使用有限域上的[域論与多项式](../Page/域論.md "wikilink")。为了检测错误可以构建一个检测多项式，这样接收端就可以检测是否有错误发生。
+码使用有限域上的[域論与多项式](https://zh.wikipedia.org/wiki/域論 "wikilink")。为了检测错误可以构建一个检测多项式，这样接收端就可以检测是否有错误发生。
 
 要构建一个能够检测、校正两个错误的 BCH 码，我们要使用[有限域](../Page/有限域.md "wikilink") GF(16) 或者
 **Z**<sub>2</sub>\[*x*\]／\<*x*<sup>4</sup> + *x* + 1\>。如果 α 是
 *m*<sub>1</sub>(*x*) = *x*<sup>4</sup> + *x* + 1 的一个根，那么 *m*<sub>1</sub>
-就是 α 的[极小多项式](../Page/极小多项式.md "wikilink")，这是因为
+就是 α 的[极小多项式](https://zh.wikipedia.org/wiki/极小多项式 "wikilink")，这是因为
 
   -
     *m*<sub>1</sub>(*x*) = (*x* - α)(*x* - α<sup>2</sup>)(*x* -
@@ -98,7 +98,7 @@ BCH 的解码过程可以分为以下四步
 这与 *S*<sub>1</sub><sup>3</sup> 不同，所以我们认为有两个错误。更进一步的代数方法可以帮助校正着两个错误。
 
 *开头两段内容出自 [Federal Standard
-1037C](../Page/Federal_Standard_1037C.md "wikilink")*
+1037C](https://zh.wikipedia.org/wiki/Federal_Standard_1037C "wikilink")*
 
 上面的文字摘自：http://bch-code.foosquare.com/
 
@@ -180,7 +180,7 @@ s_{2t}\end{bmatrix}\) 的矩阵 \(c_{tx1}\)
 对于二进制的BCH码，可以直接根据错误定位多项式因数素元指数的位置校正接收到的向量。最后，对这些位置接收到的数值取反，就可以得到正确的BCH解码码字。
 
 另外也可以使用[Berlekamp-Massey
-算法确定错误定位多项式](../Page/Berlekamp-Massey_算法.md "wikilink")，从而解决BCH解码的问题。
+算法确定错误定位多项式](https://zh.wikipedia.org/wiki/Berlekamp-Massey_算法 "wikilink")，从而解决BCH解码的问题。
 
 ## 參考文獻
 

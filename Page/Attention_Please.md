@@ -1,14 +1,14 @@
 《**ATTENTION
-PLEASE**》（）是[日本劇作家](../Page/日本.md "wikilink")[上條逸雄以](../Page/上條逸雄.md "wikilink")[航空業界為舞台的原作](../Page/航空.md "wikilink")[電視](../Page/電視.md "wikilink")[劇本](../Page/劇本.md "wikilink")，於1970年製作成[電視劇](../Page/日本電視劇.md "wikilink")，由[紀比呂子主演](../Page/紀比呂子.md "wikilink")。及後於2006年再次製作，由[上戶彩主演](../Page/上戶彩.md "wikilink")。漫畫家[細川知榮子便以此劇為基礎把作品漫畫化](../Page/細川知榮子.md "wikilink")。
+PLEASE**》（）是[日本劇作家](../Page/日本.md "wikilink")[上條逸雄以](https://zh.wikipedia.org/wiki/上條逸雄 "wikilink")[航空業界為舞台的原作](../Page/航空.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[劇本](https://zh.wikipedia.org/wiki/劇本 "wikilink")，於1970年製作成[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[紀比呂子主演](https://zh.wikipedia.org/wiki/紀比呂子 "wikilink")。及後於2006年再次製作，由[上戶彩主演](../Page/上戶彩.md "wikilink")。漫畫家[細川知榮子便以此劇為基礎把作品漫畫化](https://zh.wikipedia.org/wiki/細川知榮子 "wikilink")。
 
 該劇的名稱是擇自[機場及飛機艙內向旅客廣播時慣性使用的前置術語](../Page/機場.md "wikilink")「Attention
 Please」的音譯。
 
-2006年版[台譯](../Page/台灣.md "wikilink")「**空姐特訓班**」。[港譯](../Page/香港.md "wikilink")「**我要做空姐**」，译名受港產電影「**我要做Model**」的影響所致。而[中國大陸則譯為](../Page/中國大陸.md "wikilink")「**甜心空姐**」。
+2006年版[台譯](https://zh.wikipedia.org/wiki/台灣 "wikilink")「**空姐特訓班**」。[港譯](../Page/香港.md "wikilink")「**我要做空姐**」，译名受港產電影「**我要做Model**」的影響所致。而[中國大陸則譯為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")「**甜心空姐**」。
 
 ## 1970年電視劇
 
-1970年8月－1971年3月期間於[東京放送播出](../Page/東京放送.md "wikilink")，共製作32集。故事講述主角在高中畢業後，參加了[機艙服務員考試](../Page/機艙服務員.md "wikilink")。合格後前往[東京](../Page/東京.md "wikilink")，接受嚴格的訓練並以成為國際線[空中小姐為志願](../Page/空中小姐.md "wikilink")。這套劇被認為用以加強人們對機艙服務員這一行業的認識。該劇當時與[日本航空公司合作拍攝](../Page/日本航空公司.md "wikilink")。劇中演員所穿的是該公司第五代空姐制服。經常與1983年推出的《[空中小姐](../Page/空中小姐_\(电视剧\).md "wikilink")》（，主演：）作比較。著名的對白是「我要成為世界第一的空中小姐。」
+1970年8月－1971年3月期間於[東京放送播出](https://zh.wikipedia.org/wiki/東京放送 "wikilink")，共製作32集。故事講述主角在高中畢業後，參加了[機艙服務員考試](https://zh.wikipedia.org/wiki/機艙服務員 "wikilink")。合格後前往[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，接受嚴格的訓練並以成為國際線[空中小姐為志願](https://zh.wikipedia.org/wiki/空中小姐 "wikilink")。這套劇被認為用以加強人們對機艙服務員這一行業的認識。該劇當時與[日本航空公司合作拍攝](https://zh.wikipedia.org/wiki/日本航空公司 "wikilink")。劇中演員所穿的是該公司第五代空姐制服。經常與1983年推出的《[空中小姐](../Page/空中小姐_\(电视剧\).md "wikilink")》（，主演：）作比較。著名的對白是「我要成為世界第一的空中小姐。」
 
 ### 主要演員
 
@@ -54,20 +54,20 @@ Please」的音譯。
 
 OH PRETTY WOMAN{{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 岩田祐二 | 國家 =  | 頻道 =
 [富士電視台](../Page/富士電視台.md "wikilink") | 語言 =
-[日語](../Page/日語.md "wikilink") | 播出國家 =  | 開始 = 2006年4月18日 | 結束
-= 2006年6月27日 | 集數 = 11集+2集特別篇 | 官方網站 =
+[日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | 播出國家 =  | 開始 =
+2006年4月18日 | 結束 = 2006年6月27日 | 集數 = 11集+2集特別篇 | 官方網站 =
 <http://www.fujitv.co.jp/b_hp/AP/> | imdb_id = | tv_com_id = | 台灣名稱=
 空姐特訓班
 特別篇：來去夏威夷&飛向澳洲雪梨（[緯來日本台](../Page/緯來日本台.md "wikilink")） | 港澳名稱= 我要做空姐
 特別篇：反轉夏威夷（[香港有線電視](../Page/香港有線電視.md "wikilink")） | 中國大陸名稱=
-甜心空姐（[上海](../Page/上海.md "wikilink")[東方電影頻道](../Page/東方電影頻道.md "wikilink")）
+甜心空姐（[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[東方電影頻道](https://zh.wikipedia.org/wiki/東方電影頻道 "wikilink")）
 }}
 
-[富士電視台於](../Page/富士電視台.md "wikilink")2006年4月18日－6月27日每逢星期二播出，共11集，第1集延長15分鐘，最後一集則延長10分鐘。由[上戶彩](../Page/上戶彩.md "wikilink")、[錦戶亮主演](../Page/錦戶亮.md "wikilink")。在[台灣則由](../Page/台灣.md "wikilink")[緯來日本台以](../Page/緯來日本台.md "wikilink")「[空姐特訓班](../Page/空姐特訓班.md "wikilink")」名稱播映。[香港則在](../Page/香港.md "wikilink")2007年3月22日－4月5日（6日及9日播映夏威夷特別篇）在[香港有線電視娛樂台播映](../Page/香港有線電視娛樂台.md "wikilink")，名為「我要做空姐」。在中國，[上海東方電影頻道則由](../Page/上海.md "wikilink")2007年6月25日－7月2日播映，名為「甜心空姐」，[馬來西亞則在](../Page/馬來西亞.md "wikilink")2008年3月23日－6月8日在[八度空間播映](../Page/八度空间_\(电视台\).md "wikilink")，名為「空姐特訓班」。
+[富士電視台於](../Page/富士電視台.md "wikilink")2006年4月18日－6月27日每逢星期二播出，共11集，第1集延長15分鐘，最後一集則延長10分鐘。由[上戶彩](../Page/上戶彩.md "wikilink")、[錦戶亮主演](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")。在[台灣則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台以](../Page/緯來日本台.md "wikilink")「[空姐特訓班](https://zh.wikipedia.org/wiki/空姐特訓班 "wikilink")」名稱播映。[香港則在](../Page/香港.md "wikilink")2007年3月22日－4月5日（6日及9日播映夏威夷特別篇）在[香港有線電視娛樂台播映](https://zh.wikipedia.org/wiki/香港有線電視娛樂台 "wikilink")，名為「我要做空姐」。在中國，[上海東方電影頻道則由](https://zh.wikipedia.org/wiki/上海 "wikilink")2007年6月25日－7月2日播映，名為「甜心空姐」，[馬來西亞則在](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")2008年3月23日－6月8日在[八度空間播映](../Page/八度空间_\(电视台\).md "wikilink")，名為「空姐特訓班」。
 與前作相同，2006年版的「ATTENTION
-PLEASE」也是與[日本航空公司共同製作](../Page/日本航空公司.md "wikilink")．在登場人物方面，兩個版本的主角雖同是稱「美咲洋子」，但其他角色則有所改變．例如前作的教官稱「三上」，而現代版則稱「三神」，性別也由男性改為女性（因為現在日本航空公司的機艙服務員教官並無男性）。見習機師「堤」前作全名為「堤健二」而現代版則改稱「堤修介」。其他登場人物則是新創的。內容全新編寫，與日本現今完全參照漫畫忠實改編的潮流略有不同。據《[日刊體育報](../Page/日刊體育報.md "wikilink")》報導，該劇[餐廳場景的拍攝地點是](../Page/餐廳.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區戶塚町](../Page/新宿區.md "wikilink")「RIHGA
+PLEASE」也是與[日本航空公司共同製作](https://zh.wikipedia.org/wiki/日本航空公司 "wikilink")．在登場人物方面，兩個版本的主角雖同是稱「美咲洋子」，但其他角色則有所改變．例如前作的教官稱「三上」，而現代版則稱「三神」，性別也由男性改為女性（因為現在日本航空公司的機艙服務員教官並無男性）。見習機師「堤」前作全名為「堤健二」而現代版則改稱「堤修介」。其他登場人物則是新創的。內容全新編寫，與日本現今完全參照漫畫忠實改編的潮流略有不同。據《[日刊體育報](https://zh.wikipedia.org/wiki/日刊體育報 "wikilink")》報導，該劇[餐廳場景的拍攝地點是](https://zh.wikipedia.org/wiki/餐廳 "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區戶塚町](../Page/新宿區.md "wikilink")「RIHGA
 Royal Hotel Tokyo」的「Garden
-Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")》、《[秘密花園](../Page/秘密花園.md "wikilink")》、《[流星花園](../Page/流星花園.md "wikilink")2》等劇相同。
+Lounge」餐廳，與《[熟男不結婚](https://zh.wikipedia.org/wiki/熟男不結婚 "wikilink")》、《[秘密花園](https://zh.wikipedia.org/wiki/秘密花園 "wikilink")》、《[流星花園](https://zh.wikipedia.org/wiki/流星花園 "wikilink")2》等劇相同。
 
 在每集片尾曲，主角上戶彩均會展示日本航空公司由第一代以來的空姐制服。在最後三集的片尾曲中，原本預定由上戶彩展示網頁投票選出的前三名最受歡迎的空姐制服，但最後改成前二名，並在最後一集的片尾曲特別版展示出由第一代以來的制服。
 
@@ -90,11 +90,12 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 <!-- end list -->
 
   -
-    本劇主角。之前在[九州組](../Page/九州_\(日本\).md "wikilink")[樂團](../Page/樂團.md "wikilink")，因為她單戀的男性朋友說過想看她穿上空姐制服的樣子，於是決心成為空姐。在訓練期間遇到許多挫折後，終於了解空服員的真正意義。性格開朗，不服輸。於第10集發現自己喜歡上翔太。
+    本劇主角。之前在[九州組](../Page/九州_\(日本\).md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，因為她單戀的男性朋友說過想看她穿上空姐制服的樣子，於是決心成為空姐。在訓練期間遇到許多挫折後，終於了解空服員的真正意義。性格開朗，不服輸。於第10集發現自己喜歡上翔太。
 
 <!-- end list -->
 
-  - [錦戶亮](../Page/錦戶亮.md "wikilink") 飾 中原翔太 (34) - 飛機維修師
+  - [錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink") 飾 中原翔太 (34) -
+    飛機維修師
 
 <!-- end list -->
 
@@ -121,7 +122,8 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [上原美佐](../Page/上原美佐.md "wikilink") 飾 弘田沙織 (35) - 機艙服務員訓練生
+  - [上原美佐](https://zh.wikipedia.org/wiki/上原美佐 "wikilink") 飾 弘田沙織 (35) -
+    機艙服務員訓練生
 
 <!-- end list -->
 
@@ -130,8 +132,10 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [高橋マリ子](../Page/高橋マリ子.md "wikilink") 飾 香川麗子 (30) - 機艙服務員訓練生
-  - [大友みなみ](../Page/大友みなみ.md "wikilink") 飾 東野 遙 (31) - 機艙服務員訓練生
+  - [高橋マリ子](https://zh.wikipedia.org/wiki/高橋マリ子 "wikilink") 飾 香川麗子 (30)
+    - 機艙服務員訓練生
+  - [大友みなみ](https://zh.wikipedia.org/wiki/大友みなみ "wikilink") 飾 東野 遙 (31)
+    - 機艙服務員訓練生
   - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink") 飾 堤 修介 (40) - 機師訓練生
 
 <!-- end list -->
@@ -141,7 +145,8 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [七瀨なつみ](../Page/七瀨なつみ.md "wikilink") 飾 木下朝美 (41) - 機艙服務員訓練部TID-1班教官
+  - [七瀨なつみ](https://zh.wikipedia.org/wiki/七瀨なつみ "wikilink") 飾 木下朝美 (41)
+    - 機艙服務員訓練部TID-1班教官
 
 <!-- end list -->
 
@@ -169,7 +174,8 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [小市慢太郎](../Page/小市慢太郎.md "wikilink") 飾 渡邊 誠 (42) - 航空整備員
+  - [小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink") 飾 渡邊 誠 (42)
+    - 航空整備員
 
 <!-- end list -->
 
@@ -178,8 +184,10 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [淺野和之](../Page/淺野和之.md "wikilink") 飾 若村昭三 (51) - 彌生的父親
-  - [井上順](../Page/井上順.md "wikilink") 飾 太宰 晉一郎 (55) - 訓練部部長
+  - [淺野和之](https://zh.wikipedia.org/wiki/淺野和之 "wikilink") 飾 若村昭三 (51) -
+    彌生的父親
+  - [井上順](https://zh.wikipedia.org/wiki/井上順 "wikilink") 飾 太宰 晉一郎 (55) -
+    訓練部部長
   - [小日向文世](../Page/小日向文世.md "wikilink") 飾 櫻田信哉 (62) - 現役機師
 
 <!-- end list -->
@@ -189,7 +197,8 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [真野裕子](../Page/真野裕子.md "wikilink") 飾 村山瑞穗 (42) - 現役國際線機艙服務員
+  - [真野裕子](https://zh.wikipedia.org/wiki/真野裕子 "wikilink") 飾 村山瑞穗 (42) -
+    現役國際線機艙服務員
 
 <!-- end list -->
 
@@ -200,7 +209,8 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 #### 夏威夷檀香山篇
 
-  - [原田夏希](../Page/原田夏希.md "wikilink") 飾 (Lisa) - 草裙舞導師
+  - [原田夏希](https://zh.wikipedia.org/wiki/原田夏希 "wikilink") 飾 (Lisa) -
+    草裙舞導師
 
 <!-- end list -->
 
@@ -209,7 +219,7 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 <!-- end list -->
 
-  - [正名僕蔵](../Page/正名僕蔵.md "wikilink") 飾 轟 博人
+  - [正名僕蔵](https://zh.wikipedia.org/wiki/正名僕蔵 "wikilink") 飾 轟 博人
 
 <!-- end list -->
 
@@ -218,7 +228,7 @@ Lounge」餐廳，與《[熟男不結婚](../Page/熟男不結婚.md "wikilink")
 
 #### 澳大利亞篇
 
-  - [清水由紀](../Page/清水由紀.md "wikilink") 飾  - 機艙服務員訓練生
+  - [清水由紀](https://zh.wikipedia.org/wiki/清水由紀 "wikilink") 飾  - 機艙服務員訓練生
 
 <!-- end list -->
 

@@ -1,15 +1,15 @@
 《**舞-乙HiME
-Zwei**》是[動畫](../Page/動畫.md "wikilink")《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》的[OVA](../Page/OVA.md "wikilink")，由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")。（注：zwei為德文中的「二」）
+Zwei**》是[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")。（注：zwei為德文中的「二」）
 
 《**舞-乙HiME
 Zwei**》共有4話，在日本，第1話至4話已於2006年11月24日至2007年8月24日期間開始發售。而[藍光光碟及](../Page/藍光光碟.md "wikilink")[UMD版的OVA將於](../Page/通用媒體光碟.md "wikilink")2009年10月27日\[1\]
 
 以動畫為根本的漫畫版《舞-乙HiME
 Zwei》，於2006年10月在日本[秋田書店的雜誌](../Page/秋田書店.md "wikilink")《Champion
-RED》上開始連載。該漫畫原著是[矢立肇](../Page/矢立肇.md "wikilink")，而畫者則由阿倍野茶子擔任。
+RED》上開始連載。該漫畫原著是[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")，而畫者則由阿倍野茶子擔任。
 
 [舞-HiME
-Project的監督](../Page/舞-HiME_Project.md "wikilink")[小原正和表示](../Page/小原正和.md "wikilink")，《舞-乙HiME
+Project的監督](https://zh.wikipedia.org/wiki/舞-HiME_Project "wikilink")[小原正和表示](https://zh.wikipedia.org/wiki/小原正和 "wikilink")，《舞-乙HiME
 Zwei》的4話OVA實際上是電視播放的動畫的真正結局，劇情進行中會解釋清楚之前在《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》埋下的伏筆。
 
 ## 作品介紹
@@ -281,8 +281,8 @@ Zwei**的舞台是[舞-乙HiME動畫完結後的一年之後](../Page/舞-乙HiM
 <!-- end list -->
 
   -
-    唱：マシロ(真白)([野上尤加奈](../Page/野上尤加奈.md "wikilink"))
-    作詞：畑亞貴／作曲：梶浦由記／編曲：[安瀨聖](../Page/安瀨聖.md "wikilink")
+    唱：マシロ(真白)([野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink"))
+    作詞：畑亞貴／作曲：梶浦由記／編曲：[安瀨聖](https://zh.wikipedia.org/wiki/安瀨聖 "wikilink")
 
 <!-- end list -->
 
@@ -291,8 +291,8 @@ Zwei**的舞台是[舞-乙HiME動畫完結後的一年之後](../Page/舞-乙HiM
 <!-- end list -->
 
   -
-    唱：アリカ(亞里香)(菊地美香)、ニナ(妮娜)(小清水亞美)、マシロ(真白)(野上尤加奈)、舞衣([中原麻衣](../Page/中原麻衣.md "wikilink"))、ナツキ(夏姬)([千葉紗子](../Page/千葉紗子.md "wikilink"))、ミコト(命)([清水愛](../Page/清水愛.md "wikilink"))
-    作詞：畑亞貴／作曲：[羽場仁志](../Page/羽場仁志.md "wikilink")／編曲：[大久保薰](../Page/大久保薰.md "wikilink")
+    唱：アリカ(亞里香)(菊地美香)、ニナ(妮娜)(小清水亞美)、マシロ(真白)(野上尤加奈)、舞衣([中原麻衣](../Page/中原麻衣.md "wikilink"))、ナツキ(夏姬)([千葉紗子](../Page/千葉紗子.md "wikilink"))、ミコト(命)([清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink"))
+    作詞：畑亞貴／作曲：[羽場仁志](https://zh.wikipedia.org/wiki/羽場仁志 "wikilink")／編曲：[大久保薰](../Page/大久保薰.md "wikilink")
 
 ## 註釋
 

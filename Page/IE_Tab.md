@@ -1,6 +1,6 @@
 **IE Tab** 是[网页浏览器](../Page/网页浏览器.md "wikilink")[Mozilla
-Firefox和](../Page/Mozilla_Firefox.md "wikilink")[Google
-Chrome的一个](../Page/Google_Chrome.md "wikilink")[擴充套件](../Page/Firefox擴充套件列表.md "wikilink")，能实现在Firefox调用[Internet
+Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google
+Chrome的一个](../Page/Google_Chrome.md "wikilink")[擴充套件](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")，能实现在Firefox调用[Internet
 Explorer的](../Page/Internet_Explorer.md "wikilink")[排版引擎浏览网页](../Page/排版引擎.md "wikilink")。
 
 它解决很多使用不规范语言、包含[ActiveX或者要求](../Page/ActiveX.md "wikilink")[IE
@@ -9,7 +9,7 @@ Tab已經不常使用。
 
 ## 運作原理
 
-由於[Microsoft在發行](../Page/Microsoft.md "wikilink")[Windows時已經把](../Page/Windows.md "wikilink")[Internet
+由於[Microsoft在發行](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows時已經把](https://zh.wikipedia.org/wiki/Windows "wikilink")[Internet
 Explorer捆綁在作業系統內](../Page/Internet_Explorer.md "wikilink")，使用者亦不能移除，故**IE
 Tab**利用這些已捆綁的檔案來執行，模擬使用Internet Explorer。
 
@@ -24,9 +24,8 @@ Tab**方便得多\[1\]。除了較為方便之外，亦可佔用較少系統資�
 ### 缺點
 
 绝大多数和網頁有關的[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")-{zh-hans:扩展;
-zh-hant:附加元件;}-在使用IE tab浏览的-{zh-hans:标签页;
-zh-hant:分頁;}-内无法使用；而採用IE
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")-{zh-hans:扩展;
+zh-hant:附加元件;}-在使用IE tab浏览的-{zh-hans:标签页; zh-hant:分頁;}-内无法使用；而採用IE
 Tab時按下外部連結亦會使用模擬出來的[Internet
 Explorer開啟](../Page/Internet_Explorer.md "wikilink")，要再次切換較麻煩。某些電腦採用IE
 Tab容易出現瀏覽器崩潰現象。
@@ -50,7 +49,8 @@ Tab在Firefox中调用IE核心的功能，对于Web开发人员除錯网页来�
 
 ## 參見
 
-  - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
+  - [Mozilla
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
 
 ## 注釋和參考資料
 
@@ -77,4 +77,4 @@ Tab在Firefox中调用IE核心的功能，对于Web开发人员除錯网页来�
 1.  用戶只須按下一個按鈕，即可在[Firefox視窗內](../Page/Firefox.md "wikilink")「切換」成為「Firefox」模式或「Internet
     Explorer」模式
 2.  參見[Mozilla
-    Firefox\#市場接納度](../Page/Mozilla_Firefox#市場接納度.md "wikilink")
+    Firefox\#市場接納度](https://zh.wikipedia.org/wiki/Mozilla_Firefox#市場接納度 "wikilink")

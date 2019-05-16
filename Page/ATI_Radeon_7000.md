@@ -1,7 +1,7 @@
 **ATI Radeon 7000系列**顯示卡，顯示核心代號**Radeon
-R100**，由[ATI研發並在](../Page/ATI.md "wikilink")2000年中旬正式发布。當時桌面图形卡市場只剩下ATI和[NVIDIA两家公司](../Page/NVIDIA.md "wikilink")，NVIDIA發佈[GeForce
-256和](../Page/GeForce_256.md "wikilink")[GeForce
-2](../Page/GeForce_2.md "wikilink")。面對著nVidia的攻勢，ATI发布Radeon
+R100**，由[ATI研發並在](https://zh.wikipedia.org/wiki/ATI "wikilink")2000年中旬正式发布。當時桌面图形卡市場只剩下ATI和[NVIDIA两家公司](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，NVIDIA發佈[GeForce
+256和](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")[GeForce
+2](https://zh.wikipedia.org/wiki/GeForce_2 "wikilink")。面對著nVidia的攻勢，ATI发布Radeon
 R100显示核心，首款採用此核心的是Radeon 256顯示卡。Radeon R100首次支援DirectX
 7。它支援T\&L，硬件几何变形，光照效果，和图象剪切。它亦首次使用DDR作為顯存。這些功能使Radeon在性能上可与GeForce
 2一决高下。ATI Radeon 7000系列显卡是ATI最成功的一款显卡之一，而現今ATI显卡繼續使用Radeon這个名字。
@@ -17,7 +17,7 @@ GTS事实上的性能超越Radeon 100。
 ## Radeon 256
 
 Radeon 256是Radeon 100 系列晶片的第一張顯示卡。它的核心是重新設計的，不像Rage 128 Pro般基於Rage
-128顯核。它有兩條像素流水線，每絛拥有三个纹理单元。顯核采用[0.18微米製程](../Page/0.18微米製程.md "wikilink")，内建3000万个晶体管，三角形生成率是每秒3000万个。它可以使用頻率達200MHz的DDR显存。Radeon
+128顯核。它有兩條像素流水線，每絛拥有三个纹理单元。顯核采用[0.18微米製程](https://zh.wikipedia.org/wiki/0.18微米製程 "wikilink")，内建3000万个晶体管，三角形生成率是每秒3000万个。它可以使用頻率達200MHz的DDR显存。Radeon
 256的其中一个特点是其VIVO和DVD硬體輔助播放功能，配合DirectX 7的出色3D效果。
 
 在Radeon8500推出后，Radeon256被称为Radeon7200
@@ -27,8 +27,10 @@ ATI原厂Radeon 256共有5个版本
   - Radeon 256 32MB DDR [SDRAM](../Page/SDRAM.md "wikilink")
   - Radeon 256 64MB DDR [SDRAM](../Page/SDRAM.md "wikilink")
   - Radeon 256 32MB [SDRAM](../Page/SDRAM.md "wikilink")
-  - Radeon 256 32MB DDR [SGRAM](../Page/SGRAM.md "wikilink")
-  - Radeon 7200 32MB DDR [SGRAM](../Page/SGRAM.md "wikilink")
+  - Radeon 256 32MB DDR
+    [SGRAM](https://zh.wikipedia.org/wiki/SGRAM "wikilink")
+  - Radeon 7200 32MB DDR
+    [SGRAM](https://zh.wikipedia.org/wiki/SGRAM "wikilink")
 
 ## Radeon 7500
 

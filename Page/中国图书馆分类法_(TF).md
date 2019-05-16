@@ -1,4 +1,4 @@
-  - TF [冶金工业](../Page/冶金工业.md "wikilink")
+  - TF [冶金工业](https://zh.wikipedia.org/wiki/冶金工业 "wikilink")
 
 :\*TF-9 冶金工业经济
 
@@ -226,7 +226,7 @@
 
 ::\*TF09 冶金工业废物处理与综合利用
 
-:\*TF1 [冶金技术](../Page/冶金技术.md "wikilink")
+:\*TF1 [冶金技术](https://zh.wikipedia.org/wiki/冶金技术 "wikilink")
 
 ::\*TF11 提炼冶金（化学冶金）
 
@@ -615,7 +615,7 @@
 ::\*TF19 其他冶金技术
 
 :\*TF3
-[冶金机械](../Page/冶金机械.md "wikilink")、[冶金生产自动化](../Page/冶金生产自动化.md "wikilink")
+[冶金机械](https://zh.wikipedia.org/wiki/冶金机械 "wikilink")、[冶金生产自动化](https://zh.wikipedia.org/wiki/冶金生产自动化 "wikilink")
 
 :::\*TF301 基础理论
 
@@ -777,9 +777,9 @@
 
 ::\*TF37 粉末冶金机械与生产自动化
 
-:\*TF4 [钢铁冶炼](../Page/钢铁冶炼.md "wikilink")（总论）
+:\*TF4 [钢铁冶炼](https://zh.wikipedia.org/wiki/钢铁冶炼 "wikilink")（总论）
 
-:\*TF5 [炼铁](../Page/炼铁.md "wikilink")
+:\*TF5 [炼铁](https://zh.wikipedia.org/wiki/炼铁 "wikilink")
 
 ::\*TF51 理论与计算
 
@@ -1115,7 +1115,7 @@
 
 :::\*TF594 合金铸铁
 
-:\*TF6 [铁合金冶炼](../Page/铁合金冶炼.md "wikilink")
+:\*TF6 [铁合金冶炼](https://zh.wikipedia.org/wiki/铁合金冶炼 "wikilink")
 
 ::\*TF61 理论和计算
 
@@ -1643,13 +1643,13 @@
 
 ::::\*TF777.7 薄板坯连铸
 
-::\*TF79 其他[黑色金属冶炼](../Page/黑色金属冶炼.md "wikilink")
+::\*TF79 其他[黑色金属冶炼](https://zh.wikipedia.org/wiki/黑色金属冶炼 "wikilink")
 
 :::\*TF791 炼铬
 
 :::\*TF792 炼锰
 
-:\*TF8 [有色金属冶炼](../Page/有色金属冶炼.md "wikilink")
+:\*TF8 [有色金属冶炼](https://zh.wikipedia.org/wiki/有色金属冶炼 "wikilink")
 
 :::\*TF801 理论与计算
 

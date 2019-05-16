@@ -1,6 +1,7 @@
 [MicrosoftForefrontClientSecurity-ScreenCapture.png](https://zh.wikipedia.org/wiki/File:MicrosoftForefrontClientSecurity-ScreenCapture.png "fig:MicrosoftForefrontClientSecurity-ScreenCapture.png")
-**Microsoft ForeFront**是[微軟的](../Page/微軟.md "wikilink")[Microsoft
-Windows用戶端及伺服器端的一系列保安產品名稱](../Page/Microsoft_Windows.md "wikilink")，和[Microsoft
+**Microsoft
+ForeFront**是[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft
+Windows用戶端及伺服器端的一系列保安產品名稱](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，和[Microsoft
 Security
 Essentials為姊妹軟件](../Page/Microsoft_Security_Essentials.md "wikilink")。
 
@@ -11,13 +12,13 @@ Essentials為姊妹軟件](../Page/Microsoft_Security_Essentials.md "wikilink")�
     Server](../Page/Microsoft_Exchange_Server.md "wikilink")（舊稱*Microsoft
     Antigen for Exchange*）
   - Microsoft Forefront Security for
-    [SharePoint](../Page/Microsoft_Office_SharePoint_Portal_Server.md "wikilink")（舊稱*Antigen
+    [SharePoint](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")（舊稱*Antigen
     for SharePoint*）
   - Microsoft Forefront Security for [Microsoft Office Communications
-    Server](../Page/Microsoft_Office_Communications_Server.md "wikilink")（舊稱*Antigen
+    Server](https://zh.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink")（舊稱*Antigen
     for Instant Messaging*）
   - Microsoft [Internet Security and Acceleration (ISA) Server
-    2006](../Page/Microsoft_Internet_Security_and_Acceleration_Server.md "wikilink")
+    2006](https://zh.wikipedia.org/wiki/Microsoft_Internet_Security_and_Acceleration_Server "wikilink")
 
 ## 外部連結
 

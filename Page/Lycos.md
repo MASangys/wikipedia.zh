@@ -1,19 +1,19 @@
-**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。最早诞生于1994年麦克·马丁博士（Dr.[Michael
-Mauldin](../Page/Michael_Mauldin.md "wikilink")）在Carnegie
-Mellon大学的一个搜索项目，当时的Lycos搜索引擎被用于该校的数字图书馆工程。“Lycos”是[Lycosidae](../Page/Lycosidae.md "wikilink")（一种很善于捕捉猎物的[狼蛛](../Page/狼蛛.md "wikilink")）的缩写。
+**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。最早诞生于1994年麦克·马丁博士（Dr.[Michael
+Mauldin](https://zh.wikipedia.org/wiki/Michael_Mauldin "wikilink")）在Carnegie
+Mellon大学的一个搜索项目，当时的Lycos搜索引擎被用于该校的数字图书馆工程。“Lycos”是[Lycosidae](https://zh.wikipedia.org/wiki/Lycosidae "wikilink")（一种很善于捕捉猎物的[狼蛛](https://zh.wikipedia.org/wiki/狼蛛 "wikilink")）的缩写。
 
 在Lycos搜索引擎被开发后不久，Lycos公司成立了，[波士顿人鲍勃](../Page/波士顿.md "wikilink")·戴维斯（[Bob
-Davis](../Page/Bob_Davis.md "wikilink")）任当时的[CEO](../Page/CEO.md "wikilink")。随后鲍勃·戴维斯将Lycos总部从[匹兹堡迁至](../Page/匹兹堡.md "wikilink")[马萨诸塞州](../Page/马萨诸塞州.md "wikilink")，并致力于将Lycos建设成一个以广告作为收入来源的[门户网站](../Page/门户网站.md "wikilink")。
+Davis](https://zh.wikipedia.org/wiki/Bob_Davis "wikilink")）任当时的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")。随后鲍勃·戴维斯将Lycos总部从[匹兹堡迁至](../Page/匹兹堡.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")，并致力于将Lycos建设成一个以广告作为收入来源的[门户网站](../Page/门户网站.md "wikilink")。
 
-1996年公司成功上市，尽管盈利并不多。Lycos在1998年收购了提供个人网站空间的著名站点，提供搜索人的服务和电子邮件站点[WhoWhere](../Page/WhoWhere.md "wikilink")，[连线新闻](../Page/连线.md "wikilink")<small>（已轉賣予连线）</small>、、Quote.com、、以及。
+1996年公司成功上市，尽管盈利并不多。Lycos在1998年收购了提供个人网站空间的著名站点，提供搜索人的服务和电子邮件站点[WhoWhere](https://zh.wikipedia.org/wiki/WhoWhere "wikilink")，[连线新闻](../Page/连线.md "wikilink")<small>（已轉賣予连线）</small>、、Quote.com、、以及。
 
-Lycos在2000年10月以125亿美圆的价格被泰若网络（[Terra](../Page/Terra.md "wikilink")
-Networks）并购。泰若网络是[西班牙电信公司](../Page/西班牙.md "wikilink")[Telefónica的子公司](../Page/Telefónica.md "wikilink")。合并后的公司更名为泰若-Lycos（Terra
+Lycos在2000年10月以125亿美圆的价格被泰若网络（[Terra](https://zh.wikipedia.org/wiki/Terra "wikilink")
+Networks）并购。泰若网络是[西班牙电信公司](../Page/西班牙.md "wikilink")[Telefónica的子公司](https://zh.wikipedia.org/wiki/Telefónica "wikilink")。合并后的公司更名为泰若-Lycos（Terra
 Lycos）。
 
-Lycos在2002年逐渐衰落，它在[搜索引擎市场和](../Page/搜索引擎.md "wikilink")[门户网站上的优势地位分别被](../Page/门户网站.md "wikilink")[Google和](../Page/Google.md "wikilink")[Yahoo取代](../Page/Yahoo.md "wikilink")。
+Lycos在2002年逐渐衰落，它在[搜索引擎市场和](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[门户网站上的优势地位分别被](../Page/门户网站.md "wikilink")[Google和](../Page/Google.md "wikilink")[Yahoo取代](https://zh.wikipedia.org/wiki/Yahoo "wikilink")。
 
-2004年8月2日，泰若网络宣布以9540万美圆价格出售Lycos给韩国的[Daum信息技术公司](../Page/Daum.md "wikilink")，尚不及当初买下时价格的1%。2004年10月交易完成，公司名称被重新改回Lycos，泰若网络余下的业务半数被[Telefónica接管](../Page/Telefónica.md "wikilink")。
+2004年8月2日，泰若网络宣布以9540万美圆价格出售Lycos给韩国的[Daum信息技术公司](https://zh.wikipedia.org/wiki/Daum "wikilink")，尚不及当初买下时价格的1%。2004年10月交易完成，公司名称被重新改回Lycos，泰若网络余下的业务半数被[Telefónica接管](https://zh.wikipedia.org/wiki/Telefónica "wikilink")。
 
 2006年初，一个全新的运营团队开始管理Lycos。
 

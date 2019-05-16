@@ -1,5 +1,5 @@
 《**Progress
-Quest**》是一個為了[戲仿](../Page/戲仿.md "wikilink")「[無盡的任務](../Page/無盡的任務.md "wikilink")」（EverQuest）、及其他[大型多人線上角色扮演遊戲所製作的電腦遊戲](../Page/MMORPG.md "wikilink")。可不嚴謹地稱為[零人遊戲](../Page/零人遊戲.md "wikilink")，
+Quest**》是一個為了[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")「[無盡的任務](https://zh.wikipedia.org/wiki/無盡的任務 "wikilink")」（EverQuest）、及其他[大型多人線上角色扮演遊戲所製作的電腦遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。可不嚴謹地稱為[零人遊戲](https://zh.wikipedia.org/wiki/零人遊戲 "wikilink")，
 也就是說玩家一設定好他的人造角色， 接著就完全沒有與使用者互動；遊戲自己本身「玩」了起來，而人類玩家則充當觀察者的角色。
 
 *Progress Quest* 戲仿電腦[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，尤其是
@@ -89,8 +89,8 @@ Generator）](http://terror.snm-hgkz.ch/pq/?mode=generate)。
 2.
 ## 參見
 
-  - [Idle RPG](../Page/Idle_RPG.md "wikilink")
-  - [Catassing](../Page/Catassing.md "wikilink")
+  - [Idle RPG](https://zh.wikipedia.org/wiki/Idle_RPG "wikilink")
+  - [Catassing](https://zh.wikipedia.org/wiki/Catassing "wikilink")
 
 ## 外部連結
 
@@ -108,7 +108,8 @@ Generator）](http://terror.snm-hgkz.ch/pq/?mode=generate)。
   - [Progress Quest spell
     conversions](http://www.zen27196.zen.co.uk/dmtools/pq_spells.html)
     for use with [Dungeons &
-    Dragons](../Page/Dungeons_&_Dragons.md "wikilink") 3rd Edition
+    Dragons](https://zh.wikipedia.org/wiki/Dungeons_&_Dragons "wikilink")
+    3rd Edition
   - [SimpleRPG](https://web.archive.org/web/20081125173800/http://members.aol.com/warlordhaanz/)
     — A much simpler version of *Progress Quest*
   - [Review of Progress

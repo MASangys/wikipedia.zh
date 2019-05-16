@@ -1,7 +1,8 @@
 [Luxo_logo_2006-08-01.png](https://zh.wikipedia.org/wiki/File:Luxo_logo_2006-08-01.png "fig:Luxo_logo_2006-08-01.png")
 
-**Luxo L1**是一款[台灯](../Page/台灯.md "wikilink")。它于1937年由[Jac
-Jacobsen为](../Page/Jac_Jacobsen.md "wikilink")[挪威的Luxo公司设计](../Page/挪威.md "wikilink")。由Luxo的官方网站得知，此款台灯自1937年已经销售2500万套。
+**Luxo
+L1**是一款[台灯](https://zh.wikipedia.org/wiki/台灯 "wikilink")。它于1937年由[Jac
+Jacobsen为](https://zh.wikipedia.org/wiki/Jac_Jacobsen "wikilink")[挪威的Luxo公司设计](../Page/挪威.md "wikilink")。由Luxo的官方网站得知，此款台灯自1937年已经销售2500万套。
 
 ## 获奖
 
@@ -12,7 +13,7 @@ Jacobsen为](../Page/Jac_Jacobsen.md "wikilink")[挪威的Luxo公司设计](../P
 
 ## 参看
 
-  - [经典设计](../Page/经典设计.md "wikilink")
+  - [经典设计](https://zh.wikipedia.org/wiki/经典设计 "wikilink")
   - Pixar动画短片[小台灯](../Page/小台灯.md "wikilink")
 
 ## 参考

@@ -1,6 +1,6 @@
-《**浮士德**》（）是[德国大文豪](../Page/德国.md "wikilink")[歌德于](../Page/歌德.md "wikilink")1808年发表的一部[悲剧](../Page/悲剧.md "wikilink")。传统上，《浮士德》被认为是[德语文学中最优秀的作品](../Page/德语文学.md "wikilink")，同时也是最经常被引用的作品。该剧主人公[浮士德也曾出现在其他作家的作品中](../Page/浮士德.md "wikilink")，但歌德给他的形象赋予了深刻的人格[寓意](../Page/寓意.md "wikilink")。
+《**浮士德**》（）是[德国大文豪](../Page/德国.md "wikilink")[歌德于](https://zh.wikipedia.org/wiki/歌德 "wikilink")1808年发表的一部[悲剧](https://zh.wikipedia.org/wiki/悲剧 "wikilink")。传统上，《浮士德》被认为是[德语文学中最优秀的作品](../Page/德语文学.md "wikilink")，同时也是最经常被引用的作品。该剧主人公[浮士德也曾出现在其他作家的作品中](../Page/浮士德.md "wikilink")，但歌德给他的形象赋予了深刻的人格[寓意](https://zh.wikipedia.org/wiki/寓意 "wikilink")。
 
-本文介绍《浮士德》的第一部分，即《**浮士德，悲剧第一部**》（**）；关于《浮士德》的第二部分，请见《[浮士德II](../Page/浮士德II.md "wikilink")》。另，本文中所有译文及专用名词均取自[绿原译](../Page/绿原.md "wikilink")[人民文学出版社](../Page/人民文学出版社.md "wikilink")1997年版译本。
+本文介绍《浮士德》的第一部分，即《**浮士德，悲剧第一部**》（**）；关于《浮士德》的第二部分，请见《[浮士德II](https://zh.wikipedia.org/wiki/浮士德II "wikilink")》。另，本文中所有译文及专用名词均取自[绿原译](https://zh.wikipedia.org/wiki/绿原 "wikilink")[人民文学出版社](../Page/人民文学出版社.md "wikilink")1997年版译本。
 
 ## 内容
 
@@ -8,11 +8,11 @@
 
 ### 地点与时间
 
-该剧所叙述的故事发生在[德国](../Page/德国.md "wikilink")[莱比锡及](../Page/莱比锡.md "wikilink")[哈尔茨山等地](../Page/哈尔茨山.md "wikilink")，时间约为历史上[浮士德博士的年代](../Page/浮士德.md "wikilink")（约1480－1538），[中世纪与](../Page/中世纪.md "wikilink")[文艺复兴的交接点](../Page/文艺复兴.md "wikilink")。
+该剧所叙述的故事发生在[德国](../Page/德国.md "wikilink")[莱比锡及](../Page/莱比锡.md "wikilink")[哈尔茨山等地](https://zh.wikipedia.org/wiki/哈尔茨山 "wikilink")，时间约为历史上[浮士德博士的年代](../Page/浮士德.md "wikilink")（约1480－1538），[中世纪与](../Page/中世纪.md "wikilink")[文艺复兴的交接点](../Page/文艺复兴.md "wikilink")。
 
 ### 剧情概述
 
-令世人景仰的学者浮士德博士，当他回顾他的一生时，发现作为[科学家](../Page/科学家.md "wikilink")（中世纪概念：泛指含[自然科学](../Page/自然科学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")、[神学](../Page/神学.md "wikilink")、[医学](../Page/医学.md "wikilink")、[法学在内的全部人类知识](../Page/法学.md "wikilink")），他对世界的本质其实并没有任何认知；作为一个人，他根本没有体会到生活的乐趣。由此，他陷入了深深的苦恼之中。在这种情况下，他与[魔鬼](../Page/魔鬼.md "wikilink")[梅菲斯特订立盟约](../Page/梅菲斯特.md "wikilink")，如果魔鬼把他从这种不满足和不安的心境中解脱出来，他就把死后的[灵魂交付于他](../Page/灵魂.md "wikilink")。魔鬼梅菲斯特则带领他游历这个五光十色的大千世界，并使他与少女格雷琴悲剧性地相恋。
+令世人景仰的学者浮士德博士，当他回顾他的一生时，发现作为[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")（中世纪概念：泛指含[自然科学](../Page/自然科学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")、[神学](https://zh.wikipedia.org/wiki/神学 "wikilink")、[医学](../Page/医学.md "wikilink")、[法学在内的全部人类知识](../Page/法学.md "wikilink")），他对世界的本质其实并没有任何认知；作为一个人，他根本没有体会到生活的乐趣。由此，他陷入了深深的苦恼之中。在这种情况下，他与[魔鬼](../Page/魔鬼.md "wikilink")[梅菲斯特订立盟约](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")，如果魔鬼把他从这种不满足和不安的心境中解脱出来，他就把死后的[灵魂交付于他](../Page/灵魂.md "wikilink")。魔鬼梅菲斯特则带领他游历这个五光十色的大千世界，并使他与少女格雷琴悲剧性地相恋。
 
 ### 人物
 
@@ -33,7 +33,7 @@
 
 ### 献词（1至32节）
 
-[Satans_Pakt_mit_Gott.jpg](https://zh.wikipedia.org/wiki/File:Satans_Pakt_mit_Gott.jpg "fig:Satans_Pakt_mit_Gott.jpg")，取材于《[圣经](../Page/圣经.md "wikilink")·[约伯记](../Page/约伯记.md "wikilink")》，Taddeo
+[Satans_Pakt_mit_Gott.jpg](https://zh.wikipedia.org/wiki/File:Satans_Pakt_mit_Gott.jpg "fig:Satans_Pakt_mit_Gott.jpg")，取材于《[圣经](https://zh.wikipedia.org/wiki/圣经 "wikilink")·[约伯记](https://zh.wikipedia.org/wiki/约伯记 "wikilink")》，Taddeo
 Gaddi（1290-1366）绘。\]\]
 
 献词抒发了歌德对创制这篇巨作的万千感慨，同时也是他的内心总结。
@@ -44,7 +44,7 @@ Gaddi（1290-1366）绘。\]\]
 
 ### 天堂序曲（243至353节）
 
-天堂序曲留有[圣经](../Page/圣经.md "wikilink")·[约伯记的明显痕迹](../Page/约伯记.md "wikilink")。上帝与魔鬼在论及人的本性时谈到浮士德。魔鬼打赌说能把他“慢慢引上我的大道”并最终攫取他的灵魂。对于全能的上帝来说他只不过给了魔鬼一个考察浮士德的机会——上帝可以决定浮士德是否最终应该得到拯救。
+天堂序曲留有[圣经](https://zh.wikipedia.org/wiki/圣经 "wikilink")·[约伯记的明显痕迹](https://zh.wikipedia.org/wiki/约伯记 "wikilink")。上帝与魔鬼在论及人的本性时谈到浮士德。魔鬼打赌说能把他“慢慢引上我的大道”并最终攫取他的灵魂。对于全能的上帝来说他只不过给了魔鬼一个考察浮士德的机会——上帝可以决定浮士德是否最终应该得到拯救。
 
 ### 夜，地灵，瓦格纳（354至807节）
 

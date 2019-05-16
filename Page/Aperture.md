@@ -1,14 +1,14 @@
 \-{}-
 
 **Aperture**
-是由[苹果公司开发的一款图像处理](../Page/苹果公司.md "wikilink")[软件](../Page/软件.md "wikilink")。它运行于[OS
-X系统平台](../Page/macOS.md "wikilink")，于2005年10月19日[纽约媒体活动中正式面世](../Page/纽约.md "wikilink")，旨在为专业[摄影师们在作品后期制作中起到辅助作用](../Page/摄影师.md "wikilink")，并于2005年11月发售。
+是由[苹果公司开发的一款图像处理](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[软件](../Page/软件.md "wikilink")。它运行于[OS
+X系统平台](https://zh.wikipedia.org/wiki/macOS "wikilink")，于2005年10月19日[纽约媒体活动中正式面世](../Page/纽约.md "wikilink")，旨在为专业[摄影师们在作品后期制作中起到辅助作用](https://zh.wikipedia.org/wiki/摄影师 "wikilink")，并于2005年11月发售。
 
 2010年2月9號，蘋果公司發佈Aperture
 3，只可在Intel的機種運行。售價為$199美元\[1\]。用家亦可以售價$79.99美元於Mac
 App Store下載Aperture 3。\[2\]
 
-2014年6月2日，苹果公司宣布将使用应用替代Aperture和[iPhoto](../Page/iPhoto.md "wikilink")。
+2014年6月2日，苹果公司宣布将使用应用替代Aperture和[iPhoto](https://zh.wikipedia.org/wiki/iPhoto "wikilink")。
 2014年10月16日，Aperture 3.6发布，这是它的最后一个更新版本，主要是改善了与[OS X
 Yosemite的兼容性](../Page/OS_X_Yosemite.md "wikilink")。2015年4月8日，Aperture正式停止销售。\[3\]
 
@@ -24,11 +24,13 @@ Yosemite的兼容性](../Page/OS_X_Yosemite.md "wikilink")。2015年4月8日，A
   - 本地支持 [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
   - 无损图像编辑
   - 自定义打印和出版
-  - 支持多种媒体存储设备，如[CF卡](../Page/CF卡.md "wikilink") I, II
-    和[Microdrive](../Page/Microdrive.md "wikilink")，[Memory
-    Stick](../Page/Memory_Stick.md "wikilink")，[Memory Stick
-    Duo](../Page/Memory_Stick_Duo.md "wikilink")，[MMC卡](../Page/MMC卡.md "wikilink")，[SD卡](../Page/SD卡.md "wikilink")，and
-    [xD图像卡](../Page/xD.md "wikilink")
+  - 支持多种媒体存储设备，如[CF卡](https://zh.wikipedia.org/wiki/CF卡 "wikilink") I,
+    II
+    和[Microdrive](https://zh.wikipedia.org/wiki/Microdrive "wikilink")，[Memory
+    Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")，[Memory
+    Stick
+    Duo](https://zh.wikipedia.org/wiki/Memory_Stick_Duo "wikilink")，[MMC卡](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")，[SD卡](../Page/SD卡.md "wikilink")，and
+    [xD图像卡](https://zh.wikipedia.org/wiki/xD "wikilink")
   - 多张图片同时连续缩放
   - 读取和输入 IPTC 元数据
 
@@ -50,7 +52,7 @@ Aperture 2.0 于2008年2月12日发布，并且在美国市场降价为199[美�
 3，只可在Intel的机种运行。售价为$199[美元](../Page/美元.md "wikilink")，中国大陆地区售价为RMB
 1,598。该新版本具有200多处新功能，主要新功能如下\[4\]：
 
-  - 面孔识别，与[iPhoto中的面孔识别类似](../Page/iPhoto.md "wikilink")，可以为面孔加上名字，当出现未命名的面孔时，Aperture会自动识别并等待用户确认。比[iPhoto](../Page/iPhoto.md "wikilink")
+  - 面孔识别，与[iPhoto中的面孔识别类似](https://zh.wikipedia.org/wiki/iPhoto "wikilink")，可以为面孔加上名字，当出现未命名的面孔时，Aperture会自动识别并等待用户确认。比[iPhoto](https://zh.wikipedia.org/wiki/iPhoto "wikilink")
     '09中的面孔识别更强大的是用户不仅可以在整个图库中浏览命名过的人物照片，还可在单个项目中进行查看。
   - 地点标记
   - 笔刷
@@ -97,7 +99,7 @@ Aperture 2.0 于2008年2月12日发布，并且在美国市场降价为199[美�
 <tr class="even">
 <td><p>1.5</p></td>
 <td><p>2006年9月29日</p></td>
-<td><p>一个包括了许多新功能的重大更新，包括更加简洁的Library浏览，<a href="../Page/iLife.md" title="wikilink">iLife</a> '06 和 <a href="../Page/iWork.md" title="wikilink">iWork</a> '06无缝嵌入，相片资料自动输出，边缘锐化处理，<a href="../Page/iPod.md" title="wikilink">iPod照片同步</a>，元数据自动检索，锐化边缘等等。完全通用程序化，可以在至少1GB RAM的<a href="../Page/英特尔.md" title="wikilink">英特尔芯片的麦金塔电脑上运行</a>。</p></td>
+<td><p>一个包括了许多新功能的重大更新，包括更加简洁的Library浏览，<a href="https://zh.wikipedia.org/wiki/iLife" title="wikilink">iLife</a> '06 和 <a href="https://zh.wikipedia.org/wiki/iWork" title="wikilink">iWork</a> '06无缝嵌入，相片资料自动输出，边缘锐化处理，<a href="https://zh.wikipedia.org/wiki/iPod" title="wikilink">iPod照片同步</a>，元数据自动检索，锐化边缘等等。完全通用程序化，可以在至少1GB RAM的<a href="../Page/英特尔.md" title="wikilink">英特尔芯片的麦金塔电脑上运行</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>1.5.1</p></td>
@@ -259,7 +261,8 @@ Aperture 2.0 于2008年2月12日发布，并且在美国市场降价为199[美�
 ## 参见
 
   - [Adobe Bridge](../Page/Adobe_Bridge.md "wikilink")
-  - [Adobe Lightroom](../Page/Adobe_Lightroom.md "wikilink")
+  - [Adobe
+    Lightroom](https://zh.wikipedia.org/wiki/Adobe_Lightroom "wikilink")
 
 ## 參考資料
 

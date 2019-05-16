@@ -1,10 +1,11 @@
-**PREfast**（Prefast.exe）是[微軟公司為](../Page/微軟公司.md "wikilink")[驅動程式設計所提供的靜態的原始碼分析工具](../Page/驅動程式.md "wikilink")（static
+**PREfast**（Prefast.exe）是[微軟公司為](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[驅動程式設計所提供的靜態的原始碼分析工具](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")（static
 source code analysis
 tool），可偵測原始程式碼中不易用一般[編譯器找到的特定類型錯誤](../Page/編譯器.md "wikilink")，與Windows
 DDK建置環境一同安裝。目前已整合至[Visual Studio
-2005](../Page/Visual_Studio_2005.md "wikilink") Team
+2005](https://zh.wikipedia.org/wiki/Visual_Studio_2005 "wikilink") Team
 Suite中，使用時只要設定‘Enable Code Analysis For
-C/C++’為『Yes』即可，接下來PREfast會攔截cl編譯器 (cl.exe)
+C/C++’為『Yes』即可，接下來PREfast會攔截cl編譯器
+(cl.exe)
 的呼叫，產生由一次檢查所有檔案所得的單一聯合清單，內容屬於[XML格式](../Page/XML.md "wikilink")。
 
 偵測錯誤類別：
@@ -67,7 +68,7 @@ C/C++’為『Yes』即可，接下來PREfast會攔截cl編譯器 (cl.exe)
 ## 相關條目
 
   - [Windows Driver
-    Foundation](../Page/Windows_Driver_Foundation.md "wikilink")
+    Foundation](https://zh.wikipedia.org/wiki/Windows_Driver_Foundation "wikilink")
 
 ## 外部連結
 

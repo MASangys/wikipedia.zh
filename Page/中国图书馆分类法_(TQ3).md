@@ -1,5 +1,5 @@
 ::\*TQ31
-[高分子化合物工业](../Page/高分子化合物工业.md "wikilink")（[高聚物工业](../Page/高聚物工业.md "wikilink")）
+[高分子化合物工业](https://zh.wikipedia.org/wiki/高分子化合物工业 "wikilink")（[高聚物工业](https://zh.wikipedia.org/wiki/高聚物工业 "wikilink")）
 
 :::\*TQ311 基础理论
 
@@ -31,7 +31,8 @@
 
 ::::::\*TQ314.24+6 变性剂（改性剂）
 
-::::::\*TQ314.24+7 静电消除剂（[抗静电剂](../Page/抗静电剂.md "wikilink")）
+::::::\*TQ314.24+7
+静电消除剂（[抗静电剂](https://zh.wikipedia.org/wiki/抗静电剂 "wikilink")）
 
 ::::::\*TQ314.24+8 阻燃剂
 
@@ -171,7 +172,7 @@
 
 :::\*TQ319 三废处理与综合利用
 
-::\*TQ32 合成树指与[塑料工业](../Page/塑料工业.md "wikilink")
+::\*TQ32 合成树指与[塑料工业](https://zh.wikipedia.org/wiki/塑料工业 "wikilink")
 
 ::::\*TQ320.1 基础理论
 
@@ -439,7 +440,7 @@
 
 ::::\*TQ328.9 其他
 
-:::\*TQ33 [橡胶工业](../Page/橡胶工业.md "wikilink")
+:::\*TQ33 [橡胶工业](https://zh.wikipedia.org/wiki/橡胶工业 "wikilink")
 
 ::::\*TQ330.1 基础理论
 
@@ -719,7 +720,7 @@
 
 :::\*TQ339 橡胶胶粘剂
 
-::\*TQ34 [化学纤维工业](../Page/化学纤维工业.md "wikilink")
+::\*TQ34 [化学纤维工业](https://zh.wikipedia.org/wiki/化学纤维工业 "wikilink")
 
 ::::\*TQ340.1 基础理论
 

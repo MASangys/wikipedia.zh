@@ -1,16 +1,16 @@
-**Base64**是一种基于64个可打印字符来表示[二进制数据的表示方法](../Page/二进制.md "wikilink")。由于\(2 ^ 6 = 64\)，所以每6个[位元为一个单元](../Page/位元.md "wikilink")，对应某个可打印字符。3个[字节有](../Page/字节.md "wikilink")24个位元，对应于4个Base64单元，即3个字节可由4个可打印字符来表示。它可用来作为[电子邮件的传输](../Page/电子邮件.md "wikilink")[编码](../Page/字符编码.md "wikilink")。在Base64中的可打印字符包括[字母](../Page/拉丁字母.md "wikilink")`A-Z`、`a-z`、[数字](../Page/数字.md "wikilink")`0-9`，这样共有62个字符，此外两个可打印符号在不同的系统中而不同。一些如[uuencode的其他编码方法](../Page/uuencode.md "wikilink")，和之后的版本使用不同的64字符集来代表6个二进制数字，但是不被稱為Base64。
+**Base64**是一种基于64个可打印字符来表示[二进制数据的表示方法](https://zh.wikipedia.org/wiki/二进制 "wikilink")。由于\(2 ^ 6 = 64\)，所以每6个[位元为一个单元](../Page/位元.md "wikilink")，对应某个可打印字符。3个[字节有](../Page/字节.md "wikilink")24个位元，对应于4个Base64单元，即3个字节可由4个可打印字符来表示。它可用来作为[电子邮件的传输](../Page/电子邮件.md "wikilink")[编码](../Page/字符编码.md "wikilink")。在Base64中的可打印字符包括[字母](../Page/拉丁字母.md "wikilink")`A-Z`、`a-z`、[数字](https://zh.wikipedia.org/wiki/数字 "wikilink")`0-9`，这样共有62个字符，此外两个可打印符号在不同的系统中而不同。一些如[uuencode的其他编码方法](https://zh.wikipedia.org/wiki/uuencode "wikilink")，和之后的版本使用不同的64字符集来代表6个二进制数字，但是不被稱為Base64。
 
-Base64常用于在通常处理文本[数据的场合](../Page/数据.md "wikilink")，表示、传输、存储一些二进制数据，包括[MIME的](../Page/MIME.md "wikilink")[电子邮件及](../Page/电子邮件.md "wikilink")[XML的一些复杂数据](../Page/XML.md "wikilink")。
+Base64常用于在通常处理文本[数据的场合](https://zh.wikipedia.org/wiki/数据 "wikilink")，表示、传输、存储一些二进制数据，包括[MIME的](https://zh.wikipedia.org/wiki/MIME "wikilink")[电子邮件及](../Page/电子邮件.md "wikilink")[XML的一些复杂数据](../Page/XML.md "wikilink")。
 
 ## MIME
 
-在[MIME格式的](../Page/MIME.md "wikilink")[电子邮件中](../Page/电子邮件.md "wikilink")，Base64可以用来将binary的字节序列数据[编码成](../Page/字符编码.md "wikilink")[ASCII字符序列构成的文本](../Page/ASCII.md "wikilink")。使用时，在传输编码方式中指定Base64。使用的字符包括大小写[拉丁字母各](../Page/拉丁字母.md "wikilink")26个、数字10个、加号`+`和斜杠`/`，共64个字符，等号`=`用来作为后缀用途。
+在[MIME格式的](https://zh.wikipedia.org/wiki/MIME "wikilink")[电子邮件中](../Page/电子邮件.md "wikilink")，Base64可以用来将binary的字节序列数据[编码成](../Page/字符编码.md "wikilink")[ASCII字符序列构成的文本](../Page/ASCII.md "wikilink")。使用时，在传输编码方式中指定Base64。使用的字符包括大小写[拉丁字母各](../Page/拉丁字母.md "wikilink")26个、数字10个、加号`+`和斜杠`/`，共64个字符，等号`=`用来作为后缀用途。
 
 完整的Base64定义可见RFC 1421和RFC
 2045。编码后的数据比原始数据略长，为原来的\(\frac{4}{3}\)。在电子邮件中，根据RFC
 822规定，每76个字符，还需要加上一个回车换行。可以估算编码后数据长度大约为原长的135.1%。
 
-转换的时候，将3[字节的数据](../Page/字节.md "wikilink")，先后放入一个24位元的[缓冲区中](../Page/缓冲区.md "wikilink")，先来的[字节占高位](../Page/字节.md "wikilink")。数据不足3字节的话，於緩衝區中剩下的位元用0补足。每次取出6位元（因为\(2 ^ 6 = 64\)），按照其值选择`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/`中的字符作为编码后的输出，直到全部输入数据转换完成。
+转换的时候，将3[字节的数据](../Page/字节.md "wikilink")，先后放入一个24位元的[缓冲区中](https://zh.wikipedia.org/wiki/缓冲区 "wikilink")，先来的[字节占高位](../Page/字节.md "wikilink")。数据不足3字节的话，於緩衝區中剩下的位元用0补足。每次取出6位元（因为\(2 ^ 6 = 64\)），按照其值选择`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/`中的字符作为编码后的输出，直到全部输入数据转换完成。
 
 若原数据长度不是3的[倍數时且剩下](../Page/倍數.md "wikilink")1個輸入數據，則在編碼結果後加2個`=`；若剩下2個輸入數據，則在編碼結果後加1個`=`。
 
@@ -78,7 +78,7 @@ Base64索引表：
 ## UTF-7
 
 [UTF-7是一个修改版Base](../Page/UTF-7.md "wikilink")64（**Modified
-Base64**）。主要是将[UTF-16的数据](../Page/UTF-16.md "wikilink")，用Base64的方法编码为可打印的[ASCII字符序列](../Page/ASCII.md "wikilink")。目的是传输Unicode数据。主要的区别在于不用等号`=`补餘，因为该字符通常需要大量的转译。
+Base64**）。主要是将[UTF-16的数据](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")，用Base64的方法编码为可打印的[ASCII字符序列](../Page/ASCII.md "wikilink")。目的是传输Unicode数据。主要的区别在于不用等号`=`补餘，因为该字符通常需要大量的转译。
 
 标准可见 RFC 2152，《A Mail-Safe Transformation Format of Unicode》。
 
@@ -90,11 +90,11 @@ numerics）和二进制IP地址采用了Base64编码。消息类型号的长度�
 
 ## 在URL中的应用
 
-Base64编码可用于在[HTTP环境下传递较长的标识信息](../Page/HTTP.md "wikilink")。例如，在[Java](../Page/Java.md "wikilink")[持久化系统](../Page/持久化.md "wikilink")[Hibernate中](../Page/Hibernate.md "wikilink")，就采用了Base64来将一个较长的唯一标识符（一般为128-bit的[UUID](../Page/UUID.md "wikilink")）编码为一个字符串，用作HTTP表单和HTTP
+Base64编码可用于在[HTTP环境下传递较长的标识信息](https://zh.wikipedia.org/wiki/HTTP "wikilink")。例如，在[Java](../Page/Java.md "wikilink")[持久化系统](https://zh.wikipedia.org/wiki/持久化 "wikilink")[Hibernate中](../Page/Hibernate.md "wikilink")，就采用了Base64来将一个较长的唯一标识符（一般为128-bit的[UUID](https://zh.wikipedia.org/wiki/UUID "wikilink")）编码为一个字符串，用作HTTP表单和HTTP
 GET
-[URL中的参数](../Page/URL.md "wikilink")。在其他应用程序中，也常常需要把二进制数据编码为适合放在URL（包括隐藏表单域）中的形式。此时，采用Base64编码不仅比较简短，同时也具有不可读性，即所编码的数据不会被人用肉眼所直接看到。
+[URL中的参数](https://zh.wikipedia.org/wiki/URL "wikilink")。在其他应用程序中，也常常需要把二进制数据编码为适合放在URL（包括隐藏表单域）中的形式。此时，采用Base64编码不仅比较简短，同时也具有不可读性，即所编码的数据不会被人用肉眼所直接看到。
 
-然而，标准的Base64并不适合直接放在URL裡传输，因为URL编码器会把标准Base64中的`/`和`+`字符变为形如`%XX`的形式，而这些`%`号在存入数据库时还需要再进行转换，因为[ANSI](../Page/ANSI.md "wikilink")
+然而，标准的Base64并不适合直接放在URL裡传输，因为URL编码器会把标准Base64中的`/`和`+`字符变为形如`%XX`的形式，而这些`%`号在存入数据库时还需要再进行转换，因为[ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink")
 [SQL中已将](../Page/SQL.md "wikilink")`%`号用作通配符。
 
 为解决此问题，可采用一种**用于URL的改进Base64**编码，它不在末尾填充`=`号，并将标准Base64中的`+`和`/`分别改成了`-`和`_`，这样就免去了在URL编解码和数据库存储时所要作的转换，避免了编码信息长度在此过程中的增加，并统一了数据库、表单等处对象标识符的格式。
@@ -108,14 +108,14 @@ GET
 
 ## 其他应用
 
-  - 垃圾訊息傳播者用Base64來避過反[垃圾郵件工具](../Page/垃圾郵件.md "wikilink")，因為那些工具通常都不會翻譯Base64的訊息。
+  - 垃圾訊息傳播者用Base64來避過反[垃圾郵件工具](https://zh.wikipedia.org/wiki/垃圾郵件 "wikilink")，因為那些工具通常都不會翻譯Base64的訊息。
   - 在檔案，Base64用作编码字串。
 
 ## 相关事件
 
   - 2018年2月电子邮件程序  发现重大漏洞，编号为
     [CVE-2018-6789](https://exim.org/static/doc/security/CVE-2018-6789.txt)
-    的[緩衝區溢位漏洞允许攻击者在服务器上远程执行恶意代码](../Page/緩衝區溢位.md "wikilink")。漏洞位于
+    的[緩衝區溢位漏洞允许攻击者在服务器上远程执行恶意代码](https://zh.wikipedia.org/wiki/緩衝區溢位 "wikilink")。漏洞位于
     base64 解码函数中，影响 Exim v4.90.1 之前的所有版本，多达 40 万服务器受到影响。\[1\]\[2\]
 
 ## 参见
@@ -124,11 +124,11 @@ GET
   -
   - [Quoted-printable](../Page/Quoted-printable.md "wikilink")
 
-  - [uuencode](../Page/uuencode.md "wikilink")
+  - [uuencode](https://zh.wikipedia.org/wiki/uuencode "wikilink")
 
   -
   -
-  - [URL](../Page/URL.md "wikilink")
+  - [URL](https://zh.wikipedia.org/wiki/URL "wikilink")
 
 ## 参考资料
 

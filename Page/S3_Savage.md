@@ -4,7 +4,7 @@ Graphics推出的一个](../Page/S3_Graphics.md "wikilink")[圖形處理器產�
 ## Savage 3D
 
 於1998年5月推出，為S3第一張真正的3D加速卡。核心架构為128bit，支援单周期三线性多重贴图，像素填充率是125MPixels/s，每秒最多能生成500万个三角形。它支持[Direct3D和](../Page/Direct3D.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")，也支持Alpha混合、多重纹理、抗锯齿、16/24bit
-Z綬存、三线性过滤等技术。而最有名則是其[S3TC压缩技术](../Page/S3TC.md "wikilink")。播放MPEG-2亦是它的強項。縱使功能不錯，但驱动卻有不少错误。而只支援8MB显存也是其敗筆之处。
+Z綬存、三线性过滤等技术。而最有名則是其[S3TC压缩技术](https://zh.wikipedia.org/wiki/S3TC "wikilink")。播放MPEG-2亦是它的強項。縱使功能不錯，但驱动卻有不少错误。而只支援8MB显存也是其敗筆之处。
 
 ## Savage 4
 
@@ -19,8 +19,8 @@ Labs的。的Savage4系列的單週期三線性過濾和S3TC紋理壓縮技術�
 的Savage4幾乎沒有一個匹配的3dfx Voodoo3的，ATI RAGE 128 的Matrox G400，NVIDIA RIVA
 TNT2。OpenGL的遊戲，如雷神之鎚II的Savage4進行以及G400，其緩慢的初始OpenGL的支持，並遠遠落後於TNT2和Voodoo3的。在Direct3D的標題，如省吾：機動裝甲部，野人4，TNT2和Voodoo3的以上速度較慢取得了近50％，即使在較低的分辨率（如800×600）。\[1\]該芯片是非常受歡迎的預算機，與一般的零售產品的基礎上它和OEM
 PC獲勝。 只有高品質的紋理從S3TC支持能力給了它心中的那份好遊戲社區。虛幻競技場雷神之鎚III競技場的時候Savage4採[0.25微米製
-程](../Page/0.25微米製_程.md "wikilink")，提供32位元的貼圖處理，可達2K×2K最大材質解析度。內建300MHz
-[随机数模转换记忆体](../Page/RAMDAC.md "wikilink")（RAMDAC）
+程](https://zh.wikipedia.org/wiki/0.25微米製_程 "wikilink")，提供32位元的貼圖處理，可達2K×2K最大材質解析度。內建300MHz
+[随机数模转换记忆体](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")（RAMDAC）
 、32位元Z-Buffer、8位元Stencil Buffer。
 據S3公司表示，Savage4是目前業界唯一可同步使用單一週期多重材質貼圖（
 Single Pass Multi-Texturing）及單一週期三線性濾化（Single-Cycle Trilin
@@ -38,8 +38,8 @@ GT繪圖晶片顯示卡。 針對99年使用者對3D繪圖的需求，Savage4 �
 
 ## Savage 2000
 
-**Savage2000**於1999年7月推出。它采用了全新的核心架构，采用[0.18微米製程](../Page/0.18微米製程.md "wikilink")，128bit显存頻寬，核心采用2X2架構，每條像素流水線每个週期能处理兩个多重纹理像素，总共4个。是較[GeForce
-256之後第二張支援硬件光影转换](../Page/GeForce_256.md "wikilink")（他們稱之為S3TL）的显示卡，350
+**Savage2000**於1999年7月推出。它采用了全新的核心架构，采用[0.18微米製程](https://zh.wikipedia.org/wiki/0.18微米製程 "wikilink")，128bit显存頻寬，核心采用2X2架構，每條像素流水線每个週期能处理兩个多重纹理像素，总共4个。是較[GeForce
+256之後第二張支援硬件光影转换](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")（他們稱之為S3TL）的显示卡，350
 MHz RAMDAC，縱使3D性能较前代有很大提升，但依然不敌GeForce 256，尤其GeForce 256
 DDR。其驱动更可稱得上糟糕，支援硬件光影转换是DIRECT 3D 7，但
 Savage2000 初期提供的驱动卻是没有硬件光影转换的Direct 3D
@@ -60,8 +60,8 @@ KM266，支持intel 的PL133T, PM133T, PL133T 和 P4M266.
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
-  - [ViRGE](../Page/S3_ViRGE.md "wikilink") 系列
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
+  - [ViRGE](https://zh.wikipedia.org/wiki/S3_ViRGE "wikilink") 系列
   - [DeltaChrome S8](../Page/DeltaChrome_S8.md "wikilink") 系列
   - [GammaChrome S18](../Page/GammaChrome_S18.md "wikilink") 系列
   - [Chrome S20](../Page/ChromeS20_Series.md "wikilink") 系列

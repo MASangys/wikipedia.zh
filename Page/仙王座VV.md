@@ -1,18 +1,18 @@
 [VVCephei_vs_SolarSystem_ZH.jpg](https://zh.wikipedia.org/wiki/File:VVCephei_vs_SolarSystem_ZH.jpg "fig:VVCephei_vs_SolarSystem_ZH.jpg")
 
 **仙王座
-VV星**是一個位於[仙王座的](../Page/仙王座.md "wikilink")[雙星系統](../Page/雙星系統.md "wikilink")，分別由一顆紅[特超巨星及一顆藍](../Page/特超巨星.md "wikilink")[主序星組成](../Page/主序星.md "wikilink")，這兩顆星各自填滿了彼此的[洛希瓣](../Page/洛希瓣.md "wikilink")。這個雙星系統距離地球約2,400[光年](../Page/光年.md "wikilink")\[1\]\[2\]
+VV星**是一個位於[仙王座的](../Page/仙王座.md "wikilink")[雙星系統](https://zh.wikipedia.org/wiki/雙星系統 "wikilink")，分別由一顆紅[特超巨星及一顆藍](../Page/特超巨星.md "wikilink")[主序星組成](../Page/主序星.md "wikilink")，這兩顆星各自填滿了彼此的[洛希瓣](../Page/洛希瓣.md "wikilink")。這個雙星系統距離地球約2,400[光年](../Page/光年.md "wikilink")\[1\]\[2\]
 。
 
 ## 仙王座VV A
 
 作為主星的仙王座VV
-A是一顆紅[特超巨星](../Page/特超巨星.md "wikilink")，它的直徑為太陽的1600～1900多倍\[3\]\[4\]，比[土星軌道還要大](../Page/土星.md "wikilink")，是人們迄今已知的恆星中，體積**第三大**的。其確實的質量不明，但從軌道的動態來推測，不超過100倍太陽質量；從光度推測，則不超過25\~40倍太陽質量。它的[光譜分類為M](../Page/恒星光谱分类.md "wikilink")2，光度是太陽的275,000～575,000倍。物質正從仙王座VV
+A是一顆紅[特超巨星](../Page/特超巨星.md "wikilink")，它的直徑為太陽的1600～1900多倍\[3\]\[4\]，比[土星軌道還要大](../Page/土星.md "wikilink")，是人們迄今已知的恆星中，體積**第三大**的。其確實的質量不明，但從軌道的動態來推測，不超過100倍太陽質量；從光度推測，則不超過25\~40倍太陽質量。它的[光譜分類為M](https://zh.wikipedia.org/wiki/恒星光谱分类 "wikilink")2，光度是太陽的275,000～575,000倍。物質正從仙王座VV
 A噴發而出，流向其伴星仙王座VV B。
 
 ## 仙王座VV B
 
-是仍處於主序階段的藍色[伴星](../Page/伴星.md "wikilink")，與主星距離16～25[天文單位](../Page/天文單位.md "wikilink")，每20年繞主星公轉一週。仙王座VV
+是仍處於主序階段的藍色[伴星](https://zh.wikipedia.org/wiki/伴星 "wikilink")，與主星距離16～25[天文單位](../Page/天文單位.md "wikilink")，每20年繞主星公轉一週。仙王座VV
 B的光譜分類為B0，其直徑為太陽直徑的10倍，釋出的光度為太陽的10萬倍。
 
 ## 參見
@@ -47,7 +47,7 @@ B的光譜分類為B0，其直徑為太陽直徑的10倍，釋出的光度為太
     Kaler writes "in truth we really do not know". Its distance cannot
     be measured from parallax; instead it is derived from its assumed
     membership in the Cepheus OB2
-    [association](../Page/Stellar_association#Stellar_associations.md "wikilink"),
+    [association](https://zh.wikipedia.org/wiki/Stellar_association#Stellar_associations "wikilink"),
     but this is also not certain. Other methods give a range of sizes
     between 1000 and 2200 that of the Sun, but these too are confounded
     by the fact that the star is not spherical, which leads to

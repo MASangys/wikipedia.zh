@@ -1,25 +1,25 @@
 **Rain**（），本名“**鄭智薰**”（
-為[韓國著名男歌手](../Page/韓國.md "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](../Page/大韩民国.md "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
+為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
 
 2002年以藝名Rain發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's
 World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。
 2005年成為首位獲得中、日、泰三國的亞洲MTV韓國最佳藝人獎的亞洲歌手。
-2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](../Page/麥迪遜廣場花園.md "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。
+2006年起在中、美、日、澳、泰等多個國家開啟了首個世界巡迴演唱會。2006年2月2日，Rain在紐約[麥迪遜廣場花園劇場舉行了首次北美個人演唱會](https://zh.wikipedia.org/wiki/麥迪遜廣場花園 "wikilink")，並參加錄製紐約時代廣場MTV演播中心特別節目《Rain在紐約》。
 同年獲選美國《[時代
-(雜誌)](../Page/時代_\(雜誌\).md "wikilink")》選為全球最具影響力100人，成為[時代百大人物](../Page/時代百大人物.md "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由大韓航空全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋開個人演唱會的韓國藝人](../Page/東京巨蛋.md "wikilink")。2008年擔任北京奧運會閉幕式表演嘉賓
+(雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》選為全球最具影響力100人，成為[時代百大人物](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。是韓國目前唯一入過此榜單的藝人。2007年1月，Rain繼韓國、美國世界巡演後，乘坐由大韓航空全程贊助並印有自身肖像的飛機，先後飛往新加坡、馬來西亞、泰國、中國、澳洲、日本等多個國家舉行世界巡迴演唱會，更成為首位登上日本[東京巨蛋開個人演唱會的韓國藝人](../Page/東京巨蛋.md "wikilink")。2008年擔任北京奧運會閉幕式表演嘉賓
 。同年榮獲韓國形象基石獎，並以Rain之名被寫入大英百科全書網絡版。2010年擔任廣州亞運會閉幕式表演嘉賓 。 2011年再度獲選美國《[時代
-(雜誌)](../Page/時代_\(雜誌\).md "wikilink")》全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](../Page/時代百大人物.md "wikilink")
+(雜誌)](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》全球最具影響力100人，並成為目前唯一一個入選過兩次[時代百大人物的亞洲藝人](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")
 。
 
-Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》獲得[KBS演技大賞的男子新人賞](../Page/KBS演技大賞.md "wikilink")。2004年，Rain與[宋慧喬主演的電視劇](../Page/宋慧喬.md "wikilink")《[浪漫滿屋](../Page/浪漫滿屋.md "wikilink")》獲得[KBS演技大賞的男子優秀演技賞](../Page/KBS演技大賞.md "wikilink")。與[金思朗](../Page/金思朗.md "wikilink")、[新慜娥出演電視劇](../Page/新慜娥.md "wikilink")《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》之後，Rain出演了他的首部韓國電影《賽柏格之戀》，並獲得了[柏林國際電影節的](../Page/柏林國際電影節.md "wikilink")[亞佛雷德鮑爾獎](../Page/亞佛雷德鮑爾獎.md "wikilink")。Rain之後出演了美國電影《[駭速快手](../Page/駭速快手.md "wikilink")》和《[忍者刺客](../Page/忍者刺客.md "wikilink")》，成為首位擔任好萊塢主流電影主角的韓星。
-《[忍者刺客](../Page/忍者刺客.md "wikilink")》更讓他成為首位獲得美國本土電影獎獎項[MTV電影大獎的韓國藝人](../Page/MTV電影大獎.md "wikilink")。Rain之後出演了另一部韓國電影《R2B：獵鷹行動》，該片於2012年8月上映。
+Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》獲得[KBS演技大賞的男子新人賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。2004年，Rain與[宋慧喬主演的電視劇](../Page/宋慧喬.md "wikilink")《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》獲得[KBS演技大賞的男子優秀演技賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")。與[金思朗](../Page/金思朗.md "wikilink")、[新慜娥出演電視劇](../Page/新慜娥.md "wikilink")《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》之後，Rain出演了他的首部韓國電影《賽柏格之戀》，並獲得了[柏林國際電影節的](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")[亞佛雷德鮑爾獎](../Page/亞佛雷德鮑爾獎.md "wikilink")。Rain之後出演了美國電影《[駭速快手](https://zh.wikipedia.org/wiki/駭速快手 "wikilink")》和《[忍者刺客](../Page/忍者刺客.md "wikilink")》，成為首位擔任好萊塢主流電影主角的韓星。
+《[忍者刺客](../Page/忍者刺客.md "wikilink")》更讓他成為首位獲得美國本土電影獎獎項[MTV電影大獎的韓國藝人](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")。Rain之後出演了另一部韓國電影《R2B：獵鷹行動》，該片於2012年8月上映。
 
 2007年，Rain離開經紀公司[JYP娛樂](../Page/JYP娛樂.md "wikilink")，並創立了自己的公司[J.
-Tune娛樂](../Page/J._Tune娛樂.md "wikilink")，但公司依然與[朴轸永保持合作關係](../Page/朴轸永.md "wikilink")。2011年10月9日，作為江南區宣傳大使的Rain同時也為感謝回饋粉絲，在首爾永東大路舉辦了入伍前的大型封街告別演唱會“Last
+Tune娛樂](https://zh.wikipedia.org/wiki/J._Tune娛樂 "wikilink")，但公司依然與[朴轸永保持合作關係](https://zh.wikipedia.org/wiki/朴轸永 "wikilink")。2011年10月9日，作為江南區宣傳大使的Rain同時也為感謝回饋粉絲，在首爾永東大路舉辦了入伍前的大型封街告別演唱會“Last
 Of The Best”，免費熱唱兩小時，兩萬多名國內外粉絲到場，多位圈內好友亦到場支持。
-10月11日上午正式入伍。2013年7月10日正式退伍，並已經和由前任JYP娛樂[總裁擔任](../Page/總裁.md "wikilink")[執行長的](../Page/執行長.md "wikilink")[Cube娛樂旗下的](../Page/Cube娛樂.md "wikilink")[Cube
-DC公司簽約](../Page/Cube_DC.md "wikilink")。2015年，Rain創立了自己的公司[R.A.I.N.
-Company](../Page/R.A.I.N._Company.md "wikilink")。
+10月11日上午正式入伍。2013年7月10日正式退伍，並已經和由前任JYP娛樂[總裁擔任](https://zh.wikipedia.org/wiki/總裁 "wikilink")[執行長的](https://zh.wikipedia.org/wiki/執行長 "wikilink")[Cube娛樂旗下的](../Page/Cube娛樂.md "wikilink")[Cube
+DC公司簽約](https://zh.wikipedia.org/wiki/Cube_DC "wikilink")。2015年，Rain創立了自己的公司[R.A.I.N.
+Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 
 ## 個人生活
 
@@ -155,13 +155,14 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 ### 中文單曲
 
   - 2006年《手記》（Pantech廣告歌）
-  - 2008年《Any Dream》（[Samsung](../Page/Samsung.md "wikilink")
+  - 2008年《Any
+    Dream》（[Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
     Anycall廣告歌）
   - 2008年《Rainism》
   - 2009年《Love Story》
   - 2011年《珍愛》
-  - 2015年《克拉戀人》（《[克拉戀人](../Page/克拉戀人.md "wikilink")》主題曲）
-  - 2015年《假裝》（《[克拉戀人](../Page/克拉戀人.md "wikilink")》片尾曲）
+  - 2015年《克拉戀人》（《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》主題曲）
+  - 2015年《假裝》（《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》片尾曲）
   - 2017年《最好的禮物》(최고의 선물中文版)
 
 ## 合作歌曲
@@ -174,31 +175,31 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 
 ### 電視劇
 
-| 年份        | 電視台                                                                   | 劇名                                                 | 飾演      | 性質    |
-| --------- | --------------------------------------------------------------------- | -------------------------------------------------- | ------- | ----- |
-| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[Orange](../Page/Orange.md "wikilink")》           | 小雨      | 第一男主角 |
-| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                   | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》           | 車尚道     |       |
-| 2004年     | 《[浪漫滿屋](../Page/浪漫滿屋.md "wikilink")》                                  | 李英宰                                                |         |       |
-| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                              | 姜賦九                                                |         |       |
-| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                        | 智愚                                                 |         |       |
-| 2014年     | SBS                                                                   | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》       | 李賢旭     |       |
-| 2015年     | [浙江衛視](../Page/浙江衛視.md "wikilink")/[安徽衛視](../Page/安徽衛視.md "wikilink") | 《[克拉戀人](../Page/克拉戀人.md "wikilink")》               | 蕭亮      |       |
-| 2016年     | SBS                                                                   | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》             | 金英洙/李海俊 |       |
-| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                    | 《[Sketch](../Page/Sketch_\(韓國電視劇\).md "wikilink")》 | 姜東洙     |       |
-| 2018年(待播) | 待定                                                                    | 《[八月未央](../Page/八月未央_\(電視劇\).md "wikilink")》       | 沈八月     |       |
+| 年份        | 電視台                                                                                                         | 劇名                                                                    | 飾演      | 性質    |
+| --------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------- | ----- |
+| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[Orange](https://zh.wikipedia.org/wiki/Orange "wikilink")》           | 小雨      | 第一男主角 |
+| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                         | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》                              | 車尚道     |       |
+| 2004年     | 《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》                                                     | 李英宰                                                                   |         |       |
+| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                                                                    | 姜賦九                                                                   |         |       |
+| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                                                              | 智愚                                                                    |         |       |
+| 2014年     | SBS                                                                                                         | 《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》       | 李賢旭     |       |
+| 2015年     | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")/[安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") | 《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》               | 蕭亮      |       |
+| 2016年     | SBS                                                                                                         | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》                                | 金英洙/李海俊 |       |
+| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                                                          | 《[Sketch](https://zh.wikipedia.org/wiki/Sketch_\(韓國電視劇\) "wikilink")》 | 姜東洙     |       |
+| 2018年(待播) | 待定                                                                                                          | 《[八月未央](https://zh.wikipedia.org/wiki/八月未央_\(電視劇\) "wikilink")》       | 沈八月     |       |
 
 ### 電影
 
-| 年份    | 名稱                                                         | 飾演                 | 性質    |
-| ----- | ---------------------------------------------------------- | ------------------ | ----- |
-| 2007年 | 《[賽柏格之戀](../Page/賽柏格之戀.md "wikilink")》                     | 朴一順                | 第一男主角 |
-| 2008年 | 《[極速賽車手](../Page/極速賽車手.md "wikilink")》                     | 天速(Taejo Togokhan) |       |
-| 2009年 | 《[忍者刺客](../Page/忍者刺客.md "wikilink")》                       | 雷藏                 | 第一男主角 |
-| 2012年 | 《》                                                         | 鄭泰勳                | 第一男主角 |
-| 2014年 | 《[無間救援 The Prince](../Page/無間救援_The_Prince.md "wikilink")》 | 馬克                 | 反派    |
-| 2014年 | 《[露水红颜](../Page/露水红颜.md "wikilink")》                       | 徐承勛                | 第一男主角 |
-| 2018年 | 《》                                                         | 嚴福童                | 第一男主角 |
-|       |                                                            |                    |       |
+| 年份    | 名稱                                                                            | 飾演                 | 性質    |
+| ----- | ----------------------------------------------------------------------------- | ------------------ | ----- |
+| 2007年 | 《[賽柏格之戀](https://zh.wikipedia.org/wiki/賽柏格之戀 "wikilink")》                     | 朴一順                | 第一男主角 |
+| 2008年 | 《[極速賽車手](../Page/極速賽車手.md "wikilink")》                                        | 天速(Taejo Togokhan) |       |
+| 2009年 | 《[忍者刺客](../Page/忍者刺客.md "wikilink")》                                          | 雷藏                 | 第一男主角 |
+| 2012年 | 《》                                                                            | 鄭泰勳                | 第一男主角 |
+| 2014年 | 《[無間救援 The Prince](https://zh.wikipedia.org/wiki/無間救援_The_Prince "wikilink")》 | 馬克                 | 反派    |
+| 2014年 | 《[露水红颜](https://zh.wikipedia.org/wiki/露水红颜 "wikilink")》                       | 徐承勛                | 第一男主角 |
+| 2018年 | 《》                                                                            | 嚴福童                | 第一男主角 |
+|       |                                                                               |                    |       |
 
 ## 作品
 
@@ -718,100 +719,100 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 
 ## 獎項
 
-| 年份                                                                           | 頒獎典禮                                            | 獎項             | 作品             |
-| ---------------------------------------------------------------------------- | ----------------------------------------------- | -------------- | -------------- |
-| 2002                                                                         | 第4屆Mnet KM Music Festival                       | 最佳新人男歌手獎       | 《Bad Guy》      |
-| 第17屆韓國[金唱片獎](../Page/金唱片獎.md "wikilink")                                     | 新人獎                                             |                |                |
-| M.Net音樂錄像帶大獎                                                                 | 新人獎                                             |                |                |
-| 漢城音樂大獎                                                                       | 新人獎                                             |                |                |
-| 超級新人演唱會大獎                                                                    | 超級新人獎                                           |                |                |
-| KMTV 韓國音樂大獎                                                                  | 新人歌手獎                                           |                |                |
-| SBS 歌曲大獎                                                                     | 最佳新人獎                                           |                |                |
-| KBS 流行樂大獎                                                                    | 最受歡迎歌手獎                                         |                |                |
-| MBC 十大歌手歌謠節                                                                  | 新人獎                                             |                |                |
-| 2003                                                                         | M.Net music video festival mobile               | 人氣賞            | 《躲避太陽的辦法》      |
-| KMTV Korean Music Awards                                                     | 最佳歌手賞                                           |                |                |
-| 漢城歌謠大賞                                                                       | 本賞                                              |                |                |
-| SBS歌謠大祭典                                                                     | 網路投票最高人氣賞                                       |                |                |
-| 本賞                                                                           |                                                 |                |                |
-| MBC10大歌手賞                                                                    | 10大歌手賞                                          |                |                |
-| [KBS演技大賞](../Page/KBS演技大賞.md "wikilink")                                     | 新人獎                                             |                |                |
-| 最佳搭檔獎                                                                        |                                                 |                |                |
-| 網友人氣獎                                                                        |                                                 |                |                |
-| 第10屆大韓民國放送娛樂大賞                                                               | 新生代男歌手獎                                         |                |                |
-| MTV                                                                          | 韓國最佳mobile歌手獎                                   |                |                |
-| Seoul Music Awards                                                           | 本賞                                              |                |                |
-| KBS歌謠大賞                                                                      | 本賞                                              |                |                |
-| KBS歌謠大賞                                                                      | 網絡人氣獎                                           |                |                |
-| 2004                                                                         | 第6屆Mnet KM Music Festival                       | 年度專輯獎          | 《It's Raining》 |
-| 第6屆Mnet KM Music Festival                                                    | 年度歌手獎                                           |                |                |
-| 第6屆Mnet KM Music Festival                                                    | 年度歌曲獎                                           | 《It's Raining》 |                |
-| 第6屆Mnet KM Music Festival                                                    | 最佳流行音樂錄影帶獎                                      | 《It's Raining》 |                |
-| 第40屆[百想藝術大賞](../Page/百想藝術大賞.md "wikilink")                                   | TV部份人氣賞                                         |                |                |
-| 安德烈金Star word                                                                | 演藝人部份首賞                                         |                |                |
-| 第19屆韓國[金唱片獎](../Page/金唱片獎.md "wikilink")                                     | 本賞                                              |                |                |
-| M.net KM MTV                                                                 | 最佳人氣音樂錄影帶賞                                      |                |                |
-| [首爾音樂獎](../Page/首爾音樂獎.md "wikilink")                                         | 本賞                                              |                |                |
-| 韓國國會大賞                                                                       | 音樂部份首賞                                          |                |                |
-| MBC年度十大人氣歌手賞                                                                 | 本賞                                              |                |                |
-| 首賞                                                                           |                                                 |                |                |
-| SBS Music Award                                                              | 本賞                                              |                |                |
-| 首賞                                                                           |                                                 |                |                |
-| 最高人氣賞                                                                        |                                                 |                |                |
-| 大賞                                                                           |                                                 |                |                |
-| [KBS演技大賞](../Page/KBS演技大賞.md "wikilink")                                     | 最佳男演員賞                                          |                |                |
-| 人氣賞                                                                          |                                                 |                |                |
-| 最佳銀幕情侶獎（與[宋慧喬](../Page/宋慧喬.md "wikilink")）                                   |                                                 |                |                |
-| MBC十大歌手賞                                                                     | 十大歌手賞                                           |                |                |
-| 2005                                                                         | 泰國MTV ASIA AID音樂盛典                              | 最高人氣歌手獎        |                |
-| MTV中國獎                                                                       | 央視國語音樂榮譽獎                                       |                |                |
-| 日本MTV音樂錄像帶大獎                                                                 | 最優秀亞洲BUZZ歌手獎                                    |                |                |
-| 頻道V音樂錄影帶獎                                                                    | 受歡迎的亞洲藝人獎                                       |                |                |
-| 安德烈金獎                                                                        | 最佳明星獎                                           |                |                |
-| [KBS演技大賞](../Page/KBS演技大賞.md "wikilink")                                     | 大賞                                              | 《這該死的爱》        |                |
-| 最高人氣男演員獎                                                                     |                                                 |                |                |
-| 第7屆CCTV-MTV音樂盛典                                                              | 韓國最佳藝人獎                                         |                |                |
-| 2006                                                                         | 美國[時代雜誌年度百大最具影響力人物](../Page/時代雜誌.md "wikilink") |                |                |
-| 第8屆Mnet KM Music Festival                                                    | 最佳超級明星獎獎                                        | 《I'm Coming》   |                |
-| 最佳男歌手獎                                                                       |                                                 |                |                |
-| 新加坡亞洲電視大獎                                                                    | 最佳電影風格獎                                         | 《這該死的愛》        |                |
-| SBS Gayo大田2006年                                                              | 本賞                                              |                |                |
-| 香港電台國際流行音樂獎                                                                  | 頂新演員及亞洲最暢銷的相冊獎                                  |                |                |
-| IFPI香港音樂銷售獎                                                                  | 韓國和日本的音樂獎                                       |                |                |
-| 台灣HITO流行音樂獎                                                                  | 年度日亞歌曲獎                                         | 《I Do》         |                |
-| 2007                                                                         | 第43屆百想藝術大獎                                      | 最佳新演員獎         |                |
-| 第59屆[柏林電影節](../Page/柏林電影節.md "wikilink")                                     | 阿爾弗雷德鮑爾獎                                        |                |                |
-| [柏林電影節紅地毯部分](../Page/柏林電影節.md "wikilink")                                    | 紅地毯最佳穿著藝人獎                                      |                |                |
-| 第4屆Mobile演藝大獎                                                                | 最佳男歌手獎                                          |                |                |
-| 第44屆[大鐘獎](../Page/大鐘獎.md "wikilink")                                         | 海外人氣獎                                           |                |                |
-| 韓國娛樂產業協會男子歌手部第一名                                                             |                                                 |                |                |
-| 第1屆大韓民國電影演技大賞                                                                | 最佳男新人獎                                          |                |                |
-| 第12屆亞太電影博覽會                                                                  | 亞洲年度男明星獎                                        |                |                |
-| 2008                                                                         | 第23屆韓國[金唱片獎](../Page/金唱片獎.md "wikilink")        | 本賞             |                |
-| 搜狐韓樂                                                                         | 十大金曲獎                                           | 《Rainism》      |                |
-| 韓國最佳歌手獎                                                                      |                                                 |                |                |
-| IFPI香港唱片銷量大獎                                                                 | 最暢銷日                                            |                |                |
-| 韓語唱片大獎                                                                       | 《Rain's World》                                  |                |                |
-| Style Icon Awards                                                            | 最佳時尚偶像獎                                         |                |                |
-| 2009                                                                         | 台灣HITO流行音樂獎                                     | 年度日亞歌曲獎        | 《Rainism》      |
-| 2010                                                                         | 美國Green Planet Movie Awards                     | 十大亞洲藝人獎        |                |
-| 亞洲文化大使獎                                                                      |                                                 |                |                |
-| 亞洲最優秀藝人獎                                                                     |                                                 |                |                |
-| 美國MTV電影頒獎典禮                                                                  | Biggest Badass Star獎                            |                |                |
-| 韓國文化產業振興院                                                                    | 成就獎                                             |                |                |
-| 第12屆[Mnet Asian Music Awards](../Page/Mnet_Asian_Music_Awards.md "wikilink") | 最佳個人舞蹈演繹獎                                       |                |                |
-| 2011                                                                         | 美國[時代雜誌年度百大最具影響力人物](../Page/時代雜誌.md "wikilink") |                |                |
-| 第2屆韓國首爾文化藝術大獎頒獎禮                                                             | 世界明星大獎                                          |                |                |
-| 美國MTV音樂頻道                                                                    | 最佳時尚男藝人獎                                        |                |                |
-| 2013                                                                         | 芭莎男士品位成功年度人物頒獎盛典                                | 亞洲全能藝人大獎       |                |
-| 2014                                                                         | 中國QQ音樂大獎                                        | 最具影響力海外艺人獎     |                |
-| 歐美姿•小資風尚盛典                                                                   | 年度風尚人物                                          |                |                |
-| DramaFever Festival                                                          | Actor Face-off                                  |                |                |
-| 2015                                                                         | 第19屆全球華語榜中榜                                     | 亞洲影響力最受歡迎韓國藝人獎 |                |
-| 中國城市時尚盛典                                                                     | 亞洲榮耀人物                                          |                |                |
-| 第九屆音樂盛典咪咕匯                                                                   | 最受歡迎海外歌手                                        |                |                |
-| 2016                                                                         | MTV亞洲金曲大賞                                       | 最佳海外歌手獎        |                |
-| 釜山One Asia音樂節                                                                | 2000年代最佳韓流明星獎                                   |                |                |
+| 年份                                                                                              | 頒獎典禮                                                               | 獎項             | 作品             |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------- | -------------- |
+| 2002                                                                                            | 第4屆Mnet KM Music Festival                                          | 最佳新人男歌手獎       | 《Bad Guy》      |
+| 第17屆韓國[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                     | 新人獎                                                                |                |                |
+| M.Net音樂錄像帶大獎                                                                                    | 新人獎                                                                |                |                |
+| 漢城音樂大獎                                                                                          | 新人獎                                                                |                |                |
+| 超級新人演唱會大獎                                                                                       | 超級新人獎                                                              |                |                |
+| KMTV 韓國音樂大獎                                                                                     | 新人歌手獎                                                              |                |                |
+| SBS 歌曲大獎                                                                                        | 最佳新人獎                                                              |                |                |
+| KBS 流行樂大獎                                                                                       | 最受歡迎歌手獎                                                            |                |                |
+| MBC 十大歌手歌謠節                                                                                     | 新人獎                                                                |                |                |
+| 2003                                                                                            | M.Net music video festival mobile                                  | 人氣賞            | 《躲避太陽的辦法》      |
+| KMTV Korean Music Awards                                                                        | 最佳歌手賞                                                              |                |                |
+| 漢城歌謠大賞                                                                                          | 本賞                                                                 |                |                |
+| SBS歌謠大祭典                                                                                        | 網路投票最高人氣賞                                                          |                |                |
+| 本賞                                                                                              |                                                                    |                |                |
+| MBC10大歌手賞                                                                                       | 10大歌手賞                                                             |                |                |
+| [KBS演技大賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")                                     | 新人獎                                                                |                |                |
+| 最佳搭檔獎                                                                                           |                                                                    |                |                |
+| 網友人氣獎                                                                                           |                                                                    |                |                |
+| 第10屆大韓民國放送娛樂大賞                                                                                  | 新生代男歌手獎                                                            |                |                |
+| MTV                                                                                             | 韓國最佳mobile歌手獎                                                      |                |                |
+| Seoul Music Awards                                                                              | 本賞                                                                 |                |                |
+| KBS歌謠大賞                                                                                         | 本賞                                                                 |                |                |
+| KBS歌謠大賞                                                                                         | 網絡人氣獎                                                              |                |                |
+| 2004                                                                                            | 第6屆Mnet KM Music Festival                                          | 年度專輯獎          | 《It's Raining》 |
+| 第6屆Mnet KM Music Festival                                                                       | 年度歌手獎                                                              |                |                |
+| 第6屆Mnet KM Music Festival                                                                       | 年度歌曲獎                                                              | 《It's Raining》 |                |
+| 第6屆Mnet KM Music Festival                                                                       | 最佳流行音樂錄影帶獎                                                         | 《It's Raining》 |                |
+| 第40屆[百想藝術大賞](https://zh.wikipedia.org/wiki/百想藝術大賞 "wikilink")                                   | TV部份人氣賞                                                            |                |                |
+| 安德烈金Star word                                                                                   | 演藝人部份首賞                                                            |                |                |
+| 第19屆韓國[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                                     | 本賞                                                                 |                |                |
+| M.net KM MTV                                                                                    | 最佳人氣音樂錄影帶賞                                                         |                |                |
+| [首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")                                         | 本賞                                                                 |                |                |
+| 韓國國會大賞                                                                                          | 音樂部份首賞                                                             |                |                |
+| MBC年度十大人氣歌手賞                                                                                    | 本賞                                                                 |                |                |
+| 首賞                                                                                              |                                                                    |                |                |
+| SBS Music Award                                                                                 | 本賞                                                                 |                |                |
+| 首賞                                                                                              |                                                                    |                |                |
+| 最高人氣賞                                                                                           |                                                                    |                |                |
+| 大賞                                                                                              |                                                                    |                |                |
+| [KBS演技大賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")                                     | 最佳男演員賞                                                             |                |                |
+| 人氣賞                                                                                             |                                                                    |                |                |
+| 最佳銀幕情侶獎（與[宋慧喬](../Page/宋慧喬.md "wikilink")）                                                      |                                                                    |                |                |
+| MBC十大歌手賞                                                                                        | 十大歌手賞                                                              |                |                |
+| 2005                                                                                            | 泰國MTV ASIA AID音樂盛典                                                 | 最高人氣歌手獎        |                |
+| MTV中國獎                                                                                          | 央視國語音樂榮譽獎                                                          |                |                |
+| 日本MTV音樂錄像帶大獎                                                                                    | 最優秀亞洲BUZZ歌手獎                                                       |                |                |
+| 頻道V音樂錄影帶獎                                                                                       | 受歡迎的亞洲藝人獎                                                          |                |                |
+| 安德烈金獎                                                                                           | 最佳明星獎                                                              |                |                |
+| [KBS演技大賞](https://zh.wikipedia.org/wiki/KBS演技大賞 "wikilink")                                     | 大賞                                                                 | 《這該死的爱》        |                |
+| 最高人氣男演員獎                                                                                        |                                                                    |                |                |
+| 第7屆CCTV-MTV音樂盛典                                                                                 | 韓國最佳藝人獎                                                            |                |                |
+| 2006                                                                                            | 美國[時代雜誌年度百大最具影響力人物](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink") |                |                |
+| 第8屆Mnet KM Music Festival                                                                       | 最佳超級明星獎獎                                                           | 《I'm Coming》   |                |
+| 最佳男歌手獎                                                                                          |                                                                    |                |                |
+| 新加坡亞洲電視大獎                                                                                       | 最佳電影風格獎                                                            | 《這該死的愛》        |                |
+| SBS Gayo大田2006年                                                                                 | 本賞                                                                 |                |                |
+| 香港電台國際流行音樂獎                                                                                     | 頂新演員及亞洲最暢銷的相冊獎                                                     |                |                |
+| IFPI香港音樂銷售獎                                                                                     | 韓國和日本的音樂獎                                                          |                |                |
+| 台灣HITO流行音樂獎                                                                                     | 年度日亞歌曲獎                                                            | 《I Do》         |                |
+| 2007                                                                                            | 第43屆百想藝術大獎                                                         | 最佳新演員獎         |                |
+| 第59屆[柏林電影節](https://zh.wikipedia.org/wiki/柏林電影節 "wikilink")                                     | 阿爾弗雷德鮑爾獎                                                           |                |                |
+| [柏林電影節紅地毯部分](https://zh.wikipedia.org/wiki/柏林電影節 "wikilink")                                    | 紅地毯最佳穿著藝人獎                                                         |                |                |
+| 第4屆Mobile演藝大獎                                                                                   | 最佳男歌手獎                                                             |                |                |
+| 第44屆[大鐘獎](../Page/大鐘獎.md "wikilink")                                                            | 海外人氣獎                                                              |                |                |
+| 韓國娛樂產業協會男子歌手部第一名                                                                                |                                                                    |                |                |
+| 第1屆大韓民國電影演技大賞                                                                                   | 最佳男新人獎                                                             |                |                |
+| 第12屆亞太電影博覽會                                                                                     | 亞洲年度男明星獎                                                           |                |                |
+| 2008                                                                                            | 第23屆韓國[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")        | 本賞             |                |
+| 搜狐韓樂                                                                                            | 十大金曲獎                                                              | 《Rainism》      |                |
+| 韓國最佳歌手獎                                                                                         |                                                                    |                |                |
+| IFPI香港唱片銷量大獎                                                                                    | 最暢銷日                                                               |                |                |
+| 韓語唱片大獎                                                                                          | 《Rain's World》                                                     |                |                |
+| Style Icon Awards                                                                               | 最佳時尚偶像獎                                                            |                |                |
+| 2009                                                                                            | 台灣HITO流行音樂獎                                                        | 年度日亞歌曲獎        | 《Rainism》      |
+| 2010                                                                                            | 美國Green Planet Movie Awards                                        | 十大亞洲藝人獎        |                |
+| 亞洲文化大使獎                                                                                         |                                                                    |                |                |
+| 亞洲最優秀藝人獎                                                                                        |                                                                    |                |                |
+| 美國MTV電影頒獎典禮                                                                                     | Biggest Badass Star獎                                               |                |                |
+| 韓國文化產業振興院                                                                                       | 成就獎                                                                |                |                |
+| 第12屆[Mnet Asian Music Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink") | 最佳個人舞蹈演繹獎                                                          |                |                |
+| 2011                                                                                            | 美國[時代雜誌年度百大最具影響力人物](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink") |                |                |
+| 第2屆韓國首爾文化藝術大獎頒獎禮                                                                                | 世界明星大獎                                                             |                |                |
+| 美國MTV音樂頻道                                                                                       | 最佳時尚男藝人獎                                                           |                |                |
+| 2013                                                                                            | 芭莎男士品位成功年度人物頒獎盛典                                                   | 亞洲全能藝人大獎       |                |
+| 2014                                                                                            | 中國QQ音樂大獎                                                           | 最具影響力海外艺人獎     |                |
+| 歐美姿•小資風尚盛典                                                                                      | 年度風尚人物                                                             |                |                |
+| DramaFever Festival                                                                             | Actor Face-off                                                     |                |                |
+| 2015                                                                                            | 第19屆全球華語榜中榜                                                        | 亞洲影響力最受歡迎韓國藝人獎 |                |
+| 中國城市時尚盛典                                                                                        | 亞洲榮耀人物                                                             |                |                |
+| 第九屆音樂盛典咪咕匯                                                                                      | 最受歡迎海外歌手                                                           |                |                |
+| 2016                                                                                            | MTV亞洲金曲大賞                                                          | 最佳海外歌手獎        |                |
+| 釜山One Asia音樂節                                                                                   | 2000年代最佳韓流明星獎                                                      |                |                |
 
 ### 音樂節目獎項
 
@@ -830,8 +831,8 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 <tr class="odd">
 <td><p>2002年</p></td>
 <td><p>10月6日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>Instead of Saying Goodbye</p></td>
 <td><p>1位（Mutizen Song）</p></td>
 </tr>
@@ -861,7 +862,7 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>12月6日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td></td>
 <td><p>1位</p></td>
 <td></td>
@@ -894,8 +895,8 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 <tr class="odd">
 <td><p>2004年</p></td>
 <td><p>10月28日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>It's Raining</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -909,23 +910,23 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>11月7日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月11日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月13日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -933,8 +934,8 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>11月21日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
@@ -958,7 +959,7 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 <tr class="odd">
 <td><p>2005年</p></td>
 <td><p>1月1日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td></td>
 <td><p>1位</p></td>
 <td></td>
@@ -966,23 +967,23 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 <tr class="even">
 <td><p>2008年</p></td>
 <td><p>11月2日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>Rainism</p></td>
 <td><p>1位（Mutizen Song）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月6日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月9日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
@@ -997,8 +998,8 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>11月27日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位(11月 Only One Song)</p></td>
 <td></td>
 <td></td>
@@ -1021,24 +1022,24 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>4月16日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月18日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月23日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -1054,15 +1055,15 @@ Company](../Page/R.A.I.N._Company.md "wikilink")。
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>1月9日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>30 SEXY</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月10日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>La Song</p></td>
 <td></td>
 <td></td>

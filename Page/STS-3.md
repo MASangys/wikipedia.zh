@@ -1,9 +1,9 @@
-****是历史上第三次航天飞机任务，也是[哥伦比亚号航天飞机的第三次太空飞行](../Page/哥伦比亚号航天飞机.md "wikilink")。
+****是历史上第三次航天飞机任务，也是[哥伦比亚号航天飞机的第三次太空飞行](https://zh.wikipedia.org/wiki/哥伦比亚号航天飞机 "wikilink")。
 
 ## 任务成员
 
-  - **[杰克·洛斯马](../Page/杰克·洛斯马.md "wikilink")**（，曾执行[天空实验室3号以及](../Page/天空实验室3号.md "wikilink")任务），指令长
-  - **[戈尔登·福勒顿](../Page/戈尔登·福勒顿.md "wikilink")**（，曾执行以及任务），飞行员
+  - **[杰克·洛斯马](https://zh.wikipedia.org/wiki/杰克·洛斯马 "wikilink")**（，曾执行[天空实验室3号以及](../Page/天空实验室3号.md "wikilink")任务），指令长
+  - **[戈尔登·福勒顿](https://zh.wikipedia.org/wiki/戈尔登·福勒顿 "wikilink")**（，曾执行以及任务），飞行员
 
 ### 替补成员
 

@@ -1,5 +1,5 @@
-**Unbibium**（**Ubb**）是一種未被發現的[化學元素的](../Page/化學元素.md "wikilink")[臨時命名](../Page/IUPAC元素系統命名法.md "wikilink")，其原子序為122。2008年，[希伯来大学的Amnon](../Page/希伯来大学.md "wikilink")
-Marinov曾被认为发现了第一个[超锕系元素Ubb](../Page/超锕系元素.md "wikilink")。\[1\]但之后的研究认为这一发现并不足信\[2\]\[3\]。
+**Unbibium**（**Ubb**）是一種未被發現的[化學元素的](../Page/化學元素.md "wikilink")[臨時命名](https://zh.wikipedia.org/wiki/IUPAC元素系統命名法 "wikilink")，其原子序為122。2008年，[希伯来大学的Amnon](https://zh.wikipedia.org/wiki/希伯来大学 "wikilink")
+Marinov曾被认为发现了第一个[超锕系元素Ubb](https://zh.wikipedia.org/wiki/超锕系元素 "wikilink")。\[1\]但之后的研究认为这一发现并不足信\[2\]\[3\]。
 
 ## 合成嘗試
 

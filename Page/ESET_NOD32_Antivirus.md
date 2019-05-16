@@ -1,8 +1,8 @@
 **ESET NOD32
-Antivirus**（通常被稱為**NOD32**）是位於[斯洛伐克的](../Page/斯洛伐克.md "wikilink")[ESET公司](../Page/ESET.md "wikilink")[開發的](../Page/開發.md "wikilink")[防毒軟體](../Page/防毒軟體.md "wikilink")。支援[Windows](../Page/Microsoft_Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac以及其它](../Page/Mac.md "wikilink")[系統平台](../Page/系統平台.md "wikilink")，分為兩個版本發售，企業版提供[遠端管理工具](../Page/遠端桌面軟體.md "wikilink")。現時最新版本為
+Antivirus**（通常被稱為**NOD32**）是位於[斯洛伐克的](../Page/斯洛伐克.md "wikilink")[ESET公司](../Page/ESET.md "wikilink")[開發的](https://zh.wikipedia.org/wiki/開發 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。支援[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac以及其它](https://zh.wikipedia.org/wiki/Mac "wikilink")[系統平台](https://zh.wikipedia.org/wiki/系統平台 "wikilink")，分為兩個版本發售，企業版提供[遠端管理工具](https://zh.wikipedia.org/wiki/遠端桌面軟體 "wikilink")。現時最新版本為
 ESET NOD32 Antivirus 10，ESET Internet Security，ESET Smart Security
 Premium( 12.1.31.0 ) ( [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink") )。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") )。
 
 ## 產品
 
@@ -10,35 +10,39 @@ ESET 家用電腦防毒軟體產品列表如下\[1\]\[2\]：
 
 ### 目前產品
 
-[Windows](../Page/Windows.md "wikilink")：
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")：
 
-  - [ESET Smart Security](../Page/ESET_Smart_Security.md "wikilink")
+  - [ESET Smart
+    Security](https://zh.wikipedia.org/wiki/ESET_Smart_Security "wikilink")
   - **ESET NOD32 Antivirus**
   - [ESET Multi-Device
-    Security](../Page/ESET_Multi-Device_Security.md "wikilink")
+    Security](https://zh.wikipedia.org/wiki/ESET_Multi-Device_Security "wikilink")
     網路安全套裝多平台版
   - [ESET Internet
-    Security](../Page/ESET_Internet_Security.md "wikilink")
+    Security](https://zh.wikipedia.org/wiki/ESET_Internet_Security "wikilink")
   - [ESET Smart Security
-    Premium](../Page/ESET_Smart_Security_Premium.md "wikilink")
+    Premium](https://zh.wikipedia.org/wiki/ESET_Smart_Security_Premium "wikilink")
 
-[Mac](../Page/Mac.md "wikilink")：
+[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")：
 
   - [ESET Cyber Security
-    Pro](../Page/ESET_Cyber_Security_Pro.md "wikilink")
-  - [ESET Cyber Security](../Page/ESET_Cyber_Security.md "wikilink")
+    Pro](https://zh.wikipedia.org/wiki/ESET_Cyber_Security_Pro "wikilink")
+  - [ESET Cyber
+    Security](https://zh.wikipedia.org/wiki/ESET_Cyber_Security "wikilink")
 
 [Linux](../Page/Linux.md "wikilink")：
 
   - [ESET NOD32 Antivirus 4
-    Linux](../Page/ESET_NOD32_Antivirus_4_Linux.md "wikilink") 桌上電腦版本
+    Linux](https://zh.wikipedia.org/wiki/ESET_NOD32_Antivirus_4_Linux "wikilink")
+    桌上電腦版本
 
-[行動裝置](../Page/行動裝置.md "wikilink")：
+[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")：
 
   - ESET Mobile Security for [Android](../Page/Android.md "wikilink")
   - ESET Mobile Security for [Windows
     Mobile](../Page/Windows_Mobile.md "wikilink")
-  - ESET Mobile Security for [Symbian](../Page/Symbian.md "wikilink")
+  - ESET Mobile Security for
+    [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
 
 ### 停產產品
 

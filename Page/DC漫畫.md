@@ -1,18 +1,19 @@
 [奇幻](../Page/奇幻作品.md "wikilink"){{\\}}[科幻](../Page/科學幻想.md "wikilink"){{\\}}{{\\}}
-| imprints = [出版品牌列表](../Page/#出版品牌.md "wikilink") | url =  }}
+| imprints = [出版品牌列表](https://zh.wikipedia.org/wiki/#出版品牌 "wikilink") |
+url =  }}
 
-**DC漫画公司**（）是一家[美国漫画书](../Page/美国漫画书.md "wikilink")[出版社](../Page/出版社.md "wikilink")，它是[华纳兄弟娱乐公司](../Page/华纳兄弟.md "wikilink")（隶属于[时代华纳集团](../Page/时代华纳.md "wikilink")）旗下[DC娱乐的出版事业单位](../Page/DC娱乐.md "wikilink")。\[1\]\[2\]
-DC漫画公司是美国规模最大和资历最深的漫画出版社之一，其出版物中包括诸多极具文化特色和标志性的英雄人物，这其中包括：[超人](../Page/超人.md "wikilink")、[蝙蝠侠](../Page/蝙蝠侠.md "wikilink")、[神奇女侠](../Page/神奇女侠.md "wikilink")、[绿灯侠](../Page/绿灯侠.md "wikilink")、[闪电侠](../Page/闪电侠.md "wikilink")、[沼泽怪物](../Page/沼澤異形.md "wikilink")、、[原子侠](../Page/原子侠.md "wikilink")、[海王](../Page/海王.md "wikilink")、、[火星猎人](../Page/火星猎人.md "wikilink")、、[夜翼](../Page/夜翼_\(DC漫畫\).md "wikilink")、[绿箭侠](../Page/绿箭侠.md "wikilink")、、、[黑金丝雀](../Page/黑金丝雀.md "wikilink")、[扎坦娜和](../Page/扎坦娜.md "wikilink")[钢骨](../Page/鋼骨_\(漫畫\).md "wikilink")。他们的大部分故事都发生在[虚构世界](../Page/虚构世界.md "wikilink")[DC宇宙内](../Page/DC宇宙.md "wikilink")，这其中还包括[正义联盟](../Page/正义联盟.md "wikilink")、[美国正义协会](../Page/美国正义协会.md "wikilink")、[自杀小队](../Page/自殺突擊隊.md "wikilink")、[少年泰坦等组织和一些臭名昭著的反派人物](../Page/少年泰坦.md "wikilink")，例如：[小丑](../Page/小丑_\(角色\).md "wikilink")、[莱克斯·卢瑟](../Page/雷克斯·路瑟.md "wikilink")、[达克赛德](../Page/达克赛德.md "wikilink")、[丧钟](../Page/喪鐘_\(漫畫\).md "wikilink")、[哈莉·奎茵](../Page/哈莉·奎茵.md "wikilink")、[猫女](../Page/猫女.md "wikilink")、、[阿瑞斯](../Page/阿瑞斯_\(DC漫畫\).md "wikilink")、[企鹅人](../Page/企鹅人.md "wikilink")、[谜语人](../Page/谜语人.md "wikilink")、[拉斯·奥·古](../Page/拉斯·奥·古.md "wikilink")、[稻草人](../Page/稻草人_\(漫画\).md "wikilink")、[双面人](../Page/双面人.md "wikilink")、[佐德将军](../Page/薩德將軍.md "wikilink")、[班恩](../Page/班恩_\(DC漫畫\).md "wikilink")、[艾尔伯德·斯旺](../Page/艾尔伯德·斯旺.md "wikilink")、[塞尼斯托](../Page/塞尼斯托.md "wikilink")、[毁灭日](../Page/毁灭日.md "wikilink")、[黑亚当和](../Page/黑亚当.md "wikilink")。
+**DC漫画公司**（）是一家[美国漫画书](../Page/美国漫画书.md "wikilink")[出版社](../Page/出版社.md "wikilink")，它是[华纳兄弟娱乐公司](../Page/华纳兄弟.md "wikilink")（隶属于[时代华纳集团](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")）旗下[DC娱乐的出版事业单位](https://zh.wikipedia.org/wiki/DC娱乐 "wikilink")。\[1\]\[2\]
+DC漫画公司是美国规模最大和资历最深的漫画出版社之一，其出版物中包括诸多极具文化特色和标志性的英雄人物，这其中包括：[超人](../Page/超人.md "wikilink")、[蝙蝠侠](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")、[神奇女侠](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink")、[绿灯侠](https://zh.wikipedia.org/wiki/绿灯侠 "wikilink")、[闪电侠](https://zh.wikipedia.org/wiki/闪电侠 "wikilink")、[沼泽怪物](../Page/沼澤異形.md "wikilink")、、[原子侠](https://zh.wikipedia.org/wiki/原子侠 "wikilink")、[海王](../Page/海王.md "wikilink")、、[火星猎人](../Page/火星猎人.md "wikilink")、、[夜翼](https://zh.wikipedia.org/wiki/夜翼_\(DC漫畫\) "wikilink")、[绿箭侠](https://zh.wikipedia.org/wiki/绿箭侠 "wikilink")、、、[黑金丝雀](https://zh.wikipedia.org/wiki/黑金丝雀 "wikilink")、[扎坦娜和](../Page/扎坦娜.md "wikilink")[钢骨](../Page/鋼骨_\(漫畫\).md "wikilink")。他们的大部分故事都发生在[虚构世界](https://zh.wikipedia.org/wiki/虚构世界 "wikilink")[DC宇宙内](../Page/DC宇宙.md "wikilink")，这其中还包括[正义联盟](https://zh.wikipedia.org/wiki/正义联盟 "wikilink")、[美国正义协会](https://zh.wikipedia.org/wiki/美国正义协会 "wikilink")、[自杀小队](https://zh.wikipedia.org/wiki/自殺突擊隊 "wikilink")、[少年泰坦等组织和一些臭名昭著的反派人物](../Page/少年泰坦.md "wikilink")，例如：[小丑](../Page/小丑_\(角色\).md "wikilink")、[莱克斯·卢瑟](../Page/雷克斯·路瑟.md "wikilink")、[达克赛德](https://zh.wikipedia.org/wiki/达克赛德 "wikilink")、[丧钟](../Page/喪鐘_\(漫畫\).md "wikilink")、[哈莉·奎茵](../Page/哈莉·奎茵.md "wikilink")、[猫女](../Page/猫女.md "wikilink")、、[阿瑞斯](https://zh.wikipedia.org/wiki/阿瑞斯_\(DC漫畫\) "wikilink")、[企鹅人](../Page/企鹅人.md "wikilink")、[谜语人](https://zh.wikipedia.org/wiki/谜语人 "wikilink")、[拉斯·奥·古](../Page/拉斯·奥·古.md "wikilink")、[稻草人](../Page/稻草人_\(漫画\).md "wikilink")、[双面人](../Page/双面人.md "wikilink")、[佐德将军](../Page/薩德將軍.md "wikilink")、[班恩](../Page/班恩_\(DC漫畫\).md "wikilink")、[艾尔伯德·斯旺](https://zh.wikipedia.org/wiki/艾尔伯德·斯旺 "wikilink")、[塞尼斯托](../Page/塞尼斯托.md "wikilink")、[毁灭日](https://zh.wikipedia.org/wiki/毁灭日 "wikilink")、[黑亚当和](https://zh.wikipedia.org/wiki/黑亚当 "wikilink")。
 
 DC漫画公司也会发行一些和DC宇宙无关的作品，例如：[守护者](../Page/守護者_\(漫畫\).md "wikilink")、[V字仇杀队等](../Page/V煞_\(漫畫\).md "wikilink")。这些作品大部分会交给公司旗下的子品牌出版。
 
-DC漫画公司名称中的“”源自该公司著名漫画系列书《[侦探漫画](../Page/侦探漫画.md "wikilink")》（）的首字母缩写。该系列以[蝙蝠侠的首次登场为特色](../Page/蝙蝠侠.md "wikilink")，随后成为该公司名称的一部分。\[3\]
-DC漫画公司办公室最初位于[曼哈顿](../Page/曼哈顿.md "wikilink")[第四大道](../Page/公园大道.md "wikilink")432号；随后迁往[莱辛顿大道](../Page/莱辛顿大道.md "wikilink")480号，后又搬迁至同大街的575号；此后DC漫画办公室又迁往过[第三大道](../Page/第三大道.md "wikilink")909号、[洛克菲勒中心](../Page/洛克菲勒中心.md "wikilink")75号、[第五大道](../Page/第五大道.md "wikilink")666号和[美洲大道](../Page/第六大道.md "wikilink")1325号。现在DC漫画公司的总部位于[纽约市](../Page/纽约市.md "wikilink")[曼哈顿中城](../Page/曼哈顿中城.md "wikilink")[百老汇大道](../Page/百老汇大道.md "wikilink")1700号。但是在2013年10月，DC娱乐宣布其总部将在2015年4月从纽约市搬迁至[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[伯班克市](../Page/伯班克_\(加利福尼亚州\).md "wikilink")。\[4\]
+DC漫画公司名称中的“”源自该公司著名漫画系列书《[侦探漫画](../Page/侦探漫画.md "wikilink")》（）的首字母缩写。该系列以[蝙蝠侠的首次登场为特色](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")，随后成为该公司名称的一部分。\[3\]
+DC漫画公司办公室最初位于[曼哈顿](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")[第四大道](../Page/公园大道.md "wikilink")432号；随后迁往[莱辛顿大道](https://zh.wikipedia.org/wiki/莱辛顿大道 "wikilink")480号，后又搬迁至同大街的575号；此后DC漫画办公室又迁往过[第三大道](https://zh.wikipedia.org/wiki/第三大道 "wikilink")909号、[洛克菲勒中心](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")75号、[第五大道](../Page/第五大道.md "wikilink")666号和[美洲大道](../Page/第六大道.md "wikilink")1325号。现在DC漫画公司的总部位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿中城](https://zh.wikipedia.org/wiki/曼哈顿中城 "wikilink")[百老汇大道](https://zh.wikipedia.org/wiki/百老汇大道 "wikilink")1700号。但是在2013年10月，DC娱乐宣布其总部将在2015年4月从纽约市搬迁至[加利福尼亚州的](../Page/加利福尼亚州.md "wikilink")[伯班克市](../Page/伯班克_\(加利福尼亚州\).md "wikilink")。\[4\]
 
 DC漫画公司有两大主要分销商：[兰登书屋负责将DC漫画公司的作品分销至各大书店市场](../Page/兰登书屋.md "wikilink")；\[5\]
 而则负责分销至专业的漫画书店市场。\[6\]\[7\]
 
-根据2017年的数据显示，DC漫画公司与其主要的竞争对手[漫威漫画共同占据美国漫画市场份额的](../Page/漫威漫画.md "wikilink")70%。\[8\]
+根据2017年的数据显示，DC漫画公司与其主要的竞争对手[漫威漫画共同占据美国漫画市场份额的](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")70%。\[8\]
 目前漫威漫画公司隶属于[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")，DC漫画母公司[华纳兄弟娱乐公司的主要竞争对手](../Page/华纳兄弟.md "wikilink")。
 
 ## 公司历史
@@ -26,15 +27,15 @@ DC漫画公司有两大主要分销商：[兰登书屋负责将DC漫画公司的
 ## DC娱乐
 
 [电视节目](../Page/电视节目.md "wikilink"){{\\}}[电子游戏](../Page/电子游戏.md "wikilink")
-| owner = [时代华纳集团](../Page/时代华纳集团.md "wikilink") | parent =
-[华纳兄弟娱乐公司](../Page/华纳兄弟.md "wikilink") | divisions =  |
+| owner = [时代华纳集团](https://zh.wikipedia.org/wiki/时代华纳集团 "wikilink") |
+parent = [华纳兄弟娱乐公司](../Page/华纳兄弟.md "wikilink") | divisions =  |
 homepage =  }}
 
 2009年9月，[华纳兄弟宣布将成立DC娱乐](../Page/华纳兄弟.md "wikilink")，同时DC漫画将成为DC娱乐旗下的子公司；并且宣布原总裁转任DC娱乐公司的总裁，而原DC漫画总裁兼发行人则出任DC娱乐的特约编辑和总顾问。\[9\]
 
-2010年2月18日，DC娱乐任命[吉姆·李与](../Page/吉姆·李.md "wikilink")为DC漫画的联合出版人；任命[杰夫·强斯为](../Page/杰夫·强斯.md "wikilink")[首席创意官](../Page/创意总监.md "wikilink")；任命约翰·鲁德（）为分管销售、市场推广及商务合作的执行副总裁；任命帕特里克·卡尔登（）为分管财务与行政的执行副总裁。\[10\]\[11\]
+2010年2月18日，DC娱乐任命[吉姆·李与](../Page/吉姆·李.md "wikilink")为DC漫画的联合出版人；任命[杰夫·强斯为](https://zh.wikipedia.org/wiki/杰夫·强斯 "wikilink")[首席创意官](https://zh.wikipedia.org/wiki/创意总监 "wikilink")；任命约翰·鲁德（）为分管销售、市场推广及商务合作的执行副总裁；任命帕特里克·卡尔登（）为分管财务与行政的执行副总裁。\[10\]\[11\]
 
-DC娱乐授权、[闪灵侠等一些DC漫画英雄给](../Page/闪灵侠.md "wikilink")《》在2010年至2011年秋季以便推出新的漫画系列。
+DC娱乐授权、[闪灵侠等一些DC漫画英雄给](https://zh.wikipedia.org/wiki/闪灵侠 "wikilink")《》在2010年至2011年秋季以便推出新的漫画系列。
 
 ## 超人 改编电影
 

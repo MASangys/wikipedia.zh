@@ -1,26 +1,26 @@
-**馬自達RX-8**是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司所製造的四門](../Page/馬自達.md "wikilink")（[雙門對開](../Page/雙門對開.md "wikilink")）四座[轎跑車](../Page/轎跑車.md "wikilink")，在2001年的[北美國際車展](../Page/底特律車展.md "wikilink")（North
+**馬自達RX-8**是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司所製造的四門](https://zh.wikipedia.org/wiki/馬自達 "wikilink")（[雙門對開](https://zh.wikipedia.org/wiki/雙門對開 "wikilink")）四座[轎跑車](../Page/轎跑車.md "wikilink")，在2001年的[北美國際車展](../Page/底特律車展.md "wikilink")（North
 American International Auto Show）上首度發表。該款車搭載654c.c. X 2 [13B-MSP
-Renesis型雙轉子引擎作為動力來源](../Page/馬自達轉子引擎#13B-MSP_Renesis型.md "wikilink")，原廠開發代號為「J60」。自2012年6月該公司停產此款車\[1\]以來，全球車壇上以[轉子引擎作為動力來源的量產車便暫時停產](../Page/馬自達轉子引擎.md "wikilink")。
+Renesis型雙轉子引擎作為動力來源](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-MSP_Renesis型 "wikilink")，原廠開發代號為「J60」。自2012年6月該公司停產此款車\[1\]以來，全球車壇上以[轉子引擎作為動力來源的量產車便暫時停產](../Page/馬自達轉子引擎.md "wikilink")。
 
 ## 概要
 
-1989年馬自達公司展開「臭鼬計劃」（），召回原先在[美國](../Page/美國.md "wikilink")[加州爾灣設計中心的田島誠思擔任此計劃負責人](../Page/加州.md "wikilink")，並在[橫濱設置研發造型開發中心](../Page/橫濱市.md "wikilink")。由於田島曾擔任[第三代RX-7的造型初稿設計](../Page/馬自達RX-7#第三代FD3S型（1991-2002年）.md "wikilink")，因此由他臨危受命主持該計劃；而後來的心血結晶便是1995年在[東京車展上亮相的](../Page/東京車展.md "wikilink")[概念車RX](../Page/概念車.md "wikilink")-01\[2\]。
+1989年馬自達公司展開「臭鼬計劃」（），召回原先在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州爾灣設計中心的田島誠思擔任此計劃負責人](https://zh.wikipedia.org/wiki/加州 "wikilink")，並在[橫濱設置研發造型開發中心](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")。由於田島曾擔任[第三代RX-7的造型初稿設計](https://zh.wikipedia.org/wiki/馬自達RX-7#第三代FD3S型（1991-2002年） "wikilink")，因此由他臨危受命主持該計劃；而後來的心血結晶便是1995年在[東京車展上亮相的](../Page/東京車展.md "wikilink")[概念車RX](../Page/概念車.md "wikilink")-01\[2\]。
 
 [Mazda_RX-8_concept_car.jpg](https://zh.wikipedia.org/wiki/File:Mazda_RX-8_concept_car.jpg "fig:Mazda_RX-8_concept_car.jpg")
 1996年6月馬自達首位非日本籍的社長亨利·華勒斯（Henry G.
-Wallace）上任，他決定專注於[房車和](../Page/轎車.md "wikilink")[休旅車的](../Page/运动型多用途车.md "wikilink")[產品](../Page/產品.md "wikilink")，並放棄[跑車這塊小眾市場](../Page/跑車.md "wikilink")。同年擔任馬自達商品開發本部部長的馬丁·李區（Martin
+Wallace）上任，他決定專注於[房車和](https://zh.wikipedia.org/wiki/轎車 "wikilink")[休旅車的](../Page/运动型多用途车.md "wikilink")[產品](https://zh.wikipedia.org/wiki/產品 "wikilink")，並放棄[跑車這塊小眾市場](https://zh.wikipedia.org/wiki/跑車 "wikilink")。同年擔任馬自達商品開發本部部長的馬丁·李區（Martin
 R.
 Leach）則持反對意見，他認為轉子引擎就是馬自達的精神指標，應當保留下來。1999年[東京國際車展上發表另一款名為](../Page/東京車展.md "wikilink")「RX-EVOLV」的[概念車](../Page/概念車.md "wikilink")。相隔兩年，外觀沿用此款概念車設計概念的RX-8開始發表銷售。
 
 RX-8是一輛前中置引擎、後輪驅動（Front Mid-engine, Rear-wheel drive
-layout，縮寫成FMR）的四座[雙門對開](../Page/雙門對開.md "wikilink")（quad
-coupe）[轎跑車](../Page/轎跑車.md "wikilink")。由於引擎安裝在前軸後方、油箱安裝在後軸前方，此配置方式達到52：48的車重分配。該款車使用馬自達FE平台，前輪採傳統[雙A臂懸吊系統](../Page/雙A臂懸吊系統.md "wikilink")，後輪則為每邊各有五連桿的多連桿懸吊系統。此外，[ABS防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、[EBD電子煞車力道分配系統與](../Page/電子制動力分配系統.md "wikilink")[DSC車身動態穩定系統皆被列為標準配備](../Page/电子稳定程序.md "wikilink")。
+layout，縮寫成FMR）的四座[雙門對開](https://zh.wikipedia.org/wiki/雙門對開 "wikilink")（quad
+coupe）[轎跑車](../Page/轎跑車.md "wikilink")。由於引擎安裝在前軸後方、油箱安裝在後軸前方，此配置方式達到52：48的車重分配。該款車使用馬自達FE平台，前輪採傳統[雙A臂懸吊系統](https://zh.wikipedia.org/wiki/雙A臂懸吊系統 "wikilink")，後輪則為每邊各有五連桿的多連桿懸吊系統。此外，[ABS防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、[EBD電子煞車力道分配系統與](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")[DSC車身動態穩定系統皆被列為標準配備](../Page/电子稳定程序.md "wikilink")。
 
 [Mazda_rx-8_side_both_doors_open.jpg](https://zh.wikipedia.org/wiki/File:Mazda_rx-8_side_both_doors_open.jpg "fig:Mazda_rx-8_side_both_doors_open.jpg")
-除了雙轉子引擎外，這款車有兩個主要特色：2+2座椅與[雙門對開式車門](../Page/雙門對開.md "wikilink")。原廠為了增加實用性，以爭取更多客源，刻意在駕駛座之後增加第二排座椅，讓喜愛駕駛樂趣、卻有小家庭的車主可以容納更多乘員。由於增加第二排座椅，故採用中間沒有B柱設計的[雙門對開式車門](../Page/雙門對開.md "wikilink")（原廠謂之「自由風格freestyle」）。但如此一來某些堅持純種[跑車風格的車迷卻認為該款車不算是](../Page/跑車.md "wikilink")[馬自達RX-7的後繼者](../Page/馬自達RX-7.md "wikilink")，況且其動力系統的疲弱（高馬力型的最大馬力250ps，但RX-7最終版本RX-7
+除了雙轉子引擎外，這款車有兩個主要特色：2+2座椅與[雙門對開式車門](https://zh.wikipedia.org/wiki/雙門對開 "wikilink")。原廠為了增加實用性，以爭取更多客源，刻意在駕駛座之後增加第二排座椅，讓喜愛駕駛樂趣、卻有小家庭的車主可以容納更多乘員。由於增加第二排座椅，故採用中間沒有B柱設計的[雙門對開式車門](https://zh.wikipedia.org/wiki/雙門對開 "wikilink")（原廠謂之「自由風格freestyle」）。但如此一來某些堅持純種[跑車風格的車迷卻認為該款車不算是](https://zh.wikipedia.org/wiki/跑車 "wikilink")[馬自達RX-7的後繼者](../Page/馬自達RX-7.md "wikilink")，況且其動力系統的疲弱（高馬力型的最大馬力250ps，但RX-7最終版本RX-7
 Spirit R Type-A動力已達日本車廠自主上限的280ps）為人所詬病\[3\]。
 
-2003年11月榮獲2004年度第13屆[RJC年度風雲車](../Page/RJC年度風雲車.md "wikilink")（）大獎，而13B-MSP型轉子引擎亦榮獲該年度最佳技術大獎。此外，[美國](../Page/美國.md "wikilink")《人車誌汽車雜誌》（Car
+2003年11月榮獲2004年度第13屆[RJC年度風雲車](https://zh.wikipedia.org/wiki/RJC年度風雲車 "wikilink")（）大獎，而13B-MSP型轉子引擎亦榮獲該年度最佳技術大獎。此外，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《人車誌汽車雜誌》（Car
 and Driver
 Magazine）在2004至2006連續三年將RX-8列入年度十大好車；13B-MSP型轉子引擎也曾在2004至2005連續二年獲得[華德十大最佳汽車引擎之獎項](../Page/華德十大最佳汽車引擎.md "wikilink")。
 
@@ -32,11 +32,11 @@ in Tokyo.jpg|日本警視廳警車 Image:Mazda rx-8 under the hood.jpg|RENESIS�
 
 [Mazda_rotary_engine.jpg](https://zh.wikipedia.org/wiki/File:Mazda_rotary_engine.jpg "fig:Mazda_rotary_engine.jpg")展示的RENESIS轉子引擎\]\]
 馬自達RX-8採用的雙轉子引擎代號為[13B-MSP
-Renesis](../Page/馬自達轉子引擎#13B-MSP_Renesis型.md "wikilink")（MSP就是multi
+Renesis](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-MSP_Renesis型 "wikilink")（MSP就是multi
 side
-port之縮寫，意為多重側邊氣埠），事實上是以第二代[RX-7的](../Page/馬自達RX-7.md "wikilink")[13B型引擎為基礎](../Page/馬自達轉子引擎#13B型.md "wikilink")，排氣量依舊維持654C.C.
+port之縮寫，意為多重側邊氣埠），事實上是以第二代[RX-7的](../Page/馬自達RX-7.md "wikilink")[13B型引擎為基礎](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B型 "wikilink")，排氣量依舊維持654C.C.
 X
-2，但兩者主要的差異在於13B-MSP型將排氣埠移往燃燒室的側面，這是最關鍵的技術。因為以往轉子引擎的碳氫化合物（HC）排放量比傳統[往復式活塞引擎多](../Page/往復式活塞引擎.md "wikilink")，過去的技術無法解決改為側排後導致的積碳與可靠性，如今引擎內的油封與側油封（side
+2，但兩者主要的差異在於13B-MSP型將排氣埠移往燃燒室的側面，這是最關鍵的技術。因為以往轉子引擎的碳氫化合物（HC）排放量比傳統[往復式活塞引擎多](https://zh.wikipedia.org/wiki/往復式活塞引擎 "wikilink")，過去的技術無法解決改為側排後導致的積碳與可靠性，如今引擎內的油封與側油封（side
 seal）之間增加一塊可切換型油封（cut-off
 seal）。這種新設計的好處是消除進、排氣道的正時開啟重疊，確保廢氣不會停滯或被帶到下一個進氣行程。每個轉子室各有兩個排氣道，比前一代13B型引擎多出兩倍的排氣道面積，所以可以延後排氣道的開啟時機以拉長膨脹行程，增加引擎的熱效率和動力輸出，亦改善油耗表現\[4\]。
 
@@ -80,7 +80,7 @@ seal）。這種新設計的好處是消除進、排氣道的正時開啟重疊�
 
 ## 特別仕樣車
 
-[馬自達針對不同的國家地區](../Page/馬自達.md "wikilink")，曾推出下列特仕車型：
+[馬自達針對不同的國家地區](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，曾推出下列特仕車型：
 
   - *True Red Style*
 
@@ -88,16 +88,16 @@ seal）。這種新設計的好處是消除進、排氣道的正時開啟重疊�
 
   - *Shinka*
 
-2005年在[日本推出運動限定版](../Page/日本.md "wikilink")，在[美國則為Shinka特別版](../Page/美國.md "wikilink")。該版的車身塗裝為黑莓色、羊毛絨內裝，且最特別的是輕度修改過的倍適登（Bilstein）避震器。2006年車色增加了紅銅、鐵灰與珍珠白三色。
+2005年在[日本推出運動限定版](../Page/日本.md "wikilink")，在[美國則為Shinka特別版](https://zh.wikipedia.org/wiki/美國 "wikilink")。該版的車身塗裝為黑莓色、羊毛絨內裝，且最特別的是輕度修改過的倍適登（Bilstein）避震器。2006年車色增加了紅銅、鐵灰與珍珠白三色。
 
   - *Evolve*
 
-這個特別版於2006年針對[英國市場發售](../Page/英國.md "wikilink")，限量500輛。引擎採用231ps高馬力型、推出紅銅與湛藍兩種獨有車色、18x8J銀色鋁合金鋼圈、車頭氣壩裝上拋光的轉子造型標誌、銀黑色寶石型頭燈、運動型後視鏡、前輪拱拋光鋁製魚鰓散熱口、C柱個性化裝飾及刻有Evolve字樣的鍍鉻排氣管。
+這個特別版於2006年針對[英國市場發售](https://zh.wikipedia.org/wiki/英國 "wikilink")，限量500輛。引擎採用231ps高馬力型、推出紅銅與湛藍兩種獨有車色、18x8J銀色鋁合金鋼圈、車頭氣壩裝上拋光的轉子造型標誌、銀黑色寶石型頭燈、運動型後視鏡、前輪拱拋光鋁製魚鰓散熱口、C柱個性化裝飾及刻有Evolve字樣的鍍鉻排氣管。
 
   - *PZ*
 
-2006年5月於[英國上市](../Page/英國.md "wikilink")，該版由[英國著名賽車改裝團隊Prodrive操刀](../Page/英國.md "wikilink")，只有六速手排操控，配備由[義大利OZ](../Page/義大利.md "wikilink")
-Racing製造的18吋十爪鋁合金鋼圈、後尾翼、[德國倍適登Bilstein阻尼器與](../Page/德國.md "wikilink")[德國Eibach避震器彈簧使得車身高度降低](../Page/德國.md "wikilink")15mm，以及雙尾管排氣系統。
+2006年5月於[英國上市](https://zh.wikipedia.org/wiki/英國 "wikilink")，該版由[英國著名賽車改裝團隊Prodrive操刀](https://zh.wikipedia.org/wiki/英國 "wikilink")，只有六速手排操控，配備由[義大利OZ](https://zh.wikipedia.org/wiki/義大利 "wikilink")
+Racing製造的18吋十爪鋁合金鋼圈、後尾翼、[德國倍適登Bilstein阻尼器與](https://zh.wikipedia.org/wiki/德國 "wikilink")[德國Eibach避震器彈簧使得車身高度降低](https://zh.wikipedia.org/wiki/德國 "wikilink")15mm，以及雙尾管排氣系統。
 
   - *Nemesis*
 
@@ -105,12 +105,12 @@ Nemesis是RX-8在英國市場的第三款特仕車，限量僅有350輛。雖然
 
   - *Kuro*
 
-此限量版亦在[英國推出](../Page/英國.md "wikilink")，限量500輛，獨特之處在於淺灰色內裝與閃爍雲母黑（Sparkling
+此限量版亦在[英國推出](https://zh.wikipedia.org/wiki/英國 "wikilink")，限量500輛，獨特之處在於淺灰色內裝與閃爍雲母黑（Sparkling
 black mica）的車色塗裝。
 
   - *轉子引擎40周年紀念車*
 
-2007年8月同步在[日本和](../Page/日本.md "wikilink")[美國市場發售](../Page/美國.md "wikilink")，不過日規的車色塗裝為水晶白、白色內裝；美規則為鐵灰色塗裝、紅色內裝、新樣式的鋁合金鋼圈與經過重新調校的[懸吊系統](../Page/懸吊系統.md "wikilink")。
+2007年8月同步在[日本和](../Page/日本.md "wikilink")[美國市場發售](https://zh.wikipedia.org/wiki/美國 "wikilink")，不過日規的車色塗裝為水晶白、白色內裝；美規則為鐵灰色塗裝、紅色內裝、新樣式的鋁合金鋼圈與經過重新調校的[懸吊系統](../Page/懸吊系統.md "wikilink")。
 
   - *Mazdaspeed版*
 
@@ -119,18 +119,18 @@ black mica）的車色塗裝。
   - *Hydrogen RE*
 
 [Mazda_H2_RX-8_RE_Cutaway.jpg](https://zh.wikipedia.org/wiki/File:Mazda_H2_RX-8_RE_Cutaway.jpg "fig:Mazda_H2_RX-8_RE_Cutaway.jpg")
-早在1991年，[馬自達就開發並測試第一輛氫動力](../Page/馬自達.md "wikilink")[轉子引擎原型車](../Page/轉子引擎.md "wikilink")，名為[馬自達HR-X](../Page/馬自達HR-X.md "wikilink")；1993年更發表改良過的馬自達HR-X2。後來在2004年的[底特律國際車展上](../Page/底特律車展.md "wikilink")，馬自達介紹RX-8
+早在1991年，[馬自達就開發並測試第一輛氫動力](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[轉子引擎原型車](https://zh.wikipedia.org/wiki/轉子引擎 "wikilink")，名為[馬自達HR-X](../Page/馬自達HR-X.md "wikilink")；1993年更發表改良過的馬自達HR-X2。後來在2004年的[底特律國際車展上](../Page/底特律車展.md "wikilink")，馬自達介紹RX-8
 Hydrogen RE（RE就是rotary
 engine之縮寫）概念車，這是一部氫氣及汽油雙燃料轉子引擎車。2006年2月時，[日本](../Page/日本.md "wikilink")[國土交通省批准RX](../Page/國土交通省.md "wikilink")-8
 Hydrogen
-RE的租賃業務，馬自達生產一批此種類型的RX-8交付給岩谷產業、出光興產等兩家公司使用。而在2009年4月，馬自達參加[挪威的HyNor計畫](../Page/挪威.md "wikilink")（在挪威首都[奧斯陸至西岸沿海的Stavanger之間](../Page/奧斯陸.md "wikilink")，打造一條580公里長的氫氣實驗道路，於沿途設置氫氣加氣站，以利氫氣動力車輛補充燃料），交付30輛氫氣燃料車進行實路測試\[5\]。
+RE的租賃業務，馬自達生產一批此種類型的RX-8交付給岩谷產業、出光興產等兩家公司使用。而在2009年4月，馬自達參加[挪威的HyNor計畫](../Page/挪威.md "wikilink")（在挪威首都[奧斯陸至西岸沿海的Stavanger之間](https://zh.wikipedia.org/wiki/奧斯陸 "wikilink")，打造一條580公里長的氫氣實驗道路，於沿途設置氫氣加氣站，以利氫氣動力車輛補充燃料），交付30輛氫氣燃料車進行實路測試\[5\]。
 
   - *Spirit R*
 
 2011年11月24日起開賣，僅限日本當地市場，且限量1,000輛。外觀方面：頭尾燈與霧燈改為黑色邊框處理，紅色塗裝的煞車卡鉗，塗裝包含金屬灰、雲母黑、水晶白等三色。Type
 RS六速手排車型具有古銅色鋁合金輪圈與225/45R19[輪胎](../Page/輪胎.md "wikilink")，Type
 E六速自排車型則為槍灰色鋁圈、225/45R18外胎、強化制動系統與運動化懸吊系統。內裝方面：除了專屬Spirit
-R徽飾外，另有黑色鋼琴木中央鞍座飾板、雙前座正面[安全氣囊及側面安全氣簾](../Page/安全氣囊.md "wikilink")。Type
+R徽飾外，另有黑色鋼琴木中央鞍座飾板、雙前座正面[安全氣囊及側面安全氣簾](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。Type
 RS車型具有Recaro紅黑雙色賽車座椅，Type E車型則是跑車座椅、方向盤與手煞車拉柄皆以真皮製成，且車室內均以紅色車縫線點綴。
 
 Image:Mazda RX8 hydrogen rotary car 1.jpg|RX-8 Hydrogen RE氫氣與汽油雙燃料車車頭
@@ -147,10 +147,10 @@ entry system）與引擎啟動按鈕（push start
 system）等都成為全車系的標準配備；而且車身塗裝增加銀、灰兩色，總共有七種車色可供選擇。
 
 2010年 -
-8月底馬自達開始在[英國地區進行最後不到一百輛的清倉銷售](../Page/英國.md "wikilink")。由於RX-8無法通過[歐盟五期的排放標準而即將停產](../Page/歐洲聯盟.md "wikilink")，在後繼車款尚未面世的青黃不接情況下，該公司搭載轉子引擎的跑車必須暫別市場。\[6\][英國可說是這款車賣得最好的市場之一](../Page/英國.md "wikilink")，全球186,632輛出售的RX-8裡，就有大約26,130輛於此地賣出。
+8月底馬自達開始在[英國地區進行最後不到一百輛的清倉銷售](https://zh.wikipedia.org/wiki/英國 "wikilink")。由於RX-8無法通過[歐盟五期的排放標準而即將停產](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")，在後繼車款尚未面世的青黃不接情況下，該公司搭載轉子引擎的跑車必須暫別市場。\[6\][英國可說是這款車賣得最好的市場之一](https://zh.wikipedia.org/wiki/英國 "wikilink")，全球186,632輛出售的RX-8裡，就有大約26,130輛於此地賣出。
 
 2011年 -
-由於該款車已經進入[產品生命周期的衰退期](../Page/產品生命周期.md "wikilink")，銷售量節節下降；加上無法通過更嚴苛的歐盟地區汽車廢氣排放標準，馬自達公司在該年10月宣布自2012年6月起停產\[7\]。
+由於該款車已經進入[產品生命周期的衰退期](https://zh.wikipedia.org/wiki/產品生命周期 "wikilink")，銷售量節節下降；加上無法通過更嚴苛的歐盟地區汽車廢氣排放標準，馬自達公司在該年10月宣布自2012年6月起停產\[7\]。
 
 Image:2009 blue Mazda RX-8 front 1.JPG|2008年舊金山車展上的RX-8 Image:2010
 silver Mazda RX-8 front.JPG|2009年舊金山車展上的RX-8 Image:Mazda RX-8 rear
@@ -162,7 +162,7 @@ silver Mazda RX-8 front.JPG|2009年舊金山車展上的RX-8 Image:Mazda RX-8 re
 
 ## 未來展望
 
-目前馬自達正投入下一世代轉子引擎的研發工作，代號為16X。\[9\]雖然該公司原本計畫於2010年將16X型[馬自達轉子引擎與RX](../Page/馬自達轉子引擎.md "wikilink")-8後繼車款一同推出，但受到16X型引擎之油耗與二氧化碳排放的表現仍不盡理想，推出時間將繼續延後\[10\]。忠實車迷們更引頸盼望[馬自達能依循RX](../Page/馬自達.md "wikilink")-7的純種跑車精神，開發出更輕量化、性能更強大的轉子引擎跑車。
+目前馬自達正投入下一世代轉子引擎的研發工作，代號為16X。\[9\]雖然該公司原本計畫於2010年將16X型[馬自達轉子引擎與RX](../Page/馬自達轉子引擎.md "wikilink")-8後繼車款一同推出，但受到16X型引擎之油耗與二氧化碳排放的表現仍不盡理想，推出時間將繼續延後\[10\]。忠實車迷們更引頸盼望[馬自達能依循RX](https://zh.wikipedia.org/wiki/馬自達 "wikilink")-7的純種跑車精神，開發出更輕量化、性能更強大的轉子引擎跑車。
 
 ## 內部連結
 

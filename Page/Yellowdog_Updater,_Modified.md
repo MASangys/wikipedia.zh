@@ -1,8 +1,8 @@
 [PackageKit_on_Fedora.png](https://zh.wikipedia.org/wiki/File:PackageKit_on_Fedora.png "fig:PackageKit_on_Fedora.png")目前是Fedora默认的包管理器前端\]\]
 **Yum**（**Yellow dog Updater, Modified**）是由[Duke
-University團隊修改](../Page/Duke_University.md "wikilink")[Yellow
+University團隊修改](https://zh.wikipedia.org/wiki/Duke_University "wikilink")[Yellow
 Dog Linux的](../Page/Yellow_Dog_Linux.md "wikilink")[Yellow Dog
-Updater開發而成](../Page/Yellow_Dog_Updater.md "wikilink")，是一个基于[RPM包管理的字符前端软件包管理器](../Page/RPM.md "wikilink")。能够从指定的服务器自动下载RPM包并且安装，可以处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装。被[Yellow
+Updater開發而成](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater "wikilink")，是一个基于[RPM包管理的字符前端软件包管理器](https://zh.wikipedia.org/wiki/RPM "wikilink")。能够从指定的服务器自动下载RPM包并且安装，可以处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装。被[Yellow
 Dog
 Linux本身](../Page/Yellow_Dog_Linux.md "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")、[Red
 Hat Enterprise Linux採用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
@@ -21,7 +21,7 @@ Yum的图形化前端主要有Yumex和kyum（KDE）。它们并不是独立于Yu
   - [Yellow Dog Linux](../Page/Yellow_Dog_Linux.md "wikilink")
   - [Fedora](../Page/Fedora.md "wikilink")
   - [RPM](../Page/RPM套件管理員.md "wikilink")
-  - [APT](../Page/高級包裝工具.md "wikilink")
-  - [DNF](../Page/DNF_\(软件\).md "wikilink")
+  - [APT](https://zh.wikipedia.org/wiki/高級包裝工具 "wikilink")
+  - [DNF](https://zh.wikipedia.org/wiki/DNF_\(软件\) "wikilink")
 
 [Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink")

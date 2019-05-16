@@ -1,10 +1,10 @@
 **足球隊**（****，全名為**大眾體育會足球隊**，*Allmänna Idrottsklubben
-Fotboll*），一般稱為**AIK蘇納**，是一間位於[瑞典](../Page/瑞典.md "wikilink")[斯德哥爾摩北部](../Page/斯德哥爾摩.md "wikilink")[索尔纳市的足球俱乐部](../Page/索尔纳市.md "wikilink")，是[AIK體育會的一部分](../Page/AIK體育會.md "wikilink")。球會全名的意思大概能翻譯成「大眾的俱樂部」，基本意念是指俱樂部應該不只是開於給所有人，但也是給大家訓練的地方，例如運動員，球會現属于瑞典顶级联赛[瑞典足球超級聯賽球队](../Page/瑞典足球超級聯賽.md "wikilink")。
+Fotboll*），一般稱為**AIK蘇納**，是一間位於[瑞典](../Page/瑞典.md "wikilink")[斯德哥爾摩北部](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")[索尔纳市的足球俱乐部](../Page/索尔纳市.md "wikilink")，是[AIK體育會的一部分](../Page/AIK體育會.md "wikilink")。球會全名的意思大概能翻譯成「大眾的俱樂部」，基本意念是指俱樂部應該不只是開於給所有人，但也是給大家訓練的地方，例如運動員，球會現属于瑞典顶级联赛[瑞典足球超級聯賽球队](https://zh.wikipedia.org/wiki/瑞典足球超級聯賽 "wikilink")。
 
 ## 球队历史
 
-[AIK體育會在](../Page/AIK體育會.md "wikilink")1891年於[斯德哥爾摩成立](../Page/斯德哥爾摩.md "wikilink")，創辦人是[Isidor
-Behrens](../Page/Isidor_Behrens.md "wikilink")。由於位於市郊的[索爾納市主場球場落成啟用](../Page/索爾納市.md "wikilink")，球會於1937年搬遷至索尔纳。足球球會於1896年成立，並在四年後首次奪得聯賽冠軍。
+[AIK體育會在](../Page/AIK體育會.md "wikilink")1891年於[斯德哥爾摩成立](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")，創辦人是[Isidor
+Behrens](https://zh.wikipedia.org/wiki/Isidor_Behrens "wikilink")。由於位於市郊的[索爾納市主場球場落成啟用](https://zh.wikipedia.org/wiki/索爾納市 "wikilink")，球會於1937年搬遷至索尔纳。足球球會於1896年成立，並在四年後首次奪得聯賽冠軍。
 
 ## 本国赛事成就
 
@@ -14,7 +14,7 @@ Behrens](../Page/Isidor_Behrens.md "wikilink")。由於位於市郊的[索爾納
 
 <!-- end list -->
 
-  - **[瑞典足球超級聯賽](../Page/瑞典足球超級聯賽.md "wikilink")：**
+  - **[瑞典足球超級聯賽](https://zh.wikipedia.org/wiki/瑞典足球超級聯賽 "wikilink")：**
       - **冠軍 (6):** 1931–32, 1936–37, 1983, 1998, 2009, 2018
       - **亞軍 (12):** 1930–31, 1934–35, 1935–36, 1938–39, 1946–47, 1972,
         1974, 1984, 1999, 2006, 2011, 2013
@@ -26,7 +26,8 @@ Behrens](../Page/Isidor_Behrens.md "wikilink")。由於位於市郊的[索爾納
 
 <!-- end list -->
 
-  - **[瑞典足球超級聯賽](../Page/瑞典足球超級聯賽.md "wikilink") 季後賽：**
+  - **[瑞典足球超級聯賽](https://zh.wikipedia.org/wiki/瑞典足球超級聯賽 "wikilink")
+    季後賽：**
       - **亞軍 (1):** 1986
 
 <!-- end list -->
@@ -57,7 +58,7 @@ Behrens](../Page/Isidor_Behrens.md "wikilink")。由於位於市郊的[索爾納
 
 <!-- end list -->
 
-  - **[欧罗巴联赛](../Page/欧罗巴联赛.md "wikilink")：**
+  - **[欧罗巴联赛](https://zh.wikipedia.org/wiki/欧罗巴联赛 "wikilink")：**
       - **小组赛(1):** 2012–13
 
 ## 外部連結

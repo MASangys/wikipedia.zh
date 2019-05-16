@@ -1,11 +1,11 @@
 [Strugarden.JPG](https://zh.wikipedia.org/wiki/File:Strugarden.JPG "fig:Strugarden.JPG")
-《**幸福Online**》（英文：****，日文：****）是由[日本](../Page/日本.md "wikilink")[Dwango公司繼開發](../Page/Dwango.md "wikilink")《[石器時代](../Page/石器時代_\(遊戲\).md "wikilink")》及《[魔力寶貝](../Page/魔力寶貝.md "wikilink")》後新推出的一款大型Q版[3D角色扮演](../Page/3D.md "wikilink")[網路遊戲](../Page/網路遊戲.md "wikilink")。[台灣方面於](../Page/台灣.md "wikilink")2004年6月18日由[宏碁戲谷代理上市並開始](../Page/宏碁戲谷.md "wikilink")[封閉測試](../Page/封閉測試.md "wikilink")，而[中國大陸也於同年](../Page/中國大陸.md "wikilink")11月25日對外封閉測試，在中國大陸的正式名稱是《幸福花園online》。2013年5月23日由GameCyber重新代理港澳中文版，名為夢之幸福Online。2018年5月11日，日本官網公告於2018年5月31日關閉伺服器(http://info.hangame.co.jp/index.nhn?m=detail\&infono=13352)
+《**幸福Online**》（英文：****，日文：****）是由[日本](../Page/日本.md "wikilink")[Dwango公司繼開發](https://zh.wikipedia.org/wiki/Dwango "wikilink")《[石器時代](https://zh.wikipedia.org/wiki/石器時代_\(遊戲\) "wikilink")》及《[魔力寶貝](https://zh.wikipedia.org/wiki/魔力寶貝 "wikilink")》後新推出的一款大型Q版[3D角色扮演](https://zh.wikipedia.org/wiki/3D "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。[台灣方面於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2004年6月18日由[宏碁戲谷代理上市並開始](https://zh.wikipedia.org/wiki/宏碁戲谷 "wikilink")[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")，而[中國大陸也於同年](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")11月25日對外封閉測試，在中國大陸的正式名稱是《幸福花園online》。2013年5月23日由GameCyber重新代理港澳中文版，名為夢之幸福Online。2018年5月11日，日本官網公告於2018年5月31日關閉伺服器(http://info.hangame.co.jp/index.nhn?m=detail\&infono=13352)
 
 ## 簡介
 
-戲谷代理之初，曾遭[董事長大力的反對](../Page/董事長.md "wikilink")，但高層主管群認為遊戲的賣相好，平衡以及畫面都屬一流，揚言若是公司不代理此遊戲將不排除集體出走另組公司來代理，終於在日本代表團即將搭上[飛機之前簽下合約](../Page/飛機.md "wikilink")，由於和戲谷位於同一座大樓裡的[華義國際也曾關切過代理權](../Page/華義國際.md "wikilink")，雙方為了避嫌，就決定在[速食店裡簽約](../Page/速食店.md "wikilink")。
+戲谷代理之初，曾遭[董事長大力的反對](../Page/董事長.md "wikilink")，但高層主管群認為遊戲的賣相好，平衡以及畫面都屬一流，揚言若是公司不代理此遊戲將不排除集體出走另組公司來代理，終於在日本代表團即將搭上[飛機之前簽下合約](https://zh.wikipedia.org/wiki/飛機 "wikilink")，由於和戲谷位於同一座大樓裡的[華義國際也曾關切過代理權](../Page/華義國際.md "wikilink")，雙方為了避嫌，就決定在[速食店裡簽約](https://zh.wikipedia.org/wiki/速食店 "wikilink")。
 
-雖然在使用者規約中預定代理至少三年，然而一年後，戲谷便火速結束此遊戲在兩岸三地的營運，並聲明此後便不代理任何MMO類型的網路遊戲，其後以[戰谷品牌重新代理MMO類型的網路遊戲](../Page/戰谷.md "wikilink")，台灣的[伺服器正式永久關機於](../Page/伺服器.md "wikilink")2005年12月8日晚間十一點整。
+雖然在使用者規約中預定代理至少三年，然而一年後，戲谷便火速結束此遊戲在兩岸三地的營運，並聲明此後便不代理任何MMO類型的網路遊戲，其後以[戰谷品牌重新代理MMO類型的網路遊戲](https://zh.wikipedia.org/wiki/戰谷 "wikilink")，台灣的[伺服器正式永久關機於](https://zh.wikipedia.org/wiki/伺服器 "wikilink")2005年12月8日晚間十一點整。
 
 至於日本方面，於2004年11月9日正式開始營運，次年3月10日正式開始收費，後來經過了數次的大小改版，目前的版本名為「蒼天の大地」。並且在2005年12月21日，也就是台灣伺服器關機後不久將基本的費用免費，改以販賣點數道具作為營運主要收入，使得不少國外玩家轉而進入日本版的幸福Online之中。
 

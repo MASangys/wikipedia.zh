@@ -13,24 +13,25 @@ Plastic Tree的音樂演奏受到80年代的英式搖滾所影響，充滿文學
 :\* 1993年12月由有村龍太朗以及長谷川正組成。
 
 :\* 1997年6月「割れた窓」與[WARNER MUSIC
-JAPAN簽約出道](../Page/WARNER_MUSIC_JAPAN.md "wikilink")。
+JAPAN簽約出道](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")。
 
-:\* 1999年8月25日，首次於[涩谷公会堂](../Page/涩谷公会堂.md "wikilink") one
-man，同日「Sink」發行。
+:\*
+1999年8月25日，首次於[涩谷公会堂](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink")
+one man，同日「Sink」發行。
 
 :\* 2001年與[WARNER MUSIC
-JAPAN簽約結束](../Page/WARNER_MUSIC_JAPAN.md "wikilink")，由當時的事務所SWEET
+JAPAN簽約結束](https://zh.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")，由當時的事務所SWEET
 CHILD內的SWEET HEART RECORD發行「散リユク僕ラ」，同年於12月底的事務所Event中第三代鼓手Takashi正式離隊。
 
 :\* 2002年6月以三人的形式推出單曲「蒼い鳥」，同年第四代鼓手ササブチ
-ヒロシ加入後發行「トロイメライ」，隔日於[NHK大廳](../Page/NHK大廳.md "wikilink")
+ヒロシ加入後發行「トロイメライ」，隔日於[NHK大廳](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")
 初次one man，並收入LIVE DVD「黒テント②」。
 
 :\* 2004年底與SWEET CHILD簽約結束，12月年末公演「裏cell.」於東京舉行（由J-Rock執行）。
 
 :\*
-2005年初正式移籍至[J-Rock](../Page/J-Rock.md "wikilink")，以「原點回歸」意念為軸心開始發片活動，５月單曲「讃美歌」由[UNIVERSAL
-MUSIC發行](../Page/UNIVERSAL_MUSIC.md "wikilink")，10月、11月、12月首次連續三個月發行單曲，12月年末恆例公演「花燃えて、亡霊の涙、天幕に堕ちる。」於東京、大阪舉行。
+2005年初正式移籍至[J-Rock](https://zh.wikipedia.org/wiki/J-Rock "wikilink")，以「原點回歸」意念為軸心開始發片活動，５月單曲「讃美歌」由[UNIVERSAL
+MUSIC發行](https://zh.wikipedia.org/wiki/UNIVERSAL_MUSIC "wikilink")，10月、11月、12月首次連續三個月發行單曲，12月年末恆例公演「花燃えて、亡霊の涙、天幕に堕ちる。」於東京、大阪舉行。
 
 :\* 2006年7月首次歐洲巡迴公演，12月年末恆例公演「冬小屋エレキテル」於東京舉行。
 
@@ -114,7 +115,7 @@ live「Over the Edge 2008」。
 :\* 3月11日-3月17日第一次在東京キネマ倶楽部舉辦連續七天的公演『裏インク』。
 
 :\* 6月6日電視節目『ONGAX〜Plasic
-Treeの千プラ〜』在[千葉テレビ播放](../Page/千葉テレビ.md "wikilink")。
+Treeの千プラ〜』在[千葉テレビ播放](https://zh.wikipedia.org/wiki/千葉テレビ "wikilink")。
 
 :\* 10月10日 Plastic Tree Autumn tour 2013「瞳孔乱反射」IN ASIA 台灣場在the wall舉行。
 
@@ -160,21 +161,22 @@ Treeの千プラ〜』在[千葉テレビ播放](../Page/千葉テレビ.md "wik
 [Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg](https://zh.wikipedia.org/wiki/File:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg "fig:Plastic_Tree_20071104_Chibi_Japan_Expo_1.jpg")
 
   - 有村 龍太朗（Arimura Ryutaro）-
-    [Vocal](../Page/Vocal.md "wikilink")。（名字變化形：龍太郎→Ryutaro→龍太朗）
+    [Vocal](https://zh.wikipedia.org/wiki/Vocal "wikilink")。（名字變化形：龍太郎→Ryutaro→龍太朗）
       - 生日：1973年3月6日
       - 出身：千葉
       - 血型：AB
       - 樂團經歷：Religion Mix, Drop'in Shop lifters
       - 私團：ネジ。
       - 2016年展開solo project，推出專輯《デも／demo》
-  - 長谷川 正（Hasegawa Tadashi）- [Bass](../Page/Bass.md "wikilink")。
+  - 長谷川 正（Hasegawa Tadashi）-
+    [Bass](https://zh.wikipedia.org/wiki/Bass "wikilink")。
       - 生日：1970年11月16日
       - 出身：千葉
       - 血型：O
       - 樂團經歷：Cam'-Flage
       - 私團：bulb
   - 中山 明（表記：ナカヤマ アキラ，Nakayama Akira）-
-    [Guitar](../Page/Guitar.md "wikilink")。
+    [Guitar](https://zh.wikipedia.org/wiki/Guitar "wikilink")。
       - 生日：1971年1月16日
       - 出身：北海道
       - 血型：A

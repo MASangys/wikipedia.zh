@@ -1,8 +1,8 @@
-《**美少女戰士S**》（）是1994年3月19日到1995年2月25日播放的[日本動畫作品](../Page/日本動畫.md "wikilink")。
+《**美少女戰士S**》（）是1994年3月19日到1995年2月25日播放的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要
 
-本作品是接續第二作《[美少女戰士R](../Page/美少女戰士R.md "wikilink")》的續作，是[美少女戰士系列的第三部作品](../Page/美少女戰士.md "wikilink")。
+本作品是接續第二作《[美少女戰士R](../Page/美少女戰士R.md "wikilink")》的續作，是[美少女戰士系列的第三部作品](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")。
 
 在漫畫版《美少女戰士S》連載期間，1994年11月17日，日本還推出了一本外傳的單行本《竹取公主的戀人》"，是武內直子原創的故事；香港[天下出版於](../Page/天下出版.md "wikilink")1995年1月26日推出這本外傳的中文版單行本。此外傳改編成[動畫劇場版](../Page/劇場版美少女戰士S.md "wikilink")。1994年12月4日劇場版在日本上映。而香港上映時，劇場版片名翻譯為《美少女戰士
 Sailor Moon S 水晶計劃》。
@@ -35,13 +35,13 @@ Sailor Moon S 水晶計劃》。
   - [水野亞美](../Page/水野亞美.md "wikilink")
   - [火野玲](../Page/火野玲.md "wikilink")
   - [木野真琴](../Page/木野真琴.md "wikilink")
-  - [愛野美奈子](../Page/愛野美奈子.md "wikilink")
+  - [愛野美奈子](https://zh.wikipedia.org/wiki/愛野美奈子 "wikilink")
   - [天王遙](../Page/天王遙.md "wikilink")
-  - [海王滿](../Page/海王滿.md "wikilink")
+  - [海王滿](https://zh.wikipedia.org/wiki/海王滿 "wikilink")
   - [冥王雪奈](../Page/冥王雪奈.md "wikilink")
   - [土萌螢](../Page/土萌螢.md "wikilink")
   - 土萌創一
-  - [美少女戰士主要角色列表](../Page/美少女戰士主要角色列表.md "wikilink")
+  - [美少女戰士主要角色列表](https://zh.wikipedia.org/wiki/美少女戰士主要角色列表 "wikilink")
 
 ## 工作人員
 
@@ -87,30 +87,30 @@ Sailor Moon S 水晶計劃》。
         作詞：芹澤類　作曲：永井誠　編曲：[京田誠一](../Page/京田誠一.md "wikilink")　歌：[石田燿子](../Page/石田燿子.md "wikilink")
     片尾曲「[****](https://www.youtube.com/watch?v=7jZEVRSdw2M)（燕尾服幻影）」（第3－38話）
       -
-        作詞：武內直子　作曲：小坂明子　編曲：林有三　歌：[三石琴乃](../Page/三石琴乃.md "wikilink")、[富澤美智惠](../Page/富澤美智惠.md "wikilink")、[久川綾](../Page/久川綾.md "wikilink")、[篠原惠美](../Page/篠原惠美.md "wikilink")、[深見梨加](../Page/深見梨加.md "wikilink")
+        作詞：武內直子　作曲：小坂明子　編曲：林有三　歌：[三石琴乃](../Page/三石琴乃.md "wikilink")、[富澤美智惠](../Page/富澤美智惠.md "wikilink")、[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")、[篠原惠美](../Page/篠原惠美.md "wikilink")、[深見梨加](../Page/深見梨加.md "wikilink")
 
 **香港**
 
   -
     主題曲「[**美少女戰士S**](https://www.youtube.com/watch?v=WkIuRxWm4lg)」
       -
-        填詞：[向雪懷](../Page/向雪懷.md "wikilink")　作曲：小諸鐵也　主唱：[陳琪](../Page/陳琪_\(歌手\).md "wikilink")
+        填詞：[向雪懷](../Page/向雪懷.md "wikilink")　作曲：小諸鐵也　主唱：[陳琪](https://zh.wikipedia.org/wiki/陳琪_\(歌手\) "wikilink")
     片尾曲「[**美少女變身**](https://www.youtube.com/watch?v=FpJyBi0Fn3Y)」
       -
         填詞：[向雪懷](../Page/向雪懷.md "wikilink")　作曲：永井誠　主唱：陳琪
 
 ## 獎項
 
-  - [1997年度兒歌金曲頒獎典禮](../Page/1997年度兒歌金曲頒獎典禮得獎名單.md "wikilink")－－「十大兒歌金曲」-《美少女戰士S》
+  - [1997年度兒歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/1997年度兒歌金曲頒獎典禮得獎名單 "wikilink")－－「十大兒歌金曲」-《美少女戰士S》
 
 ## 各集標題
 
 ## 播送電視台
 
-| 地區 | 播放電視台                            | 播放日期                  | 播放時間（[UTC+8](../Page/UTC+8.md "wikilink")） | 所屬聯播網                              | 備註       |
-| -- | -------------------------------- | --------------------- | ------------------------------------------ | ---------------------------------- | -------- |
-| 台灣 | [華視](../Page/華視主頻.md "wikilink") | 1997年5月21日－1998年4月15日 | 待查                                         | [衛星電視](../Page/衛星電視.md "wikilink") | 完結後接續第四季 |
-| 香港 | [翡翠台](../Page/翡翠台.md "wikilink") | 1996年8月26日－9月30日      |                                            |                                    |          |
+| 地區 | 播放電視台                            | 播放日期                  | 播放時間（[UTC+8](https://zh.wikipedia.org/wiki/UTC+8 "wikilink")） | 所屬聯播網                                                 | 備註       |
+| -- | -------------------------------- | --------------------- | ------------------------------------------------------------- | ----------------------------------------------------- | -------- |
+| 台灣 | [華視](../Page/華視主頻.md "wikilink") | 1997年5月21日－1998年4月15日 | 待查                                                            | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 完結後接續第四季 |
+| 香港 | [翡翠台](../Page/翡翠台.md "wikilink") | 1996年8月26日－9月30日      |                                                               |                                                       |          |
 
 海外播送
 

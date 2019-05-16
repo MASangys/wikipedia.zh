@@ -1,4 +1,4 @@
-**哆啦A夢角色列表**為《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》所有相關作品（包括[漫画](../Page/漫画.md "wikilink")、[電視動畫及真人化版本](../Page/電視動畫.md "wikilink")）的登場角色介紹，另日本以外地區的配音員資訊均以[朝日電視台版本為主](../Page/朝日電視台.md "wikilink")。
+**哆啦A夢角色列表**為《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》所有相關作品（包括[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[電視動畫及真人化版本](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")）的登場角色介紹，另日本以外地區的配音員資訊均以[朝日電視台版本為主](../Page/朝日電視台.md "wikilink")。
 
 ## 主要角色
 
@@ -13,7 +13,7 @@
   -
     [日本電視台版本](../Page/日本電視台.md "wikilink")：[富田耕生](../Page/富田耕生.md "wikilink")→[野澤雅子](../Page/野澤雅子.md "wikilink")
     [朝日電視台版本](../Page/朝日電視台.md "wikilink")：[大山羨代](../Page/大山羨代.md "wikilink")（1979年4月—2005年3月）→[水田山葵](../Page/水田山葵.md "wikilink")（2005年4月至今）
-    黃色哆啦A夢：[高橋和枝](../Page/高橋和枝.md "wikilink")→[橫山智佐](../Page/橫山智佐.md "wikilink")
+    黃色哆啦A夢：[高橋和枝](https://zh.wikipedia.org/wiki/高橋和枝 "wikilink")→[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    小叮噹版本：[林芳雪](../Page/林芳雪.md "wikilink")（1994年—1996年）→[邱佩轝](../Page/邱佩轝.md "wikilink")（1997年—1999年）、[呂佩玉](../Page/呂佩玉.md "wikilink")（巨童文化VCD）、[李明幸](../Page/李明幸.md "wikilink")（錄影帶）、[于正昇](../Page/于正昇.md "wikilink")（[電影版](../Page/哆啦A夢電影作品.md "wikilink")）
+    小叮噹版本：[林芳雪](../Page/林芳雪.md "wikilink")（1994年—1996年）→[邱佩轝](../Page/邱佩轝.md "wikilink")（1997年—1999年）、[呂佩玉](../Page/呂佩玉.md "wikilink")（巨童文化VCD）、[李明幸](../Page/李明幸.md "wikilink")（錄影帶）、[于正昇](../Page/于正昇.md "wikilink")（[電影版](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")）
     哆啦A夢版本：[陳美貞](../Page/陳美貞.md "wikilink")（1999年9月至今，全系列）
 
 <!-- end list -->
@@ -33,23 +33,23 @@
 <!-- end list -->
 
   -
-    叮当版本：[团团](../Page/张琳_\(配音演员\).md "wikilink")
-    阿蒙版本\[1\]：[董浩](../Page/董浩.md "wikilink")→[张璐](../Page/张璐_\(配音演员\).md "wikilink")→[刘纯燕](../Page/刘纯燕.md "wikilink")
-    哆啦A夢版本：[张丽敏](../Page/张丽敏.md "wikilink")（中央电视台少儿频道《动漫世界》播映、剧场版《太阳王传说》《银河特快》等）、[李晔](../Page/李晔_\(配音员\).md "wikilink")（[上海李曄版](../Page/上海.md "wikilink")）、[曾丹](../Page/曾丹.md "wikilink")（2006年—2008年，电影版）、刘纯燕（[哆啦A梦：伴我同行](../Page/哆啦A梦：伴我同行.md "wikilink")、2018年电影版）、[山新](../Page/山新.md "wikilink")（2016年—2017年，电影版）、[梁颖](../Page/梁颖.md "wikilink")（[广东](../Page/广东.md "wikilink")）
+    叮当版本：[团团](https://zh.wikipedia.org/wiki/张琳_\(配音演员\) "wikilink")
+    阿蒙版本\[1\]：[董浩](../Page/董浩.md "wikilink")→[张璐](https://zh.wikipedia.org/wiki/张璐_\(配音演员\) "wikilink")→[刘纯燕](../Page/刘纯燕.md "wikilink")
+    哆啦A夢版本：[张丽敏](https://zh.wikipedia.org/wiki/张丽敏 "wikilink")（中央电视台少儿频道《动漫世界》播映、剧场版《太阳王传说》《银河特快》等）、[李晔](https://zh.wikipedia.org/wiki/李晔_\(配音员\) "wikilink")（[上海李曄版](https://zh.wikipedia.org/wiki/上海 "wikilink")）、[曾丹](https://zh.wikipedia.org/wiki/曾丹 "wikilink")（2006年—2008年，电影版）、刘纯燕（[哆啦A梦：伴我同行](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")、2018年电影版）、[山新](../Page/山新.md "wikilink")（2016年—2017年，电影版）、[梁颖](https://zh.wikipedia.org/wiki/梁颖 "wikilink")（[广东](https://zh.wikipedia.org/wiki/广东 "wikilink")）
 
 <!-- end list -->
 
-  - [美國配音員](../Page/美國.md "wikilink")：Mona Marshall
+  - [美國配音員](https://zh.wikipedia.org/wiki/美國 "wikilink")：Mona Marshall
   - 真人版演員：[尚·連奴](../Page/尚·連奴.md "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
 
   -
-    喜歡的食物：[銅鑼燒](../Page/銅鑼燒.md "wikilink")
+    喜歡的食物：[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")
     漫畫版和動畫版初登場：第一回。
-    2112年9月3日出產於[日本](../Page/日本.md "wikilink")[東京的松芝工廠](../Page/東京.md "wikilink")，[22世紀的藍色貓型機器人](../Page/22世紀.md "wikilink")。
-    體色原是黃色，因為失去原生的耳朵（被機器[鼠咬掉](../Page/鼠.md "wikilink")），後來成了藍色的原因有兩個設定：《[哆啦A夢百科](../Page/哆啦A夢百科.md "wikilink")》提及是被機械老鼠吃掉耳朵後而嚇成藍色；《[2112年哆啦A夢的誕生](../Page/2112年哆啦A夢的誕生.md "wikilink")》則是耳朵不見，被當時的女友哆啦咪子取笑，本想喝元氣之素提振精神，卻誤喝下悲劇之素，結果大哭三天到把外層的漆都哭掉，顯現底下原本的底色藍色。
-    喜歡吃銅鑼燒。弱點是害怕老鼠。常被人以為是[狸貓](../Page/狸貓.md "wikilink")，引起哆啦A夢的不滿。
+    2112年9月3日出產於[日本](../Page/日本.md "wikilink")[東京的松芝工廠](https://zh.wikipedia.org/wiki/東京 "wikilink")，[22世紀的藍色貓型機器人](https://zh.wikipedia.org/wiki/22世紀 "wikilink")。
+    體色原是黃色，因為失去原生的耳朵（被機器[鼠咬掉](../Page/鼠.md "wikilink")），後來成了藍色的原因有兩個設定：《[哆啦A夢百科](https://zh.wikipedia.org/wiki/哆啦A夢百科 "wikilink")》提及是被機械老鼠吃掉耳朵後而嚇成藍色；《[2112年哆啦A夢的誕生](../Page/2112年哆啦A夢的誕生.md "wikilink")》則是耳朵不見，被當時的女友哆啦咪子取笑，本想喝元氣之素提振精神，卻誤喝下悲劇之素，結果大哭三天到把外層的漆都哭掉，顯現底下原本的底色藍色。
+    喜歡吃銅鑼燒。弱點是害怕老鼠。常被人以為是[狸貓](https://zh.wikipedia.org/wiki/狸貓 "wikilink")，引起哆啦A夢的不滿。
     在機器貓工廠是公認最後一名，原因是一次打雷把多啦A夢的一顆螺絲打掉，後因世修不小心觸碰電視拍賣的購買按鈕，使多啦A夢有了雇主；並為了改變野比世修的高祖父—野比大雄的未來，因此前往過去照顧10歲的大雄，以改變野比家未來的命運。
 
 <!-- end list -->
@@ -58,29 +58,29 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[太田淑子](../Page/太田淑子.md "wikilink")（1973年）→[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年4月—2005年3月）、[丸山裕子](../Page/丸山裕子.md "wikilink")（1979年7月替代）→[大原惠](../Page/大原惠.md "wikilink")（2005年3月—）
+  - [日本配音員](../Page/日本.md "wikilink")：[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1973年）→[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年4月—2005年3月）、[丸山裕子](https://zh.wikipedia.org/wiki/丸山裕子 "wikilink")（1979年7月替代）→[大原惠](../Page/大原惠.md "wikilink")（2005年3月—）
 
 <!-- end list -->
 
   -
     幼兒期：[大本真基子](../Page/大本真基子.md "wikilink")（2000年）→[門脇舞以](../Page/門脇舞以.md "wikilink")（2005年3月）
-    成年期：[鹽屋浩三](../Page/鹽屋浩三.md "wikilink")（1984年11月）→[廣森信吾](../Page/廣森信吾.md "wikilink")（1987年—1990年）→[小原乃梨子](../Page/小原乃梨子.md "wikilink")（2000年—2004年）→[大川透](../Page/大川透.md "wikilink")（2005年3月）→[堀秀行](../Page/堀秀行.md "wikilink")（2006年）→[大原惠](../Page/大原惠.md "wikilink")（電視新版本，大雄的結婚前夜）→[妻夫木聰](../Page/妻夫木聰.md "wikilink")（STAND
+    成年期：[鹽屋浩三](../Page/鹽屋浩三.md "wikilink")（1984年11月）→[廣森信吾](https://zh.wikipedia.org/wiki/廣森信吾 "wikilink")（1987年—1990年）→[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（2000年—2004年）→[大川透](../Page/大川透.md "wikilink")（2005年3月）→[堀秀行](../Page/堀秀行.md "wikilink")（2006年）→[大原惠](../Page/大原惠.md "wikilink")（電視新版本，大雄的結婚前夜）→[妻夫木聰](../Page/妻夫木聰.md "wikilink")（STAND
     BY ME 哆啦A夢）
 
 <!-- end list -->
 
   - [香港配音員](../Page/香港.md "wikilink")：[曾慶珏](../Page/曾慶珏.md "wikilink")（1982年—1992年）→[盧素娟](../Page/盧素娟.md "wikilink")（1992年—2006年）→[曾慶珏](../Page/曾慶珏.md "wikilink")（2006年—2007年）→[陸惠玲](../Page/陸惠玲.md "wikilink")（2007年—）／[劉昭文](../Page/劉昭文.md "wikilink")（成人，2005年版)
     , [黎景全](../Page/黎景全.md "wikilink")（成人，電影版)
-  - [台灣配音員](../Page/台灣.md "wikilink")
+  - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
 <!-- end list -->
 
   -
-    小叮噹版本：[靳東美](../Page/靳東美.md "wikilink")（1994年—1996年）→[馮友薇](../Page/馮友薇.md "wikilink")（1997年—1999年、巨童文化VCD）、[汪世瑋](../Page/汪世瑋.md "wikilink")（錄影帶）、[李映淑](../Page/李映淑.md "wikilink")（電影版）
+    小叮噹版本：[靳東美](https://zh.wikipedia.org/wiki/靳東美 "wikilink")（1994年—1996年）→[馮友薇](../Page/馮友薇.md "wikilink")（1997年—1999年、巨童文化VCD）、[汪世瑋](../Page/汪世瑋.md "wikilink")（錄影帶）、[李映淑](https://zh.wikipedia.org/wiki/李映淑 "wikilink")（電影版）
     哆啦A夢版本：
       -
         1979年版：[楊凱凱](../Page/楊凱凱.md "wikilink")、[姚敏敏](../Page/姚敏敏.md "wikilink")（短期代理）、[于正昌](../Page/于正昌.md "wikilink")（成年期）
-        2005年版：[劉如蘋](../Page/劉如蘋.md "wikilink")（第1集至第52集）→[劉凱寧](../Page/劉凱寧.md "wikilink")（第53集至第208集）→[林筱玲](../Page/林筱玲.md "wikilink")（第209集至今）、[宋克軍](../Page/宋克軍.md "wikilink")（送給靜香禮物的是大雄）→[李世揚](../Page/李世揚.md "wikilink")（大雄一百分
+        2005年版：[劉如蘋](../Page/劉如蘋.md "wikilink")（第1集至第52集）→[劉凱寧](https://zh.wikipedia.org/wiki/劉凱寧 "wikilink")（第53集至第208集）→[林筱玲](../Page/林筱玲.md "wikilink")（第209集至今）、[宋克軍](../Page/宋克軍.md "wikilink")（送給靜香禮物的是大雄）→[李世揚](../Page/李世揚.md "wikilink")（大雄一百分
         25年後的大事件）
         電影版：楊凱凱、劉如蘋（2006年首映版及2008年）、[陶敏嫻](../Page/陶敏嫻.md "wikilink")（2009年及2011年）、[宋昱璁](../Page/宋昱璁.md "wikilink")（《STAND
         BY ME 哆啦A夢》成年期）
@@ -92,15 +92,15 @@
 <!-- end list -->
 
   -
-    叮当版本：[堡堡](../Page/堡堡.md "wikilink")
-    阿蒙版本\[2\]：[王麗華](../Page/王麗華.md "wikilink")→[腾腾](../Page/腾腾.md "wikilink")、王羊（小部分集数）、张璐（小部分集数）
-    哆啦A夢版本：1979年版：[伍凤春](../Page/伍凤春.md "wikilink")（央視新版，在中央电视台少儿频道《动漫世界》播出）、[姚培华](../Page/姚培华.md "wikilink")（上海李曄版）→[祖丽晴](../Page/祖丽晴.md "wikilink")（廣東梁穎版）
-    2005年版：[黄笑嬿](../Page/黄笑嬿.md "wikilink")（2006—2008年电影版）→[伍凤春](../Page/伍凤春.md "wikilink")&[韩庚](../Page/韩庚.md "wikilink")（[哆啦A梦：伴我同行](../Page/哆啦A梦：伴我同行.md "wikilink")）→[四刀辉彰](../Page/四刀辉彰.md "wikilink")（2016—2017年电影版）→[腾腾](../Page/腾腾.md "wikilink")（2018年电影版）
+    叮当版本：[堡堡](https://zh.wikipedia.org/wiki/堡堡 "wikilink")
+    阿蒙版本\[2\]：[王麗華](https://zh.wikipedia.org/wiki/王麗華 "wikilink")→[腾腾](https://zh.wikipedia.org/wiki/腾腾 "wikilink")、王羊（小部分集数）、张璐（小部分集数）
+    哆啦A夢版本：1979年版：[伍凤春](https://zh.wikipedia.org/wiki/伍凤春 "wikilink")（央視新版，在中央电视台少儿频道《动漫世界》播出）、[姚培华](https://zh.wikipedia.org/wiki/姚培华 "wikilink")（上海李曄版）→[祖丽晴](https://zh.wikipedia.org/wiki/祖丽晴 "wikilink")（廣東梁穎版）
+    2005年版：[黄笑嬿](https://zh.wikipedia.org/wiki/黄笑嬿 "wikilink")（2006—2008年电影版）→[伍凤春](https://zh.wikipedia.org/wiki/伍凤春 "wikilink")&[韩庚](https://zh.wikipedia.org/wiki/韩庚 "wikilink")（[哆啦A梦：伴我同行](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")）→[四刀辉彰](https://zh.wikipedia.org/wiki/四刀辉彰 "wikilink")（2016—2017年电影版）→[腾腾](https://zh.wikipedia.org/wiki/腾腾 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
-  - [美國配音員](../Page/美國.md "wikilink")：[Johnny Yong
-    Bosch](../Page/Johnny_Yong_Bosch.md "wikilink")
+  - [美國配音員](https://zh.wikipedia.org/wiki/美國 "wikilink")：[Johnny Yong
+    Bosch](https://zh.wikipedia.org/wiki/Johnny_Yong_Bosch "wikilink")
   - 真人版演員：[妻夫木聰](../Page/妻夫木聰.md "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[恵比壽真沙子](../Page/恵比壽真沙子.md "wikilink")（1973年）→[野村道子](../Page/野村道子.md "wikilink")（1979年4月—2005年3月）→[嘉數由美](../Page/嘉數由美.md "wikilink")（2005年3月—）
+  - [日本配音員](../Page/日本.md "wikilink")：[恵比壽真沙子](https://zh.wikipedia.org/wiki/恵比壽真沙子 "wikilink")（1973年）→[野村道子](../Page/野村道子.md "wikilink")（1979年4月—2005年3月）→[嘉數由美](../Page/嘉數由美.md "wikilink")（2005年3月—）
 
 <!-- end list -->
 
@@ -125,13 +125,13 @@
 
 <!-- end list -->
 
-  - [香港配音員](../Page/香港.md "wikilink")：[孫明貞](../Page/孫明貞.md "wikilink")（1982年—1991年）→[梁少霞](../Page/梁少霞.md "wikilink")（1991年—）
-  - [台灣配音員](../Page/台灣.md "wikilink")
+  - [香港配音員](../Page/香港.md "wikilink")：[孫明貞](../Page/孫明貞.md "wikilink")（1982年—1991年）→[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（1991年—）
+  - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
 <!-- end list -->
 
   -
-    小叮噹版本：[敖冰欣](../Page/敖冰欣.md "wikilink")（巨童文化VCD）、[許淑嬪](../Page/許淑嬪.md "wikilink")（1997年—1999年）、[呂佩玉](../Page/呂佩玉.md "wikilink")（電影版）
+    小叮噹版本：[敖冰欣](https://zh.wikipedia.org/wiki/敖冰欣 "wikilink")（巨童文化VCD）、[許淑嬪](../Page/許淑嬪.md "wikilink")（1997年—1999年）、[呂佩玉](../Page/呂佩玉.md "wikilink")（電影版）
     哆啦A夢版本：
       -
         1979年版：許淑嬪、[丘梅君](../Page/丘梅君.md "wikilink")（短期代理）
@@ -145,13 +145,14 @@
 <!-- end list -->
 
   -
-    [晓晓](../Page/晓晓.md "wikilink")（叮当时期）
-    [房露](../Page/房露.md "wikilink")→唐亚男（小部分集数）→唐烨→陈立博（小部分集数）→王雪纯（阿蒙时期）\[3\]
-    陈青（中央电视台少儿频道版）、[邓玉婷](../Page/邓玉婷.md "wikilink")（廣東梁穎配音版）、詹佳（2006—2008年剧场版）→张艾&[周冬雨](../Page/周冬雨.md "wikilink")（哆啦A梦：伴我同行）→[C小调](../Page/C小调_\(配音演员\).md "wikilink")（2016—2017年电影版）→[马晓骥](../Page/马晓骥.md "wikilink")（2018年电影版）
+    [晓晓](https://zh.wikipedia.org/wiki/晓晓 "wikilink")（叮当时期）
+    [房露](https://zh.wikipedia.org/wiki/房露 "wikilink")→唐亚男（小部分集数）→唐烨→陈立博（小部分集数）→王雪纯（阿蒙时期）\[3\]
+    陈青（中央电视台少儿频道版）、[邓玉婷](https://zh.wikipedia.org/wiki/邓玉婷 "wikilink")（廣東梁穎配音版）、詹佳（2006—2008年剧场版）→张艾&[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")（哆啦A梦：伴我同行）→[C小调](https://zh.wikipedia.org/wiki/C小调_\(配音演员\) "wikilink")（2016—2017年电影版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
-  - [美國配音員](../Page/美國.md "wikilink")：Cassandra Morris
+  - [美國配音員](https://zh.wikipedia.org/wiki/美國 "wikilink")：Cassandra
+    Morris
   - 真人版演員：[水川麻美](../Page/水川麻美.md "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
@@ -167,17 +168,17 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[肝付兼太](../Page/肝付兼太.md "wikilink")（1973年）→[立壁和也](../Page/立壁和也.md "wikilink")（1979年4月-2005年3月）→[木村昴](../Page/木村昴.md "wikilink")（2005年4月-）
+  - [日本配音員](../Page/日本.md "wikilink")：[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1973年）→[立壁和也](https://zh.wikipedia.org/wiki/立壁和也 "wikilink")（1979年4月-2005年3月）→[木村昴](../Page/木村昴.md "wikilink")（2005年4月-）
 
 <!-- end list -->
 
   -
-    幼兒期：[松本和香子](../Page/松本和香子.md "wikilink")（2000年、2004年电影版）
+    幼兒期：[松本和香子](https://zh.wikipedia.org/wiki/松本和香子 "wikilink")（2000年、2004年电影版）
 
 <!-- end list -->
 
-  - [香港配音員](../Page/香港.md "wikilink")：[馮志潤](../Page/馮志潤.md "wikilink")（1982年—1990年）→[李智良](../Page/李智良.md "wikilink")（1991年—1992年）→[郭志權](../Page/郭志權.md "wikilink")（1996年—2001年）→[陳卓智](../Page/陳卓智.md "wikilink")（2001年—2015年）→[黃啟昌](../Page/黃啟昌.md "wikilink")（2015年7月—）/[陳卓智](../Page/陳卓智.md "wikilink")（電影版：2015年－）
-  - [台灣配音員](../Page/台灣.md "wikilink")
+  - [香港配音員](../Page/香港.md "wikilink")：[馮志潤](../Page/馮志潤.md "wikilink")（1982年—1990年）→[李智良](../Page/李智良.md "wikilink")（1991年—1992年）→[郭志權](../Page/郭志權.md "wikilink")（1996年—2001年）→[陳卓智](../Page/陳卓智.md "wikilink")（2001年—2015年）→[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（2015年7月—）/[陳卓智](../Page/陳卓智.md "wikilink")（電影版：2015年－）
+  - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
 <!-- end list -->
 
@@ -196,12 +197,12 @@
 <!-- end list -->
 
   -
-    1979年版：烨烨（叮当时期）→[鲍大志](../Page/鲍大志.md "wikilink")、关海龙、[李易](../Page/李易_\(配音演员\).md "wikilink")、李立宏（阿蒙时期）\[4\]→芯雯（CCTV少儿）→汪译男（上海配音）、[张琳](../Page/张琳.md "wikilink")（廣東梁穎配音版）
-    2005年版：[吴磊](../Page/吴磊.md "wikilink")（2006—2008年电影版）→王磊（哆啦A梦：伴我同行）→Slayerboom（2016—2017年电影版）→鲍大志（2018年电影版）
+    1979年版：烨烨（叮当时期）→[鲍大志](../Page/鲍大志.md "wikilink")、关海龙、[李易](https://zh.wikipedia.org/wiki/李易_\(配音演员\) "wikilink")、李立宏（阿蒙时期）\[4\]→芯雯（CCTV少儿）→汪译男（上海配音）、[张琳](../Page/张琳.md "wikilink")（廣東梁穎配音版）
+    2005年版：[吴磊](https://zh.wikipedia.org/wiki/吴磊 "wikilink")（2006—2008年电影版）→王磊（哆啦A梦：伴我同行）→Slayerboom（2016—2017年电影版）→鲍大志（2018年电影版）
 
 <!-- end list -->
 
-  - [美國配音員](../Page/美國.md "wikilink")：Kaiji Tang
+  - [美國配音員](https://zh.wikipedia.org/wiki/美國 "wikilink")：Kaiji Tang
   - 真人版演員：[小川直也](../Page/小川直也.md "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
@@ -217,7 +218,7 @@
 
 <!-- end list -->
 
-  - [日本配音員](../Page/日本.md "wikilink")：[八代駿](../Page/八代駿.md "wikilink")（1973年）→[肝付兼太](../Page/肝付兼太.md "wikilink")（1979年4月—2005年3月）、[龍田直樹](../Page/龍田直樹.md "wikilink")（1985年11月?日—12日替代）→[關智一](../Page/關智一.md "wikilink")（2005年4月—）
+  - [日本配音員](../Page/日本.md "wikilink")：[八代駿](https://zh.wikipedia.org/wiki/八代駿 "wikilink")（1973年）→[肝付兼太](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1979年4月—2005年3月）、[龍田直樹](../Page/龍田直樹.md "wikilink")（1985年11月?日—12日替代）→[關智一](../Page/關智一.md "wikilink")（2005年4月—）
 
 <!-- end list -->
 
@@ -226,8 +227,8 @@
 
 <!-- end list -->
 
-  - [香港配音員](../Page/香港.md "wikilink")：[方煥蘭](../Page/方煥蘭.md "wikilink")（1982年—1996年）→[黃鳳英](../Page/黃鳳英.md "wikilink")（1996年—2012年）→[林丹鳳](../Page/林丹鳳.md "wikilink")（TV版：2012年—）/[黃鳳英](../Page/黃鳳英.md "wikilink")（電影版：2006年－）
-  - [台灣配音員](../Page/台灣.md "wikilink")
+  - [香港配音員](../Page/香港.md "wikilink")：[方煥蘭](../Page/方煥蘭.md "wikilink")（1982年—1996年）→[黃鳳英](../Page/黃鳳英.md "wikilink")（1996年—2012年）→[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（TV版：2012年—）/[黃鳳英](../Page/黃鳳英.md "wikilink")（電影版：2006年－）
+  - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
 <!-- end list -->
 
@@ -235,7 +236,7 @@
     小叮噹版本：[官志宏](../Page/官志宏.md "wikilink")（1997年—1999年、巨童文化VCD及電影版）
     哆啦A夢版本：
       -
-        1979年版：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")、[于正昌](../Page/于正昌.md "wikilink")（短期代理）
+        1979年版：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")、[于正昌](../Page/于正昌.md "wikilink")（短期代理）
         2005年版：[李世揚](../Page/李世揚.md "wikilink")
         電影版：劉傑、李世揚（2006年首映版及2008年）、[李景唐](../Page/李景唐.md "wikilink")（2009年及2011年）
 
@@ -247,18 +248,18 @@
 
   -
     1979年版：军军（叮当时期）→腾腾、关海龙、赵欣、李智伟、尹永斌、李野墨、纪元（阿蒙时期，均为小部分集数，该版本角色配音演员没有固定）\[6\]→袁铭鸿（CCTV少儿）→邓玉婷（广东）、→张惠（上海配音）
-    2005年版：[翟巍](../Page/翟巍.md "wikilink")（2006—2008年剧场版）→[马晓骥](../Page/马晓骥.md "wikilink")（哆啦A梦：伴我同行）→[皇贞季](../Page/皇贞季.md "wikilink")（2016—2017年剧场版）→[王丽华](../Page/王丽华.md "wikilink")（2018年电影版）
+    2005年版：[翟巍](https://zh.wikipedia.org/wiki/翟巍 "wikilink")（2006—2008年剧场版）→[马晓骥](https://zh.wikipedia.org/wiki/马晓骥 "wikilink")（哆啦A梦：伴我同行）→[皇贞季](https://zh.wikipedia.org/wiki/皇贞季 "wikilink")（2016—2017年剧场版）→[王丽华](https://zh.wikipedia.org/wiki/王丽华 "wikilink")（2018年电影版）
 
 <!-- end list -->
 
-  - [美國配音員](../Page/美國.md "wikilink")：Brian Beacock
+  - [美國配音員](https://zh.wikipedia.org/wiki/美國 "wikilink")：Brian Beacock
   - 真人版演員：[山下智久](../Page/山下智久.md "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
 
   -
     朝日電視台版電視動畫第一回登場，漫畫版則在六種版本第一話的其中三種登場\[7\]，常見的《瓢蟲漫畫》系列45卷單行本則在〈秘密間諜大作戰〉中初登場\[8\]。
-    喜歡的食物:[牛排](../Page/牛排.md "wikilink")；討厭的食物:[青椒](../Page/青椒.md "wikilink")、[苦瓜](../Page/苦瓜.md "wikilink")
+    喜歡的食物:[牛排](../Page/牛排.md "wikilink")；討厭的食物:[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")、[苦瓜](../Page/苦瓜.md "wikilink")
     2月29日生，大雄的同學，顯示欲強。家境富裕，喜好賣弄、炫耀、耍小聰明，非常乞人憎的富家子。
 
 ## 主要配角
@@ -267,7 +268,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1973年）→[千千松幸子](../Page/千千松幸子.md "wikilink")（1979年4月—2005年3月）→[三石琴乃](../Page/三石琴乃.md "wikilink")（2005年4月—）
+  - 日本配音員：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1973年）→[千千松幸子](../Page/千千松幸子.md "wikilink")（1979年4月—2005年3月）→[三石琴乃](../Page/三石琴乃.md "wikilink")（2005年4月—）
 
 <!-- end list -->
 
@@ -276,7 +277,7 @@
 
 <!-- end list -->
 
-  - 香港配音員：[區瑞華](../Page/區瑞華.md "wikilink")、[蔡惠萍](../Page/蔡惠萍.md "wikilink")（1979年版代配）→[許盈](../Page/許盈.md "wikilink")（電視版）/[陳安瑩](../Page/陳安瑩.md "wikilink")（新大雄宇宙開拓史，新大雄與鐵人兵團起）/[周恩恩](../Page/周恩恩.md "wikilink")（大雄的人魚大海戰）/[蘇青鳳](../Page/蘇青鳳.md "wikilink")（STAND
+  - 香港配音員：[區瑞華](../Page/區瑞華.md "wikilink")、[蔡惠萍](../Page/蔡惠萍.md "wikilink")（1979年版代配）→[許盈](../Page/許盈.md "wikilink")（電視版）/[陳安瑩](../Page/陳安瑩.md "wikilink")（新大雄宇宙開拓史，新大雄與鐵人兵團起）/[周恩恩](../Page/周恩恩.md "wikilink")（大雄的人魚大海戰）/[蘇青鳳](https://zh.wikipedia.org/wiki/蘇青鳳 "wikilink")（STAND
     BY ME多啦A夢）
   - 台灣配音員
 
@@ -284,52 +285,52 @@
 
   -
     小叮噹版本：敖冰欣（巨童文化VCD）、許淑嬪（華視版）
-    哆啦A夢版本：[許淑嬪](../Page/許淑嬪.md "wikilink")（1979年版、除了2008年及2011年的電影版）、[丘梅君](../Page/丘梅君.md "wikilink")（1979年版代理）→[林美秀](../Page/林美秀.md "wikilink")（2005年版、2008年電影版）、[黃珽筠](../Page/黃珽筠.md "wikilink")（2011年电影版）
+    哆啦A夢版本：[許淑嬪](../Page/許淑嬪.md "wikilink")（1979年版、除了2008年及2011年的電影版）、[丘梅君](../Page/丘梅君.md "wikilink")（1979年版代理）→[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")（2005年版、2008年電影版）、[黃珽筠](../Page/黃珽筠.md "wikilink")（2011年电影版）
 
 <!-- end list -->
 
-  - 中国大陆配音員：[兰兰](../Page/兰兰.md "wikilink")（叮当时期）、[赵娜](../Page/赵娜.md "wikilink")（廣東梁穎配音版）、[葉露](../Page/葉露.md "wikilink")（2006—2008年剧场版）→[杨希](../Page/杨希.md "wikilink")（2016—2017年电影版）→牟珈论（2018年电影版）
+  - 中国大陆配音員：[兰兰](https://zh.wikipedia.org/wiki/兰兰 "wikilink")（叮当时期）、[赵娜](https://zh.wikipedia.org/wiki/赵娜 "wikilink")（廣東梁穎配音版）、[葉露](https://zh.wikipedia.org/wiki/葉露 "wikilink")（2006—2008年剧场版）→[杨希](https://zh.wikipedia.org/wiki/杨希 "wikilink")（2016—2017年电影版）→牟珈论（2018年电影版）
   - 美國配音員：Mari Devon
 
 <!-- end list -->
 
   -
-    大雄的媽媽，32歲，生於1942年。婚前名為片岡玉子，是動漫畫中，除了五位主角之外最常出現的人物，是一位勤勞的[家庭主婦](../Page/家庭主婦.md "wikilink")，然而性格卻相當保守，對於新產品及科技都不甚感興趣，常為家中[赤字煩惱](../Page/赤字.md "wikilink")。小時候相當頑皮搗蛋，而且成績不太好、但成長之後頭腦聰明、成績優秀。婚後對於大雄、哆啦A夢以及野比大助的過失常加以嚴厲苛責（尤其是大雄），亦禁止飼養寵物（但也有在極少數因特殊情況而允許），但實際上很關懷家人，偶爾也會對大雄展露出溫柔慈愛的一面。只要有人（包括大雄的爸爸）破壞家中的和諧、安寧或環境整潔時就會大發雷霆。
+    大雄的媽媽，32歲，生於1942年。婚前名為片岡玉子，是動漫畫中，除了五位主角之外最常出現的人物，是一位勤勞的[家庭主婦](../Page/家庭主婦.md "wikilink")，然而性格卻相當保守，對於新產品及科技都不甚感興趣，常為家中[赤字煩惱](https://zh.wikipedia.org/wiki/赤字 "wikilink")。小時候相當頑皮搗蛋，而且成績不太好、但成長之後頭腦聰明、成績優秀。婚後對於大雄、哆啦A夢以及野比大助的過失常加以嚴厲苛責（尤其是大雄），亦禁止飼養寵物（但也有在極少數因特殊情況而允許），但實際上很關懷家人，偶爾也會對大雄展露出溫柔慈愛的一面。只要有人（包括大雄的爸爸）破壞家中的和諧、安寧或環境整潔時就會大發雷霆。
 
 <!-- end list -->
 
-  - [多啦美](../Page/多啦美.md "wikilink")（） 中文舊稱小叮鈴、哆啦咪。
+  - [多啦美](https://zh.wikipedia.org/wiki/多啦美 "wikilink")（） 中文舊稱小叮鈴、哆啦咪。
 
 <!-- end list -->
 
-  - 日本配音員：[橫澤啟子](../Page/橫澤啟子.md "wikilink")（1979年4月—2005年3月）→[藤本千秋](../Page/藤本千秋.md "wikilink")（2006年9月—）
-  - 香港配音員：[周婉侶](../Page/周婉侶.md "wikilink")→[曾佩儀](../Page/曾佩儀.md "wikilink")→[林元春](../Page/林元春.md "wikilink")／[鄭麗麗](../Page/鄭麗麗.md "wikilink")（電影版）
+  - 日本配音員：[橫澤啟子](../Page/橫澤啟子.md "wikilink")（1979年4月—2005年3月）→[藤本千秋](https://zh.wikipedia.org/wiki/藤本千秋 "wikilink")（2006年9月—）
+  - 香港配音員：[周婉侶](../Page/周婉侶.md "wikilink")→[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")→[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／[鄭麗麗](../Page/鄭麗麗.md "wikilink")（電影版）
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版、除了2008年、2009年及2011年的电影版）→陶敏嫻（2011年電影版）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→[連思宇](../Page/連思宇.md "wikilink")（2005年版第182集起）
-  - 中国大陆配音員：[黄怡晴](../Page/黄怡晴.md "wikilink")（2007—2008年电影版）、[小祈](../Page/小祈.md "wikilink")（2016—2017年电影版）、[乔诗语](../Page/乔诗语.md "wikilink")（廣東梁穎配音版）
+  - 中国大陆配音員：[黄怡晴](https://zh.wikipedia.org/wiki/黄怡晴 "wikilink")（2007—2008年电影版）、[小祈](https://zh.wikipedia.org/wiki/小祈 "wikilink")（2016—2017年电影版）、[乔诗语](../Page/乔诗语.md "wikilink")（廣東梁穎配音版）
   - 美國配音員：Wendee Lee
 
 <!-- end list -->
 
   -
-    喜歡的食物:[蜜瓜包](../Page/蜜瓜包.md "wikilink")/[菠蘿麵包](../Page/菠蘿麵包.md "wikilink")；討厭的食物:沒有
+    喜歡的食物:[蜜瓜包](https://zh.wikipedia.org/wiki/蜜瓜包 "wikilink")/[菠蘿麵包](https://zh.wikipedia.org/wiki/菠蘿麵包 "wikilink")；討厭的食物:沒有
     2114年12月2日出生，哆啦A夢的妹妹，居住在22世紀，由於哆啦A夢被咬掉耳朵後跟其他同學不一樣，導致常常被嘲笑，因此博士特別為他設計一個妹妹來安慰他，為了避免讓哆啦A夢想到耳朵的事，還特地幫哆啦美把耳朵改裝成蝴蝶結。雖然與多啦A夢使用同一瓶機油，但哆啦美使用的是濃油，因此，性能比哥哥強很多，多次在哥哥和大雄遇到危險的時候拯救他們。是在22世紀服務於野比家的機器人，但若哆啦A夢需要前往工場維修或有重要事要外出，她也會前往20世紀來代替哆啦A夢照顧大雄。喜歡吃蜜瓜麵包(台譯：菠蘿麵包)。弱點是害怕蟑螂。在大長篇中有時也會擔任類似後援隊或在緊要關頭伸出援手的角色。
 
 <!-- end list -->
 
-  - [野比大助](../Page/野比大助.md "wikilink")（）美國版本稱Toby，港台舊稱葉野比、葉大助、葉阿助，中国大陆旧称大宝爸或阿助
+  - [野比大助](https://zh.wikipedia.org/wiki/野比大助 "wikilink")（）美國版本稱Toby，港台舊稱葉野比、葉大助、葉阿助，中国大陆旧称大宝爸或阿助
 
 <!-- end list -->
 
-  - 日本配音員：[村越伊知郎](../Page/村越伊知郎.md "wikilink")（1973年）→[加藤正之](../Page/加藤正之.md "wikilink")（1979年4月—1992年10月）→[中庸助](../Page/中庸助.md "wikilink")（1992年10月—2005年3月）→[松本保典](../Page/松本保典.md "wikilink")（2005年4月—）
+  - 日本配音員：[村越伊知郎](https://zh.wikipedia.org/wiki/村越伊知郎 "wikilink")（1973年）→[加藤正之](https://zh.wikipedia.org/wiki/加藤正之 "wikilink")（1979年4月—1992年10月）→[中庸助](https://zh.wikipedia.org/wiki/中庸助 "wikilink")（1992年10月—2005年3月）→[松本保典](../Page/松本保典.md "wikilink")（2005年4月—）
 
 <!-- end list -->
 
   -
-    少年時期：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年）→[山田榮子](../Page/山田榮子.md "wikilink")（1984年—1985年）→小原乃梨子（1987年）→[小林由美子](../Page/小林由美子.md "wikilink")（2005年）→大本眞基子（2009）→優希比呂（2010）、[野澤雅子](../Page/野澤雅子.md "wikilink")（[大雄與奇跡之島](../Page/大雄與奇跡之島.md "wikilink")）
+    少年時期：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年）→[山田榮子](../Page/山田榮子.md "wikilink")（1984年—1985年）→小原乃梨子（1987年）→[小林由美子](../Page/小林由美子.md "wikilink")（2005年）→大本眞基子（2009）→優希比呂（2010）、[野澤雅子](../Page/野澤雅子.md "wikilink")（[大雄與奇跡之島](../Page/大雄與奇跡之島.md "wikilink")）
 
 <!-- end list -->
 
-  - 香港配音員：[梁曉峰](../Page/梁曉峰.md "wikilink")(1980年—1988年)→[張炳強](../Page/張炳強.md "wikilink")(1990年—1991年)→[梁耀昌](../Page/梁耀昌.md "wikilink")(1991年—2001年）→[潘文柏](../Page/潘文柏.md "wikilink")（2001年—)、[盧國權](../Page/盧國權.md "wikilink")＆[招世亮](../Page/招世亮.md "wikilink")（代理）、[張炳強](../Page/張炳強.md "wikilink")（2005年版電影版）、[李建良](../Page/李建良.md "wikilink")（STAND
+  - 香港配音員：[梁曉峰](../Page/梁曉峰.md "wikilink")(1980年—1988年)→[張炳強](../Page/張炳強.md "wikilink")(1990年—1991年)→[梁耀昌](../Page/梁耀昌.md "wikilink")(1991年—2001年）→[潘文柏](../Page/潘文柏.md "wikilink")（2001年—)、[盧國權](../Page/盧國權.md "wikilink")＆[招世亮](../Page/招世亮.md "wikilink")（代理）、[張炳強](../Page/張炳強.md "wikilink")（2005年版電影版）、[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink")（STAND
     BY
     ME），[雷碧娜](../Page/雷碧娜.md "wikilink")→[沈小蘭](../Page/沈小蘭.md "wikilink")（兒時，電視版）、[謝潔貞](../Page/謝潔貞.md "wikilink")（兒時，大雄與奇跡之島）
   - 台灣配音員
@@ -343,16 +344,16 @@
 
 <!-- end list -->
 
-  - 中国大陆配音員：[庆庆](../Page/庆庆.md "wikilink")（叮当时期）、[李團](../Page/李團.md "wikilink")（廣東梁穎配音版）、[桂楠](../Page/桂楠.md "wikilink")（2006—2007年电影版）→胡智平（2008年电影版）→陈喆（2016年—2017年电影版）→[赵鑫](../Page/赵鑫.md "wikilink")（2018年电影版）
+  - 中国大陆配音員：[庆庆](https://zh.wikipedia.org/wiki/庆庆 "wikilink")（叮当时期）、[李團](https://zh.wikipedia.org/wiki/李團 "wikilink")（廣東梁穎配音版）、[桂楠](https://zh.wikipedia.org/wiki/桂楠 "wikilink")（2006—2007年电影版）→胡智平（2008年电影版）→陈喆（2016年—2017年电影版）→[赵鑫](https://zh.wikipedia.org/wiki/赵鑫 "wikilink")（2018年电影版）
   - 美國配音員：Tony Oliver
 
 <!-- end list -->
 
   -
     大雄的爸爸，36歳\[9\]，動畫設定為昭和11年（1938年1月24日）出生（『』）\[10\]。
-    也可稱野比伸助（日文︰），在[1979年版動畫](../Page/1979年版動畫.md "wikilink")《》中，出現「野比野比助」之漢字。[野比大雄的父親](../Page/野比大雄.md "wikilink")，朝九晚五的典型上班族，雙親中他較寵大雄，不過有時候也對大雄很嚴厲，甚至有時候會跟玉子一起責備他。他畫得一手好畫，得過畫賞，年輕時曾經有和某富商之女結婚就有能被捧為名畫家的機會，不過因為堅持「人生的路是要由自己闖出」而沒有接受，因而碰見現時的[妻子](../Page/野比玉子.md "wikilink")（即大雄媽媽[玉子](../Page/野比玉子.md "wikilink")）。有抽煙的不良嗜好，多次戒煙不果。閒時愛去釣魚（不過技術不佳）、打高爾夫球（打得也不算好）和打麻將，汽車駕照也老是考不上。因他本身十分容易招風雨（度數為-8.5\[11\]，另外[大雄為](../Page/大雄.md "wikilink")-2，[多啦A夢為](../Page/多啦A夢.md "wikilink")+1.5，[小夫為](../Page/小夫.md "wikilink")-7，[靜香為](../Page/靜香.md "wikilink")+9，[胖虎為](../Page/胖虎.md "wikilink")+10），因打高爾夫球時經常都下雨，而被同事稱為「掃帚星」，時不時會成為哆啦A夢法寶的最終受害人。
-    早期的故事中，幼年的大助曾因二次大戰，要跟別的孩子和老師疏散到鄉下避難，由朝到晚都要耕作勞動，嚴苛的生活一度令大助打算投河自殺，幸好因為一位「白百合般的長髮少女」出現在河邊，並送給他一塊巧克力讓他重新振作，因此大助對巧克力有著一種特別的感情；不過，那位少女其實是乘[時光機回到當時的大雄陰錯陽差下假扮而成的](../Page/時光機.md "wikilink")。（短篇動漫《好像白百合的少女》）
-    在電影版《大雄與奇蹟之島》當中，曾因時空導航員的出錯，把小孩時的[野比大助誤送到奇跡之島](../Page/野比大助.md "wikilink")。在那時以「馬雅」身份與大雄等人一起參與冒險，可是因失憶棒而忘記當時情景，在他的畫簿中，有一隻金黃色的甲蟲獨角仙，可作為當時的證明。
+    也可稱野比伸助（日文︰），在[1979年版動畫](https://zh.wikipedia.org/wiki/1979年版動畫 "wikilink")《》中，出現「野比野比助」之漢字。[野比大雄的父親](../Page/野比大雄.md "wikilink")，朝九晚五的典型上班族，雙親中他較寵大雄，不過有時候也對大雄很嚴厲，甚至有時候會跟玉子一起責備他。他畫得一手好畫，得過畫賞，年輕時曾經有和某富商之女結婚就有能被捧為名畫家的機會，不過因為堅持「人生的路是要由自己闖出」而沒有接受，因而碰見現時的[妻子](../Page/野比玉子.md "wikilink")（即大雄媽媽[玉子](../Page/野比玉子.md "wikilink")）。有抽煙的不良嗜好，多次戒煙不果。閒時愛去釣魚（不過技術不佳）、打高爾夫球（打得也不算好）和打麻將，汽車駕照也老是考不上。因他本身十分容易招風雨（度數為-8.5\[11\]，另外[大雄為](https://zh.wikipedia.org/wiki/大雄 "wikilink")-2，[多啦A夢為](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")+1.5，[小夫為](https://zh.wikipedia.org/wiki/小夫 "wikilink")-7，[靜香為](https://zh.wikipedia.org/wiki/靜香 "wikilink")+9，[胖虎為](https://zh.wikipedia.org/wiki/胖虎 "wikilink")+10），因打高爾夫球時經常都下雨，而被同事稱為「掃帚星」，時不時會成為哆啦A夢法寶的最終受害人。
+    早期的故事中，幼年的大助曾因二次大戰，要跟別的孩子和老師疏散到鄉下避難，由朝到晚都要耕作勞動，嚴苛的生活一度令大助打算投河自殺，幸好因為一位「白百合般的長髮少女」出現在河邊，並送給他一塊巧克力讓他重新振作，因此大助對巧克力有著一種特別的感情；不過，那位少女其實是乘[時光機回到當時的大雄陰錯陽差下假扮而成的](https://zh.wikipedia.org/wiki/時光機 "wikilink")。（短篇動漫《好像白百合的少女》）
+    在電影版《大雄與奇蹟之島》當中，曾因時空導航員的出錯，把小孩時的[野比大助誤送到奇跡之島](https://zh.wikipedia.org/wiki/野比大助 "wikilink")。在那時以「馬雅」身份與大雄等人一起參與冒險，可是因失憶棒而忘記當時情景，在他的畫簿中，有一隻金黃色的甲蟲獨角仙，可作為當時的證明。
 
 <!-- end list -->
 
@@ -360,7 +361,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[白川澄子](../Page/白川澄子.md "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](https://zh.wikipedia.org/wiki/萩野志保子 "wikilink")（朝日電視台版2005年5月—）／
 
 <!-- end list -->
 
@@ -370,11 +371,11 @@
 
 <!-- end list -->
 
-  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](../Page/馬慧琪.md "wikilink")（STAND
+  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](https://zh.wikipedia.org/wiki/馬慧琪 "wikilink")（STAND
     BY ME）
   - 台灣配音員（哆啦A夢版本）：于正昇＆于正昌（1979年版、除了2008年的電影版）→姚敏敏（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→連思宇（2005年版第182集起）、劉如蘋（電影版，2014年起）
-  - [中国大陆配音員](../Page/中国大陆.md "wikilink")：[武向彤](../Page/武向彤.md "wikilink")（电影版）、[劉紅韻](../Page/劉紅韻.md "wikilink")（廣東梁穎配音版）
-  - 真人版演員：[內村航平](../Page/內村航平.md "wikilink")（豐田汽車廣告）
+  - [中国大陆配音員](../Page/中国大陆.md "wikilink")：[武向彤](https://zh.wikipedia.org/wiki/武向彤 "wikilink")（电影版）、[劉紅韻](https://zh.wikipedia.org/wiki/劉紅韻 "wikilink")（廣東梁穎配音版）
+  - 真人版演員：[內村航平](https://zh.wikipedia.org/wiki/內村航平 "wikilink")（豐田汽車廣告）
 
 <!-- end list -->
 
@@ -387,7 +388,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[加藤修](../Page/加藤治.md "wikilink")→[雨森雅司](../Page/雨森雅司.md "wikilink")（1973）→[沢りつお](../Page/沢りつお.md "wikilink")（1979年4月—5月）→加藤治→不明→[井上和彥](../Page/井上和彥.md "wikilink")（—1981年10月）→[田中亮一](../Page/田中亮一.md "wikilink")（1981年10月—2005年3月）→[高木涉](../Page/高木涉.md "wikilink")（2005年4月—）
+  - 日本配音員：[加藤修](https://zh.wikipedia.org/wiki/加藤治 "wikilink")→[雨森雅司](https://zh.wikipedia.org/wiki/雨森雅司 "wikilink")（1973）→[沢りつお](https://zh.wikipedia.org/wiki/沢りつお "wikilink")（1979年4月—5月）→加藤治→不明→[井上和彥](../Page/井上和彥.md "wikilink")（—1981年10月）→[田中亮一](https://zh.wikipedia.org/wiki/田中亮一 "wikilink")（1981年10月—2005年3月）→[高木涉](../Page/高木涉.md "wikilink")（2005年4月—）
   - 香港配音員：[周鸞](../Page/周鸞.md "wikilink")→[陳曙光](../Page/陳曙光.md "wikilink")（—2015年12月）→[馮志輝](../Page/馮志輝.md "wikilink")、[張英才](../Page/張英才.md "wikilink")（大山版代配、TV早期版）、[黃健強](../Page/黃健強.md "wikilink")（代配）、[張炳強](../Page/張炳強.md "wikilink")（時光機）、[陳永信](../Page/陳永信.md "wikilink")（代配）、[馮志輝](../Page/馮志輝.md "wikilink")（代配）
   - 台灣配音員
 
@@ -399,7 +400,7 @@
 
 <!-- end list -->
 
-  - [中国大陆配音員](../Page/中国大陆.md "wikilink")：[高全勝](../Page/高全勝.md "wikilink")（1979年版：廣東梁穎配音版）
+  - [中国大陆配音員](../Page/中国大陆.md "wikilink")：[高全勝](https://zh.wikipedia.org/wiki/高全勝 "wikilink")（1979年版：廣東梁穎配音版）
 
 <!-- end list -->
 
@@ -415,8 +416,8 @@
 
 [Minidora_char.gif](https://zh.wikipedia.org/wiki/File:Minidora_char.gif "fig:Minidora_char.gif")
 
-  - 日本配音員：[北川智繪](../Page/北川智繪.md "wikilink")（1990年4月）→[佐久間玲](../Page/佐久間玲.md "wikilink")（1994年3月—2005年3月）→（2005年10月—？）→[金元寿子](../Page/金元寿子.md "wikilink")（2017年—）
-  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")（綠色）、[林元春](../Page/林元春.md "wikilink")（黃色）、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（紅色）
+  - 日本配音員：[北川智繪](../Page/北川智繪.md "wikilink")（1990年4月）→[佐久間玲](../Page/佐久間玲.md "wikilink")（1994年3月—2005年3月）→（2005年10月—？）→[金元寿子](https://zh.wikipedia.org/wiki/金元寿子 "wikilink")（2017年—）
+  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")（綠色）、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（黃色）、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（紅色）
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版）
   - 中國大陸配音員：
   - 美國配音員：Cristina Valenzuela
@@ -426,10 +427,10 @@
   -
     為紀念哆啦A夢抓住時光罪犯而批量生產的迷你版，也是哆啦A夢的道具之一，收納在四次元口袋中。
     在1973年雑誌『幼稚園』3月號掲載的故事『』中登場。
-    原先是大量生產，但後期（2004年—）常登場的只有紅、黃、綠色三個。身高30cm，也算是一個道具，是貓型機械人的迷你版。通常待在[多啦A夢的](../Page/多啦A夢.md "wikilink")[四次元口袋](../Page/四次元口袋.md "wikilink")。多啦A夢有7個迷你哆啦，每個迷你哆啦也有不同顏色，出現得最多的是紅色，其次是黃色和綠色。[多啦美亦擁有迷你多啦](../Page/多啦美.md "wikilink")。一般的貓型機械人都有耳朵，因此一般的迷你哆啦也有耳朵（如[哆啦利鈕的迷你多啦足球隊就是十一個有耳朵的綠色貓型機械人](../Page/哆啦A夢七小子#哆啦利鈕.md "wikilink")）。後來因為哆啦A夢幫助時空警察捉拿犯人（純粹巧合），有關單位為了紀念，生產了限量版的迷你哆啦。當時的多啦A夢已經失去耳朵，因此這批迷你哆啦也就沒有耳朵。
-    漫畫裡他們只會說一些簡單的字眼；動畫版中我們只能聽到他們「哆啦、哆啦」的叫著（在日語原版動畫中的叫聲為「哆啦啦」），但[大雄等人卻能理解他們的說話](../Page/野比大雄.md "wikilink")。假如不了解時，會服用[翻譯糕](../Page/翻譯糕.md "wikilink")。迷你哆啦有多啦A夢常用道具的迷你版本。但也有多啦A夢可能沒有的道具，如[溫泉蛋](../Page/溫泉蛋_\(多啦A夢\).md "wikilink")、[貓之手等等](../Page/貓之手.md "wikilink")。但因為太小了，不適合人類使用。
-    跟多啦A夢一樣，最喜歡吃[銅鑼燒](../Page/銅鑼燒.md "wikilink")。對美食無法抗拒，有一次紅色迷你多啦為了一枝[棒棒糖](../Page/棒棒糖.md "wikilink")，答應幫助大雄裝病，也偷吃過多啦A夢的豆沙包（一件不留）。在迷你哆啦與貓之手一集，三個迷你哆啦吃了大約十串的串燒（雖然只吃肉）。迷你哆啦還被​​設定為能識別並修改或修復機器內部結構的道具。
-    在電影版《[大雄與白金迷宮](../Page/大雄與白金迷宮.md "wikilink")》中，哆啦A夢在被拷問時遭到嚴重破壞，大雄將紅色迷你哆啦縮小後由哆啦A夢的鼻子處送入哆啦A夢體內，並成功修復了哆啦A夢；在對付叛變首領納波基斯特拉時，哆啦A夢以​​彈弓將攜帶病毒程式的迷你哆啦送入納波基斯特拉口中，並成功植入病毒，消滅了獨裁者及其叛軍。在漫畫《多啦A夢生病了?》中，-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-美用迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-為不肯做身體檢查的多啦A夢進行修復工作。動畫1979年版的迷你哆啦A夢的配音員有在1989年的電影版《[哆啦美！迷你哆啦SOS！！](../Page/哆啦美與迷你哆啦SOS.md "wikilink")》（）和1990年4月6日的播放的TV動畫《哆啦A夢生重病！》中声演。
+    原先是大量生產，但後期（2004年—）常登場的只有紅、黃、綠色三個。身高30cm，也算是一個道具，是貓型機械人的迷你版。通常待在[多啦A夢的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[四次元口袋](https://zh.wikipedia.org/wiki/四次元口袋 "wikilink")。多啦A夢有7個迷你哆啦，每個迷你哆啦也有不同顏色，出現得最多的是紅色，其次是黃色和綠色。[多啦美亦擁有迷你多啦](https://zh.wikipedia.org/wiki/多啦美 "wikilink")。一般的貓型機械人都有耳朵，因此一般的迷你哆啦也有耳朵（如[哆啦利鈕的迷你多啦足球隊就是十一個有耳朵的綠色貓型機械人](https://zh.wikipedia.org/wiki/哆啦A夢七小子#哆啦利鈕 "wikilink")）。後來因為哆啦A夢幫助時空警察捉拿犯人（純粹巧合），有關單位為了紀念，生產了限量版的迷你哆啦。當時的多啦A夢已經失去耳朵，因此這批迷你哆啦也就沒有耳朵。
+    漫畫裡他們只會說一些簡單的字眼；動畫版中我們只能聽到他們「哆啦、哆啦」的叫著（在日語原版動畫中的叫聲為「哆啦啦」），但[大雄等人卻能理解他們的說話](../Page/野比大雄.md "wikilink")。假如不了解時，會服用[翻譯糕](https://zh.wikipedia.org/wiki/翻譯糕 "wikilink")。迷你哆啦有多啦A夢常用道具的迷你版本。但也有多啦A夢可能沒有的道具，如[溫泉蛋](https://zh.wikipedia.org/wiki/溫泉蛋_\(多啦A夢\) "wikilink")、[貓之手等等](https://zh.wikipedia.org/wiki/貓之手 "wikilink")。但因為太小了，不適合人類使用。
+    跟多啦A夢一樣，最喜歡吃[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")。對美食無法抗拒，有一次紅色迷你多啦為了一枝[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")，答應幫助大雄裝病，也偷吃過多啦A夢的豆沙包（一件不留）。在迷你哆啦與貓之手一集，三個迷你哆啦吃了大約十串的串燒（雖然只吃肉）。迷你哆啦還被​​設定為能識別並修改或修復機器內部結構的道具。
+    在電影版《[大雄與白金迷宮](../Page/大雄與白金迷宮.md "wikilink")》中，哆啦A夢在被拷問時遭到嚴重破壞，大雄將紅色迷你哆啦縮小後由哆啦A夢的鼻子處送入哆啦A夢體內，並成功修復了哆啦A夢；在對付叛變首領納波基斯特拉時，哆啦A夢以​​彈弓將攜帶病毒程式的迷你哆啦送入納波基斯特拉口中，並成功植入病毒，消滅了獨裁者及其叛軍。在漫畫《多啦A夢生病了?》中，-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-美用迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-為不肯做身體檢查的多啦A夢進行修復工作。動畫1979年版的迷你哆啦A夢的配音員有在1989年的電影版《[哆啦美！迷你哆啦SOS！！](https://zh.wikipedia.org/wiki/哆啦美與迷你哆啦SOS "wikilink")》（）和1990年4月6日的播放的TV動畫《哆啦A夢生重病！》中声演。
 
 ## 主要角色的家人及寵物
 
@@ -439,7 +440,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[小原乃梨子](../Page/小原乃梨子.md "wikilink")（1979年4月—2005年3月）→[龜井芳子](../Page/龜井芳子.md "wikilink")（2005年4月—）
+  - 日本配音員：[小原乃梨子](https://zh.wikipedia.org/wiki/小原乃梨子 "wikilink")（1979年4月—2005年3月）→[龜井芳子](../Page/龜井芳子.md "wikilink")（2005年4月—）
   - 香港配音員：[雷碧娜](../Page/雷碧娜.md "wikilink")、[袁淑珍](../Page/袁淑珍.md "wikilink")（叮噹早期TV版）
   - 台灣配音員（哆啦A夢版本）：楊凱凱（1979年版）、錢欣郁（1979年版代理）→姚敏敏（2005年版）
   - 中國大陸版配音員：
@@ -452,11 +453,11 @@
 
 <!-- end list -->
 
-  - [野比世修](../Page/野比世修.md "wikilink")（）
+  - [野比世修](https://zh.wikipedia.org/wiki/野比世修 "wikilink")（）
 
 <!-- end list -->
 
-  - 日本配音員：[山本圭子](../Page/山本圭子.md "wikilink")（1973年）→[太田淑子](../Page/太田淑子.md "wikilink")（1980年1月—2005年3月）→[松本幸](../Page/松本幸.md "wikilink")（2005年8月—）
+  - 日本配音員：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（1973年）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1980年1月—2005年3月）→[松本幸](../Page/松本幸.md "wikilink")（2005年8月—）
   - 香港配音員：[區瑞華](../Page/區瑞華.md "wikilink")→[陸惠玲](../Page/陸惠玲.md "wikilink")→[黎桂芳](../Page/黎桂芳.md "wikilink")→[謝潔貞](../Page/謝潔貞.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")（2005年版124集起）/[郭碧珍](../Page/郭碧珍.md "wikilink")（STAND
     BY ME多啦A夢）
   - 台灣配音員（哆啦A夢版本）：楊凱凱（1979年版、2013年和以前的電影版）→姚敏敏（2005年版前52集）→雷碧文（2005年版第53集起）、劉如蘋（STAND
@@ -471,7 +472,7 @@
 <!-- end list -->
 
   -
-    大雄的玄孫，2114年生。回到20世紀首次見到大雄時，稱他為「爺爺的爺爺（台灣大然版）/高祖父(台灣青文版)」，之後略稱「爺爺(祖父)」（台版動畫有時也出現過「曾祖父」的稱呼）。大雄也稱他為孫子。在野比家族里他是唯一一个名字裡不带「伸（）」的。根据记载，2125年他11歲，但没有可确定的资料可说明他出生于2114年（另有記載稱他生於2115年）（比[多啦A夢年幼](../Page/哆啦A梦_\(角色\).md "wikilink")2年，與[多啦美同年](../Page/多啦美.md "wikilink")）。
+    大雄的玄孫，2114年生。回到20世紀首次見到大雄時，稱他為「爺爺的爺爺（台灣大然版）/高祖父(台灣青文版)」，之後略稱「爺爺(祖父)」（台版動畫有時也出現過「曾祖父」的稱呼）。大雄也稱他為孫子。在野比家族里他是唯一一个名字裡不带「伸（）」的。根据记载，2125年他11歲，但没有可确定的资料可说明他出生于2114年（另有記載稱他生於2115年）（比[多啦A夢年幼](https://zh.wikipedia.org/wiki/哆啦A梦_\(角色\) "wikilink")2年，與[多啦美同年](https://zh.wikipedia.org/wiki/多啦美 "wikilink")）。
 
 <!-- end list -->
 
@@ -481,24 +482,24 @@
 <!-- end list -->
 
   -
-    根据漫画中的描绘，其性格较溫柔文雅，個性也較大雄為成熟穩重。在哆啦A夢中篇故事《哆啦A夢的重生之日》中，顯得比[大雄更怕事](../Page/野比大雄.md "wikilink")。世修经常称呼大雄為「爺爺」，但大雄非常讨厌这么叫他。首次見到[靜香時更稱呼她為](../Page/靜香.md "wikilink")「奶奶」（台版有時也出現過「曾祖母」的稱呼），靜香因為對未來成為大雄的妻子还不知情，而覺得他沒禮貌。根據現在的正式設定《[2112年哆啦A梦的誕生](../Page/2112年哆啦A梦的誕生.md "wikilink")》，世修与哆啦A梦在很小的时候就认识了，長相與早期設定不同。在机器人选拔大会上，因为嬰兒時期的世修误按OK按扭，哆啦A梦才得以成为野比家的机器人。而哆啦A梦到大雄那邊之後，世修大部分时间都与[哆啦美在一起並由她負責照顧](../Page/哆啦美.md "wikilink")。
+    根据漫画中的描绘，其性格较溫柔文雅，個性也較大雄為成熟穩重。在哆啦A夢中篇故事《哆啦A夢的重生之日》中，顯得比[大雄更怕事](../Page/野比大雄.md "wikilink")。世修经常称呼大雄為「爺爺」，但大雄非常讨厌这么叫他。首次見到[靜香時更稱呼她為](https://zh.wikipedia.org/wiki/靜香 "wikilink")「奶奶」（台版有時也出現過「曾祖母」的稱呼），靜香因為對未來成為大雄的妻子还不知情，而覺得他沒禮貌。根據現在的正式設定《[2112年哆啦A梦的誕生](https://zh.wikipedia.org/wiki/2112年哆啦A梦的誕生 "wikilink")》，世修与哆啦A梦在很小的时候就认识了，長相與早期設定不同。在机器人选拔大会上，因为嬰兒時期的世修误按OK按扭，哆啦A梦才得以成为野比家的机器人。而哆啦A梦到大雄那邊之後，世修大部分时间都与[哆啦美在一起並由她負責照顧](../Page/哆啦美.md "wikilink")。
 
 <!-- end list -->
 
   -
-    根據第一卷《[從未來之國而來](../Page/從未來之國而來.md "wikilink")》，由于大雄欠了一屁股债，一百年也沒還清，以至于世修每年压岁钱才50日圓（台灣大然版譯為10元）。为了改变悲惨的命运，世修将哆啦A梦送到大雄所生活的年代，也开始了哆啦A梦这部漫画故事。
+    根據第一卷《[從未來之國而來](https://zh.wikipedia.org/wiki/從未來之國而來 "wikilink")》，由于大雄欠了一屁股债，一百年也沒還清，以至于世修每年压岁钱才50日圓（台灣大然版譯為10元）。为了改变悲惨的命运，世修将哆啦A梦送到大雄所生活的年代，也开始了哆啦A梦这部漫画故事。
 
 <!-- end list -->
 
-  - 大雄的祖父　[野比伸流](../Page/野比伸流.md "wikilink")（）
+  - 大雄的祖父　[野比伸流](https://zh.wikipedia.org/wiki/野比伸流 "wikilink")（）
 
 <!-- end list -->
 
   - 日本配音員：不明（1979. 10）→[龜井三郎](../Page/龜井三郎.md "wikilink")（1987.
-    11）→[川久保潔](../Page/川久保潔.md "wikilink")（1979.
+    11）→[川久保潔](https://zh.wikipedia.org/wiki/川久保潔 "wikilink")（1979.
     10）→[龜井三郎](../Page/龜井三郎.md "wikilink")（2002.
     10）→[菅原淳一](../Page/菅原淳一.md "wikilink")（2006.
-    6）→[加藤精三](../Page/加藤精三.md "wikilink")（2010）
+    6）→[加藤精三](https://zh.wikipedia.org/wiki/加藤精三 "wikilink")（2010）
   - 香港配音員：[源家祥](../Page/源家祥.md "wikilink")→[盧國權](../Page/盧國權.md "wikilink")
 
 <!-- end list -->
@@ -512,10 +513,11 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973. 6）→[峰あつ子](../Page/峰あつ子.md "wikilink")（1979.
+  - 日本配音員：不明（1973.
+    6）→[峰あつ子](https://zh.wikipedia.org/wiki/峰あつ子 "wikilink")（1979.
     7）→[高村章子](../Page/高村章子.md "wikilink")（1986. 1—2005.
-    3）→[まるたまり](../Page/まるたまり.md "wikilink")（2006. 6.
-    16）→[羽鳥靖子](../Page/羽鳥靖子.md "wikilink")（2006. 6. 30）
+    3）→[まるたまり](https://zh.wikipedia.org/wiki/まるたまり "wikilink")（2006.
+    6. 16）→[羽鳥靖子](../Page/羽鳥靖子.md "wikilink")（2006. 6. 30）
   - 台灣配音員（哆啦A夢版本）：[陳美貞](../Page/陳美貞.md "wikilink")（1979年版）
   - 香港配音員：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
   - 中國大陸版配音員：
@@ -531,7 +533,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[村松康雄](../Page/村松康雄.md "wikilink")（—2005年3月）→[橋本晃一](../Page/橋本晃一.md "wikilink")（2006年11月）
+  - 日本配音員：[村松康雄](../Page/村松康雄.md "wikilink")（—2005年3月）→[橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（2006年11月）
   - 香港配音員：[劉昭文](../Page/劉昭文.md "wikilink")
 
 <!-- end list -->
@@ -541,11 +543,11 @@
 
 <!-- end list -->
 
-  - [片岡玉夫](../Page/片岡玉夫.md "wikilink")（）
+  - [片岡玉夫](https://zh.wikipedia.org/wiki/片岡玉夫 "wikilink")（）
 
 <!-- end list -->
 
-  - 日本配音員：不明（1979年8月）→不明（1983年6月）→[桜井敏治](../Page/桜井敏治.md "wikilink")（2005年11月）
+  - 日本配音員：不明（1979年8月）→不明（1983年6月）→[桜井敏治](https://zh.wikipedia.org/wiki/桜井敏治 "wikilink")（2005年11月）
   - 香港配音員：[陳永信](../Page/陳永信.md "wikilink")
 
 <!-- end list -->
@@ -561,10 +563,10 @@
 
 <!-- end list -->
 
-  - 日本配音員：[よこざわけい子](../Page/橫澤啟子.md "wikilink")（1979年4月—1981年8月）→[松原雅子](../Page/松原雅子.md "wikilink")（1981年8月—2005年3月）→[折笠愛](../Page/折笠愛.md "wikilink")（2005年4月—）
+  - 日本配音員：[よこざわけい子](../Page/橫澤啟子.md "wikilink")（1979年4月—1981年8月）→[松原雅子](https://zh.wikipedia.org/wiki/松原雅子 "wikilink")（1981年8月—2005年3月）→[折笠愛](../Page/折笠愛.md "wikilink")（2005年4月—）
   - 香港配音員：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：陳美貞（1979年版）→姚敏敏（2005年版前52集）→連思宇（2005年版第182集起）
-  - [中国大陆版配音員](../Page/中国.md "wikilink")：
+  - [中国大陆版配音員](https://zh.wikipedia.org/wiki/中国 "wikilink")：
 
 <!-- end list -->
 
@@ -579,16 +581,16 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1979年5月）→[加藤正之](../Page/加藤正之.md "wikilink")（1979年11月—1980年3月）→[池田勝](../Page/池田勝.md "wikilink")（1981年10月）→[久米明](../Page/久米明.md "wikilink")（1999年3月）→（2005年7月—）
-  - 香港配音員：[蕭徽勇](../Page/蕭徽勇.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（童年）（2005年版）/[陳旭恆](../Page/陳旭恆.md "wikilink")、[李忠強](../Page/李忠強.md "wikilink")（STAND
+  - 日本配音員：不明（1979年5月）→[加藤正之](https://zh.wikipedia.org/wiki/加藤正之 "wikilink")（1979年11月—1980年3月）→[池田勝](https://zh.wikipedia.org/wiki/池田勝 "wikilink")（1981年10月）→[久米明](https://zh.wikipedia.org/wiki/久米明 "wikilink")（1999年3月）→（2005年7月—）
+  - 香港配音員：[蕭徽勇](../Page/蕭徽勇.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（童年）（2005年版）/[陳旭恆](../Page/陳旭恆.md "wikilink")、[李忠強](https://zh.wikipedia.org/wiki/李忠強 "wikilink")（STAND
     BY ME）
   - 中國大陸配音員：
-  - 真人版演員：[三浦友和](../Page/三浦友和.md "wikilink")（豐田汽車廣告）\[16\]
+  - 真人版演員：[三浦友和](https://zh.wikipedia.org/wiki/三浦友和 "wikilink")（豐田汽車廣告）\[16\]
 
 <!-- end list -->
 
   -
-    靜香的父親，上班族。是胖虎、小夫和靜香的父母中，唯一一個可確定姓名的，但登場不算太多。在漫畫/動畫版中不同時期的造型不太統一，有時會被畫成像大雄老師的造型\[17\]\[18\]，在《[大雄的結婚前夕](../Page/大雄的結婚前夕.md "wikilink")》有最多著墨。
+    靜香的父親，上班族。是胖虎、小夫和靜香的父母中，唯一一個可確定姓名的，但登場不算太多。在漫畫/動畫版中不同時期的造型不太統一，有時會被畫成像大雄老師的造型\[17\]\[18\]，在《[大雄的結婚前夕](https://zh.wikipedia.org/wiki/大雄的結婚前夕 "wikilink")》有最多著墨。
 
 <!-- end list -->
 
@@ -601,7 +603,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[高橋和枝](../Page/高橋和枝.md "wikilink")（1973年）→[鳳芳野](../Page/鳳芳野.md "wikilink")（1979年4月—1991年3月）→[横尾麻里](../Page/横尾麻里.md "wikilink")（1991年4月—2005年3月）→[高山南](../Page/高山南.md "wikilink")（2005年4月—）
+  - 日本配音員：[高橋和枝](https://zh.wikipedia.org/wiki/高橋和枝 "wikilink")（1973年）→[鳳芳野](https://zh.wikipedia.org/wiki/鳳芳野 "wikilink")（1979年4月—1991年3月）→[横尾麻里](https://zh.wikipedia.org/wiki/横尾麻里 "wikilink")（1991年4月—2005年3月）→[高山南](../Page/高山南.md "wikilink")（2005年4月—）
   - 香港配音員：[雷碧娜](../Page/雷碧娜.md "wikilink")、[黃玉娟](../Page/黃玉娟.md "wikilink")（代配）
   - 台灣配音員（哆啦A夢版本）：[陳美貞](../Page/陳美貞.md "wikilink")（1979年版及2005年版）
   - 中国大陆版配音員：
@@ -618,7 +620,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973年）→[加藤治](../Page/加藤治.md "wikilink")（1979年4月—2005年3月）→[肝付兼太一時期代役](../Page/肝付兼太.md "wikilink")（1989年5月—1990年1月）→[田中秀幸](../Page/田中秀幸.md "wikilink")（2005年6月—）
+  - 日本配音員：不明（1973年）→[加藤治](https://zh.wikipedia.org/wiki/加藤治 "wikilink")（1979年4月—2005年3月）→[肝付兼太一時期代役](https://zh.wikipedia.org/wiki/肝付兼太 "wikilink")（1989年5月—1990年1月）→[田中秀幸](../Page/田中秀幸.md "wikilink")（2005年6月—）
   - 香港配音員：[源家祥](../Page/源家祥.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：于正昇＆于正昌（1979年版）
   - [中国大陆配音員](../Page/中国大陆.md "wikilink")：
@@ -626,7 +628,7 @@
 <!-- end list -->
 
   -
-    公司的[社長](../Page/社長.md "wikilink")。人脈很廣，與許多公司的社長為友，甚至在各地也有別墅。在劇中登場不多。
+    公司的[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")。人脈很廣，與許多公司的社長為友，甚至在各地也有別墅。在劇中登場不多。
 
 <!-- end list -->
 
@@ -663,7 +665,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[堀絢子](../Page/堀絢子.md "wikilink")（1997）→[真山亞子](../Page/真山亞子.md "wikilink")（2012）
+  - 日本配音員：[堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")（1997）→[真山亞子](../Page/真山亞子.md "wikilink")（2012）
   - 香港配音員：[袁淑珍](../Page/袁淑珍.md "wikilink")
 
 <!-- end list -->
@@ -678,7 +680,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973年5月）→[太田淑子](../Page/太田淑子.md "wikilink")（1979年4月）→[青木和代](../Page/青木和代.md "wikilink")（1980年1月—2005年3月）→[山崎バニラ](../Page/山崎バニラ.md "wikilink")（2005年6月—）→[山田ふしぎ](../Page/山田ふしぎ.md "wikilink")（2012年2月—）
+  - 日本配音員：不明（1973年5月）→[太田淑子](https://zh.wikipedia.org/wiki/太田淑子 "wikilink")（1979年4月）→[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")（1980年1月—2005年3月）→[山崎バニラ](https://zh.wikipedia.org/wiki/山崎バニラ "wikilink")（2005年6月—）→[山田ふしぎ](https://zh.wikipedia.org/wiki/山田ふしぎ "wikilink")（2012年2月—）
   - 香港配音員：[雷碧娜](../Page/雷碧娜.md "wikilink")/[賴芸芬](../Page/賴芸芬.md "wikilink")（STAND
     BY ME）
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版）、錢欣郁（1979年版代理）→林美秀（2005年版）
@@ -701,8 +703,8 @@
 
 <!-- end list -->
 
-  - 日本配音員：[青木和代](../Page/青木和代.md "wikilink")（1979年4月—2005年3月）→[竹內都子](../Page/竹內都子.md "wikilink")（[ピンクの電話](../Page/ピンクの電話.md "wikilink")・2005年4月—）
-  - 香港配音員：[姚天麗](../Page/姚天麗.md "wikilink")→[沈小蘭](../Page/沈小蘭.md "wikilink")，[劉惠雲](../Page/劉惠雲.md "wikilink")（新大雄的宇宙開拓史）/[葉嘉敏](../Page/葉嘉敏.md "wikilink")（STAND
+  - 日本配音員：[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")（1979年4月—2005年3月）→[竹內都子](https://zh.wikipedia.org/wiki/竹內都子 "wikilink")（[ピンクの電話](https://zh.wikipedia.org/wiki/ピンクの電話 "wikilink")・2005年4月—）
+  - 香港配音員：[姚天麗](../Page/姚天麗.md "wikilink")→[沈小蘭](../Page/沈小蘭.md "wikilink")，[劉惠雲](../Page/劉惠雲.md "wikilink")（新大雄的宇宙開拓史）/[葉嘉敏](https://zh.wikipedia.org/wiki/葉嘉敏 "wikilink")（STAND
     BY ME）
   - 台灣配音員（哆啦A夢版本）：楊凱凱（1979年版）、姚敏敏（1979年版代理）→劉如蘋（2005年版前52集）→劉凱寧（2005年版第53集起）→林筱玲（2005年版第209集起）
   - 中国大陆配音員：
@@ -720,7 +722,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1973月）→[加藤正之](../Page/加藤正之.md "wikilink")（1979年4月—1980年7月）→[島香裕](../Page/島香裕.md "wikilink")（1987年3月）→[郷里大輔](../Page/郷里大輔.md "wikilink")（1987年11月）→島香裕（1993年4月）
+  - 日本配音員：不明（1973月）→[加藤正之](https://zh.wikipedia.org/wiki/加藤正之 "wikilink")（1979年4月—1980年7月）→[島香裕](https://zh.wikipedia.org/wiki/島香裕 "wikilink")（1987年3月）→[郷里大輔](https://zh.wikipedia.org/wiki/郷里大輔 "wikilink")（1987年11月）→島香裕（1993年4月）
   - 香港配音員：[林國雄](../Page/林國雄.md "wikilink")
   - 美國配音員：Kirk Thornton
 
@@ -736,13 +738,14 @@
 <!-- end list -->
 
   - 日本配音員：[玄田哲章](../Page/玄田哲章.md "wikilink")（1981.
-    12）→[青木和代](../Page/青木和代.md "wikilink")→（—2005. 3）
+    12）→[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")→（—2005.
+    3）
   - 香港配音員：[梁偉德](../Page/梁偉德.md "wikilink")
 
 <!-- end list -->
 
   -
-    胖虎的家犬，[雜種狗](../Page/雜種狗.md "wikilink")，台灣電視播出又稱「酷哥」，是胖虎從橋下撿來的，從此成為剛田家的一員。性格猙獰。常追趕[大雄或對大雄亂叫](../Page/野比大雄.md "wikilink")，而且還會撿垃圾、偷東西、隨地小便。性格與主人胖虎差不多，但也有膽怯的時候，會被[小夫的](../Page/小夫.md "wikilink")[暹羅貓嚇跑](../Page/暹羅貓.md "wikilink")。
+    胖虎的家犬，[雜種狗](https://zh.wikipedia.org/wiki/雜種狗 "wikilink")，台灣電視播出又稱「酷哥」，是胖虎從橋下撿來的，從此成為剛田家的一員。性格猙獰。常追趕[大雄或對大雄亂叫](../Page/野比大雄.md "wikilink")，而且還會撿垃圾、偷東西、隨地小便。性格與主人胖虎差不多，但也有膽怯的時候，會被[小夫的](https://zh.wikipedia.org/wiki/小夫 "wikilink")[暹羅貓嚇跑](https://zh.wikipedia.org/wiki/暹羅貓 "wikilink")。
     有時候在胖虎的逼迫下，被迫用兩只腳走路，甚至是做[相撲](../Page/相撲.md "wikilink")，大多數由胖妹帶牠散步，平時胖虎很少帶牠散步。
 
 <!-- end list -->
@@ -785,7 +788,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[田中崇](../Page/銀河萬丈.md "wikilink")（1981年3月）→[兼本新吾](../Page/兼本新吾.md "wikilink")（1985年2月—1990年9月）→[渡部猛](../Page/渡部猛.md "wikilink")（1991年3月—2005年3月）→[宝龜克寿](../Page/宝龜克寿.md "wikilink")（2005年7月—）
+  - 日本配音員：[田中崇](../Page/銀河萬丈.md "wikilink")（1981年3月）→[兼本新吾](https://zh.wikipedia.org/wiki/兼本新吾 "wikilink")（1985年2月—1990年9月）→[渡部猛](https://zh.wikipedia.org/wiki/渡部猛 "wikilink")（1991年3月—2005年3月）→[宝龜克寿](https://zh.wikipedia.org/wiki/宝龜克寿 "wikilink")（2005年7月—）
   - 香港配音員：[源家祥](../Page/源家祥.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
   - 台灣配音員（哆啦A夢版本）：于正昇＆于正昌（1979年版）→李世揚（2005年版）、陳幼文（電影版，2014年）
   - 中国大陆配音員：
@@ -793,7 +796,7 @@
 <!-- end list -->
 
   -
-    大雄他們常打棒球空地附近住的老人，興趣是種植盆栽愛好植物，大雄等人常因棒球、足球、石頭或其他物品而破壞他家的玻璃或盆栽而被他罵，因為而被小朋友們稱作**雷公**（）。但是他卻從來沒把自己的盆栽加裝保護設施，也沒安裝強化玻璃。他有一個親戚的女孩瑞繪長得很可愛（38卷『朋友圈（朋友之輪）』）。神成最初是[藤子不二雄作品](../Page/藤子不二雄.md "wikilink")[怪物Q太郎中的人物](../Page/怪物Q太郎.md "wikilink")，是主角大原家的鄰居。在大長篇中曾經出場兩次，都是扮演將哆啦A夢的道具毀壞的角色（[大雄的大魔境](../Page/大雄的大魔境.md "wikilink")、[大雄與龍之騎士](../Page/大雄與龍之騎士.md "wikilink")）。
+    大雄他們常打棒球空地附近住的老人，興趣是種植盆栽愛好植物，大雄等人常因棒球、足球、石頭或其他物品而破壞他家的玻璃或盆栽而被他罵，因為而被小朋友們稱作**雷公**（）。但是他卻從來沒把自己的盆栽加裝保護設施，也沒安裝強化玻璃。他有一個親戚的女孩瑞繪長得很可愛（38卷『朋友圈（朋友之輪）』）。神成最初是[藤子不二雄作品](../Page/藤子不二雄.md "wikilink")[怪物Q太郎中的人物](https://zh.wikipedia.org/wiki/怪物Q太郎 "wikilink")，是主角大原家的鄰居。在大長篇中曾經出場兩次，都是扮演將哆啦A夢的道具毀壞的角色（[大雄的大魔境](../Page/大雄的大魔境.md "wikilink")、[大雄與龍之騎士](../Page/大雄與龍之騎士.md "wikilink")）。
 
 <!-- end list -->
 
@@ -801,7 +804,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：不明（1987年5月）→不明（1991年9月）→不明（1992年8月）→[真柴摩利](../Page/真柴摩利.md "wikilink")（1993年2月）→[麻見順子](../Page/麻見順子.md "wikilink")（1993年4月）→[渡邊久美子](../Page/渡邊久美子.md "wikilink")（1994年5月—1995年8月）→[中澤綠](../Page/中澤綠.md "wikilink")（1995年11月—1996年10月）→[熊井統子](../Page/熊井統子.md "wikilink")（1997年12月）→[瀧本富士子](../Page/瀧本富士子.md "wikilink")（1998年3月、12月）→[松本幸](../Page/松本幸.md "wikilink")（1998年5月、1999年6月—2004年9月、2005年3月）
+  - 日本配音員：不明（1987年5月）→不明（1991年9月）→不明（1992年8月）→[真柴摩利](../Page/真柴摩利.md "wikilink")（1993年2月）→[麻見順子](https://zh.wikipedia.org/wiki/麻見順子 "wikilink")（1993年4月）→[渡邊久美子](../Page/渡邊久美子.md "wikilink")（1994年5月—1995年8月）→[中澤綠](../Page/中澤綠.md "wikilink")（1995年11月—1996年10月）→[熊井統子](../Page/熊井統子.md "wikilink")（1997年12月）→[瀧本富士子](../Page/瀧本富士子.md "wikilink")（1998年3月、12月）→[松本幸](../Page/松本幸.md "wikilink")（1998年5月、1999年6月—2004年9月、2005年3月）
 
 <!-- end list -->
 
@@ -814,7 +817,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[白川澄子](../Page/白川澄子.md "wikilink")→[真柴摩利](../Page/真柴摩利.md "wikilink")→[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")（—2005年3月）→[丸田麻里](../Page/丸田麻里.md "wikilink")
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")→[真柴摩利](../Page/真柴摩利.md "wikilink")→[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")（—2005年3月）→[丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")
   - 台灣配音員（哆啦A夢版本）：許淑嬪（1979年版）
   - 香港配音員：[許盈](../Page/許盈.md "wikilink")（2005年版）
   - 中國大陸版配音員：
@@ -830,8 +833,8 @@
 
 <!-- end list -->
 
-  - 日本配音員：[青木和代](../Page/青木和代.md "wikilink")、[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[丸田麻里](../Page/丸田麻里.md "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")（—2005年3月）→[山下亚矢香](../Page/山下亚矢香.md "wikilink")
-  - 香港配音員：[林丹鳳](../Page/林丹鳳.md "wikilink")→[黃淑芬](../Page/黃淑芬.md "wikilink")→[吳羨婷](../Page/吳羨婷.md "wikilink")、[魏惠娥](../Page/魏惠娥.md "wikilink")（代配）
+  - 日本配音員：[青木和代](https://zh.wikipedia.org/wiki/青木和代 "wikilink")、[佐藤智惠](../Page/佐藤智惠.md "wikilink")、[丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")、[佐藤佑子](../Page/佐藤佑子.md "wikilink")、[松本幸](../Page/松本幸.md "wikilink")（—2005年3月）→[山下亚矢香](https://zh.wikipedia.org/wiki/山下亚矢香 "wikilink")
+  - 香港配音員：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")→[黃淑芬](../Page/黃淑芬.md "wikilink")→[吳羨婷](../Page/吳羨婷.md "wikilink")、[魏惠娥](../Page/魏惠娥.md "wikilink")（代配）
   - 台灣配音員（哆啦A夢版本）：劉傑、陳美貞（1979年版）
   - 中國大陸配音員：
 
@@ -839,7 +842,7 @@
 
   -
     大雄的同學。比較胖。害怕的東西是蜘蛛。飯量是相當的大。
-    興趣是[抽獎投和棒球](../Page/抽獎.md "wikilink")。曾經把摳出的[鼻屎團成一個球](../Page/鼻屎.md "wikilink")（15卷『偷拍照相機』）。名字出現在17卷『銅鑼燒·電影版·已經預約』。在動畫版裡沒有名字，被稱呼為「少年B」。有時會附和胖虎和小夫去作弄大雄。從繞城一圈馬拉松的結果看，體力不如安雄，但強過小夫。
+    興趣是[抽獎投和棒球](https://zh.wikipedia.org/wiki/抽獎 "wikilink")。曾經把摳出的[鼻屎團成一個球](https://zh.wikipedia.org/wiki/鼻屎 "wikilink")（15卷『偷拍照相機』）。名字出現在17卷『銅鑼燒·電影版·已經預約』。在動畫版裡沒有名字，被稱呼為「少年B」。有時會附和胖虎和小夫去作弄大雄。從繞城一圈馬拉松的結果看，體力不如安雄，但強過小夫。
 
 ## 其他角色
 
@@ -857,7 +860,7 @@
 <!-- end list -->
 
   -
-    居住在大雄所在城市的野貓，經常偷東西，吃過大雄的[金魚](../Page/金魚.md "wikilink")、靜香的[金絲雀和哆啦A夢的銅鑼燒](../Page/金絲雀.md "wikilink")。很貪婪，曾經被大雄用秘密道具『運動神經控制器』變成機器人，代價是十條小魚干。服用過動物變身報恩藥水后，顯示其為女孩。（但該道具的特色是會變為女孩，所以不能就此確定牠原本的性別）另外有將偷來的東西藏在空地水泥管后的癖性。
+    居住在大雄所在城市的野貓，經常偷東西，吃過大雄的[金魚](https://zh.wikipedia.org/wiki/金魚 "wikilink")、靜香的[金絲雀和哆啦A夢的銅鑼燒](https://zh.wikipedia.org/wiki/金絲雀 "wikilink")。很貪婪，曾經被大雄用秘密道具『運動神經控制器』變成機器人，代價是十條小魚干。服用過動物變身報恩藥水后，顯示其為女孩。（但該道具的特色是會變為女孩，所以不能就此確定牠原本的性別）另外有將偷來的東西藏在空地水泥管后的癖性。
 
 <!-- end list -->
 
@@ -878,13 +881,14 @@
 
 <!-- end list -->
 
-  - 日本配音員：[山崎たくみ](../Page/山崎たくみ.md "wikilink")→[二又一成](../Page/二又一成.md "wikilink")（1996.
-    12）→[拡森信吾](../Page/拡森信吾.md "wikilink")（2001. 5—2004）
+  - 日本配音員：[山崎たくみ](https://zh.wikipedia.org/wiki/山崎たくみ "wikilink")→[二又一成](../Page/二又一成.md "wikilink")（1996.
+    12）→[拡森信吾](https://zh.wikipedia.org/wiki/拡森信吾 "wikilink")（2001.
+    5—2004）
 
 <!-- end list -->
 
   -
-    總是在吃[拉麵的角色](../Page/拉麵.md "wikilink")，其外貌以另一漫畫家[鈴木伸一為藍本](../Page/鈴木伸一.md "wikilink")。有太太和兒子，長得幾乎一模一樣（1卷『哆啦A夢的大預言』），有一頭[鬈髮](../Page/鬈髮.md "wikilink")。通稱為「[小池](../Page/小池さん.md "wikilink")」（4卷『スケスケ望遠鏡』）。原本是作者作品《[怪物Q太郎](../Page/怪物Q太郎.md "wikilink")》中的人物。
+    總是在吃[拉麵的角色](https://zh.wikipedia.org/wiki/拉麵 "wikilink")，其外貌以另一漫畫家[鈴木伸一為藍本](https://zh.wikipedia.org/wiki/鈴木伸一 "wikilink")。有太太和兒子，長得幾乎一模一樣（1卷『哆啦A夢的大預言』），有一頭[鬈髮](https://zh.wikipedia.org/wiki/鬈髮 "wikilink")。通稱為「[小池](https://zh.wikipedia.org/wiki/小池さん "wikilink")」（4卷『スケスケ望遠鏡』）。原本是作者作品《[怪物Q太郎](https://zh.wikipedia.org/wiki/怪物Q太郎 "wikilink")》中的人物。
 
 <!-- end list -->
 
@@ -892,16 +896,16 @@
 
 <!-- end list -->
 
-  - 日本配音員：[加藤正之](../Page/加藤正之.md "wikilink")（1980.
-    4，5）→[肝壁和也](../Page/肝壁和也.md "wikilink")（1981.
-    4）→[田中崇](../Page/田中崇.md "wikilink")（1981. 6）→加藤正之（1986.
-    5）→不明（2002. 2）→不明（2006. 12）
+  - 日本配音員：[加藤正之](https://zh.wikipedia.org/wiki/加藤正之 "wikilink")（1980.
+    4，5）→[肝壁和也](https://zh.wikipedia.org/wiki/肝壁和也 "wikilink")（1981.
+    4）→[田中崇](https://zh.wikipedia.org/wiki/田中崇 "wikilink")（1981.
+    6）→加藤正之（1986. 5）→不明（2002. 2）→不明（2006. 12）
   - 香港配音員：[林國雄](../Page/林國雄.md "wikilink")
 
 <!-- end list -->
 
   -
-    大雄經常在他的[書店裏](../Page/書店.md "wikilink")[白看漫畫](../Page/打書釘.md "wikilink")。書店的名字不明。在13卷『悪魔護照』、22卷『税金鳥』、23卷『』、35卷『』登場。戴眼鏡，經常用[雞毛撣子驅趕白看的人](../Page/雞毛撣子.md "wikilink")。
+    大雄經常在他的[書店裏](../Page/書店.md "wikilink")[白看漫畫](https://zh.wikipedia.org/wiki/打書釘 "wikilink")。書店的名字不明。在13卷『悪魔護照』、22卷『税金鳥』、23卷『』、35卷『』登場。戴眼鏡，經常用[雞毛撣子驅趕白看的人](https://zh.wikipedia.org/wiki/雞毛撣子 "wikilink")。
     有人买书的话眼神就会变得很和善。除了他以外幾個人書店的叔叔也登場了，登場回數 原作·動畫片比他多1號。
     他的店與大書店不同，是私人經營，由于預算窘迫，書都沒有用[乙烯樹脂包裝](../Page/聚乙烯.md "wikilink")。
     因而，每次遭受灾祸（被書店老闆打）的都是大雄，很多孩子站著阅读，而不买书。从经营者方面，这些成为经营不振的元凶，都被他用拖把赶了出去，经常有少年被他用拖把趕走。
@@ -918,7 +922,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[矢田稔](../Page/矢田稔.md "wikilink")（?）→[田中康郎](../Page/田中康郎.md "wikilink")（1990.
+  - 日本配音員：[矢田稔](../Page/矢田稔.md "wikilink")（?）→[田中康郎](https://zh.wikipedia.org/wiki/田中康郎 "wikilink")（1990.
     2）→不明（1995. 8）→不明（2002. 2）→[緒方賢一](../Page/緒方賢一.md "wikilink")（2005.
     10）
 
@@ -931,7 +935,7 @@
 
   - 島山明（）
     以暢銷漫畫作品《機器娃娃》成名的漫畫家，大雄為了要看他畫的續集就想當助理不過未成。後來大雄與哆啦A夢商討之後就決定出手幫助，在海報工作室內以加快速度的情形下畫了許多份量的連載作品。
-    名字戲仿自當時正在創作《[怪博士與機器娃娃](../Page/怪博士與機器娃娃.md "wikilink")》漫畫作品的[鳥山明](../Page/鳥山明.md "wikilink")。
+    名字戲仿自當時正在創作《[怪博士與機器娃娃](https://zh.wikipedia.org/wiki/怪博士與機器娃娃 "wikilink")》漫畫作品的[鳥山明](../Page/鳥山明.md "wikilink")。
 
 <!-- end list -->
 
@@ -952,7 +956,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[田中崇](../Page/田中崇.md "wikilink")（1979.
+  - 日本配音員：[田中崇](https://zh.wikipedia.org/wiki/田中崇 "wikilink")（1979.
     12）→[佐藤正治](../Page/佐藤正治.md "wikilink")（2004. 5）
 
 <!-- end list -->
@@ -966,7 +970,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[荘真由美](../Page/荘真由美.md "wikilink")（1985.11—1986.8）→[深雪さなえ](../Page/深雪さなえ.md "wikilink")（1992.11）→[池澤春菜](../Page/池澤春菜.md "wikilink")（2003.3）→[倉田雅世](../Page/倉田雅世.md "wikilink")（2006.5）
+  - 日本配音員：[荘真由美](https://zh.wikipedia.org/wiki/荘真由美 "wikilink")（1985.11—1986.8）→[深雪さなえ](https://zh.wikipedia.org/wiki/深雪さなえ "wikilink")（1992.11）→[池澤春菜](../Page/池澤春菜.md "wikilink")（2003.3）→[倉田雅世](../Page/倉田雅世.md "wikilink")（2006.5）
   - 香港配音員：[張頌欣](../Page/張頌欣.md "wikilink")（2005年版）
 
 <!-- end list -->
@@ -993,7 +997,7 @@
 
 <!-- end list -->
 
-  - 日本配音員：[堀絢子](../Page/堀絢子.md "wikilink")（1973）
+  - 日本配音員：[堀絢子](https://zh.wikipedia.org/wiki/堀絢子 "wikilink")（1973）
 
 <!-- end list -->
 
@@ -1006,17 +1010,17 @@
 
 <!-- end list -->
 
-  - 日本配音員：[山本圭子](../Page/山本圭子.md "wikilink")（1979）
-  - [台灣配音員](../Page/台灣.md "wikilink")（哆啦A夢版本）：[陳美貞](../Page/陳美貞.md "wikilink")
+  - 日本配音員：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（1979）
+  - [台灣配音員](https://zh.wikipedia.org/wiki/台灣 "wikilink")（哆啦A夢版本）：[陳美貞](../Page/陳美貞.md "wikilink")
 
 <!-- end list -->
 
   -
-    [新銳動画版放的原創人物](../Page/新銳動画.md "wikilink")，來自未來的反派角色。體色為老虎花紋。性格自大，非常喜歡惡作劇和賺錢。但后來消失了。
+    [新銳動画版放的原創人物](https://zh.wikipedia.org/wiki/新銳動画 "wikilink")，來自未來的反派角色。體色為老虎花紋。性格自大，非常喜歡惡作劇和賺錢。但后來消失了。
 
 <!-- end list -->
 
-  - [時光巡邏隊](../Page/時光巡邏隊.md "wikilink")（）
+  - [時光巡邏隊](https://zh.wikipedia.org/wiki/時光巡邏隊 "wikilink")（）
     又譯作時空警察、時間巡邏隊、時光特警或航時巡警（中譯），是漫畫[哆啦A夢的未來世界中](../Page/哆啦A夢.md "wikilink")，為了防範刻意回到過去或未來竄改時間歷史的罪犯，而成立的一組巡邏隊，被視為時間的管理者，總部在23世紀\[26\]。該組織依據航時法避免時光犯罪以及逮補時光犯罪者，只要有人刻意竄改了過去的歷史一經發現的話，時光巡邏隊會將之逮補。除了抓犯人之外，也有時會擔任到特定時代救援的工作。例如在〈石器時代的旅館〉中救了大雄一行人。
     最初出現於1971年3月號的〈哆啦A夢回到未來〉，也多次於大長篇/電影版結尾出場逮補犯人解救大雄一行人。
     在《[2112年哆啦A夢的誕生](../Page/2112年哆啦A夢的誕生.md "wikilink")》中，提到[哆啦小子因為槍法而被時光巡邏隊錄用](../Page/哆啦A夢七小子.md "wikilink")。
@@ -1041,21 +1045,21 @@
 
 ## 其他藤子漫畫出場的角色
 
-  - [梅星球殿下](../Page/梅星球殿下.md "wikilink")（32卷『萬能機場』）
+  - [梅星球殿下](https://zh.wikipedia.org/wiki/梅星球殿下 "wikilink")（32卷『萬能機場』）
   - [超能力魔美](../Page/超能力魔美.md "wikilink")（32卷『萬能機場』、大長篇『大雄的新魔界大冒險』）
-  - [小鬼Q太郎](../Page/小鬼Q太郎.md "wikilink")（6卷『實物圖鑑』、32卷『萬能機場』、『倒霉是大雄的盟友?』）
-  - [神奇小子](../Page/飞人.md "wikilink")（成長後的[星野堇](../Page/星野堇.md "wikilink")、『哆啦A梦生日特别篇2014』）
+  - [小鬼Q太郎](https://zh.wikipedia.org/wiki/小鬼Q太郎 "wikilink")（6卷『實物圖鑑』、32卷『萬能機場』、『倒霉是大雄的盟友?』）
+  - [神奇小子](https://zh.wikipedia.org/wiki/飞人 "wikilink")（成長後的[星野堇](https://zh.wikipedia.org/wiki/星野堇 "wikilink")、『哆啦A梦生日特别篇2014』）
   - [21衛門](../Page/21衛門.md "wikilink")（32卷『改造破舊的旅館』、『[大雄與銀河超特急](../Page/大雄與銀河超特急.md "wikilink")』）
-  - [變身君](../Page/變身君.md "wikilink")（9卷『[我是桃太郎的什麼人？](../Page/我是桃太郎的什麼人？.md "wikilink")』）
+  - [變身君](https://zh.wikipedia.org/wiki/變身君 "wikilink")（9卷『[我是桃太郎的什麼人？](https://zh.wikipedia.org/wiki/我是桃太郎的什麼人？ "wikilink")』）
 
 ## 其他漫畫出場的角色
 
-  - [怪物小王子](../Page/怪物小王子.md "wikilink")（32卷『萬能機場』、「小学一年生」1982年2月号刊載『』）
+  - [怪物小王子](https://zh.wikipedia.org/wiki/怪物小王子 "wikilink")（32卷『萬能機場』、「小学一年生」1982年2月号刊載『』）
 
 <!-- end list -->
 
   -
-    [藤子不二雄A的作品](../Page/藤子不二雄A.md "wikilink")。
+    [藤子不二雄A的作品](https://zh.wikipedia.org/wiki/藤子不二雄A "wikilink")。
 
 <!-- end list -->
 
@@ -1064,11 +1068,11 @@
 <!-- end list -->
 
   -
-    在第2卷『百發百中手相圖』中登場的小寶寶，與大雄關係不明。與同時期[藤子不二雄A連載的作品](../Page/藤子不二雄A.md "wikilink")[魔太郎來！！中登場的](../Page/魔太郎來！！.md "wikilink")「阿部切人」相同）
+    在第2卷『百發百中手相圖』中登場的小寶寶，與大雄關係不明。與同時期[藤子不二雄A連載的作品](https://zh.wikipedia.org/wiki/藤子不二雄A "wikilink")[魔太郎來！！中登場的](https://zh.wikipedia.org/wiki/魔太郎來！！ "wikilink")「阿部切人」相同）
 
 <!-- end list -->
 
-  - [鐵臂阿童木](../Page/鐵臂阿童木.md "wikilink")/[原子小金剛](../Page/原子小金剛.md "wikilink")（17卷『大雄周刊』）
+  - [鐵臂阿童木](https://zh.wikipedia.org/wiki/鐵臂阿童木 "wikilink")/[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")（17卷『大雄周刊』）
 
 <!-- end list -->
 

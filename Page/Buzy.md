@@ -7,28 +7,28 @@ Records。2006年6月解散。
 
 **宮里真央**（*Mao Miyazato*，みやざと まお）
 
-  - 出生日期：1983年4月19日，[大阪府人](../Page/大阪府.md "wikilink")
+  - 出生日期：1983年4月19日，[大阪府人](https://zh.wikipedia.org/wiki/大阪府 "wikilink")
   - 血型：O型，身高：159.5cm
 
 **當山奈央**（*Nao Toyama*，とうやま なお）：主唱
 
-  - 出生日期：1984年2月22日，[大阪府人](../Page/大阪府.md "wikilink")
+  - 出生日期：1984年2月22日，[大阪府人](https://zh.wikipedia.org/wiki/大阪府 "wikilink")
   - 血型：A型，身高：168cm
 
 **朝間由利沙**（[日语](../Page/日语.md "wikilink")**朝間ユリサ**，*Yurisa Asama*，あさま
 ゆりさ）
 
-  - 出生日期：1984年7月27日，[京都府人](../Page/京都府.md "wikilink")
+  - 出生日期：1984年7月27日，[京都府人](https://zh.wikipedia.org/wiki/京都府 "wikilink")
   - 血型：O型，身高：165.8cm
 
 **丹羽麻由美**（*Mayumi Niwa*，にわ まゆみ）：演唱团的队长
 
-  - 出生日期：1984年9月12日，[大阪府人](../Page/大阪府.md "wikilink")
+  - 出生日期：1984年9月12日，[大阪府人](https://zh.wikipedia.org/wiki/大阪府 "wikilink")
   - 血型：O型，身高：168cm
 
 **岩永幸子**（*Sachiko Iwanaga*，いわなが さちこ）
 
-  - 出生日期：1986年5月19日，[大阪府人](../Page/大阪府.md "wikilink")
+  - 出生日期：1986年5月19日，[大阪府人](https://zh.wikipedia.org/wiki/大阪府 "wikilink")
   - 血型：A型，身高：162cm
 
 **竹田侑美**（*Yumi Takeda*，たけだ ゆみ）

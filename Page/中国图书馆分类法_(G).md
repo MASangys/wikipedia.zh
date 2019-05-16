@@ -1,6 +1,6 @@
 ## 文化、科学、教育、体育
 
-  - G0　[文化理论](../Page/文化理论.md "wikilink")
+  - G0　[文化理论](https://zh.wikipedia.org/wiki/文化理论 "wikilink")
 
 :\*G02 文化哲学
 
@@ -23,7 +23,7 @@
 ::\*G113 国际文化事业组织与活动
 
 ::\*G114
-[文化产业](../Page/文化产业.md "wikilink")、[文化市场](../Page/文化市场.md "wikilink")
+[文化产业](../Page/文化产业.md "wikilink")、[文化市场](https://zh.wikipedia.org/wiki/文化市场 "wikilink")
 
 ::\*G115 互助合作与文化交流
 
@@ -33,7 +33,7 @@
 
 ::\*G119 文化事业史
 
-:\*G12 [中国](../Page/中国.md "wikilink")
+:\*G12 [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")
 
 ::\*G120 方针政策及其阐述
 
@@ -51,9 +51,11 @@
 
 :\*G13/17 各国
 
-  - G2 [信息与](../Page/信息.md "wikilink")[知识传播](../Page/知识传播.md "wikilink")
+  - G2
+    [信息与](../Page/信息.md "wikilink")[知识传播](https://zh.wikipedia.org/wiki/知识传播 "wikilink")
 
-:\*G20 [信息与](../Page/信息.md "wikilink")[传播理论](../Page/传播理论.md "wikilink")
+:\*G20
+[信息与](../Page/信息.md "wikilink")[传播理论](https://zh.wikipedia.org/wiki/传播理论 "wikilink")
 
 ::\*G201 信息理论
 
@@ -68,7 +70,7 @@
 :::\*G206.3 大众传播
 
 :\*G21
-[新闻学](../Page/新闻学.md "wikilink")、[新闻事业](../Page/新闻事业.md "wikilink")
+[新闻学](../Page/新闻学.md "wikilink")、[新闻事业](https://zh.wikipedia.org/wiki/新闻事业 "wikilink")
 
 ::\*G210 新闻学
 
@@ -144,7 +146,8 @@
 
 :::\*G219.3/.7 各国
 
-:\*G22 [广播](../Page/广播.md "wikilink")、[电视事业](../Page/电视.md "wikilink")
+:\*G22
+[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")、[电视事业](../Page/电视.md "wikilink")
 
 ::\*G220 广播、电视工作理论
 
@@ -194,7 +197,7 @@
 
 :::\*G229.3/.7 各国
 
-:\*G23 [出版事业](../Page/出版事业.md "wikilink")
+:\*G23 [出版事业](https://zh.wikipedia.org/wiki/出版事业 "wikilink")
 
 ::\*G230 出版工作理论
 
@@ -260,7 +263,7 @@
 
 :::\*G239.3/.7 各国
 
-:\*G24 [群众文化事业](../Page/群众文化事业.md "wikilink")
+:\*G24 [群众文化事业](https://zh.wikipedia.org/wiki/群众文化事业 "wikilink")
 
 ::\*G240 群众文化工作理论
 
@@ -307,7 +310,7 @@
 :::\*G249.3/.7 各国
 
 :\*G25
-[图书馆学](../Page/图书馆学.md "wikilink")、[图书馆事业](../Page/图书馆事业.md "wikilink")
+[图书馆学](../Page/图书馆学.md "wikilink")、[图书馆事业](https://zh.wikipedia.org/wiki/图书馆事业 "wikilink")
 
 ::\*G250 [图书馆学](../Page/图书馆学.md "wikilink")
 
@@ -325,7 +328,7 @@
 
 :::\*G250.9 图书馆学史
 
-::\*G251 [图书馆管理](../Page/图书馆管理.md "wikilink")
+::\*G251 [图书馆管理](https://zh.wikipedia.org/wiki/图书馆管理 "wikilink")
 
 :::\*G251.2 组织机构
 
@@ -337,7 +340,7 @@
 
 :::\*G251.6 图书馆工作者
 
-::\*G252 [读者工作](../Page/读者工作.md "wikilink")
+::\*G252 [读者工作](https://zh.wikipedia.org/wiki/读者工作 "wikilink")
 
 :::\*G252.1 图书宣传
 
@@ -355,7 +358,7 @@
 
 :::\*G252.4 馆际借书
 
-:::\*G252.5 流通站、流通[书车](../Page/书车.md "wikilink")
+:::\*G252.5 流通站、流通[书车](https://zh.wikipedia.org/wiki/书车 "wikilink")
 
 :::\*G252.6 参考咨询
 
@@ -370,7 +373,7 @@
 :::\*G252.7 文献检索
 
 ::\*G253
-[藏书建设和](../Page/藏书建设.md "wikilink")[藏书组织](../Page/藏书组织.md "wikilink")
+[藏书建设和](https://zh.wikipedia.org/wiki/藏书建设 "wikilink")[藏书组织](https://zh.wikipedia.org/wiki/藏书组织 "wikilink")
 
 :::\*G253.1 图书补充
 
@@ -383,7 +386,7 @@
 :::\*G253.6 图书保护
 
 ::\*G254
-[文献标引与](../Page/文献标引.md "wikilink")[编目](../Page/编目.md "wikilink")
+[文献标引与](https://zh.wikipedia.org/wiki/文献标引 "wikilink")[编目](https://zh.wikipedia.org/wiki/编目 "wikilink")
 
 :::\*G254-3 文献工作研究方法、工作方法
 
@@ -477,7 +480,7 @@
 
 :::\*G254.4 图书馆目录的使用
 
-::\*G255 各种[文献工作](../Page/文献工作.md "wikilink")
+::\*G255 各种[文献工作](https://zh.wikipedia.org/wiki/文献工作 "wikilink")
 
 :::\*G255.1 善本、线装古籍
 
@@ -509,7 +512,7 @@
 
 :::\*G255.9 其他
 
-::\*G256 [文献学](../Page/文献学.md "wikilink")
+::\*G256 [文献学](https://zh.wikipedia.org/wiki/文献学 "wikilink")
 
 :::\*G256.1 图书学
 
@@ -636,7 +639,7 @@
 :::\*G259.3/.7 各国
 
 :\*G26
-[博物馆学](../Page/博物馆学.md "wikilink")、[博物馆事业](../Page/博物馆事业.md "wikilink")
+[博物馆学](../Page/博物馆学.md "wikilink")、[博物馆事业](https://zh.wikipedia.org/wiki/博物馆事业 "wikilink")
 
 ::\*G260 博物馆学
 
@@ -695,7 +698,7 @@
 :::\*G269.3/.7 各国
 
 :\*G27
-[档案学](../Page/档案学.md "wikilink")、[档案事业](../Page/档案事业.md "wikilink")
+[档案学](https://zh.wikipedia.org/wiki/档案学 "wikilink")、[档案事业](https://zh.wikipedia.org/wiki/档案事业 "wikilink")
 
 ::\*G270 档案学
 
@@ -767,18 +770,18 @@
 
 :::\*G279.3/.7 各国
 
-  - G3[科学](../Page/科学.md "wikilink")、[科学研究](../Page/科学研究.md "wikilink")
+  - G3[科学](../Page/科学.md "wikilink")、[科学研究](https://zh.wikipedia.org/wiki/科学研究 "wikilink")
 
 ::\*G301 科学学
 
-::\*G302 [知识学](../Page/知识学.md "wikilink")
+::\*G302 [知识学](https://zh.wikipedia.org/wiki/知识学 "wikilink")
 
 ::\*G303 [未来学](../Page/未来学.md "wikilink")
 
 ::\*G304 科学研究的方法论
 
 ::\*G305
-[科学发明](../Page/科学发明.md "wikilink")、[发现研究](../Page/发现.md "wikilink")（[创造学](../Page/创造学.md "wikilink")）
+[科学发明](https://zh.wikipedia.org/wiki/科学发明 "wikilink")、[发现研究](https://zh.wikipedia.org/wiki/发现 "wikilink")（[创造学](https://zh.wikipedia.org/wiki/创造学 "wikilink")）
 
 ::\*G306 专利研究
 
@@ -845,13 +848,13 @@
 ::\*G323/327 各国
 
 :\*G35
-[情报学](../Page/情报学.md "wikilink")、[情报工作](../Page/情报工作.md "wikilink")
+[情报学](https://zh.wikipedia.org/wiki/情报学 "wikilink")、[情报工作](https://zh.wikipedia.org/wiki/情报工作 "wikilink")
 
-::\*G350 [情报学](../Page/情报学.md "wikilink")
+::\*G350 [情报学](https://zh.wikipedia.org/wiki/情报学 "wikilink")
 
 :::\*G350.7 情报工作自动化、网络化
 
-::\*G351 [情报工作体制](../Page/情报工作.md "wikilink")、组织
+::\*G351 [情报工作体制](https://zh.wikipedia.org/wiki/情报工作 "wikilink")、组织
 
 :::\*G351.1 组织和管理
 
@@ -891,7 +894,7 @@
 
 ::::\*G353.24 快报
 
-::\*G354 [情报检索](../Page/情报检索.md "wikilink")
+::\*G354 [情报检索](https://zh.wikipedia.org/wiki/情报检索 "wikilink")
 
 :::\*G354.1 情报检索中心
 
@@ -925,7 +928,8 @@
 
 ::\*G355 机器翻译
 
-::\*G356 [情报过程自动化的方法和设备](../Page/情报过程自动化.md "wikilink")
+::\*G356
+[情报过程自动化的方法和设备](https://zh.wikipedia.org/wiki/情报过程自动化 "wikilink")
 
 :::\*G356.1 文献库的方法和设备
 
@@ -941,7 +945,7 @@
 
 :::\*G356.9 其他设备
 
-::\*G357 [文献复制方法和设备](../Page/文献复制.md "wikilink")
+::\*G357 [文献复制方法和设备](https://zh.wikipedia.org/wiki/文献复制 "wikilink")
 
 :::\*G357.1 照相复制
 
@@ -1061,33 +1065,34 @@
 
 ::::\*G40-09 教育学史、教育思想史
 
-:\*G41 [思想政治教育](../Page/思想政治教育.md "wikilink")、德育
+:\*G41 [思想政治教育](https://zh.wikipedia.org/wiki/思想政治教育 "wikilink")、德育
 
-::\*G410 [德育理论](../Page/德育.md "wikilink")
+::\*G410 [德育理论](https://zh.wikipedia.org/wiki/德育 "wikilink")
 
-::\*G411 [马列主义毛泽东思想教育](../Page/马列主义毛泽东思想教育.md "wikilink")
+::\*G411
+[马列主义毛泽东思想教育](https://zh.wikipedia.org/wiki/马列主义毛泽东思想教育 "wikilink")
 
 ::\*G412
-[人生观](../Page/人生观.md "wikilink")、[世界观与](../Page/世界观.md "wikilink")[理想教育](../Page/理想.md "wikilink")
+[人生观](https://zh.wikipedia.org/wiki/人生观 "wikilink")、[世界观与](../Page/世界观.md "wikilink")[理想教育](https://zh.wikipedia.org/wiki/理想 "wikilink")
 
 ::\*G413
-[阶级教育](../Page/阶级教育.md "wikilink")、[革命传统教育](../Page/革命传统教育.md "wikilink")
+[阶级教育](https://zh.wikipedia.org/wiki/阶级教育 "wikilink")、[革命传统教育](https://zh.wikipedia.org/wiki/革命传统教育 "wikilink")
 
 ::\*G414
-[国际主义](../Page/国际主义.md "wikilink")、[爱国主义教育](../Page/爱国主义.md "wikilink")
+[国际主义](../Page/国际主义.md "wikilink")、[爱国主义教育](https://zh.wikipedia.org/wiki/爱国主义 "wikilink")
 
-:::\*G414.1 [形势教育](../Page/形势教育.md "wikilink")
+:::\*G414.1 [形势教育](https://zh.wikipedia.org/wiki/形势教育 "wikilink")
 
 ::\*G415
-[纪律](../Page/纪律.md "wikilink")、[民主与](../Page/民主.md "wikilink")[法制教育](../Page/法系.md "wikilink")
+[纪律](https://zh.wikipedia.org/wiki/纪律 "wikilink")、[民主与](../Page/民主.md "wikilink")[法制教育](../Page/法系.md "wikilink")
 
-::\*G416 [思想品德教育](../Page/思想品德.md "wikilink")
+::\*G416 [思想品德教育](https://zh.wikipedia.org/wiki/思想品德 "wikilink")
 
-::\*G417 [社会公德教育](../Page/社会公德.md "wikilink")
+::\*G417 [社会公德教育](https://zh.wikipedia.org/wiki/社会公德 "wikilink")
 
-::\*G418 [军事训练教育](../Page/军事训练.md "wikilink")
+::\*G418 [军事训练教育](https://zh.wikipedia.org/wiki/军事训练 "wikilink")
 
-:\*G42 [教学理论](../Page/教学理论.md "wikilink")
+:\*G42 [教学理论](https://zh.wikipedia.org/wiki/教学理论 "wikilink")
 
 ::\*G420 教学研究和改革
 
@@ -1142,7 +1147,7 @@
 :::\*G424.6 辅导与自习
 
 :::\*G424.7
-[学绩管理和](../Page/学绩管理.md "wikilink")[考试](../Page/考试.md "wikilink")
+[学绩管理和](https://zh.wikipedia.org/wiki/学绩管理 "wikilink")[考试](https://zh.wikipedia.org/wiki/考试 "wikilink")
 
 ::::\*G424.71 学绩管理制度
 
@@ -1158,7 +1163,7 @@
 
 ::\*G428 教研室（组）工作
 
-:\*G43 [电化教育](../Page/电化教育.md "wikilink")
+:\*G43 [电化教育](https://zh.wikipedia.org/wiki/电化教育 "wikilink")
 
 ::\*G431 视听教学（电化教学）
 
@@ -1186,7 +1191,7 @@
 
 ::\*G448 教育心理诊断与教育心理辅导
 
-::\*G449 [教育心理测验与评估](../Page/教育心理测验.md "wikilink")
+::\*G449 [教育心理测验与评估](https://zh.wikipedia.org/wiki/教育心理测验 "wikilink")
 
 :::\*G449.1 测验方法
 
@@ -1226,7 +1231,7 @@
 
 ::\*G459 [学校与](../Page/学校.md "wikilink")[家庭](../Page/家庭.md "wikilink")
 
-:\*G46 [教育行政](../Page/教育行政.md "wikilink")
+:\*G46 [教育行政](https://zh.wikipedia.org/wiki/教育行政 "wikilink")
 
 ::\*G462 教育行政机关
 
@@ -1250,7 +1255,7 @@
 
 :::\*G467.8 奖学金、助学金、贷学金
 
-:\*G47 [学校管理](../Page/学校管理.md "wikilink")
+:\*G47 [学校管理](https://zh.wikipedia.org/wiki/学校管理 "wikilink")
 
 ::\*G471 学校管理体制
 
@@ -1421,7 +1426,7 @@
 :\*G53/57 各国教育事业
 
 :\*G61
-[学前教育](../Page/学前教育.md "wikilink")、[幼儿教育](../Page/幼儿教育.md "wikilink")
+[学前教育](https://zh.wikipedia.org/wiki/学前教育 "wikilink")、[幼儿教育](https://zh.wikipedia.org/wiki/幼儿教育 "wikilink")
 
 ::\*G610 学前教育、幼儿教育理论
 
@@ -1475,10 +1480,10 @@
 
 ::\*G620 初等教育理论
 
-::\*G621 [思想政治教育](../Page/思想政治教育.md "wikilink")
+::\*G621 [思想政治教育](https://zh.wikipedia.org/wiki/思想政治教育 "wikilink")
 
 ::\*G622
-[教学理论](../Page/教学理论.md "wikilink")、[教学法](../Page/教学法.md "wikilink")
+[教学理论](https://zh.wikipedia.org/wiki/教学理论 "wikilink")、[教学法](https://zh.wikipedia.org/wiki/教学法 "wikilink")
 
 :::\*G622.0 教学研究与改革
 
@@ -1502,23 +1507,23 @@
 
 :::::\*G622.479 试题与题解
 
-::\*G623 各科教学法、[教学参考书](../Page/教学参考书.md "wikilink")
+::\*G623 各科教学法、[教学参考书](https://zh.wikipedia.org/wiki/教学参考书 "wikilink")
 
 :::\*G623.1 [政治](../Page/政治.md "wikilink")
 
-::::\*G623.15 [思想品德课](../Page/思想品德课.md "wikilink")
+::::\*G623.15 [思想品德课](https://zh.wikipedia.org/wiki/思想品德课 "wikilink")
 
-:::\*G623.2 [汉语语文](../Page/汉语语文.md "wikilink")
+:::\*G623.2 [汉语语文](https://zh.wikipedia.org/wiki/汉语语文 "wikilink")
 
 ::::\*G623.21 [汉语拼音](../Page/汉语拼音.md "wikilink")
 
-::::\*G623.22 [识字](../Page/识字.md "wikilink")
+::::\*G623.22 [识字](https://zh.wikipedia.org/wiki/识字 "wikilink")
 
-::::\*G623.23 [阅读](../Page/阅读.md "wikilink")
+::::\*G623.23 [阅读](https://zh.wikipedia.org/wiki/阅读 "wikilink")
 
-::::\*G623.24 [作文](../Page/作文.md "wikilink")
+::::\*G623.24 [作文](https://zh.wikipedia.org/wiki/作文 "wikilink")
 
-::::\*G623.29 [少数民族语文](../Page/少数民族语文.md "wikilink")
+::::\*G623.29 [少数民族语文](https://zh.wikipedia.org/wiki/少数民族语文 "wikilink")
 
 :::\*G623.3 [外语](../Page/外语.md "wikilink")
 
@@ -1537,11 +1542,11 @@
 ::::\*G623.39 其他
 
 :::\*G623.4
-[历史](../Page/历史.md "wikilink")、[地理](../Page/地理.md "wikilink")
+[历史](../Page/历史.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")
 
 ::::\*G623.41 [历史](../Page/历史.md "wikilink")
 
-::::\*G623.45 [地理](../Page/地理.md "wikilink")
+::::\*G623.45 [地理](https://zh.wikipedia.org/wiki/地理 "wikilink")
 
 :::\*G623.5 [数学](../Page/数学.md "wikilink")
 
@@ -1549,26 +1554,26 @@
 
 ::::\*G623.57 [珠算](../Page/珠算.md "wikilink")
 
-::::\*G623.58 [计算机](../Page/计算机.md "wikilink")
+::::\*G623.58 [计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")
 
-:::\*G623.6 [自然常识](../Page/自然常识.md "wikilink")
+:::\*G623.6 [自然常识](https://zh.wikipedia.org/wiki/自然常识 "wikilink")
 
-:::\*G623.7 [美育](../Page/美育.md "wikilink")
+:::\*G623.7 [美育](https://zh.wikipedia.org/wiki/美育 "wikilink")
 
 ::::\*G623.71 [音乐](../Page/音乐.md "wikilink")
 
-::::\*G623.75 [美术](../Page/美术.md "wikilink")
+::::\*G623.75 [美术](https://zh.wikipedia.org/wiki/美术 "wikilink")
 
 :::\*G623.8
 [体育](../Page/体育.md "wikilink")、[游戏](../Page/游戏.md "wikilink")
 
 ::\*G624
-[教材](../Page/教材.md "wikilink")、[课本](../Page/课本.md "wikilink")、学生参考书
+[教材](https://zh.wikipedia.org/wiki/教材 "wikilink")、[课本](https://zh.wikipedia.org/wiki/课本 "wikilink")、学生参考书
 
 ::\*G625 [教师与](../Page/教师.md "wikilink")[学生](../Page/学生.md "wikilink")
 
 :::\*G625.1
-[教师](../Page/教师.md "wikilink")、[班主任](../Page/班主任.md "wikilink")
+[教师](../Page/教师.md "wikilink")、[班主任](https://zh.wikipedia.org/wiki/班主任 "wikilink")
 
 :::\*G625.5 [学生](../Page/学生.md "wikilink")
 
@@ -1577,7 +1582,7 @@
 ::\*G626
 [学校与](../Page/学校.md "wikilink")[家庭](../Page/家庭.md "wikilink")、学校与[社会](../Page/社会.md "wikilink")
 
-::\*G627 [学校管理](../Page/学校管理.md "wikilink")
+::\*G627 [学校管理](https://zh.wikipedia.org/wiki/学校管理 "wikilink")
 
 :::\*G627.1 领导管理体制
 
@@ -1615,14 +1620,14 @@
 
 :::\*G629.3/.7 各国
 
-:\*G63 [中等教育](../Page/中等教育.md "wikilink")
+:\*G63 [中等教育](https://zh.wikipedia.org/wiki/中等教育 "wikilink")
 
 ::\*G630 中等教育理论
 
 ::\*G631
-[思想政治教育](../Page/思想政治教育.md "wikilink")、[德育](../Page/德育.md "wikilink")
+[思想政治教育](https://zh.wikipedia.org/wiki/思想政治教育 "wikilink")、[德育](https://zh.wikipedia.org/wiki/德育 "wikilink")
 
-::\*G632 [教学理论](../Page/教学理论.md "wikilink")、教学法
+::\*G632 [教学理论](https://zh.wikipedia.org/wiki/教学理论 "wikilink")、教学法
 
 :::\*G632.0 教学研究与改革
 
@@ -1645,7 +1650,7 @@
 :::::\*G632.475 评分方法
 
 :::::\*G632.479
-[试题与](../Page/试题.md "wikilink")[题解](../Page/题解.md "wikilink")
+[试题与](https://zh.wikipedia.org/wiki/试题 "wikilink")[题解](https://zh.wikipedia.org/wiki/题解 "wikilink")
 
 ::\*G633 各科教学法、教学参考书
 
@@ -1653,23 +1658,24 @@
 
 ::::\*G633.21 [辩证唯物主义](../Page/辩证唯物主义.md "wikilink")
 
-::::\*G633.22 [社会发展史](../Page/社会发展史.md "wikilink")
+::::\*G633.22 [社会发展史](https://zh.wikipedia.org/wiki/社会发展史 "wikilink")
 
 ::::\*G633.23 [政治经济学](../Page/政治经济学.md "wikilink")
 
 ::::\*G633.24 [科学社会主义](../Page/科学社会主义.md "wikilink")
 
-::::\*G633.25 [青少年修养](../Page/青少年修养.md "wikilink")
+::::\*G633.25 [青少年修养](https://zh.wikipedia.org/wiki/青少年修养 "wikilink")
 
 ::::\*G633.26 法律常识
 
 :::\*G633.3 汉语语文
 
-::::\*G633.33 [阅读](../Page/阅读.md "wikilink")
+::::\*G633.33 [阅读](https://zh.wikipedia.org/wiki/阅读 "wikilink")
 
-::::\*G633.34 [作文](../Page/作文.md "wikilink")
+::::\*G633.34 [作文](https://zh.wikipedia.org/wiki/作文 "wikilink")
 
-::::\*G633.39 [中国少数民族语文](../Page/中国少数民族语文.md "wikilink")
+::::\*G633.39
+[中国少数民族语文](https://zh.wikipedia.org/wiki/中国少数民族语文 "wikilink")
 
 :::\*G633.4 [外语](../Page/外语.md "wikilink")
 
@@ -1681,28 +1687,28 @@
 
 ::::\*G633.44 [西班牙语](../Page/西班牙语.md "wikilink")
 
-::::\*G633.45 [俄语](../Page/俄语.md "wikilink")
+::::\*G633.45 [俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")
 
 ::::\*G633.46 [日语](../Page/日语.md "wikilink")
 
 ::::\*G633.49 其他
 
 :::\*G633.5
-[历史](../Page/历史.md "wikilink")、[地理](../Page/地理.md "wikilink")
+[历史](../Page/历史.md "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")
 
 ::::\*G633.51 [历史](../Page/历史.md "wikilink")
 
-::::\*G633.52 [世界历史](../Page/世界历史.md "wikilink")
+::::\*G633.52 [世界历史](https://zh.wikipedia.org/wiki/世界历史 "wikilink")
 
 ::::\*G633.53 [中国历史](../Page/中国历史.md "wikilink")
 
 ::::\*G633.54 其他各国历史
 
-::::\*G633.55 [地理](../Page/地理.md "wikilink")
+::::\*G633.55 [地理](https://zh.wikipedia.org/wiki/地理 "wikilink")
 
-::::\*G633.56 [世界地理](../Page/世界地理.md "wikilink")
+::::\*G633.56 [世界地理](https://zh.wikipedia.org/wiki/世界地理 "wikilink")
 
-::::\*G633.57 [中国地理](../Page/中国地理.md "wikilink")
+::::\*G633.57 [中国地理](https://zh.wikipedia.org/wiki/中国地理 "wikilink")
 
 ::::\*G633.58 其他各国地理
 
@@ -1718,39 +1724,39 @@
 
 ::::\*G633.62 [代数](../Page/代数.md "wikilink")
 
-::::\*G633.63 [几何](../Page/几何.md "wikilink")
+::::\*G633.63 [几何](https://zh.wikipedia.org/wiki/几何 "wikilink")
 
-::::\*G633.64 [三角](../Page/三角.md "wikilink")
+::::\*G633.64 [三角](https://zh.wikipedia.org/wiki/三角 "wikilink")
 
 ::::\*G633.65 [解析几何](../Page/解析几何.md "wikilink")
 
 ::::\*G633.66 [高等数学初步](../Page/高等数学.md "wikilink")
 
-::::\*G633.67 [计算机](../Page/计算机.md "wikilink")
+::::\*G633.67 [计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")
 
-:::\*G633.7 [物理](../Page/物理.md "wikilink")
+:::\*G633.7 [物理](https://zh.wikipedia.org/wiki/物理 "wikilink")
 
-:::\*G633.8 [化学](../Page/化学.md "wikilink")
+:::\*G633.8 [化学](https://zh.wikipedia.org/wiki/化学 "wikilink")
 
 ::::\*G633.91 [生物](../Page/生物.md "wikilink")
 
-::::\*G633.92 [生理卫生](../Page/生理卫生.md "wikilink")
+::::\*G633.92 [生理卫生](https://zh.wikipedia.org/wiki/生理卫生 "wikilink")
 
 ::::\*G633.93 专业技术知识
 
-::::\*G633.95 [美育](../Page/美育.md "wikilink")
+::::\*G633.95 [美育](https://zh.wikipedia.org/wiki/美育 "wikilink")
 
 :::::\*G633.951
 [音乐](../Page/音乐.md "wikilink")、[舞蹈](../Page/舞蹈.md "wikilink")
 
-:::::\*G633.955 [美术](../Page/美术.md "wikilink")
+:::::\*G633.955 [美术](https://zh.wikipedia.org/wiki/美术 "wikilink")
 
 ::::\*G633.96 [体育](../Page/体育.md "wikilink")
 
 ::::\*G633.98 其他
 
 ::\*G634
-[课本](../Page/课本.md "wikilink")、[教材](../Page/教材.md "wikilink")、辅助教材
+[课本](https://zh.wikipedia.org/wiki/课本 "wikilink")、[教材](https://zh.wikipedia.org/wiki/教材 "wikilink")、辅助教材
 
 :::::\*G634.413 英语-阅读教学-高中-教学参考资料
 
@@ -1759,7 +1765,7 @@
 ::\*G635 [教师与](../Page/教师.md "wikilink")[学生](../Page/学生.md "wikilink")
 
 :::\*G635.1
-[教师](../Page/教师.md "wikilink")、[班主任](../Page/班主任.md "wikilink")
+[教师](../Page/教师.md "wikilink")、[班主任](https://zh.wikipedia.org/wiki/班主任 "wikilink")
 
 :::\*G635.5 [学生](../Page/学生.md "wikilink")
 
@@ -1768,9 +1774,9 @@
 ::\*G636
 [学校与](../Page/学校.md "wikilink")[家庭](../Page/家庭.md "wikilink")、学校与[社会](../Page/社会.md "wikilink")
 
-::\*G637 [学校管理](../Page/学校管理.md "wikilink")
+::\*G637 [学校管理](https://zh.wikipedia.org/wiki/学校管理 "wikilink")
 
-::\*G638 各类型[中等学校](../Page/中等学校.md "wikilink")
+::\*G638 各类型[中等学校](https://zh.wikipedia.org/wiki/中等学校 "wikilink")
 
 :::\*G638.1 完全中学
 
@@ -1872,7 +1878,7 @@
 
 ::\*G647 学校管理
 
-::\*G648 各类型[高等学校](../Page/高等学校.md "wikilink")
+::\*G648 各类型[高等学校](https://zh.wikipedia.org/wiki/高等学校 "wikilink")
 
 :::\*G648.1 综合性大学
 
@@ -1908,7 +1914,7 @@
 
 :::\*G649.3/.7 各国
 
-:\*G65 [师范教育](../Page/师范教育.md "wikilink")
+:\*G65 [师范教育](https://zh.wikipedia.org/wiki/师范教育 "wikilink")
 
 ::\*G650 师范教育理论
 
@@ -1954,7 +1960,7 @@
 
   - G7 职教、成教及其他教育
 
-:\*G71 [职业技术教育](../Page/职业技术教育.md "wikilink")
+:\*G71 [职业技术教育](https://zh.wikipedia.org/wiki/职业技术教育 "wikilink")
 
 ::\*G710 职业技术教育理论
 
@@ -2001,7 +2007,7 @@
 :::\*G719.3/.7 各国
 
 :\*G72
-[成人教育](../Page/成人教育.md "wikilink")、[业余教育](../Page/业余教育.md "wikilink")
+[成人教育](https://zh.wikipedia.org/wiki/成人教育 "wikilink")、[业余教育](https://zh.wikipedia.org/wiki/业余教育 "wikilink")
 
 ::\*G720 成人教育、业余教育理论
 
@@ -2055,7 +2061,7 @@
 
 ::::\*G726.88 管理干部学院
 
-:::\*G726.9 [自学考试](../Page/自学考试.md "wikilink")
+:::\*G726.9 [自学考试](https://zh.wikipedia.org/wiki/自学考试 "wikilink")
 
 ::\*G727 函授、刊授教育
 
@@ -2068,7 +2074,7 @@
 ::\*G729 世界各国成人教育与业余教育概况
 
 :\*G74
-[华侨教育](../Page/华侨教育.md "wikilink")、[侨民教育](../Page/侨民教育.md "wikilink")
+[华侨教育](https://zh.wikipedia.org/wiki/华侨教育 "wikilink")、[侨民教育](https://zh.wikipedia.org/wiki/侨民教育 "wikilink")
 
 ::\*G740 华侨教育理论
 
@@ -2086,7 +2092,7 @@
 
 :::\*G749.9 世界各国侨民教育
 
-:\*G75 [少数民族教育](../Page/少数民族教育.md "wikilink")
+:\*G75 [少数民族教育](https://zh.wikipedia.org/wiki/少数民族教育 "wikilink")
 
 ::\*G750 少数民族教育理论
 
@@ -2130,7 +2136,7 @@
 
 ::\*G769 世界各国特殊教育概况
 
-:\*G77 [社会教育](../Page/社会教育.md "wikilink")
+:\*G77 [社会教育](https://zh.wikipedia.org/wiki/社会教育 "wikilink")
 
 ::\*G773 乡土教育
 
@@ -2144,9 +2150,9 @@
 
 :\*G78 [家庭教育](../Page/家庭教育.md "wikilink")
 
-::\*G785 [家庭教师](../Page/家庭教师.md "wikilink")
+::\*G785 [家庭教师](https://zh.wikipedia.org/wiki/家庭教师 "wikilink")
 
-:\*G79 [自学](../Page/自学.md "wikilink")
+:\*G79 [自学](https://zh.wikipedia.org/wiki/自学 "wikilink")
 
 ::\*G791 学习方法
 
@@ -2356,7 +2362,7 @@
 
 :::\*G811.9 世界体育史
 
-::\*G812 [中国体育](../Page/中国体育.md "wikilink")
+::\*G812 [中国体育](https://zh.wikipedia.org/wiki/中国体育 "wikilink")
 
 :::\*G812.0 方针政策及其阐述
 
@@ -2412,7 +2418,7 @@
 
 ::\*G813/817 各国
 
-::\*G818 [运动场地与设备](../Page/运动场地.md "wikilink")
+::\*G818 [运动场地与设备](https://zh.wikipedia.org/wiki/运动场地 "wikilink")
 
 :::\*G818.1 运动场
 
@@ -2422,9 +2428,9 @@
 
 :::\*G818.4 运动服装
 
-::\*G819 [体育运动技术](../Page/体育运动技术.md "wikilink")（总论）
+::\*G819 [体育运动技术](https://zh.wikipedia.org/wiki/体育运动技术 "wikilink")（总论）
 
-:\*G82 [田径运动](../Page/田径运动.md "wikilink")
+:\*G82 [田径运动](https://zh.wikipedia.org/wiki/田径运动 "wikilink")
 
 ::\*G821 竞走
 
@@ -2484,7 +2490,7 @@
 
 ::\*G826 定向运动
 
-:\*G83 [体操运动](../Page/体操运动.md "wikilink")
+:\*G83 [体操运动](https://zh.wikipedia.org/wiki/体操运动 "wikilink")
 
 ::\*G831 基本体操
 
@@ -2572,7 +2578,7 @@
 
 ::\*G838 绷床运动（弹跳网）
 
-:\*G84 [球类运动](../Page/球类运动.md "wikilink")
+:\*G84 [球类运动](https://zh.wikipedia.org/wiki/球类运动 "wikilink")
 
 ::\*G841 [篮球](../Page/篮球.md "wikilink")
 
@@ -2604,7 +2610,7 @@
 
 :::\*G849.9 其他球类运动
 
-:\*G85 [武术及民族形式体育](../Page/武术.md "wikilink")
+:\*G85 [武术及民族形式体育](https://zh.wikipedia.org/wiki/武术 "wikilink")
 
 ::\*G852 [中国武术](../Page/中国武术.md "wikilink")
 
@@ -2840,38 +2846,38 @@
 
 :::\*G888.2 现代五项运动
 
-:\*G89 [文体运动](../Page/文体运动.md "wikilink")
+:\*G89 [文体运动](https://zh.wikipedia.org/wiki/文体运动 "wikilink")
 
-::\*G891 [棋类](../Page/棋类.md "wikilink")
+::\*G891 [棋类](https://zh.wikipedia.org/wiki/棋类 "wikilink")
 
-:::\*G891.1 [国际象棋](../Page/国际象棋.md "wikilink")
+:::\*G891.1 [国际象棋](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")
 
-:::\*G891.2 [中国象棋](../Page/中国象棋.md "wikilink")
+:::\*G891.2 [中国象棋](https://zh.wikipedia.org/wiki/中国象棋 "wikilink")
 
 :::\*G891.3 [围棋](../Page/围棋.md "wikilink")
 
 :::\*G891.9 其他
 
-::\*G892 [牌类](../Page/牌类.md "wikilink")
+::\*G892 [牌类](https://zh.wikipedia.org/wiki/牌类 "wikilink")
 
 ::\*G893
-[康乐球](../Page/康乐球.md "wikilink")、[台球](../Page/台球.md "wikilink")、弹子
+[康乐球](https://zh.wikipedia.org/wiki/康乐球 "wikilink")、[台球](https://zh.wikipedia.org/wiki/台球 "wikilink")、弹子
 
-::\*G894 [私人收藏](../Page/私人收藏.md "wikilink")
+::\*G894 [私人收藏](https://zh.wikipedia.org/wiki/私人收藏 "wikilink")
 
-:::\*G894.1 [集邮](../Page/集邮.md "wikilink")
+:::\*G894.1 [集邮](https://zh.wikipedia.org/wiki/集邮 "wikilink")
 
-::\*G895 [旅行](../Page/旅行.md "wikilink")
+::\*G895 [旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")
 
-::\*G896 [狩猎运动](../Page/狩猎运动.md "wikilink")
+::\*G896 [狩猎运动](https://zh.wikipedia.org/wiki/狩猎运动 "wikilink")
 
 ::\*G897 [钓鱼](../Page/钓鱼.md "wikilink")
 
 ::\*G898 [游戏](../Page/游戏.md "wikilink")
 
-:::\*G898.1 [活动性游戏](../Page/活动性游戏.md "wikilink")
+:::\*G898.1 [活动性游戏](https://zh.wikipedia.org/wiki/活动性游戏 "wikilink")
 
-:::\*G898.2 [智力游戏](../Page/智力游戏.md "wikilink")
+:::\*G898.2 [智力游戏](https://zh.wikipedia.org/wiki/智力游戏 "wikilink")
 
 ::\*G899 其他文体活动
 

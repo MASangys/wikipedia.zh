@@ -1,9 +1,9 @@
 [Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg](https://zh.wikipedia.org/wiki/File:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg "fig:Minami_Kuribayashi,_Kimi_ga_Nozomu_Eien_20100701.jpg")
-**Minami**（）是[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[静冈市](../Page/静冈市.md "wikilink")[葵區出身的女](../Page/葵區.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[作詞家及](../Page/作詞家.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")，她除了正職歌手以外還做兼職[聲優](../Page/聲優.md "wikilink")。舊名為「-{栗}-林美奈實」。暱稱「」，[血型AB型](../Page/血型.md "wikilink")。
+**Minami**（）是[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[静冈市](https://zh.wikipedia.org/wiki/静冈市 "wikilink")[葵區出身的女](../Page/葵區.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[作詞家及](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，她除了正職歌手以外還做兼職[聲優](../Page/聲優.md "wikilink")。舊名為「-{栗}-林美奈實」。暱稱「」，[血型AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。
 
 ## 人物
 
-常葉学園橘高等学校音樂科、[代代木動畫學院声優人才科](../Page/代代木動畫學院.md "wikilink")（[特待生](../Page/特待生.md "wikilink")）畢業。幼稚園到[短期大學畢業都在學習鋼琴](../Page/短期大學.md "wikilink")，短大還專攻[声樂](../Page/声樂.md "wikilink")。從短大入学到2000年頃曾組過樂團，演唱、作詞、作曲一手包辦，當時拔擢為廣播節目助手，製作[廣播劇主題曲為契機](../Page/廣播劇.md "wikilink")\[1\]，以本名**村上久美子**名義從事音樂活動，但不順遂；直到改[藝名為](../Page/藝名.md "wikilink")-{栗}-林美奈實，參與成人遊戲《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》配音並演唱主題曲才聲名大噪。2016年以出道15週年為由，宣布改用現在藝名Minami\[2\]。
+常葉学園橘高等学校音樂科、[代代木動畫學院声優人才科](https://zh.wikipedia.org/wiki/代代木動畫學院 "wikilink")（[特待生](https://zh.wikipedia.org/wiki/特待生 "wikilink")）畢業。幼稚園到[短期大學畢業都在學習鋼琴](https://zh.wikipedia.org/wiki/短期大學 "wikilink")，短大還專攻[声樂](https://zh.wikipedia.org/wiki/声樂 "wikilink")。從短大入学到2000年頃曾組過樂團，演唱、作詞、作曲一手包辦，當時拔擢為廣播節目助手，製作[廣播劇主題曲為契機](../Page/廣播劇.md "wikilink")\[1\]，以本名**村上久美子**名義從事音樂活動，但不順遂；直到改[藝名為](../Page/藝名.md "wikilink")-{栗}-林美奈實，參與成人遊戲《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》配音並演唱主題曲才聲名大噪。2016年以出道15週年為由，宣布改用現在藝名Minami\[2\]。
 
 2015年宣佈已育有一男\[3\]。
 
@@ -37,10 +37,12 @@
   - [Muv-Luv Alternative](../Page/Muv-Luv_Alternative.md "wikilink")（社霞
     / 涼宮遙）
   - [Muv-Luv ALTERED
-    FABLE](../Page/Muv-Luv_ALTERED_FABLE.md "wikilink")（社霞 / 涼宮遙）
-  - [化石之歌](../Page/化石之歌.md "wikilink")（プリエ）
+    FABLE](https://zh.wikipedia.org/wiki/Muv-Luv_ALTERED_FABLE "wikilink")（社霞
+    / 涼宮遙）
+  - [化石之歌](https://zh.wikipedia.org/wiki/化石之歌 "wikilink")（プリエ）
   - [School Days](../Page/School_Days.md "wikilink")（小淵南）
-  - [School Days L×H](../Page/School_Days_L×H.md "wikilink")（小淵南）
+  - [School Days
+    L×H](https://zh.wikipedia.org/wiki/School_Days_L×H "wikilink")（小淵南）
   - ["Hello, world."](../Page/"Hello,_world.".md "wikilink")（友永遥香）
   - 舞-乙HiME ～乙女舞闘史！！～（**埃爾斯特·霍**）
   - シェイプシフター（アーエス・カーニュエール）
@@ -92,7 +94,7 @@
 
 <!-- end list -->
 
-1.  マブラヴ（PC游戏[マブラヴ主题曲](../Page/マブラヴ.md "wikilink")）
+1.  マブラヴ（PC游戏[マブラヴ主题曲](https://zh.wikipedia.org/wiki/マブラヴ "wikilink")）
 2.  君が望む永遠（日本動畫[你所期望的永遠片尾曲](../Page/你所期望的永遠.md "wikilink")）
 
 <!-- end list -->
@@ -149,7 +151,7 @@
 
 1.  マブラヴ（再录音版）
 2.  桜の花が咲くまえに（PC游戏[桜の花が咲くまえに 〜Muv-Luv After
-    Episode〜主題曲](../Page/桜の花が咲くまえに_〜Muv-Luv_After_Episode〜.md "wikilink")）
+    Episode〜主題曲](https://zh.wikipedia.org/wiki/桜の花が咲くまえに_〜Muv-Luv_After_Episode〜 "wikilink")）
 
 <!-- end list -->
 
@@ -157,7 +159,8 @@
 
 <!-- end list -->
 
-1.  Blue treasure（日本動畫[蓝色潮痕主題曲](../Page/蓝色潮痕.md "wikilink")）
+1.  Blue
+    treasure（日本動畫[蓝色潮痕主題曲](https://zh.wikipedia.org/wiki/蓝色潮痕 "wikilink")）
 2.  人魚姫
 
 <!-- end list -->
@@ -184,7 +187,8 @@
 
 <!-- end list -->
 
-1.  Yell\!（日本動畫[超级机器人大战OG 第一季片尾曲](../Page/超级机器人大战OG_第一季.md "wikilink")）
+1.  Yell\!（日本動畫[超级机器人大战OG
+    第一季片尾曲](https://zh.wikipedia.org/wiki/超级机器人大战OG_第一季 "wikilink")）
 2.  冬色のメロディ
 
 <!-- end list -->
@@ -220,7 +224,7 @@
 
 <!-- end list -->
 
-1.  Love Jump（日本動畫[紅主題曲](../Page/紅.md "wikilink")）
+1.  Love Jump（日本動畫[紅主題曲](https://zh.wikipedia.org/wiki/紅 "wikilink")）
 2.  桜時計
 
 <!-- end list -->
@@ -305,7 +309,7 @@
 
 <!-- end list -->
 
-1.  ZERO\!\!（日本動畫[打工吧！魔王大人主題曲](../Page/打工吧！魔王大人.md "wikilink")）
+1.  ZERO\!\!（日本動畫[打工吧！魔王大人主題曲](https://zh.wikipedia.org/wiki/打工吧！魔王大人 "wikilink")）
 2.  好きじゃなかったら…
 
 <!-- end list -->
@@ -325,7 +329,7 @@
 <!-- end list -->
 
 1.  moving soul（日本動畫[Fate/kaleid liner 魔法少女☆伊莉雅
-    2wei主題曲](../Page/Fate/kaleid_liner_魔法少女☆伊莉雅.md "wikilink")）
+    2wei主題曲](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")）
 2.  導きの書
 
 <!-- end list -->
@@ -334,7 +338,8 @@
 
 <!-- end list -->
 
-1.  Patria（日本動畫[Regalia 三圣星片尾曲](../Page/Regalia_三圣星.md "wikilink")）
+1.  Patria（日本動畫[Regalia
+    三圣星片尾曲](https://zh.wikipedia.org/wiki/Regalia_三圣星 "wikilink")）
 2.  君になるために
 
 ### 專輯

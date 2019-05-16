@@ -1,15 +1,16 @@
 **Magma**是成立於1969年的法國前衛搖滾團體，由出身古典科班的鼓手[Christian
-Vander主導](../Page/Christian_Vander.md "wikilink")。他說他對於未來世界的預見，無論是人性或是自然都深深擾動其心靈。第一張專輯訴說著一段故事，一群人民逃離了行將毀滅的地球到Kobaia星球上。然而沒有多久，首先移居Kobaia的人們與新遷到的移民發生摩擦進而衝突。Magma專輯特別的地方在於Vander構思出一種稱為Kobaian的[人造語言](../Page/人造語言.md "wikilink")，絕大多數的歌曲皆以此語言演出。之後出版的專輯陸續訴說著更古老的傳說，Kobaian語則在歌曲中繼續扮演關鍵的角色。
+Vander主導](https://zh.wikipedia.org/wiki/Christian_Vander "wikilink")。他說他對於未來世界的預見，無論是人性或是自然都深深擾動其心靈。第一張專輯訴說著一段故事，一群人民逃離了行將毀滅的地球到Kobaia星球上。然而沒有多久，首先移居Kobaia的人們與新遷到的移民發生摩擦進而衝突。Magma專輯特別的地方在於Vander構思出一種稱為Kobaian的[人造語言](https://zh.wikipedia.org/wiki/人造語言 "wikilink")，絕大多數的歌曲皆以此語言演出。之後出版的專輯陸續訴說著更古老的傳說，Kobaian語則在歌曲中繼續扮演關鍵的角色。
 
 在音樂上極富創作與想像力\[1\]\[2\]\[3\]，Magma運用了極多元的和唱方式，專輯*Mekanïk Destruktïw
 Kommandöh*是對作曲家[Carl
-Orff致敬](../Page/Carl_Orff.md "wikilink")\[4\]，*Wurdah
-Itah*則表現出受到[貝拉·巴托克的鋼琴音樂與](../Page/貝拉·巴托克.md "wikilink")[伊戈爾·斯特拉文斯基的](../Page/伊戈爾·斯特拉文斯基.md "wikilink")"Les
+Orff致敬](https://zh.wikipedia.org/wiki/Carl_Orff "wikilink")\[4\]，*Wurdah
+Itah*則表現出受到[貝拉·巴托克的鋼琴音樂與](https://zh.wikipedia.org/wiki/貝拉·巴托克 "wikilink")[伊戈爾·斯特拉文斯基的](https://zh.wikipedia.org/wiki/伊戈爾·斯特拉文斯基 "wikilink")"Les
 Noces"的影響。爵士樂[薩克斯風手](../Page/薩克斯風.md "wikilink")[約翰·柯川對Magma亦有著強大的影響力](../Page/約翰·柯川.md "wikilink")。\[5\]
 
 許多曾經和Magma合作樂手，在離開後組成了新的以及樂風雷同的團體，眾人便以Kobain語中的Zeuhl來稱呼這種樂風以及當時與他們有密切關係的法國前衛搖滾與爵士融合樂。除了[Christian
-Vander外](../Page/Christian_Vander.md "wikilink")，Magma中最為人熟悉的應該是貝斯手[Jannick
-Top](../Page/Jannick_Top.md "wikilink")（後來曾製作過Celine Dion的專輯）。
+Vander外](https://zh.wikipedia.org/wiki/Christian_Vander "wikilink")，Magma中最為人熟悉的應該是貝斯手[Jannick
+Top](https://zh.wikipedia.org/wiki/Jannick_Top "wikilink")（後來曾製作過Celine
+Dion的專輯）。
 
 雖然Magma的專輯不大容易找的到，Christian Vander與Jannick
 Top兩人的知名度讓Magma能夠出版並重新製作[黑膠唱片的cd版本](../Page/黑膠唱片.md "wikilink")。
@@ -23,7 +24,7 @@ Top兩人的知名度讓Magma能夠出版並重新製作[黑膠唱片的cd版本
   - 1970年 Kobaïa
   - 1971年 1001° Centigrades
   - 1972年 The Unnamables *（as [Univeria
-    Zekt](../Page/Univeria_Zekt.md "wikilink")）*
+    Zekt](https://zh.wikipedia.org/wiki/Univeria_Zekt "wikilink")）*
   - 1973年 Mekanïk Kommandöh *（not officially released until 1989）*
   - 1973年 Mekanïk Destruktïw Kommandöh
   - 1974年 Wurdah Ïtah

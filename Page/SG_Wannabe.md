@@ -1,5 +1,5 @@
 **SG Wannabe**（，日本官方英文寫法為**sg WANNA
-BE+**\[1\]），為[韓國三人男子音樂團體](../Page/韓國.md "wikilink")，於2004年成立。2004年1月19日以首張專輯《sg
+BE+**\[1\]），為[韓國三人男子音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2004年成立。2004年1月19日以首張專輯《sg
 Wanna be+》正式出道。
 
 2008年5月隊長蔡東河離隊，並加入新成員[李碩薰](../Page/李碩薰.md "wikilink")；隊長改由金勇俊擔任。
@@ -30,7 +30,8 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
 
 ### Whyme 金勇俊
 
-  - 名字：[金勇俊](../Page/金容俊.md "wikilink")\[2\]（김용준 Kim Yong Jun）
+  - 名字：[金勇俊](https://zh.wikipedia.org/wiki/金容俊 "wikilink")\[2\]（김용준 Kim
+    Yong Jun）
   - 出生日期：
   - 學歷：安陽藝術高等學校演劇映畫科、慶熙網絡（CYBER）大學全球經營學專業
   - 曾與[黃正音一同參與綜藝節目](../Page/黄正音.md "wikilink")[我們結婚了](../Page/我們結婚了.md "wikilink")，預先體驗結婚後的生活，是一對現實生活中的情侶成為假想夫婦，倆人交往快十年，卻在2015年宣布分手。
@@ -40,7 +41,7 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
   - 名字：金振浩\[3\]（김진호 Kim Jin Ho）
   - 出生日期：
   - 學歷：大元高等學校、慶熙大學後現代音樂學專業
-  - 原為[M TO M成員之一](../Page/M_TO_M.md "wikilink")
+  - 原為[M TO M成員之一](https://zh.wikipedia.org/wiki/M_TO_M "wikilink")
 
 ### Seok Hoon [李碩薰](../Page/李碩薰.md "wikilink")
 
@@ -54,7 +55,7 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
   - 學歷：東亞放送大學 影像音樂專業學士－慶熙大學大學院言論情報學碩士研究生
   - 特殊：在公開選拔500:1的比例脫穎而出
   - 出道：2008年 SG Wannabe 5輯《My Friend》(2008年4月24日於Mnet節目《[M\!
-    CountDown](../Page/M!_Countdown.md "wikilink")》正式出道)
+    CountDown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道)
 
 ## 前成員資料
 
@@ -128,32 +129,32 @@ Entertainment簽約](../Page/Jellyfish娛樂.md "wikilink")，開始個人活動
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                     | 節目名稱                                               | 獲獎歌曲                              | 排名               |
-| ----- | ------ | --------------------------------------- | -------------------------------------------------- | --------------------------------- | ---------------- |
-| 2005年 | 4月28日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 죄와 벌 (Sin & Punishment)           | 1位               |
-| 2005年 | 5月15日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 죄와 벌 (Sin & Punishment)           | 1位               |
-| 2005年 | 5月22日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 죄와 벌 (Sin & Punishment)           | 1位               |
-| 2006年 | 4月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 내 사람 (Partner For Life)           | 1位               |
-| 2006年 | 5月7日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 내 사람 (Partner For Life)           | 1位               |
-| 2006年 | 5月11日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 내 사람 (Partner For Life)           | 1位               |
-| 2006年 | 5月14日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 내 사람 (Partner For Life)           | 1位(Triple Crown) |
-| 2006年 | 5月18日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 내 사람 (Partner For Life)           | 1位               |
-| 2006年 | 7月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 사랑했어요 (I Loved You)               | 1位               |
-| 2006年 | 7月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 사랑했어요 (I Loved You)               | 1位               |
-| 2006年 | 8月3日   | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 사랑했어요 (I Loved You)               | 1位               |
-| 2006年 | 8月6日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 사랑했어요 (I Loved You)               | 1位(Triple Crown) |
-| 2006年 | 8月17日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 사랑했어요 (I Loved You)               | 1位               |
-| 2006年 | 12月21日 | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 사랑가 (Song of Love)                | 1位               |
-| 2007年 | 4月26日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 아리랑 (Arirang)                     | 1位               |
-| 2007年 | 4月29日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 아리랑 (Arirang)                     | 1位               |
-| 2007年 | 5月6日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 아리랑 (Arirang)                     | 1位               |
-| 2007年 | 5月13日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 아리랑 (Arirang)                     | 1位(Triple Crown) |
-| 2007年 | 5月24日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 한 여름날의 꿈 (One Summer's Day Dream) | 1位               |
-| 2008年 | 6月1日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 라라라 (La La La)                    | 1位               |
-| 2009年 | 5月31日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                 | 사랑해 (I Love You)                  | 1位               |
-| 2009年 | 6月4日   | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 사랑해 (I Love You)                  | 1位               |
-| 2009年 | 6月11日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](../Page/M_Countdown.md "wikilink") | 사랑해 (I Love You)                  | 1位               |
-| 2009年 | 12月25日 | [KBS](../Page/韓國放送公社.md "wikilink")     | [Music Bank](../Page/音乐银行.md "wikilink")           | 사랑해 (I Love You)                  | 年終結算:20位         |
+| 年份    | 日期     | 電視台                                     | 節目名稱                                                                  | 獲獎歌曲                              | 排名               |
+| ----- | ------ | --------------------------------------- | --------------------------------------------------------------------- | --------------------------------- | ---------------- |
+| 2005年 | 4月28日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 죄와 벌 (Sin & Punishment)           | 1位               |
+| 2005年 | 5月15日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 죄와 벌 (Sin & Punishment)           | 1位               |
+| 2005年 | 5月22日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 죄와 벌 (Sin & Punishment)           | 1位               |
+| 2006年 | 4月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 내 사람 (Partner For Life)           | 1位               |
+| 2006年 | 5月7日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 내 사람 (Partner For Life)           | 1位               |
+| 2006年 | 5月11日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 내 사람 (Partner For Life)           | 1位               |
+| 2006年 | 5月14日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 내 사람 (Partner For Life)           | 1位(Triple Crown) |
+| 2006年 | 5月18日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 내 사람 (Partner For Life)           | 1位               |
+| 2006年 | 7月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 사랑했어요 (I Loved You)               | 1位               |
+| 2006年 | 7月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 사랑했어요 (I Loved You)               | 1位               |
+| 2006年 | 8月3日   | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 사랑했어요 (I Loved You)               | 1位               |
+| 2006年 | 8月6日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 사랑했어요 (I Loved You)               | 1位(Triple Crown) |
+| 2006年 | 8月17日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 사랑했어요 (I Loved You)               | 1位               |
+| 2006年 | 12月21日 | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 사랑가 (Song of Love)                | 1位               |
+| 2007年 | 4月26日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 아리랑 (Arirang)                     | 1位               |
+| 2007年 | 4月29日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 아리랑 (Arirang)                     | 1位               |
+| 2007年 | 5月6日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 아리랑 (Arirang)                     | 1位               |
+| 2007年 | 5月13日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 아리랑 (Arirang)                     | 1位(Triple Crown) |
+| 2007年 | 5月24日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 한 여름날의 꿈 (One Summer's Day Dream) | 1位               |
+| 2008年 | 6月1日   | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 라라라 (La La La)                    | 1位               |
+| 2009年 | 5月31日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人气歌谣.md "wikilink")                                    | 사랑해 (I Love You)                  | 1位               |
+| 2009年 | 6月4日   | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 사랑해 (I Love You)                  | 1位               |
+| 2009年 | 6月11日  | [Mnet](../Page/Mnet媒體.md "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 사랑해 (I Love You)                  | 1位               |
+| 2009年 | 12月25日 | [KBS](../Page/韓國放送公社.md "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")           | 사랑해 (I Love You)                  | 年終結算:20位         |
 
 ## 参考文献
 

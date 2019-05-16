@@ -1,5 +1,5 @@
 [HK_TWGHs_WongChukHangComplex.JPG](https://zh.wikipedia.org/wiki/File:HK_TWGHs_WongChukHangComplex.JPG "fig:HK_TWGHs_WongChukHangComplex.JPG")取景拍攝\]\]
-《**妙手仁心II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[邵美琪及](../Page/邵美琪.md "wikilink")[陳慧珊領銜主演](../Page/陳慧珊.md "wikilink")，由[曹永廉](../Page/曹永廉.md "wikilink")、[陳潔儀](../Page/陳潔儀_\(新加坡\).md "wikilink")、[唐文龍及](../Page/唐文龍.md "wikilink")[袁彩雲聯合主演](../Page/袁彩雲.md "wikilink")，並由[馬浚偉](../Page/馬浚偉.md "wikilink")、[蔡少芬及](../Page/蔡少芬.md "wikilink")[鄧萃雯特別演出](../Page/鄧萃雯.md "wikilink")，監製為[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第二輯，**33周年台慶劇**。
+《**妙手仁心II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝醫務](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[邵美琪及](../Page/邵美琪.md "wikilink")[陳慧珊領銜主演](../Page/陳慧珊.md "wikilink")，由[曹永廉](../Page/曹永廉.md "wikilink")、[陳潔儀](../Page/陳潔儀_\(新加坡\).md "wikilink")、[唐文龍及](../Page/唐文龍.md "wikilink")[袁彩雲聯合主演](https://zh.wikipedia.org/wiki/袁彩雲 "wikilink")，並由[馬浚偉](../Page/馬浚偉.md "wikilink")、[蔡少芬及](../Page/蔡少芬.md "wikilink")[鄧萃雯特別演出](../Page/鄧萃雯.md "wikilink")，監製為[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第二輯，**33周年台慶劇**。
 
 此劇于2003年10月10日、2007年9月4日在[翡翠台](../Page/翡翠台.md "wikilink")，2014年6月在[TVB經典台](../Page/TVB經典台.md "wikilink")，2016年1月2日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")，2017年4月15日再次在[翡翠台重播](../Page/翡翠台.md "wikilink")。
 
@@ -8,7 +8,7 @@
 自唐姿禮（[蔡少芬飾](../Page/蔡少芬.md "wikilink")）昏迷後
 ，程至美（[吳啟華飾](../Page/吳啟華.md "wikilink")）一直在病床守候。至美對感情的執著深深吸引著同院另一名醫生何心妍（[蒙嘉慧飾](../Page/蒙嘉慧.md "wikilink")）。心妍是富家女，跟同樣出身豪門的風流醫生林敏智（[陳豪飾](../Page/陳豪.md "wikilink")）本是戀人，但至美的出現使她認識到什麼才是細水長流的愛情。
 
-自從江滿月（[蘇永康飾](../Page/蘇永康.md "wikilink")）愛滋病發辭世後，其姊江新月（[陳慧珊飾](../Page/陳慧珊.md "wikilink")）大受打擊，黎國柱（[林保怡飾](../Page/林保怡.md "wikilink")）從旁安慰，二人情苗得以滋長。正當大家都以為他倆能開花結果之際，國柱又再受考驗。他和助手阮朗平（[陳潔儀飾](../Page/陳潔儀.md "wikilink")）日夕相對，二人最終經不起誘惑，背著新月發展另一段感情。後來朗平對新月感萬分歉疚，寧願獨自離開香港。不久，遠方傳來朗平懷孕的消息，國柱知道後即推測自己就是孩子的父親，情急下向新月自揭偷情真相。
+自從江滿月（[蘇永康飾](../Page/蘇永康.md "wikilink")）愛滋病發辭世後，其姊江新月（[陳慧珊飾](../Page/陳慧珊.md "wikilink")）大受打擊，黎國柱（[林保怡飾](../Page/林保怡.md "wikilink")）從旁安慰，二人情苗得以滋長。正當大家都以為他倆能開花結果之際，國柱又再受考驗。他和助手阮朗平（[陳潔儀飾](https://zh.wikipedia.org/wiki/陳潔儀 "wikilink")）日夕相對，二人最終經不起誘惑，背著新月發展另一段感情。後來朗平對新月感萬分歉疚，寧願獨自離開香港。不久，遠方傳來朗平懷孕的消息，國柱知道後即推測自己就是孩子的父親，情急下向新月自揭偷情真相。
 
 ## 演員表
 
@@ -33,7 +33,7 @@
 藍田之暗戀對象</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳琼.md" title="wikilink">黃鳳-{琼}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳-{琼}-</a></p></td>
 <td><p>Yvonne</p></td>
 <td><p>醫院公關</p></td>
 </tr>
@@ -53,7 +53,7 @@
 <td><p><strong><a href="../Page/林保怡.md" title="wikilink">林保怡</a></strong></p></td>
 <td><p><strong>黎國柱</strong></p></td>
 <td><p><strong>Henry</strong><br />
-<a href="../Page/急診室.md" title="wikilink">急診室主診醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/急診室" title="wikilink">急診室主診醫生</a><br />
 筆名<strong>清風</strong><br />
 江新月之男友<br />
 程至美之好友<br />
@@ -84,7 +84,7 @@
 於第36集回港，並代替黎國柱</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>Janet</p></td>
 <td><p>急診室護士</p></td>
 </tr>
@@ -94,7 +94,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王少萍.md" title="wikilink">王少萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王少萍" title="wikilink">王少萍</a></p></td>
 <td><p>Jenny</p></td>
 <td></td>
 </tr>
@@ -119,7 +119,7 @@
 <td><p><strong><a href="../Page/吳啟華.md" title="wikilink">吳啟華</a></strong></p></td>
 <td><p><strong>程至美</strong></p></td>
 <td><p><strong>Paul</strong><br />
-<a href="../Page/腦外科.md" title="wikilink">腦外科高級醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/腦外科" title="wikilink">腦外科高級醫生</a><br />
 何心妍之男友<br />
 唐姿禮之男友<br />
 黎國柱、江新月之好友<br />
@@ -129,12 +129,12 @@
 <td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
 <td><p><strong>何心妍</strong></p></td>
 <td><p><strong>Tracy</strong><br />
-全<a href="../Page/外科.md" title="wikilink">外科醫生</a><br />
+全<a href="https://zh.wikipedia.org/wiki/外科" title="wikilink">外科醫生</a><br />
 何守仁之女<br />
 何志泓之妹<br />
 程至美之女友<br />
 林敏智之女友，後分手<br />
-罹患有<a href="../Page/癲癇症.md" title="wikilink">癲癇症</a></p></td>
+罹患有<a href="https://zh.wikipedia.org/wiki/癲癇症" title="wikilink">癲癇症</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/陳豪.md" title="wikilink">陳　豪</a></strong></p></td>
@@ -148,7 +148,7 @@
 <td><p><strong><a href="../Page/邵美琪.md" title="wikilink">邵美琪</a></strong></p></td>
 <td><p><strong>萬安生</strong></p></td>
 <td><p><strong>Anson</strong><br />
-<a href="../Page/婦產科.md" title="wikilink">婦產科主診醫生</a><br />
+<a href="https://zh.wikipedia.org/wiki/婦產科" title="wikilink">婦產科主診醫生</a><br />
 萬寧生之姊<br />
 向眾仁之女友</p></td>
 </tr>
@@ -166,17 +166,17 @@
 <tr class="even">
 <td><p><a href="../Page/梁健平.md" title="wikilink">梁健平</a></p></td>
 <td><p>張醫生</p></td>
-<td><p>全<a href="../Page/內科.md" title="wikilink">內科醫生</a></p></td>
+<td><p>全<a href="https://zh.wikipedia.org/wiki/內科" title="wikilink">內科醫生</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴少民.md" title="wikilink">戴少民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
 <td><p>黎彼得</p></td>
 <td><p><strong>Peter</strong><br />
 <a href="../Page/麻醉科醫師.md" title="wikilink">麻醉科醫生</a><br />
 喜歡呂琦</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/袁彩雲.md" title="wikilink">袁彩雲</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/袁彩雲" title="wikilink">袁彩雲</a></strong></p></td>
 <td><p><strong>萬寧生</strong></p></td>
 <td><p><strong>Suki</strong><br />
 實習醫生<br />
@@ -186,7 +186,7 @@
 於第35集搶救後去世</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾曉瑩.md" title="wikilink">鍾曉瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾曉瑩" title="wikilink">鍾曉瑩</a></p></td>
 <td><p>高美婷</p></td>
 <td><p>實習醫生<br />
 何心妍之下屬</p></td>
@@ -225,7 +225,7 @@
 南之女友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅楚卉.md" title="wikilink">傅楚卉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅楚卉" title="wikilink">傅楚卉</a></p></td>
 <td><p>簡和平</p></td>
 <td><p><strong>Peace</strong><br />
 護士，於第31集辭職<br />
@@ -233,7 +233,7 @@
 Johnson之女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡慧敏.md" title="wikilink">蔡慧敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡慧敏" title="wikilink">蔡慧敏</a></p></td>
 <td><p>呂　琦</p></td>
 <td><p>護士<br />
 輝之女友<br />
@@ -245,7 +245,7 @@ Johnson之女友</p></td>
 <td><p>護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/畢楚筠.md" title="wikilink">畢楚筠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/畢楚筠" title="wikilink">畢楚筠</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -255,12 +255,12 @@ Johnson之女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何志祥.md" title="wikilink">何志祥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何志祥" title="wikilink">何志祥</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/盧永匡.md" title="wikilink">盧永匡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧永匡" title="wikilink">盧永匡</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -284,22 +284,22 @@ Johnson之女友</p></td>
 羅孝齊之女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳楚翹.md" title="wikilink">陳楚翹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳楚翹" title="wikilink">陳楚翹</a></p></td>
 <td><p>Candy</p></td>
 <td><p>羅孝齊之秘書</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林影紅.md" title="wikilink">林影紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林影紅" title="wikilink">林影紅</a></p></td>
 <td><p>Anna</p></td>
 <td><p>程至美之祕書</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>楊其星</p></td>
 <td><p>救護員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉志清.md" title="wikilink">劉志清</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉志清" title="wikilink">劉志清</a></p></td>
 <td><p>劉永祥</p></td>
 <td></td>
 </tr>
@@ -360,7 +360,7 @@ Johnson之女友</p></td>
 <td><p><strong><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a></strong></p></td>
 <td><p><strong>徐嘉詠</strong></p></td>
 <td><p>程至美之初戀情人<br />
-患有<a href="../Page/骨癌.md" title="wikilink">骨癌</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/骨癌" title="wikilink">骨癌</a><br />
 於第16集去世</p></td>
 </tr>
 <tr class="even">
@@ -407,7 +407,7 @@ Johnson之女友</p></td>
 <td><p>徐嘉詠之丈夫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林小湛.md" title="wikilink">林小湛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林小湛" title="wikilink">林小湛</a></p></td>
 <td><p>丁　紅</p></td>
 <td><p>向眾仁之母</p></td>
 </tr>
@@ -423,7 +423,7 @@ Johnson之女友</p></td>
 曾譚勇明之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/伍濼文.md" title="wikilink">伍濼文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍濼文" title="wikilink">伍濼文</a></p></td>
 <td><p>瑤　瑤</p></td>
 <td></td>
 </tr>
@@ -431,10 +431,10 @@ Johnson之女友</p></td>
 <td><p><a href="../Page/李日昇.md" title="wikilink">李日昇</a></p></td>
 <td><p>佳　佳</p></td>
 <td><p>李伊華之子<br />
-曾患有<a href="../Page/腎病.md" title="wikilink">腎病</a></p></td>
+曾患有<a href="https://zh.wikipedia.org/wiki/腎病" title="wikilink">腎病</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊明_(香港).md" title="wikilink">楊　明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊明_(香港)" title="wikilink">楊　明</a></p></td>
 <td><p>高　樂</p></td>
 <td><p>萬安生之前男友</p></td>
 </tr>
@@ -444,13 +444,13 @@ Johnson之女友</p></td>
 <td><p>呂琦男友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蒲茗藍.md" title="wikilink">蒲茗藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲茗藍" title="wikilink">蒲茗藍</a></p></td>
 <td><p>羅孝忠</p></td>
 <td><p><strong>James</strong><br />
 羅孝齊同父異母之弟</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/包駿寅.md" title="wikilink">包駿寅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/包駿寅" title="wikilink">包駿寅</a></p></td>
 <td><p>林祖陽</p></td>
 <td><p><strong>Joe</strong><br />
 林敏智之子</p></td>
@@ -471,7 +471,7 @@ Johnson之女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃振威.md" title="wikilink">黃振威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃振威" title="wikilink">黃振威</a></p></td>
 <td></td>
 <td><p>急診室軍裝警員</p></td>
 </tr>
@@ -481,12 +481,12 @@ Johnson之女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>沈　偉</p></td>
 <td><p>第一集車禍女死者丈夫</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧建邦.md" title="wikilink">鄧建邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧建邦" title="wikilink">鄧建邦</a></p></td>
 <td><p>強</p></td>
 <td><p>第一集車禍孕婦之丈夫</p></td>
 </tr>
@@ -507,7 +507,7 @@ Johnson之女友</p></td>
 患上紅斑狼瘡症</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/官仲銘.md" title="wikilink">官仲銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/官仲銘" title="wikilink">官仲銘</a></p></td>
 <td></td>
 <td><p>犯人</p></td>
 </tr>
@@ -517,13 +517,13 @@ Johnson之女友</p></td>
 <td><p>滑水教練</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳亦謙.md" title="wikilink">吳亦謙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳亦謙" title="wikilink">吳亦謙</a></p></td>
 <td><p>基　基</p></td>
 <td><p>阮朗平之好友<br />
 於第12集燒炭自殺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/凌漢.md" title="wikilink">凌　漢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌漢" title="wikilink">凌　漢</a></p></td>
 <td><p>何燦祥</p></td>
 <td><p>癌症病人</p></td>
 </tr>
@@ -533,7 +533,7 @@ Johnson之女友</p></td>
 <td><p>萬安生之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>Witson</p></td>
 <td><p>柏金遜病人</p></td>
 </tr>
@@ -543,7 +543,7 @@ Johnson之女友</p></td>
 <td><p>何家管家</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周凱珊.md" title="wikilink">周凱珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凱珊" title="wikilink">周凱珊</a></p></td>
 <td><p>Pauline Chan</p></td>
 <td><p>保險經紀<br />
 與林敏智發生性關係</p></td>
@@ -555,30 +555,30 @@ Johnson之女友</p></td>
 於誕下嬰兒後失蹤</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭美嫦.md" title="wikilink">彭美嫦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭美嫦" title="wikilink">彭美嫦</a></p></td>
 <td></td>
 <td><p>病人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李厚賢.md" title="wikilink">李厚賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李厚賢" title="wikilink">李厚賢</a></p></td>
 <td><p>光　仔</p></td>
 <td><p>被Sam性侵犯導致肛門撕裂</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/David.md" title="wikilink">David</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/David" title="wikilink">David</a></p></td>
 <td><p>Sam</p></td>
 <td><p>富家子<br />
 先後性侵犯光仔及Michelle<br />
 於第4集被Michelle控告強姦，後無罪釋放</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Odavaa.md" title="wikilink">Odavaa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Odavaa" title="wikilink">Odavaa</a></p></td>
 <td><p>Michelle</p></td>
 <td><p>酒吧兼職侍應<br />
 被Sam性侵犯導致陰道及肛門撕裂，後控告Sam</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃蘊妍.md" title="wikilink">黃蘊妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃蘊妍" title="wikilink">黃蘊妍</a></p></td>
 <td></td>
 <td><p>保險經紀</p></td>
 </tr>
@@ -593,27 +593,27 @@ Johnson之女友</p></td>
 <td><p>張阿妹之女</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許思敏.md" title="wikilink">許思敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許思敏" title="wikilink">許思敏</a></p></td>
 <td></td>
 <td><p>病人家屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周暘.md" title="wikilink">周　暘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周暘" title="wikilink">周　暘</a></p></td>
 <td><p>David</p></td>
 <td><p>曾與何心妍約會</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉恩捷.md" title="wikilink">劉恩捷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉恩捷" title="wikilink">劉恩捷</a></p></td>
 <td><p>Amy</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td></td>
 <td><p>侍應</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭凱琳.md" title="wikilink">鄭凱琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭凱琳" title="wikilink">鄭凱琳</a></p></td>
 <td><p>顧妙芬</p></td>
 <td><p>未成年少女<br />
 於第7集誕下嬰兒後將其拋棄，後被控謀殺</p></td>
@@ -644,7 +644,7 @@ Johnson之女友</p></td>
 <td><p>律師樓職員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡芳齡.md" title="wikilink">胡芳齡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡芳齡" title="wikilink">胡芳齡</a></p></td>
 <td><p>婆　婆</p></td>
 <td><p>於洗手間遭一女子打劫，後被藍田救回</p></td>
 </tr>
@@ -659,22 +659,22 @@ Johnson之女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/譚權輝.md" title="wikilink">譚權輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚權輝" title="wikilink">譚權輝</a></p></td>
 <td></td>
 <td><p>病人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顏頌詩.md" title="wikilink">顏頌詩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏頌詩" title="wikilink">顏頌詩</a></p></td>
 <td></td>
 <td><p>牙醫診所護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾玉娟.md" title="wikilink">曾玉娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾玉娟" title="wikilink">曾玉娟</a></p></td>
 <td></td>
 <td><p>病人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳秀茹.md" title="wikilink">陳秀茹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳秀茹" title="wikilink">陳秀茹</a></p></td>
 <td><p>CoCo</p></td>
 <td><p>痴戀黎國柱<br />
 患有精神病<br />
@@ -686,44 +686,44 @@ Johnson之女友</p></td>
 <td><p>男病人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭皓峰.md" title="wikilink">彭國樑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭皓峰" title="wikilink">彭國樑</a></p></td>
 <td><p>藍　興</p></td>
 <td><p>藍田之兄<br />
 於第10集被揭發於體內藏毒</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭美嫦.md" title="wikilink">彭美嫦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭美嫦" title="wikilink">彭美嫦</a></p></td>
 <td><p>張議員</p></td>
 <td><p>許珮英以前教過的學生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>Joe</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td></td>
 <td><p>醉漢<br />
 與藍田發生一夜情</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/呂沛霖.md" title="wikilink">呂沛霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂沛霖" title="wikilink">呂沛霖</a></p></td>
 <td></td>
 <td><p>病人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方傑_(演員).md" title="wikilink">方　傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方傑_(演員)" title="wikilink">方　傑</a></p></td>
 <td><p>Simon</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡烱龍.md" title="wikilink">胡烱龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡烱龍" title="wikilink">胡烱龍</a></p></td>
 <td><p>陳先生</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王冠忠.md" title="wikilink">王冠忠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王冠忠" title="wikilink">王冠忠</a></p></td>
 <td><p>何先生</p></td>
 <td></td>
 </tr>
@@ -737,7 +737,7 @@ Johnson之女友</p></td>
 
 ## 記事
 
-  - 2000年7月31日：此劇在[清水灣](../Page/清水灣.md "wikilink")[電視城舉行試造型記者會](../Page/電視城.md "wikilink")。\[1\]
+  - 2000年7月31日：此劇在[清水灣](https://zh.wikipedia.org/wiki/清水灣 "wikilink")[電視城舉行試造型記者會](../Page/電視城.md "wikilink")。\[1\]
 
 ## 參考資料
 

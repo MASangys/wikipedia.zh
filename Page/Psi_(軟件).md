@@ -1,29 +1,29 @@
-**Psi**是一款[Jabber](../Page/Jabber.md "wikilink")（[XMPP](../Page/XMPP.md "wikilink")）网络协议的即时通讯软件，使用了[Qt函式庫](../Page/Qt.md "wikilink")，遵照[GNU
-GPL进行发布](../Page/GNU_GPL.md "wikilink")，可以在多種操作系统下运行，比如[GNU/Linux](../Page/GNU/Linux.md "wikilink")、[MS
-Windows](../Page/MS_Windows.md "wikilink")、[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")。
+**Psi**是一款[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")（[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")）网络协议的即时通讯软件，使用了[Qt函式庫](../Page/Qt.md "wikilink")，遵照[GNU
+GPL进行发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，可以在多種操作系统下运行，比如[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[MS
+Windows](https://zh.wikipedia.org/wiki/MS_Windows "wikilink")、[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
-Psi读作"sigh"，单词psynergy的缩写。Psi也是[希腊字母](../Page/希腊字母.md "wikilink")[Ψ](../Page/Ψ.md "wikilink")，故Psi将这个希腊字母作为标志。
+Psi读作"sigh"，单词psynergy的缩写。Psi也是[希腊字母](../Page/希腊字母.md "wikilink")[Ψ](https://zh.wikipedia.org/wiki/Ψ "wikilink")，故Psi将这个希腊字母作为标志。
 
 ## 目标
 
-Psi项目的目标是建立一个功能强大、易于使用的[Jabber](../Page/Jabber.md "wikilink")／XMPP客户端，并且要严格遵照XMPP草案以及Jabber
+Psi项目的目标是建立一个功能强大、易于使用的[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")／XMPP客户端，并且要严格遵照XMPP草案以及Jabber
 JEPs。这就意味着只有被Jabber社区接受的功能，Psi才可能加以实现。这样一来，不管对于最终用户还是开发者而言，Psi都保持了良好的稳定性能。
 
 ## 功能
 
-  - 采用[Unicode编码](../Page/Unicode.md "wikilink")，界面已经有18种语言，包括[简体中文](../Page/简体中文.md "wikilink")
-  - 支持[HTTP](../Page/HTTP.md "wikilink")、[SOCKS
-    5代理](../Page/SOCKS_5.md "wikilink")
+  - 采用[Unicode编码](https://zh.wikipedia.org/wiki/Unicode "wikilink")，界面已经有18种语言，包括[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")
+  - 支持[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[SOCKS
+    5代理](https://zh.wikipedia.org/wiki/SOCKS_5 "wikilink")
   - 两种加密方式：
   - \#两点加密，采用[GnuPG](../Page/GnuPG.md "wikilink")
-  - \#客户端到服务器加密，采用[SSL/TLS](../Page/SSL/TLS.md "wikilink")
+  - \#客户端到服务器加密，采用[SSL/TLS](https://zh.wikipedia.org/wiki/SSL/TLS "wikilink")
   - 分页式的聊天窗口
   - 可进行文件传输
   - 除了直接用[Google
     Talk账户聊天](../Page/Google_Talk.md "wikilink")，还可通过关口（Gateways，即transports），即经一些[服务器](https://web.archive.org/web/20060404220537/http://www.imfederation.com/networks.html)，来[实现](https://web.archive.org/web/20060624172658/http://www.blogcn.com/User1/hbydlxl/blog/29200808.html)与其他即时通讯软件用户交流，比如[MSN
-    Messenger](../Page/MSN_Messenger.md "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[Yahoo\!
-    Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[AIM等](../Page/AIM.md "wikilink")。
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[Yahoo\!
+    Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[AIM等](https://zh.wikipedia.org/wiki/AIM "wikilink")。
   - 可自定义图标集，包括系统图标集、状态图标集、表情图标集。
   - 支持多种快捷键
   - 可群组聊天

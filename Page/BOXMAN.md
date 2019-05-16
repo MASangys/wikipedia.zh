@@ -1,5 +1,5 @@
 [Boxman.jpg](https://zh.wikipedia.org/wiki/File:Boxman.jpg "fig:Boxman.jpg")
-《**BOXMAN**》(BOXMAN:)為[日本](../Page/日本.md "wikilink")[寶塚歌劇團的原創兩幕](../Page/寶塚歌劇團.md "wikilink")[音樂劇](../Page/音樂劇.md "wikilink")，由正塚晴彥編劇及[導演](../Page/導演.md "wikilink")，於2004年3月由宙組演出。該組當時的主演搭檔[和央ようか及](../Page/和央ようか.md "wikilink")亦憑該劇奪得該年度（第29屇）菊田一夫演劇賞。
+《**BOXMAN**》(BOXMAN:)為[日本](../Page/日本.md "wikilink")[寶塚歌劇團的原創兩幕](../Page/寶塚歌劇團.md "wikilink")[音樂劇](../Page/音樂劇.md "wikilink")，由正塚晴彥編劇及[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，於2004年3月由宙組演出。該組當時的主演搭檔[和央ようか及](https://zh.wikipedia.org/wiki/和央ようか "wikilink")亦憑該劇奪得該年度（第29屇）菊田一夫演劇賞。
 
 此劇的背景是1960年代的美國，所以採用音樂多是爵士樂及大樂隊。
 
@@ -9,7 +9,7 @@
     本劇主人翁，也是傳說之中可以攻破任何一種保險庫的Boxman。故事中為一專門製造保險庫的小公司【保險庫工業】的職員。不過其僱主及同事對他的過去及背景不甚清楚
     - 和央ようか
   - 多妮·柏治(Dolly
-    Page)：【保險庫工業】的[推銷員](../Page/推銷員.md "wikilink")，凱文的工作拍擋。－　
+    Page)：【保險庫工業】的[推銷員](https://zh.wikipedia.org/wiki/推銷員 "wikilink")，凱文的工作拍擋。－　
   - 范文(Farman)：【保險庫工業】的老闆　－　美鄉真也
   - 羅渣(Roger): 【保險庫工業】的技術發展主任　－　
   - 羅斯福(Roosevelt)：羅渣的助手　－

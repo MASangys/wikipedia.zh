@@ -1,6 +1,6 @@
 [Phylloquinone_structure.svg](https://zh.wikipedia.org/wiki/File:Phylloquinone_structure.svg "fig:Phylloquinone_structure.svg")
 [Menaquinone.svg](https://zh.wikipedia.org/wiki/File:Menaquinone.svg "fig:Menaquinone.svg")
-**維生素K**是指具[萘醌基的衍生物](../Page/萘醌基.md "wikilink")2-甲萘醌，是人類的[維生素](../Page/維生素.md "wikilink")，具[疏水性](../Page/疏水性.md "wikilink")。它是一些特定[蛋白質轉譯後所必需的](../Page/蛋白質.md "wikilink")，尤其是血液凝固中必備的蛋白質。維生素K<sub>2</sub>（甲萘醌(Menaquinone)和四烯甲萘醌(Menatetrenone)）通常在動物[腸中由](../Page/腸.md "wikilink")[細菌製造](../Page/細菌.md "wikilink")，因此缺乏維生素K是極為罕見的，除非腸道有嚴重損傷。除天然的维生素K<sub>1</sub>、K<sub>2</sub>外，亦有人工合成的维生素K<sub>3</sub>、K<sub>4</sub>。
+**維生素K**是指具[萘醌基的衍生物](https://zh.wikipedia.org/wiki/萘醌基 "wikilink")2-甲萘醌，是人類的[維生素](https://zh.wikipedia.org/wiki/維生素 "wikilink")，具[疏水性](../Page/疏水性.md "wikilink")。它是一些特定[蛋白質轉譯後所必需的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，尤其是血液凝固中必備的蛋白質。維生素K<sub>2</sub>（甲萘醌(Menaquinone)和四烯甲萘醌(Menatetrenone)）通常在動物[腸中由](https://zh.wikipedia.org/wiki/腸 "wikilink")[細菌製造](https://zh.wikipedia.org/wiki/細菌 "wikilink")，因此缺乏維生素K是極為罕見的，除非腸道有嚴重損傷。除天然的维生素K<sub>1</sub>、K<sub>2</sub>外，亦有人工合成的维生素K<sub>3</sub>、K<sub>4</sub>。
 
 ## 物理性质
 
@@ -27,18 +27,18 @@
 
 ## 生理學
 
-維生素K參與某特定的蛋白質中的穀氨酸的γ位置的羧化作用，這些[γ-羧基谷氨酸](../Page/γ-羧基谷氨酸.md "wikilink")（縮寫為Gla）參與鈣離子結合，而具
+維生素K參與某特定的蛋白質中的穀氨酸的γ位置的羧化作用，這些[γ-羧基谷氨酸](https://zh.wikipedia.org/wiki/γ-羧基谷氨酸 "wikilink")（縮寫為Gla）參與鈣離子結合，而具
 Gla殘基對活性是必需的蛋白質統稱Gla-蛋白質。目前，有14個人類的Gla-蛋白質被發現，它們參與以下生理作用：
 
   - 调节凝血蛋白质合成
-    凝血（[凝血酶原](../Page/凝血酶原.md "wikilink")(FactorⅡ)，凝血因子Ⅶ、Ⅸ、Ⅹ，C-蛋白质，S-蛋白质和Z-蛋白质）；
+    凝血（[凝血酶原](https://zh.wikipedia.org/wiki/凝血酶原 "wikilink")(FactorⅡ)，凝血因子Ⅶ、Ⅸ、Ⅹ，C-蛋白质，S-蛋白质和Z-蛋白质）；
   - 钙化组织中维生素K依赖蛋白质 成骨细胞合成3种维生素K依赖Gla蛋白质。骨質新陳代謝；
   - 血管；
   - 在大脑硫脂代谢中可能有作用
 
 ## 疾病中角色
 
-維生素K發生缺乏的原因是由於在腸中吸收被干擾（例如[膽管阻塞](../Page/膽管.md "wikilink")）或由於治療或意外服用維生素K拮抗劑，而因營養缺乏引致維生素K缺乏症是很罕見的。由於維生素K的缺乏而使Gla
+維生素K發生缺乏的原因是由於在腸中吸收被干擾（例如[膽管阻塞](https://zh.wikipedia.org/wiki/膽管 "wikilink")）或由於治療或意外服用維生素K拮抗劑，而因營養缺乏引致維生素K缺乏症是很罕見的。由於維生素K的缺乏而使Gla
 殘基不能或只部分生成，因此Gla蛋白質是不活化。以上提及的三個生理功能缺乏控制也許會導致：不可控制大出血風險、軟骨鈣化和嚴重變形的骨質生長、不可溶的鈣鹽沈積在動脈壁上。
 
 ## 新生兒維生素K缺乏
@@ -64,18 +64,18 @@ Seegers 等在 University of Iowa病理系醫生報導第一個成功以維生�
 
 ## 食物来源
 
-[叶绿醌广泛分布于动物性和植物性食物中](../Page/叶绿醌.md "wikilink")，柑橘类水果含量少于0.1<sub>μ</sub>g/100g，牛奶含量为1<sub>μ</sub>g/100ml，菠菜、甘籃菜含量为400<sub>μ</sub>g/100g。而大对数日常食物中没有[甲萘醌](../Page/甲萘醌.md "wikilink")，它在肝中含量为13<sub>μ</sub>g/100g，某些干酪含2.8<sub>μ</sub>g/100g。维生素K在纳豆中含量较高。\[1\]
+[叶绿醌广泛分布于动物性和植物性食物中](https://zh.wikipedia.org/wiki/叶绿醌 "wikilink")，柑橘类水果含量少于0.1<sub>μ</sub>g/100g，牛奶含量为1<sub>μ</sub>g/100ml，菠菜、甘籃菜含量为400<sub>μ</sub>g/100g。而大对数日常食物中没有[甲萘醌](https://zh.wikipedia.org/wiki/甲萘醌 "wikilink")，它在肝中含量为13<sub>μ</sub>g/100g，某些干酪含2.8<sub>μ</sub>g/100g。维生素K在纳豆中含量较高。\[1\]
 
 ## Gla-蛋白質
 
-現在，人類的Gla蛋白質特性被了解已有一定程度：[凝血因子](../Page/凝血因子.md "wikilink")Ⅱ（凝血酶原）、Ⅶ、Ⅸ和Ⅹ，C和S-[抗凝血蛋白質和以](../Page/抗凝血蛋白質.md "wikilink")[凝血酶為標的Z](../Page/凝血酶.md "wikilink")-蛋白質、[骨钙蛋白](../Page/骨钙蛋白.md "wikilink")（骨Gla蛋白質）、鈣化抑制基質Gla蛋白質（matrix
+現在，人類的Gla蛋白質特性被了解已有一定程度：[凝血因子](https://zh.wikipedia.org/wiki/凝血因子 "wikilink")Ⅱ（凝血酶原）、Ⅶ、Ⅸ和Ⅹ，C和S-[抗凝血蛋白質和以](https://zh.wikipedia.org/wiki/抗凝血蛋白質 "wikilink")[凝血酶為標的Z](../Page/凝血酶.md "wikilink")-蛋白質、[骨钙蛋白](https://zh.wikipedia.org/wiki/骨钙蛋白 "wikilink")（骨Gla蛋白質）、鈣化抑制基質Gla蛋白質（matrix
 gla protein，MGP），細胞生長調控的特殊抑長基因6 蛋白質（Gas6）和當前功能仍未知的穿膜Gla蛋白質。Gas6可能透過活化Axl
 接受器酪氨酸激酶和刺激細胞增生或防止細胞凋亡。在以上為人所知的例子中，Gla殘基的是功能必需的。
 
 現已知Gla蛋白質存在於各種脊椎動物：哺乳動物、鳥、爬行動物和魚。一些澳大利亞蛇毒液便由活化人血凝結的系統。有些情況，活化作用由Gla蛋白質與磷酸質膜結合因此轉化前凝血因子（procoagulant）成活化態。
 
-由無脊椎動物[地紋芋螺](../Page/地紋芋螺.md "wikilink")（Conus
-geographus）產生的Gla蛋白是由[芋螺毒素](../Page/芋螺毒素.md "wikilink")（conantokins）形成。這些蝸牛產生的神經毒素具有富含Gla的肽，而且足以殺害成年人。
+由無脊椎動物[地紋芋螺](https://zh.wikipedia.org/wiki/地紋芋螺 "wikilink")（Conus
+geographus）產生的Gla蛋白是由[芋螺毒素](https://zh.wikipedia.org/wiki/芋螺毒素 "wikilink")（conantokins）形成。這些蝸牛產生的神經毒素具有富含Gla的肽，而且足以殺害成年人。
 
 ## 參考文獻
 

@@ -1,7 +1,7 @@
-為[英語發音的](../Page/英語.md "wikilink") "[SAMPA](../Page/SAMPA.md "wikilink")
-簡明版"。
+為[英語發音的](https://zh.wikipedia.org/wiki/英語 "wikilink")
+"[SAMPA](../Page/SAMPA.md "wikilink") 簡明版"。
 
-請參見[歐洲語言完整發音](../Page/歐洲語言.md "wikilink")[SAMPA表](../Page/SAMPA表.md "wikilink")。
+請參見[歐洲語言完整發音](https://zh.wikipedia.org/wiki/歐洲語言 "wikilink")[SAMPA表](../Page/SAMPA表.md "wikilink")。
 
 <table>
 <tbody>
@@ -107,7 +107,7 @@
 <td><p>SAMPA</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/公认发音.md" title="wikilink">RP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公认发音" title="wikilink">RP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>A:</code></p></td>
@@ -156,7 +156,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>SAMPA: 英語<a href="../Page/雙元音.md" title="wikilink">雙元音</a></p></th>
+<th><p>SAMPA: 英語<a href="https://zh.wikipedia.org/wiki/雙元音" title="wikilink">雙元音</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -164,7 +164,7 @@
 <td><p>SAMPA</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/公认发音.md" title="wikilink">RP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公认发音" title="wikilink">RP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>eI</code></p></td>
@@ -207,24 +207,27 @@
 | `.`                    |
 | `=`                    |
 
-1.  更多的[澳洲英語及](../Page/澳洲英語.md "wikilink")[英格蘭英語之](../Page/英格蘭英語.md "wikilink")[母音討論請參見](../Page/母音.md "wikilink")[Bad-lad分裂](../Page/英語短-A語音史#Bad-lad分裂.md "wikilink")。
+1.  更多的[澳洲英語及](https://zh.wikipedia.org/wiki/澳洲英語 "wikilink")[英格蘭英語之](https://zh.wikipedia.org/wiki/英格蘭英語 "wikilink")[母音討論請參見](https://zh.wikipedia.org/wiki/母音 "wikilink")[Bad-lad分裂](https://zh.wikipedia.org/wiki/英語短-A語音史#Bad-lad分裂 "wikilink")。
 
-2.  更多的[北美英語之母音討論請參見](../Page/北美英語.md "wikilink")[低後舌位音素併合](../Page/低後舌位元音語音史#cot-caught整合.md "wikilink")。
+2.  更多的[北美英語之母音討論請參見](https://zh.wikipedia.org/wiki/北美英語 "wikilink")[低後舌位音素併合](https://zh.wikipedia.org/wiki/低後舌位元音語音史#cot-caught整合 "wikilink")。
 
 ## 參見
 
-  - [單元音](../Page/單元音.md "wikilink")（Monophthong）
-  - [三元音](../Page/三元音.md "wikilink")（triphthong）
-  - [美國英語口音](../Page/美國英語口音.md "wikilink")（GenAm；General American）
-  - [澳洲英語音韻學](../Page/澳洲英語音韻學.md "wikilink")（AuE；Australian English
-    phonology）
-  - [英格蘭英語](../Page/英格蘭英語.md "wikilink")（[English language in
-    England](../Page/:en:English_language_in_England.md "wikilink")）
-  - [低後舌位音位併合](../Page/英語低後舌位元音語音史#cot-caught整合.md "wikilink")（low back
-    merger；cot-caught整合）
-  - [英語低後舌位元音語音史](../Page/英語低後舌位元音語音史.md "wikilink")（Phonological
+  - [單元音](https://zh.wikipedia.org/wiki/單元音 "wikilink")（Monophthong）
+  - [三元音](https://zh.wikipedia.org/wiki/三元音 "wikilink")（triphthong）
+  - [美國英語口音](https://zh.wikipedia.org/wiki/美國英語口音 "wikilink")（GenAm；General
+    American）
+  - [澳洲英語音韻學](https://zh.wikipedia.org/wiki/澳洲英語音韻學 "wikilink")（AuE；Australian
+    English phonology）
+  - [英格蘭英語](https://zh.wikipedia.org/wiki/英格蘭英語 "wikilink")（[English
+    language in
+    England](https://zh.wikipedia.org/wiki/:en:English_language_in_England "wikilink")）
+  - [低後舌位音位併合](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史#cot-caught整合 "wikilink")（low
+    back merger；cot-caught整合）
+  - [英語低後舌位元音語音史](https://zh.wikipedia.org/wiki/英語低後舌位元音語音史 "wikilink")（Phonological
     history of English low back vowels）
-  - [Vocaloid](../Page/Vocaloid.md "wikilink")——V2 及 V3
-    的编辑器在处理英语音源（如[巡音](../Page/巡音.md "wikilink")）时使用此记法
+  - [Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")——V2 及
+    V3
+    的编辑器在处理英语音源（如[巡音](https://zh.wikipedia.org/wiki/巡音 "wikilink")）时使用此记法
 
 [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink")

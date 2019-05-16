@@ -1,4 +1,4 @@
-**Sneaker大賞**（[日文](../Page/日文.md "wikilink")：****）是由[角川書店主辦](../Page/角川書店.md "wikilink")，針對[新人](../Page/新人.md "wikilink")、以[輕小說為主的](../Page/輕小說.md "wikilink")[文學獎](../Page/文學獎.md "wikilink")。該獎每年發表一次，是以委員以合議的方式決定。最早在1996年成立，已經舉辦了十五屆，其中大賞只頒發過五次。
+**Sneaker大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店主辦](../Page/角川書店.md "wikilink")，針對[新人](https://zh.wikipedia.org/wiki/新人 "wikilink")、以[輕小說為主的](../Page/輕小說.md "wikilink")[文學獎](../Page/文學獎.md "wikilink")。該獎每年發表一次，是以委員以合議的方式決定。最早在1996年成立，已經舉辦了十五屆，其中大賞只頒發過五次。
 
 ## 評審委員
 
@@ -7,7 +7,7 @@
 <!-- end list -->
 
   -
-    [藤本ひとみ](../Page/藤本ひとみ.md "wikilink")、[水野良](../Page/水野良.md "wikilink")、[飯田譲治](../Page/飯田譲治.md "wikilink")、[赤堀悟](../Page/赤堀悟.md "wikilink")
+    [藤本ひとみ](https://zh.wikipedia.org/wiki/藤本ひとみ "wikilink")、[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")、[飯田譲治](https://zh.wikipedia.org/wiki/飯田譲治 "wikilink")、[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")
 
 <!-- end list -->
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    [冲方丁](../Page/冲方丁.md "wikilink")、安井健太郎、[杉崎由綺琉](../Page/杉崎由綺琉.md "wikilink")、[でじたろう](../Page/でじたろう.md "wikilink")（[Nitro+](../Page/Nitro+.md "wikilink")）
+    [冲方丁](../Page/冲方丁.md "wikilink")、安井健太郎、[杉崎由綺琉](../Page/杉崎由綺琉.md "wikilink")、[でじたろう](https://zh.wikipedia.org/wiki/でじたろう "wikilink")（[Nitro+](../Page/Nitro+.md "wikilink")）
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    安井健太郎、[岩井恭平](../Page/岩井恭平.md "wikilink")、[THORES柴本](../Page/THORES柴本.md "wikilink")、[竹田青滋](../Page/竹田青滋.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）
+    安井健太郎、[岩井恭平](https://zh.wikipedia.org/wiki/岩井恭平 "wikilink")、[THORES柴本](https://zh.wikipedia.org/wiki/THORES柴本 "wikilink")、[竹田青滋](https://zh.wikipedia.org/wiki/竹田青滋 "wikilink")（[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")）
 
 <!-- end list -->
 
@@ -55,11 +55,11 @@
 （1996年）</p></td>
 <td><p>金賞</p></td>
 <td><p>鬼神草紙 メガロポリス異聞<br />
-（<a href="../Page/ゴッド・クライシス.md" title="wikilink">ゴッド・クライシス</a>）</p></td>
-<td><p><a href="../Page/七尾あきら.md" title="wikilink">七尾あきら</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/ゴッド・クライシス" title="wikilink">ゴッド・クライシス</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/七尾あきら" title="wikilink">七尾あきら</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黒い季節.md" title="wikilink">黒い季節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黒い季節" title="wikilink">黒い季節</a></p></td>
 <td><p><a href="../Page/冲方丁.md" title="wikilink">冲方丁</a></p></td>
 <td></td>
 <td></td>
@@ -74,13 +74,13 @@
 <td><p>第2回<br />
 （1997年）</p></td>
 <td><p>大賞</p></td>
-<td><p><a href="../Page/ジェノサイド・エンジェル_叛逆の神々.md" title="wikilink">ジェノサイド・エンジェル 叛逆の神々</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ジェノサイド・エンジェル_叛逆の神々" title="wikilink">ジェノサイド・エンジェル 叛逆の神々</a></p></td>
 <td><p><a href="../Page/吉田直.md" title="wikilink">吉田直</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>奨励賞</p></td>
 <td><p><em>花の碑</em></p></td>
-<td><p><a href="../Page/友谷蒼.md" title="wikilink">友谷蒼</a>[1]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/友谷蒼" title="wikilink">友谷蒼</a>[1]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -88,14 +88,14 @@
 （1998年）</p></td>
 <td><p>大賞</p></td>
 <td><p>神々の黄昏 ラグナロク<br />
-（<a href="../Page/ラグナロク_(小説).md" title="wikilink">ラグナロク 黒き獣</a>）</p></td>
-<td><p><a href="../Page/安井健太郎.md" title="wikilink">安井健太郎</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/ラグナロク_(小説)" title="wikilink">ラグナロク 黒き獣</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安井健太郎" title="wikilink">安井健太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>金賞</p></td>
 <td><p>常闇の彼<br />
-（<a href="../Page/DARKDAYS.md" title="wikilink">DARKDAYS</a>）</p></td>
-<td><p><a href="../Page/橘恭介.md" title="wikilink">橘恭介</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/DARKDAYS" title="wikilink">DARKDAYS</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘恭介" title="wikilink">橘恭介</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -108,21 +108,21 @@
 <td><p>第4回<br />
 （1999年）</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/トリスメギトス_光の神遺物.md" title="wikilink">トリスメギトス 光の神遺物</a></p></td>
-<td><p><a href="../Page/浜崎達也.md" title="wikilink">浜崎達也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/トリスメギトス_光の神遺物" title="wikilink">トリスメギトス 光の神遺物</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浜崎達也" title="wikilink">浜崎達也</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ダンスインザウィンド<br />
-（<a href="../Page/翔竜伝説.md" title="wikilink">ダンスインザウィンド 翔竜伝説</a>）</p></td>
-<td><p><a href="../Page/岩佐まもる.md" title="wikilink">岩佐まもる</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/翔竜伝説" title="wikilink">ダンスインザウィンド 翔竜伝説</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩佐まもる" title="wikilink">岩佐まもる</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>奨励賞<br />
 読者賞</p></td>
-<td><p><a href="../Page/セレスティアル・フォース.md" title="wikilink">セレスティアル・フォース</a></p></td>
-<td><p><a href="../Page/中川圭士.md" title="wikilink">中川圭士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/セレスティアル・フォース" title="wikilink">セレスティアル・フォース</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中川圭士" title="wikilink">中川圭士</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -130,19 +130,19 @@
 （2000年）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>撃たれなきゃわからない<br />
-（<a href="../Page/ゼロから始めよ_閃光のガンブレイヴ.md" title="wikilink">ゼロから始めよ 閃光のガンブレイヴ</a>）</p></td>
-<td><p><a href="../Page/椎葉周.md" title="wikilink">椎葉周</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/ゼロから始めよ_閃光のガンブレイヴ" title="wikilink">ゼロから始めよ 閃光のガンブレイヴ</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/椎葉周" title="wikilink">椎葉周</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>奨励賞</p></td>
 <td><p>スズ!<br />
-（<a href="../Page/格闘少女スズ.md" title="wikilink">格闘少女スズ</a>）</p></td>
-<td><p><a href="../Page/白石かおる.md" title="wikilink">白石かおる</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/格闘少女スズ" title="wikilink">格闘少女スズ</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白石かおる" title="wikilink">白石かおる</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>特別賞</p></td>
-<td><p><a href="../Page/アース・リバース.md" title="wikilink">アース・リバース</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/アース・リバース" title="wikilink">アース・リバース</a></p></td>
 <td><p><a href="../Page/三雲岳斗.md" title="wikilink">三雲岳斗</a></p></td>
 <td></td>
 </tr>
@@ -151,21 +151,21 @@
 （2001年）</p></td>
 <td><p>金賞</p></td>
 <td><p>アルカディア<br />
-（<a href="../Page/戦略拠点32098_楽園.md" title="wikilink">戦略拠点32098 楽園</a>）</p></td>
-<td><p><a href="../Page/長谷敏司.md" title="wikilink">長谷敏司</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/戦略拠点32098_楽園" title="wikilink">戦略拠点32098 楽園</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長谷敏司" title="wikilink">長谷敏司</a></p></td>
 </tr>
 <tr class="even">
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/明日の夜明け.md" title="wikilink">明日の夜明け</a></p></td>
-<td><p><a href="../Page/時無ゆたか.md" title="wikilink">時無ゆたか</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明日の夜明け" title="wikilink">明日の夜明け</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時無ゆたか" title="wikilink">時無ゆたか</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>奨励賞</p></td>
 <td><p>首無し騎士は月夜に嘲笑う<br />
-（<a href="../Page/デモン・スイーパー_運命を刻まれしモノ.md" title="wikilink">デモン・スイーパー 運命を刻まれしモノ</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/デモン・スイーパー_運命を刻まれしモノ" title="wikilink">デモン・スイーパー 運命を刻まれしモノ</a>）</p></td>
 <td><p>関口としわ<br />
-（<a href="../Page/関口和敏.md" title="wikilink">関口和敏</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/関口和敏" title="wikilink">関口和敏</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -178,14 +178,14 @@
 <tr class="odd">
 <td><p>されど咎人は竜と踊る<br />
 （）</p></td>
-<td><p><a href="../Page/浅井ラボ.md" title="wikilink">浅井ラボ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浅井ラボ" title="wikilink">浅井ラボ</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>魔術都市に吹く赤い風<br />
-（<a href="../Page/マテリアル・クライシス.md" title="wikilink">マテリアル・クライシス</a>）</p></td>
-<td><p><a href="../Page/仁木健.md" title="wikilink">仁木健</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/マテリアル・クライシス" title="wikilink">マテリアル・クライシス</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仁木健" title="wikilink">仁木健</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -201,13 +201,13 @@
 （2004年）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>Type Like Talking<br />
-（<a href="../Page/タイピングハイ!.md" title="wikilink">タイピングハイ!</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/タイピングハイ!" title="wikilink">タイピングハイ!</a>）</p></td>
 <td><p>葉鳴圭<br />
-（<a href="../Page/長森浩平.md" title="wikilink">長森浩平</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/長森浩平" title="wikilink">長森浩平</a>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/タマラセ.md" title="wikilink">タマラセ</a></p></td>
-<td><p><a href="../Page/六塚光.md" title="wikilink">六塚光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/タマラセ" title="wikilink">タマラセ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/六塚光" title="wikilink">六塚光</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -215,7 +215,7 @@
 <td><p>奨励賞</p></td>
 <td><p>彼女の運命譚<br />
 （<a href="../Page/憐_Ren.md" title="wikilink">憐 Ren</a>）</p></td>
-<td><p><a href="../Page/水口敬文.md" title="wikilink">水口敬文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/水口敬文" title="wikilink">水口敬文</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -223,30 +223,30 @@
 （2005年）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>Mind Parasite<br />
-（<a href="../Page/レゾナンス.md" title="wikilink">レゾナンス</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/レゾナンス" title="wikilink">レゾナンス</a>）</p></td>
 <td><p>山原正義<br />
-（<a href="../Page/山原ユキ.md" title="wikilink">山原ユキ</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/山原ユキ" title="wikilink">山原ユキ</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>奨励賞</p></td>
 <td><p>多重人格者世界ポリフォニア<br />
-（<a href="../Page/多重心世界シンフォニックハーツ.md" title="wikilink">多重心世界シンフォニックハーツ</a>）</p></td>
-<td><p><a href="../Page/永森悠哉.md" title="wikilink">永森悠哉</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/多重心世界シンフォニックハーツ" title="wikilink">多重心世界シンフォニックハーツ</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永森悠哉" title="wikilink">永森悠哉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>君等の記号/私のジケン<br />
-（<a href="../Page/マキゾエホリック.md" title="wikilink">マキゾエホリック</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/マキゾエホリック" title="wikilink">マキゾエホリック</a>）</p></td>
 <td><p>東木春<br />
-（<a href="../Page/東亮太.md" title="wikilink">東亮太</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/東亮太" title="wikilink">東亮太</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>イチゴミルクキャンディーな、ひと夏の恋<br />
-（<a href="../Page/イチゴ色禁区.md" title="wikilink">イチゴ色禁区</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/イチゴ色禁区" title="wikilink">イチゴ色禁区</a>）</p></td>
 <td><p>リン<br />
-（<a href="../Page/神崎リン.md" title="wikilink">神崎リン</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/神崎リン" title="wikilink">神崎リン</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -255,19 +255,19 @@
 （2006年）</p></td>
 <td><p>奨励賞</p></td>
 <td><p><em>相克のファトゥム</em></p></td>
-<td><p><a href="../Page/七瀬川夏吉.md" title="wikilink">七瀬川夏吉</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/七瀬川夏吉" title="wikilink">七瀬川夏吉</a>[2]</p></td>
 </tr>
 <tr class="even">
 <td><p><em>グランホッパーを倒せ!</em></p></td>
-<td><p><a href="../Page/いとうのぶき.md" title="wikilink">いとうのぶき</a>[3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/いとうのぶき" title="wikilink">いとうのぶき</a>[3]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>マリオネットラプソディー<br />
-（<a href="../Page/繰り世界のエトランジェ.md" title="wikilink">繰り世界のエトランジェ</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/繰り世界のエトランジェ" title="wikilink">繰り世界のエトランジェ</a>）</p></td>
 <td><p>赤鴉黎<br />
-（<a href="../Page/赤月黎.md" title="wikilink">赤月黎</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/赤月黎" title="wikilink">赤月黎</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -275,7 +275,7 @@
 <td><p>時載りリンネの冒険 -イクリージアスティアーズ-<br />
 （）</p></td>
 <td><p>清野勝彦<br />
-（<a href="../Page/清野静.md" title="wikilink">清野静</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/清野静" title="wikilink">清野静</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -283,16 +283,16 @@
 <td><p>第12回<br />
 （2007年）</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/黒猫の愛読書.md" title="wikilink">黒猫の愛読書</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黒猫の愛読書" title="wikilink">黒猫の愛読書</a></p></td>
 <td><p>藤本柊一<br />
-（<a href="../Page/藤本圭.md" title="wikilink">藤本圭</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/藤本圭" title="wikilink">藤本圭</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>奨励賞</p></td>
 <td><p>3H2A 論理魔術師は深夜の廊下で議論する<br />
-（<a href="../Page/放課後の魔術師.md" title="wikilink">放課後の魔術師</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/放課後の魔術師" title="wikilink">放課後の魔術師</a>）</p></td>
 <td><p>土屋浅就<br />
-（<a href="../Page/土屋つかさ.md" title="wikilink">土屋つかさ</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/土屋つかさ" title="wikilink">土屋つかさ</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -300,13 +300,13 @@
 （2008年）</p></td>
 <td><p>優秀賞</p></td>
 <td><p><em>無限舞台のエキストラ -「流転骨牌（メタフエシス）」の傾向と対策-</em>-<br />
-（<a href="../Page/ガジェット_(小説).md" title="wikilink">ガジェット</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/ガジェット_(小説)" title="wikilink">ガジェット</a>）</p></td>
 <td><p>九重一木</p></td>
 </tr>
 <tr class="even">
 <td><p>奨励賞</p></td>
 <td><p><em>十三歳の郵便法師</em></p></td>
-<td><p><a href="../Page/伏見ひろゆき.md" title="wikilink">伏見ひろゆき</a>[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伏見ひろゆき" title="wikilink">伏見ひろゆき</a>[4]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -315,14 +315,14 @@
 <td><p>大賞</p></td>
 <td><p>SUGAR DARK -Digger&amp;Keeper-<br />
 （）</p></td>
-<td><p><a href="../Page/新井円侍.md" title="wikilink">新井円侍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新井円侍" title="wikilink">新井円侍</a></p></td>
 </tr>
 <tr class="even">
 <td><p>優秀賞</p></td>
 <td><p>ピーチガーデン<br />
 （ピーチガーデン 1.キスキス・ローテーション）</p></td>
 <td><p>ジロ爺ちゃん<br />
-（<a href="../Page/青田八葉.md" title="wikilink">青田八葉</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/青田八葉" title="wikilink">青田八葉</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,22 +349,22 @@
 <td><p>大賞</p></td>
 <td><p>なるたま～あるいは学園パズル<br />
 （）</p></td>
-<td><p><a href="../Page/玩具堂.md" title="wikilink">玩具堂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玩具堂" title="wikilink">玩具堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>優秀賞</p></td>
 <td><p>風景男のカンタータ<br />
 （）</p></td>
 <td><p>秋野裕樹<br />
-（<a href="../Page/耳目口司.md" title="wikilink">耳目口司</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/耳目口司" title="wikilink">耳目口司</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>The Sneaker賞</p></td>
 <td><p>バトルカーニバル・オブ・猿<br />
-（<a href="../Page/ヒマツリ_ガール・ミーツ・火猿.md" title="wikilink">ヒマツリ　ガール・ミーツ・火猿</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/ヒマツリ_ガール・ミーツ・火猿" title="wikilink">ヒマツリ　ガール・ミーツ・火猿</a>）</p></td>
 <td><p>春日部武<br />
-（<a href="../Page/春日部タケル.md" title="wikilink">春日部タケル</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/春日部タケル" title="wikilink">春日部タケル</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -388,9 +388,9 @@
 </tr>
 <tr class="even">
 <td><p>ポリティカル・スクール<br />
-（<a href="../Page/恋は選挙と学園覇権！.md" title="wikilink">恋は選挙と学園覇権！</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/恋は選挙と学園覇権！" title="wikilink">恋は選挙と学園覇権！</a>）</p></td>
 <td><p>足尾毛布<br />
-（<a href="../Page/秋山大事.md" title="wikilink">秋山大事</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/秋山大事" title="wikilink">秋山大事</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -406,12 +406,12 @@
 <td><p>優秀賞</p></td>
 <td><p>她们料理糟糕的100个理由(彼女たちのメシがマズい100の理由）</p></td>
 <td><p>高野文具<br />
-（<a href="../Page/高野小鹿.md" title="wikilink">高野小鹿</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/高野小鹿" title="wikilink">高野小鹿</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>裏ギリ少女</p></td>
 <td><p>榎本中<br />
-（<a href="../Page/川崎中.md" title="wikilink">川崎中</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/川崎中" title="wikilink">川崎中</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -428,11 +428,11 @@
 <td><p>春</p></td>
 <td><p>特別賞</p></td>
 <td><p>エピデミックゲージ<br />
-（<a href="../Page/インヴィジョン・ワールド.md" title="wikilink">インヴィジョン・ワールド</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/インヴィジョン・ワールド" title="wikilink">インヴィジョン・ワールド</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>世界の正しい壊し方<br />
-（<a href="../Page/終焉世界の天災姫,レベリオン.md" title="wikilink">終焉世界の天災姫,レベリオン</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/終焉世界の天災姫,レベリオン" title="wikilink">終焉世界の天災姫,レベリオン</a>）</p></td>
 <td><p>三ノ神龍司</p></td>
 <td></td>
 <td></td>
@@ -454,19 +454,19 @@
 （2013年）</p></td>
 <td><p>春</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/大魔王ジャマ子さんと全人類総勇者.md" title="wikilink">大魔王ジャマ子さんと全人類総勇者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大魔王ジャマ子さんと全人類総勇者" title="wikilink">大魔王ジャマ子さんと全人類総勇者</a></p></td>
 </tr>
 <tr class="even">
 <td><p>特別賞</p></td>
 <td><p>君とリンゴの木の下で<br />
-（<a href="../Page/異界の軍師の救国奇譚.md" title="wikilink">異界の軍師の救国奇譚</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/異界の軍師の救国奇譚" title="wikilink">異界の軍師の救国奇譚</a>）</p></td>
 <td><p>渡邉雅之<br />
-（<a href="../Page/語部マサユキ.md" title="wikilink">語部マサユキ</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/語部マサユキ" title="wikilink">語部マサユキ</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/星降る夜は社畜を殴れ.md" title="wikilink">星降る夜は社畜を殴れ</a></p></td>
-<td><p><a href="../Page/高橋祐一.md" title="wikilink">高橋祐一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星降る夜は社畜を殴れ" title="wikilink">星降る夜は社畜を殴れ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋祐一" title="wikilink">高橋祐一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -474,8 +474,8 @@
 <td><p>秋</p></td>
 <td><p>特別賞</p></td>
 <td><p>リア充×オタク×不良×中二病×痴女 〜犯人は誰だ!?〜<br />
-（<a href="../Page/名探偵×不良×リア充×痴女×決闘者_〜犯人は誰だ!?〜.md" title="wikilink">名探偵×不良×リア充×痴女×決闘者 〜犯人は誰だ!?〜</a>）</p></td>
-<td><p><a href="../Page/天地優雅.md" title="wikilink">天地優雅</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/名探偵×不良×リア充×痴女×決闘者_〜犯人は誰だ!?〜" title="wikilink">名探偵×不良×リア充×痴女×決闘者 〜犯人は誰だ!?〜</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天地優雅" title="wikilink">天地優雅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><del><em>ナインレリック・リベリオン</em></del>（受賞辞退）</p></td>
@@ -489,26 +489,26 @@
 <td><p>春</p></td>
 <td><p>特別賞</p></td>
 <td><p>あれは超高率のモチャ子だよ<br />
-（<a href="../Page/あれは超高率のモチャ子だよ！.md" title="wikilink">あれは超高率のモチャ子だよ！</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/あれは超高率のモチャ子だよ！" title="wikilink">あれは超高率のモチャ子だよ！</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Shall we ダンス部？<br />
-（<a href="../Page/たま高社交ダンス部へようこそ.md" title="wikilink">たま高社交ダンス部へようこそ</a>）</p></td>
-<td><p><a href="../Page/三萩せんや.md" title="wikilink">三萩せんや</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/たま高社交ダンス部へようこそ" title="wikilink">たま高社交ダンス部へようこそ</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三萩せんや" title="wikilink">三萩せんや</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>秋</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/うーちゃんの小箱.md" title="wikilink">うーちゃんの小箱</a></p></td>
-<td><p><a href="../Page/和見俊樹.md" title="wikilink">和見俊樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/うーちゃんの小箱" title="wikilink">うーちゃんの小箱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和見俊樹" title="wikilink">和見俊樹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>特別賞</p></td>
 <td><p>じっと見つめる君は駄天使<br />
-（<a href="../Page/じっと見つめる君は堕天使.md" title="wikilink">じっと見つめる君は堕天使</a>）</p></td>
-<td><p><a href="../Page/にゃお.md" title="wikilink">にゃお</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/じっと見つめる君は堕天使" title="wikilink">じっと見つめる君は堕天使</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/にゃお" title="wikilink">にゃお</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -517,25 +517,25 @@
 <td><p>春</p></td>
 <td><p>優秀賞</p></td>
 <td><p>箒が踊る夜<br />
-（<a href="../Page/いつかの空、君との魔法.md" title="wikilink">いつかの空、君との魔法</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/いつかの空、君との魔法" title="wikilink">いつかの空、君との魔法</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>秋</p></td>
 <td><p>優秀賞</p></td>
-<td><p><a href="../Page/まるで人だな、ルーシー.md" title="wikilink">まるで人だな、ルーシー</a></p></td>
-<td><p><a href="../Page/零真似.md" title="wikilink">零真似</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/まるで人だな、ルーシー" title="wikilink">まるで人だな、ルーシー</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/零真似" title="wikilink">零真似</a></p></td>
 </tr>
 <tr class="even">
 <td><p>特別賞</p></td>
 <td><p>SADSガ好ムハ籠リ猫<br />
-（<a href="../Page/俺色に染めるぼっちエリートのしつけ方.md" title="wikilink">俺色に染めるぼっちエリートのしつけ方</a>）</p></td>
-<td><p><a href="../Page/あまさきみりと.md" title="wikilink">あまさきみりと</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/俺色に染めるぼっちエリートのしつけ方" title="wikilink">俺色に染めるぼっちエリートのしつけ方</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/あまさきみりと" title="wikilink">あまさきみりと</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>悪魔調教師・瑠璃崎蒼音<br />
-（<a href="../Page/エス・エクソシスト.md" title="wikilink">エス・エクソシスト</a>）</p></td>
-<td><p><a href="../Page/霜月セイ.md" title="wikilink">霜月セイ</a></p></td>
+（<a href="https://zh.wikipedia.org/wiki/エス・エクソシスト" title="wikilink">エス・エクソシスト</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霜月セイ" title="wikilink">霜月セイ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -549,12 +549,12 @@
 <tr class="odd">
 <td><p>特別賞</p></td>
 <td><p>クラウは食べることにした</p></td>
-<td><p><a href="../Page/藤井論里.md" title="wikilink">藤井論理</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤井論里" title="wikilink">藤井論理</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Take the Curry train</p></td>
-<td><p><a href="../Page/うさぎやすぽん.md" title="wikilink">うさぎやすぽん</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/うさぎやすぽん" title="wikilink">うさぎやすぽん</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -588,6 +588,6 @@
 4.  獲獎作未出版，後憑《[R-15 歡迎來到天才學園！](../Page/R-15.md "wikilink")》出道。
 5.  獲獎作未出版，後憑《[問題兒童都來自異世界？1
     YES！是兔子叫來的！](../Page/問題兒童都來自異世界？.md "wikilink")》出道。
-6.  獲獎作未出版，後憑《[夜明けの死神](../Page/夜明けの死神.md "wikilink")》與雙月刊雜誌《The
+6.  獲獎作未出版，後憑《[夜明けの死神](https://zh.wikipedia.org/wiki/夜明けの死神 "wikilink")》與雙月刊雜誌《The
     Sneaker》出道。
-7.  獲獎作未出版，後憑《[煌帝のバトルスローネ！](../Page/煌帝のバトルスローネ！.md "wikilink")》出道。
+7.  獲獎作未出版，後憑《[煌帝のバトルスローネ！](https://zh.wikipedia.org/wiki/煌帝のバトルスローネ！ "wikilink")》出道。

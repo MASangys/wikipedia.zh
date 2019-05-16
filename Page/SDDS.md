@@ -6,13 +6,13 @@ Sound**（中譯：新力動態數碼音效），是由[Sony公司針對](../Pag
 
 [Cc25-2006-08-16-SDDS-spk-location.png](https://zh.wikipedia.org/wiki/File:Cc25-2006-08-16-SDDS-spk-location.png "fig:Cc25-2006-08-16-SDDS-spk-location.png")
 SDDS由Semetex
-Corporation（[加州Torrance市](../Page/加州.md "wikilink")）為Sony開發。原定在[史提芬史匹堡作品](../Page/史提芬史匹堡.md "wikilink")《**[鐵鈎船長](../Page/鐵鈎船長.md "wikilink")**》(**Hook**)
-時面世，但最終計劃延期，及直接在1993年6月17日，由[阿諾·史瓦辛格](../Page/阿諾·史瓦辛格.md "wikilink")（Arnold
+Corporation（[加州Torrance市](https://zh.wikipedia.org/wiki/加州 "wikilink")）為Sony開發。原定在[史提芬史匹堡作品](https://zh.wikipedia.org/wiki/史提芬史匹堡 "wikilink")《**[鐵鈎船長](../Page/鐵鈎船長.md "wikilink")**》(**Hook**)
+時面世，但最終計劃延期，及直接在1993年6月17日，由[阿諾·史瓦辛格](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink")（Arnold
 Schwarzenegger）主演的《**幻影英雄**》（"**Last Action
 Hero**"，台譯：**最後魔鬼英雄**）中面世。此後，有超過1,400部的電影影片採用SDDS的音效記錄格式，至於電影院方面，到了1999年初已有6,750家以上的電影院裝設、佈建SDDS的音效播放系統。
 
 SDDS的開發代號為"Green
-Lantern"（[绿灯侠](../Page/绿灯侠.md "wikilink")），名字源於漫畫中的英雄及「魔法燈籠」的舊法則，在[十九世紀後期被形容為放映的影像](../Page/十九世紀.md "wikilink")。至於「綠」，則指使用綠色鐳射光在底片印上8[微米數據位元](../Page/微米.md "wikilink")。
+Lantern"（[绿灯侠](https://zh.wikipedia.org/wiki/绿灯侠 "wikilink")），名字源於漫畫中的英雄及「魔法燈籠」的舊法則，在[十九世紀後期被形容為放映的影像](https://zh.wikipedia.org/wiki/十九世紀 "wikilink")。至於「綠」，則指使用綠色鐳射光在底片印上8[微米數據位元](../Page/微米.md "wikilink")。
 
 SDDS的總設計為Jaye Waas，總光學工程師為Mark Waring，兩人都受聘於Semetex Corporation。
 
@@ -28,14 +28,14 @@ SDDS的開發，由概念直至成功製造聲軌拍攝機，共用了11個月�
 Cinema
 Products）也在2002年將職務告一段落，不過SDDS仍然持續支援多數的主要製片廠，然而新建的電影院中則愈來愈少安裝SDDS系統，此也是不爭的事實。即便如此，SDDS也依然是相當活躍的音效格式，在2005年仍有150部以上的新影片使用SDDS格式，2006年至今為止也已經超過100部，且2005年只有5部影片是真的使用到八個聲道，而2006年目前為止也已有3部使用上八聲道。\[1\]
 
-在西方，大批的戲院拷貝同時印上了SDDS、[DTS及](../Page/DTS.md "wikilink")[杜比數碼數據](../Page/杜比數碼.md "wikilink")（或稱「聲軌」），加上雙聲道光學聲軌。光學聲軌在拷貝中是必需的，因應戲院沒有安裝數碼聲音系統，及當數碼資料出錯時作為後備音訊來源。
+在西方，大批的戲院拷貝同時印上了SDDS、[DTS及](../Page/DTS.md "wikilink")[杜比數碼數據](https://zh.wikipedia.org/wiki/杜比數碼 "wikilink")（或稱「聲軌」），加上雙聲道光學聲軌。光學聲軌在拷貝中是必需的，因應戲院沒有安裝數碼聲音系統，及當數碼資料出錯時作為後備音訊來源。
 
 由於SDDS聲軌放在太近邊緣位置，所以比其他數碼格式更傾向於損毀危險。一旦SDDS出錯，轉用其他數碼格式或光學聲軌，會有"Drop-out"現象。此現象使觀眾察覺到音量轉變、輕微失真等等。
 
 由於延遲推出、隨來的可靠性問題及新器材的缺乏，使SDDS是三種數碼音效格式中最遲推出的。杜比數碼近乎所有拷貝都有印製，及時常唯一格式在獨立或低成本電影中。DTS聲軌也常常包括在主要電影發行中，雖然需要相應DTS音訊CD-ROM未必時常同時供應。
 
   -
-    *相關請參見：[八聲道SDDS電影影片表列](../Page/八聲道SDDS電影影片表列.md "wikilink")（）*
+    *相關請參見：[八聲道SDDS電影影片表列](https://zh.wikipedia.org/wiki/八聲道SDDS電影影片表列 "wikilink")（）*
 
 ## 技術
 

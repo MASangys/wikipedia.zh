@@ -1,33 +1,33 @@
 《**秋葉原@DEEP**》（，ISBN
-4-16-323530-2），是[日本](../Page/日本.md "wikilink")[作家](../Page/作家.md "wikilink")[石田衣良所創作的一部以日本](../Page/石田衣良.md "wikilink")[東京都知名電氣街](../Page/東京都.md "wikilink")[秋葉原為背景的長篇](../Page/秋葉原.md "wikilink")[小說](../Page/小說.md "wikilink")。此小說於2004年連載於《[文藝春秋](../Page/文藝春秋.md "wikilink")》的別冊。並且在2006年6月被改編為[電視劇由](../Page/電視劇.md "wikilink")[TBS播映](../Page/TBS.md "wikilink")；亦改編為[漫畫](../Page/漫畫.md "wikilink")，由執筆，但因人物與小說間的變動太大而在日本有批評的聲浪；[電影版由](../Page/電影.md "wikilink")[源孝志執導](../Page/源孝志.md "wikilink")，於同年9月上映。
+4-16-323530-2），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石田衣良所創作的一部以日本](../Page/石田衣良.md "wikilink")[東京都知名電氣街](../Page/東京都.md "wikilink")[秋葉原為背景的長篇](../Page/秋葉原.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。此小說於2004年連載於《[文藝春秋](../Page/文藝春秋.md "wikilink")》的別冊。並且在2006年6月被改編為[電視劇由](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[TBS播映](../Page/TBS.md "wikilink")；亦改編為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由執筆，但因人物與小說間的變動太大而在日本有批評的聲浪；[電影版由](https://zh.wikipedia.org/wiki/電影 "wikilink")[源孝志執導](https://zh.wikipedia.org/wiki/源孝志 "wikilink")，於同年9月上映。
 
 ## 情節概要
 
-3個常在秋葉原一帶活動的[御宅族](../Page/御宅族.md "wikilink")，由於是某一個[聊天室](../Page/聊天室.md "wikilink")[網站的常客](../Page/網站.md "wikilink")，因而結識。透過該聊天室站長的牽線，又另外有3人加入。這六人各有所專長，但也都各有缺陷。這六人決定合組一家[IT](../Page/IT.md "wikilink")[公司](../Page/公司.md "wikilink")，稱為「秋葉原@DEEP」。起初以接案製作網站獲得收入，後來開始發展一套具有[人工智慧能力的](../Page/人工智慧.md "wikilink")[搜尋引擎](../Page/搜尋引擎.md "wikilink")。這套搜尋引擎經由一名[駐日美軍的](../Page/駐日美軍.md "wikilink")[部落格所披露介紹後](../Page/部落格.md "wikilink")，聲名大噪，使用者增多。但是也引起一家稱為「數位資本」（簡稱「數資」）的大型IT公司注意，該公司起先出了高價欲收購其搜尋引擎，但遭拒絕後開始用各種手段要奪取該搜尋引擎以納入自己的網站。雙方因此展開了一場爭鬥。
+3個常在秋葉原一帶活動的[御宅族](../Page/御宅族.md "wikilink")，由於是某一個[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")[網站的常客](../Page/網站.md "wikilink")，因而結識。透過該聊天室站長的牽線，又另外有3人加入。這六人各有所專長，但也都各有缺陷。這六人決定合組一家[IT](https://zh.wikipedia.org/wiki/IT "wikilink")[公司](../Page/公司.md "wikilink")，稱為「秋葉原@DEEP」。起初以接案製作網站獲得收入，後來開始發展一套具有[人工智慧能力的](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")。這套搜尋引擎經由一名[駐日美軍的](../Page/駐日美軍.md "wikilink")[部落格所披露介紹後](https://zh.wikipedia.org/wiki/部落格 "wikilink")，聲名大噪，使用者增多。但是也引起一家稱為「數位資本」（簡稱「數資」）的大型IT公司注意，該公司起先出了高價欲收購其搜尋引擎，但遭拒絕後開始用各種手段要奪取該搜尋引擎以納入自己的網站。雙方因此展開了一場爭鬥。
 
 ## 小說特點
 
-此部小說較偏向[科幻類小說](../Page/科幻.md "wikilink")，為作者以東京都為題材所寫的作品之一（前作《[池袋西口公園](../Page/池袋西口公園_\(小說\).md "wikilink")》即以[豐島區的](../Page/豐島區.md "wikilink")[池袋為背景](../Page/池袋.md "wikilink")），文中有時會以搜尋引擎為第一人稱視角敘述，將寫出該搜尋引擎的「秋葉原@DEEP」六人稱為「父母」。
+此部小說較偏向[科幻類小說](https://zh.wikipedia.org/wiki/科幻 "wikilink")，為作者以東京都為題材所寫的作品之一（前作《[池袋西口公園](../Page/池袋西口公園_\(小說\).md "wikilink")》即以[豐島區的](../Page/豐島區.md "wikilink")[池袋為背景](../Page/池袋.md "wikilink")），文中有時會以搜尋引擎為第一人稱視角敘述，將寫出該搜尋引擎的「秋葉原@DEEP」六人稱為「父母」。
 
 ## 人物
 
 ### 秋葉原@DEEP公司成員
 
   -
-    <small>以[台灣的木馬文化出版之中譯版小說](../Page/台灣.md "wikilink")（ISBN
+    <small>以[台灣的木馬文化出版之中譯版小說](https://zh.wikipedia.org/wiki/台灣 "wikilink")（ISBN
     986-7475-90-9）譯名為主，括號內為原名以及電視劇版的飾演者。以下人物介紹概以小說內情節為準。</small>
   -
     本名嶋浩志，有很好的寫作能力，但卻有[口吃的毛病](../Page/口吃.md "wikilink")，常需以電腦打字的方式才能順利與人交談。
   -
-    本名宮前定繼，精通[平面設計](../Page/平面設計.md "wikilink")，但有強烈的[潔癖](../Page/潔癖.md "wikilink")，雙手總是要戴上手套。
+    本名宮前定繼，精通[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")，但有強烈的[潔癖](https://zh.wikipedia.org/wiki/潔癖 "wikilink")，雙手總是要戴上手套。
   -
-    本名方南驅，精通[數位音樂](../Page/數位音樂.md "wikilink")，看到閃光物就會[癲癇發作](../Page/癲癇.md "wikilink")，發作時像是[當機一樣一動也不動](../Page/當機.md "wikilink")。
+    本名方南驅，精通[數位音樂](https://zh.wikipedia.org/wiki/數位音樂 "wikilink")，看到閃光物就會[癲癇發作](https://zh.wikipedia.org/wiki/癲癇 "wikilink")，發作時像是[當機一樣一動也不動](https://zh.wikipedia.org/wiki/當機 "wikilink")。
   -
-    精通[格鬥](../Page/格鬥.md "wikilink")，喜好軍服[cosplay](../Page/cosplay.md "wikilink")，在一家叫作「小茜」的cosplay咖啡廳擔任店員。
+    精通[格鬥](https://zh.wikipedia.org/wiki/格鬥 "wikilink")，喜好軍服[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")，在一家叫作「小茜」的cosplay咖啡廳擔任店員。
   -
-    本名清瀨泉虫，因[父親的工作因素](../Page/父親.md "wikilink")，從小就接觸[電腦](../Page/電腦.md "wikilink")，有[程式設計及](../Page/程式設計.md "wikilink")[駭客本領](../Page/駭客.md "wikilink")。
+    本名清瀨泉虫，因[父親的工作因素](../Page/父親.md "wikilink")，從小就接觸[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，有[程式設計及](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[駭客本領](https://zh.wikipedia.org/wiki/駭客 "wikilink")。
   -
-    本名牛久昇，精通[法律](../Page/法律.md "wikilink")，總是穿著同一套西裝。但曾是[隱蔽青年](../Page/隱蔽青年.md "wikilink")，留著如[達摩禪師一樣的長](../Page/達摩禪師.md "wikilink")[鬍子而得名](../Page/鬍子.md "wikilink")。
+    本名牛久昇，精通[法律](../Page/法律.md "wikilink")，總是穿著同一套西裝。但曾是[隱蔽青年](https://zh.wikipedia.org/wiki/隱蔽青年 "wikilink")，留著如[達摩禪師一樣的長](https://zh.wikipedia.org/wiki/達摩禪師 "wikilink")[鬍子而得名](https://zh.wikipedia.org/wiki/鬍子 "wikilink")。
 
 ### 其他人物
 
@@ -36,7 +36,7 @@
 <!-- end list -->
 
   -
-    本名故千川結，聊天室的站長，曾因[藥物濫用數度](../Page/藥物.md "wikilink")[自殺未遂](../Page/自殺.md "wikilink")，但在聊天室內卻有如心理輔導者的角色。在與秋葉原@DEEP六人見面之前一刻因藥物服用過量而死。
+    本名故千川結，聊天室的站長，曾因[藥物濫用數度](https://zh.wikipedia.org/wiki/藥物 "wikilink")[自殺未遂](../Page/自殺.md "wikilink")，但在聊天室內卻有如心理輔導者的角色。在與秋葉原@DEEP六人見面之前一刻因藥物服用過量而死。
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 <!-- end list -->
 
   -
-    是駐日美軍，任務是搜集日本的最新科技資料匯報給[美國](../Page/美國.md "wikilink")，在他的部落格介紹了秋葉原@DEEP的搜尋引擎。
+    是駐日美軍，任務是搜集日本的最新科技資料匯報給[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，在他的部落格介紹了秋葉原@DEEP的搜尋引擎。
 
 <!-- end list -->
 
@@ -72,26 +72,26 @@
 ### 工作人員
 
   - 原作 - [石田衣良](../Page/石田衣良.md "wikilink")
-  - 劇本 - [河原雅彦](../Page/河原雅彦.md "wikilink")、川邊優子
-  - 導演 - [大根仁](../Page/大根仁.md "wikilink")
+  - 劇本 - [河原雅彦](https://zh.wikipedia.org/wiki/河原雅彦 "wikilink")、川邊優子
+  - 導演 - [大根仁](https://zh.wikipedia.org/wiki/大根仁 "wikilink")
   - 製作 -
-    [Geneon](../Page/Geneon.md "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
+    [Geneon](https://zh.wikipedia.org/wiki/Geneon "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")
   - 企劃協力 - 文藝春秋
 
 ### 演員
 
   - 阿頁 - [風間俊介](../Page/風間俊介.md "wikilink")
   - 阿欄 - [生田斗真](../Page/生田斗真.md "wikilink")
-  - 太鼓 - [星野源](../Page/星野源.md "wikilink")
-  - 小光 - [小阪由佳](../Page/小阪由佳.md "wikilink")
-  - 泉虫 - [松嶋初音](../Page/松嶋初音.md "wikilink")
-  - 達磨 - [日村勇紀](../Page/日村勇紀.md "wikilink")
-  - 結衣 - [本上真奈美](../Page/本上真奈美.md "wikilink")
+  - 太鼓 - [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")
+  - 小光 - [小阪由佳](https://zh.wikipedia.org/wiki/小阪由佳 "wikilink")
+  - 泉虫 - [松嶋初音](https://zh.wikipedia.org/wiki/松嶋初音 "wikilink")
+  - 達磨 - [日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")
+  - 結衣 - [本上真奈美](https://zh.wikipedia.org/wiki/本上真奈美 "wikilink")
   - 中込威 - [北村一輝](../Page/北村一輝.md "wikilink")
 
 ## 電影
 
-2006年9月2日由[東映公司在日本發行上映](../Page/東映.md "wikilink")。導演為[源孝志](../Page/源孝志.md "wikilink")。演員包括[成宮寬貴](../Page/成宮寬貴.md "wikilink")、[山田優](../Page/山田優.md "wikilink")、[忍成修吾](../Page/忍成修吾.md "wikilink")、[荒川良良](../Page/荒川良良.md "wikilink")、[三浦春馬](../Page/三浦春馬.md "wikilink")、[佐佐木藏之介](../Page/佐佐木藏之介.md "wikilink")、[萩原聖人等](../Page/萩原聖人.md "wikilink")。
+2006年9月2日由[東映公司在日本發行上映](../Page/東映.md "wikilink")。導演為[源孝志](https://zh.wikipedia.org/wiki/源孝志 "wikilink")。演員包括[成宮寬貴](../Page/成宮寬貴.md "wikilink")、[山田優](../Page/山田優.md "wikilink")、[忍成修吾](../Page/忍成修吾.md "wikilink")、[荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")、[三浦春馬](../Page/三浦春馬.md "wikilink")、[佐佐木藏之介](../Page/佐佐木藏之介.md "wikilink")、[萩原聖人等](../Page/萩原聖人.md "wikilink")。
 
 ## 外部連結
 

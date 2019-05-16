@@ -1,6 +1,6 @@
 “**mebibyte**”是数字信息中的一个字节数单位。前缀“**mebi**”等于2<sup>20</sup>，1
 mebibyte等于1,048,576字节。“**mebibyte**”记作“**MiB**”，\[1\]
-由[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）于1998年制定。这个单位被设计用来某些时候替代**MB**（[megabyte](../Page/megabyte.md "wikilink")），因为在计算机相关内容中MB有可能被用来等于2<sup>20</sup>，虽然数值很相近，但**MiB**与[国际单位制](../Page/国际单位制.md "wikilink")（SI）中的**MB**（10<sup>6</sup>）还是有严格的区别。
+由[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）于1998年制定。这个单位被设计用来某些时候替代**MB**（[megabyte](https://zh.wikipedia.org/wiki/megabyte "wikilink")），因为在计算机相关内容中MB有可能被用来等于2<sup>20</sup>，虽然数值很相近，但**MiB**与[国际单位制](../Page/国际单位制.md "wikilink")（SI）中的**MB**（10<sup>6</sup>）还是有严格的区别。
 
 MiB已经被所有主要的标准组织接受使用，但在真正的计算机工业中使用比较少。\[2\]\[3\]\[4\]\[5\]MB还是经常被当成这个单位在使用，虽然有可能与1,000,000
 bytes搞混。
@@ -8,8 +8,9 @@ bytes搞混。
 ## 定义
 
   -
-    1 MiB = 2<sup>20</sup> [bytes](../Page/byte.md "wikilink") = 1024
-    [kibibytes](../Page/kibibyte.md "wikilink") =
+    1 MiB = 2<sup>20</sup>
+    [bytes](https://zh.wikipedia.org/wiki/byte "wikilink") = 1024
+    [kibibytes](https://zh.wikipedia.org/wiki/kibibyte "wikilink") =
 
 前缀“**mebi**”是一个二进制前缀，从单词“**mega**”和“**binary**”得来，这表明它和它的词源——国际单位制中的“mega”在数值上很接近。1
 MIB等于2<sup>20</sup> bytes\[6\]或1,048,576 bytes，与1MB不同，1MB等于1,000,000
@@ -25,21 +26,21 @@ bytes的文件显示为1MB。\[7\]\[8\]
 在许多年里，MB的混乱使用是众所周知的。比如1.44MB软盘的容量就是使用1MB=1,024,000bytes计算的，结果不是1.47MB
 (1.47x1000X1000)或1.40MiB（1.40x1024x1024）。
 
-前缀“mebi-”由[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）于1998年12月提出。它和其相关单位现在已经被[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")（[IEEE](../Page/IEEE.md "wikilink")）和国际度量衡委员会（[CIPM](../Page/CIPM.md "wikilink")）所支持。
+前缀“mebi-”由[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）于1998年12月提出。它和其相关单位现在已经被[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")（[IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink")）和国际度量衡委员会（[CIPM](https://zh.wikipedia.org/wiki/CIPM "wikilink")）所支持。
 
 在《[计算机程序设计艺术](../Page/计算机程序设计艺术.md "wikilink")》中，[高德纳提出把mebibyte叫作](../Page/高德纳.md "wikilink")“large
 megabyte”（缩写为MMB）。
 
 ## 参考
 
-  - [Megabyte](../Page/Megabyte.md "wikilink")
+  - [Megabyte](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
   - [二进制乘数词头](../Page/二进制乘数词头.md "wikilink")
 
 ## 引用
 
 [de:Byte\#Bedeutungen von Dezimal- und Binärpräfixen für große Anzahlen
 von
-Bytes](../Page/de:Byte#Bedeutungen_von_Dezimal-_und_Binärpräfixen_für_große_Anzahlen_von_Bytes.md "wikilink")
+Bytes](https://zh.wikipedia.org/wiki/de:Byte#Bedeutungen_von_Dezimal-_und_Binärpräfixen_für_große_Anzahlen_von_Bytes "wikilink")
 
 [Category:資訊單位](https://zh.wikipedia.org/wiki/Category:資訊單位 "wikilink")
 

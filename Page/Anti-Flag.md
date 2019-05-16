@@ -1,15 +1,15 @@
 [Antiflag1.jpg](https://zh.wikipedia.org/wiki/File:Antiflag1.jpg "fig:Antiflag1.jpg")
 **Anti-Flag**在1988年由Justin Sane和Pat
-Thetic在他们的家乡[賓夕法尼亞州](../Page/賓夕法尼亞州.md "wikilink")[匹茲堡组成](../Page/匹茲堡.md "wikilink")。
+Thetic在他们的家乡[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[匹茲堡组成](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")。
 
 ## 樂隊介紹
 
-乐队名字体现了两个人在故乡的经历：Justin和Pat在参加当地hardcore演出的时候，经常看到身着印有[美国国旗夹克的演出赞助商高呼](../Page/美国国旗.md "wikilink")“自由不等于[法西斯](../Page/法西斯.md "wikilink")”的口号，然而这些赞助商却会常常参与打击“反对派”的暴力活动。Justin和Pat看到了挥舞的美国国旗，同时也看到一个法西斯式的镇压工具。
+乐队名字体现了两个人在故乡的经历：Justin和Pat在参加当地hardcore演出的时候，经常看到身着印有[美国国旗夹克的演出赞助商高呼](../Page/美国国旗.md "wikilink")“自由不等于[法西斯](https://zh.wikipedia.org/wiki/法西斯 "wikilink")”的口号，然而这些赞助商却会常常参与打击“反对派”的暴力活动。Justin和Pat看到了挥舞的美国国旗，同时也看到一个法西斯式的镇压工具。
 
 ### 1990年代
 
 1993年，由于Andy
-Flag的加入，乐队重新组合，Andy担任当时乐队的[贝司手](../Page/贝司.md "wikilink")。1996年，乐队在New
+Flag的加入，乐队重新组合，Andy担任当时乐队的[贝司手](https://zh.wikipedia.org/wiki/贝司 "wikilink")。1996年，乐队在New
 Red Achives旗下录制了第一张专辑，名为Die For The
 Government。由于Andy和Justin为私人问题的争吵，专辑发布不久后，Andy
 Flag离开了乐队。
@@ -25,7 +25,7 @@ smart to fight. Too smart to kill. Join now. A new kind of army.”字样的海�
 ### 2000年以後
 
 2000年，Anti-Flag应邀参加[Vans Warped
-Tour](../Page/Vans_Warped_Tour.md "wikilink")（极限运动音乐节）。在此期间，乐队成员结识了拥有Fat
+Tour](https://zh.wikipedia.org/wiki/Vans_Warped_Tour "wikilink")（极限运动音乐节）。在此期间，乐队成员结识了拥有Fat
 Wreck Chords录音室的大牌朋克明星Fat Mike（NOFX乐队主唱）。这次邂逅产生的友谊，孕育出Anti-Flag在Fat
 Wreck Chords旗下的两张专辑。
 
@@ -43,7 +43,7 @@ Guthrie作词的歌曲“Post-War
 Breakout”。由于Guthrie从来没有创作过曲，所以谱曲部分由Anti-Flag成员完成。而且，第一版唱片中包括一首名为“Fuck
 the Flag”的附加歌曲。
 
-2004年10月8日，美国[众议员Jim](../Page/众议员.md "wikilink")
+2004年10月8日，美国[众议员Jim](https://zh.wikipedia.org/wiki/众议员 "wikilink")
 Mcdermott在众议院作演讲时赞扬了Anti-Flag，高度评价了乐队为鼓励青年人投票而做出的努力。
 
 2005年Anti-Flag与RCA（BMG公司）录音室签下两张唱片录制的合同。其中的For blood and

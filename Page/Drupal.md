@@ -1,5 +1,5 @@
 **Drupal** 是由Dries
-Buytaert创立的[自由开源](../Page/自由及开放源代码软件.md "wikilink")[內容管理系统](../Page/內容管理系统.md "wikilink")，用[PHP语言写成](../Page/PHP.md "wikilink")。在业界，Drupal常被视为内容管理框架（CMF），而非一般意义上的内容管理系统（CMS）。
+Buytaert创立的[自由开源](../Page/自由及开放源代码软件.md "wikilink")[內容管理系统](https://zh.wikipedia.org/wiki/內容管理系统 "wikilink")，用[PHP语言写成](../Page/PHP.md "wikilink")。在业界，Drupal常被视为内容管理框架（CMF），而非一般意义上的内容管理系统（CMS）。
 
 整套平台把所有內容視為一個「節點」 (node)，背後由大量「模組」 (module) 控制其顯示、修改、排列、分類等方式。這種設計令
 Drupal
@@ -11,7 +11,8 @@ Drupal 雖然配有強大功能，但不少用戶批評其使用介面複雜、�
 版本配合。每次 Drupal 有重大更新時，不少舊的配件未能成功過渡，這也備受诟病。
 
 然而，Drupal 的功能由於極具彈性，而且其運作環境能讓編程人員較易作大幅改動，建立出大量嶄新功能，令其備受歡迎。至2012年9月，全球約有
-2.2% 的網站由 Drupal 製作，佔所有[內容管理系统的](../Page/內容管理系统.md "wikilink")
+2.2% 的網站由 Drupal
+製作，佔所有[內容管理系统的](https://zh.wikipedia.org/wiki/內容管理系统 "wikilink")
 7%。至2019年4月，全球约有 1.9% 的网站由 Drupal
 制作，占所有[内容管理系统的](../Page/内容管理系统.md "wikilink")
 3.4%。\[1\]
@@ -41,7 +42,7 @@ Drupal 社群所作出的貢獻。
 
 ## 运行环境
 
-Drupal可用于[Unix](../Page/Unix.md "wikilink")/[Linux](../Page/Linux.md "wikilink")（推荐）和[Windows操作系统](../Page/Windows.md "wikilink")，并支持部署在[Apache](../Page/Apache.md "wikilink")（推荐）、[Nginx](../Page/Nginx.md "wikilink")、[IIS等](../Page/Internet_Information_Services.md "wikilink")[Web服务器上](../Page/Web服务器.md "wikilink")。支持[MariaDB](../Page/MariaDB.md "wikilink")（推荐）、[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite等数据库](../Page/SQLite.md "wikilink")。
+Drupal可用于[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")/[Linux](../Page/Linux.md "wikilink")（推荐）和[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，并支持部署在[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")（推荐）、[Nginx](../Page/Nginx.md "wikilink")、[IIS等](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")[Web服务器上](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")。支持[MariaDB](../Page/MariaDB.md "wikilink")（推荐）、[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite等数据库](../Page/SQLite.md "wikilink")。
 
 ## 参考文献
 

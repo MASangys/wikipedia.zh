@@ -1,4 +1,4 @@
-本條目列-{出}-[威盛電子推](../Page/威盛電子.md "wikilink")-{出}-的[晶片組](../Page/晶片組.md "wikilink")。
+本條目列-{出}-[威盛電子推](../Page/威盛電子.md "wikilink")-{出}-的[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。
 
 ## 產品列表
 
@@ -16,18 +16,18 @@
 <th><p>支援南橋</p></th>
 <th><p>發布時間</p></th>
 <th><p>處理器支援</p></th>
-<th><p><a href="../Page/front_side_bus.md" title="wikilink">前端匯流排</a></p></th>
-<th><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></th>
 <th><p>記憶體類型</p></th>
 <th><p>記憶體頻寬</p></th>
 <th><p>最大記憶體容量</p></th>
 <th><p>最大快取容量</p></th>
 <th><p>最大快取記憶體</p></th>
-<th><p>支援<a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/<br />
+<th><p>支援<a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/<br />
 ECC</a></p></th>
-<th><p><a href="../Page/Peripheral_Component_Interconnect.md" title="wikilink">PCI配置</a></p></th>
-<th><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP配置</a></p></th>
-<th><p><a href="../Page/Integrated_Graphics_Processor.md" title="wikilink">IGP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect" title="wikilink">PCI配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Integrated_Graphics_Processor" title="wikilink">IGP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -57,7 +57,7 @@ ECC</a></p></th>
 <td><p><a href="../Page/Socket_7.md" title="wikilink">Socket 7</a></p></td>
 <td><p>66 MHz</p></td>
 <td></td>
-<td><p><a href="../Page/Dynamic_random_access_memory.md" title="wikilink">FPM</a> <a href="../Page/Dynamic_random_access_memory.md" title="wikilink">EDO</a> <a href="../Page/Dynamic_random_access_memory.md" title="wikilink">BEDO</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">FPM</a> <a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">EDO</a> <a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">BEDO</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a></p></td>
 <td><p>66 MHz</p></td>
 <td><p>512 MB</p></td>
 <td><p>2 MB</p></td>
@@ -104,7 +104,7 @@ ECC</a></p></th>
 <td><p>No</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Apollo_VP3.md" title="wikilink">Apollo VP3</a>[5][6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apollo_VP3" title="wikilink">Apollo VP3</a>[5][6]</p></td>
 <td><p>VT82C597</p></td>
 <td><p>VT82C586B</p></td>
 <td><p>1997</p></td>
@@ -170,19 +170,19 @@ ECC</a></p></th>
 <th><p>支援南橋</p></th>
 <th><p>發布時間</p></th>
 <th><p>處理器支援</p></th>
-<th><p><a href="../Page/front_side_bus.md" title="wikilink">前端匯流排</a></p></th>
-<th><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></th>
 <th><p>記憶體類型</p></th>
 <th><p>記憶體頻寬</p></th>
 <th><p>最大記憶體容量</p></th>
 <th><p>最大快取容量</p></th>
 <th><p>最大快取記憶體</p></th>
-<th><p>支援<a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/<br />
+<th><p>支援<a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/<br />
 ECC</a></p></th>
-<th><p><a href="../Page/Peripheral_Component_Interconnect.md" title="wikilink">PCI配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect" title="wikilink">PCI配置</a></p></th>
 <th><p>支援V-Link</p></th>
-<th><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP配置</a></p></th>
-<th><p><a href="../Page/Integrated_Graphics_Processor.md" title="wikilink">IGP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Integrated_Graphics_Processor" title="wikilink">IGP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -191,10 +191,10 @@ ECC</a></p></th>
 <td><p>VT82C691, VT82C692BX</p></td>
 <td><p>VT82C586B, VT82C596</p></td>
 <td><p>May 1998</p></td>
-<td><p><a href="../Page/Pentium_III.md" title="wikilink">Pentium III</a>, <a href="../Page/Pentium_II.md" title="wikilink">Pentium II</a>, <a href="../Page/Pentium_Pro.md" title="wikilink">Pentium Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentium_III" title="wikilink">Pentium III</a>, <a href="https://zh.wikipedia.org/wiki/Pentium_II" title="wikilink">Pentium II</a>, <a href="https://zh.wikipedia.org/wiki/Pentium_Pro" title="wikilink">Pentium Pro</a></p></td>
 <td><p>66/100 MHz</p></td>
 <td><p>No</p></td>
-<td><p><a href="../Page/Dynamic_random_access_memory.md" title="wikilink">FPM</a>, <a href="../Page/Dynamic_random_access_memory.md" title="wikilink">EDO</a>, <a href="../Page/Dynamic_random_access_memory.md" title="wikilink">BEDO</a>, PC66/PC100 <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>, <a href="../Page/Synchronous_dynamic_random_access_memory#Virtual_Channel_Memory_(VCM)_SDRAM.md" title="wikilink">VCSDRAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">FPM</a>, <a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">EDO</a>, <a href="https://zh.wikipedia.org/wiki/Dynamic_random_access_memory" title="wikilink">BEDO</a>, PC66/PC100 <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>, <a href="https://zh.wikipedia.org/wiki/Synchronous_dynamic_random_access_memory#Virtual_Channel_Memory_(VCM)_SDRAM" title="wikilink">VCSDRAM</a></p></td>
 <td><p>66/100 MHz</p></td>
 <td><p>1 GB</p></td>
 <td><p>NA</p></td>
@@ -210,7 +210,7 @@ ECC</a></p></th>
 <td><p>VT82C693</p></td>
 <td><p>VT82C586B, VT82C596A/B</p></td>
 <td><p>Dec 1998</p></td>
-<td><p><a href="../Page/Pentium_III.md" title="wikilink">Pentium III</a>, <a href="../Page/Pentium_II.md" title="wikilink">Pentium II</a>, <a href="../Page/Pentium_Pro.md" title="wikilink">Pentium Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentium_III" title="wikilink">Pentium III</a>, <a href="https://zh.wikipedia.org/wiki/Pentium_II" title="wikilink">Pentium II</a>, <a href="https://zh.wikipedia.org/wiki/Pentium_Pro" title="wikilink">Pentium Pro</a></p></td>
 <td><p>66/100 MHz</p></td>
 <td><p>No</p></td>
 <td><p>FPM, EDO, BEDO, PC66/PC100 SDRAM, VCSDRAM</p></td>
@@ -353,7 +353,7 @@ ECC</a></p></th>
 <td><p>NA</p></td>
 <td></td>
 <td><p>2.1</p></td>
-<td><p>266 <a href="../Page/Megabyte.md" title="wikilink">MB</a>/s</p></td>
+<td><p>266 <a href="https://zh.wikipedia.org/wiki/Megabyte" title="wikilink">MB</a>/s</p></td>
 <td><p>4×</p></td>
 <td><p>No</p></td>
 </tr>
@@ -410,15 +410,15 @@ ECC</a></p></th>
 <th><p>支援南橋</p></th>
 <th><p>發布時間</p></th>
 <th><p>處理器支援</p></th>
-<th><p><a href="../Page/front_side_bus.md" title="wikilink">前端匯流排</a></p></th>
-<th><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></th>
 <th><p>記憶體類型</p></th>
 <th><p>記憶體頻寬</p></th>
 <th><p>最大記憶體容量</p></th>
-<th><p>支援<a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/<br />
+<th><p>支援<a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/<br />
 ECC</a></p></th>
 <th><p>支援V-Link</p></th>
-<th><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP配置</a></p></th>
 <th><p>PCI-E配置</p></th>
 </tr>
 </thead>
@@ -532,15 +532,15 @@ ECC</a></p></th>
 <th><p>支援南橋</p></th>
 <th><p>發布時間</p></th>
 <th><p>處理器支援</p></th>
-<th><p><a href="../Page/front_side_bus.md" title="wikilink">前端匯流排</a></p></th>
-<th><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></th>
 <th><p>記憶體類型</p></th>
 <th><p>記憶體頻寬</p></th>
 <th><p>最大記憶體容量</p></th>
-<th><p>支援<a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/<br />
+<th><p>支援<a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/<br />
 ECC</a></p></th>
 <th><p>支援V-Link</p></th>
-<th><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP配置</a></p></th>
 <th><p>PCI-E配置</p></th>
 </tr>
 </thead>
@@ -585,7 +585,7 @@ ECC</a></p></th>
 <td><p>LGA 775/<a href="../Page/Socket_478.md" title="wikilink">Socket 478</a></p></td>
 <td><p>800 MHz</p></td>
 <td></td>
-<td><p><a href="../Page/Dual-channel_architecture.md" title="wikilink">Dual Channel</a> DDR SDRAM</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dual-channel_architecture" title="wikilink">Dual Channel</a> DDR SDRAM</p></td>
 <td><p>266/333/400 MHz</p></td>
 <td><p>4 GB</p></td>
 <td></td>
@@ -766,16 +766,16 @@ ECC</a></p></th>
 <th><p>支援南橋</p></th>
 <th><p>發布時間</p></th>
 <th><p>處理器支援</p></th>
-<th><p><a href="../Page/front_side_bus.md" title="wikilink">前端匯流排</a></p></th>
-<th><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></th>
 <th><p>記憶體類型</p></th>
 <th><p>記憶體頻寬</p></th>
 <th><p>最大記憶體容量</p></th>
-<th><p>支援<a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/<br />
+<th><p>支援<a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/<br />
 ECC</a></p></th>
 <th><p>支援V-Link</p></th>
 <th><p>PCI支援</p></th>
-<th><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP配置</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP配置</a></p></th>
 <th><p>PCI-E配置</p></th>
 <th><p>IGP</p></th>
 <th><p>音效</p></th>
@@ -787,7 +787,7 @@ ECC</a></p></th>
 <td><p>VT</p></td>
 <td><p>(single-chip solution)</p></td>
 <td><p>Jul 2006</p></td>
-<td><p><a href="../Page/VIA_C7-M.md" title="wikilink">VIA C7-M</a>/<a href="../Page/VIA_C7-M_ULV.md" title="wikilink">C7-M ULV</a></p></td>
+<td><p><a href="../Page/VIA_C7-M.md" title="wikilink">VIA C7-M</a>/<a href="https://zh.wikipedia.org/wiki/VIA_C7-M_ULV" title="wikilink">C7-M ULV</a></p></td>
 <td><p>533/400 MHz</p></td>
 <td></td>
 <td><p>DDR2/DDR SDRAM</p></td>
@@ -798,22 +798,22 @@ ECC</a></p></th>
 <td><p>4</p></td>
 <td><p>8×</p></td>
 <td></td>
-<td><p><a href="../Page/S3_Chrome#UniChrome.md" title="wikilink">VIA UniChrome Pro</a></p></td>
-<td><p><a href="../Page/VIA_Vinyl.md" title="wikilink">VIA Vinyl HD Audio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/S3_Chrome#UniChrome" title="wikilink">VIA UniChrome Pro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VIA_Vinyl" title="wikilink">VIA Vinyl HD Audio</a></p></td>
 </tr>
 <tr class="even">
 <td><p>CN700[31]</p></td>
 <td><p>VT</p></td>
 <td><p>VT8237A/VT8251</p></td>
 <td><p>2006</p></td>
-<td><p><a href="../Page/VIA_C7.md" title="wikilink">VIA C7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VIA_C7" title="wikilink">VIA C7</a></p></td>
 <td><p>533/400 MHz</p></td>
 <td></td>
 <td><p>DDR2/DDR SDRAM</p></td>
 <td><p>up to 533 MHz</p></td>
 <td><p>2GB</p></td>
 <td></td>
-<td><p>533<a href="../Page/megabyte.md" title="wikilink">MB</a>/s</p></td>
+<td><p>533<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>/s</p></td>
 <td><p>SB</p></td>
 <td><p>8×</p></td>
 <td></td>
@@ -825,14 +825,14 @@ ECC</a></p></th>
 <td><p>VT</p></td>
 <td><p>VT8237R Plus</p></td>
 <td><p>Nov 2006</p></td>
-<td><p><a href="../Page/VIA_C7.md" title="wikilink">VIA C7</a>/<a href="../Page/VIA_C7-D.md" title="wikilink">C7-D</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VIA_C7" title="wikilink">VIA C7</a>/<a href="../Page/VIA_C7-D.md" title="wikilink">C7-D</a></p></td>
 <td><p>533/400 MHz</p></td>
 <td></td>
 <td><p>DDR2/DDR SDRAM</p></td>
 <td><p>up to 667 MHz</p></td>
 <td><p>4GB</p></td>
 <td></td>
-<td><p>533<a href="../Page/megabyte.md" title="wikilink">MB</a>/s</p></td>
+<td><p>533<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>/s</p></td>
 <td><p>SB</p></td>
 <td><p>8×</p></td>
 <td></td>
@@ -851,7 +851,7 @@ ECC</a></p></th>
 <td><p>up to 667 MHz</p></td>
 <td><p>4GB</p></td>
 <td></td>
-<td><p>533<a href="../Page/megabyte.md" title="wikilink">MB</a>/s</p></td>
+<td><p>533<a href="https://zh.wikipedia.org/wiki/megabyte" title="wikilink">MB</a>/s</p></td>
 <td><p>SB</p></td>
 <td><p>No</p></td>
 <td><p>×16-1<br />
@@ -906,7 +906,7 @@ ECC</a></p></th>
 <td><p>VIA Nano/C7/Eden</p></td>
 <td><p>800/400 MHz</p></td>
 <td></td>
-<td><p>DDR2/<a href="../Page/DDR3.md" title="wikilink">DDR3</a> SDRAM</p></td>
+<td><p>DDR2/<a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a> SDRAM</p></td>
 <td><p>up to 800 MHz</p></td>
 <td><p>4GB</p></td>
 <td></td>
@@ -964,16 +964,16 @@ ECC</a></p></th>
 <td><p>South Bridge</p></td>
 <td><p>Release Date</p></td>
 <td><p>Processors</p></td>
-<td><p><a href="../Page/front_side_bus.md" title="wikilink">FSB</a></p></td>
-<td><p><a href="../Page/Symmetric_multiprocessing.md" title="wikilink">SMP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/front_side_bus" title="wikilink">FSB</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Symmetric_multiprocessing" title="wikilink">SMP</a></p></td>
 <td><p>Memory types</p></td>
 <td><p>Memory bus</p></td>
 <td><p>Max. memory</p></td>
-<td><p><a href="../Page/Error_detection_and_correction.md" title="wikilink">Parity/ECC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Error_detection_and_correction" title="wikilink">Parity/ECC</a></p></td>
 <td><p>V-Link</p></td>
 <td><p>PCI</p></td>
-<td><p><a href="../Page/Accelerated_Graphics_Port.md" title="wikilink">AGP</a></p></td>
-<td><p><a href="../Page/PCI-e.md" title="wikilink">PCI-e</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Accelerated_Graphics_Port" title="wikilink">AGP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PCI-e" title="wikilink">PCI-e</a></p></td>
 <td><p>IGP</p></td>
 <td><p>Audio</p></td>
 </tr>
@@ -982,25 +982,25 @@ ECC</a></p></th>
 
 ### 南橋晶片
 
-| 產品編號             | [PATA數量](../Page/AT_Attachment.md "wikilink") | [SATA數量](../Page/Serial_ATA.md "wikilink") | 支援[RAID](../Page/RAID.md "wikilink")                         | 南北橋傳輸介面              | [PCI配置](../Page/Peripheral_Component_Interconnect.md "wikilink") | PCI-e配置 | [USB數量](../Page/Universal_Serial_Bus.md "wikilink") | 音效                                                            | [Modem](../Page/Modem.md "wikilink") | [網路傳輸](../Page/網路傳輸.md "wikilink") | 整合 [Super I/O](../Page/Super_I/O.md "wikilink") |
-| ---------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | -------------------- | ---------------------------------------------------------------- | ------- | --------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------ | ---------------------------------- | ----------------------------------------------- |
-| VT82C586A        | 4 ATA33                                       | No                                         | No                                                           | PCI                  |                                                                  |         |                                                     |                                                               |                                      | No                                 | No                                              |
-| VT82C586B        | 4 ATA33                                       | No                                         | No                                                           | PCI                  |                                                                  |         | 1.1                                                 |                                                               |                                      | No                                 | No                                              |
-| VT82C596A        | 4 ATA33                                       | No                                         | No                                                           | PCI                  |                                                                  |         | 1.1                                                 |                                                               |                                      | No                                 | No                                              |
-| VT82C596B        | 4 ATA66                                       | No                                         | No                                                           | PCI                  |                                                                  |         | 1.1                                                 |                                                               |                                      | No                                 | No                                              |
-| VT82C686A\[39\]  | 4 ATA66                                       | No                                         | No                                                           | PCI                  |                                                                  |         | 4 1.1                                               | [AC'97](../Page/AC'97.md "wikilink")                          | Yes                                  | No                                 | Yes                                             |
-| VT82C686B\[40\]  | 4 ATA100                                      | No                                         | No                                                           | PCI                  |                                                                  |         | 4 1.1                                               | AC'97                                                         | Yes                                  | No                                 | Yes                                             |
-| VT8231           | 4 ATA100                                      | No                                         | No                                                           | 4× V-Link 266 MB/s   |                                                                  |         | 6 1.1                                               | AC'97                                                         | Yes                                  | No                                 | Yes                                             |
-| VT8233\[41\]     | 4 ATA100                                      | No                                         | No                                                           | 4× V-Link 266 MB/s   |                                                                  |         | 6 1.1                                               | AC'97                                                         | Yes                                  | VIA 10/100                         | No                                              |
-| VT8233A\[42\]    | 4 ATA133                                      | No                                         | No                                                           | 4× V-Link 266 MB/s   |                                                                  |         | 6 1.1                                               | AC'97                                                         | Yes                                  | VIA 10/100                         | No                                              |
-| VT8233C\[43\]    | 4 ATA100                                      | No                                         | No                                                           | 4× V-Link 266 MB/s   |                                                                  |         | 6 1.1                                               | AC'97                                                         | Yes                                  | 3Com 10/100                        | No                                              |
-| VT8235\[44\]     | 4 ATA133                                      | No                                         | No                                                           | 8× V-Link 533 MB/s   |                                                                  |         | 6 2.0                                               | AC'97                                                         | Yes                                  | VIA 10/100                         | No                                              |
-| VT8237(R+)\[45\] | 4 ATA133                                      | 2 SATA-150, SATALite\*                     | (SATA) RAID 0, 1, 0+1\* & [JBOD](../Page/JBOD.md "wikilink") | 8× V-Link 533 MB/s   |                                                                  |         | 8 2.0                                               | AC'97                                                         | Yes                                  | VIA 10/100                         | No                                              |
-| VT8237A\[46\]    | 4 ATA133                                      | 2 SATA-150, SATALite\*                     | (SATA) RAID 0, 1, 0+1\* & [JBOD](../Page/JBOD.md "wikilink") | 8× V-Link 533 MB/s   |                                                                  |         | 8 2.0                                               | [HD Audio](../Page/Intel_High_Definition_Audio.md "wikilink") | Yes                                  | VIA 10/100                         | No                                              |
-| VT8237S\*        | 4 ATA133                                      | 2 SATA-II, SATALite\*                      | (SATA) RAID 0, 1, 0+1\* & [JBOD](../Page/JBOD.md "wikilink") | 8× V-Link 533 MB/s   |                                                                  |         | 8 2.0                                               | HD Audio                                                      | Yes                                  | VIA 10/100                         | No                                              |
-| VT8251\[47\]     | 4 ATA133                                      | 4 SATA-II                                  | (SATA) RAID 0, 1, 0+1\* & [JBOD](../Page/JBOD.md "wikilink") | 8× V-Link 533 MB/s   | 7                                                                | ×1-2    | 8 2.0                                               | HD Audio                                                      | Yes                                  | VIA 10/100                         | No                                              |
-| VT8261\[48\]     | 2 ATA133                                      | 4 SATA-II                                  | No                                                           | Ultra V-Link (1GB/s) | 5                                                                |         | 12 2.0                                              | HD Audio                                                      | Yes                                  | VIA 10/100/1000                    | No                                              |
-| 產品編號             | [PATA數量](../Page/AT_Attachment.md "wikilink") | [SATA數量](../Page/Serial_ATA.md "wikilink") | 支援[RAID](../Page/RAID.md "wikilink")                         | 南北橋傳輸介面              | [PCI配置](../Page/Peripheral_Component_Interconnect.md "wikilink") | PCI-e配置 | [USB數量](../Page/Universal_Serial_Bus.md "wikilink") | 音效                                                            | [Modem](../Page/Modem.md "wikilink") | [網路傳輸](../Page/網路傳輸.md "wikilink") | 整合 [Super I/O](../Page/Super_I/O.md "wikilink") |
+| 產品編號             | [PATA數量](https://zh.wikipedia.org/wiki/AT_Attachment "wikilink") | [SATA數量](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink") | 支援[RAID](../Page/RAID.md "wikilink")                                            | 南北橋傳輸介面              | [PCI配置](https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect "wikilink") | PCI-e配置 | [USB數量](https://zh.wikipedia.org/wiki/Universal_Serial_Bus "wikilink") | 音效                                                                               | [Modem](https://zh.wikipedia.org/wiki/Modem "wikilink") | [網路傳輸](https://zh.wikipedia.org/wiki/網路傳輸 "wikilink") | 整合 [Super I/O](https://zh.wikipedia.org/wiki/Super_I/O "wikilink") |
+| ---------------- | ---------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------- | ----------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------ |
+| VT82C586A        | 4 ATA33                                                          | No                                                            | No                                                                              | PCI                  |                                                                                     |         |                                                                        |                                                                                  |                                                         | No                                                    | No                                                                 |
+| VT82C586B        | 4 ATA33                                                          | No                                                            | No                                                                              | PCI                  |                                                                                     |         | 1.1                                                                    |                                                                                  |                                                         | No                                                    | No                                                                 |
+| VT82C596A        | 4 ATA33                                                          | No                                                            | No                                                                              | PCI                  |                                                                                     |         | 1.1                                                                    |                                                                                  |                                                         | No                                                    | No                                                                 |
+| VT82C596B        | 4 ATA66                                                          | No                                                            | No                                                                              | PCI                  |                                                                                     |         | 1.1                                                                    |                                                                                  |                                                         | No                                                    | No                                                                 |
+| VT82C686A\[39\]  | 4 ATA66                                                          | No                                                            | No                                                                              | PCI                  |                                                                                     |         | 4 1.1                                                                  | [AC'97](https://zh.wikipedia.org/wiki/AC'97 "wikilink")                          | Yes                                                     | No                                                    | Yes                                                                |
+| VT82C686B\[40\]  | 4 ATA100                                                         | No                                                            | No                                                                              | PCI                  |                                                                                     |         | 4 1.1                                                                  | AC'97                                                                            | Yes                                                     | No                                                    | Yes                                                                |
+| VT8231           | 4 ATA100                                                         | No                                                            | No                                                                              | 4× V-Link 266 MB/s   |                                                                                     |         | 6 1.1                                                                  | AC'97                                                                            | Yes                                                     | No                                                    | Yes                                                                |
+| VT8233\[41\]     | 4 ATA100                                                         | No                                                            | No                                                                              | 4× V-Link 266 MB/s   |                                                                                     |         | 6 1.1                                                                  | AC'97                                                                            | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8233A\[42\]    | 4 ATA133                                                         | No                                                            | No                                                                              | 4× V-Link 266 MB/s   |                                                                                     |         | 6 1.1                                                                  | AC'97                                                                            | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8233C\[43\]    | 4 ATA100                                                         | No                                                            | No                                                                              | 4× V-Link 266 MB/s   |                                                                                     |         | 6 1.1                                                                  | AC'97                                                                            | Yes                                                     | 3Com 10/100                                           | No                                                                 |
+| VT8235\[44\]     | 4 ATA133                                                         | No                                                            | No                                                                              | 8× V-Link 533 MB/s   |                                                                                     |         | 6 2.0                                                                  | AC'97                                                                            | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8237(R+)\[45\] | 4 ATA133                                                         | 2 SATA-150, SATALite\*                                        | (SATA) RAID 0, 1, 0+1\* & [JBOD](https://zh.wikipedia.org/wiki/JBOD "wikilink") | 8× V-Link 533 MB/s   |                                                                                     |         | 8 2.0                                                                  | AC'97                                                                            | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8237A\[46\]    | 4 ATA133                                                         | 2 SATA-150, SATALite\*                                        | (SATA) RAID 0, 1, 0+1\* & [JBOD](https://zh.wikipedia.org/wiki/JBOD "wikilink") | 8× V-Link 533 MB/s   |                                                                                     |         | 8 2.0                                                                  | [HD Audio](https://zh.wikipedia.org/wiki/Intel_High_Definition_Audio "wikilink") | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8237S\*        | 4 ATA133                                                         | 2 SATA-II, SATALite\*                                         | (SATA) RAID 0, 1, 0+1\* & [JBOD](https://zh.wikipedia.org/wiki/JBOD "wikilink") | 8× V-Link 533 MB/s   |                                                                                     |         | 8 2.0                                                                  | HD Audio                                                                         | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8251\[47\]     | 4 ATA133                                                         | 4 SATA-II                                                     | (SATA) RAID 0, 1, 0+1\* & [JBOD](https://zh.wikipedia.org/wiki/JBOD "wikilink") | 8× V-Link 533 MB/s   | 7                                                                                   | ×1-2    | 8 2.0                                                                  | HD Audio                                                                         | Yes                                                     | VIA 10/100                                            | No                                                                 |
+| VT8261\[48\]     | 2 ATA133                                                         | 4 SATA-II                                                     | No                                                                              | Ultra V-Link (1GB/s) | 5                                                                                   |         | 12 2.0                                                                 | HD Audio                                                                         | Yes                                                     | VIA 10/100/1000                                       | No                                                                 |
+| 產品編號             | [PATA數量](https://zh.wikipedia.org/wiki/AT_Attachment "wikilink") | [SATA數量](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink") | 支援[RAID](../Page/RAID.md "wikilink")                                            | 南北橋傳輸介面              | [PCI配置](https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect "wikilink") | PCI-e配置 | [USB數量](https://zh.wikipedia.org/wiki/Universal_Serial_Bus "wikilink") | 音效                                                                               | [Modem](https://zh.wikipedia.org/wiki/Modem "wikilink") | [網路傳輸](https://zh.wikipedia.org/wiki/網路傳輸 "wikilink") | 整合 [Super I/O](https://zh.wikipedia.org/wiki/Super_I/O "wikilink") |
 
 ## 晶片組技術
 
@@ -1025,13 +1025,13 @@ ECC</a></p></th>
 
 ## 相關列表
 
-  - [ALi晶片組列表](../Page/ALi晶片組列表.md "wikilink")
+  - [ALi晶片組列表](https://zh.wikipedia.org/wiki/ALi晶片組列表 "wikilink")
   - [AMD晶片組列表](../Page/AMD晶片組列表.md "wikilink")
   - [ATI晶片組列表](../Page/ATI晶片組列表.md "wikilink")
   - [Intel晶片組列表](../Page/Intel晶片組列表.md "wikilink")
-  - [nVIDIA晶片組列表](../Page/nVIDIA晶片組列表.md "wikilink")
-  - [SiS晶片組列表](../Page/SiS晶片組列表.md "wikilink")
-  - [ULi晶片組列表](../Page/ULi晶片組列表.md "wikilink")
+  - [nVIDIA晶片組列表](https://zh.wikipedia.org/wiki/nVIDIA晶片組列表 "wikilink")
+  - [SiS晶片組列表](https://zh.wikipedia.org/wiki/SiS晶片組列表 "wikilink")
+  - [ULi晶片組列表](https://zh.wikipedia.org/wiki/ULi晶片組列表 "wikilink")
 
 ## VIA相關產品列表
 

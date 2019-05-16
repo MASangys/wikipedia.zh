@@ -1,4 +1,4 @@
-****是历史上第四十七次航天飞机任务，也是[奋进号航天飞机的首次太空飞行](../Page/奮進號太空梭.md "wikilink")。
+****是历史上第四十七次航天飞机任务，也是[奋进号航天飞机的首次太空飞行](https://zh.wikipedia.org/wiki/奮進號太空梭 "wikilink")。
 
 STS-49发射时间应该是 May 7, 1992 at 6:40 pm CDT.数据来自nasa官方图片的简介。 （GMT 0:00
 格林威治标准时间； CDT -5:00 中部白昼时间； EST -5:00 东部标准时间）
@@ -15,11 +15,11 @@ touchdown occurred at 1:57:38 pm (Pacific Daylight Time (PDT)).
 
   - **[丹尼尔·布兰登斯坦](../Page/丹尼尔·布兰登斯坦.md "wikilink")**（，曾执行、、以及任务），指令长
   - **[凯文·齐尔顿](../Page/凯文·齐尔顿.md "wikilink")**（，曾执行、以及任务），飞行员
-  - **[皮埃尔·苏厄特](../Page/皮埃尔·苏厄特.md "wikilink")**（，曾执行、以及任务），任务专家
-  - **[凯瑟琳·索恩顿](../Page/凯瑟琳·索恩顿.md "wikilink")**（，曾执行、、以及任务），任务专家
-  - **[理查德·赫耶布](../Page/理查德·赫耶布.md "wikilink")**（，曾执行、以及任务），任务专家
-  - **[托马斯·埃克斯](../Page/托马斯·埃克斯.md "wikilink")**（，曾执行、、以及任务），有效载荷专家
-  - **[布鲁斯·梅尔尼克](../Page/布鲁斯·梅尔尼克.md "wikilink")**（，曾执行以及任务），有效载荷专家
+  - **[皮埃尔·苏厄特](https://zh.wikipedia.org/wiki/皮埃尔·苏厄特 "wikilink")**（，曾执行、以及任务），任务专家
+  - **[凯瑟琳·索恩顿](https://zh.wikipedia.org/wiki/凯瑟琳·索恩顿 "wikilink")**（，曾执行、、以及任务），任务专家
+  - **[理查德·赫耶布](https://zh.wikipedia.org/wiki/理查德·赫耶布 "wikilink")**（，曾执行、以及任务），任务专家
+  - **[托马斯·埃克斯](https://zh.wikipedia.org/wiki/托马斯·埃克斯 "wikilink")**（，曾执行、、以及任务），有效载荷专家
+  - **[布鲁斯·梅尔尼克](https://zh.wikipedia.org/wiki/布鲁斯·梅尔尼克 "wikilink")**（，曾执行以及任务），有效载荷专家
 
 [Category:1992年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1992年佛罗里达州 "wikilink")
 [Category:奋进号航天飞机任务](https://zh.wikipedia.org/wiki/Category:奋进号航天飞机任务 "wikilink")

@@ -20,12 +20,12 @@ Oracle Linux提供兩個內核版本：
 
 ## 技术支持
 
-甲骨文執行長[賴瑞·艾利森指出](../Page/賴瑞·艾利森.md "wikilink")，Unbreakable
+甲骨文執行長[賴瑞·艾利森指出](https://zh.wikipedia.org/wiki/賴瑞·艾利森 "wikilink")，Unbreakable
 Linux的用戶若要軟體更新支持，則每台伺服器收費99美元，而技術支援則是每台雙重伺服器收取399美元，更大型的系統則年付999美元。
 
 ## 參見
 
-  - [Oracle VM](../Page/Oracle_VM.md "wikilink")
+  - [Oracle VM](https://zh.wikipedia.org/wiki/Oracle_VM "wikilink")
 
 ## 外部連結
 

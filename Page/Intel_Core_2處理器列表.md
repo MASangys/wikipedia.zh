@@ -1,7 +1,7 @@
 本列表為[Intel Core
-2系列各處理器的技術資料](../Page/Intel_Core_2.md "wikilink")，有關Intel
+2系列各處理器的技術資料](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")，有關Intel
 Core系列各處理器的技術資料，請參閱[Intel Core
-處理器列表](../Page/Intel_Core_處理器列表.md "wikilink")。
+處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_處理器列表 "wikilink")。
 
 ## 桌上型處理器
 
@@ -9,9 +9,9 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Allendale (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[iAMT2](../Page/iAMT2.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")
 
 | 型號               | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP  | 腳座                                       | 出品日期        |
 | ---------------- | ---------- | ----------------- | -------- | -------- | ------------- | ---- | ---------------------------------------- | ----------- |
@@ -23,11 +23,11 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Conroe (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[iAMT2](../Page/iAMT2.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號               | s-Spec 代號          | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP  | 腳座                                       | 出品日期       |
 | ---------------- | ------------------ | ----------------- | -------- | --------- | ------------ | ---- | ---------------------------------------- | ---------- |
@@ -44,35 +44,35 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Wolfdale (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[iAMT2](../Page/iAMT2.md "wikilink")，[Intel
-    VT](../Page/Intel_VT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")
 
-| 型號               | s-Spec 代號                                          | 時脈頻率                | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
-| ---------------- | -------------------------------------------------- | ------------------- | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
-| Core 2 Duo E7200 | SLB9W (R0)                                         | 2.53 GHz (266×9.5)  | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年4月     |
-| Core 2 Duo E7300 | SLB9X / SLGA9 (R0)                                 | 2.66 GHz (266×10)   | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月     |
-| Core 2 Duo E7400 | SLGW3 (R0 /w [VT](../Page/Intel_VT.md "wikilink")) | 2.80 GHz (266×10.5) | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年10月19日 |
-| Core 2 Duo E7500 | SLGTE (R0 /w [VT](../Page/Intel_VT.md "wikilink")) | 2.93 GHz (266×11)   | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
-| Core 2 Duo E7600 | SLGTD (R0 /w [VT](../Page/Intel_VT.md "wikilink")) | 3.06 GHz (266×11.5) | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年5月31日  |
-| Core 2 Duo E8190 | SLAQR (C0)                                         | 2.66 GHz (333×8)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
-| Core 2 Duo E8200 | SLAPP (C0)                                         | 2.66 GHz (333×8)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
-| Core 2 Duo E8300 | SLAPJ / SLAPN (C0)                                 | 2.83 GHz (333×8.5)  | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年5月11日  |
-| Core 2 Duo E8400 | SLB9J (E0)                                         | 3.00 GHz (333×9)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
-| Core 2 Duo E8500 | SLB9K (E0)                                         | 3.16 GHz (333×9.5)  | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
-| Core 2 Duo E8600 | SLB9L (E0)                                         | 3.33 GHz (333×10)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月20日  |
-| Core 2 Duo E8700 | SLB9E (E0)                                         | 3.50 GHz (333×10.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 無出品         |
+| 型號               | s-Spec 代號                                                             | 時脈頻率                | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
+| ---------------- | --------------------------------------------------------------------- | ------------------- | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
+| Core 2 Duo E7200 | SLB9W (R0)                                                            | 2.53 GHz (266×9.5)  | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年4月     |
+| Core 2 Duo E7300 | SLB9X / SLGA9 (R0)                                                    | 2.66 GHz (266×10)   | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月     |
+| Core 2 Duo E7400 | SLGW3 (R0 /w [VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")) | 2.80 GHz (266×10.5) | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年10月19日 |
+| Core 2 Duo E7500 | SLGTE (R0 /w [VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")) | 2.93 GHz (266×11)   | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
+| Core 2 Duo E7600 | SLGTD (R0 /w [VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")) | 3.06 GHz (266×11.5) | 3072 KB  | 1066 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年5月31日  |
+| Core 2 Duo E8190 | SLAQR (C0)                                                            | 2.66 GHz (333×8)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
+| Core 2 Duo E8200 | SLAPP (C0)                                                            | 2.66 GHz (333×8)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
+| Core 2 Duo E8300 | SLAPJ / SLAPN (C0)                                                    | 2.83 GHz (333×8.5)  | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年5月11日  |
+| Core 2 Duo E8400 | SLB9J (E0)                                                            | 3.00 GHz (333×9)    | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
+| Core 2 Duo E8500 | SLB9K (E0)                                                            | 3.16 GHz (333×9.5)  | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日  |
+| Core 2 Duo E8600 | SLB9L (E0)                                                            | 3.33 GHz (333×10)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月20日  |
+| Core 2 Duo E8700 | SLB9E (E0)                                                            | 3.50 GHz (333×10.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 無出品         |
 
 ### Core 2 Quad
 
 #### Kentsfield (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2 , [Intel
-    VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 , [Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
 | 型號                | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP   | 腳座                                       | 出品日期       |
 | ----------------- | ---------- | ----------------- | -------- | --------- | ------------ | ----- | ---------------------------------------- | ---------- |
@@ -83,38 +83,38 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Yorkfield (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                 | s-Spec 代號                                            | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
-| ------------------ | ---------------------------------------------------- | ------------------ | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
-| Core 2 Quad Q8200  | SLG9S (R0)                                           | 2.33 GHz (333×7)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月31日  |
-| Core 2 Quad Q8200S | SLGSS (R0 /w [VT](../Page/Intel_VT.md "wikilink")-x) | 2.33 GHz (333×7)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
-| Core 2 Quad Q8300  | SLGUR (R0 /w [VT](../Page/Intel_VT.md "wikilink")-x) | 2.50 GHz (333×7.5) | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年11月30日 |
-| Core 2 Quad Q8400  | SLGT6 (R0)                                           | 2.66 GHz (333×8)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年4月19日  |
-| Core 2 Quad Q8400S | SLGT7 (R0)                                           | 2.66 GHz (333×8)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年4月19日  |
-| Core 2 Quad Q9300  | SLAWE (M1)                                           | 2.50 GHz (333×7.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月10日  |
-| Core 2 Quad Q9400  | SLB6B (R0)                                           | 2.66 GHz (333×8)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月10日  |
-| Core 2 Quad Q9400S | SLG9U (R0)                                           | 2.66 GHz (333×8)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
-| Core 2 Quad Q9450  | SLAWR (C1)                                           | 2.66 GHz (333×8)   | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日   |
-| Core 2 Quad Q9500  | SLGZ4 (R0)                                           | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2010年1月17日  |
-| Core 2 Quad Q9505  | SLGYY (R0)                                           | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月18日  |
-| Core 2 Quad Q9505S | SLGYZ (R0)                                           | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月18日  |
-| Core 2 Quad Q9550  | SLB8V (E0)                                           | 2.83 GHz (333×8.5) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月25日  |
-| Core 2 Quad Q9550S | SLGAE (E0)                                           | 2.83 GHz (333×8.5) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月25日  |
-| Core 2 Quad Q9650  | SLB8W (E0)                                           | 3.00 GHz (333×9)   | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月10日  |
+| 型號                 | s-Spec 代號                                                               | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                       | 出品日期        |
+| ------------------ | ----------------------------------------------------------------------- | ------------------ | -------- | --------- | ------------- | ---- | ---------------------------------------- | ----------- |
+| Core 2 Quad Q8200  | SLG9S (R0)                                                              | 2.33 GHz (333×7)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月31日  |
+| Core 2 Quad Q8200S | SLGSS (R0 /w [VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x) | 2.33 GHz (333×7)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
+| Core 2 Quad Q8300  | SLGUR (R0 /w [VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x) | 2.50 GHz (333×7.5) | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年11月30日 |
+| Core 2 Quad Q8400  | SLGT6 (R0)                                                              | 2.66 GHz (333×8)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年4月19日  |
+| Core 2 Quad Q8400S | SLGT7 (R0)                                                              | 2.66 GHz (333×8)   | 4096 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年4月19日  |
+| Core 2 Quad Q9300  | SLAWE (M1)                                                              | 2.50 GHz (333×7.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月10日  |
+| Core 2 Quad Q9400  | SLB6B (R0)                                                              | 2.66 GHz (333×8)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月10日  |
+| Core 2 Quad Q9400S | SLG9U (R0)                                                              | 2.66 GHz (333×8)   | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年1月18日  |
+| Core 2 Quad Q9450  | SLAWR (C1)                                                              | 2.66 GHz (333×8)   | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月7日   |
+| Core 2 Quad Q9500  | SLGZ4 (R0)                                                              | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2010年1月17日  |
+| Core 2 Quad Q9505  | SLGYY (R0)                                                              | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月18日  |
+| Core 2 Quad Q9505S | SLGYZ (R0)                                                              | 2.83 GHz (333×8.5) | 6144 KB  | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月18日  |
+| Core 2 Quad Q9550  | SLB8V (E0)                                                              | 2.83 GHz (333×8.5) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月25日  |
+| Core 2 Quad Q9550S | SLGAE (E0)                                                              | 2.83 GHz (333×8.5) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 65 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月25日  |
+| Core 2 Quad Q9650  | SLB8W (E0)                                                              | 3.00 GHz (333×9)   | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 95 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年8月10日  |
 
 ### Core 2 Extreme
 
 #### Conroe XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
 | 型號                   | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP  | 腳座                                       | 出品日期       |
@@ -123,10 +123,10 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Kentsfield XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
 | 型號                    | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓           | TDP   | 腳座                                       | 出品日期        |
@@ -137,17 +137,17 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Yorkfield XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
   - 未鎖倍頻
 
-| 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP   | 腳座                                       | 出品日期        |
-| --------------------- | ---------- | ---------------- | -------- | --------- | ------------- | ----- | ---------------------------------------- | ----------- |
-| Core 2 Extreme QX9650 | SLAWN (C1) | 3.00 GHz (333×9) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 130 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年11月11日 |
-| Core 2 Extreme QX9770 | SLAWM (C1) | 3.20 GHz (400×8) | 12288 KB | 1600 MT/s | 0.85 - 1.36 V | 136 W | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年3月24日  |
-| Core 2 Extreme QX9775 | SLANY (C0) | 3.20 GHz (400×8) | 12288 KB | 1600 MT/s | 0.85 - 1.35 V | 150 W | [LGA 771](../Page/LGA_771.md "wikilink") | 2008年3月24日  |
+| 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP   | 腳座                                                          | 出品日期        |
+| --------------------- | ---------- | ---------------- | -------- | --------- | ------------- | ----- | ----------------------------------------------------------- | ----------- |
+| Core 2 Extreme QX9650 | SLAWN (C1) | 3.00 GHz (333×9) | 12288 KB | 1333 MT/s | 0.85 - 1.36 V | 130 W | [LGA 775](../Page/LGA_775.md "wikilink")                    | 2007年11月11日 |
+| Core 2 Extreme QX9770 | SLAWM (C1) | 3.20 GHz (400×8) | 12288 KB | 1600 MT/s | 0.85 - 1.36 V | 136 W | [LGA 775](../Page/LGA_775.md "wikilink")                    | 2008年3月24日  |
+| Core 2 Extreme QX9775 | SLANY (C0) | 3.20 GHz (400×8) | 12288 KB | 1600 MT/s | 0.85 - 1.35 V | 150 W | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") | 2008年3月24日  |
 
 ## 移動型處理器
 
@@ -155,38 +155,38 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 
 #### Merom-L (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[iAMT2](../Page/iAMT2.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")-x，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                       | 出品日期      |
-| --------------------- | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ---------------------------------------- | --------- |
-| Core 2 Solo ULV U2100 | SLAGM (A1) | 1.07 GHz (133×8) | 1024 KB  | 533 MT/s | 0.86 - 0.97 V | 5.5 W | [BGA 479](../Page/BGA_479.md "wikilink") | 2007年9月5日 |
-| Core 2 Solo ULV U2200 | SLAGL (A1) | 1.20 GHz (133×9) | 1024 KB  | 533 MT/s | 0.86 - 0.97 V | 5.5 W | [BGA 479](../Page/BGA_479.md "wikilink") | 2007年9月5日 |
+| 型號                    | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                                          | 出品日期      |
+| --------------------- | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ----------------------------------------------------------- | --------- |
+| Core 2 Solo ULV U2100 | SLAGM (A1) | 1.07 GHz (133×8) | 1024 KB  | 533 MT/s | 0.86 - 0.97 V | 5.5 W | [BGA 479](https://zh.wikipedia.org/wiki/BGA_479 "wikilink") | 2007年9月5日 |
+| Core 2 Solo ULV U2200 | SLAGL (A1) | 1.20 GHz (133×9) | 1024 KB  | 533 MT/s | 0.86 - 0.97 V | 5.5 W | [BGA 479](https://zh.wikipedia.org/wiki/BGA_479 "wikilink") | 2007年9月5日 |
 
 #### Penryn-L (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[Intel
-    64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[iAMT2](../Page/iAMT2.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")-x，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")，Intel Dynamic Acceleration
-    (IDA)
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[iAMT2](https://zh.wikipedia.org/wiki/iAMT2 "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")-x，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")，Intel
+    Dynamic Acceleration (IDA)
 
-| 型號                 | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                       | 出品日期       |
-| ------------------ | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ---------------------------------------- | ---------- |
-| Core 2 Solo SU3300 | SLGAJ (R0) | 1.20 GHz (200×6) | 3072 KB  | 800 MT/s | 1.05 - 1.15 V | 5.5 W | [BGA 956](../Page/BGA_956.md "wikilink") | 2008年8月19日 |
-| Core 2 Solo SU3500 | SLGFM (R0) | 1.40 GHz (200×7) | 3072 KB  | 800 MT/s | 1.05 - 1.15 V | 5.5 W | [BGA 956](../Page/BGA_956.md "wikilink") | 2009年3月29日 |
+| 型號                 | s-Spec 代號  | 時脈頻率             | L2 快取記憶體 | 匯流排速度    | 電壓            | TDP   | 腳座                                                          | 出品日期       |
+| ------------------ | ---------- | ---------------- | -------- | -------- | ------------- | ----- | ----------------------------------------------------------- | ---------- |
+| Core 2 Solo SU3300 | SLGAJ (R0) | 1.20 GHz (200×6) | 3072 KB  | 800 MT/s | 1.05 - 1.15 V | 5.5 W | [BGA 956](https://zh.wikipedia.org/wiki/BGA_956 "wikilink") | 2008年8月19日 |
+| Core 2 Solo SU3500 | SLGFM (R0) | 1.40 GHz (200×7) | 3072 KB  | 800 MT/s | 1.05 - 1.15 V | 5.5 W | [BGA 956](https://zh.wikipedia.org/wiki/BGA_956 "wikilink") | 2009年3月29日 |
 
 ### Core 2 Duo
 
 #### Merom (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
 
 <table>
 <thead>
@@ -211,7 +211,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>533 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -222,7 +222,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -233,7 +233,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -244,7 +244,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>533 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -255,7 +255,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -266,7 +266,7 @@ Core系列各處理器的技術資料，請參閱[Intel Core
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -278,7 +278,7 @@ SL9U8 (L2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2006年8月26日</p></td>
 </tr>
 <tr class="even">
@@ -289,7 +289,7 @@ SL9U8 (L2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.08 - 1.17 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -301,8 +301,8 @@ SL9U7 (L2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a><br />
-<a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a><br />
+<a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2006年8月28日</p></td>
 </tr>
 <tr class="even">
@@ -313,7 +313,7 @@ SL9U7 (L2)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -324,7 +324,7 @@ SL9U7 (L2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -335,7 +335,7 @@ SL9U7 (L2)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -346,7 +346,7 @@ SL9U7 (L2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -357,7 +357,7 @@ SL9U7 (L2)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="odd">
@@ -368,7 +368,7 @@ SL9U7 (L2)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>OEM</p></td>
 </tr>
 <tr class="even">
@@ -380,8 +380,8 @@ SLA3U (M1)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>0.9 - 1.17 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a><br />
-<a href="../Page/BGA_479.md" title="wikilink">BGA 479</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a><br />
+<a href="https://zh.wikipedia.org/wiki/BGA_479" title="wikilink">BGA 479</a></p></td>
 <td><p>2007年5月9日</p></td>
 </tr>
 <tr class="odd">
@@ -393,7 +393,7 @@ SL9SL (B2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2006年8月28日</p></td>
 </tr>
 <tr class="even">
@@ -405,7 +405,7 @@ SLA3T (M1)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.08 - 1.17 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年9月5日</p></td>
 </tr>
 <tr class="odd">
@@ -417,7 +417,7 @@ SLAMF (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.08 - 1.31 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年5月9日</p></td>
 </tr>
 <tr class="even">
@@ -429,7 +429,7 @@ SLGFV (G2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2006年8月28日</p></td>
 </tr>
 <tr class="odd">
@@ -441,7 +441,7 @@ SLADM (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年5月9日</p></td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ SL9SJ (B2)</p></td>
 <td><p>667 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>34 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2006年8月28日</p></td>
 </tr>
 <tr class="odd">
@@ -465,7 +465,7 @@ SLADL (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年5月9日</p></td>
 </tr>
 <tr class="even">
@@ -477,7 +477,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.04 - 1.3 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年9月5日</p></td>
 </tr>
 <tr class="odd">
@@ -540,9 +540,9 @@ SLA75 (G0)</p></td>
 
 #### Penryn (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，[Intel
-    VT](../Page/虛擬化技術.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/SSE.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，[Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")
 
 <table>
 <thead>
@@ -567,7 +567,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年1月</p></td>
 </tr>
 <tr class="even">
@@ -578,7 +578,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年1月</p></td>
 </tr>
 <tr class="odd">
@@ -589,7 +589,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -600,7 +600,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年1月</p></td>
 </tr>
 <tr class="odd">
@@ -611,7 +611,7 @@ SLA75 (G0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -623,7 +623,7 @@ SLAPS / SLAXG (M0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年1月7日</p></td>
 </tr>
 <tr class="odd">
@@ -635,7 +635,7 @@ SLAPR (M0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年1月7日</p></td>
 </tr>
 <tr class="even">
@@ -647,7 +647,7 @@ SLAPV / SLAZB (C0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年1月7日</p></td>
 </tr>
 <tr class="odd">
@@ -659,7 +659,7 @@ SLGEK (E0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.16 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年7月15日</p></td>
 </tr>
 <tr class="even">
@@ -671,7 +671,7 @@ SLAPW / SLAZA (C0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年1月7日</p></td>
 </tr>
 <tr class="odd">
@@ -683,7 +683,7 @@ SLGEL (E0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.21 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年12月28日</p></td>
 </tr>
 <tr class="even">
@@ -695,7 +695,7 @@ SLGEM (E0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.16 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年7月15日</p></td>
 </tr>
 <tr class="odd">
@@ -707,7 +707,7 @@ SLGEP (E0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.21 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2008年12月28日</p></td>
 </tr>
 <tr class="even">
@@ -719,7 +719,7 @@ SLGKH (E0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.21 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年6月2日</p></td>
 </tr>
 <tr class="odd">
@@ -907,7 +907,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.012V - 1.175V</p></td>
 <td><p>28 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年6月2日</p></td>
 </tr>
 <tr class="even">
@@ -918,7 +918,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.050 - 1.150 V</p></td>
 <td><p>25 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年8月19日</p></td>
 </tr>
 <tr class="odd">
@@ -929,7 +929,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.050 - 1.150 V</p></td>
 <td><p>25 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年8月19日</p></td>
 </tr>
 <tr class="even">
@@ -940,7 +940,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.050 - 1.150 V</p></td>
 <td><p>25 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2009年3月29日</p></td>
 </tr>
 <tr class="odd">
@@ -951,7 +951,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>17 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年8月19日</p></td>
 </tr>
 <tr class="even">
@@ -962,7 +962,7 @@ SLGE3 (R0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>17 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -973,7 +973,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>17 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年8月19日</p></td>
 </tr>
 <tr class="even">
@@ -984,7 +984,7 @@ SLGE3 (R0)</p></td>
 <td><p>1066 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>17 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2009年3月29日</p></td>
 </tr>
 <tr class="odd">
@@ -995,7 +995,7 @@ SLGE3 (R0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>10 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2009年9月</p></td>
 </tr>
 <tr class="even">
@@ -1006,7 +1006,7 @@ SLGE3 (R0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>10 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年4月19日</p></td>
 </tr>
 <tr class="odd">
@@ -1017,7 +1017,7 @@ SLGE3 (R0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>10 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年4月19日</p></td>
 </tr>
 <tr class="even">
@@ -1028,7 +1028,7 @@ SLGE3 (R0)</p></td>
 <td><p>800 MT/s</p></td>
 <td><p>1.05 - 1.15 V</p></td>
 <td><p>10 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2009年3月29日</p></td>
 </tr>
 </tbody>
@@ -1038,63 +1038,69 @@ SLGE3 (R0)</p></td>
 
 #### Penryn QC (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2 (Intel Active Management),
-    [Intel VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
+    Active Management), [Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                         | 出品日期        |
-| ----------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------ | ----------- |
-| Core 2 Quad Q9000 | SLGEJ (E0) | 2.00 GHz (266×7.5) | 6144 KB  | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](../Page/Socket_P.md "wikilink") | 2008年12月28日 |
-| Core 2 Quad Q9100 | SLB5G (E0) | 2.26 GHz (266×8.5) | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](../Page/Socket_P.md "wikilink") | 2008年8月19日  |
-| Core 2 Quad Q9200 | QAVS (ES)  | 2.40 GHz (266×9)   | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](../Page/Socket_P.md "wikilink") | 無出品         |
+| 型號                | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期        |
+| ----------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ----------- |
+| Core 2 Quad Q9000 | SLGEJ (E0) | 2.00 GHz (266×7.5) | 6144 KB  | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年12月28日 |
+| Core 2 Quad Q9100 | SLB5G (E0) | 2.26 GHz (266×8.5) | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年8月19日  |
+| Core 2 Quad Q9200 | QAVS (ES)  | 2.40 GHz (266×9)   | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 無出品         |
 
 ### Core 2 Extreme
 
 #### Merom XE (65 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2 (Intel Active Management),
-    [Intel VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
+    Active Management), [Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                   | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度    | 電壓           | TDP  | 腳座                                         | 出品日期       |
-| -------------------- | ---------- | ----------------- | -------- | -------- | ------------ | ---- | ------------------------------------------ | ---------- |
-| Core 2 Extreme X7800 | SLA6Z (E1) | 2.60 GHz (200×13) | 4096 KB  | 800 MT/s | 1.04 - 1.3 V | 44 W | [Socket P](../Page/Socket_P.md "wikilink") | 2007年7月16日 |
-| Core 2 Extreme X7900 | SLAF4 (G0) | 2.80 GHz (200×14) | 4096 KB  | 800 MT/s | 1.04 - 1.3 V | 44 W | [Socket P](../Page/Socket_P.md "wikilink") | 2007年8月22日 |
+| 型號                   | s-Spec 代號  | 時脈頻率              | L2 快取記憶體 | 匯流排速度    | 電壓           | TDP  | 腳座                                                            | 出品日期       |
+| -------------------- | ---------- | ----------------- | -------- | -------- | ------------ | ---- | ------------------------------------------------------------- | ---------- |
+| Core 2 Extreme X7800 | SLA6Z (E1) | 2.60 GHz (200×13) | 4096 KB  | 800 MT/s | 1.04 - 1.3 V | 44 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2007年7月16日 |
+| Core 2 Extreme X7900 | SLAF4 (G0) | 2.80 GHz (200×14) | 4096 KB  | 800 MT/s | 1.04 - 1.3 V | 44 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2007年8月22日 |
 
 #### Penryn XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2 (Intel Active Management),
-    [Intel VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
+    Active Management), [Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                   | s-Spec 代號          | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                         | 出品日期       |
-| -------------------- | ------------------ | ----------------- | -------- | --------- | ------------- | ---- | ------------------------------------------ | ---------- |
-| Core 2 Extreme X9000 | SLAQJ / SLAZ3 (C0) | 2.80 GHz (200×14) | 6144 KB  | 800 MT/s  | 1.06 - 1.15 V | 44 W | [Socket P](../Page/Socket_P.md "wikilink") | 2008年1月7日  |
-| Core 2 Extreme X9100 | SLGE7 (E0)         | 3.06 GHz (266×12) | 6144 KB  | 1066 MT/s | 1.06 - 1.15 V | 44 W | [Socket P](../Page/Socket_P.md "wikilink") | 2008年7月15日 |
+| 型號                   | s-Spec 代號          | 時脈頻率              | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期       |
+| -------------------- | ------------------ | ----------------- | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ---------- |
+| Core 2 Extreme X9000 | SLAQJ / SLAZ3 (C0) | 2.80 GHz (200×14) | 6144 KB  | 800 MT/s  | 1.06 - 1.15 V | 44 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年1月7日  |
+| Core 2 Extreme X9100 | SLGE7 (E0)         | 3.06 GHz (266×12) | 6144 KB  | 1066 MT/s | 1.06 - 1.15 V | 44 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年7月15日 |
 
 #### Penryn QC XE (45 nm)
 
-  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](../Page/SSE4.1.md "wikilink")，[EIST](../Page/EIST.md "wikilink"),
-    [Intel 64](../Page/Intel_64.md "wikilink")，[XD
-    bit](../Page/XD_bit.md "wikilink")，iAMT2 (Intel Active Management),
-    [Intel VT](../Page/虛擬化技術.md "wikilink")，[Intel
-    TXT](../Page/Intel_TXT.md "wikilink")
+  - 指令集：[MMX](../Page/MMX.md "wikilink")，[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")，[SSE2](../Page/SSE2.md "wikilink")，[SSE3](../Page/SSE3.md "wikilink")，[SSSE3](../Page/SSSE3.md "wikilink")，[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")，[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink"),
+    [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")，[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")，iAMT2 (Intel
+    Active Management), [Intel
+    VT](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")，[Intel
+    TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink")
 
-| 型號                    | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                         | 出品日期       |
-| --------------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------ | ---------- |
-| Core 2 Extreme QX9300 | SLB5J (E0) | 2.53 GHz (266×9.5) | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](../Page/Socket_P.md "wikilink") | 2008年8月19日 |
+| 型號                    | s-Spec 代號  | 時脈頻率               | L2 快取記憶體 | 匯流排速度     | 電壓            | TDP  | 腳座                                                            | 出品日期       |
+| --------------------- | ---------- | ------------------ | -------- | --------- | ------------- | ---- | ------------------------------------------------------------- | ---------- |
+| Core 2 Extreme QX9300 | SLB5J (E0) | 2.53 GHz (266×9.5) | 12288 KB | 1066 MT/s | 1.05 - 1.17 V | 45 W | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年8月19日 |
 
 ## 另見
 
-  - [英特爾微處理器列表](../Page/英特爾微處理器列表.md "wikilink")
-  - [Intel Core 2](../Page/Intel_Core_2.md "wikilink")
-  - [Intel Core微處理器架構](../Page/Intel_Core微處理器架構.md "wikilink")
+  - [英特爾微處理器列表](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")
+  - [Intel Core
+    2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
+  - [Intel
+    Core微處理器架構](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")
 
 ## 外部連結
 

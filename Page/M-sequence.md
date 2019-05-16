@@ -1,4 +1,4 @@
-**M-sequence**（、、最大長度序列）是在基本的通訊[電路設計中](../Page/電路.md "wikilink")，所經常被利用到的一個虛擬隨機數位訊號{{〈}}Pseudo
+**M-sequence**（、、最大長度序列）是在基本的通訊[電路設計中](https://zh.wikipedia.org/wiki/電路 "wikilink")，所經常被利用到的一個虛擬隨機數位訊號{{〈}}Pseudo
 Random Sequence{{〉}}，其主要的方式是利用第一位與其他位暫存器的輸出值做ex-or來設計其第一位暫存器的輸入值。
 
 ## 參考文獻

@@ -1,20 +1,20 @@
-**海恩斯莫里斯服饰**（****，缩写为）是一間來自[瑞典的](../Page/瑞典.md "wikilink")[時裝公司](../Page/時裝.md "wikilink")，在世界多個國家，包括[亞洲](../Page/亞洲.md "wikilink")、[歐洲和](../Page/歐洲.md "wikilink")[美國等多个国家設有分店](../Page/美國.md "wikilink")，产品以價廉聞名。H\&M由埃林·佩尔森（Erling
+**海恩斯莫里斯服饰**（****，缩写为）是一間來自[瑞典的](../Page/瑞典.md "wikilink")[時裝公司](../Page/時裝.md "wikilink")，在世界多個國家，包括[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國等多个国家設有分店](https://zh.wikipedia.org/wiki/美國 "wikilink")，产品以價廉聞名。H\&M由埃林·佩尔森（Erling
 Persson）在1947年于瑞典[韦斯特罗斯成立](../Page/韦斯特罗斯.md "wikilink")。臺灣分店的母公司在荷蘭註冊。
 
 ## 历史
 
-H\&M创立者佩尔森的一次美国之旅，激发了他开设一家以低廉价格提供高档[时尚女装服飾店的创意](../Page/時尚潮流.md "wikilink")。这家服装店称作Hennes，在[瑞典语中就是](../Page/瑞典语.md "wikilink")“她的”的意思。第一家Hennes服装店于1947年在韦斯特罗斯开业，这也正是现在的H\&M前身。60年代中Hennes扩张到了瑞典大部分地区，1964年和1967年又在临近的[挪威和](../Page/挪威.md "wikilink")[丹麦开辟了新的市场](../Page/丹麦.md "wikilink")。\[1\]
+H\&M创立者佩尔森的一次美国之旅，激发了他开设一家以低廉价格提供高档[时尚女装服飾店的创意](https://zh.wikipedia.org/wiki/時尚潮流 "wikilink")。这家服装店称作Hennes，在[瑞典语中就是](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")“她的”的意思。第一家Hennes服装店于1947年在韦斯特罗斯开业，这也正是现在的H\&M前身。60年代中Hennes扩张到了瑞典大部分地区，1964年和1967年又在临近的[挪威和](../Page/挪威.md "wikilink")[丹麦开辟了新的市场](https://zh.wikipedia.org/wiki/丹麦 "wikilink")。\[1\]
 
 为了进一步扩大在斯德哥尔摩的[市场份额以及扩充产品线](../Page/市场.md "wikilink")，1968年佩尔森收购了一家名为Mauritz
 Widforss的[枪械及打猎用品商店](../Page/枪械.md "wikilink")，也因此获得了其男装业务。这之后的Hennes更名作Hennes
 &
 Mauritz并一直沿用至今。其后几年中H\&M又陆续增加了[儿童](../Page/儿童.md "wikilink")、[青少年乃至婴儿装的产品线](../Page/青少年.md "wikilink")。70年代的H\&M开始向北欧地区以外的欧洲国家扩张。
-1976年在[英国开设分店](../Page/英国.md "wikilink")，之后又将业务扩张到[瑞士和](../Page/瑞士.md "wikilink")[德国](../Page/德国.md "wikilink")。1982年，尔林·佩尔森的儿子史蒂芬·佩尔森（Stefan
-Persson）接替了其父亲的职位。此后的H\&M定位更加潮流时尚，迎合了年轻人的追求。90年代后[荷兰](../Page/荷兰.md "wikilink")、[比利时](../Page/比利时.md "wikilink")、[卢森堡乃至](../Page/卢森堡.md "wikilink")[奧地利都迎来了](../Page/奧地利.md "wikilink")
+1976年在[英国开设分店](https://zh.wikipedia.org/wiki/英国 "wikilink")，之后又将业务扩张到[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[德国](../Page/德国.md "wikilink")。1982年，尔林·佩尔森的儿子史蒂芬·佩尔森（Stefan
+Persson）接替了其父亲的职位。此后的H\&M定位更加潮流时尚，迎合了年轻人的追求。90年代后[荷兰](../Page/荷兰.md "wikilink")、[比利时](../Page/比利时.md "wikilink")、[卢森堡乃至](../Page/卢森堡.md "wikilink")[奧地利都迎来了](https://zh.wikipedia.org/wiki/奧地利 "wikilink")
 H\&M
-的分店，而直到1998年H\&M才在时尚之都[巴黎开展自己的业务](../Page/巴黎.md "wikilink")。1999年年底，H\&M宣布将会进入西班牙市场，这意味着它将要与和自己定位相似的[Zara相抗衡](../Page/Zara.md "wikilink")。2000年，H\&M来到了自己创意的诞生地美国。\[2\]
+的分店，而直到1998年H\&M才在时尚之都[巴黎开展自己的业务](../Page/巴黎.md "wikilink")。1999年年底，H\&M宣布将会进入西班牙市场，这意味着它将要与和自己定位相似的[Zara相抗衡](https://zh.wikipedia.org/wiki/Zara "wikilink")。2000年，H\&M来到了自己创意的诞生地美国。\[2\]
 
-直到21世纪，H\&M才开始拓展其在[亚洲的业务](../Page/亚洲.md "wikilink")。虽然在1990年代H\&M已經在[香港開設辦公室](../Page/香港.md "wikilink")，為其在香港拓展業務；不過，長達十多年也未有開設分店。到2007年3月10日正式在香港開業。同年4月，中国首间H\&M店在[上海开业](../Page/上海.md "wikilink")。H\&M[深圳益田假日广场分店于](../Page/深圳.md "wikilink")2008年8月30日开业，是该公司在华南地区除香港特区外设立的首家分店。同年[日本](../Page/日本.md "wikilink")[东京首家店铺开业](../Page/东京.md "wikilink")\[3\]。2009年，该公司在北京开设了四间分店\[4\]。2014年，该公司在[珠海开设了两间分店](../Page/珠海.md "wikilink")。分别位于[南屏镇的華發商都和](../Page/南屏镇.md "wikilink")[老香洲的揚名廣場](../Page/老香洲.md "wikilink")。经过多年的拓点，至今H\&M在[中国已超过](../Page/中国.md "wikilink")350家分店。H\&M台灣首間旗艦店於2015年2月13日上午10時隆重開幕。坐落於台北市指標地段信義計畫區的微風松高店，總共有三層樓，店面面積超過
+直到21世纪，H\&M才开始拓展其在[亚洲的业务](../Page/亚洲.md "wikilink")。虽然在1990年代H\&M已經在[香港開設辦公室](../Page/香港.md "wikilink")，為其在香港拓展業務；不過，長達十多年也未有開設分店。到2007年3月10日正式在香港開業。同年4月，中国首间H\&M店在[上海开业](https://zh.wikipedia.org/wiki/上海 "wikilink")。H\&M[深圳益田假日广场分店于](https://zh.wikipedia.org/wiki/深圳 "wikilink")2008年8月30日开业，是该公司在华南地区除香港特区外设立的首家分店。同年[日本](../Page/日本.md "wikilink")[东京首家店铺开业](../Page/东京.md "wikilink")\[3\]。2009年，该公司在北京开设了四间分店\[4\]。2014年，该公司在[珠海开设了两间分店](https://zh.wikipedia.org/wiki/珠海 "wikilink")。分别位于[南屏镇的華發商都和](https://zh.wikipedia.org/wiki/南屏镇 "wikilink")[老香洲的揚名廣場](https://zh.wikipedia.org/wiki/老香洲 "wikilink")。经过多年的拓点，至今H\&M在[中国已超过](https://zh.wikipedia.org/wiki/中国 "wikilink")350家分店。H\&M台灣首間旗艦店於2015年2月13日上午10時隆重開幕。坐落於台北市指標地段信義計畫區的微風松高店，總共有三層樓，店面面積超過
 2900 平方公尺，旗艦店更設有 H\&M Home
 家居部門。H\&M亞洲最大旗艦店於2016年11月開幕。坐落於台灣台北市西門町的西門旗艦店，總共有五層樓，店面面積超過
 5000 平方公尺。
@@ -52,12 +52,12 @@ United Nations Human Rights Office 的 《Free & Equal》 計劃\[11\]。
 ## 特点
 
 [缩略图](https://zh.wikipedia.org/wiki/File:H&M_Flagship_store_in_HK_CWB_Exterior_201511.jpg "fig:缩略图")[銅鑼灣恆隆中心內的H](../Page/銅鑼灣.md "wikilink")\&M樓高三層，面積達4.6萬方呎，在台北西門町旗艦店開幕前為亞洲首家及最大型的H\&M全球旗艦店。\]\]
-作为快速服装生产商，H\&M的最大特点之一就是从服装设计到成为[专卖店中商品的时间极短](../Page/专卖店.md "wikilink")。这使得[消费者能够更快速得接触到最前衛的时尚商品](../Page/消费者.md "wikilink")。还有助于压缩[成本](../Page/成本.md "wikilink")，H\&M的产品比定位类似的西班牙品牌[Zara还要便宜一些](../Page/Zara.md "wikilink")。\[15\]款式多、数量少的销售理念运用了[长尾效应的原理](../Page/长尾效应.md "wikilink")。H\&M在宣传方面投入也很多，除了[广告外](../Page/广告.md "wikilink")，它还与著名设计师或是名人如[瑪丹娜联手设计服装以吸引人们的购买欲](../Page/瑪丹娜.md "wikilink")。H\&M最吸引人的还是其在时尚界主导了奢侈大牌和平價快速时尚的crossover。H\&M从2004年起便和奢侈品大牌进行跨界合作，每当合作，便有很多人为了H\&M价格低廉却是一线大牌设计师设计的衣服而去疯狂排队，这包括了2012年的[Marni](../Page/Marni.md "wikilink"),
-2011年的[Versace](../Page/Versace.md "wikilink")，2010年的[Lanvin](../Page/Lanvin.md "wikilink")，以及[川久保玲](../Page/川久保玲.md "wikilink")，[Jimmy
-Choo](../Page/Jimmy_Choo.md "wikilink")，[Roberto
-Cavalli](../Page/Roberto_Cavalli.md "wikilink")，Maison Martin Margiela,
-Isabel Marant, [Alexander
-Wang等](../Page/Alexander_Wang.md "wikilink")\[16\]
+作为快速服装生产商，H\&M的最大特点之一就是从服装设计到成为[专卖店中商品的时间极短](https://zh.wikipedia.org/wiki/专卖店 "wikilink")。这使得[消费者能够更快速得接触到最前衛的时尚商品](../Page/消费者.md "wikilink")。还有助于压缩[成本](../Page/成本.md "wikilink")，H\&M的产品比定位类似的西班牙品牌[Zara还要便宜一些](https://zh.wikipedia.org/wiki/Zara "wikilink")。\[15\]款式多、数量少的销售理念运用了[长尾效应的原理](https://zh.wikipedia.org/wiki/长尾效应 "wikilink")。H\&M在宣传方面投入也很多，除了[广告外](https://zh.wikipedia.org/wiki/广告 "wikilink")，它还与著名设计师或是名人如[瑪丹娜联手设计服装以吸引人们的购买欲](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")。H\&M最吸引人的还是其在时尚界主导了奢侈大牌和平價快速时尚的crossover。H\&M从2004年起便和奢侈品大牌进行跨界合作，每当合作，便有很多人为了H\&M价格低廉却是一线大牌设计师设计的衣服而去疯狂排队，这包括了2012年的[Marni](https://zh.wikipedia.org/wiki/Marni "wikilink"),
+2011年的[Versace](https://zh.wikipedia.org/wiki/Versace "wikilink")，2010年的[Lanvin](https://zh.wikipedia.org/wiki/Lanvin "wikilink")，以及[川久保玲](../Page/川久保玲.md "wikilink")，[Jimmy
+Choo](https://zh.wikipedia.org/wiki/Jimmy_Choo "wikilink")，[Roberto
+Cavalli](https://zh.wikipedia.org/wiki/Roberto_Cavalli "wikilink")，Maison
+Martin Margiela, Isabel Marant, [Alexander
+Wang等](https://zh.wikipedia.org/wiki/Alexander_Wang "wikilink")\[16\]
 
 ## 分店
 
@@ -65,7 +65,7 @@ Wang等](../Page/Alexander_Wang.md "wikilink")\[16\]
 ](https://zh.wikipedia.org/wiki/File:H&M_world_map.svg "fig:2012年全球分店圖       ")
 截至2018年6月，H\&M 分店遍佈全球 68 個國家和地區，分店數目為 4338 間。（最新信息请参考瑞典语）
 
-  - [亞洲](../Page/亞洲.md "wikilink")（共 917 間）
+  - [亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")（共 917 間）
 
 <!-- end list -->
 
@@ -157,7 +157,7 @@ Wang等](../Page/Alexander_Wang.md "wikilink")\[16\]
 
 <!-- end list -->
 
-  - [歐洲](../Page/歐洲.md "wikilink")（共 2674 間）
+  - [歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")（共 2674 間）
 
 <!-- end list -->
 
@@ -230,12 +230,14 @@ Wang等](../Page/Alexander_Wang.md "wikilink")\[16\]
   - ：1 間
 
 H\&M Costanera
-Center.jpg|[智利](../Page/智利.md "wikilink")[聖地亞哥Costanera](../Page/聖地亞哥.md "wikilink")
-Center分店 H\&M Ginza.jpg|[東京銀座店](../Page/東京.md "wikilink")
-H\&M戎橋店.jpg|[大阪戎橋店](../Page/大阪.md "wikilink") H\&M Mong Kok
-Flagship Store GF 201607.jpg|香港旺角店 Apm Level 1 X-side H\&M
-2015.jpg|香港觀塘[apm分店](../Page/apm.md "wikilink") HM ZHUHAI HUAFA
-MALL.jpg|[珠海华发商都店](../Page/珠海.md "wikilink")
+Center.jpg|[智利](../Page/智利.md "wikilink")[聖地亞哥Costanera](https://zh.wikipedia.org/wiki/聖地亞哥 "wikilink")
+Center分店 H\&M
+Ginza.jpg|[東京銀座店](https://zh.wikipedia.org/wiki/東京 "wikilink")
+H\&M戎橋店.jpg|[大阪戎橋店](https://zh.wikipedia.org/wiki/大阪 "wikilink") H\&M
+Mong Kok Flagship Store GF 201607.jpg|香港旺角店 Apm Level 1 X-side H\&M
+2015.jpg|香港觀塘[apm分店](https://zh.wikipedia.org/wiki/apm "wikilink") HM
+ZHUHAI HUAFA
+MALL.jpg|[珠海华发商都店](https://zh.wikipedia.org/wiki/珠海 "wikilink")
 
 ## 旗下品牌
 
@@ -249,11 +251,11 @@ MALL.jpg|[珠海华发商都店](../Page/珠海.md "wikilink")
 
 ## 競爭品牌
 
-  - [Zara](../Page/Zara.md "wikilink")
-  - [Uniqlo](../Page/Uniqlo.md "wikilink")
-  - [GAP](../Page/Gap_\(服饰\).md "wikilink")
-  - [Forever 21](../Page/Forever_21.md "wikilink")
-  - [Bossini](../Page/Bossini.md "wikilink")
+  - [Zara](https://zh.wikipedia.org/wiki/Zara "wikilink")
+  - [Uniqlo](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")
+  - [GAP](https://zh.wikipedia.org/wiki/Gap_\(服饰\) "wikilink")
+  - [Forever 21](https://zh.wikipedia.org/wiki/Forever_21 "wikilink")
+  - [Bossini](https://zh.wikipedia.org/wiki/Bossini "wikilink")
 
 ## 參考文獻
 

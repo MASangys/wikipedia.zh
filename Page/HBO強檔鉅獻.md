@@ -1,13 +1,13 @@
 **HBO HiTS（HBO強檔鉅獻）**在2006年3月16日和[HBO
-Family同時成為](../Page/HBO_Family.md "wikilink")[HBO
-Asia頻道系列之一](../Page/HBO#HBO_Asia.md "wikilink")。這個頻道只在[亞洲播放](../Page/亞洲.md "wikilink")，[美國](../Page/美國.md "wikilink")[HBO並沒有此頻道](../Page/HBO.md "wikilink")。HBO
+Family同時成為](https://zh.wikipedia.org/wiki/HBO_Family "wikilink")[HBO
+Asia頻道系列之一](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")。這個頻道只在[亞洲播放](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[HBO並沒有此頻道](../Page/HBO.md "wikilink")。HBO
 HiTS專門播放著名巨星及導演所參與的大製作和熱門賣座的荷里活電影。HBO
-HiTS每週精選七套全新電影，而為免觀眾錯過電影，更會多次重播這些片集。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](../Page/now寬頻電視.md "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
+HiTS每週精選七套全新電影，而為免觀眾錯過電影，更會多次重播這些片集。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
 
 ## 節目與短片
 
-每月於[HBO首輪電影](../Page/HBO#HBO_\(Asia\).md "wikilink")（HBO Blockbuster of
-the Month）的電影，通常會於下月的其中一週被HBO
+每月於[HBO首輪電影](https://zh.wikipedia.org/wiki/HBO#HBO_\(Asia\) "wikilink")（HBO
+Blockbuster of the Month）的電影，通常會於下月的其中一週被HBO
 HiTS選為七套熱門電影之一，讓錯過了的觀眾能夠收看。另外，HBO的電影預告特輯「The
 Big Preview」也會於HBO HiTS播放多次。
 

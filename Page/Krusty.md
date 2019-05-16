@@ -1,10 +1,10 @@
-**Krusty**是由兩人所組成的[香港](../Page/香港.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")，由[張詠恩](../Page/張詠恩.md "wikilink")（Jan，1982年7月18日出生，是[張致恆](../Page/張致恆.md "wikilink")（[Boy'z成員之一](../Page/Boy'z.md "wikilink")）的姊姊）與[活己嵐](../Page/活己嵐.md "wikilink")（Chucky，1986年2月5日出生）於2005年組成，所屬唱片公司為[Silly
-Thing](../Page/Silly_Thing.md "wikilink")。張詠恩於2011年5月14日，與[唐劍康](../Page/唐劍康.md "wikilink")（Donald，商台DJ，[I
+**Krusty**是由兩人所組成的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[張詠恩](https://zh.wikipedia.org/wiki/張詠恩 "wikilink")（Jan，1982年7月18日出生，是[張致恆](../Page/張致恆.md "wikilink")（[Boy'z成員之一](../Page/Boy'z.md "wikilink")）的姊姊）與[活己嵐](https://zh.wikipedia.org/wiki/活己嵐 "wikilink")（Chucky，1986年2月5日出生）於2005年組成，所屬唱片公司為[Silly
+Thing](https://zh.wikipedia.org/wiki/Silly_Thing "wikilink")。張詠恩於2011年5月14日，與[唐劍康](../Page/唐劍康.md "wikilink")（Donald，商台DJ，[I
 Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") 成員之一）結婚。
 
 ## 名稱由來
 
-Krusty是美國卡通片《[-{zh:辛普森一家;zh-hans:辛普森一家;zh-hant:辛普森一家;zh-cn:辛普森一家;zh-tw:辛普森家庭;zh-hk:阿森一族;zh-mo:阿森一族;}-](../Page/辛普森一家.md "wikilink")》的卡通小丑角色[小丑庫斯提](../Page/小丑庫斯提.md "wikilink")（Krusty
+Krusty是美國卡通片《[-{zh:辛普森一家;zh-hans:辛普森一家;zh-hant:辛普森一家;zh-cn:辛普森一家;zh-tw:辛普森家庭;zh-hk:阿森一族;zh-mo:阿森一族;}-](../Page/辛普森一家.md "wikilink")》的卡通小丑角色[小丑庫斯提](https://zh.wikipedia.org/wiki/小丑庫斯提 "wikilink")（Krusty
 the Clown），從而希望能夠藉著她們的音樂，帶給歌迷開開心心的感覺。
 
 ## 唱片
@@ -23,9 +23,9 @@ the Clown），從而希望能夠藉著她們的音樂，帶給歌迷開開心�
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="../Page/Hello_Krusty.md" title="wikilink">Hello Krusty</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Hello_Krusty" title="wikilink">Hello Krusty</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/Silly_Thing.md" title="wikilink">Silly Thing</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Silly_Thing" title="wikilink">Silly Thing</a></p></td>
 <td style="text-align: left;"><p>2005年10月27日</p></td>
 <td style="text-align: left;"><p><strong>AVCD</strong></p>
 <ol>
@@ -52,7 +52,7 @@ the Clown），從而希望能夠藉著她們的音樂，帶給歌迷開開心�
 
 ### 電影
 
-  - 2006年《[八月的故事](../Page/八月的故事.md "wikilink")》（只有Jan）
+  - 2006年《[八月的故事](https://zh.wikipedia.org/wiki/八月的故事 "wikilink")》（只有Jan）
   - 2008年《[親密](../Page/親密_\(2009年電影\).md "wikilink")》（只有Chucky）
 
 ### 電視演出
@@ -64,9 +64,11 @@ the Clown），從而希望能夠藉著她們的音樂，帶給歌迷開開心�
 
   - 2005年 [新城勁爆頒獎禮勁爆新登場組合獎](../Page/新城勁爆頒獎禮.md "wikilink")
   - 2005年 [叱咤樂壇流行榜頒獎典禮生力軍組合銀獎](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink")
-  - 2005年 [十大勁歌金曲頒獎典禮新人薦場飆升獎](../Page/十大勁歌金曲頒獎典禮.md "wikilink")
+  - 2005年
+    [十大勁歌金曲頒獎典禮新人薦場飆升獎](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")
   - 2007年 [新城國語力頒獎禮新勢力組合獎](../Page/新城國語力頒獎禮.md "wikilink")
-  - 2007年 [TVB8金曲榜頒獎典禮最受歡迎組合銅獎](../Page/TVB8金曲榜頒獎典禮.md "wikilink")
+  - 2007年
+    [TVB8金曲榜頒獎典禮最受歡迎組合銅獎](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")
 
 ## 外部連結
 

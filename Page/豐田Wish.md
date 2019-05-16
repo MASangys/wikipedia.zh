@@ -1,13 +1,13 @@
-**豐田Wish**（日語：）是[豐田汽車旗下的一款](../Page/豐田汽車.md "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，於2002年上市，分別在[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國和](../Page/泰國.md "wikilink")[香港等地區販售](../Page/香港.md "wikilink")。
+**豐田Wish**（日語：）是[豐田汽車旗下的一款](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，於2002年上市，分別在[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[香港等地區販售](../Page/香港.md "wikilink")。
 
 ## 概要
 
-Wish最早於2002年在日本國內上市，以「滿足你的希望」來命名。車型屬於[緊湊型多功能休旅車](../Page/多功能休旅車.md "wikilink")（又稱**MPV**或**MiniVan**），採用五門三排七人座和六人座的設定（座椅配置為232和222），搭配高機動活動性的座椅設計，實用性相當的高。較[流线型的Metal](../Page/流线型.md "wikilink")
+Wish最早於2002年在日本國內上市，以「滿足你的希望」來命名。車型屬於[緊湊型多功能休旅車](../Page/多功能休旅車.md "wikilink")（又稱**MPV**或**MiniVan**），採用五門三排七人座和六人座的設定（座椅配置為232和222），搭配高機動活動性的座椅設計，實用性相當的高。較[流线型的Metal](https://zh.wikipedia.org/wiki/流线型 "wikilink")
 Capsule（金屬膠囊）外型讓人感覺較新穎而受年輕消費群偏愛，也讓得以減低風阻換來較佳的油耗成績。車高限制在 1,590
 毫米以因應機械式停車場的 1,600
 毫米限高。因為這些賣點，讓Wish至今在日本、臺灣、香港等地不錯的銷售量延續下來。
 
-在臺灣因為[中華民國交通部汽車運輸業管理規則第九十一條限制](../Page/中華民國交通部.md "wikilink")[計程車可使用的車型為四門轎式車型](../Page/出租車.md "wikilink")（2017年8月30日修正法規放寬旅行式或廂式小客車皆可做為計程車），導致多數的多功能休旅車與[运动型多用途车皆無法作為計程車使用](../Page/运动型多用途车.md "wikilink")。然而因為Wish在[經濟部能源局所登記的車型資料為轎式車型](../Page/經濟部能源局.md "wikilink")，因此可以合法地成為計程車，結果促成臺灣充斥著Wish作為計程車的特別景象。由於相較於其他[轿车](../Page/轿车.md "wikilink")，Wish寬大的空間加上可以乘坐七人的設計，因而廣受消費者喜愛，而對計程車業者而言，Wish售價實惠油耗也可接受，加上車輛眾多維修容易，因此很快變成臺灣計程車界的「小黃帝」，甚至成為停產前銷售量暴漲的原因。日本模型車商還因此推出**Toyota
+在臺灣因為[中華民國交通部汽車運輸業管理規則第九十一條限制](../Page/中華民國交通部.md "wikilink")[計程車可使用的車型為四門轎式車型](../Page/出租車.md "wikilink")（2017年8月30日修正法規放寬旅行式或廂式小客車皆可做為計程車），導致多數的多功能休旅車與[运动型多用途车皆無法作為計程車使用](../Page/运动型多用途车.md "wikilink")。然而因為Wish在[經濟部能源局所登記的車型資料為轎式車型](https://zh.wikipedia.org/wiki/經濟部能源局 "wikilink")，因此可以合法地成為計程車，結果促成臺灣充斥著Wish作為計程車的特別景象。由於相較於其他[轿车](../Page/轿车.md "wikilink")，Wish寬大的空間加上可以乘坐七人的設計，因而廣受消費者喜愛，而對計程車業者而言，Wish售價實惠油耗也可接受，加上車輛眾多維修容易，因此很快變成臺灣計程車界的「小黃帝」，甚至成為停產前銷售量暴漲的原因。日本模型車商還因此推出**Toyota
 Wish Taiwan Taxi**特別版模型。 {{-}}
 
 ## 歷史
@@ -15,23 +15,23 @@ Wish Taiwan Taxi**特別版模型。 {{-}}
 ### 第一代
 
 2003年1月，Wish於日本初次上市，以年輕的外型和高實用性的設計為主打，成功在日本熱賣。引擎分別1.8 1ZZ-FE直四DOHC和2.0
-1AZ-FSE直四DOHC加D-4[缸內直噴](../Page/汽油缸內直噴.md "wikilink")，最大馬力分別為132ps和155ps，並分別搭配四速[自排和CVT](../Page/自動變速器.md "wikilink")[無段變速自排](../Page/無段自動變速器.md "wikilink")，並供應[前置前驅和](../Page/前置前驅.md "wikilink")[四輪驅動的版本](../Page/四輪驅動.md "wikilink")。
+1AZ-FSE直四DOHC加D-4[缸內直噴](https://zh.wikipedia.org/wiki/汽油缸內直噴 "wikilink")，最大馬力分別為132ps和155ps，並分別搭配四速[自排和CVT](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")[無段變速自排](../Page/無段自動變速器.md "wikilink")，並供應[前置前驅和](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")[四輪驅動的版本](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
 
 2004年9月，臺灣Wish以國產的姿態在台上市，針對臺灣人的胃口將日本版的外型做了修改。引擎統一改搭載2.0 1AZ-FE
 VVT-i直四汽油引擎，最大馬力150hp/6000rpm，最大扭力由19.6kgm/4000rpm，平均油耗則由12.5 km/l(美規油耗)。修改了頭燈、水箱罩、霧燈、氣霸、前後保險桿，新增了雙天窗以及將尾燈的LED數量增多。也比照日本車款，裝備了日本富士通觸控式DVD音響主機。一上市後就站上同級車銷售第一名。
 
-此車的觸控式DVD音響主機在豐田許多旗下車型共用，操作簡便、功能極佳是其特點。也讓許多車主愛車中的[音響主機遭受竊賊偷竊](../Page/汽車音響.md "wikilink")。
+此車的觸控式DVD音響主機在豐田許多旗下車型共用，操作簡便、功能極佳是其特點。也讓許多車主愛車中的[音響主機遭受竊賊偷竊](https://zh.wikipedia.org/wiki/汽車音響 "wikilink")。
 
-臺灣車型的車體[鈑金與日規安全設計相同](../Page/鈑金.md "wikilink")，後保險桿內並無裝設防撞鋼樑。也因為如此，飽受許多網友批評，安全性遭受質疑。不過卻不影響Wish的銷售量，臺灣製造商國瑞汽車也將後保桿內新增保麗龍提升強度。
+臺灣車型的車體[鈑金與日規安全設計相同](https://zh.wikipedia.org/wiki/鈑金 "wikilink")，後保險桿內並無裝設防撞鋼樑。也因為如此，飽受許多網友批評，安全性遭受質疑。不過卻不影響Wish的銷售量，臺灣製造商國瑞汽車也將後保桿內新增保麗龍提升強度。
 
 2004年，在日本有款以Wish為基礎衍生的箱型車款-Isis。Isis在上市後之今已經歷數次小改款，但尺碼始終維持1640 毫米 X 1710
 毫米 X 1640 毫米，目前動力來與第二代Wish日規版相同，採用1.8公升 2ZR-FAE L4 DOHC 16V或2.0公升
 3ZR-FAE L4 DOHC
-16V的引擎並搭配CVT[無段變速自排變速箱](../Page/無段自動變速器.md "wikilink")，亦有供應[FF與](../Page/前置前驅.md "wikilink")[4WD兩種驅動方式](../Page/四輪驅動.md "wikilink")。
+16V的引擎並搭配CVT[無段變速自排變速箱](../Page/無段自動變速器.md "wikilink")，亦有供應[FF與](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")[4WD兩種驅動方式](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。
 
-2005年11月左右，[馬自達推出](../Page/馬自達.md "wikilink")[Premacy第二代](../Page/Mazda5.md "wikilink")(海外版稱為Mazda5)且尺碼增加到與Wish相近。為應付競爭對手的增加，Toyota及時推出Wish
+2005年11月左右，[馬自達推出](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[Premacy第二代](https://zh.wikipedia.org/wiki/Mazda5 "wikilink")(海外版稱為Mazda5)且尺碼增加到與Wish相近。為應付競爭對手的增加，Toyota及時推出Wish
 Z運動版來撐場。Wish
-Z與其他版本的不同在於座位上由七人座改為六人座，因此增加了一條中央走道，同時將後[懸吊系統由扭力桿拖曳臂式改成](../Page/懸吊系統.md "wikilink")[獨立雙A臂式](../Page/雙橫臂懸架.md "wikilink")，並將輪胎尺寸由195/65
+Z與其他版本的不同在於座位上由七人座改為六人座，因此增加了一條中央走道，同時將後[懸吊系統由扭力桿拖曳臂式改成](../Page/懸吊系統.md "wikilink")[獨立雙A臂式](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")，並將輪胎尺寸由195/65
 R15提升到215/50
 R17，輪圈也同時由15吋加大到17吋，並由五爪改到七爪，裝上加大輪弧。外觀Z將左右側裙列為標準配備。由於規格上有多處被性能化，因此Wish
 Z的操控性提升不少，但價位也因此提高，所以銷售量遠不及七人座的版本。Wish
@@ -40,10 +40,10 @@ Z仍分為兩版，分別是Z和Z-option，後者價位超過新台幣九十萬�
 Image:Toyota Wish (first generation) (front), Kajang.jpg|第一代WishZ版車頭
 Image:Toyota Wish (first generation) (rear), Kajang.jpg|第一代WishZ版車尾
 
-由於市場上的競爭者[Ford](../Page/福特汽車.md "wikilink")
-[i-MAX](../Page/馬自達5.md "wikilink")、[Mazda](../Page/Mazda.md "wikilink")
-[Mazda5和](../Page/馬自達Mazda5.md "wikilink")[Mitsubishi](../Page/Mitsubishi.md "wikilink")
-[Savrin皆以改款提升產品競爭力](../Page/三菱Savrin.md "wikilink")。再加上多款同級車型即將登場，在2007年3月，Wish推出了小改款車型，內裝以及車頭的質感提升是此次改款的重點，其餘則未做更動。
+由於市場上的競爭者[Ford](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")
+[i-MAX](../Page/馬自達5.md "wikilink")、[Mazda](https://zh.wikipedia.org/wiki/Mazda "wikilink")
+[Mazda5和](https://zh.wikipedia.org/wiki/馬自達Mazda5 "wikilink")[Mitsubishi](https://zh.wikipedia.org/wiki/Mitsubishi "wikilink")
+[Savrin皆以改款提升產品競爭力](https://zh.wikipedia.org/wiki/三菱Savrin "wikilink")。再加上多款同級車型即將登場，在2007年3月，Wish推出了小改款車型，內裝以及車頭的質感提升是此次改款的重點，其餘則未做更動。
 {{-}}
 
 ### 第二代
@@ -80,7 +80,7 @@ kgm/3600 rpm，油耗表現在美國FTP-75測試值測驗下進步到16.3 km/L�
 
 各版本分別為2.0雅致、2.0經典、2.0豪華與2.0尊爵車型，價格介於76.9萬\~87.9萬台幣之間。小改款改善油耗後在台上市第一個月即突破兩千輛銷售量的佳績。
 
-因不符合臺灣自2016年7月1日起法規要求新車與改款需強制安裝胎壓偵測器，台灣總代理和泰汽車第二代版本Wish於2016年6月30日即將宣佈停產。2016年6月30日產出台灣最後一台Wish，並於2016年7月1日正式停產。臺灣總代理和泰汽車宣佈引進[Sienta車款續替台灣第二代Wish車款](../Page/豐田Sienta.md "wikilink")，訂於2016年第四季至2017年第一季由台灣國瑞汽車製造以國產方式上市。
+因不符合臺灣自2016年7月1日起法規要求新車與改款需強制安裝胎壓偵測器，台灣總代理和泰汽車第二代版本Wish於2016年6月30日即將宣佈停產。2016年6月30日產出台灣最後一台Wish，並於2016年7月1日正式停產。臺灣總代理和泰汽車宣佈引進[Sienta車款續替台灣第二代Wish車款](https://zh.wikipedia.org/wiki/豐田Sienta "wikilink")，訂於2016年第四季至2017年第一季由台灣國瑞汽車製造以國產方式上市。
 
 Image:Taiwan Taxi Corp 099-C6 20120103 night.jpg|第二代Wish（臺灣計程車）
 Image:TOYOTA WISH ZGE20 2012 01.JPG|第二代Wish小改款車頭 Image:TOYOTA WISH ZGE20
@@ -90,7 +90,7 @@ Image:TOYOTA WISH ZGE20 2012 01.JPG|第二代Wish小改款車頭 Image:TOYOTA WI
 
 ## 相關條目
 
-  - [豐田Previa](../Page/豐田Previa.md "wikilink")
+  - [豐田Previa](https://zh.wikipedia.org/wiki/豐田Previa "wikilink")
 
 ## 外部連結
 

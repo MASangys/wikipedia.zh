@@ -1,9 +1,9 @@
-[JP-Izumi001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumi001.JPG "fig:JP-Izumi001.JPG")[和泉市](../Page/和泉市.md "wikilink")[萬町](../Page/萬町_\(和泉市\).md "wikilink")980-1\]\]
-[JP-Izumiotsu001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumiotsu001.JPG "fig:JP-Izumiotsu001.JPG")[東豐中町](../Page/東豐中町.md "wikilink")2-2-7\]\]
+[JP-Izumi001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumi001.JPG "fig:JP-Izumi001.JPG")[和泉市](../Page/和泉市.md "wikilink")[萬町](https://zh.wikipedia.org/wiki/萬町_\(和泉市\) "wikilink")980-1\]\]
+[JP-Izumiotsu001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumiotsu001.JPG "fig:JP-Izumiotsu001.JPG")[東豐中町](https://zh.wikipedia.org/wiki/東豐中町 "wikilink")2-2-7\]\]
 **Sunday's
-Sun股份有限公司**（[日語](../Page/日語.md "wikilink")：），是[日本一家起初以同一名字經營連鎖](../Page/日本.md "wikilink")[家庭式餐館](../Page/家庭式餐館.md "wikilink")，後來發展成經營各類[餐館的](../Page/餐館.md "wikilink")[餐飲](../Page/餐飲業.md "wikilink")[企業](../Page/企業.md "wikilink")。目前為[Zensho](../Page/Zensho.md "wikilink")（）的[連結子公司](../Page/連結子公司.md "wikilink")。[總社位於](../Page/總社.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")。
+Sun股份有限公司**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本一家起初以同一名字經營連鎖](../Page/日本.md "wikilink")[家庭式餐館](https://zh.wikipedia.org/wiki/家庭式餐館 "wikilink")，後來發展成經營各類[餐館的](https://zh.wikipedia.org/wiki/餐館 "wikilink")[餐飲](https://zh.wikipedia.org/wiki/餐飲業 "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")。目前為[Zensho](https://zh.wikipedia.org/wiki/Zensho "wikilink")（）的[連結子公司](https://zh.wikipedia.org/wiki/連結子公司 "wikilink")。[總社位於](../Page/總社.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")。
 
-公司主要在[中國地方](../Page/中國地方.md "wikilink")、[首都圈](../Page/首都圈.md "wikilink")、[近畿圈等地發展](../Page/近畿地方.md "wikilink")。除了Sunday's
+公司主要在[中國地方](https://zh.wikipedia.org/wiki/中國地方 "wikilink")、[首都圈](../Page/首都圈.md "wikilink")、[近畿圈等地發展](../Page/近畿地方.md "wikilink")。除了Sunday's
 Sun外，集團還開展了[意大利粉餐廳](../Page/意式麵食.md "wikilink")「**Jolly
 Pasta**（）」、意式餐廳「**Fracasso**（）」等業務。集團一度傾向於以Jolly
 Pasta為核心的業務型態，然而近年來，公司透過改裝現有店鋪來把業務進一步多元化發展。
@@ -11,21 +11,21 @@ Pasta為核心的業務型態，然而近年來，公司透過改裝現有店鋪
 ## 沿革
 
   - 1971年10月：Sunday's Sun的第一號店於山口縣[德山市](../Page/德山市.md "wikilink")\[1\]
-    開張，此後主要在[中國地方](../Page/中國地方.md "wikilink")、首都圈、近畿圈進行店鋪發展的計劃。
+    開張，此後主要在[中國地方](https://zh.wikipedia.org/wiki/中國地方 "wikilink")、首都圈、近畿圈進行店鋪發展的計劃。
   - 1990年：在[廣島證券交易所上市](../Page/廣島證券交易所.md "wikilink")。
   - 1993年：Sunday's Sun收購了廣島COCO'S（；[COCO'S
-    JAPAN](../Page/COCO'S_JAPAN.md "wikilink")（）的特許經營人）。
+    JAPAN](https://zh.wikipedia.org/wiki/COCO'S_JAPAN "wikilink")（）的特許經營人）。
   - 2000年：在[東京證券交易所第](../Page/東京證券交易所.md "wikilink")2部上市。
-  - 2006年4月：除了部分店鋪外，顧客都能在各家店中使用[電子現金](../Page/電子現金.md "wikilink")「[Edy](../Page/Edy.md "wikilink")」和非接觸式延期結帳卡「[QCICPay](../Page/QCICPay.md "wikilink")」付款。
-  - 2007年2月15日：經營牛肉飯連鎖店「」等的[Zensho](../Page/Zensho.md "wikilink")，宣布對Sunday's
-    Sun進行[收購](../Page/收購.md "wikilink")。包含公司的始創家族的Sunday's
+  - 2006年4月：除了部分店鋪外，顧客都能在各家店中使用[電子現金](https://zh.wikipedia.org/wiki/電子現金 "wikilink")「[Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")」和非接觸式延期結帳卡「[QCICPay](https://zh.wikipedia.org/wiki/QCICPay "wikilink")」付款。
+  - 2007年2月15日：經營牛肉飯連鎖店「」等的[Zensho](https://zh.wikipedia.org/wiki/Zensho "wikilink")，宣布對Sunday's
+    Sun進行[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")。包含公司的始創家族的Sunday's
     Sun取締役會亦對這次收購表示贊同\[2\]。
   - 2007年3月16日：Zensho宣布收購Sunday's Sun成功，並表示收購了52.13%的已發行股份\[3\]。Sunday's
-    Sun預定從3月26日開始成為Zensho的[連結子公司](../Page/連結子公司.md "wikilink")，在東京證券交易所的上市地位亦應可獲保留。
+    Sun預定從3月26日開始成為Zensho的[連結子公司](https://zh.wikipedia.org/wiki/連結子公司 "wikilink")，在東京證券交易所的上市地位亦應可獲保留。
   - 2007年9月25日：為了集中Sunday's Sun的經營資源到Jolly Pasta的店鋪中，Sunday's
     Sun透過簡易分拆的方法，將Sunday's
-    Sun的事業部門[分拆成](../Page/公司分拆.md "wikilink")「」和「」兩家子公司。在11月1日，這兩家公司的股份分別被轉讓給COCO'S
-    JAPAN和[BigBoy](../Page/BigBoy.md "wikilink")（實質上的[經營轉讓](../Page/經營轉讓.md "wikilink")）。除了在[山口宇部機場內的一家分店外](../Page/山口宇部機場.md "wikilink")，其餘Sunday's
+    Sun的事業部門[分拆成](https://zh.wikipedia.org/wiki/公司分拆 "wikilink")「」和「」兩家子公司。在11月1日，這兩家公司的股份分別被轉讓給COCO'S
+    JAPAN和[BigBoy](https://zh.wikipedia.org/wiki/BigBoy "wikilink")（實質上的[經營轉讓](https://zh.wikipedia.org/wiki/經營轉讓 "wikilink")）。除了在[山口宇部機場內的一家分店外](../Page/山口宇部機場.md "wikilink")，其餘Sunday's
     Sun的店鋪都會結束營業。
   - 2007年12月：停用「Edy」、「QUICPay」。
   - 2008年1月1日：總社轉移至Zensho總部所在的[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")，而位於山口縣的前總社則成為「德山總部」。
@@ -36,24 +36,25 @@ Pasta為核心的業務型態，然而近年來，公司透過改裝現有店鋪
 
   - [意大利粉餐廳](../Page/意式麵食.md "wikilink")「Jolly Pasta」
   - 意式餐廳「Fracasso」
-  - [肉排餐廳](../Page/肉排.md "wikilink")「Jolly-OX（）」
+  - [肉排餐廳](https://zh.wikipedia.org/wiki/肉排 "wikilink")「Jolly-OX（）」
   - 意式快餐店「Gina Gino（）」
   - 日式餐館「和_kitchen 陽介（）」
 
 ## 關連項目
 
-  - [14歲的母親](../Page/14歲的母親.md "wikilink") -
+  - [14歲的母親](https://zh.wikipedia.org/wiki/14歲的母親 "wikilink") -
     在作品中，主角的母親（[田中美佐子飾](../Page/田中美佐子.md "wikilink")）當[兼職的餐館](../Page/兼職.md "wikilink")，就是New
     Sunday's Sun[二子玉川店](../Page/二子玉川.md "wikilink")。
 
   - \- 延續其前身節目『』的企劃「把列在家庭式餐館的菜單上的食物全部吃光的男人」第一回的舞台，就是在Sunday's Sun中野店。
 
-  - 在[流星花園](../Page/流星花園.md "wikilink")（日劇版）中，[松本潤與](../Page/松本潤.md "wikilink")[井上真央也曾在Sunday](../Page/井上真央.md "wikilink")'s
+  - 在[流星花園](https://zh.wikipedia.org/wiki/流星花園 "wikilink")（日劇版）中，[松本潤與](https://zh.wikipedia.org/wiki/松本潤 "wikilink")[井上真央也曾在Sunday](../Page/井上真央.md "wikilink")'s
     Sun二子玉川店進行拍攝的工作。
 
-  - [Sunday'z Sun e.p.](../Page/Sunday'z_Sun_e.p..md "wikilink") -
+  - [Sunday'z Sun
+    e.p.](https://zh.wikipedia.org/wiki/Sunday'z_Sun_e.p. "wikilink") -
     [SUEMITSU\&THE
-    SUEMITH的第](../Page/SUEMITSU&THE_SUEMITH.md "wikilink")3張單曲。歌名就是源自Sunday's
+    SUEMITH的第](https://zh.wikipedia.org/wiki/SUEMITSU&THE_SUEMITH "wikilink")3張單曲。歌名就是源自Sunday's
     Sun。
 
 ## 外部連結

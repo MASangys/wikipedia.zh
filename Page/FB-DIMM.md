@@ -1,5 +1,5 @@
 **Fully Buffered
-DIMM**（或**FB-DIMM**）是一種[記憶體解決方案](../Page/記憶體.md "wikilink")，用來增加記憶體系統的穩定性、速度、及容量密度。就傳統而言，[記憶體控制器上的資料線必須與每一個](../Page/記憶體控制器.md "wikilink")[DRAM模組相連接](../Page/DRAM.md "wikilink")，如此記憶體無論是拓寬存取介面的頻寬或加快存取介面的速度，都會使介面的信號轉差，如此不僅限制了速度的提升，也會限制記憶體系統的記憶空間提升，而FB-DIMM則是用不同的方式手法來解決這個問題。[JEDEC組織已經正式敲定發佈FB](../Page/JEDEC.md "wikilink")-DIMM的規範標準。
+DIMM**（或**FB-DIMM**）是一種[記憶體解決方案](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，用來增加記憶體系統的穩定性、速度、及容量密度。就傳統而言，[記憶體控制器上的資料線必須與每一個](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")[DRAM模組相連接](https://zh.wikipedia.org/wiki/DRAM "wikilink")，如此記憶體無論是拓寬存取介面的頻寬或加快存取介面的速度，都會使介面的信號轉差，如此不僅限制了速度的提升，也會限制記憶體系統的記憶空間提升，而FB-DIMM則是用不同的方式手法來解決這個問題。[JEDEC組織已經正式敲定發佈FB](../Page/JEDEC.md "wikilink")-DIMM的規範標準。
 
 [FBDIMM.gif](https://zh.wikipedia.org/wiki/File:FBDIMM.gif "fig:FBDIMM.gif")
 
@@ -12,7 +12,7 @@ Correction)」能力，能查出哪一條資料路徑損壞，並在運作過程
 
 此外，因為讀取及寫入都已經透過緩衝處理，所以記憶體控制器可同時執行讀取與寫入。如此不僅接線更簡化、記憶體頻寬更大，且就理論而言，記憶體控制器可以不用在意與理會所使用的是何種記憶體晶片，可以是以前的DDR2抑或是現在的DDR3，理論上可直接替換。不過，Fully
 Buffered
-DIMM的作法也有其不利處，特別是在功耗（）及資料存取需求的[延遲](../Page/延遲.md "wikilink")（，俗稱：[Lag](../Page/Lag.md "wikilink")）上。然而此方式應是未來最無顧慮的記憶體效能提升法。
+DIMM的作法也有其不利處，特別是在功耗（）及資料存取需求的[延遲](https://zh.wikipedia.org/wiki/延遲 "wikilink")（，俗稱：[Lag](https://zh.wikipedia.org/wiki/Lag "wikilink")）上。然而此方式應是未來最無顧慮的記憶體效能提升法。
 
 ## 外部連結
 

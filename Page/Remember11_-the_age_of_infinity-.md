@@ -1,14 +1,15 @@
 《**Remember11 -the age of
 infinity-**》是[KID於](../Page/KID.md "wikilink")2004年3月18日發售的[Playstation
-2遊戲](../Page/Playstation_2.md "wikilink")。\[1\]『infinity』系列的第3部。在2005年5月12日發售以[SuperLite2000作遊戲平臺的版本](../Page/SuperLite2000.md "wikilink")。\[2\][CERO分級為適合](../Page/CERO.md "wikilink")15歲以上對象。
+2遊戲](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")。\[1\]『infinity』系列的第3部。在2005年5月12日發售以[SuperLite2000作遊戲平臺的版本](https://zh.wikipedia.org/wiki/SuperLite2000 "wikilink")。\[2\][CERO分級為適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上對象。
 
 [臺灣](../Page/臺灣.md "wikilink")[光譜資訊於](../Page/光譜資訊.md "wikilink")2007年4月23日公佈「Remember11
--the age of infinity- 」將從 [PS2](../Page/PS2.md "wikilink") 平台移植至
+-the age of infinity- 」將從
+[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink") 平台移植至
 [PC](../Page/PC.md "wikilink")，並將遊戲中文化。繁體中文化版本定名為「**時光的記憶
-Remember11**」，於2008年4月23日發行，售價為850元[新台幣](../Page/新台幣.md "wikilink")／港幣180元，附送攻略設定集及同名小說。台灣區首批預購版額外贈送infinity畫冊；攻略設定集的專有名詞解釋最為重要，遊戲是概念的實踐，同名小說為完整的故事，三者合一，就能理解這隻遊戲的全部，為infinity系列最高水準之作。香港區首批預購版則附送遊戲「[吸血姬夕維](../Page/吸血姬夕維.md "wikilink")
+Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")／港幣180元，附送攻略設定集及同名小說。台灣區首批預購版額外贈送infinity畫冊；攻略設定集的專有名詞解釋最為重要，遊戲是概念的實踐，同名小說為完整的故事，三者合一，就能理解這隻遊戲的全部，為infinity系列最高水準之作。香港區首批預購版則附送遊戲「[吸血姬夕維](../Page/吸血姬夕維.md "wikilink")
 - 千夜抄」。
 
-2008年9月[北京娱乐通在中国大陆地区发行简体中文版](../Page/北京娱乐通.md "wikilink")，定名**Remember
+2008年9月[北京娱乐通在中国大陆地区发行简体中文版](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")，定名**Remember
 11 - 无限轮回的时光**。和台版不同，简体中文版通过 PS2 模拟器运行，并加入在繁体中文版中由于版权问题没有包含的全程语音对白。
 
 ## 概要
@@ -81,7 +82,8 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](../Page
 
 <!-- end list -->
 
-  - 內海卡莉（、Utsumi Kali，CV：[久川綾](../Page/久川綾.md "wikilink")）
+  - 內海卡莉（、Utsumi
+    Kali，CV：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）
 
 <!-- end list -->
 
@@ -95,7 +97,7 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](../Page
 <!-- end list -->
 
   -
-    生日1991年10月30日（天蝎座），19歲。罹患[DID而被命令住進SPHIA的少女](../Page/解離性人格疾患.md "wikilink")。
+    生日1991年10月30日（天蝎座），19歲。罹患[DID而被命令住進SPHIA的少女](https://zh.wikipedia.org/wiki/解離性人格疾患 "wikilink")。
 
 <!-- end list -->
 
@@ -108,12 +110,12 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](../Page
 
 ## 工作人員
 
-  - 人物設計：[左](../Page/左_\(插画家\).md "wikilink")
+  - 人物設計：[左](https://zh.wikipedia.org/wiki/左_\(插画家\) "wikilink")
   - 劇本：[中澤工](../Page/中澤工.md "wikilink")、[槻潮鋼](../Page/打越鋼太郎.md "wikilink")
   - 音樂：[阿保剛](../Page/阿保剛.md "wikilink")
   - (PS2、PC版)OP：**little prophet**
       -
-        作詞、作曲：／演唱：[KAORI](../Page/KAORI.md "wikilink")
+        作詞、作曲：／演唱：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")
   - (PS2、PC版)ED：**Darkness of chaos**
       -
         作詞、作曲：／演唱：
@@ -128,23 +130,25 @@ Remember11**」，於2008年4月23日發行，售價為850元[新台幣](../Page
 
 ## 參見
 
-  - [Infinity](../Page/無限輪迴.md "wikilink")
+  - [Infinity](https://zh.wikipedia.org/wiki/無限輪迴 "wikilink")
 
-  - [Never7 -the end of infinity](../Page/無限輪迴.md "wikilink")
+  - [Never7 -the end of
+    infinity](https://zh.wikipedia.org/wiki/無限輪迴 "wikilink")
 
   - [Ever17 -the out of
-    infinity-](../Page/Ever17_-the_out_of_infinity-.md "wikilink")
+    infinity-](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity- "wikilink")
 
   -
 ## 外部連結
 
   - [時光的記憶](http://www.ttime.com.tw/game/r11/)
   - [infinity
-    系列首頁](https://web.archive.org/web/20061127034809/http://www.kid-game.co.jp/kid/game/game_galkid/infinity/index/)（infinity/Never7/Ever17/Remember11共通），存於[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    系列首頁](https://web.archive.org/web/20061127034809/http://www.kid-game.co.jp/kid/game/game_galkid/infinity/index/)（infinity/Never7/Ever17/Remember11共通），存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
   - [Left
     Site](https://web.archive.org/web/20061230085417/http://www3.ctktv.ne.jp/~yosida-p/)
-    — 左（Remember11 人物設計）的個人網頁，存於[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    — 左（Remember11
+    人物設計）的個人網頁，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
 
 [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")

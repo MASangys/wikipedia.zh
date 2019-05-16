@@ -1,19 +1,20 @@
-**LL分析器**是一种处理某些[上下文无关文法的](../Page/上下文无关文法.md "wikilink")[自顶向下](../Page/自上而下.md "wikilink")[分析器](../Page/分析器.md "wikilink")。因为它从**左**（**Left**）到右处理输入，再对[句型执行](../Page/句型.md "wikilink")[**最左推导**出语法树](../Page/上下文无关文法#推导与语法树.md "wikilink")（**Left**
-derivation，相对于[LR分析器](../Page/LR分析器.md "wikilink")）。能以此方法分析的文法称为**LL
+**LL分析器**是一种处理某些[上下文无关文法的](../Page/上下文无关文法.md "wikilink")[自顶向下](https://zh.wikipedia.org/wiki/自上而下 "wikilink")[分析器](https://zh.wikipedia.org/wiki/分析器 "wikilink")。因为它从**左**（**Left**）到右处理输入，再对[句型执行](https://zh.wikipedia.org/wiki/句型 "wikilink")[**最左推导**出语法树](https://zh.wikipedia.org/wiki/上下文无关文法#推导与语法树 "wikilink")（**Left**
+derivation，相对于[LR分析器](https://zh.wikipedia.org/wiki/LR分析器 "wikilink")）。能以此方法分析的文法称为**LL
 文法**。
 
-本文中将讨论表格驱动的分析器，而非通常由手工打造（非绝对，参看如[ANTLR等的](../Page/ANTLR.md "wikilink")
-LL(\*) 递归下降分析器生成器）的[递归下降分析器](../Page/递归下降分析器.md "wikilink")。
+本文中将讨论表格驱动的分析器，而非通常由手工打造（非绝对，参看如[ANTLR等的](https://zh.wikipedia.org/wiki/ANTLR "wikilink")
+LL(\*)
+递归下降分析器生成器）的[递归下降分析器](https://zh.wikipedia.org/wiki/递归下降分析器 "wikilink")。
 
 一个 LL 分析器若被称为 LL(*k*) 分析器，表示它使用 *k*
-个[词法单元作](../Page/词法单元.md "wikilink")[向前探查](../Page/向前探查.md "wikilink")。对于某个文法，若存在一个分析器可以在不用[回溯法进行](../Page/回溯法.md "wikilink")[回溯的情况下处理该文法](../Page/回溯.md "wikilink")，则称该文法为
+个[词法单元作](https://zh.wikipedia.org/wiki/词法单元 "wikilink")[向前探查](https://zh.wikipedia.org/wiki/向前探查 "wikilink")。对于某个文法，若存在一个分析器可以在不用[回溯法进行](https://zh.wikipedia.org/wiki/回溯法 "wikilink")[回溯的情况下处理该文法](https://zh.wikipedia.org/wiki/回溯 "wikilink")，则称该文法为
 **LL(*k*) 文法**。这些文法中，较严格的 **LL(1)
 文法**相当受欢迎，因为它的分析器只需多看一个词法单元就可以产生分析结果。那些需要很大的
 *k* 才能产生分析结果的[编程语言](../Page/编程语言.md "wikilink")，在分析时的要求也比较高。
 
 ## 概览
 
-对于给定的[上下文无关文法](../Page/上下文无关文法.md "wikilink")，分析器尝试寻找该文法的[最左推导](../Page/最左推导.md "wikilink")。例如，给定一个文法\(G\)：
+对于给定的[上下文无关文法](../Page/上下文无关文法.md "wikilink")，分析器尝试寻找该文法的[最左推导](https://zh.wikipedia.org/wiki/最左推导 "wikilink")。例如，给定一个文法\(G\)：
 
 1.  \(S \to E\)
 2.  \(E \to ( E + E )\)
@@ -24,7 +25,7 @@ LL(\*) 递归下降分析器生成器）的[递归下降分析器](../Page/递�
 \[S\ \overset{(1)}{\Rightarrow}\ E\ \overset{(2)}{\Rightarrow}\ (E+E)\ \overset{(2)}{\Rightarrow}\ ((E+E)+E)\ \overset{(3)}{\Rightarrow}\ ((i+E)+E)\ \overset{(3)}{\Rightarrow}\ ((i+i)+E)\ \overset{(3)}{\Rightarrow}\ ((i+i)+i)\]
 
 通常,
-选择一条规则来展开给定的（最左的）[非终结符时](../Page/非终结符.md "wikilink")，有多个选择的可能。前一个关于最左推导的例子中，
+选择一条规则来展开给定的（最左的）[非终结符时](https://zh.wikipedia.org/wiki/非终结符 "wikilink")，有多个选择的可能。前一个关于最左推导的例子中，
 在第2步：
 
 \[S\ \overset{(1)}{\Rightarrow}\ E\ \overset{(?)}{\Rightarrow}\ ?\]
@@ -58,7 +59,7 @@ LL(\*) 递归下降分析器生成器）的[递归下降分析器](../Page/递�
 本分析器由以下部件組成：
 
   - 一个*输入缓冲区*，存放输入符号串（由语法建立的）。
-  - 一个*分析栈*，用于储存等待处理的[终结符与](../Page/终结符.md "wikilink")[非终结符的](../Page/非终结符.md "wikilink")。
+  - 一个*分析栈*，用于储存等待处理的[终结符与](https://zh.wikipedia.org/wiki/终结符 "wikilink")[非终结符的](https://zh.wikipedia.org/wiki/非终结符 "wikilink")。
   - 一张*分析表*，标记了是否存在可用于目前分析栈与下一个输入符号的语法规则。
 
 分析器根据分析栈的栈顶符号（行）以及当前输入流中的符号（列）来决定使用哪一条规则。
@@ -122,7 +123,7 @@ LL(\*) 递归下降分析器生成器）的[递归下降分析器](../Page/递�
   -
     \[ 2, 1, 3, 3 \]
 
-這的確是從輸入的[左邊優先推導](../Page/上下文無關語法#.E6.8E.A8.E5.AF.BC.E4.B8.8E.E8.AF.AD.E6.B3.95.E6.A0.91.md "wikilink")。我們可以看出由左至右的輸入順序為：
+這的確是從輸入的[左邊優先推導](https://zh.wikipedia.org/wiki/上下文無關語法#.E6.8E.A8.E5.AF.BC.E4.B8.8E.E8.AF.AD.E6.B3.95.E6.A0.91 "wikilink")。我們可以看出由左至右的輸入順序為：
 
   -
     S → ( S + F ) → ( F + F ) → ( 1 + F ) → ( 1 + 1 )
@@ -135,13 +136,13 @@ LL(\*) 递归下降分析器生成器）的[递归下降分析器](../Page/递�
   - 若堆疊最上層為終端符號，則與輸入資料流中的符號比較。若相同則移除，若不同則回報錯誤並終止執行。
   - 若堆疊最上層為'$'，並且輸入資料流中也是'$'，則表示剖析器成功的處理了輸入，否則將回報錯誤。不管怎樣，最後剖析器都將終止執行。
 
-這些步驟會持續到輸入結束，然後剖析器成功處理了一則[左邊優先推導](../Page/上下文無關語法#.E6.8E.A8.E5.AF.BC.E4.B8.8E.E8.AF.AD.E6.B3.95.E6.A0.91.md "wikilink")，或者會回報錯誤。
+這些步驟會持續到輸入結束，然後剖析器成功處理了一則[左邊優先推導](https://zh.wikipedia.org/wiki/上下文無關語法#.E6.8E.A8.E5.AF.BC.E4.B8.8E.E8.AF.AD.E6.B3.95.E6.A0.91 "wikilink")，或者會回報錯誤。
 
 ## 建構LL(1)剖析表格
 
 為了要填滿剖析表格，我們必須決定剖析器在堆疊看到非終端(nonterminal)符號*A*又在輸入資料流看到*a*的時候應該選用哪一條文法規則。我們可以輕鬆的發現到這種規則應該有*A*
 → *w*一類的格式，並且語言中的*w*應至少有一個字串由*a*開頭。為了這個目的，我們設定
-*第一個[集合](../Page/集合.md "wikilink")*(first
+*第一個[集合](https://zh.wikipedia.org/wiki/集合 "wikilink")*(first
 set)的*w*，記作**Fi**（*w*），表示可以在*w*中找到的所有字串的集合，如果空字串也屬於*w*的話還要再加上ε。而透過文法規則*A*<sub>1</sub>
 → *w*<sub>1</sub>, ..., *A*<sub>*n*</sub> →
 *w*<sub>*n*</sub>，就可以使用以下方法演算每條規則的**Fi**(*w*<sub>*i*</sub>)及**Fi**(*A*<sub>*i*</sub>)了：
@@ -181,14 +182,14 @@ set)，表示可以由開始的符號衍生出*αAaβ*字串的終端符號*a*�
 
 ## 建構LL(*k*)剖析表格
 
-[剖析表格可能](../Page/剖析表格.md "wikilink")（一般來說，在最差狀況下）必須有*k*次的[指數](../Page/指数函数.md "wikilink")[複雜度的觀念在](../Page/複雜.md "wikilink")1992年左右[PCCTS發表後改觀](../Page/PCCTS.md "wikilink")，它示範了許多[程式語言可以用LL](../Page/程式語言.md "wikilink")(*k*)來有效率的處理，而不會觸發剖析器的最差狀況。再者，在某些必須無限前瞻的狀況下，LL剖析也是合理的。相反的，傳統剖析器產生器，如[yacc使用](../Page/yacc.md "wikilink")[LALR(1)剖析表格建立被限制的](../Page/LALR剖析器.md "wikilink")[LR剖析器](../Page/LR剖析器.md "wikilink")，這種剖析器只能向後看固定的一個語彙符號。
+[剖析表格可能](https://zh.wikipedia.org/wiki/剖析表格 "wikilink")（一般來說，在最差狀況下）必須有*k*次的[指數](../Page/指数函数.md "wikilink")[複雜度的觀念在](https://zh.wikipedia.org/wiki/複雜 "wikilink")1992年左右[PCCTS發表後改觀](https://zh.wikipedia.org/wiki/PCCTS "wikilink")，它示範了許多[程式語言可以用LL](https://zh.wikipedia.org/wiki/程式語言 "wikilink")(*k*)來有效率的處理，而不會觸發剖析器的最差狀況。再者，在某些必須無限前瞻的狀況下，LL剖析也是合理的。相反的，傳統剖析器產生器，如[yacc使用](https://zh.wikipedia.org/wiki/yacc "wikilink")[LALR(1)剖析表格建立被限制的](https://zh.wikipedia.org/wiki/LALR剖析器 "wikilink")[LR剖析器](../Page/LR剖析器.md "wikilink")，這種剖析器只能向後看固定的一個語彙符號。
 
 ## 参见
 
-  - [編譯器剖析器比較表](../Page/編譯器剖析器比較表.md "wikilink")
-  - [抽象語法樹](../Page/抽象語法樹.md "wikilink")
-  - [由上而下剖析](../Page/由上而下剖析.md "wikilink")
-  - [由下而上剖析](../Page/由下而上剖析.md "wikilink")
+  - [編譯器剖析器比較表](https://zh.wikipedia.org/wiki/編譯器剖析器比較表 "wikilink")
+  - [抽象語法樹](https://zh.wikipedia.org/wiki/抽象語法樹 "wikilink")
+  - [由上而下剖析](https://zh.wikipedia.org/wiki/由上而下剖析 "wikilink")
+  - [由下而上剖析](https://zh.wikipedia.org/wiki/由下而上剖析 "wikilink")
 
 ## 外部链接
 

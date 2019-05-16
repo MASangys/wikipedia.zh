@@ -14,14 +14,15 @@ NT
 Explorer的](../Page/Internet_Explorer.md "wikilink")[ActiveX技术正确地打开微软](../Page/ActiveX.md "wikilink")[Office文件以及直接使用动态网页作为桌面背景从而取代静态图片桌面背景的功能](../Page/Microsoft_Office.md "wikilink")。
 
 在Nashville的计划取消之后，许多被计划在该版本添加的功能改在较后期版本的Internet
-Explorer及Windows中出现，特别是许多Internet整合功能，包括资源管理器与网页浏览器的结合，可以在安装[Windows桌面更新后添加到Windows](../Page/Windows桌面更新.md "wikilink")
+Explorer及Windows中出现，特别是许多Internet整合功能，包括资源管理器与网页浏览器的结合，可以在安装[Windows桌面更新后添加到Windows](https://zh.wikipedia.org/wiki/Windows桌面更新 "wikilink")
 95以及Windows NT4.0中，而这个升级包已经包含在Internet Explorer
 4.0中（开发代号也是Nashville，在1997年推出）。它可以被单独安装，而它也被整合在Windows
 95 OSR 2.5（Windows 95 4.00.950 C）与Windows 98中。
 
 ## 参见
 
-  - [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")
+  - [Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
   -
 ## 注釋

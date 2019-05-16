@@ -1,8 +1,9 @@
-  - TE [石油天然气工业](../Page/石油天然气工业.md "wikilink")
+  - TE [石油天然气工业](https://zh.wikipedia.org/wiki/石油天然气工业 "wikilink")
 
 :\*TE-9 石油、天然气工业经济
 
-:\*TE0 [能源与](../Page/能源.md "wikilink")[节能](../Page/节能.md "wikilink")
+:\*TE0
+[能源与](../Page/能源.md "wikilink")[节能](https://zh.wikipedia.org/wiki/节能 "wikilink")
 
 ::\*TE01 能源计算
 
@@ -29,7 +30,7 @@
 
 ::\*TE19 新技术在石油、天然气地质与勘探中的应用
 
-:\*TE2 [钻井工程](../Page/钻井工程.md "wikilink")
+:\*TE2 [钻井工程](https://zh.wikipedia.org/wiki/钻井工程 "wikilink")
 
 ::\*TE21 钻井理论
 
@@ -47,7 +48,7 @@
 
 ::\*TE29 钻井综合技术经济指标分析
 
-:\*TE3 [油气田开发与开采](../Page/油气田开发.md "wikilink")
+:\*TE3 [油气田开发与开采](https://zh.wikipedia.org/wiki/油气田开发 "wikilink")
 
 ::\*TE31 基础理论
 
@@ -65,7 +66,7 @@
 
 ::\*TE39 油田应用化学
 
-:\*TE4 [油气田建设](../Page/油气田.md "wikilink")
+:\*TE4 [油气田建设](https://zh.wikipedia.org/wiki/油气田 "wikilink")
 
 ::\*TE41 工厂设计、规划与布局
 
@@ -83,7 +84,7 @@
 
 ::\*TE49 其他
 
-:\*TE5 [海上油气田勘探与开发](../Page/海上油气田.md "wikilink")
+:\*TE5 [海上油气田勘探与开发](https://zh.wikipedia.org/wiki/海上油气田 "wikilink")
 
 ::\*TE51 海上油气田地质与勘探
 
@@ -109,7 +110,7 @@
 
 :\*TE8 石油、天然气储存与运输
 
-:\*TE9 [石油机械设备与自动化](../Page/石油机械设备.md "wikilink")
+:\*TE9 [石油机械设备与自动化](https://zh.wikipedia.org/wiki/石油机械设备 "wikilink")
 
 ::\*TE91 地质勘探机械设备
 

@@ -1,13 +1,13 @@
 **Socket
-940**為[AMD推出專為伺服器而設的](../Page/AMD.md "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")。它擁有940個接腳，基本上針腳已佈滿整個插座，但有四點〔共八隻腳〕沒接觸做為[防呆以避免誤插](../Page/防呆.md "wikilink")。
+940**為[AMD推出專為伺服器而設的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")。它擁有940個接腳，基本上針腳已佈滿整個插座，但有四點〔共八隻腳〕沒接觸做為[防呆以避免誤插](../Page/防呆.md "wikilink")。
 
 ## 簡介
 
 Socket
-940剛推出時，除了[伺服器用的](../Page/伺服器.md "wikilink")[Opteron](../Page/AMD_Opteron.md "wikilink")
+940剛推出時，除了[伺服器用的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")
 CPU插座，亦有作為高階AMD [Athlon 64
 FX系列CPU插座](../Page/Athlon_64_FX.md "wikilink")。但由於使用Socket
-940的處理器必須使用[雙通道ECC](../Page/雙通道.md "wikilink")
+940的處理器必須使用[雙通道ECC](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
 Registered記憶體，令到組裝電腦的整體價格上升。另一方面，[Socket
 754只使用單通道DDR記憶體](../Page/Socket_754.md "wikilink")，效能又不及對手。結果AMD需要推出不支援ECC
 Registered，但支援雙通道DDR記憶體的[Socket

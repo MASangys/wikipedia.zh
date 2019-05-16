@@ -1,27 +1,29 @@
-****（）是發行版之一，它是來自於依照[開放原始碼規定釋出的原始碼所編譯而成](../Page/開放原始碼.md "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red
+****（）是發行版之一，它是來自於依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red
 Hat Enterprise
 Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS
 对上游代码的主要修改是为了移除不能自由使用的商标。\[1\]2014年，CentOS宣布与Red
 Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
 
-CentOS和[RHEL一样](../Page/RHEL.md "wikilink")，都可以使用[Fedora
-EPEL来补足软件](../Page/Fedora#发行.md "wikilink")。
+CentOS和[RHEL一样](https://zh.wikipedia.org/wiki/RHEL "wikilink")，都可以使用[Fedora
+EPEL来补足软件](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink")。
 
 ## 處理器架構
 
 CentOS有下列[處理器平台的版本](../Page/中央处理器.md "wikilink")：
 
-  - [Intel](../Page/Intel.md "wikilink")
-    [x86及相容架構](../Page/x86.md "wikilink")（32位元）（CentOS 7
-    的32位元版本由AltArch SIG提供支援）\[4\]
-  - Intel [Itanium](../Page/Itanium.md "wikilink")（64位元）（新版本不再支援）
-  - [x86-64](../Page/x86-64.md "wikilink") (AMD64和Intel 64，64位元）
+  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+    [x86及相容架構](https://zh.wikipedia.org/wiki/x86 "wikilink")（32位元）（CentOS
+    7 的32位元版本由AltArch SIG提供支援）\[4\]
+  - Intel
+    [Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（64位元）（新版本不再支援）
+  - [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
+    (AMD64和Intel 64，64位元）
   - [PowerPC](../Page/PowerPC.md "wikilink") G3及G4（測試版）（新版本不再支援）
-  - [IBM的](../Page/IBM.md "wikilink")[eServer](../Page/eServer.md "wikilink")
-    z系列及[S/390大型主機](../Page/S/390.md "wikilink")（新版本不再支援）
-  - [龙芯](../Page/龙芯.md "wikilink")（[Loongson](../Page/Loongson.md "wikilink")）采用的[MIPS架构](../Page/MIPS架構.md "wikilink")（32位、64位）\[5\]
+  - [IBM的](../Page/IBM.md "wikilink")[eServer](https://zh.wikipedia.org/wiki/eServer "wikilink")
+    z系列及[S/390大型主機](https://zh.wikipedia.org/wiki/S/390 "wikilink")（新版本不再支援）
+  - [龙芯](../Page/龙芯.md "wikilink")（[Loongson](https://zh.wikipedia.org/wiki/Loongson "wikilink")）采用的[MIPS架构](../Page/MIPS架構.md "wikilink")（32位、64位）\[5\]
     (非官方支援 )
-  - AArch64（[ARM架構中的ARMv](../Page/ARM架構.md "wikilink")8或ARM64，64位元）（由AltArch
+  - AArch64（[ARM架構中的ARMv](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")8或ARM64，64位元）（由AltArch
     SIG提供支援）\[6\]
 
 另外有限度的支援兩款舊型處理器：
@@ -148,8 +150,8 @@ CentOS](http://distrowatch.com/table.php?distribution=centos) 。
 
 9.  {{ cite web | url=<http://www.redhat.com/security/updates/errata/> |
     title=Red Hat Enterprise Linux Errata Support Policy | author=[Red
-    Hat](../Page/Red_Hat.md "wikilink") | accessdate=2008-06-01 |
-    deadurl=yes |
+    Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") |
+    accessdate=2008-06-01 | deadurl=yes |
     archiveurl=<https://web.archive.org/web/20100405103331/http://www.redhat.com/security/updates/errata/>
     | archivedate=2010-04-05 }}
 

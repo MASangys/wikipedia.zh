@@ -1,7 +1,7 @@
-**香港JW萬豪酒店**（）是[香港的一間五星級酒店](../Page/香港.md "wikilink")，位於[香港島](../Page/香港島.md "wikilink")[金鐘道](../Page/金鐘道.md "wikilink")88號，[太古廣場內](../Page/太古廣場.md "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[金鐘站](../Page/金鐘站.md "wikilink")，樓高50層，共提供602間豪華客房，酒店於1989年2月27日正式開幕，由[萬豪国际酒店集團管理](../Page/萬豪国际酒店集團.md "wikilink")，為該集團的酒店品牌[JW萬豪酒店其中一店](../Page/JW萬豪酒店.md "wikilink")。
+**香港JW萬豪酒店**（）是[香港的一間五星級酒店](../Page/香港.md "wikilink")，位於[香港島](../Page/香港島.md "wikilink")[金鐘道](../Page/金鐘道.md "wikilink")88號，[太古廣場內](../Page/太古廣場.md "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[金鐘站](../Page/金鐘站.md "wikilink")，樓高50層，共提供602間豪華客房，酒店於1989年2月27日正式開幕，由[萬豪国际酒店集團管理](https://zh.wikipedia.org/wiki/萬豪国际酒店集團 "wikilink")，為該集團的酒店品牌[JW萬豪酒店其中一店](../Page/JW萬豪酒店.md "wikilink")。
 
 酒店36至50樓為供跨國機構駐港職員租住的服務式住宅曦暹軒（The
-Atrium），2009年10月改建為精緻豪華酒店[奕居](../Page/奕居.md "wikilink")，由[太古地產管理](../Page/太古地產.md "wikilink")。
+Atrium），2009年10月改建為精緻豪華酒店[奕居](https://zh.wikipedia.org/wiki/奕居 "wikilink")，由[太古地產管理](../Page/太古地產.md "wikilink")。
 
 ## 酒店設施
 
@@ -69,7 +69,7 @@ Atrium），2009年10月改建為精緻豪華酒店[奕居](../Page/奕居.md "w
 
 ## 參看
 
-  - [上海明天廣場JW萬豪酒店](../Page/上海明天廣場JW萬豪酒店.md "wikilink")
+  - [上海明天廣場JW萬豪酒店](https://zh.wikipedia.org/wiki/上海明天廣場JW萬豪酒店 "wikilink")
   - [萬麗海景酒店](../Page/萬麗海景酒店.md "wikilink")
   - [九龍萬麗酒店](../Page/九龍萬麗酒店.md "wikilink")
   - [香港酒店列表](../Page/香港酒店列表.md "wikilink")

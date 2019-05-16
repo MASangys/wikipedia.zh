@@ -1,7 +1,7 @@
 《**秋之回憶～從今以後again～**》（）是[日本遊戲廠商](../Page/日本.md "wikilink")[KID公司於](../Page/KID.md "wikilink")2006年3月23日發售，執行於[PlayStation
 2上的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。本遊戲為同系列《[秋之回憶：從今以後](../Page/秋之回憶：從今以後.md "wikilink")》的續篇。
 
-[台灣由](../Page/台灣.md "wikilink")[光譜資訊代理](../Page/光譜資訊.md "wikilink")，中国大陆地区则由[娱乐通代理](../Page/娱乐通.md "wikilink")。
+[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊代理](../Page/光譜資訊.md "wikilink")，中国大陆地区则由[娱乐通代理](../Page/娱乐通.md "wikilink")。
 
 ## 劇情簡介
 
@@ -212,7 +212,7 @@
 
 ## 工作人員
 
-  - 主要角色設計：[松尾幸廣](../Page/松尾幸廣.md "wikilink")、[輿水隆之](../Page/輿水隆之.md "wikilink")
+  - 主要角色設計：[松尾幸廣](https://zh.wikipedia.org/wiki/松尾幸廣 "wikilink")、[輿水隆之](https://zh.wikipedia.org/wiki/輿水隆之 "wikilink")
 
 <!-- end list -->
 
@@ -235,7 +235,7 @@
   - 音樂：[阿保剛](../Page/阿保剛.md "wikilink")
       - 片頭曲：**Drawing Again**
           -
-            作詞、作曲:[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")／歌:[村田步](../Page/村田步.md "wikilink")
+            作詞、作曲:[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")／歌:[村田步](https://zh.wikipedia.org/wiki/村田步 "wikilink")
       - 片尾曲：****
           -
             作詞、作曲：志倉千代丸、編曲：磯江俊道／歌：村田步
@@ -248,13 +248,13 @@
   - Memories Off 〜それから again〜 Audio Collection (2006年4月21日)
 
 全部由[5pb.發售](../Page/5pb..md "wikilink")、[GENEON
-ENTERTAINMENTより販売](../Page/GENEON_ENTERTAINMENT.md "wikilink")。
+ENTERTAINMENTより販売](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")。
 
 ### 小説
 
   - Memories Off 〜それから again〜 ISBN 4757728034
 
-[日暮茶坊作](../Page/日暮茶坊.md "wikilink")、由[ENTERBRAIN發售](../Page/ENTERBRAIN.md "wikilink")
+[日暮茶坊作](https://zh.wikipedia.org/wiki/日暮茶坊 "wikilink")、由[ENTERBRAIN發售](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")
 
 ## 参考文獻
 
@@ -263,7 +263,7 @@ ENTERTAINMENTより販売](../Page/GENEON_ENTERTAINMENT.md "wikilink")。
 ## 外部連結
 
   - [秋之回憶：從今以後again
-    官方網站](https://web.archive.org/web/20070105181852/http://www.kid-game.co.jp/again/)，存於[網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    官方網站](https://web.archive.org/web/20070105181852/http://www.kid-game.co.jp/again/)，存於[網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
 [Category:告别回憶系列](https://zh.wikipedia.org/wiki/Category:告别回憶系列 "wikilink")
 [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")

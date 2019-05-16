@@ -1,41 +1,42 @@
 **modo**是一款高级多边形[细分曲面](../Page/细分曲面.md "wikilink")，建模、雕刻、3D绘画、动画与渲染的综合性3D软件。最初由“Luxology,
 LLC”设计，目前为合并后的公司“Foundry”设计并维护。该软件具备许多高级技术，诸如N-gons（允许存在边数为任意边的多边形），多层次的3D绘画与边权重工具，可以运行在苹果的[Mac
-OS X与微软的](../Page/Mac_OS_X.md "wikilink")[Microsoft
-Windows以及](../Page/Microsoft_Windows.md "wikilink")[Linux操作平台](../Page/Linux.md "wikilink")。
+OS X与微软的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft
+Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux操作平台](../Page/Linux.md "wikilink")。
 
 ## 历史
 
 modo来自于原[Lightwave
-3D的核心开发团队](../Page/Lightwave_3D.md "wikilink")，他们离开NewTek后成立的公司就是Luxology，初始总部位于美国加利福尼亚州北部城市圣马蒂奥（San
+3D的核心开发团队](https://zh.wikipedia.org/wiki/Lightwave_3D "wikilink")，他们离开NewTek后成立的公司就是Luxology，初始总部位于美国加利福尼亚州北部城市圣马蒂奥（San
 Mateo, California），后于2009年9月16日移至山景城（Mountain View, California）。
 
   - 2001年，隶属NewTek公司Lightwave的核心工程师们决心要彻底重写该软件的工作流程与技术层，这与NetTek高级主管层发生了严重分歧，并最终导致了时任公司副总、三维软件部门领导者的Brad
     Peebler，离开NewTek公司并组建成立Luxology，和他一起的还有[Allen
-    Hastings与](../Page/Allen_Hastings.md "wikilink")[Stuart
-    Ferguson](../Page/Stuart_Ferguson.md "wikilink")，均为Lightwave软件的核心研发工程师。
+    Hastings与](https://zh.wikipedia.org/wiki/Allen_Hastings "wikilink")[Stuart
+    Ferguson](https://zh.wikipedia.org/wiki/Stuart_Ferguson "wikilink")，均为Lightwave软件的核心研发工程师。
 
 <!-- end list -->
 
-  - 经过了三年多时间的研发工作，Luxology成功完成了新一代三维软件的技术层，这就是NEXUS，而modo正是NEXUS的前端应用软件。modo首次亮相于[Siggraph计算机图形专业组织](../Page/Siggraph.md "wikilink")2004年会，并于该年度9月发行了第一个版本。2005年4月，业界许多顶级视觉特效工作室宣布将modo整合到他们的生产流程中，包括[Digital
-    Domain](../Page/Digital_Domain.md "wikilink")，[Pixar](../Page/Pixar.md "wikilink")、[id
-    Software](../Page/id_Software.md "wikilink")、[Eden
-    FX](../Page/Eden_FX.md "wikilink")、[Studio
-    ArtFX](../Page/Studio_ArtFX.md "wikilink")、[The Embassy Visual
-    Effects](../Page/The_Embassy_Visual_Effects.md "wikilink")、[Naked
+  - 经过了三年多时间的研发工作，Luxology成功完成了新一代三维软件的技术层，这就是NEXUS，而modo正是NEXUS的前端应用软件。modo首次亮相于[Siggraph计算机图形专业组织](https://zh.wikipedia.org/wiki/Siggraph "wikilink")2004年会，并于该年度9月发行了第一个版本。2005年4月，业界许多顶级视觉特效工作室宣布将modo整合到他们的生产流程中，包括[Digital
+    Domain](https://zh.wikipedia.org/wiki/Digital_Domain "wikilink")，[Pixar](https://zh.wikipedia.org/wiki/Pixar "wikilink")、[id
+    Software](https://zh.wikipedia.org/wiki/id_Software "wikilink")、[Eden
+    FX](https://zh.wikipedia.org/wiki/Eden_FX "wikilink")、[Studio
+    ArtFX](https://zh.wikipedia.org/wiki/Studio_ArtFX "wikilink")、[The
+    Embassy Visual
+    Effects](https://zh.wikipedia.org/wiki/The_Embassy_Visual_Effects "wikilink")、[Naked
     Sky
-    Entertainment](../Page/Naked_Sky_Entertainment.md "wikilink")，[Spinoff
-    Studios](../Page/Spinoff_Studios.md "wikilink")。
+    Entertainment](https://zh.wikipedia.org/wiki/Naked_Sky_Entertainment "wikilink")，[Spinoff
+    Studios](https://zh.wikipedia.org/wiki/Spinoff_Studios "wikilink")。
 
 <!-- end list -->
 
   - 在Siggraph 2005年大会上，modo
     201被首次披露。Luxology在modo201中引入了业界最前沿的3D绘画技术（类似于[ZBrush](../Page/ZBrush.md "wikilink")、[BodyPaint
-    3D](../Page/BodyPaint_3D.md "wikilink")），拥有多层材质混合技术，并加入了如之前Lightwave中所见，但要更加出众的渲染技术，包括：基于物理特性的及时渲染系统，真实的光学效果，各向异性的漫反射与渲染物体副本等功能。2006年5月24日，modo201如期发布并提供了许多超越之前版本的高级功能。[Modo202Bugatti_screenshot.png](https://zh.wikipedia.org/wiki/File:Modo202Bugatti_screenshot.png "fig:Modo202Bugatti_screenshot.png")
+    3D](https://zh.wikipedia.org/wiki/BodyPaint_3D "wikilink")），拥有多层材质混合技术，并加入了如之前Lightwave中所见，但要更加出众的渲染技术，包括：基于物理特性的及时渲染系统，真实的光学效果，各向异性的漫反射与渲染物体副本等功能。2006年5月24日，modo201如期发布并提供了许多超越之前版本的高级功能。[Modo202Bugatti_screenshot.png](https://zh.wikipedia.org/wiki/File:Modo202Bugatti_screenshot.png "fig:Modo202Bugatti_screenshot.png")
 
 <!-- end list -->
 
   - modo201赢得了[Apple Design
-    Awards苹果](../Page/Apple_Design_Awards.md "wikilink")2006年度的最佳图形应用软件奖。在2006年10月，modo又赢得了英国苹果用户杂志（MacUser
+    Awards苹果](https://zh.wikipedia.org/wiki/Apple_Design_Awards "wikilink")2006年度的最佳图形应用软件奖。在2006年10月，modo又赢得了英国苹果用户杂志（MacUser
     UK magazine）的最佳三维动画软件奖。2007年1月，modo赢得了游戏开发者前沿大会（Game Developer
     Frontline Award）颁发的最佳艺术工具奖。
 
@@ -53,8 +54,8 @@ Mateo, California），后于2009年9月16日移至山景城（Mountain View, Ca
 
 <!-- end list -->
 
-  - 2008年4月3日，modo302发行，包含有一些新的工具，更佳的渲染与动画功能以及新的地理日光与物理天空系统，同样的也对于之前的301用户免费升级。此后，Luxology又向302用户提供了免费的插件，用于Google的[SketchUp6的skp格式文件转换](../Page/SketchUp6.md "wikilink")，以及用于犀牛（[Rhinoceros
-    3D](../Page/Rhinoceros_3D.md "wikilink")）或是[Moi的](../Page/Moi.md "wikilink")3DM格式文件的转换。
+  - 2008年4月3日，modo302发行，包含有一些新的工具，更佳的渲染与动画功能以及新的地理日光与物理天空系统，同样的也对于之前的301用户免费升级。此后，Luxology又向302用户提供了免费的插件，用于Google的[SketchUp6的skp格式文件转换](https://zh.wikipedia.org/wiki/SketchUp6 "wikilink")，以及用于犀牛（[Rhinoceros
+    3D](../Page/Rhinoceros_3D.md "wikilink")）或是[Moi的](https://zh.wikipedia.org/wiki/Moi "wikilink")3DM格式文件的转换。
 
 <!-- end list -->
 
@@ -105,16 +106,16 @@ Mateo, California），后于2009年9月16日移至山景城（Mountain View, Ca
 
   - 2019年3月26日，modo13.0v1发布，MODO完成了第一阶段的参数化程序建模基础工作，且对传统工具、界面进行了全面整理，更加聚焦于建模工作，并使得作为工作平台的稳定性获得极大提升。
 
-modo问世以来，被应用在很多著名的影视作品，例如小银幕上[HBO巨作](../Page/HBO.md "wikilink")[Roma](../Page/Roma.md "wikilink")，大银幕上的《绝密飞行》[Stealth](../Page/Stealth_\(film\).md "wikilink")，《别惹蚂蚁》[Ant
-Bully](../Page/Ant_Bully.md "wikilink")，《机器人瓦里》[Wall-E以及新片](../Page/Wall-E.md "wikilink")[UP](../Page/UP.md "wikilink")；也包含有很多游戏作品，例如[Sega的新作](../Page/Sega.md "wikilink")《战斧》[Golden
-Axe](../Page/Golden_Axe.md "wikilink")，瑞典开发商Massive
+modo问世以来，被应用在很多著名的影视作品，例如小银幕上[HBO巨作](../Page/HBO.md "wikilink")[Roma](../Page/Roma.md "wikilink")，大银幕上的《绝密飞行》[Stealth](https://zh.wikipedia.org/wiki/Stealth_\(film\) "wikilink")，《别惹蚂蚁》[Ant
+Bully](https://zh.wikipedia.org/wiki/Ant_Bully "wikilink")，《机器人瓦里》[Wall-E以及新片](https://zh.wikipedia.org/wiki/Wall-E "wikilink")[UP](https://zh.wikipedia.org/wiki/UP "wikilink")；也包含有很多游戏作品，例如[Sega的新作](https://zh.wikipedia.org/wiki/Sega "wikilink")《战斧》[Golden
+Axe](https://zh.wikipedia.org/wiki/Golden_Axe "wikilink")，瑞典开发商Massive
 Entertainment的《冲突世界》[world in
-conflict](../Page/world_in_conflict.md "wikilink")，以及[id
-Software的最新力作](../Page/id_Software.md "wikilink")[Rage](../Page/Rage.md "wikilink")。
+conflict](https://zh.wikipedia.org/wiki/world_in_conflict "wikilink")，以及[id
+Software的最新力作](https://zh.wikipedia.org/wiki/id_Software "wikilink")[Rage](https://zh.wikipedia.org/wiki/Rage "wikilink")。
 
 ## 工作流程
 
-modo的工作流程迥异于目前绝大多数三维软件，他的基本设计原则是简明、灵活、清晰、直观。不同于[Maya或是](../Page/Maya_\(software\).md "wikilink")[3ds
+modo的工作流程迥异于目前绝大多数三维软件，他的基本设计原则是简明、灵活、清晰、直观。不同于[Maya或是](https://zh.wikipedia.org/wiki/Maya_\(software\) "wikilink")[3ds
 Max那种需要学习并面对大量的边栏工具与参数的主流软件](../Page/3ds_Max.md "wikilink")，modo艺术家们往往会奇异的使用更加小巧的工具进行组合，例如将工具命令（Tool）、动作中心（Action
 Center）、应用范围（Falloff）、捕捉（Snap）等进行叠合，形成高度变化而灵活的独创工具（Tool
 Pipe）。与此特征相适应的，就是modo可以高度自定义所有的界面UI，所有的快捷键，并允许高度自由的组合，以便适应用户的工作习惯。
@@ -151,12 +152,12 @@ Tree，如同Photoshop那样的层级式，而非其他渲染器越来越普遍�
     rendering（允许大于四边的[多边形出现](../Page/多边形.md "wikilink")）
   - Tool Pipe for creating customized tools叠合式工具允许创造出自定义命令
   - Edges and Edge Weighting边权重工具
-  - Macros [宏指令](../Page/宏.md "wikilink")
+  - Macros [宏指令](https://zh.wikipedia.org/wiki/宏 "wikilink")
   - Scripting（Perl, Python, LUA）命令脚本支持Perl、Python与LUA语言
   - Customizable User Interface自定义用户界面
   - Extensive file input and output including
     [X3D](../Page/X3D.md "wikilink") file
-    export多种多边形数据[文件格式的输出与输入](../Page/文件格式.md "wikilink")
+    export多种多边形数据[文件格式的输出与输入](https://zh.wikipedia.org/wiki/文件格式 "wikilink")
 
 ### 建模工具特性
 
@@ -243,7 +244,7 @@ Tree，如同Photoshop那样的层级式，而非其他渲染器越来越普遍�
   - IEEE Floating Point Accuracy高精度浮点
   - Transparency（can vary with Absorption Distance）透明材质
   - [Subsurface
-    scattering次表面散射](../Page/Subsurface_scattering.md "wikilink")
+    scattering次表面散射](https://zh.wikipedia.org/wiki/Subsurface_scattering "wikilink")
   - Anisotropic Blurred Reflections各向异性模糊反射
   - Instance Rendering代理渲染
   - Render Baking to Color and Normal Maps烘培贴图生成色彩与法线

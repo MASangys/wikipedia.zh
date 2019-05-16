@@ -2,12 +2,12 @@
 zh-hk:Yahoo知識+;}-**（-{zh-cn:香港：**Yahoo知识+**、台湾：**Yahoo奇摩知识+**;
 zh-tw:中國大陸：**雅虎知識堂**、香港：**Yahoo知識+**;
 zh-hk:中國大陸：**雅虎知識堂**、台灣：**Yahoo奇摩知識+**;}-），英語系地區稱為**Yahoo\!
-Answers**\[1\]，是一個開放性的知識分享平台，讓使用者可以與網友做問答的互動，藉由眾人的經驗與專長，在問與答的討論之間，幫助使用者找到滿意的答案\[2\]，與類似性質的[Answers](../Page/Answers.md "wikilink")、[Google
-Answers](../Page/Google_Answers.md "wikilink")（已關閉）、[愛問知識人以及](../Page/愛問知識人.md "wikilink")[百度知道可說是競爭關係](../Page/百度知道.md "wikilink")。使用單純的問答系統的好處是可以不必在不同且以分類為主的[論壇花費時間尋找答案](../Page/网络论坛.md "wikilink")，和在關鍵字搜索中的結果花費時間尋找答案。無論任何行動，都需要至少一個[雅虎帳號](../Page/雅虎.md "wikilink")，並且啟動自己知識檔案。（在香港，要評價要再手機認證）全球[雅虎最早的](../Page/雅虎.md "wikilink")-{zh-cn:知识堂;
+Answers**\[1\]，是一個開放性的知識分享平台，讓使用者可以與網友做問答的互動，藉由眾人的經驗與專長，在問與答的討論之間，幫助使用者找到滿意的答案\[2\]，與類似性質的[Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")、[Google
+Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")（已關閉）、[愛問知識人以及](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")[百度知道可說是競爭關係](../Page/百度知道.md "wikilink")。使用單純的問答系統的好處是可以不必在不同且以分類為主的[論壇花費時間尋找答案](../Page/网络论坛.md "wikilink")，和在關鍵字搜索中的結果花費時間尋找答案。無論任何行動，都需要至少一個[雅虎帳號](../Page/雅虎.md "wikilink")，並且啟動自己知識檔案。（在香港，要評價要再手機認證）全球[雅虎最早的](../Page/雅虎.md "wikilink")-{zh-cn:知识堂;
 zh-tw:知識+; zh-hk:知識+;}-是由韓國於2003年6月架設。-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+;
 zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 
-知識服務是免費的會員服務。事實上，[雅虎因廣納沒有智慧財產權審核制度的知識問答](../Page/雅虎.md "wikilink")[條目卻促成了知識所屬雅虎搜尋引擎達到率](../Page/條目.md "wikilink")（reach）大增。另外在台灣，知識搜尋網甚至搶佔60%以上市佔率。到2015年2月26日，Yahoo奇摩知識+的解決問題數已超過2,215萬500則。
+知識服務是免費的會員服務。事實上，[雅虎因廣納沒有智慧財產權審核制度的知識問答](../Page/雅虎.md "wikilink")[條目卻促成了知識所屬雅虎搜尋引擎達到率](https://zh.wikipedia.org/wiki/條目 "wikilink")（reach）大增。另外在台灣，知識搜尋網甚至搶佔60%以上市佔率。到2015年2月26日，Yahoo奇摩知識+的解決問題數已超過2,215萬500則。
 
 ## 網站運作
 
@@ -33,7 +33,7 @@ zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/韓國.md" title="wikilink">韓國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a></p></td>
 <td><p><br />
 （）</p></td>
 <td><p>2003年6月</p></td>
@@ -46,13 +46,13 @@ zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 <td><p><a href="http://chiebukuro.yahoo.co.jp">http://chiebukuro.yahoo.co.jp</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td></td>
 <td><p>2004年11月18日</p></td>
 <td><p><a href="http://tw.answers.yahoo.com">http://tw.answers.yahoo.com</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/美國.md" title="wikilink">美國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a></p></td>
 <td></td>
 <td><p>2005年12月7日</p></td>
 <td><p><a href="http://answers.yahoo.com">http://answers.yahoo.com</a></p></td>
@@ -70,31 +70,31 @@ zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 <td><p><a href="https://hk.answers.yahoo.com/">https://hk.answers.yahoo.com/</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/法國.md" title="wikilink">法國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法國" title="wikilink">法國</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="http://fr.answers.yahoo.com">http://fr.answers.yahoo.com</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/德國.md" title="wikilink">德國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德國" title="wikilink">德國</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="http://de.answers.yahoo.com">http://de.answers.yahoo.com</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/西班牙.md" title="wikilink">西班牙</a>（<a href="../Page/西班牙語.md" title="wikilink">西語系</a>）</p></td>
+<td><p><a href="../Page/西班牙.md" title="wikilink">西班牙</a>（<a href="https://zh.wikipedia.org/wiki/西班牙語" title="wikilink">西語系</a>）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="http://es.answers.yahoo.com">http://es.answers.yahoo.com</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/巴西.md" title="wikilink">巴西</a>（<a href="../Page/葡萄牙語.md" title="wikilink">葡語系</a>）</p></td>
+<td><p><a href="../Page/巴西.md" title="wikilink">巴西</a>（<a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡語系</a>）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="http://br.answers.yahoo.com">http://br.answers.yahoo.com</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/越南.md" title="wikilink">越南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a></p></td>
 <td></td>
 <td><p>2007年6月19日[8]</p></td>
 <td><p><a href="http://vn.answers.yahoo.com"><a href="http://vn.answers.yahoo.com">http://vn.answers.yahoo.com</a></a></p></td>
@@ -123,10 +123,11 @@ ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
 
 ## 參見
 
-  - [Answers](../Page/Answers.md "wikilink")
-  - [Google Answers](../Page/Google_Answers.md "wikilink")
+  - [Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")
+  - [Google
+    Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")
   - [百度知道](../Page/百度知道.md "wikilink")
-  - [愛問知識人](../Page/愛問知識人.md "wikilink")
+  - [愛問知識人](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")
 
 ## 參考資料
 

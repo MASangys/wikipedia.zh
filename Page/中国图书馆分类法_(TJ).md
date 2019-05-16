@@ -1,4 +1,4 @@
-  - TJ [武器工业](../Page/武器工业.md "wikilink")
+  - TJ [武器工业](https://zh.wikipedia.org/wiki/武器工业 "wikilink")
 
 :\*TJ-9 武器工业经济
 
@@ -44,7 +44,7 @@
 
 ::\*TJ29 榴弹发射器、枪榴弹发射器
 
-:\*TJ3 [火炮](../Page/火炮.md "wikilink")
+:\*TJ3 [火炮](https://zh.wikipedia.org/wiki/火炮 "wikilink")
 
 ::\*TJ31 迫击炮
 
@@ -77,7 +77,7 @@
 :::\*TJ399 其他
 
 :\*TJ4
-[弹药](../Page/弹药.md "wikilink")、[引信](../Page/引信.md "wikilink")、[火工品](../Page/火工品.md "wikilink")
+[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")、[引信](../Page/引信.md "wikilink")、[火工品](https://zh.wikipedia.org/wiki/火工品 "wikilink")
 
 ::\*TJ41 弹药
 
@@ -86,7 +86,7 @@
 ::\*TJ45 火工品
 
 :\*TJ5
-[爆破器材](../Page/爆破器材.md "wikilink")、[烟火器材](../Page/烟火器材.md "wikilink")、火[炸药](../Page/炸药.md "wikilink")
+[爆破器材](https://zh.wikipedia.org/wiki/爆破器材 "wikilink")、[烟火器材](https://zh.wikipedia.org/wiki/烟火器材 "wikilink")、火[炸药](https://zh.wikipedia.org/wiki/炸药 "wikilink")
 
 ::\*TJ51 爆破器材
 
@@ -94,7 +94,7 @@
 
 ::\*TJ55 火炸药
 
-:\*TJ6 [水中兵器](../Page/水中兵器.md "wikilink")
+:\*TJ6 [水中兵器](https://zh.wikipedia.org/wiki/水中兵器 "wikilink")
 
 ::\*TJ61 水雷
 
@@ -107,12 +107,12 @@
 :\*TJ7 [火箭](../Page/火箭.md "wikilink")、[导弹](../Page/导弹.md "wikilink")
 
 ::\*TJ71
-[火箭筒](../Page/火箭筒.md "wikilink")、[火箭炮](../Page/火箭炮.md "wikilink")、[火箭弹](../Page/火箭弹.md "wikilink")
+[火箭筒](https://zh.wikipedia.org/wiki/火箭筒 "wikilink")、[火箭炮](../Page/火箭炮.md "wikilink")、[火箭弹](https://zh.wikipedia.org/wiki/火箭弹 "wikilink")
 
 ::\*TJ76 [导弹](../Page/导弹.md "wikilink")
 
 :\*TJ8
-[战车](../Page/战车.md "wikilink")、[战舰](../Page/战舰.md "wikilink")、[战机](../Page/战机.md "wikilink")、[航天武器](../Page/航天武器.md "wikilink")
+[战车](https://zh.wikipedia.org/wiki/战车 "wikilink")、[战舰](https://zh.wikipedia.org/wiki/战舰 "wikilink")、[战机](https://zh.wikipedia.org/wiki/战机 "wikilink")、[航天武器](https://zh.wikipedia.org/wiki/航天武器 "wikilink")
 
 ::\*TJ81 战车
 

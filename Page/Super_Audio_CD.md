@@ -1,5 +1,5 @@
 **Super Audio
-CD**（**SACD**）是由[Sony及](../Page/Sony.md "wikilink")[飛利浦兩家公司所訂定的音源](../Page/飛利浦.md "wikilink")[儲存媒體](../Page/儲存媒體.md "wikilink")，於1999年創立。
+CD**（**SACD**）是由[Sony及](https://zh.wikipedia.org/wiki/Sony "wikilink")[飛利浦兩家公司所訂定的音源](../Page/飛利浦.md "wikilink")[儲存媒體](https://zh.wikipedia.org/wiki/儲存媒體 "wikilink")，於1999年創立。
 
 ## 簡介
 
@@ -10,10 +10,10 @@ SACD是Sony與Philips合力研發的音樂碟片規格，是繼[CD的發明之�
 SACD的取樣頻率高達2822.4kHz，是一般CD
 44.1KHz取樣的64倍，且SACD頻率範圍更是高達100KHz以上；有人認為SACD改善了原來音樂CD音質給人冷硬的刻板印象，而以更細膩、更多細節、更柔軟的聲音呈現。SACD的錄音方式是用[Direct
 Stream
-Digital](../Page/Direct_Stream_Digital.md "wikilink")（DSD，即直流數位技術）方式錄音，摒除傳統的[PCM錄音方式](../Page/脈衝編號調變.md "wikilink")，將所有訊號以每秒280萬次直接把類比音樂訊號波形轉變為數位訊號，也就是所謂的『直接位元流數位』，因此取樣波形非常接近原來的類比波形；而且在中低頻擁有較高的動態，高頻的[相位誤差極低](../Page/相位.md "wikilink")，噪音則出現在遠高於人耳極限的極高頻（這代表[低通濾波器的](../Page/低通濾波器.md "wikilink")[截止頻率遠高於人耳極限](../Page/截止頻率.md "wikilink")，可以大幅減少低通濾波器對人耳極限內訊號的影響）。另外，SACD省去位元轉換程序，降低了數位濾波而可能產生的失真與雜訊。還有一個特點就是SACD也可以容納多聲道以及影像，由於SACD自身的定位以及1bit量化DSD直接資料流程在技術方面的簡潔和優勢（多數[DAC是處理DSD數位訊號及類比訊號的互相轉換](../Page/DAC.md "wikilink")，如果要輸出或輸入PCM格式，則必須加上DSD及PCM訊號的轉換機制，這個機制需要相當的計算能力，更直接的轉換是D類[擴大機](../Page/擴大機.md "wikilink")、直接把DSD訊號轉換成足以推動喇叭的類比訊號），使得大多數的資深音響發燒友經過親耳聆聽後，主觀感覺都認為SACD在音質上勝過音樂CD。
+Digital](../Page/Direct_Stream_Digital.md "wikilink")（DSD，即直流數位技術）方式錄音，摒除傳統的[PCM錄音方式](https://zh.wikipedia.org/wiki/脈衝編號調變 "wikilink")，將所有訊號以每秒280萬次直接把類比音樂訊號波形轉變為數位訊號，也就是所謂的『直接位元流數位』，因此取樣波形非常接近原來的類比波形；而且在中低頻擁有較高的動態，高頻的[相位誤差極低](https://zh.wikipedia.org/wiki/相位 "wikilink")，噪音則出現在遠高於人耳極限的極高頻（這代表[低通濾波器的](https://zh.wikipedia.org/wiki/低通濾波器 "wikilink")[截止頻率遠高於人耳極限](../Page/截止頻率.md "wikilink")，可以大幅減少低通濾波器對人耳極限內訊號的影響）。另外，SACD省去位元轉換程序，降低了數位濾波而可能產生的失真與雜訊。還有一個特點就是SACD也可以容納多聲道以及影像，由於SACD自身的定位以及1bit量化DSD直接資料流程在技術方面的簡潔和優勢（多數[DAC是處理DSD數位訊號及類比訊號的互相轉換](https://zh.wikipedia.org/wiki/DAC "wikilink")，如果要輸出或輸入PCM格式，則必須加上DSD及PCM訊號的轉換機制，這個機制需要相當的計算能力，更直接的轉換是D類[擴大機](https://zh.wikipedia.org/wiki/擴大機 "wikilink")、直接把DSD訊號轉換成足以推動喇叭的類比訊號），使得大多數的資深音響發燒友經過親耳聆聽後，主觀感覺都認為SACD在音質上勝過音樂CD。
 
-對於產業界的優點是，SACD在制訂時就擺明禁止電腦播放，這是防止盜版的最佳方法；但這也是缺點，因為讓電腦支援就等於提供平價又省空間的播放器（更何況當時連[筆電也是大多內建](../Page/筆電.md "wikilink")[光碟機](../Page/光碟機.md "wikilink")）。而後來[SONY](../Page/SONY.md "wikilink")
-[PS3在推出時支援SACD](../Page/PS3.md "wikilink")、然後馬上就被破解；這也代表了器材的普及跟盜版防範很難共存。
+對於產業界的優點是，SACD在制訂時就擺明禁止電腦播放，這是防止盜版的最佳方法；但這也是缺點，因為讓電腦支援就等於提供平價又省空間的播放器（更何況當時連[筆電也是大多內建](https://zh.wikipedia.org/wiki/筆電 "wikilink")[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")）。而後來[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
+[PS3在推出時支援SACD](https://zh.wikipedia.org/wiki/PS3 "wikilink")、然後馬上就被破解；這也代表了器材的普及跟盜版防範很難共存。
 
 SACD的缺點在於DSD格式不能被軟體處理，也就是說不能數位後製；目前最佳的數位處理方法是採用352.8kHz/24bits的PCM格式錄音及後製，然後轉換成DSD格式（若錄音及後製時的取樣頻率不夠高、例如僅用CD格式，然後再由軟體升頻，則會成為地雷片）。另外一個方法是採取類比錄音及後製，然後再把類比母帶轉換成DSD格式，也可以將過去經典的類比母帶或[密紋唱片直接轉換成的SACD](../Page/密紋唱片.md "wikilink")。
 
@@ -31,6 +31,7 @@ SACD的競爭者[DVD-Audio則是採用比音樂CD更高解析度的PCM訊號](..
 
   - [光碟](../Page/光碟.md "wikilink")
   - [DVD-Audio](../Page/DVD-Audio.md "wikilink")
-  - [Hi-Res Audio](../Page/Hi-Res_Audio.md "wikilink")
+  - [Hi-Res
+    Audio](https://zh.wikipedia.org/wiki/Hi-Res_Audio "wikilink")
 
 [Category:光碟製作](https://zh.wikipedia.org/wiki/Category:光碟製作 "wikilink")

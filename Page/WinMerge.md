@@ -7,7 +7,7 @@
   - 对文本文档的可视化编辑以及合并
   - 语法高亮功能
   - 可以处理DOS、UNIX和MAC中的[文本文件](../Page/文本文件.md "wikilink")
-  - 支持[Unicode](../Page/Unicode.md "wikilink")
+  - 支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")
   - 在不同的栏中显示当前文件的差异
   - 高亮差异
   - 在目录比较中使用文件过滤器

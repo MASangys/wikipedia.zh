@@ -1,5 +1,5 @@
 **安全增強式Linux**（SELinux，Security-Enhanced
-Linux）是一个[Linux内核的](../Page/Linux内核.md "wikilink")[安全模组](../Page/Linux安全模组.md "wikilink")，其提供了访问控制安全策略机制，包括了[美国国防部风格的](../Page/美国国防部.md "wikilink")[强制访问控制](../Page/强制访问控制.md "wikilink")（Mandatory
+Linux）是一个[Linux内核的](../Page/Linux内核.md "wikilink")[安全模组](https://zh.wikipedia.org/wiki/Linux安全模组 "wikilink")，其提供了访问控制安全策略机制，包括了[美国国防部风格的](../Page/美国国防部.md "wikilink")[强制访问控制](https://zh.wikipedia.org/wiki/强制访问控制 "wikilink")（Mandatory
 Access Control，MAC）。
 
 SELinux是一系列添加到多个[Linux发行版的内核修改与用户空间工具](../Page/Linux发行版.md "wikilink")。其[软件架构力图从安全策略中分离出执行安全决策并优化涉及执行安全策略的软件](../Page/软件架构.md "wikilink")。\[1\]\[2\]奠基SELinux的核心概念可以追溯回[美国国家安全局](../Page/美国国家安全局.md "wikilink")（NSA）的一些早期项目。
@@ -8,11 +8,11 @@ SELinux是一系列添加到多个[Linux发行版的内核修改与用户空间�
 
 美国国家安全局的安全增强式Linux团队称：\[3\]
 
-> 安全增強式Linux是一組給Linux核心的[修補程式](../Page/修補程式.md "wikilink")，並提供一些更強、更安全的強制存取控制架構來和核心的主要子系統共同運作。基於機密及完整性原則，它提供一個架構來強制資訊的分離，以對付入侵的威脅或任何企圖略過安全架構的應用程式。藉此限制惡意或設計不良的程式可能造成的破壞。它包含一組安全性原則組態設定檔的範本以符合一般的安全性目標
+> 安全增強式Linux是一組給Linux核心的[修補程式](https://zh.wikipedia.org/wiki/修補程式 "wikilink")，並提供一些更強、更安全的強制存取控制架構來和核心的主要子系統共同運作。基於機密及完整性原則，它提供一個架構來強制資訊的分離，以對付入侵的威脅或任何企圖略過安全架構的應用程式。藉此限制惡意或設計不良的程式可能造成的破壞。它包含一組安全性原則組態設定檔的範本以符合一般的安全性目標
 
-整合SELinux的Linux内核将执行限制用户程序和系统服务器访问文件与网络资源的强制访问控制策略。将权限限制到最小以减少或完全清除程序和[守护进程在失效或出错的情况](../Page/守护进程.md "wikilink")（如[缓存区溢出或错误配置](../Page/缓存区溢出.md "wikilink")）下对系统造成危害的可能性。此种限制机制独立与于传统的Linux[自主访问控制](../Page/自主访问控制.md "wikilink")（Discretionary
+整合SELinux的Linux内核将执行限制用户程序和系统服务器访问文件与网络资源的强制访问控制策略。将权限限制到最小以减少或完全清除程序和[守护进程在失效或出错的情况](../Page/守护进程.md "wikilink")（如[缓存区溢出或错误配置](https://zh.wikipedia.org/wiki/缓存区溢出 "wikilink")）下对系统造成危害的可能性。此种限制机制独立与于传统的Linux[自主访问控制](../Page/自主访问控制.md "wikilink")（Discretionary
 Access Control,
-DAC）进行。SELinux没有[“root”用户的概念](../Page/超级用户.md "wikilink")，也没有传统Linux安全机制的缺点。（如依赖于[setuid](../Page/setuid.md "wikilink")/库）
+DAC）进行。SELinux没有[“root”用户的概念](../Page/超级用户.md "wikilink")，也没有传统Linux安全机制的缺点。（如依赖于[setuid](https://zh.wikipedia.org/wiki/setuid "wikilink")/库）
 
 “未修改过的”Linux系统安全性（即未整合SELinux的系统）依赖于内核、授权应用与其配置的正确性。三者中任意一个发生问题都将有可能导致整个系统被破解。相反，“修改过的”系统安全性（基于SELinux内核）主要基于其内核和配置的正确性。虽然当应用程序的正确性或配置出现问题可能会导致独立的用户程序和系统守护进程发生有限破解，但是它们并不会对其他用户程序和系统守护进程或整个系统的安全性造成威胁。
 
@@ -25,7 +25,7 @@ DAC）进行。SELinux没有[“root”用户的概念](../Page/超级用户.md 
 
 SELinux最初设计向Linux社区展示强制访问控制的价值和这些控制加入Linux的方法。起初，组成SELinux的补丁只能通过明确添加在Linux内核源码中来工作；在2.6系列的[Linux内核中SELinux已被整合入](../Page/Linux内核.md "wikilink")。
 
-作为最初SELinux的主要开发者，美国国家安全局于2000年12月22日基于[GNU通用公共许可证發行了第一版SELinux給了](../Page/GNU通用公共许可证.md "wikilink")[開放原始碼開發社群](../Page/開放原始碼.md "wikilink")。\[4\]
+作为最初SELinux的主要开发者，美国国家安全局于2000年12月22日基于[GNU通用公共许可证發行了第一版SELinux給了](../Page/GNU通用公共许可证.md "wikilink")[開放原始碼開發社群](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。\[4\]
 
 SELinux随后被整合进了Linux内核2.6.0-test3版本的主分支，并在2003年8月8日发布。其他的显要贡献者有[紅帽公司](../Page/紅帽公司.md "wikilink")、[迈克菲](../Page/迈克菲.md "wikilink")、、特瑟思科技（Tresys
 Technology）和可信计算机解决方案（Trusted Computer
@@ -80,7 +80,7 @@ Core
 Heron）中加入。\[7\]截止[SUSE版本](../Page/SUSE.md "wikilink")11.1中，它包含了SELinux的“基础实现”。\[8\]
  11将SELinux作为“技术预览”。\[9\]
 
-SELinux在基于的系统中流向,比如[CoreOS和rkt](../Page/CoreOS.md "wikilink")。\[10\]其作为额外的安全控制来帮助隔离容器和它们的主机十分有用。
+SELinux在基于的系统中流向,比如[CoreOS和rkt](https://zh.wikipedia.org/wiki/CoreOS "wikilink")。\[10\]其作为额外的安全控制来帮助隔离容器和它们的主机十分有用。
 
 ## 使用情形
 
@@ -108,19 +108,19 @@ and `selinux-policy-upgrade`\[26\]
 
 ## 与AppArmor的对比
 
-SELinux代表了多个可能解决限制安装软件活动的方法之一。另外一个受欢迎的替代品被称为[AppArmor](../Page/AppArmor.md "wikilink")，它在（SLES）、[OpenSUSE和](../Page/OpenSUSE.md "wikilink")[其他Linux平台中可用](../Page/Linux发行版列表.md "wikilink")。AppArmor原初是作为现不存在的平台组件之一开发的。由于AppArmor和SELinux大相径庭，它们产生了两种完全不同的软件访问限制软件。虽然SELinux重新提出了特定的概念以提供更丰富的策略选择表达集，但AppArmor通过扩展用于自主访问控制级的特定相同[自主访问控制管理语言设计来简化其使用](../Page/自主访问控制.md "wikilink")。
+SELinux代表了多个可能解决限制安装软件活动的方法之一。另外一个受欢迎的替代品被称为[AppArmor](https://zh.wikipedia.org/wiki/AppArmor "wikilink")，它在（SLES）、[OpenSUSE和](../Page/OpenSUSE.md "wikilink")[其他Linux平台中可用](../Page/Linux发行版列表.md "wikilink")。AppArmor原初是作为现不存在的平台组件之一开发的。由于AppArmor和SELinux大相径庭，它们产生了两种完全不同的软件访问限制软件。虽然SELinux重新提出了特定的概念以提供更丰富的策略选择表达集，但AppArmor通过扩展用于自主访问控制级的特定相同[自主访问控制管理语言设计来简化其使用](../Page/自主访问控制.md "wikilink")。
 
 它们之间存在几个显著的不同：
 
   - 一个重要的不同是AppArmor通过路径名而非通过索引节点来识别文件系统目标。打个比方，这意味着一个文件不可访问的文件可能在AppArmor创建硬链接的情况下得以访问，而SELinux则会通过新建立的硬链接来阻止访问。
 
-      - 结果，AppArmor可被称为不是一个[类型强制系统](../Page/类型强制.md "wikilink")，因为文件并没有被分配类型；相反，它们仅仅在配置文件中被引用。
+      - 结果，AppArmor可被称为不是一个[类型强制系统](https://zh.wikipedia.org/wiki/类型强制 "wikilink")，因为文件并没有被分配类型；相反，它们仅仅在配置文件中被引用。
 
   - SELinux和AppArmor在它们如何管理和整合系统的方面也存在着极大的不同。\[27\]
 
   - 由于其寻求使用强制访问控制级执行来重建传统的自主访问控制，AppArmor的一系列操作也认为比大多数SELinux实现要小得多。例如，AppArmor的一系列操作包含了：读、写、附加、执行、锁定和链接。\[28\]大多数的SELinux实现将支持一系列多于其的操作序列。比如，SELinux通常支持相同权限，但同时对于mknod包含了控制、绑定到网络包、隐性使用POSIX的能力、加载并卸载内核模块和多种访问共享内存的方法等。
 
-  - AppArmor没有能明确限制POSIX功能的控制项。由于当前功能实现的方法不包含操作主题的概念（只有执行者和操作本身），防止执行者外的强制控制领域（即[沙箱](../Page/沙箱.md "wikilink")）授权文件操作通常由MAC层完成。AppArmor可以防止其策略被更改和文件系统被挂载/卸载，但不能防止用户踏出他们的控制域。
+  - AppArmor没有能明确限制POSIX功能的控制项。由于当前功能实现的方法不包含操作主题的概念（只有执行者和操作本身），防止执行者外的强制控制领域（即[沙箱](https://zh.wikipedia.org/wiki/沙箱 "wikilink")）授权文件操作通常由MAC层完成。AppArmor可以防止其策略被更改和文件系统被挂载/卸载，但不能防止用户踏出他们的控制域。
 
       - 例如，人们通常认为桌面员工更改他们所不拥有的特定文件（例如：部门文件共享）的所有权或权限是有益的。你绝对不会想给用户机器的root权限，所以你会给他们`CAP_FOWNER`或`CAP_DAC_OVERRIDE`。在SELinux下（或你的平台制造商下），你可以配置SELinux来禁止所有其他未受限用户的能力，然后新建一个给员工的受限域以在登陆后进行过渡。这种情况可以给员工修改权限的能力，但仅限于合适类型的文件。
 
@@ -133,7 +133,7 @@ SELinux代表了多个可能解决限制安装软件活动的方法之一。另�
   -
 ## 相似系统
 
-孤立进程也可以通过类似[作業系統層虛擬化的机制实现](../Page/作業系統層虛擬化.md "wikilink")；比如在[OLPC项目的首次实现中](../Page/OLPC.md "wikilink")\[29\]它使用了[沙盒技术在轻量的](../Page/沙盒_\(電腦安全\).md "wikilink")环境中隔离独立的应用程序。同样[美国国家安全局也在安全增强型](../Page/美国国家安全局.md "wikilink")[Android中采用了一些SELinux概念](../Page/Android.md "wikilink")。\[30\]
+孤立进程也可以通过类似[作業系統層虛擬化的机制实现](https://zh.wikipedia.org/wiki/作業系統層虛擬化 "wikilink")；比如在[OLPC项目的首次实现中](../Page/OLPC.md "wikilink")\[29\]它使用了[沙盒技术在轻量的](../Page/沙盒_\(電腦安全\).md "wikilink")环境中隔离独立的应用程序。同样[美国国家安全局也在安全增强型](../Page/美国国家安全局.md "wikilink")[Android中采用了一些SELinux概念](../Page/Android.md "wikilink")。\[30\]
 
 ## 参见
 

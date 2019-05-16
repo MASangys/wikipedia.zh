@@ -1,8 +1,8 @@
-為[加藤元浩所著之推理漫畫](../Page/加藤元浩.md "wikilink")，於[講談社出版之](../Page/講談社.md "wikilink")《[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")》上連載。日文版截至2019年2月，已出版40卷。中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，已出至35卷。
+為[加藤元浩所著之推理漫畫](../Page/加藤元浩.md "wikilink")，於[講談社出版之](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")》上連載。日文版截至2019年2月，已出版40卷。中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，已出至35卷。
 
 ## 簡介
 
-于《月刊少年Magazine》2005年10月号开始连载。跟《[神通小侦探](../Page/神通小侦探.md "wikilink")》是姐妹作，共用世界背景。故事由**榊森羅**和**七瀨立樹**兩位角色帶領展開：兩人遇上各式各樣的不可思議神秘事件，而榊森羅藉其豐沛的科學知識找出神秘事件真正的科學上原因，進而解開與之相關的案件。
+于《月刊少年Magazine》2005年10月号开始连载。跟《[神通小侦探](https://zh.wikipedia.org/wiki/神通小侦探 "wikilink")》是姐妹作，共用世界背景。故事由**榊森羅**和**七瀨立樹**兩位角色帶領展開：兩人遇上各式各樣的不可思議神秘事件，而榊森羅藉其豐沛的科學知識找出神秘事件真正的科學上原因，進而解開與之相關的案件。
 
 事件的主题除了神秘现象外，还包括遗迹与文明、植物与化石、动物等。跟《神通小侦探》一样，并非全是杀人事件。
 
@@ -146,7 +146,7 @@ ISBN</p></th>
 <tbody>
 <tr class="odd">
 <td><p>Op.01</p></td>
-<td><p><a href="../Page/擬態.md" title="wikilink">擬態</a> (Mimicry)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/擬態" title="wikilink">擬態</a> (Mimicry)</p></td>
 <td><p>2005年10月号</p></td>
 <td><p>1卷</p></td>
 <td><p>! rowspan=2|2007年1月15日<br />
@@ -174,7 +174,7 @@ ISBN 9861185356</p></td>
 <td><p>Op.04</p></td>
 <td><p>詛咒之面具 (The Cursed Mask)</p></td>
 <td><p>2006年2月号・3月号</p></td>
-<td><p>传说因为作得不好而会诅咒人死亡的<a href="../Page/能剧#能面.md" title="wikilink">能乐面具即将被拍卖</a>。究竟面具诅咒的真相是……？</p></td>
+<td><p>传说因为作得不好而会诅咒人死亡的<a href="https://zh.wikipedia.org/wiki/能剧#能面" title="wikilink">能乐面具即将被拍卖</a>。究竟面具诅咒的真相是……？</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -191,7 +191,7 @@ ISBN 9789861191676</p></td>
 <td><p>Op.06</p></td>
 <td><p>都市傳說 (Modern Legend)</p></td>
 <td><p>2006年6月号・7月号</p></td>
-<td><p>明友高中开始有奇怪的<a href="../Page/都市传说.md" title="wikilink">都市传说流传</a>。森罗指出这些可能是别有用心的传说后，立树开始调查传说的源头。</p></td>
+<td><p>明友高中开始有奇怪的<a href="https://zh.wikipedia.org/wiki/都市传说" title="wikilink">都市传说流传</a>。森罗指出这些可能是别有用心的传说后，立树开始调查传说的源头。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -206,7 +206,7 @@ ISBN 9789861195674</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.08</p></td>
-<td><p><a href="../Page/jp:グーテンベルク聖書.md" title="wikilink">古騰堡聖經 (Gutenberg Bible)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jp:グーテンベルク聖書" title="wikilink">古騰堡聖經 (Gutenberg Bible)</a></p></td>
 <td><p>2006年12月号・2007年1月号</p></td>
 <td><p>5卷</p></td>
 <td><p>! rowspan=2|2007年9月7日<br />
@@ -228,11 +228,11 @@ ISBN 9789861001388</p></td>
 <td><p>6卷</p></td>
 <td><p>2007年11月15日<br />
 ISBN 9789861006789</p></td>
-<td><p><a href="../Page/埃及.md" title="wikilink">埃及</a>・<a href="../Page/开罗.md" title="wikilink">开罗的</a><a href="../Page/开罗国家博物馆.md" title="wikilink">考古学博物馆发生了杀人事件</a>。凶手枪杀被害者后还取走其一部分内脏。因为枪击波及了母亲的遗物，森罗决定要找出真凶。和姐妹作《<a href="../Page/神通小偵探.md" title="wikilink">神通小偵探</a>》52话 ・<em>法老的首飾</em><a href="../Page/跨界作品.md" title="wikilink">跨界</a>。</p></td>
+<td><p><a href="../Page/埃及.md" title="wikilink">埃及</a>・<a href="../Page/开罗.md" title="wikilink">开罗的</a><a href="https://zh.wikipedia.org/wiki/开罗国家博物馆" title="wikilink">考古学博物馆发生了杀人事件</a>。凶手枪杀被害者后还取走其一部分内脏。因为枪击波及了母亲的遗物，森罗决定要找出真凶。和姐妹作《<a href="../Page/神通小偵探.md" title="wikilink">神通小偵探</a>》52话 ・<em>法老的首飾</em><a href="../Page/跨界作品.md" title="wikilink">跨界</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.11</p></td>
-<td><p><a href="../Page/蝗灾.md" title="wikilink">飛蝗</a> (Locust)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蝗灾" title="wikilink">飛蝗</a> (Locust)</p></td>
 <td><p>2007年8月号</p></td>
 <td><p>7卷</p></td>
 <td><p>! rowspan=4|2008年6月26日<br />
@@ -251,7 +251,7 @@ ISBN 9789861014920</p></td>
 <td><p>Op.13</p></td>
 <td><p>公立游泳池中 (In the Civic Pool)</p></td>
 <td><p>2007年10月号</p></td>
-<td><p>市民游泳池中发生了一些小事。同学主张自己重要的演唱会门票被母亲丢掉了。并不栖息在东京的<a href="../Page/龙虱.md" title="wikilink">龙虱被丢进泳池</a>。总说“真奇怪啊”的游泳大叔。为了重拾安静的环境，立树要森罗把问题解决掉。</p></td>
+<td><p>市民游泳池中发生了一些小事。同学主张自己重要的演唱会门票被母亲丢掉了。并不栖息在东京的<a href="https://zh.wikipedia.org/wiki/龙虱" title="wikilink">龙虱被丢进泳池</a>。总说“真奇怪啊”的游泳大叔。为了重拾安静的环境，立树要森罗把问题解决掉。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -259,7 +259,7 @@ ISBN 9789861014920</p></td>
 <td><p>Op.14</p></td>
 <td><p>土耳其人 (The Turk)</p></td>
 <td><p>2007年11月号</p></td>
-<td><p>森罗和立树前往欣赏会长的收藏品。在那里他们看到了<a href="../Page/土耳其行棋傀儡.md" title="wikilink">“土耳其人”的</a><a href="../Page/复刻版.md" title="wikilink">复刻版</a>。在森罗和“土耳其人”下棋的时候，发生了偷窃事件。</p></td>
+<td><p>森罗和立树前往欣赏会长的收藏品。在那里他们看到了<a href="../Page/土耳其行棋傀儡.md" title="wikilink">“土耳其人”的</a><a href="https://zh.wikipedia.org/wiki/复刻版" title="wikilink">复刻版</a>。在森罗和“土耳其人”下棋的时候，发生了偷窃事件。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -270,13 +270,13 @@ ISBN 9789861014920</p></td>
 <td><p>8卷</p></td>
 <td><p>! rowspan=4|2008年8月27日<br />
 ISBN 9789861020365</p></td>
-<td><p>鲸崎警部收到写有“将使日本1亿3000万人成为被害人”的复仇预告信。寄出者似乎曾是<a href="../Page/冤狱.md" title="wikilink">冤案的受害者</a>。于是警部立刻展开调查……。</p></td>
+<td><p>鲸崎警部收到写有“将使日本1亿3000万人成为被害人”的复仇预告信。寄出者似乎曾是<a href="https://zh.wikipedia.org/wiki/冤狱" title="wikilink">冤案的受害者</a>。于是警部立刻展开调查……。</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.16</p></td>
 <td><p><a href="../Page/隕石.md" title="wikilink">隕石</a> (A Meteorite)</p></td>
 <td><p>2008年1月号</p></td>
-<td><p>在位于<a href="../Page/哈萨克斯坦.md" title="wikilink">哈萨克斯坦的</a><a href="../Page/俄罗斯.md" title="wikilink">俄罗斯</a><a href="../Page/拜科努尔航天发射场.md" title="wikilink">宇宙基地发现了</a><a href="../Page/陨石.md" title="wikilink">陨石产生的</a><a href="../Page/撞击坑.md" title="wikilink">撞击坑</a>。为了争夺陨石的所有权，两国希望森罗进行裁决。虽然当地的少年说事件大约是3天前发生的，但现场却没有见到任何碎片。</p></td>
+<td><p>在位于<a href="../Page/哈萨克斯坦.md" title="wikilink">哈萨克斯坦的</a><a href="../Page/俄罗斯.md" title="wikilink">俄罗斯</a><a href="../Page/拜科努尔航天发射场.md" title="wikilink">宇宙基地发现了</a><a href="https://zh.wikipedia.org/wiki/陨石" title="wikilink">陨石产生的</a><a href="../Page/撞击坑.md" title="wikilink">撞击坑</a>。为了争夺陨石的所有权，两国希望森罗进行裁决。虽然当地的少年说事件大约是3天前发生的，但现场却没有见到任何碎片。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -284,7 +284,7 @@ ISBN 9789861020365</p></td>
 <td><p>Op.17</p></td>
 <td><p>櫛野村奇譚 (A Strange Tale from Kushino Mura)</p></td>
 <td><p>2008年2月号</p></td>
-<td><p>森罗和立树等人前往栉野村<a href="../Page/滑雪.md" title="wikilink">滑雪</a>。挑战超上级者滑道的两人在风雪中迷失时，进入了偶然发现的山中小屋，但却好像<a href="../Page/时间旅行.md" title="wikilink">回到了村子被命名为“栉野村”之前的过去</a>。</p></td>
+<td><p>森罗和立树等人前往栉野村<a href="https://zh.wikipedia.org/wiki/滑雪" title="wikilink">滑雪</a>。挑战超上级者滑道的两人在风雪中迷失时，进入了偶然发现的山中小屋，但却好像<a href="https://zh.wikipedia.org/wiki/时间旅行" title="wikilink">回到了村子被命名为“栉野村”之前的过去</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -298,26 +298,26 @@ ISBN 9789861020365</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.19</p></td>
-<td><p>太陽與<a href="../Page/民間傳說.md" title="wikilink">民間傳說</a> (The Sun and a Folklore)</p></td>
+<td><p>太陽與<a href="https://zh.wikipedia.org/wiki/民間傳說" title="wikilink">民間傳說</a> (The Sun and a Folklore)</p></td>
 <td><p>2008年4月号・5月号</p></td>
 <td><p>9卷</p></td>
 <td><p>! rowspan=3|2008年12月29日<br />
 ISBN 9789861027128</p></td>
-<td><p>曾作为<a href="../Page/印加文明.md" title="wikilink">印加文明首都</a>，无比繁荣的<a href="../Page/库斯科.md" title="wikilink">库斯科</a>。一名手持金块的当地少年昏倒在著名景点<a href="../Page/jp:クスコ盆地.md" title="wikilink">太阳神殿的地下迷宫中</a>。他原本是和手持<a href="../Page/奇普.md" title="wikilink">绳结的大学教授一同进入地下迷宫的</a>，但在途中失散了。难道传说中的<a href="../Page/黄金国.md" title="wikilink">黄金乡真的存在吗</a>？</p></td>
+<td><p>曾作为<a href="https://zh.wikipedia.org/wiki/印加文明" title="wikilink">印加文明首都</a>，无比繁荣的<a href="https://zh.wikipedia.org/wiki/库斯科" title="wikilink">库斯科</a>。一名手持金块的当地少年昏倒在著名景点<a href="https://zh.wikipedia.org/wiki/jp:クスコ盆地" title="wikilink">太阳神殿的地下迷宫中</a>。他原本是和手持<a href="../Page/奇普.md" title="wikilink">绳结的大学教授一同进入地下迷宫的</a>，但在途中失散了。难道传说中的<a href="https://zh.wikipedia.org/wiki/黄金国" title="wikilink">黄金乡真的存在吗</a>？</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.20</p></td>
 <td><p><a href="../Page/变态_(生物).md" title="wikilink">變態</a> (The Metamorphosis)</p></td>
 <td><p>2008年6月号</p></td>
-<td><p>明友高中图书馆的墙上装饰着一张画，那是17世纪某位<a href="../Page/jp:マリア・ジビーラ・メーリアン.md" title="wikilink">女昆虫学家的作品</a>。某天，这张画被盗了。</p></td>
+<td><p>明友高中图书馆的墙上装饰着一张画，那是17世纪某位<a href="https://zh.wikipedia.org/wiki/jp:マリア・ジビーラ・メーリアン" title="wikilink">女昆虫学家的作品</a>。某天，这张画被盗了。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Op.21</p></td>
-<td><p><a href="../Page/jp:回遊#死滅回遊.md" title="wikilink">死滅迴游</a> (Abortive Migration)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jp:回遊#死滅回遊" title="wikilink">死滅迴游</a> (Abortive Migration)</p></td>
 <td><p>2008年7月号</p></td>
-<td><p>为了拍摄海洋生物的照片，森罗和立树来到<a href="../Page/冲绳县.md" title="wikilink">冲绳</a>。在那里，进行<a href="../Page/水肺潜水.md" title="wikilink">有氧潜水支援的夫妻</a>，似乎因为丈夫偷偷留着前妻的遗物正在吵架。他的前妻虽然是被卷入死灭回游而死，但也有被丈夫杀死的传闻。</p></td>
+<td><p>为了拍摄海洋生物的照片，森罗和立树来到<a href="https://zh.wikipedia.org/wiki/冲绳县" title="wikilink">冲绳</a>。在那里，进行<a href="https://zh.wikipedia.org/wiki/水肺潜水" title="wikilink">有氧潜水支援的夫妻</a>，似乎因为丈夫偷偷留着前妻的遗物正在吵架。他的前妻虽然是被卷入死灭回游而死，但也有被丈夫杀死的传闻。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -328,13 +328,13 @@ ISBN 9789861027128</p></td>
 <td><p>10卷</p></td>
 <td><p>! rowspan=4|2009年3月30日<br />
 ISBN 9789861031743</p></td>
-<td><p><a href="../Page/蒙古国.md" title="wikilink">蒙古的</a><a href="../Page/戈壁.md" title="wikilink">戈壁中</a>、发现了<a href="../Page/恐龙.md" title="wikilink">恐龙和</a><a href="../Page/人类.md" title="wikilink">人类处在同一</a><a href="../Page/地层.md" title="wikilink">地层的</a><a href="../Page/化石.md" title="wikilink">化石</a>。受到<a href="../Page/古生物学.md" title="wikilink">古生物学者兄妹的拜托</a>，森罗前往解明这相差6000万年之谜。</p></td>
+<td><p><a href="../Page/蒙古国.md" title="wikilink">蒙古的</a><a href="../Page/戈壁.md" title="wikilink">戈壁中</a>、发现了<a href="../Page/恐龙.md" title="wikilink">恐龙和</a><a href="https://zh.wikipedia.org/wiki/人类" title="wikilink">人类处在同一</a><a href="../Page/地层.md" title="wikilink">地层的</a><a href="../Page/化石.md" title="wikilink">化石</a>。受到<a href="../Page/古生物学.md" title="wikilink">古生物学者兄妹的拜托</a>，森罗前往解明这相差6000万年之谜。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.23</p></td>
 <td><p>釘子 (The Nail)</p></td>
 <td><p>2008年9月号</p></td>
-<td><p>森罗和立树的同学·横枪收到了<a href="../Page/连环信.md" title="wikilink">会带来不幸的信息</a>。被钉在杉树上的<a href="../Page/诅咒娃娃.md" title="wikilink">诅咒娃娃写着半年前</a><a href="../Page/车祸.md" title="wikilink">肇事逃逸事故中被害者的名字</a>。当事人主张被害人是被突然推到自己车前的。</p></td>
+<td><p>森罗和立树的同学·横枪收到了<a href="../Page/连环信.md" title="wikilink">会带来不幸的信息</a>。被钉在杉树上的<a href="https://zh.wikipedia.org/wiki/诅咒娃娃" title="wikilink">诅咒娃娃写着半年前</a><a href="https://zh.wikipedia.org/wiki/车祸" title="wikilink">肇事逃逸事故中被害者的名字</a>。当事人主张被害人是被突然推到自己车前的。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -342,7 +342,7 @@ ISBN 9789861031743</p></td>
 <td><p>Op.24</p></td>
 <td><p>地球最後的暑假 (Summer Holiday at the World End)</p></td>
 <td><p>2008年10月号</p></td>
-<td><p>暑假的最后一天，森罗等人来到海边玩。听了<a href="../Page/jp:海の家.md" title="wikilink">海边小屋女主人所讲的附近</a><a href="../Page/洞窟.md" title="wikilink">洞窟的</a><a href="../Page/怪谈_(日本).md" title="wikilink">怪谈</a>，一行人来到洞窟，果然如她所说地听到了令人毛骨悚然的笑声……。</p></td>
+<td><p>暑假的最后一天，森罗等人来到海边玩。听了<a href="https://zh.wikipedia.org/wiki/jp:海の家" title="wikilink">海边小屋女主人所讲的附近</a><a href="https://zh.wikipedia.org/wiki/洞窟" title="wikilink">洞窟的</a><a href="https://zh.wikipedia.org/wiki/怪谈_(日本)" title="wikilink">怪谈</a>，一行人来到洞窟，果然如她所说地听到了令人毛骨悚然的笑声……。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -387,7 +387,7 @@ ISBN 9789861039619</p></td>
 <td><p>Op.27</p></td>
 <td><p>初釜事件 ("Hatsugama" Case)</p></td>
 <td><p>2009年2月号</p></td>
-<td><p>立树的祖父带森罗前去参加中学同学家举办的<a href="../Page/茶道.md" title="wikilink">初釜</a>。可是茶会后，却发现价值300万日元的<a href="../Page/jp:楽焼.md" title="wikilink">黑乐茶碗不知什么时候被和放在</a><a href="../Page/凹间.md" title="wikilink">凹间的</a><a href="../Page/陀螺.md" title="wikilink">陀螺掉包了</a>。</p></td>
+<td><p>立树的祖父带森罗前去参加中学同学家举办的<a href="https://zh.wikipedia.org/wiki/茶道" title="wikilink">初釜</a>。可是茶会后，却发现价值300万日元的<a href="https://zh.wikipedia.org/wiki/jp:楽焼" title="wikilink">黑乐茶碗不知什么时候被和放在</a><a href="https://zh.wikipedia.org/wiki/凹间" title="wikilink">凹间的</a><a href="https://zh.wikipedia.org/wiki/陀螺" title="wikilink">陀螺掉包了</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -395,7 +395,7 @@ ISBN 9789861039619</p></td>
 <td><p>Op.28</p></td>
 <td><p>丸標貓（丸〆猫） (Marujime Neko)</p></td>
 <td><p>2009年3月号</p></td>
-<td><p>妻子去世后就郁郁寡欢的男性身边发生了一些怪事。他觉得带有和妻子重要回忆的丸标猫（<a href="../Page/招财猫.md" title="wikilink">招财猫</a>）仿佛是老伴在呼唤自己到另一个世界去一样。森罗表示可以为他解答，但要给他丸标猫作为报酬。</p></td>
+<td><p>妻子去世后就郁郁寡欢的男性身边发生了一些怪事。他觉得带有和妻子重要回忆的丸标猫（<a href="https://zh.wikipedia.org/wiki/招财猫" title="wikilink">招财猫</a>）仿佛是老伴在呼唤自己到另一个世界去一样。森罗表示可以为他解答，但要给他丸标猫作为报酬。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -406,7 +406,7 @@ ISBN 9789861039619</p></td>
 <td><p>12卷</p></td>
 <td><p>! rowspan=3|2010年3月8日<br />
 ISBN 9789861046594</p></td>
-<td><p><a href="../Page/卢浮宫.md" title="wikilink">卢浮宫藏品</a>，作为交易的行政文件，被装在壶里的<a href="../Page/巴比伦尼亚.md" title="wikilink">古巴比伦粘土板不见了</a>。壶被用粘土封起来，但那封泥却未受到破坏。森罗3名养父之一、雷伊博士为解决此事，将他叫来法国。</p></td>
+<td><p><a href="../Page/卢浮宫.md" title="wikilink">卢浮宫藏品</a>，作为交易的行政文件，被装在壶里的<a href="https://zh.wikipedia.org/wiki/巴比伦尼亚" title="wikilink">古巴比伦粘土板不见了</a>。壶被用粘土封起来，但那封泥却未受到破坏。森罗3名养父之一、雷伊博士为解决此事，将他叫来法国。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.30</p></td>
@@ -422,7 +422,7 @@ ISBN 9789861046594</p></td>
 〈前篇、後篇〉</p></td>
 <td><p>2009年6月号<br />
 2009年7月号</p></td>
-<td><p>森罗为了从某个香港占卜师手中买下占卜用的<a href="../Page/罗庚.md" title="wikilink">罗盘</a>，前去和店主交涉时，占卜师的刑警侄子带着人气女演员、陈倩莲也来到店中。陈说自己三个月以来，一直为看到某个男性的幽灵所苦……。</p></td>
+<td><p>森罗为了从某个香港占卜师手中买下占卜用的<a href="https://zh.wikipedia.org/wiki/罗庚" title="wikilink">罗盘</a>，前去和店主交涉时，占卜师的刑警侄子带着人气女演员、陈倩莲也来到店中。陈说自己三个月以来，一直为看到某个男性的幽灵所苦……。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -433,13 +433,13 @@ ISBN 9789861046594</p></td>
 <td><p>13卷</p></td>
 <td><p>! rowspan=4|2010年5月31日<br />
 ISBN 9789861053417</p></td>
-<td><p>放学途中，森罗等人发现了一块长满草花的<a href="../Page/旗竿地.md" title="wikilink">旗竿地</a>。这块地的主人似乎3个月前去世了，他到底曾在这片空地上做过什么？</p></td>
+<td><p>放学途中，森罗等人发现了一块长满草花的<a href="https://zh.wikipedia.org/wiki/旗竿地" title="wikilink">旗竿地</a>。这块地的主人似乎3个月前去世了，他到底曾在这片空地上做过什么？</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.33</p></td>
 <td><p>霧中的山莊 (Mountain Villa in Fog)</p></td>
 <td><p>2009年9月号</p></td>
-<td><p>森罗等人在参加<a href="../Page/jp:林間学校.md" title="wikilink">合宿走在山路上时突遭大雾</a>。他们得到雾中发现的山庄主人的许可到山庄内避难，后来得知山庄中住的都是某剧团的演员。1小时后，之前还生龙活虎的其中一人被发现死掉了。</p></td>
+<td><p>森罗等人在参加<a href="https://zh.wikipedia.org/wiki/jp:林間学校" title="wikilink">合宿走在山路上时突遭大雾</a>。他们得到雾中发现的山庄主人的许可到山庄内避难，后来得知山庄中住的都是某剧团的演员。1小时后，之前还生龙活虎的其中一人被发现死掉了。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -468,11 +468,11 @@ ISBN 9789861053417</p></td>
 <td><p>14卷</p></td>
 <td><p>! rowspan=3|2011年1月31日<br />
 ISBN 9789861059518</p></td>
-<td><p>为了寻找至今只发现了8只的梦幻蝴蝶，皇帝纹黄蝶[1]的“第9只”而前往<a href="../Page/阿根廷.md" title="wikilink">阿根廷</a><a href="../Page/布宜诺斯艾利斯.md" title="wikilink">布宜诺斯艾利斯</a>。可是，却被卷入了与<a href="../Page/肮脏战争.md" title="wikilink">肮脏战争相关的事件</a>……</p></td>
+<td><p>为了寻找至今只发现了8只的梦幻蝴蝶，皇帝纹黄蝶[1]的“第9只”而前往<a href="../Page/阿根廷.md" title="wikilink">阿根廷</a><a href="https://zh.wikipedia.org/wiki/布宜诺斯艾利斯" title="wikilink">布宜诺斯艾利斯</a>。可是，却被卷入了与<a href="https://zh.wikipedia.org/wiki/肮脏战争" title="wikilink">肮脏战争相关的事件</a>……</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.37</p></td>
-<td><p><a href="../Page/jp:すごろく.md" title="wikilink">雙六</a>（<a href="../Page/地产大亨.md" title="wikilink">地产大亨</a>） (Sugoroku)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jp:すごろく" title="wikilink">雙六</a>（<a href="https://zh.wikipedia.org/wiki/地产大亨" title="wikilink">地产大亨</a>） (Sugoroku)</p></td>
 <td><p>2010年2月号</p></td>
 <td><p>森罗和立树来到由一位老奶奶独自经营的玩具店，得知老奶奶因和朋友不和而困扰。于是立树打算帮助她们解除误会。</p></td>
 <td></td>
@@ -482,13 +482,13 @@ ISBN 9789861059518</p></td>
 <td><p>Op.38</p></td>
 <td><p>花店的女孩 (Woman in the Flower Shop)</p></td>
 <td><p>2010年3月号</p></td>
-<td><p>花店<a href="../Page/看板娘.md" title="wikilink">看板娘被杀了</a>。正独居准备参加<a href="../Page/律师资格考试.md" title="wikilink">律师资格考试的学生</a>，目击到了疑似凶手的人物……</p></td>
+<td><p>花店<a href="https://zh.wikipedia.org/wiki/看板娘" title="wikilink">看板娘被杀了</a>。正独居准备参加<a href="https://zh.wikipedia.org/wiki/律师资格考试" title="wikilink">律师资格考试的学生</a>，目击到了疑似凶手的人物……</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Op.39</p></td>
-<td><p><a href="../Page/忒修斯#米诺斯迷宫.md" title="wikilink">阿莉阿德尼的線</a> (A Thread from Ariadne)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/忒修斯#米诺斯迷宫" title="wikilink">阿莉阿德尼的線</a> (A Thread from Ariadne)</p></td>
 <td><p>2010年4月号</p></td>
 <td><p>15卷</p></td>
 <td><p>! rowspan=4|2011年2月24日<br />
@@ -530,7 +530,7 @@ ISBN 9789861074443</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.44</p></td>
-<td><p><a href="../Page/jp:レヤック.md" title="wikilink">雷亞克</a> (The "Leyak")</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jp:レヤック" title="wikilink">雷亞克</a> (The "Leyak")</p></td>
 <td><p>2010年9月号</p></td>
 <td><p>森罗等人为拜访立树祖父的朋友来到<a href="../Page/巴厘岛.md" title="wikilink">巴厘岛</a>。虽然当地因观光业发达而多少实现了现代化，但居民间似乎还存有迷信……。</p></td>
 <td></td>
@@ -546,7 +546,7 @@ ISBN 9789861074443</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.46</p></td>
-<td><p><a href="../Page/:en:Khanjar.md" title="wikilink">阿拉伯彎刀</a> (The Khanjar)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Khanjar" title="wikilink">阿拉伯彎刀</a> (The Khanjar)</p></td>
 <td><p>2010年11月号</p></td>
 <td><p>警方委托森罗鉴定号称是阿拉伯弯刀的短剑的真伪。由于犯下盗窃罪的犯人供述“我是被玛乌命令偷的”，若被鉴定为真货，玛乌将会被逮捕。当然，玛乌拜托森罗想想办法……。</p></td>
 <td></td>
@@ -554,24 +554,24 @@ ISBN 9789861074443</p></td>
 </tr>
 <tr class="even">
 <td><p>Op.47</p></td>
-<td><p><a href="../Page/老普林尼.md" title="wikilink">普林尼</a><a href="../Page/博物誌.md" title="wikilink">博物誌</a> (The Natural History of G.Plinius Secundus)</p></td>
+<td><p><a href="../Page/老普林尼.md" title="wikilink">普林尼</a><a href="https://zh.wikipedia.org/wiki/博物誌" title="wikilink">博物誌</a> (The Natural History of G.Plinius Secundus)</p></td>
 <td><p>2011年1月号</p></td>
 <td><p>17卷</p></td>
 <td><p>! rowspan=4|2011年9月8日<br />
 ISBN 9789861080420</p></td>
-<td><p>一名自由旅行家以老普林尼的博物志为报酬，委托森罗和立树调查<a href="../Page/冷战时期.md" title="wikilink">冷战时期的</a><a href="../Page/东德.md" title="wikilink">东德</a>、企图和家人一起翻过<a href="../Page/柏林墙.md" title="wikilink">柏林墙的少年被警卫枪杀的事件</a>。在调查时、发现协助少年和他的家人的间谍、似乎为了独吞少年持有的博物志而见死不救…。</p></td>
+<td><p>一名自由旅行家以老普林尼的博物志为报酬，委托森罗和立树调查<a href="https://zh.wikipedia.org/wiki/冷战时期" title="wikilink">冷战时期的</a><a href="https://zh.wikipedia.org/wiki/东德" title="wikilink">东德</a>、企图和家人一起翻过<a href="https://zh.wikipedia.org/wiki/柏林墙" title="wikilink">柏林墙的少年被警卫枪杀的事件</a>。在调查时、发现协助少年和他的家人的间谍、似乎为了独吞少年持有的博物志而见死不救…。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.48</p></td>
-<td><p><a href="../Page/:ja:隠れ里.md" title="wikilink">隱密村莊</a> (The Secret Village)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:ja:隠れ里" title="wikilink">隱密村莊</a> (The Secret Village)</p></td>
 <td><p>2011年2月号</p></td>
-<td><p>为了自己做<a href="../Page/七草粥.md" title="wikilink">七草粥</a>、森罗等人来到了有着隐密村庄传说的地方。土地主人住在山顶的豪宅上。当森罗等人为询问土地主人是否可以分给他们缺少的<a href="../Page/七草.md" title="wikilink">七草而前往拜访时</a>、却误入了隐密村庄。</p></td>
+<td><p>为了自己做<a href="https://zh.wikipedia.org/wiki/七草粥" title="wikilink">七草粥</a>、森罗等人来到了有着隐密村庄传说的地方。土地主人住在山顶的豪宅上。当森罗等人为询问土地主人是否可以分给他们缺少的<a href="https://zh.wikipedia.org/wiki/七草" title="wikilink">七草而前往拜访时</a>、却误入了隐密村庄。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Op.49</p></td>
-<td><p><a href="../Page/鑲嵌畫.md" title="wikilink">馬塞克畫</a> (Mosaic)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鑲嵌畫" title="wikilink">馬塞克畫</a> (Mosaic)</p></td>
 <td><p>2011年3月号</p></td>
 <td><p>有一名男性散播世界性的设计事务所的建筑家把前辈埋在自家墙壁里、并贴上了马赛克墙贴的传言。虽然男性坚持自己的主张、但没有确凿的证据就无法挖开墙壁调查。对一连串事件有些在意的鲸崎警部于是向森罗请求协助。</p></td>
 <td></td>
@@ -598,7 +598,7 @@ ISBN 9789861088938</p></td>
 </tr>
 <tr class="odd">
 <td><p>Op.52</p></td>
-<td><p><a href="../Page/jp:A列車で行こう.md" title="wikilink">「搭乘A列車吧」</a> (Take the "A" Train)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/jp:A列車で行こう" title="wikilink">「搭乘A列車吧」</a> (Take the "A" Train)</p></td>
 <td><p>2011年7月号</p></td>
 <td><p>转到明友高中的第一天就被同班的田岸保盯上的高中生·堺。对自己的座位产生违和感的堺调查在之前坐在这里的人物时、遭到了田岸的妨碍、甚至产生了之前在某个岔路口的交通事故与田岸有关的幻觉。之前坐在这里的人和田岸之间到底发生了什么…?</p></td>
 <td></td>
@@ -608,7 +608,7 @@ ISBN 9789861088938</p></td>
 <td><p>Op.53</p></td>
 <td><p>玻璃博物館 (The Glass Museum)</p></td>
 <td><p>2011年8月号</p></td>
-<td><p>森罗和立树从认识的银行职员那里接到给他客人的妻子按个人兴趣开设玻璃博物馆提出建议的邀请。在全员喝茶的时候、发生了女主人最得意的藏品——<a href="../Page/:en:Louis_Comfort_Tiffany.md" title="wikilink">蒂凡尼的玻璃制品被打碎的事件</a>。</p></td>
+<td><p>森罗和立树从认识的银行职员那里接到给他客人的妻子按个人兴趣开设玻璃博物馆提出建议的邀请。在全员喝茶的时候、发生了女主人最得意的藏品——<a href="https://zh.wikipedia.org/wiki/:en:Louis_Comfort_Tiffany" title="wikilink">蒂凡尼的玻璃制品被打碎的事件</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -635,7 +635,7 @@ ISBN 9789861095936</p></td>
 〈前篇、後篇〉</p></td>
 <td><p>2011年11月号<br />
 2011年12月号</p></td>
-<td><p>主导东欧小国瓦尔奇亚共和国多达三万人虐杀事件的前总统史瓦密在比利时遭到逮捕。比利时想审判史瓦密，但瓦尔奇亚却说比利时侵犯他国主权，并要求比利时立刻引渡史瓦密。两国因此在<a href="../Page/国际法庭.md" title="wikilink">国际法庭上展开激辩</a>。比利时政府雇用森罗成为本案的辅佐人登上了国际法庭，但他的对手，巴尔基亚雇用的辅佐人，居然是他的表哥灯马想！与<a href="../Page/神通小偵探.md" title="wikilink">Q.E.D 41卷</a><a href="../Page/跨界作品.md" title="wikilink">跨界</a>, 2个故事最好同时看。</p></td>
+<td><p>主导东欧小国瓦尔奇亚共和国多达三万人虐杀事件的前总统史瓦密在比利时遭到逮捕。比利时想审判史瓦密，但瓦尔奇亚却说比利时侵犯他国主权，并要求比利时立刻引渡史瓦密。两国因此在<a href="https://zh.wikipedia.org/wiki/国际法庭" title="wikilink">国际法庭上展开激辩</a>。比利时政府雇用森罗成为本案的辅佐人登上了国际法庭，但他的对手，巴尔基亚雇用的辅佐人，居然是他的表哥灯马想！与<a href="../Page/神通小偵探.md" title="wikilink">Q.E.D 41卷</a><a href="../Page/跨界作品.md" title="wikilink">跨界</a>, 2个故事最好同时看。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -791,7 +791,7 @@ ISBN 9789863173595</p></td>
 <tr class="odd">
 <td><p>Op.75</p></td>
 <td><p>衣櫃裡的幽靈 (Ghost in The Cabinet)</p></td>
-<td><p><a href="../Page/Magazine_+.md" title="wikilink">Magazine +</a>6月號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Magazine_+" title="wikilink">Magazine +</a>6月號</p></td>
 <td><p>瑪烏被手下推薦購買一個100多年前的衣櫃,據說當時常被用來舉行降靈會,為了使買主產生興趣在此重現降靈會,但是在舉行第二次降靈會時有人死在裡面,因為在場的人很多偵訊結束前都不能離開,所以瑪烏決定靠自己盡快解決案件。</p></td>
 <td></td>
 </tr>
@@ -978,25 +978,25 @@ ISBN 9789863173595</p></td>
 除Op.39使用了较不常用的译名\[2\]外，目前本作品尚未被证实存在严重的翻译问题。
 
   - Op.05
-    [阿兹特克](../Page/阿兹特克.md "wikilink")/[特斯卡特利波卡](../Page/特斯卡特利波卡.md "wikilink")/[魁札尔科亚特尔](../Page/魁札尔科亚特尔.md "wikilink")，[艾西斯](../Page/艾西斯.md "wikilink")
+    [阿兹特克](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")/[特斯卡特利波卡](../Page/特斯卡特利波卡.md "wikilink")/[魁札尔科亚特尔](https://zh.wikipedia.org/wiki/魁札尔科亚特尔 "wikilink")，[艾西斯](https://zh.wikipedia.org/wiki/艾西斯 "wikilink")
   - Op.07
-    [西墙](../Page/西墙.md "wikilink")/[提图斯凯旋门](../Page/提图斯凯旋门.md "wikilink")/[メノーラー](../Page/jp:メノーラー.md "wikilink")，[马尔他骑士团](../Page/马尔他骑士团.md "wikilink")
-  - Op.10 [圣书体](../Page/圣书体.md "wikilink")
+    [西墙](../Page/西墙.md "wikilink")/[提图斯凯旋门](../Page/提图斯凯旋门.md "wikilink")/[メノーラー](https://zh.wikipedia.org/wiki/jp:メノーラー "wikilink")，[马尔他骑士团](https://zh.wikipedia.org/wiki/马尔他骑士团 "wikilink")
+  - Op.10 [圣书体](https://zh.wikipedia.org/wiki/圣书体 "wikilink")
   - Op.16
-    [月球陨石](../Page/月球陨石.md "wikilink")/[火星陨石](../Page/火星陨石.md "wikilink")/[玻璃陨石](../Page/玻璃陨石.md "wikilink")
+    [月球陨石](https://zh.wikipedia.org/wiki/月球陨石 "wikilink")/[火星陨石](https://zh.wikipedia.org/wiki/火星陨石 "wikilink")/[玻璃陨石](https://zh.wikipedia.org/wiki/玻璃陨石 "wikilink")
   - Op.18
     [乌尔](../Page/乌尔.md "wikilink")/[苏美尔](../Page/苏美尔.md "wikilink")
   - Op.26
-    [欧帕兹](../Page/欧帕兹.md "wikilink")/[オーパーツ一覧](../Page/jp:オーパーツ一覧.md "wikilink")/[オーパーツ](http://www.nazoo.org/ooparts.htm)，[线形文字A](../Page/线形文字A.md "wikilink")/[线形文字B](../Page/线形文字B.md "wikilink")
+    [欧帕兹](https://zh.wikipedia.org/wiki/欧帕兹 "wikilink")/[オーパーツ一覧](https://zh.wikipedia.org/wiki/jp:オーパーツ一覧 "wikilink")/[オーパーツ](http://www.nazoo.org/ooparts.htm)，[线形文字A](../Page/线形文字A.md "wikilink")/[线形文字B](../Page/线形文字B.md "wikilink")
   - Op.29 [哈拉夫遗址](../Page/哈拉夫遗址.md "wikilink")
   - Op.32
-    [卡尔·林奈](../Page/卡尔·林奈.md "wikilink")/[Flower_clock](../Page/:en:Flower_clock.md "wikilink")
-  - Op.34 [アサード](../Page/jp:アサード.md "wikilink")
+    [卡尔·林奈](../Page/卡尔·林奈.md "wikilink")/[Flower_clock](https://zh.wikipedia.org/wiki/:en:Flower_clock "wikilink")
+  - Op.34 [アサード](https://zh.wikipedia.org/wiki/jp:アサード "wikilink")
   - Op.39
-    [克诺索斯](../Page/克诺索斯.md "wikilink")，[Ήλιος/Sol](../Page/太阳.md "wikilink")/[代达罗斯](../Page/代达罗斯.md "wikilink")（[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")）
-  - Op.40 [压舱水](../Page/压舱水.md "wikilink")
+    [克诺索斯](../Page/克诺索斯.md "wikilink")，[Ήλιος/Sol](../Page/太阳.md "wikilink")/[代达罗斯](https://zh.wikipedia.org/wiki/代达罗斯 "wikilink")（[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")）
+  - Op.40 [压舱水](https://zh.wikipedia.org/wiki/压舱水 "wikilink")
   - Op.42
-    [キルト](../Page/jp:キルト.md "wikilink")/[Quilt](../Page/:en:Quilt.md "wikilink")
+    [キルト](https://zh.wikipedia.org/wiki/jp:キルト "wikilink")/[Quilt](https://zh.wikipedia.org/wiki/:en:Quilt "wikilink")
 
 ## 注释
 
@@ -1007,9 +1007,9 @@ ISBN 9789863173595</p></td>
 
 ## 参见
 
-  - [东方三博士](../Page/东方三博士.md "wikilink")（C.M.B.一词的来源）
+  - [东方三博士](https://zh.wikipedia.org/wiki/东方三博士 "wikilink")（C.M.B.一词的来源）
   - [大英博物馆](../Page/大英博物馆.md "wikilink")
-  - [jp:怪奇大作戦](../Page/jp:怪奇大作戦.md "wikilink")（类似作品）
+  - [jp:怪奇大作戦](https://zh.wikipedia.org/wiki/jp:怪奇大作戦 "wikilink")（类似作品）
 
 ## 外部連結
 
@@ -1020,5 +1020,5 @@ ISBN 9789863173595</p></td>
 [Category:都市傳說題材作品](https://zh.wikipedia.org/wiki/Category:都市傳說題材作品 "wikilink")
 
 1.  日文原文：ポンテンモンキチョウ
-    台译读法：皇帝/纹黄蝶；尚未找到此蝶相关参考资料。另外，[日文页面目前是根据本漫画内的记载撰写的](../Page/jp:ポンテンモンキチョウ.md "wikilink")，不足以参考。[英文页面由于创建日期晚于本漫画刊载](../Page/:en:Colias_ponteni.md "wikilink")，亦不参考。
+    台译读法：皇帝/纹黄蝶；尚未找到此蝶相关参考资料。另外，[日文页面目前是根据本漫画内的记载撰写的](https://zh.wikipedia.org/wiki/jp:ポンテンモンキチョウ "wikilink")，不足以参考。[英文页面由于创建日期晚于本漫画刊载](https://zh.wikipedia.org/wiki/:en:Colias_ponteni "wikilink")，亦不参考。
 2.  书中译为阿莉阿德尼，但较为常用的译名是“阿里阿德涅”；尚有其他使用较不常用译名的现象。

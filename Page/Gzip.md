@@ -1,4 +1,4 @@
-**Gzip**是若干種[文件壓縮](../Page/文件壓縮.md "wikilink")[程序的簡稱](../Page/程序.md "wikilink")，通常指[GNU計劃的實現](../Page/GNU計劃.md "wikilink")，此處的gzip代表GNU
+**Gzip**是若干種[文件壓縮](https://zh.wikipedia.org/wiki/文件壓縮 "wikilink")[程序的簡稱](https://zh.wikipedia.org/wiki/程序 "wikilink")，通常指[GNU計劃的實現](../Page/GNU計劃.md "wikilink")，此處的gzip代表GNU
 zip。也經常用來表示gzip這種文件格式。軟件的作者是Jean-loup Gailly和Mark
 Adler。在1992年10月31日第一次公開發布，版本號0.1，1993年2月，发布了1.0版本。
 
@@ -7,22 +7,22 @@ Adler。在1992年10月31日第一次公開發布，版本號0.1，1993年2月�
 
 ## 文件格式
 
-gzip的基础是[DEFLATE](../Page/DEFLATE.md "wikilink")，DEFLATE是[LZ77与](../Page/LZ77与LZ78.md "wikilink")[哈夫曼编码的一个组合体](../Page/哈夫曼编码.md "wikilink")。DEFLATE最初是作为[LZW以及其它受](../Page/LZW.md "wikilink")[专利保护的](../Page/专利.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[算法的替代版本而设计的](../Page/算法.md "wikilink")，当时那些专利限制了以及其它一些流行的归档工具的应用。
+gzip的基础是[DEFLATE](../Page/DEFLATE.md "wikilink")，DEFLATE是[LZ77与](../Page/LZ77与LZ78.md "wikilink")[哈夫曼编码的一个组合体](https://zh.wikipedia.org/wiki/哈夫曼编码 "wikilink")。DEFLATE最初是作为[LZW以及其它受](../Page/LZW.md "wikilink")[专利保护的](../Page/专利.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[算法的替代版本而设计的](../Page/算法.md "wikilink")，当时那些专利限制了以及其它一些流行的归档工具的应用。
 
 文件格式说明：
 
   - 10字节的头，包含[幻数](../Page/魔術數字_\(程式設計\).md "wikilink")、版本号以及时间戳
   - 可选的扩展头，如原文件名
   - 文件体，包括DEFLATE压缩的数据
-  - 8字节的尾注，包括[CRC-32校验和以及未压缩的原始数据长度](../Page/循环冗余校验.md "wikilink")
+  - 8字节的尾注，包括[CRC-32校验和以及未压缩的原始数据长度](https://zh.wikipedia.org/wiki/循环冗余校验 "wikilink")
 
-尽管这种文件格式允许多个这样的数据拼接在一起，在解压时也能认出它们是拼接在一起的数据，但通常gzip仅用来压缩单个文件。多个文件的压缩归档通常是首先将这些文件合并成一个[tar文件](../Page/tar_\(计算机科学\).md "wikilink")，然后再使用gzip进行压缩，最后生成的`.tar.gz`或者`.tgz`文件就是所谓的“tar压缩包”或者“tarball”。
+尽管这种文件格式允许多个这样的数据拼接在一起，在解压时也能认出它们是拼接在一起的数据，但通常gzip仅用来压缩单个文件。多个文件的压缩归档通常是首先将这些文件合并成一个[tar文件](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")，然后再使用gzip进行压缩，最后生成的`.tar.gz`或者`.tgz`文件就是所谓的“tar压缩包”或者“tarball”。
 
-注意不要将gzip和[ZIP压缩格式混淆](../Page/ZIP_\(文件格式\).md "wikilink")。ZIP也使用DEFLATE算法，而且可移植性更好，不需要一个外部的归档工具就可以包容多个文件。但是，由于ZIP对每个文件进行单独压缩而没有利用文件间的冗余信息（即[固实压缩](../Page/固实压缩.md "wikilink")），所以ZIP的压缩率会稍逊于tar压缩包。
+注意不要将gzip和[ZIP压缩格式混淆](https://zh.wikipedia.org/wiki/ZIP_\(文件格式\) "wikilink")。ZIP也使用DEFLATE算法，而且可移植性更好，不需要一个外部的归档工具就可以包容多个文件。但是，由于ZIP对每个文件进行单独压缩而没有利用文件间的冗余信息（即[固实压缩](https://zh.wikipedia.org/wiki/固实压缩 "wikilink")），所以ZIP的压缩率会稍逊于tar压缩包。
 
 ## gzip命令的常用选项
 
-  - \-c，--stdout将解压缩的内容输出到[标准输出](../Page/标准输出.md "wikilink")，原文件保持不变
+  - \-c，--stdout将解压缩的内容输出到[标准输出](https://zh.wikipedia.org/wiki/标准输出 "wikilink")，原文件保持不变
   - \-d，--decompress解压缩
   - \-f，--force强制覆盖旧文件
   - \-l，--list列出压缩包内储存的原始文件的信息（如，解压后的名字、压缩率等）
@@ -38,7 +38,7 @@ gzip的基础是[DEFLATE](../Page/DEFLATE.md "wikilink")，DEFLATE是[LZ77与](.
 
 在大多数Linux发行版中，通过使用 zx 选项来提取.tar.gz格式的压缩文件，例如：tar -zxf file.tar.gz
 
-[zlib是DEFLATE算法的实现库](../Page/zlib.md "wikilink")，它的API同时支持gzip文件格式以及一个简化的数据流格式。zlib数据流格式、DEFLATE以及gzip文件格式均已被分别标准化为
+[zlib是DEFLATE算法的实现库](https://zh.wikipedia.org/wiki/zlib "wikilink")，它的API同时支持gzip文件格式以及一个简化的数据流格式。zlib数据流格式、DEFLATE以及gzip文件格式均已被分别标准化为
 RFC 1950、RFC 1951、RFC 1952。
 
 gzip在[HTTP压缩](https://en.wikipedia.org/wiki/HTTP_compression)，一种在万维网中加速传输HTML和其他内容的技术。它是在
@@ -50,20 +50,20 @@ RFC 1950,
 zlib DEFLATE 已经在 [Protable Network
 Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics)（PNG）格式中使用。
 
-自20世纪90年代末期以来，一个基于数据块排序算法的文件压缩工具[bzip2作为gzip的替代者逐渐得到流行](../Page/bzip2.md "wikilink")，它可以生成相当小的压缩文件，尤其是对于源代码和其他结构化文本更是这样，但代价是最高达4倍的内存与处理器时间消耗。bzip2压缩的tar包传统上叫作`.tar.bz2`或`.tbz`。
+自20世纪90年代末期以来，一个基于数据块排序算法的文件压缩工具[bzip2作为gzip的替代者逐渐得到流行](https://zh.wikipedia.org/wiki/bzip2 "wikilink")，它可以生成相当小的压缩文件，尤其是对于源代码和其他结构化文本更是这样，但代价是最高达4倍的内存与处理器时间消耗。bzip2压缩的tar包传统上叫作`.tar.bz2`或`.tbz`。
 
-和[7zip内部也有一个DEFLATE实现](../Page/7zip.md "wikilink")，可以制作gzip兼容的压缩文件，与gzip相比有更高的压缩率，不过比较耗费处理器的处理时间。
+和[7zip内部也有一个DEFLATE实现](https://zh.wikipedia.org/wiki/7zip "wikilink")，可以制作gzip兼容的压缩文件，与gzip相比有更高的压缩率，不过比较耗费处理器的处理时间。
 
 gzip压缩文件对应的解压程序是**gunzip**。
 
 ## 参见
 
-  - [归档格式列表](../Page/归档格式列表.md "wikilink")
-  - [归档工具列表](../Page/归档工具列表.md "wikilink")
-  - [归档工具比较](../Page/归档工具比较.md "wikilink")
-  - [Unix程序列表](../Page/Unix程序列表.md "wikilink")
+  - [归档格式列表](https://zh.wikipedia.org/wiki/归档格式列表 "wikilink")
+  - [归档工具列表](https://zh.wikipedia.org/wiki/归档工具列表 "wikilink")
+  - [归档工具比较](https://zh.wikipedia.org/wiki/归档工具比较 "wikilink")
+  - [Unix程序列表](https://zh.wikipedia.org/wiki/Unix程序列表 "wikilink")
   - [.tar.gz.gpg](../Page/Tar.md "wikilink")
-  - [自由文件格式](../Page/自由文件格式.md "wikilink")
+  - [自由文件格式](https://zh.wikipedia.org/wiki/自由文件格式 "wikilink")
 
 ## 参考资料
 

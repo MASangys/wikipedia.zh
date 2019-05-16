@@ -27,12 +27,12 @@
   - \-{岡}-村正彥：[松田洋治](../Page/松田洋治.md "wikilink")
   - \-{岡}-村律子：松-{岡}-
   - 鼴鼠獸人（配音）：[槐柳二](../Page/槐柳二.md "wikilink")
-  - 長老巴格：[明石潮](../Page/明石潮.md "wikilink")
-  - 高坂博士：[北原義郎](../Page/北原義郎.md "wikilink")
+  - 長老巴格：[明石潮](https://zh.wikipedia.org/wiki/明石潮 "wikilink")
+  - 高坂博士：[北原義郎](https://zh.wikipedia.org/wiki/北原義郎 "wikilink")
   - 十面鬼戈爾哥斯（配音）：沢
-  - 傑洛大帝：[中田博久](../Page/中田博久.md "wikilink")
+  - 傑洛大帝：[中田博久](https://zh.wikipedia.org/wiki/中田博久 "wikilink")
   - 卡蘭達帝國支配者（配音）：[阪脩](../Page/阪脩.md "wikilink")
-  - 旁白：[納谷悟朗](../Page/納谷悟朗.md "wikilink")、中江真司（僅第1集預告）
+  - 旁白：[納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")、中江真司（僅第1集預告）
 
 ## 動作演員
 
@@ -56,10 +56,10 @@
 <!-- end list -->
 
   -
-    作詞：[八手三郎](../Page/八手三郎.md "wikilink")　作曲：菊池俊輔　演唱：子門真人、[哥倫比亞搖籠會](../Page/音羽搖籠會.md "wikilink")
+    作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")　作曲：菊池俊輔　演唱：子門真人、[哥倫比亞搖籠會](https://zh.wikipedia.org/wiki/音羽搖籠會 "wikilink")
     第1～14集採用第一段歌詞，15集之後因劇中蓋頓消滅而變更為第二段。
 
-本作與系列前作同樣，包括製作了10首以上正副主題歌、插曲在內的歌曲，但特別的是，首次出現了由[小林昭二飾演的](../Page/小林昭二.md "wikilink")「立花藤兵衛」一角主題曲「」，並由他自己擔任演唱。不過此曲並未用於本作，而是在下一部作品《[假面騎士強人](../Page/假面騎士強人.md "wikilink")》中首度使用。
+本作與系列前作同樣，包括製作了10首以上正副主題歌、插曲在內的歌曲，但特別的是，首次出現了由[小林昭二飾演的](../Page/小林昭二.md "wikilink")「立花藤兵衛」一角主題曲「」，並由他自己擔任演唱。不過此曲並未用於本作，而是在下一部作品《[假面騎士強人](https://zh.wikipedia.org/wiki/假面騎士強人 "wikilink")》中首度使用。
 
 [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink")
 [Category:1974年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1974年日本電視劇集 "wikilink")

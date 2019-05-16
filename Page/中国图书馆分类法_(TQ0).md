@@ -224,7 +224,7 @@
 
 ::::\*TQ028.5 液体-固体的分离过程
 
-:::::\*TQ028.5+2 沉降及[倾析](../Page/倾析.md "wikilink")
+:::::\*TQ028.5+2 沉降及[倾析](https://zh.wikipedia.org/wiki/倾析 "wikilink")
 
 :::::\*TQ028.5+3 过滤
 

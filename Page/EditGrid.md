@@ -1,13 +1,13 @@
 EditGrid，是一個[Web
-2.0](../Page/Web_2.0.md "wikilink")[試算表服式](../Page/試算表.md "wikilink")，由[香港創業企業](../Page/香港.md "wikilink")[Team
+2.0](../Page/Web_2.0.md "wikilink")[試算表服式](https://zh.wikipedia.org/wiki/試算表 "wikilink")，由[香港創業企業](../Page/香港.md "wikilink")[Team
 and
-Concepts開發](../Page/Team_and_Concepts.md "wikilink")，於2007年2月14日推出首個正式版本（首個公眾[預覽版本於](../Page/預覽版本.md "wikilink")2006年4月7日推出）。除英語版外，EditGrid備有八個語文版本，包括[德文](../Page/德文.md "wikilink")、[西班牙文](../Page/西班牙文.md "wikilink")、[法文](../Page/法文.md "wikilink")、[日文](../Page/日文.md "wikilink")、[荷蘭文](../Page/荷蘭文.md "wikilink")、[巴西](../Page/巴西.md "wikilink")[葡萄牙文及](../Page/葡萄牙文.md "wikilink")[繁](../Page/繁體中文.md "wikilink")、[簡體中文](../Page/簡體中文.md "wikilink")。個人用戶可免費登錄。
+Concepts開發](https://zh.wikipedia.org/wiki/Team_and_Concepts "wikilink")，於2007年2月14日推出首個正式版本（首個公眾[預覽版本於](https://zh.wikipedia.org/wiki/預覽版本 "wikilink")2006年4月7日推出）。除英語版外，EditGrid備有八個語文版本，包括[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")、[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[荷蘭文](https://zh.wikipedia.org/wiki/荷蘭文 "wikilink")、[巴西](../Page/巴西.md "wikilink")[葡萄牙文及](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")[繁](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。個人用戶可免費登錄。
 
-除開傳統試算表應有之功能外，EditGrid更具備一系列專為網上[協作及共享而設之功能](../Page/群組軟體.md "wikilink")。其『即時更新』（RTU）功能讓多個用戶同時在單一試算表上進行編輯，而『自訂匯出格式』（MDF）功能則允許用戶使用[XSLT將試算表轉化成其他格式](../Page/XSLT.md "wikilink")，包括供[Google
-Earth讀取的](../Page/Google_Earth.md "wikilink")[KML格式](../Page/KML.md "wikilink")。其他功能包括多層權限配置、修訂記錄、圖表、即時通訊、永久連結及超過伍佰個試算表函數等。
+除開傳統試算表應有之功能外，EditGrid更具備一系列專為網上[協作及共享而設之功能](https://zh.wikipedia.org/wiki/群組軟體 "wikilink")。其『即時更新』（RTU）功能讓多個用戶同時在單一試算表上進行編輯，而『自訂匯出格式』（MDF）功能則允許用戶使用[XSLT將試算表轉化成其他格式](../Page/XSLT.md "wikilink")，包括供[Google
+Earth讀取的](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")[KML格式](../Page/KML.md "wikilink")。其他功能包括多層權限配置、修訂記錄、圖表、即時通訊、永久連結及超過伍佰個試算表函數等。
 
-用戶也可藉著EditGrid的刊登網誌功能從第三方網站瀏覽EditGrid試算表。開發人員可使用EditGrid的[API開發自訂應用程式](../Page/應用程序編程介面.md "wikilink")。在EditGrid上提供的Grid2Map外掛應用程式就是其一個將EditGrid上的經緯點轉化為[Google
-Maps上的坐標的API應用程式](../Page/Google_Maps.md "wikilink")。
+用戶也可藉著EditGrid的刊登網誌功能從第三方網站瀏覽EditGrid試算表。開發人員可使用EditGrid的[API開發自訂應用程式](https://zh.wikipedia.org/wiki/應用程序編程介面 "wikilink")。在EditGrid上提供的Grid2Map外掛應用程式就是其一個將EditGrid上的經緯點轉化為[Google
+Maps上的坐標的API應用程式](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")。
 
 2013年10月5日04:34某用户收到邮件，称2014年5月1日结束时EditGrid将停止服务。邮件全文如下：
 

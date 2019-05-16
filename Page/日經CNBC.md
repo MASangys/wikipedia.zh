@@ -1,19 +1,21 @@
-**日經CNBC**（日語：**日経CNBC**）是一家[日本的](../Page/日本.md "wikilink")[財經](../Page/財經.md "wikilink")[新聞台](../Page/新聞台.md "wikilink")，由[CNBC亞洲台與](../Page/CNBC亞洲台.md "wikilink")[日本經濟新聞社共同持有](../Page/日本經濟新聞社.md "wikilink")。
+**日經CNBC**（日語：**日経CNBC**）是一家[日本的](../Page/日本.md "wikilink")[財經](https://zh.wikipedia.org/wiki/財經 "wikilink")[新聞台](https://zh.wikipedia.org/wiki/新聞台 "wikilink")，由[CNBC亞洲台與](https://zh.wikipedia.org/wiki/CNBC亞洲台 "wikilink")[日本經濟新聞社共同持有](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")。
 
 ## 節目
 
 ### 現行播放節目
 
-日經CNBC也會聯播[CNBC美國台的節目](../Page/CNBC美國台.md "wikilink")，其中[Worldwide
-Exchange和](../Page/Worldwide_Exchange.md "wikilink")[Squawk on the
-Street節目會同步](../Page/Squawk_on_the_Street.md "wikilink")[口譯成](../Page/口譯.md "wikilink")[日文](../Page/日文.md "wikilink")，[Power
-Lunch](../Page/Power_Lunch.md "wikilink")、[Street
-Signs和](../Page/Street_Signs.md "wikilink")[Closing
-Bell節目則沒有](../Page/Closing_Bell.md "wikilink")。
+日經CNBC也會聯播[CNBC美國台的節目](https://zh.wikipedia.org/wiki/CNBC美國台 "wikilink")，其中[Worldwide
+Exchange和](https://zh.wikipedia.org/wiki/Worldwide_Exchange "wikilink")[Squawk
+on the
+Street節目會同步](https://zh.wikipedia.org/wiki/Squawk_on_the_Street "wikilink")[口譯成](../Page/口譯.md "wikilink")[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")，[Power
+Lunch](https://zh.wikipedia.org/wiki/Power_Lunch "wikilink")、[Street
+Signs和](https://zh.wikipedia.org/wiki/Street_Signs "wikilink")[Closing
+Bell節目則沒有](https://zh.wikipedia.org/wiki/Closing_Bell "wikilink")。
 
 ### 過去節目
 
-  - *[Tokyo Squawk Box](../Page/Tokyo_Squawk_Box.md "wikilink")*
+  - *[Tokyo Squawk
+    Box](https://zh.wikipedia.org/wiki/Tokyo_Squawk_Box "wikilink")*
 
 ## 記者群與主播群
 
@@ -25,7 +27,7 @@ Bell節目則沒有](../Page/Closing_Bell.md "wikilink")。
 
 ## 參見
 
-  - [CNBC](../Page/CNBC.md "wikilink")
+  - [CNBC](https://zh.wikipedia.org/wiki/CNBC "wikilink")
 
 ## 外部連結
 

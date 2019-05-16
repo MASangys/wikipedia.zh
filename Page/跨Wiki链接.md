@@ -6,42 +6,42 @@
 
 ## 符号
 
-跨Wiki符号很大程度上因Wiki使用者的*链接模式*而不同。其中最重要的两种链接模式是[駝峰式大小寫及自由链接](../Page/駝峰式大小寫.md "wikilink")（指被[分隔符分开的任意词语](../Page/分隔符.md "wikilink")，比如{{tsl|en|double
+跨Wiki符号很大程度上因Wiki使用者的*链接模式*而不同。其中最重要的两种链接模式是[駝峰式大小寫及自由链接](../Page/駝峰式大小寫.md "wikilink")（指被[分隔符分开的任意词语](https://zh.wikipedia.org/wiki/分隔符 "wikilink")，比如{{tsl|en|double
 square brackets|双方括号}}).
 
 相应地，基于駝峰式大小寫的跨Wiki链接常以这种形式出现：“信号:页面名称”，在这里*信号*是另一Wiki部分的跨映射前缀。因此，像这样一个链接:“Wikipedia:InterWiki”就能够做为[HTML指向](../Page/HTML.md "wikilink")[Wikipedia中的某篇文章](../Page/维基百科.md "wikilink")，比如[Wikipedia:跨语言链接](https://zh.wikipedia.org/wiki/Wikipedia:跨语言链接 "wikilink")。以駝峰式大小寫Wiki方式链接到的页面标题中的空格应以下划线代替（比如WikiPedia:Main_Page）。
 
 Wiki网站中的基于自由链接的跨Wiki链接，比如说维基百科，同样地遵守这样的原则，但是分隔符在这种情况下用于网站内部链接。这些链接如果用作内部链接将会被解析和转换为它们的本原，这使得输入变得容易，但是这可能会同其它一些特殊符号起冲突。比如在维基百科中，`[[MeatBall:AssumeGoodFaith|MeatBall:AssumeGoodFaith]]`会显示为,{{tsl|de|InterWiki|}}（以前的语法为：`[[DeWikipedia:InterWiki|DeWikipedia:InterWiki]]`）将显示为.
 
-[MediaWiki软件有一个附加属性](../Page/MediaWiki.md "wikilink")，它使用类似的符号以创建自动的跨语言链接－比如说链接\[\[de:InterWiki|de:InterWiki\]\]（开头没有冒号）会自动创建一个标签“其它语言:”于文章顶端和底端。不同种类的其它[Wiki软件也有一些用于这种](../Page/Wiki软件.md "wikilink")“半内部”链接的特性，比如像对于[名字空间或者多种的子社区的支持](../Page/名字空间.md "wikilink")。
+[MediaWiki软件有一个附加属性](../Page/MediaWiki.md "wikilink")，它使用类似的符号以创建自动的跨语言链接－比如说链接\[\[de:InterWiki|de:InterWiki\]\]（开头没有冒号）会自动创建一个标签“其它语言:”于文章顶端和底端。不同种类的其它[Wiki软件也有一些用于这种](https://zh.wikipedia.org/wiki/Wiki软件 "wikilink")“半内部”链接的特性，比如像对于[名字空间或者多种的子社区的支持](https://zh.wikipedia.org/wiki/名字空间 "wikilink")。
 
 ## 实现
 
-就内部而言，使用跨Wiki链接的Wiki网站需要有一个“跨映射”来定义从Wiki代码到URLs的映射。比如，`[[MeatBall:InterWiki|MeatBall:InterWiki]]`将会显示为[MeatBall:InterWiki](../Page/MeatBall:InterWiki.md "wikilink")，但却链接到*http://usemod.com/cgi-bin/mb.pl?InterWiki*。
+就内部而言，使用跨Wiki链接的Wiki网站需要有一个“跨映射”来定义从Wiki代码到URLs的映射。比如，`[[MeatBall:InterWiki|MeatBall:InterWiki]]`将会显示为[MeatBall:InterWiki](https://zh.wikipedia.org/wiki/MeatBall:InterWiki "wikilink")，但却链接到*http://usemod.com/cgi-bin/mb.pl?InterWiki*。
 
 因为大部分的Wiki系统在个人网页上使用URL，这些页面的标题将会以一个不变的地址出现于页面底部，因此定义这种映射的最简单办法就是将URL的不变部分以跨Wiki前缀来代替。所以在上述的例子中，`MeatBall`仅以*http://usemod.com/cgi-bin/mb.pl?*代替就可以创建一个[HTML链接目标](../Page/HTML.md "wikilink")。
 
-尽管如此，在使用特殊符号的时候还是要小心，这包含两个方面，一是作为本地链接模式规则的例外，一是作为目标系统中的必须被用来专门代表URL的符号。所以基于駝峰式大小寫的Wiki网站必须使用特殊规则来识别能作为跨Wiki链接一部分的非[字母和数字符号](../Page/字母和数字.md "wikilink")，并且甚至连自由链接系统也可能因技术上的原因不允许某些符号如“+”包含在本地链接中。同样的，像“?”和“&”诸如此类的符号在URLs中是受到特别对待的，当用于Wiki中时需要转换成某些其它的不常用符号，在连接不同的网址时使用不同的[符号编码](../Page/符号编码.md "wikilink")。
+尽管如此，在使用特殊符号的时候还是要小心，这包含两个方面，一是作为本地链接模式规则的例外，一是作为目标系统中的必须被用来专门代表URL的符号。所以基于駝峰式大小寫的Wiki网站必须使用特殊规则来识别能作为跨Wiki链接一部分的非[字母和数字符号](https://zh.wikipedia.org/wiki/字母和数字 "wikilink")，并且甚至连自由链接系统也可能因技术上的原因不允许某些符号如“+”包含在本地链接中。同样的，像“?”和“&”诸如此类的符号在URLs中是受到特别对待的，当用于Wiki中时需要转换成某些其它的不常用符号，在连接不同的网址时使用不同的[符号编码](https://zh.wikipedia.org/wiki/符号编码 "wikilink")。
 
-然而，与为每个Wiki部分创建新的列表以代替擦除的符号相比，从其它站点复制一份显得更为有用。像[MeatballWiki和](../Page/MeatballWiki.md "wikilink")[用户模式Wiki等站点包含有一些用于此目的的全面的列表](../Page/用户模式Wiki.md "wikilink")--前一种同其它Wiki网页一样被公开地编辑，后一种易于检查但是已有落伍之嫌了。
+然而，与为每个Wiki部分创建新的列表以代替擦除的符号相比，从其它站点复制一份显得更为有用。像[MeatballWiki和](../Page/MeatballWiki.md "wikilink")[用户模式Wiki等站点包含有一些用于此目的的全面的列表](https://zh.wikipedia.org/wiki/用户模式Wiki "wikilink")--前一种同其它Wiki网页一样被公开地编辑，后一种易于检查但是已有落伍之嫌了。
 
-MeatBallWiki使用一种叫做[文档替换机制直接适用于公开编辑它自身的跨Wiki映射](../Page/文档替换.md "wikilink")。映射的变化并不会立刻显现，但是跨映射的结构文档会在规定时间内没有被编辑的情况下重新提交。这种延迟意在确保所有的改变都得到显现但并无碍于公开编辑。
+MeatBallWiki使用一种叫做[文档替换机制直接适用于公开编辑它自身的跨Wiki映射](https://zh.wikipedia.org/wiki/文档替换 "wikilink")。映射的变化并不会立刻显现，但是跨映射的结构文档会在规定时间内没有被编辑的情况下重新提交。这种延迟意在确保所有的改变都得到显现但并无碍于公开编辑。
 
 ## 非Wiki网站的速记
 
-绝大部分跨映射实现仅仅是用完整URL的前缀来代替跨Wiki的前缀，如此多的非Wiki网站也同样可以使用这种系统。比如说在[自由的在线计算机词典上对某定义的参考资料能够以这样的形式出现](../Page/自由的在线计算机词典.md "wikilink")：`[[Foldoc:foo|Foldoc:foo]]`，这会告诉系统将“foo”指向*http://www.foldoc.org/foldoc.cgi*，并将链接显示为[Foldoc:foo](../Page/Foldoc:foo.md "wikilink")。这使得从Wiki网页内链接一般参考资源变得非常容易，这不需要对URL形式的有多少了解。
+绝大部分跨映射实现仅仅是用完整URL的前缀来代替跨Wiki的前缀，如此多的非Wiki网站也同样可以使用这种系统。比如说在[自由的在线计算机词典上对某定义的参考资料能够以这样的形式出现](https://zh.wikipedia.org/wiki/自由的在线计算机词典 "wikilink")：`[[Foldoc:foo|Foldoc:foo]]`，这会告诉系统将“foo”指向*http://www.foldoc.org/foldoc.cgi*，并将链接显示为[Foldoc:foo](https://zh.wikipedia.org/wiki/Foldoc:foo "wikilink")。这使得从Wiki网页内链接一般参考资源变得非常容易，这不需要对URL形式的有多少了解。
 
 同样应注意的是跨Wiki概念能相应地应用于来自非Wiki网站的链接，比如，它提供了一种基于MeatBall-derived跨映射的速记语法。
 
 ## 外部链接
 
   - [Wikipedia's InterWiki
-    map](../Page/meta:Interwiki_map.md "wikilink")
+    map](https://zh.wikipedia.org/wiki/meta:Interwiki_map "wikilink")
   - [Discussion of the InterWiki
-    concept](../Page/MeatBall:InterMap.md "wikilink") at
-    [MeatballWiki](../Page/MeatballWiki.md "wikilink")
+    concept](https://zh.wikipedia.org/wiki/MeatBall:InterMap "wikilink")
+    at [MeatballWiki](../Page/MeatballWiki.md "wikilink")
   - [The InterWiki Wiki](http://interwiki.wiki.taoriver.net/)
   - [Discussion of the FileReplacement
-    concept](../Page/MeatBall:FileReplacement.md "wikilink")
+    concept](https://zh.wikipedia.org/wiki/MeatBall:FileReplacement "wikilink")
 
 [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink")

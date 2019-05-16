@@ -1,4 +1,4 @@
-《**CHEER**》是[台灣創作歌手](../Page/台灣.md "wikilink")[陳綺貞的](../Page/陳綺貞.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")。在台灣於2005年3月29日由[滾石唱片推出](../Page/滾石唱片.md "wikilink")。分為限量的精裝版和普通版。精裝版的包裝採用與[精裝書類似的翻頁設計](../Page/精裝書.md "wikilink")，並且附贈收錄了[音樂錄影帶和演唱會影片的](../Page/音樂錄影帶.md "wikilink")[VCD](../Page/VCD.md "wikilink")。
+《**CHEER**》是[台灣創作歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[陳綺貞的](../Page/陳綺貞.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。在台灣於2005年3月29日由[滾石唱片推出](../Page/滾石唱片.md "wikilink")。分為限量的精裝版和普通版。精裝版的包裝採用與[精裝書類似的翻頁設計](https://zh.wikipedia.org/wiki/精裝書 "wikilink")，並且附贈收錄了[音樂錄影帶和演唱會影片的](../Page/音樂錄影帶.md "wikilink")[VCD](../Page/VCD.md "wikilink")。
 
 ## 曲目
 

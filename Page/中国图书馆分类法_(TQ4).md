@@ -1,5 +1,5 @@
 ::\*TQ41
-[溶剂与](../Page/溶剂.md "wikilink")[增塑剂的生产](../Page/增塑剂.md "wikilink")
+[溶剂与](../Page/溶剂.md "wikilink")[增塑剂的生产](https://zh.wikipedia.org/wiki/增塑剂 "wikilink")
 
 ::::\*TQ410.1 基础理论
 
@@ -80,7 +80,7 @@
 :::\*TQ415 有毒溶剂
 
 ::\*TQ42
-[试剂与](../Page/试剂.md "wikilink")[纯化学品的生产](../Page/纯化学品.md "wikilink")
+[试剂与](https://zh.wikipedia.org/wiki/试剂 "wikilink")[纯化学品的生产](https://zh.wikipedia.org/wiki/纯化学品 "wikilink")
 
 ::::\*TQ420.1 基础理论
 
@@ -434,7 +434,7 @@
 
 ::::\*TQ427.7 半胶体的制备
 
-::\*TQ43 [胶粘剂工业](../Page/胶粘剂工业.md "wikilink")
+::\*TQ43 [胶粘剂工业](https://zh.wikipedia.org/wiki/胶粘剂工业 "wikilink")
 
 ::::\*TQ430.1 基础理论
 
@@ -606,7 +606,7 @@
 
 ::::\*TQ437+.9 其他
 
-::\*TQ44 [化学肥料工业](../Page/化学肥料工业.md "wikilink")
+::\*TQ44 [化学肥料工业](https://zh.wikipedia.org/wiki/化学肥料工业 "wikilink")
 
 ::::\*TQ440.1 物理化学原理
 
@@ -822,7 +822,7 @@
 
 ::::\*TQ449+.6 液体肥料
 
-::\*TQ45 [农药工业](../Page/农药工业.md "wikilink")
+::\*TQ45 [农药工业](https://zh.wikipedia.org/wiki/农药工业 "wikilink")
 
 ::::\*TQ450.1 基础理论
 
@@ -1082,7 +1082,7 @@
 
 :::\*TQ459 其他农药
 
-::\*TQ46 [制药化学工业](../Page/制药化学工业.md "wikilink")
+::\*TQ46 [制药化学工业](https://zh.wikipedia.org/wiki/制药化学工业 "wikilink")
 
 ::::\*TQ460.1 基础理论
 

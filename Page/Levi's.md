@@ -1,13 +1,13 @@
 [HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG](https://zh.wikipedia.org/wiki/File:HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG "fig:HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG")[元朗廣場分店](../Page/元朗廣場.md "wikilink")\]\]
-[Levi's_store_in_Leipzig.jpg](https://zh.wikipedia.org/wiki/File:Levi's_store_in_Leipzig.jpg "fig:Levi's_store_in_Leipzig.jpg")[萊比錫分店](../Page/萊比錫.md "wikilink")\]\]
-**李維斯公司**（，簡稱****）是美國一家[私人公司的服裝公司](../Page/私人公司.md "wikilink")，在全球以其**Levi's**品牌的[牛仔布](../Page/牛仔布.md "wikilink")[牛仔褲而聞名](../Page/牛仔裤.md "wikilink")。它成立於1853年，當時，創辦人[李維·史特勞斯從](../Page/李維·史特勞斯.md "wikilink")[巴伐利亞王國](../Page/巴伐利亞王國.md "wikilink")[布滕海姆到](../Page/布滕海姆.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[旧金山開設其兄弟](../Page/旧金山.md "wikilink")[紐約](../Page/紐約.md "wikilink")[乾貨業務的西海岸分支](../Page/乾貨.md "wikilink")。
+[Levi's_store_in_Leipzig.jpg](https://zh.wikipedia.org/wiki/File:Levi's_store_in_Leipzig.jpg "fig:Levi's_store_in_Leipzig.jpg")[萊比錫分店](https://zh.wikipedia.org/wiki/萊比錫 "wikilink")\]\]
+**李維斯公司**（，簡稱****）是美國一家[私人公司的服裝公司](../Page/私人公司.md "wikilink")，在全球以其**Levi's**品牌的[牛仔布](https://zh.wikipedia.org/wiki/牛仔布 "wikilink")[牛仔褲而聞名](../Page/牛仔裤.md "wikilink")。它成立於1853年，當時，創辦人[李維·史特勞斯從](https://zh.wikipedia.org/wiki/李維·史特勞斯 "wikilink")[巴伐利亞王國](../Page/巴伐利亞王國.md "wikilink")[布滕海姆到](../Page/布滕海姆.md "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[旧金山開設其兄弟](../Page/旧金山.md "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[乾貨業務的西海岸分支](https://zh.wikipedia.org/wiki/乾貨 "wikilink")。
 該公司的總部位於舊金山的Levi's廣場。\[1\]
 
 ## 歷史
 
-創始人[李維·史特勞斯在](../Page/李維·史特勞斯.md "wikilink")1850年左右的[舊金山](../Page/舊金山.md "wikilink")，將原本用來製作帳幕的粗糙帆布替當時的採礦工人製作了第一條-{Levi's}-牛仔褲，因為牛仔褲的耐用迅速的獲得了採礦工人的歡迎。
+創始人[李維·史特勞斯在](https://zh.wikipedia.org/wiki/李維·史特勞斯 "wikilink")1850年左右的[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，將原本用來製作帳幕的粗糙帆布替當時的採礦工人製作了第一條-{Levi's}-牛仔褲，因為牛仔褲的耐用迅速的獲得了採礦工人的歡迎。
 
-直至1990年代，這個品牌正面對來自海外其他品牌及較便宜產品的競爭。在[美國及](../Page/美國.md "wikilink")[加拿大的生產設施已關閉而製成品的供應則來自](../Page/加拿大.md "wikilink")[中國大陆](../Page/中國大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[莱索托](../Page/莱索托.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[多明尼加共和國](../Page/多明尼加共和國.md "wikilink")、[哥倫比亞](../Page/哥倫比亞.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[越南及](../Page/越南.md "wikilink")[墨西哥等地](../Page/墨西哥.md "wikilink")。
+直至1990年代，這個品牌正面對來自海外其他品牌及較便宜產品的競爭。在[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大的生產設施已關閉而製成品的供應則來自](../Page/加拿大.md "wikilink")[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")、[香港](../Page/香港.md "wikilink")、[莱索托](../Page/莱索托.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[多明尼加共和國](https://zh.wikipedia.org/wiki/多明尼加共和國 "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[越南及](https://zh.wikipedia.org/wiki/越南 "wikilink")[墨西哥等地](../Page/墨西哥.md "wikilink")。
 
 今日，利惠公司的零售業務分割成多個地區性的根據地：
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [亞太](../Page/亞太.md "wikilink")
+  - [亞太](https://zh.wikipedia.org/wiki/亞太 "wikilink")
       -
       -
       -
@@ -50,13 +50,13 @@
   - Orange
   - Fenom
 
-在2000年，在星期日[泰晤士報及](../Page/泰晤士報.md "wikilink")[英國第四台的調查](../Page/英國第四台.md "wikilink")，Levi's501s的自助洗衣店廣告被稱為第六佳的電視廣告．
+在2000年，在星期日[泰晤士報及](https://zh.wikipedia.org/wiki/泰晤士報 "wikilink")[英國第四台的調查](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")，Levi's501s的自助洗衣店廣告被稱為第六佳的電視廣告．
 
 ### RedWire DLX Jeans
 
-利惠公司最近設計了一條能控制穿著者蘋果[ipod音樂播放器的](../Page/ipod.md "wikilink")[牛仔褲](../Page/牛仔褲.md "wikilink")。RedWire
+利惠公司最近設計了一條能控制穿著者蘋果[ipod音樂播放器的](https://zh.wikipedia.org/wiki/ipod "wikilink")[牛仔褲](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")。RedWire
 DLX
-Jeans將會備有配合[ipod遙控的袋口以及其設計完全配合聽筒的使用](../Page/ipod.md "wikilink")．這件產品已在2006年8月出售，售價將為US$200(£114)。台灣也已經正式在Levi's專賣店發售。
+Jeans將會備有配合[ipod遙控的袋口以及其設計完全配合聽筒的使用](https://zh.wikipedia.org/wiki/ipod "wikilink")．這件產品已在2006年8月出售，售價將為US$200(£114)。台灣也已經正式在Levi's專賣店發售。
 
 利惠公司並不是第一位製造配合ipod服裝，但相信是第一位製造有關的長褲或牛仔褲。暫時未有圖片或資料有關怎樣清潔RedWire DLX
 Jeans。
@@ -108,9 +108,9 @@ Jeans。
 
 ## 醜聞
 
-2012年11月20日，[綠色和平在](../Page/綠色和平.md "wikilink")[中國大陸](../Page/中國大陸.md "wikilink")[北京發布](../Page/北京.md "wikilink")《潮流•污流：全球時尚品牌有毒有害物質殘留調查》報告，指出多間知名時尚品牌服裝在生產過程中使用可以導致不孕及致癌等有毒物質，不僅殘留於產品中，還因廠商胡亂排放而進入了[食物鏈](../Page/食物鏈.md "wikilink")，毒害民衆；名單上包括了Levi's。
+2012年11月20日，[綠色和平在](https://zh.wikipedia.org/wiki/綠色和平 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[北京發布](https://zh.wikipedia.org/wiki/北京 "wikilink")《潮流•污流：全球時尚品牌有毒有害物質殘留調查》報告，指出多間知名時尚品牌服裝在生產過程中使用可以導致不孕及致癌等有毒物質，不僅殘留於產品中，還因廠商胡亂排放而進入了[食物鏈](../Page/食物鏈.md "wikilink")，毒害民衆；名單上包括了Levi's。
 
-報告調查源於綠色和平在世界各地購買了141件服裝[樣品](../Page/樣品.md "wikilink")，檢測發現89件含有壬基酚聚氧乙烯醚，幾乎涉及全部品牌。壬基酚聚氧乙烯醚被廣泛使用於紡織物的印染和水洗環節，排放到環境中會迅速分解成為毒性更強的壬基酚，壬基酚能夠干擾[內分泌系統](../Page/內分泌系統.md "wikilink")，並且影響[生殖系統](../Page/生殖系統.md "wikilink")，難以降解，又可以通過食物鏈累積。另外，綠色和平在大多數樣品上都檢測出多種有害工業化學品
+報告調查源於綠色和平在世界各地購買了141件服裝[樣品](https://zh.wikipedia.org/wiki/樣品 "wikilink")，檢測發現89件含有壬基酚聚氧乙烯醚，幾乎涉及全部品牌。壬基酚聚氧乙烯醚被廣泛使用於紡織物的印染和水洗環節，排放到環境中會迅速分解成為毒性更強的壬基酚，壬基酚能夠干擾[內分泌系統](../Page/內分泌系統.md "wikilink")，並且影響[生殖系統](https://zh.wikipedia.org/wiki/生殖系統 "wikilink")，難以降解，又可以通過食物鏈累積。另外，綠色和平在大多數樣品上都檢測出多種有害工業化學品
 \[2\]。
 
 ## 链接

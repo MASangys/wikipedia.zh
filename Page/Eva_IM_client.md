@@ -1,5 +1,5 @@
-**Eva**是一款[KDE下的](../Page/KDE.md "wikilink")[QQ客户端](../Page/QQ.md "wikilink")，基于[Qt库开发](../Page/Qt.md "wikilink")，遵照[GNU
-GPL第二版发布](../Page/GNU_GPL.md "wikilink")，是[自由软件](../Page/自由软件.md "wikilink")。
+**Eva**是一款[KDE下的](../Page/KDE.md "wikilink")[QQ客户端](https://zh.wikipedia.org/wiki/QQ "wikilink")，基于[Qt库开发](../Page/Qt.md "wikilink")，遵照[GNU
+GPL第二版发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，是[自由软件](../Page/自由软件.md "wikilink")。
 
 目前的最新版是0.4.1
 
@@ -11,16 +11,16 @@ GPL第二版发布](../Page/GNU_GPL.md "wikilink")，是[自由软件](../Page/�
   - 修改自己的个人信息
   - 上传、下载好友分组
   - 新建群，进行群聊天
-  - 登录方式可选择[TCP或者](../Page/TCP.md "wikilink")[UDP](../Page/UDP.md "wikilink")，并且可以选用[HTTP代理](../Page/HTTP.md "wikilink")
+  - 登录方式可选择[TCP或者](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")，并且可以选用[HTTP代理](https://zh.wikipedia.org/wiki/HTTP "wikilink")
   - 自动回复
   - 支持文件传输，好友发送的自定义表情，也是通过文件传输来实现
   - 查找好友、添加好友、好友添加验证
 
 ## 参见
 
-  - [QQ](../Page/QQ.md "wikilink")
+  - [QQ](https://zh.wikipedia.org/wiki/QQ "wikilink")
   - [LumaQQ](../Page/LumaQQ.md "wikilink")
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
 
 ## 外部链接

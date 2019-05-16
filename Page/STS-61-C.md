@@ -5,9 +5,9 @@
   - **[罗伯特·吉布森](../Page/罗伯特·吉布森.md "wikilink")**（，曾执行、、、以及任务），指令长
   - **[查尔斯·伯尔登](../Page/查尔斯·伯尔登.md "wikilink")**（，曾执行、、以及任务），飞行员
   - **[张福林](../Page/張福林.md "wikilink")**（，曾执行、、、、、以及任务），任务专家
-  - **[斯蒂芬·霍利](../Page/斯蒂芬·霍利.md "wikilink")**（，曾执行、、、以及任务），任务专家
+  - **[斯蒂芬·霍利](https://zh.wikipedia.org/wiki/斯蒂芬·霍利 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[乔治·尼尔森](../Page/乔治·尼尔森.md "wikilink")**（，曾执行、以及），任务专家
-  - **[罗伯特·森克](../Page/罗伯特·森克.md "wikilink")**（，曾执行任务），有效载荷专家
+  - **[罗伯特·森克](https://zh.wikipedia.org/wiki/罗伯特·森克 "wikilink")**（，曾执行任务），有效载荷专家
   - **[比爾·納爾遜](../Page/比爾·納爾遜.md "wikilink")**（，曾执行任务），有效载荷专家
 
 [Category:1986年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1986年佛罗里达州 "wikilink")

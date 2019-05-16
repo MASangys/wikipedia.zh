@@ -1,5 +1,5 @@
 [Linux和](../Page/Linux.md "wikilink")[Microsoft
-Windows的一个主要区别就是Linux是](../Page/Microsoft_Windows.md "wikilink")[自由軟體](../Page/自由軟體.md "wikilink")，而[Windows是](../Page/Windows.md "wikilink")[封闭软件](../Page/封闭软件.md "wikilink")。除此以外，还有下列诸多区别。
+Windows的一个主要区别就是Linux是](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，而[Windows是](https://zh.wikipedia.org/wiki/Windows "wikilink")[封闭软件](https://zh.wikipedia.org/wiki/封闭软件 "wikilink")。除此以外，还有下列诸多区别。
 
 ## 系統架構
 
@@ -22,12 +22,12 @@ Windows的封閉特性導致了架構的不透明，普遍被認為是一種混�
 
 ## 軟體種類
 
-Windows以商業軟體為主，Linux則以[自由軟體為主](../Page/自由軟體.md "wikilink")。由於大多數人缺乏使用自由軟體的習慣，使得“找不到相應的應用軟體”成為Windows用戶轉換至Linux平台的一大阻力。
+Windows以商業軟體為主，Linux則以[自由軟體為主](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。由於大多數人缺乏使用自由軟體的習慣，使得“找不到相應的應用軟體”成為Windows用戶轉換至Linux平台的一大阻力。
 
 因為Linux使用者不多，所以遊戲軟體公司選擇以使用者壓倒性勝利的Windows作為開發平台，除了少數願意製作兩種作業系統都能使用的遊戲公司外，Linux能執行的遊戲軟體不多而且很少有能跟Windows匹敵的遊戲。但是，这一局面随着[威尔乌](../Page/威尔乌.md "wikilink")（Valve）开发[SteamOS而有所缓解](../Page/SteamOS.md "wikilink")，一些3A大作，例如[XCOM
-2以及](../Page/XCOM_2.md "wikilink")[Dota
+2以及](https://zh.wikipedia.org/wiki/XCOM_2 "wikilink")[Dota
 2专门开发了Linux版](../Page/Dota_2.md "wikilink")。[Vulkan
-(API)的开发使得在Linux上实现高效的游戏画面渲染成为了可能](../Page/Vulkan_\(API\).md "wikilink")。
+(API)的开发使得在Linux上实现高效的游戏画面渲染成为了可能](https://zh.wikipedia.org/wiki/Vulkan_\(API\) "wikilink")。
 
 ## 多語系支援
 
@@ -40,11 +40,11 @@ Linux在解決多語言問題方面比Windows做得要好。在Linux系統中主
 
 ## Unicode支援
 
-Linux和Windows都可以支援Unicode編碼，但是Linux顯示多多少少還是有問題。特別是中文字體上，因為自由的高品質中文字體較少，Linux需要大量[偵錯才可以完美顯示中文](../Page/偵錯.md "wikilink")。隨著[文泉驛](../Page/文泉驿.md "wikilink")、[cwTeX開源中文字體計劃的進展](../Page/cwTeX.md "wikilink")，這個問題也在緩解。
+Linux和Windows都可以支援Unicode編碼，但是Linux顯示多多少少還是有問題。特別是中文字體上，因為自由的高品質中文字體較少，Linux需要大量[偵錯才可以完美顯示中文](https://zh.wikipedia.org/wiki/偵錯 "wikilink")。隨著[文泉驛](../Page/文泉驿.md "wikilink")、[cwTeX開源中文字體計劃的進展](https://zh.wikipedia.org/wiki/cwTeX "wikilink")，這個問題也在緩解。
 
 ## 參見
 
-  - [Linux的採用](../Page/Linux的採用.md "wikilink")
+  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
 
 [Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink")
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")

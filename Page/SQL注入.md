@@ -1,7 +1,7 @@
-**SQL注入**（），也稱**SQL隱碼**或**SQL注碼**，是發生於應用程式與資料庫層的[安全漏洞](../Page/安全漏洞.md "wikilink")。簡而言之，是在輸入的字串之中夾帶[SQL指令](../Page/SQL.md "wikilink")，在設計不良的[程式當中忽略了字元檢查](../Page/计算机程序.md "wikilink")，那麼這些夾帶進去的惡意指令就會被[資料庫](../Page/資料庫.md "wikilink")[伺服器誤認為是正常的SQL指令而執行](../Page/伺服器.md "wikilink")，因此遭到破壞或是入侵。\[1\]
+**SQL注入**（），也稱**SQL隱碼**或**SQL注碼**，是發生於應用程式與資料庫層的[安全漏洞](https://zh.wikipedia.org/wiki/安全漏洞 "wikilink")。簡而言之，是在輸入的字串之中夾帶[SQL指令](../Page/SQL.md "wikilink")，在設計不良的[程式當中忽略了字元檢查](../Page/计算机程序.md "wikilink")，那麼這些夾帶進去的惡意指令就會被[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")[伺服器誤認為是正常的SQL指令而執行](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，因此遭到破壞或是入侵。\[1\]
 
 有部份人認為SQL注入是只針對[Microsoft SQL
-Server而來](../Page/Microsoft_SQL_Server.md "wikilink")，但只要是支援批次處理SQL指令的資料庫伺服器，都有可能受到此種手法的攻擊。
+Server而來](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，但只要是支援批次處理SQL指令的資料庫伺服器，都有可能受到此種手法的攻擊。
 
 ## 原因
 
@@ -11,7 +11,7 @@ Server而來](../Page/Microsoft_SQL_Server.md "wikilink")，但只要是支援�
 1.  在應用程式中使用字串聯結方式或聯合查詢方式組合SQL指令。
 2.  在應用程式連結資料庫時使用權限過大的帳戶（例如很多開發人員都喜歡用最高權限的系統管理員帳戶（如常见的root，sa等）連接資料庫）。
 3.  在資料庫中開放了不必要但權力過大的功能（例如在[Microsoft SQL
-    Server資料庫中的xp](../Page/Microsoft_SQL_Server.md "wikilink")_cmdshell延伸預存程序或是OLE
+    Server資料庫中的xp](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")_cmdshell延伸預存程序或是OLE
     Automation預存程序等）
 4.  太過於信任使用者所輸入的資料，未限制輸入的特殊字元，以及未對使用者輸入的資料做潛在指令的檢查。
 
@@ -61,7 +61,7 @@ strSQL = "SELECT * FROM users;"
 1.  資料表中的資料外洩，例如企業及個人機密資料，帳戶資料，密碼等。
 2.  資料結構被駭客探知，得以做進一步攻擊（例如SELECT \* FROM sys.tables）。
 3.  資料庫伺服器被攻擊，系統管理員帳戶被竄改（例如ALTER LOGIN sa WITH PASSWORD='xxxxxx'）。
-4.  取得系統較高權限後，有可能得以在網頁加入[惡意連結](../Page/惡意連結.md "wikilink")、[惡意代碼以及](../Page/惡意代碼.md "wikilink")[Phishing等](../Page/Phishing.md "wikilink")。
+4.  取得系統較高權限後，有可能得以在網頁加入[惡意連結](https://zh.wikipedia.org/wiki/惡意連結 "wikilink")、[惡意代碼以及](https://zh.wikipedia.org/wiki/惡意代碼 "wikilink")[Phishing等](https://zh.wikipedia.org/wiki/Phishing "wikilink")。
 5.  經由資料庫伺服器提供的作業系統支援，讓駭客得以修改或控制作業系統（例如xp_cmdshell "net stop
     iisadmin"可停止伺服器的IIS服務）。
 6.  駭客經由上傳php簡單的指令至對方之主機內，PHP之強大系統命令，可以讓駭客進行全面控制系統(例如:php一句話木馬)。
@@ -75,7 +75,7 @@ strSQL = "SELECT * FROM users;"
     Query）來設計資料存取功能。
 2.  在組合SQL字串時，先針對所傳入的參數加入其他字元（將單引號字元前加上跳脫字元）。
 3.  如果使用[PHP開發網頁程式的話](../Page/PHP.md "wikilink")，需加入跳脫字元之功能（自動將所有的網頁傳入參數，將單引號字元前加上跳脫字元）。
-4.  使用php開發，可寫入html特殊函式，可正確阻擋[XSS攻擊](../Page/XSS.md "wikilink")。
+4.  使用php開發，可寫入html特殊函式，可正確阻擋[XSS攻擊](https://zh.wikipedia.org/wiki/XSS "wikilink")。
 5.  其他，使用其他更安全的方式連接SQL資料庫。例如已修正過SQL注入問題的資料庫連接元件，例如[ASP.NET的SqlDataSource物件或是](../Page/ASP.NET.md "wikilink")
     [LINQ](../Page/语言集成查询.md "wikilink") to SQL。
 6.  使用SQL防注入系统。
@@ -105,7 +105,7 @@ strSQL = "SELECT * FROM users;"
   - [Avoid SQL
     injection](https://web.archive.org/web/20060717225700/http://www.windowsitpro.com/Article/ArticleID/46379/46379.html)
   - [PHP and SQL
-    Injections](../Page/b:en:Programming:PHP:SQL_Injection.md "wikilink")
+    Injections](https://zh.wikipedia.org/wiki/b:en:Programming:PHP:SQL_Injection "wikilink")
   - [SQL Injection in Login Forms](http://www.sandaru1.com/?p=10)
   - [xkcd上以SQL注入为主题的漫画](https://xkcd.com/327/)
 

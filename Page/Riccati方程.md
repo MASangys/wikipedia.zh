@@ -47,17 +47,17 @@
 ## 已知某一特定解
 
 已知 \(y = y_1\)
-是一特定解，可設通解\(y = y_1 + \frac{1}{z}\)，代入整理得[一階線性常微分方程](../Page/一階線性常微分方程.md "wikilink")：
+是一特定解，可設通解\(y = y_1 + \frac{1}{z}\)，代入整理得[一階線性常微分方程](https://zh.wikipedia.org/wiki/一階線性常微分方程 "wikilink")：
 
   -
     \(z' + (q_1 + 2 q_2 y_1) z = - q_2\)
 
 ## 参见
 
-  - [LQR控制器](../Page/LQR控制器.md "wikilink")
+  - [LQR控制器](https://zh.wikipedia.org/wiki/LQR控制器 "wikilink")
   - [伯努利微分方程](../Page/伯努利微分方程.md "wikilink")
-  - [柯西-欧拉方程](../Page/柯西-欧拉方程.md "wikilink")
-  - [克莱罗方程](../Page/克莱罗方程.md "wikilink")
+  - [柯西-欧拉方程](https://zh.wikipedia.org/wiki/柯西-欧拉方程 "wikilink")
+  - [克莱罗方程](https://zh.wikipedia.org/wiki/克莱罗方程 "wikilink")
   - [全微分方程](../Page/全微分方程.md "wikilink")
   - [线性微分方程](../Page/线性微分方程.md "wikilink")
 

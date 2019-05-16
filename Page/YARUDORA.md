@@ -1,11 +1,11 @@
-**YARUDORA**（****），是[索尼電腦娛樂所發售的](../Page/索尼電腦娛樂.md "wikilink")[遊戲軟體系列](../Page/遊戲軟體.md "wikilink")。故事以全[動畫](../Page/動畫.md "wikilink")、全[語音進行](../Page/語音.md "wikilink")。宣傳詞是「從看的戲劇，邁向玩的戲劇（）」。
+**YARUDORA**（****），是[索尼電腦娛樂所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[遊戲軟體系列](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。故事以全[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、全[語音進行](../Page/語音.md "wikilink")。宣傳詞是「從看的戲劇，邁向玩的戲劇（）」。
 
 動畫製作是[PRODUCTION I.G.](../Page/Production_I.G.md "wikilink")。
 
 ## 概要
 
-由[影片帶領下在故事進行的每個重要地方會顯示選項](../Page/影片.md "wikilink")，依不同的選擇故事會分岐。經由反覆遊戲，選擇項目會增加，有時候即使是同一個選項可能會有不同的發展。結局有20個以上，不過大部分是[BAD
-END](../Page/BAD_END.md "wikilink")。
+由[影片帶領下在故事進行的每個重要地方會顯示選項](https://zh.wikipedia.org/wiki/影片 "wikilink")，依不同的選擇故事會分岐。經由反覆遊戲，選擇項目會增加，有時候即使是同一個選項可能會有不同的發展。結局有20個以上，不過大部分是[BAD
+END](https://zh.wikipedia.org/wiki/BAD_END "wikilink")。
 
 從初次遊戲開始連續玩出2次BAD END的話，會有避免走到BAD END的輔助提示。
 
@@ -13,12 +13,12 @@ END](../Page/BAD_END.md "wikilink")。
 
 ## 系列
 
-### [PlayStation上發售](../Page/PlayStation.md "wikilink")
+### [PlayStation上發售](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
 
 初期的4部作品同一設定為，獨自住在公寓的大學生主角與喪失記憶的女主角相遇，分別對應四個不同的季節。這是因為當初本來是預定以「Four
 Season's memory」為1款軟體開發的緣故，内容量增加過多所以分割成4款。
 
-  - [雙面嬌娃](../Page/雙面嬌娃.md "wikilink")（）：1998年6月25日發售
+  - [雙面嬌娃](https://zh.wikipedia.org/wiki/雙面嬌娃 "wikilink")（）：1998年6月25日發售
   - [擁抱季節](../Page/擁抱季節.md "wikilink")（）：1998年7月23日發售
   - [茉莉花](../Page/茉莉花_\(遊戲\).md "wikilink")（）：1998年10月15日發售
   - [雪割花](../Page/雪割花.md "wikilink")（）：1998年11月26日發售
@@ -32,7 +32,7 @@ Season's memory」為1款軟體開發的緣故，内容量增加過多所以分�
 『BLOOD THE LAST
 VAMPIRE』遊戲發售為[跨媒體製作計畫的一環](../Page/跨媒體製作.md "wikilink")，在小說版、動畫電影版、遊戲版分別進行不同的故事。
 
-  - [SCANDAL](../Page/SCANDAL_\(遊戲\).md "wikilink")（）：2000年6月29日発売
+  - [SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL_\(遊戲\) "wikilink")（）：2000年6月29日発売
   - [BLOOD THE LAST VAMPIRE](../Page/血戰：最後的吸血鬼.md "wikilink")
     上巻：2000年12月21日発売
   - BLOOD THE LAST VAMPIRE 下巻：2000年12月21日發售

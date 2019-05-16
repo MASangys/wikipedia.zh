@@ -1,4 +1,4 @@
-:\*TQ2 基本[有机化学工业](../Page/有机化学工业.md "wikilink")
+:\*TQ2 基本[有机化学工业](https://zh.wikipedia.org/wiki/有机化学工业 "wikilink")
 
 :::\*TQ201 基础理论
 

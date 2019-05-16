@@ -1,5 +1,5 @@
-《**SHUFFLE\!**》是[Navel於](../Page/Navel.md "wikilink")2004年1月30日發售的[十八禁](../Page/成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]，後移植至[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")，並被改編成[漫畫](../Page/漫畫.md "wikilink")、[電視動畫](../Page/電視動畫.md "wikilink")。
+《**SHUFFLE\!**》是[Navel於](../Page/Navel.md "wikilink")2004年1月30日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]，後移植至[PlayStation
+2平台](../Page/PlayStation_2.md "wikilink")，並被改編成[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要
 
@@ -12,14 +12,14 @@ Edition\[3\]、2007年11月22日發售Anniversary Edition\[4\]\[5\]。
 2平台的](../Page/PlayStation_2.md "wikilink")《SHUFFLE\! ON THE
 STAGE》發售\[7\]，聲優變更成與動畫相同陣容，追加新製作的開頭動畫與女角色\[8\]。
 
-2007年1月[独立UHF的电视台開始播放](../Page/全国独立UHF放送协议会.md "wikilink")《SHUFFLE\!
+2007年1月[独立UHF的电视台開始播放](https://zh.wikipedia.org/wiki/全国独立UHF放送协议会 "wikilink")《SHUFFLE\!
 Memories》，內容將是WOWOW版彙整為10話的總集篇，加上導入篇與新故事各1話，全12話\[9\]。
 
 繼《SHUFFLE\!》之後，[Navel製作了土见禀与奈莉奈回到奈莉奈出生前的](../Page/Navel.md "wikilink")《[Tick\!
 Tack\!](../Page/Tick!_Tack!.md "wikilink")》，2005年9月15日開始販售。
 
 2006年11月24日，平行世界作品《[Really?
-Really\!](../Page/Really?_Really!.md "wikilink")》開始販售。
+Really\!](https://zh.wikipedia.org/wiki/Really?_Really! "wikilink")》開始販售。
 
 2007年7月26日 - PS2版『SHUFFLE\! ON THE STAGE』KADOKAWA The Best開始發售\[10\]。
 
@@ -60,7 +60,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
   -
     生日：7月30日。身高160cm，三圍：81/58/83，興趣是人間界的新聞剪報，喜歡稟的膝枕、掏稟的耳朵、料理，討厭測驗、孤獨。人物設定是西又葵。
-    暱稱**希亞**（），神族的公主。神王的獨生女。自家是在稟家的左邊，平時在家中是煮飯給神王吃的。為了能再見到稟而來到人間界，稟的[結婚候選](../Page/結婚.md "wikilink")。精力充沛的而熱心，平易近人，不論跟誰都能聊得起來、製造愉快氣氛的專門家。家事萬能、運動神經也不錯，但是對讀書非常不擅長（課業能力驚人的低），很認真卻很喜歡惡作劇，做事十分努力也是優點之一。然而常常對神王進行暴走椅子攻擊，之後會被奈說：「小希，做得太過火了」。稱呼稟時只會單一地叫稟。
+    暱稱**希亞**（），神族的公主。神王的獨生女。自家是在稟家的左邊，平時在家中是煮飯給神王吃的。為了能再見到稟而來到人間界，稟的[結婚候選](https://zh.wikipedia.org/wiki/結婚 "wikilink")。精力充沛的而熱心，平易近人，不論跟誰都能聊得起來、製造愉快氣氛的專門家。家事萬能、運動神經也不錯，但是對讀書非常不擅長（課業能力驚人的低），很認真卻很喜歡惡作劇，做事十分努力也是優點之一。然而常常對神王進行暴走椅子攻擊，之後會被奈說：「小希，做得太過火了」。稱呼稟時只會單一地叫稟。
     七年前和稟第一次見面的地方是在電車上，在電車上是因為當時神王來的時候，自己獨自去玩而走失，後來上了電車而迷路了，後稟就安慰自己並陪自己玩足一天直至神王來接自己(請見動畫第1季第8集)。
     原本是一名雙胞胎，有一名妹妹，但妹妹就被身邊的人希望不要生下來而死了，死前希亞接受了消失的妹妹既思念，之後兩人合而為一，就也是說是希亞現在是有兩個心靈，平時生活中出現的是姐姐，而妹妹是特別的時間才出現(請見動畫第1季第17集)。
     妹妹的性格比希亞更勇敢更有行動力及比較腹黑。
@@ -73,7 +73,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     生日：10月13日。身高154cm，三圍：88/59/85，興趣是手工藝、裁縫、編織，討厭唱歌。人物設定是。
     暱稱**琳**（）、由莉可莉斯所取，因這名字中有稟的發音(請見動畫第1季第15集)。魔族的公主。自家是在稟家的右邊。和利希安瑟絲一樣，爲了再次見到稟而來到人間界，稟的另一個結婚候選。在魔界都是很罕見的魔力者，可使用強大的魔族法術並且有將好幾個街區夷為平地的力量。頭腦明晰，擅長學校功課，但烹飪技能只能用不堪入口來形容，而且運動能力差到不能用低下來形容，但並沒有因此討厭運動。和利希亞瑟絲正好相反。有被譽爲「天使的鐘聲」的歌喉，卻很討厭唱歌(因為其歌喉是在莉可莉斯身上得到的)。和莉可莉斯的樣貌分別在於眼睛的的顏色，莉可莉斯眼睛的顏色是藍色，而奈莉奈眼睛的顏色是紅色。八年前和稟見面及玩耍的並不是奈莉奈，而是莉可莉斯(因為當時的奈莉奈正直生病中)，後來當莉可莉斯將自己的生命給予奈莉奈，因此奈莉奈有了莉可莉斯的記憶和能力及魔力，因為自己認為搶走了莉可莉斯的生命，所以就想幫她完成願望，最初奈莉奈來到稟身邊是因為想完成莉可莉斯的願望，但後來連自己的心也喜歡上了稟，雖然和莉可莉斯使用同一個身體，和因為莉可莉斯的心還在，所以一直壓抑身為奈莉奈喜歡稟的心，但在第一季第15集中莉可莉斯為幫助普莉姆拉而出現後就消失了，所以現在身體只有奈莉奈的心，所以就能喜歡稟更多及對稟約定仲有一次以自己的歌聲唱歌給稟聽。
     穩重且賢慧有禮貌。但是對於有人看不起稟或者對稟不利的時候，卻往往很衝動，會不加考慮的就使出威力很大的攻擊魔法，這時會變為由希亞說出說：「小琳，做得太過火了」。現在經過亞沙的特訓之後，現在能煮出好吃的煎蛋卷(請見動畫第1季第4集)，其後每次的便當也是煎蛋卷(請見動畫第1季第5集)。十分不喜歡在煎蛋卷加入章魚燒的發酵物－明石燒和不喜歡章魚燒(請見動畫第1季第5集)。稱呼稟時會加上大人。
-    其名字的由來是植物[根希百合](../Page/根希百合.md "wikilink")。
+    其名字的由來是植物[根希百合](https://zh.wikipedia.org/wiki/根希百合 "wikilink")。
     平時在校園午飯時的便當是父親所煮的。
 
 <!-- end list -->
@@ -84,7 +84,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     年幼的時候自己的母親與稟的雙親因事故而死亡，之後就和稟生活在一起。之前曾經因為這個事故而失去了生存的動力，在住院時稟為了令楓有生存的動力而對楓說謊，說是自己害死楓的母親，聽了這謊言的楓就對稟起怨念、產生生存的動力，從此就怨恨著稟而不斷做出傷害稟的事，只有在父親面前才裝和稟是好朋友、但長大後知道事實真相後(其實是自己在生病時楓的父親打電話要求母親早點回來，請見動畫第1季第19集)，把憎恨轉換為200%的愛慕之情。一手包辦所有的家事並且為稟準備所有的餐點。但是卻因為過於重視稟，對於自己的事情反而有些少根筋。對稟感情就像[病嬌一樣](../Page/病嬌.md "wikilink")(見動畫第1季第19集)。
     有時會因為太擔心稟，做出十分誇張的事(如動畫第1季第17集中，稟被希亞拉去約會一天而沒有上學時，會早退之後報警，請求警察尋找稟)。
     在希亞的父親在眾人面前宣布稟的結婚候選時曾在座位上坐著昏迷了。在動畫第1季第5集，因為自身平時為稟所做的事所被其他女角主取代，因此認為自身是稟的負擔，後來在病倒時受到稟的說話因而打起精神來，並應承稟的吩咐，生活要放鬆點，後把自身早起的時間由5點30分變為5點35分，但後來自身說睡得太長時間會頭痛，因而在之後的日子也變回5點30分起床。(請見動畫第1季第5集)。
-    其名字的由來正是植物[木芙蓉和](../Page/木芙蓉.md "wikilink")[楓樹](../Page/楓樹.md "wikilink")。
+    其名字的由來正是植物[木芙蓉和](../Page/木芙蓉.md "wikilink")[楓樹](https://zh.wikipedia.org/wiki/楓樹 "wikilink")。
     基於其父親經常出差，所以這一個家現居住者只有稟、楓和普莉姆拉。
 
 <!-- end list -->
@@ -97,7 +97,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     雖然是魔族和人類的混血兒，在動畫第1季第14集中得知是人類的樣貌(耳朵)。
     在動畫中，有經常拍打稟背部的習慣(如見面時及在對話中)。
     本人並不知道自己有「驚愕的時雨」這一稱呼(這一稱呼之所以這樣命名是因為時雨的樣貌及言行似是不懂烹飪，後得知人時雨識得烹飪後既人都會變得十分驚愕)，後來在動畫第1季第5集中得知時，變得十分頹喪。
-    其名字的由來來自[麻](../Page/麻.md "wikilink")。
+    其名字的由來來自[麻](https://zh.wikipedia.org/wiki/麻 "wikilink")。
     雖然自己對媽媽的烹飪技巧是覺得無問題的，但多數母親也會要求幫她試味，如果有問題就會由亞沙執手尾(請見動畫第1季第7集)。
 
 <!-- end list -->
@@ -121,7 +121,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    生日：1月1日，身高167cm，三圍：77/57/82，她是在稟班上一個相當[平胸的女孩](../Page/平胸.md "wikilink")，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](../Page/數位相機.md "wikilink")，偶爾會和樹策劃些小詭計，家中經營澡堂（請見動畫第11話）。PS2版遊戲《SHUFFLE\!
+    生日：1月1日，身高167cm，三圍：77/57/82，她是在稟班上一個相當[平胸的女孩](../Page/平胸.md "wikilink")，但她在精神上補償它。喜歡假裝成一個記者，總是在追尋“最新的獨家新聞”。她經常帶著[數位相機出現](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，偶爾會和樹策劃些小詭計，家中經營澡堂（請見動畫第11話）。PS2版遊戲《SHUFFLE\!
     ON THE STAGE》昇格為可攻略的主要角色。\[12\]
     曾在卡拉OK店中因唱得太大聲而被人投訴（請見動畫第1季第8集）。
     因為是人類和魔族的混血兒，所以兩眼瞳孔顏色不同：右眼為紅色，左眼為藍色。
@@ -144,12 +144,12 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    生日：8月11日。身高152cm，三圍：79/54/81，是枯葉的妹妹。類似枯葉，蕾也有杜撰荒謬幻想的習慣以及當她興奮時說「啊！」（當她非常興奮時會說「啊啊啊！」）。她的嗜好是寫[羅曼史小說](../Page/羅曼史.md "wikilink")。
+    生日：8月11日。身高152cm，三圍：79/54/81，是枯葉的妹妹。類似枯葉，蕾也有杜撰荒謬幻想的習慣以及當她興奮時說「啊！」（當她非常興奮時會說「啊啊啊！」）。她的嗜好是寫[羅曼史小說](https://zh.wikipedia.org/wiki/羅曼史 "wikilink")。
 
 <!-- end list -->
 
   -
-    最初出現在Navel的遊戲《[魂鏈](../Page/魂鏈.md "wikilink")》。他是一個藍髪的男孩，十歲上下，喜歡掀女孩的裙子并看她們的內褲。
+    最初出現在Navel的遊戲《[魂鏈](https://zh.wikipedia.org/wiki/魂鏈 "wikilink")》。他是一個藍髪的男孩，十歲上下，喜歡掀女孩的裙子并看她們的內褲。
     他是《SHUFFLE\!》系列中隨意且經常出現的小角色，被他掀裙子的受害者包括枯葉和麻弓。
     他第一次出現在遊戲《SHUFFLE\!》是當枯葉在咖啡廳做女服務員時，這孩子在她裙子的后面掀起它來到逗枯葉。當她媽媽告訴他不要再掀枯葉的裙子時，透露出了他的名字是真聰。
     他也再次出現在遊戲《[Tick\!
@@ -164,7 +164,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
     亞麻第一次出場是在第二集。在遇到普莉姆拉和禀後，很快亞麻就發現普莉姆拉也是實驗體，但是亞麻却什麼也没說。
     故事最後，當一切都真相大白、所有人的生活回歸正常時，散步中的神王與魔王遇到了亞麻。雖然神王和魔王很快認出了亞麻，卻没有像故事中對普莉姆拉一样要將其從人界帶回。而是一邊繼續散步，一邊嘆息说：很想以前認識的人呀，如果有機會再見到她，真想和她說對不起。看来神王與魔王認為讓亞麻過自己的生活才是最好的结果。而亞麻在聽到二人的對話後，在街上脱下了她頭上那頂爲了掩飾魔族身分而一直戴着的帽子，向着遠去的神王和魔王鞠躬致谢。
     雖然女兒對自己的烹飪技巧是覺得無問題的，但多數自己也會要求幫她試味，如果有問題就會由亞沙接手(請見動畫第1季第7集)。
-    名字取自植物[亞麻](../Page/亞麻.md "wikilink")，其花語為「感謝」。
+    名字取自植物[亞麻](https://zh.wikipedia.org/wiki/亞麻 "wikilink")，其花語為「感謝」。
 
 <!-- end list -->
 
@@ -201,20 +201,20 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - KKK亲卫队
     KKK是日语“”的[拉丁字母转写的缩写](../Page/拉丁字母.md "wikilink")，字面意思是“一定一定小枫”。他们算是楓的后援团，形容极其猥琐，在3个亲卫队中最早出现。他们经常在楓的面前作出滑稽的追求行为，并且会讨伐禀。而在Shuffle\!的fans中喜歡楓的一派也被稱爲KKK或者3K黨。
   - RRR亲卫队
-    RRR是日语“”的拉丁字母转写的缩写，字面意思是“跑吧，跑吧，小琳”。他们是奈莉奈的[后援团](../Page/后援团.md "wikilink")。
+    RRR是日语“”的拉丁字母转写的缩写，字面意思是“跑吧，跑吧，小琳”。他们是奈莉奈的[后援团](https://zh.wikipedia.org/wiki/后援团 "wikilink")。
   - SSS亲卫队
-    SSS是日语“”的拉丁字母转写的缩写，字面意思是“喜欢喜欢小希亚”。他们是希亚的[后援团](../Page/后援团.md "wikilink")。
+    SSS是日语“”的拉丁字母转写的缩写，字面意思是“喜欢喜欢小希亚”。他们是希亚的[后援团](https://zh.wikipedia.org/wiki/后援团 "wikilink")。
 
 ## 製作人員
 
-  - 企划：[あごバリア](../Page/あごバリア.md "wikilink")
+  - 企划：[あごバリア](https://zh.wikipedia.org/wiki/あごバリア "wikilink")
   - 人物设计・[原画](../Page/原画.md "wikilink")：
       - [西又葵](../Page/西又葵.md "wikilink")（リシアンサス、楓、プリムラ、麻弓及其他）
-      - [鈴平ひろ](../Page/鈴平ひろ.md "wikilink")（ネリネ、亜沙、カレハ、撫子、ツボミ他稟、樹及其他全部男性造型）
-  - [剧本](../Page/剧本.md "wikilink")：[あごバリア](../Page/あごバリア.md "wikilink")、Long
+      - [鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")（ネリネ、亜沙、カレハ、撫子、ツボミ他稟、樹及其他全部男性造型）
+  - [剧本](../Page/剧本.md "wikilink")：[あごバリア](https://zh.wikipedia.org/wiki/あごバリア "wikilink")、Long
     Cube
   - 背景美術・CG监修：斉藤陽子
-  - 演出：[王雀孫](../Page/王雀孫.md "wikilink")
+  - 演出：[王雀孫](https://zh.wikipedia.org/wiki/王雀孫 "wikilink")
   - 程序：ひろし
   - [音乐](../Page/音乐.md "wikilink")：NACHTMUSIK、アッチョリケ（サウンド）
   - [宣传](../Page/宣传.md "wikilink")・设计担当：AlAi
@@ -230,9 +230,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲・編曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    歌：[YURIA](../Page/YURIA.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲・編曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
 <!-- end list -->
 
@@ -241,13 +241,13 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
 
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
 
-    編曲：[chokix](../Page/chokix.md "wikilink")
+    編曲：[chokix](https://zh.wikipedia.org/wiki/chokix "wikilink")
 
-    歌：[YURIA](../Page/YURIA.md "wikilink")
+    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
   - 片尾曲
 
@@ -258,11 +258,11 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
 
-    作曲・編曲：[山田和裕](../Page/山田和裕.md "wikilink")(PS2)[NACHTMUSIX](../Page/NACHTMUSIX.md "wikilink")
+    作曲・編曲：[山田和裕](https://zh.wikipedia.org/wiki/山田和裕 "wikilink")(PS2)[NACHTMUSIX](https://zh.wikipedia.org/wiki/NACHTMUSIX "wikilink")
 
-    歌：[YURIA](../Page/YURIA.md "wikilink")
+    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
   - 插入曲
 
@@ -273,9 +273,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[内藤侑史](../Page/内藤侑史.md "wikilink")(PS2)[NACHTMUSIX](../Page/NACHTMUSIX.md "wikilink")
-    編曲：[内藤侑史](../Page/内藤侑史.md "wikilink")／[廣瀨充寿](../Page/廣瀨充寿.md "wikilink")(PS2)[NACHTMUSIX](../Page/NACHTMUSIX.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[内藤侑史](https://zh.wikipedia.org/wiki/内藤侑史 "wikilink")(PS2)[NACHTMUSIX](https://zh.wikipedia.org/wiki/NACHTMUSIX "wikilink")
+    編曲：[内藤侑史](https://zh.wikipedia.org/wiki/内藤侑史 "wikilink")／[廣瀨充寿](https://zh.wikipedia.org/wiki/廣瀨充寿 "wikilink")(PS2)[NACHTMUSIX](https://zh.wikipedia.org/wiki/NACHTMUSIX "wikilink")
     歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
 ## 電視動畫
@@ -285,16 +285,16 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 #### 制作人员
 
   - 原作：[Navel](../Page/Navel.md "wikilink")
-  - 原案插图：[西又葵](../Page/西又葵.md "wikilink")、[鈴平ひろ](../Page/鈴平ひろ.md "wikilink")
-  - 連載：[月刊コンプティーク](../Page/コンプティーク.md "wikilink")、[角川コミックス・エース刊](../Page/角川コミックス・エース.md "wikilink")
+  - 原案插图：[西又葵](../Page/西又葵.md "wikilink")、[鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")
+  - 連載：[月刊コンプティーク](https://zh.wikipedia.org/wiki/コンプティーク "wikilink")、[角川コミックス・エース刊](https://zh.wikipedia.org/wiki/角川コミックス・エース "wikilink")
   - 监督：[細田直人](../Page/細田直人.md "wikilink")
-  - 制作总指挥：安田猛、宇田川昭次、酒匂暢彦、川崎代治、[井上俊次](../Page/井上俊次.md "wikilink")
+  - 制作总指挥：安田猛、宇田川昭次、酒匂暢彦、川崎代治、[井上俊次](https://zh.wikipedia.org/wiki/井上俊次 "wikilink")
 
 <!-- end list -->
 
   - 制片人：長谷川徳司、鈴木智子、武智恒雄、寺田千秋
   - 动画制作人：平松巨規
-  - 系列构成：[鈴木雅詞](../Page/鈴木雅詞.md "wikilink")
+  - 系列构成：[鈴木雅詞](https://zh.wikipedia.org/wiki/鈴木雅詞 "wikilink")
   - 人物设计·总作画监督：平山英嗣
   - 美术监督：高山八大
   - 色彩设定：福谷直樹
@@ -303,10 +303,10 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - 音乐：アッチョリケ（[Navel](../Page/Navel.md "wikilink")）、澤口和彦、丸尾稔
   - 音乐制作：[Lantis](../Page/Lantis.md "wikilink")
   - 音响监督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 动画制作：[asread](../Page/asread.md "wikilink")
+  - 动画制作：[asread](https://zh.wikipedia.org/wiki/asread "wikilink")
   - 制作合作：[WOWOW](../Page/WOWOW.md "wikilink")
   - 制作：SHUFFLE\! Media
-    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](../Page/角川エンタテインメント.md "wikilink")、[クロックワークス](../Page/クロックワークス.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、ランティス）
+    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
 
 #### 主题曲
 
@@ -319,13 +319,13 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
 
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
 
-    編曲：[鈴木マサキ](../Page/鈴木マサキ.md "wikilink")
+    編曲：[鈴木マサキ](https://zh.wikipedia.org/wiki/鈴木マサキ "wikilink")
 
-    歌：[YURIA](../Page/YURIA.md "wikilink")
+    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
   - 片尾曲
 
@@ -336,11 +336,11 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
 
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
 
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
 
     歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
@@ -478,7 +478,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <td><p>凍結的夏天</p></td>
 <td><p>鈴木雅詞</p></td>
 <td><p>二瓶勇一</p></td>
-<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
 <td><p>足立慎吾</p></td>
 </tr>
 <tr class="odd">
@@ -541,7 +541,7 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <td><p>忘れ得ぬ想い</p></td>
 <td><p>無法忘記的思念</p></td>
 <td><p>高山カツヒコ</p></td>
-<td><p><a href="../Page/あおきえい.md" title="wikilink">あおきえい</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/あおきえい" title="wikilink">あおきえい</a></p></td>
 <td><p>をがわいちろを、牧野竜一</p></td>
 <td></td>
 </tr>
@@ -597,28 +597,28 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
 #### 播放电视台
 
-| 播映地區                               | 電視台                                  | 播映期間                | 播映時間                                     | 所屬聯播網                                |
-| ---------------------------------- | ------------------------------------ | ------------------- | ---------------------------------------- | ------------------------------------ |
-|                                    |                                      |                     |                                          |                                      |
-| [日本全国](../Page/日本全国.md "wikilink") | [WOWOW](../Page/WOWOW.md "wikilink") | 2005年7月7日－2006年1月5日 | 木曜 24時30分 - 25時00分                       | [BS数位放送](../Page/卫星电视.md "wikilink") |
-| [AT-X](../Page/AT-X.md "wikilink") | 2007年9月26日－2008年3月5日                 | 水曜 09時00分 - 09時30分  | [CSチャンネル](../Page/専門チャンネル.md "wikilink") |                                      |
+| 播映地區                                                  | 電視台                                  | 播映期間                | 播映時間                                                        | 所屬聯播網                                |
+| ----------------------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------------------------- | ------------------------------------ |
+|                                                       |                                      |                     |                                                             |                                      |
+| [日本全国](https://zh.wikipedia.org/wiki/日本全国 "wikilink") | [WOWOW](../Page/WOWOW.md "wikilink") | 2005年7月7日－2006年1月5日 | 木曜 24時30分 - 25時00分                                          | [BS数位放送](../Page/卫星电视.md "wikilink") |
+| [AT-X](../Page/AT-X.md "wikilink")                    | 2007年9月26日－2008年3月5日                 | 水曜 09時00分 - 09時30分  | [CSチャンネル](https://zh.wikipedia.org/wiki/専門チャンネル "wikilink") |                                      |
 
 ### 第二季UHF版
 
 #### 制作人员
 
   - 原作：[Navel](../Page/Navel.md "wikilink")
-  - 原案插图：[西又葵](../Page/西又葵.md "wikilink")、[鈴平ひろ](../Page/鈴平ひろ.md "wikilink")
+  - 原案插图：[西又葵](../Page/西又葵.md "wikilink")、[鈴平ひろ](https://zh.wikipedia.org/wiki/鈴平ひろ "wikilink")
   - 连载：月刊「コンプティーク」、角川コミックス・エース刊
   - 监督：細田直人
-  - 制作总指挥：安田猛、宇田川昭次、酒匂暢彦、川崎代治、[井上俊次](../Page/井上俊次.md "wikilink")
+  - 制作总指挥：安田猛、宇田川昭次、酒匂暢彦、川崎代治、[井上俊次](https://zh.wikipedia.org/wiki/井上俊次 "wikilink")
   - 制片人：鈴木智子、武智恒雄、寺田千秋
   - 企划制片人：伊藤敦
   - 动画制片人：平松巨規
   - 系列构成：鈴木雅詞
-  - 人物设计・[总作画监督](../Page/作画监督.md "wikilink")：平山英嗣
-  - [美术监督](../Page/美术监督.md "wikilink")：高山八大
-  - [色彩設定](../Page/色彩設定.md "wikilink")：福谷直樹
+  - 人物设计・[总作画监督](https://zh.wikipedia.org/wiki/作画监督 "wikilink")：平山英嗣
+  - [美术监督](https://zh.wikipedia.org/wiki/美术监督 "wikilink")：高山八大
+  - [色彩設定](https://zh.wikipedia.org/wiki/色彩設定 "wikilink")：福谷直樹
   - 摄影监督：森下成一
   - 编辑：伊藤潤一
   - 音乐制片人：櫻井優香
@@ -626,9 +626,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
   - 音响监督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音响艺术家工作室：スタジオごんぐ
   - 音响制作：樂音舎
-  - 动画制作：[asread](../Page/asread.md "wikilink")
+  - 动画制作：[asread](https://zh.wikipedia.org/wiki/asread "wikilink")
   - 制作：SHUFFLE\! Media
-    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](../Page/角川エンタテインメント.md "wikilink")、[クロックワークス](../Page/クロックワークス.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、ランティス）
+    Partners（[角川書店](../Page/角川書店.md "wikilink")、[角川エンタテインメント](https://zh.wikipedia.org/wiki/角川エンタテインメント "wikilink")、[クロックワークス](https://zh.wikipedia.org/wiki/クロックワークス "wikilink")、[メモリーテック](https://zh.wikipedia.org/wiki/メモリーテック "wikilink")、ランティス）
 
 #### 主題曲
 
@@ -642,9 +642,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
   -
     作詞：[西又葵](../Page/西又葵.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[鈴木マサキ](../Page/鈴木マサキ.md "wikilink")
-    歌：[YURIA](../Page/YURIA.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[鈴木マサキ](https://zh.wikipedia.org/wiki/鈴木マサキ "wikilink")
+    歌：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")
 
 <!-- end list -->
 
@@ -653,9 +653,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[鈴木マサキ](../Page/鈴木マサキ.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[鈴木マサキ](https://zh.wikipedia.org/wiki/鈴木マサキ "wikilink")
     歌：芙蓉楓（[後藤邑子](../Page/後藤邑子.md "wikilink")）
 
 <!-- end list -->
@@ -665,8 +665,8 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲・編曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲・編曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
     歌：時雨亜沙（[伊藤美紀](../Page/伊藤美紀.md "wikilink")）
 
 <!-- end list -->
@@ -676,10 +676,10 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
-    歌：奈莉奈（[永見はるか](../Page/永見はるか.md "wikilink")）
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
+    歌：奈莉奈（[永見はるか](https://zh.wikipedia.org/wiki/永見はるか "wikilink")）
 
 <!-- end list -->
 
@@ -688,8 +688,8 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲・編曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲・編曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
     歌：利希安瑟絲（[青木沙耶香](../Page/青木沙耶香.md "wikilink")）
 
 <!-- end list -->
@@ -699,11 +699,11 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
 
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
 
-    編曲：[ms-jacky](../Page/ms-jacky.md "wikilink")
+    編曲：[ms-jacky](https://zh.wikipedia.org/wiki/ms-jacky "wikilink")
 
     歌：普莉姆拉（[一美](../Page/一美.md "wikilink")）
 
@@ -716,9 +716,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
     歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
 <!-- end list -->
@@ -728,8 +728,8 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲・編曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲・編曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
     歌：芙蓉楓（[後藤邑子](../Page/後藤邑子.md "wikilink")）
 
 <!-- end list -->
@@ -739,9 +739,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
     歌：時雨亜沙（[伊藤美紀](../Page/伊藤美紀.md "wikilink")）
 
 <!-- end list -->
@@ -751,10 +751,10 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
-    歌：奈莉奈（[永見はるか](../Page/永見はるか.md "wikilink")）
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
+    歌：奈莉奈（[永見はるか](https://zh.wikipedia.org/wiki/永見はるか "wikilink")）
 
 <!-- end list -->
 
@@ -763,9 +763,9 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[景家淳](../Page/景家淳.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[景家淳](https://zh.wikipedia.org/wiki/景家淳 "wikilink")
     歌：利希安瑟絲（[青木沙耶香](../Page/青木沙耶香.md "wikilink")）
 
 <!-- end list -->
@@ -775,8 +775,8 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 <!-- end list -->
 
   -
-    作詞：[AlAi](../Page/AlAi.md "wikilink")
-    作曲・編曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
+    作詞：[AlAi](https://zh.wikipedia.org/wiki/AlAi "wikilink")
+    作曲・編曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
     歌：普莉姆拉（[一美](../Page/一美.md "wikilink")）
 
 <!-- end list -->
@@ -787,8 +787,8 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
   -
     作詞：[西又葵](../Page/西又葵.md "wikilink")
-    作曲：[アッチョリケ](../Page/アッチョリケ.md "wikilink")
-    編曲：[鈴木マサキ](../Page/鈴木マサキ.md "wikilink")
+    作曲：[アッチョリケ](https://zh.wikipedia.org/wiki/アッチョリケ "wikilink")
+    編曲：[鈴木マサキ](https://zh.wikipedia.org/wiki/鈴木マサキ "wikilink")
     歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
 #### 各話標題
@@ -837,34 +837,34 @@ Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》開始販售。
 
 #### 播放電視台
 
-| 播映地區                               | 電視台                                       | 播映期間               | 播映時間                               | 所屬聯播網                                         |
-| ---------------------------------- | ----------------------------------------- | ------------------ | ---------------------------------- | --------------------------------------------- |
-| [千葉縣](../Page/千葉縣.md "wikilink")   | [千葉電視台](../Page/千葉電視台.md "wikilink")（主辦台） | 2007年1月7日－3月25日    | 日曜 24時00分 - 24時30分                 | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")      | 日曜 25時30分 - 26時00分 |                                    |                                               |
-| [神奈川縣](../Page/神奈川縣.md "wikilink") | [神奈川電視台](../Page/神奈川電視台.md "wikilink")    | 2007年1月8日－3月26日    | 月曜 25時15分 - 25時45分                 |                                               |
-| [京都府](../Page/京都府.md "wikilink")   | [KBS京都](../Page/京都放送.md "wikilink")       | 月曜 25時30分 - 26時00分 |                                    |                                               |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [SUN電視台](../Page/SUN電視台.md "wikilink")    | 2007年1月9日－3月27日    | 火曜 24時00分 - 24時30分                 |                                               |
-| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")  | 2007年1月10日－3月28日   | 水曜 25時30分 - 26時00分                 |                                               |
-| [愛知縣](../Page/愛知縣.md "wikilink")   | [愛知電視台](../Page/愛知電視台.md "wikilink")      | 水曜 26時28分 - 26時58分 | [TXN系列](../Page/TXN.md "wikilink") |                                               |
+| 播映地區                                                | 電視台                                                          | 播映期間               | 播映時間                                                  | 所屬聯播網                                                            |
+| --------------------------------------------------- | ------------------------------------------------------------ | ------------------ | ----------------------------------------------------- | ---------------------------------------------------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")（主辦台） | 2007年1月7日－3月25日    | 日曜 24時00分 - 24時30分                                    | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                         | 日曜 25時30分 - 26時00分 |                                                       |                                                                  |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                       | 2007年1月8日－3月26日    | 月曜 25時15分 - 25時45分                                    |                                                                  |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](../Page/京都放送.md "wikilink")                          | 月曜 25時30分 - 26時00分 |                                                       |                                                                  |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")    | 2007年1月9日－3月27日    | 火曜 24時00分 - 24時30分                                    |                                                                  |
+| [東京都](../Page/東京都.md "wikilink")                    | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                     | 2007年1月10日－3月28日   | 水曜 25時30分 - 26時00分                                    |                                                                  |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                         | 水曜 26時28分 - 26時58分 | [TXN系列](https://zh.wikipedia.org/wiki/TXN "wikilink") |                                                                  |
 
 ## 漫畫
 
   - 《SHUFFLE\! －神魔一家親－》（）
-    Navel原作，[日下皓作畫](../Page/日下皓.md "wikilink")，[角川書店發行](../Page/角川書店.md "wikilink")，[單行本全](../Page/單行本.md "wikilink")6集。\[14\][長鴻出版社代理台灣中文版](../Page/長鴻出版社.md "wikilink")。
-    連載於《[comptiq](../Page/comptiq.md "wikilink")》2003年12月號至2006年12月號（但2006年7月號暫停連載）。
+    Navel原作，[日下皓作畫](../Page/日下皓.md "wikilink")，[角川書店發行](../Page/角川書店.md "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")6集。\[14\][長鴻出版社代理台灣中文版](../Page/長鴻出版社.md "wikilink")。
+    連載於《[comptiq](https://zh.wikipedia.org/wiki/comptiq "wikilink")》2003年12月號至2006年12月號（但2006年7月號暫停連載）。
   - 《SHUFFLE\! 青澀時光》（）
     短篇漫畫集，Navel原作，《comptiq》編輯部編，角川書店發行，2004年7月10日至2005年12月10日發售5集單行本\[15\]\[16\]。長鴻出版社代理台灣中文版。
   - 《SHUFFLE\! 短篇漫畫集》（）
-    Navel原作，[宙出版發行](../Page/宙出版.md "wikilink")，單行本全1集，2004年9月25日發售，ISBN
+    Navel原作，[宙出版發行](https://zh.wikipedia.org/wiki/宙出版 "wikilink")，單行本全1集，2004年9月25日發售，ISBN
     4-7767-1289-X\[17\]。
 
 ## 逆移植
 
 在2009年6月10日，Navel在當日出版的《comptiq》雜誌內表示會把《SHUFFLE\! On The
 Stage》（PS2版）逆移植變成為電腦版，並命名《[SHUFFLE\!
-Essence+](../Page/SHUFFLE!_Essence+.md "wikilink")》，及在維持《SHUFFLE\! On
-The Stage》的結構下新增兩個新主角。此遊戲於2009年10月30日發售\[18\]\[19\]。[Fan
-disc](../Page/Fan_disc.md "wikilink")《[SHUFFLE\! Love
+Essence+](https://zh.wikipedia.org/wiki/SHUFFLE!_Essence+ "wikilink")》，及在維持《SHUFFLE\!
+On The Stage》的結構下新增兩個新主角。此遊戲於2009年10月30日發售\[18\]\[19\]。[Fan
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[SHUFFLE\! Love
 Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")》於2011年4月28日推出。
 
 ## 影響

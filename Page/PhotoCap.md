@@ -1,4 +1,4 @@
-**PhotoCap**是一套簡易的[影像處理軟體](../Page/影像處理軟體.md "wikilink")，由[台灣](../Page/台灣.md "wikilink")[雲林程式設計師王俊昌所開發](../Page/雲林.md "wikilink")。這個軟體原先的開發動機單純只是要在數位相片上加上[日期標記](../Page/日期標記.md "wikilink")。之後幾經迭代，成為了多功能的影像編修軟體。
+**PhotoCap**是一套簡易的[影像處理軟體](https://zh.wikipedia.org/wiki/影像處理軟體 "wikilink")，由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雲林程式設計師王俊昌所開發](https://zh.wikipedia.org/wiki/雲林 "wikilink")。這個軟體原先的開發動機單純只是要在數位相片上加上[日期標記](https://zh.wikipedia.org/wiki/日期標記 "wikilink")。之後幾經迭代，成為了多功能的影像編修軟體。
 
 個人、家庭或學校教育單位等非商業營利用途免費，商業用途每套收費新台幣500至2000元不等。
 
@@ -69,7 +69,7 @@ PhotoCap還提供了去背功能，可以輕易的將背景去除，讓影像合
 
 ### 3.00版
 
-  - 此版除保留之前版本的功能之外，於影像處理部份大幅改寫，提供仿[PhotoShop影像處理基本功能](../Page/PhotoShop.md "wikilink")
+  - 此版除保留之前版本的功能之外，於影像處理部份大幅改寫，提供仿[PhotoShop影像處理基本功能](https://zh.wikipedia.org/wiki/PhotoShop "wikilink")
       - 提供濾鏡功能
       - 提供圖層處理功能
       - 提供影像選取工具功能

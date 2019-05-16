@@ -19,9 +19,9 @@
   - [XHTML](../Page/XHTML.md "wikilink")
 
       -
-      - [移动概要](../Page/XHTML_MP.md "wikilink")
+      - [移动概要](https://zh.wikipedia.org/wiki/XHTML_MP "wikilink")
 
-      - [C-HTML](../Page/C-HTML.md "wikilink")
+      - [C-HTML](https://zh.wikipedia.org/wiki/C-HTML "wikilink")
 
   - [HTML元素](../Page/HTML元素.md "wikilink")
 
@@ -31,22 +31,22 @@
   -
   - [HTML编辑器](../Page/HTML编辑器.md "wikilink")
 
-  - [字符编码](../Page/HTML字符编码.md "wikilink")
+  - [字符编码](https://zh.wikipedia.org/wiki/HTML字符编码 "wikilink")
 
       -
-  - [語言代碼](../Page/語言代碼.md "wikilink")
+  - [語言代碼](https://zh.wikipedia.org/wiki/語言代碼 "wikilink")
 
   - [文档对象模型](../Page/文档对象模型.md "wikilink")
 
-  - [浏览器对象模型](../Page/浏览器对象模型.md "wikilink")
+  - [浏览器对象模型](https://zh.wikipedia.org/wiki/浏览器对象模型 "wikilink")
 
   - [样式表](../Page/样式表.md "wikilink")
 
       - [层叠样式表](../Page/层叠样式表.md "wikilink")
 
-  - [字体家族](../Page/Font_family_\(HTML\).md "wikilink")
+  - [字体家族](https://zh.wikipedia.org/wiki/Font_family_\(HTML\) "wikilink")
 
-  - [网页颜色](../Page/网页颜色.md "wikilink")
+  - [网页颜色](https://zh.wikipedia.org/wiki/网页颜色 "wikilink")
 
   -
   - [JavaScript](../Page/JavaScript.md "wikilink")
@@ -77,7 +77,7 @@
   - [非标准HTML](../Page/排版引擎比较_\(非标准HTML\).md "wikilink")
 
   -   - [画布](../Page/排版引擎比较_\(HTML5画布\).md "wikilink")
-      - [媒体](../Page/排版引擎比较_\(HTML5媒体\).md "wikilink")
+      - [媒体](https://zh.wikipedia.org/wiki/排版引擎比较_\(HTML5媒体\) "wikilink")
 
   - [XHTML](../Page/排版引擎比较_\(XHTML\).md "wikilink")
 
@@ -138,7 +138,7 @@ span元素是用來对行内元素进行分组，以便通过样式对它们进�
 
 ### font
 
-  - 注意，此元素不推薦使用，而以[\<span\>替代](../Page/#span.md "wikilink")。
+  - 注意，此元素不推薦使用，而以[\<span\>替代](https://zh.wikipedia.org/wiki/#span "wikilink")。
 
 對於一些屬性，比如顏色、字體、大小，只能這麼用：
 
@@ -176,7 +176,7 @@ This is a paragraph.
 
 ## 過時的HTML
 
-[新一代HTML的設計是盡量僅包含結構和內容](../Page/HTML5.md "wikilink")，樣式的顯示就交由[CSS負責](../Page/CSS.md "wikilink")。所以，有些[HTML元素和屬性已經過時](../Page/HTML元素.md "wikilink")，甚至[新版HTML不再支援](../Page/HTML5.md "wikilink")。儘管這些過時的HTML元素和屬性在流行的瀏覽器仍然有效，但鼓勵編輯者使用新規格的HTML來編寫頁面。如果要定義文字的樣式，可以用style屬性來加入CSS。
+[新一代HTML的設計是盡量僅包含結構和內容](../Page/HTML5.md "wikilink")，樣式的顯示就交由[CSS負責](https://zh.wikipedia.org/wiki/CSS "wikilink")。所以，有些[HTML元素和屬性已經過時](../Page/HTML元素.md "wikilink")，甚至[新版HTML不再支援](../Page/HTML5.md "wikilink")。儘管這些過時的HTML元素和屬性在流行的瀏覽器仍然有效，但鼓勵編輯者使用新規格的HTML來編寫頁面。如果要定義文字的樣式，可以用style屬性來加入CSS。
 
 <table>
 <thead>
@@ -217,7 +217,7 @@ This is a paragraph.
 <tr class="even">
 <td><p><code>&lt;u&gt;</code></p></td>
 <td><p>N/A</p></td>
-<td><p>非<a href="../Page/超連結.md" title="wikilink">超連結文字不宜加底線</a>。</p></td>
+<td><p>非<a href="https://zh.wikipedia.org/wiki/超連結" title="wikilink">超連結文字不宜加底線</a>。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -293,7 +293,7 @@ Page`</a>
 The MediaWiki software adds elements that look and act like HTML tags.
 Parser tags are included in MediaWiki whereas extension tags are added
 by optional software extensions.
-[Special:版本信息列有所有标签](../Page/Special:版本信息.md "wikilink")。解析器标签由扩展程序提供；所以欲知标签用法，可在[Special:版本信息搜索对应的扩展程序](../Page/Special:版本信息.md "wikilink")，或者点击下面的链接。
+[Special:版本信息列有所有标签](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")。解析器标签由扩展程序提供；所以欲知标签用法，可在[Special:版本信息搜索对应的扩展程序](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")，或者点击下面的链接。
 
   - Parser tags : \<gallery\>, \<nowiki\>, \<pre\>
 
@@ -302,9 +302,9 @@ by optional software extensions.
   - 扩展标签：
 
 \<categorytree\>, \<charinsert\>, \<hiero\>,
-\<[imagemap](../Page/mw:Extension:ImageMap.md "wikilink")\>,
+\<[imagemap](https://zh.wikipedia.org/wiki/mw:Extension:ImageMap "wikilink")\>,
 \<inputbox\>, \<math\>, \<poem\>, \<ref\>, \<references\>,
-\<[syntaxhighlight](../Page/mw:Extension:SyntaxHighlight.md "wikilink")\>
+\<[syntaxhighlight](https://zh.wikipedia.org/wiki/mw:Extension:SyntaxHighlight "wikilink")\>
 （也可写作\<source\>）, \<timeline\>
 
 ## 外部链接

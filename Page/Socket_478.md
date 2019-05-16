@@ -1,6 +1,6 @@
 **Socket 478**是英特爾[Pentium
-4](../Page/Pentium_4.md "wikilink")，[Celeron及部份](../Page/Celeron.md "wikilink")[Celeron
-D處理器使用的插座](../Page/Celeron#Celeron_D.md "wikilink")。[LGA775於](../Page/LGA775.md "wikilink")2004年7月推出後逐漸取代Socket
+4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，[Celeron及部份](https://zh.wikipedia.org/wiki/Celeron "wikilink")[Celeron
+D處理器使用的插座](https://zh.wikipedia.org/wiki/Celeron#Celeron_D "wikilink")。[LGA775於](https://zh.wikipedia.org/wiki/LGA775 "wikilink")2004年7月推出後逐漸取代Socket
 478。
 
 早期的Socket 478主機板，無法支援FSB 533MHz的Pentium 4處理器。到了中期情况改善，開始全數支持FSB

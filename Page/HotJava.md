@@ -1,9 +1,9 @@
-**HotJava**是一個模組化、具擴展性的[網頁瀏覽器](../Page/网页浏览器.md "wikilink")，由[昇陽電腦所推出](../Page/升阳.md "wikilink")，並且可在網頁中執行小型的Java程式，稱為[Java
-Applet](../Page/Java_Applet.md "wikilink")\[1\]。
+**HotJava**是一個模組化、具擴展性的[網頁瀏覽器](../Page/网页浏览器.md "wikilink")，由[昇陽電腦所推出](https://zh.wikipedia.org/wiki/升阳 "wikilink")，並且可在網頁中執行小型的Java程式，稱為[Java
+Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")\[1\]。
 
 ## 起源
 
-1994年，Java開發人員仿照了[Mosaic開發出以Java程式語言為基礎的瀏覽器WebRunner](../Page/Mosaic.md "wikilink")\[2\]。WebRunner的首次公開展示由和[詹姆斯·高斯林於](../Page/詹姆斯·高斯林.md "wikilink")1995年[蒙特雷的](../Page/蒙特雷.md "wikilink")[TED大會進行](../Page/TED大會.md "wikilink")。同年5月在SunWorld會議正式宣布更名為HotJava。
+1994年，Java開發人員仿照了[Mosaic開發出以Java程式語言為基礎的瀏覽器WebRunner](../Page/Mosaic.md "wikilink")\[2\]。WebRunner的首次公開展示由和[詹姆斯·高斯林於](../Page/詹姆斯·高斯林.md "wikilink")1995年[蒙特雷的](../Page/蒙特雷.md "wikilink")[TED大會進行](https://zh.wikipedia.org/wiki/TED大會 "wikilink")。同年5月在SunWorld會議正式宣布更名為HotJava。
 
 事實上，昇陽電腦在1995年發表了[Java程式語言後](../Page/Java.md "wikilink")，由於當時的網頁瀏覽器多數只能瀏覽網頁內的靜態資料，如文字、表格、圖形等，尚無法在網頁中執行程式，而昇陽電腦希望讓Java程式成為瀏覽器上最普及使用的程式，初期特別是積極於容量小，容易在頻寬有限的網際網路上傳輸、下載的Java
 Applet，而當時多數的瀏覽器尚無法支援與執行Java Applet。

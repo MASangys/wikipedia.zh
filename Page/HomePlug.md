@@ -2,11 +2,13 @@
 
 ## 运作方式
 
-其技術規格可把多組設備透過供應電源的電線互相聯繫，而經HomePlug認證的產品可應用在個人電腦或支援[乙太網](../Page/乙太網.md "wikilink")、[USB及](../Page/USB.md "wikilink")[802.11的設備](../Page/802.11.md "wikilink")。由聯盟成員公司製造的設備大多已內建HomePlug，只要把多台支援HomePlug的裝置插在電源插頭內，即可建立連線並進入[網絡](../Page/计算机网络.md "wikilink")。由於HomePlug是以高頻去作數據傳輸，穩壓器或類似裝置或會對傳輸訊號影響，因此宜避免使用於跨配電盤、電表電力線網路。
+其技術規格可把多組設備透過供應電源的電線互相聯繫，而經HomePlug認證的產品可應用在個人電腦或支援[乙太網](https://zh.wikipedia.org/wiki/乙太網 "wikilink")、[USB及](../Page/USB.md "wikilink")[802.11的設備](https://zh.wikipedia.org/wiki/802.11 "wikilink")。由聯盟成員公司製造的設備大多已內建HomePlug，只要把多台支援HomePlug的裝置插在電源插頭內，即可建立連線並進入[網絡](../Page/计算机网络.md "wikilink")。由於HomePlug是以高頻去作數據傳輸，穩壓器或類似裝置或會對傳輸訊號影響，因此宜避免使用於跨配電盤、電表電力線網路。
 
 ### 目前應用的協定標準
 
-  - 網路協定：乙太網路[IEEE 802.3](../Page/IEEE_802.3.md "wikilink")、IEEE 802.3U
+  - 網路協定：乙太網路[IEEE
+    802.3](https://zh.wikipedia.org/wiki/IEEE_802.3 "wikilink")、IEEE
+    802.3U
   - 電力線通訊協定：HomePlug 1.0、HomePlug turbo、HomePlug AV、UPA、HD-PLC
 
 <!-- end list -->
@@ -15,7 +17,7 @@
       - HomePlug 1.0為80Mbps
       - HomePlugAV 為200Mbps
 
-（以上指的是[實體層傳輸速率](../Page/實體層.md "wikilink")）
+（以上指的是[實體層傳輸速率](https://zh.wikipedia.org/wiki/實體層 "wikilink")）
 
 5種協定中除了的HomePlug 1.0規格與HomePlug
 turbo規格可以互通外，其他規格的設備偕無法透過電力線互通傳遞訊息，所以在同一電力網路中使用不同協定的網通產品混用的方式並不能架設成功，架設者必須格外注意。
@@ -36,7 +38,7 @@ AV為基礎，因此與新的IEEE 1901電力線標準草案之間完全互通。
       - Powerline
       - 10/100 Base-TX Ethernet Port
   - 電源網路調變技術
-      - [OFDM](../Page/OFDM.md "wikilink")（QAM
+      - [OFDM](https://zh.wikipedia.org/wiki/OFDM "wikilink")（QAM
         8/16/64/256/1024,QPSK,BPSK,ROBO）
   - 電源網路傳輸頻率
       - 2 MHz\~ 30 MHz
@@ -44,7 +46,7 @@ AV為基礎，因此與新的IEEE 1901電力線標準草案之間完全互通。
       - 電源網路200 Mbps
       - 乙太網路10/100Mbps
   - QoS
-      - 智慧型[QoS網路優先機制](../Page/QoS.md "wikilink")
+      - 智慧型[QoS網路優先機制](https://zh.wikipedia.org/wiki/QoS "wikilink")
   - 安全機制
       - 128bit AES資料加密
 
@@ -63,7 +65,7 @@ HomePlug產品是利用家中現有的電力線路形成網路，並在有效的
 GP規格，針對成本最佳化的低耗電解決方案，例如冷凍空調系統（HVAC）溫度控制器、智慧型電錶、家用電器，以及充電式混合動力電動車（PEHV）。
 
 2010年，HomePlug Powerline
-Alliance與[Wi-Fi联盟宣布結盟](../Page/Wi-Fi联盟.md "wikilink")，將聯手推動無死角的[無線家庭](../Page/無線家庭.md "wikilink")。兩個聯盟將合作進行Wi-Fi與HomePlug規格與相關標準的技術審查，以確保在[智慧電網應用領域的互通性](../Page/智慧電網.md "wikilink")。他們也將推動Smart
+Alliance與[Wi-Fi联盟宣布結盟](../Page/Wi-Fi联盟.md "wikilink")，將聯手推動無死角的[無線家庭](https://zh.wikipedia.org/wiki/無線家庭 "wikilink")。兩個聯盟將合作進行Wi-Fi與HomePlug規格與相關標準的技術審查，以確保在[智慧電網應用領域的互通性](../Page/智慧電網.md "wikilink")。他們也將推動Smart
 Energy 2應用規範（Applications Profile），實現能橫跨無線與有線網路的應用。
 
 ## 外部連結

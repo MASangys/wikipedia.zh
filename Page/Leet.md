@@ -1,8 +1,8 @@
-**Leet**（[英文中亦稱](../Page/英文.md "wikilink") **leetspeak** 或
-**eleet**。Leet拼寫法：L337, 3L337,
-31337或1337），又稱**[駭客語](../Page/駭客.md "wikilink")**，是指一種發源於[歐美地區的](../Page/歐美.md "wikilink")[BBS](../Page/BBS.md "wikilink")、[線上遊戲和](../Page/線上遊戲.md "wikilink")[駭客社群所使用的文字書寫方式](../Page/駭客.md "wikilink")。通常是把[拉丁字母轉變成](../Page/拉丁字母.md "wikilink")[數字或是](../Page/數字.md "wikilink")[特殊符號](../Page/特殊符號.md "wikilink")，例如E寫成3、A寫成@等。或是將[單字寫成同音的](../Page/單字.md "wikilink")[字母或](../Page/字母.md "wikilink")[數字](../Page/數字.md "wikilink")，如to寫成2、for寫成4等等。
+**Leet**（[英文中亦稱](https://zh.wikipedia.org/wiki/英文 "wikilink")
+**leetspeak** 或 **eleet**。Leet拼寫法：L337, 3L337,
+31337或1337），又稱**[駭客語](https://zh.wikipedia.org/wiki/駭客 "wikilink")**，是指一種發源於[歐美地區的](https://zh.wikipedia.org/wiki/歐美 "wikilink")[BBS](../Page/BBS.md "wikilink")、[線上遊戲和](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[駭客社群所使用的文字書寫方式](https://zh.wikipedia.org/wiki/駭客 "wikilink")。通常是把[拉丁字母轉變成](../Page/拉丁字母.md "wikilink")[數字或是](../Page/數字.md "wikilink")[特殊符號](https://zh.wikipedia.org/wiki/特殊符號 "wikilink")，例如E寫成3、A寫成@等。或是將[單字寫成同音的](https://zh.wikipedia.org/wiki/單字 "wikilink")[字母或](../Page/字母.md "wikilink")[數字](../Page/數字.md "wikilink")，如to寫成2、for寫成4等等。
 
-在「Leet」作為這種書寫系統的通用稱呼之前，這個詞原先在英文中意指。但這裡的Leet則是源於[英語的elite](../Page/英語.md "wikilink")（精簡），後由elite轉為eleet，再轉變為leet。
+在「Leet」作為這種書寫系統的通用稱呼之前，這個詞原先在英文中意指。但這裡的Leet則是源於[英語的elite](https://zh.wikipedia.org/wiki/英語 "wikilink")（精簡），後由elite轉為eleet，再轉變為leet。
 
 ## 英文的Leet寫法
 
@@ -63,10 +63,10 @@
 <code>)3</code><br />
 <code>|-]</code></p></td>
 <td><p>| <code>[</code><br />
-<a href="../Page/¢.md" title="wikilink"><code>¢</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/¢" title="wikilink"><code>¢</code></a><br />
 <code>&lt;</code><br />
 <code>(</code><br />
-<a href="../Page/©.md" title="wikilink"><code>©</code></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/©" title="wikilink"><code>©</code></a></p></td>
 <td><p>| <code>)</code><br />
 <code>|)</code><br />
 <code>(|</code><br />
@@ -81,12 +81,12 @@
 <td><p>| <code>3</code><br />
 <code>&amp;</code><br />
 <a href="../Page/£.md" title="wikilink"><code>£</code></a><br />
-<a href="../Page/€.md" title="wikilink"><code>€</code></a><br />
-<a href="../Page/ë.md" title="wikilink"><code>ë</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/€" title="wikilink"><code>€</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/ë" title="wikilink"><code>ë</code></a><br />
 <code>[-</code><br />
 <code>|=-</code></p></td>
 <td><p>| <code>|=</code><br />
-<a href="../Page/ƒ.md" title="wikilink"><code>ƒ</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/ƒ" title="wikilink"><code>ƒ</code></a><br />
 <code>|#</code><br />
 <code>ph</code><br />
 <code>/=</code><br />
@@ -121,7 +121,7 @@
 <code>}-{</code></p></td>
 <td><p>|<code>1</code><br />
 <code>!</code><br />
-<a href="../Page/¡.md" title="wikilink"><code>¡</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/¡" title="wikilink"><code>¡</code></a><br />
 <code>j</code><br />
 <code>|</code><br />
 <code>eye</code><br />
@@ -131,7 +131,7 @@
 <code>/me</code></p></td>
 <td><p>| <code>_|</code><br />
 <code>_/</code><br />
-<a href="../Page/¿.md" title="wikilink"><code>¿</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/¿" title="wikilink"><code>¿</code></a><br />
 <code>&lt;/</code><br />
 <code>_]</code><br />
 <code>(/</code></p></td>
@@ -184,14 +184,14 @@
 <code>&lt;&gt;</code></p></td>
 <td><p>| <code>|*</code><br />
 <code>|o</code><br />
-<code>|</code><a href="../Page/º.md" title="wikilink"><code>º</code></a><br />
+<code>|</code><a href="https://zh.wikipedia.org/wiki/º" title="wikilink"><code>º</code></a><br />
 <code>?</code><br />
 <code>|^(o)</code><br />
 <code>|&gt;</code><br />
 <code>|"</code><br />
 <code>9</code><br />
 <code>[]D</code><br />
-<code>|</code><a href="../Page/°.md" title="wikilink"><code>°</code></a><br />
+<code>|</code><a href="https://zh.wikipedia.org/wiki/°" title="wikilink"><code>°</code></a><br />
 <code>|7</code></p></td>
 <td><p>| <code>(_,)</code><br />
 <code>()_</code><br />
@@ -206,7 +206,7 @@
 <code>|9</code><br />
 <code>2</code><br />
 <code>12</code><br />
-<a href="../Page/®.md" title="wikilink"><code>®</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/®" title="wikilink"><code>®</code></a><br />
 <code>[z</code><br />
 <a href="../Page/Я.md" title="wikilink"><code>Я</code></a><br />
 <code>.-</code><br />
@@ -215,7 +215,7 @@
 <td><p>| <code>5</code><br />
 <code>$</code><br />
 <code>z</code><br />
-<a href="../Page/§.md" title="wikilink"><code>§</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/§" title="wikilink"><code>§</code></a><br />
 <code>ehs</code><br />
 <code>es</code></p></td>
 <td><p>| <code>7</code><br />
@@ -223,13 +223,13 @@
 <code>-|-</code><br />
 <code>1</code><br />
 <code>']['</code><br />
-<a href="../Page/†.md" title="wikilink"><code>†</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/†" title="wikilink"><code>†</code></a><br />
 <code>"|"</code></p></td>
 <td><p>| <code>(_)</code><br />
 <code>|_|</code><br />
 <code>v</code><br />
 <code>L|</code><br />
-<a href="../Page/µ.md" title="wikilink"><code>µ</code></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/µ" title="wikilink"><code>µ</code></a></p></td>
 <td><p>| <code>\/</code><br />
 <code>|/</code><br />
 <code>\|</code><br />
@@ -247,15 +247,15 @@
 <code>\|/</code><br />
 <code>_|_/</code><br />
 <code>_:_/</code><br />
-<a href="../Page/Sha_(Cyrillic).md" title="wikilink"><code>?</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/Sha_(Cyrillic)" title="wikilink"><code>?</code></a><br />
 <code>uu</code><br />
 <code>2u</code></p></td>
 <td><p>| <code>&gt;&lt;</code><br />
-<a href="../Page/Ж.md" title="wikilink"><code>Ж</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/Ж" title="wikilink"><code>Ж</code></a><br />
 <code>}{</code><br />
 <code>ecks</code><br />
 <a href="../Page/×.md" title="wikilink"><code>×</code></a><br />
-<a href="../Page/?.md" title="wikilink"><code>?</code></a><br />
+<a href="https://zh.wikipedia.org/wiki/?" title="wikilink"><code>?</code></a><br />
 <code>)(</code><br />
 <code>][</code><br />
 <code>}{</code></p></td>
@@ -322,7 +322,7 @@ This is an example of leet at its finest. I will take this opportunity
 to remind you that you should always get your ~~kids~~ pet spayed or
 neutered. Never leave home without a towel. And no matter what they say,
 there is no cow level. Lol hax.
-这是一个LEET文字最好的例子。我要借此机会提醒你，你应该总是让你的~~孩子~~宠物绝育。永遠不要沒帶毛巾就出門。而不管他们说什么，根本沒有乳牛關。([見這裡](http://www.wowwiki.com/There_is_no_cow_level)、[這裡和](../Page/暗黑破壞神II#.E7.A7.98.E5.AF.86.E6.AF.8D.E7.89.9B.E5.85.B3.E5.8D.A1.md "wikilink")[這裡](http://diablo.wikia.com/wiki/The_Secret_Cow_Level))LOL
+这是一个LEET文字最好的例子。我要借此机会提醒你，你应该总是让你的~~孩子~~宠物绝育。永遠不要沒帶毛巾就出門。而不管他们说什么，根本沒有乳牛關。([見這裡](http://www.wowwiki.com/There_is_no_cow_level)、[這裡和](https://zh.wikipedia.org/wiki/暗黑破壞神II#.E7.A7.98.E5.AF.86.E6.AF.8D.E7.89.9B.E5.85.B3.E5.8D.A1 "wikilink")[這裡](http://diablo.wikia.com/wiki/The_Secret_Cow_Level))LOL
 HAX。
 
 （二）
@@ -347,7 +347,7 @@ Now is the time
 
 ## 中文的leet
 
-中文的網絡語言中，也有類似leet的寫法。利用部分[漢字由組件合成的特性](../Page/漢字.md "wikilink")，一個漢字被分拆成兩個或以上的組件，主要是左右拆分，讓個別的字看起來拉長了，如將-{zh-hans:“頭”字（“头”的繁体字形）;
+中文的網絡語言中，也有類似leet的寫法。利用部分[漢字由組件合成的特性](https://zh.wikipedia.org/wiki/漢字 "wikilink")，一個漢字被分拆成兩個或以上的組件，主要是左右拆分，讓個別的字看起來拉長了，如將-{zh-hans:“頭”字（“头”的繁体字形）;
 zh-hant:「頭」字;}-拆成「-{豆頁}-」。很多時組件本身是單獨漢字。中國簡體繁體會有一定差別，但實質差不多。例子：
 
 | 原來寫法      | leet寫法                         |

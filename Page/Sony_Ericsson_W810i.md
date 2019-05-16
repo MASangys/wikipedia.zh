@@ -1,13 +1,13 @@
-在2006年1月14日，[索尼愛立信宣佈推出W](../Page/索尼愛立信.md "wikilink")810型號[Walkman手機](../Page/Walkman.md "wikilink")。
+在2006年1月14日，[索尼愛立信宣佈推出W](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")810型號[Walkman手機](../Page/Walkman.md "wikilink")。
 
 其他值得注意的特色包括 full function 網路瀏覽器，兩百萬畫素自動對焦鏡頭，[Memory Stick Pro
-Duo](../Page/Memory_Stick.md "wikilink")
+Duo](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")
 插槽（最高4GB），以及音樂播放模式。當使用音樂播放模式時手機的功能會完全關閉，以便在不能使用手機通訊的地點時也能享受音樂。此款手機支援[MP3以及](../Page/MP3.md "wikilink")
-[AAC音樂格式以及](../Page/Advanced_Audio_Coding.md "wikilink")[MPEG4和](../Page/MPEG4.md "wikilink")[3GPP影片格式](../Page/3GPP.md "wikilink")。
+[AAC音樂格式以及](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")[MPEG4和](https://zh.wikipedia.org/wiki/MPEG4 "wikilink")[3GPP影片格式](../Page/3GPP.md "wikilink")。
 
 W810i中有不少改變是來自[Sony Ericsson
-W800i](../Page/Sony_Ericsson_W800i.md "wikilink")，但是最明顯的改變是[Sony
-Ericsson手機常見的搖桿式方向鍵](../Page/Sony_Ericsson.md "wikilink")（joystick）被
+W800i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W800i "wikilink")，但是最明顯的改變是[Sony
+Ericsson手機常見的搖桿式方向鍵](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")（joystick）被
 D-pad 所取代。D-pad 增加了在聽音樂時的方便性。
 
 W810i在2006年四月推出，現在已經全球發行。

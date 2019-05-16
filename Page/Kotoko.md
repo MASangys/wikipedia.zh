@@ -2,18 +2,18 @@
 
 ## 簡歷
 
-  - **KOTOKO**，為日本[I've公司歌唱組合的主要](../Page/I've.md "wikilink")[歌手之一](../Page/歌手.md "wikilink")，並在多數的歌曲中擔任主唱。她所演唱的主要是[動畫以及](../Page/動畫.md "wikilink")[電腦遊戲](../Page/電腦遊戲.md "wikilink")（大多是[美少女遊戲](../Page/美少女遊戲.md "wikilink")）的主題曲。她的歌曲內大多由她自己作詞，同時她也會為I've旗下的歌手的樂曲作詞。包含以其他名義在內，擔任了超過150首歌曲的主唱。她的主要作品因為她的獨特聲線及風格，她本身因而被視為[電波歌曲的代表之一](../Page/電波歌曲.md "wikilink")。
+  - **KOTOKO**，為日本[I've公司歌唱組合的主要](../Page/I've.md "wikilink")[歌手之一](../Page/歌手.md "wikilink")，並在多數的歌曲中擔任主唱。她所演唱的主要是[動畫以及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")（大多是[美少女遊戲](../Page/美少女遊戲.md "wikilink")）的主題曲。她的歌曲內大多由她自己作詞，同時她也會為I've旗下的歌手的樂曲作詞。包含以其他名義在內，擔任了超過150首歌曲的主唱。她的主要作品因為她的獨特聲線及風格，她本身因而被視為[電波歌曲的代表之一](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")。
   - 參與I've以外的活動時會以小寫的**kotoko**名義。
   - 2000年7月28日時為PC十八禁遊戲「」的同名主題曲作詞而出道，同年12月1日以歌手身份出道，為PC十八禁遊戲「」的主題曲「Close
     to
-    me...」演唱（實際上是先以I've的其中一個名為[Outer的組合](../Page/Outer.md "wikilink")（unit）名義出道，為2000年9月30日所發表的PC十八禁遊戲「」的主題曲「Synthetic
+    me...」演唱（實際上是先以I've的其中一個名為[Outer的組合](https://zh.wikipedia.org/wiki/Outer "wikilink")（unit）名義出道，為2000年9月30日所發表的PC十八禁遊戲「」的主題曲「Synthetic
     Organism」作演唱）。
-  - 2002年1月為電視動畫《-{zh-cn:[拜托了老師](../Page/拜托了老師.md "wikilink");
-    zh-tw:[星空的邂逅](../Page/星空的邂逅.md "wikilink");
-    zh-hk:[拜託了老師](../Page/拜託了老師.md "wikilink");}-》（）演唱主題曲「Shooting
-    Star」。這是她初次為電視動畫主唱主題曲。翌年7月、與[佐藤裕美共組團體](../Page/佐藤裕美.md "wikilink")，演唱電視動畫《[拜托了雙子星](../Page/拜托了雙子星.md "wikilink")》（）的主題曲「Second
+  - 2002年1月為電視動畫《-{zh-cn:[拜托了老師](https://zh.wikipedia.org/wiki/拜托了老師 "wikilink");
+    zh-tw:[星空的邂逅](https://zh.wikipedia.org/wiki/星空的邂逅 "wikilink");
+    zh-hk:[拜託了老師](https://zh.wikipedia.org/wiki/拜託了老師 "wikilink");}-》（）演唱主題曲「Shooting
+    Star」。這是她初次為電視動畫主唱主題曲。翌年7月、與[佐藤裕美共組團體](../Page/佐藤裕美.md "wikilink")，演唱電視動畫《[拜托了雙子星](https://zh.wikipedia.org/wiki/拜托了雙子星 "wikilink")》（）的主題曲「Second
     Flight」，這首單曲在[Oricon中獲得了初登場](../Page/Oricon.md "wikilink")15名的記錄。
-  - 2007年在[台灣歌迷的連署下](../Page/台灣.md "wikilink")，於2007年6月24日在台灣[台北舉辦演唱會](../Page/台北.md "wikilink")\[2\]。
+  - 2007年在[台灣歌迷的連署下](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2007年6月24日在台灣[台北舉辦演唱會](https://zh.wikipedia.org/wiki/台北 "wikilink")\[2\]。
   - 2011年8月1日宣佈脫離I've，並成立其自家工作室Orpheeco。
   - 2018年2月3日宣佈正式廻歸原點（[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")），並凖備新專輯及Live
     Tours。\[3\]。
@@ -22,33 +22,33 @@
 
 ### 单曲
 
-| 张     | 发售日         | 名称                                                                            | 规格         | 最高排名       |
-| ----- | ----------- | ----------------------------------------------------------------------------- | ---------- | ---------- |
-| 初回限定盘 | 通常盘         |                                                                               |            |            |
-| ※     | 2001年12月15日 | **LOVE A RIDDLE/I can't get over your best smile**                            | \-         | LACM-4039  |
-| ※     | 2002年1月26日  | **Shooting Star**                                                             | \-         | LACM-4045  |
-| 1st   | 2004年8月11日  | **[覚えてていいよ/DuDiDuWa\*lalala](../Page/覚えてていいよ/DuDiDuWa*lalala.md "wikilink")** | \-         | GNCA-0003  |
-| 2nd   | 2004年11月17日 | **[Re-sublimity](../Page/Re-sublimity.md "wikilink")**                        | GNCA-0005  | GNCA-0006  |
-| 3rd   | 2005年2月23日  | **[地に還る 〜on the earth〜](../Page/地に還る_〜on_the_earth〜.md "wikilink")**          | GNCA-0014  | GNCA-0015  |
-| 4th   | 2005年10月13日 | **[421-a will-](../Page/421-a_will-.md "wikilink")**                          | GNCV-0016  | GNCV-0017  |
-| 5th   | 2006年3月23日  | **[being](../Page/being.md "wikilink")**                                      | GNCA-0024  | GNCA-0025  |
-| 6th   | 2006年10月25日 | **[Chercher 〜シャルシェ〜](../Page/Chercher_〜シャルシェ〜.md "wikilink")**                | GNCA-0035  | GNCA-0036  |
-| 7th   | 2007年3月7日   | **[きれいな旋律](../Page/きれいな旋律.md "wikilink")**                                    | GNCA-0037  | GNCA-0038  |
-| 8th   | 2007年5月23日  | **[ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink")**                               | GNCA-0039  | GNCA-0040  |
-| 9th   | 2007年10月17日 | **[七転八起☆至上主義\!](../Page/七転八起☆至上主義!.md "wikilink")**                           | GNCA-0083  | GNCA-0084  |
-| 10th  | 2007年12月19日 | **[リアル鬼ごっこ](../Page/リアル鬼ごっこ.md "wikilink")**                                  | GNCA-0071  | GNCA-0072  |
-| 11st  | 2008年3月12日  | **[BLAZE](../Page/BLAZE.md "wikilink")**                                      | GNCV-0001  | GNCV-0002  |
-| 12nd  | 2008年5月21日  | **[Special Life\!](../Page/Special_Life!.md "wikilink")**                     | GNCV-0003  | GNCV-0004  |
-| 13rd  | 2009年8月26日  | **[daily-daily Dream](../Page/daily-daily_Dream.md "wikilink")**              | GNCV-0005  | GNCV-0006  |
-| 14th  | 2009年12月16日 | **[SCREW](../Page/SCREW.md "wikilink")**                                      | GNCV-0022  | GNCV-0023  |
-| 15th  | 2010年7月7日   | **[碧羅の天へ誘えど](../Page/碧羅の天へ誘えど.md "wikilink")**                                | \-         | GNCV-0024  |
-| 16th  | 2010年10月20日 | **[Loop-the-Loop](../Page/Loop-the-Loop.md "wikilink")**                      | GNCV-0025  | GNCV-0026  |
-| 17th  | 2011年11月16日 | **[Light My Fire](../Page/Light_My_Fire.md "wikilink")**                      | 1000253445 | 1000253446 |
-| 18th  | 2012年5月16日  | **[→unfinished→](../Page/→unfinished→.md "wikilink")**                        | 1000300210 | 1000300207 |
-| 19th  | 2012年12月19日 | **[リスタート](../Page/リスタート.md "wikilink")**                                      | \-         | GNCA-0248  |
-| 20th  | 2014年7月23日  | **[TOUGH INTENTION](../Page/TOUGH_INTENTION.md "wikilink")**                  | 1000505159 | 1000505210 |
-| 21th  | 2014年11月5日  | **[ZoNE-iT](../Page/ZoNE-iT.md "wikilink")**                                  | 1000527679 | 1000527680 |
-|       |             |                                                                               |            |            |
+| 张     | 发售日         | 名称                                                                                               | 规格         | 最高排名       |
+| ----- | ----------- | ------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| 初回限定盘 | 通常盘         |                                                                                                  |            |            |
+| ※     | 2001年12月15日 | **LOVE A RIDDLE/I can't get over your best smile**                                               | \-         | LACM-4039  |
+| ※     | 2002年1月26日  | **Shooting Star**                                                                                | \-         | LACM-4045  |
+| 1st   | 2004年8月11日  | **[覚えてていいよ/DuDiDuWa\*lalala](https://zh.wikipedia.org/wiki/覚えてていいよ/DuDiDuWa*lalala "wikilink")** | \-         | GNCA-0003  |
+| 2nd   | 2004年11月17日 | **[Re-sublimity](https://zh.wikipedia.org/wiki/Re-sublimity "wikilink")**                        | GNCA-0005  | GNCA-0006  |
+| 3rd   | 2005年2月23日  | **[地に還る 〜on the earth〜](https://zh.wikipedia.org/wiki/地に還る_〜on_the_earth〜 "wikilink")**          | GNCA-0014  | GNCA-0015  |
+| 4th   | 2005年10月13日 | **[421-a will-](https://zh.wikipedia.org/wiki/421-a_will- "wikilink")**                          | GNCV-0016  | GNCV-0017  |
+| 5th   | 2006年3月23日  | **[being](https://zh.wikipedia.org/wiki/being "wikilink")**                                      | GNCA-0024  | GNCA-0025  |
+| 6th   | 2006年10月25日 | **[Chercher 〜シャルシェ〜](https://zh.wikipedia.org/wiki/Chercher_〜シャルシェ〜 "wikilink")**                | GNCA-0035  | GNCA-0036  |
+| 7th   | 2007年3月7日   | **[きれいな旋律](https://zh.wikipedia.org/wiki/きれいな旋律 "wikilink")**                                    | GNCA-0037  | GNCA-0038  |
+| 8th   | 2007年5月23日  | **[ハヤテのごとく\!](https://zh.wikipedia.org/wiki/ハヤテのごとく! "wikilink")**                               | GNCA-0039  | GNCA-0040  |
+| 9th   | 2007年10月17日 | **[七転八起☆至上主義\!](https://zh.wikipedia.org/wiki/七転八起☆至上主義! "wikilink")**                           | GNCA-0083  | GNCA-0084  |
+| 10th  | 2007年12月19日 | **[リアル鬼ごっこ](https://zh.wikipedia.org/wiki/リアル鬼ごっこ "wikilink")**                                  | GNCA-0071  | GNCA-0072  |
+| 11st  | 2008年3月12日  | **[BLAZE](https://zh.wikipedia.org/wiki/BLAZE "wikilink")**                                      | GNCV-0001  | GNCV-0002  |
+| 12nd  | 2008年5月21日  | **[Special Life\!](https://zh.wikipedia.org/wiki/Special_Life! "wikilink")**                     | GNCV-0003  | GNCV-0004  |
+| 13rd  | 2009年8月26日  | **[daily-daily Dream](https://zh.wikipedia.org/wiki/daily-daily_Dream "wikilink")**              | GNCV-0005  | GNCV-0006  |
+| 14th  | 2009年12月16日 | **[SCREW](https://zh.wikipedia.org/wiki/SCREW "wikilink")**                                      | GNCV-0022  | GNCV-0023  |
+| 15th  | 2010年7月7日   | **[碧羅の天へ誘えど](https://zh.wikipedia.org/wiki/碧羅の天へ誘えど "wikilink")**                                | \-         | GNCV-0024  |
+| 16th  | 2010年10月20日 | **[Loop-the-Loop](https://zh.wikipedia.org/wiki/Loop-the-Loop "wikilink")**                      | GNCV-0025  | GNCV-0026  |
+| 17th  | 2011年11月16日 | **[Light My Fire](https://zh.wikipedia.org/wiki/Light_My_Fire "wikilink")**                      | 1000253445 | 1000253446 |
+| 18th  | 2012年5月16日  | **[→unfinished→](https://zh.wikipedia.org/wiki/→unfinished→ "wikilink")**                        | 1000300210 | 1000300207 |
+| 19th  | 2012年12月19日 | **[リスタート](https://zh.wikipedia.org/wiki/リスタート "wikilink")**                                      | \-         | GNCA-0248  |
+| 20th  | 2014年7月23日  | **[TOUGH INTENTION](https://zh.wikipedia.org/wiki/TOUGH_INTENTION "wikilink")**                  | 1000505159 | 1000505210 |
+| 21th  | 2014年11月5日  | **[ZoNE-iT](https://zh.wikipedia.org/wiki/ZoNE-iT "wikilink")**                                  | 1000527679 | 1000527680 |
+|       |             |                                                                                                  |            |            |
 
 ### 合辑
 
@@ -84,23 +84,23 @@ CD&lt;ALTIMA ver.&gt;：1000603709</p></td>
 
 ### 專輯
 
-| 枚     | 发售日         | 名称                    | [規格編號](../Page/規格編號.md "wikilink") | 最高位        |
-| ----- | ----------- | --------------------- | ---------------------------------- | ---------- |
-| 初回限定盤 | 通常盤         |                       |                                    |            |
-| 1st   | 2004年4月21日  | **羽-hane-**           | GNCA-1002                          | GNCA-1003  |
-| 2nd   | 2005年6月8日   | **硝子の靡風**             | GNCA-1050                          | GNCA-1051  |
-| 3rd   | 2006年12月13日 | **UZU-MAKI**          | GNCA-1110                          | GNCA-1111  |
-| 4th   | 2009年10月14日 | **イプシロンの方舟**          | GNCV-1014                          | GNCV-1015  |
-| 5th   | 2011年10月5日  | **ヒラく宇宙ポケット**         | 1000232048                         | 1000232049 |
-| 6th   | 2013年11月20日 | **空中パズル**             | 1000427830                         | 1000427831 |
-| 7th   | 2018年6月27日  | **tears cyclone –廻-** | \-                                 | GNCA-1528  |
+| 枚     | 发售日         | 名称                    | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高位        |
+| ----- | ----------- | --------------------- | ----------------------------------------------------- | ---------- |
+| 初回限定盤 | 通常盤         |                       |                                                       |            |
+| 1st   | 2004年4月21日  | **羽-hane-**           | GNCA-1002                                             | GNCA-1003  |
+| 2nd   | 2005年6月8日   | **硝子の靡風**             | GNCA-1050                                             | GNCA-1051  |
+| 3rd   | 2006年12月13日 | **UZU-MAKI**          | GNCA-1110                                             | GNCA-1111  |
+| 4th   | 2009年10月14日 | **イプシロンの方舟**          | GNCV-1014                                             | GNCV-1015  |
+| 5th   | 2011年10月5日  | **ヒラく宇宙ポケット**         | 1000232048                                            | 1000232049 |
+| 6th   | 2013年11月20日 | **空中パズル**             | 1000427830                                            | 1000427831 |
+| 7th   | 2018年6月27日  | **tears cyclone –廻-** | \-                                                    | GNCA-1528  |
 
 ### Best Album
 
-| 枚     | 发售日         | 名称                                  | [規格編號](../Page/規格編號.md "wikilink") | 最高位       |
-| ----- | ----------- | ----------------------------------- | ---------------------------------- | --------- |
-| 初回限定盤 | 通常盤         |                                     |                                    |           |
-| 1st   | 2009年12月23日 | **KOTOKO ANIME'S COMPILATION BEST** | GNCV-1019                          | GNCV-1020 |
+| 枚     | 发售日         | 名称                                  | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高位       |
+| ----- | ----------- | ----------------------------------- | ----------------------------------------------------- | --------- |
+| 初回限定盤 | 通常盤         |                                     |                                                       |           |
+| 1st   | 2009年12月23日 | **KOTOKO ANIME'S COMPILATION BEST** | GNCV-1019                                             | GNCV-1020 |
 
 ### \-{大碟|zh-cn:大碟; zh-tw:專輯; zh-hk:大碟;}-（其他歌手有參加）
 

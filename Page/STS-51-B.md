@@ -4,10 +4,10 @@
 
   - **[罗伯特·欧沃米尔](../Page/罗伯特·欧沃米尔.md "wikilink")**（，曾执行以及任务），指令长
   - **[弗雷德里克·格里高利](../Page/弗雷德里克·格里高利.md "wikilink")**（，曾执行、以及任务），飞行员
-  - **[唐·林德](../Page/唐·林德.md "wikilink")**（，曾执行任务），任务专家
+  - **[唐·林德](https://zh.wikipedia.org/wiki/唐·林德 "wikilink")**（，曾执行任务），任务专家
   - **[诺曼·萨加德](../Page/诺曼·萨加德.md "wikilink")**（，曾执行、、、、以及任务），任务专家
-  - **[威廉·桑顿](../Page/威廉·桑顿.md "wikilink")**（，曾执行以及任务），任务专家
-  - **[路德维克·范·登·伯格](../Page/路德维克·范·登·伯格.md "wikilink")**（，曾执行任务），有效载荷专家
+  - **[威廉·桑顿](https://zh.wikipedia.org/wiki/威廉·桑顿 "wikilink")**（，曾执行以及任务），任务专家
+  - **[路德维克·范·登·伯格](https://zh.wikipedia.org/wiki/路德维克·范·登·伯格 "wikilink")**（，曾执行任务），有效载荷专家
   - **[王赣骏](../Page/王赣骏.md "wikilink")**（，曾执行任务），有效载荷专家
 
 [Category:1985年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1985年佛罗里达州 "wikilink")

@@ -1,4 +1,4 @@
-**Energy**是[台灣以舞蹈著名的男子團體](../Page/台灣.md "wikilink")，於2002年7月12日成立，團員擅長[街舞](../Page/街舞.md "wikilink")，當時堪稱「最殺的舞蹈男團」。2002年成立時有五位成員，直至2003年7月，成員TORO（[郭葦昀](../Page/郭葦昀.md "wikilink")）因經紀人糾紛而離開團體。在2005年10月，團長[葉毅華為了專注於](../Page/葉毅華.md "wikilink")[舞蹈的夢想宣布退團](../Page/舞蹈.md "wikilink")。2007年6月加入新團員[唐振剛重組ENERGY重新出發](../Page/唐振剛.md "wikilink")\[1\]，直至2009年，Energy成員為[張書偉](../Page/張書偉.md "wikilink")、[謝坤達](../Page/謝坤達.md "wikilink")、[蕭景鴻](../Page/蕭景鴻.md "wikilink")、[唐振剛共四人](../Page/唐振剛.md "wikilink")，但成績未見起色，最後於2009年主持完節目之後正式單飛解散。
+**Energy**是[台灣以舞蹈著名的男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2002年7月12日成立，團員擅長[街舞](../Page/街舞.md "wikilink")，當時堪稱「最殺的舞蹈男團」。2002年成立時有五位成員，直至2003年7月，成員TORO（[郭葦昀](../Page/郭葦昀.md "wikilink")）因經紀人糾紛而離開團體。在2005年10月，團長[葉毅華為了專注於](https://zh.wikipedia.org/wiki/葉毅華 "wikilink")[舞蹈的夢想宣布退團](../Page/舞蹈.md "wikilink")。2007年6月加入新團員[唐振剛重組ENERGY重新出發](../Page/唐振剛.md "wikilink")\[1\]，直至2009年，Energy成員為[張書偉](../Page/張書偉.md "wikilink")、[謝坤達](../Page/謝坤達.md "wikilink")、[蕭景鴻](../Page/蕭景鴻.md "wikilink")、[唐振剛共四人](../Page/唐振剛.md "wikilink")，但成績未見起色，最後於2009年主持完節目之後正式單飛解散。
 
 ## 成員資料
 
@@ -49,7 +49,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉乃文.md" title="wikilink">葉乃文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉乃文" title="wikilink">葉乃文</a></p></td>
 <td style="text-align: center;"><p>牛奶</p></td>
 <td style="text-align: center;"><p>Yeh Nai-Wen</p></td>
 <td style="text-align: center;"></td>
@@ -67,11 +67,13 @@
 
 ## 專輯
 
-  - 2002年7月：《[COME ON](../Page/COME_ON.md "wikilink")》
+  - 2002年7月：《[COME
+    ON](https://zh.wikipedia.org/wiki/COME_ON "wikilink")》
   - 2003年1月：《[無懈可擊](../Page/無懈可擊.md "wikilink")》
   - 2003年7月：《[E3](../Page/E3_\(專輯\).md "wikilink")》
-  - 2004年1月：《[4 Ever 新曲+精選](../Page/4_Ever_新曲+精選.md "wikilink")》
-  - 2004年7月：《[米迦勒之舞電視原聲帶](../Page/米迦勒之舞電視原聲帶.md "wikilink")》
+  - 2004年1月：《[4 Ever
+    新曲+精選](https://zh.wikipedia.org/wiki/4_Ever_新曲+精選 "wikilink")》
+  - 2004年7月：《[米迦勒之舞電視原聲帶](https://zh.wikipedia.org/wiki/米迦勒之舞電視原聲帶 "wikilink")》
   - 2005年6月：《[最後的樂園](../Page/最後的樂園.md "wikilink")》
   - 2006年8月：《[猩人類](../Page/猩人類.md "wikilink")》
   - 2007年10月：《[天生反骨](../Page/天生反骨.md "wikilink")》
@@ -130,68 +132,79 @@
 
 電視
 
-  - 《[米迦勒之舞](../Page/米迦勒之舞.md "wikilink")》（2004）：牛奶 飾演 小龍、書偉 飾演 大丁、坤達 飾演
-    KO、阿弟
-  - 《[我的寵物老公](../Page/我的寵物老公.md "wikilink")》（2004）：書偉（特別／客串演出）
-  - 《[男丁格爾](../Page/男丁格爾.md "wikilink")》（2004）：坤達、牛奶（特別／客串演出）、書偉（特別／客串演出）飾演
+  - 《[米迦勒之舞](https://zh.wikipedia.org/wiki/米迦勒之舞 "wikilink")》（2004）：牛奶
+    飾演 小龍、書偉 飾演 大丁、坤達 飾演 KO、阿弟
+  - 《[我的寵物老公](https://zh.wikipedia.org/wiki/我的寵物老公 "wikilink")》（2004）：書偉（特別／客串演出）
+  - 《[男丁格爾](https://zh.wikipedia.org/wiki/男丁格爾 "wikilink")》（2004）：坤達、牛奶（特別／客串演出）、書偉（特別／客串演出）飾演
     戴家賢
   - 《[雪天使](../Page/雪天使.md "wikilink")》（2004）：TORO 飾演 紀騰
-  - 《[任我遨遊](../Page/任我遨遊.md "wikilink")》（2004）：TORO 飾演 謝家俊
-  - 《[極限燙衣板](../Page/極限燙衣板.md "wikilink")》（2006）：小剛 飾演 小剛
+  - 《[任我遨遊](https://zh.wikipedia.org/wiki/任我遨遊 "wikilink")》（2004）：TORO
+    飾演 謝家俊
+  - 《[極限燙衣板](https://zh.wikipedia.org/wiki/極限燙衣板 "wikilink")》（2006）：小剛
+    飾演 小剛
   - 《[至尊玻璃鞋](../Page/至尊玻璃鞋.md "wikilink")》（2007）：小剛 飾演 鐵雄
   - 《[艾草](../Page/艾草_\(公視人生劇展\).md "wikilink")》（2008）：小剛 飾演 陳正凡(小凡)
   - 《[籃球火](../Page/籃球火.md "wikilink")》（2008）：坤達（特別／客串演出）飾演
     王竟、阿弟（特別／客串演出）飾演 無極魔
   - 《[花樹下的約定](../Page/花樹下的約定.md "wikilink")》（2008）：書偉（特別／客串演出）飾演 劉凱
-  - 《[歡喜來逗陣](../Page/歡喜來逗陣.md "wikilink")》（2008）：坤達（特別／客串演出）飾演
+  - 《[歡喜來逗陣](https://zh.wikipedia.org/wiki/歡喜來逗陣 "wikilink")》（2008）：坤達（特別／客串演出）飾演
     釋大衛（本名時大衛。）
   - 《[終極三國](../Page/終極三國.md "wikilink")》（2009）：坤達 飾演 呂布
   - 《[月滿水沙漣](../Page/月滿水沙漣.md "wikilink")》（2009）：書偉 飾演 周世明
   - 《[帶子英雄](../Page/帶子英雄.md "wikilink")》（2010）：坤達 飾演 楊芳奇(阿奇)
   - 《[妻子們的戰爭](../Page/妻子們的戰爭.md "wikilink")》（2010）：阿弟 飾演 張肇陽
   - 《[死神少女](../Page/死神少女.md "wikilink")》（2010）：小剛 飾演 陳國豪(阿國)
-  - 《[烏托邦辦公室](../Page/烏托邦辦公室.md "wikilink")》（2011）：坤達 飾演 黃子元
-  - 《[33故事館-男賓止步](../Page/33故事館-男賓止步.md "wikilink")》（2011）：坤達 飾演 東浪
-  - 《[33故事館-星期三的寂寞](../Page/33故事館-星期三的寂寞.md "wikilink")》（2011）：坤達 飾演 辜華星
+  - 《[烏托邦辦公室](https://zh.wikipedia.org/wiki/烏托邦辦公室 "wikilink")》（2011）：坤達
+    飾演 黃子元
+  - 《[33故事館-男賓止步](https://zh.wikipedia.org/wiki/33故事館-男賓止步 "wikilink")》（2011）：坤達
+    飾演 東浪
+  - 《[33故事館-星期三的寂寞](https://zh.wikipedia.org/wiki/33故事館-星期三的寂寞 "wikilink")》（2011）：坤達
+    飾演 辜華星
   - 《[我愛美金](../Page/我愛美金.md "wikilink")》（2011）：書偉 飾演 徐裕傑(安迪)
   - 《[茶是顧香濃](../Page/茶是顧香濃.md "wikilink")》（2011）：書偉 飾演 藍乾生(少年時期)
   - 《[峰迴青春路](../Page/峰迴青春路.md "wikilink")》（2011）：書偉 飾演 江岳晃
   - 《[雲頂天很藍](../Page/雲頂天很藍.md "wikilink")》（2011）：書偉 飾演 羅偉宏
   - 《[閃昏](../Page/閃昏.md "wikilink")》（2011）：書偉
   - 《[真愛找麻煩](../Page/真愛找麻煩.md "wikilink")》（2011）：坤達 飾演 柯偉呈
-  - 《[絕對達令](../Page/絕對達令.md "wikilink")》（2012）：坤達 飾演 嚴宗史
-  - 《[神仙谷殺人事件](../Page/神仙谷殺人事件.md "wikilink")》（2012）：書偉 飾演 葉曉風
+  - 《[絕對達令](https://zh.wikipedia.org/wiki/絕對達令 "wikilink")》（2012）：坤達 飾演
+    嚴宗史
+  - 《[神仙谷殺人事件](https://zh.wikipedia.org/wiki/神仙谷殺人事件 "wikilink")》（2012）：書偉
+    飾演 葉曉風
   - 《[我們發財了](../Page/我們發財了.md "wikilink")》（2012）：坤達 飾演 方明達、Toro 飾演 李立傑
   - 《[風水世家](../Page/風水世家.md "wikilink")》（2012）：書偉 飾演 阿Ben
   - 《[慈悲的滋味](../Page/慈悲的滋味.md "wikilink")》（2012）：書偉 飾演 張東祥
-  - 《[阿爸的願望](../Page/阿爸的願望.md "wikilink")》（2012）：阿弟 飾演 吳明昇
+  - 《[阿爸的願望](https://zh.wikipedia.org/wiki/阿爸的願望 "wikilink")》（2012）：阿弟
+    飾演 吳明昇
   - 《[罪美麗](../Page/罪美麗.md "wikilink")》（2012）：小剛 飾演 趙興甫
   - 《[遇見幸福300天](../Page/遇見幸福300天.md "wikilink")》（2013）：坤達 飾演 張耀揚
   - 《[天下女人心](../Page/天下女人心.md "wikilink")》（2013）：阿弟 飾演 方立翔
   - 《[幸福選擇題](../Page/幸福選擇題.md "wikilink")》（2013）：坤達 飾演 何立方
   - 《[就是要你愛上我](../Page/就是要你愛上我.md "wikilink")》（2013）：小剛 飾演 姚子軒（愛力克斯）
   - 《[世間情](../Page/世間情.md "wikilink")》（2013）：阿弟 飾演 葉俊英
-  - 《[威廉王子](../Page/威廉王子.md "wikilink")》（2014.04）：坤達 飾演 易威廉 / 劉文彬
-  - 《[幸福兌換券](../Page/幸福兌換券.md "wikilink")》（2014.09）：坤達 飾演 史博海
+  - 《[威廉王子](https://zh.wikipedia.org/wiki/威廉王子 "wikilink")》（2014.04）：坤達
+    飾演 易威廉 / 劉文彬
+  - 《[幸福兌換券](https://zh.wikipedia.org/wiki/幸福兌換券 "wikilink")》（2014.09）：坤達
+    飾演 史博海
   - 《[舞吧舞吧在一起](../Page/舞吧舞吧在一起.md "wikilink")》（2015）：小剛 飾演 李修齊（Mike）
   - 《[甘味人生](../Page/甘味人生.md "wikilink")》（2015）：阿弟 飾演 戴勤生
 
 電影
 
-  - 《[巧克力重擊](../Page/巧克力重擊.md "wikilink") [Chocolate
-    Rap](../Page/Chocolate_Rap.md "wikilink")》（2006）：小剛
-  - 《[當我們同在一起](../Page/當我們同在一起.md "wikilink") [GO GO
-    G-BOYS](../Page/GO_GO_G-BOYS.md "wikilink")》（2006）：小剛
+  - 《[巧克力重擊](https://zh.wikipedia.org/wiki/巧克力重擊 "wikilink") [Chocolate
+    Rap](https://zh.wikipedia.org/wiki/Chocolate_Rap "wikilink")》（2006）：小剛
+  - 《[當我們同在一起](https://zh.wikipedia.org/wiki/當我們同在一起 "wikilink") [GO GO
+    G-BOYS](https://zh.wikipedia.org/wiki/GO_GO_G-BOYS "wikilink")》（2006）：小剛
   - 《[一席之地](../Page/一席之地.md "wikilink") [A Place of One’s
-    Own](../Page/A_Place_of_One’s_Own.md "wikilink")》（2009）：小剛
+    Own](https://zh.wikipedia.org/wiki/A_Place_of_One’s_Own "wikilink")》（2009）：小剛
 
 ## 主持
 
-  - [TVBS-G](../Page/TVBS-G.md "wikilink")「娛樂新聞」（2004）
-  - [TVBS-G](../Page/TVBS-G.md "wikilink")「5℃ FUN賣機」（2004）
-  - [臺視](../Page/臺視.md "wikilink")「綜藝這個禮拜六最好笑」（2004）：與[羅志祥搭檔](../Page/羅志祥.md "wikilink")
+  - [TVBS-G](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")「娛樂新聞」（2004）
+  - [TVBS-G](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")「5℃
+    FUN賣機」（2004）
+  - [臺視](https://zh.wikipedia.org/wiki/臺視 "wikilink")「綜藝這個禮拜六最好笑」（2004）：與[羅志祥搭檔](../Page/羅志祥.md "wikilink")
   - [東風](../Page/東風衛視.md "wikilink")「SUPER ENERGY」（2008）
-  - [東風](../Page/東風衛視.md "wikilink")「鐵馬青春行」（2009）：與[歐弟搭檔](../Page/歐弟.md "wikilink")
+  - [東風](../Page/東風衛視.md "wikilink")「鐵馬青春行」（2009）：與[歐弟搭檔](https://zh.wikipedia.org/wiki/歐弟 "wikilink")
 
 ## 書籍出版
 
@@ -241,7 +254,7 @@
 
   - [目前所屬之天熹經紀公司另闢官方部落格](https://web.archive.org/web/20091230124527/http://ilovesuper.com/blog/index.php?blogId=10)
 
-[id:Energy](../Page/id:Energy.md "wikilink")
+[id:Energy](https://zh.wikipedia.org/wiki/id:Energy "wikilink")
 
 [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
 [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")

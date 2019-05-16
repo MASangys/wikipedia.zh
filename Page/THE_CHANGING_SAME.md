@@ -1,6 +1,6 @@
 **THE CHANGING
 SAME**（中譯：平井堅的歲月）是[日本男歌手](../Page/日本.md "wikilink")[平井堅的第三張原創專輯](../Page/平井堅.md "wikilink")，日本地區於2000年6月21日發行。發行首周空降[Oricon日本公信榜冠軍](../Page/Oricon.md "wikilink")，加上再發版（2000年10月1日[Sony
-Music](../Page/Sony_Music.md "wikilink") [DefSTAR
+Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink") [DefSTAR
 Records發行](../Page/DefSTAR_Records.md "wikilink")）登場回數68周，總銷量超過126萬張，獲得[日本唱片協會百萬唱片認證](../Page/日本唱片協會.md "wikilink")。
 
 ## 解説
@@ -61,5 +61,5 @@ Records發行](../Page/DefSTAR_Records.md "wikilink")）登場回數68周，總�
 [Category:2000年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  日文音樂雜誌『[ROCKIN'ON
-    JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』（ロッキング・オン刊、25
+    JAPAN](https://zh.wikipedia.org/wiki/ROCKIN'ON_JAPAN "wikilink")』（ロッキング・オン刊、25
     JUNE 2002 VOL.223）

@@ -1,20 +1,20 @@
 [SouleaterComic01.jpg](https://zh.wikipedia.org/wiki/File:SouleaterComic01.jpg "fig:SouleaterComic01.jpg")
 《**SOUL
-EATER**》（）是由[日本漫畫家](../Page/日本漫畫家.md "wikilink")[大久保篤創作的漫畫作品](../Page/大久保篤.md "wikilink")，2004年至2013年於「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」（[SQUARE
-ENIX出版](../Page/SQUARE_ENIX.md "wikilink")）上連載。電視動畫獲選為2008年第十二回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
+EATER**》（）是由[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[大久保篤創作的漫畫作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")，2004年至2013年於「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」（[SQUARE
+ENIX出版](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）上連載。電視動畫獲選為2008年第十二回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 於「月刊少年GANGAN」2011年度2月號開始連載外傳作品《**[SOUL EATER
-NOT\!](../Page/Soul_Eater_Not!.md "wikilink")**》
+NOT\!](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")**》
 
 ## 概要
 
-噬魂者是作者繼[B壹後第](../Page/B壹.md "wikilink")2部長篇連載作品。在此之前，2003年分別在[GanGan
-POWERD](../Page/GanGan_POWERD.md "wikilink")03年夏季號、秋季號及[月刊少年GanGan
-WING](../Page/月刊少年GanGan_WING.md "wikilink")04年1月號刊載3部短編作品。這幾個短編都收錄在單行本第1集，實際上的第1回是04年6月號「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」刊載的「補習(前篇)」。
+噬魂者是作者繼[B壹後第](https://zh.wikipedia.org/wiki/B壹 "wikilink")2部長篇連載作品。在此之前，2003年分別在[GanGan
+POWERD](https://zh.wikipedia.org/wiki/GanGan_POWERD "wikilink")03年夏季號、秋季號及[月刊少年GanGan
+WING](https://zh.wikipedia.org/wiki/月刊少年GanGan_WING "wikilink")04年1月號刊載3部短編作品。這幾個短編都收錄在單行本第1集，實際上的第1回是04年6月號「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」刊載的「補習(前篇)」。
 
 在刊載短篇時，[月刊少年GANGAN展開強烈的宣傳攻勢](../Page/月刊少年GANGAN.md "wikilink")。
 
-在[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")2008年1月號中發表電視動畫化，並在2008年春開始於[東京電視系播放一年間長的動畫](../Page/TXN.md "wikilink")。
+在[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")2008年1月號中發表電視動畫化，並在2008年春開始於[東京電視系播放一年間長的動畫](https://zh.wikipedia.org/wiki/TXN "wikilink")。
 
 ## 故事背景
 
@@ -31,13 +31,13 @@ Scythe」……
 
 ### 死武專(死神武器-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-專門學校)
 
-位於[美國](../Page/美國.md "wikilink")[內華達州](../Page/內華達州.md "wikilink")、身處死神靈魂中央的「死亡之城Death
+位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")、身處死神靈魂中央的「死亡之城Death
 City」。是死神名下管理培養「-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-」和「武器」的教育機構，是管理分散到全世界Death
 Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼神出現而創立的組織。
 
 ### 靈魂
 
-只要是活著的生命就會有的存在，生命的源頭。不同種族的靈魂也會不同（人類、魔女、貓等等的靈魂都不太一樣）。就算同種族，不同性格的人也會有不同的靈魂，靈魂會散發一種[波長](../Page/波長.md "wikilink")，稱為**靈魂波長**，代表一個生命的靈魂。**靈魂波長**與生命的行為、性格、健康等一切息息相關。經過鍛鍊後甚至可以用於各種情況。靈魂大部分都是鬼火的形狀，但大約五千萬人裡會出現一個有著羽毛翅膀與光環的靈魂，被稱作**「天使型」靈魂**。具有**「天使型」靈魂**的人如果用力量（例如魔法）將靈魂之翼具現化就能長出翅膀飛行。（例：摩訶‧亞爾邦、歌斐）
+只要是活著的生命就會有的存在，生命的源頭。不同種族的靈魂也會不同（人類、魔女、貓等等的靈魂都不太一樣）。就算同種族，不同性格的人也會有不同的靈魂，靈魂會散發一種[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")，稱為**靈魂波長**，代表一個生命的靈魂。**靈魂波長**與生命的行為、性格、健康等一切息息相關。經過鍛鍊後甚至可以用於各種情況。靈魂大部分都是鬼火的形狀，但大約五千萬人裡會出現一個有著羽毛翅膀與光環的靈魂，被稱作**「天使型」靈魂**。具有**「天使型」靈魂**的人如果用力量（例如魔法）將靈魂之翼具現化就能長出翅膀飛行。（例：摩訶‧亞爾邦、歌斐）
 
   - 人類
     一般人，是最常見也最弱小的種族，靈魂通常為青藍色，越是善良耀眼的靈魂越有強大的力量，反之越是邪惡污穢的靈魂反而甚麼都沒有。人類可能成為製造死神武器的『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』或者是『鬼神之卵』甚至變為『鬼神』。擁有武器血統的人類若是作為武器覺醒就能變成『魔武器』。
@@ -80,13 +80,13 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
     The Kid配上湯姆森姊妹)。
   - 與『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』一起的武器要吃掉靈魂，-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-才能製造Death
     Scythe。為了奪走壞人的靈魂，各-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-都有各自能運用的武器，按照武器的種類，稱為『○○-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』，○○填入其-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-搭檔的武器名稱。
-  - 『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』與『武器』的**靈魂[波長](../Page/波長.md "wikilink")**越接近，戰鬥能力就會上升。『武器』是負責控制和支援『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』的**靈魂[波長](../Page/波長.md "wikilink")**，而提升『武器』能力並實際戰鬥的是『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』。
+  - 『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』與『武器』的**靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**越接近，戰鬥能力就會上升。『武器』是負責控制和支援『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』的**靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**，而提升『武器』能力並實際戰鬥的是『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』。
   - 『武器』能變化為自己擅長武器的形態來支援『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』，『武器』也能化作自己身體的一部分，單獨進行戰鬥（如:賈斯汀與索爾等）。
   - 熟練的『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』能察覺靈魂的種類和位置，也有人能看穿靈魂本體的能力（俗稱
     靈魂感知能力/魂感知）。但擁有高度魂感知的『-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-』似乎不多。
-  - 『靈魂共鳴』，當武器與-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-互相配合對方的**靈魂[波長](../Page/波長.md "wikilink")**並將自身的**靈魂[波長](../Page/波長.md "wikilink")**注入對方體內，就能發揮強大力量的絕招。隨著不同工匠與不同武器的組合，絕招的種類跟效果也會不同。靈魂共鳴的條件只有在雙方的靈魂互相配合才能夠實行，因此只要其中一方內心有所動搖或疙瘩就容易失敗，甚至給自身的靈魂或身體造成疲勞或傷害。
-  - **靈魂[波長](../Page/波長.md "wikilink")**會因為每個人的靈魂特質而有所不同，例如:Black
-    Star擁有很強的靈魂，能夠以靈魂波長使出『魂威』攻擊。在**靈魂[波長](../Page/波長.md "wikilink")**之中也會有特別的波長，目前已知的特別波長分別為死神武器瑪莉的『治癒波長』和鐮刀-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-摩訶以及其母親的『退魔波長』。特別波長的能力似乎跟其靈魂的特質有關，例如：溫柔的瑪莉老師擁有治癒波長。
+  - 『靈魂共鳴』，當武器與-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-互相配合對方的**靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**並將自身的**靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**注入對方體內，就能發揮強大力量的絕招。隨著不同工匠與不同武器的組合，絕招的種類跟效果也會不同。靈魂共鳴的條件只有在雙方的靈魂互相配合才能夠實行，因此只要其中一方內心有所動搖或疙瘩就容易失敗，甚至給自身的靈魂或身體造成疲勞或傷害。
+  - **靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**會因為每個人的靈魂特質而有所不同，例如:Black
+    Star擁有很強的靈魂，能夠以靈魂波長使出『魂威』攻擊。在**靈魂[波長](https://zh.wikipedia.org/wiki/波長 "wikilink")**之中也會有特別的波長，目前已知的特別波長分別為死神武器瑪莉的『治癒波長』和鐮刀-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-摩訶以及其母親的『退魔波長』。特別波長的能力似乎跟其靈魂的特質有關，例如：溫柔的瑪莉老師擁有治癒波長。
 
 ### 魔女
 
@@ -143,7 +143,7 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">SQEX</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">SQEX</a></p></th>
 <th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
 </tr>
@@ -151,9 +151,9 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
 <tbody>
 <tr class="odd">
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/EAN.md" title="wikilink">EAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -319,11 +319,11 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
   - Death The Kid：[本田貴子](../Page/本田貴子.md "wikilink")
   - 死神之鎌：[平田廣明](../Page/平田廣明.md "wikilink")
   - 弗藍肯‧斯坦：[宮本充](../Page/宮本充.md "wikilink")
-  - 死神大人：[大林隆介](../Page/大林隆介.md "wikilink")
+  - 死神大人：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")
   - 莉絲‧湯普森：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
   - 帕蒂‧湯普森：[澤城美雪](../Page/澤城美雪.md "wikilink")
-  - 布蕾亞：[笹本優子](../Page/笹本優子.md "wikilink")
-  - 死人‧巴雷特：[赤城進](../Page/赤城進.md "wikilink")
+  - 布蕾亞：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")
+  - 死人‧巴雷特：[赤城進](https://zh.wikipedia.org/wiki/赤城進 "wikilink")
 
 ## 電視動畫
 
@@ -349,10 +349,10 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
 
   - 『resonance』(第1話至第30話)
     作詞：Akio Inoue，作曲、編曲：Daisuke
-    Asakura，歌：[T.M.Revolution](../Page/西川貴教.md "wikilink")
+    Asakura，歌：[T.M.Revolution](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")
   - 『PAPERMOON』(第31話至第50話)
     作詞：Tommy heavenly6，作曲、編曲：Chiffon Brownie ，歌：[Tommy
-    heavenly6](../Page/Tommy_heavenly6.md "wikilink")
+    heavenly6](https://zh.wikipedia.org/wiki/Tommy_heavenly6 "wikilink")
 
 **第51話沒有片頭曲**
 
@@ -361,20 +361,21 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
   - 『カウンターアイデンティティ』
     歌：UNISON SQUARE GARDEN
   - 『愛がほしいよ』
-    作詞、作曲：[辻詩音](../Page/辻詩音.md "wikilink")，編曲：[mw](../Page/mw.md "wikilink")，歌：[辻詩音](../Page/辻詩音.md "wikilink")
+    作詞、作曲：[辻詩音](https://zh.wikipedia.org/wiki/辻詩音 "wikilink")，編曲：[mw](https://zh.wikipedia.org/wiki/mw "wikilink")，歌：[辻詩音](https://zh.wikipedia.org/wiki/辻詩音 "wikilink")
 
 #### 片尾曲
 
   - 『』(第1話至第13話,第51話)
-    作詞、作曲：TSURU，編曲、歌：[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")
+    作詞、作曲：TSURU，編曲、歌：[STANCE
+    PUNKS](https://zh.wikipedia.org/wiki/STANCE_PUNKS "wikilink")
   - 『style』(第14話至第26話)
-    作詞、歌：[西野加奈](../Page/西野加奈.md "wikilink")，作曲、編曲：[河田和彥](../Page/河田和彥.md "wikilink")
+    作詞、歌：[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")，作曲、編曲：[河田和彥](https://zh.wikipedia.org/wiki/河田和彥 "wikilink")
   - 『』(第27話至第39話)
     作詞、作曲：Diggy-MO'，編曲：JUNKOO，歌：Diggy-MO'
   - 『STRENGTH.』(第40話至第50話)
-    作詞：[西川貴教](../Page/西川貴教.md "wikilink")，作曲：岸 利至，編曲:abingdon boys
-    school，歌：[abingdon boys
-    school](../Page/abingdon_boys_school.md "wikilink")
+    作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，作曲：岸
+    利至，編曲:abingdon boys school，歌：[abingdon boys
+    school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
 
 #### 片尾曲(重播版)
 
@@ -382,7 +383,8 @@ Scythe的總部。現存有9位Death Scythe 。「死武専」是為了防止鬼
     作詞、歌：[牧野由依](../Page/牧野由依.md "wikilink")，作曲、編曲：津田直士
   - 『ノーザンライツ』
     作詞、作曲:工藤圭一, 歌：[HOW MERRY
-    MARRY](../Page/HOW_MERRY_MARRY.md "wikilink")，編曲：石崎光、HOW MERRY MARRY
+    MARRY](https://zh.wikipedia.org/wiki/HOW_MERRY_MARRY "wikilink")，編曲：石崎光、HOW
+    MERRY MARRY
 
 ### 各話標題
 

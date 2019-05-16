@@ -1,7 +1,7 @@
-**ipconfig**是[微軟](../Page/微軟.md "wikilink")[作業系統的電腦上用來控制](../Page/作業系統.md "wikilink")[網路連線的一個](../Page/電腦網路.md "wikilink")[命令列工具](../Page/命令列.md "wikilink")。它的主要功用，包括用來顯示現時網路連線的設定（/all參數），或透過/release參數來釋放取得的ip位置，和透過
+**ipconfig**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統的電腦上用來控制](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[網路連線的一個](https://zh.wikipedia.org/wiki/電腦網路 "wikilink")[命令列工具](https://zh.wikipedia.org/wiki/命令列 "wikilink")。它的主要功用，包括用來顯示現時網路連線的設定（/all參數），或透過/release參數來釋放取得的ip位置，和透過
 /renew 來重新獲取ip位置的分配。
 
-在Win9x系統上，過去亦有一個[GUI版本的](../Page/GUI.md "wikilink")[winipcfg](../Page/winipcfg.md "wikilink")，但在Win2K之後即不再復見。後來，微軟在他們的網頁提供了wntipcfg供用戶下載。此外，本命令其實脫胎自Unix的[ifconfig](../Page/ifconfig.md "wikilink")。
+在Win9x系統上，過去亦有一個[GUI版本的](https://zh.wikipedia.org/wiki/GUI "wikilink")[winipcfg](https://zh.wikipedia.org/wiki/winipcfg "wikilink")，但在Win2K之後即不再復見。後來，微軟在他們的網頁提供了wntipcfg供用戶下載。此外，本命令其實脫胎自Unix的[ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink")。
 
 ## 參數表
 
@@ -52,7 +52,7 @@ Windows 2000 IP Configuration
 
 ## 參看
 
-  - [ifconfig](../Page/ifconfig.md "wikilink")：在[Linux](../Page/Linux.md "wikilink")/[BSD與ipconfig等同的命令](../Page/BSD.md "wikilink")。
+  - [ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink")：在[Linux](../Page/Linux.md "wikilink")/[BSD與ipconfig等同的命令](../Page/BSD.md "wikilink")。
   - [wntipcfg](http://www.windowsnetworking.com/articles_tutorials/wntipcfg.html)
   - [wntipcfg下載網址（更新）](https://web.archive.org/web/20070122104523/http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=00A974B4-0BFA-4065-8081-BBAEBF2A5CB6)
 

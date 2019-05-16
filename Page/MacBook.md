@@ -1,17 +1,18 @@
 {{ otheruses | MacBook (Retina显示屏) }}
 
-**MacBook**是[苹果电脑所开发推出的](../Page/苹果公司.md "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](../Page/麥金塔電腦.md "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook
-G4以及系列](../Page/iBook.md "wikilink")12英寸[PowerBook系列笔记本电脑](../Page/PowerBook.md "wikilink")。MacBook是[MacBook
-家族的一部分](../Page/MacBook系列.md "wikilink")，其主要面向教育与消费者市场。
+**MacBook**是[苹果电脑所开发推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook
+G4以及系列](https://zh.wikipedia.org/wiki/iBook "wikilink")12英寸[PowerBook系列笔记本电脑](../Page/PowerBook.md "wikilink")。MacBook是[MacBook
+家族的一部分](https://zh.wikipedia.org/wiki/MacBook系列 "wikilink")，其主要面向教育与消费者市场。
 
 MacBook有4个独立设计。第一代中使用的是以iBook G4为蓝本，使用结合聚碳酸酯和玻璃纤维的白色或黑色外壳，是苹果第一个搭载
-[Intel](../Page/Intel.md "wikilink") [Core
-Duo](../Page/Core_Duo.md "wikilink") 处理器的笔记型电脑。第二代在2008年10月與15寸 [MacBook
+[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core
+Duo](https://zh.wikipedia.org/wiki/Core_Duo "wikilink")
+处理器的笔记型电脑。第二代在2008年10月與15寸 [MacBook
 Pro](../Page/MacBook_Pro.md "wikilink") 一同推出，采用了类似15寸 [MacBook
 Pro](../Page/MacBook_Pro.md "wikilink") 的一体式铝制外壳，但移除了
-[FireWire](../Page/FireWire.md "wikilink")，以降低价格。FireWire 的缺乏使客户抱怨，導致
-MacBook 销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了 FireWire。FireWire
-是在2009年底发布的更新版本再度被移除。MacBook系列与入門級的[MacBook
+[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，以降低价格。FireWire
+的缺乏使客户抱怨，導致 MacBook 销售不佳。第三代在2009年1月推出，再次使用了聚碳酸酯外壳，并重新添加了
+FireWire。FireWire 是在2009年底发布的更新版本再度被移除。MacBook系列与入門級的[MacBook
 Air系列和专业級的](../Page/MacBook_Air.md "wikilink")[MacBook
 Pro系列組成完整的產品線](../Page/MacBook_Pro.md "wikilink")。
 
@@ -20,15 +21,15 @@ Air](../Page/MacBook_Air.md "wikilink")，MacBook產品系列于2011年7月20日
 US$899 的价格出售 MacBook
 直到2012年2月。\[2\]。在2015年4月10日，蘋果發表年度新產品，重新導入MacBook系列。对于新款的
 MacBook 系列，请参见[MacBook
-(Retina显示屏)](../Page/MacBook_\(Retina显示屏\).md "wikilink")。
+(Retina显示屏)](https://zh.wikipedia.org/wiki/MacBook_\(Retina显示屏\) "wikilink")。
 
 ## 第一代
 
 [MacBook.jpg](https://zh.wikipedia.org/wiki/File:MacBook.jpg "fig:MacBook.jpg")
 第一代 MacBook 的外觀大致保留其前身，即 iBook G4
-的設計。除了白色外壳之外，苹果电脑也新增了黑色的选择。此决定遭到了许多反弹，因为在几乎相同的规格下，黑色的却比白色外壳还贵了150美元。\[3\]更有苹果电脑愛好者認為黑色MacBook看來极像設計平凡的[筆記型電腦](../Page/筆記型電腦.md "wikilink")，與[Dell或](../Page/Dell.md "wikilink")[惠普的產品外觀無異](../Page/惠普.md "wikilink")。2008年10月Apple公司已經停止生產黑色的MacBook了。
+的設計。除了白色外壳之外，苹果电脑也新增了黑色的选择。此决定遭到了许多反弹，因为在几乎相同的规格下，黑色的却比白色外壳还贵了150美元。\[3\]更有苹果电脑愛好者認為黑色MacBook看來极像設計平凡的[筆記型電腦](../Page/筆記型電腦.md "wikilink")，與[Dell或](https://zh.wikipedia.org/wiki/Dell "wikilink")[惠普的產品外觀無異](../Page/惠普.md "wikilink")。2008年10月Apple公司已經停止生產黑色的MacBook了。
 
-MacBook为苹果电脑第一种使用镜面屏幕的笔记型电脑，而这之前的笔记型电脑均为雾面屏幕。与雾面屏幕不同的是，镜面屏幕可产生更大的亮度，许多使用者抱怨，使用镜面屏幕造成了不适的画面反射，若是在采光较明亮的场合，镜面屏幕可能比雾面屏幕更难以观看。苹果电脑此项使用镜面屏幕的措施与其它的PC厂商类似，如[Sony的](../Page/Sony.md "wikilink")[XBRITE屏幕](../Page/XBRITE.md "wikilink")。
+MacBook为苹果电脑第一种使用镜面屏幕的笔记型电脑，而这之前的笔记型电脑均为雾面屏幕。与雾面屏幕不同的是，镜面屏幕可产生更大的亮度，许多使用者抱怨，使用镜面屏幕造成了不适的画面反射，若是在采光较明亮的场合，镜面屏幕可能比雾面屏幕更难以观看。苹果电脑此项使用镜面屏幕的措施与其它的PC厂商类似，如[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[XBRITE屏幕](https://zh.wikipedia.org/wiki/XBRITE "wikilink")。
 
 ### 绘图运算
 
@@ -38,7 +39,7 @@ X3100的集成显卡而不是已经被取代的iBook所内建的[ATI
 Radeon系列](../Page/Radeon.md "wikilink")。苹果电脑也不再于网站上强调MacBook的绘图运算技术。Intel的集成显卡在过去饱受批评，因为在执行3D游戏时不如独立显卡\[4\]。
 
 苹果电脑使用Intel的绘图技术主要是成本考量，Intel
-GMA晶片比ATI与[nVidia的都来的便宜](../Page/nVidia.md "wikilink")。\[5\]然而Intel
+GMA晶片比ATI与[nVidia的都来的便宜](https://zh.wikipedia.org/wiki/nVidia "wikilink")。\[5\]然而Intel
 GMA X3100缺少内建影像记忆体，并裁减其架构，使得在处理影像上比ATI与nVidia更省电省热（不需要散热风扇）。\[6\]
 
 2008年10月更新的新一代MacBook全线采用了NVIDIA的集成显卡（MacBook
@@ -107,8 +108,8 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顯示屏.md" title="wikilink">顯示器</a></p></td>
-<td><p>13.3英寸 <a href="../Page/LCD.md" title="wikilink">LCD</a> 顯示器，1280 × 800 <a href="../Page/解像度.md" title="wikilink">解像度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示屏" title="wikilink">顯示器</a></p></td>
+<td><p>13.3英寸 <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a> 顯示器，1280 × 800 <a href="https://zh.wikipedia.org/wiki/解像度" title="wikilink">解像度</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -118,7 +119,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/前端總線.md" title="wikilink">前端匯流排</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前端總線" title="wikilink">前端匯流排</a></p></td>
 <td><p>667 MHz</p></td>
 <td><p>800 MHz</p></td>
 <td><p>1066 MHz</p></td>
@@ -129,8 +130,8 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中央處理器.md" title="wikilink">中央處理器</a></p></td>
-<td><p>1.83 GHz 或 2.0 GHz <a href="../Page/Intel.md" title="wikilink">Intel</a> Core Duo</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">中央處理器</a></p></td>
+<td><p>1.83 GHz 或 2.0 GHz <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> Core Duo</p></td>
 <td><p>1.83 GHz 或 2.0 GHz Intel Core 2 Duo</p></td>
 <td><p>2.0 GHz 或 2.16 GHz Intel Core 2 Duo</p></td>
 <td><p>2.0 GHz 或 2.2 GHz Intel Core 2 Duo</p></td>
@@ -140,7 +141,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td><p>2.13 GHz Intel Core 2 Duo</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/記憶體.md" title="wikilink">記憶體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></p></td>
 <td><p>512 MB 667 MHz PC2-5300<br />
 <span style="color:#969696"><em>可升級至2 GB</em></span></p></td>
 <td><p>512 MB 667 MHz PC2-5300<br />
@@ -158,10 +159,10 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顯示卡.md" title="wikilink">顯示卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示卡" title="wikilink">顯示卡</a></p></td>
 <td><p><a href="../Page/Intel_GMA.md" title="wikilink">Intel GMA</a> 950</p></td>
-<td><p><a href="../Page/GMA_X3100.md" title="wikilink">Intel GMA X3100</a></p></td>
-<td><p><a href="../Page/Nvidia.md" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GMA_X3100" title="wikilink">Intel GMA X3100</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nvidia" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -188,7 +189,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 <span style="color:#969696"><em>可選擇 250 GB, 320 GB, 或 500 GB</em></span></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/光驅.md" title="wikilink">光碟機</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光驅" title="wikilink">光碟機</a></p></td>
 <td><p>8× 雙面光碟播放，4× DVD±R 及 RW 燒錄，24× CD-R 及 10× CD-RW 燒錄</p></td>
 <td><p>2.4× DVD+R DL 燒錄, 6× DVD±R 播放, 4× DVD±RW 燒錄, 24× CD-R, 及 10× CD-RW 燒錄</p></td>
 <td><p>4× DVD+R DL 燒錄, 8× DVD±R 播放, 4× DVD±RW 燒錄, 24× CD-R 及 10x CD-RW 燒錄</p></td>
@@ -199,8 +200,8 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/無線網絡.md" title="wikilink">無線網絡</a></p></td>
-<td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort Extreme</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g</a>，<a href="../Page/以太网.md" title="wikilink">以太网</a>， <a href="../Page/Bluetooth.md" title="wikilink">Bluetooth</a> 2.0 和 EDR</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無線網絡" title="wikilink">無線網絡</a></p></td>
+<td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort Extreme</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g</a>，<a href="../Page/以太网.md" title="wikilink">以太网</a>， <a href="https://zh.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a> 2.0 和 EDR</p></td>
 <td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort Extreme</a>，802.11a/b/g/n，以太网，Bluetooth 2.0 和 EDR</p></td>
 <td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort Extreme</a>，802.11a/b/g/n，以太网，Bluetooth 2.0 和 EDR</p></td>
 <td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort Extreme</a>，802.11a/b/g/n，以太网，Bluetooth 2.1 和 EDR</p></td>
@@ -211,8 +212,8 @@ MacBook在維修便利性方面，与它的前身 iBook
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td><p>2個 <a href="../Page/USB_2.0.md" title="wikilink">USB 2.0埠</a><br />
-1個 <a href="../Page/Firewire.md" title="wikilink">Firewire 400埠</a><br />
+<td><p>2個 <a href="https://zh.wikipedia.org/wiki/USB_2.0" title="wikilink">USB 2.0埠</a><br />
+1個 <a href="https://zh.wikipedia.org/wiki/Firewire" title="wikilink">Firewire 400埠</a><br />
 1個光纤数字/模拟音频输入<br />
 1個光纤数字/模拟音频输出</p></td>
 <td></td>
@@ -225,7 +226,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鏡頭.md" title="wikilink">鏡頭</a></p></td>
-<td><p><a href="../Page/iSight.md" title="wikilink">iSight 鏡頭</a> (640 × 480 0.3 MP)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight 鏡頭</a> (640 × 480 0.3 MP)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -246,7 +247,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/電池.md" title="wikilink">電池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a></p></td>
 <td><p>55-watt-hour removable lithium-polymer</p></td>
 <td></td>
 <td></td>
@@ -279,7 +280,7 @@ MacBook在維修便利性方面，与它的前身 iBook
 <td></td>
 </tr>
 <tr class="even">
-<td><p>可支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></p></td>
+<td><p>可支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></p></td>
 <td><p><a href="../Page/Mac_OS_X_Snow_Leopard.md" title="wikilink">OS X 10.6 Snow Leopard</a></p></td>
 <td><p><a href="../Page/Mac_OS_X_Lion.md" title="wikilink">OS X 10.7 Lion</a></p></td>
 <td><p><a href="../Page/OS_X_El_Capitan.md" title="wikilink">OS X El Capitan</a></p></td>
@@ -295,12 +296,12 @@ MacBook在維修便利性方面，与它的前身 iBook
 ## 第二代
 
 [Aluminium_MacBook.png](https://zh.wikipedia.org/wiki/File:Aluminium_MacBook.png "fig:Aluminium_MacBook.png")
-2008年10月14日，苹果公司宣布了第二代的MacBook，並配备了新的[nVidia芯片](../Page/nVidia.md "wikilink")。该芯片组配有1066
-MHz的[前端总线](../Page/前端总线.md "wikilink")，利用DDR3系统記憶體和[nVidia](../Page/nVidia.md "wikilink")
+2008年10月14日，苹果公司宣布了第二代的MacBook，並配备了新的[nVidia芯片](https://zh.wikipedia.org/wiki/nVidia "wikilink")。该芯片组配有1066
+MHz的[前端总线](../Page/前端总线.md "wikilink")，利用DDR3系统記憶體和[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
 [GeForce](../Page/GeForce.md "wikilink")
-9400M[顯示卡](../Page/顯示卡.md "wikilink")，比原来的MacBook的[英特尔芯片组快五倍](../Page/英特尔.md "wikilink")。其他的变化包括一个使用LED背光的显示器和无砷玻璃的LED背光灯，一个新的Mini
+9400M[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，比原来的MacBook的[英特尔芯片组快五倍](../Page/英特尔.md "wikilink")。其他的变化包括一个使用LED背光的显示器和无砷玻璃的LED背光灯，一个新的Mini
 DisplayPort端口（取代第一代的MacBook的Mini-DVI端口），多点玻璃触控板作为鼠标按钮，并取消了[FireWire
-400端口](../Page/FireWire.md "wikilink")。
+400端口](https://zh.wikipedia.org/wiki/FireWire "wikilink")。
 
 2009年6月Apple公司將其銀色外殼MacBook改名為13吋[MacBook
 Pro](../Page/MacBook_Pro.md "wikilink")。而白色的MacBook是當時唯一一款還在生產的MacBook。
@@ -338,27 +339,27 @@ Pro的设计上使用。这种設計比原来的第一代聚碳酸酯MacBook更�
 <td><p>MacBook5,1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顯示器.md" title="wikilink">顯示器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示器" title="wikilink">顯示器</a></p></td>
 <td><p>13.3-inch LED 顯示器，1280 × 800 解像度</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/前端總線.md" title="wikilink">前端總線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前端總線" title="wikilink">前端總線</a></p></td>
 <td><p>1066 MHz</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中央處理器.md" title="wikilink">中央處理器</a></p></td>
-<td><p>2.0 GHz 或 2.4 GHz <a href="../Page/Intel.md" title="wikilink">Intel</a> Core 2 Duo</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">中央處理器</a></p></td>
+<td><p>2.0 GHz 或 2.4 GHz <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> Core 2 Duo</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/記憶體.md" title="wikilink">記憶體</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a><br />
 </p></td>
 <td><p>2 GB<span style="color:#969696"><br />
 <em>可升級至8 GB</em><br />
 PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顯示卡.md" title="wikilink">顯示卡</a></p></td>
-<td><p><a href="../Page/nVidia.md" title="wikilink">nVidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 9400M，256 MB 與主機共享</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示卡" title="wikilink">顯示卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/nVidia" title="wikilink">nVidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 9400M，256 MB 與主機共享</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></p></td>
@@ -366,13 +367,13 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 <em>可選擇 320 GB HDD; 128 GB 或 256 GB SSD</em></span></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/光碟機.md" title="wikilink">光碟機</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光碟機" title="wikilink">光碟機</a></p></td>
 <td><p>燒錄：8× DVD±R, 4× DVD±R DL, 4× DVD±RW, 24× CD-R, 10× CD-RW<br />
 播放: 8× DVD±R, DVD-ROM, 6× DVD-ROM (double layer DVD-9), DVD±R DL, DVD±RW, 24× CD</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/無線網絡.md" title="wikilink">無線網絡</a></p></td>
-<td><p>整合 <a href="../Page/AirPort_Extreme.md" title="wikilink">AirPort Extreme</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/draft-n</a>，<a href="../Page/乙太網.md" title="wikilink">乙太網</a>， <a href="../Page/Bluetooth_2.1.md" title="wikilink">Bluetooth 2.1</a> 和 EDR</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無線網絡" title="wikilink">無線網絡</a></p></td>
+<td><p>整合 <a href="https://zh.wikipedia.org/wiki/AirPort_Extreme" title="wikilink">AirPort Extreme</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/draft-n</a>，<a href="https://zh.wikipedia.org/wiki/乙太網" title="wikilink">乙太網</a>， <a href="https://zh.wikipedia.org/wiki/Bluetooth_2.1" title="wikilink">Bluetooth 2.1</a> 和 EDR</p></td>
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
@@ -385,7 +386,7 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 <td><p><a href="../Page/Mini_DisplayPort.md" title="wikilink">Mini DisplayPort</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/電池.md" title="wikilink">電池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a></p></td>
 <td><p>45瓦特小時可拆開的鋰聚合物電池</p></td>
 </tr>
 <tr class="odd">
@@ -397,7 +398,7 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 <td><p>|  長 x  寬 x  厚</p></td>
 </tr>
 <tr class="odd">
-<td><p>可支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></p></td>
+<td><p>可支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></p></td>
 <td><p><a href="../Page/OS_X_El_Capitan.md" title="wikilink">OS X El Capitan</a></p></td>
 </tr>
 <tr class="even">
@@ -409,7 +410,7 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 
 ## 第三代
 
-2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](../Page/苹果公司.md "wikilink")，更快的DDR3[記憶體](../Page/記憶體.md "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](../Page/FireWire.md "wikilink")，但像13英寸的[MacBook
+2009年10月20日，[苹果公司发布了新的第三代聚碳酸酯一体式机身设计的MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，更快的DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，多点触摸触控板，一个LED背光显示屏，并内置7小时的电池。聚碳酸酯一体成型机身的MacBook，像它的上一代铝製機身，沒有[FireWire](https://zh.wikipedia.org/wiki/FireWire "wikilink")，但像13英寸的[MacBook
 Pro一樣](../Page/MacBook_Pro.md "wikilink")，設數碼/模擬音訊輸入/出端口。于2010年5月18日，MacBook被更新了，配置了更快的处理器，更快的显示卡，提高了电池的使用時間，并通过[Mini
 DisplayPort接口通过音频的能力](../Page/Mini_DisplayPort.md "wikilink")。
 
@@ -424,9 +425,9 @@ Pro的電池，可使用7小时，跟5小时的舊款機型相比。然而，在
 ### 停產
 
 隨著蘋果公司於2011年7月20日全面更新生産線，推出[OS X
-Lion和新的](../Page/OS_X_Lion.md "wikilink")[MacBook
+Lion和新的](https://zh.wikipedia.org/wiki/OS_X_Lion "wikilink")[MacBook
 Air及](../Page/MacBook_Air.md "wikilink")[Mac
-mini](../Page/Mac_mini.md "wikilink")，之前唯一還在生產銷售的白色MacBook正式從官方網站上消失，標誌著延續六年多的MacBook生産線全面取消及被多種規格的MacBook
+mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")，之前唯一還在生產銷售的白色MacBook正式從官方網站上消失，標誌著延續六年多的MacBook生産線全面取消及被多種規格的MacBook
 Pro及MacBook Air所取代。
 
 ### 技術規格
@@ -465,22 +466,22 @@ Pro及MacBook Air所取代。
 <td><p>MacBook7,1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/顯示器.md" title="wikilink">顯示器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示器" title="wikilink">顯示器</a></p></td>
 <td><p>13.3寸 LCD 顯示器，1280 × 800 解像度</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></td>
 <td><p>1066 MHz</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中央處理器.md" title="wikilink">中央處理器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">中央處理器</a></p></td>
 <td><p>2.26 GHz Intel Core 2 Duo</p></td>
 <td><p>2.4 GHz Intel Core 2 Duo</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/記憶體.md" title="wikilink">記憶體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></p></td>
 <td><p>2 GB</p></td>
 <td></td>
 </tr>
@@ -490,10 +491,10 @@ Pro及MacBook Air所取代。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顯示卡.md" title="wikilink">顯示卡</a></p></td>
-<td><p><a href="../Page/Nvidia.md" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 9400M，256 MB 與主記憶共享<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示卡" title="wikilink">顯示卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nvidia" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 9400M，256 MB 與主記憶共享<br />
 (up to 512 MB available in Windows through Boot Camp)</span></p></td>
-<td><p><a href="../Page/Nvidia.md" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 320M，256 MB 與主記憶共享</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nvidia" title="wikilink">Nvidia</a> <a href="../Page/GeForce.md" title="wikilink">GeForce</a> 320M，256 MB 與主記憶共享</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></p></td>
@@ -502,14 +503,14 @@ Pro及MacBook Air所取代。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/光驅.md" title="wikilink">光碟機</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光驅" title="wikilink">光碟機</a></p></td>
 <td><p>燒錄: 8× DVD±R, 4× DVD±R DL, 4× DVD±RW, 24× CD-R, 10× CD-RW<br />
 播放: 8× DVD±R, DVD-ROM, 6× DVD-ROM, DVD±R DL, DVD±RW, 24× CD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/無線網絡.md" title="wikilink">無線網絡</a></p></td>
-<td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n/</a>，<a href="../Page/以太網.md" title="wikilink">以太網</a>，<a href="../Page/Bluetooth_2.1.md" title="wikilink">Bluetooth 2.1</a> 及 EDR</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無線網絡" title="wikilink">無線網絡</a></p></td>
+<td><p>整合 <a href="../Page/AirPort.md" title="wikilink">AirPort</a>，<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n/</a>，<a href="https://zh.wikipedia.org/wiki/以太網" title="wikilink">以太網</a>，<a href="https://zh.wikipedia.org/wiki/Bluetooth_2.1" title="wikilink">Bluetooth 2.1</a> 及 EDR</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -520,7 +521,7 @@ Pro及MacBook Air所取代。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鏡頭.md" title="wikilink">鏡頭</a></p></td>
-<td><p><a href="../Page/iSight.md" title="wikilink">iSight 鏡頭</a> (640 × 480 0.3 MP)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight 鏡頭</a> (640 × 480 0.3 MP)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -531,7 +532,7 @@ Pro及MacBook Air所取代。
 <em>with Audio-out</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/電池.md" title="wikilink">電池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a></p></td>
 <td><p>60瓦特小時鋰聚合物電池</p></td>
 <td><p>63.5瓦特小時鋰聚合物電池</p></td>
 </tr>
@@ -546,8 +547,8 @@ Pro及MacBook Air所取代。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>可支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></p></td>
-<td><p><a href="../Page/:en:macOS_High_Sierra.md" title="wikilink">macOS High Sierra</a></p></td>
+<td><p>可支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:macOS_High_Sierra" title="wikilink">macOS High Sierra</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -572,11 +573,12 @@ Pro及MacBook Air所取代。
 
 ## 参见
 
-  - [Boot Camp](../Page/Boot_Camp.md "wikilink")
+  - [Boot Camp](https://zh.wikipedia.org/wiki/Boot_Camp "wikilink")
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")
-  - [蘋果電腦機種的比較](../Page/蘋果電腦機種的比較.md "wikilink")
-  - [MacBook (Retina顯示屏)](../Page/MacBook_\(Retina顯示屏\).md "wikilink")
+  - [蘋果電腦機種的比較](https://zh.wikipedia.org/wiki/蘋果電腦機種的比較 "wikilink")
+  - [MacBook
+    (Retina顯示屏)](https://zh.wikipedia.org/wiki/MacBook_\(Retina顯示屏\) "wikilink")
 
 {{-}}
 

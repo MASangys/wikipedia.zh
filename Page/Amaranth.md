@@ -1,11 +1,11 @@
 **Amaranth Advisors**為[Nicholas M.
-Maounis於公元](../Page/Nicholas_M._Maounis.md "wikilink")2000年創辦的[對沖基金](../Page/對沖基金.md "wikilink")，總部設在[康乃狄克州](../Page/康乃狄克州.md "wikilink")。
+Maounis於公元](https://zh.wikipedia.org/wiki/Nicholas_M._Maounis "wikilink")2000年創辦的[對沖基金](https://zh.wikipedia.org/wiki/對沖基金 "wikilink")，總部設在[康乃狄克州](../Page/康乃狄克州.md "wikilink")。
 
 ## 历史
 
-在2006年9月，其因為在[天然氣](../Page/天然氣.md "wikilink")[期貨合同的投資失利](../Page/期貨合同.md "wikilink")，致使單週內損失了約60億美元而變得聲名狼藉。其原來共管理著越90億美元的資產，但有報告指其將會有越六成五的損失\[1\]，因此可推算出其損失越60億美元。在2006年9月20日，[路透社報導指其欲將手上的能量投資組合轉移至第三方](../Page/路透社.md "wikilink")，而謠言指該第三方為[Citadel
+在2006年9月，其因為在[天然氣](https://zh.wikipedia.org/wiki/天然氣 "wikilink")[期貨合同的投資失利](https://zh.wikipedia.org/wiki/期貨合同 "wikilink")，致使單週內損失了約60億美元而變得聲名狼藉。其原來共管理著越90億美元的資產，但有報告指其將會有越六成五的損失\[1\]，因此可推算出其損失越60億美元。在2006年9月20日，[路透社報導指其欲將手上的能量投資組合轉移至第三方](../Page/路透社.md "wikilink")，而謠言指該第三方為[Citadel
 Investment
-Group](../Page/Citadel_Investment_Group.md "wikilink")\[2\]。雖然其損失並不像[避險基金](../Page/避險基金.md "wikilink")[長期資本管理公司](../Page/長期資本管理公司.md "wikilink")（LTCM）過去那次般影響整個金融市場，然而卻增加了要求[美国证券交易委员会](../Page/美国证券交易委员会.md "wikilink")（SEC）對對沖基金作出監管的壓力。在2006年9月29日，Amaranth的創辦人對所有持有該基金的投資者發了一封信，告訴其該基金已暫停運作。
+Group](https://zh.wikipedia.org/wiki/Citadel_Investment_Group "wikilink")\[2\]。雖然其損失並不像[避險基金](https://zh.wikipedia.org/wiki/避險基金 "wikilink")[長期資本管理公司](https://zh.wikipedia.org/wiki/長期資本管理公司 "wikilink")（LTCM）過去那次般影響整個金融市場，然而卻增加了要求[美国证券交易委员会](../Page/美国证券交易委员会.md "wikilink")（SEC）對對沖基金作出監管的壓力。在2006年9月29日，Amaranth的創辦人對所有持有該基金的投資者發了一封信，告訴其該基金已暫停運作。
 
 ## 參考資料
 

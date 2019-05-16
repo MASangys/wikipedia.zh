@@ -1,8 +1,8 @@
 **Radeon X1
-Series**（代号R520為X1800），是[ATi的一款顯示卡](../Page/ATi.md "wikilink")，以台積電0.09微米Low-k製程生產，支援DirectX
+Series**（代号R520為X1800），是[ATi的一款顯示卡](https://zh.wikipedia.org/wiki/ATi "wikilink")，以台積電0.09微米Low-k製程生產，支援DirectX
 9.0c。经过重新设计的Radeon X1 Series与前代Radeon X Series核心完全不相类似。Radeon X1
 Series亦支援ShaderModel
-3.0、HDR等技術，与对手[nVIDIA的同代产品平起平坐](../Page/nVIDIA.md "wikilink")。
+3.0、HDR等技術，与对手[nVIDIA的同代产品平起平坐](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")。
 
 ## 系列列表
 
@@ -25,7 +25,7 @@ Series亦支援ShaderModel
         6200，但也在 nVidia GeForce 6 系列變陣中被 6600 DDR2 擊敗
       - Radeon X1300 - 架構与X1300 Pro一样，只是时脈較低
 
-全系列均支援[CrossFire](../Page/CrossFire.md "wikilink")
+全系列均支援[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
 
 ## 繪圖核心
 
@@ -81,17 +81,18 @@ AA來達至最佳效果，不透明的話就用Multi-Sampling來取得最佳效�
       - 128-Bit Floating Point Precision
       - Adaptive Anto-Aliasing
       - High quality Anisotropic Filtering
-      - 新的[CrossFire技術](../Page/CrossFire.md "wikilink")
+      - 新的[CrossFire技術](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
       - 64Bit High Dynamic Range Rendering
-      - R520容許同時進行HDR及AA運算。[nVidia](../Page/nVidia.md "wikilink")
-        [GeForce 7則不能](../Page/GeForce_7.md "wikilink")。
+      - R520容許同時進行HDR及AA運算。[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
+        [GeForce
+        7則不能](https://zh.wikipedia.org/wiki/GeForce_7 "wikilink")。
   - 2D
       - 核心支援兩個DVI輸出
-      - [AVIVO](../Page/AVIVO.md "wikilink")
+      - [AVIVO](https://zh.wikipedia.org/wiki/AVIVO "wikilink")
 
 ## Radeon X19 Series
 
-為回應[nVidia的](../Page/nVidia.md "wikilink")[GeForce](../Page/GeForce.md "wikilink")
+為回應[nVidia的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[GeForce](../Page/GeForce.md "wikilink")
 7900系列，ATi推出Radeon X19 Series顯示卡对抗。像素处理单元數目大幅提升至48个。
 
 和X1800时代，ATI与NVIDIA平坐，甚至ATI略微颓势的情况不同，X1900时代与Geforce7对阵，ATI几乎占据全面优势，但持续时间不长便被NVIDIA
@@ -105,7 +106,7 @@ X1950XTX亦已推出。業內人士估計AMD將會取代ATi作為顯示卡品牌
 CrossFire和7950GX2 Quad SLI的測試可看出，ATI以双顯核擊敗了nVidia的四顯核，可得知Pixel
 Shader在遊戲的比重非常的大。
 
-[CrossFire方面](../Page/CrossFire.md "wikilink")，X1950Pro和X1650XT都內置了
+[CrossFire方面](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，X1950Pro和X1650XT都內置了
 Composting Engine，配置變得簡單，不再需要主卡和接線。
 
 與此同時，ATi亦發佈了數款新顯示卡：
@@ -133,7 +134,8 @@ Composting Engine，配置變得簡單，不再需要主卡和接線。
 ## Mobility版本
 
 架構与桌面版本相同，所有版本皆支援DirectX
-9.0c,OpenGL和[AVIVO](../Page/AVIVO.md "wikilink")。电源管理技术是PowerPlay 6.0。
+9.0c,OpenGL和[AVIVO](https://zh.wikipedia.org/wiki/AVIVO "wikilink")。电源管理技术是PowerPlay
+6.0。
 
   - X1700 -
   - X1450 - 支援HyperMemory

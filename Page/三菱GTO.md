@@ -1,6 +1,6 @@
 [Mitsubishi_GTO_patrol_car.jpg](https://zh.wikipedia.org/wiki/File:Mitsubishi_GTO_patrol_car.jpg "fig:Mitsubishi_GTO_patrol_car.jpg")警察的GTO警車。\]\]
 [Mitsubishi_GTO.jpg](https://zh.wikipedia.org/wiki/File:Mitsubishi_GTO.jpg "fig:Mitsubishi_GTO.jpg")
-**三菱GTO**，是[日本](../Page/日本.md "wikilink")[三菱汽車生產的私家車車款](../Page/三菱汽車.md "wikilink")，1990年登場，2001年停產，屬於[三菱Starion的後繼車](../Page/三菱Starion.md "wikilink")。
+**三菱GTO**，是[日本](../Page/日本.md "wikilink")[三菱汽車生產的私家車車款](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")，1990年登場，2001年停產，屬於[三菱Starion的後繼車](https://zh.wikipedia.org/wiki/三菱Starion "wikilink")。
 
 ## 簡介
 
@@ -14,9 +14,9 @@ BAG），並推出車身較輕的MR型（取消後輪轉向，配有BBS的18"鋁
 另有低階的LS與LT型，搭載自然進氣引擎，驅動方式為FF（前置前驅）。
 
 出口版稱為3000GT，頂級板VR-4將馬力提昇至320HP，另有配備電動硬頂的3000GT VR-4 SPYDER
-。同車款與[克萊斯勒汽車合作生產的車款稱為Dodge](../Page/克萊斯勒.md "wikilink")
-Stealth，[機械上相同但外型由克萊斯勒自己設計](../Page/機械.md "wikilink")。在北美上市時，3000GT
-VR-4與[豐田Supra](../Page/豐田Supra.md "wikilink")、[馬自達RX-7](../Page/馬自達RX-7.md "wikilink")、[本田NSX以及](../Page/本田NSX.md "wikilink")[日產300ZX被稱為東洋超跑五大天王](../Page/日產300ZX.md "wikilink")。
+。同車款與[克萊斯勒汽車合作生產的車款稱為Dodge](https://zh.wikipedia.org/wiki/克萊斯勒 "wikilink")
+Stealth，[機械上相同但外型由克萊斯勒自己設計](https://zh.wikipedia.org/wiki/機械 "wikilink")。在北美上市時，3000GT
+VR-4與[豐田Supra](../Page/豐田Supra.md "wikilink")、[馬自達RX-7](../Page/馬自達RX-7.md "wikilink")、[本田NSX以及](../Page/本田NSX.md "wikilink")[日產300ZX被稱為東洋超跑五大天王](https://zh.wikipedia.org/wiki/日產300ZX "wikilink")。
 
 GTO雖然有優秀的性能，但是電子設備可靠性低以及車身偏重，耗油量和輪胎損耗高也是一大弱項，與同門的Lancer
 Evolution相比無法取得許多大眾的心，其本身一直存在於Lancer

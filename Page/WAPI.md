@@ -5,12 +5,12 @@
 
 ## 技术细节
 
-WAPI起初是为了解决[WEP中的安全漏洞而诞生](../Page/WEP.md "wikilink")，主要由WAI（WLAN
+WAPI起初是为了解决[WEP中的安全漏洞而诞生](https://zh.wikipedia.org/wiki/WEP "wikilink")，主要由WAI（WLAN
 authentication infrastructure，无线局域网鉴别基础结构）和WPI（WLAN privacy
 infrastructure，无线局域网保密基础结构）两部分组成。WAI定义了无线局域网中身份鉴别和密钥管理的安全方案。WPI定义了[无线局域网中数据传输保护的安全方案](../Page/无线局域网.md "wikilink")，包括数据加密、鉴别和重放保护等。\[5\]
 
 WAPI标准中使用了[SM4分组密码算法](../Page/SM4.md "wikilink")（GM/T
-0002-2012，即原SMS4分组密码算法）\[6\]，[ECDSA椭圆曲线数字签名算法以及](../Page/ECDSA.md "wikilink")[ECDH密钥交换算法](../Page/ECDH.md "wikilink")。其中SM4分组密码算法由国家商用密码管理办公室发布。\[7\]根据不同的情况，也可以使用[AES来替代SM](../Page/AES.md "wikilink")4（草案JTC1/SC6/N14619）。
+0002-2012，即原SMS4分组密码算法）\[6\]，[ECDSA椭圆曲线数字签名算法以及](https://zh.wikipedia.org/wiki/ECDSA "wikilink")[ECDH密钥交换算法](https://zh.wikipedia.org/wiki/ECDH "wikilink")。其中SM4分组密码算法由国家商用密码管理办公室发布。\[7\]根据不同的情况，也可以使用[AES来替代SM](https://zh.wikipedia.org/wiki/AES "wikilink")4（草案JTC1/SC6/N14619）。
 
 ## 标准化情况
 
@@ -28,7 +28,7 @@ WAPI标准中使用了[SM4分组密码算法](../Page/SM4.md "wikilink")（GM/T
 
 ### ISO标准
 
-2006年3月，ISO通过[802.11i加密标准](../Page/802.11i.md "wikilink")，并驳回WAPI提案。2009年6月，中国重新提交WAPI标准申请，期間WAPI的基礎架構虎符TePA（Tri-Element
+2006年3月，ISO通过[802.11i加密标准](https://zh.wikipedia.org/wiki/802.11i "wikilink")，并驳回WAPI提案。2009年6月，中国重新提交WAPI标准申请，期間WAPI的基礎架構虎符TePA（Tri-Element
 Peer Authentication，三元对等鉴别）通過ISO認證（ISO/IEC 9798-3:1998/Amd
 1:2010）。\[9\]\[10\]\[11\]但实际上，ISO/IEC 9798-3:1998/Amd
 1:2010仅仅是ISO/IEC
@@ -36,7 +36,7 @@ Peer Authentication，三元对等鉴别）通過ISO認證（ISO/IEC 9798-3:1998
 
 ## WAPI的产业化情况
 
-2009年4月，中國政府實行WAPI標准，採用了“支援WAPI兼容WiFi”的方式，推行WAPI。\[12\]中國大陸市面上銷售的帶WLAN功能的[行貨手機均支援之](../Page/行貨.md "wikilink")。實際上由於WAPI和WiFi的硬件架構雷同，因此相當於WiFi開禁。\[13\]\[14\]
+2009年4月，中國政府實行WAPI標准，採用了“支援WAPI兼容WiFi”的方式，推行WAPI。\[12\]中國大陸市面上銷售的帶WLAN功能的[行貨手機均支援之](https://zh.wikipedia.org/wiki/行貨 "wikilink")。實際上由於WAPI和WiFi的硬件架構雷同，因此相當於WiFi開禁。\[13\]\[14\]
 
 兼容WiFi實際上是為了加快WAPI產業化成熟，而向IEEE做出的一種妥協。\[15\]
 
@@ -65,7 +65,7 @@ WAPI产业联盟成立于2006年3月7日。\[16\]
 
 ## 相关报道
 
-《[知识产权报](../Page/知识产权报.md "wikilink")》将其称为“中国的自主创新标准”,
+《[知识产权报](https://zh.wikipedia.org/wiki/知识产权报 "wikilink")》将其称为“中国的自主创新标准”,
 《知识产权报》写道，“技术独立，才有经济和政治上的独立"，"我们的企业从战略上被遏制，被标准制定者牵着鼻子走，因为他们掌握和控制着产业发展和升级的方向。因此，中国标准亟待‘自强’”\[20\]
 [新华社将其称为](../Page/新华社.md "wikilink")“中国自主创新的技术”，并称其“将进入国际市场”。\[21\]
 

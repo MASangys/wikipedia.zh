@@ -1,5 +1,5 @@
 **自回归滑动平均模型**（**A**uto**r**egressive **m**oving **a**verage
-model，簡稱：**ARMA模型**）。是研究[时间序列的重要方法](../Page/時間序列_\(經濟學\).md "wikilink")，由[自迴歸模型](../Page/自迴歸模型.md "wikilink")（简称AR模型）与[移动平均模型](../Page/移动平均模型.md "wikilink")（简称MA模型）为基础“混合”构成。在市场研究中常用于长期追踪资料的研究，如：[Panel研究中](../Page/Panel研究.md "wikilink")，用于消费行为模式变迁研究；在零售研究中，用于具有季节变动特征的销售量、市场规模的预测等。
+model，簡稱：**ARMA模型**）。是研究[时间序列的重要方法](https://zh.wikipedia.org/wiki/時間序列_\(經濟學\) "wikilink")，由[自迴歸模型](../Page/自迴歸模型.md "wikilink")（简称AR模型）与[移动平均模型](https://zh.wikipedia.org/wiki/移动平均模型 "wikilink")（简称MA模型）为基础“混合”构成。在市场研究中常用于长期追踪资料的研究，如：[Panel研究中](https://zh.wikipedia.org/wiki/Panel研究 "wikilink")，用于消费行为模式变迁研究；在零售研究中，用于具有季节变动特征的销售量、市场规模的预测等。
 
 ## 自回归AR(*p*)模型
 
@@ -24,7 +24,7 @@ ARMA(*p*,*q*)模型中包含了*p*個自回归项和*q*個移动平均项，ARMA
 
 \[\varepsilon_t = \left(1 - \sum_{i=1}^p \varphi_i L^i\right) X_t =  \varphi(L) X_t\,\]
 
-其中\(\varphi\)表示[多项式](../Page/多项式.md "wikilink")
+其中\(\varphi\)表示[多项式](https://zh.wikipedia.org/wiki/多项式 "wikilink")
 
 \[\varphi(L) = 1 - \sum_{i=1}^p \varphi_i L^i \,\]
 
@@ -32,7 +32,7 @@ MA(*q*)模型可以写成为：
 
 \[X_t = \left(1 + \sum_{i=1}^q \theta_i L^i\right) \varepsilon_t = \theta(L) \varepsilon_t\,\]
 
-其中θ 表示[多项式](../Page/多项式.md "wikilink")
+其中θ 表示[多项式](https://zh.wikipedia.org/wiki/多项式 "wikilink")
 
 \[\theta(L)= 1 + \sum_{i=1}^q \theta_i L^i \,\]
 

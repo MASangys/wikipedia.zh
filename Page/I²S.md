@@ -1,4 +1,4 @@
-**I²S**或**I2S**（或）是IC間傳輸數位音訊資料的一種介面標準，採用序列的方式傳輸2組（左右聲道）資料。I2S常被使用在傳送[CD的](../Page/CD.md "wikilink")[PCM音訊資料到CD播放器的](../Page/PCM.md "wikilink")[DAC中](../Page/數位類比轉換器.md "wikilink")。由於I2S將資料訊號和時脈訊號分開傳送，它的[抖动](../Page/抖动.md "wikilink")（）失真十分地小。
+**I²S**或**I2S**（或）是IC間傳輸數位音訊資料的一種介面標準，採用序列的方式傳輸2組（左右聲道）資料。I2S常被使用在傳送[CD的](../Page/CD.md "wikilink")[PCM音訊資料到CD播放器的](https://zh.wikipedia.org/wiki/PCM "wikilink")[DAC中](../Page/數位類比轉換器.md "wikilink")。由於I2S將資料訊號和時脈訊號分開傳送，它的[抖动](../Page/抖动.md "wikilink")（）失真十分地小。
 
 ## I2S歷史
 
@@ -38,11 +38,11 @@ Justified）則是資料比字元選擇時脈快一個位元時脈。
 
 ## 傳輸速度
 
-|                                      |                 |               |
-| ------------------------------------ | --------------- | ------------- |
-| [Audio CD](../Page/CD.md "wikilink") | 44,1 kHz·16 bit | 1.4112 MBit/s |
-| [DAT](../Page/DAT.md "wikilink")     | 48 kHz·16 bit   | 1.536 MBit/s  |
-| [SACD](../Page/SACD.md "wikilink")   | 96 kHz·24 bit   | 4.608 MBit/s  |
+|                                                       |                 |               |
+| ----------------------------------------------------- | --------------- | ------------- |
+| [Audio CD](../Page/CD.md "wikilink")                  | 44,1 kHz·16 bit | 1.4112 MBit/s |
+| [DAT](https://zh.wikipedia.org/wiki/DAT "wikilink")   | 48 kHz·16 bit   | 1.536 MBit/s  |
+| [SACD](https://zh.wikipedia.org/wiki/SACD "wikilink") | 96 kHz·24 bit   | 4.608 MBit/s  |
 
 ## 作为设备间的音频传输
 
@@ -59,8 +59,9 @@ Wyred4Sound 使用 HDMI 线缆。荷兰制造商 Van Medevoort 在它的器材�
 ## 參考連結
 
   - [I²C](../Page/I²C.md "wikilink")
-  - [SPI bus](../Page/Serial_Peripheral_Interface_Bus.md "wikilink")
-  - [S/PDIF](../Page/S/PDIF.md "wikilink")
+  - [SPI
+    bus](https://zh.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus "wikilink")
+  - [S/PDIF](https://zh.wikipedia.org/wiki/S/PDIF "wikilink")
   - [序列周邊介面](../Page/序列周邊介面.md "wikilink")
   - [AC97](../Page/AC97.md "wikilink")
   - [A Low Jitter, Consumer/Professional Digital Audio

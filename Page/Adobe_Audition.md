@@ -1,5 +1,5 @@
 **Adobe Audition**（前名為**Cool Edit
-Pro**），為Syntrillium出品的多音轨编辑工具，支持128条[音轨](../Page/音轨.md "wikilink")、多种音频特效、多种音频格式，可以很方便地对[音频](../Page/音频.md "wikilink")[文件进行修改](../Page/文件.md "wikilink")、合併。被[Adobe收购](../Page/Adobe.md "wikilink")，改名为Adobe
+Pro**），為Syntrillium出品的多音轨编辑工具，支持128条[音轨](https://zh.wikipedia.org/wiki/音轨 "wikilink")、多种音频特效、多种音频格式，可以很方便地对[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")[文件进行修改](https://zh.wikipedia.org/wiki/文件 "wikilink")、合併。被[Adobe收购](../Page/Adobe.md "wikilink")，改名为Adobe
 Audition。
 
 ## 版本
@@ -28,8 +28,8 @@ Audition第三版於2007年11月8日發佈。新功能包含VSTi（虛擬樂器�
 
 Adobe稱為滿足專業用家的要求，將重新推出Audition。Adobe Audition第四版在2011年4月11日于Adobe
 Creative Suite
-5.5中替代Soundbooth。它可以运行在[Windows和](../Page/Windows.md "wikilink")[Mac
-OS X上](../Page/Mac_OS_X.md "wikilink")。
+5.5中替代Soundbooth。它可以运行在[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+OS X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ### 第五版（CS6）
 

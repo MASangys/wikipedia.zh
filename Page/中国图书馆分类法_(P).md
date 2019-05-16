@@ -1,6 +1,6 @@
 ## 天文学、地球科学
 
-  - P1 [天文学](../Page/天文学.md "wikilink")
+  - P1 [天文学](https://zh.wikipedia.org/wiki/天文学 "wikilink")
 
 :\*P1-0 理论与方法论
 
@@ -10,11 +10,11 @@
 
 :\*P1-4 教育与普及
 
-:\*P11 [天文观测设备与观测资料](../Page/天文观测设备.md "wikilink")
+:\*P11 [天文观测设备与观测资料](https://zh.wikipedia.org/wiki/天文观测设备 "wikilink")
 
 :\*P12 [天体测量学](../Page/天体测量学.md "wikilink")
 
-:\*P13 [天体力学](../Page/天体力学.md "wikilink")
+:\*P13 [天体力学](https://zh.wikipedia.org/wiki/天体力学 "wikilink")
 
 :\*P14 [天体物理学](../Page/天体物理学.md "wikilink")
 
@@ -23,24 +23,24 @@
 ::\*P149 天体生物学
 
 :\*P15
-[恒星天文学](../Page/恒星天文学.md "wikilink")、[星系天文学](../Page/星系天文学.md "wikilink")、[宇宙学](../Page/宇宙学.md "wikilink")
+[恒星天文学](https://zh.wikipedia.org/wiki/恒星天文学 "wikilink")、[星系天文学](https://zh.wikipedia.org/wiki/星系天文学 "wikilink")、[宇宙学](../Page/宇宙学.md "wikilink")
 
 ::\*P159 [宇宙学](../Page/宇宙学.md "wikilink")
 
 :\*P16
-[射电天文学](../Page/射电天文学.md "wikilink")（[无线电天文学](../Page/无线电天文学.md "wikilink")）
+[射电天文学](../Page/射电天文学.md "wikilink")（[无线电天文学](https://zh.wikipedia.org/wiki/无线电天文学 "wikilink")）
 
-:\*P17 [空间天文学](../Page/空间天文学.md "wikilink")
+:\*P17 [空间天文学](https://zh.wikipedia.org/wiki/空间天文学 "wikilink")
 
-:\*P18 [太阳系](../Page/太阳系.md "wikilink")
+:\*P18 [太阳系](https://zh.wikipedia.org/wiki/太阳系 "wikilink")
 
 :\*P19 [时间](../Page/时间.md "wikilink")、[历法](../Page/历法.md "wikilink")
 
 ::\*P194 [历法](../Page/历法.md "wikilink")
 
-::\*P195 [历书](../Page/历书.md "wikilink")
+::\*P195 [历书](https://zh.wikipedia.org/wiki/历书 "wikilink")
 
-::\*P197 [天文年历](../Page/天文年历.md "wikilink")
+::\*P197 [天文年历](https://zh.wikipedia.org/wiki/天文年历 "wikilink")
 
   - P2 [测绘学](../Page/测绘学.md "wikilink")
 
@@ -68,7 +68,7 @@
 
 :\*P31 大地（岩石界）物理学（固体地球物理学）
 
-::\*P315 [地震学](../Page/地震学.md "wikilink")
+::\*P315 [地震学](https://zh.wikipedia.org/wiki/地震学 "wikilink")
 
 :\*P33 水文科学（水界物理学）
 
@@ -153,7 +153,7 @@
 
 :\*P79 军事海洋学
 
-  - P9 [自然地理学](../Page/自然地理学.md "wikilink")
+  - P9 [自然地理学](https://zh.wikipedia.org/wiki/自然地理学 "wikilink")
 
 :\*P90 一般理论与方法
 
@@ -161,19 +161,19 @@
 
 :\*P92 古地理学
 
-:\*P93 [部门自然地理学](../Page/部门自然地理学.md "wikilink")
+:\*P93 [部门自然地理学](https://zh.wikipedia.org/wiki/部门自然地理学 "wikilink")
 
-:\*P94 [区域自然地理学](../Page/区域自然地理学.md "wikilink")
+:\*P94 [区域自然地理学](https://zh.wikipedia.org/wiki/区域自然地理学 "wikilink")
 
 ::\*P951 环境地理学
 
 ::\*P954 灾害地理学
 
-:\*P96 [自然资源学](../Page/自然资源学.md "wikilink")
+:\*P96 [自然资源学](https://zh.wikipedia.org/wiki/自然资源学 "wikilink")
 
 :\*P97 地理探险与发现
 
-:\*P98 [自然地理图](../Page/自然地理图.md "wikilink")
+:\*P98 [自然地理图](https://zh.wikipedia.org/wiki/自然地理图 "wikilink")
 
 -----
 

@@ -1,4 +1,4 @@
-**digg**是一个以[科技为主的新闻站点](../Page/科技.md "wikilink")，用户可提交新闻予digg，通过digg机制显示於digg首页上。
+**digg**是一个以[科技为主的新闻站点](https://zh.wikipedia.org/wiki/科技 "wikilink")，用户可提交新闻予digg，通过digg机制显示於digg首页上。
 
 ## 网站
 
@@ -10,12 +10,12 @@
 
 ## 页面分类
 
-在目前版本中，文章可以分为6个大主题：[科技](../Page/科技.md "wikilink")、[科学](../Page/科学.md "wikilink")、[世界新闻](../Page/世界新闻.md "wikilink")、[影像](../Page/影像.md "wikilink")、[娱乐](../Page/娱乐.md "wikilink")、[游戏和](../Page/游戏.md "wikilink")[体育](../Page/体育.md "wikilink")。每个主题中也有小主题，例如科技可以分为[苹果公司](../Page/苹果公司.md "wikilink")、[软件](../Page/软件.md "wikilink")、[硬件](../Page/硬件.md "wikilink")、[unix](../Page/unix.md "wikilink")、[编程和安全等](../Page/编程.md "wikilink")。
+在目前版本中，文章可以分为6个大主题：[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[科学](../Page/科学.md "wikilink")、[世界新闻](https://zh.wikipedia.org/wiki/世界新闻 "wikilink")、[影像](https://zh.wikipedia.org/wiki/影像 "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[游戏和](../Page/游戏.md "wikilink")[体育](../Page/体育.md "wikilink")。每个主题中也有小主题，例如科技可以分为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[软件](../Page/软件.md "wikilink")、[硬件](../Page/硬件.md "wikilink")、[unix](https://zh.wikipedia.org/wiki/unix "wikilink")、[编程和安全等](https://zh.wikipedia.org/wiki/编程 "wikilink")。
 
 ## 参见
 
   - [Delicious](../Page/Delicious.md "wikilink")
-  - [社会化书签](../Page/社会化书签.md "wikilink")
+  - [社会化书签](https://zh.wikipedia.org/wiki/社会化书签 "wikilink")
   - [Voat](../Page/Voat.md "wikilink")
   - [Reddit](../Page/Reddit.md "wikilink")
 

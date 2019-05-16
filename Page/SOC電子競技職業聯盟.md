@@ -1,14 +1,14 @@
 **SOC電子競技職業聯盟**（**Special Operation
-Command**，縮寫**S.O.C**）成立於2003年10月5日，其成立的宗旨主要在於創造與提升[台灣地區整體](../Page/台灣.md "wikilink")[電玩與](../Page/電玩.md "wikilink")[電子競技環境](../Page/電子競技.md "wikilink")，提供所有電玩玩家一個整合各項電玩資訊與檔案的媒體平台，經歷多次改版與累積多次舉行賽事的經驗，目前已常態性於定期舉辦公開競賽，往後目標除了目前項目之競賽外，將比照世界電玩競技之趨勢與台灣區[電子競技之需求](../Page/電子競技.md "wikilink")，逐步加入其他相關項目。
+Command**，縮寫**S.O.C**）成立於2003年10月5日，其成立的宗旨主要在於創造與提升[台灣地區整體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電玩與](https://zh.wikipedia.org/wiki/電玩 "wikilink")[電子競技環境](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，提供所有電玩玩家一個整合各項電玩資訊與檔案的媒體平台，經歷多次改版與累積多次舉行賽事的經驗，目前已常態性於定期舉辦公開競賽，往後目標除了目前項目之競賽外，將比照世界電玩競技之趨勢與台灣區[電子競技之需求](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，逐步加入其他相關項目。
 
-SOC經歷台灣第二大[入口網站](../Page/入口網站.md "wikilink")[蕃薯藤簽合作](../Page/蕃薯藤.md "wikilink")，藉由入口網站的高曝光率而讓更多人瞭解甚至加入這新興的活動，未來將持續在此領域上結合更多相關產業諸如[ISP](../Page/ISP.md "wikilink")、[軟體](../Page/軟體.md "wikilink")、[硬體等廠商一同推動此產業各項活動](../Page/硬體.md "wikilink")。
+SOC經歷台灣第二大[入口網站](https://zh.wikipedia.org/wiki/入口網站 "wikilink")[蕃薯藤簽合作](../Page/蕃薯藤.md "wikilink")，藉由入口網站的高曝光率而讓更多人瞭解甚至加入這新興的活動，未來將持續在此領域上結合更多相關產業諸如[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")、[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")、[硬體等廠商一同推動此產業各項活動](https://zh.wikipedia.org/wiki/硬體 "wikilink")。
 
 ## 服務
 
   - 運作SOC網站。提供網站、遊戲資訊、檔案下載、社群討論和各項活動報導等内容。
   - 組織遊戲與賽事。包括：
       - 線上賽事，擁有完整線上報名機制，並可隨時擴充項目與規模。
-  - 活動企劃。整合網站、賽事、職業玩家，對於各項遊戲之規則、[Bug](../Page/Bug.md "wikilink")、架構，與時間流程的掌握專精。同時進行。軟硬體與活動整合行銷。
+  - 活動企劃。整合網站、賽事、職業玩家，對於各項遊戲之規則、[Bug](https://zh.wikipedia.org/wiki/Bug "wikilink")、架構，與時間流程的掌握專精。同時進行。軟硬體與活動整合行銷。
 
 ## 團隊經歷
 
@@ -34,7 +34,8 @@ SOC經歷台灣第二大[入口網站](../Page/入口網站.md "wikilink")[蕃�
   - 2006年5月 世紀帝國III線上Vol.2
   - 2006年4月 SOC第十三屆線上公開賽
   - 2006年6月 SOC第十四屆線上公開賽
-  - 2006年 彩虹3C資訊廣場死鬥競賽（[臺南](../Page/臺南.md "wikilink")）
+  - 2006年
+    彩虹3C資訊廣場死鬥競賽（[臺南](https://zh.wikipedia.org/wiki/臺南 "wikilink")）
   - 2006年8月 世紀帝國III線上Vol.3
   - 2006年9月 SOC第十五屆線上公開賽
   - 2006年 彩虹3C資訊廣場死鬥競賽（[臺北](../Page/臺北.md "wikilink")）

@@ -1,12 +1,12 @@
-**日月光华BBS**站，全称**复旦大学日月光华BBS**，成立于1996年，站名取自“复旦”校名出处《尚书大传·虞夏传》“日月光华，旦复旦兮”一句。拥有将近四百个版面，近八万个注册帐号，是[上海高校中最大的](../Page/上海.md "wikilink")[网站之一](../Page/网站.md "wikilink")，在[华东地区高校当中有一定的影响力](../Page/华东地区.md "wikilink")，最高在线人数曾超过万人。随着[人人网等](../Page/人人网.md "wikilink")[SNS网站的兴起](../Page/社交网络服务.md "wikilink")，目前日月光华BBS站的日平均上站人数已跌落至3000人左右\[1\]。
+**日月光华BBS**站，全称**复旦大学日月光华BBS**，成立于1996年，站名取自“复旦”校名出处《尚书大传·虞夏传》“日月光华，旦复旦兮”一句。拥有将近四百个版面，近八万个注册帐号，是[上海高校中最大的](https://zh.wikipedia.org/wiki/上海 "wikilink")[网站之一](https://zh.wikipedia.org/wiki/网站 "wikilink")，在[华东地区高校当中有一定的影响力](../Page/华东地区.md "wikilink")，最高在线人数曾超过万人。随着[人人网等](../Page/人人网.md "wikilink")[SNS网站的兴起](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，目前日月光华BBS站的日平均上站人数已跌落至3000人左右\[1\]。
 
 ## 历史
 
 ### 1996年
 
   - 4月19日，日月光华建站。
-  - 9月19日，因[钓鱼岛事件关闭](../Page/钓鱼岛.md "wikilink")。
-  - 10月30日，以[计算机系](../Page/计算机.md "wikilink")[电子公告牌之名重开](../Page/电子公告牌.md "wikilink")。
+  - 9月19日，因[钓鱼岛事件关闭](https://zh.wikipedia.org/wiki/钓鱼岛 "wikilink")。
+  - 10月30日，以[计算机系](https://zh.wikipedia.org/wiki/计算机 "wikilink")[电子公告牌之名重开](https://zh.wikipedia.org/wiki/电子公告牌 "wikilink")。
 
 ### 1997年
 
@@ -36,7 +36,7 @@
 
 ## 外部链接
 
-  - [bbs.fudan.edu.cn](http://bbs.fudan.edu.cn/)，[IP地址](../Page/IP.md "wikilink")：202.120.225.9或[bbs.fudan.sh.cn](http://bbs.fudan.sh.cn/)，[IP地址](../Page/IP.md "wikilink")：61.129.42.9
+  - [bbs.fudan.edu.cn](http://bbs.fudan.edu.cn/)，[IP地址](https://zh.wikipedia.org/wiki/IP "wikilink")：202.120.225.9或[bbs.fudan.sh.cn](http://bbs.fudan.sh.cn/)，[IP地址](https://zh.wikipedia.org/wiki/IP "wikilink")：61.129.42.9
 
 {{-}}
 

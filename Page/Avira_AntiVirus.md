@@ -1,6 +1,7 @@
 **Avira
-AntiVirus**，非官方中文俗称“**小红伞**”，是由來自[德國](../Page/德國.md "wikilink")「Avira
-Operations GmbH & Co. KG」公司所開發的[防毒軟體](../Page/防毒軟體.md "wikilink")。「Avira
+AntiVirus**，非官方中文俗称“**小红伞**”，是由來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")「Avira
+Operations GmbH & Co.
+KG」公司所開發的[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。「Avira
 Operations GmbH & Co. KG」前身為1988年成立的「H+BEDV Datentechnik GmbH」。 於 2004
 年，「H+BEDV Datentechnik GmbH」開發的「AntiVir」首次榮獲 VB100% 獎項。在 2006
 年，為增加全球化銷售，原公司「H+BEDV Datentechnik GmbH」與「Avira
@@ -19,7 +20,7 @@ Windows和Linux(Unix)、Mac用戶，付費版本的Avira主要給企業和專業
 <!-- end list -->
 
 1.  免費版的部份僅提供︰個人、[家庭和非營利組織使用](../Page/家庭.md "wikilink")。
-2.  商業版的部份則是提供︰專業用戶、企業用戶之[商業性使用](../Page/商業.md "wikilink")。
+2.  商業版的部份則是提供︰專業用戶、企業用戶之[商業性使用](https://zh.wikipedia.org/wiki/商業 "wikilink")。
 
 <!-- end list -->
 
@@ -39,8 +40,8 @@ Windows和Linux(Unix)、Mac用戶，付費版本的Avira主要給企業和專業
 
 <!-- end list -->
 
-1.  自由允許家庭和非營利組織使用者[免費使用與更新](../Page/免費.md "wikilink")。
-2.  只供個人、[家庭和非營利組織使用](../Page/家庭.md "wikilink")，而[商業性使用是不合法的](../Page/商業.md "wikilink")。
+1.  自由允許家庭和非營利組織使用者[免費使用與更新](https://zh.wikipedia.org/wiki/免費 "wikilink")。
+2.  只供個人、[家庭和非營利組織使用](../Page/家庭.md "wikilink")，而[商業性使用是不合法的](https://zh.wikipedia.org/wiki/商業 "wikilink")。
 
 <!-- end list -->
 
@@ -62,7 +63,8 @@ Windows和Linux(Unix)、Mac用戶，付費版本的Avira主要給企業和專業
 1.  網站信譽評級
 2.  搜尋結果安全評級
 
-2.更完整的追蹤保護 (基於[abine的DNT技術提供](../Page/abine.md "wikilink"))
+2.更完整的追蹤保護
+(基於[abine的DNT技術提供](https://zh.wikipedia.org/wiki/abine "wikilink"))
 3.瀏覽購物網站時提供相同物件但更優惠的價格
 
 注意：
@@ -164,7 +166,7 @@ Android 收費版額外提供以下功能：
 4.  遠端即時定位你的手機
 5.  遠端擦除個人SIM卡，格式化手機所有儲存空間，甚至重設回原廠設定。
 6.  發出強烈警報聲音
-7.  遠端以自訂[PIN碼鎖上手機](../Page/PIN碼.md "wikilink")
+7.  遠端以自訂[PIN碼鎖上手機](https://zh.wikipedia.org/wiki/PIN碼 "wikilink")
 
 注：Avira Android Security 目前没有中文語言
 

@@ -1,4 +1,4 @@
-**維沃移動通-{}-信有限公司**（通称：**vivo**）中国科技公司，為一行動裝置開發公司，隸屬於[廣東](../Page/廣東.md "wikilink")[步步高電子集團](../Page/步步高電子.md "wikilink")\[1\]。vivo原是步步高電子的開發行動裝置部門，負責手機業務。
+**維沃移動通-{}-信有限公司**（通称：**vivo**）中国科技公司，為一行動裝置開發公司，隸屬於[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[步步高電子集團](https://zh.wikipedia.org/wiki/步步高電子 "wikilink")\[1\]。vivo原是步步高電子的開發行動裝置部門，負責手機業務。
 
 ## 事件
 
@@ -7,7 +7,7 @@
   - 2012年11月 ，Vivo發布智能手機Vivo X1。
   - 2013年5月，Vivo發布智能手機Vivo Xplay。
   - 2013年4月，Vivo推出基於[Android深度定制的系統](../Page/Android.md "wikilink")[Funtouch
-    OS](../Page/Funtouch_OS.md "wikilink")。
+    OS](https://zh.wikipedia.org/wiki/Funtouch_OS "wikilink")。
   - 2013年12月，Vivo發布智能手機Vivo Xplay3S。
   - 2014年5月，Vivo發布智能手機Vivo Xshot，同時進軍海外市場。
   - 2014年12月，Vivo發布智能手機Vivo X5Max。
@@ -21,10 +21,11 @@
   - 2018年1月，Vivo在美国[CES消費電子展上展出了与](../Page/消費電子展.md "wikilink")[Synaptics合作的全球第一款](../Page/Synaptics.md "wikilink")“屏幕下指纹识别”手机Vivo
     X20 Plus\[2\]。
   - 2018年3月19日，Vivo在中国发布智能手机X21。
-  - 2018年6月12日，Vivo在中国发布智能手机[vivo NEX](../Page/vivo_NEX.md "wikilink")。
+  - 2018年6月12日，Vivo在中国发布智能手机[vivo
+    NEX](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")。
   - 2018年9月6日，vivo在中国发布智能手机X23.
   - 2018年12月11日，vivo在中国发布智能手机NEX 双屏版。
-  - 2019年3月1日，Vivo旗下子品牌[iQOO发布智能手机Vivo](../Page/Vivo_iQOO.md "wikilink")
+  - 2019年3月1日，Vivo旗下子品牌[iQOO发布智能手机Vivo](https://zh.wikipedia.org/wiki/Vivo_iQOO "wikilink")
     iQOO。
 
 ## 全球市场
@@ -33,7 +34,7 @@
 
 2014年1月17日，vivo国际官方网站正式上线。\[3\]
 
-2018年與[國際足球協會簽約](../Page/國際足球協會.md "wikilink")，成為[2018年FIFA世界盃官方指定智能手機](../Page/2018年FIFA世界盃.md "wikilink")\[4\]。
+2018年與[國際足球協會簽約](https://zh.wikipedia.org/wiki/國際足球協會 "wikilink")，成為[2018年FIFA世界盃官方指定智能手機](https://zh.wikipedia.org/wiki/2018年FIFA世界盃 "wikilink")\[4\]。
 
 ### 泰国
 
@@ -79,46 +80,47 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
 ## 產品列表
 
   - Y系列
-      - [vivo Y51](../Page/vivo_Y51.md "wikilink")
-      - [vivo Y53](../Page/vivo_Y53.md "wikilink")
-      - [vivo Y55](../Page/vivo_Y55.md "wikilink")
-      - [vivo Y67](../Page/vivo_Y67.md "wikilink")
-      - [vivo Y66](../Page/vivo_Y66.md "wikilink")
-      - [vivo Y71](../Page/vivo_Y71.md "wikilink")
-      - [vivo Y79](../Page/vivo_Y79.md "wikilink")
-      - [vivo Y75](../Page/vivo_Y75.md "wikilink")
-      - [vivo Y81s](../Page/vivo_Y81s.md "wikilink")
-      - [vivo Y83](../Page/vivo_Y83.md "wikilink")
-      - [vivo Y85](../Page/vivo_Y85.md "wikilink")
-      - [vivo Y91](../Page/vivo_Y91.md "wikilink")
-      - [vivo Y93](../Page/vivo_Y93.md "wikilink")
-      - [vivo Y95](../Page/vivo_Y95.md "wikilink")
+      - [vivo Y51](https://zh.wikipedia.org/wiki/vivo_Y51 "wikilink")
+      - [vivo Y53](https://zh.wikipedia.org/wiki/vivo_Y53 "wikilink")
+      - [vivo Y55](https://zh.wikipedia.org/wiki/vivo_Y55 "wikilink")
+      - [vivo Y67](https://zh.wikipedia.org/wiki/vivo_Y67 "wikilink")
+      - [vivo Y66](https://zh.wikipedia.org/wiki/vivo_Y66 "wikilink")
+      - [vivo Y71](https://zh.wikipedia.org/wiki/vivo_Y71 "wikilink")
+      - [vivo Y79](https://zh.wikipedia.org/wiki/vivo_Y79 "wikilink")
+      - [vivo Y75](https://zh.wikipedia.org/wiki/vivo_Y75 "wikilink")
+      - [vivo Y81s](https://zh.wikipedia.org/wiki/vivo_Y81s "wikilink")
+      - [vivo Y83](https://zh.wikipedia.org/wiki/vivo_Y83 "wikilink")
+      - [vivo Y85](https://zh.wikipedia.org/wiki/vivo_Y85 "wikilink")
+      - [vivo Y91](https://zh.wikipedia.org/wiki/vivo_Y91 "wikilink")
+      - [vivo Y93](https://zh.wikipedia.org/wiki/vivo_Y93 "wikilink")
+      - [vivo Y95](https://zh.wikipedia.org/wiki/vivo_Y95 "wikilink")
   - V系列
-      - [vivo V7](../Page/vivo_V7.md "wikilink")
-      - [vivo V9](../Page/vivo_V9.md "wikilink")
-      - [vivo V11](../Page/vivo_V11.md "wikilink")
-      - [vivo V15](../Page/vivo_V15.md "wikilink")
+      - [vivo V7](https://zh.wikipedia.org/wiki/vivo_V7 "wikilink")
+      - [vivo V9](https://zh.wikipedia.org/wiki/vivo_V9 "wikilink")
+      - [vivo V11](https://zh.wikipedia.org/wiki/vivo_V11 "wikilink")
+      - [vivo V15](https://zh.wikipedia.org/wiki/vivo_V15 "wikilink")
   - X系列
-      - [vivo X1](../Page/vivo_X1.md "wikilink")
-      - [vivo X3](../Page/vivo_X3.md "wikilink")
-      - [vivo X5](../Page/vivo_X5.md "wikilink")
-      - [vivo X6](../Page/vivo_X6.md "wikilink")
-      - [vivo X7](../Page/vivo_X7.md "wikilink")
-      - [vivo X9](../Page/vivo_X9.md "wikilink")
-      - [vivo X20](../Page/vivo_X20.md "wikilink")
-      - [vivo X21](../Page/vivo_X21.md "wikilink")
-      - [vivo X23](../Page/vivo_X23.md "wikilink")
-      - [vivo X27](../Page/vivo_X27.md "wikilink")
+      - [vivo X1](https://zh.wikipedia.org/wiki/vivo_X1 "wikilink")
+      - [vivo X3](https://zh.wikipedia.org/wiki/vivo_X3 "wikilink")
+      - [vivo X5](https://zh.wikipedia.org/wiki/vivo_X5 "wikilink")
+      - [vivo X6](https://zh.wikipedia.org/wiki/vivo_X6 "wikilink")
+      - [vivo X7](https://zh.wikipedia.org/wiki/vivo_X7 "wikilink")
+      - [vivo X9](https://zh.wikipedia.org/wiki/vivo_X9 "wikilink")
+      - [vivo X20](https://zh.wikipedia.org/wiki/vivo_X20 "wikilink")
+      - [vivo X21](https://zh.wikipedia.org/wiki/vivo_X21 "wikilink")
+      - [vivo X23](https://zh.wikipedia.org/wiki/vivo_X23 "wikilink")
+      - [vivo X27](https://zh.wikipedia.org/wiki/vivo_X27 "wikilink")
   - Z系列
-      - [vivo Z1](../Page/vivo_Z1.md "wikilink")
-      - [vivo Z3](../Page/vivo_Z3.md "wikilink")
+      - [vivo Z1](https://zh.wikipedia.org/wiki/vivo_Z1 "wikilink")
+      - [vivo Z3](https://zh.wikipedia.org/wiki/vivo_Z3 "wikilink")
   - S系列
-      - [vivo S1](../Page/vivo_S1.md "wikilink")
+      - [vivo S1](https://zh.wikipedia.org/wiki/vivo_S1 "wikilink")
   - NEX系列
-      - [vivo NEX](../Page/vivo_NEX.md "wikilink")
-      - [vivo NEX 雙屏版](../Page/vivo_NEX_雙屏版.md "wikilink")
+      - [vivo NEX](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")
+      - [vivo NEX
+        雙屏版](https://zh.wikipedia.org/wiki/vivo_NEX_雙屏版 "wikilink")
   - iQOO
-      - [vivo iQOO](../Page/vivo_iQOO.md "wikilink")
+      - [vivo iQOO](https://zh.wikipedia.org/wiki/vivo_iQOO "wikilink")
 
 ## 參考文獻
 

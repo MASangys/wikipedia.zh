@@ -1,12 +1,12 @@
-**Nuva**语言是一种[面向对象的](../Page/面向对象.md "wikilink")[动态](../Page/型態系統.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")。Nuva对应汉语的「[女娲](../Page/女娲.md "wikilink")」（[中国](../Page/中国.md "wikilink")[上古时代的神话传说人物](../Page/上古时代.md "wikilink")）一词。
+**Nuva**语言是一种[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[动态](https://zh.wikipedia.org/wiki/型態系統 "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")。Nuva对应汉语的「[女娲](../Page/女娲.md "wikilink")」（[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上古时代的神话传说人物](https://zh.wikipedia.org/wiki/上古时代 "wikilink")）一词。
 
 ## 设计目的
 
-设计目的是用于基于模板的代码生成。除了用于代码生成领域外，也能用于开发应用程序，如文本和数据处理、[GUI应用程序等](../Page/GUI.md "wikilink")。
+设计目的是用于基于模板的代码生成。除了用于代码生成领域外，也能用于开发应用程序，如文本和数据处理、[GUI应用程序等](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 
 ## 特点
 
-  - 语法简单灵活：采用类似[虛擬碼](../Page/虛擬碼.md "wikilink")[演算法](../Page/演算法.md "wikilink")/[伪码的语法风格](../Page/伪码.md "wikilink")，结构之间可以任意嵌套，关键字和运算符兼容大部分现有的编程语言，非常容易学习。
+  - 语法简单灵活：采用类似[虛擬碼](https://zh.wikipedia.org/wiki/虛擬碼 "wikilink")[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")/[伪码的语法风格](https://zh.wikipedia.org/wiki/伪码 "wikilink")，结构之间可以任意嵌套，关键字和运算符兼容大部分现有的编程语言，非常容易学习。
 
 <!-- end list -->
 

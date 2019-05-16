@@ -1,12 +1,12 @@
-**ErrorSafe**是一個透過[互聯網廣告而安裝在用戶電腦的](../Page/互聯網.md "wikilink")[間諜軟件](../Page/間諜軟件.md "wikilink")。由於它在網上已臭名昭著，所以經常以不同的名稱發行，例如：**WinFixer**或**WinAntiVirus**
+**ErrorSafe**是一個透過[互聯網廣告而安裝在用戶電腦的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[間諜軟件](https://zh.wikipedia.org/wiki/間諜軟件 "wikilink")。由於它在網上已臭名昭著，所以經常以不同的名稱發行，例如：**WinFixer**或**WinAntiVirus**
 。從2005年開始，這產品亦積極國際化，透過低成本的翻譯而製作其他語言的版本，以提高其市場「佔有率」。這軟件現時在網上的「強逼安裝」廣告，已被著名掃毒軟件[Kaspersky
-Anti-Virus界別為](../Page/Kaspersky_Anti-Virus.md "wikilink")[木馬程式](../Page/木馬程式.md "wikilink")\[1\]。
+Anti-Virus界別為](https://zh.wikipedia.org/wiki/Kaspersky_Anti-Virus "wikilink")[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")\[1\]。
 
 ## WinFixer
 
-**WinFixer**是ErrorSafe的元祖，其程式碼差不多完全相同。它聲稱可以解決電腦系統的多個普遍常見問題，但總是在用戶透過瀏覽載有它的廣告的網頁時安裝，或靜悄悄的下載了，停留在Windows的臨時檔案目錄裡。有電腦專家指，這程式透過Windows的[SysProtect指量而進行](../Page/SysProtect.md "wikilink")[強制安裝](../Page/強制安裝.md "wikilink")。它在「問候」用戶電腦時顯示一個錯誤的資訊，從而使用戶錯誤的以為他們的電腦被[病毒](../Page/病毒.md "wikilink")、[間諜軟體或](../Page/間諜軟體.md "wikilink")[惡意軟體所感染](../Page/惡意軟體.md "wikilink")。它會彈出一個系統通知從而使用戶確信他們的電腦出了什麼毛病或運行了一個錯誤的診斷程式。
+**WinFixer**是ErrorSafe的元祖，其程式碼差不多完全相同。它聲稱可以解決電腦系統的多個普遍常見問題，但總是在用戶透過瀏覽載有它的廣告的網頁時安裝，或靜悄悄的下載了，停留在Windows的臨時檔案目錄裡。有電腦專家指，這程式透過Windows的[SysProtect指量而進行](https://zh.wikipedia.org/wiki/SysProtect "wikilink")[強制安裝](https://zh.wikipedia.org/wiki/強制安裝 "wikilink")。它在「問候」用戶電腦時顯示一個錯誤的資訊，從而使用戶錯誤的以為他們的電腦被[病毒](../Page/病毒.md "wikilink")、[間諜軟體或](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")[惡意軟體所感染](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")。它會彈出一個系統通知從而使用戶確信他們的電腦出了什麼毛病或運行了一個錯誤的診斷程式。
 
-由於這些原因，**WinFixer**和它的姊妹程式被認為是[間諜軟體或](../Page/間諜軟體.md "wikilink")[惡意軟體](../Page/惡意軟體.md "wikilink")。但是，它的帶有誤導資訊的彈出視窗和強制安裝映射出了很多[間諜軟體的](../Page/間諜軟體.md "wikilink")「市場行銷」策略。部分被這個程式感染的電腦會運行速度變慢。
+由於這些原因，**WinFixer**和它的姊妹程式被認為是[間諜軟體或](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")[惡意軟體](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")。但是，它的帶有誤導資訊的彈出視窗和強制安裝映射出了很多[間諜軟體的](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")「市場行銷」策略。部分被這個程式感染的電腦會運行速度變慢。
 
 ### WinFixer的聲明
 
@@ -17,13 +17,13 @@ Anti-Virus界別為](../Page/Kaspersky_Anti-Virus.md "wikilink")[木馬程式](.
 
 ## 感染途徑
 
-WinFixer感染電腦的途徑有很多。一般來說，大多數用戶都是使用[微軟的](../Page/微軟.md "wikilink")[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")，但亦有部份受害者使用的瀏覽器是[Firefox或](../Page/Firefox.md "wikilink")[Opera](../Page/Opera.md "wikilink")。亦有報告指被感染電腦的[光碟機會失效](../Page/光碟機.md "wikilink")。
+WinFixer感染電腦的途徑有很多。一般來說，大多數用戶都是使用[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet
+Explorer](../Page/Internet_Explorer.md "wikilink")，但亦有部份受害者使用的瀏覽器是[Firefox或](../Page/Firefox.md "wikilink")[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")。亦有報告指被感染電腦的[光碟機會失效](https://zh.wikipedia.org/wiki/光碟機 "wikilink")。
 
 ### 感染形式
 
 感染通常出現於以[Internet
-Explorer訪問其分發網站](../Page/Internet_Explorer.md "wikilink")（不必然是wubfixer.com）。彈出的[訊息方塊詢問使用者是否安裝WinFixer](../Page/訊息方塊.md "wikilink")。
+Explorer訪問其分發網站](../Page/Internet_Explorer.md "wikilink")（不必然是wubfixer.com）。彈出的[訊息方塊詢問使用者是否安裝WinFixer](https://zh.wikipedia.org/wiki/訊息方塊 "wikilink")。
 
 [Winfixer-message.png](https://zh.wikipedia.org/wiki/File:Winfixer-message.png "fig:Winfixer-message.png")
 
@@ -32,7 +32,7 @@ Explorer應用程式，因此不會出現於Windows工作管理員（Ctrl+Alt+De
 
 ## 參看
 
-  - [ErrorGuard](../Page/ErrorGuard.md "wikilink")
+  - [ErrorGuard](https://zh.wikipedia.org/wiki/ErrorGuard "wikilink")
 
 ## 參考
 

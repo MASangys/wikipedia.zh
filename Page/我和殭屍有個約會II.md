@@ -1,4 +1,4 @@
-《**我和殭屍有個約會II**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視拍攝製作的時裝奇幻](../Page/亞洲電視.md "wikilink")[劇集](../Page/劇集.md "wikilink")，全劇共43集，監製[冼志偉](../Page/冼志偉.md "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第二部，於1999年製作，2000年首播。大結局更打破無綫[慣性收視的規律](../Page/慣性收視.md "wikilink")，平均收視20點，最高更達22點，取得六成收視。主題曲《假如真的再有約會》更成為粵語流行經典作品，而[無綫電視更於](../Page/無綫電視.md "wikilink")2014年的電視劇《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》翻唱這首歌作為電視劇插曲。
+《**我和殭屍有個約會II**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視拍攝製作的時裝奇幻](../Page/亞洲電視.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共43集，監製[冼志偉](../Page/冼志偉.md "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第二部，於1999年製作，2000年首播。大結局更打破無綫[慣性收視的規律](../Page/慣性收視.md "wikilink")，平均收視20點，最高更達22點，取得六成收視。主題曲《假如真的再有約會》更成為粵語流行經典作品，而[無綫電視更於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014年的電視劇《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》翻唱這首歌作為電視劇插曲。
 
 ## 內容簡介
 
@@ -107,12 +107,12 @@
 <p>因在萬物混沌時早已降臨世界，所以亦無人間種種正邪生死善惡的觀念。雖為殭屍真祖，但不用像人類成為殭屍般吸血維生，因生性純真，其把人類變成殭屍其實是為了救人，所以億萬年來只咬過五人，分別是：奇諾（<a href="../Page/徐福.md" title="wikilink">徐福</a>）、李維斯（烏鴉）、何復生、況國華（天佑）、司徒奮仁、 山本一夫。</p>
 <p>認為生命對其最重要的人有三人，分別是：女媧、況國華、馬叮噹。</p>
 <p>六十年前為救回被自己重創的況國華和何復生，於是將二人變成殭屍，看見況國華變成殭屍後要離開摯愛，不解為何救了一個人會換來痛苦的生離死別，於是決定步入紅塵人世，體會七情六慾，自此過了六十年人類生活。</p>
-<p>在大學時化名姜真祖，認識了馬叮噹，二人互生情愫，令他明白自己對著女媧的感情就是人世間的愛情。在和馬丹娜與馬叮噹一戰之中，馬叮噹不忍下手，謊稱自己已經哭過，放走了將臣。由於將臣感到心中有愧，於是答應了馬叮噹的三個要求。當女媧重返人間，將臣為了馬叮噹，於是盡自己最大努力希望令女媧改變滅世的初衷。無奈事與願違，當得悉阻止<a href="../Page/女媧.md" title="wikilink">女媧唯一的辦法便是消滅女媧的元神</a>，將臣痛苦異常，在無奈的情況下忍痛逼卻自己下手殺死馬叮噹，思想從此陷入瘋狂的崩潰邊緣。後來為救回被馬叮噹重創的女媧，以血印控制五色使者與司徒奮仁，吩咐其不斷殺人，收集人類靈魂來救贖女媧。同時不斷殺害況天佑身邊的朋友以激發他的潛力，希冀況天佑能以勢均力敵的身份來與自己一戰。 最後在明日口中知道原來自己是盤古族人的一員，本來任務就是監察女媧和阻止女媧的滅世舉動。可惜將臣已深深愛上女媧，亦決心要與盤古族為敵，並與況天佑展開最後一戰，最後被況天佑擊敗，並自願跟隨明日返回盤古族。</p></td>
+<p>在大學時化名姜真祖，認識了馬叮噹，二人互生情愫，令他明白自己對著女媧的感情就是人世間的愛情。在和馬丹娜與馬叮噹一戰之中，馬叮噹不忍下手，謊稱自己已經哭過，放走了將臣。由於將臣感到心中有愧，於是答應了馬叮噹的三個要求。當女媧重返人間，將臣為了馬叮噹，於是盡自己最大努力希望令女媧改變滅世的初衷。無奈事與願違，當得悉阻止<a href="https://zh.wikipedia.org/wiki/女媧" title="wikilink">女媧唯一的辦法便是消滅女媧的元神</a>，將臣痛苦異常，在無奈的情況下忍痛逼卻自己下手殺死馬叮噹，思想從此陷入瘋狂的崩潰邊緣。後來為救回被馬叮噹重創的女媧，以血印控制五色使者與司徒奮仁，吩咐其不斷殺人，收集人類靈魂來救贖女媧。同時不斷殺害況天佑身邊的朋友以激發他的潛力，希冀況天佑能以勢均力敵的身份來與自己一戰。 最後在明日口中知道原來自己是盤古族人的一員，本來任務就是監察女媧和阻止女媧的滅世舉動。可惜將臣已深深愛上女媧，亦決心要與盤古族為敵，並與況天佑展開最後一戰，最後被況天佑擊敗，並自願跟隨明日返回盤古族。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃卓玲.md" title="wikilink">黃卓玲</a><br />
-（配音：<a href="../Page/曾佩儀.md" title="wikilink">曾佩儀</a>）</p></td>
-<td><p><a href="../Page/女媧.md" title="wikilink">女媧</a></p></td>
+（配音：<a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女媧" title="wikilink">女媧</a></p></td>
 <td><p>大地之母，乃天外天之大神；深愛著將臣。看見自己所創造的人類步向醜惡而決定滅世重生，而滅世的方法就是隕石撞地球，但後來都不清楚滅世是對或錯，自己也不能阻止，阻止滅世的方法就是消滅自己的元神。其後被馬叮噹用伏魔劍刺中昏迷，但將臣因為悲憤而以血印控制司徒奮仁及五色使者到處殺人以收集靈魂救醒自己。醒後因知道將臣的所為而感到心痛、後悔，於是放棄滅世，並自願被況天佑擊殺，死在被天佑重創的將臣懷裡。後來因天佑與馬小玲聯手以盤古弓射出以愛的力量幻化而成的箭摧毀滅世殞石，其附在殞石內沉睡的真身亦一同被消滅。</p></td>
 </tr>
 <tr class="odd">
@@ -173,12 +173,12 @@
 <p>因未出生時其母金未來沒有吸足夠的血使其營養不良，故出生後不僅沒有頭髮，而且患有急速衰老症，僅得數月壽命，一個月大的時候身體已長大成為成年人的模樣。由於是魔星的緣故，所以擁有極高的智商，未出生時已可與母親金未來交談。金未來曾在分娩時欲殺尼諾，所以尼諾出生後依然憎恨著未來。實力非一般殭屍可以比擬，連身為將臣之後的烏鴉和徐福也並非其敵手，潛力驚人，甚至能威脅將臣和女媧。 盤古族的守墓者，使命是開啟盤古墓。 驚人的智商使其破解聖經密碼並找到開啟盤古墓對付女媧的方法。最後放棄抵抗，死於將臣手上。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜汶澤.md" title="wikilink">杜汶澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
 <td><p>金正中</p></td>
-<td><p>馬小玲的徒弟；金未來的契表姨甥。愛上過女鬼貞子。後期被將臣命令的司徒奮仁所咬而變成殭屍，最後冰符都沒用，再求被人收，由其師馬小玲親手收伏而亡。<a href="../Page/許仙.md" title="wikilink">許仙轉世</a>（參考<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會第一部</a>）。</p></td>
+<td><p>馬小玲的徒弟；金未來的契表姨甥。愛上過女鬼貞子。後期被將臣命令的司徒奮仁所咬而變成殭屍，最後冰符都沒用，再求被人收，由其師馬小玲親手收伏而亡。<a href="https://zh.wikipedia.org/wiki/許仙" title="wikilink">許仙轉世</a>（參考<a href="../Page/我和殭屍有個約會.md" title="wikilink">我和殭屍有個約會第一部</a>）。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國權_(香港藝人).md" title="wikilink">張國權</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國權_(香港藝人)" title="wikilink">張國權</a></p></td>
 <td><p>況復生</p></td>
 <td><p>一代童星；靠著自己天才的腦袋照顧著況天佑。</p>
 <p>原名何復生。 六十年前為了找回自己養的貓大咪小咪，也因此受傷，而被將臣所咬成為第二代殭屍，由於被咬時還是小孩，故此身體便停止生長。其超能力為可將人的容貌和身材暫時改變。</p>
@@ -188,17 +188,17 @@
 <tr class="odd">
 <td><p><a href="../Page/黃樹棠.md" title="wikilink">黃樹棠</a></p></td>
 <td><p>何應求</p></td>
-<td><p>兩大驅魔世家之一「南毛北馬」中，<a href="../Page/殭屍道長.md" title="wikilink">殭屍道長</a><a href="../Page/毛小方.md" title="wikilink">毛小方的傳人</a>，法力驚人，對馬丹娜有一種不一樣的感情；受馬丹娜之託照顧著況家上下，專門為鬼魂就醫。最後被將臣所殺。</p></td>
+<td><p>兩大驅魔世家之一「南毛北馬」中，<a href="../Page/殭屍道長.md" title="wikilink">殭屍道長</a><a href="https://zh.wikipedia.org/wiki/毛小方" title="wikilink">毛小方的傳人</a>，法力驚人，對馬丹娜有一種不一樣的感情；受馬丹娜之託照顧著況家上下，專門為鬼魂就醫。最後被將臣所殺。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳蕙明.md" title="wikilink">陳蕙明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳蕙明" title="wikilink">陳蕙明</a></p></td>
 <td><p>小　咪 /<br />
 MIMI</p></td>
 <td><p>況復生養的貓，因吃下半顆淨世龍珠而變化為貓妖，會招換馬家龍神。因馬家的關係成了貓妖，卻因此而憎恨馬家人。</p>
 <p>因喜歡況國華而主動拜馬小玲為師。最終親耳聽到況國華說只當她是好朋友，傷心卻絕的她在盤古墓中故意踏錯，死於盤古墓中，半顆淨世龍珠歸回馬小玲手上。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚安娜.md" title="wikilink">姚安娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚安娜" title="wikilink">姚安娜</a></p></td>
 <td><p>大　咪</p></td>
 <td><p>況復生養的貓，因吃下半顆淨世龍珠而變化為貓妖。</p>
 <p>在馬叮噹的FORGET IT BAR工作。喜歡尼諾，最後因被失控的司徒奮仁誤傷致死，半顆淨世龍珠歸回馬小玲手上。</p></td>
@@ -217,7 +217,7 @@ MIMI</p></td>
 <p>由於是第二代殭屍，又長久吸食活人鮮血，因此實力非常強勁，在早期，同為將臣之後的況天佑完全不是他對手。經常與李維斯以二人組身份出現。後來因為輕敵而被功力大增的況天佑輕易擊倒（當時天佑為普通型態，奇諾則為瘋狂型態，但因為天佑、小玲二人被白狐送往滅世後的未來期間，小玲曾經捐出自己的血給天佑充飢，可能因為驅魔龍族的血與殭屍血結合，激發天佑的潛力），最後被馬靈兒收伏。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉良財.md" title="wikilink">葉良財</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉良財" title="wikilink">葉良財</a></p></td>
 <td><p>李維斯/<br />
 烏　鴉</p></td>
 <td><p>原名烏鴉，裏高野法力僧的叛徒。四百年前曾經引發叛亂，但被平定，被追殺之下逃到中國自願被將臣所咬成為第二代殭屍。</p>
@@ -226,7 +226,7 @@ MIMI</p></td>
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬宗德.md" title="wikilink">馬宗德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬宗德" title="wikilink">馬宗德</a></p></td>
 <td><p>藍大力</p></td>
 <td><p>五色使者之一，代表人類的劣根性之一：權力。喜歡玩弄權力，玩弄和擺布人類。嘴巴雖說忠心於女媧，但眾人皆知他愛權力，因此不會甘心臣服於任何人之下，包括將臣和女媧。</p>
 <p>奇諾和李維斯經常跟著他為他辦事。</p>
@@ -239,12 +239,12 @@ MIMI</p></td>
 <p>憎恨女媧以及背叛了女媧。所以盡力協助馬小玲等人以阻止女媧滅世。最後被司徒奮仁所殺。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃璦瑤.md" title="wikilink">黃璦瑤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃璦瑤" title="wikilink">黃璦瑤</a></p></td>
 <td><p>紅　潮</p></td>
 <td><p>五色使者之一，代表人類的劣根性之一：迷茫。本來是沒有容貌，沒有個性的人。 後來在紅溪村遇見況國華之妻阿秀，因佩服阿秀而用了阿秀的樣子。最後為了況天佑背叛了將臣，被將臣的血印間接殺害。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李潤祺.md" title="wikilink">李潤祺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李潤祺" title="wikilink">李潤祺</a></p></td>
 <td><p>黃　子 /<br />
 Sunny</p></td>
 <td><p>五色使者之一，代表人類的劣根性之一：妒忌。可化身為巨蟒。曾與白狐有過一段感情。</p>
@@ -284,11 +284,11 @@ Sunny</p></td>
 <tr class="even">
 <td><p><a href="../Page/宗揚.md" title="wikilink">宗　揚</a></p></td>
 <td><p>Peter</p></td>
-<td><p>馬叮噹大學時期的同學，被選中飾演<a href="../Page/羅密歐.md" title="wikilink">羅密歐這角色</a>。喜歡馬叮噹。經常對姜真祖（將臣）冷嘲熱諷，最後被將臣所殺，其靈魂被將臣抽出封入一面鏡子之中，變成怨靈。</p>
+<td><p>馬叮噹大學時期的同學，被選中飾演<a href="https://zh.wikipedia.org/wiki/羅密歐" title="wikilink">羅密歐這角色</a>。喜歡馬叮噹。經常對姜真祖（將臣）冷嘲熱諷，最後被將臣所殺，其靈魂被將臣抽出封入一面鏡子之中，變成怨靈。</p>
 <p>後來校長、司徒奮仁、況復生及其一群小學同學更被其捉進鏡子世界裡，最後被小玲降伏，馬叮噹親手將其超渡。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘇昶.md" title="wikilink">蘇昶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇昶" title="wikilink">蘇昶</a></p></td>
 <td><p>Frankie</p></td>
 <td></td>
 </tr>
@@ -304,7 +304,7 @@ Sunny</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
 <td><p>劉　海</p></td>
 <td><p>警察，況天佑與Sunny的上司，後為掩護天佑逃生而被司徒奮仁所殺。</p></td>
 </tr>
@@ -380,18 +380,18 @@ Sunny</p></td>
 <p>之後因愛上正中而恢復善良，最後由正中親手將其超渡。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林志豪.md" title="wikilink">林志豪</a>（原名：<a href="../Page/山本晃之.md" title="wikilink">山本晃之</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林志豪" title="wikilink">林志豪</a>（原名：<a href="https://zh.wikipedia.org/wiki/山本晃之" title="wikilink">山本晃之</a>）</p></td>
 <td><p>游志傑（矮仔傑）</p></td>
 <td><p>ITM電腦亞太區副總裁，馬小玲的舊同學，喜歡小玲。 尋找馬小玲協助於其公司捉鬼。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉良財.md" title="wikilink">葉良財</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉良財" title="wikilink">葉良財</a></p></td>
 <td><p>李維斯/<br />
 烏　鴉</p></td>
 <td><p>以烏鴉身份控制貞子以完成大血卍字咒。最後在追殺尼諾的行動時，被未來所殺。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜汶澤.md" title="wikilink">杜汶澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
 <td><p>金正中</p></td>
 <td><p>被藤原貞子誘惑</p></td>
 </tr>

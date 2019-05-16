@@ -1,6 +1,6 @@
-**PunBB**是个快速、轻量的[PHP架构](../Page/PHP.md "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")，以[GNU的标准释放](../Page/GNU.md "wikilink")。它的首要原则为快速、轻巧、与其它论坛相比更少量的图像。PunBB比起其它论坛功能较少，但也因此更快速、更小巧，并正确的支持[XHTML与](../Page/XHTML.md "wikilink")[CSS架构页面](../Page/CSS.md "wikilink")。
+**PunBB**是个快速、轻量的[PHP架构](../Page/PHP.md "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")，以[GNU的标准释放](../Page/GNU.md "wikilink")。它的首要原则为快速、轻巧、与其它论坛相比更少量的图像。PunBB比起其它论坛功能较少，但也因此更快速、更小巧，并正确的支持[XHTML与](../Page/XHTML.md "wikilink")[CSS架构页面](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
-此外，PunBB可在任何支持[PHP语言的](../Page/PHP.md "wikilink")[作业系统上运作](../Page/作业系统.md "wikilink")，PunBB可以在[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite等数据库下储存信息](../Page/SQLite.md "wikilink")。
+此外，PunBB可在任何支持[PHP语言的](../Page/PHP.md "wikilink")[作业系统上运作](https://zh.wikipedia.org/wiki/作业系统 "wikilink")，PunBB可以在[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite等数据库下储存信息](../Page/SQLite.md "wikilink")。
 
 ## 历史
 
@@ -8,12 +8,12 @@ PunBB的领航者Rickard
 Andersson，在他发现并没有任何论坛软件支持[XHTML之后](../Page/XHTML.md "wikilink")，开始撰写了此计划。速度、简洁是PunBB的首要宗旨，所以Rickard并不使它内建一些功能如个人信息、投票，以及档案附加等。这些功能已经以模组的方式释放。
 
 PunBB最初的认知是'Pun'，因为pun是个双关语且意味着在布告栏发生什么事的意思。[1](https://web.archive.org/web/20060315015020/http://www.theadminzone.com/forums/showthread.php?t=16370)
-这也确定了使用这名字，不会让PunBB被视为“简化的[phpBB](../Page/phpBB.md "wikilink")”。增加的'BB'是布告栏（Bulletin
+这也确定了使用这名字，不会让PunBB被视为“简化的[phpBB](https://zh.wikipedia.org/wiki/phpBB "wikilink")”。增加的'BB'是布告栏（Bulletin
 Board）的意思。
 
 PunBB 1.0在2003年8月释出。
 
-2008年，PunBB被[俄羅斯公司Informer收購](../Page/俄羅斯.md "wikilink")，原團隊相繼離開并成立新的[FluxBB](../Page/FluxBB.md "wikilink")。
+2008年，PunBB被[俄羅斯公司Informer收購](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，原團隊相繼離開并成立新的[FluxBB](../Page/FluxBB.md "wikilink")。
 
 ## PunBB 1.3
 
@@ -22,7 +22,7 @@ PunBB 1.0在2003年8月释出。
   - 拓展系統建立在以掛鉤技術，按一下就能安裝，不再需要修改討論區的程式碼。
   - 完整[UTF-8支援](../Page/UTF-8.md "wikilink")。
   - 可更加自定的風格、模板系統。
-  - 新界面：[結構](../Page/XHTML.md "wikilink")、[CSS](../Page/CSS.md "wikilink")、語言包皆更新，結構助手也被新增。
+  - 新界面：[結構](../Page/XHTML.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、語言包皆更新，結構助手也被新增。
   - 良好的設想連結。
   - 更佳地分割、合併主題。
   - 允許多重版主群組。

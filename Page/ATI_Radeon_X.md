@@ -1,9 +1,10 @@
 **Radeon X
-Series**（代号R420為X800）於2004年推出，是[ATi的一款显卡](../Page/ATi.md "wikilink")，以[台積電](../Page/台積電.md "wikilink")[0.13微米Low](../Page/0.13微米製程.md "wikilink")-k製程生產。只支援DirectX
+Series**（代号R420為X800）於2004年推出，是[ATi的一款显卡](https://zh.wikipedia.org/wiki/ATi "wikilink")，以[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")[0.13微米Low](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")-k製程生產。只支援DirectX
 9.0b，不支援DirectX 9.0c。核心与[Radeon 9
-Series相似](../Page/Radeon_9_Series.md "wikilink")，新的核心只做了些改進。所以不支援
-ShaderModel 3.0、[HDR等功能](../Page/HDR.md "wikilink")。ATi声稱X800 XT
-PE的效能Radeon 9800 XT高出2倍。此系列的X850 XT PE是最快的AGP显卡。
+Series相似](https://zh.wikipedia.org/wiki/Radeon_9_Series "wikilink")，新的核心只做了些改進。所以不支援
+ShaderModel
+3.0、[HDR等功能](https://zh.wikipedia.org/wiki/HDR "wikilink")。ATi声稱X800
+XT PE的效能Radeon 9800 XT高出2倍。此系列的X850 XT PE是最快的AGP显卡。
 
 ## 与前代的改進
 
@@ -37,10 +38,12 @@ Map還元，就能達成14,000個多邊型的效果，減少使用記憶體頻�
 FSAA運算。快速播放時，好像兩个樣式重疊了，做成了4X FSAA效果。花2x
 FSAA的效能，就達到4x FSAA的畫質。
 
-但不支援DirectX 9.0c成了整个系列的致命傷。与此同时，[nVidia](../Page/nVidia.md "wikilink")
+但不支援DirectX
+9.0c成了整个系列的致命傷。与此同时，[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
 [GeForce 6
-Series正逐漸收復失地](../Page/GeForce_6.md "wikilink")。浮點精確度只是24bit，而不是[nVidia](../Page/nVidia.md "wikilink")
-[GeForce 6 Series的](../Page/GeForce_6.md "wikilink")32bit，所以被对手挪喻“顏色不準”。
+Series正逐漸收復失地](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")。浮點精確度只是24bit，而不是[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")
+[GeForce 6
+Series的](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")32bit，所以被对手挪喻“顏色不準”。
 
 ## 系列初期顯視卡型号
 
@@ -80,7 +83,8 @@ Geforce6600GT的竞争中占据完全优势，而价格相差不大。以至于�
       - X700Pro，效能夾於6600GT和6600之間
       - X700SE，因6600GT和6600之間有很大的效能分野，所以X700SE效能亦夾於6600GT和6600之間，比X700Pro慢一點點
   - X550 Series，因當年9550的成功而再推相同類型的顯示卡，但計劃並非很成功
-  - X300 [HM](../Page/HyperMemory.md "wikilink")，對手是GeForce 6200
-    [TC](../Page/TurboCache.md "wikilink")
+  - X300
+    [HM](https://zh.wikipedia.org/wiki/HyperMemory "wikilink")，對手是GeForce
+    6200 [TC](https://zh.wikipedia.org/wiki/TurboCache "wikilink")
 
 [Category:ATI顯示卡](https://zh.wikipedia.org/wiki/Category:ATI顯示卡 "wikilink")

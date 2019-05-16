@@ -1,15 +1,15 @@
-**寶馬M3**是[德國](../Page/德國.md "wikilink")[汽車製造廠](../Page/汽車.md "wikilink")[寶馬旗下的小型高性能車種](../Page/寶馬.md "wikilink")，是以[三系列為基礎所衍生開發的高性能車型](../Page/BMW_3系列.md "wikilink")，由BMW直屬的賽車部門[BMW
-M負責開發製造](../Page/BMW_M.md "wikilink")。
+**寶馬M3**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車製造廠](https://zh.wikipedia.org/wiki/汽車 "wikilink")[寶馬旗下的小型高性能車種](https://zh.wikipedia.org/wiki/寶馬 "wikilink")，是以[三系列為基礎所衍生開發的高性能車型](../Page/BMW_3系列.md "wikilink")，由BMW直屬的賽車部門[BMW
+M負責開發製造](https://zh.wikipedia.org/wiki/BMW_M "wikilink")。
 
-首款M3是在1986年時上市，是以當時的3系列（代號[E30](../Page/寶馬E30.md "wikilink")）的車體搭配代號S14的直列四缸引擎推出。從那時起，每次三系列進行改款時，都會在稍後追加推出以其為基礎的M3版本。
+首款M3是在1986年時上市，是以當時的3系列（代號[E30](https://zh.wikipedia.org/wiki/寶馬E30 "wikilink")）的車體搭配代號S14的直列四缸引擎推出。從那時起，每次三系列進行改款時，都會在稍後追加推出以其為基礎的M3版本。
 
 ## E30 M3
 
 [BMW_M3_Cabriolet_E30_(8098295219).jpg](https://zh.wikipedia.org/wiki/File:BMW_M3_Cabriolet_E30_\(8098295219\).jpg "fig:BMW_M3_Cabriolet_E30_(8098295219).jpg")|替代=|左\]\]
 [BMW_M3_(E30)_rear.JPG](https://zh.wikipedia.org/wiki/File:BMW_M3_\(E30\)_rear.JPG "fig:BMW_M3_(E30)_rear.JPG")
-第一代的M3是在1986年時上市，它當初推出原本是為了[德國房車賽](../Page/德國房車賽.md "wikilink")（德文：Deutsche
+第一代的M3是在1986年時上市，它當初推出原本是為了[德國房車賽](https://zh.wikipedia.org/wiki/德國房車賽 "wikilink")（德文：Deutsche
 Tourenwagen
-Meisterschaft，DTM）而生，以[E30三系列雙門四座](../Page/BMW_E30.md "wikilink")（coupé）版本作為基礎，採用代號為S14B23的直列四缸發動機，歐規擁有200匹馬力(沒有觸媒)，美規擁有195匹馬力(帶觸媒)，1989年9月，引擎動力增加到215匹馬力(帶觸媒)
+Meisterschaft，DTM）而生，以[E30三系列雙門四座](https://zh.wikipedia.org/wiki/BMW_E30 "wikilink")（coupé）版本作為基礎，採用代號為S14B23的直列四缸發動機，歐規擁有200匹馬力(沒有觸媒)，美規擁有195匹馬力(帶觸媒)，1989年9月，引擎動力增加到215匹馬力(帶觸媒)
 在1998年推出M3 EVO2，採用S14B23 EVO2的2.3升直四引擎，其他變化包括更大的車輪（16 X
 7.5英寸），更薄的後窗玻璃和側窗玻璃，更輕的行李箱蓋，更深的前分離器和額外的後擾流板。
 與系列中動力最強的限量準賽車版本Sport Evolution
@@ -23,7 +23,7 @@ Evolution車型具有擴大的前保險槓開口和可調節的多位置前分�
 一共推出有 歐規前期 M3 / M3 Lightweight / M3 GT / M3 Evolution Imola Individual
 (M3 GT2) / 歐規前期 M3 / 美國降低輸出的M3
 
-1992年第二代M3推出，是以[E36三系列為基礎](../Page/BMW_E36.md "wikilink")，搭載3.0升(S50B30)[直六引擎](../Page/直六.md "wikilink")，初期版可輸出286匹馬力，但1995-99年推出的後期版，排氣量提升為3.2升(S50B32)，動力一舉提升到321匹的境界，是BMW歷代量產車用自然進氣引擎裡面首度突破每公升100匹馬力關卡者。不過同期的美規版M3(S50B30US，S52B32),輸出僅有240匹馬力，但在原本僅有雙門跑車/敞篷版本的M3車系裡面首度追加了四門跑房車版本的M3
+1992年第二代M3推出，是以[E36三系列為基礎](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")，搭載3.0升(S50B30)[直六引擎](https://zh.wikipedia.org/wiki/直六 "wikilink")，初期版可輸出286匹馬力，但1995-99年推出的後期版，排氣量提升為3.2升(S50B32)，動力一舉提升到321匹的境界，是BMW歷代量產車用自然進氣引擎裡面首度突破每公升100匹馬力關卡者。不過同期的美規版M3(S50B30US，S52B32),輸出僅有240匹馬力，但在原本僅有雙門跑車/敞篷版本的M3車系裡面首度追加了四門跑房車版本的M3
 Sedan。BMW推出了名為Lightweight的輕量化版本M3。 M3 GT 1995
 只在歐洲發售為限量版只有356部，僅有50部右駕車型是為英國市場製作。
 於1994年12月進行接單。1995年2月至六月交車。 內裝為著名的英國賽車綠（＃312）與墨西哥綠色室內 -
@@ -33,34 +33,34 @@ GT的發售是為了讓E36 M3參加FIA-GT II組，IMSA GT和國際長途賽。
 鍛造BMW賽車輪圈，17x7,5J在前和17x8,5J在後，更換車頭避震器為更硬朗的型式，及X型車底拉桿。
 引擎壓縮比（10,8：1），稍微在特殊油底殼改變進氣門和凸輪軸（264度的持續時間），有著不同的凸輪軸和重新設計的機油箱和油泵浦，在轉速7100轉產生295馬力，和3900轉產生323牛頓米的扭力。
 M3 GT比標準M3減輕約30公斤，極速限制在每小時275公里。
-1996年E36時代末期，BMW也推出了名為[SMG](../Page/SMG.md "wikilink")（Sequential
+1996年E36時代末期，BMW也推出了名為[SMG](https://zh.wikipedia.org/wiki/SMG "wikilink")（Sequential
 M
-Gearbox）利用液壓控制[離合器及檔位的](../Page/離合器.md "wikilink")[半自動手排變速箱](../Page/半自動手排變速箱.md "wikilink")。
+Gearbox）利用液壓控制[離合器及檔位的](../Page/離合器.md "wikilink")[半自動手排變速箱](https://zh.wikipedia.org/wiki/半自動手排變速箱 "wikilink")。
 
 M3-GTR 是為了參加 1994 ADAC German GT Cup Touring Car series賽車
 
 ## E46 M3
 
-2001年以[E46三系列為基礎的M](../Page/BMW_E46.md "wikilink")3推出，引擎是全球各市場皆共用的的3.2升直列六缸引擎（引擎代號S54B32），其中歐洲版車型输出功率为343匹馬力(338HP/343PS)，但由于美国废气排放标准較嚴格，因此外銷美國的版本輸出功率調降为333匹(333HP/338PS)。在2003年推出的M3
+2001年以[E46三系列為基礎的M](https://zh.wikipedia.org/wiki/BMW_E46 "wikilink")3推出，引擎是全球各市場皆共用的的3.2升直列六缸引擎（引擎代號S54B32），其中歐洲版車型输出功率为343匹馬力(338HP/343PS)，但由于美国废气排放标准較嚴格，因此外銷美國的版本輸出功率調降为333匹(333HP/338PS)。在2003年推出的M3
 CSL车型上，大量採用了航空材料中的碳化纤维强化塑料（CFRP），铝以及其他轻金属，代替原来广泛使用的钢铁等材料。 经过工程师的种种努力，M3
 CSL的整车总量降至1,385公斤，功率重量比是3.85kg/bhp。在整车性能方面，宝马M3
 CSL的发动机和M3系列的排量一样为3.2升，最大功率达到360bhp/7900rpm，最大扭矩370Nm/4900rpm。换算成每升功率不小于111bhp。除了搭載直六引擎的一般量產車型外，还有一款被称为M3
 GTR的房車賽用工廠賽車版本，使用的是（代號P60B40），输出功率为440匹。M3初期上市時只有雙門四座的M3
 Coupé一個車型，並在之後追加敞篷版本的M3 Cabrio。隨著E46
 M3的推出，BMW也發表更新、更快、更加方便的SMG
-II[半自動序列式手排變速箱](../Page/半自動序列式手排變速箱.md "wikilink")。
+II[半自動序列式手排變速箱](https://zh.wikipedia.org/wiki/半自動序列式手排變速箱 "wikilink")。
 
 
 
 ## E92 M3
 
-2007年[日內瓦車展中](../Page/日內瓦車展.md "wikilink")，BMW先是展出了一款名為M3
+2007年[日內瓦車展中](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")，BMW先是展出了一款名為M3
 Concept的[概念車](../Page/概念車.md "wikilink")，並在隨後公佈第四代M3的消息，而量产型則是於2007年第三季在欧洲上市。E92
 M3使用的全新开发的V8引擎[BMW S65](../Page/BMW_S65.md "wikilink")(S65B40)
 ，输出功率为420匹，量產初期配6速手排变速箱，但之後會追加用以取代SMG的M-DCT（Dual-Clutch
-Transmission，[雙離合變速](../Page/雙離合變速.md "wikilink")）供用户选择。车体外观方面与335i頗為接近，而车顶則是使用的是和E63
-M6相同的[碳纤维材質](../Page/碳纤维.md "wikilink")。除了最初的雙門四座之[轎跑車版本之外](../Page/轎跑車.md "wikilink")，陸續也會推出包括四門房車（E90
-M3）與五門旅行車在內的衍生車體版本，與使用[可折收硬頂](../Page/可折收硬頂.md "wikilink")（Retractable
+Transmission，[雙離合變速](https://zh.wikipedia.org/wiki/雙離合變速 "wikilink")）供用户选择。车体外观方面与335i頗為接近，而车顶則是使用的是和E63
+M6相同的[碳纤维材質](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")。除了最初的雙門四座之[轎跑車版本之外](../Page/轎跑車.md "wikilink")，陸續也會推出包括四門房車（E90
+M3）與五門旅行車在內的衍生車體版本，與使用[可折收硬頂](https://zh.wikipedia.org/wiki/可折收硬頂 "wikilink")（Retractable
 hardtop，RHT）的雙門四座敞篷車款（E93 Cabrio）。此外宝马也推出了搭载4.4L引擎的M3 GTS。
 
 

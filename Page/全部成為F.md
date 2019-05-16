@@ -1,26 +1,26 @@
-，是[日本](../Page/日本.md "wikilink")[推理小說作家](../Page/推理小說.md "wikilink")[森博嗣之](../Page/森博嗣.md "wikilink")「[犀川&萌繪系列](../Page/犀川&萌繪系列.md "wikilink")」的第一本著作。日語原文由[講談社於](../Page/講談社.md "wikilink")1996年出版，中譯本由尖端於2005年出版。《全部成為F》曾獲第一屆[梅菲斯特賞](../Page/梅菲斯特賞.md "wikilink")（）。
+，是[日本](../Page/日本.md "wikilink")[推理小說作家](../Page/推理小說.md "wikilink")[森博嗣之](../Page/森博嗣.md "wikilink")「[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")」的第一本著作。日語原文由[講談社於](https://zh.wikipedia.org/wiki/講談社 "wikilink")1996年出版，中譯本由尖端於2005年出版。《全部成為F》曾獲第一屆[梅菲斯特賞](https://zh.wikipedia.org/wiki/梅菲斯特賞 "wikilink")（）。
 
 ## 劇情簡介
 
-故事敘述建築系準教授犀川創平、以及同系學生西之園萌繪，為了見傳說中的天才[程式設計師真賀田四季](../Page/程式設計師.md "wikilink")，而一同旅行來到真賀田研究所，結果發現了穿著婚紗、兩手兩腳都被切斷的詭異[屍體](../Page/屍體.md "wikilink")，於是兩人開始嘗試解開[密室殺人的真相](../Page/密室殺人.md "wikilink")。
+故事敘述建築系準教授犀川創平、以及同系學生西之園萌繪，為了見傳說中的天才[程式設計師真賀田四季](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")，而一同旅行來到真賀田研究所，結果發現了穿著婚紗、兩手兩腳都被切斷的詭異[屍體](../Page/屍體.md "wikilink")，於是兩人開始嘗試解開[密室殺人的真相](https://zh.wikipedia.org/wiki/密室殺人 "wikilink")。
 
 ## 登場人物
 
 ### 主角
 
   -
-    本作男主角，國立N大學工學部建築系[副教授](../Page/副教授.md "wikilink")，曾是西之園萌繪父親的學生，在萌繪失去雙親後一直關照她。擁有非凡的邏輯思維。
+    本作男主角，國立N大學工學部建築系[副教授](https://zh.wikipedia.org/wiki/副教授 "wikilink")，曾是西之園萌繪父親的學生，在萌繪失去雙親後一直關照她。擁有非凡的邏輯思維。
 
 <!-- end list -->
 
   -
-    本作女主角，國立N大學工學部建築系1年級生，19歲。年幼時因最自豪的魔術表演被犀川破解而曾厭惡他，但在雙親因[空難喪生陷入低潮時受犀川照顧才漸走出陰霾](../Page/空難.md "wikilink")，轉而對他抱有好感。腦袋聰明，觀察細微，有跳躍式思維，但也常受感情左右。
+    本作女主角，國立N大學工學部建築系1年級生，19歲。年幼時因最自豪的魔術表演被犀川破解而曾厭惡他，但在雙親因[空難喪生陷入低潮時受犀川照顧才漸走出陰霾](https://zh.wikipedia.org/wiki/空難 "wikilink")，轉而對他抱有好感。腦袋聰明，觀察細微，有跳躍式思維，但也常受感情左右。
 
 ### 真賀田研究所
 
   -
-    真賀田研究所的博士，天才程式設計師，年幼時就發揮超常的才智而成名。14歲時真賀田研究所落成那天突然殺害自己雙親而引起社會譁然，因未成年且被視為[無意識行為而判無罪](../Page/無意識.md "wikilink")，之後便把自己關在研究所房裡進行研究，過著不與房外人直接接觸的生活。其間開發出「Red
-    magic」的獨家[操作系统](../Page/作業系統.md "wikilink")，並做出名為「戴博拉」的研究所管理程序。
+    真賀田研究所的博士，天才程式設計師，年幼時就發揮超常的才智而成名。14歲時真賀田研究所落成那天突然殺害自己雙親而引起社會譁然，因未成年且被視為[無意識行為而判無罪](https://zh.wikipedia.org/wiki/無意識 "wikilink")，之後便把自己關在研究所房裡進行研究，過著不與房外人直接接觸的生活。其間開發出「Red
+    magic」的獨家[操作系统](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並做出名為「戴博拉」的研究所管理程序。
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    具有[多重人格](../Page/多重人格.md "wikilink")，其角色分別為栗本其志雄、佐佐木棲麻和真賀田道流，全為四季身邊已故的要人或人偶。有比犀川更加非凡的邏輯思維，追尋自由且不受世間[道德觀念影響](../Page/道德.md "wikilink")。
+    具有[多重人格](https://zh.wikipedia.org/wiki/多重人格 "wikilink")，其角色分別為栗本其志雄、佐佐木棲麻和真賀田道流，全為四季身邊已故的要人或人偶。有比犀川更加非凡的邏輯思維，追尋自由且不受世間[道德觀念影響](../Page/道德.md "wikilink")。
 
 <!-- end list -->
 
@@ -118,14 +118,14 @@
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -136,8 +136,8 @@
 </tbody>
 </table>
 
-  - [講談社文庫版](../Page/講談社文庫.md "wikilink") - 1998年12月11日發行、ISBN
-    4-06-263924-6
+  - [講談社文庫版](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink") -
+    1998年12月11日發行、ISBN 4-06-263924-6
 
 ## 遊戲
 
@@ -146,7 +146,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ### 角色
 
-  - 犀川創平：[澀谷茂](../Page/澀谷茂.md "wikilink")
+  - 犀川創平：[澀谷茂](https://zh.wikipedia.org/wiki/澀谷茂 "wikilink")
   - 西之園萌繪：[小林沙苗](../Page/小林沙苗.md "wikilink")
   - 真賀田四季：[興梠里美](../Page/興梠里美.md "wikilink")
   - 新藤清二：
@@ -160,7 +160,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ，日本[富士電視台於](../Page/富士電視台.md "wikilink")2014年10月起在[火九時段](../Page/富士電視台週二晚間九點連續劇.md "wikilink")（週二21:00
 -
-21:54，[JST](../Page/日本標準時.md "wikilink")）播出的[電視連續劇](../Page/日本電視劇.md "wikilink")，改編自同名小說，由[武井咲和](../Page/武井咲.md "wikilink")[綾野剛共同主演](../Page/綾野剛.md "wikilink")。
+21:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，改編自同名小說，由[武井咲和](../Page/武井咲.md "wikilink")[綾野剛共同主演](../Page/綾野剛.md "wikilink")。
 
 ### 演員陣容
 
@@ -176,7 +176,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 #### 神南大學工學部土木工學科
 
-  - 喜多北斗（副教授）：[小澤征悦](../Page/小澤征悦.md "wikilink")
+  - 喜多北斗（副教授）：[小澤征悦](https://zh.wikipedia.org/wiki/小澤征悦 "wikilink")
 
 #### 真賀田研究所
 
@@ -186,7 +186,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
   - 鵜飼大介：
   - 片桐誠人：
-  - 西之園捷輔（本部長，萌繪的叔父）：[吉田鋼太郎](../Page/吉田鋼太郎.md "wikilink")
+  - 西之園捷輔（本部長，萌繪的叔父）：[吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")
 
 #### 各集登場人物及客串演員
 
@@ -198,8 +198,8 @@ Station為平台冒險遊戲，詳情請見\[1\]
   - 木熊京介（教授）：
   - 八川善太郎（極地環境研究中心技官）：
   - 丹羽健二郎（博士班2年級生，研究小組幹事）：
-  - 服部珠子（碩士班2年級生）：[吉谷彩子](../Page/吉谷彩子.md "wikilink")
-  - 荒井正直（博士班1年級生）：[戶塚純貴](../Page/戶塚純貴.md "wikilink")
+  - 服部珠子（碩士班2年級生）：[吉谷彩子](https://zh.wikipedia.org/wiki/吉谷彩子 "wikilink")
+  - 荒井正直（博士班1年級生）：[戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")
   - 船見真智子（碩士班1年級生）：
   - 向井浩二（極地環境研究中心警衛）：針原滋
   - 増田潤（研究小組前幹事）：
@@ -209,12 +209,12 @@ Station為平台冒險遊戲，詳情請見\[1\]
 ###### 佛教畫師香山家
 
   - 香山史（林水的妻子）：（19歳：西川綾乃）
-  - 香山麻里莫（林水的女兒漫畫家）：[原田夏希](../Page/原田夏希.md "wikilink")
+  - 香山麻里莫（林水的女兒漫畫家）：[原田夏希](https://zh.wikipedia.org/wiki/原田夏希 "wikilink")
   - 香山林水（現當家）：（22歳：）
   - 香山多可志（林水的兒子，麻里莫的哥哥）：
   - 吉村益男（管理人） ：（17歳：依田哲哉）
   - 香山綾緒（多可志的妻子）：
-  - 香山祐介（多可志的兒子）：[高橋來](../Page/高橋來.md "wikilink")
+  - 香山祐介（多可志的兒子）：[高橋來](https://zh.wikipedia.org/wiki/高橋來 "wikilink")
   - 香山風采（前當家）：牛尾元昭
 
 ##### 第5話－第6話
@@ -245,7 +245,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
   - 筒見紀世都（藝術家）：
   - 筒見明日香（紀世都的妹妹，角色扮演玩家）：
-  - 武蔵川純（地球防衛軍）：[加藤諒](../Page/加藤諒.md "wikilink")
+  - 武蔵川純（地球防衛軍）：[加藤諒](https://zh.wikipedia.org/wiki/加藤諒 "wikilink")
   - 儀同世津子（飛特族）：
   - 大御防安朋（萌繪的堂哥，戀愛小説家）：
 
@@ -268,26 +268,28 @@ Station為平台冒險遊戲，詳情請見\[1\]
 ### 製作團隊
 
   - 原作 -
-    [森博嗣](../Page/森博嗣.md "wikilink")《全部成為F》他S\&M系列（[講談社文庫刊](../Page/講談社文庫.md "wikilink")）
-  - 系列腳本 - [黑岩勉](../Page/黑岩勉.md "wikilink")
-  - 脚本 - 黑岩勉、[小山正太](../Page/小山正太.md "wikilink")
+    [森博嗣](../Page/森博嗣.md "wikilink")《全部成為F》他S\&M系列（[講談社文庫刊](https://zh.wikipedia.org/wiki/講談社文庫 "wikilink")）
+  - 系列腳本 - [黑岩勉](https://zh.wikipedia.org/wiki/黑岩勉 "wikilink")
+  - 脚本 - 黑岩勉、[小山正太](https://zh.wikipedia.org/wiki/小山正太 "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 演出 -
-    城宝秀則、[小椋久雄](../Page/小椋久雄.md "wikilink")、[小林義則](../Page/小林義則.md "wikilink")
-  - 主題曲 - [ゲスの極み乙女。](../Page/ゲスの極み乙女。.md "wikilink")「[Digital
-    Mole](../Page/魅力がすごいよ.md "wikilink")」（[Warner Music
-    Japan](../Page/Warner_Music_Japan.md "wikilink") /
-    [unBORDE](../Page/unBORDE.md "wikilink")）\[2\]
-  - 演出候補 - [村谷嘉則](../Page/村谷嘉則.md "wikilink")、淵上正人
+    城宝秀則、[小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[小林義則](https://zh.wikipedia.org/wiki/小林義則 "wikilink")
+  - 主題曲 -
+    [ゲスの極み乙女。](https://zh.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")「[Digital
+    Mole](https://zh.wikipedia.org/wiki/魅力がすごいよ "wikilink")」（[Warner
+    Music
+    Japan](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")
+    / [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）\[2\]
+  - 演出候補 - [村谷嘉則](https://zh.wikipedia.org/wiki/村谷嘉則 "wikilink")、淵上正人
   - 標題背景 - 衛藤一郎
-  - 動作指導 - [釼持誠](../Page/釼持誠.md "wikilink")
-  - 弓道協力 - [全日本弓道連盟](../Page/全日本弓道連盟.md "wikilink")
+  - 動作指導 - [釼持誠](https://zh.wikipedia.org/wiki/釼持誠 "wikilink")
+  - 弓道協力 - [全日本弓道連盟](https://zh.wikipedia.org/wiki/全日本弓道連盟 "wikilink")
   - 編成企劃 - 成河広明、加藤達也
   - 製作人 -
-    [小椋久雄](../Page/小椋久雄.md "wikilink")、[貸川聡子](../Page/貸川聡子.md "wikilink")
+    [小椋久雄](https://zh.wikipedia.org/wiki/小椋久雄 "wikilink")、[貸川聡子](https://zh.wikipedia.org/wiki/貸川聡子 "wikilink")
   - 候補製作人 - 関本純一、堀江愛佳
   - 製作 - 富士電視台
-  - 製作著作 - [共同電視台](../Page/共同電視台.md "wikilink")
+  - 製作著作 - [共同電視台](https://zh.wikipedia.org/wiki/共同電視台 "wikilink")
 
 ### 各集列表
 
@@ -395,7 +397,7 @@ Station為平台冒險遊戲，詳情請見\[1\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率 8.9%（收視率取自<a href="../Page/Video_Research.md" title="wikilink">Video Research調查</a><a href="../Page/關東地區.md" title="wikilink">關東地區</a>、世帶的統計結果）</p></td>
+<td><p>平均收視率 8.9%（收視率取自<a href="../Page/Video_Research.md" title="wikilink">Video Research調查</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶的統計結果）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -408,9 +410,9 @@ Station為平台冒險遊戲，詳情請見\[1\]
 
 ## 電視動畫
 
-[富士電視台於](../Page/富士電視台.md "wikilink")2014年11月27日公佈，將會結合包括本作在內的各個《[犀川&萌繪系列](../Page/犀川&萌繪系列.md "wikilink")》故事，改編[電視動畫標題為](../Page/電視動畫.md "wikilink")《**全部成為F
+[富士電視台於](../Page/富士電視台.md "wikilink")2014年11月27日公佈，將會結合包括本作在內的各個《[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")》故事，改編[電視動畫標題為](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**全部成為F
 THE PERFECT
-INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "wikilink")。
+INSIDER**》，於2015年10月在[noitaminA時段播放](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
 ### 製作人員
 
@@ -434,27 +436,27 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "w
   - 製作人：岡安由夏、丹羽将己
   - 動畫製作人：大松裕
   - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
-  - 製作：「全部成為F」製作委員會（[富士電視台](../Page/富士電視台.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")、京樂產業Holdings、[電通](../Page/電通.md "wikilink")）
+  - 製作：「全部成為F」製作委員會（[富士電視台](../Page/富士電視台.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")、京樂產業Holdings、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ### 配音
 
   - 犀川創平：[加瀨康之](../Page/加瀨康之.md "wikilink")
   - 西之園萌繪：[種崎敦美](../Page/種崎敦美.md "wikilink")
   - 真賀田四季：[木戶衣吹](../Page/木戶衣吹.md "wikilink")
-  - 新藤清二：[咲野俊介](../Page/咲野俊介.md "wikilink")
+  - 新藤清二：[咲野俊介](https://zh.wikipedia.org/wiki/咲野俊介 "wikilink")
   - 新藤裕見子：
   - 山根幸宏：[鈴木達央](../Page/鈴木達央.md "wikilink")
   - 弓永富彥：
-  - 水谷主稅：[伊藤健太郎](../Page/伊藤健太郎.md "wikilink")
+  - 水谷主稅：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")
   - 島田文子：[日笠陽子](../Page/日笠陽子.md "wikilink")
   - 望月俊樹：
   - 長谷部聰：[伊丸岡篤](../Page/伊丸岡篤.md "wikilink")
   - 真賀田未來：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")
-  - 國枝桃子：[桑島法子](../Page/桑島法子.md "wikilink")
+  - 國枝桃子：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
   - 濱中深志：[村田太志](../Page/村田太志.md "wikilink")
   - 儀同世津子：[堀江由衣](../Page/堀江由衣.md "wikilink")
-  - 諏訪野：[長克巳](../Page/長克巳.md "wikilink")
-  - 真賀田左千朗：[山路和弘](../Page/山路和弘.md "wikilink")
+  - 諏訪野：[長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")
+  - 真賀田左千朗：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")
   - 真賀田美千代：[園崎未惠](../Page/園崎未惠.md "wikilink")
 
 ### 主題曲
@@ -486,7 +488,7 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "w
 <td><p>第一章</p></td>
 <td></td>
 <td><p>白色面會</p></td>
-<td><p><a href="../Page/大野敏哉.md" title="wikilink">大野敏哉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大野敏哉" title="wikilink">大野敏哉</a></p></td>
 <td><p><a href="../Page/神戶守.md" title="wikilink">神戶守</a></p></td>
 <td><p>黑木美幸</p></td>
 <td><p>近藤圭一、栗原優</p></td>
@@ -552,7 +554,7 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "w
 <td><p>紫色的黎明</p></td>
 <td><p>雨宮真美</p></td>
 <td></td>
-<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
 <td><p>澀谷一彦</p></td>
 </tr>
 <tr class="odd">
@@ -587,28 +589,28 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "w
 
 ### 播放電視台
 
-| 播放地區                                                              | 播放電視台                                    | 播放日期               | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播局                                | 備註          |
-| ----------------------------------------------------------------- | ---------------------------------------- | ------------------ | ----------------------------------------------------------------------- | ------------------------------------ | ----------- |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")                              | [富士電視台](../Page/富士電視台.md "wikilink")     | 2015年10月8日－12月17日  | 星期四 24時55分－25時25分                                                       | [富士電視網](../Page/富士電視網.md "wikilink") | **製作委員會參加** |
-| [岩手縣](../Page/岩手縣.md "wikilink")                                  | [岩手可愛電視台](../Page/岩手可愛電視台.md "wikilink") |                    |                                                                         |                                      |             |
-| [山形縣](../Page/山形縣.md "wikilink")                                  | [櫻桃電視台](../Page/櫻桃電視台.md "wikilink")     |                    |                                                                         |                                      |             |
-| [愛媛縣](../Page/愛媛縣.md "wikilink")                                  | [愛媛電視台](../Page/愛媛電視台.md "wikilink")     | 星期四 25時00分－25時30分  |                                                                         |                                      |             |
-| [秋田縣](../Page/秋田縣.md "wikilink")                                  | [秋田電視台](../Page/秋田電視台.md "wikilink")     | 星期四 25時20分－25時50分  |                                                                         |                                      |             |
-| [靜岡縣](../Page/靜岡縣.md "wikilink")                                  | [靜岡電視台](../Page/靜岡電視台.md "wikilink")     | 星期四 25時35分－26時05分  |                                                                         |                                      |             |
-| [新潟縣](../Page/新潟縣.md "wikilink")                                  | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink") | 星期四 25時45分－26時15分  |                                                                         |                                      |             |
-| [熊本縣](../Page/熊本縣.md "wikilink")                                  | [熊本電視台](../Page/熊本電視台.md "wikilink")     |                    |                                                                         |                                      |             |
-| [福島縣](../Page/福島縣.md "wikilink")                                  | [福島電視台](../Page/福島電視台.md "wikilink")     | 星期四 25時55分－26時25分  |                                                                         |                                      |             |
-| [近畿廣域圈](../Page/近畿廣域圈.md "wikilink")                              | [關西電視台](../Page/關西電視台.md "wikilink")     | **製作委員會參加**        |                                                                         |                                      |             |
-| [福岡縣](../Page/福岡縣.md "wikilink")                                  | [西日本電視台](../Page/西日本電視台.md "wikilink")   |                    |                                                                         |                                      |             |
-| [廣島縣](../Page/廣島縣.md "wikilink")                                  | [新廣島電視台](../Page/新廣島電視台.md "wikilink")   | 星期四 26時00分－26時30分  |                                                                         |                                      |             |
-| [宮城縣](../Page/宮城縣.md "wikilink")                                  | [仙台放送](../Page/仙台放送.md "wikilink")       | 星期四 26時05分－26時35分  |                                                                         |                                      |             |
-| [鹿兒島縣](../Page/鹿兒島縣.md "wikilink")                                | [鹿兒島電視台](../Page/鹿兒島電視台.md "wikilink")   |                    |                                                                         |                                      |             |
-| [中京廣域圈](../Page/中京廣域圈.md "wikilink")                              | [東海電視台](../Page/東海電視台.md "wikilink")     | 星期四 26時15分－26時45分  |                                                                         |                                      |             |
-| [佐賀縣](../Page/佐賀縣.md "wikilink")                                  | [佐賀電視台](../Page/佐賀電視台.md "wikilink")     | 2015年10月9日－12月18日  | 星期五 24時40分－25時10分                                                       |                                      |             |
-| [北海道](../Page/北海道.md "wikilink")                                  | [北海道文化放送](../Page/北海道文化放送.md "wikilink") | 2015年10月11日－12月20日 | 星期日 26時00分－26時30分                                                       |                                      |             |
-| [長野縣](../Page/長野縣.md "wikilink")                                  | [長野放送](../Page/長野放送.md "wikilink")       | 2015年10月20日－12月29日 | 星期二 25時55分－26時25分                                                       |                                      |             |
-| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](../Page/島根縣.md "wikilink") | [山陰中央電視台](../Page/山陰中央電視台.md "wikilink") | 2016年1月8日－         | 星期一 25時25分－25時55分                                                       |                                      |             |
-|                                                                   |                                          |                    |                                                                         |                                      |             |
+| 播放地區                                                                                 | 播放電視台                                                       | 播放日期               | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播局                                | 備註          |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                              | [富士電視台](../Page/富士電視台.md "wikilink")                        | 2015年10月8日－12月17日  | 星期四 24時55分－25時25分                                                                                             | [富士電視網](../Page/富士電視網.md "wikilink") | **製作委員會參加** |
+| [岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")                                  | [岩手可愛電視台](https://zh.wikipedia.org/wiki/岩手可愛電視台 "wikilink") |                    |                                                                                                               |                                      |             |
+| [山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")                                  | [櫻桃電視台](https://zh.wikipedia.org/wiki/櫻桃電視台 "wikilink")     |                    |                                                                                                               |                                      |             |
+| [愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")                                  | [愛媛電視台](../Page/愛媛電視台.md "wikilink")                        | 星期四 25時00分－25時30分  |                                                                                                               |                                      |             |
+| [秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")                                  | [秋田電視台](https://zh.wikipedia.org/wiki/秋田電視台 "wikilink")     | 星期四 25時20分－25時50分  |                                                                                                               |                                      |             |
+| [靜岡縣](../Page/靜岡縣.md "wikilink")                                                     | [靜岡電視台](https://zh.wikipedia.org/wiki/靜岡電視台 "wikilink")     | 星期四 25時35分－26時05分  |                                                                                                               |                                      |             |
+| [新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")                                  | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")                    | 星期四 25時45分－26時15分  |                                                                                                               |                                      |             |
+| [熊本縣](../Page/熊本縣.md "wikilink")                                                     | [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")     |                    |                                                                                                               |                                      |             |
+| [福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")                                  | [福島電視台](https://zh.wikipedia.org/wiki/福島電視台 "wikilink")     | 星期四 25時55分－26時25分  |                                                                                                               |                                      |             |
+| [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink")                              | [關西電視台](../Page/關西電視台.md "wikilink")                        | **製作委員會參加**        |                                                                                                               |                                      |             |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                  | [西日本電視台](https://zh.wikipedia.org/wiki/西日本電視台 "wikilink")   |                    |                                                                                                               |                                      |             |
+| [廣島縣](../Page/廣島縣.md "wikilink")                                                     | [新廣島電視台](https://zh.wikipedia.org/wiki/新廣島電視台 "wikilink")   | 星期四 26時00分－26時30分  |                                                                                                               |                                      |             |
+| [宮城縣](../Page/宮城縣.md "wikilink")                                                     | [仙台放送](https://zh.wikipedia.org/wiki/仙台放送 "wikilink")       | 星期四 26時05分－26時35分  |                                                                                                               |                                      |             |
+| [鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")                                | [鹿兒島電視台](https://zh.wikipedia.org/wiki/鹿兒島電視台 "wikilink")   |                    |                                                                                                               |                                      |             |
+| [中京廣域圈](https://zh.wikipedia.org/wiki/中京廣域圈 "wikilink")                              | [東海電視台](../Page/東海電視台.md "wikilink")                        | 星期四 26時15分－26時45分  |                                                                                                               |                                      |             |
+| [佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")                                  | [佐賀電視台](https://zh.wikipedia.org/wiki/佐賀電視台 "wikilink")     | 2015年10月9日－12月18日  | 星期五 24時40分－25時10分                                                                                             |                                      |             |
+| [北海道](../Page/北海道.md "wikilink")                                                     | [北海道文化放送](https://zh.wikipedia.org/wiki/北海道文化放送 "wikilink") | 2015年10月11日－12月20日 | 星期日 26時00分－26時30分                                                                                             |                                      |             |
+| [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")                                  | [長野放送](https://zh.wikipedia.org/wiki/長野放送 "wikilink")       | 2015年10月20日－12月29日 | 星期二 25時55分－26時25分                                                                                             |                                      |             |
+| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink") | [山陰中央電視台](https://zh.wikipedia.org/wiki/山陰中央電視台 "wikilink") | 2016年1月8日－         | 星期一 25時25分－25時55分                                                                                             |                                      |             |
+|                                                                                      |                                                             |                    |                                                                                                               |                                      |             |
 
 ### BD / DVD
 
@@ -619,13 +621,13 @@ INSIDER**》，於2015年10月在[noitaminA時段播放](../Page/noitaminA.md "w
 
 ## 漫畫版
 
-2002年由[幻冬舎集結成單行本刊行](../Page/幻冬舎.md "wikilink")。2015年於電視動畫開播之前於『[ARIA](../Page/ARIA_\(雜誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）2015年7月號到2016年1月號的雜誌上連載，使用《**全部成為F-THE
+2002年由[幻冬舎集結成單行本刊行](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")。2015年於電視動畫開播之前於『[ARIA](https://zh.wikipedia.org/wiki/ARIA_\(雜誌\) "wikilink")』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2015年7月號到2016年1月號的雜誌上連載，使用《**全部成為F-THE
 PERFECT INSIDER-**》此標題作為漫畫名稱。
 
   - 幻冬舎
 
 :\*
-森博嗣（原作）[淺田寅ヲ](../Page/淺田寅ヲ.md "wikilink")（作画）[幻冬舎](../Page/幻冬舎.md "wikilink")〈BIRZ
+森博嗣（原作）[淺田寅ヲ](../Page/淺田寅ヲ.md "wikilink")（作画）[幻冬舎](https://zh.wikipedia.org/wiki/幻冬舎 "wikilink")〈BIRZ
 COMICS〉、全1卷
 
 :\*\* 2001年9月28日發行、ISBN 978-4-7897-8380-4
@@ -639,20 +641,20 @@ COMICS〉、全1卷
   - 講談社
 
 :\* 森博嗣（原作）[霜月灰吏](../Page/霜月灰吏.md "wikilink")（作畫）
-[講談社](../Page/講談社.md "wikilink")〈KCx ARIA〉、全2卷
+[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KCx ARIA〉、全2卷
 
 <table>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -715,6 +717,7 @@ COMICS〉、全1卷
 1.  [1](https://web.archive.org/web/20060811230800/http://www.kid-game.co.jp/kid/game/game_coolkid/f/index.html)
 2.
 3.  [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html)
-    、[Sponti Annex](../Page/Sponti_Annex.md "wikilink")、2014年12月27日閱覧。
+    、[Sponti
+    Annex](https://zh.wikipedia.org/wiki/Sponti_Annex "wikilink")、2014年12月27日閱覧。
 4.
 5.

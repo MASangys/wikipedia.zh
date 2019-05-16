@@ -1,6 +1,6 @@
 **JavaServer
-Faces**（**JSF**）是一个为[网络应用程序构建](../Page/网络应用程序.md "wikilink")[基于组件的](../Page/基于组件的软件工程.md "wikilink")[用户界面的](../Page/用户界面.md "wikilink")[Java规范](../Page/Java.md "wikilink")\[1\]，并已通过[JCP格式化为](../Page/JCP.md "wikilink")[Java
-EE的一部分](../Page/Java_EE.md "wikilink")。它也是一个[MVC](../Page/MVC.md "wikilink")
+Faces**（**JSF**）是一个为[网络应用程序构建](../Page/网络应用程序.md "wikilink")[基于组件的](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")[用户界面的](../Page/用户界面.md "wikilink")[Java规范](../Page/Java.md "wikilink")\[1\]，并已通过[JCP格式化为](../Page/JCP.md "wikilink")[Java
+EE的一部分](https://zh.wikipedia.org/wiki/Java_EE "wikilink")。它也是一个[MVC](../Page/MVC.md "wikilink")
 [Web应用框架](../Page/Web应用框架.md "wikilink")，通过在页面中使用可重用的UI组件简化了基于服务器的应用程序的[用户界面](../Page/用户界面.md "wikilink")（UI）。\[2\]
 
 ## 版本
@@ -12,21 +12,22 @@ EE的一部分](../Page/Java_EE.md "wikilink")。它也是一个[MVC](../Page/MV
     amount of spec changes.
   - JSF 2.0 (2009-06-28) — Major release for ease of use, enhanced
     functionality, and performance. Coincides with [Java
-    EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") 6.
+    EE](https://zh.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition "wikilink")
+    6.
   - JSF 1.2 (2006-05-11) — 核心系统和API改进. Coincides with [Java
-    EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") 5.
-    Initial adoption into Java EE.
+    EE](https://zh.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition "wikilink")
+    5. Initial adoption into Java EE.
   - JSF 1.1 (2004-05-27) — 错误修复,没有更改规范.
   - JSF 1.0 (2004-03-11) — 初始规范发布.
 
 ## 技术的主要组件
 
-为了展现UI组件和管理它们的状态；操作事件、服务器端的确认和数据变换；定义页面导航；支持[国际化和可访问性](../Page/国际化.md "wikilink")；提供对所有特性的可扩展性的[API为了在](../Page/API.md "wikilink")[JSP中表示UI组件和拍发组件给服务器端对象的两个JSP自定义tag库](../Page/JSP.md "wikilink")。
+为了展现UI组件和管理它们的状态；操作事件、服务器端的确认和数据变换；定义页面导航；支持[国际化和可访问性](https://zh.wikipedia.org/wiki/国际化 "wikilink")；提供对所有特性的可扩展性的[API为了在](https://zh.wikipedia.org/wiki/API "wikilink")[JSP中表示UI组件和拍发组件给服务器端对象的两个JSP自定义tag库](../Page/JSP.md "wikilink")。
 
 ## JavaServer Faces技术好处
 
 引入了基于组件和[事件驱动的开发模式](../Page/事件驅動程式設計.md "wikilink")，使开发人员可以使用类似于处理传统界面的方式来开发Web应用程序。提供了行为与表达的清晰分离。
-不用特别的[脚本语言或者](../Page/脚本语言.md "wikilink")[标记语言来连接UI组件和Web层](../Page/标记语言.md "wikilink")。JSF技术API被直接分层在[Servlet](../Page/Servlet.md "wikilink")
+不用特别的[脚本语言或者](../Page/脚本语言.md "wikilink")[标记语言来连接UI组件和Web层](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。JSF技术API被直接分层在[Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")
 API的顶端。 技术为管理组件状态提供一个丰富的体系机构、处理组件数据、确认用户输入和操作事件。
 
 ## JavaServer Faces应用程序
@@ -57,7 +58,7 @@ API的顶端。 技术为管理组件状态提供一个丰富的体系机构、�
 
 ## 参见
 
-  - [J2EE](../Page/J2EE.md "wikilink")
+  - [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")
   - [Struts](../Page/Struts.md "wikilink")
 
 ## 参考资料
@@ -121,8 +122,8 @@ API的顶端。 技术为管理组件状态提供一个丰富的体系机构、�
     catalog](http://www.jsftutorials.net)
 
   - [JSR 276](http://www.jcp.org/en/jsr/detail?id=276) Design-Time
-    [Metadata](../Page/Metadata.md "wikilink") for JavaServer Faces
-    Components
+    [Metadata](https://zh.wikipedia.org/wiki/Metadata "wikilink") for
+    JavaServer Faces Components
 
   - JSF在java.net上的项目页面
 

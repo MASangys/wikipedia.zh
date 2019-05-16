@@ -1,4 +1,4 @@
-《**壹號皇庭V**》（[英文](../Page/英語.md "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，於1997年3月10日首播，共45集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出\[1\]\[2\]。
+《**壹號皇庭V**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台時裝法律](../Page/翡翠台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1997年3月10日首播，共45集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出\[1\]\[2\]。
 
 ## 演員表
 
@@ -47,7 +47,7 @@
 <td><p>Alex<br />
 高級督察<br />
 李彤之未婚夫<br />
-於第43集被<a href="../Page/精神病.md" title="wikilink">精神病患者用刀殺死</a></p></td>
+於第43集被<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病患者用刀殺死</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a></p></td>
@@ -81,7 +81,7 @@
 <td><p>彬Sir<br />
 警長<br />
 林學宜之夫<br />
-於第43集間接令徐偉-{杰}-被<a href="../Page/精神病.md" title="wikilink">精神病患者用刀殺死</a></p></td>
+於第43集間接令徐偉-{杰}-被<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病患者用刀殺死</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林漪娸.md" title="wikilink">林漪娸</a></p></td>
@@ -154,7 +154,7 @@
 方偉豪之女友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳曉雲.md" title="wikilink">陳曉雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳曉雲" title="wikilink">陳曉雲</a></p></td>
 <td><p>黎家蕊</p></td>
 <td><p>Jenny<br />
 檢控官<br />
@@ -180,7 +180,7 @@
 <td><p>英姐<br />
 江家前傭人<br />
 邱永健、邱永康之母<br />
-（第一輯由<a href="../Page/梁愛.md" title="wikilink">梁愛飾演</a>）</p></td>
+（第一輯由<a href="https://zh.wikipedia.org/wiki/梁愛" title="wikilink">梁愛飾演</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/劉家輝.md" title="wikilink">劉家輝</a></p></td>
@@ -193,7 +193,7 @@
 <td><p>歐子強後母</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王伟_(香港).md" title="wikilink">王　偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王伟_(香港)" title="wikilink">王　偉</a></p></td>
 <td><p>趙澤材</p></td>
 <td><p>趙麗瑩之父</p></td>
 </tr>
@@ -217,13 +217,13 @@
 喜歡周文彬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴少民.md" title="wikilink">戴少民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
 <td><p>莫浩全</p></td>
 <td><p>全叔<br />
 探員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林劍峰.md" title="wikilink">林劍峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林劍峰" title="wikilink">林劍峰</a></p></td>
 <td><p>王忠正</p></td>
 <td><p>阿正<br />
 探員</p></td>
@@ -250,27 +250,27 @@
 <td><p>張小燕</p></td>
 <td><p>Daisy<br />
 舞小姐<br />
-於第8集在<a href="../Page/大陸.md" title="wikilink">大陸被孫海基用刀殺死</a></p></td>
+於第8集在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸被孫海基用刀殺死</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張鴻昌.md" title="wikilink">張鴻昌</a></p></td>
 <td><p>孫海基</p></td>
-<td><p>於第8集在<a href="../Page/大陸.md" title="wikilink">大陸用刀殺死周少聰</a>、張小燕<br />
+<td><p>於第8集在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸用刀殺死周少聰</a>、張小燕<br />
 後於第10集在<a href="../Page/中國.md" title="wikilink">中國被判死刑</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃偉森.md" title="wikilink">黃偉森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉森" title="wikilink">黃偉森</a></p></td>
 <td><p>許天霖</p></td>
-<td><p><a href="../Page/大陸.md" title="wikilink">大陸</a><a href="../Page/公安.md" title="wikilink">公安</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸</a><a href="https://zh.wikipedia.org/wiki/公安" title="wikilink">公安</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/魏惠文.md" title="wikilink">魏惠文</a></p></td>
 <td><p>楊　安</p></td>
 <td><p>李彤之夫<br />
-後於第10集因在<a href="../Page/大陸.md" title="wikilink">大陸屢犯盜竊而被判死刑</a></p></td>
+後於第10集因在<a href="https://zh.wikipedia.org/wiki/大陸" title="wikilink">大陸屢犯盜竊而被判死刑</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王啟德.md" title="wikilink">王啟德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王啟德" title="wikilink">王啟德</a></p></td>
 <td><p>Edmond</p></td>
 <td></td>
 </tr>
@@ -280,12 +280,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林祖輝_(無綫演員).md" title="wikilink">林祖輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林祖輝_(無綫演員)" title="wikilink">林祖輝</a></p></td>
 <td><p>何　志</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/謝潔珊.md" title="wikilink">謝潔珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝潔珊" title="wikilink">謝潔珊</a></p></td>
 <td><p>崔佩麗</p></td>
 <td></td>
 </tr>
@@ -326,62 +326,62 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/雷詠怡.md" title="wikilink">雷詠怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷詠怡" title="wikilink">雷詠怡</a></p></td>
 <td><p>Ivy</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朱樂輝.md" title="wikilink">朱樂輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱樂輝" title="wikilink">朱樂輝</a></p></td>
 <td><p>汽車經紀</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何美好.md" title="wikilink">何美好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何美好" title="wikilink">何美好</a></p></td>
 <td><p>紅</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李慧萍.md" title="wikilink">李慧萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李慧萍" title="wikilink">李慧萍</a></p></td>
 <td><p>程若暉秘書</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張捷(內地演員).md" title="wikilink">張　捷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張捷(內地演員)" title="wikilink">張　捷</a></p></td>
 <td><p>余在春秘書</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陸婉芬.md" title="wikilink">陸婉芬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陸婉芬" title="wikilink">陸婉芬</a></p></td>
 <td><p>歐子強女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃偌儀.md" title="wikilink">黃偌儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偌儀" title="wikilink">黃偌儀</a></p></td>
 <td><p>夔彧藠朋友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃凱詩.md" title="wikilink">黃凱詩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃凱詩" title="wikilink">黃凱詩</a></p></td>
 <td><p>程若暉助手</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉永晉.md" title="wikilink">劉永晉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉永晉" title="wikilink">劉永晉</a></p></td>
 <td><p>邱永康助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅立勤.md" title="wikilink">羅立勤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅立勤" title="wikilink">羅立勤</a></p></td>
 <td><p>李彤客人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何壁堅.md" title="wikilink">何壁堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何壁堅" title="wikilink">何壁堅</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳中堅.md" title="wikilink">陳中堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳中堅" title="wikilink">陳中堅</a></p></td>
 <td><p>法　官</p></td>
 <td></td>
 </tr>
@@ -391,27 +391,27 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/余英豪.md" title="wikilink">余英豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余英豪" title="wikilink">余英豪</a></p></td>
 <td><p>鑑證官</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬兆猛.md" title="wikilink">馬兆猛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬兆猛" title="wikilink">馬兆猛</a></p></td>
 <td><p>鑑證官</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/宋憲華.md" title="wikilink">宋憲華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋憲華" title="wikilink">宋憲華</a></p></td>
 <td><p>醫　生</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李家健.md" title="wikilink">李家健</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李家健" title="wikilink">李家健</a></p></td>
 <td><p>Joey</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李健成.md" title="wikilink">李健成</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李健成" title="wikilink">李健成</a></p></td>
 <td><p>私家偵探</p></td>
 <td></td>
 </tr>
@@ -431,7 +431,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈寶思.md" title="wikilink">沈寶思</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈寶思" title="wikilink">沈寶思</a></p></td>
 <td><p>O記探員</p></td>
 <td></td>
 </tr>
@@ -441,37 +441,37 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>便衣探員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓凡.md" title="wikilink">卓　凡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓凡" title="wikilink">卓　凡</a></p></td>
 <td><p>探　員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/易天雄.md" title="wikilink">易天雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易天雄" title="wikilink">易天雄</a></p></td>
 <td><p>槍手甲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃德基.md" title="wikilink">黃德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃德基" title="wikilink">黃德基</a></p></td>
 <td><p>槍手乙</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/計祥龍.md" title="wikilink">計祥龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/計祥龍" title="wikilink">計祥龍</a></p></td>
 <td><p>義</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/莫俊傑.md" title="wikilink">莫俊傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫俊傑" title="wikilink">莫俊傑</a></p></td>
 <td><p>東</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馮陽德.md" title="wikilink">馮陽德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮陽德" title="wikilink">馮陽德</a></p></td>
 <td><p>材</p></td>
 <td></td>
 </tr>
@@ -481,12 +481,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳燕航.md" title="wikilink">陳燕航</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳燕航" title="wikilink">陳燕航</a></p></td>
 <td><p>舞小姐</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飆.md" title="wikilink">游　飆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飆" title="wikilink">游　飆</a></p></td>
 <td><p>梁日和</p></td>
 <td></td>
 </tr>
@@ -496,7 +496,7 @@
 <td><p>名流</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/盧卓南.md" title="wikilink">盧卓南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧卓南" title="wikilink">盧卓南</a></p></td>
 <td><p>殺　手</p></td>
 <td></td>
 </tr>
@@ -532,7 +532,7 @@
 於街上突然失控槍傷途人並挾持人質, 最終被槍傷制服</p></td>
 </tr>
 <tr class="even">
-<td><p>-{<a href="../Page/黃鳳琼.md" title="wikilink">黃鳳琼</a>}-</p></td>
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳琼</a>}-</p></td>
 <td><p>人　質</p></td>
 <td><p>被傻警挾持時被劉鎮海錯手射殺</p></td>
 </tr>
@@ -582,7 +582,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈星銘.md" title="wikilink">沈星銘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈星銘" title="wikilink">沈星銘</a></p></td>
 <td><p>軍裝警員</p></td>
 <td></td>
 </tr>
@@ -688,7 +688,7 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煒棋.md" title="wikilink">李煒棋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煒棋" title="wikilink">李煒棋</a></p></td>
 <td><p>黎志德</p></td>
 <td><p>劉少梅之夫<br />
 於第13集被判謀殺罪成入獄</p></td>
@@ -705,7 +705,7 @@
 <td><p>於第13集被判謀殺罪成入獄</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馮瑞珍.md" title="wikilink">馮瑞珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瑞珍" title="wikilink">馮瑞珍</a></p></td>
 <td><p>黎志德外母</p></td>
 <td></td>
 </tr>
@@ -769,12 +769,12 @@
 
 ### 六、唐俊雄案
 
-|                                          |        |           |
-| ---------------------------------------- | ------ | --------- |
-| **演員**                                   | **角色** | **暱稱/身份** |
-| [黃小龍](../Page/黃小龍.md "wikilink")         | 唐俊雄    | 被告        |
-| [張俊華](../Page/張俊華\(香港演員\).md "wikilink") | 軍裝警員   |           |
-|                                          |        |           |
+|                                                             |        |           |
+| ----------------------------------------------------------- | ------ | --------- |
+| **演員**                                                      | **角色** | **暱稱/身份** |
+| [黃小龍](https://zh.wikipedia.org/wiki/黃小龍 "wikilink")         | 唐俊雄    | 被告        |
+| [張俊華](https://zh.wikipedia.org/wiki/張俊華\(香港演員\) "wikilink") | 軍裝警員   |           |
+|                                                             |        |           |
 
 |          |        |
 | -------- | ------ |
@@ -837,7 +837,7 @@
 於第19集強姦黎家蕊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳曉雲.md" title="wikilink">陳曉雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳曉雲" title="wikilink">陳曉雲</a></p></td>
 <td><p>黎家蕊</p></td>
 <td><p>Jenny<br />
 檢控官<br />
@@ -875,18 +875,18 @@
 
 ### 九、朱有國、梁家聲案
 
-|                                  |        |           |
-| -------------------------------- | ------ | --------- |
-| **演員**                           | **角色** | **暱稱/身份** |
-| [張錦程](../Page/張錦程.md "wikilink") | 朱有國    | 被告        |
-| [葉振聲](../Page/葉振聲.md "wikilink") | 梁家聲    | 被告        |
-| [李志偉](../Page/李志偉.md "wikilink") | 王子新    | 死者        |
-| [蓋世寶](../Page/蓋世寶.md "wikilink") | 林詠琪    | 死者        |
-| [陳向瑩](../Page/陳向瑩.md "wikilink") | 陳麗平    | 死者        |
-| [曹　濟](../Page/曹_濟.md "wikilink") | 陳麗平父   |           |
-| [廖麗麗](../Page/廖麗麗.md "wikilink") | 陳麗平母   |           |
-| [張松枝](../Page/張松枝.md "wikilink") | 坪州居民   | 證人        |
-|                                  |        |           |
+|                                                     |        |           |
+| --------------------------------------------------- | ------ | --------- |
+| **演員**                                              | **角色** | **暱稱/身份** |
+| [張錦程](../Page/張錦程.md "wikilink")                    | 朱有國    | 被告        |
+| [葉振聲](../Page/葉振聲.md "wikilink")                    | 梁家聲    | 被告        |
+| [李志偉](https://zh.wikipedia.org/wiki/李志偉 "wikilink") | 王子新    | 死者        |
+| [蓋世寶](../Page/蓋世寶.md "wikilink")                    | 林詠琪    | 死者        |
+| [陳向瑩](https://zh.wikipedia.org/wiki/陳向瑩 "wikilink") | 陳麗平    | 死者        |
+| [曹　濟](https://zh.wikipedia.org/wiki/曹_濟 "wikilink") | 陳麗平父   |           |
+| [廖麗麗](../Page/廖麗麗.md "wikilink")                    | 陳麗平母   |           |
+| [張松枝](../Page/張松枝.md "wikilink")                    | 坪州居民   | 證人        |
+|                                                     |        |           |
 
 <table>
 <tbody>
@@ -946,7 +946,7 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/刘江_(香港).md" title="wikilink">劉　江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘江_(香港)" title="wikilink">劉　江</a></p></td>
 <td><p>林耀東</p></td>
 <td><p>於第29集因恐嚇及勒索程樂天被判罪成入獄</p></td>
 </tr>
@@ -1023,16 +1023,16 @@
 
 ### 十二、錢有根、歐國堅案
 
-|                                         |        |           |
-| --------------------------------------- | ------ | --------- |
-| **演員**                                  | **角色** | **暱稱/身份** |
-| [麥子雲](../Page/麥子雲.md "wikilink")        | 錢有根    |           |
-| [劉家輝](../Page/劉家輝.md "wikilink")        | 歐國堅    | 歐子強之父     |
-| [呂有慧](../Page/呂有慧.md "wikilink")        | 葉巧明    | 歐子強後母     |
-| [吳偉文](../Page/吳偉文_\(演員\).md "wikilink") | 麥貫邦    |           |
-| [林芷筠](../Page/林芷筠.md "wikilink")        | 未成年少女  |           |
-| [博　君](../Page/博_君.md "wikilink")        | 被撞倒者   |           |
-|                                         |        |           |
+|                                                            |        |           |
+| ---------------------------------------------------------- | ------ | --------- |
+| **演員**                                                     | **角色** | **暱稱/身份** |
+| [麥子雲](https://zh.wikipedia.org/wiki/麥子雲 "wikilink")        | 錢有根    |           |
+| [劉家輝](../Page/劉家輝.md "wikilink")                           | 歐國堅    | 歐子強之父     |
+| [呂有慧](../Page/呂有慧.md "wikilink")                           | 葉巧明    | 歐子強後母     |
+| [吳偉文](https://zh.wikipedia.org/wiki/吳偉文_\(演員\) "wikilink") | 麥貫邦    |           |
+| [林芷筠](../Page/林芷筠.md "wikilink")                           | 未成年少女  |           |
+| [博　君](https://zh.wikipedia.org/wiki/博_君 "wikilink")        | 被撞倒者   |           |
+|                                                            |        |           |
 
 |          |      |     |
 | -------- | ---- | --- |
@@ -1133,12 +1133,12 @@
 
 ### 十五、方偉豪案
 
-|                                  |        |           |
-| -------------------------------- | ------ | --------- |
-| **演員**                           | **角色** | **暱稱/身份** |
-| [林保怡](../Page/林保怡.md "wikilink") | 方偉豪    | Kelvin    |
-| [楊子韜](../Page/楊子韜.md "wikilink") | 羅　標    |           |
-|                                  |        |           |
+|                                                     |        |           |
+| --------------------------------------------------- | ------ | --------- |
+| **演員**                                              | **角色** | **暱稱/身份** |
+| [林保怡](../Page/林保怡.md "wikilink")                    | 方偉豪    | Kelvin    |
+| [楊子韜](https://zh.wikipedia.org/wiki/楊子韜 "wikilink") | 羅　標    |           |
+|                                                     |        |           |
 
 |          |     |
 | -------- | --- |
@@ -1153,10 +1153,13 @@
 
 ## 歌曲
 
-  - 主題音樂：《[Your Latest Trick](../Page/Your_Latest_Trick.md "wikilink")》
-      - SAXO-PHONE：[Phil Rombaoa](../Page/Phil_Rombaoa.md "wikilink")
-      - 作曲：[Mark Knopfler](../Page/Mark_Knopfler.md "wikilink") /
-        [羅雁武](../Page/羅雁武.md "wikilink")
+  - 主題音樂：《[Your Latest
+    Trick](https://zh.wikipedia.org/wiki/Your_Latest_Trick "wikilink")》
+      - SAXO-PHONE：[Phil
+        Rombaoa](https://zh.wikipedia.org/wiki/Phil_Rombaoa "wikilink")
+      - 作曲：[Mark
+        Knopfler](https://zh.wikipedia.org/wiki/Mark_Knopfler "wikilink")
+        / [羅雁武](https://zh.wikipedia.org/wiki/羅雁武 "wikilink")
 
 <!-- end list -->
 
@@ -1168,35 +1171,39 @@
 <!-- end list -->
 
   - 插曲《不應該發生》
-      - 作曲：[Alex San](../Page/Alex_San.md "wikilink")
-      - 填詞：[李敏](../Page/李敏.md "wikilink")
+      - 作曲：[Alex San](https://zh.wikipedia.org/wiki/Alex_San "wikilink")
+      - 填詞：[李敏](https://zh.wikipedia.org/wiki/李敏 "wikilink")
       - 主唱：[馬浚偉](../Page/馬浚偉.md "wikilink")
 
 <!-- end list -->
 
   - 插曲《That's Why （You Go Away）》
-      - 作曲：[Jascha Richter](../Page/Jascha_Richter.md "wikilink")
-      - 填詞：[Jascha Richter](../Page/Jascha_Richter.md "wikilink")
+      - 作曲：[Jascha
+        Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
+      - 填詞：[Jascha
+        Richter](https://zh.wikipedia.org/wiki/Jascha_Richter "wikilink")
       - 主唱：[Michael Learns to
-        Rock](../Page/Michael_Learns_to_Rock.md "wikilink")
+        Rock](https://zh.wikipedia.org/wiki/Michael_Learns_to_Rock "wikilink")
 
 <!-- end list -->
 
   - 插曲《What Will I Do》
-      - 作曲：[Cagnet](../Page/Cagnet.md "wikilink")
-      - 填詞：[Cagnet](../Page/Cagnet.md "wikilink")
-      - 主唱：[Natalie Burks](../Page/Natalie_Burks.md "wikilink")
+      - 作曲：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
+      - 填詞：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
+      - 主唱：[Natalie
+        Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
 
 <!-- end list -->
 
   - 插曲《Close To Me》
-      - 作曲：[Cagnet](../Page/Cagnet.md "wikilink")
-      - 填詞：[Cagnet](../Page/Cagnet.md "wikilink")
-      - 主唱：[Natalie Burks](../Page/Natalie_Burks.md "wikilink")
+      - 作曲：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
+      - 填詞：[Cagnet](https://zh.wikipedia.org/wiki/Cagnet "wikilink")
+      - 主唱：[Natalie
+        Burks](https://zh.wikipedia.org/wiki/Natalie_Burks "wikilink")
 
 ## 軼事
 
-  - 此劇是[陳慧珊首次參演](../Page/陳慧珊.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")。
+  - 此劇是[陳慧珊首次參演](../Page/陳慧珊.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 參考
 

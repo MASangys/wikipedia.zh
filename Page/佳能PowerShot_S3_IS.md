@@ -1,8 +1,9 @@
 **[佳能](../Page/佳能.md "wikilink") PowerShot S3 IS**
 这部600万像素的[数码相机首次亮相于](../Page/数码相机.md "wikilink")[2006年2月并且在](../Page/2006年2月.md "wikilink")[当年五月正式发布](../Page/2006年5月.md "wikilink")。它是佳能第三款长焦数码相机，拥有12x
 [变焦镜头和IS影像稳定系统](../Page/变焦镜头.md "wikilink")。它的前任型号是拥有12x
-变焦镜头，[DIGIC处理器和IS影像稳定系统但是只有](../Page/DIGIC.md "wikilink")500万像素的[Canon
-PowerShot S2 IS](../Page/Canon_PowerShot_S2_IS.md "wikilink")。
+变焦镜头，[DIGIC处理器和IS影像稳定系统但是只有](https://zh.wikipedia.org/wiki/DIGIC "wikilink")500万像素的[Canon
+PowerShot S2
+IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_S2_IS "wikilink")。
 
 ## Features
 
@@ -38,8 +39,9 @@ PowerShot S2 IS](../Page/Canon_PowerShot_S2_IS.md "wikilink")。
 |- |colspan="3" style="text-align:center;"|**佳能 "长焦" 消费数码相机** |-
 
 [en:Canon PowerShot S3
-IS](../Page/en:Canon_PowerShot_S3_IS.md "wikilink") [pl:Canon PowerShot
-S3 IS](../Page/pl:Canon_PowerShot_S3_IS.md "wikilink")
+IS](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_S3_IS "wikilink")
+[pl:Canon PowerShot S3
+IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_S3_IS "wikilink")
 
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
 [Category:2006年面世的相機](https://zh.wikipedia.org/wiki/Category:2006年面世的相機 "wikilink")

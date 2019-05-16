@@ -1,12 +1,12 @@
-**ReiserFS**，是一种[文件系统格式](../Page/文件系统.md "wikilink")，作者是[汉斯·瑞塞尔](../Page/汉斯·瑞塞尔.md "wikilink")（Hans
+**ReiserFS**，是一种[文件系统格式](../Page/文件系统.md "wikilink")，作者是[汉斯·瑞塞尔](https://zh.wikipedia.org/wiki/汉斯·瑞塞尔 "wikilink")（Hans
 Reiser）及其團隊Namesys，1997年7月23日他将ReiserFS文件系统在[互联网上公布](../Page/互联网.md "wikilink")。[Linux内核从](../Page/Linux内核.md "wikilink")2.4.1版本开始支持ReiserFS。
 
 ReiserFS的命名是源自作者Hans
 Reiser的姓氏，這個日誌型檔案系統發展比ext2/3晚近許多。在技術上使用的是B\*-tree為基礎的檔案系統，其特色為能很高效率地處理大型檔案到眾多小檔案；實務上ReiserFS在處理檔案小於1k小檔案時，甚至效率可以比ext3快約10倍。
 
-ReiserFS原先是[Novell公司的](../Page/Novell.md "wikilink")[SuSE](../Page/SuSE.md "wikilink")
+ReiserFS原先是[Novell公司的](../Page/Novell.md "wikilink")[SuSE](https://zh.wikipedia.org/wiki/SuSE "wikilink")
 Linux
-Enterprise採用的預設檔案系統，直到2006年10月12日其宣稱將在未來的版本改採[ext3為預設](../Page/ext3.md "wikilink")\[1\]。Novell公司否認這與Hans
+Enterprise採用的預設檔案系統，直到2006年10月12日其宣稱將在未來的版本改採[ext3為預設](https://zh.wikipedia.org/wiki/ext3 "wikilink")\[1\]。Novell公司否認這與Hans
 Reiser被控殺妻案有任何關聯\[2\]。
 
 ## 功能特點

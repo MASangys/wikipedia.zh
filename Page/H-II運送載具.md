@@ -22,7 +22,7 @@
 H-II運輸載具
 
 [HTV-1_approaches_ISS.jpg](https://zh.wikipedia.org/wiki/File:HTV-1_approaches_ISS.jpg "fig:HTV-1_approaches_ISS.jpg")，H-II運輸載具（白鸛號）一號機\]\]
-**運輸載具**（，****）也稱為白鸛號（KOUNOTORI），是一艘用來補給[國際太空站的](../Page/國際太空站.md "wikilink")[無人太空船](../Page/無人太空船.md "wikilink")。[日本](../Page/日本.md "wikilink")[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")（JAXA）自1990年代初期即斷斷續續的設計和建造HTV；最先預定於2001年首次發射使用，后延後至2009年9月发射。至後、日本已於日本時間2009年9月11日凌晨2時1分，由[種子島宇宙中心發射HTV補給船](../Page/種子島宇宙中心.md "wikilink")，搭載於日本最新型[H-IIB運載火箭一號機上](../Page/H-IIB運載火箭.md "wikilink")，前往[国际空间站進行運補物資任務](../Page/国际空间站.md "wikilink")\[1\]。
+**運輸載具**（，****）也稱為白鸛號（KOUNOTORI），是一艘用來補給[國際太空站的](https://zh.wikipedia.org/wiki/國際太空站 "wikilink")[無人太空船](https://zh.wikipedia.org/wiki/無人太空船 "wikilink")。[日本](../Page/日本.md "wikilink")[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")（JAXA）自1990年代初期即斷斷續續的設計和建造HTV；最先預定於2001年首次發射使用，后延後至2009年9月发射。至後、日本已於日本時間2009年9月11日凌晨2時1分，由[種子島宇宙中心發射HTV補給船](../Page/種子島宇宙中心.md "wikilink")，搭載於日本最新型[H-IIB運載火箭一號機上](../Page/H-IIB運載火箭.md "wikilink")，前往[国际空间站進行運補物資任務](../Page/国际空间站.md "wikilink")\[1\]。
 
 此外，在二號機發射前，JAXA進行了名稱公募活動，最後於2010年11月11日發表結果，系列名稱定名為「白鸛」（，KOUNOTORI，日本傳說中為送子與帶來幸福之鳥）\[2\]
 
@@ -92,7 +92,7 @@ Sensor navigation）』。
 [Category:日本航天器](https://zh.wikipedia.org/wiki/Category:日本航天器 "wikilink")
 [Category:H-II運送載具](https://zh.wikipedia.org/wiki/Category:H-II運送載具 "wikilink")
 
-1.  [聯合報](../Page/聯合報.md "wikilink")╱東京特派員陳世昌／10日電，補給太空站日發射無人太空船,2009.09.11
+1.  [聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")╱東京特派員陳世昌／10日電，補給太空站日發射無人太空船,2009.09.11
     03:07 am.
 2.  [JAXA官方網站新聞稿：宇宙ステーション補給機（HTV）の愛称選定について](http://www.jaxa.jp/press/2010/11/20101111_kounotori_j.html)
 3.  [回收囊返地球

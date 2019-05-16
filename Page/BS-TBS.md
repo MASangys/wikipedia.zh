@@ -1,6 +1,6 @@
 [TBS_akasaka.jpg](https://zh.wikipedia.org/wiki/File:TBS_akasaka.jpg "fig:TBS_akasaka.jpg")
 
-**BS-TBS**是隸屬於[TBS電視的](../Page/TBS電視.md "wikilink")[衛星電視委託放送事業者](../Page/衛星電視.md "wikilink")，為[日本新聞網集團的成員](../Page/日本新聞網.md "wikilink")。
+**BS-TBS**是隸屬於[TBS電視的](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[衛星電視委託放送事業者](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，為[日本新聞網集團的成員](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")。
 
 ## 沿革
 
@@ -32,28 +32,28 @@
 
 **播放完畢**
 
-  - [AIR](../Page/AIR.md "wikilink")
-  - [這醜陋又美麗的世界](../Page/這醜陋又美麗的世界.md "wikilink")
-  - [我的主人愛作怪](../Page/我的主人愛作怪.md "wikilink")
-  - [真月譚月姬](../Page/真月譚月姬.md "wikilink")
-  - [Popotan](../Page/Popotan.md "wikilink")
+  - [AIR](https://zh.wikipedia.org/wiki/AIR "wikilink")
+  - [這醜陋又美麗的世界](https://zh.wikipedia.org/wiki/這醜陋又美麗的世界 "wikilink")
+  - [我的主人愛作怪](https://zh.wikipedia.org/wiki/我的主人愛作怪 "wikilink")
+  - [真月譚月姬](https://zh.wikipedia.org/wiki/真月譚月姬 "wikilink")
+  - [Popotan](https://zh.wikipedia.org/wiki/Popotan "wikilink")
   - [魔力女管家–更美麗的事物](../Page/魔力女管家.md "wikilink")
-  - [ゆめりあ](../Page/ゆめりあ.md "wikilink")
+  - [ゆめりあ](https://zh.wikipedia.org/wiki/ゆめりあ "wikilink")
   - [009-1](../Page/009-1.md "wikilink")
   - [×××HOLiC](../Page/×××HOLiC.md "wikilink")
-  - [黑貓](../Page/黑貓.md "wikilink")
+  - [黑貓](https://zh.wikipedia.org/wiki/黑貓 "wikilink")
   - [幸運女神](../Page/幸運女神.md "wikilink")
   - [幸運女神–各自的翅膀](../Page/幸運女神.md "wikilink")
-  - [後天的方向](../Page/後天的方向.md "wikilink")
-  - [備長炭](../Page/備長炭_\(動畫\).md "wikilink")
+  - [後天的方向](https://zh.wikipedia.org/wiki/後天的方向 "wikilink")
+  - [備長炭](https://zh.wikipedia.org/wiki/備長炭_\(動畫\) "wikilink")
   - [REC](../Page/REC.md "wikilink")
   - [草莓棉花糖](../Page/草莓棉花糖.md "wikilink")
   - [冬季花園](../Page/冬季花園.md "wikilink")（特別篇）
   - [英國戀物語艾瑪](../Page/艾瑪_\(漫畫\).md "wikilink")（重播[UHF
-    Anime已播的動畫](../Page/UHF_Anime.md "wikilink")）
+    Anime已播的動畫](https://zh.wikipedia.org/wiki/UHF_Anime "wikilink")）
   - [Chobits](../Page/Chobits.md "wikilink")（重播原在白天播出的時段）
-  - [Heat Guy-J](../Page/Heat_Guy-J.md "wikilink")
-  - [忘卻的旋律](../Page/忘卻的旋律.md "wikilink")
+  - [Heat Guy-J](https://zh.wikipedia.org/wiki/Heat_Guy-J "wikilink")
+  - [忘卻的旋律](https://zh.wikipedia.org/wiki/忘卻的旋律 "wikilink")
   - [薔薇少女](../Page/薔薇少女.md "wikilink")
   - [薔薇少女 ～夢見～](../Page/薔薇少女.md "wikilink")
   - [薔薇少女 ～序曲～](../Page/薔薇少女.md "wikilink")（特別篇）
@@ -64,23 +64,24 @@
   - [魔力女管家](../Page/魔力女管家.md "wikilink")
   - [怪物王女](../Page/怪物王女.md "wikilink")
   - [CLANNAD](../Page/CLANNAD.md "wikilink")
-  - [K-ON\!](../Page/K-ON!.md "wikilink")
+  - [K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")
 
 另外，BS-i只在深夜播放的動畫多與UHF Anime相似。
 
 #### 白天播出
 
   - [機動戰士Gundam 0083:Stardust
-    Memory](../Page/機動戰士Gundam_0083:Stardust_Memory.md "wikilink")（[OVA](../Page/OVA.md "wikilink")・2006年11月19日開始播放）
+    Memory](https://zh.wikipedia.org/wiki/機動戰士Gundam_0083:Stardust_Memory "wikilink")（[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")・2006年11月19日開始播放）
 
 **播放完畢**
 
-  - [MUSASHI GUN道](../Page/MUSASHI_GUN道.md "wikilink")
-  - [RGBアドベンチャー](../Page/RGBアドベンチャー.md "wikilink")
-  - [小小雪精靈](../Page/小小雪精靈.md "wikilink")
+  - [MUSASHI
+    GUN道](https://zh.wikipedia.org/wiki/MUSASHI_GUN道 "wikilink")
+  - [RGBアドベンチャー](https://zh.wikipedia.org/wiki/RGBアドベンチャー "wikilink")
+  - [小小雪精靈](https://zh.wikipedia.org/wiki/小小雪精靈 "wikilink")
   - [秋葉原電腦組](../Page/秋葉原電腦組.md "wikilink")
   - [魔術師歐菲](../Page/魔術師歐菲.md "wikilink")
-  - [機動戰士鋼彈0080:口袋裡的戰爭](../Page/機動戰士鋼彈0080:口袋裡的戰爭.md "wikilink")（OVA）
+  - [機動戰士鋼彈0080:口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士鋼彈0080:口袋裡的戰爭 "wikilink")（OVA）
 
 ## 外部連結
 

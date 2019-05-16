@@ -1,6 +1,6 @@
 [OpenSPARC開放原碼社群網站.png](https://zh.wikipedia.org/wiki/File:OpenSPARC開放原碼社群網站.png "fig:OpenSPARC開放原碼社群網站.png")
 
-**OpenSPARC**是一個[開放原始碼](../Page/開放原始碼.md "wikilink")（Open
+**OpenSPARC**是一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")（Open
 Source）專案，該專案於2005年12月由[昇陽電腦所發起成立](../Page/昇陽電腦.md "wikilink")，成立之初先由該公司釋出[UltraSPARC
 T1處理器在電路設計上的](../Page/UltraSPARC_T1.md "wikilink")[原始程式碼](../Page/源代码.md "wikilink")（Source
 Code），如此可以使軟硬體的開發設計者（及開發商）能更快速容易的取得該處理器的架構原理與相關技術資料，進而更快開發出呼應支援此架構的軟硬體應用及產品。
@@ -8,7 +8,7 @@ Code），如此可以使軟硬體的開發設計者（及開發商）能更快�
 此外，OpenSPARC專案也類似一個開發設計的服務社群，除了可以共享技術資料外，相互之間也可就研發上的技術難題與經驗進行討論，甚至是測試驗證等的交流。
 
 雖然2005年底就已提案成立，不過一直等到2006年3月21日，[昇陽電腦才正式釋出](../Page/昇陽電腦.md "wikilink")（Release）UltraSPARC
-T1處理器的程式碼，程式碼是以[Verilog的](../Page/Verilog.md "wikilink")[硬體描述程式語言所撰寫成](../Page/硬體描述程式語言.md "wikilink")，不過昇陽電腦對於程式碼的開放有其限度，僅開放[暫存器轉化層](../Page/暫存器轉化層.md "wikilink")（Register
+T1處理器的程式碼，程式碼是以[Verilog的](../Page/Verilog.md "wikilink")[硬體描述程式語言所撰寫成](https://zh.wikipedia.org/wiki/硬體描述程式語言 "wikilink")，不過昇陽電腦對於程式碼的開放有其限度，僅開放[暫存器轉化層](https://zh.wikipedia.org/wiki/暫存器轉化層 "wikilink")（Register
 Transfer Level，RTL）的程式，雖不足以用此程式碼來研製UltraSPARC
 T1處理器，但這也已經足夠讓開發設計者用來開發、驗證相容於UltraSPARC
 T1處理器架構的的軟硬體。除了程式碼與相關技術資料的開放外，也提供許多免費的開發工具軟體，或驗證測試之用的工具軟體。

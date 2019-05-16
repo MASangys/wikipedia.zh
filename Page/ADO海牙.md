@@ -1,12 +1,12 @@
 [ADO_Den_Haag_Stadion,_Forepark.jpg](https://zh.wikipedia.org/wiki/File:ADO_Den_Haag_Stadion,_Forepark.jpg "fig:ADO_Den_Haag_Stadion,_Forepark.jpg")
 **ADO海牙**（**ADO**全名是*Alles Door Oefening*，*Everything Through
-Practice*，意思是*每件事都要經過訓練*）是[荷蘭](../Page/荷蘭.md "wikilink")[海牙的一間主要球會](../Page/海牙.md "wikilink")。球會的主場位於新建的[海牙體育場](../Page/海牙體育場.md "wikilink")（ADO
+Practice*，意思是*每件事都要經過訓練*）是[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[海牙的一間主要球會](../Page/海牙.md "wikilink")。球會的主場位於新建的[海牙體育場](https://zh.wikipedia.org/wiki/海牙體育場 "wikilink")（ADO
 Den Haag Stadion），擁有15,000個座位。主場球衣的顏色為黃色和綠色。
 
 球會先前稱為FC海牙（FC Den
-Haag），而ADO則表示球會業餘隊的分支。雖然海牙市是荷蘭傳統三大城市之一，但ADO海牙的成就卻無法和[阿積士和](../Page/阿積士.md "wikilink")[飛燕諾在荷蘭的成就相比](../Page/飛燕諾.md "wikilink")。而和這兩間球會的競爭，經常引起雙方的球迷衝突。但是，由於和阿積士間的衝突比和飛燕諾的多，所以當阿積士和飛燕諾的球迷發生衝突時，ADO的球迷通常會比較傾向飛燕諾的一邊。
+Haag），而ADO則表示球會業餘隊的分支。雖然海牙市是荷蘭傳統三大城市之一，但ADO海牙的成就卻無法和[阿積士和](https://zh.wikipedia.org/wiki/阿積士 "wikilink")[飛燕諾在荷蘭的成就相比](../Page/飛燕諾.md "wikilink")。而和這兩間球會的競爭，經常引起雙方的球迷衝突。但是，由於和阿積士間的衝突比和飛燕諾的多，所以當阿積士和飛燕諾的球迷發生衝突時，ADO的球迷通常會比較傾向飛燕諾的一邊。
 
-ADO海牙在1942年和1943年贏得[荷蘭甲組足球聯賽冠軍](../Page/荷蘭甲組足球聯賽.md "wikilink")，和在1968年與1975年贏得[荷蘭盃的冠軍](../Page/荷蘭盃.md "wikilink")（都是以FC海牙之名取得）。而ADO在歐洲賽最好的成績，就在1976年，球會打入[歐洲杯賽冠軍杯的準決賽](../Page/1975–76年歐洲盃賽冠軍盃.md "wikilink")，對手是[韋斯咸](../Page/韋斯咸.md "wikilink")。他們主場贏4-2，而作客輸1-3，標誌球會被淘汰。其後經過一段長時間在乙組的角逐，現在則重回甲組。
+ADO海牙在1942年和1943年贏得[荷蘭甲組足球聯賽冠軍](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")，和在1968年與1975年贏得[荷蘭盃的冠軍](../Page/荷蘭盃.md "wikilink")（都是以FC海牙之名取得）。而ADO在歐洲賽最好的成績，就在1976年，球會打入[歐洲杯賽冠軍杯的準決賽](https://zh.wikipedia.org/wiki/1975–76年歐洲盃賽冠軍盃 "wikilink")，對手是[韋斯咸](https://zh.wikipedia.org/wiki/韋斯咸 "wikilink")。他們主場贏4-2，而作客輸1-3，標誌球會被淘汰。其後經過一段長時間在乙組的角逐，現在則重回甲組。
 
 ## 榮譽
 
@@ -20,79 +20,96 @@ ADO海牙在1942年和1943年贏得[荷蘭甲組足球聯賽冠軍](../Page/荷�
 
 <!-- end list -->
 
-  - [艾禾卡特](../Page/艾禾卡特.md "wikilink")
+  - [艾禾卡特](https://zh.wikipedia.org/wiki/艾禾卡特 "wikilink")
 
-  - [博德](../Page/博德.md "wikilink")
+  - [博德](https://zh.wikipedia.org/wiki/博德 "wikilink")
 
-  - [維尼斯](../Page/維尼斯.md "wikilink")
+  - [維尼斯](https://zh.wikipedia.org/wiki/維尼斯 "wikilink")
 
-  - [Bram Appel](../Page/Bram_Appel.md "wikilink")
+  - [Bram Appel](https://zh.wikipedia.org/wiki/Bram_Appel "wikilink")
 
-  - [卡斯迪倫](../Page/卡斯迪倫.md "wikilink")
+  - [卡斯迪倫](https://zh.wikipedia.org/wiki/卡斯迪倫 "wikilink")
 
-  - [Mick Clavan](../Page/Mick_Clavan.md "wikilink")
+  - [Mick Clavan](https://zh.wikipedia.org/wiki/Mick_Clavan "wikilink")
 
-  - [Johnny Dusbaba](../Page/Johnny_Dusbaba.md "wikilink")
+  - [Johnny
+    Dusbaba](https://zh.wikipedia.org/wiki/Johnny_Dusbaba "wikilink")
 
-  - [Hans Galjé](../Page/Hans_Galjé.md "wikilink")
+  - [Hans Galjé](https://zh.wikipedia.org/wiki/Hans_Galjé "wikilink")
 
-  - [Oeki Hoekema](../Page/Oeki_Hoekema.md "wikilink")
+  - [Oeki
+    Hoekema](https://zh.wikipedia.org/wiki/Oeki_Hoekema "wikilink")
 
-  - [賀根杜柏](../Page/賀根杜柏.md "wikilink")
+  - [賀根杜柏](https://zh.wikipedia.org/wiki/賀根杜柏 "wikilink")
 
-  - [Peter Houtman](../Page/Peter_Houtman.md "wikilink")
+  - [Peter
+    Houtman](https://zh.wikipedia.org/wiki/Peter_Houtman "wikilink")
 
-  - [Henk Houwaart](../Page/Henk_Houwaart.md "wikilink")
+  - [Henk
+    Houwaart](https://zh.wikipedia.org/wiki/Henk_Houwaart "wikilink")
 
-  - [馬田祖爾](../Page/馬田祖爾.md "wikilink")
+  - [馬田祖爾](https://zh.wikipedia.org/wiki/馬田祖爾 "wikilink")
 
-  - [約翰迪莊](../Page/約翰迪莊.md "wikilink")
+  - [約翰迪莊](https://zh.wikipedia.org/wiki/約翰迪莊 "wikilink")
 
-  - [迪莊](../Page/Aad_de_Jong.md "wikilink")
+  - [迪莊](https://zh.wikipedia.org/wiki/Aad_de_Jong "wikilink")
 
-  - [Aad Kila](../Page/Aad_Kila.md "wikilink")
+  - [Aad Kila](https://zh.wikipedia.org/wiki/Aad_Kila "wikilink")
 
-  - [Joop Korevaar](../Page/Joop_Korevaar.md "wikilink")
+  - [Joop
+    Korevaar](https://zh.wikipedia.org/wiki/Joop_Korevaar "wikilink")
 
-  - [Wim Landman](../Page/Wim_Landman.md "wikilink")
+  - [Wim Landman](https://zh.wikipedia.org/wiki/Wim_Landman "wikilink")
 
-  - [Harry van der Laan](../Page/Harry_van_der_Laan.md "wikilink")
+  - [Harry van der
+    Laan](https://zh.wikipedia.org/wiki/Harry_van_der_Laan "wikilink")
 
-  - [Henk van Leeuwen](../Page/Henk_van_Leeuwen.md "wikilink")
+  - [Henk van
+    Leeuwen](https://zh.wikipedia.org/wiki/Henk_van_Leeuwen "wikilink")
 
-  - [林球納](../Page/林球納.md "wikilink")
+  - [林球納](https://zh.wikipedia.org/wiki/林球納 "wikilink")
 
-  - [Woody Louwerens](../Page/Woody_Louwerens.md "wikilink")
+  - [Woody
+    Louwerens](https://zh.wikipedia.org/wiki/Woody_Louwerens "wikilink")
 
-  - [Aad Mansveld](../Page/Aad_Mansveld.md "wikilink")
+  - [Aad
+    Mansveld](https://zh.wikipedia.org/wiki/Aad_Mansveld "wikilink")
 
-  - [摩爾斯](../Page/摩爾斯.md "wikilink")
+  - [摩爾斯](https://zh.wikipedia.org/wiki/摩爾斯 "wikilink")
 
-  - [Rob Ouwehand](../Page/Rob_Ouwehand.md "wikilink")
+  - [Rob
+    Ouwehand](https://zh.wikipedia.org/wiki/Rob_Ouwehand "wikilink")
 
-  - [普拉克](../Page/普拉克.md "wikilink")
+  - [普拉克](https://zh.wikipedia.org/wiki/普拉克 "wikilink")
 
-  - [Sjaak Roggeveen](../Page/Sjaak_Roggeveen.md "wikilink")
+  - [Sjaak
+    Roggeveen](https://zh.wikipedia.org/wiki/Sjaak_Roggeveen "wikilink")
 
-  - [Lex Schoenmaker](../Page/Lex_Schoenmaker.md "wikilink")
+  - [Lex
+    Schoenmaker](https://zh.wikipedia.org/wiki/Lex_Schoenmaker "wikilink")
 
-  - [Carol Schuurman](../Page/Carol_Schuurman.md "wikilink")
+  - [Carol
+    Schuurman](https://zh.wikipedia.org/wiki/Carol_Schuurman "wikilink")
 
-  - [泰倫](../Page/泰倫.md "wikilink")
+  - [泰倫](https://zh.wikipedia.org/wiki/泰倫 "wikilink")
 
-  - [Wim Tap](../Page/Wim_Tap.md "wikilink")
+  - [Wim Tap](https://zh.wikipedia.org/wiki/Wim_Tap "wikilink")
 
-  - [Theo Timmermans](../Page/Theo_Timmermans.md "wikilink")
+  - [Theo
+    Timmermans](https://zh.wikipedia.org/wiki/Theo_Timmermans "wikilink")
 
-  - [Marciano Vink](../Page/Marciano_Vink.md "wikilink")
+  - [Marciano
+    Vink](https://zh.wikipedia.org/wiki/Marciano_Vink "wikilink")
 
-  - [Simon van Vliet](../Page/Simon_van_Vliet.md "wikilink")
+  - [Simon van
+    Vliet](https://zh.wikipedia.org/wiki/Simon_van_Vliet "wikilink")
 
-  - [麥克韋伯](../Page/麥克韋伯.md "wikilink")
+  - [麥克韋伯](https://zh.wikipedia.org/wiki/麥克韋伯 "wikilink")
 
-  - [威斯爾](../Page/威斯爾.md "wikilink")
+  - [威斯爾](https://zh.wikipedia.org/wiki/威斯爾 "wikilink")
 
-  - [Piet de Zoete](../Page/Piet_de_Zoete.md "wikilink")
+  - [Piet de
+    Zoete](https://zh.wikipedia.org/wiki/Piet_de_Zoete "wikilink")
 
 ## 球會經理
 

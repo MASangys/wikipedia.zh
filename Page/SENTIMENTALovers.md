@@ -5,14 +5,14 @@
   - 距離上一張原創專輯『[LIFE
     is...](../Page/LIFE_is....md "wikilink")』約一年十個月的第六張原創專輯。
   - 収録了上一張原創專輯『LIFE
-    is...』後發行的所有單曲「[style](../Page/Style_\(平井堅單曲\).md "wikilink")」、「[瞳をとじて](../Page/輕閉雙眼.md "wikilink")」、「[キミはともだち](../Page/朋友_\(平井堅單曲\).md "wikilink")」、「[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")」，以及兩首c/w曲「signal」、「jealousy」。
+    is...』後發行的所有單曲「[style](../Page/Style_\(平井堅單曲\).md "wikilink")」、「[瞳をとじて](https://zh.wikipedia.org/wiki/輕閉雙眼 "wikilink")」、「[キミはともだち](../Page/朋友_\(平井堅單曲\).md "wikilink")」、「[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")」，以及兩首c/w曲「signal」、「jealousy」。
   - 平井堅第三張百萬專輯，收錄的單曲總銷量為所有專輯最多。
   - 本專輯所有作詞皆由平井堅擔當。
 
 ## 單曲銷量
 
   - [style](../Page/Style_\(平井堅單曲\).md "wikilink")：ORICON最高第12名。銷量約4.4萬張
-  - [輕閉雙眼](../Page/輕閉雙眼.md "wikilink")：ORICON最高第2名。銷量約89.3萬張
+  - [輕閉雙眼](https://zh.wikipedia.org/wiki/輕閉雙眼 "wikilink")：ORICON最高第2名。銷量約89.3萬張
   - [朋友](../Page/朋友_\(平井堅單曲\).md "wikilink")：ORICON最高第5名。銷量約16.1萬張
   - [在思緒重疊之前…](../Page/在思緒重疊之前….md "wikilink")：ORICON最高第1名。銷量約27.2萬張
 
@@ -20,7 +20,7 @@
 
 1.  **[思いがかさなるその前に・・・](../Page/在思緒重疊之前….md "wikilink")**
       - 作詞・作曲：平井堅／編曲：亀田誠治
-      - 22nd單曲。[TOYOTA](../Page/TOYOTA.md "wikilink")「COROLLA
+      - 22nd單曲。[TOYOTA](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")「COROLLA
         FIELDER」電視廣告曲※本人出演
       - 富士電視台連續劇「積木崩塌的真相」主題歌
 2.  **[jealousy](../Page/朋友_\(平井堅單曲\).md "wikilink")**
@@ -30,7 +30,7 @@
       - 作詞・作曲：平井堅／編曲：中西康晴
 4.  **君が僕に憑依した\!\!**
       - 作詞・作曲：平井堅／編曲：AKIRA
-5.  **[瞳をとじて](../Page/輕閉雙眼.md "wikilink")**
+5.  **[瞳をとじて](https://zh.wikipedia.org/wiki/輕閉雙眼 "wikilink")**
       - 作詞・作曲：平井堅／編曲：亀田誠治
       - 20th單曲。電影「[世界の中心で、愛をさけぶ](../Page/在世界的中心呼喊愛情.md "wikilink")」主題歌
 6.  **青春デイズ**

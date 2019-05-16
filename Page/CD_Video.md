@@ -3,15 +3,15 @@
 -{H|zh-hans:音频; zh-hant:音訊;}-
 
 **CD
-Video**是一種在1980年代後期至1990年代初期流通市面的影音媒體，它的特點是[音軌和](../Page/音軌.md "wikilink")[影像訊號都分別放在一張普通大小的光碟上](../Page/影像.md "wikilink")，在一般的CD唱機上只能播放[音軌部分](../Page/音軌.md "wikilink")，而[影像部份卻不相容於普通的](../Page/影像.md "wikilink")[鐳射影碟機](../Page/鐳射影碟.md "wikilink")，而需要使用有播放**CD
-Video**功能的鐳射影碟機才可播放。[先锋于](../Page/先锋公司.md "wikilink")1987年开始贩售的CLD-1010机型是最早可以支持CD
+Video**是一種在1980年代後期至1990年代初期流通市面的影音媒體，它的特點是[音軌和](https://zh.wikipedia.org/wiki/音軌 "wikilink")[影像訊號都分別放在一張普通大小的光碟上](https://zh.wikipedia.org/wiki/影像 "wikilink")，在一般的CD唱機上只能播放[音軌部分](https://zh.wikipedia.org/wiki/音軌 "wikilink")，而[影像部份卻不相容於普通的](https://zh.wikipedia.org/wiki/影像 "wikilink")[鐳射影碟機](../Page/鐳射影碟.md "wikilink")，而需要使用有播放**CD
+Video**功能的鐳射影碟機才可播放。[先锋于](https://zh.wikipedia.org/wiki/先锋公司 "wikilink")1987年开始贩售的CLD-1010机型是最早可以支持CD
 Video播放的影碟机。
 
 CD Video分为12寸、8寸及5寸3种规格。12寸双面（CDV LP）可纪录120分钟的影像，8寸双面（CDV
 EP）可纪录40分钟。5寸则能纪录20分钟CD音轨及5分钟视频。为了与普通CD区分，其读取面为金色。上述规格中，以5寸最为普遍。\[1\]
 
 市面流通的一張**CD
-Video**通常都存放四至五首歌（约20分钟）和一首大約五分鐘的[MV](../Page/音乐录像带.md "wikilink")，當時售價為港幣135元，但那時一張十首歌的普通[鐳射唱片為港幣](../Page/鐳射唱片.md "wikilink")99元。而因為當時鐳射唱片還未開始流行，而且普通的影碟機在當時的一般家庭亦不能負擔得來，可播放**CD
+Video**通常都存放四至五首歌（约20分钟）和一首大約五分鐘的[MV](https://zh.wikipedia.org/wiki/音乐录像带 "wikilink")，當時售價為港幣135元，但那時一張十首歌的普通[鐳射唱片為港幣](https://zh.wikipedia.org/wiki/鐳射唱片 "wikilink")99元。而因為當時鐳射唱片還未開始流行，而且普通的影碟機在當時的一般家庭亦不能負擔得來，可播放**CD
 Video**的影碟機亦不多，所以**CD Video**到最後消失於市場。
 
 CD

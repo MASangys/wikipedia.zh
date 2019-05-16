@@ -1,9 +1,9 @@
-《**REC**》（），台灣譯作**甜蜜聲優**，香港譯作**愛上配音員**，是[日本的一部](../Page/日本.md "wikilink")[喜劇](../Page/喜劇.md "wikilink")、[愛情](../Page/愛情.md "wikilink")[漫畫與](../Page/漫畫.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，原作者為[花見澤Q太郎](../Page/花見澤Q太郎.md "wikilink")。
+《**REC**》（），台灣譯作**甜蜜聲優**，香港譯作**愛上配音員**，是[日本的一部](../Page/日本.md "wikilink")[喜劇](../Page/喜劇.md "wikilink")、[愛情](../Page/愛情.md "wikilink")[漫畫與](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，原作者為[花見澤Q太郎](../Page/花見澤Q太郎.md "wikilink")。
 
 ## 概要
 
 漫畫自2002年12月開始在日本[小學館漫畫月刊](../Page/小學館.md "wikilink")《月刊Sunday
-GENE-X》連載至今，後來並出版單行本。至2013年6月19日，出版至第16冊。台灣中文版由[東立出版社發行](../Page/東立出版社.md "wikilink")，香港中文版由[文化傳信發行](../Page/文化傳信.md "wikilink")，[台灣](../Page/台灣.md "wikilink")、[香港各出版](../Page/香港.md "wikilink")14冊\[1\]和12冊。
+GENE-X》連載至今，後來並出版單行本。至2013年6月19日，出版至第16冊。台灣中文版由[東立出版社發行](../Page/東立出版社.md "wikilink")，香港中文版由[文化傳信發行](../Page/文化傳信.md "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港各出版](../Page/香港.md "wikilink")14冊\[1\]和12冊。
 
 ### 關於標題
 
@@ -21,13 +21,13 @@ GENE-X》連載至今，後來並出版單行本。至2013年6月19日，出版�
 ### 傑內事務所、聲優界
 
   -
-    女主角，「傑內事務所」（）所屬的新人聲優，20歲，最大的夢想是為[奧黛麗·赫本配音](../Page/奧黛麗·赫本.md "wikilink")。原先擔任零食「葉」（）代言角色「貓樹」（）的配音，之後獲選為劇場版動畫「邱比特大帝」（）女主角配音，自此逐步朝著夢想前進。在傑內事務所策劃下，與本白、杏子組成偶像派聲優組合「eX」，是成員中資歷最短的一人。於最終話跟松丸文彥結婚。
+    女主角，「傑內事務所」（）所屬的新人聲優，20歲，最大的夢想是為[奧黛麗·赫本配音](https://zh.wikipedia.org/wiki/奧黛麗·赫本 "wikilink")。原先擔任零食「葉」（）代言角色「貓樹」（）的配音，之後獲選為劇場版動畫「邱比特大帝」（）女主角配音，自此逐步朝著夢想前進。在傑內事務所策劃下，與本白、杏子組成偶像派聲優組合「eX」，是成員中資歷最短的一人。於最終話跟松丸文彥結婚。
       -
         演出作品（已知）（以決定聲優的時間排序）：
           - 「葉」廣告配音：貓樹
           - 劇場版動畫「邱比特大帝」：
           - 廣播「邱比特波」
-          - [十八禁遊戲](../Page/十八禁遊戲.md "wikilink")、動畫「」\[4\]
+          - [十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")、動畫「」\[4\]
           - 動畫「」\[5\]
           - 動畫「PLAY！」：紅
           - 動畫「」：（只出場一集的客串角色）\[6\]
@@ -50,7 +50,7 @@ GENE-X》連載至今，後來並出版單行本。至2013年6月19日，出版�
           - 劇場版動畫「邱比特大帝」
           - 廣播「邱比特波」
   -
-    女性聲優，性格「[蠻橫嬌羞](../Page/蠻橫嬌羞.md "wikilink")」。由於曾是「」的天才[童星](../Page/童星.md "wikilink")，雖然算是聲優新人，但經驗不少。但因在「」的演出中給人的印象太強，被公司以「起用困難」為由減少工作，最後轉職為聲優。與赤、杏子組成偶像派聲優組合「eX」，是成員中年齡最小的一人。
+    女性聲優，性格「[蠻橫嬌羞](https://zh.wikipedia.org/wiki/蠻橫嬌羞 "wikilink")」。由於曾是「」的天才[童星](../Page/童星.md "wikilink")，雖然算是聲優新人，但經驗不少。但因在「」的演出中給人的印象太強，被公司以「起用困難」為由減少工作，最後轉職為聲優。與赤、杏子組成偶像派聲優組合「eX」，是成員中年齡最小的一人。
   -
     女性聲優，演技纖細而有變化的實力派，但極度內向。曾經留有掩著臉的頭髮，後來因「eX」即將舉辦初次演唱會，以及希望改掉內向的性格而剪去。與赤、本白組成偶像派聲優組合「eX」，是成員中年齡最大的一人。
   -
@@ -99,17 +99,17 @@ BRISCO'S INOUE，即被BRISCO公司收購後的胃至上製菓。而BRISCO的創
   -
     動畫導演。赤的狂熱支持者，但在工作上要求嚴格，絕不偏袒。與畑田相識。
   -
-    提攜谷川智子的[音響監督](../Page/音響監督.md "wikilink")。
+    提攜谷川智子的[音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")。
   -
-    動畫「PLAY！」的[監督](../Page/監督.md "wikilink")。
+    動畫「PLAY！」的[監督](https://zh.wikipedia.org/wiki/監督 "wikilink")。
 
 ### 藝能界
 
   -
-    [特攝出身的演員](../Page/特攝.md "wikilink")，本名「山田一郎」，曾擔任戲劇「」的主角。在「邱比特大帝」中為男主角邱比特配音。赤的粉絲，中學時代曾與赤同校，當時曾向赤告白，但是被拒絕。在醫院試圖推倒赤，不過最後還是放棄了。
+    [特攝出身的演員](https://zh.wikipedia.org/wiki/特攝 "wikilink")，本名「山田一郎」，曾擔任戲劇「」的主角。在「邱比特大帝」中為男主角邱比特配音。赤的粉絲，中學時代曾與赤同校，當時曾向赤告白，但是被拒絕。在醫院試圖推倒赤，不過最後還是放棄了。
       -
         演出作品：
-        [特攝](../Page/特攝.md "wikilink")「」：主角
+        [特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")「」：主角
           - 邱比特大帝：邱比特（少年）
   -
     超人氣樂團「」的吉他手，41歲，關之原導演的哥哥（不過此一親戚關係從未對外公開）。曾被媒體報導與赤熱戀，但後來證實是毫無根據的報導—實際上不但已有家室，而且育有12歲的女兒。
@@ -122,13 +122,13 @@ BRISCO'S INOUE，即被BRISCO公司收購後的胃至上製菓。而BRISCO的創
   -
     赤於高校一年級時轉校，當時完全交不到朋友，波努先生就是一個在網上鼓勵她的人。然而，在三年級時不再和赤聯繫。這波努先生實際上是個生意失敗的中年男人，曾經創建一間科技公司，卻被另外的大公司大量搶走生意而倒閉。
   - 松丸的婆婆
-    經常會送一大堆蔬菜給松丸，尤其是[椰菜](../Page/椰菜.md "wikilink")。經常迷路，說著一口鄉音。
+    經常會送一大堆蔬菜給松丸，尤其是[椰菜](https://zh.wikipedia.org/wiki/椰菜 "wikilink")。經常迷路，說著一口鄉音。
 
 ## 動畫
 
-2006年2月2日－3月30日間，每週四深夜1:55在[TBS電視台](../Page/TBS電視台.md "wikilink")、以及深夜1:00在[BS-i](../Page/BS-i.md "wikilink")「Ani
+2006年2月2日－3月30日間，每週四深夜1:55在[TBS電視台](../Page/TBS電視台.md "wikilink")、以及深夜1:00在[BS-i](https://zh.wikipedia.org/wiki/BS-i "wikilink")「Ani
 Ani
-Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內容。[台灣由](../Page/台灣.md "wikilink")[普威爾國際代理發行](../Page/普威爾國際.md "wikilink")，但因片尾曲有[裸露畫面](../Page/裸露.md "wikilink")，因此有打[馬賽克](../Page/馬賽克_\(影像處理\).md "wikilink")；而第一集有松丸和小赤的親熱畫面，但礙於台灣的尺度關係，所以台灣的電視版及DVD版都剪除此畫面。
+Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內容。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[普威爾國際代理發行](../Page/普威爾國際.md "wikilink")，但因片尾曲有[裸露畫面](https://zh.wikipedia.org/wiki/裸露 "wikilink")，因此有打[馬賽克](../Page/馬賽克_\(影像處理\).md "wikilink")；而第一集有松丸和小赤的親熱畫面，但礙於台灣的尺度關係，所以台灣的電視版及DVD版都剪除此畫面。
 
 ### 工作人員
 
@@ -136,28 +136,31 @@ Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內�
   - 原案合作：久保田滋夫、飯塚洋介、山根博行（小學館「月刊Sunday GENE-X」編輯部）
   - 監督：中村隆太郎
   - 系列構成：吉田玲子
-  - [角色設計](../Page/角色設計.md "wikilink")／總作畫監督：守岡英行
+  - [角色設計](https://zh.wikipedia.org/wiki/角色設計 "wikilink")／總作畫監督：守岡英行
   - 標題Logo設計：雷門風太in竹工房
-  - [美術監督](../Page/美術監督.md "wikilink")：加藤浩
+  - [美術監督](https://zh.wikipedia.org/wiki/美術監督 "wikilink")：加藤浩
   - 色彩設定：大武恭子
   - 音響監督：明田川仁
-  - 音樂：[羽岡佳](../Page/羽岡佳.md "wikilink")
+  - 音樂：[羽岡佳](https://zh.wikipedia.org/wiki/羽岡佳 "wikilink")
   - 音樂製作：[Frontier Works](../Page/Frontier_Works.md "wikilink")
   - 動畫製作：SHAFT
-  - 製作：「REC」製作委員會（[波麗佳音](../Page/波麗佳音.md "wikilink")、、Frontier
+  - 製作：「REC」製作委員會（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、、Frontier
     Works、小學館）、TBS
 
 ### 各集標題一覽
 
   - Take 1：[羅馬假期](../Page/羅馬假期.md "wikilink")
   - Take 2：[龍鳳配](../Page/龍鳳配.md "wikilink")
-  - Take 3：[盲女驚魂記](../Page/盲女驚魂記.md "wikilink")
+  - Take 3：[盲女驚魂記](https://zh.wikipedia.org/wiki/盲女驚魂記 "wikilink")
   - Take 4：[第凡內早餐](../Page/第凡內早餐.md "wikilink")
-  - Take 5：[黃昏之戀](../Page/黃昏之戀.md "wikilink")
+  - Take 5：[黃昏之戀](https://zh.wikipedia.org/wiki/黃昏之戀 "wikilink")
   - Take 6：[雙姝怨](../Page/雙姝怨.md "wikilink")
-  - Take 7：[戰爭與和平](../Page/戰爭與和平_\(電影\).md "wikilink")
-  - Take 8：[恩怨有情天](../Page/恩怨有情天.md "wikilink") （TV 未播出）
-  - Take 9：[窈窕淑女](../Page/窈窕淑女.md "wikilink") （TV ver Take 8）
+  - Take
+    7：[戰爭與和平](https://zh.wikipedia.org/wiki/戰爭與和平_\(電影\) "wikilink")
+  - Take 8：[恩怨有情天](https://zh.wikipedia.org/wiki/恩怨有情天 "wikilink") （TV
+    未播出）
+  - Take 9：[窈窕淑女](https://zh.wikipedia.org/wiki/窈窕淑女 "wikilink") （TV ver
+    Take 8）
   - Take 10：[儷人行](../Page/儷人行.md "wikilink") （TV ver Take 9 fin）
 
 ### [主題曲](../Page/主題曲.md "wikilink")
@@ -167,7 +170,7 @@ Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內�
         演唱：[酒井香奈子](../Page/酒井香奈子.md "wikilink")，作詞：美咲，作曲、編曲：小山晃平
   - 片尾曲：「Devotion」
       -
-        演唱：[BRACE;d](../Page/BRACE;d.md "wikilink")，作詞、作曲、編曲：a.k.a.dRESS（[ave;new](../Page/ave;new.md "wikilink")）
+        演唱：[BRACE;d](../Page/BRACE;d.md "wikilink")，作詞、作曲、編曲：a.k.a.dRESS（[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")）
 
 ## 動畫與漫畫的差異
 
@@ -175,7 +178,7 @@ Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內�
   - 赤變得經常說電影對白。
   - 赤的經紀人一開始就是吉岡，而不是逆本。
   - 增加了為「貓樹」進行試音會情節，而在漫畫中則沒有
-  - 赤為十八禁遊戲配音後，才在[新潟進行](../Page/新潟縣.md "wikilink")「葉」的宣傳活動。
+  - 赤為十八禁遊戲配音後，才在[新潟進行](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")「葉」的宣傳活動。
   - 該十八禁遊戲的標題由「」變成「」，封面也不同。
   - 松丸有和赤練習該十八禁遊戲的配音，而不是睡著。
   - 畑田的登場早了不少；在動畫版最後一集中還知道了松丸和赤的關係。
@@ -184,9 +187,10 @@ Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內�
 
 「」的限定版及通常版於2006年11月30日發售\[10\]\[11\]。
 
-  - 機種：[PS2](../Page/PS2.md "wikilink")
+  - 機種：[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")
   - 類型：[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")
-  - 製作：[IDEA FACTORY](../Page/IDEA_FACTORY.md "wikilink")
+  - 製作：[IDEA
+    FACTORY](https://zh.wikipedia.org/wiki/IDEA_FACTORY "wikilink")
 
 限定版付有聲優閒談、小節目的特典光碟。
 
@@ -196,15 +200,15 @@ Land」（）單元播出，一集15分鐘。主要收錄漫畫第一集的內�
   - **小岩井真紀**（　配音員：[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
   - **雪路明理**（　配音員：[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")）
   - **遠藤紅葉**（
-    配音員：[井上奈奈](../Page/井上奈奈.md "wikilink")／[庄子裕衣](../Page/庄子裕衣.md "wikilink")／[落合祐里香](../Page/落合祐里香.md "wikilink")／[水橋香織](../Page/水橋香織.md "wikilink")／[出野明日香](../Page/出野明日香.md "wikilink")）
+    配音員：[井上奈奈](../Page/井上奈奈.md "wikilink")／[庄子裕衣](../Page/庄子裕衣.md "wikilink")／[落合祐里香](https://zh.wikipedia.org/wiki/落合祐里香 "wikilink")／[水橋香織](../Page/水橋香織.md "wikilink")／[出野明日香](https://zh.wikipedia.org/wiki/出野明日香 "wikilink")）
   - **吉岡**（　配音員：[豐口惠](../Page/豐口惠.md "wikilink")）
   - **田中**（　配音員：）
 
 ## 相關知識
 
-  - 本作品與另一日本動畫作品《[聲優白皮書](../Page/聲優白皮書.md "wikilink")》有不少相似處，包括：
+  - 本作品與另一日本動畫作品《[聲優白皮書](https://zh.wikipedia.org/wiki/聲優白皮書 "wikilink")》有不少相似處，包括：
 
-:\*兩作品都是以**[聲優](../Page/日本配音員.md "wikilink")**作為中心主題之動畫。
+:\*兩作品都是以**[聲優](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")**作為中心主題之動畫。
 
 :\*兩作品為同年(2006年)的動畫，且開播時間也相近（《REC》為二月新番，《聲優白皮書》為四月新番）。
 

@@ -1,30 +1,30 @@
 **Windows预先安装环境**（），简称或，是[Microsoft
-Windows的輕量版本](../Page/Microsoft_Windows.md "wikilink")，主要提供[個人電腦開發商](../Page/個人電腦.md "wikilink")（主要為[OEM廠商](../Page/代工生产.md "wikilink")）、[工作站](../Page/工作站.md "wikilink")、[伺服器打造客製化的](../Page/伺服器.md "wikilink")[作業系統環境](../Page/作業系統.md "wikilink")，或系統離線時進行[故障排除來使用](../Page/排错.md "wikilink")，以取代格式較舊的[MS-DOS](../Page/MS-DOS.md "wikilink")。其可理解为Windows的[Live
-CD或子系統](../Page/Live_CD.md "wikilink")，系統核心採用32位元/64位元。由於不大，因此便於儲存在[光盘](../Page/光碟.md "wikilink")、[隨身碟等各種可攜式](../Page/隨身碟.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")。
+Windows的輕量版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，主要提供[個人電腦開發商](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")（主要為[OEM廠商](../Page/代工生产.md "wikilink")）、[工作站](../Page/工作站.md "wikilink")、[伺服器打造客製化的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[作業系統環境](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，或系統離線時進行[故障排除來使用](https://zh.wikipedia.org/wiki/排错 "wikilink")，以取代格式較舊的[MS-DOS](../Page/MS-DOS.md "wikilink")。其可理解为Windows的[Live
+CD或子系統](../Page/Live_CD.md "wikilink")，系統核心採用32位元/64位元。由於不大，因此便於儲存在[光盘](../Page/光碟.md "wikilink")、[隨身碟等各種可攜式](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")。
 
 Windows
-PE最初是設計給個人電腦開發商使用，以便於電腦生產時將Windows入內，但目前也以[捆包的方式提供給一般的](../Page/軟體開發套件.md "wikilink")[軟體開發者使用](../Page/軟體開發.md "wikilink")，目前從[Windows
+PE最初是設計給個人電腦開發商使用，以便於電腦生產時將Windows入內，但目前也以[捆包的方式提供給一般的](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")[軟體開發者使用](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，目前從[Windows
 XP以及之後的Windows公開版本都有支援](../Page/Windows_XP.md "wikilink")。
 
 ## WinPE特點
 
   - WinPE是簡化版的[Microsoft
-    Windows](../Page/Microsoft_Windows.md "wikilink")，放在一片可直接啟動的[CD或](../Page/CD.md "wikilink")[DVD光碟或者隨身碟](../Page/DVD.md "wikilink")，以載入到記憶體的方式執行。特點是啟動時出現此版本Windows
-    PE简化自之原版本的啟動畫面，以及出現簡單的圖形介面（[GUI](../Page/GUI.md "wikilink")），亦能執行[Internet
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，放在一片可直接啟動的[CD或](../Page/CD.md "wikilink")[DVD光碟或者隨身碟](https://zh.wikipedia.org/wiki/DVD "wikilink")，以載入到記憶體的方式執行。特點是啟動時出現此版本Windows
+    PE简化自之原版本的啟動畫面，以及出現簡單的圖形介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")），亦能執行[Internet
     Explorer](../Page/Internet_Explorer.md "wikilink")。相比完整的Windows，Windows
     PE功能有限，主要用於系統維護。
-  - WinPE支援[網路](../Page/網路.md "wikilink")，但只附帶以下工具：[命令提示字元](../Page/命令提示字元.md "wikilink")、[記事本和一些維護工具](../Page/記事本.md "wikilink")。
+  - WinPE支援[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")，但只附帶以下工具：[命令提示字元](../Page/命令提示字元.md "wikilink")、[記事本和一些維護工具](../Page/記事本.md "wikilink")。
   - WinPE初衷只是方便企業製造自訂的[Microsoft
-    Windows](../Page/Microsoft_Windows.md "wikilink")，因此市面上並沒有出售（但允许无偿外发）。
-  - 在[微軟的批准下](../Page/微軟.md "wikilink")，其他[軟體公司可附上自己的軟體於WinPE](../Page/軟體.md "wikilink")，令啟動電腦時候執行有關的程式。這些軟體通常是系統維護，在電腦不能正常運作的情況下，可運用有關的系統維護軟體修復電腦。維護軟體包括[Symantec](../Page/Symantec.md "wikilink")[Norton
-    Ghost等等](../Page/Norton_Ghost.md "wikilink")。
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，因此市面上並沒有出售（但允许无偿外发）。
+  - 在[微軟的批准下](https://zh.wikipedia.org/wiki/微軟 "wikilink")，其他[軟體公司可附上自己的軟體於WinPE](https://zh.wikipedia.org/wiki/軟體 "wikilink")，令啟動電腦時候執行有關的程式。這些軟體通常是系統維護，在電腦不能正常運作的情況下，可運用有關的系統維護軟體修復電腦。維護軟體包括[Symantec](https://zh.wikipedia.org/wiki/Symantec "wikilink")[Norton
+    Ghost等等](https://zh.wikipedia.org/wiki/Norton_Ghost "wikilink")。
   - [Windows Vista](../Page/Windows_Vista.md "wikilink"),[Windows
-    7](../Page/Windows_7.md "wikilink"),[Windows
-    8](../Page/Windows_8.md "wikilink"),[Windows
-    10的安裝程式](../Page/Windows_10.md "wikilink")，亦是基於WinPE。在「Windows
+    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink"),[Windows
+    8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink"),[Windows
+    10的安裝程式](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，亦是基於WinPE。在「Windows
     安裝」界面上按下Shift+F10，可開啟「命令提示字元」。
   - WinPE
-    大多被[OEM廠商所使用](../Page/OEM.md "wikilink")，舉例來說就像剛買回來的品牌套裝電腦，不需要完全從頭安裝作業系統，而是從完成安裝開始。[OEM廠商可以自定系統安裝完成後](../Page/OEM.md "wikilink")，執行安裝驅動程式的動作、修改『的電腦』中的[OEM商標](../Page/OEM.md "wikilink")、安裝輔助程式…。簡單來說WinPE的作用是使用在大量的電腦安裝（同規格之電腦），以達到快速且一致性的安裝。
+    大多被[OEM廠商所使用](https://zh.wikipedia.org/wiki/OEM "wikilink")，舉例來說就像剛買回來的品牌套裝電腦，不需要完全從頭安裝作業系統，而是從完成安裝開始。[OEM廠商可以自定系統安裝完成後](https://zh.wikipedia.org/wiki/OEM "wikilink")，執行安裝驅動程式的動作、修改『的電腦』中的[OEM商標](https://zh.wikipedia.org/wiki/OEM "wikilink")、安裝輔助程式…。簡單來說WinPE的作用是使用在大量的電腦安裝（同規格之電腦），以達到快速且一致性的安裝。
   - 因为和电脑中的系统没有关联，可以任意添加/修改/复制系统文件，甚至可以格式化电脑中系统所在的磁盘。这种得天独厚的优势使得PE可以深入操作系统文件。
 
 ## WinPE的各种衍生产品
@@ -50,7 +50,7 @@ Windows部署工具（ADK）可以生成WinPE镜像，但是这种WinPE的功能
 
 其中，不少熟悉修改、破解技术的爱好者发佈了补回Explorer、捆绑各种工具软件（如DiskGenius、NTPWEdit等）的修改版WinPE映像，受到了不少计算机爱好者和维修技工的欢迎，使这类WinPE广为流传。不过，这些修改版WinPE也大都存在版权问题。
 
-后来，这类修改版WinPE又衍生出了涉及灰色产业的“商业PE”，用户在使用这种WinPE重装系统时，其中暗藏的后门就会在新装好的系统內安裝流氓软件甚至是木马病毒。然后，在用户日常使用系统的过程中，这些被安裝的流氓软件/木马病毒就可以给一些广告统计平台回傳统计数据，進而對於此WinPE的作者带来推广收入；或者成為被作者惡意操纵、用做[DDoS攻击的](../Page/DDoS.md "wikilink")“殭屍電腦”。
+后来，这类修改版WinPE又衍生出了涉及灰色产业的“商业PE”，用户在使用这种WinPE重装系统时，其中暗藏的后门就会在新装好的系统內安裝流氓软件甚至是木马病毒。然后，在用户日常使用系统的过程中，这些被安裝的流氓软件/木马病毒就可以给一些广告统计平台回傳统计数据，進而對於此WinPE的作者带来推广收入；或者成為被作者惡意操纵、用做[DDoS攻击的](https://zh.wikipedia.org/wiki/DDoS "wikilink")“殭屍電腦”。
 
 ## WinPE 版本
 

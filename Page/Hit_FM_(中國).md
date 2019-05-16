@@ -1,7 +1,7 @@
 **Hit
-FM**，频率呼号为**中国国际广播电台劲曲调频**，是[中国国际广播电台](../Page/中国国际广播电台.md "wikilink")（CRI）旗下第二套对内广播频率，且专门介绍环球[流行音乐的广播媒体](../Page/流行音乐.md "wikilink")，于2003年4月16日率先在[北京开播](../Page/北京.md "wikilink")，结束了中国大陆没有欧美音乐专业电台的历史。其前身是1999年开播的多语种调频广播。该频道采用类型化音乐电台（Pure
+FM**，频率呼号为**中国国际广播电台劲曲调频**，是[中国国际广播电台](../Page/中国国际广播电台.md "wikilink")（CRI）旗下第二套对内广播频率，且专门介绍环球[流行音乐的广播媒体](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，于2003年4月16日率先在[北京开播](https://zh.wikipedia.org/wiki/北京 "wikilink")，结束了中国大陆没有欧美音乐专业电台的历史。其前身是1999年开播的多语种调频广播。该频道采用类型化音乐电台（Pure
 Format
-Radio）操作模式，属于商业运作，全天24小时滚动播出全球热门金曲，且排行榜类型的节目比较多。电台最初主要面向北京听众广播，在北京欧美乐迷中口碑甚好，称之为887。目前该频道在[北京](../Page/北京.md "wikilink")、[上海和](../Page/上海.md "wikilink")[广州落地播出](../Page/广州.md "wikilink")，并在[成都](../Page/成都.md "wikilink")、[武汉](../Page/武汉.md "wikilink")、[长沙](../Page/长沙.md "wikilink")、[南京和](../Page/南京.md "wikilink")[郑州等地与当地电台合作落地播出](../Page/郑州.md "wikilink")。
+Radio）操作模式，属于商业运作，全天24小时滚动播出全球热门金曲，且排行榜类型的节目比较多。电台最初主要面向北京听众广播，在北京欧美乐迷中口碑甚好，称之为887。目前该频道在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[广州落地播出](https://zh.wikipedia.org/wiki/广州 "wikilink")，并在[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")、[长沙](https://zh.wikipedia.org/wiki/长沙 "wikilink")、[南京和](https://zh.wikipedia.org/wiki/南京 "wikilink")[郑州等地与当地电台合作落地播出](https://zh.wikipedia.org/wiki/郑州 "wikilink")。
 
 ## 频道历史
 
@@ -69,7 +69,7 @@ FM**（**劲曲调频**）”的频道名称正式推出。改版后以多语种
 <td><p>广州</p></td>
 <td><p>88.5MHz</p></td>
 <td><p>全天</p></td>
-<td><p>曾于每日21:00-次日06:00播出<a href="../Page/广州电台.md" title="wikilink">广州电台的健康讲座节目</a>，现已取消。</p></td>
+<td><p>曾于每日21:00-次日06:00播出<a href="https://zh.wikipedia.org/wiki/广州电台" title="wikilink">广州电台的健康讲座节目</a>，现已取消。</p></td>
 </tr>
 <tr class="even">
 <td><p>成都</p></td>
@@ -123,13 +123,13 @@ FM**（**劲曲调频**）”的频道名称正式推出。改版后以多语种
 </tbody>
 </table>
 
-### [DAB广播](../Page/DAB.md "wikilink")
+### [DAB广播](https://zh.wikipedia.org/wiki/DAB "wikilink")
 
   - 北京：213.856MHz
 
 ### 卫星广播
 
-  - [亚太6号](../Page/亚太6号通信卫星.md "wikilink")（134E，Ku波段）
+  - [亚太6号](https://zh.wikipedia.org/wiki/亚太6号通信卫星 "wikilink")（134E，Ku波段）
   - [中星6B](../Page/中星6B.md "wikilink")（C波段）
 
 ## 外部链接

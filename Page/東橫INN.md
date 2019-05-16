@@ -1,9 +1,9 @@
 [Toyoko_inn.jpg](https://zh.wikipedia.org/wiki/File:Toyoko_inn.jpg "fig:Toyoko_inn.jpg")
 [Toyoko-inn_Bansyu-Ako_Ekimae.jpg](https://zh.wikipedia.org/wiki/File:Toyoko-inn_Bansyu-Ako_Ekimae.jpg "fig:Toyoko-inn_Bansyu-Ako_Ekimae.jpg")
 
-**東橫INN**（）是一間[日本的商務酒店集團](../Page/日本.md "wikilink")，創立於1986年1月。由於總部設於[東京與](../Page/東京.md "wikilink")[横濱之間的](../Page/横濱.md "wikilink")[蒲田](../Page/蒲田.md "wikilink")，因此取名為「東橫」，和旗下的並沒有任何關係。
+**東橫INN**（）是一間[日本的商務酒店集團](../Page/日本.md "wikilink")，創立於1986年1月。由於總部設於[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[横濱之間的](https://zh.wikipedia.org/wiki/横濱 "wikilink")[蒲田](../Page/蒲田.md "wikilink")，因此取名為「東橫」，和旗下的並沒有任何關係。
 
-東橫INN現有超過250家分店，至2019年為止，在日本國內僅[高知縣尚未設有分店](../Page/高知縣.md "wikilink")；除了日本國內，在[大韓民國](../Page/大韓民國.md "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[德國](../Page/德國.md "wikilink")、[法國也設有分店](../Page/法國.md "wikilink")，2019年也預定將拓展至[蒙古國](../Page/蒙古國.md "wikilink")。
+東橫INN現有超過250家分店，至2019年為止，在日本國內僅[高知縣尚未設有分店](https://zh.wikipedia.org/wiki/高知縣 "wikilink")；除了日本國內，在[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國也設有分店](https://zh.wikipedia.org/wiki/法國 "wikilink")，2019年也預定將拓展至[蒙古國](https://zh.wikipedia.org/wiki/蒙古國 "wikilink")。
 
 根據日本《[每日新聞](../Page/每日新聞.md "wikilink")》在2006年2月2日的報導，東橫INN在2005年3月的住房率達到83.1%，比起全日本都市旅館聯盟（）調查的全國平均住房率67.4%要高出許多。
 
@@ -13,37 +13,37 @@
 
 設店地點則大多鄰近車站，有些甚至出站即可抵達。並使用特大型屋頂[店招](../Page/招牌.md "wikilink")，可讓旅客一眼即可看到。每個分店都有自己的序號，並標示在店招及店內文宣。
 
-為了降低成本，旅館內除了客房之外幾乎沒有其他觀光飯店常見的設施，包括餐廳、商店、健身房、接待大廳等皆不存在於旅館中，僅提供[自助洗衣店](../Page/自助洗衣店.md "wikilink")（部份分店無）。但是旅館所在的位置大多可徒步至[便利商店](../Page/便利商店.md "wikilink")，此外周邊的商業設施也能稍微補足旅館的相關機能。
+為了降低成本，旅館內除了客房之外幾乎沒有其他觀光飯店常見的設施，包括餐廳、商店、健身房、接待大廳等皆不存在於旅館中，僅提供[自助洗衣店](https://zh.wikipedia.org/wiki/自助洗衣店 "wikilink")（部份分店無）。但是旅館所在的位置大多可徒步至[便利商店](../Page/便利商店.md "wikilink")，此外周邊的商業設施也能稍微補足旅館的相關機能。
 
-預約住宿基本是透過[網際網路](../Page/網際網路.md "wikilink")，利用旅館的[網站來進行預約](../Page/網站.md "wikilink")，也能夠減少人力等資源的成本。
+預約住宿基本是透過[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，利用旅館的[網站來進行預約](../Page/網站.md "wikilink")，也能夠減少人力等資源的成本。
 
 在經營方面，土地和建築物的所有者是地權持有人，公司只負責設計、興建和維修，因此能夠專心進行旅館的施工、經營，也避免地價波動等影響資產價值的問題。此外雇用大量的女性飯店經理（支配人）也是其特色之一。
 
 ### 設備
 
-在大廳設置有連接[印表機和](../Page/印表機.md "wikilink")[網際網路的](../Page/網際網路.md "wikilink")[電腦](../Page/電腦.md "wikilink")，可以免費使用及列印。同時也在旅館內全面提供免費的無線網路。過去曾在大廳設置有可免費撥打至日本全國的電話，但後已取消。
+在大廳設置有連接[印表機和](https://zh.wikipedia.org/wiki/印表機 "wikilink")[網際網路的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，可以免費使用及列印。同時也在旅館內全面提供免費的無線網路。過去曾在大廳設置有可免費撥打至日本全國的電話，但後已取消。
 
 ### 餐飲
 
 [Toyoko_Inn_Breakfast.jpg](https://zh.wikipedia.org/wiki/File:Toyoko_Inn_Breakfast.jpg "fig:Toyoko_Inn_Breakfast.jpg")
 
-東橫INN會提供簡單的免費[早餐](../Page/早餐.md "wikilink")，包含日式[飯糰](../Page/飯糰.md "wikilink")、[乾飯](../Page/乾飯.md "wikilink")、[麵包和](../Page/麵包.md "wikilink")[咖啡等](../Page/咖啡.md "wikilink")，部份分店則會額外提供[咖哩飯之類的](../Page/咖哩飯.md "wikilink")[晚餐](../Page/晚餐.md "wikilink")。
+東橫INN會提供簡單的免費[早餐](../Page/早餐.md "wikilink")，包含日式[飯糰](https://zh.wikipedia.org/wiki/飯糰 "wikilink")、[乾飯](https://zh.wikipedia.org/wiki/乾飯 "wikilink")、[麵包和](../Page/麵包.md "wikilink")[咖啡等](../Page/咖啡.md "wikilink")，部份分店則會額外提供[咖哩飯之類的](https://zh.wikipedia.org/wiki/咖哩飯 "wikilink")[晚餐](../Page/晚餐.md "wikilink")。
 
-旅館內設置有[自動販賣機](../Page/自動販賣機.md "wikilink")，其中[酒精飲料的售價與市面相同](../Page/酒精飲料.md "wikilink")，而[一般飲料的售價則會比市價便宜](../Page/軟性飲料.md "wikilink")，與其他旅館內的自動販賣機價格較高的印象不同，此作法也影響了其他部份飯店業者改將販賣機的售價調整至一般價格。
+旅館內設置有[自動販賣機](../Page/自動販賣機.md "wikilink")，其中[酒精飲料的售價與市面相同](https://zh.wikipedia.org/wiki/酒精飲料 "wikilink")，而[一般飲料的售價則會比市價便宜](../Page/軟性飲料.md "wikilink")，與其他旅館內的自動販賣機價格較高的印象不同，此作法也影響了其他部份飯店業者改將販賣機的售價調整至一般價格。
 
 ### 會員
 
-東橫的會員制度稱為「東橫INN俱樂部」，過去最初稱為「4&5CLUB」，當時的名稱是來自[美國的](../Page/美國.md "wikilink")[汽車旅館的住宿費用大多都是每晚](../Page/汽車旅館.md "wikilink")40～50美元；會員能夠累積點數，也有會員的折扣。
+東橫的會員制度稱為「東橫INN俱樂部」，過去最初稱為「4&5CLUB」，當時的名稱是來自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[汽車旅館的住宿費用大多都是每晚](../Page/汽車旅館.md "wikilink")40～50美元；會員能夠累積點數，也有會員的折扣。
 
 ## 爭議事件
 
 ### 違法改造問題
 
-2006年，在[草加市](../Page/草加市.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")、[姬路市](../Page/姬路市.md "wikilink")、[鹿兒島市](../Page/鹿兒島市.md "wikilink")、[長崎市](../Page/長崎市.md "wikilink")、[島根縣等地的東橫INN被發在通過日本建築法規的檢查規範](../Page/島根縣.md "wikilink")（、是為了高齡長者、肢體障礙人士能方便使用特定建築的法規）後進行違法改裝，拆除無障礙設施。被發現的違法改造內容包括：
+2006年，在[草加市](../Page/草加市.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")、[姬路市](../Page/姬路市.md "wikilink")、[鹿兒島市](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")、[長崎市](https://zh.wikipedia.org/wiki/長崎市 "wikilink")、[島根縣等地的東橫INN被發在通過日本建築法規的檢查規範](https://zh.wikipedia.org/wiki/島根縣 "wikilink")（、是為了高齡長者、肢體障礙人士能方便使用特定建築的法規）後進行違法改裝，拆除無障礙設施。被發現的違法改造內容包括：
 
   - 將身體障礙人士專用的客房和停車位改造成一般的客房及倉庫。
-  - 拆除[點字指示牌和輪椅標誌](../Page/點字.md "wikilink")。
-  - 違反建築基準法中規定的[容積率](../Page/容積率.md "wikilink")，將停車場改建為一般客房和大廳。
+  - 拆除[點字指示牌和輪椅標誌](https://zh.wikipedia.org/wiki/點字 "wikilink")。
+  - 違反建築基準法中規定的[容積率](https://zh.wikipedia.org/wiki/容積率 "wikilink")，將停車場改建為一般客房和大廳。
 
 當時的社長西田憲正承認為其親自指示要在通過檢驗後進行未經許可的改建，並修改建築平面圖等資料。在記者會上西田社長甚至表示：
 
@@ -55,7 +55,7 @@
 
 ### 重大災害後求住宿旅客簽署放棄損害賠償
 
-2011年發生[東日本大地震後](../Page/東日本大地震.md "wikilink")，位於重災區包括福島縣、宮城縣、岩手縣和[茨城縣的分店要求住宿旅客簽署放棄損害賠償書](../Page/茨城縣.md "wikilink")，不對飯店因震災而缺水、停電等造成損失興訟提出損害賠償。此措施引來非議\[1\]，被認為違反。
+2011年發生[東日本大地震後](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")，位於重災區包括福島縣、宮城縣、岩手縣和[茨城縣的分店要求住宿旅客簽署放棄損害賠償書](../Page/茨城縣.md "wikilink")，不對飯店因震災而缺水、停電等造成損失興訟提出損害賠償。此措施引來非議\[1\]，被認為違反。
 
 ### 意外事件
 

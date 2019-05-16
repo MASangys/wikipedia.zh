@@ -1,5 +1,5 @@
 [OpenSolaris.org專案網站.png](https://zh.wikipedia.org/wiki/File:OpenSolaris.org專案網站.png "fig:OpenSolaris.org專案網站.png")
-**OpenSolaris**是一個曾由[昇陽電腦所發起的](../Page/昇陽電腦.md "wikilink")[開放原碼專案](../Page/開放原碼.md "wikilink")，用來建立以[Solaris作業系統為主的開發者社群](../Page/Solaris.md "wikilink")，在甲骨文公司收購昇陽電腦後，現已經中止專案。
+**OpenSolaris**是一個曾由[昇陽電腦所發起的](../Page/昇陽電腦.md "wikilink")[開放原碼專案](https://zh.wikipedia.org/wiki/開放原碼 "wikilink")，用來建立以[Solaris作業系統為主的開發者社群](../Page/Solaris.md "wikilink")，在甲骨文公司收購昇陽電腦後，現已經中止專案。
 
 此開放原碼專案過去有超過12,000人於專案網站OpenSolaris.org註冊成為社群會員，其中有超過11,000名會員都不是[昇陽電腦的員工](../Page/昇陽電腦.md "wikilink")，由此可知OpenSolaris的用戶團體社群曾相當活絡。此外在官方網站上也曾有12個OpenSolaris的技術社群與專案。於2006年7月13日時OpenSolaris的官方網站上有如下的成績公佈：相關下載已超過33,000次，註冊會員已超過14,000名，貢獻已超過100項，社群已超過40個，用戶團體已達29個，專案28個，5種發行版本。
 
@@ -7,17 +7,17 @@
 
 ## 歷史
 
-實際上，OpenSolaris的計畫是從2004年初開始。一個受過多種訓練所組成的團隊從各種角度來考量此一專案：授權方式、[商业模型](../Page/商业模型.md "wikilink")、管理方式、協同開發程序、原始程式碼分析、原始程式碼管理、工具、市場行銷、網站應用設計，以及社群發展等。到了2004年9月，由18位非昇陽電腦的社群成員共同成立了先期發展計畫，之後參與人數逐漸增加，經過9個月的試行，外部共同參與者已達145名。
+實際上，OpenSolaris的計畫是從2004年初開始。一個受過多種訓練所組成的團隊從各種角度來考量此一專案：授權方式、[商业模型](https://zh.wikipedia.org/wiki/商业模型 "wikilink")、管理方式、協同開發程序、原始程式碼分析、原始程式碼管理、工具、市場行銷、網站應用設計，以及社群發展等。到了2004年9月，由18位非昇陽電腦的社群成員共同成立了先期發展計畫，之後參與人數逐漸增加，經過9個月的試行，外部共同參與者已達145名。
 
 接著，Solaris原始程式碼的開放程序逐漸加快，第一個開放（也稱：釋出）的部分是Solaris的動態追蹤工具套件（Dynamic
 Tracing
 Toolkit，一般也稱為DTrace），這個追蹤工具可以協助程式師及資管師對系統（指電腦）進行以效能為取向或資源利用率為取向的最佳化調整。
 
-DTrace已於2005年1月開放，同時昇陽也完成OpenSolaris.org網站的第一階段建置，並宣佈OpenSolaris的原碼將依據[CDDL](../Page/CDDL.md "wikilink")（Common
+DTrace已於2005年1月開放，同時昇陽也完成OpenSolaris.org網站的第一階段建置，並宣佈OpenSolaris的原碼將依據[CDDL](https://zh.wikipedia.org/wiki/CDDL "wikilink")（Common
 Development and Distribution License）授權方式來開放，同時打算成立社群指導委員會（Community
 Advisory Board，簡稱[CAB](../Page/CAB.md "wikilink")）。
 
-到了開放當天（2005年6月14日），有大量的Solaris作業系統的原始程式碼被公開釋出；不過，仍有部分不公開，而只提供二進位的執行程式碼。未公開的原因據說是這些程式的原碼涉及[協力業者](../Page/協力業者.md "wikilink")（第三方業者）的[智慧財產權](../Page/智慧財產權.md "wikilink")，所以昇陽電腦方面也無權公開。至於釋出的OpenSolaris原碼，幾乎與正在使用與研發中的[Solaris原碼相同](../Page/Solaris.md "wikilink")。
+到了開放當天（2005年6月14日），有大量的Solaris作業系統的原始程式碼被公開釋出；不過，仍有部分不公開，而只提供二進位的執行程式碼。未公開的原因據說是這些程式的原碼涉及[協力業者](https://zh.wikipedia.org/wiki/協力業者 "wikilink")（第三方業者）的[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")，所以昇陽電腦方面也無權公開。至於釋出的OpenSolaris原碼，幾乎與正在使用與研發中的[Solaris原碼相同](../Page/Solaris.md "wikilink")。
 
 到了2005年4月4日，[昇陽電腦宣佈了五名CAB的成員](../Page/昇陽電腦.md "wikilink")，其中兩名從先期計畫的社群中推選而來，另有兩名由昇陽公司指派，另一名則由昇陽公司自廣大開放原碼社群中選定。2005年、2006年間OpenSolaris的CAB成員有：Roy
 Fielding、Al Hopper、Rich Teer、Casper Dik，以及Simon Phipps。
@@ -31,27 +31,28 @@ Rockwood（在OpenSolaris社群中表現卓越傑出的一員）。
 
 ## 授權方式
 
-[昇陽電腦已將](../Page/昇陽電腦.md "wikilink")[Solaris的多數原碼以](../Page/Solaris.md "wikilink")[共有開發及散佈授權](../Page/共有開發及散佈授權.md "wikilink")（[CDDL](../Page/CDDL.md "wikilink"),
+[昇陽電腦已將](../Page/昇陽電腦.md "wikilink")[Solaris的多數原碼以](../Page/Solaris.md "wikilink")[共有開發及散佈授權](https://zh.wikipedia.org/wiki/共有開發及散佈授權 "wikilink")（[CDDL](https://zh.wikipedia.org/wiki/CDDL "wikilink"),
 Common Development and Distribution
-License）授權方式來開放，CDDL授權是以[Mozilla公共許可授權](../Page/Mozilla公共许可证.md "wikilink")（[MPL](../Page/MPL.md "wikilink"),
+License）授權方式來開放，CDDL授權是以[Mozilla公共許可授權](../Page/Mozilla公共许可证.md "wikilink")（[MPL](https://zh.wikipedia.org/wiki/MPL "wikilink"),
 Mozilla Public
-License）1.1版為基礎所研擬成的新授權許可方式，所以CDDL與MPL相同，兩者都與普及的[通用公共許可授權](../Page/GNU通用公共许可证.md "wikilink")（[GPL](../Page/GPL.md "wikilink"),
+License）1.1版為基礎所研擬成的新授權許可方式，所以CDDL與MPL相同，兩者都與普及的[通用公共許可授權](../Page/GNU通用公共许可证.md "wikilink")（[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink"),
 GNU General Public
-License）不相容。不過CDDL確實是屬於「開放原碼且可[自由授權](../Page/自由軟體授權.md "wikilink")」的一類。CDDL是由昇陽公司所提創，之後將提案送交給[开放源代码促进会](../Page/开放源代码促进会.md "wikilink")（[OSI](../Page/Open_Source_Initiative.md "wikilink"),
+License）不相容。不過CDDL確實是屬於「開放原碼且可[自由授權](https://zh.wikipedia.org/wiki/自由軟體授權 "wikilink")」的一類。CDDL是由昇陽公司所提創，之後將提案送交給[开放源代码促进会](../Page/开放源代码促进会.md "wikilink")（[OSI](https://zh.wikipedia.org/wiki/Open_Source_Initiative "wikilink"),
 Open Source
-Initiative）審核，並在2005年1月審議獲得核准的一種新開放原碼授權法。關於「自由軟體授權」的定義，則以[自由軟體基金會](../Page/自由軟體基金會.md "wikilink")（FSF,
+Initiative）審核，並在2005年1月審議獲得核准的一種新開放原碼授權法。關於「自由軟體授權」的定義，則以[自由軟體基金會](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")（FSF,
 Free Software Foundation）的敘述為依據\[4\]。
 
 特別注意的是，關於MPL授權法，自由軟體基金會也表示：
 
 另外，[Mozilla Application
-Suite及](../Page/Mozilla_Suite.md "wikilink")[Mozilla
-Firefox已經改變他們的授權方式](../Page/Mozilla_Firefox.md "wikilink")，允許使用者在在三種授權方式中任選其一：[MPL](../Page/MPL.md "wikilink")、[LGPL及](../Page/LGPL.md "wikilink")[GPL](../Page/GPL.md "wikilink")。
+Suite及](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")[Mozilla
+Firefox已經改變他們的授權方式](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，允許使用者在在三種授權方式中任選其一：[MPL](https://zh.wikipedia.org/wiki/MPL "wikilink")、[LGPL及](https://zh.wikipedia.org/wiki/LGPL "wikilink")[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 批評
 
-對於[昇陽電腦發起與推行Solaris的原碼開放](../Page/昇陽電腦.md "wikilink")（），[Linux的創辦人](../Page/Linux.md "wikilink")：[林納斯·托瓦茲](../Page/林納斯·托瓦茲.md "wikilink")（Linus
-B. Torvalds）在2004年12月22日接受[CNET新聞網](../Page/CNET新聞網.md "wikilink")（CNET
+對於[昇陽電腦發起與推行Solaris的原碼開放](../Page/昇陽電腦.md "wikilink")（），[Linux的創辦人](../Page/Linux.md "wikilink")：[林納斯·托瓦茲](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")（Linus
+B.
+Torvalds）在2004年12月22日接受[CNET新聞網](https://zh.wikipedia.org/wiki/CNET新聞網 "wikilink")（CNET
 news.com）專訪\[5\]時曾如此表示：
 
 同時他也指出OpenSolaris在[裝置驅動程式的支援上將是個問題](../Page/驱动程序.md "wikilink")，他認為OpenSolaris的社群在此方面的嘗試與努力將是個大磨難。關於此他說：
@@ -62,9 +63,9 @@ news.com）專訪\[5\]時曾如此表示：
 
 ## 版本歷史
 
-| 版本                       | 發佈日期                     | 支援階段結束<ref>{{ cite web                          | url = <http://www.sun.com/service/eosl/eosl_opensolaris.html> | title = End of Service Life Status for OpenSolaris Operating System | publisher = [Sun Microsystems](../Page/Sun_Microsystems.md "wikilink") | accessdate = 2009-09-28 }}</ref> |
-| ------------------------ | ------------------------ | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------- |
-| General Availability（GA） | Post End of Version（EOV） | SunSpectrum End of Service Life（SS-EOSL） |- --- | 2008.05                                                       | 2008-05-13                                                          | 2008-11-13                                                             | 2011-05-13                       |
+| 版本                       | 發佈日期                     | 支援階段結束<ref>{{ cite web                          | url = <http://www.sun.com/service/eosl/eosl_opensolaris.html> | title = End of Service Life Status for OpenSolaris Operating System | publisher = [Sun Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink") | accessdate = 2009-09-28 }}</ref> |
+| ------------------------ | ------------------------ | ----------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------- |
+| General Availability（GA） | Post End of Version（EOV） | SunSpectrum End of Service Life（SS-EOSL） |- --- | 2008.05                                                       | 2008-05-13                                                          | 2008-11-13                                                                                | 2011-05-13                       |
 
 | 色彩 | 意義      |
 | -- | ------- |
@@ -74,22 +75,24 @@ news.com）專訪\[5\]時曾如此表示：
 
 ## 發行版本
 
-  - [SchilliX](../Page/SchilliX.md "wikilink")，[Live
+  - [SchilliX](https://zh.wikipedia.org/wiki/SchilliX "wikilink")，[Live
     CD型態的OpenSolaris](../Page/Live_CD.md "wikilink")
-  - [Belenix](../Page/Belenix.md "wikilink")，Live CD型態的OpenSolaris
-  - [marTux](../Page/marTux.md "wikilink")，第一個以支援[SPARC硬體架構平台所發行](../Page/SPARC.md "wikilink")、發佈、散佈的Live
+  - [Belenix](https://zh.wikipedia.org/wiki/Belenix "wikilink")，Live
+    CD型態的OpenSolaris
+  - [marTux](https://zh.wikipedia.org/wiki/marTux "wikilink")，第一個以支援[SPARC硬體架構平台所發行](../Page/SPARC.md "wikilink")、發佈、散佈的Live
     CD、DVD OpenSolaris
-  - [Nexenta](../Page/Nexenta.md "wikilink")，一個以[Debian為基礎的發行版本](../Page/Debian.md "wikilink")，結合了[GNU軟體及](../Page/GNU.md "wikilink")[Solaris的SunOS核心](../Page/Solaris.md "wikilink")。
-  - [Polaris](../Page/Polaris.md "wikilink")，將OpenSolaris的原始程式碼，以支援[PowerPC硬體架構平台來進行調整](../Page/PowerPC.md "wikilink")、修改，並重新編譯（Recompile）而成的OpenSolaris。而其名稱：Polaris即是將PowerPC的首字母「P」，再加上Solaris的「olaris」而成，不過Polaris在英文也是「北極星」的意思，然這只是巧合。
-  - [Portaris](../Page/Portaris.md "wikilink")，將[Gentoo的](../Page/Gentoo.md "wikilink")[Portage轉移改寫到OpenSolaris上](../Page/Portage.md "wikilink")，2006年4月時仍處在外部測試（beta）階段。
+  - [Nexenta](https://zh.wikipedia.org/wiki/Nexenta "wikilink")，一個以[Debian為基礎的發行版本](../Page/Debian.md "wikilink")，結合了[GNU軟體及](../Page/GNU.md "wikilink")[Solaris的SunOS核心](../Page/Solaris.md "wikilink")。
+  - [Polaris](https://zh.wikipedia.org/wiki/Polaris "wikilink")，將OpenSolaris的原始程式碼，以支援[PowerPC硬體架構平台來進行調整](../Page/PowerPC.md "wikilink")、修改，並重新編譯（Recompile）而成的OpenSolaris。而其名稱：Polaris即是將PowerPC的首字母「P」，再加上Solaris的「olaris」而成，不過Polaris在英文也是「北極星」的意思，然這只是巧合。
+  - [Portaris](https://zh.wikipedia.org/wiki/Portaris "wikilink")，將[Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink")[Portage轉移改寫到OpenSolaris上](../Page/Portage.md "wikilink")，2006年4月時仍處在外部測試（beta）階段。
 
 ## 另見
 
   - [Solaris](../Page/Solaris.md "wikilink") - Sun
     Microsystems的商用UNIX作業系統
-  - [Trusted Solaris](../Page/Trusted_Solaris.md "wikilink") -
+  - [Trusted
+    Solaris](https://zh.wikipedia.org/wiki/Trusted_Solaris "wikilink") -
     針對特殊場合與應用而增強安全防護性的Solaris
-  - [illumos](../Page/illumos.md "wikilink")、[OpenIndiana](../Page/OpenIndiana.md "wikilink")
+  - [illumos](https://zh.wikipedia.org/wiki/illumos "wikilink")、[OpenIndiana](../Page/OpenIndiana.md "wikilink")
     - 基于OpenSolaris源代码分支出的新计划
 
 ## 參考資料

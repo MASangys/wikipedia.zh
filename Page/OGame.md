@@ -2,16 +2,16 @@
 
 ## 遊戲設定
 
-[`OGame_Overview.PNG`](https://zh.wikipedia.org/wiki/File:OGame_Overview.PNG "fig:OGame_Overview.PNG")` 遊戲將伺服器稱之為「宇宙」，每個宇宙有九個銀河系、每個銀河系有四百九十九個`[`太陽系`](../Page/太陽系.md "wikilink")`，而每個太陽系有十五個`[`行星`](../Page/行星.md "wikilink")`。每位玩家最初擁有一顆星球，稱為「母星」（這個名字是可以被玩家重新命名的），該星球的位置隨機分佈於任意太陽系的4號~12號星球上。玩家首要任務是發展母星，並且對外殖民其它星球，每個玩家可以利用提昇研究等級增加可殖民星球數。建築、戰鬥與防禦都是發生在星球和`[`月球上的`](../Page/月球.md "wikilink")`。`
+[`OGame_Overview.PNG`](https://zh.wikipedia.org/wiki/File:OGame_Overview.PNG "fig:OGame_Overview.PNG")` 遊戲將伺服器稱之為「宇宙」，每個宇宙有九個銀河系、每個銀河系有四百九十九個`[`太陽系`](https://zh.wikipedia.org/wiki/太陽系 "wikilink")`，而每個太陽系有十五個`[`行星`](../Page/行星.md "wikilink")`。每位玩家最初擁有一顆星球，稱為「母星」（這個名字是可以被玩家重新命名的），該星球的位置隨機分佈於任意太陽系的4號~12號星球上。玩家首要任務是發展母星，並且對外殖民其它星球，每個玩家可以利用提昇研究等級增加可殖民星球數。建築、戰鬥與防禦都是發生在星球和`[`月球上的`](../Page/月球.md "wikilink")`。`
 
 ## 資源
 
-OGame裡有五種資源，分別是：[金屬](../Page/金屬.md "wikilink")（Metal）、[晶體](../Page/晶體.md "wikilink")（Crystal）、[重氫](../Page/重氫.md "wikilink")（Deuterium）、[能源](../Page/能源.md "wikilink")（Energy）和[暗物質](../Page/暗物質.md "wikilink")（Dark
+OGame裡有五種資源，分別是：[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")（Metal）、[晶體](https://zh.wikipedia.org/wiki/晶體 "wikilink")（Crystal）、[重氫](https://zh.wikipedia.org/wiki/重氫 "wikilink")（Deuterium）、[能源](../Page/能源.md "wikilink")（Energy）和[暗物質](https://zh.wikipedia.org/wiki/暗物質 "wikilink")（Dark
 Matter）。
 
   - 金屬是遊戲中最基本的資源，可透過星球上的金屬礦建築來開採，每顆星球皆有一个基本產量。金屬在遊戲中大量用以建造星球上的建築物和防禦、建造船艦和研發科技。
   - 晶體則是第二常見的資源，可以透過晶體礦來開採，每颗星球皆只有金属一半的基本產量。晶體在遊戲中用作建造建築物、防禦或船艦的量較少，但是會大量用於研發科技。
-  - 重氫藉由重氫合成器來獲得，在沒有重氫合成器的情形下，星球是不會產出重氫的。重氫在遊戲是用作[艦隊航行的](../Page/艦隊.md "wikilink")[燃料](../Page/燃料.md "wikilink")、研發科技、閱覽銀河系頁面和掃描其他玩家的艦隊行蹤。
+  - 重氫藉由重氫合成器來獲得，在沒有重氫合成器的情形下，星球是不會產出重氫的。重氫在遊戲是用作[艦隊航行的](https://zh.wikipedia.org/wiki/艦隊 "wikilink")[燃料](../Page/燃料.md "wikilink")、研發科技、閱覽銀河系頁面和掃描其他玩家的艦隊行蹤。
 
 獲得以上資源的方式除了上述的三種建築以外，還可以透過在廢墟回收星際殘骸（除了重氫没有回收）、掠奪其他星球、探險外太空、玩家間的交換和商人交易獲得。
 
@@ -41,7 +41,7 @@ OGame的戰鬥發生在星球外的衛星軌道上，戰鬥只發生在一瞬間
 在戰鬥中被摧毀的船隻，其建造所需資源（不含重氫）的30%（普遍设定，具体视服务器设定）會成為太空廢墟而漂浮在軌道上。除非是在有“防禦成為廢墟（Defence
 to Dust，D2D）”設定的伺服器中，否則被摧毀的防禦設備不會形成廢墟。廢墟可以用回收船进行回收，供回收方利用。
 
-戰鬥只能摧毀星球上的船隻和防禦武器，以及掠奪資源。無法摧毀建筑物、奪取對方科技或者摧毀對方行星。但是月球是可以被摧毀的。一旦月球被摧毀，月球上的所有建筑物也都跟著消失。詳見[月球篇](../Page/#月球.md "wikilink")。
+戰鬥只能摧毀星球上的船隻和防禦武器，以及掠奪資源。無法摧毀建筑物、奪取對方科技或者摧毀對方行星。但是月球是可以被摧毀的。一旦月球被摧毀，月球上的所有建筑物也都跟著消失。詳見[月球篇](https://zh.wikipedia.org/wiki/#月球 "wikilink")。
 
 ### 快速射擊
 
@@ -92,11 +92,11 @@ OGame是以戰鬥為主的遊戲，船艦當然極度的重要，玩家可以使
 
 OGame裡一個宇宙分為若干個銀河系（1～9或6等，视服务器设定），每個銀河系又有若干個太陽系（1～499），而每個太陽系又有十五顆星球（1～15）和外太空（16）。一顆星球座標可以標示為\[1:1:2\]，看法就是第一銀河系第一太陽系的第二個星球。銀河系與太陽系是環狀的，這意味著第一銀河係到第九銀河系的距離，是相同於第一到第二銀河系的。太陽系同理。
 
-玩家可以在遊戲中透過銀河系頁面來查看太陽系的狀況，每顆星球的名稱和玩家的名稱，以及星球是否有殘骸和月球圍繞。一個太陽系以1\~3號星距離恆星最近（溫度最高），13\~15號星距離最遠（溫度最低），这6个星球一般方圆都比较小，而方圓大的星球通常分布在4號至6號。16號星球（外太空）是用來探索時使用的，詳見[探索](../Page/#探索.md "wikilink")。
+玩家可以在遊戲中透過銀河系頁面來查看太陽系的狀況，每顆星球的名稱和玩家的名稱，以及星球是否有殘骸和月球圍繞。一個太陽系以1\~3號星距離恆星最近（溫度最高），13\~15號星距離最遠（溫度最低），这6个星球一般方圆都比较小，而方圓大的星球通常分布在4號至6號。16號星球（外太空）是用來探索時使用的，詳見[探索](https://zh.wikipedia.org/wiki/#探索 "wikilink")。
 
 ## 探索
 
-當玩家擁有探險科技後，可以派遣艦隊至每個太陽系的16號星進行探險。探險中玩家可能遭遇不同的结果，如没有發現任何東西、找到帶有資源的小行星、發現[黑暗物質](../Page/黑暗物質.md "wikilink")、擄獲無人船艦、遭遇海盜和外星人的攻擊，甚至是被[黑洞摧毀你所有的船艦](../Page/黑洞.md "wikilink")，航行中也有可能遇到導航錯誤的结果而造成返回時間的延長或縮短。玩家最多可以派遣探索的艦隊數為探索科技的平方根，而探險最長時間為探險科技等級數個小時。
+當玩家擁有探險科技後，可以派遣艦隊至每個太陽系的16號星進行探險。探險中玩家可能遭遇不同的结果，如没有發現任何東西、找到帶有資源的小行星、發現[黑暗物質](https://zh.wikipedia.org/wiki/黑暗物質 "wikilink")、擄獲無人船艦、遭遇海盜和外星人的攻擊，甚至是被[黑洞摧毀你所有的船艦](../Page/黑洞.md "wikilink")，航行中也有可能遇到導航錯誤的结果而造成返回時間的延長或縮短。玩家最多可以派遣探索的艦隊數為探索科技的平方根，而探險最長時間為探險科技等級數個小時。
 
 ## 月球
 
@@ -118,7 +118,7 @@ OGame裡一個宇宙分為若干個銀河系（1～9或6等，视服务器设定
 
 ## 積分排名
 
-當玩家每使用1000單位的[金屬](../Page/金屬.md "wikilink")、[晶體或](../Page/晶體.md "wikilink")[重氫便會得到一積分](../Page/重氫.md "wikilink")，例如建造一艘導彈艦需要50,000金屬、25,000晶體和15,000重氫，總共需要90,000單位的資源，每建造一艘導彈艦便會得到90分，當這艘導彈艦被摧毀時，也損失90分，建築和研究的積分也被計算在其中，但航行消耗的燃料（重氫）將不會被列入計算。簡而言之，積分只計算玩家所擁有的東西（不包括累積資源）。
+當玩家每使用1000單位的[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")、[晶體或](https://zh.wikipedia.org/wiki/晶體 "wikilink")[重氫便會得到一積分](https://zh.wikipedia.org/wiki/重氫 "wikilink")，例如建造一艘導彈艦需要50,000金屬、25,000晶體和15,000重氫，總共需要90,000單位的資源，每建造一艘導彈艦便會得到90分，當這艘導彈艦被摧毀時，也損失90分，建築和研究的積分也被計算在其中，但航行消耗的燃料（重氫）將不會被列入計算。簡而言之，積分只計算玩家所擁有的東西（不包括累積資源）。
 
 OGame具有內建的排名系統，列出該宇宙內所有玩家和聯盟的積分、艦隊積分和研究分（每級研究一分），而聯盟積分可以分為總分和聯盟內玩家的平均分數。OGame也具備新手保護系統，在玩家突破一定分數之前，玩家只能被為自己積分20%至500%分數的人攻擊，相同的，你也只能攻擊這些人。
 
@@ -128,31 +128,31 @@ OGame中玩家的每一項動作都是能被遊戲維護員／超級維護員／
 
 ## 目前各國伺服器狀況
 
-| **語言**                                 | **網站結尾（開頭皆為 http://ogame{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }})** | **開始運行日期**  | **宇宙數** | '''備註           |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- | ------- | --------------- |
-| [德語](../Page/德語.md "wikilink")         | [.de](http://ogame.de)                                                                             | 2002年10月3日  | 26+10   |                 |
-| [英語](../Page/英語.md "wikilink")         | [.org](http://ogame.org)和[.co.uk](http://ogame.co.uk)                                              | 2004年9月13日  | 15+5    |                 |
-| [芬蘭語](../Page/芬蘭語.md "wikilink")       | [.fi](http://ogame.fi)                                                                             |             | 2       |                 |
-| [法語](../Page/法語.md "wikilink")         | [.fr](http://ogame.fr)                                                                             | 2004年9月23日  | 27+9    |                 |
-| [西班牙語](../Page/西班牙語.md "wikilink")     | [.com.es](http://ogame.com.es)                                                                     | 2004年10月26日 | 26+6    |                 |
-| [波蘭語](../Page/波蘭語.md "wikilink")       | [.pl](http://ogame.pl)                                                                             | 2005年1月20日  | 26+5    |                 |
-| [俄語](../Page/俄語.md "wikilink")         | [.ru](http://ogame.ru)                                                                             | 2005年1月20日  | 20+3    |                 |
-| [简体中文](../Page/简体中文.md "wikilink")（中国） | [.cn](http://cn.ogame.org)和[.cn](http://ogame.cn)                                                  | 2006年4月4日   | 9       | 2009年停止运作       |
-| [正體中文](../Page/正體中文.md "wikilink")（台灣） | [.tw](http://ogame.tw)                                                                             | 2005年1月27日  | 6       |                 |
-| [土耳其語](../Page/土耳其語.md "wikilink")     | [.com.tr](http://ogame.com.tr)                                                                     | 2005年3月2日   | 25+8    |                 |
-| [波士尼亞語](../Page/波士尼亞語.md "wikilink")   | [.ba](http://ogame.ba)和[.com.hr](http://ogame.com.hr)                                              | 2005年5月27日  | 7+3     |                 |
-| [荷蘭語](../Page/荷蘭語.md "wikilink")       | [.nl](http://ogame.nl)                                                                             | 2005年5月27日  | 14+4    |                 |
-| [義大利語](../Page/義大利語.md "wikilink")     | [.it](http://ogame.it)                                                                             | 2005年5月30日  | 24+4    |                 |
-| [葡萄牙語](../Page/葡萄牙語.md "wikilink")     | [.com.pt](http://ogame.com.pt)                                                                     | 2005年8月11日  | 13+4    |                 |
-| [丹麥語](../Page/丹麥語.md "wikilink")       | [.dk](http://ogame.dk)                                                                             | 2005年11月28日 | 7+2     |                 |
-| [葡萄牙語](../Page/葡萄牙語.md "wikilink")（巴西） | [.com.br](https://web.archive.org/web/20130914025547/http://ogame.com.br/)                         | 2006年4月6日   | 19+2    |                 |
-| [韓語](../Page/韓語.md "wikilink")         | [.co.kr](https://web.archive.org/web/20060818201321/http://o-game.co.kr/)                          | 2006年6月30日  | 7       | 2009年11月16日停止運作 |
-| [日本語](../Page/日本語.md "wikilink")       | [.jp](http://www.ogame.jp/)                                                                        | 2006年8月31日  | 4+1     |                 |
-| [瑞典語](../Page/瑞典語.md "wikilink")       | [.se](http://ogame.se)                                                                             | 2006年10月4日  | 4+1     |                 |
-| [希臘語](../Page/希臘語.md "wikilink")       | [.gr](http://ogame.gr)                                                                             | 2007年1月5日   | 9+1     |                 |
-| [捷克語](../Page/捷克語.md "wikilink")       | [.cz](http://ogame.cz)                                                                             | 2007年7月12日  | 16+1    |                 |
-| [斯洛伐克語](../Page/斯洛伐克語.md "wikilink")   | [.sk](http://ogame.sk)                                                                             |             | 4       |                 |
-| [羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")   | [.ro](http://ogame.ro)                                                                             | 2007年6月5日   | 12+1    |                 |
+| **語言**                                                    | **網站結尾（開頭皆為 http://ogame{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }})** | **開始運行日期**  | **宇宙數** | '''備註           |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- | ------- | --------------- |
+| [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")         | [.de](http://ogame.de)                                                                             | 2002年10月3日  | 26+10   |                 |
+| [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")         | [.org](http://ogame.org)和[.co.uk](http://ogame.co.uk)                                              | 2004年9月13日  | 15+5    |                 |
+| [芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")       | [.fi](http://ogame.fi)                                                                             |             | 2       |                 |
+| [法語](https://zh.wikipedia.org/wiki/法語 "wikilink")         | [.fr](http://ogame.fr)                                                                             | 2004年9月23日  | 27+9    |                 |
+| [西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")     | [.com.es](http://ogame.com.es)                                                                     | 2004年10月26日 | 26+6    |                 |
+| [波蘭語](https://zh.wikipedia.org/wiki/波蘭語 "wikilink")       | [.pl](http://ogame.pl)                                                                             | 2005年1月20日  | 26+5    |                 |
+| [俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")         | [.ru](http://ogame.ru)                                                                             | 2005年1月20日  | 20+3    |                 |
+| [简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")（中国） | [.cn](http://cn.ogame.org)和[.cn](http://ogame.cn)                                                  | 2006年4月4日   | 9       | 2009年停止运作       |
+| [正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")（台灣） | [.tw](http://ogame.tw)                                                                             | 2005年1月27日  | 6       |                 |
+| [土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")     | [.com.tr](http://ogame.com.tr)                                                                     | 2005年3月2日   | 25+8    |                 |
+| [波士尼亞語](https://zh.wikipedia.org/wiki/波士尼亞語 "wikilink")   | [.ba](http://ogame.ba)和[.com.hr](http://ogame.com.hr)                                              | 2005年5月27日  | 7+3     |                 |
+| [荷蘭語](../Page/荷蘭語.md "wikilink")                          | [.nl](http://ogame.nl)                                                                             | 2005年5月27日  | 14+4    |                 |
+| [義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")     | [.it](http://ogame.it)                                                                             | 2005年5月30日  | 24+4    |                 |
+| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")     | [.com.pt](http://ogame.com.pt)                                                                     | 2005年8月11日  | 13+4    |                 |
+| [丹麥語](https://zh.wikipedia.org/wiki/丹麥語 "wikilink")       | [.dk](http://ogame.dk)                                                                             | 2005年11月28日 | 7+2     |                 |
+| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")（巴西） | [.com.br](https://web.archive.org/web/20130914025547/http://ogame.com.br/)                         | 2006年4月6日   | 19+2    |                 |
+| [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")         | [.co.kr](https://web.archive.org/web/20060818201321/http://o-game.co.kr/)                          | 2006年6月30日  | 7       | 2009年11月16日停止運作 |
+| [日本語](https://zh.wikipedia.org/wiki/日本語 "wikilink")       | [.jp](http://www.ogame.jp/)                                                                        | 2006年8月31日  | 4+1     |                 |
+| [瑞典語](../Page/瑞典語.md "wikilink")                          | [.se](http://ogame.se)                                                                             | 2006年10月4日  | 4+1     |                 |
+| [希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")       | [.gr](http://ogame.gr)                                                                             | 2007年1月5日   | 9+1     |                 |
+| [捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink")       | [.cz](http://ogame.cz)                                                                             | 2007年7月12日  | 16+1    |                 |
+| [斯洛伐克語](https://zh.wikipedia.org/wiki/斯洛伐克語 "wikilink")   | [.sk](http://ogame.sk)                                                                             |             | 4       |                 |
+| [羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")                      | [.ro](http://ogame.ro)                                                                             | 2007年6月5日   | 12+1    |                 |
 
 ## 高速伺服器
 

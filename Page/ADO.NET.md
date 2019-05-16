@@ -1,7 +1,7 @@
 **ADO.NET**是微軟在[.NET
-Framework中負責](../Page/.NET_Framework.md "wikilink")[資料存取的類別庫集](../Page/資料存取.md "wikilink")，它是使用在[COM時代奠基的](../Page/COM.md "wikilink")[OLE
+Framework中負責](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[資料存取的類別庫集](../Page/資料存取.md "wikilink")，它是使用在[COM時代奠基的](https://zh.wikipedia.org/wiki/COM "wikilink")[OLE
 DB技術以及](../Page/OLE_DB.md "wikilink")[.NET
-Framework的類別庫和程式語言來發展的](../Page/.NET_Framework.md "wikilink")，它可以讓.NET上的任何程式語言能夠連接並存取[關聯式資料庫與非資料庫型資料來源](../Page/關聯式資料庫.md "wikilink")（例如XML，Excel或是文字檔資料），或是獨立出來作為處理應用程式資料的類別物件，其在.NET
+Framework的類別庫和程式語言來發展的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，它可以讓.NET上的任何程式語言能夠連接並存取[關聯式資料庫與非資料庫型資料來源](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")（例如XML，Excel或是文字檔資料），或是獨立出來作為處理應用程式資料的類別物件，其在.NET
 Framework中的地位是舉足輕重，許多人將ADO.NET視為ADO的下一個版本，但其實它是一個全新的架構、產品與概念。
 
 ADO.NET类封装在System.Data.dll中，并且与System.Xml.dll中的XML类集成。
@@ -11,33 +11,33 @@ ADO.NET类封装在System.Data.dll中，并且与System.Xml.dll中的XML类集�
 ### 發展緣起
 
 在1990年代初期，微軟已經開發了許多的資料存取方式，像是[ODBC架構](../Page/ODBC.md "wikilink")、和[Microsoft
-Access資料庫交互使用的](../Page/Microsoft_Access.md "wikilink")[DAO物件](../Page/Microsoft_Data_Access_Object.md "wikilink")、可以跨越網路存取資料的[RDO以及讓DAO元件可以存取ODBC資料來源的](../Page/Remote_Data_Object.md "wikilink")[ODBCDirect技術等等](../Page/ODBCDirect.md "wikilink")，技術雖然多，但是卻又各自為政，而且每個技術的重疊性也很高（像是ODBC有Microsoft
+Access資料庫交互使用的](../Page/Microsoft_Access.md "wikilink")[DAO物件](https://zh.wikipedia.org/wiki/Microsoft_Data_Access_Object "wikilink")、可以跨越網路存取資料的[RDO以及讓DAO元件可以存取ODBC資料來源的](https://zh.wikipedia.org/wiki/Remote_Data_Object "wikilink")[ODBCDirect技術等等](https://zh.wikipedia.org/wiki/ODBCDirect "wikilink")，技術雖然多，但是卻又各自為政，而且每個技術的重疊性也很高（像是ODBC有Microsoft
 Access的驅動程式）；RDO雖然可跨網路，但是ODBC的驅動程式中也有提供跨網路的功能（像是[SQL
-Server和](../Page/SQL_Server.md "wikilink")[Oracle驅動程式](../Page/Oracle.md "wikilink")），如此琳琅滿目重疊性又高的技術群，讓企業與開發人員在選擇、學習與應用上產生了很多的困難。
+Server和](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")[Oracle驅動程式](https://zh.wikipedia.org/wiki/Oracle "wikilink")），如此琳琅滿目重疊性又高的技術群，讓企業與開發人員在選擇、學習與應用上產生了很多的困難。
 
-1996年，適逢[COM的出现](../Page/COM.md "wikilink")，微軟將資料存取的核心開始改寫為以COM為基础的[OLE
+1996年，適逢[COM的出现](https://zh.wikipedia.org/wiki/COM "wikilink")，微軟將資料存取的核心開始改寫為以COM為基础的[OLE
 DB](../Page/OLE_DB.md "wikilink")，並且在它上面建立一個新的统一的資料存取的高层对象模型－[ADO](../Page/ADO.md "wikilink")。ADO推出後順利的取代了DAO和RDO，成為在[Windows
 NT 4.0和](../Page/Windows_NT_4.0.md "wikilink")[Windows
 2000作業系統上開發資料庫應用程式的首選](../Page/Windows_2000.md "wikilink")。它將[OLE
 DB的物件模型进一步简化](../Page/OLE_DB.md "wikilink")；由資料庫廠商开发满足[OLE
 DB接口的資料提供者](../Page/OLE_DB.md "wikilink")（data
 provider，這個模式在此時奠基），而ADO本身則是與資料來源無關（data source
-independent）的对象结构，讓它迅速的獲得了使用[ASP](../Page/ASP.md "wikilink")、[Visual
-Basic](../Page/Visual_Basic.md "wikilink")、[COM的開發人員的青睞](../Page/COM.md "wikilink")。它能夠順利取代DAO與RDO，要關鍵在于ADO的与数据库服务器端/客户端的特性无关，这使得ADO通用性极好。然而ADO本身的架構仍然有缺陷（尤其是在開發網路應用程式時，最好的例子就是Recordset無法離線），這也是微軟為何不在[.NET
-Framework中繼續使用ADO的主要原因](../Page/.NET_Framework.md "wikilink")。
+independent）的对象结构，讓它迅速的獲得了使用[ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")、[Visual
+Basic](../Page/Visual_Basic.md "wikilink")、[COM的開發人員的青睞](https://zh.wikipedia.org/wiki/COM "wikilink")。它能夠順利取代DAO與RDO，要關鍵在于ADO的与数据库服务器端/客户端的特性无关，这使得ADO通用性极好。然而ADO本身的架構仍然有缺陷（尤其是在開發網路應用程式時，最好的例子就是Recordset無法離線），這也是微軟為何不在[.NET
+Framework中繼續使用ADO的主要原因](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。
 
 1998年時，微軟提出了一個下一代的應用程式開發框架（Application Framework）的計畫\[1\]，計畫中包含了：
 
   - **ASP+**：改良與重新設計ASP技術，強化它的Web應用程式發展能力。
   - **Storage+**：發展新的資料庫與物件導向之檔案系統結構（用於SQL Server 8.0（即後來的[SQL Server
-    2000](../Page/SQL_Server_2000.md "wikilink")）與[NTFS](../Page/NTFS.md "wikilink")），以及發展新一代的資料存取元件，並改良ADO本身的缺陷，讓它更能夠成為應用程式資料存取的核心功能。
-  - **COM+**：改良COM和[MTS](../Page/Microsoft_Transaction_Server.md "wikilink")，成為企業級應用程式開發的基礎元件。
+    2000](https://zh.wikipedia.org/wiki/SQL_Server_2000 "wikilink")）與[NTFS](../Page/NTFS.md "wikilink")），以及發展新一代的資料存取元件，並改良ADO本身的缺陷，讓它更能夠成為應用程式資料存取的核心功能。
+  - **COM+**：改良COM和[MTS](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")，成為企業級應用程式開發的基礎元件。
 
 ADO+即為Storage+的一支。
 
 ### ADO.NET的前身：ADO+
 
-1998年起，因為[Web應用程式的竄起](../Page/Web-based_Application.md "wikilink")，大大改變了許多應用程式的設計方式，傳統的資料庫連線保存設計法無法適用於此類應用程式，這讓ADO應用程式遇到了很大的瓶頸，也讓微軟開始思考讓資料集（Resultset，在ADO中稱為Recordset）能夠離線化的能力，以及能在用戶端建立一個小型資料庫的概念\[2\]，這個概念就是ADO.NET中離線型資料模型（disconnected
+1998年起，因為[Web應用程式的竄起](https://zh.wikipedia.org/wiki/Web-based_Application "wikilink")，大大改變了許多應用程式的設計方式，傳統的資料庫連線保存設計法無法適用於此類應用程式，這讓ADO應用程式遇到了很大的瓶頸，也讓微軟開始思考讓資料集（Resultset，在ADO中稱為Recordset）能夠離線化的能力，以及能在用戶端建立一個小型資料庫的概念\[2\]，這個概念就是ADO.NET中離線型資料模型（disconnected
 data model）的基礎，而在ADO的使用情形來看，資料庫連線以及資源耗用的情形較嚴重（像是Server-side
 cursor或是Recordset.Open會保持連線狀態），在ADO.NET中也改良了這些物件，構成了能夠減少資料庫連線和資源使用量的功能。[XML的使用也是這個版本的重要發展之一](../Page/XML.md "wikilink")。
 
@@ -79,7 +79,7 @@ DB資料來源提供者）的物件類別\[4\]，由下列接口構成：
   - **IDataRecord**，在`IDataReader`讀取資料後實際裝載資料列的物件，提供方法來讀取資料行中的資料，以及轉換成.NET
     Framework原生型別的工具。
       - `GetOrdinal()`：取得指定資料行的欄位索引值。
-      - `IsDBNull()`：判斷指定欄位的資料是否為[NULL值](../Page/空值.md "wikilink")。
+      - `IsDBNull()`：判斷指定欄位的資料是否為[NULL值](https://zh.wikipedia.org/wiki/空值 "wikilink")。
 
 使用連線資料來源需要由開發人員自我管理連線，並且直接操作資料存取的相關細節，但它的優點是速度快，而且可以自訂整個資料存取流程的邏輯。
 
@@ -139,7 +139,7 @@ paras[1].value = password;//绑定用户密码
 
 ### 離線資料模型
 
-離線資料模型是微軟為了改良ADO在網路應用程式中的缺陷所設計的，同時它也是[COM+中](../Page/微軟元件服務.md "wikilink")，IMDB技術的設計概念的實作品，但它並沒有完整的IMDB功能，像是交易處理（transaction
+離線資料模型是微軟為了改良ADO在網路應用程式中的缺陷所設計的，同時它也是[COM+中](https://zh.wikipedia.org/wiki/微軟元件服務 "wikilink")，IMDB技術的設計概念的實作品，但它並沒有完整的IMDB功能，像是交易處理（transaction
 processing），但它仍不失為一個能在離線狀態下處理資料的好幫手，它也可以透過連線資料來源物件，支援將離線資料存回資料庫的能力\[5\]。離線資料模型由下列物件組成：
 
   - **DataSet**，離線型資料模型的核心之一，可將它當成一個離線型的資料庫，它可以內含許多個DataTable，並且利用關聯與限制方式來設定資料的完整性，它本身也提供了可以和XML交互作業的支援。
@@ -163,7 +163,7 @@ processing），但它仍不失為一個能在離線狀態下處理資料的好�
       - `IsNull()`：判斷指定的欄位是否為NULL值。
       - `ItemArray`：將DataRow中的資料轉換成陣列。
   - **DataColumn**，表示表格中的欄位。
-  - **DataView**，展示資料的輔助元件，類似於資料庫中的[檢視表](../Page/視圖.md "wikilink")，並可設定過濾條件與排序條件。
+  - **DataView**，展示資料的輔助元件，類似於資料庫中的[檢視表](https://zh.wikipedia.org/wiki/視圖 "wikilink")，並可設定過濾條件與排序條件。
       - `Filter`：設定DataView的過濾條件。
       - `Sort`：設定DataView的排序條件。
       - `ToTable()`：將套用過濾與排序後的內容轉換為DataTable物件。
@@ -293,7 +293,7 @@ writer.Close();
 DataSet，使用上較方便，但沒有強制的型別限制，另一種則是Typed DataSet，會強制型別，並且是由自訂的XML
 Schema所產生，Untyped DataSet則沒有XML Schema，由建立時的結構來決定，Typed
 DataSet可以用[Visual
-Studio](../Page/Visual_Studio.md "wikilink")，或者是SDK工具中的xsd.exe來產生。
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，或者是SDK工具中的xsd.exe來產生。
 
 ``` text
 xsd.exe /d /l:CS XSDSchemaFileName.xsd /eld /n:XSDSchema.Namespace
@@ -323,7 +323,7 @@ Builder），它可以利用開發人員所指定的`SELECT`指令，自動產�
   - `DbCommandBuilder.GetUpdateCommand()`
   - `DbCommandBuilder.GetDeleteCommand()`
 
-最常使用到的地方是和DataAdapter並用時，但它要求傳入的`SELECT`语句所选择的列集合中必須要有[主键或者](../Page/主键.md "wikilink")[唯一键](../Page/唯一键.md "wikilink")\[6\]，否則無法產生，同時自動產生的指令因為判斷條件很多，對效能可能會有些影响。
+最常使用到的地方是和DataAdapter並用時，但它要求傳入的`SELECT`语句所选择的列集合中必須要有[主键或者](https://zh.wikipedia.org/wiki/主键 "wikilink")[唯一键](https://zh.wikipedia.org/wiki/唯一键 "wikilink")\[6\]，否則無法產生，同時自動產生的指令因為判斷條件很多，對效能可能會有些影响。
 
 ## Visual Studio的支援
 
@@ -336,7 +336,7 @@ Studio在建立Typed DataSet時有提供視覺化介面的支援，以及資料�
 Wizard）來讓開發人員以簡單的設定方式來建立DataSet，部分開發人員也將TableAdapter和ASP.NET應用程式的ObjectDataSource控制項並用，亦得到不錯的效果。
 
 在.NET Framework
-3.5中，微軟特別為了DataSet和DataTable建立了[LINQ](../Page/LINQ.md "wikilink")
+3.5中，微軟特別為了DataSet和DataTable建立了[LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink")
 Provider（稱為LINQ to DataSet或LINQ to
 ADO.NET），讓LINQ可以在DataSet或DataTable上使用，可以讓原本在DataSet上的投資（程式碼）得以繼續使用並享有LINQ的便利性。
 
@@ -347,7 +347,7 @@ ADO.NET），讓LINQ可以在DataSet或DataTable上使用，可以讓原本在Da
 Framework中使用ADO來連接資料來源。但在.NET Framework應用程式使用ADO的話，.NET
 Framework會因為要多一層ADO的COM与VB.NET使用的.NET之間的資料轉換，會讓應用程式效能有少部分的損耗\[9\]。
 
-下述示例，用ADO读取一个数据库中的表格，然后转为ADO.Net的数据，最后绑定到[DataGridView控件中去显示](../Page/DataGridView.md "wikilink")：
+下述示例，用ADO读取一个数据库中的表格，然后转为ADO.Net的数据，最后绑定到[DataGridView控件中去显示](https://zh.wikipedia.org/wiki/DataGridView "wikilink")：
 
 ``` vbnet
         Dim cn As ADODB.Connection

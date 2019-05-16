@@ -1,8 +1,9 @@
 **Xpdf**
-是一個[開放原始碼的](../Page/開放原始碼.md "wikilink")[PDF檔案瀏覽器](../Page/PDF.md "wikilink")，此軟體運行於[X
-Window以及](../Page/X_Window.md "wikilink")[Motif上](../Page/Motif.md "wikilink")。
-Xpdf 也實際運行於所有[類Unix作業系統上](../Page/類Unix.md "wikilink")。Xpdf
-可解碼[LZW壓縮格式並閱讀加密的PDF文件](../Page/LZW.md "wikilink")。官方版本的Xpdf遵循PDF檔案的[智慧財產權政策](../Page/智慧財產權.md "wikilink")，因此可能禁止拷貝、列印或轉換的功能。當然有某些破解補丁可以忽略這些智慧財產管理限制。
+是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[PDF檔案瀏覽器](https://zh.wikipedia.org/wiki/PDF "wikilink")，此軟體運行於[X
+Window以及](https://zh.wikipedia.org/wiki/X_Window "wikilink")[Motif上](../Page/Motif.md "wikilink")。
+Xpdf
+也實際運行於所有[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")。Xpdf
+可解碼[LZW壓縮格式並閱讀加密的PDF文件](../Page/LZW.md "wikilink")。官方版本的Xpdf遵循PDF檔案的[智慧財產權政策](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")，因此可能禁止拷貝、列印或轉換的功能。當然有某些破解補丁可以忽略這些智慧財產管理限制。
 
 Xpdf包含數項不需要X
 windows系統的程式，包含了解析PDF的圖檔以及將PDF轉檔成文字檔或[PostScript的程式](../Page/PostScript.md "wikilink")。

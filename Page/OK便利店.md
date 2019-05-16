@@ -1,11 +1,11 @@
 [Circle_K_logo.svg](https://zh.wikipedia.org/wiki/File:Circle_K_logo.svg "fig:Circle_K_logo.svg")
 
 **OK便利店**（**Circle
-K**）是一家成立於[美國德州](../Page/美國.md "wikilink")[艾爾帕索的](../Page/艾爾帕索_\(德克薩斯州\).md "wikilink")1951年[連鎖式](../Page/連鎖店.md "wikilink")[便利商店集團](../Page/便利商店.md "wikilink")，透過[特許經營方式經營](../Page/特許經營.md "wikilink")，商標原由[康菲石油公司持有](../Page/康菲石油公司.md "wikilink")，後出售予Alimentation
-Couche-Tard。在[北美洲及](../Page/北美洲.md "wikilink")[歐洲皆有分店](../Page/歐洲.md "wikilink")。
+K**）是一家成立於[美國德州](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾爾帕索的](../Page/艾爾帕索_\(德克薩斯州\).md "wikilink")1951年[連鎖式](../Page/連鎖店.md "wikilink")[便利商店集團](../Page/便利商店.md "wikilink")，透過[特許經營方式經營](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，商標原由[康菲石油公司持有](https://zh.wikipedia.org/wiki/康菲石油公司 "wikilink")，後出售予Alimentation
+Couche-Tard。在[北美洲及](../Page/北美洲.md "wikilink")[歐洲皆有分店](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 Circle K在美國一部份地區還附設[加油站](../Page/加油站.md "wikilink")。Circle
-K在[亞洲地區](../Page/亞洲.md "wikilink")，例如[香港及](../Page/香港.md "wikilink")[澳門亦設有連鎖店](../Page/澳門.md "wikilink")。
+K在[亞洲地區](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，例如[香港及](../Page/香港.md "wikilink")[澳門亦設有連鎖店](../Page/澳門.md "wikilink")。
 
 ## 各地的OK便利店
 
@@ -13,11 +13,11 @@ K在[亞洲地區](../Page/亞洲.md "wikilink")，例如[香港及](../Page/香
 
 [Eastern_shops_in_Wong_Chuk_Hang_Station_(2).jpg](https://zh.wikipedia.org/wiki/File:Eastern_shops_in_Wong_Chuk_Hang_Station_\(2\).jpg "fig:Eastern_shops_in_Wong_Chuk_Hang_Station_(2).jpg")分店\]\]
 [Choi_Ming_Shopping_Centre_Convenience_stores.jpg](https://zh.wikipedia.org/wiki/File:Choi_Ming_Shopping_Centre_Convenience_stores.jpg "fig:Choi_Ming_Shopping_Centre_Convenience_stores.jpg")[彩明商場分店](../Page/彩明商場.md "wikilink")\]\]
-[Circle_K_on_East_Point_Road.jpg](https://zh.wikipedia.org/wiki/File:Circle_K_on_East_Point_Road.jpg "fig:Circle_K_on_East_Point_Road.jpg")[東角道旗艦店](../Page/東角道.md "wikilink")\]\]
-香港及[中國的OK便利店由](../Page/中國.md "wikilink")[利豐屬下之](../Page/利豐.md "wikilink")[利亞零售有限公司](../Page/利亞零售有限公司.md "wikilink")（）及其附屬公司（統稱CRA集團）經營，於1985年在香港開設第一間OK便利店。OK便利店是香港第二大連鎖便利店，主要銷售[食品](../Page/食品.md "wikilink")、[日用品及](../Page/日用品.md "wikilink")[雜誌等貨品](../Page/雜誌.md "wikilink")。有別於其主要競爭對手[7-11](../Page/7-11.md "wikilink")，普遍店舖面積比[7-11大](../Page/7-11.md "wikilink")。
+[Circle_K_on_East_Point_Road.jpg](https://zh.wikipedia.org/wiki/File:Circle_K_on_East_Point_Road.jpg "fig:Circle_K_on_East_Point_Road.jpg")[東角道旗艦店](https://zh.wikipedia.org/wiki/東角道 "wikilink")\]\]
+香港及[中國的OK便利店由](../Page/中國.md "wikilink")[利豐屬下之](../Page/利豐.md "wikilink")[利亞零售有限公司](https://zh.wikipedia.org/wiki/利亞零售有限公司 "wikilink")（）及其附屬公司（統稱CRA集團）經營，於1985年在香港開設第一間OK便利店。OK便利店是香港第二大連鎖便利店，主要銷售[食品](https://zh.wikipedia.org/wiki/食品 "wikilink")、[日用品及](../Page/日用品.md "wikilink")[雜誌等貨品](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。有別於其主要競爭對手[7-11](https://zh.wikipedia.org/wiki/7-11 "wikilink")，普遍店舖面積比[7-11大](https://zh.wikipedia.org/wiki/7-11 "wikilink")。
 
 CRA集團於香港共有335家（2019年）Circle
-K連鎖便利店\[1\]、[廣州市則有](../Page/廣州市.md "wikilink")71間便利店，[珠海市亦有](../Page/珠海市.md "wikilink")12間。廣州首間OK便利店於2002年11月以合營企業的方式投入服務，由**利亞華南便利店有限公司**負責業務營運，以此正式進入廣州市場，獲廣州市政府列為該年度十二個重大項目之一。廣州店以「好知味」、「Hot
+K連鎖便利店\[1\]、[廣州市則有](https://zh.wikipedia.org/wiki/廣州市 "wikilink")71間便利店，[珠海市亦有](https://zh.wikipedia.org/wiki/珠海市 "wikilink")12間。廣州首間OK便利店於2002年11月以合營企業的方式投入服務，由**利亞華南便利店有限公司**負責業務營運，以此正式進入廣州市場，獲廣州市政府列為該年度十二個重大項目之一。廣州店以「好知味」、「Hot
 & In」獨家品牌推出一系列新鮮出爐麵包及即磨即制的精選飲品。
 
 #### 事件
@@ -34,7 +34,7 @@ OK便利店確認，相關指引屬公司發出
 
 2016年
 
-2016年1月，[香港](../Page/香港.md "wikilink")[薄扶林](../Page/薄扶林.md "wikilink")[華富邨OK便利店出售的即食](../Page/華富邨.md "wikilink")「超級[熱狗包](../Page/熱狗.md "wikilink")」被發現高達208隻[螞蟻](../Page/螞蟻.md "wikilink")，被[食環署票控一項](../Page/食環署.md "wikilink")「食物的品質與購買人所要求不符」罪，OK便利店有限公司在[東區法院認罪](../Page/東區法院.md "wikilink")，罰款3,500港元。公司代表求情稱，接到投訴後已加強環境清潔，亦曾拆開機器檢查，無發現有螞蟻。OK便利店之前有6項同樣控罪的[案底](../Page/案底.md "wikilink")，上一次被罰款5,000港元，涉案分店則屬初犯。\[2\]
+2016年1月，[香港](../Page/香港.md "wikilink")[薄扶林](../Page/薄扶林.md "wikilink")[華富邨OK便利店出售的即食](../Page/華富邨.md "wikilink")「超級[熱狗包](../Page/熱狗.md "wikilink")」被發現高達208隻[螞蟻](https://zh.wikipedia.org/wiki/螞蟻 "wikilink")，被[食環署票控一項](https://zh.wikipedia.org/wiki/食環署 "wikilink")「食物的品質與購買人所要求不符」罪，OK便利店有限公司在[東區法院認罪](https://zh.wikipedia.org/wiki/東區法院 "wikilink")，罰款3,500港元。公司代表求情稱，接到投訴後已加強環境清潔，亦曾拆開機器檢查，無發現有螞蟻。OK便利店之前有6項同樣控罪的[案底](../Page/案底.md "wikilink")，上一次被罰款5,000港元，涉案分店則屬初犯。\[2\]
 
 2016年8月香港OK便利店於推出「OK齊齊印」電子顧客管理平台，從推出至年底有近500,000名會員參與。
 
@@ -46,7 +46,7 @@ OK便利店有限公司今在九龍城法院承認容許物體自高處墜下罪
 
 ### 澳門OK便利店
 
-[澳門的OK便利店由](../Page/澳門.md "wikilink")**澳門OK便利店有限公司**負責業務營運，公司由利豐屬下之[利亞零售有限公司與](../Page/利亞零售有限公司.md "wikilink")[澳門工藝有限公司合資成立的](../Page/澳門工藝有限公司.md "wikilink")\[3\]。首家位於[皇朝區](../Page/外港新填海區.md "wikilink")[科英布拉街之OK便利店於](../Page/科英布拉街.md "wikilink")2005年3月15日正式營業，最高峰時間在澳門有21家OK便利店\[4\]。
+[澳門的OK便利店由](../Page/澳門.md "wikilink")**澳門OK便利店有限公司**負責業務營運，公司由利豐屬下之[利亞零售有限公司與](https://zh.wikipedia.org/wiki/利亞零售有限公司 "wikilink")[澳門工藝有限公司合資成立的](https://zh.wikipedia.org/wiki/澳門工藝有限公司 "wikilink")\[3\]。首家位於[皇朝區](https://zh.wikipedia.org/wiki/外港新填海區 "wikilink")[科英布拉街之OK便利店於](https://zh.wikipedia.org/wiki/科英布拉街 "wikilink")2005年3月15日正式營業，最高峰時間在澳門有21家OK便利店\[4\]。
 
 澳門OK便利店於2008年成為[澳門通的合作伙伴](../Page/澳門通.md "wikilink")，成為澳門首間接受澳門通消費及增值服務的便利店。而OK便利店亦曾與澳門通推出一系列優惠及推廣活動。2009年，[大西洋銀行在部分OK便利店裝設自動櫃員機](../Page/大西洋銀行.md "wikilink")，成為澳門首間設有ATM自動櫃員機的便利店\[5\]。部份澳門OK便利店提供由[澳門電訊提供的無線寬頻](../Page/澳門電訊.md "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）服務，是澳門首家提供此服務的便利店。\[6\]
 
@@ -56,7 +56,7 @@ OK便利店有限公司今在九龍城法院承認容許物體自高處墜下罪
 
 ### 越南
 
-[越南控股](../Page/越南控股.md "wikilink")（現[中國微電子](../Page/中國微電子.md "wikilink")，同時出售非核心業務）旗下附屬公司於2008年，獲得25年[越南經營OK便利店獨家專利權](../Page/越南.md "wikilink")。目前由Circle
+[越南控股](https://zh.wikipedia.org/wiki/越南控股 "wikilink")（現[中國微電子](https://zh.wikipedia.org/wiki/中國微電子 "wikilink")，同時出售非核心業務）旗下附屬公司於2008年，獲得25年[越南經營OK便利店獨家專利權](https://zh.wikipedia.org/wiki/越南 "wikilink")。目前由Circle
 K Vietnam 公司營運。
 
 ## 已解約的OK便利店
@@ -64,11 +64,11 @@ K Vietnam 公司營運。
 ### 來來超商
 
 [OK_Taiwan.svg](https://zh.wikipedia.org/wiki/File:OK_Taiwan.svg "fig:OK_Taiwan.svg")
- [台灣的Circle](../Page/台灣.md "wikilink")
-K原是由[豐群企業集團在](../Page/豐群企業集團.md "wikilink")1988年9月與美商Circle
+ [台灣的Circle](https://zh.wikipedia.org/wiki/台灣 "wikilink")
+K原是由[豐群企業集團在](https://zh.wikipedia.org/wiki/豐群企業集團 "wikilink")1988年9月與美商Circle
 K合資成立的，公司總部目前位於台北市信義區，初期除在台北開店外，還採取在基隆地區開設分店，以發展「鄉村包圍都市」的開店策略，且均為直營店，到1998年才開始發展加盟事業。直至2007年為止的統計，全台灣有近830家分店。
 
-目前已經與美國總部解約，改稱仍為「OK超商」，中文公司名稱則從解約前的「富群超商股份有限公司」改為「來來超商股份有限公司」，也修改[企業識別標誌](../Page/企業識別.md "wikilink")。
+目前已經與美國總部解約，改稱仍為「OK超商」，中文公司名稱則從解約前的「富群超商股份有限公司」改為「來來超商股份有限公司」，也修改[企業識別標誌](https://zh.wikipedia.org/wiki/企業識別 "wikilink")。
 
 ### 日本
 

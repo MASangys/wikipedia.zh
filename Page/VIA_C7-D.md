@@ -1,18 +1,18 @@
 [c7d-logo.gif](https://zh.wikipedia.org/wiki/File:c7d-logo.gif "fig:c7d-logo.gif")
 **VIA
-C7-D**是一款x86處理器，核心代號為Esther，由[台灣的](../Page/台灣.md "wikilink")[威盛電子公司設計](../Page/威盛.md "wikilink")。C7-D處理器與C7及C7-M處理器架構一樣採用**CoolStream**架構，C7-D時脈最高為1.8GHz，而最大功耗僅為20W。VIA
+C7-D**是一款x86處理器，核心代號為Esther，由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[威盛電子公司設計](https://zh.wikipedia.org/wiki/威盛 "wikilink")。C7-D處理器與C7及C7-M處理器架構一樣採用**CoolStream**架構，C7-D時脈最高為1.8GHz，而最大功耗僅為20W。VIA
 C7-D採用了nanoBGA2封裝，核心面積僅為21mm x 21 mm，現時擁有1.5GHz及1.8GHz兩款型號。C7-D擁有32 way
 128KB L2
 Cache、16階工作管線。支援[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2及](../Page/SSE2.md "wikilink")[SSE3等多媒體指令集](../Page/SSE3.md "wikilink")。
 
-C7-D將會搭配整合式單晶片[晶片組CN](../Page/晶片組.md "wikilink")700，整合了[S3
+C7-D將會搭配整合式單晶片[晶片組CN](https://zh.wikipedia.org/wiki/晶片組 "wikilink")700，整合了[S3
 Graphics](../Page/S3_Graphics.md "wikilink") UniChrome Pro
 IGP繪圖引擎，支援雙顯示輸出，內建硬體[MPEG-2加速功能及](../Page/MPEG-2.md "wikilink")[Chromotion
-CE影像最佳化技術](../Page/Chromotion_CE.md "wikilink")。其他功能包括5.1聲道[AC97音效](../Page/AC97.md "wikilink")，記憶體支援[DDR2](../Page/DDR2.md "wikilink")
+CE影像最佳化技術](https://zh.wikipedia.org/wiki/Chromotion_CE "wikilink")。其他功能包括5.1聲道[AC97音效](../Page/AC97.md "wikilink")，記憶體支援[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")
 400/533MHz記憶體。
 
-C7-D處理器功耗低，放出的熱力也比較少，較適合在[嵌入式系統及新興的](../Page/嵌入式系統.md "wikilink")[HTPC市場使用](../Page/HTPC.md "wikilink")。而VIA亦與[Carbon
-Footprint合作](../Page/Carbon_Footprint.md "wikilink")，稱C7-D是全球首款無碳淨氧處理器，以環保作招來，主攻重視環保的歐洲國家。VIA亦推出**TreeMark**標示以突顯C7-D相較其它處理器廠商產品的環保優勢。
+C7-D處理器功耗低，放出的熱力也比較少，較適合在[嵌入式系統及新興的](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[HTPC市場使用](https://zh.wikipedia.org/wiki/HTPC "wikilink")。而VIA亦與[Carbon
+Footprint合作](https://zh.wikipedia.org/wiki/Carbon_Footprint "wikilink")，稱C7-D是全球首款無碳淨氧處理器，以環保作招來，主攻重視環保的歐洲國家。VIA亦推出**TreeMark**標示以突顯C7-D相較其它處理器廠商產品的環保優勢。
 [TreeMark_System.jpg](https://zh.wikipedia.org/wiki/File:TreeMark_System.jpg "fig:TreeMark_System.jpg")
 [TreeMark_Processor.jpg](https://zh.wikipedia.org/wiki/File:TreeMark_Processor.jpg "fig:TreeMark_Processor.jpg")
 
@@ -33,13 +33,13 @@ Footprint合作](../Page/Carbon_Footprint.md "wikilink")，稱C7-D是全球首�
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
   - [VIA C3](../Page/VIA_C3.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA CoreFusion](../Page/VIA_CoreFusion.md "wikilink")
   - [VIA Eden](../Page/VIA_Eden.md "wikilink")
   - [VIA C7-M](../Page/VIA_C7-M.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
   - [VIA Nano](../Page/VIA_Nano.md "wikilink")
 
 ## 外部連結

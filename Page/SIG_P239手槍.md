@@ -1,6 +1,6 @@
-**SIG P239**是由[瑞士](../Page/瑞士.md "wikilink")[Swiss
-Arms](../Page/Swiss_Arms.md "wikilink")（前SIG
-Arms）设计，为个人防身用途的半自动手枪。P239有3种口径：[9×19毫米鲁格弹](../Page/9×19mm鲁格弹.md "wikilink")、[.357
+**SIG P239**是由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Swiss
+Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前SIG
+Arms）设计，为个人防身用途的半自动手枪。P239有3种口径：[9×19毫米鲁格弹](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")、[.357
 SIG和](../Page/.357_SIG.md "wikilink")[.40
 S\&W](../Page/.40_S&W.md "wikilink")。
 
@@ -21,9 +21,9 @@ SIG P239亦有一種衍生型，名為SIG P239 SAS。SIG P239 SAS裝有木制握
   -
   -
   -
-  -   - [美國移民及海關執法局](../Page/美國移民及海關執法局.md "wikilink")（.40口徑型）
+  -   - [美國移民及海關執法局](https://zh.wikipedia.org/wiki/美國移民及海關執法局 "wikilink")（.40口徑型）
       - [美國海軍犯罪調查局](../Page/美國海軍犯罪調查局.md "wikilink")（.40口徑型）
-      - [美國海軍特種作戰研究大隊](../Page/美國海軍特種作戰研究大隊.md "wikilink")
+      - [美國海軍特種作戰研究大隊](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")
       - 地方警察部門
 
 ## 外部链接

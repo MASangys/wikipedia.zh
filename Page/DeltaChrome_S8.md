@@ -2,7 +2,7 @@
 Graphics的顯示卡](../Page/S3_Graphics.md "wikilink")，於2004年7月28日正式发布。它支援DirectX
 9a，硬件支持Pixel Shader 2.0和Vertex Shader
 2.0。3D處理能力已接近當時的中階顯示卡，例如ATi的[Radeon
-9550](../Page/Radeon_9550.md "wikilink")。
+9550](https://zh.wikipedia.org/wiki/Radeon_9550 "wikilink")。
 
 原先全DeltaChrome系列有三張顯視卡，分別是DeltaChrome
 S8，DeltaChromeF1和DeltaChromeS4，分別對應高中低端市場。但由於推出時間與原定遲，最後只剩DeltaChrome
@@ -90,8 +90,8 @@ Map指南，對S3支持者來說，這無疑是極具諷刺意味的回覆，亦
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
-  - [ViRGE](../Page/S3_ViRGE.md "wikilink") 系列
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
+  - [ViRGE](https://zh.wikipedia.org/wiki/S3_ViRGE "wikilink") 系列
   - [Savage](../Page/S3_Savage.md "wikilink") 系列
   - [GammaChrome S18](../Page/GammaChrome_S18.md "wikilink") 系列
   - [Chrome S20](../Page/ChromeS20_Series.md "wikilink") 系列
@@ -103,7 +103,7 @@ Map指南，對S3支持者來說，這無疑是極具諷刺意味的回覆，亦
   - [威盛電子](../Page/威盛電子.md "wikilink")
 
 [de:S3
-Chrome\#DeltaChrome](../Page/de:S3_Chrome#DeltaChrome.md "wikilink")
+Chrome\#DeltaChrome](https://zh.wikipedia.org/wiki/de:S3_Chrome#DeltaChrome "wikilink")
 
 [Category:威盛電子](https://zh.wikipedia.org/wiki/Category:威盛電子 "wikilink")
 [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")

@@ -1,13 +1,13 @@
 **Microsoft Office Access**（前名**Microsoft
-Access**）是由[微軟發佈的](../Page/微軟.md "wikilink")[關聯式資料庫管理系統](../Page/關聯式資料庫管理系統.md "wikilink")。它結合了[Microsoft
+Access**）是由[微軟發佈的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它結合了[Microsoft
 Jet Database
-Engine和](../Page/Microsoft_Jet_Database_Engine.md "wikilink")[圖形用戶界面兩項特點](../Page/圖形用戶界面.md "wikilink")，是[Microsoft
+Engine和](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")[圖形用戶界面兩項特點](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，是[Microsoft
 Office的系統程式之一](../Page/Microsoft_Office.md "wikilink")。
 
 Access能夠存取Access/Jet、[Microsoft SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/Oracle數據庫.md "wikilink")，或者任何[ODBC相容](../Page/ODBC.md "wikilink")[資料庫內的資料](../Page/資料庫.md "wikilink")。熟練的[軟體設計師和](../Page/軟體設計師.md "wikilink")[資料分析師利用它來開發](../Page/資料分析師.md "wikilink")[應用軟體](../Page/應用軟體.md "wikilink")，而一些不熟練的[程式員和非程式員的進階用戶則能使用它來開發簡單的](../Page/程式員.md "wikilink")[應用軟體](../Page/應用軟體.md "wikilink")。雖然它支援部分[物件導向技術](../Page/物件導向.md "wikilink")，但是未能成為一種完整的物件導向開發工具。
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle數據庫](https://zh.wikipedia.org/wiki/Oracle數據庫 "wikilink")，或者任何[ODBC相容](../Page/ODBC.md "wikilink")[資料庫內的資料](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。熟練的[軟體設計師和](https://zh.wikipedia.org/wiki/軟體設計師 "wikilink")[資料分析師利用它來開發](https://zh.wikipedia.org/wiki/資料分析師 "wikilink")[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")，而一些不熟練的[程式員和非程式員的進階用戶則能使用它來開發簡單的](https://zh.wikipedia.org/wiki/程式員 "wikilink")[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")。雖然它支援部分[物件導向技術](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，但是未能成為一種完整的物件導向開發工具。
 
-其實Access也是微軟公司另一個通訊程式的名字，想與[ProComm以及其他類似程式來競爭](../Page/ProComm.md "wikilink")。可是事後微軟證實這是個失敗計劃，並且將它中止。數年後他們把名字重新命名於此數據庫軟體。
+其實Access也是微軟公司另一個通訊程式的名字，想與[ProComm以及其他類似程式來競爭](https://zh.wikipedia.org/wiki/ProComm "wikilink")。可是事後微軟證實這是個失敗計劃，並且將它中止。數年後他們把名字重新命名於此數據庫軟體。
 
 目前最新的Access版本是Microsoft Access 2019 for Windows。
 
@@ -31,7 +31,7 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>1</p>
 </center></td>
-<td><p><a href="../Page/Windows_3.0.md" title="wikilink">Windows 3.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_3.0" title="wikilink">Windows 3.0</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -40,7 +40,7 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>2.0</p>
 </center></td>
-<td><p><a href="../Page/Windows_3.1x.md" title="wikilink">Windows 3.1x</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_3.1x" title="wikilink">Windows 3.1x</a></p></td>
 <td><p><a href="../Page/Microsoft_Office.md" title="wikilink">Office</a> 4.3 Pro</p></td>
 </tr>
 <tr class="odd">
@@ -103,8 +103,8 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>14</p>
 </center></td>
-<td><p>Windows XP SP3，Vista SP1，<a href="../Page/Windows_7.md" title="wikilink">Windows 7</a></p></td>
-<td><p><a href="../Page/Microsoft_Office_2010.md" title="wikilink">Office 2010 Professional，Professional Academic，及Professional Plus</a></p></td>
+<td><p>Windows XP SP3，Vista SP1，<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Office_2010" title="wikilink">Office 2010 Professional，Professional Academic，及Professional Plus</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
@@ -112,8 +112,8 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>15</p>
 </center></td>
-<td><p><a href="../Page/Windows_Server_2012.md" title="wikilink">Windows Server 2012</a>，<a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a>，Windows 7，<a href="../Page/Windows_8.md" title="wikilink">Windows 8</a></p></td>
-<td><p><a href="../Page/Microsoft_Office_2013.md" title="wikilink">Office 2013 Professional及Professional Plus</a></p></td>
+<td><p><a href="../Page/Windows_Server_2012.md" title="wikilink">Windows Server 2012</a>，<a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a>，Windows 7，<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Office_2013" title="wikilink">Office 2013 Professional及Professional Plus</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -121,7 +121,7 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>16</p>
 </center></td>
-<td><p>Windows 7，<a href="../Page/Windows_8.md" title="wikilink">Windows 8</a>，<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>，<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
+<td><p>Windows 7，<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>，<a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a>，<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
 <td><p><a href="../Page/Microsoft_Office_2016.md" title="wikilink">Office 2016 Professional及Professional Plus</a></p></td>
 </tr>
 <tr class="even">
@@ -130,8 +130,8 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/
 <td><center>
 <p>17</p>
 </center></td>
-<td><p>|<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
-<td><p>|<a href="../Page/Windows_Server_2019.md" title="wikilink">Windows Server 2019</a></p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/Windows_Server_2019" title="wikilink">Windows Server 2019</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ Microsoft Access 1.0版本在1992年11月發佈。
 
 微軟配置它於系統Windows 3.0內，並以最小8MB硬碟空間的系統要求，當時該軟體以7張1.44MB軟碟儲存發售。
 
-此軟體能夠有效地處理大量記錄。但是測試顯示在某些情況下，會導致[數據損毀](../Page/數據損毀.md "wikilink")。之後，該軟體歷經改良至今已成為微軟OFFICE商用軟體的主要系統之一。
+此軟體能夠有效地處理大量記錄。但是測試顯示在某些情況下，會導致[數據損毀](https://zh.wikipedia.org/wiki/數據損毀 "wikilink")。之後，該軟體歷經改良至今已成為微軟OFFICE商用軟體的主要系統之一。
 
 Access 2007推出 .accdb的副檔名，如果電腦只有Access 2003(.mdb)的版本，無法像 Word,Excel
 相容(無法開啟)，必須轉換成 .mdb檔案。
@@ -154,13 +154,14 @@ Access在很多地方得到廣泛使用，例如小型企業，大公司的部�
 
 它的使用方便程度和強大的設計工具為初級程式員提供許多功能。不過，方便性的宣傳，常令人誤解。在過於樂觀的誤導下，讓許多沒有程式設計背景的辦公室從業人員應用此軟體，並以為能夠創造可用的系統，但此工具本身的局限性，常常使這些使用者失敗。
 
-一些專業的應用程式開發人員使用Access內附的[快速應用開發功能](../Page/快速應用開發.md "wikilink")，特別是給街道上的推銷員製作一個[初型或獨立應用程式的工具](../Page/初型.md "wikilink")。可是如果是透过網路存取[數據的話](../Page/數據.md "wikilink")，Access的[可擴放性並不高](../Page/可擴放性.md "wikilink")．因此當程式被較多使用者使用時，他們的選擇多會是傾向於一些[客戶端-伺服器為本的方案](../Page/客戶端-伺服器.md "wikilink")，例如[Oracle](../Page/Oracle.md "wikilink")、[IBM
+一些專業的應用程式開發人員使用Access內附的[快速應用開發功能](https://zh.wikipedia.org/wiki/快速應用開發 "wikilink")，特別是給街道上的推銷員製作一個[初型或獨立應用程式的工具](https://zh.wikipedia.org/wiki/初型 "wikilink")。可是如果是透过網路存取[數據的話](https://zh.wikipedia.org/wiki/數據 "wikilink")，Access的[可擴放性並不高](https://zh.wikipedia.org/wiki/可擴放性 "wikilink")．因此當程式被較多使用者使用時，他們的選擇多會是傾向於一些[客戶端-伺服器為本的方案](https://zh.wikipedia.org/wiki/客戶端-伺服器 "wikilink")，例如[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")、[IBM
 DB2](../Page/IBM_DB2.md "wikilink")、[Microsoft SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Windows SharePoint
-Services](../Page/Windows_SharePoint_Services.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[Alpha
-Five](../Page/Alpha_Five.md "wikilink")、[MaxDB](../Page/MaxDB.md "wikilink")，或者[Filemaker](../Page/Filemaker.md "wikilink")。無論如何，不少Access的功能（表單，報告，序列和[VB代碼](../Page/Visual_Basic.md "wikilink")）可以用作其他數據庫的後期應用，包括JET（檔案為主的數據庫引擎，Access預設使用）、[Microsoft
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Windows
+SharePoint
+Services](https://zh.wikipedia.org/wiki/Windows_SharePoint_Services "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[Alpha
+Five](https://zh.wikipedia.org/wiki/Alpha_Five "wikilink")、[MaxDB](../Page/MaxDB.md "wikilink")，或者[Filemaker](https://zh.wikipedia.org/wiki/Filemaker "wikilink")。無論如何，不少Access的功能（表單，報告，序列和[VB代碼](../Page/Visual_Basic.md "wikilink")）可以用作其他數據庫的後期應用，包括JET（檔案為主的數據庫引擎，Access預設使用）、[Microsoft
 SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle和任何其他跟](../Page/Oracle.md "wikilink")[ODBC相容的產品](../Page/ODBC.md "wikilink")。這種方法允許開發者把一個成熟的應用的數據移動到一台更大功率的伺服器而不會在適當的位置犧牲發展。
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle和任何其他跟](https://zh.wikipedia.org/wiki/Oracle "wikilink")[ODBC相容的產品](../Page/ODBC.md "wikilink")。這種方法允許開發者把一個成熟的應用的數據移動到一台更大功率的伺服器而不會在適當的位置犧牲發展。
 
 ## SQL
 
@@ -179,7 +180,7 @@ Applications编程](../Page/Visual_Basic_for_Applications.md "wikilink")。在Ac
   - DoCmd.RunSQL：基于Access的对象模型，使用Microsoft Jet
     SQL，在SQL语句中可以使用VBA函数。需要在调用前设置`DoCmd.SetWarnings
     False`关闭提示或确认对话框。执行时在Access状态栏显示进度条，可通过Esc键中止执行。不能获取SQL语句影响的记录行数。不能将多个SQL语句的执行放在同一事务中。
-  - CurrentDB.Execute：基于[DAO对象模型](../Page/DAO.md "wikilink")，使用Microsoft
+  - CurrentDB.Execute：基于[DAO对象模型](https://zh.wikipedia.org/wiki/DAO "wikilink")，使用Microsoft
     Jet
     SQL，在SQL语句中可以使用VBA函数。没有提示或确认对话框的显示。执行时没有在Access状态栏显示进度条，不可以通过Esc键中止执行。能获取SQL语句影响的记录行数。可以将多个SQL语句的执行放在同一事务中。
   - CurrentProject.Connection.Execute：基于[ADO对象模型](../Page/ADO.md "wikilink")，连接到不同数据库使用不同的SQL语法。对Access使用ISO
@@ -197,7 +198,7 @@ CurrentProject.Connection.Execute strSQL
 
 ## 编程模型
 
-Access软件自身提供了一套[COM对象体系](../Page/COM.md "wikilink")，可供其它软件（如Excel）使用[VBA或者](../Page/VBA.md "wikilink")[C\#](../Page/C♯.md "wikilink")、[C++等编程语言调用Access的功能](../Page/C++.md "wikilink")。
+Access软件自身提供了一套[COM对象体系](https://zh.wikipedia.org/wiki/COM "wikilink")，可供其它软件（如Excel）使用[VBA或者](https://zh.wikipedia.org/wiki/VBA "wikilink")[C\#](../Page/C♯.md "wikilink")、[C++等编程语言调用Access的功能](../Page/C++.md "wikilink")。
 
   - Application：Access应用程序环境
   - DBEngine：数据库管理系统
@@ -213,7 +214,8 @@ Access软件自身提供了一套[COM对象体系](../Page/COM.md "wikilink")，
   - "Database Design for Mere Mortals" by Michael J. Hernandez
   - "Access Database Design & Programming" by Steven Roman
   - "Access 2002 Developer's Handbook™ Set By Paul Litwin; Ken Getz;
-    [Mike Gunderloy](../Page/Mike_Gunderloy.md "wikilink")
+    [Mike
+    Gunderloy](https://zh.wikipedia.org/wiki/Mike_Gunderloy "wikilink")
   - "Succeeding in Business with Microsoft Office Access 2003: A
     Problem-Solving Approach" by Karin Bast, Leon Cygman, Gerard Flynn,
     Rebekah Tidwell
@@ -226,14 +228,15 @@ Access软件自身提供了一套[COM对象体系](../Page/COM.md "wikilink")，
 
 ## 參見
 
-  - [Microsoft SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")
+  - [Microsoft SQL
+    Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
   - [Microsoft Office](../Page/Microsoft_Office.md "wikilink")
-  - [Microsoft](../Page/Microsoft.md "wikilink")
+  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
   - [List of relational database management
-    systems](../Page/List_of_relational_database_management_systems.md "wikilink")
-  - [Xbase](../Page/Xbase.md "wikilink")
+    systems](https://zh.wikipedia.org/wiki/List_of_relational_database_management_systems "wikilink")
+  - [Xbase](https://zh.wikipedia.org/wiki/Xbase "wikilink")
   - [Comparison of relational database management
-    systems](../Page/Comparison_of_relational_database_management_systems.md "wikilink")
+    systems](https://zh.wikipedia.org/wiki/Comparison_of_relational_database_management_systems "wikilink")
   - [Data Normalization
     Basics](http://support.microsoft.com/kb/283878/EN-US/)
   - [Visual Basic](../Page/Visual_Basic.md "wikilink")

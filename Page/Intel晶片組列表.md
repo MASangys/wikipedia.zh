@@ -1,16 +1,16 @@
-這是[英特爾](../Page/英特爾.md "wikilink")[公司推出的](../Page/公司.md "wikilink")[主機板](../Page/主機板.md "wikilink")[晶片組](../Page/晶片組.md "wikilink")[列表](../Page/列表.md "wikilink")，它包含四大類，分別是
+這是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[公司推出的](../Page/公司.md "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，它包含四大類，分別是
 
   - 早期晶片組
   - 桌面與移動晶片組
-  - [伺服器與](../Page/伺服器.md "wikilink")[工作站晶片組](../Page/工作站.md "wikilink")
-  - [嵌入式晶片組](../Page/嵌入式.md "wikilink")
+  - [伺服器與](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[工作站晶片組](../Page/工作站.md "wikilink")
+  - [嵌入式晶片組](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")
 
 ## 早期晶片組
 
-[英特爾授權](../Page/英特爾.md "wikilink")[ZyMOS推出的POACH系列晶片組來搭配](../Page/ZyMOS.md "wikilink")[80286與](../Page/80286.md "wikilink")[Intel
+[英特爾授權](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[ZyMOS推出的POACH系列晶片組來搭配](https://zh.wikipedia.org/wiki/ZyMOS "wikilink")[80286與](https://zh.wikipedia.org/wiki/80286 "wikilink")[Intel
 80386SX處理器](../Page/Intel_80386.md "wikilink")。
 
-[英特爾早期晶片組資料](../Page/英特爾.md "wikilink"):\[1\]
+[英特爾早期晶片組資料](https://zh.wikipedia.org/wiki/英特爾 "wikilink"):\[1\]
 
   - 82350 EISA
   - 82350DT EISA
@@ -19,21 +19,21 @@
   - 82340DX PC AT
   - 82320 MCA
   - 82360SL
-    用來搭配移動版[80386SL與](../Page/80386SL.md "wikilink")[80486SL處理器](../Page/80486SL.md "wikilink")。
+    用來搭配移動版[80386SL與](https://zh.wikipedia.org/wiki/80386SL "wikilink")[80486SL處理器](https://zh.wikipedia.org/wiki/80486SL "wikilink")。
 
 ## 桌面與移動晶片組
 
 ### 4xx系列晶片組
 
-#### [80486晶片組](../Page/80486.md "wikilink")
+#### [80486晶片組](https://zh.wikipedia.org/wiki/80486 "wikilink")
 
-| [晶片組](../Page/晶片組.md "wikilink") | 研發代號      | 南橋      | 發表日期     | 處理器電壓及插座     | [前端匯流排](../Page/前端匯流排.md "wikilink") | [對稱多處理機](../Page/對稱多處理機.md "wikilink") | 記憶體類型                            | 最大記憶體                              | 奇偶校驗/錯誤檢查   | 二級[快取類型](../Page/快取.md "wikilink") | [PCI支援](../Page/PCI.md "wikilink") |
-| -------------------------------- | --------- | ------- | -------- | ------------ | ------------------------------------ | -------------------------------------- | -------------------------------- | ---------------------------------- | ----------- | ---------------------------------- | ---------------------------------- |
-| 420TX                            | Saturn    | SIO     | 1992年11月 | 5V（486）      | 直至33 MHz                             | rowspan="3"                            | [FPM](../Page/FPM.md "wikilink") | 128 [MB](../Page/MB.md "wikilink") | rowspan="3" | 異步                                 | 2.0                                |
-| 420EX                            | Aries     | 82426EX | 1994年3月  | 5V/3.3V（486） | 直至50 MHz                             |                                        |                                  |                                    |             |                                    |                                    |
-| 420ZX                            | Saturn II | SIO     | 直至33 MHz | 160 MB       | 2.1                                  |                                        |                                  |                                    |             |                                    |                                    |
+| [晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink") | 研發代號      | 南橋      | 發表日期     | 處理器電壓及插座     | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | [對稱多處理機](https://zh.wikipedia.org/wiki/對稱多處理機 "wikilink") | 記憶體類型                                               | 最大記憶體                                                 | 奇偶校驗/錯誤檢查   | 二級[快取類型](https://zh.wikipedia.org/wiki/快取 "wikilink") | [PCI支援](https://zh.wikipedia.org/wiki/PCI "wikilink") |
+| --------------------------------------------------- | --------- | ------- | -------- | ------------ | ------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 420TX                                               | Saturn    | SIO     | 1992年11月 | 5V（486）      | 直至33 MHz                                                | rowspan="3"                                               | [FPM](https://zh.wikipedia.org/wiki/FPM "wikilink") | 128 [MB](https://zh.wikipedia.org/wiki/MB "wikilink") | rowspan="3" | 異步                                                    | 2.0                                                   |
+| 420EX                                               | Aries     | 82426EX | 1994年3月  | 5V/3.3V（486） | 直至50 MHz                                                |                                                           |                                                     |                                                       |             |                                                       |                                                       |
+| 420ZX                                               | Saturn II | SIO     | 直至33 MHz | 160 MB       | 2.1                                                     |                                                           |                                                     |                                                       |             |                                                       |                                                       |
 
-#### [Pentium晶片組](../Page/Pentium.md "wikilink")
+#### [Pentium晶片組](https://zh.wikipedia.org/wiki/Pentium "wikilink")
 
 <table>
 <thead>
@@ -145,7 +145,7 @@
 <td><p>430VX</p></td>
 <td><p>SB82437VX SB82438VX</p></td>
 <td><p>rowspan="2" </p></td>
-<td><p>FPM/EDO/<a href="../Page/SDR_SDRAM.md" title="wikilink">SDRAM</a></p></td>
+<td><p>FPM/EDO/<a href="https://zh.wikipedia.org/wiki/SDR_SDRAM" title="wikilink">SDRAM</a></p></td>
 <td><p>128 MB</p></td>
 <td><p>64 MB</p></td>
 <td><p>rowspan="2" </p></td>
@@ -178,7 +178,7 @@
 </tbody>
 </table>
 
-#### [Pentium Pro](../Page/Pentium_Pro.md "wikilink")/[Pentium II](../Page/Pentium_II.md "wikilink")/[Pentium III晶片組](../Page/Pentium_III.md "wikilink")
+#### [Pentium Pro](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")/[Pentium II](https://zh.wikipedia.org/wiki/Pentium_II "wikilink")/[Pentium III晶片組](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")
 
 <table>
 <thead>
@@ -210,7 +210,7 @@
 <td><p>66 MHz</p></td>
 <td></td>
 <td><p>FPM</p></td>
-<td><p>8 <a href="../Page/gigabyte.md" title="wikilink">GB</a></p></td>
+<td><p>8 <a href="https://zh.wikipedia.org/wiki/gigabyte" title="wikilink">GB</a></p></td>
 <td></td>
 <td><p>rowspan="2" </p></td>
 <td><p>2.0</p></td>
@@ -233,7 +233,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/440FX.md" title="wikilink">440FX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/440FX" title="wikilink">440FX</a></p></td>
 <td><p>Natoma</p></td>
 <td><p>82441FX, 82442FX</p></td>
 <td><p>PIIX3</p></td>
@@ -281,7 +281,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Intel_440BX.md" title="wikilink">440BX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_440BX" title="wikilink">440BX</a></p></td>
 <td><p>Seattle</p></td>
 <td><p>82443BX</p></td>
 <td><p>PIIX4E</p></td>
@@ -302,7 +302,7 @@
 <td><p>82443GX</p></td>
 <td><p>PIIX4E</p></td>
 <td><p>June 1998</p></td>
-<td><p>Pentium II/III, <a href="../Page/Xeon.md" title="wikilink">Xeon</a></p></td>
+<td><p>Pentium II/III, <a href="https://zh.wikipedia.org/wiki/Xeon" title="wikilink">Xeon</a></p></td>
 <td><p>100 MHz</p></td>
 <td></td>
 <td><p>SDRAM</p></td>
@@ -363,16 +363,16 @@
 </tbody>
 </table>
 
-#### 4xx系列晶片組[南橋](../Page/南橋.md "wikilink")
+#### 4xx系列晶片組[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")
 
 <table>
 <thead>
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="../Page/ATA.md" title="wikilink">ATA支援</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA支援</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB支援</a></p></th>
-<th><p><a href="../Page/CMOS.md" title="wikilink">CMOS</a>/時鐘</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/CMOS" title="wikilink">CMOS</a>/時鐘</p></th>
 <th><p>ISA支援</p></th>
 <th><p><a href="../Page/LPC匯流排.md" title="wikilink">LPC支援</a></p></th>
 <th><p>電源管理</p></th>
@@ -387,12 +387,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/系統管理模式.md" title="wikilink">SMM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/系統管理模式" title="wikilink">SMM</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PIIX.md" title="wikilink">PIIX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIIX" title="wikilink">PIIX</a></p></td>
 <td><p>82371FB</p></td>
-<td><p><a href="../Page/PIO.md" title="wikilink">PIO</a>/<a href="../Page/WDMA.md" title="wikilink">WDMA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIO" title="wikilink">PIO</a>/<a href="https://zh.wikipedia.org/wiki/WDMA" title="wikilink">WDMA</a></p></td>
 <td><p>無</p></td>
 <td></td>
 <td></td>
@@ -410,7 +410,7 @@
 <td><p>SMM</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PIIX.md" title="wikilink">PIIX</a>3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIIX" title="wikilink">PIIX</a>3</p></td>
 <td><p>82371SB</p></td>
 <td><p>PIO/WDMA</p></td>
 <td><p>1個控制器, 2個接口</p></td>
@@ -420,9 +420,9 @@
 <td><p>SMM</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/PIIX.md" title="wikilink">PIIX</a>4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIIX" title="wikilink">PIIX</a>4</p></td>
 <td><p>82371AB</p></td>
-<td><p>PIO/<a href="../Page/UDMA.md" title="wikilink">UDMA</a> 33</p></td>
+<td><p>PIO/<a href="https://zh.wikipedia.org/wiki/UDMA" title="wikilink">UDMA</a> 33</p></td>
 <td><p>1個控制器, 2個接口</p></td>
 <td></td>
 <td></td>
@@ -430,7 +430,7 @@
 <td><p>SMM</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PIIX.md" title="wikilink">PIIX</a>4E</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIIX" title="wikilink">PIIX</a>4E</p></td>
 <td><p>82371EB</p></td>
 <td><p>PIO/UDMA 33</p></td>
 <td><p>1個控制器, 2個接口</p></td>
@@ -468,10 +468,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Intel_810.md" title="wikilink">810</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_810" title="wikilink">810</a></p></td>
 <td><p>Whitney</p></td>
 <td><p>82810</p></td>
-<td><p><a href="../Page/I/O路径控制器.md" title="wikilink">ICH</a>/ICH0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I/O路径控制器" title="wikilink">ICH</a>/ICH0</p></td>
 <td><p>April 1999</p></td>
 <td><p>Celeron, Pentium II/III</p></td>
 <td><p>66/100 MHz</p></td>
@@ -485,7 +485,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Intel_810.md" title="wikilink">810E</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_810" title="wikilink">810E</a></p></td>
 <td><p>Whitney</p></td>
 <td><p>82810E</p></td>
 <td><p>ICH</p></td>
@@ -502,7 +502,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Intel_810.md" title="wikilink">810E2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_810" title="wikilink">810E2</a></p></td>
 <td><p>Whitney</p></td>
 <td><p>8210E</p></td>
 <td><p>ICH2</p></td>
@@ -544,7 +544,7 @@
 <td><p>Pentium III, Xeon</p></td>
 <td><p>66/100/133 MHz</p></td>
 <td></td>
-<td><p><a href="../Page/Dual-channel_architecture.md" title="wikilink">Dual-Channel</a> PC800 <a href="../Page/RDRAM.md" title="wikilink">RDRAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dual-channel_architecture" title="wikilink">Dual-Channel</a> PC800 <a href="../Page/RDRAM.md" title="wikilink">RDRAM</a></p></td>
 <td><p>4 GB</p></td>
 <td><p>2×4</p></td>
 <td></td>
@@ -785,7 +785,7 @@
 </tbody>
 </table>
 
-#### [Pentium 4晶片組](../Page/Pentium_4.md "wikilink")
+#### [Pentium 4晶片組](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")
 
 <table>
 <thead>
@@ -803,12 +803,12 @@
 <th><p>奇偶校驗/錯誤檢查</p></th>
 <th><p>PCI類型</p></th>
 <th><p>顯示核心</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Intel_850.md" title="wikilink">850</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_850" title="wikilink">850</a></p></td>
 <td><p>Tehama</p></td>
 <td><p>82850 (MCH)</p></td>
 <td><p>ICH2</p></td>
@@ -928,7 +928,7 @@
 <td><p>Pentium 4</p></td>
 <td><p>400/533 MHz</p></td>
 <td></td>
-<td><p>DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a></p></td>
+<td><p>DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a></p></td>
 <td><p>2 GB</p></td>
 <td></td>
 <td><p>v2.2/33 MHz</p></td>
@@ -944,7 +944,7 @@
 <td><p>Celeron, Pentium 4</p></td>
 <td><p>400/533 MHz</p></td>
 <td></td>
-<td><p>DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a></p></td>
+<td><p>DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a></p></td>
 <td><p>2 GB</p></td>
 <td></td>
 <td><p>v2.2/33 MHz</p></td>
@@ -960,7 +960,7 @@
 <td><p>Celeron, 測試不支援 90 nm Celeron D, Pentium 4</p></td>
 <td><p>400/533 MHz</p></td>
 <td></td>
-<td><p>DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>, PC133</p></td>
+<td><p>DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>, PC133</p></td>
 <td><p>2 GB</p></td>
 <td></td>
 <td><p>v2.2/33 MHz</p></td>
@@ -976,7 +976,7 @@
 <td><p>Pentium 4, Xeon</p></td>
 <td><p>400/533/800 MHz</p></td>
 <td></td>
-<td><p>雙通道 DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>/400</p></td>
+<td><p>雙通道 DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>/400</p></td>
 <td><p>4 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -992,7 +992,7 @@
 <td><p>Pentium 4, Celeron, Celeron D</p></td>
 <td><p>400/533/800 MHz</p></td>
 <td></td>
-<td><p>雙通道 DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>/400</p></td>
+<td><p>雙通道 DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>/400</p></td>
 <td><p>4 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -1008,7 +1008,7 @@
 <td><p>Pentium 4, Celeron D</p></td>
 <td><p>400/533 MHz</p></td>
 <td></td>
-<td><p>雙通道 DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a></p></td>
+<td><p>雙通道 DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a></p></td>
 <td><p>4 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -1024,7 +1024,7 @@
 <td><p>Pentium 4, Celeron D, Core 2</p></td>
 <td><p>400/533/800 MHz</p></td>
 <td></td>
-<td><p>雙通道 DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>/400</p></td>
+<td><p>雙通道 DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>/400</p></td>
 <td><p>4 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -1040,7 +1040,7 @@
 <td><p>Celeron, Celeron D, Pentium 4</p></td>
 <td><p>400/533/800 MHz</p></td>
 <td></td>
-<td><p>DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>/400</p></td>
+<td><p>DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>/400</p></td>
 <td><p>2 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -1056,7 +1056,7 @@
 <td><p>Pentium 4, Celeron D</p></td>
 <td><p>400/533/800 MHz</p></td>
 <td></td>
-<td><p>雙通道 DDR 266/<a href="../Page/PC2700.md" title="wikilink">333</a>/400</p></td>
+<td><p>雙通道 DDR 266/<a href="https://zh.wikipedia.org/wiki/PC2700" title="wikilink">333</a>/400</p></td>
 <td><p>4 GB</p></td>
 <td></td>
 <td><p>v2.3/33 MHz</p></td>
@@ -1086,9 +1086,10 @@
 
   - 875P (Canterwood)
       - 規格與E7205基本相同,
-        但它支援800 MHz前端匯流排，支援[雙通道DDR](../Page/雙通道.md "wikilink")
+        但它支援800 MHz前端匯流排，支援[雙通道DDR](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
         400 ECC或Non-ECC記憶體以及CSA，SATA RAID與PAT技術
-      - 支援[Socket 640接口的Xeon處理器](../Page/Socket_640.md "wikilink")
+      - 支援[Socket
+        640接口的Xeon處理器](https://zh.wikipedia.org/wiki/Socket_640 "wikilink")
   - 865PE (Springdale)
       - 與875P相比，取消了PAT技術，只支援雙通道DDR 400 Non-ECC記憶體，後期支援Core 2
         800MHz外頻的處理器，算是生命週期很長的晶片組。
@@ -1097,11 +1098,11 @@
           - 848P - 規格與865PE基本相同，但不支援雙通道記憶體
   - 865G (Springdale-G)
       - 與865PE相比內部整合了[Extreme Graphics
-        2顯示核心](../Page/Intel_Extreme_Graphics.md "wikilink")
+        2顯示核心](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink")
       - 簡化版：
           - 865GL - 規格與865G基本相同，但不提供AGP插槽
 
-#### Pentium 4-M/[Pentium M](../Page/Pentium_M.md "wikilink")/[Celeron M移動晶片組](../Page/Celeron_M.md "wikilink")
+#### Pentium 4-M/[Pentium M](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")/[Celeron M移動晶片組](https://zh.wikipedia.org/wiki/Celeron_M "wikilink")
 
 <table>
 <thead>
@@ -1119,7 +1120,7 @@
 <th><p>奇偶校驗/錯誤檢查</p></th>
 <th><p>PCI類型</p></th>
 <th><p>顯示核心</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1161,7 +1162,7 @@
 <td><p>82852GM (GMCH)</p></td>
 <td><p>ICH4-M</p></td>
 <td><p>Q2, '04</p></td>
-<td><p><a href="../Page/Pentium_4#Mobile_Pentium_4_M.md" title="wikilink">Pentium 4-M</a>, <a href="../Page/Celeron#Celeron_.28NetBurst.29.md" title="wikilink">Celeron</a>, <a href="../Page/Celeron#Mobile_Celeron_and_Celeron_M.md" title="wikilink">Celeron M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentium_4#Mobile_Pentium_4_M" title="wikilink">Pentium 4-M</a>, <a href="https://zh.wikipedia.org/wiki/Celeron#Celeron_.28NetBurst.29" title="wikilink">Celeron</a>, <a href="https://zh.wikipedia.org/wiki/Celeron#Mobile_Celeron_and_Celeron_M" title="wikilink">Celeron M</a></p></td>
 <td><p>400 MHz</p></td>
 <td></td>
 <td><p>DDR 200/266</p></td>
@@ -1193,7 +1194,7 @@
 <td><p>82852PM (MCH)</p></td>
 <td><p>ICH4-M</p></td>
 <td></td>
-<td><p>Pentium 4-M, Celeron, <a href="../Page/Celeron#Celeron_D.md" title="wikilink">Celeron D</a></p></td>
+<td><p>Pentium 4-M, Celeron, <a href="https://zh.wikipedia.org/wiki/Celeron#Celeron_D" title="wikilink">Celeron D</a></p></td>
 <td><p>400/533 MHz</p></td>
 <td></td>
 <td><p>DDR 200/266/333</p></td>
@@ -1225,7 +1226,7 @@
 <td><p>82855GM (GMCH)</p></td>
 <td><p>ICH4-M</p></td>
 <td><p>March 2003</p></td>
-<td><p><a href="../Page/Pentium_M.md" title="wikilink">Pentium M</a>, Celeron M</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentium_M" title="wikilink">Pentium M</a>, Celeron M</p></td>
 <td><p>400 MHz</p></td>
 <td></td>
 <td><p>DDR 200/266/333</p></td>
@@ -1293,11 +1294,11 @@
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
-<th><p><a href="../Page/PCI.md" title="wikilink">PCI</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/PCI" title="wikilink">PCI</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1405,7 +1406,7 @@
 
 ### 9xx與x3x/x4x系列晶片組
 
-#### Pentium 4/[Pentium D](../Page/Pentium_D.md "wikilink")/[Pentium EE晶片組](../Page/Pentium_Extreme_Edition.md "wikilink")
+#### Pentium 4/[Pentium D](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")/[Pentium EE晶片組](https://zh.wikipedia.org/wiki/Pentium_Extreme_Edition "wikilink")
 
 <table>
 <thead>
@@ -1421,7 +1422,7 @@
 <th><p>最大記憶體</p></th>
 <th><p>奇偶校驗/錯誤檢查</p></th>
 <th><p>顯示核心</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1436,7 +1437,7 @@
 <td><p><a href="../Page/DDR_SDRAM.md" title="wikilink">DDR</a> 333/400</p></td>
 <td><p>2 GB</p></td>
 <td></td>
-<td><p>整合 <a href="../Page/Intel_GMA#GMA_900.md" title="wikilink">GMA 900</a></p></td>
+<td><p>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_900" title="wikilink">GMA 900</a></p></td>
 <td><p>16.3 W</p></td>
 </tr>
 <tr class="even">
@@ -1604,7 +1605,7 @@
 <td></td>
 <td><ul>
 <li>PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_950.md" title="wikilink">GMA 950</a></li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_950" title="wikilink">GMA 950</a></li>
 </ul></td>
 <td><p>22.2 W</p></td>
 </tr>
@@ -1660,7 +1661,7 @@
   - 955X (Glenwood)
       - 上一代925XE的替代品，與945P規格基本相同，支援最大8GB的DDR2 533/667 ECC或Non-ECC記憶體
 
-#### [Pentium M](../Page/Pentium_M.md "wikilink")/[Celeron M移動晶片組](../Page/Celeron_M.md "wikilink")
+#### [Pentium M](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")/[Celeron M移動晶片組](https://zh.wikipedia.org/wiki/Celeron_M "wikilink")
 
 <table>
 <thead>
@@ -1676,7 +1677,7 @@
 <th><p>最大記憶體</p></th>
 <th><p>奇偶校驗/錯誤檢查</p></th>
 <th><p>顯示核心</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1691,7 +1692,7 @@
 <td><p>DDR 333, DDR2 400</p></td>
 <td><p>2 GB</p></td>
 <td></td>
-<td><p>整合 <a href="../Page/Intel_GMA#GMA_900.md" title="wikilink">GMA 900</a></p></td>
+<td><p>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_900" title="wikilink">GMA 900</a></p></td>
 <td><p>10.5 W</p></td>
 </tr>
 <tr class="even">
@@ -1753,23 +1754,23 @@
 </tbody>
 </table>
 
-#### [Core](../Page/Intel_Core.md "wikilink")/[Core 2移動晶片組](../Page/Intel_Core_2.md "wikilink")
+#### [Core](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")/[Core 2移動晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
-| 晶片組     | 研發代號      | 型號               | 南橋     | 發表日期         | 處理器支援                                                                                                                                                                       | 前端匯流排       | 記憶體類型            | 最大記憶體 | 顯示核心                                                                       | [TDP](../Page/TDP.md "wikilink") |
-| ------- | --------- | ---------------- | ------ | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- | ----- | -------------------------------------------------------------------------- | -------------------------------- |
-| 940GML  | Calistoga | 82940GML (GMCH)  | ICH7-M | January 2006 | Celeron M, Core Solo, Pentium Dual-Core                                                                                                                                     | 533 MHz     | DDR2 400/533     | 2 GB  | 整合 [GMA 950](../Page/Intel_GMA#GMA_950.md "wikilink") 顯示核心（最高166 MHz 3D渲染） | 7 W                              |
-| 943GML  | Calistoga | 82943GML (GMCH)  | ICH7-M | January 2006 | Celeron M, Core Solo, Pentium Dual-Core                                                                                                                                     | 533 MHz     | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心 （最高200 MHz 3D渲染）                                           |                                  |
-| 945GMS  | Calistoga | 82945GMS (GMCH)  | ICH7-M | January 2006 | [Core 2 Duo](../Page/Intel_Core_2.md "wikilink"), [Core Duo](../Page/Intel_Core.md "wikilink"), Pentium Dual-Core, [Core Solo](../Page/Intel_Core.md "wikilink"), Celeron M | 533/667 MHz | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心（最高166 MHz 3D渲染）                                            | 7 W                              |
-| 945GSE  | Calistoga | 82945GSE (GMCH)  | ICH7-M | Q2, '08      | [Intel Atom](../Page/Intel_Atom.md "wikilink")                                                                                                                              | 533/667 MHz | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心（最高166 MHz 3D渲染）                                            | 6 W                              |
-| 945GM/E | Calistoga | 82945GM/E (GMCH) | ICH7-M | January 2006 | Core 2 Duo, Core Duo, Pentium Dual-Core, Core Solo, Celeron M                                                                                                               | 533/667 MHz | DDR2 400/533/667 | 4 GB  | 整合 GMA 950 顯示核心 （最高250 MHz 3D渲染）                                           | 7 W                              |
-| 945PM   | Calistoga | 82945PM (MCH)    | ICH7-M | January 2006 | Core 2 Duo, Core Duo, Pentium Dual-Core, Core Solo, Celeron M                                                                                                               | 533/667 MHz | DDR2 400/533/667 | 4 GB  | PCI-Express 16×                                                            | 7 W                              |
-|         |           |                  |        |              |                                                                                                                                                                             |             |                  |       |                                                                            |                                  |
+| 晶片組     | 研發代號      | 型號               | 南橋     | 發表日期         | 處理器支援                                                                                                                                                                                                                                | 前端匯流排       | 記憶體類型            | 最大記憶體 | 顯示核心                                                                                          | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") |
+| ------- | --------- | ---------------- | ------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ----- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 940GML  | Calistoga | 82940GML (GMCH)  | ICH7-M | January 2006 | Celeron M, Core Solo, Pentium Dual-Core                                                                                                                                                                                              | 533 MHz     | DDR2 400/533     | 2 GB  | 整合 [GMA 950](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_950 "wikilink") 顯示核心（最高166 MHz 3D渲染） | 7 W                                                 |
+| 943GML  | Calistoga | 82943GML (GMCH)  | ICH7-M | January 2006 | Celeron M, Core Solo, Pentium Dual-Core                                                                                                                                                                                              | 533 MHz     | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心 （最高200 MHz 3D渲染）                                                              |                                                     |
+| 945GMS  | Calistoga | 82945GMS (GMCH)  | ICH7-M | January 2006 | [Core 2 Duo](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink"), [Core Duo](https://zh.wikipedia.org/wiki/Intel_Core "wikilink"), Pentium Dual-Core, [Core Solo](https://zh.wikipedia.org/wiki/Intel_Core "wikilink"), Celeron M | 533/667 MHz | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心（最高166 MHz 3D渲染）                                                               | 7 W                                                 |
+| 945GSE  | Calistoga | 82945GSE (GMCH)  | ICH7-M | Q2, '08      | [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")                                                                                                                                                                    | 533/667 MHz | DDR2 400/533     | 2 GB  | 整合 GMA 950 顯示核心（最高166 MHz 3D渲染）                                                               | 6 W                                                 |
+| 945GM/E | Calistoga | 82945GM/E (GMCH) | ICH7-M | January 2006 | Core 2 Duo, Core Duo, Pentium Dual-Core, Core Solo, Celeron M                                                                                                                                                                        | 533/667 MHz | DDR2 400/533/667 | 4 GB  | 整合 GMA 950 顯示核心 （最高250 MHz 3D渲染）                                                              | 7 W                                                 |
+| 945PM   | Calistoga | 82945PM (MCH)    | ICH7-M | January 2006 | Core 2 Duo, Core Duo, Pentium Dual-Core, Core Solo, Celeron M                                                                                                                                                                        | 533/667 MHz | DDR2 400/533/667 | 4 GB  | PCI-Express 16×                                                                               | 7 W                                                 |
+|         |           |                  |        |              |                                                                                                                                                                                                                                      |             |                  |       |                                                                                               |                                                     |
 
-#### [Core 2晶片組](../Page/Intel_Core_2.md "wikilink")
+#### [Core 2晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
 以下所列晶片組全部支援Pentium
-Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器架構.md "wikilink")，支援部分[LGA
-775接口的](../Page/LGA_775.md "wikilink")[NetBurst架構處理器](../Page/NetBurst.md "wikilink")\[9\]\[10\]。
+Dual-Core以及[Core微架構的Celeron處理器](https://zh.wikipedia.org/wiki/Intel_Core微處理器架構 "wikilink")，支援部分[LGA
+775接口的](../Page/LGA_775.md "wikilink")[NetBurst架構處理器](https://zh.wikipedia.org/wiki/NetBurst "wikilink")\[9\]\[10\]。
 
 <table>
 <thead>
@@ -1805,7 +1806,7 @@ Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_950.md" title="wikilink">GMA 950</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_950" title="wikilink">GMA 950</a> graphics</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1848,7 +1849,7 @@ Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器
 <td></td>
 <td><ul>
 <li>PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_3000.md" title="wikilink">GMA 3000</a></li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_3000" title="wikilink">GMA 3000</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -1903,7 +1904,7 @@ Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器
 <td></td>
 <td><ul>
 <li>PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X3000.md" title="wikilink">GMA X3000</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X3000" title="wikilink">GMA X3000</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -1919,7 +1920,7 @@ Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器
 <td></td>
 <td><ul>
 <li>PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_3000.md" title="wikilink">GMA 3000</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_3000" title="wikilink">GMA 3000</a> graphics</li>
 <li>Supports ADD2 Card</li>
 </ul></td>
 <td></td>
@@ -1947,7 +1948,7 @@ Dual-Core以及[Core微架構的Celeron處理器](../Page/Intel_Core微處理器
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Intel_P35.md" title="wikilink">P35</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_P35" title="wikilink">P35</a></p></td>
 <td><p>Bearlake (P+)</p></td>
 <td><p>82P35 (MCH)</p></td>
 <td><p>ICH9/ICH9R/ICH9-DH</p></td>
@@ -1977,7 +1978,7 @@ DDR2 667/800/1066</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_3100.md" title="wikilink">GMA 3100</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_3100" title="wikilink">GMA 3100</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -1995,7 +1996,7 @@ DDR2 667/800/1066</p></td>
 <td></td>
 <td><p>整合 GMA 3100 包含：</p>
 <ul>
-<li><a href="../Page/Intel_Clear_Video_Technology.md" title="wikilink">Intel Clear Video Technology</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Intel_Clear_Video_Technology" title="wikilink">Intel Clear Video Technology</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2011,10 +2012,10 @@ DDR2 667/800/1066</p></td>
 <td><p>DDR2 667/800[12][13]</p></td>
 <td><p>8 GB</p></td>
 <td></td>
-<td><p>整合 <a href="../Page/Intel_GMA#GMA_X3500.md" title="wikilink">GMA X3500</a> 包含：</p>
+<td><p>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X3500" title="wikilink">GMA X3500</a> 包含：</p>
 <ul>
-<li><a href="../Page/Direct3D#Direct3D_10.md" title="wikilink">DX10</a></li>
-<li><a href="../Page/Intel_Clear_Video_Technology.md" title="wikilink">Intel Clear Video Technology</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Direct3D#Direct3D_10" title="wikilink">DX10</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Intel_Clear_Video_Technology" title="wikilink">Intel Clear Video Technology</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2105,7 +2106,7 @@ DDR2 667/800</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Intel_P45.md" title="wikilink">P45</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_P45" title="wikilink">P45</a></p></td>
 <td><p>Eaglelake (P+)</p></td>
 <td><p>82P45 (MCH)</p></td>
 <td></td>
@@ -2137,7 +2138,7 @@ DDR2 667/800</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16×</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2154,7 +2155,7 @@ DDR2 667/800</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16× 2.0</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2172,7 +2173,7 @@ DDR2 667/800[16]</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16× 2.0</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500HD</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500HD</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2209,7 +2210,7 @@ DDR2 667/800/1066[17]</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16× 2.0</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2242,7 +2243,7 @@ DDR2 667/800[18]</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16× 2.0</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500</a> graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500</a> graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2275,7 +2276,7 @@ DDR2 667/800[19]</p></td>
 <td></td>
 <td><ul>
 <li>1 PCI-Express 16× 2.0</li>
-<li>整合 <a href="../Page/Intel_GMA#GMA_X4500.md" title="wikilink">GMA X4500</a>[20] graphics</li>
+<li>整合 <a href="https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500" title="wikilink">GMA X4500</a>[20] graphics</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -2304,26 +2305,26 @@ DDR2 667/800[19]</p></td>
 
   - 975X (Glenwood)
       - 上一代955X的替代品，支援65奈米處理器，後期通過更改供電電路來支援[Core
-        2處理器](../Page/Core_2.md "wikilink")。提供兩個PCI-E
-        X16插槽，採用X8+X8的方式來支援[ATi的](../Page/ATi.md "wikilink")[CrossFire雙顯卡互聯技術](../Page/CrossFire.md "wikilink")，支援最大8GB的雙通道DDR2
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。提供兩個PCI-E
+        X16插槽，採用X8+X8的方式來支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire雙顯卡互聯技術](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，支援最大8GB的雙通道DDR2
         667 ECC或Non-ECC記憶體
   - P965 (Broadwater)
       - 上一代945P的後續品，規格與975X基本相同，原生支援65奈米的[Core
-        2處理器](../Page/Core_2.md "wikilink")，後期通過更改供電電路來支援45奈米[Core
-        2處理器](../Page/Core_2.md "wikilink")，支援最大8GB的雙通道DDR2 667/800
-        Non-ECC。記憶體搭配ICH8系列南橋
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期通過更改供電電路來支援45奈米[Core
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，支援最大8GB的雙通道DDR2
+        667/800 Non-ECC。記憶體搭配ICH8系列南橋
   - G965 (BroadwaterG)
       - 與P965相比內部整合了[GMA X3000顯示核心](../Page/Intel_GMA.md "wikilink")
   - Q965 (Broadwater)
-      - 定位於商用辦公平臺，規格與G965基本相同，支援[vPro技術](../Page/博銳.md "wikilink"),
-        支援[ADD2轉接顯示卡](../Page/ADD2.md "wikilink")。
+      - 定位於商用辦公平臺，規格與G965基本相同，支援[vPro技術](https://zh.wikipedia.org/wiki/博銳 "wikilink"),
+        支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
       - 簡化版：
           - Q963 -
-            規格與Q965基本相同，但不支援[ADD2轉接顯示卡](../Page/ADD2.md "wikilink")。
+            規格與Q965基本相同，但不支援[ADD2轉接顯示卡](https://zh.wikipedia.org/wiki/ADD2 "wikilink")。
   - P35 (Bearlake)
       - 上一代P965的後續品，原生支援65nm、1333 MHz前端匯流排[Core
-        2處理器](../Page/Core_2.md "wikilink")，後期也支援45nm[Core
-        2處理器](../Page/Core_2.md "wikilink")。支援最大8GB的雙通道DDR2(實際支援到16GB決定於主機板)
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期也支援45nm[Core
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2(實際支援到16GB決定於主機板)
         533/667/800或DDR3(8G) 800/1066記憶體。搭配ICH9系列南橋
       - 簡化版：
           - P31 - 規格與P35基本相同，但記憶體只支援到最大4GB的雙通道DDR2
@@ -2342,7 +2343,7 @@ DDR2 667/800[19]</p></td>
             533/667/800記憶體，南橋只能搭配ICH7系列
   - X38 Bearlake (X)
       - 上一代975X的後續品，規格與975X基本相同，支援65nm、1333 MHz前端匯流排[Core
-        2處理器](../Page/Core_2.md "wikilink")。支援最大8GB的雙通道DDR2
+        2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2
         533/667/800 ECC或Non-ECC記憶體，或DDR3 800/1066 Non-ECC記憶體
   - X48 Eaglelake (X)
       - 上一代X38的後續品，規格與X38基本相同，原生支援1600
@@ -2351,11 +2352,11 @@ DDR2 667/800[19]</p></td>
         Non-ECC記憶體。搭配ICH10系列南橋。
   - P45 Eaglelake (P+)
       - 上一代P35的後續品，規格與P35基本相同，原生支援45nm、1600 MHz前端匯流排[Core
-        2並支援PCIE](../Page/Core_2.md "wikilink")2.0。支援雙通道DDR2(16GB)
+        2並支援PCIE](https://zh.wikipedia.org/wiki/Core_2 "wikilink")2.0。支援雙通道DDR2(16GB)
         533/667/800/1066或DDR3(8GB) 800/1066/1333記憶體。搭配ICH10系列南橋。
       - 簡化版：
           - P43 Eaglelake (P) -
-            規格與P45基本相同，但不支援組建[ATi的](../Page/ATi.md "wikilink")[CrossFire](../Page/CrossFire.md "wikilink")，只支援最大8GB的雙通道DDR2
+            規格與P45基本相同，但不支援組建[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，只支援最大8GB的雙通道DDR2
             533/667/800或DDR3 800/1066記憶體
   - G45 Eaglelake (G+)
       - 上一代G35的後續品，規格與P45基本相同，但整合了[GMA
@@ -2366,17 +2367,17 @@ DDR2 667/800[19]</p></td>
           - G41 Bearlake (G) - 規格與G43基本相同，只支援雙通道DDR2(8G)
             533/667/800或DDR3(4G) 800/1066記憶體，南橋只能搭配ICH7系列
 
-#### [Core 2移動晶片組](../Page/Intel_Core_2.md "wikilink")
+#### [Core 2移動晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
-| 晶片組   | 研發代號           | 型號                                    | 南橋              | 發表日期                            | 處理器支援                                                                                        | 前端匯流排                                | 記憶體類型                      | 最大記憶體                                                                             | 顯示核心                                                                            | [TDP](../Page/TDP.md "wikilink") |
-| ----- | -------------- | ------------------------------------- | --------------- | ------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------- |
-| GL960 | Crestline      | 82960GL (GMCH)                        | ICH8-M          | 2007年5月                         | Celeron M, Pentium Dual-Core                                                                 | 533 MHz                              | DDR2 533                   | 2 GB                                                                              | 整合 [GMA X3100](../Page/Intel_GMA#GMA_X3100.md "wikilink") 顯示核心 （最高400 MHz 3D渲染） | 13.5 W                           |
-| GM965 | 82965GM (GMCH) | Core 2 Duo                            | 533/800 MHz     | DDR2 533/667                    | 4 GB                                                                                         | 整合 GMA X3100 顯示核心 （最高500 MHz 3D渲染）   |                            |                                                                                   |                                                                                 |                                  |
-| PM965 | 82965PM (MCH)  | PCI-Express 16×                       | 8 W             |                                 |                                                                                              |                                      |                            |                                                                                   |                                                                                 |                                  |
-| GL40  | Cantiga        | 82GL40 (GMCH)                         | ICH9-M          | 2008年9月                         | Core 2 Duo, Celeron, Celeron M, [Pentium Dual-Core](../Page/Pentium_Dual-Core.md "wikilink") | 667/800 MHz                          | DDR2 667/800, DDR3 667/800 | 整合 [GMA X4500HD](../Page/Intel_GMA#GMA_X4500.md "wikilink") 顯示核心 （最高380 MHz 3D渲染） | 12 W                                                                            |                                  |
-| GS45  | 82GS45 (GMCH)  | Core 2 Duo, Core 2 Extreme, Celeron M | 800/1066 MHz    | DDR2 667/800, DDR3 667/800/1066 | 8 GB                                                                                         | 整合 GMA X4500HD 顯示核心 （最高533 MHz 3D渲染） |                            |                                                                                   |                                                                                 |                                  |
-| GM45  | 82GM45 (GMCH)  | 667/800/1066 MHz                      |                 |                                 |                                                                                              |                                      |                            |                                                                                   |                                                                                 |                                  |
-| PM45  | 82PM45 (MCH)   | Core 2 Duo, Core 2 Extreme            | PCI-Express 16× | 7 W                             |                                                                                              |                                      |                            |                                                                                   |                                                                                 |                                  |
+| 晶片組   | 研發代號           | 型號                                    | 南橋              | 發表日期                            | 處理器支援                                                                                                           | 前端匯流排                                | 記憶體類型                      | 最大記憶體                                                                                                | 顯示核心                                                                                               | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") |
+| ----- | -------------- | ------------------------------------- | --------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| GL960 | Crestline      | 82960GL (GMCH)                        | ICH8-M          | 2007年5月                         | Celeron M, Pentium Dual-Core                                                                                    | 533 MHz                              | DDR2 533                   | 2 GB                                                                                                 | 整合 [GMA X3100](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X3100 "wikilink") 顯示核心 （最高400 MHz 3D渲染） | 13.5 W                                              |
+| GM965 | 82965GM (GMCH) | Core 2 Duo                            | 533/800 MHz     | DDR2 533/667                    | 4 GB                                                                                                            | 整合 GMA X3100 顯示核心 （最高500 MHz 3D渲染）   |                            |                                                                                                      |                                                                                                    |                                                     |
+| PM965 | 82965PM (MCH)  | PCI-Express 16×                       | 8 W             |                                 |                                                                                                                 |                                      |                            |                                                                                                      |                                                                                                    |                                                     |
+| GL40  | Cantiga        | 82GL40 (GMCH)                         | ICH9-M          | 2008年9月                         | Core 2 Duo, Celeron, Celeron M, [Pentium Dual-Core](https://zh.wikipedia.org/wiki/Pentium_Dual-Core "wikilink") | 667/800 MHz                          | DDR2 667/800, DDR3 667/800 | 整合 [GMA X4500HD](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500 "wikilink") 顯示核心 （最高380 MHz 3D渲染） | 12 W                                                                                               |                                                     |
+| GS45  | 82GS45 (GMCH)  | Core 2 Duo, Core 2 Extreme, Celeron M | 800/1066 MHz    | DDR2 667/800, DDR3 667/800/1066 | 8 GB                                                                                                            | 整合 GMA X4500HD 顯示核心 （最高533 MHz 3D渲染） |                            |                                                                                                      |                                                                                                    |                                                     |
+| GM45  | 82GM45 (GMCH)  | 667/800/1066 MHz                      |                 |                                 |                                                                                                                 |                                      |                            |                                                                                                      |                                                                                                    |                                                     |
+| PM45  | 82PM45 (MCH)   | Core 2 Duo, Core 2 Extreme            | PCI-Express 16× | 7 W                             |                                                                                                                 |                                      |                            |                                                                                                      |                                                                                                    |                                                     |
 
 #### 9xx與x3x/x4x系列晶片組南橋
 
@@ -2385,7 +2386,7 @@ DDR2 667/800[19]</p></td>
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>型號</p></th>
-<th><p><a href="../Page/ATA.md" title="wikilink">ATA</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/RAID.md" title="wikilink">RAID等級</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
@@ -2624,7 +2625,7 @@ ICH10原生支援AHCI、NCQ。 ICH8之後不再支援原生的IDE ATA 接口。
 
 ### 5/6/7/8/9/100/200系列晶片組
 
-#### [Core i系列晶片組](../Page/Intel_Nehalem.md "wikilink")
+#### [Core i系列晶片組](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")
 
 <table>
 <thead>
@@ -3262,13 +3263,13 @@ SR178(C2)</p></td>
 
   - X58 (Tylersburg)
       - 上一代X48的替代品，支援[LGA
-        1366接口的](../Page/LGA_1366.md "wikilink")[Nehalem與](../Page/Nehalem.md "wikilink")[Westmere處理器](../Page/Westmere.md "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](../Page/QPI.md "wikilink")，支援的最高速度為6.4
-        GT/s。與其搭配的仍為[ICH10南橋](../Page/I/O路径控制器.md "wikilink")，IOH仍通過[DMI介面來連接南橋](../Page/DMI.md "wikilink")。同時支援[ATi的](../Page/ATi.md "wikilink")[CrossFire和](../Page/CrossFire.md "wikilink")[nVIDIA的](../Page/nVIDIA.md "wikilink")[SLI](../Page/SLI.md "wikilink")，支援最大24GB的[三通道DDR](../Page/三通道.md "wikilink")3
+        1366接口的](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")[Nehalem與](https://zh.wikipedia.org/wiki/Nehalem "wikilink")[Westmere處理器](https://zh.wikipedia.org/wiki/Westmere "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")，支援的最高速度為6.4
+        GT/s。與其搭配的仍為[ICH10南橋](https://zh.wikipedia.org/wiki/I/O路径控制器 "wikilink")，IOH仍通過[DMI介面來連接南橋](https://zh.wikipedia.org/wiki/DMI "wikilink")。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大24GB的[三通道DDR](https://zh.wikipedia.org/wiki/三通道 "wikilink")3
         800/1066記憶體
   - P55 (Ibex Peak)
       - 上一代P45的替代品，支援[LGA
-        1156接口的](../Page/LGA_1156.md "wikilink")[Nehalem處理器](../Page/Nehalem.md "wikilink")，由於處理器已整合過去[北橋中的所有功能](../Page/北橋.md "wikilink")，如記憶體控制器與PCI-E控制器（Lynnfield處理器）甚至顯示核心（Clarkdale處理器），傳統意義上的北橋已不存在，所以改為單晶片設計，被稱為[PCH](../Page/Platform_Controller_Hub.md "wikilink")，功能相當於過去的[南橋](../Page/南橋.md "wikilink")。類似的PCH不存在需要高連接的設備，所以仍通過[DMI介面來連接到處理器中的原北橋部分](../Page/DMI.md "wikilink")，速度為2.5
-        GT/s。同時支援[ATi的](../Page/ATi.md "wikilink")[CrossFire和](../Page/CrossFire.md "wikilink")[nVIDIA的](../Page/nVIDIA.md "wikilink")[SLI](../Page/SLI.md "wikilink")，支援最大16GB的雙通道DDR3
+        1156接口的](../Page/LGA_1156.md "wikilink")[Nehalem處理器](https://zh.wikipedia.org/wiki/Nehalem "wikilink")，由於處理器已整合過去[北橋中的所有功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如記憶體控制器與PCI-E控制器（Lynnfield處理器）甚至顯示核心（Clarkdale處理器），傳統意義上的北橋已不存在，所以改為單晶片設計，被稱為[PCH](https://zh.wikipedia.org/wiki/Platform_Controller_Hub "wikilink")，功能相當於過去的[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")。類似的PCH不存在需要高連接的設備，所以仍通過[DMI介面來連接到處理器中的原北橋部分](https://zh.wikipedia.org/wiki/DMI "wikilink")，速度為2.5
+        GT/s。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大16GB的雙通道DDR3
         800/1066/1333記憶體。提供8條PCI-E 2.0通道（不包括處理器內PCI-E控制器所提供的16條PCI-E
         2.0通道），6個SATA接口（支援Frame Information Structure\[21\]），14個USB接口。
       - 加強版：
@@ -3284,7 +3285,7 @@ SR178(C2)</p></td>
       - 上一代Q45的替代品，規格與H57基本相同，支援Flexible Display
         Interface與Braidwood技術，並支援商用的Intel主动管理技术（AMT）6.0。
 
-#### [Core i系列移動晶片組](../Page/Intel_Nehalem.md "wikilink")
+#### [Core i系列移動晶片組](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")
 
 <table>
 <thead>
@@ -3301,7 +3302,7 @@ SR178(C2)</p></td>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
 <th><p>整合式繪圖顯示通道</p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -3659,12 +3660,12 @@ SR17E(C2)</p></td>
 
 ## 相關列表
 
-  - [ALi晶片組列表](../Page/ALi晶片組列表.md "wikilink")
+  - [ALi晶片組列表](https://zh.wikipedia.org/wiki/ALi晶片組列表 "wikilink")
   - [AMD晶片組列表](../Page/AMD晶片組列表.md "wikilink")
-  - [ATi晶片組列表](../Page/ATi晶片組列表.md "wikilink")
+  - [ATi晶片組列表](https://zh.wikipedia.org/wiki/ATi晶片組列表 "wikilink")
   - [NVIDIA晶片組列表](../Page/NVIDIA晶片組列表.md "wikilink")
-  - [SiS晶片組列表](../Page/SiS晶片組列表.md "wikilink")
-  - [ULi晶片組列表](../Page/ULi晶片組列表.md "wikilink")
+  - [SiS晶片組列表](https://zh.wikipedia.org/wiki/SiS晶片組列表 "wikilink")
+  - [ULi晶片組列表](https://zh.wikipedia.org/wiki/ULi晶片組列表 "wikilink")
   - [VIA晶片組列表](../Page/VIA晶片組列表.md "wikilink")
 
 ## 外部連結

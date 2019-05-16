@@ -1,7 +1,7 @@
 **EKA2**（Epoc Kernel Architecture）是[Symbian
-OS的第二代核心](../Page/Symbian_OS.md "wikilink")。
+OS的第二代核心](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")。
 
-如同它的第一代核心[EKA1一般](../Page/EKA1.md "wikilink")，具有先佔式多工與記憶體保護功能。兩者主要的差異在於：
+如同它的第一代核心[EKA1一般](https://zh.wikipedia.org/wiki/EKA1 "wikilink")，具有先佔式多工與記憶體保護功能。兩者主要的差異在於：
 
   - 即時處理（real-time）的保證（API的呼叫是快速、更重要、時間限制內）
   - 多執行緒的支持

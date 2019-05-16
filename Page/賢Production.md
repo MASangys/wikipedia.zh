@@ -2,9 +2,9 @@
 
 ## 概要
 
-1984年6月1日，由身兼[演員](../Page/演員.md "wikilink")、[聲優的](../Page/聲優.md "wikilink")**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](../Page/內海賢太郎.md "wikilink")。
+1984年6月1日，由身兼[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[聲優的](../Page/聲優.md "wikilink")**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](https://zh.wikipedia.org/wiki/內海賢太郎 "wikilink")。
 
-2007年9月1日，賢Production從有限公司登記成為[株式會社](../Page/株式會社.md "wikilink")（股份有限公司）。
+2007年9月1日，賢Production從有限公司登記成為[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")（股份有限公司）。
 
 賢Production附有養成學校兼子公司Office Duo（）\[2\]。
 
@@ -19,20 +19,20 @@ Festival**活動\[3\]。
 
 <!-- end list -->
 
-  - [淺利遼太](../Page/淺利遼太.md "wikilink")
+  - [淺利遼太](https://zh.wikipedia.org/wiki/淺利遼太 "wikilink")
 
   - [阿部敦](../Page/阿部敦.md "wikilink")
 
   - [一條和矢](../Page/一條和矢.md "wikilink")
 
-  - [稻葉實](../Page/稻葉實.md "wikilink")
+  - [稻葉實](https://zh.wikipedia.org/wiki/稻葉實 "wikilink")
 
   -
   -
   -
   - [大原崇](../Page/大原崇.md "wikilink")
 
-  - [荻野晴朗](../Page/荻野晴朗.md "wikilink")
+  - [荻野晴朗](https://zh.wikipedia.org/wiki/荻野晴朗 "wikilink")
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@ Festival**活動\[3\]。
   -
   - [川田紳司](../Page/川田紳司.md "wikilink")
 
-  - [北澤洋](../Page/北澤洋.md "wikilink")
+  - [北澤洋](https://zh.wikipedia.org/wiki/北澤洋 "wikilink")
 
   -
   -
@@ -85,7 +85,7 @@ Festival**活動\[3\]。
   - 高仲祐之
 
   -
-  - [高橋孝治](../Page/高橋孝治.md "wikilink")
+  - [高橋孝治](https://zh.wikipedia.org/wiki/高橋孝治 "wikilink")
 
   -
   -
@@ -101,7 +101,7 @@ Festival**活動\[3\]。
 <!-- end list -->
 
   - [中博史](../Page/中博史.md "wikilink")
-  - [中田和宏](../Page/中田和宏.md "wikilink")
+  - [中田和宏](https://zh.wikipedia.org/wiki/中田和宏 "wikilink")
 
 <!-- end list -->
 
@@ -137,7 +137,7 @@ Festival**活動\[3\]。
 
   -
   -
-  - [吉開清人](../Page/吉開清人.md "wikilink")
+  - [吉開清人](https://zh.wikipedia.org/wiki/吉開清人 "wikilink")
 
   - [代永翼](../Page/代永翼.md "wikilink")
 
@@ -177,7 +177,7 @@ Festival**活動\[3\]。
 
   -
   -
-  - [稀代櫻子](../Page/稀代櫻子.md "wikilink")
+  - [稀代櫻子](https://zh.wikipedia.org/wiki/稀代櫻子 "wikilink")
 
   -
   -
@@ -190,7 +190,7 @@ Festival**活動\[3\]。
   -
   - [小堀幸](../Page/小堀幸.md "wikilink")
 
-  - [合田繪利](../Page/合田繪利.md "wikilink")
+  - [合田繪利](https://zh.wikipedia.org/wiki/合田繪利 "wikilink")
 
   - [後藤麻衣](../Page/後藤麻衣_\(聲優\).md "wikilink")
 
@@ -202,11 +202,11 @@ Festival**活動\[3\]。
 
   - [齋賀光希](../Page/齋賀光希.md "wikilink")
 
-  - [齋藤綾](../Page/齋藤綾.md "wikilink")
+  - [齋藤綾](https://zh.wikipedia.org/wiki/齋藤綾 "wikilink")
 
   -
   -
-  - [嶋崎遙香](../Page/嶋崎遙香.md "wikilink")
+  - [嶋崎遙香](https://zh.wikipedia.org/wiki/嶋崎遙香 "wikilink")
 
   - [嶋村侑](../Page/嶋村侑.md "wikilink")
 
@@ -223,12 +223,12 @@ Festival**活動\[3\]。
 
 <!-- end list -->
 
-  - [高橋里枝](../Page/高橋里枝.md "wikilink")
+  - [高橋里枝](https://zh.wikipedia.org/wiki/高橋里枝 "wikilink")
   - [津田匠子](../Page/津田匠子.md "wikilink")
-  - [藤堂真衣](../Page/藤堂真衣.md "wikilink")
+  - [藤堂真衣](https://zh.wikipedia.org/wiki/藤堂真衣 "wikilink")
   - \-{冨}-田泰代
-  - [友川麻里](../Page/友川麻里.md "wikilink")
-  - [百百麻子](../Page/百百麻子.md "wikilink")
+  - [友川麻里](https://zh.wikipedia.org/wiki/友川麻里 "wikilink")
+  - [百百麻子](https://zh.wikipedia.org/wiki/百百麻子 "wikilink")
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@ Festival**活動\[3\]。
 
 <!-- end list -->
 
-  - [內藤有海](../Page/內藤有海.md "wikilink")
+  - [內藤有海](https://zh.wikipedia.org/wiki/內藤有海 "wikilink")
 
   -
   - [中村知子](../Page/中村知子.md "wikilink")
@@ -246,7 +246,7 @@ Festival**活動\[3\]。
 
   - [生天目仁美](../Page/生天目仁美.md "wikilink")
 
-  - [西墻由香](../Page/西墻由香.md "wikilink")
+  - [西墻由香](https://zh.wikipedia.org/wiki/西墻由香 "wikilink")
 
   -
   - [野村道子](../Page/野村道子.md "wikilink")
@@ -261,7 +261,7 @@ Festival**活動\[3\]。
 
   - [一美](../Page/一美.md "wikilink")
 
-  - [日野未步](../Page/日野未步.md "wikilink")
+  - [日野未步](https://zh.wikipedia.org/wiki/日野未步 "wikilink")
 
   - 平井祥惠
 
@@ -274,7 +274,7 @@ Festival**活動\[3\]。
 
   - [藤村步](../Page/藤村步.md "wikilink")
 
-  - [堀越知惠](../Page/堀越知惠.md "wikilink")
+  - [堀越知惠](https://zh.wikipedia.org/wiki/堀越知惠 "wikilink")
 
 <!-- end list -->
 
@@ -295,7 +295,7 @@ Festival**活動\[3\]。
 
 <!-- end list -->
 
-  - [山口享佑子](../Page/山口享佑子.md "wikilink")
+  - [山口享佑子](https://zh.wikipedia.org/wiki/山口享佑子 "wikilink")
 
   -
 ### Junior
@@ -422,7 +422,7 @@ Festival**活動\[3\]。
 
   - 川上彩
 
-  - [北原沙彌香](../Page/北原沙彌香.md "wikilink")
+  - [北原沙彌香](https://zh.wikipedia.org/wiki/北原沙彌香 "wikilink")
 
   - 城戶圓
 
@@ -437,11 +437,11 @@ Festival**活動\[3\]。
   -
   - 清水春香
 
-  - [社本悠](../Page/社本悠.md "wikilink")
+  - [社本悠](https://zh.wikipedia.org/wiki/社本悠 "wikilink")
 
   - 障子聖奈
 
-  - [菅沼千紗](../Page/菅沼千紗.md "wikilink")
+  - [菅沼千紗](https://zh.wikipedia.org/wiki/菅沼千紗 "wikilink")
 
 <!-- end list -->
 
@@ -506,7 +506,7 @@ Festival**活動\[3\]。
   - [風間勇刀](../Page/風間勇刀.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
   -
-  - [基頓山田](../Page/山田俊司.md "wikilink")（現所屬：[remax](../Page/remax.md "wikilink")）
+  - [基頓山田](../Page/山田俊司.md "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
   - 久保隆（現所屬：[Salonde Acturis](http://www.acturis.co.jp/)）
 
@@ -532,7 +532,7 @@ Festival**活動\[3\]。
 
   - [中澤匡智](../Page/中澤匡智.md "wikilink")（現所屬：東京俳優生活協同組合）
 
-  - [中-{嶋}-聰彥](../Page/中嶋聰彥.md "wikilink")（文藝部所屬，投入音響監督活動之後死去）
+  - [中-{嶋}-聰彥](https://zh.wikipedia.org/wiki/中嶋聰彥 "wikilink")（文藝部所屬，投入音響監督活動之後死去）
 
   - [中田讓治](../Page/中田讓治.md "wikilink")（現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
 
@@ -544,34 +544,35 @@ Festival**活動\[3\]。
 
   - [野澤那智](../Page/野澤那智.md "wikilink")（Office PAC創辦人，成立之後於在籍中死去）
 
-  - [野瀨育二](../Page/野瀨育二.md "wikilink")（現所屬：東京俳優生活協同組合）
+  - [野瀨育二](https://zh.wikipedia.org/wiki/野瀨育二 "wikilink")（現所屬：東京俳優生活協同組合）
 
-  - [橋本晃一](../Page/橋本晃一.md "wikilink")（自由職業，（業務委託））
+  - [橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（自由職業，（業務委託））
 
   - [花田光](../Page/花田光.md "wikilink")（現所屬：大澤事務所）
 
-  - [-{樋}-口智透](../Page/樋口智透.md "wikilink")（現所屬：[Limia-works](http://www.limia-works.jp/)）
+  - [-{樋}-口智透](https://zh.wikipedia.org/wiki/樋口智透 "wikilink")（現所屬：[Limia-works](http://www.limia-works.jp/)）
 
-  - （現所屬：[KeKKe Corporation](../Page/KeKKe_Corporation.md "wikilink")）
+  - （現所屬：[KeKKe
+    Corporation](https://zh.wikipedia.org/wiki/KeKKe_Corporation "wikilink")）
 
   - （離所後死去）
 
   - （現所屬：代表）
 
-  - [藤原啓治](../Page/藤原啓治.md "wikilink")（現所屬：[AIR
-    AGENCY代表董事](../Page/AIR_AGENCY.md "wikilink")）
+  - [藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")（現所屬：[AIR
+    AGENCY代表董事](https://zh.wikipedia.org/wiki/AIR_AGENCY "wikilink")）
 
   - （現所屬：）
 
-  - [增川洋一](../Page/增川洋一.md "wikilink")（現所屬：[Production
-    Ace](../Page/Production_Ace.md "wikilink")）
+  - [增川洋一](https://zh.wikipedia.org/wiki/增川洋一 "wikilink")（現所屬：[Production
+    Ace](https://zh.wikipedia.org/wiki/Production_Ace "wikilink")）
 
-  - （現所屬：[aptepro](../Page/aptepro.md "wikilink")）
+  - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
   -
-  - [山根剛](../Page/山根剛.md "wikilink")
+  - [山根剛](https://zh.wikipedia.org/wiki/山根剛 "wikilink")
 
-  - [優希比呂](../Page/優希比呂.md "wikilink")（自由職業）
+  - [優希比呂](https://zh.wikipedia.org/wiki/優希比呂 "wikilink")（自由職業）
 
 ### 女性
 
@@ -583,16 +584,16 @@ Festival**活動\[3\]。
   - [大前茜](../Page/大前茜.md "wikilink")（引退）
 
   -
-  - [北原知奈](../Page/北原知奈.md "wikilink")
+  - [北原知奈](https://zh.wikipedia.org/wiki/北原知奈 "wikilink")
 
   -
   - （現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
-  - [白石冬美](../Page/白石冬美.md "wikilink")（在籍中死去）
+  - [白石冬美](https://zh.wikipedia.org/wiki/白石冬美 "wikilink")（在籍中死去）
 
   - [杉本優](../Page/杉本優.md "wikilink")（現所屬：東京俳優生活協同組合）
 
-  - [鈴鹿千春](../Page/鈴鹿千春.md "wikilink")（自由職業）
+  - [鈴鹿千春](https://zh.wikipedia.org/wiki/鈴鹿千春 "wikilink")（自由職業）
 
   - [高乃麗](../Page/高乃麗.md "wikilink")（現所屬：remax代表董事）
 
@@ -600,7 +601,7 @@ Festival**活動\[3\]。
 
   - [千葉千惠巳](../Page/千葉千惠巳.md "wikilink")（現所屬：Office海風）
 
-  - （現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
+  - （現所屬：[Production★A組](https://zh.wikipedia.org/wiki/Production★A組 "wikilink")）
 
   - （自由職業）
 
@@ -619,8 +620,8 @@ Festival**活動\[3\]。
   -
   - 廣瀨有香（自由職業）
 
-  - [伏田里穗](../Page/伏田里穗.md "wikilink")（現所屬：[Office
-    Anemone](../Page/Office_Anemone.md "wikilink")）
+  - [伏田里穗](https://zh.wikipedia.org/wiki/伏田里穗 "wikilink")（現所屬：[Office
+    Anemone](https://zh.wikipedia.org/wiki/Office_Anemone "wikilink")）
 
   - [堀中優希](../Page/堀中優希.md "wikilink")（自由職業）
 
@@ -645,17 +646,17 @@ Festival**活動\[3\]。
 
   - （2004年）
 
-  - [武藏傳II 劍聖](../Page/武藏傳II_劍聖.md "wikilink")（2005年）
+  - [武藏傳II 劍聖](https://zh.wikipedia.org/wiki/武藏傳II_劍聖 "wikilink")（2005年）
 
   - （2007年）
 
-  - [Wii Fit](../Page/Wii_Fit.md "wikilink")（2007年）
+  - [Wii Fit](https://zh.wikipedia.org/wiki/Wii_Fit "wikilink")（2007年）
 
   - （2009年）
 
   - [薩爾達傳說 大地汽笛](../Page/薩爾達傳說_大地汽笛.md "wikilink")（2009年）
 
-  - [星際火狐64 3D](../Page/星際火狐64.md "wikilink")（2011年）
+  - [星際火狐64 3D](https://zh.wikipedia.org/wiki/星際火狐64 "wikilink")（2011年）
 
   - [最終幻想 零式](../Page/最終幻想_零式.md "wikilink")（2011年）
 
@@ -667,25 +668,29 @@ Festival**活動\[3\]。
 
   - （2013年）
 
-  - [薩爾達傳說 眾神的三角神力2](../Page/塞爾達傳說_眾神的三角力量2.md "wikilink")（2013年）
+  - [薩爾達傳說
+    眾神的三角神力2](https://zh.wikipedia.org/wiki/塞爾達傳說_眾神的三角力量2 "wikilink")（2013年）
 
   - （2014年）
 
-  - [任天堂明星大亂鬥3DS/Wii U](../Page/任天堂明星大亂鬥3DS/Wii_U.md "wikilink")（2014年）
+  - [任天堂明星大亂鬥3DS/Wii
+    U](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥3DS/Wii_U "wikilink")（2014年）
 
-  - [真·三國無雙7 帝王傳](../Page/真·三國無雙7#真·三國無雙7_帝王傳.md "wikilink")（2015年）
+  - [真·三國無雙7
+    帝王傳](https://zh.wikipedia.org/wiki/真·三國無雙7#真·三國無雙7_帝王傳 "wikilink")（2015年）
 
   - （2016年）
 
-  - [薩爾達傳說 曠野之息](../Page/塞爾達傳說_曠野之息.md "wikilink")（2017年）
+  - [薩爾達傳說
+    曠野之息](https://zh.wikipedia.org/wiki/塞爾達傳說_曠野之息 "wikilink")（2017年）
 
   - （2017年）
 
 ## 從賢Production獨立出去的聲優事務所
 
-  - [remax](../Page/remax.md "wikilink")
+  - [remax](https://zh.wikipedia.org/wiki/remax "wikilink")
   - [Office PAC](../Page/Office_PAC.md "wikilink")
-  - [AIR AGENCY](../Page/AIR_AGENCY.md "wikilink")
+  - [AIR AGENCY](https://zh.wikipedia.org/wiki/AIR_AGENCY "wikilink")
 
 ## 參考資料
 

@@ -1,6 +1,6 @@
 **Killer NIC**是全球首款专为電腦游戏而設的[网卡](../Page/网卡.md "wikilink")，由[Bigfoot
-Networks推出](../Page/Bigfoot_Networks.md "wikilink")。配合MaxFPS技术，这款网卡能够帮助处理器独立处理网络数据，保证CPU性能不受网络连接影響。在此之前，[nVIDIA就已经在](../Page/nVIDIA.md "wikilink")[nForce
-500](../Page/nForce_500.md "wikilink")[芯片组中提供类似的网络处理功能](../Page/芯片组.md "wikilink")。Killer
+Networks推出](https://zh.wikipedia.org/wiki/Bigfoot_Networks "wikilink")。配合MaxFPS技术，这款网卡能够帮助处理器独立处理网络数据，保证CPU性能不受网络连接影響。在此之前，[nVIDIA就已经在](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[nForce
+500](https://zh.wikipedia.org/wiki/nForce_500 "wikilink")[芯片组中提供类似的网络处理功能](../Page/芯片组.md "wikilink")。Killer
 NIC的价格约为250美元。
 
 Killer
@@ -9,7 +9,7 @@ NIC网卡使用了嵌入式[Linux系统](../Page/Linux.md "wikilink")，网卡�
 而有關該网卡的应用项目則統稱為“FNApps”。至目前為止，發佈了“FN Firewall”防火墙和“FN
 Torrent”客户端应用项目。“FN
 Firewall”防火墙是建基于开源防火墙iptables，很多[Linux发行版本中都有內建這個軟體](../Page/Linux.md "wikilink")。而“FN
-Torrent”客户端能优化[BitTorrent下载](../Page/BitTorrent.md "wikilink")，目的是平衡BT下载和網上遊戲的頻寬利用，下载資料時，又不會影響網上遊戲。“FN
+Torrent”客户端能优化[BitTorrent下载](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，目的是平衡BT下载和網上遊戲的頻寬利用，下载資料時，又不會影響網上遊戲。“FN
 Torrent”是运行於Killer NIC网卡中，能將下载資料儲存在与网卡USB 2.0接口连接的硬盘或優盘上，减轻处理器和存储裝置的负担。
 
 FN Torrent运行在Killer NIC网卡上，将BT下载来的数据保存在与该网卡USB接口相连的硬盘或USB
@@ -24,10 +24,10 @@ Key上，从而减轻系统处理器和存储子系统的负担。
 ## 規格
 
   - 采用400MHz网络处理器（[Network Processing
-    Unit](../Page/Network_Processing_Unit.md "wikilink")）
+    Unit](https://zh.wikipedia.org/wiki/Network_Processing_Unit "wikilink")）
   - 64MB PC-2100 [DDR SDRAM内存](../Page/DDR_SDRAM.md "wikilink")
   - 支持10/100/1000M网络
-  - 采用[PCI接口](../Page/PCI.md "wikilink")
+  - 采用[PCI接口](https://zh.wikipedia.org/wiki/PCI "wikilink")
   - 有一个网络接口
   - 有一个[USB](../Page/USB.md "wikilink")2.0接口
   - 鋁[镍散熱片](../Page/镍.md "wikilink")
@@ -41,7 +41,7 @@ NIC网絡卡都沒有與對手拉開優勢，帧速率只有5%的提升。轻微
 ## Killer XENO
 
 Killer XENO是Killer
-NIC網絡卡的後續產品。接口改為使用[PCI-E](../Page/PCI-E.md "wikilink")，緩衝記憶體亦由上一代的64MB增加至Pro版的128MB，或者是Ultra版的256MB。最顯著的功能改進是新產品集成了音频处理器。在進行網絡遊戲時，可以同時進行網絡聊天。接口方面，為了支援新的功能，所以加上了3.5毫米音频输出和麦克接口。\[1\]
+NIC網絡卡的後續產品。接口改為使用[PCI-E](https://zh.wikipedia.org/wiki/PCI-E "wikilink")，緩衝記憶體亦由上一代的64MB增加至Pro版的128MB，或者是Ultra版的256MB。最顯著的功能改進是新產品集成了音频处理器。在進行網絡遊戲時，可以同時進行網絡聊天。接口方面，為了支援新的功能，所以加上了3.5毫米音频输出和麦克接口。\[1\]
 
 ## 參考資料
 

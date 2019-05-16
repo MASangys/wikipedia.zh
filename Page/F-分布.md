@@ -8,29 +8,31 @@
 \(\frac{(2 d_1 + d_2 - 2) \sqrt{8 (d_2-4)}}{(d_2-6) \sqrt{d_1 (d_1 + d_2 -2)}}\!\)
 for \(d_2 > 6\) |kurtosis = *见下文* |entropy = |mgf = |char = }}
 
-在[概率论和](../Page/概率论.md "wikilink")[统计学里](../Page/统计学.md "wikilink")，***F*-分布**（*F*-distribution）是一种[连续概率分布](../Page/概率分布.md "wikilink")，\[1\]\[2\]\[3\]\[4\]被广泛应用于[似然比率检验](../Page/似然比率检验.md "wikilink")，特别是[ANOVA中](../Page/方差分析.md "wikilink")。
+在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学里](../Page/统计学.md "wikilink")，***F*-分布**（*F*-distribution）是一种[连续概率分布](../Page/概率分布.md "wikilink")，\[1\]\[2\]\[3\]\[4\]被广泛应用于[似然比率检验](https://zh.wikipedia.org/wiki/似然比率检验 "wikilink")，特别是[ANOVA中](../Page/方差分析.md "wikilink")。
 
 ## 定义
 
 如果[随机变量](../Page/随机变量.md "wikilink") *X* 有参数为 *d*<sub>1</sub> 和
 *d*<sub>2</sub> 的 *F*-分布，我们写作 *X* \~ F(*d*<sub>1</sub>,
 *d*<sub>2</sub>)。那么对于实数 *x* ≥ 0，*X*
-的[概率密度函数](../Page/概率密度函数.md "wikilink") (pdf)是
+的[概率密度函数](https://zh.wikipedia.org/wiki/概率密度函数 "wikilink")
+(pdf)是
 
 \[\begin{align}
 f(x; d_1,d_2) &= \frac{\sqrt{\frac{(d_1\,x)^{d_1}\,\,d_2^{d_2}} {(d_1\,x+d_2)^{d_1+d_2}}}} {x\,\mathrm{B}\!\left(\frac{d_1}{2},\frac{d_2}{2}\right)} \\
 &=\frac{1}{\mathrm{B}\!\left(\frac{d_1}{2},\frac{d_2}{2}\right)} \left(\frac{d_1}{d_2}\right)^{\frac{d_1}{2}} x^{\frac{d_1}{2} - 1} \left(1+\frac{d_1}{d_2}\,x\right)^{-\frac{d_1+d_2}{2}}
 \end{align}\]
 
-这里\(\mathrm{B}\)是[B函数](../Page/B函数.md "wikilink")。在很多应用中，参数
+这里\(\mathrm{B}\)是[B函数](https://zh.wikipedia.org/wiki/B函数 "wikilink")。在很多应用中，参数
 *d*<sub>1</sub> 和 *d*<sub>2</sub>
-是[正整数](../Page/正整数.md "wikilink")，但对于这些参数为正实数时也有定义。
+是[正整数](https://zh.wikipedia.org/wiki/正整数 "wikilink")，但对于这些参数为正实数时也有定义。
 
 [累积分布函数为](../Page/累积分布函数.md "wikilink")
 
 \[F(x; d_1,d_2)=I_{\frac{d_1 x}{d_1 x + d_2}}\left (\tfrac{d_1}{2}, \tfrac{d_2}{2} \right) ,\]
 
-其中 *I* 是[正则不完全贝塔函数](../Page/B函数#不完全贝塔函数.md "wikilink")。
+其中 *I*
+是[正则不完全贝塔函数](https://zh.wikipedia.org/wiki/B函数#不完全贝塔函数 "wikilink")。
 
 右边表格中已给出[期望值](../Page/期望值.md "wikilink")、[方差和](../Page/方差.md "wikilink")[偏度](../Page/偏度.md "wikilink")；对于\(d_2>8\)，[峰度为](../Page/峰度.md "wikilink")：
 

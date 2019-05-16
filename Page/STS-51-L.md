@@ -7,12 +7,12 @@
   - **[朱迪斯·蕾斯尼克](../Page/朱迪斯·蕾斯尼克.md "wikilink")**（，曾执行以及任务），任务专家
   - **[鬼塚承次](../Page/鬼塚承次.md "wikilink")**（，曾执行以及任务），任务专家
   - **[罗纳德·麦克内尔](../Page/罗纳德·麦克内尔.md "wikilink")**（，曾执行以及任务），任务专家
-  - **[格里高利·贾维斯](../Page/格里高利·贾维斯.md "wikilink")**（，曾执行任务），有效载荷专家
-  - **[克里斯塔·麦考利芙](../Page/克里斯塔·麦考利芙.md "wikilink")**（，曾执行任务），有效载荷专家
+  - **[格里高利·贾维斯](https://zh.wikipedia.org/wiki/格里高利·贾维斯 "wikilink")**（，曾执行任务），有效载荷专家
+  - **[克里斯塔·麦考利芙](https://zh.wikipedia.org/wiki/克里斯塔·麦考利芙 "wikilink")**（，曾执行任务），有效载荷专家
 
 ## 相關條目
 
-  - [挑戰者號太空梭災難](../Page/挑戰者號太空梭災難.md "wikilink")
+  - [挑戰者號太空梭災難](https://zh.wikipedia.org/wiki/挑戰者號太空梭災難 "wikilink")
 
 [Category:1986年科學](https://zh.wikipedia.org/wiki/Category:1986年科學 "wikilink")
 [Category:1986年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1986年佛罗里达州 "wikilink")

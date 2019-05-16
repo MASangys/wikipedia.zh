@@ -6,18 +6,18 @@
 
 獲得「AXIA Artist Audition 01
 AXIA賞」後，發售出道單曲「オレンジ」。最初屬於[研音](../Page/研音.md "wikilink")・[日本華納音樂](../Page/日本華納音樂.md "wikilink")、後移籍至[JVC
-Entertainment](../Page/JVC_Entertainment.md "wikilink")・[Victor
-Entertainment](../Page/Victor_Entertainment.md "wikilink")（[flying
-DOG](../Page/flying_DOG.md "wikilink")）。從那以後主要以[動畫歌曲為中心活動](../Page/動畫歌曲.md "wikilink")。2007年9月末，成員Takumi退出，現在**ああ**成為了[Solo
-Project](../Page/Solo_Project.md "wikilink")(單人組)。
+Entertainment](https://zh.wikipedia.org/wiki/JVC_Entertainment "wikilink")・[Victor
+Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")（[flying
+DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")）。從那以後主要以[動畫歌曲為中心活動](../Page/動畫歌曲.md "wikilink")。2007年9月末，成員Takumi退出，現在**ああ**成為了[Solo
+Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 
 ### 成員
 
   - ああ
       - 歌手 / 1978年4月17日出生 /
-        日本[兵庫縣](../Page/兵庫縣.md "wikilink")[神戸市出身](../Page/神戸市.md "wikilink")
-        / [O型](../Page/O型.md "wikilink") /
-        由於Takumi說稱呼她的[本名](../Page/本名.md "wikilink")「ああはさ」比較麻煩而得名，而成為了她的[藝名](../Page/藝名.md "wikilink")。本名是「あかね」。在廣播『[STB桜真町町内放送](../Page/夜桜四重奏_〜ヨザクラカルテット〜#WEBラジオ.md "wikilink")』中可以了解到她的胸部尺寸（似乎）為D罩杯（2008年12月）。
+        日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戸市出身](https://zh.wikipedia.org/wiki/神戸市 "wikilink")
+        / [O型](https://zh.wikipedia.org/wiki/O型 "wikilink") /
+        由於Takumi說稱呼她的[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")「ああはさ」比較麻煩而得名，而成為了她的[藝名](../Page/藝名.md "wikilink")。本名是「あかね」。在廣播『[STB桜真町町内放送](https://zh.wikipedia.org/wiki/夜桜四重奏_〜ヨザクラカルテット〜#WEBラジオ "wikilink")』中可以了解到她的胸部尺寸（似乎）為D罩杯（2008年12月）。
 
 <!-- end list -->
 
@@ -26,7 +26,8 @@ Project](../Page/Solo_Project.md "wikilink")(單人組)。
 <!-- end list -->
 
   - Takumi
-      - 吉他手 / 12月6日出生 / 日本兵庫縣神戸市出身 / [B型](../Page/B型.md "wikilink")
+      - 吉他手 / 12月6日出生 / 日本兵庫縣神戸市出身 /
+        [B型](https://zh.wikipedia.org/wiki/B型 "wikilink")
 
 ## 作品
 
@@ -67,7 +68,7 @@ Project](../Page/Solo_Project.md "wikilink")(單人組)。
 5.  Take a chance.（2005年7月6日發售）
 
     1.  Take a
-        chance.（[PS2](../Page/PS2.md "wikilink")[電玩](../Page/電玩.md "wikilink")「」[主題曲](../Page/主題曲.md "wikilink")）
+        chance.（[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")「」[主題曲](../Page/主題曲.md "wikilink")）
     2.  Still I love you.
     3.  Take a chance.（without vocal）
     4.  Still I love you.（without vocal）
@@ -84,7 +85,7 @@ Project](../Page/Solo_Project.md "wikilink")(單人組)。
 7.  （2006年12月20日發售）
 
     1.  （電視動畫『[地獄少女
-        二籠](../Page/地獄少女_二籠.md "wikilink")』片尾主題曲，原本由[能登麻美子所演唱](../Page/能登麻美子.md "wikilink")，在發行單曲時則由重新詮釋。）
+        二籠](https://zh.wikipedia.org/wiki/地獄少女_二籠 "wikilink")』片尾主題曲，原本由[能登麻美子所演唱](../Page/能登麻美子.md "wikilink")，在發行單曲時則由重新詮釋。）
 
     2.
     3.  Forever...（Animelo Summer Live version）（「[Animelo Summer
@@ -250,9 +251,9 @@ Project](../Page/Solo_Project.md "wikilink")(單人組)。
 
   - 柿島伸次「PLACES IN THE HEART」（作詞：ああ、作曲：柿島伸次）\[1\]
   - [能登麻美子](../Page/能登麻美子.md "wikilink")「あいぞめ」（作詞：ああ、作曲：Takumi）\[2\]
-  - マリナ・イスマイールと子供たち「Tomorrow」（作詞：[黒田洋介](../Page/黒田洋介.md "wikilink")・ああ、作曲：浅見昂生・[川井憲次](../Page/川井憲次.md "wikilink")）
+  - マリナ・イスマイールと子供たち「Tomorrow」（作詞：[黒田洋介](https://zh.wikipedia.org/wiki/黒田洋介 "wikilink")・ああ、作曲：浅見昂生・[川井憲次](../Page/川井憲次.md "wikilink")）
   - [皆川純子](../Page/皆川純子.md "wikilink")「swear
-    to…」（作詞：ああ、作曲・編曲：[真崎修](../Page/真崎修.md "wikilink")）
+    to…」（作詞：ああ、作曲・編曲：[真崎修](https://zh.wikipedia.org/wiki/真崎修 "wikilink")）
 
 ### 其他
 

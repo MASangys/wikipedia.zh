@@ -1,14 +1,14 @@
-**Zune**是[微軟生產的](../Page/微軟.md "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，2006年11月發布。先前Zune被認為僅是微軟「Argo」計畫下的一款媒體播放器。然而，目前看來「Zune」這個品牌將會被用在所有的媒體播放器、和其他的服務上，貫穿整個計劃\[1\]\[2\]\[3\]。
+**Zune**是[微軟生產的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，2006年11月發布。先前Zune被認為僅是微軟「Argo」計畫下的一款媒體播放器。然而，目前看來「Zune」這個品牌將會被用在所有的媒體播放器、和其他的服務上，貫穿整個計劃\[1\]\[2\]\[3\]。
 
 ## 規格
 
-| 型號   | [Zune 30](../Page/Zune_30.md "wikilink") | [Zune 4](../Page/Zune_4.md "wikilink") | [Zune 8](../Page/Zune_8.md "wikilink") | [Zune 16](../Page/Zune_16.md "wikilink") | [Zune 80](../Page/Zune_80.md "wikilink") | [Zune 120](../Page/Zune_120.md "wikilink") | [Zune HD](../Page/Zune_HD.md "wikilink") |
-| ---- | ---------------------------------------- | -------------------------------------- | -------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------------ | ---------------------------------------- |
-| 尺寸   | 6.1×11.2×1.5 cm                          | 4.1×9.1×0.8 cm                         | 6.1×10.8×1.3 cm                        | 5.27×10.21×0.89 cm                       |                                          |                                            |                                          |
-| 重量   | 158.8 g                                  | 47 g                                   | 127.6 g                                | 73.7 g                                   |                                          |                                            |                                          |
-| 屏幕   | 3" 240×320                               | 1.8" 240×320                           | 3.2" 240×320                           | 3.3" 480×272                             |                                          |                                            |                                          |
-| 存儲   | 30 GB HDD                                | 4 GB Flash                             | 8 GB Flash                             | 16 GB Flash                              | 80 GB HDD                                | 120 GB HDD                                 | 16 GB Flash、32 GB Flash、64 GB Flash      |
-| 發布日期 | 2006年11月                                 | 2007年11月                               | 2008年9月                                | 2007年11月                                 | 2008年9月                                  | 2009年9月                                    |                                          |
+| 型號   | [Zune 30](https://zh.wikipedia.org/wiki/Zune_30 "wikilink") | [Zune 4](https://zh.wikipedia.org/wiki/Zune_4 "wikilink") | [Zune 8](https://zh.wikipedia.org/wiki/Zune_8 "wikilink") | [Zune 16](https://zh.wikipedia.org/wiki/Zune_16 "wikilink") | [Zune 80](https://zh.wikipedia.org/wiki/Zune_80 "wikilink") | [Zune 120](https://zh.wikipedia.org/wiki/Zune_120 "wikilink") | [Zune HD](https://zh.wikipedia.org/wiki/Zune_HD "wikilink") |
+| ---- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
+| 尺寸   | 6.1×11.2×1.5 cm                                             | 4.1×9.1×0.8 cm                                            | 6.1×10.8×1.3 cm                                           | 5.27×10.21×0.89 cm                                          |                                                             |                                                               |                                                             |
+| 重量   | 158.8 g                                                     | 47 g                                                      | 127.6 g                                                   | 73.7 g                                                      |                                                             |                                                               |                                                             |
+| 屏幕   | 3" 240×320                                                  | 1.8" 240×320                                              | 3.2" 240×320                                              | 3.3" 480×272                                                |                                                             |                                                               |                                                             |
+| 存儲   | 30 GB HDD                                                   | 4 GB Flash                                                | 8 GB Flash                                                | 16 GB Flash                                                 | 80 GB HDD                                                   | 120 GB HDD                                                    | 16 GB Flash、32 GB Flash、64 GB Flash                         |
+| 發布日期 | 2006年11月                                                    | 2007年11月                                                  | 2008年9月                                                   | 2007年11月                                                    | 2008年9月                                                     | 2009年9月                                                       |                                                             |
 
 ## 配件
 
@@ -27,22 +27,23 @@ Zune支持Windows Media
 DRM數字版權管理系統，該系統與其他DRM系統不兼容，不屬於PlaysForSure平台或程序。多媒體內容通過媒體傳輸協議（MTP）傳輸。然而，其專有的MTP擴展（MTPZ）在Zune和以前的基於MTP的軟件之間建立了互操作性屏障。
 
   - 支援的音樂格式：[Windows Media
-    Audio](../Page/WMA.md "wikilink")，[MP3](../Page/MP3.md "wikilink")，[AAC](../Page/AAC.md "wikilink")。
+    Audio](https://zh.wikipedia.org/wiki/WMA "wikilink")，[MP3](../Page/MP3.md "wikilink")，[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")。
   - 支援的影片格式：[Windows Media
-    Video](../Page/WMV.md "wikilink")，[MP4](../Page/MP4.md "wikilink")。
+    Video](https://zh.wikipedia.org/wiki/WMV "wikilink")，[MP4](../Page/MP4.md "wikilink")。
   - 支援的圖片格式：[JPEG](../Page/JPEG.md "wikilink")。
-  - 裝置可以播放使用[數位著作權管理方案](../Page/數位著作權管理.md "wikilink")（[Windows Media
-    DRM](../Page/Windows_Media_DRM.md "wikilink")）錄製的
-    [WMA](../Page/WMA.md "wikilink") 和 [WMV](../Page/WMV.md "wikilink")
-    。
-  - 它採用[东芝的硬盘](../Page/东芝.md "wikilink")，與[iPod一樣](../Page/iPod.md "wikilink")。
+  - 裝置可以播放使用[數位著作權管理方案](https://zh.wikipedia.org/wiki/數位著作權管理 "wikilink")（[Windows
+    Media
+    DRM](https://zh.wikipedia.org/wiki/Windows_Media_DRM "wikilink")）錄製的
+    [WMA](https://zh.wikipedia.org/wiki/WMA "wikilink") 和
+    [WMV](https://zh.wikipedia.org/wiki/WMV "wikilink") 。
+  - 它採用[东芝的硬盘](../Page/东芝.md "wikilink")，與[iPod一樣](https://zh.wikipedia.org/wiki/iPod "wikilink")。
   - 主控晶片采用Freescale的i.MX31L多媒体应用处理器。i.MX31采用ARM1136内核，采用90纳米制程，处理頻率是532MHz，擁有128KB的L2
     Cache。
   - 电源管理器采用Freescale的MC13783，集成了电源管理、USB OTG、模拟录音、数模转换、时钟、背光功能等多种功能。
   - 视频转换器采用Focus Enhancements公司的FS456。
   - 采用[三星的緩衝記憶體](../Page/三星電子.md "wikilink")，容量為16MB。
   - 无线模块採用KEYSTREAM的KS3021/KS7010，支援[IEEE
-    802.11g](../Page/IEEE_802.11g.md "wikilink")。
+    802.11g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")。
   - 立体声编码解码器採用Wolfson的WM8978。
 
 <table>

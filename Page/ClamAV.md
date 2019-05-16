@@ -1,8 +1,8 @@
 [ClamWin_on_Ubuntu.png](https://zh.wikipedia.org/wiki/File:ClamWin_on_Ubuntu.png "fig:ClamWin_on_Ubuntu.png")
 **Clam
-AntiVirus**（**ClamAV**）是免費而且[開放原始碼的](../Page/開放原始碼.md "wikilink")[防毒軟體](../Page/防毒軟體.md "wikilink")，軟體與病毒碼的更新皆由社群免費發佈。目前ClamAV主要是使用在由[Linux](../Page/Linux.md "wikilink")、[FreeBSD等](../Page/FreeBSD.md "wikilink")[Unix-like系統架設的郵件伺服器上](../Page/Unix-like.md "wikilink")，提供[電子郵件的病毒掃描服務](../Page/電子郵件.md "wikilink")。ClamAV本身是在[文字介面下運作](../Page/命令行界面.md "wikilink")，但也有許多[圖形介面的前端工具](../Page/圖形用戶界面.md "wikilink")（**GUI
-front-end**）可用，另外由於其開放原始碼的特性，在[Windows與](../Page/Windows.md "wikilink")[Mac
-OS X平台都有其移植版](../Page/Mac_OS_X.md "wikilink")。
+AntiVirus**（**ClamAV**）是免費而且[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")，軟體與病毒碼的更新皆由社群免費發佈。目前ClamAV主要是使用在由[Linux](../Page/Linux.md "wikilink")、[FreeBSD等](../Page/FreeBSD.md "wikilink")[Unix-like系統架設的郵件伺服器上](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，提供[電子郵件的病毒掃描服務](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。ClamAV本身是在[文字介面下運作](../Page/命令行界面.md "wikilink")，但也有許多[圖形介面的前端工具](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")（**GUI
+front-end**）可用，另外由於其開放原始碼的特性，在[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac
+OS X平台都有其移植版](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 功能
 
@@ -10,8 +10,8 @@ ClamAV包含很多工具：命令行掃描器、資料庫自動更新器和可�
 RAR, Tar, Gzip, Bzip2, OLE2, Cabinet, CHM, BinHex,
 SIS格式、大部分的郵件格式、[可執行的可鏈接格式](../Page/可執行與可鏈接格式.md "wikilink")（ELF）、以UPX,
 FSG, Petite, NsPack, wwpack32, MEW, Upack壓縮和以SUE, Y0da
-Cryptor混淆（obfuscate）的[可移植的可執行檔案](../Page/Portable_Executable.md "wikilink")（PE）。它亦支援許多文檔的格式，包括：[Microsoft
-Office](../Page/Microsoft_Office.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[RTF和](../Page/RTF.md "wikilink")[PDF](../Page/便携式文档格式.md "wikilink")。
+Cryptor混淆（obfuscate）的[可移植的可執行檔案](https://zh.wikipedia.org/wiki/Portable_Executable "wikilink")（PE）。它亦支援許多文檔的格式，包括：[Microsoft
+Office](../Page/Microsoft_Office.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[RTF和](../Page/RTF.md "wikilink")[PDF](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")。
 
 ClamAV的病毒資料庫至少每4小時更新一次。截至2014年12月25日，每日更新資料庫（daily update Virus
 DB）版本號為19837，並包含至少370萬個病毒的特徵碼\[1\]。
@@ -38,7 +38,8 @@ CLlamAV的非官方資料庫主要由系統管理員用來過濾郵件\[8\]。�
 
   - **ClamTk** - 使用gtk-perl開發的ClamAV前端。
   - **KlamAV** - [KDE環境下的ClamAV前端](../Page/KDE.md "wikilink")。
-  - **Copfliter** - 使用ClamAV的[IPCOP擴充套件](../Page/IPCOP.md "wikilink")。
+  - **Copfliter** -
+    使用ClamAV的[IPCOP擴充套件](https://zh.wikipedia.org/wiki/IPCOP "wikilink")。
 
 ### Mac OS X
 
@@ -49,15 +50,15 @@ CLlamAV的非官方資料庫主要由系統管理員用來過濾郵件\[8\]。�
 ### Windows
 
   - **ClamAV for Windows**
-  - **[ClamWin](../Page/ClamWin.md "wikilink")** -
-    ClamAV的Windows移植版，並可支援[Outlook](../Page/Outlook.md "wikilink")、[Internet
+  - **[ClamWin](https://zh.wikipedia.org/wiki/ClamWin "wikilink")** -
+    ClamAV的Windows移植版，並可支援[Outlook](https://zh.wikipedia.org/wiki/Outlook "wikilink")、[Internet
     Explorer](../Page/Internet_Explorer.md "wikilink")、[Mozilla
-    Firefox等下載檔案掃描](../Page/Mozilla_Firefox.md "wikilink")，但不具備即時掃描能力。
+    Firefox等下載檔案掃描](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，但不具備即時掃描能力。
   - **Spyware Terminator** - 免費安全防護軟體，內附ClamAV。
   - **[Moon Secure
-    Antivirus](../Page/Moon_Secure_Antivirus.md "wikilink")**，一个开源反病毒软件，官方网站：[1](http://sourceforge.net/projects/moonav/)，它有realtime
+    Antivirus](https://zh.wikipedia.org/wiki/Moon_Secure_Antivirus "wikilink")**，一个开源反病毒软件，官方网站：[1](http://sourceforge.net/projects/moonav/)，它有realtime
     protection功能。
-  - **[Immunet](../Page/Immunet.md "wikilink")**
+  - **[Immunet](https://zh.wikipedia.org/wiki/Immunet "wikilink")**
   - **CS Antivirus**\[10\]
   - **Graugon AntiVirus**\[11\]
   - *' Clam Sentinel*' - Clam
@@ -66,13 +67,13 @@ CLlamAV的非官方資料庫主要由系統管理員用來過濾郵件\[8\]。�
 
 ## 即時檔案掃描
 
-ClamAV並非一個即時掃描器（它並不在檔案被讀取或寫入時做掃描的動作），但它可以被其他的應用程式利用，並提供即時檢查。這類的應用程式如：ClamFS（可在任何支援[FUSE的](../Page/FUSE.md "wikilink")[类Unix系统下使用](../Page/類Unix系統.md "wikilink")）、DazukoFS（Linux）、Clam
+ClamAV並非一個即時掃描器（它並不在檔案被讀取或寫入時做掃描的動作），但它可以被其他的應用程式利用，並提供即時檢查。這類的應用程式如：ClamFS（可在任何支援[FUSE的](../Page/FUSE.md "wikilink")[类Unix系统下使用](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")）、DazukoFS（Linux）、Clam
 Sentinel和Winpooch（後面兩個都是Windows）\[14\]\[15\]
 
 ## 專利訴訟
 
 於2008年，Barracuda Networks被趨勢科技起訴，原因為Barracuda
-Networks散佈ClamAV作為其安全套裝的一部分\[16\]。趨勢科技宣稱Barraucda在[網路閘道的病毒過濾](../Page/网关.md "wikilink")[軟體專利中侵犯了ClamAV](../Page/软件专利.md "wikilink")
+Networks散佈ClamAV作為其安全套裝的一部分\[16\]。趨勢科技宣稱Barraucda在[網路閘道的病毒過濾](../Page/网关.md "wikilink")[軟體專利中侵犯了ClamAV](https://zh.wikipedia.org/wiki/软件专利 "wikilink")
 
 ## 參見
 
@@ -91,9 +92,9 @@ Networks散佈ClamAV作為其安全套裝的一部分\[16\]。趨勢科技宣稱
 
   - [SourceForge上的](../Page/SourceForge.md "wikilink")
 
-  - [PortableApps上的](../Page/PortableApps.md "wikilink")
+  - [PortableApps上的](https://zh.wikipedia.org/wiki/PortableApps "wikilink")
 
-  - [Freecode上的](../Page/Freecode.md "wikilink")
+  - [Freecode上的](https://zh.wikipedia.org/wiki/Freecode "wikilink")
 
   - [ClamWin](http://www.clamwin.com/)
 

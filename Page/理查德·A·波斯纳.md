@@ -5,9 +5,9 @@ Posner**，）是[美国联邦上诉法院](../Page/美国.md "wikilink")[法官
 
 ## 生平
 
-波斯纳出生於紐約的[猶太家庭](../Page/猶太.md "wikilink")，1959年自[耶鲁大学](../Page/耶鲁大学.md "wikilink")（以[summa
+波斯纳出生於紐約的[猶太家庭](https://zh.wikipedia.org/wiki/猶太 "wikilink")，1959年自[耶鲁大学](../Page/耶鲁大学.md "wikilink")（以[summa
 cum
-laude成績](../Page/summa_cum_laude.md "wikilink")）畢業，主修英語，三年後的1962年並自[哈佛大学法学院第一名畢業](../Page/哈佛大学.md "wikilink")，同時任《[哈佛法律評論](../Page/哈佛法律評論.md "wikilink")》主編。曾任美国最高法院大法官[小威廉·布伦南的法律助手](../Page/小威廉·布伦南.md "wikilink")。1968年，任教于[史丹佛大学法学院](../Page/史丹佛大学.md "wikilink")，1969年，任教于[芝加哥大学法学院](../Page/芝加哥大学.md "wikilink")。
+laude成績](https://zh.wikipedia.org/wiki/summa_cum_laude "wikilink")）畢業，主修英語，三年後的1962年並自[哈佛大学法学院第一名畢業](../Page/哈佛大学.md "wikilink")，同時任《[哈佛法律評論](https://zh.wikipedia.org/wiki/哈佛法律評論 "wikilink")》主編。曾任美国最高法院大法官[小威廉·布伦南的法律助手](https://zh.wikipedia.org/wiki/小威廉·布伦南 "wikilink")。1968年，任教于[史丹佛大学法学院](https://zh.wikipedia.org/wiki/史丹佛大学 "wikilink")，1969年，任教于[芝加哥大学法学院](../Page/芝加哥大学.md "wikilink")。
 
 1981年，[里根总统任命波斯纳为联邦第七巡回区上诉法院法官](../Page/罗纳德·里根.md "wikilink")。
 

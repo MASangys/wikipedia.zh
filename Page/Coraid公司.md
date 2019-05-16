@@ -1,4 +1,4 @@
-**Coraid公司**（原文為英文的）\[1\]位在[美國](../Page/美國.md "wikilink")[喬治亞州的](../Page/喬治亞州.md "wikilink")[雅典城](../Page/雅典城，喬治亞州.md "wikilink")，是一家研製、銷售[電腦儲存設備的業者](../Page/電腦儲存.md "wikilink")，且主要是網路型儲存的硬體設備、裝置，此方面的產品多稱為網路式儲存應用機（Networked
+**Coraid公司**（原文為英文的）\[1\]位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州的](../Page/喬治亞州.md "wikilink")[雅典城](https://zh.wikipedia.org/wiki/雅典城，喬治亞州 "wikilink")，是一家研製、銷售[電腦儲存設備的業者](https://zh.wikipedia.org/wiki/電腦儲存 "wikilink")，且主要是網路型儲存的硬體設備、裝置，此方面的產品多稱為網路式儲存應用機（Networked
 Storage Appliances）。
 
 除此之外，Coraid公司也發創及維護Linux核心之用的[ATA over

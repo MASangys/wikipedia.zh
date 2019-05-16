@@ -4,7 +4,7 @@
 
 :\*X-01 环境保护政策及其阐述
 
-::\*X-019 [环境保护法](../Page/环境保护法.md "wikilink")
+::\*X-019 [环境保护法](https://zh.wikipedia.org/wiki/环境保护法 "wikilink")
 
   - X-1 [环境科学技术现状与发展](../Page/环境科学.md "wikilink")
   - X-4 [环境保护宣传教育及普及](../Page/环境保护.md "wikilink")
@@ -42,18 +42,19 @@
 
 ::\*X192 环境系统学（环境系统工程）
 
-::\*X196 [环境经济学](../Page/环境经济学.md "wikilink")
+::\*X196 [环境经济学](https://zh.wikipedia.org/wiki/环境经济学 "wikilink")
 
 ::\*X197 环境法学
 
-  - X2 [环境保护管理](../Page/环境保护管理.md "wikilink")
+  - X2 [环境保护管理](https://zh.wikipedia.org/wiki/环境保护管理 "wikilink")
 
-:\*X21 [环境与](../Page/环境.md "wikilink")[环境系统](../Page/环境系统.md "wikilink")
+:\*X21
+[环境与](https://zh.wikipedia.org/wiki/环境 "wikilink")[环境系统](../Page/环境系统.md "wikilink")
 
 :\*X22 环境与发展
 
 :\*X24
-[人类](../Page/人类.md "wikilink")、[资源](../Page/资源.md "wikilink")、[能源与环境的关系](../Page/能源.md "wikilink")
+[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")、[资源](../Page/资源.md "wikilink")、[能源与环境的关系](../Page/能源.md "wikilink")
 
 :\*X26 环境容量与环境自净
 
@@ -77,7 +78,7 @@
 
 :\*X45 人为灾害及其防治
 
-  - X5 [环境污染及其防治](../Page/环境污染.md "wikilink")
+  - X5 [环境污染及其防治](https://zh.wikipedia.org/wiki/环境污染 "wikilink")
 
 :\*X51 大气污染及其防治
 
@@ -99,7 +100,7 @@
 
 ::\*X593 噪声、振动及其控制
 
-  - X7 [三废处理与综合利用](../Page/三废处理.md "wikilink")
+  - X7 [三废处理与综合利用](https://zh.wikipedia.org/wiki/三废处理 "wikilink")
 
 :\*X71 农业废物处理与综合利用
 
@@ -122,7 +123,7 @@
 ::\*X799 其他
 
   - X8
-    [环境质量评价与](../Page/环境质量评价.md "wikilink")[环境监测](../Page/环境监测.md "wikilink")
+    [环境质量评价与](https://zh.wikipedia.org/wiki/环境质量评价 "wikilink")[环境监测](https://zh.wikipedia.org/wiki/环境监测 "wikilink")
 
 :\*X82 环境质量分析与评价
 

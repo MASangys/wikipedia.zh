@@ -1,10 +1,10 @@
 **Microsoft Exchange
-Server**是[微软公司的一套](../Page/微软公司.md "wikilink")[电子邮件服务组件](../Page/电子邮件.md "wikilink")。除传统的电子邮件的存取、储存、转发作用外，在新版本的产品中亦加入了一系列辅助功能，如语音邮件、邮件过滤筛选和OWA（基于[Web的电子邮件存取](../Page/Web.md "wikilink")）。Exchange
-Server支持多种电子邮件[网络协议](../Page/网络协议.md "wikilink")，如[SMTP](../Page/SMTP.md "wikilink")、[NNTP](../Page/NNTP.md "wikilink")、[POP3和](../Page/POP3.md "wikilink")[IMAP4](../Page/IMAP4.md "wikilink")。Exchange
-Server能够与微软公司的[活动目录完美结合](../Page/活动目录.md "wikilink")。
+Server**是[微软公司的一套](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[电子邮件服务组件](../Page/电子邮件.md "wikilink")。除传统的电子邮件的存取、储存、转发作用外，在新版本的产品中亦加入了一系列辅助功能，如语音邮件、邮件过滤筛选和OWA（基于[Web的电子邮件存取](https://zh.wikipedia.org/wiki/Web "wikilink")）。Exchange
+Server支持多种电子邮件[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，如[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[NNTP](https://zh.wikipedia.org/wiki/NNTP "wikilink")、[POP3和](https://zh.wikipedia.org/wiki/POP3 "wikilink")[IMAP4](https://zh.wikipedia.org/wiki/IMAP4 "wikilink")。Exchange
+Server能够与微软公司的[活动目录完美结合](https://zh.wikipedia.org/wiki/活动目录 "wikilink")。
 
 Exchange Server是个消息与协作系统，Exchange
-server可以被用来构架应用于企业、学校的邮件系统甚至于免费邮件系统。也可以用于开发[工作流](../Page/工作流.md "wikilink")、[知识管理系统](../Page/知识管理系统.md "wikilink")、Web系统或者是其他消息系统。
+server可以被用来构架应用于企业、学校的邮件系统甚至于免费邮件系统。也可以用于开发[工作流](https://zh.wikipedia.org/wiki/工作流 "wikilink")、[知识管理系统](https://zh.wikipedia.org/wiki/知识管理系统 "wikilink")、Web系统或者是其他消息系统。
 
 Microsoft Exchange Server ==版本==
 

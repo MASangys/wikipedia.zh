@@ -54,7 +54,7 @@ losing（中譯：歷久彌堅）是[日本男歌手](../Page/日本.md "wikilin
       - 作詞・作曲：平井堅／編曲：松原憲
 12. **Gaining Through Losing**
       - 作詞・作曲：平井堅／編曲：亀田誠治
-      - [F4](../Page/F4.md "wikilink")「流星雨」原曲
+      - [F4](https://zh.wikipedia.org/wiki/F4 "wikilink")「流星雨」原曲
 
 ## 参考資料
 

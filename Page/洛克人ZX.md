@@ -1,4 +1,4 @@
-是[洛克人第六系列](../Page/洛克人.md "wikilink")、[洛克人ZX系列的第一集](../Page/洛克人ZX系列.md "wikilink")。2006年[洛克人系列第二線製作](../Page/洛克人系列.md "wikilink")。
+是[洛克人第六系列](https://zh.wikipedia.org/wiki/洛克人 "wikilink")、[洛克人ZX系列的第一集](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")。2006年[洛克人系列第二線製作](../Page/洛克人系列.md "wikilink")。
 
 新的系列承繼了[洛克人零系列的故事](../Page/洛克人零系列.md "wikilink")，但兩系列的人物連接則較間接。今次是有史以來，洛克人的遊戲中出現女性主角。
 
@@ -124,7 +124,7 @@
 <!-- end list -->
 
   - 布魯諾（）
-    （配音員：[小林通孝](../Page/小林通孝.md "wikilink")）
+    （配音員：[小林通孝](https://zh.wikipedia.org/wiki/小林通孝 "wikilink")）
 
 <!-- end list -->
 
@@ -276,7 +276,7 @@
 <!-- end list -->
 
   -
-    無屬性。以[苦無](../Page/苦無.md "wikilink")（十字飛鏢）作為基本裝備。
+    無屬性。以[苦無](https://zh.wikipedia.org/wiki/苦無 "wikilink")（十字飛鏢）作為基本裝備。
     身體技能：頂掛鉤
     特別技能：[夜視鏡](../Page/夜視鏡.md "wikilink")、雷達搜尋
     普通攻擊：苦無丟擲（完整一次五連發，另外貼壁、攀梯及使用頂掛鉤時，彈幕會分岔很開）
@@ -338,7 +338,7 @@
 <!-- end list -->
 
   - 塞爾邦（╱  ）
-    （配音員：[梁田清之](../Page/梁田清之.md "wikilink")）
+    （配音員：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")）
     魔蛇公司的社長，以實力行事的人。
     事實上，十年前他曾經也是守衛軍的一員。守衛軍在外界發掘到生命金屬時，他發現了與「諸神黃昏」碎片融合的Ｖ型，誰不知他竟然是Ｖ型的適切者。塞爾邦漸漸受到Ｖ型的影響，開始不擇手段地佈署發掘Ｖ型核心並使其復活的「天堂」計劃。最後和Ｖ型融合後，被梵╱艾兒打敗。
 
@@ -348,7 +348,7 @@
 
 <!-- end list -->
 
-  - [潘朵拉](../Page/Ｖ.md "wikilink")（╱  ）
+  - [潘朵拉](https://zh.wikipedia.org/wiki/Ｖ "wikilink")（╱  ）
     （配音員：[伊藤靜](../Page/伊藤靜.md "wikilink")）
     使用權杖及浮游炮作攻擊、與普羅米修斯一起行動、冰及雷屬性的少女。Ｖ型之「代表」。
     雖然性格較沉默寡言，但是發言起來比較像是用字精簡不多舌，與普羅的狂妄殺氣比起來，顯得陰沉許多
@@ -364,21 +364,21 @@
 ### 其他角色
 
   - （ ）（配音員：[龍谷修武](../Page/龍谷修武.md "wikilink")）
-    （ ）（配音員：[伊藤静](../Page/伊藤静.md "wikilink")）
+    （ ）（配音員：[伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")）
     （ ）（配音員：[中井和哉](../Page/中井和哉.md "wikilink")）
     （ ）（配音員：[福原耕平](../Page/福原耕平.md "wikilink")）
-    （ ）（配音員：[伊藤浩資](../Page/伊藤浩資.md "wikilink")）
-    （ ）（配音員：[柳井久代](../Page/柳井久代.md "wikilink")）
+    （ ）（配音員：[伊藤浩資](https://zh.wikipedia.org/wiki/伊藤浩資 "wikilink")）
+    （ ）（配音員：[柳井久代](https://zh.wikipedia.org/wiki/柳井久代 "wikilink")）
 
 ### 八大首領──類洛體機械人
 
   - 類洛體機械人（╱  ）
-    擁有生命金屬作強化、非常類似「洛克人」的[思考型機械人](../Page/思考型機械人.md "wikilink")。全部皆為塞爾邦所強化，有部份前身也是非正規機械人。被玩家們認為是塞爾邦用以向全國人民掩飾「天堂」計劃。
+    擁有生命金屬作強化、非常類似「洛克人」的[思考型機械人](https://zh.wikipedia.org/wiki/思考型機械人 "wikilink")。全部皆為塞爾邦所強化，有部份前身也是非正規機械人。被玩家們認為是塞爾邦用以向全國人民掩飾「天堂」計劃。
 
 <!-- end list -->
 
   - 高伏猛禽‧哈伏特（╱  ）
-    （配音員：[伊藤浩資](../Page/伊藤浩資.md "wikilink")）
+    （配音員：[伊藤浩資](https://zh.wikipedia.org/wiki/伊藤浩資 "wikilink")）
     [猛禽形類洛體機械人](../Page/猛禽.md "wikilink")。Ｈ型。腳部是浮游炮，並且能夠無線控制移動、攻擊和防禦。
     接受塞爾邦的請託，在城市邊緣的[發電廠裡幹下非法勾當](../Page/發電廠.md "wikilink")，向都市輸送電力的動作掩護下，蒐集電子精靈，與電力一起輸送到魔蛇公司。
     有一半H型資料容納在他的翅膀。
@@ -387,15 +387,15 @@
 
   - 深淵鮟鱇魚‧露鈴莉（╱  ）
     （配音員：[淺井清己](../Page/淺井清己.md "wikilink")）
-    [鮟鱇魚形類洛體機械人](../Page/鮟鱇魚.md "wikilink")。Ｌ型。由嬌小女性形態的控制部份和魚形大炮主體組成，前者的性格完全符合[裝嬌屬性](../Page/裝嬌.md "wikilink")：一時展現嬌柔可愛的風姿，轉過頭來變得兇惡暴躁，猶如擁有[雙重性格般](../Page/雙重性格.md "wikilink")。少量玩家認為她[萌](../Page/萌.md "wikilink")。
+    [鮟鱇魚形類洛體機械人](../Page/鮟鱇魚.md "wikilink")。Ｌ型。由嬌小女性形態的控制部份和魚形大炮主體組成，前者的性格完全符合[裝嬌屬性](https://zh.wikipedia.org/wiki/裝嬌 "wikilink")：一時展現嬌柔可愛的風姿，轉過頭來變得兇惡暴躁，猶如擁有[雙重性格般](https://zh.wikipedia.org/wiki/雙重性格 "wikilink")。少量玩家認為她[萌](../Page/萌.md "wikilink")。
     遺跡的看管者，避免閒雜人等闖入擁有「最後訊息」的那間檔案保管室。
     有一半L型資料容納在她的誘惑物。
 
 <!-- end list -->
 
   - 火狩拳獅‧霍剎里奧（╱  ）
-    （配音員：[松山鷹志](../Page/松山鷹志.md "wikilink")）
-    [獅子形類洛體機械人](../Page/獅子.md "wikilink")。Ｆ型。自稱「[修羅](../Page/修羅.md "wikilink")」，一直尋找可以令他發揮界限級力量的人，對弱者全無興趣。
+    （配音員：[松山鷹志](https://zh.wikipedia.org/wiki/松山鷹志 "wikilink")）
+    [獅子形類洛體機械人](https://zh.wikipedia.org/wiki/獅子 "wikilink")。Ｆ型。自稱「[修羅](https://zh.wikipedia.org/wiki/修羅 "wikilink")」，一直尋找可以令他發揮界限級力量的人，對弱者全無興趣。
     在城市一角引發大規模火災，吸引新生的洛克人前來送死。
     有一半F型資料容納在他的頭部。
 
@@ -403,16 +403,16 @@
 
   - 紫影狒狒‧朋普魯（╱  ）
     （配音員：[高木涉](../Page/高木涉.md "wikilink")）
-    [狒狒形類洛體機械人](../Page/狒狒.md "wikilink")。Ｐ型。身體可變成巨大飛鏢（手裏劍）。令梵╱艾兒喪失母親的元兇。
+    [狒狒形類洛體機械人](https://zh.wikipedia.org/wiki/狒狒 "wikilink")。Ｐ型。身體可變成巨大飛鏢（手裏劍）。令梵╱艾兒喪失母親的元兇。
     當年受到塞爾邦請託，在遊樂園大開殺戒，藉故收集到數量相當龐大的電子精靈群。
     有一半P型資料容納在他巨大的手臂。
 
 <!-- end list -->
 
   - 颶刃鐮鼬‧希靳烈（╱  ）
-    （配音員：[柳井久代](../Page/柳井久代.md "wikilink")）
-    [鐮鼬形類洛體機械人](../Page/鐮鼬.md "wikilink")。Ｈ型。頭部、手端及腳端都能產生鐮形能量波，加上高速轉動來作出龍捲風式攻擊。
-    暗地裡綁走無辜民眾，在破敗的舊電廠裡棲身兼處決[人質](../Page/人質.md "wikilink")，以取得其電子精靈（靈魂）。
+    （配音員：[柳井久代](https://zh.wikipedia.org/wiki/柳井久代 "wikilink")）
+    [鐮鼬形類洛體機械人](https://zh.wikipedia.org/wiki/鐮鼬 "wikilink")。Ｈ型。頭部、手端及腳端都能產生鐮形能量波，加上高速轉動來作出龍捲風式攻擊。
+    暗地裡綁走無辜民眾，在破敗的舊電廠裡棲身兼處決[人質](https://zh.wikipedia.org/wiki/人質 "wikilink")，以取得其電子精靈（靈魂）。
     有一半H型資料容納在她的頸。
 
 <!-- end list -->
@@ -426,13 +426,13 @@
 
   - 鑽火鼴鼠‧焚莫洛（╱  ）
     （配音員：[福原耕平](../Page/福原耕平.md "wikilink")）
-    [鼴鼠形類洛體機械人](../Page/鼴鼠.md "wikilink")。Ｆ型。兩腕又是巨鑽又能放射火焰，可潛在地下行動。
+    [鼴鼠形類洛體機械人](https://zh.wikipedia.org/wiki/鼴鼠 "wikilink")。Ｆ型。兩腕又是巨鑽又能放射火焰，可潛在地下行動。
     有一半F型資料容納在他強大的手臂。
 
 <!-- end list -->
 
   - 剛角犀牛‧保特陀（╱  ）
-    （配音員：[酒井敬幸](../Page/酒井敬幸.md "wikilink")）
+    （配音員：[酒井敬幸](https://zh.wikipedia.org/wiki/酒井敬幸 "wikilink")）
     [犀牛形類洛體機械人](../Page/犀牛.md "wikilink")。Ｐ型。外殼裝甲堅硬且厚，還內藏了核子導彈。在防禦形態下能夠全方位將攻擊無效化。
     有一半P型資料容納在他巨大的肚子。
 
@@ -448,7 +448,7 @@
   - Ｈ區──寂靜的遊樂場「連繫Ａ、Ｌ區」
   - Ｉ區──停電設施「連繫Ｅ區」
   - Ｊ區──海中都市「連繫Ａ區」
-  - Ｋ區──熔岩地帶之[間歇泉](../Page/間歇泉.md "wikilink")「連繫Ｃ區」
+  - Ｋ區──熔岩地帶之[間歇泉](https://zh.wikipedia.org/wiki/間歇泉 "wikilink")「連繫Ｃ區」
   - Ｌ區──研究所「連繫Ｈ區」
   - Ｍ區──遺跡區域「連繫Ａ、Ｎ區」
   - Ｎ區──遺跡區域（深部）「連繫Ｍ區」
@@ -470,17 +470,17 @@
 <!-- end list -->
 
   -
-    [CAO主唱](../Page/CAO.md "wikilink")
+    [CAO主唱](https://zh.wikipedia.org/wiki/CAO "wikilink")
 
 ### 重製版
 
-  - [ZX Tunes](../Page/ZX_Tunes.md "wikilink")
+  - [ZX Tunes](https://zh.wikipedia.org/wiki/ZX_Tunes "wikilink")
 
 ## 參見
 
   - [洛克人系列](../Page/洛克人系列.md "wikilink")
-  - [洛克人ZX系列](../Page/洛克人ZX系列.md "wikilink")
-  - [洛克人ZX‧降臨](../Page/洛克人ZX‧降臨.md "wikilink")
+  - [洛克人ZX系列](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")
+  - [洛克人ZX‧降臨](https://zh.wikipedia.org/wiki/洛克人ZX‧降臨 "wikilink")
 
 ## 外部連結
 

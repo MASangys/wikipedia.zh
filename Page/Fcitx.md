@@ -1,7 +1,7 @@
 **Fcitx**（\[1\]，源自“**Free Chinese Input Tool for X**”，又作“**Flexible
 Context-aware Input Tool with eXtension**\[2\]”或“**Flexible Input Method
 Framework**”\[3\]，暂无正式英文全称\[4\]，中文名称为“**小企鹅输入法**”）是一个在[X
-Window中使用的输入法框架](../Page/X_Window.md "wikilink")，在源码包内包含了[拼音](../Page/拼音.md "wikilink")，[五笔字型以及](../Page/五笔字型.md "wikilink")[区位](../Page/区位.md "wikilink")、[二笔的支持](../Page/二笔.md "wikilink")。可以输入[UTF-8编码中的文字](../Page/UTF-8.md "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[FreeBSD中运行](../Page/FreeBSD.md "wikilink")。采用[GPL授权](../Page/GPL.md "wikilink")。支持[XIM](../Page/XIM.md "wikilink")、[GTK](../Page/GTK.md "wikilink")（版本2和3）和[Qt的输入法模块](../Page/Qt.md "wikilink")。
+Window中使用的输入法框架](https://zh.wikipedia.org/wiki/X_Window "wikilink")，在源码包内包含了[拼音](https://zh.wikipedia.org/wiki/拼音 "wikilink")，[五笔字型以及](https://zh.wikipedia.org/wiki/五笔字型 "wikilink")[区位](https://zh.wikipedia.org/wiki/区位 "wikilink")、[二笔的支持](https://zh.wikipedia.org/wiki/二笔 "wikilink")。可以输入[UTF-8编码中的文字](../Page/UTF-8.md "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[FreeBSD中运行](../Page/FreeBSD.md "wikilink")。采用[GPL授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。支持[XIM](https://zh.wikipedia.org/wiki/XIM "wikilink")、[GTK](../Page/GTK.md "wikilink")（版本2和3）和[Qt的输入法模块](../Page/Qt.md "wikilink")。
 
 因云帆论坛有人批评Fcitx[代码写的很差](../Page/代码.md "wikilink")，原作者于2007年7月10日决定终止本项目。\[5\]
 不过2008年9月开始作者又加入离开后爱好者建立的Google Code项目并频繁更新，他发文谈到无法忘记fcitx。\[6\]
@@ -18,7 +18,8 @@ Window中使用的输入法框架](../Page/X_Window.md "wikilink")，在源码�
 
 ## 支持的输入法引擎
 
-  - fcitx-anthy: 使用[Anthy引擎的日文输入法](../Page/Anthy.md "wikilink")\[7\]
+  - fcitx-anthy:
+    使用[Anthy引擎的日文输入法](https://zh.wikipedia.org/wiki/Anthy "wikilink")\[7\]
   - fcitx-chewing: [libchewing的支持](../Page/新酷音輸入法.md "wikilink")
   - fcitx-cloudpinyin: 为所有拼音引擎提供云拼音支持
   - fcitx-googlepinyin: 移植自Android的Google拼音支持
@@ -27,12 +28,13 @@ Window中使用的输入法框架](../Page/X_Window.md "wikilink")，在源码�
   - fcitx-libpinyin: [libpinyin](http://github.com/libpinyin/libpinyin)
     为后端的汉语拼音支持，fcitx算法最先进的输入法
   - fcitx-m17n: 使用m17n-db的多语言输入法
-  - fcitx-mozc: 使用[mozc引擎的日文输入法](../Page/mozc.md "wikilink")\[8\]
+  - fcitx-mozc:
+    使用[mozc引擎的日文输入法](https://zh.wikipedia.org/wiki/mozc "wikilink")\[8\]
   - fcitx-pinyin: [汉语拼音支持](../Page/汉语拼音.md "wikilink")，fcitx上速度最快的输入法
   - fcitx-sunpinyin: [Sunpinyin](http://code.google.com/p/sunpinyin)
     为后端的[汉语拼音支持](../Page/汉语拼音.md "wikilink")，fcitx综合表现最佳
   - fcitx-table:
-    码表类输入法支持，如[五笔](../Page/五笔.md "wikilink")、[郑码等](../Page/郑码.md "wikilink")
+    码表类输入法支持，如[五笔](https://zh.wikipedia.org/wiki/五笔 "wikilink")、[郑码等](../Page/郑码.md "wikilink")
   - fcitx-rime：RIME引擎的封装，支持简体、繁体输入
   - fcitx-sogoupinyin:[1](http://pinyin.sogou.com/linux/)[搜狗拼音输入法Linux版](../Page/搜狗拼音输入法.md "wikilink")
 

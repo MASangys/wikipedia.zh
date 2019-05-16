@@ -1,9 +1,9 @@
-《****》是[香港歌唱組合](../Page/香港.md "wikilink")[Cream於](../Page/Cream_\(香港樂隊\).md "wikilink")2006年8月演唱會的同名專輯，同時也是他離開[輝皇娛樂前](../Page/輝皇娛樂.md "wikilink")，亦是她們的最後一張專輯。
+《****》是[香港歌唱組合](../Page/香港.md "wikilink")[Cream於](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")2006年8月演唱會的同名專輯，同時也是他離開[輝皇娛樂前](https://zh.wikipedia.org/wiki/輝皇娛樂 "wikilink")，亦是她們的最後一張專輯。
 
 ## 曲目列表
 
 《My
-Sunshine》一共收錄了5首歌及5首自唱音樂。其中《幫哥哥找女友》是[Cream與](../Page/Cream_\(香港樂隊\).md "wikilink")[Chips的合唱歌](../Page/Chips.md "wikilink")，而《My
+Sunshine》一共收錄了5首歌及5首自唱音樂。其中《幫哥哥找女友》是[Cream與](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")[Chips的合唱歌](https://zh.wikipedia.org/wiki/Chips "wikilink")，而《My
 Sunshine》一曲則是國語歌。
 
 <table>
@@ -22,7 +22,7 @@ Sunshine》一曲則是國語歌。
 <td><p>1.</p></td>
 <td><p>宮崎駿的童話</p></td>
 <td><p>張佳添@宇宙大爆炸</p></td>
-<td><p><a href="../Page/郭薾多.md" title="wikilink">郭薾多</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郭薾多" title="wikilink">郭薾多</a></p></td>
 <td><p>BC@宇宙大爆炸</p></td>
 <td><p>陳歷恆</p></td>
 </tr>
@@ -46,7 +46,7 @@ Sunshine》一曲則是國語歌。
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>學生應否談戀愛</p></td>
-<td><p><strong><a href="../Page/盧嘉寶.md" title="wikilink">盧嘉寶</a>@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/盧嘉寶" title="wikilink">盧嘉寶</a>@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a></strong></p></td>
 <td><p>陳歷恆、<br />
 陳炳洋</p></td>
 <td><p>王兆綽</p></td>
@@ -88,7 +88,7 @@ Sunshine》一曲則是國語歌。
 <tr class="odd">
 <td><p>9.</p></td>
 <td><p>學生應否談戀愛 <small>Music</small></p></td>
-<td><p><strong>盧嘉寶@<a href="../Page/Cream_(香港樂隊).md" title="wikilink">Cream</a></strong></p></td>
+<td><p><strong>盧嘉寶@<a href="https://zh.wikipedia.org/wiki/Cream_(香港樂隊)" title="wikilink">Cream</a></strong></p></td>
 <td><p>陳歷恆、<br />
 陳炳洋</p></td>
 <td><p>——</p></td>

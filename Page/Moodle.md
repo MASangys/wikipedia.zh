@@ -1,6 +1,6 @@
-**Moodle**是一個[開源及](../Page/開源軟件.md "wikilink")[自由的](../Page/自由軟件.md "wikilink")[電子學習](../Page/電子學習.md "wikilink")[軟件平台](../Page/軟件平台.md "wikilink")，亦稱為[課程管理系統](../Page/課程管理系統.md "wikilink")、[學習管理系統或](../Page/學習管理系統.md "wikilink")[虛擬學習環境](../Page/虛擬學習環境.md "wikilink")。它有一個很有分量的用戶群體：根據其2010年1月的統計，現時有45,721個已註冊及查核的網站，為3200萬位用戶提供約300萬個課程\[1\]。
+**Moodle**是一個[開源及](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[電子學習](https://zh.wikipedia.org/wiki/電子學習 "wikilink")[軟件平台](https://zh.wikipedia.org/wiki/軟件平台 "wikilink")，亦稱為[課程管理系統](https://zh.wikipedia.org/wiki/課程管理系統 "wikilink")、[學習管理系統或](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")[虛擬學習環境](https://zh.wikipedia.org/wiki/虛擬學習環境 "wikilink")。它有一個很有分量的用戶群體：根據其2010年1月的統計，現時有45,721個已註冊及查核的網站，為3200萬位用戶提供約300萬個課程\[1\]。
 
-為一個[線上學習系統](../Page/線上學習.md "wikilink")，為全世界有150餘國70種語言所使用，其特色異於其他商業[線上教學平臺](../Page/線上教學平臺.md "wikilink")，屬於[開放原始碼的類別](../Page/開放原始碼.md "wikilink")。創建者為[馬丁·多基馬](../Page/馬丁·多基馬.md "wikilink")（）。
+為一個[線上學習系統](../Page/線上學習.md "wikilink")，為全世界有150餘國70種語言所使用，其特色異於其他商業[線上教學平臺](https://zh.wikipedia.org/wiki/線上教學平臺 "wikilink")，屬於[開放原始碼的類別](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。創建者為[馬丁·多基馬](https://zh.wikipedia.org/wiki/馬丁·多基馬 "wikilink")（）。
 
 Moodle 的軟件最低安裝要求為 PHP 5.6.5 及 MariaDB 5.5.31 / MySQL 5.5.31 / Postgres
 9.3 / MSSQL 2008 / Oracle 10.2。
@@ -8,27 +8,27 @@ Moodle 的軟件最低安裝要求為 PHP 5.6.5 及 MariaDB 5.5.31 / MySQL 5.5.3
 ## 名稱來源
 
 Moodle 的名字源於英文簡寫
-**，即[模組化](../Page/模組化.md "wikilink")[物件導向動態學習](../Page/物件導向.md "wikilink")[環境](../Page/環境.md "wikilink")，儘管其最初名稱裡，開首的"M"字本來是創建者[馬丁·多基馬](../Page/馬丁·多基馬.md "wikilink")（）的名字的第一個字母。
+**，即[模組化](https://zh.wikipedia.org/wiki/模組化 "wikilink")[物件導向動態學習](https://zh.wikipedia.org/wiki/物件導向 "wikilink")[環境](https://zh.wikipedia.org/wiki/環境 "wikilink")，儘管其最初名稱裡，開首的"M"字本來是創建者[馬丁·多基馬](https://zh.wikipedia.org/wiki/馬丁·多基馬 "wikilink")（）的名字的第一個字母。
 
 ## 其他類似平台
 
-  - [ANGEL LMS](../Page/ANGEL_Learning.md "wikilink")
-  - [ATutor](../Page/ATutor.md "wikilink")
-  - [Blackboard](../Page/Blackboard_Inc..md "wikilink")
-  - [Claroline](../Page/Claroline.md "wikilink")
-  - [Desire2Learn](../Page/Desire2Learn.md "wikilink")
-  - [Dokeos](../Page/Dokeos.md "wikilink")
-  - [eFront](../Page/EFront_-_eLearning_and_Human_Capital_Development.md "wikilink")
-  - [ILIAS](../Page/ILIAS.md "wikilink")
-  - [OLAT](../Page/OLAT.md "wikilink")
+  - [ANGEL LMS](https://zh.wikipedia.org/wiki/ANGEL_Learning "wikilink")
+  - [ATutor](https://zh.wikipedia.org/wiki/ATutor "wikilink")
+  - [Blackboard](https://zh.wikipedia.org/wiki/Blackboard_Inc. "wikilink")
+  - [Claroline](https://zh.wikipedia.org/wiki/Claroline "wikilink")
+  - [Desire2Learn](https://zh.wikipedia.org/wiki/Desire2Learn "wikilink")
+  - [Dokeos](https://zh.wikipedia.org/wiki/Dokeos "wikilink")
+  - [eFront](https://zh.wikipedia.org/wiki/EFront_-_eLearning_and_Human_Capital_Development "wikilink")
+  - [ILIAS](https://zh.wikipedia.org/wiki/ILIAS "wikilink")
+  - [OLAT](https://zh.wikipedia.org/wiki/OLAT "wikilink")
   - [Sakai](../Page/Sakai项目.md "wikilink")
-  - [WebCT](../Page/WebCT.md "wikilink")
-  - [WMPro](../Page/WMPro.md "wikilink")
+  - [WebCT](https://zh.wikipedia.org/wiki/WebCT "wikilink")
+  - [WMPro](https://zh.wikipedia.org/wiki/WMPro "wikilink")
 
 ## 參看
 
-  - [學習管理系統](../Page/學習管理系統.md "wikilink")
-  - [線上學習社群](../Page/線上學習社群.md "wikilink")
+  - [學習管理系統](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")
+  - [線上學習社群](https://zh.wikipedia.org/wiki/線上學習社群 "wikilink")
 
 ## 參考資料
 

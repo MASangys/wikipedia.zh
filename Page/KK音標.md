@@ -1,25 +1,25 @@
-**KK音標**（），是一種[美式英語發音的](../Page/美式英語.md "wikilink")[音素](../Page/音素.md "wikilink")[音標](../Page/音標.md "wikilink")，它所使用的符號幾乎與[國際音標](../Page/國際音標.md "wikilink")（IPA）相符。KK音標最初使用在1944年出版的《美式英語發音辭典》（*[A
+**KK音標**（），是一種[美式英語發音的](https://zh.wikipedia.org/wiki/美式英語 "wikilink")[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")[音標](https://zh.wikipedia.org/wiki/音標 "wikilink")，它所使用的符號幾乎與[國際音標](https://zh.wikipedia.org/wiki/國際音標 "wikilink")（IPA）相符。KK音標最初使用在1944年出版的《美式英語發音辭典》（*[A
 Pronouncing Dictionary of American
-English](http://www.archive.org/details/pronouncingdicti00unse)*），由於兩位作者及[托馬斯·A·克諾特](../Page/托馬斯·A·克諾特.md "wikilink")（）的姓皆以K為開頭，所以此辭典俗稱為KK（Kenyon
+English](http://www.archive.org/details/pronouncingdicti00unse)*），由於兩位作者及[托馬斯·A·克諾特](https://zh.wikipedia.org/wiki/托馬斯·A·克諾特 "wikilink")（）的姓皆以K為開頭，所以此辭典俗稱為KK（Kenyon
 and Knott）。KK音標
 
 ## 歷史背景
 
 ### KK音標在台灣
 
-[梁實秋](../Page/梁實秋.md "wikilink")（1903年－1987年），在1949-1969年服務於[臺灣省立師範學院及其改制的](../Page/臺灣省立師範學院.md "wikilink")[國立臺灣師範大學](../Page/國立臺灣師範大學.md "wikilink")，任英語系專任教授兼系主任；在師大服務期間，主編大學英文教科書，並與[遠東書局合作](../Page/遠東書局.md "wikilink")，出版[遠東版初中及高中英文課本](../Page/遠東版初中及高中英文課本.md "wikilink")、[遠東版英漢詞典](../Page/遠東版英漢詞典.md "wikilink")（[最新實用英漢辭典](../Page/最新實用英漢辭典.md "wikilink")、[最新實用英漢辭典增訂本](../Page/最新實用英漢辭典增訂本.md "wikilink")、[遠東英漢大辭典等](../Page/遠東英漢大辭典.md "wikilink")）。當時中國大陸、香港等地採用的是[英式發音的](../Page/英式英語.md "wikilink")[DJ音標](../Page/DJ音標.md "wikilink")，但在台灣主要接觸到的是[美式英語](../Page/美式英語.md "wikilink")，因此梁實秋在編輯英文教材與參考書時，便引進美式發音的KK音標，此舉對台灣的英語文教育影響深遠\[1\]。至今KK音標仍然是台灣學生學習英語的主要注音方式，除了台灣出版的教科書與英漢辭典以外，仍經常使用於[電子辭典中](../Page/電子辭典.md "wikilink")。
+[梁實秋](https://zh.wikipedia.org/wiki/梁實秋 "wikilink")（1903年－1987年），在1949-1969年服務於[臺灣省立師範學院及其改制的](https://zh.wikipedia.org/wiki/臺灣省立師範學院 "wikilink")[國立臺灣師範大學](../Page/國立臺灣師範大學.md "wikilink")，任英語系專任教授兼系主任；在師大服務期間，主編大學英文教科書，並與[遠東書局合作](https://zh.wikipedia.org/wiki/遠東書局 "wikilink")，出版[遠東版初中及高中英文課本](https://zh.wikipedia.org/wiki/遠東版初中及高中英文課本 "wikilink")、[遠東版英漢詞典](https://zh.wikipedia.org/wiki/遠東版英漢詞典 "wikilink")（[最新實用英漢辭典](https://zh.wikipedia.org/wiki/最新實用英漢辭典 "wikilink")、[最新實用英漢辭典增訂本](https://zh.wikipedia.org/wiki/最新實用英漢辭典增訂本 "wikilink")、[遠東英漢大辭典等](https://zh.wikipedia.org/wiki/遠東英漢大辭典 "wikilink")）。當時中國大陸、香港等地採用的是[英式發音的](https://zh.wikipedia.org/wiki/英式英語 "wikilink")[DJ音標](../Page/DJ音標.md "wikilink")，但在台灣主要接觸到的是[美式英語](https://zh.wikipedia.org/wiki/美式英語 "wikilink")，因此梁實秋在編輯英文教材與參考書時，便引進美式發音的KK音標，此舉對台灣的英語文教育影響深遠\[1\]。至今KK音標仍然是台灣學生學習英語的主要注音方式，除了台灣出版的教科書與英漢辭典以外，仍經常使用於[電子辭典中](https://zh.wikipedia.org/wiki/電子辭典 "wikilink")。
 
 ## 比較
 
 以下是KK音標、DJ音標及IPA音標的比較。
 
-### [母(元)音](../Page/母音.md "wikilink")
+### [母(元)音](https://zh.wikipedia.org/wiki/母音 "wikilink")
 
 <table>
 <tbody>
 <tr class="odd">
 <td><table>
-<caption><a href="../Page/單元音.md" title="wikilink">單元音</a></caption>
+<caption><a href="https://zh.wikipedia.org/wiki/單元音" title="wikilink">單元音</a></caption>
 <thead>
 <tr class="header">
 <th><p>KK</p></th>
@@ -122,7 +122,7 @@ and Knott）。KK音標
 </tbody>
 </table></td>
 <td><table>
-<caption><a href="../Page/雙元音.md" title="wikilink">雙元音</a></caption>
+<caption><a href="https://zh.wikipedia.org/wiki/雙元音" title="wikilink">雙元音</a></caption>
 <thead>
 <tr class="header">
 <th><p>KK</p></th>
@@ -156,13 +156,13 @@ and Knott）。KK音標
 </tbody>
 </table>
 
-### [子音](../Page/子音.md "wikilink")
+### [子音](https://zh.wikipedia.org/wiki/子音 "wikilink")
 
 <table>
 <tbody>
 <tr class="odd">
 <td><table>
-<caption><a href="../Page/清音.md" title="wikilink">清音</a></caption>
+<caption><a href="https://zh.wikipedia.org/wiki/清音" title="wikilink">清音</a></caption>
 <thead>
 <tr class="header">
 <th><p>KK</p></th>
@@ -229,7 +229,7 @@ and Knott）。KK音標
 </tbody>
 </table></td>
 <td><table>
-<caption><a href="../Page/濁音.md" title="wikilink">濁音</a></caption>
+<caption><a href="https://zh.wikipedia.org/wiki/濁音" title="wikilink">濁音</a></caption>
 <thead>
 <tr class="header">
 <th><p>KK</p></th>
@@ -339,14 +339,14 @@ and Knott）。KK音標
 
 ## 與國際音標之異同
 
-KK音標是[寬式音標](../Page/寬式音標.md "wikilink")，"toe"的長*o*[雙元音只以一個](../Page/雙元音.md "wikilink")\[o\]表示，而不是，"may"的長*e*[雙元音只以一個](../Page/雙元音.md "wikilink")\[e\]表示，而不是。
+KK音標是[寬式音標](https://zh.wikipedia.org/wiki/寬式音標 "wikilink")，"toe"的長*o*[雙元音只以一個](https://zh.wikipedia.org/wiki/雙元音 "wikilink")\[o\]表示，而不是，"may"的長*e*[雙元音只以一個](https://zh.wikipedia.org/wiki/雙元音 "wikilink")\[e\]表示，而不是。
 
 KK音標和IPA有一些違背之處，大多是為了印刷方便：
 
   - 符號（縮小的大寫U）取代IPA的，這是*foot*的元音和*mouth*的雙元音的後半部分。
   - 「迴尾g」[Looptail_g.svg](https://zh.wikipedia.org/wiki/File:Looptail_g.svg "fig:Looptail_g.svg")取代IPA的「開尾g」[Opentail_g.svg](https://zh.wikipedia.org/wiki/File:Opentail_g.svg "fig:Opentail_g.svg")。
   - 符號取代IPA的，這表示的是美式英語的[齒齦近音](../Page/齒齦近音.md "wikilink")。
-  - [重音與](../Page/重音.md "wikilink")[次重音記號稍微向中間傾斜](../Page/次重音記號.md "wikilink")，不是垂直的。也就是說，寫成像<sup>\\</sup>和<sub>/</sub>，而不是<sup>|</sup>和<sub>|</sub>。
+  - [重音與](https://zh.wikipedia.org/wiki/重音 "wikilink")[次重音記號稍微向中間傾斜](https://zh.wikipedia.org/wiki/次重音記號 "wikilink")，不是垂直的。也就是說，寫成像<sup>\\</sup>和<sub>/</sub>，而不是<sup>|</sup>和<sub>|</sub>。
   - 冒號\[:\]取代IPA的長音記號，但KK通常不標出長音。
   - 外來語中用加橫槓的g（）代替IPA的，即[濁軟顎擦音](../Page/濁軟顎擦音.md "wikilink")。
 
@@ -360,10 +360,10 @@ KK音標和IPA有一些違背之處，大多是為了印刷方便：
   -
 ## 參見
 
-  - [音標](../Page/音標.md "wikilink")
-      - [國際音標](../Page/國際音標.md "wikilink")
+  - [音標](https://zh.wikipedia.org/wiki/音標 "wikilink")
+      - [國際音標](https://zh.wikipedia.org/wiki/國際音標 "wikilink")
       - [DJ音標](../Page/DJ音標.md "wikilink")
-      - [韋氏音標](../Page/韋氏音標.md "wikilink")
+      - [韋氏音標](https://zh.wikipedia.org/wiki/韋氏音標 "wikilink")
 
 {{-}}
 

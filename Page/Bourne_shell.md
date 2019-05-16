@@ -1,9 +1,9 @@
 **Bourne shell**，或**sh**，是[Version 7
-Unix默认的](../Page/Version_7_Unix.md "wikilink")[Unix
+Unix默认的](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")[Unix
 shell](../Page/Unix_shell.md "wikilink")，替代执行文件同为**sh**的[Thompson
-shell](../Page/Thompson_shell.md "wikilink")。它由[AT\&T](../Page/AT&T.md "wikilink")[贝尔实验室的](../Page/贝尔实验室.md "wikilink")[史蒂夫·伯恩在](../Page/史蒂夫·伯恩.md "wikilink")1977年在[Version
+shell](../Page/Thompson_shell.md "wikilink")。它由[AT\&T](../Page/AT&T.md "wikilink")[贝尔实验室的](../Page/贝尔实验室.md "wikilink")[史蒂夫·伯恩在](https://zh.wikipedia.org/wiki/史蒂夫·伯恩 "wikilink")1977年在[Version
 7
-Unix中针对大学与学院发布的](../Page/Version_7_Unix.md "wikilink")。它的二进制程序文件在大多数[Unix系统上位于](../Page/Unix.md "wikilink")/bin/sh，在很多Unix版本中，它仍然是root的默认shell。
+Unix中针对大学与学院发布的](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")。它的二进制程序文件在大多数[Unix系统上位于](https://zh.wikipedia.org/wiki/Unix "wikilink")/bin/sh，在很多Unix版本中，它仍然是root的默认shell。
 
 其concise（简洁），compact（紧凑），fast（高效），由AT\&T编写，属于系统管理shell。
 
@@ -27,7 +27,7 @@ Unix中针对大学与学院发布的](../Page/Version_7_Unix.md "wikilink")。�
     other Unix-like systems](http://heirloom.sourceforge.net/sh.html)
 
 [de:Unix-Shell\#Die
-Bourne-Shell](../Page/de:Unix-Shell#Die_Bourne-Shell.md "wikilink")
+Bourne-Shell](https://zh.wikipedia.org/wiki/de:Unix-Shell#Die_Bourne-Shell "wikilink")
 
 [Category:1977年软件](https://zh.wikipedia.org/wiki/Category:1977年软件 "wikilink")
 [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")

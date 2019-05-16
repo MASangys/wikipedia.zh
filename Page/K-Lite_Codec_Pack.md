@@ -1,7 +1,7 @@
 **K-Lite Codec
-Pack**（亦稱為**K-Lite**）為讓[作業系統及其軟體得以播放眾多一般而言作業系統自身並不支援的音頻及視頻格式的](../Page/作業系統.md "wikilink")[Microsoft
-Windows用解碼器安裝包](../Page/Microsoft_Windows.md "wikilink")。K-Lite Codec
-Pack也包含幾種相關工具，包括[Media Player Classic Home
+Pack**（亦稱為**K-Lite**）為讓[作業系統及其軟體得以播放眾多一般而言作業系統自身並不支援的音頻及視頻格式的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Microsoft
+Windows用解碼器安裝包](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。K-Lite
+Codec Pack也包含幾種相關工具，包括[Media Player Classic Home
 Cinema](../Page/Media_Player_Classic_Home_Cinema.md "wikilink")
 (MPC-HC)、[MediaInfo Lite及Codec](../Page/MediaInfo.md "wikilink") Tweak
 Tool。
@@ -13,7 +13,7 @@ Tool。
 K-Lite Codec Pack有四種版本，全部免費：\[1\]
 
 1.  **Basic:** Basic 版是最精簡的版本，可於Microsoft
-    Windows作業系統上播放各種格式的[AVI檔之外還可播放](../Page/Audio_Video_Interleave.md "wikilink")
+    Windows作業系統上播放各種格式的[AVI檔之外還可播放](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")
     [Matroska(MKV)](../Page/Matroska.md "wikilink")、[MP4](../Page/MP4.md "wikilink")、[Ogg和](../Page/Ogg.md "wikilink")[Adobe
     Flash video
     (FLV)及](../Page/Flash_Video.md "wikilink")[WebM格式的檔案](../Page/WebM.md "wikilink")。它只包含LAV
@@ -22,15 +22,16 @@ K-Lite Codec Pack有四種版本，全部免費：\[1\]
     Tweak Tool、Icaros ThumbnailProvider及Icaros
     PropertyHandler。Basic是唯一不含MPC-HC及MediaInfo Lite的版本。\[2\]
 2.  **Standard:** Standard 版包含所有 Basic
-    版的功能，並加入[madVR](../Page/madVR.md "wikilink")、Media
+    版的功能，並加入[madVR](https://zh.wikipedia.org/wiki/madVR "wikilink")、Media
     Info Lite和MPC-HC。\[3\]建議一般使用者使用該版本。\[4\]
 3.  **Full:** 完整版除了Standard版所包含的组件和工具以外，还包括ffdshow、DScaler5 MPEG-2
     decoder、DC-Bass Source Mod、Haali Media Splitter、Haali Video
-    Renderer和[GraphStudioNext](../Page/GraphStudioNext.md "wikilink")。\[5\]
+    Renderer和[GraphStudioNext](https://zh.wikipedia.org/wiki/GraphStudioNext "wikilink")。\[5\]
 4.  **Mega:** Mega版除了Full版所包含的组件和工具以外，還包括用作影片編碼/編輯的ACM and VFW
-    codecs、[AC3Filter](../Page/AC3Filter.md "wikilink")、[Haali
-    Matroska Muxer](../Page/Haali_Matroska_Muxer.md "wikilink")、[FourCC
-    Changer和](../Page/FourCC_Changer.md "wikilink")[VobSubStrip](../Page/VobSubStrip.md "wikilink")。\[6\]
+    codecs、[AC3Filter](https://zh.wikipedia.org/wiki/AC3Filter "wikilink")、[Haali
+    Matroska
+    Muxer](https://zh.wikipedia.org/wiki/Haali_Matroska_Muxer "wikilink")、[FourCC
+    Changer和](https://zh.wikipedia.org/wiki/FourCC_Changer "wikilink")[VobSubStrip](https://zh.wikipedia.org/wiki/VobSubStrip "wikilink")。\[6\]
 
 自10.0.0後，64位元codec被整合入一般版K-Lite Codec
 Pack中。在此之前有專門針對64位元版Windows的64位元版本Codec
@@ -42,7 +43,7 @@ Filters共用其設定，此外安裝程式新增只灌64位元codec的選項（
 自13.7.5後，使用者可於執行安裝程式後取消句選的已安裝組件以備讓程式更新時移除。這也使使用者切換到較小的codec
 pack版本時無須再事先移除codec pack。
 
-直到[BS.Player附帶](../Page/BS.Player.md "wikilink")[廣告軟體套件之前](../Page/廣告軟體.md "wikilink")，某些K-Lite
+直到[BS.Player附帶](https://zh.wikipedia.org/wiki/BS.Player "wikilink")[廣告軟體套件之前](https://zh.wikipedia.org/wiki/廣告軟體 "wikilink")，某些K-Lite
 Codec Pack版本含有BS.Player。\[7\]
 
 ### 支援檔案格式\[8\]
@@ -68,7 +69,7 @@ Codec Pack版本含有BS.Player。\[7\]
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DVD-Video.md" title="wikilink">DVD-Video</a><br />
-<small><a href="../Page/.vob.md" title="wikilink">.vob</a>, <a href="../Page/.evo.md" title="wikilink">.evo</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/.vob" title="wikilink">.vob</a>, <a href="https://zh.wikipedia.org/wiki/.evo" title="wikilink">.evo</a></small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,7 +116,7 @@ Codec Pack版本含有BS.Player。\[7\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/H.262.md" title="wikilink">MPEG-2 Formats</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/H.262" title="wikilink">MPEG-2 Formats</a><br />
 <small>.mpe .m2v .mpv2 .mp2v .m2p .vob .evo .mod .ts .m2ts .m2t .mts .pva .tp .tpr</small></p></td>
 <td></td>
 <td></td>
@@ -139,7 +140,7 @@ Codec Pack版本含有BS.Player。\[7\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/RealMedia.md" title="wikilink">RealMedia</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/RealMedia" title="wikilink">RealMedia</a><br />
 <small>.rm, .rmvb, .ra, .ram</small></p></td>
 <td></td>
 <td></td>
@@ -163,7 +164,7 @@ Codec Pack版本含有BS.Player。\[7\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Free_Lossless_Audio_Codec.md" title="wikilink">Free Lossless Audio Codec</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Free_Lossless_Audio_Codec" title="wikilink">Free Lossless Audio Codec</a><br />
 <small>.flac</small></p></td>
 <td></td>
 <td></td>
@@ -195,7 +196,7 @@ Codec Pack版本含有BS.Player。\[7\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AMV视频格式.md" title="wikilink">AMV</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/AMV视频格式" title="wikilink">AMV</a><br />
 <small>.amv</small></p></td>
 <td></td>
 <td></td>
@@ -264,11 +265,11 @@ Codec Pack版本含有BS.Player。\[7\]
 
 ## 參閱
 
-  - [Codec](../Page/Codec.md "wikilink")
+  - [Codec](https://zh.wikipedia.org/wiki/Codec "wikilink")
   - [Media Player Classic](../Page/Media_Player_Classic.md "wikilink")
   - [Media Player Classic Home
     Cinema](../Page/Media_Player_Classic_Home_Cinema.md "wikilink")
-  - [ffdshow](../Page/ffdshow.md "wikilink")
+  - [ffdshow](https://zh.wikipedia.org/wiki/ffdshow "wikilink")
 
 ## 參考資料
 

@@ -7,9 +7,9 @@ Server 2008在進行開發及測試時的代號為**Windows Server "Longhorn"**�
 Windows Server 2008是一套和[Windows
 Vista](../Page/Windows_Vista.md "wikilink")（代號為*Longhorn*）相对应的服务器操作系统，兩者擁有很多相同功能。與[Windows
 2000的Professional版和Server版一樣](../Page/Windows_2000.md "wikilink")，兩者在開發時共用大多數的程式碼，連[Service
-Pack皆可共用](../Page/Service_Pack.md "wikilink")；Vista和Server
-2008、XP和Server 2003間存在相似的關係。（XP和Server
-2003的代號分別為*Whistler*及*Whistler Server*）
+Pack皆可共用](https://zh.wikipedia.org/wiki/Service_Pack "wikilink")；Vista和Server
+2008、XP和Server 2003間存在相似的關係。（XP和Server 2003的代號分別為*Whistler*及*Whistler
+Server*）
 
 ## 開發歷程
 
@@ -31,7 +31,7 @@ Server
 
 大多数的Windows Server 2008都同时拥有64bit和32bit两个版本，[Windows Server 2008 for
 Itanium-based
-Systems支持](../Page/Windows_Server_2008_for_Itanium-based_Systems.md "wikilink")[IA-64处理器](../Page/IA-64.md "wikilink")，IA-64版本被设计用来处理高工作量的工作，比如数据操作或者处理企业核心业务流程。但是[IA-64版本没有对](../Page/IA-64.md "wikilink")[文件服务器或者](../Page/文件服务器.md "wikilink")[多媒体服务器进行优化](../Page/多媒体服务器.md "wikilink")。微软宣称Windows
+Systems支持](https://zh.wikipedia.org/wiki/Windows_Server_2008_for_Itanium-based_Systems "wikilink")[IA-64处理器](https://zh.wikipedia.org/wiki/IA-64 "wikilink")，IA-64版本被设计用来处理高工作量的工作，比如数据操作或者处理企业核心业务流程。但是[IA-64版本没有对](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[文件服务器或者](https://zh.wikipedia.org/wiki/文件服务器 "wikilink")[多媒体服务器进行优化](https://zh.wikipedia.org/wiki/多媒体服务器 "wikilink")。微软宣称Windows
 Server 2008是该公司最后一个支持32bit的服务器操作系统，從Windows Server 2008
 R2起只支援64位元。下面是Windows Server
 2008版本的列表，及微軟公佈的參考售價。它延续了[Windows
@@ -52,7 +52,7 @@ Server 2003的版本命名方式](../Page/Windows_Server_2003.md "wikilink")。
     for medium-sized businesses
   - Windows Server 2008 for Itanium-based Systems（2999美元/每一处理器）
 
-其中標準版、企業版及資料中心版若選購不含[Hyper-V的版本時則各減少](../Page/Hyper-V.md "wikilink")28美元。
+其中標準版、企業版及資料中心版若選購不含[Hyper-V的版本時則各減少](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")28美元。
 
 ## 功能
 
@@ -62,19 +62,19 @@ Core）。
 
 「伺服器核心」是一種回復到從前的安裝方式，沒有使用者圖形介面，所有的設定與維護全都是由指令碼控制，或者是利用Microsoft
 Management Console作遠端連線操作。"伺服器核心"同時也不會內建[.NET
-Framework](../Page/.NET_Framework.md "wikilink")，[Internet
-Explorer及其他許多跟核心伺服器不相干的功能](../Page/Internet_Explorer.md "wikilink")。一個「伺服器核心」主機可以以四個身分來控制[網域控制者](../Page/網域控制者.md "wikilink")、[DNS伺服器](../Page/DNS伺服器.md "wikilink")、[DHCP伺服器及檔案伺服器](../Page/DHCP伺服器.md "wikilink")。
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，[Internet
+Explorer及其他許多跟核心伺服器不相干的功能](../Page/Internet_Explorer.md "wikilink")。一個「伺服器核心」主機可以以四個身分來控制[網域控制者](https://zh.wikipedia.org/wiki/網域控制者 "wikilink")、[DNS伺服器](https://zh.wikipedia.org/wiki/DNS伺服器 "wikilink")、[DHCP伺服器及檔案伺服器](https://zh.wikipedia.org/wiki/DHCP伺服器 "wikilink")。
 
   - [Active
     Directory網域控制站新增唯讀操作模式](../Page/Active_Directory.md "wikilink")（RODC,
     Read-only Domain Controller）。
-  - [政策式網路作業](../Page/政策式網路作業.md "wikilink")（Policy-based
+  - [政策式網路作業](https://zh.wikipedia.org/wiki/政策式網路作業 "wikilink")（Policy-based
     networking），改良了的管理界面及增強了的用戶協調功能
   - [Internet Information Services
-    7](../Page/Internet_Information_Services.md "wikilink")，內建支援[PHP網頁程式](../Page/PHP.md "wikilink")。
+    7](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")，內建支援[PHP網頁程式](../Page/PHP.md "wikilink")。
   - 改良的即時更新方式，更新時不需要動到"核心程式"，因此也不需要重新開機。
-  - 完全[組件化的作業系統](../Page/組件化.md "wikilink")。
-  - [WIM](../Page/WIM.md "wikilink")，圖像為主的安裝模式及工具使用
+  - 完全[組件化的作業系統](https://zh.wikipedia.org/wiki/組件化 "wikilink")。
+  - [WIM](https://zh.wikipedia.org/wiki/WIM "wikilink")，圖像為主的安裝模式及工具使用
   - 控制角色為主的管理工具「伺服器管理員」（Server Manager），結合了Windows Server
     2003裡的「管理你的伺服器」（Manage Your
     Server）及「安全設定精靈」（Security Cofiguration
@@ -82,17 +82,17 @@ Explorer及其他許多跟核心伺服器不相干的功能](../Page/Internet_Ex
   - 一個升級的終端機服務組件，支援[遠端桌面協定](../Page/遠端桌面協定.md "wikilink")（Remote Desktop
     Protoco 6.0），最讓人值得注意的改進是可以利用遠端桌面連線來共享一個程式，而不像以前共享整個桌面（此即Terminal
     Service中的RemoteApp新功能）。
-  - 在[x86-64系統上](../Page/x86-64.md "wikilink")，可由[可擴展韌體介面](../Page/可擴展韌體介面.md "wikilink")（EFI,
+  - 在[x86-64系統上](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，可由[可擴展韌體介面](https://zh.wikipedia.org/wiki/可擴展韌體介面 "wikilink")（EFI,
     Extensible Firmware Interface）開機
   - [Windows SharePoint Services
-    3.0](../Page/Windows_SharePoint_Services.md "wikilink")
+    3.0](https://zh.wikipedia.org/wiki/Windows_SharePoint_Services "wikilink")
   - [DirectX 10](../Page/DirectX.md "wikilink")（透過Platform
     Update更新，DirectX
     11被引入，但[桌面視窗管理員並未更新採用Direct](../Page/桌面視窗管理員.md "wikilink")3D
     10.1功能）
-  - [exFAT](../Page/exFAT.md "wikilink")
+  - [exFAT](https://zh.wikipedia.org/wiki/exFAT "wikilink")
   - [Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")
-  - [Hyper-V](../Page/Hyper-V.md "wikilink")，一個虛擬系統的程式（處理器需支援INTEL
+  - [Hyper-V](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")，一個虛擬系統的程式（處理器需支援INTEL
     VT/AMD的虛擬技術才能使用），但此功能-{只}-能在x64平台的Windows Server 2008上使用。
   - 可靠性監視器（Reliability Monitor）\[5\]
 
@@ -127,12 +127,12 @@ Windows Server 2008的系统需求：\[6\]
 <tbody>
 <tr class="odd">
 <td><p>处理器</p></td>
-<td><p>1 <a href="../Page/Hertz.md" title="wikilink">GHz</a>（<a href="../Page/x86.md" title="wikilink">x86</a>）or 1.4 <a href="../Page/Hertz.md" title="wikilink">GHz</a>（<a href="../Page/x86-64.md" title="wikilink">x64</a>）</p></td>
+<td><p>1 <a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">GHz</a>（<a href="https://zh.wikipedia.org/wiki/x86" title="wikilink">x86</a>）or 1.4 <a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">GHz</a>（<a href="https://zh.wikipedia.org/wiki/x86-64" title="wikilink">x64</a>）</p></td>
 <td><p>2 GHz或者更快</p></td>
 </tr>
 <tr class="even">
 <td><p>内存</p></td>
-<td><p>512 <a href="../Page/Megabyte.md" title="wikilink">MB</a> <a href="../Page/隨機存取記憶體.md" title="wikilink">RAM</a></p></td>
+<td><p>512 <a href="https://zh.wikipedia.org/wiki/Megabyte" title="wikilink">MB</a> <a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">RAM</a></p></td>
 <td><p>2 GB RAM或者更多</p>
 <ul>
 <li>最大内存（32-bit）: 4GB RAM（标准版）或64GB RAM（企业版和数据中心版）</li>
@@ -141,22 +141,22 @@ Windows Server 2008的系统需求：\[6\]
 </tr>
 <tr class="odd">
 <td><p>显示卡和显示器</p></td>
-<td><p><a href="../Page/Super_VGA.md" title="wikilink">Super VGA</a> (800 x 600)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_VGA" title="wikilink">Super VGA</a> (800 x 600)</p></td>
 <td><p>Super VGA（800 x 600）或者更高分辨率</p></td>
 </tr>
 <tr class="even">
 <td><p>磁盘可用空间</p></td>
-<td><p>10 <a href="../Page/gigabyte.md" title="wikilink">GB</a></p></td>
+<td><p>10 <a href="https://zh.wikipedia.org/wiki/gigabyte" title="wikilink">GB</a></p></td>
 <td><p>40 GB或者更多</p></td>
 </tr>
 <tr class="odd">
 <td><p>驱动器</p></td>
-<td><p><a href="../Page/DVD-ROM.md" title="wikilink">DVD-ROM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>
 <td><p>DVD-ROM或者更快</p></td>
 </tr>
 <tr class="even">
 <td><p>其它设备</p></td>
-<td><p><a href="../Page/键盘.md" title="wikilink">键盘和</a><a href="../Page/鼠标.md" title="wikilink">鼠标</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/键盘" title="wikilink">键盘和</a><a href="../Page/鼠标.md" title="wikilink">鼠标</a></p></td>
 <td><p>键盘 和 鼠标</p></td>
 </tr>
 <tr class="odd">
@@ -177,11 +177,12 @@ Windows Server 2008的系统需求：\[6\]
 ## 參見
 
   - [Windows Vista](../Page/Windows_Vista.md "wikilink")
-  - [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")
-  - [作業系統](../Page/作業系統.md "wikilink")
-  - [作業系統列表](../Page/作業系統列表.md "wikilink")
+  - [Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")
+  - [作業系統列表](https://zh.wikipedia.org/wiki/作業系統列表 "wikilink")
   - [微軟作業系統列表](../Page/微軟作業系統列表.md "wikilink")
-  - [微軟](../Page/微軟.md "wikilink")
+  - [微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")
 
 ## 參考
 

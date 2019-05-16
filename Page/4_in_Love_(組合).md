@@ -1,18 +1,18 @@
 **4 in
-Love**是[台灣的四人女子組合](../Page/台灣.md "wikilink")，於2000年成軍，成員包括[冷嘉琳](../Page/冷嘉琳.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[楊丞琳和](../Page/楊丞琳.md "wikilink")[張棋惠](../Page/張棋惠.md "wikilink")，共發行過兩張專輯，於2002年宣布解散。
+Love**是[台灣的四人女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2000年成軍，成員包括[冷嘉琳](https://zh.wikipedia.org/wiki/冷嘉琳 "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[楊丞琳和](../Page/楊丞琳.md "wikilink")[張棋惠](../Page/張棋惠.md "wikilink")，共發行過兩張專輯，於2002年宣布解散。
 
 2018年2月，在楊丞琳《青春住了誰》世界巡迴演唱香港站演出。這是解散16年後，4 in
-Love在香港[紅館再度同台演出](../Page/紅館.md "wikilink")。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[1\]
+Love在香港[紅館再度同台演出](https://zh.wikipedia.org/wiki/紅館 "wikilink")。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[1\]
 
 ## 成員列表
 
-| 4 in Love成員列表 |- style="color:\#aaaaa ;" | |
-| ------------------------------------------ |
-| 姓名                                         |
-| [冷嘉琳](../Page/冷嘉琳.md "wikilink")           |
-| [黃小柔](../Page/黃小柔.md "wikilink")           |
-| [楊丞琳](../Page/楊丞琳.md "wikilink")           |
-| [張棋惠](../Page/張棋惠.md "wikilink")           |
+| 4 in Love成員列表 |- style="color:\#aaaaa ;" |          |
+| --------------------------------------------------- |
+| 姓名                                                  |
+| [冷嘉琳](https://zh.wikipedia.org/wiki/冷嘉琳 "wikilink") |
+| [黃小柔](../Page/黃小柔.md "wikilink")                    |
+| [楊丞琳](../Page/楊丞琳.md "wikilink")                    |
+| [張棋惠](../Page/張棋惠.md "wikilink")                    |
 
 4 in
 Love四位成員的英文名字，是在出道時由經紀公司取的，分別來自云（cloudy）、晴（sunny）、雨（rainy）和风（windy）四種天氣現象。
@@ -21,13 +21,13 @@ Love四位成員的英文名字，是在出道時由經紀公司取的，分別�
 
 ### 冷嘉琳
 
-**冷嘉琳**，出生於[台灣](../Page/台灣.md "wikilink")，[台灣](../Page/台灣.md "wikilink")[女藝人](../Page/女藝人.md "wikilink")。最早以[4
+**冷嘉琳**，出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")。最早以[4
 In
-Love這個](../Page/4_in_Love_\(女子組合\).md "wikilink")[女子演唱團體出道](../Page/女子演唱團體.md "wikilink")。團體解散後退出演藝圈。曾於新加坡航空公司擔任空姐。
+Love這個](https://zh.wikipedia.org/wiki/4_in_Love_\(女子組合\) "wikilink")[女子演唱團體出道](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")。團體解散後退出演藝圈。曾於新加坡航空公司擔任空姐。
 
 2018年2月，在[楊丞琳](../Page/楊丞琳.md "wikilink")《青春住了誰》世界巡回演唱香港站演出。這是解散16年後，4
 in
-Love在香港[紅館再度同台演出](../Page/紅館.md "wikilink")。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[2\]
+Love在香港[紅館再度同台演出](https://zh.wikipedia.org/wiki/紅館 "wikilink")。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[2\]
 
 ## 音樂作品
 
@@ -41,7 +41,7 @@ Love在香港[紅館再度同台演出](../Page/紅館.md "wikilink")。也是�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="../Page/4_in_Love_(女子組合).md" title="wikilink">4 In Love</a> 《<a href="../Page/FALL_IN_LOVE.md" title="wikilink">FALL IN LOVE</a>》</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/4_in_Love_(女子組合)" title="wikilink">4 In Love</a> 《<a href="https://zh.wikipedia.org/wiki/FALL_IN_LOVE" title="wikilink">FALL IN LOVE</a>》</p></td>
 <td style="text-align: left;"><p>2000年11月16日</p></td>
 <td style="text-align: left;"><ol>
 <li>Fall in love</li>
@@ -57,7 +57,7 @@ Love在香港[紅館再度同台演出](../Page/紅館.md "wikilink")。也是�
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="../Page/4_in_Love_(女子組合).md" title="wikilink">4 In Love</a> 《<a href="../Page/誰怕誰.md" title="wikilink">誰怕誰</a>》</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/4_in_Love_(女子組合)" title="wikilink">4 In Love</a> 《<a href="https://zh.wikipedia.org/wiki/誰怕誰" title="wikilink">誰怕誰</a>》</p></td>
 <td style="text-align: left;"><p>2001年7月19日</p></td>
 <td style="text-align: left;"><ol>
 <li>戀愛革命</li>

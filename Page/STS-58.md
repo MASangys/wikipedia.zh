@@ -2,13 +2,13 @@
 
 ## 任务成员
 
-  - **[约翰·布拉哈](../Page/约翰·布拉哈.md "wikilink")**（，曾执行、、、以及任务），指令长
-  - **[理查德·希尔佛斯](../Page/理查德·希尔佛斯.md "wikilink")**（，曾执行、以及任务），飞行员
-  - **[里娅·塞顿](../Page/里娅·塞顿.md "wikilink")**（，曾执行、以及任务），任务专家
-  - **[威廉·麦克阿瑟](../Page/威廉·麦克阿瑟.md "wikilink")**（，曾执行、、、以及任务），任务专家
-  - **[大卫·沃尔夫](../Page/大卫·沃尔夫.md "wikilink")**（，曾执行、以及任务），任务专家
+  - **[约翰·布拉哈](https://zh.wikipedia.org/wiki/约翰·布拉哈 "wikilink")**（，曾执行、、、以及任务），指令长
+  - **[理查德·希尔佛斯](https://zh.wikipedia.org/wiki/理查德·希尔佛斯 "wikilink")**（，曾执行、以及任务），飞行员
+  - **[里娅·塞顿](https://zh.wikipedia.org/wiki/里娅·塞顿 "wikilink")**（，曾执行、以及任务），任务专家
+  - **[威廉·麦克阿瑟](https://zh.wikipedia.org/wiki/威廉·麦克阿瑟 "wikilink")**（，曾执行、、、以及任务），任务专家
+  - **[大卫·沃尔夫](https://zh.wikipedia.org/wiki/大卫·沃尔夫 "wikilink")**（，曾执行、以及任务），任务专家
   - **[珊农·露茜德](../Page/珊农·露茜德.md "wikilink")**（，曾执行、、、以及任务），任务专家
-  - **[马丁·菲特曼](../Page/马丁·菲特曼.md "wikilink")**（，曾执行任务），有效载荷专家
+  - **[马丁·菲特曼](https://zh.wikipedia.org/wiki/马丁·菲特曼 "wikilink")**（，曾执行任务），有效载荷专家
 
 [Category:1993年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1993年佛罗里达州 "wikilink")
 [Category:1993年科学](https://zh.wikipedia.org/wiki/Category:1993年科学 "wikilink")

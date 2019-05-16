@@ -1,36 +1,38 @@
-**OQO**是一個的小型[UMPC製造商](../Page/UMPC.md "wikilink")，其製品名為ultra Personal
-Computer
-(uPC)，是一種擁有[平板電腦機能](../Page/平板電腦.md "wikilink")、尺寸外型比[PDA略大的電腦](../Page/PDA.md "wikilink")。根據[金氏世界紀錄大全](../Page/金氏世界紀錄大全.md "wikilink")"OQO"是最小型的全功能[個人電腦](../Page/個人電腦.md "wikilink")。OQO第一個小型筆記型電腦產品為OQO
+**OQO**是一個的小型[UMPC製造商](https://zh.wikipedia.org/wiki/UMPC "wikilink")，其製品名為ultra
+Personal Computer
+(uPC)，是一種擁有[平板電腦機能](../Page/平板電腦.md "wikilink")、尺寸外型比[PDA略大的電腦](https://zh.wikipedia.org/wiki/PDA "wikilink")。根據[金氏世界紀錄大全](https://zh.wikipedia.org/wiki/金氏世界紀錄大全 "wikilink")"OQO"是最小型的全功能[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。OQO第一個小型筆記型電腦產品為OQO
 model 01。
 
 初時OQO model
 01於[原型機亮相多年前發表以致很多人稱其為](../Page/原型.md "wikilink")[霧件直至最終於](../Page/霧件.md "wikilink")2004年後期發售。該電腦預載[Windows
 XP](../Page/Windows_XP.md "wikilink")（Home Edition或Professional版，Tablet
 PC Edition於model 01+發售後才能選擇）、擁有1
-[GHz](../Page/赫茲_\(單位\).md "wikilink")[全美達處理器](../Page/全美達處理器.md "wikilink")、20
-[GB硬碟及](../Page/Gigabyte.md "wikilink")256
-[MB](../Page/Megabyte.md "wikilink")
-[RAM](../Page/隨機存取記憶體.md "wikilink")，包含了[USB](../Page/USB.md "wikilink")
+[GHz](https://zh.wikipedia.org/wiki/赫茲_\(單位\) "wikilink")[全美達處理器](https://zh.wikipedia.org/wiki/全美達處理器 "wikilink")、20
+[GB硬碟及](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")256
+[MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
+[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，包含了[USB](../Page/USB.md "wikilink")
 1.1、[FireWire
-400](../Page/FireWire.md "wikilink")、耳機接口、內置麥克風、整合[802.11b無線連接與](../Page/802.11b.md "wikilink")[藍芽](../Page/藍芽.md "wikilink")，使用配合磁性筆的800x480磁性輕觸式[Transflective](../Page/Transflective.md "wikilink")
+400](https://zh.wikipedia.org/wiki/FireWire "wikilink")、耳機接口、內置麥克風、整合[802.11b無線連接與](https://zh.wikipedia.org/wiki/802.11b "wikilink")[藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，使用配合磁性筆的800x480磁性輕觸式[Transflective](https://zh.wikipedia.org/wiki/Transflective "wikilink")
 LCD屏幕，零售運送於2004年10月14日開始。
 
 OQO model 01+於2005年12月27日發表與發售，作為model 01的加強版OQO model
-01+擁有30[GB](../Page/Gigabyte.md "wikilink")[硬碟](../Page/硬碟.md "wikilink")、512[MB](../Page/Megabyte.md "wikilink")
-[RAM](../Page/隨機存取記憶體.md "wikilink")、[USB](../Page/USB.md "wikilink")
-2.0與內置揚聲器，同時加入支援[自畫像顯示模式](../Page/自畫像.md "wikilink")（480x800）並重新設計屏幕斜面以增加輕觸屏幕的準確性。
+01+擁有30[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、512[MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
+[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、[USB](../Page/USB.md "wikilink")
+2.0與內置揚聲器，同時加入支援[自畫像顯示模式](https://zh.wikipedia.org/wiki/自畫像 "wikilink")（480x800）並重新設計屏幕斜面以增加輕觸屏幕的準確性。
 
 運行Microsoft Windows XP Tablet PC Edition 2005的OQO model
 01+於2006年1月4日推出市面，充份利用了Tablet PC
-Edition的[手寫識別與導航功能](../Page/手寫識別.md "wikilink")。
+Edition的[手寫識別與導航功能](https://zh.wikipedia.org/wiki/手寫識別 "wikilink")。
 
 最近它被用作與[UMPC平台比較](../Page/超級移動電腦.md "wikilink")，儘管它比UMPC發售早得多。
 
 ## 已發布的產品列表
 
-  - [OQO Model 01](../Page/OQO_Model_01.md "wikilink")
+  - [OQO Model
+    01](https://zh.wikipedia.org/wiki/OQO_Model_01 "wikilink")
   - OQO Model 01+
-  - [OQO Model 02](../Page/OQO_Model_02.md "wikilink")
+  - [OQO Model
+    02](https://zh.wikipedia.org/wiki/OQO_Model_02 "wikilink")
   - OQO Model 03
 
 ## 批評

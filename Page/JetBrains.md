@@ -1,7 +1,7 @@
-**JetBrains**是一家[捷克的软件开发公司](../Page/捷克.md "wikilink")，该公司位于[捷克的](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")，并在[俄罗斯的](../Page/俄罗斯.md "wikilink")[圣彼得堡及](../Page/圣彼得堡.md "wikilink")[美国](../Page/美国.md "wikilink")[麻州](../Page/麻州.md "wikilink")[波士頓都设有办公室](../Page/波士頓.md "wikilink")，該公司最為人所熟知的產品是[Java程式語言開發撰寫時所用的](../Page/Java.md "wikilink")[整合開發環境](../Page/整合開發環境.md "wikilink")：[IntelliJ
+**JetBrains**是一家[捷克的软件开发公司](../Page/捷克.md "wikilink")，该公司位于[捷克的](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")，并在[俄罗斯的](../Page/俄罗斯.md "wikilink")[圣彼得堡及](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[美国](../Page/美国.md "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[波士頓都设有办公室](https://zh.wikipedia.org/wiki/波士頓 "wikilink")，該公司最為人所熟知的產品是[Java程式語言開發撰寫時所用的](../Page/Java.md "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")：[IntelliJ
 IDEA](../Page/IntelliJ_IDEA.md "wikilink")。
 
-JetBrains成立於2000年，是一家[私人持股的公司](../Page/私人持股.md "wikilink")，該公司的合夥創辦人有：Sergey
+JetBrains成立於2000年，是一家[私人持股的公司](https://zh.wikipedia.org/wiki/私人持股 "wikilink")，該公司的合夥創辦人有：Sergey
 Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
 截至2017年6月，该公司共发布了24款开发工具与及相关产品。
@@ -10,25 +10,26 @@ Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
 ### 集成开发环境\[1\]
 
-  - [AppCode](../Page/AppCode.md "wikilink") - Swift 和 Objective-C
-    IDE開發工具。
+  - [AppCode](https://zh.wikipedia.org/wiki/AppCode "wikilink") - Swift
+    和 Objective-C IDE開發工具。
 
 <!-- end list -->
 
   - [CLion](https://www.jetbrains.com/clion/) -
-    跨平台的[C](../Page/C语言.md "wikilink")/[C++](../Page/C++.md "wikilink")
+    跨平台的[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")
     [IDE](../Page/集成开发环境.md "wikilink")
     开发工具，支持[C++11](../Page/C++11.md "wikilink")
     、[C++14](../Page/C++14.md "wikilink")、[libc++以及](../Page/C++標準函式庫.md "wikilink")[Boost](../Page/Boost_C++_Libraries.md "wikilink")。
 
 <!-- end list -->
 
-  - [DataGrip](../Page/DataGrip.md "wikilink") - 一款数据库客户端工具
+  - [DataGrip](https://zh.wikipedia.org/wiki/DataGrip "wikilink") -
+    一款数据库客户端工具
 
 <!-- end list -->
 
-  - [GoLand](../Page/GoLand.md "wikilink") -
-    [Go語言的整合開發環境](../Page/Golang.md "wikilink")。
+  - [GoLand](https://zh.wikipedia.org/wiki/GoLand "wikilink") -
+    [Go語言的整合開發環境](https://zh.wikipedia.org/wiki/Golang "wikilink")。
 
 <!-- end list -->
 
@@ -37,46 +38,52 @@ Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
 <!-- end list -->
 
-  - [PhpStorm](../Page/PhpStorm.md "wikilink") - PHP IDE開發工具。
-
-<!-- end list -->
-
-  - [PyCharm](../Page/PyCharm.md "wikilink") - 一款結合了Django框架的Python
+  - [PhpStorm](https://zh.wikipedia.org/wiki/PhpStorm "wikilink") - PHP
     IDE開發工具。
 
 <!-- end list -->
 
-  - [Rider](../Page/Rider.md "wikilink") - 一款快速，功能强大，跨平台的.NET IDE开发工具。
+  - [PyCharm](https://zh.wikipedia.org/wiki/PyCharm "wikilink") -
+    一款結合了Django框架的Python IDE開發工具。
 
 <!-- end list -->
 
-  - [RubyMine](../Page/RubyMine.md "wikilink") - 一套強大的Ruby on Rails
-    IDE開發工具。
+  - [Rider](https://zh.wikipedia.org/wiki/Rider "wikilink") -
+    一款快速，功能强大，跨平台的.NET IDE开发工具。
 
 <!-- end list -->
 
-  - [WebStorm](../Page/WebStorm.md "wikilink") - JavaScript的開發工具。
+  - [RubyMine](https://zh.wikipedia.org/wiki/RubyMine "wikilink") -
+    一套強大的Ruby on Rails IDE開發工具。
+
+<!-- end list -->
+
+  - [WebStorm](https://zh.wikipedia.org/wiki/WebStorm "wikilink") -
+    JavaScript的開發工具。
 
 ### 插件\[2\]
 
-  - [ReSharper](../Page/ReSharper.md "wikilink") - 一套用來搭配
-    [Microsoft](../Page/Microsoft.md "wikilink") 公司 [Visual Studio
-    .NET](../Page/Visual_Studio_.NET.md "wikilink")
-    整合開發環境的[外掛程式](../Page/插件.md "wikilink")（Plug-In），此一外掛的功效在於讓程式進行再分拆、增進撰寫效率，並且能支援[C\#程式語言](../Page/C_Sharp.md "wikilink")。
+  - [ReSharper](https://zh.wikipedia.org/wiki/ReSharper "wikilink") -
+    一套用來搭配
+    [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 公司
+    [Visual Studio
+    .NET](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")
+    整合開發環境的[外掛程式](../Page/插件.md "wikilink")（Plug-In），此一外掛的功效在於讓程式進行再分拆、增進撰寫效率，並且能支援[C\#程式語言](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。
 
 <!-- end list -->
 
-  - [dotCover](../Page/dotCover.md "wikilink") - VB.Net
-    集成的單元測試運行和代碼覆蓋工具。
+  - [dotCover](https://zh.wikipedia.org/wiki/dotCover "wikilink") -
+    VB.Net 集成的單元測試運行和代碼覆蓋工具。
 
 <!-- end list -->
 
-  - [dotTrace](../Page/dotTrace.md "wikilink") -
-    一套效能分析軟體，能有效、輕易的找到[.NET應用程式中最耗佔處理器運算資源的效能瓶頸癥結](../Page/.NET.md "wikilink")、環節。
+  - [dotTrace](https://zh.wikipedia.org/wiki/dotTrace "wikilink") -
+    一套效能分析軟體，能有效、輕易的找到[.NET應用程式中最耗佔處理器運算資源的效能瓶頸癥結](https://zh.wikipedia.org/wiki/.NET "wikilink")、環節。
 
 <!-- end list -->
 
-  - [dotPeek](../Page/dotPeek.md "wikilink") - .Net平台的免费反編譯工具。
+  - [dotPeek](https://zh.wikipedia.org/wiki/dotPeek "wikilink") -
+    .Net平台的免费反編譯工具。
 
 ### 编程语言\[3\]
 
@@ -88,23 +95,27 @@ Dmitriev、Eugene Belyaev及Valentin Kipiatkov。
 
 ### 团队工具\[5\]
 
-  - [TeamCity](../Page/TeamCity.md "wikilink") - 支持Java和 .Net 持續集成工具。
+  - [TeamCity](https://zh.wikipedia.org/wiki/TeamCity "wikilink") -
+    支持Java和 .Net 持續集成工具。
 
 <!-- end list -->
 
-  - [YouTrack](../Page/YouTrack.md "wikilink") - 一款項目跟踪和問題跟踪工具。
+  - [YouTrack](https://zh.wikipedia.org/wiki/YouTrack "wikilink") -
+    一款項目跟踪和問題跟踪工具。
 
 <!-- end list -->
 
-  - [YouTrack](../Page/YouTrack.md "wikilink") - 一款用于代码审查，团队协作项目分析的工具。
+  - [YouTrack](https://zh.wikipedia.org/wiki/YouTrack "wikilink") -
+    一款用于代码审查，团队协作项目分析的工具。
 
 <!-- end list -->
 
-  - [Hub](../Page/Hub.md "wikilink") - 一款将JetBrains的团队工具集成到一起的工具
+  - [Hub](https://zh.wikipedia.org/wiki/Hub "wikilink") -
+    一款将JetBrains的团队工具集成到一起的工具
 
 ### 其他
 
-  - [Omea](../Page/Omea.md "wikilink") -
+  - [Omea](https://zh.wikipedia.org/wiki/Omea "wikilink") -
     一套"個人資訊環境"軟體，可整合各種類型的資源，如電子信件、新聞訊息、網頁書籤、工作事項、聯絡人等，並讓這些資源以單一位置的方式來存取使用。
 
 ## 開發中的產品

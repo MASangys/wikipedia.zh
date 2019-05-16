@@ -5,82 +5,104 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
 
 ## 基本分支
 
-主要的大[分類群之建立](../Page/分類群.md "wikilink")，由於未有確定的證據，[目以上分類群多採用一般性的名稱](../Page/目.md "wikilink")
+主要的大[分類群之建立](https://zh.wikipedia.org/wiki/分類群 "wikilink")，由於未有確定的證據，[目以上分類群多採用一般性的名稱](https://zh.wikipedia.org/wiki/目 "wikilink")
 (非[學名](../Page/學名.md "wikilink"))作為暫時性的分類。基本分支如下：
 
   - **[被子植物](../Page/被子植物.md "wikilink")** **angiosperms :**
       -
-        '''[木兰分支](../Page/木兰分支.md "wikilink") ''' **magnoliids**
-        **[单子叶植物分支](../Page/单子叶植物分支.md "wikilink")** **monocots**
+        '''[木兰分支](https://zh.wikipedia.org/wiki/木兰分支 "wikilink") '''
+        **magnoliids**
+        **[单子叶植物分支](https://zh.wikipedia.org/wiki/单子叶植物分支 "wikilink")**
+        **monocots**
           -
-            **[鸭跖草分支](../Page/鸭跖草分支.md "wikilink")** **commelinids**
-        **[真双子叶植物分支](../Page/真双子叶植物分支.md "wikilink")** **eudicots**
+            **[鸭跖草分支](https://zh.wikipedia.org/wiki/鸭跖草分支 "wikilink")**
+            **commelinids**
+        **[真双子叶植物分支](https://zh.wikipedia.org/wiki/真双子叶植物分支 "wikilink")**
+        **eudicots**
           -
-            **[核心真双子叶植物分支](../Page/核心真双子叶植物分支.md "wikilink")** **core
-            eudicots**
+            **[核心真双子叶植物分支](https://zh.wikipedia.org/wiki/核心真双子叶植物分支 "wikilink")**
+            **core eudicots**
               -
-                **[蔷薇分支](../Page/蔷薇分支.md "wikilink")** **rosids**
+                **[蔷薇分支](https://zh.wikipedia.org/wiki/蔷薇分支 "wikilink")**
+                **rosids**
                   -
-                    **[I类真蔷薇分支](../Page/I类真蔷薇分支.md "wikilink")**
+                    **[I类真蔷薇分支](https://zh.wikipedia.org/wiki/I类真蔷薇分支 "wikilink")**
                     **eurosids I**
-                    **[II类真蔷薇分支](../Page/II类真蔷薇分支.md "wikilink")**
+                    **[II类真蔷薇分支](https://zh.wikipedia.org/wiki/II类真蔷薇分支 "wikilink")**
                     **eurosids II**
-                ''' [菊分支](../Page/菊分支.md "wikilink") ''' **asterids**
+                ''' [菊分支](https://zh.wikipedia.org/wiki/菊分支 "wikilink")
+                ''' **asterids**
                   -
-                    *' [I类真菊分支](../Page/I类真菊分支.md "wikilink")*'
+                    *'
+                    [I类真菊分支](https://zh.wikipedia.org/wiki/I类真菊分支 "wikilink")*'
                     **euasterids I**
-                    **[II类真菊分支](../Page/II类真菊分支.md "wikilink")**
+                    **[II类真菊分支](https://zh.wikipedia.org/wiki/II类真菊分支 "wikilink")**
                     **euasterids II**
 
 -----
 
 ## 分支
 
-  - **[被子植物分支](../Page/被子植物分支.md "wikilink")** **angiosperms**
+  - **[被子植物分支](https://zh.wikipedia.org/wiki/被子植物分支 "wikilink")**
+    **angiosperms**
       -
 
           -
-            [无油樟科](../Page/无油樟科.md "wikilink") *Amborellaceae*
+            [无油樟科](https://zh.wikipedia.org/wiki/无油樟科 "wikilink")
+            *Amborellaceae*
             [金粟兰科](../Page/金粟兰科.md "wikilink") *Chloranthaceae*
-            [睡莲科](../Page/睡莲科.md "wikilink") *Nymphaeaceae* +
-            [莼菜科](../Page/莼菜科.md "wikilink") *Cabombaceae*
+            [睡莲科](https://zh.wikipedia.org/wiki/睡莲科 "wikilink")
+            *Nymphaeaceae* +
+            [莼菜科](https://zh.wikipedia.org/wiki/莼菜科 "wikilink")
+            *Cabombaceae*
 
         <!-- end list -->
 
           -
             [木兰藤目](../Page/木兰藤目.md "wikilink") *Austrobaileyales*
               -
-                [木兰藤科](../Page/木兰藤科.md "wikilink") *Austrobaileyaceae*
+                [木兰藤科](https://zh.wikipedia.org/wiki/木兰藤科 "wikilink")
+                *Austrobaileyaceae*
                 [五味子科](../Page/五味子科.md "wikilink") *Schisandraceae* +
                 [八角茴香科](../Page/八角茴香科.md "wikilink") *Illiciaceae*
-                [腺齿木科](../Page/腺齿木科.md "wikilink") *Trimeniaceae*
+                [腺齿木科](https://zh.wikipedia.org/wiki/腺齿木科 "wikilink")
+                *Trimeniaceae*
 
-        ''' [木兰分支](../Page/木兰分支.md "wikilink") ''' **magnoliids**
+        ''' [木兰分支](https://zh.wikipedia.org/wiki/木兰分支 "wikilink") '''
+        **magnoliids**
 
           -
 
               -
-                [白桂皮目](../Page/白桂皮目.md "wikilink") *Canellales*
+                [白桂皮目](https://zh.wikipedia.org/wiki/白桂皮目 "wikilink")
+                *Canellales*
                   -
-                    [白桂皮科](../Page/白桂皮科.md "wikilink") *Canellaceae*
+                    [白桂皮科](https://zh.wikipedia.org/wiki/白桂皮科 "wikilink")
+                    *Canellaceae*
                     [林仙科](../Page/林仙科.md "wikilink") *Winteraceae*
                 [樟目](../Page/樟目.md "wikilink") *Laurales*
                   -
-                    [香皮茶科](../Page/香皮茶科.md "wikilink")
+                    [香皮茶科](https://zh.wikipedia.org/wiki/香皮茶科 "wikilink")
                     *Atherospermataceae*
-                    [腊梅科](../Page/腊梅科.md "wikilink") *Calycanthaceae*
-                    [腺蕊花科](../Page/腺蕊花科.md "wikilink") *Gomortegaceae*
-                    [莲叶桐科](../Page/莲叶桐科.md "wikilink") *Hernandiaceae*
+                    [腊梅科](https://zh.wikipedia.org/wiki/腊梅科 "wikilink")
+                    *Calycanthaceae*
+                    [腺蕊花科](https://zh.wikipedia.org/wiki/腺蕊花科 "wikilink")
+                    *Gomortegaceae*
+                    [莲叶桐科](https://zh.wikipedia.org/wiki/莲叶桐科 "wikilink")
+                    *Hernandiaceae*
                     [樟科](../Page/樟科.md "wikilink") *Lauraceae*
-                    [杯轴花科](../Page/杯轴花科.md "wikilink") *Monimiaceae*
+                    [杯轴花科](https://zh.wikipedia.org/wiki/杯轴花科 "wikilink")
+                    *Monimiaceae*
                     [坛罐花科](../Page/坛罐花科.md "wikilink") *Siparunaceae*
                 [木兰目](../Page/木兰目.md "wikilink") *Magnoliales*
                   -
                     [番荔枝科](../Page/番荔枝科.md "wikilink") *Annonaceae*
-                    [单室木兰科](../Page/单室木兰科.md "wikilink") *Degeneriaceae*
-                    [帽花木科](../Page/帽花木科.md "wikilink") *Eupomatiaceae*
-                    [舌蕊花科](../Page/舌蕊花科.md "wikilink") ''
-                    Himantandraceae''
+                    [单室木兰科](https://zh.wikipedia.org/wiki/单室木兰科 "wikilink")
+                    *Degeneriaceae*
+                    [帽花木科](https://zh.wikipedia.org/wiki/帽花木科 "wikilink")
+                    *Eupomatiaceae*
+                    [舌蕊花科](https://zh.wikipedia.org/wiki/舌蕊花科 "wikilink")
+                    '' Himantandraceae''
                     [木兰科](../Page/木兰科.md "wikilink") '' Magnoliaceae''
                     [肉豆蔻科](../Page/肉豆蔻科.md "wikilink") ''
                     Myristicaceae''
@@ -88,12 +110,15 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                   -
                     [馬兜鈴科](../Page/馬兜鈴科.md "wikilink")
                     *Aristolochiaceae*
-                    [菌花科](../Page/菌花科.md "wikilink") *Hydnoraceae*
-                    [短蕊花科](../Page/短蕊花科.md "wikilink") *Lactoridaceae*
+                    [菌花科](https://zh.wikipedia.org/wiki/菌花科 "wikilink")
+                    *Hydnoraceae*
+                    [短蕊花科](https://zh.wikipedia.org/wiki/短蕊花科 "wikilink")
+                    *Lactoridaceae*
                     [胡椒科](../Page/胡椒科.md "wikilink") *Piperaceae*
                     [三白草科](../Page/三白草科.md "wikilink") *Saururaceae*
 
-        ''' [单子叶植物分支](../Page/单子叶植物分支.md "wikilink") ''' **monocots**
+        ''' [单子叶植物分支](https://zh.wikipedia.org/wiki/单子叶植物分支 "wikilink")
+        ''' **monocots**
 
           -
 
@@ -103,10 +128,13 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
             <!-- end list -->
 
               -
-                [菖蒲目](../Page/菖蒲目.md "wikilink") *Acorales*
+                [菖蒲目](https://zh.wikipedia.org/wiki/菖蒲目 "wikilink")
+                *Acorales*
                   -
-                    [菖蒲科](../Page/菖蒲科.md "wikilink") *Acoraceae*
-                [泽泻目](../Page/泽泻目.md "wikilink") *Alismatales*
+                    [菖蒲科](https://zh.wikipedia.org/wiki/菖蒲科 "wikilink")
+                    *Acoraceae*
+                [泽泻目](https://zh.wikipedia.org/wiki/泽泻目 "wikilink")
+                *Alismatales*
                   -
                     [泽泻科](../Page/泽泻科.md "wikilink") '' Alismataceae''
                     [水蕹科](../Page/水蕹科.md "wikilink") *Aponogetonaceae*
@@ -117,57 +145,70 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                     [水麦冬科](../Page/水麦冬科.md "wikilink") *Juncaginaceae*
                     [黄花绒叶草科](../Page/黄花绒叶草科.md "wikilink")
                     *Limnocharitaceae*
-                    [波喜荡草科](../Page/波喜荡草科.md "wikilink") *Posidoniaceae*
+                    [波喜荡草科](https://zh.wikipedia.org/wiki/波喜荡草科 "wikilink")
+                    *Posidoniaceae*
                     [眼子菜科](../Page/眼子菜科.md "wikilink")
                     *Potamogetonaceae*
-                    [川蔓藻科](../Page/川蔓藻科.md "wikilink") *Ruppiaceae*
+                    [川蔓藻科](https://zh.wikipedia.org/wiki/川蔓藻科 "wikilink")
+                    *Ruppiaceae*
                     [芝菜科](../Page/芝菜科.md "wikilink") *Scheuchzeriaceae*
                     [岩菖蒲科](../Page/岩菖蒲科.md "wikilink") *Tofieldiaceae*
                     [大叶藻科](../Page/大叶藻科.md "wikilink") *Zosteraceae*
                 [天門冬目](../Page/天門冬目.md "wikilink") *Asparagales*
                   -
-                    [葱科](../Page/葱科.md "wikilink")*Alliaceae*
+                    [葱科](https://zh.wikipedia.org/wiki/葱科 "wikilink")*Alliaceae*
 
-            \+ [百子莲科](../Page/百子莲科.md "wikilink")*Agapanthaceae* +
-            [石蒜科](../Page/石蒜科.md "wikilink") *Amaryllidaceae*
+            \+
+            [百子莲科](https://zh.wikipedia.org/wiki/百子莲科 "wikilink")*Agapanthaceae*
+            + [石蒜科](../Page/石蒜科.md "wikilink") *Amaryllidaceae*
 
               -
 
                   -
-                    [天门冬科](../Page/天门冬科.md "wikilink") *Asparagaceae*
+                    [天门冬科](https://zh.wikipedia.org/wiki/天门冬科 "wikilink")
+                    *Asparagaceae*
 
-            \+ [龙舌兰科](../Page/龙舌兰科.md "wikilink")*Agavaceae* +
-            [星捧月科](../Page/星捧月科.md "wikilink")*Aphyllanthaceae*
-            + [西丽草科](../Page/西丽草科.md "wikilink")*Hesperocallidaceae* +
-            [风信子科](../Page/风信子科.md "wikilink")*Hyacinthaceae* +
-            [异蕊草科](../Page/异蕊草科.md "wikilink")*Laxmanniaceae* +
-            [假叶树科](../Page/假叶树科.md "wikilink")*Ruscaceae* +
-            [紫灯花科](../Page/紫灯花科.md "wikilink")*Themidaceae*
+            \+
+            [龙舌兰科](https://zh.wikipedia.org/wiki/龙舌兰科 "wikilink")*Agavaceae*
+            + [星捧月科](../Page/星捧月科.md "wikilink")*Aphyllanthaceae* +
+            [西丽草科](../Page/西丽草科.md "wikilink")*Hesperocallidaceae*
+            +
+            [风信子科](https://zh.wikipedia.org/wiki/风信子科 "wikilink")*Hyacinthaceae*
+            + [异蕊草科](../Page/异蕊草科.md "wikilink")*Laxmanniaceae* +
+            [假叶树科](https://zh.wikipedia.org/wiki/假叶树科 "wikilink")*Ruscaceae*
+            + [紫灯花科](../Page/紫灯花科.md "wikilink")*Themidaceae*
 
               -
 
                   -
                     [芳香草科](../Page/芳香草科.md "wikilink") *Asteliaceae*
                     [香水花科](../Page/香水花科.md "wikilink") *Blandfordiaceae*
-                    [澳韭兰科](../Page/澳韭兰科.md "wikilink") *Boryaceae*
+                    [澳韭兰科](https://zh.wikipedia.org/wiki/澳韭兰科 "wikilink")
+                    *Boryaceae*
                     [矛花科](../Page/矛花科.md "wikilink") *Doryanthaceae*
                     [仙茅科](../Page/仙茅科.md "wikilink") *Hypoxidaceae*
                     [鸢尾科](../Page/鸢尾科.md "wikilink") *Iridaceae*
                     [鸢尾蒜科](../Page/鸢尾蒜科.md "wikilink") *Ixioliriaceae*
-                    [毛石蒜科](../Page/毛石蒜科.md "wikilink") *Lanariaceae*
-                    [兰科](../Page/兰科.md "wikilink") *Orchidaceae*
+                    [毛石蒜科](https://zh.wikipedia.org/wiki/毛石蒜科 "wikilink")
+                    *Lanariaceae*
+                    [兰科](https://zh.wikipedia.org/wiki/兰科 "wikilink")
+                    *Orchidaceae*
                     [蓝星科](../Page/蓝星科.md "wikilink") *Tecophilaeaceae*
-                    [刺叶树科](../Page/刺叶树科.md "wikilink")*Xanthorrhoeaceae*
+                    [刺叶树科](https://zh.wikipedia.org/wiki/刺叶树科 "wikilink")*Xanthorrhoeaceae*
 
-            \+ [独尾草科](../Page/独尾草科.md "wikilink")*Asphodelaceae* +
-            [萱草科](../Page/萱草科.md "wikilink")*Hemerocallidaceae*
+            \+
+            [独尾草科](https://zh.wikipedia.org/wiki/独尾草科 "wikilink")*Asphodelaceae*
+            +
+            [萱草科](https://zh.wikipedia.org/wiki/萱草科 "wikilink")*Hemerocallidaceae*
 
               -
 
                   -
-                    [血剑草科](../Page/血剑草科.md "wikilink") *Xeronemataceae*
+                    [血剑草科](https://zh.wikipedia.org/wiki/血剑草科 "wikilink")
+                    *Xeronemataceae*
 
-                [薯蕷目](../Page/薯蕷目.md "wikilink") *Dioscoreales*
+                [薯蕷目](https://zh.wikipedia.org/wiki/薯蕷目 "wikilink")
+                *Dioscoreales*
 
                   -
                     [水玉簪科](../Page/水玉簪科.md "wikilink") *Burmanniaceae*
@@ -179,17 +220,20 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                   -
                     [六出花科](../Page/六出花科.md "wikilink")
                     *Alstroemeriaceae*
-                    [金梅草科](../Page/金梅草科.md "wikilink") *Campynemataceae*
+                    [金梅草科](https://zh.wikipedia.org/wiki/金梅草科 "wikilink")
+                    *Campynemataceae*
                     [秋水仙科](../Page/秋水仙科.md "wikilink") *Colchicaceae*
                     [白玉簪科](../Page/白玉簪科.md "wikilink") *Corsiaceae*
                     [百合科](../Page/百合科.md "wikilink") *Liliaceae*
-                    [菝葜木科](../Page/菝葜木科.md "wikilink") *Luzuriagaceae*
+                    [菝葜木科](https://zh.wikipedia.org/wiki/菝葜木科 "wikilink")
+                    *Luzuriagaceae*
                     [黑药花科](../Page/黑药花科.md "wikilink") *Melanthiaceae*
                     [垂花科](../Page/垂花科.md "wikilink") *Philesiaceae*
                     [菝葜藤科](../Page/菝葜藤科.md "wikilink") *Rhipogonaceae*
                     [菝葜科](../Page/菝葜科.md "wikilink") *Smilacaceae*
 
-                [露兜树目](../Page/露兜树目.md "wikilink") *Pandanales*
+                [露兜树目](https://zh.wikipedia.org/wiki/露兜树目 "wikilink")
+                *Pandanales*
 
                   -
                     [环花草科](../Page/环花草科.md "wikilink") *Cyclanthaceae*
@@ -198,20 +242,25 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                     [霉草科](../Page/霉草科.md "wikilink") *Triuridaceae*
                     [翡若翠科](../Page/翡若翠科.md "wikilink") *Velloziaceae*
 
-            ''' [鸭跖草分支](../Page/鸭跖草分支.md "wikilink") ''' **commelinids**
+            ''' [鸭跖草分支](https://zh.wikipedia.org/wiki/鸭跖草分支 "wikilink")
+            ''' **commelinids**
 
               -
 
                   -
-                    [多须草科](../Page/多须草科.md "wikilink") *Dasypogonaceae*
+                    [多须草科](https://zh.wikipedia.org/wiki/多须草科 "wikilink")
+                    *Dasypogonaceae*
 
                 <!-- end list -->
 
                   -
-                    [槟榔目](../Page/槟榔目.md "wikilink") *Arecales*
+                    [槟榔目](https://zh.wikipedia.org/wiki/槟榔目 "wikilink")
+                    *Arecales*
                       -
-                        [槟榔科](../Page/槟榔科.md "wikilink") *Arecaceae*
-                    [鸭跖草目](../Page/鸭跖草目.md "wikilink") *Commelinales*
+                        [槟榔科](https://zh.wikipedia.org/wiki/槟榔科 "wikilink")
+                        *Arecaceae*
+                    [鸭跖草目](https://zh.wikipedia.org/wiki/鸭跖草目 "wikilink")
+                    *Commelinales*
                       -
                         [鸭跖草科](../Page/鸭跖草科.md "wikilink")
                         *Commelinaceae*
@@ -224,52 +273,62 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                         *Pontederiaceae*
                     [禾本目](../Page/禾本目.md "wikilink") *Poales*
                       -
-                        [苞穗草科](../Page/苞穗草科.md "wikilink")
+                        [苞穗草科](https://zh.wikipedia.org/wiki/苞穗草科 "wikilink")
                         *Anarthriaceae*
                         [凤梨科](../Page/凤梨科.md "wikilink") *Bromeliaceae*
                         [刺鳞草科](../Page/刺鳞草科.md "wikilink")
                         *Centrolepidaceae*
                         [莎草科](../Page/莎草科.md "wikilink") *Cyperaceae*
-                        [二柱草科](../Page/二柱草科.md "wikilink")
+                        [二柱草科](https://zh.wikipedia.org/wiki/二柱草科 "wikilink")
                         *Ecdeiocoleaceae*
                         [谷精草科](../Page/谷精草科.md "wikilink")
                         *Eriocaulaceae*
-                        [须叶藤科](../Page/须叶藤科.md "wikilink")
+                        [须叶藤科](https://zh.wikipedia.org/wiki/须叶藤科 "wikilink")
                         *Flagellariaceae*
                         [独蕊草科](../Page/独蕊草科.md "wikilink")
                         *Hydatellaceae*
-                        [拟苇科](../Page/拟苇科.md "wikilink")
+                        [拟苇科](https://zh.wikipedia.org/wiki/拟苇科 "wikilink")
                         *Joinvilleaceae*
                         [灯心草科](../Page/灯心草科.md "wikilink") *Juncaceae*
-                        [苔草科](../Page/苔草科.md "wikilink") *Mayacaceae*
+                        [苔草科](https://zh.wikipedia.org/wiki/苔草科 "wikilink")
+                        *Mayacaceae*
                         [禾本科](../Page/禾本科.md "wikilink") *Poaceae*
                         [偏穗草科](../Page/偏穗草科.md "wikilink") *Rapateaceae*
                         [帚灯草科](../Page/帚灯草科.md "wikilink")
                         *Restionaceae*
-                        [黑三棱科](../Page/黑三棱科.md "wikilink")
+                        [黑三棱科](https://zh.wikipedia.org/wiki/黑三棱科 "wikilink")
                         *Sparganiaceae*
-                        [梭子草科](../Page/梭子草科.md "wikilink") *Thurniaceae*
+                        [梭子草科](https://zh.wikipedia.org/wiki/梭子草科 "wikilink")
+                        *Thurniaceae*
                         [香蒲科](../Page/香蒲科.md "wikilink") *Typhaceae*
                         [黄眼草科](../Page/黄眼草科.md "wikilink") *Xyridaceae*
-                    [姜目](../Page/姜目.md "wikilink") *Zingiberales*
+                    [姜目](https://zh.wikipedia.org/wiki/姜目 "wikilink")
+                    *Zingiberales*
                       -
-                        [美人蕉科](../Page/美人蕉科.md "wikilink") *Cannaceae*
-                        [闭鞘姜科](../Page/闭鞘姜科.md "wikilink") *Costaceae*
-                        [蝎尾蕉科](../Page/蝎尾蕉科.md "wikilink")
+                        [美人蕉科](https://zh.wikipedia.org/wiki/美人蕉科 "wikilink")
+                        *Cannaceae*
+                        [闭鞘姜科](https://zh.wikipedia.org/wiki/闭鞘姜科 "wikilink")
+                        *Costaceae*
+                        [蝎尾蕉科](https://zh.wikipedia.org/wiki/蝎尾蕉科 "wikilink")
                         *Heliconiaceae*
-                        [兰花蕉科](../Page/兰花蕉科.md "wikilink") *Lowiaceae*
+                        [兰花蕉科](https://zh.wikipedia.org/wiki/兰花蕉科 "wikilink")
+                        *Lowiaceae*
                         [竹芋科](../Page/竹芋科.md "wikilink") *Marantaceae*
                         [芭蕉科](../Page/芭蕉科.md "wikilink") *Musaceae*
-                        [鹤望兰科](../Page/鹤望兰科.md "wikilink")
+                        [鹤望兰科](https://zh.wikipedia.org/wiki/鹤望兰科 "wikilink")
                         *Strelitziaceae*
-                        [姜科](../Page/姜科.md "wikilink") *Zingiberaceae*
+                        [姜科](https://zh.wikipedia.org/wiki/姜科 "wikilink")
+                        *Zingiberaceae*
 
         [金鱼藻目](../Page/金鱼藻目.md "wikilink") *Ceratophyllales*
 
           -
-            [金鱼藻科](../Page/金鱼藻科.md "wikilink") *Ceratophyllaceae*
+            [金鱼藻科](https://zh.wikipedia.org/wiki/金鱼藻科 "wikilink")
+            *Ceratophyllaceae*
 
-        ''' [真双子叶植物分支](../Page/真双子叶植物分支.md "wikilink") ''' **eudicots**
+        '''
+        [真双子叶植物分支](https://zh.wikipedia.org/wiki/真双子叶植物分支 "wikilink")
+        ''' **eudicots**
 
           -
 
@@ -280,7 +339,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                 [清风藤科](../Page/清风藤科.md "wikilink") *Sabiaceae*
                 [昆栏树科](../Page/昆栏树科.md "wikilink")*Trochodendraceae*
 
-            \+ [水青树科](../Page/水青树科.md "wikilink")*Tetracentraceae*
+            \+
+            [水青树科](https://zh.wikipedia.org/wiki/水青树科 "wikilink")*Tetracentraceae*
 
               -
                 [山龙眼目](../Page/山龙眼目.md "wikilink") *Proteales*
@@ -290,7 +350,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                         [莲科](../Page/莲科.md "wikilink") *Nelumbonaceae*
                         [悬铃木科](../Page/悬铃木科.md "wikilink") *Platanaceae*
                         [山龙眼科](../Page/山龙眼科.md "wikilink") *Proteaceae*
-                [毛茛目](../Page/毛茛目.md "wikilink") *Ranunculales*
+                [毛茛目](https://zh.wikipedia.org/wiki/毛茛目 "wikilink")
+                *Ranunculales*
                   -
 
                       -
@@ -308,33 +369,40 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                         [防己科](../Page/防己科.md "wikilink")
                         *Menispermaceae*
                         [罂粟科](../Page/罂粟科.md "wikilink") *Papaveraceae*
-                \+ [荷包牡丹科](../Page/荷包牡丹科.md "wikilink") *Fumariaceae*+
-                [蕨叶草科](../Page/蕨叶草科.md "wikilink") *Pteridophyllaceae*
+                \+
+                [荷包牡丹科](https://zh.wikipedia.org/wiki/荷包牡丹科 "wikilink")
+                *Fumariaceae*+
+                [蕨叶草科](https://zh.wikipedia.org/wiki/蕨叶草科 "wikilink")
+                *Pteridophyllaceae*
                   -
 
                       -
                         [毛茛科](../Page/毛茛科.md "wikilink") *Ranunculaceae*
 
-            ''' [核心真双子叶植物分支](../Page/核心真双子叶植物分支.md "wikilink") '''
-            **core eudicots**
+            '''
+            [核心真双子叶植物分支](https://zh.wikipedia.org/wiki/核心真双子叶植物分支 "wikilink")
+            ''' **core eudicots**
 
               -
 
                   -
-                    [鳞枝树科](../Page/鳞枝树科.md "wikilink") *Aextoxicaceae*
-                    [智利藤科](../Page/智利藤科.md "wikilink")
+                    [鳞枝树科](https://zh.wikipedia.org/wiki/鳞枝树科 "wikilink")
+                    *Aextoxicaceae*
+                    [智利藤科](https://zh.wikipedia.org/wiki/智利藤科 "wikilink")
                     *Berberidopsidaceae*
                     [五桠果科](../Page/五桠果科.md "wikilink") *Dilleniaceae*
 
                 <!-- end list -->
 
                   -
-                    [洋二仙草目](../Page/洋二仙草目.md "wikilink") *Gunnerales*
+                    [洋二仙草目](https://zh.wikipedia.org/wiki/洋二仙草目 "wikilink")
+                    *Gunnerales*
                       -
-                        [洋二仙草科](../Page/洋二仙草科.md "wikilink")
+                        [洋二仙草科](https://zh.wikipedia.org/wiki/洋二仙草科 "wikilink")
                         *Gunneraceae*
 
-                \+ [香灌木科](../Page/香灌木科.md "wikilink") *Myrothamnaceae*
+                \+ [香灌木科](https://zh.wikipedia.org/wiki/香灌木科 "wikilink")
+                *Myrothamnaceae*
 
                   -
                     [石竹目](../Page/石竹目.md "wikilink") *Caryophyllales*
@@ -344,17 +412,17 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [玛瑙果科](../Page/玛瑙果科.md "wikilink")
                             *Achatocarpaceae*
                             [番杏科](../Page/番杏科.md "wikilink") *Aizoaceae*
-                            [苋科](../Page/苋科.md "wikilink")
+                            [苋科](https://zh.wikipedia.org/wiki/苋科 "wikilink")
                             *Amaranthaceae*
                             [钩枝藤科](../Page/钩枝藤科.md "wikilink")
                             *Ancistrocladaceae*
                             [翼萼茶科](../Page/翼萼茶科.md "wikilink")
                             *Asteropeiaceae*
-                            [节柄科](../Page/节柄科.md "wikilink")
+                            [节柄科](https://zh.wikipedia.org/wiki/节柄科 "wikilink")
                             *Barbeuiaceae*
                             [落葵科](../Page/落葵科.md "wikilink")
                             *Basellaceae*
-                            [仙人掌科](../Page/仙人掌科.md "wikilink")
+                            [仙人掌科](https://zh.wikipedia.org/wiki/仙人掌科 "wikilink")
                             *Cactaceae*
                             [石竹科](../Page/石竹科.md "wikilink")
                             *Caryophyllaceae*
@@ -362,23 +430,23 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Didiereaceae*
                             [双钩叶科](../Page/双钩叶科.md "wikilink")
                             *Dioncophyllaceae*
-                            [茅膏菜科](../Page/茅膏菜科.md "wikilink")
+                            [茅膏菜科](https://zh.wikipedia.org/wiki/茅膏菜科 "wikilink")
                             *Droseraceae*
                             [露叶毛毡苔科](../Page/露叶毛毡苔科.md "wikilink")
                             *Drosophyllaceae*
                             [瓣鳞花科](../Page/瓣鳞花科.md "wikilink")
                             *Frankeniaceae*
-                            [吉粟草科](../Page/吉粟草科.md "wikilink")
+                            [吉粟草科](https://zh.wikipedia.org/wiki/吉粟草科 "wikilink")
                             *Gisekiaceae*
-                            [浜藜叶科](../Page/浜藜叶科.md "wikilink")
+                            [浜藜叶科](https://zh.wikipedia.org/wiki/浜藜叶科 "wikilink")
                             *Halophytaceae*
                             [粟米草科](../Page/粟米草科.md "wikilink")
                             *Molluginaceae*
-                            [猪笼草科](../Page/猪笼草科.md "wikilink")
+                            [猪笼草科](https://zh.wikipedia.org/wiki/猪笼草科 "wikilink")
                             *Nepenthaceae*
                             [紫茉莉科](../Page/紫茉莉科.md "wikilink")
                             *Nyctaginaceae*
-                            [非洲桐科](../Page/非洲桐科.md "wikilink")
+                            [非洲桐科](https://zh.wikipedia.org/wiki/非洲桐科 "wikilink")
                             *Physenaceae*
                             [商陆科](../Page/商陆科.md "wikilink")
                             *Phytolaccaceae*
@@ -388,7 +456,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Polygonaceae*
                             [马齿苋科](../Page/马齿苋科.md "wikilink")
                             *Portulacaceae*
-                            [棒木科](../Page/棒木科.md "wikilink")
+                            [棒木科](https://zh.wikipedia.org/wiki/棒木科 "wikilink")
                             *Rhabdodendraceae*
                             [肉叶刺茎藜科](../Page/肉叶刺茎藜科.md "wikilink")
                             *Sarcobataceae*
@@ -398,7 +466,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Stegnospermataceae*
                             [柽柳科](../Page/柽柳科.md "wikilink")
                             *Tamaricaceae*
-                    [檀香目](../Page/檀香目.md "wikilink") *Santalales*
+                    [檀香目](https://zh.wikipedia.org/wiki/檀香目 "wikilink")
+                    *Santalales*
                       -
 
                           -
@@ -408,7 +477,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Opiliaceae*
                             [桑寄生科](../Page/桑寄生科.md "wikilink")
                             *Loranthaceae*
-                            [羽毛果科](../Page/羽毛果科.md "wikilink")
+                            [羽毛果科](https://zh.wikipedia.org/wiki/羽毛果科 "wikilink")
                             *Misodendraceae*
                             [檀香科](../Page/檀香科.md "wikilink")
                             *Santalaceae*
@@ -416,9 +485,9 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                       -
 
                           -
-                            [枫香科](../Page/枫香科.md "wikilink")
+                            [枫香科](https://zh.wikipedia.org/wiki/枫香科 "wikilink")
                             *Altingiaceae*
-                            [胶藤科](../Page/胶藤科.md "wikilink")
+                            [胶藤科](https://zh.wikipedia.org/wiki/胶藤科 "wikilink")
                             *Aphanopetalaceae*
                             [连香树科](../Page/连香树科.md "wikilink")
                             *Cercidiphyllaceae*
@@ -430,26 +499,31 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Grossulariaceae*
                             [小二仙草科](../Page/小二仙草科.md "wikilink")
                             *Haloragaceae*
-                    \+ [扯根菜科](../Page/扯根菜科.md "wikilink") *Penthoraceae*
-                    + [四果木科](../Page/四果木科.md "wikilink")
+                    \+
+                    [扯根菜科](https://zh.wikipedia.org/wiki/扯根菜科 "wikilink")
+                    *Penthoraceae* + [四果木科](../Page/四果木科.md "wikilink")
                     *Tetracarpaeaceae*
                       -
 
                           -
-                            [金缕梅科](../Page/金缕梅科.md "wikilink")
+                            [金缕梅科](https://zh.wikipedia.org/wiki/金缕梅科 "wikilink")
                             *Hamamelidaceae*
-                            [鼠刺科](../Page/鼠刺科.md "wikilink") *Iteaceae*
-                    \+ [齿蕊科](../Page/齿蕊科.md "wikilink")
+                            [鼠刺科](https://zh.wikipedia.org/wiki/鼠刺科 "wikilink")
+                            *Iteaceae*
+                    \+
+                    [齿蕊科](https://zh.wikipedia.org/wiki/齿蕊科 "wikilink")
                     *Pterostemonaceae*
                       -
 
                           -
-                            [芍药科](../Page/芍药科.md "wikilink")
+                            [芍药科](https://zh.wikipedia.org/wiki/芍药科 "wikilink")
                             *Paeoniaceae*
                             [虎耳草科](../Page/虎耳草科.md "wikilink")
                             *Saxifragaceae*
 
-                ''' [蔷薇分支](../Page/蔷薇分支.md "wikilink") ''' **rosids**
+                '''
+                [蔷薇分支](https://zh.wikipedia.org/wiki/蔷薇分支 "wikilink")
+                ''' **rosids**
 
                   -
 
@@ -457,24 +531,26 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                         [单果树科](../Page/单果树科.md "wikilink") *Aphloiaceae*
                         [四棱果科](../Page/四棱果科.md "wikilink")
                         *Geissolomataceae*
-                        [西兰木科](../Page/西兰木科.md "wikilink") *Ixerbaceae*
+                        [西兰木科](https://zh.wikipedia.org/wiki/西兰木科 "wikilink")
+                        *Ixerbaceae*
                         [美洲苦木科](../Page/美洲苦木科.md "wikilink")
                         *Picramniaceae*
                         [栓皮果科](../Page/栓皮果科.md "wikilink")
                         *Strasburgeriaceae*
-                        [葡萄科](../Page/葡萄科.md "wikilink") *Vitaceae*
+                        [葡萄科](https://zh.wikipedia.org/wiki/葡萄科 "wikilink")
+                        *Vitaceae*
 
                     <!-- end list -->
 
                       -
-                        [燧体木目](../Page/燧体木目.md "wikilink")
+                        [燧体木目](https://zh.wikipedia.org/wiki/燧体木目 "wikilink")
                         *Crossosomatales*
                           -
-                            [燧体木科](../Page/燧体木科.md "wikilink")
+                            [燧体木科](https://zh.wikipedia.org/wiki/燧体木科 "wikilink")
                             *Crossosomataceae*
                             [旌节花科](../Page/旌节花科.md "wikilink")
                             *Stachyuraceae*
-                            [省沽油科](../Page/省沽油科.md "wikilink")
+                            [省沽油科](https://zh.wikipedia.org/wiki/省沽油科 "wikilink")
                             *Staphyleaceae*
                         [牻牛儿苗目](../Page/牻牛儿苗目.md "wikilink")
                         *Geraniales*
@@ -482,35 +558,38 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [牻牛儿苗科](../Page/牻牛儿苗科.md "wikilink")
                             *Geraniaceae*
 
-                    \+ [高柱花科](../Page/高柱花科.md "wikilink")
+                    \+
+                    [高柱花科](https://zh.wikipedia.org/wiki/高柱花科 "wikilink")
                     *Hypseocharitaceae*
 
                       -
 
                           -
-                            [杜香果科](../Page/杜香果科.md "wikilink")
+                            [杜香果科](https://zh.wikipedia.org/wiki/杜香果科 "wikilink")
                             *Ledocarpaceae*
                             [蜜花科](../Page/蜜花科.md "wikilink")
                             *Melianthaceae*
 
-                    \+ [花茎草科](../Page/花茎草科.md "wikilink") *Francoaceae*
+                    \+
+                    [花茎草科](https://zh.wikipedia.org/wiki/花茎草科 "wikilink")
+                    *Francoaceae*
 
                       -
 
                           -
-                            [曲胚科](../Page/曲胚科.md "wikilink")
+                            [曲胚科](https://zh.wikipedia.org/wiki/曲胚科 "wikilink")
                             *Vivianiaceae*
 
                         [桃金娘目](../Page/桃金娘目.md "wikilink") *Myrtales*
 
                           -
-                            [双翼果科](../Page/双翼果科.md "wikilink")
+                            [双翼果科](https://zh.wikipedia.org/wiki/双翼果科 "wikilink")
                             *Alzateaceae*
                             [使君子科](../Page/使君子科.md "wikilink")
                             *Combretaceae*
                             [隐翼科](../Page/隐翼科.md "wikilink")
                             *Crypteroniaceae*
-                            [异裂果科](../Page/异裂果科.md "wikilink")
+                            [异裂果科](https://zh.wikipedia.org/wiki/异裂果科 "wikilink")
                             *Heteropyxidaceae*
                             [千屈菜科](../Page/千屈菜科.md "wikilink")
                             *Lythraceae*
@@ -522,22 +601,22 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                       -
 
                           -
-                            [桃金娘科](../Page/桃金娘科.md "wikilink")
+                            [桃金娘科](https://zh.wikipedia.org/wiki/桃金娘科 "wikilink")
                             *Myrtaceae*
-                            [方枝树科](../Page/方枝树科.md "wikilink")
+                            [方枝树科](https://zh.wikipedia.org/wiki/方枝树科 "wikilink")
                             *Oliniaceae*
-                            [柳叶菜科](../Page/柳叶菜科.md "wikilink")
+                            [柳叶菜科](https://zh.wikipedia.org/wiki/柳叶菜科 "wikilink")
                             *Onagraceae*
                             [管萼科](../Page/管萼科.md "wikilink")
                             *Penaeaceae*
-                            [裸木科](../Page/裸木科.md "wikilink")
+                            [裸木科](https://zh.wikipedia.org/wiki/裸木科 "wikilink")
                             *Psiloxylaceae*
                             [喙萼花科](../Page/喙萼花科.md "wikilink")
                             *Rhynchocalycaceae*
                             [蜡烛树科](../Page/蜡烛树科.md "wikilink")
                             *Vochysiaceae*
 
-                    **[I类真蔷薇分支](../Page/I类真蔷薇分支.md "wikilink")**
+                    **[I类真蔷薇分支](https://zh.wikipedia.org/wiki/I类真蔷薇分支 "wikilink")**
                     **eurosids I**
 
                       -
@@ -545,24 +624,25 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                           -
                             [蒺藜科](../Page/蒺藜科.md "wikilink")*Zygophyllaceae*
 
-                    \+[刺球果科](../Page/刺球果科.md "wikilink")*Krameriaceae*
+                    \+[刺球果科](https://zh.wikipedia.org/wiki/刺球果科 "wikilink")*Krameriaceae*
 
                       -
 
                           -
-                            [蒜树科](../Page/蒜树科.md "wikilink") *Huaceae*
+                            [蒜树科](https://zh.wikipedia.org/wiki/蒜树科 "wikilink")
+                            *Huaceae*
 
                         <!-- end list -->
 
                           -
-                            [卫矛目](../Page/卫矛目.md "wikilink")
+                            [卫矛目](https://zh.wikipedia.org/wiki/卫矛目 "wikilink")
                             *Celastrales*
                               -
                                 [卫矛科](../Page/卫矛科.md "wikilink")
                                 *Celastraceae*
                                 [洋酢浆草科](../Page/洋酢浆草科.md "wikilink")
                                 *Lepidobotryaceae*
-                                [梅花草科](../Page/梅花草科.md "wikilink")
+                                [梅花草科](https://zh.wikipedia.org/wiki/梅花草科 "wikilink")
                                 *Parnassiaceae*
 
                     \+
@@ -588,33 +668,34 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Datiscaceae*
                                 [四数木科](../Page/四数木科.md "wikilink")
                                 *Tetramelaceae*
-                            [豆目](../Page/豆目.md "wikilink") *Fabales*
+                            [豆目](https://zh.wikipedia.org/wiki/豆目 "wikilink")
+                            *Fabales*
                               -
                                 [豆科](../Page/豆科.md "wikilink")
                                 *Fabaceae*
                                 [远志科](../Page/远志科.md "wikilink")
                                 *Polygalaceae*
-                                [皂皮树科](../Page/皂皮树科.md "wikilink")
+                                [皂皮树科](https://zh.wikipedia.org/wiki/皂皮树科 "wikilink")
                                 *Quillajaceae*
-                                [海人树科](../Page/海人树科.md "wikilink")
+                                [海人树科](https://zh.wikipedia.org/wiki/海人树科 "wikilink")
                                 *Surianaceae*
                             [壳斗目](../Page/壳斗目.md "wikilink") *Fagales*
                               -
-                                [桦木科](../Page/桦木科.md "wikilink")
+                                [桦木科](https://zh.wikipedia.org/wiki/桦木科 "wikilink")
                                 *Betulaceae*
-                                [木麻黄科](../Page/木麻黄科.md "wikilink")
+                                [木麻黄科](https://zh.wikipedia.org/wiki/木麻黄科 "wikilink")
                                 *Casuarinaceae*
                                 [山毛榉科](../Page/山毛榉科.md "wikilink")
                                 *Fagaceae*
                                 [胡桃科](../Page/胡桃科.md "wikilink")
                                 *Juglandaceae*
-                                [杨梅科](../Page/杨梅科.md "wikilink")
+                                [杨梅科](https://zh.wikipedia.org/wiki/杨梅科 "wikilink")
                                 *Myricaceae*
                                 [南青冈科](../Page/南青冈科.md "wikilink")
                                 *Nothofagaceae*
-                                [马尾树科](../Page/马尾树科.md "wikilink")
+                                [马尾树科](https://zh.wikipedia.org/wiki/马尾树科 "wikilink")
                                 *Rhoipteleaceae*
-                                [太果木科](../Page/太果木科.md "wikilink")
+                                [太果木科](https://zh.wikipedia.org/wiki/太果木科 "wikilink")
                                 *Ticodendraceae*
                             [金虎尾目](../Page/金虎尾目.md "wikilink")
                             *Malpighiales*
@@ -623,7 +704,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Achariaceae*
                                 [槲树果科](../Page/槲树果科.md "wikilink")
                                 *Balanopaceae*
-                                [多子科](../Page/多子科.md "wikilink")
+                                [多子科](https://zh.wikipedia.org/wiki/多子科 "wikilink")
                                 *Bonnetiaceae*
                                 [油桃木科](../Page/油桃木科.md "wikilink")
                                 *Caryocaraceae*
@@ -638,23 +719,23 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                       -
 
                           -
-                            [藤黄科](../Page/藤黄科.md "wikilink")
+                            [藤黄科](https://zh.wikipedia.org/wiki/藤黄科 "wikilink")
                             *Clusiaceae*
-                            [垂籽树科](../Page/垂籽树科.md "wikilink")
+                            [垂籽树科](https://zh.wikipedia.org/wiki/垂籽树科 "wikilink")
                             *Ctenolophonaceae*
-                            [沟繁缕科](../Page/沟繁缕科.md "wikilink")
+                            [沟繁缕科](https://zh.wikipedia.org/wiki/沟繁缕科 "wikilink")
                             *Elatinaceae*
                             [毛药树科](../Page/毛药树科.md "wikilink")
                             *Goupiaceae*
                             [香膏科](../Page/香膏科.md "wikilink")
                             *Humiriaceae*
-                            [金丝桃科](../Page/金丝桃科.md "wikilink")
+                            [金丝桃科](https://zh.wikipedia.org/wiki/金丝桃科 "wikilink")
                             *Hypericaceae*
                             [包芽树科](../Page/包芽树科.md "wikilink")
                             *Irvingiaceae*
                             [粘木科](../Page/粘木科.md "wikilink")
                             *Ixonanthaceae*
-                            [裂药花科](../Page/裂药花科.md "wikilink")
+                            [裂药花科](https://zh.wikipedia.org/wiki/裂药花科 "wikilink")
                             *Lacistemataceae*
                             [亚麻科](../Page/亚麻科.md "wikilink") *Linaceae*
                             [五翼果科](../Page/五翼果科.md "wikilink")
@@ -664,7 +745,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [金莲木科](../Page/金莲木科.md "wikilink")
                             *Ochnaceae*
 
-                    \+ [水母柱科](../Page/水母柱科.md "wikilink")
+                    \+
+                    [水母柱科](https://zh.wikipedia.org/wiki/水母柱科 "wikilink")
                     *Medusagynaceae* +
                     [羽叶树科](../Page/羽叶树科.md "wikilink")
                     *Quiinaceae*
@@ -677,7 +759,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [西番莲科](../Page/西番莲科.md "wikilink")
                             *Passifloraceae*
 
-                    \+ [王冠草科](../Page/王冠草科.md "wikilink")
+                    \+
+                    [王冠草科](https://zh.wikipedia.org/wiki/王冠草科 "wikilink")
                     *Malesherbiaceae* +
                     [时钟花科](../Page/时钟花科.md "wikilink")
                     *Turneraceae*
@@ -693,12 +776,13 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             Picrodendraceae''
                             [川苔草科](../Page/川苔草科.md "wikilink") ''
                             Podostemaceae''
-                            [非洲核果木科](../Page/非洲核果木科.md "wikilink")
+                            [非洲核果木科](https://zh.wikipedia.org/wiki/非洲核果木科 "wikilink")
                             ''Putranjivaceae'
                             [红树科](../Page/红树科.md "wikilink")
                             *Rhizophoraceae*
 
-                        \+ [古柯科](../Page/古柯科.md "wikilink")
+                        \+
+                        [古柯科](https://zh.wikipedia.org/wiki/古柯科 "wikilink")
                         *Erythroxylaceae*
 
                           -
@@ -706,34 +790,35 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                               -
                                 [杨柳科](../Page/杨柳科.md "wikilink")
                                 *Salicaceae*
-                                [堇菜科](../Page/堇菜科.md "wikilink")
+                                [堇菜科](https://zh.wikipedia.org/wiki/堇菜科 "wikilink")
                                 *Violaceae*
 
                             [酢浆草目](../Page/酢浆草目.md "wikilink")
                             *Oxalidales*
 
                               -
-                                [瓣裂果科](../Page/瓣裂果科.md "wikilink")
+                                [瓣裂果科](https://zh.wikipedia.org/wiki/瓣裂果科 "wikilink")
                                 *Brunelliaceae*
-                                [土瓶草科](../Page/土瓶草科.md "wikilink")
+                                [土瓶草科](https://zh.wikipedia.org/wiki/土瓶草科 "wikilink")
                                 *Cephalotaceae*
-                                [牛栓藤科](../Page/牛栓藤科.md "wikilink")
+                                [牛栓藤科](https://zh.wikipedia.org/wiki/牛栓藤科 "wikilink")
                                 *Connaraceae*
                                 [火把树科](../Page/火把树科.md "wikilink")
                                 *Cunoniaceae*
                                 [杜英科](../Page/杜英科.md "wikilink")
                                 *Elaeocarpaceae*
-                                [酢浆草科](../Page/酢浆草科.md "wikilink")
+                                [酢浆草科](https://zh.wikipedia.org/wiki/酢浆草科 "wikilink")
                                 *Oxalidaceae*
 
-                            [蔷薇目](../Page/蔷薇目.md "wikilink") *Rosales*
+                            [蔷薇目](https://zh.wikipedia.org/wiki/蔷薇目 "wikilink")
+                            *Rosales*
 
                               -
-                                [钩毛树科](../Page/钩毛树科.md "wikilink")
+                                [钩毛树科](https://zh.wikipedia.org/wiki/钩毛树科 "wikilink")
                                 *Barbeyaceae*
                                 [大麻科](../Page/大麻科.md "wikilink")
                                 *Cannabaceae*
-                                [八瓣果科](../Page/八瓣果科.md "wikilink")
+                                [八瓣果科](https://zh.wikipedia.org/wiki/八瓣果科 "wikilink")
                                 *Dirachmaceae*
                                 [胡颓子科](../Page/胡颓子科.md "wikilink")
                                 *Elaeagnaceae*
@@ -748,7 +833,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 [荨麻科](../Page/荨麻科.md "wikilink")
                                 *Urticaceae*
 
-                    **[II类真蔷薇分支](../Page/II类真蔷薇分支.md "wikilink")**
+                    **[II类真蔷薇分支](https://zh.wikipedia.org/wiki/II类真蔷薇分支 "wikilink")**
                     **eurosids II**
 
                       -
@@ -766,7 +851,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 [叠珠树科](../Page/叠珠树科.md "wikilink")
                                 *Akaniaceae*
 
-                        \+ [钟萼木科](../Page/钟萼木科.md "wikilink")
+                        \+
+                        [钟萼木科](https://zh.wikipedia.org/wiki/钟萼木科 "wikilink")
                         *Bretschneideraceae*
 
                           -
@@ -784,30 +870,30 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Gyrostemonaceae*
                                 [刺枝树科](../Page/刺枝树科.md "wikilink")
                                 *Koeberliniaceae*
-                                [池花科](../Page/池花科.md "wikilink")
+                                [池花科](https://zh.wikipedia.org/wiki/池花科 "wikilink")
                                 *Limnanthaceae*
                                 [辣木科](../Page/辣木科.md "wikilink")
                                 *Moringaceae*
                                 [瘤药树科](../Page/瘤药树科.md "wikilink")
                                 *Pentadiplandraceae*
-                                [木犀草科](../Page/木犀草科.md "wikilink")
+                                [木犀草科](https://zh.wikipedia.org/wiki/木犀草科 "wikilink")
                                 *Resedaceae*
-                                [刺茉莉科](../Page/刺茉莉科.md "wikilink")
+                                [刺茉莉科](https://zh.wikipedia.org/wiki/刺茉莉科 "wikilink")
                                 *Salvadoraceae*
                                 [夷白花菜科](../Page/夷白花菜科.md "wikilink")
                                 *Setchellanthaceae*
-                                [烈味三叶草科](../Page/烈味三叶草科.md "wikilink")
+                                [烈味三叶草科](https://zh.wikipedia.org/wiki/烈味三叶草科 "wikilink")
                                 *Tovariaceae*
-                                [旱金莲科](../Page/旱金莲科.md "wikilink")
+                                [旱金莲科](https://zh.wikipedia.org/wiki/旱金莲科 "wikilink")
                                 *Tropaeolaceae*
 
                             [锦葵目](../Page/锦葵目.md "wikilink") *Malvales*
 
                               -
-                                [红木科](../Page/红木科.md "wikilink")
+                                [红木科](https://zh.wikipedia.org/wiki/红木科 "wikilink")
                                 *Bixaceae*
 
-                    \+[地果莲木科](../Page/地果莲木科.md "wikilink")
+                    \+[地果莲木科](https://zh.wikipedia.org/wiki/地果莲木科 "wikilink")
                     *Diegodendraceae* +
                     [弯子木科](../Page/弯子木科.md "wikilink")
                     *Cochlospermaceae*
@@ -822,7 +908,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [锦葵科](../Page/锦葵科.md "wikilink") *Malvaceae*
                             [文定果科](../Page/文定果科.md "wikilink")
                             *Muntingiaceae*
-                            [沙莓科](../Page/沙莓科.md "wikilink")
+                            [沙莓科](https://zh.wikipedia.org/wiki/沙莓科 "wikilink")
                             *Neuradaceae*
                             [旋花树科](../Page/旋花树科.md "wikilink")
                             *Sarcolaenaceae*
@@ -843,27 +929,30 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Biebersteiniaceae*
                                 [橄榄科](../Page/橄榄科.md "wikilink")
                                 *Burseraceae*
-                                [番苦木科](../Page/番苦木科.md "wikilink")
+                                [番苦木科](https://zh.wikipedia.org/wiki/番苦木科 "wikilink")
                                 *Kirkiaceae*
                                 [楝科](../Page/楝科.md "wikilink")
                                 *Meliaceae*
                                 [白刺科](../Page/白刺科.md "wikilink")
                                 *Nitrariaceae*
 
-                    \+ [骆驼蓬科](../Page/骆驼蓬科.md "wikilink") *Peganaceae* +
-                    [旱霸王科](../Page/旱霸王科.md "wikilink")
+                    \+
+                    [骆驼蓬科](https://zh.wikipedia.org/wiki/骆驼蓬科 "wikilink")
+                    *Peganaceae* +
+                    [旱霸王科](https://zh.wikipedia.org/wiki/旱霸王科 "wikilink")
                     *Tetradiclidaceae*
 
                       -
 
                           -
                             [芸香科](../Page/芸香科.md "wikilink") *Rutaceae*
-                            [无患子科](../Page/无患子科.md "wikilink")
+                            [无患子科](https://zh.wikipedia.org/wiki/无患子科 "wikilink")
                             *Sapindaceae*
                             [苦木科](../Page/苦木科.md "wikilink")
                             *Simaroubaceae*
 
-                ''' [菊分支](../Page/菊分支.md "wikilink") ''' **asterids**
+                ''' [菊分支](https://zh.wikipedia.org/wiki/菊分支 "wikilink")
+                ''' **asterids**
 
                   -
 
@@ -873,17 +962,19 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [山茱萸科](../Page/山茱萸科.md "wikilink")
                             *Cornaceae*
 
-                \+ [珙桐科](../Page/珙桐科.md "wikilink") *Nyssaceae*
+                \+ [珙桐科](https://zh.wikipedia.org/wiki/珙桐科 "wikilink")
+                *Nyssaceae*
 
                   -
 
                       -
                         [南非茱萸科](../Page/南非茱萸科.md "wikilink")
                         *Curtisiaceae*
-                        [假石南科](../Page/假石南科.md "wikilink") *Grubbiaceae*
+                        [假石南科](https://zh.wikipedia.org/wiki/假石南科 "wikilink")
+                        *Grubbiaceae*
                         [绣球花科](../Page/绣球花科.md "wikilink")
                         *Hydrangeaceae*
-                        [水穗草科](../Page/水穗草科.md "wikilink")
+                        [水穗草科](https://zh.wikipedia.org/wiki/水穗草科 "wikilink")
                         *Hydrostachyaceae*
                         [刺莲花科](../Page/刺莲花科.md "wikilink") *Loasaceae*
 
@@ -892,9 +983,9 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                       -
                         [杜鹃花目](../Page/杜鹃花目.md "wikilink") *Ericales*
                           -
-                            [猕猴桃科](../Page/猕猴桃科.md "wikilink")
+                            [猕猴桃科](https://zh.wikipedia.org/wiki/猕猴桃科 "wikilink")
                             *Actinidiaceae*
-                            [凤仙花科](../Page/凤仙花科.md "wikilink")
+                            [凤仙花科](https://zh.wikipedia.org/wiki/凤仙花科 "wikilink")
                             *Balsaminaceae*
                             [山柳科](../Page/山柳科.md "wikilink")
                             *Clethraceae*
@@ -905,13 +996,13 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [柿树科](../Page/柿树科.md "wikilink") *Ebenaceae*
                             [杜鹃花科](../Page/杜鹃花科.md "wikilink")
                             *Ericaceae*
-                            [福桂花科](../Page/福桂花科.md "wikilink")
+                            [福桂花科](https://zh.wikipedia.org/wiki/福桂花科 "wikilink")
                             *Fouquieriaceae*
                             [玉蕊科](../Page/玉蕊科.md "wikilink")
                             *Lecythidaceae*
-                            [杜茎山科](../Page/杜茎山科.md "wikilink")
+                            [杜茎山科](https://zh.wikipedia.org/wiki/杜茎山科 "wikilink")
                             *Maesaceae*
-                            [蜜囊花科](../Page/蜜囊花科.md "wikilink")
+                            [蜜囊花科](https://zh.wikipedia.org/wiki/蜜囊花科 "wikilink")
                             *Marcgraviaceae*
                             [紫金牛科](../Page/紫金牛科.md "wikilink")
                             *Myrsinaceae*
@@ -932,7 +1023,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Primulaceae*
                             [捕蝇幌科](../Page/捕蝇幌科.md "wikilink")
                             *Roridulaceae*
-                            [山榄科](../Page/山榄科.md "wikilink")
+                            [山榄科](https://zh.wikipedia.org/wiki/山榄科 "wikilink")
                             *Sapotaceae*
                             [瓶子草科](../Page/瓶子草科.md "wikilink")
                             *Sarraceniaceae*
@@ -940,7 +1031,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             *Styracaceae*
                             [山矾科](../Page/山矾科.md "wikilink")
                             *Symplocaceae*
-                            [四籽树科](../Page/四籽树科.md "wikilink")
+                            [四籽树科](https://zh.wikipedia.org/wiki/四籽树科 "wikilink")
                             *Tetrameristaceae*
 
                     \+ [假红树科](../Page/假红树科.md "wikilink")
@@ -953,7 +1044,8 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [假轮叶科](../Page/假轮叶科.md "wikilink")
                             *Theophrastaceae*
 
-                    *' [I类真菊分支](../Page/I类真菊分支.md "wikilink")*'
+                    *'
+                    [I类真菊分支](https://zh.wikipedia.org/wiki/I类真菊分支 "wikilink")*'
                     **euasterids I**
 
                       -
@@ -962,47 +1054,51 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                             [紫草科](../Page/紫草科.md "wikilink")
                             *Boraginaceae*
                             [茶茱萸科](../Page/茶茱萸科.md "wikilink")*Icacinaceae*
-                            [五蕊茶科](../Page/五蕊茶科.md "wikilink")*Oncothecaceae*
-                            [二歧草科](../Page/二歧草科.md "wikilink")
+                            [五蕊茶科](https://zh.wikipedia.org/wiki/五蕊茶科 "wikilink")*Oncothecaceae*
+                            [二歧草科](https://zh.wikipedia.org/wiki/二歧草科 "wikilink")
                             *Vahliaceae*
 
                         <!-- end list -->
 
                           -
-                            [绞木目](../Page/绞木目.md "wikilink") *Garryales*
+                            [绞木目](https://zh.wikipedia.org/wiki/绞木目 "wikilink")
+                            *Garryales*
                               -
-                                [杜仲科](../Page/杜仲科.md "wikilink")
+                                [杜仲科](https://zh.wikipedia.org/wiki/杜仲科 "wikilink")
                                 *Eucommiaceae*
-                                [绞木科](../Page/绞木科.md "wikilink")
+                                [绞木科](https://zh.wikipedia.org/wiki/绞木科 "wikilink")
                                 *Garryaceae*
 
-                    \+ [桃叶珊瑚科](../Page/桃叶珊瑚科.md "wikilink") *Aucubaceae*
+                    \+
+                    [桃叶珊瑚科](https://zh.wikipedia.org/wiki/桃叶珊瑚科 "wikilink")
+                    *Aucubaceae*
 
                       -
 
                           -
-                            [龙胆目](../Page/龙胆目.md "wikilink")
+                            [龙胆目](https://zh.wikipedia.org/wiki/龙胆目 "wikilink")
                             *Gentianales*
                               -
-                                [夹竹桃科](../Page/夹竹桃科.md "wikilink")
+                                [夹竹桃科](https://zh.wikipedia.org/wiki/夹竹桃科 "wikilink")
                                 *Apocynaceae*
-                                [胡蔓藤科](../Page/胡蔓藤科.md "wikilink")
+                                [胡蔓藤科](https://zh.wikipedia.org/wiki/胡蔓藤科 "wikilink")
                                 *Gelsemiaceae*
-                                [龙胆科](../Page/龙胆科.md "wikilink")
+                                [龙胆科](https://zh.wikipedia.org/wiki/龙胆科 "wikilink")
                                 *Gentianaceae*
-                                [马钱科](../Page/马钱科.md "wikilink")
+                                [马钱科](https://zh.wikipedia.org/wiki/马钱科 "wikilink")
                                 *Loganiaceae*
                                 [茜草科](../Page/茜草科.md "wikilink")
                                 *Rubiaceae*
-                            [唇形目](../Page/唇形目.md "wikilink") *Lamiales*
+                            [唇形目](https://zh.wikipedia.org/wiki/唇形目 "wikilink")
+                            *Lamiales*
                               -
                                 [爵床科](../Page/爵床科.md "wikilink")
                                 *Acanthaceae*
                                 [紫葳科](../Page/紫葳科.md "wikilink")
                                 *Bignoniaceae*
-                                [腺毛草科](../Page/腺毛草科.md "wikilink")
+                                [腺毛草科](https://zh.wikipedia.org/wiki/腺毛草科 "wikilink")
                                 *Byblidaceae*
-                                [蒲包花科](../Page/蒲包花科.md "wikilink")
+                                [蒲包花科](https://zh.wikipedia.org/wiki/蒲包花科 "wikilink")
                                 *Calceolariaceae*
                                 [香茜科](../Page/香茜科.md "wikilink")
                                 *Carlemanniaceae*
@@ -1010,15 +1106,15 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Gesneriaceae*
                                 [唇形科](../Page/唇形科.md "wikilink")
                                 *Lamiaceae*
-                                [狸藻科](../Page/狸藻科.md "wikilink")
+                                [狸藻科](https://zh.wikipedia.org/wiki/狸藻科 "wikilink")
                                 *Lentibulariaceae*
                                 [母草科](../Page/母草科.md "wikilink")
                                 *Linderniaceae*
-                                [角胡麻科](../Page/角胡麻科.md "wikilink")
+                                [角胡麻科](https://zh.wikipedia.org/wiki/角胡麻科 "wikilink")
                                 *Martyniaceae*
-                                [木犀科](../Page/木犀科.md "wikilink")
+                                [木犀科](https://zh.wikipedia.org/wiki/木犀科 "wikilink")
                                 *Oleaceae*
-                                [列当科](../Page/列当科.md "wikilink")
+                                [列当科](https://zh.wikipedia.org/wiki/列当科 "wikilink")
                                 *Orobanchaceae*
                                 [泡桐科](../Page/泡桐科.md "wikilink")
                                 *Paulowniaceae*
@@ -1030,11 +1126,11 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Plantaginaceae*
                                 [环生籽科](../Page/环生籽科.md "wikilink")
                                 *Plocospermataceae*
-                                [夷地黄科](../Page/夷地黄科.md "wikilink")
+                                [夷地黄科](https://zh.wikipedia.org/wiki/夷地黄科 "wikilink")
                                 *Schlegeliaceae*
                                 [玄参科](../Page/玄参科.md "wikilink")
                                 *Scrophulariaceae*
-                                [密穗草科](../Page/密穗草科.md "wikilink")
+                                [密穗草科](https://zh.wikipedia.org/wiki/密穗草科 "wikilink")
                                 *Stilbaceae*
                                 [四粉草科](../Page/四粉草科.md "wikilink")
                                 *Tetrachondraceae*
@@ -1044,22 +1140,22 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                               -
                                 [旋花科](../Page/旋花科.md "wikilink")
                                 *Convolvulaceae*
-                                [田基麻科](../Page/田基麻科.md "wikilink")
+                                [田基麻科](https://zh.wikipedia.org/wiki/田基麻科 "wikilink")
                                 *Hydroleaceae*
-                                [山醋李科](../Page/山醋李科.md "wikilink")
+                                [山醋李科](https://zh.wikipedia.org/wiki/山醋李科 "wikilink")
                                 *Montiniaceae*
                                 [茄科](../Page/茄科.md "wikilink")
                                 *Solanaceae*
-                                [楔瓣花科](../Page/楔瓣花科.md "wikilink")
+                                [楔瓣花科](https://zh.wikipedia.org/wiki/楔瓣花科 "wikilink")
                                 *Sphenocleaceae*
 
-                    **[II类真菊分支](../Page/II类真菊分支.md "wikilink")**
+                    **[II类真菊分支](https://zh.wikipedia.org/wiki/II类真菊分支 "wikilink")**
                     **euasterids II**
 
                       -
 
                           -
-                            [鳞叶树科](../Page/鳞叶树科.md "wikilink")
+                            [鳞叶树科](https://zh.wikipedia.org/wiki/鳞叶树科 "wikilink")
                             *Bruniaceae*
                             [弯药树科](../Page/弯药树科.md "wikilink")*Columelliaceae*
 
@@ -1070,10 +1166,10 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                               -
                                 [寄奴花科](../Page/寄奴花科.md "wikilink")*Eremosynaceae*
                                 [南鼠刺科](../Page/南鼠刺科.md "wikilink")*Escalloniaceae*
-                                [盔瓣花科](../Page/盔瓣花科.md "wikilink")*Paracryphiaceae*
+                                [盔瓣花科](https://zh.wikipedia.org/wiki/盔瓣花科 "wikilink")*Paracryphiaceae*
                                 [多香木科](../Page/多香木科.md "wikilink")*Polyosmaceae*
-                                [楔蕊花科](../Page/楔蕊花科.md "wikilink")*Sphenostemonaceae*
-                                [智利木科](../Page/智利木科.md "wikilink")
+                                [楔蕊花科](https://zh.wikipedia.org/wiki/楔蕊花科 "wikilink")*Sphenostemonaceae*
+                                [智利木科](https://zh.wikipedia.org/wiki/智利木科 "wikilink")
                                 *Tribelaceae*
 
                             [伞形目](../Page/伞形目.md "wikilink") *Apiales*
@@ -1083,21 +1179,21 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 *Apiaceae*
                                 [五加科](../Page/五加科.md "wikilink")
                                 *Araliaceae*
-                                [假茱萸科](../Page/假茱萸科.md "wikilink")
+                                [假茱萸科](https://zh.wikipedia.org/wiki/假茱萸科 "wikilink")
                                 *Aralidiaceae*
                                 [夷茱萸科](../Page/夷茱萸科.md "wikilink")
                                 *Griseliniaceae*
                                 [参棕科](../Page/参棕科.md "wikilink")
                                 *Mackinlayaceae*
-                                [番茱萸科](../Page/番茱萸科.md "wikilink")
+                                [番茱萸科](https://zh.wikipedia.org/wiki/番茱萸科 "wikilink")
                                 *Melanophyllaceae*
                                 [裂果红科](../Page/裂果红科.md "wikilink")
                                 *Myodocarpaceae*
-                                [彭南特氏木科](../Page/彭南特氏木科.md "wikilink")
+                                [彭南特氏木科](https://zh.wikipedia.org/wiki/彭南特氏木科 "wikilink")
                                 *Pennantiaceae*
-                                [海桐花科](../Page/海桐花科.md "wikilink")
+                                [海桐花科](https://zh.wikipedia.org/wiki/海桐花科 "wikilink")
                                 *Pittosporaceae*
-                                [鞘柄木科](../Page/鞘柄木科.md "wikilink")
+                                [鞘柄木科](https://zh.wikipedia.org/wiki/鞘柄木科 "wikilink")
                                 *Torricelliaceae*
 
                             [冬青目](../Page/冬青目.md "wikilink")
@@ -1110,7 +1206,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 Cardiopteridaceae''
                                 [青荚叶科](../Page/青荚叶科.md "wikilink")
                                 *Helwingiaceae*
-                                [叶茶藨科](../Page/叶茶藨科.md "wikilink")
+                                [叶茶藨科](https://zh.wikipedia.org/wiki/叶茶藨科 "wikilink")
                                 *Phyllonomaceae*
                                 [金檀木科](../Page/金檀木科.md "wikilink")
                                 *Stemonuraceae*
@@ -1120,7 +1216,7 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                               -
                                 [假海桐科](../Page/假海桐科.md "wikilink")
                                 *Alseuosmiaceae*
-                                [雪叶科](../Page/雪叶科.md "wikilink")
+                                [雪叶科](https://zh.wikipedia.org/wiki/雪叶科 "wikilink")
                                 *Argophyllaceae*
                                 [菊科](../Page/菊科.md "wikilink")
                                 *Asteraceae*
@@ -1129,25 +1225,29 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 [桔梗科](../Page/桔梗科.md "wikilink")
                                 *Campanulaceae*
 
-                    \+ [半边莲科](../Page/半边莲科.md "wikilink") *Lobeliaceae*
+                    \+
+                    [半边莲科](https://zh.wikipedia.org/wiki/半边莲科 "wikilink")
+                    *Lobeliaceae*
 
                       -
 
                           -
                             [草海桐科](../Page/草海桐科.md "wikilink")
                             *Goodeniaceae*
-                            [睡菜科](../Page/睡菜科.md "wikilink")
+                            [睡菜科](https://zh.wikipedia.org/wiki/睡菜科 "wikilink")
                             *Menyanthaceae*
                             [五膜草科](../Page/五膜草科.md "wikilink")
                             *Pentaphragmataceae*
-                            [石冬青科](../Page/石冬青科.md "wikilink")
+                            [石冬青科](https://zh.wikipedia.org/wiki/石冬青科 "wikilink")
                             *Phellinaceae*
                             [卢梭木科](../Page/卢梭木科.md "wikilink")
                             *Rousseaceae*
                             [花柱草科](../Page/花柱草科.md "wikilink")
                             *Stylidiaceae*
 
-                    \+ [陀螺果科](../Page/陀螺果科.md "wikilink") *Donatiaceae*
+                    \+
+                    [陀螺果科](https://zh.wikipedia.org/wiki/陀螺果科 "wikilink")
+                    *Donatiaceae*
 
                       -
 
@@ -1160,13 +1260,14 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
                                 [忍冬科](../Page/忍冬科.md "wikilink")
                                 *Caprifoliaceae*
 
-                        \+ [黄锦带科](../Page/黄锦带科.md "wikilink")
+                        \+
+                        [黄锦带科](https://zh.wikipedia.org/wiki/黄锦带科 "wikilink")
                         *Diervillaceae* +
                         [川续断科](../Page/川续断科.md "wikilink")
                         *Dipsacaceae* +
-                        [北极花科](../Page/北极花科.md "wikilink")
+                        [北极花科](https://zh.wikipedia.org/wiki/北极花科 "wikilink")
                         *Linnaeaceae* +
-                        [刺续断科](../Page/刺续断科.md "wikilink")
+                        [刺续断科](https://zh.wikipedia.org/wiki/刺续断科 "wikilink")
                         *Morinaceae* + [败酱科](../Page/败酱科.md "wikilink")
                         *Valerianaceae*
 
@@ -1178,42 +1279,49 @@ III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已
 
 如果可以列为单属科的属，将科名也同时列出：
 
-  - *[Aneulophus](../Page/Aneulophus.md "wikilink")* Benth.
+  - *[Aneulophus](https://zh.wikipedia.org/wiki/Aneulophus "wikilink")*
+    Benth.
   - [离花科](../Page/离花科.md "wikilink") *Apodanthaceae* van Tieghem ex
     Takhtajan in Takhtajan （1997年）共三属
   - [美洲簇花草属](../Page/美洲簇花草属.md "wikilink") *Bdallophyton* Eichl.
   - [蛇菰科](../Page/蛇菰科.md "wikilink") *Balanophoraceae* Rich. （1822年）
-  - *[Centroplacus](../Page/Centroplacus.md "wikilink")* Pierre
-  - [锁阳属](../Page/锁阳属.md "wikilink") *Cynomorium* L.
-    （[锁阳科](../Page/锁阳科.md "wikilink") *Cynomoriaceae*
-    Lindl. 1833年）
+  - *[Centroplacus](https://zh.wikipedia.org/wiki/Centroplacus "wikilink")*
+    Pierre
+  - [锁阳属](https://zh.wikipedia.org/wiki/锁阳属 "wikilink") *Cynomorium* L.
+    （[锁阳科](https://zh.wikipedia.org/wiki/锁阳科 "wikilink")
+    *Cynomoriaceae* Lindl. 1833年）
   - [簇花草属](../Page/簇花草属.md "wikilink") *Cytinus* L.
-    （[簇花草科](../Page/簇花草科.md "wikilink") *Cytinaceae*
-    A.Rich. 1824年）
-  - [十齿花属](../Page/十齿花属.md "wikilink") *Dipentodon* Dunn
-    （[十齿花科](../Page/十齿花科.md "wikilink") *Dipentodontaceae*
-    Merr. (1941年)
-  - *[Gumillea](../Page/Gumillea.md "wikilink")* Ruiz & Pav.
+    （[簇花草科](https://zh.wikipedia.org/wiki/簇花草科 "wikilink")
+    *Cytinaceae* A.Rich. 1824年）
+  - [十齿花属](https://zh.wikipedia.org/wiki/十齿花属 "wikilink") *Dipentodon*
+    Dunn （[十齿花科](https://zh.wikipedia.org/wiki/十齿花科 "wikilink")
+    *Dipentodontaceae* Merr. (1941年)
+  - *[Gumillea](https://zh.wikipedia.org/wiki/Gumillea "wikilink")* Ruiz
+    & Pav.
   - [单柱花属](../Page/单柱花属.md "wikilink") *Hoplestigma* Pierre
-    （[单柱花科](../Page/单柱花科.md "wikilink") *Hoplestigmataceae*
-    Engl. & Gilg 1924年）
-  - *[Leptaulus](../Page/Leptaulus.md "wikilink")* Benth.
-  - [毛丝花属](../Page/毛丝花属.md "wikilink") *Medusandra* Brenan
-    （[毛丝花科](../Page/毛丝花科.md "wikilink") *Medusandraceae*
-    Brenan 1952年）
-  - [管花木属](../Page/管花木属.md "wikilink") *Metteniusa* H.Karst.
-    （[管花木科](../Page/管花木科.md "wikilink") *Metteniusaceae*
-    H.Karst. ex Schnizl. 1860年-1870年）
-  - [帽蕊草属](../Page/帽蕊草属.md "wikilink") *Mitrastema* Makino
-    （[帽蕊草科](../Page/帽蕊草科.md "wikilink") *Mitrastemonaceae*
-    Makino 1911年）
-  - [托叶假樟属](../Page/托叶假樟属.md "wikilink") *Pottingeria* Prain
-    （[托叶假樟科](../Page/托叶假樟科.md "wikilink") *Pottingeriaceae*
-    (Engl.) Takht. 1987年）
+    （[单柱花科](https://zh.wikipedia.org/wiki/单柱花科 "wikilink")
+    *Hoplestigmataceae* Engl. & Gilg 1924年）
+  - *[Leptaulus](https://zh.wikipedia.org/wiki/Leptaulus "wikilink")*
+    Benth.
+  - [毛丝花属](https://zh.wikipedia.org/wiki/毛丝花属 "wikilink") *Medusandra*
+    Brenan （[毛丝花科](../Page/毛丝花科.md "wikilink") *Medusandraceae* Brenan
+    1952年）
+  - [管花木属](https://zh.wikipedia.org/wiki/管花木属 "wikilink") *Metteniusa*
+    H.Karst. （[管花木科](https://zh.wikipedia.org/wiki/管花木科 "wikilink")
+    *Metteniusaceae* H.Karst. ex Schnizl. 1860年-1870年）
+  - [帽蕊草属](https://zh.wikipedia.org/wiki/帽蕊草属 "wikilink") *Mitrastema*
+    Makino （[帽蕊草科](../Page/帽蕊草科.md "wikilink") *Mitrastemonaceae* Makino
+    1911年）
+  - [托叶假樟属](https://zh.wikipedia.org/wiki/托叶假樟属 "wikilink")
+    *Pottingeria* Prain
+    （[托叶假樟科](https://zh.wikipedia.org/wiki/托叶假樟科 "wikilink")
+    *Pottingeriaceae* (Engl.) Takht. 1987年）
   - [大花草科](../Page/大花草科.md "wikilink") *Rafflesiaceae* Dumort.
     （1829年）共三属
-  - [非洲盘树属](../Page/非洲盘树属.md "wikilink") *Soyauxia* Oliv.
-  - *[Trichostephanus](../Page/Trichostephanus.md "wikilink")* Gilg
+  - [非洲盘树属](https://zh.wikipedia.org/wiki/非洲盘树属 "wikilink") *Soyauxia*
+    Oliv.
+  - *[Trichostephanus](https://zh.wikipedia.org/wiki/Trichostephanus "wikilink")*
+    Gilg
 
 ## 參考文獻
 

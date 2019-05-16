@@ -1,8 +1,8 @@
-《**RuneScape**》是由[英國](../Page/英國.md "wikilink")[Jagex採用](../Page/Jagex.md "wikilink")[Java開發的基於網頁的](../Page/Java.md "wikilink")[大型多人在线角色扮演游戏](../Page/MMORPG.md "wikilink")，在世界上很受歡迎，尤其是[英國及](../Page/英國.md "wikilink")[美國](../Page/美國.md "wikilink")。
+《**RuneScape**》是由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[Jagex採用](../Page/Jagex.md "wikilink")[Java開發的基於網頁的](../Page/Java.md "wikilink")[大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，在世界上很受歡迎，尤其是[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 RuneScape的前身是由Andrew
-Gower於1998年在[剑桥大學編寫的](../Page/剑桥大學.md "wikilink")**DeviousMUD**\[1\]，2001年[Jagex成立并正式更名為RuneScape](../Page/Jagex.md "wikilink")。2002年2月RuneScape允許玩家付款成為付費會員。於2004年3月29日推出第二版，並將舊版命名為Runescape
-Classic。現時，RuneScape約有超過九千萬玩家，超過一百萬名付費會員。據統計全球約有六百萬人每月最少玩一次RuneScape（2007年末），並於2008年8月被列入玩家總數最多的[大型多人在线角色扮演游戏](../Page/MMORPG.md "wikilink")[健力士世界大全](../Page/健力士世界大全.md "wikilink")\[2\]。現時，Runescape最新版本為**RuneScape（高質素版本）**（RuneScape
+Gower於1998年在[剑桥大學編寫的](https://zh.wikipedia.org/wiki/剑桥大學 "wikilink")**DeviousMUD**\[1\]，2001年[Jagex成立并正式更名為RuneScape](../Page/Jagex.md "wikilink")。2002年2月RuneScape允許玩家付款成為付費會員。於2004年3月29日推出第二版，並將舊版命名為Runescape
+Classic。現時，RuneScape約有超過九千萬玩家，超過一百萬名付費會員。據統計全球約有六百萬人每月最少玩一次RuneScape（2007年末），並於2008年8月被列入玩家總數最多的[大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")[健力士世界大全](https://zh.wikipedia.org/wiki/健力士世界大全 "wikilink")\[2\]。現時，Runescape最新版本為**RuneScape（高質素版本）**（RuneScape
 High Detail，簡稱 Runescape HD），於2008年7月14日推出。
 
 DeviousMUD使用了低品質等軸圖像。當時，遊戲並未被公開推出。Andrew
@@ -10,57 +10,58 @@ Gower於1999年再次重新編寫遊戲，但圖像品質卻未有改善。這�
 
 由於Andrew Gower仍忙於大學學業，因此，他在哥哥Paul
 Gower的協助下，再次完整地全新編寫遊戲，並以三維及二維圖像取代原先的低品質等軸圖像，把遊戲名命名為RuneScape（此版本現在稱為RuneScape
-Classic）。於2001年1月4日公開推出[Runescape試用版](../Page/Runescape.md "wikilink")，當時，遊戲[伺服器運作於](../Page/伺服器.md "wikilink")[英國](../Page/英國.md "wikilink")[諾丁罕的一個家中](../Page/諾丁罕.md "wikilink")。於同年12月，Gower這兩兄弟與Tedder合夥成立Jagex公司，並以貿易方式繼續推行RuneScape。Jagex研究了一種程式語言命名為RuneScript，只推行於RuneScape的[伺服器](../Page/伺服器.md "wikilink")，以Jagex方便掌管遊戲中的活動，如定期更新等。2002年2月27日，推出了以一個月計算的付費會員服務，期後，所有付費會員更可享有更大地圖空間、更多任務和更多物品等。
+Classic）。於2001年1月4日公開推出[Runescape試用版](https://zh.wikipedia.org/wiki/Runescape "wikilink")，當時，遊戲[伺服器運作於](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[諾丁罕的一個家中](https://zh.wikipedia.org/wiki/諾丁罕 "wikilink")。於同年12月，Gower這兩兄弟與Tedder合夥成立Jagex公司，並以貿易方式繼續推行RuneScape。Jagex研究了一種程式語言命名為RuneScript，只推行於RuneScape的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，以Jagex方便掌管遊戲中的活動，如定期更新等。2002年2月27日，推出了以一個月計算的付費會員服務，期後，所有付費會員更可享有更大地圖空間、更多任務和更多物品等。
 
 隨著Runescape的玩家越來越多，[Jagex開始計劃對RuneScape進行大改善工程](../Page/Jagex.md "wikilink")。Jagex全新改造遊戲的驅動器，把全部圖像立體化，並推出RuneScape第2版。於2003年12月1日推出付費會員試用版，即是只供付費會員才可試用。並於2004年3月17日推出完整版，供所有玩家使用。RuneScape第2版推出後，正式更名為RuneScape，而舊版本則命名為RuneScape
-Classic。其後，Jagex發現有很多玩家使用[外掛程式玩RuneScape](../Page/外掛程式.md "wikilink")
+Classic。其後，Jagex發現有很多玩家使用[外掛程式玩RuneScape](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")
 Classic，因此，一共封鎖了約5,000個帳號。之後，Jagex停止了RuneScape
 Classic的新用戶申請，只有2005年8月3日前有登入過的玩家，並且是付費玩家，才可登錄，此規例並維持至今。
 
-Jagex於瀏覽器內免費會員的遊戲畫面上方增添了廣告橫幅。於2006年7月13日，Jagex與WildTangent簽約，於[美國廣泛宣傳RuneScape](../Page/美國.md "wikilink")。另外，有很多會員使用某些程式，阻止了在瀏覽器內遊戲畫面上方的廣告橫幅，這樣對廣告客戶造成不公平，因為，Jagex推出了一條新規例禁止這些玩家使用程式阻止廣告。
+Jagex於瀏覽器內免費會員的遊戲畫面上方增添了廣告橫幅。於2006年7月13日，Jagex與WildTangent簽約，於[美國廣泛宣傳RuneScape](https://zh.wikipedia.org/wiki/美國 "wikilink")。另外，有很多會員使用某些程式，阻止了在瀏覽器內遊戲畫面上方的廣告橫幅，這樣對廣告客戶造成不公平，因為，Jagex推出了一條新規例禁止這些玩家使用程式阻止廣告。
 
-於2006年5月16日，Jagex把[遊戲引擎升級](../Page/遊戲引擎.md "wikilink")，主要是圖像更新。這個更新，使RuneScape的遊戲記億體減少，並可發展及改善遊戲內容，而不會加長遊戲載入的時間。遊戲引擎於2007年6月26日再次升級，並可暫存遊戲的未來更新內容，但卻沒有公開推出。於2008年7月1日，Jagex推出了RuneScape高質素試用版本，只供付費會員試用。而正式版則於7月14日推出，供所有玩家使用。RuneScape高質素版本，改善了各方面的畫質，而付費會員更可使用全螢幕。而原先的舊版本則仍然保留，設為低質素版本，供所有玩家使用。同時，Jagex宣傳升級到付費會員的價格於2008年8月4日上升，加了$0.95（美元），但已是付費會員的，仍然以2002年的價格為標準，不會受到此次加價影響。
+於2006年5月16日，Jagex把[遊戲引擎升級](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，主要是圖像更新。這個更新，使RuneScape的遊戲記億體減少，並可發展及改善遊戲內容，而不會加長遊戲載入的時間。遊戲引擎於2007年6月26日再次升級，並可暫存遊戲的未來更新內容，但卻沒有公開推出。於2008年7月1日，Jagex推出了RuneScape高質素試用版本，只供付費會員試用。而正式版則於7月14日推出，供所有玩家使用。RuneScape高質素版本，改善了各方面的畫質，而付費會員更可使用全螢幕。而原先的舊版本則仍然保留，設為低質素版本，供所有玩家使用。同時，Jagex宣傳升級到付費會員的價格於2008年8月4日上升，加了$0.95（美元），但已是付費會員的，仍然以2002年的價格為標準，不會受到此次加價影響。
 
 ## 伺服器
 
-[RuneScape_server_locations.svg](https://zh.wikipedia.org/wiki/File:RuneScape_server_locations.svg "fig:RuneScape_server_locations.svg")、[美國](../Page/美國.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[荷蘭](../Page/荷蘭.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭](../Page/芬蘭.md "wikilink")、[比利時](../Page/比利時.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[愛爾蘭](../Page/愛爾蘭.md "wikilink")、[挪威](../Page/挪威.md "wikilink")、[丹麥](../Page/丹麥.md "wikilink")
-、[印度及](../Page/印度.md "wikilink")[紐西蘭](../Page/紐西蘭.md "wikilink")\]\]
+[RuneScape_server_locations.svg](https://zh.wikipedia.org/wiki/File:RuneScape_server_locations.svg "fig:RuneScape_server_locations.svg")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")、[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[挪威](../Page/挪威.md "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")
+、[印度及](../Page/印度.md "wikilink")[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")\]\]
 現在，RuneScape的遊戲伺服器共193個，遍佈全球，並以數字和世界來分清（如：World
-17、第17個世界）\[3\]。伺服器分別位於[英國](../Page/英國.md "wikilink")、[美國](../Page/美國.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[荷蘭](../Page/荷蘭.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭](../Page/芬蘭.md "wikilink")、[比利時](../Page/比利時.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[愛爾蘭](../Page/愛爾蘭.md "wikilink")、[挪威](../Page/挪威.md "wikilink")、[丹麥](../Page/丹麥.md "wikilink")
+17、第17個世界）\[3\]。伺服器分別位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")、[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[挪威](../Page/挪威.md "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")
 、 印度
-及[紐西蘭](../Page/紐西蘭.md "wikilink")。伺服器位於各地的指定位置，當地人會有完善的網絡連接，並方便各地的語言溝通、[時差等](../Page/時差.md "wikilink")。隨著各地會員增加，伺服器也不時增設。
+及[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")。伺服器位於各地的指定位置，當地人會有完善的網絡連接，並方便各地的語言溝通、[時差等](https://zh.wikipedia.org/wiki/時差 "wikilink")。隨著各地會員增加，伺服器也不時增設。
 
 每個伺服器容納2,000名玩家，全部伺服器總共可容納多於300,000名玩家。伺服器可分開2個類別：免費及付費會員，免費伺服器可供免費及付費會員，而付費會員伺服器則只有付費會員才能登入。有些伺服器擁有特定的活動，例如：交易、迷你遊戲等，方便玩家們可聚在一起進行該項活動。除了RuneScape的遊戲伺服器外，RuneScape
-Classic亦擁有2個遊戲伺服器，並位於[英國](../Page/英國.md "wikilink")，每個伺服器只容納1,250名玩家，共2,500名，現在RuneScape
+Classic亦擁有2個遊戲伺服器，並位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，每個伺服器只容納1,250名玩家，共2,500名，現在RuneScape
 Classic不容許新用戶申請。
 
 ## 其它語言
 
-除了[英語外](../Page/英語.md "wikilink")，於2007年2月14日，Jagex推出了RuneScape[德文試用版本](../Page/德文.md "wikilink")，期後並推出了完整版。現時，RuneScape[德文版佔有](../Page/德文.md "wikilink")5個遊戲伺服器：3個免費伺費器及2個付費會員伺費器。這5個伺服器均位於[瑞典及](../Page/瑞典.md "wikilink")[芬蘭](../Page/芬蘭.md "wikilink")。RuneScape[法文版本於](../Page/法文.md "wikilink")2008年12月11日推出。並計劃在未來製作[葡文版本](../Page/葡文.md "wikilink")。一次Jagex首席執行官訪問時，他說：
+除了[英語外](https://zh.wikipedia.org/wiki/英語 "wikilink")，於2007年2月14日，Jagex推出了RuneScape[德文試用版本](https://zh.wikipedia.org/wiki/德文 "wikilink")，期後並推出了完整版。現時，RuneScape[德文版佔有](https://zh.wikipedia.org/wiki/德文 "wikilink")5個遊戲伺服器：3個免費伺費器及2個付費會員伺費器。這5個伺服器均位於[瑞典及](../Page/瑞典.md "wikilink")[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")。RuneScape[法文版本於](https://zh.wikipedia.org/wiki/法文 "wikilink")2008年12月11日推出。並計劃在未來製作[葡文版本](https://zh.wikipedia.org/wiki/葡文 "wikilink")。一次Jagex首席執行官訪問時，他說：
 
 ## 遊戲內容
 
 ### 探索
 
-玩家可透過步行、[跑](../Page/跑.md "wikilink")、魔法瞬間轉移、[飛機](../Page/飛機.md "wikilink")、[船或走行捷徑等穿梭整個RuneScape世界](../Page/船.md "wikilink")\[4\]。
+玩家可透過步行、[跑](https://zh.wikipedia.org/wiki/跑 "wikilink")、魔法瞬間轉移、[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")、[船或走行捷徑等穿梭整個RuneScape世界](../Page/船.md "wikilink")\[4\]。
 
-  - 步行：玩家可隨意透過滑鼠的按鍵，在畫面上目的地按一下即可移動。（詳情可見[遊戲操作方法](../Page/#.E6.93.8D.E4.BD.9C.E6.96.B9.E6.B3.95.md "wikilink")）
-  - 跑步：玩家可在遊戲中設定自己在跑的狀態，但跑步的時間會消耗氣力，氣力滿時為100%，當跑步的時候，氣力會隨玩家攜帶的物品，及穿著的衣服、裝甲的重量大小而消耗。付费玩家的*敏捷度*等級越高，便能加快存取跑步的氣力。（有關*敏捷度*，請參見[技能](../Page/#.E6.8A.80.E8.83.BD.md "wikilink")）
+  - 步行：玩家可隨意透過滑鼠的按鍵，在畫面上目的地按一下即可移動。（詳情可見[遊戲操作方法](https://zh.wikipedia.org/wiki/#.E6.93.8D.E4.BD.9C.E6.96.B9.E6.B3.95 "wikilink")）
+  - 跑步：玩家可在遊戲中設定自己在跑的狀態，但跑步的時間會消耗氣力，氣力滿時為100%，當跑步的時候，氣力會隨玩家攜帶的物品，及穿著的衣服、裝甲的重量大小而消耗。付费玩家的*敏捷度*等級越高，便能加快存取跑步的氣力。（有關*敏捷度*，請參見[技能](https://zh.wikipedia.org/wiki/#.E6.8A.80.E8.83.BD "wikilink")）
   - 魔法瞬間轉移術\[5\]：玩家可使用魔法石，念出指定的魔法，便能瞬間轉移到指定地點。玩家的魔法等級，能念的瞬間轉移術的數量越多。有些需要很高的魔法等級，而且是付費會員專用，可念出把別的玩家瞬間轉移到指定地點。特定的物品也有类似魔法瞬移的效果。自动人物也会提供传送服务。
-  - [滑翔機](../Page/滑翔機.md "wikilink")：此功能現時只供付費會員使用。玩家完成“盛大的樹（The Grand
+  - [滑翔機](https://zh.wikipedia.org/wiki/滑翔機 "wikilink")：此功能現時只供付費會員使用。玩家完成“盛大的樹（The
+    Grand
     Tree）”任务后，可透過與指定的树精（gnome）對話，便可使用滑翔機服務，飛到指定的地點。（有些路線需要玩家完成其他任務後才能使用）
   - [船](../Page/船.md "wikilink")：玩家可到指定碼頭透過與指定的自動玩家（NPC）對話，可使用乘船服務，到指定的岸邊。玩家也能自行制作独木舟旅行。
-  - [地铁](../Page/地铁.md "wikilink")：此功能現時只供付費會員使用。完成“另外一片「火腿」（Another
+  - [地铁](https://zh.wikipedia.org/wiki/地铁 "wikilink")：此功能現時只供付費會員使用。完成“另外一片「火腿」（Another
     Slice of H.A.M.）”任务以后可以使用，由矮人（dwarf）运营。
-  - [热气球](../Page/热气球.md "wikilink")：此功能現時只供付費會員使用。完成“启明旅程（Enlightened
+  - [热气球](https://zh.wikipedia.org/wiki/热气球 "wikilink")：此功能現時只供付費會員使用。完成“启明旅程（Enlightened
     journey）”任务以后可以使用，自己要明白操作规则，解鎖路線後才能到達指定地方。
-  - [仙女环](../Page/仙女环.md "wikilink"):此功能現時只供付費會員使用。在“神话——第二部分（A
+  - [仙女环](https://zh.wikipedia.org/wiki/仙女环 "wikilink"):此功能現時只供付費會員使用。在“神话——第二部分（A
     Fairytale Part II）”中获得仙子教父（fairy
     godfather）许可后就使用。装备特定的法杖后，从一个分环传送到母环，再在母环拨号传送到其他分环。
-  - [精神之树](../Page/精神之树.md "wikilink")：此功能現時只供付費會員使用。完成“树精村（Tree gnome
-    village）”任务后可以使用。有83级农业的玩家可以自己栽一棵。（有83级农业和完成The Prisoner of
+  - [精神之树](https://zh.wikipedia.org/wiki/精神之树 "wikilink")：此功能現時只供付費會員使用。完成“树精村（Tree
+    gnome village）”任务后可以使用。有83级农业的玩家可以自己栽一棵。（有83级农业和完成The Prisoner of
     Glouphrie的玩家可再栽一棵）
-  - [捷徑](../Page/捷徑.md "wikilink")：此功能現時只供付費會員使用。玩家可透過捷徑，走到目的地，避免需要繞過大路才到目的地。玩家的*敏捷度*等級越高，可使用的捷徑越多。（有關*敏捷度*，請參見[技能](../Page/#.E6.8A.80.E8.83.BD.md "wikilink")）
+  - [捷徑](https://zh.wikipedia.org/wiki/捷徑 "wikilink")：此功能現時只供付費會員使用。玩家可透過捷徑，走到目的地，避免需要繞過大路才到目的地。玩家的*敏捷度*等級越高，可使用的捷徑越多。（有關*敏捷度*，請參見[技能](https://zh.wikipedia.org/wiki/#.E6.8A.80.E8.83.BD "wikilink")）
 
 ### 技能
 
@@ -68,7 +69,7 @@ Classic不容許新用戶申請。
 
   - 經驗值：
 
-玩家能通過使用那些技能而得到該技能的經驗值，例如：釣[鲑魚能訓練釣魚](../Page/鲑魚.md "wikilink")，增加釣魚的經驗值。隨著經驗值增加，技能等級就越高，能使用的道具也更多更好。
+玩家能通過使用那些技能而得到該技能的經驗值，例如：釣[鲑魚能訓練釣魚](https://zh.wikipedia.org/wiki/鲑魚 "wikilink")，增加釣魚的經驗值。隨著經驗值增加，技能等級就越高，能使用的道具也更多更好。
 每個技能的最低經驗是0，最高是200,000,000。25個技能全部練成後總經驗是5,000,000,000，可是到現在為止，只有一位玩家到達此標準。\[7\]
 
 在遊戲裏，有二十五種技能\[8\]，包括四大類（*斜體者為付費會員專用技能*）：
@@ -157,11 +158,11 @@ system）。在某個技術上，等級低的玩家可以向等级高的玩家�
 ### PvP世界
 
 **PvP世界**（PvP
-Worlds）\[12\]。供真正玩家們互相打鬥或戰爭。PvP世界於2008年10月15日推出。PvP世界的前身是2007年12月被取消的「荒野」（Wilderness），詳情可見[\#黑暗領域](../Page/#黑暗領域.md "wikilink")。
+Worlds）\[12\]。供真正玩家們互相打鬥或戰爭。PvP世界於2008年10月15日推出。PvP世界的前身是2007年12月被取消的「荒野」（Wilderness），詳情可見[\#黑暗領域](https://zh.wikipedia.org/wiki/#黑暗領域 "wikilink")。
 
 玩家可自選進行PvP世界，而進行PvP世界前，會彈出警告，避免一些不知情的玩家胡亂進入了PvP世界而死亡。
 
-在PvP世界上，玩家可根據指示，攻打指定級數的玩家。在不同範圍，玩家可攻打指定級數的玩家，但某些指定的地方不能進行打鬥，即安全地帶，包括：銀行、交易市場、Lumbridge城堡等。玩家頭上會出現一個白色骷髏頭的標誌，指死亡後不會取回任何物品。（除非啟動了指定的祈禱或在指定的世界，便可取回多一件物品。）。（詳情可見[RuneScape遊戲中死亡](../Page/#死亡.md "wikilink")。）
+在PvP世界上，玩家可根據指示，攻打指定級數的玩家。在不同範圍，玩家可攻打指定級數的玩家，但某些指定的地方不能進行打鬥，即安全地帶，包括：銀行、交易市場、Lumbridge城堡等。玩家頭上會出現一個白色骷髏頭的標誌，指死亡後不會取回任何物品。（除非啟動了指定的祈禱或在指定的世界，便可取回多一件物品。）。（詳情可見[RuneScape遊戲中死亡](https://zh.wikipedia.org/wiki/#死亡 "wikilink")。）
 
 當某玩家殺死了另一位玩家後，另一位玩家死亡前的物品会掉落作为獎品。
 
@@ -176,7 +177,7 @@ War）、賞金獵人（Bounty
 Hunter）及Revenants（幽灵）。\[15\]主要原因是因為遊戲官方發覺很多玩家把一帳戶擁用的道具，作为死亡奖品交易給另一帳戶，使游戏经济變得不公平。
 
 在黑暗領域被取消後，被賞金獵人取代，因為只有它擁有PvP功能及供所有玩家自愿使用，但由於遊戲的規限太多，因為，不太受歡迎。同時，很多玩家一直在訴求重建PvP功能。直到2008年8月15日，官方推出一個擁有PvP功能的建備
-- PvP世界（詳見[PvP世界](../Page/#PvP世界.md "wikilink")）。
+- PvP世界（詳見[PvP世界](https://zh.wikipedia.org/wiki/#PvP世界 "wikilink")）。
 
 以前在荒野領域中，主要的挑戰是遭遇Revenants，它們會單獨，或一群地隨機四處走動。Revenants一碰見真正玩家，便會發出攻擊，三种都会。而且，幽灵能够模仿玩家吃食物补血。因此，玩家一碰到Revenants的話，若要逃走的話，需要不停地奔跑。因此，Revenants為在黑暗領域做任務或探索的玩家，帶來一定的麻煩。
 Revenants在2012年2月1日不再四處走動，而是在一洞穴（Forinthry
@@ -193,7 +194,7 @@ Event)\[16\]是一個隨機地發生在遊戲內，視乎玩家的行動。例�
 
 ### 節日活動
 
-**節日活動**\[18\]，是為了配合節日氣氛而設計的。節日活動由2001年[萬聖節開始](../Page/萬聖節.md "wikilink")，Jagex只會針對[復活節](../Page/復活節.md "wikilink")、[萬聖節及](../Page/萬聖節.md "wikilink")[聖誕節而設計節日活動](../Page/聖誕節.md "wikilink")。節日活動要求玩家完成一個有關該節日的任務（例如砌雪人、尋找復活蛋等），而獎品會是一個動作、一件裝飾品。一個節日活動會進行大約兩星期，活動完結後，節日活動任務便不能再做，也不會有獎品。那即是獎品在一個節日活動完成後，便是絕版了。在2002年[聖誕節前的所有節日活動獎品](../Page/聖誕節.md "wikilink")，都可以交易。期後，所有獎品都不能交易，丟到地方也不能被其他玩家看見或拾到，只能夠自己收藏。若遺失了，可向指定自動玩家取回。在2002年[聖誕節前的所有節日活動獎品](../Page/聖誕節.md "wikilink")，在現時是非常罕有的，因此，價格非常高。另外，每個節日活動，都會有特定的佈置，以迎合節日氣氛。
+**節日活動**\[18\]，是為了配合節日氣氛而設計的。節日活動由2001年[萬聖節開始](https://zh.wikipedia.org/wiki/萬聖節 "wikilink")，Jagex只會針對[復活節](https://zh.wikipedia.org/wiki/復活節 "wikilink")、[萬聖節及](https://zh.wikipedia.org/wiki/萬聖節 "wikilink")[聖誕節而設計節日活動](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")。節日活動要求玩家完成一個有關該節日的任務（例如砌雪人、尋找復活蛋等），而獎品會是一個動作、一件裝飾品。一個節日活動會進行大約兩星期，活動完結後，節日活動任務便不能再做，也不會有獎品。那即是獎品在一個節日活動完成後，便是絕版了。在2002年[聖誕節前的所有節日活動獎品](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，都可以交易。期後，所有獎品都不能交易，丟到地方也不能被其他玩家看見或拾到，只能夠自己收藏。若遺失了，可向指定自動玩家取回。在2002年[聖誕節前的所有節日活動獎品](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，在現時是非常罕有的，因此，價格非常高。另外，每個節日活動，都會有特定的佈置，以迎合節日氣氛。
 
 在2008年11月26日\[19\]\[20\]，官方首次推出特殊的節日活動－2008年感謝日（Thanksgiving 2008
 Event），與其它節日活動不相同。
@@ -213,7 +214,7 @@ RuneScape提供一個讓玩家們可互相溝通的聊天系統(Chat System)。\
 Chat)、「聊天室」(Clan Chat)及「私人聊天」(Private
 Chat)來互相聯絡。公共聊天即讓玩家能在遊戲中任何一個地方說話，讓別人看見；私人聊天即是一對一對話；聊天室則讓一群玩家不論在遊戲中任何地方，都可在自選聊天室頻道中看到別人的對話及自己的說話。每個人都有自己的一個聊天室頻道，而聊天室頻道都有一個管理員，即是自己的頻道。管理員可選擇自己聊天室的開放性（如：公開的、只有朋友的等）。並可設定不同參與者的用戶組，不同用戶組有不同職責或選項，例如，該用戶組可：說話、強制某參與者離開等。
 
-官方亦使用了[關鍵詞過濾](../Page/關鍵詞過濾.md "wikilink")，避免玩家說了一些不當詞語，或人身攻擊。該些不當詞語會轉為"\*"。除此之外，若某玩家說了一些不當詞語，而沒有被過濾，若被其他人或官方發現，將會被懲罰禁言多天。（詳情可閱讀[懲罰](../Page/#.E6.87.B2.E7.BD.B0.md "wikilink")）當玩家被禁言時，不能透過官方遊戲論壇、公共聊天、聊天室及私人聊天說話，直至解禁為止。
+官方亦使用了[關鍵詞過濾](../Page/關鍵詞過濾.md "wikilink")，避免玩家說了一些不當詞語，或人身攻擊。該些不當詞語會轉為"\*"。除此之外，若某玩家說了一些不當詞語，而沒有被過濾，若被其他人或官方發現，將會被懲罰禁言多天。（詳情可閱讀[懲罰](https://zh.wikipedia.org/wiki/#.E6.87.B2.E7.BD.B0 "wikilink")）當玩家被禁言時，不能透過官方遊戲論壇、公共聊天、聊天室及私人聊天說話，直至解禁為止。
 
 所有申請時選擇自己的歲數為13歲或以下的，都不能在遊戲中說話，等同禁言，除非得到父母申請\[23\]。但由於歲數是自填的，因此未到13歲的玩家亦可選擇13歲以上，亦不受禁言影響。
 
@@ -238,11 +239,11 @@ Runescape有三大王國、眾多行政區域、小島和荒廢的地方，裡�
 
 RuneScape
 Classic\[27\]是RuneScape的舊版本，亦可說是它的前身。在2001年1月4日推出試用版本，其後在2002年2月推出正式版本，並允許玩家付款成為付費會員。於2004年3月29日推出第二版，畫質被完全翻新，並將舊版命名為Runescape
-Classic。但期後，官方發現大量玩家使用[外掛程式](../Page/外掛程式.md "wikilink")，因此，一共封鎖了多於5000位玩家，並停止新玩家注冊RuneScape
+Classic。但期後，官方發現大量玩家使用[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，因此，一共封鎖了多於5000位玩家，並停止新玩家注冊RuneScape
 Classic至今。只有2005年8月3日前有登入過的玩家，並且是付費玩家，才可登錄\[28\]。
 
 RuneScape
-Classic佔有2個遊戲伺服器，並位於[英國](../Page/英國.md "wikilink")，每個伺服器只容納1,250名玩家，共2,500名。
+Classic佔有2個遊戲伺服器，並位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，每個伺服器只容納1,250名玩家，共2,500名。
 
 ## 付費會員
 
@@ -331,7 +332,7 @@ Muted)\[32\]玩家可以透過這功能，查看自己被處罰的原因、證�
 
 ## 健力士世界紀錄獎項
 
-於2008年8月，Runescape被列入[健力士世界紀錄大全](../Page/健力士世界紀錄大全.md "wikilink")，項目為：玩家總數最多的[免費的](../Page/免費.md "wikilink")[大型多人在线角色扮演游戏（MMORPG）](../Page/MMORPG.md "wikilink")。\[33\]
+於2008年8月，Runescape被列入[健力士世界紀錄大全](https://zh.wikipedia.org/wiki/健力士世界紀錄大全 "wikilink")，項目為：玩家總數最多的[免費的](https://zh.wikipedia.org/wiki/免費 "wikilink")[大型多人在线角色扮演游戏（MMORPG）](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。\[33\]
 
 ## 產品
 

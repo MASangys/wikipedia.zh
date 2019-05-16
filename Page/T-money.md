@@ -1,26 +1,26 @@
 [T-moenycard.jpg](https://zh.wikipedia.org/wiki/File:T-moenycard.jpg "fig:T-moenycard.jpg")
 
-**T-money**是一種在[韓國](../Page/韓國.md "wikilink")[首爾及鄰近城市使用的公共交通](../Page/首爾.md "wikilink")[智能卡系統](../Page/智能卡.md "wikilink")。使用非接觸式智能卡設計，基本卡售價為3,000[韓圆](../Page/韓圆.md "wikilink")，需另外增值；在首爾市內的[便利店](../Page/便利店.md "wikilink")、[7-11](../Page/7-11.md "wikilink")、[首爾地鐵各車站票務處等地發售及增值](../Page/首爾地鐵.md "wikilink")。
-本智慧卡系統由韓國智慧卡公司負責營運與發行，該公司由[首爾市政府](../Page/首爾市政府.md "wikilink")34.4%控股、LG
+**T-money**是一種在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾及鄰近城市使用的公共交通](https://zh.wikipedia.org/wiki/首爾 "wikilink")[智能卡系統](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用非接觸式智能卡設計，基本卡售價為3,000[韓圆](https://zh.wikipedia.org/wiki/韓圆 "wikilink")，需另外增值；在首爾市內的[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[7-11](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[首爾地鐵各車站票務處等地發售及增值](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")。
+本智慧卡系統由韓國智慧卡公司負責營運與發行，該公司由[首爾市政府](https://zh.wikipedia.org/wiki/首爾市政府 "wikilink")34.4%控股、LG
 CNS 31.85%控股以及信用卡聯盟15.71%控股。
 
 ## 使用範圍
 
-  - 所有[首爾](../Page/首爾.md "wikilink")，[京畿道](../Page/京畿道.md "wikilink")，[仁川](../Page/仁川.md "wikilink")，
-    [釜山](../Page/釜山市.md "wikilink"),[大邱](../Page/大邱.md "wikilink"),
+  - 所有[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，[京畿道](../Page/京畿道.md "wikilink")，[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")，
+    [釜山](https://zh.wikipedia.org/wiki/釜山市 "wikilink"),[大邱](https://zh.wikipedia.org/wiki/大邱 "wikilink"),
     [大田和](../Page/大田广域市.md "wikilink")[光州巴士](../Page/光州.md "wikilink")
-  - [首爾](../Page/首爾地鐵.md "wikilink")，[仁川](../Page/仁川地鐵.md "wikilink")，[釜山](../Page/釜山都市鐵道.md "wikilink")，[大邱](../Page/大邱地鐵.md "wikilink")，[大田以及](../Page/大田都市鐵道.md "wikilink")[光州都市鐵道網絡](../Page/光州都市鐵道.md "wikilink")
+  - [首爾](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")，[仁川](https://zh.wikipedia.org/wiki/仁川地鐵 "wikilink")，[釜山](../Page/釜山都市鐵道.md "wikilink")，[大邱](https://zh.wikipedia.org/wiki/大邱地鐵 "wikilink")，[大田以及](../Page/大田都市鐵道.md "wikilink")[光州都市鐵道網絡](../Page/光州都市鐵道.md "wikilink")
   - [仁川國際機場鐵道](../Page/仁川國際機場鐵道.md "wikilink")，[議政府輕電鐵](../Page/議政府輕電鐵.md "wikilink"),
-    [龍仁輕電鐵](../Page/龍仁輕電鐵.md "wikilink"),
-    [新盆唐線以及](../Page/新盆唐線.md "wikilink")[釜山－金海輕軌](../Page/釜山－金海輕軌.md "wikilink")
-  - 所有[世宗特別自治市](../Page/世宗特別自治市.md "wikilink")，[忠清道以及](../Page/忠清道.md "wikilink")[全羅北道巴士](../Page/全羅北道.md "wikilink")
-  - 所有[江原道巴士](../Page/江原道.md "wikilink")
-  - 所有在[慶尙北道內的](../Page/慶尙北道.md "wikilink")(軍威,盈德,英陽,青松除外)的城市巴士
-  - [慶尙南道城市巴士](../Page/慶尙南道.md "wikilink")
+    [龍仁輕電鐵](https://zh.wikipedia.org/wiki/龍仁輕電鐵 "wikilink"),
+    [新盆唐線以及](https://zh.wikipedia.org/wiki/新盆唐線 "wikilink")[釜山－金海輕軌](https://zh.wikipedia.org/wiki/釜山－金海輕軌 "wikilink")
+  - 所有[世宗特別自治市](../Page/世宗特別自治市.md "wikilink")，[忠清道以及](https://zh.wikipedia.org/wiki/忠清道 "wikilink")[全羅北道巴士](../Page/全羅北道.md "wikilink")
+  - 所有[江原道巴士](https://zh.wikipedia.org/wiki/江原道 "wikilink")
+  - 所有在[慶尙北道內的](https://zh.wikipedia.org/wiki/慶尙北道 "wikilink")(軍威,盈德,英陽,青松除外)的城市巴士
+  - [慶尙南道城市巴士](https://zh.wikipedia.org/wiki/慶尙南道 "wikilink")
   - [全羅南道城市巴士](../Page/全羅南道.md "wikilink")(珍島,莞島除外)
   - 所有[濟州特別自治道巴士](../Page/濟州特別自治道.md "wikilink")
 
-包括首爾四大宮殿([慶熙宮除外](../Page/慶熙宮.md "wikilink"))、部分景點和商店([教保文庫](../Page/教保文庫.md "wikilink")，[樂天世界主題公園](../Page/樂天世界.md "wikilink")，[GS25](../Page/GS25.md "wikilink")，CU/[FamilyMart](../Page/FamilyMart.md "wikilink"))也是接受T-money作為付款方式。
+包括首爾四大宮殿([慶熙宮除外](../Page/慶熙宮.md "wikilink"))、部分景點和商店([教保文庫](https://zh.wikipedia.org/wiki/教保文庫 "wikilink")，[樂天世界主題公園](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")，[GS25](../Page/GS25.md "wikilink")，CU/[FamilyMart](../Page/FamilyMart.md "wikilink"))也是接受T-money作為付款方式。
 
 ## 卡片種類
 
@@ -47,13 +47,14 @@ can be emailed to customer service along with supporting documentation.
 ### 相關卡
 
   - 定期票
-    (정기권)：為[首爾和](../Page/首爾.md "wikilink")[仁川](../Page/仁川廣域市.md "wikilink")[地鐵的月票](../Page/地鐵.md "wikilink")。
+    (정기권)：為[首爾和](https://zh.wikipedia.org/wiki/首爾 "wikilink")[仁川](../Page/仁川廣域市.md "wikilink")[地鐵的月票](../Page/地鐵.md "wikilink")。
   - T-money
-    Mpass：與[首爾市](../Page/首爾.md "wikilink")[公車合作](../Page/公車.md "wikilink")，單日最多可搭乘大眾交通工具二十次。
+    Mpass：與[首爾市](https://zh.wikipedia.org/wiki/首爾 "wikilink")[公車合作](https://zh.wikipedia.org/wiki/公車 "wikilink")，單日最多可搭乘大眾交通工具二十次。
   - Seoul Citypass Plus：同為T-money卡，於觀光景點有額外優惠。
   - Mobile T-money： is a
-    RF-/[NFC](../Page/Near_field_communication.md "wikilink")-[Subscriber
-    Identity Module](../Page/Subscriber_Identity_Module.md "wikilink")
+    RF-/[NFC](https://zh.wikipedia.org/wiki/Near_field_communication "wikilink")-[Subscriber
+    Identity
+    Module](https://zh.wikipedia.org/wiki/Subscriber_Identity_Module "wikilink")
     based T-money service. Mobile T-money application is available on
     [Google Play](../Page/Google_Play.md "wikilink") and each mobile
     service provider's ESD.
@@ -61,7 +62,8 @@ can be emailed to customer service along with supporting documentation.
 ### 其他
 
   - eB Card(eBest Card, used in Gyeonggi & Incheon province), now
-    discontinued. → See [cashBee](../Page/cashBee.md "wikilink").
+    discontinued. → See
+    [cashBee](https://zh.wikipedia.org/wiki/cashBee "wikilink").
   - Sensepass T-money, previously Topcash T-money, sold in the
     Gyeongsangnam and Gyeongsangbuk Provinces except Andong. Not wholly
     compatible with Smart T-money.
@@ -69,17 +71,21 @@ can be emailed to customer service along with supporting documentation.
     T-money.
   - POP card, sold in [GS25](../Page/GS25.md "wikilink"). This is a
     rebranded Smart T-money with
-    [GS\&Point](../Page/GS_Caltex.md "wikilink") and Happy Point
-    [loyalty card](../Page/Loyalty_program.md "wikilink").
+    [GS\&Point](https://zh.wikipedia.org/wiki/GS_Caltex "wikilink") and
+    Happy Point [loyalty
+    card](https://zh.wikipedia.org/wiki/Loyalty_program "wikilink").
   - Narasarang Card, issued by [Shinhan
-    Card](../Page/Shinhan_Card.md "wikilink")·[Shinhan
-    Bank](../Page/Shinhan_Bank.md "wikilink") and
-    [NMD/MMA](../Page/Ministry_of_National_Defence_\(Republic_of_Korea\).md "wikilink").
-    This is a [K-Cash](../Page/K-Cash.md "wikilink") enabled [debit
-    card](../Page/debit_card.md "wikilink") with POP card functionality.
-    This card is only issued to ROTC officers and [ROK Armed
-    Forces](../Page/Republic_of_Korea_Armed_Forces.md "wikilink")
-    enlisted person including [KATUSA](../Page/KATUSA.md "wikilink").
+    Card](https://zh.wikipedia.org/wiki/Shinhan_Card "wikilink")·[Shinhan
+    Bank](https://zh.wikipedia.org/wiki/Shinhan_Bank "wikilink") and
+    [NMD/MMA](https://zh.wikipedia.org/wiki/Ministry_of_National_Defence_\(Republic_of_Korea\) "wikilink").
+    This is a [K-Cash](https://zh.wikipedia.org/wiki/K-Cash "wikilink")
+    enabled [debit
+    card](https://zh.wikipedia.org/wiki/debit_card "wikilink") with POP
+    card functionality. This card is only issued to ROTC officers and
+    [ROK Armed
+    Forces](https://zh.wikipedia.org/wiki/Republic_of_Korea_Armed_Forces "wikilink")
+    enlisted person including
+    [KATUSA](https://zh.wikipedia.org/wiki/KATUSA "wikilink").
 
 ## 歷史
 
@@ -94,7 +100,7 @@ can be emailed to customer service along with supporting documentation.
 
 ## 參見
 
-  - [RFID](../Page/無線射頻辨識.md "wikilink")
+  - [RFID](https://zh.wikipedia.org/wiki/無線射頻辨識 "wikilink")
 
 ## 參考資料
 

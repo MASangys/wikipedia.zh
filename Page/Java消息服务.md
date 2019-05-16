@@ -1,5 +1,5 @@
 **Java消息服务**（**Java Message
-Service**，**JMS**）[应用程序接口是一个](../Page/应用程序接口.md "wikilink")[Java平台中关于](../Page/Java.md "wikilink")[面向消息中间件](../Page/面向消息中间件.md "wikilink")（MOM）的[API](../Page/API.md "wikilink")，用于在两个应用程序之间，或分布式系统中发送消息，进行异步通信。Java消息服务是一个与具体平台无关的API，绝大多数MOM提供商都对JMS提供支持。
+Service**，**JMS**）[应用程序接口是一个](../Page/应用程序接口.md "wikilink")[Java平台中关于](../Page/Java.md "wikilink")[面向消息中间件](https://zh.wikipedia.org/wiki/面向消息中间件 "wikilink")（MOM）的[API](https://zh.wikipedia.org/wiki/API "wikilink")，用于在两个应用程序之间，或分布式系统中发送消息，进行异步通信。Java消息服务是一个与具体平台无关的API，绝大多数MOM提供商都对JMS提供支持。
 
 Java消息服务的规范包括两种消息模式，点对点和发布者／订阅者。许多提供商支持这一通用框架因此，程序员可以在他们的分布式软件中实现面向消息的操作，这些操作将具有不同面向消息中间件产品的可移植性。
 
@@ -12,7 +12,7 @@ Java消息服务支持面向事件的方法接收消息，[事件驱动的程序
 ## 历史
 
 Java消息服务是一个在
-[Java标准化组织](../Page/Java标准化组织.md "wikilink")（[JCP](../Page/JCP.md "wikilink")）内开发的标准（代号JSR
+[Java标准化组织](https://zh.wikipedia.org/wiki/Java标准化组织 "wikilink")（[JCP](../Page/JCP.md "wikilink")）内开发的标准（代号JSR
 914）。2001年6月25日，Java消息服务发布JMS 1.0.2b，2002年3月18日Java消息服务发布 1.1，统一了消息域。
 
 ## 体系架构
@@ -58,8 +58,8 @@ JMS由以下元素组成。
 
 Java消息服务应用程序结构支持两种模型：
 
-  - [点对点或队列模型](../Page/点对点.md "wikilink")
-  - [发布/订阅模型](../Page/发布/订阅.md "wikilink")
+  - [点对点或队列模型](https://zh.wikipedia.org/wiki/点对点 "wikilink")
+  - [发布/订阅模型](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")
 
 在点对点或队列模型下，一个生产者向一个特定的队列发布消息，一个消费者从该队列中读取消息。这里，生产者知道消费者的队列，并直接将消息发送到消费者的队列。这种模式被概括为：
 
@@ -72,13 +72,13 @@ Java消息服务应用程序结构支持两种模型：
   - 多个消费者可以获得消息
   - 在发布者和订阅者之间存在时间依赖性。发布者需要建立一个订阅（subscription），以便客户能够购订阅。订阅者必须保持持续的活动状态以接收消息，除非订阅者建立了持久的订阅。在那种情况下，在订阅者未连接时发布的消息将在订阅者重新连接时重新发布。
 
-使用Java语言，JMS提供了将应用与提供数据的传输层相分离的方式。同一组Java[类可以通过](../Page/类.md "wikilink")[JNDI中关于提供者的信息](../Page/Java命名和目录接口.md "wikilink")，连接不同的JMS提供者。这一组类首先使用一个连接工厂以连接到队列或主题，然后发送或发布消息。在接收端，客户接收或订阅这些消息。
+使用Java语言，JMS提供了将应用与提供数据的传输层相分离的方式。同一组Java[类可以通过](https://zh.wikipedia.org/wiki/类 "wikilink")[JNDI中关于提供者的信息](https://zh.wikipedia.org/wiki/Java命名和目录接口 "wikilink")，连接不同的JMS提供者。这一组类首先使用一个连接工厂以连接到队列或主题，然后发送或发布消息。在接收端，客户接收或订阅这些消息。
 
 ## JMS应用程序接口
 
 Java消息服务的API在包中提供。
 
-###  [接口](../Page/接口.md "wikilink")（连接工厂）
+###  [接口](https://zh.wikipedia.org/wiki/接口 "wikilink")（连接工厂）
 
 用户用来创建到JMS提供者的连接的被管对象。JMS客户通过可移植的接口访问连接，这样当下层的实现改变时，代码不需要进行修改。
 管理员在JNDI名字空间中配置连接工厂，这样，JMS客户才能够查找到它们。根据消息类型的不同，用户将使用队列连接工厂，或者主题连接工厂。
@@ -115,13 +115,13 @@ Java消息服务的API在包中提供。
 
 ## JMS提供者实现
 
-要使用Java消息服务，你必须要有一个JMS提供者，管理会话和队列。现在既有[开源的提供者也有专有的提供者](../Page/开源.md "wikilink")。
+要使用Java消息服务，你必须要有一个JMS提供者，管理会话和队列。现在既有[开源的提供者也有专有的提供者](https://zh.wikipedia.org/wiki/开源 "wikilink")。
 
 开源的提供者包括：
 
   - [Kafka](../Page/Kafka.md "wikilink")
   - [Apache ActiveMQ](../Page/Apache_ActiveMQ.md "wikilink")
-  - [JBoss](../Page/JBoss.md "wikilink") 社區所研發的
+  - [JBoss](https://zh.wikipedia.org/wiki/JBoss "wikilink") 社區所研發的
     [HornetQ](../Page/HornetQ.md "wikilink")
   - [Joram](http://joram.objectweb.org)
   - Coridan的[MantaRay](http://mantaray.coridan.com)
@@ -129,30 +129,33 @@ Java消息服务的API在包中提供。
 
 专有的提供者包括：
 
-  - [BEA的BEA](../Page/BEA.md "wikilink") WebLogic Server JMS
+  - [BEA的BEA](https://zh.wikipedia.org/wiki/BEA "wikilink") WebLogic
+    Server JMS
   - [TIBCO软件公司的](../Page/TIBCO软件公司.md "wikilink")[EMS](https://web.archive.org/web/20060315192527/http://www.tibco.com/software/enterprise_backbone/enterprisemessageservice.jsp)
   - [GigaSpaces Technologies](http://www.gigaspaces.com)的GigaSpaces
   - [Softwired 2006](https://archive.is/20140608041926/http://www.softwired-inc.com/)的iBus
-  - [IONA Technologies的IONA](../Page/IONA_Technologies.md "wikilink")
+  - [IONA
+    Technologies的IONA](https://zh.wikipedia.org/wiki/IONA_Technologies "wikilink")
     JMS
   - [SeeBeyond](http://www.seebeyond.com)的IQManager（2005年8月被[Sun
-    Microsystems并购](../Page/Sun_Microsystems.md "wikilink")）
-  - [webMethods的JMS](../Page/webMethods.md "wikilink")+ -
-    <http://www.webmethods.com>
+    Microsystems并购](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")）
+  - [webMethods的JMS](https://zh.wikipedia.org/wiki/webMethods "wikilink")+
+    - <http://www.webmethods.com>
   - [my-channels](http://www.my-channels.com)的Nirvana
-  - [Sonic Software的SonicMQ](../Page/Sonic_Software.md "wikilink")
+  - [Sonic
+    Software的SonicMQ](https://zh.wikipedia.org/wiki/Sonic_Software "wikilink")
   - [IBM的WebSphere](../Page/IBM.md "wikilink") MQ
 
 一个详尽的JMS提供者对比矩阵可以在[这里](http://www.theserverside.com/reviews/matrix.tss)看到。
 
-如果你计划在一个[服务器集群中运行你的程序](../Page/服务器集群.md "wikilink")，你需要检查提供者是否实现了对负载均衡和故障恢复的支持。
+如果你计划在一个[服务器集群中运行你的程序](https://zh.wikipedia.org/wiki/服务器集群 "wikilink")，你需要检查提供者是否实现了对负载均衡和故障恢复的支持。
 
 ## 参见
 
-  - [J2EE连接器架构](../Page/J2EE连接器架构.md "wikilink")
-  - [J2EE](../Page/J2EE.md "wikilink")
-  - [JDBC](../Page/JDBC.md "wikilink")
-  - [面向消息中间件](../Page/面向消息中间件.md "wikilink")
+  - [J2EE连接器架构](https://zh.wikipedia.org/wiki/J2EE连接器架构 "wikilink")
+  - [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")
+  - [JDBC](https://zh.wikipedia.org/wiki/JDBC "wikilink")
+  - [面向消息中间件](https://zh.wikipedia.org/wiki/面向消息中间件 "wikilink")
   - [企业应用集成](../Page/企业应用集成.md "wikilink")
 
 ## 外部链接
@@ -162,6 +165,6 @@ Java消息服务的API在包中提供。
   - [GigaSpaces Technologies JavaSpaces approach to
     JMS](https://web.archive.org/web/20051216025932/http://www.gigaspaces.com/product_4.html)
 
-[分类:Java企业平台](../Page/分类:Java企业平台.md "wikilink")
+[分类:Java企业平台](https://zh.wikipedia.org/wiki/分类:Java企业平台 "wikilink")
 
 [Category:分散式計算架構](https://zh.wikipedia.org/wiki/Category:分散式計算架構 "wikilink")

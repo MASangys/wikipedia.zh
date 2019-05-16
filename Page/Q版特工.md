@@ -11,52 +11,52 @@
 
 ## 作品列表
 
-| 編號          | 書名          | 發行日期       | 備註                                                                                                                                                                                        |
-| ----------- | ----------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1           | 極度任務        | 1998年8月    |                                                                                                                                                                                           |
-| 2           | 挪亞方舟        | 1999年2月    |                                                                                                                                                                                           |
-| 3           | 百慕達三角       | 1999年8月    |                                                                                                                                                                                           |
-| 4           | 複製殺手        | 2000年11月   |                                                                                                                                                                                           |
-| 5           | 從陰間來的E-mail | 2001年9月    |                                                                                                                                                                                           |
-| 6           | 太空殺人真菌      | 2002年5月    |                                                                                                                                                                                           |
-| 7           | 魔法陷阱        | 2002年8月    |                                                                                                                                                                                           |
-| 8           | 前傳：誤闖間諜網    | 2003年3月    |                                                                                                                                                                                           |
-| 9           | 北韓危機        | 2003年1月    |                                                                                                                                                                                           |
-| 10          | 奪命潛航        | 2003年12月   |                                                                                                                                                                                           |
-| 11          | 再見真生        | 2004年9月    |                                                                                                                                                                                           |
-| 12          | 諜變密令        | 2005年1月    |                                                                                                                                                                                           |
-| 13          | 鴉殺          | 2005年6月    |                                                                                                                                                                                           |
-| 14          | 反恐狙擊912     | 2005年12月   |                                                                                                                                                                                           |
-| 15          | M殺令         | 2006年7月    |                                                                                                                                                                                           |
-| 16          | 迷城毒蹤        | 2006年12月   |                                                                                                                                                                                           |
-| 17          | 幽靈直線        | 2007年4月    |                                                                                                                                                                                           |
-| 18          | 不是任務        | 2007年7月    |                                                                                                                                                                                           |
-| 19          | 叛逃          | 2007年12月   |                                                                                                                                                                                           |
-| 20          | 千面殺機        | 2008年7月    |                                                                                                                                                                                           |
-| S1          | The Q-Files | 2008年7月    | 由[梁科慶](../Page/梁科慶.md "wikilink")、[吳蔚芹](../Page/吳蔚芹.md "wikilink")、[王心靈合編](../Page/王心靈.md "wikilink")，為《Q版特工》系列十週年紀念珍藏本。書中對《Q版特工》系列的資料作了整合，內容包括了十年出版生涯的大小事、阿Wing的公私生活、特工成員的檔案、製作花絮等。\[1\] |
-| Crossover 1 | 生死X緣        | 2008年10月   | 與《[嘉薰醫生](../Page/嘉薰醫生.md "wikilink")》作者[陳嘉薰第](../Page/陳嘉薰.md "wikilink")1次合著                                                                                                              |
-| 21          | 葬祕          | 2008年11月   |                                                                                                                                                                                           |
-| 22          | 暗幕          | 2009年4月    |                                                                                                                                                                                           |
-| 23          | 地焰劫         | 2009年7月    |                                                                                                                                                                                           |
-| 24          | 幻見          | 2009年12月   |                                                                                                                                                                                           |
-| Crossover 2 | 隱市狂徒        | 2010年7月    | 與《[嘉薰醫生](../Page/嘉薰醫生.md "wikilink")》作者[陳嘉薰第](../Page/陳嘉薰.md "wikilink")2次合著                                                                                                              |
-| 25          | 藏香          | 2010年11月   |                                                                                                                                                                                           |
-| 26          | 富仇記         | 2011年3月    |                                                                                                                                                                                           |
-| S2          | Q CONCERN   | 2011年7月    | 《Q版特工》的繪本，由[鄺志傑繪畫](../Page/鄺志傑.md "wikilink")。本書同時收錄阿Wing人生中的重要事件。                                                                                                                        |
-| 27          | 毒匣          | 2011年12月   |                                                                                                                                                                                           |
-| 28          | 裂島          | 2012年3月    |                                                                                                                                                                                           |
-| 29          | 暗域狙擊        | 2012年7月    |                                                                                                                                                                                           |
-| 30          | 潛行瘋疫        | 2013年1月    |                                                                                                                                                                                           |
-| Crossover 3 | 真生再見        | 2013年7月    | 與《[嘉薰醫生](../Page/嘉薰醫生.md "wikilink")》作者[陳嘉薰第](../Page/陳嘉薰.md "wikilink")3次合著                                                                                                              |
-| 31          | 死亡拍賣會       | 2013年12月   |                                                                                                                                                                                           |
-| 32          | 奪寶殺機        | 2014年7月11日 |                                                                                                                                                                                           |
-| 33          | 玩命交易        | 2015年1月27日 |                                                                                                                                                                                           |
-| 34          | 暴風危情        | 2015年7月15日 |                                                                                                                                                                                           |
-| 35          | 元朗故事        | 2016年4月    |                                                                                                                                                                                           |
-| 36          | 銀狐          | 2016年7月    |                                                                                                                                                                                           |
-| 37          | 撕裂          | 2017年1月    |                                                                                                                                                                                           |
-| 38          | 逃出北京        | 2017年7月    |                                                                                                                                                                                           |
-| 39          | (待定)        | 2019年      |                                                                                                                                                                                           |
+| 編號          | 書名          | 發行日期       | 備註                                                                                                                                                                                                                              |
+| ----------- | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1           | 極度任務        | 1998年8月    |                                                                                                                                                                                                                                 |
+| 2           | 挪亞方舟        | 1999年2月    |                                                                                                                                                                                                                                 |
+| 3           | 百慕達三角       | 1999年8月    |                                                                                                                                                                                                                                 |
+| 4           | 複製殺手        | 2000年11月   |                                                                                                                                                                                                                                 |
+| 5           | 從陰間來的E-mail | 2001年9月    |                                                                                                                                                                                                                                 |
+| 6           | 太空殺人真菌      | 2002年5月    |                                                                                                                                                                                                                                 |
+| 7           | 魔法陷阱        | 2002年8月    |                                                                                                                                                                                                                                 |
+| 8           | 前傳：誤闖間諜網    | 2003年3月    |                                                                                                                                                                                                                                 |
+| 9           | 北韓危機        | 2003年1月    |                                                                                                                                                                                                                                 |
+| 10          | 奪命潛航        | 2003年12月   |                                                                                                                                                                                                                                 |
+| 11          | 再見真生        | 2004年9月    |                                                                                                                                                                                                                                 |
+| 12          | 諜變密令        | 2005年1月    |                                                                                                                                                                                                                                 |
+| 13          | 鴉殺          | 2005年6月    |                                                                                                                                                                                                                                 |
+| 14          | 反恐狙擊912     | 2005年12月   |                                                                                                                                                                                                                                 |
+| 15          | M殺令         | 2006年7月    |                                                                                                                                                                                                                                 |
+| 16          | 迷城毒蹤        | 2006年12月   |                                                                                                                                                                                                                                 |
+| 17          | 幽靈直線        | 2007年4月    |                                                                                                                                                                                                                                 |
+| 18          | 不是任務        | 2007年7月    |                                                                                                                                                                                                                                 |
+| 19          | 叛逃          | 2007年12月   |                                                                                                                                                                                                                                 |
+| 20          | 千面殺機        | 2008年7月    |                                                                                                                                                                                                                                 |
+| S1          | The Q-Files | 2008年7月    | 由[梁科慶](../Page/梁科慶.md "wikilink")、[吳蔚芹](https://zh.wikipedia.org/wiki/吳蔚芹 "wikilink")、[王心靈合編](https://zh.wikipedia.org/wiki/王心靈 "wikilink")，為《Q版特工》系列十週年紀念珍藏本。書中對《Q版特工》系列的資料作了整合，內容包括了十年出版生涯的大小事、阿Wing的公私生活、特工成員的檔案、製作花絮等。\[1\] |
+| Crossover 1 | 生死X緣        | 2008年10月   | 與《[嘉薰醫生](https://zh.wikipedia.org/wiki/嘉薰醫生 "wikilink")》作者[陳嘉薰第](https://zh.wikipedia.org/wiki/陳嘉薰 "wikilink")1次合著                                                                                                              |
+| 21          | 葬祕          | 2008年11月   |                                                                                                                                                                                                                                 |
+| 22          | 暗幕          | 2009年4月    |                                                                                                                                                                                                                                 |
+| 23          | 地焰劫         | 2009年7月    |                                                                                                                                                                                                                                 |
+| 24          | 幻見          | 2009年12月   |                                                                                                                                                                                                                                 |
+| Crossover 2 | 隱市狂徒        | 2010年7月    | 與《[嘉薰醫生](https://zh.wikipedia.org/wiki/嘉薰醫生 "wikilink")》作者[陳嘉薰第](https://zh.wikipedia.org/wiki/陳嘉薰 "wikilink")2次合著                                                                                                              |
+| 25          | 藏香          | 2010年11月   |                                                                                                                                                                                                                                 |
+| 26          | 富仇記         | 2011年3月    |                                                                                                                                                                                                                                 |
+| S2          | Q CONCERN   | 2011年7月    | 《Q版特工》的繪本，由[鄺志傑繪畫](https://zh.wikipedia.org/wiki/鄺志傑 "wikilink")。本書同時收錄阿Wing人生中的重要事件。                                                                                                                                           |
+| 27          | 毒匣          | 2011年12月   |                                                                                                                                                                                                                                 |
+| 28          | 裂島          | 2012年3月    |                                                                                                                                                                                                                                 |
+| 29          | 暗域狙擊        | 2012年7月    |                                                                                                                                                                                                                                 |
+| 30          | 潛行瘋疫        | 2013年1月    |                                                                                                                                                                                                                                 |
+| Crossover 3 | 真生再見        | 2013年7月    | 與《[嘉薰醫生](https://zh.wikipedia.org/wiki/嘉薰醫生 "wikilink")》作者[陳嘉薰第](https://zh.wikipedia.org/wiki/陳嘉薰 "wikilink")3次合著                                                                                                              |
+| 31          | 死亡拍賣會       | 2013年12月   |                                                                                                                                                                                                                                 |
+| 32          | 奪寶殺機        | 2014年7月11日 |                                                                                                                                                                                                                                 |
+| 33          | 玩命交易        | 2015年1月27日 |                                                                                                                                                                                                                                 |
+| 34          | 暴風危情        | 2015年7月15日 |                                                                                                                                                                                                                                 |
+| 35          | 元朗故事        | 2016年4月    |                                                                                                                                                                                                                                 |
+| 36          | 銀狐          | 2016年7月    |                                                                                                                                                                                                                                 |
+| 37          | 撕裂          | 2017年1月    |                                                                                                                                                                                                                                 |
+| 38          | 逃出北京        | 2017年7月    |                                                                                                                                                                                                                                 |
+| 39          | (待定)        | 2019年      |                                                                                                                                                                                                                                 |
 
 ## 獎項
 
@@ -89,9 +89,9 @@
 
   - 阿Wing及其他書中人物經常於執行任務時弄出不少笑話
   - 阿Wing執行任務時忽然會唸起一兩首[新詩](../Page/新詩.md "wikilink")
-  - 阿Wing姊姊與阿Wing交談時會不時唸出一兩節《[聖經](../Page/聖經.md "wikilink")》
+  - 阿Wing姊姊與阿Wing交談時會不時唸出一兩節《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》
   - 阿Wing常道自己是「風流爾雅入水能游出水能跳⋯⋯的皇牌特工」
-  - 經常出現很多[名詞](../Page/名詞.md "wikilink")／[形容詞連在一起](../Page/形容詞.md "wikilink")，如「樣衰口臭臉皮厚⋯⋯腦大生草」
+  - 經常出現很多[名詞](../Page/名詞.md "wikilink")／[形容詞連在一起](https://zh.wikipedia.org/wiki/形容詞 "wikilink")，如「樣衰口臭臉皮厚⋯⋯腦大生草」
 
 ## 登場人物
 
@@ -100,18 +100,18 @@
 **阿Wing**
 
   -
-    男主角，行動組[特工](../Page/特工.md "wikilink")，M的下屬，年齡二十至三十之間。他經常遭到聖經的難題，去問姐姐或姐夫(他們都是基督徒，姐夫更是傳道人,因為受到他們和真生的影響，他現在越來越信基督教但還未完全信基督教)勇敢果斷、機智，但會間歇性糊塗，最不似特工的特工，最愛喝紙包奶，不喝紅酒。入行前在劍橋讀[兒童文學](../Page/兒童文學.md "wikilink")，以攝影師的身份作掩飾，有[鼻敏感](../Page/鼻敏感.md "wikilink")。與阿漆和葉真生是小學同學，亦與露絲、阿Ken等是好友。喜愛閱讀，例如詩集、《[時間簡史](../Page/時間簡史.md "wikilink")》、《劍河倒影》、《[格林童話](../Page/格林童話.md "wikilink")》，經常吟詩。小時與阿漆習武，因而精通百般武藝，例如「雲手」、「好漢拳」，甚至金庸小說的「彈指神通」、「打狗棒法」和「降龍十八掌」，以及「草上飛」、「梯雲縱」等絕頂輕功；習武時練精學懶，但善於融會貫通。第6集重遇真生後和她成為情人，但第11集真生中毒慘死後崩潰，刻意躲藏長達9個月，甚至為她而四處流浪。尋得眾毒剋星——辟毒碧眼獸後，結束流浪並聯同阿漆、阿Ken，到日本殺死金大芝（可惜她最終仍然生還），為真生報仇；但此後仍躲在日本筑波避世，直至第12集被露絲找到及協助阿漆完成臥底任務，終於在第14集初段返港。第10集末段被金大芝下毒，一度以為「苗疆蠱毒」在第11集被辟毒碧眼獸吸掉，事實上卻餘毒未清，導致長期耳鳴，更在第20集末段復發，幾乎命喪千面人手上，後來在《Q版特工X嘉薰醫生1
+    男主角，行動組[特工](https://zh.wikipedia.org/wiki/特工 "wikilink")，M的下屬，年齡二十至三十之間。他經常遭到聖經的難題，去問姐姐或姐夫(他們都是基督徒，姐夫更是傳道人,因為受到他們和真生的影響，他現在越來越信基督教但還未完全信基督教)勇敢果斷、機智，但會間歇性糊塗，最不似特工的特工，最愛喝紙包奶，不喝紅酒。入行前在劍橋讀[兒童文學](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，以攝影師的身份作掩飾，有[鼻敏感](https://zh.wikipedia.org/wiki/鼻敏感 "wikilink")。與阿漆和葉真生是小學同學，亦與露絲、阿Ken等是好友。喜愛閱讀，例如詩集、《[時間簡史](https://zh.wikipedia.org/wiki/時間簡史 "wikilink")》、《劍河倒影》、《[格林童話](../Page/格林童話.md "wikilink")》，經常吟詩。小時與阿漆習武，因而精通百般武藝，例如「雲手」、「好漢拳」，甚至金庸小說的「彈指神通」、「打狗棒法」和「降龍十八掌」，以及「草上飛」、「梯雲縱」等絕頂輕功；習武時練精學懶，但善於融會貫通。第6集重遇真生後和她成為情人，但第11集真生中毒慘死後崩潰，刻意躲藏長達9個月，甚至為她而四處流浪。尋得眾毒剋星——辟毒碧眼獸後，結束流浪並聯同阿漆、阿Ken，到日本殺死金大芝（可惜她最終仍然生還），為真生報仇；但此後仍躲在日本筑波避世，直至第12集被露絲找到及協助阿漆完成臥底任務，終於在第14集初段返港。第10集末段被金大芝下毒，一度以為「苗疆蠱毒」在第11集被辟毒碧眼獸吸掉，事實上卻餘毒未清，導致長期耳鳴，更在第20集末段復發，幾乎命喪千面人手上，後來在《Q版特工X嘉薰醫生1
     生死X緣》中仍然性命垂危，終於由嘉薰醫生和楚醫生以金大芝血清配製的解毒劑把劇毒清除。真生死後，在第17集和R成為情人，但在第24集一度分手(分手原因是莫需有)，在第25集復合。
 
 **阿漆**
 
   -
-    男性，行動組特工，M的下屬。與阿Wing從小認識，既是小學同學，也是好朋友，並介紹他成為特工。在[大學修讀歷史](../Page/大學.md "wikilink")，熟悉[歐洲歷史](../Page/歐洲歷史.md "wikilink")，懂[俄語](../Page/俄語.md "wikilink")、[針灸](../Page/針灸.md "wikilink")。在阿漆眼中的露絲是「成熟、大方、熱愛工作」，與她在第14集成為情侶。與阿Wing一同習武，基本功紮實，精通[暗器](../Page/暗器.md "wikilink")（尤其飛刀）；亦懂一些上乘輕功，但這方面的功力不及阿Wing。由於父親賣豬肉維生，小時忍受多年「豬肉仔，沒出息」的侮辱，為了「讓難登大雅之堂的豬肉刀掦名立萬」，不惜親自求師父獨創「豬肉刀十八斬」。把此刀法練成後，更成為了絕技。
+    男性，行動組特工，M的下屬。與阿Wing從小認識，既是小學同學，也是好朋友，並介紹他成為特工。在[大學修讀歷史](../Page/大學.md "wikilink")，熟悉[歐洲歷史](https://zh.wikipedia.org/wiki/歐洲歷史 "wikilink")，懂[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")、[針灸](https://zh.wikipedia.org/wiki/針灸 "wikilink")。在阿漆眼中的露絲是「成熟、大方、熱愛工作」，與她在第14集成為情侶。與阿Wing一同習武，基本功紮實，精通[暗器](https://zh.wikipedia.org/wiki/暗器 "wikilink")（尤其飛刀）；亦懂一些上乘輕功，但這方面的功力不及阿Wing。由於父親賣豬肉維生，小時忍受多年「豬肉仔，沒出息」的侮辱，為了「讓難登大雅之堂的豬肉刀掦名立萬」，不惜親自求師父獨創「豬肉刀十八斬」。把此刀法練成後，更成為了絕技。
 
 **葉真生**
 
   -
-    女性，阿Wing的女朋友兼小學同學。自從識了阿Wing的姐姐和姐夫後，信了基督教。小時較胖，因此被稱為「肥妹生」。為人富正義感，常揭發阿小時侯的Wing和阿漆欠交功課等行為，因而經常被作弄。大學畢業後加入警隊，但救嬰兒時被咬傷，意外染上[愛滋病](../Page/愛滋病.md "wikilink")，之後一直流浪，直至第6集重遇阿Wing，才重新振作。後來阿Wing成為情侶，可是在第11集，為救阿Wing，被金大芝在混戰中抓傷，中毒病危；為免連累阿Wing，決定假死。後來脫離危險期，改以新身份「吳芷晴」再次流浪以避開阿Wing，返港覆診時發現體內的毒素和HIV病毒竟然互相箝制，一年後證實康復。在第24集以複製人形式出現，但這是瑪姬用全息系統弄出來的幻覺；直至《Q版特工X嘉薰醫生3
+    女性，阿Wing的女朋友兼小學同學。自從識了阿Wing的姐姐和姐夫後，信了基督教。小時較胖，因此被稱為「肥妹生」。為人富正義感，常揭發阿小時侯的Wing和阿漆欠交功課等行為，因而經常被作弄。大學畢業後加入警隊，但救嬰兒時被咬傷，意外染上[愛滋病](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")，之後一直流浪，直至第6集重遇阿Wing，才重新振作。後來阿Wing成為情侶，可是在第11集，為救阿Wing，被金大芝在混戰中抓傷，中毒病危；為免連累阿Wing，決定假死。後來脫離危險期，改以新身份「吳芷晴」再次流浪以避開阿Wing，返港覆診時發現體內的毒素和HIV病毒竟然互相箝制，一年後證實康復。在第24集以複製人形式出現，但這是瑪姬用全息系統弄出來的幻覺；直至《Q版特工X嘉薰醫生3
     真生再見》才以「吳芷晴」身份再度登場。
 
 ### 香港特工組織
@@ -127,18 +127,18 @@
 
   -
     男性，行動組特工。
-    參見**[主角](../Page/#主角.md "wikilink")**
+    參見**[主角](https://zh.wikipedia.org/wiki/#主角 "wikilink")**
 
 **阿漆**
 
   -
     男性，行動組特工。
-    參見**[主角](../Page/#主角.md "wikilink")**
+    參見**[主角](https://zh.wikipedia.org/wiki/#主角 "wikilink")**
 
 **露絲**
 
   -
-    女性，情報組特工，M的下屬，阿漆的女友。細心、聰明、動作敏捷、好勝。本是[記者](../Page/記者.md "wikilink")，於第3集加入、第7集受訓完畢，並與阿Ken一起喬裝成美軍支援阿Wing，並入侵[美國](../Page/美國.md "wikilink")[中央情報局主電腦及德國間諜衞星](../Page/中央情報局.md "wikilink")。後來拜Q為師，學習研究[武器](../Page/武器.md "wikilink")。
+    女性，情報組特工，M的下屬，阿漆的女友。細心、聰明、動作敏捷、好勝。本是[記者](../Page/記者.md "wikilink")，於第3集加入、第7集受訓完畢，並與阿Ken一起喬裝成美軍支援阿Wing，並入侵[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[中央情報局主電腦及德國間諜衞星](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")。後來拜Q為師，學習研究[武器](../Page/武器.md "wikilink")。
 
 **阿Ken**
 
@@ -153,19 +153,19 @@
 **北燕**
 
   -
-    女性，M的下屬，「媽咪級」女俠，full-time家庭主婦，part-time特工，育有一子一女，會「分腿一字馬」，阿Wing的好友。狙擊技術一流，且能做出「分腿一字馬」等高難度動作，於23集協助阿Wing追捕米勒，24集和泰臣追捕瑪姬，25集陪阿Wing往[法國尋找R](../Page/法國.md "wikilink")「中毒」的秘方，27至29集參與瓦解坤嫂販毒集團之任務，表現傑出。
-    角色代表:[黃燕萍](../Page/黃燕萍.md "wikilink")
+    女性，M的下屬，「媽咪級」女俠，full-time家庭主婦，part-time特工，育有一子一女，會「分腿一字馬」，阿Wing的好友。狙擊技術一流，且能做出「分腿一字馬」等高難度動作，於23集協助阿Wing追捕米勒，24集和泰臣追捕瑪姬，25集陪阿Wing往[法國尋找R](https://zh.wikipedia.org/wiki/法國 "wikilink")「中毒」的秘方，27至29集參與瓦解坤嫂販毒集團之任務，表現傑出。
+    角色代表:[黃燕萍](https://zh.wikipedia.org/wiki/黃燕萍 "wikilink")
 
 **發仔**
 
   -
-    男性，行動組特工，M的下屬，有著冷峻的眼神。以拍[電影掩飾祕密任務的前線特工](../Page/電影.md "wikilink")。
-    角色影射:[周潤發](../Page/周潤發.md "wikilink")
+    男性，行動組特工，M的下屬，有著冷峻的眼神。以拍[電影掩飾祕密任務的前線特工](https://zh.wikipedia.org/wiki/電影 "wikilink")。
+    角色影射:[周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")
 
 **阿莫**
 
   -
-    男性，[電腦天才](../Page/電腦.md "wikilink")，第7集由監犯成為美國中央情報局保安主任，第8集的前傳中揭發他利用程式，闖入[美國國防部電腦](../Page/美國國防部.md "wikilink")，兩周內闖入[飛彈系統](../Page/飛彈.md "wikilink")26次，因而被阿Wing拘捕。被違規任命為保安主任後，再被破格吸納為特工。在第22集為組織造了一道超級無敵[防火牆](../Page/防火牆.md "wikilink")。
+    男性，[電腦天才](https://zh.wikipedia.org/wiki/電腦 "wikilink")，第7集由監犯成為美國中央情報局保安主任，第8集的前傳中揭發他利用程式，闖入[美國國防部電腦](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")，兩周內闖入[飛彈系統](https://zh.wikipedia.org/wiki/飛彈 "wikilink")26次，因而被阿Wing拘捕。被違規任命為保安主任後，再被破格吸納為特工。在第22集為組織造了一道超級無敵[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
 
 **梁賢**
 
@@ -188,7 +188,7 @@
 **大力**
 
   -
-    男性，來自[非洲食人族](../Page/非洲.md "wikilink")，R的下屬兼親信，行動組特工。擅用吹箭，討厭[美國人](../Page/美國人.md "wikilink")，不放過所有不違法加害[美國人的機會](../Page/美國人.md "wikilink")，例如不斷請他們喝[汽水](../Page/汽水.md "wikilink")。首次登場於第12集，並在第17集跟R一起調查地獄門案。後來第20集在西鐵線[天水圍站追捕千面人時反被其暗算槍殺](../Page/天水圍.md "wikilink")。
+    男性，來自[非洲食人族](../Page/非洲.md "wikilink")，R的下屬兼親信，行動組特工。擅用吹箭，討厭[美國人](../Page/美國人.md "wikilink")，不放過所有不違法加害[美國人的機會](../Page/美國人.md "wikilink")，例如不斷請他們喝[汽水](https://zh.wikipedia.org/wiki/汽水 "wikilink")。首次登場於第12集，並在第17集跟R一起調查地獄門案。後來第20集在西鐵線[天水圍站追捕千面人時反被其暗算槍殺](../Page/天水圍.md "wikilink")。
 
 **S**
 
@@ -203,7 +203,7 @@
 **奇勒**
 
   -
-    男性，R的下屬，情報組特工，表現庸碌，實為[內奸且擁有極好身手](../Page/內奸.md "wikilink")。「世界新秩序」首領瑪姬的乾長子，並被其派來特工組織偷取「全球特工名單」。在第22集殺害何小傑並成功偷取名單卻被特工組織通緝追捕，在希臘被弟弟米勒槍殺。
+    男性，R的下屬，情報組特工，表現庸碌，實為[內奸且擁有極好身手](https://zh.wikipedia.org/wiki/內奸 "wikilink")。「世界新秩序」首領瑪姬的乾長子，並被其派來特工組織偷取「全球特工名單」。在第22集殺害何小傑並成功偷取名單卻被特工組織通緝追捕，在希臘被弟弟米勒槍殺。
 
 **大詹斯**
 
@@ -231,17 +231,17 @@
 
   -
     男性，科研部[武器顧問](../Page/武器.md "wikilink")，露絲的師父，經常創造出一些奇怪但實用的武器。
-    角色影射:[Q先生](../Page/Q先生.md "wikilink")
+    角色影射:[Q先生](https://zh.wikipedia.org/wiki/Q先生 "wikilink")
 
 **霍斯**
 
   -
-    男性，來自[美國](../Page/美國.md "wikilink")，專責[X檔案的特工](../Page/X檔案.md "wikilink")。獨斷獨行喜愛追查[超自然現象的案件](../Page/超自然現象.md "wikilink")，愛玩[填字遊戲](../Page/填字遊戲.md "wikilink")、發掘[外星人的真相](../Page/外星人.md "wikilink")。
+    男性，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，專責[X檔案的特工](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。獨斷獨行喜愛追查[超自然現象的案件](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")，愛玩[填字遊戲](https://zh.wikipedia.org/wiki/填字遊戲 "wikilink")、發掘[外星人的真相](../Page/外星人.md "wikilink")。
 
 **丹娜**
 
   -
-    女性，來自[美國](../Page/美國.md "wikilink")，與霍斯一同負責[X檔案的特工](../Page/X檔案.md "wikilink")。
+    女性，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，與霍斯一同負責[X檔案的特工](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。
 
 **X**
 
@@ -257,7 +257,7 @@
 
   -
     男性，特工組織獄卒。
-    參見'''[地獄門](../Page/#地獄門_\(第17、22集\).md "wikilink")
+    參見'''[地獄門](https://zh.wikipedia.org/wiki/#地獄門_\(第17、22集\) "wikilink")
 
 **原醫生**
 
@@ -274,7 +274,7 @@
 **瑪姬**
 
   -
-    女性，虛構[恐怖組織](../Page/恐怖組織.md "wikilink")「世界新秩序」首領策劃人，於第22及24集出現，掌管「全息系統」，小說描寫她是個來自[希臘的國際](../Page/希臘.md "wikilink")[通緝犯](../Page/通緝犯.md "wikilink")，為人心狠手毒。
+    女性，虛構[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")「世界新秩序」首領策劃人，於第22及24集出現，掌管「全息系統」，小說描寫她是個來自[希臘的國際](https://zh.wikipedia.org/wiki/希臘 "wikilink")[通緝犯](https://zh.wikipedia.org/wiki/通緝犯 "wikilink")，為人心狠手毒。
 
 **米勒**
 
@@ -285,7 +285,7 @@
 
   -
     男性，為瑪姬的乾長子、米勒的哥哥。「世界新秩序」成員，並潛伏於特工組織。
-    參見**[香港特工組織](../Page/#香港特工組織.md "wikilink")**
+    參見**[香港特工組織](https://zh.wikipedia.org/wiki/#香港特工組織 "wikilink")**
 
 **小黑**
 
@@ -367,12 +367,12 @@
 **黑海一號**
 
   -
-    女性，由[普京一手訓練出來的](../Page/普京.md "wikilink")[俄羅斯皇牌特工](../Page/俄羅斯.md "wikilink")。
+    女性，由[普京一手訓練出來的](https://zh.wikipedia.org/wiki/普京 "wikilink")[俄羅斯皇牌特工](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
 **漢斯**
 
   -
-    [聯邦調查局探員](../Page/聯邦調查局.md "wikilink")，阿Wing之好友，多次協助其破案。
+    [聯邦調查局探員](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")，阿Wing之好友，多次協助其破案。
 
 **Sean**
 
@@ -420,29 +420,29 @@
   -
     男性，殺手銀狐之父，迷你倉職員，於36集出現。
 
-## 書中的[武功](../Page/武功.md "wikilink")
+## 書中的[武功](https://zh.wikipedia.org/wiki/武功 "wikilink")
 
-  - **[楊式太極拳](../Page/楊式太極拳.md "wikilink")**
-  - **[梯雲縱](../Page/梯雲縱.md "wikilink")**
+  - **[楊式太極拳](https://zh.wikipedia.org/wiki/楊式太極拳 "wikilink")**
+  - **[梯雲縱](https://zh.wikipedia.org/wiki/梯雲縱 "wikilink")**
   - **[降龍十八掌](../Page/降龍十八掌.md "wikilink")**
-  - **[彈指神通](../Page/彈指神通.md "wikilink")**
+  - **[彈指神通](https://zh.wikipedia.org/wiki/彈指神通 "wikilink")**
   - **[一陽指](../Page/一陽指.md "wikilink")**
-  - **[美女拳](../Page/美女拳.md "wikilink")**
-  - **[好漢拳](../Page/好漢拳.md "wikilink")**
-  - **[猛禽戲](../Page/猛禽戲.md "wikilink")**
-  - **[無影腳](../Page/無影腳.md "wikilink")**
-  - **[劈空掌](../Page/劈空掌.md "wikilink")**
+  - **[美女拳](https://zh.wikipedia.org/wiki/美女拳 "wikilink")**
+  - **[好漢拳](https://zh.wikipedia.org/wiki/好漢拳 "wikilink")**
+  - **[猛禽戲](https://zh.wikipedia.org/wiki/猛禽戲 "wikilink")**
+  - **[無影腳](https://zh.wikipedia.org/wiki/無影腳 "wikilink")**
+  - **[劈空掌](https://zh.wikipedia.org/wiki/劈空掌 "wikilink")**
   - **[打狗棒法](../Page/打狗棒法.md "wikilink")**
   - **豬肉刀十八斬** 阿漆專用
-  - **[暗器](../Page/暗器.md "wikilink")**
-  - **[草上飛](../Page/草上飛.md "wikilink")**
-  - **[鬼影魅步](../Page/鬼影魅步.md "wikilink")**
-  - **[風捲殘雲](../Page/風捲殘雲.md "wikilink")**
-  - **[三花聚頂掌法](../Page/三花聚頂掌法.md "wikilink")**
-  - **[五氣朝元指](../Page/五氣朝元指.md "wikilink")**
-  - **[天外飛仙](../Page/天外飛仙.md "wikilink")**
-  - **[障眼術](../Page/障眼術.md "wikilink")**
-  - **[寒冰綿掌](../Page/寒冰綿掌.md "wikilink")** 高文專用
+  - **[暗器](https://zh.wikipedia.org/wiki/暗器 "wikilink")**
+  - **[草上飛](https://zh.wikipedia.org/wiki/草上飛 "wikilink")**
+  - **[鬼影魅步](https://zh.wikipedia.org/wiki/鬼影魅步 "wikilink")**
+  - **[風捲殘雲](https://zh.wikipedia.org/wiki/風捲殘雲 "wikilink")**
+  - **[三花聚頂掌法](https://zh.wikipedia.org/wiki/三花聚頂掌法 "wikilink")**
+  - **[五氣朝元指](https://zh.wikipedia.org/wiki/五氣朝元指 "wikilink")**
+  - **[天外飛仙](https://zh.wikipedia.org/wiki/天外飛仙 "wikilink")**
+  - **[障眼術](https://zh.wikipedia.org/wiki/障眼術 "wikilink")**
+  - **[寒冰綿掌](https://zh.wikipedia.org/wiki/寒冰綿掌 "wikilink")** 高文專用
 
 ## Q版特工中的武器
 
@@ -451,7 +451,7 @@
 <!-- end list -->
 
   -
-    內有最先進的儀器，在每一位[特工家中都有一個](../Page/特工.md "wikilink")，通常在牆後，可以連接上[CIA](../Page/中央情报局.md "wikilink")，[KGB](../Page/克格勃.md "wikilink")，[MI5的資料庫](../Page/軍情五處.md "wikilink")，也是組織和特工通訊的其中一種方法。
+    內有最先進的儀器，在每一位[特工家中都有一個](https://zh.wikipedia.org/wiki/特工 "wikilink")，通常在牆後，可以連接上[CIA](../Page/中央情报局.md "wikilink")，[KGB](https://zh.wikipedia.org/wiki/克格勃 "wikilink")，[MI5的資料庫](../Page/軍情五處.md "wikilink")，也是組織和特工通訊的其中一種方法。
 
 <!-- end list -->
 
@@ -469,7 +469,7 @@
 <!-- end list -->
 
   -
-    微型信號接收器，也是解毒手錶，暗格內藏有200cc口服[解毒劑V](../Page/解毒劑.md "wikilink")38，能中和60種有毒物。
+    微型信號接收器，也是解毒手錶，暗格內藏有200cc口服[解毒劑V](https://zh.wikipedia.org/wiki/解毒劑 "wikilink")38，能中和60種有毒物。
 
 <!-- end list -->
 
@@ -496,7 +496,7 @@
 <!-- end list -->
 
   -
-    扔在地上、轟的一聲，升起大量白煙作掩護，說穿了其實是[煙霧彈](../Page/煙霧彈.md "wikilink")。
+    扔在地上、轟的一聲，升起大量白煙作掩護，說穿了其實是[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")。
 
 <!-- end list -->
 
@@ -541,7 +541,7 @@
 <!-- end list -->
 
   -
-    多功能微型竊聴器第3代，長1.5厘米，裝有攝錄及收音器，有8隻伸縮爪，能附在任何物質的表面，可射出[麻醉藥](../Page/麻醉药品.md "wikilink")，有自毀功能（[自爆](../Page/自爆.md "wikilink")）。
+    多功能微型竊聴器第3代，長1.5厘米，裝有攝錄及收音器，有8隻伸縮爪，能附在任何物質的表面，可射出[麻醉藥](https://zh.wikipedia.org/wiki/麻醉药品 "wikilink")，有自毀功能（[自爆](../Page/自爆.md "wikilink")）。
 
 <!-- end list -->
 
@@ -559,44 +559,47 @@
 <!-- end list -->
 
   -
-    由觀塘劇團製作，改編自Q版特工系列第13部《Q版特工13鴉殺》，在2008年12月26日－30日於[牛池灣文娛中心劇院表演](../Page/牛池灣.md "wikilink")。由[香港](../Page/香港.md "wikilink")[戲劇導師羅文健主演](../Page/戲劇.md "wikilink")。\[3\]
+    由觀塘劇團製作，改編自Q版特工系列第13部《Q版特工13鴉殺》，在2008年12月26日－30日於[牛池灣文娛中心劇院表演](../Page/牛池灣.md "wikilink")。由[香港](../Page/香港.md "wikilink")[戲劇導師羅文健主演](https://zh.wikipedia.org/wiki/戲劇 "wikilink")。\[3\]
 
 ## 詩人名單
 
 本書作者[梁科慶在寫阿Wing這個人物時為他在說話中加入了不少詩詞](../Page/梁科慶.md "wikilink")，本表列出了在各集中阿Wing說話中加入的詩詞的詩人名單。
 
   - Q1
-    [余光中](../Page/余光中.md "wikilink")/[洛夫](../Page/洛夫.md "wikilink")/[羅青](../Page/羅青.md "wikilink")/[北島](../Page/北島.md "wikilink")
+    [余光中](../Page/余光中.md "wikilink")/[洛夫](https://zh.wikipedia.org/wiki/洛夫 "wikilink")/[羅青](https://zh.wikipedia.org/wiki/羅青 "wikilink")/[北島](https://zh.wikipedia.org/wiki/北島 "wikilink")
   - Q2 [王良和](../Page/王良和.md "wikilink")
-  - Q3 [楊牧](../Page/楊牧.md "wikilink")/[馮至](../Page/馮至.md "wikilink")
-  - Q4 [景曉東](../Page/景曉東.md "wikilink")/[秀實](../Page/秀實.md "wikilink")
+  - Q3
+    [楊牧](https://zh.wikipedia.org/wiki/楊牧 "wikilink")/[馮至](https://zh.wikipedia.org/wiki/馮至 "wikilink")
+  - Q4
+    [景曉東](https://zh.wikipedia.org/wiki/景曉東 "wikilink")/[秀實](https://zh.wikipedia.org/wiki/秀實 "wikilink")
   - Q5
-    [也斯](../Page/也斯.md "wikilink")/[金力明](../Page/金力明.md "wikilink")/[朱湘](../Page/朱湘.md "wikilink")
+    [也斯](../Page/也斯.md "wikilink")/[金力明](https://zh.wikipedia.org/wiki/金力明 "wikilink")/[朱湘](../Page/朱湘.md "wikilink")
   - Q6 洛夫/余光中/[陳德錦](../Page/陳德錦.md "wikilink")
-  - Q7 [張婉雯](../Page/張婉雯.md "wikilink")
+  - Q7 [張婉雯](https://zh.wikipedia.org/wiki/張婉雯 "wikilink")
   - Q8
     [徐志摩](../Page/徐志摩.md "wikilink")/[胡燕青](../Page/胡燕青.md "wikilink")/[徐訏](../Page/徐訏.md "wikilink")/[鍾曉陽](../Page/鍾曉陽.md "wikilink")
   - Q9
-    [鄭愁予](../Page/鄭愁予.md "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](../Page/溫乃堅.md "wikilink")
-  - Q10 [夏斐](../Page/夏斐.md "wikilink")/[王良和](../Page/王良和.md "wikilink")
-  - Q11 [馬俐](../Page/馬俐.md "wikilink")
+    [鄭愁予](https://zh.wikipedia.org/wiki/鄭愁予 "wikilink")/[鄭敏](../Page/鄭敏.md "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
+  - Q10
+    [夏斐](https://zh.wikipedia.org/wiki/夏斐 "wikilink")/[王良和](../Page/王良和.md "wikilink")
+  - Q11 [馬俐](https://zh.wikipedia.org/wiki/馬俐 "wikilink")
   - Q12 [于承惠](../Page/于承惠.md "wikilink")
-  - Q13 [焱冰](../Page/焱冰.md "wikilink")
-  - Q14 [向明](../Page/向明.md "wikilink")
+  - Q13 [焱冰](https://zh.wikipedia.org/wiki/焱冰 "wikilink")
+  - Q14 [向明](https://zh.wikipedia.org/wiki/向明 "wikilink")
   - Q15
-    [聶適之](../Page/聶適之.md "wikilink")/[溫乃堅](../Page/溫乃堅.md "wikilink")
+    [聶適之](https://zh.wikipedia.org/wiki/聶適之 "wikilink")/[溫乃堅](https://zh.wikipedia.org/wiki/溫乃堅 "wikilink")
   - Q16
-    [李華川](../Page/李華川.md "wikilink")/[黃國彬](../Page/黃國彬.md "wikilink")/[謝傲霜](../Page/謝傲霜.md "wikilink")
-  - Q17 [秦島](../Page/秦島.md "wikilink")/余光中
+    [李華川](https://zh.wikipedia.org/wiki/李華川 "wikilink")/[黃國彬](../Page/黃國彬.md "wikilink")/[謝傲霜](https://zh.wikipedia.org/wiki/謝傲霜 "wikilink")
+  - Q17 [秦島](https://zh.wikipedia.org/wiki/秦島 "wikilink")/余光中
   - Q19
-    [馮志弘](../Page/馮志弘.md "wikilink")/[楊彗思](../Page/楊彗思.md "wikilink")
-  - Q20 [林浩光](../Page/林浩光.md "wikilink")
+    [馮志弘](https://zh.wikipedia.org/wiki/馮志弘 "wikilink")/[楊彗思](https://zh.wikipedia.org/wiki/楊彗思 "wikilink")
+  - Q20 [林浩光](https://zh.wikipedia.org/wiki/林浩光 "wikilink")
   - Q23
-    [潘國靈](../Page/潘國靈.md "wikilink")/[黃燕萍](../Page/黃燕萍.md "wikilink")
-  - Q24 [鄭愁予](../Page/鄭愁予.md "wikilink")
-  - Q26 [陳昌敏](../Page/陳昌敏.md "wikilink")
+    [潘國靈](https://zh.wikipedia.org/wiki/潘國靈 "wikilink")/[黃燕萍](https://zh.wikipedia.org/wiki/黃燕萍 "wikilink")
+  - Q24 [鄭愁予](https://zh.wikipedia.org/wiki/鄭愁予 "wikilink")
+  - Q26 [陳昌敏](https://zh.wikipedia.org/wiki/陳昌敏 "wikilink")
   - Q27
-    [洛楓](../Page/洛楓.md "wikilink")/[卞之琳](../Page/卞之琳.md "wikilink")/[鍾偉民](../Page/鍾偉民.md "wikilink")
+    [洛楓](https://zh.wikipedia.org/wiki/洛楓 "wikilink")/[卞之琳](../Page/卞之琳.md "wikilink")/[鍾偉民](../Page/鍾偉民.md "wikilink")
   - Q28 鄭煒明/余光中
   - Q30 路雅/胡燕青
 

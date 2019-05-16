@@ -1,21 +1,22 @@
 **Compiz** 是第一个由 [OpenGL](../Page/OpenGL.md "wikilink") 驱动的运行于 [X Window
-System](../Page/X_Window_System.md "wikilink")
-上的[混合窗口管理器](../Page/混合窗口管理器.md "wikilink")
-。Compiz的[混合渲染能力使其可以在窗口管理过程中实现多种视觉效果](../Page/混合渲染.md "wikilink")，比如在矩形虚拟桌面上的窗口最小化。
+System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")
+上的[混合窗口管理器](https://zh.wikipedia.org/wiki/混合窗口管理器 "wikilink")
+。Compiz的[混合渲染能力使其可以在窗口管理过程中实现多种视觉效果](https://zh.wikipedia.org/wiki/混合渲染 "wikilink")，比如在矩形虚拟桌面上的窗口最小化。
 
-Compiz符合[ICCCM標準](../Page/ICCCM.md "wikilink")，可以取代[GNOME環境的](../Page/GNOME.md "wikilink")[Metacity視窗管理器](../Page/Metacity.md "wikilink")，或是[KDE
-Plasma環境下的](../Page/KDE_Plasma_Workspaces.md "wikilink")[KWin](../Page/KWin.md "wikilink")。
-Compiz拥有類似[蘋果電腦的](../Page/蘋果公司.md "wikilink")[Mac OS
-X作業系統中所提供的許多桌面特效](../Page/Mac_OS_X.md "wikilink")，例如
-[Exposé](../Page/Exposé_\(Mac_OS_X\).md "wikilink")。 Compiz 使用 OpenGL
-繪圖層 [Glitz](../Page/Glitz.md "wikilink") 架構在
+Compiz符合[ICCCM標準](https://zh.wikipedia.org/wiki/ICCCM "wikilink")，可以取代[GNOME環境的](../Page/GNOME.md "wikilink")[Metacity視窗管理器](../Page/Metacity.md "wikilink")，或是[KDE
+Plasma環境下的](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")[KWin](../Page/KWin.md "wikilink")。
+Compiz拥有類似[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS
+X作業系統中所提供的許多桌面特效](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，例如
+[Exposé](https://zh.wikipedia.org/wiki/Exposé_\(Mac_OS_X\) "wikilink")。
+Compiz 使用 OpenGL 繪圖層
+[Glitz](https://zh.wikipedia.org/wiki/Glitz "wikilink") 架構在
 [Xgl](../Page/Xgl.md "wikilink") 這個新的 X 環境上。Compiz
 最早是由[Novell在](../Page/Novell.md "wikilink")2006年一月時公佈新版 Xgl
-時所發表的。在开发初期Compiz只能正常运行在有限的几种[Xgl所支援的硬件](../Page/Xgl.md "wikilink")3D加速卡上。尽管Xgl和Compiz这两个全新构造的系统还存在一些bug并且仍處於積極的开发阶段，大多数[NVIDIA和](../Page/NVIDIA.md "wikilink")[ATI图形处理卡可以在Xgl上正常运行Compiz](../Page/ATI_Technologies.md "wikilink")。Compiz在其他一些X服务器和硬件上也可以正常运行。据报道，Compiz在现时仍处于开发阶段的[AIGLX上运行良好](../Page/AIGLX.md "wikilink")。
+時所發表的。在开发初期Compiz只能正常运行在有限的几种[Xgl所支援的硬件](../Page/Xgl.md "wikilink")3D加速卡上。尽管Xgl和Compiz这两个全新构造的系统还存在一些bug并且仍處於積極的开发阶段，大多数[NVIDIA和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[ATI图形处理卡可以在Xgl上正常运行Compiz](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink")。Compiz在其他一些X服务器和硬件上也可以正常运行。据报道，Compiz在现时仍处于开发阶段的[AIGLX上运行良好](https://zh.wikipedia.org/wiki/AIGLX "wikilink")。
 
-2007年7月30日，Compiz已經與其分支套件[Beryl合併](../Page/Beryl.md "wikilink")，並且更名為[Compiz
-Fusion](../Page/Compiz_Fusion.md "wikilink")。 2009年2月2日，Compiz和Compiz
-Fusion合并，新名字叫Compiz。
+2007年7月30日，Compiz已經與其分支套件[Beryl合併](https://zh.wikipedia.org/wiki/Beryl "wikilink")，並且更名為[Compiz
+Fusion](https://zh.wikipedia.org/wiki/Compiz_Fusion "wikilink")。
+2009年2月2日，Compiz和Compiz Fusion合并，新名字叫Compiz。
 
 ## 特点
 
@@ -61,18 +62,20 @@ Compiz 目前可以使用在下列的 Linux 發行套件（經由官方或由第
     and a howto here
     [2](http://mandrivausers.org/index.php?showtopic=31369&hl=compiz).
 3.  [SUSE Linux Enterprise
-    Desktop](../Page/SUSE_Linux_Enterprise_Desktop.md "wikilink") -
-    Novell 宣稱將於下一版 SLED 在2006年春公佈時， Xgl 與 Compiz 將包含在發行套件當中。
+    Desktop](https://zh.wikipedia.org/wiki/SUSE_Linux_Enterprise_Desktop "wikilink")
+    - Novell 宣稱將於下一版 SLED 在2006年春公佈時， Xgl 與 Compiz 將包含在發行套件當中。
     [3](http://arstechnica.com/news.ars/post/20060203-6109.html)
 4.  [OpenSUSE](../Page/OpenSUSE.md "wikilink") - 10.1版出廠已支援 Xgl and
     Compiz。使用 Xgl 與 Compiz 在舊版 SUSE Linux 的說明文件可以參考 OpenSUSE.org 網頁。
     [4](http://www.opensuse.org)
 5.  [PLD Linux
-    Distribution](../Page/PLD_Linux_Distribution.md "wikilink") - 包含在
-    PLD 3.0 (Th)
-6.  [Ubuntu Linux](../Page/Ubuntu_Linux.md "wikilink") - 可以使用在預覽版
-    [Dapper Drake 6.04 Flight 5](http://www.ubuntu.com/testing/flight5)
-    或是之後的版本，可以在 [apt-get](../Page/apt-get.md "wikilink") 套件庫中的
+    Distribution](https://zh.wikipedia.org/wiki/PLD_Linux_Distribution "wikilink")
+    - 包含在 PLD 3.0 (Th)
+6.  [Ubuntu
+    Linux](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink") -
+    可以使用在預覽版 [Dapper Drake 6.04
+    Flight 5](http://www.ubuntu.com/testing/flight5) 或是之後的版本，可以在
+    [apt-get](https://zh.wikipedia.org/wiki/apt-get "wikilink") 套件庫中的
     *universe* 區找到。
 7.  [Korora](../Page/Korora.md "wikilink") - 為
     [Fedora](../Page/Fedora.md "wikilink") 的衍生版本。
@@ -80,9 +83,9 @@ Compiz 目前可以使用在下列的 Linux 發行套件（經由官方或由第
 ## Compiz Fusion
 
 **Compiz Fusion** 是合併後的 **Compiz** ＋
-[Beryl](../Page/Beryl.md "wikilink") 项目新名字，以 Compiz Core 为核心，使用GNU
-GPL授權協議。從 [Ubuntu](../Page/Ubuntu.md "wikilink") 7.10 開始，已将 Compiz
-Fusion 作为默认的窗口管理器。
+[Beryl](https://zh.wikipedia.org/wiki/Beryl "wikilink") 项目新名字，以 Compiz
+Core 为核心，使用GNU GPL授權協議。從 [Ubuntu](../Page/Ubuntu.md "wikilink") 7.10
+開始，已将 Compiz Fusion 作为默认的窗口管理器。
 
 ## 参考
 

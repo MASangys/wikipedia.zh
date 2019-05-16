@@ -1,13 +1,13 @@
 \-{H|zh-cn:位;zh-tw:位元}-  **Zilog Z80
-CPU**，簡稱**Z80**，是一款由[zilog公司製造的](../Page/zilog.md "wikilink")8位元[微處理器](../Page/微處理器.md "wikilink")，與[英特爾公司出產的](../Page/英特爾公司.md "wikilink")[8080](../Page/Intel_8080.md "wikilink")[微處理器的代碼兼容](../Page/微處理器.md "wikilink")。Z80可執行為8080所寫的[CP/M](../Page/CP/M.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，所以過去在[apple
-II兼容機盛行的年代](../Page/apple_II.md "wikilink")，很多人都愛在電腦內加裝[z80擴充卡](../Page/z80擴充卡.md "wikilink")，並透過它來運行[WordStar](../Page/WordStar.md "wikilink")、[VisiCalc等商業軟體](../Page/VisiCalc.md "wikilink")。
+CPU**，簡稱**Z80**，是一款由[zilog公司製造的](https://zh.wikipedia.org/wiki/zilog "wikilink")8位元[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，與[英特爾公司出產的](https://zh.wikipedia.org/wiki/英特爾公司 "wikilink")[8080](https://zh.wikipedia.org/wiki/Intel_8080 "wikilink")[微處理器的代碼兼容](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。Z80可執行為8080所寫的[CP/M](https://zh.wikipedia.org/wiki/CP/M "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，所以過去在[apple
+II兼容機盛行的年代](https://zh.wikipedia.org/wiki/apple_II "wikilink")，很多人都愛在電腦內加裝[z80擴充卡](https://zh.wikipedia.org/wiki/z80擴充卡 "wikilink")，並透過它來運行[WordStar](https://zh.wikipedia.org/wiki/WordStar "wikilink")、[VisiCalc等商業軟體](https://zh.wikipedia.org/wiki/VisiCalc "wikilink")。
 
-Z80也廣泛用在一些家用電腦（當時還未使用[個人電腦這一名詞](../Page/個人電腦.md "wikilink")）中，其中較知名的例如Tandy
+Z80也廣泛用在一些家用電腦（當時還未使用[個人電腦這一名詞](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")）中，其中較知名的例如Tandy
 / Radio Shack的TRS-80。
 [Okona-GfhR-TRS-80.jpg](https://zh.wikipedia.org/wiki/File:Okona-GfhR-TRS-80.jpg "fig:Okona-GfhR-TRS-80.jpg")
 [Game-Gear-Handheld.jpg](https://zh.wikipedia.org/wiki/File:Game-Gear-Handheld.jpg "fig:Game-Gear-Handheld.jpg")遊戲機使用Zilog
 Z80\]\]
-Z80也大量用於微電腦學習機，例如[宏碁公司的第一款微電腦產品](../Page/宏碁.md "wikilink")：[小教授一號](../Page/小教授一號.md "wikilink")（MPF
+Z80也大量用於微電腦學習機，例如[宏碁公司的第一款微電腦產品](../Page/宏碁.md "wikilink")：[小教授一號](https://zh.wikipedia.org/wiki/小教授一號 "wikilink")（MPF
 I）。
 
 原始Z80的最高時脈是2.5 MHz，Z80A則可以使用到4 MHz時脈，後來推出的Z80B最高可以使用6
@@ -39,7 +39,7 @@ Z80系列除了有Z80 CPU（後來又稱Z8400）之外，Zilog公司也推出一
 
 ## 參見
 
-  - [Z8000](../Page/Z8000.md "wikilink") :
+  - [Z8000](https://zh.wikipedia.org/wiki/Z8000 "wikilink") :
     Zilog公司在Z80之後所推出的16位元微處理器。同期的競爭產品有Intel的8086與Motorola的68000。
 
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink")

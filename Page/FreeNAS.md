@@ -1,4 +1,4 @@
-**FreeNAS**是一套基於[FreeBSD作業系統核心的](../Page/FreeBSD.md "wikilink")[開放原始碼的](../Page/開源軟件.md "wikilink")[網路儲存設備](../Page/網路儲存設備.md "wikilink")（）[伺服器系統](../Page/伺服器.md "wikilink")，支援眾多服務，使用者存取權限管理，提供網頁設定介面。FreeNAS目前版本整個系統總共需2GB以上USB驱动器进行安装，並支援[USB儲存裝置](../Page/USB.md "wikilink")、[LiveCD](../Page/LiveCD.md "wikilink")、[CF卡](../Page/CompactFlash.md "wikilink")（轉接成IDE裝置）及硬碟等開機方式。目前有LiveCD、-{zh-hans:镜像;
+**FreeNAS**是一套基於[FreeBSD作業系統核心的](../Page/FreeBSD.md "wikilink")[開放原始碼的](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[網路儲存設備](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")（）[伺服器系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，支援眾多服務，使用者存取權限管理，提供網頁設定介面。FreeNAS目前版本整個系統總共需2GB以上USB驱动器进行安装，並支援[USB儲存裝置](../Page/USB.md "wikilink")、[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")、[CF卡](../Page/CompactFlash.md "wikilink")（轉接成IDE裝置）及硬碟等開機方式。目前有LiveCD、-{zh-hans:镜像;
 zh-hant:影像}-檔、VMware磁碟映像檔三種發行方式。
 
 原本的FreeNAS定位為**單純的網路檔案伺服器**，但在0.684版本後，由於核心開發者的心血，加上市面上小型的NAS系統功能越來越多的情況下，FreeNAS漸漸的加入了P2P、iTunes、PHP
@@ -19,40 +19,40 @@ Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0
   - [CIFS/SMB/-{zh-hans:网上邻居;
     zh-hant:網路上的芳鄰}-](../Page/Samba.md "wikilink")（samba）
 
-  - [FTP](../Page/FTP.md "wikilink")
+  - [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")
 
-  - [TFTP](../Page/TFTP.md "wikilink")
+  - [TFTP](https://zh.wikipedia.org/wiki/TFTP "wikilink")
 
-  - [SSH](../Page/SSH.md "wikilink")
+  - [SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")
 
-  - [NFS](../Page/NFS.md "wikilink")
+  - [NFS](https://zh.wikipedia.org/wiki/NFS "wikilink")
 
-  - [蘋果檔案通訊協定](../Page/蘋果檔案通訊協定.md "wikilink")
+  - [蘋果檔案通訊協定](https://zh.wikipedia.org/wiki/蘋果檔案通訊協定 "wikilink")
 
   - [Rsync](../Page/Rsync.md "wikilink")-數據鏡像備份工具
 
   -
-  - [iSCSI](../Page/iSCSI.md "wikilink")
+  - [iSCSI](https://zh.wikipedia.org/wiki/iSCSI "wikilink")
 
   - [UPnP](../Page/UPnP.md "wikilink")-UPnP影音媒體伺服器
 
   - \-版本8.0.3取消支援
 
-  - [動態DNS](../Page/動態DNS.md "wikilink")
+  - [動態DNS](https://zh.wikipedia.org/wiki/動態DNS "wikilink")
 
-  - [SNMP](../Page/SNMP.md "wikilink")
+  - [SNMP](https://zh.wikipedia.org/wiki/SNMP "wikilink")
 
-  - [UPS](../Page/不斷電系統.md "wikilink")-UPS支援
+  - [UPS](https://zh.wikipedia.org/wiki/不斷電系統 "wikilink")-UPS支援
 
   - [網頁伺服器](../Page/網頁伺服器.md "wikilink")
 
-  - [BitTorrent](../Page/BitTorrent.md "wikilink")-BT下載
+  - [BitTorrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")-BT下載
 
 ### 磁碟管理
 
   - 支援[S.M.A.R.T.錯誤警報功能](../Page/S.M.A.R.T..md "wikilink")（可自動發送E-Mail至指定信箱）
-  - 軟體[RAID](../Page/RAID.md "wikilink")[磁碟陣列](../Page/磁碟陣列.md "wikilink")（JBOD、0、1、0+1、5、6）
-  - 磁碟區加密[AES](../Page/AES.md "wikilink")、[Blowfish與](../Page/Blowfish.md "wikilink")[3DES](../Page/3DES.md "wikilink")。
+  - 軟體[RAID](../Page/RAID.md "wikilink")[磁碟陣列](https://zh.wikipedia.org/wiki/磁碟陣列 "wikilink")（JBOD、0、1、0+1、5、6）
+  - 磁碟區加密[AES](https://zh.wikipedia.org/wiki/AES "wikilink")、[Blowfish與](../Page/Blowfish.md "wikilink")[3DES](../Page/3DES.md "wikilink")。
   - 網頁版檔案管理系統（檔案總管）
 
 ### 網路功能
@@ -65,7 +65,7 @@ Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0
 
 ### 權限管理
 
-支援傳統Linux使用者權限、[AD認證與](../Page/Active_Directory.md "wikilink")[LDAP認證](../Page/LDAP.md "wikilink")。
+支援傳統Linux使用者權限、[AD認證與](../Page/Active_Directory.md "wikilink")[LDAP認證](https://zh.wikipedia.org/wiki/LDAP "wikilink")。
 
 ## 特殊功能
 
@@ -82,11 +82,11 @@ Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0
 <!-- end list -->
 
   - FreeNAS was featured on the 2006年9月5日2x02 episode of
-    [Hak.5](../Page/Hak.5.md "wikilink")。\[4\]
+    [Hak.5](https://zh.wikipedia.org/wiki/Hak.5 "wikilink")。\[4\]
   - FreeNAS was featured on the 2007年3月1日episode 144 of
-    [DL.TV](../Page/DL.TV.md "wikilink")。\[5\]
+    [DL.TV](https://zh.wikipedia.org/wiki/DL.TV "wikilink")。\[5\]
   - FreeNAS was featured on the 2008年7月14日episode 60 of
-    [Systm](../Page/Systm.md "wikilink")。
+    [Systm](https://zh.wikipedia.org/wiki/Systm "wikilink")。
   - [FreeNAS
     Tour](https://web.archive.org/web/20080430073539/http://www.dailycupoftech.com/freenas-system-and-skill-requirements/?tourId=FreeNASTour&skinId=DCoT)
     - a series of good tutorials about using FreeNAS
@@ -95,13 +95,13 @@ Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0
 
 ## 參見
 
-  - [CryptoNAS](../Page/CryptoNAS.md "wikilink")
+  - [CryptoNAS](https://zh.wikipedia.org/wiki/CryptoNAS "wikilink")
 
-  - [NanoNAS](../Page/NanoNAS.md "wikilink")
+  - [NanoNAS](https://zh.wikipedia.org/wiki/NanoNAS "wikilink")
 
   -
-  - [Nexenta](../Page/Nexenta.md "wikilink") - Open source OS and
-    enterprise class NAS with kernel based ZFS
+  - [Nexenta](https://zh.wikipedia.org/wiki/Nexenta "wikilink") - Open
+    source OS and enterprise class NAS with kernel based ZFS
 
   - [Openfiler](../Page/Openfiler.md "wikilink")
 
@@ -109,7 +109,7 @@ Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0
 
 <div class="references-small">
 
-  - 林思敬，（2006年），*開源NAS解決方案：FreeNAS*，《[Linuxpilot](../Page/Linuxpilot.md "wikilink")》雜誌國際中文版，2006年8月號，pp. 66–69。
+  - 林思敬，（2006年），*開源NAS解決方案：FreeNAS*，《[Linuxpilot](https://zh.wikipedia.org/wiki/Linuxpilot "wikilink")》雜誌國際中文版，2006年8月號，pp. 66–69。
 
 </div>
 
