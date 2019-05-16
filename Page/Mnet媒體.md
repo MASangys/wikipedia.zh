@@ -1,11 +1,11 @@
 **Mnet Media**全稱**CJ Mnet
-媒體公司**，是一間[韓國娛樂公司](../Page/韓國.md "wikilink")，隸屬於[CJ集團](../Page/CJ集團.md "wikilink")，總部設在[首爾](../Page/首爾.md "wikilink")，現併入
+媒體公司**，是一間[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，隸屬於[CJ集團](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")，總部設在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，現併入
 CJ E\&M Music and Live (CJ E\&M
-Music·Live)，娛樂公司經營範圍廣泛，包括[電視頻道與](../Page/電視頻道.md "wikilink")[電視節目](../Page/電視節目.md "wikilink")、音樂提供商及舉辦頒獎典禮等。目前旗下相關公司有
+Music·Live)，娛樂公司經營範圍廣泛，包括[電視頻道與](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、音樂提供商及舉辦頒獎典禮等。目前旗下相關公司有
 Good Entertainment、1877 Entertainment、Music Works、Stone Music、MMO
 Entertainment、SWING娛樂、Off The
 Record娛樂等。許多知名藝人如[李孝利](../Page/李孝利.md "wikilink")、[SG
-Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa](../Page/SeeYa.md "wikilink")、[Fromis_9等都曾是](../Page/Fromis_9.md "wikilink")
+Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa](../Page/SeeYa.md "wikilink")、[Fromis_9等都曾是](https://zh.wikipedia.org/wiki/Fromis_9 "wikilink")
 Mnet Media 的一員。
 
 ## 業務
@@ -19,9 +19,11 @@ Mnet Media 的一員。
 ## 電視節目
 
   - A-LIVE
-  - [Super Star K](../Page/Super_Star_K.md "wikilink")（슈퍼스타 K）
-  - [Dancing9](../Page/Dancing9.md "wikilink")（댄싱 9）
-  - [M\! Countdown](../Page/M!_Countdown.md "wikilink")
+  - [Super Star
+    K](https://zh.wikipedia.org/wiki/Super_Star_K "wikilink")（슈퍼스타 K）
+  - [Dancing9](https://zh.wikipedia.org/wiki/Dancing9 "wikilink")（댄싱 9）
+  - [M\!
+    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
   - Mnet POP CON
   - Mnet廣播（Mnet RADIO）
   - M Rookies
@@ -33,39 +35,45 @@ Mnet Media 的一員。
   - M Super Concert（M超級演唱會）
   - 他不是那麼喜歡你（그는 당신에게 반하지 않았다）
   - [M\! Countdown
-    亞州特別巡迴演出版](../Page/M!_Countdown_亞州特別巡迴演出版.md "wikilink")
+    亞州特別巡迴演出版](https://zh.wikipedia.org/wiki/M!_Countdown_亞州特別巡迴演出版 "wikilink")
   - [WHO IS NEXT (WIN)](../Page/WIN.md "wikilink") -
-    [YG娱乐製作](../Page/YG娱乐.md "wikilink")
-  - [4種秀](../Page/4種秀.md "wikilink")
+    [YG娱乐製作](https://zh.wikipedia.org/wiki/YG娱乐 "wikilink")
+  - [4種秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")
   - BTS's American Hustle Life（[防彈少年團](../Page/防彈少年團.md "wikilink")）
   - [熾熱的瞬間 XOXO
-    EXO](../Page/熾熱的瞬間_XOXO_EXO.md "wikilink")（[EXO](../Page/EXO.md "wikilink")）
+    EXO](https://zh.wikipedia.org/wiki/熾熱的瞬間_XOXO_EXO "wikilink")（[EXO](../Page/EXO.md "wikilink")）
   - [EXO
-    90:2014](../Page/EXO_90:2014.md "wikilink")（[EXO](../Page/EXO.md "wikilink")）
-  - [NO.MERCY](../Page/NO.MERCY.md "wikilink") -
+    90:2014](https://zh.wikipedia.org/wiki/EXO_90:2014 "wikilink")（[EXO](../Page/EXO.md "wikilink")）
+  - [NO.MERCY](https://zh.wikipedia.org/wiki/NO.MERCY "wikilink") -
     [STARTSHIP娛樂製作](../Page/STARSHIP娛樂.md "wikilink")
-  - [看見你的聲音](../Page/看見你的聲音.md "wikilink") 1-5季（너의 목소리가 보여）
-  - [Show Me The Money](../Page/SHOW_ME_THE_MONEY.md "wikilink")
-  - [MIX\&MATCH](../Page/MIX_&_MATCH.md "wikilink") -
+  - [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") 1-5季（너의
+    목소리가 보여）
+  - [Show Me The
+    Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")
+  - [MIX\&MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink") -
     [YG娛樂製作](../Page/YG娛樂.md "wikilink")
   - [Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")
-  - [SIXTEEN](../Page/SIXTEEN.md "wikilink")
-  - [Stray Kids (电视节目)](../Page/Stray_Kids_\(电视节目\).md "wikilink")
+  - [SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")
+  - [Stray Kids
+    (电视节目)](https://zh.wikipedia.org/wiki/Stray_Kids_\(电视节目\) "wikilink")
   - [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")
-  - [PENTAGON MAKER](../Page/PENTAGON_MAKER.md "wikilink")
+  - [PENTAGON
+    MAKER](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")
   - D.O.B (Dance or Band)
   - [BOYS24](../Page/少年24.md "wikilink")
-  - [高等 Rapper](../Page/高等_Rapper.md "wikilink")
-  - [PRODUCE 101 Season 2](../Page/PRODUCE_101_Season_2.md "wikilink")
-  - [偶像學校](../Page/偶像學校.md "wikilink")
+  - [高等 Rapper](https://zh.wikipedia.org/wiki/高等_Rapper "wikilink")
+  - [PRODUCE 101 Season
+    2](https://zh.wikipedia.org/wiki/PRODUCE_101_Season_2 "wikilink")
+  - [偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")
   - [GOT7的Hard
-    Carry](../Page/GOT7的Hard_Carry.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
-  - [Wanna One GO](../Page/Wanna_One_GO.md "wikilink")
-  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
-  - [BREAKERS](../Page/BREAKERS.md "wikilink")
-  - [The Call](../Page/The_Call.md "wikilink")
+    Carry](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
+  - [Wanna One
+    GO](https://zh.wikipedia.org/wiki/Wanna_One_GO "wikilink")
+  - [PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
+  - [BREAKERS](https://zh.wikipedia.org/wiki/BREAKERS "wikilink")
+  - [The Call](https://zh.wikipedia.org/wiki/The_Call "wikilink")
   - [GOT7的Hard Carry
-    2](../Page/GOT7的Hard_Carry_2.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
+    2](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry_2 "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
   - [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")
 
 ## 相關公司
@@ -75,32 +83,42 @@ Mnet Media 的一員。
 [CJ E\&M音乐表演部](../Page/Mnet媒體.md "wikilink")（Mnet媒體）旗下：
 
   - [Stone Music
-    Entertainment](../Page/:en:Stone_Music_Entertainment.md "wikilink")(100%)
-  - [MMO Entertainment](../Page/MMO_Entertainment.md "wikilink")(100%)
-  - [SWING娛樂](../Page/SWING娛樂.md "wikilink")(51%)
-  - [Off The Record娛樂](../Page/Off_The_Record娛樂.md "wikilink")
-  - [BELIFT LAB](../Page/BELIFT_LAB.md "wikilink")(52%)（與[Big
+    Entertainment](https://zh.wikipedia.org/wiki/:en:Stone_Music_Entertainment "wikilink")(100%)
+  - [MMO
+    Entertainment](https://zh.wikipedia.org/wiki/MMO_Entertainment "wikilink")(100%)
+  - [SWING娛樂](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")(51%)
+  - [Off The
+    Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")
+  - [BELIFT
+    LAB](https://zh.wikipedia.org/wiki/BELIFT_LAB "wikilink")(52%)（與[Big
     Hit娛樂合作](../Page/Big_Hit娛樂.md "wikilink")）
   - [Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")(51%)
-  - [Ameoba Culture](../Page/:en:Ameoba_Culture.md "wikilink")(60%)
-  - [AOMG](../Page/:en:AOMG.md "wikilink")(51%)
-  - [Hi-Lite Records](../Page/:en:Hi-Lite_Records.md "wikilink")(51.10%)
-  - [H1GHR MUSIC](../Page/:en:H1GHR_MUSIC.md "wikilink")(51%)
+  - [Ameoba
+    Culture](https://zh.wikipedia.org/wiki/:en:Ameoba_Culture "wikilink")(60%)
+  - [AOMG](https://zh.wikipedia.org/wiki/:en:AOMG "wikilink")(51%)
+  - [Hi-Lite
+    Records](https://zh.wikipedia.org/wiki/:en:Hi-Lite_Records "wikilink")(51.10%)
+  - [H1GHR
+    MUSIC](https://zh.wikipedia.org/wiki/:en:H1GHR_MUSIC "wikilink")(51%)
   - [B2M娛樂](../Page/B2M娛樂.md "wikilink")
-  - [LM Entertainment](../Page/LM_Entertainment.md "wikilink")
+  - [LM
+    Entertainment](https://zh.wikipedia.org/wiki/LM_Entertainment "wikilink")
 
 ### 相關公司
 
   - [三星電子](../Page/三星電子.md "wikilink")
-  - [CJ E\&M](../Page/CJ_E&M.md "wikilink")
+  - [CJ E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")
   - CJ CGV
-  - [DSP Media](../Page/DSP_Media.md "wikilink")
-  - [FNC Entertainment](../Page/FNC_Entertainment.md "wikilink")
-  - [Woollim Entertainment](../Page/Woollim_Entertainment.md "wikilink")
-  - [YG Entertainment](../Page/YG_Entertainment.md "wikilink")
+  - [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")
+  - [FNC
+    Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")
+  - [Woollim
+    Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
+  - [YG
+    Entertainment](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")
   - H2 Entertainment
   - IS Entermedia Group
-  - [J.Tune Camp](../Page/J.Tune_Camp.md "wikilink")
+  - [J.Tune Camp](https://zh.wikipedia.org/wiki/J.Tune_Camp "wikilink")
   - [Epik High](../Page/Epik_High.md "wikilink")
   - POP-UP 娛樂
 
@@ -111,7 +129,7 @@ Mnet Media 的一員。
   - Good Concert
   - gretech
   - 세중DMS
-  - [tvN Asia](../Page/tvN_Asia.md "wikilink")
+  - [tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")
 
 ## 參考資料
 

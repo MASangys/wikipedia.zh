@@ -17,8 +17,8 @@ server）是一个基於[Erlang開發的](../Page/Erlang.md "wikilink")[網頁�
     [MP3](https://web.archive.org/web/20070316011211/http://cisx1.uma.maine.edu/~wbackman/bsdtalk/bsdtalk062.mp3))
 
   - [ErlyWeb](https://github.com/yariv/erlyweb) –
-    [MVC](../Page/Model-view-controller.md "wikilink")-pattern web
-    framework for Yaws
+    [MVC](https://zh.wikipedia.org/wiki/Model-view-controller "wikilink")-pattern
+    web framework for Yaws
 
   - [Erlang Web](https://github.com/esl/erlang-web) – MVC-pattern web
     framework Yaws and Inets Erlang/OTP application

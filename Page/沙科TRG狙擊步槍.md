@@ -1,6 +1,6 @@
 **沙科TRG-22／42**（）是一枝由位於[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[里希邁基](../Page/里希邁基.md "wikilink")（）的槍械製造商研製的[手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。TRG-22發射（.260
 Remington，6.5-08 A-Square，6.5×51毫米）和標準型[.308
-Winchester](../Page/.308_Winchester.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")\[1\]，而TRG-42則裝有較大型的[槍機和](https://zh.wikipedia.org/wiki/槍機 "wikilink")[槍管作為標準組件](../Page/槍管.md "wikilink")，以發射[火力和射程都更強大的](https://zh.wikipedia.org/wiki/火力 "wikilink")[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（7.62×67毫米）和[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（8.6×70毫米或8.58×70毫米）[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
+Winchester](../Page/.308_Winchester.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")\[1\]，而TRG-42則裝有較大型的[槍機和](https://zh.wikipedia.org/wiki/槍機 "wikilink")[槍管作為標準組件](../Page/槍管.md "wikilink")，以發射[火力和射程都更強大的](https://zh.wikipedia.org/wiki/火力 "wikilink")[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.6×70毫米或8.58×70毫米）[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 
 沙科TRG-22／42狙擊步槍可以選擇單調的[橄欖色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")、[土黃色](../Page/卡其色.md "wikilink")、沙色或[黑色固定](../Page/黑色.md "wikilink")[槍托](../Page/槍托.md "wikilink")，也可以選擇折疊槍托。\[2\]
 
@@ -13,7 +13,7 @@ II）\[4\]固定放大倍率或可變倍率[光學狙擊鏡](../Page/瞄准镜.m
 Winchester](../Page/.308_Winchester.md "wikilink")[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-21高精度[手動步槍](../Page/手動槍機.md "wikilink")，並將其作為新型號狙擊步槍。後來沙科有限公司亦推出了TRG的狩獵化用途衍生型，並且將其命名為[TRG-S
 M995](https://zh.wikipedia.org/wiki/TRG-S_M995獵用步槍 "wikilink")，它使用了與TRG-21相同的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")（短槍機型）和[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")（只是不同的），而不同之處是機匣頂部是開放式，而不是很像TRG-21般在機匣右側上留有[拋殼口](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")。
 
-隨後，沙科有限公司推出了另一枝將TRG-21的槍機延長20毫米並且加以放大至馬格南用途槍機的狙擊步槍，以能夠使用和承受[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且將其命名為TRG-41。\[5\]同樣地，沙科有限公司其後推出了這種型號的狩獵化用途衍生型，再次使用相同的槍機（只是不同的拉機柄）、開放式[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及發射馬格南口徑的.338拉普麥格農步枪子彈，並且將其命名為TRG-S
+隨後，沙科有限公司推出了另一枝將TRG-21的槍機延長20毫米並且加以放大至馬格南用途槍機的狙擊步槍，以能夠使用和承受[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且將其命名為TRG-41。\[5\]同樣地，沙科有限公司其後推出了這種型號的狩獵化用途衍生型，再次使用相同的槍機（只是不同的拉機柄）、開放式[機匣頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及發射馬格南口徑的.338拉普麥格農步枪子彈，並且將其命名為TRG-S
 M995 Mag。
 
 即使TRG-21從原來設計成功的[沙科TR-6目標步槍改進而成](https://zh.wikipedia.org/wiki/沙科TR-6目標步槍 "wikilink")，重達4.7公斤（10.36磅）的TRG-21設計是真正的對根據[狙擊手的一個徹底深入的研究結果的要求](../Page/狙擊手.md "wikilink")。TRG在選擇採用槍機方面，沙科一改多種近代的[狙擊步槍使用經過改進的雙](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")[鎖耳毛瑟式](https://zh.wikipedia.org/wiki/鎖耳 "wikilink")[旋转后拉式枪机的作風](../Page/手動槍機.md "wikilink")，而是使用過去的[對稱型三鎖耳式槍機](../Page/對稱.md "wikilink")，其[直径為](../Page/直径.md "wikilink")19毫米（0.75英吋），而整個閉鎖表面為75[平方毫米](https://zh.wikipedia.org/wiki/平方毫米 "wikilink")。這種手動槍機設計的改進一直持續到現在，並可以在最近沙科製造的獵用步槍上發現，例如目前生產型號的[沙科85和已被列入舊型號的沙科](https://zh.wikipedia.org/wiki/沙科85獵用步槍 "wikilink")75。
@@ -27,7 +27,7 @@ A-Square，6.5×51毫米）的TRG-22狙擊步槍，並在開始為2011年5月推
 Lapua Magnum口徑的TRG-42型號，於2013年推出的新型槍機具有雙柱塞式退殼桿，以提高尺寸較大而且質量較重的.338 Lapua
 Magnum步槍的退殼可靠性。\[8\]
 
-沙科從來沒有完全忘記了TRG系統是由目標步槍所改進而成的。所需裝上的瞄準用途配件，例如[覘孔式照門或打靶型覘孔式照門](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")（裝在槍口制退器後方）和防止[海市蜃楼的長布帶](../Page/海市蜃楼.md "wikilink")（防止槍管在暴晒下發熱產生的上升熱氣導致狙擊鏡產生虛像），亦是一應俱全。配備這些配件的TRG步槍，可用於非軍事或執法類的任務，例如300公尺（328.08碼，984.25英尺）UIT標準步槍競賽、[国际军事体育理事会競賽或其他種類的全口徑打靶射擊](https://zh.wikipedia.org/wiki/国际军事体育理事会 "wikilink")。TRG步槍在長射程競賽上十分常見，而且其射擊表現亦是非常好。\[9\]
+沙科從來沒有完全忘記了TRG系統是由目標步槍所改進而成的。所需裝上的瞄準用途配件，例如[覘孔式照門或打靶型覘孔式照門](../Page/機械瞄具.md "wikilink")（裝在槍口制退器後方）和防止[海市蜃楼的長布帶](../Page/海市蜃楼.md "wikilink")（防止槍管在暴晒下發熱產生的上升熱氣導致狙擊鏡產生虛像），亦是一應俱全。配備這些配件的TRG步槍，可用於非軍事或執法類的任務，例如300公尺（328.08碼，984.25英尺）UIT標準步槍競賽、[国际军事体育理事会競賽或其他種類的全口徑打靶射擊](https://zh.wikipedia.org/wiki/国际军事体育理事会 "wikilink")。TRG步槍在長射程競賽上十分常見，而且其射擊表現亦是非常好。\[9\]
 
 TRG系統的設計特點的目的，就是提高在惡劣環境以下的可靠性和一致的[精度性能](../Page/準確與精密.md "wikilink")（一名有能力的射手搭配有一致的精度與適當的[彈藥可以達到預計等於或少於](https://zh.wikipedia.org/wiki/彈藥 "wikilink")0.5[MOA的精度](https://zh.wikipedia.org/wiki/角分 "wikilink")）。這使它已經成為了一種很流行常見的狙擊平台，儘管其價格不菲。\[10\]
 
@@ -38,7 +38,7 @@ TRG系統的獨特之處就是幾乎是一個專門設計的[狙擊步槍](https
 ### 特點
 
 TRG系統的核心就是它以冷錘鍛造的[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍管](../Page/槍管.md "wikilink")。兩者都為TRG系統提供了最大的強度、最低的重量以及良好的耐磨性。圓筒型“無阻力”槍機上具有內置式拋殼頂桿和三個大型[鎖耳](https://zh.wikipedia.org/wiki/鎖耳 "wikilink")（），[槍機開鎖及閉鎖時只需要](https://zh.wikipedia.org/wiki/槍機 "wikilink")60
-[度旋轉](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，短槍機型的槍機行程是98毫米（3.86英吋），而長槍機型的槍機行程則是118毫米（4.65英吋），這些特點深受需要對目標（不論是一個或是多個）快速射擊的射手所歡迎。的長度適中並且在末端裝上一個大型合成球根狀把手，使得拉機柄堅固和可靠。除此之外，機匣頂部亦裝有一條內置一個或多個回彈鎖耳的一連串鑽孔形狀的17毫米（0.67英吋）楔形導軌以固定[安裝的戰術配件](../Page/瞄准镜.md "wikilink")，以適應不同類型的光學狙擊鏡、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪或](../Page/热成像仪.md "wikilink")[光學電子瞄準鏡](../Page/紅點鏡.md "wikilink")。TRG亦裝有折疊式[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，可以在次要情況或緊急情況以下使用。\[11\]
+[度旋轉](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，短槍機型的槍機行程是98毫米（3.86英吋），而長槍機型的槍機行程則是118毫米（4.65英吋），這些特點深受需要對目標（不論是一個或是多個）快速射擊的射手所歡迎。的長度適中並且在末端裝上一個大型合成球根狀把手，使得拉機柄堅固和可靠。除此之外，機匣頂部亦裝有一條內置一個或多個回彈鎖耳的一連串鑽孔形狀的17毫米（0.67英吋）楔形導軌以固定[安裝的戰術配件](../Page/瞄准镜.md "wikilink")，以適應不同類型的光學狙擊鏡、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪或](../Page/热成像仪.md "wikilink")[光學電子瞄準鏡](../Page/紅點鏡.md "wikilink")。TRG亦裝有折疊式[機械瞄具](../Page/機械瞄具.md "wikilink")，可以在次要情況或緊急情況以下使用。\[11\]
 
 [機匣的大型](https://zh.wikipedia.org/wiki/機匣 "wikilink")[座床表面以三根螺釘與](https://zh.wikipedia.org/wiki/步槍座床 "wikilink")[鋁合金製造的座床塊連接以達到最大的穩定性](../Page/鋁合金.md "wikilink")。這樣的組合亦確保了其有著不常見地非常高的穩定度。\[12\]
 
@@ -47,7 +47,7 @@ TRG系統的核心就是它以冷錘鍛造的[機匣和](https://zh.wikipedia.or
 TRG系統使用的槍管是[自由浮動式重型](../Page/自由浮動式槍管.md "wikilink")[鉻鉬](https://zh.wikipedia.org/wiki/41xx鋼 "wikilink")[槍管](../Page/槍管.md "wikilink")（鉻鉬槍管與不銹鋼槍管相比，有更好的抗喉嚨侵蝕能力，因而有更長的精度壽命\[13\]），並且會因為發射的[子彈和](../Page/子彈.md "wikilink")[膛室外型而有不同的長度](../Page/膛室.md "wikilink")、陰膛製造方法和[膛線](../Page/膛線.md "wikilink")[纏距上的改進](https://zh.wikipedia.org/wiki/膛線纏距 "wikilink")。
 
 [.308
-Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米北約](../Page/7.62×51mm_NATO.md "wikilink")）[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-22和[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-24都可以使用一般的狙擊步槍都使用的長槍管和510毫米（20.08英吋）的短槍管，藉此以減輕總重量和縮短長度。如果有特別要求的話，TRG亦可以提供[不鏽鋼製槍管](../Page/不鏽鋼.md "wikilink")。作為附件之一的／[制退器這種槍口裝置上亦可從槍口螺紋上拆卸以利用其螺紋裝上](../Page/砲口制動器.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。
+Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米北約](../Page/7.62×51mm_NATO.md "wikilink")）[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-22和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-24都可以使用一般的狙擊步槍都使用的長槍管和510毫米（20.08英吋）的短槍管，藉此以減輕總重量和縮短長度。如果有特別要求的話，TRG亦可以提供[不鏽鋼製槍管](../Page/不鏽鋼.md "wikilink")。作為附件之一的／[制退器這種槍口裝置上亦可從槍口螺紋上拆卸以利用其螺紋裝上](../Page/砲口制動器.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。
 
 .308 Winchester口徑的膛線纏距是280毫米（1：11英吋）和36.7口徑右旋膛線連四條陰膛線，其膛線密度超過了一般而言的.308
 Winchester[口徑的槍械的](https://zh.wikipedia.org/wiki/口徑 "wikilink")305毫米（1：12英吋）和40口徑膛線纏距，可說是對[超音速和](../Page/超音速.md "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[彈丸之間的一種妥協](https://zh.wikipedia.org/wiki/彈丸 "wikilink")。
@@ -55,7 +55,7 @@ Winchester[口徑的槍械的](https://zh.wikipedia.org/wiki/口徑 "wikilink")3
 （.260 Remington，6.5-08
 A-Square，6.5×51毫米）口徑也有一種非傳統的203毫米（1：8英吋）和31.2口徑右旋的膛線纏距作為選擇，該槍管比起傳統的229毫米（1：9英吋）和35.2口徑右旋的膛線纏距更能夠令發射穩定時間更長和更重的（VLD）[彈丸的](https://zh.wikipedia.org/wiki/彈丸 "wikilink")[彈道時的表現更為出色](../Page/弹道学.md "wikilink")。自2011年5月開始，.260雷明登口徑的TRG-22已經可以訂購。\[14\]TRG系統在推出.260
 Remington口徑時，並沒有同時為TRG帶來重大的技術變革，這是因為.260
-Remington本身就是[雷明登以](https://zh.wikipedia.org/wiki/雷明登武器公司 "wikilink").308
+Remington本身就是[雷明登以](../Page/雷明登武器公司.md "wikilink").308
 Winchester口徑子彈為藍本，縮小口徑至6.5毫米（0.26英寸）而成的衍生型子彈，這也意味著這種子彈只需在轉換[槍管口徑以後就可以在原來是](../Page/槍管.md "wikilink").308
 Winchester口徑的步槍以上使用。\[15\]
 
@@ -89,7 +89,7 @@ TRG系統並可以使用一種以右手和左手為慣用手的射手骨架型�
 
 ### 附件
 
-TRG系統可以使用原廠沙科製造的配件，\[21\]當中包括在緊急情況下才作為輔助瞄準用途而使用的後備[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、減輕發射時的的／[制退器](../Page/砲口制動器.md "wikilink")、比賽用途瞄準具連接座、光學狙擊鏡瞄具連接座、\[22\][STANAG
+TRG系統可以使用原廠沙科製造的配件，\[21\]當中包括在緊急情況下才作為輔助瞄準用途而使用的後備[機械瞄具](../Page/機械瞄具.md "wikilink")、減輕發射時的的／[制退器](../Page/砲口制動器.md "wikilink")、比賽用途瞄準具連接座、光學狙擊鏡瞄具連接座、\[22\][STANAG
 2324](../Page/皮卡汀尼導軌.md "wikilink")（MIL-STD-1913戰術導軌、皮卡汀尼導軌）、\[23\]裝在TRG的前托頂部的三條戰術導軌架連接座、裝在TRG的前托底部的戰術導軌架連接座、夜間瞄準具適配器、[抑制器](../Page/抑制器.md "wikilink")（消聲器）、槍口螺紋保護器、各種[槍背帶和槍背帶環](https://zh.wikipedia.org/wiki/槍背帶 "wikilink")、清潔套件袋、軟質包以及重型運輸用硬盒箱。沙科亦製作了多個版本的TRG系統專用[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，所有為其設計的專用兩腳架都是在[铝製大型](../Page/铝.md "wikilink")[座床塊前托底部的連接點鎖上](https://zh.wikipedia.org/wiki/步槍座床 "wikilink")。最新版本的兩腳架是一種較少數的步槍用兩腳架，能夠讓步槍沿著孔軸附近旋轉或“懸掛”，以確保在TRG裝上了巨大而沉重的[光學狙擊鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[热成像仪下仍然能夠穩固在射擊位置](../Page/热成像仪.md "wikilink")。它具有一個較窄的腿角設計，這是為了解決以往版本的兩腳架會對光學狙擊瞄準鏡前面串列安裝夜間[夜視鏡系統有一些干擾的問題](../Page/夜視鏡.md "wikilink")。
 
 ## 衍生型
@@ -99,7 +99,7 @@ TRG系統可以使用原廠沙科製造的配件，\[21\]當中包括在緊急�
   - **TRG-21**：[.308
     Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米NATO](../Page/7.62×51mm_NATO.md "wikilink")）[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
   - **TRG-22**：TRG-21的升級和改進型號，使用新的[槍托設計](../Page/槍托.md "wikilink")（最大子彈長度是）。
-  - **TRG-41**：[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338
+  - **TRG-41**：[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338
     Lapua，8.6×70毫米或8.58×70毫米）[口徑衍生型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，它也有[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300
     Win
     Mag，7.62×67毫米）[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
@@ -109,8 +109,7 @@ TRG系統可以使用原廠沙科製造的配件，\[21\]當中包括在緊急�
     M10在設計上是一枝使用者可自由配置的多[口徑模塊化系統](https://zh.wikipedia.org/wiki/口徑 "wikilink")，而且不會與沙科TRG通用[機匣和其他技術特點](https://zh.wikipedia.org/wiki/機匣 "wikilink")。TRG
     M10系統可以在室外通過改變[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")、[彈匣](../Page/彈匣.md "wikilink")、[前護木以及](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍管](../Page/槍管.md "wikilink")，在[.308
     Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米NATO](../Page/7.62×51mm_NATO.md "wikilink")）、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300
-    Win
-    Mag，7.62×67毫米）和[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338
+    Win Mag，7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338
     Lapua，8.6×70毫米或8.58×70毫米）三種[口徑以至](https://zh.wikipedia.org/wiki/口徑 "wikilink")[膛室之間進行切換](../Page/膛室.md "wikilink")，以適應各種要求。沙科公司並在其官方網站列明，TRG
     M10的銷售對象“只有[軍隊和](../Page/軍事.md "wikilink")[警察執法機關](https://zh.wikipedia.org/wiki/警察執法機關 "wikilink")”。\[29\]\[30\]\[31\]
 
@@ -118,7 +117,7 @@ TRG系統可以使用原廠沙科製造的配件，\[21\]當中包括在緊急�
 
   -
     沙科TRG
-    M10亦曾經參與2009年1月15日美國特種作戰司令部發出的一項名為（簡稱：PSR）的合同並作為其中一個.338口徑狙擊平台，與其他槍械製造商所全新研製或既有型號的改進型進行競標，以滿足特種作戰司令部的願望，取代目前所有的美國特種作戰狙擊手所使用的手動狙擊步槍。但最後在競標之中得標的是[雷明登軍品分公司的](https://zh.wikipedia.org/wiki/雷明登武器公司 "wikilink")[雷明登MSR狙擊步槍](../Page/雷明登MSR狙擊步槍.md "wikilink")。\[32\]
+    M10亦曾經參與2009年1月15日美國特種作戰司令部發出的一項名為（簡稱：PSR）的合同並作為其中一個.338口徑狙擊平台，與其他槍械製造商所全新研製或既有型號的改進型進行競標，以滿足特種作戰司令部的願望，取代目前所有的美國特種作戰狙擊手所使用的手動狙擊步槍。但最後在競標之中得標的是[雷明登軍品分公司的](../Page/雷明登武器公司.md "wikilink")[雷明登MSR狙擊步槍](../Page/雷明登MSR狙擊步槍.md "wikilink")。\[32\]
 
 ## 使用國
 
@@ -135,7 +134,7 @@ TKIV 2000）。\]\]
     M10被[澳洲國防軍特種作戰司令部所採用](https://zh.wikipedia.org/wiki/澳大利亞國防軍 "wikilink")\[34\]。
 
   -
-  - ：TRG-42被[白羅斯共和國內務部](https://zh.wikipedia.org/wiki/白羅斯共和國內務部 "wikilink")（，簡稱：МУС）的[鑽石反恐特別單位所採用](https://zh.wikipedia.org/wiki/鑽石反恐特別單位 "wikilink")。\[35\]
+  - ：TRG-42被[白羅斯共和國內務部](https://zh.wikipedia.org/wiki/白羅斯共和國內務部 "wikilink")（，簡稱：МУС）的[鑽石反恐特別單位所採用](../Page/鑽石反恐特別單位.md "wikilink")。\[35\]
 
   - \[36\]
 
@@ -167,7 +166,7 @@ TKIV 2000）。\]\]
     [密耳在](https://zh.wikipedia.org/wiki/密耳 "wikilink")1,400公尺等於14厘米（0.3437747
     [角分](https://zh.wikipedia.org/wiki/角分 "wikilink")）；而0.25
     [密耳在](https://zh.wikipedia.org/wiki/密耳 "wikilink")1,400公尺則等於35厘米（0.8594367
-    [角分](https://zh.wikipedia.org/wiki/角分 "wikilink")））。所有重要的[螺絲溝槽都被設計成可以一發](../Page/螺絲.md "wikilink")[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[子彈操作以進行分解或重新組裝](../Page/子彈.md "wikilink")，而無需使用[螺丝起子](https://zh.wikipedia.org/wiki/螺丝起子 "wikilink")。
+    [角分](https://zh.wikipedia.org/wiki/角分 "wikilink")））。所有重要的[螺絲溝槽都被設計成可以一發](../Page/螺絲.md "wikilink")[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[子彈操作以進行分解或重新組裝](../Page/子彈.md "wikilink")，而無需使用[螺丝起子](https://zh.wikipedia.org/wiki/螺丝起子 "wikilink")。
 
   - ：發射[.300溫徹斯特麥格農的TRG](../Page/.300溫徹斯特麥格農.md "wikilink")-42步槍被[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")[特種部隊大隊所採用](../Page/特種部隊.md "wikilink")。
 
@@ -177,7 +176,7 @@ TKIV 2000）。\]\]
 
   - ：一小批的TRG-22步槍被[米佐拉姆武裝警察](https://zh.wikipedia.org/wiki/米佐拉姆武裝警察 "wikilink")（，簡稱：MAP）所採用。\[48\]
 
-  - ：TRG-42步槍被[第9傘兵突擊團“莫斯基山”](https://zh.wikipedia.org/wiki/第9傘兵突擊團 "wikilink")（；）和[特別干預組所採用](https://zh.wikipedia.org/wiki/特別干預組_\(意大利\) "wikilink")。\[49\]\[50\]
+  - ：TRG-42步槍被[第9傘兵突擊團“莫斯基山”](https://zh.wikipedia.org/wiki/第9傘兵突擊團 "wikilink")（；）和[特別干預組所採用](../Page/特別干預組_\(意大利\).md "wikilink")。\[49\]\[50\]
 
   - ：TRG-22和TRG-42都被[約旦聯合特種作戰司令部](https://zh.wikipedia.org/wiki/約旦聯合特種作戰司令部 "wikilink")（）SRR-61（特種偵察團）所採用。\[51\]
 
@@ -236,7 +235,7 @@ TKIV 2000）。\]\]
     zh-hk:絕對武力Online;}-](../Page/絕對武力Online.md "wikilink")》：型號為TRG-42摺疊槍托型，在遊戲中使用橄欖色槍身、10發容量彈匣和4—8倍[放大倍率的](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")10×42毫米[施密特-本德爾](https://zh.wikipedia.org/wiki/施密特-本德爾 "wikilink")（）警用神槍手二型（）特級瞄準鏡。港台地區於2008年11月10日推出一般型，中国大陆地區於2009年2月25日推出一般型，同樣命名為「芬蘭之星」；在各地版本均已開放使用，但泰國版及土耳其版因結束營運的關係而不會在這兩個版本開放使用。另外亦有一種改進版：
       - TRG-42 White
         Gold：C-Box限定的[白金型](https://zh.wikipedia.org/wiki/白金 "wikilink")。使用超科技合金打造，並降低了少許重量。港台地區於2010年8月24日推出，命名為「白金之星」；中国大陆地區於2010年8月25日推出，但在命名後加上「（白金典藏）」；在各地版本均已開放使用，但泰國版及土耳其版因結束營運的關係而不會在這兩個版本開放使用。
-  - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》：為TRG-21固定槍托型，奇怪地發射[.338英吋麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[子彈](../Page/子彈.md "wikilink")。
+  - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》：為TRG-21固定槍托型，奇怪地發射[.338英吋麥格農](../Page/.338拉普麥格農.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
   - 2009年—《[俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")》：為TRG-42固定槍托型，命名為“狙擊步槍”，不能被玩家使用，奇怪地以半自動射擊取代手動槍機。
   - 2012年—《[-{zh-cn:杀手：赦免;
     zh-tw:刺客任務：赦免;}-](https://zh.wikipedia.org/wiki/殺手：赦免 "wikilink")》：型號為TRG-42固定槍托型，命名為「Kazo
@@ -280,12 +279,12 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [巴雷特MRAD](../Page/巴雷特MRAD狙擊步槍.md "wikilink")
   - [B\&T APR308／338](../Page/B&T_APR狙擊步槍.md "wikilink")
   - [布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")
-  - [C14](https://zh.wikipedia.org/wiki/C14大灰狼狙擊步槍 "wikilink")
+  - [C14](../Page/C14大灰狼狙擊步槍.md "wikilink")
   - [CZ 700](https://zh.wikipedia.org/wiki/CZ_700狙擊步槍 "wikilink")
   - [CheyTac M200
     Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
   - [DSR-1](../Page/DSR-1狙擊步槍.md "wikilink")
-  - [DT SRS](https://zh.wikipedia.org/wiki/沙漠科技隱形偵察兵狙擊步槍 "wikilink")
+  - [DT SRS](../Page/沙漠科技隱形偵察兵狙擊步槍.md "wikilink")
   - [埃爾瑪SR-100](https://zh.wikipedia.org/wiki/埃爾瑪SR-100狙擊步槍 "wikilink")
   - [FN 30-11](https://zh.wikipedia.org/wiki/FN_30-11狙擊步槍 "wikilink")
   - [FN PBR](https://zh.wikipedia.org/wiki/FN_PBR狙擊步槍 "wikilink")
@@ -295,11 +294,11 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [FR-F2](../Page/FR-F2狙擊步槍.md "wikilink")
   - [GOL狙擊手麥格農](https://zh.wikipedia.org/wiki/GOL狙擊手麥格農步槍 "wikilink")
   - [IWI DAN](https://zh.wikipedia.org/wiki/IWI_DAN狙擊步槍 "wikilink")
-  - [JNG-90](https://zh.wikipedia.org/wiki/JNG-90狙擊步槍 "wikilink")
-  - [JS 7.62](https://zh.wikipedia.org/wiki/JS_7.62毫米狙击步枪 "wikilink")
+  - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
+  - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
   - [金柏M8400戰術型](../Page/金柏M8400戰術型狙擊步槍.md "wikilink")
-  - [KNT-308](https://zh.wikipedia.org/wiki/KNT-308狙擊步槍 "wikilink")
+  - [KNT-308](../Page/KNT-308狙擊步槍.md "wikilink")
   - [帕克黑爾M82](../Page/帕克黑爾M82狙擊步槍.md "wikilink")
   - [帕克黑爾M85](../Page/帕克黑爾M85狙擊步槍.md "wikilink")
   - [雷明登700](../Page/雷明登700步槍.md "wikilink")
@@ -311,9 +310,9 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
-  - [沙科蒂卡T3步槍](https://zh.wikipedia.org/wiki/沙科蒂卡T3步槍 "wikilink")
+  - [沙科蒂卡T3步槍](../Page/沙科蒂卡T3步槍.md "wikilink")
   - [沙科TRG M10](https://zh.wikipedia.org/wiki/沙科TRG_M10狙擊步槍 "wikilink")
-  - [7.62 Tkiv 85](https://zh.wikipedia.org/wiki/Tkiv_85狙擊步槍 "wikilink")
+  - [7.62 Tkiv 85](../Page/Tkiv_85狙擊步槍.md "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [薩維奇110BA](https://zh.wikipedia.org/wiki/薩維奇110BA狙擊步槍 "wikilink")
   - [SIG SSG 2000](../Page/SIG_SSG_2000狙擊步槍.md "wikilink")
@@ -324,7 +323,7 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
   - [SV-98](../Page/SV-98狙擊步槍.md "wikilink")
   - [T-76“長弓”](https://zh.wikipedia.org/wiki/T-76長弓狙擊步槍 "wikilink")
   - [T93狙擊步槍](../Page/T93狙擊步槍.md "wikilink")
-  - [TPG-1](https://zh.wikipedia.org/wiki/TPG-1狙擊步槍 "wikilink")
+  - [TPG-1](../Page/TPG-1狙擊步槍.md "wikilink")
   - [特維洛狙擊步槍](https://zh.wikipedia.org/wiki/特維洛狙擊步槍 "wikilink")
   - [NM149](https://zh.wikipedia.org/wiki/NM149狙擊步槍 "wikilink")
   - [Voere
@@ -513,7 +512,7 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
     Kort](http://www.6mmbr.com/gunweek069.html)
 
 10. 一名在芬蘭的使用者使用一枝原廠製造的TRG-42
-    [.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[口徑狙擊步槍並且報告他成功在](https://zh.wikipedia.org/wiki/口徑 "wikilink")1,600公尺（1,749.78码）、1,800公尺（1,968.5码）和2,008公尺（2,195.98码）在一組證人見證下擊中了45×90厘米（17.72×35.43英吋）反應部隊的靶子。射擊區域的[空氣密度ρ為](https://zh.wikipedia.org/wiki/空氣密度 "wikilink")1.228[千克每立方米](https://zh.wikipedia.org/wiki/千克每立方米 "wikilink")。這是比[國際標準大氣](https://zh.wikipedia.org/wiki/國際標準大氣 "wikilink")（，簡稱：ISA）的[海平面條件](../Page/海平面.md "wikilink")（空氣密度ρ為1.225千克每立方米）稍微的稠密0.003千克每立方米。除了步槍以外，[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（在當時的情況下使用一發[手工製造的GB](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")488
+    [.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑狙擊步槍並且報告他成功在](https://zh.wikipedia.org/wiki/口徑 "wikilink")1,600公尺（1,749.78码）、1,800公尺（1,968.5码）和2,008公尺（2,195.98码）在一組證人見證下擊中了45×90厘米（17.72×35.43英吋）反應部隊的靶子。射擊區域的[空氣密度ρ為](https://zh.wikipedia.org/wiki/空氣密度 "wikilink")1.228[千克每立方米](https://zh.wikipedia.org/wiki/千克每立方米 "wikilink")。這是比[國際標準大氣](https://zh.wikipedia.org/wiki/國際標準大氣 "wikilink")（，簡稱：ISA）的[海平面條件](../Page/海平面.md "wikilink")（空氣密度ρ為1.225千克每立方米）稍微的稠密0.003千克每立方米。除了步槍以外，[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（在當時的情況下使用一發[手工製造的GB](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")488
     16.2克（250[格令](https://zh.wikipedia.org/wiki/格令 "wikilink")）斯那（）子彈）、有技能的射手、使用的瞄準組件、火控計算軟件和有利的大氣條件對於在上述的距離狙擊目標也是很重要的。參見[Amazing
     Trajectory](http://www.longrangeresearchinstitute.com/articlesfolder1/trg42338lm.html)
 
@@ -524,7 +523,7 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
 12.
 13. [芬蘭陸軍在測試](https://zh.wikipedia.org/wiki/芬蘭陸軍 "wikilink")／跟進計劃和7年實際服役的過程之中發現，沙科TRG-42的槍管在持續發射4,000至5,000發原廠製造的Lapua
     Lock Base
-    B408[彈藥後都不會出現精度衰減的情況](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。芬蘭陸軍一致決定，這種步槍的[精度要求是在](../Page/準確與精密.md "wikilink")1,000公尺（1,093.61码，3,280.84英尺，0.62英里）要等於或少於1[MOA](https://zh.wikipedia.org/wiki/角分 "wikilink")。如果TRG-42使用了新型的[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍管以後未能達到這一要求](../Page/槍管.md "wikilink")。操作這些積極高性能精密步槍時，將槍管作為消耗品是正常的做法。而持續使用一些火力非常強大的[手工子彈雖然會有更高的](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")[槍口初速和威力](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，但是亦會導致TRG-42的喉嚨侵蝕更快，槍管的精度壽命亦會減少至只有1,000至2,000發。
+    B408[彈藥後都不會出現精度衰減的情況](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。芬蘭陸軍一致決定，這種步槍的[精度要求是在](../Page/準確與精密.md "wikilink")1,000公尺（1,093.61码，3,280.84英尺，0.62英里）要等於或少於1[MOA](https://zh.wikipedia.org/wiki/角分 "wikilink")。如果TRG-42使用了新型的[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍管以後未能達到這一要求](../Page/槍管.md "wikilink")。操作這些積極高性能精密步槍時，將槍管作為消耗品是正常的做法。而持續使用一些火力非常強大的[手工子彈雖然會有更高的](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")[槍口初速和威力](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，但是亦會導致TRG-42的喉嚨侵蝕更快，槍管的精度壽命亦會減少至只有1,000至2,000發。
 
 14.
 15. [demigodllc.com: The Case for .260 Remington: A Better Cartridge For

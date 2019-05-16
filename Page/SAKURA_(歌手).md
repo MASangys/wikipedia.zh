@@ -1,8 +1,8 @@
-**SAKURA**（，），[日本女歌手](../Page/日本.md "wikilink")，出生於[瑞士](../Page/瑞士.md "wikilink")，擁有日本與瑞士的混血。目前，SAKURA是[環球音樂旗下的歌手](../Page/環球音樂.md "wikilink")，並開辦一所音樂學校教課。她的演藝生涯主要活躍於[關西地區](../Page/關西地區.md "wikilink")。
+**SAKURA**（，），[日本女歌手](../Page/日本.md "wikilink")，出生於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，擁有日本與瑞士的混血。目前，SAKURA是[環球音樂旗下的歌手](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")，並開辦一所音樂學校教課。她的演藝生涯主要活躍於[關西地區](https://zh.wikipedia.org/wiki/關西地區 "wikilink")。
 
-1971年，出生於瑞士的SAKURA，童年生活受父母親影響，接觸很多曲風的音樂，但是父親的棄養，大多與母親一起生活。回日本後，SAKURA在[神戶就讀於](../Page/神戶.md "wikilink")[聖米迦勒國際學校](../Page/聖米迦勒國際學校.md "wikilink")、[聖母昆仲會國際學校](../Page/聖母昆仲會國際學校.md "wikilink")，在這期間開始玩起音樂，並學習[吉他](../Page/吉他.md "wikilink")，然後到各地參加表演及比賽。高校畢業後，SAKURA飛往[美國就讀](../Page/美國.md "wikilink")[西雅圖大學](../Page/西雅圖大學.md "wikilink")。大學畢業後，飛回日本做短暫的上族族以及英語講師，一邊累積演唱的經驗。1995年，開始獨立製作迷你專輯《SAKURA》。1997年加入[東芝EMI](../Page/東芝EMI.md "wikilink")，發行第一張單曲《SOUL
+1971年，出生於瑞士的SAKURA，童年生活受父母親影響，接觸很多曲風的音樂，但是父親的棄養，大多與母親一起生活。回日本後，SAKURA在[神戶就讀於](https://zh.wikipedia.org/wiki/神戶 "wikilink")[聖米迦勒國際學校](https://zh.wikipedia.org/wiki/聖米迦勒國際學校 "wikilink")、[聖母昆仲會國際學校](https://zh.wikipedia.org/wiki/聖母昆仲會國際學校 "wikilink")，在這期間開始玩起音樂，並學習[吉他](../Page/吉他.md "wikilink")，然後到各地參加表演及比賽。高校畢業後，SAKURA飛往[美國就讀](https://zh.wikipedia.org/wiki/美國 "wikilink")[西雅圖大學](https://zh.wikipedia.org/wiki/西雅圖大學 "wikilink")。大學畢業後，飛回日本做短暫的上族族以及英語講師，一邊累積演唱的經驗。1995年，開始獨立製作迷你專輯《SAKURA》。1997年加入[東芝EMI](https://zh.wikipedia.org/wiki/東芝EMI "wikilink")，發行第一張單曲《SOUL
 MATE》。隔年，發行第二張個人專輯《Lover
-Light》。2001年，SAKURA受邀於[蕭亞軒而來](../Page/蕭亞軒.md "wikilink")[台灣拍攝](../Page/台灣.md "wikilink")[MV](../Page/MV.md "wikilink")，兩人合作同曲演唱，在[MTV頻道](../Page/全球音樂電視台.md "wikilink")《全球首播》節目中放映。2007年，SAKURA加入[環球音樂](../Page/環球音樂.md "wikilink")。
+Light》。2001年，SAKURA受邀於[蕭亞軒而來](../Page/蕭亞軒.md "wikilink")[台灣拍攝](https://zh.wikipedia.org/wiki/台灣 "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")，兩人合作同曲演唱，在[MTV頻道](https://zh.wikipedia.org/wiki/全球音樂電視台 "wikilink")《全球首播》節目中放映。2007年，SAKURA加入[環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
 ## 作品
 

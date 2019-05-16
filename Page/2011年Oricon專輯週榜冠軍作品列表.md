@@ -1,10 +1,10 @@
 **2011年Oricon專輯週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜專輯週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
-全年度共有45張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[EXILE的](../Page/放浪兄弟.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")《[祈願之塔](../Page/祈願之塔.md "wikilink")》（3週）。
+全年度共有45張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[EXILE的](../Page/放浪兄弟.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[祈願之塔](../Page/祈願之塔.md "wikilink")》（3週）。
 
 ## 冠軍專輯列表
 
-專輯類型中的「原創」是指[原創專輯](../Page/錄音室專輯.md "wikilink")；「精選」是指[精選輯](../Page/精選輯.md "wikilink")；「合輯」是指[合輯](../Page/合輯.md "wikilink")；「翻唱」是指[翻唱專輯](../Page/翻唱專輯.md "wikilink")；「混音」是指[混音專輯](../Page/混音專輯.md "wikilink")；「原聲」是指[音樂原聲帶](../Page/原聲音樂.md "wikilink")。
+專輯類型中的「原創」是指[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")；「精選」是指[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")；「合輯」是指[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")；「翻唱」是指[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")；「混音」是指[混音專輯](https://zh.wikipedia.org/wiki/混音專輯 "wikilink")；「原聲」是指[音樂原聲帶](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 <table>
 <thead>
@@ -29,8 +29,8 @@
 </tr>
 <tr class="even">
 <td><p>1月10日</p></td>
-<td><p><a href="../Page/no3b_(專輯).md" title="wikilink">no3b</a></p></td>
-<td><p><a href="../Page/no3b.md" title="wikilink">no3b</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/no3b_(專輯)" title="wikilink">no3b</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/no3b" title="wikilink">no3b</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.9</p></td>
 <td><p>1</p></td>
@@ -38,7 +38,7 @@
 <tr class="odd">
 <td><p>1月17日</p></td>
 <td><p><a href="../Page/生物百科圖鑑～團員精選～.md" title="wikilink">生物百科圖鑑～團員精選～</a></p></td>
-<td><p><a href="../Page/生物股長.md" title="wikilink">生物股長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>精選</p></td>
 <td><p>4.0</p></td>
 <td><p>10</p></td>
@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>1月24日</p></td>
 <td><p><a href="../Page/You_can&#39;t_catch_me.md" title="wikilink">You can't catch me</a></p></td>
-<td><p><a href="../Page/坂本真綾.md" title="wikilink">坂本真綾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂本真綾" title="wikilink">坂本真綾</a></p></td>
 <td><p>原創</p></td>
 <td><p>2.7</p></td>
 <td><p>1</p></td>
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>2月14日</p></td>
 <td></td>
-<td><p><a href="../Page/遊助.md" title="wikilink">遊助</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遊助" title="wikilink">遊助</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.9</p></td>
 <td><p>1</p></td>
@@ -141,8 +141,8 @@
 </tr>
 <tr class="even">
 <td><p>4月18日</p></td>
-<td><p><a href="../Page/guitarissimo.md" title="wikilink">guitarissimo</a></p></td>
-<td><p><a href="../Page/miwa.md" title="wikilink">miwa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/guitarissimo" title="wikilink">guitarissimo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.0</p></td>
 <td><p>1</p></td>
@@ -182,7 +182,7 @@
 <tr class="odd">
 <td><p>5月23日</p></td>
 <td></td>
-<td><p><a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
 <td><p>原創</p></td>
 <td><p>6.5</p></td>
 <td><p>1</p></td>
@@ -197,7 +197,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月6日</p></td>
-<td><p><a href="../Page/Born_This_Way_(专辑).md" title="wikilink">Born This Way</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Born_This_Way_(专辑)" title="wikilink">Born This Way</a></p></td>
 <td><p><a href="../Page/Lady_Gaga.md" title="wikilink">Lady Gaga</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.4</p></td>
@@ -206,7 +206,7 @@
 <tr class="even">
 <td><p>6月13日</p></td>
 <td><p><a href="../Page/Girls&#39;_Generation_(日本專輯).md" title="wikilink">GIRLS' GENERATION</a></p></td>
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td><p>原創</p></td>
 <td><p>23.2</p></td>
 <td><p>1</p></td>
@@ -230,14 +230,14 @@
 <tr class="odd">
 <td><p>7月4日</p></td>
 <td><p><a href="../Page/Thank_you,_Love.md" title="wikilink">Thank you, Love</a></p></td>
-<td><p><a href="../Page/西野加奈.md" title="wikilink">西野加奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西野加奈" title="wikilink">西野加奈</a></p></td>
 <td><p>原創</p></td>
 <td><p>17.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>7月11日</p></td>
-<td><p><a href="../Page/大發現_(東京事變專輯).md" title="wikilink">大發現</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大發現_(東京事變專輯)" title="wikilink">大發現</a></p></td>
 <td><p><a href="../Page/東京事變.md" title="wikilink">東京事變</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.2</p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月18日</p></td>
-<td><p><a href="../Page/Beautiful_World_(嵐).md" title="wikilink">Beautiful World</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beautiful_World_(嵐)" title="wikilink">Beautiful World</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>63.1</p></td>
@@ -278,7 +278,7 @@
 <tr class="odd">
 <td><p>8月15日</p></td>
 <td></td>
-<td><p><a href="../Page/加藤Miliyah.md" title="wikilink">加藤Miliyah</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加藤Miliyah" title="wikilink">加藤Miliyah</a></p></td>
 <td><p>精選</p></td>
 <td><p>16.0</p></td>
 <td><p>1</p></td>
@@ -333,7 +333,7 @@
 </tr>
 <tr class="even">
 <td><p>10月3日</p></td>
-<td><p><a href="../Page/NOLZA.md" title="wikilink">NOLZA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NOLZA" title="wikilink">NOLZA</a></p></td>
 <td><p><a href="../Page/2NE1.md" title="wikilink">2NE1</a></p></td>
 <td><p>原創</p></td>
 <td><p>2.6</p></td>
@@ -349,7 +349,7 @@
 </tr>
 <tr class="even">
 <td><p>10月17日</p></td>
-<td><p><a href="../Page/A.N.JELL_WITH_TBS系週五電視劇「原來是美男」_MUSIC_COLLECTION.md" title="wikilink">A.N.JELL WITH TBS系週五電視劇「原來是美男」 MUSIC COLLECTION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A.N.JELL_WITH_TBS系週五電視劇「原來是美男」_MUSIC_COLLECTION" title="wikilink">A.N.JELL WITH TBS系週五電視劇「原來是美男」 MUSIC COLLECTION</a></p></td>
 <td><p><a href="../Page/原來是美男_(日本電視劇).md" title="wikilink">A.N.JELL</a></p></td>
 <td><p>原創+原聲</p></td>
 <td><p>15.0</p></td>
@@ -373,7 +373,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月7日</p></td>
-<td><p><a href="../Page/Never_More_-「Persona_4」輪迴轉生-.md" title="wikilink">Never More -「Persona 4」輪迴轉生-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Never_More_-「Persona_4」輪迴轉生-" title="wikilink">Never More -「Persona 4」輪迴轉生-</a></p></td>
 <td><p><a href="../Page/女神異聞錄4.md" title="wikilink">Persona 4</a></p></td>
 <td><p>混音</p></td>
 <td><p>2.7</p></td>
@@ -382,7 +382,7 @@
 <tr class="even">
 <td><p>11月14日</p></td>
 <td><p><a href="../Page/HOW_CRAZY_YOUR_LOVE.md" title="wikilink">HOW CRAZY YOUR LOVE</a></p></td>
-<td><p><a href="../Page/YUI_(歌手).md" title="wikilink">YUI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.2</p></td>
 <td><p>1</p></td>
@@ -390,7 +390,7 @@
 <tr class="odd">
 <td><p>11月21日</p></td>
 <td><p><a href="../Page/K_album.md" title="wikilink">K album</a></p></td>
-<td><p><a href="../Page/近畿小子.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿小子" title="wikilink">KinKi Kids</a></p></td>
 <td><p>原創</p></td>
 <td><p>15.2</p></td>
 <td><p>1</p></td>
@@ -406,7 +406,7 @@
 <tr class="odd">
 <td><p>12月5日</p></td>
 <td><p><a href="../Page/Super_Girl_(KARA專輯).md" title="wikilink">Super Girl</a></p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
 <td><p>原創</p></td>
 <td><p>27.5</p></td>
 <td><p>1</p></td>
@@ -414,15 +414,15 @@
 <tr class="even">
 <td><p>12月12日</p></td>
 <td><p><a href="../Page/JPN_(Perfume專輯).md" title="wikilink">JPN</a></p></td>
-<td><p><a href="../Page/Perfume.md" title="wikilink">Perfume</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>原創</p></td>
 <td><p>22.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月19日</p></td>
-<td><p><a href="../Page/Test_Drive.md" title="wikilink">TEST DRIVE</a></p></td>
-<td><p><a href="../Page/赤西仁.md" title="wikilink">JIN AKANISHI</a> featuring <a href="../Page/傑森·德魯羅.md" title="wikilink">JASON DERULO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Test_Drive" title="wikilink">TEST DRIVE</a></p></td>
+<td><p><a href="../Page/赤西仁.md" title="wikilink">JIN AKANISHI</a> featuring <a href="https://zh.wikipedia.org/wiki/傑森·德魯羅" title="wikilink">JASON DERULO</a></p></td>
 <td><p>原創</p></td>
 <td><p>10.9</p></td>
 <td><p>1</p></td>
@@ -430,7 +430,7 @@
 <tr class="even">
 <td><p>12月26日</p></td>
 <td><p><a href="../Page/Super_Girl_(KARA專輯).md" title="wikilink">Super Girl</a></p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.4</p></td>
 <td><p>4</p></td>

@@ -1,4 +1,4 @@
-《**Versus**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")3張[專輯](../Page/錄音室專輯.md "wikilink")。1993年9月1日發行。
+《**Versus**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。1993年9月1日發行。
 
 ## 簡介
 
@@ -7,7 +7,7 @@ Love](../Page/Kind_of_Love.md "wikilink")》約9個月之後發行。收錄了�
 I close to you》後來成為成名單曲《[CROSS
 ROAD](../Page/CROSS_ROAD_\(Mr.Children單曲\).md "wikilink")》的c/w曲。
 
-[奇數曲目風格傾向晦暗](../Page/奇數.md "wikilink")，[偶數曲目風格則較明快](../Page/偶數.md "wikilink")，一暗一明地交錯凸顯著專輯標題的「Versus」。
+[奇數曲目風格傾向晦暗](https://zh.wikipedia.org/wiki/奇數 "wikilink")，[偶數曲目風格則較明快](https://zh.wikipedia.org/wiki/偶數 "wikilink")，一暗一明地交錯凸顯著專輯標題的「Versus」。
 
 初回限定盤的Jacket是3D設計。
 

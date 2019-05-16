@@ -3,9 +3,10 @@
 《**Love
 songs**》（愛曲集）是日本歌手[濱崎步發行的第十二張專輯](../Page/濱崎步.md "wikilink")，2010年12月22日於日本發售，同月24日於台灣發售。
 
-這張專輯發行在被濱崎步稱為「[SEVEN DAYS WAR](../Page/crossroad.md "wikilink")」的《ayumi
+這張專輯發行在被濱崎步稱為「[SEVEN DAYS
+WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink")」的《ayumi
 hamasaki Rock'n'Roll Circus Tour FINAL ～7days
-Special～》代代木七日演唱會最終場之後。收錄的第48、49以及第50張單曲《[MOON/blossom](../Page/MOON/blossom.md "wikilink")》、《[crossroad](../Page/crossroad.md "wikilink")》、《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》一同使濱崎步刷新了日本樂壇的紀錄，她成為日本音樂史上連續首周冠軍單曲最多的女性歌手，從2002年的單曲《[Free
+Special～》代代木七日演唱會最終場之後。收錄的第48、49以及第50張單曲《[MOON/blossom](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")》、《[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")》、《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》一同使濱崎步刷新了日本樂壇的紀錄，她成為日本音樂史上連續首周冠軍單曲最多的女性歌手，從2002年的單曲《[Free
 & Easy](../Page/Free_&_Easy.md "wikilink")》記起，總計連續25張單曲都在公司安排上獲得了首周冠軍。
 
 ## 背景與主題
@@ -21,7 +22,7 @@ songs》是在代代木七日演唱會之後才有構思，儘管方才在今年
 Circus》，但是經過七日的戰鬥以後，她認為她正處於一個「創造」的頻道裡，在這之前她並沒有想在年內推出原創專輯的意圖。她這樣說道：「我認為沒有比能做到『把自己所描繪的唱出來』更加厲害的了，《Love
 songs》就是在這種心情下誕生的\[4\]。」
 
-專輯裡面大多數的新曲都是由[小室哲哉負責作曲](../Page/小室哲哉.md "wikilink")。她坦承錄製的時候，在尋找「濱崎步」與「小室哲哉」的音樂的平衡點非常苦惱，她反覆改寫了歌詞、唱法，才完成這張專輯的錄製。本作音樂錄影帶她同樣地投入大量資金前往[好萊塢拍攝](../Page/好萊塢.md "wikilink")，同時間，在錄製本作音樂錄影帶時，她結識了飾演〈Virgin
+專輯裡面大多數的新曲都是由[小室哲哉負責作曲](../Page/小室哲哉.md "wikilink")。她坦承錄製的時候，在尋找「濱崎步」與「小室哲哉」的音樂的平衡點非常苦惱，她反覆改寫了歌詞、唱法，才完成這張專輯的錄製。本作音樂錄影帶她同樣地投入大量資金前往[好萊塢拍攝](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，同時間，在錄製本作音樂錄影帶時，她結識了飾演〈Virgin
 Road〉男主角的曼紐爾‧史瓦茲（Manuel
 Schwarz）。兩人在數個月的交往後，毅然決然地在專輯發行後的一周結婚。2011年的元旦，濱崎步結束跨年演唱會後，在拉斯維加斯註冊並結為史瓦茲的妻子。而《Love
 songs》順理成章成為「濱崎步的結婚禮物」，但這段婚姻僅為期一年，便因為濱崎步事業必須分隔兩地而結束。

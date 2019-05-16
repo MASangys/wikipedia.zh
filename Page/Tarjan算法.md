@@ -1,5 +1,5 @@
 **Tarjan算法** （以發現者[Robert
-Tarjan](https://zh.wikipedia.org/wiki/羅伯特·塔揚 "wikilink")\[1\]命名）是一個在[圖中尋找](https://zh.wikipedia.org/wiki/圖 "wikilink")[強連通分量的算法](https://zh.wikipedia.org/wiki/強連通分量 "wikilink")。雖然發表時間更早，它仍可以被視為[Kosaraju算法的一個改進](../Page/Kosaraju算法.md "wikilink")。它的效率跟差不多。
+Tarjan](../Page/羅伯特·塔揚.md "wikilink")\[1\]命名）是一個在[圖中尋找](https://zh.wikipedia.org/wiki/圖 "wikilink")[強連通分量的算法](https://zh.wikipedia.org/wiki/強連通分量 "wikilink")。雖然發表時間更早，它仍可以被視為[Kosaraju算法的一個改進](../Page/Kosaraju算法.md "wikilink")。它的效率跟差不多。
 
 ## 概述
 

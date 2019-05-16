@@ -59,7 +59,7 @@ html>body #elem {
 ```
 
 第一段 `voice-family` 语句设为字符串 `"}"` ，但是 IE 一个解析错误会阻断它为一个单
-[反斜线](https://zh.wikipedia.org/wiki/反斜线 "wikilink") 跟着一个闭合
+[反斜线](../Page/反斜线.md "wikilink") 跟着一个闭合
 [括号](https://zh.wikipedia.org/wiki/Bracket#Curly_brackets_or_braces_.7B_.7D "wikilink")，作为样式指令的结尾。选择
 `voice-family` 是因为它不会影响屏幕 [样式表](../Page/层叠样式表.md "wikilink")
 上的表现。第二个使用了`html>body` hack 的规则是为了像

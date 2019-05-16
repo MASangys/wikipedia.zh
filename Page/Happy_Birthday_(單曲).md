@@ -13,13 +13,14 @@ Birthday**』是[日本男性偶像組合](../Page/日本.md "wikilink")[NEWS第
 ### 初回生産限定盤
 
 1.  **Happy Birthday**
-      - 作詞: [SEAMO](../Page/SEAMO.md "wikilink")、作曲:
+      - 作詞: [SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")、作曲:
         SEAMO,Shintaro“Growth”Izutsu、編曲:
         Shintaro“Growth”Izutsu、Brass\&Strings編曲：Naoki Otsubo
-      - 日本化妝品[KOSE](../Page/KOSE.md "wikilink")『HAPPY BATH DAY』廣告歌
+      - 日本化妝品[KOSE](https://zh.wikipedia.org/wiki/KOSE "wikilink")『HAPPY
+        BATH DAY』廣告歌
 2.  **加加加油**
-      - 作詞: [zopp](../Page/zopp.md "wikilink")、作曲: Tomoya Kinoshita、編曲:
-        鈴木雅也
+      - 作詞: [zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")、作曲:
+        Tomoya Kinoshita、編曲: 鈴木雅也
 3.  **GAME of LOVE**
       - 作詞: 下地悠、作曲: Shusui,Henrik Andersson-Tervald、編曲: Shusui,Henrik
         Andersson-Tervald

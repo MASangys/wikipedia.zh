@@ -1,6 +1,6 @@
 [Linux_kernel_System_Call_Interface_and_uClibc.svg](https://zh.wikipedia.org/wiki/File:Linux_kernel_System_Call_Interface_and_uClibc.svg "fig:Linux_kernel_System_Call_Interface_and_uClibc.svg")
 (system calls), [Linux内核](../Page/Linux内核.md "wikilink") /
-[uClibc](../Page/uClibc.md "wikilink").\]\]
+[uClibc](https://zh.wikipedia.org/wiki/uClibc "wikilink").\]\]
 
 **μClinux**為「MicroController Linux」
 的縮寫，通常念作「you-see-linux」，是[Linux的延生版本](../Page/Linux.md "wikilink")，專門使用在無[記憶體管理單元的](https://zh.wikipedia.org/wiki/記憶體管理單元 "wikilink")[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。\[1\]

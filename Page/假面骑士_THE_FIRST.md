@@ -1,5 +1,5 @@
 《**假面骑士 THE
-FIRST**》（）是《[假面骑士](../Page/假面骑士.md "wikilink")》诞生35周年纪念作。作品回归原点，以1971年首部《假面骑士》的故事为蓝本展开，讲述了本乡猛与一文字隼人对抗修卡组织的故事。作品展现给观众一种写实的风格，是一部具有现代风格、[成人向的特摄作品](../Page/成人向.md "wikilink")。
+FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")》诞生35周年纪念作。作品回归原点，以1971年首部《假面骑士》的故事为蓝本展开，讲述了本乡猛与一文字隼人对抗修卡组织的故事。作品展现给观众一种写实的风格，是一部具有现代风格、[成人向的特摄作品](https://zh.wikipedia.org/wiki/成人向 "wikilink")。
 
 ## 人物介绍
 
@@ -10,20 +10,20 @@ FIRST**》（）是《[假面骑士](../Page/假面骑士.md "wikilink")》诞�
 
 ### 一文字隼人
 
-[高野八誠](../Page/高野八誠.md "wikilink")
-饰：(曾出演《[假面骑士龙骑](../Page/假面骑士龙骑.md "wikilink")》中假面骑士Raia
+[高野八誠](https://zh.wikipedia.org/wiki/高野八誠 "wikilink")
+饰：(曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中假面骑士Raia
 手冢海之)
 按照死神博士的想法“要打倒HOPPER就要使用HOPPER的力量”被改造成蝗虫怪人，接受了消灭叛徒本乡猛的使命。最后为了心爱的女人背叛修卡，成为假面骑士2号。
 
 ### 立花藤兵卫
 
-[宫内洋](../Page/宫内洋.md "wikilink")
-饰：（曾主演《[假面骑士V3](../Page/假面骑士V3.md "wikilink")》主角风见志郎）
+[宫内洋](https://zh.wikipedia.org/wiki/宫内洋 "wikilink")
+饰：（曾主演《[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")》主角风见志郎）
 本乡的机车师傅。
 
 ### 绿川明日香
 
-[小嶺麗奈](../Page/小嶺麗奈.md "wikilink") 饰：
+[小嶺麗奈](https://zh.wikipedia.org/wiki/小嶺麗奈 "wikilink") 饰：
 记者
 
 ## 假面骑士
@@ -37,7 +37,7 @@ FIRST**》（）是《[假面骑士](../Page/假面骑士.md "wikilink")》诞�
 | 拳力：   | 3 t         | 腿力：  | 10 t    |
 | 骑士踢：  | 30 t        |      |         |
 
-本乡猛凭借穿着[蝗虫能力的特殊强化服变身而成](../Page/蝗虫.md "wikilink")，拥有夜视能力，强化服能反弹子弹射击，并具有蝗虫可怕的弹跳力。
+本乡猛凭借穿着[蝗虫能力的特殊强化服变身而成](https://zh.wikipedia.org/wiki/蝗虫 "wikilink")，拥有夜视能力，强化服能反弹子弹射击，并具有蝗虫可怕的弹跳力。
 
 ### 假面骑士2号
 
@@ -96,7 +96,7 @@ FIRST**》（）是《[假面骑士](../Page/假面骑士.md "wikilink")》诞�
 
   - 作詞：ISSA
   - 作曲：ISSA/YUKINARI
-  - 演唱：[Da Pump](../Page/Da_Pump.md "wikilink")
+  - 演唱：[Da Pump](https://zh.wikipedia.org/wiki/Da_Pump "wikilink")
 
 ## 备注
 

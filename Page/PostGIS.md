@@ -1,17 +1,17 @@
 **PostGIS**
 是一个开源程序，它为对象－关系型数据库[PostgreSQL提供了存储空间地理数据的支持](../Page/PostgreSQL.md "wikilink")，使PostgreSQL成为了一个空间数据库，能够进行空间数据管理、数量测量与几何拓扑分析。PostGIS
 实现了[Open Geospatial
-Consortium所提出的基本要素类](../Page/Open_Geospatial_Consortium.md "wikilink")（点、线、面、多点、多线、多面等）的SQL实现参考。
+Consortium所提出的基本要素类](https://zh.wikipedia.org/wiki/Open_Geospatial_Consortium "wikilink")（点、线、面、多点、多线、多面等）的SQL实现参考。
 
 ## 特点
 
   - 完整实现了标准之中的空间对象模型，如点、折线、多边形、多点、多折线、多多边形与几何集合。
-  - 通过调用提供[GEOS之中的几何分析函数](../Page/GEOS_\(software_library\).md "wikilink")，实现了使用3x3[Egenhofer
-    matrix分析空间对象之间拓扑关系的运算](../Page/Egenhofer_matrix.md "wikilink")，并遵循[Simple
-    Features定义](../Page/Simple_Features.md "wikilink")，实现了一些常见的关系运算，如Intersect、Contain、Overlap等等。
+  - 通过调用提供[GEOS之中的几何分析函数](https://zh.wikipedia.org/wiki/GEOS_\(software_library\) "wikilink")，实现了使用3x3[Egenhofer
+    matrix分析空间对象之间拓扑关系的运算](https://zh.wikipedia.org/wiki/Egenhofer_matrix "wikilink")，并遵循[Simple
+    Features定义](https://zh.wikipedia.org/wiki/Simple_Features "wikilink")，实现了一些常见的关系运算，如Intersect、Contain、Overlap等等。
   - 实现了空间数量度量，能够计算几何体之间的距离、几何体的面积、周长等等。
-  - 通过调用提供[GEOS之中的几何分析函数](../Page/GEOS.md "wikilink")，实现了常见的GIS空间分析功能，如求交、求并、求差、缓冲区等等。
-  - 利用[R-tree与](../Page/R-tree.md "wikilink")[GiST实现了空间索引](../Page/GiST.md "wikilink")，大大加快了正交查询的速度。
+  - 通过调用提供[GEOS之中的几何分析函数](https://zh.wikipedia.org/wiki/GEOS "wikilink")，实现了常见的GIS空间分析功能，如求交、求并、求差、缓冲区等等。
+  - 利用[R-tree与](https://zh.wikipedia.org/wiki/R-tree "wikilink")[GiST实现了空间索引](https://zh.wikipedia.org/wiki/GiST "wikilink")，大大加快了正交查询的速度。
   - 支持选择性索引，为空间与非空间的混合查询指定适当的查询策略，提高了搜索的效率。
   - 目前，PostGIS仍不支持在数据库中存储栅格数据。然而目前PostGIS有一个名为[PostGIS
     Raster](http://trac.osgeo.org/postgis/wiki/WKTRaster)的计划，正在实现在PostgreSQL中存储栅格数据，并实现矢量数据与栅格数据之间的无缝操作。该计划已经整合到PostGIS
@@ -31,40 +31,47 @@ mean?](http://www.opengeospatial.org/ogc/faq/process/#6).
 
 PostGIS是一个重要的GIS基础软件，因为目前它是为数不多的开源空间数据库存储方案之一。有许多著名的GIS软件都使用PostGIS作为数据库后端，其中包括：
 
-  - [Cadcorp](../Page/Cadcorp.md "wikilink") SIS
+  - [Cadcorp](https://zh.wikipedia.org/wiki/Cadcorp "wikilink") SIS
   - Everest GIS
   - [Feature Manipulation
-    Engine](../Page/Feature_Manipulation_Engine.md "wikilink")
-  - [GeoMedia](../Page/GeoMedia.md "wikilink") (通过第三方连接器)
-  - [GeoServer](../Page/GeoServer.md "wikilink")
-  - [GRASS GIS](../Page/GRASS_GIS.md "wikilink") (GPL)
-  - [gvSIG](../Page/gvSIG.md "wikilink") (GPL)
-  - Interoperability Extension from [ESRI](../Page/ESRI.md "wikilink")
+    Engine](https://zh.wikipedia.org/wiki/Feature_Manipulation_Engine "wikilink")
+  - [GeoMedia](https://zh.wikipedia.org/wiki/GeoMedia "wikilink")
+    (通过第三方连接器)
+  - [GeoServer](https://zh.wikipedia.org/wiki/GeoServer "wikilink")
+  - [GRASS GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")
+    (GPL)
+  - [gvSIG](https://zh.wikipedia.org/wiki/gvSIG "wikilink") (GPL)
+  - Interoperability Extension from
+    [ESRI](https://zh.wikipedia.org/wiki/ESRI "wikilink")
   - Ionic Red Spider
-  - [Kosmo](../Page/Kosmo.md "wikilink") (GPL)
-  - [Manifold System](../Page/Manifold_System.md "wikilink")
+  - [Kosmo](https://zh.wikipedia.org/wiki/Kosmo "wikilink") (GPL)
+  - [Manifold
+    System](https://zh.wikipedia.org/wiki/Manifold_System "wikilink")
   - [MapInfo Professional](../Page/MapInfo_Professional.md "wikilink")
-  - [Mapnik](../Page/Mapnik.md "wikilink")
-    ([LGPL](../Page/LGPL.md "wikilink"))
+  - [Mapnik](https://zh.wikipedia.org/wiki/Mapnik "wikilink")
+    ([LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink"))
   - MapDotNet Server
   - [MapServer](../Page/MapServer.md "wikilink")
-    ([BSD](../Page/BSD_Licenses.md "wikilink"))
-  - [MapGuide](../Page/MapGuide.md "wikilink")
-    ([LGPL](../Page/LGPL.md "wikilink"))
+    ([BSD](https://zh.wikipedia.org/wiki/BSD_Licenses "wikilink"))
+  - [MapGuide](https://zh.wikipedia.org/wiki/MapGuide "wikilink")
+    ([LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink"))
   - MezoGIS
-  - [OpenJUMP](../Page/OpenJUMP.md "wikilink") (GPL)
-  - [Quantum GIS](../Page/Quantum_GIS.md "wikilink") (GPL)
-  - [TerraLib](../Page/TerraLib.md "wikilink") (LGPL)
-  - [TerraView](../Page/TerraView.md "wikilink") (GPL)
-  - [uDig](../Page/uDig.md "wikilink") (LGPL)
+  - [OpenJUMP](https://zh.wikipedia.org/wiki/OpenJUMP "wikilink") (GPL)
+  - [Quantum GIS](https://zh.wikipedia.org/wiki/Quantum_GIS "wikilink")
+    (GPL)
+  - [TerraLib](https://zh.wikipedia.org/wiki/TerraLib "wikilink") (LGPL)
+  - [TerraView](https://zh.wikipedia.org/wiki/TerraView "wikilink")
+    (GPL)
+  - [uDig](https://zh.wikipedia.org/wiki/uDig "wikilink") (LGPL)
   - [ArcGIS](../Page/ArcGIS.md "wikilink") (通过ZigGIS, ArcSDE以及其他第三方连接器)
-  - [CitySurf Globe](../Page/CitySurf_Globe.md "wikilink")
+  - [CitySurf
+    Globe](https://zh.wikipedia.org/wiki/CitySurf_Globe "wikilink")
   - [優步](../Page/優步.md "wikilink")（Uber）
 
 ## 历史
 
 PostGIS的第一个版本在2001年由Refractions
-Research以[GNU通用公共许可证发行](../Page/GNU通用公共许可证.md "wikilink")。在2005年的4月19日，PostGIS在经历了6个[最终测试版本后](../Page/最终测试版本.md "wikilink")，终于放出了第一个稳定版本。在2006年，PostGIS注册成为了OGC的“简单要素SQL实现”标准的一个实现。
+Research以[GNU通用公共许可证发行](../Page/GNU通用公共许可证.md "wikilink")。在2005年的4月19日，PostGIS在经历了6个[最终测试版本后](https://zh.wikipedia.org/wiki/最终测试版本 "wikilink")，终于放出了第一个稳定版本。在2006年，PostGIS注册成为了OGC的“简单要素SQL实现”标准的一个实现。
 
 PostGIS向PostgreSQL对象关系型数据库添加了地理对象支持。其结果是，PostGIS“空间启用”了PostgreSQL服务器，允许其被用于地理信息系统（GIS）的后台空间数据库，类似于ESRI的SDE或Oracle的空间扩展。
 
@@ -75,7 +82,8 @@ Windows和PostGIS Windows Installer。
 
 ## 参见
 
-  - [Well-known text与well](../Page/Well-known_text.md "wikilink")-known
+  - [Well-known
+    text与well](https://zh.wikipedia.org/wiki/Well-known_text "wikilink")-known
     binary，前者是一种用文本表示空间对象的注记方法，后者是一种用二进制流表示空间对象的存储方法。PostGIS使用这两种格式在数据库中存储空间对象。
 
 ## 参考

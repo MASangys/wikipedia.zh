@@ -1,4 +1,4 @@
-**CD店大獎**（），[日本的音樂獎項](../Page/日本.md "wikilink")，由[全日本CD店店員組合主辦](../Page/全日本CD店店員組合.md "wikilink")，日本全國的CD店店員投票選出各獎項。被稱為文學獎項「[書店大獎的音樂版](../Page/書店大獎.md "wikilink")」。\[1\]\[2\]
+**CD店大獎**（），[日本的音樂獎項](../Page/日本.md "wikilink")，由[全日本CD店店員組合主辦](https://zh.wikipedia.org/wiki/全日本CD店店員組合 "wikilink")，日本全國的CD店店員投票選出各獎項。被稱為文學獎項「[書店大獎的音樂版](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")」。\[1\]\[2\]
 
 ## 選拔標準
 
@@ -10,7 +10,7 @@
 
 ## 投票
 
-全國的CD店店員可以通過[互聯網](../Page/互聯網.md "wikilink")、[移動電話或者](../Page/移動電話.md "wikilink")[傳真進行投票](../Page/傳真.md "wikilink")。
+全國的CD店店員可以通過[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")、[移動電話或者](https://zh.wikipedia.org/wiki/移動電話 "wikilink")[傳真進行投票](../Page/傳真.md "wikilink")。
 
 ### 審查
 
@@ -33,8 +33,8 @@
 
 ## 頒獎
 
-第1回（2009年）的頒獎典禮在[澀谷](../Page/澀谷.md "wikilink")[HMV店內舉行](../Page/HMV.md "wikilink")，當時唱片公司及大部分CD店店員對這個獎項的認知度還很低；媒體也不怎麼關注此獎，只有獲得準大獎的[大橋好規出席的頒獎典禮](../Page/大橋好規.md "wikilink")。但是隨著第1回的獲獎作品和歌手的唱片銷量逐漸提高，以及眾多CD店店員的幫助，到第2回舉行時，CD店大獎已經成為頗受外界關注的新興音樂獎項；大獎的獲得者[THE
-BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都出席了第](../Page/清龍人.md "wikilink")2回的頒獎典禮。\[3\]
+第1回（2009年）的頒獎典禮在[澀谷](../Page/澀谷.md "wikilink")[HMV店內舉行](../Page/HMV.md "wikilink")，當時唱片公司及大部分CD店店員對這個獎項的認知度還很低；媒體也不怎麼關注此獎，只有獲得準大獎的[大橋好規出席的頒獎典禮](https://zh.wikipedia.org/wiki/大橋好規 "wikilink")。但是隨著第1回的獲獎作品和歌手的唱片銷量逐漸提高，以及眾多CD店店員的幫助，到第2回舉行時，CD店大獎已經成為頗受外界關注的新興音樂獎項；大獎的獲得者[THE
+BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都出席了第](https://zh.wikipedia.org/wiki/清龍人 "wikilink")2回的頒獎典禮。\[3\]
 
 ## 舉行時間
 
@@ -74,18 +74,18 @@ BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都
 <td><p>第1回</p></td>
 <td><p>2009年</p></td>
 <td><p>（<a href="../Page/相對性理論.md" title="wikilink">相對性理論</a>）</p></td>
-<td><p><a href="../Page/THIS_IS_MUSIC.md" title="wikilink">THIS IS MUSIC</a>（<a href="../Page/大橋好規.md" title="wikilink">大橋好規</a>）<br />
-<a href="../Page/GAME_(Perfume專輯).md" title="wikilink">GAME</a>（<a href="../Page/Perfume.md" title="wikilink">Perfume</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_MUSIC" title="wikilink">THIS IS MUSIC</a>（<a href="https://zh.wikipedia.org/wiki/大橋好規" title="wikilink">大橋好規</a>）<br />
+<a href="../Page/GAME_(Perfume專輯).md" title="wikilink">GAME</a>（<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p><a href="../Page/HEART_STATION.md" title="wikilink">HEART STATION</a>（<a href="../Page/宇多田光.md" title="wikilink">宇多田光</a>）<br />
-<a href="../Page/HeartY.md" title="wikilink">HeartY</a>（<a href="../Page/HY.md" title="wikilink">HY</a>）<br />
-（<a href="../Page/SAKEROCK.md" title="wikilink">SAKEROCK</a>）<br />
-<a href="../Page/ALRIGHT.md" title="wikilink">ALRIGHT</a>（<a href="../Page/秦基博.md" title="wikilink">秦基博</a>）<br />
-<a href="../Page/floating_pupa.md" title="wikilink">floating pupa</a>（<a href="../Page/pupa.md" title="wikilink">pupa</a>）<br />
+<p><a href="https://zh.wikipedia.org/wiki/HEART_STATION" title="wikilink">HEART STATION</a>（<a href="../Page/宇多田光.md" title="wikilink">宇多田光</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/HeartY" title="wikilink">HeartY</a>（<a href="https://zh.wikipedia.org/wiki/HY" title="wikilink">HY</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/SAKEROCK" title="wikilink">SAKEROCK</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/ALRIGHT" title="wikilink">ALRIGHT</a>（<a href="../Page/秦基博.md" title="wikilink">秦基博</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/floating_pupa" title="wikilink">floating pupa</a>（<a href="https://zh.wikipedia.org/wiki/pupa" title="wikilink">pupa</a>）<br />
 <a href="../Page/SUPERMARKET_FANTASY.md" title="wikilink">SUPERMARKET FANTASY</a>（<a href="../Page/Mr.Children.md" title="wikilink">Mr.Children</a>）</p>
 </div>
 </div></td>
@@ -93,8 +93,8 @@ BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p>2010年</p></td>
-<td><p><a href="../Page/THIS_IS_MY_STORY.md" title="wikilink">THIS IS MY STORY</a>（<a href="../Page/THE_BAWDIES.md" title="wikilink">THE BAWDIES</a>）</p></td>
-<td><p><a href="../Page/PHILOSOPHY.md" title="wikilink">PHILOSOPHY</a>（<a href="../Page/清龍人.md" title="wikilink">清龍人</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_MY_STORY" title="wikilink">THIS IS MY STORY</a>（<a href="../Page/THE_BAWDIES.md" title="wikilink">THE BAWDIES</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PHILOSOPHY" title="wikilink">PHILOSOPHY</a>（<a href="https://zh.wikipedia.org/wiki/清龍人" title="wikilink">清龍人</a>）<br />
 <a href="../Page/Box_Emotions.md" title="wikilink">Box Emotions</a>（<a href="../Page/Superfly.md" title="wikilink">Superfly</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
@@ -102,11 +102,11 @@ BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都
 </div>
 <div class="NavContent" style="text-align:left">
 <p>（<a href="../Page/阿部真央.md" title="wikilink">阿部真央</a>）<br />
-（<a href="../Page/Sakanaction.md" title="wikilink">Sakanaction</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/Sakanaction" title="wikilink">Sakanaction</a>）<br />
 <a href="../Page/三文八卦.md" title="wikilink">三文八卦</a>（<a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a>）<br />
 （）<br />
-<a href="../Page/FACT_(專輯).md" title="wikilink">FACT</a>（<a href="../Page/FACT_(樂團).md" title="wikilink">FACT</a>）<br />
-（<a href="../Page/UNICORN.md" title="wikilink">UNICORN</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/FACT_(專輯)" title="wikilink">FACT</a>（<a href="https://zh.wikipedia.org/wiki/FACT_(樂團)" title="wikilink">FACT</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/UNICORN" title="wikilink">UNICORN</a>）<br />
 （<a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a>）</p>
 </div>
 </div></td>
@@ -114,58 +114,58 @@ BAWDIES和準大獎的獲得者](../Page/THE_BAWDIES.md "wikilink")[清龍人都
 <tr class="odd">
 <td><p>第3回</p></td>
 <td><p>2011年</p></td>
-<td><p>（<a href="../Page/andymori.md" title="wikilink">andymori</a>）</p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/andymori" title="wikilink">andymori</a>）</p></td>
 <td><p>（）<br />
-<a href="../Page/Documentary_(秦基博專輯).md" title="wikilink">Documentary</a>（<a href="../Page/秦基博.md" title="wikilink">秦基博</a>）<br />
-EARTH（<a href="../Page/世界的終結.md" title="wikilink">世界的終結</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/Documentary_(秦基博專輯)" title="wikilink">Documentary</a>（<a href="../Page/秦基博.md" title="wikilink">秦基博</a>）<br />
+EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink">世界的終結</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p><a href="../Page/Orkonpood.md" title="wikilink">Orkonpood</a>（<a href="../Page/小林太郎.md" title="wikilink">小林太郎</a>）<br />
-<a href="../Page/kikUUiki.md" title="wikilink">kikUUiki</a>（）<br />
-<a href="../Page/Shall_we_travel??.md" title="wikilink">Shall we travel??</a>（<a href="../Page/NAOTO_INTI_RAYMI.md" title="wikilink">NAOTO INTI RAYMI</a>）<br />
-<a href="../Page/billion_voices.md" title="wikilink">billion voices</a>（<a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a>）<br />
-<a href="../Page/THE_DIE_IS_CAST.md" title="wikilink">THE DIE IS CAST</a>（<a href="../Page/FAT_PROP.md" title="wikilink">FAT PROP</a>）<br />
-（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
-<a href="../Page/TOP_OF_THE_FUCK&#39;N_WORLD.md" title="wikilink">TOP OF THE FUCK'N WORLD</a>（<a href="../Page/The_Mirraz.md" title="wikilink">The Mirraz</a>）</p>
+<p><a href="https://zh.wikipedia.org/wiki/Orkonpood" title="wikilink">Orkonpood</a>（<a href="https://zh.wikipedia.org/wiki/小林太郎" title="wikilink">小林太郎</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/kikUUiki" title="wikilink">kikUUiki</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/Shall_we_travel??" title="wikilink">Shall we travel??</a>（<a href="https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI" title="wikilink">NAOTO INTI RAYMI</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/billion_voices" title="wikilink">billion voices</a>（<a href="https://zh.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/THE_DIE_IS_CAST" title="wikilink">THE DIE IS CAST</a>（<a href="https://zh.wikipedia.org/wiki/FAT_PROP" title="wikilink">FAT PROP</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/TOP_OF_THE_FUCK&#39;N_WORLD" title="wikilink">TOP OF THE FUCK'N WORLD</a>（<a href="https://zh.wikipedia.org/wiki/The_Mirraz" title="wikilink">The Mirraz</a>）</p>
 </div>
 </div></td>
 </tr>
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p>2012年</p></td>
-<td><p>（<a href="../Page/桃色幸運草.md" title="wikilink">桃色幸運草</a>）</p></td>
-<td><p>（<a href="../Page/星野源.md" title="wikilink">星野源</a>）</p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/桃色幸運草" title="wikilink">桃色幸運草</a>）</p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>（<a href="../Page/熊谷育美.md" title="wikilink">熊谷育美</a>）<br />
-<a href="../Page/DocumentaLy.md" title="wikilink">DocumentaLy</a>（）<br />
-（<a href="../Page/高橋優.md" title="wikilink">高橋優</a>）<br />
-（<a href="../Page/back_number.md" title="wikilink">back number</a>）<br />
-<a href="../Page/MAN_WITH_A_MISSION_(專輯).md" title="wikilink">MAN WITH A MISSION</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）</p>
+<p>（<a href="https://zh.wikipedia.org/wiki/熊谷育美" title="wikilink">熊谷育美</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/DocumentaLy" title="wikilink">DocumentaLy</a>（）<br />
+（<a href="https://zh.wikipedia.org/wiki/高橋優" title="wikilink">高橋優</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/back_number" title="wikilink">back number</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/MAN_WITH_A_MISSION_(專輯)" title="wikilink">MAN WITH A MISSION</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）</p>
 </div>
 </div></td>
 </tr>
 <tr class="odd">
 <td><p>第5回</p></td>
 <td><p>2013年</p></td>
-<td><p><a href="../Page/MASH_UP_THE_WORLD.md" title="wikilink">MASH UP THE WORLD</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）</p></td>
-<td><p><a href="../Page/怪妞進怪論.md" title="wikilink">怪妞進怪論</a>（<a href="../Page/Kyary_Pamyu_Pamyu.md" title="wikilink">Kyary Pamyu Pamyu</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MASH_UP_THE_WORLD" title="wikilink">MASH UP THE WORLD</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）</p></td>
+<td><p><a href="../Page/怪妞進怪論.md" title="wikilink">怪妞進怪論</a>（<a href="https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu" title="wikilink">Kyary Pamyu Pamyu</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <p>（）<br />
-<a href="../Page/ENTERTAINMENT_(SEKAI_NO_OWARI專輯).md" title="wikilink">ENTERTAINMENT</a>（<a href="../Page/SEKAI_NO_OWARI.md" title="wikilink">SEKAI NO OWARI</a>）<br />
-（<a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a>）<br />
-<a href="../Page/blues_(back_number專輯).md" title="wikilink">blues</a>（<a href="../Page/back_number.md" title="wikilink">back number</a>）<br />
-<a href="../Page/diorama_(專輯).md" title="wikilink">diorama</a>（<a href="../Page/米津玄師.md" title="wikilink">米津玄師</a>）</p>
+<a href="https://zh.wikipedia.org/wiki/ENTERTAINMENT_(SEKAI_NO_OWARI專輯)" title="wikilink">ENTERTAINMENT</a>（<a href="../Page/SEKAI_NO_OWARI.md" title="wikilink">SEKAI NO OWARI</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/blues_(back_number專輯)" title="wikilink">blues</a>（<a href="https://zh.wikipedia.org/wiki/back_number" title="wikilink">back number</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/diorama_(專輯)" title="wikilink">diorama</a>（<a href="../Page/米津玄師.md" title="wikilink">米津玄師</a>）</p>
 </div>
 </div></td>
 </tr>
@@ -181,11 +181,11 @@ EARTH（<a href="../Page/世界的終結.md" title="wikilink">世界的終結</a
 <div class="NavContent" style="text-align:left">
 <p>（）<br />
 （）<br />
-<a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a>（<a href="../Page/Perfume.md" title="wikilink">Perfume</a>）<br />
-<a href="../Page/人生×僕=.md" title="wikilink">人生×僕=</a>（<a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a>）<br />
-（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
-<a href="../Page/sakanaction.md" title="wikilink">sakanaction</a>（<a href="../Page/魚韻.md" title="wikilink">魚韻</a>）<br />
-<a href="../Page/Delight.md" title="wikilink">Delight</a>（<a href="../Page/miwa.md" title="wikilink">miwa</a>）</p>
+<a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a>（<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>）<br />
+<a href="../Page/人生×僕=.md" title="wikilink">人生×僕=</a>（<a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/sakanaction" title="wikilink">sakanaction</a>（<a href="../Page/魚韻.md" title="wikilink">魚韻</a>）<br />
+<a href="../Page/Delight.md" title="wikilink">Delight</a>（<a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>）</p>
 </div>
 </div></td>
 </tr>
@@ -199,13 +199,13 @@ EARTH（<a href="../Page/世界的終結.md" title="wikilink">世界的終結</a
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p><a href="../Page/amazing_sky.md" title="wikilink">amazing sky</a>（）<br />
+<p><a href="https://zh.wikipedia.org/wiki/amazing_sky" title="wikilink">amazing sky</a>（）<br />
 （）<br />
-<a href="../Page/THE_PIER.md" title="wikilink">THE PIER</a>（）<br />
+<a href="https://zh.wikipedia.org/wiki/THE_PIER" title="wikilink">THE PIER</a>（）<br />
 （）<br />
 （<a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a>）<br />
-（<a href="../Page/back_number.md" title="wikilink">back number</a>）<br />
-<a href="../Page/Tales_of_Purefly.md" title="wikilink">Tales of Purefly</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/back_number" title="wikilink">back number</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/Tales_of_Purefly" title="wikilink">Tales of Purefly</a>（<a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a>）<br />
 （）</p>
 </div>
 </div></td>
@@ -213,17 +213,17 @@ EARTH（<a href="../Page/世界的終結.md" title="wikilink">世界的終結</a
 <tr class="even">
 <td><p>第8回</p></td>
 <td><p>2016年</p></td>
-<td><p>YELLOW DANCER（<a href="../Page/星野源.md" title="wikilink">星野源</a>）</p></td>
-<td><p>ジパング（<a href="../Page/星期三的康帕內拉.md" title="wikilink">星期三的康帕內拉</a>）<br />
-Are You Coming？（<a href="../Page/WANIMA.md" title="wikilink">WANIMA</a>）</p></td>
+<td><p>YELLOW DANCER（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）</p></td>
+<td><p>ジパング（<a href="https://zh.wikipedia.org/wiki/星期三的康帕內拉" title="wikilink">星期三的康帕內拉</a>）<br />
+Are You Coming？（<a href="https://zh.wikipedia.org/wiki/WANIMA" title="wikilink">WANIMA</a>）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
 <p>「L-エル-」Acid Black Cherry<br />
-「HAPPY」<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a><br />
-「Obsure Ride」<a href="../Page/cero.md" title="wikilink">cero</a><br />
+「HAPPY」<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a><br />
+「Obsure Ride」<a href="https://zh.wikipedia.org/wiki/cero" title="wikilink">cero</a><br />
 「シャンデリア」back number<br />
 「Bremen」<a href="../Page/米津玄師.md" title="wikilink">米津玄師</a></p>
 </div></td>
@@ -238,7 +238,7 @@ Are You Coming？（<a href="../Page/WANIMA.md" title="wikilink">WANIMA</a>）</
 <p>其它入圍作品列表</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>『EXIST!』 <a href="../Page/Alexandros.md" title="wikilink">Alexandros</a><br />
+<p>『EXIST!』 <a href="https://zh.wikipedia.org/wiki/Alexandros" title="wikilink">Alexandros</a><br />
 『D.A.N.』 D.A.N.<br />
 『fam fam』 never young beach<br />
 『woman’s』 My Hair is Bad<br />
@@ -268,8 +268,8 @@ MODERN TIMES（PUNPEE）</p></td>
 <tr class="odd">
 <td><p>第11回</p></td>
 <td><p>2019年</p></td>
-<td><p>（紅）POP VIRUS（<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
-（藍）平成（<a href="../Page/折坂悠太.md" title="wikilink">折坂悠太</a>）</p></td>
+<td><p>（紅）POP VIRUS（<a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a>）<br />
+（藍）平成（<a href="https://zh.wikipedia.org/wiki/折坂悠太" title="wikilink">折坂悠太</a>）</p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0">
 <div class="NavHead" style="text-align:center">
@@ -282,7 +282,7 @@ MODERN TIMES（PUNPEE）</p></td>
 カネコアヤノ「祝祭」<br />
 「ai qing」KID FRESINO<br />
 「正しい偽りからの起床」ずっと真夜中でいいのに。<br />
-「POLY LIFE MULTI SOUL」<a href="../Page/cero.md" title="wikilink">cero</a><br />
+「POLY LIFE MULTI SOUL」<a href="https://zh.wikipedia.org/wiki/cero" title="wikilink">cero</a><br />
 「Everybody</p></td>
 </tr>
 <tr class="even">
@@ -299,11 +299,11 @@ MODERN TIMES（PUNPEE）</p></td>
 
 第6回開始設立
 
-| 回数                                             | 年     | 歌手                                           | 作品                                       |
-| ---------------------------------------------- | ----- | -------------------------------------------- | ---------------------------------------- |
-| 第6回                                            | 2014年 | [KANA-BOON](../Page/KANA-BOON.md "wikilink") | 「[DOPPEL](../Page/DOPPEL.md "wikilink")」 |
-| 「[僕がCDを出したら](../Page/僕がCDを出したら.md "wikilink")」 |       |                                              |                                          |
-|                                                |       |                                              |                                          |
+| 回数                                                                | 年     | 歌手                                                              | 作品                                                          |
+| ----------------------------------------------------------------- | ----- | --------------------------------------------------------------- | ----------------------------------------------------------- |
+| 第6回                                                               | 2014年 | [KANA-BOON](https://zh.wikipedia.org/wiki/KANA-BOON "wikilink") | 「[DOPPEL](https://zh.wikipedia.org/wiki/DOPPEL "wikilink")」 |
+| 「[僕がCDを出したら](https://zh.wikipedia.org/wiki/僕がCDを出したら "wikilink")」 |       |                                                                 |                                                             |
+|                                                                   |       |                                                                 |                                                             |
 
 #### BEST ARTIST獎
 
@@ -323,10 +323,10 @@ MODERN TIMES（PUNPEE）</p></td>
 <td><p>第7回</p></td>
 <td><p>2015年</p></td>
 <td></td>
-<td><p>「<a href="../Page/みんなノーマル.md" title="wikilink">みんなノーマル</a>」</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/みんなノーマル" title="wikilink">みんなノーマル</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p>「<a href="../Page/魅力がすごいよ.md" title="wikilink">魅力がすごいよ</a>」</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/魅力がすごいよ" title="wikilink">魅力がすごいよ</a>」</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,18 +355,18 @@ MODERN TIMES（PUNPEE）</p></td>
 <tbody>
 <tr class="odd">
 <td><p><small><a href="../Page/北海道.md" title="wikilink">北海道</a></small></p></td>
-<td><p><small><a href="../Page/東北地方.md" title="wikilink">東北</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/東北地方" title="wikilink">東北</a></small></p></td>
 <td><p><small><a href="../Page/關東地方.md" title="wikilink">關東</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p>2010年</p></td>
-<td><p><a href="../Page/paratroop.md" title="wikilink">paratroop</a>（<a href="../Page/sleepy.ad.md" title="wikilink">sleepy.ad</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/paratroop" title="wikilink">paratroop</a>（<a href="https://zh.wikipedia.org/wiki/sleepy.ad" title="wikilink">sleepy.ad</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>第3回</p></td>
 <td><p>2011年</p></td>
-<td><p><a href="../Page/cacoi.md" title="wikilink">cacoi</a>（<a href="../Page/サトウヨシアキ.md" title="wikilink">サトウヨシアキ</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/cacoi" title="wikilink">cacoi</a>（<a href="https://zh.wikipedia.org/wiki/サトウヨシアキ" title="wikilink">サトウヨシアキ</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第4回</p></td>
@@ -376,12 +376,12 @@ MODERN TIMES（PUNPEE）</p></td>
 <tr class="odd">
 <td><p>第5回</p></td>
 <td><p>2013年</p></td>
-<td><p><a href="../Page/Trigger_of_Life.md" title="wikilink">Trigger of Life</a>（<a href="../Page/Ao.md" title="wikilink">Ao</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Trigger_of_Life" title="wikilink">Trigger of Life</a>（<a href="https://zh.wikipedia.org/wiki/Ao" title="wikilink">Ao</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第6回</p></td>
 <td><p>2014年</p></td>
-<td><p><a href="../Page/Drop&#39;s.md" title="wikilink">Drop's</a>「<a href="../Page/DAWN_SIGNALS.md" title="wikilink">DAWN SIGNALS</a>」</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Drop&#39;s" title="wikilink">Drop's</a>「<a href="https://zh.wikipedia.org/wiki/DAWN_SIGNALS" title="wikilink">DAWN SIGNALS</a>」</p></td>
 </tr>
 </tbody>
 </table>
@@ -390,26 +390,26 @@ MODERN TIMES（PUNPEE）</p></td>
 
 第4回開始設立
 
-| 回数  | 年     | 歌手                                   | 作品                                                 |
-| --- | ----- | ------------------------------------ | -------------------------------------------------- |
-| 第4回 | 2012年 | [山下達郎](../Page/山下達郎.md "wikilink")   | [Ray Of Hope](../Page/Ray_Of_Hope.md "wikilink")   |
-| 第5回 | 2013年 | [矢沢永吉](../Page/矢沢永吉.md "wikilink")   | [Last Song](../Page/Last_Song.md "wikilink")       |
-| 第6回 | 2014年 | [松任谷由實](../Page/松任谷由實.md "wikilink") | [POP CLASSICO](../Page/POP_CLASSICO.md "wikilink") |
-| 第7回 | 2015年 | [竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink") | [TRAD](../Page/TRAD.md "wikilink")                 |
-| 第8回 | 2016年 | [南方之星](../Page/南方之星.md "wikilink")   | 葡萄                                                 |
-| 第9回 | 2017年 | [松任谷由實](../Page/松任谷由實.md "wikilink") | [宇宙圖書館](../Page/宇宙圖書館.md "wikilink")               |
-|     |       |                                      |                                                    |
+| 回数  | 年     | 歌手                                                    | 作品                                                                    |
+| --- | ----- | ----------------------------------------------------- | --------------------------------------------------------------------- |
+| 第4回 | 2012年 | [山下達郎](../Page/山下達郎.md "wikilink")                    | [Ray Of Hope](https://zh.wikipedia.org/wiki/Ray_Of_Hope "wikilink")   |
+| 第5回 | 2013年 | [矢沢永吉](https://zh.wikipedia.org/wiki/矢沢永吉 "wikilink") | [Last Song](../Page/Last_Song.md "wikilink")                          |
+| 第6回 | 2014年 | [松任谷由實](../Page/松任谷由實.md "wikilink")                  | [POP CLASSICO](https://zh.wikipedia.org/wiki/POP_CLASSICO "wikilink") |
+| 第7回 | 2015年 | [竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")                  | [TRAD](https://zh.wikipedia.org/wiki/TRAD "wikilink")                 |
+| 第8回 | 2016年 | [南方之星](../Page/南方之星.md "wikilink")                    | 葡萄                                                                    |
+| 第9回 | 2017年 | [松任谷由實](../Page/松任谷由實.md "wikilink")                  | [宇宙圖書館](https://zh.wikipedia.org/wiki/宇宙圖書館 "wikilink")               |
+|     |       |                                                       |                                                                       |
 
 #### 特別獎
 
 第4回開始設立
 
-| 回数  | 年     | 歌手                                                       | 作品                                                                             |
-| --- | ----- | -------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 第4回 | 2012年 | [薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink") | [Maru Maru Mori Mori\!](../Page/Maru_Maru_Mori_Mori!.md "wikilink")            |
-| 第5回 | 2013年 | [柴田淳](../Page/柴田淳.md "wikilink")                         | [COVER 70's](../Page/COVER_70's.md "wikilink")                                 |
-| 第6回 | 2014年 | [大友良英](../Page/大友良英.md "wikilink") 等                     | [晨間小說連續劇](../Page/晨間小說連續劇.md "wikilink")「[小海女](../Page/小海女.md "wikilink")」原聲大碟 |
-|     |       |                                                          |                                                                                |
+| 回数  | 年     | 歌手                                                       | 作品                                                                                                                   |
+| --- | ----- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 第4回 | 2012年 | [薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink") | [Maru Maru Mori Mori\!](../Page/Maru_Maru_Mori_Mori!.md "wikilink")                                                  |
+| 第5回 | 2013年 | [柴田淳](../Page/柴田淳.md "wikilink")                         | [COVER 70's](https://zh.wikipedia.org/wiki/COVER_70's "wikilink")                                                    |
+| 第6回 | 2014年 | [大友良英](https://zh.wikipedia.org/wiki/大友良英 "wikilink") 等  | [晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")「[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")」原聲大碟 |
+|     |       |                                                          |                                                                                                                      |
 
 #### 古典獎
 
@@ -429,7 +429,7 @@ MODERN TIMES（PUNPEE）</p></td>
 <td><p>第6回</p></td>
 <td><p>2014年</p></td>
 <td><p>／<a href="../Page/三宅由佳莉.md" title="wikilink">三宅由佳莉</a></p></td>
-<td><p>「<a href="../Page/祈り〜未来への歌声.md" title="wikilink">祈り〜未来への歌声</a>」</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/祈り〜未来への歌声" title="wikilink">祈り〜未来への歌声</a>」</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -444,10 +444,10 @@ MODERN TIMES（PUNPEE）</p></td>
 
 第6回開始設立
 
-| 回数  | 年     | 歌手                                                         | 作品                                                                 |
-| --- | ----- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
-| 第6回 | 2014年 | [fox capture plan](../Page/fox_capture_plan.md "wikilink") | 「[Bridge](../Page/Bridge_\(fox_capture_planのアルバム\).md "wikilink")」 |
-|     |       |                                                            |                                                                    |
+| 回数  | 年     | 歌手                                                                            | 作品                                                                                    |
+| --- | ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 第6回 | 2014年 | [fox capture plan](https://zh.wikipedia.org/wiki/fox_capture_plan "wikilink") | 「[Bridge](https://zh.wikipedia.org/wiki/Bridge_\(fox_capture_planのアルバム\) "wikilink")」 |
+|     |       |                                                                               |                                                                                       |
 
 #### 演歌獎
 
@@ -477,40 +477,40 @@ MODERN TIMES（PUNPEE）</p></td>
 <tr class="odd">
 <td><p>第2回</p></td>
 <td><p>2010年</p></td>
-<td><p><a href="../Page/超人氣_(專輯).md" title="wikilink">超人氣</a>（<a href="../Page/Lady_Gaga.md" title="wikilink">Lady Gaga</a>）</p></td>
-<td><p><a href="../Page/聖書地帶_(專輯).md" title="wikilink">聖書地帶</a>（<a href="../Page/黛安·貝琪.md" title="wikilink">黛安·貝琪</a>）<br />
-<a href="../Page/澈心之痛_(專輯).md" title="wikilink">澈心之痛</a>（<a href="../Page/澈心之痛.md" title="wikilink">澈心之痛</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超人氣_(專輯)" title="wikilink">超人氣</a>（<a href="../Page/Lady_Gaga.md" title="wikilink">Lady Gaga</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖書地帶_(專輯)" title="wikilink">聖書地帶</a>（<a href="https://zh.wikipedia.org/wiki/黛安·貝琪" title="wikilink">黛安·貝琪</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/澈心之痛_(專輯)" title="wikilink">澈心之痛</a>（<a href="https://zh.wikipedia.org/wiki/澈心之痛" title="wikilink">澈心之痛</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第3回</p></td>
 <td><p>2011年</p></td>
-<td><p><a href="../Page/The_Drums_(專輯).md" title="wikilink">The Drums</a>（<a href="../Page/鼓動樂團.md" title="wikilink">鼓動樂團</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Drums_(專輯)" title="wikilink">The Drums</a>（<a href="../Page/鼓動樂團.md" title="wikilink">鼓動樂團</a>）<br />
 <a href="../Page/愛不釋手.md" title="wikilink">愛不釋手</a>（<a href="../Page/魔力紅.md" title="wikilink">魔力紅</a>）<br />
-<a href="../Page/Contra.md" title="wikilink">Contra</a>（<a href="../Page/吸血鬼週末.md" title="wikilink">吸血鬼週末</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/Contra" title="wikilink">Contra</a>（<a href="../Page/吸血鬼週末.md" title="wikilink">吸血鬼週末</a>）</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p>第4回</p></td>
 <td><p>2012年</p></td>
-<td><p><a href="../Page/Torches.md" title="wikilink">Torches</a>（<a href="../Page/擁抱人群樂團.md" title="wikilink">擁抱人群樂團</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Torches" title="wikilink">Torches</a>（<a href="../Page/擁抱人群樂團.md" title="wikilink">擁抱人群樂團</a>）</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p>第5回</p></td>
 <td><p>2013年</p></td>
-<td><p><a href="../Page/第二法則.md" title="wikilink">第二法則</a>（<a href="../Page/謬思樂團.md" title="wikilink">謬思樂團</a>）</p></td>
+<td><p><a href="../Page/第二法則.md" title="wikilink">第二法則</a>（<a href="https://zh.wikipedia.org/wiki/謬思樂團" title="wikilink">謬思樂團</a>）</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p>第6回</p></td>
 <td><p>2014年</p></td>
-<td><p><a href="../Page/NEW.md" title="wikilink">NEW</a>（<a href="../Page/保羅·麥卡尼.md" title="wikilink">保羅·麥卡尼</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEW" title="wikilink">NEW</a>（<a href="https://zh.wikipedia.org/wiki/保羅·麥卡尼" title="wikilink">保羅·麥卡尼</a>）</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p>第7回</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="../Page/GIRL.md" title="wikilink">GIRL</a>（<a href="../Page/Pharrell_Williams.md" title="wikilink">Pharrell Williams</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GIRL" title="wikilink">GIRL</a>（<a href="https://zh.wikipedia.org/wiki/Pharrell_Williams" title="wikilink">Pharrell Williams</a>）</p></td>
 <td><p>—</p></td>
 </tr>
 </tbody>

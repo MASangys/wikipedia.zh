@@ -1,4 +1,4 @@
-**Livestation**是采用[P2P技术的](../Page/P2P.md "wikilink")[网络电视和广播平台](../Page/网络电视.md "wikilink")\[1\]，可在不同的操作系统上运行。Livestation最初由Skinkers公司开发，目前由Livestation公司管理。该软件可以免费下载，部分高清频道需要付费收看。
+**Livestation**是采用[P2P技术的](https://zh.wikipedia.org/wiki/P2P "wikilink")[网络电视和广播平台](../Page/网络电视.md "wikilink")\[1\]，可在不同的操作系统上运行。Livestation最初由Skinkers公司开发，目前由Livestation公司管理。该软件可以免费下载，部分高清频道需要付费收看。
 
 Livestation服务目前在中国大陆地区被[防火长城封锁](../Page/防火长城.md "wikilink")。
 

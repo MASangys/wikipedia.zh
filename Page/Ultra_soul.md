@@ -3,9 +3,10 @@ soul**》是[日本樂團](../Page/日本.md "wikilink")[B'z的第](../Page/B'z.
 
 ## 簡介
 
-  - 由本張單曲開始收錄[3rd beat](../Page/3rd_beat.md "wikilink")（第3首歌曲）
+  - 由本張單曲開始收錄[3rd
+    beat](https://zh.wikipedia.org/wiki/3rd_beat "wikilink")（第3首歌曲）
   - 自單曲《[love me, I love
-    you](../Page/love_me,_I_love_you.md "wikilink")》以來，相隔六年第一次獲得[Oricon連續兩週第一](../Page/Oricon.md "wikilink")
+    you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")》以來，相隔六年第一次獲得[Oricon連續兩週第一](../Page/Oricon.md "wikilink")
   - 本張單曲是[B'z自踏入](../Page/B'z.md "wikilink")21世紀以來銷售量最高的一張
   - 最終銷量約87.6萬張。
 
@@ -23,7 +24,7 @@ soul**》是[日本樂團](../Page/日本.md "wikilink")[B'z的第](../Page/B'z.
 
 ## 主題曲
 
-  - 「[2001年世界游泳錦標賽](../Page/2001年世界游泳錦標賽.md "wikilink")」大会官方主題曲。（\#1,2）
+  - 「[2001年世界游泳錦標賽](https://zh.wikipedia.org/wiki/2001年世界游泳錦標賽 "wikilink")」大会官方主題曲。（\#1,2）
   - [富士電視台](../Page/富士電視台.md "wikilink")《》片尾曲。（\#3）
 
 ## 收錄專輯
@@ -31,7 +32,7 @@ soul**》是[日本樂團](../Page/日本.md "wikilink")[B'z的第](../Page/B'z.
   - [GREEN](../Page/GREEN_\(B'z專輯\).md "wikilink")（\#1、Alternative
     Guitar Solo ver.）
   - [B'z The Best "Pleasure
-    II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")（\#1）
+    II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")（\#1）
   - B'z The Best "ULTRA Pleasure"（\#1）
   - B'z（\#1）
   - B'z The Best "ULTRA Treasure"（\#3）

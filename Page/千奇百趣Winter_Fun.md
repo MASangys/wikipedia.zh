@@ -1,9 +1,9 @@
 《**千奇百趣Winter
-Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向日本](../Page/電視廣播有限公司.md "wikilink")[朝日電視台購買版權而製作的一個](../Page/朝日電視台.md "wikilink")[資訊](../Page/資訊.md "wikilink")[遊戲](../Page/遊戲.md "wikilink")[電視節目](../Page/電視節目.md "wikilink")，以[高清技術拍攝](../Page/高清.md "wikilink")。節目主持為[森美](../Page/森美.md "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[廖素屏](../Page/廖素屏.md "wikilink")（趣趣），旁白為[林保全](../Page/林保全.md "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")。
+Fun**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司向日本](../Page/電視廣播有限公司.md "wikilink")[朝日電視台購買版權而製作的一個](../Page/朝日電視台.md "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[阮小儀](../Page/阮小儀.md "wikilink")，助手為[廖素屏](https://zh.wikipedia.org/wiki/廖素屏 "wikilink")（趣趣），旁白為[林保全](../Page/林保全.md "wikilink")、[雷碧娜](../Page/雷碧娜.md "wikilink")。
 
 本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列之第四輯，以冬日為主題，奇趣內容關於日本境內的奇景。節目於2010年12月13日至2011年1月7日，逢星期一至星期五[香港時間](../Page/香港時間.md "wikilink")22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台播放](../Page/高清翡翠台.md "wikilink")。
 
-另外，節目播出後於[myTV提供節目重溫](../Page/myTV.md "wikilink")。
+另外，節目播出後於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 遊戲規則
 
@@ -51,10 +51,10 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>12月14日</p></td>
-<td><p><a href="../Page/江欣燕.md" title="wikilink">江欣燕</a>、<a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a>、<a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a>、<br />
 <a href="../Page/楊思琦.md" title="wikilink">楊思琦</a></p></td>
 <td><p>扭扭手指摸鼻哥</p></td>
-<td><p><a href="../Page/江欣燕.md" title="wikilink">江欣燕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a></p></td>
 <td><p>3個（失敗）</p></td>
 <td><p>龜精(25)</p></td>
 </tr>
@@ -81,7 +81,7 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="even">
 <td><p>05</p></td>
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="../Page/梁漢文.md" title="wikilink">梁漢文</a>、<br />
+<td><p><a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<br />
 <a href="../Page/吳雨霏.md" title="wikilink">吳雨霏</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<br />
 <a href="../Page/姚家豪.md" title="wikilink">姚家豪</a></p></td>
 <td><p>夾紙神功</p></td>
@@ -104,7 +104,7 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <td><p>12月21日</p></td>
 <td><p><a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="../Page/賈曉晨.md" title="wikilink">賈曉晨</a>、<br />
 <a href="../Page/王志安.md" title="wikilink">王志安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a>、<br />
-<a href="../Page/彭懷安.md" title="wikilink">彭懷安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a>@<a href="../Page/EO2.md" title="wikilink">EO2</a></p></td>
 <td><p>斜塔汽水</p></td>
 <td><p><a href="../Page/EO2.md" title="wikilink">Otto</a>、<a href="../Page/EO2.md" title="wikilink">Eddie</a></p></td>
 <td><p>2個（失敗）</p></td>
@@ -113,10 +113,10 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>12月22日</p></td>
-<td><p><a href="../Page/沈卓盈.md" title="wikilink">沈卓盈</a>、<a href="../Page/徐淑敏.md" title="wikilink">徐淑敏</a>、<br />
+<td><p><a href="../Page/沈卓盈.md" title="wikilink">沈卓盈</a>、<a href="https://zh.wikipedia.org/wiki/徐淑敏" title="wikilink">徐淑敏</a>、<br />
 <a href="../Page/周家蔚.md" title="wikilink">周家蔚</a></p></td>
 <td><p>單手玩星星[2]</p></td>
-<td><p><a href="../Page/徐淑敏.md" title="wikilink">徐淑敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐淑敏" title="wikilink">徐淑敏</a></p></td>
 <td><p>2個（失敗）</p></td>
 <td><p>木乃伊做瘦身(30)</p></td>
 </tr>
@@ -124,7 +124,7 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <td><p>09</p></td>
 <td><p>12月23日</p></td>
 <td><p><a href="../Page/朱凱婷.md" title="wikilink">朱凱婷</a>、<a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a>、<br />
-<a href="../Page/姚子羚.md" title="wikilink">姚子羚</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a></p></td>
 <td><p>瞬間轉移 (轉筆)</p></td>
 <td><p><a href="../Page/朱凱婷.md" title="wikilink">朱凱婷</a></p></td>
 <td><p>6個（失敗）</p></td>
@@ -133,7 +133,7 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>12月24日</p></td>
-<td><p><a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>、<a href="../Page/胡定欣.md" title="wikilink">胡定欣</a>、<br />
+<td><p><a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a>、<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<br />
 <a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a></p></td>
 <td><p>紙牌神偷[3]</p></td>
 <td><p><a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a></p></td>
@@ -143,7 +143,7 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="even">
 <td><p>11</p></td>
 <td><p>12月27日</p></td>
-<td><p><a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a>、<a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a>、<a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a>、<br />
 <a href="../Page/葉翠翠.md" title="wikilink">葉翠翠</a></p></td>
 <td><p>隔空神掌[5]</p></td>
 <td><p><a href="../Page/陳自瑤.md" title="wikilink">陳自瑤</a></p></td>
@@ -164,18 +164,18 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="even">
 <td><p>13</p></td>
 <td><p>12月29日</p></td>
-<td><p><a href="../Page/黃長興.md" title="wikilink">黃長興</a>、<a href="../Page/商天娥.md" title="wikilink">商天娥</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a>、<a href="../Page/商天娥.md" title="wikilink">商天娥</a>、<br />
 <a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a></p></td>
 <td><p>Six-Nine-Nine<br />
 (同步寫69)</p></td>
-<td><p><a href="../Page/黃長興.md" title="wikilink">黃長興</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p>11個（失敗）</p></td>
 <td><p>肥師奶做Model(23)</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>12月30日</p></td>
-<td><p><a href="../Page/狄易達.md" title="wikilink">狄易達</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/狄易達" title="wikilink">狄易達</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a>、<br />
 <a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a>、<a href="../Page/葉文輝.md" title="wikilink">葉文輝</a>、<br />
 <a href="../Page/雷安娜.md" title="wikilink">雷安娜</a>、<a href="../Page/區文詩.md" title="wikilink">區文詩</a></p></td>
 <td><p>迷人火柴盒</p></td>
@@ -187,8 +187,8 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <td><p>15</p></td>
 <td><p>1月3日</p></td>
 <td><p><a href="../Page/吳日言.md" title="wikilink">吳日言</a>、<a href="../Page/梁俊軒.md" title="wikilink">梁俊軒</a>、<br />
-<a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<a href="../Page/吳彤.md" title="wikilink">吳彤</a>、<br />
-<a href="../Page/梁奕倫.md" title="wikilink">梁奕倫</a>、<a href="../Page/余翠芝.md" title="wikilink">余翠芝</a></p></td>
+<a href="../Page/方伊琪.md" title="wikilink">方伊琪</a>、<a href="https://zh.wikipedia.org/wiki/吳彤" title="wikilink">吳彤</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/梁奕倫" title="wikilink">梁奕倫</a>、<a href="../Page/余翠芝.md" title="wikilink">余翠芝</a></p></td>
 <td><p>吹波之王</p></td>
 <td><p>梁俊軒、梁奕倫</p></td>
 <td><p>12／1個（失敗）</p></td>
@@ -217,10 +217,10 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>1月6日</p></td>
-<td><p><a href="../Page/八兩金.md" title="wikilink">八兩金</a>、<a href="../Page/陳靜_(香港).md" title="wikilink">陳靜</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/八兩金" title="wikilink">八兩金</a>、<a href="https://zh.wikipedia.org/wiki/陳靜_(香港)" title="wikilink">陳靜</a>、<br />
 <a href="../Page/喬寶寶.md" title="wikilink">喬寶寶</a></p></td>
 <td><p>拮穿波波</p></td>
-<td><p><a href="../Page/陳靜_(香港).md" title="wikilink">陳靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳靜_(香港)" title="wikilink">陳靜</a></p></td>
 <td><p>2個（失敗）</p></td>
 <td><p>大象奇石(24)</p></td>
 </tr>
@@ -240,13 +240,13 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
 
 以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
 
-| 週次 | 集數    | 日期                 | 平均收視                             |
-| -- | ----- | ------------------ | -------------------------------- |
-| 1  | 01-05 | 2010年12月13日-12月17日 | 22[點](../Page/收視點.md "wikilink") |
-| 2  | 06-10 | 2010年12月20日-12月24日 | 22[點](../Page/收視點.md "wikilink") |
-| 3  | 11-14 | 2010年12月27日-12月30日 | 23[點](../Page/收視點.md "wikilink") |
-| 4  | 15-19 | 2011年1月3日-1月7日     | 22[點](../Page/收視點.md "wikilink") |
-|    |       |                    |                                  |
+| 週次 | 集數    | 日期                 | 平均收視                                                |
+| -- | ----- | ------------------ | --------------------------------------------------- |
+| 1  | 01-05 | 2010年12月13日-12月17日 | 22[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2  | 06-10 | 2010年12月20日-12月24日 | 22[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3  | 11-14 | 2010年12月27日-12月30日 | 23[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4  | 15-19 | 2011年1月3日-1月7日     | 22[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+|    |       |                    |                                                     |
 
 ## 參見
 
@@ -257,9 +257,11 @@ Fun**》（[英文](../Page/英文.md "wikilink")：），是[香港](../Page/�
   - 《[千奇百趣省港澳](../Page/千奇百趣省港澳.md "wikilink")》
   - 《[千奇百趣高B班](../Page/千奇百趣高B班.md "wikilink")》
   - 《[千奇百趣東南亞](../Page/千奇百趣東南亞.md "wikilink")》
-  - 《[千奇百趣玩FREE D](../Page/千奇百趣玩FREE_D.md "wikilink")》
-  - 《[千奇百趣玩HIGH D](../Page/千奇百趣玩HIGH_D.md "wikilink")》
-  - 《[千奇百趣特工隊](../Page/千奇百趣特工隊.md "wikilink")》
+  - 《[千奇百趣玩FREE
+    D](https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D "wikilink")》
+  - 《[千奇百趣玩HIGH
+    D](https://zh.wikipedia.org/wiki/千奇百趣玩HIGH_D "wikilink")》
+  - 《[千奇百趣特工隊](https://zh.wikipedia.org/wiki/千奇百趣特工隊 "wikilink")》
 
 ## 記事
 

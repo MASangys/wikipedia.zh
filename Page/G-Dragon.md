@@ -1,6 +1,6 @@
-**權志龍**（，，，），韓國歌手、[饒舌者及詞曲作者](../Page/饒舌.md "wikilink")。他以藝名**G-DRAGON**（，）為人熟知，為[YG娛樂旗下男子團體](../Page/YG娛樂.md "wikilink")[BIGBANG之隊長](../Page/BIGBANG.md "wikilink")。2006年，18歲時以新人[Hip-hop偶像组合](../Page/Hip-hop.md "wikilink")[BIGBANG的隊長正式出道](../Page/BIGBANG.md "wikilink")，並於團體中擔任主[Rapper和副唱](../Page/饒舌.md "wikilink")。
+**權志龍**（，，，），韓國歌手、[饒舌者及詞曲作者](../Page/饒舌.md "wikilink")。他以藝名**G-DRAGON**（，）為人熟知，為[YG娛樂旗下男子團體](../Page/YG娛樂.md "wikilink")[BIGBANG之隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。2006年，18歲時以新人[Hip-hop偶像组合](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[BIGBANG的隊長正式出道](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，並於團體中擔任主[Rapper和副唱](../Page/饒舌.md "wikilink")。
 
-現今的他為[韓國](../Page/韓國.md "wikilink")[YG娛樂主要製作人之一](../Page/YG娛樂.md "wikilink")。2012年時韓國某家媒體曾計算過如果G-Dragon一年不工作，他仍會有幾千萬的版稅收入，現今仍是韓國演藝圈每年最多歌曲版稅收入的第一位。韓國音樂著作權家協會登記編號為W0726200。
+現今的他為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂主要製作人之一](../Page/YG娛樂.md "wikilink")。2012年時韓國某家媒體曾計算過如果G-Dragon一年不工作，他仍會有幾千萬的版稅收入，現今仍是韓國演藝圈每年最多歌曲版稅收入的第一位。韓國音樂著作權家協會登記編號為W0726200。
 
 2017年，收到服兵役的「兵單」，2018年2月入伍。並將預計於2019年10月26日退伍。
 
@@ -8,15 +8,15 @@
 
 ### 早年生活
 
-1988年8月18日，權志龍出生於[韓國](../Page/韓國.md "wikilink")[首爾特別市](../Page/首爾特別市.md "wikilink")[龍山區](../Page/龍山區.md "wikilink")[梨泰院](../Page/梨泰院.md "wikilink")，上有一名姐姐，為家裡的小兒子。5歲時參演兒童綜藝節目《BOBOBO》還演出電影《太行山下》，6歲時年以小孩組合ROORA出道，並且登上了蠶室演唱會的舞台。8歲時在滑雪場的舞蹈比賽中取得冠軍，並被當時的主持人[李秀滿發掘並在](../Page/李秀滿.md "wikilink")[SM娛樂開始練習生生涯](../Page/SM娛樂.md "wikilink")，12歲時因熱愛Hip-hop而轉投現在的經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")。從中三開始接受創作型歌手訓練，作業是每週寫一首歌。\[1\]
+1988年8月18日，權志龍出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[龍山區](https://zh.wikipedia.org/wiki/龍山區 "wikilink")[梨泰院](../Page/梨泰院.md "wikilink")，上有一名姐姐，為家裡的小兒子。5歲時參演兒童綜藝節目《BOBOBO》還演出電影《太行山下》，6歲時年以小孩組合ROORA出道，並且登上了蠶室演唱會的舞台。8歲時在滑雪場的舞蹈比賽中取得冠軍，並被當時的主持人[李秀滿發掘並在](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")[SM娛樂開始練習生生涯](../Page/SM娛樂.md "wikilink")，12歲時因熱愛Hip-hop而轉投現在的經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")。從中三開始接受創作型歌手訓練，作業是每週寫一首歌。\[1\]
 練習時間合共為11年(SM娛樂+YG娛樂)。\[2\]在練習生時代多次作為YG
 Family的成員登台表演，初次登台於2001年大韓民國HipHop
 Flex。練習生時曾為同公司前輩Se7en的伴舞。
 
 ### 教育程度
 
-權志龍就讀[韓國貴族學校](../Page/韓國.md "wikilink")[首爾崇義小學](../Page/首爾崇義小學.md "wikilink")\[3\]、[首爾國樂藝術中學](../Page/首爾國樂藝術中學.md "wikilink")\[4\]和[議政府通訊情報高中](../Page/議政府通訊情報高中.md "wikilink")(演技專業)。\[5\]
-2009年2月21日，權志龍和成員[大聲參加兩天一夜的慶熙大學入學式正式成為慶熙大學藝術設計學院後現代音樂學系學生](../Page/大聲.md "wikilink")。
+權志龍就讀[韓國貴族學校](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾崇義小學](https://zh.wikipedia.org/wiki/首爾崇義小學 "wikilink")\[3\]、[首爾國樂藝術中學](https://zh.wikipedia.org/wiki/首爾國樂藝術中學 "wikilink")\[4\]和[議政府通訊情報高中](https://zh.wikipedia.org/wiki/議政府通訊情報高中 "wikilink")(演技專業)。\[5\]
+2009年2月21日，權志龍和成員[大聲參加兩天一夜的慶熙大學入學式正式成為慶熙大學藝術設計學院後現代音樂學系學生](https://zh.wikipedia.org/wiki/大聲 "wikilink")。
 2018年2月6日據韓國媒體Dispatch報道：權志龍目前已從韓國世宗大學流通學碩士畢業。
 
 ### 出道
@@ -74,7 +74,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/One_of_a_Kind.md" title="wikilink">ONE OF A KIND</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/One_of_a_Kind" title="wikilink">ONE OF A KIND</a></strong>》</p>
 <ul>
 <li>發行日期：2012年9月15日</li>
 <li>語言：韓語</li>
@@ -84,7 +84,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/權志龍_(專輯).md" title="wikilink">權志龍</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/權志龍_(專輯)" title="wikilink">權志龍</a></strong>》</p>
 <ul>
 <li>發行日期：2017年6月8日</li>
 <li>語言：韓語</li>
@@ -132,7 +132,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <ul>
 <li>發行日期：2010年12月24日</li>
 <li>語言：韓語</li>
-<li>合作歌手：<a href="../Page/T.O.P.md" title="wikilink">T.O.P</a></li>
+<li>合作歌手：<a href="https://zh.wikipedia.org/wiki/T.O.P" title="wikilink">T.O.P</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -155,7 +155,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <ul>
 <li>發行日期：2014年11月21日</li>
 <li>語言：韓語</li>
-<li>合作歌手：<a href="../Page/太阳_(歌手).md" title="wikilink">太阳</a></li>
+<li>合作歌手：<a href="https://zh.wikipedia.org/wiki/太阳_(歌手)" title="wikilink">太阳</a></li>
 </ul></td>
 <td><ol>
 <li>GOOD BOY</li>
@@ -174,7 +174,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <td><ol>
 <li>쩔어 (Zutter)</li>
 </ol></td>
-<td><p>收錄於<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a> MADE SERIES 單曲《E》</p></td>
+<td><p>收錄於<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a> MADE SERIES 單曲《E》</p></td>
 </tr>
 </tbody>
 </table>
@@ -191,18 +191,18 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <tr class="even">
 <td><p>2006年8月29日</p></td>
 <td><p>This Love</p></td>
-<td><p>收錄於<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a> 首張單曲《BIGBANG》</p></td>
+<td><p>收錄於<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a> 首張單曲《BIGBANG》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年11月22日</p></td>
 <td><p>But I love U</p></td>
-<td><p>收錄於<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a> 第2張迷你專輯《Hot Issue》</p></td>
+<td><p>收錄於<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a> 第2張迷你專輯《Hot Issue》</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年12月30日</p></td>
 <td><p>나만바라봐 Part 2<br />
 (Look Only At Me Part 2)</p></td>
-<td><p>收錄於<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG</a> Limited《BIGBANG Limited Edition》</p></td>
+<td><p>收錄於<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a> Limited《BIGBANG Limited Edition》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年11月9日</p></td>
@@ -224,7 +224,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <td><p>2012年12月5日</p></td>
 <td><p>あんなヤツ / That xx<br />
 (JPN Ver.)</p></td>
-<td><p>收錄於<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG日本巡演紀念特別專輯</a>《SPECIAL FINAL IN DOME MEMORIAL COLLECTION》</p></td>
+<td><p>收錄於<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG日本巡演紀念特別專輯</a>《SPECIAL FINAL IN DOME MEMORIAL COLLECTION》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年4月1日</p></td>
@@ -321,7 +321,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 ### 合作歌曲
 
   - [李孝利](../Page/李孝利.md "wikilink")〈Anystar〉(Rap)(Remixed Park Bom)
-  - [嚴正花](../Page/嚴正花.md "wikilink")〈Party〉(Rap)
+  - [嚴正花](https://zh.wikipedia.org/wiki/嚴正花 "wikilink")〈Party〉(Rap)
   - 輝星〈Magic Eye〉
   - [SE7EN](../Page/崔東昱.md "wikilink")〈Intro〉(Rap)
   - [SE7EN](../Page/崔東昱.md "wikilink")〈Run〉(Rap)
@@ -329,36 +329,38 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
   - Gummy〈Work It Now〉
   - Kim Jo Han〈So In Love Part 2〉(Rap)
   - Lexy〈Super Fly〉
-  - [w-inds.](../Page/w-inds..md "wikilink")〈Rain Is Fallin〉(Rap)
+  - [w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")〈Rain Is
+    Fallin〉(Rap)
   - [太陽](../Page/太陽_\(歌手\).md "wikilink")〈My Girl〉
   - [太陽](../Page/太陽_\(歌手\).md "wikilink")〈l need a girl〉(Rap)
   - [勝利](../Page/勝利_\(歌手\).md "wikilink") 〈Strong baby〉(Rap)
   - [勝利](../Page/勝利_\(歌手\).md "wikilink") 〈Open the window〉
   - [朴明洙](../Page/朴明洙.md "wikilink")〈花天酒地〉(ft.
     [朴春](../Page/朴春.md "wikilink"))
-  - [Pixie Lott](../Page/Pixie_Lott.md "wikilink")〈Dancing on My
-    Own〉(ft. [GD\&TOP](../Page/GD&TOP.md "wikilink"))
+  - [Pixie
+    Lott](https://zh.wikipedia.org/wiki/Pixie_Lott "wikilink")〈Dancing
+    on My Own〉(ft. [GD\&TOP](../Page/GD&TOP.md "wikilink"))
   - [PSY](../Page/PSY.md "wikilink")〈Tree Frog〉(Rap)
   - [勝利](../Page/勝利_\(歌手\).md "wikilink")〈Let's Talk About
     Love〉(With.[太陽](../Page/太陽_\(歌手\).md "wikilink"))
   - [鄭亨敦](../Page/鄭亨敦.md "wikilink")〈試試看吧〉
   - [Major Lazer](http://en.wikipedia.org/wiki/Major_Lazer)〈Bubble
     Butt〉(ft.[Bruno
-    Mars](../Page/Bruno_Mars.md "wikilink")、[GD\&TOP](../Page/GD&TOP.md "wikilink"))
-  - [Skrillex](../Page/Skrillex.md "wikilink")〈Dirty Vibe〉(ft.
-    [CL](../Page/李彩麟.md "wikilink"))
+    Mars](https://zh.wikipedia.org/wiki/Bruno_Mars "wikilink")、[GD\&TOP](../Page/GD&TOP.md "wikilink"))
+  - [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink")〈Dirty
+    Vibe〉(ft. [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink"))
   - [太陽](../Page/太陽_\(歌手\).md "wikilink")〈Stay with me〉(Rap)
-  - 황태지黃太志(With.[光熙](../Page/ZE:A.md "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink"))
+  - 황태지黃太志(With.[光熙](https://zh.wikipedia.org/wiki/ZE:A "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink"))
     〈맙소사 我的天〉
-  - [Baauer](../Page/Baauer.md "wikilink") - Temple
+  - [Baauer](https://zh.wikipedia.org/wiki/Baauer "wikilink") - Temple
     (Rap)(與[M.I.A.](../Page/M.I.A..md "wikilink"))
   - Okasian - 百萬元
-    (Rap)(與[CL](../Page/李彩麟.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink"))
+    (Rap)(與[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[BewhY](https://zh.wikipedia.org/wiki/BewhY "wikilink"))
   - [Zion.T](../Page/Zion.T.md "wikilink") - Complex (Rap)
   - [IU](../Page/IU_\(艺人\).md "wikilink") - Palette (Rap)
   - [PSY](../Page/PSY.md "wikilink") - 팩트폭행 (Rap)
 
-### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
+### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
 
 | 姓名  | 登記名字     | 登記編號     | 參與歌曲列表 |
 | --- | -------- | -------- | ------ |
@@ -367,11 +369,11 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 ## 個人演唱會
 
   - 2009年：[Shine a
-    Light](../Page/Shine_a_Light_\(G-Dragon演唱會\).md "wikilink")
-  - 2013年：[獨一無二世界巡迴演唱會](../Page/獨一無二世界巡迴演唱會.md "wikilink")（G-Dragon 2013
-    World Tour：One of a Kind）
-  - 2017年：[母胎世界巡迴演唱會](../Page/母胎世界巡迴演唱會.md "wikilink")（G-Dragon 2017
-    World Tour：Act III, M.O.T.T.E）
+    Light](https://zh.wikipedia.org/wiki/Shine_a_Light_\(G-Dragon演唱會\) "wikilink")
+  - 2013年：[獨一無二世界巡迴演唱會](https://zh.wikipedia.org/wiki/獨一無二世界巡迴演唱會 "wikilink")（G-Dragon
+    2013 World Tour：One of a Kind）
+  - 2017年：[母胎世界巡迴演唱會](https://zh.wikipedia.org/wiki/母胎世界巡迴演唱會 "wikilink")（G-Dragon
+    2017 World Tour：Act III, M.O.T.T.E）
 
 ## 作品
 
@@ -407,18 +409,20 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
     Ver.）
   - 2012年9月18日 ONE OF A KIND 、크레용（CRAYON） 、그 XX（THAT XX）
   - 2013年4月20日 미치GO
-  - 2013年5月27日 [CL](../Page/李彩麟.md "wikilink") - 나쁜 기집애（THE BADDEST
-    FEMALE）（客串）
+  - 2013年5月27日 [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink") - 나쁜
+    기집애（THE BADDEST FEMALE）（客串）
   - 2013年9月1日 COUP D'ETAT
   - 2013年9月4日 삐딱하게 （CROOKED）
   - 2013年11月9日 [太陽](../Page/太陽_\(歌手\).md "wikilink") - RINGA LINGA （客串）
   - 2013年11月13日 니가 뭔데 （WHO YOU?）
   - 2014年6月8日 PSY - HANGOVER （客串）
-  - 2014年10月8日 [大声](../Page/大声.md "wikilink") - 看我，贵顺（Japanese
-    Version）（客串）
-  - 2014年11月21日 与[太阳](../Page/BIGBANG.md "wikilink") - GOOD BOY
-  - 2014年12月16日 [Skrillex](../Page/Skrillex.md "wikilink") - Dirty
-    Vibe（ft. CL）
+  - 2014年10月8日 [大声](https://zh.wikipedia.org/wiki/大声 "wikilink") -
+    看我，贵顺（Japanese Version）（客串）
+  - 2014年11月21日 与[太阳](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
+    - GOOD BOY
+  - 2014年12月16日
+    [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink") -
+    Dirty Vibe（ft. CL）
   - 2015年3月8日 Grimes - REALiTi（客串）
   - 2015年8月5日 與[T.O.P.](../Page/T.O.P..md "wikilink") -쩔어 (Zutter)
   - 2017年6月8日 무제（無題）（untitled,2014）
@@ -426,7 +430,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 
 ### 綜藝節目
 
-※僅列出個人活動部分，團體共同參與的演出請參照[BIGBANG相關欄目](../Page/BIGBANG.md "wikilink")。
+※僅列出個人活動部分，團體共同參與的演出請參照[BIGBANG相關欄目](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。
 ※部分可直接按下觀看
 
   - 2007年1月12日 MBC 《》
@@ -448,7 +452,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
   - 2009年10月6日 SBS
     \*[《強心臟》](http://v.youku.com/v_show/id_XMTQ2NTQ5ODI4.html)（與[勝利](../Page/勝利_\(歌手\).md "wikilink")）
   - 2010年7月16日
-    《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》（與[太陽](../Page/太陽_\(歌手\).md "wikilink")）
+    《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（與[太陽](../Page/太陽_\(歌手\).md "wikilink")）
   - 2011年1月8日
     \*[《游擊隊約會》](http://v.youku.com/v_show/id_XMjM2MTIyMTA4.html)（與[T.O.P.](../Page/T.O.P..md "wikilink")）
   - 2011年1月10日 SBS
@@ -480,13 +484,13 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
   - 2013年9月15日 \*[《[Running Man](../Page/Running_Man.md "wikilink")》
     (與[大聲](../Page/姜大聲.md "wikilink")、[勝利](../Page/勝利_\(歌手\).md "wikilink"))](https://web.archive.org/web/20150831072141/http://sp.lovetvshow.org/2013/09/running-man-20130915-ep163-g-dragon.html)
   - 2013年9月20日-11月2日 《WIN : WHO IS
-    NEXT》（與[太陽](../Page/太陽_\(歌手\).md "wikilink")[BIGBANG](../Page/BIGBANG.md "wikilink")）
+    NEXT》（與[太陽](../Page/太陽_\(歌手\).md "wikilink")[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）
   - 2013年10月26日 KBS
     \*[《演藝家中介》](http://www.tudou.com/programs/view/VG5cWHblp5E)
   - 2013年12月4日-12月11日
     \*[《一周的偶像-GD篇》](https://www.youtube.com/watch?v=W9IaX_rTf4Y)
   - 2015年1月23日 [浙江卫视](../Page/浙江卫视.md "wikilink")
-    《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》2015魅力盛典(特別出演)
+    《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》2015魅力盛典(特別出演)
   - 2014年1月25日 KBS
     \*[《演藝家中介》](http://www.tudou.com/programs/view/Z6jzicni8_g)
   - 2014年7月19日 KBS
@@ -499,13 +503,14 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
     嶺東高速公路歌謠祭》（與[太陽](../Page/太陽_\(歌手\).md "wikilink")）
   - 2015年8月31日-9月7日 [JTBC](../Page/JTBC.md "wikilink")
     \*[《拜託了冰箱》](https://web.archive.org/web/20151124170517/http://www.dailymotion.com/video/k3qXoxI9WYy60gcFtLG)（與[太陽](../Page/太陽_\(歌手\).md "wikilink")）
-  - 2015年9月27日-10月4日 [KBS2](../Page/KBS2.md "wikilink")
-    《[超人回來了](../Page/超人回來了.md "wikilink")》
+  - 2015年9月27日-10月4日
+    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
+    《[超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")》
   - 2015年10月10日 KBS
     \*[《演藝家中介》](http://www.dailymotion.com/video/x396ykn_151010-%EC%A7%80%EB%93%9C%EB%9E%98%EA%B3%A4%EA%B3%BC%EC%9D%98-%ED%8A%B9%EB%B3%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%8A%B8_music)
   - 2016年3月12日 OnStyle 《DevilsRunway》
   - 2016年8月27日-9月10日 MBC《[2016無限商社
-    危機的社員](../Page/2016無限商社_危機的社員.md "wikilink")》
+    危機的社員](https://zh.wikipedia.org/wiki/2016無限商社_危機的社員 "wikilink")》
   - 2016年12月17日MBC《無限挑戰》（BIGBANG全體，TOP入伍前完整體）
 
 ## 獎項
@@ -598,8 +603,8 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <tr class="odd">
 <td><p>2009年</p></td>
 <td><p>8月28日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>Heartbreaker</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -613,72 +618,72 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="odd">
 <td><p>9月6日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月11日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月10日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月13日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月20日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月24日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月25日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -686,8 +691,8 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>9月27日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Crayon</p></td>
 <td></td>
 </tr>
@@ -717,56 +722,56 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="even">
 <td><p>9月15日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>COUP D'ETAT</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月19日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Black</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月20日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>Who You</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月22日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>CROOKED</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月26日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月27日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -774,7 +779,7 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>11月30日</p></td>
-<td><p>GOOD BOY(With <a href="../Page/太阳_(歌手).md" title="wikilink">太陽</a>)</p></td>
+<td><p>GOOD BOY(With <a href="https://zh.wikipedia.org/wiki/太阳_(歌手)" title="wikilink">太陽</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -789,8 +794,8 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="odd">
 <td><p>8月20日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>ZUTTER(With <a href="../Page/T.O.P..md" title="wikilink">T.O.P.</a>)</p></td>
 <td></td>
 <td></td>
@@ -798,15 +803,15 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>6月17日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>無題</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月18日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -821,24 +826,24 @@ X TAEYANG」亮相並發行單曲《Good Boy》。
 </tr>
 <tr class="odd">
 <td><p>6月24日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月25日</p></td>
-<td><p><a href="../Page/SBS.md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月30日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>

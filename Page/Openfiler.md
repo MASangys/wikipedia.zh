@@ -26,10 +26,10 @@ Openfiler至少需要500MHz的CPU，256MB内存，1.2GB硬盘空间，一个光�
 
 ## 特点
 
-Openfiler支持的网络协议包括：[NFS](../Page/网络文件系统.md "wikilink")，[SMB/CIFS](https://zh.wikipedia.org/wiki/服务器消息区块 "wikilink")，[HTTP](../Page/超文本传输协议.md "wikilink")/[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")，[FTP和](../Page/文件传输协议.md "wikilink")[iSCSI](../Page/iSCSI.md "wikilink")（initiator和target）。Openfiler支持的网络目录包括：[NIS](../Page/網路資訊服務.md "wikilink")，[LDAP](../Page/轻型目录访问协议.md "wikilink")（支持SMB/CIFS密码加密），[Active
+Openfiler支持的网络协议包括：[NFS](../Page/网络文件系统.md "wikilink")，[SMB/CIFS](https://zh.wikipedia.org/wiki/服务器消息区块 "wikilink")，[HTTP](../Page/超文本传输协议.md "wikilink")/[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")，[FTP和](../Page/文件传输协议.md "wikilink")[iSCSI](https://zh.wikipedia.org/wiki/iSCSI "wikilink")（initiator和target）。Openfiler支持的网络目录包括：[NIS](../Page/網路資訊服務.md "wikilink")，[LDAP](../Page/轻型目录访问协议.md "wikilink")（支持SMB/CIFS密码加密），[Active
 Directory](../Page/Active_Directory.md "wikilink")（本地和混合模式），基于[Windows
 NT的](../Page/Windows_NT.md "wikilink")[域控制器和](https://zh.wikipedia.org/wiki/网域控制器 "wikilink")[Hesiod](https://zh.wikipedia.org/wiki/Hesiod_\(name_service\) "wikilink")。认证协议包括[Kerberos
-5](../Page/Kerberos.md "wikilink")。Openfiler支持基于卷的分区技术：如本地文件系统的[ext3](../Page/ext3.md "wikilink")、[JFS和](https://zh.wikipedia.org/wiki/JFS_\(file_system\) "wikilink")[XFS格式](../Page/XFS.md "wikilink")；实时快照；磁盘配额管理；统一标准的接口使得为各种网络文件系统协议分配共享资源变得更容易。
+5](../Page/Kerberos.md "wikilink")。Openfiler支持基于卷的分区技术：如本地文件系统的[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")、[JFS和](https://zh.wikipedia.org/wiki/JFS_\(file_system\) "wikilink")[XFS格式](../Page/XFS.md "wikilink")；实时快照；磁盘配额管理；统一标准的接口使得为各种网络文件系统协议分配共享资源变得更容易。
 
 以下是Openfiler目前可用的一些功能（除非另有说明）：
 

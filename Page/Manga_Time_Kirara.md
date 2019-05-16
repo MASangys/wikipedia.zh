@@ -8,7 +8,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 总期号**Vol. 1-16**。
 
   - 2002年5月17日 - 作为『[Manga
-    Home](../Page/Manga_Home.md "wikilink")』2002年7月号增刊发售并創刊（**Vol.
+    Home](https://zh.wikipedia.org/wiki/Manga_Home "wikilink")』2002年7月号增刊发售并創刊（**Vol.
     1**）。
   - 2002年8月9日 - 作為『』2002年9月号增刊發售（**Vol. 2**）。此后每月发行一期。
   - 2003年10月9日 - 作為『Manga Time Original』2003年11月号增刊（**Vol. 16**）發售。
@@ -34,14 +34,14 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
   - 2012年2月9日 - **2012年3月号**发售。总期号为**No. 100**。随刊附赠纪念册《Manga Time
     Kirara一〇〇》 \[8\]\[9\]。
   - 2012年6月8日 -
-    **2012年7月号**发售。随刊附赠“[一起一起这里那里](../Page/一起一起这里那里.md "wikilink")
+    **2012年7月号**发售。随刊附赠“[一起一起这里那里](https://zh.wikipedia.org/wiki/一起一起这里那里 "wikilink")
     摘希橡胶挂件” \[10\]。
   - 2013年4月9日 -
-    **2013年5月号**发售。三期连续附赠之一“[YUYU式](../Page/YUYU式.md "wikilink")
+    **2013年5月号**发售。三期连续附赠之一“[YUYU式](https://zh.wikipedia.org/wiki/YUYU式 "wikilink")
     透明年历书签”\[11\]。
   - 2013年5月9日 - **2013年6月号**发售。三期连续附赠之二“YUYU式 第5卷替换封面”\[12\]。
   - 2013年6月7日 - **2013年7月号**发售。三期连续附赠之三“YUYU式
-    四格漫画风格原创[便利贴](../Page/便利贴.md "wikilink")”\[13\]。
+    四格漫画风格原创[便利贴](https://zh.wikipedia.org/wiki/便利贴 "wikilink")”\[13\]。
   - 2013年11月9日 - **2013年12月号**发售。随刊附赠纪念独立创刊十周年的“连载作品女主角全体集合特别海报”\[14\]。
   - 2016年4月9日 - **2016年5月号**发售。总期号为**No. 150**。三期连续附赠之一“三者三叶
     第12卷替换封面”\[15\]。
@@ -53,8 +53,8 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 ### 姐妹杂志
 
   - 《[Manga Time Kirara
-    MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》 - Vol. 1由《Manga
-    Time Kirara》作为增刊发行，之后独立创刊。
+    MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")》
+    - Vol. 1由《Manga Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》 - Vol. 4-Vol.
     15由《Manga Time Kirara》作为增刊发行，之后独立创刊。
@@ -62,13 +62,13 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
     Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》 - Vol.
     1-Vol.10由《Manga Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
-    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》 - Vol.
-    1-Vol. 5由《Manga Time Kirara》作为增刊发行，之后独立创刊。
+    Miracle\!](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_Miracle! "wikilink")》
+    - Vol. 1-Vol. 5由《Manga Time Kirara》作为增刊发行，之后独立创刊。
 
 ### 网络连载
 
   - 官方网站“Manga Time Kirara Web”的“Web连载”栏目\[19\]。
-  - 官方频道“Kirara基地”，2016年4月9日开设于[Niconico靜畫](../Page/Niconico靜畫.md "wikilink")\[20\]。
+  - 官方频道“Kirara基地”，2016年4月9日开设于[Niconico靜畫](https://zh.wikipedia.org/wiki/Niconico靜畫 "wikilink")\[20\]。
 
 ### 改编为广播剧CD的作品
 
@@ -96,19 +96,21 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 
   - \- 發售日：2010年2月27日
 
-  - [YUYU式](../Page/YUYU式.md "wikilink") - 發售日：2014年3月27日
+  - [YUYU式](https://zh.wikipedia.org/wiki/YUYU式 "wikilink") -
+    發售日：2014年3月27日
 
 ### 改编为电视动画的作品
 
 截至2018年1月7日。
 
   - [造夢同人誌](../Page/造夢同人誌.md "wikilink") - 2007年7月 - 9月播放
-  - [K-ON\!](../Page/K-ON!.md "wikilink")
+  - [K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")
       - 第1期：2009年4月 - 6月播放
       - 第2期：2010年4月 - 9月播放
       - 劇場版：2011年12月3日公映
   - [一起一起這裡那裡](../Page/一起一起這裡那裡.md "wikilink") - 2012年4月 - 6月播放
-  - [YUYU式](../Page/YUYU式.md "wikilink") - 2013年4月 - 6月播放
+  - [YUYU式](https://zh.wikipedia.org/wiki/YUYU式 "wikilink") - 2013年4月 -
+    6月播放
   - [三者三叶](../Page/三者三葉.md "wikilink") - 2016年4月 - 6月播放
   - [Slow Start](../Page/Slow_Start.md "wikilink") - 2018年1月 - 3月播放
 
@@ -116,7 +118,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 
 截至2013年5月27日。
 
-  - [K-ON\!](../Page/K-ON!.md "wikilink")（[K-ON\!放學後LIVE\!\!](../Page/K-ON!放學後LIVE!!.md "wikilink")）
+  - [K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")（[K-ON\!放學後LIVE\!\!](../Page/K-ON!放學後LIVE!!.md "wikilink")）
     - 發售日：2010年9月30日、機種：[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")(PSP)
 
@@ -149,7 +151,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/悠悠式.md" title="wikilink">悠悠式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/悠悠式" title="wikilink">悠悠式</a></p></td>
 <td></td>
 <td><p><a href="../Page/三上小又.md" title="wikilink">三上小又</a></p></td>
 <td><p>2008年2月号</p></td>
@@ -221,7 +223,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/乌菈菈迷路帖.md" title="wikilink">乌菈菈迷路帖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乌菈菈迷路帖" title="wikilink">乌菈菈迷路帖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -247,7 +249,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="even">
 <td><p><a href="../Page/K-ON！輕音部.md" title="wikilink">K-ON！輕音部 Shuffle</a></p></td>
 <td></td>
-<td><p><a href="../Page/kakifly.md" title="wikilink">kakifly</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
 <td></td>
 <td><p>2018年8月号</p></td>
 <td></td>
@@ -372,73 +374,78 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 
 ## 過去連載的主要作品
 
-  - [ぽけっとジャーニー](../Page/ぽけっとジャーニー.md "wikilink")
-    （[おおた綾乃](../Page/おおた綾乃.md "wikilink")、創刊号 -
-    2005年2月号）
-  - [隠密☆少女](../Page/隠密☆少女.md "wikilink")
-    （[関根亮子](../Page/関根亮子.md "wikilink")、創刊号 -
-    2005年2月号）
-  - [LOVE ME DO](../Page/LOVE_ME_DO_\(漫画\).md "wikilink")
-    （[新条るる](../Page/新条るる.md "wikilink")、創刊号 - 2005年9月号）
-  - [てんちょおのワタナベさん](../Page/てんちょおのワタナベさん.md "wikilink")
-    （[刻田門大](../Page/刻田門大.md "wikilink")、創刊号 - 2005年10月号）
-  - [市立鋳銭司学園高校放送部](../Page/市立鋳銭司学園高校放送部.md "wikilink")
-    （[ふじもとせい](../Page/ふじもとせい.md "wikilink")、創刊号 -
+  - [ぽけっとジャーニー](https://zh.wikipedia.org/wiki/ぽけっとジャーニー "wikilink")
+    （[おおた綾乃](https://zh.wikipedia.org/wiki/おおた綾乃 "wikilink")、創刊号
+    - 2005年2月号）
+  - [隠密☆少女](https://zh.wikipedia.org/wiki/隠密☆少女 "wikilink")
+    （[関根亮子](https://zh.wikipedia.org/wiki/関根亮子 "wikilink")、創刊号
+    - 2005年2月号）
+  - [LOVE ME
+    DO](https://zh.wikipedia.org/wiki/LOVE_ME_DO_\(漫画\) "wikilink")
+    （[新条るる](https://zh.wikipedia.org/wiki/新条るる "wikilink")、創刊号 -
+    2005年9月号）
+  - [てんちょおのワタナベさん](https://zh.wikipedia.org/wiki/てんちょおのワタナベさん "wikilink")
+    （[刻田門大](https://zh.wikipedia.org/wiki/刻田門大 "wikilink")、創刊号 -
+    2005年10月号）
+  - [市立鋳銭司学園高校放送部](https://zh.wikipedia.org/wiki/市立鋳銭司学園高校放送部 "wikilink")
+    （[ふじもとせい](https://zh.wikipedia.org/wiki/ふじもとせい "wikilink")、創刊号 -
     2005年12月号）
-  - [マオマオ](../Page/マオマオ.md "wikilink") （ナフタレン水嶋、創刊号 - 2006年7月号）
-  - [かるき戦線](../Page/かるき戦線.md "wikilink")
-    （[太田虎一郎](../Page/太田虎一郎.md "wikilink")、創刊号 -
-    2006年2月号）
-  - [スーパーメイドちるみさん](../Page/スーパーメイドちるみさん.md "wikilink")
-    （[師走冬子](../Page/師走冬子.md "wikilink")、創刊号 -
-    2007年3月号。以後は『[まんがタイムスペシャル](../Page/まんがタイムスペシャル.md "wikilink")』のみ掲載）
-  - [影ムチャ姫](../Page/影ムチャ姫.md "wikilink")
-    （[ナントカ](../Page/ナントカ.md "wikilink")、創刊号 -
-    2007年4月号）
-  - [てんしの末裔](../Page/てんしの末裔.md "wikilink")
-    （[藤島じゅん](../Page/藤島じゅん.md "wikilink")、2002年10月号
+  - [マオマオ](https://zh.wikipedia.org/wiki/マオマオ "wikilink") （ナフタレン水嶋、創刊号 -
+    2006年7月号）
+  - [かるき戦線](https://zh.wikipedia.org/wiki/かるき戦線 "wikilink")
+    （[太田虎一郎](https://zh.wikipedia.org/wiki/太田虎一郎 "wikilink")、創刊号
+    - 2006年2月号）
+  - [スーパーメイドちるみさん](https://zh.wikipedia.org/wiki/スーパーメイドちるみさん "wikilink")
+    （[師走冬子](https://zh.wikipedia.org/wiki/師走冬子 "wikilink")、創刊号 -
+    2007年3月号。以後は『[まんがタイムスペシャル](https://zh.wikipedia.org/wiki/まんがタイムスペシャル "wikilink")』のみ掲載）
+  - [影ムチャ姫](https://zh.wikipedia.org/wiki/影ムチャ姫 "wikilink")
+    （[ナントカ](https://zh.wikipedia.org/wiki/ナントカ "wikilink")、創刊号
+    - 2007年4月号）
+  - [てんしの末裔](https://zh.wikipedia.org/wiki/てんしの末裔 "wikilink")
+    （[藤島じゅん](https://zh.wikipedia.org/wiki/藤島じゅん "wikilink")、2002年10月号
     - 2006年1月号）
   - [1年777組](../Page/1年777組.md "wikilink")
-    （[愁☆一樹](../Page/愁☆一樹.md "wikilink")、2002年10月号 -
-    2008年6月号）
-  - [ちょこパフェ](../Page/ちょこパフェ.md "wikilink")
-    （[いずみ](../Page/かずといずみ.md "wikilink")、2002年12月号 -
-    2005年4月号。『まんがタイム』と並行連載）
-  - [ハイリスクみらくる](../Page/ハイリスクみらくる.md "wikilink")
-    （[吉谷やしよ](../Page/吉谷やしよ.md "wikilink")、2003年1月号
+    （[愁☆一樹](https://zh.wikipedia.org/wiki/愁☆一樹 "wikilink")、2002年10月号
+    - 2008年6月号）
+  - [ちょこパフェ](https://zh.wikipedia.org/wiki/ちょこパフェ "wikilink")
+    （[いずみ](https://zh.wikipedia.org/wiki/かずといずみ "wikilink")、2002年12月号
+    - 2005年4月号。『まんがタイム』と並行連載）
+  - [ハイリスクみらくる](https://zh.wikipedia.org/wiki/ハイリスクみらくる "wikilink")
+    （[吉谷やしよ](https://zh.wikipedia.org/wiki/吉谷やしよ "wikilink")、2003年1月号
     - 2004年10月号）
-  - [悪魔様へるぷ☆](../Page/悪魔様へるぷ☆.md "wikilink")
-    （[岬下部せすな](../Page/岬下部せすな.md "wikilink")、2003年7月号
+  - [悪魔様へるぷ☆](https://zh.wikipedia.org/wiki/悪魔様へるぷ☆ "wikilink")
+    （[岬下部せすな](https://zh.wikipedia.org/wiki/岬下部せすな "wikilink")、2003年7月号
     - 2006年5月号）
-  - [きつねさんに化かされたい\!](../Page/きつねさんに化かされたい!.md "wikilink")
-    （[桑原ひひひ](../Page/桑原ひひひ.md "wikilink")、2003年10月号 -
+  - [きつねさんに化かされたい\!](https://zh.wikipedia.org/wiki/きつねさんに化かされたい! "wikilink")
+    （[桑原ひひひ](https://zh.wikipedia.org/wiki/桑原ひひひ "wikilink")、2003年10月号 -
     2009年6月号）
-  - [あねちっくセンセーション](../Page/あねちっくセンセーション.md "wikilink")
-    （[吉谷やしよ](../Page/吉谷やしよ.md "wikilink")、2005年2月号 -
+  - [あねちっくセンセーション](https://zh.wikipedia.org/wiki/あねちっくセンセーション "wikilink")
+    （[吉谷やしよ](https://zh.wikipedia.org/wiki/吉谷やしよ "wikilink")、2005年2月号 -
     2008年6月号）
-  - [となりのカワンチャさん](../Page/となりのカワンチャさん.md "wikilink")
-    （[月見里中](../Page/月見里中.md "wikilink")、2005年6月号 -
+  - [となりのカワンチャさん](https://zh.wikipedia.org/wiki/となりのカワンチャさん "wikilink")
+    （[月見里中](https://zh.wikipedia.org/wiki/月見里中 "wikilink")、2005年6月号 -
     2007年7月号）
-  - [猫耳のミコ譚](../Page/猫耳のミコ譚.md "wikilink")
-    （[音木らく](../Page/音木らく.md "wikilink")、2006年1月号 -
-    2007年12月号）
-  - [天獄パラダイス](../Page/天獄パラダイス.md "wikilink")
-    （[凪庵](../Page/凪庵.md "wikilink")、2006年1月号 - 2008年3月号）
-  - [五日性滅亡シンドローム](../Page/五日性滅亡シンドローム.md "wikilink")
-    （[ヤス](../Page/ヤス_\(イラストレーター\).md "wikilink")、2006年3月号 -
-    2008年7月号）
-  - [ふーすてっぷ](../Page/ふーすてっぷ.md "wikilink")
-    （[岬下部せすな](../Page/岬下部せすな.md "wikilink")、2006年8月号
+  - [猫耳のミコ譚](https://zh.wikipedia.org/wiki/猫耳のミコ譚 "wikilink")
+    （[音木らく](https://zh.wikipedia.org/wiki/音木らく "wikilink")、2006年1月号
+    - 2007年12月号）
+  - [天獄パラダイス](https://zh.wikipedia.org/wiki/天獄パラダイス "wikilink")
+    （[凪庵](https://zh.wikipedia.org/wiki/凪庵 "wikilink")、2006年1月号 -
+    2008年3月号）
+  - [五日性滅亡シンドローム](https://zh.wikipedia.org/wiki/五日性滅亡シンドローム "wikilink")
+    （[ヤス](https://zh.wikipedia.org/wiki/ヤス_\(イラストレーター\) "wikilink")、2006年3月号
+    - 2008年7月号）
+  - [ふーすてっぷ](https://zh.wikipedia.org/wiki/ふーすてっぷ "wikilink")
+    （[岬下部せすな](https://zh.wikipedia.org/wiki/岬下部せすな "wikilink")、2006年8月号
     - 2008年4月号）
-  - [- そら -](../Page/-_そら_-.md "wikilink")
-    （[白雪しおん](../Page/白雪しおん.md "wikilink")、2007年4月号
+  - [- そら -](https://zh.wikipedia.org/wiki/-_そら_- "wikilink")
+    （[白雪しおん](https://zh.wikipedia.org/wiki/白雪しおん "wikilink")、2007年4月号
     - 2009年5月号）
-  - [からめるマフィン](../Page/からめるマフィン.md "wikilink")
-    （[便弁また郎](../Page/便弁また郎.md "wikilink")、2007年6月号
+  - [からめるマフィン](https://zh.wikipedia.org/wiki/からめるマフィン "wikilink")
+    （[便弁また郎](https://zh.wikipedia.org/wiki/便弁また郎 "wikilink")、2007年6月号
     - 2008年2月号・2008年9月号 - 2009年11月号）
-  - [さくらりちぇっと](../Page/さくらりちぇっと.md "wikilink")
-    （[月見里中](../Page/月見里中.md "wikilink")、2007年6月号 -
-    2009年10月号）
+  - [さくらりちぇっと](https://zh.wikipedia.org/wiki/さくらりちぇっと "wikilink")
+    （[月見里中](https://zh.wikipedia.org/wiki/月見里中 "wikilink")、2007年6月号
+    - 2009年10月号）
 
 <div class="notice metadata"  id="spoiler">
 
@@ -478,12 +485,12 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/同栖女子寮.md" title="wikilink">同栖女子寮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/同栖女子寮" title="wikilink">同栖女子寮</a></p></td>
 <td></td>
 <td></td>
 <td><p>2005年5月号</p></td>
 <td><p>曾同时刊载于姐妹杂志<br />
-后转移至《<a href="../Page/月刊Comic电击大王.md" title="wikilink">月刊Comic电击大王</a>》连载</p></td>
+后转移至《<a href="https://zh.wikipedia.org/wiki/月刊Comic电击大王" title="wikilink">月刊Comic电击大王</a>》连载</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -499,7 +506,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="even">
 <td><p><a href="../Page/三者三葉.md" title="wikilink">三者三葉</a></p></td>
 <td></td>
-<td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒井切利" title="wikilink">荒井切利</a></p></td>
 <td></td>
 <td><p>Vol. 7</p></td>
 <td><p>2019年1月号</p></td>
@@ -517,7 +524,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="../Page/三宅大志.md" title="wikilink">三宅大志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三宅大志" title="wikilink">三宅大志</a></p></td>
 <td></td>
 <td><p>Vol. 16</p></td>
 <td><p>2005年9月号<br />
@@ -548,7 +555,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/今井神.md" title="wikilink">今井神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今井神" title="wikilink">今井神</a></p></td>
 <td></td>
 <td><p>2004年12月号</p></td>
 <td><p>2011年7月号</p></td>
@@ -592,9 +599,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/造梦同人志.md" title="wikilink">造梦同人志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/造梦同人志" title="wikilink">造梦同人志</a></p></td>
 <td></td>
-<td><p><a href="../Page/自称清纯派.md" title="wikilink">Hiroyuyi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/自称清纯派" title="wikilink">Hiroyuyi</a></p></td>
 <td></td>
 <td><p>2006年4月号</p></td>
 <td><p>2008年10月号</p></td>
@@ -604,9 +611,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/里好.md" title="wikilink">里好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里好" title="wikilink">里好</a></p></td>
 <td><p>2006年3月号<br />
-<a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2006年4月号<br />
+<a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2006年4月号<br />
 <a href="../Page/Manga_Time_Kirara_Carat.md" title="wikilink">Carat</a> 2006年4月号、5月号</p></td>
 <td><p>2006年5月号</p></td>
 <td><p>2011年2月号</p></td>
@@ -620,9 +627,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2006年11月号</p></td>
 <td><p>2007年3月号<br />
 （长期休载）</p></td>
-<td><p>初期连载于<a href="../Page/双叶社.md" title="wikilink">双叶社的杂志</a><br />
+<td><p>初期连载于<a href="https://zh.wikipedia.org/wiki/双叶社" title="wikilink">双叶社的杂志</a><br />
 完结篇连载于《》<br />
-单行本由<a href="../Page/enterbrain.md" title="wikilink">enterbrain出版</a></p></td>
+单行本由<a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain出版</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -638,7 +645,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td><p>小林哲哉</p></td>
 <td><p>2006年7月号、9月号、10月号<br />
-<a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2006年8月号、11月号<br />
+<a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2006年8月号、11月号<br />
 <a href="../Page/Manga_Time_Kirara_Carat.md" title="wikilink">Carat</a> 2006年8月号、9月号</p></td>
 <td><p>2007年1月号</p></td>
 <td><p>2010年7月号</p></td>
@@ -654,9 +661,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/K-ON!.md" title="wikilink">K-ON!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON!</a></p></td>
 <td></td>
-<td><p><a href="../Page/kakifly.md" title="wikilink">kakifly</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
 <td></td>
 <td><p>2007年5月号</p></td>
 <td><p>2010年10月号</p></td>
@@ -675,7 +682,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p><a href="../Page/花嫁三次方.md" title="wikilink">花嫁三次方</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Manga_Time_Kirara_MAX.md" title="wikilink">MAX</a> 2008年2月号</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX" title="wikilink">MAX</a> 2008年2月号</p></td>
 <td><p>2008年3月号</p></td>
 <td><p>2010年8月号</p></td>
 <td></td>
@@ -690,7 +697,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>因作者住院而终止连载</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/超萌！高校生同居日记.md" title="wikilink">超萌！高校生同居日记</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超萌！高校生同居日记" title="wikilink">超萌！高校生同居日记</a></p></td>
 <td><p>Sweet Home</p></td>
 <td></td>
 <td><p>2008年4月号、6月号-8月号</p></td>
@@ -834,9 +841,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/K-ON!.md" title="wikilink">K-ON! college</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON! college</a></p></td>
 <td></td>
-<td><p><a href="../Page/kakifly.md" title="wikilink">kakifly</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
 <td></td>
 <td><p>2011年5月号</p></td>
 <td><p>2012年7月号</p></td>
@@ -953,7 +960,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/牛乳乃澪.md" title="wikilink">牛乳乃澪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牛乳乃澪" title="wikilink">牛乳乃澪</a></p></td>
 <td><p>2013年7月号</p></td>
 <td><p>2014年3月号</p></td>
 <td><p>未出版单行本</p></td>
@@ -1227,14 +1234,15 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 ## 相關項目
 
   - [日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")
-  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
+  - [Manga Time Kirara
+    MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")
   - [Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")
   - [Manga Time Kirara
-    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
+    Miracle\!](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_Miracle! "wikilink")
   - [Manga Time Kirara
     Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")
-  - [闪耀幻想曲](../Page/闪耀幻想曲.md "wikilink")
+  - [闪耀幻想曲](https://zh.wikipedia.org/wiki/闪耀幻想曲 "wikilink")
 
 ## 外部連結
 

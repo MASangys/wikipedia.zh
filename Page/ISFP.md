@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISFP**（内倾/感觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")。\[1\]，在[柯尔塞气质类型测试中属于](../Page/柯尔塞气质类型测试.md "wikilink")[作词人](../Page/作词人_\(角色变异\).md "wikilink")，属于[工匠的四种类型之一](../Page/工匠_\(气质类型\).md "wikilink")，大约占人口的5%-10%。\[2\]\[3\]
+**ISFP**（内倾/感觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。\[1\]，在[柯尔塞气质类型测试中属于](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[作词人](https://zh.wikipedia.org/wiki/作词人_\(角色变异\) "wikilink")，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")，大约占人口的5%-10%。\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -21,7 +21,7 @@
 
 根据凯尔西的说法，ISFP们扎根于这里和现在。他们对环境极度敏感，这一点恰巧印证了他们的五感甚至比其他感觉型的人要敏锐的说法。他们能察觉周围人事物微小的变化。他们对和谐很敏感，很好地知道什么适合而什么不适合，不管是在艺术中还是在生活的其他方面。虽然对他们的同伴在做什么察觉得很清楚，他们却宁可让他人指导自己的人生。ISFP们通常在感情上很成熟。
 
-更多信息请见[工匠 (气质类型)](../Page/工匠_\(气质类型\).md "wikilink")。
+更多信息请见[工匠 (气质类型)](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")。
 
 ## 认知功能
 
@@ -63,8 +63,8 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 ## 相关条目
 
-  - [迈尔斯·布里格斯性格分类法](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")(MBTI)
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
+  - [迈尔斯·布里格斯性格分类法](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")(MBTI)
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
 
 ## 参考注释
 

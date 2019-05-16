@@ -1,7 +1,7 @@
 [Hiragino_View.png](https://zh.wikipedia.org/wiki/File:Hiragino_View.png "fig:Hiragino_View.png")
 **Hiragino**是[字游工房设计的系列](../Page/字游工房.md "wikilink")[字体名称](../Page/字体.md "wikilink")，从1993年开始由大日本網屏製造株式会社（，前身為大日本網屏製造）面向专业用户发售。[Mac
 OS
-X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[iOS系统中内置字体之一](../Page/iOS.md "wikilink")。这一系列除日文的明朝體（[宋体](../Page/宋体.md "wikilink")）、KakuGothic（[黑体](https://zh.wikipedia.org/wiki/黑体 "wikilink")）、MaruGothic（[圓體](https://zh.wikipedia.org/wiki/圓體 "wikilink")）、[行书](../Page/行书.md "wikilink")、假名专用字体等以外，还有[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁體中文的黑体](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。Hiragino的名称源于日本[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[北区的地名](../Page/北區_\(京都市\).md "wikilink")。
+X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[iOS系统中内置字体之一](https://zh.wikipedia.org/wiki/iOS "wikilink")。这一系列除日文的明朝體（[宋体](../Page/宋体.md "wikilink")）、KakuGothic（[黑体](https://zh.wikipedia.org/wiki/黑体 "wikilink")）、MaruGothic（[圓體](https://zh.wikipedia.org/wiki/圓體 "wikilink")）、[行书](../Page/行书.md "wikilink")、假名专用字体等以外，还有[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[繁體中文的黑体](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。Hiragino的名称源于日本[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[北区的地名](../Page/北區_\(京都市\).md "wikilink")。
 
 ## 字游工房
 

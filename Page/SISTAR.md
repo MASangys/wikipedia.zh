@@ -1,6 +1,6 @@
-**SISTAR**（）是[韓國](../Page/韓國.md "wikilink")[STARSHIP娛樂的四人女子組合](../Page/STARSHIP娛樂.md "wikilink")，成員包括[寶拉](../Page/寶拉.md "wikilink")、[孝琳](../Page/孝琳.md "wikilink")、[韶宥及](../Page/韶宥.md "wikilink")[多順](../Page/多順.md "wikilink")。2010年6月3日，推出首張單曲《Push
-Push》，翌日於[KBS2](../Page/KBS第2頻道.md "wikilink")《[Music
-Bank](../Page/KBS音乐银行.md "wikilink")》正式出道。
+**SISTAR**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂的四人女子組合](../Page/STARSHIP娛樂.md "wikilink")，成員包括[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[孝琳](../Page/孝琳.md "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。2010年6月3日，推出首張單曲《Push
+Push》，翌日於[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
+Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道。
 
 「SISTAR」（）意思是想與大明星們（Star）成為好姐妹（Sister）；歌迷名稱為「**STAR1**」（**스타일**，英語發音：/s'tɑɪl/），意為「SISTAR
 NO.1」，另一層含義則是SISTAR和歌迷是一體的。應援色為紫红色（Fuchsia），官方應援物為印有SISTAR及隊員英文名字的紫红色氣球。
@@ -11,28 +11,28 @@ NO.1」，另一層含義則是SISTAR和歌迷是一體的。應援色為紫红�
 
 ## 成員資料
 
-| 成員列表                           |
-| ------------------------------ |
-| 藝名                             |
-| 漢字\[2\]                        |
-| [寶拉](../Page/寶拉.md "wikilink") |
-| [孝琳](../Page/孝琳.md "wikilink") |
-| [韶宥](../Page/韶宥.md "wikilink") |
-| [多順](../Page/多順.md "wikilink") |
+| 成員列表                                              |
+| ------------------------------------------------- |
+| 藝名                                                |
+| 漢字\[2\]                                           |
+| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink") |
+| [孝琳](../Page/孝琳.md "wikilink")                    |
+| [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink") |
+| [多順](../Page/多順.md "wikilink")                    |
 
 ## 子團體
 
-2011年4月29日，[STARSHIP娛樂宣布SISTAR推出子團體](../Page/STARSHIP娛樂.md "wikilink")[SISTAR19](../Page/SISTAR19.md "wikilink")，由富有力量嗓音的[孝琳和強悍饒舌技巧的](../Page/孝琳.md "wikilink")[寳拉](../Page/寶拉.md "wikilink")2人組成。\[3\]團名的19，意思是擁有將少女和淑女界線之19歲的愛情、感情融入到音樂中。4月29日，公開數碼單曲《Ma
+2011年4月29日，[STARSHIP娛樂宣布SISTAR推出子團體](../Page/STARSHIP娛樂.md "wikilink")[SISTAR19](../Page/SISTAR19.md "wikilink")，由富有力量嗓音的[孝琳和強悍饒舌技巧的](../Page/孝琳.md "wikilink")[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。\[3\]團名的19，意思是擁有將少女和淑女界線之19歲的愛情、感情融入到音樂中。4月29日，公開數碼單曲《Ma
 Boy》MV預告，並在5月3日，公開數碼單曲《Ma
-Boy》完整版MV。5月5日，SISTAR19在[Mnet](../Page/Mnet.md "wikilink")《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》進行SISTAR19的出道舞台，表演《Ma
+Boy》完整版MV。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma
 Boy》。
 
-2013年1月24日，[STARSHIP娛樂公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和寶拉在床上展現她們性感的S線條，1月25日透過[Naver音樂公開SISTAR](../Page/Naver.md "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
+2013年1月24日，[STARSHIP娛樂公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和寶拉在床上展現她們性感的S線條，1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
 Not Around Any
 Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone
 Not Around Any Longer》，並在Mnet《[M\!
-Countdown](../Page/M_Countdown.md "wikilink")》進行回歸舞台，表演《SISTAR19
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》進行回歸舞台，表演《SISTAR19
 (Intro)》和《Gone Not Around Any Longer》。本次的回歸共贏得11個一位。
 
 ## 經歷
@@ -42,17 +42,17 @@ Countdown](../Page/M_Countdown.md "wikilink")》進行回歸舞台，表演《SI
 ### 2010年：出道、《Push Push》、《Shady Girl》、《How Dare You》
 
 早於2010年3月，SISTAR開始拍攝廣告及雜誌\[4\]，並於6月1日，公司正式公布推出全新女子團體SISTAR，公開出道曲《Push
-Push》MV預告，4位成員包括[孝琳](../Page/孝琳.md "wikilink")、[寶拉](../Page/寶拉.md "wikilink")、[韶宥及](../Page/韶宥.md "wikilink")[多順](../Page/多順.md "wikilink")。6月3日，SISTAR推出首張單曲《Push
+Push》MV預告，4位成員包括[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥及](https://zh.wikipedia.org/wiki/韶宥 "wikilink")[多順](../Page/多順.md "wikilink")。6月3日，SISTAR推出首張單曲《Push
 Push》\[5\]，翌日於[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](../Page/KBS音乐银行.md "wikilink")》正式出道\[6\]。
+Bank](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》正式出道\[6\]。
 
 8月25日，SISTAR發行第二張單曲《Shady Girl》，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[金希澈亦參與歌曲MV拍攝](../Page/金希澈.md "wikilink")\[7\]\[8\]。同日，舉行第二張單曲出售紀念“1'st
+Junior成員](../Page/Super_Junior.md "wikilink")[金希澈亦參與歌曲MV拍攝](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\[7\]\[8\]。同日，舉行第二張單曲出售紀念“1'st
 Super Showcase”。在8月28日舉行的《Y-STAR LIVE
 POWER音樂會》中，成員寶拉摔倒在舞台，左手拇指骨折，其他成員暫停表演，讓寶拉短暫退場檢查傷勢。於數分鐘後，寶拉仍重返舞台完成表演\[9\]\[10\]。
 
 11月23日，SISTAR發行第三張單曲《How Dare You》\[11\]，更在12月17日《[Music
-Bank](../Page/音乐银行.md "wikilink")》中獲得出道以來首個歌曲冠軍\[12\]。SISTAR出席了2010年[金唱片獎頒獎典禮](../Page/金唱片獎.md "wikilink")，獲得了新人賞\[13\]。
+Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中獲得出道以來首個歌曲冠軍\[12\]。SISTAR出席了2010年[金唱片獎頒獎典禮](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，獲得了新人賞\[13\]。
 
 ### 2011年：《SO COOL》
 
@@ -61,23 +61,23 @@ COOL》完整版MV。專輯共收錄了12首歌曲，分別有8首新歌，以�
 COOL》於8月25日登上了「Korea K-Pop Hot 100」第一位\[15\]。但《So
 Cool》的舞蹈受到強烈的爭議，MV中的“尾巴舞”被評價為不雅，需修正後才能在舞台進行回歸表演。《Girls
 Do It》是《SO COOL》是第二主打，也是《SO
-COOL》的後續曲，但被[MBC評價為不適合播出](../Page/文化廣播_\(韓國\).md "wikilink")，原因是其中一句歌詞具有攻擊意味，歌詞中「像臭蟲一樣黏著」被認為具有攻擊性，所以最後並未作為後續曲。SISTAR在[Mnet](../Page/Mnet_Media.md "wikilink")《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、KBS2《[Music
-Bank](../Page/音乐银行.md "wikilink")》、MBC《[Show\!
-音樂中心](../Page/Show!_音樂中心.md "wikilink")》、[SBS](../Page/SBS株式會社.md "wikilink")《[SBS人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》中，曾以主打歌《So
+COOL》的後續曲，但被[MBC評價為不適合播出](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，原因是其中一句歌詞具有攻擊意味，歌詞中「像臭蟲一樣黏著」被認為具有攻擊性，所以最後並未作為後續曲。SISTAR在[Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、KBS2《[Music
+Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》、MBC《[Show\!
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》中，曾以主打歌《So
 Cool》和《Girls Do It》兩首歌進行了回歸舞台，但當時《Girls Do It》一曲只唱了第一部份，沒有受到指責。
 
 ### 2012年：《ALONE》、《Loving U》
 
-4月12日，SISTAR發行首張迷你專輯《ALONE》。《ALONE》MV取景於[美國](../Page/美國.md "wikilink")[拉斯維加斯](../Page/拉斯維加斯.md "wikilink")，在4月6－9日，相繼公開寶拉、孝琳、韶宥及多順版預告。26日，Sistar首次憑《ALONE》於Mnet《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》獲得歌曲冠軍。而《ALONE》亦在4月27日和5月4中的KBS2《[Music
-Bank](../Page/音乐银行.md "wikilink")》，5月1日的MBC《Show
+4月12日，SISTAR發行首張迷你專輯《ALONE》。《ALONE》MV取景於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，在4月6－9日，相繼公開寶拉、孝琳、韶宥及多順版預告。26日，Sistar首次憑《ALONE》於Mnet《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲得歌曲冠軍。而《ALONE》亦在4月27日和5月4中的KBS2《[Music
+Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》，5月1日的MBC《Show
 Champion》，4月29日和5月6中的SBS《人氣歌謠》獲得歌曲冠軍。SISTAR憑《ALONE》一曲總共贏得6個獎項。
 
 6月28日，SISTAR發行首張夏日特別專輯《[Loving U](../Page/Loving_U.md "wikilink")》。
-6月22－25日相繼公開孝琳、多順、韶宥、寶拉的預告概念照，26日公開MV預告。而新歌MV取景於[夏威夷](../Page/夏威夷.md "wikilink")，公司透露歌曲MV共花約兩億[韓圜製作](../Page/韓圜.md "wikilink")。這張夏季專輯共收錄了兩首新歌「LOVING
+6月22－25日相繼公開孝琳、多順、韶宥、寶拉的預告概念照，26日公開MV預告。而新歌MV取景於[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，公司透露歌曲MV共花約兩億[韓圜製作](../Page/韓圜.md "wikilink")。這張夏季專輯共收錄了兩首新歌「LOVING
 U」、「Holiday」以及五首過去歌曲的Remix版本。而《Loving U》一曲在7月13日和8月3日中的《[Music
-Bank](../Page/音乐银行.md "wikilink")》獲得了歌曲冠軍。
+Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》獲得了歌曲冠軍。
 
 ### 2013年：《GIVE IT TO ME》
 
@@ -108,34 +108,36 @@ Love》和《Lonely》分佔十大音源榜單的首位，Melon破表一次，�
 [KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg](https://zh.wikipedia.org/wiki/File:KOCIS_Korea_Mnet_Soyou_Junggigo_02_\(12986805445\).jpg "fig:KOCIS_Korea_Mnet_Soyou_Junggigo_02_(12986805445).jpg")2014年2月，[STARSHIP娛樂推出了第二個特別企劃](../Page/STARSHIP娛樂.md "wikilink")，由韶宥和[STARSHIP娛樂子公司STARSHIP](../Page/STARSHIP娛樂.md "wikilink")
 X的嘻哈歌手[郑基高組成](../Page/鄭基高.md "wikilink")，合作發行單曲《Some》，歌曲中還加入Geeks成員Lil
 Boi的饒舌。2月4日，於網上公開了出道單曲《Some》的音樂影像預告，音樂影像由[多順和](../Page/多順.md "wikilink")[B1A4的Baro共同出演](../Page/B1A4.md "wikilink")。其後於2月6日在Mnet《[M\!
-Countdown](../Page/M_Countdown.md "wikilink")》公開《Some》的首個回歸舞台，並開始進行宣傳活動，翌日於網上公開單曲《Some》的音源和音樂影像。音源推出後成功橫掃多個音源榜的冠軍，達成多次All-kill\[16\]。這首歌更在各大音樂節目贏得11個1位，其中在KBS2《Music
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開《Some》的首個回歸舞台，並開始進行宣傳活動，翌日於網上公開單曲《Some》的音源和音樂影像。音源推出後成功橫掃多個音源榜的冠軍，達成多次All-kill\[16\]。這首歌更在各大音樂節目贏得11個1位，其中在KBS2《Music
 Bank》中奪下5週冠軍，在Gaon排行榜連續兩周排冠軍，也是Gaon排行榜的二月音源部冠軍\[17\]，在告示牌「K-pop Hot
 100」連續5週冠軍\[18\]。
 
 2014年3月3日，SBS宣佈寶拉加入《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》劇組，正式挑戰戲劇演出。據TVReport報導：「寶拉已經通過SBS月火新劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》
 的試鏡。」\[19\]寶拉所屬的公司[STARSHIP娛樂說到](../Page/STARSHIP娛樂.md "wikilink")：“因為是第一次正式演戲，寶拉從確定出演那刻開始就認真研究角色和請教其他人，為當好演員非常用心地準備著。”劇中她與飾演朴勛的[李鍾碩像兄弟一樣](../Page/李鍾碩.md "wikilink")，但實際上卻偷偷暗戀他，[脫北後一直在朴勛身邊生活](../Page/脫北者.md "wikilink")。
 
-2014年7月10日，[STARSHIP娛樂宣佈SISTAR會在](../Page/STARSHIP娛樂.md "wikilink")7月21日回歸，這次回歸是相隔一年零二個月。这次的主打歌不是再和[勇敢兄弟或者](../Page/Brave_Brothers.md "wikilink")[二段横踢合作](../Page/二段横踢.md "wikilink")，而是和制作人Rado和崔奎成合作。\[20\]7月14日，於STARSHIP官方[Youtube頻道公開了回歸的音樂影像預告](../Page/Youtube.md "wikilink")，金寶成在預告中化身「義氣」大叔，釋出一小段在房子裡有趣小故事。7月16、17日，SISTAR官方[Twitter分別釋出孝琳](../Page/Twitter.md "wikilink")、寶拉和韶宥、多順的回歸概念照。
-7月18日，[LOEN官方Youtube頻道公開了主打歌](../Page/LOEN娛樂.md "wikilink")《Touch My
-Body》的音樂影像預告，[盧弘喆與](../Page/盧弘喆.md "wikilink")[全炫茂客串演出](../Page/全炫茂.md "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。\[21\]7月21日，Starship及LOEN官方Youtube頻道公開了SISTAR新專輯《[TOUCH
-& MOVE](../Page/TOUCH_&_MOVE.md "wikilink")》主打歌《Touch My
+2014年7月10日，[STARSHIP娛樂宣佈SISTAR會在](../Page/STARSHIP娛樂.md "wikilink")7月21日回歸，這次回歸是相隔一年零二個月。这次的主打歌不是再和[勇敢兄弟或者](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")[二段横踢合作](../Page/二段横踢.md "wikilink")，而是和制作人Rado和崔奎成合作。\[20\]7月14日，於STARSHIP官方[Youtube頻道公開了回歸的音樂影像預告](https://zh.wikipedia.org/wiki/Youtube "wikilink")，金寶成在預告中化身「義氣」大叔，釋出一小段在房子裡有趣小故事。7月16、17日，SISTAR官方[Twitter分別釋出孝琳](../Page/Twitter.md "wikilink")、寶拉和韶宥、多順的回歸概念照。
+7月18日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《Touch
+My
+Body》的音樂影像預告，[盧弘喆與](../Page/盧弘喆.md "wikilink")[全炫茂客串演出](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。\[21\]7月21日，Starship及LOEN官方Youtube頻道公開了SISTAR新專輯《[TOUCH
+& MOVE](https://zh.wikipedia.org/wiki/TOUCH_&_MOVE "wikilink")》主打歌《Touch
+My
 Body》的音樂影像及音源，及舉行回歸公演。7月22日，[STARSHIP娱乐官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《Touch
 My
 Body》舞蹈練習片段。7月23日，SISTAR第二版概念照公開。7月29日，[STARSHIP娱乐官方Youtube頻道公開了](../Page/STARSHIP娛樂.md "wikilink")《Touch
 My Body》的Acoustic版本，在吉他旋律的伴奏下也展示SISTAR歌唱實力。
 
 《Touch My
-Body》推出後成功橫掃多個音源榜的冠軍，如[MelOn](../Page/LOEN娛樂#Melon.md "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、[Naver的日榜和實時榜等](../Page/Naver.md "wikilink")，並在音樂節目中獲得多個一位，在SBS《人氣歌謠》和KBS2《Music
+Body》推出後成功橫掃多個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在音樂節目中獲得多個一位，在SBS《人氣歌謠》和KBS2《Music
 Bank》更取得三連冠，再次展現SISTAR強大音源實力。
 
 8月18日，[STARSHIP娛樂在官方](../Page/STARSHIP娛樂.md "wikilink")[Twitter表示](../Page/Twitter.md "wikilink")「8月26日！SISTAR
 為了報答大家給予《Touch My Body》的熱烈支持，懷著感恩的心準備了這項驚喜禮物！請多多期待喔～XD \#SISTAR
 \#ISWEAR」並宣佈SISTAR將於26日推出特別專輯，主打歌為《I
-Swear》。該曲是二段橫踢和SISTAR很早之前就準備好的。\[22\]8月19、20日，SISTAR官方Twitter分別釋出韶宥、多順和寶拉、孝琳的回歸概念照，多順在Twitter表示照片是在[美國](../Page/美國.md "wikilink")[塞班島拍攝的](../Page/塞班島.md "wikilink")。\[23\]8月21日，[STARSHIP娛樂官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《I
+Swear》。該曲是二段橫踢和SISTAR很早之前就準備好的。\[22\]8月19、20日，SISTAR官方Twitter分別釋出韶宥、多順和寶拉、孝琳的回歸概念照，多順在Twitter表示照片是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[塞班島拍攝的](https://zh.wikipedia.org/wiki/塞班島 "wikilink")。\[23\]8月21日，[STARSHIP娛樂官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《I
 Swear》的音樂影像預告，在SISTAR官方[Facebook也公開了專輯名稱](../Page/Facebook.md "wikilink")《[Sweet
 &
-Sour](../Page/Sweet_&_Sour.md "wikilink")》。8月26日，[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](../Page/LOEN娛樂.md "wikilink")[Youtube頻道公開了SISTAR新專輯](../Page/Youtube.md "wikilink")《[Sweet
-& Sour](../Page/Sweet_&_Sour.md "wikilink")》主打歌《I
+Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》。8月26日，[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/Youtube "wikilink")《[Sweet
+& Sour](https://zh.wikipedia.org/wiki/Sweet_&_Sour "wikilink")》主打歌《I
 Swear》的音樂影像及音源，MV由曾與趙容弼、Tiger
 JK合作的形象派音樂人Lumpens執導。8月27日，[STARSHIP娛樂官方Youtube頻道公開了主打歌](../Page/STARSHIP娛樂.md "wikilink")《I
 Swear》舞蹈練習片段。
@@ -150,7 +152,7 @@ Swear》MV，介紹美麗怡人的塞班主要旅遊景點，以及餐廳和超�
 2～～？？？？適合金風抽豐的悸動歌曲9月26日行將暴光！！請期待哦」。此前，韶宥和鄭基高推出單曲《Some》收到了巨大的反響，無論是清新的曲風，還是兩人配合的演唱都受到了大家的喜愛，排名也非常靠前，這次韶宥再推合作新曲，大家也紛紛表示非常期待。18日，[STARSHIP娛樂在官方Twitter寫道](../Page/STARSHIP娛樂.md "wikilink")“今天上半年與鄭基高以最棒的合作曲席捲歌謠界的韶宥和Urban
 Zakapa中的權順日和朴容仁的全新合作曲要公開了”並上傳了三人的合照。三人正在為26日將發表的新曲做最後的準備工作。23日，公開了與組合Urban
 Zakapa的合唱曲《間隙（The Space
-Between）》MV預告片，預告片由[安宰賢搭檔](../Page/安宰賢.md "wikilink")[南寶拉出演](../Page/南寶拉.md "wikilink")。9月26日，MV在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](../Page/LOEN娛樂.md "wikilink")[Youtube頻道公開](../Page/Youtube.md "wikilink")。
+Between）》MV預告片，預告片由[安宰賢搭檔](../Page/安宰賢.md "wikilink")[南寶拉出演](../Page/南寶拉.md "wikilink")。9月26日，MV在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娛樂官方](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 
 ### 2015年：《SHAKE IT》
 
@@ -160,22 +162,23 @@ Between）》MV預告片，預告片由[安宰賢搭檔](../Page/安宰賢.md "w
 IT》是繼《Loving U》、《GIVE IT TO ME》及《I
 Swear》後，再次和二段横踢合作，是一首節奏感強烈的復古舞曲，加上SISTAR清爽的演唱，確立SISTAR「夏日女團」的名號。
 
-6月11日及14日，SISTAR官方[Twitter分別釋出第一張和第二張團體回歸概念照](../Page/Twitter.md "wikilink")，由可愛惡女風化身為性感惡女。6月15日，公開音樂影像預告相片。6月16日，公開SISTAR與明星廚師[崔賢錫合作的](../Page/崔賢錫.md "wikilink")《SHAKE
-IT》音樂影像預告。6月17日，[LOEN官方Youtube頻道公開了主打歌](../Page/LOEN娛樂.md "wikilink")《SHAKE
+6月11日及14日，SISTAR官方[Twitter分別釋出第一張和第二張團體回歸概念照](../Page/Twitter.md "wikilink")，由可愛惡女風化身為性感惡女。6月15日，公開音樂影像預告相片。6月16日，公開SISTAR與明星廚師[崔賢錫合作的](https://zh.wikipedia.org/wiki/崔賢錫 "wikilink")《SHAKE
+IT》音樂影像預告。6月17日，[LOEN官方Youtube頻道公開了主打歌](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《SHAKE
 IT》的音樂影像預告，[MONSTA
-X的](../Page/MONSTA_X.md "wikilink")[Shownu與](../Page/孫軒宇.md "wikilink")[元虎及](../Page/MONSTA_X.md "wikilink")的[姜均成客串演出](../Page/姜均成.md "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。6月20日，官方[Twitter公佈迷你](../Page/Twitter.md "wikilink")3輯《SHAKE
+X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu與](https://zh.wikipedia.org/wiki/孫軒宇 "wikilink")[元虎及](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")的[姜均成客串演出](../Page/姜均成.md "wikilink")。同日，Naver音樂公開了更多概念照片及拍攝概念照的花絮。6月20日，官方[Twitter公佈迷你](../Page/Twitter.md "wikilink")3輯《SHAKE
 IT》的曲目列表。
 
-6月22日，[STARSHIP娱乐及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娱乐官方Youtube頻道公開了SISTAR新專輯](../Page/LOEN娛樂.md "wikilink")《[SHAKE
+6月22日，[STARSHIP娱乐及](../Page/STARSHIP娛樂.md "wikilink")[LOEN娱乐官方Youtube頻道公開了SISTAR新專輯](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")《[SHAKE
 IT](../Page/SHAKE_IT.md "wikilink")》主打歌《SHAKE
 IT》的音樂錄影帶及音源，並舉行回歸公演。6月23日，SISTAR的《SHAKE
-IT》在12小時內橫掃十個音源榜的冠軍，如[MelOn](../Page/LOEN娛樂#Melon.md "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、[Naver的日榜和實時榜等](../Page/Naver.md "wikilink")，並在[MelOn榜](../Page/LOEN娛樂#Melon.md "wikilink")5次封頂，再次展示強大音源實力。《shake
+IT》在12小時內橫掃十個音源榜的冠軍，如[MelOn](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[Naver的日榜和實時榜等](https://zh.wikipedia.org/wiki/Naver "wikilink")，並在[MelOn榜](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")5次封頂，再次展示強大音源實力。《shake
 it》一共在melon破表13次。
 
-孝琳於9月參加「[Unpretty Rap Star2](../Page/Unpretty_Rapstar_2.md "wikilink")」。
+孝琳於9月參加「[Unpretty Rap
+Star2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")」。
 
 9月22日，韶宥與10cm成員權正烈合作的新歌《肩膀Lean on me》發佈，破表多次，並在10月1日播出的 Mnet 音樂節目《[M
-Countdown](../Page/M_Countdown.md "wikilink")》中，獲得一位。
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》中，獲得一位。
 
 ### 2016年：《沒我愛》
 
@@ -191,8 +194,8 @@ Body》後，時隔兩年再次與她們合作的作品，令粉絲們都相當�
 而在途中，官方也於7、8日公開首兩波的謎語概念照，9日公開成員孝琳、寶拉的個人概念照，10日公開成員韶宥、多順的個人概念照，14日公開團體概念照，17日公開《I
 LIKE THAT》預告。
 
-6月21日，官方公開第四張[迷你專輯](../Page/迷你專輯.md "wikilink")《沒我愛》全輯音源以及主打歌《I LIKE
-THAT》MV，主打歌音源一公開，即空降Melon、Genie等音源榜一位。
+6月21日，官方公開第四張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《沒我愛》全輯音源以及主打歌《I
+LIKE THAT》MV，主打歌音源一公開，即空降Melon、Genie等音源榜一位。
 
 6月24日，KBS MUSIC BANK \<2016上半年結算特輯\> 為SISTAR特輯，演繹出許多SISTAR名曲，包括《TOUCH MY
 BODY》、《LOVING U》、《SHAKE IT》、《I SWEAR》等。除了寶拉作為特別MC登場外，昭宥也有合作曲。
@@ -205,8 +208,8 @@ Duo》，在最近因表演者的驚人實力而屢掀話題；先前登台的�
 
 ### 2017年：綻放最光輝的一次、最後一次回歸、解散
 
-2月14日韶宥與EXO[伯賢合唱비가](../Page/伯賢.md "wikilink")
-와（[RAIN](../Page/Rain_\(韶宥與伯賢單曲\).md "wikilink")），即刻在韓國兩大音網站MelOn和genie空破一位，成為韶宥第一首空破一位的單曲，並於當日韓國上午九點登上8個音源榜的第1位\[26\]。在2月26日SBS人氣歌謠中，音源分滿分，最終排名第二。
+2月14日韶宥與EXO[伯賢合唱비가](https://zh.wikipedia.org/wiki/伯賢 "wikilink")
+와（[RAIN](https://zh.wikipedia.org/wiki/Rain_\(韶宥與伯賢單曲\) "wikilink")），即刻在韓國兩大音網站MelOn和genie空破一位，成為韶宥第一首空破一位的單曲，並於當日韓國上午九點登上8個音源榜的第1位\[26\]。在2月26日SBS人氣歌謠中，音源分滿分，最終排名第二。
 
 孝琳與全球電音巨頭Spinnin'Records簽訂了唱片合約，成為亞洲首位，也是K
 POP首位與全球電音巨頭Spinnin'Records簽訂了合約的藝人，並將於3月中旬發行與Justin
@@ -224,7 +227,7 @@ MY BODY》《I LIKE THAT》的黑眼必勝再次聯手，並計劃展現出更�
 
 5月23日，經紀公司[STARSHIP娛樂發聲明感謝粉絲](../Page/STARSHIP娛樂.md "wikilink")7年來的支持，證實她們在新歌活動結束後，正式結束團體活動，據了解，SISTAR合約將在6月初到期，她們經過考量和討論後，最終決定解散，成員孝琳和韶宥將持續歌手之路，而多絮和寶拉則轉往綜藝和戲劇，開啟演員之路，而四人是否續留公司，目前仍在討論中。2010年出道後，SISTAR推出《Give
 It To Me》、《ALONE》、《Touch My Body》等多首輕快、性感舞曲，2015年更以一首《SHAKE
-IT》奠定「夏日女團」封號，面對此次解散，讓許多粉絲難過喊：「沒有SISTAR的夏天要怎麼過？」，成員們也表示不捨，今下午[孝琳](../Page/孝琳.md "wikilink")、[寶拉](../Page/寶拉.md "wikilink")、[韶宥](../Page/韶宥.md "wikilink")、[多順公開親筆信](../Page/多順.md "wikilink")，向粉絲喊話以及感謝，她們為各自的夢想和未來努力，也希望能有更好的表現，期許粉絲能夠繼續支持她們。
+IT》奠定「夏日女團」封號，面對此次解散，讓許多粉絲難過喊：「沒有SISTAR的夏天要怎麼過？」，成員們也表示不捨，今下午[孝琳](../Page/孝琳.md "wikilink")、[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[多順公開親筆信](../Page/多順.md "wikilink")，向粉絲喊話以及感謝，她們為各自的夢想和未來努力，也希望能有更好的表現，期許粉絲能夠繼續支持她們。
 
 同日，經紀公司[STARSHIP娛樂也公開了預告](../Page/STARSHIP娛樂.md "wikilink")。
 
@@ -239,9 +242,10 @@ SISTAR的《LONELY》在韓國時間上午12時開始橫掃6個音源實時榜�
 
 發歌24小時後，[Youtube點擊率破三百萬](../Page/YouTube.md "wikilink")，MELON收聽83萬多。
 
-《[M\! Countdown](../Page/M_Countdown.md "wikilink")》於6月2日下午兩點開放
-6月第二週冠軍得主的事前投票，不過網友立刻發現 SISTAR 的告別歌曲 “Lonely” 與 TWICE 的
-“Signal” 都不在名單之中。對此[Mnet](../Page/Mnet媒體.md "wikilink")
+《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》於6月2日下午兩點開放
+6月第二週冠軍得主的事前投票，不過網友立刻發現 SISTAR 的告別歌曲 “Lonely” 與 TWICE 的 “Signal”
+都不在名單之中。對此[Mnet](../Page/Mnet媒體.md "wikilink")
 解釋「只要結束音樂節目活動，就不會出現在事前投票的候選名單中」，然而近來「未登台仍奪冠」甚至「宣傳結束後繼續奪冠」的例子數見不鮮，而
 [Mnet](../Page/Mnet媒體.md "wikilink") 也並未事前宣布要更改投票規定，因此回應一出反而使網友的抗議更加激烈。
 
@@ -367,7 +371,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/Alone_(Sistar迷你专辑).md" title="wikilink">ALONE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Alone_(Sistar迷你专辑)" title="wikilink">ALONE</a></strong>》</p>
 <ul>
 <li>發行日期：2012年4月12日</li>
 <li>語言：韓語</li>
@@ -377,7 +381,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/TOUCH_&amp;_MOVE.md" title="wikilink">TOUCH &amp; MOVE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/TOUCH_&amp;_MOVE" title="wikilink">TOUCH &amp; MOVE</a></strong>》</p>
 <ul>
 <li>發行日期：2014年7月21日</li>
 <li>語言：韓語</li>
@@ -397,7 +401,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/沒我愛.md" title="wikilink">沒我愛</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/沒我愛" title="wikilink">沒我愛</a></strong>》</p>
 <ul>
 <li>發行日期：2016年6月21日</li>
 <li>語言：韓語</li>
@@ -429,7 +433,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Sweet_&amp;_Sour.md" title="wikilink">Sweet &amp; Sour</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Sweet_&amp;_Sour" title="wikilink">Sweet &amp; Sour</a></strong>》</p>
 <ul>
 <li>發行日期：2014年8月26日</li>
 <li>語言：韓語</li>
@@ -460,7 +464,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Give_It_To_Me.md" title="wikilink">Give It To Me</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Give_It_To_Me" title="wikilink">Give It To Me</a></strong>》</p>
 <ul>
 <li>發行日期：2013年6月11日</li>
 <li>語言：韓語</li>
@@ -473,77 +477,77 @@ You》下載量達將近100萬（968949）排在第十位。
 
 ### 原聲帶
 
-|             |                             |                                                            |                                                                                                                                            |
-| ----------- | --------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 發佈日期        | 歌曲名稱                        | 專輯名稱                                                       | 參與成員                                                                                                                                       |
-| 2010年8月6日   | 沒關係                         | MBC《[Gloria](../Page/Gloria.md "wikilink")》OST             | [韶宥](../Page/姜智賢.md "wikilink")、WOO（J2）                                                                                                    |
-| 2010年9月17日  | 說我愛你                        | MBC《惡作劇之吻》OST                                              | 韶宥                                                                                                                                         |
-| 2011年10月19日 | 對我來說，因為是你                   | KBS《[榮光的在仁](../Page/榮光的在仁.md "wikilink")》OST               | 孝琳                                                                                                                                         |
-| 2012年1月19日  | I Choose To Love You        | 電影《看見愛情2》OST                                               |                                                                                                                                            |
-| 2012年2月21日  | Super Star                  | KBS《[Dream High 2](../Page/Dream_High_2.md "wikilink")》OST | [芝妍](../Page/朴芝妍.md "wikilink")（[T-ara](../Page/T-ara.md "wikilink")）、[Ailee](../Page/Ailee.md "wikilink")、[孝琳](../Page/金孝靜.md "wikilink") |
-| 2013年9月1日   | 讓我瘋狂                        | SBS《[主君的太陽](../Page/主君的太陽.md "wikilink")》OST               | 孝琳                                                                                                                                         |
-| 2014年1月7日   | 就一次                         | MBC 《[奇皇后 (電視劇)](../Page/奇皇后_\(電視劇\).md "wikilink")》OST    | 韶宥                                                                                                                                         |
-| 2014年1月16日  | Let It Go（韓語版）              | 迪士尼動畫電影《[冰雪奇緣](../Page/冰雪奇緣.md "wikilink")》韓文版主題曲          | 孝琳                                                                                                                                         |
-| 2014年1月22日  | 再見                          | SBS《[來自星星的你](../Page/來自星星的你.md "wikilink")》OST             |                                                                                                                                            |
-| 2014年3月5日   | YaYaYa                      | KBS《[乘著歌聲的愛情](../Page/乘著歌聲的愛情.md "wikilink")》OST           | [多順](../Page/金多順.md "wikilink")、金泰亨                                                                                                        |
-| 2014年12月9日  | 다이아몬드(Diamond)              | 《冰雪皇后2》主題曲                                                 | 韶宥                                                                                                                                         |
-| 2015年5月20日  | Come a little closer（더 가까이） | MBC《[心情好又暖](../Page/心情好又暖.md "wikilink")》OST               | 孝琳                                                                                                                                         |
-| 2015年9月1日   | 你是我的                        | KBS《[奇怪的兒媳](../Page/奇怪的兒媳.md "wikilink")》OST               | 多順                                                                                                                                         |
-| 2015年10月14日 | 你不懂我                        | MBC《[她很漂亮](../Page/她很漂亮.md "wikilink")》OST                 | 韶宥、Brother Su                                                                                                                              |
-| 2015年12月14日 | Turn Around                 | 迪士尼動畫電影《[小王子](../Page/小王子.md "wikilink")》韓文版主題曲            | 孝琳                                                                                                                                         |
-| 2016年6月3日   | 對我說（내게 말해줘）                 | MBC《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》 OST              | 韶宥                                                                                                                                         |
-| 2016年7月15日  | 想你（보고싶어）                    | KBS 《[任意依戀](../Page/任意依戀.md "wikilink")》 OST               | 孝琳                                                                                                                                         |
-| 2016年7月15日  | 好像都睡了（잠은 다 잤나봐요）            | KBS 《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》 OST             | 韶宥                                                                                                                                         |
-| 2016年12月31日 | I Miss You                  | tvN 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》 OST   | 韶宥                                                                                                                                         |
-| 2017年1月10日  | 化作彼此的淚（서로의 눈물이 되어）          | KBS 《[花郎](../Page/花郎_\(電視劇\).md "wikilink")》 OST           | 孝琳                                                                                                                                         |
-| 2017年8月27日  | ALWAYS                      | tvN 《[名不虛傳](../Page/名不虛傳.md "wikilink")》 OST               | 孝琳                                                                                                                                         |
-| 2018年1月13日  | Dreamy Love                 | MBC 《[金钱之花](../Page/金钱之花.md "wikilink")》 OST               | 孝琳                                                                                                                                         |
-| 2018年8月7日   | Just Stay                   | SBS 《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》 OST       | 孝琳                                                                                                                                         |
-| 2018年8月20日  | Silence                     | jtbc 《[LIFE](../Page/Life_\(電視劇\).md "wikilink")》 OST      | 韶宥                                                                                                                                         |
+|             |                             |                                                                               |                                                                                                                                                                                                                        |
+| ----------- | --------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 發佈日期        | 歌曲名稱                        | 專輯名稱                                                                          | 參與成員                                                                                                                                                                                                                   |
+| 2010年8月6日   | 沒關係                         | MBC《[Gloria](https://zh.wikipedia.org/wiki/Gloria "wikilink")》OST             | [韶宥](https://zh.wikipedia.org/wiki/姜智賢 "wikilink")、WOO（J2）                                                                                                                                                             |
+| 2010年9月17日  | 說我愛你                        | MBC《惡作劇之吻》OST                                                                 | 韶宥                                                                                                                                                                                                                     |
+| 2011年10月19日 | 對我來說，因為是你                   | KBS《[榮光的在仁](../Page/榮光的在仁.md "wikilink")》OST                                  | 孝琳                                                                                                                                                                                                                     |
+| 2012年1月19日  | I Choose To Love You        | 電影《看見愛情2》OST                                                                  |                                                                                                                                                                                                                        |
+| 2012年2月21日  | Super Star                  | KBS《[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》OST | [芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink") |
+| 2013年9月1日   | 讓我瘋狂                        | SBS《[主君的太陽](../Page/主君的太陽.md "wikilink")》OST                                  | 孝琳                                                                                                                                                                                                                     |
+| 2014年1月7日   | 就一次                         | MBC 《[奇皇后 (電視劇)](../Page/奇皇后_\(電視劇\).md "wikilink")》OST                       | 韶宥                                                                                                                                                                                                                     |
+| 2014年1月16日  | Let It Go（韓語版）              | 迪士尼動畫電影《[冰雪奇緣](https://zh.wikipedia.org/wiki/冰雪奇緣 "wikilink")》韓文版主題曲          | 孝琳                                                                                                                                                                                                                     |
+| 2014年1月22日  | 再見                          | SBS《[來自星星的你](../Page/來自星星的你.md "wikilink")》OST                                |                                                                                                                                                                                                                        |
+| 2014年3月5日   | YaYaYa                      | KBS《[乘著歌聲的愛情](../Page/乘著歌聲的愛情.md "wikilink")》OST                              | [多順](https://zh.wikipedia.org/wiki/金多順 "wikilink")、金泰亨                                                                                                                                                                 |
+| 2014年12月9日  | 다이아몬드(Diamond)              | 《冰雪皇后2》主題曲                                                                    | 韶宥                                                                                                                                                                                                                     |
+| 2015年5月20日  | Come a little closer（더 가까이） | MBC《[心情好又暖](https://zh.wikipedia.org/wiki/心情好又暖 "wikilink")》OST               | 孝琳                                                                                                                                                                                                                     |
+| 2015年9月1日   | 你是我的                        | KBS《[奇怪的兒媳](../Page/奇怪的兒媳.md "wikilink")》OST                                  | 多順                                                                                                                                                                                                                     |
+| 2015年10月14日 | 你不懂我                        | MBC《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")》OST                 | 韶宥、Brother Su                                                                                                                                                                                                          |
+| 2015年12月14日 | Turn Around                 | 迪士尼動畫電影《[小王子](../Page/小王子.md "wikilink")》韓文版主題曲                               | 孝琳                                                                                                                                                                                                                     |
+| 2016年6月3日   | 對我說（내게 말해줘）                 | MBC《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》 OST                                 | 韶宥                                                                                                                                                                                                                     |
+| 2016年7月15日  | 想你（보고싶어）                    | KBS 《[任意依戀](../Page/任意依戀.md "wikilink")》 OST                                  | 孝琳                                                                                                                                                                                                                     |
+| 2016年7月15日  | 好像都睡了（잠은 다 잤나봐요）            | KBS 《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》 OST                                | 韶宥                                                                                                                                                                                                                     |
+| 2016年12月31日 | I Miss You                  | tvN 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》 OST                      | 韶宥                                                                                                                                                                                                                     |
+| 2017年1月10日  | 化作彼此的淚（서로의 눈물이 되어）          | KBS 《[花郎](../Page/花郎_\(電視劇\).md "wikilink")》 OST                              | 孝琳                                                                                                                                                                                                                     |
+| 2017年8月27日  | ALWAYS                      | tvN 《[名不虛傳](https://zh.wikipedia.org/wiki/名不虛傳 "wikilink")》 OST               | 孝琳                                                                                                                                                                                                                     |
+| 2018年1月13日  | Dreamy Love                 | MBC 《[金钱之花](https://zh.wikipedia.org/wiki/金钱之花 "wikilink")》 OST               | 孝琳                                                                                                                                                                                                                     |
+| 2018年8月7日   | Just Stay                   | SBS 《[雖然30但仍17](https://zh.wikipedia.org/wiki/雖然30但仍17 "wikilink")》 OST       | 孝琳                                                                                                                                                                                                                     |
+| 2018年8月20日  | Silence                     | jtbc 《[LIFE](https://zh.wikipedia.org/wiki/Life_\(電視劇\) "wikilink")》 OST      | 韶宥                                                                                                                                                                                                                     |
 
 ### 其他歌曲
 
-|                                                      |                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 年份                                                   | 歌曲名稱                                                                                                                                                                                                                                                                                                                   | 參與成員                                                                                                                                                                                                                                                                                                                             | 備註                                                       |
-| 2010年                                                | WE NEVER GO ALONE                                                                                                                                                                                                                                                                                                      | 全體                                                                                                                                                                                                                                                                                                                               | 2010世界盃應援單曲                                              |
-| Chronos Soul                                         | EA Mobile 韓國分公司旗下遊戲《Chronos Sword》                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| Super Girl                                           | 三星3D電視廣告音樂CF                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| Magic Drag                                           | [張根碩](../Page/張根碩.md "wikilink")（Feat.孝琳）                                                                                                                                                                                                                                                                              | 三星 YEPP CF                                                                                                                                                                                                                                                                                                                       |                                                          |
-| 2011年                                                | Hot Place                                                                                                                                                                                                                                                                                                              | 全體（Feat. Brave Sound）                                                                                                                                                                                                                                                                                                            | 三星網絡商城主題曲                                                |
-| Ma Boy 2                                             | Electroboyz（Feat.孝琳）                                                                                                                                                                                                                                                                                                   | 收錄於《Rebirth》                                                                                                                                                                                                                                                                                                                     |                                                          |
-| 기가 차                                                 | [K.Will](../Page/K.Will.md "wikilink")（Feat.孝琳、Simon D）                                                                                                                                                                                                                                                                | 收錄於《My Heart Is Beating》                                                                                                                                                                                                                                                                                                         |                                                          |
-| Pink Romance                                         | StarShip Planet                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 2012年                                                | Win The Day                                                                                                                                                                                                                                                                                                            | Sistar、[2PM](../Page/2PM.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[B1A4](../Page/B1A4.md "wikilink")、[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")、[MBLAQ](../Page/MBLAQ.md "wikilink")、[miss A](../Page/miss_A.md "wikilink")、[Nine Muses](../Page/Nine_Muses.md "wikilink")、[ZE:A](../Page/ZE:A.md "wikilink") | 2012奧運應援歌曲                                               |
-| Officially Missing You, Too                          | 韶宥、Geeks                                                                                                                                                                                                                                                                                                               | 收錄於《re;code EpisodeⅠ》                                                                                                                                                                                                                                                                                                            |                                                          |
-| White Love                                           | 韶宥、[K.Will](../Page/K.Will.md "wikilink")、[正珉](../Page/正珉.md "wikilink")                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 人魚公主 (Mermaid Princess)                              | 寶拉、[知英](../Page/姜知英.md "wikilink")（[Kara](../Page/Kara.md "wikilink")）、[嘉允](../Page/許嘉允.md "wikilink")（[4minute](../Page/4minute.md "wikilink")）、[善伙](../Page/韓善伙.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[Lizzy](../Page/朴修映.md "wikilink")（[After School](../Page/After_School.md "wikilink")） | 《2012 SBS歌謠大戰》「The Color of K-Pop」Mystic White團體                                                                                                                                                                                                                                                                                 |                                                          |
-| This Person                                          | 孝琳、[Nicole](../Page/鄭龍珠.md "wikilink")（Kara）、[泫雅](../Page/金泫雅.md "wikilink")（4minute）、[烋星](../Page/全烋星.md "wikilink")（Secret）、[NaNa](../Page/林珍兒.md "wikilink")（After School）                                                                                                                                          | 《2012 SBS歌謠大戰》「The Color of K-Pop」Dazzling Red團體                                                                                                                                                                                                                                                                                 |                                                          |
-| 2013年                                                | GoodBye                                                                                                                                                                                                                                                                                                                | 昭宥、洪大光                                                                                                                                                                                                                                                                                                                           | 收錄於《멀어진다》                                                |
-| Hot Wings                                            | Dynamic Duo（Feat.孝琳）                                                                                                                                                                                                                                                                                                   | 收錄於《7輯 LUCKYNUMBERS》                                                                                                                                                                                                                                                                                                             |                                                          |
-| 착해 빠졌어 (Stupid In Love)                              | 韶宥、Mad Clown                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 눈사탕 (Snow Candy)                                     | Starship Planet                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 2014年                                                | Some                                                                                                                                                                                                                                                                                                                   | 韶宥、鄭基高（Feat. Lil Boi（Geeks））                                                                                                                                                                                                                                                                                                     |                                                          |
-| Without You (견딜만해)                                   | Madclown（Feat.孝琳）                                                                                                                                                                                                                                                                                                      | 收錄於Mad Clown 的第二張迷你專輯《狠毒》                                                                                                                                                                                                                                                                                                        |                                                          |
-| 고장난 선풍기 (Faulty Fan)                                 | MC夢（Feat. Gary（LeeSsang）、孝琳）                                                                                                                                                                                                                                                                                           | 收錄於《6輯 Miss Me Or Diss Me》                                                                                                                                                                                                                                                                                                       |                                                          |
-| The Space Between                                    | 韶宥、權順日、朴容仁（Urban Zakapa）                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| Erase                                                | 孝琳、Joo Young（Feat. Iron）                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| Love Is You                                          | Starship Planet                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 2015年                                                | FEEDBACK                                                                                                                                                                                                                                                                                                               | 寶拉、《Unpretty Rap Star》學員Kisum、Lil cham、Jace                                                                                                                                                                                                                                                                                      |                                                          |
-| Dark Panda（다크팬더)                                     | 孝琳、Block B-ZICO、Paloalto                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| THE WALL DESTROYER                                   | 孝琳、Kebee                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| Lean On Me(어깨)                                       | 韶宥、權正烈（[10cm](../Page/10cm.md "wikilink"))                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 사르르 (Softly)                                         | Starship Planet                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 언프리티 랩스타 (Don't stop)                                | Unpretty Rap Star 2 (孝琳)                                                                                                                                                                                                                                                                                               | 《Unpretty Rap Star 2》Track \#1                                                                                                                                                                                                                                                                                                   |                                                          |
-| 사랑 할 때 아니야 (Money)                                   | 孝琳、朴載範、Geegooin                                                                                                                                                                                                                                                                                                        | 《Unpretty Rap Star 2》Track \#5                                                                                                                                                                                                                                                                                                   |                                                          |
-| My Love                                              | 孝琳、Basick                                                                                                                                                                                                                                                                                                              | 收錄於《Unpretty Rap Star Semi-final Part 1》                                                                                                                                                                                                                                                                                         |                                                          |
-| My Life                                              | Sangjuna (feat. 孝琳)                                                                                                                                                                                                                                                                                                    | 收錄於《無限挑戰 嶺東高速公路歌謠祭》EP合輯                                                                                                                                                                                                                                                                                                          |                                                          |
-| Love Line                                            | 孝琳、Jooyoung、Bumkey                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 2016年                                                | One More Day                                                                                                                                                                                                                                                                                                           | 全體                                                                                                                                                                                                                                                                                                                               |                                                          |
-| 2017年                                                | You & I                                                                                                                                                                                                                                                                                                                | 多順、40 (포티)                                                                                                                                                                                                                                                                                                                       | Starship Entertainment 獨立音樂企劃「VINTAGE BOX PROJECT」的第四首歌曲 |
-| [비가 와（Rain）](../Page/Rain_\(韶宥與伯賢單曲\).md "wikilink") | 韶宥、[伯賢](../Page/伯賢.md "wikilink")（EXO）                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| 완벽해(完美)                                              | 韶宥、 Letter Flow                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                  |                                                          |
-| BLUE MOON                                            | 孝琳、CHANGMO                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                  |                                                          |
+|                                                                         |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 年份                                                                      | 歌曲名稱                                                                                                                                                                                                                                                                                                                                                         | 參與成員                                                                                                                                                                                                                                                                                                                                                                                                                            | 備註                                                       |
+| 2010年                                                                   | WE NEVER GO ALONE                                                                                                                                                                                                                                                                                                                                            | 全體                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010世界盃應援單曲                                              |
+| Chronos Soul                                                            | EA Mobile 韓國分公司旗下遊戲《Chronos Sword》                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| Super Girl                                                              | 三星3D電視廣告音樂CF                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| Magic Drag                                                              | [張根碩](../Page/張根碩.md "wikilink")（Feat.孝琳）                                                                                                                                                                                                                                                                                                                    | 三星 YEPP CF                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                          |
+| 2011年                                                                   | Hot Place                                                                                                                                                                                                                                                                                                                                                    | 全體（Feat. Brave Sound）                                                                                                                                                                                                                                                                                                                                                                                                           | 三星網絡商城主題曲                                                |
+| Ma Boy 2                                                                | Electroboyz（Feat.孝琳）                                                                                                                                                                                                                                                                                                                                         | 收錄於《Rebirth》                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                          |
+| 기가 차                                                                    | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")（Feat.孝琳、Simon D）                                                                                                                                                                                                                                                                                   | 收錄於《My Heart Is Beating》                                                                                                                                                                                                                                                                                                                                                                                                        |                                                          |
+| Pink Romance                                                            | StarShip Planet                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 2012年                                                                   | Win The Day                                                                                                                                                                                                                                                                                                                                                  | Sistar、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[B1A4](../Page/B1A4.md "wikilink")、[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")、[Nine Muses](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")、[ZE:A](https://zh.wikipedia.org/wiki/ZE:A "wikilink") | 2012奧運應援歌曲                                               |
+| Officially Missing You, Too                                             | 韶宥、Geeks                                                                                                                                                                                                                                                                                                                                                     | 收錄於《re;code EpisodeⅠ》                                                                                                                                                                                                                                                                                                                                                                                                           |                                                          |
+| White Love                                                              | 韶宥、[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 人魚公主 (Mermaid Princess)                                                 | 寶拉、[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")（[Kara](../Page/Kara.md "wikilink")）、[嘉允](../Page/許嘉允.md "wikilink")（[4minute](../Page/4minute.md "wikilink")）、[善伙](../Page/韓善伙.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")（[After School](../Page/After_School.md "wikilink")） | 《2012 SBS歌謠大戰》「The Color of K-Pop」Mystic White團體                                                                                                                                                                                                                                                                                                                                                                                |                                                          |
+| This Person                                                             | 孝琳、[Nicole](../Page/鄭龍珠.md "wikilink")（Kara）、[泫雅](../Page/金泫雅.md "wikilink")（4minute）、[烋星](../Page/全烋星.md "wikilink")（Secret）、[NaNa](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")（After School）                                                                                                                                                             | 《2012 SBS歌謠大戰》「The Color of K-Pop」Dazzling Red團體                                                                                                                                                                                                                                                                                                                                                                                |                                                          |
+| 2013年                                                                   | GoodBye                                                                                                                                                                                                                                                                                                                                                      | 昭宥、洪大光                                                                                                                                                                                                                                                                                                                                                                                                                          | 收錄於《멀어진다》                                                |
+| Hot Wings                                                               | Dynamic Duo（Feat.孝琳）                                                                                                                                                                                                                                                                                                                                         | 收錄於《7輯 LUCKYNUMBERS》                                                                                                                                                                                                                                                                                                                                                                                                            |                                                          |
+| 착해 빠졌어 (Stupid In Love)                                                 | 韶宥、Mad Clown                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 눈사탕 (Snow Candy)                                                        | Starship Planet                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 2014年                                                                   | Some                                                                                                                                                                                                                                                                                                                                                         | 韶宥、鄭基高（Feat. Lil Boi（Geeks））                                                                                                                                                                                                                                                                                                                                                                                                    |                                                          |
+| Without You (견딜만해)                                                      | Madclown（Feat.孝琳）                                                                                                                                                                                                                                                                                                                                            | 收錄於Mad Clown 的第二張迷你專輯《狠毒》                                                                                                                                                                                                                                                                                                                                                                                                       |                                                          |
+| 고장난 선풍기 (Faulty Fan)                                                    | MC夢（Feat. Gary（LeeSsang）、孝琳）                                                                                                                                                                                                                                                                                                                                 | 收錄於《6輯 Miss Me Or Diss Me》                                                                                                                                                                                                                                                                                                                                                                                                      |                                                          |
+| The Space Between                                                       | 韶宥、權順日、朴容仁（Urban Zakapa）                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| Erase                                                                   | 孝琳、Joo Young（Feat. Iron）                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| Love Is You                                                             | Starship Planet                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 2015年                                                                   | FEEDBACK                                                                                                                                                                                                                                                                                                                                                     | 寶拉、《Unpretty Rap Star》學員Kisum、Lil cham、Jace                                                                                                                                                                                                                                                                                                                                                                                     |                                                          |
+| Dark Panda（다크팬더)                                                        | 孝琳、Block B-ZICO、Paloalto                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| THE WALL DESTROYER                                                      | 孝琳、Kebee                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| Lean On Me(어깨)                                                          | 韶宥、權正烈（[10cm](../Page/10cm.md "wikilink"))                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 사르르 (Softly)                                                            | Starship Planet                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 언프리티 랩스타 (Don't stop)                                                   | Unpretty Rap Star 2 (孝琳)                                                                                                                                                                                                                                                                                                                                     | 《Unpretty Rap Star 2》Track \#1                                                                                                                                                                                                                                                                                                                                                                                                  |                                                          |
+| 사랑 할 때 아니야 (Money)                                                      | 孝琳、朴載範、Geegooin                                                                                                                                                                                                                                                                                                                                              | 《Unpretty Rap Star 2》Track \#5                                                                                                                                                                                                                                                                                                                                                                                                  |                                                          |
+| My Love                                                                 | 孝琳、Basick                                                                                                                                                                                                                                                                                                                                                    | 收錄於《Unpretty Rap Star Semi-final Part 1》                                                                                                                                                                                                                                                                                                                                                                                        |                                                          |
+| My Life                                                                 | Sangjuna (feat. 孝琳)                                                                                                                                                                                                                                                                                                                                          | 收錄於《無限挑戰 嶺東高速公路歌謠祭》EP合輯                                                                                                                                                                                                                                                                                                                                                                                                         |                                                          |
+| Love Line                                                               | 孝琳、Jooyoung、Bumkey                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 2016年                                                                   | One More Day                                                                                                                                                                                                                                                                                                                                                 | 全體                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                          |
+| 2017年                                                                   | You & I                                                                                                                                                                                                                                                                                                                                                      | 多順、40 (포티)                                                                                                                                                                                                                                                                                                                                                                                                                      | Starship Entertainment 獨立音樂企劃「VINTAGE BOX PROJECT」的第四首歌曲 |
+| [비가 와（Rain）](https://zh.wikipedia.org/wiki/Rain_\(韶宥與伯賢單曲\) "wikilink") | 韶宥、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")（EXO）                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| 완벽해(完美)                                                                 | 韶宥、 Letter Flow                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
+| BLUE MOON                                                               | 孝琳、CHANGMO                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                          |
 
 ## 影視作品
 
@@ -551,52 +555,53 @@ You》下載量達將近100萬（968949）排在第十位。
 
 2014：SISTAR's Midnight In Hongkong
 
-2015：[SISTAR'S SHOWTIME](../Page/SISTAR'S_SHOWTIME.md "wikilink")
+2015：[SISTAR'S
+SHOWTIME](https://zh.wikipedia.org/wiki/SISTAR'S_SHOWTIME "wikilink")
 
 ## 廣告代言
 
-| 廣告代言列表                                       |
-| -------------------------------------------- |
-| 日期                                           |
-| 2010年                                        |
-| 動作遊戲 Chronos Sword                           |
-| 三星Galaxy Player                              |
-| S.T.L体育用品                                    |
-| 2011年                                        |
-| Club Rococo化妝品                               |
-| FPS遊戲 DIZZEL                                 |
-| 2012年                                        |
-| CLRIDE.N服飾                                   |
-| Pelicana炸雞                                   |
-| Holika Holika化妝品                             |
-| Veloster Turbo現代飛思Turbo渦輪增壓版轎跑車              |
-| 奧運代言機 Galaxy SIII                            |
-| GALAXY R STYLE“手機                            |
-| Mirror War 網絡遊戲                              |
-| 雙龍汽車Korando C                                |
-| 樂天“初飲初樂”燒酒                                   |
-| “Hemoramin”補鐵薄膜片劑                            |
-| Snickers                                     |
-| 樂天“讓我們cafetime”罐裝咖啡                          |
-| 戶外運動品牌“NEPA”                                 |
-| 2013年                                        |
-| “Ocean World” 水上樂園                           |
-| “Open market” 11號街                           |
-| 牛奶品牌“ Milk Nara”                             |
-| 秋冬服饰品牌“Plastic Island”                       |
-| 2014年                                        |
-| California Almonds                           |
-| [可口可樂](../Page/可口可乐公司.md "wikilink")"太陽瑪黛茶"  |
-| [Adidas](../Page/Adidas.md "wikilink") Women |
-| Clarisonic洗臉機                                |
-| 11번가 (SK Planet)                             |
-| 2015年                                        |
-| Skechers                                     |
-| About Me 化妝品                                 |
-| Bibigo餃子                                     |
-| 2016年                                        |
-| Lets Run Park 主题公园                           |
-| 「海戰1942」手機遊戲                                 |
+| 廣告代言列表                                                          |
+| --------------------------------------------------------------- |
+| 日期                                                              |
+| 2010年                                                           |
+| 動作遊戲 Chronos Sword                                              |
+| 三星Galaxy Player                                                 |
+| S.T.L体育用品                                                       |
+| 2011年                                                           |
+| Club Rococo化妝品                                                  |
+| FPS遊戲 DIZZEL                                                    |
+| 2012年                                                           |
+| CLRIDE.N服飾                                                      |
+| Pelicana炸雞                                                      |
+| Holika Holika化妝品                                                |
+| Veloster Turbo現代飛思Turbo渦輪增壓版轎跑車                                 |
+| 奧運代言機 Galaxy SIII                                               |
+| GALAXY R STYLE“手機                                               |
+| Mirror War 網絡遊戲                                                 |
+| 雙龍汽車Korando C                                                   |
+| 樂天“初飲初樂”燒酒                                                      |
+| “Hemoramin”補鐵薄膜片劑                                               |
+| Snickers                                                        |
+| 樂天“讓我們cafetime”罐裝咖啡                                             |
+| 戶外運動品牌“NEPA”                                                    |
+| 2013年                                                           |
+| “Ocean World” 水上樂園                                              |
+| “Open market” 11號街                                              |
+| 牛奶品牌“ Milk Nara”                                                |
+| 秋冬服饰品牌“Plastic Island”                                          |
+| 2014年                                                           |
+| California Almonds                                              |
+| [可口可樂](../Page/可口可乐公司.md "wikilink")"太陽瑪黛茶"                     |
+| [Adidas](https://zh.wikipedia.org/wiki/Adidas "wikilink") Women |
+| Clarisonic洗臉機                                                   |
+| 11번가 (SK Planet)                                                |
+| 2015年                                                           |
+| Skechers                                                        |
+| About Me 化妝品                                                    |
+| Bibigo餃子                                                        |
+| 2016年                                                           |
+| Lets Run Park 主题公园                                              |
+| 「海戰1942」手機遊戲                                                    |
 
 ### 宣傳大使
 
@@ -771,19 +776,19 @@ You》下載量達將近100萬（968949）排在第十位。
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Give_It_To_Me.md" title="wikilink">Give It To Me</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Give_It_To_Me" title="wikilink">Give It To Me</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/TOUCH_&amp;_MOVE.md" title="wikilink">TOUCH &amp; MOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOUCH_&amp;_MOVE" title="wikilink">TOUCH &amp; MOVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>壞手(Feat.Verbal Jint)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Sweet_&amp;_Sour.md" title="wikilink">Sweet &amp; Sour</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sweet_&amp;_Sour" title="wikilink">Sweet &amp; Sour</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -861,7 +866,7 @@ You》下載量達將近100萬（968949）排在第十位。
 <tbody>
 <tr class="odd">
 <td><p>2010</p></td>
-<td><p><a href="../Page/第一屆偶像明星田徑錦標賽.md" title="wikilink">第一屆偶像明星田徑錦標賽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第一屆偶像明星田徑錦標賽" title="wikilink">第一屆偶像明星田徑錦標賽</a></p></td>
 <td><p>女子110米跨欄</p></td>
 <td><p>金牌（寶拉）</p></td>
 </tr>
@@ -891,7 +896,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="../Page/第二屆偶像明星田徑游泳錦標賽.md" title="wikilink">第二屆偶像明星田徑游泳錦標賽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第二屆偶像明星田徑游泳錦標賽" title="wikilink">第二屆偶像明星田徑游泳錦標賽</a></p></td>
 <td><p>女子50米</p></td>
 <td><p>金牌（寶拉）</p></td>
 </tr>
@@ -927,7 +932,7 @@ You》下載量達將近100萬（968949）排在第十位。
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="../Page/第四屆偶像明星田徑游泳錦標賽.md" title="wikilink">第四屆偶像明星田徑游泳錦標賽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第四屆偶像明星田徑游泳錦標賽" title="wikilink">第四屆偶像明星田徑游泳錦標賽</a></p></td>
 <td><p>女子50米跨欄</p></td>
 <td><p>銀牌（寶拉）</p></td>
 </tr>

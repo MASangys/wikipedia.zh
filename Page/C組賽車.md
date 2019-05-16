@@ -1,6 +1,6 @@
 [Group_C_sticker.jpg](https://zh.wikipedia.org/wiki/File:Group_C_sticker.jpg "fig:Group_C_sticker.jpg")的標籤紙，說明此輛車屬於C組賽車的範疇\]\]
 **C組賽車**（Group
-C）是一種[賽車運動的分類](../Page/賽車.md "wikilink")，1981年根據[國際汽車聯合會](../Page/國際汽車聯合會.md "wikilink")（Fédération
+C）是一種[賽車運動的分類](../Page/賽車.md "wikilink")，1981年根據[國際汽車聯合會](https://zh.wikipedia.org/wiki/國際汽車聯合會 "wikilink")（Fédération
 Internationale de l'Automobile，縮寫成FIA）的前身「國際汽車運動聯盟」（Fédération
 Internationale du Sport
 Automobile，縮寫成FISA）制定的《國際賽車運動規則附則J項》中的第1至8號規則，分別改成A、B、C、D、E、N、S等分組；C組規範即為其中之一。
@@ -16,7 +16,7 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
   - 1982年：基於C組賽車規範的WEC世界耐力錦標賽選手權（World Endurance
     Championship，縮寫成WEC，後改稱「World Sportscar
     Championship
-    」）正式開始舉行，位於[法國](../Page/法國.md "wikilink")[巴黎西南方](../Page/巴黎.md "wikilink")200公里的小城[利曼舉辦的](../Page/利曼.md "wikilink")[利曼24小時耐力賽也被納入該組](../Page/勒芒24小時耐力賽.md "wikilink")。車輛的最低重量是800公斤、油箱容量限制在100公升；根據比賽的距離，油料補給的次數也有限制。因為該耐力賽規定補給次數在25次內，所以含剛起跑時所搭載的燃料，最多只能使用2,600公升。
+    」）正式開始舉行，位於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎西南方](../Page/巴黎.md "wikilink")200公里的小城[利曼舉辦的](https://zh.wikipedia.org/wiki/利曼 "wikilink")[利曼24小時耐力賽也被納入該組](https://zh.wikipedia.org/wiki/勒芒24小時耐力賽 "wikilink")。車輛的最低重量是800公斤、油箱容量限制在100公升；根據比賽的距離，油料補給的次數也有限制。因為該耐力賽規定補給次數在25次內，所以含剛起跑時所搭載的燃料，最多只能使用2,600公升。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
 
   - 1991年：將「WSPC世界運動原型車錦標賽選手權」（World Sports Prototype-car
     Championship）改稱為「WSC世界賽車選手權錦標賽」（World Sportscar
-    Championship），規則也修改成[引擎必須和](../Page/發動機.md "wikilink")[F1一樣的](../Page/一級方程式賽車.md "wikilink")3,500c.c.、自然吸氣引擎。因此當年度某些參賽車輛依循舊規則製造，在重量不利的條件下暫且被允許下場參賽。這是後來升任成[FIA會長的麥克斯](../Page/國際汽車聯合會.md "wikilink")·摩斯利（Max
+    Championship），規則也修改成[引擎必須和](https://zh.wikipedia.org/wiki/發動機 "wikilink")[F1一樣的](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")3,500c.c.、自然吸氣引擎。因此當年度某些參賽車輛依循舊規則製造，在重量不利的條件下暫且被允許下場參賽。這是後來升任成[FIA會長的麥克斯](https://zh.wikipedia.org/wiki/國際汽車聯合會 "wikilink")·摩斯利（Max
     Rufus
     Mosley）提倡的「將F1與引擎規則共通化，以便參加C組賽車的汽車廠容易供給引擎給F1，這對兩邊都有利」。不料，此舉反而導致五年前加入比賽的眾多車廠打退堂鼓；雖然翌年WSC取消這條規則，但事實上C組的賽事因參賽者減少而岌岌可危。
 
@@ -63,7 +63,7 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
 
   - 保時捷956（連續贏得1982至1985年利曼24小時耐力賽冠軍）
   - 保時捷962C（連續贏得1986至1987年利曼24小時耐力賽冠軍）
-  - 梅賽德斯-賓士C11（贏得1990年WSPC世界運動原型車錦標賽選手權，[舒馬克也是賽車手之一](../Page/邁克爾·舒馬赫.md "wikilink")）
+  - 梅賽德斯-賓士C11（贏得1990年WSPC世界運動原型車錦標賽選手權，[舒馬克也是賽車手之一](https://zh.wikipedia.org/wiki/邁克爾·舒馬赫 "wikilink")）
   - 梅賽德斯-賓士C291
 
 ### 義大利
@@ -78,7 +78,7 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
 
   - 捷豹XJR-9（贏得1988年利曼24小時耐力賽冠軍）
   - 捷豹XJR-12（贏得1990年利曼24小時耐力賽冠軍）
-  - 捷豹XJR-14（贏得1991年WSC世界賽車選手權錦標賽選手權，設計者為[羅斯·布朗](../Page/羅斯·布朗.md "wikilink")）
+  - 捷豹XJR-14（贏得1991年WSC世界賽車選手權錦標賽選手權，設計者為[羅斯·布朗](https://zh.wikipedia.org/wiki/羅斯·布朗 "wikilink")）
 
 ### 瑞士
 
@@ -90,19 +90,19 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
 
 [Festival_automobile_international_2011_-_Vente_aux_enchères_-_Peugeot_905_EV_2.1_'Supercopter'_-_1993_-_003.jpg](https://zh.wikipedia.org/wiki/File:Festival_automobile_international_2011_-_Vente_aux_enchères_-_Peugeot_905_EV_2.1_'Supercopter'_-_1993_-_003.jpg "fig:Festival_automobile_international_2011_-_Vente_aux_enchères_-_Peugeot_905_EV_2.1_'Supercopter'_-_1993_-_003.jpg")
 
-  - 標緻905（連續贏得1992至1993年利曼24小時耐力賽冠軍，領導車隊的是[讓·托德](../Page/讓·托德.md "wikilink")）
+  - 標緻905（連續贏得1992至1993年利曼24小時耐力賽冠軍，領導車隊的是[讓·托德](https://zh.wikipedia.org/wiki/讓·托德 "wikilink")）
 
 ### 日本
 
   - [馬自達787B](../Page/馬自達787.md "wikilink")（贏得1991年利曼24小時耐力賽總合冠軍，也是[日本車廠首度在該賽中獲勝](../Page/日本.md "wikilink")）
   - [馬自達MX-R01](../Page/馬自達MX-R01.md "wikilink")
-  - 進行曲85G/日產（贏得1985年WEC-JAPAN日本耐力錦標賽冠軍，該輛賽車以[英國進行曲機械公司](../Page/英國.md "wikilink")〔March
-    Engineering〕的[底盤搭配](../Page/底盤.md "wikilink")[日產汽車的](../Page/日產汽車.md "wikilink")3.0L
+  - 進行曲85G/日產（贏得1985年WEC-JAPAN日本耐力錦標賽冠軍，該輛賽車以[英國進行曲機械公司](https://zh.wikipedia.org/wiki/英國 "wikilink")〔March
+    Engineering〕的[底盤搭配](https://zh.wikipedia.org/wiki/底盤 "wikilink")[日產汽車的](../Page/日產汽車.md "wikilink")3.0L
     V型六缸VG30型引擎而成）
-  - 進行曲86G/日產（第一輛搭載日本國產引擎獲得1987年WEC-JAPAN日本耐力錦標賽[桿位的賽車](../Page/頭位.md "wikilink")）
+  - 進行曲86G/日產（第一輛搭載日本國產引擎獲得1987年WEC-JAPAN日本耐力錦標賽[桿位的賽車](https://zh.wikipedia.org/wiki/頭位 "wikilink")）
   - 日產R89C
   - 日產R90CP（贏得1990年JSPC日本運動原型車錦標賽冠軍）
-  - 日產R90CK（獲得1990年利曼24小時耐力賽[桿位](../Page/頭位.md "wikilink")，英國製）
+  - 日產R90CK（獲得1990年利曼24小時耐力賽[桿位](https://zh.wikipedia.org/wiki/頭位 "wikilink")，英國製）
   - 日產R91CP（贏得1992年德多納24小時耐力賽〔24 Hours of Daytona〕冠軍，也是日產汽車首輛自製的C組賽車）
   - 日產R92CP（贏得1992年JSPC日本運動原型車錦標賽冠軍，更在舊富士高速賽道〔富士スピードウェイ〕創下超過每小時四百公里的紀錄）
   - 日產NP35
@@ -118,8 +118,8 @@ C組賽車規範的最大特徵就是對總燃料使用量的限制，雖然引�
 
 ## 內部連結
 
-  - [N組賽車](../Page/N組賽車.md "wikilink")
-  - [利曼24小時耐力賽](../Page/勒芒24小時耐力賽.md "wikilink")
+  - [N組賽車](https://zh.wikipedia.org/wiki/N組賽車 "wikilink")
+  - [利曼24小時耐力賽](https://zh.wikipedia.org/wiki/勒芒24小時耐力賽 "wikilink")
 
 ## 外部連結
 

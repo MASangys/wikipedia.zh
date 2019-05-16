@@ -1,4 +1,4 @@
-**AKB48劇場**（，）位於[日本](../Page/日本.md "wikilink")[東京](../Page/東京.md "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")，是大型女子組合[AKB48專用的演出場所](../Page/AKB48.md "wikilink")（[LiveHouse](../Page/LiveHouse.md "wikilink")）。AKB48自出道以來最主要的演藝工作——[劇場公演](../Page/AKB48劇場公演.md "wikilink")，除了特殊場合外，均在此由各[Team（分隊）輪流演出](../Page/AKB48組合構成.md "wikilink")。
+**AKB48劇場**（，）位於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")，是大型女子組合[AKB48專用的演出場所](../Page/AKB48.md "wikilink")（[LiveHouse](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")）。AKB48自出道以來最主要的演藝工作——[劇場公演](../Page/AKB48劇場公演.md "wikilink")，除了特殊場合外，均在此由各[Team（分隊）輪流演出](../Page/AKB48組合構成.md "wikilink")。
 
 基於「可以面對面的偶像」的概念，該劇場可說是AKB48的活動根據地。自2005年12月8日的出道公演以來，該劇場在常態上由AKB48專用，唯一的例外為其姊妹團體[SDN48](../Page/SDN48.md "wikilink")，在2009年8月出道起至2012年3月解散期間共用此場地舉行劇場公演。此外，AKB48其他[姊妹團體也會不定期在該劇場舉辦客場公演](../Page/AKB48集團.md "wikilink")。
 
@@ -9,7 +9,7 @@
 
 ### 選擇秋葉原的理由
 
-基於「從最符合時代與流行趨勢的地方產生[偶像](../Page/日本偶像.md "wikilink")」这点，AKB48總製作人[秋元康考慮到](../Page/秋元康.md "wikilink")[御宅族這一群體](../Page/御宅族.md "wikilink")，將擁有大量年輕[萌系愛好者市場的](../Page/萌.md "wikilink")[秋葉原作爲了候選](../Page/秋葉原.md "wikilink")。因此若新偶像要招攬狂熱的支持者，秋葉原就是最適合的地點。
+基於「從最符合時代與流行趨勢的地方產生[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")」这点，AKB48總製作人[秋元康考慮到](../Page/秋元康.md "wikilink")[御宅族這一群體](../Page/御宅族.md "wikilink")，將擁有大量年輕[萌系愛好者市場的](../Page/萌.md "wikilink")[秋葉原作爲了候選](../Page/秋葉原.md "wikilink")。因此若新偶像要招攬狂熱的支持者，秋葉原就是最適合的地點。
 
 ### 選擇唐吉訶德秋葉原店8樓的理由
 
@@ -27,7 +27,7 @@
 
 ### 2根柱子
 
-在劇場內前方左右有2根大柱子，由於房屋結構的因素，使得柱子無法撤去。柱子將舞台分割為左側1/4、中央2/4、右側1/4三個部分。因此，除去最前排的觀衆席任何位置也不能一眼囊括整個舞台。這兩根柱子也是AKB48的官方[歌迷俱樂部取名為](../Page/爱好者.md "wikilink")「柱之會」的由來。另外，在兩根柱子的中間附近向旁邊貼有粉紅色[膠布](../Page/膠帶.md "wikilink")，每年劇場開場紀念日（12月8日）的時候會增加1條，现已增加到12条。
+在劇場內前方左右有2根大柱子，由於房屋結構的因素，使得柱子無法撤去。柱子將舞台分割為左側1/4、中央2/4、右側1/4三個部分。因此，除去最前排的觀衆席任何位置也不能一眼囊括整個舞台。這兩根柱子也是AKB48的官方[歌迷俱樂部取名為](../Page/爱好者.md "wikilink")「柱之會」的由來。另外，在兩根柱子的中間附近向旁邊貼有粉紅色[膠布](https://zh.wikipedia.org/wiki/膠帶 "wikilink")，每年劇場開場紀念日（12月8日）的時候會增加1條，现已增加到12条。
 
 ### 照明器具
 
@@ -43,7 +43,7 @@
 
 ### 音響器材
 
-設置了[Electro-Voice製造的揚聲器](../Page/Electro-Voice.md "wikilink")。
+設置了[Electro-Voice製造的揚聲器](https://zh.wikipedia.org/wiki/Electro-Voice "wikilink")。
 
 ## 劇場前廳
 
@@ -69,7 +69,7 @@
 #### 48's Cafe
 
 從劇場開設時起到2008年末前廳是名爲「48's
-Cafe」的咖啡空間。提供[各種飲料和](../Page/軟性飲料.md "wikilink")[雪糕外加](../Page/軟雪糕.md "wikilink")[抓飯和](../Page/抓飯.md "wikilink")[蛋包飯等](../Page/蛋包飯.md "wikilink")[小吃](../Page/小吃.md "wikilink")。
+Cafe」的咖啡空間。提供[各種飲料和](../Page/軟性飲料.md "wikilink")[雪糕外加](https://zh.wikipedia.org/wiki/軟雪糕 "wikilink")[抓飯和](https://zh.wikipedia.org/wiki/抓飯 "wikilink")[蛋包飯等](../Page/蛋包飯.md "wikilink")[小吃](../Page/小吃.md "wikilink")。
 
   - 在前廳的驚喜
 
@@ -90,7 +90,7 @@ SHOP」，結束了在前廳的銷售。
 
 #### 有獎扭蛋
 
-過去前廳設置有数台[扭蛋機](../Page/扭蛋.md "wikilink")（通称：）。分期間銷售。1次300日元。裏面裝有印有成員照片的圓形徽章與貼紙，此后加入了各类奖券与未中券。
+過去前廳設置有数台[扭蛋機](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")（通称：）。分期間銷售。1次300日元。裏面裝有印有成員照片的圓形徽章與貼紙，此后加入了各类奖券与未中券。
 
 由于封入獎品的不透明性和沒有收據等問題，[2009年5月之後停止銷售](../Page/2009年5月.md "wikilink")。
 

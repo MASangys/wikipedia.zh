@@ -1,8 +1,8 @@
-**Crea-Tech**（），日本游戏开发公司。总部设立于[东京](../Page/东京.md "wikilink")[江東區](../Page/江東區_\(東京都\).md "wikilink")[新大橋](https://zh.wikipedia.org/wiki/新大橋_\(江東區\) "wikilink")。
+**Crea-Tech**（），日本游戏开发公司。总部设立于[东京](../Page/东京.md "wikilink")[江東區](../Page/江東區_\(東京都\).md "wikilink")[新大橋](../Page/新大橋_\(江東區\).md "wikilink")。
 
 ## 概要
 
-Crea-Tech是由[宫冈宽建立于](../Page/宫冈宽.md "wikilink")1988年的[电子游戏开发公司](../Page/电子游戏.md "wikilink")，以[角色扮演游戏](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")[重装机兵系列的企划与开发而出名](../Page/重装机兵系列.md "wikilink")，此外公司亦有不少的[圖版遊戲作品](../Page/圖版遊戲.md "wikilink")。在游戏平台上，公司以[电视游戏开发为主](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")，此外也开发了一些电脑游戏和手机游戏。
+Crea-Tech是由[宫冈宽建立于](../Page/宫冈宽.md "wikilink")1988年的[电子游戏开发公司](../Page/电子游戏.md "wikilink")，以[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")[重装机兵系列的企划与开发而出名](../Page/重装机兵系列.md "wikilink")，此外公司亦有不少的[圖版遊戲作品](../Page/圖版遊戲.md "wikilink")。在游戏平台上，公司以[电视游戏开发为主](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")，此外也开发了一些电脑游戏和手机游戏。
 
 ## 主要作品
 

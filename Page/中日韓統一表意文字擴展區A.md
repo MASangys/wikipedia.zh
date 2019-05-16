@@ -1,10 +1,10 @@
-**中日韓統一表意文字擴展區A**（）是一個[Unicode標準](../Page/Unicode.md "wikilink")，在Unicode版本3.0被引入。
+**中日韓統一表意文字擴展區A**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在Unicode版本3.0被引入。
 
 扩展A区包含6582個漢字，位置在 U+3400—U+4DB5。這6千多個漢字分別從以下字典或字集中取得：
 
   - 中國大陆
       - 《[康熙字典](../Page/康熙字典.md "wikilink")》5357字（独有1892字）
-      - 《[漢語大字典](../Page/漢語大字典.md "wikilink")》5888字（独有339字）
+      - 《[漢語大字典](https://zh.wikipedia.org/wiki/漢語大字典 "wikilink")》5888字（独有339字）
       - G3：GB 7589-87 繁体版本：2391字
       - G5：GB 7590-87 繁体版本：1226字
       - G7：120字
@@ -15,8 +15,9 @@
 
   - 中華民國（台灣）
 
-      - T3：[CNS 11643-1992](../Page/國家標準中文交換碼.md "wikilink") 第三字面（原本為CNS
-        11643-1986第十四字面）新加入字元
+      - T3：[CNS
+        11643-1992](https://zh.wikipedia.org/wiki/國家標準中文交換碼 "wikilink")
+        第三字面（原本為CNS 11643-1986第十四字面）新加入字元
       - T4：CNS 11643-1992 第四字面
       - T5：CNS 11643-1992 第五字面
       - T6：CNS 11643-1992 第六字面
@@ -29,17 +30,20 @@
 
   - 韓国
 
-      - K2：[PKS C 5700](../Page/PKS_5700.md "wikilink")-1:1994
+      - K2：[PKS C
+        5700](https://zh.wikipedia.org/wiki/PKS_5700 "wikilink")-1:1994
       - K3：PKS C 5700-2:1994
 
   - 越南
 
-      - V0：[TCVN 5773](../Page/TCVN_5773.md "wikilink"):1993
-      - V1：[TCVN 6056](../Page/TCVN_6056.md "wikilink"):1995
+      - V0：[TCVN
+        5773](https://zh.wikipedia.org/wiki/TCVN_5773 "wikilink"):1993
+      - V1：[TCVN
+        6056](https://zh.wikipedia.org/wiki/TCVN_6056 "wikilink"):1995
 
 ## 参见
 
-  - [中日韩越统一表意文字](../Page/中日韩越统一表意文字.md "wikilink")
+  - [中日韩越统一表意文字](https://zh.wikipedia.org/wiki/中日韩越统一表意文字 "wikilink")
 
 ## 參考文獻
 

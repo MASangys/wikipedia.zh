@@ -1,8 +1,8 @@
 **XFS**，一种高性能的[日志文件系统](../Page/日志文件系统.md "wikilink")，最早於1993年，由[Silicon
-Graphics为他们的](../Page/Silicon_Graphics.md "wikilink")[IRIX](../Page/IRIX.md "wikilink")[操作系统而开发](../Page/操作系统.md "wikilink")，是IRIX
+Graphics为他们的](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")[IRIX](../Page/IRIX.md "wikilink")[操作系统而开发](../Page/操作系统.md "wikilink")，是IRIX
 5.3版的預設檔案系統。2000年5月，[Silicon
-Graphics以](../Page/Silicon_Graphics.md "wikilink")[GNU通用公共许可证釋出這套系統的原始碼](../Page/GNU通用公共许可证.md "wikilink")，之後被移植到[Linux内核上](../Page/Linux内核.md "wikilink")。XFS特别擅长处理大文件，同时提供平滑的[数据传输](../Page/数据传输.md "wikilink")。目前[CentOS
-7也将XFS](../Page/CentOS.md "wikilink")+[LVM作为默认的文件系统](../Page/LVM.md "wikilink")。
+Graphics以](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")[GNU通用公共许可证釋出這套系統的原始碼](../Page/GNU通用公共许可证.md "wikilink")，之後被移植到[Linux内核上](../Page/Linux内核.md "wikilink")。XFS特别擅长处理大文件，同时提供平滑的[数据传输](../Page/数据传输.md "wikilink")。目前[CentOS
+7也将XFS](../Page/CentOS.md "wikilink")+[LVM作为默认的文件系统](https://zh.wikipedia.org/wiki/LVM "wikilink")。
 
 ## 历史
 
@@ -13,26 +13,27 @@ XFS最初被合并到[Linux](../Page/Linux内核.md "wikilink")
 2.4主线中，这使得XFS几乎可以被用在任何一个Linux系统上。[Arch](../Page/Arch_Linux.md "wikilink"),
 [Debian](../Page/Debian.md "wikilink"),
 [Fedora](../Page/Fedora.md "wikilink"),
-[openSUSE](../Page/openSUSE.md "wikilink"),
+[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink"),
 [Gentoo](../Page/Gentoo_Linux.md "wikilink"), [Kate
-OS](../Page/Kate_OS.md "wikilink"),
+OS](https://zh.wikipedia.org/wiki/Kate_OS "wikilink"),
 [Mandriva](../Page/Mandriva.md "wikilink"),
 [Slackware](../Page/Slackware.md "wikilink"),
-[Ubuntu](../Page/Ubuntu_Linux.md "wikilink"),
-[VectorLinux和](../Page/VectorLinux.md "wikilink")[Zenwalk的安装程序中都可选择XFS作为文件系统](../Page/Zenwalk.md "wikilink")，但由于預設的启动管理器[GRUB中存在bug](../Page/GNU_GRUB.md "wikilink")\[1\]，以上发行版中只有少数几个允许用户在
-/boot [挂载点](../Page/挂载点.md "wikilink")（引导目录）上使用XFS文件系统。
+[Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink"),
+[VectorLinux和](https://zh.wikipedia.org/wiki/VectorLinux "wikilink")[Zenwalk的安装程序中都可选择XFS作为文件系统](https://zh.wikipedia.org/wiki/Zenwalk "wikilink")，但由于預設的启动管理器[GRUB中存在bug](../Page/GNU_GRUB.md "wikilink")\[1\]，以上发行版中只有少数几个允许用户在
+/boot
+[挂载点](https://zh.wikipedia.org/wiki/挂载点 "wikilink")（引导目录）上使用XFS文件系统。
 
 [FreeBSD在](../Page/FreeBSD.md "wikilink")2005年12月获得了对XFS的只读支持，并在次年6月引入了试验性的写支持。不过这些只是为了方便用户从Linux上迁移到FreeBSD上，并不是为了把XFS作为主打文件系统使用。[Red
 Hat Enterprise
 Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 5.4
-[64位版的内核完整支持XFS](../Page/64位.md "wikilink")，但未包含创建和使用XFS的命令行工具（[CentOS正在进行这方面的尝试](../Page/CentOS.md "wikilink")），原因是这些软件包还不够稳定\[2\]。Red
+[64位版的内核完整支持XFS](https://zh.wikipedia.org/wiki/64位 "wikilink")，但未包含创建和使用XFS的命令行工具（[CentOS正在进行这方面的尝试](../Page/CentOS.md "wikilink")），原因是这些软件包还不够稳定\[2\]。Red
 Hat Enterprise Linux 7/CentOS預設使用XFS檔案系統。\[3\]
 
 ## 规范
 
 ### 容量
 
-XFS是一个[64位文件系统](../Page/64位.md "wikilink")，最大支持8[exbibytes减](../Page/exbibyte.md "wikilink")1字节的单个文件系统，实际部署时取决于宿主操作系统的最大块限制。对于一个[32位Linux系统](../Page/32位.md "wikilink")，文件和文件系统的大小会被限制在16[tebibytes](../Page/tebibyte.md "wikilink")。
+XFS是一个[64位文件系统](https://zh.wikipedia.org/wiki/64位 "wikilink")，最大支持8[exbibytes减](https://zh.wikipedia.org/wiki/exbibyte "wikilink")1字节的单个文件系统，实际部署时取决于宿主操作系统的最大块限制。对于一个[32位Linux系统](https://zh.wikipedia.org/wiki/32位 "wikilink")，文件和文件系统的大小会被限制在16[tebibytes](https://zh.wikipedia.org/wiki/tebibyte "wikilink")。
 
 ### 文件系统日志
 
@@ -46,15 +47,15 @@ XFS的日志所保存的是“逻辑”条目，以人类更加容易理解的�
 
 ### 分配组
 
-XFS文件系统内部被分为多个“分配组”，它们是文件系统中的等长线性存储区。每个分配组各自管理自己的[inode和剩余空间](../Page/inode.md "wikilink")。文件和文件夹可以跨越分配组。这一机制为XFS提供了可伸缩性和并行特性——多个线程和进程可以同时在同一个文件系统上执行I/O操作。这种由分配组带来的内部分区机制在一个文件系统跨越多个物理设备时特别有用，使得优化对底层存储部件的吞吐量利用率成为可能。
+XFS文件系统内部被分为多个“分配组”，它们是文件系统中的等长线性存储区。每个分配组各自管理自己的[inode和剩余空间](https://zh.wikipedia.org/wiki/inode "wikilink")。文件和文件夹可以跨越分配组。这一机制为XFS提供了可伸缩性和并行特性——多个线程和进程可以同时在同一个文件系统上执行I/O操作。这种由分配组带来的内部分区机制在一个文件系统跨越多个物理设备时特别有用，使得优化对底层存储部件的吞吐量利用率成为可能。
 
 ### 条带化分配
 
-在条带化[RAID阵列上创建XFS文件系统时](../Page/RAID.md "wikilink")，可以指定一个“条带化[数据单元](../Page/数据单元.md "wikilink")”。这可以保证数据分配、[inode分配](../Page/inode.md "wikilink")、以及内部日志被对齐到该条带单元上，以此最大化吞吐量。
+在条带化[RAID阵列上创建XFS文件系统时](../Page/RAID.md "wikilink")，可以指定一个“条带化[数据单元](https://zh.wikipedia.org/wiki/数据单元 "wikilink")”。这可以保证数据分配、[inode分配](https://zh.wikipedia.org/wiki/inode "wikilink")、以及内部日志被对齐到该条带单元上，以此最大化吞吐量。
 
 ### 基于Extent的分配方式
 
-XFS文件系统中的文件用到的块由变长[Extent管理](../Page/Extent_\(文件系统\).md "wikilink")，每一个Extent描述了一个或多个连续的块。与那些把文件所有块都单独列出来的文件系统相比，extent大幅缩短了列表。
+XFS文件系统中的文件用到的块由变长[Extent管理](https://zh.wikipedia.org/wiki/Extent_\(文件系统\) "wikilink")，每一个Extent描述了一个或多个连续的块。与那些把文件所有块都单独列出来的文件系统相比，extent大幅缩短了列表。
 有些文件系统用一个或多个面向块的位图管理空间分配——在XFS中这种结构被由一对[B+树组成的](../Page/B+树.md "wikilink")、面向Extent的结构替代了；每个文件系统分配组（AG）包含这样的一个结构。其中，一个[B+树用于索引未被使用的Extent的长度](../Page/B+树.md "wikilink")，另一个索引这些Extent的起始块。这种双索引策略使得文件系统在定位剩余空间中的Extent时十分高效。
 
 ### 可变块尺寸
@@ -63,11 +64,11 @@ XFS文件系统中的文件用到的块由变长[Extent管理](../Page/Extent_\(
 
 ### 延迟分配
 
-XFS在文件分配上使用了惰性计算技术。当一个文件被写入缓存时，XFS仅在内存中对该文件保留适当数量的块，并不立即给数据分配Extent。实际的块分配仅在这段数据被冲刷到磁盘时才发生。这一机制提高了将该文件写入一组连续块中的机会，减少[碎片的同时提升了性能](../Page/文件系统碎片.md "wikilink")。
+XFS在文件分配上使用了惰性计算技术。当一个文件被写入缓存时，XFS仅在内存中对该文件保留适当数量的块，并不立即给数据分配Extent。实际的块分配仅在这段数据被冲刷到磁盘时才发生。这一机制提高了将该文件写入一组连续块中的机会，减少[碎片的同时提升了性能](https://zh.wikipedia.org/wiki/文件系统碎片 "wikilink")。
 
 ### 稀疏文件
 
-XFS对每个文件提供了一个64位的稀疏地址空间，使得大文件中的“洞”（空白数据区）不被实际分配到磁盘上。因为文件系统对每个文件使用一个Extent表，文件分配表就可以保持一个较小的体积。对于太大以至于无法存储在[inode中的分配表](../Page/inode.md "wikilink")，这张表会被移动到[B+树中](../Page/B+树.md "wikilink")，继续保持对该目标文件在64位地址空间中任意位置的数据的高效访问。
+XFS对每个文件提供了一个64位的稀疏地址空间，使得大文件中的“洞”（空白数据区）不被实际分配到磁盘上。因为文件系统对每个文件使用一个Extent表，文件分配表就可以保持一个较小的体积。对于太大以至于无法存储在[inode中的分配表](https://zh.wikipedia.org/wiki/inode "wikilink")，这张表会被移动到[B+树中](../Page/B+树.md "wikilink")，继续保持对该目标文件在64位地址空间中任意位置的数据的高效访问。
 
 ### 扩展属性
 
@@ -77,35 +78,35 @@ inode上，包括符号链接、设备节点、目录，等等。可以使用`at
 
 ### Direct I/O
 
-对于需要高吞吐量的应用，XFS实现了直接的I/O，允许未缓存的I/O操作直接应用到用户空间。数据在应用程序的缓冲区和磁盘间利用[DMA进行传输](../Page/直接内存存取.md "wikilink")，以此提供底层磁盘设备全部的I/O带宽。
+对于需要高吞吐量的应用，XFS实现了直接的I/O，允许未缓存的I/O操作直接应用到用户空间。数据在应用程序的缓冲区和磁盘间利用[DMA进行传输](https://zh.wikipedia.org/wiki/直接内存存取 "wikilink")，以此提供底层磁盘设备全部的I/O带宽。
 
 ### 确定速率I/O
 
-XFS确定速率I/O系统给应用程序提供了预留文件系统带宽的[API](../Page/API.md "wikilink")。XFS会动态计算底层存储设备能提供的性能，并在给定的时间内预留足够的带宽以满足所要求的性能。此项特性是XFS所独有的。确定方式可以是硬性的或软性的，前者提供了更高性能，而后者相对更加可靠。不过只要底层存储设备支持硬性速率确定，XFS就只允许硬性模式。这一机制最常被用在实时应用中，比如视频流。
+XFS确定速率I/O系统给应用程序提供了预留文件系统带宽的[API](https://zh.wikipedia.org/wiki/API "wikilink")。XFS会动态计算底层存储设备能提供的性能，并在给定的时间内预留足够的带宽以满足所要求的性能。此项特性是XFS所独有的。确定方式可以是硬性的或软性的，前者提供了更高性能，而后者相对更加可靠。不过只要底层存储设备支持硬性速率确定，XFS就只允许硬性模式。这一机制最常被用在实时应用中，比如视频流。
 
 ### DMAPI
 
-XFS实现了[数据管理应用程序接口](../Page/DMAPI.md "wikilink")（DMAPI）以支持[高阶存储管理](../Page/高阶存储管理.md "wikilink")（HSM）。到2010年10月为止，Linux上的XFS实现已经支持DMAPI所要求的的磁盘元数据规范，但有报告称内核支持仍处于不稳定状态。此前SGI曾提供了一个包含DMAPI钩子的内核源码树，但这个支持未被合并进主代码树。不过现在内核开发者们已经注意到了它并对其做了更新\[4\]。
+XFS实现了[数据管理应用程序接口](https://zh.wikipedia.org/wiki/DMAPI "wikilink")（DMAPI）以支持[高阶存储管理](https://zh.wikipedia.org/wiki/高阶存储管理 "wikilink")（HSM）。到2010年10月为止，Linux上的XFS实现已经支持DMAPI所要求的的磁盘元数据规范，但有报告称内核支持仍处于不稳定状态。此前SGI曾提供了一个包含DMAPI钩子的内核源码树，但这个支持未被合并进主代码树。不过现在内核开发者们已经注意到了它并对其做了更新\[4\]。
 
 ### 快照
 
-XFS并不直接提供对[文件系统快照的支持](../Page/文件系统快照.md "wikilink")，因为XFS认为快照可在卷管理器中实现。对一个XFS文件系统做快照需要调用`xfs_freeze`工具冻结文件系统的I/O，然后等待卷管理器完成实际的快照创建，再解冻I/O，继续正常的操作。之后这个快照可以被当作备份，以只读方式挂载。在IRIX上发布的XFS包含了一个整合的卷管理器，叫XLV。这个卷管理器无法被移植到Linux上，不过XFS可以和Linux上标准的[LVM正常工作](../Page/逻辑卷管理器.md "wikilink")。在最近发布的Linux内核中，`xfs_freeze`的功能被实现在了VFS层，当卷管理器的快照功能被唤醒时将自动启动`xfs_freeze`。相对于无法挂起，卷管理器也无法对其创建“热”快照的[ext3文件系统](../Page/ext3.md "wikilink")\[5\]，XFS的快照功能具有很大优势。幸运的是，现在这种情况已经改观。从Linux
-2.6.29内核开始，[ext3](../Page/ext3.md "wikilink"),
-[ext4](../Page/ext4.md "wikilink"),
-[gfs2和](../Page/gfs2.md "wikilink")[jfs文件系统也获得了冻结文件系统的特性](../Page/jfs.md "wikilink")\[6\]。
+XFS并不直接提供对[文件系统快照的支持](https://zh.wikipedia.org/wiki/文件系统快照 "wikilink")，因为XFS认为快照可在卷管理器中实现。对一个XFS文件系统做快照需要调用`xfs_freeze`工具冻结文件系统的I/O，然后等待卷管理器完成实际的快照创建，再解冻I/O，继续正常的操作。之后这个快照可以被当作备份，以只读方式挂载。在IRIX上发布的XFS包含了一个整合的卷管理器，叫XLV。这个卷管理器无法被移植到Linux上，不过XFS可以和Linux上标准的[LVM正常工作](https://zh.wikipedia.org/wiki/逻辑卷管理器 "wikilink")。在最近发布的Linux内核中，`xfs_freeze`的功能被实现在了VFS层，当卷管理器的快照功能被唤醒时将自动启动`xfs_freeze`。相对于无法挂起，卷管理器也无法对其创建“热”快照的[ext3文件系统](https://zh.wikipedia.org/wiki/ext3 "wikilink")\[5\]，XFS的快照功能具有很大优势。幸运的是，现在这种情况已经改观。从Linux
+2.6.29内核开始，[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink"),
+[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink"),
+[gfs2和](https://zh.wikipedia.org/wiki/gfs2 "wikilink")[jfs文件系统也获得了冻结文件系统的特性](https://zh.wikipedia.org/wiki/jfs "wikilink")\[6\]。
 
 ### 在线碎片整理
 
-虽然XFS基于Extent的特征和延迟分配策略显著提高了文件系统对碎片问题的抵抗力，XFS还是提供了一个文件系统[碎片整理工具](../Page/defragmentation.md "wikilink")，`xfs_fsr`（XFS
+虽然XFS基于Extent的特征和延迟分配策略显著提高了文件系统对碎片问题的抵抗力，XFS还是提供了一个文件系统[碎片整理工具](https://zh.wikipedia.org/wiki/defragmentation "wikilink")，`xfs_fsr`（XFS
 filesystem reorganizer的简称）。这个工具可以对一个已被挂载、正在使用中的XFS文件系统进行碎片整理\[7\]。
 
 ### 在线尺寸调整
 
-XFS提供了`xfs_growfs`工具，可以在线调整XFS文件系统的大小。XFS文件系统可以向保存当前文件系统的设备上的未分配空间延伸。这个特性常与[卷管理功能结合使用](../Page/逻辑卷轴管理.md "wikilink")，因为后者可以把多个设备合并进一个逻辑卷组，而使用[硬盘分区保存XFS文件系统时](../Page/硬盘分区.md "wikilink")，每个分区需要分别扩容。到2010年8月为止，XFS分区不可以原位收缩\[8\]，不过有一些方法可以变相处理这个问题\[9\]。
+XFS提供了`xfs_growfs`工具，可以在线调整XFS文件系统的大小。XFS文件系统可以向保存当前文件系统的设备上的未分配空间延伸。这个特性常与[卷管理功能结合使用](https://zh.wikipedia.org/wiki/逻辑卷轴管理 "wikilink")，因为后者可以把多个设备合并进一个逻辑卷组，而使用[硬盘分区保存XFS文件系统时](../Page/硬盘分区.md "wikilink")，每个分区需要分别扩容。到2010年8月为止，XFS分区不可以原位收缩\[8\]，不过有一些方法可以变相处理这个问题\[9\]。
 
 ### 原生备份/恢复工具
 
-XFS提供了`xfsdump`和`xfsrestore`工具协助备份XFS文件系统中的数据。`xfsdump`按[inode顺序备份一个XFS文件系统](../Page/inode.md "wikilink")。与传统的UNIX文件系统不同，XFS不需要在dump前被卸载；对使用中的XFS文件系统做dump就可以保证镜像的一致性。这与XFS对快照的实现不同，XFS的dump和restore的过程是可以被中断然后继续的，无须冻结文件系统。`xfsdump`甚至提供了高性能的多线程备份操作——它把一次dump拆分成多个数据流，每个数据流可以被发往不同的目的地。不过到目前为止，Linux尚未完成对多数据流dump功能的完整移植。
+XFS提供了`xfsdump`和`xfsrestore`工具协助备份XFS文件系统中的数据。`xfsdump`按[inode顺序备份一个XFS文件系统](https://zh.wikipedia.org/wiki/inode "wikilink")。与传统的UNIX文件系统不同，XFS不需要在dump前被卸载；对使用中的XFS文件系统做dump就可以保证镜像的一致性。这与XFS对快照的实现不同，XFS的dump和restore的过程是可以被中断然后继续的，无须冻结文件系统。`xfsdump`甚至提供了高性能的多线程备份操作——它把一次dump拆分成多个数据流，每个数据流可以被发往不同的目的地。不过到目前为止，Linux尚未完成对多数据流dump功能的完整移植。
 
 ### 原子磁盘配额
 
@@ -129,7 +130,7 @@ I/O竞争无法获得最佳性能。另一个可能提高这个问题的严重�
 
   - XFS文件系统的卷无法被直接收缩，只能通過「備份-\>重灌-\>還原」的方式間接進行容量縮減（這也是雲端主機供應商會告知存儲空間只能增加不能縮減的其中一個原因），在準備多一組存儲卷的情況下，有工具可對XFS卷進行上述操作：`xfsdump`和`xfsrestore`。
   - 历史上XFS上的元数据操作曾比其它文件系统都慢，表现为在删除大量小文件时性能糟糕。该性能问题是被[Red
-    Hat的XFS开发者Dave](../Page/Red_Hat.md "wikilink")
+    Hat的XFS开发者Dave](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")
     Chinner在代码中定位到的。使用一个叫“延迟记录”的挂载选项可以成数量级地提升元数据操作的性能。该选项几乎把日志整个存在内存中。Linux内核主线版本2.6.35中作为一个试验性特性引入了这个补丁，在2.6.37中使它成为了一个稳定的特性，并在2.6.39中把它作为預設的日志记录方法。早期测试显示在有少量线程的环境中其性能接近EXT4，在大量线程的环境下超过了EXT4\[10\]。
   - 缺少透明壓縮的支援
   - 缺少校驗保護，校驗保護在對付方面有幫助

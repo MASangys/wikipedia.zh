@@ -1,4 +1,4 @@
-《**明天**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的主流出道](../Page/aiko.md "wikilink")（第1張）[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年7月17日發行。
+《**明天**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的主流出道](https://zh.wikipedia.org/wiki/aiko "wikilink")（第1張）[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年7月17日發行。
 
 ## 簡介
 
@@ -15,7 +15,7 @@ remix-」。
 
 1.  **明天**（）
       -
-        作詞：[AIKO](../Page/aiko.md "wikilink")；作曲、編曲：[小森田實](https://zh.wikipedia.org/wiki/小森田實 "wikilink")
+        作詞：[AIKO](https://zh.wikipedia.org/wiki/aiko "wikilink")；作曲、編曲：[小森田實](https://zh.wikipedia.org/wiki/小森田實 "wikilink")
           - 全國[東映系](https://zh.wikipedia.org/wiki/東映株式會社 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[新生
             廁所裡的花子](../Page/廁所裡的花子.md "wikilink")》的主題曲
           - [NTV](../Page/日本電視台.md "wikilink")《[新橋MUSIC

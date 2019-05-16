@@ -1,4 +1,4 @@
-**2000年Oricon單曲週榜冠軍作品列表**列出2000年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**2000年Oricon單曲週榜冠軍作品列表**列出2000年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有37首冠軍單曲誕生，其中[南方之星的](../Page/南方之星.md "wikilink")《[TSUNAMI](../Page/海嘯_\(單曲\).md "wikilink")》取得冠軍的週書最多（5週）。
 
@@ -18,7 +18,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1月3日</p></td>
-<td><p><a href="../Page/Next_100_Years.md" title="wikilink">Next 100 Years</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Next_100_Years" title="wikilink">Next 100 Years</a></p></td>
 <td><p><a href="../Page/J-FRIENDS.md" title="wikilink">J-FRIENDS</a></p></td>
 <td><p>31.7</p></td>
 <td><p>1</p></td>
@@ -40,8 +40,8 @@
 </tr>
 <tr class="even">
 <td><p>1月31日</p></td>
-<td><p><a href="../Page/NEO_UNIVERSE/finale.md" title="wikilink">NEO UNIVERSE／finale</a></p></td>
-<td><p><a href="../Page/彩虹樂團.md" title="wikilink">彩虹樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEO_UNIVERSE/finale" title="wikilink">NEO UNIVERSE／finale</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彩虹樂團" title="wikilink">彩虹樂團</a></p></td>
 <td><p>53.7</p></td>
 <td><p>1</p></td>
 </tr>
@@ -89,8 +89,8 @@
 </tr>
 <tr class="odd">
 <td><p>3月20日</p></td>
-<td><p><a href="../Page/越來越喜歡_越來越愛/KinKi充滿幹勁之歌.md" title="wikilink">越來越喜歡 越來越愛／KinKi充滿幹勁之歌</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越來越喜歡_越來越愛/KinKi充滿幹勁之歌" title="wikilink">越來越喜歡 越來越愛／KinKi充滿幹勁之歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>36.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -110,21 +110,21 @@
 </tr>
 <tr class="even">
 <td><p>4月10日</p></td>
-<td><p><a href="../Page/gravity_(LUNA_SEA單曲).md" title="wikilink">gravity</a></p></td>
-<td><p><a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/gravity_(LUNA_SEA單曲)" title="wikilink">gravity</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LUNA_SEA" title="wikilink">LUNA SEA</a></p></td>
 <td><p>13.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月17日</p></td>
-<td><p><a href="../Page/SUNRISE日本/HORIZON.md" title="wikilink">SUNRISE日本／HORIZON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON" title="wikilink">SUNRISE日本／HORIZON</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>30.4</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>4月24日</p></td>
-<td><p><a href="../Page/THANK_YOU_4_EVERY_DAY_EVERY_BODY.md" title="wikilink">THANK YOU 4 EVERY DAY EVERY BODY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THANK_YOU_4_EVERY_DAY_EVERY_BODY" title="wikilink">THANK YOU 4 EVERY DAY EVERY BODY</a></p></td>
 <td><p><a href="../Page/鈴木亞美.md" title="wikilink">鈴木亞美</a></p></td>
 <td><p>14.5</p></td>
 <td><p>1</p></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>5月8日</p></td>
-<td><p><a href="../Page/櫻坂_(單曲).md" title="wikilink">櫻坂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻坂_(單曲)" title="wikilink">櫻坂</a></p></td>
 <td><p><a href="../Page/福山雅治.md" title="wikilink">福山雅治</a></p></td>
 <td><p>75.1</p></td>
 <td><p>1</p></td>
@@ -194,14 +194,14 @@
 </tr>
 <tr class="even">
 <td><p>7月3日</p></td>
-<td><p><a href="../Page/夏之王者/除了你誰都不愛.md" title="wikilink">夏之王者／除了你誰都不愛</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏之王者/除了你誰都不愛" title="wikilink">夏之王者／除了你誰都不愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>36.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月10日</p></td>
-<td><p><a href="../Page/For_You/Time_Limit.md" title="wikilink">For You／Time Limit</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/For_You/Time_Limit" title="wikilink">For You／Time Limit</a></p></td>
 <td><p><a href="../Page/宇多田光.md" title="wikilink">宇多田光</a></p></td>
 <td><p>45.1</p></td>
 <td><p>1</p></td>
@@ -215,28 +215,28 @@
 </tr>
 <tr class="odd">
 <td><p>7月24日</p></td>
-<td><p><a href="../Page/juice.md" title="wikilink">juice</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/juice" title="wikilink">juice</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>45.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>7月31日</p></td>
-<td><p><a href="../Page/MERMAID_(GLAY單曲).md" title="wikilink">MERMAID</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MERMAID_(GLAY單曲)" title="wikilink">MERMAID</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>52.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月7日</p></td>
-<td><p><a href="../Page/青春時代1.2.3！/Bicycle大成功！.md" title="wikilink">青春時代1.2.3！／Bicycle大成功！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青春時代1.2.3！/Bicycle大成功！" title="wikilink">青春時代1.2.3！／Bicycle大成功！</a></p></td>
 <td><p><a href="../Page/小早安.md" title="wikilink">小早安</a></p></td>
 <td><p>26.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月14日</p></td>
-<td><p><a href="../Page/be_alive.md" title="wikilink">be alive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/be_alive" title="wikilink">be alive</a></p></td>
 <td><p><a href="../Page/小柳由紀.md" title="wikilink">小柳由紀</a></p></td>
 <td><p>9.0</p></td>
 <td><p>2</p></td>
@@ -250,21 +250,21 @@
 </tr>
 <tr class="even">
 <td><p>8月28日</p></td>
-<td><p><a href="../Page/慎吾媽媽的早安搖滾.md" title="wikilink">慎吾媽媽的早安搖滾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/慎吾媽媽的早安搖滾" title="wikilink">慎吾媽媽的早安搖滾</a></p></td>
 <td><p><a href="../Page/香取慎吾.md" title="wikilink">慎吾媽媽</a></p></td>
 <td><p>12.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月4日</p></td>
-<td><p><a href="../Page/迷惑/SPECIAL_THANKS.md" title="wikilink">迷惑／SPECIAL THANKS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS" title="wikilink">迷惑／SPECIAL THANKS</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>65.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>9月11日</p></td>
-<td><p><a href="../Page/Lion_Heart.md" title="wikilink">Lion Heart</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lion_Heart" title="wikilink">Lion Heart</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>41.5</p></td>
 <td><p>1</p></td>
@@ -278,15 +278,15 @@
 </tr>
 <tr class="even">
 <td><p>9月25日</p></td>
-<td><p><a href="../Page/Lion_Heart.md" title="wikilink">Lion Heart</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lion_Heart" title="wikilink">Lion Heart</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>16.3</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月2日</p></td>
-<td><p><a href="../Page/Saudade_(單曲).md" title="wikilink">Saudade</a></p></td>
-<td><p><a href="../Page/色情塗鴉.md" title="wikilink">色情塗鴉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saudade_(單曲)" title="wikilink">Saudade</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/色情塗鴉" title="wikilink">色情塗鴉</a></p></td>
 <td><p>14.1</p></td>
 <td><p>2</p></td>
 </tr>
@@ -306,14 +306,14 @@
 </tr>
 <tr class="even">
 <td><p>10月23日</p></td>
-<td><p><a href="../Page/HEY!_(福山雅治單曲).md" title="wikilink">HEY!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HEY!_(福山雅治單曲)" title="wikilink">HEY!</a></p></td>
 <td><p><a href="../Page/福山雅治.md" title="wikilink">福山雅治</a></p></td>
 <td><p>18.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月30日</p></td>
-<td><p><a href="../Page/不會飛的鳥_(單曲).md" title="wikilink">不會飛的鳥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不會飛的鳥_(單曲)" title="wikilink">不會飛的鳥</a></p></td>
 <td><p><a href="../Page/柚子_(組合).md" title="wikilink">柚子</a></p></td>
 <td><p>18.5</p></td>
 <td><p>1</p></td>
@@ -341,7 +341,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月27日</p></td>
-<td><p><a href="../Page/Missing_You_(GLAY單曲).md" title="wikilink">Missing You</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Missing_You_(GLAY單曲)" title="wikilink">Missing You</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>40.1</p></td>
 <td><p>1</p></td>
@@ -355,15 +355,15 @@
 </tr>
 <tr class="odd">
 <td><p>12月11日</p></td>
-<td><p><a href="../Page/I_WILL_GET_THERE.md" title="wikilink">I WILL GET THERE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_WILL_GET_THERE" title="wikilink">I WILL GET THERE</a></p></td>
 <td><p><a href="../Page/J-FRIENDS.md" title="wikilink">J-FRIENDS</a></p></td>
 <td><p>31.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月18日</p></td>
-<td><p><a href="../Page/仙人掌_(色情塗鴉單曲).md" title="wikilink">仙人掌</a></p></td>
-<td><p><a href="../Page/色情塗鴉.md" title="wikilink">色情塗鴉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仙人掌_(色情塗鴉單曲)" title="wikilink">仙人掌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/色情塗鴉" title="wikilink">色情塗鴉</a></p></td>
 <td><p>13.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -379,7 +379,7 @@
 
 ## 參見
 
-  - [2000年Oricon專輯週榜冠軍作品列表](../Page/2000年Oricon專輯週榜冠軍作品列表.md "wikilink")
+  - [2000年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2000年Oricon專輯週榜冠軍作品列表 "wikilink")
 
 ## 參考資料
 

@@ -24,7 +24,7 @@
       - [预应力砼结构PREC](https://zh.wikipedia.org/wiki/预应力 "wikilink")
       - [砌体结构QITI](../Page/砌体结构.md "wikilink")
       - [烟囱CHIMNEY](https://zh.wikipedia.org/wiki/烟囱 "wikilink")
-      - [筒仓SILO](https://zh.wikipedia.org/wiki/筒仓 "wikilink")
+      - [筒仓SILO](../Page/筒仓.md "wikilink")
   - [建筑设计](../Page/建筑设计.md "wikilink")
       - 三维建筑设计APM
       - 建筑设计ABD

@@ -1,11 +1,11 @@
 [USS_PT-105.jpg](https://zh.wikipedia.org/wiki/File:USS_PT-105.jpg "fig:USS_PT-105.jpg")
 
-**PT艇**是一種[魚雷快艇](../Page/魚雷快艇.md "wikilink")（依照[艦船類別代號](../Page/艦船類別代號.md "wikilink")，PT指"魚雷巡邏艇"，"Patrol
-Torpedo"），由[美國海軍在](../Page/美國海軍.md "wikilink")[二戰中使用的小型](../Page/二戰.md "wikilink")，快速，用來攻擊較大型水面艦用的艦艇。PT艇中隊被暱稱為"蚊子艦隊"，而日軍稱他們為"惡魔艇"\[1\]。
+**PT艇**是一種[魚雷快艇](../Page/魚雷快艇.md "wikilink")（依照[艦船類別代號](https://zh.wikipedia.org/wiki/艦船類別代號 "wikilink")，PT指"魚雷巡邏艇"，"Patrol
+Torpedo"），由[美國海軍在](../Page/美國海軍.md "wikilink")[二戰中使用的小型](https://zh.wikipedia.org/wiki/二戰 "wikilink")，快速，用來攻擊較大型水面艦用的艦艇。PT艇中隊被暱稱為"蚊子艦隊"，而日軍稱他們為"惡魔艇"\[1\]。
 
-原先在[一戰前的魚雷艇設計是採取](../Page/一戰.md "wikilink")"排水"式的[船體](../Page/船體.md "wikilink")。它們最高[排水量到](../Page/排水量.md "wikilink")300噸，最高速度到25至27節（時速29到31英里或46到50公里）。而在二戰中使用的PT艇是採取[滑行式的船體](../Page/滑行.md "wikilink")，這種船體最初是設計給競技用艇使用的。它們小得多（30-75噸），而且更快（35-40節）。這兩種船的設計目的都是利用它們相對較快的速度用來趨近較大的戰鬥船艦用[魚雷進行打擊](../Page/魚雷.md "wikilink")，而其較小的尺寸使它們較不易被發現和被砲火擊中。它們也都比更大型的戰鬥船艦便宜的多。不過，魚雷快艇和傳統魚雷艇相比，更快，更小，且更便宜。
+原先在[一戰前的魚雷艇設計是採取](https://zh.wikipedia.org/wiki/一戰 "wikilink")"排水"式的[船體](https://zh.wikipedia.org/wiki/船體 "wikilink")。它們最高[排水量到](../Page/排水量.md "wikilink")300噸，最高速度到25至27節（時速29到31英里或46到50公里）。而在二戰中使用的PT艇是採取[滑行式的船體](https://zh.wikipedia.org/wiki/滑行 "wikilink")，這種船體最初是設計給競技用艇使用的。它們小得多（30-75噸），而且更快（35-40節）。這兩種船的設計目的都是利用它們相對較快的速度用來趨近較大的戰鬥船艦用[魚雷進行打擊](../Page/魚雷.md "wikilink")，而其較小的尺寸使它們較不易被發現和被砲火擊中。它們也都比更大型的戰鬥船艦便宜的多。不過，魚雷快艇和傳統魚雷艇相比，更快，更小，且更便宜。
 
-在二戰中，美國的PT艇和敵人的[驅逐艦和其他各種不同水面艦艇作戰](../Page/驅逐艦.md "wikilink")，從小型船艇到大型的補給艦。PT艇也被用作[炮艇來攻擊敵人小型船艦](../Page/炮艇.md "wikilink")，如日軍用來島嶼間運輸用的裝甲駁船。
+在二戰中，美國的PT艇和敵人的[驅逐艦和其他各種不同水面艦艇作戰](https://zh.wikipedia.org/wiki/驅逐艦 "wikilink")，從小型船艇到大型的補給艦。PT艇也被用作[炮艇來攻擊敵人小型船艦](https://zh.wikipedia.org/wiki/炮艇 "wikilink")，如日軍用來島嶼間運輸用的裝甲駁船。
 
 ## 歷史
 
@@ -99,7 +99,8 @@ cruiser）。隨後，他們又推出了30英呎至50英呎的"Veedettes"和"Fla
 
   - An excellent compendium of information about the Elco PT Boats can
     be found in "*Allied Coastal Forces of World War II*" Volume II by
-    [John Lambert](../Page/John_Lambert_（naval_historian）.md "wikilink")
+    [John
+    Lambert](https://zh.wikipedia.org/wiki/John_Lambert_（naval_historian） "wikilink")
     and Al Ross. ISBN 1-55750-035-5. This book has a detailed history of
     the development of the various Elco boats, with numerous drawings
     and photos. It also has sections on PT Boat construction, as well as
@@ -112,23 +113,27 @@ cruiser）。隨後，他們又推出了30英呎至50英呎的"Veedettes"和"Fla
 
 <!-- end list -->
 
-  - [Robert J. Donovan](../Page/Robert_J._Donovan.md "wikilink"), *PT
-    109: John F. Kennedy in WWII*, 40th Anniversary Edition, McGraw Hill
-    （reprint）, 2001, ISBN 0-07-137643-7
+  - [Robert J.
+    Donovan](https://zh.wikipedia.org/wiki/Robert_J._Donovan "wikilink"),
+    *PT 109: John F. Kennedy in WWII*, 40th Anniversary Edition, McGraw
+    Hill （reprint）, 2001, ISBN 0-07-137643-7
   - Richard Tregaskis, *John F. Kennedy and PT-109* （Random House, 1962）
 
   - Robert D. Ballard, *Collision With History: The Search for John F.
     Kennedy's PT 109* （National Geographic, 2002）
   - Haruyoshi Kimmatsu, "The night We sank John Kennedy's PT 109"
-    appeared in *[Argosy](../Page/Argosy_（magazine）.md "wikilink")*
+    appeared in
+    *[Argosy](https://zh.wikipedia.org/wiki/Argosy_（magazine） "wikilink")*
     Magazine December 1970, Vol. 371 \#6
   - Tameichi Hara, *Japanese Destroyer Captain* （Ballantine Books, 1978）
     ISBN 0-345-27894-1
   - Duane T. Hove, *American Warriors: Five Presidents in the Pacific
     Theater of World War II*, Burd Street Press, （2003） ISBN
     1-57249-307-0
-  - [James Michener](../Page/James_Michener.md "wikilink"), *Tales of
-    the South Pacific*, Fawcett Crest Books, （1947） ISBN 0-449-23852-0
+  - [James
+    Michener](https://zh.wikipedia.org/wiki/James_Michener "wikilink"),
+    *Tales of the South Pacific*, Fawcett Crest Books, （1947） ISBN
+    0-449-23852-0
 
 ## 外部連結
 

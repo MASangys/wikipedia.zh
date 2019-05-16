@@ -1,5 +1,5 @@
 **CAS@home**（Chinese Academy of Sciences at
-Home），是一个由[中国科学院高能物理研究所主导的](https://zh.wikipedia.org/wiki/中国科学院高能物理研究所 "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")。目前研究的项目有SCThread（[蛋白质结构预测](https://zh.wikipedia.org/wiki/蛋白质结构预测 "wikilink")）\[1\]。
+Home），是一个由[中国科学院高能物理研究所主导的](https://zh.wikipedia.org/wiki/中国科学院高能物理研究所 "wikilink")[分布式计算项目](../Page/分布式计算.md "wikilink")。目前研究的项目有SCThread（[蛋白质结构预测](../Page/蛋白质结构预测.md "wikilink")）\[1\]。
 
 ## 参考文献
 

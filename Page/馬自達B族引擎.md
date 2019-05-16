@@ -359,7 +359,7 @@ Inertia Charging System之縮寫）可變進氣系統。日規版**BP-ZE型**之
 7.  1991年-1996年：第二代福特Escort
 8.  1991年-1996年：第二代水星Tracer
 9.  1992年-1997年：第一代起亞Sephia
-10. 1995年-2002年：[鈴木Esteem](https://zh.wikipedia.org/wiki/鈴木Esteem "wikilink")（歐洲）
+10. 1995年-2002年：[鈴木Esteem](../Page/鈴木Esteem.md "wikilink")（歐洲）
 
 ## BPT型
 
@@ -368,7 +368,7 @@ Inertia Charging System之縮寫）可變進氣系統。日規版**BP-ZE型**之
 5,500rpm的最大馬力、219N·m / 3,000rpm的扭力峰值。
 
 代號「RHB5
-VJ20型」的渦輪增壓器乃由日本[石川島播磨重工業製造](https://zh.wikipedia.org/wiki/IHI "wikilink")，此具引擎尚包含側置式中冷器、330c.c.高阻抗黑頂噴油嘴等。原廠設定ECU[行車電腦的boost](../Page/发动机控制器.md "wikilink")
+VJ20型」的渦輪增壓器乃由日本[石川島播磨重工業製造](../Page/IHI.md "wikilink")，此具引擎尚包含側置式中冷器、330c.c.高阻抗黑頂噴油嘴等。原廠設定ECU[行車電腦的boost](../Page/发动机控制器.md "wikilink")
 cut值\[2\]為11P.S.I.。BPT型僅搭載於馬自達Familia
 GT-X和福特Laser的四輪驅動車型，且配置前輪開放式[差速器](../Page/差速器.md "wikilink")、後輪黏性耦合式LSD[限滑差速器](../Page/限滑差速器.md "wikilink")。車型：
 

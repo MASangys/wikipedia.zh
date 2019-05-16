@@ -40,7 +40,8 @@ ICC色彩特性文件的规范目前正作为[ISO](https://zh.wikipedia.org/wiki
     [JPEG](../Page/JPEG.md "wikilink")
   - ISO 12234-4: Photography - Electronic still-picture imaging – Part
     4: Exchangeable image file format
-    ([Exif](../Page/Exif.md "wikilink") 2.2) (ISO TC42)
+    ([Exif](https://zh.wikipedia.org/wiki/Exif "wikilink") 2.2) (ISO
+    TC42)
   - ISO 12639:2004 Graphic technology — Prepress digital data exchange —
     Taged Image File Format for Image Technology
     ([TIFF](../Page/TIFF.md "wikilink")/IT) (ISO TC130)

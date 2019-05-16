@@ -1,5 +1,5 @@
-是日本漫画家所著的漫画作品。于[小学馆发行的](../Page/小学馆.md "wikilink")《[月刊Sunday
-GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连载。全12卷。中文版由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。
+是日本漫画家所著的漫画作品。于[小学馆发行的](https://zh.wikipedia.org/wiki/小学馆 "wikilink")《[月刊Sunday
+GENE-X](https://zh.wikipedia.org/wiki/月刊Sunday_GENE-X "wikilink")》2007年1月号上开始连载。全12卷。中文版由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。
 
 動畫方面，2010年7月宣布製作電視動畫，翌年7月至9月首播。
 
@@ -43,7 +43,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 
   -
     日向家派出来追捕阿几的男子。操纵能够瞬间移动的案山子·宇轮砲。
-    戴眼镜，下唇有穿[唇环](../Page/身体穿洞.md "wikilink")。看上去很凶狠，不过也富有常识。在众多“隻”裡是大哥一样的存在，希望日向家与枸雅家能够和睦相处。现在兼当桐生的监护人。[老婆迷](../Page/老婆迷.md "wikilink")，妻子叫「小季」。在日向家被认为是拥有未来首领的实力，後來为了保护桐生而受伤，现已好转加入营救行动。
+    戴眼镜，下唇有穿[唇环](https://zh.wikipedia.org/wiki/身体穿洞 "wikilink")。看上去很凶狠，不过也富有常识。在众多“隻”裡是大哥一样的存在，希望日向家与枸雅家能够和睦相处。现在兼当桐生的监护人。[老婆迷](https://zh.wikipedia.org/wiki/老婆迷 "wikilink")，妻子叫「小季」。在日向家被认为是拥有未来首领的实力，後來为了保护桐生而受伤，现已好转加入营救行动。
   -
     诗绪的双胞胎弟弟。一直以来都被秘密藏在日向家里头的仓库养育成人。一出生就被日向家收养，其实是为了偿还日向当家替枸雅当家掩盖一桩丑闻而欠下的人情债。
     操纵可以放电的案山子·武未祸槌。由于成长的环境导致性格有些扭曲，不过本性跟诗绪一样单纯，也很冲动。幼年阴暗封闭的成长环境形成了孤独暴戾的个性，被日向当家当成任意驱使的道具。其实内心极其渴望家人的关怀，在住进勾司朗家后被其感染，与诗绪和匡平的关系逐渐改善，本来为了追捕阿几而与勾司郎、霭子到东京，但是日向当家为了驱动天照素而把桐生当作了能量源，被日向当家的话所刺激产生强大的拒绝和恐惧心，使天照素發生了巨大的变化。
@@ -120,18 +120,18 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
   -
     隻：匡平(六年前卸任)→诗绪(在與禍津妃一戰後操縱不能)→匡平(與禍津妃一戰時無意奪取玖吼理的操縱權)→诗绪(經正式的繼承儀式再度繼承操縱權，現任)
 
-    久羽子形容它是「超大的[木偶怪物](../Page/木偶.md "wikilink")」。
+    久羽子形容它是「超大的[木偶怪物](https://zh.wikipedia.org/wiki/木偶 "wikilink")」。
 
-    头上有一对像是[双马尾的手](../Page/双马尾.md "wikilink")，武器有右手内以特殊金屬製成的刀子，和头部放出的光线，以及左手內的[三神器之一](../Page/三神器.md "wikilink")，[八咫鏡](../Page/八咫鏡.md "wikilink")(可吸收能量，經增幅後射出)。唯一可使用八咫鏡的隻只有匡平。
+    头上有一对像是[双马尾的手](https://zh.wikipedia.org/wiki/双马尾 "wikilink")，武器有右手内以特殊金屬製成的刀子，和头部放出的光线，以及左手內的[三神器之一](../Page/三神器.md "wikilink")，[八咫鏡](../Page/八咫鏡.md "wikilink")(可吸收能量，經增幅後射出)。唯一可使用八咫鏡的隻只有匡平。
 
-    名字的由来是[菊理媛神](../Page/菊理媛命.md "wikilink")。
+    名字的由来是[菊理媛神](https://zh.wikipedia.org/wiki/菊理媛命 "wikilink")。
 
   -
     隻：阿几(在八年前与天照素战斗後卸任)→笃史→阿几(六年前於笃史操纵时夺取操纵权，现任)
 
-    以双臂上安装的两把巨大[镰刀当武器](../Page/镰刀.md "wikilink")，平时会收起来的。
+    以双臂上安装的两把巨大[镰刀当武器](https://zh.wikipedia.org/wiki/镰刀 "wikilink")，平时会收起来的。
 
-    名字的由来是[暗御津羽神](../Page/暗御津羽神.md "wikilink")。
+    名字的由来是[暗御津羽神](https://zh.wikipedia.org/wiki/暗御津羽神 "wikilink")。
 
   -
     隻：勾司朗(现任)
@@ -145,7 +145,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 
     能够放出电击。
 
-    名字的由来是[建御雷之男神](../Page/建御雷.md "wikilink")。
+    名字的由来是[建御雷之男神](https://zh.wikipedia.org/wiki/建御雷 "wikilink")。
 
   -
     隻：真昼(禍津妃被擊破而無法再行動)
@@ -154,7 +154,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 
     在狂暴後与玖吼理一战中被击破。
 
-    名字的由来是[祸津日神](../Page/祸津日神.md "wikilink")。
+    名字的由来是[祸津日神](https://zh.wikipedia.org/wiki/祸津日神 "wikilink")。
 
   -
     隻：紫音（现任）→匡平(匡平奪取迦喪建角的操縱權)
@@ -163,7 +163,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 
     装有拘束具，若拆卸後可变化成八咫鸟模式，由於一般的隻不能控制此模式而被封印。
 
-    名字的由来是[贺茂建角身命](../Page/贺茂建角身命.md "wikilink")。
+    名字的由来是[贺茂建角身命](https://zh.wikipedia.org/wiki/贺茂建角身命 "wikilink")。
 
   -
     隻：曉（现任）
@@ -198,14 +198,14 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 
     有着不同的种类，案山子都有着不同的名字和能力。虽然被认为是，但是其起源和真面目，是否真正的神之类问题一概不明。
 
-    案山子的名字皆取自于[日本神话中众神之名](../Page/日本神话.md "wikilink")。
+    案山子的名字皆取自于[日本神话中众神之名](https://zh.wikipedia.org/wiki/日本神话 "wikilink")。
 
   -
-    空守村里拥有操纵案山子资格的人。也有着职称，立场上就跟[神职类似](../Page/圣职人员.md "wikilink")。
+    空守村里拥有操纵案山子资格的人。也有着职称，立场上就跟[神职类似](https://zh.wikipedia.org/wiki/圣职人员 "wikilink")。
 
     能够操纵案山子的只有枸雅家和日向家的人，故此隻也仅限于这两家。担任期间一般为小学到30岁前后。
 
-    作者原案是参考[大野安之的](../Page/大野安之.md "wikilink")《》。
+    作者原案是参考[大野安之的](https://zh.wikipedia.org/wiki/大野安之 "wikilink")《》。
 
   -
 
@@ -224,7 +224,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -300,7 +300,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
   - 監督 - [岸誠二](../Page/岸誠二.md "wikilink")
   - 監督助理 - 菅原靜貴
   - 系列構成・腳本 - [上江洲誠](../Page/上江洲誠.md "wikilink")
-  - 人物設定 - [森田和明](../Page/森田和明.md "wikilink")
+  - 人物設定 - [森田和明](https://zh.wikipedia.org/wiki/森田和明 "wikilink")
   - 總作畫監督 - 本橋秀行
   - 道具設計 - 小川浩
   - 美術監督 - 宮越歩
@@ -356,7 +356,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <td><p><a href="../Page/岸誠二.md" title="wikilink">岸誠二</a><br />
 平井義通</p></td>
 <td><p>菅原静貴</p></td>
-<td><p><a href="../Page/本橋秀之.md" title="wikilink">本橋秀之</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/本橋秀之" title="wikilink">本橋秀之</a><br />
 東美帆</p></td>
 </tr>
 <tr class="even">
@@ -366,7 +366,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <td><p>平井義通</p></td>
 <td><p>名村英敏</p></td>
 <td><p>筆坂明規<br />
-<a href="../Page/小林利充.md" title="wikilink">小林利充</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/小林利充" title="wikilink">小林利充</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -384,7 +384,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <td></td>
 <td><p>HERMA</p></td>
 <td><p>西澤晉</p></td>
-<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
 <td><p>本橋秀之</p></td>
 <td></td>
 </tr>
@@ -403,14 +403,14 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <td><p>空守村</p></td>
 <td><p>後藤圭二</p></td>
 <td><p>古谷田順久</p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第七話</p></td>
 <td></td>
 <td><p>追憶的肖像</p></td>
-<td><p><a href="../Page/大宙征基.md" title="wikilink">大宙征基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大宙征基" title="wikilink">大宙征基</a></p></td>
 <td><p>菅原靜貴</p></td>
 <td><p>本橋秀之</p></td>
 <td></td>
@@ -488,19 +488,19 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/廣域放送.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣域放送" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a></p></td>
 <td><p>2011年7月5日 - 9月27日</p></td>
 <td><p>星期二 25時30分 - 26時00分</p></td>
 <td><p><a href="../Page/東京電視網.md" title="wikilink">東京電視網</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/日本全域.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本全域" title="wikilink">日本全域</a></p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2011年7月6日 - 9月28日</p></td>
 <td><p>星期三 11時00分 - 11時30分<br />
 （有重播）</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
@@ -510,7 +510,7 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 <td><p>東京電視網</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>星期五 26時35分 - 27時05分</p></td>
 <td></td>
@@ -518,13 +518,13 @@ GENE-X](../Page/月刊Sunday_GENE-X.md "wikilink")》2007年1月号上开始连�
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p>|<a href="../Page/ShowTime.md" title="wikilink">ShowTime</a></p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/ShowTime" title="wikilink">ShowTime</a></p></td>
 <td><p>2011年7月11日 - 10月3日</p></td>
 <td><p>星期一 12:00 更新</p></td>
-<td><p><a href="../Page/網路電視.md" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NICONICO.md" title="wikilink">NICONICO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO" title="wikilink">NICONICO</a></p></td>
 <td><p>2011年7月17日 - 10月9日</p></td>
 <td><p>星期日 24:00更新</p></td>
 <td></td>

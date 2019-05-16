@@ -1,26 +1,26 @@
 《**Hello Kitty愛漫遊**》（**The Adventures of Hello Kitty &
 Friends**）是[香港三麗鷗數碼公司以及Dream](../Page/香港.md "wikilink")
-Cortex製作的[三維空間](../Page/三維空間.md "wikilink")[電腦動畫](../Page/電腦動畫.md "wikilink")，屬於[三麗鷗首部在香港製作的影視作品以及首部](../Page/三麗鷗.md "wikilink")[電腦繪圖的著作](../Page/電腦繪圖.md "wikilink")，並先後於2007年及2008年的香港資訊及通訊科技獎之中獲得最佳數碼娛樂（電腦動畫）優異證書。無綫電視翡翠台於2008年2月16日首播。
+Cortex製作的[三維空間](https://zh.wikipedia.org/wiki/三維空間 "wikilink")[電腦動畫](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，屬於[三麗鷗首部在香港製作的影視作品以及首部](../Page/三麗鷗.md "wikilink")[電腦繪圖的著作](https://zh.wikipedia.org/wiki/電腦繪圖 "wikilink")，並先後於2007年及2008年的香港資訊及通訊科技獎之中獲得最佳數碼娛樂（電腦動畫）優異證書。無綫電視翡翠台於2008年2月16日首播。
 
 ## 概要
 
 該動畫於2006年製作，內容以Hello Kitty以及其同伴的歷險故事為主，總共有52集，每集12分鐘，於下列地區播放：
 
   - [香港](../Page/香港.md "wikilink")：無綫電視翡翠台、無綫電視兒童台
-  - [義大利](../Page/義大利.md "wikilink")：Cartoon Network
+  - [義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")：Cartoon Network
   - [新加坡](../Page/新加坡.md "wikilink")：MediaCorp
   - [葡萄牙](../Page/葡萄牙.md "wikilink")：RTP2
-  - [芬蘭](../Page/芬蘭.md "wikilink")：
-  - [台灣](../Page/台灣.md "wikilink")：[Cartoon
-    Network](../Page/Cartoon_Network.md "wikilink")
-  - [菲律賓](../Page/菲律賓.md "wikilink")：Cartoon Network
-  - [以及](../Page/以及.md "wikilink")：
+  - [芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")：
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[Cartoon
+    Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
+  - [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")：Cartoon Network
+  - [以及](https://zh.wikipedia.org/wiki/以及 "wikilink")：
   - [挪威](../Page/挪威.md "wikilink")：
-  - [泰國](../Page/泰國.md "wikilink")：TIGA
-  - [法國](../Page/法國.md "wikilink")：Carrere Group
-  - [印尼](../Page/印尼.md "wikilink")：
-  - [瑞典中央](../Page/瑞典中央.md "wikilink")：
-  - [日本語](../Page/日本語.md "wikilink")：[TOKYO
+  - [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")：TIGA
+  - [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")：Carrere Group
+  - [印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")：
+  - [瑞典中央](https://zh.wikipedia.org/wiki/瑞典中央 "wikilink")：
+  - [日本語](https://zh.wikipedia.org/wiki/日本語 "wikilink")：[TOKYO
     MX](../Page/東京電視台.md "wikilink")
 
 之後又製作了VCD及DVD，於香港、馬來西亞、新加坡、泰國、法國以及葡萄牙發售。
@@ -28,17 +28,17 @@ Cortex製作的[三維空間](../Page/三維空間.md "wikilink")[電腦動畫](
 ## 角色
 
   - [Hello
-    Kitty](../Page/Hello_Kitty.md "wikilink")（粵語配音員：[林元春](../Page/林元春.md "wikilink")）
+    Kitty](../Page/Hello_Kitty.md "wikilink")（粵語配音員：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
   - [Mary
-    White](../Page/Mary_White.md "wikilink")（粵語配音員：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+    White](https://zh.wikipedia.org/wiki/Mary_White "wikilink")（粵語配音員：[陸惠玲](../Page/陸惠玲.md "wikilink")）
   - [Dear
-    Daniel](../Page/Dear_Daniel.md "wikilink")（粵語配音員：[伍秀霞](../Page/伍秀霞.md "wikilink")）
+    Daniel](https://zh.wikipedia.org/wiki/Dear_Daniel "wikilink")（粵語配音員：[伍秀霞](../Page/伍秀霞.md "wikilink")）
   - [My
-    Melody](../Page/My_Melody.md "wikilink")（粵語配音員：[梁少霞](../Page/梁少霞.md "wikilink")）
-  - [Pochacco](../Page/Pochacco.md "wikilink")（粵語配音員：[張頌欣](../Page/張頌欣.md "wikilink")）
+    Melody](../Page/My_Melody.md "wikilink")（粵語配音員：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - [Pochacco](https://zh.wikipedia.org/wiki/Pochacco "wikilink")（粵語配音員：[張頌欣](../Page/張頌欣.md "wikilink")）
   - [Bad
-    Badtz-maru](../Page/Bad_Badtz-maru.md "wikilink")（粵語配音員：[謝潔貞](../Page/謝潔貞.md "wikilink")）
-  - [Keroppi](../Page/Keroppi.md "wikilink")（粵語配音員：[曾佩儀](../Page/曾佩儀.md "wikilink")）
+    Badtz-maru](https://zh.wikipedia.org/wiki/Bad_Badtz-maru "wikilink")（粵語配音員：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - [Keroppi](https://zh.wikipedia.org/wiki/Keroppi "wikilink")（粵語配音員：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
   - LaLa（粵語配音員：[何璐怡](../Page/何璐怡.md "wikilink")）
   - KiKi（粵語配音員：[曾秀清](../Page/曾秀清.md "wikilink")）
   - 白老師（粵語配音員：[招世亮](../Page/招世亮.md "wikilink")）
@@ -57,8 +57,8 @@ Cortex製作的[三維空間](../Page/三維空間.md "wikilink")[電腦動畫](
 ## 電視節目的變遷
 
 [Category:香港動畫](https://zh.wikipedia.org/wiki/Category:香港動畫 "wikilink")
-[分類:無綫電視外購動畫](../Page/分類:無綫電視外購動畫.md "wikilink")
-[分類:電腦動畫](../Page/分類:電腦動畫.md "wikilink")
+[分類:無綫電視外購動畫](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink")
+[分類:電腦動畫](https://zh.wikipedia.org/wiki/分類:電腦動畫 "wikilink")
 
 [Category:動畫影集](https://zh.wikipedia.org/wiki/Category:動畫影集 "wikilink")
 [Category:Hello_Kitty](https://zh.wikipedia.org/wiki/Category:Hello_Kitty "wikilink")

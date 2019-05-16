@@ -1,11 +1,11 @@
-《**世紀帝國Online**》（，簡稱）是一個免費[即時戰略](../Page/即時戰略遊戲.md "wikilink")[線上遊戲](../Page/線上遊戲.md "wikilink")，已在2011年8月16日正式上市\[1\]。由[羅伯特娛樂開發](../Page/羅伯特娛樂.md "wikilink")，[微軟發行](../Page/微軟.md "wikilink")。\[2\]世紀帝國Online是由Games
+《**世紀帝國Online**》（，簡稱）是一個免費[即時戰略](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，已在2011年8月16日正式上市\[1\]。由[羅伯特娛樂開發](../Page/羅伯特娛樂.md "wikilink")，[微軟發行](https://zh.wikipedia.org/wiki/微軟 "wikilink")。\[2\]世紀帝國Online是由Games
 For Windows
 Live平臺提供服務，是羅伯特娛樂的第一個線上遊戲。遊戲是以免費商城制模式進行。遊戲已於2014年7月1日被完全關閉（不能再登入Games
 for Windows®）。
 
 ## 概述
 
-這個遊戲是一個[大型多人在线即时战略游戏](../Page/大型多人線上即時戰略遊戲.md "wikilink")\[3\]。
+這個遊戲是一個[大型多人在线即时战略游戏](https://zh.wikipedia.org/wiki/大型多人線上即時戰略遊戲 "wikilink")\[3\]。
 《世紀帝國Online》與過去的系列的不同之處是當玩家離線時多人合作任務與貿易等將不會中斷。
 
 ### 文明

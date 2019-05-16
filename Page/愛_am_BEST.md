@@ -31,6 +31,7 @@ MUSiC」是為了此張精選特別拍攝的音樂錄像帶。隱藏曲目《BAB
 [Category:2007年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯月榜冠軍作品 "wikilink")
 [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
 
-1.  《[oricon style](../Page/oricon.md "wikilink")》 2007年4月9日號
+1.  《[oricon style](https://zh.wikipedia.org/wiki/oricon "wikilink")》
+    2007年4月9日號
 2.  [](http://natalie.mu/music/news/317)
 3.

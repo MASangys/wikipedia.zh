@@ -1,5 +1,5 @@
 《**Chase the
-Chance**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")4張個人[單曲和代表作之一](../Page/單曲.md "wikilink")。1995年12月5日發行。
+Chance**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")4張個人[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年12月5日發行。
 
 ## 簡介
 
@@ -8,12 +8,13 @@ Chance**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌�
 
 <!-- end list -->
 
-  - 被用作[東山紀之主演的](../Page/東山紀之.md "wikilink")[日本電視台](../Page/日本電視台.md "wikilink")[週六連續劇](../Page/日本電視台週六連續劇.md "wikilink")《[夢幻料理人](../Page/夢幻料理人.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。是安室首次演唱電視劇主題曲。
+  - 被用作[東山紀之主演的](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")[日本電視台](../Page/日本電視台.md "wikilink")[週六連續劇](../Page/日本電視台週六連續劇.md "wikilink")《[夢幻料理人](https://zh.wikipedia.org/wiki/夢幻料理人 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。是安室首次演唱電視劇主題曲。
 
 <!-- end list -->
 
-  - [dos的前成員](../Page/dos_\(組合\).md "wikilink")[KABA負責](../Page/小KABA..md "wikilink")[編舞](../Page/編舞.md "wikilink")。SUPER
-    MONKEY'S 餘下四位成員 (即現[MAX成員](../Page/MAX_\(日本音樂團體\).md "wikilink"))
+  - [dos的前成員](https://zh.wikipedia.org/wiki/dos_\(組合\) "wikilink")[KABA負責](https://zh.wikipedia.org/wiki/小KABA. "wikilink")[編舞](https://zh.wikipedia.org/wiki/編舞 "wikilink")。SUPER
+    MONKEY'S 餘下四位成員
+    (即現[MAX成員](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink"))
     繼續在此曲擔任伴舞。
 
 <!-- end list -->
@@ -22,11 +23,11 @@ Chance**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌�
 
 <!-- end list -->
 
-  - 1996年年底安室首次被邀請上[NHK紅白歌合戰演唱這首歌](../Page/NHK紅白歌合戰.md "wikilink")。
+  - 1996年年底安室首次被邀請上[NHK紅白歌合戰演唱這首歌](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 ## 收錄曲目
 
-作詞：[小室哲哉](../Page/小室哲哉.md "wikilink")&[前田高廣](../Page/前田高廣.md "wikilink")；作曲、編曲：小室哲哉
+作詞：[小室哲哉](../Page/小室哲哉.md "wikilink")&[前田高廣](https://zh.wikipedia.org/wiki/前田高廣 "wikilink")；作曲、編曲：小室哲哉
 
 1.  **Chase the Chance** (ORIGINAL MIX)
 2.  **Chase the Chance** (TRIP CLUB MIX)

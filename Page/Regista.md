@@ -12,7 +12,7 @@ MAKER」等。
 
 1.  [帝国千戦記](https://zh.wikipedia.org/wiki/帝国千戦記 "wikilink")（2004年11月25日、[郎猫儿原作](https://zh.wikipedia.org/wiki/郎猫儿 "wikilink")）
 2.  [Like Life an
-    hour](https://zh.wikipedia.org/wiki/Like_Life "wikilink")（2005年4月28日、[HOOK原作](https://zh.wikipedia.org/wiki/HOOK "wikilink")）
+    hour](../Page/Like_Life.md "wikilink")（2005年4月28日、[HOOK原作](https://zh.wikipedia.org/wiki/HOOK "wikilink")）
 3.  [こんねこ 〜Keep a memory
     green〜](https://zh.wikipedia.org/wiki/こんねこ "wikilink")（2005年10月27日、[ま～まれぇど原作](https://zh.wikipedia.org/wiki/ま～まれぇど "wikilink")）
 4.  [I/O](https://zh.wikipedia.org/wiki/I/O_\(遊戲\) "wikilink")（2006年1月26日、原創）
@@ -33,7 +33,7 @@ MAKER」等。
 12. [School Days
     L×H](../Page/School_Days.md "wikilink")（2008年1月17日、[0verflow原作](../Page/0verflow.md "wikilink")）
 13. [IZUMO2 -学園狂想曲-
-    ダブルタクト](https://zh.wikipedia.org/wiki/IZUMO2 "wikilink")（2007年12月20日、[Studio
+    ダブルタクト](../Page/IZUMO2.md "wikilink")（2007年12月20日、[Studio
     e.go\!原作](../Page/Studio_e.go!.md "wikilink")）
 14. [恋姫†夢想
     〜ドキッ☆乙女だらけの三国志演義〜](https://zh.wikipedia.org/wiki/恋姫†夢想_〜ドキッ☆乙女だらけの三国志演義〜 "wikilink")（2008年11月20日、[BaseSon原作](../Page/BaseSon.md "wikilink")）

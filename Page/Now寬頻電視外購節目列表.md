@@ -23,16 +23,16 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我是歌手" title="wikilink">我是歌手</a></p></td>
+<td><p><a href="../Page/我是歌手.md" title="wikilink">我是歌手</a></p></td>
 <td><p><a href="../Page/Now芒果台.md" title="wikilink">Now芒果台</a></p></td>
 <td><p><span style="font-size:90%;">2013年1月18日</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我是歌手_(第一季)" title="wikilink">第一季</a>[1]</p></td>
+<td><p><a href="../Page/我是歌手_(第一季).md" title="wikilink">第一季</a>[1]</p></td>
 <td><p>13</p></td>
 <td><p>紧贴中國播放</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="font-size:90%;">2014年1月3日</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我是歌手_(第二季)" title="wikilink">第二季</a>[2]</p></td>
+<td><p><a href="../Page/我是歌手_(第二季).md" title="wikilink">第二季</a>[2]</p></td>
 <td><p>13</p></td>
 <td></td>
 <td></td>
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/蒙面歌王_(中国).md" title="wikilink">蒙面歌王</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NowJelli紫金國際台" title="wikilink">NowJelli紫金國際台</a></p></td>
+<td><p><a href="../Page/NowJelli紫金國際台.md" title="wikilink">NowJelli紫金國際台</a></p></td>
 <td><p><span style="font-size:90%;">2015年8月3日</span></p></td>
 <td><p>—</p></td>
 <td><p>11</p></td>
@@ -113,10 +113,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/爸爸去哪兒" title="wikilink">爸爸去哪兒</a></p></td>
+<td><p><a href="../Page/爸爸去哪兒.md" title="wikilink">爸爸去哪兒</a></p></td>
 <td><p><a href="../Page/Now芒果台.md" title="wikilink">Now芒果台</a></p></td>
 <td><p><span style="font-size:90%;">2014年6月20日</span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/爸爸去哪兒_(第二季)" title="wikilink">第二季</a></p></td>
+<td><p><a href="../Page/爸爸去哪兒_(第二季).md" title="wikilink">第二季</a></p></td>
 <td><p>16</p></td>
 <td><p>紧贴中國播放[4]</p></td>
 </tr>
@@ -179,7 +179,7 @@
   - 《[居安See危](https://zh.wikipedia.org/wiki/居安See危 "wikilink")》
   - 《[旅行應援團](../Page/旅行應援團.md "wikilink")》
   - 《[神話放送](../Page/神話放送.md "wikilink")》
-  - 《[金頭腦](https://zh.wikipedia.org/wiki/金頭腦 "wikilink")》
+  - 《[金頭腦](../Page/金頭腦.md "wikilink")》
   - 《[Sicily with Aldo and
     Enzo](https://zh.wikipedia.org/wiki/Sicily_with_Aldo_and_Enzo "wikilink")》
   - 《[瀛媽日記](https://zh.wikipedia.org/wiki/瀛媽日記 "wikilink")》

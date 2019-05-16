@@ -20,8 +20,9 @@
 
 ## 主題曲
 
-  - [Sky PerfecTV\!](../Page/Sky_PerfecTV!.md "wikilink")『MUSIC FREAK
-    TV』廣告主題曲。（\#1）
+  - [Sky
+    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")『MUSIC
+    FREAK TV』廣告主題曲。（\#1）
   - 97 NHL 日本公式開幕戰官方主題曲。（\#1）
   - 全局25局NET『J-ROCK ARTIST COUNT DOWN 50』片尾曲。（\#2）
 

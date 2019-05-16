@@ -1,6 +1,7 @@
-**tcsh** ( ,  , 是一个向下兼容[c shell的](../Page/c_shell.md "wikilink")[Unix
+**tcsh** ( ,  , 是一个向下兼容[c
+shell的](https://zh.wikipedia.org/wiki/c_shell "wikilink")[Unix
 shell](../Page/Unix_shell.md "wikilink")。它本质上是为[c
-shell增加命令补完](../Page/c_shell.md "wikilink")，命令编辑等其他功能。
+shell增加命令补完](https://zh.wikipedia.org/wiki/c_shell "wikilink")，命令编辑等其他功能。
 目前作为[FreeBSD和其延伸发行版的默认shell](../Page/FreeBSD.md "wikilink")。
 
 ## 链接

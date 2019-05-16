@@ -18,7 +18,7 @@ Core metadata](../Page/都柏林核心.md "wikilink")。預設的副檔名是`.o
   - SoftBook
   - [Adobe Digital
     Editions](https://zh.wikipedia.org/wiki/Adobe_Digital_Editions "wikilink")
-  - [FBReader](https://zh.wikipedia.org/wiki/FBReader "wikilink") -
+  - [FBReader](../Page/FBReader.md "wikilink") -
     GPL的Unix/Windows/Android的電子書閱讀器。
   - [Lexcycle
     Stanza](https://zh.wikipedia.org/wiki/Lexcycle_Stanza "wikilink")

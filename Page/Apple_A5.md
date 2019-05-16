@@ -15,14 +15,16 @@ DRAM](https://zh.wikipedia.org/wiki/DDR2 "wikilink")\[1\]\[2\]\[3\]\[4\]
 ## Apple A5X
 
 Apple A5X是A5的衍生版本，圖形處理器升级至PowerVR SGX543 MP4，用於[iPad
-(第三代)](../Page/iPad_\(第三代\).md "wikilink")。
+(第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
 
 ## 产品使用
 
-  - Apple [iPad 2](../Page/iPad_2.md "wikilink")
-  - Apple [iPhone 4S](../Page/iPhone_4S.md "wikilink")
+  - Apple [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - Apple [iPhone
+    4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
   - Apple [Apple TV 第三代](../Page/Apple_TV.md "wikilink")
-  - Apple [iPod touch 5](../Page/iPod_Touch.md "wikilink")
+  - Apple [iPod touch
+    5](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")
   - Apple [iPad
     mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")
 

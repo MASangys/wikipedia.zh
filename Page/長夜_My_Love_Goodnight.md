@@ -17,7 +17,7 @@ Goodnight》**是[葉蒨文第二張粵語專輯](../Page/葉蒨文.md "wikilink
 
 ## 參考資料
 
-  - 1999年，香港歌手[盧巧音及組合](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")[Rubberband](../Page/Rubberband.md "wikilink")，後來曾翻唱過這首「長夜
+  - 1999年，香港歌手[盧巧音及組合](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")[Rubberband](https://zh.wikipedia.org/wiki/Rubberband "wikilink")，後來曾翻唱過這首「長夜
     My Love Goodnight」
 
 [Category:葉蒨文音樂專輯](https://zh.wikipedia.org/wiki/Category:葉蒨文音樂專輯 "wikilink")

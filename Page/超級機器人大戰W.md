@@ -56,7 +56,7 @@ Raid**》。攜帶機中初參戰有《勇者王我王凱牙》、《勇者王�
 FINAL》方面部份BGM及設定源自《[勇者王我王凱牙 FINAL GRAND GLORIOUS
 GATHERING](https://zh.wikipedia.org/wiki/勇者王#勇者王GaoGaiGar_Final_Grand_Glorious_Gathering "wikilink")》。
 
-關於版權作品中，首次沒有任何[富野由悠季的作品登場](../Page/富野由悠季.md "wikilink")。甚至沒有[長浜浪漫機器人系列](https://zh.wikipedia.org/wiki/長浜浪漫機器人系列 "wikilink")\[2\]（）登場，是自《[超級機器人大戰EX](https://zh.wikipedia.org/wiki/超級機器人大戰EX "wikilink")》以來約13年首次\[3\]。另外昭和時代制作的作品就只有《百獸王》和《蓋特機器人G》。
+關於版權作品中，首次沒有任何[富野由悠季的作品登場](../Page/富野由悠季.md "wikilink")。甚至沒有[長浜浪漫機器人系列](https://zh.wikipedia.org/wiki/長浜浪漫機器人系列 "wikilink")\[2\]（）登場，是自《[超級機器人大戰EX](../Page/超級機器人大戰EX.md "wikilink")》以來約13年首次\[3\]。另外昭和時代制作的作品就只有《百獸王》和《蓋特機器人G》。
 
 《機動戰艦撫子》中登場的大豪寺凱沒有在《劇場版 機動戰艦撫子》登場，本作特意为大豪寺凯专门设计了剧场版风格造型的人物和机体。
 
@@ -131,4 +131,4 @@ GATHERING](https://zh.wikipedia.org/wiki/勇者王#勇者王GaoGaiGar_Final_Gran
     zh-tw:鬥將戴摩斯;
     zh-hk:鬥將大武士}-三部作品加上](../Page/鬥將大武士.md "wikilink")[-{zh-cn:巨兽王;
     zh-tw:巨獸王; zh-hk:太空保衛團}-](../Page/巨獸王.md "wikilink")。
-3.  長浜浪漫機器人系列自初參戰的《[第3次超級機器人大戰](https://zh.wikipedia.org/wiki/第3次超級機器人大戰 "wikilink")》以來，《超級機器人大戰EX》以外全部作品都有登場。
+3.  長浜浪漫機器人系列自初參戰的《[第3次超級機器人大戰](../Page/第3次超級機器人大戰.md "wikilink")》以來，《超級機器人大戰EX》以外全部作品都有登場。

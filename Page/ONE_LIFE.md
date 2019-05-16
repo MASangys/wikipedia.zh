@@ -8,7 +8,7 @@ LIFE**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     MUSIC後首張專輯](../Page/NORTHERN_MUSIC.md "wikilink")。
   - 專輯名稱「ONE LIFE」是要傳遞倉木一直以來的生存之道，就是投入「音樂」這件目前最重要的事，拼命地尋求突破\[1\]。
   - 專輯曲風主要以R\&B為基調，倉木本人形容為《[delicious
-    way](../Page/delicious_way.md "wikilink")》的進化版。
+    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")》的進化版。
   - 與過往作品不同，本作多起用外部作曲家與編曲家\[2\]。
   - Oricon銷售榜最高名次14位，較以往作品大幅下滑，並中斷從出道作的專輯連續TOP 10的記錄（7作）。
   - [iTunes

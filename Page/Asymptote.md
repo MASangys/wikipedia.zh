@@ -2,18 +2,18 @@ Asymptote 是一种描述性[矢量图形语言](../Page/矢量图形.md "wikili
 John C. Bowman (University of Alberta)，与 Tom Prince
 开发。它提供了一种自然的基于坐标的工程绘图。Asymptot
 适用于所有主流平台（[UNIX](../Page/UNIX.md "wikilink")、[Mac
-OS](../Page/Mac_OS.md "wikilink")，[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")）。它是一款[免费软件](../Page/免费软件.md "wikilink")，以
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）。它是一款[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，以
 [GNU宽通用公共许可证发布](../Page/GNU宽通用公共许可证.md "wikilink")。
 
 ## 语法和特点
 
 Asymptote 用 LaTeX 输入标签和公式，输出高质量
-[PostScript](../Page/PostScript.md "wikilink")、[PDF](../Page/PDF.md "wikilink")、[SVG或](../Page/SVG.md "wikilink")
-[3D PRC](../Page/3D_PRC.md "wikilink") 文件\[1\]。它受
-[Metapost](../Page/Metapost.md "wikilink") 启发，但语法类似于
+[PostScript](../Page/PostScript.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[SVG或](https://zh.wikipedia.org/wiki/SVG "wikilink")
+[3D PRC](https://zh.wikipedia.org/wiki/3D_PRC "wikilink") 文件\[1\]。它受
+[Metapost](https://zh.wikipedia.org/wiki/Metapost "wikilink") 启发，但语法类似于
 [C++](../Page/C++.md "wikilink")。它给出了一种输入数学图形的标准，就像 TeX/LaTeX
-成为了输入公式的标准。它是数学导向的（例如向量的旋转是[复数乘法](../Page/复数_\(数学\).md "wikilink")），并利用[单纯形方法和](../Page/单纯形方法.md "wikilink")
+成为了输入公式的标准。它是数学导向的（例如向量的旋转是[复数乘法](../Page/复数_\(数学\).md "wikilink")），并利用[单纯形方法和](https://zh.wikipedia.org/wiki/单纯形方法 "wikilink")
 deferred drawing 来解决固定大小对象（标签和箭头）和需随图形大小缩放对象的总体大小约束问题。Asymptote 将
 Metapost 的路径构造算法完全扩展到三维\[2\]，并把命令编译为真正的机器编码且不牺牲可移植性。Asymptote
 本身实现了高级图形命令，允许它们为特定的用途定制。它还是第一个将 TeX

@@ -41,7 +41,7 @@
 ## 客串出演者
 
   - 知子：[近野成美](https://zh.wikipedia.org/wiki/近野成美 "wikilink")
-  - 傳教士風：[須賀貴匡](https://zh.wikipedia.org/wiki/須賀貴匡 "wikilink")
+  - 傳教士風：[須賀貴匡](../Page/須賀貴匡.md "wikilink")
   - 銀行員風之男:[天野浩成](../Page/天野浩成.md "wikilink")
   - 浪：[岩井七世](https://zh.wikipedia.org/wiki/岩井七世 "wikilink")
   - ファーストフード店長：[杉山彩乃](https://zh.wikipedia.org/wiki/杉山彩乃 "wikilink")
@@ -85,7 +85,7 @@ Shibuya主要有3個勢力集團
 
 #### Rabugen
 
-  - 活動區域：[道玄坂](https://zh.wikipedia.org/wiki/道玄坂 "wikilink")
+  - 活動區域：[道玄坂](../Page/道玄坂.md "wikilink")
   - 成員
       - 淺蔥(Asagi)
       - 知子(Chiko)

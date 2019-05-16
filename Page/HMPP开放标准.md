@@ -152,7 +152,7 @@ codelet 指令:
 
 <font color="#0070C0">`#pragma hmpp <`</font>`grp_label`<font color="#0070C0">`>`</font>` codelet_label `<font color="#0070C0">`codelet`</font>` `
 `                            [`<font color="#0070C0">`, version`</font>` = major.minor[.micro]?]?`
-`                            [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](../Page/\<font_color="#0070C0"\>in\</font\>.md "wikilink")`*`
+`                            [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>in\</font\> "wikilink")`*`
 `                            [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].size={`</font>`dimsize[,dimsize]*`<font color="#0070C0">`}`</font>`]*`
 `                            [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].const=true`</font>`]*`
 `                            [`<font color="#0070C0">`, cond =`</font>` "expr"]`
@@ -165,7 +165,7 @@ Callsite指令指定程序内的给定点如何使用一个codelet。
 <font color="#0070C0">`#pragma hmpp <`</font>`grp_label`<font color="#0070C0">`>`</font>` codelet_label `<font color="#0070C0">`callsite`</font>
 `                     [`<font color="#0070C0">`, asynchronous`</font>`]?`
 `                     [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].size={`</font>`dimsize[,dimsize]*`<font color="#0070C0">`}`</font>`]*`
-`                     [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].advancedload=`</font>[<font color="#0070C0">`false`</font>](../Page/\<font_color="#0070C0"\>true\</font\>.md "wikilink")`*`
+`                     [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].advancedload=`</font>[<font color="#0070C0">`false`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>true\</font\> "wikilink")`*`
 `                     [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].addr="`</font>`expr`<font color="#0070C0">`"`</font>`]*`
 `                     [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].noupdate=true`</font>`]*`
 
@@ -290,7 +290,7 @@ Resident指令声明某些变量在一个组内为全局变量。
 此指令的语法是:
 
 <font color="#0070C0">`#pragma hmpp <`</font>`grp_label`<font color="#0070C0">`> resident`</font>` `
-`               [`<font color="#0070C0">`, args[::`</font>`var_name`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](../Page/\<font_color="#0070C0"\>in\</font\>.md "wikilink")`*`
+`               [`<font color="#0070C0">`, args[::`</font>`var_name`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>in\</font\> "wikilink")`*`
 `               [`<font color="#0070C0">`, args[::`</font>`var_name`<font color="#0070C0">`].size={`</font>`dimsize[,dimsize]*`<font color="#0070C0">`}`</font>`]*`
 `               [`<font color="#0070C0">`, args[::`</font>`var_name`<font color="#0070C0">`].addr="`</font>`expr`<font color="#0070C0">`"`</font>`]*`
 `               [`<font color="#0070C0">`, args[::`</font>`var_name`<font color="#0070C0">`].const=true`</font>`]*`
@@ -303,12 +303,12 @@ codelet/callsite指令合并为一个区域。目的是避免代码重构中构�
 因此，所有codelet或callsite指令可用属性都可以用于regions指令。 在C语言中:
 
 <font color="#0070C0">`#pragma hmpp [<`</font>`MyGroup`<font color="#0070C0">`>] [`</font>`label`<font color="#0070C0">`] region`</font>`         `
-`                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](../Page/\<font_color="#0070C0"\>in\</font\>.md "wikilink")`*`
+`                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].io=`</font>[<font color="#0070C0">`out`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>in\</font\> "wikilink")`*`
 `                           [`<font color="#0070C0">`, cond = "`</font>`expr`<font color="#0070C0">`"]`</font>`<`
 `                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].const=true`</font>`]*`
 `                           [`<font color="#0070C0">`, target=`</font><font color="#990000">`target_name`</font>`[`<font color="#0070C0">`:`</font><font color="#990000">`target_name`</font>`]*]`
 `                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].size={`</font>`dimsize[`<font color="#0070C0">`,`</font>`dimsize]*`<font color="#0070C0">`}`</font>`]*`
-`                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].advancedload=`</font>[<font color="#0070C0">`false`</font>](../Page/\<font_color="#0070C0"\>true\</font\>.md "wikilink")`*`
+`                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].advancedload=`</font>[<font color="#0070C0">`false`</font>](https://zh.wikipedia.org/wiki/\<font_color="#0070C0"\>true\</font\> "wikilink")`*`
 `                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].addr="`</font>`expr`<font color="#0070C0">`"`</font>`]*`
 `                           [`<font color="#0070C0">`, args[`</font>`arg_items`<font color="#0070C0">`].noupdate=true`</font>`]*`
 `                           [`<font color="#0070C0">`, asynchronous`</font>`]?`

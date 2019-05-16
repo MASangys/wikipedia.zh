@@ -1,14 +1,14 @@
 **PG 1159-035**是[PG 1159星的原型](../Page/PG_1159星.md "wikilink")，之後就是以PG
-1159作為這一類恆星的名稱，這顆恆星是在帕洛馬綠色[巡天調查](../Page/巡天調查.md "wikilink")[紫外線過量的恆星時發現的](../Page/紫外線.md "wikilink")[天體](../Page/天體.md "wikilink")
+1159作為這一類恆星的名稱，這顆恆星是在帕洛馬綠色[巡天調查](../Page/巡天調查.md "wikilink")[紫外線過量的恆星時發現的](https://zh.wikipedia.org/wiki/紫外線 "wikilink")[天體](../Page/天體.md "wikilink")
 \[1\]，並且像其它的PG
-1159星一樣，是中心正在轉變成為[行星狀星雲和](../Page/行星狀星雲.md "wikilink")[白矮星的天體](../Page/白矮星.md "wikilink")\[2\]。
+1159星一樣，是中心正在轉變成為[行星狀星雲和](https://zh.wikipedia.org/wiki/行星狀星雲 "wikilink")[白矮星的天體](../Page/白矮星.md "wikilink")\[2\]。
 
 在1979年發現PG
-1159-035的[亮度會變化](../Page/亮度.md "wikilink")\[3\]，並且因而在1985年被歸類為變星，標示為*室女座GW*\[4\]。**PG
+1159-035的[亮度會變化](https://zh.wikipedia.org/wiki/亮度 "wikilink")\[3\]，並且因而在1985年被歸類為變星，標示為*室女座GW*\[4\]。**PG
 1159型變星**可以稱為''室女GW型變星 *，或是再分為*DOV*和*PNNV''星\[5\]\[6\]。PG
-1139-035的變化，和其他的[室女GW型變星一樣](../Page/室女GW型變星.md "wikilink")，是由於本身內部的[引力波在非徑向方向上的脈動](../Page/引力波.md "wikilink")\[7\]。它的[光度曲線在](../Page/光度曲線.md "wikilink")1989年3月曾經被[Whole
+1139-035的變化，和其他的[室女GW型變星一樣](https://zh.wikipedia.org/wiki/室女GW型變星 "wikilink")，是由於本身內部的[引力波在非徑向方向上的脈動](https://zh.wikipedia.org/wiki/引力波 "wikilink")\[7\]。它的[光度曲線在](https://zh.wikipedia.org/wiki/光度曲線 "wikilink")1989年3月曾經被[Whole
 Earth
-Telescope](https://web.archive.org/web/20070701051252/http://bullwinkle.as.utexas.edu/)仔細的觀察超過264小時的時段，和在變化的[光譜中發現超過](../Page/光譜.md "wikilink")100種週期在300至1,000秒的[變光模式](../Page/變光模式.md "wikilink")
+Telescope](https://web.archive.org/web/20070701051252/http://bullwinkle.as.utexas.edu/)仔細的觀察超過264小時的時段，和在變化的[光譜中發現超過](https://zh.wikipedia.org/wiki/光譜 "wikilink")100種週期在300至1,000秒的[變光模式](https://zh.wikipedia.org/wiki/變光模式 "wikilink")
 \[8\]\[9\]。
 
 ## 參考資料

@@ -1,10 +1,10 @@
-《**凯撒大帝III**》是一个由[印象遊戲公司开发以及由](../Page/印象遊戲.md "wikilink")[雪乐山娱乐公司于](../Page/雪乐山娱乐.md "wikilink")1998年10月出版发行的[电子游戏](../Page/电子游戏.md "wikilink")，是[凯撒大帝系列的第三版](../Page/凯撒大帝系列.md "wikilink")，也属于雪乐山公司所发行的[城市建造游戏](../Page/城市建造游戏.md "wikilink")\[1\]。此游戏在中国大陆由[第三波软件公司引进并汉化](../Page/第三波软件.md "wikilink")。
+《**凯撒大帝III**》是一个由[印象遊戲公司开发以及由](https://zh.wikipedia.org/wiki/印象遊戲 "wikilink")[雪乐山娱乐公司于](https://zh.wikipedia.org/wiki/雪乐山娱乐 "wikilink")1998年10月出版发行的[电子游戏](../Page/电子游戏.md "wikilink")，是[凯撒大帝系列的第三版](https://zh.wikipedia.org/wiki/凯撒大帝系列 "wikilink")，也属于雪乐山公司所发行的[城市建造游戏](https://zh.wikipedia.org/wiki/城市建造游戏 "wikilink")\[1\]。此游戏在中国大陆由[第三波软件公司引进并汉化](https://zh.wikipedia.org/wiki/第三波软件 "wikilink")。
 
 ## 游戏背景
 
   - 世界观
 
-《凯撒大帝III》中的城市尝试着反映[古代罗马時代市民的真实生活](../Page/古罗马.md "wikilink")，最底層的[平民生活在帐篷或棚舍中](../Page/平民_\(古罗马\).md "wikilink")，而[贵族则居住在别墅或宮殿中](../Page/贵族_\(古罗马\).md "wikilink")。主食包括[小麦](../Page/小麦.md "wikilink")、[水果](../Page/水果.md "wikilink")、[蔬菜和](../Page/蔬菜.md "wikilink")[猪肉或](../Page/猪肉.md "wikilink")[魚肉](../Page/魚肉.md "wikilink")，而酒类只有在某些节慶（豪華節慶）或官邸（別墅以上）中提供\[2\]。
+《凯撒大帝III》中的城市尝试着反映[古代罗马時代市民的真实生活](../Page/古罗马.md "wikilink")，最底層的[平民生活在帐篷或棚舍中](https://zh.wikipedia.org/wiki/平民_\(古罗马\) "wikilink")，而[贵族则居住在别墅或宮殿中](https://zh.wikipedia.org/wiki/贵族_\(古罗马\) "wikilink")。主食包括[小麦](../Page/小麦.md "wikilink")、[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[蔬菜和](../Page/蔬菜.md "wikilink")[猪肉或](https://zh.wikipedia.org/wiki/猪肉 "wikilink")[魚肉](https://zh.wikipedia.org/wiki/魚肉 "wikilink")，而酒类只有在某些节慶（豪華節慶）或官邸（別墅以上）中提供\[2\]。
 
   - 人物
 
@@ -14,7 +14,7 @@
 
   - 人口
 
-游戏画面是以[二维形式呈现](../Page/二维.md "wikilink")，固定放大级别，可以90度进行旋转，玩者需要建造許多種類的建築物：住宅用地、農業建物、工業建築、公共設施、政教機構與倉庫等\[4\]。
+游戏画面是以[二维形式呈现](https://zh.wikipedia.org/wiki/二维 "wikilink")，固定放大级别，可以90度进行旋转，玩者需要建造許多種類的建築物：住宅用地、農業建物、工業建築、公共設施、政教機構與倉庫等\[4\]。
 
   - 音效
 
@@ -22,7 +22,7 @@
 
   - 操作
 
-當遊戲開始，玩家決定發展位置後，便是鋪設道路，接著建設住宅區，吸引外地人民來玩家城市居住，然後提供[食物](../Page/食物.md "wikilink")、[飲水](../Page/飲水.md "wikilink")、[宗教](../Page/宗教.md "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[教育](../Page/教育.md "wikilink")、[衛生等服務](../Page/衛生.md "wikilink")，這些設施建造下去，便會派遣員工到住宅區招募員工，當招募到足夠勞工後，便會派遣服務人員到住宅區提供服務，當各種設施的人員提供服務後，住宅區的房子，就會逐漸升級，隨著房子等級越來越高，所要求的滿意度也會隨著房子的等級來升高，玩家就有需要建造[花園](../Page/花園.md "wikilink")、[雕像](../Page/雕像.md "wikilink")、[廣場](../Page/廣場.md "wikilink")、[神諭等設施](../Page/神諭.md "wikilink")，來滿足這些房屋的需求，以便於能持續提高房屋等級\[6\]。
+當遊戲開始，玩家決定發展位置後，便是鋪設道路，接著建設住宅區，吸引外地人民來玩家城市居住，然後提供[食物](../Page/食物.md "wikilink")、[飲水](https://zh.wikipedia.org/wiki/飲水 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")、[教育](../Page/教育.md "wikilink")、[衛生等服務](https://zh.wikipedia.org/wiki/衛生 "wikilink")，這些設施建造下去，便會派遣員工到住宅區招募員工，當招募到足夠勞工後，便會派遣服務人員到住宅區提供服務，當各種設施的人員提供服務後，住宅區的房子，就會逐漸升級，隨著房子等級越來越高，所要求的滿意度也會隨著房子的等級來升高，玩家就有需要建造[花園](https://zh.wikipedia.org/wiki/花園 "wikilink")、[雕像](https://zh.wikipedia.org/wiki/雕像 "wikilink")、[廣場](../Page/廣場.md "wikilink")、[神諭等設施](https://zh.wikipedia.org/wiki/神諭 "wikilink")，來滿足這些房屋的需求，以便於能持續提高房屋等級\[6\]。
 
 《凯撒大帝III》有別於其他城市建造遊戲，比較注重城市的經營而非戰鬥，外來勢力是隨機攻擊玩家的城市，玩家有兩種模式進行遊戲，第一種是任務模式，玩家必須滿足規定的要求才能過關，另一種是劇情模式，沒有任何要求，完全讓玩家自由發展城市\[7\]。
 
@@ -30,20 +30,20 @@
 
 玩家一開始的階級是平民，而完成皇帝所交代的任務，階級便會上升，最終則會升到皇帝，而在通過前二個任務後，從第三個任務開始，有兩種地圖可以選擇，一種是注重軍事方面，另一種是注重經營方面。
 
-| 任務模式                                  |
-| ------------------------------------- |
-| [階級](../Page/社會階級.md "wikilink")      |
-| [平民](../Page/平民.md "wikilink")        |
-| [書記](../Page/書記.md "wikilink")        |
-| [工程師](../Page/工程師.md "wikilink")      |
-| [建築師](../Page/建築師.md "wikilink")      |
-| [司法官](../Page/司法官.md "wikilink")      |
-| [行政官](../Page/行政官.md "wikilink")      |
-| [營造司](../Page/營造司.md "wikilink")      |
-| [執政官](../Page/執政官.md "wikilink")      |
-| [地方總督](../Page/地方總督.md "wikilink")    |
-| [總督](../Page/资深执政官.md "wikilink")     |
-| [皇帝](../Page/凯撒_\(头衔\).md "wikilink") |
+| 任務模式                                                  |
+| ----------------------------------------------------- |
+| [階級](https://zh.wikipedia.org/wiki/社會階級 "wikilink")   |
+| [平民](https://zh.wikipedia.org/wiki/平民 "wikilink")     |
+| [書記](https://zh.wikipedia.org/wiki/書記 "wikilink")     |
+| [工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")   |
+| [建築師](https://zh.wikipedia.org/wiki/建築師 "wikilink")   |
+| [司法官](https://zh.wikipedia.org/wiki/司法官 "wikilink")   |
+| [行政官](https://zh.wikipedia.org/wiki/行政官 "wikilink")   |
+| [營造司](https://zh.wikipedia.org/wiki/營造司 "wikilink")   |
+| [執政官](https://zh.wikipedia.org/wiki/執政官 "wikilink")   |
+| [地方總督](https://zh.wikipedia.org/wiki/地方總督 "wikilink") |
+| [總督](https://zh.wikipedia.org/wiki/资深执政官 "wikilink")  |
+| [皇帝](../Page/凯撒_\(头衔\).md "wikilink")                 |
 
 前面兩個任務算是教學性質關卡，只要人口達到目標就能完成任務，而從第三個任務開始，除了在人口的需要符合要求外，皇帝還會要求文化、繁榮、和平、支持度四個評比。越到後面的任務，這些評比要求會越來越高，而和平任務的評比會比軍事任務來的高。
 
@@ -107,15 +107,15 @@
 這款遊戲注重城市建造而不是戰鬥，儘管在遊戲中進行和平任務，但還是有幾場戰鬥會在遊戲中出現。下表是遊戲中出現的敵人，是從弱到強。
 
   - [伊特拉斯坎](../Page/伊特拉斯坎文明.md "wikilink")：[塔連登和](../Page/塔兰托.md "wikilink")[范倫提亞](../Page/瓦倫西亞.md "wikilink")
-  - [希臘](../Page/希臘人.md "wikilink")：[西那庫斯和](../Page/锡拉库萨.md "wikilink")[美里塔司](../Page/米利都.md "wikilink")
-  - [帕加马](../Page/帕加马.md "wikilink")：[塔瑟斯](../Page/大數.md "wikilink")
-  - [埃及](../Page/古埃及.md "wikilink")：[大馬士革](../Page/大馬士革.md "wikilink")
+  - [希臘](../Page/希臘人.md "wikilink")：[西那庫斯和](https://zh.wikipedia.org/wiki/锡拉库萨 "wikilink")[美里塔司](../Page/米利都.md "wikilink")
+  - [帕加马](../Page/帕加马.md "wikilink")：[塔瑟斯](https://zh.wikipedia.org/wiki/大數 "wikilink")
+  - [埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")：[大馬士革](https://zh.wikipedia.org/wiki/大馬士革 "wikilink")
   - [努米底亞](../Page/努米底亞.md "wikilink")：[丁吉斯和](../Page/丹吉尔.md "wikilink")[西撒利亞](../Page/歇爾謝爾.md "wikilink")
-  - [高盧](../Page/高盧.md "wikilink")：[巴黎和](../Page/巴黎.md "wikilink")[瑪西利亞](../Page/馬賽.md "wikilink")
-  - [哥德](../Page/哥德.md "wikilink")：[撒米塞吉圖撒](../Page/撒米塞吉圖撒.md "wikilink")
-  - [塞爾特](../Page/塞爾特.md "wikilink")：[隆狄尼恩和](../Page/倫敦.md "wikilink")[林登](../Page/林肯_\(林肯郡\).md "wikilink")
+  - [高盧](https://zh.wikipedia.org/wiki/高盧 "wikilink")：[巴黎和](../Page/巴黎.md "wikilink")[瑪西利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
+  - [哥德](https://zh.wikipedia.org/wiki/哥德 "wikilink")：[撒米塞吉圖撒](https://zh.wikipedia.org/wiki/撒米塞吉圖撒 "wikilink")
+  - [塞爾特](https://zh.wikipedia.org/wiki/塞爾特 "wikilink")：[隆狄尼恩和](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[林登](../Page/林肯_\(林肯郡\).md "wikilink")
   - [迦太基](../Page/迦太基.md "wikilink")：[莫迪歐南和](../Page/米蘭.md "wikilink")[迦太基](../Page/迦太基.md "wikilink")
-  - [羅馬](../Page/羅馬.md "wikilink")：假如玩家負債情況持續太久，會引起皇帝憤怒，派遣軍隊攻擊玩家城市，首次會有兩個軍團羅馬士兵攻擊，假如全部殲滅，下一次會有六到八個羅馬士兵軍團攻擊，之後都是固定這種數量來攻擊，除非玩家將支持度提升到35以上，皇帝才會下令軍隊停止攻擊。
+  - [羅馬](https://zh.wikipedia.org/wiki/羅馬 "wikilink")：假如玩家負債情況持續太久，會引起皇帝憤怒，派遣軍隊攻擊玩家城市，首次會有兩個軍團羅馬士兵攻擊，假如全部殲滅，下一次會有六到八個羅馬士兵軍團攻擊，之後都是固定這種數量來攻擊，除非玩家將支持度提升到35以上，皇帝才會下令軍隊停止攻擊。
 
 人民有時候會產生起義行動，雖然發生之前是無警告來提醒，不過這些起義分子是很容易平定。
 
@@ -123,7 +123,7 @@
 
 ## 宗教
 
-遊戲中共有五種羅馬神祇，玩家需要建造神廟、神諭或舉辦節慶來取悅神祇。他們分別是戰爭之神[馬爾斯](../Page/馬爾斯.md "wikilink")、愛情之神[維納斯](../Page/維納斯.md "wikilink")、商業之神[墨丘里](../Page/墨丘利.md "wikilink")、農業之神[塞麗絲](../Page/刻瑞斯_\(羅馬神話\).md "wikilink")、海洋之神[納普敦](../Page/尼普顿.md "wikilink")。
+遊戲中共有五種羅馬神祇，玩家需要建造神廟、神諭或舉辦節慶來取悅神祇。他們分別是戰爭之神[馬爾斯](https://zh.wikipedia.org/wiki/馬爾斯 "wikilink")、愛情之神[維納斯](https://zh.wikipedia.org/wiki/維納斯 "wikilink")、商業之神[墨丘里](https://zh.wikipedia.org/wiki/墨丘利 "wikilink")、農業之神[塞麗絲](https://zh.wikipedia.org/wiki/刻瑞斯_\(羅馬神話\) "wikilink")、海洋之神[納普敦](../Page/尼普顿.md "wikilink")。
 
 如果玩家城市的神廟數量沒有與現下人口符合或冷落其中一種神祇，他們會感到憤怒，而會對玩家城市降下災禍，來表達他們的不滿，相對的，假如玩家讓他們感到滿意，他們會給予祝福，讓玩家得到意外的收獲，所以玩家有需要留意宗教顧問的訊息和定期為每位神祇舉辦節慶\[9\]。
 
@@ -165,15 +165,15 @@
 
 ## 編輯軟體
 
-《凱撒大帝III》發行幾年後，雪乐山公司又在官方網站釋出了編輯軟體，可以讓玩家在20張以上的城市地圖，自由設定生產貨物、地形和敵人種族（加入[匈奴](../Page/匈人.md "wikilink")、[塞琉古](../Page/塞琉古帝國.md "wikilink")、[馬其頓](../Page/馬其頓.md "wikilink")、[猶太四個新種族](../Page/猶太人.md "wikilink")），雖然雪乐山公司網站已經關閉，不過玩家仍然可以在[GameSpot下載編輯軟體](../Page/GameSpot.md "wikilink")，另外還有之後的遊戲版本可以下載。
+《凱撒大帝III》發行幾年後，雪乐山公司又在官方網站釋出了編輯軟體，可以讓玩家在20張以上的城市地圖，自由設定生產貨物、地形和敵人種族（加入[匈奴](https://zh.wikipedia.org/wiki/匈人 "wikilink")、[塞琉古](https://zh.wikipedia.org/wiki/塞琉古帝國 "wikilink")、[馬其頓](../Page/馬其頓.md "wikilink")、[猶太四個新種族](https://zh.wikipedia.org/wiki/猶太人 "wikilink")），雖然雪乐山公司網站已經關閉，不過玩家仍然可以在[GameSpot下載編輯軟體](../Page/GameSpot.md "wikilink")，另外還有之後的遊戲版本可以下載。
 
 ## 参见
 
-  - [模擬城市](../Page/模擬城市.md "wikilink")
+  - [模擬城市](https://zh.wikipedia.org/wiki/模擬城市 "wikilink")
   - [凯撒大帝IV](../Page/凯撒大帝IV.md "wikilink")
-  - [不朽之都：尼羅河的兒女](../Page/不朽之都：尼羅河的兒女.md "wikilink")
-  - [法老](../Page/法老_\(遊戲\).md "wikilink")
-  - [宙斯](../Page/宙斯_\(遊戲\).md "wikilink")
+  - [不朽之都：尼羅河的兒女](https://zh.wikipedia.org/wiki/不朽之都：尼羅河的兒女 "wikilink")
+  - [法老](https://zh.wikipedia.org/wiki/法老_\(遊戲\) "wikilink")
+  - [宙斯](https://zh.wikipedia.org/wiki/宙斯_\(遊戲\) "wikilink")
   - [城市建造遊戲](../Page/城市建造遊戲.md "wikilink")
 
 ## 參考文獻
@@ -192,7 +192,7 @@
     (商业网站)
 
 [cs:Caesar (série počítačových her)\#Caesar
-III](../Page/cs:Caesar_\(série_počítačových_her\)#Caesar_III.md "wikilink")
+III](https://zh.wikipedia.org/wiki/cs:Caesar_\(série_počítačových_her\)#Caesar_III "wikilink")
 
 [Category:城市建造游戏](https://zh.wikipedia.org/wiki/Category:城市建造游戏 "wikilink")
 [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")

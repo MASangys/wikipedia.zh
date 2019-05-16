@@ -1,5 +1,5 @@
 ****
-是[Google于](../Page/Google.md "wikilink")2009年12月5日起提供的一个免费域名解析服务（[DNS](../Page/DNS.md "wikilink")）。
+是[Google于](../Page/Google.md "wikilink")2009年12月5日起提供的一个免费域名解析服务（[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）。
 
 以下为此服务的DNS地址：
 
@@ -22,17 +22,17 @@
 ## 介绍
 
 Google Public DNS
-是Google面对大众推出的一个公共免费域名解析服务。而Google表示推出免费DNS服务的主要目的就是为了改进网络浏览速度、改善网络用户的浏览体验，为此Google並不使用[BIND等廣為使用的DNS程式](../Page/BIND.md "wikilink")，而是以自行開發的軟體对DNS服务器技术进行了改进，在兩層[計算機叢集上](../Page/計算機叢集.md "wikilink")，[缓存DNS服务器](../Page/缓存.md "wikilink")[平衡負載以提升性能](../Page/負載均衡_\(計算機\).md "wikilink")，同时保证了DNS服务的安全性和准确性\[2\]\[3\]。
+是Google面对大众推出的一个公共免费域名解析服务。而Google表示推出免费DNS服务的主要目的就是为了改进网络浏览速度、改善网络用户的浏览体验，为此Google並不使用[BIND等廣為使用的DNS程式](../Page/BIND.md "wikilink")，而是以自行開發的軟體对DNS服务器技术进行了改进，在兩層[計算機叢集上](https://zh.wikipedia.org/wiki/計算機叢集 "wikilink")，[缓存DNS服务器](../Page/缓存.md "wikilink")[平衡負載以提升性能](https://zh.wikipedia.org/wiki/負載均衡_\(計算機\) "wikilink")，同时保证了DNS服务的安全性和准确性\[2\]\[3\]。
 
 ## 服务
 
-该服务并不使用诸如[BIND那样的第三方](../Page/BIND.md "wikilink")[DNS管理软件](../Page/DNS管理软件.md "wikilink")，而是以自行开发的软件实现，并提供有限的IPv6支持，依照[IETF提供的DNS服务标准设计](../Page/IETF.md "wikilink")。同时部分支持[DNSSEC协议](../Page/DNSSEC.md "wikilink")。\[4\]
+该服务并不使用诸如[BIND那样的第三方](../Page/BIND.md "wikilink")[DNS管理软件](https://zh.wikipedia.org/wiki/DNS管理软件 "wikilink")，而是以自行开发的软件实现，并提供有限的IPv6支持，依照[IETF提供的DNS服务标准设计](https://zh.wikipedia.org/wiki/IETF "wikilink")。同时部分支持[DNSSEC协议](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")。\[4\]
 
 许多主要DNS提供商处理查询
-时实施[域名劫持](../Page/域名劫持.md "wikilink")，导致浏览器进入未注册域名时重定向到广告提供商的页面，此举明显破坏了DNS规范，\[5\]像中国电信在此情况下一般直接弹出充满广告的114页面，\[6\]又如[OpenDNS会显示一个有广告或搜索引擎的域名解析错误提示页面](../Page/OpenDNS.md "wikilink")。\[7\]
+时实施[域名劫持](https://zh.wikipedia.org/wiki/域名劫持 "wikilink")，导致浏览器进入未注册域名时重定向到广告提供商的页面，此举明显破坏了DNS规范，\[5\]像中国电信在此情况下一般直接弹出充满广告的114页面，\[6\]又如[OpenDNS会显示一个有广告或搜索引擎的域名解析错误提示页面](../Page/OpenDNS.md "wikilink")。\[7\]
 相比之下，Google的服务会正确回复至NXDOMAIN页面。\[8\]
 
-在第三方服务商以合法途径用DNS服务试图将用户重定向至恶意网站的情况之下，Google还特别重视处理域名服务的安全问题。他们还证实他们的成果可抵御[域名服务器缓存污染](../Page/域名服务器缓存污染.md "wikilink")，以及[分布式拒绝服务攻击](../Page/分布式拒绝服务攻击.md "wikilink")。\[9\]
+在第三方服务商以合法途径用DNS服务试图将用户重定向至恶意网站的情况之下，Google还特别重视处理域名服务的安全问题。他们还证实他们的成果可抵御[域名服务器缓存污染](../Page/域名服务器缓存污染.md "wikilink")，以及[分布式拒绝服务攻击](https://zh.wikipedia.org/wiki/分布式拒绝服务攻击 "wikilink")。\[9\]
 
 Google声称有各类性能和速度上的优势，\[10\]诸如使用选播路由
 将用户导入最近的全球数据中心，为服务器预留空间到句柄即使遭遇恶意通路，以及使用两个缓冲层保证服务器负载平衡，使用小型单机[缓存包含多数常用域名及其他按域名区分的设备缓冲池以锁定](../Page/缓存.md "wikilink")。第二层缓存可降低能造成服务器增多的破损缓存失败的几率。
@@ -40,13 +40,13 @@ Google声称有各类性能和速度上的优势，\[10\]诸如使用选播路�
 ## 隐私
 
 Google声称为了性能及安全,
-只有用户的[IP地址](../Page/IP地址.md "wikilink")（24小时后删除）、[ISP和地理位置信息](../Page/互联网服务提供商.md "wikilink")（永久保存）会被服务器留存。\[11\]\[12\]\[13\]
+只有用户的[IP地址](../Page/IP地址.md "wikilink")（24小时后删除）、[ISP和地理位置信息](https://zh.wikipedia.org/wiki/互联网服务提供商 "wikilink")（永久保存）会被服务器留存。\[11\]\[12\]\[13\]
 
 ## 历史
 
 2009年12月，Google通过产品经理Prem Ramaswami从官方博客宣布启动Google Public
 DNS\[14\]，同时在[Google
-Code发布了这个消息](../Page/Google_Code.md "wikilink")。\[15\]
+Code发布了这个消息](https://zh.wikipedia.org/wiki/Google_Code "wikilink")。\[15\]
 
 ### 中国大陆的封锁
 
@@ -60,7 +60,7 @@ Google Public DNS
 ### DNSSEC
 
 2013年5月6日，Google Public
-DNS默认启用[DNSSEC验证](../Page/DNSSEC.md "wikilink")，意味着即使客户端未启用，所有的域名解析请求都将接受验证
+DNS默认启用[DNSSEC验证](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")，意味着即使客户端未启用，所有的域名解析请求都将接受验证
 。\[18\]
 
 Google Public DNS起初不直接支持DNSSEC。即使RRSIG不可被查询，AD flag（Authenticated

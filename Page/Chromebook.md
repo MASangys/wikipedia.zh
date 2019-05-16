@@ -21,7 +21,7 @@ E-350為動力的超便攜運行[Windows
 但是另一方面，[TechCrunch寫了有利的評論](../Page/TechCrunch.md "wikilink")，讚揚的改進速度和觸控板的靈敏度比CR-48的原型機好很多，以及更長的電池壽命和事實上所有型號價格低於[iPad的優勢](https://zh.wikipedia.org/wiki/iPad "wikilink")
 。
 
-在2011年6月[iFixit網站拆解三星](../Page/iFixit.md "wikilink")5系列作出硬體評論，並認為它基本上是一種改進的CR-48。他們評它為6/10顆星的分數，主要是因為更換電池必須拆機且由於RAM芯片焊接到主板上變成無法升級。iFixit指出，“大多塑膠材質”感覺“有點廉價”。從好的方面說，他們在屏幕上很容易拆除大部分組件，包括硬碟更換還算方便。
+在2011年6月[iFixit網站拆解三星](https://zh.wikipedia.org/wiki/iFixit "wikilink")5系列作出硬體評論，並認為它基本上是一種改進的CR-48。他們評它為6/10顆星的分數，主要是因為更換電池必須拆機且由於RAM芯片焊接到主板上變成無法升級。iFixit指出，“大多塑膠材質”感覺“有點廉價”。從好的方面說，他們在屏幕上很容易拆除大部分組件，包括硬碟更換還算方便。
 iFixit的的凱爾威恩斯總結說：“我們的分析顯示，該5系列是精心打磨版的CR-48原型機。Chromebook的5系列改進了CR-48的致命缺點，並增加3項廣泛消費群最關心的功能：流線型外觀，8小時以上的電池壽命和性能優化。
 
 ## 製造商
@@ -240,7 +240,7 @@ class="unsortable" |
 
 ## 參見
 
-  - [Chromebox](https://zh.wikipedia.org/wiki/Chromebox "wikilink")
+  - [Chromebox](../Page/Chromebox.md "wikilink")
 
 ## 注释
 

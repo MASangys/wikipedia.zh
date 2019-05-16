@@ -1,4 +1,4 @@
-**Rio系列**（リオシリーズ）是指NET公司發售的[柏青嫂](../Page/柏青嫂.md "wikilink")（Pachi-slot）機內主要人物Rio的一連串的機種。
+**Rio系列**（リオシリーズ）是指NET公司發售的[柏青嫂](https://zh.wikipedia.org/wiki/柏青嫂 "wikilink")（Pachi-slot）機內主要人物Rio的一連串的機種。
 
 ## 機種
 
@@ -10,7 +10,7 @@
 
 ## 沿生
 
-  - **[無雙☆群星大會串](../Page/無雙☆群星大會串.md "wikilink")**（2017年）
+  - **[無雙☆群星大會串](https://zh.wikipedia.org/wiki/無雙☆群星大會串 "wikilink")**（2017年）
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 ## 廣播劇CD
 
-由[光榮特庫摩發售](../Page/光榮特庫摩.md "wikilink")。
+由[光榮特庫摩發售](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")。
 
 \*;Rio Sound Hustle\! -Rio盛-
 

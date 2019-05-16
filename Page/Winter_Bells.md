@@ -3,7 +3,7 @@ Bells**是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣的第十一�
 of my
 heart](https://zh.wikipedia.org/wiki/Secret_of_my_heart "wikilink")》以來第四支擔任動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的歌，也是其本人自單曲《[Stay
 by my
-side](../Page/Stay_by_my_side.md "wikilink")》以來第二張獲得[oricon榜周榜冠軍的單曲](../Page/oricon.md "wikilink")。
+side](../Page/Stay_by_my_side.md "wikilink")》以來第二張獲得[oricon榜周榜冠軍的單曲](https://zh.wikipedia.org/wiki/oricon "wikilink")。
 
 ## 曲目
 

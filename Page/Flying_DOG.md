@@ -1,17 +1,17 @@
 [veglogo.png](https://zh.wikipedia.org/wiki/File:veglogo.png "fig:veglogo.png")
 **flying
-DOG**（飛犬），是指[勝利娛樂旗下動畫相關事業](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")**株式会社flying
+DOG**（飛犬），是指[勝利娛樂旗下動畫相關事業](../Page/勝利娛樂.md "wikilink")**株式会社flying
 DOG**（／），以及所屬品牌。
 
 ## 概要
 
   - FLYING DOG
 
-1976年由[勝利音樂產業](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")（当時）的高垣健\[1\]創設[日本搖滾樂唱片品牌](https://zh.wikipedia.org/wiki/日本搖滾樂 "wikilink")，於1982年停止發行。所屬藝人有PANTA、野宮真貴、Halmens、渡邊勝、山岸潤史等，活動海報曾使用漢字表記「」\[2\]。
+1976年由[勝利音樂產業](../Page/勝利娛樂.md "wikilink")（当時）的高垣健\[1\]創設[日本搖滾樂唱片品牌](https://zh.wikipedia.org/wiki/日本搖滾樂 "wikilink")，於1982年停止發行。所屬藝人有PANTA、野宮真貴、Halmens、渡邊勝、山岸潤史等，活動海報曾使用漢字表記「」\[2\]。
 
   - flying DOG
 
-2007年10月，[勝利娛樂動畫相關廠牌](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")移管至JVC娛樂，並更名，\[3\]\[4\]亦表記「flying
+2007年10月，[勝利娛樂動畫相關廠牌](../Page/勝利娛樂.md "wikilink")移管至JVC娛樂，並更名，\[3\]\[4\]亦表記「flying
 DOG/JVC Ent.」。
 
   - FlyingDog
@@ -28,7 +28,7 @@ DOG/JVC Ent.」。
 
   - [美波](https://zh.wikipedia.org/wiki/美波_\(創作歌手\) "wikilink")
   - [AKINO](../Page/AKINO.md "wikilink")
-  - [西澤幸奏](https://zh.wikipedia.org/wiki/西澤幸奏 "wikilink")
+  - [西澤幸奏](../Page/西澤幸奏.md "wikilink")
   - [新居昭乃](../Page/新居昭乃.md "wikilink")
   - [有坂美香](https://zh.wikipedia.org/wiki/有坂美香 "wikilink")
   - [石川智晶](../Page/石川智晶.md "wikilink")
@@ -40,7 +40,8 @@ DOG/JVC Ent.」。
   - [小峰理紗](../Page/小峰理紗.md "wikilink")（lisa）
   - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
   - ザッハトルテ
-  - [savage genius](../Page/savage_genius.md "wikilink")
+  - [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
   - Taja
   - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
   - [中野愛子](https://zh.wikipedia.org/wiki/中野愛子 "wikilink")
@@ -48,7 +49,7 @@ DOG/JVC Ent.」。
     YUUKA](https://zh.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")）
   - [野水伊織](../Page/野水伊織.md "wikilink")
   - [hibiku](https://zh.wikipedia.org/wiki/hibiku "wikilink")
-  - [FIRE BOMBER](../Page/FIRE_BOMBER.md "wikilink")
+  - [FIRE BOMBER](https://zh.wikipedia.org/wiki/FIRE_BOMBER "wikilink")
   - [FictionJunction](../Page/FictionJunction.md "wikilink")
   - [福山潤](../Page/福山潤.md "wikilink")
   - [松元環季](https://zh.wikipedia.org/wiki/松元環季 "wikilink")
@@ -56,13 +57,13 @@ DOG/JVC Ent.」。
   - [May'n](../Page/May'n.md "wikilink")
   - [山口理惠](../Page/山口理惠.md "wikilink")
   - [吉田旬吾](https://zh.wikipedia.org/wiki/吉田旬吾 "wikilink")
-  - [Rhodanthe\*](https://zh.wikipedia.org/wiki/黃金拼圖 "wikilink")
+  - [Rhodanthe\*](../Page/黃金拼圖.md "wikilink")
   - [ROUND TABLE featuring Nino](../Page/ROUND_TABLE.md "wikilink")
   - [Rayflower](https://zh.wikipedia.org/wiki/Rayflower "wikilink")
   - [ROCKY CHACK](https://zh.wikipedia.org/wiki/ROCKY_CHACK "wikilink")
-  - [ナノ](https://zh.wikipedia.org/wiki/奈米_\(歌手\) "wikilink")（nano）
-  - [安野希世乃](https://zh.wikipedia.org/wiki/安野希世乃 "wikilink")
-  - [沼倉愛美](https://zh.wikipedia.org/wiki/沼倉愛美 "wikilink")
+  - [ナノ](../Page/奈米_\(歌手\).md "wikilink")（nano）
+  - [安野希世乃](../Page/安野希世乃.md "wikilink")
+  - [沼倉愛美](../Page/沼倉愛美.md "wikilink")
   - [ワルキューレ](https://zh.wikipedia.org/wiki/ワルキューレ "wikilink")
   - [JUNNA](https://zh.wikipedia.org/wiki/JUNNA "wikilink")
 

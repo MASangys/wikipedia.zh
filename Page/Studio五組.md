@@ -4,10 +4,10 @@
 
 **Studio五組**是一間自[GONZO的第](../Page/GONZO.md "wikilink")5工作室、即《[強襲魔女](../Page/強襲魔女.md "wikilink")》及《[-{zh-cn:天才麻将少女;zh-tw:天才麻將少女;zh-hk:咲-Saki-}-](../Page/咲-Saki-.md "wikilink")》製作團隊所組成的公司。2009年4月，由於GONZO經營不善，被GDH收購，諸多GONZO的元老退社離開。
 
-因此在次年2010年5月，前GONZO的製作人柴田知典帶領第5工作室獨立，設立動畫公司Studio五組，公司名就是紀念第5工作室的意思\[3\]。並且公司總部位於[ufotable總部的隔壁](../Page/ufotable.md "wikilink")\[4\]。
+因此在次年2010年5月，前GONZO的製作人柴田知典帶領第5工作室獨立，設立動畫公司Studio五組，公司名就是紀念第5工作室的意思\[3\]。並且公司總部位於[ufotable總部的隔壁](https://zh.wikipedia.org/wiki/ufotable "wikilink")\[4\]。
 
 2010年至2011年發售的OVA動畫《[聲優初體驗！The
-ANIMATION](../Page/聲優初體驗！.md "wikilink")》是Studio五組的第一部統包製作。然後2014年播映的《[結城友奈是勇者](https://zh.wikipedia.org/wiki/結城友奈是勇者 "wikilink")》是Studio五組的第一部原創製作電視動畫。
+ANIMATION](../Page/聲優初體驗！.md "wikilink")》是Studio五組的第一部統包製作。然後2014年播映的《[結城友奈是勇者](../Page/結城友奈是勇者.md "wikilink")》是Studio五組的第一部原創製作電視動畫。
 
 Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少女;zh-tw:天才麻將少女;zh-hk:咲-Saki-}-》系列的續篇製作。一方面與從Studio五組內部第2工作室獨立的[AXsiZ一起共用同一棟辦公大樓](https://zh.wikipedia.org/wiki/AXsiZ "wikilink")、一起統包製作動畫及擔當下游包商協助其它公司。
 
@@ -71,7 +71,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p>4月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斷裁分離的罪惡之剪" title="wikilink">斷裁分離的罪惡之剪</a></p></td>
+<td><p><a href="../Page/斷裁分離的罪惡之剪.md" title="wikilink">斷裁分離的罪惡之剪</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山口祐司_(動畫導演)" title="wikilink">山口祐司</a></p></td>
 <td><p>漫畫</p></td>
@@ -79,7 +79,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </tr>
 <tr class="even">
 <td><p>7月－9月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃金拼圖" title="wikilink">黃金拼圖</a></p></td>
+<td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,7 +97,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </tr>
 <tr class="even">
 <td><p>4月－6月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛絲卡&amp;羅吉的鍊金工房～黃昏天空之鍊金術士～" title="wikilink">愛絲卡&amp;羅吉的鍊金工房 ～黃昏天空之鍊金術士～</a></p></td>
+<td><p><a href="../Page/愛絲卡&amp;羅吉的鍊金工房～黃昏天空之鍊金術士～.md" title="wikilink">愛絲卡&amp;羅吉的鍊金工房 ～黃昏天空之鍊金術士～</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岩崎良明" title="wikilink">岩崎良明</a></p></td>
 <td><p>遊戲</p></td>
@@ -106,7 +106,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </tr>
 <tr class="odd">
 <td><p>10月－12月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/結城友奈是勇者" title="wikilink">結城友奈是勇者</a></p></td>
+<td><p><a href="../Page/結城友奈是勇者.md" title="wikilink">結城友奈是勇者</a></p></td>
 <td></td>
 <td><p><a href="../Page/岸誠二.md" title="wikilink">岸誠二</a></p></td>
 <td><p>原創</p></td>
@@ -283,7 +283,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <tbody>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃金拼圖" title="wikilink">黃金拼圖 Pretty Days</a></p></td>
+<td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖 Pretty Days</a></p></td>
 <td></td>
 <td></td>
 <td><p>漫畫</p></td>
@@ -360,7 +360,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>1月－3月</p></td>
 <td><p><a href="../Page/南家三姊妹.md" title="wikilink">南家三姊妹 我回來了</a></p></td>
 <td></td>
-<td><p><a href="../Page/feel..md" title="wikilink">feel.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feel." title="wikilink">feel.</a></p></td>
 <td><p>漫畫</p></td>
 </tr>
 <tr class="even">
@@ -373,9 +373,9 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 </tr>
 <tr class="odd">
 <td><p>10月－2014年3月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東京闇鴉" title="wikilink">東京闇鴉</a></p></td>
+<td><p><a href="../Page/東京闇鴉.md" title="wikilink">東京闇鴉</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/8bit" title="wikilink">8bit</a></p></td>
+<td><p><a href="../Page/8bit.md" title="wikilink">8bit</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>
@@ -384,7 +384,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 <td><p>4月－6月</p></td>
 <td><p><a href="../Page/迷家.md" title="wikilink">迷家</a></p></td>
 <td></td>
-<td><p><a href="../Page/diomedéa.md" title="wikilink">diomedéa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/diomedéa" title="wikilink">diomedéa</a></p></td>
 <td><p>原創</p></td>
 </tr>
 <tr class="odd">
@@ -454,7 +454,7 @@ Studio五組自從成立以來，承包了GONZO時期《-{zh-cn:天才麻将少�
 ## 相關項目
 
   - [AXsiZ](https://zh.wikipedia.org/wiki/AXsiZ "wikilink")
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

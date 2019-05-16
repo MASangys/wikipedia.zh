@@ -1,4 +1,4 @@
-**中日韓統一表意文字擴展區D**（）是一個[Unicode標準](../Page/Unicode.md "wikilink")，在於2010年發布Unicode
+**中日韓統一表意文字擴展區D**（）是一個[Unicode標準](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在於2010年發布Unicode
 6.0中被引入。
 
 擴充D區收入222個漢字，編碼範圍為 U+2B740-U+2B81F。
@@ -7,7 +7,7 @@
 
 擴展D區漢字主要來自：
 
-  - 中國大陆：[公安部身份證系統人名和地名用字](../Page/中國公安部.md "wikilink")。
+  - 中國大陆：[公安部身份證系統人名和地名用字](https://zh.wikipedia.org/wiki/中國公安部 "wikilink")。
       - G_CH：《辭海》1字
       - G_IDC：公安部身份证用字3字
       - G_IDCX：公安部身份证用字29字
@@ -17,13 +17,13 @@
       - TB：CNS 11643-2007 第11平面24字（閩客方言用字）
   - 日本：
       - JH：Hanyo-Denshi Program
-        （）108字（[日本經濟產業省提出的人名和地名用字](../Page/日本經濟產業省.md "wikilink")）
+        （）108字（[日本經濟產業省提出的人名和地名用字](https://zh.wikipedia.org/wiki/日本經濟產業省 "wikilink")）
   - UTC：Unicode technical report \#45
       - UTC：19字
 
 ## 参见
 
-  - [中日韩越统一表意文字](../Page/中日韩越统一表意文字.md "wikilink")
+  - [中日韩越统一表意文字](https://zh.wikipedia.org/wiki/中日韩越统一表意文字 "wikilink")
 
 ## 參考文獻
 

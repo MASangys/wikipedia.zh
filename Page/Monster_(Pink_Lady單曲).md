@@ -1,5 +1,5 @@
-《**Monster**》（[日語](../Page/日語.md "wikilink")：），是[日本女子團體](../Page/日本.md "wikilink")[Pink
-Lady的第](../Page/Pink_Lady.md "wikilink")8張單曲。1978年3月25日發行。
+《**Monster**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本女子團體](../Page/日本.md "wikilink")[Pink
+Lady的第](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")8張單曲。1978年3月25日發行。
 
 ## 簡介
 
@@ -14,7 +14,7 @@ Ten》年終榜排行第17位。\[3\]
 1.  **Monster**（）
       - 作詞：阿久悠；作曲、編曲：都倉俊一
 2.  **Catch Lip**（）
-      - 作詞：阿久悠；作曲：都倉俊一；編曲：[田邊信一](../Page/田邊信一.md "wikilink")
+      - 作詞：阿久悠；作曲：都倉俊一；編曲：[田邊信一](https://zh.wikipedia.org/wiki/田邊信一 "wikilink")
 
 ## 參考資料
 

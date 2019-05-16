@@ -4,8 +4,8 @@ Diego所開發](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")，�
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Xbox
-One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")、[PlayStation
-4等平台上的遊戲開發](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")。
+One](../Page/Xbox_One.md "wikilink")、[PlayStation
+4等平台上的遊戲開發](../Page/PlayStation_4.md "wikilink")。
 
 ## 使用RAGE引擎的遊戲
 

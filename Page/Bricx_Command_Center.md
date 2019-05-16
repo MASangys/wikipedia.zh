@@ -1,8 +1,8 @@
 **Bricx Command Center**，通常簡稱為**BrixCC**，是用來撰寫Next Byte Codes(NBC)、Not
 Quite C(NQC)、[Not eXactly
-C(NXC)語言的](../Page/NXC.md "wikilink")[整合開發環境](../Page/整合開發環境.md "wikilink")，採用[MPL
+C(NXC)語言的](https://zh.wikipedia.org/wiki/NXC "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，採用[MPL
 1.1/MPL
-1.0授權](../Page/Mozilla公共許可證.md "wikilink")，目前最新穩定版本是3.3.8.8，其作者是John
+1.0授權](https://zh.wikipedia.org/wiki/Mozilla公共許可證 "wikilink")，目前最新穩定版本是3.3.8.8，其作者是John
 Hansen。
 
 ## 出版物
@@ -17,7 +17,8 @@ Hansen。
 
   - [樂高Mindstorms NXT](../Page/樂高Mindstorms_NXT.md "wikilink")
   - [樂高Mindstorms RCX](../Page/樂高Mindstorms_RCX.md "wikilink")
-  - [Not eXactly C(NXC)](../Page/Not_eXactly_C.md "wikilink")
+  - [Not eXactly
+    C(NXC)](https://zh.wikipedia.org/wiki/Not_eXactly_C "wikilink")
 
 ## 外部連結
 

@@ -1,4 +1,4 @@
-《**只有神的角色CD**》（神のみキャラCD）是[電視動畫](../Page/電視動畫.md "wikilink")《[只有神知道的世界](../Page/只有神知道的世界.md "wikilink")》的[角色歌曲](../Page/角色歌曲.md "wikilink")[單曲](../Page/單曲.md "wikilink")[系列](../Page/系列.md "wikilink")，由[日本Geneon環球娛樂發售](../Page/日本Geneon環球娛樂.md "wikilink")。第一季歌曲由2010年11月10日至12月22日共發行6片。第二季歌曲由2011年6月1日至2012年3月14日共發行5片。女神篇歌曲由2013年8月7日起發行。
+《**只有神的角色CD**》（神のみキャラCD）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[只有神知道的世界](../Page/只有神知道的世界.md "wikilink")》的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")[系列](../Page/系列.md "wikilink")，由[日本Geneon環球娛樂發售](https://zh.wikipedia.org/wiki/日本Geneon環球娛樂 "wikilink")。第一季歌曲由2010年11月10日至12月22日共發行6片。第二季歌曲由2011年6月1日至2012年3月14日共發行5片。女神篇歌曲由2013年8月7日起發行。
 
 ## 概要
 
@@ -28,7 +28,7 @@
 
 1.  **Wonder Chance** \[3:27\]
       -
-        作詞：[YUMIKO](../Page/YUMIKO.md "wikilink")／作曲：[藤末樹](../Page/藤末樹.md "wikilink")・YUMIKO／編曲：[渡辺拓也](../Page/渡辺拓也.md "wikilink")
+        作詞：[YUMIKO](https://zh.wikipedia.org/wiki/YUMIKO "wikilink")／作曲：[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")・YUMIKO／編曲：[渡辺拓也](https://zh.wikipedia.org/wiki/渡辺拓也 "wikilink")
 2.  **コイノシルシ from Ayumi** \[4:24\]
       -
         作詞：漆野淳哉／作曲：須田悦弘／編曲：渡辺拓也
@@ -39,10 +39,10 @@
 
 1.  **ラスト・ダンス** \[4:14\]
       -
-        作詞：[春和文](../Page/春和文.md "wikilink")／作曲：[中谷あつこ](../Page/中谷あつこ.md "wikilink")／編曲：前口涉
+        作詞：[春和文](https://zh.wikipedia.org/wiki/春和文 "wikilink")／作曲：[中谷あつこ](https://zh.wikipedia.org/wiki/中谷あつこ "wikilink")／編曲：前口涉
 2.  **コイノシルシ from Mio** \[4:19\]
       -
-        作詞：漆野淳哉／作曲：須田悦弘／編曲：[佐々木裕](../Page/佐々木裕.md "wikilink")
+        作詞：漆野淳哉／作曲：須田悦弘／編曲：[佐々木裕](https://zh.wikipedia.org/wiki/佐々木裕 "wikilink")
 3.  ラスト・ダンス（Instrumental）
 4.  コイノシルシ from Mio（Instrumental）
 
@@ -50,7 +50,7 @@
 
 1.  **初めての色** \[3:34\]
       -
-        作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")／作曲・編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
+        作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")／作曲・編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
 2.  **たった一度の奇跡** \[3:30\]
       -
         作詞：酒井伸和／作曲・編曲：天門
@@ -66,7 +66,7 @@
         作詞：zopp／作曲：山口朗彦／編曲：前口涉
 2.  **コイノシルシ from Kanon** \[4:26\]
       -
-        作詞：漆野淳哉／作曲：須田悦弘／編曲：[大久保薫](../Page/大久保薫.md "wikilink")
+        作詞：漆野淳哉／作曲：須田悦弘／編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
 3.  ハッピークレセント（Instrumental）
 4.  コイノシルシ from Kanon（Instrumental）
 
@@ -76,7 +76,7 @@
 
 1.  **口笛ジェット** \[3:56\]
       -
-        作詞：[六ツ見純代](../Page/六ツ見純代.md "wikilink")／作曲：[渡邊翔](../Page/渡邊翔.md "wikilink")／編曲：[大久保薫](../Page/大久保薫.md "wikilink")
+        作詞：[六ツ見純代](https://zh.wikipedia.org/wiki/六ツ見純代 "wikilink")／作曲：[渡邊翔](../Page/渡邊翔.md "wikilink")／編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
 2.  **コイノシルシ from Shiori** \[4:27\]
       -
         作詞：漆野淳哉／作曲：須田悦弘／編曲：前口涉

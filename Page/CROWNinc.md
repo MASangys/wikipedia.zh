@@ -37,14 +37,14 @@ Lee）所創立，其標誌為呈現數位化，所以標誌中的Digital的[英
   - 2012年1月5日 -
     旗下[購物網站GoodGoodMall線上潮流](https://zh.wikipedia.org/wiki/購物網站 "wikilink")[商城開幕](https://zh.wikipedia.org/wiki/商城 "wikilink")。主打台灣潮流品牌全球配送服務。\[9\]
   - 2012年3月1日 -
-    [雜誌網站CROWNinc](https://zh.wikipedia.org/wiki/雜誌 "wikilink").com.tw改版至3.0版本並使用最新[HTML5語言](../Page/HTML5.md "wikilink")，推出行動版網站以及[iOS](../Page/iOS.md "wikilink")
+    [雜誌網站CROWNinc](https://zh.wikipedia.org/wiki/雜誌 "wikilink").com.tw改版至3.0版本並使用最新[HTML5語言](../Page/HTML5.md "wikilink")，推出行動版網站以及[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
     Web-App以針對[智慧型手機最適化](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。支援iOS、[Android](../Page/Android.md "wikilink")、[Blackberry](https://zh.wikipedia.org/wiki/Blackberry "wikilink")、[Samsung](https://zh.wikipedia.org/wiki/Samsung "wikilink")
     [Bada以及](https://zh.wikipedia.org/wiki/Bada_\(操作系统\) "wikilink")[Windows
     Phone等系統最適化瀏覽](../Page/Windows_Phone.md "wikilink")。
   - 2012年3月19日 -
     啟用CROWNinc.tw新[網域](https://zh.wikipedia.org/wiki/網域 "wikilink")。
   - 2012年3月26日 -
-    與[Flipboard合作](https://zh.wikipedia.org/wiki/Flipboard "wikilink")，其潮流新聞內建收錄於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港以及台灣版本的](../Page/香港.md "wikilink")「[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")」分類之中。\[10\]
+    與[Flipboard合作](../Page/Flipboard.md "wikilink")，其潮流新聞內建收錄於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港以及台灣版本的](../Page/香港.md "wikilink")「[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")」分類之中。\[10\]
   - 2012年3月30日 -
     於iOS平台推出專屬[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。成為台灣本土第一個推出行動應用程式的潮流媒體。\[11\]
 

@@ -1,5 +1,5 @@
 **混沌与秩序Online**（[英语](../Page/英语.md "wikilink")：Order and Chaos
-Online）是法国知名手机游戏开发商[Gameloft为](../Page/Gameloft.md "wikilink")[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
+Online）是法国知名手机游戏开发商[Gameloft为](../Page/Gameloft.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[Windows设备开发的一款](https://zh.wikipedia.org/wiki/Windows "wikilink")[MMORPG游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")\[1\]，iOS平台发行于2011年4月27日2012年6月27日，Android和Windows
 Phone则发行於2013年7月10日。目前支援英文、韩文、日文、简体中文、繁体中文\[2\]、法文、德文、意大利文、西班牙文、葡萄牙语（巴西）、俄文、土耳其语、阿拉伯语与印尼语等14种语言。而这游戏被不少玩家认为是手机版的[魔兽世界](../Page/魔兽世界.md "wikilink")\[3\]。2011年5月，Gameloft宣布这游戏发行20日已经带来一百万美元的收入\[4\]。
 

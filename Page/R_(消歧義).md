@@ -1,4 +1,4 @@
-**[R](../Page/R.md "wikilink")**或**[r](../Page/r.md "wikilink")**可以指：
+**[R](../Page/R.md "wikilink")**或**[r](https://zh.wikipedia.org/wiki/r "wikilink")**可以指：
 
 ## 數學
 

@@ -2,23 +2,23 @@
 [Fahrenheit_88_2014_CNY_Decor.jpg](https://zh.wikipedia.org/wiki/File:Fahrenheit_88_2014_CNY_Decor.jpg "fig:Fahrenheit_88_2014_CNY_Decor.jpg")
 
 **華氏88廣場**（又稱飛輪海88廣場）是一座位於[吉隆坡](../Page/吉隆坡.md "wikilink")[武吉免登的購物商場](../Page/武吉免登.md "wikilink")，前身為吉隆坡廣場（KL
-Plaza）。該商場與[柏威年廣場和](../Page/柏威年廣場.md "wikilink")[升禧廣場毗鄰](../Page/升禧廣場.md "wikilink")，佔地約30萬平方呎，共含5層樓，於2010年8月8日重新開幕。
+Plaza）。該商場與[柏威年廣場和](../Page/柏威年廣場.md "wikilink")[升禧廣場毗鄰](https://zh.wikipedia.org/wiki/升禧廣場 "wikilink")，佔地約30萬平方呎，共含5層樓，於2010年8月8日重新開幕。
 
 ## 名稱
 
-飛輪海88廣場意為[華氏](../Page/華氏.md "wikilink")88度，以此表達馬來西亞炎熱的天氣，也有暗示氣氛沸騰、火熱的意思。官方尚未對此商場發表中文譯名，但有些報章（如[光明日報](../Page/光明日報.md "wikilink")）將其音譯為飛輪海88\[1\]。然而也有人因飛輪海88容易與[台灣偶像團體名字混淆](../Page/飛輪海.md "wikilink")，而改稱華氏88，或直呼其英文原名。
+飛輪海88廣場意為[華氏](https://zh.wikipedia.org/wiki/華氏 "wikilink")88度，以此表達馬來西亞炎熱的天氣，也有暗示氣氛沸騰、火熱的意思。官方尚未對此商場發表中文譯名，但有些報章（如[光明日報](https://zh.wikipedia.org/wiki/光明日報 "wikilink")）將其音譯為飛輪海88\[1\]。然而也有人因飛輪海88容易與[台灣偶像團體名字混淆](../Page/飛輪海.md "wikilink")，而改稱華氏88，或直呼其英文原名。
 
 ## 經營狀況
 
 ### 吉隆坡廣場時期
 
-在**吉隆坡廣場**時期，商場由經營，當時商場主要的租戶為本地設計師品牌、珠寶行、、[星巴克](../Page/星巴克.md "wikilink")、及[馬來西亞規模最大的](../Page/馬來西亞.md "wikilink")[淘兒唱片](../Page/淘兒唱片.md "wikilink")（Tower
-Records）旗艦店。隨著音樂市場的萎縮，[淘兒唱片撤出吉隆坡廣場](../Page/淘兒唱片.md "wikilink")，好萊塢星球餐廳也接著撤出，僅剩少數設計師品牌的服裝店在慘淡經營。2007年，成功集團將商場連同樓上的酒店物業，以4.7億[令吉轉售給](../Page/令吉.md "wikilink")[柏威年廣場](../Page/柏威年廣場.md "wikilink")。
+在**吉隆坡廣場**時期，商場由經營，當時商場主要的租戶為本地設計師品牌、珠寶行、、[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")、及[馬來西亞規模最大的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[淘兒唱片](../Page/淘兒唱片.md "wikilink")（Tower
+Records）旗艦店。隨著音樂市場的萎縮，[淘兒唱片撤出吉隆坡廣場](../Page/淘兒唱片.md "wikilink")，好萊塢星球餐廳也接著撤出，僅剩少數設計師品牌的服裝店在慘淡經營。2007年，成功集團將商場連同樓上的酒店物業，以4.7億[令吉轉售給](https://zh.wikipedia.org/wiki/令吉 "wikilink")[柏威年廣場](../Page/柏威年廣場.md "wikilink")。
 
 ### 華氏88廣場時期
 
-[柏威年廣場接手吉隆坡廣場後](../Page/柏威年廣場.md "wikilink")，開始進行大規模整修工作，為配合工程，商場停業一年，在2010年8月8日重新開幕，並易名為**華氏88廣場**。商場內估計約有280戶進駐廠商，涵蓋各類飲食、服飾、娛樂、電子商品等品牌\[2\]。其中的主要租戶包括馬來西亞首間[Uniqlo分店](../Page/Uniqlo.md "wikilink")\[3\]以及Celsius
-KL餐館酒吧，其他租戶還有、、[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")、壽司三味、Vincci（子品牌）、等。該商場主打的客群是消費力不高的青少年族群，因此大部分店面都是獨資經營，以售賣平價潮流服飾，不過除了[Uniqlo和位處正門附近的店面](../Page/Uniqlo.md "wikilink")，商場其他部分的人流量屬於偏少。
+[柏威年廣場接手吉隆坡廣場後](../Page/柏威年廣場.md "wikilink")，開始進行大規模整修工作，為配合工程，商場停業一年，在2010年8月8日重新開幕，並易名為**華氏88廣場**。商場內估計約有280戶進駐廠商，涵蓋各類飲食、服飾、娛樂、電子商品等品牌\[2\]。其中的主要租戶包括馬來西亞首間[Uniqlo分店](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")\[3\]以及Celsius
+KL餐館酒吧，其他租戶還有、、[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")、壽司三味、Vincci（子品牌）、等。該商場主打的客群是消費力不高的青少年族群，因此大部分店面都是獨資經營，以售賣平價潮流服飾，不過除了[Uniqlo和位處正門附近的店面](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")，商場其他部分的人流量屬於偏少。
 
 ## Parkamaya
 
@@ -27,7 +27,7 @@ Street的成功經驗，因此商場管理層回收該樓層的單位，與日�
 
 ## 公共交通
 
-位於吉隆坡金三角黃金地帶，民眾可乘搭[吉隆坡單軌列車在](../Page/吉隆坡單軌列車.md "wikilink")[武吉免登站](../Page/武吉免登站.md "wikilink")（也可通过[双加捷运抵达](../Page/双加捷运.md "wikilink")）或[拉惹朱蘭站下車走一小段路抵達](../Page/拉惹朱蘭站.md "wikilink")。許多巴士服務，如吉隆坡[快捷通巴士](../Page/快捷通巴士.md "wikilink")（RapidKL）、[GO吉隆坡城市巴士](../Page/GO吉隆坡城市巴士.md "wikilink")（GOKL，免费巴士）等都有路線直達这里。
+位於吉隆坡金三角黃金地帶，民眾可乘搭[吉隆坡單軌列車在](../Page/吉隆坡單軌列車.md "wikilink")[武吉免登站](https://zh.wikipedia.org/wiki/武吉免登站 "wikilink")（也可通过[双加捷运抵达](https://zh.wikipedia.org/wiki/双加捷运 "wikilink")）或[拉惹朱蘭站下車走一小段路抵達](https://zh.wikipedia.org/wiki/拉惹朱蘭站 "wikilink")。許多巴士服務，如吉隆坡[快捷通巴士](../Page/快捷通巴士.md "wikilink")（RapidKL）、[GO吉隆坡城市巴士](https://zh.wikipedia.org/wiki/GO吉隆坡城市巴士 "wikilink")（GOKL，免费巴士）等都有路線直達这里。
 
 ## 參考資料
 

@@ -51,7 +51,7 @@ ENTERTAINMENT发行](https://zh.wikipedia.org/wiki/YA!_ENTERTAINMENT "wikilink")
 
 ### NO.6
 
-  - （聲優：[安野希世乃](https://zh.wikipedia.org/wiki/安野希世乃 "wikilink")）
+  - （聲優：[安野希世乃](../Page/安野希世乃.md "wikilink")）
     紫苑的青梅竹馬，16歲，2001年6月12日生，身高155公分，體重45公斤，血型B型，市民編号SSC-00124GJ。
     和紫苑一样，在2岁时就被鑑定为智力最高等的精英，直到12岁都是和紫苑一起上学的。双亲早亡，和祖母两人一起生活。专业是生理学（主要是脑的机能），成绩全A的优等生，16歲時得到了前往NO.5留學的資格。對紫苑抱有強烈到想做愛的愛意。在得知紫苑逃亡到西區後急著去找他，不料路途中被治安局抓去當實驗品。
     為愛麗烏麗亞斯覺醒計畫中最高等樣品，動畫最後一集中，愛麗烏麗亞斯也確實以沙布的身體覺醒，和紫苑、老鼠對話時，沙布自身的意識還存在著，最後以蜂的狀態消失並救活死去的紫苑。
@@ -65,7 +65,7 @@ ENTERTAINMENT发行](https://zh.wikipedia.org/wiki/YA!_ENTERTAINMENT "wikilink")
 
 <!-- end list -->
 
-  - （聲優：[諸星堇](https://zh.wikipedia.org/wiki/諸星堇 "wikilink")）
+  - （聲優：[諸星堇](../Page/諸星堇.md "wikilink")）
     下城的居民，恋香和翠風的女儿，楊眠的外甥女。火藍的面包店常客，與火藍感情很好，喜歡吃火藍的起司馬芬。察觉到了继父的可疑行動而感到不安。
 
 <!-- end list -->
@@ -350,7 +350,7 @@ ISBN 978-4-06-358496-7（特裝版）</p></td>
     作詞・作曲・歌 - [LAMA](https://zh.wikipedia.org/wiki/LAMA "wikilink")
   - 片尾曲「」
     作詞 - aimerrythm / 作曲・編曲 - 飛内将大 / 歌 -
-    [Aimer](https://zh.wikipedia.org/wiki/Aimer "wikilink")
+    [Aimer](../Page/Aimer.md "wikilink")
   - 插入歌「風のレクイエム」（第5話、第8話、第10話、第11話）
     作詞 - あさのあつこ / 作曲 - 鈴木慶一 / 歌 - 大地真央
   - 插入歌「ブナの森で」（第9話）

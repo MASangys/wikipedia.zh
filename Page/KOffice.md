@@ -1,15 +1,15 @@
 KOffice 是一套開放源代碼的辦公室套裝軟體（office
 suite），可用於[Linux](../Page/Linux.md "wikilink")、[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")\[1\]、[Windows](../Page/Windows.md "wikilink")\[2\]
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[1\]、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]
 和
-[Haiku](../Page/Haiku.md "wikilink")\[3\]等作業系統。其中包含了多種軟體，包括：[文字處理器](../Page/文字處理器.md "wikilink")（[KWord](../Page/KWord.md "wikilink")）、[電子數據表](../Page/電子數據表.md "wikilink")（[KCells](../Page/KCells.md "wikilink")）、[向量圖形軟體](../Page/向量圖形.md "wikilink")（[KOffice
-Artwork](../Page/KOffice_Artwork.md "wikilink")）以及簡報軟體（[KOffice
-Showcase](../Page/KOffice_Showcase.md "wikilink")）。
+[Haiku](../Page/Haiku.md "wikilink")\[3\]等作業系統。其中包含了多種軟體，包括：[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")（[KWord](../Page/KWord.md "wikilink")）、[電子數據表](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")（[KCells](https://zh.wikipedia.org/wiki/KCells "wikilink")）、[向量圖形軟體](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")（[KOffice
+Artwork](https://zh.wikipedia.org/wiki/KOffice_Artwork "wikilink")）以及簡報軟體（[KOffice
+Showcase](https://zh.wikipedia.org/wiki/KOffice_Showcase "wikilink")）。
 
 ## 歷史
 
 KOffice
-的開發開始於1997年\[4\]。在1998年加入[KPresenter和](../Page/KPresenter.md "wikilink")[KWord](../Page/KWord.md "wikilink")\[5\]。
+的開發開始於1997年\[4\]。在1998年加入[KPresenter和](https://zh.wikipedia.org/wiki/KPresenter "wikilink")[KWord](../Page/KWord.md "wikilink")\[5\]。
 
 1999年，在美國對微軟反壟斷審判中 KOffice 被舉出作為證詞，被當時的微軟總裁 Paul Maritz
 作為在作業系統和辦公套裝競爭的證據。\[6\]
@@ -20,24 +20,25 @@ KOffice 套裝的第一次正式發布是在2000年，作為 KDE 2.0 的一部�
 
 KOffice 包括下列的元件（components）：
 
-|                                                                                                                                |                                                                |                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [KWord_Application_Logo.svg](https://zh.wikipedia.org/wiki/File:KWord_Application_Logo.svg "fig:KWord_Application_Logo.svg") | **[KWord](../Page/KWord.md "wikilink")**                       | 一个具有樣式表和複雜版面的排版風格編輯器的[文本编辑器](../Page/文本编辑器.md "wikilink")，用于专业的标准文档。                                                 |
-|                                                                                                                                | **[KCells](../Page/KCells.md "wikilink")**                     | 强大的[-{zh-hans:电子制表软件; zh-hant:電子試算表;}-](../Page/電子數據表.md "wikilink")。支持多表格，模板和100多個[數學公式](../Page/數學.md "wikilink")。 |
-|                                                                                                                                | **[KOffice Showcase](../Page/KOffice_Showcase.md "wikilink")** | A [presentation program](../Page/presentation_program.md "wikilink") with image and effect support.                  |
-|                                                                                                                                | **[KOffice Artwork](../Page/KOffice_Artwork.md "wikilink")**   | 矢量绘图程序。                                                                                                              |
+|                                                                                                                                |                                                                                   |                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [KWord_Application_Logo.svg](https://zh.wikipedia.org/wiki/File:KWord_Application_Logo.svg "fig:KWord_Application_Logo.svg") | **[KWord](../Page/KWord.md "wikilink")**                                          | 一个具有樣式表和複雜版面的排版風格編輯器的[文本编辑器](../Page/文本编辑器.md "wikilink")，用于专业的标准文档。                                                                                       |
+|                                                                                                                                | **[KCells](https://zh.wikipedia.org/wiki/KCells "wikilink")**                     | 强大的[-{zh-hans:电子制表软件; zh-hant:電子試算表;}-](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")。支持多表格，模板和100多個[數學公式](https://zh.wikipedia.org/wiki/數學 "wikilink")。 |
+|                                                                                                                                | **[KOffice Showcase](https://zh.wikipedia.org/wiki/KOffice_Showcase "wikilink")** | A [presentation program](https://zh.wikipedia.org/wiki/presentation_program "wikilink") with image and effect support.                                     |
+|                                                                                                                                | **[KOffice Artwork](https://zh.wikipedia.org/wiki/KOffice_Artwork "wikilink")**   | 矢量绘图程序。                                                                                                                                                    |
 
 ## 技術細節
 
-所有的套件都是採用自由軟體授權，並使用[開放文件格式作為原生格式](../Page/開放文件格式.md "wikilink")。
+所有的套件都是採用自由軟體授權，並使用[開放文件格式作為原生格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")。
 
 KOffice
-使用[Flake和](../Page/Flake.md "wikilink")[Pigment於應用程式上](../Page/Pigment.md "wikilink")。KOffice的開發計劃，以共享基礎設施，盡可能在應用程序之間減少錯誤和改善用戶體驗。\[8\]
+使用[Flake和](../Page/Flake.md "wikilink")[Pigment於應用程式上](https://zh.wikipedia.org/wiki/Pigment "wikilink")。KOffice的開發計劃，以共享基礎設施，盡可能在應用程序之間減少錯誤和改善用戶體驗。\[8\]
 自動化測試任務，並可以使用D-Bus或腳本語言，像[Python](../Page/Python.md "wikilink")、[Ruby以及](../Page/Ruby.md "wikilink")[JavaScript增加自行定義功能](../Page/JavaScript.md "wikilink")。\[9\]
 
 ## 參見
 
-  - [Calligra Suite](../Page/Calligra_Suite.md "wikilink")
+  - [Calligra
+    Suite](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")
   - [辦公室套裝軟體比較](../Page/辦公室套裝軟體比較.md "wikilink")
 
 ## 參考

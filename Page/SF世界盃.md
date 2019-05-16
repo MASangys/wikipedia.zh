@@ -1,5 +1,5 @@
 「**SF世界盃**」（Special Force World Championship，簡稱SFWC）為電子競技項目「[SF
-Online](../Page/SF_Online.md "wikilink")」(由韓國遊戲廠商Dragonfly開發)最重要的國際性電競賽事之一，由2007年於韓國開辦第一屆賽事。除第一屆外，均於每年的10-11月間舉行。目前一共有[台灣](../Page/台灣.md "wikilink")、[韓國](../Page/韓國.md "wikilink")、[美國](../Page/美國.md "wikilink")、[日本](../Page/日本.md "wikilink")、[泰國五國代表參與](../Page/泰國.md "wikilink")，原則上每個國家各推出一隊參加比賽，但也有因其他的原因而使得一個國家能夠有兩支隊伍參與\[1\]，比賽場地則由各國輪流主辦。
+Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")」(由韓國遊戲廠商Dragonfly開發)最重要的國際性電競賽事之一，由2007年於韓國開辦第一屆賽事。除第一屆外，均於每年的10-11月間舉行。目前一共有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[泰國五國代表參與](https://zh.wikipedia.org/wiki/泰國 "wikilink")，原則上每個國家各推出一隊參加比賽，但也有因其他的原因而使得一個國家能夠有兩支隊伍參與\[1\]，比賽場地則由各國輪流主辦。
 
 ## 各國代表選拔方式
 
@@ -76,7 +76,7 @@ CN CLan(CHN)[3]</p></td>
 <td><p>第三屆</p></td>
 <td><p>中國</p></td>
 <td><p>2008.11.22～23</p></td>
-<td><p><a href="../Page/華義Spider.md" title="wikilink">華義Spider</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a><br />
 (TPE)</p></td>
 <td><p>Ongamenet<br />
 Sparkyz<br />
@@ -99,7 +99,7 @@ Sparkyz<br />
 <td><p>第四屆</p></td>
 <td><p>台灣</p></td>
 <td><p>2009.11.07～08</p></td>
-<td><p><a href="../Page/華義Spider.md" title="wikilink">華義Spider</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a><br />
 (TPE)</p></td>
 <td><p>Racpy<br />
 (JPN)</p></td>
@@ -110,13 +110,13 @@ Sparkyz<br />
 <td><p>MBC<br />
 GAME HERO+<br />
 (KOR)</p></td>
-<td><p><a href="../Page/橘子熊.md" title="wikilink">橘子熊</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/橘子熊" title="wikilink">橘子熊</a><br />
 (TPE)</p></td>
 <td><p>CDC Games<br />
 (CHN)</p></td>
 <td><p>Mousehole<br />
 (PHI)</p></td>
-<td><p><a href="../Page/羅文裕.md" title="wikilink">羅文裕</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/羅文裕" title="wikilink">羅文裕</a><br />
 (TPE-華義)</p></td>
 </tr>
 <tr class="odd">
@@ -125,9 +125,9 @@ GAME HERO+<br />
 <td><p>2010.10.30～31</p></td>
 <td><p>STX Soul<br />
 (KOR)</p></td>
-<td><p><a href="../Page/橘子熊.md" title="wikilink">橘子熊</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/橘子熊" title="wikilink">橘子熊</a><br />
 (TPE)</p></td>
-<td><p><a href="../Page/華義Spider.md" title="wikilink">華義Spider</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a><br />
 (TPE)</p></td>
 <td><p>WTT<br />
 (THA)</p></td>
@@ -148,7 +148,7 @@ GAME HERO+<br />
 <td><p>2011.11.05～06</p></td>
 <td><p>Amotel<br />
 (THA)</p></td>
-<td><p><a href="../Page/華義Spider.md" title="wikilink">華義Spider</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a><br />
 (TPE)</p></td>
 <td><p>Optimal<br />
 (USA)</p></td>
@@ -173,7 +173,7 @@ GAME HERO+<br />
 (KOR)</p></td>
 <td><p>Amotel<br />
 (THA)</p></td>
-<td><p><a href="../Page/華義Spider.md" title="wikilink">華義Spider</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/華義Spider" title="wikilink">華義Spider</a><br />
 (TPE)</p></td>
 <td><p>1st eSports<br />
 (THA)</p></td>

@@ -83,14 +83,14 @@ JavaScript。
 
 ## 跨站请求伪造
 
-粗略的JSONP部署很容易受到[跨站请求伪造](https://zh.wikipedia.org/wiki/跨站请求伪造 "wikilink")（CSRF/XSRF）的攻擊\[1\]。因為HTML
+粗略的JSONP部署很容易受到[跨站请求伪造](../Page/跨站请求伪造.md "wikilink")（CSRF/XSRF）的攻擊\[1\]。因為HTML
 \[\[HTML元素\#script_tag|<code>
 
 <script>
 
 </code>\]\]標籤在瀏覽器裡不遵守[同源策略](https://zh.wikipedia.org/wiki/同源策略 "wikilink")，惡意網頁可以要求並取得屬於其他網站的JSON資料。當使用者正登入那個其他網站時，上述狀況使得該惡意網站得以在惡意網站的環境下操作該JSON資料，可能洩漏使用者的密碼或是其他敏感資料。
 
-只有在該JSON資料含有不該洩漏給第三方的隱密資料，且伺服器僅靠瀏覽器的同源策略阻擋不正常要求的時候這才會是問題。若伺服器自己決定要求的專有性，並只在要求正常的情況下輸出資料則沒有問題。只靠[Cookie並不夠決定要求是合法的](../Page/Cookie.md "wikilink")，這很容易受到[跨站请求伪造攻擊](https://zh.wikipedia.org/wiki/跨站请求伪造 "wikilink")。
+只有在該JSON資料含有不該洩漏給第三方的隱密資料，且伺服器僅靠瀏覽器的同源策略阻擋不正常要求的時候這才會是問題。若伺服器自己決定要求的專有性，並只在要求正常的情況下輸出資料則沒有問題。只靠[Cookie並不夠決定要求是合法的](../Page/Cookie.md "wikilink")，這很容易受到[跨站请求伪造攻擊](../Page/跨站请求伪造.md "wikilink")。
 
 ## 歷史
 

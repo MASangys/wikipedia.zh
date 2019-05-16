@@ -24,7 +24,7 @@ Software Centre*\[6\]。
 
   - [Synaptic](https://zh.wikipedia.org/wiki/Synaptic "wikilink")
   - [高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")
-  - [Apper](https://zh.wikipedia.org/wiki/Apper "wikilink")
+  - [Apper](../Page/Apper.md "wikilink")
   - [软件更新器](https://zh.wikipedia.org/wiki/软件更新器 "wikilink")
 
 ## 参考文献

@@ -10,7 +10,7 @@ OS
 X的客戶端應用程式Beta版已经发布](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。\[2\]免費的版本提供2GB（後來更新為5GB）的網路儲存空間，而使用者可以以20GB(20點)為單位每個月負擔2.99美元來儲值使用空間。
 
 Ubuntu One
-Mobile在[iPhone和](../Page/iPhone.md "wikilink")[Android平台](../Page/Android.md "wikilink")。提供音樂串流軟體。而手機套件軟體需每月付款3.99美元。
+Mobile在[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[Android平台](../Page/Android.md "wikilink")。提供音樂串流軟體。而手機套件軟體需每月付款3.99美元。
 
 Ubuntu
 One的服務與現有的[SpiderOak](https://zh.wikipedia.org/wiki/SpiderOak "wikilink")、[Dropbox](../Page/Dropbox.md "wikilink")、[Box.net](https://zh.wikipedia.org/wiki/Box.net "wikilink")、[Mozy](https://zh.wikipedia.org/wiki/Mozy "wikilink")、[Wuala](https://zh.wikipedia.org/wiki/Wuala "wikilink")、[Humyo](https://zh.wikipedia.org/wiki/Humyo "wikilink")、[iDisk](https://zh.wikipedia.org/wiki/iDisk "wikilink")、[Jungle
@@ -35,7 +35,7 @@ Ubuntu One被Ubuntu 社群批評。\[5\]
 One的服務。\[6\]然而，原生版的Ubuntu One也遭遇批評。\[7\]
 
 其他還有關於批評Ubuntu One
-音樂店選擇以專利的[mp3作為音樂格式](../Page/mp3.md "wikilink")，另外還有其營運收入對於Ubuntu
+音樂店選擇以專利的[mp3作為音樂格式](https://zh.wikipedia.org/wiki/mp3 "wikilink")，另外還有其營運收入對於Ubuntu
 社群的貢獻也很模糊。另外[Amarok開發團隊以宣佈他們暫且不會把對於Ubuntu](../Page/Amarok.md "wikilink")
 One 音樂店的支援加入（不像是對於[Magnatune](../Page/Magnatune.md "wikilink")
 媒體商店,會捐出自己收入的10％給Amarok發展社群。

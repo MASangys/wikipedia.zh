@@ -32,7 +32,7 @@
 | I'm Sorry                                          | [GUMMY](https://zh.wikipedia.org/wiki/Gummy_\(韓國歌手\) "wikilink") Feat.T.O.P        |                                                                                                                            |
 | My Girl                                            | [太陽](../Page/太陽_\(歌手\).md "wikilink") Feat.[GD\&TOP](../Page/GD&TOP.md "wikilink") |                                                                                                                            |
 | Forever with You                                   | [GD\&TOP](../Page/GD&TOP.md "wikilink") Feat.[朴春](../Page/朴春.md "wikilink")        |                                                                                                                            |
-| 2009                                               | 《[IRIS](../Page/IRIS.md "wikilink") OST》Hallelujah                                 | [G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink")\&T.O.P                      |
+| 2009                                               | 《[IRIS](https://zh.wikipedia.org/wiki/IRIS "wikilink") OST》Hallelujah              | [G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")&[太陽](../Page/太陽_\(歌手\).md "wikilink")\&T.O.P                      |
 | 2010                                               | 首張正規專輯《GD\&TOP》                                                                    | [GD\&TOP](../Page/GD&TOP.md "wikilink")                                                                                    |
 | Digital Bounce                                     | [SE7EN](../Page/崔東昱.md "wikilink") Feat.T.O.P                                      |                                                                                                                            |
 | 2011                                               | Oh Yeah                                                                            | [GD\&TOP](../Page/GD&TOP.md "wikilink") Feat.[朴春](../Page/朴春.md "wikilink")                                                |
@@ -113,13 +113,13 @@
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/同窗生" title="wikilink">同窗生</a></p></td>
+<td><p><a href="../Page/同窗生.md" title="wikilink">同窗生</a></p></td>
 <td><p>李明勳/姜大浩</p></td>
 <td><p>第一男主角</p></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老千：神之手" title="wikilink">老千：神之手</a></p></td>
+<td><p><a href="../Page/老千：神之手.md" title="wikilink">老千：神之手</a></p></td>
 <td><p>咸大吉</p></td>
 <td></td>
 </tr>
@@ -183,15 +183,15 @@
 | 12月30日      | Nothing is impossible    |                                                                                                                                                         |                                                                                                                                                         |
 | 2008年       | 5月5日                     | 來玩吧                                                                                                                                                     | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |
 | 7月5日        | Brain Battle             | 與[太陽](../Page/太陽_\(歌手\).md "wikilink")、[勝利](../Page/勝利_\(歌手\).md "wikilink")                                                                            |                                                                                                                                                         |
-| 8月30日       | Bobpers                  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                                                                                   | 與[GUMMY](https://zh.wikipedia.org/wiki/Gummy_\(歌手\) "wikilink")                                                                                         |
+| 8月30日       | Bobpers                  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                                                                                   | 與[GUMMY](../Page/Gummy_\(歌手\).md "wikilink")                                                                                                            |
 | 2009年       | 1月18日                    | 改變世界的Quiz                                                                                                                                               | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                     |
 | 2月8日        | 家族的誕生                    | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                                                                                                     |                                                                                                                                                         |
 | 2月15日       |                          |                                                                                                                                                         |                                                                                                                                                         |
-| 2011年       | 1月8日                     | 演藝家中介《遊擊隊約會》                                                                                                                                            | [KBS2](https://zh.wikipedia.org/wiki/KBS第2频道 "wikilink")                                                                                                |
+| 2011年       | 1月8日                     | 演藝家中介《遊擊隊約會》                                                                                                                                            | [KBS2](../Page/KBS第2频道.md "wikilink")                                                                                                                   |
 | 1月10日       | 每天每夜                     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                                                                                                     | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |
 | 1月17日       | 金正恩的巧克力                  | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |                                                                                                                                                         |
 | 1月19日       | 盧弘喆的親密朋友                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                     | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |
-| 1月21日       | 玉珠賢的歌謠廣場                 | [KBS2](https://zh.wikipedia.org/wiki/KBS第2频道 "wikilink")                                                                                                | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |
+| 1月21日       | 玉珠賢的歌謠廣場                 | [KBS2](../Page/KBS第2频道.md "wikilink")                                                                                                                   | 與[G-Dragon](../Page/G-Dragon.md "wikilink")                                                                                                             |
 | 1月31日       | 崔華靜的power time           | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                                                                                                     | 與[G-Dragon](../Page/G-Dragon.md "wikilink")、[勝利](../Page/勝利_\(歌手\).md "wikilink")                                                                       |
 | 4月4日        | 來玩吧                      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                     | 與[G-Dragon](../Page/G-Dragon.md "wikilink")、[太陽](../Page/太陽_\(歌手\).md "wikilink")、[勝利](../Page/勝利_\(歌手\).md "wikilink")                                 |
 | 4月20日       | 朴靜林的星夜電臺                 |                                                                                                                                                         |                                                                                                                                                         |
@@ -204,24 +204,24 @@
 
 ※僅列出個人活動部分，團體共同參與的演出請參照[BIGBANG相關欄目](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。
 
-|                      |                                                                       |                                        |                                                       |
-| -------------------- | --------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------- |
-| 年份                   | 典禮                                                                    | 獎項                                     | 作品                                                    |
-| 2010                 | 第47屆南韓大鐘賞電影節                                                          | 韓流人氣獎                                  |                                                       |
-| 第3屆Style icon awards | NEW Style icon 電影演員獎                                                  | 《[走進炮火中](../Page/走進炮火中.md "wikilink")》 |                                                       |
-| 第31屆青龍電影獎            | 新人男演員獎、人氣偶像獎                                                          |                                        |                                                       |
-| Max Movie Award      | 最佳男子新人獎                                                               |                                        |                                                       |
-| 2011                 | [第47屆百想藝術大賞電影部門](https://zh.wikipedia.org/wiki/第47屆百想藝術大賞 "wikilink") | 男子新人演技賞、人氣獎                            |                                                       |
-| 2013                 | 滾石雜誌                                                                  | 最性感象徵人物                                | 《[同窗生](https://zh.wikipedia.org/wiki/同窗生 "wikilink")》 |
-| 第17屆釜山國際電影節(BIFF)    | 最佳新人獎                                                                 |                                        |                                                       |
-| 2015                 | 英國保誠當代藝術獎                                                             | 視覺文化獎                                  |                                                       |
-|                      |                                                                       |                                        |                                                       |
+|                      |                                                                       |                                        |                                    |
+| -------------------- | --------------------------------------------------------------------- | -------------------------------------- | ---------------------------------- |
+| 年份                   | 典禮                                                                    | 獎項                                     | 作品                                 |
+| 2010                 | 第47屆南韓大鐘賞電影節                                                          | 韓流人氣獎                                  |                                    |
+| 第3屆Style icon awards | NEW Style icon 電影演員獎                                                  | 《[走進炮火中](../Page/走進炮火中.md "wikilink")》 |                                    |
+| 第31屆青龍電影獎            | 新人男演員獎、人氣偶像獎                                                          |                                        |                                    |
+| Max Movie Award      | 最佳男子新人獎                                                               |                                        |                                    |
+| 2011                 | [第47屆百想藝術大賞電影部門](https://zh.wikipedia.org/wiki/第47屆百想藝術大賞 "wikilink") | 男子新人演技賞、人氣獎                            |                                    |
+| 2013                 | 滾石雜誌                                                                  | 最性感象徵人物                                | 《[同窗生](../Page/同窗生.md "wikilink")》 |
+| 第17屆釜山國際電影節(BIFF)    | 最佳新人獎                                                                 |                                        |                                    |
+| 2015                 | 英國保誠當代藝術獎                                                             | 視覺文化獎                                  |                                    |
+|                      |                                                                       |                                        |                                    |
 
 ## 爭議
 
 ### 吸食大麻風波
 
-2017年6月1日，據韓國媒體報導，[首爾地方警察廳毒品犯罪調查處針對T](https://zh.wikipedia.org/wiki/首爾地方警察廳 "wikilink").O.P涉嫌在2016年10月份與後輩女練習生韓瑞希吸食[大麻為由對其毛髮進行了檢查](../Page/大麻.md "wikilink")，毛髮檢驗結果顯示為陽性反應，T.O.P坦承吸食，警方以違反「毒品類管理法」將起訴意見書函送檢方，所屬經紀公司YG娛樂在事件爆發後隨即發表聲明表示經公司確認，媒體報導的情況屬實\[9\]\[10\]，並宣稱T.O.P在調查過程中已承認大部分的嫌疑\[11\]，然而在6月2日，負責此案的警方則否認了YG娛樂的說法，指稱T.O.P在接受調查時均主張是在不知情的情況下吸食大麻，並透露與韓小姐吸食的是混入到[電子菸液的液狀大麻](https://zh.wikipedia.org/wiki/電子菸 "wikilink")，而T.O.P在接受調查時聲稱並不知道韓瑞希給自己的電子菸液中含有大麻。\[12\]\[13\]
+2017年6月1日，據韓國媒體報導，[首爾地方警察廳毒品犯罪調查處針對T](../Page/首爾地方警察廳.md "wikilink").O.P涉嫌在2016年10月份與後輩女練習生韓瑞希吸食[大麻為由對其毛髮進行了檢查](../Page/大麻.md "wikilink")，毛髮檢驗結果顯示為陽性反應，T.O.P坦承吸食，警方以違反「毒品類管理法」將起訴意見書函送檢方，所屬經紀公司YG娛樂在事件爆發後隨即發表聲明表示經公司確認，媒體報導的情況屬實\[9\]\[10\]，並宣稱T.O.P在調查過程中已承認大部分的嫌疑\[11\]，然而在6月2日，負責此案的警方則否認了YG娛樂的說法，指稱T.O.P在接受調查時均主張是在不知情的情況下吸食大麻，並透露與韓小姐吸食的是混入到[電子菸液的液狀大麻](https://zh.wikipedia.org/wiki/電子菸 "wikilink")，而T.O.P在接受調查時聲稱並不知道韓瑞希給自己的電子菸液中含有大麻。\[12\]\[13\]
 
 2017年6月5日，首爾中央地檢署重案組表示，T.O.P於2016年10月9日至14日涉嫌與韓瑞希一同吸食大麻兩次、吸食液體大麻兩次共計四次，但在2017年3月接受調查時，只坦承吸食大麻2次，否認吸食液態大麻，他因違反「毒品類管理法」，遭到不拘留起訴\[14\]。
 6月5日T.O.P服役的首爾義警隊將T.O.P除名，強制退役，日後將轉為社會服務要員服完剩餘的兵役。

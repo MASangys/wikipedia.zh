@@ -1,11 +1,11 @@
 **Bravis
-International**，是日本的一家品牌顧問公司，係於1996年由创办。公司地点在日本東京都港区白金台。主要业务内容包括企业、产品的品牌策略（CI・BI系统设计、产品包装设计、品牌命名、企业・产品口号创意等）提案與執行。除了东京总公司，还在[韩国](../Page/韩国.md "wikilink")[首尔设有分公司](../Page/首尔.md "wikilink")。
+International**，是日本的一家品牌顧問公司，係於1996年由创办。公司地点在日本東京都港区白金台。主要业务内容包括企业、产品的品牌策略（CI・BI系统设计、产品包装设计、品牌命名、企业・产品口号创意等）提案與執行。除了东京总公司，还在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔设有分公司](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
 
 ## 概要
 
 笹田史仁在1968年获得奖学金并前往美国留学，毕业于美国加洲洲立大学洛杉矶分校。之后又毕业于艺术中心设计学院（Art center
 college of
-design）平面／[包装设计学科](../Page/包装设计.md "wikilink")。1978年作为设计师就业于Landor
+design）平面／[包装设计学科](https://zh.wikipedia.org/wiki/包装设计 "wikilink")。1978年作为设计师就业于Landor
 Associates旧金山总公司。1996年创办Bravis International Limited。
 
 曾经担任设计大奖“Red Dot Award”的印刷、媒体设计部门的评审员
@@ -16,8 +16,8 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
 ## Bravis担任开发的CI・BI系统设计与有关企业・商品・服务
 
   - Sweet
-    Corner－布丁（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／台湾）
-  - Cobras－棒球队（[誠泰COBRAS](../Page/誠泰COBRAS.md "wikilink")／[台湾](../Page/台湾.md "wikilink")）
+    Corner－布丁（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／台湾）
+  - Cobras－棒球队（[誠泰COBRAS](https://zh.wikipedia.org/wiki/誠泰COBRAS "wikilink")／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
   - [東京證券交易所](../Page/東京證券交易所.md "wikilink")－Tokyo Stock Exchange Group,
     Inc.
   - MOTHERS（[東京證券交易所](../Page/東京證券交易所.md "wikilink")－Tokyo Stock
@@ -65,13 +65,13 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
 
   - NeCoRo－机器猫（[欧姆龙](../Page/欧姆龙.md "wikilink")－OMRON Corporation）
   - Uma
-    Ramen－方便面（[韩国](../Page/韩国.md "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
+    Ramen－方便面（[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
   - eporo－机器人车（[日產汽車](../Page/日產汽車.md "wikilink")－Nissan Motor Co.,
     Ltd.）
   - Café Leggero－咖啡店（莫师食品服务公司－MOS FOOD SERVICES, INC.）
   - Aqua Conditioner－魔芋海面（natulove）
   - PiTaPa －IC乘车卡－KANSAI THRU PASS（THRUTTO KANSAI）
-  - Prime MAX－啤酒（Hite／[韩国](../Page/韩国.md "wikilink")）
+  - Prime MAX－啤酒（Hite／[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")）
   - Whiteen－口香糖（[吉百利](../Page/吉百利.md "wikilink")－Cadbury Japan Limited）
   - missism－化妆品（日本[安利](../Page/安利.md "wikilink")－Amway Japan G. K. ）
   - Redigo－概念车（[日產汽車](../Page/日產汽車.md "wikilink")－Nissan Motor Co.,
@@ -81,20 +81,20 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
 
   - [理光R](../Page/理光.md "wikilink")8（[理光](../Page/理光.md "wikilink")－Ricoh
     Company, Ltd.）
-  - Chill－啤酒（[嘉士伯](../Page/嘉士伯.md "wikilink")／在[中国贩卖](../Page/中国.md "wikilink")）
+  - Chill－啤酒（[嘉士伯](../Page/嘉士伯.md "wikilink")／在[中国贩卖](https://zh.wikipedia.org/wiki/中国 "wikilink")）
   - KenOnKun－电子体温计（[欧姆龙](../Page/欧姆龙.md "wikilink")－OMRON Corporation）
   - Sweet
-    Corner－布丁（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
-  - [7-ELEVEN](../Page/7-ELEVEN.md "wikilink") 台湾茗茶系列
-    文山包种茶（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
-  - [7-ELEVEN](../Page/7-ELEVEN.md "wikilink")
-    牛奶饮料系列（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
-  - 鲜果汁系列（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
+    Corner－布丁（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
+  - [7-ELEVEN](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink") 台湾茗茶系列
+    文山包种茶（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
+  - [7-ELEVEN](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")
+    牛奶饮料系列（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
+  - 鲜果汁系列（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
   - 7-SELECT
-    H2O轻量瓶（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
+    H2O轻量瓶（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
   - 7-SELECT
-    乳酸饮料系列（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
-  - 乳酸菌布丁（[统一企业中国控股有限公司](../Page/统一企业中国控股有限公司.md "wikilink")－Uni-President／[台湾](../Page/台湾.md "wikilink")）
+    乳酸饮料系列（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
+  - 乳酸菌布丁（[统一企业中国控股有限公司](https://zh.wikipedia.org/wiki/统一企业中国控股有限公司 "wikilink")－Uni-President／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
   - ACRON－液体洗衣剂（狮王－Lion Corporation）
   - 秋味－啤酒（麒麟麦酒－Kirin Brewery Company, Limited）
   - Attack Gift－洁霸礼品（花王－Kao Corporation）
@@ -102,7 +102,7 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
   - 石窯工房比萨饼（日本火腿－NIPPON MEAT PACKERS,INC.）
   - Utsurundesu－一次性相机（富士胶片－FUJIFILM Corporation）
   - Uma
-    Ramen－方便面（[韩国](../Page/韩国.md "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
+    Ramen－方便面（[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
   - Ururucha－凉茶（Kirin Beverage Company,Limited）
   - GutsGear－果冻饮料（[味之素](../Page/味之素.md "wikilink")－AJINOMOTO CO., INC.）
   - Katokichi Takitate Gohan 3包装－软包装米饭（加ト吉－Katokichi）
@@ -116,9 +116,9 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
   - Gogomo Kellogg’s－[玉米片](../Page/玉米片.md "wikilink")（Kellogg Company,
     Inc.）
   - Kokugaoishii Milk Cocoa－可可（明治制果－MEIJI SEIKA KAISHA, LTD.）
-  - Cobras－棒球队（[誠泰COBRAS](../Page/誠泰COBRAS.md "wikilink")／[台湾](../Page/台湾.md "wikilink")）
+  - Cobras－棒球队（[誠泰COBRAS](https://zh.wikipedia.org/wiki/誠泰COBRAS "wikilink")／[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
   - Komtan
-    Harusame－方便粉丝汤（[韩国](../Page/韩国.md "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
+    Harusame－方便粉丝汤（[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
   - CONTAC－感冒药（葛兰素史克－GlaxoSmithKline K. K.）
   - GEORGIA－罐裝咖啡（日本[可口可乐](../Page/可口可乐.md "wikilink")－Coca－Cola（Japan）Company,
     Limted）
@@ -127,7 +127,7 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
   - ScotchBrite－海绵清洁球（住友3M公司－Sumitomo 3M Limited）
   - 苏菲（尤妮佳－Unicharm Corporation）
   - 谷川連峰的天然水－矿泉水（JR东日本水务市场－JR East Water Business Co.,Ltd）
-  - T.O.P－灌装咖啡（东西食品／[韩国](../Page/韩国.md "wikilink")）
+  - T.O.P－灌装咖啡（东西食品／[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")）
   - 东京PASTELLO－糕点（I'LL inc.）
   - 东京CAMPANELLA－糕点（I'LL inc.）
   - 东急总店（东急百货店－TOKYU DEPARTMENT STORE CO.,LTD.）
@@ -139,16 +139,16 @@ Associates旧金山总公司。1996年创办Bravis International Limited。
   - Nescafe Brite－咖啡伴侣（[雀巢日本](../Page/雀巢.md "wikilink")－Nestle Japan
     Group）
   - 燃焼 Soup－速溶粉丝汤（[味之素](../Page/味之素.md "wikilink")－AJINOMOTO CO., INC.）
-  - NOGULI－方便面（[韩国](../Page/韩国.md "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
+  - NOGULI－方便面（[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
   - Nodogoshi-nama－啤酒（麒麟麦酒－Kirin Brewery Company, Limited）
   - PAON－染法剂（施华蔻汉高－Schwarzkopf & Henkel K.K.）
   - Ban－止汗除臭剂（狮王－Lion Corporation）
   - Panshiron－肠胃口服药（乐敦制药－ROHTO Pharmaceutical Co.,Ltd.）
   - BIZ TIME CAFE Saeru Black－灌装咖啡（Pokka Corporation）
   - 冰结（麒麟麦酒－Kirin Brewery Company, Limited）
-  - Prime Max－啤酒（Hite／[韩国](../Page/韩国.md "wikilink")）
+  - Prime Max－啤酒（Hite／[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")）
   - Blink and Clean－点眼药（AMOJapan）
-  - Fururu凉面（[韩国](../Page/韩国.md "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
+  - Fururu凉面（[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[农心集团](../Page/农心集团.md "wikilink")）
   - From AQUA－矿泉水（JR东日本水务市场－JR East Water Business Co.,Ltd）
   - POKKA COFFEE ORIGINAL（Pokka Corporation）
   - Home Café（[雀巢日本](../Page/雀巢.md "wikilink")－Nestle Japan Group）

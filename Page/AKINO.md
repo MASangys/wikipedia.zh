@@ -1,4 +1,4 @@
-**AKINO**（，），本名**川滿·辛迪·愛希信**（，），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")，[日本女](../Page/日本.md "wikilink")[歌手及樂隊](../Page/歌手.md "wikilink")[bless4成員之一](../Page/bless4.md "wikilink")。事務所為[飛犬及](https://zh.wikipedia.org/wiki/飛犬 "wikilink")[Victor
+**AKINO**（，），本名**川滿·辛迪·愛希信**（，），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")，[日本女](../Page/日本.md "wikilink")[歌手及樂隊](../Page/歌手.md "wikilink")[bless4成員之一](https://zh.wikipedia.org/wiki/bless4 "wikilink")。事務所為[飛犬及](https://zh.wikipedia.org/wiki/飛犬 "wikilink")[Victor
 Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。她所演唱的是《[創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")》系列主題曲及插曲等等。
 
 ## 唱片
@@ -87,12 +87,12 @@ Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 <tr class="odd">
 <td><p>額外的・魔法・時間</p></td>
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/甘城輝煌樂園救世主" title="wikilink">甘城輝煌樂園救世主</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/甘城輝煌樂園救世主.md" title="wikilink">甘城輝煌樂園救世主</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>海色</p></td>
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/艦隊Collection" title="wikilink">艦隊Collection -艦Colle-</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/艦隊Collection.md" title="wikilink">艦隊Collection -艦Colle-</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>Golden Life</p></td>
@@ -107,7 +107,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 <tr class="odd">
 <td><p>另一半的明月</p></td>
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/魔法使的新娘" title="wikilink">魔法使的新娘</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/魔法使的新娘.md" title="wikilink">魔法使的新娘</a>》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>What am I Fighting for</p></td>
@@ -126,7 +126,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 相关条目
 
-  - [bless4](../Page/bless4.md "wikilink")
+  - [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
   - [菅野洋子](../Page/菅野洋子.md "wikilink")
   - [岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")
   - [创圣的亚库艾里翁](https://zh.wikipedia.org/wiki/创圣的亚库艾里翁 "wikilink")

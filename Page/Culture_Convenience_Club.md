@@ -31,7 +31,7 @@ Megastores](https://zh.wikipedia.org/wiki/Virgin_Megastores "wikilink")、[SUMIY
 CCC
 Group因經營了共通的[集點服務](https://zh.wikipedia.org/wiki/集點服務 "wikilink")「[T-POINT](https://zh.wikipedia.org/wiki/T-POINT "wikilink")」因此和集團外的異種企業也積極的進行合作。
 
-2012年6月25日，[得利影視宣佈與CCC進行策略聯盟](https://zh.wikipedia.org/wiki/得利影視 "wikilink")，CCC以私募方式投資得利影視[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")2.44億元並取得得利影視33.4%股權，雙方未來將在跨國影音娛樂方面進行合作。
+2012年6月25日，[得利影視宣佈與CCC進行策略聯盟](../Page/得利影視.md "wikilink")，CCC以私募方式投資得利影視[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")2.44億元並取得得利影視33.4%股權，雙方未來將在跨國影音娛樂方面進行合作。
 
 此外，CCC旗下品牌TSUTAYA在臺灣與[亞藝影音有合作關係](https://zh.wikipedia.org/wiki/亞藝影音 "wikilink")\[3\]。
 
@@ -104,7 +104,7 @@ Ltd.P8148155.JPG|TSUTAYA部分店鋪採取[特許經營](https://zh.wikipedia.or
 [File:Tsutaya-1.JPG|代官山蔦屋書店](File:Tsutaya-1.JPG%7C代官山蔦屋書店)
 <File:Hakodate> tsutaya 01.jpg|函館蔦屋書店 <File:Futago-Tamagawa> Tsutaya
 Electrics (二子玉川 蔦屋家電) (2015-07-09 19.03.11 by Kazuhisa
-OTSUBO).jpg|位於東京[二子玉川的](https://zh.wikipedia.org/wiki/二子玉川 "wikilink")「二子玉川
+OTSUBO).jpg|位於東京[二子玉川的](../Page/二子玉川.md "wikilink")「二子玉川
 蔦屋家電」複合式商場 <File:Takeo> cl
 00.JPG|由CCC受託經營的[佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")
 <File:Tsutaya> Asia1 Minquan Store 20130424.jpg|台灣的TSUTAYA亞藝影音（台北民權店）

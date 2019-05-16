@@ -3,9 +3,10 @@
 ## 簡介
 
   - 第10張專輯[Brotherhood發售前](../Page/Brotherhood_\(B'z专辑\).md "wikilink")，先行發售這張單曲。
-  - 與上一張單曲[HOME間隔](../Page/HOME.md "wikilink")11個月才發行，是當時[B'z間隔最久的一次](../Page/B'z.md "wikilink")。
+  - 與上一張單曲[HOME間隔](https://zh.wikipedia.org/wiki/HOME "wikilink")11個月才發行，是當時[B'z間隔最久的一次](../Page/B'z.md "wikilink")。
   - 首次[名偵探柯南的主題曲](../Page/名偵探柯南.md "wikilink")，也是名偵探柯南主題曲裡單曲銷售量第二高的一張，僅次於倉木麻衣的「[Secret
-    of my heart](../Page/Secret_of_my_heart.md "wikilink")」。
+    of my
+    heart](https://zh.wikipedia.org/wiki/Secret_of_my_heart "wikilink")」。
   - [B'z最後的](../Page/B'z.md "wikilink")8cm單曲。
   - 從這張單曲開始，[稻葉浩志的英文從](../Page/稻葉浩志.md "wikilink")**KOHSHI
     INABA**變成**KOSHI INABA**。
@@ -29,17 +30,17 @@
   - 《[Brotherhood](../Page/Brotherhood_\(B'z专辑\).md "wikilink")》（\#1、Version
     51）
   - 《[THE BEST OF DETECTIVE CONAN 〜名侦探柯南
-    主题曲曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名侦探柯南_主题曲曲集〜.md "wikilink")》（両曲）
+    主题曲曲集〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名侦探柯南_主题曲曲集〜 "wikilink")》（両曲）
   - 《[The Ballads 〜Love &
     B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")》（\#2）
   - 《[B'z The Best "Pleasure
-    II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")》（\#1）
+    II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")》（\#1）
   - 《[THE BEST OF DETECTIVE CONAN 〜The Movie Themes
-    Collection〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜.md "wikilink")》（\#2）
+    Collection〜](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜 "wikilink")》（\#2）
   - 《[B'z The Best "ULTRA
-    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
+    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")》（\#1）
   - 《[B'z The Best "ULTRA
-    Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
+    Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")》（\#2）
 
 ## 參考資料
 
@@ -49,22 +50,22 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>动画《<a href="../Page/名侦探柯南_(动画).md" title="wikilink">名侦探柯南</a>》片头曲<br />
+<td><p>动画《<a href="https://zh.wikipedia.org/wiki/名侦探柯南_(动画)" title="wikilink">名侦探柯南</a>》片头曲<br />
 1999年5月3日 - 1999年11月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="../Page/TWO-MIX.md" title="wikilink">TWO-MIX</a><br />
+<a href="https://zh.wikipedia.org/wiki/TWO-MIX" title="wikilink">TWO-MIX</a><br />
 《<a href="../Page/TRUTH～A_Great_Detective_of_Love～.md" title="wikilink">TRUTH～A Great Detective of Love～</a>》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/名侦探柯南动画集数列表#剧场版.md" title="wikilink">剧场版 名侦探柯南</a> 主题曲<br />
-1999年 <a href="../Page/名侦探柯南_世纪末的魔术师.md" title="wikilink">名侦探柯南 世纪末的魔术师</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名侦探柯南动画集数列表#剧场版" title="wikilink">剧场版 名侦探柯南</a> 主题曲<br />
+1999年 <a href="https://zh.wikipedia.org/wiki/名侦探柯南_世纪末的魔术师" title="wikilink">名侦探柯南 世纪末的魔术师</a></p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
 <a href="../Page/ZARD.md" title="wikilink">ZARD</a><br />
-《<a href="../Page/转动命运之轮.md" title="wikilink">宛如回到少女情怀</a>》</p></td>
+《<a href="https://zh.wikipedia.org/wiki/转动命运之轮" title="wikilink">宛如回到少女情怀</a>》</p></td>
 </tr>
 </tbody>
 </table>

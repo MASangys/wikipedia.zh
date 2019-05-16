@@ -82,9 +82,9 @@ mv myfile myoldfilename
 
 ## 参见
 
-  - [cp](../Page/cp_\(Unix\).md "wikilink")
+  - [cp](https://zh.wikipedia.org/wiki/cp_\(Unix\) "wikilink")
   - [ln](https://zh.wikipedia.org/wiki/ln_\(Unix\) "wikilink")
-  - [rm](../Page/rm_\(Unix\).md "wikilink")
+  - [rm](https://zh.wikipedia.org/wiki/rm_\(Unix\) "wikilink")
   - [Unix工具列表](https://zh.wikipedia.org/wiki/Unix工具列表 "wikilink")
   - [move](https://zh.wikipedia.org/wiki/move_\(命令\) "wikilink")
   - [ren](https://zh.wikipedia.org/wiki/ren_\(命令\) "wikilink")

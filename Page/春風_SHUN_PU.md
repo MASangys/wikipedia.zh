@@ -4,13 +4,13 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
-[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")『[sphere](../Page/sphere_\(聲優團體\).md "wikilink")』活躍的女[聲優豐崎愛生以單獨名義發售的第](../Page/聲優.md "wikilink")4張單曲，2011年1月29日在[中野太陽廣場舉辦的](https://zh.wikipedia.org/wiki/中野太陽廣場 "wikilink")「Music
+[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")『[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")』活躍的女[聲優豐崎愛生以單獨名義發售的第](../Page/聲優.md "wikilink")4張單曲，2011年1月29日在[中野太陽廣場舉辦的](../Page/中野太陽廣場.md "wikilink")「Music
 Rainbow 01」活動中豐崎愛生親自發表宣布，於2011年4月13日正式發售。
 
 封面歌曲「春風 SHUN
-PU」的作曲、作詞是由日本獨立[創作歌手](../Page/創作歌手.md "wikilink")[辻亞彌乃](https://zh.wikipedia.org/wiki/辻亞彌乃 "wikilink")（つじあやの）擔任，而[B面的](../Page/A面與B面.md "wikilink")「KARA-KURI
+PU」的作曲、作詞是由日本獨立[創作歌手](../Page/創作歌手.md "wikilink")[辻亞彌乃](../Page/辻亞彌乃.md "wikilink")（つじあやの）擔任，而[B面的](../Page/A面與B面.md "wikilink")「KARA-KURI
 DOLL」詞曲則是由曾負責愛生的首張單曲「[love your
-life](../Page/love_your_life.md "wikilink")」B面「何かが空を飛んでくる」的作曲和作詞工作的來完成，而「KARA-KURI
+life](https://zh.wikipedia.org/wiki/love_your_life "wikilink")」B面「何かが空を飛んでくる」的作曲和作詞工作的來完成，而「KARA-KURI
 DOLL」一歌也收綠於谷山浩子的個人作品集「」中。
 
 分別以兩種形式發售，付有載有[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（MV）DVD的初回限定盤（首發限量版），以及包裝袋普通版。其中首發限量版除了MV
@@ -27,7 +27,7 @@ your life, love my life」的預售優惠券。除此以外，首發限量版和
 
 1.  **春風 SHUN PU** \[4:11\]
       -
-        作詞・作曲：[つじあやの](https://zh.wikipedia.org/wiki/辻亞彌乃 "wikilink")、編曲：關淳二郎
+        作詞・作曲：[つじあやの](../Page/辻亞彌乃.md "wikilink")、編曲：關淳二郎
 2.  **KARA－KURI DOLL** \[4:57\]
       -
         作詞・作曲：、編曲：

@@ -1,5 +1,5 @@
 是[邵氏兄弟(香港)有限公司與](../Page/邵氏兄弟.md "wikilink")[電視廣播有限公司合作拍攝的電影](../Page/電視廣播有限公司.md "wikilink")。由[曾志偉](../Page/曾志偉.md "wikilink")、[梁家輝](../Page/梁家輝.md "wikilink")、[吳君如](../Page/吳君如.md "wikilink")、[袁詠儀](../Page/袁詠儀.md "wikilink")、[李治廷及](../Page/李治廷.md "wikilink")[陳法拉領銜主演](../Page/陳法拉.md "wikilink")。導演[曾志偉及](../Page/曾志偉.md "wikilink")[鍾澍佳](../Page/鍾澍佳.md "wikilink")，監製[曾志偉](../Page/曾志偉.md "wikilink")。續集为《[2012我愛HK
-喜上加囍](../Page/2012我愛HK_喜上加囍.md "wikilink")》。
+喜上加囍](https://zh.wikipedia.org/wiki/2012我愛HK_喜上加囍 "wikilink")》。
 
 ## 故事大綱
 
@@ -25,7 +25,7 @@
 吳明、吳芝、吳京之爺爺</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/黃宗澤.md" title="wikilink">黃宗澤</a></strong>（青年）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></strong>（青年）</p></td>
 <td><p><strong>吳　順</strong></p></td>
 <td><p><strong>順哥、順仔</strong><br />
 順嫂之夫<br />
@@ -65,7 +65,7 @@
 葉謝鄧之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳穎嵐.md" title="wikilink">陳穎嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳穎嵐" title="wikilink">陳穎嵐</a></p></td>
 <td><p>吳　京</p></td>
 <td><p>吳順、順嫂之女<br />
 吳明、吳芝之妹<br />
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -173,7 +173,7 @@
 <td><p>食物環境衛生署小販管理主任，後退休</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/苗僑偉.md" title="wikilink">苗僑偉</a>（中年）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/苗僑偉" title="wikilink">苗僑偉</a>（中年）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -193,7 +193,7 @@
 <td><p>飾演劉醒的演員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張可頤.md" title="wikilink">張可頤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></p></td>
 <td><p>阿　姐</p></td>
 <td><p>飾演淫婦的演員</p></td>
 </tr>
@@ -250,7 +250,7 @@
 <tr class="odd">
 <td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
 <td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
-<td><p><a href="../Page/TVB.md" title="wikilink">TVB導演</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB導演</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/譚耀文.md" title="wikilink">譚耀文</a></p></td>
@@ -291,7 +291,7 @@
 <td><p>補習天后（教中文，貼英文題目）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李楓.md" title="wikilink">李　楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李楓" title="wikilink">李　楓</a></p></td>
 <td><p>華　嫂</p></td>
 <td><p>87年街坊</p></td>
 </tr>
@@ -306,12 +306,12 @@
 <td><p>順嫂之父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></p></td>
 <td></td>
 <td><p>電台播音員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td></td>
 <td><p>電視節目主持人</p></td>
 </tr>
@@ -326,7 +326,7 @@
 <td><p>台籍遊客</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧紫棋.md" title="wikilink">鄧紫棋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a></p></td>
 <td></td>
 <td><p>學生</p></td>
 </tr>
@@ -374,7 +374,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/邵音音.md" title="wikilink">邵音音</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a></p></td>
 <td></td>
 <td><p>瘦身公司老闆</p></td>
 </tr>
@@ -389,7 +389,7 @@
 <td><p>古裝公子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚子羚.md" title="wikilink">姚子羚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a></p></td>
 <td></td>
 <td><p>古裝小姐</p></td>
 </tr>
@@ -409,7 +409,7 @@
 <td><p>查理祕書</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬賽_(藝人).md" title="wikilink">馬　賽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬賽_(藝人)" title="wikilink">馬　賽</a></p></td>
 <td></td>
 <td><p>80年代美女</p></td>
 </tr>
@@ -417,7 +417,7 @@
 <td><p><a href="../Page/賈曉晨.md" title="wikilink">賈曉晨</a></p></td>
 <td><p>夏寶玲</p></td>
 <td><p><strong>喊包玲</strong><br />
-1987年<a href="../Page/香港小姐.md" title="wikilink">香港小姐冠軍</a><br />
+1987年<a href="https://zh.wikipedia.org/wiki/香港小姐" title="wikilink">香港小姐冠軍</a><br />
 托水龍之前女友</p></td>
 </tr>
 <tr class="even">
@@ -446,12 +446,12 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/胡鴻鈞.md" title="wikilink">胡鴻鈞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林師傑.md" title="wikilink">林師傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林師傑" title="wikilink">林師傑</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
@@ -471,32 +471,32 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周志文.md" title="wikilink">周志文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志文" title="wikilink">周志文</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周志康.md" title="wikilink">周志康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志康" title="wikilink">周志康</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝東閔.md" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊詩敏.md" title="wikilink">楊詩敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">楊詩敏</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/翟凱泰.md" title="wikilink">翟凱泰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翟凱泰" title="wikilink">翟凱泰</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/樂瞳.md" title="wikilink">樂　瞳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂瞳" title="wikilink">樂　瞳</a></p></td>
 <td></td>
 <td><p>80年代街坊</p></td>
 </tr>
@@ -506,12 +506,12 @@
 <td><p>鐵打男</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳琼.md" title="wikilink">黃鳳琼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳琼</a></p></td>
 <td></td>
 <td><p>87年小販、街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林碧珍.md" title="wikilink">林碧珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林碧珍" title="wikilink">林碧珍</a></p></td>
 <td></td>
 <td><p>87年街坊</p></td>
 </tr>
@@ -521,7 +521,7 @@
 <td><p>87年街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
 <td></td>
 <td><p>87年街坊</p></td>
 </tr>
@@ -536,7 +536,7 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄺栢廉.md" title="wikilink">鄺栢廉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄺栢廉" title="wikilink">鄺栢廉</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
@@ -551,17 +551,17 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李榮耀.md" title="wikilink">李榮耀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李榮耀" title="wikilink">李榮耀</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/海俊文.md" title="wikilink">海俊文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海俊文" title="wikilink">海俊文</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李浩森.md" title="wikilink">李浩森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李浩森" title="wikilink">李浩森</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
@@ -581,7 +581,7 @@
 <td><p>80年代西裝男</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td></td>
 <td><p>瘦身公司職員</p></td>
 </tr>
@@ -596,7 +596,7 @@
 <td><p>瘦身公司職員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
 <td></td>
 <td><p>87年夜總會小姐</p></td>
 </tr>
@@ -606,7 +606,7 @@
 <td><p>87年夜總會小姐</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
 <td></td>
 <td><p>87年夜總會小姐</p></td>
 </tr>
@@ -626,7 +626,7 @@
 <td><p>小販</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/于楓.md" title="wikilink">于　楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/于楓" title="wikilink">于　楓</a></p></td>
 <td></td>
 <td><p>小販</p></td>
 </tr>
@@ -636,7 +636,7 @@
 <td><p>小販</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾珍妮.md" title="wikilink">鍾珍妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾珍妮" title="wikilink">鍾珍妮</a></p></td>
 <td></td>
 <td><p>小販</p></td>
 </tr>
@@ -692,7 +692,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許穎.md" title="wikilink">許　穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許穎" title="wikilink">許　穎</a></p></td>
 <td></td>
 <td><p><strong>E Cup Lady</strong></p></td>
 </tr>
@@ -702,7 +702,7 @@
 <td><p>87年街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td></td>
 <td><p>食物環境衛生署助理小販管理主任</p></td>
 </tr>
@@ -727,22 +727,22 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王致迪.md" title="wikilink">王致迪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王致迪" title="wikilink">王致迪</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李善恆.md" title="wikilink">李善恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李善恆" title="wikilink">李善恆</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -752,7 +752,7 @@
 <td><p>87年街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
@@ -762,7 +762,7 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -787,9 +787,9 @@
 <td><p>87年街坊</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/八兩金.md" title="wikilink">八兩金</a></p></td>
-<td><p><a href="../Page/聖約翰.md" title="wikilink">聖約翰</a></p></td>
-<td><p>87年<a href="../Page/聖約翰.md" title="wikilink">聖約翰救傷隊隊長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/八兩金" title="wikilink">八兩金</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖約翰" title="wikilink">聖約翰</a></p></td>
+<td><p>87年<a href="https://zh.wikipedia.org/wiki/聖約翰" title="wikilink">聖約翰救傷隊隊長</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林盛斌.md" title="wikilink">林盛斌</a></p></td>
@@ -812,7 +812,7 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭詩君.md" title="wikilink">鄭詩君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭詩君" title="wikilink">鄭詩君</a></p></td>
 <td></td>
 <td><p>葉謝鄧拍檔</p></td>
 </tr>
@@ -827,7 +827,7 @@
 <td><p>大肚婆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃長興.md" title="wikilink">黃長興</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p>87易世祖</p></td>
 <td></td>
 </tr>
@@ -836,12 +836,12 @@
 
 ## 歌曲
 
-| 曲別  | 歌名                           | 作詞                                                                                            | 作曲                                                           | 編曲                               | 演唱                                                                |
-| --- | ---------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------- | ----------------------------------------------------------------- |
-| 主題曲 | 《-{“}-I Love Hong Kong-{”}-》 | [Alforiso S.Garica](../Page/Alforiso_S.Garica.md "wikilink")、[陸　永](../Page/陸永權.md "wikilink") | [Alforiso S.Garica](../Page/Alforiso_S.Garica.md "wikilink") | [葉肇中](../Page/葉肇中.md "wikilink") | [李治廷](../Page/李治廷.md "wikilink")、[林欣彤](../Page/林欣彤.md "wikilink") |
-| 插曲  | 《始終都係朋友好》                    | [黃霑](../Page/黃霑.md "wikilink")                                                                | [黃霑](../Page/黃霑.md "wikilink")                               |                                  | 全片演員                                                              |
-| 插曲  | 《你你你為了愛情》                    | [鍾志榮](../Page/鍾志榮.md "wikilink")                                                              | [鍾志榮](../Page/鍾志榮.md "wikilink")                             |                                  | [吳君如](../Page/吳君如.md "wikilink")                                  |
-| 插曲  | 《打雀英雄傳》                      |                                                                                               | [劉傑](../Page/劉傑.md "wikilink")                               |                                  |                                                                   |
+| 曲別  | 歌名                           | 作詞                                                                                                                                  | 作曲                                                                              | 編曲                               | 演唱                                                                |
+| --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------- |
+| 主題曲 | 《-{“}-I Love Hong Kong-{”}-》 | [Alforiso S.Garica](https://zh.wikipedia.org/wiki/Alforiso_S.Garica "wikilink")、[陸　永](https://zh.wikipedia.org/wiki/陸永權 "wikilink") | [Alforiso S.Garica](https://zh.wikipedia.org/wiki/Alforiso_S.Garica "wikilink") | [葉肇中](../Page/葉肇中.md "wikilink") | [李治廷](../Page/李治廷.md "wikilink")、[林欣彤](../Page/林欣彤.md "wikilink") |
+| 插曲  | 《始終都係朋友好》                    | [黃霑](../Page/黃霑.md "wikilink")                                                                                                      | [黃霑](../Page/黃霑.md "wikilink")                                                  |                                  | 全片演員                                                              |
+| 插曲  | 《你你你為了愛情》                    | [鍾志榮](https://zh.wikipedia.org/wiki/鍾志榮 "wikilink")                                                                                 | [鍾志榮](https://zh.wikipedia.org/wiki/鍾志榮 "wikilink")                             |                                  | [吳君如](../Page/吳君如.md "wikilink")                                  |
+| 插曲  | 《打雀英雄傳》                      |                                                                                                                                     | [劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")                               |                                  |                                                                   |
 
 ## 記事
 
@@ -850,7 +850,7 @@
 
 ## 電視宣傳節目：我愛香港過新年
 
-節目於2011年1月24日-1月28日22:30-23:00於[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[myTV提供節目重溫](../Page/myTV.md "wikilink")。特別篇《**我愛香港大團圓**》於2011年1月31日22:30-23:00播出。
+節目於2011年1月24日-1月28日22:30-23:00於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。特別篇《**我愛香港大團圓**》於2011年1月31日22:30-23:00播出。
 
 ### 外部連結
 

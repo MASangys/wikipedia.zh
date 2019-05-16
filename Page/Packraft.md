@@ -1,6 +1,6 @@
 [Two-man_Halkett_boat_stowed.jpg](https://zh.wikipedia.org/wiki/File:Two-man_Halkett_boat_stowed.jpg "fig:Two-man_Halkett_boat_stowed.jpg")
 **Packraft**或 trail
-boat，特指一种小型易搬运的[充气船](../Page/充气船.md "wikilink")，用于各种水域的漂流，包括[白水](../Page/白水.md "wikilink")、海湾河峡湾。这种船由于重量轻，常和桨、救生衣打包作为便携的船筏装备，并和帐幕、给养、生存装备等，用于全地形穿越。现代的packraft有便宜的但不够耐用，也有的耐用但价格高达1000美元，一般重量小于4kg，单人船较常见，与之配合的桨通常可以分成2节或4节。划船者一般取坐姿，也有把双脚伸直或翘起。
+boat，特指一种小型易搬运的[充气船](https://zh.wikipedia.org/wiki/充气船 "wikilink")，用于各种水域的漂流，包括[白水](https://zh.wikipedia.org/wiki/白水 "wikilink")、海湾河峡湾。这种船由于重量轻，常和桨、救生衣打包作为便携的船筏装备，并和帐幕、给养、生存装备等，用于全地形穿越。现代的packraft有便宜的但不够耐用，也有的耐用但价格高达1000美元，一般重量小于4kg，单人船较常见，与之配合的桨通常可以分成2节或4节。划船者一般取坐姿，也有把双脚伸直或翘起。
 
 ## 溯源
 
@@ -42,9 +42,9 @@ Packrafts的许多应用，包括：
 
   - 渡河 \[3\].
 
-  - [白水](../Page/白水.md "wikilink") (高达4级) \[4\].
+  - [白水](https://zh.wikipedia.org/wiki/白水 "wikilink") (高达4级) \[4\].
 
-  - 远方湖泊[垂钓](../Page/垂钓.md "wikilink") \[5\].
+  - 远方湖泊[垂钓](https://zh.wikipedia.org/wiki/垂钓 "wikilink") \[5\].
 
   - 观光船\[6\].
 
@@ -54,7 +54,7 @@ Packrafts的许多应用，包括：
 
   - 漂流 \[9\].
 
-  - [打猎](../Page/打猎.md "wikilink") \[10\].
+  - [打猎](https://zh.wikipedia.org/wiki/打猎 "wikilink") \[10\].
 
   -
   - 飞行员救生船

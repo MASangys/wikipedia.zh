@@ -44,7 +44,7 @@
   - [石中玉](https://zh.wikipedia.org/wiki/石中玉_\(演員\) "wikilink") 飾 泰　叔
   - [劉　準](https://zh.wikipedia.org/wiki/劉準_\(演員\) "wikilink") 飾 興　叔
   - [梁錦燊](https://zh.wikipedia.org/wiki/梁錦燊 "wikilink") 飾 金　爺
-  - [萬斯敏](https://zh.wikipedia.org/wiki/萬斯敏 "wikilink") 飾 金奶奶
+  - [萬斯敏](../Page/萬斯敏.md "wikilink") 飾 金奶奶
   - [馮　國](https://zh.wikipedia.org/wiki/馮國 "wikilink") 飾 徐副官
   - [李　岡](../Page/李岡.md "wikilink") 飾 陳軍長
 

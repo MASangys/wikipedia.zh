@@ -153,7 +153,7 @@ ABS-首張數位EP《ABS 解悶》、與製作發行甜美勾勾女新人徐藝�
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最愛_Live_Concert音樂精選" title="wikilink">最愛 Live Concert音樂精選</a></p></td>
+<td><p><a href="../Page/最愛_Live_Concert音樂精選.md" title="wikilink">最愛 Live Concert音樂精選</a></p></td>
 <td><p>2006年11月3日</p></td>
 <td><ul>
 <li>看我72變＋愛情三十六計＋招牌動作（經典舞曲live版）</li>

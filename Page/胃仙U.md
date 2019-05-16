@@ -37,7 +37,7 @@ Chloride），是一種[抗潰瘍劑](https://zh.wikipedia.org/wiki/抗潰瘍劑
 
 ## 參見
 
-  - [巴士廣告](https://zh.wikipedia.org/wiki/巴士廣告 "wikilink")
+  - [巴士廣告](../Page/巴士廣告.md "wikilink")
 
 ## 參考
 

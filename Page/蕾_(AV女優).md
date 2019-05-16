@@ -840,7 +840,7 @@
   - AVC ジューシーハニー Vol.14（2010年9月25日、ミント） -
     並有設置[希志愛野](../Page/希志愛野.md "wikilink")、[明日花綺羅](../Page/明日花綺羅.md "wikilink")
   - AVC ジューシーハニー Vol.24（2013年11月23日、ミント） -
-    並有設置[佐藤遥希](https://zh.wikipedia.org/wiki/佐藤遥希 "wikilink")、[上原亞衣](https://zh.wikipedia.org/wiki/上原亞衣 "wikilink")
+    並有設置[佐藤遥希](../Page/佐藤遥希.md "wikilink")、[上原亞衣](https://zh.wikipedia.org/wiki/上原亞衣 "wikilink")
 
 ## 演出
 

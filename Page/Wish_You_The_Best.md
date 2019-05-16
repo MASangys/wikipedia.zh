@@ -6,8 +6,8 @@ Best**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
   - 2005年第19回日本金唱片大賞年度最佳搖滾專輯受賞。出貨量達百萬。
   - 收錄從出道單曲「[Love, Day After
     Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」至17th單曲「[風的啦啦啦](../Page/風的啦啦啦.md "wikilink")」中的14首A面歌與專輯曲「[delicious
-    way](../Page/delicious_way.md "wikilink")」、「[Tonight, I feel close
-    to you](../Page/If_I_Believe.md "wikilink")」。
+    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」、「[Tonight,
+    I feel close to you](../Page/If_I_Believe.md "wikilink")」。
   - 並未收錄「[Start in my
     life](../Page/冰冷的海／Start_in_my_life.md "wikilink")」、「[Can't
     forget your
@@ -18,7 +18,7 @@ Best**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")」與「[Kiss](../Page/Kiss_\(倉木麻衣單曲\).md "wikilink")」。
   - 母帶音源經過後期重新處理。
   - 繼專輯「[delicious
-    way](../Page/delicious_way.md "wikilink")」後再打進年榜銷量十大，並為其本人上榜週數最長的專輯（46週）。
+    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」後再打進年榜銷量十大，並為其本人上榜週數最長的專輯（46週）。
 
 ## 曲目
 
@@ -46,7 +46,8 @@ Best**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     <!-- end list -->
       -
         第4張單曲
-5.  **[Delicious Way](../Page/Delicious_Way.md "wikilink")**
+5.  **[Delicious
+    Way](https://zh.wikipedia.org/wiki/Delicious_Way "wikilink")**
       - 作詞:倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
@@ -72,7 +73,7 @@ Best**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     <!-- end list -->
       -
         第8張單曲
-10. **[always](../Page/always_\(倉木麻衣單曲\).md "wikilink")**
+10. **[always](https://zh.wikipedia.org/wiki/always_\(倉木麻衣單曲\) "wikilink")**
       - 作詞:倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -

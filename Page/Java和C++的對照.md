@@ -1,15 +1,15 @@
-这是一个**[Java语言和](../Page/Java语言.md "wikilink")[C++语言之间的比较](../Page/C++语言.md "wikilink")**。
+这是一个**[Java语言和](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[C++语言之间的比较](https://zh.wikipedia.org/wiki/C++语言 "wikilink")**。
 
 ## 设计目标
 
 C++和Java语言之间的不同可以追溯到它们各自的传统，它们有着不同的设计目标。
 
   - **C++**
-    被設計成主要用在系統性應用程式設計上的語言，對[C語言進行了擴展](../Page/C語言.md "wikilink")。對於C語言這個為執行效率設計的[程序式程式設計語言](../Page/程序式程式設計.md "wikilink"),
+    被設計成主要用在系統性應用程式設計上的語言，對[C語言進行了擴展](https://zh.wikipedia.org/wiki/C語言 "wikilink")。對於C語言這個為執行效率設計的[程序式程式設計語言](https://zh.wikipedia.org/wiki/程序式程式設計 "wikilink"),
     C++
-    特別加上了以下這些特性的支持：[靜態類型的](../Page/靜態類型.md "wikilink")[面向对象程序设计的支持](../Page/面向对象程序设计.md "wikilink")、[異常處理](../Page/異常處理.md "wikilink")、[RAII以及](../Page/資源獲取即是初始化.md "wikilink")[泛型](../Page/泛型.md "wikilink")。另外它還加上了一個包含泛型容器和算法的[C++庫函數](../Page/C++庫函數.md "wikilink")。
+    特別加上了以下這些特性的支持：[靜態類型的](https://zh.wikipedia.org/wiki/靜態類型 "wikilink")[面向对象程序设计的支持](../Page/面向对象程序设计.md "wikilink")、[異常處理](https://zh.wikipedia.org/wiki/異常處理 "wikilink")、[RAII以及](https://zh.wikipedia.org/wiki/資源獲取即是初始化 "wikilink")[泛型](../Page/泛型.md "wikilink")。另外它還加上了一個包含泛型容器和算法的[C++庫函數](https://zh.wikipedia.org/wiki/C++庫函數 "wikilink")。
   - **Java**
-    最開始是被設計用來支持[網絡計算](../Page/網絡計算.md "wikilink")。它依賴一個[虛擬機來保證](../Page/虛擬機.md "wikilink")[安全和](../Page/計算機安全.md "wikilink")[可移植性](../Page/移植_\(軟體\).md "wikilink")。Java
+    最開始是被設計用來支持[網絡計算](https://zh.wikipedia.org/wiki/網絡計算 "wikilink")。它依賴一個[虛擬機來保證](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")[安全和](https://zh.wikipedia.org/wiki/計算機安全 "wikilink")[可移植性](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")。Java
     包含一個可擴展的庫用以提供一個完整的的下層平台的抽象。Java
     是一种静态面向对象语言，它使用的語法類似C++，但与之不兼容。为了使更多的人到使用更易用的語言，它进行了全新的设计。
 
@@ -24,7 +24,7 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>除了一些比較少見的情況之外和<a href="../Page/C語言.md" title="wikilink">C語言相容</a></p></td>
+<td><p>除了一些比較少見的情況之外和<a href="https://zh.wikipedia.org/wiki/C語言" title="wikilink">C語言相容</a></p></td>
 <td><p>沒有對任何之前的語言向前相容。但在語法上受 C/C++ 的影響很大</p></td>
 </tr>
 <tr class="even">
@@ -32,12 +32,12 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 <td><p>一次编写多处运行</p></td>
 </tr>
 <tr class="odd">
-<td><p>允許<a href="../Page/程序式程式設計.md" title="wikilink">程序式程式設計和</a><a href="../Page/面向对象程序设计.md" title="wikilink">面向对象程序设计</a></p></td>
+<td><p>允許<a href="https://zh.wikipedia.org/wiki/程序式程式設計" title="wikilink">程序式程式設計和</a><a href="../Page/面向对象程序设计.md" title="wikilink">面向对象程序设计</a></p></td>
 <td><p>必須使用面向对象的程式設計方式</p></td>
 </tr>
 <tr class="even">
 <td><p>允许直接调用原生的系统库</p></td>
-<td><p>要通过<a href="../Page/Java_Native_Interface.md" title="wikilink">JNI调用</a>, 或者 </p></td>
+<td><p>要通过<a href="https://zh.wikipedia.org/wiki/Java_Native_Interface" title="wikilink">JNI调用</a>, 或者 </p></td>
 </tr>
 <tr class="odd">
 <td><p>能直接使用底层系统接口</p></td>
@@ -45,7 +45,7 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 </tr>
 <tr class="even">
 <td><p>只提供物件的類型和類型名</p></td>
-<td><p>是<a href="../Page/反射_(計算機科學).md" title="wikilink">反射的</a>, 允許<a href="../Page/元程式設計.md" title="wikilink">元程式設計和運行時的動態生成代碼</a></p></td>
+<td><p>是<a href="https://zh.wikipedia.org/wiki/反射_(計算機科學)" title="wikilink">反射的</a>, 允許<a href="https://zh.wikipedia.org/wiki/元程式設計" title="wikilink">元程式設計和運行時的動態生成代碼</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>有多種二進制相容標準 (例如:微軟和Itanium/GNU)</p></td>
@@ -53,7 +53,7 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 </tr>
 <tr class="even">
 <td><p>可选的自动<a href="../Page/边界检查.md" title="wikilink">边界检查</a>. (例如: <code>vector</code> 和 <code>string</code> 这两个容器的 <code>at()</code> 方法)</p></td>
-<td><p>一般都有做边界检查。<a href="../Page/HotSpot_(java).md" title="wikilink">HotSpot (java)</a>(Sun 的虚拟机实现) 可以去掉边界检查</p></td>
+<td><p>一般都有做边界检查。<a href="https://zh.wikipedia.org/wiki/HotSpot_(java)" title="wikilink">HotSpot (java)</a>(Sun 的虚拟机实现) 可以去掉边界检查</p></td>
 </tr>
 <tr class="odd">
 <td><p>支持原生的无符号数学运算</p></td>
@@ -72,16 +72,16 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 <td><p>自動垃圾搜集(可以手動觸發)。沒有析搆函式的概念，對 <code>finalize()</code> 的使用是不推荐的</p></td>
 </tr>
 <tr class="odd">
-<td><p>支持类class，结构struct，联合union，可以在<a href="../Page/堆疊.md" title="wikilink">堆疊或者</a><a href="../Page/動態記憶體分配.md" title="wikilink">堆里為它們動態分配記憶體</a></p></td>
-<td><p>只支持類別，只在<a href="../Page/動態記憶體分配.md" title="wikilink">堆中為物件分配記憶體</a>。<a href="../Page/J2SE.md" title="wikilink">Java SE 6在棧為一些物件分配記憶體的使用了</a><a href="../Page/逃逸分析.md" title="wikilink">逃逸分析的優化方法</a></p></td>
+<td><p>支持类class，结构struct，联合union，可以在<a href="https://zh.wikipedia.org/wiki/堆疊" title="wikilink">堆疊或者</a><a href="https://zh.wikipedia.org/wiki/動態記憶體分配" title="wikilink">堆里為它們動態分配記憶體</a></p></td>
+<td><p>只支持類別，只在<a href="https://zh.wikipedia.org/wiki/動態記憶體分配" title="wikilink">堆中為物件分配記憶體</a>。<a href="https://zh.wikipedia.org/wiki/J2SE" title="wikilink">Java SE 6在棧為一些物件分配記憶體的使用了</a><a href="../Page/逃逸分析.md" title="wikilink">逃逸分析的優化方法</a></p></td>
 </tr>
 <tr class="even">
 <td><p>允许显式的覆盖(也叫重写)类型</p></td>
-<td><p>严格的<a href="../Page/类型安全.md" title="wikilink">类型安全</a>，除了变宽的类型转换。Java 1.5 开始支持自动类型包装和解包装(Autoboxing/Unboxing)</p></td>
+<td><p>严格的<a href="https://zh.wikipedia.org/wiki/类型安全" title="wikilink">类型安全</a>，除了变宽的类型转换。Java 1.5 开始支持自动类型包装和解包装(Autoboxing/Unboxing)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/C++函式庫.md" title="wikilink">C++函式庫包括</a>：語言支持，診斷工具，常用工具，字符串，本地化，容器，算法，迭代器，數值，輸入/輸出，C函式庫。Boost庫提供了更多的功能，包括執行緒和網絡I/O。使用者必須在一大堆（大部分互相不相容）第三方GUI或者其他功能庫中進行選擇</p></td>
-<td><p>函式庫在每次 Java 發布新版本的時候都會更新并增強功能。1.6版本支持：本地化，日誌系統，容器和迭代器，算法，GUI 程式設計（但沒有用到系統的GUI），圖形，多執行緒，網絡，平台安全，自省機制，動態類別加載，阻塞和非阻塞的I/O，對於<a href="../Page/XML.md" title="wikilink">XML</a>、<a href="../Page/XSLT.md" title="wikilink">XSLT</a>、<a href="../Page/MIDI.md" title="wikilink">MIDI也提供了相關接口或者支持類別</a>，數據庫，命名服務(例如 <a href="../Page/LDAP.md" title="wikilink">LDAP</a>)，密碼學，安全服務(例如 <a href="../Page/Kerberos.md" title="wikilink">Kerberos</a>)，打印服務，WEB 服務。SWT 提供了一個系統相關的GUI的抽象</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/C++函式庫" title="wikilink">C++函式庫包括</a>：語言支持，診斷工具，常用工具，字符串，本地化，容器，算法，迭代器，數值，輸入/輸出，C函式庫。Boost庫提供了更多的功能，包括執行緒和網絡I/O。使用者必須在一大堆（大部分互相不相容）第三方GUI或者其他功能庫中進行選擇</p></td>
+<td><p>函式庫在每次 Java 發布新版本的時候都會更新并增強功能。1.6版本支持：本地化，日誌系統，容器和迭代器，算法，GUI 程式設計（但沒有用到系統的GUI），圖形，多執行緒，網絡，平台安全，自省機制，動態類別加載，阻塞和非阻塞的I/O，對於<a href="../Page/XML.md" title="wikilink">XML</a>、<a href="../Page/XSLT.md" title="wikilink">XSLT</a>、<a href="../Page/MIDI.md" title="wikilink">MIDI也提供了相關接口或者支持類別</a>，數據庫，命名服務(例如 <a href="https://zh.wikipedia.org/wiki/LDAP" title="wikilink">LDAP</a>)，密碼學，安全服務(例如 <a href="../Page/Kerberos.md" title="wikilink">Kerberos</a>)，打印服務，WEB 服務。SWT 提供了一個系統相關的GUI的抽象</p></td>
 </tr>
 <tr class="even">
 <td><p>大部分运算符可以<a href="../Page/运算符重载.md" title="wikilink">运算符重载</a></p></td>
@@ -101,7 +101,7 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 </tr>
 <tr class="even">
 <td><p>沒有標準的代碼內嵌文檔機制。不過有第三方的軟體(例如 <a href="../Page/Doxygen.md" title="wikilink">Doxygen</a>)</p></td>
-<td><p><a href="../Page/Javadoc.md" title="wikilink">Javadoc</a> 标准文档生成系统</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Javadoc" title="wikilink">Javadoc</a> 标准文档生成系统</p></td>
 </tr>
 <tr class="odd">
 <td><p><code>const</code> 關鍵字用來定義不可改變的常量和成員函式</p></td>
@@ -112,8 +112,8 @@ C++和Java语言之间的不同可以追溯到它们各自的传统，它们有�
 <td><p>支持循環標簽(label)和語句塊</p></td>
 </tr>
 <tr class="odd">
-<td><p>源代碼可以寫成平台無關的（可以被 <a href="../Page/Windows.md" title="wikilink">Windows</a>、<a href="../Page/BSD.md" title="wikilink">BSD</a>、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>、<a href="../Page/Solaris_(操作系統).md" title="wikilink">Solaris等編譯</a>，不用修改），也可以寫成利用平台特有的特性。通常被編譯成原生的機器碼</p></td>
-<td><p>被編譯成<a href="../Page/Java虛擬機.md" title="wikilink">Java虛擬機的字節碼</a>。和Java平台相關，但是源代碼一般來說是不依賴<a href="../Page/操作系統.md" title="wikilink">操作系統特有的特性的</a></p></td>
+<td><p>源代碼可以寫成平台無關的（可以被 <a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a>、<a href="../Page/BSD.md" title="wikilink">BSD</a>、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>、<a href="https://zh.wikipedia.org/wiki/Solaris_(操作系統)" title="wikilink">Solaris等編譯</a>，不用修改），也可以寫成利用平台特有的特性。通常被編譯成原生的機器碼</p></td>
+<td><p>被編譯成<a href="https://zh.wikipedia.org/wiki/Java虛擬機" title="wikilink">Java虛擬機的字節碼</a>。和Java平台相關，但是源代碼一般來說是不依賴<a href="https://zh.wikipedia.org/wiki/操作系統" title="wikilink">操作系統特有的特性的</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -243,10 +243,10 @@ C++
 </tbody>
 </table>
 
-  - 在 C++ 里,声明一个指向[常量的指针](../Page/常量.md "wikilink")（只读指针）是可能的, 也就是说,
-    你不能修改这个指针指向的对象的内容. 函数和方法也都保证不会修改用 "const"
-    关键字的指针指向的对象的内容,是强制的. 在 Java
-    里这是不可能做到的. 你可以声明一个引用为 "final"(就像在 C++ 里声明一个指针"常量"),
+  - 在 C++
+    里,声明一个指向[常量的指针](https://zh.wikipedia.org/wiki/常量 "wikilink")（只读指针）是可能的,
+    也就是说, 你不能修改这个指针指向的对象的内容. 函数和方法也都保证不会修改用 "const" 关键字的指针指向的对象的内容,是强制的.
+    在 Java 里这是不可能做到的. 你可以声明一个引用为 "final"(就像在 C++ 里声明一个指针"常量"),
     但这只是阻止你重新绑定这个引用; 你还是可以修改这个 "final" 引用指向的对象的.
 
 <table>
@@ -292,22 +292,23 @@ C++
 </tbody>
 </table>
 
-  - C++ 支持 [`goto`](../Page/GOTO.md "wikilink") 语句; Java
-    强制[结构化流程控制](../Page/结构化编程.md "wikilink")( ),
-    依赖[break标签](../Page/break标签.md "wikilink") 和
-    [continue标签](../Page/continue标签.md "wikilink") 语句来提供类似于
-    </code>goto</code> 的部分功能. 一些评论者指出这些标签化的流程控制打破了结构化编程的单退出点的特点.\[3\]
+  - C++ 支持 [`goto`](https://zh.wikipedia.org/wiki/GOTO "wikilink") 语句;
+    Java 强制[结构化流程控制](../Page/结构化编程.md "wikilink")( ),
+    依赖[break标签](https://zh.wikipedia.org/wiki/break标签 "wikilink")
+    和 [continue标签](https://zh.wikipedia.org/wiki/continue标签 "wikilink")
+    语句来提供类似于 </code>goto</code> 的部分功能.
+    一些评论者指出这些标签化的流程控制打破了结构化编程的单退出点的特点.\[3\]
   - C++ 提供了一些 Java 缺乏的低级特性. 在 C++ 里, 指针可以用来操作特定的内存位置,
     这是在写低级[操作系统模块的时候必须用到的](../Page/操作系统.md "wikilink").
     类似的, 许多 C++ 编译期支持[内联汇编](../Page/内联汇编.md "wikilink")，在 Java 里,
-    这样的代码只能放在外来的库中,而且在调用的时候只能通过[JNI来访问这些外来库提供的接口](../Page/JNI.md "wikilink").
+    这样的代码只能放在外来的库中,而且在调用的时候只能通过[JNI来访问这些外来库提供的接口](https://zh.wikipedia.org/wiki/JNI "wikilink").
 
 ### 语义
 
   - C++ 允许给函数/方法的参数设置缺省值, Java 不提供这个特性.
-    但是[方法重载可以达到同样的效果](../Page/方法重载.md "wikilink").
+    但是[方法重载可以达到同样的效果](https://zh.wikipedia.org/wiki/方法重载 "wikilink").
   - C++ 里最小的编译单位是一个函数; Java 里最小的编译单位是一个类. 在 C++ 里, 函数可以被单独编译. 在 Java 里,
-    要编译和维护单独的方法需要把它们移到[超类或](../Page/超类.md "wikilink")[子类或者使用其他的](../Page/子类.md "wikilink")[代码重构的技巧](../Page/代码重构.md "wikilink").
+    要编译和维护单独的方法需要把它们移到[超类或](https://zh.wikipedia.org/wiki/超类 "wikilink")[子类或者使用其他的](https://zh.wikipedia.org/wiki/子类 "wikilink")[代码重构的技巧](../Page/代码重构.md "wikilink").
   - C++ 允许基本类型之间的一些隐式的转换, 也允许程序员对于用户自定义类型相关的隐式转换规则. 在 Java 里,
     只有基本类型之间变宽类型的转换可以是隐式的; 其余的转换需要显式的类型转换语法.
       - 这造成的一个后果是,虽然在 Java 和 C++ 里循环的条件(`if`, `while` 和 `for`
@@ -316,32 +317,34 @@ C++
         的输错的情况那么是很方便发现这个错误的. 而目前的 C++
         编译器一般来说只会针对这种情况产生一个警告.
   - 对于传参数给函数的情况, C++
-    支持[引用传递和](../Page/求值策略#传引用调用.md "wikilink")[值传递](../Page/求值策略#传值调用.md "wikilink").
+    支持[引用传递和](https://zh.wikipedia.org/wiki/求值策略#传引用调用 "wikilink")[值传递](https://zh.wikipedia.org/wiki/求值策略#传值调用 "wikilink").
     在 Java 里, 参数总是值传递的.\[4\] 但在 Java 里,所有的非基本类型的值都只是对于对象的引用 (用 C++
     的术语来说, 它们是智能指针). 对象在 Java 里不是作为值直接被使用的,只有对象的引用可以被直接操作;
     习惯于将对象当做值直接使用的 C++ 开发者经常会把这个跟引用传递搞混.
   - Java 内建的类型在字节宽度和取值范围上是被虚拟机定义好的; 在 C++ 里, 内建的类型有定义一个最小取值范围,
     但是其他的部分(字节宽度)可以被映射成具体平台上支持的原生类型.
-      - 举个例子, Java 字符是16位的[Unicode字符](../Page/Unicode.md "wikilink"),
+      - 举个例子, Java
+        字符是16位的[Unicode字符](https://zh.wikipedia.org/wiki/Unicode "wikilink"),
         字符串是由这样的字符组成的序列. C++ 提供窄和宽两种字符,但实际的字符宽度是和平台相关的, 视所用的字符集而定.
         字符串可以由这两种字符中的一种组成.
   - 浮点数及其操作的精度和舍入方式在 C++ 里是平台相关的. Java
     提供了一个可选的,保证跨平台的一致性,不过可能会导致运行时效率比较差.
-  - 在 C++ 里, [指针可以作为内存地址直接操作](../Page/指针.md "wikilink"). Java 没有指针 —
-    它只有对象引用和数组引用,这两者都不允许直接用来访问内存地址. 在 C++ 里可以构造一个指向指针的指针,而 Java
-    的引用只能指向对象.
+  - 在 C++ 里,
+    [指针可以作为内存地址直接操作](https://zh.wikipedia.org/wiki/指针 "wikilink").
+    Java 没有指针 — 它只有对象引用和数组引用,这两者都不允许直接用来访问内存地址. 在 C++ 里可以构造一个指向指针的指针,而
+    Java 的引用只能指向对象.
   - 在 C++ 里, 指针可以指向函数或者方法（[函数指针](../Page/函数指针.md "wikilink")）. 在 Java
     里的等价物是对象或者接口的引用.
-  - 虽然有使用栈内存分配的对象, C++ 还是支持[区域资源管理](../Page/RAII.md "wikilink"),
-    一个用来自动管理内存和其他系统资源的技术,此技术支持确定性对象销毁(deterministic
-    object destruction). 不过,区域资源管理在 C++
-    里是不被保证的;它只是一个设计模式,所以需要依赖程序员遵守相关的规则.
-    Java
-    通过使用[垃圾搜集来支持自动内存管理](../Page/垃圾回收_\(计算机科学\).md "wikilink"),但对于其他的系统资源(窗口,通讯端口,线程),如果垃圾搜集器无法决定它们是否不再被用到,那通常还是需要显式的释放的.
-  - C++ 的用户可自定义[操作符重载的特性在](../Page/操作符重载.md "wikilink") Java 里是不支持的. 唯一在
-    Java 里可以重载的操作符是 "`+`" 和 "`+=`" 操作符, 在字符串里重载为连接字符串.
+  - 虽然有使用栈内存分配的对象, C++
+    还是支持[区域资源管理](https://zh.wikipedia.org/wiki/RAII "wikilink"),
+    一个用来自动管理内存和其他系统资源的技术,此技术支持确定性对象销毁(deterministic object destruction).
+    不过,区域资源管理在 C++ 里是不被保证的;它只是一个设计模式,所以需要依赖程序员遵守相关的规则. Java
+    通过使用[垃圾搜集来支持自动内存管理](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink"),但对于其他的系统资源(窗口,通讯端口,线程),如果垃圾搜集器无法决定它们是否不再被用到,那通常还是需要显式的释放的.
+  - C++
+    的用户可自定义[操作符重载的特性在](https://zh.wikipedia.org/wiki/操作符重载 "wikilink")
+    Java 里是不支持的. 唯一在 Java 里可以重载的操作符是 "`+`" 和 "`+=`" 操作符, 在字符串里重载为连接字符串.
   - Java
-    的标准[应用程序接口支持](../Page/应用程序接口.md "wikilink")[反射和](../Page/反射_\(计算机科学\).md "wikilink")[动态加载任意代码](../Page/动态加载.md "wikilink").
+    的标准[应用程序接口支持](../Page/应用程序接口.md "wikilink")[反射和](../Page/反射_\(计算机科学\).md "wikilink")[动态加载任意代码](https://zh.wikipedia.org/wiki/动态加载 "wikilink").
   - C++ 支持静态和动态的库连接.
   - Java 支持[泛型](../Page/泛型.md "wikilink"), 其主要目的是提供类型安全的容器. C++
     支持[模板](../Page/模板_\(C++\).md "wikilink"), 在泛型编程方面提供了更强的支持.
@@ -354,20 +357,22 @@ C++
     of implementation)）。
   - Java 对于类和接口是显式区分的. 在 C++ 里多重继承和纯虚函数使得定义出类似于 Java 的接口的类是可能的,不过会有少许区别.
   - Java 在语言和标准库都对[多线程有良好的支持](../Page/多线程.md "wikilink"). `synchronized`
-    这个 Java 的关键字为了支持多线程应用提供了简单而安全的[互斥锁](../Page/互斥.md "wikilink")
-    ,但同步(synchronized)区只能用 LIFO 的顺序离开. Java 也为更高阶的多线程同步提供了健壮而复杂的库.
-    在 C++ 里没有专门为多线程定义的内存模型; 但第三方库提供了和 Java 差不多的功能; 不过这些 C++
-    库之间差异较大,一致性不好.
-  - C++ 方法可以声明为[虚函数](../Page/虚函数_\(程序语言\).md "wikilink"),
-    虚函数是在运行期根据对象的类型才确定的. C++ 方法缺省情况下不是虚的.
-    在 Java 里, 方法缺省情况下是虚的, 但可以使用`final`关键字使之声明为非虚的.
+    这个 Java
+    的关键字为了支持多线程应用提供了简单而安全的[互斥锁](https://zh.wikipedia.org/wiki/互斥 "wikilink")
+    ,但同步(synchronized)区只能用 LIFO 的顺序离开. Java 也为更高阶的多线程同步提供了健壮而复杂的库. 在 C++
+    里没有专门为多线程定义的内存模型; 但第三方库提供了和 Java 差不多的功能; 不过这些 C++ 库之间差异较大,一致性不好.
+  - C++
+    方法可以声明为[虚函数](https://zh.wikipedia.org/wiki/虚函数_\(程序语言\) "wikilink"),
+    虚函数是在运行期根据对象的类型才确定的. C++ 方法缺省情况下不是虚的. 在 Java 里, 方法缺省情况下是虚的,
+    但可以使用`final`关键字使之声明为非虚的.
   - C++ 枚举属于基本类型,支持和其他整数类型之间的转换和比较. Java 枚举实际上是类的实例(它们从
     `java.lang.Enum`<E> 扩展而来),象其他的类一样可以定义构造函数,数据成员及方法.
 
 ### 资源管理
 
-  - Java 提供了自动化的[垃圾搜集](../Page/垃圾回收_\(计算机科学\).md "wikilink"). 在 C++
-    里内存管理通常通过构造函数,析构函数以及[智能指针](../Page/智能指针.md "wikilink")。C++
+  - Java
+    提供了自动化的[垃圾搜集](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink").
+    在 C++ 里内存管理通常通过构造函数,析构函数以及[智能指针](../Page/智能指针.md "wikilink")。C++
     标准允许垃圾搜集,但并不强制要求; 实际使用上垃圾搜集极少被用到. 强制使用自动垃圾搜集导致了在 Java
     里编写[实时软件是困难的](../Page/实时计算.md "wikilink").\[5\]
   - C++ 可以申请任意的内存块.Java 只能通过对象实例化来申请内存. (注意:在 Java 里,
@@ -375,28 +380,29 @@ C++
     Java [数组仍然是对象](../Page/数组.md "wikilink").)
   - Java 和 C++ 在资源管理上使用不同的习语. Java
     主要依赖只能回收内存的垃圾搜集机制,因为该机制如果用于回收使用中的非内存的系统资源可能是非常危险的。而
-    C++ 主要依赖 [RAII (资源的获取就是初始化)](../Page/RAII.md "wikilink").
+    C++ 主要依赖 [RAII
+    (资源的获取就是初始化)](https://zh.wikipedia.org/wiki/RAII "wikilink").
     这反映了这两种语言的几方面的不同:
       - 在 C++ 里在栈里申请复合类型的对象是很平常的,一旦退出栈的范围就会被销毁. 在 Java
         里复合类型的对象总是在堆里申请的内存,而后被垃圾搜集器搜集
         (除非在虚拟机里使用了[逃逸分析技术来将堆的内存申请转成栈的](../Page/逃逸分析.md "wikilink").
       - C++ 有析构函数, 而 Java
-        有[finalizer](../Page/finalizer.md "wikilink")().
+        有[finalizer](https://zh.wikipedia.org/wiki/finalizer "wikilink")().
         两者都会在对象释放之前被调用, 但是它们有显著的不同. 一个 C++
-        对象的析构函数必须被隐式(栈变量对象的情况)或者显式地调用来释放对象. 析构函数在对象释放之前同步地执行.
-        同步,协调的反初始化以及释放在 C++ 里满足 RAII 的要求. 在 Java 里,
+        对象的析构函数必须被隐式(栈变量对象的情况)或者显式地调用来释放对象.
+        析构函数在对象释放之前同步地执行. 同步,协调的反初始化以及释放在 C++ 里满足 RAII 的要求. 在 Java 里,
         对象的释放是被垃圾搜集器隐式处理的. 一个 Java 对象的 finalizer
-        在它被最后一次访问之后和在实际释放之前的某个时间点被[异步](../Page/异步.md "wikilink")([非同步](../Page/非同步.md "wikilink"))地调用,
+        在它被最后一次访问之后和在实际释放之前的某个时间点被[异步](https://zh.wikipedia.org/wiki/异步 "wikilink")([非同步](https://zh.wikipedia.org/wiki/非同步 "wikilink"))地调用,
         这个调用有可能一直不产生. 非常少的对象需要 finalizer;
         只有那些在释放前必须保证一些清理工作一定要做的对象来说才是需要的
         — 典型的情况是：释放对 JVM 来说是外部的资源. 在 Java 里，企图安全同步的释放某些系统资源，只能用显式的
         try/finally 结构来进行.
       - 在 C++ 里是有可能有一个[迷途指针的](../Page/迷途指针.md "wikilink") –
-        过时的对一个已释放的对象的[引用](../Page/引用_\(计算机科学\).md "wikilink")([參照](../Page/參照.md "wikilink"));
+        过时的对一个已释放的对象的[引用](https://zh.wikipedia.org/wiki/引用_\(计算机科学\) "wikilink")([參照](../Page/參照.md "wikilink"));
         试图使用一个迷途指针的结果是导致程序错误. 在 Java 里, 垃圾搜集器不会销毁一个正在被引用的对象.
       - 在 C++ 里未初始化过的基本类型对象是有可能存在的, Java 强制要做缺省初始化.
       - 在 C++ 里有可能申请了一个对象,但对它没有任何引用.
-        这样的[不可达对象](../Page/不可达对象.md "wikilink")([不可访问内存](../Page/不可访问内存.md "wikilink"))是无法被销毁的,导致了[内存泄漏](../Page/内存泄漏.md "wikilink").
+        这样的[不可达对象](https://zh.wikipedia.org/wiki/不可达对象 "wikilink")([不可访问内存](../Page/不可访问内存.md "wikilink"))是无法被销毁的,导致了[内存泄漏](../Page/内存泄漏.md "wikilink").
         作为对比, 在 Java 里一个对象不会被回收直到它变得不可达(对于用户程序来说). (注意:
         *[弱引用](../Page/弱引用.md "wikilink")*([弱引用](../Page/弱引用.md "wikilink"))
         是被支持的, 这个特性让 Java 的垃圾搜集器能够识别不同 程度的可达性.) 在 Java
@@ -413,24 +419,26 @@ C++
 
 ### 库
 
-  - C++ 对于许多平台相关的特性提供了[跨平台的访问方式](../Page/跨平台.md "wikilink"). 从 Java
-    到原生的操作系统和硬件相关的函数的直接访问需要用到[JNI](../Page/JNI.md "wikilink")([Java本地接口](../Page/Java本地接口.md "wikilink")).
+  - C++
+    对于许多平台相关的特性提供了[跨平台的访问方式](https://zh.wikipedia.org/wiki/跨平台 "wikilink").
+    从 Java
+    到原生的操作系统和硬件相关的函数的直接访问需要用到[JNI](https://zh.wikipedia.org/wiki/JNI "wikilink")([Java本地接口](../Page/Java本地接口.md "wikilink")).
 
 ### 运行时
 
   - C++
-    通常来说会直接被编译成[机器码](../Page/机器码.md "wikilink"),被[操作系统直接执行](../Page/操作系统.md "wikilink").
+    通常来说会直接被编译成[机器码](https://zh.wikipedia.org/wiki/机器码 "wikilink"),被[操作系统直接执行](../Page/操作系统.md "wikilink").
     Java
-    通常会被编译成[字节码](../Page/字节码.md "wikilink"),被[Java虚拟机和](../Page/Java虚拟机.md "wikilink")[解释器或者](../Page/解释器.md "wikilink")[即时编译器编译成机器码然后执行](../Page/即时编译.md "wikilink").
+    通常会被编译成[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink"),被[Java虚拟机和](../Page/Java虚拟机.md "wikilink")[解释器或者](https://zh.wikipedia.org/wiki/解释器 "wikilink")[即时编译器编译成机器码然后执行](https://zh.wikipedia.org/wiki/即时编译 "wikilink").
   - 因为表达方式不受限制,低级的 C++
-    语言特性(例如:不被检查的数组访问,原始指针,[类型双关语](../Page/类型双关语.md "wikilink")())不能在编译期间或者运行期间可靠地被检查.
-    相关的编程错误会导致低级的[缓存溢出和](../Page/缓存溢出.md "wikilink")[段错误](../Page/段错误.md "wikilink")([記憶體區段錯誤](../Page/記憶體區段錯誤.md "wikilink")).
+    语言特性(例如:不被检查的数组访问,原始指针,[类型双关语](https://zh.wikipedia.org/wiki/类型双关语 "wikilink")())不能在编译期间或者运行期间可靠地被检查.
+    相关的编程错误会导致低级的[缓存溢出和](https://zh.wikipedia.org/wiki/缓存溢出 "wikilink")[段错误](https://zh.wikipedia.org/wiki/段错误 "wikilink")([記憶體區段錯誤](https://zh.wikipedia.org/wiki/記憶體區段錯誤 "wikilink")).
     [标准模板库](../Page/标准模板库.md "wikilink") 提供了高级的抽象(例如 vector,list 和
     map)来帮助避免这样的错误. 在 Java 里,
-    低级错误不会发生或者会被[JVM检测到并以](../Page/JVM.md "wikilink")[异常的形式报告给应用](../Page/异常.md "wikilink").
+    低级错误不会发生或者会被[JVM检测到并以](https://zh.wikipedia.org/wiki/JVM "wikilink")[异常的形式报告给应用](https://zh.wikipedia.org/wiki/异常 "wikilink").
   - Java 语言在越界访问数组的时候一般来说会对数组进行[边界检查](../Page/边界检查.md "wikilink")().
     这消除了导致程序不稳定的一个可能因素,但这是以执行速度更慢一些作为代价的.
-    在一些情况下,[编译器分析](../Page/编译器分析.md "wikilink")()可以检测到不必要的边界检查并去掉.
+    在一些情况下,[编译器分析](https://zh.wikipedia.org/wiki/编译器分析 "wikilink")()可以检测到不必要的边界检查并去掉.
     C++ 对于原生数组的越界访问没有要求特定的处理, 所以需要对于原生数组确认不越界. 但C++ 标准库里的一部分库象
     std::vector 也提供了可选的边界检查. 总的来说, Java 数组是"总是安全;严格限制;开销较多" ,而 C++
     原生数组是"可选的开销; 完全不限制; 有潜在的不安全."
@@ -439,7 +447,7 @@ C++
 
 C++ 和 Java
 都提供[泛型编程的能力](../Page/泛型.md "wikilink"),分别是[模板](../Page/模板_\(C++\).md "wikilink")
-和 [泛型](../Page/Java的泛型.md "wikilink")().
+和 [泛型](https://zh.wikipedia.org/wiki/Java的泛型 "wikilink")().
 虽然它们被创造用来解决类似的问题,有类似的语法,但实际上很不一样.
 
   -
@@ -456,7 +464,7 @@ include 它(只是声明是不够的). | 有一个编译好的类文件里的类
 | 泛型类参数无法拥有缺省参数. |- | 不支持通配符. 返回的类型经常是嵌套的 typedef 形式的. |
 如果只用一次,那么支持通配符作为类型参数. |- | 不直接支持设置类型参数的边界
 (即, 不允许说明类型参数必须为某个类型的子类/父类),
-但[超编程提供了这个特性](../Page/模板超编程.md "wikilink")\[6\]
+但[超编程提供了这个特性](https://zh.wikipedia.org/wiki/模板超编程 "wikilink")\[6\]
 | 支持类型参数边界, 分别以 "extends" 和 "super" 来定义上界和下界; 同时允许定义类型参数之间的继承关系 |- |
 允许生成有参模板的类的实例 (如 foo = new Foo<T>, T 为参数) | 不允许生成有参模板类的实例
 (除非使用[反射](../Page/反射_\(计算机科学\).md "wikilink")) |- |
@@ -467,14 +475,15 @@ include 它(只是声明是不够的). | 有一个编译好的类文件里的类
 则错误信息将出现在定义模板的代码处 (而非调用模板的代码处), 说明 "不支持以该类型作为参数来实例化模板".
 这种错误信息往往难以帮助人们找出真正的问题所在 (编程时究竟使用了何种 "错误的"
 参数). 因此, 模板类或者函数的正确使用更依赖于正确的文档.
-[超编程以额外的代价提供了这些特性](../Page/模板超编程.md "wikilink").
+[超编程以额外的代价提供了这些特性](https://zh.wikipedia.org/wiki/模板超编程 "wikilink").
 | 泛型类和函数在声明的时候强制了类参数的类限制(Generic classes and functions can enforce type
 relationships for type parameters in their declaration).
 使用一个错误的参数会在使用它的时候导致一个类错误.
 在泛型代码里操作和参数化类型只能按声明的时候保证安全的方式来使用.
 这用失去弹性的代价来换取好得多的类型方面的安全性. |- |
-模板是[图灵完全的](../Page/图灵完全.md "wikilink") (参见
-[模板超编程](../Page/模板超编程.md "wikilink")). | 泛型不是图灵完全的. |}
+模板是[图灵完全的](https://zh.wikipedia.org/wiki/图灵完全 "wikilink")
+(参见 [模板超编程](https://zh.wikipedia.org/wiki/模板超编程 "wikilink")). |
+泛型不是图灵完全的. |}
 
 ### 杂项
 
@@ -488,15 +497,16 @@ relationships for type parameters in their declaration).
   - C++ 编译多了一个文本[预处理过程](../Page/预处理器.md "wikilink"), Java 是没有的.
     因此一些使用者在他们的编译过程之前增加了一个预处理的过程,这样能更好的支持需要条件编译的情况.
   - 两个语言里[数组都是定长的](../Page/数组.md "wikilink"). 在 Java 里,
-    数组是[一等对象](../Page/一等对象.md "wikilink")([第一類物件](../Page/第一類物件.md "wikilink")),
+    数组是[一等对象](https://zh.wikipedia.org/wiki/一等对象 "wikilink")([第一類物件](../Page/第一類物件.md "wikilink")),
     而在 C++ 里它们只是它们的基本类型元素的连续的序列, 经常用一个指向第一个元素的指针和一个可选的长度来引用. 在 Java 里,
     数组是被边界检查的,而且知道它们的长度, 而在 C++ 里你可以将任意的序列当成一个数组. C++ 和 Java
     都提供了相关的容器类(分别为**std::vector** 和
     **java.util.ArrayList**),可以改变大小.
   - Java 的除法和模除操作符是定义成零截断的. C++ 没有定义这两个操作符是零截断的还是"负无穷截断"的. 在 Java 里-3/2
     总是得到 -1, 但一个 C++ 编译器可能会返回 -1 或 -2, 视平台而定.
-    [C99](../Page/C99.md "wikilink") 定义了和 Java 一样的除法方式. 两种语言都保证对于所有的 a 和
-    b(b\!=0)(当 a 和 b都是整型的时候)`(a/b)*b + (a%b) == a`. C++
+    [C99](https://zh.wikipedia.org/wiki/C99 "wikilink") 定义了和 Java
+    一样的除法方式. 两种语言都保证对于所有的 a 和 b(b\!=0)(当 a 和
+    b都是整型的时候)`(a/b)*b + (a%b) == a`. C++
     版本有时候会更快,因为它允许直接使用处理器的截断方式.
   - 整型的长度在 Java 里是已定义好的(int 为 32-bit, long 为 64-bit), 而在 C++
     里整型和指针的长度是和编译器以及[应用二进制接口相关的](../Page/应用二进制接口.md "wikilink").
@@ -505,9 +515,11 @@ relationships for type parameters in their declaration).
 
 ## 性能
 
-想运行一个编译好的 Java 程序，计算机上要运行[JVM](../Page/JVM.md "wikilink")；而编译好的 C++
-程序不需要额外的应用。比较早期的 Java 版本在性能上比静态编译的语言如 C++ 差得很多，这是因为用 C++
-是直接编译成一些机器指令，而当 Java 编译成字节码以后用 JVM 解释执行的时候又牵涉了不少额外的机器指令。 例如：
+想运行一个编译好的 Java
+程序，计算机上要运行[JVM](https://zh.wikipedia.org/wiki/JVM "wikilink")；而编译好的
+C++ 程序不需要额外的应用。比较早期的 Java 版本在性能上比静态编译的语言如 C++ 差得很多，这是因为用 C++
+是直接编译成一些机器指令，而当 Java 编译成字节码以后用 JVM
+解释执行的时候又牵涉了不少额外的机器指令。 例如：
 
 <table>
 <thead>
@@ -549,11 +561,11 @@ C++ 在大部分的情况下都比 Java 要快，\[7\] 有几个数值方面的�
 有人争论说，和 Java 相比 C++也有很多劣势：
 
   - 指针使得优化变得困难，因为它们可能指向任意的数据。当然现在这一点也并非完全正确，因为一些现代的编译器引入了 "严格别名" 的规则
-    \[18\] 并且支持 [C99](../Page/C99.md "wikilink") 的关键字
-    *[restrict](../Page/restrict.md "wikilink")*，从而严格限制了指针的使用，使其只能用于指向已知的变量
+    \[18\] 并且支持 [C99](https://zh.wikipedia.org/wiki/C99 "wikilink") 的关键字
+    *[restrict](https://zh.wikipedia.org/wiki/restrict "wikilink")*，从而严格限制了指针的使用，使其只能用于指向已知的变量
     \[19\]
   - Java
-    的[垃圾搜集和使用](../Page/垃圾回收_\(计算机科学\).md "wikilink")*[malloc](../Page/malloc.md "wikilink")*/*[new](../Page/new_\(C++\).md "wikilink")*来申请内存相比能拥有更好的缓存连贯性，因为它的申请一般来说是顺序的。然而，始终有争论认为二者同样会导致内存的“零碎化”（即多次分配和回收之后内存空间会变得不连续），且并没有哪一个比对方有更明显的缓存优势。
+    的[垃圾搜集和使用](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")*[malloc](https://zh.wikipedia.org/wiki/malloc "wikilink")*/*[new](https://zh.wikipedia.org/wiki/new_\(C++\) "wikilink")*来申请内存相比能拥有更好的缓存连贯性，因为它的申请一般来说是顺序的。然而，始终有争论认为二者同样会导致内存的“零碎化”（即多次分配和回收之后内存空间会变得不连续），且并没有哪一个比对方有更明显的缓存优势。
   - 运行时编译可能可以更好的优化代码，因为可以利用运行时的额外的信息，例如知道代码是在什么样的处理器上运行。然而当今的情况也并非完全如此，因为目前最先进的
     C++ 编译器也会针对不同系统生成不同的目标代码，以期充分利用该系统的计算能力 \[20\]
 
@@ -564,9 +576,10 @@ C++ 在大部分的情况下都比 Java 要快，\[7\] 有几个数值方面的�
 ## 所有权控制
 
 C++不是任何一个公司或者组织的商标，不被任何个人拥有。\[21\]
-Java原是[Sun的商标](../Page/Sun.md "wikilink")，现在由[甲骨文公司拥有](../Page/甲骨文公司.md "wikilink")。\[22\]
+Java原是[Sun的商标](https://zh.wikipedia.org/wiki/Sun "wikilink")，现在由[甲骨文公司拥有](../Page/甲骨文公司.md "wikilink")。\[22\]
 
-C++语言由 *ISO/IEC 14882* 定义，是一个[ISO标准](../Page/ISO.md "wikilink")，由
+C++语言由 *ISO/IEC 14882*
+定义，是一个[ISO标准](https://zh.wikipedia.org/wiki/ISO "wikilink")，由
 *ISO/IEC JTC1/SC22/WG21* 委员会发布。 Java语言由 *Java Language Specification*
 定义，这是一本Sun公司（已被甲骨文收購）出版的书。\[23\]
 
@@ -584,8 +597,9 @@ C++语言由 *ISO/IEC 14882* 定义，是一个[ISO标准](../Page/ISO.md "wikil
   - [How Java Differs from
     C](https://web.archive.org/web/20020402093228/http://www.ora.com/catalog/javanut/excerpt/index.html#except)
     — excerpt from [Java in a
-    Nutshell](../Page/Java_in_a_Nutshell.md "wikilink") by [David
-    Flanagan](../Page/David_Flanagan.md "wikilink")
+    Nutshell](https://zh.wikipedia.org/wiki/Java_in_a_Nutshell "wikilink")
+    by [David
+    Flanagan](https://zh.wikipedia.org/wiki/David_Flanagan "wikilink")
   - [Java vs. C++ resource management
     comparison](https://web.archive.org/web/20070523171523/http://www.fatalmind.com/papers/java_vs_cplusplus/resource.html)
     - 一份有例子的综合论文
@@ -605,12 +619,14 @@ C++语言由 *ISO/IEC 14882* 定义，是一个[ISO标准](../Page/ISO.md "wikil
 
 3.
 
-4.  [James Gosling](../Page/James_Gosling.md "wikilink"), [Bill
-    Joy](../Page/Bill_Joy.md "wikilink"), [Guy
-    Steele](../Page/Guy_L._Steele,_Jr..md "wikilink"), and [Gilad
-    Bracha](../Page/Gilad_Bracha.md "wikilink"), *The Java language
-    specification*, third edition. Addison-Wesley, 2005. ISBN
-    0-321-24678-0 (see also [online edition of the
+4.  [James
+    Gosling](https://zh.wikipedia.org/wiki/James_Gosling "wikilink"),
+    [Bill Joy](https://zh.wikipedia.org/wiki/Bill_Joy "wikilink"), [Guy
+    Steele](https://zh.wikipedia.org/wiki/Guy_L._Steele,_Jr. "wikilink"),
+    and [Gilad
+    Bracha](https://zh.wikipedia.org/wiki/Gilad_Bracha "wikilink"), *The
+    Java language specification*, third edition. Addison-Wesley, 2005.
+    ISBN 0-321-24678-0 (see also [online edition of the
     specification](http://java.sun.com/docs/books/jls/third_edition/html/j3TOC.html)).
 
 5.

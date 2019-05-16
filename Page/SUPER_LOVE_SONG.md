@@ -3,7 +3,7 @@
 ## 簡介
 
   - 收錄於CD[3rd
-    beat](../Page/3rd_beat.md "wikilink")，自單曲[OCEAN以來連續](../Page/OCEAN.md "wikilink")7張單曲被收錄
+    beat](https://zh.wikipedia.org/wiki/3rd_beat "wikilink")，自單曲[OCEAN以來連續](https://zh.wikipedia.org/wiki/OCEAN "wikilink")7張單曲被收錄
   - 自單曲[太陽的Komachi
     Angel以來](../Page/太陽的Komachi_Angel.md "wikilink")，達成連續40單曲第一的紀錄
   - 最終銷量約23.2萬張。

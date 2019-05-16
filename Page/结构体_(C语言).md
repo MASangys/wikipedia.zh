@@ -1,6 +1,6 @@
-在[C语言中](../Page/C语言.md "wikilink")，**结构体**（struct）指的是一种[数据结构](../Page/数据结构.md "wikilink")，是C语言中[复合数据类型](../Page/複合型別.md "wikilink")（aggregate
+在[C语言中](https://zh.wikipedia.org/wiki/C语言 "wikilink")，**结构体**（struct）指的是一种[数据结构](../Page/数据结构.md "wikilink")，是C语言中[复合数据类型](../Page/複合型別.md "wikilink")（aggregate
 data
-type）的一类。结构体可以被声明为[变量](../Page/变量.md "wikilink")、[指针或](../Page/指標_\(電腦科學\).md "wikilink")[数组等](../Page/数组.md "wikilink")，用以实现较复杂的数据结构。结构体同时也是一些元素的集合，这些元素称为结构体的成员（member），且这些成员可以为不同的类型，成员一般用名字访问。
+type）的一类。结构体可以被声明为[变量](https://zh.wikipedia.org/wiki/变量 "wikilink")、[指针或](../Page/指標_\(電腦科學\).md "wikilink")[数组等](../Page/数组.md "wikilink")，用以实现较复杂的数据结构。结构体同时也是一些元素的集合，这些元素称为结构体的成员（member），且这些成员可以为不同的类型，成员一般用名字访问。
 
 ## 定义与声明
 
@@ -48,7 +48,7 @@ Simple2 u1, u2[20], *u3;
 
 在上面的声明中，第一个和第二声明被编译器当作两个完全不同的类型，即使他们的成员列表是一样的，如果令t3=\&s1，则是非法的。
 
-结构体的成员可以包含其他结构体，也可以包含指向自己结构体类型的[指针](../Page/指针.md "wikilink")，而通常这种[指针的应用是为了实现一些更高级的数据结构如链表和树等](../Page/指针.md "wikilink")。
+结构体的成员可以包含其他结构体，也可以包含指向自己结构体类型的[指针](https://zh.wikipedia.org/wiki/指针 "wikilink")，而通常这种[指针的应用是为了实现一些更高级的数据结构如链表和树等](https://zh.wikipedia.org/wiki/指针 "wikilink")。
 
 ``` c
 

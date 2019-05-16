@@ -31,7 +31,7 @@ Air")。但是，索尼却从未确认有过这样的合同。\[9\]
 My
 Soul")在[加拿大热门歌曲百强榜上取得了第](https://zh.wikipedia.org/wiki/加拿大热门歌曲百强榜 "wikilink")18名的成绩。\[12\]协议签署后，《光儿》又以CD实体版的形式于9月16日发售。她的第二首单曲《二月的气息》在2008年年初曾被用作商业宣传曲\[13\]\[14\]，但等到2008年12月才正式发售。
 
-2009年，她在加拿大电台公布了自己的第三首单曲，取名为《冰》("Ice")，并在自己的[MySpace上放出了自己在家中为歌曲制作的视频](../Page/MySpace.md "wikilink")。2009年11月10日，她在加拿大发售了为《冰》制作的第二部视频，次日又在美国发售。2009年8月10日，她推出了歌曲《》("Saviour")的MV。在音乐网站Hall-Musique对其的一次访问中，Lights曾表示希望能赶在2010年初在欧洲发售自己的首张专辑。\[15\]
+2009年，她在加拿大电台公布了自己的第三首单曲，取名为《冰》("Ice")，并在自己的[MySpace上放出了自己在家中为歌曲制作的视频](https://zh.wikipedia.org/wiki/MySpace "wikilink")。2009年11月10日，她在加拿大发售了为《冰》制作的第二部视频，次日又在美国发售。2009年8月10日，她推出了歌曲《》("Saviour")的MV。在音乐网站Hall-Musique对其的一次访问中，Lights曾表示希望能赶在2010年初在欧洲发售自己的首张专辑。\[15\]
 
 《倾听》于9月22日在加拿大发售\[16\]，10月6日当她离开“秘密行动”唱片公司并开办自己的唱片公司Lights
 Music后在美国发售。专辑封面公布后，根据她自己的说法，整个封面设计是受到了漫画《[守护者](https://zh.wikipedia.org/wiki/守护者_\(漫画\) "wikilink")》、《[美少女战士](https://zh.wikipedia.org/wiki/美少女战士 "wikilink")》以及电影《[28日后](https://zh.wikipedia.org/wiki/28日后 "wikilink")》的启发而作的。Light在同一采访中谈到每次新歌在加拿大发售的时间常常比在美国发售的时间优先的原因时，她表示“加拿大非常特别，它使我热爱上了生活”("Cause
@@ -50,10 +50,10 @@ Aucoin)为她的多数演出提供了资助。
 
 与“Last
 Gang”唱片公司签约后，其第2张专辑《西伯利亚》("Siberia")因受唱片公司执行官的批评(criticism)的影响而推迟发售。“Last
-Gang”唱片公司不愿透露关于推迟原因的具体细节。完整长度的专辑于2011年10月4日同时在美国和加拿大发售，10月28日在澳大利亚的[iTunes在线音乐商店上架](../Page/iTunes.md "wikilink")。\[21\]《西伯利亚》得到了许多评论家的正面点评，并被提名为[朱诺奖之年度最佳流行乐专辑](https://zh.wikipedia.org/wiki/朱诺奖 "wikilink")。\[22\]Lights说专辑《西伯利亚》中她最喜欢的歌曲是《涌动与流转》("Flux
+Gang”唱片公司不愿透露关于推迟原因的具体细节。完整长度的专辑于2011年10月4日同时在美国和加拿大发售，10月28日在澳大利亚的[iTunes在线音乐商店上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[21\]《西伯利亚》得到了许多评论家的正面点评，并被提名为[朱诺奖之年度最佳流行乐专辑](https://zh.wikipedia.org/wiki/朱诺奖 "wikilink")。\[22\]Lights说专辑《西伯利亚》中她最喜欢的歌曲是《涌动与流转》("Flux
 and Flow")。\[23\]
 
-2013年4月30日，专辑《\<西伯利亚\>之不插电版》发售。这张专辑收录了Lights与加拿大法语女歌手[海盗之心合唱的歌曲](https://zh.wikipedia.org/wiki/海盗之心 "wikilink")《\<和平标志\>之不插电版》。\[24\]
+2013年4月30日，专辑《\<西伯利亚\>之不插电版》发售。这张专辑收录了Lights与加拿大法语女歌手[海盗之心合唱的歌曲](../Page/海盗之心.md "wikilink")《\<和平标志\>之不插电版》。\[24\]
 
 ### 2014–现今：专辑《小机器》
 
@@ -89,7 +89,7 @@ Lights喜欢画卡通漫画，还喜欢纹身。她家中养了一只猫和一�
 
 ### 婚姻
 
-2011年8月30日，Lights与[后硬核乐队](https://zh.wikipedia.org/wiki/后硬核 "wikilink")[Blessthefall现任主唱](../Page/Blessthefall.md "wikilink")[保·博坎订婚](https://zh.wikipedia.org/wiki/保·博坎 "wikilink")。\[38\]他们于2012年5月12日正式结婚。\[39\]2014年2月15日，他们的女儿婼凯特·薇尔德·博坎(Rocket
+2011年8月30日，Lights与[后硬核乐队](https://zh.wikipedia.org/wiki/后硬核 "wikilink")[Blessthefall现任主唱](../Page/Blessthefall.md "wikilink")[保·博坎订婚](../Page/保·博坎.md "wikilink")。\[38\]他们于2012年5月12日正式结婚。\[39\]2014年2月15日，他们的女儿婼凯特·薇尔德·博坎(Rocket
 Wild Bokan)出生。\[40\]
 
 ## 杂记
@@ -105,7 +105,7 @@ Headlights”原指黑夜中的小鹿被车灯突然晃到眼时，会因为害�
 lights的父亲在《牵动我的灵魂》的MV中有亮相。
 
 Lights有一些反战主题的歌曲，如《和平标志》("Piece
-Sign")和《横幅》("Banner")。与她合唱过《\<和平标志\>之不插电版》的女歌手[海盗之心](https://zh.wikipedia.org/wiki/海盗之心 "wikilink")，本名为碧翠斯·马丁(Béatrice
+Sign")和《横幅》("Banner")。与她合唱过《\<和平标志\>之不插电版》的女歌手[海盗之心](../Page/海盗之心.md "wikilink")，本名为碧翠斯·马丁(Béatrice
 Martin)，而“Martin”一词虽在法语中意为“早晨”，但作为人名时也有“尚武者/好斗者”之意，来源于罗马神话战神[玛尔斯](../Page/玛尔斯.md "wikilink")。
 
 她在[约书亚·杰克逊](https://zh.wikipedia.org/wiki/约书亚·杰克逊 "wikilink")2008年主演的加拿大喜剧电影《》之原声大碟中，参与了《本》("Ben"，即该电影主角名)和《攀登》("Climbing")两首歌的演唱。
@@ -124,8 +124,8 @@ Martin)，而“Martin”一词虽在法语中意为“早晨”，但作为人�
   - 《光儿 (EP)》("Lights") (2008)
   - 《不插电》("Acoustic (Lights EP)") (2010)
   - 《“西伯利亚”之混音版》("Siberia (Remixed)") (2012)
-  - 《[iTunes在线发售版](../Page/iTunes.md "wikilink")》("iTunes Session")
-    (2012)
+  - 《[iTunes在线发售版](https://zh.wikipedia.org/wiki/iTunes "wikilink")》("iTunes
+    Session") (2012)
 
 ## 参考资料
 

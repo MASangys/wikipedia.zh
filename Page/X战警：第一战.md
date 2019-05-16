@@ -1,20 +1,20 @@
 《**X戰警：第一戰**》（）是一部於[2011年上映的美國](../Page/2011年電影.md "wikilink")[超级英雄電影](../Page/超級英雄電影.md "wikilink")，根據[漫威漫畫](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》改編。該片為[X戰警系列電影中的第五部作品](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")，並由[馬修·范恩執導](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")，[布莱恩·辛格等人製片](https://zh.wikipedia.org/wiki/布莱恩·辛格 "wikilink")。該片背景主要設定在1962年[古巴飛彈危機期間](https://zh.wikipedia.org/wiki/古巴飛彈危機 "wikilink")，劇情-{聚焦}-於[查爾斯·賽維爾教授與](../Page/X教授.md "wikilink")[艾瑞克·藍歇爾
 /
-萬磁王間的關係](https://zh.wikipedia.org/wiki/萬磁王 "wikilink")，以及兩人領導的團隊——分別為X戰警及——的起源。該片的主演包含[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[詹紐瑞·瓊斯](https://zh.wikipedia.org/wiki/詹紐瑞·瓊斯 "wikilink")、[奧立佛·普雷特與](https://zh.wikipedia.org/wiki/奧立佛·普雷特 "wikilink")[凱文·貝肯等人](https://zh.wikipedia.org/wiki/凱文·貝肯 "wikilink")。
+萬磁王間的關係](../Page/萬磁王.md "wikilink")，以及兩人領導的團隊——分別為X戰警及——的起源。該片的主演包含[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[詹紐瑞·瓊斯](https://zh.wikipedia.org/wiki/詹紐瑞·瓊斯 "wikilink")、[奧立佛·普雷特與](https://zh.wikipedia.org/wiki/奧立佛·普雷特 "wikilink")[凱文·貝肯等人](https://zh.wikipedia.org/wiki/凱文·貝肯 "wikilink")。
 
-最初，在《[X戰警2](../Page/X戰警2.md "wikilink")》的製片期間便開始發想，後來，另一位製片人[賽門·金柏格建議](https://zh.wikipedia.org/wiki/賽門·金柏格 "wikilink")[二十世紀福斯製作一部改編自](../Page/二十世紀福斯.md "wikilink")《》的電影。曾執導《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》及《X戰警2》的布莱恩·辛格在2009年時加盟擔任導演，但因與其他合約的衝突，他僅能擔任電影的製片人及編劇。最後，[馬修·范恩成為該片的導演](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")，並與他的御用編劇一同撰寫了最終的劇本。電影於2010年8月開始進入製片階段，[主要攝影於](https://zh.wikipedia.org/wiki/主要攝影 "wikilink")12月完成。有關描繪1960年代的部分從當時上映的[詹姆士·龐德電影中取得靈感](https://zh.wikipedia.org/wiki/詹姆士·龐德系列電影 "wikilink")。
+最初，在《[X戰警2](../Page/X戰警2.md "wikilink")》的製片期間便開始發想，後來，另一位製片人[賽門·金柏格建議](../Page/賽門·金柏格.md "wikilink")[二十世紀福斯製作一部改編自](../Page/二十世紀福斯.md "wikilink")《》的電影。曾執導《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》及《X戰警2》的布莱恩·辛格在2009年時加盟擔任導演，但因與其他合約的衝突，他僅能擔任電影的製片人及編劇。最後，[馬修·范恩成為該片的導演](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")，並與他的御用編劇一同撰寫了最終的劇本。電影於2010年8月開始進入製片階段，[主要攝影於](https://zh.wikipedia.org/wiki/主要攝影 "wikilink")12月完成。有關描繪1960年代的部分從當時上映的[詹姆士·龐德電影中取得靈感](https://zh.wikipedia.org/wiki/詹姆士·龐德系列電影 "wikilink")。
 
-《X戰警：第一戰》在票房方面取得成功，為系列電影中票房排名第七高的作品，並收穫影評人及觀眾的積極評價，多稱讚系列電影的創新、演員的表現、編劇、導演功力、動作場景、視覺效果及譜寫的配樂。續集《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》於2014年5月上映；而前傳三部曲的第三部電影《[X戰警：天啟](https://zh.wikipedia.org/wiki/X戰警：天啟 "wikilink")》則於2016年5月27日發行。
+《X戰警：第一戰》在票房方面取得成功，為系列電影中票房排名第七高的作品，並收穫影評人及觀眾的積極評價，多稱讚系列電影的創新、演員的表現、編劇、導演功力、動作場景、視覺效果及譜寫的配樂。續集《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》於2014年5月上映；而前傳三部曲的第三部電影《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》則於2016年5月27日發行。
 
 ## 劇情
 
-1944年，[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[集中營裏](https://zh.wikipedia.org/wiki/奧斯維辛集中營 "wikilink")，[德國科學家](https://zh.wikipedia.org/wiki/德國 "wikilink")目睹一位[猶太男孩](https://zh.wikipedia.org/wiki/猶太 "wikilink")[艾瑞克·藍歇爾伸手將一道金屬柵欄門嚴重彎曲變胡形](https://zh.wikipedia.org/wiki/萬磁王 "wikilink")，從此對艾瑞克產生興趣而對他進行多數科學實驗試圖激發他的能力，最後還親手槍殺艾瑞克的母親。被悲憤驅使的艾瑞克瞬間爆發出驚人的金屬控制能力，殺死兩名警衛並摧毀整個房間。與此同時，居住在[威斯特徹斯特郡的強大](../Page/威斯特徹斯特郡.md "wikilink")[心電感應男孩](https://zh.wikipedia.org/wiki/心電感應 "wikilink")[查爾斯·賽維爾](../Page/X教授.md "wikilink")，在他宅邸廚房中遇見一位能夠變形成任何人的小女孩[瑞雯·多克倫在找食物](../Page/魔形女.md "wikilink")；查爾斯表示他不怕她，還很高興他發現和自己一樣「與眾不同」的同類，並邀請她與他的家人共同生活。
+1944年，[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[集中營裏](https://zh.wikipedia.org/wiki/奧斯維辛集中營 "wikilink")，[德國科學家](https://zh.wikipedia.org/wiki/德國 "wikilink")目睹一位[猶太男孩](https://zh.wikipedia.org/wiki/猶太 "wikilink")[艾瑞克·藍歇爾伸手將一道金屬柵欄門嚴重彎曲變胡形](../Page/萬磁王.md "wikilink")，從此對艾瑞克產生興趣而對他進行多數科學實驗試圖激發他的能力，最後還親手槍殺艾瑞克的母親。被悲憤驅使的艾瑞克瞬間爆發出驚人的金屬控制能力，殺死兩名警衛並摧毀整個房間。與此同時，居住在[威斯特徹斯特郡的強大](../Page/威斯特徹斯特郡.md "wikilink")[心電感應男孩](https://zh.wikipedia.org/wiki/心電感應 "wikilink")[查爾斯·賽維爾](../Page/X教授.md "wikilink")，在他宅邸廚房中遇見一位能夠變形成任何人的小女孩[瑞雯·多克倫在找食物](../Page/魔形女.md "wikilink")；查爾斯表示他不怕她，還很高興他發現和自己一樣「與眾不同」的同類，並邀請她與他的家人共同生活。
 
 1962年，艾瑞克開始四處找尋施密特來報仇，而查爾斯從[牛津大学畢業的成為一名](../Page/牛津大学.md "wikilink")[基因學家](https://zh.wikipedia.org/wiki/基因學 "wikilink")，並正撰寫關於人類突變後成為變種人的[論文](https://zh.wikipedia.org/wiki/論文 "wikilink")。在[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，一位[中情局探員](https://zh.wikipedia.org/wiki/中情局 "wikilink")跟蹤一名美軍上校亨德利進入一家，通過臥底滲透進去後偷看到亨德利和施密特坐在一起。到現在還保持年輕的施密特如今化名為「塞巴斯丁·蕭」，帶著他手下的幾名變種人[白皇后](https://zh.wikipedia.org/wiki/艾瑪·佛斯特 "wikilink")、、以及，靠威脅亨德利使他同意條件後，讓他主張美國在[土耳其安置核彈以威脅](../Page/土耳其.md "wikilink")[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。當亨德利打算靠一顆[手榴彈來敲詐蕭](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，但蕭卻靠雙手吸收進爆炸能量後，將能量釋放出來炸死亨德利。
 
 目睹變種人的莫伊拉閱讀查爾斯的論文後，請他和瑞雯來到中情局總部作為顧問。儘管局長拒絕聘請變種人，但一位中情局高官卻邀請查爾斯來到一個機密的X部門，查爾斯靠心電感應得知蕭所藏身的私人遊艇。而同時，艾瑞克找到蕭的位置而摧毀整艘遊艇，但蕭卻靠一架潛水艇逃離至深海。艾瑞克為了停下潛艇而差點在水裏溺死，查爾斯注意到後只能跳水制止並救他。艾瑞克為了尋找有關蕭的資料而跟隨查爾斯來到「X部門」大樓，眾人遇見一位年輕科學家[漢克·麥考伊](https://zh.wikipedia.org/wiki/野獸_\(漫畫\) "wikilink")，而查爾斯發現漢克也是變種人的事實。漢克和瑞雯逐漸產生情愫，漢克也坦白他在研究一種能夠攻克變種基因的“解藥”。
 
-為了有能力來和蕭抗衡，查爾斯透過漢克研製的腦波強化機原型，找到生活於世界各地的年輕變種人，和艾瑞克共同招募、、[亞歴克斯·桑瑪斯](https://zh.wikipedia.org/wiki/法官_\(漫威漫畫\) "wikilink")、以及[西恩·卡西迪](https://zh.wikipedia.org/wiki/海妖_\(西恩·卡西迪\) "wikilink")，當中包括漢克和瑞雯。白皇后代替蕭與一位蘇聯高官會面時，查爾斯以和艾瑞克展開突襲並抓獲白皇后，但查爾斯卻從她腦子裏目睹蕭打算靠發動[第三次世界大戰](../Page/第三次世界大戰.md "wikilink")，來為未來誕生的變種人取締人類的驚人目的。與此同時，蕭帶領紅魔鬼和激流入侵X總部，殺光所有官員後說服瑞雯等人為他賣命。眾人中只有安琪決定加入他，蕭還殺死企圖反擊的阿曼多。
+為了有能力來和蕭抗衡，查爾斯透過漢克研製的腦波強化機原型，找到生活於世界各地的年輕變種人，和艾瑞克共同招募、、[亞歴克斯·桑瑪斯](https://zh.wikipedia.org/wiki/法官_\(漫威漫畫\) "wikilink")、以及[西恩·卡西迪](../Page/海妖_\(西恩·卡西迪\).md "wikilink")，當中包括漢克和瑞雯。白皇后代替蕭與一位蘇聯高官會面時，查爾斯以和艾瑞克展開突襲並抓獲白皇后，但查爾斯卻從她腦子裏目睹蕭打算靠發動[第三次世界大戰](../Page/第三次世界大戰.md "wikilink")，來為未來誕生的變種人取締人類的驚人目的。與此同時，蕭帶領紅魔鬼和激流入侵X總部，殺光所有官員後說服瑞雯等人為他賣命。眾人中只有安琪決定加入他，蕭還殺死企圖反擊的阿曼多。
 
 蕭間接促成[古巴導彈危機後躲入他的私人潛水艇裏觀看戰果](https://zh.wikipedia.org/wiki/古巴導彈危機 "wikilink")，戴上一個能隔絕心電感應的頭盔好不受人控制。查爾斯帶其他人回到他的宅邸，開始讓所有人通過釋放能力來做訓練，而瑞雯在期間對她的外表產生懷疑，在艾瑞克奉勸她要接受自己的信念後，瑞雯決定拒絕漢克的解藥。漢克在心灰意冷下便對他自己注射解藥，卻不僅沒成功、反而使血清增強他的變種基因，使他的身體轉化為藍皮膚、毛茸茸的「野獸」。隔天，全員集合後開戰機來到古巴海邊的美俄戰船界線，但美俄兩軍都在這時趕到，所幸查爾斯用心電感應控制蘇俄戰艦上的人員，暫時避免兩軍開戰。
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - [麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink") 飾演
-    [艾瑞克·藍歇爾／萬磁王](https://zh.wikipedia.org/wiki/萬磁王 "wikilink")
+    [艾瑞克·藍歇爾／萬磁王](../Page/萬磁王.md "wikilink")
 
 <!-- end list -->
 
@@ -92,8 +92,7 @@
 
 <!-- end list -->
 
-  - 飾演
-    [西恩·卡西迪／海妖](https://zh.wikipedia.org/wiki/海妖_\(西恩·卡西迪\) "wikilink")
+  - 飾演 [西恩·卡西迪／海妖](../Page/海妖_\(西恩·卡西迪\).md "wikilink")
 
 <!-- end list -->
 
@@ -157,7 +156,7 @@
 
 ## 續集
 
-這部電影的成功，導致電影系列的延續。續集分別於2013年上映《[金鋼狼：武士之戰](../Page/金鋼狼：武士之戰.md "wikilink")》（外傳），前傳三部曲的第二部《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》於2014年5月23日上映，而第三部《[X戰警：天啟](https://zh.wikipedia.org/wiki/X戰警：天啟 "wikilink")》則於2016年5月27日上映。
+這部電影的成功，導致電影系列的延續。續集分別於2013年上映《[金鋼狼：武士之戰](../Page/金鋼狼：武士之戰.md "wikilink")》（外傳），前傳三部曲的第二部《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》於2014年5月23日上映，而第三部《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》則於2016年5月27日上映。
 
 ## 備註
 

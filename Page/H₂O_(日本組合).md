@@ -1,20 +1,22 @@
-**H<sub>2</sub>O**，是由[中澤堅司和](../Page/中澤堅司.md "wikilink")[赤鹽正樹組成的日本](../Page/赤鹽正樹.md "wikilink")[民謠系二人男子歌唱組合](../Page/民謠.md "wikilink")。1976年組成，1985年解散。1999年又再次組成，目前鮮少活動。
+**H<sub>2</sub>O**，是由[中澤堅司和](https://zh.wikipedia.org/wiki/中澤堅司 "wikilink")[赤鹽正樹組成的日本](https://zh.wikipedia.org/wiki/赤鹽正樹 "wikilink")[民謠系二人男子歌唱組合](https://zh.wikipedia.org/wiki/民謠 "wikilink")。1976年組成，1985年解散。1999年又再次組成，目前鮮少活動。
 
 ## 成員
 
-  - **[中澤堅司](../Page/中澤堅司.md "wikilink")**（1957年6月12日 - ），主音、吉他手
-  - **[赤鹽正樹](../Page/赤鹽正樹.md "wikilink")**（1957年4月27日 - ），主音、吉他手
+  - **[中澤堅司](https://zh.wikipedia.org/wiki/中澤堅司 "wikilink")**（1957年6月12日
+    - ），主音、吉他手
+  - **[赤鹽正樹](https://zh.wikipedia.org/wiki/赤鹽正樹 "wikilink")**（1957年4月27日
+    - ），主音、吉他手
 
 <!-- end list -->
 
   -
-    都是[長野縣](../Page/長野縣.md "wikilink")[上田市出身](../Page/上田市.md "wikilink")
+    都是[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[上田市出身](../Page/上田市.md "wikilink")
 
 ## 經歷
 
-1976年就讀大學中的[中澤堅司和](../Page/中澤堅司.md "wikilink")[赤鹽正樹組成](../Page/赤鹽正樹.md "wikilink")「H<sub>2</sub>O」。
+1976年就讀大學中的[中澤堅司和](https://zh.wikipedia.org/wiki/中澤堅司 "wikilink")[赤鹽正樹組成](https://zh.wikipedia.org/wiki/赤鹽正樹 "wikilink")「H<sub>2</sub>O」。
 
-1983年，第5張單曲《[滿滿的回憶](../Page/滿滿的回憶.md "wikilink")》被用作[電視動畫](../Page/電視動畫.md "wikilink")《[美雪、美雪](../Page/美雪、美雪.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")，成為大熱作品，H<sub>2</sub>O的人氣急升。但是之後的作品未能延續勢頭，1985年組合解散。
+1983年，第5張單曲《[滿滿的回憶](../Page/滿滿的回憶.md "wikilink")》被用作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[美雪、美雪](../Page/美雪、美雪.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")，成為大熱作品，H<sub>2</sub>O的人氣急升。但是之後的作品未能延續勢頭，1985年組合解散。
 
 1999年，再結成，發行的單曲《》成為[上田市](../Page/上田市.md "wikilink")80週年的主題曲。
 
@@ -30,7 +32,8 @@
 
 3.  （1981年8月21日）
 
-4.  [HELLO VIBRATION](../Page/HELLO_VIBRATION.md "wikilink")（1982年7月25日）
+4.  [HELLO
+    VIBRATION](https://zh.wikipedia.org/wiki/HELLO_VIBRATION "wikilink")（1982年7月25日）
 
 5.  （1983年3月25日）
 

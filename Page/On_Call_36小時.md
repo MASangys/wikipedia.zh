@@ -1,6 +1,6 @@
 《**On Call
 36小時**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，並由[羅仲謙](../Page/羅仲謙.md "wikilink")、[黃智雯及](../Page/黃智雯.md "wikilink")[袁偉豪聯合主演](../Page/袁偉豪.md "wikilink")，監製為[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為[2012無綫節目巡禮劇集之一](../Page/2012無綫節目巡禮.md "wikilink")，劇名源自香港的公立醫療制度規定：醫生每次當值時間為36小時\[1\]（比照美國每週80小時的）。此劇以25集平均收視30.6點，成為無綫2012年第一季最高收視劇集。劇中慈愛醫院場地為[瑪麗醫院和](../Page/瑪麗醫院.md "wikilink")[北區醫院](../Page/北區醫院.md "wikilink")。2013年拍攝並播映續集《[On
-Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》。
+Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ## 紀錄
 
@@ -35,7 +35,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 張一健、蔣應禾之上司</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/吳雲甫" title="wikilink">吳雲甫</a></strong></p></td>
+<td><p><strong><a href="../Page/吳雲甫.md" title="wikilink">吳雲甫</a></strong></p></td>
 <td><p><strong>蔣應禾</strong></p></td>
 <td><p><strong>Philip</strong><br />
 神經外科專科實習醫生（第五年），後為神經外科專科醫生<br />
@@ -164,7 +164,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 江誠忠、錢皓德之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/呂熙" title="wikilink">呂熙</a></strong></p></td>
+<td><p><strong><a href="../Page/呂熙.md" title="wikilink">呂熙</a></strong></p></td>
 <td><p><strong>方　杰</strong></p></td>
 <td><p><strong>方姨</strong><br />
 心胸肺外科專科醫生<br />
@@ -222,7 +222,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳珈穎" title="wikilink">陳珈穎</a></p></td>
+<td><p><a href="../Page/陳珈穎.md" title="wikilink">陳珈穎</a></p></td>
 <td><p>徐美珈</p></td>
 <td></td>
 </tr>
@@ -268,7 +268,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 80後座住客</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p><strong>羅安迪</strong></p></td>
 <td><p><strong>Andy</strong><br />
 實習醫生，後為外科專科實習醫生 (先後於內科、神經外科、心胸肺外科及骨科實習 )<br />
@@ -277,7 +277,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 80後座住客</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p><strong>胡名泰</strong></p></td>
 <td><p><strong>明太子</strong><br />
 實習醫生，後為外科專科實習醫生 ( 先後於婦產科、神經外科、骨科實習 )<br />
@@ -286,7 +286,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 80後座住客</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔_(香港)" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p><strong>崔瑞華</strong></p></td>
 <td><p><strong>吹水</strong><br />
 實習醫生，後為外科專科實習醫生 ( 先後於泌尿科、神經外科及骨科實習 )<br />
@@ -374,7 +374,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/菁瑋" title="wikilink">菁　瑋</a></p></td>
+<td><p><a href="../Page/菁瑋.md" title="wikilink">菁　瑋</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -394,7 +394,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -431,12 +431,12 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td><p>護士長,第3、12、14、18、20集</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/倫紫玄" title="wikilink">倫紫玄</a></p></td>
+<td><p><a href="../Page/倫紫玄.md" title="wikilink">倫紫玄</a></p></td>
 <td><p>陳姑娘</p></td>
 <td><p>腫瘤科護士長</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>泌尿科護士長</p></td>
 <td></td>
 </tr>
@@ -496,7 +496,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張韋怡" title="wikilink">張韋怡</a></p></td>
+<td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
 <td><p>鍾婉娜</p></td>
 <td></td>
 </tr>
@@ -927,7 +927,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 於第4集因醉酒駕駛重傷身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/高俊文" title="wikilink">高俊文</a></p></td>
+<td><p><a href="../Page/高俊文.md" title="wikilink">高俊文</a></p></td>
 <td><p>金成超</p></td>
 <td><p><strong>金老闆</strong><br />
 金世榮之父，就金成超之死起诉医院，后撤诉</p></td>
@@ -944,7 +944,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/白健恩" title="wikilink">白健恩</a></p></td>
+<td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1030,7 +1030,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉秉賓" title="wikilink">劉秉賓</a></p></td>
+<td><p><a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1041,7 +1041,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 從內地到香港產子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>電視台主播</p></td>
 <td></td>
 </tr>
@@ -1051,7 +1051,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></p></td>
+<td><p><a href="../Page/何君誠.md" title="wikilink">何君誠</a></p></td>
 <td><p>藍劍偉</p></td>
 <td><p>藍堅之子<br />
 簡晶晶之前男友<br />
@@ -1069,7 +1069,7 @@ Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II "wikilink")》
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李君妍" title="wikilink">李君妍</a></p></td>
+<td><p><a href="../Page/李君妍.md" title="wikilink">李君妍</a></p></td>
 <td><p>小巴乘客</p></td>
 <td><p>替何帶娣繳付車費</p></td>
 </tr>

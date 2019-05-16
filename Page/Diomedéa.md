@@ -6,7 +6,7 @@
 Tac製作出身的](https://zh.wikipedia.org/wiki/Group_Tac "wikilink")[須賀信行接到](https://zh.wikipedia.org/wiki/須賀信行 "wikilink")《[大魔法峠](../Page/大魔法峠.md "wikilink")》的工作時分割出來，於2005年獨自成立了**巴塞羅耶工作室**，公司名源於須賀想的時候看著其從少喜歡的[巴塞隆拿足球會海報](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")。
 
 2006年，[SHAFT作畫出身的](../Page/SHAFT.md "wikilink")[小原充加入](https://zh.wikipedia.org/wiki/小原充 "wikilink")，成為該工作室的社長。2008年，工作室改組成株式會社，易名為**diomedéa**，須賀信行正式卸任，小原充正式接任最大股東兼代表取締役。公司重組的時期，原屬於[STUDIO
-COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[關山晃弘加入](https://zh.wikipedia.org/wiki/關山晃弘 "wikilink")，令公司很快取得多項獨立製作\[1\]。2013年起成為角川動畫企劃一方的長期合作夥伴，在擴充業務下積極與更多自由身動畫師簽訂[部頭合約](../Page/部頭合約.md "wikilink")，並於2014年首次更換新辦公室。
+COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入](https://zh.wikipedia.org/wiki/關山晃弘 "wikilink")，令公司很快取得多項獨立製作\[1\]。2013年起成為角川動畫企劃一方的長期合作夥伴，在擴充業務下積極與更多自由身動畫師簽訂[部頭合約](../Page/部頭合約.md "wikilink")，並於2014年首次更換新辦公室。
 
 ## 作品列表
 
@@ -27,19 +27,19 @@ COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[
   - [Campione
     弒神者！～不順從之神與弒神的魔王～](../Page/Campione_弒神者！.md "wikilink")（）（2012年）
   - [問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")（）（2013年）
-  - [我的腦內戀礙選項](https://zh.wikipedia.org/wiki/我的腦內戀礙選項 "wikilink")（）（2013年）
-  - [銀狐](https://zh.wikipedia.org/wiki/銀狐_\(漫畫\) "wikilink")（）（2013年）
-  - [惡魔的謎語](https://zh.wikipedia.org/wiki/惡魔的謎語 "wikilink")（）（2014年）
+  - [我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")（）（2013年）
+  - [銀狐](../Page/銀狐_\(漫畫\).md "wikilink")（）（2013年）
+  - [惡魔的謎語](../Page/惡魔的謎語.md "wikilink")（）（2014年）
   - [艦隊收藏](https://zh.wikipedia.org/wiki/艦隊收藏 "wikilink")（）（2015年）
   - [聖劍使的禁咒詠唱](https://zh.wikipedia.org/wiki/聖劍使的禁咒詠唱 "wikilink")（）（2015年）
-  - [銃皇無盡的法夫納](https://zh.wikipedia.org/wiki/銃皇無盡的法夫納 "wikilink")（）（2015年）
-  - [美男高校地球防衛部LOVE！](https://zh.wikipedia.org/wiki/美男高校地球防衛部LOVE！ "wikilink")（）（2015年）
-  - [空戰魔導士培訓生的教官](https://zh.wikipedia.org/wiki/空戰魔導士培訓生的教官 "wikilink")（）（2015年）
+  - [銃皇無盡的法夫納](../Page/銃皇無盡的法夫納.md "wikilink")（）（2015年）
+  - [美男高校地球防衛部LOVE！](../Page/美男高校地球防衛部LOVE！.md "wikilink")（）（2015年）
+  - [空戰魔導士培訓生的教官](../Page/空戰魔導士培訓生的教官.md "wikilink")（）（2015年）
   - [迷家](../Page/迷家.md "wikilink")（）（2016年）
-  - [半田君傳說](https://zh.wikipedia.org/wiki/元氣囝仔 "wikilink")（）（2016年）
+  - [半田君傳說](../Page/元氣囝仔.md "wikilink")（）（2016年）
   - [少女編號](../Page/少女編號.md "wikilink")（）（2016年）
   - [風夏](https://zh.wikipedia.org/wiki/風夏 "wikilink")（）（2017年）
-  - [單蠢女孩](https://zh.wikipedia.org/wiki/單蠢女孩 "wikilink")（）（2017年）
+  - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（）（2017年）
   - [動作女英雄啦啦水果](https://zh.wikipedia.org/wiki/動作女英雄啦啦水果 "wikilink")（）（2017年）
   - [我的女友是個過度認真的處bitch](https://zh.wikipedia.org/wiki/我的女友是個過度認真的處女bitch "wikilink")（）（2017年）
   - [沒有心跳的少女
@@ -73,7 +73,7 @@ COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[
 
   - （廣播劇CD附送，2012年）
 
-  - [我的腦內戀礙選項。](https://zh.wikipedia.org/wiki/我的腦內戀礙選項 "wikilink")（）（原作小說第8卷附送，2014年）
+  - [我的腦內戀礙選項。](../Page/我的腦內戀礙選項.md "wikilink")（）（原作小說第8卷附送，2014年）
 
 #### 其他
 
@@ -84,7 +84,7 @@ COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[
 #### 電視動畫
 
   - **[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（****）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，各話協力製作，1992年－）\[2\]
-  - [我的裘可妹妹](https://zh.wikipedia.org/wiki/我的裘可妹妹 "wikilink")（）（總承包商：[NOMAD](https://zh.wikipedia.org/wiki/NOMAD "wikilink")，各話協力製作，2006年）
+  - [我的裘可妹妹](../Page/我的裘可妹妹.md "wikilink")（）（總承包商：[NOMAD](https://zh.wikipedia.org/wiki/NOMAD "wikilink")，各話協力製作，2006年）
   - [二十面相少女](../Page/二十面相少女.md "wikilink")（）（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")、Telecom
     Animation Film，各話協力製作，2008年）
   - [狂亂家族日記](https://zh.wikipedia.org/wiki/狂亂家族日記 "wikilink")（）（總承包商：[NOMAD](https://zh.wikipedia.org/wiki/NOMAD "wikilink")，各話協力製作、片尾協力製作（凰火、千花ver.），2008年）
@@ -105,7 +105,7 @@ COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[
     Pictures，各話協力製作，2015年）
   - [ONE PIECE 特別篇
     ～三兄弟的羈絆奇蹟的再會與繼承的意志～](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")（）（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，協力企劃製作，2015年）
-  - [終物語](https://zh.wikipedia.org/wiki/終物語 "wikilink")（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，各話協力製作，2015年）
+  - [終物語](../Page/終物語.md "wikilink")（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，各話協力製作，2015年）
 
 #### 電影動畫
 
@@ -193,7 +193,7 @@ COMET製作進行部的](https://zh.wikipedia.org/wiki/STUDIO_COMET "wikilink")[
 
 ## 相關項目
 
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

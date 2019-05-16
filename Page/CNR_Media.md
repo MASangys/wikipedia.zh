@@ -1,9 +1,9 @@
 **CNR
-Media**於2010年成立，由台灣電視劇製作公司[可米瑞智](../Page/可米瑞智.md "wikilink")（）和韓國[Roy
-Media共同創立的](../Page/Roy_Media.md "wikilink")[合資公司](../Page/合資公司.md "wikilink")，前公司藝人有[SS501團員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")，現無線上活動的藝人。
+Media**於2010年成立，由台灣電視劇製作公司[可米瑞智](https://zh.wikipedia.org/wiki/可米瑞智 "wikilink")（）和韓國[Roy
+Media共同創立的](https://zh.wikipedia.org/wiki/Roy_Media "wikilink")[合資公司](../Page/合資公司.md "wikilink")，前公司藝人有[SS501團員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")，現無線上活動的藝人。
 
 2012年4月12日，爆發朴政珉與CNR
-Media的合約糾紛；同年7月30日，[首爾中央地方法院第](../Page/首爾中央地方法院.md "wikilink")50民事部對朴政珉提出停止與CNR
+Media的合約糾紛；同年7月30日，[首爾中央地方法院第](https://zh.wikipedia.org/wiki/首爾中央地方法院 "wikilink")50民事部對朴政珉提出停止與CNR
 Media簽訂的專屬合約效力的申請，判決朴政珉勝訴\[1\]。
 
 ## 參考資料

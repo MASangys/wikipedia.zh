@@ -56,7 +56,7 @@ Wanna Lie -Ballad Version-》的CD。
 <tr class="even">
 <td><p>前作:<br />
 <a href="https://zh.wikipedia.org/wiki/白石乃梨#Caos_Caos_Caos" title="wikilink">Caos Caos Caos</a><br />
-《<a href="../Page/tear_drops.md" title="wikilink">tear drops</a>》</p></td>
+《<a href="https://zh.wikipedia.org/wiki/tear_drops" title="wikilink">tear drops</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/名侦探柯南动画集数列表#剧场版" title="wikilink">剧场版 名侦探柯南</a> 主题曲<br />
@@ -64,7 +64,7 @@ Wanna Lie -Ballad Version-》的CD。
 </tr>
 <tr class="even">
 <td><p>前作:<br />
-<a href="../Page/Garnet_Crow.md" title="wikilink">Garnet Crow</a><br />
+<a href="https://zh.wikipedia.org/wiki/Garnet_Crow" title="wikilink">Garnet Crow</a><br />
 《<a href="https://zh.wikipedia.org/wiki/Over_Drive(Garnet_Crow单曲)" title="wikilink">Over Drive</a>》</p></td>
 </tr>
 </tbody>

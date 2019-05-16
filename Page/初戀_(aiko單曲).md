@@ -1,4 +1,4 @@
-《**初戀**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年2月21日發行。
+《**初戀**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年2月21日發行。
 
 ## 簡介
 

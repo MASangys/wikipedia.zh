@@ -24,7 +24,7 @@ Wi-Fi」。
   - [香港政府WiFi通](../Page/香港政府WiFi通.md "wikilink")
   - [Free
     Wi-Fi@HKBN](https://zh.wikipedia.org/wiki/Free_Wi-Fi@HKBN "wikilink")
-  - [Fon](../Page/Fon.md "wikilink")
+  - [Fon](https://zh.wikipedia.org/wiki/Fon "wikilink")
 
 [分類:香港科技](https://zh.wikipedia.org/wiki/分類:香港科技 "wikilink")
 [分類:无线网络](https://zh.wikipedia.org/wiki/分類:无线网络 "wikilink")

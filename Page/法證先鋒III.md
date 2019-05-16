@@ -1,8 +1,8 @@
-《**法證先鋒III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，[法證先鋒系列第三部](../Page/法證先鋒系列.md "wikilink")，故事與前兩輯無關。該輯由[黎耀祥](../Page/黎耀祥.md "wikilink")、[張可頤](../Page/張可頤.md "wikilink")、[徐子珊及](../Page/徐子珊.md "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，並由[陳茵媺](../Page/陳茵媺.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[胡定欣](../Page/胡定欣.md "wikilink")、[陳展鵬](../Page/陳展鵬.md "wikilink")、[蔣志光及](../Page/蔣志光.md "wikilink")[元華聯合主演](../Page/元華.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。亦為無綫電視所選播的**44週年台慶劇**。
+《**法證先鋒III**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第三部](../Page/法證先鋒系列.md "wikilink")，故事與前兩輯無關。該輯由[黎耀祥](../Page/黎耀祥.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[徐子珊及](../Page/徐子珊.md "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，並由[陳茵媺](../Page/陳茵媺.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[蔣志光及](../Page/蔣志光.md "wikilink")[元華聯合主演](../Page/元華.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。亦為無綫電視所選播的**44週年台慶劇**。
 
 ## 故事大綱
 
-一連串的離奇命案將[法證部](../Page/法證部.md "wikilink")[高級化驗師布國棟](../Page/高級化驗師.md "wikilink")（[黎耀祥飾](../Page/黎耀祥.md "wikilink")）、[法醫部](../Page/法醫部.md "wikilink")[高級法醫鍾學心](../Page/高級法醫.md "wikilink")（[張可頤飾](../Page/張可頤.md "wikilink")）、[重案組](../Page/重案組.md "wikilink")[高級督察淩倩兒](../Page/高級督察.md "wikilink")（[徐子珊飾](../Page/徐子珊.md "wikilink")）和[警長李展風](../Page/警長.md "wikilink")（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](../Page/胡定欣.md "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](../Page/鑑證.md "wikilink")、[化驗](../Page/化驗.md "wikilink")、[邏輯](../Page/邏輯.md "wikilink")、[心理](../Page/心理.md "wikilink")、[醫學及](../Page/醫學.md "wikilink")[科學等不同範疇](../Page/科學.md "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
+一連串的離奇命案將[法證部](https://zh.wikipedia.org/wiki/法證部 "wikilink")[高級化驗師布國棟](https://zh.wikipedia.org/wiki/高級化驗師 "wikilink")（[黎耀祥飾](../Page/黎耀祥.md "wikilink")）、[法醫部](https://zh.wikipedia.org/wiki/法醫部 "wikilink")[高級法醫鍾學心](https://zh.wikipedia.org/wiki/高級法醫 "wikilink")（[張可頤飾](https://zh.wikipedia.org/wiki/張可頤 "wikilink")）、[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")[高級督察淩倩兒](../Page/高級督察.md "wikilink")（[徐子珊飾](../Page/徐子珊.md "wikilink")）和[警長李展風](../Page/警長.md "wikilink")（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](https://zh.wikipedia.org/wiki/鑑證 "wikilink")、[化驗](https://zh.wikipedia.org/wiki/化驗 "wikilink")、[邏輯](https://zh.wikipedia.org/wiki/邏輯 "wikilink")、[心理](https://zh.wikipedia.org/wiki/心理 "wikilink")、[醫學及](https://zh.wikipedia.org/wiki/醫學 "wikilink")[科學等不同範疇](https://zh.wikipedia.org/wiki/科學 "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
 
 ## 演員表
 
@@ -42,7 +42,7 @@
 蝶華樓的舊街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/胡定欣.md" title="wikilink">胡定欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>周奕霏</strong></p></td>
 <td><p><strong>Eva、長勝將軍</strong><br />
 大律師<br />
@@ -60,7 +60,7 @@
 於第28集遭趙國智殺害</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳詩慧_(香港童星).md" title="wikilink">陳詩慧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳詩慧_(香港童星)" title="wikilink">陳詩慧</a></p></td>
 <td><p>布家雯</p></td>
 <td><p><strong>雯雯</strong><br />
 布國棟、周奕霏之女<br />
@@ -81,7 +81,7 @@
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/周骢.md" title="wikilink">周　驄</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/周骢" title="wikilink">周　驄</a></strong></p></td>
 <td><p><strong>鍾博史</strong></p></td>
 <td><p><strong>博士</strong><br />
 鍾學心之爺爺<br />
@@ -127,7 +127,7 @@ PTSD创伤压力后遗症患者<br />
 於第15集幫助險被打劫的游健保而大力撞擊匪徒的肝俞穴</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張可頤.md" title="wikilink">張可頤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -144,7 +144,7 @@ PTSD创伤压力后遗症患者<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a></p></td>
 <td><p>Raymond</p></td>
 <td><p>張鳳萍之第二任丈夫<br />
 凌倩兒之繼父</p></td>
@@ -187,7 +187,7 @@ Raymond之繼女<br />
 高級化驗師<br />
 周奕霏之前夫<br />
 鍾學心之拍檔，后为其夫<br />
-參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
@@ -206,7 +206,7 @@ Raymond之繼女<br />
 法證部技術員<br />
 布國棟之下屬<br />
 蔣卓君之鬥氣冤家，後為男友<br />
-患有<a href="../Page/酒精.md" title="wikilink">酒精</a><a href="../Page/敏感.md" title="wikilink">敏感</a>，飲有酒精成份飲品後，會胡亂吻人</p></td>
+患有<a href="https://zh.wikipedia.org/wiki/酒精" title="wikilink">酒精</a><a href="https://zh.wikipedia.org/wiki/敏感" title="wikilink">敏感</a>，飲有酒精成份飲品後，會胡亂吻人</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
@@ -259,12 +259,12 @@ Raymond之繼女<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張可頤.md" title="wikilink">張可頤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾學心</strong></p></td>
 <td><p><strong>Mandy</strong>、<strong>Dr.Chung</strong><br />
 法醫科高級法醫<br />
 孫嘉軒之上司<br />
-參見<a href="../Page/#鍾家.md" title="wikilink"><strong>鍾家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink"><strong>鍾家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a></p></td>
@@ -276,7 +276,7 @@ Raymond之繼女<br />
 </tbody>
 </table>
 
-### 西九龍[重案組](../Page/重案組.md "wikilink")
+### 西九龍[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")
 
 <table>
 <tbody>
@@ -302,7 +302,7 @@ Raymond之繼女<br />
 李展風、林康贊、黎明偉、胡善行、李嘉露之上司兼朋友<br />
 高偉雄之下屬<br />
 與李展風相戀，後為其女友<br />
-參見<a href="../Page/#凌家.md" title="wikilink"><strong>凌家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#凌家" title="wikilink"><strong>凌家</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a></strong></p></td>
@@ -358,7 +358,7 @@ Raymond之繼女<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/胡定欣.md" title="wikilink">胡定欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>周奕霏</strong></p></td>
 <td><p><strong>Eva、長勝將軍</strong><br />
 大律師<br />
@@ -367,7 +367,7 @@ Raymond之繼女<br />
 華龍生之下屬，最後反目<br />
 羅嘉匯、Mary之上司<br />
 吃芋头後有皮肤敏感的狀況<br />
-參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊英偉.md" title="wikilink">楊英偉</a></p></td>
@@ -378,7 +378,7 @@ Raymond之繼女<br />
 錢根之律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李興華_(演員).md" title="wikilink">李興華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李興華_(演員)" title="wikilink">李興華</a></p></td>
 <td><p>羅嘉匯</p></td>
 <td><p><strong>Wesley</strong><br />
 周奕霏之助手</p></td>
@@ -423,10 +423,10 @@ Raymond之繼女<br />
 於第3集不慎墮樓梯并被玻璃割傷致毁容</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/劉慶基.md" title="wikilink">劉　丹</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/劉慶基" title="wikilink">劉　丹</a></strong></p></td>
 <td><p><strong>曹景添</strong></p></td>
 <td><p>富豪<br />
-患有<a href="../Page/心脏病.md" title="wikilink">心脏病</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/心脏病" title="wikilink">心脏病</a><br />
 曹麗美之父<br />
 麥永富之未来岳父，後反目<br />
 被麥永富以曹麗美裸照勒索<br />
@@ -454,7 +454,7 @@ Raymond之繼女<br />
 曹麗美之情敵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>張志威</p></td>
 <td><p><strong>傻仔威（游健保专用）</strong><br />
 殺手<br />
@@ -463,9 +463,9 @@ Raymond之繼女<br />
 於第1集被警方拘捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>方文星</p></td>
-<td><p>休班<a href="../Page/香港警員.md" title="wikilink">警員</a><br />
+<td><p>休班<a href="https://zh.wikipedia.org/wiki/香港警員" title="wikilink">警員</a><br />
 於第1集被莫浩良槍傷<br />
 於第1集槍殺莫浩良</p></td>
 </tr>
@@ -500,7 +500,7 @@ Raymond之繼女<br />
 <td><p>翡冷翠酒店服務員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td><p>攝影師</p></td>
 <td><p>於第1集被莫浩良槍傷,<br />
 後因受驚之下躲進桌底,<br />
@@ -511,7 +511,7 @@ Raymond之繼女<br />
 <td><p>王長玲</p></td>
 <td><p>王長志之姐<br />
 莫浩良之女友<br />
-<a href="../Page/白蝕.md" title="wikilink">白蝕患者</a><br />
+<a href="https://zh.wikipedia.org/wiki/白蝕" title="wikilink">白蝕患者</a><br />
 與王長志搶奪莫浩良之賊贓<br />
 於第2集被警方拘捕</p></td>
 </tr>
@@ -535,17 +535,17 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
 <td><p>姊　妹</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈愛琳.md" title="wikilink">沈愛琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a></p></td>
 <td><p>姊　妹</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>兄　弟</p></td>
 <td></td>
 </tr>
@@ -555,12 +555,12 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/潘宗揚.md" title="wikilink">潘宗揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘宗揚" title="wikilink">潘宗揚</a></p></td>
 <td><p>兄　弟</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td><p>園藝店店主</p></td>
 <td></td>
 </tr>
@@ -587,7 +587,7 @@ Raymond之繼女<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/樂瞳.md" title="wikilink">樂　瞳</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/樂瞳" title="wikilink">樂　瞳</a></strong></p></td>
 <td><p><strong>黃嘉敏</strong></p></td>
 <td><p><strong>天眼少女</strong><br />
 患有<a href="../Page/自閉症.md" title="wikilink">自閉症</a><br />
@@ -656,7 +656,7 @@ Raymond之繼女<br />
 <tr class="odd">
 <td><p><a href="../Page/曾敏.md" title="wikilink">曾　敏</a></p></td>
 <td><p>沈柏芝</p></td>
-<td><p><a href="../Page/将军澳坟场.md" title="wikilink">將軍澳坟場葬者</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/将军澳坟场" title="wikilink">將軍澳坟場葬者</a><br />
 李月娥之女<br />
 周永强之未婚妻<br />
 三年前前往希望获陸振光拹助驅鬼，反被陸振光强暴<br />
@@ -672,7 +672,7 @@ Raymond之繼女<br />
 <td><p>|李月娥</p></td>
 <td><p>善信<br />
 沈柏芝之母<br />
-於第5集食用<a href="../Page/平安包.md" title="wikilink">平安包時混入</a><a href="../Page/毒鼠強.md" title="wikilink">毒鼠強自杀身亡</a></p></td>
+於第5集食用<a href="https://zh.wikipedia.org/wiki/平安包" title="wikilink">平安包時混入</a><a href="https://zh.wikipedia.org/wiki/毒鼠強" title="wikilink">毒鼠強自杀身亡</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -680,10 +680,10 @@ Raymond之繼女<br />
 <td><p>潘美雲</p></td>
 <td><p>受陸振光指使假扮善信<br />
 陸振光之天敵<br />
-於第5集承認在<a href="../Page/平安包.md" title="wikilink">平安包放</a><a href="../Page/癢粉.md" title="wikilink">癢粉及供出實情</a></p></td>
+於第5集承認在<a href="https://zh.wikipedia.org/wiki/平安包" title="wikilink">平安包放</a><a href="https://zh.wikipedia.org/wiki/癢粉" title="wikilink">癢粉及供出實情</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>莊師奶</p></td>
 <td><p>善信</p></td>
 </tr>
@@ -693,13 +693,13 @@ Raymond之繼女<br />
 <td><p>善信</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柯嵐.md" title="wikilink">柯　嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
 <td><p>禮</p></td>
 <td><p>記者<br />
 於天眼少女新書發佈會中作訪問</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝靜婷.md" title="wikilink">謝靜婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝靜婷" title="wikilink">謝靜婷</a></p></td>
 <td><p>義</p></td>
 <td></td>
 </tr>
@@ -709,7 +709,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td><p>徐　碩</p></td>
 <td><p>陸振光之徒弟</p></td>
 </tr>
@@ -729,7 +729,7 @@ Raymond之繼女<br />
 <td><p>郭張美芬之代表律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李善恆.md" title="wikilink">李善恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李善恆" title="wikilink">李善恆</a></p></td>
 <td><p>Bruce</p></td>
 <td><p>Peter Kwong之助手</p></td>
 </tr>
@@ -739,7 +739,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
 <td><p>主控官助手</p></td>
 <td></td>
 </tr>
@@ -768,7 +768,7 @@ Raymond之繼女<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/郭峰_(演員).md" title="wikilink">郭　峰</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　峰</a></strong></p></td>
 <td><p><strong>馮初九</strong></p></td>
 <td><p><strong>九主席</strong><br />
 徐世達之租客<br />
@@ -831,12 +831,12 @@ Raymond之繼女<br />
 <td><p><strong><a href="../Page/張達倫.md" title="wikilink">張達倫</a></strong></p></td>
 <td><p><strong>余中健</strong></p></td>
 <td><p><strong>Wilson</strong><br />
-<a href="../Page/宏昊天集團.md" title="wikilink">宏昊天集團之少東</a><br />
+<a href="https://zh.wikipedia.org/wiki/宏昊天集團" title="wikilink">宏昊天集團之少東</a><br />
 余世勋之长子<br />
 周奕霏之客戶<br />
 陳卓華之老闆<br />
 張美芬之朋友<br />
-於第3集被控在<a href="../Page/美國.md" title="wikilink">美國用私家車撞倒單車</a>，後獲得勝訴<br />
+於第3集被控在<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國用私家車撞倒單車</a>，後獲得勝訴<br />
 於第9集與殷紫如發生性行為，並向其餵食過量藥物<br />
 於第12集在羈留所內撞牆自殺，但獲救<br />
 於第12集被裁定誤殺罪名成立</p></td>
@@ -881,14 +881,14 @@ Raymond之繼女<br />
 <td><p><strong>布順興</strong></p></td>
 <td><p>控方證人<br />
 余中健撞車的目擊者<br />
-參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a></strong></p></td>
 <td><p><strong>布國棟</strong></p></td>
 <td><p>法證部高級化驗師<br />
 控方專家證人<br />
-參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/麥嘉倫.md" title="wikilink">麥嘉倫</a></p></td>
@@ -896,19 +896,19 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
 <td><p>主控官助手</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/胡定欣.md" title="wikilink">胡定欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>周奕霏</strong></p></td>
 <td><p>余中健之代表律師<br />
 教唆余中健在羈留所自殺，而令謀殺改為誤殺罪名<br />
-參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
 <td><p>法庭書記</p></td>
 <td></td>
 </tr>
@@ -918,7 +918,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃耀煌.md" title="wikilink">黃耀煌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃耀煌" title="wikilink">黃耀煌</a></p></td>
 <td><p>青　年</p></td>
 <td><p>曾在街上調戲殷紫如</p></td>
 </tr>
@@ -928,7 +928,7 @@ Raymond之繼女<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
 <td><p>青　年</p></td>
 <td></td>
 </tr>
@@ -940,7 +940,7 @@ Raymond之繼女<br />
 <tr class="even">
 <td><p><a href="../Page/孫季卿.md" title="wikilink">孫季卿</a></p></td>
 <td><p>阿　伯</p></td>
-<td><p>患有<a href="../Page/搖椅底狀腳.md" title="wikilink">搖椅底狀腳並遺傳至其兒子</a><br />
+<td><p>患有<a href="https://zh.wikipedia.org/wiki/搖椅底狀腳" title="wikilink">搖椅底狀腳並遺傳至其兒子</a><br />
 其兒子被陳卓華指使捉走梁美娜</p></td>
 </tr>
 </tbody>
@@ -975,7 +975,7 @@ Raymond之繼女<br />
 <td><p>胡銘通</p></td>
 <td><p>胡世恆、胡樂珊之父<br />
 鄭月鳳之夫<br />
-<a href="../Page/血癌.md" title="wikilink">血癌病人</a><br />
+<a href="https://zh.wikipedia.org/wiki/血癌" title="wikilink">血癌病人</a><br />
 獲游俊傑捐贈骨髓</p></td>
 </tr>
 <tr class="even">
@@ -988,7 +988,7 @@ Raymond之繼女<br />
 <td><p><a href="../Page/高可慧.md" title="wikilink">高可慧</a></p></td>
 <td><p>胡樂珊</p></td>
 <td><p><strong>恆妹</strong>、<strong>巴士阿妹</strong><br />
-<a href="../Page/宅女.md" title="wikilink">宅女</a><br />
+<a href="https://zh.wikipedia.org/wiki/宅女" title="wikilink">宅女</a><br />
 胡銘通、鄭月鳳之女<br />
 中學生<br />
 胡世恆之妹</p></td>
@@ -1012,10 +1012,10 @@ Raymond之繼女<br />
 <td><p><strong>Simon</strong><br />
 游健保之子<br />
 大學醫科學生<br />
-濫用<a href="../Page/麻黃素.md" title="wikilink">麻黃素</a><br />
+濫用<a href="https://zh.wikipedia.org/wiki/麻黃素" title="wikilink">麻黃素</a><br />
 曾因壓力過大企圖自殺，被胡世恆勸阻救回<br />
 於第15集被誤為殺胡世恆之兇手<br />
-於第16集捐贈<a href="../Page/骨髓.md" title="wikilink">骨髓救活胡銘通</a></p></td>
+於第16集捐贈<a href="https://zh.wikipedia.org/wiki/骨髓" title="wikilink">骨髓救活胡銘通</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/馬賽_(香港).md" title="wikilink">馬　賽</a></p></td>
@@ -1026,7 +1026,7 @@ Raymond之繼女<br />
 曾與胡世恆短暫交往</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周志文_(歌手).md" title="wikilink">周志文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志文_(歌手)" title="wikilink">周志文</a></p></td>
 <td><p>周逸熙</p></td>
 <td><p><strong>Oscar、大O</strong><br />
 Ocean之孿生哥哥，後反目<br />
@@ -1035,7 +1035,7 @@ Ocean之孿生哥哥，後反目<br />
 Kelly之男友，於第15集分手（一直沒有與其發生性行為）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周志康.md" title="wikilink">周志康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志康" title="wikilink">周志康</a></p></td>
 <td><p>周俊源</p></td>
 <td><p><strong>Ocean、細O</strong><br />
 Oscar之孿生弟弟，後反目<br />
@@ -1059,17 +1059,17 @@ Oscar之孿生弟弟，後反目<br />
 於第15集被警方拘捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
 <td><p>漢</p></td>
 <td><p>游俊傑之同學，後反目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭子揚.md" title="wikilink">鄭子揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭子揚" title="wikilink">鄭子揚</a></p></td>
 <td><p>城</p></td>
 <td><p>游俊傑之同學</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
 <td></td>
 <td><p>大學生</p></td>
 </tr>
@@ -1086,7 +1086,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/黃長興.md" title="wikilink">黃長興</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></strong></p></td>
 <td><p><strong>胡啟仁</strong></p></td>
 <td><p><strong>Alex</strong><br />
 方世榮、曾子華之好友，後反目<br />
@@ -1099,7 +1099,7 @@ Oscar之孿生弟弟，後反目<br />
 於第20集被警方拘捕，曾受張美恩指使為所有罪名扛上身，但最終講出真相</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
 <td><p><strong>張美恩</strong></p></td>
 <td><p><strong>Michelle</strong><br />
 胡啟仁之妻，後反目<br />
@@ -1140,7 +1140,7 @@ Oscar之孿生弟弟，後反目<br />
 於第19集被張美恩以软布腰帶勒死，并布局成自殺現場</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳展鵬.md" title="wikilink">陳展鵬</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></strong></p></td>
 <td><p><strong>方世友</strong></p></td>
 <td><p><strong>Jim</strong><br />
 臨床心理學家<br />
@@ -1177,20 +1177,20 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張可頤.md" title="wikilink">張可頤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾學心</strong></p></td>
 <td><p><strong>Mandy</strong>、<strong>Dr.Chung</strong><br />
 曾與景天成意見不合，後和解<br />
 曾在麵店與牛佬爭執<br />
 負責檢驗朱巧兒父之死因，遭朱巧兒質疑<br />
 被朱巧兒恐嚇及挾持<br />
-參見<strong><a href="../Page/#法醫科.md" title="wikilink">法醫科</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法醫科" title="wikilink">法醫科</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></strong></p></td>
 <td><p><strong>景天成</strong></p></td>
 <td><p><strong>Professor King</strong><br />
-<a href="../Page/物理學.md" title="wikilink">物理學教授</a><br />
+<a href="https://zh.wikipedia.org/wiki/物理學" title="wikilink">物理學教授</a><br />
 布國棟之舊友<br />
 曾與鍾學心因對狗隻安樂死一事意見不合，後和解<br />
 愛寵患有重病</p></td>
@@ -1233,10 +1233,10 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong>Ken</strong><br />
 獲已故的向金嫦贈予單位<br />
 被楊再錦要求取回單位，結果對方放棄，最後決定以便宜租金租給楊再錦<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>楊再錦</p></td>
 <td><p>向金嫦之子<br />
 委託律師行要求取-{回}-向金嫦贈予何正民的單位，決定放棄，最後給獲何正民以便宜租金出租</p></td>
@@ -1248,12 +1248,12 @@ Oscar之孿生弟弟，後反目<br />
 協助何正民證明向金嫦遺囑屬真確</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>張婆婆</p></td>
 <td><p>其中一位遺囑見證人之妻</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>陳　生</p></td>
 <td><p>法律行政人員<br />
 受楊再錦委託要求取-{回}-向金嫦贈予何正民的單位</p></td>
@@ -1274,7 +1274,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong><a href="../Page/胡楓.md" title="wikilink">胡　楓</a></strong></p></td>
 <td><p><strong>錢　根</strong></p></td>
 <td><p><strong>Howard</strong><br />
-隱形<a href="../Page/富豪.md" title="wikilink">富豪</a>，經營海味生意<br />
+隱形<a href="https://zh.wikipedia.org/wiki/富豪" title="wikilink">富豪</a>，經營海味生意<br />
 姚麗冰之夫<br />
 錢茂英、錢茂林、錢茂森之父<br />
 張謹明之岳父<br />
@@ -1343,7 +1343,7 @@ Oscar之孿生弟弟，後反目<br />
 錢茂英之子<br />
 張謹明、錢茂森之姨甥<br />
 錢茂林之外甥<br />
-參見<a href="../Page/#西九龍重案組.md" title="wikilink"><strong>西九龍重案組</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#西九龍重案組" title="wikilink"><strong>西九龍重案組</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/楊英偉.md" title="wikilink">楊英偉</a></p></td>
@@ -1367,7 +1367,7 @@ Oscar之孿生弟弟，後反目<br />
 錢根、郭精忠之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳建文.md" title="wikilink">陳建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳建文" title="wikilink">陳建文</a></p></td>
 <td><p>何醫生</p></td>
 <td><p>錢根之主診醫生</p></td>
 </tr>
@@ -1380,7 +1380,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><a href="../Page/古明華.md" title="wikilink">古明華</a></p></td>
 <td><p>乞　丐</p></td>
 <td><p>弱能人士<br />
-被醫護人員稱謂<a href="../Page/幫主.md" title="wikilink">幫主</a><br />
+被醫護人員稱謂<a href="https://zh.wikipedia.org/wiki/幫主" title="wikilink">幫主</a><br />
 錢茂英因跌下戒指而被其拾獲，間接成為其時間證人</p></td>
 </tr>
 <tr class="even">
@@ -1434,11 +1434,11 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong>松仔</strong><br />
 內地人<br />
 曾麗嬋之子<br />
-患有<a href="../Page/腦癇症.md" title="wikilink">腦癇症</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/腦癇症" title="wikilink">腦癇症</a><br />
 被曾麗嬋禁錮在家</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td><p>趙國財</p></td>
 <td><p><strong>財哥</strong><br />
 玩具公司前職員<br />
@@ -1474,14 +1474,14 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong>暱稱/關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/張可頤.md" title="wikilink">張可頤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾學心</strong></p></td>
 <td><p><strong>Mandy</strong>、<strong>Dr.Chung</strong><br />
-钟志邦、馮曉靜之女，參見<a href="../Page/#钟家.md" title="wikilink"><strong>钟家</strong></a><br />
+钟志邦、馮曉靜之女，參見<a href="https://zh.wikipedia.org/wiki/#钟家" title="wikilink"><strong>钟家</strong></a><br />
 於30年前父母在元朗度假被殺時，藏於衣櫃中，亦是案中唯一的目擊證人<br />
-其後患有<a href="../Page/創傷後心理壓力緊張症候群.md" title="wikilink">PTSD創傷後壓力症</a><br />
+其後患有<a href="https://zh.wikipedia.org/wiki/創傷後心理壓力緊張症候群" title="wikilink">PTSD創傷後壓力症</a><br />
 于第30集与布国栋被赵国智抓走、险被其烧死<br />
-參見<strong><a href="../Page/#法醫科.md" title="wikilink">法醫科</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法醫科" title="wikilink">法醫科</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鍾志光.md" title="wikilink">鍾志光</a></p></td>
@@ -1496,18 +1496,18 @@ Oscar之孿生弟弟，後反目<br />
 <tr class="even">
 <td><p><a href="../Page/陳念君.md" title="wikilink">陳念君</a></p></td>
 <td><p>馮曉靜</p></td>
-<td><p>參見<a href="../Page/#鍾家.md" title="wikilink"><strong>鍾家</strong></a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink"><strong>鍾家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
 <td><p>鍾志邦</p></td>
-<td><p>參見<a href="../Page/#鍾家.md" title="wikilink"><strong>鍾家</strong></a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink"><strong>鍾家</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/胡定欣.md" title="wikilink">胡定欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>周奕霏</strong></p></td>
 <td><p><strong>Eva</strong><br />
-布國棟之前妻，參見<a href="../Page/#布家.md" title="wikilink"><strong>布家</strong></a><br />
+布國棟之前妻，參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a><br />
 曾為長勝大律師<br />
 現為報章專欄《重案背後》作者<br />
 被譚成勇邀請撰寫專欄<br />
@@ -1522,14 +1522,14 @@ Oscar之孿生弟弟，後反目<br />
 趙貴德之養父<br />
 趙國智之父<br />
 大腿患有<a href="../Page/靜脈曲張.md" title="wikilink">靜脈曲張</a><br />
-有<a href="../Page/心理疾患.md" title="wikilink">心理變態</a>，因年幼時被繼母虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
+有<a href="https://zh.wikipedia.org/wiki/心理疾患" title="wikilink">心理變態</a>，因年幼時被繼母虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
 于30年前殺害陳文娟、馮曉靜，重傷钟志邦<br />
 于29年前企圖殺害梁翠嫻使其毀容，但被其刺傷導致癱瘓<br />
 於第29集為救趙貴德企圖槍殺何正民，卻反槍伤蔣卓君<br />
 于第30集被捕後在拘留所自殺身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></strong></p></td>
 <td><p><strong>趙國智</strong></p></td>
 <td><p>趙大龍之子<br />
 陳文娟之子，被其虐打，後反目<br />
@@ -1537,7 +1537,7 @@ Oscar之孿生弟弟，後反目<br />
 周奕霏之上司，後反目<br />
 趙貴德之養兄<br />
 於第28集殺害周奕霏<br />
-有<a href="../Page/心理疾患.md" title="wikilink">心理變態</a>，因年幼時被陳文娟虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
+有<a href="https://zh.wikipedia.org/wiki/心理疾患" title="wikilink">心理變態</a>，因年幼時被陳文娟虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
 于30年前因乱玩蛇吓人而被馮曉靜、梁翠嫻骂过<br />
 於第30集縱火企圖烧死布国栋、钟学心，最後被李展風用槍射中頭部擊斃</p></td>
 </tr>
@@ -1545,12 +1545,12 @@ Oscar之孿生弟弟，後反目<br />
 <td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
 <td><p><strong>蔣卓君</strong></p></td>
 <td><p>于第29集被趙大龍槍傷，後死亡<br />
-參見<strong><a href="../Page/#法證事務部.md" title="wikilink">法證事務部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證事務部" title="wikilink">法證事務部</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李嘉_(香港演員).md" title="wikilink">李　嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李嘉_(香港演員)" title="wikilink">李　嘉</a></p></td>
 <td><p>趙貴德</p></td>
-<td><p>中度<a href="../Page/智障.md" title="wikilink">智障人士</a><br />
+<td><p>中度<a href="https://zh.wikipedia.org/wiki/智障" title="wikilink">智障人士</a><br />
 趙大龍之養子<br />
 趙國智之養弟<br />
 本姓鄧<br />
@@ -1606,15 +1606,15 @@ Oscar之孿生弟弟，後反目<br />
 對布顺兴产生好感</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁暐昕.md" title="wikilink">梁暐昕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁暐昕" title="wikilink">梁暐昕</a></p></td>
 <td><p>方小鈴</p></td>
 <td><p>Rebecca之女<br />
 布家雯之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>方學勤</p></td>
-<td><p>興萬堂<a href="../Page/跌打.md" title="wikilink">跌打館</a><a href="../Page/師傅.md" title="wikilink">師傅</a><br />
+<td><p>興萬堂<a href="https://zh.wikipedia.org/wiki/跌打" title="wikilink">跌打館</a><a href="https://zh.wikipedia.org/wiki/師傅" title="wikilink">師傅</a><br />
 布順興之徒弟</p></td>
 </tr>
 <tr class="odd">
@@ -1626,7 +1626,7 @@ Oscar之孿生弟弟，後反目<br />
 <tr class="even">
 <td><p><a href="../Page/曾偉權.md" title="wikilink">曾偉權</a></p></td>
 <td><p>莊漢樺</p></td>
-<td><p><a href="../Page/军械法证科.md" title="wikilink">军械法证科</a><a href="../Page/警司.md" title="wikilink">警司</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/军械法证科" title="wikilink">军械法证科</a><a href="../Page/警司.md" title="wikilink">警司</a><br />
 布国栋之旧同学</p></td>
 </tr>
 <tr class="odd">
@@ -1642,10 +1642,10 @@ Oscar之孿生弟弟，後反目<br />
 <tr class="odd">
 <td><p><a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a></p></td>
 <td><p>陳銘國</p></td>
-<td><p><a href="../Page/軍裝.md" title="wikilink">軍裝警員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/軍裝" title="wikilink">軍裝警員</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王致迪.md" title="wikilink">王致迪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王致迪" title="wikilink">王致迪</a></p></td>
 <td><p>吳志開</p></td>
 <td></td>
 </tr>
@@ -1660,7 +1660,7 @@ Oscar之孿生弟弟，後反目<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃得生.md" title="wikilink">黃得生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃得生" title="wikilink">黃得生</a></p></td>
 <td><p>朱佑健</p></td>
 <td></td>
 </tr>
@@ -1670,7 +1670,7 @@ Oscar之孿生弟弟，後反目<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭美嫦.md" title="wikilink">彭美嫦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭美嫦" title="wikilink">彭美嫦</a></p></td>
 <td><p>老婆婆</p></td>
 <td><p>布順興之街坊</p></td>
 </tr>
@@ -1691,7 +1691,7 @@ Oscar之孿生弟弟，後反目<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>Simon</p></td>
 <td><p>「Big Ben Bar」侍應</p></td>
 </tr>
@@ -1701,7 +1701,7 @@ Oscar之孿生弟弟，後反目<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/華忠男.md" title="wikilink">華忠男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華忠男" title="wikilink">華忠男</a></p></td>
 <td><p>豬肉榮</p></td>
 <td></td>
 </tr>
@@ -1711,7 +1711,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>布家之鐘點工人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>何志傑</p></td>
 <td><p>何正民之父<br />
 已去世</p></td>
@@ -1742,7 +1742,7 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>《<a href="../Page/警訊.md" title="wikilink">警訊</a>》導演</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td></td>
 <td><p>《警訊》助導</p></td>
 </tr>
@@ -1789,27 +1789,27 @@ Oscar之孿生弟弟，後反目<br />
   - 十大電視藝人第四位：張可頤
   - 最有前途女藝人：樂瞳
 
-### [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
+### [星和無綫電視大獎2012](https://zh.wikipedia.org/wiki/星和無綫電視大獎2012 "wikilink")
 
   - 我最愛TVB電視男角色：
     （黎耀祥 飾 布國棟）
 
 ## 記事
 
-  - 巡禮片演員陣容：[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼](../Page/佘詩曼.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[洪天明](../Page/洪天明.md "wikilink")、[黎諾懿](../Page/黎諾懿.md "wikilink")、[曹敏莉](../Page/曹敏莉.md "wikilink")、[李亞男](../Page/李亞男.md "wikilink")、[陳美詩](../Page/陳美詩.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")。而據2009年11月15日[星島日報報導](../Page/星島日報.md "wikilink")，[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼及](../Page/佘詩曼.md "wikilink")[林文龍事實上不在演員名單](../Page/林文龍.md "wikilink")（其實名單上亦不包括[羅仲謙](../Page/羅仲謙.md "wikilink")），[歐陽震華經理人更稱沒收過接拍此劇的消息](../Page/歐陽震華.md "wikilink")。\[1\]另外，計劃中劇組將赴[台灣取景](../Page/台灣.md "wikilink")，巡禮片內亦有提及。
+  - 巡禮片演員陣容：[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[洪天明](../Page/洪天明.md "wikilink")、[黎諾懿](../Page/黎諾懿.md "wikilink")、[曹敏莉](../Page/曹敏莉.md "wikilink")、[李亞男](https://zh.wikipedia.org/wiki/李亞男 "wikilink")、[陳美詩](../Page/陳美詩.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")。而據2009年11月15日[星島日報報導](../Page/星島日報.md "wikilink")，[歐陽震華](../Page/歐陽震華.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[林文龍事實上不在演員名單](../Page/林文龍.md "wikilink")（其實名單上亦不包括[羅仲謙](../Page/羅仲謙.md "wikilink")），[歐陽震華經理人更稱沒收過接拍此劇的消息](../Page/歐陽震華.md "wikilink")。\[1\]另外，計劃中劇組將赴[台灣取景](https://zh.wikipedia.org/wiki/台灣 "wikilink")，巡禮片內亦有提及。
   - 2011年1月3日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠Common](../Page/電視廣播城.md "wikilink")
     Room舉行試造型記者會。\[2\]
-  - 2011年1月22日：原為女主角的[佘詩曼在內地撞車受傷以至左手脫骹](../Page/佘詩曼.md "wikilink")，所以決定辭演此劇，其角色由当年因时间问题未能出演[法證先鋒第一辑的](../Page/法證先鋒.md "wikilink")[張可頤頂上](../Page/張可頤.md "wikilink")。\[3\]
-  - 2011年1月25日：[張可頤為此劇試造型](../Page/張可頤.md "wikilink")。\[4\]
-  - 2011年1月28日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於九龍灣MegaBox為無綫新劇](../Page/張可頤.md "wikilink")《法證先鋒III》進行外景拍攝。\[5\]
+  - 2011年1月22日：原為女主角的[佘詩曼在內地撞車受傷以至左手脫骹](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，所以決定辭演此劇，其角色由当年因时间问题未能出演[法證先鋒第一辑的](../Page/法證先鋒.md "wikilink")[張可頤頂上](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。\[3\]
+  - 2011年1月25日：[張可頤為此劇試造型](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。\[4\]
+  - 2011年1月28日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於九龍灣MegaBox為無綫新劇](https://zh.wikipedia.org/wiki/張可頤 "wikilink")《法證先鋒III》進行外景拍攝。\[5\]
   - 2011年2月9日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[吳卓羲為本劇主題曲進行錄音工作](../Page/吳卓羲.md "wikilink")。
   - 2011年2月23日：此劇於15:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十二廠舉行拜神儀式](../Page/電視廣播城.md "wikilink")。\[6\]
   - 2011年3月4日：[吳卓羲及](../Page/吳卓羲.md "wikilink")[徐子珊於](../Page/徐子珊.md "wikilink")[旺角街頭](../Page/旺角.md "wikilink")
     進行外景拍攝\[7\]
   - 2011年3月14日：[吳卓羲及](../Page/吳卓羲.md "wikilink")[徐子珊](../Page/徐子珊.md "wikilink")
     進行外景拍攝。\[8\]
-  - 2011年4月18日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤到一婚紗店拍攝外景](../Page/張可頤.md "wikilink")。
-  - 2011年4月23日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於西貢拍攝外景](../Page/張可頤.md "wikilink")，劇情講述女方被綁匪撲暈後困在車尾廂內，男方則現身英雄救美。
+  - 2011年4月18日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤到一婚紗店拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")。
+  - 2011年4月23日：[黎耀祥及](../Page/黎耀祥.md "wikilink")[張可頤於西貢拍攝外景](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，劇情講述女方被綁匪撲暈後困在車尾廂內，男方則現身英雄救美。
   - 2011年5月2日：此劇全體演員於16:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠停車場拍攝片頭](../Page/電視廣播城.md "wikilink")。\[9\]
   - 2011年10月9日：此劇於15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")[天際100舉行](../Page/天際100.md "wikilink")《法證先鋒III》之「百分100優先場」宣傳活動。
   - 2011年10月12日：此劇於12:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠灰位舉行](../Page/電視廣播城.md "wikilink")《法證先鋒III》記者會，公佈此劇是本年度首播日收視冠軍的劇集。
@@ -1820,7 +1820,7 @@ Oscar之孿生弟弟，後反目<br />
   - 2011年11月7日：此劇於13:45在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城一廠Common](../Page/電視廣播城.md "wikilink")
     Room舉行《法證先鋒III》記者會，公布此劇當時是本年度平均收視冠軍的劇集。
   - 2011年11月13日：一眾演員到[荃灣](../Page/荃灣.md "wikilink")[愉景新城出席](../Page/愉景新城.md "wikilink")「台慶巡迴展覽」，並舉行「法證搜證真本領」活動。
-  - 2011年11月20日：除要趕拍另一劇集《[造王者](../Page/造王者.md "wikilink")》的黎耀祥外，一眾演員到[九龍灣](../Page/九龍灣.md "wikilink")[九展世貿中心三法齊集](../Page/九展世貿中心.md "wikilink")
+  - 2011年11月20日：除要趕拍另一劇集《[造王者](https://zh.wikipedia.org/wiki/造王者 "wikilink")》的黎耀祥外，一眾演員到[九龍灣](../Page/九龍灣.md "wikilink")[九展世貿中心三法齊集](https://zh.wikipedia.org/wiki/九展世貿中心 "wikilink")
     共赏结局
   - 2011年11月22日：除要趕拍另一劇集《造王者》的黎耀祥外，一眾演員出席《法證先鋒III》祝捷會
   - 2011年12月13日：[梁乃鵬博士宴請台前幕後出席慶功宴](../Page/梁乃鵬.md "wikilink")。
@@ -1843,13 +1843,13 @@ Oscar之孿生弟弟，後反目<br />
   - 《法證先鋒III》首集收視平均34點，最高35點（約229萬名觀眾），成為2011年首播日收視最高的劇集，亦為《法證先鋒》系列中最高收視的第一集。\[11\]
   - 《法證先鋒III》周日播映兩小時大結局，平均收**40點**，最高收視達**43點\***，為無綫電視**2011年度收視冠軍劇集**。
 
-### [myTV](../Page/myTV.md "wikilink")
+### [myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")
 
-  - 在10月15日，此劇[myTV網上重溫單日點擊達](../Page/myTV.md "wikilink")3,092,158人次，成為最快破300萬的劇集。\[12\]
+  - 在10月15日，此劇[myTV網上重溫單日點擊達](https://zh.wikipedia.org/wiki/myTV "wikilink")3,092,158人次，成為最快破300萬的劇集。\[12\]
 
 ## 觀眾迴響
 
-《法證先鋒III》開播首周平均收視31點、最高收視34點，成為今年TVB劇集首周收視冠軍。但劇情方面遭批評，有指劇中各人墨鏡出現頻率過於頻密，以及每次討論案情都過份倚賴[平板電腦](../Page/平板電腦.md "wikilink")，加上劇集對主角乃至[法醫的形象刻劃過於刻意](../Page/法醫.md "wikilink")，這些皆產生了與觀眾的距離隔閡，嚴重影響職業劇的靈魂：劇集的真實性。有觀眾批評徐子珊扮演正氣的[高級督察氣場不夠強大](../Page/高級督察.md "wikilink")，演技太差。\[13\]亦有觀眾批評這次主演安排失重，黎耀祥和[張可頤兩人戲份太多](../Page/張可頤.md "wikilink")，這兩個法證人員及法醫幾乎包攬重案組的事，去[案發現場找到證據便](../Page/案發現場.md "wikilink")[破案](../Page/破案.md "wikilink")，與現實不符，有唱獨角戲的嫌疑，還要加多條感情線分別與[陳展鵬和](../Page/陳展鵬.md "wikilink")[胡定欣展開一段四角戀](../Page/胡定欣.md "wikilink")，使到戲分多上多，案件及感情線一切圍繞兩人轉，使得飾演重案組[警員的](../Page/警員.md "wikilink")[吳卓羲和](../Page/吳卓羲.md "wikilink")[徐子珊如同虛設](../Page/徐子珊.md "wikilink")\[14\]。吳卓羲坦言多謝觀眾，表示一點也不介意，相信公司有安排，他同時指出劇集重點是[法證](../Page/法證.md "wikilink")，而自己演警察，所以才令觀眾覺得戲份不是集中在他身上。而黎耀祥也回應，吳卓羲拍攝的場口比他多，更自稱自己主要是廠景比較舒服，所以也有點不好意思\[15\]\[16\]。
+《法證先鋒III》開播首周平均收視31點、最高收視34點，成為今年TVB劇集首周收視冠軍。但劇情方面遭批評，有指劇中各人墨鏡出現頻率過於頻密，以及每次討論案情都過份倚賴[平板電腦](../Page/平板電腦.md "wikilink")，加上劇集對主角乃至[法醫的形象刻劃過於刻意](https://zh.wikipedia.org/wiki/法醫 "wikilink")，這些皆產生了與觀眾的距離隔閡，嚴重影響職業劇的靈魂：劇集的真實性。有觀眾批評徐子珊扮演正氣的[高級督察氣場不夠強大](../Page/高級督察.md "wikilink")，演技太差。\[13\]亦有觀眾批評這次主演安排失重，黎耀祥和[張可頤兩人戲份太多](https://zh.wikipedia.org/wiki/張可頤 "wikilink")，這兩個法證人員及法醫幾乎包攬重案組的事，去[案發現場找到證據便](https://zh.wikipedia.org/wiki/案發現場 "wikilink")[破案](https://zh.wikipedia.org/wiki/破案 "wikilink")，與現實不符，有唱獨角戲的嫌疑，還要加多條感情線分別與[陳展鵬和](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")[胡定欣展開一段四角戀](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，使到戲分多上多，案件及感情線一切圍繞兩人轉，使得飾演重案組[警員的](https://zh.wikipedia.org/wiki/警員 "wikilink")[吳卓羲和](../Page/吳卓羲.md "wikilink")[徐子珊如同虛設](../Page/徐子珊.md "wikilink")\[14\]。吳卓羲坦言多謝觀眾，表示一點也不介意，相信公司有安排，他同時指出劇集重點是[法證](https://zh.wikipedia.org/wiki/法證 "wikilink")，而自己演警察，所以才令觀眾覺得戲份不是集中在他身上。而黎耀祥也回應，吳卓羲拍攝的場口比他多，更自稱自己主要是廠景比較舒服，所以也有點不好意思\[15\]\[16\]。
 
 ## 參考資料
 

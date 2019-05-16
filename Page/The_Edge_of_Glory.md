@@ -16,7 +16,7 @@ Edge Of Glory》在[*Billboard* Hot
 Gaga在美国连续第十支排名前十的单曲](../Page/Lady_Gaga.md "wikilink")。
 
 由[Lady Gaga自己和她的创意团队](../Page/Lady_Gaga.md "wikilink")[Haus of
-Gaga合作导演的音乐录影带在五月下旬拍摄](https://zh.wikipedia.org/wiki/Haus_of_Gaga "wikilink")。这支音乐录影带表现了Gaga从煙霧瀰漫房间離開后在无人的街上的舞步，与她之前的录影带相比较为简洁，具体表现在它没有复杂的编舞和伴舞者，且除了由[范哲思设计服装外](https://zh.wikipedia.org/wiki/范哲思 "wikilink")，Gaga没有更换其他服装。评论者称赞这支录影带的简洁，并将它与[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[珍妮·杰克逊和](../Page/珍妮·杰克逊.md "wikilink")[麦当娜的MV相比](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")。Gaga在公开场合多次表演此歌。
+Gaga合作导演的音乐录影带在五月下旬拍摄](../Page/Haus_of_Gaga.md "wikilink")。这支音乐录影带表现了Gaga从煙霧瀰漫房间離開后在无人的街上的舞步，与她之前的录影带相比较为简洁，具体表现在它没有复杂的编舞和伴舞者，且除了由[范哲思设计服装外](https://zh.wikipedia.org/wiki/范哲思 "wikilink")，Gaga没有更换其他服装。评论者称赞这支录影带的简洁，并将它与[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[珍妮·杰克逊和](../Page/珍妮·杰克逊.md "wikilink")[麦当娜的MV相比](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")。Gaga在公开场合多次表演此歌。
 
 日本[朝日電視台](../Page/朝日電視台.md "wikilink")2011年7月 - 9月放送的『Jiu
 警視庁特殊犯搜查係』用此曲作為主題曲。

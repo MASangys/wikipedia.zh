@@ -32,7 +32,7 @@ E-no》的創刊號是2009年4月20日發行的5月號。
   - [水の森](https://zh.wikipedia.org/wiki/水の森 "wikilink")（[小林有吾](https://zh.wikipedia.org/wiki/小林有吾 "wikilink")）
   - [宮ちゃんの科学人生](https://zh.wikipedia.org/wiki/宮ちゃんの科学人生 "wikilink")（[宮崎かずしげ](https://zh.wikipedia.org/wiki/宮崎かずしげ "wikilink")）
   - [メテオさんストライクです\!](https://zh.wikipedia.org/wiki/メテオさんストライクです! "wikilink")（[たくじ](https://zh.wikipedia.org/wiki/たくじ "wikilink")）
-  - [LOVEPLUS](../Page/LOVEPLUS.md "wikilink")（[櫻太助版](https://zh.wikipedia.org/wiki/櫻太助 "wikilink")）
+  - [LOVEPLUS](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")（[櫻太助版](https://zh.wikipedia.org/wiki/櫻太助 "wikilink")）
   - [redEyes](https://zh.wikipedia.org/wiki/redEyes "wikilink")（[神堂潤](https://zh.wikipedia.org/wiki/神堂潤 "wikilink")）
 
 ## 連載終了作品
@@ -47,10 +47,10 @@ E-no》的創刊號是2009年4月20日發行的5月號。
   - [がっくんチョ](https://zh.wikipedia.org/wiki/がっくんチョ "wikilink")（[かわくぼ香織](https://zh.wikipedia.org/wiki/かわくぼ香織 "wikilink")）
   - [学校菜園おけらば](https://zh.wikipedia.org/wiki/学校菜園おけらば "wikilink")（[清水沢まこと](https://zh.wikipedia.org/wiki/清水沢まこと "wikilink")）
   - [かっちぇる♪](https://zh.wikipedia.org/wiki/かっちぇる♪ "wikilink")（[かわくぼ香織](https://zh.wikipedia.org/wiki/かわくぼ香織 "wikilink")）
-  - [グミ・チョコレート・パイン](https://zh.wikipedia.org/wiki/グミ・チョコレート・パイン "wikilink")（原作/[大槻ケンヂ](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")・漫画/[佐佐木勝彥](https://zh.wikipedia.org/wiki/佐佐木勝彥 "wikilink")/[清水澤亮](https://zh.wikipedia.org/wiki/清水澤亮 "wikilink")）
+  - [グミ・チョコレート・パイン](https://zh.wikipedia.org/wiki/グミ・チョコレート・パイン "wikilink")（原作/[大槻ケンヂ](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")・漫画/[佐佐木勝彥](../Page/佐佐木勝彥.md "wikilink")/[清水澤亮](https://zh.wikipedia.org/wiki/清水澤亮 "wikilink")）
   - [SAMURAI
     7](https://zh.wikipedia.org/wiki/SAMURAI_7_\(漫画\) "wikilink")（[周防瑞孝](https://zh.wikipedia.org/wiki/周防瑞孝 "wikilink")）
-  - [さよならフットボール](https://zh.wikipedia.org/wiki/さよならフットボール "wikilink")（[新川直司](https://zh.wikipedia.org/wiki/新川直司 "wikilink")）
+  - [さよならフットボール](https://zh.wikipedia.org/wiki/さよならフットボール "wikilink")（[新川直司](../Page/新川直司.md "wikilink")）
   - [山賊王](https://zh.wikipedia.org/wiki/山賊王 "wikilink")（[澤田ひろふみ](https://zh.wikipedia.org/wiki/澤田ひろふみ "wikilink")）
   - [旬
     〜味彩の匠〜](https://zh.wikipedia.org/wiki/旬_〜味彩の匠〜 "wikilink")（[高倉みどり](https://zh.wikipedia.org/wiki/高倉みどり "wikilink")）

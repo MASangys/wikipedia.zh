@@ -1,4 +1,4 @@
-《**啥貨？！CIRCUS**》是[CIRCUS於](../Page/CIRCUS.md "wikilink")2010年12月31日發行的第一張專輯。
+《**啥貨？！CIRCUS**》是[CIRCUS於](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")2010年12月31日發行的第一張專輯。
 
 ## 曲目
 
@@ -9,13 +9,13 @@
 
 ## 音樂錄影帶
 
-| 歌名            | 執導                                    | 備註 |
-| ------------- | ------------------------------------- | -- |
-| 叭啥貨           | [珍妮花](../Page/珍妮花.md "wikilink")      |    |
-| 最後這一課         | [陳映之](../Page/陳映之.md "wikilink")      |    |
-| 不想Say Goodbye | [王子客串拍攝MV](../Page/邱勝翊.md "wikilink") |    |
-| 來不及的時光機       | \-                                    |    |
-| QK            |                                       |    |
+| 歌名            | 執導                                                  | 備註 |
+| ------------- | --------------------------------------------------- | -- |
+| 叭啥貨           | [珍妮花](https://zh.wikipedia.org/wiki/珍妮花 "wikilink") |    |
+| 最後這一課         | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") |    |
+| 不想Say Goodbye | [王子客串拍攝MV](../Page/邱勝翊.md "wikilink")               |    |
+| 來不及的時光機       | \-                                                  |    |
+| QK            |                                                     |    |
 
 ## 派台歌成績
 

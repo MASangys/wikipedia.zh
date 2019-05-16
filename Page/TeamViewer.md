@@ -1,12 +1,12 @@
 **TeamViewer**是一個[遠端控制軟體](https://zh.wikipedia.org/wiki/遠端控制軟體 "wikilink")，相容於[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，也可以透過[網頁瀏覽器連線已安裝TeamViewer的電腦](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，也可以透過[網頁瀏覽器連線已安裝TeamViewer的電腦](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。
 
 ## 功能
 
 TeamViewer 是一個可用於 [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS、](../Page/macOS.md "wikilink")\[1\]\[2\]
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS、](https://zh.wikipedia.org/wiki/macOS "wikilink")\[1\]\[2\]
 [Linux、](../Page/Linux.md "wikilink")\[3\] [Chrome
 OS、](../Page/Chrome_OS.md "wikilink")\[4\]
 [iOS、](https://zh.wikipedia.org/wiki/iOS_\(Apple\) "wikilink")\[5\]

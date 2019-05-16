@@ -2,16 +2,16 @@
 source，SSXS或SSS）是[天文學上非常低能量的X射線源](../Page/天文學.md "wikilink")。超軟X射線的能量範圍在90至2,500[電子伏特](../Page/電子伏特.md "wikilink")，而硬X射線的能量範圍在1,000至20,000電子伏特\[1\]。因為超軟X射線在我們的銀河系內通常都在銀河盤面內，而由於銀河盤的星際吸收遮蔽
 ，在多數的情況下檢測到的能量都低於500電子伏特\[2\]。他門在外星系中則很明顯，在大麥哲倫星系大約有10個，而在M31至少有15個\[3\]。
 
-在2005年初期，在[大麥哲倫星系](../Page/大麥哲倫星系.md "wikilink")、[小麥哲倫星系](../Page/小麥哲倫星系.md "wikilink")、[銀河系等](../Page/銀河系.md "wikilink")，大約20個星系中發現的SSS至少超過100個\[4\]。它們的光度都低於大約3
+在2005年初期，在[大麥哲倫星系](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")、[小麥哲倫星系](https://zh.wikipedia.org/wiki/小麥哲倫星系 "wikilink")、[銀河系等](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，大約20個星系中發現的SSS至少超過100個\[4\]。它們的光度都低於大約3
 x 10<sup>38</sup>
-erg/s，被認為是吸積的[白矮星或後新星穩定](../Page/白矮星.md "wikilink")[核燃燒](../Page/恆星表面融合.md "wikilink")\[5\]。只有少數幾個SSS光度大於或等於
+erg/s，被認為是吸積的[白矮星或後新星穩定](../Page/白矮星.md "wikilink")[核燃燒](https://zh.wikipedia.org/wiki/恆星表面融合 "wikilink")\[5\]。只有少數幾個SSS光度大於或等於
 ≥10<sup>39</sup> erg/s\[6\]。
 
-超軟X射線被認為是從[聯星組中被拉扯到白矮星表面的物質穩定進行](../Page/聯星.md "wikilink")[核融合造成的](../Page/核融合.md "wikilink")\[7\]，這就是所謂的密近聯星超軟源
+超軟X射線被認為是從[聯星組中被拉扯到白矮星表面的物質穩定進行](../Page/聯星.md "wikilink")[核融合造成的](https://zh.wikipedia.org/wiki/核融合 "wikilink")\[7\]，這就是所謂的密近聯星超軟源
 (close-binary supersoft
 source，CBSS)\[8\]，但這需要足夠高的流量才足以維持核融合。相較於[新星](../Page/新星.md "wikilink")，在較低的流量下，只有零星的物質進行核融合。超軟X射線源可以演變成[Ia超新星](../Page/Ia超新星.md "wikilink")，突然融合的物質可以讓白矮星和中子星經由坍塌而毀滅\[9\]。
 
-超軟X射線源最初是由[愛因斯坦衛星發現的](../Page/愛因斯坦衛星.md "wikilink")，進一步的發現則是[羅塞德衛星](../Page/倫琴衛星.md "wikilink")
+超軟X射線源最初是由[愛因斯坦衛星發現的](https://zh.wikipedia.org/wiki/愛因斯坦衛星 "wikilink")，進一步的發現則是[羅塞德衛星](https://zh.wikipedia.org/wiki/倫琴衛星 "wikilink")
 \[10\]。許多不同類型的天體都會輻射出超軟X射線 (主要的輻射都低於500電子伏特)\[11\]。
 
 ## 銀河的SSXS
@@ -23,24 +23,24 @@ J0925.7-4758)是在銀河系中罕見的超軟X射線聯星\[13\]。"這個來�
 ## 密近聯星超軟源 (CBSS)
 
 CBSS
-模型需要[白矮星龐大的吸積量做為發電機才能穩定的進行](../Page/白矮星.md "wikilink")[表面的核燃燒成為超軟X射線源](../Page/恆星表面融合.md "wikilink")\[16\]。在1999年，有八個週期在4小時至1.35天之間的超軟X射線源：RX
+模型需要[白矮星龐大的吸積量做為發電機才能穩定的進行](../Page/白矮星.md "wikilink")[表面的核燃燒成為超軟X射線源](https://zh.wikipedia.org/wiki/恆星表面融合 "wikilink")\[16\]。在1999年，有八個週期在4小時至1.35天之間的超軟X射線源：RX
 J0019.8+2156 (MW)、RX J0439.8-6809 (LMC)、RX J0513.9-6951 (LMC)、RX
 J0527.8-6954 (LMC)、RX J0537.7-7034 (LMC)、CAL 83 (LMC)、CAL 87 LMC)、和1E
 0035.4-7230 (SMC)\[17\]。
 
 ## 共生聯星
 
-**共生聯星**是[聯星系統組成的](../Page/聯星.md "wikilink")[變星](../Page/變星.md "wikilink")，通常其中一顆外面的氣殼已經膨脹成[紅巨星](../Page/紅巨星.md "wikilink")，並且[質量流失快速](../Page/恆星風.md "wikilink")；而另一顆是表面氣體已經游離的高溫星(通常是[白矮星](../Page/白矮星.md "wikilink"))\[18\].
+**共生聯星**是[聯星系統組成的](../Page/聯星.md "wikilink")[變星](../Page/變星.md "wikilink")，通常其中一顆外面的氣殼已經膨脹成[紅巨星](../Page/紅巨星.md "wikilink")，並且[質量流失快速](https://zh.wikipedia.org/wiki/恆星風 "wikilink")；而另一顆是表面氣體已經游離的高溫星(通常是[白矮星](../Page/白矮星.md "wikilink"))\[18\].
 在在1999年發現的三顆共生聯星是SSXSs：天龍座AG (BB, MW),望遠鏡座RR (WD, MW)，和RX J0048.4-7332
 (SMC, WD).\[19\]。
 
 ## 無交互作用白矮星
 
-[羅塞德衛星記錄到的第一顆單一白矮星X射線源是最年輕](../Page/倫琴衛星.md "wikilink")、最熱的白矮星，溫度接近100,000K，光譜屬於DO型\[20\]\[21\]。
+[羅塞德衛星記錄到的第一顆單一白矮星X射線源是最年輕](https://zh.wikipedia.org/wiki/倫琴衛星 "wikilink")、最熱的白矮星，溫度接近100,000K，光譜屬於DO型\[20\]\[21\]。
 
 ## 激變變星
 
-"激變變星是由白矮星和紅矮星組成，經由洛希辧再次轉移逸出物質的密接聯星系"\[22\]。激變變星的核融合和吸積的能量兩者都被觀察到是[X射線源](../Page/X射線.md "wikilink")\[23\]。吸積盤可能會因為傾向於[不穩定導致](../Page/不穩定.md "wikilink")[矮新星的爆發](../Page/矮新星.md "wikilink")：盤面中一部份的物質掉落至白矮星，當底部累積的[密度和產生的](../Page/密度.md "wikilink")[溫度足夠高時](../Page/溫度.md "wikilink")，點燃[核融合反應發生激變](../Page/核融合.md "wikilink")，而迅速的燃燒氫層成為氦層。
+"激變變星是由白矮星和紅矮星組成，經由洛希辧再次轉移逸出物質的密接聯星系"\[22\]。激變變星的核融合和吸積的能量兩者都被觀察到是[X射線源](https://zh.wikipedia.org/wiki/X射線 "wikilink")\[23\]。吸積盤可能會因為傾向於[不穩定導致](https://zh.wikipedia.org/wiki/不穩定 "wikilink")[矮新星的爆發](../Page/矮新星.md "wikilink")：盤面中一部份的物質掉落至白矮星，當底部累積的[密度和產生的](../Page/密度.md "wikilink")[溫度足夠高時](https://zh.wikipedia.org/wiki/溫度 "wikilink")，點燃[核融合反應發生激變](https://zh.wikipedia.org/wiki/核融合 "wikilink")，而迅速的燃燒氫層成為氦層。
 
 天箭座V顯然是唯一的一顆SSXS的非磁性激變變星：它的熱亮度是(1 - 10) x
 10<sup>37</sup>，聯星系的溫度相當於低於80電子伏特的黑體，軌道週期為0.514195天\[24\]。
@@ -88,8 +88,8 @@ J0317-853與一顆相距16弧秒的藍色星LB 9802 (也是白矮星)
 
 直到最近 (1995)，只有PG 1658+441擁有超過30,000 K的有效溫度\[46\]，它的極場強度只有3MG\[47\]。
 
-[羅塞德衛星的廣視野相機](../Page/倫琴衛星.md "wikilink") (Wide Field Camera，WFC) 測得RE
-J0616-649 擁有～20 MG的磁場\[48\]。
+[羅塞德衛星的廣視野相機](https://zh.wikipedia.org/wiki/倫琴衛星 "wikilink") (Wide Field
+Camera，WFC) 測得RE J0616-649 擁有～20 MG的磁場\[48\]。
 
 PG
 1031+234表面的場已經超過從～200MG至接近1,000MG，並且以3<sup>h</sup>24<sup>m</sup>的週期旋轉\[49\]。
@@ -101,7 +101,7 @@ PG
 ## PG 1159星
 
 [PG
-1159是一個非常熱的恆星集團](../Page/PG_1159-035.md "wikilink")，是由大氣層中的碳和氧主導的脈動白矮星原型\[52\]。
+1159是一個非常熱的恆星集團](https://zh.wikipedia.org/wiki/PG_1159-035 "wikilink")，是由大氣層中的碳和氧主導的脈動白矮星原型\[52\]。
 
 PG 1159星的光度達到～10<sup>38</sup> erg/s，但是形成相當不同的一類\[53\]。RX
 J0122.9-7521已被確認是銀河的PG 1159星\[54\]\[55\]。
@@ -111,8 +111,9 @@ J0122.9-7521已被確認是銀河的PG 1159星\[54\]\[55\]。
 有三個熱光度大約在10<sup>38</sup> erg/s的超軟X射線源，它們都是新星： 蒼蠅座GQ(BB, MW)、天鵝座V1974(WD,
 MW)、和大麥哲倫新星1995 (WD)\[56\]。很顯然的，如果大麥哲倫1995新星是聯星，其軌道週期迄1999仍然是未知的。
 
-天蝎座U，[羅塞德衛星未曾觀測的](../Page/倫琴衛星.md "wikilink")1999再發新星，是一顆白矮星(74-76 eV)，
-L<sub>bol</sub> \~ (8-60) x 10<sup>36</sup> erg/s，軌道週期為1.2306天\[57\]。
+天蝎座U，[羅塞德衛星未曾觀測的](https://zh.wikipedia.org/wiki/倫琴衛星 "wikilink")1999再發新星，是一顆白矮星(74-76
+eV)， L<sub>bol</sub> \~ (8-60) x 10<sup>36</sup>
+erg/s，軌道週期為1.2306天\[57\]。
 
 ## 行星狀星雲
 
@@ -129,10 +130,10 @@ L<sub>bol</sub> \~ (8-60) x 10<sup>36</sup> erg/s，軌道週期為1.2306天\[57
 
 ## 相關條目
 
-  - [碳爆發](../Page/碳爆發.md "wikilink")
+  - [碳爆發](https://zh.wikipedia.org/wiki/碳爆發 "wikilink")
   - [Ia超新星](../Page/Ia超新星.md "wikilink")
-  - [X射線天文學](../Page/X射線天文學.md "wikilink")
-  - [恆星表面融合](../Page/恆星表面融合.md "wikilink")
+  - [X射線天文學](https://zh.wikipedia.org/wiki/X射線天文學 "wikilink")
+  - [恆星表面融合](https://zh.wikipedia.org/wiki/恆星表面融合 "wikilink")
 
 ## 參考資料
 

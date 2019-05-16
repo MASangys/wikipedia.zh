@@ -1,14 +1,14 @@
 《**a walk in the
-park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")8張個人[單曲](../Page/單曲.md "wikilink")。1996年11月27日發行。
+park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")8張個人[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年11月27日發行。
 
 ## 簡介
 
-  - 取得巨大成功的[原創專輯](../Page/錄音室專輯.md "wikilink")《[SWEET 19
-    BLUES](../Page/SWEET_19_BLUES.md "wikilink")》發行之後的首張單曲。
+  - 取得巨大成功的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[SWEET
+    19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")》發行之後的首張單曲。
 
 <!-- end list -->
 
-  - 是[安室奈美惠親自出演的](../Page/安室奈美惠.md "wikilink")[日立Maxell](../Page/日立Maxell.md "wikilink")「maxell
+  - 是[安室奈美惠親自出演的](../Page/安室奈美惠.md "wikilink")[日立Maxell](https://zh.wikipedia.org/wiki/日立Maxell "wikilink")「maxell
     UD」[廣告的歌曲](../Page/廣告.md "wikilink")。
 
 <!-- end list -->
@@ -17,8 +17,8 @@ park**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 
 <!-- end list -->
 
-  - 1997年上半年，在日本全國舉行同名巡迴[演唱會](../Page/演唱會.md "wikilink")「Namie Amuro
-    tour 1997 a walk in the park」，動員超過12萬人觀看。
+  - 1997年上半年，在日本全國舉行同名巡迴[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「Namie
+    Amuro tour 1997 a walk in the park」，動員超過12萬人觀看。
 
 ## 收錄曲目
 

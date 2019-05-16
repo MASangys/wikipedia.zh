@@ -1,14 +1,14 @@
 **超級機器人大戰ORIGINAL
-GENERATION塑膠模型系列**是將[萬代南夢宮遊戲所製作並販賣的](../Page/萬代南夢宮遊戲.md "wikilink")[電玩遊戲](../Page/電玩遊戲.md "wikilink")[超級機器人大戰ORIGINAL
-GENERATION系列中登場的原創機器人以塑膠組裝模型的形式立體化的系列](../Page/超級機器人大戰ORIGINAL_GENERATION.md "wikilink")。
+GENERATION塑膠模型系列**是將[萬代南夢宮遊戲所製作並販賣的](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")[超級機器人大戰ORIGINAL
+GENERATION系列中登場的原創機器人以塑膠組裝模型的形式立體化的系列](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION "wikilink")。
 
 塑膠模型的開發以及販售是由[壽屋所進行的](../Page/壽屋.md "wikilink")。
 
 ## 概要
 
-為壽屋首款塑膠類角色模型商品系列\[1\]。在落實玩具安全基準之下無法製造的尖銳零件以及細小的零件分割所達成的分色為其特徵，販售對象的年齡限制為15歲以上\[2\]。在初期時有著[PS製塑膠零件之間的結合力不足使得零件容易脫落](../Page/聚苯乙烯.md "wikilink")、[PE製](../Page/聚乙烯.md "wikilink")[軟膠零件破損造成保持力不足與可動範圍的限制等缺點](../Page/軟膠零件.md "wikilink")。
+為壽屋首款塑膠類角色模型商品系列\[1\]。在落實玩具安全基準之下無法製造的尖銳零件以及細小的零件分割所達成的分色為其特徵，販售對象的年齡限制為15歲以上\[2\]。在初期時有著[PS製塑膠零件之間的結合力不足使得零件容易脫落](../Page/聚苯乙烯.md "wikilink")、[PE製](../Page/聚乙烯.md "wikilink")[軟膠零件破損造成保持力不足與可動範圍的限制等缺點](https://zh.wikipedia.org/wiki/軟膠零件 "wikilink")。
 
-有著將約20公尺尺寸的[真實系機器人和尺寸在](../Page/真實系機器人.md "wikilink")20公尺以上的[超級系機器人的機體分別以](../Page/超級系機器人.md "wikilink")1/144比例及無比例的方式推出的的S.R.G-S系列，以及將真實系機器人的機體以1/100比例推出的EO-tech系列。
+有著將約20公尺尺寸的[真實系機器人和尺寸在](https://zh.wikipedia.org/wiki/真實系機器人 "wikilink")20公尺以上的[超級系機器人的機體分別以](https://zh.wikipedia.org/wiki/超級系機器人 "wikilink")1/144比例及無比例的方式推出的的S.R.G-S系列，以及將真實系機器人的機體以1/100比例推出的EO-tech系列。
 
 ## 商品一覽
 

@@ -2,13 +2,13 @@
 **脫逃遊戲DERO**》，簡稱《**脫逃遊戲DERO**》是[日本](../Page/日本.md "wikilink")[日本電視台的](../Page/日本電視台.md "wikilink")[綜藝遊戲節目](../Page/綜藝節目.md "wikilink")。『DERO』的日文意思為『出去』(出ろ)，節目主旨則是『親身感受像電影一樣的高潮！』，於2010年4月21日起每週三晚間7點至7點56分(日本時間)開始播出到2011年3月9日為止，因[東日本大震災而停止播出](../Page/東日本大震災.md "wikilink")(因為DERO的遊戲內容會想起[東日本大震災時的逃離海嘯](../Page/東日本大震災.md "wikilink"))。
 而在黃金時段（每週三晚間7點）播出之前是以『星期六最熱節目()』方式播出，於2009年12月19日到2010年2月6日每週六下午1點30分至2點（關東地區播出）。台灣由[國興衛視代理播出](../Page/國興衛視.md "wikilink")，播出時間是於2011年1月22日起每星期六晚間8點。
 
-目前日本已經在2011年7月6日推出後繼節目「[TORE全力大挑戰](../Page/TORE全力大挑戰.md "wikilink")()」，節目的主持人依然為[南海candy的](../Page/南海candy.md "wikilink")[山里亮太](../Page/山里亮太.md "wikilink")。该节目有美国版《Exit》，2013年在美国Syfy播出。
+目前日本已經在2011年7月6日推出後繼節目「[TORE全力大挑戰](../Page/TORE全力大挑戰.md "wikilink")()」，節目的主持人依然為[南海candy的](https://zh.wikipedia.org/wiki/南海candy "wikilink")[山里亮太](../Page/山里亮太.md "wikilink")。该节目有美国版《Exit》，2013年在美国Syfy播出。
 
 ## 演出人員
 
 ### 管理人
 
-  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海candy](../Page/南海candy.md "wikilink")）
+  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海candy](https://zh.wikipedia.org/wiki/南海candy "wikilink")）
     為本節目的主持人、解說員以及管理密室的人，有時會在節目中反駁說自己不是小山，而是管理人。是[AKB48的愛好者](../Page/AKB48.md "wikilink")。
     進入黃金時段前：使用肖像系統，表現出各式種各樣的人或角色的臉
     進入黃金時段後：一樣使用肖像系統，使用的肖像為戴著寫「管理人」的紙袋。
@@ -20,7 +20,7 @@
 
   - [倫敦靴子2號田村亮](../Page/倫敦靴子.md "wikilink")
   - [奧黛麗](../Page/奧黛麗_\(搞笑組合\).md "wikilink")（[若林正恭和](../Page/若林正恭.md "wikilink")[春日俊彰](../Page/春日俊彰.md "wikilink")）
-  - [關西傑尼斯8的](../Page/關西傑尼斯8.md "wikilink")[村上信五](../Page/村上信五.md "wikilink")、[丸山隆平](../Page/丸山隆平.md "wikilink")、[澀谷昴](../Page/澀谷昴.md "wikilink")、[安田章大](../Page/安田章大.md "wikilink")、[橫山裕及](../Page/橫山裕.md "wikilink")[錦戶亮](../Page/錦戶亮.md "wikilink")
+  - [關西傑尼斯8的](../Page/關西傑尼斯8.md "wikilink")[村上信五](../Page/村上信五.md "wikilink")、[丸山隆平](../Page/丸山隆平.md "wikilink")、[澀谷昴](../Page/澀谷昴.md "wikilink")、[安田章大](../Page/安田章大.md "wikilink")、[橫山裕及](../Page/橫山裕.md "wikilink")[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")
   - 以上三組人馬每周輪流當隊長
 
 ### 準節目來賓
@@ -30,7 +30,7 @@
 
 參加過的成員:
 
-  - AKB48:[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高橋みなみ](../Page/高橋みなみ.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[峯岸みなみ](../Page/峯岸みなみ.md "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")
+  - AKB48:[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")、[秋元才加](../Page/秋元才加.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[板野友美](../Page/板野友美.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")
   - SKE48:[松井珠理奈](../Page/松井珠理奈.md "wikilink")
   - SDN48:[浦野一美](../Page/浦野一美.md "wikilink")
 
@@ -133,10 +133,11 @@
 
 第三道門：利用給予的平假名拼出名人名字(有名人名前並べかえ)。要答對3題，並且給予的假名都要用到，其中第3題會要求用其中數個排出名人的名字，再用剩下的假名拼出特定規定的詞彙
 
-例1：給予假名：やしまかあさん 答1：[明石家さんま](../Page/明石家秋刀魚.md "wikilink")（あかしやさんま）
+例1：給予假名：やしまかあさん
+答1：[明石家さんま](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")（あかしやさんま）
 
 例2：給予假名：やじまのろあみうきこ
-答2：[綾小路きみまろ](../Page/綾小路君麻呂.md "wikilink")（あやのこうじきみまろ）
+答2：[綾小路きみまろ](https://zh.wikipedia.org/wiki/綾小路君麻呂 "wikilink")（あやのこうじきみまろ）
 
 例3：給予假名：よいそかつうずじま　用6個假名來排名人的名字，3個假名是一個「家事」的名稱 答3：松井かずよ（まついかずよ）　掃除（そうじ）
 
@@ -174,7 +175,7 @@ CHALLENGE:挑戰者在限時30秒內用機械手臂夾取鑰匙，將鑰匙插�
 介紹：挑戰者被蒙上眼睛後被帶到深入地底下的房間，在脫逃開始之後立即放水（每五秒約上升水位一公分），在水淹沒整個房間前（到達界限水位，200公分）逃脫。另外，可以使用房間內這支稱為救命電話的手機求救，但只能使用一次，而且時間只有30秒。首先挑戰者必需要打開禮物盒，在水位上升到界限水位前，要使用房間的物品，解出謎題的答案，然後依序打開三個鎖住的箱子。前兩個答案代表的物品都藏有能開啟箱子的鑰匙，而第三個答案則是一組三～四位數密碼，可以打開第三個箱子的密碼鎖。每開啟一個箱子就會出現開啟下一個箱子的提示物品，而開啟最後一個箱子（第三個）時會得到一個遙控器，使用遙控器讓放水暫時停止，接下來就是最終猜謎。
 
   - **ラストアンサークイズ　LAST ANSWER
-    QUIZ（中譯：最終猜謎）**：逃出之前的最後一項挑戰。挑戰者必須答對3題才算逃出成功，而在答題時則會開始繼續放水，答題次數不限，但只要答錯或Pass的話就會暫停出題30秒，以作為懲罰，結束後才會繼續出題，而此時仍然持續放水。所出的問題全部都是列舉題（例：請講出[EXILE的五個成員名稱](../Page/EXILE.md "wikilink")）。
+    QUIZ（中譯：最終猜謎）**：逃出之前的最後一項挑戰。挑戰者必須答對3題才算逃出成功，而在答題時則會開始繼續放水，答題次數不限，但只要答錯或Pass的話就會暫停出題30秒，以作為懲罰，結束後才會繼續出題，而此時仍然持續放水。所出的問題全部都是列舉題（例：請講出[EXILE的五個成員名稱](https://zh.wikipedia.org/wiki/EXILE "wikilink")）。
 
 ## 外部連結
 

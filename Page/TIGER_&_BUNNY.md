@@ -84,7 +84,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
 <!-- end list -->
 
   - 巨石野牛／安東尼奧·洛佩斯（Rock Bison／Antonio Lopez）
-    配音：[楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")／港：[陳卓智](../Page/陳卓智.md "wikilink")→[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
+    配音：[楠大典](../Page/楠大典.md "wikilink")／港：[陳卓智](../Page/陳卓智.md "wikilink")→[蕭徽勇](../Page/蕭徽勇.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
     贊助商：[牛角](https://zh.wikipedia.org/wiki/牛角 "wikilink")、[HYBRID太麺堂々](https://zh.wikipedia.org/wiki/HYBRID太麺堂々 "wikilink")、[日清食品](../Page/日清食品.md "wikilink")(劇場版加入)
     所屬公司：KRONOS FOODS
     虎徹的長年死黨，亦是酒友，是一個豪爽的壯漢。
@@ -261,7 +261,7 @@ TV」電視公司則報導這些英雄們戰鬥的畫面，並以綜藝節目的
     配音：[田中正彦](https://zh.wikipedia.org/wiki/田中正彦 "wikilink")／港：[招世亮](../Page/招世亮.md "wikilink")／台：[林谷珍](../Page/林谷珍.md "wikilink")
     虎徹的兄長。
   - 巴納比·布魯克斯(Barnaby Brooks)、艾美莉·布魯克斯(Emily Brooks)
-    配音：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")、[赤池裕美子](https://zh.wikipedia.org/wiki/赤池裕美子 "wikilink")／港：[劉昭文](../Page/劉昭文.md "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")
+    配音：[上田燿司](../Page/上田燿司.md "wikilink")、[赤池裕美子](https://zh.wikipedia.org/wiki/赤池裕美子 "wikilink")／港：[劉昭文](../Page/劉昭文.md "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")
     巴納比已故的父母，皆是進行人造人研究計畫的科學家。
   - 莎曼莎·蒂拉(Samansa Tailor)
     配音：[竹村叔子](https://zh.wikipedia.org/wiki/竹村叔子 "wikilink")／港：[陸惠玲](../Page/陸惠玲.md "wikilink")／台：[錢欣-{郁}-](../Page/錢欣郁.md "wikilink")
@@ -366,7 +366,7 @@ GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
   -
 
       -
-        作詞－U-ka、[珠妃](https://zh.wikipedia.org/wiki/珠妃 "wikilink")、tzk／作曲－[秋田博之](https://zh.wikipedia.org/wiki/秋田博之 "wikilink")／歌－[珠妃](https://zh.wikipedia.org/wiki/珠妃 "wikilink")
+        作詞－U-ka、[珠妃](../Page/珠妃.md "wikilink")、tzk／作曲－[秋田博之](https://zh.wikipedia.org/wiki/秋田博之 "wikilink")／歌－[珠妃](../Page/珠妃.md "wikilink")
 
   - 插曲
 
@@ -455,7 +455,7 @@ GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
 田中和次朗</p></td>
 <td><p>北村真咲</p></td>
 <td><p>德本善信</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/門智昭" title="wikilink">門智昭</a></p></td>
+<td><p><a href="../Page/門智昭.md" title="wikilink">門智昭</a></p></td>
 </tr>
 <tr class="even">
 <td><p>#06</p></td>
@@ -744,7 +744,7 @@ GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2012年4月6日－9月21日</p></td>
 <td><p>星期三 12時00分 更新</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
@@ -774,7 +774,7 @@ GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
 <td><p>－</p></td>
 <td><p>UTC+8<br />
 有重播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重縣</a></p></td>

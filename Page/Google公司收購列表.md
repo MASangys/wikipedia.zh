@@ -35,7 +35,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/搜索引擎" title="wikilink">搜索引擎</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/iGoogle.md" title="wikilink">iGoogle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iGoogle" title="wikilink">iGoogle</a></p></td>
 <td><p>[2]</p></td>
 </tr>
 <tr class="odd">
@@ -531,7 +531,7 @@
 <tr class="even">
 <td><p>52</p></td>
 <td></td>
-<td><p><a href="../Page/reCAPTCHA.md" title="wikilink">reCAPTCHA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/reCAPTCHA" title="wikilink">reCAPTCHA</a></p></td>
 <td><p>安全</p></td>
 <td></td>
 <td></td>
@@ -1605,7 +1605,7 @@
 <td><p>音樂串流</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Google_Play.md" title="wikilink">Google Play</a>, <a href="https://zh.wikipedia.org/wiki/Android_TV" title="wikilink">Android TV</a></p></td>
+<td><p><a href="../Page/Google_Play.md" title="wikilink">Google Play</a>, <a href="../Page/Android_TV.md" title="wikilink">Android TV</a></p></td>
 <td><p>[188]</p></td>
 </tr>
 <tr class="even">
@@ -1795,7 +1795,7 @@
 <td><p>环绕声技术</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Google_Cardboard" title="wikilink">Google Cardboard</a></p></td>
+<td><p><a href="../Page/Google_Cardboard.md" title="wikilink">Google Cardboard</a></p></td>
 <td><p>[209]</p></td>
 </tr>
 <tr class="odd">
@@ -1805,7 +1805,7 @@
 <td><p>3D作画</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Google_Cardboard" title="wikilink">Google Cardboard</a></p></td>
+<td><p><a href="../Page/Google_Cardboard.md" title="wikilink">Google Cardboard</a></p></td>
 <td><p>[210]</p></td>
 </tr>
 <tr class="even">

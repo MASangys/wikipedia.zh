@@ -9,7 +9,7 @@
 1.  Pray（[Tommy heavenly<sup>6</sup>](../Page/川瀨智子.md "wikilink")）
 2.  風船ガム
     -銀魂mix-（[キャプテンストライダム](https://zh.wikipedia.org/wiki/キャプテンストライダム "wikilink")）
-3.  [MR.RAINDROP](https://zh.wikipedia.org/wiki/MR.RAINDROP "wikilink")（[amplified](../Page/amplified.md "wikilink")）
+3.  [MR.RAINDROP](https://zh.wikipedia.org/wiki/MR.RAINDROP "wikilink")（[amplified](https://zh.wikipedia.org/wiki/amplified "wikilink")）
 4.  遠い匂い（[YO-KING](https://zh.wikipedia.org/wiki/YO-KING "wikilink")）
 5.  雪のツバサ（[redballoon](https://zh.wikipedia.org/wiki/redballoon "wikilink")）
 6.  キャンディ・ライン（[高橋瞳](../Page/高橋瞳.md "wikilink")）

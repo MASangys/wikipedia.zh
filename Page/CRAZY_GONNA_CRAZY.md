@@ -1,21 +1,22 @@
 《**CRAZY GONNA
-CRAZY**》，是[日本歌舞組合](../Page/日本.md "wikilink")[trf的第](../Page/TRF.md "wikilink")8張[單曲和代表作之一](../Page/單曲.md "wikilink")。1995年1月1日發行。
+CRAZY**》，是[日本歌舞組合](../Page/日本.md "wikilink")[trf的第](../Page/TRF.md "wikilink")8張[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年1月1日發行。
 
 ## 簡介
 
 三個月連續發行單曲的第一彈。
 
-被用作[關西電視台](../Page/關西電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")《[鬼馬小夫妻](../Page/鬼馬小夫妻.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
+被用作[關西電視台](../Page/關西電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[鬼馬小夫妻](https://zh.wikipedia.org/wiki/鬼馬小夫妻 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
 
 連續三張單曲銷量超過百萬，總銷量高達158.7萬張，[日本歷代單曲銷量第66位](../Page/日本最暢銷單曲列表.md "wikilink")。\[1\]是TRF人氣絕頂時期的代表作。1995年度日本單曲銷量第11位。\[2\]
 
 2006年11月29日，廉價版的12cmCD單曲發售。
 
-2007年，由[日本](../Page/日本.md "wikilink")[團體](../Page/團體.md "wikilink")[AAA翻唱](../Page/AAA.md "wikilink")，收錄在CCC
--CHALLENGE COVER COLLECTION-[專輯中](../Page/專輯.md "wikilink")
+2007年，由[日本](../Page/日本.md "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[AAA翻唱](https://zh.wikipedia.org/wiki/AAA "wikilink")，收錄在CCC
+-CHALLENGE COVER
+COLLECTION-[專輯中](https://zh.wikipedia.org/wiki/專輯 "wikilink")
 
 2013年，[東京電視台](../Page/東京電視台.md "wikilink")[卡通](../Page/卡通.md "wikilink")[星光少女
-彩虹舞台第](../Page/星光少女_彩虹舞台.md "wikilink")27-39集之片頭曲，由[Prizmmy☆翻唱](../Page/Prizmmy☆.md "wikilink")，收錄在同名[單曲中](../Page/單曲.md "wikilink")
+彩虹舞台第](../Page/星光少女_彩虹舞台.md "wikilink")27-39集之片頭曲，由[Prizmmy☆翻唱](../Page/Prizmmy☆.md "wikilink")，收錄在同名[單曲中](https://zh.wikipedia.org/wiki/單曲 "wikilink")
 
 ## 收錄曲目
 

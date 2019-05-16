@@ -1,4 +1,4 @@
-**Agalloch**是一支[美国](../Page/美国.md "wikilink")[金属乐队](../Page/金属乐队.md "wikilink")，于1995年成立于[俄勒冈州的](../Page/俄勒冈州.md "wikilink")[波特兰](../Page/波特兰_\(俄勒冈州\).md "wikilink")，其首脑是[主唱兼](../Page/主唱.md "wikilink")[吉他手John](../Page/吉他手.md "wikilink")
+**Agalloch**是一支[美国](../Page/美国.md "wikilink")[金属乐队](../Page/金属乐队.md "wikilink")，于1995年成立于[俄勒冈州的](../Page/俄勒冈州.md "wikilink")[波特兰](https://zh.wikipedia.org/wiki/波特兰_\(俄勒冈州\) "wikilink")，其首脑是[主唱兼](https://zh.wikipedia.org/wiki/主唱 "wikilink")[吉他手John](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
 Haughm，迄今为止已发行过四张限量EP、五张全长专辑、两张Demo、一张合辑、一张精选集以及一张现场DVD。2016年5月14日,吉它手兼主唱John
 Haughm和乐队剩余的成员分道扬辘（Don Anderson，Jason Walton和Aesop Dekker）,乐队的未来尚不确定。
 

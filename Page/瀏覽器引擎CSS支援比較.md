@@ -1,4 +1,4 @@
-以下的表格顯示一些[瀏覽器引擎對於](../Page/排版引擎.md "wikilink")[CSS的兼容性與支援的比較](../Page/CSS.md "wikilink")。想獲得更多訊息，請參照各產品的項目。此項目不見得包含所有的功能也不見得有最新消息。除非以附註指出特例，這裡以未加裝任何套件或是其他程式的穩定版本進行比較。
+以下的表格顯示一些[瀏覽器引擎對於](../Page/排版引擎.md "wikilink")[CSS的兼容性與支援的比較](https://zh.wikipedia.org/wiki/CSS "wikilink")。想獲得更多訊息，請參照各產品的項目。此項目不見得包含所有的功能也不見得有最新消息。除非以附註指出特例，這裡以未加裝任何套件或是其他程式的穩定版本進行比較。
 
 <div class="toclimit-2">
 
@@ -8,7 +8,7 @@ __TOC__
 
 ## CSS版本支援
 
-想了解各版本的CSS差異，請參考項目[CSS](../Page/CSS.md "wikilink")。
+想了解各版本的CSS差異，請參考項目[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 本表格不以CSS2.0為準，因為存在取代它的CSS2.1。CSS2.1修正了部份CSS2.0的錯誤，刪除了不被CSS社區接受的功能。大部分被刪除的功能將會出現在CSS3。
 
 <table>
@@ -20,7 +20,7 @@ __TOC__
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ __TOC__
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -346,7 +346,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -375,7 +375,7 @@ __TOC__
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1196,7 +1196,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1242,7 +1242,7 @@ __TOC__
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1568,7 +1568,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>行排版[43]</p></td>
@@ -1784,7 +1784,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>背景[49]</p></td>
@@ -2270,7 +2270,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>文本装饰[73]</p></td>
@@ -2621,7 +2621,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="even">
 <td><p>換頁媒體[85]</p></td>
@@ -2945,7 +2945,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="even">
 <td><p>媒體查詢[93]</p></td>
@@ -3224,7 +3224,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>動畫[108]</p></td>
@@ -3368,7 +3368,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a>}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a>}</p></td>
 </tr>
 <tr class="odd">
 <td><p>3D變換[113]</p></td>
@@ -3665,7 +3665,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -3716,7 +3716,7 @@ __TOC__
 5.  `background-position` — 1.7以前的版本使用CSS2語法，非CSS2.1的擴充語法。
 6.  `font-size-adjust` — 1.9之前，僅在視窗版支援。
 7.  `font-weight` —
-    就算裝了一個字型的Light或Heavy/Black[字模](../Page/字模.md "wikilink")，除非使用Gecko
+    就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，除非使用Gecko
     2.0在Windows 7或Windows Vista的DirectWrite，僅Regular與Bold會被使用。
 8.  `white-space` —
     1.9.1之前不支援`pre-line`。1.9之前，以`-moz-pre-wrap`實驗性地支援`pre-wrap`的功能。
@@ -3731,7 +3731,7 @@ __TOC__
 
 1.  `font` — 不支援讓設計師根據使用者作業系統呈現結果的系統字型關鍵字。
 2.  `font-weight` —
-    就算裝了一個字型的Light或Heavy/Black[字模](../Page/字模.md "wikilink")，僅Regular與Bold會被使用。
+    就算裝了一個字型的Light或Heavy/Black[字模](https://zh.wikipedia.org/wiki/字模 "wikilink")，僅Regular與Bold會被使用。
 3.  `page-break-before; page-break-after` — 僅支援「`always`」與「`auto`」。
 4.  `white-space` — 522之前，不支援「`pre-line`」與「`pre-wrap`」。
 5.  `visibility` —
@@ -3776,7 +3776,7 @@ __TOC__
 <th><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></th>
 <th><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></th>
 <th><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></th>
-<th><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -3792,7 +3792,7 @@ __TOC__
 <tr class="even">
 <td><p>CSS2</p></td>
 <td><p><number></p></td>
-<td><p><a href="../Page/浮點數.md" title="wikilink">浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浮點數" title="wikilink">浮點數</a></p></td>
 <td><p>rowspan="4" </p></td>
 <td><p>rowspan="4" </p></td>
 <td><p>rowspan="4" </p></td>
@@ -3818,7 +3818,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><integer></p></td>
-<td><p><a href="../Page/整數.md" title="wikilink">整數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/整數" title="wikilink">整數</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3918,7 +3918,7 @@ __TOC__
 <tr class="even">
 <td><p>CSS2</p></td>
 <td><p><code>url()</code></p></td>
-<td><p><a href="../Page/URI.md" title="wikilink">URI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/URI" title="wikilink">URI</a></p></td>
 <td></td>
 <td><p>rowspan="3" </p></td>
 <td><p>rowspan="3" </p></td>
@@ -3963,7 +3963,7 @@ __TOC__
 <tr class="odd">
 <td><p>CSS2</p></td>
 <td><p>HTML4顏色關鍵字</p></td>
-<td><p>16個預定義<a href="../Page/網頁顏色模式.md" title="wikilink">網頁顏色</a></p></td>
+<td><p>16個預定義<a href="https://zh.wikipedia.org/wiki/網頁顏色模式" title="wikilink">網頁顏色</a></p></td>
 <td><p>rowspan="2" </p></td>
 <td><p>rowspan="4" </p></td>
 <td><p>rowspan="4" </p></td>
@@ -3971,7 +3971,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>#rrggbb或#rgb</code></p></td>
-<td><p><a href="../Page/十六進位.md" title="wikilink">十六進位記法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/十六進位" title="wikilink">十六進位記法</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4025,7 +4025,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>hsl(h, s, l)</code></p></td>
-<td><p><a href="../Page/HSL和HSV色彩空間.md" title="wikilink">HSL記法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSL和HSV色彩空間" title="wikilink">HSL記法</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4034,7 +4034,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>hsla(h, s, l, a)</code></p></td>
-<td><p><a href="../Page/HSL和HSV色彩空間.md" title="wikilink">HSLA記法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSL和HSV色彩空間" title="wikilink">HSLA記法</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4042,7 +4042,7 @@ __TOC__
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/#general_transparent.md" title="wikilink"><code>transparent</code></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#general_transparent" title="wikilink"><code>transparent</code></a></p></td>
 <td><p>全<a href="../Page/透明.md" title="wikilink">透明</a></p></td>
 <td></td>
 <td></td>
@@ -4205,7 +4205,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>pc</code></p></td>
-<td><p><a href="../Page/倍卡.md" title="wikilink">倍卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倍卡" title="wikilink">倍卡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4214,7 +4214,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>cm</code></p></td>
-<td><p><a href="../Page/公分.md" title="wikilink">公分</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公分" title="wikilink">公分</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4223,7 +4223,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>mm</code></p></td>
-<td><p><a href="../Page/公釐.md" title="wikilink">公釐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公釐" title="wikilink">公釐</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4241,7 +4241,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>em</code></p></td>
-<td><p><a href="../Page/正方.md" title="wikilink">正方</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/正方" title="wikilink">正方</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4250,7 +4250,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>ex</code></p></td>
-<td><p><a href="../Page/X字高.md" title="wikilink">X字高</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/X字高" title="wikilink">X字高</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4269,7 +4269,7 @@ __TOC__
 <tr class="odd">
 <td><p>CSS3</p></td>
 <td><p><code>deg</code></p></td>
-<td><p><a href="../Page/角度.md" title="wikilink">度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/角度" title="wikilink">度</a></p></td>
 <td><p>rowspan="6" [155]</p></td>
 <td><p>rowspan="3" </p></td>
 <td><p>rowspan="3" </p></td>
@@ -4277,7 +4277,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>grad</code></p></td>
-<td><p><a href="../Page/梯度_(角).md" title="wikilink">梯度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梯度_(角)" title="wikilink">梯度</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4286,7 +4286,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>rad</code></p></td>
-<td><p><a href="../Page/弧度.md" title="wikilink">弧度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/弧度" title="wikilink">弧度</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4295,7 +4295,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>turn</code></p></td>
-<td><p><a href="../Page/轉_(角).md" title="wikilink">轉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/轉_(角)" title="wikilink">轉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4304,7 +4304,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>ms</code></p></td>
-<td><p><a href="../Page/毫秒.md" title="wikilink">毫秒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毫秒" title="wikilink">毫秒</a></p></td>
 <td><p>rowspan="2" [156]</p></td>
 <td><p>rowspan="4" </p></td>
 <td><p>rowspan="4" </p></td>
@@ -4322,7 +4322,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>Hz</code></p></td>
-<td><p><a href="../Page/赫茲.md" title="wikilink">赫茲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赫茲" title="wikilink">赫茲</a></p></td>
 <td><p>rowspan="7" </p></td>
 <td><p>rowspan="2" </p></td>
 <td><p>rowspan="2" </p></td>
@@ -4331,7 +4331,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>kHz</code></p></td>
-<td><p><a href="../Page/千赫.md" title="wikilink">千赫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千赫" title="wikilink">千赫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4340,7 +4340,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>dpi</code></p></td>
-<td><p><a href="../Page/dpi.md" title="wikilink">dpi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/dpi" title="wikilink">dpi</a></p></td>
 <td><p>rowspan="2" </p></td>
 <td><p>rowspan="2" </p></td>
 <td><p>rowspan="2" </p></td>
@@ -4349,7 +4349,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>dpcm</code></p></td>
-<td><p><a href="../Page/dpi.md" title="wikilink">dpcm</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/dpi" title="wikilink">dpcm</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4358,7 +4358,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>dppx</code></p></td>
-<td><p><a href="../Page/dppx.md" title="wikilink">dppx</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/dppx" title="wikilink">dppx</a></p></td>
 <td></td>
 <td></td>
 <td><p>{{?}}</p></td>
@@ -4394,7 +4394,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>vw</code></p></td>
-<td><p><a href="../Page/視口.md" title="wikilink">視口的寬度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/視口" title="wikilink">視口的寬度</a></p></td>
 <td><p>rowspan="3" [158]</p></td>
 <td><p>rowspan="3" [159]</p></td>
 <td><p>rowspan="3" </p></td>
@@ -4403,7 +4403,7 @@ __TOC__
 </tr>
 <tr class="even">
 <td><p><code>vh</code></p></td>
-<td><p><a href="../Page/視口.md" title="wikilink">視口的高度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/視口" title="wikilink">視口的高度</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4412,7 +4412,7 @@ __TOC__
 </tr>
 <tr class="odd">
 <td><p><code>vm</code></p></td>
-<td><p><a href="../Page/視口.md" title="wikilink">視口高度跟寬度小的那個</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/視口" title="wikilink">視口高度跟寬度小的那個</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4435,7 +4435,7 @@ __TOC__
 <td><p><a href="../Page/WebKit.md" title="wikilink">WebKit</a></p></td>
 <td><p><a href="../Page/KHTML.md" title="wikilink">KHTML</a></p></td>
 <td><p><a href="../Page/Presto.md" title="wikilink">Presto</a></p></td>
-<td><p><a href="../Page/Prince_XML.md" title="wikilink">Prince XML</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Prince_XML" title="wikilink">Prince XML</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -4455,7 +4455,7 @@ __TOC__
 
 1.  `rect()` — 8.0之前，不支援用逗號的正確語法。
 2.  `auto` — 在 [Quirks
-    mode](../Page/Quirks_mode.md "wikilink")（IE5模擬模式），`auto`不作用在除了表格元素之外的`margin`屬性上。
+    mode](https://zh.wikipedia.org/wiki/Quirks_mode "wikilink")（IE5模擬模式），`auto`不作用在除了表格元素之外的`margin`屬性上。
 3.  `transparent` — 設`color`屬性為`transparent`則字會呈現為黑色。
 4.  `transparent` — 7.0之前，不支援在邊框上的`transparent`（呈現為實心黑色），且在PNG圖像上被省略。
 
@@ -4467,7 +4467,7 @@ __TOC__
 ### 取值與單位Presto附註
 
 1.  <number> —
-    2.1之前，對於大於20.47的值曾有一個[量子化錯誤](../Page/非交換幾何.md "wikilink")（不只是`em`，其他非像素單位也一樣）。\[161\]
+    2.1之前，對於大於20.47的值曾有一個[量子化錯誤](https://zh.wikipedia.org/wiki/非交換幾何 "wikilink")（不只是`em`，其他非像素單位也一樣）。\[161\]
 2.  `transparent` — 當使用屬性
     `outline-color`時此關鍵字會被忽略。版本2.2之前，同樣的情形也發生在屬性`color`及`text-shadow`。
 

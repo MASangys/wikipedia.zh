@@ -1,7 +1,7 @@
 **B2M Entertainment**成立於2010年，公司名**B2M**全稱**Boss it Music &
-Media**，為韓國藝人經紀公司。總代表吉鐘華（原DSP理事，曾擔任Fin.K.L、[水晶男孩](../Page/水晶男孩.md "wikilink")、SS501、KARA經紀人）、[代表理事姜志勳](../Page/代表理事.md "wikilink")（前國會議員秘書官，前青瓦台行政官）、理事尹祐澤
+Media**，為韓國藝人經紀公司。總代表吉鐘華（原DSP理事，曾擔任Fin.K.L、[水晶男孩](../Page/水晶男孩.md "wikilink")、SS501、KARA經紀人）、[代表理事姜志勳](https://zh.wikipedia.org/wiki/代表理事 "wikilink")（前國會議員秘書官，前青瓦台行政官）、理事尹祐澤
 (前DSP經紀人)、理事金亨國（前[SM
-Entertainment組長](../Page/SM_Entertainment.md "wikilink")）、顧問江東具（現律師）。
+Entertainment組長](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")）、顧問江東具（現律師）。
 
 ## 旗下藝人
 
@@ -15,27 +15,30 @@ Entertainment組長](../Page/SM_Entertainment.md "wikilink")）、顧問江東�
   -
 ### 練習生（與合作）
 
-  - [姜丹尼爾](../Page/姜丹尼爾.md "wikilink") \[1\]（[PRODUCE 101
-    (第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink")、[Wanna
-    One](../Page/Wanna_One.md "wikilink")）
-  - [尹智聖](../Page/尹智聖.md "wikilink") \[2\]（[PRODUCE 101
-    (第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink")、[Wanna
-    One](../Page/Wanna_One.md "wikilink")）
+  - [姜丹尼爾](https://zh.wikipedia.org/wiki/姜丹尼爾 "wikilink") \[1\]（[PRODUCE
+    101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
+    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
+  - [尹智聖](https://zh.wikipedia.org/wiki/尹智聖 "wikilink") \[2\]（[PRODUCE
+    101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
+    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
   - 崔泰熊\[3\]（[PRODUCE 101
-    (第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink")）
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")）
 
 ## 已離開藝人
 
   - [許永生](../Page/許永生.md "wikilink")
-  - [金圭鐘](../Page/金圭鐘.md "wikilink")
+  - [金圭鐘](https://zh.wikipedia.org/wiki/金圭鐘 "wikilink")
   - [SPICA](../Page/SPICA_\(組合\).md "wikilink")
   - [李孝利](../Page/李孝利.md "wikilink")
-  - 朱抮玗 ([PRODUCE 101 (第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink"))
+  - 朱抮玗 ([PRODUCE 101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink"))
 
 ## 已離開練習生
 
   - 金宰漢\[4\]（OneVoices、[PRODUCE 101
-    (第二季)](../Page/PRODUCE_101_\(第二季\).md "wikilink")、WYNN娛樂、Spectrum）
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、WYNN娛樂、Spectrum）
 
 ## 音樂
 

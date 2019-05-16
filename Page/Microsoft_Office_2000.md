@@ -1,10 +1,12 @@
-**Microsoft Office 2000**是[微軟承繼](../Page/微軟.md "wikilink") [Microsoft
-Office 97](../Page/Microsoft_Office_97.md "wikilink")
+**Microsoft Office
+2000**是[微軟承繼](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+[Microsoft Office 97](../Page/Microsoft_Office_97.md "wikilink")
 的辦公室套裝軟體，支援[32位元系統](../Page/32位元.md "wikilink")，相容於
 [Windows 2000](../Page/Windows_2000.md "wikilink") 作業系統。所有 Office 2000
-內包含的軟體都有[物件連結與嵌入的功能](../Page/物件連結與嵌入.md "wikilink")，軟體間的資料可互相轉移。此外，Office
-2000 的[RTM版本是微軟](../Page/軟體版本週期le#RTM.md "wikilink") Office
-系列產品最後一個無添加[產品啟動功能的版本](../Page/產品啟動.md "wikilink")，雖然在[澳洲](../Page/澳洲.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[紐西蘭和](../Page/紐西蘭.md "wikilink")[美國所推出的非](../Page/美國.md "wikilink")[大量授權的更新版](../Page/大量授權.md "wikilink")
+內包含的軟體都有[物件連結與嵌入的功能](https://zh.wikipedia.org/wiki/物件連結與嵌入 "wikilink")，軟體間的資料可互相轉移。此外，Office
+2000 的[RTM版本是微軟](https://zh.wikipedia.org/wiki/軟體版本週期le#RTM "wikilink")
+Office
+系列產品最後一個無添加[產品啟動功能的版本](https://zh.wikipedia.org/wiki/產品啟動 "wikilink")，雖然在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[巴西](../Page/巴西.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[紐西蘭和](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[美國所推出的非](https://zh.wikipedia.org/wiki/美國 "wikilink")[大量授權的更新版](https://zh.wikipedia.org/wiki/大量授權 "wikilink")
 Office 2000 已加入產品啟動的功能，使用者需利用網路進行啟動。
 
 Office 2000 的主流支援已於2004年6月30日結束\[1\]，延伸支援已於2009年7月14日結束\[2\]。
@@ -30,7 +32,7 @@ Office 2000 以五種版本推出\[3\]：
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_Word.md" title="wikilink">Word</a> 2000</p></td>
-<td><p><a href="../Page/文字處理器.md" title="wikilink">文字處理器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文字處理器" title="wikilink">文字處理器</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -39,7 +41,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Microsoft_Excel.md" title="wikilink">Excel</a> 2000</p></td>
-<td><p><a href="../Page/試算表.md" title="wikilink">試算表</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/試算表" title="wikilink">試算表</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -48,7 +50,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_Outlook.md" title="wikilink">Outlook</a> 2000</p></td>
-<td><p><a href="../Page/個人信息管理系統.md" title="wikilink">個人信息管理系統</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/個人信息管理系統" title="wikilink">個人信息管理系統</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -57,7 +59,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Microsoft_PowerPoint.md" title="wikilink">PowerPoint</a> 2000</p></td>
-<td><p><a href="../Page/簡報軟體.md" title="wikilink">簡報軟體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡報軟體" title="wikilink">簡報軟體</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -84,7 +86,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_Access.md" title="wikilink">Access</a> 2000</p></td>
-<td><p><a href="../Page/關聯式資料庫.md" title="wikilink">關聯式資料庫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關聯式資料庫" title="wikilink">關聯式資料庫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -93,7 +95,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Microsoft_FrontPage.md" title="wikilink">FrontPage</a> 2000</p></td>
-<td><p><a href="../Page/HTML編輯器.md" title="wikilink">HTML編輯器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HTML編輯器" title="wikilink">HTML編輯器</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -102,7 +104,7 @@ Office 2000 以五種版本推出\[3\]：
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_PhotoDraw.md" title="wikilink">PhotoDraw</a> 2000</p></td>
-<td><p><a href="../Page/矢量圖.md" title="wikilink">矢量圖和</a><a href="../Page/點陣圖.md" title="wikilink">點陣圖處理軟體</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/矢量圖" title="wikilink">矢量圖和</a><a href="https://zh.wikipedia.org/wiki/點陣圖" title="wikilink">點陣圖處理軟體</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -133,7 +135,7 @@ Office 2000 以五種版本推出\[3\]：
 </center>
 
 Office 2000 內含軟體的版本號與前幾代有所不同，採用四位數數字，以凸顯其與
-[Y2K](../Page/Y2K.md "wikilink") 問題相容的機制。
+[Y2K](https://zh.wikipedia.org/wiki/Y2K "wikilink") 問題相容的機制。
 
 ## Office 2000 彩蛋
 
@@ -146,8 +148,12 @@ Word](../Page/Microsoft_Word.md "wikilink") 則隱藏了軟體製作團隊的名
 
   - [Microsoft MapPoint](../Page/Microsoft_MapPoint.md "wikilink") 2000
   - [Microsoft Project](../Page/Microsoft_Project.md "wikilink") 2000
-  - [Microsoft Visio](../Page/Microsoft_Visio.md "wikilink") 2000
-  - [Microsoft Vizact](../Page/Microsoft_Vizact.md "wikilink") 2000
+  - [Microsoft
+    Visio](https://zh.wikipedia.org/wiki/Microsoft_Visio "wikilink")
+    2000
+  - [Microsoft
+    Vizact](https://zh.wikipedia.org/wiki/Microsoft_Vizact "wikilink")
+    2000
 
 ## 參考資料
 

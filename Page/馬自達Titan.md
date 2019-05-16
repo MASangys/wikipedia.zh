@@ -1,15 +1,15 @@
-**馬自達Titan**（）是一款自1971年迄今由[日本](../Page/日本.md "wikilink")[馬自達汽車公司製造發售的小型和中型平頭式](../Page/馬自達.md "wikilink")（cab
+**馬自達Titan**（）是一款自1971年迄今由[日本](../Page/日本.md "wikilink")[馬自達汽車公司製造發售的小型和中型平頭式](https://zh.wikipedia.org/wiki/馬自達 "wikilink")（cab
 over the
-engine，駕駛室位於引擎上方，故車頭是平的）[卡車](../Page/載貨汽車.md "wikilink")。不過自2004年的第五代起改由[五十鈴汽車以Elf車款](../Page/五十鈴.md "wikilink")[貼牌生產](../Page/貼牌生產.md "wikilink")；而衍生車款Titan
+engine，駕駛室位於引擎上方，故車頭是平的）[卡車](https://zh.wikipedia.org/wiki/載貨汽車 "wikilink")。不過自2004年的第五代起改由[五十鈴汽車以Elf車款](../Page/五十鈴.md "wikilink")[貼牌生產](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")；而衍生車款Titan
 Dash則於同年起委託位於[神奈川縣](../Page/神奈川縣.md "wikilink")[川崎市的](../Page/川崎市.md "wikilink")代為生產。
 
 ## 概要
 
-[第二次世界大戰後百廢待舉](../Page/第二次世界大戰.md "wikilink")，[馬自達](../Page/馬自達.md "wikilink")（當時稱作東洋工業）於1958年4月推出小型四輪貨車[Romper](../Page/馬自達Romper.md "wikilink")，以迎合當時[日本對交通運輸的需求](../Page/日本.md "wikilink")。翌年3月再開發更先進的水冷式直列四缸[OHV引擎](../Page/OHV.md "wikilink")，推出最大馬力46ps、載重能力1[公噸的](../Page/公噸.md "wikilink")「馬自達D1100」，以及最大馬力60ps、載重能力1.75公噸的「馬自達D1500」。這兩款商用車使得[馬自達的](../Page/馬自達.md "wikilink")[市場佔有率大增](../Page/市場佔有率.md "wikilink")，1960年代更推出排氣量加大的「D2000」，載貨能力達2公噸，演變至後來1964年上市的「E2000」\[1\]（也就是**馬自達Titan**的前身）。1967年1月推出的「E2500」是該公司首輛搭載[柴油引擎的車款](../Page/柴油引擎.md "wikilink")，載重力同樣為2公噸，但搭載排氣量2,522c.c.的[XA型柴油引擎](../Page/馬自達柴油引擎#柏金斯引擎.md "wikilink")，附有[博世VM型分配噴射型幫浦](../Page/罗伯特·博世有限公司.md "wikilink")，可輸出最大馬力77ps\[2\]。
+[第二次世界大戰後百廢待舉](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，[馬自達](https://zh.wikipedia.org/wiki/馬自達 "wikilink")（當時稱作東洋工業）於1958年4月推出小型四輪貨車[Romper](../Page/馬自達Romper.md "wikilink")，以迎合當時[日本對交通運輸的需求](../Page/日本.md "wikilink")。翌年3月再開發更先進的水冷式直列四缸[OHV引擎](https://zh.wikipedia.org/wiki/OHV "wikilink")，推出最大馬力46ps、載重能力1[公噸的](../Page/公噸.md "wikilink")「馬自達D1100」，以及最大馬力60ps、載重能力1.75公噸的「馬自達D1500」。這兩款商用車使得[馬自達的](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[市場佔有率大增](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")，1960年代更推出排氣量加大的「D2000」，載貨能力達2公噸，演變至後來1964年上市的「E2000」\[1\]（也就是**馬自達Titan**的前身）。1967年1月推出的「E2500」是該公司首輛搭載[柴油引擎的車款](../Page/柴油引擎.md "wikilink")，載重力同樣為2公噸，但搭載排氣量2,522c.c.的[XA型柴油引擎](https://zh.wikipedia.org/wiki/馬自達柴油引擎#柏金斯引擎 "wikilink")，附有[博世VM型分配噴射型幫浦](https://zh.wikipedia.org/wiki/罗伯特·博世有限公司 "wikilink")，可輸出最大馬力77ps\[2\]。
 
-此款卡車歷年的載重量從1.25噸至4.5噸不等，也推出過[柴油引擎](../Page/柴油引擎.md "wikilink")、[CNG](../Page/CNG.md "wikilink")（壓縮天然氣）[天然氣燃料引擎等版本](../Page/天然氣.md "wikilink")。原本該款車由馬自達獨力設計開發，並於總部所在地的[府中町工廠生產](../Page/府中町.md "wikilink")，不過後來因故中止，改由[五十鈴汽車以Elf車款](../Page/五十鈴.md "wikilink")[OEM代工](../Page/貼牌生產.md "wikilink")。
+此款卡車歷年的載重量從1.25噸至4.5噸不等，也推出過[柴油引擎](../Page/柴油引擎.md "wikilink")、[CNG](https://zh.wikipedia.org/wiki/CNG "wikilink")（壓縮天然氣）[天然氣燃料引擎等版本](https://zh.wikipedia.org/wiki/天然氣 "wikilink")。原本該款車由馬自達獨力設計開發，並於總部所在地的[府中町工廠生產](../Page/府中町.md "wikilink")，不過後來因故中止，改由[五十鈴汽車以Elf車款](../Page/五十鈴.md "wikilink")[OEM代工](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")。
 
-第二代Titan的[電視廣告曾採用](../Page/電視廣告.md "wikilink")[手塚治虫的](../Page/手塚治虫.md "wikilink")[漫畫主角](../Page/漫畫.md "wikilink")[原子小金剛作為產品代言人](../Page/鐵臂阿童木.md "wikilink")，後輪擋泥板上同樣繪製了此一漫畫人物\[3\]。
+第二代Titan的[電視廣告曾採用](../Page/電視廣告.md "wikilink")[手塚治虫的](../Page/手塚治虫.md "wikilink")[漫畫主角](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[原子小金剛作為產品代言人](https://zh.wikipedia.org/wiki/鐵臂阿童木 "wikilink")，後輪擋泥板上同樣繪製了此一漫畫人物\[3\]。
 
 ## 歷史
 
@@ -17,10 +17,10 @@ Dash則於同年起委託位於[神奈川縣](../Page/神奈川縣.md "wikilink"
 
 [1981_Mazda_Titan_(9513319019).jpg](https://zh.wikipedia.org/wiki/File:1981_Mazda_Titan_\(9513319019\).jpg "fig:1981_Mazda_Titan_(9513319019).jpg")\]\]
 1971年以E2500後繼車款之姿推出，搭載的柴油引擎區分成2.7L
-[XB型](../Page/馬自達柴油引擎#直列四缸.md "wikilink")、3.0L
-[HA型與](../Page/馬自達柴油引擎#柏金斯引擎.md "wikilink")4.1L
-[ZB型](../Page/馬自達柴油引擎#V型六缸.md "wikilink")，而外銷版則稱為**馬自達E2700**、**馬自達E3000**和**馬自達E4100**。另外也有2.0L
-[VA型汽油引擎](../Page/馬自達OHV引擎列表#VA型.md "wikilink")，海外版稱為**馬自達E2000**。1977年進行小改款，最大的差別在於車頭進氣壩自中間移往左右二側，並與方向燈組合併，同時頭燈組的方框取消，並將車頭「m」字商標改成「mazda」字樣。電視廣告的主角跟[Bongo一樣是當時的](../Page/馬自達Bongo.md "wikilink")[演員山城新伍](../Page/演員.md "wikilink")\[4\]。[南韓的](../Page/大韓民國.md "wikilink")[起亞汽車曾經在馬自達的授權下以第一代Titan為藍本](../Page/起亞汽車.md "wikilink")，在其國內生產製造同樣名為「Titan」的小型卡車。
+[XB型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")、3.0L
+[HA型與](https://zh.wikipedia.org/wiki/馬自達柴油引擎#柏金斯引擎 "wikilink")4.1L
+[ZB型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#V型六缸 "wikilink")，而外銷版則稱為**馬自達E2700**、**馬自達E3000**和**馬自達E4100**。另外也有2.0L
+[VA型汽油引擎](https://zh.wikipedia.org/wiki/馬自達OHV引擎列表#VA型 "wikilink")，海外版稱為**馬自達E2000**。1977年進行小改款，最大的差別在於車頭進氣壩自中間移往左右二側，並與方向燈組合併，同時頭燈組的方框取消，並將車頭「m」字商標改成「mazda」字樣。電視廣告的主角跟[Bongo一樣是當時的](../Page/馬自達Bongo.md "wikilink")[演員山城新伍](https://zh.wikipedia.org/wiki/演員 "wikilink")\[4\]。[南韓的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[起亞汽車曾經在馬自達的授權下以第一代Titan為藍本](https://zh.wikipedia.org/wiki/起亞汽車 "wikilink")，在其國內生產製造同樣名為「Titan」的小型卡車。
 
 Image:MitiTitanOld11.jpg|後期型車頭 Image:Mazda TITAN I at night front.JPG
 Image:Mazda E 3000 1982
@@ -31,11 +31,11 @@ agi-kubohara01.jpg|前期型車頭
 
 ### 第二代（1980年-1989年）
 
-1980年推出大改款的第二代Titan，動力來源區分成2.5L直列四缸[XA型](../Page/馬自達柴油引擎#柏金斯引擎.md "wikilink")（外銷版稱**T2500**）與4.1L
-V型六缸[ZB型](../Page/馬自達柴油引擎#V型六缸.md "wikilink")（外銷版稱**T4100**）兩種[柴油引擎](../Page/柴油引擎.md "wikilink")，且變速系統設置了原廠稱為「2
+1980年推出大改款的第二代Titan，動力來源區分成2.5L直列四缸[XA型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#柏金斯引擎 "wikilink")（外銷版稱**T2500**）與4.1L
+V型六缸[ZB型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#V型六缸 "wikilink")（外銷版稱**T4100**）兩種[柴油引擎](../Page/柴油引擎.md "wikilink")，且變速系統設置了原廠稱為「2
 way shift」（2ウェイシフト）的副變速箱。除了1984年外，1987年再次小改款，將原本的四顆圓形頭燈改為方形。
 
-此外，從這一代Titan開始，馬自達為美國[福特汽車代工生產名為](../Page/福特汽車.md "wikilink")「福特Trader」的雙生車款；而起亞汽車也曾在馬自達的授權下以第二代Titan為基礎，在韓國境內生產銷售名為「Trade」的小型卡車。
+此外，從這一代Titan開始，馬自達為美國[福特汽車代工生產名為](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")「福特Trader」的雙生車款；而起亞汽車也曾在馬自達的授權下以第二代Titan為基礎，在韓國境內生產銷售名為「Trade」的小型卡車。
 
 Image:FESA Fire Truck LP100.jpg|澳洲的消防車 Image:1984-1987 Mazda
 Titan.jpg|中期型 Image:1987-1989 Mazda Titan.jpg|後期型
@@ -45,8 +45,8 @@ Titan.jpg|中期型 Image:1987-1989 Mazda Titan.jpg|後期型
 ### 第三代（1989年-2000年）
 
 1989年5月大改款的第三代正式推出，載貨量可選擇從1至4噸不等，動力來源可分為3.5L
-[SL型](../Page/馬自達柴油引擎#直列四缸.md "wikilink")（外銷版稱作**馬自達T3500**）和4.0L缸內直噴[TF型](../Page/馬自達柴油引擎#直列四缸.md "wikilink")（外銷版稱作**馬自達T4000**）柴油引擎兩種。除1992年外，1995年第二度小改款，加大車頭的MAZDA廠徽銘牌，且大馬力的車型改搭載4.3L和4.6L
-[TM型引擎](../Page/馬自達柴油引擎#直列四缸.md "wikilink")，而全車系的載貨車斗採用耐侯性較佳的鋼板製成。
+[SL型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")（外銷版稱作**馬自達T3500**）和4.0L缸內直噴[TF型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")（外銷版稱作**馬自達T4000**）柴油引擎兩種。除1992年外，1995年第二度小改款，加大車頭的MAZDA廠徽銘牌，且大馬力的車型改搭載4.3L和4.6L
+[TM型引擎](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")，而全車系的載貨車斗採用耐侯性較佳的鋼板製成。
 
 Image:1995 Mazda T3500 2-door truck (2009-06-07).jpg|II型（1992年-1995年）
 Image:1995-1997_Mazda_Titan.jpg|III型（1995年-1997年10月）
@@ -57,9 +57,10 @@ Image:1997-2000_Mazda_Titan.jpg|IV型（1997年10月-2000年5月）
 ### 第四代（2000年-2004年）
 
 2000年 - 5月25日發表大改款的第四代Titan，動力來源區分成3.0L渦流室式柴油引擎（swirl chamber type
-diesel engine）、4.0L [TF型](../Page/馬自達柴油引擎#直列四缸.md "wikilink")、4.3L
+diesel engine）、4.0L
+[TF型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")、4.3L
 4HF1型、4.6L
-4HG1型缸內直噴柴油引擎等，載貨荷重則從1噸至4.25噸不等。煞車系統經過強化設計，容積3.5至4.25噸、寬車廂車型的後煞車系統採獨立油壓單元，以提升其制動性能。除了駕駛座配有[安全氣囊外](../Page/安全氣囊.md "wikilink")，助手席SRS安全氣囊也在標準車廂、車體型中列為標準配備，客戶訂製的特殊車型則為選購。1.5至2噸載重量的車型裡，前懸吊採用[雙A臂懸吊系統](../Page/雙A臂懸吊系統.md "wikilink")，前下穩定拉桿則具有高剛性，且轉向系統為齒條與小齒輪式轉向（rack
+4HG1型缸內直噴柴油引擎等，載貨荷重則從1噸至4.25噸不等。煞車系統經過強化設計，容積3.5至4.25噸、寬車廂車型的後煞車系統採獨立油壓單元，以提升其制動性能。除了駕駛座配有[安全氣囊外](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，助手席SRS安全氣囊也在標準車廂、車體型中列為標準配備，客戶訂製的特殊車型則為選購。1.5至2噸載重量的車型裡，前懸吊採用[雙A臂懸吊系統](https://zh.wikipedia.org/wiki/雙A臂懸吊系統 "wikilink")，前下穩定拉桿則具有高剛性，且轉向系統為齒條與小齒輪式轉向（rack
 and pinion steering）。同年11月追加CNG車型，利用壓縮天然氣（compressed natural
 gas）作為燃料來源，兼具環保意識。
 
@@ -70,11 +71,11 @@ Image:Mazdatitan.jpg|車頭
 #### Titan Dash（2000年-2010年）
 
 **Titan Dash**（）於2000年10月25日正式發售，用以接替[Bongo Brawny
-Truck車型的位置](../Page/馬自達Bongo#SR型（1983年至1999年）/_SD型（1983年至2000年）.md "wikilink")。該款車的車體與主要元件和Titan相同，不過載貨量限定為1至1.5噸，屬於小型卡車。載貨車斗分成全木製、木頭加鋼鐵製及全鋼製三種，全木製車斗床面長3,120mm、寬1,620mm、高380mm。驅動方式可分成標準型車體的二輪驅動及加長型的[四輪驅動](../Page/四輪驅動.md "wikilink")，其中二輪驅動型更可選購雙車廂式。動力來源除了2.0L汽油引擎（最大馬力100ps
+Truck車型的位置](https://zh.wikipedia.org/wiki/馬自達Bongo#SR型（1983年至1999年）/_SD型（1983年至2000年） "wikilink")。該款車的車體與主要元件和Titan相同，不過載貨量限定為1至1.5噸，屬於小型卡車。載貨車斗分成全木製、木頭加鋼鐵製及全鋼製三種，全木製車斗床面長3,120mm、寬1,620mm、高380mm。驅動方式可分成標準型車體的二輪驅動及加長型的[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，其中二輪驅動型更可選購雙車廂式。動力來源除了2.0L汽油引擎（最大馬力100ps
 / 5,000rpm、最大扭力155N･m / 2,500rpm）及2.0L
-[馬自達柴油引擎\#RF型柴油引擎附](../Page/馬自達柴油引擎#RF型.md "wikilink")[柴油碳微粒濾清器](../Page/柴油碳微粒濾清器.md "wikilink")（最大馬力88ps
+[馬自達柴油引擎\#RF型柴油引擎附](https://zh.wikipedia.org/wiki/馬自達柴油引擎#RF型 "wikilink")[柴油碳微粒濾清器](../Page/柴油碳微粒濾清器.md "wikilink")（最大馬力88ps
 / 4,000rpm、最大扭力169N･m /
-1,700rpm）外，也有[LPG油氣雙燃料](../Page/液化石油氣.md "wikilink")（liquefied
+1,700rpm）外，也有[LPG油氣雙燃料](https://zh.wikipedia.org/wiki/液化石油氣 "wikilink")（liquefied
 petroleum gas）引擎（最大馬力80ps / 5,000rpm、最大扭力147N･m /
 2,500rpm）可供選擇。前輪[懸吊系統為A臂式懸吊](../Page/懸吊系統.md "wikilink")，後輪則為板葉彈簧式（leaf
 spring）。
@@ -108,7 +109,7 @@ Image:5th generation Mazda TITAN TRUCK rear.JPG|車尾
 Auto-Shift），更配備了同級車首創的[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")（Idling Stop
 & Start System），可在停車時使引擎進入停機狀態，待入檔起步再自行點火，大幅減少油耗。
 
-全車系提供3至8噸不等的荷重量，另外依據各行業相異的屬性，原廠也接受特殊車輛訂製，譬如砂石車、拖吊車、冷凍貨車、[消防車](../Page/消防車.md "wikilink")、車輛運送車等。考量到司機師傅時常必須暫時離開貨車送貨，[晶片防盜系統也被納入標準配備中](../Page/發動機防盗鎖止系统.md "wikilink")。
+全車系提供3至8噸不等的荷重量，另外依據各行業相異的屬性，原廠也接受特殊車輛訂製，譬如砂石車、拖吊車、冷凍貨車、[消防車](../Page/消防車.md "wikilink")、車輛運送車等。考量到司機師傅時常必須暫時離開貨車送貨，[晶片防盜系統也被納入標準配備中](https://zh.wikipedia.org/wiki/發動機防盗鎖止系统 "wikilink")。
 
 2011年 - 6月16日進行部份改良，全車系改以一具新開發之3.0L
 4JJ1型柴油引擎，搭配二段式[渦輪增壓系統](../Page/渦輪增壓器.md "wikilink")，使得最大馬力輸出150ps、最大扭力375N·m。該具引擎採高壓共軌噴射系統，且安裝EGR廢氣再循環裝置（exhaust

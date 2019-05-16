@@ -1,5 +1,5 @@
 **Google
-Squared**是[Google公司研发的一款](../Page/Google公司.md "wikilink")[语义检索服务](../Page/语义检索.md "wikilink")\[1\]。
+Squared**是[Google公司研发的一款](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[语义检索服务](https://zh.wikipedia.org/wiki/语义检索 "wikilink")\[1\]。
 于2009年5月12日发布，并于2009年6月3日在[Google實驗室推出](../Page/Google實驗室.md "wikilink")。Squared在Google的纽约办事处研发。\[2\]该服务已于2011年9月5日被关闭。
 
 ## 参见

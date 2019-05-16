@@ -178,7 +178,7 @@ REED」（），而且還出現人事變動：由佐藤俊彥出任[董事長的
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超時空遊俠" title="wikilink">超時空遊俠</a></p></td>
+<td><p><a href="../Page/超時空遊俠.md" title="wikilink">超時空遊俠</a></p></td>
 <td><p>～</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:たいむとらぶるトンデケマン!" title="wikilink">たいむとらぶるトンデケマン!</a></p></td>
 <td><p>1989-1990</p></td>

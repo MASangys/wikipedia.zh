@@ -23,8 +23,8 @@ Sense](../Page/HTC_Sense.md "wikilink")™ 介面。
     [高通Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
     Snapdragon 7230 800MHz 處理器\[2\]
   - 儲存空間( [ROM](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink"))： 1.5GB
-  - 儲存空間([microSD](../Page/microSD.md "wikilink"))：最高支援至32GB SDHC (相容SD
-    2.0)
+  - 儲存空間([microSD](https://zh.wikipedia.org/wiki/microSD "wikilink"))：最高支援至32GB
+    SDHC (相容SD 2.0)
   - 記憶體([RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink"))：512MB
   - 電池：1300mAh
     可充電[鋰離子電池](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")，型號HTC
@@ -45,7 +45,7 @@ Sense](../Page/HTC_Sense.md "wikilink")™ 介面。
   - 物理感應器：重力感應器 (G-Sensor)、數位羅盤、趨近感應器及環境光線感應器
   - 定位裝置：內建[GPS晶片](https://zh.wikipedia.org/wiki/GPS "wikilink")、亦有[AGPS功能](https://zh.wikipedia.org/wiki/AGPS "wikilink")
   - 多媒體
-      - FM收音機(需連接耳機)、相片瀏覽、音樂與影片播放及[Youtube影片播放](../Page/Youtube.md "wikilink")
+      - FM收音機(需連接耳機)、相片瀏覽、音樂與影片播放及[Youtube影片播放](https://zh.wikipedia.org/wiki/Youtube "wikilink")
         (最高可支援播放HQ影片)
       - 5百萬畫素照相、720p影片錄影及錄音
 

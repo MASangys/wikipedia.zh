@@ -22,7 +22,7 @@
 
 杉菜無意間看到類和那個賊人握手，懷疑「F4」其他三人都在聯合欺騙他們，但是司不願意懷疑朋友。取回了皇冠，杉菜和司登上飛機踏上返程。他們喝了一杯飲品之後被迷暈，皇冠再次被偷走，飛機也不是飛回日本，而是把兩人扔到一個[無人荒島上](../Page/無人島.md "wikilink")。
 
-在無人島上，兩人一邊過著原始的生活，一邊等待救援。經歷了種種磨難的兩人終於明白對方對於自己的重要性。一個多月後，同樣是綁架他們的那班人用飛機把他們接回了日本。兩人見到一位神秘的老年紳士（[北大路欣也](https://zh.wikipedia.org/wiki/北大路欣也 "wikilink")
+在無人島上，兩人一邊過著原始的生活，一邊等待救援。經歷了種種磨難的兩人終於明白對方對於自己的重要性。一個多月後，同樣是綁架他們的那班人用飛機把他們接回了日本。兩人見到一位神秘的老年紳士（[北大路欣也](../Page/北大路欣也.md "wikilink")
 飾），他告知兩人所謂的皇冠「維納斯的微笑」根本就不存在，所作的一切都是為了考驗兩人的感情。而幕後的主使者是杉菜的雙親，他們因為不放心兩人是否會獲得幸福，因而拜託楓，楓又拜託那位紳士做了這些事情。
 
 兩人被再次迷暈，被帶到[惠比壽花園廣場](https://zh.wikipedia.org/wiki/惠比壽花園廣場 "wikilink")，舉行神聖的[婚禮](https://zh.wikipedia.org/wiki/婚禮 "wikilink")。類化身為為[神父](https://zh.wikipedia.org/wiki/神父 "wikilink")，見證兩人的婚姻宣誓。
@@ -43,7 +43,7 @@
   - 松岡優紀：[西原亞希](https://zh.wikipedia.org/wiki/西原亞希 "wikilink")
   - 西田：[大衛伊東](https://zh.wikipedia.org/wiki/大衛伊東 "wikilink")
   - 內田健：[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")
-  - Sonny：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")
+  - Sonny：[AKIRA](../Page/AKIRA.md "wikilink")
   - 玉：[佐佐木澄江](../Page/佐佐木澄江.md "wikilink")
   - 情報節目主持人：[三雲孝江](https://zh.wikipedia.org/wiki/三雲孝江 "wikilink")
   - 新聞主播：[小林麻耶](https://zh.wikipedia.org/wiki/小林麻耶 "wikilink")（TBS）
@@ -52,7 +52,7 @@
   - 記者：[田口浩正](https://zh.wikipedia.org/wiki/田口浩正 "wikilink")
   - 乘務員：[Becky](https://zh.wikipedia.org/wiki/Becky_\(日本藝人\) "wikilink")
   - 逛家電賣場的顧客：[高橋恭司](https://zh.wikipedia.org/wiki/高橋恭司 "wikilink")
-  - 謎之紳士：[北大路欣也](https://zh.wikipedia.org/wiki/北大路欣也 "wikilink")（特別演出）
+  - 謎之紳士：[北大路欣也](../Page/北大路欣也.md "wikilink")（特別演出）
   - 鏑木和：[藤木直人](../Page/藤木直人.md "wikilink")\[1\]
   - 牧野進：[富浦智嗣](../Page/富浦智嗣.md "wikilink")
   - 牧野晴男：[小林進](https://zh.wikipedia.org/wiki/小林進 "wikilink")
@@ -74,13 +74,13 @@
 
 <!-- end list -->
 
-  - 插曲：[aiko](../Page/aiko.md "wikilink")《[KissHug](../Page/KissHug.md "wikilink")》（[PONY
+  - 插曲：[aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")《[KissHug](../Page/KissHug.md "wikilink")》（[PONY
     CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")）
 
 <!-- end list -->
 
   -
-    電影中後段，杉菜在荒島上苦苦尋找「土星項鍊」時響起的插曲。著名女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko所演唱](../Page/aiko.md "wikilink")。aiko本人是《流星花園》漫畫和電視劇的忠實愛好者。\[6\]
+    電影中後段，杉菜在荒島上苦苦尋找「土星項鍊」時響起的插曲。著名女性[創作歌手](../Page/創作歌手.md "wikilink")[aiko所演唱](https://zh.wikipedia.org/wiki/aiko "wikilink")。aiko本人是《流星花園》漫畫和電視劇的忠實愛好者。\[6\]
     歌曲原題為「杉菜的主題曲」\[7\]，後改為此名。
 
 ## DVD

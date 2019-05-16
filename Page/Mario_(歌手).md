@@ -1,8 +1,8 @@
-**馬里歐·德沃·巴瑞特**（，）\[1\]，以其藝名**Mario**知名，是美國[R\&B歌手](../Page/R&B.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[演员](../Page/演员.md "wikilink")、模特、舞者及慈善家。他的知名歌曲包括2002年的“Just
+**馬里歐·德沃·巴瑞特**（，）\[1\]，以其藝名**Mario**知名，是美國[R\&B歌手](https://zh.wikipedia.org/wiki/R&B "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[演员](https://zh.wikipedia.org/wiki/演员 "wikilink")、模特、舞者及慈善家。他的知名歌曲包括2002年的“Just
 a Friend
 2002”，2004年為他獲得兩項《[公告牌](../Page/告示牌_\(雜誌\).md "wikilink")》雜誌大獎的“Let
 Me Love
-You”，另外他還出演了電影[舞出真我和](../Page/舞出真我.md "wikilink")《[街头日记](../Page/街頭日記_\(電影\).md "wikilink")》。他共有五張專辑面世。在2000年首个10年结束之繼，《公告牌》雜誌的“十年藝人”榜单中，馬里歐位列第98名。\[2\]
+You”，另外他還出演了電影[舞出真我和](../Page/舞出真我.md "wikilink")《[街头日记](https://zh.wikipedia.org/wiki/街頭日記_\(電影\) "wikilink")》。他共有五張專辑面世。在2000年首个10年结束之繼，《公告牌》雜誌的“十年藝人”榜单中，馬里歐位列第98名。\[2\]
 
 ## 早期生活
 
@@ -26,25 +26,25 @@ I”，並開始錄製專輯。
 
 ## 电影出演
 
-| 年份   | 片名                                        | 角色           | 注释  |
-| ---- | ----------------------------------------- | ------------ | --- |
-|      |                                           |              |     |
-| 2006 | [舞出真我](../Page/舞出真我.md "wikilink")        | Miles Darby  | 主演  |
-| 2007 | [街头日记](../Page/街頭日記_\(電影\).md "wikilink") | Andre Bryant | 主演  |
-| 2007 | Uncle P                                   | 本人           | 小角色 |
-| 2012 | Destination Fame                          | Wizzy        | 主演  |
+| 年份   | 片名                                                           | 角色           | 注释  |
+| ---- | ------------------------------------------------------------ | ------------ | --- |
+|      |                                                              |              |     |
+| 2006 | [舞出真我](../Page/舞出真我.md "wikilink")                           | Miles Darby  | 主演  |
+| 2007 | [街头日记](https://zh.wikipedia.org/wiki/街頭日記_\(電影\) "wikilink") | Andre Bryant | 主演  |
+| 2007 | Uncle P                                                      | 本人           | 小角色 |
+| 2012 | Destination Fame                                             | Wizzy        | 主演  |
 
 ## 影集出演
 
-| Year         | Title                                                                                              | Role                        | Notes                                                         |
-| ------------ | -------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------- |
-| 2003         | *[One on One](../Page/One_on_One_\(TV_series\).md "wikilink")*                                     | Himself                     | Episode: “The Test”                                           |
-| 2003         | *[Sabrina, the Teenage Witch](../Page/Sabrina_the_Teenage_Witch_\(1996_TV_series\).md "wikilink")* | Himself                     | Episode: “What a Witch Wants“<small>(Uncredited)</small>\[3\] |
-| 2005         | *[All of Us](../Page/All_of_Us_\(TV_series\).md "wikilink")*                                       | Himself                     | Episode: “Movin’ on Up”                                       |
-| 2008         | *[Dancing with the Stars](../Page/Dancing_with_the_Stars_\(U.S._season_6\).md "wikilink")*         | Himself                     | Contestant <small>(Eliminated 8th)</small>                    |
-| 2014         | *Love That Girl\!*                                                                                 | Terrence                    | Guest role                                                    |
-| 2018—present | *[Empire](../Page/Empire_\(2015_TV_series\).md "wikilink")*                                        | Devon                       | Guest/Recurring role                                          |
-| 2019         | *[Rent: Live](../Page/Rent:_Live.md "wikilink")*                                                   | Benjamin "Benny" Coffin III | Main role                                                     |
+| Year         | Title                                                                                                                 | Role                        | Notes                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------- |
+| 2003         | *[One on One](https://zh.wikipedia.org/wiki/One_on_One_\(TV_series\) "wikilink")*                                     | Himself                     | Episode: “The Test”                                           |
+| 2003         | *[Sabrina, the Teenage Witch](https://zh.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_\(1996_TV_series\) "wikilink")* | Himself                     | Episode: “What a Witch Wants“<small>(Uncredited)</small>\[3\] |
+| 2005         | *[All of Us](https://zh.wikipedia.org/wiki/All_of_Us_\(TV_series\) "wikilink")*                                       | Himself                     | Episode: “Movin’ on Up”                                       |
+| 2008         | *[Dancing with the Stars](https://zh.wikipedia.org/wiki/Dancing_with_the_Stars_\(U.S._season_6\) "wikilink")*         | Himself                     | Contestant <small>(Eliminated 8th)</small>                    |
+| 2014         | *Love That Girl\!*                                                                                                    | Terrence                    | Guest role                                                    |
+| 2018—present | *[Empire](https://zh.wikipedia.org/wiki/Empire_\(2015_TV_series\) "wikilink")*                                        | Devon                       | Guest/Recurring role                                          |
+| 2019         | *[Rent: Live](https://zh.wikipedia.org/wiki/Rent:_Live "wikilink")*                                                   | Benjamin "Benny" Coffin III | Main role                                                     |
 
 ## 参考资料
 

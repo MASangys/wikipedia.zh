@@ -6,8 +6,8 @@
 12》的首张截屏出炉，截屏的主要内容是巴西中场球星[卡卡在球场上奔跑](../Page/卡卡.md "wikilink")。\[2\]5月，EA宣布推出[Nintendo
 3DS版本](https://zh.wikipedia.org/wiki/Nintendo_3DS "wikilink")，其中包括生涯模式、11人对11人模式、街头模式和Be
 a Pro模式，但没有在线模式。5月27日，《FIFA 12》被证实将推出[PlayStation
-2版本](../Page/PlayStation_2.md "wikilink")。6月7日EA确认[iPhone](../Page/iPhone.md "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
-Touch也将被囊括进来](../Page/iPod_Touch.md "wikilink")，其他设备的版本将在随后几个月发布。7月11日，生涯模式的照片被公布。\[3\]2011年9月13日发布试玩版。9月27日在美国正式发行。9月30日在欧洲正式发行。
+2版本](../Page/PlayStation_2.md "wikilink")。6月7日EA确认[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
+Touch也将被囊括进来](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")，其他设备的版本将在随后几个月发布。7月11日，生涯模式的照片被公布。\[3\]2011年9月13日发布试玩版。9月27日在美国正式发行。9月30日在欧洲正式发行。
 
 《FIFA
 12》是《FIFA》系列中首个使用了[阿拉伯语解说的版本](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")。[捷克足球甲级联赛和](../Page/捷克足球甲级联赛.md "wikilink")[土耳其足球超级联赛双双告别游戏](../Page/土耳其足球超级联赛.md "wikilink")（只有土耳其的[加拉塔萨雷足球俱乐部仍被保留](https://zh.wikipedia.org/wiki/加拉塔萨雷足球俱乐部 "wikilink")），而阿根廷的[-{zh-hans:阿韦亚内达竞赛俱乐部;

@@ -1,5 +1,5 @@
 《**鋼鐵雄心II: 鐵十字**》（*Hearts of Iron II: Iron
-Cross*）是由製作[mod34組成的工作組](../Page/mod34.md "wikilink")[Irshappa所開發出來的一個擴展包](../Page/Irshappa.md "wikilink")，並於2010年10月7日放出於遊戲網站線上購買下載。該擴展包增加了數省地圖以及眾多其他增補。
+Cross*）是由製作[mod34組成的工作組](https://zh.wikipedia.org/wiki/mod34 "wikilink")[Irshappa所開發出來的一個擴展包](https://zh.wikipedia.org/wiki/Irshappa "wikilink")，並於2010年10月7日放出於遊戲網站線上購買下載。該擴展包增加了數省地圖以及眾多其他增補。
 
 ## 新的改變
 
@@ -10,7 +10,7 @@ Cross*）是由製作[mod34組成的工作組](../Page/mod34.md "wikilink")[Irsh
   - 新的單位和加強旅，包括特殊部隊、步兵團、重砲等更多全新單位。
   - 新的AI提供更多選擇與深入遊戲。
   - 全新的1933、1934劇本比起舊的劇本更能適應《鐵十字》的系統。
-  - 可兼容安裝於《[鋼鐵雄心II：最終決戰](../Page/鋼鐵雄心II：最終決戰.md "wikilink")》、《[民主兵工廠](../Page/民主兵工廠.md "wikilink")》與《[黑暗時刻](../Page/鋼鐵雄心:黑暗時刻.md "wikilink")》。
+  - 可兼容安裝於《[鋼鐵雄心II：最終決戰](https://zh.wikipedia.org/wiki/鋼鐵雄心II：最終決戰 "wikilink")》、《[民主兵工廠](../Page/民主兵工廠.md "wikilink")》與《[黑暗時刻](https://zh.wikipedia.org/wiki/鋼鐵雄心:黑暗時刻 "wikilink")》。
 
 ## 外部連結
 

@@ -1,5 +1,5 @@
-《**MySecret**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋](../Page/鄧紫棋.md "wikilink")[G.E.M.推出的第三張](../Page/G.E.M..md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，風格主要是[節奏藍調](../Page/節奏藍調.md "wikilink")、[靈魂樂和](../Page/靈魂樂.md "wikilink")[Rock
-ballad](../Page/:en:Rock_ballad.md "wikilink")。平裝版原本於2010年10月28日發行，但由於運送問題，專輯於10月29日才正式於唱片店發售\[1\]，而限量紀念版《**MySecret
+《**MySecret**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")[G.E.M.推出的第三張](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，風格主要是[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[靈魂樂和](../Page/靈魂樂.md "wikilink")[Rock
+ballad](https://zh.wikipedia.org/wiki/:en:Rock_ballad "wikilink")。平裝版原本於2010年10月28日發行，但由於運送問題，專輯於10月29日才正式於唱片店發售\[1\]，而限量紀念版《**MySecret
 BOX
 SET**》於11月1日推出\[2\]。首個《**MySecret**》專輯簽唱會則於11月14日在[海港城舉行](../Page/海港城.md "wikilink")。\[3\]
 
@@ -13,10 +13,11 @@ You**》於專輯發行前已經派台。鄧紫棋參與全碟填詞，其中6�
 《**MySecret Box
 Set**》為《**MySecret**》的限量特別版，原本預計與平裝版同步上市，但由於需求數量遠超於預期，所以推出日期延遲至11月1日。《**MySecret
 BOX SET**》內除了包含《**MySecret**》專輯外，還附贈『MySecret
-秘密日記』、『秘密影像[DVD](../Page/DVD.md "wikilink")』、環保紙製[錢包及](../Page/錢包.md "wikilink")**The
-Voice Within** [Webcam-V](../Page/Webcam-V.md "wikilink")
+秘密日記』、『秘密影像[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")』、環保紙製[錢包及](https://zh.wikipedia.org/wiki/錢包 "wikilink")**The
+Voice Within**
+[Webcam-V](https://zh.wikipedia.org/wiki/Webcam-V "wikilink")
 Kit。DVD收錄唱片製作花絮、訪問及**Good to be Bad**
-[MV](../Page/MV.md "wikilink")。\[5\]
+[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。\[5\]
 
 ## 歌曲介紹
 
@@ -57,7 +58,7 @@ II**」是一首寫給上帝的歌，感謝神永遠在她身邊幫助她。
 </tr>
 <tr class="even">
 <td><p>The Voice Within</p></td>
-<td><p><a href="../Page/比爾賈.md" title="wikilink">比爾賈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比爾賈" title="wikilink">比爾賈</a></p></td>
 <td><p>2011年3月16日</p></td>
 <td></td>
 </tr>

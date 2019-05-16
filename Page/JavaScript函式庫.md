@@ -1,4 +1,4 @@
-**JavaScript函式庫**是指用於[Javascript語言開發的](../Page/Javascript.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，多應用在網頁[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")、[AJAX](../Page/AJAX.md "wikilink")、[CSS的領域](https://zh.wikipedia.org/wiki/CSS "wikilink")，可以幫助網頁開發者用更快速地撰寫網頁，例如有些JavaScript函式庫提供精簡化的[DOM操作函數或解決跨](https://zh.wikipedia.org/wiki/DOM "wikilink")[瀏覽器問題等](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
+**JavaScript函式庫**是指用於[Javascript語言開發的](https://zh.wikipedia.org/wiki/Javascript "wikilink")[函式庫](../Page/函式庫.md "wikilink")，多應用在網頁[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")、[AJAX](../Page/AJAX.md "wikilink")、[CSS的領域](https://zh.wikipedia.org/wiki/CSS "wikilink")，可以幫助網頁開發者用更快速地撰寫網頁，例如有些JavaScript函式庫提供精簡化的[DOM操作函數或解決跨](https://zh.wikipedia.org/wiki/DOM "wikilink")[瀏覽器問題等](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
 
 ## 常見JavaScript函式庫列表
 
@@ -32,8 +32,8 @@
   - [Joose](https://zh.wikipedia.org/wiki/Joose "wikilink")
   - [JWee Javascript
     Toolkit](https://zh.wikipedia.org/wiki/JWee_Javascript_Toolkit "wikilink")
-  - [jQuery](../Page/jQuery.md "wikilink")
-  - [jQuery UI](../Page/jQuery_UI.md "wikilink")
+  - [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
+  - [jQuery UI](https://zh.wikipedia.org/wiki/jQuery_UI "wikilink")
   - [jsDraw2D](https://zh.wikipedia.org/wiki/jsDraw2D "wikilink")
   - [Knockout](https://zh.wikipedia.org/wiki/Knockout "wikilink")
   - [Lively
@@ -82,7 +82,7 @@
 
 ## 相關條目
 
-  - [Javascript](../Page/Javascript.md "wikilink")
+  - [Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink")
   - [ECMAScript](../Page/ECMAScript.md "wikilink")
   - [網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")
 

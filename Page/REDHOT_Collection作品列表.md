@@ -148,8 +148,7 @@ Angel〉有所重疊](../Page/Sky_High_Entertainment作品列表.md "wikilink")�
   - Red Hot Jam Vol.098
     [桜井りあ](https://zh.wikipedia.org/wiki/桜井りあ "wikilink")
   - Red Hot Jam Vol.099 飯島なつき
-  - Red Hot Jam Vol.100
-    [中森玲子](https://zh.wikipedia.org/wiki/中森玲子 "wikilink")
+  - Red Hot Jam Vol.100 [中森玲子](../Page/中森玲子.md "wikilink")
   - Red Hot Jam Vol.101 金髪ギャル４人
   - Red Hot Jam Vol.102 愛音ゆう
   - Red Hot Jam Vol.103 未来
@@ -297,7 +296,8 @@ Angel〉有所重疊](../Page/Sky_High_Entertainment作品列表.md "wikilink")�
     [朝倉ことみ](https://zh.wikipedia.org/wiki/朝倉ことみ "wikilink")
   - Red Hot Jam Vol.210
     [優木モナ](https://zh.wikipedia.org/wiki/優木モナ "wikilink")
-  - Red Hot Jam Vol.211 [Rica](../Page/Rica.md "wikilink")
+  - Red Hot Jam Vol.211
+    [Rica](https://zh.wikipedia.org/wiki/Rica "wikilink")
   - Red Hot Jam Vol.212 町村小夜子
   - Red Hot Jam Vol.213
     [麻倉まみ](https://zh.wikipedia.org/wiki/麻倉まみ "wikilink")

@@ -2,7 +2,8 @@
 
 開演初期的[宣傳口號為](https://zh.wikipedia.org/wiki/宣傳口號 "wikilink")**「當火戀上水」**、**「名為至高的奇蹟」**。
 
-[NTT docomo為本表演之贊助企業](../Page/NTT_DoCoMo.md "wikilink")。
+[NTT
+docomo為本表演之贊助企業](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")。
 
 ## 概要
 

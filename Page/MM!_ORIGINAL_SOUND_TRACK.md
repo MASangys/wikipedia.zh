@@ -1,9 +1,9 @@
 『**MM\! ORIGINAL SOUND
-TRACK**』（）是[電視動畫](../Page/電視動畫.md "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](../Page/原聲音樂.md "wikilink")。2010年12月22日由[GloryHeaven發售](../Page/GloryHeaven.md "wikilink")。
+TRACK**』（）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。2010年12月22日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")。
 
 ## 概要
 
-  - [電視動畫](../Page/電視動畫.md "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](../Page/原聲音樂.md "wikilink")。收錄了劇中使用的[BGM和](../Page/背景音樂.md "wikilink")[主題歌等](../Page/主題歌.md "wikilink")。
+  - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。收錄了劇中使用的[BGM和](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")[主題歌等](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。
   - CD封面是石動美緒、結野嵐子的畫像。
   - BGM的作曲家是[橋本由香利親手作](../Page/橋本由香利.md "wikilink")。
 

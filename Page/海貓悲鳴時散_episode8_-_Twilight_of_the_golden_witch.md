@@ -1,5 +1,5 @@
 《**海貓悲鳴時散 episode8 - Twilight of the golden
-witch**》是[日本](../Page/日本.md "wikilink")[同人社團](../Page/同人.md "wikilink")[07th
+witch**》是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
 Expansion所製作的同人遊戲](../Page/07th_Expansion.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第八作和該系列的完結篇\[1\]。遊戲於2010年冬季的Comic
 Market79發表。
 

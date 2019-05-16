@@ -1,15 +1,15 @@
 **i·UniQ**是[新鴻基地產於](../Page/新鴻基地產.md "wikilink")2011年推出的一個住宅系列，以「盛放生活」為[品牌主題](../Page/品牌.md "wikilink")。i·UniQ旗下現時暫有兩個項目，分別為[i·UniQ
-譽都](../Page/i·UniQ_譽都.md "wikilink")
+譽都](https://zh.wikipedia.org/wiki/i·UniQ_譽都 "wikilink")
 ([英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），及[i·UniQ
-譽·東](../Page/i·UniQ_譽·東.md "wikilink") (英文：）。
+譽·東](https://zh.wikipedia.org/wiki/i·UniQ_譽·東 "wikilink") (英文：）。
 兩個項目皆位於港島東，新鴻基地產表示下一個**i·UniQ**項目，將會是港島[西區卑路乍街](https://zh.wikipedia.org/wiki/西區_\(香港\) "wikilink")97號\[1\]。
 
 ## 簡介
 
 i·UniQ的目標買家為一群「有能力」的用家及投資者。UniQ意指i am UniQ
 （unique，我是獨特的）。[新鴻基地產於推售](../Page/新鴻基地產.md "wikilink")[i·UniQ
-譽都](../Page/i·UniQ_譽都.md "wikilink")（i·UniQ Residence）時，創立I am
-UniQ創刊號，並於各個市區熱點及售樓處派發。
+譽都](https://zh.wikipedia.org/wiki/i·UniQ_譽都 "wikilink")（i·UniQ
+Residence）時，創立I am UniQ創刊號，並於各個市區熱點及售樓處派發。
 
 ## i·UniQ 譽都
 

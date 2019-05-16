@@ -1,25 +1,25 @@
-**CC-Link**是一個開放式架構的工業[現場總線協定](../Page/現場總線.md "wikilink")，允許不同廠商的設備依此協定進行通訊。主要用在製造產業中的機器控制或[程序控制中](../Page/程序控制.md "wikilink")，也使用在設備管理及[智能建築系統中](../Page/智能建築.md "wikilink")。
+**CC-Link**是一個開放式架構的工業[現場總線協定](../Page/現場總線.md "wikilink")，允許不同廠商的設備依此協定進行通訊。主要用在製造產業中的機器控制或[程序控制中](https://zh.wikipedia.org/wiki/程序控制 "wikilink")，也使用在設備管理及[智能建築系統中](https://zh.wikipedia.org/wiki/智能建築 "wikilink")。
 
 CC-Link是Control & Communication
 Link的簡稱\[1\]，目前有CC-Link、CC-Link/LT、CC-Link
 V2.0、CC-Link
-Safety等4種專用的[通訊協定](../Page/通訊協定.md "wikilink")\[2\]。也有對應[工業乙太網的版本CC](../Page/工業乙太網.md "wikilink")-Link
+Safety等4種專用的[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")\[2\]。也有對應[工業乙太網的版本CC](https://zh.wikipedia.org/wiki/工業乙太網 "wikilink")-Link
 IE\[3\]。
 
 ## 歷史及演進
 
-在1996年11月以[三菱電機為主導的幾家公司推出了CC](../Page/三菱電機.md "wikilink")-Link\[4\]，是開放式架構的現場總線協定。在2000年三菱電機釋出了通訊協定的規範，因此CC-Link成為開放式的現場總線協定，同年也成立非盈利組織CLPA（CC-Link
+在1996年11月以[三菱電機為主導的幾家公司推出了CC](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")-Link\[4\]，是開放式架構的現場總線協定。在2000年三菱電機釋出了通訊協定的規範，因此CC-Link成為開放式的現場總線協定，同年也成立非盈利組織CLPA（CC-Link
 Partner Association）管理及監督CC-Link的網路技術並且提供技術協助。
 
-CC-Link相容的產品包括[工業電腦](../Page/工業電腦.md "wikilink")、[可程式控制器](../Page/可程式控制器.md "wikilink")、[機械人](../Page/機械人.md "wikilink")、[伺服驅動器](../Page/伺服驅動器.md "wikilink")、[變頻器](../Page/變頻器.md "wikilink")、[液壓閥](../Page/液壓閥.md "wikilink")、[類比或](../Page/類比.md "wikilink")[數位輸入輸出模組](../Page/數位.md "wikilink")、[溫度控制器及](../Page/溫度控制器.md "wikilink")[流量控制器等](../Page/流量控制器.md "wikilink")。2009年8月時，CLPA的成員已超過1000個，和CC-Link相容的產品也已超過1000種\[5\]。2010年12月時，CC-Link網路上的設備已經超過7百萬個\[6\]。
+CC-Link相容的產品包括[工業電腦](https://zh.wikipedia.org/wiki/工業電腦 "wikilink")、[可程式控制器](https://zh.wikipedia.org/wiki/可程式控制器 "wikilink")、[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")、[伺服驅動器](https://zh.wikipedia.org/wiki/伺服驅動器 "wikilink")、[變頻器](https://zh.wikipedia.org/wiki/變頻器 "wikilink")、[液壓閥](https://zh.wikipedia.org/wiki/液壓閥 "wikilink")、[類比或](../Page/類比.md "wikilink")[數位輸入輸出模組](https://zh.wikipedia.org/wiki/數位 "wikilink")、[溫度控制器及](https://zh.wikipedia.org/wiki/溫度控制器 "wikilink")[流量控制器等](https://zh.wikipedia.org/wiki/流量控制器 "wikilink")。2009年8月時，CLPA的成員已超過1000個，和CC-Link相容的產品也已超過1000種\[5\]。2010年12月時，CC-Link網路上的設備已經超過7百萬個\[6\]。
 
 ## 特點
 
-CC-Link已通過[國際標準化組織](../Page/國際標準化組織.md "wikilink")（[ISO](../Page/ISO.md "wikilink")）、國際半導體和材料（[SEMI](../Page/SEMI.md "wikilink")）、[中華人民共和國國家標準](../Page/中華人民共和國國家標準.md "wikilink")（[GBT](../Page/GBT.md "wikilink")）、和[國際電工委員會](../Page/國際電工委員會.md "wikilink")（[IEC](../Page/IEC.md "wikilink")）等安全標準。
+CC-Link已通過[國際標準化組織](../Page/國際標準化組織.md "wikilink")（[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")）、國際半導體和材料（[SEMI](https://zh.wikipedia.org/wiki/SEMI "wikilink")）、[中華人民共和國國家標準](https://zh.wikipedia.org/wiki/中華人民共和國國家標準 "wikilink")（[GBT](https://zh.wikipedia.org/wiki/GBT "wikilink")）、和[國際電工委員會](https://zh.wikipedia.org/wiki/國際電工委員會 "wikilink")（[IEC](https://zh.wikipedia.org/wiki/IEC "wikilink")）等安全標準。
 
 CC-Link採用廣播輪詢的方式通訊，主站依照各從站的編號輪詢各從站，從站再回應，不會有通訊衝突的問題。
 
-CC-Link具有獨特的RAS功能（[可靠性、可用性和可維護性](../Page/可靠性、可用性和可維護性.md "wikilink")），如從站通訊異常時，可自動切掉該從站的通訊而不影響其他從站的工作，從站恢復正常時也可自動恢復從站通訊功能，不需額外的組態設定。在系統組態時也可以針對未來可能用到的設備進行站預約功能，當設備連上網路時，CC-Link可自動識別，不需重新進行組態\[7\]。
+CC-Link具有獨特的RAS功能（[可靠性、可用性和可維護性](https://zh.wikipedia.org/wiki/可靠性、可用性和可維護性 "wikilink")），如從站通訊異常時，可自動切掉該從站的通訊而不影響其他從站的工作，從站恢復正常時也可自動恢復從站通訊功能，不需額外的組態設定。在系統組態時也可以針對未來可能用到的設備進行站預約功能，當設備連上網路時，CC-Link可自動識別，不需重新進行組態\[7\]。
 
 CC-Link的資料元件分為以下四種：
 
@@ -35,18 +35,19 @@ CC-Link的資料元件分為以下四種：
 CC-Link：
 
   - 網路傳輸速度10 Mbit/s。
-  - 實體層採用[RS-485](../Page/RS-485.md "wikilink")，無中繼器時網路長度可到1.2公里，若有中繼器時網路長度可到13.2公里。
+  - 實體層採用[RS-485](https://zh.wikipedia.org/wiki/RS-485 "wikilink")，無中繼器時網路長度可到1.2公里，若有中繼器時網路長度可到13.2公里。
   - 每個網路可以有64個設備。
-  - 更新65個輸入/輸出資料的時間只需3.9[微秒](../Page/微秒.md "wikilink")（更新時間和網路長度有關）。
-  - 主站/從站（Master/Slave）的網路架構，但允許[浮動主站](../Page/浮動主站.md "wikilink")（Floating
-    Master）及設備[熱插拔](../Page/熱插拔.md "wikilink")（hot swap）。
+  - 更新65個輸入/輸出資料的時間只需3.9[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")（更新時間和網路長度有關）。
+  - 主站/從站（Master/Slave）的網路架構，但允許[浮動主站](https://zh.wikipedia.org/wiki/浮動主站 "wikilink")（Floating
+    Master）及設備[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")（hot
+    swap）。
 
 CC-Link LT：
 
   - 網路傳輸速度2.5 Mbit/s。
   - 網路主幹長度最大500公尺，網路允許有分支，網路下接长度（drop length）可到200公尺。
   - 每個網路可以有64個設備。
-  - 更新65個輸入/輸出資料的時間只需1.2[微秒](../Page/微秒.md "wikilink")（更新時間和網路長度有關）。
+  - 更新65個輸入/輸出資料的時間只需1.2[微秒](https://zh.wikipedia.org/wiki/微秒 "wikilink")（更新時間和網路長度有關）。
 
 CC-Link IE
 

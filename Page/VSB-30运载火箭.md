@@ -1,5 +1,5 @@
 [VSB-30_payload_section.jpg](https://zh.wikipedia.org/wiki/File:VSB-30_payload_section.jpg "fig:VSB-30_payload_section.jpg")
-**VSB-30运载火箭**是由[巴西和](../Page/巴西.md "wikilink")[德国共同研制的一种](../Page/德国.md "wikilink")[运载火箭](../Page/运载火箭.md "wikilink")。火箭直径0.58米，长12.80米，。2004年首次在[巴西](../Page/巴西.md "wikilink")[阿尔坎塔拉火箭发射基地进行了VSB](../Page/阿尔坎塔拉火箭发射基地.md "wikilink")－30火箭原型的技术性试发射\[1\]。
+**VSB-30运载火箭**是由[巴西和](../Page/巴西.md "wikilink")[德国共同研制的一种](../Page/德国.md "wikilink")[运载火箭](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")。火箭直径0.58米，长12.80米，。2004年首次在[巴西](../Page/巴西.md "wikilink")[阿尔坎塔拉火箭发射基地进行了VSB](https://zh.wikipedia.org/wiki/阿尔坎塔拉火箭发射基地 "wikilink")－30火箭原型的技术性试发射\[1\]。
 
 | \# | 型号        | 发射日期        | 结果                                   |
 | -- | --------- | ----------- | ------------------------------------ |

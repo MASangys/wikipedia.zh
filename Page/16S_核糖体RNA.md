@@ -1,8 +1,9 @@
 [10_small_subunit.gif](https://zh.wikipedia.org/wiki/File:10_small_subunit.gif "fig:10_small_subunit.gif")（*[Thermus
-thermophilus](../Page/Thermus_thermophilus.md "wikilink")*）的30S亚基的三维分子结构图。分子中的淡蓝色部分为蛋白质，淡橙色部分为RNA单链。\[1\]\]\]
+thermophilus](https://zh.wikipedia.org/wiki/Thermus_thermophilus "wikilink")*）的30S亚基的三维分子结构图。分子中的淡蓝色部分为蛋白质，淡橙色部分为RNA单链。\[1\]\]\]
 
-**16[S核糖体RNA](../Page/斯維德伯格.md "wikilink")**（16S ribosomal RNA），简称**16S
-rRNA**，是[原核生物的](../Page/原核生物.md "wikilink")[核糖体中](../Page/核糖体.md "wikilink")[30S亚基的组成部分](../Page/30S亚基.md "wikilink")。16S
+**16[S核糖体RNA](https://zh.wikipedia.org/wiki/斯維德伯格 "wikilink")**（16S
+ribosomal RNA），简称**16S
+rRNA**，是[原核生物的](../Page/原核生物.md "wikilink")[核糖体中](../Page/核糖体.md "wikilink")[30S亚基的组成部分](https://zh.wikipedia.org/wiki/30S亚基 "wikilink")。16S
 rRNA的长度约为1,542
 [nt](../Page/核苷酸.md "wikilink")。[卡尔·乌斯和](../Page/卡尔·乌斯.md "wikilink")[乔治·福克斯是率先在](../Page/乔治·福克斯_\(生物学家\).md "wikilink")[系统发育中使用的](../Page/系统发生学.md "wikilink")16S
 rRNA基因的两个先驱者\[2\]。
@@ -15,15 +16,15 @@ rRNA\[3\]。
 已知16S rRNA具有如下几项功能：
 
   - 16S rRNA具有与原核生物核糖体大亚基中的[23S
-    rRNA相似的结构决定功能](../Page/23S核糖体RNA.md "wikilink")，可作为[核糖体蛋白质结合的架构](../Page/核糖体蛋白质.md "wikilink")。在足量[Mg<sup>2+</sup>存在下分离到的](../Page/镁离子.md "wikilink")16S
+    rRNA相似的结构决定功能](https://zh.wikipedia.org/wiki/23S核糖体RNA "wikilink")，可作为[核糖体蛋白质结合的架构](../Page/核糖体蛋白质.md "wikilink")。在足量[Mg<sup>2+</sup>存在下分离到的](https://zh.wikipedia.org/wiki/镁离子 "wikilink")16S
     rRNA处于紧密状态，其空间结构与30S亚基的大小和形状十分相似。\[4\]
   - 16S
-    rRNA的3'端含有能与[mRNA上游AUG](../Page/mRNA.md "wikilink")[起始密码子通过](../Page/起始密码子.md "wikilink")[氢键结合的](../Page/氢键.md "wikilink")[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S
+    rRNA的3'端含有能与[mRNA上游AUG](https://zh.wikipedia.org/wiki/mRNA "wikilink")[起始密码子通过](https://zh.wikipedia.org/wiki/起始密码子 "wikilink")[氢键结合的](../Page/氢键.md "wikilink")[反夏因-达尔加诺序列](../Page/夏因-达尔加诺序列.md "wikilink")。另有发现表明，16S
     rRNA中1,505－1,539的CCUCC序列与mRNA的相应序列有互补关系。\[5\]
   - 16S rRNA能通过氢键与23S
-    rRNA结合，增强原核生物[70S核糖体一大一小两个亚基](../Page/70S核糖体.md "wikilink")（[50S亚基与](../Page/50S亚基.md "wikilink")30S亚基）结合时的稳定性。
+    rRNA结合，增强原核生物[70S核糖体一大一小两个亚基](https://zh.wikipedia.org/wiki/70S核糖体 "wikilink")（[50S亚基与](https://zh.wikipedia.org/wiki/50S亚基 "wikilink")30S亚基）结合时的稳定性。
   - 16S
-    rRNA能通过其1,492及1,493的[腺嘌呤](../Page/腺嘌呤.md "wikilink")[残基](../Page/残基.md "wikilink")（*参见[嘌呤分子结构图解](../Page/嘌呤.md "wikilink")*）的N1原子与mRNA骨架上的2'[OH](../Page/羟基.md "wikilink")[基团之间产生氢键](../Page/基团.md "wikilink")，使[核糖体A位](../Page/核糖体A位.md "wikilink")[密码子](../Page/密码子.md "wikilink")－[反密码子的](../Page/反密码子.md "wikilink")[碱基互补配对稳定化](../Page/碱基互补配对.md "wikilink")。
+    rRNA能通过其1,492及1,493的[腺嘌呤](../Page/腺嘌呤.md "wikilink")[残基](https://zh.wikipedia.org/wiki/残基 "wikilink")（*参见[嘌呤分子结构图解](../Page/嘌呤.md "wikilink")*）的N1原子与mRNA骨架上的2'[OH](../Page/羟基.md "wikilink")[基团之间产生氢键](https://zh.wikipedia.org/wiki/基团 "wikilink")，使[核糖体A位](https://zh.wikipedia.org/wiki/核糖体A位 "wikilink")[密码子](https://zh.wikipedia.org/wiki/密码子 "wikilink")－[反密码子的](https://zh.wikipedia.org/wiki/反密码子 "wikilink")[碱基互补配对稳定化](https://zh.wikipedia.org/wiki/碱基互补配对 "wikilink")。
 
 ## 结构
 
@@ -31,13 +32,13 @@ rRNA\[3\]。
 
 ## 通用引物
 
-由于不同种的[真细菌与](../Page/真细菌.md "wikilink")[古细菌间的](../Page/古细菌.md "wikilink")16S
+由于不同种的[真细菌与](https://zh.wikipedia.org/wiki/真细菌 "wikilink")[古细菌间的](https://zh.wikipedia.org/wiki/古细菌 "wikilink")16S
 rRNA[基因](../Page/基因.md "wikilink")（[16S
-rDNA](../Page/16S_rDNA.md "wikilink")）是高度保守的\[6\]，16S
+rDNA](https://zh.wikipedia.org/wiki/16S_rDNA "wikilink")）是高度保守的\[6\]，16S
 rDNA常被用于对各种[生物进行的](../Page/生物.md "wikilink")[系统发生学方面的研究](../Page/系统发生学.md "wikilink")\[7\]这种运用16S
-rRNA对生物进行系统发生学研究的方法由[卡尔·沃斯](../Page/卡尔·沃斯.md "wikilink")（Carl
-Woese）开创\[8\]。另外，[线粒体和](../Page/线粒体.md "wikilink")[叶绿体中的rRNA也都被扩增了](../Page/叶绿体.md "wikilink")。在获得能提供系统发育学信息的16S
-rRNA[分子时需要利用通用](../Page/分子.md "wikilink")[PCR](../Page/PCR.md "wikilink")[引物对](../Page/引物_\(分子生物学\).md "wikilink")16S
+rRNA对生物进行系统发生学研究的方法由[卡尔·沃斯](https://zh.wikipedia.org/wiki/卡尔·沃斯 "wikilink")（Carl
+Woese）开创\[8\]。另外，[线粒体和](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[叶绿体中的rRNA也都被扩增了](../Page/叶绿体.md "wikilink")。在获得能提供系统发育学信息的16S
+rRNA[分子时需要利用通用](../Page/分子.md "wikilink")[PCR](../Page/PCR.md "wikilink")[引物对](https://zh.wikipedia.org/wiki/引物_\(分子生物学\) "wikilink")16S
 rRNA分子进行扩增。16S
 rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸分子的辅助下完成](../Page/脱氧核糖核酸.md "wikilink")，这类分子具有如下序列：
 
@@ -45,7 +46,7 @@ rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸
   - 519B反向：5'-GTA TTA CCG CGG CKG CTG-3'
   - 反向：ACG GCT ACC TTG TTA CGA CTT
 
-这类引物因并未在近期发现的几种属于[纳古菌门](../Page/纳古菌门.md "wikilink")（*Nanoarchaeota*）的[热液古菌](../Page/热液.md "wikilink")\[9\]中分离识别出来，也被称为[准通用引物](../Page/准通用引物.md "wikilink")。
+这类引物因并未在近期发现的几种属于[纳古菌门](https://zh.wikipedia.org/wiki/纳古菌门 "wikilink")（*Nanoarchaeota*）的[热液古菌](https://zh.wikipedia.org/wiki/热液 "wikilink")\[9\]中分离识别出来，也被称为[准通用引物](https://zh.wikipedia.org/wiki/准通用引物 "wikilink")。
 
 | 引物名字   | 序列 (5'-3')                     | 参考资料                |
 | ------ | ------------------------------ | ------------------- |
@@ -66,7 +67,7 @@ rRNA序列的对比分析需要在这类“通用引物”的[脱氧核糖核酸
 
 ### PCR中的应用
 
-除了高度保守的引物结合位点之外，16S核糖体RNA基因序列包含高变区，可以提供具体物种的签名序列用于鉴定细菌的有用的\[13\]\[14\]。其结果是，16S核糖体RNA基因测序已经成为[医学微生物学普遍的作为一种快速和廉价的鉴定细菌](../Page/医学微生物学.md "wikilink")[表型方法的替代方法](../Page/表型.md "wikilink")\[15\]。尽管它最初用于鉴定细菌，随后16S测序被发现能够重新分类细菌进入完全新的物种\[16\]，或者甚至是属\[17\]\[18\]。它还已经被用于描述具有从未被成功培养的新物种\[19\]\[20\]。
+除了高度保守的引物结合位点之外，16S核糖体RNA基因序列包含高变区，可以提供具体物种的签名序列用于鉴定细菌的有用的\[13\]\[14\]。其结果是，16S核糖体RNA基因测序已经成为[医学微生物学普遍的作为一种快速和廉价的鉴定细菌](https://zh.wikipedia.org/wiki/医学微生物学 "wikilink")[表型方法的替代方法](https://zh.wikipedia.org/wiki/表型 "wikilink")\[15\]。尽管它最初用于鉴定细菌，随后16S测序被发现能够重新分类细菌进入完全新的物种\[16\]，或者甚至是属\[17\]\[18\]。它还已经被用于描述具有从未被成功培养的新物种\[19\]\[20\]。
 
 ## 16S核糖体数据库
 

@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ESTJ**(外倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")。\[1\]在[柯尔塞气质类型测试中被称为](../Page/柯尔塞气质类型测试.md "wikilink")[监督者](../Page/监督者_\(角色变异\).md "wikilink")，为[监护人的四种类型之一](../Page/监护人_\(气质类型\).md "wikilink")，大约占人口的8%-12%。.\[2\]\[3\]
+**ESTJ**(外倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")。\[1\]在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")[监督者](https://zh.wikipedia.org/wiki/监督者_\(角色变异\) "wikilink")，为[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，大约占人口的8%-12%。.\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -20,7 +20,7 @@ ESTJ们脚踏实地而实事求是，天生擅长于技术或商业。虽然对�
 
 ## 交流方式
 
-根据琳达·V·贝伦斯的[交流方式模型](../Page/交流方式.md "wikilink")，ESTJ们属于“承担责任”型，同时是“外向的”(E)以及“指导性的”(ST)。他们外向且为任务所导向，这也解释了上边提到的特征。
+根据琳达·V·贝伦斯的[交流方式模型](https://zh.wikipedia.org/wiki/交流方式 "wikilink")，ESTJ们属于“承担责任”型，同时是“外向的”(E)以及“指导性的”(ST)。他们外向且为任务所导向，这也解释了上边提到的特征。
 
 ## 认知功能
 
@@ -63,8 +63,8 @@ Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐
 
 ## 相关条目
 
-  - [MBTI](../Page/MBTI.md "wikilink")
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
 
 ## 参考资料
 

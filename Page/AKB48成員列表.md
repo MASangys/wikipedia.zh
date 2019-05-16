@@ -90,7 +90,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/向井地美音" title="wikilink">向井地美音</a></p></td>
+<td><p><a href="../Page/向井地美音.md" title="wikilink">向井地美音</a></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
 <td><p>10</p></td>
@@ -328,7 +328,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/茂木忍" title="wikilink">茂木忍</a></p></td>
+<td><p><a href="../Page/茂木忍.md" title="wikilink">茂木忍</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -346,7 +346,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/市川愛美" title="wikilink">市川愛美</a></p></td>
 <td><p>15期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">真心電流</a></p></td>
+<td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -370,13 +370,13 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/野泽玲奈" title="wikilink">野泽玲奈</a></p></td>
 <td><p>JKT48 1期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Heavy_Rotation_(JKT48专辑)" title="wikilink">Heavy Rotation</a></p></td>
+<td><p><a href="../Page/Heavy_Rotation_(JKT48专辑).md" title="wikilink">Heavy Rotation</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小嶋真子" title="wikilink">小嶋真子</a></p></td>
+<td><p><a href="../Page/小嶋真子.md" title="wikilink">小嶋真子</a></p></td>
 <td><p>14期</p></td>
 <td><p>UZA</p></td>
 <td><p>11</p></td>
@@ -590,7 +590,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中西智代梨" title="wikilink">中西智代梨</a></p></td>
+<td><p><a href="../Page/中西智代梨.md" title="wikilink">中西智代梨</a></p></td>
 <td><p>HKT48 1期</p></td>
 <td><p><a href="../Page/格子花紋.md" title="wikilink">格子花紋</a></p></td>
 <td><p>-</p></td>
@@ -694,7 +694,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岩立沙穗" title="wikilink">岩立沙穗</a></p></td>
+<td><p><a href="../Page/岩立沙穗.md" title="wikilink">岩立沙穗</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -702,7 +702,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北澤早紀" title="wikilink">北澤早紀</a></p></td>
+<td><p><a href="../Page/北澤早紀.md" title="wikilink">北澤早紀</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -847,7 +847,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/達家真姫寶" title="wikilink">達家真姫寶</a></p></td>
 <td><p>15期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a></p></td>
+<td><p><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
@@ -885,7 +885,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岡田奈奈_(AKB48)" title="wikilink">岡田奈奈</a></p></td>
+<td><p><a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a></p></td>
 <td><p>14期</p></td>
 <td><p>UZA</p></td>
 <td><p>13</p></td>
@@ -1313,7 +1313,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 <td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/服部有菜" title="wikilink">服部有菜</a></p></td>
 <td><p>2014年7月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>圈外</p></td>
@@ -1839,7 +1839,7 @@ B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為�
 
 AKB48各隊創隊後至第一次組閣前，雖未正式設立隊長職位，但實際上各隊依然有成員做著領導與整合隊伍的工作，而這些成員分別是Team
 A：折井步，2007年畢業後由高橋南帶領，Team K：秋元才加，Team
-B：浦野一美。此外，於第二次組閣時新設立「AKB48集團總監督」一職以管理與代表全AKB48集團，而在第三次組閣時曾設立「研究生會會長」一職做為AKB48集團研究生的代表，並由[松村香織擔任](https://zh.wikipedia.org/wiki/松村香織 "wikilink")\[6\]，此職位因松村於2015年3月31日升格為Team
+B：浦野一美。此外，於第二次組閣時新設立「AKB48集團總監督」一職以管理與代表全AKB48集團，而在第三次組閣時曾設立「研究生會會長」一職做為AKB48集團研究生的代表，並由[松村香織擔任](../Page/松村香織.md "wikilink")\[6\]，此職位因松村於2015年3月31日升格為Team
 KII成員而終止\[7\]。
 
 <table>
@@ -2199,7 +2199,7 @@ KII成員而終止\[7\]。
 <td><p>櫻花花瓣</p></td>
 <td><p>-</p></td>
 <td><p>未舉辦</p></td>
-<td><p><a href="../Page/office48.md" title="wikilink">office48</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/office48" title="wikilink">office48</a></p></td>
 <td><p>3月31日</p></td>
 <td><p>畢業</p></td>
 <td><p>[65]</p></td>
@@ -2578,7 +2578,7 @@ JKT48 Team T第一任隊長[84]<br />
 2018年4月10日自NMB48畢業[100]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/古畑奈和" title="wikilink">古畑奈和</a></p></td>
+<td><p><a href="../Page/古畑奈和.md" title="wikilink">古畑奈和</a></p></td>
 <td><p>SKE48<br />
 5期</p></td>
 <td><p><a href="../Page/單戀Finally.md" title="wikilink">單戀Finally</a></p></td>
@@ -2670,7 +2670,7 @@ Team A第一、四任隊長<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/平田梨奈" title="wikilink">平田梨奈</a></p></td>
+<td><p><a href="../Page/平田梨奈.md" title="wikilink">平田梨奈</a></p></td>
 <td><p>12期</p></td>
 <td><p>風正在吹</p></td>
 <td><p>1</p></td>
@@ -2698,7 +2698,7 @@ Team A第一、四任隊長<br />
 <td><p>絕滅黑髮少女</p></td>
 <td><p>-</p></td>
 <td><p>54</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/京樂吉本控股" title="wikilink">京樂吉本</a></p></td>
+<td><p><a href="../Page/京樂吉本控股.md" title="wikilink">京樂吉本</a></p></td>
 <td><p>12月24日</p></td>
 <td><p>[113]</p></td>
 <td></td>
@@ -2726,7 +2726,7 @@ Team A第一、四任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大和田南那" title="wikilink">大和田南那</a></p></td>
+<td><p><a href="../Page/大和田南那.md" title="wikilink">大和田南那</a></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
 <td><p>3</p></td>
@@ -2795,7 +2795,7 @@ Team A第一、四任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小嶋菜月" title="wikilink">小嶋菜月</a></p></td>
+<td><p><a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月</a></p></td>
 <td><p>11期</p></td>
 <td><p>變成櫻花樹</p></td>
 <td><p>-</p></td>
@@ -2840,7 +2840,7 @@ Team A第一、四任隊長<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/上村彩子" title="wikilink">上村彩子</a></p></td>
+<td><p><a href="../Page/上村彩子.md" title="wikilink">上村彩子</a></p></td>
 <td><p>2期</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -2959,7 +2959,7 @@ Team A第一、四任隊長<br />
 <td><p>9月27日</p></td>
 <td><p>畢業</p></td>
 <td><p>[125]<br />
-之後加入<a href="https://zh.wikipedia.org/wiki/LesPros娛樂" title="wikilink">LesPros娛樂復出演藝圈</a>[126]<br />
+之後加入<a href="../Page/LesPros娛樂.md" title="wikilink">LesPros娛樂復出演藝圈</a>[126]<br />
 2014年7月15日自演藝圈引退[127]</p></td>
 <td></td>
 </tr>
@@ -3152,7 +3152,7 @@ Team A第一、四任隊長<br />
 <td><p>11</p></td>
 <td><p>太田製作</p></td>
 <td><p>8月26日</p></td>
-<td><p>移籍<a href="https://zh.wikipedia.org/wiki/NGT48" title="wikilink">NGT48</a></p></td>
+<td><p>移籍<a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td><p>NGT48 Team NIII第一任隊長[143]<br />
 2018年4月18日自NGT48畢業[144]</p></td>
 </tr>
@@ -3360,7 +3360,7 @@ Team A第一、四任隊長<br />
 <td><p>[159]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小嶋真子" title="wikilink">小嶋真子</a></p></td>
+<td><p><a href="../Page/小嶋真子.md" title="wikilink">小嶋真子</a></p></td>
 <td><p>14期</p></td>
 <td><p>UZA</p></td>
 <td><p>11</p></td>
@@ -3703,7 +3703,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 2018年5月6日自乃木坂46畢業[188]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/橋本耀" title="wikilink">橋本耀</a></p></td>
+<td><p><a href="../Page/橋本耀.md" title="wikilink">橋本耀</a></p></td>
 <td><p>14期</p></td>
 <td><p>UZA</p></td>
 <td><p>-</p></td>
@@ -3805,7 +3805,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梅田綾乃" title="wikilink">梅田綾乃</a></p></td>
+<td><p><a href="../Page/梅田綾乃.md" title="wikilink">梅田綾乃</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>-</p></td>
@@ -3828,7 +3828,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大島涼花" title="wikilink">大島涼花</a></p></td>
+<td><p><a href="../Page/大島涼花.md" title="wikilink">大島涼花</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
 <td><p>3</p></td>
@@ -3928,7 +3928,7 @@ SKE48 Team KII第一任副隊長[179]<br />
 <td><p>AKS</p></td>
 <td><p>Team 4第四任隊長<br />
 Team B第五任隊長<br />
-將加入韓國<a href="https://zh.wikipedia.org/wiki/Woollim娛樂" title="wikilink">Woollim娛樂</a>，以女團成員身分出道[206][207]</p></td>
+將加入韓國<a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a>，以女團成員身分出道[206][207]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4034,7 +4034,7 @@ Team B第五任隊長<br />
 <td><p>[210]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/土保瑞希" title="wikilink">土保瑞希</a></p></td>
+<td><p><a href="../Page/土保瑞希.md" title="wikilink">土保瑞希</a></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
 <td><p>1</p></td>
@@ -4133,7 +4133,7 @@ Team B第五任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/飯野雅" title="wikilink">飯野雅</a></p></td>
+<td><p><a href="../Page/飯野雅.md" title="wikilink">飯野雅</a></p></td>
 <td><p>15期</p></td>
 <td><p>希望無限</p></td>
 <td><p>-</p></td>
@@ -4144,7 +4144,7 @@ Team B第五任隊長<br />
 <td><p>[217][218]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朝長美櫻" title="wikilink">朝長美櫻</a></p></td>
+<td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
 <td><p>HKT48<br />
 2期</p></td>
 <td><p>初戀蝴蝶</p></td>
@@ -4156,7 +4156,7 @@ Team B第五任隊長<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北川綾巴" title="wikilink">北川綾巴</a></p></td>
+<td><p><a href="../Page/北川綾巴.md" title="wikilink">北川綾巴</a></p></td>
 <td><p>SKE48<br />
 6期</p></td>
 <td><p>美麗的閃電</p></td>
@@ -4168,7 +4168,7 @@ Team B第五任隊長<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/澀谷凪咲" title="wikilink">澀谷凪咲</a></p></td>
+<td><p><a href="../Page/澀谷凪咲.md" title="wikilink">澀谷凪咲</a></p></td>
 <td><p>NMB48<br />
 4期</p></td>
 <td><p>我們的發現</p></td>

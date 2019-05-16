@@ -1,5 +1,5 @@
 **Yahoo\!
-KPost**為[雅虎公司其中一項服務](../Page/雅虎.md "wikilink")，於[香港](../Page/香港.md "wikilink")、[韓國及](../Page/韓國.md "wikilink")[印尼推出](../Page/印尼.md "wikilink")。
+KPost**為[雅虎公司其中一項服務](../Page/雅虎.md "wikilink")，於[香港](../Page/香港.md "wikilink")、[韓國及](https://zh.wikipedia.org/wiki/韓國 "wikilink")[印尼推出](https://zh.wikipedia.org/wiki/印尼 "wikilink")。
 
 此服務類似討論區，用戶可自由建立討論版，並參與當中的討論，除了閱讀討論以外，其餘大部份功能均需要先登入Yahoo帳戶才能使用。
 

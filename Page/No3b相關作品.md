@@ -23,7 +23,7 @@
 <td><p>1</p></td>
 <td><p>2011年1月1日<ref>[<a href="http://www.no3b.net/info/index.html">http://www.no3b.net/info/index.html</a> no3b 1st專輯發售日決定</p></td>
 <td><p>]（2010年11月29日閲覧）</ref></p></td>
-<td><p><strong><a href="../Page/no3b_(專輯).md" title="wikilink">no3b</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/no3b_(專輯)" title="wikilink">no3b</a></strong></p></td>
 <td><p>1位</p></td>
 <td><p>58,730張</p></td>
 <td><p>103,042張</p></td>
@@ -222,7 +222,7 @@ ESCL-3794・5</p></td>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2013年1月16日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蟋蟀人" title="wikilink">蟋蟀人</a></strong></p></td>
+<td><p><strong><a href="../Page/蟋蟀人.md" title="wikilink">蟋蟀人</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>62,790張</p></td>
 <td><p>77,640張</p></td>

@@ -12,7 +12,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 1獨自收錄了前田敦子專訪特輯「現在、正在想的事」（）和Flower製作特輯\[8\]；ACT
 2獨自收錄了Flower綻放之前～前田敦子的軌跡～（）\[9\]；ACT 3獨自收錄前田敦子時裝書「現在、想穿的服裝」（）\<ref
 name="Ｆｌｏｗｅｒ＜Ａｃｔ
-3"/＞；劇場盤則附有劇場盤發售紀念[握手會的參加券和寫真相一張](https://zh.wikipedia.org/wiki/握手會 "wikilink")\[10\]。
+3"/＞；劇場盤則附有劇場盤發售紀念[握手會的參加券和寫真相一張](../Page/握手會.md "wikilink")\[10\]。
 
 2011年4月23日，在[AKB48單曲](../Page/AKB48.md "wikilink")《[變成櫻花樹](../Page/變成櫻花樹.md "wikilink")》暨[AKB48神TV第六季放送紀念握手會中](../Page/AKB48神TV.md "wikilink")，單曲首次被披露成為前田敦子主演的電影《[如果杜拉](../Page/如果杜拉_\(電影\).md "wikilink")》的[插入曲](https://zh.wikipedia.org/wiki/插入曲 "wikilink")\[11\]，亦是前田、[指原莉乃](../Page/指原莉乃.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[小森美果和](../Page/小森美果.md "wikilink")[大家志津香合演的廣告](../Page/大家志津香.md "wikilink")×「情歌視頻」的廣告歌\[12\]。前田其後在《[新堂本兄弟](../Page/新堂本兄弟.md "wikilink")》\[13\]、《[MUSIC
 JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》\[14\] 和《[MUSIC

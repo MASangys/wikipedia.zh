@@ -14,7 +14,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
 ## 本次主线事件
 
-故事开端，映司与ankh同异魔神作战，却不慎让异魔神进入一名名为“直树”的小孩的身体，而这个小孩竟拥有40年前的记忆(1971年)，幸太郎赶到时，与映司见面，并透露自己有能够穿越时间的能力，Ankh为了趁40年前GREEED还没觉醒的时候获得硬币而提出与幸太郎一同前往40年前，却不慎在打斗中掉了一枚普通币，而40年前的[修卡拥有修卡核心币却没有普通币因此无法创造修卡GREEED](https://zh.wikipedia.org/wiki/修卡 "wikilink")，因为修卡战斗员捡到了Ankh掉下的硬币，修卡GREEED诞生，实力增强的修卡组织打败了假面骑士1号和2号并将其洗脑，使得Ankh和映司回到四十年后时变成了修卡统治时代，于是幸太郎决定要Ankh和一起去修正历史，映司留在自己的时空，但由于Ankh的关系，使得硬币依然有一枚丢失，并被修卡战斗员找到再转交给黑将军，此时40年前还没被洗脑的1号与2号前来帮助，事后与却因为黑将军的计谋导致修卡GREEED依然诞生，修正历史失败，电列车也因此毁坏……
+故事开端，映司与ankh同异魔神作战，却不慎让异魔神进入一名名为“直树”的小孩的身体，而这个小孩竟拥有40年前的记忆(1971年)，幸太郎赶到时，与映司见面，并透露自己有能够穿越时间的能力，Ankh为了趁40年前GREEED还没觉醒的时候获得硬币而提出与幸太郎一同前往40年前，却不慎在打斗中掉了一枚普通币，而40年前的[修卡拥有修卡核心币却没有普通币因此无法创造修卡GREEED](../Page/修卡.md "wikilink")，因为修卡战斗员捡到了Ankh掉下的硬币，修卡GREEED诞生，实力增强的修卡组织打败了假面骑士1号和2号并将其洗脑，使得Ankh和映司回到四十年后时变成了修卡统治时代，于是幸太郎决定要Ankh和一起去修正历史，映司留在自己的时空，但由于Ankh的关系，使得硬币依然有一枚丢失，并被修卡战斗员找到再转交给黑将军，此时40年前还没被洗脑的1号与2号前来帮助，事后与却因为黑将军的计谋导致修卡GREEED依然诞生，修正历史失败，电列车也因此毁坏……
 
 ## 登场人物
 
@@ -191,7 +191,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 <!-- end list -->
 
   -
-    [修卡的大幹部](https://zh.wikipedia.org/wiki/修卡 "wikilink")，原作是蓋爾修卡的大幹部,擅長於謀略作戰。本身也會卓越剣術,和NEW電王互相角力。
+    [修卡的大幹部](../Page/修卡.md "wikilink")，原作是蓋爾修卡的大幹部,擅長於謀略作戰。本身也會卓越剣術,和NEW電王互相角力。
     是他把Ankh留在1971年的Cell Medals献上給修卡首領。
     黑將軍的本體為吸血蛭變色龍怪人。擁有擬態隱形能力令NEW電王和桃太洛斯在1971年苦戰。但在2011年行刑場的戦闘中被OOO用TAKA的視力掃瞄其真身,以虎爪猛力一擊撃破。
 
@@ -321,13 +321,14 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
   - [假面騎士AMAZON](../Page/假面騎士AMAZON.md "wikilink")
   - [假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")
   - [天空騎士](https://zh.wikipedia.org/wiki/假面騎士Sky_Rider "wikilink")
-  - [假面騎士Super 1](https://zh.wikipedia.org/wiki/假面騎士Super_1 "wikilink")
+  - [假面騎士Super 1](../Page/假面騎士Super_1.md "wikilink")
   - [假面騎士ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
-  - [假面騎士Black](../Page/假面騎士Black.md "wikilink")
-  - [假面騎士Black RX](../Page/假面騎士Black_RX.md "wikilink")
+  - [假面騎士Black](https://zh.wikipedia.org/wiki/假面騎士Black "wikilink")
+  - [假面騎士Black
+    RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")
   - [真假面骑士](../Page/真假面騎士_序章.md "wikilink")
   - [假面騎士ZO](../Page/假面騎士ZO.md "wikilink")
-  - [假面騎士J](https://zh.wikipedia.org/wiki/假面騎士J "wikilink")
+  - [假面騎士J](../Page/假面騎士J.md "wikilink")
 
 #### 平成假面騎士
 
@@ -371,7 +372,7 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
   - [假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")
   - 假面騎士IXA
   - 假面騎士Saga
-  - [假面騎士DECADE](../Page/假面騎士DECADE.md "wikilink")
+  - [假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")
   - 假面騎士DIEND
   - [假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")
   - 假面騎士Accel
@@ -421,26 +422,26 @@ Riders，[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：오즈・�
 
 原文：キカイダー 原作变身者：次郎（原文：ジロー）（[伴大介](http://ja.wikipedia.org/wiki/伴大介) 饰）
 
-东映经典特摄《[人造人间电脑奇侠](https://zh.wikipedia.org/wiki/人造人间电脑奇侠 "wikilink")》(日原文《[人造人間キカイダー](http://ja.wikipedia.org/wiki/人造人間キカイダー)》)中的主角；于续作《[电脑奇侠01](https://zh.wikipedia.org/wiki/电脑奇侠01 "wikilink")》客串登场，体内良心回路因在调试时因为敌对组织DARK的袭击而未能制作完整，会受到恶魔的笛声的操控。是剧中由光明寺博士以逝去的长子为原型制造的保护女儿和次子并粉碎DARK而制造的机械人。宿敌为植入博士大脑的[电脑黑魔](https://zh.wikipedia.org/wiki/电脑黑魔 "wikilink")。
+东映经典特摄《[人造人间电脑奇侠](../Page/人造人间电脑奇侠.md "wikilink")》(日原文《[人造人間キカイダー](http://ja.wikipedia.org/wiki/人造人間キカイダー)》)中的主角；于续作《[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")》客串登场，体内良心回路因在调试时因为敌对组织DARK的袭击而未能制作完整，会受到恶魔的笛声的操控。是剧中由光明寺博士以逝去的长子为原型制造的保护女儿和次子并粉碎DARK而制造的机械人。宿敌为植入博士大脑的[电脑黑魔](../Page/电脑黑魔.md "wikilink")。
 
 **电脑奇侠01**
 
 原文：キカイダー01 原作变身者：一郎（原文：イチロー）（[池田駿介](http://ja.wikipedia.org/wiki/池田駿介)
 饰）
 
-东映经典特摄《[电脑奇侠01](https://zh.wikipedia.org/wiki/电脑奇侠01 "wikilink")》(日原文《[キカイダー01](http://ja.wikipedia.org/wiki/キカイダー01)》)中的主角。是《[人造人间电脑奇侠](https://zh.wikipedia.org/wiki/人造人间电脑奇侠 "wikilink")》的续集中出现的剧中博士制造的电脑奇侠的试作型，有完整的良心回路，在《[电脑奇侠01](https://zh.wikipedia.org/wiki/电脑奇侠01 "wikilink")》中为击退新生的电脑黑魔军团而从仁王像中苏醒，成为新的英雄。
+东映经典特摄《[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")》(日原文《[キカイダー01](http://ja.wikipedia.org/wiki/キカイダー01)》)中的主角。是《[人造人间电脑奇侠](../Page/人造人间电脑奇侠.md "wikilink")》的续集中出现的剧中博士制造的电脑奇侠的试作型，有完整的良心回路，在《[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")》中为击退新生的电脑黑魔军团而从仁王像中苏醒，成为新的英雄。
 
 **闪电人**
 
 原文：イナズマン 原作变身者：渡五郎（原文：渡五郎）（[伴大介](http://ja.wikipedia.org/wiki/伴大介) 饰）
 
-东映经典特摄《[闪电人](https://zh.wikipedia.org/wiki/闪电人 "wikilink")》(日原文《[イナズマン](http://ja.wikipedia.org/wiki/イナズマン#.E5.B0.91.E5.B9.B4.E5.90.8C.E7.9B.9F.E3.81.A8.E3.81.9D.E3.81.AE.E5.8D.94.E5.8A.9B.E8.80.85)》)与《[闪电人F](https://zh.wikipedia.org/wiki/闪电人f "wikilink")》(日原文《[イナズマンF](http://ja.wikipedia.org/wiki/イナズマンF)》)的主角。先由主角高喊**刚力招来**变身成为**蛹超人**（原文：サナギマン），再高喊**超力招来**变身而成，被称为**新人类**。
+东映经典特摄《[闪电人](../Page/闪电人.md "wikilink")》(日原文《[イナズマン](http://ja.wikipedia.org/wiki/イナズマン#.E5.B0.91.E5.B9.B4.E5.90.8C.E7.9B.9F.E3.81.A8.E3.81.9D.E3.81.AE.E5.8D.94.E5.8A.9B.E8.80.85)》)与《[闪电人F](../Page/闪电人f.md "wikilink")》(日原文《[イナズマンF](http://ja.wikipedia.org/wiki/イナズマンF)》)的主角。先由主角高喊**刚力招来**变身成为**蛹超人**（原文：サナギマン），再高喊**超力招来**变身而成，被称为**新人类**。
 
 **快杰兹巴特**
 
 原文：快傑ハリマオ 原作变身者：早川健（原文：早川健）（[宫内洋](http://ja.wikipedia.org/wiki/宮内洋) 饰）
 
-东映经典特摄《[快杰兹巴特](https://zh.wikipedia.org/wiki/快杰Z "wikilink")》(日原文《[快傑ハリマオ](http://ja.wikipedia.org/wiki/快傑ズバット)》)的同名主角，原作中为了替死去好友复仇而流浪。武器为兹巴特长鞭。
+东映经典特摄《[快杰兹巴特](../Page/快杰Z.md "wikilink")》(日原文《[快傑ハリマオ](http://ja.wikipedia.org/wiki/快傑ズバット)》)的同名主角，原作中为了替死去好友复仇而流浪。武器为兹巴特长鞭。
 
 ### 登场怪人
 

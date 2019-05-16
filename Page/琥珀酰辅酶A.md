@@ -2,7 +2,7 @@
 
 ## 来源
 
-它在[三羧酸循环重视一个重要的中间产物](../Page/三羧酸循环.md "wikilink")，在那里它合成自[α-酮戊二酸](../Page/α-酮戊二酸.md "wikilink")，此步骤由[α-酮戊二酸脱氢酶经脱羧作用而成并加上了](https://zh.wikipedia.org/wiki/α-酮戊二酸脱氢酶 "wikilink")[辅酶A](../Page/辅酶A.md "wikilink")。
+它在[三羧酸循环重视一个重要的中间产物](../Page/三羧酸循环.md "wikilink")，在那里它合成自[α-酮戊二酸](https://zh.wikipedia.org/wiki/α-酮戊二酸 "wikilink")，此步骤由[α-酮戊二酸脱氢酶经脱羧作用而成并加上了](https://zh.wikipedia.org/wiki/α-酮戊二酸脱氢酶 "wikilink")[辅酶A](../Page/辅酶A.md "wikilink")。
 
 ## 形成
 

@@ -1,5 +1,5 @@
 **TYPO3**是一个以[PHP编写](../Page/PHP.md "wikilink")、采用[GNU通用公共许可证的](../Page/GNU通用公共许可证.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")。它可在众多操作系统（[Linux](../Page/Linux.md "wikilink")、[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[macOS和](../Page/macOS.md "wikilink")[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")）和多种[网页服务器上](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")（诸如[Apache和](../Page/Apache_HTTP_Server.md "wikilink")[IIS](../Page/網際網路資訊服務.md "wikilink")）。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")）和多种[网页服务器上](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")（诸如[Apache和](../Page/Apache_HTTP_Server.md "wikilink")[IIS](../Page/網際網路資訊服務.md "wikilink")）。
 
 ## 历史
 

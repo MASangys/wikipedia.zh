@@ -1,4 +1,4 @@
-《**ALONE**》是日本樂團[B'z第](../Page/B'z.md "wikilink")9張[單曲](../Page/單曲.md "wikilink")，1991年10月30日發售。
+《**ALONE**》是日本樂團[B'z第](../Page/B'z.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，1991年10月30日發售。
 
 ## 簡介
 

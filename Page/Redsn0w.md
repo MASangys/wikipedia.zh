@@ -7,7 +7,7 @@ preview version = 0.9.15b3b |latest preview date =  |operating_system =
 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") |license =
 [Freeware](https://zh.wikipedia.org/wiki/Freeware "wikilink") |website =
 <http://blog.iphone-dev.org/> |purpose = 越狱工具 }}
-**redsn0w**是一个用于[越狱](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")[iOS设备的工具](../Page/iOS.md "wikilink")。它通过读取通过[iTunes或其它途径下载的官方固件](../Page/iTunes.md "wikilink")，并在设备上建立一个[RAM盘](https://zh.wikipedia.org/wiki/RAM盘 "wikilink")，从RAM盘上面运行相应程序来进行越狱工作。在越狱时，设备会进入固件升级模式。redsn0w同时允许用于安装流行的第三方软件安装器[Cydia](../Page/Cydia.md "wikilink")，也可以用来优化系统，安装自制软件，访问[文件系统等](../Page/文件系统.md "wikilink")。
+**redsn0w**是一个用于[越狱](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")[iOS设备的工具](https://zh.wikipedia.org/wiki/iOS "wikilink")。它通过读取通过[iTunes或其它途径下载的官方固件](https://zh.wikipedia.org/wiki/iTunes "wikilink")，并在设备上建立一个[RAM盘](https://zh.wikipedia.org/wiki/RAM盘 "wikilink")，从RAM盘上面运行相应程序来进行越狱工作。在越狱时，设备会进入固件升级模式。redsn0w同时允许用于安装流行的第三方软件安装器[Cydia](../Page/Cydia.md "wikilink")，也可以用来优化系统，安装自制软件，访问[文件系统等](../Page/文件系统.md "wikilink")。
 
 ## 兼容性
 
@@ -28,7 +28,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_(第一代).md" title="wikilink">iPhone (第一代)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_(第一代)" title="wikilink">iPhone (第一代)</a></p></td>
 <td><p>3.1.3</p></td>
 <td><p>redsn0w 0.9.4</p></td>
 <td><p>24kpwn[2]</p></td>
@@ -36,7 +36,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3G.md" title="wikilink">iPhone 3G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a></p></td>
 <td><p>4.2.1</p></td>
 <td><p>redsn0w 0.9.6rc8</p></td>
 <td><p>24kpwn</p></td>
@@ -44,7 +44,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS (old bootrom)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS (old bootrom)</a></p></td>
 <td><p>5.1</p></td>
 <td><p>redsn0w 0.9.10b6</p></td>
 <td><p>Limera1n[3]+24kpwn</p></td>
@@ -52,7 +52,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS (new bootrom)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS (new bootrom)</a></p></td>
 <td><p>5.0.1</p></td>
 <td><p>redsn0w 0.9.10b4</p></td>
 <td><p>Limera1n+Racoon String Format Overflow[4]+HFS[5]</p></td>
@@ -60,7 +60,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS (new bootrom)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS (new bootrom)</a></p></td>
 <td><p>5.1</p></td>
 <td><p>redsn0w 0.9.10b6</p></td>
 <td><p>Limera1n</p></td>
@@ -68,7 +68,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4 GSM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4 GSM</a></p></td>
 <td><p>6.0.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>Limera1n+Racoon String Format Overflow+HFS</p></td>
@@ -76,7 +76,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4 GSM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4 GSM</a></p></td>
 <td><p>6.0.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>Limera1n</p></td>
@@ -84,7 +84,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4 CDMA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4 CDMA</a></p></td>
 <td><p>6.0.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>Limera1n+Racoon String Format Overflow+HFS</p></td>
@@ -92,7 +92,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4 CDMA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4 CDMA</a></p></td>
 <td><p>6.0.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>Limera1n</p></td>
@@ -100,7 +100,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4S.md" title="wikilink">iPhone 4S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4S" title="wikilink">iPhone 4S</a></p></td>
 <td><p>5.0.1</p></td>
 <td><p>redsn0w 0.9.10b4</p></td>
 <td><p>Limera1n+Racoon String Format Overflow+HFS</p></td>
@@ -108,7 +108,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_4S.md" title="wikilink">iPhone 4S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4S" title="wikilink">iPhone 4S</a></p></td>
 <td><p>5.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>N/A</p></td>
@@ -116,7 +116,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>N/A</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4s.md" title="wikilink">iPhone 4s</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4s" title="wikilink">iPhone 4s</a></p></td>
 <td><p>6.0.1</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td></td>
@@ -124,7 +124,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 1G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 1G</p></td>
 <td><p>3.1.3</p></td>
 <td><p>redsn0w 0.9.4</p></td>
 <td><p>24kpwn</p></td>
@@ -132,7 +132,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 2G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 2G</p></td>
 <td><p>4.2.1</p></td>
 <td><p>redsn0w 0.9.6rc8</p></td>
 <td><p>24kpwn+ARM7 Go[6] (MB)/steaks4uce[7]+HFS(MC)</p></td>
@@ -140,7 +140,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 3G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 3G</p></td>
 <td><p>5.0.1</p></td>
 <td><p>redsn0w 0.9.10b4</p></td>
 <td><p>Limera1n+Racoon String Format Overflow+HFS</p></td>
@@ -148,7 +148,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 3G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 3G</p></td>
 <td><p>5.1</p></td>
 <td><p>redsn0w 0.9.10b6</p></td>
 <td><p>Limera1n</p></td>
@@ -156,7 +156,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 4G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 4G</p></td>
 <td><p>5.0.1</p></td>
 <td><p>redsn0w 0.9.10b4</p></td>
 <td><p>Limera1n+Racoon String Format Overflow+HFS</p></td>
@@ -164,7 +164,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>否</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 4G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 4G</p></td>
 <td><p>5.1</p></td>
 <td><p>redsn0w 0.9.10b6</p></td>
 <td><p>Limera1n</p></td>
@@ -172,7 +172,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">iPod Touch</a> 4G</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a> 4G</p></td>
 <td><p>6.0</p></td>
 <td><p>redsn0w 0.9.15b3</p></td>
 <td><p>Limera1n</p></td>
@@ -196,7 +196,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_2.md" title="wikilink">iPad 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2</a></p></td>
 <td><p>8.4</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -204,7 +204,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows平台上的reds
 <td><p>N/A</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_(第三代).md" title="wikilink">New iPad</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">New iPad</a></p></td>
 <td><p>8.4</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>

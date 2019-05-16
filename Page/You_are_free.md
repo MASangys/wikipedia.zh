@@ -3,7 +3,7 @@
 ## 概要
 
 《You are free》是從恰克與飛鳥1993年專輯《RED
-HILL》上挑選出曲目、重新製作成單曲CD發售的作品。當年曾被選為日本飲料廠[朝日啤酒推出的罐裝咖啡](https://zh.wikipedia.org/wiki/朝日啤酒 "wikilink")「SUPER
+HILL》上挑選出曲目、重新製作成單曲CD發售的作品。當年曾被選為日本飲料廠[朝日啤酒推出的罐裝咖啡](../Page/朝日啤酒.md "wikilink")「SUPER
 J.O」廣告歌曲。\[1\]
 
 唱片在格式上採用12cm規格CD，並在唱片外盒包裝上附帶著金色側標，與當時同一日發行、附帶著銀色側標的恰克與飛鳥另一單曲《[為何您不歸來](https://zh.wikipedia.org/wiki/為何您不歸來 "wikilink")》互相並映。

@@ -3,66 +3,71 @@ JAPAN於2008年3/28-30在[東京巨蛋所舉辦的復出演唱會](../Page/東�
 
 ## 概要
 
-  - [X JAPAN自](../Page/X_JAPAN.md "wikilink")1997年12月31日舉行解散演唱會[THE LAST
-    LIVE
-    ～最後の夜～](../Page/THE_LAST_LIVE_～最後の夜～.md "wikilink"),經過10年復活所舉辦的大型復出演唱會
+  - [X
+    JAPAN自](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")1997年12月31日舉行解散演唱會[THE
+    LAST LIVE
+    ～最後の夜～](https://zh.wikipedia.org/wiki/THE_LAST_LIVE_～最後の夜～ "wikilink"),經過10年復活所舉辦的大型復出演唱會
   - 原本只開3/28及3/30兩場,但因為購票歌迷人數遠超過預設人數,而緊急加開3/29一場,但15萬張門票依舊在開賣短短幾秒全部完售
   - 3/28第一場因為預定使用的hide 3D投影故障,以致開演遲了2個半小時
-  - 3/28當晚[YOSHIKI再演奏](../Page/YOSHIKI.md "wikilink")[ART OF
-    LIFE中昏倒](../Page/ART_OF_LIFE.md "wikilink"),導致第一場只唱1個多小時就結束了
+  - 3/28當晚[YOSHIKI再演奏](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")[ART
+    OF LIFE中昏倒](../Page/ART_OF_LIFE.md "wikilink"),導致第一場只唱1個多小時就結束了
 
 ## 參加團員
 
-  - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
-  - [TOSHI](../Page/TOSHI.md "wikilink")
-  - [HIDE](../Page/HIDE.md "wikilink")
-  - [PATA](../Page/PATA.md "wikilink")
+  - [YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
+  - [TOSHI](https://zh.wikipedia.org/wiki/TOSHI "wikilink")
+  - [HIDE](https://zh.wikipedia.org/wiki/HIDE "wikilink")
+  - [PATA](https://zh.wikipedia.org/wiki/PATA "wikilink")
   - [Heath](../Page/Heath.md "wikilink")
 
 支援樂手
 
   - [LUNA
-    SEA吉他手](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")
-  - [槍與玫瑰吉他手](../Page/槍與玫瑰.md "wikilink")[Richard
-    Fortus](../Page/Richard_Fortus.md "wikilink")
-  - 前[Limp Bizkit吉他手](../Page/Limp_Bizkit.md "wikilink")[Wes
-    Borland](../Page/Wes_Borland.md "wikilink")
+    SEA吉他手](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")
+  - [槍與玫瑰吉他手](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")[Richard
+    Fortus](https://zh.wikipedia.org/wiki/Richard_Fortus "wikilink")
+  - 前[Limp
+    Bizkit吉他手](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink")[Wes
+    Borland](https://zh.wikipedia.org/wiki/Wes_Borland "wikilink")
 
 ## 歌單
 
 破壞の夜3月28日
 
-  - [THE LAST SONG](../Page/THE_LAST_SONG.md "wikilink")
+  - [THE LAST
+    SONG](https://zh.wikipedia.org/wiki/THE_LAST_SONG "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink")
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
-  - [SCARS](../Page/SCARS.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
+  - [SCARS](https://zh.wikipedia.org/wiki/SCARS "wikilink")
   - [Silent Jealousy](../Page/Silent_Jealousy.md "wikilink")
   - Drum Solo
   - HIDEの部屋
   - [Say Anything](../Page/Say_Anything.md "wikilink")
   - Without You
-  - [I.V](../Page/I.V.md "wikilink")
-  - [紅](../Page/紅.md "wikilink")
+  - [I.V](https://zh.wikipedia.org/wiki/I.V "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
 
 アンコール
 
   - [ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")
   - [Longing
-    ～跡切れたmelody～](../Page/Longing_～跡切れたmelody～.md "wikilink")(S.E)
-  - [Crucify My Love](../Page/Crucify_My_Love.md "wikilink")(S.E)
+    ～跡切れたmelody～](https://zh.wikipedia.org/wiki/Longing_～跡切れたmelody～ "wikilink")(S.E)
+  - [Crucify My
+    Love](https://zh.wikipedia.org/wiki/Crucify_My_Love "wikilink")(S.E)
 
 無謀な夜3月29日
 
   - [FOREVER LOVE](../Page/FOREVER_LOVE.md "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink")
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
   - PATA SOLO
-  - [DRAIN](../Page/DRAIN.md "wikilink")
-  - [Longing ～跡切れたmelody～](../Page/Longing_～跡切れたmelody～.md "wikilink")
+  - [DRAIN](https://zh.wikipedia.org/wiki/DRAIN "wikilink")
+  - [Longing
+    ～跡切れたmelody～](https://zh.wikipedia.org/wiki/Longing_～跡切れたmelody～ "wikilink")
   - YOSHIKI Piano SOLO
   - WITHOUT YOU
-  - [I.V](../Page/I.V.md "wikilink")
-  - [紅](../Page/紅.md "wikilink")
+  - [I.V](https://zh.wikipedia.org/wiki/I.V "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
 
 アンコール1
 
@@ -75,21 +80,22 @@ JAPAN於2008年3/28-30在[東京巨蛋所舉辦的復出演唱會](../Page/東�
   - Prologue-World Anthem-(S.E)
   - [X](../Page/X.md "wikilink")
   - [Longing
-    ～跡切れたmelody～](../Page/Longing_～跡切れたmelody～.md "wikilink")(S.E)
-  - [Crucify My Love](../Page/Crucify_My_Love.md "wikilink")(S.E)
+    ～跡切れたmelody～](https://zh.wikipedia.org/wiki/Longing_～跡切れたmelody～ "wikilink")(S.E)
+  - [Crucify My
+    Love](https://zh.wikipedia.org/wiki/Crucify_My_Love "wikilink")(S.E)
 
 創造の夜3月30日
 
   - [Tears](../Page/Tears.md "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink")
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
   - PATA SOLO
   - HEATH SOLO
   - hideの部屋
   - [FOREVER LOVE](../Page/FOREVER_LOVE.md "wikilink")
   - Without You
-  - [I.V](../Page/I.V.md "wikilink")
-  - [紅](../Page/紅.md "wikilink")
+  - [I.V](https://zh.wikipedia.org/wiki/I.V "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
   - オルガスム～歓喜の歌～オルガスム
 
 アンコール1
@@ -105,8 +111,10 @@ JAPAN於2008年3/28-30在[東京巨蛋所舉辦的復出演唱會](../Page/東�
   - [ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")（第二楽章から）
   - [Say Anything](../Page/Say_Anything.md "wikilink") (S.E)
   - [Forever Love(Last
-    Mix)](../Page/Forever_Love\(Last_Mix\).md "wikilink") (S.E)
-  - [UNFINISHED](../Page/UNFINISHED.md "wikilink") (S.E)
+    Mix)](https://zh.wikipedia.org/wiki/Forever_Love\(Last_Mix\) "wikilink")
+    (S.E)
+  - [UNFINISHED](https://zh.wikipedia.org/wiki/UNFINISHED "wikilink")
+    (S.E)
 
 ## 外部連結
 

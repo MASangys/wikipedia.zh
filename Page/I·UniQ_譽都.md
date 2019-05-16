@@ -1,17 +1,17 @@
 [HK_CWB_世貿中心_World_Trade_Centre_新鴻基_Sun_Hung_Kai_i·UniQ_譽都_Residence_房展_示範單位_Showflat_model_Visitors_May-2011.jpg](https://zh.wikipedia.org/wiki/File:HK_CWB_世貿中心_World_Trade_Centre_新鴻基_Sun_Hung_Kai_i·UniQ_譽都_Residence_房展_示範單位_Showflat_model_Visitors_May-2011.jpg "fig:HK_CWB_世貿中心_World_Trade_Centre_新鴻基_Sun_Hung_Kai_i·UniQ_譽都_Residence_房展_示範單位_Showflat_model_Visitors_May-2011.jpg")\]\]
 
 **i·UniQ
-譽都**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是位於[香港](../Page/香港.md "wikilink")[筲箕灣的單幢住宅](../Page/筲箕灣.md "wikilink")，樓高共30層，由[新鴻基地產](../Page/新鴻基地產.md "wikilink")（以*創藝集團有限公司*名義）發展，[啟勝管理服務管理](../Page/啟勝管理服務.md "wikilink")，為發展商首個以品牌**[i·UniQ](../Page/i·UniQ.md "wikilink")**命名之項目，於2013年中旬入伙。
+譽都**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：），是位於[香港](../Page/香港.md "wikilink")[筲箕灣的單幢住宅](../Page/筲箕灣.md "wikilink")，樓高共30層，由[新鴻基地產](../Page/新鴻基地產.md "wikilink")（以*創藝集團有限公司*名義）發展，[啟勝管理服務管理](../Page/啟勝管理服務.md "wikilink")，為發展商首個以品牌**[i·UniQ](https://zh.wikipedia.org/wiki/i·UniQ "wikilink")**命名之項目，於2013年中旬入伙。
 
 ## 品牌簡介
 
 i·UniQ是新鴻基地產悉心打造的革新概念住宅系列，以盛放生活為品牌主題，讓住戶盛放Work | Live |
 Play的自主生活。i·UniQ旗下現時暫有兩個項目，分別為i·UniQ 譽都 (英文：）及[i·UniQ
-譽·東](../Page/i·UniQ_譽·東.md "wikilink")。兩個項目皆位於港島東，[新鴻基地產近日亦表示下一個i](../Page/新鴻基地產.md "wikilink")·UniQ項目，將會是港島西區卑路乍街\[1\]。
+譽·東](https://zh.wikipedia.org/wiki/i·UniQ_譽·東 "wikilink")。兩個項目皆位於港島東，[新鴻基地產近日亦表示下一個i](../Page/新鴻基地產.md "wikilink")·UniQ項目，將會是港島西區卑路乍街\[1\]。
 
 ## 品牌理念
 
-i·UniQ是一個革新概念的住宅品牌，是新地特意為一群正值人生最精彩時期的年青專才打造的優居。[i·UniQ意指i](../Page/i·UniQ.md "wikilink")
+i·UniQ是一個革新概念的住宅品牌，是新地特意為一群正值人生最精彩時期的年青專才打造的優居。[i·UniQ意指i](https://zh.wikipedia.org/wiki/i·UniQ "wikilink")
 am UniQ (unique) ，UniQ源自對Work | Live |
 Play每一方面，都追求選擇，希望以個人無限活力，爭取最優越的成果、自主最優越的生活。就是一份堅持、主見及對生活細節的執著，醞釀出獨特的生活智慧、個性與品味，令生活優越盛放。
 

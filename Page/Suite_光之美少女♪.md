@@ -1,5 +1,5 @@
 《**Suite
-光之美少女♪**》（）是由[東堂泉所製作的](../Page/東堂泉.md "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第八輯，屬第六代光之美少女。於2011年2月6日開始於[朝日電視系播出](../Page/朝日電視系.md "wikilink")。台灣和香港分別在2013年9月20日以及2014年7月9日，以「**光之美少女：美樂天使**」的名稱於[東森幼幼台及](../Page/東森幼幼台.md "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")。
+光之美少女♪**》（）是由[東堂泉所製作的](../Page/東堂泉.md "wikilink")[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第八輯，屬第六代光之美少女。於2011年2月6日開始於[朝日電視系播出](https://zh.wikipedia.org/wiki/朝日電視系 "wikilink")。台灣和香港分別在2013年9月20日以及2014年7月9日，以「**光之美少女：美樂天使**」的名稱於[東森幼幼台及](../Page/東森幼幼台.md "wikilink")[翡翠台播出](../Page/翡翠台.md "wikilink")。
 
 ## 概要
 
@@ -59,7 +59,7 @@
 
       -
         在劇場版[電影 Suite 光之美少女♪
-        奪取回來！連結心中的奇蹟旋律♪中出現](../Page/#電影_Suite_光之美少女♪_奪取回來！連結心中的奇蹟旋律♪.md "wikilink")。
+        奪取回來！連結心中的奇蹟旋律♪中出現](https://zh.wikipedia.org/wiki/#電影_Suite_光之美少女♪_奪取回來！連結心中的奇蹟旋律♪ "wikilink")。
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
     配戴的項鍊能量使其有模仿別人聲音和外型的能力，平時人類的姿態為「黑川艾蓮」。戰鬥時可使用音符來攻擊。第21話
     ，受到哈咪的友情感動，光之美少女的潛能被喚醒而成為同伴，但項鍊也因此破碎。之後維持於人的型態「艾蓮」，暫時無法變成貓或其他型態，被音吉收留在調邊家、就讀於-{北條響}-與-{南野奏}-的班級。
 
-    賽蓮原指[希臘神話中的](../Page/希臘神話.md "wikilink")「海妖[賽蓮](../Page/塞壬.md "wikilink")」。
+    賽蓮原指[希臘神話中的](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「海妖[賽蓮](../Page/塞壬.md "wikilink")」。
 
     繼《[FRESH光之美少女！](../Page/FRESH光之美少女！.md "wikilink")》伊絲之後第二名由敵人轉為正派之光之美少女的成員。
 
@@ -155,7 +155,7 @@
 
     第35話時為阻止暴走的梅菲斯特而拿下面具公開身分，揭露實為愛芙羅黛蒂與梅菲斯特的女兒、大調島的公主。在父親無故失蹤後為查明真相，寄住在加音町的外祖父家。回憶中其光之美少女的潛能於第1話時因得知「傳說中的樂譜」音符飛散而喚醒。目前為歷代光之美少女中年紀最小的。\[7\]
 
-    由於本作的作畫設計，原形可能為[怪談餐館的同名主角](../Page/怪談餐館.md "wikilink")。[繆斯原意為](../Page/繆斯.md "wikilink")[希臘神話中的九位文藝](../Page/希臘神話.md "wikilink")[女神](../Page/女神.md "wikilink")。
+    由於本作的作畫設計，原形可能為[怪談餐館的同名主角](../Page/怪談餐館.md "wikilink")。[繆斯原意為](https://zh.wikipedia.org/wiki/繆斯 "wikilink")[希臘神話中的九位文藝](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")。
 
     變身咒語為「Let's Play！美樂天使 變身（Let's Play！Precure Modulation！）」\[8\]
 
@@ -287,15 +287,15 @@
 
   -
 
-    創造世界所有音樂與聲音的國家「[大調島](../Page/大調.md "wikilink")」的女王，藉著一年一度所選出的精靈來唱「傳說的樂譜」中所寫的「幸福的旋律」，來維持世界和平。
+    創造世界所有音樂與聲音的國家「[大調島](https://zh.wikipedia.org/wiki/大調 "wikilink")」的女王，藉著一年一度所選出的精靈來唱「傳說的樂譜」中所寫的「幸福的旋律」，來維持世界和平。
 
     于劇場版中一度遭到咆哮控制，但後來在其丈夫梅菲斯特的呼喚下恢復清醒擺脫控制。
 
-    愛芙羅黛蒂原指希臘神話中的「愛與美之神─[愛芙羅黛蒂](../Page/阿芙羅狄忒.md "wikilink")」。
+    愛芙羅黛蒂原指希臘神話中的「愛與美之神─[愛芙羅黛蒂](https://zh.wikipedia.org/wiki/阿芙羅狄忒 "wikilink")」。
 
   -
 
-    加音町的調-{音}-師，年事已高，被主角們稱呼為音吉先生。目前正在曲調之館內進行-{[管風琴](../Page/管風琴.md "wikilink")}-的維修。經常神出鬼沒於鎮上的音樂活動。
+    加音町的調-{音}-師，年事已高，被主角們稱呼為音吉先生。目前正在曲調之館內進行-{[管風琴](https://zh.wikipedia.org/wiki/管風琴 "wikilink")}-的維修。經常神出鬼沒於鎮上的音樂活動。
 
     36集提到他是愛芙羅黛蒂的親生父親，一直在人間監視著孫女亞子、光之美少女們與敵方的行動，並於多年前封印噪音（noise）。
 
@@ -311,26 +311,26 @@
 
     自行解除封印墜落於人間後，被不知情的亞子拾去療傷，因此借住於調邊家。後來暗中奪取妖精們的音符，企圖殺害音吉時被主角們揭發身分。後來，先後吞噬了「小調三重唱」而變成鳥人的型態。最後被光之美少女淨化而成為亞子的寵物且身體變成白色。
 
-    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")，與[Happiness
+    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，與[Happiness
     Charge
-    光之美少女及奇跡天使戰鬥](../Page/Happiness_Charge_光之美少女.md "wikilink")，最後自爆。
+    光之美少女及奇跡天使戰鬥](https://zh.wikipedia.org/wiki/Happiness_Charge_光之美少女 "wikilink")，最後自爆。
 
 #### 高層
 
   -
 
-    來自充滿悲傷樂曲的國家「[小調島](../Page/小調.md "wikilink")」的國王。打算將「幸福的旋律」改寫成「不幸的旋律」，使世界陷入悲傷。個性易怒、孩子氣，愛吃棒棒糖。
+    來自充滿悲傷樂曲的國家「[小調島](https://zh.wikipedia.org/wiki/小調 "wikilink")」的國王。打算將「幸福的旋律」改寫成「不幸的旋律」，使世界陷入悲傷。個性易怒、孩子氣，愛吃棒棒糖。
 
     擁有施展耳塞催眠術及活化物體的能力，於第26話時以催眠術提升「小調三重唱」的能力。此外，可以拔下一撮鬍鬚並將之變成一群聽命於他的人形士兵。
 
-    日後揭發事實上其本身也是被邪惡力量以耳塞催眠的受害者，原先身分是「大調島」的[駙馬](../Page/駙馬.md "wikilink")、愛芙羅黛蒂的丈夫，不知為何失蹤並獨立創出「小調島」，據梅菲斯特印象是尋找「治癒音樂盒」途中時在魔響之森遭到攻擊而被邪惡力量（後期証實是噪音）操縱心靈。第36集時被亞子打倒而解除催眠。
+    日後揭發事實上其本身也是被邪惡力量以耳塞催眠的受害者，原先身分是「大調島」的[駙馬](https://zh.wikipedia.org/wiki/駙馬 "wikilink")、愛芙羅黛蒂的丈夫，不知為何失蹤並獨立創出「小調島」，據梅菲斯特印象是尋找「治癒音樂盒」途中時在魔響之森遭到攻擊而被邪惡力量（後期証實是噪音）操縱心靈。第36集時被亞子打倒而解除催眠。
 
-    梅菲斯特原指[浮士德傳說中的](../Page/浮士德.md "wikilink")「惡魔[梅菲斯特](../Page/梅菲斯特.md "wikilink")」。
+    梅菲斯特原指[浮士德傳說中的](../Page/浮士德.md "wikilink")「惡魔[梅菲斯特](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")」。
 
 <!-- end list -->
 
   -
-    [光之美少女（Precure）／賽蓮／黑川艾蓮／節拍天使参照](../Page/#光之美少女（Precure）.md "wikilink")。(賽蓮／黑川艾蓮／節拍天使)
+    [光之美少女（Precure）／賽蓮／黑川艾蓮／節拍天使参照](https://zh.wikipedia.org/wiki/#光之美少女（Precure） "wikilink")。(賽蓮／黑川艾蓮／節拍天使)
 
 ####
 
@@ -340,7 +340,7 @@
 
 ::體型肥大，對賽蓮作為領隊頗有不滿，意圖排除她。在中間人賽蓮離開前後擔任領隊。
 
-::巴斯多拉原意為[英語](../Page/英語.md "wikilink")「[貝斯鼓](../Page/大鼓.md "wikilink")」。
+::巴斯多拉原意為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「[貝斯鼓](../Page/大鼓.md "wikilink")」。
 
 :;
 
@@ -348,7 +348,7 @@
 
 ::樣貌美型，計策多端，催眠進化後時期擔任領隊。
 
-::巴利頓原意為[英語](../Page/英語.md "wikilink")「-{[男中音](../Page/男中音.md "wikilink")}-」。
+::巴利頓原意為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「-{[男中音](../Page/男中音.md "wikilink")}-」。
 
 :;
 
@@ -358,7 +358,7 @@
 
         性格愚昧，常受賽蓮欺壓。在梅菲斯特解除催眠後，受到耳塞的力量影響，透露其真實身分為幕後黑手、噪音的直屬部下，並將噪音的力量強行注入巴斯多拉和巴利頓身上，使他們倆不得不聽命於他。
 
-        法爾賽特原意為[意大利語](../Page/意大利語.md "wikilink")「[假聲](../Page/假聲.md "wikilink")」。
+        法爾賽特原意為[意大利語](https://zh.wikipedia.org/wiki/意大利語 "wikilink")「[假聲](../Page/假聲.md "wikilink")」。
 
 <!-- end list -->
 
@@ -417,7 +417,7 @@
 #### 調邊家
 
   -
-    [小調島／噪音／小P参照](../Page/#小調島.md "wikilink")。(噪音／小P)
+    [小調島／噪音／小P参照](https://zh.wikipedia.org/wiki/#小調島 "wikilink")。(噪音／小P)
 
 ### 亞莉亞學園
 
@@ -491,7 +491,7 @@
   - 企劃：西出將之（ABC）、三宅將典（ADK）、關弘美
   - 製作人：松下洋幸（ABC）、佐佐木禮子（ADK）、梅澤淳稔
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
-  - 連載：[講談社](../Page/講談社.md "wikilink")《》（漫畫：[上北雙子](../Page/上北雙子.md "wikilink")）
+  - 連載：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》（漫畫：[上北雙子](../Page/上北雙子.md "wikilink")）
   - 系列構成：大野敏哉
   - 音樂：[高梨康治](../Page/高梨康治.md "wikilink")
   - 製作擔當：額賀康彥
@@ -500,19 +500,19 @@
   - 人物設計：高橋晃
   - 系列監督：境宗久
   - 製作協力：[東映](../Page/東映.md "wikilink")
-  - 製作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](../Page/ADK.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+  - 製作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 播放電視台
 
-| 播放電視台                                  | 播放日期                   | 播放時間              | 所屬聯播網  | 備註   |
-| -------------------------------------- | ---------------------- | ----------------- | ------ | ---- |
-| [朝日放送](../Page/朝日放送.md "wikilink")     | 2011年2月6日 - 2012年1月29日 | 星期日 8:30 - 9:00   | 朝日電視網  | 同時   |
-| [朝日電視台](../Page/朝日電視台.md "wikilink")   |                        |                   |        |      |
-| [名古屋電視台](../Page/名古屋電視台.md "wikilink") |                        |                   |        |      |
-| 愛媛朝日電視台                                |                        |                   |        |      |
-| [瀨戶內海放送](../Page/瀨戶內海放送.md "wikilink") |                        |                   |        |      |
-| [山陰放送](../Page/山陰放送.md "wikilink")     | 2011年2月12日 - 2012年2月4日 | 星期六 11:15 - 11:45 | 日本新聞網  | 延遲6日 |
-| [宮崎放送](../Page/宮崎放送.md "wikilink")     | 2011年7月19日 - 2012年7月3日 | 星期二 15:30 - 16:00 | 延遲149日 |      |
+| 播放電視台                                                     | 播放日期                   | 播放時間              | 所屬聯播網  | 備註   |
+| --------------------------------------------------------- | ---------------------- | ----------------- | ------ | ---- |
+| [朝日放送](../Page/朝日放送.md "wikilink")                        | 2011年2月6日 - 2012年1月29日 | 星期日 8:30 - 9:00   | 朝日電視網  | 同時   |
+| [朝日電視台](../Page/朝日電視台.md "wikilink")                      |                        |                   |        |      |
+| [名古屋電視台](../Page/名古屋電視台.md "wikilink")                    |                        |                   |        |      |
+| 愛媛朝日電視台                                                   |                        |                   |        |      |
+| [瀨戶內海放送](https://zh.wikipedia.org/wiki/瀨戶內海放送 "wikilink") |                        |                   |        |      |
+| [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink")     | 2011年2月12日 - 2012年2月4日 | 星期六 11:15 - 11:45 | 日本新聞網  | 延遲6日 |
+| [宮崎放送](https://zh.wikipedia.org/wiki/宮崎放送 "wikilink")     | 2011年7月19日 - 2012年7月3日 | 星期二 15:30 - 16:00 | 延遲149日 |      |
 
 ### 各話標題
 
@@ -564,7 +564,7 @@
 <td></td>
 <td><p>鏘鏘～！音討厭音樂喵？</p></td>
 <td><p>噔噔　阿-{音}-討厭音樂？喵</p></td>
-<td><p><a href="../Page/米村正二.md" title="wikilink">米村正二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米村正二" title="wikilink">米村正二</a></p></td>
 <td><p>岩井隆央</p></td>
 <td><p>ポール・アンニョヌエボ<br />
 フランシス・カネダ</p></td>
@@ -590,7 +590,7 @@
 <td></td>
 <td><p>手忙腳亂！挑戰擔任電視播報員喵♪</p></td>
 <td><p>手忙腳亂，當節目主持的挑戰，喵</p></td>
-<td><p><a href="../Page/木瀧りま.md" title="wikilink">木瀧りま</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木瀧りま" title="wikilink">木瀧りま</a></p></td>
 <td></td>
 <td><p>河野宏之</p></td>
 <td><p>田中美紀</p></td>
@@ -602,7 +602,7 @@
 <td></td>
 <td><p>嘮嘮叨叨！在說教中誕生的奇蹟指揮棒喵♪</p></td>
 <td><p>囉囉嗦嗦，教訓催生了旋律魔法棒，喵</p></td>
-<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
 <td><p>小川孝治</p></td>
 <td></td>
 <td><p>戶杉奈津子</p></td>
@@ -690,7 +690,7 @@
 <td><p>喵Pu，賽蓮和哈咪的秘密，喵</p></td>
 <td><p>米村正二</p></td>
 <td><p>芝田浩樹</p></td>
-<td><p><a href="../Page/上野賢.md" title="wikilink">上野賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上野賢" title="wikilink">上野賢</a></p></td>
 <td><p>田中里綠</p></td>
 <td><p>5月8日</p></td>
 <td><p>8月26日</p></td>
@@ -750,7 +750,7 @@
 <td><p>呼哇哇！收集音符可不輕鬆喵！</p></td>
 <td><p>嘩嘩，收集音符也不輕鬆的，喵</p></td>
 <td><p>伊藤睦美</p></td>
-<td><p><a href="../Page/長峯達也.md" title="wikilink">長峯達也</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/長峯達也" title="wikilink">長峯達也</a><br />
 岩井隆央</p></td>
 <td><p>ポール・アンニョヌエボ<br />
 フランシス・カネダ</p></td>
@@ -766,7 +766,7 @@
 <td><p>成田良美</p></td>
 <td><p>山口祐司<br />
 廣嶋秀樹</p></td>
-<td><p><a href="../Page/青山充.md" title="wikilink">青山充</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青山充" title="wikilink">青山充</a></p></td>
 <td><p>渡部葉</p></td>
 <td><p>6月26日</p></td>
 <td><p>9月16日</p></td>
@@ -837,7 +837,7 @@
 <td></td>
 <td><p>陰森森！發現艾蓮的弱點了喵！</p></td>
 <td><p>嗚哇哇　發現艾蓮的弱點了，喵</p></td>
-<td><p><a href="../Page/小林雄次.md" title="wikilink">小林雄次</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林雄次" title="wikilink">小林雄次</a></p></td>
 <td><p>門由利子</p></td>
 <td><p>なまためやすひろ</p></td>
 <td><p>戶杉奈津子</p></td>
@@ -1188,7 +1188,7 @@
   -
 
       -
-        作曲：高取秀明／編曲：籠島裕昌／歌：[彩虹姐姐](../Page/彩虹姐姐.md "wikilink")、[夏宇童](../Page/馬詩婷.md "wikilink")
+        作曲：高取秀明／編曲：籠島裕昌／歌：[彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")、[夏宇童](../Page/馬詩婷.md "wikilink")
 
 <!-- end list -->
 
@@ -1226,7 +1226,7 @@
   -
 
       -
-        其真身形象源自于《西遊记》中的「孫悟空」，名字原意為[英語](../Page/英語.md "wikilink")「-{[升音符](../Page/升音符.md "wikilink")}-記號」。
+        其真身形象源自于《西遊记》中的「孫悟空」，名字原意為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「-{[升音符](https://zh.wikipedia.org/wiki/升音符 "wikilink")}-記號」。
 
           - Mega Fire
 
@@ -1235,7 +1235,7 @@
     <!-- end list -->
 
       -
-        其真身形象源自于《西遊记》中的「沙悟凈」，名字原意為[英語](../Page/英語.md "wikilink")「-{[本位音](../Page/本位音.md "wikilink")}-記號」。
+        其真身形象源自于《西遊记》中的「沙悟凈」，名字原意為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「-{[本位音](https://zh.wikipedia.org/wiki/本位音 "wikilink")}-記號」。
 
           - Tera Ball
 
@@ -1244,7 +1244,7 @@
     <!-- end list -->
 
       -
-        其真身形象源自于《西遊记》中的「猪八戒」，名字原意為[英語](../Page/英語.md "wikilink")「-{[降音符](../Page/降音符.md "wikilink")}-記號」。
+        其真身形象源自于《西遊记》中的「猪八戒」，名字原意為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「-{[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")}-記號」。
 
           - Giga Thunder
 
@@ -1268,7 +1268,8 @@
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")
+    主條目：[All Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
@@ -1289,9 +1290,9 @@
     [光之美少女 All Stars
     春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")
+    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
 
 ## 註釋
 
@@ -1324,7 +1325,7 @@
 6.  原文：
 
 7.  另外也是歷代系列僅有兩位以長䄂穿著的光之美少女，另外一位為[KiraKira☆光之美少女 A La
-    Mode的巧克力天使](../Page/KiraKira☆光之美少女_A_La_Mode.md "wikilink")。
+    Mode的巧克力天使](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")。
 
 8.
 9.  原文：

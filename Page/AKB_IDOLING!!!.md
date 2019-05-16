@@ -20,8 +20,8 @@ Push☆1」活動使兩個組合建立了聯合關係。雙方的選拔成員組
 
 <!-- end list -->
 
-  - [遠藤舞](https://zh.wikipedia.org/wiki/遠藤舞 "wikilink")（3号）
-  - [外岡好梨花](https://zh.wikipedia.org/wiki/外岡好梨花 "wikilink")（6号）
+  - [遠藤舞](../Page/遠藤舞.md "wikilink")（3号）
+  - [外岡好梨花](../Page/外岡好梨花.md "wikilink")（6号）
   - [谷澤惠里香](https://zh.wikipedia.org/wiki/谷澤惠里香 "wikilink")（7号）
   - [橫山琉璃香](https://zh.wikipedia.org/wiki/橫山琉璃香 "wikilink")（9号）以上1期生。
   - [酒井瞳](https://zh.wikipedia.org/wiki/酒井瞳 "wikilink")（14号）

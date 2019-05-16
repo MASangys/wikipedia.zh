@@ -1,5 +1,5 @@
 **Perfume Second Tour 2009
-『直角二等邊三角形TOUR』**是[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第四張演唱會](../Page/Perfume.md "wikilink")[DVD](../Page/DVD.md "wikilink")（CD付屬的DVD除外）。
+『直角二等邊三角形TOUR』**是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第四張演唱會](https://zh.wikipedia.org/wiki/Perfume "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（CD付屬的DVD除外）。
 
 ## 概要
 
@@ -20,9 +20,10 @@ DVD在發售首周賣出超過5萬4千張，是繼『Perfume First Tour 『GAME�
 2.  [NIGHT FLIGHT](../Page/⊿_\(Perfume專輯\).md "wikilink")
 3.  [Electro World](../Page/Electro_World.md "wikilink")
 4.  [Dream Fighter](../Page/Dream_Fighter.md "wikilink")
-5.  [love the world](../Page/love_the_world.md "wikilink")
+5.  [love the
+    world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
 6.  [Zero Gravity](../Page/⊿_\(Perfume專輯\).md "wikilink")
-7.  [Macaroni](../Page/Baby_cruising_Love/Macaroni.md "wikilink")
+7.  [Macaroni](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
 8.  [SEVENTH HEAVEN](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")
 9.  [Kiss and Music](../Page/⊿_\(Perfume專輯\).md "wikilink")
 10. [Speed of Sound](../Page/⊿_\(Perfume專輯\).md "wikilink")

@@ -9,7 +9,7 @@ BARA](https://zh.wikipedia.org/wiki/SUKI_BARA "wikilink")》的結束歌曲、�
 CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》介紹這首歌之後，在Oricon首次進入前十位。之後，大和美姬丸首次被邀請上《[MUSIC
 STATION](../Page/MUSIC_STATION.md "wikilink")》演出。
 
-在下載方面的成績更加驚人，手機片段下載次數達到100萬次以上。\[2\]所以下載方式下載次數高達150萬次以上。是2006年日本[iTunes歌曲下載第](../Page/iTunes.md "wikilink")2位。\[3\]
+在下載方面的成績更加驚人，手機片段下載次數達到100萬次以上。\[2\]所以下載方式下載次數高達150萬次以上。是2006年日本[iTunes歌曲下載第](https://zh.wikipedia.org/wiki/iTunes "wikilink")2位。\[3\]
 
 [2006年世界盃足球賽日本隊曾使用](https://zh.wikipedia.org/wiki/2006年世界盃足球賽 "wikilink")「心情HIGH翻天～日本應援版～」作為應援歌。同年被邀請上[第57回日本紅白歌合戰演唱這首歌](https://zh.wikipedia.org/wiki/第57回日本紅白歌合戰 "wikilink")。\[4\]
 

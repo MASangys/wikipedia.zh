@@ -20,8 +20,8 @@
 
   - [NEWS
     STATION](../Page/NEWS_STATION.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")
-  - [お天気Diary](../Page/お天気Diary.md "wikilink")[秋田電視台主題曲](../Page/秋田電視台.md "wikilink")
-  - [プロ野球中継](../Page/プロ野球中継.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")
+  - [お天気Diary](https://zh.wikipedia.org/wiki/お天気Diary "wikilink")[秋田電視台主題曲](https://zh.wikipedia.org/wiki/秋田電視台 "wikilink")
+  - [プロ野球中継](https://zh.wikipedia.org/wiki/プロ野球中継 "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")
 
 ## 收錄專輯
 

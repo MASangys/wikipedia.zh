@@ -58,7 +58,7 @@ Ensiferum的歌曲常在[副歌与](https://zh.wikipedia.org/wiki/副歌 "wikili
   - [Henri "Trollhorn"
     Sorvali](https://zh.wikipedia.org/wiki/Henri_Sorvali "wikilink") –
     在专辑*Ensiferum*中客串键盘
-    ([Finntroll](https://zh.wikipedia.org/wiki/Finntroll "wikilink"),
+    ([Finntroll](../Page/Finntroll.md "wikilink"),
     [Moonsorrow](https://zh.wikipedia.org/wiki/Moonsorrow "wikilink"),
     前[Korpiklaani成员](../Page/Korpiklaani.md "wikilink"))
   - [Aleksi

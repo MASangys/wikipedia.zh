@@ -1,5 +1,5 @@
 [Norther_Live.jpg](https://zh.wikipedia.org/wiki/File:Norther_Live.jpg "fig:Norther_Live.jpg")
-**Norther**，是[芬蘭](../Page/芬蘭.md "wikilink")[赫爾辛基的一個](../Page/赫爾辛基.md "wikilink")[旋律死亡金屬樂團](../Page/旋律死亡金屬.md "wikilink")，他們的風格具有[力量金屬音樂的特質](../Page/力量金屬.md "wikilink")。
+**Norther**，是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[赫爾辛基的一個](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")[旋律死亡金屬樂團](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")，他們的風格具有[力量金屬音樂的特質](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")。
 
 ## 歷史
 

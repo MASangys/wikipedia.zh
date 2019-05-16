@@ -1,11 +1,12 @@
-**Epi Info**是由[美國疾病控制與預防中心](../Page/美國疾病控制與預防中心.md "wikilink")（Centers
+**Epi
+Info**是由[美國疾病控制與預防中心](https://zh.wikipedia.org/wiki/美國疾病控制與預防中心 "wikilink")（Centers
 for Disease Control and Prevention，CDC US）所開發之統計軟體，最常應用於公共衛生領域相關研究。
 
 ## 簡介
 
 Epi Info統計軟體已經開發20多年，第一版是"Epi Info
 1"是在1985年微軟[MS-DOS模式下的軟體](../Page/MS-DOS.md "wikilink")，且目前仍舊有支援在[Microsoft
-Windows模式下運作之版本](../Page/Microsoft_Windows.md "wikilink")。
+Windows模式下運作之版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 Epi
 Info這套軟體常被各國第一線公共衛生人員用來做調查取樣、資料登錄與後續統計分析之用。其可進行之統計分析方法包括了t-tests、ANOVA、nonparametric
@@ -22,12 +23,12 @@ Epi Info 3（3.5.1）支援Windows 98, NT 4.0, 2000, XP SP3, Vista作業平台
 
 ## 相關軟體
 
-  - [SAS](../Page/SAS.md "wikilink")
+  - [SAS](https://zh.wikipedia.org/wiki/SAS "wikilink")
   - [SPSS](../Page/SPSS.md "wikilink")
   - [Minitab](../Page/Minitab.md "wikilink")
-  - [Mathematica](../Page/Mathematica.md "wikilink")
-  - [MAPLE](../Page/MAPLE.md "wikilink")
-  - [OpenEpi](../Page/OpenEpi.md "wikilink")
+  - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
+  - [MAPLE](https://zh.wikipedia.org/wiki/MAPLE "wikilink")
+  - [OpenEpi](https://zh.wikipedia.org/wiki/OpenEpi "wikilink")
 
 ## 参考文献
 

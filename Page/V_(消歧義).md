@@ -44,9 +44,9 @@
   - V，[维旺迪公司曾使用的纽约证券交易所股票代号](../Page/维旺迪.md "wikilink")
   - v，[动词的语法代号](https://zh.wikipedia.org/wiki/动词 "wikilink")
   - V，[挪威自由党](https://zh.wikipedia.org/wiki/挪威自由党 "wikilink")（）的缩写
-  - Ⓥ，[挪威國家酒局的符号](https://zh.wikipedia.org/wiki/挪威國家酒局 "wikilink")
+  - Ⓥ，[挪威國家酒局的符号](../Page/挪威國家酒局.md "wikilink")
   - [VVVVVV](../Page/VVVVVV.md "wikilink")，特里·卡瓦纳设计的益智游戏
-  - [金泰亨](https://zh.wikipedia.org/wiki/金泰亨 "wikilink")，藝名V，韓國男子組合[防彈少年團成員](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [金泰亨](https://zh.wikipedia.org/wiki/金泰亨 "wikilink")，藝名V，韓國男子組合[防彈少年團成員](../Page/防彈少年團.md "wikilink")
   - 新北捷運[淡海輕軌](https://zh.wikipedia.org/wiki/淡海輕軌 "wikilink")，路線編碼為V
 
 ## 参见

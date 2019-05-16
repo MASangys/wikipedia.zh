@@ -25,8 +25,7 @@
   - MIKADO（），2008年10月31日開業，2010年2月4日停業。
   - [CATWALK
     Entertainment](../Page/CATWALK_Entertainment.md "wikilink")（）
-  - [Super Model
-    Media](https://zh.wikipedia.org/wiki/Super_Model_Medial作品列表 "wikilink")（）
+  - [Super Model Media](../Page/Super_Model_Medial作品列表.md "wikilink")（）
   - [MUGEN Entertainment](../Page/MUGEN_Entertainment.md "wikilink")（）
   - [Tokyo-Hot](https://zh.wikipedia.org/wiki/Tokyo-Hot "wikilink")（东京热）
 

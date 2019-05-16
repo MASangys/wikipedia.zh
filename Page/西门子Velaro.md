@@ -1,32 +1,32 @@
 [Baureihe_407_-_Kopf.jpg](https://zh.wikipedia.org/wiki/File:Baureihe_407_-_Kopf.jpg "fig:Baureihe_407_-_Kopf.jpg")
-**Velaro**（衍生自“高速”的[西班牙文](../Page/西班牙文.md "wikilink")[词组](../Page/词组.md "wikilink")）\[1\]是[西门子交通集团提供的一个](../Page/西门子交通集团.md "wikilink")[高速列车技术平台](../Page/高速列车.md "wikilink")，也是[西门子股份公司的](../Page/西门子股份公司.md "wikilink")[注册商标](../Page/注册商标.md "wikilink")\[2\]。该平台是基于[ICE-3列车发展而来](../Page/ICE-3列车.md "wikilink")，并可以根据每个[铁路运营商的具体需求而个别定制不同的](../Page/铁路运营商.md "wikilink")[动车组](../Page/动车组.md "wikilink")。
+**Velaro**（衍生自“高速”的[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")[词组](../Page/词组.md "wikilink")）\[1\]是[西门子交通集团提供的一个](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[高速列车技术平台](https://zh.wikipedia.org/wiki/高速列车 "wikilink")，也是[西门子股份公司的](https://zh.wikipedia.org/wiki/西门子股份公司 "wikilink")[注册商标](https://zh.wikipedia.org/wiki/注册商标 "wikilink")\[2\]。该平台是基于[ICE-3列车发展而来](https://zh.wikipedia.org/wiki/ICE-3列车 "wikilink")，并可以根据每个[铁路运营商的具体需求而个别定制不同的](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。
 
-[西班牙国家铁路是首个向西门子订购](../Page/西班牙国家铁路.md "wikilink")**Velaro
-E**的用户，并将其定型为[西班牙国铁103型](../Page/西班牙国铁103型电力动车组.md "wikilink")；伴随着350公里/小时的续航速度及407.3公里/小时的最高速度\[3\]，这款变体是从2007年6月22日至2010年9月28日期间全球运行速度最快的轮轨列车\[4\]。在[俄罗斯运营的](../Page/俄罗斯.md "wikilink")[游隼号列车是一个](../Page/游隼号列车.md "wikilink")[宽轨版本](../Page/宽轨.md "wikilink")，被制造商标识为**Velaro
-RUS**。用于[中国的](../Page/中国.md "wikilink")[和谐号CRH3型是一个拥有更宽](../Page/和谐号CRH3型电力动车组.md "wikilink")的[標準轨版本](../Page/標準轨.md "wikilink")，它以**Velaro
-CN**的名义生产，并已部分投入定期运用；这款列车的变体在2011年1月9日以487公里/小时的最高速度创造了新的[軌道車輛速度紀錄](../Page/軌道車輛速度紀錄.md "wikilink")\[5\]。为[德国生产的](../Page/德国.md "wikilink")16组[德国铁路407型被标识为](../Page/德国铁路407型电力动车组.md "wikilink")**Velaro
-D**。为[欧洲之星生产的](../Page/欧洲之星.md "wikilink")[英国铁路374型被标识为](../Page/英国铁路374型电力动车组.md "wikilink")**Velaro
-e320**，它们将在2015年投入[英法海底隧道的运营](../Page/英法海底隧道.md "wikilink")，作为现有[英国铁路373型的补充](../Page/英铁373型电力动车组.md "wikilink")。2013年3月，西门子决定制造6组动车组加上第7组试验列车交付[土耳其国家铁路](../Page/土耳其国家铁路.md "wikilink")，它们将被标识为**Velaro
+[西班牙国家铁路是首个向西门子订购](https://zh.wikipedia.org/wiki/西班牙国家铁路 "wikilink")**Velaro
+E**的用户，并将其定型为[西班牙国铁103型](https://zh.wikipedia.org/wiki/西班牙国铁103型电力动车组 "wikilink")；伴随着350公里/小时的续航速度及407.3公里/小时的最高速度\[3\]，这款变体是从2007年6月22日至2010年9月28日期间全球运行速度最快的轮轨列车\[4\]。在[俄罗斯运营的](../Page/俄罗斯.md "wikilink")[游隼号列车是一个](https://zh.wikipedia.org/wiki/游隼号列车 "wikilink")[宽轨版本](https://zh.wikipedia.org/wiki/宽轨 "wikilink")，被制造商标识为**Velaro
+RUS**。用于[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[和谐号CRH3型是一个拥有更宽](../Page/和谐号CRH3型电力动车组.md "wikilink")的[標準轨版本](https://zh.wikipedia.org/wiki/標準轨 "wikilink")，它以**Velaro
+CN**的名义生产，并已部分投入定期运用；这款列车的变体在2011年1月9日以487公里/小时的最高速度创造了新的[軌道車輛速度紀錄](../Page/軌道車輛速度紀錄.md "wikilink")\[5\]。为[德国生产的](../Page/德国.md "wikilink")16组[德国铁路407型被标识为](https://zh.wikipedia.org/wiki/德国铁路407型电力动车组 "wikilink")**Velaro
+D**。为[欧洲之星生产的](https://zh.wikipedia.org/wiki/欧洲之星 "wikilink")[英国铁路374型被标识为](https://zh.wikipedia.org/wiki/英国铁路374型电力动车组 "wikilink")**Velaro
+e320**，它们将在2015年投入[英法海底隧道的运营](https://zh.wikipedia.org/wiki/英法海底隧道 "wikilink")，作为现有[英国铁路373型的补充](https://zh.wikipedia.org/wiki/英铁373型电力动车组 "wikilink")。2013年3月，西门子决定制造6组动车组加上第7组试验列车交付[土耳其国家铁路](https://zh.wikipedia.org/wiki/土耳其国家铁路 "wikilink")，它们将被标识为**Velaro
 TR**。
 
 截至2011年2月，Velaro的订单总价值达到44亿欧元\[6\]。
 
 ## 通用技术
 
-Velaro是由[德国铁路运营的](../Page/德国铁路.md "wikilink")[ICE-3列车发展而来](../Page/ICE-3列车.md "wikilink")。但[ICE列车的各款型号是在](../Page/ICE列车.md "wikilink")[20世纪90年代](../Page/20世纪90年代.md "wikilink")，由[西门子为首的多家公司组成的制造商](../Page/西门子交通集团.md "wikilink")[联盟进行开发](../Page/联盟.md "wikilink")，而Velaro则是一款纯粹的西门子产品。在与联盟分离后，目前唯一的制造商西门子需要对[动车组进行一般适用的修改](../Page/动车组.md "wikilink")，因为在此期间欧盟出台了和进一步的标准，当中包括新的消防标准及各项复杂的要求。再有就是对此前并非由西门子负责开发的列车部件进行重新设计。整体结构采用[铝质构造的Velaro列车被设计为一个平台概念](../Page/铝.md "wikilink")，它可以针对不同国家客户的具体需求进行修改。在目前的版本中，可根据当地要求进行调整的范围包括传动功率、配电系统、[空调](../Page/空调.md "wikilink")、座位数量、车身宽度及[轨距](../Page/轨距.md "wikilink")。与ICE-3列车相比也有明显的改变。乘降门为电动塞拉门，其净宽及净高分别为900毫米及2,050毫米。
+Velaro是由[德国铁路运营的](../Page/德国铁路.md "wikilink")[ICE-3列车发展而来](https://zh.wikipedia.org/wiki/ICE-3列车 "wikilink")。但[ICE列车的各款型号是在](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")[20世纪90年代](https://zh.wikipedia.org/wiki/20世纪90年代 "wikilink")，由[西门子为首的多家公司组成的制造商](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[联盟进行开发](https://zh.wikipedia.org/wiki/联盟 "wikilink")，而Velaro则是一款纯粹的西门子产品。在与联盟分离后，目前唯一的制造商西门子需要对[动车组进行一般适用的修改](https://zh.wikipedia.org/wiki/动车组 "wikilink")，因为在此期间欧盟出台了和进一步的标准，当中包括新的消防标准及各项复杂的要求。再有就是对此前并非由西门子负责开发的列车部件进行重新设计。整体结构采用[铝质构造的Velaro列车被设计为一个平台概念](../Page/铝.md "wikilink")，它可以针对不同国家客户的具体需求进行修改。在目前的版本中，可根据当地要求进行调整的范围包括传动功率、配电系统、[空调](https://zh.wikipedia.org/wiki/空调 "wikilink")、座位数量、车身宽度及[轨距](../Page/轨距.md "wikilink")。与ICE-3列车相比也有明显的改变。乘降门为电动塞拉门，其净宽及净高分别为900毫米及2,050毫米。
 
-不同于ICE-3列车，Velaro的辅助牵引设备，例如[整流器冷却水泵](../Page/整流器.md "wikilink")、[逆变器冷却](../Page/逆变器.md "wikilink")[风机](../Page/风机.md "wikilink")、[电动机风机以及](../Page/牵引电动机.md "wikilink")[制动器风机均可以独立于](../Page/制动器.md "wikilink")[接触网供电运行](../Page/接触网.md "wikilink")\[7\]。它解决了ICE-3列车在[法国高速铁路东线上通过](../Page/法国高速铁路东线.md "wikilink")[分相区时反复出现的冷却中断问题](../Page/分相区.md "wikilink")。
+不同于ICE-3列车，Velaro的辅助牵引设备，例如[整流器冷却水泵](../Page/整流器.md "wikilink")、[逆变器冷却](https://zh.wikipedia.org/wiki/逆变器 "wikilink")[风机](https://zh.wikipedia.org/wiki/风机 "wikilink")、[电动机风机以及](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[制动器风机均可以独立于](https://zh.wikipedia.org/wiki/制动器 "wikilink")[接触网供电运行](https://zh.wikipedia.org/wiki/接触网 "wikilink")\[7\]。它解决了ICE-3列车在[法国高速铁路东线上通过](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[分相区时反复出现的冷却中断问题](https://zh.wikipedia.org/wiki/分相区 "wikilink")。
 
-与ICE-3列车相比，大多数的Velaro变体都没有配备[涡流制动](../Page/涡流制动.md "wikilink")，仅Velaro
+与ICE-3列车相比，大多数的Velaro变体都没有配备[涡流制动](https://zh.wikipedia.org/wiki/涡流制动 "wikilink")，仅Velaro
 D列车具有这样的制动系统。
 
 ### 分散式动力
 
-Velaro的另一项重要特点是采用[动力分散式技术](../Page/动力分散式.md "wikilink")，这在此前已被运用于ICE-3列车，并可以藉此省去动力车头。除了[牵引电动机及制动器始终安装在底板下方外](../Page/牵引电动机.md "wikilink")，一些原本设于动力车头内的电气设备及机械设备，例如变压器、牵引逆变器、、[空压机](../Page/空压机.md "wikilink")、风缸、制动架、电池箱和[蓄电池充电器等都被分布在每节车厢的底板下方](../Page/充电器.md "wikilink")。一列八节编组的动车组有50%的[转向架为动力转向架](../Page/转向架.md "wikilink")（十节编组的Velaro
-RUS则为40%）。因此，列车的起动牵引力相较于带动力车头的[ICE-2列车提高了](../Page/ICE-2列车.md "wikilink")50%，由200[千牛增强为](../Page/千牛.md "wikilink")300[千牛](../Page/千牛.md "wikilink")。牵引力也比[ICE-1及ICE](../Page/ICE-1列车.md "wikilink")-2列车有了显著提高，以至于列车在4%的[坡度上起动也是有可能的](../Page/坡度.md "wikilink")，即使有四分之一的加速功率不可用。
+Velaro的另一项重要特点是采用[动力分散式技术](https://zh.wikipedia.org/wiki/动力分散式 "wikilink")，这在此前已被运用于ICE-3列车，并可以藉此省去动力车头。除了[牵引电动机及制动器始终安装在底板下方外](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，一些原本设于动力车头内的电气设备及机械设备，例如变压器、牵引逆变器、、[空压机](https://zh.wikipedia.org/wiki/空压机 "wikilink")、风缸、制动架、电池箱和[蓄电池充电器等都被分布在每节车厢的底板下方](https://zh.wikipedia.org/wiki/充电器 "wikilink")。一列八节编组的动车组有50%的[转向架为动力转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")（十节编组的Velaro
+RUS则为40%）。因此，列车的起动牵引力相较于带动力车头的[ICE-2列车提高了](https://zh.wikipedia.org/wiki/ICE-2列车 "wikilink")50%，由200[千牛增强为](https://zh.wikipedia.org/wiki/千牛 "wikilink")300[千牛](https://zh.wikipedia.org/wiki/千牛 "wikilink")。牵引力也比[ICE-1及ICE](https://zh.wikipedia.org/wiki/ICE-1列车 "wikilink")-2列车有了显著提高，以至于列车在4%的[坡度上起动也是有可能的](../Page/坡度.md "wikilink")，即使有四分之一的加速功率不可用。
 
 此外，在相同长度的列车中，Velaro提供的座位数提高了15%。被称为“Velaro
-HD”的设计草图可在200米长的列车中提供536个座位（[UIC标准的](../Page/国际铁路联盟.md "wikilink")2+2布局）。这个概念还允许乘客在列车两端获得清晰的线路视野\[8\]\[9\]。驾驶室与客舱仅以一扇[玻璃幕墙相隔](../Page/玻璃.md "wikilink")，坐在休息室内的乘客可以越过[火车司机眺望列车的前方或后方景观](../Page/火车司机.md "wikilink")。
+HD”的设计草图可在200米长的列车中提供536个座位（[UIC标准的](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")2+2布局）。这个概念还允许乘客在列车两端获得清晰的线路视野\[8\]\[9\]。驾驶室与客舱仅以一扇[玻璃幕墙相隔](../Page/玻璃.md "wikilink")，坐在休息室内的乘客可以越过[火车司机眺望列车的前方或后方景观](https://zh.wikipedia.org/wiki/火车司机 "wikilink")。
 
 ### 技术参数比较
 
@@ -53,11 +53,11 @@ HD”的设计草图可在200米长的列车中提供536个座位（[UIC标准�
 </tr>
 <tr class="even">
 <td><p>型号/名称</p></td>
-<td><p><a href="../Page/西班牙国铁103型电力动车组.md" title="wikilink">103型</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西班牙国铁103型电力动车组" title="wikilink">103型</a></p></td>
 <td><p><a href="../Page/和谐号CRH3型电力动车组.md" title="wikilink">CRH3型</a>/<a href="../Page/和谐号CRH380B型电力动车组.md" title="wikilink">CRH380B型</a>/<a href="../Page/和谐号CRH380C型电力动车组.md" title="wikilink">CRH380C型</a></p></td>
-<td><p><a href="../Page/游隼号列车.md" title="wikilink">游隼号</a></p></td>
-<td><p><a href="../Page/德国铁路407型电力动车组.md" title="wikilink">407型</a></p></td>
-<td><p><a href="../Page/英国铁路374型电力动车组.md" title="wikilink">374型</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游隼号列车" title="wikilink">游隼号</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德国铁路407型电力动车组" title="wikilink">407型</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英国铁路374型电力动车组" title="wikilink">374型</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>数量</p></td>
@@ -92,10 +92,10 @@ HD”的设计草图可在200米长的列车中提供536个座位（[UIC标准�
 </tr>
 <tr class="even">
 <td><p>受流电压</p></td>
-<td><p>25 kV 50 Hz <a href="../Page/交流电.md" title="wikilink">~</a></p></td>
+<td><p>25 kV 50 Hz <a href="https://zh.wikipedia.org/wiki/交流电" title="wikilink">~</a></p></td>
 <td><p>25 kV 50 Hz ~</p></td>
 <td><p><u>单电压：</u><br />
-3 kV <a href="../Page/直流电.md" title="wikilink">=</a><br />
+3 kV <a href="https://zh.wikipedia.org/wiki/直流电" title="wikilink">=</a><br />
 <u>双电压：</u><br />
 3 kV =<br />
 25 kV 50 Hz ~</p></td>
@@ -111,7 +111,7 @@ HD”的设计草图可在200米长的列车中提供536个座位（[UIC标准�
 </tr>
 <tr class="odd">
 <td><p>受流方式</p></td>
-<td><p><a href="../Page/受电弓.md" title="wikilink">受电弓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/受电弓" title="wikilink">受电弓</a></p></td>
 <td><p>受电弓</p></td>
 <td><p>受电弓</p></td>
 <td><p>受电弓</p></td>
@@ -234,7 +234,7 @@ ca. 400 m <small>（16节编组）</small></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/UIC轴式.md" title="wikilink">轴式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UIC轴式" title="wikilink">轴式</a></p></td>
 <td><p>Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
 +2'2'+Bo’Bo’+2’2’+Bo’Bo’</p></td>
 <td><p>Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
@@ -314,7 +314,7 @@ Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
 <td><p>连接器类别</p></td>
 <td></td>
 <td><p>夏芬伯格车钩</p></td>
-<td><p><a href="../Page/SA-3车钩.md" title="wikilink">SA-3车钩</a>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SA-3车钩" title="wikilink">SA-3车钩</a>[25]</p></td>
 <td><p>夏芬伯格车钩</p></td>
 <td></td>
 </tr>
@@ -342,7 +342,7 @@ Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
 <td><p>制动系统</p></td>
 <td><p><a href="../Page/电阻制动.md" title="wikilink">电阻制动</a><br />
 <a href="../Page/空气制动.md" title="wikilink">空气制动</a><br />
-<a href="../Page/再生制动.md" title="wikilink">再生制动</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/再生制动" title="wikilink">再生制动</a></p></td>
 <td><p>电阻制动<br />
 空气制动<br />
 再生制动<br />
@@ -353,7 +353,7 @@ Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
 弹簧制动</p></td>
 <td><p>电阻制动<br />
 空气制动<br />
-<a href="../Page/涡流制动.md" title="wikilink">涡流制动</a><br />
+<a href="https://zh.wikipedia.org/wiki/涡流制动" title="wikilink">涡流制动</a><br />
 弹簧制动</p></td>
 <td><p>电阻制动<br />
 空气制动<br />
@@ -422,42 +422,42 @@ Bo’Bo’+2’2’+Bo’Bo’+2’2’<br />
 ### Velaro E
 
 Velaro
-E（，即[西班牙的](../Page/西班牙.md "wikilink")[西班牙文称谓](../Page/西班牙文.md "wikilink")）是第一款基于Velaro平台、完全由西门子独立开发的列车。全部26组八节编组的列车具有350公里/小时的最高运营速度，并被运营商定型为103型。[西班牙国家铁路为其设定了三舱等级](../Page/西班牙国家铁路.md "wikilink")\[31\]。列车根据实际运营需求及运营商偏好，在技术及内饰上作出了进一步开发。自2007年以来，列车已在西班牙不同的[標準軌线路中投入定期服务](../Page/標準軌.md "wikilink")。
+E（，即[西班牙的](../Page/西班牙.md "wikilink")[西班牙文称谓](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")）是第一款基于Velaro平台、完全由西门子独立开发的列车。全部26组八节编组的列车具有350公里/小时的最高运营速度，并被运营商定型为103型。[西班牙国家铁路为其设定了三舱等级](https://zh.wikipedia.org/wiki/西班牙国家铁路 "wikilink")\[31\]。列车根据实际运营需求及运营商偏好，在技术及内饰上作出了进一步开发。自2007年以来，列车已在西班牙不同的[標準軌线路中投入定期服务](../Page/標準軌.md "wikilink")。
 
 ### Velaro CN
 
 Velaro
-CN\[32\]（，即[中国的](../Page/中国.md "wikilink")[德文称谓](../Page/德文.md "wikilink")）是第二款基于Velaro平台开发的列车。它为适应[中国高速铁路的运输特点而作出了技术调整及加宽车身](../Page/中国高速铁路.md "wikilink")，并被运营商定型为CRH3型（CRH3C）。列车大部分的生产工作均在中国当地进行。CRH3C目前已在[京津城际铁路及](../Page/京津城际铁路.md "wikilink")[武广客运专线投入服务](../Page/武广客运专线.md "wikilink")。随后，中国还在此基础上开发出了[CRH380B](../Page/CRH380B.md "wikilink")、[CRH380BL](../Page/CRH380BL.md "wikilink")、[CRH380C及](../Page/CRH380C.md "wikilink")[CRH3A等衍生型号](../Page/CRH3A.md "wikilink")。
+CN\[32\]（，即[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[德文称谓](https://zh.wikipedia.org/wiki/德文 "wikilink")）是第二款基于Velaro平台开发的列车。它为适应[中国高速铁路的运输特点而作出了技术调整及加宽车身](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")，并被运营商定型为CRH3型（CRH3C）。列车大部分的生产工作均在中国当地进行。CRH3C目前已在[京津城际铁路及](../Page/京津城际铁路.md "wikilink")[武广客运专线投入服务](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")。随后，中国还在此基础上开发出了[CRH380B](https://zh.wikipedia.org/wiki/CRH380B "wikilink")、[CRH380BL](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")、[CRH380C及](https://zh.wikipedia.org/wiki/CRH380C "wikilink")[CRH3A等衍生型号](https://zh.wikipedia.org/wiki/CRH3A "wikilink")。
 
 ### Velaro RUS
 
 Velaro
-RUS（，即[俄罗斯的德文称谓](../Page/俄罗斯.md "wikilink")）是第三款基于Velaro平台开发的变体。运营商将其商标名称定为“[游隼](../Page/游隼.md "wikilink")（）”，即[隼属中飞行速度最快的](../Page/隼属.md "wikilink")[猛禽](../Page/猛禽.md "wikilink")\[33\]。其加宽的车体是来源于Velaro
-CN，但仅可在俄罗斯的[宽轨轨距中运行](../Page/宽轨.md "wikilink")，并尤其适用于当地特殊的气候条件。自2009年12月起，第一批次的8组列车已投入俄罗斯的定期服务，另外8组列车将自2014年起交付。
+RUS（，即[俄罗斯的德文称谓](../Page/俄罗斯.md "wikilink")）是第三款基于Velaro平台开发的变体。运营商将其商标名称定为“[游隼](../Page/游隼.md "wikilink")（）”，即[隼属中飞行速度最快的](https://zh.wikipedia.org/wiki/隼属 "wikilink")[猛禽](../Page/猛禽.md "wikilink")\[33\]。其加宽的车体是来源于Velaro
+CN，但仅可在俄罗斯的[宽轨轨距中运行](https://zh.wikipedia.org/wiki/宽轨 "wikilink")，并尤其适用于当地特殊的气候条件。自2009年12月起，第一批次的8组列车已投入俄罗斯的定期服务，另外8组列车将自2014年起交付。
 
 ### Velaro D
 
 Velaro
-D（，及德国的德文称谓）是基于Velaro平台开发的第四款变体。它原本计划自2011年起交付，但被多次推迟。至2013年[圣诞节前夕](../Page/圣诞节.md "wikilink")，前4组列车才通过验收\[34\]。这款四电压列车被运营商定型为407型，并可在德国、[法国](../Page/法国.md "wikilink")、[比利时及](../Page/比利时.md "wikilink")[荷兰境内使用](../Page/荷兰.md "wikilink")\[35\]。该动车组已被[德国铁路编入ICE](../Page/德国铁路.md "wikilink")-3列车家族\[36\]。
+D（，及德国的德文称谓）是基于Velaro平台开发的第四款变体。它原本计划自2011年起交付，但被多次推迟。至2013年[圣诞节前夕](../Page/圣诞节.md "wikilink")，前4组列车才通过验收\[34\]。这款四电压列车被运营商定型为407型，并可在德国、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[比利时及](../Page/比利时.md "wikilink")[荷兰境内使用](../Page/荷兰.md "wikilink")\[35\]。该动车组已被[德国铁路编入ICE](../Page/德国铁路.md "wikilink")-3列车家族\[36\]。
 
 ### Velaro e320
 
-2010年12月3日，[欧洲之星与西门子在](../Page/欧洲之星.md "wikilink")[伦敦签署了](../Page/伦敦.md "wikilink")10组高速列车的供货合同，拟将后者作为现有[TGV列车](../Page/TGV列车.md "wikilink")（[373型](../Page/英铁373型电力动车组.md "wikilink")）的补充，在[英法海底隧道中使用](../Page/英法海底隧道.md "wikilink")\[37\]\[38\]\[39\]。这些16节编组、全长约400米的列车将可提供900个座位及320公里/小时的最高速度。合同总价值预计超过6亿欧元。首组列车应在2015年前后投入服务\[40\]。
+2010年12月3日，[欧洲之星与西门子在](https://zh.wikipedia.org/wiki/欧洲之星 "wikilink")[伦敦签署了](../Page/伦敦.md "wikilink")10组高速列车的供货合同，拟将后者作为现有[TGV列车](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")（[373型](https://zh.wikipedia.org/wiki/英铁373型电力动车组 "wikilink")）的补充，在[英法海底隧道中使用](https://zh.wikipedia.org/wiki/英法海底隧道 "wikilink")\[37\]\[38\]\[39\]。这些16节编组、全长约400米的列车将可提供900个座位及320公里/小时的最高速度。合同总价值预计超过6亿欧元。首组列车应在2015年前后投入服务\[40\]。
 
 ### Velaro TR
 
-2013年6月，西门子宣布获得了一份来自[土耳其国家铁路的](../Page/土耳其国家铁路.md "wikilink")7组高速列车订购合同，其中包括维护条款。该合同总价值约2.85亿欧元。这些八节编组的列车将在[安卡拉－伊斯坦布尔高速铁路及](../Page/安卡拉－伊斯坦布尔高速铁路.md "wikilink")中投入服务\[41\]。订单分为6组客运列车及1组试验列车。虽然列车将从2015年起交付，但在2013年9月下旬，已有一组原本用于德国铁路的动车组作为试验列车被移交至[土耳其](../Page/土耳其.md "wikilink")\[42\]。
+2013年6月，西门子宣布获得了一份来自[土耳其国家铁路的](https://zh.wikipedia.org/wiki/土耳其国家铁路 "wikilink")7组高速列车订购合同，其中包括维护条款。该合同总价值约2.85亿欧元。这些八节编组的列车将在[安卡拉－伊斯坦布尔高速铁路及](https://zh.wikipedia.org/wiki/安卡拉－伊斯坦布尔高速铁路 "wikilink")中投入服务\[41\]。订单分为6组客运列车及1组试验列车。虽然列车将从2015年起交付，但在2013年9月下旬，已有一组原本用于德国铁路的动车组作为试验列车被移交至[土耳其](../Page/土耳其.md "wikilink")\[42\]。
 
 ## 竞标及意向客户
 
-西门子曾向[意大利的](../Page/意大利.md "wikilink")[私营铁路运营商](../Page/私铁.md "wikilink")[新旅客运输公司提供](../Page/新旅客运输公司.md "wikilink")25组八节编组Velaro列车的报价\[43\]。为此，在2006年底，一列三节编组的Velaro
-E列车从[克雷费尔德被转移至](../Page/克雷费尔德.md "wikilink")[罗马进行演示运行](../Page/罗马.md "wikilink")\[44\]。然而至2008年1月中旬，西门子的报价最终不敌[阿尔斯通所提供的](../Page/阿尔斯通.md "wikilink")[AGV列车](../Page/AGV.md "wikilink")。
+西门子曾向[意大利的](../Page/意大利.md "wikilink")[私营铁路运营商](https://zh.wikipedia.org/wiki/私铁 "wikilink")[新旅客运输公司提供](https://zh.wikipedia.org/wiki/新旅客运输公司 "wikilink")25组八节编组Velaro列车的报价\[43\]。为此，在2006年底，一列三节编组的Velaro
+E列车从[克雷费尔德被转移至](../Page/克雷费尔德.md "wikilink")[罗马进行演示运行](../Page/罗马.md "wikilink")\[44\]。然而至2008年1月中旬，西门子的报价最终不敌[阿尔斯通所提供的](https://zh.wikipedia.org/wiki/阿尔斯通 "wikilink")[AGV列车](https://zh.wikipedia.org/wiki/AGV "wikilink")。
 
-在[阿根廷宣布计划兴建](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯至](../Page/布宜诺斯艾利斯.md "wikilink")[罗萨里奥及](../Page/罗萨里奥.md "wikilink")[科尔多瓦的](../Page/科尔多瓦_\(阿根廷\).md "wikilink")[高速铁路](../Page/高速铁路.md "wikilink")、并对入围联盟进行招标时，西门子也提供了Velaro列车的报价。但带有财政计划的最终报价并未提交，因为土地收购成本无法估算。
+在[阿根廷宣布计划兴建](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯至](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")[罗萨里奥及](../Page/罗萨里奥.md "wikilink")[科尔多瓦的](../Page/科尔多瓦_\(阿根廷\).md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")、并对入围联盟进行招标时，西门子也提供了Velaro列车的报价。但带有财政计划的最终报价并未提交，因为土地收购成本无法估算。
 
 作为替换即将退役的TGV列车型号，[法国国家铁路](../Page/法国国家铁路.md "wikilink")[总裁纪尧姆](../Page/总裁.md "wikilink")·佩皮（）在2007年初也将Velaro列车纳入了考虑范围\[45\]。
 
-2010年10月，西门子组建了一家伙伴公司，以参加预计于2012年举行的[坦帕至](../Page/坦帕_\(佛罗里达州\).md "wikilink")[奥兰多高速铁路走廊的招标](../Page/奥兰多_\(佛罗里达州\).md "wikilink")。参与这项概念的公司还包括铁路运营商[威立雅运输和建筑企业](../Page/威立雅运输.md "wikilink")[斯堪斯卡](../Page/斯堪斯卡.md "wikilink")。西门子希望通过Velaro列车的报价，在[萨克拉门托车厂开展生产工作](../Page/萨克拉门托.md "wikilink")\[46\]。然而，[佛罗里达州长](../Page/佛罗里达.md "wikilink")[里克·斯科特在](../Page/里克·斯科特.md "wikilink")2011年2月否决了高速铁路连接的计划\[47\]。
+2010年10月，西门子组建了一家伙伴公司，以参加预计于2012年举行的[坦帕至](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")[奥兰多高速铁路走廊的招标](../Page/奥兰多_\(佛罗里达州\).md "wikilink")。参与这项概念的公司还包括铁路运营商[威立雅运输和建筑企业](../Page/威立雅运输.md "wikilink")[斯堪斯卡](https://zh.wikipedia.org/wiki/斯堪斯卡 "wikilink")。西门子希望通过Velaro列车的报价，在[萨克拉门托车厂开展生产工作](https://zh.wikipedia.org/wiki/萨克拉门托 "wikilink")\[46\]。然而，[佛罗里达州长](https://zh.wikipedia.org/wiki/佛罗里达 "wikilink")[里克·斯科特在](../Page/里克·斯科特.md "wikilink")2011年2月否决了高速铁路连接的计划\[47\]。
 
 2012年初，西门子与进行了会谈，后者希望能有多达25组至少300公里/小时以上的高速列车用于服务。除了基于Velaro平台开发的列车，该公司同时还考虑采用[TGV
 Duplex列車](../Page/法國國鐵TGV_Duplex列車.md "wikilink")\[48\]。
@@ -545,7 +545,7 @@ Duplex列車](../Page/法國國鐵TGV_Duplex列車.md "wikilink")\[48\]。
 28. *International Railway Journal.* New York 2008, Juli.
 
 29. *Im Großraumwagen ans Mittelmeer: die neue Baureihe 407*. In:
-    *[Drehscheibe](../Page/Drehscheibe_\(Zeitschrift\).md "wikilink")*.
+    *[Drehscheibe](https://zh.wikipedia.org/wiki/Drehscheibe_\(Zeitschrift\) "wikilink")*.
     Nr. 224, 2010, S. 15–17.
 
 30. Martin Steuger: *Velaro – kundenorientierte Weiterentwicklung eines
@@ -562,7 +562,8 @@ Duplex列車](../Page/法國國鐵TGV_Duplex列車.md "wikilink")\[48\]。
 
 34. Rüdiger Köhn: [''Jetzt werden neue ICEs ausgeliefert
     ''](http://www.faz.net/aktuell/wirtschaft/unternehmen/mit-zwei-jahren-verspaetung-jetzt-werden-neue-ices-ausgeliefert-12721162.html?google_editors_picks=true).
-    [FAZ.NET](../Page/FAZ.NET.md "wikilink"), 20. Dezember 2013.
+    [FAZ.NET](https://zh.wikipedia.org/wiki/FAZ.NET "wikilink"), 20.
+    Dezember 2013.
 
 35. Heinz Kurz: *InterCityExpress: Die Entwicklung des
     Hochgeschwindigkeitsverkehrs in Deutschland*. EK-Verlag, Freiburg

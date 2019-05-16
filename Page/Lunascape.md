@@ -1,5 +1,5 @@
 **Lunascape**是[日本東京Lunascape公司所開發的](../Page/東京都.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。其一大特色為可以使用三種主流的網頁[排版引擎](../Page/排版引擎.md "wikilink")：[Mozilla
-Firefox的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")、[Safari的](../Page/Safari.md "wikilink")[Webkit與](../Page/Webkit.md "wikilink")[Microsoft
+Firefox的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")、[Safari的](../Page/Safari.md "wikilink")[Webkit與](https://zh.wikipedia.org/wiki/Webkit "wikilink")[Microsoft
 Internet
 Explorer的](https://zh.wikipedia.org/wiki/Microsoft_Internet_Explorer "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")\[1\]\[2\]。
 

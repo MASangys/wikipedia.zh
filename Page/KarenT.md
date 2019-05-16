@@ -72,7 +72,7 @@ Toffler。\[1\]
 </tr>
 <tr class="even">
 <td><p>delicious</p></td>
-<td><p><a href="../Page/minato.md" title="wikilink">minato</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/minato" title="wikilink">minato</a></p></td>
 <td><p>2009年3月25日</p></td>
 </tr>
 <tr class="odd">
@@ -137,7 +137,7 @@ Toffler。\[1\]
 </tr>
 <tr class="odd">
 <td><p>Evils Theater</p></td>
-<td><p><a href="../Page/mothy.md" title="wikilink">mothy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/mothy" title="wikilink">mothy</a></p></td>
 <td><p>2009年6月17日</p></td>
 </tr>
 <tr class="even">
@@ -1918,7 +1918,7 @@ Toffler。\[1\]
 </tr>
 <tr class="odd">
 <td><p>EVILS FOREST</p></td>
-<td><p><a href="../Page/mothy.md" title="wikilink">mothy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/mothy" title="wikilink">mothy</a></p></td>
 <td><p>2010年8月10日</p></td>
 </tr>
 <tr class="even">
@@ -2194,69 +2194,69 @@ Toffler。\[1\]
 </tbody>
 </table>
 
-#### 使用“[MEIKO](../Page/MEIKO.md "wikilink")”
+#### 使用“[MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink")”
 
-| 专辑                               | 艺术家                                  | 发行日        |
-| -------------------------------- | ------------------------------------ | ---------- |
-| 春告草                              | 稲敷常州                                 | 2009年5月22日 |
-| 忘却心中                             | OPA                                  |            |
-| 15 a.m                           | ゴゼン                                  |            |
-| Various Feelings "shu-t's Works" | shu-t                                | 2009年5月29日 |
-| Evils Theater                    | [mothy](../Page/mothy.md "wikilink") | 2009年6月17日 |
-| Lovely Diva                      | MineK                                | 2009年7月22日 |
-| スズメノナミダ                          | 虹原ぺぺろん                               | 2009年11月5日 |
-| Feel so easily                   | MineK                                |            |
-| Electric Intoxication            | BingoBongoP                          |            |
-| Hello,Beautiful Days             | ゴゼン                                  |            |
-| 夏の迷路                             | オレジナルP                               |            |
-| 空切りシザーズ ～ Dear★Super☆Star        | OPA                                  |            |
-| はつゆき◇リマインド                       | negoto a.k.a. ドッP                    |            |
-| 糸竹                               | 稲敷常州                                 |            |
-| ピエロプレイ                           | No.D                                 |            |
-| in the BOX                       | shu-t                                |            |
-| AIMS                             | shu-t                                | 2010年5月4日  |
-| 坂の町と雨                            | 稲敷常州                                 | 2010年6月9日  |
-| Dancing Love                     | MineK                                | 2010年7月31日 |
-| あなたのいる場所 -Important Place-       | shu-t                                | 2010年8月31日 |
-| 言の葉の姫                            | 稲敷常州                                 | 2010年11月5日 |
-| Fragments                        | shu-t                                |            |
-| 残光                               | ゴゼン                                  |            |
-| 鉄の華                              | Maharo                               |            |
-| Spirit and Love                  | MineK                                |            |
-| Snow by snow                     | 0-9                                  |            |
-| E.O.S.                           | shu-t                                | 2011年3月18日 |
-| 壊セ壊セ                             | E.L.V.N                              | 2011年5月18日 |
-| Lovely Diva                      | MineK                                | 2011年6月1日  |
-| Make up Love                     | MineK                                |            |
-| FILL e TUA                       | hinayukki@仕事してP                      | 2011年6月22日 |
+| 专辑                               | 艺术家                                                     | 发行日        |
+| -------------------------------- | ------------------------------------------------------- | ---------- |
+| 春告草                              | 稲敷常州                                                    | 2009年5月22日 |
+| 忘却心中                             | OPA                                                     |            |
+| 15 a.m                           | ゴゼン                                                     |            |
+| Various Feelings "shu-t's Works" | shu-t                                                   | 2009年5月29日 |
+| Evils Theater                    | [mothy](https://zh.wikipedia.org/wiki/mothy "wikilink") | 2009年6月17日 |
+| Lovely Diva                      | MineK                                                   | 2009年7月22日 |
+| スズメノナミダ                          | 虹原ぺぺろん                                                  | 2009年11月5日 |
+| Feel so easily                   | MineK                                                   |            |
+| Electric Intoxication            | BingoBongoP                                             |            |
+| Hello,Beautiful Days             | ゴゼン                                                     |            |
+| 夏の迷路                             | オレジナルP                                                  |            |
+| 空切りシザーズ ～ Dear★Super☆Star        | OPA                                                     |            |
+| はつゆき◇リマインド                       | negoto a.k.a. ドッP                                       |            |
+| 糸竹                               | 稲敷常州                                                    |            |
+| ピエロプレイ                           | No.D                                                    |            |
+| in the BOX                       | shu-t                                                   |            |
+| AIMS                             | shu-t                                                   | 2010年5月4日  |
+| 坂の町と雨                            | 稲敷常州                                                    | 2010年6月9日  |
+| Dancing Love                     | MineK                                                   | 2010年7月31日 |
+| あなたのいる場所 -Important Place-       | shu-t                                                   | 2010年8月31日 |
+| 言の葉の姫                            | 稲敷常州                                                    | 2010年11月5日 |
+| Fragments                        | shu-t                                                   |            |
+| 残光                               | ゴゼン                                                     |            |
+| 鉄の華                              | Maharo                                                  |            |
+| Spirit and Love                  | MineK                                                   |            |
+| Snow by snow                     | 0-9                                                     |            |
+| E.O.S.                           | shu-t                                                   | 2011年3月18日 |
+| 壊セ壊セ                             | E.L.V.N                                                 | 2011年5月18日 |
+| Lovely Diva                      | MineK                                                   | 2011年6月1日  |
+| Make up Love                     | MineK                                                   |            |
+| FILL e TUA                       | hinayukki@仕事してP                                         | 2011年6月22日 |
 
-#### 使用“[KAITO](../Page/KAITO.md "wikilink")”
+#### 使用“[KAITO](https://zh.wikipedia.org/wiki/KAITO "wikilink")”
 
-| 专辑                                             | 艺术家                                                    | 发行日         |
-| ---------------------------------------------- | ------------------------------------------------------ | ----------- |
-| SIGNALOID BOX                                  | [シグナルP](https://zh.wikipedia.org/wiki/荒井洋明 "wikilink") | 2009年3月11日  |
-| crystaL                                        | HzEdge（crystal P）                                      | 2009年4月9日   |
-| Heartful Cookie                                | BIRUGE                                                 | 2009年12月1日  |
-| 月光トータルイクリプス                                    | マチゲリータ                                                 | 2010年2月17日  |
-| ローアングル                                         | hal                                                    |             |
-| Destroys Nightmare                             | めんでぇP                                                  |             |
-| The First Unison                               | 新城P                                                    |             |
-| 風待草                                            | Maharo                                                 |             |
-| 刹那魔術（セツナ・マジック）                                 | 刹那P                                                    |             |
-| Chillyditty Of February（rework and revocalize） | DARS                                                   |             |
-| Broken rain                                    | 新城P                                                    | 2010年6月9日   |
-| Sweet's Beast                                  | めんでぇＰ                                                  | 2010年6月16日  |
-| EVILS FOREST                                   | [mothy](../Page/mothy.md "wikilink")                   | 2010年8月10日  |
-| 灰雪                                             | キッドP                                                   | 2010年12月17日 |
-| crystaL-before-                                | HzEdge（クリスタルP）                                         | 2010年12月27日 |
-| 僕はまぶたになりたい                                     | shot（ほのぼのP）                                            | 2011年2月17日  |
-| SPIRAL TRILOGY                                 | Ebot                                                   |             |
-| 時計塔のうた                                         | 篁惺                                                     |             |
-| 嫌い、キライ、…だいきらい                                  | HzEdge（クリスタルP）                                         |             |
-| Unexplored-reboot-                             | 新城P                                                    |             |
-| FILL e TUA                                     | hinayukki@仕事してP                                        | 2011年6月22日  |
+| 专辑                                             | 艺术家                                                     | 发行日         |
+| ---------------------------------------------- | ------------------------------------------------------- | ----------- |
+| SIGNALOID BOX                                  | [シグナルP](https://zh.wikipedia.org/wiki/荒井洋明 "wikilink")  | 2009年3月11日  |
+| crystaL                                        | HzEdge（crystal P）                                       | 2009年4月9日   |
+| Heartful Cookie                                | BIRUGE                                                  | 2009年12月1日  |
+| 月光トータルイクリプス                                    | マチゲリータ                                                  | 2010年2月17日  |
+| ローアングル                                         | hal                                                     |             |
+| Destroys Nightmare                             | めんでぇP                                                   |             |
+| The First Unison                               | 新城P                                                     |             |
+| 風待草                                            | Maharo                                                  |             |
+| 刹那魔術（セツナ・マジック）                                 | 刹那P                                                     |             |
+| Chillyditty Of February（rework and revocalize） | DARS                                                    |             |
+| Broken rain                                    | 新城P                                                     | 2010年6月9日   |
+| Sweet's Beast                                  | めんでぇＰ                                                   | 2010年6月16日  |
+| EVILS FOREST                                   | [mothy](https://zh.wikipedia.org/wiki/mothy "wikilink") | 2010年8月10日  |
+| 灰雪                                             | キッドP                                                    | 2010年12月17日 |
+| crystaL-before-                                | HzEdge（クリスタルP）                                          | 2010年12月27日 |
+| 僕はまぶたになりたい                                     | shot（ほのぼのP）                                             | 2011年2月17日  |
+| SPIRAL TRILOGY                                 | Ebot                                                    |             |
+| 時計塔のうた                                         | 篁惺                                                      |             |
+| 嫌い、キライ、…だいきらい                                  | HzEdge（クリスタルP）                                          |             |
+| Unexplored-reboot-                             | 新城P                                                     |             |
+| FILL e TUA                                     | hinayukki@仕事してP                                         | 2011年6月22日  |
 
-#### 使用“[GACKPOID](../Page/GACKPOID.md "wikilink")”
+#### 使用“[GACKPOID](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")”
 
 <table>
 <thead>
@@ -2364,7 +2364,7 @@ Toffler。\[1\]
 </tr>
 <tr class="even">
 <td><p>EVILS FOREST</p></td>
-<td><p><a href="../Page/mothy.md" title="wikilink">mothy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/mothy" title="wikilink">mothy</a></p></td>
 <td><p>2010年8月10日</p></td>
 </tr>
 <tr class="odd">

@@ -1,4 +1,4 @@
-**HBase**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[非关系型](https://zh.wikipedia.org/wiki/非关系型数据库 "wikilink")[分布式数据库](https://zh.wikipedia.org/wiki/分布式数据库 "wikilink")（NoSQL），它参考了[谷歌的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[BigTable建模](../Page/BigTable.md "wikilink")，实现的编程语言为
+**HBase**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[非关系型](https://zh.wikipedia.org/wiki/非关系型数据库 "wikilink")[分布式数据库](https://zh.wikipedia.org/wiki/分布式数据库 "wikilink")（NoSQL），它参考了[谷歌的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[BigTable建模](https://zh.wikipedia.org/wiki/BigTable "wikilink")，实现的编程语言为
 [Java](../Page/Java.md "wikilink")。它是[Apache软件基金会的](../Page/Apache软件基金会.md "wikilink")[Hadoop项目的一部分](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，运行于[HDFS文件系统之上](https://zh.wikipedia.org/wiki/HDFS "wikilink")，为
 [Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink") 提供类似于BigTable
 规模的服务。因此，它可以對[稀疏文件提供極高的](../Page/稀疏文件.md "wikilink")[容錯率](https://zh.wikipedia.org/wiki/故障容許度 "wikilink")。

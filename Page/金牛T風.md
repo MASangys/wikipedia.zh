@@ -5,7 +5,7 @@
 
 ## 低質量原恆星的演化圖
 
-這顆[金牛T星](../Page/金牛T星.md "wikilink")，和質量低於2[太陽質量的恆星](../Page/太陽質量.md "wikilink")，被認為會遵循以下的發展：
+這顆[金牛T星](../Page/金牛T星.md "wikilink")，和質量低於2[太陽質量的恆星](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")，被認為會遵循以下的發展：
 
 1.  非常緩慢旋轉的[太陽星雲](../Page/太陽星雲.md "wikilink") + 觸發
 2.  塌縮
@@ -15,7 +15,7 @@
 
 ### 詳細的原恆星演化
 
-起初有一些數量是隨機的星際氣體物質，主要是[氫](../Page/氫.md "wikilink")，包含可以追蹤的塵埃(冰、碳、岩石等)<ref>重元素是通過大恆星的[核合成創造的](../Page/核合成.md "wikilink")。核反應釋放的中子被累積和[β衰變吸收](../Page/β衰變.md "wikilink")，成為原子序數較大的元素，像是[鐵](../Page/鐵.md "wikilink")、[鈷和](../Page/鈷.md "wikilink")[鎳](../Page/鎳.md "wikilink")。最後，一顆恆星已用盡所有氫和結束核融合循環－核心是一個擠壓的巨大鐵核－[鉛和](../Page/鉛.md "wikilink")[鉍被創造出來](../Page/鉍.md "wikilink")。就在提供的能源缺乏之際，導致外層向內掉入，直到產生超新星爆炸將90%的恆星質量噴發出去。
+起初有一些數量是隨機的星際氣體物質，主要是[氫](https://zh.wikipedia.org/wiki/氫 "wikilink")，包含可以追蹤的塵埃(冰、碳、岩石等)<ref>重元素是通過大恆星的[核合成創造的](../Page/核合成.md "wikilink")。核反應釋放的中子被累積和[β衰變吸收](https://zh.wikipedia.org/wiki/β衰變 "wikilink")，成為原子序數較大的元素，像是[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")、[鈷和](https://zh.wikipedia.org/wiki/鈷 "wikilink")[鎳](https://zh.wikipedia.org/wiki/鎳 "wikilink")。最後，一顆恆星已用盡所有氫和結束核融合循環－核心是一個擠壓的巨大鐵核－[鉛和](https://zh.wikipedia.org/wiki/鉛 "wikilink")[鉍被創造出來](https://zh.wikipedia.org/wiki/鉍 "wikilink")。就在提供的能源缺乏之際，導致外層向內掉入，直到產生超新星爆炸將90%的恆星質量噴發出去。
 
 引用自英國開放大學的Andrew Norton尚未出版的教科書：*How the Universe Works*, p. 129</ref>。
 
@@ -31,9 +31,9 @@
 
 **經典金牛T星**繼續發射的主要部分是外面的吸積激波，這意味著非常大量的物質從接近水平的方向進入吸積盤。這些氣體的減速在接近恆星表面的地方形成湍流層。
 
-我們認為有兩個方案可以解釋這種吸積的性質：經由雙流吸積(經由[磁層的邊界](../Page/磁層.md "wikilink"))和磁層吸積的流注，大部份的物質由水平的方向落入恆星。
+我們認為有兩個方案可以解釋這種吸積的性質：經由雙流吸積(經由[磁層的邊界](https://zh.wikipedia.org/wiki/磁層 "wikilink"))和磁層吸積的流注，大部份的物質由水平的方向落入恆星。
 
-從CTTS的光學和[紫外線光譜觀測](../Page/紫外線.md "wikilink")，提供了星盤風的定量參數。觀測到物質從盤面上半徑小於0.5[天文單位的區域流出](../Page/天文單位.md "wikilink")，流出的物質最初幾乎是沿著盤面在移動，直到吸積的速度達到*V*大於100公里/秒，並且在之後開始準直。內部區域的風在距離小於3天文單位的位置從盤面中央的平面開始準直成為噴流。氣體的速度分量*V*<sub>z</sub>隨著噴流距離的增加而減少，在噴流基部的溫度不低於20,000[K](../Page/熱力學溫標.md "wikilink")
+從CTTS的光學和[紫外線光譜觀測](https://zh.wikipedia.org/wiki/紫外線 "wikilink")，提供了星盤風的定量參數。觀測到物質從盤面上半徑小於0.5[天文單位的區域流出](../Page/天文單位.md "wikilink")，流出的物質最初幾乎是沿著盤面在移動，直到吸積的速度達到*V*大於100公里/秒，並且在之後開始準直。內部區域的風在距離小於3天文單位的位置從盤面中央的平面開始準直成為噴流。氣體的速度分量*V*<sub>z</sub>隨著噴流距離的增加而減少，在噴流基部的溫度不低於20,000[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")
 
 ## 外部連結
 

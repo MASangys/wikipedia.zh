@@ -185,10 +185,10 @@ Light Up My Live林峯演唱會2011主題曲</p></td>
   - [YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")[2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     ：搜尋人氣電視劇集主題曲 - 《Light Up My Life》
   - [SINA
-    Music樂壇民意指數頒獎禮2011](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")：Sina
+    Music樂壇民意指數頒獎禮2011](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")：Sina
     Music最高收視MV大獎 - 《CHOK》
   - [SINA
-    Music樂壇民意指數頒獎禮2011](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")：
+    Music樂壇民意指數頒獎禮2011](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")：
     Sina Music最高收聽率20大歌曲 - 《CHOK》
   - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2011](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink")：十大勁歌金曲
     - 《CHOK》

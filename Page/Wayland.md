@@ -2,29 +2,30 @@
 Server與Wayland Compositor\]\]
 [Free_and_open-source-software_display_servers_and_UI_toolkits.svg](https://zh.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg "fig:Free_and_open-source-software_display_servers_and_UI_toolkits.svg")
 
-**Wayland**是一个[通信协议](../Page/通信协议.md "wikilink")，規定了[顯示伺服器與其](../Page/顯示伺服器.md "wikilink")[客戶機之間的通信方式](../Page/客戶機.md "wikilink")，而使用这个协议的显示服务器称为Wayland
+**Wayland**是一个[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，規定了[顯示伺服器與其](https://zh.wikipedia.org/wiki/顯示伺服器 "wikilink")[客戶機之間的通信方式](https://zh.wikipedia.org/wiki/客戶機 "wikilink")，而使用这个协议的显示服务器称为Wayland
 Compositor。它由Kristian
-Høgsberg於2008年发起，目标是用更简单的现代化[视窗系统取代](../Page/视窗系统.md "wikilink")[X
+Høgsberg於2008年发起，目标是用更简单的现代化[视窗系统取代](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")[X
 Window
-System](../Page/X_Window_System.md "wikilink")。Wayland协议的参考实现称为Weston，由Wayland项目组使用C语言开发。\[1\]
+System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")。Wayland协议的参考实现称为Weston，由Wayland项目组使用C语言开发。\[1\]
 
 Wayland與X Window
-System的最大不同在於，它規定由客戶機自身負責窗口邊框和裝飾的繪製，並且客戶機能夠通過[EGL以及一些Wayland特定的EGL擴展直接在顯存中渲染自己的緩衝區](../Page/Open_GL.md "wikilink")。窗口管理器简化成显示管理服务，专门负责渲染那些屏幕上的程序。这比X
-Window System中的[窗口管理器要更简单](../Page/窗口管理器.md "wikilink")、高效。\[2\]\[3\]
+System的最大不同在於，它規定由客戶機自身負責窗口邊框和裝飾的繪製，並且客戶機能夠通過[EGL以及一些Wayland特定的EGL擴展直接在顯存中渲染自己的緩衝區](https://zh.wikipedia.org/wiki/Open_GL "wikilink")。窗口管理器简化成显示管理服务，专门负责渲染那些屏幕上的程序。这比X
+Window
+System中的[窗口管理器要更简单](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")、高效。\[2\]\[3\]
 
-Wayland项目的源码使用[MIT許可證釋出](../Page/MIT許可證.md "wikilink")。现有的Compositor例如[Compiz](../Page/Compiz.md "wikilink")，[KWin和](../Page/KWin.md "wikilink")[Mutter对Wayland都有着不同程度的支持](../Page/Mutter.md "wikilink")。
+Wayland项目的源码使用[MIT許可證釋出](../Page/MIT許可證.md "wikilink")。现有的Compositor例如[Compiz](../Page/Compiz.md "wikilink")，[KWin和](../Page/KWin.md "wikilink")[Mutter对Wayland都有着不同程度的支持](https://zh.wikipedia.org/wiki/Mutter "wikilink")。
 
 ## 歷史
 
 Wayland的创始人Kristian Høgsberg是[X.Org
-Server开发者](../Page/X.Org_Server.md "wikilink")，曾参与过和的开发。他在2008年供职于[红帽时发起了Wayland作为业余项目](../Page/红帽.md "wikilink")，目标是让“每一个帧都完美无瑕，也就是说应用程序要能充分地控制图形的渲染，使我们完全无法察觉任何的撕裂、延迟、重画及闪烁”。这一灵感浮现时他正开车经过马萨诸塞州的韦兰，也就由此决定了项目的名字。
+Server开发者](../Page/X.Org_Server.md "wikilink")，曾参与过和的开发。他在2008年供职于[红帽时发起了Wayland作为业余项目](https://zh.wikipedia.org/wiki/红帽 "wikilink")，目标是让“每一个帧都完美无瑕，也就是说应用程序要能充分地控制图形的渲染，使我们完全无法察觉任何的撕裂、延迟、重画及闪烁”。这一灵感浮现时他正开车经过马萨诸塞州的韦兰，也就由此决定了项目的名字。
 
 2010年10月，Wayland加入了[Freedesktop.org项目](../Page/Freedesktop.org.md "wikilink")。在迁移过程中，邮件列表wayland-devel代替了原先的[Google
-group邮件组](../Page/Google_group.md "wikilink")，用于讨论项目的开发。
+group邮件组](https://zh.wikipedia.org/wiki/Google_group "wikilink")，用于讨论项目的开发。
 
 Wayland是[自由软件](../Page/自由软件.md "wikilink")，它的库(libwayland-server和libwayland-client)以[MIT
-License授权](../Page/MIT_License.md "wikilink")，示例程序和Compositor一开始以GPLv2授权。现在整个Project都是以[MIT
-License授权的了](../Page/MIT_License.md "wikilink")。直到2010年11月份，Wayland还仅仅只能在[Intel](../Page/Intel.md "wikilink")、[Nvidia和](../Page/Nvidia.md "wikilink")[AMD的开源驱动上运行](../Page/AMD.md "wikilink")。
+License授权](https://zh.wikipedia.org/wiki/MIT_License "wikilink")，示例程序和Compositor一开始以GPLv2授权。现在整个Project都是以[MIT
+License授权的了](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。直到2010年11月份，Wayland还仅仅只能在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[Nvidia和](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[AMD的开源驱动上运行](https://zh.wikipedia.org/wiki/AMD "wikilink")。
 
 ## 设计
 
@@ -35,7 +36,7 @@ Manager（GEM）以提供一個最小化的显示管理服务。Wayland混合器
 ES](../Page/OpenGL_ES.md "wikilink")\[4\]</ref>。這個專案也開發支援Wayland顯示的[Qt](../Page/Qt.md "wikilink")，而不需要X。大部分應用程式都有望獲得透過函式庫，無需修改程式即可支援Wayland。
 
 近些年来，GNU/Linux桌面图形开发者将许多与渲染有关的接口从X
-server移动到内核中。现在，已经有许多功能被移入内核（[内存管理](../Page/内存管理.md "wikilink")、[任务调度](../Page/任务调度.md "wikilink")、[模式设置](../Page/模式设置.md "wikilink")（KMS）等等）或是程序库（cairo、pixman、freetype、fontconfig、pango等等），所以窗口系统需要做的事情大大减少了。但是X11协议十分巨大、庞杂，并且它包括了许多已经过时的模块。虽然开发者们为了使X
+server移动到内核中。现在，已经有许多功能被移入内核（[内存管理](https://zh.wikipedia.org/wiki/内存管理 "wikilink")、[任务调度](https://zh.wikipedia.org/wiki/任务调度 "wikilink")、[模式设置](https://zh.wikipedia.org/wiki/模式设置 "wikilink")（KMS）等等）或是程序库（cairo、pixman、freetype、fontconfig、pango等等），所以窗口系统需要做的事情大大减少了。但是X11协议十分巨大、庞杂，并且它包括了许多已经过时的模块。虽然开发者们为了使X
 server适应现代化的计算机体系结构而开发出了XRandR、XRender、Composite等一些额外扩展，但这终究是治标不治本，同时这也会增加维护的难度。
 
 Wayland是一款协议，但与X
@@ -82,7 +83,7 @@ Enlightenment 或 KDE 等桌面環境时，可以選用Wayland安裝作为显示
 
 ### Ubuntu
 
-[馬克·沙特爾沃思於](../Page/馬克·沙特爾沃思.md "wikilink")2010年11月4日宣佈Wayland將作為[Ubuntu未來某一未定版本Unity介面的顯示伺服器](../Page/Ubuntu.md "wikilink")\[9\]。但是2013年3月份，Canonical确认他们将开发一个新的显示服务[Mir而不是使用Wayland来替代X](../Page/Mir_\(显示服务器\).md "wikilink")\[10\]</ref>。2017年4月份，Canonical宣佈放棄[Unity與Mir](../Page/Unity_\(使用者介面\).md "wikilink")\[11\]，並於Ubuntu
+[馬克·沙特爾沃思於](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink")2010年11月4日宣佈Wayland將作為[Ubuntu未來某一未定版本Unity介面的顯示伺服器](../Page/Ubuntu.md "wikilink")\[9\]。但是2013年3月份，Canonical确认他们将开发一个新的显示服务[Mir而不是使用Wayland来替代X](../Page/Mir_\(显示服务器\).md "wikilink")\[10\]</ref>。2017年4月份，Canonical宣佈放棄[Unity與Mir](../Page/Unity_\(使用者介面\).md "wikilink")\[11\]，並於Ubuntu
 17.10開始使用Wayland\[12\]。但在18.04LTS版本中因為Wayland無法支持屏幕共享，遠程桌面服務以及GNOME
 Shell崩潰的可恢復性更換為X.Org Server。\[13\]\[14\]
 
@@ -124,22 +125,22 @@ OS使用Wayland](../Page/Sailfish_OS.md "wikilink")\[23\]。
 
 截止到2012年3月：
 
-[Clutter对Wayland已经有完整的支持](../Page/Clutter.md "wikilink")。
+[Clutter对Wayland已经有完整的支持](https://zh.wikipedia.org/wiki/Clutter "wikilink")。
 
 [Enlightenment Foundation
-Libraries对Wayland已经有完整的支持](../Page/Enlightenment_Foundation_Libraries.md "wikilink")。
+Libraries对Wayland已经有完整的支持](https://zh.wikipedia.org/wiki/Enlightenment_Foundation_Libraries "wikilink")。
 
 QT 5除了对client有一些改动之外，对Wayland已经有完整的支持。
 
-[GTK+](../Page/GTK+.md "wikilink")3.4.0，发布于2012年3月26日，对Wayland的支持有一些缺陷。不过过随着3.4.1更新版本的发布，这个问题得到了缓解。
+[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")3.4.0，发布于2012年3月26日，对Wayland的支持有一些缺陷。不过过随着3.4.1更新版本的发布，这个问题得到了缓解。
 
-[SDL的Wayland支持正在开发中](../Page/SDL.md "wikilink")。
+[SDL的Wayland支持正在开发中](https://zh.wikipedia.org/wiki/SDL "wikilink")。
 
 ## 参见
 
   - [X Window系統](../Page/X_Window系統.md "wikilink")
   - [Mir](../Page/Mir_\(显示服务器\).md "wikilink")
-  - [Cairo](../Page/Cairo_\(繪圖\).md "wikilink")
+  - [Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")
 
 ## 參考資料
 

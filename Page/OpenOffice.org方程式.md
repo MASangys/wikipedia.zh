@@ -1,7 +1,7 @@
 **OpenOffice.org Math**（又稱**Math**，**OpenOffice Math**，**OpenOffice
 方程式**或**OO.o
-方程式**）是用來編輯[數學運算式](../Page/數學運算式.md "wikilink"),與[微軟](../Page/微軟.md "wikilink")[方程式編輯器且以包含在](../Page/方程式編輯器.md "wikilink")[OpenOffice.org生產力軟體裡](../Page/OpenOffice.org.md "wikilink")。編輯完成之方程式可以嵌入到[Writer文件中](../Page/Writer.md "wikilink")。**OpenOffice.org
-方程式**支援多[字型編輯且可以](../Page/字型.md "wikilink")[PDF匯出](../Page/PDF.md "wikilink")。
+方程式**）是用來編輯[數學運算式](https://zh.wikipedia.org/wiki/數學運算式 "wikilink"),與[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[方程式編輯器且以包含在](https://zh.wikipedia.org/wiki/方程式編輯器 "wikilink")[OpenOffice.org生產力軟體裡](../Page/OpenOffice.org.md "wikilink")。編輯完成之方程式可以嵌入到[Writer文件中](https://zh.wikipedia.org/wiki/Writer "wikilink")。**OpenOffice.org
+方程式**支援多[字型編輯且可以](../Page/字型.md "wikilink")[PDF匯出](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 ## 參見
 

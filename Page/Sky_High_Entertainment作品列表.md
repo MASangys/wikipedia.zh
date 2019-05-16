@@ -1728,7 +1728,7 @@ Angel系列中人氣較高之作品挑出，發行超高畫質[藍光光碟版�
   - [CATWALK Entertainment](../Page/CATWALK_Entertainment.md "wikilink")
   - [MUGEN Entertainment](../Page/MUGEN_Entertainment.md "wikilink")
   - [Super Model
-    Medial作品列表](https://zh.wikipedia.org/wiki/Super_Model_Medial作品列表 "wikilink")
+    Medial作品列表](../Page/Super_Model_Medial作品列表.md "wikilink")
   - [Japorn](../Page/Japorn.md "wikilink")
   - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
   - 资料党整理不易，还请编辑时手下留情！

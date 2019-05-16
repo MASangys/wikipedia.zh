@@ -6,7 +6,7 @@
 
 [Deacetoxycephalosporin-C_synthase.svg](https://zh.wikipedia.org/wiki/File:Deacetoxycephalosporin-C_synthase.svg "fig:Deacetoxycephalosporin-C_synthase.svg")
 
-此酶的三种[底物分别是](https://zh.wikipedia.org/wiki/底物 "wikilink")[青霉素N](https://zh.wikipedia.org/wiki/青霉素N "wikilink")、[α-酮戊二酸与](../Page/α-酮戊二酸.md "wikilink")[氧气](../Page/氧气.md "wikilink")，而它的四种[产物则分别是](https://zh.wikipedia.org/wiki/产物_\(化学\) "wikilink")[脱乙酰氧基头孢菌素C](https://zh.wikipedia.org/wiki/脱乙酰氧基头孢菌素C "wikilink")、[琥珀酸](../Page/琥珀酸.md "wikilink")、[二氧化碳与](../Page/二氧化碳.md "wikilink")[水](../Page/水.md "wikilink")。
+此酶的三种[底物分别是](https://zh.wikipedia.org/wiki/底物 "wikilink")[青霉素N](https://zh.wikipedia.org/wiki/青霉素N "wikilink")、[α-酮戊二酸与](https://zh.wikipedia.org/wiki/α-酮戊二酸 "wikilink")[氧气](../Page/氧气.md "wikilink")，而它的四种[产物则分别是](https://zh.wikipedia.org/wiki/产物_\(化学\) "wikilink")[脱乙酰氧基头孢菌素C](https://zh.wikipedia.org/wiki/脱乙酰氧基头孢菌素C "wikilink")、[琥珀酸](../Page/琥珀酸.md "wikilink")、[二氧化碳与](../Page/二氧化碳.md "wikilink")[水](../Page/水.md "wikilink")。
 
 此酶属于[氧化还原酶家族](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")，特异性地作用于配对的供体，并以氧气作为氧化剂结合或还原氧气。被结合的氧无需借由α-酮戊二酸作为一个供体或是被脱氢的方式被传递。此酶类的系统命名为**青霉素-N,2-酮戊二酸：氧氧化还原酶（扩环）**。通常使用的其他名称包括了**DAOCS**、**青霉素N扩环酶**与**DAOC合酶**。此酶参与[青霉素与头孢菌素生物合成](https://zh.wikipedia.org/wiki/青霉素与头孢菌素生物合成 "wikilink")。
 

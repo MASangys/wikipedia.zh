@@ -32,7 +32,7 @@ Corporation，），艾科思達所提供的設備銷售、數位製播和和衛
 | Fox HD                                                                     | 福斯高畫質頻道                                                  | 娛樂   | 252 | 是    | 有            |
 | [Star World HD](https://zh.wikipedia.org/wiki/STAR_World "wikilink")       | 衛視合家歡                                                    | 娛樂   | 254 | 是    | 有            |
 | WarnerTV                                                                   | 華納電視頻道                                                   | 娛樂   | 256 | 否    | 有            |
-| [tvN Asia HD](https://zh.wikipedia.org/wiki/TvN_Asia "wikilink")           | tvN 高畫質頻道                                                | 娛樂   | 266 | 是    | 有            |
+| [tvN Asia HD](../Page/TvN_Asia.md "wikilink")                              | tvN 高畫質頻道                                                | 娛樂   | 266 | 是    | 有            |
 | [HBO HD](../Page/HBO.md "wikilink")                                        | HBO高畫質                                                   | 電影   | 310 | 是    | 有            |
 | [HBO Hits HD](https://zh.wikipedia.org/wiki/HBO_Hits "wikilink")           | HBO強檔鉅獻                                                  | 電影   | 312 | 是    | 有            |
 | STAR Movies HD                                                             | 衛視西片高畫質                                                  | 電影   | 320 | 是    | 有            |

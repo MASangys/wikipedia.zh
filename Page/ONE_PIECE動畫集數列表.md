@@ -1,10 +1,10 @@
 **ONE PIECE動畫集數列表**列舉由漫畫《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》所改編的同名電視動畫《[ONE
-PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数。
 
   - 各段標題的篇名依照日本DVD收錄之分類。
 
-  - 首播日期以[富士电视网實際播出時間為準](../Page/富士电视网.md "wikilink")。
+  - 首播日期以[富士电视网實際播出時間為準](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")。
 
   -
   - 集數的中文標題若還沒有調整成台灣標題，以愛奇藝所播放的標題為主。
@@ -2403,7 +2403,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>291</p></td>
 <td><p><strong>魯夫老大再次登場！是夢境還是現實 彩票大騷動</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">《海賊時代劇》特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">《海賊時代劇》特別篇</a></p></td>
 <td><p>動畫原創</p></td>
 <td></td>
 </tr>
@@ -2488,7 +2488,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>303</p></td>
 <td><p><strong>犯人是魯夫捕快？追查消失的大櫻樹</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">《海賊時代劇》特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">《海賊時代劇》特別篇</a></p></td>
 <td><p>動畫原創</p></td>
 <td></td>
 </tr>
@@ -2696,7 +2696,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>332</p></td>
 <td><p><strong>陷入混戰的公館！ 憤怒的頓和被囚的海賊團</strong></p></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>所勝美</p></td>
 <td><p>高木雅之</p></td>
 </tr>
@@ -2724,7 +2724,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>336</p></td>
 <td><p><strong>喬巴超人出動！ 保衛海濱電視台</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">《喬巴超人》特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">《喬巴超人》特別篇</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3262,7 +3262,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>406</p></td>
 <td><p><strong>時代劇特別篇-魯夫捕頭再次登場</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">《海賊時代劇》特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">《海賊時代劇》特別篇</a></p></td>
 <td><p>2009-06-21</p></td>
 <td><p>動畫原創</p></td>
 </tr>
@@ -3459,7 +3459,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>426</p></td>
 <td><p><strong>劇場版連動特別篇－金獅子蠢蠢欲動的野心！</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">電影連動特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">電影連動特別篇</a></p></td>
 <td><p>2009-11-15</p></td>
 <td><p>動畫原創</p></td>
 </tr>
@@ -3969,7 +3969,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>492</p></td>
 <td><p><strong><a href="../Page/美食獵人TORIKO.md" title="wikilink">美食獵人X海賊王</a> 合作特別篇</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">電影連動特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">電影連動特別篇</a></p></td>
 <td><p>2011-04-03</p></td>
 <td><p>動畫原創</p></td>
 </tr>
@@ -4345,7 +4345,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>542</p></td>
 <td><p><strong><a href="../Page/美食獵人TORIKO.md" title="wikilink">美食獵人X海賊王</a> 合作特別篇</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">電視連動特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">電視連動特別篇</a></p></td>
 <td><p>2012-04-08</p></td>
 <td><p>動畫原創</p></td>
 </tr>
@@ -4741,7 +4741,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>590</p></td>
 <td><p><strong><a href="../Page/美食獵人TORIKO.md" title="wikilink">美食獵人X海賊王X</a><a href="../Page/七龍珠Z.md" title="wikilink">七龍珠Z</a> 合作特別篇</strong></p></td>
-<td><p><a href="../Page/#番外篇.md" title="wikilink">電視連動特別篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#番外篇" title="wikilink">電視連動特別篇</a></p></td>
 <td><p>2013-04-07</p></td>
 <td><p>動畫原創</p></td>
 </tr>
@@ -7175,14 +7175,14 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 </tr>
 <tr class="odd">
 <td><p>336</p></td>
-<td><p><a href="../Page/喬巴超人.md" title="wikilink">喬巴超人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喬巴超人" title="wikilink">喬巴超人</a></p></td>
 <td><p>喬巴超人出動！保衛海濱的電視台！</p></td>
 <td></td>
 <td><p>古賀豪</p></td>
 </tr>
 <tr class="even">
 <td><p>406</p></td>
-<td><p><a href="../Page/ONE_PIECE_海賊時代劇.md" title="wikilink">海賊時代劇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇" title="wikilink">海賊時代劇</a></p></td>
 <td><p>時代劇特別篇 魯夫捕頭再次登場！</p></td>
 <td><p>田中仁</p></td>
 <td></td>
@@ -7230,7 +7230,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 </tr>
 <tr class="even">
 <td><p>492</p></td>
-<td><p><a href="../Page/ONE_PIECE_3D_草帽追逐戰.md" title="wikilink">草帽追逐戰</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_3D_草帽追逐戰" title="wikilink">草帽追逐戰</a><br />
 電影連動<br />
 特別篇</p></td>
 <td><p>前編 登陸美食島！美食獵人特瑞科現身<br />
@@ -7251,7 +7251,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 </tr>
 <tr class="even">
 <td><p>575</p></td>
-<td><p><a href="../Page/ONE_PIECE_FILM_Z.md" title="wikilink">FILM Z</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z" title="wikilink">FILM Z</a><br />
 電影連動<br />
 特別篇</p></td>
 <td><p>Z的野心篇 小小巨人莉莉</p></td>
@@ -7373,7 +7373,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <td><p>SP2012夏</p></td>
 <td><p>週六PREMIUM 特別篇</p></td>
 <td><p><br />
-<small><a href="../Page/ONE_PIECE_娜美特別篇〜領航員之淚與夥伴的羈絆〜.md" title="wikilink">娜美特別篇〜領航員之淚與夥伴的羈絆〜</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_娜美特別篇〜領航員之淚與夥伴的羈絆〜" title="wikilink">娜美特別篇〜領航員之淚與夥伴的羈絆〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
 <td><p>上坂浩彦</p></td>
 </tr>
@@ -7407,7 +7407,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>SP2015夏</p></td>
 <td><p><br />
-<small><a href="../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md" title="wikilink">薩波特別篇 〜三兄弟的羈絆 奇跡的再會和被繼承的意志〜</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜" title="wikilink">薩波特別篇 〜三兄弟的羈絆 奇跡的再會和被繼承的意志〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
 <td><p>廣嶋秀樹<br />
 佐藤宏幸<br />
@@ -7417,7 +7417,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="odd">
 <td><p>SP2015冬</p></td>
 <td><p><br />
-<small><a href="../Page/ONE_PIECE_特別篇_〜霧之島的冒險〜.md" title="wikilink">特別篇 〜迷霧島大冒險〜</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_特別篇_〜霧之島的冒險〜" title="wikilink">特別篇 〜迷霧島大冒險〜</a></small></p></td>
 <td><p>冨岡淳広</p></td>
 <td><p>三上雅人<br />
 中村亮太<br />
@@ -7428,7 +7428,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <td><p>SP2016夏<br />
 連動電影版</p></td>
 <td><p><br />
-<small><a href="../Page/ONE_PIECE_FILM_GOLD#黃金之心.md" title="wikilink">特別篇 ～黃金之心～</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD#黃金之心" title="wikilink">特別篇 ～黃金之心～</a></small></p></td>
 <td><p>黒岩勉</p></td>
 <td><p>山口暁生<br />
 鈴木裕介<br />
@@ -7439,7 +7439,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <td><p>SP2017夏</p></td>
 <td><p>{{lang|ja|エピソードオブ東の海 〜ルフィと4人の仲間の大冒険</p></td>
 <td><p>〜}}<br />
-<small><a href="../Page/ONE_PIECE_東海特別篇_〜魯夫與4名伙伴的大冒險〜.md" title="wikilink">東海特別篇 ～魯夫與4名伙伴的大冒險～</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_〜魯夫與4名伙伴的大冒險〜" title="wikilink">東海特別篇 ～魯夫與4名伙伴的大冒險～</a></small></p></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>大塚隆史<br />
 佐藤宏幸</p></td>
@@ -7447,7 +7447,7 @@ PIECE](../Page/ONE_PIECE_\(动画\).md "wikilink")》集数。
 <tr class="even">
 <td><p>SP2018夏</p></td>
 <td><p><br />
-<small><a href="../Page/ONE_PIECE_空島特別篇.md" title="wikilink">空島特別篇</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_空島特別篇" title="wikilink">空島特別篇</a></small></p></td>
 <td><p>-</p></td>
 <td><p>五十内裕輔</p></td>
 <td><p>2018-08-25</p></td>

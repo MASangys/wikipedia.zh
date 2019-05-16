@@ -1,18 +1,18 @@
 [Sony_NEX-C3_01s4500.jpg](https://zh.wikipedia.org/wiki/File:Sony_NEX-C3_01s4500.jpg "fig:Sony_NEX-C3_01s4500.jpg")
 NEX-C3\]\]
-索尼**E接环**是[索尼公司为旗下](../Page/索尼公司.md "wikilink")[NEX系列产品所设计的新](../Page/索尼_NEX_系列.md "wikilink")[镜头接环](../Page/镜头接环.md "wikilink")。英文称为E-Mount，有时也被叫做E卡口、NEX卡口。
+索尼**E接环**是[索尼公司为旗下](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[NEX系列产品所设计的新](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[镜头接环](https://zh.wikipedia.org/wiki/镜头接环 "wikilink")。英文称为E-Mount，有时也被叫做E卡口、NEX卡口。
 最初这个接环是随着NEX-3和NEX-5一起面世的，随后索尼的一款**可更换镜头高清摄像机**[Handycam
-NEX-VG10也搭配了这个接环](../Page/Handycam_NEX-VG10.md "wikilink")。\[1\]
+NEX-VG10也搭配了这个接环](https://zh.wikipedia.org/wiki/Handycam_NEX-VG10 "wikilink")。\[1\]
 
 2013年索尼启用的[ILCE系列产品继续沿用E接环](../Page/索尼ILCE系列.md "wikilink")。
 
 ## 专用镜头
 
 索尼E为全新规格卡口，以往镜头不能直接使用（稍迟推出的LA-EA接环可以使用之前的 [Minolta
-AF](../Page/Minolta_AF.md "wikilink")/[SONY
-αA口镜头](../Page/SONY_α.md "wikilink")），索尼公司特别推出了E卡口镜头，可以接驳NEX与ILCE机型进行自动对焦；2013年开始，随着全画幅规格的[ILCE-7等一系列全幅机型出现](../Page/ILCE-7.md "wikilink")，索尼也开始打造FE镜头，接口界面与原本E镜头完全一致，唯有覆盖幅面有所差异。
+AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")/[SONY
+αA口镜头](https://zh.wikipedia.org/wiki/SONY_α "wikilink")），索尼公司特别推出了E卡口镜头，可以接驳NEX与ILCE机型进行自动对焦；2013年开始，随着全画幅规格的[ILCE-7等一系列全幅机型出现](https://zh.wikipedia.org/wiki/ILCE-7 "wikilink")，索尼也开始打造FE镜头，接口界面与原本E镜头完全一致，唯有覆盖幅面有所差异。
 
-同时，索尼也与[蔡司合作](../Page/蔡司.md "wikilink")，打造E口的ZA镜头，这类镜头镜身具备索尼与蔡司双厂牌，同时参数的标注习惯也同德制，例如光圈值标注在焦距前，逗点与句点习惯对调。
+同时，索尼也与[蔡司合作](https://zh.wikipedia.org/wiki/蔡司 "wikilink")，打造E口的ZA镜头，这类镜头镜身具备索尼与蔡司双厂牌，同时参数的标注习惯也同德制，例如光圈值标注在焦距前，逗点与句点习惯对调。
 
   - 全片幅定焦鏡頭
 
@@ -73,35 +73,35 @@ AF](../Page/Minolta_AF.md "wikilink")/[SONY
 
 [Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg](https://zh.wikipedia.org/wiki/File:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg "fig:Olympus_PEN_F_Lens_to_Sony_NEX_E_Mount_Adapter.jpg")PEN
 F鏡頭轉 Sony NEX機身的轉接環\]\]
-因为E接环的[法兰距非常短](../Page/法兰距.md "wikilink")，因此通过第三方制造的转接环可以使用各种品牌的镜头。而[美能达MA接环镜头和](../Page/美能达.md "wikilink")[索尼A接环镜头能通过LA](../Page/索尼.md "wikilink")-EA1和LA-EA2转接环在NEX产品上使用，全片幅機身亦可使用LA-EA3和LA-EA4转接环，它具有电子触点和机械光圈控制的转换机构，这样机身就能直接控制镜头，获得[自动对焦和输出](../Page/自动对焦.md "wikilink")[EXIF的功能](../Page/EXIF.md "wikilink")。然而支持镜头数目并不多，一些较为早期的美能达镜头只能手动对焦，并且自动对焦的速度也并不快。
+因为E接环的[法兰距非常短](https://zh.wikipedia.org/wiki/法兰距 "wikilink")，因此通过第三方制造的转接环可以使用各种品牌的镜头。而[美能达MA接环镜头和](https://zh.wikipedia.org/wiki/美能达 "wikilink")[索尼A接环镜头能通过LA](../Page/索尼.md "wikilink")-EA1和LA-EA2转接环在NEX产品上使用，全片幅機身亦可使用LA-EA3和LA-EA4转接环，它具有电子触点和机械光圈控制的转换机构，这样机身就能直接控制镜头，获得[自动对焦和输出](../Page/自动对焦.md "wikilink")[EXIF的功能](../Page/EXIF.md "wikilink")。然而支持镜头数目并不多，一些较为早期的美能达镜头只能手动对焦，并且自动对焦的速度也并不快。
 
 一般年代久远的镜头都具备变焦/对焦和光圈控制环，那么安装在NEX产品上需要开启无镜头拍摄功能。之后可手动对焦正常拍摄。部分半电子化的镜头可能机身无法直接控制光圈。
 
 下列镜头可通过第三方转接环来使用：\[3\]
 
-  - [Alpha接环](../Page/:en:apla.md "wikilink")
-  - [C接环](../Page/:en:C_mount.md "wikilink")（通常用于监控设备）
+  - [Alpha接环](https://zh.wikipedia.org/wiki/:en:apla "wikilink")
+  - [C接环](https://zh.wikipedia.org/wiki/:en:C_mount "wikilink")（通常用于监控设备）
   - [佳能EF或EF](../Page/佳能.md "wikilink")-S
   - 佳能FD
-  - [康泰时G](../Page/康泰时.md "wikilink")
-  - 康泰时[蔡司镜头](../Page/蔡司.md "wikilink")(Contarex)
-  - 康泰时/[雅西卡接环](../Page/雅西卡.md "wikilink")
-  - [爱克泰接环](../Page/:en:Exakta.md "wikilink")
+  - [康泰时G](https://zh.wikipedia.org/wiki/康泰时 "wikilink")
+  - 康泰时[蔡司镜头](https://zh.wikipedia.org/wiki/蔡司 "wikilink")(Contarex)
+  - 康泰时/[雅西卡接环](https://zh.wikipedia.org/wiki/雅西卡 "wikilink")
+  - [爱克泰接环](https://zh.wikipedia.org/wiki/:en:Exakta "wikilink")
   - [哈苏Xpan](../Page/哈苏.md "wikilink")
-  - [徕卡M系列镜头](../Page/徕卡.md "wikilink")
+  - [徕卡M系列镜头](https://zh.wikipedia.org/wiki/徕卡 "wikilink")
   - 徕卡M39镜头（螺纹）
   - 徕卡R镜头
   - M42通用镜头（螺纹）
-  - [微4/3系统镜头](../Page/微4/3系统.md "wikilink")
+  - [微4/3系统镜头](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
   - 美能达SR镜头
 
 [Sony_LAEA4_frontal.jpg](https://zh.wikipedia.org/wiki/File:Sony_LAEA4_frontal.jpg "fig:Sony_LAEA4_frontal.jpg")
 
-  - [美能达/柯尼卡美能达/索尼α镜头](../Page/Minolta_AF.md "wikilink")（索尼LA-EA1(沒有對焦馬達),LA-EA2(有對焦馬達,支援APS-C),LA-EA3(沒有對焦馬達,支援FF),LA-EA4(有對焦馬達,支援FF)接环，和第三方带光圈调节机构的转接环）
-  - [尼康F接環](../Page/尼康F接環.md "wikilink")（第三方转接环可提供G镜头的光圈调节机构）
-  - [奥林巴斯OM](../Page/奥林巴斯.md "wikilink")
-  - [奥林巴斯PEN](../Page/奥林巴斯.md "wikilink") F
-  - [宾得K接环](../Page/宾得.md "wikilink")（第三方转接环可提供DA镜头的光圈调节机构）
+  - [美能达/柯尼卡美能达/索尼α镜头](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")（索尼LA-EA1(沒有對焦馬達),LA-EA2(有對焦馬達,支援APS-C),LA-EA3(沒有對焦馬達,支援FF),LA-EA4(有對焦馬達,支援FF)接环，和第三方带光圈调节机构的转接环）
+  - [尼康F接環](https://zh.wikipedia.org/wiki/尼康F接環 "wikilink")（第三方转接环可提供G镜头的光圈调节机构）
+  - [奥林巴斯OM](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")
+  - [奥林巴斯PEN](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink") F
+  - [宾得K接环](https://zh.wikipedia.org/wiki/宾得 "wikilink")（第三方转接环可提供DA镜头的光圈调节机构）
   - [禄莱镜头](../Page/禄莱.md "wikilink")
   - T2接环（常见于天文望远镜）
 
@@ -145,7 +145,7 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 <td><p>NEX-3</p></td>
 <td><p>NEX-3（带<a href="../Page/Eye-Fi.md" title="wikilink">Eye-Fi</a>），NEX-3C（不带Eye-Fi）</p></td>
 <td><p>CX75210</p></td>
-<td><p><a href="../Page/Sony_Alpha.md" title="wikilink">Alpha (α)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Alpha" title="wikilink">Alpha (α)</a></p></td>
 <td><p>E-mount</p></td>
 <td><p><a href="../Page/先進攝影系統C型.md" title="wikilink">APS-C型</a>, 23.4×15.6mm (1.5×)</p></td>
 <td><p>CMOS, <a href="../Page/Exmor.md" title="wikilink">Exmor</a>, 14.2 MP</p></td>
@@ -157,7 +157,7 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索尼_NEX-5.md" title="wikilink">NEX-5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-5" title="wikilink">NEX-5</a></p></td>
 <td><p>NEX-5（带Eye-Fi），NEX-5C（不带Eye-Fi）</p></td>
 <td><p>CX75110, CX75121, CX75141</p></td>
 <td><p>Alpha (α)</p></td>
@@ -172,13 +172,13 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/索尼_NEX-C3.md" title="wikilink">NEX-C3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-C3" title="wikilink">NEX-C3</a></p></td>
 <td><p>NEX-C3</p></td>
 <td><p>CX75400, CX75420</p></td>
 <td><p>Alpha (α)</p></td>
 <td><p>E-mount</p></td>
 <td><p>APS-C型 (1.5×)</p></td>
-<td><p>CMOS, <a href="../Page/Exmor_HD.md" title="wikilink">Exmor HD</a>, 16.2 MP</p></td>
+<td><p>CMOS, <a href="https://zh.wikipedia.org/wiki/Exmor_HD" title="wikilink">Exmor HD</a>, 16.2 MP</p></td>
 <td><p>Smart Accessory Terminal 1</p></td>
 <td><p>2</p></td>
 <td><p>入门级</p></td>
@@ -187,7 +187,7 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索尼_NEX-5N.md" title="wikilink">NEX-5N</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-5N" title="wikilink">NEX-5N</a></p></td>
 <td><p>NEX-5N</p></td>
 <td><p>CX75500, CX75520</p></td>
 <td><p>Alpha (α)</p></td>
@@ -202,7 +202,7 @@ F鏡頭轉 Sony NEX機身的轉接環\]\]
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/索尼_NEX-7.md" title="wikilink">NEX-7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-7" title="wikilink">NEX-7</a></p></td>
 <td><p>NEX-7</p></td>
 <td><p>CX75600, CX75620</p></td>
 <td><p>Alpha (α)</p></td>
@@ -218,7 +218,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>发售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索尼_NEX-F3.md" title="wikilink">NEX-F3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-F3" title="wikilink">NEX-F3</a></p></td>
 <td><p>NEX-F3</p></td>
 <td><p>CX75700</p></td>
 <td><p>Alpha (α)</p></td>
@@ -233,7 +233,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/索尼_NEX-5R.md" title="wikilink">NEX-5R</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NEX-5R" title="wikilink">NEX-5R</a></p></td>
 <td><p>NEX-5R</p></td>
 <td><p>CX75820</p></td>
 <td><p>Alpha (α)</p></td>
@@ -248,7 +248,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NEX-6.md" title="wikilink">NEX-6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEX-6" title="wikilink">NEX-6</a></p></td>
 <td><p>NEX-6</p></td>
 <td><p>CX76060</p></td>
 <td><p>Alpha (α)</p></td>
@@ -264,7 +264,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Sony_NEX-3N.md" title="wikilink">NEX-3N</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_NEX-3N" title="wikilink">NEX-3N</a></p></td>
 <td><p>NEX-3N</p></td>
 <td><p>CX76200</p></td>
 <td><p>Alpha (α)</p></td>
@@ -279,7 +279,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Sony_NEX-5T.md" title="wikilink">NEX-5T</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_NEX-5T" title="wikilink">NEX-5T</a></p></td>
 <td><p>NEX-5T</p></td>
 <td><p>CX76500</p></td>
 <td><p>Alpha (α)</p></td>
@@ -294,7 +294,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α3000.md" title="wikilink">α3000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α3000" title="wikilink">α3000</a></p></td>
 <td><p>ILCE-3000</p></td>
 <td><p>CX77100, CX77121</p></td>
 <td><p>Alpha (α)</p></td>
@@ -310,7 +310,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α7.md" title="wikilink">α7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7" title="wikilink">α7</a></p></td>
 <td><p>ILCE-7</p></td>
 <td><p>CX77800</p></td>
 <td><p>Alpha (α)</p></td>
@@ -326,7 +326,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α7R.md" title="wikilink">α7R</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7R" title="wikilink">α7R</a></p></td>
 <td><p>ILCE-7R</p></td>
 <td><p>CX77900</p></td>
 <td><p>Alpha (α)</p></td>
@@ -342,7 +342,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停产</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α5000.md" title="wikilink">α5000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α5000" title="wikilink">α5000</a></p></td>
 <td><p>ILCE-5000</p></td>
 <td><p>CX77300, CX77361</p></td>
 <td><p>Alpha (α)</p></td>
@@ -357,7 +357,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α6000.md" title="wikilink">α6000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α6000" title="wikilink">α6000</a></p></td>
 <td><p>ILCE-6000</p></td>
 <td><p>CX77500</p></td>
 <td><p>Alpha (α)</p></td>
@@ -373,7 +373,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α3500.md" title="wikilink">α3500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α3500" title="wikilink">α3500</a></p></td>
 <td><p>ILCE-3500</p></td>
 <td><p>CX77100</p></td>
 <td><p>Alpha (α)</p></td>
@@ -389,7 +389,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>己停產</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α7S.md" title="wikilink">α7S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7S" title="wikilink">α7S</a></p></td>
 <td><p>ILCE-7S</p></td>
 <td><p>CX78500</p></td>
 <td><p>Alpha (α)</p></td>
@@ -405,7 +405,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>已停產</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α5100.md" title="wikilink">α5100</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α5100" title="wikilink">α5100</a></p></td>
 <td><p>ILCE-5100</p></td>
 <td><p>CX78300</p></td>
 <td><p>Alpha (α)</p></td>
@@ -420,7 +420,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</a></p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/αQX1.md" title="wikilink">αQX1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/αQX1" title="wikilink">αQX1</a></p></td>
 <td><p>ILCE-QX1</p></td>
 <td></td>
 <td><p>Alpha (α)<br />
@@ -436,7 +436,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α7_II.md" title="wikilink">α7 II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7_II" title="wikilink">α7 II</a></p></td>
 <td><p>ILCE-7M2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -452,7 +452,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α7R_II.md" title="wikilink">α7R II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7R_II" title="wikilink">α7R II</a></p></td>
 <td><p>ILCE-7RM2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -468,7 +468,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α7S_II.md" title="wikilink">α7S II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7S_II" title="wikilink">α7S II</a></p></td>
 <td><p>ILCE-7SM2</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -484,7 +484,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α6300.md" title="wikilink">α6300</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α6300" title="wikilink">α6300</a></p></td>
 <td><p>ILCE-6300</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -500,7 +500,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α6500.md" title="wikilink">α6500</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α6500" title="wikilink">α6500</a></p></td>
 <td><p>ILCE-6500</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -516,7 +516,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/α9.md" title="wikilink">α9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α9" title="wikilink">α9</a></p></td>
 <td><p>ILCE-9</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -532,7 +532,7 @@ SmartShot</p></td>
 <td><p>發售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/α7R_III.md" title="wikilink">α7R III</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/α7R_III" title="wikilink">α7R III</a></p></td>
 <td><p>ILCE-7RM3</p></td>
 <td></td>
 <td><p>Alpha (α)</p></td>
@@ -563,7 +563,7 @@ SmartShot</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Sony_Handycam_NEX-VG10.md" title="wikilink">NEX-VG10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Handycam_NEX-VG10" title="wikilink">NEX-VG10</a></p></td>
 <td><p>NEX-VG10E, NEX-VG10A, NEX-VG10J</p></td>
 <td><p>CX36000, CX36001</p></td>
 <td><p><a href="../Page/Handycam.md" title="wikilink">Handycam</a></p></td>
@@ -579,7 +579,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>已停產</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/索尼_Handycam_NEX-VG20.md" title="wikilink">NEX-VG20</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_Handycam_NEX-VG20" title="wikilink">NEX-VG20</a></p></td>
 <td><p>NEX-VG20E, NEX-VG20A, NEX-VG20J</p></td>
 <td></td>
 <td><p>Handycam</p></td>
@@ -594,12 +594,12 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>发售中</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索尼_NXCAM_NEX-FS100.md" title="wikilink">NEX-FS100</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-FS100" title="wikilink">NEX-FS100</a></p></td>
 <td><p>NEX-FS100E, NEX-FS100U, NEX-FS100J</p></td>
 <td></td>
-<td><p><a href="../Page/AVCHD#NXCAM.md" title="wikilink">NXCAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AVCHD#NXCAM" title="wikilink">NXCAM</a></p></td>
 <td><p>E-mount</p></td>
-<td><p><a href="../Page/Super_35.md" title="wikilink">Super-35mm</a>, 23.6×13.3mm (1.6×)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_35" title="wikilink">Super-35mm</a>, 23.6×13.3mm (1.6×)</p></td>
 <td><p>CMOS, Exmor HD, 3.5 MP</p></td>
 <td></td>
 <td></td>
@@ -609,7 +609,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>发售中</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/索尼_NXCAM_NEX-FS700.md" title="wikilink">NEX-FS700</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-FS700" title="wikilink">NEX-FS700</a></p></td>
 <td><p>NEX-FS700E, NEX-FS700U, NEX-FS700J</p></td>
 <td></td>
 <td><p>NXCAM</p></td>
@@ -624,7 +624,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <td><p>已发表</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/索尼_NXCAM_NEX-EA50.md" title="wikilink">NEX-EA50</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_NXCAM_NEX-EA50" title="wikilink">NEX-EA50</a></p></td>
 <td><p>NEX-EA50E, NEX-EA50U</p></td>
 <td></td>
 <td><p>NXCAM</p></td>
@@ -648,7 +648,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 <tr class="header">
 <th><p>厂商</p></th>
 <th><p>接环</p></th>
-<th><p><a href="../Page/法兰距.md" title="wikilink">法兰距</a>(mm)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/法兰距" title="wikilink">法兰距</a>(mm)</p></th>
 <th><p>后组镜片直径(mm)</p></th>
 <th><p>画幅(mm)</p></th>
 </tr>
@@ -663,14 +663,14 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/三星電子.md" title="wikilink">三星</a></p></td>
-<td><p><a href="../Page/:en:NX_Mount.md" title="wikilink">NX接环</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:NX_Mount" title="wikilink">NX接环</a></p></td>
 <td></td>
 <td></td>
 <td><p>23.4×15.6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/松下.md" title="wikilink">松下</a>/<a href="../Page/奥林巴斯.md" title="wikilink">奥巴</a></p></td>
-<td><p><a href="../Page/微4/3系统.md" title="wikilink">微4/3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松下" title="wikilink">松下</a>/<a href="https://zh.wikipedia.org/wiki/奥林巴斯" title="wikilink">奥巴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微4/3系统" title="wikilink">微4/3</a></p></td>
 <td></td>
 <td></td>
 <td><p>17.3×13</p></td>
@@ -689,7 +689,7 @@ Auto-lock Accessory Shoe (4-pin iISO)</p></td>
 
 其他[无反光镜可换镜头数码相机接口](../Page/無反光鏡可換鏡頭相機.md "wikilink")
 
-  - [微4/3系统](../Page/微4/3系统.md "wikilink")
+  - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
   - [富士X卡口](../Page/富士X卡口.md "wikilink")
 
 [Category:鏡頭接環](https://zh.wikipedia.org/wiki/Category:鏡頭接環 "wikilink")

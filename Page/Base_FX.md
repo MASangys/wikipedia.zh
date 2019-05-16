@@ -1,5 +1,5 @@
 **Base
-FX**，是一家[电影后期视觉](../Page/电影.md "wikilink")[特效和](https://zh.wikipedia.org/wiki/特效 "wikilink")[动画公司](../Page/动画.md "wikilink")，2010年公司凭借在[HBO迷你剧集](../Page/HBO.md "wikilink")《[雷霆戰海](../Page/太平洋_\(电视剧\).md "wikilink")》中的特效制作，获得第62届[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")\[1\]；2011年，公司凭借为HBO制作的《[大西洋帝国](https://zh.wikipedia.org/wiki/大西洋帝国 "wikilink")》再度赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")；2014年，公司凭借为Starz制作的《[黑帆](https://zh.wikipedia.org/wiki/黑帆 "wikilink")》第三次赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")
+FX**，是一家[电影后期视觉](../Page/电影.md "wikilink")[特效和](https://zh.wikipedia.org/wiki/特效 "wikilink")[动画公司](../Page/动画.md "wikilink")，2010年公司凭借在[HBO迷你剧集](../Page/HBO.md "wikilink")《[雷霆戰海](../Page/太平洋_\(电视剧\).md "wikilink")》中的特效制作，获得第62届[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")\[1\]；2011年，公司凭借为HBO制作的《[大西洋帝国](https://zh.wikipedia.org/wiki/大西洋帝国 "wikilink")》再度赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")；2014年，公司凭借为Starz制作的《[黑帆](../Page/黑帆.md "wikilink")》第三次赢得[艾美奖最佳视觉特效奖](../Page/艾美奖.md "wikilink")
 \[2\]。
 
 公司成立于2006年，总部位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")，特效制作和项目管理团队位于[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[无锡](https://zh.wikipedia.org/wiki/无锡 "wikilink")、[厦门和](https://zh.wikipedia.org/wiki/厦门 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，并在[大厂建立了培训基地](https://zh.wikipedia.org/wiki/大厂 "wikilink")\[3\]。截至2015年3月，公司现已完成了130余部国内外的影视特效制作\[4\]，如《[美国队长2](https://zh.wikipedia.org/wiki/美国队长2 "wikilink")》、《[变形金刚4](https://zh.wikipedia.org/wiki/变形金刚4 "wikilink")》、《[环太平洋](https://zh.wikipedia.org/wiki/环太平洋 "wikilink")》、《[狼图腾](https://zh.wikipedia.org/wiki/狼图腾 "wikilink")》、《[王的盛宴](../Page/王的盛宴.md "wikilink")》、《[金陵十三钗](../Page/金陵十三钗.md "wikilink")》、
@@ -24,8 +24,8 @@ FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业
 <td><p>2015</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/特工卡特" title="wikilink">特工卡特</a>[9]</li>
-<li><a href="https://zh.wikipedia.org/wiki/狼图腾_(电影)" title="wikilink">狼图腾 (电影)</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/捉妖记_(2015年电影)" title="wikilink">捉妖记</a></li>
+<li><a href="../Page/狼图腾_(电影).md" title="wikilink">狼图腾 (电影)</a></li>
+<li><a href="../Page/捉妖记_(2015年电影).md" title="wikilink">捉妖记</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -35,8 +35,8 @@ FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业
 <li>地球回音</li>
 <li><a href="https://zh.wikipedia.org/wiki/变形金刚4：绝迹重生" title="wikilink">变形金刚4：绝迹重生</a>[10]</li>
 <li><a href="https://zh.wikipedia.org/wiki/忍者神龟" title="wikilink">忍者神龟</a>：变种时代</li>
-<li><a href="https://zh.wikipedia.org/wiki/心花路放" title="wikilink">心花路放</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/黑帆" title="wikilink">黑帆</a> (连续剧)</li>
+<li><a href="../Page/心花路放.md" title="wikilink">心花路放</a></li>
+<li><a href="../Page/黑帆.md" title="wikilink">黑帆</a> (连续剧)</li>
 <li><a href="https://zh.wikipedia.org/wiki/末日孤舰" title="wikilink">末日孤舰</a> ((连续剧)</li>
 </ul></td>
 </tr>
@@ -45,11 +45,11 @@ FX正式与[工业光魔展开战略合作](https://zh.wikipedia.org/wiki/工业
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/大西洋帝国" title="wikilink">大西洋帝国</a> (连续剧) 第季</li>
 <li><a href="https://zh.wikipedia.org/wiki/身份窃贼" title="wikilink">身份窃贼</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/太极侠" title="wikilink">太极侠</a></li>
+<li><a href="../Page/太极侠.md" title="wikilink">太极侠</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/奥林匹斯的陷落" title="wikilink">奥林匹斯的陷落</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/付出与收获" title="wikilink">付出与收获</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/星际迷航：暗黑无界" title="wikilink">星际迷航：暗黑无界</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/环太平洋_(电影)" title="wikilink">环太平洋 (电影)</a>[11]</li>
+<li><a href="../Page/环太平洋_(电影).md" title="wikilink">环太平洋 (电影)</a>[11]</li>
 <li><a href="https://zh.wikipedia.org/wiki/独行侠_(2013年电影)" title="wikilink">独行侠 (2013年电影)</a></li>
 </ul></td>
 </tr>

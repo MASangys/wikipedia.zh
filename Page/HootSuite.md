@@ -1,4 +1,4 @@
-**HootSuite**是一家网站和在线品牌管理服务提供商，支持诸如[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")、[Foursquare](../Page/Foursquare.md "wikilink")、[Ping.fm](https://zh.wikipedia.org/wiki/Ping.fm "wikilink")、[Ning](../Page/Ning.md "wikilink")、[mixi](https://zh.wikipedia.org/wiki/mixi "wikilink")、[MySpace以及](../Page/MySpace.md "wikilink")[WordPress.com](../Page/WordPress.com.md "wikilink")。它同时还是一款Twitter客户端。\[1\]
+**HootSuite**是一家网站和在线品牌管理服务提供商，支持诸如[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")、[Foursquare](../Page/Foursquare.md "wikilink")、[Ping.fm](https://zh.wikipedia.org/wiki/Ping.fm "wikilink")、[Ning](../Page/Ning.md "wikilink")、[mixi](https://zh.wikipedia.org/wiki/mixi "wikilink")、[MySpace以及](https://zh.wikipedia.org/wiki/MySpace "wikilink")[WordPress.com](../Page/WordPress.com.md "wikilink")。它同时还是一款Twitter客户端。\[1\]
 
 ## 服务内容
 

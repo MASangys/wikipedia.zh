@@ -23,14 +23,14 @@ Loco-Motion》版權所屬的唱片公司[EMI也向日方提出嚴正抗議](../
 
 在2004年年底的[NHK紅白歌合戰上](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，主辦單位徵得全部團員同意，將歌曲資訊改為「作詞、作曲：Carole
 King / Gerry Goffin；日本語詞：ORANGE
-RANGE」。收錄這張單曲的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[musiQ](../Page/musiQ.md "wikilink")》中正式將這首歌標準為[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
+RANGE」。收錄這張單曲的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[musiQ](https://zh.wikipedia.org/wiki/musiQ "wikilink")》中正式將這首歌標準為[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 而CD單曲內的其餘兩首c/w曲也涉嫌著作權侵害問題。《MONKEY
 MAGIC》翻唱自日本樂團[GODIEGO的同名歌曲](https://zh.wikipedia.org/wiki/GODIEGO "wikilink")；《ORANGE
 BOAT》涉嫌抄襲了美國歌手[哈利·貝拉方提歌曲](https://zh.wikipedia.org/wiki/哈利·貝拉方提 "wikilink")《[Banana
 Boat](https://zh.wikipedia.org/wiki/Banana_Boat "wikilink")》的一部分。年度大熱的單曲內，沒有一首歌曲是原創。
 
-後來橘子新樂園隊長[NAOTO在雜誌](https://zh.wikipedia.org/wiki/NAOTO "wikilink")《[bounce](https://zh.wikipedia.org/wiki/bounce "wikilink")》接受採訪並對抄襲事件發表意見，坦誠「當時的口號就是『抄襲吧！』」，因為當時認為應大膽模仿前人中取得進步。此番言論又引起軒然大波。\[3\]
+後來橘子新樂園隊長[NAOTO在雜誌](../Page/NAOTO.md "wikilink")《[bounce](https://zh.wikipedia.org/wiki/bounce "wikilink")》接受採訪並對抄襲事件發表意見，坦誠「當時的口號就是『抄襲吧！』」，因為當時認為應大膽模仿前人中取得進步。此番言論又引起軒然大波。\[3\]
 
 ## 收錄曲目
 

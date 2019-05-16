@@ -191,7 +191,7 @@ DAYS''**」（），並於2015年1月播放。\[1\]
     與婭美莉塔在米爾希身邊的定位相似，不過較重於自身負責的領域。在關於工作領域時就算是勇者真紅的請求也不會妥協。
     完全習得女僕隊流護衛劍術的突劍二刀流，偶爾會持劍與盯上公主的刺客戰鬥。
     在第一季最後的戰爭中，畢歐蕾率領女僕隊偷襲奪取寶劍時與女僕隊輕易的將其壓制。
-    名字的由來是[貝殼麵](https://zh.wikipedia.org/wiki/貝殼麵 "wikilink")。
+    名字的由來是[貝殼麵](../Page/貝殼麵.md "wikilink")。
 
 ##### 風月庵
 
@@ -545,7 +545,7 @@ DAYS的連結\[2\]。
   - 監督：[草川啓造](https://zh.wikipedia.org/wiki/草川啓造 "wikilink")（第1季）、[西村純二](../Page/西村純二.md "wikilink")（第2季、第3季）
   - 角色設計：[坂田理](https://zh.wikipedia.org/wiki/坂田理 "wikilink")
   - 副設計：[太田惠子](https://zh.wikipedia.org/wiki/太田惠子 "wikilink")、[橋立佳奈](https://zh.wikipedia.org/wiki/橋立佳奈 "wikilink")（第3季）
-  - 武器設計：[大塚亨](https://zh.wikipedia.org/wiki/大塚亨 "wikilink")
+  - 武器設計：[大塚亨](../Page/大塚亨.md "wikilink")
   - 怪物設計：[小田裕康](https://zh.wikipedia.org/wiki/小田裕康 "wikilink")、古矢好二（第3季）
   - 道具設計：[益田賢治](https://zh.wikipedia.org/wiki/益田賢治 "wikilink")
   - 圖像設計：
@@ -1033,7 +1033,7 @@ mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：米希奧蕾·F·
 田中宏紀</p></td>
 <td><p>菊池勝也<br />
 飯野誠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/門智昭" title="wikilink">門智昭</a>、飯飼一幸</p></td>
+<td><p><a href="../Page/門智昭.md" title="wikilink">門智昭</a>、飯飼一幸</p></td>
 <td><p>飯野誠</p></td>
 </tr>
 <tr class="even">
@@ -1063,7 +1063,7 @@ mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：米希奧蕾·F·
 <td></td>
 <td><p>小小王子與傳說英雄</p></td>
 <td><p>玉田博</p></td>
-<td><p>濱森理宏、<a href="https://zh.wikipedia.org/wiki/大塚亨" title="wikilink">大塚亨</a><br />
+<td><p>濱森理宏、<a href="../Page/大塚亨.md" title="wikilink">大塚亨</a><br />
 Kim Bong Duk<br />
 山崎輝彥、橋立佳奈<br />
 北村友幸</p></td>
@@ -1412,7 +1412,7 @@ Lee Ouk Ho</p></td>
 
 ## 漫畫
 
-[都築真紀原作](../Page/都築真紀.md "wikilink")、[藤真拓哉作畫的漫畫版](../Page/藤真拓哉.md "wikilink")，全五話，在[角川書店旗下各雜誌輪流連載](../Page/角川書店.md "wikilink")\[4\]：自[2011年4月開始](../Page/2011年4月.md "wikilink")，第一話於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》2011年5月號連載，第二話於《[Comptiq](https://zh.wikipedia.org/wiki/Comptiq "wikilink")》2011年7月號連載，第三話於《Comptiq》2011年8月號連載，第四話於《[月刊Comp
+[都築真紀原作](../Page/都築真紀.md "wikilink")、[藤真拓哉作畫的漫畫版](../Page/藤真拓哉.md "wikilink")，全五話，在[角川書店旗下各雜誌輪流連載](../Page/角川書店.md "wikilink")\[4\]：自[2011年4月開始](../Page/2011年4月.md "wikilink")，第一話於《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》2011年5月號連載，第二話於《[Comptiq](../Page/Comptiq.md "wikilink")》2011年7月號連載，第三話於《Comptiq》2011年8月號連載，第四話於《[月刊Comp
 Ace](../Page/月刊Comp_Ace.md "wikilink")》2011年10月號連載，最終話於《月刊Comp
 Ace》2011年11月號連載\[5\]。單行本全一集，角川書店2011年10月26日初版發行，ISBN
 978-4-04-715806-1，列入《Kadokawa Comics A》叢書。

@@ -3,12 +3,12 @@
 注：
 
   - 1970年—1979年，只統計[LP](../Page/黑膠唱片.md "wikilink")
-  - 1980年—1985年，合計LP和[CT](../Page/卡帶.md "wikilink")
+  - 1980年—1985年，合計LP和[CT](https://zh.wikipedia.org/wiki/卡帶 "wikilink")
   - 1986年—1987年，合計LP、CT和[CD](../Page/CD.md "wikilink")
 
 ## 歷年冠軍作品
 
-專輯類型中的「原創」是指[原創專輯](../Page/錄音室專輯.md "wikilink")；「精選」是指[精選輯](../Page/精選輯.md "wikilink")；「合輯」是指[合輯](../Page/合輯.md "wikilink")；「翻唱」是指[翻唱專輯](../Page/翻唱專輯.md "wikilink")；「原聲」是指[音樂原聲帶](../Page/原聲音樂.md "wikilink")。
+專輯類型中的「原創」是指[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")；「精選」是指[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")；「合輯」是指[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")；「翻唱」是指[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")；「原聲」是指[音樂原聲帶](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 <table>
 <thead>
@@ -27,7 +27,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1970年</p></td>
-<td><p><a href="../Page/新宿之女/“演歌之星”藤圭子的全集.md" title="wikilink">新宿之女／“演歌之星”藤圭子的全集</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新宿之女/“演歌之星”藤圭子的全集" title="wikilink">新宿之女／“演歌之星”藤圭子的全集</a></p></td>
 <td><p><a href="../Page/藤圭子.md" title="wikilink">藤圭子</a></p></td>
 <td><p>1970年3月5日</p></td>
 <td><p>原創</p></td>
@@ -36,8 +36,8 @@
 </tr>
 <tr class="even">
 <td><p>1971年</p></td>
-<td><p><a href="../Page/You_Don&#39;t_Have_to_Say_You_Love_Me.md" title="wikilink">You Don't Have to Say You Love Me</a></p></td>
-<td><p><a href="../Page/艾維斯·普里斯萊.md" title="wikilink">艾維斯·普里斯萊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/You_Don&#39;t_Have_to_Say_You_Love_Me" title="wikilink">You Don't Have to Say You Love Me</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾維斯·普里斯萊" title="wikilink">艾維斯·普里斯萊</a></p></td>
 <td><p>1971年1月23日</p></td>
 <td><p>原創</p></td>
 <td><p>25.5</p></td>
@@ -45,8 +45,8 @@
 </tr>
 <tr class="odd">
 <td><p>1972年</p></td>
-<td><p><a href="../Page/水色之戀/從眼淚到明天.md" title="wikilink">水色之戀／從眼淚到明天</a></p></td>
-<td><p><a href="../Page/天地真理.md" title="wikilink">天地真理</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/水色之戀/從眼淚到明天" title="wikilink">水色之戀／從眼淚到明天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天地真理" title="wikilink">天地真理</a></p></td>
 <td><p>1971年12月21日</p></td>
 <td><p>原創</p></td>
 <td><p>26.1</p></td>
@@ -54,8 +54,8 @@
 </tr>
 <tr class="even">
 <td><p>1973年</p></td>
-<td><p><a href="../Page/女人之路.md" title="wikilink">女人之路</a></p></td>
-<td><p><a href="../Page/宮史郎.md" title="wikilink">宮史郎與品的三重奏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女人之路" title="wikilink">女人之路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮史郎" title="wikilink">宮史郎與品的三重奏</a></p></td>
 <td><p>1972年12月25日</p></td>
 <td><p>原創</p></td>
 <td><p>27.0</p></td>
@@ -63,7 +63,7 @@
 </tr>
 <tr class="odd">
 <td><p>1974年</p></td>
-<td><p><a href="../Page/冰的世界_(專輯).md" title="wikilink">冰的世界</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰的世界_(專輯)" title="wikilink">冰的世界</a></p></td>
 <td><p><a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></p></td>
 <td><p>1973年12月1日</p></td>
 <td><p>原創</p></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><p>1976年</p></td>
-<td><p><a href="../Page/游吧！鯛魚燒君.md" title="wikilink">游吧！鯛魚燒君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游吧！鯛魚燒君" title="wikilink">游吧！鯛魚燒君</a></p></td>
 <td><p>（合輯）</p></td>
 <td><p>1976年2月10日</p></td>
 <td><p>合輯</p></td>
@@ -90,8 +90,8 @@
 </tr>
 <tr class="even">
 <td><p>1977年</p></td>
-<td><p><a href="../Page/Love_Collection.md" title="wikilink">Love Collection</a></p></td>
-<td><p><a href="../Page/Hi-fi-set.md" title="wikilink">Hi-fi-set</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Collection" title="wikilink">Love Collection</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hi-fi-set" title="wikilink">Hi-fi-set</a></p></td>
 <td><p>1977年2月5日</p></td>
 <td><p>原創</p></td>
 <td><p>39.1</p></td>
@@ -99,8 +99,8 @@
 </tr>
 <tr class="odd">
 <td><p>1978年</p></td>
-<td><p><a href="../Page/Pink_Lady_Greatest_Hits_Album_(1977年版).md" title="wikilink">Pink Lady Greatest Hits Album</a></p></td>
-<td><p><a href="../Page/Pink_Lady.md" title="wikilink">Pink Lady</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Lady_Greatest_Hits_Album_(1977年版)" title="wikilink">Pink Lady Greatest Hits Album</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Lady" title="wikilink">Pink Lady</a></p></td>
 <td><p>1977年12月5日</p></td>
 <td><p>精選</p></td>
 <td><p>70.2</p></td>
@@ -108,8 +108,8 @@
 </tr>
 <tr class="even">
 <td><p>1979年</p></td>
-<td><p><a href="../Page/西遊記_(原聲音樂).md" title="wikilink">西遊記</a></p></td>
-<td><p><a href="../Page/GODIEGO.md" title="wikilink">GODIEGO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西遊記_(原聲音樂)" title="wikilink">西遊記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GODIEGO" title="wikilink">GODIEGO</a></p></td>
 <td><p>1978年10月25日</p></td>
 <td><p>原創<br />
 原聲</p></td>
@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p>1980年</p></td>
-<td><p><a href="../Page/起承転結_(專輯).md" title="wikilink">起承轉結</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/起承転結_(專輯)" title="wikilink">起承轉結</a></p></td>
 <td><p><a href="../Page/松山千春.md" title="wikilink">松山千春</a></p></td>
 <td><p>1979年11月21日</p></td>
 <td><p>精選</p></td>
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>1981年</p></td>
-<td><p><a href="../Page/Reflections.md" title="wikilink">Reflections</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Reflections" title="wikilink">Reflections</a></p></td>
 <td><p><a href="../Page/寺尾聰.md" title="wikilink">寺尾聰</a></p></td>
 <td><p>1981年4月5日</p></td>
 <td><p>原創</p></td>
@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p>1982年</p></td>
-<td><p><a href="../Page/寒水魚.md" title="wikilink">寒水魚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寒水魚" title="wikilink">寒水魚</a></p></td>
 <td><p><a href="../Page/中島美雪.md" title="wikilink">中島美雪</a></p></td>
 <td><p>1982年3月21日</p></td>
 <td><p>原創</p></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>1983年</p></td>
-<td><p><a href="../Page/閃舞_(原聲音樂).md" title="wikilink">閃舞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/閃舞_(原聲音樂)" title="wikilink">閃舞</a></p></td>
 <td><p>（原聲音樂）</p></td>
 <td><p>1983年4月15日</p></td>
 <td><p>原聲</p></td>
@@ -154,8 +154,8 @@
 </tr>
 <tr class="odd">
 <td><p>1984年</p></td>
-<td><p><a href="../Page/Thriller_(迈克尔·杰克逊专辑).md" title="wikilink">Thriller</a></p></td>
-<td><p><a href="../Page/邁克爾·傑克遜.md" title="wikilink">邁克爾·傑克遜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Thriller_(迈克尔·杰克逊专辑)" title="wikilink">Thriller</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁克爾·傑克遜" title="wikilink">邁克爾·傑克遜</a></p></td>
 <td><p>1982年12月1日</p></td>
 <td><p>原創</p></td>
 <td><p>95.7</p></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>1985年</p></td>
-<td><p><a href="../Page/9.5克拉.md" title="wikilink">9.5克拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/9.5克拉" title="wikilink">9.5克拉</a></p></td>
 <td><p><a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></p></td>
 <td><p>1984年12月21日</p></td>
 <td><p>翻唱</p></td>
@@ -172,7 +172,7 @@
 </tr>
 <tr class="odd">
 <td><p>1986年</p></td>
-<td><p><a href="../Page/安全地帶IV.md" title="wikilink">安全地帶IV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安全地帶IV" title="wikilink">安全地帶IV</a></p></td>
 <td><p><a href="../Page/安全地帶.md" title="wikilink">安全地帶</a></p></td>
 <td><p>1985年11月24日</p></td>
 <td><p>原創</p></td>
@@ -181,8 +181,8 @@
 </tr>
 <tr class="even">
 <td><p>1987年</p></td>
-<td><p><a href="../Page/NON-STOPPER.md" title="wikilink">NON-STOPPER</a></p></td>
-<td><p><a href="../Page/荻野目洋子.md" title="wikilink">荻野目洋子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NON-STOPPER" title="wikilink">NON-STOPPER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荻野目洋子" title="wikilink">荻野目洋子</a></p></td>
 <td><p>1986年12月16日</p></td>
 <td><p>原創</p></td>
 <td><p>68.6</p></td>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td><p>1988年</p></td>
-<td><p><a href="../Page/光GENJI_(專輯).md" title="wikilink">光GENJI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光GENJI_(專輯)" title="wikilink">光GENJI</a></p></td>
 <td><p><a href="../Page/光GENJI.md" title="wikilink">光GENJI</a></p></td>
 <td><p>1988年1月1日</p></td>
 <td><p>原創</p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="even">
 <td><p>1989年</p></td>
-<td><p><a href="../Page/Delight_Slight_Light_KISS.md" title="wikilink">Delight Slight Light KISS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Delight_Slight_Light_KISS" title="wikilink">Delight Slight Light KISS</a></p></td>
 <td><p><a href="../Page/松任谷由實.md" title="wikilink">松任谷由實</a></p></td>
 <td><p>1988年11月26日</p></td>
 <td><p>原創</p></td>
@@ -208,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><p>1990年</p></td>
-<td><p><a href="../Page/LOVE_WARS.md" title="wikilink">LOVE WARS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_WARS" title="wikilink">LOVE WARS</a></p></td>
 <td><p>1989年11月25日</p></td>
 <td><p>原創</p></td>
 <td><p>161.2[9]</p></td>
@@ -217,7 +217,7 @@
 </tr>
 <tr class="even">
 <td><p>1991年</p></td>
-<td><p><a href="../Page/天國的門.md" title="wikilink">天國的門</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天國的門" title="wikilink">天國的門</a></p></td>
 <td><p>1990年11月23日</p></td>
 <td><p>原創</p></td>
 <td><p>197.5[11]</p></td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="odd">
 <td><p>1992年</p></td>
-<td><p><a href="../Page/SUPER_BEST_II.md" title="wikilink">SUPER BEST II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUPER_BEST_II" title="wikilink">SUPER BEST II</a></p></td>
 <td><p><a href="../Page/恰克與飛鳥.md" title="wikilink">恰克與飛鳥</a></p></td>
 <td><p>1992年3月25日</p></td>
 <td><p>精選</p></td>
@@ -244,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><a href="../Page/MAGIC_(DREAMS_COME_TRUE專輯).md" title="wikilink">MAGIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAGIC_(DREAMS_COME_TRUE專輯)" title="wikilink">MAGIC</a></p></td>
 <td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></p></td>
 <td><p>1993年12月4日</p></td>
 <td><p>原創</p></td>
@@ -253,7 +253,7 @@
 </tr>
 <tr class="even">
 <td><p>1995年</p></td>
-<td><p><a href="../Page/DELICIOUS.md" title="wikilink">DELICIOUS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DELICIOUS" title="wikilink">DELICIOUS</a></p></td>
 <td><p>1995年3月25日</p></td>
 <td><p>原創</p></td>
 <td><p>291.0[19]</p></td>
@@ -262,8 +262,8 @@
 </tr>
 <tr class="odd">
 <td><p>1996年</p></td>
-<td><p><a href="../Page/globe_(專輯).md" title="wikilink">globe</a></p></td>
-<td><p><a href="../Page/globe.md" title="wikilink">globe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/globe_(專輯)" title="wikilink">globe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
 <td><p>1996年3月31日</p></td>
 <td><p>原創</p></td>
 <td><p>376.3[21]</p></td>
@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="../Page/B&#39;z_The_Best_&quot;Pleasure&quot;.md" title="wikilink">B'z The Best "Pleasure"</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;Pleasure&quot;" title="wikilink">B'z The Best "Pleasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>1998年5月20日</p></td>
 <td><p>精選</p></td>
@@ -298,7 +298,7 @@
 </tr>
 <tr class="odd">
 <td><p>2000年</p></td>
-<td><p><a href="../Page/delicious_way.md" title="wikilink">delicious way</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/delicious_way" title="wikilink">delicious way</a></p></td>
 <td><p><a href="../Page/倉木麻衣.md" title="wikilink">倉木麻衣</a></p></td>
 <td><p>2000年6月28日</p></td>
 <td><p>原創</p></td>
@@ -343,8 +343,8 @@
 </tr>
 <tr class="even">
 <td><p>2005年</p></td>
-<td><p><a href="../Page/musiQ.md" title="wikilink">musiQ</a></p></td>
-<td><p><a href="../Page/橘子新樂園.md" title="wikilink">橘子新樂園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/musiQ" title="wikilink">musiQ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘子新樂園" title="wikilink">橘子新樂園</a></p></td>
 <td><p>2004年12月1日</p></td>
 <td><p>原創</p></td>
 <td><p>263.1[39]</p></td>
@@ -397,7 +397,7 @@
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/Beautiful_World_(嵐).md" title="wikilink">Beautiful World</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beautiful_World_(嵐)" title="wikilink">Beautiful World</a></p></td>
 <td><p>2011年7月6日</p></td>
 <td><p>原創</p></td>
 <td><p>90.8[51]</p></td>
@@ -442,7 +442,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/Are_You_Happy?.md" title="wikilink">Are You Happy?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Are_You_Happy?" title="wikilink">Are You Happy?</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>2016年10月26日</p></td>
 <td><p>原創</p></td>
@@ -451,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/Finally.md" title="wikilink">Finally</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Finally" title="wikilink">Finally</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>2017年11月8日</p></td>
 <td><p>精選</p></td>

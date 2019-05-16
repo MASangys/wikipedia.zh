@@ -13,8 +13,10 @@ TIME**』是[日本男性偶像組合](../Page/日本.md "wikilink")[NEWS第](..
 ### 初回生産限定盤
 
 1.  **SUMMER TIME**
-      - 作詞: [zopp](../Page/zopp.md "wikilink")、作曲: Red-T、編曲:
-        [NAOKI-T](../Page/NAOKI-T.md "wikilink")、Rap詞: LOWARTH
+      - 作詞: [zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")、作曲:
+        Red-T、編曲:
+        [NAOKI-T](https://zh.wikipedia.org/wiki/NAOKI-T "wikilink")、Rap詞:
+        LOWARTH
 2.  **EASY COME, EASY GO**
       - 作詞: zopp、作曲: 福士健太郎、編曲: 鈴木雅也
 3.  **Liar**

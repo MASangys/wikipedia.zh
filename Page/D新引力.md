@@ -56,7 +56,7 @@ Phoenix Stone(Bmi)</p></td>
 <tr class="even">
 <td><p>03</p></td>
 <td><p>新歌</p></td>
-<td><p>陈炯顺、<a href="../Page/洪俊扬.md" title="wikilink">洪俊扬</a></p></td>
+<td><p>陈炯顺、<a href="https://zh.wikipedia.org/wiki/洪俊扬" title="wikilink">洪俊扬</a></p></td>
 <td><p>林怡凤</p></td>
 <td><p>Terence Teo</p></td>
 <td><p><strong>第一主打歌</strong></p></td>
@@ -72,7 +72,7 @@ Phoenix Stone(Bmi)</p></td>
 <tr class="even">
 <td><p>05</p></td>
 <td><p>捨不得放手</p></td>
-<td><p><a href="../Page/鸦片丹.md" title="wikilink">鸦片丹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鸦片丹" title="wikilink">鸦片丹</a></p></td>
 <td><p>郑悦心</p></td>
 <td><p>Martin Tang</p></td>
 <td><p><strong>第三主打歌</strong></p></td>
@@ -90,13 +90,13 @@ Phoenix Stone(Bmi)</p></td>
 <td><p>绝无仅有</p></td>
 <td><p>施佳阳</p></td>
 <td><p>施佳阳</p></td>
-<td><p><a href="../Page/蔡庭贵.md" title="wikilink">蔡庭贵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡庭贵" title="wikilink">蔡庭贵</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>不能不想她</p></td>
-<td><p><a href="../Page/天天.md" title="wikilink">天天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天天" title="wikilink">天天</a></p></td>
 <td><p>黄中岳</p></td>
 <td></td>
 <td></td>

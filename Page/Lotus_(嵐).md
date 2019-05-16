@@ -4,7 +4,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 ## 解說
 
   - 與前作[無盡的天空相距約](../Page/無盡的天空.md "wikilink")3個月，為2011年的第一張單曲。
-  - 主打歌是成員[相葉雅紀](../Page/相葉雅紀.md "wikilink")[主演](../Page/主演.md "wikilink")，朝日[電視台金曜深夜連續劇](../Page/電視台.md "wikilink")『[王牌酒保](../Page/王牌酒保.md "wikilink")』主題曲。
+  - 主打歌是成員[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")[主演](https://zh.wikipedia.org/wiki/主演 "wikilink")，朝日[電視台金曜深夜連續劇](https://zh.wikipedia.org/wiki/電視台 "wikilink")『[王牌酒保](../Page/王牌酒保.md "wikilink")』主題曲。
 
 ### 主要紀錄
 

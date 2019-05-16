@@ -1,11 +1,11 @@
 『**～Sphere's rings live tour 2010～**』（スフィアーズ・リングス・ライブツアーにせんじゅう）是
-[sphere的第一張live的影像作品](../Page/sphere_\(聲優團體\).md "wikilink")。於2011年1月1日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](../Page/Blu-ray_Disc.md "wikilink")、[DVD發售](../Page/DVD.md "wikilink")。
+[sphere的第一張live的影像作品](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")。於2011年1月1日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
   - 收錄2010年4月18日至7月25日舉行的巡迴演唱會『〜Sphere's rings live tour
-    2010〜』在[NHK大廳最終公演的演出](../Page/NHK大廳.md "wikilink")。
-  - 以[BD](../Page/Blu-ray_Disc.md "wikilink")、[DVD取得各成員的獨唱樂曲](../Page/DVD.md "wikilink")。
+    2010〜』在[NHK大廳最終公演的演出](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")。
+  - 以[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD取得各成員的獨唱樂曲](https://zh.wikipedia.org/wiki/DVD "wikilink")。
   - 『〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus sphere in
     3D』與『〜Sphere's rings live tour 2010〜 FINAL　LIVE
     DVD』的2種方式發行，前者live的3D影像收錄在特典上。
@@ -14,28 +14,28 @@
 
 ### 〜Sphere's rings live tour 2010〜 FINAL　LIVE BD plus sphere in 3D
 
-|    | 3D特別編集                                                               | 2D                                                                                             |
-| -- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-|    |                                                                      |                                                                                                |
-| 01 | **[Future Stream](../Page/Future_Stream.md "wikilink")**             | **Future Stream**                                                                              |
-| 02 | **[風をあつめて](../Page/風をあつめて/Brave_my_heart.md "wikilink")**            | **[ぼくを探して](../Page/ぼくを探して.md "wikilink")**（[豊崎愛生](../Page/豊崎愛生.md "wikilink")）                 |
-| 03 | **[PRINCESS CODE](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**       | **[渚のSHOOTING STAR](../Page/渚のSHOOTING_STAR.md "wikilink")**（[戸松遥](../Page/戸松遥.md "wikilink")） |
-| 04 | **[Dangerous girls](../Page/Super_Noisy_Nova.md "wikilink")**        | **[ライラック](../Page/Shiny+.md "wikilink")**（[寿美菜子](../Page/寿美菜子.md "wikilink")）                  |
-| 05 | **[Super Noisy Nova](../Page/Super_Noisy_Nova.md "wikilink")**       | **[君がいる場所](../Page/君がいる場所.md "wikilink")**（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）                 |
-| 06 | **[サヨナラSEE YOU](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**         | **手のひらに夢**                                                                                     |
-| 07 | '''\[\[Now_loading...SKY                                            | |Now loading...SKY                                                                             |
-| 08 | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")** | **[らくがきDictionary](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                |
-| 09 |                                                                      | **[風をあつめて](../Page/風をあつめて/Brave_my_heart.md "wikilink")**                                      |
-| 10 |                                                                      | **[君の空が晴れるまで](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                     |
-| 11 |                                                                      | **PRINCESS CODE**                                                                              |
-| 12 |                                                                      | **Dangerous girls**                                                                            |
-| 13 |                                                                      | **[本当だから困るんだ](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                     |
-| 14 |                                                                      | **Super Noisy Nova**                                                                           |
-| 15 |                                                                      | **サヨナラSEE YOU**                                                                                |
-| 16 |                                                                      | '''Now loading...SKY                                                                           |
-| 17 |                                                                      | **A.T.M.O.S.P.H.E.R.E**                                                                        |
-| 18 | **Future Stream 〜Double Encore〜**                                    |                                                                                                |
-|    |                                                                      |                                                                                                |
+|    | 3D特別編集                                                                       | 2D                                                                                                                                   |
+| -- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+|    |                                                                              |                                                                                                                                      |
+| 01 | **[Future Stream](../Page/Future_Stream.md "wikilink")**                     | **Future Stream**                                                                                                                    |
+| 02 | **[風をあつめて](https://zh.wikipedia.org/wiki/風をあつめて/Brave_my_heart "wikilink")** | **[ぼくを探して](https://zh.wikipedia.org/wiki/ぼくを探して "wikilink")**（[豊崎愛生](https://zh.wikipedia.org/wiki/豊崎愛生 "wikilink")）                 |
+| 03 | **[PRINCESS CODE](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**               | **[渚のSHOOTING STAR](https://zh.wikipedia.org/wiki/渚のSHOOTING_STAR "wikilink")**（[戸松遥](https://zh.wikipedia.org/wiki/戸松遥 "wikilink")） |
+| 04 | **[Dangerous girls](../Page/Super_Noisy_Nova.md "wikilink")**                | **[ライラック](https://zh.wikipedia.org/wiki/Shiny+ "wikilink")**（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）                  |
+| 05 | **[Super Noisy Nova](../Page/Super_Noisy_Nova.md "wikilink")**               | **[君がいる場所](https://zh.wikipedia.org/wiki/君がいる場所 "wikilink")**（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）                                    |
+| 06 | **[サヨナラSEE YOU](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                 | **手のひらに夢**                                                                                                                           |
+| 07 | '''\[\[Now_loading...SKY                                                    | |Now loading...SKY                                                                                                                   |
+| 08 | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**         | **[らくがきDictionary](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                      |
+| 09 |                                                                              | **[風をあつめて](https://zh.wikipedia.org/wiki/風をあつめて/Brave_my_heart "wikilink")**                                                         |
+| 10 |                                                                              | **[君の空が晴れるまで](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                           |
+| 11 |                                                                              | **PRINCESS CODE**                                                                                                                    |
+| 12 |                                                                              | **Dangerous girls**                                                                                                                  |
+| 13 |                                                                              | **[本当だから困るんだ](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**                                                                           |
+| 14 |                                                                              | **Super Noisy Nova**                                                                                                                 |
+| 15 |                                                                              | **サヨナラSEE YOU**                                                                                                                      |
+| 16 |                                                                              | '''Now loading...SKY                                                                                                                 |
+| 17 |                                                                              | **A.T.M.O.S.P.H.E.R.E**                                                                                                              |
+| 18 | **Future Stream 〜Double Encore〜**                                            |                                                                                                                                      |
+|    |                                                                              |                                                                                                                                      |
 
 ### 〜Sphere's rings live tour 2010〜 FINAL　LIVE DVD
 
@@ -76,16 +76,16 @@
 
   - 開催日時・会場
 
-| 公演數 | 開催日   | 会場                                             |
-| --- | ----- | ---------------------------------------------- |
-| 01  | 4月18日 | [東京國際論壇A](../Page/東京國際論壇.md "wikilink")        |
-| 02  | 4月25日 | [徳島市立文化中心](../Page/徳島市立文化中心.md "wikilink")     |
-| 03  | 5月16日 | [福岡国際会議場大廳](../Page/福岡国際会議場.md "wikilink")     |
-| 04  | 5月23日 | [愛知縣芸術劇場大廳](../Page/愛知縣芸術劇場.md "wikilink")     |
-| 05  | 5月23日 | [Zepp Osaka](../Page/Zepp.md "wikilink")       |
-| 06  | 5月23日 | [札幌工場大廳](../Page/札幌工場.md "wikilink")           |
-| 07  | 7月11日 | [大阪城野外音樂堂](../Page/大阪城音樂堂.md "wikilink")（追加公演） |
-| 08  | 7月25日 | [NHK大廳](../Page/NHK大廳.md "wikilink")（追加公演）     |
+| 公演數 | 開催日   | 会場                                                                |
+| --- | ----- | ----------------------------------------------------------------- |
+| 01  | 4月18日 | [東京國際論壇A](../Page/東京國際論壇.md "wikilink")                           |
+| 02  | 4月25日 | [徳島市立文化中心](https://zh.wikipedia.org/wiki/徳島市立文化中心 "wikilink")     |
+| 03  | 5月16日 | [福岡国際会議場大廳](https://zh.wikipedia.org/wiki/福岡国際会議場 "wikilink")     |
+| 04  | 5月23日 | [愛知縣芸術劇場大廳](https://zh.wikipedia.org/wiki/愛知縣芸術劇場 "wikilink")     |
+| 05  | 5月23日 | [Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp "wikilink")       |
+| 06  | 5月23日 | [札幌工場大廳](https://zh.wikipedia.org/wiki/札幌工場 "wikilink")           |
+| 07  | 7月11日 | [大阪城野外音樂堂](https://zh.wikipedia.org/wiki/大阪城音樂堂 "wikilink")（追加公演） |
+| 08  | 7月25日 | [NHK大廳](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")（追加公演）     |
 
 ### Sphere in 3D 屏幕 〜Sphere's rings live tour 2010〜 FINAL
 
@@ -102,16 +102,16 @@
 
   - 開催日時・会場
 
-| 公演數 | 開催日                                          | 会場                                        |
-| --- | -------------------------------------------- | ----------------------------------------- |
-| 01  | 7月25日                                        | [新宿巴爾特9](../Page/新宿三丁目東方大樓.md "wikilink") |
-| 02  | 横浜bruk13                                     |                                           |
-| 03  | 梅田bruk7                                      |                                           |
-| 04  | [TOHO電影院名古屋市](../Page/TOHO電影院.md "wikilink") |                                           |
-| 05  | 福岡中洲大洋映画劇場                                   |                                           |
-| 06  | T・ジョイ新潟万代                                    |                                           |
-| 07  | 廣島バルト11                                      |                                           |
-| 08  | daynossinemaz札幌劇場                            |                                           |
+| 公演數 | 開催日                                                             | 会場                                                           |
+| --- | --------------------------------------------------------------- | ------------------------------------------------------------ |
+| 01  | 7月25日                                                           | [新宿巴爾特9](https://zh.wikipedia.org/wiki/新宿三丁目東方大樓 "wikilink") |
+| 02  | 横浜bruk13                                                        |                                                              |
+| 03  | 梅田bruk7                                                         |                                                              |
+| 04  | [TOHO電影院名古屋市](https://zh.wikipedia.org/wiki/TOHO電影院 "wikilink") |                                                              |
+| 05  | 福岡中洲大洋映画劇場                                                      |                                                              |
+| 06  | T・ジョイ新潟万代                                                       |                                                              |
+| 07  | 廣島バルト11                                                         |                                                              |
+| 08  | daynossinemaz札幌劇場                                               |                                                              |
 
 ## 外部連結
 

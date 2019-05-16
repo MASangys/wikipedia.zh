@@ -1,20 +1,20 @@
-《**Startline**》（）是[寿美菜子的第](../Page/寿美菜子.md "wikilink")2張[單曲](../Page/單曲.md "wikilink")，於2010年11月24日由[Music
+《**Startline**》（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年11月24日由[Music
 Ray'n發行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
-  - [声優組合](../Page/声優組合.md "wikilink")『[sphere](../Page/sphere_\(聲優團體\).md "wikilink")』的對獨唱成員連續發行第4彈[單曲](../Page/單曲.md "wikilink")。
-  - 分為通常盤和初回盤2種類發售，後者「Startline」的[PV收錄在](../Page/PV.md "wikilink")[DVD內](../Page/DVD.md "wikilink")。
-  - 表題曲「Startline」是[電影](../Page/電影.md "wikilink")『[コイセント](../Page/コイセント.md "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
+  - [声優組合](https://zh.wikipedia.org/wiki/声優組合 "wikilink")『[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")』的對獨唱成員連續發行第4彈[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+  - 分為通常盤和初回盤2種類發售，後者「Startline」的[PV收錄在](https://zh.wikipedia.org/wiki/PV "wikilink")[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+  - 表題曲「Startline」是[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")『[コイセント](https://zh.wikipedia.org/wiki/コイセント "wikilink")』的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲
 
 1.  **Startline** \[4:11\]
       -
-        作詞：[田中琴乃](../Page/田中琴乃.md "wikilink")、作曲・編曲：[渡邊拓也](../Page/渡邊拓也.md "wikilink")
+        作詞：[田中琴乃](https://zh.wikipedia.org/wiki/田中琴乃 "wikilink")、作曲・編曲：[渡邊拓也](https://zh.wikipedia.org/wiki/渡邊拓也 "wikilink")
 2.  **metamorphose** \[4:19\]
       -
-        作詞：[Satomi](../Page/Satomi.md "wikilink")、作曲・編曲：増田武史
+        作詞：[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")、作曲・編曲：増田武史
 3.  Startline （Instrumental）
 
 <!-- end list -->

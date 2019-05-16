@@ -1,4 +1,4 @@
-《**她**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")7張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2006年8月23日發行。
+《**她**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")7張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2006年8月23日發行。
 
 ## 簡介
 

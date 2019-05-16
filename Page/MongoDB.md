@@ -97,8 +97,8 @@ MongoDB的開發人員可以保證一個操作已被複製到至少\(N\)個伺�
   - [Wordnik](https://zh.wikipedia.org/wiki/Wordnik "wikilink")\[30\]
   - [diaspora](https://zh.wikipedia.org/wiki/Diaspora_\(software\) "wikilink")\[31\]
   - [Shutterfly](https://zh.wikipedia.org/wiki/Shutterfly "wikilink")\[32\]
-  - [foursquare](../Page/foursquare.md "wikilink")\[33\]
-  - [bit.ly](../Page/bit.ly.md "wikilink")\[34\]
+  - [foursquare](https://zh.wikipedia.org/wiki/foursquare "wikilink")\[33\]
+  - [bit.ly](https://zh.wikipedia.org/wiki/bit.ly "wikilink")\[34\]
   - [The New York
     Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")\[35\]
   - [SourceForge](../Page/SourceForge.md "wikilink")<ref name="sourceforge">

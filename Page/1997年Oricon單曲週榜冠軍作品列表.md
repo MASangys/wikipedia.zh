@@ -1,4 +1,4 @@
-**1997年Oricon單曲週榜冠軍作品列表**列出1997年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**1997年Oricon單曲週榜冠軍作品列表**列出1997年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有37首冠軍單曲誕生，其中[GLAY的](../Page/GLAY.md "wikilink")《[HOWEVER](../Page/HOWEVER.md "wikilink")》取得冠軍的週數最多（5週）。
 
@@ -17,31 +17,31 @@
 <tbody>
 <tr class="odd">
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/YOU_ARE_THE_ONE.md" title="wikilink">YOU ARE THE ONE</a></p></td>
-<td><p><a href="../Page/小室家族.md" title="wikilink">TK PRESENTS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YOU_ARE_THE_ONE" title="wikilink">YOU ARE THE ONE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小室家族" title="wikilink">TK PRESENTS</a></p></td>
 <td><p>31.0</p></td>
 </tr>
 <tr class="even">
 <td><p>1月20日</p></td>
-<td><p><a href="../Page/Don&#39;t_you_see!.md" title="wikilink">Don't you see!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Don&#39;t_you_see!" title="wikilink">Don't you see!</a></p></td>
 <td><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></td>
 <td><p>23.1</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月27日</p></td>
-<td><p><a href="../Page/FACE_(globe單曲).md" title="wikilink">FACE</a></p></td>
-<td><p><a href="../Page/globe.md" title="wikilink">globe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FACE_(globe單曲)" title="wikilink">FACE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
 <td><p>36.0</p></td>
 </tr>
 <tr class="even">
 <td><p>2月3日</p></td>
-<td><p><a href="../Page/就是愛_(V6歌曲).md" title="wikilink">就是愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/就是愛_(V6歌曲)" title="wikilink">就是愛</a></p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a></p></td>
 <td><p>34.0</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月10日</p></td>
-<td><p><a href="../Page/Scarlet_(單曲).md" title="wikilink">Scarlet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scarlet_(單曲)" title="wikilink">Scarlet</a></p></td>
 <td><p><a href="../Page/SPITZ.md" title="wikilink">SPITZ</a></p></td>
 <td><p>23.5</p></td>
 </tr>
@@ -77,8 +77,8 @@
 </tr>
 <tr class="odd">
 <td><p>3月24日</p></td>
-<td><p><a href="../Page/飚車女孩.md" title="wikilink">飚車女孩</a></p></td>
-<td><p><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飚車女孩" title="wikilink">飚車女孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PUFFY" title="wikilink">PUFFY</a></p></td>
 <td><p>20.3</p></td>
 </tr>
 <tr class="even">
@@ -95,25 +95,25 @@
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="../Page/戰鬥力百分百.md" title="wikilink">戰鬥力百分百</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰鬥力百分百" title="wikilink">戰鬥力百分百</a></p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a></p></td>
 <td><p>22.7</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月21日</p></td>
-<td><p><a href="../Page/Give_me_a_shake.md" title="wikilink">Give me a shake</a></p></td>
-<td><p><a href="../Page/MAX_(日本音樂團體).md" title="wikilink">MAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Give_me_a_shake" title="wikilink">Give me a shake</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAX_(日本音樂團體)" title="wikilink">MAX</a></p></td>
 <td><p>17.2</p></td>
 </tr>
 <tr class="even">
 <td><p>4月28日</p></td>
-<td><p><a href="../Page/海邊種種.md" title="wikilink">海邊種種</a></p></td>
-<td><p><a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海邊種種" title="wikilink">海邊種種</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PUFFY" title="wikilink">PUFFY</a></p></td>
 <td><p>20.7</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
-<td><p><a href="../Page/Hate_tell_a_lie.md" title="wikilink">Hate tell a lie</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hate_tell_a_lie" title="wikilink">Hate tell a lie</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 <td><p>32.1</p></td>
 </tr>
@@ -137,8 +137,8 @@
 </tr>
 <tr class="odd">
 <td><p>6月2日</p></td>
-<td><p><a href="../Page/How_to_be_a_girl.md" title="wikilink">How to be a girl</a></p></td>
-<td><p><a href="../Page/安室奈美恵.md" title="wikilink">安室奈美恵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/How_to_be_a_girl" title="wikilink">How to be a girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安室奈美恵" title="wikilink">安室奈美恵</a></p></td>
 <td><p>32.8</p></td>
 </tr>
 <tr class="even">
@@ -149,31 +149,31 @@
 </tr>
 <tr class="odd">
 <td><p>6月16日</p></td>
-<td><p><a href="../Page/For_the_moment....md" title="wikilink">For the moment...</a></p></td>
-<td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/For_the_moment..." title="wikilink">For the moment...</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Every_Little_Thing" title="wikilink">Every Little Thing</a></p></td>
 <td><p>11.0</p></td>
 </tr>
 <tr class="even">
 <td><p>6月23日</p></td>
-<td><p><a href="../Page/ESCAPE.md" title="wikilink">ESCAPE</a></p></td>
-<td><p><a href="../Page/MOON_CHILD.md" title="wikilink">MOON CHILD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ESCAPE" title="wikilink">ESCAPE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MOON_CHILD" title="wikilink">MOON CHILD</a></p></td>
 <td><p>7.5</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月30日</p></td>
-<td><p><a href="../Page/For_the_moment....md" title="wikilink">For the moment...</a></p></td>
-<td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/For_the_moment..." title="wikilink">For the moment...</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Every_Little_Thing" title="wikilink">Every Little Thing</a></p></td>
 <td><p>11.0</p></td>
 </tr>
 <tr class="even">
 <td><p>7月7日</p></td>
-<td><p><a href="../Page/好喜歡！.md" title="wikilink">好喜歡！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/好喜歡！" title="wikilink">好喜歡！</a></p></td>
 <td><p><a href="../Page/廣末涼子.md" title="wikilink">廣末涼子</a></p></td>
 <td><p>15.0</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月14日</p></td>
-<td><p><a href="../Page/LOVE_IS_ALL_MUSIC.md" title="wikilink">LOVE IS ALL MUSIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_IS_ALL_MUSIC" title="wikilink">LOVE IS ALL MUSIC</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 <td><p>23.4</p></td>
 </tr>
@@ -186,7 +186,7 @@
 <tr class="odd">
 <td><p>7月28日</p></td>
 <td><p><a href="../Page/玻璃少年.md" title="wikilink">玻璃少年</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>31.5</p></td>
 </tr>
 <tr class="even">
@@ -215,7 +215,7 @@
 </tr>
 <tr class="even">
 <td><p>9月1日</p></td>
-<td><p><a href="../Page/永遠_(ZARD單曲).md" title="wikilink">永遠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永遠_(ZARD單曲)" title="wikilink">永遠</a></p></td>
 <td><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></td>
 <td><p>19.7</p></td>
 </tr>
@@ -239,13 +239,13 @@
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p><a href="../Page/快樂_快樂_溫柔地.md" title="wikilink">快樂 快樂 溫柔地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂_快樂_溫柔地" title="wikilink">快樂 快樂 溫柔地</a></p></td>
 <td><p><a href="../Page/華原朋美.md" title="wikilink">華原朋美</a></p></td>
 <td><p>18.1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月6日</p></td>
-<td><p><a href="../Page/Candle_in_the_Wind_1997.md" title="wikilink">Candle in the Wind 1997</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Candle_in_the_Wind_1997" title="wikilink">Candle in the Wind 1997</a></p></td>
 <td><p><a href="../Page/艾爾頓·約翰.md" title="wikilink">艾爾頓·約翰</a></p></td>
 <td><p>18.4</p></td>
 </tr>
@@ -281,14 +281,14 @@
 </tr>
 <tr class="odd">
 <td><p>11月17日</p></td>
-<td><p><a href="../Page/GENERATION_GAP.md" title="wikilink">GENERATION GAP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GENERATION_GAP" title="wikilink">GENERATION GAP</a></p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a>／<a href="../Page/V6_(偶像團體).md" title="wikilink">Coming Century</a></p></td>
 <td><p>17.6</p></td>
 </tr>
 <tr class="even">
 <td><p>11月24日</p></td>
 <td><p><a href="../Page/被愛不如去愛.md" title="wikilink">被愛不如去愛</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>50.4</p></td>
 </tr>
 <tr class="odd">
@@ -305,14 +305,14 @@
 </tr>
 <tr class="odd">
 <td><p>12月15日</p></td>
-<td><p><a href="../Page/White_Silent_Night.md" title="wikilink">White Silent Night</a></p></td>
-<td><p><a href="../Page/SHAZNA.md" title="wikilink">SHAZNA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/White_Silent_Night" title="wikilink">White Silent Night</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHAZNA" title="wikilink">SHAZNA</a></p></td>
 <td><p>28.7</p></td>
 </tr>
 <tr class="even">
 <td><p>12月22日</p></td>
 <td><p><a href="../Page/被愛不如去愛.md" title="wikilink">被愛不如去愛</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>18.4</p></td>
 </tr>
 <tr class="odd">

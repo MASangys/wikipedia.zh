@@ -3,7 +3,7 @@ only和CD+DVD限量版（收錄四支MV和幕後花絮）。\[1\]而伊藤由奈
 
 ## 概述
 
-這張專輯是伊藤由奈的第三張專輯，專輯亦收錄了三支單曲作銷售，同時亦收錄由奈與日本組合[Spontania作Featuring的單曲](../Page/Spontania.md "wikilink")「」。香港版同時收錄伊藤由奈成名作「Endless
+這張專輯是伊藤由奈的第三張專輯，專輯亦收錄了三支單曲作銷售，同時亦收錄由奈與日本組合[Spontania作Featuring的單曲](https://zh.wikipedia.org/wiki/Spontania "wikilink")「」。香港版同時收錄伊藤由奈成名作「Endless
 Story」作為Bonus Track。
 
 ## 銷量榜

@@ -17,7 +17,7 @@ Tales开发，并由[LucasArts发行在全平台上的](https://zh.wikipedia.org
 
 ## 評價
 
-遊戲的評論褒貶不一，[Gamespot給](../Page/Gamespot.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[PlayStation
+遊戲的評論褒貶不一，[Gamespot給](https://zh.wikipedia.org/wiki/Gamespot "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")，[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Wii版本](../Page/Wii.md "wikilink")6.5/10分\[4\]，給了3DS版本6/10分\[5\]。[IGN的給了Windows](../Page/IGN.md "wikilink")、Xbox
 360和PlayStation

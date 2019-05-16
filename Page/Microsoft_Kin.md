@@ -30,7 +30,7 @@ Microsoft Kin標榜為社交電話.
 這些功能跨越[功能型手機的門檻](../Page/功能型手機.md "wikilink")\[7\]，可以使用[Facebook](../Page/Facebook.md "wikilink"),
 [Twitter](../Page/Twitter.md "wikilink"), [Windows
 Live](../Page/Windows_Live.md "wikilink"), and
-[MySpace等社群](../Page/MySpace.md "wikilink").
+[MySpace等社群](https://zh.wikipedia.org/wiki/MySpace "wikilink").
 
 Kin 不支援上傳圖片或[Twitter視訊](../Page/Twitter.md "wikilink").
 

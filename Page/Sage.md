@@ -1,6 +1,6 @@
-**Sage**是一个覆盖许多[数学功能的应用软件](../Page/数学.md "wikilink")，包括[代数](../Page/代数.md "wikilink")、[组合数学](../Page/组合数学.md "wikilink")、[图论](../Page/图论.md "wikilink")、[计算数学](../Page/计算数学.md "wikilink")、[数论](../Page/数论.md "wikilink")、[微积分和](../Page/微积分学.md "wikilink")[统计](../Page/统计.md "wikilink")。
+**Sage**是一个覆盖许多[数学功能的应用软件](../Page/数学.md "wikilink")，包括[代数](../Page/代数.md "wikilink")、[组合数学](../Page/组合数学.md "wikilink")、[图论](../Page/图论.md "wikilink")、[计算数学](../Page/计算数学.md "wikilink")、[数论](../Page/数论.md "wikilink")、[微积分和](../Page/微积分学.md "wikilink")[统计](https://zh.wikipedia.org/wiki/统计 "wikilink")。
 
-SAGE的第一个版本在[GNU许可证下发布于](../Page/自由及开放源代码软件.md "wikilink")2005年2月24日，最初的目标是创造一个“、[Maple](../Page/Maple.md "wikilink")、[Mathematica和](../Page/Mathematica.md "wikilink")[MATLAB的开源替代品](../Page/MATLAB.md "wikilink")”。Sage的主导开发人员威廉·斯坦因是[华盛顿大学的](../Page/華盛頓大學_\(西雅圖\).md "wikilink")[数学家](../Page/数学家.md "wikilink")。
+SAGE的第一个版本在[GNU许可证下发布于](../Page/自由及开放源代码软件.md "wikilink")2005年2月24日，最初的目标是创造一个“、[Maple](../Page/Maple.md "wikilink")、[Mathematica和](https://zh.wikipedia.org/wiki/Mathematica "wikilink")[MATLAB的开源替代品](../Page/MATLAB.md "wikilink")”。Sage的主导开发人员威廉·斯坦因是[华盛顿大学的](https://zh.wikipedia.org/wiki/華盛頓大學_\(西雅圖\) "wikilink")[数学家](../Page/数学家.md "wikilink")。
 
 Sage通常被称为**sagemath**，因为*sage*在英语中是一个常见词。
 
@@ -11,45 +11,45 @@ Sage通常被称为**sagemath**，因为*sage*在英语中是一个常见词。
 
 Sage的功能包括\[1\]
 
-  - 一个用于回顾及重新使用以前的输入和输出及加入图形和文本注释的记事本文档接口，可在通用的网页浏览器如[Firefox](../Page/Firefox.md "wikilink")、[Opera](../Page/Opera.md "wikilink")、[Konqueror和](../Page/Konqueror.md "wikilink")[Safari中使用](../Page/Safari.md "wikilink")。在安全和保密要求高的情况下可通过HTTPS与记事本连接，Sage可同时在本地和远程使用。
-  - 一个使用[IPython的基于文本的命令行界面](../Page/IPython.md "wikilink")
-  - [Python编程语言](../Page/Python.md "wikilink")，支持[函数化编程和](../Page/函數程式語言.md "wikilink")[面向对象的结构](../Page/面向对象程序设计.md "wikilink")。
-  - 支持多核处理器，[多处理器](../Page/多处理器.md "wikilink")，及在[并行计算](../Page/并行计算.md "wikilink")。
+  - 一个用于回顾及重新使用以前的输入和输出及加入图形和文本注释的记事本文档接口，可在通用的网页浏览器如[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Konqueror和](../Page/Konqueror.md "wikilink")[Safari中使用](../Page/Safari.md "wikilink")。在安全和保密要求高的情况下可通过HTTPS与记事本连接，Sage可同时在本地和远程使用。
+  - 一个使用[IPython的基于文本的命令行界面](https://zh.wikipedia.org/wiki/IPython "wikilink")
+  - [Python编程语言](../Page/Python.md "wikilink")，支持[函数化编程和](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")[面向对象的结构](../Page/面向对象程序设计.md "wikilink")。
+  - 支持多核处理器，[多处理器](https://zh.wikipedia.org/wiki/多处理器 "wikilink")，及在[并行计算](../Page/并行计算.md "wikilink")。
   - 使用[Maxima和](../Page/Maxima.md "wikilink")[SymPy进行微积分计算](../Page/SymPy.md "wikilink")。
-  - 使用[GSL](../Page/GSL.md "wikilink")，[SciPy和](../Page/SciPy.md "wikilink")[NumPy做线性代数数值计算](../Page/NumPy.md "wikilink")。
-  - [基础和](../Page/初等函数.md "wikilink")[特殊数学函数库](../Page/特殊函数.md "wikilink")
+  - 使用[GSL](https://zh.wikipedia.org/wiki/GSL "wikilink")，[SciPy和](../Page/SciPy.md "wikilink")[NumPy做线性代数数值计算](../Page/NumPy.md "wikilink")。
+  - [基础和](../Page/初等函数.md "wikilink")[特殊数学函数库](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")
   - 函数和数据的二维和三维图形显示
   - 矩阵和数据处理工具，支持稀疏数组
   - 使用[R和](../Page/R语言.md "wikilink")[SciPy的多元](../Page/SciPy.md "wikilink")[统计分析库](../Page/统计学.md "wikilink")
   - 一个在计算和应用上添加[用户界面的工具箱的](../Page/用户界面.md "wikilink")
-  - 使用[Pylab以及](../Page/Pylab.md "wikilink")[Python编程语言的](../Page/Python.md "wikilink")[图像处理工具](../Page/图像处理.md "wikilink")
+  - 使用[Pylab以及](https://zh.wikipedia.org/wiki/Pylab "wikilink")[Python编程语言的](../Page/Python.md "wikilink")[图像处理工具](../Page/图像处理.md "wikilink")
   - [图论可视化和分析工具](../Page/图论.md "wikilink")
   - 数论的函数库
   - 数据，图像，视频，声音，计算机辅助设计，地理信息系统，文档和生物医学格式的输入输出过滤器
   - 适当支持在函数中进行[复数](../Page/复数_\(数学\).md "wikilink")， 任意精度及符号计算
-  - 包括[公式编辑的文字处理技术](../Page/公式編輯器.md "wikilink")，并可在Sage内嵌入[LaTeX文档](../Page/LaTeX.md "wikilink")
-  - Twisted提供的连接到[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](../Page/.NET.md "wikilink")、[C++和](../Page/C++.md "wikilink")[FORTRAN语言的网络工具](../Page/FORTRAN.md "wikilink")，支持包括[HTTP](../Page/HTTP.md "wikilink")、[NNTP](../Page/NNTP.md "wikilink")、[IMAP](../Page/IMAP.md "wikilink")、[SSH](../Page/SSH.md "wikilink")、[IRC](../Page/IRC.md "wikilink")、[FTP等在内的大量协议](../Page/FTP.md "wikilink")
-  - 与[Mathematica](../Page/Mathematica.md "wikilink")、及[Maple等一些第三方软件的接口](../Page/Maple.md "wikilink")
+  - 包括[公式编辑的文字处理技术](../Page/公式編輯器.md "wikilink")，并可在Sage内嵌入[LaTeX文档](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
+  - Twisted提供的连接到[SQL](../Page/SQL.md "wikilink")、[Java](../Page/Java.md "wikilink")、[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")、[C++和](../Page/C++.md "wikilink")[FORTRAN语言的网络工具](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")，支持包括[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[NNTP](https://zh.wikipedia.org/wiki/NNTP "wikilink")、[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")、[IRC](../Page/IRC.md "wikilink")、[FTP等在内的大量协议](https://zh.wikipedia.org/wiki/FTP "wikilink")
+  - 与[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、及[Maple等一些第三方软件的接口](../Page/Maple.md "wikilink")
     ，允许用户组合软件及比较输出和性能。因此，它也是一个类似于[GNU
     TeXmacs的其他数学工具的](../Page/GNU_TeXmacs.md "wikilink")“前端”
   - 使用MoinMoin作为知识管理的[维基系统](../Page/Wiki.md "wikilink")
-  - 使用[Sphinx的文档管理](../Page/Sphinx.md "wikilink")
+  - 使用[Sphinx的文档管理](https://zh.wikipedia.org/wiki/Sphinx "wikilink")
   - 一个自动化测试套件，允许计算机终端用户进行测试
 
-虽然不是Sage直接提供的功能，但Sage可以从Mathematica内部调用。\[2\][Mathematica的一个记事本可用于此](../Page/Mathematica.md "wikilink")。\[3\]
+虽然不是Sage直接提供的功能，但Sage可以从Mathematica内部调用。\[2\][Mathematica的一个记事本可用于此](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。\[3\]
 
 ## 设计理念
 
-威廉.斯坦在设计Sage时意识到了有不同的语言（包括有[C](../Page/C语言.md "wikilink")
+威廉.斯坦在设计Sage时意识到了有不同的语言（包括有[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
 、[C++](../Page/C++.md "wikilink")、[Fortran和](../Page/Fortran.md "wikilink")[Python](../Page/Python.md "wikilink")）编写的大量现成的大型开源数学软件可用。
 
-因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](../Page/Cython.md "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
+因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](https://zh.wikipedia.org/wiki/Cython "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
 
 Sage由学生和专业人士开发。Sage的开发由志愿工作和赠款支持。 \[4\]
 
 ## 性能
 
-二进制包和源代码都可以从Sage页面下载。如果从源代码构建，许多包含的库如[Atlas](../Page/Atlas.md "wikilink")、[FLINT和](../Page/FLINT.md "wikilink")[NTL和都会针对该计算机考虑到处理器数量](../Page/NTL.md "wikilink")，缓存大小的，是否有硬件支持[SSE指令等进行调整和优化](../Page/SSE.md "wikilink")。
+二进制包和源代码都可以从Sage页面下载。如果从源代码构建，许多包含的库如[Atlas](https://zh.wikipedia.org/wiki/Atlas "wikilink")、[FLINT和](https://zh.wikipedia.org/wiki/FLINT "wikilink")[NTL和都会针对该计算机考虑到处理器数量](https://zh.wikipedia.org/wiki/NTL "wikilink")，缓存大小的，是否有硬件支持[SSE指令等进行调整和优化](../Page/SSE.md "wikilink")。
 
 ## 许可和可用性
 
@@ -59,9 +59,9 @@ Sage在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink"
   - 源代码可以直接从网上下载的 [下载页面](http://www.sagemath.org/download.html)
     。开发版本的Sage也可用，不建议最终用户使用。
   - 可以下载用于[Linux](../Page/Linux.md "wikilink")、[OS
-    X](../Page/OS_X.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")（x86和SPARC）及[windows的可执行文件](../Page/windows.md "wikilink")。
+    X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Solaris](../Page/Solaris.md "wikilink")（x86和SPARC）及[windows的可执行文件](https://zh.wikipedia.org/wiki/windows "wikilink")。
   - 一个包含可启动Linux操作系统的[live
-    CD](../Page/live_CD.md "wikilink")。允许不安装Linux直接使用Sage。
+    CD](https://zh.wikipedia.org/wiki/live_CD "wikilink")。允许不安装Linux直接使用Sage。
   - 用户可以使用Sage的在线版本，地址是
     [sagenb.org](https://web.archive.org/web/20070430192047/http://www.sagenb.org/)
     或
@@ -71,31 +71,31 @@ Sage在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink"
 
 如上所述，SAGE的理念是利用现有的任何开放源码库。因此，借用了许多项目。
 
-|        |                                                                                                                                                                                                                                                               |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 代数     | [GAP](../Page/GAP.md "wikilink") ，[Maxima](../Page/Maxima.md "wikilink") ，[Singular](../Page/Singular.md "wikilink")                                                                                                                                          |
-| 代数几何   | [Singular](../Page/Singular.md "wikilink")                                                                                                                                                                                                                    |
-| 任意精度计算 | [MPIR](../Page/MPIR.md "wikilink")，[MPFR](../Page/MPFR.md "wikilink")，[MPFI](../Page/MPFI.md "wikilink")，[NTL](../Page/NTL.md "wikilink")                                                                                                                     |
-| 算术几何   | [PARI/GP](../Page/PARI/GP.md "wikilink"), [NTL](../Page/NTL.md "wikilink")，[mwrank](../Page/mwrank.md "wikilink")，[ecm](../Page/ecm.md "wikilink")                                                                                                            |
-| 微积分    | [Maxima](../Page/Maxima.md "wikilink")，[SymPy](../Page/SymPy.md "wikilink")，[GiNaC](../Page/GiNaC.md "wikilink")                                                                                                                                              |
-| 组合数学   | [Symmetrica](../Page/Symmetrica.md "wikilink")，Sage-Combinat                                                                                                                                                                                                  |
-| 线性代数   | [ATLAS](../Page/ATLAS.md "wikilink")，[BLAS](../Page/BLAS.md "wikilink")， [LAPACK](../Page/LAPACK.md "wikilink")，[NumPy](../Page/NumPy.md "wikilink")，[LinBox](../Page/LinBox.md "wikilink")，[IML](../Page/IML.md "wikilink")，[GSL](../Page/GSL.md "wikilink") |
-| 图论     | [NetworkX](../Page/NetworkX.md "wikilink")                                                                                                                                                                                                                    |
-| 群论     | [GAP](../Page/GAP.md "wikilink")                                                                                                                                                                                                                              |
-| 数值计算   | [GSL](../Page/GSL.md "wikilink")，[SciPy](../Page/SciPy.md "wikilink")，[NumPy](../Page/NumPy.md "wikilink")，[ATLAS](../Page/ATLAS.md "wikilink")                                                                                                               |
-| 数论     | [PARI/GP](../Page/PARI/GP.md "wikilink")，[FLINT](../Page/FLINT.md "wikilink")，[NTL](../Page/NTL.md "wikilink")                                                                                                                                                |
-| 统计计算   | [R](../Page/R语言.md "wikilink"), [SciPy](../Page/SciPy.md "wikilink")                                                                                                                                                                                          |
+|        |                                                                                                                                                                                                                                                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 代数     | [GAP](https://zh.wikipedia.org/wiki/GAP "wikilink") ，[Maxima](../Page/Maxima.md "wikilink") ，[Singular](https://zh.wikipedia.org/wiki/Singular "wikilink")                                                                                                                                                                                |
+| 代数几何   | [Singular](https://zh.wikipedia.org/wiki/Singular "wikilink")                                                                                                                                                                                                                                                                             |
+| 任意精度计算 | [MPIR](https://zh.wikipedia.org/wiki/MPIR "wikilink")，[MPFR](https://zh.wikipedia.org/wiki/MPFR "wikilink")，[MPFI](https://zh.wikipedia.org/wiki/MPFI "wikilink")，[NTL](https://zh.wikipedia.org/wiki/NTL "wikilink")                                                                                                                     |
+| 算术几何   | [PARI/GP](https://zh.wikipedia.org/wiki/PARI/GP "wikilink"), [NTL](https://zh.wikipedia.org/wiki/NTL "wikilink")，[mwrank](https://zh.wikipedia.org/wiki/mwrank "wikilink")，[ecm](https://zh.wikipedia.org/wiki/ecm "wikilink")                                                                                                            |
+| 微积分    | [Maxima](../Page/Maxima.md "wikilink")，[SymPy](../Page/SymPy.md "wikilink")，[GiNaC](../Page/GiNaC.md "wikilink")                                                                                                                                                                                                                          |
+| 组合数学   | [Symmetrica](https://zh.wikipedia.org/wiki/Symmetrica "wikilink")，Sage-Combinat                                                                                                                                                                                                                                                           |
+| 线性代数   | [ATLAS](https://zh.wikipedia.org/wiki/ATLAS "wikilink")，[BLAS](../Page/BLAS.md "wikilink")， [LAPACK](../Page/LAPACK.md "wikilink")，[NumPy](../Page/NumPy.md "wikilink")，[LinBox](https://zh.wikipedia.org/wiki/LinBox "wikilink")，[IML](https://zh.wikipedia.org/wiki/IML "wikilink")，[GSL](https://zh.wikipedia.org/wiki/GSL "wikilink") |
+| 图论     | [NetworkX](https://zh.wikipedia.org/wiki/NetworkX "wikilink")                                                                                                                                                                                                                                                                             |
+| 群论     | [GAP](https://zh.wikipedia.org/wiki/GAP "wikilink")                                                                                                                                                                                                                                                                                       |
+| 数值计算   | [GSL](https://zh.wikipedia.org/wiki/GSL "wikilink")，[SciPy](../Page/SciPy.md "wikilink")，[NumPy](../Page/NumPy.md "wikilink")，[ATLAS](https://zh.wikipedia.org/wiki/ATLAS "wikilink")                                                                                                                                                     |
+| 数论     | [PARI/GP](https://zh.wikipedia.org/wiki/PARI/GP "wikilink")，[FLINT](https://zh.wikipedia.org/wiki/FLINT "wikilink")，[NTL](https://zh.wikipedia.org/wiki/NTL "wikilink")                                                                                                                                                                   |
+| 统计计算   | [R](../Page/R语言.md "wikilink"), [SciPy](../Page/SciPy.md "wikilink")                                                                                                                                                                                                                                                                      |
 
 Sage中包含的数学软件包
 
-|         |                                                                                                                                                                |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 命令行     | [IPython](../Page/IPython.md "wikilink")                                                                                                                       |
-| 数据库     | [ZODB](../Page/ZODB.md "wikilink")， [Python Pickles](../Page/Python_Pickles.md "wikilink")，[SQLite](../Page/SQLite.md "wikilink")                              |
-| 图形界面    | Sage Notebook， [jsmath](../Page/jsmath.md "wikilink")                                                                                                          |
-| 图像      | [Matplotlib](../Page/Matplotlib.md "wikilink")，[Tachyon3d](../Page/Tachyon3d.md "wikilink")，[GD](../Page/GD.md "wikilink"), [Jmol](../Page/Jmol.md "wikilink") |
-| 交互式编程语言 | [Python](../Page/Python.md "wikilink")                                                                                                                         |
-| 网络      | [Twisted](../Page/Twisted.md "wikilink")                                                                                                                       |
+|         |                                                                                                                                                                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 命令行     | [IPython](https://zh.wikipedia.org/wiki/IPython "wikilink")                                                                                                                                                                                |
+| 数据库     | [ZODB](https://zh.wikipedia.org/wiki/ZODB "wikilink")， [Python Pickles](https://zh.wikipedia.org/wiki/Python_Pickles "wikilink")，[SQLite](../Page/SQLite.md "wikilink")                                                                    |
+| 图形界面    | Sage Notebook， [jsmath](https://zh.wikipedia.org/wiki/jsmath "wikilink")                                                                                                                                                                   |
+| 图像      | [Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，[Tachyon3d](https://zh.wikipedia.org/wiki/Tachyon3d "wikilink")，[GD](https://zh.wikipedia.org/wiki/GD "wikilink"), [Jmol](https://zh.wikipedia.org/wiki/Jmol "wikilink") |
+| 交互式编程语言 | [Python](../Page/Python.md "wikilink")                                                                                                                                                                                                     |
+| 网络      | [Twisted](https://zh.wikipedia.org/wiki/Twisted "wikilink")                                                                                                                                                                                |
 
 Sage中包含的其它包
 

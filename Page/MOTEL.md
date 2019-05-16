@@ -4,7 +4,7 @@
 
   - [Don't Leave Me發行歷經](../Page/Don't_Leave_Me.md "wikilink")9個月所發行的單曲
   - 初登場就獲得[Oricon第一名](../Page/Oricon.md "wikilink")
-  - 此張單曲收錄完，[B+U+M就解散了](../Page/B+U+M.md "wikilink")
+  - 此張單曲收錄完，[B+U+M就解散了](https://zh.wikipedia.org/wiki/B+U+M "wikilink")
   - 最終銷量約131.6萬張，為日本最暢銷單曲第117名。
 
 ## 製作人員

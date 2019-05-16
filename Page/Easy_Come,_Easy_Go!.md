@@ -26,7 +26,7 @@
 
   - RISKY（\#1、RISKY Style）
   - [B'z The Best
-    "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")（\#1）
+    "Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")（\#1）
   - B'z The Best "ULTRA Pleasure"（\#1）
 
 ## 參考資料

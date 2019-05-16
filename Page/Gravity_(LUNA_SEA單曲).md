@@ -13,7 +13,7 @@ Heaven）的主題曲。
 2.  *inside you*
     為月之海錄製的歌曲中唯一由[真矢創作詞曲的作品](https://zh.wikipedia.org/wiki/真矢 "wikilink")，之後由所有成員共同譜寫而成。
 3.  *My Lover*
-    原曲為[Sugizo所作](../Page/Sugizo.md "wikilink")，是一首快速節拍的曲子；這首歌和gravity同時收錄在電影『另一個天堂』的配樂當中。
+    原曲為[Sugizo所作](https://zh.wikipedia.org/wiki/Sugizo "wikilink")，是一首快速節拍的曲子；這首歌和gravity同時收錄在電影『另一個天堂』的配樂當中。
 
 ## 其他
 

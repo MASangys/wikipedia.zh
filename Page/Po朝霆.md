@@ -23,7 +23,7 @@ Office始於創始人[謝霆鋒的一個念頭](../Page/謝霆鋒.md "wikilink")
   - 《[財神客棧](https://zh.wikipedia.org/wiki/財神客棧 "wikilink")》
   - 《[逆戰](https://zh.wikipedia.org/wiki/逆戰 "wikilink")》
   - 《[浮城大亨](https://zh.wikipedia.org/wiki/浮城大亨 "wikilink")》
-  - 《[一九四二](https://zh.wikipedia.org/wiki/一九四二 "wikilink")》
+  - 《[一九四二](../Page/一九四二.md "wikilink")》
   - 《[李小龍](https://zh.wikipedia.org/wiki/李小龍_\(2010年電影\) "wikilink")》
   - 《[桃姐](https://zh.wikipedia.org/wiki/桃姐 "wikilink")》
   - 《[救火英雄](https://zh.wikipedia.org/wiki/救火英雄 "wikilink")》

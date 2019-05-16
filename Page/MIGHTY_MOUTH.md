@@ -1,6 +1,6 @@
 **MIGHTY
-MOUTH**（），是[韓國一個二人音樂組合](../Page/韓國.md "wikilink")，2006年出道，成員有**生菜**及**SHORRY
-J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Page/饒舌.md "wikilink")[R\&B為主](../Page/R&B.md "wikilink")。
+MOUTH**（），是[韓國一個二人音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2006年出道，成員有**生菜**及**SHORRY
+J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Page/饒舌.md "wikilink")[R\&B為主](https://zh.wikipedia.org/wiki/R&B "wikilink")。
 
 ## 成員資料
 
@@ -28,7 +28,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>首張單曲《<strong>I Love You</strong>》</p>
 <ul>
 <li>發行日期：2008年3月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -37,7 +37,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第二張單曲《<strong>Family</strong>》</p>
 <ul>
 <li>發行日期：2008年11月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -46,7 +46,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第三張單曲《<strong>Smile</strong>》</p>
 <ul>
 <li>發行日期：2009年10月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -55,7 +55,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第四張單曲《<strong>愛會來嗎（사랑이 올까요）</strong>》</p>
 <ul>
 <li>發行日期：2010年3月10日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -64,7 +64,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第五張單曲《<strong>愛是甚麼（사랑이란）</strong>》</p>
 <ul>
 <li>發行日期：2010年10月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -87,7 +87,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>首張迷你專輯《<strong>戀愛特講（Love Class）</strong>》</p>
 <ul>
 <li>發行日期：2009年8月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -110,7 +110,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>首張正規專輯《<strong>Energy</strong>》</p>
 <ul>
 <li>發行日期：2008年6月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -119,7 +119,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第二張正規專輯《<strong>Mighty Fresh</strong>》</p>
 <ul>
 <li>發行日期：2011年1月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -128,7 +128,7 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 <td><p>第三張正規專輯《<strong>Natvigator</strong>》</p>
 <ul>
 <li>發行日期：2012年9月19日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -137,10 +137,10 @@ J**，歌曲風格以[嘻哈](../Page/嘻哈.md "wikilink")、[饒舌和](../Pag
 
 ### Featuring
 
-  - 《希望事項》‧[IU](../Page/IU.md "wikilink")
+  - 《希望事項》‧[IU](https://zh.wikipedia.org/wiki/IU "wikilink")
   - 《Family》‧[孫淡妃](../Page/孫淡妃.md "wikilink")
-  - 《幸福的人》‧[Enne](../Page/Enne.md "wikilink")
-  - 《幸褔病》‧[金鐘國](../Page/金鐘國.md "wikilink")
+  - 《幸福的人》‧[Enne](https://zh.wikipedia.org/wiki/Enne "wikilink")
+  - 《幸褔病》‧[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")
   - 《太陽升起那天》‧[申智](../Page/申智.md "wikilink")@[高耀太](../Page/高耀太.md "wikilink")
   - 《愛是甚麼》‧[金喜善](../Page/金喜善.md "wikilink")
   - 《Fiesta》‧[Soya](../Page/Soya.md "wikilink")

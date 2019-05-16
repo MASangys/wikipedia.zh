@@ -7,7 +7,7 @@
 
   - 1976年[魅夸克的存在證據](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。見[J/ψ介子](https://zh.wikipedia.org/wiki/J/ψ介子 "wikilink")\[3\]。
   - 1990年[質子及](../Page/質子.md "wikilink")[中子內部的](../Page/中子.md "wikilink")[夸克結構](../Page/夸克.md "wikilink")\[4\]。
-  - 1995年[τ子的發現](../Page/τ子.md "wikilink")\[5\]。
+  - 1995年[τ子的發現](https://zh.wikipedia.org/wiki/τ子 "wikilink")\[5\]。
 
 在1990年代的前半段，斯坦福線性對撞機運用大型探測器，投入[Z玻色子的研究](../Page/W及Z玻色子.md "wikilink")。
 

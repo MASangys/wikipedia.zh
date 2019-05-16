@@ -107,7 +107,7 @@ JAPAN點播獎的通算回數](../Page/ALL_JAPAN點播獎.md "wikilink")。
 11月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/世界紀念堂" title="wikilink">神戶世界紀念堂</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水森香織" title="wikilink">水森香織</a></p></td>
+<td><p><a href="../Page/水森香織.md" title="wikilink">水森香織</a></p></td>
 <td><p><a href="../Page/WaT.md" title="wikilink">WaT</a></p></td>
 <td><p>11.8%</p></td>
 <td></td>

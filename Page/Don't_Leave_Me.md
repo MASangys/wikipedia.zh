@@ -1,5 +1,5 @@
 《'''Don't Leave Me
-'''》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[B'z的第](../Page/B'z.md "wikilink")14張[單曲](../Page/單曲.md "wikilink")，1994年2月9日發行。
+'''》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z的第](../Page/B'z.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，1994年2月9日發行。
 
 ## 簡介
 
@@ -37,7 +37,7 @@ MATSUMOTO**」。
 
 ## 主題曲
 
-[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[新空港物語](../Page/新空港物語.md "wikilink")》主題曲
+[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")《[新空港物語](https://zh.wikipedia.org/wiki/新空港物語 "wikilink")》主題曲
 
 ## 收錄專輯
 

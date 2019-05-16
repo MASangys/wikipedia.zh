@@ -1,4 +1,4 @@
-**Cydia**是一个让用户在[越狱的](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")[iOS设备上查找和安装各类](../Page/iOS.md "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，包括软件、系统修改、主题和铃声等的软件管理器。Cydia是[高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")（APT）和[dpkg的](../Page/dpkg.md "wikilink")[图形界面前端](https://zh.wikipedia.org/wiki/图形界面 "wikilink")，也是一个[去中心化的](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[软件仓库](https://zh.wikipedia.org/wiki/软件仓库 "wikilink")。大多数Cydia中的软件包都是免费的，但也有很多收费程序通过类似[App
+**Cydia**是一个让用户在[越狱的](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")[iOS设备上查找和安装各类](https://zh.wikipedia.org/wiki/iOS "wikilink")[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，包括软件、系统修改、主题和铃声等的软件管理器。Cydia是[高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")（APT）和[dpkg的](https://zh.wikipedia.org/wiki/dpkg "wikilink")[图形界面前端](https://zh.wikipedia.org/wiki/图形界面 "wikilink")，也是一个[去中心化的](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[软件仓库](https://zh.wikipedia.org/wiki/软件仓库 "wikilink")。大多数Cydia中的软件包都是免费的，但也有很多收费程序通过类似[App
 Store的Cydia](../Page/App_Store_\(iOS\).md "wikilink") Store销售。
 
 Cydia上除了独立的应用程序之外，更多的包是iOS本身和应用程序的扩展、修改和主题。由于这些软件包运行在越狱的设备上，它们可以提供比普通运行在App
@@ -20,7 +20,7 @@ Store中购买和下载软件\[7\]。
 2009年9月，在提供软件之外，Cydia还提供了一个新功能，即保存iOS恢复时所需的[数字签名](https://zh.wikipedia.org/wiki/数字签名 "wikilink")，也被称做，被Apple用来验证iOS固件恢复的过程\[8\]。这使得用户可以在新bootrom的iPhone
 3Gs和之后的设备上把iOS固件恢复到早期版本，以一种类似[重放攻击的形式方便利用早期版本iOS的漏洞进行越狱](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")\[9\]。
 
-目前越狱一般是通过[Redsn0w](../Page/Redsn0w.md "wikilink")、[greenpois0n等程序在电脑上操作](https://zh.wikipedia.org/wiki/greenpois0n "wikilink")。但是[JailbreakMe使得在iOS](https://zh.wikipedia.org/wiki/JailbreakMe "wikilink")
+目前越狱一般是通过[Redsn0w](../Page/Redsn0w.md "wikilink")、[greenpois0n等程序在电脑上操作](https://zh.wikipedia.org/wiki/greenpois0n "wikilink")。但是[JailbreakMe使得在iOS](../Page/JailbreakMe.md "wikilink")
 4.3.3下的iDevice可以仅仅打开[Mobile Safari就完成越狱](../Page/Safari.md "wikilink")。
 
 ## 历史

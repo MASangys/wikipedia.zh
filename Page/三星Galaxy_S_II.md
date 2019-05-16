@@ -7,7 +7,8 @@ S基础上開發的升级版](https://zh.wikipedia.org/wiki/Galaxy_S "wikilink")
 
 三星Galaxy S II的全球發行的日期是2011年5月，大約120個國家或地區的150多個廠商。\[2\]
 
-而三星Galaxy S II的頭號對手是[iPhone 4](../Page/iPhone_4.md "wikilink")、[HTC
+而三星Galaxy S II的頭號對手是[iPhone
+4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")、[HTC
 Sensation](../Page/HTC_Sensation.md "wikilink")、[Sony Ericsson Xperia
 Arc](../Page/Sony_Ericsson_Xperia_Arc.md "wikilink")。
 
@@ -136,7 +137,7 @@ Virgin Mobile Canada</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sprint" title="wikilink">Sprint</a></p></td>
+<td><p><a href="../Page/Sprint.md" title="wikilink">Sprint</a></p></td>
 <td><p>2011年9月16日</p></td>
 <td><p>Samsung 'EPIC 4G Touch'[10]</p></td>
 </tr>

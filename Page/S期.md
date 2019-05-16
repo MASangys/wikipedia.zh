@@ -1,8 +1,8 @@
-**S期**是[细胞周期中进行](../Page/细胞周期.md "wikilink")[DNA复制的时期](../Page/DNA复制.md "wikilink")，发生于[G<sub>1</sub>期后](../Page/G1期.md "wikilink")，[G<sub>2</sub>期前](../Page/G2期.md "wikilink")。细致而准确的[DNA复制对于避免可能导致细胞死亡或疾病的遗传变异是必要的](../Page/DNA复制.md "wikilink")，因此[真核生物中调控DNA复制的过程高度保守](../Page/真核生物.md "wikilink")。这使得对模式生物[非洲爪蟾的胚胎和](../Page/非洲爪蟾.md "wikilink")[芽殖酵母S期的研究可以联系到更高等的生物中](../Page/芽殖酵母.md "wikilink")。
+**S期**是[细胞周期中进行](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")[DNA复制的时期](../Page/DNA复制.md "wikilink")，发生于[G<sub>1</sub>期后](../Page/G1期.md "wikilink")，[G<sub>2</sub>期前](../Page/G2期.md "wikilink")。细致而准确的[DNA复制对于避免可能导致细胞死亡或疾病的遗传变异是必要的](../Page/DNA复制.md "wikilink")，因此[真核生物中调控DNA复制的过程高度保守](../Page/真核生物.md "wikilink")。这使得对模式生物[非洲爪蟾的胚胎和](../Page/非洲爪蟾.md "wikilink")[芽殖酵母S期的研究可以联系到更高等的生物中](https://zh.wikipedia.org/wiki/芽殖酵母 "wikilink")。
 
 ## S期调节
 
-是调节[细胞周期的主要检查点之一](../Page/细胞周期.md "wikilink")，根据营养、能量和其它因素的影响，细胞必须决定或完成细胞周期或进入不分裂的[G<sub>0</sub>期](../Page/G0期.md "wikilink")\[1\]。该转换过程由[週期素和](../Page/週期素.md "wikilink")[周期蛋白依赖性激酶调控](../Page/周期蛋白依赖性激酶.md "wikilink")。G1/S周期蛋白会使-活化Cln
+是调节[细胞周期的主要检查点之一](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")，根据营养、能量和其它因素的影响，细胞必须决定或完成细胞周期或进入不分裂的[G<sub>0</sub>期](https://zh.wikipedia.org/wiki/G0期 "wikilink")\[1\]。该转换过程由[週期素和](../Page/週期素.md "wikilink")[周期蛋白依赖性激酶调控](../Page/周期蛋白依赖性激酶.md "wikilink")。G1/S周期蛋白会使-活化Cln
 1/2或酵母的Clb5/6以开始S期。该过程包含两个正反馈循环途径以使细胞快速单向进入S期。这种冗余途径并不常见，这会调整循环的输出并导致更快的基因水平进化\[2\]。
 
 ## DNA复制
@@ -17,7 +17,7 @@ DNA复制过程中速度可高达100碱基对／秒并保证每10<sup>9</sup>碱
 
 ## DNA损伤
 
-DNA受到的损伤会在S期中检测并修复。当[复制叉到达受损DNA位置上时](../Page/复制叉.md "wikilink")，丝氨酸/苏氨酸蛋白激酶ATR被活化。ATR启动了若干复杂的下游途径使DNA在被修复之前停止复制\[7\]。
+DNA受到的损伤会在S期中检测并修复。当[复制叉到达受损DNA位置上时](https://zh.wikipedia.org/wiki/复制叉 "wikilink")，丝氨酸/苏氨酸蛋白激酶ATR被活化。ATR启动了若干复杂的下游途径使DNA在被修复之前停止复制\[7\]。
 
 ## 参考文献
 

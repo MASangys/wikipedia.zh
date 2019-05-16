@@ -25,7 +25,7 @@ GLIBC）。[Debian開發者也回復到使用glibc](../Page/Debian.md "wikilink"
   - [klibc](https://zh.wikipedia.org/wiki/klibc "wikilink")
   - [musl](https://zh.wikipedia.org/wiki/musl "wikilink")
   - [Newlib](https://zh.wikipedia.org/wiki/Newlib "wikilink")
-  - [uClibc](../Page/uClibc.md "wikilink")
+  - [uClibc](https://zh.wikipedia.org/wiki/uClibc "wikilink")
 
 ## 外部連結
 

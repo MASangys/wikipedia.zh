@@ -2,7 +2,7 @@
 嵌入式檔案系统。
 
 在YAFFS中，最小儲存單位為一個Page，檔案內的數據是儲存在固定512 bytes的Page中，每一個Page亦會有一個對應的16
-bytes的Spare([OOB](../Page/OOB.md "wikilink"),Out-Of-Band)。YAFFS採用Tree
+bytes的Spare([OOB](https://zh.wikipedia.org/wiki/OOB "wikilink"),Out-Of-Band)。YAFFS採用Tree
 Node Structure，由多個Tree Node（Tnode）所組成，Tnode又分成Internal
 Tnode與Lowest-Level Tnode，其中Internal Tnode由8個Pointers所組成，Lowest-Level
 Tnode由16個Entries所組成，其時間複雜度（Time Complexity）相當於O(log
@@ -14,7 +14,7 @@ YAFFS並未完全實作[耗損平均技術](../Page/耗損平均技術.md "wikil
 目前YAFFS在將Data寫入Flash Memory時會執行Garbage Collection，YAFFS Garbage
 Collection分成兩種Mode：Aggressive Mode及Passive Mode, 而且找尋Dirtiest
 Block（最多Invalid Chunk）及尋找Empty Block都是透過Linear
-Search的方式（[JFFS2是Link](../Page/JFFS2.md "wikilink")
+Search的方式（[JFFS2是Link](https://zh.wikipedia.org/wiki/JFFS2 "wikilink")
 List的方式）。YAFFS2不再使用Partial Page Programming（YAFFS仍使用）。
 
 ## YAFFS2
@@ -30,7 +30,7 @@ flash檔案系統，位於fs/yaffs2/目錄下。
 
 ## 相關條目
 
-  - [JFFS2](../Page/JFFS2.md "wikilink")
+  - [JFFS2](https://zh.wikipedia.org/wiki/JFFS2 "wikilink")
   - [UBIFS](../Page/UBIFS.md "wikilink")
   - [LogFS](../Page/LogFS.md "wikilink")
 

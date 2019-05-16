@@ -1,5 +1,5 @@
 **Super
-4**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](../Page/林師傑.md "wikilink")、[許廷鏗](../Page/許廷鏗.md "wikilink")、[陳鴻碩四位男生組成](../Page/陳鴻碩.md "wikilink")，於2010年成立，其唱片公司為[正視音樂](../Page/正視音樂.md "wikilink")。
+4**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[劉威煌](../Page/劉威煌.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[陳鴻碩四位男生組成](../Page/陳鴻碩.md "wikilink")，於2010年成立，其唱片公司為[正視音樂](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")。
 
 ## 出道歷程
 
@@ -11,22 +11,22 @@
 ### 2010年
 
   - 《灰色控訴》（無綫電視劇《[刑警](../Page/刑警_\(無綫電視劇\).md "wikilink")》主題曲）
-  - 《不枉》（劇集《[三國](../Page/三國_\(電視劇\).md "wikilink")》主題曲）
+  - 《不枉》（劇集《[三國](https://zh.wikipedia.org/wiki/三國_\(電視劇\) "wikilink")》主題曲）
 
 ## 派台歌曲
 
-| **派台歌曲成績**                                             |
-| ------------------------------------------------------ |
-| 大碟                                                     |
-| **2010**                                               |
-| [超級巨聲 The Voice](../Page/超級巨聲_The_Voice.md "wikilink") |
+| **派台歌曲成績**                                                                |
+| ------------------------------------------------------------------------- |
+| 大碟                                                                        |
+| **2010**                                                                  |
+| [超級巨聲 The Voice](https://zh.wikipedia.org/wiki/超級巨聲_The_Voice "wikilink") |
 
 ## 音樂錄音帶
 
 ### 2010年
 
   - 《灰色控訴》（無綫電視劇《[刑警](../Page/刑警_\(無綫電視劇\).md "wikilink")》主題曲）
-  - 《不枉》（劇集《[三國](../Page/三國_\(電視劇\).md "wikilink")》主題曲）
+  - 《不枉》（劇集《[三國](https://zh.wikipedia.org/wiki/三國_\(電視劇\) "wikilink")》主題曲）
 
 ## 節目
 

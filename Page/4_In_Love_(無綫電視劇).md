@@ -95,12 +95,12 @@
 法律顧問</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/倫紫玄" title="wikilink">倫紫玄</a></p></td>
+<td><p><a href="../Page/倫紫玄.md" title="wikilink">倫紫玄</a></p></td>
 <td><p>慕容詩</p></td>
 <td><p>化妝師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/關浩揚" title="wikilink">關浩揚</a></p></td>
+<td><p><a href="../Page/關浩揚.md" title="wikilink">關浩揚</a></p></td>
 <td><p>Alan</p></td>
 <td><p>髮型師</p></td>
 </tr>
@@ -115,7 +115,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/周寶霖" title="wikilink">周寶霖</a></p></td>
+<td><p><a href="../Page/周寶霖.md" title="wikilink">周寶霖</a></p></td>
 <td><p>Susan</p></td>
 <td></td>
 </tr>
@@ -490,7 +490,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/呂熙" title="wikilink">呂　熙</a></p></td>
+<td><p><a href="../Page/呂熙.md" title="wikilink">呂　熙</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -500,7 +500,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td></td>
 <td><p>娛樂新聞主持</p></td>
 </tr>
@@ -520,7 +520,7 @@
 <td><p>羅守譽之舞伴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></p></td>
+<td><p><a href="../Page/何君誠.md" title="wikilink">何君誠</a></p></td>
 <td></td>
 <td><p>FM</p></td>
 </tr>
@@ -551,7 +551,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉秉賓" title="wikilink">劉秉賓</a></p></td>
+<td><p><a href="../Page/劉秉賓.md" title="wikilink">劉秉賓</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -596,7 +596,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張韋怡" title="wikilink">張韋怡</a></p></td>
+<td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
 <td><p>錢詠芯</p></td>
 <td><p>陳正孝之妻<br />
 曾與林力行發生一夜情</p></td>
@@ -623,7 +623,7 @@
 <td><p>在電影中出現</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白健恩" title="wikilink">白健恩</a></p></td>
+<td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td><p>男主角</p></td>
 <td></td>
 </tr>
@@ -644,7 +644,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -654,7 +654,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/菁瑋" title="wikilink">菁　瑋</a></p></td>
+<td><p><a href="../Page/菁瑋.md" title="wikilink">菁　瑋</a></p></td>
 <td><p>蘇美儀</p></td>
 <td><p>護士</p></td>
 </tr>
@@ -674,7 +674,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃煒溏" title="wikilink">黃煒溏</a></p></td>
+<td><p><a href="../Page/黃煒溏.md" title="wikilink">黃煒溏</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -729,7 +729,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/區靄玲" title="wikilink">區靄玲</a></p></td>
+<td><p><a href="../Page/區靄玲.md" title="wikilink">區靄玲</a></p></td>
 <td><p>唐太太</p></td>
 <td></td>
 </tr>
@@ -757,7 +757,7 @@ Andy之妻<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李漫芬" title="wikilink">李漫芬</a></p></td>
+<td><p><a href="../Page/李漫芬.md" title="wikilink">李漫芬</a></p></td>
 <td><p>售貨員</p></td>
 <td></td>
 </tr>
@@ -777,7 +777,7 @@ Andy之妻<br />
 <td><p>考古學教授</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>Olivia</p></td>
 <td><p>考古學研究生</p></td>
 </tr>
@@ -787,7 +787,7 @@ Andy之妻<br />
 <td><p>張希妍之助手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳雲甫" title="wikilink">吳雲甫</a></p></td>
+<td><p><a href="../Page/吳雲甫.md" title="wikilink">吳雲甫</a></p></td>
 <td><p>陳先生</p></td>
 <td><p>潘俊謙、唐巧寧之鄰居</p></td>
 </tr>
@@ -818,7 +818,7 @@ Andy之妻<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td><p>唐官</p></td>
 <td></td>
 </tr>
@@ -858,7 +858,7 @@ Andy之妻<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳堃" title="wikilink">陳　堃</a></p></td>
+<td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
 <td><p>樓上家電舖客人</p></td>
 <td></td>
 </tr>
@@ -915,14 +915,13 @@ Andy之妻<br />
       - 十大電視節目第十位
       - 十大電視藝人：第一位 - [陳豪](../Page/陳豪.md "wikilink")
       - 十大電視藝人：第二位 - [佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")
-  - [YAHOO\!搜尋人氣大獎2012](https://zh.wikipedia.org/wiki/2012年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")：
+  - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")：
       - 電視男藝人：[陳豪](../Page/陳豪.md "wikilink")
       - 電視女藝人：[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")
 
 ## 提名獎項
 
-  - [MY
-    AOD我的最愛頒獎典禮2012](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮2012 "wikilink")：
+  - [MY AOD我的最愛頒獎典禮2012](../Page/MY_AOD我的最愛頒獎典禮2012.md "wikilink")：
       - 我的最愛電視男配角：[劉丹](https://zh.wikipedia.org/wiki/劉丹 "wikilink") 飾
         馮志明
       - 我的最愛電視螢幕情侶：《[4 In

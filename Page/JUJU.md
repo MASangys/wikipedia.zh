@@ -1,8 +1,8 @@
-**JUJU**（），[日本女](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")。所屬公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。身高166至167公分。於日本[廣島縣](../Page/廣島縣.md "wikilink")[-{庄}-原市出生](../Page/庄原市.md "wikilink")，於[京都渡過學生時代](../Page/京都.md "wikilink")，高中後（18歲）隻身前往[紐約生活](../Page/紐約.md "wikilink")。
+**JUJU**（），[日本女](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")。所屬公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。身高166至167公分。於日本[廣島縣](../Page/廣島縣.md "wikilink")[-{庄}-原市出生](../Page/庄原市.md "wikilink")，於[京都渡過學生時代](../Page/京都.md "wikilink")，高中後（18歲）隻身前往[紐約生活](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 ## 童年及出道
 
-JUJU從12歲開始便希望可以成為一個[爵士樂歌手](../Page/爵士樂.md "wikilink")。當在京都定居的時候，她曾經參與過不同的音樂活動，而在18歲的時候她獨自到紐約定居。在紐約定居期間，她接觸了爵士樂，[R\&B](../Page/R&B.md "wikilink")，[Hip-hop](../Page/Hip-hop.md "wikilink")，[靈魂音樂](../Page/靈魂音樂.md "wikilink")，[拉丁音樂和](../Page/拉丁音樂.md "wikilink")[浩室音樂等多種不同的音樂風格](../Page/浩室音樂.md "wikilink")，拓展了她的音樂知識。2001年，JUJU開始為一些其他歌手的作品作featuring演出。2002年，她為電影《》創作了主題曲。2004年以單曲「」出道，同時也回到日本開始作現場演出。第三張單曲「」曾於USEN榜登上第一名並停留了22週。雖然如此，但當時聽眾數量仍然不多，所以JUJU的知名度依然不高。
+JUJU從12歲開始便希望可以成為一個[爵士樂歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。當在京都定居的時候，她曾經參與過不同的音樂活動，而在18歲的時候她獨自到紐約定居。在紐約定居期間，她接觸了爵士樂，[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")，[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，[靈魂音樂](https://zh.wikipedia.org/wiki/靈魂音樂 "wikilink")，[拉丁音樂和](https://zh.wikipedia.org/wiki/拉丁音樂 "wikilink")[浩室音樂等多種不同的音樂風格](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")，拓展了她的音樂知識。2001年，JUJU開始為一些其他歌手的作品作featuring演出。2002年，她為電影《》創作了主題曲。2004年以單曲「」出道，同時也回到日本開始作現場演出。第三張單曲「」曾於USEN榜登上第一名並停留了22週。雖然如此，但當時聽眾數量仍然不多，所以JUJU的知名度依然不高。
 
 ## 事業發展
 
@@ -11,7 +11,7 @@ JUJU從12歲開始便希望可以成為一個[爵士樂歌手](../Page/爵士樂
 2009年4月29日，JUJU發行了第十張單曲「」，作為電影「[生命最後一個月的花嫁](../Page/生命最後一個月的花嫁.md "wikilink")」的主題曲，也採用了與R\&B男歌手JAY'ED合作的featuring形式，此曲在音樂配送服務網站Recochoku
 2009年4月月間鈴聲部分下載排行第1位；5月更是月間鈴聲部分下載、鈴聲完整下載、-{zh-cn:视频;zh-hk:視像;zh-tw:影片;}-下載、電影鈴聲下載、RBT五個部分都排行第一，也是首次有歌曲取得這五個部分的第一。同時此曲也獲得了超過300萬次手機下載，成為2009年日本其中一首最受歡迎的情歌。\[1\]\[2\]
 
-2010年2月，JUJU以單曲「」，獲得[日本唱片業協會主辦的](../Page/日本唱片業協會.md "wikilink")「第24回[日本金唱片大賞](../Page/日本金唱片大賞.md "wikilink")」5首年度最佳歌曲的獎項。\[3\]
+2010年2月，JUJU以單曲「」，獲得[日本唱片業協會主辦的](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")「第24回[日本金唱片大賞](https://zh.wikipedia.org/wiki/日本金唱片大賞 "wikilink")」5首年度最佳歌曲的獎項。\[3\]
 
 ## 事業發展經過
 
@@ -433,7 +433,7 @@ JUJU從12歲開始便希望可以成為一個[爵士樂歌手](../Page/爵士樂
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td><p><a href="../Page/JUJU的點歌本_II.md" title="wikilink">Request II</a>（JUJU的點歌本 II）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JUJU的點歌本_II" title="wikilink">Request II</a>（JUJU的點歌本 II）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -548,7 +548,7 @@ JUJU從12歲開始便希望可以成為一個[爵士樂歌手](../Page/爵士樂
 <td><p>2</p></td>
 <td></td>
 <td><p>2011.10.10 SPECIAL LIVE AT BLUE NOTE TOKYO</p></td>
-<td><p>DVD／<a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray</a></p></td>
+<td><p>DVD／<a href="https://zh.wikipedia.org/wiki/Blu-ray_Disc" title="wikilink">Blu-ray</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -1246,7 +1246,7 @@ FNS歌謡祭
 [Category:日本唱片大獎作曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎作曲獎獲獎者 "wikilink")
 
 1.  [](http://news.livedoor.com/article/detail/4138410/)
-    [livedoor](../Page/livedoor.md "wikilink")
+    [livedoor](https://zh.wikipedia.org/wiki/livedoor "wikilink")
 2.  [](http://news.www.infoseek.co.jp/news2u/press_release/story/20090603news2u50091/)
      Infoseek
 3.  [](http://www.riaj.or.jp/data/others/gdlist/gdlist_24th.html)

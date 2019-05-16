@@ -1,9 +1,9 @@
-**白狐股份有限公司**（）是一家以[動畫企劃及製作為主的](../Page/動畫.md "wikilink")[日本公司](../Page/日本.md "wikilink")。在作品裡多以「**WHITE
+**白狐股份有限公司**（）是一家以[動畫企劃及製作為主的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本公司](../Page/日本.md "wikilink")。在作品裡多以「**WHITE
 FOX**」或是「****」表示。
 
 ## 概要、沿革
 
-2007年4月，[OLM的製作人](../Page/OLM.md "wikilink")[岩佐岳與](../Page/岩佐岳.md "wikilink")2006年電視動畫《[受讚頌者](../Page/傳頌之物.md "wikilink")》的製作團隊「**OLM
+2007年4月，[OLM的製作人](../Page/OLM.md "wikilink")[岩佐岳與](https://zh.wikipedia.org/wiki/岩佐岳 "wikilink")2006年電視動畫《[受讚頌者](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》的製作團隊「**OLM
 TEAM
 IWASA**」獨立，在[杉並區](../Page/杉並區.md "wikilink")[下井草成立WHITE](../Page/下井草.md "wikilink")
 FOX\[1\]。
@@ -13,7 +13,7 @@ FOX\[1\]。
 ### 機密資訊外洩事件
 
 2010年1月7日，WHITE
-FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官方說明起因於同年1月4日時，[FTP遭第三方攻擊導致資料外洩](../Page/FTP.md "wikilink")\[2\]。
+FOX官方承認《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》的資料外洩。官方說明起因於同年1月4日時，[FTP遭第三方攻擊導致資料外洩](https://zh.wikipedia.org/wiki/FTP "wikilink")\[2\]。
 
 ## 作品列表
 
@@ -37,7 +37,7 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
-<td><p><a href="../Page/刀語.md" title="wikilink">刀語</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刀語" title="wikilink">刀語</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -61,13 +61,13 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/打工吧！魔王大人.md" title="wikilink">打工吧！魔王大人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/打工吧！魔王大人" title="wikilink">打工吧！魔王大人</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/SONIANI_-SUPER_SONICO_THE_ANIMATION-.md" title="wikilink">超級索尼子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SONIANI_-SUPER_SONICO_THE_ANIMATION-" title="wikilink">超級索尼子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -102,7 +102,7 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -120,14 +120,14 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/少女終末旅行.md" title="wikilink">少女終末旅行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女終末旅行" title="wikilink">少女終末旅行</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/命運石之門0.md" title="wikilink">命運石之門0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/命運石之門0" title="wikilink">命運石之門0</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <td><p>2019年</p></td>
 <td><p><a href="../Page/平凡職業造就世界最強.md" title="wikilink">平凡職業造就世界最強</a></p></td>
 <td></td>
-<td><p>與<a href="../Page/asread.md" title="wikilink">asread共同製作</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/asread" title="wikilink">asread共同製作</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -182,9 +182,9 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/銀魂_(動畫).md" title="wikilink">銀魂°</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銀魂_(動畫)" title="wikilink">銀魂°</a></p></td>
 <td></td>
-<td><p><a href="../Page/萬代南夢宮控股.md" title="wikilink">BANDAI NAMCO Pictures</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬代南夢宮控股" title="wikilink">BANDAI NAMCO Pictures</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -195,7 +195,7 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/干物妹小埋.md" title="wikilink">干物妹小埋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/干物妹小埋" title="wikilink">干物妹小埋</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -224,12 +224,12 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <tbody>
 <tr class="odd">
 <td><p>2013年4月20日</p></td>
-<td><p><a href="../Page/命運石之門_負荷領域的既視感.md" title="wikilink">命運石之門 負荷領域的既視感</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/命運石之門_負荷領域的既視感" title="wikilink">命運石之門 負荷領域的既視感</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月6日</p></td>
-<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">Re:從零開始的異世界生活 Memory Snow</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活" title="wikilink">Re:從零開始的異世界生活 Memory Snow</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -253,7 +253,7 @@ FOX官方承認《[刀語](../Page/刀語.md "wikilink")》的資料外洩。官
 <tbody>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/SAKURA_Internet.md" title="wikilink">SAKURA Internet 新生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SAKURA_Internet" title="wikilink">SAKURA Internet 新生</a></p></td>
 <td></td>
 </tr>
 </tbody>

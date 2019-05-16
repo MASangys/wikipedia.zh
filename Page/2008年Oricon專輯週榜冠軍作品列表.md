@@ -151,7 +151,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
-<td><p><a href="../Page/Dream_&quot;A&quot;_live.md" title="wikilink">Dream "A" live</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dream_&quot;A&quot;_live" title="wikilink">Dream "A" live</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>22.0</p></td>
@@ -215,7 +215,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="odd">
 <td><p>6月30日</p></td>
-<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Pleasure&quot;.md" title="wikilink">B'z The Best "ULTRA Pleasure"</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Pleasure&quot;" title="wikilink">B'z The Best "ULTRA Pleasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>精選</p></td>
 <td><p>56.0</p></td>
@@ -319,7 +319,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="even">
 <td><p>9月29日</p></td>
-<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;" title="wikilink">B'z The Best "ULTRA Treasure"</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>精選</p></td>
 <td><p>41.3</p></td>
@@ -391,7 +391,7 @@ FICTION](../Page/BEST_FICTION.md "wikilink")》（6週）。
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
-<td><p><a href="../Page/color_(專輯).md" title="wikilink">color</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/color_(專輯)" title="wikilink">color</a></p></td>
 <td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.0</p></td>

@@ -1,7 +1,7 @@
-**PulseAudio**（以前叫*Polypaudio*）是一个[跨平台的](../Page/跨平台.md "wikilink")、可通过网络工作的[声音服务](../Page/声音服务.md "wikilink")，其一般使用于[Linux和](../Page/Linux.md "wikilink")[FreeBSD操作系统](../Page/FreeBSD.md "wikilink")。它可以用来作为一种简易改进的[开放声音后台](../Page/开放声音后台.md "wikilink")（ESD）替换。
+**PulseAudio**（以前叫*Polypaudio*）是一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、可通过网络工作的[声音服务](https://zh.wikipedia.org/wiki/声音服务 "wikilink")，其一般使用于[Linux和](../Page/Linux.md "wikilink")[FreeBSD操作系统](../Page/FreeBSD.md "wikilink")。它可以用来作为一种简易改进的[开放声音后台](https://zh.wikipedia.org/wiki/开放声音后台 "wikilink")（ESD）替换。
 
 PulseAudio运行于[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[POSIX兼容系统](../Page/POSIX.md "wikilink")（如Linux和FreeBSD）。PulseAudio是[自由软件](../Page/自由软件.md "wikilink")，基于[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[POSIX兼容系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")（如Linux和FreeBSD）。PulseAudio是[自由软件](../Page/自由软件.md "wikilink")，基于[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")
 （LGPL）2.1协议\[1\]
 
 ## 描述
@@ -11,10 +11,10 @@ Windows和](../Page/Microsoft_Windows.md "wikilink")[POSIX兼容系统](../Page/
 PulseAudio是一个声音服务器，一个后台进程从一个或多个*音源*（进程或输入设备）接受声音输入
 然后重定向声音到一个或多个*槽*（声卡，远程网络PulseAudio服务，或其他进程）。
 
-PulseAudio的一个目的通过它是重定向所有声音流，包括那些试图访问硬件的进程（像那些遗留的基于[OSS的软件](../Page/OSS.md "wikilink")）。PulseAudio通过提供适配器给那些使用不同的声音系统，像[aRts和](../Page/aRts.md "wikilink")[ESounD](../Page/ESounD.md "wikilink")。
+PulseAudio的一个目的通过它是重定向所有声音流，包括那些试图访问硬件的进程（像那些遗留的基于[OSS的软件](https://zh.wikipedia.org/wiki/OSS "wikilink")）。PulseAudio通过提供适配器给那些使用不同的声音系统，像[aRts和](https://zh.wikipedia.org/wiki/aRts "wikilink")[ESounD](https://zh.wikipedia.org/wiki/ESounD "wikilink")。
 
 在Linux下的典型方案，用户提供配置[ALSA来使用PulseAudio提供的虚拟设备](../Page/ALSA.md "wikilink")。尽管应用使用ALSA会将输出的声音输出到PulseAudio，然后PulseAudio会使用[ALSA它自己来访问真正的声卡](../Page/ALSA.md "wikilink").
-PulseAudio同样提供它自己的接口给应用程序，用来直接支持PulseAudio，就像那些遗留的基于[ESD的软件](../Page/ESD.md "wikilink")，这样使得PulseAudio适合作为[ESD的替代品](../Page/ESD.md "wikilink")。
+PulseAudio同样提供它自己的接口给应用程序，用来直接支持PulseAudio，就像那些遗留的基于[ESD的软件](https://zh.wikipedia.org/wiki/ESD "wikilink")，这样使得PulseAudio适合作为[ESD的替代品](https://zh.wikipedia.org/wiki/ESD "wikilink")。
 
 对于[OSS的软件](../Page/Open_Sound_System.md "wikilink"),
 PulseAudio提供`padsp`工具，用来代替硬件文件夹像`/dev/dsp`，欺骗应用程序，使程序以为它们有声卡的完全控制权。在事实上，它们的输出被PulseAudio重定向。
@@ -42,14 +42,14 @@ PulseAudio的主要特点包括:
 ## 使用
 
 PulseAudio被几个主要[Linux发行版使用](../Page/Linux发行版.md "wikilink")，例如[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Mandriva](../Page/Mandriva_Linux.md "wikilink")、[Linux
-Mint](../Page/Linux_Mint.md "wikilink")、[openSUSE和](../Page/openSUSE.md "wikilink")[OpenWRT](../Page/OpenWRT.md "wikilink")。[GNOME项目中还有越来越多的对Pulseaudio的支持](../Page/GNOME.md "wikilink")。
+Mint](../Page/Linux_Mint.md "wikilink")、[openSUSE和](https://zh.wikipedia.org/wiki/openSUSE "wikilink")[OpenWRT](https://zh.wikipedia.org/wiki/OpenWRT "wikilink")。[GNOME项目中还有越来越多的对Pulseaudio的支持](../Page/GNOME.md "wikilink")。
 
 PulseAudio已经被多款基于[Linux的移动电话设备当作声音系统](../Page/Linux.md "wikilink")，包括[Nokia
-N900和](../Page/Nokia_N900.md "wikilink")[Palm
+N900和](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")[Palm
 Pre](../Page/Palm_Pre.md "wikilink").\[4\]
 
 当PulseAudio第一次公开发布时, PulseAudio开发者[Lennart
-Poettering描述它为](../Page/Lennart_Poettering.md "wikilink")"the
+Poettering描述它为](https://zh.wikipedia.org/wiki/Lennart_Poettering "wikilink")"the
 software that currently breaks your audio".\[5\] Poettering later
 claimed that "Ubuntu didn't exactly do a stellar job. They didn't do
 their homework" in adopting PulseAudio\[6\] for
@@ -63,10 +63,10 @@ Flash](../Page/Adobe_Flash.md "wikilink")，在PulseAudio上造成不稳定.\[9\
 
 ## 替代品
 
-[ALSA提供一个软件调音台叫](../Page/ALSA.md "wikilink")[dmix](../Page/dmix.md "wikilink")，它是在PulseAudio前开发的。这是几乎可以在所有的Linux发行版使用的一个简单的PCM音频混合的解决方案。但它不提供PulseAudio的高级功能（如高品质的重采样，聚合装置，定时的调度和网络音频）。
+[ALSA提供一个软件调音台叫](../Page/ALSA.md "wikilink")[dmix](https://zh.wikipedia.org/wiki/dmix "wikilink")，它是在PulseAudio前开发的。这是几乎可以在所有的Linux发行版使用的一个简单的PCM音频混合的解决方案。但它不提供PulseAudio的高级功能（如高品质的重采样，聚合装置，定时的调度和网络音频）。
 
-[JACK是一个提供相比PulseAudio更专业的服务的体系](../Page/JACK_Audio_Connection_Kit.md "wikilink")，提供实时和[低延时的表现](../Page/低延时.md "wikilink")。
-和自从JACK2开始支持对称多处理，使得所有的音频客户端能有效平衡负载于多个处理器。音频客户端可以彼此之间任意连接。在JACK的所有客户之间的图新连接，可以被多种应用程序可视化和编辑，例如Qjackctl。这使得它非常直观地概述了整体音频控制流，可以在任何时候修改所有的音频应用程序和硬件路由。JACK对专业音频软件来说是首选的专业音频应用服务，例如[Ardour](../Page/Ardour_\(软件\).md "wikilink")、[Rezound和](../Page/Rezound.md "wikilink")[LinuxSampler](../Page/LinuxSampler.md "wikilink")。
+[JACK是一个提供相比PulseAudio更专业的服务的体系](../Page/JACK_Audio_Connection_Kit.md "wikilink")，提供实时和[低延时的表现](https://zh.wikipedia.org/wiki/低延时 "wikilink")。
+和自从JACK2开始支持对称多处理，使得所有的音频客户端能有效平衡负载于多个处理器。音频客户端可以彼此之间任意连接。在JACK的所有客户之间的图新连接，可以被多种应用程序可视化和编辑，例如Qjackctl。这使得它非常直观地概述了整体音频控制流，可以在任何时候修改所有的音频应用程序和硬件路由。JACK对专业音频软件来说是首选的专业音频应用服务，例如[Ardour](../Page/Ardour_\(软件\).md "wikilink")、[Rezound和](https://zh.wikipedia.org/wiki/Rezound "wikilink")[LinuxSampler](https://zh.wikipedia.org/wiki/LinuxSampler "wikilink")。
 
 在OSS
 V4的声音系统，如4Front，可提供软件混音，重采样和改变对每个应用程序的基础量，与PulseAudio对比，这些功能是在内核中实现。PulseAudio的还可以与现有的音响系统互操作，包括那些设计成独占声卡的程序（OSS
@@ -76,10 +76,11 @@ V3）
 
   - [JACK Audio Connection
     Kit](../Page/JACK_Audio_Connection_Kit.md "wikilink")
-  - [aRts](../Page/aRts.md "wikilink")
-  - [Network Audio System](../Page/Network_Audio_System.md "wikilink")
+  - [aRts](https://zh.wikipedia.org/wiki/aRts "wikilink")
+  - [Network Audio
+    System](https://zh.wikipedia.org/wiki/Network_Audio_System "wikilink")
   - [List of Linux audio
-    software](../Page/List_of_Linux_audio_software.md "wikilink")
+    software](https://zh.wikipedia.org/wiki/List_of_Linux_audio_software "wikilink")
 
 ## 注释
 

@@ -1,5 +1,5 @@
 「**Perfume
-BUDOUKaaaaaaaaaaN\!\!\!\!\!**」是[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第三張演唱會](../Page/Perfume.md "wikilink")[DVD](../Page/DVD.md "wikilink")。發行日期為2009年4月22日。
+BUDOUKaaaaaaaaaaN\!\!\!\!\!**」是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第三張演唱會](https://zh.wikipedia.org/wiki/Perfume "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。發行日期為2009年4月22日。
 
 ## 概要
 
@@ -8,10 +8,10 @@ pino presents BUDOUKaaaaaaaaaaN\!\!\!\!\!』演唱會錄像。
 
 DISC1收錄了11月7日全場曲目的演出錄像，DISC2則收錄了Perfume歷年現場演出的軌跡，以及在演唱會也有播放的『Butterfly』特別影像。
 
-此外，在DVD[副聲道中成員的對話也有被收錄](../Page/副聲道.md "wikilink")。
+此外，在DVD[副聲道中成員的對話也有被收錄](https://zh.wikipedia.org/wiki/副聲道 "wikilink")。
 
 DVD在發售首周賣出超過6萬3千張，是繼前作『Perfume First Tour
-『GAME』』後，連續兩張作品登上Oricon的DVD綜合銷售榜首位，也是自早安少女組在2000年發行以來相隔8年零8個月後，再有連續兩張的女性團體DVD作品達成此紀錄，同時也超越了同年早前由[aiko和](../Page/aiko.md "wikilink")[濱崎步發售的DVD](../Page/濱崎步.md "wikilink")（分別售出5.6和5.3萬張），升上第一位\[1\]
+『GAME』』後，連續兩張作品登上Oricon的DVD綜合銷售榜首位，也是自早安少女組在2000年發行以來相隔8年零8個月後，再有連續兩張的女性團體DVD作品達成此紀錄，同時也超越了同年早前由[aiko和](https://zh.wikipedia.org/wiki/aiko "wikilink")[濱崎步發售的DVD](../Page/濱崎步.md "wikilink")（分別售出5.6和5.3萬張），升上第一位\[1\]
 。
 
 ## 收錄影像
@@ -19,13 +19,14 @@ DVD在發售首周賣出超過6萬3千張，是繼前作『Perfume First Tour
 **DISC1**
 
 1.  [Computer City](../Page/Computer_City.md "wikilink")
-2.  [edge](../Page/love_the_world.md "wikilink")
+2.  [edge](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
 3.  [Electro World](../Page/Electro_World.md "wikilink")
 4.  [plastic smile](../Page/GAME_\(Perfume專輯\).md "wikilink")
-5.  [love the world](../Page/love_the_world.md "wikilink")
-6.  [Macaroni](../Page/Baby_cruising_Love/Macaroni.md "wikilink")
+5.  [love the
+    world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
+6.  [Macaroni](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
 7.  [Baby cruising
-    Love](../Page/Baby_cruising_Love/Macaroni.md "wikilink")
+    Love](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")
 8.  [Take me Take me](../Page/GAME_\(Perfume專輯\).md "wikilink")
 9.  [GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")
 10. [Secret Secret](../Page/GAME_\(Perfume專輯\).md "wikilink")

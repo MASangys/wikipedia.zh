@@ -1,7 +1,7 @@
 《**假面騎士Fourze**》（，），從2011年9月4日～2012年8月26日期間於[朝日電視台放映](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝劇集](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Fourze
 也是該劇主角變身的英雄的名字。原作為[石之森章太郎](../Page/石之森章太郎.md "wikilink")，此為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第13部[平成系列作品](../Page/平成.md "wikilink")，也是假面騎士系列誕生40週年紀念作。
 
-香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人Fourze}-**》，從2014年6月28日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出，台灣則由東森幼幼台於同年9月7日起，每週日下午16:30\~17:00播放中文配音版。本作是東森幼幼台播放的最後一部《假面騎士系列》作品台灣於播映完畢後一年直接跳過《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》由東森綜合台播出《[假面騎士鎧武](https://zh.wikipedia.org/wiki/假面騎士鎧武 "wikilink")》。
+香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人Fourze}-**》，從2014年6月28日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出，台灣則由東森幼幼台於同年9月7日起，每週日下午16:30\~17:00播放中文配音版。本作是東森幼幼台播放的最後一部《假面騎士系列》作品台灣於播映完畢後一年直接跳過《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》由東森綜合台播出《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》。
 
 ## 本作特色
 
@@ -2007,7 +2007,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     兩肩上瓶子噴出的水能夠療癒各種傷勢，對Zodiarts或人類同樣有效。但兩肩瓶子同時被破壞後就會失去此能力。
     手執名為「[Nectar](https://zh.wikipedia.org/wiki/Nectar "wikilink")」的鞭子來進行攻擊，濺出的碎片可用作偵測出被附著目標的位置。
 
-**[金牛座Zodiarts](../Page/金牛座.md "wikilink")（）**（CV：／香港配音：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")、替身演員：）
+**[金牛座Zodiarts](../Page/金牛座.md "wikilink")（）**（CV：／香港配音：[黃積權](../Page/黃積權.md "wikilink")、替身演員：）
 
   -
     本體身份：[杉浦雄太](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Switcher "wikilink")
@@ -2027,7 +2027,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     主要武器名為「[Lynceus](https://zh.wikipedia.org/wiki/林叩斯_\(阿耳戈船英雄\) "wikilink")」的紅色及「Idas」的藍色卡牌，兩者分別為觸及目標後立即爆炸（紅）及自行控制引爆（藍）。
     「超新星」後能力為以壓縮宇宙能量製造分身並進行自爆攻擊。
 
-**[雙魚座Zodiarts](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")（）**（CV：／香港配音：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")、替身演員：）
+**[雙魚座Zodiarts](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")（）**（CV：／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")、替身演員：）
 
   -
     本體身份：[黑木蘭](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#假面騎士部 "wikilink")
@@ -2073,7 +2073,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>青・春・變・身</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/獵戶座" title="wikilink">獵戶座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/鍾見麟" title="wikilink">鍾見麟</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/獵戶座" title="wikilink">獵戶座Zodiarts</a>（CV：／香港配音：<a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a>）</li>
 </ul></td>
 <td><p>6.3%</p></td>
 <td></td>
@@ -2099,7 +2099,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>女・王・選・舉</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/吳羨婷" title="wikilink">吳羨婷</a>）</li>
+<li><a href="../Page/蝘蜓座.md" title="wikilink">蝘蜓座Zodiarts</a>（CV：／香港配音：<a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a>）</li>
 </ul></td>
 <td><p>5.5%</p></td>
 <td></td>
@@ -2125,7 +2125,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:友・情・內・外;zh-tw:所・謂・友・情;zh-cn:友・情・表・里;zh-sg:友・情・表・里}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/麒麟座.md" title="wikilink">麒麟座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/李安邦" title="wikilink">李安邦</a>）</li>
+<li><a href="../Page/麒麟座.md" title="wikilink">麒麟座Zodiarts</a>（CV：／香港配音：<a href="../Page/李安邦.md" title="wikilink">李安邦</a>）</li>
 </ul></td>
 <td><p>7.7%</p></td>
 <td></td>
@@ -2151,7 +2151,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>-{zh-hk:帝・王・混・蛋;zh-tw:國・王・小・子;zh-cn:王・样・野・郎;zh-sg:王・样・野・郎}-</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/獵犬座" title="wikilink">獵犬座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/黃積權" title="wikilink">黃積權</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/獵犬座" title="wikilink">獵犬座Zodiarts</a>（CV：／香港配音：<a href="../Page/黃積權.md" title="wikilink">黃積權</a>）</li>
 </ul></td>
 <td><p>6.1%</p></td>
 <td><p><a href="../Page/三條陸.md" title="wikilink">三條陸</a></p></td>
@@ -2203,7 +2203,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>消・失・月・戶</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/羅盤座" title="wikilink">羅盤座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/李震權" title="wikilink">李震權</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/羅盤座" title="wikilink">羅盤座Zodiarts</a>（CV：／香港配音：<a href="../Page/李震權.md" title="wikilink">李震權</a>）</li>
 </ul></td>
 <td><p>6.1%</p></td>
 <td></td>
@@ -2437,7 +2437,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>後・輩・無・言</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/蒼蠅座" title="wikilink">蒼蠅座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/鍾見麟" title="wikilink">鍾見麟</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/蒼蠅座" title="wikilink">蒼蠅座Zodiarts</a>（CV：／香港配音：<a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a>）</li>
 </ul></td>
 <td><p>5.7%</p></td>
 <td></td>
@@ -2567,7 +2567,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>學・園・法・度</p></td>
 <td></td>
 <td><ul>
-<li><a href="../Page/金牛座.md" title="wikilink">金牛座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/黃積權" title="wikilink">黃積權</a>）</li>
+<li><a href="../Page/金牛座.md" title="wikilink">金牛座Zodiarts</a>（CV：／香港配音：<a href="../Page/黃積權.md" title="wikilink">黃積權</a>）</li>
 </ul></td>
 <td><p>5.9%</p></td>
 <td></td>
@@ -2645,7 +2645,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>天・秤・造・反</p></td>
 <td></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/雙魚座" title="wikilink">雙魚座Zodiarts</a>（CV：／香港配音：<a href="https://zh.wikipedia.org/wiki/何寶珊" title="wikilink">何寶珊</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/雙魚座" title="wikilink">雙魚座Zodiarts</a>（CV：／香港配音：<a href="../Page/何寶珊.md" title="wikilink">何寶珊</a>）</li>
 </ul></td>
 <td><p>5.4%</p></td>
 <td></td>
@@ -2866,14 +2866,14 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   - \-{『**假面騎士Switch On！**』}-（台灣版）\[15\]
 
-作詞：[香蕉哥哥](https://zh.wikipedia.org/wiki/香蕉哥哥 "wikilink") / 作曲： /
+作詞：[香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲： /
 編曲：[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") /
 歌：[草莓姐姐](https://zh.wikipedia.org/wiki/草莓姐姐 "wikilink")
 
   - 『**幪面超人Switch On！**』（香港版）\[16\]
 
 作詞：[天　旋](../Page/天旋.md "wikilink") / 作曲： /
-編曲：[徐洛鏘](https://zh.wikipedia.org/wiki/徐洛鏘 "wikilink") /
+編曲：[徐洛鏘](../Page/徐洛鏘.md "wikilink") /
 歌：[王君馨](../Page/王君馨.md "wikilink")
 
 ### 插曲
@@ -2946,7 +2946,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 「**ラッキークッキー**」 （第39話）
 
-  - 演唱：遠藤三貴（[假面騎士GIRLS](https://zh.wikipedia.org/wiki/假面騎士GIRLS "wikilink")）
+  - 演唱：遠藤三貴（[假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")）
   - 作詞：
   - 作曲/編曲：DJ HURRY KENN
 

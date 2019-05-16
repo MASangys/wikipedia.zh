@@ -1,4 +1,4 @@
-《**Rosie**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月30日發行。
+《**Rosie**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年5月30日發行。
 
 ## 簡介
 

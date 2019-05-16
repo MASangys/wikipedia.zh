@@ -1,8 +1,8 @@
 **Grindr**（讀作\[1\]），是一個供[男同志使用的跨平台社交軟體](https://zh.wikipedia.org/wiki/男同志 "wikilink")，屬於[地理位置服務](https://zh.wikipedia.org/wiki/地理位置服務 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")。名稱有「男性搜尋系統」（Guy
 + Finder）的意思\[2\]。
 
-此軟體主要提供行動平台使用，包括[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS](../Page/iOS.md "wikilink")（含[iPhone](../Page/iPhone.md "wikilink")、[iPod
-Touch](../Page/iPod_Touch.md "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")）、[Android與](../Page/Android.md "wikilink")[BlackBerry
+此軟體主要提供行動平台使用，包括[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（含[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")）、[Android與](../Page/Android.md "wikilink")[BlackBerry
 OS](../Page/BlackBerry_OS.md "wikilink")。
 
 ## 介紹
@@ -16,7 +16,7 @@ Xtra。
 
 Grindr
 Xtra是Grindr的收費服務。除了沒有[線上廣告外](../Page/网络广告.md "wikilink")，在iOS及Android上Xtra更可利用Push技術在沒有開啟Grindr情況下收到新訊息的通知。除此以外，還有一次過載入100個用家檔案、以手勢快速瀏覽檔案等功能\[3\]
-。Xtra可透[iTunes或於Android的Grindr內訂講](../Page/iTunes.md "wikilink")。
+。Xtra可透[iTunes或於Android的Grindr內訂講](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 2016年1月，[中國公司](../Page/中國.md "wikilink")[崑崙萬維以](https://zh.wikipedia.org/wiki/崑崙萬維 "wikilink")0.93亿美元收购Grindr60%的股份，2017年5月又用1.52億美元收購了Grindr剩餘的股份，成為Grindr
 100%全資母公司。

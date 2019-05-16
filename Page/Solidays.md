@@ -1,8 +1,8 @@
-《**Solidays**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語新曲及](../Page/粵語.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")，於2008年8月25日發行。
+《**Solidays**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語新曲及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年8月25日發行。
 
 ## 專輯簡介
 
-**Solidays**是陳奕迅加入[新藝寶唱片後發行的第一張](../Page/新藝寶唱片.md "wikilink")[粵語新曲及](../Page/粵語.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")，主要收錄自2005年加入[新藝寶後的主打歌曲](../Page/新藝寶.md "wikilink")，並收錄兩首新歌，包括《歌‧頌》和《後台》。此新曲及精選輯還收錄了十五首精選歌曲之卡拉OK的[DVD](../Page/DVD.md "wikilink")。
+**Solidays**是陳奕迅加入[新藝寶唱片後發行的第一張](../Page/新藝寶唱片.md "wikilink")[粵語新曲及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，主要收錄自2005年加入[新藝寶後的主打歌曲](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，並收錄兩首新歌，包括《歌‧頌》和《後台》。此新曲及精選輯還收錄了十五首精選歌曲之卡拉OK的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 曲目
 
@@ -23,9 +23,10 @@
   - [2008年度SINA
     Music樂壇民意指數頒獎禮](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
     Music最高收聽率二十大歌曲
-  - [2008年度YAHOO\!搜尋人氣大獎](../Page/2008年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
+  - [2008年度YAHOO\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
     - 華語歌曲
-  - 2008年度[十大勁歌金曲頒獎典禮](../Page/十大勁歌金曲頒獎典禮.md "wikilink") - 十大勁歌金曲獎 《歌‧頌》
+  - 2008年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")
+    - 十大勁歌金曲獎 《歌‧頌》
   - 2008年度加拿大至HiT中文歌曲排行榜 - 全國推崇十大歌曲（粵語）《歌‧頌》
 
 ## 資料來源

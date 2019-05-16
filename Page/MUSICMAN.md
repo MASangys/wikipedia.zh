@@ -16,7 +16,7 @@ NOTE」。
 
 封面以[枯山水作為背景](../Page/枯山水.md "wikilink")，此背景也是專輯歌曲《月光的聖者們》的拍攝場景。
 
-與著名的女性創作歌手[aiko首次發行的](../Page/aiko.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[愛選輯](../Page/愛選輯.md "wikilink")》同週發行，不過仍然[取得Oricon公信榜冠軍](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")。是桑田自1994年的《[孤獨的太陽](https://zh.wikipedia.org/wiki/孤獨的太陽 "wikilink")》16年以來錄音室專輯再次取得冠軍。也是史上首位樂團或組合出身的個人歌手連續四個年代（1980年代至2010年代）都有專輯取得Oricon冠軍（1980年代：《[Keisuke
+與著名的女性創作歌手[aiko首次發行的](https://zh.wikipedia.org/wiki/aiko "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[愛選輯](../Page/愛選輯.md "wikilink")》同週發行，不過仍然[取得Oricon公信榜冠軍](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")。是桑田自1994年的《[孤獨的太陽](https://zh.wikipedia.org/wiki/孤獨的太陽 "wikilink")》16年以來錄音室專輯再次取得冠軍。也是史上首位樂團或組合出身的個人歌手連續四個年代（1980年代至2010年代）都有專輯取得Oricon冠軍（1980年代：《[Keisuke
 Kuwata](https://zh.wikipedia.org/wiki/Keisuke_Kuwata "wikilink")》；1990年代《[孤獨的太陽](https://zh.wikipedia.org/wiki/孤獨的太陽 "wikilink")》；2000年代《[TOP
 OF THE
 TOPS](https://zh.wikipedia.org/wiki/TOP_OF_THE_TOPS "wikilink")》；2010年代：《MUSICMAN》）。\[3\]。
@@ -56,7 +56,7 @@ TOPS](https://zh.wikipedia.org/wiki/TOP_OF_THE_TOPS "wikilink")》；2010年代�
 13. **[其實是可怕的愛與羅曼史](https://zh.wikipedia.org/wiki/其實是可怕的愛與羅曼史 "wikilink")**（）
       - 第13張單曲
 14. **寶貝前進吧！！**（）
-      - 恢復活動後在2010年12月31日的[第61回NHK紅白歌合戰上首次披露這首歌和](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")《其實是可怕的愛與羅曼史》。這首歌是自2009年的[aiko以來史上第三組歌手在紅白上演唱尚未發售的歌曲](../Page/aiko.md "wikilink")。
+      - 恢復活動後在2010年12月31日的[第61回NHK紅白歌合戰上首次披露這首歌和](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")《其實是可怕的愛與羅曼史》。這首歌是自2009年的[aiko以來史上第三組歌手在紅白上演唱尚未發售的歌曲](https://zh.wikipedia.org/wiki/aiko "wikilink")。
       - 製作有PV
 15. **發狂了的女人**（）
       - 管編曲：桑田佳祐、山本拓夫

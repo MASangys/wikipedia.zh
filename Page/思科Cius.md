@@ -7,8 +7,8 @@ band–850, 900, 1800, 1900 MHz) | lifespan = | unitssold = | media = | os
 + [3G](../Page/3G.md "wikilink")[移动电话](../Page/移动电话.md "wikilink") |
 cameras = **Front:** 錄影達30 fps 含聲音 , 2x 數位變焦
 **Back:** 錄影達30 fps 含聲音, 500萬畫素HD（720 x 480） HD 畫質 8x 數位變焦 | power =
-内置不可拆卸的可充电[鋰離子聚合物電池](https://zh.wikipedia.org/wiki/鋰離子聚合物電池 "wikilink") 5200
-mAh  | cpu = 1.6 GHz HT双核 [Intel
+内置不可拆卸的可充电[鋰離子聚合物電池](../Page/鋰離子聚合物電池.md "wikilink") 5200 mAh  |
+cpu = 1.6 GHz HT双核 [Intel
 Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") 专门设计的高性能低功耗系统级芯片
 | graphics = ? | storage = [闪存](../Page/闪存.md "wikilink")32 GB \[1\] |
 memory = 1GB DDR2 RAM | display = 7吋1024 x 600 (720p高清 -

@@ -136,7 +136,7 @@ boys」2009年出場的歷史包括在內。
 </tr>
 <tr class="even">
 <td><p>2012年（平成24年）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰" title="wikilink">第63回</a></p></td>
+<td><p><a href="../Page/第63回NHK紅白歌合戰.md" title="wikilink">第63回</a></p></td>
 <td><p>4</p></td>
 <td><p>NYC紅白メドレー</p></td>
 <td><p>2/50</p></td>

@@ -1,16 +1,17 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:VectorCampus_Stuttgart_Weilimdorf_MarcGilardone.png "fig:缩略图")
 **Vector Informatik** 為電控單元提供各種串行總線系統開發工具及源代碼，包括
-[CAN](../Page/控制器區域網路.md "wikilink")，[LIN](../Page/Local_Interconnect_Network.md "wikilink")，[FlexRay](../Page/FlexRay.md "wikilink")，[MOST](../Page/Media_Oriented_Systems_Transport.md "wikilink")，[Ethernet](../Page/Ethernet.md "wikilink")
-和 [SAE J1708](../Page/J1708.md "wikilink")，以及多種基于CAN的開放式協議，如 [SAE
-J1939](../Page/J1939.md "wikilink")，[SAE
-J1587](../Page/J1587.md "wikilink")，[ISO
-11783](../Page/ISO_11783.md "wikilink")，[NMEA
-2000](../Page/NMEA_2000.md "wikilink")，[ARINC
-825](../Page/ARINC_825.md "wikilink")，\[1\]
-[CANaerospace](../Page/CANaerospace.md "wikilink"),\[2\]
+[CAN](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")，[LIN](https://zh.wikipedia.org/wiki/Local_Interconnect_Network "wikilink")，[FlexRay](https://zh.wikipedia.org/wiki/FlexRay "wikilink")，[MOST](https://zh.wikipedia.org/wiki/Media_Oriented_Systems_Transport "wikilink")，[Ethernet](https://zh.wikipedia.org/wiki/Ethernet "wikilink")
+和 [SAE
+J1708](https://zh.wikipedia.org/wiki/J1708 "wikilink")，以及多種基于CAN的開放式協議，如
+[SAE J1939](https://zh.wikipedia.org/wiki/J1939 "wikilink")，[SAE
+J1587](https://zh.wikipedia.org/wiki/J1587 "wikilink")，[ISO
+11783](https://zh.wikipedia.org/wiki/ISO_11783 "wikilink")，[NMEA
+2000](https://zh.wikipedia.org/wiki/NMEA_2000 "wikilink")，[ARINC
+825](https://zh.wikipedia.org/wiki/ARINC_825 "wikilink")，\[1\]
+[CANaerospace](https://zh.wikipedia.org/wiki/CANaerospace "wikilink"),\[2\]
 [CANopen](../Page/CANopen.md "wikilink") 等。 Vector Informatik
 的總部座落于德國斯圖加特。
-在德國境內[布伦瑞克](../Page/布伦瑞克.md "wikilink")，[慕尼黑](../Page/慕尼黑.md "wikilink")，[汉堡](../Page/汉堡.md "wikilink")，[雷根斯堡等城市設有辦事處](../Page/雷根斯堡.md "wikilink")，并在全球多個國家，如[美國](../Page/美國.md "wikilink")，[日本](../Page/日本.md "wikilink")，[法國](../Page/法國.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[英國](../Page/英國.md "wikilink")，[韓國](../Page/韓國.md "wikilink")，[印度](../Page/印度.md "wikilink"),[中國](../Page/中國.md "wikilink"),[意大利有分公司](../Page/意大利.md "wikilink")。Vector
+在德國境內[布伦瑞克](https://zh.wikipedia.org/wiki/布伦瑞克 "wikilink")，[慕尼黑](../Page/慕尼黑.md "wikilink")，[汉堡](../Page/汉堡.md "wikilink")，[雷根斯堡等城市設有辦事處](../Page/雷根斯堡.md "wikilink")，并在全球多個國家，如[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，[日本](../Page/日本.md "wikilink")，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，[印度](../Page/印度.md "wikilink"),[中國](../Page/中國.md "wikilink"),[意大利有分公司](../Page/意大利.md "wikilink")。Vector
 Informatik 還有一個名為 Vector Consulting Services
 的子公司，專門從事于優化技術類產品開發過程的咨詢業務。它們總稱為
 Vector 集團。
@@ -19,7 +20,7 @@ Vector 集團。
 
 公司最早的名稱是 Vector Software，成立于1988年4月1日，創始人是 Eberhard Hinderer, Martin
 Litschel 和 Helmut Schelling。在1992年，公司改名為 Vector Informatik。同年，公司賣出了第一份
-[CANalyzer的](../Page/CANalyzer.md "wikilink")
+[CANalyzer的](https://zh.wikipedia.org/wiki/CANalyzer "wikilink")
 License，同時公司的銷售額第一次突破了百萬歐元大關。1996年，第一份CANoe和CANape的License也相繼售出。
 
 1998年，Vector CANtech (USA) 成立。次年，Vector Japan 成立。到2001年，子公司 Vector
@@ -42,14 +43,14 @@ CANopen。汽車电子控制单元是Vector关注的焦点。 然而不僅如此
   - AUTOSAR PDUs with FlexRay at AUDI\[9\]
   - Optimizing driver assistance systems at
     [BMW](../Page/BMW.md "wikilink")\[10\]
-  - [XCP](../Page/Universal_Measurement_and_Calibration_Protocol.md "wikilink")-on-FlexRay
+  - [XCP](https://zh.wikipedia.org/wiki/Universal_Measurement_and_Calibration_Protocol "wikilink")-on-FlexRay
     at Audi\[11\]
   - Efficiency and quality in gear drive calibration at
-    [ZF](../Page/ZF_Friedrichshafen.md "wikilink")\[12\]
+    [ZF](https://zh.wikipedia.org/wiki/ZF_Friedrichshafen "wikilink")\[12\]
   - Wireless interfacing of development and analysis tools at
-    [Bomag](../Page/Bomag.md "wikilink") AG\[13\]
+    [Bomag](https://zh.wikipedia.org/wiki/Bomag "wikilink") AG\[13\]
   - Integrated diagnostic and flash solution for LuK GmbH\[14\]
-  - [Car2x](../Page/Vehicular_communication_systems.md "wikilink")/[DSRC](../Page/Dedicated_short-range_communications.md "wikilink")
+  - [Car2x](https://zh.wikipedia.org/wiki/Vehicular_communication_systems "wikilink")/[DSRC](https://zh.wikipedia.org/wiki/Dedicated_short-range_communications "wikilink")
     communication\[15\]
 
 ## 公司產品
@@ -57,11 +58,11 @@ CANopen。汽車电子控制单元是Vector关注的焦点。 然而不僅如此
 公司的部分關鍵產品包括：
 
   - CAN、FlexRay、Ethernet、LIN、MOST以及其它基于CAN协议的高层协议的分析软件
-    [CANalyzer](../Page/CANalyzer.md "wikilink")。
+    [CANalyzer](https://zh.wikipedia.org/wiki/CANalyzer "wikilink")。
   - 集仿真、分析、診斷、測試于一體的汽車ECU開發工具
-    [CANoe](../Page/CANoe.md "wikilink")。[CANoe在全球絕大部分汽車](../Page/CANoe.md "wikilink")、卡車整車廠及供應商中被廣泛使用。
-  - [CANape](../Page/CANape.md "wikilink")
-    是一款實時對ECU進行[算法標定的開發軟件](../Page/algorithms.md "wikilink")，同樣在全球的整車廠和供應商中應用廣泛。
+    [CANoe](https://zh.wikipedia.org/wiki/CANoe "wikilink")。[CANoe在全球絕大部分汽車](https://zh.wikipedia.org/wiki/CANoe "wikilink")、卡車整車廠及供應商中被廣泛使用。
+  - [CANape](https://zh.wikipedia.org/wiki/CANape "wikilink")
+    是一款實時對ECU進行[算法標定的開發軟件](https://zh.wikipedia.org/wiki/algorithms "wikilink")，同樣在全球的整車廠和供應商中應用廣泛。
   - CAN、FlexRay、LIN、CANopen
     等通信協議的嵌入式軟件源代碼組件。這些軟件幾乎可以在全球所有帶有總線系統的汽車內找到。\[16\]
 
@@ -115,9 +116,10 @@ CANopen。汽車电子控制单元是Vector关注的焦点。 然而不僅如此
     GmbH](http://www.vector.com/portal/medien/cmc/press/Vector/Flashing_LuK_AutomobilElektronik_200802_PressArticle_EN.pdf)
 
 15. (German)Barbara Lange: CANoe.IP unterstützt Car-to-Car-Entwicklung
-    in [iX](../Page/iX_\(magazine\).md "wikilink"). [Heise
-    Verlag](../Page/Heise_Verlag.md "wikilink"), Hannover 9/2009, SSN
-    0935-9680.
+    in [iX](https://zh.wikipedia.org/wiki/iX_\(magazine\) "wikilink").
+    [Heise
+    Verlag](https://zh.wikipedia.org/wiki/Heise_Verlag "wikilink"),
+    Hannover 9/2009, SSN 0935-9680.
 
 16. [German report of the Chamber of Commerce for the Stuttgart Region:
     *Stuttgart-based Vector Informatik GmbH is world leader in software

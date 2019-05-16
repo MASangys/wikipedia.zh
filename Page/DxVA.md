@@ -1,14 +1,13 @@
 **DirectX Video Acceleration**（**DXVA**）是一种在[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[Xbox
-360平台的Microsoft](../Page/Xbox_360.md "wikilink")
-API规范，能让视訊解码器使用硬件解码。
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox
+360平台的Microsoft](../Page/Xbox_360.md "wikilink") API规范，能让视訊解码器使用硬件解码。
 
 DXVA 1.0最早是在[Windows 2000以及](../Page/Windows_2000.md "wikilink")[Windows
 98版本開始引入的API](../Page/Windows_98.md "wikilink")，可以使用於[VMR
 7/9之上](../Page/DirectShow.md "wikilink")。\[1\] DXVA 2.0僅適用於[Windows
 Vista](../Page/Windows_Vista.md "wikilink"), [Windows
-7以及更新的版本](../Page/Windows_7.md "wikilink")，被整合於[Media
-Foundation](../Page/Media_Foundation.md "wikilink")（MF）並使用[EVR](../Page/Media_Foundation#增強型視訊渲染器.md "wikilink")。\[2\]
+7以及更新的版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，被整合於[Media
+Foundation](../Page/Media_Foundation.md "wikilink")（MF）並使用[EVR](https://zh.wikipedia.org/wiki/Media_Foundation#增強型視訊渲染器 "wikilink")。\[2\]
 
 ## 功能
 
@@ -23,16 +22,17 @@ Foundation](../Page/Media_Foundation.md "wikilink")（MF）並使用[EVR](../Pag
 2000都可以支援VLD。[PowerDVD分别可以对H](../Page/PowerDVD.md "wikilink").264、VC-1、MPEG2、X264、XVID、DVIX等格式进行解压。此外DXVA還定義了一組可以讓圖形驅動實現運算加速的硬件驅動接口（Device
 Driver Interfaces/DDIs）。
 
-DXVA定義了運動補償DDI，屬於[iDCT動作介面](../Page/Inverse_discrete_cosine_transform.md "wikilink")，[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")，[運動補償](../Page/運動補償.md "wikilink")、[alpha
-blending](../Page/alpha_blending.md "wikilink")、inverse 、[color space
+DXVA定義了運動補償DDI，屬於[iDCT動作介面](https://zh.wikipedia.org/wiki/Inverse_discrete_cosine_transform "wikilink")，[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")，[運動補償](https://zh.wikipedia.org/wiki/運動補償 "wikilink")、[alpha
+blending](https://zh.wikipedia.org/wiki/alpha_blending "wikilink")、inverse
+、[color space
 conversion以及幀率的變化動作](../Page/色彩管理.md "wikilink")，還有其他。\[3\]\[4\]其本身又有三個小細項：Deinterlacing
 DDI, COPP DDI以及ProcAmp
-DDI.\[5\][Deinterlacing](../Page/deinterlace.md "wikilink")
-DDI定義了針對[deinterlacing動作的回饋](../Page/deinterlace.md "wikilink").
+DDI.\[5\][Deinterlacing](https://zh.wikipedia.org/wiki/deinterlace "wikilink")
+DDI定義了針對[deinterlacing動作的回饋](https://zh.wikipedia.org/wiki/deinterlace "wikilink").
 COPP（Certified Output Protection
 Protocol）DDI可允許管道（pipeline）在[DRM-protected
 media安全性考量](../Page/数字版权管理.md "wikilink")，定義加密功能. ProcAmp
-DDI用於加速[post-processing](../Page/post-processing.md "wikilink")
+DDI用於加速[post-processing](https://zh.wikipedia.org/wiki/post-processing "wikilink")
 video.
 
 ## 支援DXVA的播放器
@@ -41,35 +41,43 @@ video.
     Cinema](../Page/Media_Player_Classic_Home_Cinema.md "wikilink")
   - [ffdshow-tryouts](../Page/Ffdshow.md "wikilink")（Since Revision
     3185）
-  - [XBMC Media Center](../Page/XBMC_Media_Center.md "wikilink")
-  - [Boxee](../Page/Boxee.md "wikilink")
-  - [MediaPortal](../Page/MediaPortal.md "wikilink")
-  - [Microsoft](../Page/Microsoft.md "wikilink") [Windows
-    Vista](../Page/Windows_Vista.md "wikilink")/[Windows
-    7](../Page/Windows_7.md "wikilink") internal
+  - [XBMC Media
+    Center](https://zh.wikipedia.org/wiki/XBMC_Media_Center "wikilink")
+  - [Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")
+  - [MediaPortal](https://zh.wikipedia.org/wiki/MediaPortal "wikilink")
+  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
+    [Windows Vista](../Page/Windows_Vista.md "wikilink")/[Windows
+    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") internal
     [MPEG-2](../Page/MPEG-2.md "wikilink") decoder
-  - [Nero Showtime](../Page/Nero_Showtime.md "wikilink")
-  - [Nero MediaHub](../Page/Nero_MediaHub.md "wikilink")
+  - [Nero
+    Showtime](https://zh.wikipedia.org/wiki/Nero_Showtime "wikilink")
+  - [Nero
+    MediaHub](https://zh.wikipedia.org/wiki/Nero_MediaHub "wikilink")
   - [PowerDVD](../Page/PowerDVD.md "wikilink")
-  - [SPlayer](../Page/SPlayer.md "wikilink")\[6\]
-  - [UIStream](../Page/UIStream.md "wikilink")\[7\] via FFMpeg layer
-  - [WinDVD](../Page/WinDVD.md "wikilink")
+  - [SPlayer](https://zh.wikipedia.org/wiki/SPlayer "wikilink")\[6\]
+  - [UIStream](https://zh.wikipedia.org/wiki/UIStream "wikilink")\[7\]
+    via FFMpeg layer
+  - [WinDVD](https://zh.wikipedia.org/wiki/WinDVD "wikilink")
   - [Windows Media Player
-    11](../Page/Windows_Media_Player.md "wikilink")（WMV only）
+    11](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")（WMV
+    only）
   - [Windows Media Player
-    12](../Page/Windows_Media_Player_12.md "wikilink")
+    12](https://zh.wikipedia.org/wiki/Windows_Media_Player_12 "wikilink")
   - Anysee Viewer
   - [Adobe Flash](../Page/Adobe_Flash.md "wikilink") 10.2版
   - [DivX](../Page/DivX.md "wikilink") H.264 Decoder（1.2版, DivX
     Plus的一部份）
-  - [VLC media player](../Page/VLC_media_player.md "wikilink")（DXVA 2.0
-    only）\[8\]（since version 1.1）
+  - [VLC media
+    player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")（DXVA
+    2.0 only）\[8\]（since version 1.1）
   - [CoreAVC](../Page/CoreAVC.md "wikilink") \[9\]（since version 2.5.0）
-  - [Daum PotPlayer](../Page/Daum_PotPlayer.md "wikilink")
-  - [jetAudio](../Page/jetAudio.md "wikilink") 8.0版
-  - [Splash Lite](../Page/Splash_Lite.md "wikilink")
-  - [Splash PRO](../Page/Splash_PRO.md "wikilink")
-  - [Splash PRO EX](../Page/Splash_PRO_EX.md "wikilink")
+  - [Daum
+    PotPlayer](https://zh.wikipedia.org/wiki/Daum_PotPlayer "wikilink")
+  - [jetAudio](https://zh.wikipedia.org/wiki/jetAudio "wikilink") 8.0版
+  - [Splash Lite](https://zh.wikipedia.org/wiki/Splash_Lite "wikilink")
+  - [Splash PRO](https://zh.wikipedia.org/wiki/Splash_PRO "wikilink")
+  - [Splash PRO
+    EX](https://zh.wikipedia.org/wiki/Splash_PRO_EX "wikilink")
 
 ## 注釋
 

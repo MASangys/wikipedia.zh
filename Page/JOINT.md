@@ -3,7 +3,7 @@
 
 ## 概要
 
-「JOINT」初回限定版附[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。「JOINT」和「triangle」中的歌詞，部分出自『灼眼的夏娜II』的資料和劇本出來的言詞。以上兩首歌均被收錄在『[SAVIA](https://zh.wikipedia.org/wiki/SAVIA "wikilink")』專輯之中。這首歌也讓川田真美的歌首次進入[ORICON排行榜前十名](../Page/ORICON.md "wikilink")。同時，也獲得こむちゃっとカウントダウン第一名。\[1\]
+「JOINT」初回限定版附[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。「JOINT」和「triangle」中的歌詞，部分出自『灼眼的夏娜II』的資料和劇本出來的言詞。以上兩首歌均被收錄在『[SAVIA](https://zh.wikipedia.org/wiki/SAVIA "wikilink")』專輯之中。這首歌也讓川田真美的歌首次進入[ORICON排行榜前十名](https://zh.wikipedia.org/wiki/ORICON "wikilink")。同時，也獲得こむちゃっとカウントダウン第一名。\[1\]
 
 ## 收錄曲
 

@@ -4,7 +4,7 @@ Server**，是一个用[Python语言写成的](../Page/Python.md "wikilink")[Web
 ## 特点
 
   - 作为Web框架，是一个轻量级的Web框架，类似于另一个Python web 框架Web.py，其拥有异步非阻塞IO的处理方式。
-  - 作为Web服务器，Tornado有较为出色的抗负载能力，官方用[nginx反向代理的方式部署Tornado和其它Python](../Page/nginx.md "wikilink")
+  - 作为Web服务器，Tornado有较为出色的抗负载能力，官方用[nginx反向代理的方式部署Tornado和其它Python](https://zh.wikipedia.org/wiki/nginx "wikilink")
     web应用框架进行对比，结果最大浏览量超过第二名近40%。\[1\]
 
 ## 性能
@@ -13,7 +13,7 @@ Tornado有着优异的性能。它试图解决[C10k问题](https://zh.wikipedia.
 
 | 服务                                                            | 部署                                                                    | 请求/每秒 |
 | ------------------------------------------------------------- | --------------------------------------------------------------------- | ----- |
-| Tornado                                                       | [nginx](../Page/nginx.md "wikilink"), 4进程                             | 8213  |
+| Tornado                                                       | [nginx](https://zh.wikipedia.org/wiki/nginx "wikilink"), 4进程          | 8213  |
 | Tornado                                                       | 1个单线程进程                                                               | 3353  |
 | [Django](../Page/Django.md "wikilink")                        | Apache/[mod_wsgi](https://zh.wikipedia.org/wiki/mod_wsgi "wikilink") | 2223  |
 | web.py                                                        | Apache/mod_wsgi                                                      | 2066  |

@@ -1,6 +1,6 @@
 《**infinite
-synthesis**》是[fripSide](../Page/fripSide.md "wikilink")（第二期）的第一張專輯。於2010年12月1日由[Geneon
-Entertainment發售](../Page/Geneon_Entertainment.md "wikilink")。
+synthesis**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第一張專輯。於2010年12月1日由[Geneon
+Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")。
 
 ## 概要
 
@@ -28,7 +28,7 @@ Entertainment發售](../Page/Geneon_Entertainment.md "wikilink")。
 3.  **everlasting**（5:07）
       -
         作詞：八木沼悟志、yuki-ka，作曲、編曲：八木沼悟志
-        《[我的女神](../Page/我的女神.md "wikilink")》第42、43卷限定版的OAD主題歌
+        《[我的女神](https://zh.wikipedia.org/wiki/我的女神 "wikilink")》第42、43卷限定版的OAD主題歌
 4.  **late in autumn**（6:05）
       -
         作詞：南條愛乃、yuki-ka，作曲、編曲：八木沼悟志
@@ -47,7 +47,7 @@ Entertainment發售](../Page/Geneon_Entertainment.md "wikilink")。
       -
         作詞：八木沼悟志、yuki-ka，作曲、編曲：八木沼悟志
         PC遊戲『[Areas
-        戀する乙女の3H](../Page/Areas_戀する乙女の3H.md "wikilink")』OP\&ED主題歌
+        戀する乙女の3H](https://zh.wikipedia.org/wiki/Areas_戀する乙女の3H "wikilink")』OP\&ED主題歌
         收錄在遊戲CD特典的主題曲，這次收錄將間奏部分和「grand blue」重覆旋律部分刪除了。
 9.  **meditations**（6:14）
       -

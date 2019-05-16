@@ -31,7 +31,8 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、販賣�
 
   - **KOIBUMI**
       -
-        《[center color](../Page/center_color.md "wikilink")》（收錄remix
+        《[center
+        color](https://zh.wikipedia.org/wiki/center_color "wikilink")》（收錄remix
         version）
         《[Plain](https://zh.wikipedia.org/wiki/Plain "wikilink")》
   - **天未亮、夜已過**

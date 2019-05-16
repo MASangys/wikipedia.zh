@@ -1,11 +1,11 @@
 《**You're my
-sunshine**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")6張個人[單曲和代表作之一](../Page/單曲.md "wikilink")。1996年6月5日發行。
+sunshine**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠的第](../Page/安室奈美惠.md "wikilink")6張個人[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年6月5日發行。
 
 ## 簡介
 
-  - [安室奈美惠親自出演的](../Page/安室奈美惠.md "wikilink")[必治妥施貴寶](../Page/必治妥施貴寶.md "wikilink")（現
+  - [安室奈美惠親自出演的](../Page/安室奈美惠.md "wikilink")[必治妥施貴寶](https://zh.wikipedia.org/wiki/必治妥施貴寶 "wikilink")（現
     [資生堂](../Page/資生堂.md "wikilink")）「[SEA
-    BREEZE](../Page/SEA_BREEZE.md "wikilink")
+    BREEZE](https://zh.wikipedia.org/wiki/SEA_BREEZE "wikilink")
     '96」廣告的歌曲，廣告初期使用的歌曲版本和CD版本曲調有所不同。
 
 <!-- end list -->

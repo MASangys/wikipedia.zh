@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISTJ**(内倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")，在[柯尔塞气质类型测试中被称为](../Page/柯尔塞气质类型测试.md "wikilink")**[调查员](../Page/调查员_\(角色变异\).md "wikilink")**，属于[监护人的四种类型之一](../Page/监护人_\(气质类型\).md "wikilink")。\[1\]
+**ISTJ**(内倾/感觉/思考/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[调查员](https://zh.wikipedia.org/wiki/调查员_\(角色变异\) "wikilink")**，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")。\[1\]
 
 ISTJ大概占人口的10%-14%。\[2\]
 
@@ -23,7 +23,8 @@ ISTJ们是忠诚、逻辑性、有组织、明智而真诚的传统主义者。�
 
 虽然专注于内在世界，ISTJ也更喜欢处理现世的、实际的事务。作为敏锐的观察者，在做决定的时候他们权衡多方面的利弊。ISTJ们对大部分的可能性都做好了准备，对各种情形也有充分了解。他们相信现实的目标，而且把传统和忠诚看得很重。
 
-*柯尔塞类型描述请见[调查员 (角色变异)](../Page/调查员_\(角色变异\).md "wikilink")*。
+*柯尔塞类型描述请见[调查员
+(角色变异)](https://zh.wikipedia.org/wiki/调查员_\(角色变异\) "wikilink")*。
 
 ### 学习方式
 
@@ -77,10 +78,10 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
 
 ## 相关条目
 
-  - [MBTI](../Page/MBTI.md "wikilink")
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
-  - [监护人](../Page/监护人_\(气质类型\).md "wikilink")
-  - [调查员](../Page/调查员_\(角色变异\).md "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
+  - [监护人](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")
+  - [调查员](https://zh.wikipedia.org/wiki/调查员_\(角色变异\) "wikilink")
 
 ## 参考资料
 

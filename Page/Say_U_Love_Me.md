@@ -32,7 +32,7 @@ Me**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
 <tr class="even">
 <td><p>03</p></td>
 <td><p>Say U Love Me</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃尚偉" title="wikilink">黃尚偉</a></p></td>
+<td><p><a href="../Page/黃尚偉.md" title="wikilink">黃尚偉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳旅榮" title="wikilink">吳旅榮</a></p></td>
 <td><p>黃尚偉<br />
 C.Y.Kong</p></td>
@@ -87,7 +87,7 @@ C.Y.Kong</p></td>
 <td><p>09</p></td>
 <td><p>過界</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/井上能征" title="wikilink">井上能征</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/因葵" title="wikilink">因葵</a></p></td>
+<td><p><a href="../Page/因葵.md" title="wikilink">因葵</a></p></td>
 <td><p>C.Y.Kong</p></td>
 <td></td>
 </tr>

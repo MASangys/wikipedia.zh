@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INFP**（内倾/直觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")，在[柯尔塞气质类型测试中被称为](../Page/柯尔塞气质类型测试.md "wikilink")**[治疗者](../Page/治疗者_\(角色变异\).md "wikilink")**，属于[理想者的四种类型之一](../Page/理想者_\(气质类型\).md "wikilink")。\[1\]
+**INFP**（内倾/直觉/情感/理解）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[治疗者](https://zh.wikipedia.org/wiki/治疗者_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
 
 INFP大概占人口的1%-5%。\[2\]\[3\]
 
@@ -20,11 +20,11 @@ INFP大概占人口的1%-5%。\[2\]\[3\]
 
 ### 类型描述
 
-主条目：[治疗者 (角色变异)](../Page/治疗者_\(角色变异\).md "wikilink")
+主条目：[治疗者 (角色变异)](https://zh.wikipedia.org/wiki/治疗者_\(角色变异\) "wikilink")
 
 根据迈尔斯·布里格斯的说法，\[10\]INFP将他们的精力主要集中于内在世界，这世界里充满了强烈的感情和坚定的伦理道德信念。他们寻找一个能符合这些价值观的外在世界。他们对那些于他们重要的人和事很忠诚，也会迅速发现能实现他们理想的机遇。他们十分希望了解他们周围的人，通常随和、通情达理，除非他们的价值观受到威胁。
 
-根据[柯尔塞](../Page/大卫·柯尔塞.md "wikilink")，基于对举止的观察，有名的INFP可能包括[威尔斯王妃戴安娜](../Page/威尔斯王妃戴安娜.md "wikilink")、[乔治·奥威尔](../Page/乔治·奥威尔.md "wikilink")、[奥尔德斯·赫胥黎](../Page/奥尔德斯·赫胥黎.md "wikilink")、[奥黛丽·赫本](../Page/奥黛丽·赫本.md "wikilink")、[理查·基尔](../Page/理查·基尔.md "wikilink")、[艾伯特·史怀哲和](../Page/艾伯特·史怀哲.md "wikilink")[伊莎贝尔·迈尔斯](../Page/伊莎贝尔·迈尔斯.md "wikilink")。\[11\]
+根据[柯尔塞](https://zh.wikipedia.org/wiki/大卫·柯尔塞 "wikilink")，基于对举止的观察，有名的INFP可能包括[威尔斯王妃戴安娜](https://zh.wikipedia.org/wiki/威尔斯王妃戴安娜 "wikilink")、[乔治·奥威尔](../Page/乔治·奥威尔.md "wikilink")、[奥尔德斯·赫胥黎](../Page/奥尔德斯·赫胥黎.md "wikilink")、[奥黛丽·赫本](../Page/奥黛丽·赫本.md "wikilink")、[理查·基尔](https://zh.wikipedia.org/wiki/理查·基尔 "wikilink")、[艾伯特·史怀哲和](https://zh.wikipedia.org/wiki/艾伯特·史怀哲 "wikilink")[伊莎贝尔·迈尔斯](https://zh.wikipedia.org/wiki/伊莎贝尔·迈尔斯 "wikilink")。\[11\]
 
 ### 其他描述
 
@@ -75,8 +75,8 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 ## 相关条目
 
-  - [迈尔斯·布里格斯性格分类法](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")(MBTI)
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
+  - [迈尔斯·布里格斯性格分类法](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")(MBTI)
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
 
 ## 参考注释
 

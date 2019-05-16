@@ -1,7 +1,7 @@
 **Grml**
 是一個基於[Debian的](../Page/Debian.md "wikilink")[Linux](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。它能夠在[Live
 CD上運作](../Page/Live_CD.md "wikilink")，但也支持[隨身碟](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")。Grml很適合[系統管理員與進行一般文書工作的使用者](https://zh.wikipedia.org/wiki/系統管理員 "wikilink")。它包含了[X
-Window系統以及簡單的](../Page/X_Window系統.md "wikilink")[視窗管理員](https://zh.wikipedia.org/wiki/視窗管理員 "wikilink")，例如[wmii](https://zh.wikipedia.org/wiki/wmii "wikilink")、[fluxbox與](../Page/fluxbox.md "wikilink")[openbox](../Page/openbox.md "wikilink")。这讓它可以運作一些圖形介面應用程式，例如[Mozilla
+Window系統以及簡單的](../Page/X_Window系統.md "wikilink")[視窗管理員](https://zh.wikipedia.org/wiki/視窗管理員 "wikilink")，例如[wmii](https://zh.wikipedia.org/wiki/wmii "wikilink")、[fluxbox與](https://zh.wikipedia.org/wiki/fluxbox "wikilink")[openbox](https://zh.wikipedia.org/wiki/openbox "wikilink")。这讓它可以運作一些圖形介面應用程式，例如[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
 
 Grml的預設[shell為](https://zh.wikipedia.org/wiki/shell "wikilink")[zsh](../Page/Z_shell.md "wikilink")。

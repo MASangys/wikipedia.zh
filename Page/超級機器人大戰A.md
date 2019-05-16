@@ -1,6 +1,6 @@
 [Super_Robot_Wars_A_Portable.jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_A_Portable.jpg "fig:Super_Robot_Wars_A_Portable.jpg")
 
-《**超級機械人大戰A**》（），為[萬普的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。簡稱「機戰A」「SRWA」。
+《**超級機械人大戰A**》（），為[萬普的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「機戰A」「SRWA」。
 
 ## 概要
 

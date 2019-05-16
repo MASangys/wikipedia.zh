@@ -249,8 +249,9 @@
 
 ### 製作人員
 
-  - 原作：（[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")
-    [富士見書房刊](../Page/富士見書房.md "wikilink")「Dragon Comics Age」）
+  - 原作：（[KADOKAWA](../Page/KADOKAWA.md "wikilink")
+    [富士見書房刊](../Page/富士見書房.md "wikilink")「Dragon
+    Comics Age」）
   - 監督：[高見明男](https://zh.wikipedia.org/wiki/高見明男 "wikilink")、[加戶譽夫](../Page/加戶譽夫.md "wikilink")
   - 系列構成：[高山克彥](../Page/高山克彥.md "wikilink")
   - 角色設計、總作畫監督：高見明男

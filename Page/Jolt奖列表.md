@@ -1,4 +1,4 @@
-[Jolt奖是一个](../Page/Jolt奖.md "wikilink")[计算机领域的奖项](../Page/计算机.md "wikilink")，这里列出的是该奖的历史获奖记录。
+[Jolt奖是一个](../Page/Jolt奖.md "wikilink")[计算机领域的奖项](https://zh.wikipedia.org/wiki/计算机 "wikilink")，这里列出的是该奖的历史获奖记录。
 
 尽管该奖在业内较有知名度，并且受到一定程度的推崇，但由于官方网站缺乏历史记录，正式媒体中这类信息也非常的零散，因此只能从个人收集的各类信息中进行汇集。相对于书籍类而言，其它类型的奖项更加缺乏记录。因此，没有在此列出的非书籍类的奖项记录，并不代表当年没有评选该奖项，而是因历史记录零散而较难整理出来。具体的参考记录，请参见外部链接一节。
 
@@ -133,23 +133,23 @@
 
 ## 库和框架
 
-| 年度   | 奖项   | 产品                                       | 方向                                   | 公司（个人）                |
-| ---- | ---- | ---------------------------------------- | ------------------------------------ | --------------------- |
-| 2003 | 震撼奖  | Hibernate 2.1                            | [ORM](../Page/ORM.md "wikilink")     | Hibernate（开源项目）       |
-| 2003 | 生产力奖 | JViews5.5                                |                                      | ILOG                  |
-| 2003 | 生产力奖 | Prevayler1.02.002                        |                                      | Klaus Westefeld（开源项目） |
-| 2003 | 生产力奖 | JClassServeViews                         |                                      | Quest Software        |
-| 2004 | 震撼奖  | Hibernate 2.1                            | [ORM](../Page/ORM.md "wikilink")     | JBoss                 |
-| 2004 | 生产力奖 | ImageGear Professional 14                |                                      | AccuSoft              |
-| 2004 | 生产力奖 | Sun Java 2 Platform Standard Edition 5.0 |                                      | Sun Microsystem       |
-| 2004 | 生产力奖 | Xtreme Toolkit 9.51 Professional Edition |                                      | Codejock              |
-| 2008 | 震撼奖  | Guice                                    |                                      | Google                |
-| 2008 | 生产力奖 | Eclipse Modeling Project                 |                                      | Eclipse Foundation    |
-| 2008 | 生产力奖 | Zend Framework                           |                                      | Zend Technologies     |
-| 2008 | 生产力奖 | JasperReports                            |                                      | JasperSoft            |
-| 2010 | 震撼奖  | Telerik's Premium Collection for .NET    | [.NET组件](../Page/.NET.md "wikilink") | Telerik               |
-| 2010 | 生产力奖 | /n software's Red Carpet Subscription    | 跨平台协议组件                              |                       |
-| 2010 | 生产力奖 | JUCE（Jules' Utility Class Extensions）    | C++人机界面库                             |                       |
+| 年度   | 奖项   | 产品                                       | 方向                                                      | 公司（个人）                |
+| ---- | ---- | ---------------------------------------- | ------------------------------------------------------- | --------------------- |
+| 2003 | 震撼奖  | Hibernate 2.1                            | [ORM](https://zh.wikipedia.org/wiki/ORM "wikilink")     | Hibernate（开源项目）       |
+| 2003 | 生产力奖 | JViews5.5                                |                                                         | ILOG                  |
+| 2003 | 生产力奖 | Prevayler1.02.002                        |                                                         | Klaus Westefeld（开源项目） |
+| 2003 | 生产力奖 | JClassServeViews                         |                                                         | Quest Software        |
+| 2004 | 震撼奖  | Hibernate 2.1                            | [ORM](https://zh.wikipedia.org/wiki/ORM "wikilink")     | JBoss                 |
+| 2004 | 生产力奖 | ImageGear Professional 14                |                                                         | AccuSoft              |
+| 2004 | 生产力奖 | Sun Java 2 Platform Standard Edition 5.0 |                                                         | Sun Microsystem       |
+| 2004 | 生产力奖 | Xtreme Toolkit 9.51 Professional Edition |                                                         | Codejock              |
+| 2008 | 震撼奖  | Guice                                    |                                                         | Google                |
+| 2008 | 生产力奖 | Eclipse Modeling Project                 |                                                         | Eclipse Foundation    |
+| 2008 | 生产力奖 | Zend Framework                           |                                                         | Zend Technologies     |
+| 2008 | 生产力奖 | JasperReports                            |                                                         | JasperSoft            |
+| 2010 | 震撼奖  | Telerik's Premium Collection for .NET    | [.NET组件](https://zh.wikipedia.org/wiki/.NET "wikilink") | Telerik               |
+| 2010 | 生产力奖 | /n software's Red Carpet Subscription    | 跨平台协议组件                                                 |                       |
+| 2010 | 生产力奖 | JUCE（Jules' Utility Class Extensions）    | C++人机界面库                                                |                       |
 
 ## 移动设备及网站开发
 
@@ -364,20 +364,20 @@
 
 截至2010年，获得该项荣誉的产品包括：\[1\]
 
-| 年度   | 产品                                                                | 公司                                                    |
-| ---- | ----------------------------------------------------------------- | ----------------------------------------------------- |
-| 2007 | [VMware Workstation](../Page/VMware_Workstation.md "wikilink")    | [VMware](../Page/VMware.md "wikilink")                |
-| 2006 | IBM developerWorks                                                | [IBM](../Page/IBM.md "wikilink")                      |
-| 2005 | [Visual Studio Professional](../Page/Visual_Studio.md "wikilink") | [微软](../Page/微软.md "wikilink")                        |
-| 2004 | [InstallShield](../Page/InstallShield.md "wikilink")              | [Macrovision](../Page/Macrovision.md "wikilink")      |
-| 2003 | [Dreamweaver](../Page/Dreamweaver.md "wikilink")                  | [Macromedia](../Page/Macromedia.md "wikilink")        |
-| 2002 | [MSDN](../Page/MSDN.md "wikilink")                                | [微软](../Page/微软.md "wikilink")                        |
-| 2001 | *（公司）*                                                            | [Borland](../Page/Borland.md "wikilink")              |
-| 2000 | Visual SlickEdit                                                  | [MicroEdge](../Page/MicroEdge.md "wikilink")          |
-| 1999 | *（公司）*                                                            | [O’Reilly and Associates](../Page/奥莱理.md "wikilink")  |
-| 1998 | [Visio](../Page/Visio.md "wikilink")                              | Visio Corperation（已被[微软收购](../Page/微软.md "wikilink")） |
-| 1997 | [Visual Basic](../Page/Visual_Basic.md "wikilink")                | [微软](../Page/微软.md "wikilink")                        |
-| 1996 | BoundsChecker                                                     | [NuMega](../Page/NuMega.md "wikilink")                |
+| 年度   | 产品                                                                                   | 公司                                                                      |
+| ---- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 2007 | [VMware Workstation](../Page/VMware_Workstation.md "wikilink")                       | [VMware](../Page/VMware.md "wikilink")                                  |
+| 2006 | IBM developerWorks                                                                   | [IBM](../Page/IBM.md "wikilink")                                        |
+| 2005 | [Visual Studio Professional](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink") | [微软](../Page/微软.md "wikilink")                                          |
+| 2004 | [InstallShield](../Page/InstallShield.md "wikilink")                                 | [Macrovision](https://zh.wikipedia.org/wiki/Macrovision "wikilink")     |
+| 2003 | [Dreamweaver](https://zh.wikipedia.org/wiki/Dreamweaver "wikilink")                  | [Macromedia](../Page/Macromedia.md "wikilink")                          |
+| 2002 | [MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")                                | [微软](../Page/微软.md "wikilink")                                          |
+| 2001 | *（公司）*                                                                               | [Borland](../Page/Borland.md "wikilink")                                |
+| 2000 | Visual SlickEdit                                                                     | [MicroEdge](https://zh.wikipedia.org/wiki/MicroEdge "wikilink")         |
+| 1999 | *（公司）*                                                                               | [O’Reilly and Associates](https://zh.wikipedia.org/wiki/奥莱理 "wikilink") |
+| 1998 | [Visio](https://zh.wikipedia.org/wiki/Visio "wikilink")                              | Visio Corperation（已被[微软收购](../Page/微软.md "wikilink")）                   |
+| 1997 | [Visual Basic](../Page/Visual_Basic.md "wikilink")                                   | [微软](../Page/微软.md "wikilink")                                          |
+| 1996 | BoundsChecker                                                                        | [NuMega](https://zh.wikipedia.org/wiki/NuMega "wikilink")               |
 
 ## 参见
 

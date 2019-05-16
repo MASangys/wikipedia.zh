@@ -747,7 +747,7 @@ NMAX-1138</p></td>
 <td><p>2012年<br />
 12月5日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></strong></p></td>
+<td><p><strong><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -803,7 +803,7 @@ NMAX-1145</p></td>
 <td><p>2013年<br />
 5月22日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a></strong></p></td>
+<td><p><strong><a href="../Page/再見自由式.md" title="wikilink">再見自由式</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -907,7 +907,7 @@ CD</p></td>
 <td><p>2014年<br />
 2月26日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a></strong></p></td>
+<td><p><strong><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -933,7 +933,7 @@ CD</p></td>
 <td><p>2014年<br />
 5月21日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></strong></p></td>
+<td><p><strong><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -991,7 +991,7 @@ CD</p></td>
 <td><p>2014年<br />
 11月26日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></strong></p></td>
+<td><p><strong><a href="../Page/希望無限.md" title="wikilink">希望無限</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1019,7 +1019,7 @@ CD</p></td>
 <td><p>39</p></td>
 <td><p>2015年<br />
 3月4日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></strong></p></td>
+<td><p><strong><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></strong></p></td>
 <td><center>
 <p>第1名</p>
 </center></td>
@@ -1445,15 +1445,15 @@ CD</p></td>
 
 ### 獨家下載
 
-| 序号                                                                                               | 发售日        | 曲名                                                                                                                | 备注                                                                                     |
-| ------------------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [AKS](../Page/AKS.md "wikilink")                                                                 |            |                                                                                                                   |                                                                                        |
-| 9                                                                                                | 2008年6月13日 | **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**                                               | 由[i-mode和](../Page/i-mode.md "wikilink")[Napster提供獨家下載](../Page/Napster.md "wikilink") |
-| \-                                                                                               | 2009年8月29日 | **[感謝 -2010夏 ver.-](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**                                              | 在[日本電視台的手機網頁上提供限時獨家下載](../Page/日本電視台.md "wikilink")                                    |
-| [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS](../Page/國王唱片.md "wikilink") |            |                                                                                                                   |                                                                                        |
-| \-                                                                                               | 2011年4月1日  | **[为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")** | 由RecoChoku提供搶先獨家下載、[「為了誰」計劃赈灾复兴应援曲](../Page/「為了誰」計劃.md "wikilink")                     |
-| 无厂牌                                                                                              |            |                                                                                                                   |                                                                                        |
-| \-                                                                                               | 2013年3月8日  | **[掌心语](https://zh.wikipedia.org/wiki/掌心语 "wikilink")**                                                           | 免费下载、「為了誰」計劃赈灾复兴应援曲                                                                    |
+| 序号                                                                                               | 发售日        | 曲名                                                                                                                | 备注                                                                                                        |
+| ------------------------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [AKS](../Page/AKS.md "wikilink")                                                                 |            |                                                                                                                   |                                                                                                           |
+| 9                                                                                                | 2008年6月13日 | **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**                                               | 由[i-mode和](https://zh.wikipedia.org/wiki/i-mode "wikilink")[Napster提供獨家下載](../Page/Napster.md "wikilink") |
+| \-                                                                                               | 2009年8月29日 | **[感謝 -2010夏 ver.-](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**                                              | 在[日本電視台的手機網頁上提供限時獨家下載](../Page/日本電視台.md "wikilink")                                                       |
+| [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS](../Page/國王唱片.md "wikilink") |            |                                                                                                                   |                                                                                                           |
+| \-                                                                                               | 2011年4月1日  | **[为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")** | 由RecoChoku提供搶先獨家下載、[「為了誰」計劃赈灾复兴应援曲](../Page/「為了誰」計劃.md "wikilink")                                        |
+| 无厂牌                                                                                              |            |                                                                                                                   |                                                                                                           |
+| \-                                                                                               | 2013年3月8日  | **[掌心语](https://zh.wikipedia.org/wiki/掌心语 "wikilink")**                                                           | 免费下载、「為了誰」計劃赈灾复兴应援曲                                                                                       |
 
 ## 专辑
 
@@ -1683,7 +1683,7 @@ CD</p></td>
 <td><p>4</p></td>
 <td><p>2015年1月21日</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/這裡是羅德斯島、在這裡跳吧！" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></strong></p></td>
+<td><p><strong><a href="../Page/這裡是羅德斯島、在這裡跳吧！.md" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></strong></p></td>
 <td><p>第1名</p></td>
 <td><center>
 <p>19</p>
@@ -2356,7 +2356,7 @@ Blu-ray</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2007年7月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_春季之全国小小巡演～路还远着呢AKB48!～" title="wikilink">AKB48 春季之全国小小巡演～路还远着呢AKB48!～</a><br />
+<td><p><a href="../Page/AKB48_春季之全国小小巡演～路还远着呢AKB48!～.md" title="wikilink">AKB48 春季之全国小小巡演～路还远着呢AKB48!～</a><br />
 in 东京厚生年金会馆</p></td>
 <td><p>DefSTAR Records</p></td>
 <td><p>DFBL-7102</p></td>
@@ -2365,7 +2365,7 @@ in 东京厚生年金会馆</p></td>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2008年7月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100" title="wikilink">AKB48 重温时间 最佳曲目100</a></p></td>
+<td><p><a href="../Page/AKB48_重温时间_最佳曲目100.md" title="wikilink">AKB48 重温时间 最佳曲目100</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2003</p></td>
 <td></td>
@@ -2373,7 +2373,7 @@ in 东京厚生年金会馆</p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2008年11月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！" title="wikilink">大概会出演唱会DVD、不过现场看机会有限！<br />
+<td><p><a href="../Page/大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！.md" title="wikilink">大概会出演唱会DVD、不过现场看机会有限！<br />
 AKB48夏日祭！</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2008<br />
@@ -2423,7 +2423,7 @@ DVD</p></td>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2009年11月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48分身之術巡演／AKB104選拔成員組閣祭" title="wikilink">AKB48分身之術巡演／AKB104選拔成員組閣祭</a></p></td>
+<td><p><a href="../Page/AKB48分身之術巡演／AKB104選拔成員組閣祭.md" title="wikilink">AKB48分身之術巡演／AKB104選拔成員組閣祭</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2027<br />
 AKB-D2027a<br />
@@ -2531,7 +2531,7 @@ TeamB Ver. BOX<br />
 <tr class="even">
 <td><p>18</p></td>
 <td><p>2011年2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KYORAKU_PRESENTS_AKB48_SKE48_LIVE_IN_ASIA" title="wikilink">KYORAKU PRESENTS AKB48 SKE48 LIVE IN ASIA</a></p></td>
+<td><p><a href="../Page/KYORAKU_PRESENTS_AKB48_SKE48_LIVE_IN_ASIA.md" title="wikilink">KYORAKU PRESENTS AKB48 SKE48 LIVE IN ASIA</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AS-0001</p></td>
 <td></td>
@@ -2610,7 +2610,7 @@ AKB-D2170</p></td>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>2012年2月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB滿載～SUMMER_TOUR_2011～" title="wikilink">AKB滿載〜SUMMER TOUR 2011〜</a></p></td>
+<td><p><a href="../Page/AKB滿載～SUMMER_TOUR_2011～.md" title="wikilink">AKB滿載〜SUMMER TOUR 2011〜</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2104<br />
 AKB-D2105<br />
@@ -2627,7 +2627,7 @@ Team 4/鳥取公演</p></td>
 <td><p>24</p></td>
 <td><p>2012年3月21日</p></td>
 <td><p>AKB48 in <a href="https://zh.wikipedia.org/wiki/a-nation" title="wikilink">a-nation</a> 2011</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>AVBD 91937-8<br />
 AVBD 91937-8</p></td>
 <td><p>初回限定生产BOX<br />
@@ -2751,7 +2751,7 @@ AKB-D2149</p></td>
 <tr class="even">
 <td><p>32</p></td>
 <td><p>2013年3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第2屆AKB48红白对抗歌合战" title="wikilink">第2屆AKB48红白对抗歌合战</a></p></td>
+<td><p><a href="../Page/第2屆AKB48红白对抗歌合战.md" title="wikilink">第2屆AKB48红白对抗歌合战</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2150<br />
 AKB-D2151</p></td>
@@ -2837,7 +2837,7 @@ Blu-ray</p></td>
 <tr class="even">
 <td><p>36</p></td>
 <td><p>2013年11月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48团研究生演唱会“早推得胜”" title="wikilink">AKB48团研究生演唱会“早推得胜”</a></p></td>
+<td><p><a href="../Page/AKB48团研究生演唱会“早推得胜”.md" title="wikilink">AKB48团研究生演唱会“早推得胜”</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2212<br />
 AKB-D2213</p></td>
@@ -2861,7 +2861,7 @@ SINGLE SELECTION（Blu-ray）</p></td>
 <tr class="even">
 <td><p>38</p></td>
 <td><p>2014年4月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第3届AKB48红白对抗歌合战" title="wikilink">第3届AKB48红白对抗歌合战</a></p></td>
+<td><p><a href="../Page/第3届AKB48红白对抗歌合战.md" title="wikilink">第3届AKB48红白对抗歌合战</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2219<br />
 AKB-D2220</p></td>
@@ -2883,7 +2883,7 @@ AKB-D2222</p></td>
 <td><p>40</p></td>
 <td><p>2014年6月7日-8日<br />
 2014年6月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48單獨與集團國立競技場春季演唱會" title="wikilink">AKB48单独国立竞技场春季演唱会〜在这里丢掉全部回忆向前冲！〜</a></p></td>
+<td><p><a href="../Page/AKB48單獨與集團國立競技場春季演唱會.md" title="wikilink">AKB48单独国立竞技场春季演唱会〜在这里丢掉全部回忆向前冲！〜</a></p></td>
 <td><p>AKS</p></td>
 <td><p>AKB-D2224<br />
 AKB-D2225</p></td>
@@ -3241,7 +3241,7 @@ Blu-ray</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2010年1月20日</p></td>
-<td><p>Vol.3『<a href="https://zh.wikipedia.org/wiki/AKB48_NY公演" title="wikilink">AKB48 海外遠征 2009</a>』</p></td>
+<td><p>Vol.3『<a href="../Page/AKB48_NY公演.md" title="wikilink">AKB48 海外遠征 2009</a>』</p></td>
 <td><p>AKB-D2033</p></td>
 <td></td>
 </tr>
@@ -3446,7 +3446,7 @@ TDV23020D</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年6月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/So_long_!_(日本電視劇)" title="wikilink">So long !</a></p></td>
+<td><p><a href="../Page/So_long_!_(日本電視劇).md" title="wikilink">So long !</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBX-10920<br />
 VPBX-10921<br />
@@ -3476,7 +3476,7 @@ CXDV-0104</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年10月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水手服殭屍" title="wikilink">水手服殭屍</a></p></td>
+<td><p><a href="../Page/水手服殭屍.md" title="wikilink">水手服殭屍</a></p></td>
 <td><p><a href="../Page/東寶.md" title="wikilink">東寶</a></p></td>
 <td><p>TDV24789D<br />
 TDV24790D</p></td>
@@ -4112,7 +4112,7 @@ AKB-D2124</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年12月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/週六夜兒童機器" title="wikilink">週六夜兒童機器</a></p></td>
+<td><p><a href="../Page/週六夜兒童機器.md" title="wikilink">週六夜兒童機器</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBF-10942<br />
 VPBF-10493</p></td>
@@ -4128,7 +4128,7 @@ VPBF-10493</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年4月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！" title="wikilink">小瓢蟲Chu!的讓全世界都迷上宣言！</a></p></td>
+<td><p><a href="../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md" title="wikilink">小瓢蟲Chu!的讓全世界都迷上宣言！</a></p></td>
 <td><p>VAP</p></td>
 <td><p>VPBF-29907<br />
 VPXF-72942</p></td>
@@ -4225,7 +4225,7 @@ VPXT-71260</p></td>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2013年4月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_笑淚交織" title="wikilink">DOCUMENTARY of AKB48 NO FLOWER WITHOUT RAIN<br />
+<td><p><a href="../Page/AKB48_笑淚交織.md" title="wikilink">DOCUMENTARY of AKB48 NO FLOWER WITHOUT RAIN<br />
 少女們在眼淚背後看到什麼?</a></p></td>
 <td><p>東宝</p></td>
 <td><p>TBR23180D<br />
@@ -4592,8 +4592,9 @@ Blu-ray</p></td>
     「AKB48最新トピックス」連載。
 
   - [an・an](https://zh.wikipedia.org/wiki/an・an "wikilink")（2012年6月6日 -
-    、[MAGAZINE HOUSE](../Page/MAGAZINE_HOUSE.md "wikilink")） - 「AKB48
-    HOW DO I LOOK? スナッププリンセス」連載。
+    、[MAGAZINE
+    HOUSE](https://zh.wikipedia.org/wiki/MAGAZINE_HOUSE "wikilink")） -
+    「AKB48 HOW DO I LOOK? スナッププリンセス」連載。
 
   - [读卖新聞](https://zh.wikipedia.org/wiki/读卖新聞 "wikilink")（[讀賣新聞社](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")）
 
@@ -4886,7 +4887,7 @@ TeamZ 原作・原聲帶[8]<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td></td>
 <td></td>
 <td></td>

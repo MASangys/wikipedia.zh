@@ -34,7 +34,7 @@
     主題曲集2～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_～名偵探柯南_主題曲集2～ "wikilink")
   - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")
   - [THE BEST OF DETECTIVE CONAN ～The Movie Themes
-    Collection～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～ "wikilink")
+    Collection～](../Page/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～.md "wikilink")
   - [ALL MY BEST](../Page/ALL_MY_BEST.md "wikilink")（theater version）
   - [MAI KURAKI BEST 151A -LOVE &
     HOPE-](https://zh.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE- "wikilink")（theater

@@ -27,7 +27,7 @@ C函式庫(glibc)的『GNU較寬鬆公共授權條款』。
 ## 相關條目
 
   - [Newlib](https://zh.wikipedia.org/wiki/Newlib "wikilink")
-  - [uClibc](../Page/uClibc.md "wikilink")
+  - [uClibc](https://zh.wikipedia.org/wiki/uClibc "wikilink")
 
 [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")

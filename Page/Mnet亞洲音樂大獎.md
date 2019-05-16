@@ -278,7 +278,7 @@ V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink"
 <td><p>12月10日（星期一）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首尔" title="wikilink">首尔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東大門設計廣場" title="wikilink">東大門設計廣場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁海寅" title="wikilink">丁海寅</a></p></td>
+<td><p><a href="../Page/丁海寅.md" title="wikilink">丁海寅</a></p></td>
 <td><p>挑战（Challenge）</p></td>
 <td></td>
 </tr>
@@ -382,7 +382,7 @@ V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink"
     （[2015](http://www.iqiyi.com/kszt/2015mama.html)-16年）
   - [香港](../Page/香港.md "wikilink")：[TVB](../Page/電視廣播有限公司.md "wikilink")
     [J2](../Page/J2.md "wikilink")（2012-2014年、2015年錄播）、[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[Good
-    Show台](../Page/TVB_Good_Show台.md "wikilink")（2013年\[8\]）、[myTV](../Page/myTV.md "wikilink")（2015年\[9\]）、[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")/[ViuTVsix](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")（2016年-2018年）、[Joox](https://zh.wikipedia.org/wiki/Joox "wikilink")（2018年）\[10\]
+    Show台](../Page/TVB_Good_Show台.md "wikilink")（2013年\[8\]）、[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（2015年\[9\]）、[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")/[ViuTVsix](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")（2016年-2018年）、[Joox](https://zh.wikipedia.org/wiki/Joox "wikilink")（2018年）\[10\]
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：[衛視合家歡台](../Page/衛視合家歡台.md "wikilink")（2010年）、[雅虎台灣](../Page/雅虎.md "wikilink")-韓流風（2012、2013年）、[FOX娛樂台](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")（2012-2013年）、台灣[MTV](../Page/音樂電視網.md "wikilink")（2015-2016年）、[Channel
     M](https://zh.wikipedia.org/wiki/Channel_M "wikilink")（2015-2016年）、[tvN
     Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")(2017年
@@ -390,7 +390,7 @@ V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink"
   - [日本](../Page/日本.md "wikilink")：Mnet Media旗下頻道Mnet
     Japan（待查-2018年）、[雅虎日本](../Page/雅虎.md "wikilink")（待查）
   - [新加坡](../Page/新加坡.md "wikilink")：[新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")（2010-2014年）、[MSN](../Page/MSN.md "wikilink")（2010-2014年\[11\]）、TOGGLE（2018年）
-  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：[八度空间](../Page/八度空间_\(电视台\).md "wikilink")（2011年、2014年\[12\]、2015年、2016年，延遲2小時播出）、[Astro全佳HD](https://zh.wikipedia.org/wiki/Astro全佳HD "wikilink")（2013年）
+  - [馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")：[八度空间](../Page/八度空间_\(电视台\).md "wikilink")（2011年、2014年\[12\]、2015年、2016年，延遲2小時播出）、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")（2013年）
   - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")：Mnet Media旗下頻道Mnet
     America及其[YouTube頻道](../Page/YouTube.md "wikilink")（待查-2016年）
   - [東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")：tvN
@@ -413,7 +413,7 @@ K](https://zh.wikipedia.org/wiki/SUPER_STAR_K "wikilink")》的贏家[徐仁國�
 
 2010年，[2AM](../Page/2AM.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")\[13\]
 、[Super
-Junior](../Page/Super_Junior.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[KARA](../Page/KARA.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Rain](../Page/Rain.md "wikilink")\[14\]\[15\]、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")、[寶兒](../Page/寶兒.md "wikilink")、[After
+Junior](../Page/Super_Junior.md "wikilink")、[4minute](../Page/4minute.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[Rain](../Page/Rain.md "wikilink")\[14\]\[15\]、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")、[寶兒](../Page/寶兒.md "wikilink")、[After
 School](../Page/After_School.md "wikilink")\[16\]、[孫淡妃](../Page/孫淡妃.md "wikilink")\[17\]、[李孝利](../Page/李孝利.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")\[18\]、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")\[19\]、[G.NA](../Page/G.NA.md "wikilink")、[Davichi](../Page/Davichi.md "wikilink")\[20\]和[Rainbow均獲得提名而沒有出席典禮](https://zh.wikipedia.org/wiki/Rainbow "wikilink")，大多數問題在於需要直播的頒獎典禮與[SBS每週現場直播的音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》時間衝突。另外[MBK娛樂在聲明中指出](../Page/MBK娛樂.md "wikilink")[T-ara和](https://zh.wikipedia.org/wiki/T-ara "wikilink")[Davichi因為檔期衝突而不能出席](../Page/Davichi.md "wikilink")；[JYP娛樂和](../Page/JYP娛樂.md "wikilink")[Pledis娛樂也表示旗下藝人不能出席](../Page/Pledis娛樂.md "wikilink")；[Cube娛樂則在官方](../Page/Cube娛樂.md "wikilink")[Twitter上說明旗下藝人無法出席](../Page/Twitter.md "wikilink")\[21\]；而[CNBLUE所屬公司](../Page/CNBLUE.md "wikilink")[FNC娛樂發表正式聲明表示儘管被提名](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")「最佳新秀」、「最佳樂隊表演」和「新羅免稅店亞洲新浪潮」等獎項，[CNBLUE仍因個人活動而無法出席](../Page/CNBLUE.md "wikilink")，原因在於[CNBLUE成員](../Page/CNBLUE.md "wikilink")[鄭容和是](../Page/鄭容和.md "wikilink")[人氣歌謠三位主持之一](../Page/人气歌谣.md "wikilink")，[姜敏赫則要參與即將在](../Page/姜敏赫.md "wikilink")[SBS上映的電視劇拍攝](../Page/SBS_\(韓國\).md "wikilink")。此外，[寶兒雖於本年獲得](../Page/寶兒.md "wikilink")「最佳女歌手獎」，礙於其經紀公司[SM娛樂與主辦方的爭議未出席領獎](../Page/SM娛樂.md "wikilink")，該獎項的片段亦沒有播出；而獲得「最佳新人男組合獎」的[CNBLUE](../Page/CNBLUE.md "wikilink")、「最佳歌唱表演組合獎」的[2AM](../Page/2AM.md "wikilink")、「最佳協作獎」的[趙權](../Page/趙權.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）以及[GaIn](../Page/孙佳人.md "wikilink")（[Brown
 Eyed
 Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出，其中[趙權及](../Page/趙權.md "wikilink")[GaIn因出席會議而無法參與](../Page/孙佳人.md "wikilink")。
@@ -428,22 +428,22 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 
 #### 年度專輯
 
-| 屆數 | 年份    | 歌手                                                      | 專輯                                                                                          |
-| -- | ----- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 6  | 2004年 | [Rain](../Page/Rain.md "wikilink")                      | 《It's Raining》                                                                              |
-| 8  | 2006年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")          | 《The 3 Masterpiece》                                                                         |
-| 9  | 2007年 | [Epik High](../Page/Epik_High.md "wikilink")            | 《Remapping the Human Soul》                                                                  |
-| 10 | 2008年 | [東方神起](../Page/東方神起.md "wikilink")                      | 《Mirotic》                                                                                   |
-| 11 | 2009年 | [G-Dragon](../Page/G-Dragon.md "wikilink")              | 《Heartbreaker》                                                                              |
-| 12 | 2010年 | [2NE1](../Page/2NE1.md "wikilink")                      | 《To Anyone》                                                                                 |
-| 13 | 2011年 | [Super Junior](../Page/Super_Junior.md "wikilink")      | 《[Mr. Simple](../Page/Mr._Simple.md "wikilink")》                                            |
-| 14 | 2012年 | 《Sexy, Free & Single》                                   |                                                                                             |
-| 15 | 2013年 | [EXO](../Page/EXO.md "wikilink")                        | 《XOXO》                                                                                      |
-| 16 | 2014年 | 《Overdose》                                              |                                                                                             |
-| 17 | 2015年 | 《EXODUS》                                                |                                                                                             |
-| 18 | 2016年 | 《EX'ACT》                                                |                                                                                             |
-| 19 | 2017年 | 《The War》                                               |                                                                                             |
-| 20 | 2018年 | [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink") | 《[Love Yourself 轉 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》 |
+| 屆數 | 年份    | 歌手                                                 | 專輯                                                                                          |
+| -- | ----- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 6  | 2004年 | [Rain](../Page/Rain.md "wikilink")                 | 《It's Raining》                                                                              |
+| 8  | 2006年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")     | 《The 3 Masterpiece》                                                                         |
+| 9  | 2007年 | [Epik High](../Page/Epik_High.md "wikilink")       | 《Remapping the Human Soul》                                                                  |
+| 10 | 2008年 | [東方神起](../Page/東方神起.md "wikilink")                 | 《Mirotic》                                                                                   |
+| 11 | 2009年 | [G-Dragon](../Page/G-Dragon.md "wikilink")         | 《Heartbreaker》                                                                              |
+| 12 | 2010年 | [2NE1](../Page/2NE1.md "wikilink")                 | 《To Anyone》                                                                                 |
+| 13 | 2011年 | [Super Junior](../Page/Super_Junior.md "wikilink") | 《[Mr. Simple](../Page/Mr._Simple.md "wikilink")》                                            |
+| 14 | 2012年 | 《Sexy, Free & Single》                              |                                                                                             |
+| 15 | 2013年 | [EXO](../Page/EXO.md "wikilink")                   | 《XOXO》                                                                                      |
+| 16 | 2014年 | 《Overdose》                                         |                                                                                             |
+| 17 | 2015年 | 《EXODUS》                                           |                                                                                             |
+| 18 | 2016年 | 《EX'ACT》                                           |                                                                                             |
+| 19 | 2017年 | 《The War》                                          |                                                                                             |
+| 20 | 2018年 | [防彈少年團](../Page/防彈少年團.md "wikilink")               | 《[Love Yourself 轉 'Tear'](https://zh.wikipedia.org/wiki/Love_Yourself_轉_'Tear' "wikilink")》 |
 
 #### 年度歌手
 
@@ -461,35 +461,35 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 | 15 | 2013年 | [G-Dragon](../Page/G-Dragon.md "wikilink")                  |
 | 16 | 2014年 | [EXO](../Page/EXO.md "wikilink")                            |
 | 17 | 2015年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") |
-| 18 | 2016年 | [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")     |
+| 18 | 2016年 | [防彈少年團](../Page/防彈少年團.md "wikilink")                        |
 | 19 | 2017年 |                                                             |
 | 20 | 2018年 |                                                             |
 
 #### 年度歌曲
 
-| 屆數 | 年份    | 歌手                                                          | 歌曲                                         |
-| -- | ----- | ----------------------------------------------------------- | ------------------------------------------ |
-| 6  | 2004年 | [Rain](../Page/Rain.md "wikilink")                          | 《It's Raining》                             |
-| 8  | 2006年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")              | 《Partner for Life》                         |
-| 9  | 2007年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《Lies》\[23\]                               |
-| 10 | 2008年 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")          | 《Nobody》                                   |
-| 11 | 2009年 | [2NE1](../Page/2NE1.md "wikilink")                          | 《I Don't Care》                             |
-| 12 | 2010年 | [miss A](../Page/miss_A.md "wikilink")                      | 《Bad Girl Good Girl》                       |
-| 13 | 2011年 | [2NE1](../Page/2NE1.md "wikilink")                          | 《I Am the Best》                            |
-| 14 | 2012年 | [PSY](../Page/PSY.md "wikilink")                            | 《[江南Style](../Page/江南style.md "wikilink")》 |
-| 15 | 2013年 | [趙容弼](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")         | 《Bounce》                                   |
-| 16 | 2014年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                       | 《Eyes, Nose, Lips》                         |
-| 17 | 2015年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《BANG BANG BANG》                           |
-| 18 | 2016年 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")     | 《CHEER UP》                                 |
-| 19 | 2017年 | 《SIGNAL》                                                    |                                            |
-| 20 | 2018年 | 《What is Love?》                                             |                                            |
-|    |       |                                                             |                                            |
+| 屆數 | 年份    | 歌手                                                          | 歌曲                                                            |
+| -- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------- |
+| 6  | 2004年 | [Rain](../Page/Rain.md "wikilink")                          | 《It's Raining》                                                |
+| 8  | 2006年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")              | 《Partner for Life》                                            |
+| 9  | 2007年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《Lies》\[23\]                                                  |
+| 10 | 2008年 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")          | 《Nobody》                                                      |
+| 11 | 2009年 | [2NE1](../Page/2NE1.md "wikilink")                          | 《I Don't Care》                                                |
+| 12 | 2010年 | [miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")   | 《Bad Girl Good Girl》                                          |
+| 13 | 2011年 | [2NE1](../Page/2NE1.md "wikilink")                          | 《I Am the Best》                                               |
+| 14 | 2012年 | [PSY](../Page/PSY.md "wikilink")                            | 《[江南Style](https://zh.wikipedia.org/wiki/江南style "wikilink")》 |
+| 15 | 2013年 | [趙容弼](https://zh.wikipedia.org/wiki/趙容弼 "wikilink")         | 《Bounce》                                                      |
+| 16 | 2014年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                       | 《Eyes, Nose, Lips》                                            |
+| 17 | 2015年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《BANG BANG BANG》                                              |
+| 18 | 2016年 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")     | 《CHEER UP》                                                    |
+| 19 | 2017年 | 《SIGNAL》                                                    |                                                               |
+| 20 | 2018年 | 《What is Love?》                                             |                                                               |
+|    |       |                                                             |                                                               |
 
 #### 年度全球偶像
 
-| 屆數 | 年份    | 歌手                                                      |
-| -- | ----- | ------------------------------------------------------- |
-| 20 | 2018年 | [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink") |
+| 屆數 | 年份    | 歌手                                   |
+| -- | ----- | ------------------------------------ |
+| 20 | 2018年 | [防彈少年團](../Page/防彈少年團.md "wikilink") |
 
 ### 停止頒獎
 
@@ -520,28 +520,28 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 
 #### 最佳男/女歌手
 
-| 屆數 | 年份    | 男歌手                                                         | 歌曲                                                       | 女歌手                                                      | 歌曲                |
-| -- | ----- | ----------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
-| 1  | 1999年 | 李承桓（이승환）                                                    | 《Glucose》                                                | [嚴正化](../Page/嚴正化.md "wikilink")                         | 《Don't Know》      |
-| 2  | 2000年 | 申昇勳                                                         | 《전설 속의 누군가처럼》                                            | [朴志胤](../Page/朴志胤.md "wikilink")                         | 《성인식》             |
-| 3  | 2001年 | [成始璄](../Page/成始璄.md "wikilink")                            | 《우린 제법 잘 어울려요》                                           | 金賢政                                                      | 《떠난 너》            |
-| 4  | 2002年 | \-                                                          | [張娜拉](../Page/張娜拉.md "wikilink")                         | 《Sweet Dream》                                            |                   |
-| 5  | 2003年 | [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")           | 《With Me》                                                | [李秀英](https://zh.wikipedia.org/wiki/李秀英 "wikilink")      | 《덩그러니》            |
-| 6  | 2004年 | [SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink")     | 《Passion》                                                | 《휠릴리》                                                    |                   |
-| 7  | 2005年 | [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")         | \-                                                       | [寶兒](../Page/寶兒.md "wikilink")                           | \-                |
-| 8  | 2006年 | [Rain](../Page/Rain.md "wikilink")                          | \-                                                       | [白智榮](../Page/白智榮.md "wikilink")                         | \-                |
-| 9  | 2007年 | [李昇基](../Page/李昇基.md "wikilink")                            | \-                                                       | [Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")      | \-                |
-| 10 | 2008年 | [徐太志](../Page/徐太志.md "wikilink")                            | \-                                                       | [李孝利](../Page/李孝利.md "wikilink")                         | \-                |
-| 11 | 2009年 | 徐廷權                                                         | \-                                                       | [白智榮](../Page/白智榮.md "wikilink")                         | \-                |
-| 12 | 2010年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                       | 《SOLOR》                                                  | [寶兒](../Page/寶兒.md "wikilink")                           | 《Hurricane Venus》 |
-| 13 | 2011年 | [金賢重](../Page/金賢重.md "wikilink")                            | 《Break Down》                                             | [白智榮](../Page/白智榮.md "wikilink")                         | 《Ordinariness》    |
-| 14 | 2012年 | [G-Dragon](../Page/G-Dragon.md "wikilink")                  | 《Crayon》                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《You & I》         |
-| 15 | 2013年 | 《Crooked》                                                   | [李孝利](../Page/李孝利.md "wikilink")                         | 《Bad Girls》                                              |                   |
-| 16 | 2014年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                       | 《Eyes, Nose, Lips》                                       | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《Friday》          |
-| 17 | 2015年 | [朴軫永](../Page/朴軫永.md "wikilink")                            | 《Who's Your Mama》                                        | [太妍](../Page/太妍.md "wikilink")                           | 《I》               |
-| 18 | 2016年 | [ZICO](https://zh.wikipedia.org/wiki/ZICO "wikilink")       | 《I Am you, You Are me》                                   | 《Rain》                                                   |                   |
-| 19 | 2017年 | 《Artist》                                                    | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《Palette》                                                |                   |
-| 20 | 2018年 | [Roy Kim](https://zh.wikipedia.org/wiki/Roy_Kim "wikilink") | 《那時分手就好》                                                 | [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")        | 《Siren》           |
+| 屆數 | 年份    | 男歌手                                                     | 歌曲                                                       | 女歌手                                                      | 歌曲                |
+| -- | ----- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------------- |
+| 1  | 1999年 | 李承桓（이승환）                                                | 《Glucose》                                                | [嚴正化](../Page/嚴正化.md "wikilink")                         | 《Don't Know》      |
+| 2  | 2000年 | 申昇勳                                                     | 《전설 속의 누군가처럼》                                            | [朴志胤](../Page/朴志胤.md "wikilink")                         | 《성인식》             |
+| 3  | 2001年 | [成始璄](../Page/成始璄.md "wikilink")                        | 《우린 제법 잘 어울려요》                                           | 金賢政                                                      | 《떠난 너》            |
+| 4  | 2002年 | \-                                                      | [張娜拉](../Page/張娜拉.md "wikilink")                         | 《Sweet Dream》                                            |                   |
+| 5  | 2003年 | [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")       | 《With Me》                                                | [李秀英](https://zh.wikipedia.org/wiki/李秀英 "wikilink")      | 《덩그러니》            |
+| 6  | 2004年 | [SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink") | 《Passion》                                                | 《휠릴리》                                                    |                   |
+| 7  | 2005年 | [金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")     | \-                                                       | [寶兒](../Page/寶兒.md "wikilink")                           | \-                |
+| 8  | 2006年 | [Rain](../Page/Rain.md "wikilink")                      | \-                                                       | [白智榮](../Page/白智榮.md "wikilink")                         | \-                |
+| 9  | 2007年 | [李昇基](../Page/李昇基.md "wikilink")                        | \-                                                       | [Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")      | \-                |
+| 10 | 2008年 | [徐太志](../Page/徐太志.md "wikilink")                        | \-                                                       | [李孝利](../Page/李孝利.md "wikilink")                         | \-                |
+| 11 | 2009年 | 徐廷權                                                     | \-                                                       | [白智榮](../Page/白智榮.md "wikilink")                         | \-                |
+| 12 | 2010年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                   | 《SOLOR》                                                  | [寶兒](../Page/寶兒.md "wikilink")                           | 《Hurricane Venus》 |
+| 13 | 2011年 | [金賢重](../Page/金賢重.md "wikilink")                        | 《Break Down》                                             | [白智榮](../Page/白智榮.md "wikilink")                         | 《Ordinariness》    |
+| 14 | 2012年 | [G-Dragon](../Page/G-Dragon.md "wikilink")              | 《Crayon》                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《You & I》         |
+| 15 | 2013年 | 《Crooked》                                               | [李孝利](../Page/李孝利.md "wikilink")                         | 《Bad Girls》                                              |                   |
+| 16 | 2014年 | [太陽](../Page/太陽_\(歌手\).md "wikilink")                   | 《Eyes, Nose, Lips》                                       | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《Friday》          |
+| 17 | 2015年 | [朴軫永](../Page/朴軫永.md "wikilink")                        | 《Who's Your Mama》                                        | [太妍](../Page/太妍.md "wikilink")                           | 《I》               |
+| 18 | 2016年 | [ZICO](https://zh.wikipedia.org/wiki/ZICO "wikilink")   | 《I Am you, You Are me》                                   | 《Rain》                                                   |                   |
+| 19 | 2017年 | 《Artist》                                                | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") | 《Palette》                                                |                   |
+| 20 | 2018年 | [Roy Kim](../Page/Roy_Kim.md "wikilink")                | 《那時分手就好》                                                 | [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")        | 《Siren》           |
 
 #### 全球最佳男/女組合
 
@@ -554,11 +554,11 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 | 屆數 | 年份    | 男組合                                                             | 歌曲                                                          | 女組合                                                               | 歌曲                               | 混合組合                             | 歌曲        |
 | -- | ----- | --------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------- | -------------------------------- | --------- |
 | 1  | 1999年 | [H.O.T.](../Page/H.O.T..md "wikilink")                          | 《Iya》                                                       | \-                                                                | \-                               |                                  |           |
-| 2  | 2000年 | [G.O.D.](https://zh.wikipedia.org/wiki/G.O.D. "wikilink")       | 《Love and Memories》                                         | [FIN.K.L](https://zh.wikipedia.org/wiki/FIN.K.L "wikilink")       | 《Now》                            | S\#arp                           | 《Great\!》 |
+| 2  | 2000年 | [G.O.D.](https://zh.wikipedia.org/wiki/G.O.D. "wikilink")       | 《Love and Memories》                                         | [FIN.K.L](../Page/FIN.K.L.md "wikilink")                          | 《Now》                            | S\#arp                           | 《Great\!》 |
 | 3  | 2001年 | [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")        | 《Wild Eyes》                                                 | [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S. "wikilink")         | 《꿈을 모아서》                         | [高耀太](../Page/高耀太.md "wikilink") | 《Blue》    |
 | 4  | 2002年 | 《Perfect Man》                                                   | 《U》                                                         | The Jadu                                                          | 《대화가 필요해》                        |                                  |           |
 | 5  | 2003年 | 《Your Wedding》                                                  | [Jewelry](https://zh.wikipedia.org/wiki/Jewelry "wikilink") | 《니가 참 좋아》                                                         | [高耀太](../Page/高耀太.md "wikilink") | 《Emergency》                      |           |
-| 6  | 2004年 | 《Angel》                                                         | [Sugar](../Page/Sugar.md "wikilink")                        | 《Secret》                                                          | 《Disco King》                     |                                  |           |
+| 6  | 2004年 | 《Angel》                                                         | [Sugar](https://zh.wikipedia.org/wiki/Sugar "wikilink")     | 《Secret》                                                          | 《Disco King》                     |                                  |           |
 | 7  | 2005年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")                  | \-                                                          | [Jewelry](https://zh.wikipedia.org/wiki/Jewelry "wikilink")       | \-                               | \-                               |           |
 | 8  | 2006年 | [東方神起](../Page/東方神起.md "wikilink")                              | \-                                                          | \-                                                                | \-                               |                                  |           |
 | 9  | 2007年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")     | 《Lies》                                                      | Seeya                                                             | \-                               | \-                               |           |
@@ -576,47 +576,47 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 
 #### 最佳新人男/女歌手
 
-| 屆數 | 年份    | 男歌手                                                         | 歌曲                                                  | 女歌手                                              | 歌曲             |
-| -- | ----- | ----------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | -------------- |
-| 1  | 1999年 | \-                                                          | [李貞賢](../Page/李貞賢.md "wikilink")                    | 《Come》                                           |                |
-| 2  | 2000年 | [崔真永](../Page/崔真永.md "wikilink") (SKY)                      | 《Forever》                                           | [寶兒](../Page/寶兒.md "wikilink")                   | 《ID; Peace B》  |
-| 3  | 2001年 | [成始璄](../Page/成始璄.md "wikilink")                            | 《Like The First Time》                               | Wax                                              | 《Oppa》         |
-| 4  | 2002年 | [Rain](../Page/Rain.md "wikilink")                          | 《Bad Guy》                                           | Youme                                            | 《사랑은 언제나 목마르다》 |
-| 5  | 2003年 | [SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink")     | 《Please..》                                          | Maya                                             | 《Azalea》       |
-| 6  | 2004年 | [李昇基](../Page/李昇基.md "wikilink")                            | 《You Are My Woman》                                  | Chunja                                           | 《가슴이 예뻐야 여자다》  |
-| 7  | 2005年 | \-                                                          | 林正姬                                                 | 《Music is My Life》                               |                |
-| 8  | 2006年 | \-                                                          | [張力尹](https://zh.wikipedia.org/wiki/張力尹 "wikilink") | 《Timeless》（ft. [金俊秀](../Page/金俊秀.md "wikilink")） |                |
-| 9  | 2007年 | \-                                                          | [高潤荷](../Page/高潤荷.md "wikilink")                    | 《Password 486》                                   |                |
-| 13 | 2011年 | [許閣](../Page/許閣.md "wikilink")                              | 《Hello》                                             | \-                                               |                |
-| 14 | 2012年 | \-                                                          | [Ailee](../Page/李艺真.md "wikilink")                  | 《Heaven》                                         |                |
-| 15 | 2013年 | [Roy Kim](https://zh.wikipedia.org/wiki/Roy_Kim "wikilink") | 《春天 春天 春天》                                          | \-                                               |                |
+| 屆數 | 年份    | 男歌手                                                     | 歌曲                                                  | 女歌手                                              | 歌曲             |
+| -- | ----- | ------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | -------------- |
+| 1  | 1999年 | \-                                                      | [李貞賢](../Page/李貞賢.md "wikilink")                    | 《Come》                                           |                |
+| 2  | 2000年 | [崔真永](../Page/崔真永.md "wikilink") (SKY)                  | 《Forever》                                           | [寶兒](../Page/寶兒.md "wikilink")                   | 《ID; Peace B》  |
+| 3  | 2001年 | [成始璄](../Page/成始璄.md "wikilink")                        | 《Like The First Time》                               | Wax                                              | 《Oppa》         |
+| 4  | 2002年 | [Rain](../Page/Rain.md "wikilink")                      | 《Bad Guy》                                           | Youme                                            | 《사랑은 언제나 목마르다》 |
+| 5  | 2003年 | [SE7EN](https://zh.wikipedia.org/wiki/SE7EN "wikilink") | 《Please..》                                          | Maya                                             | 《Azalea》       |
+| 6  | 2004年 | [李昇基](../Page/李昇基.md "wikilink")                        | 《You Are My Woman》                                  | Chunja                                           | 《가슴이 예뻐야 여자다》  |
+| 7  | 2005年 | \-                                                      | 林正姬                                                 | 《Music is My Life》                               |                |
+| 8  | 2006年 | \-                                                      | [張力尹](https://zh.wikipedia.org/wiki/張力尹 "wikilink") | 《Timeless》（ft. [金俊秀](../Page/金俊秀.md "wikilink")） |                |
+| 9  | 2007年 | \-                                                      | [高潤荷](../Page/高潤荷.md "wikilink")                    | 《Password 486》                                   |                |
+| 13 | 2011年 | [許閣](../Page/許閣.md "wikilink")                          | 《Hello》                                             | \-                                               |                |
+| 14 | 2012年 | \-                                                      | [Ailee](../Page/李艺真.md "wikilink")                  | 《Heaven》                                         |                |
+| 15 | 2013年 | [Roy Kim](../Page/Roy_Kim.md "wikilink")                | 《春天 春天 春天》                                          | \-                                               |                |
 
 #### 最佳新人男/女組合
 
 1999年至2006年，此獎項名為「Best New Group」。
 
-| 屆數 | 年份    | 男組合                                                               | 歌曲                                                                | 女組合                                                         | 歌曲                   |
-| -- | ----- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- | -------------------- |
-| 1  | 1999年 | Team                                                              | 《Star》                                                            | \-                                                          |                      |
-| 2  | 2000年 | \-                                                                | [Chakra](../Page/Chakra_\(組合\).md "wikilink")                     | 《One》                                                       |                      |
-| 3  | 2001年 | Brown Eyes                                                        | 《벌써 일년》                                                           | \-                                                          |                      |
-| 4  | 2002年 | Black Beat                                                        | 《In The Sky》                                                      | \-                                                          |                      |
-| 5  | 2003年 | \-                                                                | Big Mama                                                          | 《Break Away》                                                |                      |
-| 6  | 2004年 | [東方神起](../Page/東方神起.md "wikilink")                                | 《Hug》                                                             | \-                                                          |                      |
-| 7  | 2005年 | [SS501](../Page/SS501.md "wikilink")                              | \-                                                                | \-                                                          |                      |
-| 8  | 2006年 | [Super Junior](../Page/Super_Junior.md "wikilink")                | 《U》                                                               | \-                                                          |                      |
-| 9  | 2007年 | [FT Island](https://zh.wikipedia.org/wiki/FT_Island "wikilink")   | 《Love Sick》                                                       | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")          | 《Irony》              |
-| 10 | 2008年 | [SHINee](../Page/SHINee.md "wikilink")                            | \-                                                                | [Davichi](../Page/Davichi.md "wikilink")                    | 《即使恨也愛你》             |
-| 11 | 2009年 | Supreme Team                                                      | \-                                                                | [2NE1](../Page/2NE1.md "wikilink")                          | \-                   |
-| 12 | 2010年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 《I'm a loner》                                                     | [Miss A](../Page/Miss_A.md "wikilink")                      | 《Bad Girl Good Girl》 |
-| 13 | 2011年 | \-                                                                | [A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")         | 《I Don't Know》                                              |                      |
-| 14 | 2012年 | \-                                                                | \-                                                                |                                                             |                      |
-| 15 | 2013年 | \-                                                                | [Crayon Pop](https://zh.wikipedia.org/wiki/Crayon_Pop "wikilink") | 《Bar Bar Bar》                                               |                      |
-| 16 | 2014年 | [WINNER](https://zh.wikipedia.org/wiki/WINNER "wikilink")         | 《EMPTY》                                                           | \-                                                          |                      |
-| 17 | 2015年 | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")             | 《取向狙擊》                                                            | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")     | 《Like OOH-AHH》       |
-| 18 | 2016年 | [NCT 127](../Page/NCT.md "wikilink")                              | 《Fire Truck》                                                      | [I.O.I](../Page/I.O.I.md "wikilink")                        | 《Very Very Very》     |
-| 19 | 2017年 | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 《Energetic》                                                       | [PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink") | 《WEE WOO》            |
-| 20 | 2018年 | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink") | 《District 9》                                                      | [IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")  | 《La Vie en Rose》     |
+| 屆數 | 年份    | 男組合                                                               | 歌曲                                                        | 女組合                                                         | 歌曲                   |
+| -- | ----- | ----------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | -------------------- |
+| 1  | 1999年 | Team                                                              | 《Star》                                                    | \-                                                          |                      |
+| 2  | 2000年 | \-                                                                | [Chakra](../Page/Chakra_\(組合\).md "wikilink")             | 《One》                                                       |                      |
+| 3  | 2001年 | Brown Eyes                                                        | 《벌써 일년》                                                   | \-                                                          |                      |
+| 4  | 2002年 | Black Beat                                                        | 《In The Sky》                                              | \-                                                          |                      |
+| 5  | 2003年 | \-                                                                | Big Mama                                                  | 《Break Away》                                                |                      |
+| 6  | 2004年 | [東方神起](../Page/東方神起.md "wikilink")                                | 《Hug》                                                     | \-                                                          |                      |
+| 7  | 2005年 | [SS501](../Page/SS501.md "wikilink")                              | \-                                                        | \-                                                          |                      |
+| 8  | 2006年 | [Super Junior](../Page/Super_Junior.md "wikilink")                | 《U》                                                       | \-                                                          |                      |
+| 9  | 2007年 | [FT Island](https://zh.wikipedia.org/wiki/FT_Island "wikilink")   | 《Love Sick》                                               | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")          | 《Irony》              |
+| 10 | 2008年 | [SHINee](../Page/SHINee.md "wikilink")                            | \-                                                        | [Davichi](../Page/Davichi.md "wikilink")                    | 《即使恨也愛你》             |
+| 11 | 2009年 | Supreme Team                                                      | \-                                                        | [2NE1](../Page/2NE1.md "wikilink")                          | \-                   |
+| 12 | 2010年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 《I'm a loner》                                             | [Miss A](../Page/Miss_A.md "wikilink")                      | 《Bad Girl Good Girl》 |
+| 13 | 2011年 | \-                                                                | [A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink") | 《I Don't Know》                                              |                      |
+| 14 | 2012年 | \-                                                                | \-                                                        |                                                             |                      |
+| 15 | 2013年 | \-                                                                | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")            | 《Bar Bar Bar》                                               |                      |
+| 16 | 2014年 | [WINNER](../Page/WINNER.md "wikilink")                            | 《EMPTY》                                                   | \-                                                          |                      |
+| 17 | 2015年 | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")             | 《取向狙擊》                                                    | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")     | 《Like OOH-AHH》       |
+| 18 | 2016年 | [NCT 127](../Page/NCT.md "wikilink")                              | 《Fire Truck》                                              | [I.O.I](../Page/I.O.I.md "wikilink")                        | 《Very Very Very》     |
+| 19 | 2017年 | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 《Energetic》                                               | [PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink") | 《WEE WOO》            |
+| 20 | 2018年 | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink") | 《District 9》                                              | [IZ\*ONE](https://zh.wikipedia.org/wiki/IZ*ONE "wikilink")  | 《La Vie en Rose》     |
 
 #### 最佳子團
 
@@ -746,7 +746,7 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 <td><p>11</p></td>
 <td><p>2009年</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
 <td><p>《Honey》</p></td>
 <td></td>
 <td></td>
@@ -776,10 +776,10 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 <td><p>14</p></td>
 <td><p>2012年</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a></p></td>
-<td><p>《<a href="../Page/江南style.md" title="wikilink">江南Style</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/江南style" title="wikilink">江南Style</a>》</p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
 <td><p>《Sherlock·Clue + Note》</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">F(x)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">F(x)</a></p></td>
 <td><p>《Electric Shock》</p></td>
 </tr>
 <tr class="odd">
@@ -819,16 +819,16 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 <td><p>2016年</p></td>
 <td><p><a href="../Page/泰民.md" title="wikilink">泰民</a></p></td>
 <td><p>《Press Your Number》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>《Blood Sweat &amp; Tears》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p>《Rough》</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>2017年</p></td>
 <td><p>《Move》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">Seventeen</a></p></td>
+<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Seventeen</a></p></td>
 <td><p>《Don't Wanna Cry》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>《SIGNAL》</p></td>
@@ -865,30 +865,30 @@ Girls](../Page/Brown_Eyed_Girls.md "wikilink")）之獎項片段均沒有播出�
 
 這個獎項在第十二屆頒獎典禮被介紹。
 
-| 屆數 | 年份    | 藝人                                                                      | 歌曲                      |
-| -- | ----- | ----------------------------------------------------------------------- | ----------------------- |
-| 12 | 2010年 | Hot Potato                                                              | 《Confession》            |
-| 13 | 2011年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                                  | 《Intuition》             |
-| 14 | 2012年 | [Busker Busker](https://zh.wikipedia.org/wiki/Busker_Busker "wikilink") | 《Cherry blossom ending》 |
-| 15 | 2013年 | 《初戀》                                                                    |                         |
-| 16 | 2014年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                                  | 《Can't Stop》            |
-| 17 | 2015年 | 《Cinderella》                                                            |                         |
-| 18 | 2016年 | 《You're So Fine》                                                        |                         |
-| 19 | 2017年 | [hyukoh](../Page/hyukoh.md "wikilink")                                  | 《Tomboy》                |
-| 20 | 2018年 | 《Love Ya\!》                                                             |                         |
+| 屆數 | 年份    | 藝人                                                        | 歌曲                      |
+| -- | ----- | --------------------------------------------------------- | ----------------------- |
+| 12 | 2010年 | Hot Potato                                                | 《Confession》            |
+| 13 | 2011年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                    | 《Intuition》             |
+| 14 | 2012年 | [Busker Busker](../Page/Busker_Busker.md "wikilink")      | 《Cherry blossom ending》 |
+| 15 | 2013年 | 《初戀》                                                      |                         |
+| 16 | 2014年 | [CNBLUE](../Page/CNBLUE.md "wikilink")                    | 《Can't Stop》            |
+| 17 | 2015年 | 《Cinderella》                                              |                         |
+| 18 | 2016年 | 《You're So Fine》                                          |                         |
+| 19 | 2017年 | [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink") | 《Tomboy》                |
+| 20 | 2018年 | 《Love Ya\!》                                               |                         |
 
 #### 協作/分隊
 
 這個獎項在第十二屆頒獎典禮被介紹。
 
-| 屆數 | 年份    | 藝人                                                                                                                                | 歌曲                |
-| -- | ----- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 12 | 2010年 | [GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")、[趙權](../Page/趙權.md "wikilink")                                               | 《We Fell In Love》 |
-| 14 | 2012年 | [張賢勝](../Page/張賢勝.md "wikilink")、[泫雅](../Page/金泫雅.md "wikilink")                                                                  | 《Trouble Maker》   |
-| 16 | 2014年 | [韶宥](https://zh.wikipedia.org/wiki/姜智賢 "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")                                               | 《Some》            |
-| 17 | 2015年 | [Zion.T](../Page/Zion.T.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")                                                | 《Just》            |
-| 18 | 2016年 | [Suzy](https://zh.wikipedia.org/wiki/Suzy "wikilink")、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")                           | 《Dream》           |
-| 19 | 2017年 | [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")、[Chen](https://zh.wikipedia.org/wiki/CHEN_\(EXO\) "wikilink") | 《Nosedive》        |
+| 屆數 | 年份    | 藝人                                                                                                      | 歌曲                |
+| -- | ----- | ------------------------------------------------------------------------------------------------------- | ----------------- |
+| 12 | 2010年 | [GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")、[趙權](../Page/趙權.md "wikilink")                     | 《We Fell In Love》 |
+| 14 | 2012年 | [張賢勝](../Page/張賢勝.md "wikilink")、[泫雅](../Page/金泫雅.md "wikilink")                                        | 《Trouble Maker》   |
+| 16 | 2014年 | [韶宥](https://zh.wikipedia.org/wiki/姜智賢 "wikilink")、[鄭基高](../Page/鄭基高.md "wikilink")                     | 《Some》            |
+| 17 | 2015年 | [Zion.T](../Page/Zion.T.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")                      | 《Just》            |
+| 18 | 2016年 | [Suzy](https://zh.wikipedia.org/wiki/Suzy "wikilink")、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink") | 《Dream》           |
+| 19 | 2017年 | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")、[Chen](../Page/CHEN_\(EXO\).md "wikilink")             | 《Nosedive》        |
 
 #### 數位單曲
 
@@ -922,7 +922,7 @@ Performance」。
 | 12 | 2010年 | [DJ DOC](../Page/DJ_DOC.md "wikilink")                                  | 《I'm This Kind of Person》                                         |
 | 13 | 2011年 | [Leessang](../Page/Leessang.md "wikilink")                              | 《TV를 껐네..》                                                        |
 | 14 | 2012年 | [Epik High](../Page/Epik_High.md "wikilink")                            | 《UP》                                                              |
-| 15 | 2013年 | [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")     | 《BAAAM》                                                           |
+| 15 | 2013年 | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")                        | 《BAAAM》                                                           |
 | 16 | 2014年 | [Epik High](../Page/Epik_High.md "wikilink")                            | 《Happen Ending》                                                   |
 | 17 | 2015年 | [San E](../Page/San_E.md "wikilink")                                    | 《Me You》                                                          |
 | 18 | 2016年 | Cjamm、[BewhY](https://zh.wikipedia.org/wiki/BewhY "wikilink")           | 《Puzzle》                                                          |
@@ -965,18 +965,18 @@ Performance」。
 
 #### 節奏藍調
 
-| 屆數 | 年份    | 藝人                                                              | 歌曲            |
-| -- | ----- | --------------------------------------------------------------- | ------------- |
-| 2  | 2000年 | Jinju                                                           | 《Gone》        |
-| 3  | 2001年 | [朴軫永](../Page/朴軫永.md "wikilink")                                | 《난 여자가 있는데》   |
-| 4  | 2002年 | [李貞賢](../Page/李貞賢.md "wikilink")                                | 《A Dream》     |
-| 5  | 2003年 | [Fly To The Sky](../Page/Fly_To_The_Sky.md "wikilink")          | 《Missing You》 |
-| 6  | 2004年 | [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")               | 《불치병》         |
-| 7  | 2005年 | 《Goodbye Luv》                                                   |               |
-| 8  | 2006年 | [Fly To The Sky](../Page/Fly_To_The_Sky.md "wikilink")          | 《남자답게》        |
-| 9  | 2007年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")\[24\]            | \-            |
-| 10 | 2008年 | *與民謠獎合併，詳見[\#民謠](https://zh.wikipedia.org/wiki/#民謠 "wikilink")* |               |
-| 11 | 2009年 |                                                                 |               |
+| 屆數 | 年份    | 藝人                                                                        | 歌曲            |
+| -- | ----- | ------------------------------------------------------------------------- | ------------- |
+| 2  | 2000年 | Jinju                                                                     | 《Gone》        |
+| 3  | 2001年 | [朴軫永](../Page/朴軫永.md "wikilink")                                          | 《난 여자가 있는데》   |
+| 4  | 2002年 | [李貞賢](../Page/李貞賢.md "wikilink")                                          | 《A Dream》     |
+| 5  | 2003年 | [Fly To The Sky](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink") | 《Missing You》 |
+| 6  | 2004年 | [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")                         | 《불치병》         |
+| 7  | 2005年 | 《Goodbye Luv》                                                             |               |
+| 8  | 2006年 | [Fly To The Sky](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink") | 《남자답게》        |
+| 9  | 2007年 | [SG Wannabe](../Page/SG_Wannabe.md "wikilink")\[24\]                      | \-            |
+| 10 | 2008年 | *與民謠獎合併，詳見[\#民謠](https://zh.wikipedia.org/wiki/#民謠 "wikilink")*           |               |
+| 11 | 2009年 |                                                                           |               |
 
 #### 流行
 
@@ -1003,9 +1003,9 @@ Performance」。
 
 #### 韓國演歌
 
-| 屆數 | 年份    | 藝人                                                  | 歌曲               |
-| -- | ----- | --------------------------------------------------- | ---------------- |
-| 11 | 2009年 | [洪真英](https://zh.wikipedia.org/wiki/洪真英 "wikilink") | 《Love's Battery》 |
+| 屆數 | 年份    | 藝人                               | 歌曲               |
+| -- | ----- | -------------------------------- | ---------------- |
+| 11 | 2009年 | [洪真英](../Page/洪真英.md "wikilink") | 《Love's Battery》 |
 
 #### 最佳影視原聲帶
 
@@ -1017,9 +1017,9 @@ Performance」。
 | 11 | 2009年 | [SS501](../Page/SS501.md "wikilink")                              | 《Because I'm Stupid》 | 《[流星花園](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")》 |
 | 13 | 2011年 | [白智榮](../Page/白智榮.md "wikilink")                                  | 《That Woman》         | 《[祕密花園](../Page/秘密花園_\(韓國電視劇\).md "wikilink")》                    |
 | 14 | 2012年 | [徐仁國](../Page/徐仁國.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink") | 《All For You》        | 《[請回答1997](../Page/請回答1997.md "wikilink")》                        |
-| 15 | 2013年 | [尹未來](../Page/尹未來.md "wikilink")                                  | 《Touch Love》         | 《[主君的太陽](https://zh.wikipedia.org/wiki/主君的太陽 "wikilink")》         |
-| 16 | 2014年 | [LYn](https://zh.wikipedia.org/wiki/LYn "wikilink")               | 《My Destiny》         | 《[來自星星的你](https://zh.wikipedia.org/wiki/來自星星的你 "wikilink")》       |
-| 18 | 2016年 | [李笛](https://zh.wikipedia.org/wiki/李笛 "wikilink")                 | 《Don't Worry》        | 《[請回答1988](https://zh.wikipedia.org/wiki/請回答1988 "wikilink")》     |
+| 15 | 2013年 | [尹未來](../Page/尹未來.md "wikilink")                                  | 《Touch Love》         | 《[主君的太陽](../Page/主君的太陽.md "wikilink")》                            |
+| 16 | 2014年 | [LYn](https://zh.wikipedia.org/wiki/LYn "wikilink")               | 《My Destiny》         | 《[來自星星的你](../Page/來自星星的你.md "wikilink")》                          |
+| 18 | 2016年 | [李笛](https://zh.wikipedia.org/wiki/李笛 "wikilink")                 | 《Don't Worry》        | 《[請回答1988](../Page/請回答1988.md "wikilink")》                        |
 | 19 | 2017年 | [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")           | 《如初雪般走向你》            | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》                  |
 | 20 | 2018年 | [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")   | 《A-TEEN》             | 《[A-TEEN](https://zh.wikipedia.org/wiki/A-TEEN "wikilink")》       |
 
@@ -1036,21 +1036,21 @@ Performance」。
 
 #### 最佳音樂錄影帶獎
 
-| 屆數 | 年份    | 藝人                                                                  | 歌曲                                                          |
-| -- | ----- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 8  | 2006年 | [PSY](../Page/PSY.md "wikilink")                                    | 《Entertainer》                                               |
-| 9  | 2007年 | [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") | 《출첵》                                                        |
-| 10 | 2008年 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")                  | 《[Nobody](https://zh.wikipedia.org/wiki/Nobody "wikilink")》 |
-| 11 | 2009年 | [2NE1](../Page/2NE1.md "wikilink")                                  | 《Fire》                                                      |
-| 12 | 2010年 | 《Can't Nobody》                                                      |                                                             |
-| 13 | 2011年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")         | 《Love Song》                                                 |
-| 14 | 2012年 | [PSY](../Page/PSY.md "wikilink")                                    | 《Gangnam Style》                                             |
-| 15 | 2013年 | [G-Dragon](../Page/G-Dragon.md "wikilink")                          | 《COUP D'ETAT》                                               |
-| 16 | 2014年 | [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")                 | 《GO CRAZY？》                                                 |
-| 17 | 2015年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")         | 《BAE BAE》                                                   |
-| 18 | 2016年 | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                        | 《WHISTLE》                                                   |
-| 19 | 2017年 | [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")             | 《Spring Day》                                                |
-| 20 | 2018年 | 《IDOL》                                                              |                                                             |
+| 屆數 | 年份    | 藝人                                                          | 歌曲                                                          |
+| -- | ----- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| 8  | 2006年 | [PSY](../Page/PSY.md "wikilink")                            | 《Entertainer》                                               |
+| 9  | 2007年 | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")            | 《출첵》                                                        |
+| 10 | 2008年 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")          | 《[Nobody](https://zh.wikipedia.org/wiki/Nobody "wikilink")》 |
+| 11 | 2009年 | [2NE1](../Page/2NE1.md "wikilink")                          | 《Fire》                                                      |
+| 12 | 2010年 | 《Can't Nobody》                                              |                                                             |
+| 13 | 2011年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《Love Song》                                                 |
+| 14 | 2012年 | [PSY](../Page/PSY.md "wikilink")                            | 《Gangnam Style》                                             |
+| 15 | 2013年 | [G-Dragon](../Page/G-Dragon.md "wikilink")                  | 《COUP D'ETAT》                                               |
+| 16 | 2014年 | [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")         | 《GO CRAZY？》                                                 |
+| 17 | 2015年 | [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink") | 《BAE BAE》                                                   |
+| 18 | 2016年 | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                | 《WHISTLE》                                                   |
+| 19 | 2017年 | [防彈少年團](../Page/防彈少年團.md "wikilink")                        | 《Spring Day》                                                |
+| 20 | 2018年 | 《IDOL》                                                      |                                                             |
 
 #### 音樂錄影帶導演獎
 
@@ -1150,7 +1150,7 @@ Performance」。
 | 9  | 2007年 |                                                                 |               |
 | 10 | 2008年 | [東方神起](../Page/東方神起.md "wikilink")                              | 《Mirotic》     |
 | 11 | 2009年 | [Super Junior](../Page/Super_Junior.md "wikilink")              | 《SORRY SORRY》 |
-| 18 | 2016年 | [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")           | 《Hard Carry》  |
+| 18 | 2016年 | [GOT7](../Page/GOT7.md "wikilink")                              | 《Hard Carry》  |
 | 19 | 2017年 | [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink") | 《Clap》        |
 
 #### 國際表演者獎
@@ -1158,9 +1158,9 @@ Performance」。
 | 屆數 | 年份    | 藝人                                                              |
 | -- | ----- | --------------------------------------------------------------- |
 | 15 | 2013年 | [INFINITE](../Page/INFINITE.md "wikilink")                      |
-| 17 | 2015年 | [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")         |
+| 17 | 2015年 | [防彈少年團](../Page/防彈少年團.md "wikilink")                            |
 | 18 | 2016年 | [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink") |
-| 19 | 2017年 | [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")           |
+| 19 | 2017年 | [GOT7](../Page/GOT7.md "wikilink")                              |
 
 #### 最佳亞洲藝人獎
 
@@ -1220,7 +1220,7 @@ Performance」。
 <td><p><a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a><small>（香港）</small><br />
 <a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a><small>（新加坡）</small><br />
 <a href="../Page/家入里歐.md" title="wikilink">家入里歐</a><small>（日本）</small><br />
-<a href="https://zh.wikipedia.org/wiki/胡瓊香" title="wikilink">胡瓊香</a><small>（越南）</small><br />
+<a href="../Page/胡瓊香.md" title="wikilink">胡瓊香</a><small>（越南）</small><br />
 <small>（印尼）</small><br />
 <small>（泰国）</small></p></td>
 </tr>
@@ -1240,7 +1240,7 @@ Performance」。
 <td><p><small>（泰國）</small><br />
 <a href="https://zh.wikipedia.org/wiki/阮福盛" title="wikilink">阮福盛</a><small>（越南）</small><br />
 <small>（印尼）</small><br />
-<a href="https://zh.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a><small>（日本）</small><br />
+<a href="../Page/SEKAI_NO_OWARI.md" title="wikilink">SEKAI NO OWARI</a><small>（日本）</small><br />
 <a href="https://zh.wikipedia.org/wiki/華晨宇" title="wikilink">華晨宇</a><small>（中國大陸）</small><br />
 <a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a><small>（新加坡）</small></p></td>
 </tr>
@@ -1286,7 +1286,7 @@ Performance」。
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2010年</p></td>
-<td><p><a href="../Page/i_Me.md" title="wikilink">i Me</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/i_Me" title="wikilink">i Me</a></p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -1297,7 +1297,7 @@ Performance」。
 <td><p>14</p></td>
 <td><p>2012年</p></td>
 <td><p>亞洲新人獎：<a href="../Page/EXO.md" title="wikilink">EXO</a><br />
-亞洲中國新人奬：<a href="https://zh.wikipedia.org/wiki/TimeZ" title="wikilink">TimeZ</a></p></td>
+亞洲中國新人奬：<a href="../Page/TimeZ.md" title="wikilink">TimeZ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
@@ -1328,7 +1328,7 @@ Marion Jola<small>（印尼）</small><br />
 | 7  | 2005年 | [黑眼豆豆](../Page/黑眼豆豆.md "wikilink")                                  |
 | 8  | 2006年 | [小野貓](https://zh.wikipedia.org/wiki/小野貓 "wikilink")                 |
 | 12 | 2010年 | [遠東韻律](../Page/遠東韻律.md "wikilink")                                  |
-| 15 | 2013年 | [Ylvis](https://zh.wikipedia.org/wiki/Ylvis "wikilink")             |
+| 15 | 2013年 | [Ylvis](../Page/Ylvis.md "wikilink")                                |
 | 16 | 2014年 | [John Legend](https://zh.wikipedia.org/wiki/John_Legend "wikilink") |
 
 ### 音樂製作人獎
@@ -1369,10 +1369,10 @@ Marion Jola<small>（印尼）</small><br />
 
 #### 佈置獎
 
-| 屆數 | 年份    | 佈置者                                                     | 歌曲                                              |
-| -- | ----- | ------------------------------------------------------- | ----------------------------------------------- |
-| 10 | 2008年 | Tablo（[Epik High](../Page/Epik_High.md "wikilink")）     | 《One》                                           |
-| 11 | 2009年 | [新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink") | 《Muzik》[4minute](../Page/4minute.md "wikilink") |
+| 屆數 | 年份    | 佈置者                                                 | 歌曲                                              |
+| -- | ----- | --------------------------------------------------- | ----------------------------------------------- |
+| 10 | 2008年 | Tablo（[Epik High](../Page/Epik_High.md "wikilink")） | 《One》                                           |
+| 11 | 2009年 | [新沙洞老虎](../Page/新沙洞老虎.md "wikilink")                | 《Muzik》[4minute](../Page/4minute.md "wikilink") |
 
 #### 導演獎
 
@@ -1382,13 +1382,13 @@ Marion Jola<small>（印尼）</small><br />
 
 ### Mnet PD選擇特別獎
 
-| 屆數 | 年份    | 藝人                                                               |
-| -- | ----- | ---------------------------------------------------------------- |
-| 6  | 2004年 | Deuce                                                            |
-| 7  | 2005年 | [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(組合\) "wikilink") |
-| 10 | 2008年 | 申昇勳                                                              |
-| 13 | 2011年 | [YB](https://zh.wikipedia.org/wiki/YB_\(尹度玹樂隊\) "wikilink")      |
-| 14 | 2012年 | [B.A.P](../Page/B.A.P.md "wikilink")                             |
+| 屆數 | 年份    | 藝人                                                          |
+| -- | ----- | ----------------------------------------------------------- |
+| 6  | 2004年 | Deuce                                                       |
+| 7  | 2005年 | [S.E.S.](../Page/S.E.S._\(組合\).md "wikilink")               |
+| 10 | 2008年 | 申昇勳                                                         |
+| 13 | 2011年 | [YB](https://zh.wikipedia.org/wiki/YB_\(尹度玹樂隊\) "wikilink") |
+| 14 | 2012年 | [B.A.P](../Page/B.A.P.md "wikilink")                        |
 
 ### 評委會特別獎
 
@@ -1429,12 +1429,12 @@ Marion Jola<small>（印尼）</small><br />
 <td><p>19</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXO-CBX" title="wikilink">EXO-CBX</a>（日本）<br />
-<a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a>（香港）</p></td>
+<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>（香港）</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1444,7 +1444,7 @@ Marion Jola<small>（印尼）</small><br />
 | 屆數 | 年份    | 藝人                                                   | 作品         |
 | -- | ----- | ---------------------------------------------------- | ---------- |
 | 14 | 2012年 | [GaIn](https://zh.wikipedia.org/wiki/孫佳人 "wikilink") | 《피어나(綻放)》  |
-| 16 | 2014年 | [鄭俊英](https://zh.wikipedia.org/wiki/鄭俊英 "wikilink")  | 《Teenager》 |
+| 16 | 2014年 | [鄭俊英](../Page/鄭俊英.md "wikilink")                     | 《Teenager》 |
 | 19 | 2017年 | [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")    | 《Gashina》  |
 
 ### 年度發現獎
@@ -1536,7 +1536,7 @@ Marion Jola<small>（印尼）</small><br />
 </tr>
 <tr class="even">
 <td><p>亞洲最佳搖滾歌手獎</p></td>
-<td><p><a href="../Page/Gackt.md" title="wikilink">Gackt</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gackt" title="wikilink">Gackt</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1592,7 +1592,7 @@ Marion Jola<small>（印尼）</small><br />
 </tr>
 <tr class="even">
 <td><p>亞洲最佳搖滾歌手獎</p></td>
-<td><p><a href="../Page/w-inds..md" title="wikilink">w-inds.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1902,7 +1902,7 @@ Phuc Bo<small>（越南）</small></p></td>
 </tr>
 <tr class="even">
 <td><p>Global Fan's Choice Female</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -2034,7 +2034,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 </tr>
 <tr class="even">
 <td><p>2017 Favorite Kpop Star</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -2096,9 +2096,9 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 <a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a><br />
 <a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a><br />
 <a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a><br />
-<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><br />
+<a href="../Page/GOT7.md" title="wikilink">GOT7</a><br />
 <a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a><br />
-<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">SEVENTEEN</a><br />
+<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a><br />
 <a href="https://zh.wikipedia.org/wiki/防弹少年团" title="wikilink">防弹少年团</a></p></td>
 <td><p>《What is Love?》<br />
 《Shoot Out》<br />
@@ -2150,7 +2150,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 </tr>
 <tr class="even">
 <td><p>Tik Tok最受歡迎藝人獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -2183,7 +2183,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 <tbody>
 <tr class="odd">
 <td><p>藝人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a><br />
@@ -2204,7 +2204,7 @@ Vit Suthithavi<small>（泰國）</small></p></td>
 <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a><br />
 <a href="../Page/SS501.md" title="wikilink">SS501</a><br />
-<a href="../Page/Sistar.md" title="wikilink">Sistar</a><br />
+<a href="https://zh.wikipedia.org/wiki/Sistar" title="wikilink">Sistar</a><br />
 <a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><br />
 <a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a><br />
 <a href="../Page/Miss_A.md" title="wikilink">Miss A</a><br />

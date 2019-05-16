@@ -7,55 +7,57 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
 
   - 《屈尾十》 ——[HotCha](../Page/HotCha.md "wikilink")
   - 《有時》 ——[周國賢](../Page/周國賢.md "wikilink")
-  - 《韓國勁舞權》 ——[陸永](../Page/陸永.md "wikilink")
-  - 《字花》 ——[薛凱琪](../Page/薛凱琪.md "wikilink")
+  - 《韓國勁舞權》 ——[陸永](https://zh.wikipedia.org/wiki/陸永 "wikilink")
+  - 《字花》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 《黑色狂迷》 ——[Mr.](../Page/Mr..md "wikilink")
   - 《偉大航道》 ——[C君](../Page/C君.md "wikilink")
-  - 《Deadline》 ——[張敬軒](../Page/張敬軒.md "wikilink")
-  - 《開籠雀》 ——[王菀之](../Page/王菀之.md "wikilink")
-  - 《玩樂》 ——[方大同](../Page/方大同.md "wikilink")
+  - 《Deadline》 ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
+  - 《開籠雀》 ——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
+  - 《玩樂》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 《可惜所需不是我》 ——[周子揚](../Page/周子揚.md "wikilink")
   - 《乞丐王子》 ——[周柏豪](../Page/周柏豪.md "wikilink")
-  - 《無忘花》 ——[林二汶](../Page/林二汶.md "wikilink")
+  - 《無忘花》 ——[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")
   - 《超生培慾》 ——[麥浚龍](../Page/麥浚龍.md "wikilink")
   - 《一年》 ——[關楚耀](../Page/關楚耀.md "wikilink")
   - 《珊瑚島》 ——[官恩娜](../Page/官恩娜.md "wikilink")
   - 《圍城故鄉》 ——[孫耀威](../Page/孫耀威.md "wikilink")
   - 《一絲不掛》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 《K歌之后》 ——[鄭融](../Page/鄭融.md "wikilink")
-  - 《中學生應該談戀愛》 ——[野仔](../Page/野仔.md "wikilink")
-  - 《Summer of Love》 ——[盧凱彤](../Page/盧凱彤.md "wikilink")
+  - 《中學生應該談戀愛》 ——[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")
+  - 《Summer of Love》
+    ——[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")
 
 ### SINA Music 民意指數大獎
 
   - 我最喜愛男新人
       - [羅力威](../Page/羅力威.md "wikilink")
   - 我最喜愛女新人
-      - [連詩雅](../Page/連詩雅.md "wikilink")
+      - [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")
   - 我最喜愛新組合
       - [糖兄妹](../Page/糖兄妹.md "wikilink")
   - 我最喜愛演唱會
       - 《農夫Down to Earth Concert 2010》
         ——[農夫](../Page/農夫_\(組合\).md "wikilink")
   - 我最喜愛至尊大碟
-      - 《[Time Flies](../Page/Time_Flies_\(EP\).md "wikilink")》
+      - 《[Time
+        Flies](https://zh.wikipedia.org/wiki/Time_Flies_\(EP\) "wikilink")》
         ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛唱作人
-      - [方大同](../Page/方大同.md "wikilink")
+      - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 我最喜愛男歌手(香港)
-      - [張敬軒](../Page/張敬軒.md "wikilink")
+      - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - 我最喜愛女歌手(香港)
-      - [王菀之](../Page/王菀之.md "wikilink")
+      - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
   - 我最喜愛組合 (香港)
       - [Mr.](../Page/Mr..md "wikilink")
   - 我最喜愛全國男歌手
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛全國女歌手
-      - [蔡健雅](../Page/蔡健雅.md "wikilink")
+      - [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")
   - 我最喜愛全國組合
       - [S.H.E](../Page/S.H.E.md "wikilink")
   - 我最喜愛至尊國語金曲
-      - 《椰殼》 ——[方大同](../Page/方大同.md "wikilink")
+      - 《椰殼》 ——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 我最喜愛至尊金曲
       - 《一絲不掛》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
 
@@ -64,20 +66,20 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
   - SINA MUSIC 微博歌曲大獎
       - 《博愛》 ——[關楚耀](../Page/關楚耀.md "wikilink")
   - SINA MUSIC 廣告歌曲大獎
-      - 《惠氏金裝膳兒加》 ——[薛凱琪](../Page/薛凱琪.md "wikilink")
+      - 《惠氏金裝膳兒加》 ——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - SINA MUSIC 電視劇主題曲大獎
-      - 《直到你不找我》 ——[林峯](../Page/林峯.md "wikilink")
+      - 《直到你不找我》 ——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - SINA MUSIC 合唱歌曲大獎
       - 《Happiness》 ——[陳奐仁](../Page/陳奐仁.md "wikilink")、[MC
-        Jin](../Page/MC_Jin.md "wikilink")
+        Jin](https://zh.wikipedia.org/wiki/MC_Jin "wikilink")
   - SINA MUSIC 原創歌曲大獎
       - 《有時》 ——[周國賢](../Page/周國賢.md "wikilink")
   - SINA MUSIC 最高收視 MV 大獎
       - 《超生培慾》 ——[麥浚龍](../Page/麥浚龍.md "wikilink")
   - SINA MUSIC LIVE 現場演繹大獎
-      - 《野仔8周年音樂會》 ——[野仔](../Page/野仔.md "wikilink")
+      - 《野仔8周年音樂會》 ——[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")
   - SINA MUSIC 全能歌手大獎
-      - [林峯](../Page/林峯.md "wikilink")
+      - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - SINA MUSIC 傑出音樂人大獎
       - [陳奐仁](../Page/陳奐仁.md "wikilink")
   - SINA MUSIC 創作概念大碟
@@ -86,18 +88,18 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
         ——[孫耀威](../Page/孫耀威.md "wikilink")
   - SINA MUSIC 全碟試聽 –最高收聽率大碟
       - 《[No. Eleven](../Page/No._Eleven.md "wikilink")》
-        ——[張敬軒](../Page/張敬軒.md "wikilink")
+        ——[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
 
 ### 微博發聲大獎
 
   - [新浪微博發聲男歌手](../Page/新浪微博.md "wikilink")
       - [周柏豪](../Page/周柏豪.md "wikilink")
   - [新浪微博發聲女歌手](../Page/新浪微博.md "wikilink")
-      - [梁詠琪](../Page/梁詠琪.md "wikilink")
+      - [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")
 
 ## 媒體播放
 
-於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣](../Page/台灣.md "wikilink")[新浪網上直播及重溫](../Page/新浪.md "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+於[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新浪網上直播及重溫](../Page/新浪.md "wikilink")。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
 
 ## 外部連結
 
@@ -106,7 +108,8 @@ Music樂壇民意指數頒獎禮2010**，於2011年1月19日假[九龍灣國際�
 
 ## 參看
 
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
 [Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
 [Category:2010年香港](https://zh.wikipedia.org/wiki/Category:2010年香港 "wikilink")

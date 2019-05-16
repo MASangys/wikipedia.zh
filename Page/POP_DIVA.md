@@ -1,5 +1,5 @@
 《**POP
-DIVA**》（前衛歌姬）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年2月2日發行的49th[單曲](../Page/單曲.md "wikilink")。為2011第1張單曲。
+DIVA**》（前衛歌姬）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2011年2月2日發行的49th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2011第1張單曲。
 
 ## 解說
 

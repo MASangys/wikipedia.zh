@@ -3,7 +3,8 @@ KISS**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wi
 
 ## 簡介
 
-  - 與前作「[touch Me\!](../Page/touch_Me!.md "wikilink")」相隔約1年零10個月的新原創專輯。
+  - 與前作「[touch
+    Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」相隔約1年零10個月的新原創專輯。
   - 收錄單曲「[Revive](../Page/PUZZLE／Revive.md "wikilink")」、「[Beautiful](https://zh.wikipedia.org/wiki/Beautiful "wikilink")」、「[Drive
     me
     crazy](https://zh.wikipedia.org/wiki/比永遠更遠／Drive_me_crazy "wikilink")」、「[SUMMER

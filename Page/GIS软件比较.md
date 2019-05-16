@@ -12,7 +12,7 @@
 <th><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></th>
 <th><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></th>
 <th><p><a href="../Page/BSD.md" title="wikilink">BSD</a></p></th>
-<th><p><a href="../Page/Unix.md" title="wikilink">Unix</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">Unix</a></p></th>
 <th><p>网络</p></th>
 <th><p>其他</p></th>
 </tr>
@@ -235,7 +235,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/gvSIG.md" title="wikilink">gvSIG</a></p></td>
+<td><p>| <a href="https://zh.wikipedia.org/wiki/gvSIG" title="wikilink">gvSIG</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -267,7 +267,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Java_(Sun)" title="wikilink">Java</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Java_(Sun)" title="wikilink">Java</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Java_(Sun)" title="wikilink">Java</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Java_(Sun)" title="wikilink">Java</a> &amp; <a href="https://zh.wikipedia.org/wiki/Dynamic_HTML" title="wikilink">DHTML</a>/<a href="../Page/Ajax.md" title="wikilink">Ajax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Java_(Sun)" title="wikilink">Java</a> &amp; <a href="https://zh.wikipedia.org/wiki/Dynamic_HTML" title="wikilink">DHTML</a>/<a href="https://zh.wikipedia.org/wiki/Ajax" title="wikilink">Ajax</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -567,7 +567,7 @@
 <td></td>
 <td></td>
 <td><p>( <a href="../Page/Solaris.md" title="wikilink">Solaris</a> &amp; <a href="../Page/IBM_AIX.md" title="wikilink">AIX</a> &amp; <a href="https://zh.wikipedia.org/wiki/HPUX" title="wikilink">HP-UX</a>)</p></td>
-<td><p>(<a href="../Page/Ajax.md" title="wikilink">Ajax</a> &amp; <a href="https://zh.wikipedia.org/wiki/Adobe_Flex" title="wikilink">Flex</a> &amp; <a href="https://zh.wikipedia.org/wiki/Silverlight" title="wikilink">Silverlight</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/Ajax" title="wikilink">Ajax</a> &amp; <a href="https://zh.wikipedia.org/wiki/Adobe_Flex" title="wikilink">Flex</a> &amp; <a href="https://zh.wikipedia.org/wiki/Silverlight" title="wikilink">Silverlight</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Bit_blit" title="wikilink">硬件加速</a></p></td>
 </tr>
 <tr class="odd">

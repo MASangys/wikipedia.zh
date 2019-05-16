@@ -1,9 +1,9 @@
 **GLAY EXPO '99 SURVIVAL LIVE IN
-MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe所舉辦的](../Page/幕張Messe.md "wikilink")[演唱會](../Page/演唱會.md "wikilink")，該演唱會動員了超過20萬的歌迷，是日本音樂史上動員最多人的單場演唱會，亦是目前的付費單場演唱會動員人員最多的[世界紀錄](../Page/世界紀錄.md "wikilink")。
+MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe所舉辦的](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，該演唱會動員了超過20萬的歌迷，是日本音樂史上動員最多人的單場演唱會，亦是目前的付費單場演唱會動員人員最多的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
 
 ## 演唱會規模
 
-  - 會場:[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe](../Page/幕張Messe.md "wikilink")
+  - 會場:[千葉縣](../Page/千葉縣.md "wikilink")[幕張Messe](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")
   - 日期:1999年7月31日
 
 <!-- end list -->
@@ -30,7 +30,7 @@ MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣]
   - 流動廁所:1500個
   - 巡迴巴士:500台
   - 接駁巴士:600台
-  - [海濱幕張車站站員](../Page/海濱幕張車站.md "wikilink"):150人(通常10人)
+  - [海濱幕張車站站員](https://zh.wikipedia.org/wiki/海濱幕張車站 "wikilink"):150人(通常10人)
   - 媒體:電子媒體35家、平面媒體15家、雜誌50家
 
 <!-- end list -->
@@ -49,26 +49,27 @@ MAKUHARI**是[GLAY在](../Page/GLAY.md "wikilink")1999年7月31日於[千葉縣]
 
 1.  **OPENING**
 2.  **HAPPY SWING**
-3.  **[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")**
-4.  **[グロリアス](../Page/グロリアス.md "wikilink")**
+3.  **[口唇](https://zh.wikipedia.org/wiki/口唇_\(GLAYの曲\) "wikilink")**
+4.  **[グロリアス](https://zh.wikipedia.org/wiki/グロリアス "wikilink")**
 5.  **SHUTTER SPEEDSのテーマ**
 6.  **More than Love**
-7.  **[サバイバル](../Page/サバイバル_\(GLAYの曲\).md "wikilink")**
-8.  **[生きてく強さ](../Page/生きてく強さ.md "wikilink")**
+7.  **[サバイバル](https://zh.wikipedia.org/wiki/サバイバル_\(GLAYの曲\) "wikilink")**
+8.  **[生きてく強さ](https://zh.wikipedia.org/wiki/生きてく強さ "wikilink")**
 9.  **[Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")**
 10. **summer FM**
 11. **INNOCENCE**
-12. **[Freeze My Love](../Page/Freeze_My_Love.md "wikilink")**
+12. **[Freeze My
+    Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
 13. **[HOWEVER](../Page/HOWEVER.md "wikilink")**
-14. **[ここではない、どこかへ](../Page/ここではない、どこかへ.md "wikilink")**
+14. **[ここではない、どこかへ](https://zh.wikipedia.org/wiki/ここではない、どこかへ "wikilink")**
 15. **LADY CLOSE**
 16. **TWO BELL SILENCE**
 17. **MISERY**
-18. **[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")**
+18. **[誘惑](https://zh.wikipedia.org/wiki/誘惑_\(GLAYの曲\) "wikilink")**
 19. **COME ON\!\!**
 20. **ACID HEAD**
 21. **I'm in Love**
-22. **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
+22. **[彼女の“Modern…”](https://zh.wikipedia.org/wiki/彼女の“Modern…” "wikilink")**
 23. **ビリビリクラッシュメン**
 24. **BURST**
 25. **ENDING**

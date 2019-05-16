@@ -3,31 +3,31 @@
 **OpenOffice.org Calc**（又稱**OpenOffice
 Calc**，**OpenOffice試算表**或**OO.o試算表**）是[OpenOffice.org生產力軟體的項目之一](../Page/OpenOffice.org.md "wikilink")。是與[Microsoft
 Excel功能相當的試算表軟體](../Page/Microsoft_Excel.md "wikilink")，並可以開啟或儲存為[Microsoft
-Excel的檔案格式](../Page/Microsoft_Excel.md "wikilink")，也可存為[.pdf格式](../Page/PDF.md "wikilink")，因為**OpenOffice.org試算表**是以[GNU發布](../Page/GNU.md "wikilink")，為[自由軟體](../Page/自由軟體.md "wikilink")，使用者可以免費下載，或自由散布。
+Excel的檔案格式](../Page/Microsoft_Excel.md "wikilink")，也可存為[.pdf格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，因為**OpenOffice.org試算表**是以[GNU發布](../Page/GNU.md "wikilink")，為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用者可以免費下載，或自由散布。
 
 **OpenOffice.org試算表**通常會預設以[OpenDocument
-Format](../Page/OpenDocument.md "wikilink")（ODF）的格式儲存。但也支援[CSV](../Page/CSV.md "wikilink"),
+Format](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")（ODF）的格式儲存。但也支援[CSV](https://zh.wikipedia.org/wiki/CSV "wikilink"),
 [HTML](../Page/HTML.md "wikilink"),
-[SXC](../Page/OpenOffice.org_XML.md "wikilink"),
-[DBF](../Page/dBase.md "wikilink"),
-[DIF](../Page/Data_Interchange_Format.md "wikilink"),
-[UOF](../Page/Uniform_Office_Format.md "wikilink"),
-[SLK](../Page/SYmbolic_LinK_\(SYLK\).md "wikilink"),
+[SXC](https://zh.wikipedia.org/wiki/OpenOffice.org_XML "wikilink"),
+[DBF](https://zh.wikipedia.org/wiki/dBase "wikilink"),
+[DIF](https://zh.wikipedia.org/wiki/Data_Interchange_Format "wikilink"),
+[UOF](https://zh.wikipedia.org/wiki/Uniform_Office_Format "wikilink"),
+[SLK](https://zh.wikipedia.org/wiki/SYmbolic_LinK_\(SYLK\) "wikilink"),
 [SDC等格式](../Page/StarOffice.md "wikilink")。\[1\]
 
 與其他Openoffice.org檔案一樣，「OpenOffice.org試算表」可跨平台運行。包含[Mac OS
-X](../Page/Mac_OS_X.md "wikilink"), [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink"),
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), [Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
 [Linux](../Page/Linux.md "wikilink"),
-[FreeBSD和](../Page/FreeBSD.md "wikilink")[Solaris等](../Page/Solaris.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")。
+[FreeBSD和](../Page/FreeBSD.md "wikilink")[Solaris等](../Page/Solaris.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ## 特色
 
-  - [開放原始碼](../Page/開放原始碼.md "wikilink")
+  - [開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
   - 可於多平台執行，包含：Windows，MacOS，Linux, Unix等等。
   - 可存為多種格式ODF，Excel（XLS），CSV等格式。
   - 可正確處理許多1900年前的文獻（許多試算表軟體，包含Excel，有1900 bug，所以無法處理1900年1月1日前的文獻）。
-  - 支援很大數量的方程，包含[虛數和一些經濟上或統計上會用到的方程](../Page/虛數.md "wikilink")。
+  - 支援很大數量的方程，包含[虛數和一些經濟上或統計上會用到的方程](https://zh.wikipedia.org/wiki/虛數 "wikilink")。
 
 ## 參見
 
@@ -35,7 +35,7 @@ Windows](../Page/Microsoft_Windows.md "wikilink"),
   - [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
   - [Writer](../Page/OpenOffice.org_Writer.md "wikilink")
   - [Impress](../Page/OpenOffice.org_Impress.md "wikilink")
-  - [Math](../Page/OpenOffice.org_Math.md "wikilink")
+  - [Math](https://zh.wikipedia.org/wiki/OpenOffice.org_Math "wikilink")
   - [Draw](../Page/OpenOffice.org_Draw.md "wikilink")
 
 ## 参考资料

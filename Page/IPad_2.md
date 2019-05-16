@@ -12,7 +12,7 @@ cameras = **Front:** Video recording, VGA up to 30 fps with audio,
 VGA-quality still camera
 **Back:** Video recording, HD（720p）up to 30 fps with audio, HD still
 camera with 5x digital zoom | power =
-内置不可拆卸的可充电[鋰離子聚合物電池](https://zh.wikipedia.org/wiki/鋰離子聚合物電池 "wikilink") 25 W·h (90
+内置不可拆卸的可充电[鋰離子聚合物電池](../Page/鋰離子聚合物電池.md "wikilink") 25 W·h (90
 kJ) | cpu =
 1.08GHz 双核 [A5](../Page/Apple_A5.md "wikilink") 专门设计的高性能低功耗系统级芯片
 | graphics = [PowerVR](../Page/PowerVR.md "wikilink") SGX543MP (cores:
@@ -24,14 +24,16 @@ Sound =
 | service = [iTunes
 Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、[MobileMe](../Page/MobileMe.md "wikilink")、[iBookstore](https://zh.wikipedia.org/wiki/iBooks "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Game
-Center](https://zh.wikipedia.org/wiki/Game_Center "wikilink")、[Photo
+Center](../Page/Game_Center.md "wikilink")、[Photo
 Booth](../Page/Photo_Booth.md "wikilink")\* | dimensions = （高）
 （寬）
 （深） | weight = **Wi-Fi機種：**
 **Wi-Fi+3G機種：** | predecessor = [iPad
-(第一代)](../Page/iPad_\(第一代\).md "wikilink") | successor =
-[iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink") | related =
-[IOS設備清單](../Page/iOS设备列表.md "wikilink") }}   **iPad
+(第一代)](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink") |
+successor = [iPad
+(第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
+| related = [IOS設備清單](https://zh.wikipedia.org/wiki/iOS设备列表 "wikilink")
+}}   **iPad
 2**是苹果公司[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")[开发并](https://zh.wikipedia.org/wiki/开发 "wikilink")[销售的](https://zh.wikipedia.org/wiki/销售 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，是一個视听媒体，图书、期刊、电影、音乐、游戏和网络内容的平台，大小和重量介于市面上的[智能手机和](../Page/智能手机.md "wikilink")[笔记本电脑之间](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。2011年3月2日上午10点（[PST](../Page/太平洋时区.md "wikilink")：18点），苹果公司在[耶尔巴布埃纳艺术中心](https://zh.wikipedia.org/wiki/耶尔巴布埃纳艺术中心 "wikilink")（Yerba
 Buena Center for the
 Arts）发布了这款产品。\[3\]\[4\]\[5\]在iPad 2正式发布前，有许多媒体对它的功能有各种预测。\[6\]
@@ -39,22 +41,24 @@ Arts）发布了这款产品。\[3\]\[4\]\[5\]在iPad 2正式发布前，有许
 2011年4月起，蘋果iPad
 2已在[香港](../Page/香港.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡和其他國家發售](../Page/新加坡.md "wikilink")。\[7\]
 
-2012年3月7日起，蘋果公司发布[iPad 3](../Page/iPad_\(第三代\).md "wikilink")，使得iPad
+2012年3月7日起，蘋果公司发布[iPad
+3](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")，使得iPad
 2因而調整售價，不再提供32GB或64GB規格，另在若干地區持續提供16GB機型作為“入門機”。2014年3月，在臺灣地區停售16GB機型的iPad
 2\[8\]。
 
 ## 硬件
 
 iPad 2加入了前置和后置的摄像头，使用它们可以与[iPhone
-4](../Page/iPhone_4.md "wikilink")、四代[iPod
-touch和](../Page/iPod_touch.md "wikilink")[Mac](../Page/Mac.md "wikilink")（需要[Mac
+4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")、四代[iPod
+touch和](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")（需要[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
 10.6.6或以上版本的系统）\[9\]进行[FaceTime视频聊天](../Page/FaceTime.md "wikilink")。iPad
 2使用了名为[Apple
 A5的](../Page/Apple_A5.md "wikilink")[双核处理器](https://zh.wikipedia.org/wiki/双核处理器 "wikilink")，这使得iPad
-2的运算速度为[前一代的](../Page/iPad_\(第一代\).md "wikilink")2倍，而图形性能为[前一代的](../Page/iPad_\(第一代\).md "wikilink")9倍\[10\]。iPad
+2的运算速度为[前一代的](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")2倍，而图形性能为[前一代的](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")9倍\[10\]。iPad
 2同时支持[CDMA2000和](../Page/CDMA2000.md "wikilink")[GSM](../Page/GSM.md "wikilink")/[UMTS两种](https://zh.wikipedia.org/wiki/UMTS "wikilink")[3G网络制式](../Page/3G.md "wikilink")。\[11\]iPad
-2比前一代薄33%，而且比[iPhone 4也要薄](../Page/iPhone_4.md "wikilink")\[12\]；同时，iPad
+2比前一代薄33%，而且比[iPhone
+4也要薄](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")\[12\]；同时，iPad
 2比前一代轻15%。
 
 ### 音频
@@ -68,7 +72,7 @@ Adapter连接，可以输出杜比5.1声道环绕声。它的音域为20赫兹�
 <thead>
 <tr class="header">
 <th><p>型号</p></th>
-<th><p><a href="../Page/iPad_(第一代).md" title="wikilink">iPad</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad</a></p></th>
 <th><p><strong>iPad 2</strong></p></th>
 </tr>
 </thead>
@@ -141,12 +145,12 @@ PowerVR <a href="https://zh.wikipedia.org/wiki/PowerVR#Series_5_(SGX)" title="wi
 <tr class="odd">
 <td><p><a href="../Page/操作系统.md" title="wikilink">操作系统</a></p></td>
 <td><p>iOS 3.2<br />
-最終可升級至<a href="../Page/iOS_5.md" title="wikilink">iOS 5</a>.1.1</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 4.3<br />
+最終可升級至<a href="https://zh.wikipedia.org/wiki/iOS_5" title="wikilink">iOS 5</a>.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 4.3<br />
 可升級至<a href="https://zh.wikipedia.org/wiki/iOS_9.3.5" title="wikilink">iOS 9.3.5</a> [32]</p></td>
 </tr>
 <tr class="even">
-<td><p>colspan=2 rowspan=2 |内置不可拆卸的可充电<a href="https://zh.wikipedia.org/wiki/鋰離子聚合物電池" title="wikilink">鋰離子聚合物電池</a></p></td>
+<td><p>colspan=2 rowspan=2 |内置不可拆卸的可充电<a href="../Page/鋰離子聚合物電池.md" title="wikilink">鋰離子聚合物電池</a></p></td>
 <td><p>3.75 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 24.8 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6613 <a href="https://zh.wikipedia.org/wiki/Ampere-hour" title="wikilink">mA·h</a>)[33]</p></td>
 <td><p>3.8 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 25 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6579 mA·h)[34]</p></td>
 </tr>
@@ -171,7 +175,7 @@ PowerVR <a href="https://zh.wikipedia.org/wiki/PowerVR#Series_5_(SGX)" title="wi
 </tr>
 <tr class="even">
 <td><p>机械按键</p></td>
-<td><p>Home键、锁定键、音量调节键和侧边自定义开关（在<a href="../Page/iOS.md" title="wikilink">iOS</a>4.3後可自定义为锁定屏幕转动或实现静音）[42]</p></td>
+<td><p>Home键、锁定键、音量调节键和侧边自定义开关（在<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>4.3後可自定义为锁定屏幕转动或实现静音）[42]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -261,7 +265,7 @@ PowerVR <a href="https://zh.wikipedia.org/wiki/PowerVR#Series_5_(SGX)" title="wi
 ## 参见
 
   - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
-  - [iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink")
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
   - [平板電腦](../Page/平板電腦.md "wikilink") – 常规平板电脑
   - [电子书](https://zh.wikipedia.org/wiki/电子书 "wikilink")
   - [iOS設備清單](https://zh.wikipedia.org/wiki/iOS設備清單 "wikilink")

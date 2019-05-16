@@ -25,7 +25,7 @@ Center](https://zh.wikipedia.org/wiki/Portable_Media_Center "wikilink")[用户�
 
 [机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[地铁的指示牌给了](https://zh.wikipedia.org/wiki/地铁 "wikilink")[微软设计团队灵感](../Page/微软.md "wikilink")，其风格大量採用大字体，能吸引觀众之注意力。[微软认为](../Page/微软.md "wikilink")
 Metro
-设计主题应该是：“直覺、易懂、现代”。Modern的图标设计也会不同于[Android和](../Page/Android.md "wikilink")[iOS](../Page/iOS.md "wikilink")。
+设计主题应该是：“直覺、易懂、现代”。Modern的图标设计也会不同于[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 使用於
 
@@ -34,7 +34,7 @@ Metro
     Mesh](https://zh.wikipedia.org/wiki/Live_Mesh "wikilink")。\[9\]
   - [Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows
-    8.1](https://zh.wikipedia.org/wiki/Windows_8.1 "wikilink")。\[10\]
+    8.1](../Page/Windows_8.1.md "wikilink")。\[10\]
   - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
   - [Office
     2013](https://zh.wikipedia.org/wiki/Office_2013 "wikilink")。\[11\]

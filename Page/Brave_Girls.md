@@ -1,5 +1,5 @@
 **Brave
-Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂在](https://zh.wikipedia.org/wiki/Brave娛樂 "wikilink")2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那、夏昀。
+Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂在](../Page/Brave娛樂.md "wikilink")2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那、夏昀。
 
 2011年4月8日發行首張單曲《The Difference》，並於音樂銀行正式出道。
 

@@ -46,7 +46,7 @@
 
 ### 已退隊成員
 
-#### [戴安娜](https://zh.wikipedia.org/wiki/戴安娜_\(歌手\) "wikilink")（Jin）
+#### [戴安娜](../Page/戴安娜_\(歌手\).md "wikilink")（Jin）
 
   - Misster前任團長及主音
   - 生日：1982年11月1日

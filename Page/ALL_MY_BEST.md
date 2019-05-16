@@ -11,11 +11,11 @@ BEST**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")」與「[Kiss](../Page/Kiss_\(倉木麻衣單曲\).md "wikilink")」。
   - 新曲「我所不認識的自己」（わたしの、しらない、わたし。）是倉木本人出演KOSE「Precious Esupuriku」的廣告歌。
   - [Oricon公信榜最高名次](../Page/Oricon公信榜.md "wikilink")1位，繼專輯「[touch
-    Me\!](../Page/touch_Me!.md "wikilink")」後再次獲得公信榜冠軍，2009年達成此紀錄的只有倉木麻衣跟[GReeeeN](../Page/GReeeeN.md "wikilink")。
+    Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」後再次獲得公信榜冠軍，2009年達成此紀錄的只有倉木麻衣跟[GReeeeN](../Page/GReeeeN.md "wikilink")。
   - [Oricon公信榜年間名次](../Page/Oricon公信榜.md "wikilink")25位，自精選輯「[Wish You
     The
     Best](../Page/Wish_You_The_Best.md "wikilink")」後最高名次，同年的原創專輯「[touch
-    Me\!](../Page/touch_Me!.md "wikilink")」則是第96位。
+    Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」則是第96位。
 
 ## 曲目
 
@@ -81,7 +81,7 @@ BEST**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     <!-- end list -->
       -
         第8張單曲
-12. **[always](../Page/always_\(倉木麻衣單曲\).md "wikilink")**
+12. **[always](https://zh.wikipedia.org/wiki/always_\(倉木麻衣單曲\) "wikilink")**
       - 作詞:倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
@@ -125,11 +125,12 @@ BEST**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     <!-- end list -->
       -
         第32張單曲
-4.  **[touch Me\!](../Page/touch_Me!.md "wikilink")**
+4.  **[touch Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")**
       - 作詞:倉木麻衣　作曲：望月由繪　編曲：平賀貴大
     <!-- end list -->
       -
-        第8張專輯「[touch Me\!](../Page/touch_Me!.md "wikilink")」收錄歌曲
+        第8張專輯「[touch
+        Me\!](https://zh.wikipedia.org/wiki/touch_Me! "wikilink")」收錄歌曲
 5.  **[每一秒都Love for you](../Page/每一秒都Love_for_you.md "wikilink")**
       - 作詞:倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
@@ -231,7 +232,8 @@ BEST**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikil
     　［Mai Kuraki Live Tour 2007 〜BE WITH U〜］
 14. [Season of love](../Page/Season_of_love.md "wikilink")　 ［Mai Kuraki
     Live Tour 2008 "touch Me\!"］
-15. [Everything's All Right](../Page/delicious_way.md "wikilink")　 ［Mai
+15. [Everything's All
+    Right](https://zh.wikipedia.org/wiki/delicious_way "wikilink")　 ［Mai
     Kuraki Live Tour 2008 "touch Me\!"］
 16. [Growing of my heart](../Page/Growing_of_my_heart.md "wikilink") 　
     ［Mai Kuraki Live Tour 2008 "touch Me\!"］

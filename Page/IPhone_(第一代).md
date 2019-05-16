@@ -36,13 +36,13 @@ iPhone的主体是一面3.5英寸（89毫米）[多点触控触摸屏](https://z
 iPhone是一部4频段[GSM制式的智能電話](../Page/GSM.md "wikilink")，支持[EDGE和](https://zh.wikipedia.org/wiki/EDGE "wikilink")[802.11b](https://zh.wikipedia.org/wiki/802.11 "wikilink")/g无线上网，支援-{zh-hans:电邮;
 zh-hant:電子郵件;}-、[-{zh-hans:移动;
 zh-hant:行動;}-通话](https://zh.wikipedia.org/wiki/手機 "wikilink")、[簡訊](../Page/簡訊.md "wikilink")、網路瀏覽以及其他的無線通訊服務。iPhone没有鍵盤，而是创新地引入了[多點觸控的](../Page/多點觸控.md "wikilink")[-{zh-hans:触摸屏界面;
-zh-hant:觸控螢幕;}-](../Page/觸控式螢幕.md "wikilink")，於當時在操作性上与其他品牌的手提電話相比占有领先地位。iPhone包括了[iPod的媒体播放功能](../Page/iPod.md "wikilink")，和為了移動設備修改後的[Mac
+zh-hant:觸控螢幕;}-](../Page/觸控式螢幕.md "wikilink")，於當時在操作性上与其他品牌的手提電話相比占有领先地位。iPhone包括了[iPod的媒体播放功能](https://zh.wikipedia.org/wiki/iPod "wikilink")，和為了移動設備修改後的[Mac
 OS X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 软件
 
 在iPhone发行过程中，iPhone的操作系统曾被命名为“iPhone
-OS”，但在之后的升级版本中，苹果公司将系统名称改为“[iOS](../Page/iOS.md "wikilink")”。尽管苹果公司已经停止对第一代iPhone进行升级更高版本iOS的支持，但用户可通过[iOS越狱来进行升级](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。甚至有黑客曾将[Android系统安装到iPhone中](../Page/Android.md "wikilink")\[23\]。第一代iPhone发售时支持虚拟语音信箱、HTML电子邮件、Safari网页浏览器、YouTube等功能，但并没有剪切、复制和粘贴功能。但在2009年6月17日放出的iPhone
+OS”，但在之后的升级版本中，苹果公司将系统名称改为“[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")”。尽管苹果公司已经停止对第一代iPhone进行升级更高版本iOS的支持，但用户可通过[iOS越狱来进行升级](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。甚至有黑客曾将[Android系统安装到iPhone中](../Page/Android.md "wikilink")\[23\]。第一代iPhone发售时支持虚拟语音信箱、HTML电子邮件、Safari网页浏览器、YouTube等功能，但并没有剪切、复制和粘贴功能。但在2009年6月17日放出的iPhone
 OS 3.0版本升级中，iPhone开始支持这些功能\[24\]。
 
 ## 评价

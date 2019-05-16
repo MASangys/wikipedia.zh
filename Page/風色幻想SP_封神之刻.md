@@ -1,4 +1,4 @@
-**風色幻想SP－封神之刻**，爱好者中通称“SP”，是[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[弘煜科技事业股份有限公司开发制作](https://zh.wikipedia.org/wiki/弘煜科技 "wikilink")，于2000年发售的[角色扮演游戏](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")。是该公司[风色幻想系列的第二部作品](https://zh.wikipedia.org/wiki/风色幻想 "wikilink")。
+**風色幻想SP－封神之刻**，爱好者中通称“SP”，是[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[弘煜科技事业股份有限公司开发制作](../Page/弘煜科技.md "wikilink")，于2000年发售的[角色扮演游戏](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")。是该公司[风色幻想系列的第二部作品](https://zh.wikipedia.org/wiki/风色幻想 "wikilink")。
 
 ## 游戏版本
 
@@ -470,7 +470,7 @@
 
 ## 参见
 
-  - [弘煜科技](https://zh.wikipedia.org/wiki/弘煜科技 "wikilink")
+  - [弘煜科技](../Page/弘煜科技.md "wikilink")
 
 ## 外部链接
 

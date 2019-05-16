@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISFJ**（内倾/感觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")，在[柯尔塞气质类型测试中被称为](../Page/柯尔塞气质类型测试.md "wikilink")**[保护者](../Page/保护者_\(角色变异\).md "wikilink")**，属于[监护人的四种类型之一](../Page/监护人_\(气质类型\).md "wikilink")，\[1\]
+**ISFJ**（内倾/感觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[保护者](https://zh.wikipedia.org/wiki/保护者_\(角色变异\) "wikilink")**，属于[监护人的四种类型之一](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")，\[1\]
 大概占人口的9%-14%。.\[2\]\[3\]
 
 ## MBTI偏好
@@ -16,7 +16,7 @@
 
 ### MBTI描述
 
-根据[MBTI的描述](../Page/MBTI.md "wikilink")，ISFJ们热衷于在他们生活的每一面维持秩序和制造和谐。他们在处理自己分内事情的时候脚踏实地、一丝不苟。虽然生性宁静，他们却以人为本且观察力敏锐。他们不仅记住关于别人的细节，而且还观察并尊重他人的感受。朋友和家人通常会有“体贴、可信赖”描述他们。
+根据[MBTI的描述](https://zh.wikipedia.org/wiki/MBTI "wikilink")，ISFJ们热衷于在他们生活的每一面维持秩序和制造和谐。他们在处理自己分内事情的时候脚踏实地、一丝不苟。虽然生性宁静，他们却以人为本且观察力敏锐。他们不仅记住关于别人的细节，而且还观察并尊重他人的感受。朋友和家人通常会有“体贴、可信赖”描述他们。
 
 ### 柯尔塞气质类型测试的描述
 
@@ -62,10 +62,10 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
 
 ## 相关条目
 
-  - [MBTI](../Page/MBTI.md "wikilink")
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
-  - [监护人](../Page/监护人_\(气质类型\).md "wikilink")
-  - [保护者](../Page/保护者_\(角色变异\).md "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
+  - [监护人](https://zh.wikipedia.org/wiki/监护人_\(气质类型\) "wikilink")
+  - [保护者](https://zh.wikipedia.org/wiki/保护者_\(角色变异\) "wikilink")
 
 ## 参考资料
 

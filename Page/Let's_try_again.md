@@ -6,7 +6,7 @@ Amuse\!\!](../Page/Amuse.md "wikilink")」發行的慈善[單曲](https://zh.wik
 
 [Amuse為支援](../Page/Amuse.md "wikilink")[東日本大地震災區而舉行的一次賑災活動](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，在2011年3月下旬就提出活動企劃，著名音樂人、[南方之星的主唱](../Page/南方之星.md "wikilink")[桑田佳祐提出了企劃名稱](../Page/桑田佳祐.md "wikilink")「Team
 Amuse\!\!」和歌曲名稱「Let's try
-again」。以桑田佳祐為中心，Amuse旗下37組54人參加了這次活動。不僅包括音樂人（如南方之星五位成員以個人身份參加、[福山雅治](../Page/福山雅治.md "wikilink")、[BEGIN](https://zh.wikipedia.org/wiki/BEGIN_\(樂團\) "wikilink")、[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")、[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")，還有已解散的樂團[爆風SLUMP原有成員等](https://zh.wikipedia.org/wiki/爆風SLUMP "wikilink")），還有知名演員參加（如[岸谷五朗](https://zh.wikipedia.org/wiki/岸谷五朗 "wikilink")、[上野樹里](../Page/上野樹里.md "wikilink")、[吉高由里子等](../Page/吉高由里子.md "wikilink")）。\[1\]
+again」。以桑田佳祐為中心，Amuse旗下37組54人參加了這次活動。不僅包括音樂人（如南方之星五位成員以個人身份參加、[福山雅治](../Page/福山雅治.md "wikilink")、[BEGIN](https://zh.wikipedia.org/wiki/BEGIN_\(樂團\) "wikilink")、[色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")、[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")，還有已解散的樂團[爆風SLUMP原有成員等](https://zh.wikipedia.org/wiki/爆風SLUMP "wikilink")），還有知名演員參加（如[岸谷五朗](../Page/岸谷五朗.md "wikilink")、[上野樹里](../Page/上野樹里.md "wikilink")、[吉高由里子等](../Page/吉高由里子.md "wikilink")）。\[1\]
 
 《Let's try
 again》是將Amuse旗下藝人的14首經典歌曲，以歌曲串燒的形式連在一起，並加上由桑田佳祐和[曾我淳一新創造的高潮部分](https://zh.wikipedia.org/wiki/曾我淳一 "wikilink")，總長度約9分鐘。全體參加藝人在青山VICTOR攝影棚內拍攝了[音樂錄像帶](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")，MV中眾人大跳[Para
@@ -48,7 +48,7 @@ Para風格的舞蹈](../Page/Para_Para.md "wikilink")。\[2\]4月20日開放網�
   - [小倉久寬](https://zh.wikipedia.org/wiki/小倉久寬 "wikilink")
   - [加藤貴子](https://zh.wikipedia.org/wiki/加藤貴子 "wikilink")
   - [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
-  - [岸谷五朗](https://zh.wikipedia.org/wiki/岸谷五朗 "wikilink")
+  - [岸谷五朗](../Page/岸谷五朗.md "wikilink")
   - [桑田佳祐](../Page/桑田佳祐.md "wikilink")（[南方之星](../Page/南方之星.md "wikilink")）
   - [小出惠介](../Page/小出惠介.md "wikilink")
   - [小松彩夏](../Page/小松彩夏.md "wikilink")

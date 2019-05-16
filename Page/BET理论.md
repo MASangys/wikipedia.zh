@@ -1,5 +1,5 @@
 **BET
-理论**是由[斯蒂芬·布鲁诺尔](../Page/斯蒂芬·布鲁诺尔.md "wikilink")（）、[保罗·休·艾米特](../Page/保罗·休·艾米特.md "wikilink")（）和[愛德華·泰勒](../Page/愛德華·泰勒.md "wikilink")（）在1938年提出的解释气体分子在[固体](../Page/固体.md "wikilink")[表面吸附现象的理论](../Page/表面.md "wikilink")，以他们发表在[美国化学会志上的一篇论文](../Page/美国化学会志.md "wikilink")\[1\]为其建立的标志。该理论是对固体表面进行分析研究的重要理论基础。
+理论**是由[斯蒂芬·布鲁诺尔](https://zh.wikipedia.org/wiki/斯蒂芬·布鲁诺尔 "wikilink")（）、[保罗·休·艾米特](https://zh.wikipedia.org/wiki/保罗·休·艾米特 "wikilink")（）和[愛德華·泰勒](../Page/愛德華·泰勒.md "wikilink")（）在1938年提出的解释气体分子在[固体](../Page/固体.md "wikilink")[表面吸附现象的理论](https://zh.wikipedia.org/wiki/表面 "wikilink")，以他们发表在[美国化学会志上的一篇论文](../Page/美国化学会志.md "wikilink")\[1\]为其建立的标志。该理论是对固体表面进行分析研究的重要理论基础。
 
 ## 基本关系式
 
@@ -20,7 +20,7 @@ BET
 </center>
 
 式中，\(P, P_0, v, v_m\)
-分别为平衡压强、[饱和蒸气压](../Page/饱和蒸气压.md "wikilink")、平衡气体吸附量、[单层饱和吸附量](../Page/单分子层.md "wikilink")，\(c\)
+分别为平衡压强、[饱和蒸气压](https://zh.wikipedia.org/wiki/饱和蒸气压 "wikilink")、平衡气体吸附量、[单层饱和吸附量](https://zh.wikipedia.org/wiki/单分子层 "wikilink")，\(c\)
 称为 BET 常数，由下式给出。
 
 <center>
@@ -52,8 +52,8 @@ BET
 ## 应用
 
 BET 吸附等温式广泛用于求算固体材料的表面积。一种固体材料的总表面积 \(S_{total}\)
-与[比表面](../Page/比表面.md "wikilink") \(S\) 由下两式给出，其中 \(v_m\)
-为以体积表示的单层饱和吸附量。
+与[比表面](https://zh.wikipedia.org/wiki/比表面 "wikilink") \(S\)
+由下两式给出，其中 \(v_m\) 为以体积表示的单层饱和吸附量。
 
 <center>
 
@@ -67,13 +67,13 @@ BET 吸附等温式广泛用于求算固体材料的表面积。一种固体材�
 
 </center>
 
-|                                                          |
-| -------------------------------------------------------- |
-| \(N_{\text{A}}\): [亞佛加厥常數](../Page/亞佛加厥常數.md "wikilink") |
-| \(s\): 吸附物种的吸附截面积                                        |
-| \(V\): 吸附物种的摩尔体积                                         |
-| \(a\): 吸附材料的质量                                           |
-|                                                          |
+|                                                                             |
+| --------------------------------------------------------------------------- |
+| \(N_{\text{A}}\): [亞佛加厥常數](https://zh.wikipedia.org/wiki/亞佛加厥常數 "wikilink") |
+| \(s\): 吸附物种的吸附截面积                                                           |
+| \(V\): 吸附物种的摩尔体积                                                            |
+| \(a\): 吸附材料的质量                                                              |
+|                                                                             |
 
 ## 实例
 
@@ -89,12 +89,12 @@ BET 图。当水温为97°C时，实验得到 BET 图的斜率为 24.20 克/克�
 
 [活性炭是一种常见的强吸附剂](../Page/活性炭.md "wikilink")。在[液態氮的温度下活性炭对](../Page/液氮.md "wikilink")[氮气](../Page/氮.md "wikilink")（其吸附截面为
 0.16 平方纳米）的吸附实验表明，活性炭的比表面积为
-\(3000 \text{m}^2/\text{g}\)。如此大的比表面积表明活性炭作为固体[催化剂有着十分良好的催化性能](../Page/催化剂.md "wikilink")。常见的无机固体催化剂如[介孔氧化硅等也有着每克数百平方米的比表面](../Page/介孔氧化硅.md "wikilink")。
+\(3000 \text{m}^2/\text{g}\)。如此大的比表面积表明活性炭作为固体[催化剂有着十分良好的催化性能](../Page/催化剂.md "wikilink")。常见的无机固体催化剂如[介孔氧化硅等也有着每克数百平方米的比表面](https://zh.wikipedia.org/wiki/介孔氧化硅 "wikilink")。
 
 ## 参见
 
-  - [吸附](../Page/吸附.md "wikilink")
-  - [表面张力](../Page/表面張力係數.md "wikilink")
+  - [吸附](https://zh.wikipedia.org/wiki/吸附 "wikilink")
+  - [表面张力](https://zh.wikipedia.org/wiki/表面張力係數 "wikilink")
 
 ## 参考文献
 

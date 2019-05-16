@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ISTP**(内倾/感觉/思考/理解)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")，在[柯尔塞气质类型测试中被称为](../Page/柯尔塞气质类型测试.md "wikilink")**[巧匠](../Page/巧匠_\(角色变异\).md "wikilink")**，属于[工匠的四种类型之一](../Page/工匠_\(气质类型\).md "wikilink")。\[1\]
+**ISTP**(内倾/感觉/思考/理解)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[巧匠](https://zh.wikipedia.org/wiki/巧匠_\(角色变异\) "wikilink")**，属于[工匠的四种类型之一](https://zh.wikipedia.org/wiki/工匠_\(气质类型\) "wikilink")。\[1\]
 
 ISTP大概占人口总数的4%-10%。\[2\]
 
@@ -17,7 +17,7 @@ ISTP大概占人口总数的4%-10%。\[2\]
 
 ### 迈尔斯·布里格斯分类法的描述
 
-据迈尔斯·布里格斯分类法，ISTP们擅长于分析情形接近问题的核心，因此他们可以即刻完成功能性的补救，这让他们完美地适合[工程学的领域](../Page/工程学.md "wikilink")。他们是天生安静的人，对理解系统如何运行感兴趣，专注于有效率的操作和结构。他们对新的信息和途径保持开放。但同他们表面上超然的天性不同，ISTP们通常有能力对他们周围的世界作出幽默而充满洞察力的观测。同時私下里他们敢於高速度或高风险的娱乐（比如[蹦极](../Page/蹦极.md "wikilink")、[滑翔](../Page/滑翔.md "wikilink")、[竞速运动](../Page/竞速运动.md "wikilink")、[摩托车运动和](../Page/摩托车运动.md "wikilink")[跳伞](../Page/跳伞.md "wikilink")），运动（如[滑雪](../Page/滑雪.md "wikilink")、[彩弹球](../Page/彩弹球.md "wikilink")、[冰壶以及](../Page/冰壶.md "wikilink")[水肺潜水](../Page/水肺潜水.md "wikilink")）或事业（比如[航空和](../Page/航空.md "wikilink")[消防](../Page/消防.md "wikilink")）。
+据迈尔斯·布里格斯分类法，ISTP们擅长于分析情形接近问题的核心，因此他们可以即刻完成功能性的补救，这让他们完美地适合[工程学的领域](../Page/工程学.md "wikilink")。他们是天生安静的人，对理解系统如何运行感兴趣，专注于有效率的操作和结构。他们对新的信息和途径保持开放。但同他们表面上超然的天性不同，ISTP们通常有能力对他们周围的世界作出幽默而充满洞察力的观测。同時私下里他们敢於高速度或高风险的娱乐（比如[蹦极](../Page/蹦极.md "wikilink")、[滑翔](../Page/滑翔.md "wikilink")、[竞速运动](https://zh.wikipedia.org/wiki/竞速运动 "wikilink")、[摩托车运动和](https://zh.wikipedia.org/wiki/摩托车运动 "wikilink")[跳伞](../Page/跳伞.md "wikilink")），运动（如[滑雪](https://zh.wikipedia.org/wiki/滑雪 "wikilink")、[彩弹球](https://zh.wikipedia.org/wiki/彩弹球 "wikilink")、[冰壶以及](https://zh.wikipedia.org/wiki/冰壶 "wikilink")[水肺潜水](https://zh.wikipedia.org/wiki/水肺潜水 "wikilink")）或事业（比如[航空和](../Page/航空.md "wikilink")[消防](https://zh.wikipedia.org/wiki/消防 "wikilink")）。
 
 ISTP们有时候可能在行动时看起來不顾及过程、方向、礼节甚至他们自己的安全或随性。事实上都是基于在行动和观察中长久以来积累的广泛知识。ISTP们喜欢自给自足，在他们自己对问题解决方式的改进中充满了骄傲。
 
@@ -25,7 +25,7 @@ ISTP们同意别人按他们自己的方式过活，只要别人能够包容他�
 
 ### 柯尔塞气质类型的描述
 
-根据柯尔塞的说法，ISTP们精通运用每一种工具——艺术的、技术的甚至是武器。虽然他们是[内向型](../Page/外向性与内向型.md "wikilink")，在他们和别人的交流中他们通常占据主动权，可能对他人造成强烈影响。他们专注于高效和巧妙地完成工作。
+根据柯尔塞的说法，ISTP们精通运用每一种工具——艺术的、技术的甚至是武器。虽然他们是[内向型](https://zh.wikipedia.org/wiki/外向性与内向型 "wikilink")，在他们和别人的交流中他们通常占据主动权，可能对他人造成强烈影响。他们专注于高效和巧妙地完成工作。
 
 为了精通他们感兴趣的工具，ISTP们需要一定程度上的隔绝来练习。这给了他们其它类型望尘莫及的精湛技艺。\[9\]
 
@@ -70,15 +70,15 @@ Fi过滤信息，这种过滤的基础是缘于标准（经常是无形的）形
 
 ## 相关条目
 
-  - [MBTI](../Page/MBTI.md "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
 
 <!-- end list -->
 
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
 
 <!-- end list -->
 
-  - [巧匠 (角色变异)](../Page/巧匠_\(角色变异\).md "wikilink")
+  - [巧匠 (角色变异)](https://zh.wikipedia.org/wiki/巧匠_\(角色变异\) "wikilink")
 
 ## 参考资料
 

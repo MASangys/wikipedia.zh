@@ -1,4 +1,4 @@
-**LeJOS**是[SourceForge.net上的](../Page/SourceForge.net.md "wikilink")[開源專案](../Page/開源.md "wikilink")，是使用[Java語言來操控](../Page/Java語言.md "wikilink")[樂高Mindstorms
+**LeJOS**是[SourceForge.net上的](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")[開源專案](https://zh.wikipedia.org/wiki/開源 "wikilink")，是使用[Java語言來操控](https://zh.wikipedia.org/wiki/Java語言 "wikilink")[樂高Mindstorms
 NXT和](../Page/樂高Mindstorms_NXT.md "wikilink")[RCX的開發平台](../Page/樂高Mindstorms_RCX.md "wikilink")，提供類別庫、教學文件以及論壇，目前最新版本是0.9。
 
 ## 歷史

@@ -16,7 +16,7 @@
 & Kendy成員Kendy](../Page/Robynn_&_Kendy.md "wikilink")
 Suen[孫曉慧作曲](https://zh.wikipedia.org/wiki/孫曉慧 "wikilink")，為電影《[志明與春嬌](../Page/志明與春嬌_\(電影\).md "wikilink")》主題曲。
 
-此專輯並在短短四日便達至[金唱片的銷量](../Page/金唱片.md "wikilink")，成為該年第41周的《[香港唱片商會銷量榜](https://zh.wikipedia.org/wiki/香港唱片商會銷量榜冠軍唱片列表 "wikilink")》冠軍唱片，成績驕人。
+此專輯並在短短四日便達至[金唱片的銷量](../Page/金唱片.md "wikilink")，成為該年第41周的《[香港唱片商會銷量榜](../Page/香港唱片商會銷量榜冠軍唱片列表.md "wikilink")》冠軍唱片，成績驕人。
 
 ## 曲目
 

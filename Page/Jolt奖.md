@@ -1,9 +1,9 @@
-**Jolt**奖，是[计算机](../Page/计算机.md "wikilink")[软件领域的一系列奖项](../Page/软件.md "wikilink")，类似于[电影领域的](../Page/电影.md "wikilink")[奥斯卡奖](../Page/奥斯卡奖.md "wikilink")\[1\]。该奖由《Dr.
+**Jolt**奖，是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[软件领域的一系列奖项](../Page/软件.md "wikilink")，类似于[电影领域的](../Page/电影.md "wikilink")[奥斯卡奖](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")\[1\]。该奖由《Dr.
 Dobb's Journal》（Dobb博士的杂志）于1990年开始每年发表。
 
 ## 简介
 
-Jolt在英语中意为“震撼”，该奖以此命名，是因为要表彰的是那些给软件业带来震撼的产品、方法和书籍等。尤其在书籍方面的奖项更为业内人士所知晓，许多介绍软件开发的方法经验的著名书籍，曾收获了该奖中的某些项目。例如今年业界比较热门的开发方法——[敏捷开发](../Page/敏捷开发.md "wikilink")，介绍该方法的书籍包括：获得第13届Jolt奖中通用书籍类卓越奖的《敏捷软件开发——原则、模式与实践》\[2\]，以及17届Jolt奖通用书籍类卓越奖的《敏捷软件开发》（第二版）\[3\]。该奖项由[Jolt可乐赞助](../Page/Jolt可乐.md "wikilink")，因此其标识和名称都和Jolt可乐相似。
+Jolt在英语中意为“震撼”，该奖以此命名，是因为要表彰的是那些给软件业带来震撼的产品、方法和书籍等。尤其在书籍方面的奖项更为业内人士所知晓，许多介绍软件开发的方法经验的著名书籍，曾收获了该奖中的某些项目。例如今年业界比较热门的开发方法——[敏捷开发](https://zh.wikipedia.org/wiki/敏捷开发 "wikilink")，介绍该方法的书籍包括：获得第13届Jolt奖中通用书籍类卓越奖的《敏捷软件开发——原则、模式与实践》\[2\]，以及17届Jolt奖通用书籍类卓越奖的《敏捷软件开发》（第二版）\[3\]。该奖项由[Jolt可乐赞助](https://zh.wikipedia.org/wiki/Jolt可乐 "wikilink")，因此其标识和名称都和Jolt可乐相似。
 
 ## 分类
 
@@ -14,7 +14,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    自2002年起，该分类下还细分为通用类和技术类。但自2010年度起，书籍类的奖项看似再度变成不分类。其中通用类包括但不限于：计算机历史，[最佳实践](../Page/最佳实践.md "wikilink")、项目管理、开发者和（或）团队效率，以及与软件行业相关的社会经济学、规章制度和职业发展等问题的研究。技术类包括但不限于：[软件开发语言](../Page/编程语言.md "wikilink")、[系统](../Page/系统.md "wikilink")、[硬件](../Page/硬件.md "wikilink")，以及编写[代码过程中的](../Page/代码.md "wikilink")[风格](../Page/代码风格.md "wikilink")、技术、[平台](../Page/平台.md "wikilink")、[操作系统](../Page/操作系统.md "wikilink")、[建模](../Page/建模.md "wikilink")、[架构](../Page/架构.md "wikilink")、源代码优化和源代码级安全问题。在2008年及以前，大多数时候这两个分类下会分别有1项卓越奖和3项生产力奖，但自2009年度起，每个分类只颁发2个生产力奖。此外，1992年及1993年较为特殊——有2个卓越奖（需要注意当时并没有开始分通用类和技术类两个类目）；
+    自2002年起，该分类下还细分为通用类和技术类。但自2010年度起，书籍类的奖项看似再度变成不分类。其中通用类包括但不限于：计算机历史，[最佳实践](https://zh.wikipedia.org/wiki/最佳实践 "wikilink")、项目管理、开发者和（或）团队效率，以及与软件行业相关的社会经济学、规章制度和职业发展等问题的研究。技术类包括但不限于：[软件开发语言](../Page/编程语言.md "wikilink")、[系统](https://zh.wikipedia.org/wiki/系统 "wikilink")、[硬件](../Page/硬件.md "wikilink")，以及编写[代码过程中的](../Page/代码.md "wikilink")[风格](https://zh.wikipedia.org/wiki/代码风格 "wikilink")、技术、[平台](../Page/平台.md "wikilink")、[操作系统](../Page/操作系统.md "wikilink")、[建模](https://zh.wikipedia.org/wiki/建模 "wikilink")、[架构](https://zh.wikipedia.org/wiki/架构 "wikilink")、源代码优化和源代码级安全问题。在2008年及以前，大多数时候这两个分类下会分别有1项卓越奖和3项生产力奖，但自2009年度起，每个分类只颁发2个生产力奖。此外，1992年及1993年较为特殊——有2个卓越奖（需要注意当时并没有开始分通用类和技术类两个类目）；
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注在软件开发过程中，为代码[版本控制](../Page/版本控制.md "wikilink")、[缺陷管理跟踪等相关问题提供便利的工具](../Page/缺陷.md "wikilink")，以及配置管理工具等；
+    该分类主要关注在软件开发过程中，为代码[版本控制](../Page/版本控制.md "wikilink")、[缺陷管理跟踪等相关问题提供便利的工具](https://zh.wikipedia.org/wiki/缺陷 "wikilink")，以及配置管理工具等；
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类关注的是用于收集[需求](../Page/需求.md "wikilink")、建模、[原型设计](../Page/原型设计.md "wikilink")、[图形用户界面设计等的工具](../Page/图形用户界面.md "wikilink")、分析工具以及根据模型自动生成代码的工具；
+    该分类关注的是用于收集[需求](https://zh.wikipedia.org/wiki/需求 "wikilink")、建模、[原型设计](https://zh.wikipedia.org/wiki/原型设计 "wikilink")、[图形用户界面设计等的工具](../Page/图形用户界面.md "wikilink")、分析工具以及根据模型自动生成代码的工具；
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注的工具，是那些致力于帮助企业及应用开发者，使其开发的能够跨区、部门甚至公司的应用程序运行的更加平顺、有效、有竞争力以及节约成本。这包括（但不限于）：企业工作流和集成、文件管理、[SOA](../Page/SOA.md "wikilink")、[ESB](../Page/ESB.md "wikilink")、[EIS](../Page/EIS.md "wikilink")、生命周期、趋势分析以及过程优化等；
+    该分类主要关注的工具，是那些致力于帮助企业及应用开发者，使其开发的能够跨区、部门甚至公司的应用程序运行的更加平顺、有效、有竞争力以及节约成本。这包括（但不限于）：企业工作流和集成、文件管理、[SOA](https://zh.wikipedia.org/wiki/SOA "wikilink")、[ESB](https://zh.wikipedia.org/wiki/ESB "wikilink")、[EIS](https://zh.wikipedia.org/wiki/EIS "wikilink")、生命周期、趋势分析以及过程优化等；
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注于开发者非常需要集成在他们开发的应用当中的各种[库](../Page/库.md "wikilink")、[框架和](../Page/框架.md "wikilink")[组件](../Page/组件.md "wikilink")，无论这些东西的目标是单一的，还是关注不同方面的；
+    该分类主要关注于开发者非常需要集成在他们开发的应用当中的各种[库](https://zh.wikipedia.org/wiki/库 "wikilink")、[框架和](https://zh.wikipedia.org/wiki/框架 "wikilink")[组件](https://zh.wikipedia.org/wiki/组件 "wikilink")，无论这些东西的目标是单一的，还是关注不同方面的；
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注于[移动](../Page/移动设备.md "wikilink")（包括[手持](../Page/手持设备.md "wikilink")）设备商的应用，以及[网页应用的开发工具和解决方案](../Page/网页.md "wikilink")，包括但不限于：[网络管理](../Page/网络.md "wikilink")、[应用程序服务器及其基础架构](../Page/应用程序服务器.md "wikilink")，以及实用诸如[XML](../Page/XML.md "wikilink")、[SOAP和](../Page/SOAP.md "wikilink")[HTML等公开标准的工具](../Page/HTML.md "wikilink")；
+    该分类主要关注于[移动](../Page/移动设备.md "wikilink")（包括[手持](https://zh.wikipedia.org/wiki/手持设备 "wikilink")）设备商的应用，以及[网页应用的开发工具和解决方案](https://zh.wikipedia.org/wiki/网页 "wikilink")，包括但不限于：[网络管理](https://zh.wikipedia.org/wiki/网络 "wikilink")、[应用程序服务器及其基础架构](https://zh.wikipedia.org/wiki/应用程序服务器 "wikilink")，以及实用诸如[XML](../Page/XML.md "wikilink")、[SOAP和](https://zh.wikipedia.org/wiki/SOAP "wikilink")[HTML等公开标准的工具](../Page/HTML.md "wikilink")；
 
 <!-- end list -->
 
@@ -86,7 +86,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类主要关注于在安全方面辅助开发者的工具，包括但不限于：[鉴权和](../Page/鉴权.md "wikilink")[加密](../Page/加密.md "wikilink")、[代码分析](../Page/代码分析.md "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[网络监控](../Page/网络监控.md "wikilink")、系统改进、[系统监控以及如何阻止](../Page/系统监控.md "wikilink")[垃圾邮件等](../Page/垃圾邮件.md "wikilink")；
+    该分类主要关注于在安全方面辅助开发者的工具，包括但不限于：[鉴权和](https://zh.wikipedia.org/wiki/鉴权 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")、[代码分析](https://zh.wikipedia.org/wiki/代码分析 "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[网络监控](../Page/网络监控.md "wikilink")、系统改进、[系统监控以及如何阻止](https://zh.wikipedia.org/wiki/系统监控 "wikilink")[垃圾邮件等](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")；
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类关注的是[测试脚本](../Page/测试脚本.md "wikilink")、测试自动化、缺陷和[BUG跟踪记录](../Page/BUG.md "wikilink")、功能和[负载测试](../Page/负载.md "wikilink")、质量保证计划、[测试用例设计](../Page/测试用例.md "wikilink")、[白盒测试与](../Page/白盒测试.md "wikilink")[黑盒测试以及源代码分析等工具](../Page/黑盒测试.md "wikilink")；
+    该分类关注的是[测试脚本](https://zh.wikipedia.org/wiki/测试脚本 "wikilink")、测试自动化、缺陷和[BUG跟踪记录](https://zh.wikipedia.org/wiki/BUG "wikilink")、功能和[负载测试](https://zh.wikipedia.org/wiki/负载 "wikilink")、质量保证计划、[测试用例设计](https://zh.wikipedia.org/wiki/测试用例 "wikilink")、[白盒测试与](../Page/白盒测试.md "wikilink")[黑盒测试以及源代码分析等工具](https://zh.wikipedia.org/wiki/黑盒测试 "wikilink")；
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@ Jolt奖分许多的类目，它的分类方式在历史上发生过多次变化�
 <!-- end list -->
 
   -
-    该分类关注与能让开发者个性化定制的工具，例如：代码的调优和标准化、[编译工具](../Page/编译.md "wikilink")、平台和设备的[模拟器](../Page/模拟器.md "wikilink")、[代码混淆器](../Page/代码混淆器.md "wikilink")、信息传递解决方案、帮助文档编写工具、产品演示工具、[逆向工程工具等](../Page/逆向工程.md "wikilink")。
+    该分类关注与能让开发者个性化定制的工具，例如：代码的调优和标准化、[编译工具](https://zh.wikipedia.org/wiki/编译 "wikilink")、平台和设备的[模拟器](https://zh.wikipedia.org/wiki/模拟器 "wikilink")、[代码混淆器](https://zh.wikipedia.org/wiki/代码混淆器 "wikilink")、信息传递解决方案、帮助文档编写工具、产品演示工具、[逆向工程工具等](../Page/逆向工程.md "wikilink")。
 
 除了上述奖项之外，从1996年起还发布一个荣誉榜，其中包含了该奖认为在提高开发效率等方面对业界贡献较大的产品和（或）公司\[5\]。
 

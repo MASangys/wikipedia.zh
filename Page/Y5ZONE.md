@@ -29,7 +29,7 @@ Y5ZONE在香港各區設立超過6500個熱點\[7\]，包括各[大專院校](ht
   - 預繳Wi-Fi通行證，用戶可購買通行證，並在[香港各區超過](../Page/香港.md "wikilink")3500個的無線熱點上網。
   - Wi-Fi儲值帳戶，用戶可建立個人[Wi-Fi帳戶](../Page/Wi-Fi.md "wikilink")，可自選用戶名稱和密碼，並增值帳戶餘額。用戶可使用[信用卡購買或Y](../Page/信用卡.md "wikilink")5ZONE禮物卡兌換。
   - Y5Global全球網絡漫遊，Y5Global全球網絡[漫遊服務](../Page/漫遊.md "wikilink")，讓用戶於大約160國家總共140,000多個的Wi-Fi熱點、寬頻及撥號連接點上網。
-  - Y5易無線上網計劃，此服務可讓用戶使用[iPhone](../Page/iPhone.md "wikilink")、[iPod](../Page/iPod.md "wikilink")、[iPad及](https://zh.wikipedia.org/wiki/iPad "wikilink")[Sony
+  - Y5易無線上網計劃，此服務可讓用戶使用[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iPad及](https://zh.wikipedia.org/wiki/iPad "wikilink")[Sony
     PSP於任何Y](https://zh.wikipedia.org/wiki/Sony_PSP "wikilink")5ZONE熱點自動登入Wi-Fi上網，月費$18起。
   - SMS
     Wi-Fi通行證：此服務可讓用戶傳送一個[SMS](https://zh.wikipedia.org/wiki/SMS "wikilink")，便可即時登入任何Y5ZONE無線Wi-Fi[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")。惟此服務只適用於[香港](../Page/香港.md "wikilink")[流動電話用戶](https://zh.wikipedia.org/wiki/流動電話 "wikilink")，亦不適用於[數碼通的預付儲值卡用戶](../Page/數碼通.md "wikilink")，[PCCW
@@ -52,7 +52,7 @@ Y5ZONE與香港多個電訊商合作，包括[3香港](../Page/3_\(電訊\).md "
   - [香港政府WiFi通](../Page/香港政府WiFi通.md "wikilink")
   - [Free
     Wi-Fi@HKBN](https://zh.wikipedia.org/wiki/Free_Wi-Fi@HKBN "wikilink")
-  - [Fon](../Page/Fon.md "wikilink")
+  - [Fon](https://zh.wikipedia.org/wiki/Fon "wikilink")
 
 [Category:香港科技](https://zh.wikipedia.org/wiki/Category:香港科技 "wikilink")
 [Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink")

@@ -1,4 +1,4 @@
-**2010年度[Astro国际华裔小姐](../Page/Astro国际华裔小姐.md "wikilink")**是Astro舉辦的選美活動，在2010年12月11日舉行。因為[2011年国际中华小姐竞选改回至](../Page/2011年国际中华小姐竞选.md "wikilink")2012年1月舉行,本届冠军将不会参加。本届赛会决赛为10位佳丽。
+**2010年度[Astro国际华裔小姐](https://zh.wikipedia.org/wiki/Astro国际华裔小姐 "wikilink")**是Astro舉辦的選美活動，在2010年12月11日舉行。因為[2011年国际中华小姐竞选改回至](https://zh.wikipedia.org/wiki/2011年国际中华小姐竞选 "wikilink")2012年1月舉行,本届冠军将不会参加。本届赛会决赛为10位佳丽。
 
 ## 參選佳麗
 
@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="../Page/张虹.md" title="wikilink">张虹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/张虹" title="wikilink">张虹</a></p></td>
 <td><p>Karena</p></td>
 <td><p>24</p></td>
 <td><p>柔佛</p></td>
@@ -29,7 +29,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="../Page/王臆阳.md" title="wikilink">王臆阳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王臆阳" title="wikilink">王臆阳</a></p></td>
 <td><p>Stephanie</p></td>
 <td><p>21</p></td>
 <td><p>雪兰莪</p></td>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="../Page/陈敏仪.md" title="wikilink">陈敏仪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈敏仪" title="wikilink">陈敏仪</a></p></td>
 <td><p>Gail</p></td>
 <td><p>21</p></td>
 <td><p>霹雳</p></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="../Page/钟佳恩.md" title="wikilink">钟佳恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/钟佳恩" title="wikilink">钟佳恩</a></p></td>
 <td><p>Tracy</p></td>
 <td><p>22</p></td>
 <td><p>雪兰莪</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="../Page/郑雁涵.md" title="wikilink">郑雁涵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郑雁涵" title="wikilink">郑雁涵</a></p></td>
 <td><p>Vivien</p></td>
 <td><p>20</p></td>
 <td><p>沙巴</p></td>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="../Page/陈滇金.md" title="wikilink">陈滇金</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈滇金" title="wikilink">陈滇金</a></p></td>
 <td><p>Penny</p></td>
 <td><p>22</p></td>
 <td><p>槟城</p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="../Page/叶伊秀.md" title="wikilink">叶伊秀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/叶伊秀" title="wikilink">叶伊秀</a></p></td>
 <td><p>Emily</p></td>
 <td><p>25</p></td>
 <td><p>吉隆坡</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="../Page/黄雪彬.md" title="wikilink">黄雪彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄雪彬" title="wikilink">黄雪彬</a></p></td>
 <td><p>Ice</p></td>
 <td><p>25</p></td>
 <td><p>雪兰莪</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="../Page/江巧儿.md" title="wikilink">江巧儿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江巧儿" title="wikilink">江巧儿</a></p></td>
 <td><p>Grace</p></td>
 <td><p>19</p></td>
 <td><p>霹雳</p></td>

@@ -36,8 +36,8 @@ Academy](https://zh.wikipedia.org/wiki/JTB_Entertainment_Academy "wikilink")。
   - [七瀬亜深](https://zh.wikipedia.org/wiki/七瀬亜深 "wikilink")
   - [山口理惠](../Page/山口理惠.md "wikilink")（引退）
   - [内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")（現所属：[ACROSS
-    ENTERTAINMENT](../Page/ACROSS_ENTERTAINMENT.md "wikilink")）
-  - [楠田亞衣奈](https://zh.wikipedia.org/wiki/楠田亞衣奈 "wikilink")（現所属：[dandelion](https://zh.wikipedia.org/wiki/dandelion "wikilink")）
+    ENTERTAINMENT](https://zh.wikipedia.org/wiki/ACROSS_ENTERTAINMENT "wikilink")）
+  - [楠田亞衣奈](../Page/楠田亞衣奈.md "wikilink")（現所属：[dandelion](https://zh.wikipedia.org/wiki/dandelion "wikilink")）
   - [渡部優衣](../Page/渡部優衣.md "wikilink")（現所属：dandelion）
   - [荒浪和沙](../Page/荒浪和沙.md "wikilink")（現所屬：）
   - [山口立花子](../Page/山口立花子.md "wikilink")（現所屬：）

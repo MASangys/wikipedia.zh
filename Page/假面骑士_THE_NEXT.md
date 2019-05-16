@@ -1,5 +1,5 @@
 **假面骑士 THE
-NEXT**是[幪面超人系列劇場用特攝英雄電影](../Page/幪面超人系列.md "wikilink")，電影《[假面骑士
+NEXT**是[幪面超人系列劇場用特攝英雄電影](https://zh.wikipedia.org/wiki/幪面超人系列 "wikilink")，電影《[假面骑士
 THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前作写实的风格。
 
 ## 剧情介绍
@@ -19,14 +19,14 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 一文字隼人
 
-[高野 八誠](../Page/高野_八誠.md "wikilink")
-饰：(曾出演《[假面骑士龙骑](../Page/假面骑士龙骑.md "wikilink")》中假面骑士Raia
+[高野 八誠](https://zh.wikipedia.org/wiki/高野_八誠 "wikilink")
+饰：(曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中假面骑士Raia
 手冢海之)
 假面骑士2号。在加长版中，隼人因无法得到血液替换而死去。
 
 ### 风见志郎
 
-[加藤 和树](../Page/加藤_和树.md "wikilink")
+[加藤 和树](https://zh.wikipedia.org/wiki/加藤_和树 "wikilink")
 饰：(曾出演《[假面骑士KABUTO](../Page/假面骑士KABUTO.md "wikilink")》中假面骑士雷蜓
 风间大介)
 年轻有为的风见是IT企业Exa-stream的社长，有着幸福的家庭。被剪刀手美洲虎在其公司投放了纳米机器人成功改造成蜻蜓怪人。
@@ -34,12 +34,13 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 菊间琴美
 
-[石田未来](../Page/石田未来.md "wikilink") 饰：
+[石田未来](https://zh.wikipedia.org/wiki/石田未来 "wikilink") 饰：
 本乡的学生，同时也是风见千春的好朋友。
 
 ### 风见千春
 
-森 绘梨佳 饰：(曾出演《[假面骑士响鬼](../Page/假面骑士响鬼.md "wikilink")》 持田瞳)
+森 绘梨佳 饰：(曾出演《[假面骑士响鬼](https://zh.wikipedia.org/wiki/假面骑士响鬼 "wikilink")》
+持田瞳)
 风见志郎的妹妹，偶像明星Chiharu。再去哥哥的公司时不幸感染修卡的纳米机器人，却又遭同事的推搡而触电，造成体内纳米机器人暴走变成怪物。最后由假面骑士V3亲手消灭。
 
 ## 假面骑士
@@ -107,7 +108,7 @@ THE FIRST](../Page/假面骑士_THE_FIRST.md "wikilink")》的续作。延续前
 
 ### 修卡戰鬥員
 
-ショッカー(shocker)，本作中的反派[雜魚角色](../Page/雜魚.md "wikilink")，卻因為搞笑的長相而推出不少惡搞的週邊商品，如修卡戰鬥員[疊疊樂等等](../Page/疊疊樂.md "wikilink")。
+ショッカー(shocker)，本作中的反派[雜魚角色](https://zh.wikipedia.org/wiki/雜魚 "wikilink")，卻因為搞笑的長相而推出不少惡搞的週邊商品，如修卡戰鬥員[疊疊樂等等](../Page/疊疊樂.md "wikilink")。
 
 ## 主题曲
 

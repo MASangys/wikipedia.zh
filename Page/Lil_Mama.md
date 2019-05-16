@@ -1,22 +1,23 @@
 **纳西亚·杰西卡·柯克兰**（，\[1\]）以艺名**Lil
-Mama**知名，是美国[说唱歌手](../Page/说唱歌手.md "wikilink")、[舞蹈家](../Page/舞蹈家.md "wikilink")、[创作型歌手](../Page/创作型歌手.md "wikilink")。
+Mama**知名，是美国[说唱歌手](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")、[舞蹈家](https://zh.wikipedia.org/wiki/舞蹈家 "wikilink")、[创作型歌手](https://zh.wikipedia.org/wiki/创作型歌手 "wikilink")。
 
 ## 早年生活
 
 Lil
-Mama生于[纽约](../Page/纽约.md "wikilink")[哈莱姆区](../Page/哈莱姆区.md "wikilink")，后来举家搬到[布鲁克林](../Page/布鲁克林.md "wikilink")，她就读于当地的Edward
-R. Murrow高级中学。2006年，她同[Jive唱片公司签订了唱片协议](../Page/Jive唱片公司.md "wikilink")。
+Mama生于[纽约](../Page/纽约.md "wikilink")[哈莱姆区](https://zh.wikipedia.org/wiki/哈莱姆区 "wikilink")，后来举家搬到[布鲁克林](https://zh.wikipedia.org/wiki/布鲁克林 "wikilink")，她就读于当地的Edward
+R.
+Murrow高级中学。2006年，她同[Jive唱片公司签订了唱片协议](https://zh.wikipedia.org/wiki/Jive唱片公司 "wikilink")。
 
 ## 音乐生涯
 
 2007年夏天，他发布了自己的首张专辑《Lip
-Gloss》，由此一炮走红。该曲在[公告牌百强单曲榜上最高登上第十](../Page/公告牌百强单曲榜.md "wikilink")。2008年2月，她发布了自己的第三支单曲，和[T-Pain](../Page/T-Pain.md "wikilink")、[克里斯·布朗合作的单曲](../Page/克里斯·布朗.md "wikilink")《Shawty
+Gloss》，由此一炮走红。该曲在[公告牌百强单曲榜上最高登上第十](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")。2008年2月，她发布了自己的第三支单曲，和[T-Pain](https://zh.wikipedia.org/wiki/T-Pain "wikilink")、[克里斯·布朗合作的单曲](../Page/克里斯·布朗.md "wikilink")《Shawty
 Get Loose》。这一首单曲再次回归单曲榜前十。2008年，她发布了自己的首张专辑《VYP (Voice of the Young
 People)》
 
 ## 其他出演
 
-  - [全美街舞大赛](../Page/全美街舞大赛.md "wikilink")
+  - [全美街舞大赛](https://zh.wikipedia.org/wiki/全美街舞大赛 "wikilink")
 
 <!-- end list -->
 
@@ -25,7 +26,7 @@ People)》
 
 <!-- end list -->
 
-  - [全美超模大赛](../Page/全美超模大赛.md "wikilink")
+  - [全美超模大赛](https://zh.wikipedia.org/wiki/全美超模大赛 "wikilink")
 
 <!-- end list -->
 
@@ -46,7 +47,8 @@ People)》
       - **2007年，夏季歌曲选择奖：《Lip Gloss》 （获奖）**
       - 2007年，对唱曲目选择奖：《Shawty Get Loose》 （提名）
   - [MTV亞洲大獎](../Page/MTV亞洲大獎.md "wikilink")
-      - 2008年，最佳对唱曲目：《Girlfriend》 - 同[艾薇儿](../Page/艾薇儿.md "wikilink")
+      - 2008年，最佳对唱曲目：《Girlfriend》 -
+        同[艾薇儿](https://zh.wikipedia.org/wiki/艾薇儿 "wikilink")
         （提名）
 
 ## 参考资料

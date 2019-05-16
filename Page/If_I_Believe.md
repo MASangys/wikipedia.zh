@@ -5,7 +5,7 @@ Believe**》是[日本歌手](../Page/日本.md "wikilink")[倉木麻衣第四�
 
   - 與前作「[FAIRY TALE](../Page/FAIRY_TALE.md "wikilink")」相距約九個月時間。
   - 自出道作「[delicious
-    way](../Page/delicious_way.md "wikilink")」以來連續第四張專輯獲得[oricon榜首位](../Page/oricon.md "wikilink")。
+    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」以來連續第四張專輯獲得[oricon榜首位](https://zh.wikipedia.org/wiki/oricon "wikilink")。
   - 收錄單曲「[Make my day](../Page/Make_my_day_\(倉木麻衣單曲\).md "wikilink")」、「
     [Time after time
     ～在落花紛飛的街道上～](../Page/Time_after_time_～在落花紛飛的街道上～.md "wikilink")」、「[Kiss](../Page/Kiss_\(倉木麻衣單曲\).md "wikilink")」、「[風的啦啦啦](../Page/風的啦啦啦.md "wikilink")」。

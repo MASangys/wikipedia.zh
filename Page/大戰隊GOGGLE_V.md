@@ -1,5 +1,5 @@
 《**大戰隊風鏡Ｖ**》（原題：﹑Goggle
-V）是日本[東映公司在](../Page/東映.md "wikilink")1982年製作的「[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")」第6部[特攝作品](../Page/特攝.md "wikilink")。在日本[朝日電視台播放期間為](../Page/朝日電視台.md "wikilink")1982年（[昭和57年](../Page/昭和57年.md "wikilink")）2月6日-1983年（[昭和58年](../Page/昭和58年.md "wikilink")）1月29日，全50話。
+V）是日本[東映公司在](../Page/東映.md "wikilink")1982年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第6部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。在日本[朝日電視台播放期間為](../Page/朝日電視台.md "wikilink")1982年（[昭和57年](https://zh.wikipedia.org/wiki/昭和57年 "wikilink")）2月6日-1983年（[昭和58年](https://zh.wikipedia.org/wiki/昭和58年 "wikilink")）1月29日，全50話。
 
 ## 劇情介紹
 
@@ -12,7 +12,7 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
 ## 特色
 
-  - 本作在戰鬥動作中首次加入了[韻律體操的元素](../Page/韻律體操.md "wikilink")。
+  - 本作在戰鬥動作中首次加入了[韻律體操的元素](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。
   - 首部於片頭標題畫面讀出片名的戰隊，之後系列作品均開始沿襲。
   - 本作是目前為止收視率最高的戰隊，玩具收益相當可觀，使後期作品逐漸著重於玩具方面。
   - 本作戰隊出場時的唱名動作時間為歷代作品中最長（長達42秒），此紀錄至今仍然保持。
@@ -37,13 +37,13 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/赤木良次.md" title="wikilink"><font color="White">赤木良次</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤木良次" title="wikilink"><font color="White">赤木良次</font></a></p></td>
 <td><p>風鏡紅</p></td>
 <td><p>赤間健一</p></td>
-<td><p><a href="../Page/紅寶石.md" title="wikilink"><font color="White">紅寶石</font></a>／<a href="../Page/亞特蘭提斯.md" title="wikilink"><font color="White">亞特蘭提斯</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅寶石" title="wikilink"><font color="White">紅寶石</font></a>／<a href="https://zh.wikipedia.org/wiki/亞特蘭提斯" title="wikilink"><font color="White">亞特蘭提斯</font></a></p></td>
 <td><p>紅體操繩 → 紅寶石鞭／電光劍</p></td>
 <td><p>紅拳</p></td>
-<td><p><a href="../Page/新堀和男.md" title="wikilink"><font color="White">新堀和男</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新堀和男" title="wikilink"><font color="White">新堀和男</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>大戰隊的隊長。原為一有堅韌精神﹑具冷靜與毅力十足的冒險家。</p>
@@ -81,19 +81,19 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/春田純一.md" title="wikilink"><font color="White">春田純一</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/春田純一" title="wikilink"><font color="White">春田純一</font></a></p></td>
 <td><p>風鏡黑</p></td>
 <td><p>黑田官平</p></td>
-<td><p><a href="../Page/綠寶石.md" title="wikilink"><font color="White">綠寶石</font></a>／<a href="../Page/亞洲.md" title="wikilink"><font color="White">亞洲</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/綠寶石" title="wikilink"><font color="White">綠寶石</font></a>／<a href="https://zh.wikipedia.org/wiki/亞洲" title="wikilink"><font color="White">亞洲</font></a></p></td>
 <td><p>黑體操棍 → 黑綠寶石雙節棍／尖銳拳套</p></td>
 <td><p>黑影／黑色運行</p></td>
-<td><p><a href="../Page/春田純一.md" title="wikilink"><font color="White">春田純一</font></a><br />
-<a href="../Page/喜多川務.md" title="wikilink"><font color="White">喜多川務</font></a><br />
-<a href="../Page/益田哲夫.md" title="wikilink"><font color="White">益田哲夫</font></a><br />
-<a href="../Page/釖持誠.md" title="wikilink"><font color="White">釖持誠</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/春田純一" title="wikilink"><font color="White">春田純一</font></a><br />
+<a href="https://zh.wikipedia.org/wiki/喜多川務" title="wikilink"><font color="White">喜多川務</font></a><br />
+<a href="https://zh.wikipedia.org/wiki/益田哲夫" title="wikilink"><font color="White">益田哲夫</font></a><br />
+<a href="https://zh.wikipedia.org/wiki/釖持誠" title="wikilink"><font color="White">釖持誠</font></a></p></td>
 </tr>
 <tr class="even">
-<td><p>東都大學<a href="../Page/將棋.md" title="wikilink">將棋部的社長</a>，平日於遊樂園擔任機具操作員。擁有豐富知識及優秀運動神經的副隊長。</p>
+<td><p>東都大學<a href="https://zh.wikipedia.org/wiki/將棋" title="wikilink">將棋部的社長</a>，平日於遊樂園擔任機具操作員。擁有豐富知識及優秀運動神經的副隊長。</p>
 <p>本身相當擅於水中戰，未變身前會用將棋棋子攻擊敵人。</p>
 <ul>
 <li>黑體操棍招式：黑棍亂擊</li>
@@ -134,16 +134,16 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/石井茂樹.md" title="wikilink"><font color="White">石井茂樹</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石井茂樹" title="wikilink"><font color="White">石井茂樹</font></a></p></td>
 <td><p>風鏡藍</p></td>
 <td><p>青山三郎</p></td>
-<td><p><a href="../Page/藍寶石.md" title="wikilink"><font color="White">藍寶石</font></a>／<a href="../Page/埃及.md" title="wikilink"><font color="White">埃及</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藍寶石" title="wikilink"><font color="White">藍寶石</font></a>／<a href="../Page/埃及.md" title="wikilink"><font color="White">埃及</font></a></p></td>
 <td><p>藍體操環 → 藍寶石噴射圓環</p></td>
 <td><p>藍色噴射衝刺</p></td>
-<td><p><a href="../Page/柴原孝典.md" title="wikilink"><font color="White">柴原孝典</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柴原孝典" title="wikilink"><font color="White">柴原孝典</font></a></p></td>
 </tr>
 <tr class="even">
-<td><p>小時個性軟弱，所以鍛鍊出不屈的精神。現為<a href="../Page/冰上曲棍球.md" title="wikilink">冰上曲棍球選手</a>，平時於遊樂園店舖工作。</p>
+<td><p>小時個性軟弱，所以鍛鍊出不屈的精神。現為<a href="https://zh.wikipedia.org/wiki/冰上曲棍球" title="wikilink">冰上曲棍球選手</a>，平時於遊樂園店舖工作。</p>
 <p>性格開朗平易近人，許多小孩都視他為哥哥般看待。</p>
 <ul>
 <li>藍體操環 招式：環腰粉碎﹑藍色大車輪﹑藍環銀河迴旋﹑圓環車輪﹑二重圓環蝴蝶﹑圓環舞動﹑藍色飛龍</li>
@@ -176,18 +176,18 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伍代参平.md" title="wikilink"><font color="Black">伍代参平</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍代参平" title="wikilink"><font color="Black">伍代参平</font></a></p></td>
 <td><p>風鏡黃</p></td>
 <td><p>黃島太</p></td>
 <td><p><a href="../Page/蛋白石.md" title="wikilink"><font color="Black">蛋白石</font></a>／<a href="../Page/復活節島.md" title="wikilink"><font color="Black">復活節島</font></a></p></td>
 <td><p>黃體操球 → 黃蛋白石百萬噸鐵球／黃色鐵槌</p></td>
 <td><p>黃色鑽地</p></td>
-<td><p><a href="../Page/伊藤勝功.md" title="wikilink"><font color="Black">伊藤勝功</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤勝功" title="wikilink"><font color="Black">伊藤勝功</font></a></p></td>
 </tr>
 <tr class="even">
-<td><p>原為<a href="../Page/礦山師.md" title="wikilink">礦山師</a>（礦產調查專家），巡迴全日本後於遊樂場擔任動物管理員。</p>
+<td><p>原為<a href="https://zh.wikipedia.org/wiki/礦山師" title="wikilink">礦山師</a>（礦產調查專家），巡迴全日本後於遊樂場擔任動物管理員。</p>
 <p>一直想尋找小時後便失蹤的父親。聽覺靈敏，但貪吃的個性確曾使他被欺騙。</p>
-<p>父親黃島總一（<a href="../Page/森章二.md" title="wikilink">森章二</a> 飾）則於13集中登場。十足的<a href="../Page/淘金.md" title="wikilink">淘金狂熱者</a>，在科研所任職過，還曾是本鄉博士的助手。</p>
+<p>父親黃島總一（<a href="https://zh.wikipedia.org/wiki/森章二" title="wikilink">森章二</a> 飾）則於13集中登場。十足的<a href="https://zh.wikipedia.org/wiki/淘金" title="wikilink">淘金狂熱者</a>，在科研所任職過，還曾是本鄉博士的助手。</p>
 <ul>
 <li>黃體操球 招式：超級球（巨大化）</li>
 <li>黃色鐵槌招式：黃色地鼠打﹑地震</li>
@@ -220,19 +220,19 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大川惠.md" title="wikilink"><font color="black">大川惠</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大川惠" title="wikilink"><font color="black">大川惠</font></a></p></td>
 <td><p>風鏡桃</p></td>
 <td><p>桃園美樹</p></td>
-<td><p><a href="../Page/鑽石.md" title="wikilink"><font color="black">鑽石</font></a>／<a href="../Page/馬雅.md" title="wikilink"><font color="black">馬雅</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink"><font color="black">鑽石</font></a>／<a href="https://zh.wikipedia.org/wiki/馬雅" title="wikilink"><font color="black">馬雅</font></a></p></td>
 <td><p>粉紅體操彩帶 → 粉紅鑽石指揮棒／粉紅鏡</p></td>
 <td><p>粉紅愛心閃光</p></td>
-<td><p><a href="../Page/竹田道弘.md" title="wikilink"><font color="black">竹田道弘</font></a><br />
-<a href="../Page/志村忍.md" title="wikilink"><font color="black">志村忍</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹田道弘" title="wikilink"><font color="black">竹田道弘</font></a><br />
+<a href="https://zh.wikipedia.org/wiki/志村忍" title="wikilink"><font color="black">志村忍</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>經常面帶微笑且溫柔的體操選手，意志堅強。平時於遊樂園作廣播員。</p>
 <p>戰鬥時的靈巧性為優點，水中戰則較弱。</p>
-<p>原本此角色的預定人選為另一位女演員<a href="../Page/早坂章代.md" title="wikilink">早坂章代</a>，並已拍攝至第3集左右的戲份，但早坂因故無法續演，因而找到模特兒出身的大川代打演出。</p>
+<p>原本此角色的預定人選為另一位女演員<a href="https://zh.wikipedia.org/wiki/早坂章代" title="wikilink">早坂章代</a>，並已拍攝至第3集左右的戲份，但早坂因故無法續演，因而找到模特兒出身的大川代打演出。</p>
 <ul>
 <li>粉紅體操彩帶 招式：粉紅彩帶捆綁﹑彩帶窗簾﹑彩帶驟雨﹑彩帶旋風﹑煙幕消散﹑Sky High﹑粉紅彩帶閃光﹑粉紅雙彩帶﹑粉紅花朵彩帶</li>
 <li>粉紅鑽石指揮棒 招式：粉紅劍雨（作為劍用）</li>
@@ -252,13 +252,13 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
 片中支援大戰隊的組織，總部位於[後樂園球場](../Page/後樂園.md "wikilink")（現[東京巨蛋](../Page/東京巨蛋.md "wikilink")）地底。
 
-**本鄉秀樹**（[仲谷昇](../Page/仲谷昇.md "wikilink") 飾）
+**本鄉秀樹**（[仲谷昇](https://zh.wikipedia.org/wiki/仲谷昇 "wikilink") 飾）
 
 為未來科研所最高負責人，負責大戰隊之事務。人稱「本鄉博士」。
 劇中第2集最後博士便到世界各地進行研究，直到49集才回來。
 
-**山本小百合**（[細矢智惠子](../Page/細矢智惠子.md "wikilink") 飾）&
-**若木綠**（[小林伊津子](../Page/小林伊津子.md "wikilink") 飾）
+**山本小百合**（[細矢智惠子](https://zh.wikipedia.org/wiki/細矢智惠子 "wikilink") 飾）&
+**若木綠**（[小林伊津子](https://zh.wikipedia.org/wiki/小林伊津子 "wikilink") 飾）
 
 二人皆為博士助手，劇中22集提到若木到國外與博士會合，之後再無出現。
 
@@ -267,11 +267,13 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 協助大戰隊的孩子們。可由戶外特定的電話亭直接通到科研所。
 而每位小孩負責支援一位隊員。
 
-  - 上田達也（[井浦秀智](../Page/井浦秀智.md "wikilink") 飾）支援 Red
-  - 竹中　誠（[竹內　實](../Page/竹內_實.md "wikilink") 飾）支援 Black
-  - 島田春男（[大原和彥](../Page/大原和彥.md "wikilink") 飾）支援 Blue
-  - 大山大助（[水野智則](../Page/水野智則.md "wikilink") 飾）支援 Yellow
-  - 相澤　茜（[杉本華惠](../Page/杉本華惠.md "wikilink") 飾）支援 Pink
+  - 上田達也（[井浦秀智](https://zh.wikipedia.org/wiki/井浦秀智 "wikilink") 飾）支援 Red
+  - 竹中　誠（[竹內　實](https://zh.wikipedia.org/wiki/竹內_實 "wikilink") 飾）支援
+    Black
+  - 島田春男（[大原和彥](https://zh.wikipedia.org/wiki/大原和彥 "wikilink") 飾）支援 Blue
+  - 大山大助（[水野智則](https://zh.wikipedia.org/wiki/水野智則 "wikilink") 飾）支援
+    Yellow
+  - 相澤　茜（[杉本華惠](https://zh.wikipedia.org/wiki/杉本華惠 "wikilink") 飾）支援 Pink
 
 ## 暗黑科學帝國 Death Dark
 
@@ -279,7 +281,8 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
 製造出**浮游要塞 暗黑巨大城**『死亡托邦（デストピア）』為其根據地，並派出合成怪獸﹑巨大機器人以及死亡戰機進行破壞。
 
-**總統 塔布**（そうとうタブー，[依田英助](../Page/依田英助.md "wikilink") 聲）
+**總統 塔布**（そうとうタブー，[依田英助](https://zh.wikipedia.org/wiki/依田英助 "wikilink")
+聲）
 
   -
     帝國最高權力支配者。
@@ -287,7 +290,8 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
     平時於城內的大殿內發佈施令，皆以黑影代替，並無實際形體出現。
     結局是巨大化卻被電子銀河飛彈炸碎。
 
-**迪斯馬克大元帥**（デスマルク大元帥，DESMARK，[中庸助](../Page/中庸助.md "wikilink") 飾）
+**迪斯馬克大元帥**（デスマルク大元帥，DESMARK，[中庸助](https://zh.wikipedia.org/wiki/中庸助 "wikilink")
+飾）
 
   -
     於15集初登場。
@@ -306,20 +310,23 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
     負責服侍大元帥，有時也會替大元帥傳遞訊息。
     戰鬥時會化身成女劍士，最後被Blue及Pink擊敗。
 
-**迪斯基拉將軍**（デスギラーしょうぐん，[高橋利道](../Page/高橋利道.md "wikilink") 飾）
+**迪斯基拉將軍**（デスギラーしょうぐん，[高橋利道](https://zh.wikipedia.org/wiki/高橋利道 "wikilink")
+飾）
 
   -
     死亡黑暗首席戰鬥指揮官，經常上前線作戰，是為劍術高手。
     對帝國極為忠誠，個性殘暴，視Red為死對頭。
     最後死於電子銀河斬下。
 
-**薩卓莉亞博士**（ザゾリアはかせ，[西口久美子](../Page/西口久美子.md "wikilink") 飾）
+**薩卓莉亞博士**（ザゾリアはかせ，[西口久美子](https://zh.wikipedia.org/wiki/西口久美子 "wikilink")
+飾）
 
   -
     冷酷的女科學家，常指揮部下製造大型機械人。
     於15話，被冠上「無能力之人」之名而被大元帥殺掉。
 
-**伊迦納博士**（イガアナはかせ，[きくち英一](../Page/きくち英一.md "wikilink") 飾）
+**伊迦納博士**（イガアナはかせ，[きくち英一](https://zh.wikipedia.org/wiki/きくち英一 "wikilink")
+飾）
 
   -
     性格豪爽，擅於製造動物類型的巨大機械人。
@@ -446,27 +453,30 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 **Fire Storm**
 
   -
-    齊力使用Goggle Sabel射出水柱之招式(vs [翼龍モズー](../Page/翼龍.md "wikilink"))。
+    齊力使用Goggle Sabel射出水柱之招式(vs
+    [翼龍モズー](https://zh.wikipedia.org/wiki/翼龍 "wikilink"))。
 
 **Goggle Shower**
 
   -
     使用額頭上的寶石射出光線，片中有許多效果。
-    如趕跑亡靈軍團(vs [鯊魚モズー](../Page/鯊魚.md "wikilink"))﹑擊破敵人防護罩(vs
+    如趕跑亡靈軍團(vs
+    [鯊魚モズー](https://zh.wikipedia.org/wiki/鯊魚 "wikilink"))﹑擊破敵人防護罩(vs
     [象龜モズー](../Page/象龜.md "wikilink"))或幻影(vs
     [臭鼬モズー](../Page/臭鼬.md "wikilink"))及黃金魔劍的攻擊。
 
 **Goggle Sabel 殺蟲劑**
 
   -
-    使用Goggle Sabel一同向敵人噴出殺蟲劑之招式(vs [蒼蠅モズー](../Page/蒼蠅.md "wikilink"))。
+    使用Goggle Sabel一同向敵人噴出殺蟲劑之招式(vs
+    [蒼蠅モズー](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink"))。
 
 **Goggle Golden Spear**
 
   -
     使用強化型Goggle Sabel所組合而成的長矛
     五人於空中組合長矛並旋轉，再由Red手持長矛，其餘四人手呈輔助跳台，跳躍後將矛射向敵人(vs
-    [鱷魚モズー](../Page/鱷魚.md "wikilink"))。
+    [鱷魚モズー](https://zh.wikipedia.org/wiki/鱷魚 "wikilink"))。
     此為後期之常用必殺技。
     變化技為五人各手持長矛，於空中一同旋轉攻擊的「長矛風車」。
 
@@ -474,7 +484,7 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 
   -
     空中組合成圓環隊型並高速旋轉引起暴風，額上寶石同時也放射光線攻擊(vs
-    [飛鼠モズー](../Page/飛鼠.md "wikilink"))。
+    [飛鼠モズー](https://zh.wikipedia.org/wiki/飛鼠 "wikilink"))。
 
 **Goggle 大車輪旋風**
 
@@ -484,7 +494,8 @@ Boys and Girl，將積極尋找除了健一之外的四位成員，組成超級�
 **Goggle Bomb**
 
   -
-    五人手持各顏色紙炮攻擊敵人，以膠紙封鎖敵人攻勢(vs [蠶モズー](../Page/蠶.md "wikilink"))。
+    五人手持各顏色紙炮攻擊敵人，以膠紙封鎖敵人攻勢(vs
+    [蠶モズー](https://zh.wikipedia.org/wiki/蠶 "wikilink"))。
 
 ## Goggle機體
 
@@ -566,7 +577,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
         也能抵擋コング的光線或噴射瓦斯的攻擊。
     **Goggle Spin**
       -
-        [陀螺型武器](../Page/陀螺.md "wikilink")，可用於斬斷敵人身體。
+        [陀螺型武器](https://zh.wikipedia.org/wiki/陀螺 "wikilink")，可用於斬斷敵人身體。
     **Goggle Hand**
       -
         巨大的鎖鍊式手銬型武器，能有效的箝制住コング，並將其摔於地面。
@@ -618,16 +629,16 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <tbody>
 <tr class="odd">
 <td><p><strong>Goggle Robo</strong></p></td>
-<td><p><a href="../Page/日下秀昭.md" title="wikilink">日下秀昭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日下秀昭" title="wikilink">日下秀昭</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>べラ</strong></p></td>
-<td><p><a href="../Page/大木まり子.md" title="wikilink">大木まり子</a>(15-27)<br />
-<a href="../Page/中西典子.md" title="wikilink">中西典子</a>(28-50)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大木まり子" title="wikilink">大木まり子</a>(15-27)<br />
+<a href="https://zh.wikipedia.org/wiki/中西典子" title="wikilink">中西典子</a>(28-50)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>べス</strong></p></td>
-<td><p><a href="../Page/新保久美子.md" title="wikilink">新保久美子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新保久美子" title="wikilink">新保久美子</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -656,18 +667,18 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>暗黒科学來襲</p></td>
 <td><p>暗黑科學來襲</p></td>
 <td><p><a href="../Page/貝類.md" title="wikilink">カイモズー</a>（声：<a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a>）</p></td>
-<td><p><a href="../Page/送風機.md" title="wikilink">ファンコング</a></p></td>
-<td><p><a href="../Page/曽田博久.md" title="wikilink">曽田博久</a></p></td>
-<td><p><a href="../Page/東条昭平.md" title="wikilink">東条昭平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/送風機" title="wikilink">ファンコング</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曽田博久" title="wikilink">曽田博久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東条昭平" title="wikilink">東条昭平</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1982/2/13</p></td>
 <td><p>2</p></td>
 <td><p>起て!未來の戦士</p></td>
 <td><p>站起來!未來的戰士</p></td>
-<td><p><a href="../Page/鳥類.md" title="wikilink">トリモズー</a>（声：<a href="../Page/西尾徳.md" title="wikilink">西尾徳</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳥類" title="wikilink">トリモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a>）</p></td>
 <td><p>ヒカリコング<br />
-<a href="../Page/ゴリラ.md" title="wikilink">ゴリラコング</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/ゴリラ" title="wikilink">ゴリラコング</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -676,9 +687,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>3</p></td>
 <td><p>デストピアを撃て</p></td>
 <td><p>迎擊死亡托邦</p></td>
-<td><p><a href="../Page/タコ.md" title="wikilink">タコモズー</a>（声：<a href="../Page/渡部猛.md" title="wikilink">渡部猛</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/タコ" title="wikilink">タコモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/渡部猛" title="wikilink">渡部猛</a>）</p></td>
 <td><p>ゴリラコング<br />
-<a href="../Page/マンモス.md" title="wikilink">マンモスコング</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/マンモス" title="wikilink">マンモスコング</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -687,9 +698,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>4</p></td>
 <td><p>ムクムク暗黒地雷</p></td>
 <td><p>密密麻麻暗黑地雷</p></td>
-<td><p><a href="../Page/クモ.md" title="wikilink">クモモズー</a>（声：丸山詠二）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/クモ" title="wikilink">クモモズー</a>（声：丸山詠二）</p></td>
 <td><p>マンモスコング</p></td>
-<td><p><a href="../Page/服部和史.md" title="wikilink">服部和史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服部和史" title="wikilink">服部和史</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -697,7 +708,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>5</p></td>
 <td><p>悪魔がひそむ昔話</p></td>
 <td><p>潛藏著惡魔的傳說</p></td>
-<td><p><a href="../Page/カマキリ.md" title="wikilink">カマキリモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/カマキリ" title="wikilink">カマキリモズー</a>（声：西尾徳）</p></td>
 <td><p>カマキリコング</p></td>
 <td></td>
 <td></td>
@@ -707,9 +718,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>6</p></td>
 <td><p>悪役レスラーの愛</p></td>
 <td><p>反派摔角手的愛</p></td>
-<td><p><a href="../Page/ヤモリ科.md" title="wikilink">ヤモリモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ヤモリ科" title="wikilink">ヤモリモズー</a>（声：渡部猛）</p></td>
 <td><p>ヤモリコング</p></td>
-<td><p><a href="../Page/辻理.md" title="wikilink">辻理</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/辻理" title="wikilink">辻理</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -717,7 +728,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>7</p></td>
 <td><p>幽霊になったパパ</p></td>
 <td><p>變成幽靈的爸爸</p></td>
-<td><p><a href="../Page/ネコ.md" title="wikilink">ネコモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ネコ" title="wikilink">ネコモズー</a>（声：西尾徳）</p></td>
 <td><p>ネココング</p></td>
 <td></td>
 <td></td>
@@ -727,17 +738,17 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>8</p></td>
 <td><p>狙われた美人博士</p></td>
 <td><p>被盯上的美女博士</p></td>
-<td><p><a href="../Page/ドクガ.md" title="wikilink">ドクガモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ドクガ" title="wikilink">ドクガモズー</a>（声：西尾徳）</p></td>
 <td><p>ドクガコング</p></td>
-<td><p><a href="../Page/筒井ともみ.md" title="wikilink">筒井ともみ</a></p></td>
-<td><p><a href="../Page/山田稔.md" title="wikilink">山田稔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/筒井ともみ" title="wikilink">筒井ともみ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田稔" title="wikilink">山田稔</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1982/4/3</p></td>
 <td><p>9</p></td>
 <td><p>地獄のキノコ村</p></td>
 <td><p>地獄的蘑菇村</p></td>
-<td><p><a href="../Page/獏.md" title="wikilink">バクモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獏" title="wikilink">バクモズー</a>（声：渡部猛）</p></td>
 <td><p>バクコング</p></td>
 <td><p>曽田博久</p></td>
 <td></td>
@@ -747,7 +758,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>10</p></td>
 <td><p>珍種ポマトの秘密</p></td>
 <td><p>珍種番鈴薯的秘密</p></td>
-<td><p><a href="../Page/ネズミ.md" title="wikilink">ネズミモズー</a>（声：<a href="../Page/拡森信吾.md" title="wikilink">広森信吾</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ネズミ" title="wikilink">ネズミモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/拡森信吾" title="wikilink">広森信吾</a>）<br />
 人食いヅタ</p></td>
 <td><p>ネズミコング</p></td>
 <td><p>服部和史</p></td>
@@ -758,7 +769,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>11</p></td>
 <td><p>恐怖のマグマ作戦</p></td>
 <td><p>恐怖的岩漿作戰</p></td>
-<td><p><a href="../Page/狛犬.md" title="wikilink">シシモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/狛犬" title="wikilink">シシモズー</a>（声：渡部猛）</p></td>
 <td><p>シシコング</p></td>
 <td><p>筒井ともみ</p></td>
 <td></td>
@@ -768,9 +779,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>12</p></td>
 <td><p>噓から出た砂地獄</p></td>
 <td><p>從謊話中出現的砂地獄</p></td>
-<td><p><a href="../Page/ウスバカゲロウ.md" title="wikilink">アリジゴクモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ウスバカゲロウ" title="wikilink">アリジゴクモズー</a>（声：渡部猛）</p></td>
 <td><p>アリジゴクコング</p></td>
-<td><p><a href="../Page/松本功.md" title="wikilink">松本功</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本功" title="wikilink">松本功</a></p></td>
 <td><p>東条昭平</p></td>
 </tr>
 <tr class="odd">
@@ -778,7 +789,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>13</p></td>
 <td><p>大暴れ地底ナマズ</p></td>
 <td><p>大鬧的地底鯰魚</p></td>
-<td><p><a href="../Page/ナマズ.md" title="wikilink">ナマズモズー</a>（声：広森信吾）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ナマズ" title="wikilink">ナマズモズー</a>（声：広森信吾）</p></td>
 <td><p>ナマズコング</p></td>
 <td><p>曽田博久</p></td>
 <td></td>
@@ -788,7 +799,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>14</p></td>
 <td><p>大変だ!地球沈沒</p></td>
 <td><p>不好了!地球沉沒</p></td>
-<td><p><a href="../Page/アンコウ.md" title="wikilink">アンコウモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/アンコウ" title="wikilink">アンコウモズー</a>（声：西尾徳）</p></td>
 <td><p>アンコウコング</p></td>
 <td><p>山田稔</p></td>
 <td></td>
@@ -798,7 +809,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>15</p></td>
 <td><p>甦る悪魔の大元帥</p></td>
 <td><p>甦醒的惡魔大元帥</p></td>
-<td><p><a href="../Page/ハチ.md" title="wikilink">ハチモズー</a>（声：<a href="../Page/岸野一彦.md" title="wikilink">岸野一彦</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ハチ" title="wikilink">ハチモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/岸野一彦" title="wikilink">岸野一彦</a>）</p></td>
 <td><p>ハチコング</p></td>
 <td></td>
 <td></td>
@@ -808,7 +819,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>16</p></td>
 <td><p>レッド!危機一髪</p></td>
 <td><p>Red! 千鈞一髮</p></td>
-<td><p><a href="../Page/ヒトデ.md" title="wikilink">ヒトデモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ヒトデ" title="wikilink">ヒトデモズー</a>（声：渡部猛）</p></td>
 <td><p>-</p></td>
 <td><p>服部和史</p></td>
 <td></td>
@@ -828,9 +839,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>18</p></td>
 <td><p>大人が消える日</p></td>
 <td><p>大人消失的日子</p></td>
-<td><p><a href="../Page/サル.md" title="wikilink">サルモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/サル" title="wikilink">サルモズー</a>（声：渡部猛）</p></td>
 <td><p>サルコング</p></td>
-<td><p><a href="../Page/酒井あきよし.md" title="wikilink">酒井あきよし</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酒井あきよし" title="wikilink">酒井あきよし</a></p></td>
 <td><p>東条昭平</p></td>
 </tr>
 <tr class="odd">
@@ -838,7 +849,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>19</p></td>
 <td><p>お化け屋敷の秘密</p></td>
 <td><p>妖怪宅邸的秘密</p></td>
-<td><p><a href="../Page/コウモリ.md" title="wikilink">コウモリモズー</a>（声：広森信吾）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/コウモリ" title="wikilink">コウモリモズー</a>（声：広森信吾）</p></td>
 <td><p>コウモリコング</p></td>
 <td><p>松本功</p></td>
 <td></td>
@@ -848,9 +859,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>20</p></td>
 <td><p>死の花 毒サボテン</p></td>
 <td><p>死亡之花 毒仙人掌</p></td>
-<td><p><a href="../Page/サボテン.md" title="wikilink">サボテンモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/サボテン" title="wikilink">サボテンモズー</a>（声：渡部猛）</p></td>
 <td><p>サボテンコング</p></td>
-<td><p><a href="../Page/鷺山京子.md" title="wikilink">鷺山京子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鷺山京子" title="wikilink">鷺山京子</a></p></td>
 <td><p>山田稔</p></td>
 </tr>
 <tr class="odd">
@@ -858,7 +869,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>21</p></td>
 <td><p>恐怖! 魚が化石に</p></td>
 <td><p>恐怖! 魚被變成化石</p></td>
-<td><p><a href="../Page/シーラカンス.md" title="wikilink">シーラカンスモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/シーラカンス" title="wikilink">シーラカンスモズー</a>（声：西尾徳）</p></td>
 <td><p>シーラカンスコング</p></td>
 <td><p>曽田博久</p></td>
 <td></td>
@@ -868,7 +879,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>22</p></td>
 <td><p>呪い人形の攻擊</p></td>
 <td><p>詛咒人偶的攻擊</p></td>
-<td><p><a href="../Page/クジャク.md" title="wikilink">クジャクモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/クジャク" title="wikilink">クジャクモズー</a>（声：西尾徳）</p></td>
 <td><p>クジャクコング</p></td>
 <td><p>服部和史</p></td>
 <td></td>
@@ -878,7 +889,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>23</p></td>
 <td><p>シャボン玉大作戦</p></td>
 <td><p>泡泡大作戰</p></td>
-<td><p><a href="../Page/カニ.md" title="wikilink">カニモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/カニ" title="wikilink">カニモズー</a>（声：渡部猛）</p></td>
 <td><p>カニコング</p></td>
 <td><p>酒井あきよし</p></td>
 <td></td>
@@ -888,7 +899,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>24</p></td>
 <td><p>見えない敵を倒せ</p></td>
 <td><p>打倒看不見的敵人</p></td>
-<td><p><a href="../Page/カメレオン科.md" title="wikilink">カメレオンモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/カメレオン科" title="wikilink">カメレオンモズー</a>（声：西尾徳）</p></td>
 <td><p>カメレオンコング</p></td>
 <td><p>松本功</p></td>
 <td><p>東条昭平</p></td>
@@ -898,7 +909,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>25</p></td>
 <td><p>恐竜は悪魔の使者</p></td>
 <td><p>恐龍是惡魔的使者</p></td>
-<td><p><a href="../Page/プテラノドン.md" title="wikilink">テラノモズー</a>（声：<a href="../Page/清川元夢.md" title="wikilink">清川元夢</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/プテラノドン" title="wikilink">テラノモズー</a>（声：<a href="../Page/清川元夢.md" title="wikilink">清川元夢</a>）</p></td>
 <td><p>テラノコング</p></td>
 <td></td>
 <td></td>
@@ -908,7 +919,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>26</p></td>
 <td><p>ブラック!大逆転</p></td>
 <td><p>Black! 大逆轉</p></td>
-<td><p><a href="../Page/イノシシ.md" title="wikilink">イノシシモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/イノシシ" title="wikilink">イノシシモズー</a>（声：渡部猛）</p></td>
 <td><p>イノシシコング</p></td>
 <td><p>曽田博久</p></td>
 <td><p>山田稔</p></td>
@@ -918,7 +929,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>27</p></td>
 <td><p>人間ジャングル!</p></td>
 <td><p>人類叢林!</p></td>
-<td><p><a href="../Page/スイカ.md" title="wikilink">スイカモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/スイカ" title="wikilink">スイカモズー</a>（声：西尾徳）</p></td>
 <td><p>スイカコング</p></td>
 <td><p>酒井あきよし</p></td>
 <td></td>
@@ -928,18 +939,18 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>28</p></td>
 <td><p>甦った亡霊モズー</p></td>
 <td><p>甦醒的亡靈摩茲們</p></td>
-<td><p><a href="../Page/サメ.md" title="wikilink">サメモズー</a>（声：丸山詠二）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/サメ" title="wikilink">サメモズー</a>（声：丸山詠二）<br />
 亡霊モズ－軍団</p></td>
 <td><p>サメコング</p></td>
 <td><p>曽田博久</p></td>
-<td><p><a href="../Page/小西通雄.md" title="wikilink">小西通雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小西通雄" title="wikilink">小西通雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1982/8/28</p></td>
 <td><p>29</p></td>
 <td><p>眠りの街の恐怖</p></td>
 <td><p>睡眠之街的恐怖</p></td>
-<td><p><a href="../Page/ハエ.md" title="wikilink">ハエモズー</a>（声：<a href="../Page/加地健太郎.md" title="wikilink">加地健太郎</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ハエ" title="wikilink">ハエモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/加地健太郎" title="wikilink">加地健太郎</a>）</p></td>
 <td><p>ハエコング</p></td>
 <td><p>松本功</p></td>
 <td><p>東条昭平</p></td>
@@ -949,7 +960,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>30</p></td>
 <td><p>猪苗代の黃金魔剣</p></td>
 <td><p>豬苗代的黃金魔劍</p></td>
-<td><p><a href="../Page/天狗.md" title="wikilink">テングモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天狗" title="wikilink">テングモズー</a>（声：西尾徳）</p></td>
 <td><p>テングコング</p></td>
 <td><p>曽田博久</p></td>
 <td></td>
@@ -959,7 +970,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>31</p></td>
 <td><p>ブルー! 大突擊!</p></td>
 <td><p>Blue! 大突擊!</p></td>
-<td><p><a href="../Page/ガラガラヘビ属.md" title="wikilink">ガラガラヘビモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ガラガラヘビ属" title="wikilink">ガラガラヘビモズー</a>（声：西尾徳）</p></td>
 <td><p>ガラガラコング</p></td>
 <td><p>鷺山京子</p></td>
 <td><p>小西通雄</p></td>
@@ -969,7 +980,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>32</p></td>
 <td><p>ドキッ 骨めき人間</p></td>
 <td><p>吃驚 無骨人類</p></td>
-<td><p><a href="../Page/ヤドカリ.md" title="wikilink">ヤドカリモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ヤドカリ" title="wikilink">ヤドカリモズー</a>（声：西尾徳）</p></td>
 <td><p>ヤドカリコング</p></td>
 <td><p>筒井ともみ</p></td>
 <td><p>服部和史</p></td>
@@ -979,7 +990,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>33</p></td>
 <td><p>シーザー大爆破?!</p></td>
 <td><p>Caesar大爆破?!</p></td>
-<td><p><a href="../Page/トラ.md" title="wikilink">トラモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/トラ" title="wikilink">トラモズー</a>（声：西尾徳）</p></td>
 <td><p>トラコング</p></td>
 <td><p>鷺山京子</p></td>
 <td></td>
@@ -989,7 +1000,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>34</p></td>
 <td><p>出た! 黃金必殺技</p></td>
 <td><p>出現了! 黃金必殺技</p></td>
-<td><p><a href="../Page/ワニ.md" title="wikilink">ワニモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ワニ" title="wikilink">ワニモズー</a>（声：西尾徳）</p></td>
 <td><p>ワニコング</p></td>
 <td><p>曽田博久</p></td>
 <td><p>山田稔</p></td>
@@ -999,7 +1010,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>35</p></td>
 <td><p>鉄喰い人間の襲擊</p></td>
 <td><p>食鐵人的襲擊</p></td>
-<td><p><a href="../Page/ハイエナ.md" title="wikilink">ハイエナモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ハイエナ" title="wikilink">ハイエナモズー</a>（声：渡部猛）</p></td>
 <td><p>ハイエナコング</p></td>
 <td></td>
 <td></td>
@@ -1009,7 +1020,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>36</p></td>
 <td><p>決鬪! 0.3秒!</p></td>
 <td><p>決鬥! 0.3秒!</p></td>
-<td><p><a href="../Page/ヤマアラシ.md" title="wikilink">ヤマアラシモズー</a>（声：<a href="../Page/大宮悌二.md" title="wikilink">大宮悌二</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ヤマアラシ" title="wikilink">ヤマアラシモズー</a>（声：<a href="https://zh.wikipedia.org/wiki/大宮悌二" title="wikilink">大宮悌二</a>）</p></td>
 <td><p>ヤマアラシコング</p></td>
 <td><p>東条昭平</p></td>
 <td></td>
@@ -1019,7 +1030,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>37</p></td>
 <td><p>謎の爆撃機を撃て</p></td>
 <td><p>攻擊謎之轟炸機</p></td>
-<td><p><a href="../Page/ムササビ.md" title="wikilink">ムササビモズー</a>（声：<a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ムササビ" title="wikilink">ムササビモズー</a>（声：<a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a>）</p></td>
 <td><p>ムササビコング</p></td>
 <td><p>松本功</p></td>
 <td></td>
@@ -1029,7 +1040,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>38</p></td>
 <td><p>友情のアタック!</p></td>
 <td><p>友情的攻擊!</p></td>
-<td><p><a href="../Page/サイ.md" title="wikilink">サイモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/サイ" title="wikilink">サイモズー</a>（声：西尾徳）</p></td>
 <td><p>サイコング</p></td>
 <td><p>曽田博久</p></td>
 <td><p>山田稔</p></td>
@@ -1039,7 +1050,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>39</p></td>
 <td><p>悪魔の人食い絵本</p></td>
 <td><p>惡魔的食人繪本</p></td>
-<td><p><a href="../Page/ミミズク.md" title="wikilink">ミミズクモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ミミズク" title="wikilink">ミミズクモズー</a>（声：渡部猛）</p></td>
 <td><p>ミミズクコング</p></td>
 <td><p>鷺山京子</p></td>
 <td></td>
@@ -1049,7 +1060,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>40</p></td>
 <td><p>秘密基地が危ない</p></td>
 <td><p>秘密基地危險</p></td>
-<td><p><a href="../Page/セイウチ.md" title="wikilink">セイウチモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/セイウチ" title="wikilink">セイウチモズー</a>（声：渡部猛）</p></td>
 <td><p>セイウチコング</p></td>
 <td><p>曽田博久</p></td>
 <td><p>東条昭平</p></td>
@@ -1059,7 +1070,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>41</p></td>
 <td><p>変身パパの大冒険</p></td>
 <td><p>變身爸爸的大冒險</p></td>
-<td><p><a href="../Page/カイコ.md" title="wikilink">カイコモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/カイコ" title="wikilink">カイコモズー</a>（声：西尾徳）</p></td>
 <td><p>カイココング</p></td>
 <td></td>
 <td></td>
@@ -1069,7 +1080,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>42</p></td>
 <td><p>暗殺! サソリの罠</p></td>
 <td><p>秘密基地危險</p></td>
-<td><p><a href="../Page/サソリ.md" title="wikilink">サソリモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/サソリ" title="wikilink">サソリモズー</a>（声：渡部猛）</p></td>
 <td><p>サソリコング</p></td>
 <td><p>酒井あきよし</p></td>
 <td><p>服部和史</p></td>
@@ -1079,9 +1090,9 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>43</p></td>
 <td><p>死闘! 小判[5]争奪戦</p></td>
 <td><p>死鬥! 金幣爭奪戰</p></td>
-<td><p><a href="../Page/ミミズ.md" title="wikilink">ミミズモズー</a>（声：丸山詠二）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ミミズ" title="wikilink">ミミズモズー</a>（声：丸山詠二）</p></td>
 <td><p>ミミズコング</p></td>
-<td><p><a href="../Page/由起圭.md" title="wikilink">由起圭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/由起圭" title="wikilink">由起圭</a></p></td>
 <td><p>山田稔</p></td>
 </tr>
 <tr class="even">
@@ -1089,7 +1100,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>44</p></td>
 <td><p>あ! 食べ物が砂に</p></td>
 <td><p>啊! 食物變成沙子</p></td>
-<td><p><a href="../Page/コンドル.md" title="wikilink">コンドルモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/コンドル" title="wikilink">コンドルモズー</a>（声：渡部猛）</p></td>
 <td><p>コンドルコング</p></td>
 <td><p>鷺山京子</p></td>
 <td></td>
@@ -1099,7 +1110,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>45</p></td>
 <td><p>二人のブラック</p></td>
 <td><p>二個Black</p></td>
-<td><p><a href="../Page/タヌキ.md" title="wikilink">タヌキモズー</a>（声：西尾徳）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/タヌキ" title="wikilink">タヌキモズー</a>（声：西尾徳）<br />
 デスダークファイブ</p></td>
 <td><p>タヌキコング</p></td>
 <td><p>松本功</p></td>
@@ -1110,7 +1121,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>46</p></td>
 <td><p>超エネルギー出現</p></td>
 <td><p>超能量出現</p></td>
-<td><p><a href="../Page/スカンク.md" title="wikilink">スカンクモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/スカンク" title="wikilink">スカンクモズー</a>（声：渡部猛）</p></td>
 <td><p>スカンクコング</p></td>
 <td><p>曽田博久</p></td>
 <td><p>東条昭平</p></td>
@@ -1120,7 +1131,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>47</p></td>
 <td><p>これが最終兵器だ</p></td>
 <td><p>這就是最終兵器</p></td>
-<td><p><a href="../Page/ゾウガメ.md" title="wikilink">ゾウガメモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ゾウガメ" title="wikilink">ゾウガメモズー</a>（声：西尾徳）</p></td>
 <td><p>ゾウガメコング</p></td>
 <td></td>
 <td></td>
@@ -1130,7 +1141,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>48</p></td>
 <td><p>秘密基地最後の日</p></td>
 <td><p>秘密基地的末日</p></td>
-<td><p><a href="../Page/チーター.md" title="wikilink">チーターモズー</a>（声：渡部猛）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/チーター" title="wikilink">チーターモズー</a>（声：渡部猛）</p></td>
 <td><p>チーターコング</p></td>
 <td><p>山田稔</p></td>
 <td></td>
@@ -1140,7 +1151,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 <td><p>49</p></td>
 <td><p>将軍! 最後の挑戦</p></td>
 <td><p>將軍! 最後的挑戰</p></td>
-<td><p><a href="../Page/クマ.md" title="wikilink">クマモズー</a>（声：西尾徳）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/クマ" title="wikilink">クマモズー</a>（声：西尾徳）</p></td>
 <td><p>クマコング</p></td>
 <td></td>
 <td></td>
@@ -1222,7 +1233,7 @@ Goggle Robo為Red﹑Blue﹑Yellow三人所合力駕駛，合體口號為「Go Go
 
 1.  他是唯一連續2年出任同色戰士的戰隊演員。
 2.  據說是為了讓孩童收視群更有親切感而設定的。
-3.  並非[超新星閃光人的演員](../Page/超新星閃光人.md "wikilink")[吉田真弓](../Page/吉田真弓.md "wikilink")，兩人僅同名同姓。
+3.  並非[超新星閃光人的演員](../Page/超新星閃光人.md "wikilink")[吉田真弓](https://zh.wikipedia.org/wiki/吉田真弓 "wikilink")，兩人僅同名同姓。
 4.  7月24日，停播一次。
 5.  為日本古貨幣，招財貓額上的金幣就是小判。
 6.  1983年1月1日，停播一次。

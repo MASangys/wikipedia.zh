@@ -40,7 +40,7 @@ Boyfriend The First Chapter in Seoul "BEWITCH"》。
 
 3月9日，發行第四張迷你專輯《BOYFRIEND IN
 Wonderland》。12月17日，官方宣布Boyfriend已經簽約旗下有[BTOB](../Page/BTOB.md "wikilink")、[Girl's
-day等歌手的](../Page/Girl's_day.md "wikilink")[日本娛樂公司](../Page/日本.md "wikilink")[Kiss娱乐](https://zh.wikipedia.org/wiki/Kiss娱乐 "wikilink")。
+day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛樂公司](../Page/日本.md "wikilink")[Kiss娱乐](https://zh.wikipedia.org/wiki/Kiss娱乐 "wikilink")。
 
 ### 2016年：出道5周年紀念單曲
 
@@ -313,7 +313,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 |            |                                                                                  |          |    |
 | ---------- | -------------------------------------------------------------------------------- | -------- | -- |
 | 日期         | 節目名稱                                                                             | 參與成員     | 備註 |
-| 2012年1月21日 | 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》            | 全體成員     |    |
+| 2012年1月21日 | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                               | 全體成員     |    |
 | 2012年1月24日 | 《[第四屆偶像明星田徑游泳錦標賽](https://zh.wikipedia.org/wiki/第四屆偶像明星田徑游泳錦標賽 "wikilink")(上、下)》 | 全體成員     |    |
 | 2012年3月21日 | 《MIB's W Academy》Ep月1                                                            | 全體成員     | 客串 |
 | 2012年3月29日 | 《日韩音乐疯》                                                                          | 全體成員     |    |
@@ -335,32 +335,32 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 2013年11月6日 | 《After School Club》 | 全體成員 |    |
 |            |                     |      |    |
 
-|             |                                                                       |       |                                                         |
-| ----------- | --------------------------------------------------------------------- | ----- | ------------------------------------------------------- |
-| 日期          | 節目名稱                                                                  | 參與成員  | 備註                                                      |
-| 2014年7月27日  | 《出發夢之隊2》                                                              | 東玄、賢星 |                                                         |
-| 2014年7月29日  | 《娛樂新聞報導》STAR TALK環節                                                   | 全體成員  | 香港[TVB節目](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| 2014年7月30日  | 《Weekly Idol》                                                         | 全體成員  | 3周年特輯下集                                                 |
-| 2014年10月18日 | 《Show\!音樂中心》                                                          | 正珉    | 特別MC                                                    |
-| 2014年11月19日 | 《文熙俊的純潔15歲》                                                           | 東玄、正珉 |                                                         |
-| 2014年11月26日 | 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 | 全體成員  |                                                         |
-|             |                                                                       |       |                                                         |
+|             |                                                    |       |                                                         |
+| ----------- | -------------------------------------------------- | ----- | ------------------------------------------------------- |
+| 日期          | 節目名稱                                               | 參與成員  | 備註                                                      |
+| 2014年7月27日  | 《出發夢之隊2》                                           | 東玄、賢星 |                                                         |
+| 2014年7月29日  | 《娛樂新聞報導》STAR TALK環節                                | 全體成員  | 香港[TVB節目](https://zh.wikipedia.org/wiki/TVB "wikilink") |
+| 2014年7月30日  | 《Weekly Idol》                                      | 全體成員  | 3周年特輯下集                                                 |
+| 2014年10月18日 | 《Show\!音樂中心》                                       | 正珉    | 特別MC                                                    |
+| 2014年11月19日 | 《文熙俊的純潔15歲》                                        | 東玄、正珉 |                                                         |
+| 2014年11月26日 | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 | 全體成員  |                                                         |
+|             |                                                    |       |                                                         |
 
-|            |                                                                       |       |      |
-| ---------- | --------------------------------------------------------------------- | ----- | ---- |
-| 日期         | 節目名稱                                                                  | 參與成員  | 備註   |
-| 2015年1月13日 | 《After School Club》                                                   | 全體成員  |      |
-| 2015年1月22日 | 《SISTAR's ShowTime》                                                   | 全體成員  | 中段   |
-| 2015年3月8日  | 《真正的男人2》                                                              | 榮旻、光旻 | 後半   |
-| 2015年3月23日 | 《[Yaman TV](../Page/Yaman_TV.md "wikilink")》                          | 全體成員  |      |
-| 2015年3月25日 | 《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 | 全體成員  |      |
-| 2015年3月29日 | 《真正的男人2》                                                              | 榮旻、光旻 |      |
-| 2015年4月5日  | 《真正的男人2》                                                              | 榮旻、光旻 | 前半   |
-| 2015年4月10日 | 《韩ON\! ファイティン                                                         | 》     | 全體成員 |
-| 2015年4月16日 | 《我愛偶像》                                                                | 全體成員  |      |
-| 2015年4月20日 | 《安妞韓流》                                                                | 全體成員  |      |
-| 2015年5月19日 | 《IDOL星地標》\[6\]                                                        | 全體成員  |      |
-|            |                                                                       |       |      |
+|            |                                                    |       |      |
+| ---------- | -------------------------------------------------- | ----- | ---- |
+| 日期         | 節目名稱                                               | 參與成員  | 備註   |
+| 2015年1月13日 | 《After School Club》                                | 全體成員  |      |
+| 2015年1月22日 | 《SISTAR's ShowTime》                                | 全體成員  | 中段   |
+| 2015年3月8日  | 《真正的男人2》                                           | 榮旻、光旻 | 後半   |
+| 2015年3月23日 | 《[Yaman TV](../Page/Yaman_TV.md "wikilink")》       | 全體成員  |      |
+| 2015年3月25日 | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 | 全體成員  |      |
+| 2015年3月29日 | 《真正的男人2》                                           | 榮旻、光旻 |      |
+| 2015年4月5日  | 《真正的男人2》                                           | 榮旻、光旻 | 前半   |
+| 2015年4月10日 | 《韩ON\! ファイティン                                      | 》     | 全體成員 |
+| 2015年4月16日 | 《我愛偶像》                                             | 全體成員  |      |
+| 2015年4月20日 | 《安妞韓流》                                             | 全體成員  |      |
+| 2015年5月19日 | 《IDOL星地標》\[6\]                                     | 全體成員  |      |
+|            |                                                    |       |      |
 
 |             |                             |       |    |
 | ----------- | --------------------------- | ----- | -- |
@@ -533,7 +533,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Love_Style" title="wikilink">Love Style</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Love_Style.md" title="wikilink">Love Style</a></strong>》</p>
 <ul>
 <li>發行日期：2012年6月19日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -563,7 +563,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BOYFRIEND_in_Wonderland" title="wikilink">BOYFRIEND in Wonderland</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BOYFRIEND_in_Wonderland.md" title="wikilink">BOYFRIEND in Wonderland</a></strong>》</p>
 <ul>
 <li>發行日期：2015年3月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -573,7 +573,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="../Page/Never_End.md" title="wikilink">Never End</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Never_End" title="wikilink">Never End</a></strong>》</p>
 <ul>
 <li>發行日期：2017年8月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -882,12 +882,12 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 音乐原声带
 
-| **年份**          | **歌曲名称**                                                                                   | **影视名称**                                                       | **合作艺人**           | **备注**               |
-| --------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------ | -------------------- |
-| 2012年           | 《唯独只有你》                                                                                    | 《[The King 2 Hearts](../Page/The_King_2_Hearts.md "wikilink")》 |                    | **賢星**               |
-| 2014年           | 《Find Yourself》                                                                            | 《冰雪女王2:Troll 的魔鏡》                                              |                    | **東玄**、**賢星**、**正珉** |
-| 《Too good(아까워）》 | 《[High\! school - Love on](https://zh.wikipedia.org/wiki/Hi!_School_-_Love_On "wikilink")》 | 鄭基高                                                            | feat.**珉玗**        |                      |
-| 2016年           | 《Promise》                                                                                  | 《The Miracle（웹드라마 더 미라클）》                                      | Feat. 키아（MAS 0094） | **東玄**               |
+| **年份**          | **歌曲名称**                                                                | **影视名称**                                                       | **合作艺人**           | **备注**               |
+| --------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------ | -------------------- |
+| 2012年           | 《唯独只有你》                                                                 | 《[The King 2 Hearts](../Page/The_King_2_Hearts.md "wikilink")》 |                    | **賢星**               |
+| 2014年           | 《Find Yourself》                                                         | 《冰雪女王2:Troll 的魔鏡》                                              |                    | **東玄**、**賢星**、**正珉** |
+| 《Too good(아까워）》 | 《[High\! school - Love on](../Page/Hi!_School_-_Love_On.md "wikilink")》 | 鄭基高                                                            | feat.**珉玗**        |                      |
+| 2016年           | 《Promise》                                                               | 《The Miracle（웹드라마 더 미라클）》                                      | Feat. 키아（MAS 0094） | **東玄**               |
 
 ### 合唱歌曲
 
@@ -944,7 +944,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 |                                                    |                                                           |                                                                                                                                                               |                                                                                                                                                       |        |     |
 | -------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --- |
 | 年份                                                 | 歌曲                                                        | 歌手                                                                                                                                                            | 演出成員                                                                                                                                                  | MV     | 备注  |
-| 2010                                               | 푸시푸시 <small>(Push Push)</small>                           | [Sistar](../Page/Sistar.md "wikilink")                                                                                                                        | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink") | \[37\] | 出道前 |
+| 2010                                               | 푸시푸시 <small>(Push Push)</small>                           | [Sistar](https://zh.wikipedia.org/wiki/Sistar "wikilink")                                                                                                     | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink") | \[37\] | 出道前 |
 | 2011                                               | 가슴이 뛴다 <small>(My heart beating)</small>                  | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                                                                                                     | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                     | \[38\] |     |
 | 입이 떨어지지 않아서 <small>(Can't open up my lips)</small> | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                             | \[39\]                                                                                                                                                |        |     |
 | 핑크빛로맨스 <small>(Pink Romance)</small>               | Starship Planet                                           | 全體成員                                                                                                                                                          | \[40\]                                                                                                                                                |        |     |
@@ -1184,7 +1184,7 @@ Boyfriend其他大型演唱會
 <td><p>2014年</p></td>
 <td><p>11月11日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>WITCH</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -1192,7 +1192,7 @@ Boyfriend其他大型演唱會
 <td><p>2015年</p></td>
 <td><p>3月24日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Bounce</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -1230,7 +1230,7 @@ Boyfriend其他大型演唱會
 <td><p>2012年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Style" title="wikilink">Love Style</a></p></td>
+<td><p><a href="../Page/Love_Style.md" title="wikilink">Love Style</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Janus_(專輯)" title="wikilink">Janus</a></p></td>
@@ -1266,7 +1266,7 @@ Boyfriend其他大型演唱會
 <td><p>2015年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/BOYFRIEND_in_Wonderland" title="wikilink">BOYFRIEND in Wonderland</a></p></td>
+<td><p><a href="../Page/BOYFRIEND_in_Wonderland.md" title="wikilink">BOYFRIEND in Wonderland</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Starship Planet 2015</p></td>

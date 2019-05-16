@@ -19,7 +19,7 @@ HR16DE型引擎，驅動方式為2WD。
   - 2002年9月：在[巴黎車展發表](../Page/巴黎車展.md "wikilink")「Micra
     C+C」[概念車](../Page/概念車.md "wikilink")。
   - 2005年6月15日：位於[巽德蘭的英國日產汽車公司宣布同年秋季開始投產](../Page/桑德兰.md "wikilink")，預計11月正式在歐洲上市。
-  - 2007年1月：正式在[東京改裝車展中亮相](https://zh.wikipedia.org/wiki/東京改裝車展 "wikilink")，並宣布7月23日開始在日本境內銷售。
+  - 2007年1月：正式在[東京改裝車展中亮相](../Page/東京改裝車展.md "wikilink")，並宣布7月23日開始在日本境內銷售。
   - 2010年8月：在日本達成1,500輛的銷售量，停止發售。
 
 Image:Nissan Micra Cabrio front 20080625.jpg|車頭 Image:Nissan Micra

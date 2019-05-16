@@ -1,4 +1,4 @@
-《**Calling**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[B'z的第](../Page/B'z.md "wikilink")22張[單曲和代表作之一](../Page/單曲.md "wikilink")。1997年7月9日發行。
+《**Calling**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z的第](../Page/B'z.md "wikilink")22張[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月9日發行。
 
 ## 簡介
 
@@ -12,7 +12,7 @@
 
 <!-- end list -->
 
-  - 因搭配日劇[千面女郎主題曲](../Page/千面女郎.md "wikilink")，讓B'z在台灣開始廣為人知，也使得Calling一曲成為台灣歌迷認為最能代表B'z的一首歌。
+  - 因搭配日劇[千面女郎主題曲](https://zh.wikipedia.org/wiki/千面女郎 "wikilink")，讓B'z在台灣開始廣為人知，也使得Calling一曲成為台灣歌迷認為最能代表B'z的一首歌。
 
 <!-- end list -->
 
@@ -24,21 +24,21 @@
 
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：主唱、全曲編曲、作詞
 
-  - [青山純](../Page/青山純.md "wikilink")：鼓（\#1）
+  - [青山純](https://zh.wikipedia.org/wiki/青山純 "wikilink")：鼓（\#1）
 
-  - [山木秀夫](../Page/山木秀夫.md "wikilink")：鼓（\#1）
+  - [山木秀夫](https://zh.wikipedia.org/wiki/山木秀夫 "wikilink")：鼓（\#1）
 
   - ：鼓（\#2）
 
-  - [明石昌夫](../Page/明石昌夫.md "wikilink")：貝斯
+  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：貝斯
 
   - [德永曉人](../Page/德永曉人.md "wikilink")：貝斯（\#1）、編曲（\#1）
 
-  - [小野塚晃](../Page/小野塚晃.md "wikilink")：鋼琴（\#1）
+  - [小野塚晃](https://zh.wikipedia.org/wiki/小野塚晃 "wikilink")：鋼琴（\#1）
 
-  - [增田隆宣](../Page/增田隆宣.md "wikilink")：電子琴（\#2）
+  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：電子琴（\#2）
 
-  - [池田大介](../Page/池田大介.md "wikilink")：編曲（\#1）
+  - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")：編曲（\#1）
 
   - 篠崎Strings：弦樂器（\#1）
 

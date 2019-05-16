@@ -1,5 +1,5 @@
 **佳能EOS
-600D**是[佳能在](../Page/佳能.md "wikilink")2011年2月7日推出的一款1800万[像素](../Page/像素.md "wikilink")[数码单镜反光相机](../Page/数码单镜反光相机.md "wikilink")。\[1\]。它在[日本市场被称作](../Page/日本.md "wikilink")**EOS
+600D**是[佳能在](../Page/佳能.md "wikilink")2011年2月7日推出的一款1800万[像素](../Page/像素.md "wikilink")[数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")。\[1\]。它在[日本市场被称作](../Page/日本.md "wikilink")**EOS
 Kiss
 X5**，在[美国和](../Page/美国.md "wikilink")[加拿大市场被称作](../Page/加拿大.md "wikilink")**EOS
 Rebel T3i**。这款产品是[佳能 EOS 550D的替代产品](../Page/佳能_EOS_550D.md "wikilink")。

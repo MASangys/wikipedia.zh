@@ -6,8 +6,8 @@ Stadium）。位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德
 AT\&T體育場現已成為達拉斯地區舉辦重大活動的主要場館之一。
 
   - [2010年NBA全明星賽](../Page/2010年NBA全明星賽.md "wikilink")
-  - 2011年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[愛的告白世界巡迴演唱會](https://zh.wikipedia.org/wiki/愛的告白世界巡迴演唱會 "wikilink")
-  - 2013年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[紅色巡迴演唱會](https://zh.wikipedia.org/wiki/红巡回演唱会 "wikilink")
+  - 2011年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[愛的告白世界巡迴演唱會](../Page/愛的告白世界巡迴演唱會.md "wikilink")
+  - 2013年[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[紅色巡迴演唱會](../Page/红巡回演唱会.md "wikilink")
   - 2014年NCAA男子籃球錦標賽四強
   - 棉花碗
   - [第四十五届超級碗](https://zh.wikipedia.org/wiki/第四十五届超級碗 "wikilink")

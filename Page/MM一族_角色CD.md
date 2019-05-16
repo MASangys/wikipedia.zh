@@ -1,5 +1,5 @@
 「MM一族 角色CD」（えむえむっ\!
-キャラクターシーディー）是[電視動畫](../Page/電視動畫.md "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[角色歌曲](../Page/角色歌曲.md "wikilink")[單曲](../Page/單曲.md "wikilink")[系列](../Page/系列.md "wikilink")。
+キャラクターシーディー）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[MM一族](../Page/MM一族.md "wikilink")』的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")[系列](../Page/系列.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@ vocal。各系列CD的封面都印有石動美緒和結野嵐子的畫像。
 
 1.  **正気≒狂気らぶそでぃー** \[3:54\]
       -
-        作詞：[こだまさおり](../Page/こだまさおり.md "wikilink")、作曲・編曲：corin.
+        作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")、作曲・編曲：corin.
 2.  **Happy Birthday, my holy day** \[3:43\]
       -
         作詞：こだまさおり、作曲・編曲：[橋本由香利](../Page/橋本由香利.md "wikilink")
@@ -35,7 +35,7 @@ vocal。各系列CD的封面都印有石動美緒和結野嵐子的畫像。
 13. *美緒様とデート♥* \[0:22\]
 14. *美緒様とデート♥* \[0:29\]
 15. *美緒様とデート♥* \[1:40\]
-16. 正気≒狂気らぶそでぃー（[instrumental](../Page/器樂.md "wikilink")）
+16. 正気≒狂気らぶそでぃー（[instrumental](https://zh.wikipedia.org/wiki/器樂 "wikilink")）
 17. Happy Birthday, my holy day（instrumental）
 
 ### 嵐子CD
@@ -46,7 +46,7 @@ vocal。各系列CD的封面都印有石動美緒和結野嵐子的畫像。
 
 1.  **あなたとわたしのディスタンス**
       -
-        作詞：こだまさおり、作曲：[田代智一](../Page/田代智一.md "wikilink")、編曲：Tron-LM
+        作詞：こだまさおり、作曲：[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")、編曲：Tron-LM
 2.  **Melty time 〜やさしい場所で**
       -
         作詞：こだまさおり、作曲・編曲：橋本由香利

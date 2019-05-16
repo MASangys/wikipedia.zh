@@ -4,7 +4,7 @@
 
 ## 冠軍專輯列表
 
-專輯類型中的「原創」是指[原創專輯](../Page/錄音室專輯.md "wikilink")；「精選」是指[精選輯](../Page/精選輯.md "wikilink")；「合輯」是指[合輯](../Page/合輯.md "wikilink")；「翻唱」是指[翻唱專輯](../Page/翻唱專輯.md "wikilink")。
+專輯類型中的「原創」是指[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")；「精選」是指[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")；「合輯」是指[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")；「翻唱」是指[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")。
 
 <table>
 <thead>
@@ -22,7 +22,7 @@
 <tr class="odd">
 <td><p>1月4日</p></td>
 <td><p><a href="../Page/啟程之歌_(專輯).md" title="wikilink">啟程之歌</a></p></td>
-<td><p><a href="../Page/生物股長.md" title="wikilink">生物股長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>原創</p></td>
 <td><p>20.0</p></td>
 <td><p>1</p></td>
@@ -47,7 +47,7 @@
 <tr class="even">
 <td><p>2月1日</p></td>
 <td></td>
-<td><p><a href="../Page/女孩次世代.md" title="wikilink">女孩次世代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女孩次世代" title="wikilink">女孩次世代</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.6</p></td>
 <td><p>1</p></td>
@@ -119,7 +119,7 @@
 <tr class="odd">
 <td><p>4月5日</p></td>
 <td></td>
-<td><p><a href="../Page/色情塗鴉.md" title="wikilink">色情塗鴉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/色情塗鴉" title="wikilink">色情塗鴉</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.3</p></td>
 <td><p>1</p></td>
@@ -127,7 +127,7 @@
 <tr class="even">
 <td><p>4月12日</p></td>
 <td><p><a href="../Page/BABY_(aiko專輯).md" title="wikilink">BABY</a></p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.6</p></td>
 <td><p>1</p></td>
@@ -207,7 +207,7 @@
 <tr class="even">
 <td><p>6月21日</p></td>
 <td><p><a href="../Page/FANTASY_(EXILE單曲).md" title="wikilink">FANTASY</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>雙單曲<br />
 （迷你專輯）</p></td>
 <td><p>30.3</p></td>
@@ -223,8 +223,8 @@
 </tr>
 <tr class="even">
 <td><p>7月5日</p></td>
-<td><p><a href="../Page/to_LOVE.md" title="wikilink">to LOVE</a></p></td>
-<td><p><a href="../Page/西野加奈.md" title="wikilink">西野加奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/to_LOVE" title="wikilink">to LOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西野加奈" title="wikilink">西野加奈</a></p></td>
 <td><p>原創</p></td>
 <td><p>29.0</p></td>
 <td><p>1</p></td>
@@ -248,7 +248,7 @@
 <tr class="odd">
 <td><p>7月26日</p></td>
 <td><p><a href="../Page/HOLIDAYS_IN_THE_SUN.md" title="wikilink">HOLIDAYS IN THE SUN</a></p></td>
-<td><p><a href="../Page/YUI_(歌手).md" title="wikilink">YUI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.5</p></td>
 <td><p>1</p></td>
@@ -264,7 +264,7 @@
 <tr class="odd">
 <td><p>8月9日</p></td>
 <td></td>
-<td><p><a href="../Page/加藤Miliyah.md" title="wikilink">加藤Miliyah</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加藤Miliyah" title="wikilink">加藤Miliyah</a></p></td>
 <td><p>原創</p></td>
 <td><p>15.1</p></td>
 <td><p>1</p></td>
@@ -328,7 +328,7 @@
 <tr class="odd">
 <td><p>10月4日</p></td>
 <td></td>
-<td><p><a href="../Page/凛凛的時雨.md" title="wikilink">凛凛的時雨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凛凛的時雨" title="wikilink">凛凛的時雨</a></p></td>
 <td><p>原創</p></td>
 <td><p>2.6</p></td>
 <td><p>1</p></td>
@@ -351,7 +351,7 @@
 </tr>
 <tr class="even">
 <td><p>10月25日</p></td>
-<td><p><a href="../Page/GLAY_(專輯).md" title="wikilink">GLAY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GLAY_(專輯)" title="wikilink">GLAY</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>原創</p></td>
 <td><p>9.4</p></td>
@@ -367,8 +367,8 @@
 </tr>
 <tr class="even">
 <td><p>11月8日</p></td>
-<td><p><a href="../Page/放課後TEA_TIME_II.md" title="wikilink">放課後TEA TIME II</a></p></td>
-<td><p><a href="../Page/K-ON!.md" title="wikilink">放課後TEA TIME</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/放課後TEA_TIME_II" title="wikilink">放課後TEA TIME II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">放課後TEA TIME</a></p></td>
 <td><p>原創</p></td>
 <td><p>12.7</p></td>
 <td><p>1</p></td>
@@ -376,7 +376,7 @@
 <tr class="odd">
 <td><p>11月15日</p></td>
 <td><p><a href="../Page/生物百科圖鑑～團員精選～.md" title="wikilink">生物百科圖鑑～團員精選～</a></p></td>
-<td><p><a href="../Page/生物股長.md" title="wikilink">生物股長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>精選</p></td>
 <td><p>45.7</p></td>
 <td><p>1</p></td>
@@ -399,7 +399,7 @@
 </tr>
 <tr class="even">
 <td><p>12月6日</p></td>
-<td><p><a href="../Page/Utada_Hikaru_SINGLE_COLLECTION_VOL.2.md" title="wikilink">Utada Hikaru SINGLE COLLECTION VOL.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Utada_Hikaru_SINGLE_COLLECTION_VOL.2" title="wikilink">Utada Hikaru SINGLE COLLECTION VOL.2</a></p></td>
 <td><p><a href="../Page/宇多田光.md" title="wikilink">宇多田光</a></p></td>
 <td><p>精選</p></td>
 <td><p>23.1</p></td>

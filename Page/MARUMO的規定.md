@@ -65,7 +65,7 @@
 <!-- end list -->
 
   - **畑中彩（25→28）** -
-    [比嘉愛未](../Page/比嘉愛未.md "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")、[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")（特別篇2））
+    [比嘉愛未](../Page/比嘉愛未.md "wikilink")（粵語配音：[余欣沛](../Page/余欣沛.md "wikilink")、[黃昕瑜](../Page/黃昕瑜.md "wikilink")（特別篇2））
 
 <!-- end list -->
 

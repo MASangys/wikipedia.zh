@@ -1,6 +1,7 @@
 **猎鹰** (Predator)
-是由[德国体育用品制造商](../Page/德国.md "wikilink")[阿迪达斯公司开发的一系列](../Page/阿迪达斯.md "wikilink")[足球鞋](../Page/足球鞋.md "wikilink")。它的雏形是由[澳大利亚足球运动员](../Page/澳大利亚.md "wikilink")
-[Craig Johnston](../Page/Craig_Johnston.md "wikilink")
+是由[德国体育用品制造商](../Page/德国.md "wikilink")[阿迪达斯公司开发的一系列](https://zh.wikipedia.org/wiki/阿迪达斯 "wikilink")[足球鞋](https://zh.wikipedia.org/wiki/足球鞋 "wikilink")。它的雏形是由[澳大利亚足球运动员](../Page/澳大利亚.md "wikilink")
+[Craig
+Johnston](https://zh.wikipedia.org/wiki/Craig_Johnston "wikilink")
 设计的。猎鹰系列的特征是位于鞋上部，用于增加球鞋与[球之间摩擦的橡胶块或橡胶条](../Page/足球.md "wikilink")。在
 2010 年下半年，阿迪达斯开发了新的“Power-spine”技术，宣称可以通过减少踢球时脚掌的弯曲来增加射门的力量。
 
@@ -22,7 +23,7 @@ Adipower）。以下是猎鹰系列的历史型号列表：
 10. Predator X (2010) Predator X
 11. AdiPower Predator (2011) Predator Kinetic SL (精英版)
 
-与这一系列同名的“猎鹰元素”也在不断的发展。这项技术的原则是在球鞋的前部加入阿迪达斯宣称能够增加球速的橡胶条。在最初的广告中，猎鹰系列的卖点主要是增加射门的力量，但逐渐地开始转向增加球的旋转和准确度。第一双猎鹰足球鞋同样有不带猎鹰元素的版本，但产品名称不同。1994年的Predator用黑色的袋鼠皮制成，并带有白色条纹和红色元素，而不含有猎鹰元素的版本为黑色，带有白色条纹和蓝色元素。Precision的低配版本为黑白两色，Mania的低配版本的鞋跟和条纹处为银色或金色。[大卫·贝克汉姆和](../Page/贝克汉姆.md "wikilink")[齐达内在其职业生涯中一直使用猎鹰系列足球鞋](../Page/齐达内.md "wikilink")。
+与这一系列同名的“猎鹰元素”也在不断的发展。这项技术的原则是在球鞋的前部加入阿迪达斯宣称能够增加球速的橡胶条。在最初的广告中，猎鹰系列的卖点主要是增加射门的力量，但逐渐地开始转向增加球的旋转和准确度。第一双猎鹰足球鞋同样有不带猎鹰元素的版本，但产品名称不同。1994年的Predator用黑色的袋鼠皮制成，并带有白色条纹和红色元素，而不含有猎鹰元素的版本为黑色，带有白色条纹和蓝色元素。Precision的低配版本为黑白两色，Mania的低配版本的鞋跟和条纹处为银色或金色。[大卫·贝克汉姆和](https://zh.wikipedia.org/wiki/贝克汉姆 "wikilink")[齐达内在其职业生涯中一直使用猎鹰系列足球鞋](https://zh.wikipedia.org/wiki/齐达内 "wikilink")。
 
 ### Rapier
 
@@ -35,9 +36,9 @@ Touch是一款前所未有的产品，它采用了奇钉（Traxion）技术，�
 
 ### Accelerator
 
-为了迎合1998年的[法国世界杯](../Page/法国世界杯.md "wikilink")，阿迪达斯发布了Predator
+为了迎合1998年的[法国世界杯](https://zh.wikipedia.org/wiki/法国世界杯 "wikilink")，阿迪达斯发布了Predator
 Accelerator。这款球鞋采用了重新设计的TRX外底、不对称系带、天足（feet you
-wear）内底，并将球鞋前部的摩擦块嵌入鞋面。这款球鞋被称为阿迪达斯生产的最好的球鞋。Accelerator的代言人包括[德尔·皮耶罗](../Page/德尔·皮耶罗.md "wikilink")、齐达内和大卫贝克汉姆等顶级球星。
+wear）内底，并将球鞋前部的摩擦块嵌入鞋面。这款球鞋被称为阿迪达斯生产的最好的球鞋。Accelerator的代言人包括[德尔·皮耶罗](https://zh.wikipedia.org/wiki/德尔·皮耶罗 "wikilink")、齐达内和大卫贝克汉姆等顶级球星。
 
 阿迪达斯Predator Accelerator共有四种不同的配色：
 

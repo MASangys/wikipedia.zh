@@ -1,20 +1,20 @@
 **X JAPAN WORLD TOUR Live in TOKYO ～攻擊續行中～**（X JAPAN WORLD TOUR Live in
 TOKYO ～攻撃続行中～）是日本樂團[X
-JAPAN於](../Page/X_JAPAN.md "wikilink")2009年5月2日-3日再[東京巨蛋所舉辦的演唱會](../Page/東京巨蛋.md "wikilink")。
+JAPAN於](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")2009年5月2日-3日再[東京巨蛋所舉辦的演唱會](../Page/東京巨蛋.md "wikilink")。
 
 ## 概要
 
 在經歷[Heath因合約問題面離脫團的危機後](../Page/Heath.md "wikilink"),於開演的前一天[Heath經紀公司出面說明無退團危機之後所開的演唱會](../Page/Heath.md "wikilink");也是[LUNA
-SEA團員之一的](../Page/LUNA_SEA.md "wikilink")[SUGIZO加入後的第一場演唱會](../Page/SUGIZO.md "wikilink"),六人的[X
-JAPAN就此誕生](../Page/X_JAPAN.md "wikilink")。
-在第一天演唱會中首度唱了繼[I.V.之後的新曲](../Page/I.V..md "wikilink")[JADE](../Page/JADE.md "wikilink")
+SEA團員之一的](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[SUGIZO加入後的第一場演唱會](../Page/SUGIZO.md "wikilink"),六人的[X
+JAPAN就此誕生](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。
+在第一天演唱會中首度唱了繼[I.V.之後的新曲](../Page/I.V..md "wikilink")[JADE](https://zh.wikipedia.org/wiki/JADE "wikilink")
 
 ## 參加團員
 
-  - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
-  - [TOSHI](../Page/TOSHI.md "wikilink")
-  - [HIDE](../Page/HIDE.md "wikilink")
-  - [PATA](../Page/PATA.md "wikilink")
+  - [YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
+  - [TOSHI](https://zh.wikipedia.org/wiki/TOSHI "wikilink")
+  - [HIDE](https://zh.wikipedia.org/wiki/HIDE "wikilink")
+  - [PATA](https://zh.wikipedia.org/wiki/PATA "wikilink")
   - [Heath](../Page/Heath.md "wikilink")
   - [SUGIZO](../Page/SUGIZO.md "wikilink")
 
@@ -22,18 +22,22 @@ JAPAN就此誕生](../Page/X_JAPAN.md "wikilink")。
 
 ～無敵な夜～ (2009/5/2)
 
-  - [THE LAST SONG](../Page/THE_LAST_SONG.md "wikilink")
+  - [THE LAST
+    SONG](https://zh.wikipedia.org/wiki/THE_LAST_SONG "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink") (ピアノ演奏から)
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
-  - [Jade](../Page/Jade.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
+  - [Jade](https://zh.wikipedia.org/wiki/Jade "wikilink")
   - PATA Guitar solo
-  - [CELEBRATION](../Page/CELEBRATION.md "wikilink") (HIDE solo)
-  - [ROSE OF PAIN](../Page/ROSE_OF_PAIN.md "wikilink") (アコースティック)
+  - [CELEBRATION](https://zh.wikipedia.org/wiki/CELEBRATION "wikilink")
+    (HIDE solo)
+  - [ROSE OF
+    PAIN](https://zh.wikipedia.org/wiki/ROSE_OF_PAIN "wikilink")
+    (アコースティック)
   - Piano solo
   - [Tears](../Page/Tears.md "wikilink")
   - YOSHIKI Piano & SUGIZO Violin
-  - [DAHLIA](../Page/DAHLIA.md "wikilink")
-  - [紅](../Page/紅.md "wikilink")
+  - [DAHLIA](https://zh.wikipedia.org/wiki/DAHLIA "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
 
 アンコール1
 
@@ -48,22 +52,24 @@ JAPAN就此誕生](../Page/X_JAPAN.md "wikilink")。
   - [ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")
   - [Say Anything](../Page/Say_Anything.md "wikilink") (S.E)
   - [Forever Love(Last
-    Mix)](../Page/Forever_Love\(Last_Mix\).md "wikilink") (S.E)
+    Mix)](https://zh.wikipedia.org/wiki/Forever_Love\(Last_Mix\) "wikilink")
+    (S.E)
   - [Tears](../Page/Tears.md "wikilink") (S.E.)
 
 ～18回目の夜～SPECIAL (2009/5/3)
 
-  - [Amethyst](../Page/Amethyst.md "wikilink")
+  - [Amethyst](https://zh.wikipedia.org/wiki/Amethyst "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink") (ピアノ演奏から)
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
-  - [Jade](../Page/Jade.md "wikilink")
-  - [DRAIN](../Page/DRAIN.md "wikilink")
-  - [Longing 〜跡切れたmelody〜](../Page/Longing_〜跡切れたmelody〜.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
+  - [Jade](https://zh.wikipedia.org/wiki/Jade "wikilink")
+  - [DRAIN](https://zh.wikipedia.org/wiki/DRAIN "wikilink")
+  - [Longing
+    〜跡切れたmelody〜](https://zh.wikipedia.org/wiki/Longing_〜跡切れたmelody〜 "wikilink")
     (アコースティック)
   - [Tears](../Page/Tears.md "wikilink")
   - YOSHIKI Piano & SUGIZO Violin
-  - [紅](../Page/紅.md "wikilink")
-  - [オルガスム](../Page/オルガスム.md "wikilink") (巨大ヨシキティ演出)
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
+  - [オルガスム](https://zh.wikipedia.org/wiki/オルガスム "wikilink") (巨大ヨシキティ演出)
 
 アンコール1
 
@@ -83,7 +89,8 @@ JAPAN就此誕生](../Page/X_JAPAN.md "wikilink")。
   - [ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink") (第二楽章から)
   - [Say Anything](../Page/Say_Anything.md "wikilink") (S.E)
   - [Forever Love (Last
-    Mix)](../Page/Forever_Love_\(Last_Mix\).md "wikilink") (S.E)
+    Mix)](https://zh.wikipedia.org/wiki/Forever_Love_\(Last_Mix\) "wikilink")
+    (S.E)
   - [Tears](../Page/Tears.md "wikilink") (S.E.)
 
 ## 外部連結

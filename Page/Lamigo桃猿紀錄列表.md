@@ -72,9 +72,9 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 | [故意四壞](https://zh.wikipedia.org/wiki/故意四壞 "wikilink") | [陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")   | 11次    | 2014-現在           |
 | [中繼成功](https://zh.wikipedia.org/wiki/中繼成功 "wikilink") | [陳禹勳](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")   | 56次    | 2014-現在           |
 | [救援成功](../Page/救援成功.md "wikilink")                    | [許銘倢](../Page/許銘倢.md "wikilink")                      | 51次    | 2009-2015年        |
-| [救援失敗](https://zh.wikipedia.org/wiki/救援失敗 "wikilink") | [曾孟承](https://zh.wikipedia.org/wiki/曾孟承 "wikilink")   | 15次    | 2009-2016年        |
+| [救援失敗](https://zh.wikipedia.org/wiki/救援失敗 "wikilink") | [曾孟承](../Page/曾孟承.md "wikilink")                      | 15次    | 2009-2016年        |
 | 被安打                                                   | [許文雄](../Page/許文雄.md "wikilink")                      | 613支   | 2004-2009年        |
-| 被全壘打                                                  | [曾孟承](https://zh.wikipedia.org/wiki/曾孟承 "wikilink")   | 43支    | 2009-2016年        |
+| 被全壘打                                                  | [曾孟承](../Page/曾孟承.md "wikilink")                      | 43支    | 2009-2016年        |
 | 失分                                                    | [許文雄](../Page/許文雄.md "wikilink")                      | 316分   | 2004-2009年        |
 | 自責分                                                   | [許文雄](../Page/許文雄.md "wikilink")                      | 255分   | 2004-2009年        |
 | 投手犯規                                                  | [吳偲佑](../Page/吳偲佑.md "wikilink")                      | 4次     | 2004-2006年, 2009年 |
@@ -223,7 +223,7 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 </tr>
 <tr class="even">
 <td><p>出賽場次</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾孟承" title="wikilink">曾孟承</a></p></td>
+<td><p><a href="../Page/曾孟承.md" title="wikilink">曾孟承</a></p></td>
 <td><p>70場</p></td>
 <td><p>2010年</p></td>
 </tr>
@@ -235,7 +235,7 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 </tr>
 <tr class="even">
 <td><p>後援場次</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾孟承" title="wikilink">曾孟承</a></p></td>
+<td><p><a href="../Page/曾孟承.md" title="wikilink">曾孟承</a></p></td>
 <td><p>70場</p></td>
 <td><p>2010年</p></td>
 </tr>
@@ -321,7 +321,7 @@ new熊及](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")[Lamigo桃猿期�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/救援失敗" title="wikilink">救援失敗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃偉晟" title="wikilink">黃偉晟</a></p></td>
+<td><p><a href="../Page/黃偉晟.md" title="wikilink">黃偉晟</a></p></td>
 <td><p>7次</p></td>
 <td><p>2015年</p></td>
 </tr>

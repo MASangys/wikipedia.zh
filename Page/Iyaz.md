@@ -2,7 +2,7 @@
 
 ## 出身及职业生涯
 
-Iyaz于1987年生于[英属维京群岛](https://zh.wikipedia.org/wiki/英属维京群岛 "wikilink")[托尔托拉岛](../Page/托尔托拉岛.md "wikilink")，成长于音乐世家。\[1\]Iyaz在新英格兰理工大学攻读[数字记录并开始录制音乐](https://zh.wikipedia.org/wiki/数字记录 "wikilink")，并在[加勒比地区电台中取得成功](https://zh.wikipedia.org/wiki/加勒比 "wikilink")。\[2\]2008年，[尚恩·金斯顿在](../Page/尚恩·金斯顿.md "wikilink")[MySpace上看到了Iyaz的个人页面](../Page/MySpace.md "wikilink")，\[3\]并邀他同Time
+Iyaz于1987年生于[英属维京群岛](https://zh.wikipedia.org/wiki/英属维京群岛 "wikilink")[托尔托拉岛](../Page/托尔托拉岛.md "wikilink")，成长于音乐世家。\[1\]Iyaz在新英格兰理工大学攻读[数字记录并开始录制音乐](https://zh.wikipedia.org/wiki/数字记录 "wikilink")，并在[加勒比地区电台中取得成功](https://zh.wikipedia.org/wiki/加勒比 "wikilink")。\[2\]2008年，[尚恩·金斯顿在](../Page/尚恩·金斯顿.md "wikilink")[MySpace上看到了Iyaz的个人页面](https://zh.wikipedia.org/wiki/MySpace "wikilink")，\[3\]并邀他同Time
 Is Money/贝尔卢加高地唱片公司签约。金斯顿将他引荐给制作人J·R·罗特姆（J. R.
 Rotem）。2009年，Iyaz发布了单曲“Replay”，在[公告榜百强单曲榜最高排名第二](https://zh.wikipedia.org/wiki/公告榜百强单曲榜 "wikilink")，并在多地排行榜登顶。\[4\]他的第二支单曲“Solo”于2010年2月面世，在百强单曲榜上的最佳成绩为第32位。他还参与了[四海一家25週年海地慈善版](../Page/四海一家25週年海地慈善版.md "wikilink")。他的首张专辑《Replay》于2010年发售。
 
@@ -54,7 +54,7 @@ Rotem）。2009年，Iyaz发布了单曲“Replay”，在[公告榜百强单曲
 <th><p>年份</p></th>
 <th><p>曲名</p></th>
 <th><p>最高排行榜排名</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">销售认证</a><br />
+<th><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">销售认证</a><br />
 <small>（累计销量）</small></p></th>
 <th><p>唱片</p></th>
 </tr>

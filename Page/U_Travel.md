@@ -1,6 +1,7 @@
-**U Travel**，**網上[旅遊資訊頻道](../Page/旅遊.md "wikilink")**，網域為*'
-Travel.ULifestyle.com.hk**，為[香港經濟日報集團有限公司](../Page/香港經濟日報集團有限公司.md "wikilink")\[1\]旗下**[U
-Lifestyle](../Page/U_Lifestyle.md "wikilink")*'網站成員之一。
+**U
+Travel**，**網上[旅遊資訊頻道](https://zh.wikipedia.org/wiki/旅遊 "wikilink")**，網域為*'
+Travel.ULifestyle.com.hk**，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[1\]旗下**[U
+Lifestyle](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")*'網站成員之一。
 
 網站內容主要涵蓋世界各地的旅遊資訊和景點資料介紹。而其中遊玩情報版面中，包含更新之旅遊及相關的報導，當中包括玩樂、表演及商戶之著數活動資訊，亦包括酒店情報。網民可於行程版塊搜尋或分享行程計劃，於旅遊快搜版面，搜索各旅行社所提供的自遊行或旅行團產品，及於機票資訊版面，搜索最新機票情報及實時機票航空價格資料。另外U
 Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
@@ -12,13 +13,13 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
 <!-- end list -->
 
   - 於2013年5月建立“旅遊快搜”版面，供網民搜尋不同旅行社的旅遊產品；並於同期推出 “旅遊快搜”
-    [手機應用程式](../Page/手機應用程式.md "wikilink")（App） \[2\]
-    \[3\]，以提升網民用戶使用之簡易程度。
+    [手機應用程式](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")（App）
+    \[2\] \[3\]，以提升網民用戶使用之簡易程度。
 
 <!-- end list -->
 
   - 於2014年3月推出 “U Travel”
-    [手機應用程式](../Page/手機應用程式.md "wikilink")（App）\[4\]
+    [手機應用程式](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")（App）\[4\]
     \[5\]，綜合U Travel 網站內之主要項目及版面，切合現今社會使用手提網絡的生活習慣。
 
 <!-- end list -->
@@ -29,7 +30,7 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
 <!-- end list -->
 
   - 2014年6月1日起成為[U
-    Lifestyle旗下網絡頻道](../Page/U_Lifestyle.md "wikilink")，並同時更新網域為
+    Lifestyle旗下網絡頻道](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")，並同時更新網域為
     Travel.ULifestyle.com.hk。
 
 <!-- end list -->
@@ -39,7 +40,7 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
 ## 版面分類
 
   - 景點
-      - 備有世界各地的景點資料，網民可按地區分類或主題分類，如[觀光](../Page/觀光.md "wikilink")、[玩樂](../Page/玩樂.md "wikilink")、美食、[購物及](../Page/購物.md "wikilink")[住宿等](../Page/住宿.md "wikilink")，搜尋旅遊目的地的景點資訊。
+      - 備有世界各地的景點資料，網民可按地區分類或主題分類，如[觀光](https://zh.wikipedia.org/wiki/觀光 "wikilink")、[玩樂](https://zh.wikipedia.org/wiki/玩樂 "wikilink")、美食、[購物及](../Page/購物.md "wikilink")[住宿等](https://zh.wikipedia.org/wiki/住宿 "wikilink")，搜尋旅遊目的地的景點資訊。
   - 機票資訊
       - 備有最新機票情報及實時機票航班價格搜尋功能。
       - 網民可瀏覽及對比過千間航空公司及在線旅行代理的上百萬航班即時機票資料及價格，省卻到不同航空公司網站搜尋的時間。
@@ -49,8 +50,10 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
       - 網民可搜尋不同旅行社的旅遊產品，包括旅行團、自遊行套票及郵輪假期等，縮短於不同旅行社網站搜尋或親身到旅行社的時間。
   - 旅遊資訊
       - 包括遊玩情報、遊記、周末去邊度、特集、旅遊貼士。
-  - [博客](../Page/博客.md "wikilink")
-      - 聯繫[U Lifestyle](../Page/U_Lifestyle.md "wikilink") 旗下[U
+  - [博客](https://zh.wikipedia.org/wiki/博客 "wikilink")
+      - 聯繫[U
+        Lifestyle](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")
+        旗下[U
         Blog平台內](../Page/U_Blog.md "wikilink")，網民可繼續分享有關旅遊及其他各類生活相關體驗的博文。
   - 相簿
       - 網民可分享旅遊時的照片，加插於個人編排的行程中。
@@ -66,7 +69,8 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
 
 ## 同類網站
 
-  - [Yahoo](../Page/Yahoo.md "wikilink") 旅遊為一旅遊資訊、優惠、用戶分享網站\[9\]
+  - [Yahoo](https://zh.wikipedia.org/wiki/Yahoo "wikilink")
+    旅遊為一旅遊資訊、優惠、用戶分享網站\[9\]
   - Travellife.org 旅遊人生 為一世界旅遊資訊網站及論壇 \[10\]
 
 ## 參考資料
@@ -79,8 +83,8 @@ Travel設有旅遊論壇，用戶可自由討論及分析享相關話題。
   - [U Travel Facebook 專頁](https://www.facebook.com/UTravel.com.hk)
   - [U Travel 微博](http://weibo.com/utravel)
 
-[分类:香港网站](../Page/分类:香港网站.md "wikilink")
-[分类:旅遊](../Page/分类:旅遊.md "wikilink")
+[分类:香港网站](https://zh.wikipedia.org/wiki/分类:香港网站 "wikilink")
+[分类:旅遊](https://zh.wikipedia.org/wiki/分类:旅遊 "wikilink")
 
 1.
 2.

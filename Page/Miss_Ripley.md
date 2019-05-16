@@ -72,12 +72,12 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ### 有鉉相關
 
-|                                                           |        |          |                                  |                            |
-| --------------------------------------------------------- | ------ | -------- | -------------------------------- | -------------------------- |
-| **演員**                                                    | **角色** | **國語配音** | **粵語配音**                         | **介紹**                     |
-| [崔明吉](../Page/崔明吉_\(藝人\).md "wikilink")                   | 李　華    |          | [沈小蘭](../Page/沈小蘭.md "wikilink") | Mondo Group 副會長。有鉉的繼母、美里親母 |
-| [李相燁](../Page/李相燁.md "wikilink")                          | 河哲振    |          | [曹啟謙](../Page/曹啟謙.md "wikilink") | 有鉉的朋友                      |
-| [張　勇](https://zh.wikipedia.org/wiki/張勇_\(演員\) "wikilink") | 宋仁修    |          | [陳永信](../Page/陳永信.md "wikilink") | 有鉉的父親，李華的丈夫                |
+|                                         |        |          |                                  |                            |
+| --------------------------------------- | ------ | -------- | -------------------------------- | -------------------------- |
+| **演員**                                  | **角色** | **國語配音** | **粵語配音**                         | **介紹**                     |
+| [崔明吉](../Page/崔明吉_\(藝人\).md "wikilink") | 李　華    |          | [沈小蘭](../Page/沈小蘭.md "wikilink") | Mondo Group 副會長。有鉉的繼母、美里親母 |
+| [李相燁](../Page/李相燁.md "wikilink")        | 河哲振    |          | [曹啟謙](../Page/曹啟謙.md "wikilink") | 有鉉的朋友                      |
+| [張　勇](../Page/張勇_\(演員\).md "wikilink")  | 宋仁修    |          | [陳永信](../Page/陳永信.md "wikilink") | 有鉉的父親，李華的丈夫                |
 
 ### 明勛相關
 
@@ -90,14 +90,14 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ### 飯店職員
 
-|                                                                                                              |           |          |                                  |
-| ------------------------------------------------------------------------------------------------------------ | --------- | -------- | -------------------------------- |
-| **演員**                                                                                                       | **角色**    | **國語配音** | **粵語配音**                         |
-| [金娜雲](https://zh.wikipedia.org/wiki/金娜雲 "wikilink")                                                          | 姜時英飯店企劃室長 |          | [朱妙蘭](../Page/朱妙蘭.md "wikilink") |
-| [金昌完](https://zh.wikipedia.org/wiki/金昌完 "wikilink")                                                          | 張本部長      |          | [招世亮](../Page/招世亮.md "wikilink") |
-| [白奉基](https://zh.wikipedia.org/wiki/白奉基 "wikilink")                                                          | 金代理       |          | [陳卓智](../Page/陳卓智.md "wikilink") |
-| [李寶藍](https://zh.wikipedia.org/wiki/李寶藍 "wikilink")（[SeeYa](https://zh.wikipedia.org/wiki/SeeYa "wikilink")） | 趙迎春       |          | [余欣沛](../Page/余欣沛.md "wikilink") |
-| [柳諸熙](https://zh.wikipedia.org/wiki/柳諸熙 "wikilink")                                                          | 前台職員      |          | [陳琴雲](../Page/陳琴雲.md "wikilink") |
+|                                                                                           |           |          |                                  |
+| ----------------------------------------------------------------------------------------- | --------- | -------- | -------------------------------- |
+| **演員**                                                                                    | **角色**    | **國語配音** | **粵語配音**                         |
+| [金娜雲](../Page/金娜雲.md "wikilink")                                                          | 姜時英飯店企劃室長 |          | [朱妙蘭](../Page/朱妙蘭.md "wikilink") |
+| [金昌完](../Page/金昌完.md "wikilink")                                                          | 張本部長      |          | [招世亮](../Page/招世亮.md "wikilink") |
+| [白奉基](../Page/白奉基.md "wikilink")                                                          | 金代理       |          | [陳卓智](../Page/陳卓智.md "wikilink") |
+| [李寶藍](https://zh.wikipedia.org/wiki/李寶藍 "wikilink")（[SeeYa](../Page/SeeYa.md "wikilink")） | 趙迎春       |          | [余欣沛](../Page/余欣沛.md "wikilink") |
+| [柳諸熙](https://zh.wikipedia.org/wiki/柳諸熙 "wikilink")                                       | 前台職員      |          | [陳琴雲](../Page/陳琴雲.md "wikilink") |
 
 ### 客串角色
 
@@ -118,7 +118,7 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金正泰" title="wikilink">金正泰</a></p></td>
+<td><p><a href="../Page/金正泰.md" title="wikilink">金正泰</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/古明華.md" title="wikilink">古明華</a></p></td>
@@ -202,12 +202,12 @@ Ripley**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 獲獎
 
-| 大獎                                                                     | 獎項                                                  | 得獎者                              |
-| ---------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------- |
-| 2011 19屆 大韓民國文化演藝大賞                                                    | 電視劇部門演技大賞                                           | [李多海](../Page/李多海.md "wikilink") |
-| 2011 MBC電視劇大賞                                                          | 男新人賞 迷你劇部門                                          | [朴有天](../Page/朴有天.md "wikilink") |
-| PD賞                                                                    | [金正泰](https://zh.wikipedia.org/wiki/金正泰 "wikilink") |                                  |
-| 2012 [第48屆百想藝術大賞](https://zh.wikipedia.org/wiki/第48屆百想藝術大賞 "wikilink") | |人氣賞                                                | [朴有天](../Page/朴有天.md "wikilink") |
+| 大獎                                                                     | 獎項                               | 得獎者                              |
+| ---------------------------------------------------------------------- | -------------------------------- | -------------------------------- |
+| 2011 19屆 大韓民國文化演藝大賞                                                    | 電視劇部門演技大賞                        | [李多海](../Page/李多海.md "wikilink") |
+| 2011 MBC電視劇大賞                                                          | 男新人賞 迷你劇部門                       | [朴有天](../Page/朴有天.md "wikilink") |
+| PD賞                                                                    | [金正泰](../Page/金正泰.md "wikilink") |                                  |
+| 2012 [第48屆百想藝術大賞](https://zh.wikipedia.org/wiki/第48屆百想藝術大賞 "wikilink") | |人氣賞                             | [朴有天](../Page/朴有天.md "wikilink") |
 
 ## 腳駐
 

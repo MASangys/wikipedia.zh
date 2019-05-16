@@ -1,7 +1,7 @@
-**1998年Oricon單曲週榜冠軍作品列表**列出1998年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**1998年Oricon單曲週榜冠軍作品列表**列出1998年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有41首冠軍單曲誕生，其中[KinKi
-Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page/擁抱全部/青之時代.md "wikilink")》取得冠軍的週數最多（4週
+Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")《[擁抱全部/青之時代](https://zh.wikipedia.org/wiki/擁抱全部/青之時代 "wikilink")》取得冠軍的週數最多（4週
 表格中漏了8月17日的一周）。
 
 ## 冠軍單曲列表
@@ -26,32 +26,32 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="even">
 <td><p>1月19日</p></td>
-<td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Every_Little_Thing" title="wikilink">Every Little Thing</a></p></td>
 <td><p><a href="../Page/Face_the_change.md" title="wikilink">Face the change</a></p></td>
 <td><p>17.0</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月26日</p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
-<td><p><a href="../Page/夜空的彼方.md" title="wikilink">夜空的彼方</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夜空的彼方" title="wikilink">夜空的彼方</a></p></td>
 <td><p>45.9</p></td>
 </tr>
 <tr class="even">
 <td><p>2月2日</p></td>
 <td><p><a href="../Page/J-FRIENDS.md" title="wikilink">J-FRIENDS</a></p></td>
-<td><p><a href="../Page/聽見明天/Children&#39;s_Holiday.md" title="wikilink">聽見明天／Children's Holiday</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聽見明天/Children&#39;s_Holiday" title="wikilink">聽見明天／Children's Holiday</a></p></td>
 <td><p>52.4</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月9日</p></td>
-<td><p><a href="../Page/L&#39;Arc~en~Ciel.md" title="wikilink">L'Arc~en~Ciel</a></p></td>
-<td><p><a href="../Page/winter_fall.md" title="wikilink">winter fall</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/L&#39;Arc~en~Ciel" title="wikilink">L'Arc~en~Ciel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/winter_fall" title="wikilink">winter fall</a></p></td>
 <td><p>34.3</p></td>
 </tr>
 <tr class="even">
 <td><p>2月16日</p></td>
 <td><p><a href="../Page/THE_YELLOW_MONKEY.md" title="wikilink">THE YELLOW MONKEY</a></p></td>
-<td><p><a href="../Page/球根.md" title="wikilink">球根</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/球根" title="wikilink">球根</a></p></td>
 <td><p>15.5</p></td>
 </tr>
 <tr class="odd">
@@ -81,7 +81,7 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 <tr class="odd">
 <td><p>3月23日</p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a>／<a href="../Page/V6_(偶像團體).md" title="wikilink">20th Century</a></p></td>
-<td><p><a href="../Page/Be_Yourself!.md" title="wikilink">Be Yourself!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Be_Yourself!" title="wikilink">Be Yourself!</a></p></td>
 <td><p>18.2</p></td>
 </tr>
 <tr class="even">
@@ -92,7 +92,7 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="odd">
 <td><p>4月6日</p></td>
-<td><p><a href="../Page/L&#39;Arc~en~Ciel.md" title="wikilink">L'Arc~en~Ciel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/L&#39;Arc~en~Ciel" title="wikilink">L'Arc~en~Ciel</a></p></td>
 <td><p><a href="../Page/DIVE_TO_BLUE.md" title="wikilink">DIVE TO BLUE</a></p></td>
 <td><p>31.0</p></td>
 </tr>
@@ -110,13 +110,13 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="even">
 <td><p>4月27日</p></td>
-<td><p><a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEA</a></p></td>
-<td><p><a href="../Page/STORM.md" title="wikilink">STORM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LUNA_SEA" title="wikilink">LUNA SEA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/STORM" title="wikilink">STORM</a></p></td>
 <td><p>34.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月4日</p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p><a href="../Page/Jetcoaster_Romance.md" title="wikilink">Jetcoaster Romance</a></p></td>
 <td><p>50.0</p></td>
 </tr>
@@ -134,8 +134,8 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="even">
 <td><p>5月25日</p></td>
-<td><p><a href="../Page/hide.md" title="wikilink">hide with Spread Beaver</a></p></td>
-<td><p><a href="../Page/Pink_Spider.md" title="wikilink">Pink Spider</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/hide" title="wikilink">hide with Spread Beaver</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Spider" title="wikilink">Pink Spider</a></p></td>
 <td><p>51.3</p></td>
 </tr>
 <tr class="odd">
@@ -146,32 +146,32 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p><a href="../Page/ever_free.md" title="wikilink">ever free</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ever_free" title="wikilink">ever free</a></p></td>
 <td><p>51.6</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月15日</p></td>
-<td><p><a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEA</a></p></td>
-<td><p><a href="../Page/SHINE.md" title="wikilink">SHINE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LUNA_SEA" title="wikilink">LUNA SEA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHINE" title="wikilink">SHINE</a></p></td>
 <td><p>24.7</p></td>
 </tr>
 <tr class="even">
 <td><p>6月22日</p></td>
-<td><p><a href="../Page/the_brilliant_green.md" title="wikilink">the brilliant green</a></p></td>
-<td><p><a href="../Page/There_will_be_love_there.md" title="wikilink">There will be love there</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/There_will_be_love_there" title="wikilink">There will be love there</a></p></td>
 <td><p>9.0</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月29日</p></td>
-<td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
-<td><p><a href="../Page/FOREVER_YOURS.md" title="wikilink">FOREVER YOURS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Every_Little_Thing" title="wikilink">Every Little Thing</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FOREVER_YOURS" title="wikilink">FOREVER YOURS</a></p></td>
 <td><p>20.0</p></td>
 </tr>
 <tr class="even">
 <td><p>7月6日</p></td>
 <td><p><a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a></p></td>
-<td><p><a href="../Page/HOT_LIMIT.md" title="wikilink">HOT LIMIT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HOT_LIMIT" title="wikilink">HOT LIMIT</a></p></td>
 <td><p>30.2</p></td>
 </tr>
 <tr class="odd">
@@ -188,20 +188,20 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="odd">
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/L&#39;Arc~en~Ciel.md" title="wikilink">L'Arc~en~Ciel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/L&#39;Arc~en~Ciel" title="wikilink">L'Arc~en~Ciel</a></p></td>
 <td><p><a href="../Page/HONEY_(彩虹樂團單曲).md" title="wikilink">HONEY</a></p></td>
 <td><p>17.5</p></td>
 </tr>
 <tr class="even">
 <td><p>8月3日</p></td>
 <td><p><a href="../Page/口袋餅乾.md" title="wikilink">口袋餅乾</a></p></td>
-<td><p><a href="../Page/POWER_(口袋餅乾單曲).md" title="wikilink">POWER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/POWER_(口袋餅乾單曲)" title="wikilink">POWER</a></p></td>
 <td><p>24.6</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月10日</p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
-<td><p><a href="../Page/擁抱全部/青之時代.md" title="wikilink">擁抱全部／青之時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/擁抱全部/青之時代" title="wikilink">擁抱全部／青之時代</a></p></td>
 <td><p>45.1</p></td>
 </tr>
 <tr class="even">
@@ -218,14 +218,14 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="even">
 <td><p>9月7日</p></td>
-<td><p><a href="../Page/the_brilliant_green.md" title="wikilink">the brilliant green</a></p></td>
-<td><p><a href="../Page/冰冷的花.md" title="wikilink">冰冷的花</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/the_brilliant_green" title="wikilink">the brilliant green</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/冰冷的花" title="wikilink">冰冷的花</a></p></td>
 <td><p>10.8</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月14日</p></td>
-<td><p><a href="../Page/globe.md" title="wikilink">globe</a></p></td>
-<td><p><a href="../Page/wanna_Be_A_Dreammaker.md" title="wikilink">wanna Be A Dreammaker</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wanna_Be_A_Dreammaker" title="wikilink">wanna Be A Dreammaker</a></p></td>
 <td><p>18.7</p></td>
 </tr>
 <tr class="even">
@@ -237,30 +237,30 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 <tr class="odd">
 <td><p>9月28日</p></td>
 <td><p><a href="../Page/ZARD.md" title="wikilink">ZARD</a></p></td>
-<td><p><a href="../Page/轉動命運的輪盤.md" title="wikilink">轉動命運的輪盤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/轉動命運的輪盤" title="wikilink">轉動命運的輪盤</a></p></td>
 <td><p>12.2</p></td>
 </tr>
 <tr class="even">
 <td><p>10月5日</p></td>
-<td><p><a href="../Page/globe.md" title="wikilink">globe</a></p></td>
-<td><p><a href="../Page/Sa_Yo_Na_Ra.md" title="wikilink">Sa Yo Na Ra</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/globe" title="wikilink">globe</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sa_Yo_Na_Ra" title="wikilink">Sa Yo Na Ra</a></p></td>
 <td><p>21.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月12日</p></td>
-<td><p><a href="../Page/weet_heart.md" title="wikilink">weet heart</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/weet_heart" title="wikilink">weet heart</a></p></td>
 <td><p>20.9</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月19日</p></td>
-<td><p><a href="../Page/L&#39;Arc~en~Ciel.md" title="wikilink">L'Arc~en~Ciel</a></p></td>
-<td><p><a href="../Page/snow_drop.md" title="wikilink">snow drop</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/L&#39;Arc~en~Ciel" title="wikilink">L'Arc~en~Ciel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/snow_drop" title="wikilink">snow drop</a></p></td>
 <td><p>55.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月26日</p></td>
-<td><p><a href="../Page/forbbiden_lover.md" title="wikilink">forbbiden lover</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/forbbiden_lover" title="wikilink">forbbiden lover</a></p></td>
 <td><p>50.9</p></td>
 <td></td>
 </tr>
@@ -285,13 +285,13 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 <tr class="odd">
 <td><p>11月23日</p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a></p></td>
-<td><p><a href="../Page/over.md" title="wikilink">over</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/over" title="wikilink">over</a></p></td>
 <td><p>24.3</p></td>
 </tr>
 <tr class="even">
 <td><p>11月30日</p></td>
 <td><p><a href="../Page/竹內瑪莉亞.md" title="wikilink">竹內瑪莉亞</a></p></td>
-<td><p><a href="../Page/偽裝/Winter_Lovers.md" title="wikilink">偽裝／inter Lovers</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偽裝/Winter_Lovers" title="wikilink">偽裝／inter Lovers</a></p></td>
 <td><p>13.0</p></td>
 </tr>
 <tr class="odd">
@@ -308,14 +308,14 @@ Kids的](../Page/KinKi_Kids.md "wikilink")《[擁抱全部/青之時代](../Page
 </tr>
 <tr class="odd">
 <td><p>12月21日</p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
-<td><p><a href="../Page/Happy_Happy_Greeting/Cinderella_Christmas.md" title="wikilink">Happy Happy Greeting／Cinderella Christmas</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Happy_Happy_Greeting/Cinderella_Christmas" title="wikilink">Happy Happy Greeting／Cinderella Christmas</a></p></td>
 <td><p>40.4</p></td>
 </tr>
 <tr class="even">
 <td><p>12月28日</p></td>
 <td><p><a href="../Page/稻葉浩志.md" title="wikilink">稻葉浩志</a></p></td>
-<td><p><a href="../Page/到遠方.md" title="wikilink">到遠方</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/到遠方" title="wikilink">到遠方</a></p></td>
 <td><p>41.8</p></td>
 </tr>
 </tbody>

@@ -1,14 +1,14 @@
-**INFINITE**（）[韓國](../Page/大韓民國.md "wikilink")[男子音樂團體](../Page/男子音樂團體.md "wikilink")，現任成員有[聖圭](../Page/聖圭.md "wikilink")、[東雨](../Page/東雨.md "wikilink")、[優鉉](../Page/優鉉.md "wikilink")、[成烈](../Page/成烈.md "wikilink")、[L和](../Page/金明洙.md "wikilink")[成種](../Page/成種.md "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik
-High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](../Page/Tablo.md "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。
+**INFINITE**（）[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，現任成員有[聖圭](https://zh.wikipedia.org/wiki/聖圭 "wikilink")、[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[優鉉](https://zh.wikipedia.org/wiki/優鉉 "wikilink")、[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L和](../Page/金明洙.md "wikilink")[成種](https://zh.wikipedia.org/wiki/成種 "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik
+High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.org/wiki/Tablo "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。
 2017年8月30日，成員[Hoya不續約退出團體](../Page/Hoya.md "wikilink")，組合改以六人形式繼續活動。
 
 團名的含義是希望團體和成員在音樂或其他方面均具有無界限的可能性。團體標誌為代表無限大的符號「∞」，會隨著每次專輯和活動概念而更換視覺設計。官方歌迷名稱為「INSPIRIT」（）於2011年1月20日由粉絲投票誕生。有激勵、鼓勵的意思，且其中的「IN」代表INFINITE，「SPIRIT」意指活力、心靈
 。應援色為珍珠金屬金色（Pearl Metal Gold），官方應援手燈被成員和粉絲命名為「老婆棒」。INSPIRIT
 Fanclub於2011年8月17日成立。
 
-2012年，成員[聖圭以個人歌手身份出道](../Page/聖圭.md "wikilink")。2013年，成員[東雨與](../Page/東雨.md "wikilink")[Hoya組成分隊](../Page/Hoya.md "wikilink")[INFINITE
-H](../Page/INFINITE_H.md "wikilink")（現已解散）。2014年，成員[優鉉與](../Page/優鉉.md "wikilink")[SHINee的](../Page/SHINee.md "wikilink")[Key組成特別企劃組合](../Page/Key.md "wikilink")[Toheart](../Page/Toheart.md "wikilink")。同年，成員[成烈](../Page/成烈.md "wikilink")、[L與](../Page/金明洙.md "wikilink")[成種組成分隊](../Page/成種.md "wikilink")[INFINITE
-F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身份出道](../Page/優鉉.md "wikilink")。
+2012年，成員[聖圭以個人歌手身份出道](https://zh.wikipedia.org/wiki/聖圭 "wikilink")。2013年，成員[東雨與](https://zh.wikipedia.org/wiki/東雨 "wikilink")[Hoya組成分隊](../Page/Hoya.md "wikilink")[INFINITE
+H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（現已解散）。2014年，成員[優鉉與](https://zh.wikipedia.org/wiki/優鉉 "wikilink")[SHINee的](../Page/SHINee.md "wikilink")[Key組成特別企劃組合](https://zh.wikipedia.org/wiki/Key "wikilink")[Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink")。同年，成員[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L與](../Page/金明洙.md "wikilink")[成種組成分隊](https://zh.wikipedia.org/wiki/成種 "wikilink")[INFINITE
+F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身份出道](https://zh.wikipedia.org/wiki/優鉉 "wikilink")。
 
 ## 歷程
 
@@ -18,7 +18,7 @@ F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身
 
 6月9日發行首張迷你專輯《[First
 Invasion](../Page/First_Invasion.md "wikilink")》，以90年代龐克風格的獨特舞曲〈再次回來吧〉做為主打，正式出道。\[2\]隔日於《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》表演出道舞台，透過歌曲展現獨有的活潑感，受到了許多音樂專家的好評。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道舞台，透過歌曲展現獨有的活潑感，受到了許多音樂專家的好評。
 
 8月4日，延續上張專輯，發行數位單曲〈She's Back〉。
 
@@ -31,7 +31,7 @@ Dawn)》\[3\]，其中高難度的「蠍子舞」引起了話題。\[4\]
 Countdown》中獲得出道後首次音樂節目一位，9月8日再次以《成為我的人》獲得Mnet《M\!
 Countdown》一位。
 
-10月9日，以正規一輯改版專輯之後續曲《PARADISE》於[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》獲得一位（Mutizen
+10月9日，以正規一輯改版專輯之後續曲《PARADISE》於[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得一位（Mutizen
 Song），10月13日於Mnet《M\! Countdown》獲得第二個一位。
 
 11月19日以日文單曲《BTD (Before The Dawn)》於日本正式出道。\[5\]
@@ -54,7 +54,7 @@ Countdown》達成出道後首次三連冠。\[8\]
 10月27日，展開第二次日本巡迴演唱會《INFINITE 2012 ARENA TOUR in JAPAN \[Second
 Invasion\] Evolution PLUS》，首站於橫濱開唱，其後於名古屋、神戶、福岡、東京等地巡迴演唱。
 
-11月19日，隊長[聖圭展開個人活動](../Page/聖圭.md "wikilink")，發行首張個人專輯《Another
+11月19日，隊長[聖圭展開個人活動](https://zh.wikipedia.org/wiki/聖圭 "wikilink")，發行首張個人專輯《Another
 Me》，樂團[Nell成員參與專輯製作](../Page/Nell_\(樂團\).md "wikilink")，主打歌為〈60秒〉，於12月17日發布後續曲〈I
 Need You〉MV。\[9\]
 
@@ -63,14 +63,14 @@ Need You〉MV。\[9\]
 
 ### 2013年：INFINITE H出道、世界巡迴
 
-1月10日，[東雨](../Page/東雨.md "wikilink")、[Hoya以子團](../Page/Hoya.md "wikilink")[INFINITE
-H之名展開活動](../Page/INFINITE_H.md "wikilink")，H代表著[Hip-Hop](../Page/嘻哈.md "wikilink")，主打歌為《Special
+1月10日，[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[Hoya以子團](../Page/Hoya.md "wikilink")[INFINITE
+H之名展開活動](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，H代表著[Hip-Hop](../Page/嘻哈.md "wikilink")，主打歌為《Special
 Girl》，知名嘻哈音樂人參與製作。\[11\]在個人及子團分隊活動之後，INFINITE於3月21日發行第四張迷你專輯《New
 Challenge》\[12\]，主打歌為《Man In
-Love》，在包含恢復排名制的[MBC](../Page/文化廣播_\(韓國\).md "wikilink")《[Show\!
-音樂中心](../Page/Show!_音樂中心.md "wikilink")》在內的五個音樂節目中獲得總共7次一位，連續兩周蟬聯日本公信榜冠軍。\[13\]
+Love》，在包含恢復排名制的[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Show\!
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》在內的五個音樂節目中獲得總共7次一位，連續兩周蟬聯日本公信榜冠軍。\[13\]
 
-7月16日，第二張單曲專輯《DESTINY》發行，成為第一個獲准在美國[環球影城拍攝MV的韓國團體](../Page/荷里活環球影城.md "wikilink")。\[14\]第2張單曲專輯《DESTINY》的主打歌《Destiny》在音樂節目獲得四次一位。
+7月16日，第二張單曲專輯《DESTINY》發行，成為第一個獲准在美國[環球影城拍攝MV的韓國團體](https://zh.wikipedia.org/wiki/荷里活環球影城 "wikilink")。\[14\]第2張單曲專輯《DESTINY》的主打歌《Destiny》在音樂節目獲得四次一位。
 
 8月9日至12月6日，進行歷時四個月的首次世界巡迴演唱會《One Great
 Step》，首站於韓國首爾開唱，其後於香港、中國（上海、北京）、日本（福岡、廣島、神戶、橫濱）、印尼（雅加達）、泰國（曼谷）、新加坡、臺灣（臺北）、馬來西亞（吉隆坡）、美國（洛杉磯、聖荷西、華盛頓、紐約）、英國（倫敦）、法國（巴黎）、阿拉伯聯合大公國（杜拜）等地巡迴演唱。\[15\]
@@ -82,7 +82,7 @@ Infinite](../Page/This_Is_Infinite.md "wikilink")》。\[16\]
 
 2月28日至3月1日，於首爾舉行兩場世界巡回演唱會安可場《One Great Step Returns》。
 
-3月10日，[優鉉與](../Page/南優賢.md "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[Key結成企劃組合](../Page/Key_\(歌手\).md "wikilink")[Toheart並發行首張迷你專輯](../Page/Toheart.md "wikilink")，主打歌為《Delicious》，後續曲為《Tell
+3月10日，[優鉉與](https://zh.wikipedia.org/wiki/南優賢 "wikilink")[SHINee成員](../Page/SHINee.md "wikilink")[Key結成企劃組合](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")[Toheart並發行首張迷你專輯](https://zh.wikipedia.org/wiki/Toheart "wikilink")，主打歌為《Delicious》，後續曲為《Tell
 Me Why》。\[17\]
 
 5月19至21日搭乘直升機依序於日本東京、台灣台北、南韓首爾三地舉行新歌發表《INFINITE 1, 2, 3
@@ -96,7 +96,7 @@ Romeo》於音樂節目中獲得六次一位。
 
 8月7至16日，舉辦共七場的夏日演唱會《That Summer 2》。
 
-11月19日，[成烈](../Page/成烈.md "wikilink")、[L](../Page/金明洙.md "wikilink")、[成種以子團](../Page/成種.md "wikilink")[INFINITE
+11月19日，[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L](../Page/金明洙.md "wikilink")、[成種以子團](https://zh.wikipedia.org/wiki/成種 "wikilink")[INFINITE
 F之名展開活動](../Page/INFINITE_F.md "wikilink")，其中「F」並没有特定的意思，可以代表Face、Flower、Forever、Fighting、Fun等多重含義。於日本發行首張日文單曲《戀愛的預感》正式出道。\[19\]12月1日發行韓文單曲《青》，在韓國正式出道，主打歌為《心跳》。\[20\]
 
 12月24日，發行第五張日文單曲《[Dilemma](../Page/Dilemma_\(INFINITE單曲\).md "wikilink")》。
@@ -104,12 +104,12 @@ F之名展開活動](../Page/INFINITE_F.md "wikilink")，其中「F」並没有�
 ### 2015年：INFINITE H迷你二輯、金聖圭solo迷你二輯、INFINITE迷你五輯、第二次世巡
 
 1月26日，子團[INFINITE
-H再次展開活動](../Page/INFINITE_H.md "wikilink")，發表首張回歸專輯《Fly
+H再次展開活動](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，發表首張回歸專輯《Fly
 Again》，主打歌《Pretty》於音樂節目中獲得五次一位。
 
 2月1日，展開第三次日本巡迴演唱會《2015 INFINITE JAPAN TOUR
 -DILEMMA》，首站於[福岡開唱](../Page/福岡市.md "wikilink")，其後於[東京](../Page/東京市.md "wikilink")、
-[大阪](../Page/大阪.md "wikilink")、[愛知等地巡迴演唱](../Page/愛知縣.md "wikilink")。2月28日至3月1日，於首爾舉行兩場大型粉絲見面會《無限大集會2》，並於尾場公開5月回歸預告“7
+[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、[愛知等地巡迴演唱](../Page/愛知縣.md "wikilink")。2月28日至3月1日，於首爾舉行兩場大型粉絲見面會《無限大集會2》，並於尾場公開5月回歸預告“7
 in 1”。
 
 4月9日發行首張LIVE專輯〈One Great Step Returns LIVE〉，並於當天公開〈Tic
@@ -119,13 +119,13 @@ Toc〉LIVE版MV。\[21\]
 
 5月11日，聖圭發行個人迷你二輯《[27](../Page/27_\(金聖圭迷你專輯\).md "wikilink")》以雙主打歌回歸，分別為《非你不可》及《Kontrol》，其中《非你不可》於音樂節目中獲得兩次一位。
 
-7月11日，在[NaverStarcast以可視電台形式舉辦](../Page/Naver.md "wikilink")《Acoustic
+7月11日，在[NaverStarcast以可視電台形式舉辦](https://zh.wikipedia.org/wiki/Naver "wikilink")《Acoustic
 Preview》，公開專輯內部分歌曲的不插電版本。7月13日，發行第五張迷你專輯《Reality》，並且是韓國國內最初引進了360VR技術後公開的360VR
 MV。\[22\]主打歌《Bad》不但於公開當日橫掃MelOn、Naver
 Music等各實時排行榜\[23\]，並於音樂放送節目中共獲得六次一位；而且每次回歸舞台總橫掃第一位的佳績，奠定了在韓國及海外不可輕視的地位。
 
 8月2日，受邀參加國際影星[Tom
-Cruise擔任主演電影](../Page/Tom_Cruise.md "wikilink")《不可能的任務5》的首映會的表演嘉賓。\[24\]8月6日，獲首爾大韓貿易投資振興公社委任為「2015年韓國品牌﹠韓流商品博覽會」宣傳大使。\[25\]
+Cruise擔任主演電影](https://zh.wikipedia.org/wiki/Tom_Cruise "wikilink")《不可能的任務5》的首映會的表演嘉賓。\[24\]8月6日，獲首爾大韓貿易投資振興公社委任為「2015年韓國品牌﹠韓流商品博覽會」宣傳大使。\[25\]
 
 8月8日-9日，展開第二次世界巡迴演唱會《2015 INFINITE 2nd WORLD TOUR - INFINITE
 EFFECT》首站於首爾開唱；9月5日，進攻臺北小巨蛋。臺灣為巡迴演唱會的海外首場站，其後於中國（南京）、波蘭（華沙）、法國（巴黎）、英國（倫敦）、德國（柏林）、中國（北京）、泰國（曼谷）、菲律賓（馬尼拉）、新加坡（新加坡）、印尼（雅加達）、中國（上海）、加拿大（溫哥華）、美國（洛杉磯）、墨西哥（墨西哥）、智利（聖地牙哥）、美國（紐約）、香港巡迴演唱。9月15日，獲韓國文化體育觀光部-韓國文化產業交流部主辦的「2015大韓民國韓流產業研討會」選為「韓流企劃團」官方宣傳大使。
@@ -139,7 +139,7 @@ SHOWTIME](../Page/SHOWTIME_Infinite.md "wikilink")》 。\[26\]
 
 4月3日，成為韓國使節團並與總統一起參加K－Soul in Mexico公演。
 
-5月9日，主唱[優鉉展開個人活動](../Page/南優賢.md "wikilink")，發行首張個人專輯《Write..》，主打歌為《點頭點頭》。\[28\]
+5月9日，主唱[優鉉展開個人活動](https://zh.wikipedia.org/wiki/南優賢 "wikilink")，發行首張個人專輯《Write..》，主打歌為《點頭點頭》。\[28\]
 
 8月3至7日，於首爾舉辦共五場的夏日演唱會《That Summer 3》。\[29\]其後於釜山、日本（東京、大阪）巡迴演出。
 
@@ -148,7 +148,8 @@ Record前10名。\[30\]
 
 9月19日，發行第六張迷你專輯《INFINITE ONLY》，主打歌為《颱風（The Eye）》，於音樂節目獲得三個一位。
 
-11月7日，受邀參加國際影星[Tom Cruise擔任主演電影](../Page/Tom_Cruise.md "wikilink")《Jack
+11月7日，受邀參加國際影星[Tom
+Cruise擔任主演電影](https://zh.wikipedia.org/wiki/Tom_Cruise "wikilink")《Jack
 Reacher: Never Go Back》的首映會的表演嘉賓。
 
 ### 2017年：Hoya退出、INFINITE六人體制
@@ -177,26 +178,26 @@ Reacher: Never Go Back》的首映會的表演嘉賓。
 
 ### 2019年：東雨solo出道、成烈與東雨入伍
 
-3月4日，[東雨發行個人迷你專輯](../Page/東雨.md "wikilink")《Bye》以主打歌〈News〉solo出道。\[41\]
+3月4日，[東雨發行個人迷你專輯](https://zh.wikipedia.org/wiki/東雨 "wikilink")《Bye》以主打歌〈News〉solo出道。\[41\]
 
-3月26日，[成烈現役入伍](../Page/成烈.md "wikilink")。\[42\]
-4月15日，[東雨現役入伍](../Page/東雨.md "wikilink")。\[43\]
+3月26日，[成烈現役入伍](https://zh.wikipedia.org/wiki/成烈 "wikilink")。\[42\]
+4月15日，[東雨現役入伍](https://zh.wikipedia.org/wiki/東雨 "wikilink")。\[43\]
 
 ## 成員列表
 
-| 成員列表                               |
-| ---------------------------------- |
-| 現任成員                               |
-| 藝名                                 |
-| 漢字\[44\]                           |
-| [聖圭](../Page/金聖圭.md "wikilink")    |
-| [東雨](../Page/張東雨.md "wikilink")    |
-| [優鉉](../Page/南優賢.md "wikilink")    |
-| [成烈](../Page/李成烈.md "wikilink")    |
-| [L](../Page/金明洙.md "wikilink")     |
-| [成種](../Page/李成種.md "wikilink")    |
-| 已離隊成員                              |
-| [Hoya](../Page/Hoya.md "wikilink") |
+| 成員列表                                               |
+| -------------------------------------------------- |
+| 現任成員                                               |
+| 藝名                                                 |
+| 漢字\[44\]                                           |
+| [聖圭](../Page/金聖圭.md "wikilink")                    |
+| [東雨](../Page/張東雨.md "wikilink")                    |
+| [優鉉](https://zh.wikipedia.org/wiki/南優賢 "wikilink") |
+| [成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") |
+| [L](../Page/金明洙.md "wikilink")                     |
+| [成種](../Page/李成種.md "wikilink")                    |
+| 已離隊成員                                              |
+| [Hoya](../Page/Hoya.md "wikilink")                 |
 
 ### 成員變遷時序表
 
@@ -279,7 +280,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Evolution_(INFINITE迷你專輯).md" title="wikilink">Evolution</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Evolution_(INFINITE迷你專輯)" title="wikilink">Evolution</a></strong>》</p>
 <ul>
 <li>發行日期：2011年1月6日</li>
 <li>語言：韓語</li>
@@ -288,7 +289,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/INFINITIZE.md" title="wikilink">INFINITIZE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/INFINITIZE" title="wikilink">INFINITIZE</a></strong>》</p>
 <ul>
 <li>發行日期：2012年5月15日</li>
 <li>語言：韓語</li>
@@ -317,7 +318,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月19日</li>
 <li>語言：韓語</li>
@@ -340,7 +341,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/OVER_THE_TOP.md" title="wikilink">OVER THE TOP</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/OVER_THE_TOP" title="wikilink">OVER THE TOP</a></strong>》</p>
 <ul>
 <li>發行日期：2011年7月21日</li>
 <li>語言：韓語</li>
@@ -349,7 +350,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>1st Repackage</strong></p></td>
-<td><p>《<strong><a href="../Page/PARADISE.md" title="wikilink">PARADISE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/PARADISE" title="wikilink">PARADISE</a></strong>》</p>
 <ul>
 <li>發行日期：2011年9月26日</li>
 <li>語言：韓語</li>
@@ -369,7 +370,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd Repackage</strong></p></td>
-<td><p>《<strong><a href="../Page/BE_BACK.md" title="wikilink">BE BACK</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BE_BACK" title="wikilink">BE BACK</a></strong>》</p>
 <ul>
 <li>韓版發行日期：2014年7月22日</li>
 <li>臺壓發行日期：2014年8月30日</li>
@@ -379,7 +380,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/Top_Seed.md" title="wikilink">Top Seed</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Top_Seed" title="wikilink">Top Seed</a></strong>》</p>
 <ul>
 <li>發行日期：2018年1月8日</li>
 <li>語言：韓語</li>
@@ -402,7 +403,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/INSPIRIT.md" title="wikilink">INSPIRIT</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/INSPIRIT" title="wikilink">INSPIRIT</a></strong>》</p>
 <ul>
 <li>發行日期：2011年3月17日</li>
 </ul></td>
@@ -410,7 +411,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/DESTINY.md" title="wikilink">DESTINY</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/DESTINY" title="wikilink">DESTINY</a></strong>》</p>
 <ul>
 <li>發行日期：2013年7月16日</li>
 </ul></td>
@@ -512,7 +513,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/THE_ORIGIN.md" title="wikilink">THE ORIGIN</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/THE_ORIGIN" title="wikilink">THE ORIGIN</a></strong>》</p>
 <ul>
 <li>發行日期：2014年4月10日</li>
 <li>備註：樂器伴奏專輯，限量30,000張</li>
@@ -535,7 +536,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/One_Great_Step_Returns_Live.md" title="wikilink">One Great Step Returns Live</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/One_Great_Step_Returns_Live" title="wikilink">One Great Step Returns Live</a></strong>》</p>
 <ul>
 <li>發行日期：2015年4月10日</li>
 </ul></td>
@@ -559,7 +560,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/BTD.md" title="wikilink">BTD</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BTD" title="wikilink">BTD</a></strong>》</p>
 <ul>
 <li>發行日期：2011年11月19日</li>
 <li>備註：日本正式出道單曲，共有三種版本</li>
@@ -568,7 +569,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Be_Mine.md" title="wikilink">Be Mine</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Be_Mine" title="wikilink">Be Mine</a></strong>》</p>
 <ul>
 <li>發行日期：2012年4月18日</li>
 <li>備註：共有四種版本</li>
@@ -577,7 +578,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/She&#39;s_Back.md" title="wikilink">She's Back</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/She&#39;s_Back" title="wikilink">She's Back</a></strong>》</p>
 <ul>
 <li>發行日期：2012年8月29日</li>
 <li>Oricon週間統計銷量38,998 排名第3</li>
@@ -646,7 +647,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/Air_(INFINITE專輯).md" title="wikilink">Air</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Air_(INFINITE專輯)" title="wikilink">Air</a></strong>》</p>
 <ul>
 <li>發行日期：2017年5月24日</li>
 <li></li>
@@ -669,7 +670,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/BEST_OF_INFINITE.md" title="wikilink">BEST OF INFINITE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BEST_OF_INFINITE" title="wikilink">BEST OF INFINITE</a></strong>》</p>
 <ul>
 <li>發行日期：2016年8月31日</li>
 </ul></td>
@@ -693,7 +694,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/TO-RA-WA.md" title="wikilink">TO-RA-WA</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/TO-RA-WA" title="wikilink">TO-RA-WA</a></strong>》</p>
 <ul>
 <li>發行日期：2011年1月26日</li>
 </ul></td>
@@ -701,7 +702,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/She&#39;s_Back.md" title="wikilink">She's Back</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/She&#39;s_Back" title="wikilink">She's Back</a></strong>》</p>
 <ul>
 <li>發行日期：2011年2月23日</li>
 </ul></td>
@@ -709,7 +710,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/BTD(Before_the_Dawn).md" title="wikilink">BTD(Before the Dawn)</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BTD(Before_the_Dawn)" title="wikilink">BTD(Before the Dawn)</a></strong>》</p>
 <ul>
 <li>發行日期：2011年3月16日</li>
 </ul></td>
@@ -717,7 +718,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/Nothing&#39;s_Over.md" title="wikilink">Nothing's Over</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Nothing&#39;s_Over" title="wikilink">Nothing's Over</a></strong>》</p>
 <ul>
 <li>發行日期：2011年4月30日</li>
 </ul></td>
@@ -741,7 +742,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/Japan_1st_Live_「LEAPING_OVER」DVD.md" title="wikilink">Japan 1st Live 「LEAPING OVER」DVD</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Japan_1st_Live_「LEAPING_OVER」DVD" title="wikilink">Japan 1st Live 「LEAPING OVER」DVD</a></strong>》</p>
 <ul>
 <li>發行日期：2012年2月29日</li>
 <li>備註：附8張明信片及收入Bonus DVD製作特輯</li>
@@ -750,7 +751,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《'''<a href="../Page/2012_INFINITE“SECOND_INVASION”1st_首爾演唱會DVD.md" title="wikilink">2012 INFINITE“SECOND INVASION”1st 首爾演唱會DVD</a> '''》</p>
+<td><p>《'''<a href="https://zh.wikipedia.org/wiki/2012_INFINITE“SECOND_INVASION”1st_首爾演唱會DVD" title="wikilink">2012 INFINITE“SECOND INVASION”1st 首爾演唱會DVD</a> '''》</p>
 <ul>
 <li>發行日期：2012年8月25日</li>
 <li>備註：3DVD、150分鐘演唱會實況 + 90分鐘演唱會幕後花絮 + 120頁演唱會寫真書</li>
@@ -768,7 +769,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/그_해_여름(那年夏天):2012_INFINITE_Concert.md" title="wikilink">그 해 여름(那年夏天):2012 INFINITE Concert</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/그_해_여름(那年夏天):2012_INFINITE_Concert" title="wikilink">그 해 여름(那年夏天):2012 INFINITE Concert</a></strong>》</p>
 <ul>
 <li>發行日期：2013年4月30日</li>
 <li>備註：附111頁寫真 + 8張簽名照片+ Pouch</li>
@@ -786,7 +787,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p>《'''<a href="../Page/INFINITE_One_Great_Step_Returns_DVD.md" title="wikilink">INFINITE One Great Step Returns DVD</a> '''》</p>
+<td><p>《'''<a href="https://zh.wikipedia.org/wiki/INFINITE_One_Great_Step_Returns_DVD" title="wikilink">INFINITE One Great Step Returns DVD</a> '''》</p>
 <ul>
 <li>發行日期：2015年3月20日</li>
 <li>備註：2DVD + 40p寫真</li>
@@ -845,7 +846,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/INFINITIZE「The_Misson」Showcase_DVD.md" title="wikilink">INFINITIZE「The Misson」Showcase DVD</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/INFINITIZE「The_Misson」Showcase_DVD" title="wikilink">INFINITIZE「The Misson」Showcase DVD</a></strong>》</p>
 <ul>
 <li>發行日期：2012年6月26日</li>
 <li>備註：附8張明信片及海報和Hidden Track</li>
@@ -891,12 +892,12 @@ PlotData =
 
   - **團體單曲**
 
-| 年份    | 日期     | 形式           | 歌曲名稱                       | 備註                                                                                |
-| ----- | ------ | ------------ | -------------------------- | --------------------------------------------------------------------------------- |
-| 2012年 | 10月7日  | 戲劇原聲帶        | She's a Fantasy(幻想的她)      | [MBC](../Page/文化廣播_\(韓國\).md "wikilink")《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》OST |
-| 2013年 | 6月24日  | 廣告曲          | Open Your Pepsi            | 百事可樂廣告曲                                                                           |
-| 2014年 | 10月31日 | 動畫原聲帶        | Monster Time               | [MBC](../Page/文化廣播_\(韓國\).md "wikilink") 卡通《TeleMonster》OST                       |
-| 12月8日 | 電影原聲帶  | Together(一起) | 電影《GROW:INFINITE真實青春生活》OST |                                                                                   |
+| 年份    | 日期     | 形式           | 歌曲名稱                       | 備註                                                                                                   |
+| ----- | ------ | ------------ | -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 2012年 | 10月7日  | 戲劇原聲帶        | She's a Fantasy(幻想的她)      | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》OST |
+| 2013年 | 6月24日  | 廣告曲          | Open Your Pepsi            | 百事可樂廣告曲                                                                                              |
+| 2014年 | 10月31日 | 動畫原聲帶        | Monster Time               | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") 卡通《TeleMonster》OST                       |
+| 12月8日 | 電影原聲帶  | Together(一起) | 電影《GROW:INFINITE真實青春生活》OST |                                                                                                      |
 
   - **合作單曲**
 
@@ -922,7 +923,7 @@ PlotData =
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>L</p></td>
-<td><p>L &amp; <a href="../Page/金藝林.md" title="wikilink">金藝林</a> - '''Love U Like U '''</p>
+<td><p>L &amp; <a href="https://zh.wikipedia.org/wiki/金藝林" title="wikilink">金藝林</a> - '''Love U Like U '''</p>
 <ul>
 <li>發行日期：2012年5月22日</li>
 </ul></td>
@@ -931,7 +932,7 @@ PlotData =
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>優鉉</p></td>
-<td><p>Dramatic Blue（成員：優鉉、<a href="../Page/趙權.md" title="wikilink">趙權</a>、<a href="../Page/鄭丙熙.md" title="wikilink">G.O</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、<a href="../Page/Teen_Top.md" title="wikilink">Niel</a>）- '''令人流淚的美麗 '''</p>
+<td><p>Dramatic Blue（成員：優鉉、<a href="../Page/趙權.md" title="wikilink">趙權</a>、<a href="https://zh.wikipedia.org/wiki/鄭丙熙" title="wikilink">G.O</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、<a href="https://zh.wikipedia.org/wiki/Teen_Top" title="wikilink">Niel</a>）- '''令人流淚的美麗 '''</p>
 <ul>
 <li>2012 SBS歌謠大戰 The Color of K-Pop 限定團體組成</li>
 <li>發行日期：2012年12月26日</li>
@@ -941,7 +942,7 @@ PlotData =
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>Hoya</p></td>
-<td><p>Dynamic Black（成員：Hoya、<a href="../Page/鄭珍雲.md" title="wikilink">鄭珍雲</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>、<a href="../Page/李秉憲.md" title="wikilink">L.Joe</a>）- '''Yesterday '''</p>
+<td><p>Dynamic Black（成員：Hoya、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>、<a href="https://zh.wikipedia.org/wiki/李秉憲" title="wikilink">L.Joe</a>）- '''Yesterday '''</p>
 <ul>
 <li>2012 SBS歌謠大戰 The Color of K-Pop 限定團體組成</li>
 <li>發行日期：2012年12月27日</li>
@@ -982,7 +983,7 @@ PlotData =
 <ul>
 <li>發行日期：2014年7月14日</li>
 </ul></td>
-<td><p><a href="../Page/劉憲華.md" title="wikilink">Henry</a> 迷你二輯《<a href="../Page/Fantastic.md" title="wikilink">Fantastic</a>》 數位單曲</p></td>
+<td><p><a href="../Page/劉憲華.md" title="wikilink">Henry</a> 迷你二輯《<a href="https://zh.wikipedia.org/wiki/Fantastic" title="wikilink">Fantastic</a>》 數位單曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -991,7 +992,7 @@ PlotData =
 <ul>
 <li>發行日期：2014年11月17日</li>
 </ul></td>
-<td><p><a href="../Page/Lovelyz.md" title="wikilink">Lovelyz</a> 首張正規專輯《Girls' Invasion》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> 首張正規專輯《Girls' Invasion》</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
@@ -1046,8 +1047,8 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a></p></td>
-<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a> - '''當愛情來的時候 '''</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a> - '''當愛情來的時候 '''</p>
 <ul>
 <li>發行日期：2014年10月24日</li>
 </ul></td>
@@ -1069,7 +1070,7 @@ PlotData =
 <ul>
 <li>發行日期：2017年6月29日</li>
 </ul></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a>《<a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a>》OST Part. 14</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="https://zh.wikipedia.org/wiki/君主－假面的主人" title="wikilink">君主－假面的主人</a>》OST Part. 14</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
@@ -1475,28 +1476,28 @@ PlotData =
 <td><p>2011年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Evolution_(INFINITE迷你專輯).md" title="wikilink">Evolution</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Evolution_(INFINITE迷你專輯)" title="wikilink">Evolution</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/INSPIRIT.md" title="wikilink">INSPIRIT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INSPIRIT" title="wikilink">INSPIRIT</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Can U Smile</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/OVER_THE_TOP.md" title="wikilink">OVER THE TOP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OVER_THE_TOP" title="wikilink">OVER THE TOP</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PARADISE.md" title="wikilink">PARADISE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PARADISE" title="wikilink">PARADISE</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/白色告白_(Lately).md" title="wikilink">白色告白 (Lately)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白色告白_(Lately)" title="wikilink">白色告白 (Lately)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/INFINITIZE.md" title="wikilink">INFINITIZE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INFINITIZE" title="wikilink">INFINITIZE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>追擊者</p></td>
@@ -1511,7 +1512,7 @@ PlotData =
 <td><p>思念觸及的地方</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/DESTINY.md" title="wikilink">DESTINY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DESTINY" title="wikilink">DESTINY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -1547,7 +1548,7 @@ PlotData =
 <td><p>那年夏天（第二個故事）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>One Day</p></td>
@@ -1556,7 +1557,7 @@ PlotData =
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Top_Seed.md" title="wikilink">TOP SEED</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Top_Seed" title="wikilink">TOP SEED</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

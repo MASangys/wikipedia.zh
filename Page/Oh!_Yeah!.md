@@ -11,15 +11,15 @@ Yeah\!」單曲A面發售，但是唱片公司希望發行的卻是「愛情故�
 Yeah\!／愛情故事突然發生」兩種情況。
 
 第一首曲目《Oh\!
-Yeah\!》是[第一生命的](../Page/第一生命.md "wikilink")[電視廣告歌曲](../Page/電視廣告.md "wikilink")，歌曲的PV在廣告中也被部分使用。第二首曲目《[愛情故事突然發生](../Page/愛情故事突然發生.md "wikilink")》則是[富士電視台的大熱門](../Page/富士電視台.md "wikilink")[月九劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[東京愛情故事](../Page/東京愛情故事.md "wikilink")》的主題曲。
+Yeah\!》是[第一生命的](https://zh.wikipedia.org/wiki/第一生命 "wikilink")[電視廣告歌曲](../Page/電視廣告.md "wikilink")，歌曲的PV在廣告中也被部分使用。第二首曲目《[愛情故事突然發生](../Page/愛情故事突然發生.md "wikilink")》則是[富士電視台的大熱門](../Page/富士電視台.md "wikilink")[月九劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[東京愛情故事](../Page/東京愛情故事.md "wikilink")》的主題曲。
 
 單曲發售首週銷量高達74萬張，是當時最高的初動銷量紀錄。\[1\][連續七個星期佔據Oricon公信榜的冠軍位置](../Page/1991年Oricon單曲週榜冠軍作品列表.md "wikilink")。最終總銷量高達258.8萬張，創下了當時CD單曲最高銷量和J-POP單曲最高銷量兩大紀錄\[2\]\[3\]，不過後來被同年發售的[恰克與飛鳥的](../Page/恰克與飛鳥.md "wikilink")《[SAY
 YES](../Page/SAY_YES_\(恰克與飛鳥單曲\).md "wikilink")》超過。[1991年度日本最暢銷的單曲](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")\[4\]，[日本歷代單曲銷量第8位](../Page/日本最暢銷單曲列表.md "wikilink")\[5\]。
 
 收錄這兩首曲目的同名專輯《[Oh\!
-Yeah\!](../Page/Oh!_Yeah!_\(小田和正專輯\).md "wikilink")》也成為銷量過百萬的暢銷專輯。
+Yeah\!](https://zh.wikipedia.org/wiki/Oh!_Yeah!_\(小田和正專輯\) "wikilink")》也成為銷量過百萬的暢銷專輯。
 
-兩首歌均成為小田的代表作，後來都多次收錄於小田的[精選輯中](../Page/精選輯.md "wikilink")。
+兩首歌均成為小田的代表作，後來都多次收錄於小田的[精選輯中](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 這張單曲的巨大成功，是小田的個人歌唱事業的轉折點。[Off
 Course解散後小田開展了個人活動](../Page/Off_Course.md "wikilink")，但一直成就平平，加上年紀漸長，據小田本人後來回憶，當時他自己也認為再創輝煌的機會很小了。但是推出這張單曲之後，小田再次登上樂壇的頂峰，成為日本國民級的創作歌手。

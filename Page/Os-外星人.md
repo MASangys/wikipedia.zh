@@ -11,7 +11,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 2月，正式展開為期四天的編曲及錄音工作，由「神聖的 」對仍算新人的大龜明日香進行歌唱指導。 \[2\]
 
-本曲發售後三天的4月30日，音樂組織在[NICONICO動畫發佈了](../Page/NICONICO動畫.md "wikilink")親自試唱的惡搞版本「大島外星人」。\[3\]\[4\]
+本曲發售後三天的4月30日，音樂組織在[NICONICO動畫發佈了](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")親自試唱的惡搞版本「大島外星人」。\[3\]\[4\]
 
 同碟另一首歌曲是「從被爐注視世界地圖」。「Os-外星人」錄音後，唱片公司十分滿意歌曲表現，希望再為大龜明日香多出一首歌曲，接受委託並製作了這首歌。\[5\]
 
@@ -45,7 +45,7 @@ Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 1.  [NHK教育頻道](../Page/NHK教育頻道.md "wikilink")2011年5月8日節目 特集
 
 2.
-3.  [[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")「大島宇宙人　　神聖かまってちゃん」](http://www.nicovideo.jp/watch/sm14300623)
+3.  [[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「大島宇宙人　　神聖かまってちゃん」](http://www.nicovideo.jp/watch/sm14300623)
 
 4.  [1](http://natalie.mu/music/news/48774)
 

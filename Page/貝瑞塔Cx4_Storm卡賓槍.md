@@ -1,6 +1,6 @@
 **貝瑞塔Cx4
-Storm**（）是一款由[意大利槍械製造商](../Page/意大利.md "wikilink")[貝瑞塔為運動用途](../Page/貝瑞塔.md "wikilink")、個人防衛和[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](../Page/口徑.md "wikilink")[卡賓槍](../Page/卡賓槍.md "wikilink")，能夠使用來自[貝瑞塔92／96](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列](../Page/貝瑞塔M9手槍.md "wikilink")、[貝瑞塔8000“美洲獅”以及](../Page/貝瑞塔8000手槍.md "wikilink")[貝瑞塔Px4
-Storm這些總共七款或以上不同型號的全尺寸型手槍的](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，發射（其原來[口徑](../Page/口徑.md "wikilink")）、[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
+Storm**（）是一款由[意大利槍械製造商](../Page/意大利.md "wikilink")[貝瑞塔為運動用途](../Page/貝瑞塔.md "wikilink")、個人防衛和[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，能夠使用來自[貝瑞塔92／96](../Page/貝瑞塔92手槍.md "wikilink")／[M9系列](../Page/貝瑞塔M9手槍.md "wikilink")、[貝瑞塔8000“美洲獅”以及](../Page/貝瑞塔8000手槍.md "wikilink")[貝瑞塔Px4
+Storm這些總共七款或以上不同型號的全尺寸型手槍的](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，發射（其原來[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）、[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.45
 ACP這四種](../Page/.45_ACP.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
@@ -11,31 +11,31 @@ Storm的長槍管半自動民用型版本](../Page/貝瑞塔Mx4_Storm衝鋒槍.m
 
 ## 設計細節
 
-[Storm_Complete.jpg](https://zh.wikipedia.org/wiki/File:Storm_Complete.jpg "fig:Storm_Complete.jpg")、[寬型前握把和](../Page/寬型前握把.md "wikilink")的貝瑞塔Cx4
+[Storm_Complete.jpg](https://zh.wikipedia.org/wiki/File:Storm_Complete.jpg "fig:Storm_Complete.jpg")、[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")的貝瑞塔Cx4
 Storm。\]\] 貝瑞塔Cx4
-Storm是一枝由[合金和](../Page/合金.md "wikilink")[聚合物製造的](../Page/聚合物.md "wikilink")和[直接反沖作用式操作的](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](../Page/口徑.md "wikilink")[卡賓槍](../Page/卡賓槍.md "wikilink")。它的開發是為了配合其他的[貝瑞塔半自動手槍一起使用](../Page/貝瑞塔.md "wikilink")。例如，[貝瑞塔92FS](../Page/貝瑞塔92手槍.md "wikilink")
-[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](../Page/口徑.md "wikilink")[彈匣亦可以用在了Cx](../Page/彈匣.md "wikilink")4（[膛室也要是](../Page/膛室.md "wikilink")9毫米口徑）。這有助於不再需要同時攜帶步槍和手槍所專屬使用的彈匣而減少了全副裝備的重量，以及因增加了空間而在武裝時不會增加重量以下增加[子彈攜帶總數量](../Page/子彈.md "wikilink")。
+Storm是一枝由[合金和](../Page/合金.md "wikilink")[聚合物製造的](../Page/聚合物.md "wikilink")和[直接反沖作用式操作的](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")。它的開發是為了配合其他的[貝瑞塔半自動手槍一起使用](../Page/貝瑞塔.md "wikilink")。例如，[貝瑞塔92FS](../Page/貝瑞塔92手槍.md "wikilink")
+[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈匣亦可以用在了Cx](../Page/彈匣.md "wikilink")4（[膛室也要是](../Page/膛室.md "wikilink")9毫米口徑）。這有助於不再需要同時攜帶步槍和手槍所專屬使用的彈匣而減少了全副裝備的重量，以及因增加了空間而在武裝時不會增加重量以下增加[子彈攜帶總數量](../Page/子彈.md "wikilink")。
 
 貝瑞塔Cx4
 Storm與不少[手枪](../Page/手枪.md "wikilink")、[包絡式槍機](../Page/包絡式槍機.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，將彈匣裝入與[槍托相連成一體的](../Page/槍托.md "wikilink")內。貝瑞塔Cx4
 Storm在需要轉換使用[貝瑞塔Px4
 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")、[貝瑞塔92／96和](../Page/貝瑞塔92手槍.md "wikilink")[貝瑞塔8000／8040“美洲獅”等](../Page/貝瑞塔8000手槍.md "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[.40
-S\&W](../Page/.40_S&W.md "wikilink")[口徑貝瑞塔手槍的彈匣時需要兩件改裝套件](../Page/口徑.md "wikilink")（這不包括[貝瑞塔Rx4
+S\&W](../Page/.40_S&W.md "wikilink")[口徑貝瑞塔手槍的彈匣時需要兩件改裝套件](https://zh.wikipedia.org/wiki/口徑 "wikilink")（這不包括[貝瑞塔Rx4
 Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")）。這些改裝套件的例子包括：使用[貝瑞塔Px4
-Storm的彈匣需要安裝C](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")5C620[彈匣插座和C](../Page/直向插槽.md "wikilink")89210[彈匣釋放按鈕](../Page/彈匣.md "wikilink")；使用[貝瑞塔92／96的彈匣需要安裝C](../Page/貝瑞塔92手槍.md "wikilink")5A511彈匣插座和C89109[彈匣釋放按鈕](../Page/彈匣.md "wikilink")；而使用[貝瑞塔8000／8040“美洲獅”的彈匣則需要安裝C](../Page/貝瑞塔8000手槍.md "wikilink")5A670彈匣插座和C89110[彈匣釋放按鈕](../Page/彈匣.md "wikilink")。\[2\]而目前[.45
-ACP](../Page/.45_ACP.md "wikilink")[口徑型號只能夠使用](../Page/口徑.md "wikilink")[貝瑞塔8045“美洲獅”的](../Page/貝瑞塔8000手槍.md "wikilink")8發單排可拆卸式[彈匣](../Page/彈匣.md "wikilink")。
+Storm的彈匣需要安裝C](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")5C620[彈匣插座和C](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")89210[彈匣釋放按鈕](../Page/彈匣.md "wikilink")；使用[貝瑞塔92／96的彈匣需要安裝C](../Page/貝瑞塔92手槍.md "wikilink")5A511彈匣插座和C89109[彈匣釋放按鈕](../Page/彈匣.md "wikilink")；而使用[貝瑞塔8000／8040“美洲獅”的彈匣則需要安裝C](../Page/貝瑞塔8000手槍.md "wikilink")5A670彈匣插座和C89110[彈匣釋放按鈕](../Page/彈匣.md "wikilink")。\[2\]而目前[.45
+ACP](../Page/.45_ACP.md "wikilink")[口徑型號只能夠使用](https://zh.wikipedia.org/wiki/口徑 "wikilink")[貝瑞塔8045“美洲獅”的](../Page/貝瑞塔8000手槍.md "wikilink")8發單排可拆卸式[彈匣](../Page/彈匣.md "wikilink")。
 
 貝瑞塔Cx4
-Storm裝有內置伸縮式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以藉著推動前端按鈕和利用拇指護耳將戰術導軌從[前](../Page/前護木.md "wikilink")[護木內沿著](../Page/護木.md "wikilink")[槍管的底部拉出](../Page/槍管.md "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。使用者也可以從生產商購買[機匣頂部的戰術導軌和利用工具連安裝至貝瑞塔Cx](../Page/機匣.md "wikilink")4
-Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母與利用機匣頂部的預鑽洞安裝](../Page/螺母.md "wikilink")，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭是並不包括在卡賓槍或是頂部導軌套件上](../Page/鑽頭.md "wikilink")，而且必須自行購買。貝瑞塔Cx4
-Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪及](../Page/步枪.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](../Page/瞄準镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](../Page/熱成像儀.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](../Page/雷射瞄準器.md "wikilink")／或[兩腳架這些戰術配件](../Page/兩腳架.md "wikilink")；另外，貝瑞塔Cx4
+Storm裝有內置伸縮式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以藉著推動前端按鈕和利用拇指護耳將戰術導軌從[前](https://zh.wikipedia.org/wiki/前護木 "wikilink")[護木內沿著](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍管的底部拉出](../Page/槍管.md "wikilink")。每種Storm系列槍械還可以選擇利用兩顆安裝[螺絲以裝上前護木兩側的戰術導軌](../Page/螺絲.md "wikilink")，而另一種選擇是從生產商購買連底部的三條戰術導軌架連接座。前護木底部的戰術導軌同樣需要利用兩顆安裝螺絲從戰術導軌的兩端螺絲孔才能裝上前護木兩側之下。使用者也可以從生產商購買[機匣頂部的戰術導軌和利用工具連安裝至貝瑞塔Cx](https://zh.wikipedia.org/wiki/機匣 "wikilink")4
+Storm。其機匣頂部的戰術導軌需要使用三顆螺絲和三顆[螺母與利用機匣頂部的預鑽洞安裝](../Page/螺母.md "wikilink")，使得使用者能夠利用戰術導軌作為光學瞄準鏡基座，並且將另外兩個預鑽洞隱藏在塑料薄膜底下。安裝頂部附加導軌所需要的正確尺寸的[鑽頭是並不包括在卡賓槍或是頂部導軌套件上](https://zh.wikipedia.org/wiki/鑽頭 "wikilink")，而且必須自行購買。貝瑞塔Cx4
+Storm可以利用貝瑞塔配件包裝上最多五條戰術導軌，然後和各種目前流行的[机枪](../Page/机枪.md "wikilink")、[步枪及](../Page/步枪.md "wikilink")[冲锋枪一樣](../Page/冲锋枪.md "wikilink")，使用者可以利用這些戰術導軌以便安裝市面上各種對應導軌的各種[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡](../Page/夜視鏡.md "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[兩腳架這些戰術配件](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")；另外，貝瑞塔Cx4
 Storm亦可以利用槍口以裝上或[消聲器](../Page/抑制器.md "wikilink")。這枝槍械的設計上有著非常高的自行定製適應能力。
 
 貝瑞塔Cx4
-Storm裝上了來自原廠的可調節式[機械瞄具系統](../Page/機械瞄具.md "wikilink")。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](../Page/照門.md "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](../Page/機匣.md "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](../Page/瞄準镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀時折疊下來](../Page/熱成像儀.md "wikilink")。
+Storm裝上了來自原廠的可調節式[機械瞄具系統](../Page/機械瞄具.md "wikilink")。前方的柱狀[準星可以利用隨槍提供的調整工具調節風偏和海拔](../Page/照準器.md "wikilink")。後方「L」字型可翻轉調節的覘孔式[照門是兩孔式設計](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別是有迅速射擊和遠距離高精度射擊這兩種選擇。這兩個機械瞄具可以在利用[機匣頂部加裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[戰術導軌以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀時折疊下來](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。
 
 貝瑞塔Cx4
-Storm的[槍托底板可以被使用者拔出以調節全槍的拉距](../Page/槍托底板.md "wikilink")。調整槍托時需要裝上槍托墊板加厚（加長）。貝瑞塔Cx4
+Storm的[槍托底板可以被使用者拔出以調節全槍的拉距](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")。調整槍托時需要裝上槍托墊板加厚（加長）。貝瑞塔Cx4
 Storm的槍托內亦已裝有一塊槍托墊板，它亦可以為了減薄（縮短）而被拆除。在沒有裝上槍托墊板以下，貝瑞塔Cx4
 Storm的最小拉距拉是337毫米（13.27英吋）。為了增加全槍的拉距，使用者可以自行購買額外的槍托墊板。在總共裝上三塊槍托墊板以下，貝瑞塔Cx4
 Storm的最大拉距是382毫米（15.04英吋）。
@@ -46,7 +46,7 @@ Storm以外，它亦是較為少數能夠將手動保險、彈匣卡筍、和拋
 ## 道森學院槍擊案
 
 由於其外觀具有攻擊性或威脅性，\[3\]一些人會把貝瑞塔Cx4
-Storm誤認為是一枝[突击步枪](../Page/突击步枪.md "wikilink")。之中的[槍手](../Page/槍手.md "wikilink")[金維爾·吉爾](../Page/金維爾·吉爾.md "wikilink")（）使用的主要射擊武器就是一枝貝瑞塔Cx4
+Storm誤認為是一枝[突击步枪](../Page/突击步枪.md "wikilink")。之中的[槍手](https://zh.wikipedia.org/wiki/槍手 "wikilink")[金維爾·吉爾](https://zh.wikipedia.org/wiki/金維爾·吉爾 "wikilink")（）使用的主要射擊武器就是一枝貝瑞塔Cx4
 Storm，而其中一名受害者希馬·卡迪姆（），正當它在[加拿大被提倡禁制的時候](../Page/加拿大.md "wikilink")，把貝瑞塔Cx4
 Storm標籤是一枝“戰爭武器”和“軍用突擊步槍”。\[4\]雖然貝瑞塔Cx4
 Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突擊步槍在刑事法典當中才是“禁制類”。\[5\]
@@ -56,21 +56,21 @@ Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突
   -
   -
   -
-  - ：被[義大利軍隊所採用](../Page/義大利軍隊.md "wikilink")。
+  - ：被[義大利軍隊所採用](https://zh.wikipedia.org/wiki/義大利軍隊 "wikilink")。
 
-  - ：[內戰爆發以前訂購了](../Page/利比亚内战.md "wikilink")1,900枝卡賓槍，2009年訂貨。\[6\]
+  - ：[內戰爆發以前訂購了](https://zh.wikipedia.org/wiki/利比亚内战 "wikilink")1,900枝卡賓槍，2009年訂貨。\[6\]
 
   -
   -
   -
-  - ：被俄罗斯[內務部採用](../Page/內務部.md "wikilink")。
+  - ：被俄罗斯[內務部採用](https://zh.wikipedia.org/wiki/內務部 "wikilink")。
 
-  - ：被[北愛爾蘭的](../Page/北愛爾蘭.md "wikilink")[警察部門採用](../Page/警察.md "wikilink")。
+  - ：被[北愛爾蘭的](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink")[警察部門採用](../Page/警察.md "wikilink")。
 
-  - ：被[纽约州](../Page/纽约州.md "wikilink")[奧爾巴尼縣警察](../Page/奧爾巴尼縣_\(紐約州\).md "wikilink")（[.40
-    S\&W](../Page/.40_S&W.md "wikilink")）\[7\]、[密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易斯](../Page/圣路易斯_\(密苏里州\).md "wikilink")[警察局](../Page/聖路易斯警察局.md "wikilink")\[8\]和[威廉與瑪麗學院校園警察局](../Page/威廉與瑪麗學院.md "wikilink")\[9\]所採用。
+  - ：被[纽约州](../Page/纽约州.md "wikilink")[奧爾巴尼縣警察](https://zh.wikipedia.org/wiki/奧爾巴尼縣_\(紐約州\) "wikilink")（[.40
+    S\&W](../Page/.40_S&W.md "wikilink")）\[7\]、[密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易斯](../Page/圣路易斯_\(密苏里州\).md "wikilink")[警察局](https://zh.wikipedia.org/wiki/聖路易斯警察局 "wikilink")\[8\]和[威廉與瑪麗學院校園警察局](../Page/威廉與瑪麗學院.md "wikilink")\[9\]所採用。
 
-  - ：2012年訂購，被[委內瑞拉玻利瓦爾國民警衛隊](../Page/委內瑞拉玻利瓦爾國民警衛隊.md "wikilink")（；）所採用。\[10\]\[11\]
+  - ：2012年訂購，被[委內瑞拉玻利瓦爾國民警衛隊](https://zh.wikipedia.org/wiki/委內瑞拉玻利瓦爾國民警衛隊 "wikilink")（；）所採用。\[10\]\[11\]
 
 ## 流行文化
 
@@ -88,25 +88,26 @@ Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突
   - 2002年—《[螢火蟲](../Page/螢火蟲_\(電視劇\).md "wikilink")》（Firefly）：被「星際聯盟」士兵用作電擊槍。
   - 2004年—《[-{zh-hans:太空堡垒卡拉狄加;
     zh-hant:星際大爭霸2005;}-](../Page/太空堡垒卡拉狄加.md "wikilink")》（Battlestar
-    Galactica，BSG）：2005年至2006年第2季，標準型被[宇宙戰艦卡拉狄加號和飛馬號上的殖民地海軍陸戰隊員用作制式](../Page/宇宙戰艦.md "wikilink")[長管槍械](../Page/長管槍械.md "wikilink")，以導軌裝上[紅點鏡](../Page/紅點鏡.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")，以及在槍口裝上特殊槍口裝置。
+    Galactica，BSG）：2005年至2006年第2季，標準型被[宇宙戰艦卡拉狄加號和飛馬號上的殖民地海軍陸戰隊員用作制式](../Page/宇宙戰艦.md "wikilink")[長管槍械](https://zh.wikipedia.org/wiki/長管槍械 "wikilink")，以導軌裝上[紅點鏡](../Page/紅點鏡.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，以及在槍口裝上特殊槍口裝置。
   - 2016年—《[對峙](../Page/對峙.md "wikilink")》（Standoff）：2007年6月15日第13集「放逆火」（），被洛杉磯地鐵人質事件的搶劫成員所使用。
   - 2010年—《[-{zh:屍行者; zh-cn:行尸走肉; zh-tw:陰屍路;
     zh-hk:行屍;}-](../Page/屍行者.md "wikilink")》（The Walking
     Dead）：2012年12月2日[第3季第](../Page/行尸走肉_\(第三季\).md "wikilink")8集（播出順序為第27集）「生來受難」（）和2013年2月17日第3季第10集（播出順序為第29集）「回家」（），被伍德貝瑞鎮衛兵所使用。
-  - 2012年—《[超越时间线](../Page/超越时间线.md "wikilink")》（Continuum）：2014年5月4日第3季第7集（播出順序為第30集）「敵我之間」（）和2014年5月25日第3季第9集（播出順序為第32集）「沉默一分鐘」（），被保護者所使用。
+  - 2012年—《[超越时间线](https://zh.wikipedia.org/wiki/超越时间线 "wikilink")》（Continuum）：2014年5月4日第3季第7集（播出順序為第30集）「敵我之間」（）和2014年5月25日第3季第9集（播出順序為第32集）「沉默一分鐘」（），被保護者所使用。
 
 ### 电脑游戏
 
   - 2007年—《[-{zh-cn:幽灵行动：尖峰战士2; zh-tw:火線獵殺：先進戰士2;
     zh-hk:幽靈行動：尖峰戰士2;}-](../Page/火線獵殺：先進戰士2.md "wikilink")》（Ghost
     Recon Advanced Warfighter 2）：[.40
-    S\&W](../Page/.40_S&W.md "wikilink")[口徑](../Page/口徑.md "wikilink")，裝上[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")，可選擇裝上[消聲器或](../Page/抑制器.md "wikilink")[榴彈發射器使用](../Page/榴彈發射器.md "wikilink")，25發彈匣，有海洋迷彩版本，奇怪地發射[4.6×30毫米](../Page/4.6×30mm.md "wikilink")[口徑](../Page/口徑.md "wikilink")[子彈和可](../Page/子彈.md "wikilink")[全自動射擊](../Page/自動火器.md "wikilink")（被列為[冲锋枪](../Page/冲锋枪.md "wikilink")／[個人防衛武器](../Page/個人防衛武器.md "wikilink")），只在[Xbox
+    S\&W](../Page/.40_S&W.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，裝上[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")，可選擇裝上[消聲器或](../Page/抑制器.md "wikilink")[榴彈發射器使用](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，25發彈匣，有海洋迷彩版本，奇怪地發射[4.6×30毫米](../Page/4.6×30mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈和可](../Page/子彈.md "wikilink")[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")（被列為[冲锋枪](../Page/冲锋枪.md "wikilink")／[個人防衛武器](../Page/個人防衛武器.md "wikilink")），只在[Xbox
     360](../Page/Xbox_360.md "wikilink")、[PlayStation
     3版出現](../Page/PlayStation_3.md "wikilink")。
 
 ### 手機遊戲
 
-  - 2018年—《[少女前線](../Page/少女前線.md "wikilink")（活動）：有序紊流》第一章破關贈送 遊戲內屬於衝鋒槍
+  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")（活動）：有序紊流》第一章破關贈送
+    遊戲內屬於衝鋒槍
 
 ## 參見
 
@@ -116,11 +117,11 @@ Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突
   - [貝瑞塔Px4
     Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／、[.40
     S\&W](../Page/.40_S&W.md "wikilink")、[.45
-    ACP](../Page/.45_ACP.md "wikilink")[口徑](../Page/口徑.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
+    ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")
   - [貝瑞塔Rx4
-    Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")，[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](../Page/北大西洋公约组织.md "wikilink")[半自動步槍](../Page/半自動步槍.md "wikilink")
+    Storm](../Page/貝瑞塔Rx4_Storm半自動步槍.md "wikilink")，[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")
   - [貝瑞塔Tx4
-    Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](../Page/半自動霰彈槍.md "wikilink")
+    Storm](../Page/貝瑞塔Tx4_Storm半自動霰彈槍.md "wikilink")，[12鉛徑](../Page/散彈.md "wikilink")[半自動霰彈槍](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")
   - [貝瑞塔Mx4 Storm](../Page/貝瑞塔Mx4_Storm衝鋒槍.md "wikilink")，貝瑞塔Cx4
     Storm的短槍管全自動型版本
   - [卡利科100卡賓槍](../Page/卡利科100卡賓槍.md "wikilink")
@@ -128,8 +129,8 @@ Storm在加拿大刑事法典當中是被歸類為“限制類”，真正的突
   - [Hi-Point半自動卡賓槍](../Page/Hi-Point半自動卡賓槍.md "wikilink")
   - [HK USC半自動卡賓槍](../Page/HK_USC半自動卡賓槍.md "wikilink")
   - [Kel-Tec SUB-2000卡賓槍](../Page/Kel-Tec_SUB-2000卡賓槍.md "wikilink")
-  - [馬林營用卡賓槍](../Page/馬林營用卡賓槍.md "wikilink")
-  - [魯格警用卡賓槍](../Page/魯格警用卡賓槍.md "wikilink")
+  - [馬林營用卡賓槍](https://zh.wikipedia.org/wiki/馬林營用卡賓槍 "wikilink")
+  - [魯格警用卡賓槍](https://zh.wikipedia.org/wiki/魯格警用卡賓槍 "wikilink")
 
 ## 資料來源
 

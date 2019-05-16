@@ -3,7 +3,7 @@
 ## 簡介
 
   - 前作[ultra
-    soul是](../Page/ultra_soul.md "wikilink")「動」的意思，「GOLD」是「靜」的意思
+    soul是](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")「動」的意思，「GOLD」是「靜」的意思
   - 與上一張單曲一樣，連續2週獲得第一
   - 最終銷量約56.2萬張。
 

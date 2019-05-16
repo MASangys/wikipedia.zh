@@ -1,21 +1,21 @@
 **法拉利458
-Italia**是[法拉利生產的車款之一](../Page/法拉利.md "wikilink")。首次在2009年[法蘭克福車展公開](../Page/法蘭克福車展.md "wikilink")，用以取代法拉利F430，2010年開始在全球發售。於2015年由後繼車種
+Italia**是[法拉利生產的車款之一](https://zh.wikipedia.org/wiki/法拉利 "wikilink")。首次在2009年[法蘭克福車展公開](../Page/法蘭克福車展.md "wikilink")，用以取代法拉利F430，2010年開始在全球發售。於2015年由後繼車種
 488GTB 取代
 
 ## 技术特点
 
-此車外型由Pininfarina設計，融合多款法拉利經典跑車的設計因素，車頭下方有可隨速度增加而使風壓加強，因此改變迎風角度的擾流翼減少直線路段高速[風阻](../Page/風阻.md "wikilink")，而在彎道中速度較慢時擾流翼角度保持升起以提升下壓力，車側不設中置引擎跑車的典型進氣口，引擎冷卻源自車底下的氣流。採用4,499cc
-[V8缸內直噴](../Page/V8.md "wikilink")[引擎](../Page/引擎.md "wikilink")，最大馬力以及[扭力分別為](../Page/扭力.md "wikilink")570ps/9000rpm以及540N·m/6000rpm，傳動裝置為德國[格特拉克出品的](../Page/格特拉克傳動系統有限公司.md "wikilink")7前速雙離合器自手排[變速箱](../Page/變速箱.md "wikilink")。
+此車外型由Pininfarina設計，融合多款法拉利經典跑車的設計因素，車頭下方有可隨速度增加而使風壓加強，因此改變迎風角度的擾流翼減少直線路段高速[風阻](https://zh.wikipedia.org/wiki/風阻 "wikilink")，而在彎道中速度較慢時擾流翼角度保持升起以提升下壓力，車側不設中置引擎跑車的典型進氣口，引擎冷卻源自車底下的氣流。採用4,499cc
+[V8缸內直噴](https://zh.wikipedia.org/wiki/V8 "wikilink")[引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")，最大馬力以及[扭力分別為](https://zh.wikipedia.org/wiki/扭力 "wikilink")570ps/9000rpm以及540N·m/6000rpm，傳動裝置為德國[格特拉克出品的](../Page/格特拉克傳動系統有限公司.md "wikilink")7前速雙離合器自手排[變速箱](https://zh.wikipedia.org/wiki/變速箱 "wikilink")。
 
 ### 发动机
 
 458
-Italia的发动机源于法拉利和[玛莎拉蒂共享的](../Page/玛莎拉蒂.md "wikilink")[V8发动机平台](../Page/V8发动机.md "wikilink")，断油转速高达9000rpm，3250rpm时即可输出80%的[扭矩](../Page/扭矩.md "wikilink")，并使用了[直喷技术](../Page/直喷.md "wikilink")。目前该发动机是世界上每公升排氣量功率最高的量产[自然吸气发动机](../Page/自然进气发动机.md "wikilink")（稍高於[本田S2000](../Page/本田S2000.md "wikilink")）。
+Italia的发动机源于法拉利和[玛莎拉蒂共享的](https://zh.wikipedia.org/wiki/玛莎拉蒂 "wikilink")[V8发动机平台](../Page/V8发动机.md "wikilink")，断油转速高达9000rpm，3250rpm时即可输出80%的[扭矩](https://zh.wikipedia.org/wiki/扭矩 "wikilink")，并使用了[直喷技术](https://zh.wikipedia.org/wiki/直喷 "wikilink")。目前该发动机是世界上每公升排氣量功率最高的量产[自然吸气发动机](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")（稍高於[本田S2000](../Page/本田S2000.md "wikilink")）。
 
 ### 传动系统
 
 458
-Italia只有一种7前速[双离合变速器](../Page/双离合变速器.md "wikilink")，且没有提供传统的换挡杆，只能通过按钮切换驾驶模式，通过[换挡拨片手动换挡](../Page/换挡拨片.md "wikilink")。这是法拉利继[法拉利恩佐](../Page/法拉利恩佐.md "wikilink")、加利福尼亚、360挑战者、F430
+Italia只有一种7前速[双离合变速器](https://zh.wikipedia.org/wiki/双离合变速器 "wikilink")，且没有提供传统的换挡杆，只能通过按钮切换驾驶模式，通过[换挡拨片手动换挡](https://zh.wikipedia.org/wiki/换挡拨片 "wikilink")。这是法拉利继[法拉利恩佐](../Page/法拉利恩佐.md "wikilink")、加利福尼亚、360挑战者、F430
 Scuderia之后第四款不提供手動换挡杆的合法上路车型。
 
 ### 操控
@@ -40,7 +40,7 @@ mpg），二氧化碳排放指标307g/km。
 ## 燒車事件
 
 全球有5輛法拉利458
-Italia焚毀，經調查後，認為是因為輪罩及隔熱罩組件使用的[黏合劑於高溫時融化導致起火](../Page/黏合劑.md "wikilink")，2010年9月1日，法拉利宣佈回收1248輛已出廠的458
+Italia焚毀，經調查後，認為是因為輪罩及隔熱罩組件使用的[黏合劑於高溫時融化導致起火](https://zh.wikipedia.org/wiki/黏合劑 "wikilink")，2010年9月1日，法拉利宣佈回收1248輛已出廠的458
 Italia以進行檢驗及改造，至於因起火而報銷的車子，車主則會得到車廠贈予的同型號車型。
 
 ## 图库

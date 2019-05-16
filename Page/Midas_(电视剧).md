@@ -10,7 +10,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 ### 主要角色
 
   - [張赫](https://zh.wikipedia.org/wiki/张赫_\(韩国\) "wikilink") 飾
-    金道現（幼年：[蔡相宇](https://zh.wikipedia.org/wiki/蔡相宇 "wikilink")）<SMALL>（出生日期：1981.4.13\[1\]）</SMALL>
+    金道現（幼年：[蔡相宇](../Page/蔡相宇.md "wikilink")）<SMALL>（出生日期：1981.4.13\[1\]）</SMALL>
 
 <!-- end list -->
 
@@ -68,13 +68,13 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
   - [李相燁](../Page/李相燁.md "wikilink") 飾 韓章碩
   - [余鎬民](../Page/余鎬民.md "wikilink") 飾 玄振宇
-  - [李善鎬](https://zh.wikipedia.org/wiki/李善鎬 "wikilink") 飾 尹基旭
+  - [李善鎬](../Page/李善鎬.md "wikilink") 飾 尹基旭
 
 ### 劉仁惠相關人物
 
 #### 仁真集團
 
-  - [千虎珍](https://zh.wikipedia.org/wiki/千虎珍 "wikilink") 飾 崔國奐
+  - [千虎珍](../Page/千虎珍.md "wikilink") 飾 崔國奐
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [金誠謙](https://zh.wikipedia.org/wiki/金誠謙 "wikilink") 飾 劉畢尚
+  - [金誠謙](../Page/金誠謙.md "wikilink") 飾 劉畢尚
 
 <!-- end list -->
 
@@ -92,7 +92,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [崔政宇](https://zh.wikipedia.org/wiki/崔政宇 "wikilink") 飾
+  - [崔政宇](../Page/崔政宇.md "wikilink") 飾
     劉基峻<small>（出生日期：1962.11.3）</small>
 
 <!-- end list -->
@@ -102,7 +102,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [尹帝文](https://zh.wikipedia.org/wiki/尹帝文 "wikilink") 飾
+  - [尹帝文](../Page/尹帝文.md "wikilink") 飾
     劉成峻<small>（出生日期：1965.5.21）</small>
 
 <!-- end list -->
@@ -131,8 +131,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [韓宥伊](https://zh.wikipedia.org/wiki/韓宥伊 "wikilink") 飾
-    劉美蘭<small>（出生日期：1987）</small>
+  - [韓宥伊](../Page/韓宥伊.md "wikilink") 飾 劉美蘭<small>（出生日期：1987）</small>
 
 <!-- end list -->
 
@@ -150,7 +149,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [金瑞奇](https://zh.wikipedia.org/wiki/瑞奇·李耐利 "wikilink") 飾 Stephen Lee
+  - [金瑞奇](../Page/瑞奇·李耐利.md "wikilink") 飾 Stephen Lee
   - [徐朱愛](https://zh.wikipedia.org/wiki/徐朱愛 "wikilink") 飾 秀智
   - [河泰京](https://zh.wikipedia.org/wiki/河泰京 "wikilink") 飾 姜鍾秀
   - [李海榮](https://zh.wikipedia.org/wiki/李海榮 "wikilink") 飾 車永民
@@ -179,8 +178,8 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 ### 其他人物
 
-  - [金炳基](https://zh.wikipedia.org/wiki/金炳基 "wikilink") 飾 具成哲
-  - [金秉世](https://zh.wikipedia.org/wiki/金秉世 "wikilink") 飾 James
+  - [金炳基](../Page/金炳基.md "wikilink") 飾 具成哲
+  - [金秉世](../Page/金秉世.md "wikilink") 飾 James
 
 <!-- end list -->
 
@@ -189,7 +188,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [金應洙](https://zh.wikipedia.org/wiki/金應洙 "wikilink") 飾 新興銀行行長
+  - [金應洙](../Page/金應洙.md "wikilink") 飾 新興銀行行長
   - [金基賢](https://zh.wikipedia.org/wiki/金基賢_\(演員\) "wikilink") 飾 張明具
 
 <!-- end list -->
@@ -208,7 +207,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [楊鎮宇](https://zh.wikipedia.org/wiki/楊鎮宇 "wikilink") 飾 李政道
+  - [楊鎮宇](../Page/楊鎮宇.md "wikilink") 飾 李政道
 
 <!-- end list -->
 
@@ -217,7 +216,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [全國煥](https://zh.wikipedia.org/wiki/全國煥 "wikilink") 飾 韓正秀
+  - [全國煥](../Page/全國煥.md "wikilink") 飾 韓正秀
 
 <!-- end list -->
 
@@ -235,7 +234,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [朴赫權](https://zh.wikipedia.org/wiki/朴赫權 "wikilink") 飾 張根豪
+  - [朴赫權](../Page/朴赫權.md "wikilink") 飾 張根豪
 
 <!-- end list -->
 
@@ -262,7 +261,7 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [姜京憲](https://zh.wikipedia.org/wiki/姜京憲 "wikilink") 飾 裴靜子
+  - [姜京憲](../Page/姜京憲.md "wikilink") 飾 裴靜子
 
 <!-- end list -->
 
@@ -271,8 +270,8 @@ In](../Page/All_In_真愛賭注.md "wikilink")》、《[朱蒙](../Page/朱蒙_\
 
 <!-- end list -->
 
-  - [申承煥](https://zh.wikipedia.org/wiki/申承煥 "wikilink") 飾 在福
-  - [李一花](https://zh.wikipedia.org/wiki/李一花 "wikilink") 飾 姜仁淑
+  - [申承煥](../Page/申承煥.md "wikilink") 飾 在福
+  - [李一花](../Page/李一花.md "wikilink") 飾 姜仁淑
 
 ## 音樂
 

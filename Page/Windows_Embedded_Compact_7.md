@@ -11,7 +11,7 @@ Compact 7又與Windows Phone
 
 Windows Embedded Compact 7有以下的功能\[1\]：
 
-  - [雙核CPU支援](https://zh.wikipedia.org/wiki/:en:Multi-core_processor "wikilink")（[SMP](https://zh.wikipedia.org/wiki/Symmetric_multiprocessing "wikilink")，[x86](../Page/x86.md "wikilink"),
+  - [雙核CPU支援](https://zh.wikipedia.org/wiki/:en:Multi-core_processor "wikilink")（[SMP](https://zh.wikipedia.org/wiki/Symmetric_multiprocessing "wikilink")，[x86](https://zh.wikipedia.org/wiki/x86 "wikilink"),
     [SH4](https://zh.wikipedia.org/wiki/:en:SuperH "wikilink")（automotive
     only），[ARMv7](https://zh.wikipedia.org/wiki/:en:ARM_architecture "wikilink")）
   - [Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink") 2.1

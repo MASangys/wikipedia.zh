@@ -30,7 +30,8 @@ MyJobsDB 是 JobsDB.com 為所有申請成為 JobsDB.com 會員的求職者所�
 
 ### iPhone 應用程式
 
-2011年1月，JobsDB.com 於各支援地區推出了 [iPhone](../Page/iPhone.md "wikilink")
+2011年1月，JobsDB.com 於各支援地區推出了
+[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 [應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。\[6\]
 
 ## 僱主相關服務

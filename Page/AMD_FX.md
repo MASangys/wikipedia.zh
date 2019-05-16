@@ -1,6 +1,6 @@
 **AMD
-FX**是[AMD开发的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86桌上型](../Page/x86.md "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，是[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構的正式产物之一](../Page/微架構.md "wikilink")，於2011年9月19日正式上市\[1\]\[2\]。2017年由[AMD
-Zen微架構的](https://zh.wikipedia.org/wiki/AMD_Zen "wikilink")[AMD
+FX**是[AMD开发的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86桌上型](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，是[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構的正式产物之一](../Page/微架構.md "wikilink")，於2011年9月19日正式上市\[1\]\[2\]。2017年由[AMD
+Zen微架構的](../Page/AMD_Zen.md "wikilink")[AMD
 Ryzen系列取代](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
 
 ## 特点
@@ -13,7 +13,7 @@ Ryzen系列取代](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
 AMD FX系列采用AMD
 Bulldozer微架構。Bulldozer[微架構採用基於集群多線程的模块化设计](../Page/微架構.md "wikilink")，一個模組包含兩個整數叢集（在作業系統中顯示為兩個邏輯核心）、一個雙執行緒的浮點運算單元（FlexFPU）、64KB一級資料快取以及每個整數叢集單獨配備的16KB一級指令快取其，其每个整數叢集擁有4條管線，在这4條管線中，2个[算術邏輯單元](https://zh.wikipedia.org/wiki/算術邏輯單元 "wikilink")（[ALU](https://zh.wikipedia.org/wiki/ALU "wikilink")）与2个[位址生成單元](https://zh.wikipedia.org/wiki/位址生成單元 "wikilink")（[AGU](https://zh.wikipedia.org/wiki/AGU "wikilink")）为一组。由此每个模块可在每个時鐘週期内处理4条[指令](https://zh.wikipedia.org/wiki/指令 "wikilink")（2次運算操作和2次存取操作）。而x86指令集会被分成8个uOPs，这就刚好与管線内的ALU和AGU两两成对。AMD官方指出这会使性能相对于[K10构架提升](https://zh.wikipedia.org/wiki/K10 "wikilink")50%以上。
 
-Bulldozer微架構支援超多指令集，除了基本的[x86-64](../Page/x86-64.md "wikilink")（[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")）和[x87外](https://zh.wikipedia.org/wiki/x87 "wikilink")，包括[MMX](../Page/MMX.md "wikilink")(+)、[SSE](../Page/SSE.md "wikilink")(1,
+Bulldozer微架構支援超多指令集，除了基本的[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")（[AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink")）和[x87外](https://zh.wikipedia.org/wiki/x87 "wikilink")，包括[MMX](../Page/MMX.md "wikilink")(+)、[SSE](../Page/SSE.md "wikilink")(1,
 2, 3, 3S, 4.1, 4.2, 4a)、[NX
 bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")、[AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")、[IOMMU](https://zh.wikipedia.org/wiki/IOMMU "wikilink")、[AES](../Page/AES指令集.md "wikilink")、[AVX](https://zh.wikipedia.org/wiki/AVX "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")、XOP、CVT16/F16C、CLMUL、BMI1、ABM、TBM等指令集，AVX可使[浮点运算能力提高近](https://zh.wikipedia.org/wiki/浮点运算 "wikilink")60%，FMA4、XOP、CVT16/F16C是由AMD
 SSE5指令集拆分而来。不過，以往AMD支援的[3DNow\!指令集則被丟棄了](../Page/3DNow!.md "wikilink")。改進版的Piledriver微架構新增[FMA3](https://zh.wikipedia.org/wiki/FMA "wikilink")、AVX1.1等新指令集的支援。\[3\]
@@ -1006,7 +1006,7 @@ FD9590FHHKWOX<sup>1</sup></p></td>
 
 15. [AMD 打桩机 Piledriver
     内核有望突破 4GHz](http://cn.engadget.com/tag/resonant+clock+mesh/)
-    - [engadget](../Page/engadget.md "wikilink")
+    - [engadget](https://zh.wikipedia.org/wiki/engadget "wikilink")
 
 16. [AMD高频旗舰！打桩机FX-8350首发测试](http://www.pcpop.com/doc/0/847/847573_all.shtml)
     - pcpop.com

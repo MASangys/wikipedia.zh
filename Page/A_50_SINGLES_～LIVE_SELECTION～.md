@@ -6,13 +6,14 @@
   - 濱崎步為了50單曲紀念，從2000年的《ayumi hamasaki concert tour 2000 A
     第1幕》到2011年的《ayumi hamasaki Rock'n'Roll Circus Tour
     FINAL 〜7days Special〜》為止的LIVE表演，特別收錄單曲50首。
-  - 只有第12張單曲《[kanariya](../Page/kanariya.md "wikilink")》沒有LIVE片段，但有收錄音樂錄影帶。原預定3月30日發行，3月11日發生日本東北地方太平洋近海地震之後延期。
+  - 只有第12張單曲《[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")》沒有LIVE片段，但有收錄音樂錄影帶。原預定3月30日發行，3月11日發生日本東北地方太平洋近海地震之後延期。
 
 ## 收錄內容
 
 ### DISC1・2
 
-1.  [poker face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")
+1.  [poker
+    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
       - 收錄自A museum 〜30th single collection live〜
 2.  [YOU](../Page/YOU_\(濱崎步單曲\).md "wikilink")
       - 收錄自A museum 〜30th single collection live〜
@@ -32,13 +33,13 @@
       - 收錄自ayumi hamasaki ARENA TOUR 2005 A 〜MY STORY〜
 10. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
       - 收錄自ayumi hamasaki concert tour 2000 A 第1幕
-11. [appears](../Page/appears.md "wikilink")
+11. [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
       - 收錄自ayumi hamasaki ASIA TOUR 2007 A 〜Tour of Secret〜
-12. [kanariya](../Page/kanariya.md "wikilink")
+12. [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
       - 收錄自video clip
 13. [Fly high](../Page/Fly_high.md "wikilink")
       - 收錄自ayumi hamasaki countdown live 2000-2001 A
-14. [vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink")
+14. [vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
       - 收錄自ayumi hamasaki DOME TOUR 2001 A
 15. [Far away](../Page/Far_away.md "wikilink")
       - 收錄自ayumi hamasaki concert tour 2000 A 第1幕
@@ -50,7 +51,7 @@
       - 收錄自ayumi hamasaki STADIUM TOUR 2002 A
 19. [M](../Page/M_\(濱崎步單曲\).md "wikilink")
       - 收錄自A museum 〜30th single collection live〜
-20. [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+20. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
       - 收錄自ayumi hamasaki DOME TOUR 2001 A
 21. [NEVER EVER](../Page/NEVER_EVER.md "wikilink")
       - 收錄自ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A
@@ -70,7 +71,7 @@
       - 收錄自ayumi hamasaki ASIA TOUR 2008 〜10th Anniversary〜
 29. [ourselves](../Page/&_\(濱崎步單曲\).md "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2003-2004 A
-30. [forgiveness](../Page/forgiveness.md "wikilink")
+30. [forgiveness](https://zh.wikipedia.org/wiki/forgiveness "wikilink")
       - 收錄自A museum 〜30th single collection live〜
 31. [No way to say](../Page/No_way_to_say.md "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2003-2004 A
@@ -83,7 +84,7 @@
 35. [STEP
     you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
       - 收錄自ayumi hamasaki ARENA TOUR 2006 A 〜(miss)understood〜
-36. [fairyland](../Page/fairyland.md "wikilink")
+36. [fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2005-2006 A
 37. [HEAVEN](https://zh.wikipedia.org/wiki/HEAVEN "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2005-2006 A
@@ -96,7 +97,8 @@
       - 收錄自ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A
 41. [glitter](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary
-42. [talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink")
+42. [talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
       - 收錄自ayumi hamasaki ASIA TOUR 2008 〜10th Anniversary〜
 43. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
       - 收錄自ayumi hamasaki ASIA TOUR 2008 〜10th Anniversary〜
@@ -112,7 +114,7 @@
       - 收錄自ayumi hamasaki COUNTDOWN LIVE 2009-2010 A 〜Future Classics〜
 48. [MOON](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")
       - 收錄自ayumi hamasaki Rock'n'Roll Circus Tour FINAL 〜7days Special〜
-49. [crossroad](../Page/crossroad.md "wikilink")
+49. [crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
       - 收錄自A-nation|a-nation'10
 50. [Virgin Road](../Page/L_\(濱崎步單曲\).md "wikilink")
       - 收錄自ayumi hamasaki Rock'n'Roll Circus Tour FINAL 〜7days Special〜

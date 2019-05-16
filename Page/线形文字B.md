@@ -1,6 +1,6 @@
-**线形文字B**是[希腊](../Page/希腊.md "wikilink")[迈锡尼文明时期的一种](../Page/迈锡尼文明.md "wikilink")[音节文字](../Page/音节文字.md "wikilink")。线形文字B出现于[青铜时代晚期](../Page/青铜时代.md "wikilink")，早于[希腊字母](../Page/希腊字母.md "wikilink")（约公元前15世纪）数个世纪，随着迈锡尼文明的衰落而消逝。写有线形文字B的泥板大部分发现于[克诺索斯](../Page/克诺索斯.md "wikilink")、[科多尼亚](../Page/科多尼亚.md "wikilink")、[皮洛斯](../Page/皮洛斯.md "wikilink")、[底比斯](../Page/底比斯.md "wikilink")、[迈锡尼等地](../Page/迈锡尼.md "wikilink")。后继的希腊黑暗时代，目前尚未发现线形文字B的实物。
+**线形文字B**是[希腊](../Page/希腊.md "wikilink")[迈锡尼文明时期的一种](../Page/迈锡尼文明.md "wikilink")[音节文字](https://zh.wikipedia.org/wiki/音节文字 "wikilink")。线形文字B出现于[青铜时代晚期](../Page/青铜时代.md "wikilink")，早于[希腊字母](../Page/希腊字母.md "wikilink")（约公元前15世纪）数个世纪，随着迈锡尼文明的衰落而消逝。写有线形文字B的泥板大部分发现于[克诺索斯](../Page/克诺索斯.md "wikilink")、[科多尼亚](https://zh.wikipedia.org/wiki/科多尼亚 "wikilink")、[皮洛斯](../Page/皮洛斯.md "wikilink")、[底比斯](https://zh.wikipedia.org/wiki/底比斯 "wikilink")、[迈锡尼等地](../Page/迈锡尼.md "wikilink")。后继的希腊黑暗时代，目前尚未发现线形文字B的实物。
 
-1952年，[迈克尔·文特里斯成功释读线形文字B](../Page/迈克尔·文特里斯.md "wikilink")。线形文字B主要在[克里特岛和希腊本土南部地区使用](../Page/克里特岛.md "wikilink")，时间大约为西元前1500年-西元前1200年。
+1952年，[迈克尔·文特里斯成功释读线形文字B](../Page/迈克尔·文特里斯.md "wikilink")。线形文字B主要在[克里特岛和希腊本土南部地区使用](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")，时间大约为西元前1500年-西元前1200年。
 线形文字B似乎与更早的[线形文字A有某种联系](../Page/线形文字A.md "wikilink")。
 
 ## 文字
@@ -684,7 +684,7 @@ gladius</p></td>
 <td><p>U+100CC</p></td>
 <td><p>240 Sc</p></td>
 <td><p><strong>BIG</strong><br />
-<a href="../Page/biga_(chariot).md" title="wikilink">biga</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/biga_(chariot)" title="wikilink">biga</a></p></td>
 <td><p>轮式车</p></td>
 </tr>
 <tr class="even">

@@ -5,7 +5,7 @@ Anki对[SuperMemo的SM](https://zh.wikipedia.org/wiki/SuperMemo "wikilink")2算�
 
 记忆卡采用[HTML编写](../Page/HTML.md "wikilink")，支持插入图片、音频以及[LaTeX公式](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。
 
-Anki支持多平台客户端，包括PC、[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、[iOS](../Page/iOS.md "wikilink")、[塞班等](https://zh.wikipedia.org/wiki/塞班 "wikilink")，也可以直接登录Ankiweb进行学习。除此之外，注册一个免费账户，便可实现平台之间的同步。
+Anki支持多平台客户端，包括PC、[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[塞班等](https://zh.wikipedia.org/wiki/塞班 "wikilink")，也可以直接登录Ankiweb进行学习。除此之外，注册一个免费账户，便可实现平台之间的同步。
 
 Anki英文文档:<https://apps.ankiweb.net/docs/manual.html>
 

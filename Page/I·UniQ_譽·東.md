@@ -4,8 +4,8 @@
 
 ## 品牌簡介
 
-[i·UniQ是](../Page/i·UniQ.md "wikilink")[新鴻基地產住宅](../Page/新鴻基地產.md "wikilink")[品牌](../Page/品牌.md "wikilink")[i·UniQ第二個地產發展項目](../Page/i·UniQ.md "wikilink")，前一個名為[i·UniQ
-譽都在](../Page/i·UniQ_譽都.md "wikilink")[筲箕灣](../Page/筲箕灣.md "wikilink")，而**i·UniQ
+[i·UniQ是](https://zh.wikipedia.org/wiki/i·UniQ "wikilink")[新鴻基地產住宅](../Page/新鴻基地產.md "wikilink")[品牌](../Page/品牌.md "wikilink")[i·UniQ第二個地產發展項目](https://zh.wikipedia.org/wiki/i·UniQ "wikilink")，前一個名為[i·UniQ
+譽都在](https://zh.wikipedia.org/wiki/i·UniQ_譽都 "wikilink")[筲箕灣](../Page/筲箕灣.md "wikilink")，而**i·UniQ
 譽·東** 是第二個項目，意指I am Unique，Grand代表堂皇絢麗; 譽·東則代表譽滿港島東、譽滿生活\[2\]。
 
 ## 住宅

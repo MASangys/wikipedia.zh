@@ -630,7 +630,7 @@ Channel 12「宇宙人」</p></td>
 有重播</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
 <td><p>2011年4月19日 - 7月4日</p></td>
 <td><p>星期二 1時30分 更新</p></td>
 <td><p>網路收看</p></td>

@@ -1,4 +1,4 @@
-《**幻想三國誌II**》是由[宇峻奧汀所開發製作的](../Page/宇峻奧汀.md "wikilink")[電子角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，2005年7月在台湾發行，同年10月由[寰宇之星在中國大陆代理發行簡體中文版](../Page/寰宇之星.md "wikilink")。日文版由原代理《[幻想三國誌](https://zh.wikipedia.org/wiki/幻想三國誌 "wikilink")》的[日本Falcom繼續取得代理權](../Page/日本Falcom.md "wikilink")，於2006年9月正式上市。
+《**幻想三國誌II**》是由[宇峻奧汀所開發製作的](../Page/宇峻奧汀.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，2005年7月在台湾發行，同年10月由[寰宇之星在中國大陆代理發行簡體中文版](../Page/寰宇之星.md "wikilink")。日文版由原代理《[幻想三國誌](https://zh.wikipedia.org/wiki/幻想三國誌 "wikilink")》的[日本Falcom繼續取得代理權](../Page/日本Falcom.md "wikilink")，於2006年9月正式上市。
 
 本作主打的歷史事件為《[官渡之戰](https://zh.wikipedia.org/wiki/官渡之戰 "wikilink")》。
 

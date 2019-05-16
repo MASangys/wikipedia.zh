@@ -1,5 +1,5 @@
 **Girl's
-Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](https://zh.wikipedia.org/wiki/惠利 "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every
+Day**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2010年7月9日推出的女子流行音樂團體，現任成員為隊長[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")、[珉雅及](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")[惠利](../Page/惠利.md "wikilink")。最初粉絲名稱為「Diamonds」，其後改為「Daisy」或「Dai5y」。團呼為「Every
 day, Girl's
 Day」。2013年以《期待》的招牌吊帶舞打響名氣，引發模仿熱潮，2014年初再以《Something》拿下不少音樂獎項。經紀公司[Wellmade
 Yedang在](https://zh.wikipedia.org/wiki/Wellmade_STAR_M "wikilink")2013年12月2日公佈併購DreamT娛樂所有股份，Girl's
@@ -30,7 +30,7 @@ Yours》回歸。
 
   - 7月9日，Girl's Day正式出道，公開出道曲MV《Tilt My Head（갸우뚱）》。
   - 9月12日，公司公告其中兩位成員黄智善和李智仁正式的退團，主要的原因是智仁要專注於演戲，而智善要繼續攻讀音樂並找尋屬於她的音樂。
-  - 9月16日，公司公開兩位新成員[Yura和](https://zh.wikipedia.org/wiki/Yura "wikilink")[惠利](https://zh.wikipedia.org/wiki/惠利 "wikilink")。
+  - 9月16日，公司公開兩位新成員[Yura和](https://zh.wikipedia.org/wiki/Yura "wikilink")[惠利](../Page/惠利.md "wikilink")。
   - 10月17日，Yura在參加MBC節目《花束》時，公開了為腿部投保多達5億韓元一事。
   - 10月24、25日，分別各公開一支第二張單曲《Girl's Day Party \#2》主打歌《잘해줘봐야（Nothing Lasts
     Forever）》MV預告。10月27日，公開完整版MV。
@@ -96,7 +96,7 @@ Yours》回歸。
   - 7月，Girl's Day發行迷你專輯《Everday IV - Summer
     Party》，主打歌《Darling》以可愛風格一改半年前《Something》給人留下性感的印象，在音樂節目拿下3個一位。《Darling》在2015[Gaon
     Chart年榜全國排行](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")：數字\#25，下載\#28。\[7\]
-  - 8月，惠利出演MBC綜藝節目《[真正的男人](https://zh.wikipedia.org/wiki/真正的男人 "wikilink")》女兵特輯，在節目中以可愛的撒嬌風靡全國，人氣激增，接下了許多廣告代言，因此也被稱作「國民撒嬌女」。\[8\]
+  - 8月，惠利出演MBC綜藝節目《[真正的男人](../Page/真正的男人.md "wikilink")》女兵特輯，在節目中以可愛的撒嬌風靡全國，人氣激增，接下了許多廣告代言，因此也被稱作「國民撒嬌女」。\[8\]
   - 8月，珉雅出演SBS綜藝節目《Eco
     Village－開心的家》，並考取了挖掘機證，成為韓國第一位能操作挖掘機的女偶像，同時也有“最會用錘子的女偶像”稱號。\[9\]
   - 12月，Girl's
@@ -119,7 +119,7 @@ Yours》回歸。
     Entertainment提前延長合約兩年，合約期限至2019年。\[14\]
   - 9月，Girl's Day正式在日本出道，推出首張日文單曲《Darling》。\[15\]
   - 11月，Girl's Day在臺北舉行粉絲見面會，這是Girl's Day除日本之外的海外首場粉絲見面會。\[16\]
-  - 11月，惠利宣佈擔任tvN《[請回答1988](https://zh.wikipedia.org/wiki/請回答1988 "wikilink")》女主角，該劇於11月6日首播。消息公開受到許多觀眾的質疑。但該劇播出後，觀眾對惠利的演技由批評轉向讚揚。該劇也以超高收視打破了一系列記錄：韓國收費台首集最高收視（6.1%），最高平均收視（12.4%），單集最高收視（18.8%），網路單集最高收視（91.8%）。惠利也因該劇人氣再度飆升，接下許多廣告代言，繼[秀智後被封為百億少女](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")。\[17\]\[18\]
+  - 11月，惠利宣佈擔任tvN《[請回答1988](../Page/請回答1988.md "wikilink")》女主角，該劇於11月6日首播。消息公開受到許多觀眾的質疑。但該劇播出後，觀眾對惠利的演技由批評轉向讚揚。該劇也以超高收視打破了一系列記錄：韓國收費台首集最高收視（6.1%），最高平均收視（12.4%），單集最高收視（18.8%），網路單集最高收視（91.8%）。惠利也因該劇人氣再度飆升，接下許多廣告代言，繼[秀智後被封為百億少女](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")。\[17\]\[18\]
 
 ### 2016
 
@@ -180,7 +180,7 @@ Yours》回歸。
 | **[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")**               |
 | **[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")** |
 | **[珉雅](https://zh.wikipedia.org/wiki/方珉雅 "wikilink")**    |
-| **[惠利](https://zh.wikipedia.org/wiki/惠利 "wikilink")**     |
+| **[惠利](../Page/惠利.md "wikilink")**                        |
 | 已退出成員                                                     |
 | 藝名                                                        |
 | 藝名                                                        |
@@ -603,7 +603,7 @@ PlotData =
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>11月8日</p></td>
-<td><p>SBS《<a href="https://zh.wikipedia.org/wiki/熱愛_(2013年電視劇)" title="wikilink">熱愛</a>》OST</p></td>
+<td><p>SBS《<a href="../Page/熱愛_(2013年電視劇).md" title="wikilink">熱愛</a>》OST</p></td>
 <td><p>I Want To Turn Back Time</p></td>
 <td><p>✓</p></td>
 <td></td>
@@ -611,7 +611,7 @@ PlotData =
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>6月9日</p></td>
-<td><p>SBS<a href="../Page/SBS月火連續劇.md" title="wikilink">月火劇</a>《<a href="https://zh.wikipedia.org/wiki/異鄉人醫生" title="wikilink">異鄉人醫生</a>》OST</p></td>
+<td><p>SBS<a href="../Page/SBS月火連續劇.md" title="wikilink">月火劇</a>《<a href="../Page/異鄉人醫生.md" title="wikilink">異鄉人醫生</a>》OST</p></td>
 <td><p>You &amp; I</p></td>
 <td></td>
 <td></td>
@@ -651,14 +651,14 @@ PlotData =
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>1月30日</p></td>
-<td><p>SBS《<a href="https://zh.wikipedia.org/wiki/誕生吧！家族" title="wikilink">誕生吧！家族</a>》OST</p></td>
+<td><p>SBS《<a href="../Page/誕生吧！家族.md" title="wikilink">誕生吧！家族</a>》OST</p></td>
 <td></td>
 <td><p>✓</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
-<td><p>SBS《<a href="https://zh.wikipedia.org/wiki/假面_(電視劇)" title="wikilink">假面</a>》OST</p></td>
+<td><p>SBS《<a href="../Page/假面_(電視劇).md" title="wikilink">假面</a>》OST</p></td>
 <td><p>痛</p></td>
 <td><p>✓</p></td>
 <td></td>
@@ -674,7 +674,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>12月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVN" title="wikilink">tvN</a>《<a href="https://zh.wikipedia.org/wiki/請回答1988" title="wikilink">請回答1988</a>》OST</p></td>
+<td><p><a href="../Page/TVN.md" title="wikilink">tvN</a>《<a href="../Page/請回答1988.md" title="wikilink">請回答1988</a>》OST</p></td>
 <td><p>每天和你</p></td>
 <td><p>✓</p></td>
 <td></td>
@@ -852,7 +852,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBN" title="wikilink">MBN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/吸血鬼偶像" title="wikilink">吸血鬼偶像</a>》</p></td>
+<td><p>《<a href="../Page/吸血鬼偶像.md" title="wikilink">吸血鬼偶像</a>》</p></td>
 <td><p>珉雅</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -888,7 +888,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>KBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Family_(韓國電視劇)" title="wikilink">Family</a>》</p></td>
+<td><p>《<a href="../Page/Family_(韓國電視劇).md" title="wikilink">Family</a>》</p></td>
 <td><p>方珉雅</p></td>
 <td></td>
 <td></td>
@@ -924,7 +924,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/主君的太陽" title="wikilink">主君的太陽</a>》</p></td>
+<td><p>《<a href="../Page/主君的太陽.md" title="wikilink">主君的太陽</a>》</p></td>
 <td><p>方珉雅</p></td>
 <td><p>金佳映</p></td>
 <td><p>客串</p></td>
@@ -960,7 +960,7 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/善巖女高偵探團" title="wikilink">善巖女高偵探團</a>》</p></td>
+<td><p>《<a href="../Page/善巖女高偵探團.md" title="wikilink">善巖女高偵探團</a>》</p></td>
 <td><p>李惠利</p></td>
 <td><p>李藝希</p></td>
 <td><p>配角</p></td>
@@ -970,7 +970,7 @@ PlotData =
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/誕生吧！家族" title="wikilink">誕生吧！家族</a>》</p></td>
+<td><p>《<a href="../Page/誕生吧！家族.md" title="wikilink">誕生吧！家族</a>》</p></td>
 <td><p>朴素珍</p></td>
 <td><p>崔東珠</p></td>
 <td></td>
@@ -987,7 +987,7 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/請回答1988" title="wikilink">請回答1988</a>》</p></td>
+<td><p>《<a href="../Page/請回答1988.md" title="wikilink">請回答1988</a>》</p></td>
 <td><p>成德善</p></td>
 <td><p>主角</p></td>
 <td><p>全集</p></td>
@@ -1116,79 +1116,79 @@ PlotData =
 | 2013年10月6日              | 客串                                                           |                                                                           |              |           |
 | 2013年11月14日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")        | [Happy Together](../Page/歡樂在一起.md "wikilink")                             | 珉雅           | 嘉賓        |
 
-|                                                     |                                                                   |                                                                                               |            |                 |
-| --------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------- | --------------- |
-| 日期                                                  | 電視台                                                               | 節目名稱                                                                                          | 成員         | 角色              |
-|                                                     |                                                                   |                                                                                               |            |                 |
-| 2014年1月27日                                          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 逃離危機No.1                                                                                      | 全體         | 嘉賓              |
-| 2014年2月3日                                           | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")                               | 全體         |                 |
-| 2014年2月7日                                           | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       |            |                 |
-| 2014年2月12日                                          | MBC every1                                                        | 一週偶像                                                                                          |            |                 |
-| 2014年2月15日                                          | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")       | [Human Documentary](https://zh.wikipedia.org/wiki/Human_Documentary "wikilink")               |            |                 |
-| 2014年2月27日                                          | MBC Music                                                         | [Picnic Live](https://zh.wikipedia.org/wiki/Picnic_Live "wikilink")                           |            |                 |
-| 2014年3月6日                                           |                                                                   |                                                                                               |            |                 |
-| 2014年3月29日                                          | SBS                                                               | Star King                                                                                     | 惠利、Yura    |                 |
-| 2014年4月26日                                          | KBS                                                               | 不朽的名曲2                                                                                        | 珉雅、素珍      |                 |
-| 2014年6月1日                                           | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink")                                              | 珉雅         |                 |
-| 2014年6月7日 ─ 2015年3月7日                               | MBC                                                               | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                          | Yura       | 固定成員(與洪宗玄為悠閒夫婦) |
-| 2014年8月9日 、8月30日 、9月6日                              | 全體                                                                | 嘉賓                                                                                            |            |                 |
-| 2014年7月17日                                          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | Wishing Star(向星葵)                                                                             | 珉雅、素珍、Yura | 嘉賓              |
-| 2014年7月21日                                          | SBS POWERFM                                                       | [金昌烈的Old School](https://zh.wikipedia.org/wiki/金昌烈的Old_School "wikilink")                     | 全體         |                 |
-| 2014年7月26日                                          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 改變世界的Quiz                                                                                     | 素珍、Yura    |                 |
-| 2014年8月1日                                           | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       | 全體         |                 |
-| 2014年8月4日                                           | [大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")   | 珉雅、素珍                                                                                         |            |                 |
-| 2014年8月9日 ─ 12月16日                                  | MBC Music                                                         | Idol School                                                                                   | 素珍         | 主持              |
-| 2014年8月16日                                          | SBS                                                               | Star King                                                                                     | 珉雅、素珍、Yura | 嘉賓              |
-| 2014年8月21日                                          | KBS2                                                              | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | Yura       |                 |
-| 2014年8月24日 ─ 9月21日                                  | MBC                                                               | [真正的男人](https://zh.wikipedia.org/wiki/真正的男人 "wikilink")                                       | 惠利         | 女兵特輯成員          |
-| 2014年8月31日 ─ 2015年1月28日                             | SBS                                                               | 生態村－快樂的家！                                                                                     | 珉雅         | 固定成員            |
-| 2014年12月10日、12月17日                                  | 全體                                                                | 嘉賓                                                                                            |            |                 |
-| 2014年10月11日                                         | MBC                                                               | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                          | 惠利         | 客席主持            |
-| [tvN](https://zh.wikipedia.org/wiki/TVN "wikilink") | SNL Korea S5                                                      | 全體                                                                                            | 嘉賓         |                 |
-| 2014年10月21日                                         | KBS2                                                              | [1 VS 100](https://zh.wikipedia.org/wiki/1_VS_100 "wikilink")                                 | 惠利         |                 |
-| 2014年11月2日                                          | MBC                                                               | Section TV 演藝通訊                                                                               | Yura、惠利    |                 |
-| 2014年11月15日                                         | JTBC                                                              | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")                                         | 素珍、Yura    |                 |
-| 2014年11月28日                                         | JTBC                                                              | 魔女狩獵                                                                                          | 惠利         | 客串              |
-| 2014年12月10日                                         | MBC                                                               | 黃金漁場-Radio Star                                                                               | 嘉賓         |                 |
-| 2014年12月13日                                         | KBS2                                                              | 演藝家中介                                                                                         | 全體         |                 |
-| 2015年2月8日                                           | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink")-隱藏的寶石                                        | 素珍         |                 |
-| 2015年2月18日                                          | MBC                                                               | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | Yura       | 藝人評審團           |
-| 2015年3月15日 ─ 4月12日                                  | SBS                                                               | [K-pop Star 4](https://zh.wikipedia.org/wiki/K-pop_Star_4 "wikilink")                         | 助理主持       |                 |
-| 2015年3月16日                                          | KBS                                                               | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")                               | 珉雅         | 嘉賓              |
-| 2015年3月20日                                          | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       |            |                 |
-| 2015年3月28日                                          | KBS2                                                              | 演藝家中介                                                                                         |            |                 |
-| 2015年3月31日                                          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 4種秀                                                                                           | Yura、珉雅    |                 |
-| 2015年4月11日                                          | KBS2                                                              | 不朽的名曲2                                                                                        | 珉雅         |                 |
-| 2015年4月14日 ─ 5月5日                                   | JTBC                                                              | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")                                | Yura       |                 |
-| 2015年4月24日                                          | MBC                                                               | 我獨自生活                                                                                         |            |                 |
-| 2015年5月2日                                           | MBC                                                               | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")                            | 惠利         | 特別MC            |
-| 2015年5月17日                                          | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 素珍                                                                                            | 參賽者        |                 |
-| 2015年6月1日                                           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 逃離危機No.1                                                                                      | 珉雅、素珍、Yura | 嘉賓              |
-| 2015年6月7日                                           | SBS                                                               | 尋笑人                                                                                           | 珉雅         |                 |
-| 2015年6月14日                                          | KBS2                                                              | [兩天一夜](../Page/兩天一夜.md "wikilink")                                                            |            |                 |
-| 2015年7月6日                                           | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")   | 素珍、Yura                                                                                       |            |                 |
-| 2015年7月8日                                           | SBS                                                               | 深夜的TV演藝                                                                                       | 全體         |                 |
-| 2015年7月10日 ─ 10月16日                                 | [安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") & MBC Music | [星動亞洲](https://zh.wikipedia.org/wiki/星動亞洲 "wikilink")                                         | Yura       | 主持              |
-| 2015年7月13日                                          | SBS POWERFM                                                       | [金昌烈的Old School](https://zh.wikipedia.org/wiki/金昌烈的Old_School "wikilink")                     | 素珍、Yura    | 嘉賓              |
-| 2015年7月14日                                          | Arirang TV                                                        | After School Club                                                                             | 全體         | 嘉賓              |
-| KBS2                                                | Stardust S2                                                       |                                                                                               |            |                 |
-| 2015年7月29日                                          | KBS                                                               | 維他命                                                                                           | 素珍         |                 |
-| 2015年7月31日                                          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 改變世界的Quiz                                                                                     | 素珍、Yura    |                 |
-| KBS World                                           | 韓來之星                                                              | 全體                                                                                            |            |                 |
-| 2015年8月3日 ─ 9月27日                                   | MBC music                                                         | 美好的一天                                                                                         | 主持         |                 |
-| 2015年8月5日                                           | MBC every1                                                        | [一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")                                         | 珉雅、素珍、Yura | 嘉賓              |
-| 2015年8月7日                                           | MBC                                                               | 我獨自生活                                                                                         | 素珍         |                 |
-| 2015年8月19日、8月26日                                    | JTBC                                                              | [TwoYoo Project-Sugar Man](https://zh.wikipedia.org/wiki/TwoYoo_Project-Sugar_Man "wikilink") |            |                 |
-| 2015年9月6日                                           | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink") - 青春特輯                                       | Yura       |                 |
-| 2015年9月26日、9月27日                                    | JTBC                                                              | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")-中秋特輯                                    | 素珍、Yura    |                 |
-| 2015年10月2日 ─ 10月16日                                 | SBS                                                               | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                                       | 珉雅         | 尼加拉瓜篇           |
-| 2015年10月10日                                         | SBS                                                               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                                              | Yura       | 嘉賓              |
-| 2015年10月11日                                         | KBS & 深圳卫视                                                        | 中韓夢之隊                                                                                         |            |                 |
-| 2015年11月11日                                         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 黃金漁場 - Radio Star                                                                             | 珉雅         |                 |
-| 2015年11月26日                                         | KBS2                                                              | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | 素珍         |                 |
-| 2015年11月29日、12月6日                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | 珉雅         | 參賽者             |
-| 2015年12月1日                                          | SBS                                                               | New Star King                                                                                 | Yura       | 嘉賓              |
-| 2015年12月19日                                         | 中華大飯店                                                             |                                                                                               |            |                 |
+|                                  |                                                                   |                                                                                               |            |                 |
+| -------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------- | --------------- |
+| 日期                               | 電視台                                                               | 節目名稱                                                                                          | 成員         | 角色              |
+|                                  |                                                                   |                                                                                               |            |                 |
+| 2014年1月27日                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 逃離危機No.1                                                                                      | 全體         | 嘉賓              |
+| 2014年2月3日                        | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")                               | 全體         |                 |
+| 2014年2月7日                        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       |            |                 |
+| 2014年2月12日                       | MBC every1                                                        | 一週偶像                                                                                          |            |                 |
+| 2014年2月15日                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")       | [Human Documentary](https://zh.wikipedia.org/wiki/Human_Documentary "wikilink")               |            |                 |
+| 2014年2月27日                       | MBC Music                                                         | [Picnic Live](https://zh.wikipedia.org/wiki/Picnic_Live "wikilink")                           |            |                 |
+| 2014年3月6日                        |                                                                   |                                                                                               |            |                 |
+| 2014年3月29日                       | SBS                                                               | Star King                                                                                     | 惠利、Yura    |                 |
+| 2014年4月26日                       | KBS                                                               | 不朽的名曲2                                                                                        | 珉雅、素珍      |                 |
+| 2014年6月1日                        | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink")                                              | 珉雅         |                 |
+| 2014年6月7日 ─ 2015年3月7日            | MBC                                                               | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                          | Yura       | 固定成員(與洪宗玄為悠閒夫婦) |
+| 2014年8月9日 、8月30日 、9月6日           | 全體                                                                | 嘉賓                                                                                            |            |                 |
+| 2014年7月17日                       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | Wishing Star(向星葵)                                                                             | 珉雅、素珍、Yura | 嘉賓              |
+| 2014年7月21日                       | SBS POWERFM                                                       | [金昌烈的Old School](https://zh.wikipedia.org/wiki/金昌烈的Old_School "wikilink")                     | 全體         |                 |
+| 2014年7月26日                       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 改變世界的Quiz                                                                                     | 素珍、Yura    |                 |
+| 2014年8月1日                        | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       | 全體         |                 |
+| 2014年8月4日                        | [大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")   | 珉雅、素珍                                                                                         |            |                 |
+| 2014年8月9日 ─ 12月16日               | MBC Music                                                         | Idol School                                                                                   | 素珍         | 主持              |
+| 2014年8月16日                       | SBS                                                               | Star King                                                                                     | 珉雅、素珍、Yura | 嘉賓              |
+| 2014年8月21日                       | KBS2                                                              | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | Yura       |                 |
+| 2014年8月24日 ─ 9月21日               | MBC                                                               | [真正的男人](../Page/真正的男人.md "wikilink")                                                          | 惠利         | 女兵特輯成員          |
+| 2014年8月31日 ─ 2015年1月28日          | SBS                                                               | 生態村－快樂的家！                                                                                     | 珉雅         | 固定成員            |
+| 2014年12月10日、12月17日               | 全體                                                                | 嘉賓                                                                                            |            |                 |
+| 2014年10月11日                      | MBC                                                               | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                          | 惠利         | 客席主持            |
+| [tvN](../Page/TVN.md "wikilink") | SNL Korea S5                                                      | 全體                                                                                            | 嘉賓         |                 |
+| 2014年10月21日                      | KBS2                                                              | [1 VS 100](https://zh.wikipedia.org/wiki/1_VS_100 "wikilink")                                 | 惠利         |                 |
+| 2014年11月2日                       | MBC                                                               | Section TV 演藝通訊                                                                               | Yura、惠利    |                 |
+| 2014年11月15日                      | JTBC                                                              | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                                            | 素珍、Yura    |                 |
+| 2014年11月28日                      | JTBC                                                              | 魔女狩獵                                                                                          | 惠利         | 客串              |
+| 2014年12月10日                      | MBC                                                               | 黃金漁場-Radio Star                                                                               | 嘉賓         |                 |
+| 2014年12月13日                      | KBS2                                                              | 演藝家中介                                                                                         | 全體         |                 |
+| 2015年2月8日                        | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink")-隱藏的寶石                                        | 素珍         |                 |
+| 2015年2月18日                       | MBC                                                               | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | Yura       | 藝人評審團           |
+| 2015年3月15日 ─ 4月12日               | SBS                                                               | [K-pop Star 4](https://zh.wikipedia.org/wiki/K-pop_Star_4 "wikilink")                         | 助理主持       |                 |
+| 2015年3月16日                       | KBS                                                               | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                  | 珉雅         | 嘉賓              |
+| 2015年3月20日                       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | 柳熙烈的寫生簿                                                                                       |            |                 |
+| 2015年3月28日                       | KBS2                                                              | 演藝家中介                                                                                         |            |                 |
+| 2015年3月31日                       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 4種秀                                                                                           | Yura、珉雅    |                 |
+| 2015年4月11日                       | KBS2                                                              | 不朽的名曲2                                                                                        | 珉雅         |                 |
+| 2015年4月14日 ─ 5月5日                | JTBC                                                              | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")                                | Yura       |                 |
+| 2015年4月24日                       | MBC                                                               | 我獨自生活                                                                                         |            |                 |
+| 2015年5月2日                        | MBC                                                               | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")                            | 惠利         | 特別MC            |
+| 2015年5月17日                       | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 素珍                                                                                            | 參賽者        |                 |
+| 2015年6月1日                        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 逃離危機No.1                                                                                      | 珉雅、素珍、Yura | 嘉賓              |
+| 2015年6月7日                        | SBS                                                               | 尋笑人                                                                                           | 珉雅         |                 |
+| 2015年6月14日                       | KBS2                                                              | [兩天一夜](../Page/兩天一夜.md "wikilink")                                                            |            |                 |
+| 2015年7月6日                        | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                      | 素珍、Yura                                                                                       |            |                 |
+| 2015年7月8日                        | SBS                                                               | 深夜的TV演藝                                                                                       | 全體         |                 |
+| 2015年7月10日 ─ 10月16日              | [安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") & MBC Music | [星動亞洲](../Page/星動亞洲.md "wikilink")                                                            | Yura       | 主持              |
+| 2015年7月13日                       | SBS POWERFM                                                       | [金昌烈的Old School](https://zh.wikipedia.org/wiki/金昌烈的Old_School "wikilink")                     | 素珍、Yura    | 嘉賓              |
+| 2015年7月14日                       | Arirang TV                                                        | After School Club                                                                             | 全體         | 嘉賓              |
+| KBS2                             | Stardust S2                                                       |                                                                                               |            |                 |
+| 2015年7月29日                       | KBS                                                               | 維他命                                                                                           | 素珍         |                 |
+| 2015年7月31日                       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 改變世界的Quiz                                                                                     | 素珍、Yura    |                 |
+| KBS World                        | 韓來之星                                                              | 全體                                                                                            |            |                 |
+| 2015年8月3日 ─ 9月27日                | MBC music                                                         | 美好的一天                                                                                         | 主持         |                 |
+| 2015年8月5日                        | MBC every1                                                        | [一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")                                         | 珉雅、素珍、Yura | 嘉賓              |
+| 2015年8月7日                        | MBC                                                               | 我獨自生活                                                                                         | 素珍         |                 |
+| 2015年8月19日、8月26日                 | JTBC                                                              | [TwoYoo Project-Sugar Man](https://zh.wikipedia.org/wiki/TwoYoo_Project-Sugar_Man "wikilink") |            |                 |
+| 2015年9月6日                        | SBS                                                               | [Running Man](../Page/Running_Man.md "wikilink") - 青春特輯                                       | Yura       |                 |
+| 2015年9月26日、9月27日                 | JTBC                                                              | [隱藏歌手](../Page/隱藏歌手.md "wikilink")-中秋特輯                                                       | 素珍、Yura    |                 |
+| 2015年10月2日 ─ 10月16日              | SBS                                                               | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")                                       | 珉雅         | 尼加拉瓜篇           |
+| 2015年10月10日                      | SBS                                                               | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                                              | Yura       | 嘉賓              |
+| 2015年10月11日                      | KBS & 深圳卫视                                                        | 中韓夢之隊                                                                                         |            |                 |
+| 2015年11月11日                      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 黃金漁場 - Radio Star                                                                             | 珉雅         |                 |
+| 2015年11月26日                      | KBS2                                                              | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | 素珍         |                 |
+| 2015年11月29日、12月6日                | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | 珉雅         | 參賽者             |
+| 2015年12月1日                       | SBS                                                               | New Star King                                                                                 | Yura       | 嘉賓              |
+| 2015年12月19日                      | 中華大飯店                                                             |                                                                                               |            |                 |
 
 |                     |                                                         |                                                                                               |         |      |
 | ------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------- | ---- |
@@ -1252,7 +1252,7 @@ PlotData =
 | 2017年3月25日          | SBS                                                 | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                                                                                      | 全體      |       |
 | 2017年3月25日          | JTBC                                                | 白鍾元的三大天王                                                                                                                  |         |       |
 | 2017年3月25日          | KBS2                                                | 演藝家中介                                                                                                                     |         |       |
-| 2017年3月27日          | KBS2                                                | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")                                                           |         |       |
+| 2017年3月27日          | KBS2                                                | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                                              |         |       |
 | 2017年3月29日          | tvN                                                 | [現場脫口秀Taxi](https://zh.wikipedia.org/wiki/現場脫口秀Taxi "wikilink")                                                           |         |       |
 | 2017年3月29日          | JTBC                                                | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")                                                           | 珉雅、惠利   |       |
 | 2017年4月2日、4月9日      | MBC                                                 | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                                            | 珉雅      | 評審團   |
@@ -1492,7 +1492,7 @@ PlotData =
 | 2012年9月15日  | 《2012 Korean Music Wave 聯合演唱會》                                                 | 仁川世界盃足球場                                       |
 | 2012年9月9日   | 《2012仁川韓流觀光演唱會》                                                                | 仁川文化世界盃競技場                                     |
 | 2013年4月24日  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") 你好－台灣》 | 台北小巨蛋                                          |
-| 2013年5月11日  | 《2013[夢想演唱會](https://zh.wikipedia.org/wiki/夢想演唱會 "wikilink")》                  | 首爾世界盃競技場                                       |
+| 2013年5月11日  | 《2013[夢想演唱會](../Page/夢想演唱會.md "wikilink")》                                     | 首爾世界盃競技場                                       |
 | 2013年9月1日   | 《2013仁川韓流演唱會》                                                                  | 仁川文鶴世界盃體育場                                     |
 | 2013年10月9日  | 《2013[亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")》                  | 首爾奧林匹克公園                                       |
 | 2014年4月2日   | 《M\! Countdown No.1 Artist of Spring 2014 in Yokohama》                         | 日本橫濱體育館                                        |
@@ -1616,7 +1616,7 @@ PlotData =
 <tr class="even">
 <td><p>2012</p></td>
 <td><ul>
-<li>第1屆<a href="https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大獎" title="wikilink">Gaon Chart K-POP大獎</a>－年度最佳發展獎</li>
+<li>第1屆<a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a>－年度最佳發展獎</li>
 <li>第20屆大韓民國演藝大賞－偶像音樂優秀獎</li>
 </ul></td>
 </tr>
@@ -1637,7 +1637,7 @@ PlotData =
 <li>第6屆<a href="../Page/甜瓜音樂獎.md" title="wikilink">甜瓜音樂獎</a>－Top 10歌手獎</li>
 <li>第16屆<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a>－最佳舞蹈女子團體獎（《Something》）</li>
 <li>2014 <a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a>－Top 10</li>
-<li>2014 <a href="https://zh.wikipedia.org/wiki/MBC演藝大賞" title="wikilink">MBC演藝大賞</a>－新人獎（Yura－《<a href="../Page/我們結婚了.md" title="wikilink">我們結婚了</a>》、惠利－《<a href="https://zh.wikipedia.org/wiki/真正的男人" title="wikilink">真正的男人</a>》）</li>
+<li>2014 <a href="https://zh.wikipedia.org/wiki/MBC演藝大賞" title="wikilink">MBC演藝大賞</a>－新人獎（Yura－《<a href="../Page/我們結婚了.md" title="wikilink">我們結婚了</a>》、惠利－《<a href="../Page/真正的男人.md" title="wikilink">真正的男人</a>》）</li>
 <li><a href="../Page/韩国福布斯名人榜.md" title="wikilink">韩国福布斯名人榜</a>-第26名</li>
 </ul></td>
 </tr>
@@ -1778,7 +1778,7 @@ PlotData =
 <td><p>2017</p></td>
 <td><p>4月4日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>I'll Be Yours</p></td>
 <td><p>1位</p></td>
 </tr>

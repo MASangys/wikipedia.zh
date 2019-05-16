@@ -2,7 +2,7 @@
 
 ## 簡介
 
-  - 收錄了2003年至2011年安室奈美惠參加的合作歌曲，安室的首張合作精選輯。加上[AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
+  - 收錄了2003年至2011年安室奈美惠參加的合作歌曲，安室的首張合作精選輯。加上[AI](../Page/AI_\(歌手\).md "wikilink")
     & [土屋安娜](../Page/土屋安娜.md "wikilink")、
     [AFTERSCHOOL](../Page/After_School.md "wikilink")、[川畑要](https://zh.wikipedia.org/wiki/川畑要 "wikilink")（[CHEMISTRY](../Page/化學超男子.md "wikilink")）和[山下智久](../Page/山下智久.md "wikilink")4組新參加的歌手，總共收錄13首歌曲。
 
@@ -51,12 +51,12 @@
 
 ## 商業搭配
 
-|                                                    |                    |                                                                                                                    |
-| -------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| M-1                                                | Wonder Woman       | 日本[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")「[零系可口可樂](../Page/零系可口可樂.md "wikilink")」的電視廣告歌曲             |
-| M-3                                                | make it happen     | [夏普](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")「[au](../Page/au_\(行動電話\).md "wikilink") IS05」的廣告歌曲             |
-| [RecoChoku](../Page/RecoChoku.md "wikilink") 的廣告歌曲 |                    |                                                                                                                    |
-| M-4                                                | ROCK U feat. 安室奈美惠 | [史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")」的電視廣告歌曲 |
+|                                                    |                    |                                                                                                                           |
+| -------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| M-1                                                | Wonder Woman       | 日本[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")「[零系可口可樂](../Page/零系可口可樂.md "wikilink")」的電視廣告歌曲                    |
+| M-3                                                | make it happen     | [夏普](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")「[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink") IS05」的廣告歌曲 |
+| [RecoChoku](../Page/RecoChoku.md "wikilink") 的廣告歌曲 |                    |                                                                                                                           |
+| M-4                                                | ROCK U feat. 安室奈美惠 | [史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[決勝時刻：黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")」的電視廣告歌曲        |
 
 ## 發行形態
 
@@ -70,7 +70,7 @@
 
 | 地域                                                  | 情報              | 規格             | 唱片公司                                                                          |
 | --------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------- |
-| [日本](../Page/日本.md "wikilink")                      | 2011年4月27日\[4\] | CD+DVD、CD、音樂下載 | [avex trax](../Page/avex_trax.md "wikilink")                                  |
+| [日本](../Page/日本.md "wikilink")                      | 2011年4月27日\[4\] | CD+DVD、CD、音樂下載 | [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")               |
 | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")   | 2011年4月29日\[5\] | CD+DVD         | avex Taiwan                                                                   |
 | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink") | 2011年5月4日\[6\]  | CD+DVD         | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") |
 | 日本                                                  | 2011年5月14日\[7\] | 租賃CD           | avex trax                                                                     |

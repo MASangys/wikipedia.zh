@@ -262,7 +262,7 @@ Trooper**，簡稱**PT**，毛氏工業（）開發的人型[機動兵器](https
   -
     菲利歐·普雷斯迪（）進行名為「**TD計劃**」（TD=Terrestrial Dream／Tesla
     Drive）的小型航行機恆星間航行計劃。原本由DC進行。後來DC壞滅後，改由石動重工業，開發目的也改為開發軍事用途AM。此計劃開發了「**系列77**」系列的AM。
-    系列77的名字由來源自[七夕](https://zh.wikipedia.org/wiki/七夕 "wikilink")。
+    系列77的名字由來源自[七夕](../Page/七夕.md "wikilink")。
 
 #### 格蘭森系列
 
@@ -326,7 +326,7 @@ Robot）。名字為[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")「
   -
     以古倫加斯特零式的機體框架為基礎，特斯拉·萊許研究所開發的戰鬥用超級機器人。有很高的泛用性，可以變形成為大型戰鬥機和重戰車。
     而且，它安裝了腦波控制裝置和聲控式武器選擇裝置作為駕駛輔助系統。專用劍擊武器名稱為**計都羅睺劍**。在對駕駛員要求很高的古倫加斯特系列中有最出色的綜合平衡性，別名「**超鬥士**」。因為它的開發理念是以格鬥戰和劍擊戰為主的機體，所以在機械人型態時有點不擅長中遠距離的戰鬥。此外由於變形結構過於複雜，所以有著難以小型化和維修困難的缺點。同型號機一共生產了三台，一號機機身為藍色，頭部為星型，駕駛員為**伊倫加特·風原**（イルムガルト・カザハラ）；二號機機身為紅色，頭部為獅型，裝備了T-LINK系統。
-    最初在《第4次超级机器人大战》中登场时，剧情中本机的开发得到了破岚万丈（《[无敌钢人泰坦3](https://zh.wikipedia.org/wiki/无敌钢人泰坦3 "wikilink")》主角）的赞助，因此本机有着类似泰坦3的人形、飞机、战车的三段变形机构。
+    最初在《第4次超级机器人大战》中登场时，剧情中本机的开发得到了破岚万丈（《[无敌钢人泰坦3](../Page/无敌钢人泰坦3.md "wikilink")》主角）的赞助，因此本机有着类似泰坦3的人形、飞机、战车的三段变形机构。
 
 <!-- end list -->
 
@@ -600,7 +600,7 @@ OG系列中的戰鬥母艦有兩種：
 
 [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
 
-1.  [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")[亡-{}-靈](https://zh.wikipedia.org/wiki/亡靈 "wikilink")、[幽靈或](https://zh.wikipedia.org/wiki/幽靈 "wikilink")[幻影之意](https://zh.wikipedia.org/wiki/幻影 "wikilink")
+1.  [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")[亡-{}-靈](https://zh.wikipedia.org/wiki/亡靈 "wikilink")、[幽靈或](https://zh.wikipedia.org/wiki/幽靈 "wikilink")[幻影之意](../Page/幻影.md "wikilink")
 2.  Extra Over Technology的總稱，從隕石流星3號發現的超技術總稱
 3.  “凶鸟”是游戏中对本系列机体的汉字别称，“虎克别因”来自OGDW动画
 4.  AMB=Armored Module BOXER

@@ -1,5 +1,5 @@
 [朱雨辰](../Page/朱雨辰.md "wikilink"){{、w}}[王子文](https://zh.wikipedia.org/wiki/王子文 "wikilink"){{、w}}
-[高露](https://zh.wikipedia.org/wiki/高露 "wikilink"){{、w}}[趙寶剛](https://zh.wikipedia.org/wiki/趙寶剛 "wikilink"){{、w}}[賀剛](../Page/賀剛.md "wikilink"){{、w}}
+[高露](../Page/高露.md "wikilink"){{、w}}[趙寶剛](https://zh.wikipedia.org/wiki/趙寶剛 "wikilink"){{、w}}[賀剛](../Page/賀剛.md "wikilink"){{、w}}
 [白百何](../Page/白百何.md "wikilink"){{、w}}[任重](https://zh.wikipedia.org/wiki/任重_\(演員\) "wikilink"){{、w}}[吉米](https://zh.wikipedia.org/wiki/吉米_\(造型師\) "wikilink")
 | 配音 = | 旁白 = | 主題曲
 =《喜歡》[丁薇](https://zh.wikipedia.org/wiki/丁薇 "wikilink") |
@@ -65,7 +65,7 @@ tv_com_id = }}
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/高露" title="wikilink">高露</a></p></td>
+<p><a href="../Page/高露.md" title="wikilink">高露</a></p></td>
 <td><p>薛之荔</p>
 <center></td>
 <td><p>楚牧法律上的姐姐。</p></td>
@@ -121,7 +121,7 @@ tv_com_id = }}
 <td></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/葉偉麟" title="wikilink">葉偉麟</a></p></td>
+<p><a href="../Page/葉偉麟.md" title="wikilink">葉偉麟</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -168,7 +168,7 @@ tv_com_id = }}
 <td></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/杜景煜" title="wikilink">杜景煜</a></p></td>
+<p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -218,7 +218,7 @@ tv_com_id = }}
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/王迪" title="wikilink">王迪</a></p></td>
+<p><a href="../Page/王迪.md" title="wikilink">王迪</a></p></td>
 <td><p>COCO</p>
 <center></td>
 <td></td>
@@ -327,7 +327,7 @@ tv_com_id = }}
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陶源" title="wikilink">陶源</a></p></td>
+<p><a href="../Page/陶源.md" title="wikilink">陶源</a></p></td>
 <td><p>小蔡</p>
 <center></td>
 <td></td>

@@ -2,15 +2,16 @@
 HD**（），是总部设在[泰国](../Page/泰国.md "wikilink")[曼谷的一个电视频道](../Page/曼谷.md "wikilink")，于1955年6月24日开播，当时称为**泰国第4电视台**，1974年改名为**泰国第9电视台**，1977年4月9日因改组为国有企业，改名为**MCOT
 Channel 9**\[1\]，2003年改为**Modernine TV**，2015年9月9日，將Modernine
 TV（模擬無線電視）和MCOT HD（數位無線電視）的兩個頻道統一改為「Channel 9 MCOT
-HD」。其母公司泰国传媒也经营[泰国第3电视台](../Page/泰國第3電視臺.md "wikilink")。
+HD」。其母公司泰国传媒也经营[泰国第3电视台](https://zh.wikipedia.org/wiki/泰國第3電視臺 "wikilink")。
 
-目前MCOT HD的各节新闻由[泰国通讯社提供](../Page/:th:สำนักข่าวไทย.md "wikilink")。
+目前MCOT
+HD的各节新闻由[泰国通讯社提供](https://zh.wikipedia.org/wiki/:th:สำนักข่าวไทย "wikilink")。
 
 ## 历史
 
 ### 泰國第4頻道電視台
 
-泰國第4頻道電視台是泰國的第一間電視台，於1952年11月10日正式成立。前身為1949年開始運作的處長公共關係部。当时使用的是黑白的[媚卡拉台标](../Page/媚卡拉.md "wikilink")\[2\]。
+泰國第4頻道電視台是泰國的第一間電視台，於1952年11月10日正式成立。前身為1949年開始運作的處長公共關係部。当时使用的是黑白的[媚卡拉台标](https://zh.wikipedia.org/wiki/媚卡拉 "wikilink")\[2\]。
 
 ### 泰國第9頻道電視台
 
@@ -23,7 +24,7 @@ HD」。其母公司泰国传媒也经营[泰国第3电视台](../Page/泰國第
 
   - 9 SPEED
   - Nine Entertain
-  - [第九道挽叻县](../Page/第九道挽叻县.md "wikilink") (）
+  - [第九道挽叻县](https://zh.wikipedia.org/wiki/第九道挽叻县 "wikilink") (）
 
 ## 注释
 

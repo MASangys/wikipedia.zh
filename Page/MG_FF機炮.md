@@ -4,9 +4,7 @@ Werke Berlin開始研發，MG
 FF也繼承一部份[一次大戰德國](https://zh.wikipedia.org/wiki/一次大戰 "wikilink")的設計哲學，它可安裝在固定與非固定物體或載具上，做為攻擊與防禦兩用的武器。廣泛的被納粹德國空軍拿來運用，其中包括[二次大戰前期的時候](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，到1941年時逐漸被20
 mm [MG 151/20機砲所替換](../Page/MG_151机炮.md "wikilink")。
 
-相較競爭對手的設計，如則是由較大的[奧立岡FF
-S機砲的衍生出來](https://zh.wikipedia.org/wiki/厄利孔20毫米机炮 "wikilink")-
-然而MG
+相較競爭對手的設計，如則是由較大的[奧立岡FF S機砲的衍生出來](../Page/厄利孔20毫米机炮.md "wikilink")- 然而MG
 FF還是有缺陷，例如較低的[射速與較低的](https://zh.wikipedia.org/wiki/射速 "wikilink")[槍口初速以及彈鼓會限制炮彈攜帶量](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")。優點在於它是變得更輕與更小。但是安裝在[Bf
 109戰鬥機與](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")[Fw
 190戰鬥機的機翼上卻並不是一件容易的事情](../Page/Fw_190戰鬥機.md "wikilink")，由於彈鼓須要一定空間，結果讓彈藥攜帶量只有區區60發炮彈。在Fw
@@ -221,7 +219,7 @@ weight</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/施瓦克" title="wikilink">施瓦克</a></p></td>
+<td><p><a href="../Page/施瓦克.md" title="wikilink">施瓦克</a></p></td>
 <td><p>20 x 99R</p></td>
 <td><p>95</p></td>
 <td><p>800</p></td>

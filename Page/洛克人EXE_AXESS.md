@@ -28,7 +28,7 @@ AXESS**》（）是[洛克人EXE系列的第二部電視動畫](../Page/洛克�
   - 製片人 - 紅谷佳和、宮澤秀典
   - 動畫製作 - XEBEC
   - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[小學館集英社製作](https://zh.wikipedia.org/wiki/小學館集英社製作 "wikilink")
+    [東京電視台](../Page/東京電視台.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
 
 ## 主題曲
 

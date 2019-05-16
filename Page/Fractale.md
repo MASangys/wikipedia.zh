@@ -1,5 +1,5 @@
 《**Fractale**》（[片假名](../Page/片假名.md "wikilink")：）是[A-1
-Pictures製作的](../Page/A-1_Pictures.md "wikilink")[日本](../Page/日本.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")。本作由導演[山本寬執導](../Page/山本寬.md "wikilink")，山本寬於官方網站發表聲明，若執導此作失敗，將會引咎辭職\[1\]。本作於2011年1月13日起於[富士電視台的](../Page/富士電視台.md "wikilink")[noitaminA第](../Page/noitaminA.md "wikilink")1時段開始播放，全11話。[漫畫版則於](../Page/漫畫.md "wikilink")2010年9月30日先行在網絡[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[GANGAN
+Pictures製作的](../Page/A-1_Pictures.md "wikilink")[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作由導演[山本寬執導](../Page/山本寬.md "wikilink")，山本寬於官方網站發表聲明，若執導此作失敗，將會引咎辭職\[1\]。本作於2011年1月13日起於[富士電視台的](../Page/富士電視台.md "wikilink")[noitaminA第](https://zh.wikipedia.org/wiki/noitaminA "wikilink")1時段開始播放，全11話。[漫畫版則於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2010年9月30日先行在網絡[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[GANGAN
 ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 ## 故事概要
@@ -86,18 +86,18 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
   - 原作（原案）：Mandelbrot Engine
   - 系列構成：[岡田麿里](../Page/岡田麿里.md "wikilink")
-  - 原創故事：[東浩紀](../Page/東浩紀.md "wikilink")
+  - 原創故事：[東浩紀](https://zh.wikipedia.org/wiki/東浩紀 "wikilink")
   - 人物原案：[左](../Page/左_\(插畫家\).md "wikilink")
   - 機械設定：林勇雄
   - 道具設計：田中裕介
   - 場景設計：青木智由紀、
-  - 人物設計：[田代雅子](../Page/田代雅子.md "wikilink")
+  - 人物設計：[田代雅子](https://zh.wikipedia.org/wiki/田代雅子 "wikilink")
   - 總作畫監督：田代雅子
   - 美術監督：袈裟丸繪美
   - 色彩設定：中島和子
   - 攝影監督：石黑晴嗣
   - 編集：坪根健太郎
-  - 音樂：[鹿野草平](../Page/鹿野草平.md "wikilink")
+  - 音樂：[鹿野草平](https://zh.wikipedia.org/wiki/鹿野草平 "wikilink")
   - 音響監督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 制作協力：[Ordet](../Page/Ordet.md "wikilink")
   - 動畫制作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
@@ -108,14 +108,14 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
   - 片頭曲《》
     作詞、作曲、主唱：AZUMA HITOMI，編曲：AZUMAYA
   - 片尾曲《[Down By The Salley
-    Gardens](../Page/Down_By_The_Salley_Gardens.md "wikilink")》（第1話 -
-    第4話、第9話 - 第11話）
-    作詞：[威廉·巴特勒·葉芝](../Page/威廉·巴特勒·葉芝.md "wikilink")，作曲：愛爾蘭民謠，編曲：AZUMAYA、主唱：AZUMA
+    Gardens](https://zh.wikipedia.org/wiki/Down_By_The_Salley_Gardens "wikilink")》（第1話
+    - 第4話、第9話 - 第11話）
+    作詞：[威廉·巴特勒·葉芝](https://zh.wikipedia.org/wiki/威廉·巴特勒·葉芝 "wikilink")，作曲：愛爾蘭民謠，編曲：AZUMAYA、主唱：AZUMA
     HITOMI
   - 片尾曲《「サリーガーデン」》（第5話 - 第8話）
     作詞：威廉·巴特勒·葉芝，作曲： 愛爾蘭民謠，編曲：AZUMAYA、日本語版作詞、主唱： AZUMA HITOMI
   - 插曲《》
-    作詞：[岡田麿里](../Page/岡田麿里.md "wikilink")，作曲、編曲：[神前曉](../Page/神前曉.md "wikilink")，主唱：AZUMA
+    作詞：[岡田麿里](../Page/岡田麿里.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，主唱：AZUMA
     HITOMI
 
 ## 各話標題
@@ -139,7 +139,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td></td>
 <td><p>相遇</p></td>
 <td><p><a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
-<td><p><a href="../Page/山本寛.md" title="wikilink">山本寛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本寛" title="wikilink">山本寛</a></p></td>
 <td><p>田代雅子</p></td>
 <td><p>1.9%</p></td>
 <td></td>
@@ -168,7 +168,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td><p>EPISODE 04</p></td>
 <td></td>
 <td><p>出发</p></td>
-<td><p><a href="../Page/足立慎吾.md" title="wikilink">足立慎吾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/足立慎吾" title="wikilink">足立慎吾</a></p></td>
 <td><p>林勇雄</p></td>
 <td><p>2.1%</p></td>
 <td></td>
@@ -178,9 +178,9 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td><p>EPISODE 05</p></td>
 <td></td>
 <td><p>旅途</p></td>
-<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
 <td><p>吉岡忍</p></td>
-<td><p><a href="../Page/松尾祐輔.md" title="wikilink">松尾祐輔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松尾祐輔" title="wikilink">松尾祐輔</a></p></td>
 <td><p>1.5%</p></td>
 <td></td>
 </tr>
@@ -190,7 +190,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td><p>邊境小鎮</p></td>
 <td><p>岡田麿里</p></td>
 <td><p>藤森かずま</p></td>
-<td><p><a href="../Page/三浦陽.md" title="wikilink">三浦陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三浦陽" title="wikilink">三浦陽</a></p></td>
 <td><p>山崎秀樹</p></td>
 <td><p>2.1%</p></td>
 </tr>
@@ -200,7 +200,7 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 <td><p>虛飾之街</p></td>
 <td><p><a href="../Page/吉野弘幸.md" title="wikilink">吉野弘幸</a></p></td>
 <td><p>牧原亮太郎</p></td>
-<td><p><a href="../Page/伊東伸高.md" title="wikilink">伊東伸高</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊東伸高" title="wikilink">伊東伸高</a></p></td>
 <td><p>1.9%</p></td>
 <td></td>
 </tr>
@@ -255,13 +255,13 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 ## 播放電視台
 
-| 播放地區                               | 播放電視台                                                    | 播放日期               | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 備註                                   |
-| ---------------------------------- | -------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------- | ------------------------------------ |
-| 广域放送                               | [富士電視台](../Page/富士電視台.md "wikilink")                     | 2011年1月13日 - 3月31日 | 星期四 24:45 - 25:15                                                       | **制作局**                              |
-| 日本全域                               | [富士電視台 On Demand](../Page/富士電視台_On_Demand.md "wikilink") | 2011年1月14日 -       | 星期五 更新                                                                  | 付费[网络电视](../Page/网络电视.md "wikilink") |
-| [近畿地区](../Page/近畿地区.md "wikilink") | [関西电视台](../Page/関西电视台.md "wikilink")                     | 2011年1月18日 -       | 星期二 25:35 - 26:05                                                       |                                      |
-| [中京地区](../Page/中京地区.md "wikilink") | [東海电视台](../Page/東海电视台.md "wikilink")                     | 2011年1月20日 -       | 星期四 26:05 - 26:35                                                       |                                      |
-| 日本全域                               | [BS富士](../Page/BS富士.md "wikilink")                       | 2011年2月26日 -       | 星期六 25:00 - 25:30                                                       | [卫星电视](../Page/卫星电视.md "wikilink")   |
+| 播放地區                                                  | 播放電視台                                                                       | 播放日期               | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註                                   |
+| ----------------------------------------------------- | --------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 广域放送                                                  | [富士電視台](../Page/富士電視台.md "wikilink")                                        | 2011年1月13日 - 3月31日 | 星期四 24:45 - 25:15                                                                                             | **制作局**                              |
+| 日本全域                                                  | [富士電視台 On Demand](https://zh.wikipedia.org/wiki/富士電視台_On_Demand "wikilink") | 2011年1月14日 -       | 星期五 更新                                                                                                        | 付费[网络电视](../Page/网络电视.md "wikilink") |
+| [近畿地区](https://zh.wikipedia.org/wiki/近畿地区 "wikilink") | [関西电视台](https://zh.wikipedia.org/wiki/関西电视台 "wikilink")                     | 2011年1月18日 -       | 星期二 25:35 - 26:05                                                                                             |                                      |
+| [中京地区](https://zh.wikipedia.org/wiki/中京地区 "wikilink") | [東海电视台](https://zh.wikipedia.org/wiki/東海电视台 "wikilink")                     | 2011年1月20日 -       | 星期四 26:05 - 26:35                                                                                             |                                      |
+| 日本全域                                                  | [BS富士](../Page/BS富士.md "wikilink")                                          | 2011年2月26日 -       | 星期六 25:00 - 25:30                                                                                             | [卫星电视](../Page/卫星电视.md "wikilink")   |
 
 ## 參註
 

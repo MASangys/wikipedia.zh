@@ -19,13 +19,13 @@
 
 ## 主題曲
 
-[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")[代表取締役刑事片尾曲](../Page/代表取締役刑事.md "wikilink")
+[朝日電視台連續劇](../Page/朝日電視台.md "wikilink")[代表取締役刑事片尾曲](https://zh.wikipedia.org/wiki/代表取締役刑事 "wikilink")
 
 ## 收錄專輯
 
   - RISKY（\#1）
   - [B'z The Best
-    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")（\#1）
+    "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")（\#1）
 
 ## 參考資料
 

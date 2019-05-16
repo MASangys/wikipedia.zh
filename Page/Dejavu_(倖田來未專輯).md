@@ -1,5 +1,5 @@
 《**Dejavu**》（實境夢遊）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")9張個人原創專輯，收錄《[Gossip
-Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/唯有你](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")》、《
+Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/唯有你](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")》、《
 [POP DIVA](../Page/POP_DIVA.md "wikilink")》，3張A面單曲。
 
 ## 解說
@@ -18,7 +18,7 @@ Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/
 
 <!-- end list -->
 
-  - 本次[音樂錄影帶加拍並收錄了前張](../Page/音樂錄影帶.md "wikilink")[翻唱專輯](../Page/翻唱.md "wikilink")《[ETERNITY
+  - 本次[音樂錄影帶加拍並收錄了前張](../Page/音樂錄影帶.md "wikilink")[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")《[ETERNITY
     <small>曠世情歌</small> ～Love ＆
     Songs～](../Page/ETERNITY_～Love_&_Songs～.md "wikilink")》裡的〈電眼女孩〉、〈BE
     MY BABY〉兩曲。
@@ -77,10 +77,11 @@ Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/
         作詞/作曲：Kumi Koda, Ian Curnow, Julie Morrision, Jane Vaughan
         47th單曲
     <!-- end list -->
-      - [7 Net Shopping](../Page/7_Net_Shopping.md "wikilink")
+      - [7 Net
+        Shopping](https://zh.wikipedia.org/wiki/7_Net_Shopping "wikilink")
         電視廣告曲、music.jp
         電視廣告曲、[日本電視台](../Page/日本電視台.md "wikilink")「ハッピーMusic」POWER
-        PLAY、[索尼愛立信](../Page/索尼愛立信.md "wikilink")×[MTV](../Page/MTV.md "wikilink")「Transform
+        PLAY、[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")×[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink")「Transform
         Your Xperia™」廣告曲
 4.  '''Okay '''
       -
@@ -104,25 +105,27 @@ Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/
       -
         作詞：Kumi Koda　作曲：森大輔　編曲：田中ユウスケ, Takashi Kondo
     <!-- end list -->
-      - [SOGO](../Page/SOGO.md "wikilink")
-        ・[西武](../Page/西武.md "wikilink")「そごう・西武冬市」廣告曲
+      - [SOGO](https://zh.wikipedia.org/wiki/SOGO "wikilink")
+        ・[西武](https://zh.wikipedia.org/wiki/西武 "wikilink")「そごう・西武冬市」廣告曲
 10. '''Hey baby\! '''
       -
         作詞：Kumi Koda　作曲：井上慎二郎　編曲：NAO TANAKA
     <!-- end list -->
-      - [朝日電視台](../Page/朝日電視台.md "wikilink")[動畫](../Page/動畫.md "wikilink")「[蠟筆小新](../Page/蠟筆小新.md "wikilink")」片頭曲
+      - [朝日電視台](../Page/朝日電視台.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")「[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")」片頭曲
 11. '''人生再小小加把勁（） '''
       -
         作詞：Kumi Koda　作曲：中崎英也　編曲：川端良征
     <!-- end list -->
       - [朝日電視台](../Page/朝日電視台.md "wikilink")「お願い！ランキング」的人氣單元「ちょい足しクッキング」主題曲
-12. '''[唯有你](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")（） '''
+12. '''[唯有你](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")（）
+    '''
       -
         作詞：Kumi Koda　作曲：MARKIE　SiZK（from ★STAR GUiTAR） 編曲：SiZK
         48th單曲
     <!-- end list -->
-      - [NHKドラマ](../Page/NHK.md "wikilink")10 セカンドバージン主題曲
-13. **[喜歡，喜歡，喜歡。](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")（）**
+      - [NHKドラマ](https://zh.wikipedia.org/wiki/NHK "wikilink")10
+        セカンドバージン主題曲
+13. **[喜歡，喜歡，喜歡。](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")（）**
       -
         作詞：Kumi Koda　作曲：杉山勝彦　編曲：井上慎二郎
         48th單曲
@@ -133,7 +136,9 @@ Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/
         作詞/作曲：Kumi Koda, Miriam Nervo, Olivia Nervo, アンデルス・バッジェ, Andreas
         Carlsson
     <!-- end list -->
-      - [7 Net Shopping](../Page/7_Net_Shopping.md "wikilink") 電視廣告曲
+      - [7 Net
+        Shopping](https://zh.wikipedia.org/wiki/7_Net_Shopping "wikilink")
+        電視廣告曲
 15. **I Don't Love You \!??**
       -
         作詞：Kumi Koda　作曲：FAST LANE
@@ -148,9 +153,10 @@ Candy](../Page/Gossip_Candy.md "wikilink")》、《[喜歡，喜歡，喜歡。/
 4.  '''[BE MY BABY](../Page/ETERNITY_～Love_&_Songs～.md "wikilink") '''
 5.  '''Bambi '''
 6.  '''Passing By '''
-7.  **[喜歡，喜歡，喜歡。](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")**
-8.  **[唯有你](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")**
-9.  **[walk \~to the future\~](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")**
+7.  **[喜歡，喜歡，喜歡。](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")**
+8.  **[唯有你](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")**
+9.  **[walk \~to the
+    future\~](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")**
 
 #### LIVE DVD前篇
 

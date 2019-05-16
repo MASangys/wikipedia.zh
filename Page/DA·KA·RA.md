@@ -1,9 +1,9 @@
-《**DA·KA·RA**》，是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[大黑摩季的第](../Page/大黑摩季.md "wikilink")2張[單曲](../Page/單曲.md "wikilink")。1992年9月23日發行。是大黑的成名歌曲以及代表作之一。
+《**DA·KA·RA**》，是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[大黑摩季的第](../Page/大黑摩季.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1992年9月23日發行。是大黑的成名歌曲以及代表作之一。
 
 ## 簡介
 
-大黑摩季首張有[商業搭配的單曲作品](../Page/商業搭配.md "wikilink")，被用作[東洋水產的](../Page/東洋水產.md "wikilink")[杯麵產品](../Page/杯麵.md "wikilink")「HOT
-NOODLE」的[電視廣告歌曲](../Page/電視廣告.md "wikilink")。廣告由當時在[美國話題](../Page/美國.md "wikilink")[電影](../Page/電影.md "wikilink")《[終結者2：審判日](../Page/終結者2：審判日.md "wikilink")》中飾演[約翰·康納的男演員](../Page/約翰·康納.md "wikilink")[愛德華·福隆](../Page/愛德華·福隆.md "wikilink")、以及剛獲得[全日本國民美少女比賽冠軍的](../Page/全日本國民美少女比賽.md "wikilink")[今村雅美共同出演](../Page/今村雅美.md "wikilink")，引起巨大的話題性。
+大黑摩季首張有[商業搭配的單曲作品](../Page/商業搭配.md "wikilink")，被用作[東洋水產的](https://zh.wikipedia.org/wiki/東洋水產 "wikilink")[杯麵產品](https://zh.wikipedia.org/wiki/杯麵 "wikilink")「HOT
+NOODLE」的[電視廣告歌曲](../Page/電視廣告.md "wikilink")。廣告由當時在[美國話題](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[終結者2：審判日](https://zh.wikipedia.org/wiki/終結者2：審判日 "wikilink")》中飾演[約翰·康納的男演員](../Page/約翰·康納.md "wikilink")[愛德華·福隆](https://zh.wikipedia.org/wiki/愛德華·福隆 "wikilink")、以及剛獲得[全日本國民美少女比賽冠軍的](../Page/全日本國民美少女比賽.md "wikilink")[今村雅美共同出演](https://zh.wikipedia.org/wiki/今村雅美 "wikilink")，引起巨大的話題性。
 
 廣告的大熱也導致這張單曲的持續熱賣，單曲在[Oricon公信榜最高排行第](../Page/Oricon公信榜.md "wikilink")2位，是大黑的單曲首次進入前十位。Oricon在榜時間長達20週，總銷量高達105.5萬張\[1\]，是1992年度日本單曲銷量第20位\[2\]。作為實力派創作女歌手的大黑從此成名，這首單曲也是大黑銷量第三高的單曲。
 
@@ -13,8 +13,8 @@ NOODLE」的[電視廣告歌曲](../Page/電視廣告.md "wikilink")。廣告由
 
 1.  **DA·KA·RA**
       -
-        作詞、作曲：[大黑摩季](../Page/大黑摩季.md "wikilink")；編曲：[葉山武](../Page/葉山武.md "wikilink")
-        [東洋水產的](../Page/東洋水產.md "wikilink")[杯麵產品](../Page/杯麵.md "wikilink")「HOT
+        作詞、作曲：[大黑摩季](../Page/大黑摩季.md "wikilink")；編曲：[葉山武](https://zh.wikipedia.org/wiki/葉山武 "wikilink")
+        [東洋水產的](https://zh.wikipedia.org/wiki/東洋水產 "wikilink")[杯麵產品](https://zh.wikipedia.org/wiki/杯麵 "wikilink")「HOT
         NOODLE」廣告歌曲
 2.  **Good-Luck Woman**
       -

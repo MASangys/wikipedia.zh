@@ -29,8 +29,8 @@ Unity介面包含了以下元素：
 
 [Ubuntu_TV_screenshot.png](https://zh.wikipedia.org/wiki/File:Ubuntu_TV_screenshot.png "fig:Ubuntu_TV_screenshot.png")\]\]
 使用Unity介面的**[Ubuntu
-TV](https://zh.wikipedia.org/wiki/Ubuntu_TV "wikilink")**最早是在2012年的[消費性電子展中產出](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")。\[13\]Ubuntu
-TV專門為[智慧電視打造](https://zh.wikipedia.org/wiki/智慧電視 "wikilink")，可以存取網路服務，也可以串流到使用[Android](../Page/Android.md "wikilink")、[iOS或](../Page/iOS.md "wikilink")[Ubuntu的裝置上](../Page/Ubuntu.md "wikilink")。\[14\]
+TV](../Page/Ubuntu_TV.md "wikilink")**最早是在2012年的[消費性電子展中產出](https://zh.wikipedia.org/wiki/消費性電子展 "wikilink")。\[13\]Ubuntu
+TV專門為[智慧電視打造](https://zh.wikipedia.org/wiki/智慧電視 "wikilink")，可以存取網路服務，也可以串流到使用[Android](../Page/Android.md "wikilink")、[iOS或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Ubuntu的裝置上](../Page/Ubuntu.md "wikilink")。\[14\]
 
 ### Ubuntu Touch的Unity
 

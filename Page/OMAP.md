@@ -4,7 +4,7 @@
 **OMAP**
 是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德州儀器所推出的開放式](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")[多媒體應用平台架構](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（Open
 Multimedia Application
-Platform），使用[低功耗的](https://zh.wikipedia.org/wiki/低功耗设计 "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，可適用於移動式平台。OMAP设备一般包括一个通用的ARM架构处理器核心以及一个或多个专门的协处理器。早期的OMAP变种通常的特点是德州仪器TMS320系列数字信号处理器的变种。德州儀器最新一代多核架構是OMAP
+Platform），使用[低功耗的](../Page/低功耗设计.md "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，可適用於移動式平台。OMAP设备一般包括一个通用的ARM架构处理器核心以及一个或多个专门的协处理器。早期的OMAP变种通常的特点是德州仪器TMS320系列数字信号处理器的变种。德州儀器最新一代多核架構是OMAP
 5。
 
 2012年9月26日，德州仪器宣布，他们将结束其在[智能手机和](../Page/智能手机.md "wikilink")[平板电脑为导向的OMAP芯片业务](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，转向专注于嵌入式平台。因此，OMAP5的命运仍然不明朗。\[1\]2012年11月14日，德州仪器宣布，由于其从移动到嵌入式平台的转变，他们将削减1700个工作职位。\[2\]

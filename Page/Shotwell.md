@@ -8,7 +8,7 @@ Shotwell可以直接從數位相機匯入影像和影片，並自動依照日期
 Shotwell內建的影像編輯讓使用者能旋轉、剪裁、消除[紅眼](https://zh.wikipedia.org/wiki/紅眼 "wikilink")，並可調整色彩平衡。
 
 Shotwell能讓使用者在[Facebook](../Page/Facebook.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、[Picasa
-網路相簿](https://zh.wikipedia.org/wiki/Picasa_網路相簿 "wikilink")、[Piwig或](https://zh.wikipedia.org/wiki/Piwig "wikilink")[Youtube發布相片或影片](../Page/Youtube.md "wikilink")。\[3\]
+網路相簿](https://zh.wikipedia.org/wiki/Picasa_網路相簿 "wikilink")、[Piwig或](https://zh.wikipedia.org/wiki/Piwig "wikilink")[Youtube發布相片或影片](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[3\]
 
 ## 技術資訊
 
@@ -16,7 +16,7 @@ Shotwell與其他圖片管理比方：[F-Spot和](../Page/F-Spot.md "wikilink")[
 
 ## 參見
 
-  - [digiKam](../Page/digiKam.md "wikilink") –
+  - [digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink") –
     [KDE環境下的數位相片管理](../Page/KDE.md "wikilink")
   - [F-Spot](../Page/F-Spot.md "wikilink")
   - [gThumb](https://zh.wikipedia.org/wiki/gThumb "wikilink")

@@ -34,7 +34,7 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
 
 :; 亮晶晶閃耀極限（Extreme Luminario）
 
-### [光之美少女 Splash Star](../Page/光之美少女_Splash_Star.md "wikilink")
+### [光之美少女 Splash Star](https://zh.wikipedia.org/wiki/光之美少女_Splash_Star "wikilink")
 
   -
 
@@ -192,21 +192,24 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
 
   -
 
-    於《[電影 光之美少女 Max Heart](../Page/光之美少女#劇場版.md "wikilink")》登場。
+    於《[電影 光之美少女 Max
+    Heart](https://zh.wikipedia.org/wiki/光之美少女#劇場版 "wikilink")》登場。
 
     與弗利茲、弗洛茲聯手交戰雪天使、舞天使、冰天使、水天使、苺天使、海洋天使和節奏天使，最後超獸化被黑天使、雪天使以**光之美少女
     亮晶晶黑白迴轉Max**打敗。
 
   - 、
 
-    於《[電影 光之美少女 Max Heart 2 雪空的朋友](../Page/光之美少女#劇場版.md "wikilink")》登場。
+    於《[電影 光之美少女 Max Heart 2
+    雪空的朋友](https://zh.wikipedia.org/wiki/光之美少女#劇場版 "wikilink")》登場。
 
     與暗之領域魔女／迪比露聯手交戰雪天使、舞天使、冰天使、水天使、苺天使、海洋天使和節奏天使，最後被旋律天使、節奏天使以**光之美少女
     熱情和聲**打敗。
 
   -
 
-    於《[電影 光之美少女Ⅲ 滴嗒危機一髮](../Page/光之美少女Splash_Star#劇場版.md "wikilink")》登場。
+    於《[電影 光之美少女Ⅲ
+    滴嗒危機一髮](https://zh.wikipedia.org/wiki/光之美少女Splash_Star#劇場版 "wikilink")》登場。
 
     與穆舒凡聯手交戰黑天使、花天使、夢天使、桃天使、花蕾天使和旋律天使，最後超獸化被月天使、風天使以**光之美少女 轉轉星光
     Splash**打敗。
@@ -214,14 +217,14 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
   -
 
     於《[電影 Yes\! 光之美少女5
-    鏡之國的奇蹟大冒險\!](../Page/Yes!_光之美少女5#劇場版.md "wikilink")》登場。
+    鏡之國的奇蹟大冒險\!](https://zh.wikipedia.org/wiki/Yes!_光之美少女5#劇場版 "wikilink")》登場。
 
     捕捉妖精們時被露露、姆姆、芙芙、可可、果果、普普、塔多、希風、希普蕾、可芙蕾、波普莉和哈咪以**奇跡手電筒**打敗。
 
   -
 
     於《[電影 Yes\! 光之美少女5GoGo\!
-    甜點王國歡樂的生日聚會♪](../Page/Yes!_光之美少女5#劇場版.md "wikilink")》登場。
+    甜點王國歡樂的生日聚會♪](https://zh.wikipedia.org/wiki/Yes!_光之美少女5#劇場版 "wikilink")》登場。
 
     與沙羅影聯手交戰黑天使、花天使、夢天使、桃天使、花蕾天使、旋律天使，最後超獸化被夢天使、火天使、星天使、冰天使和水天使先後以**光之美少女寶石弓箭**、**光之美少女翡翠圓盤**、**光之美少女烈焰火球**、**光之美少女光稜鎖鏈**、**光之美少女花蝶流星**
     打敗。
@@ -229,14 +232,14 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
   -
 
     於《[電影 光之美少女：幸福精靈Fresh\!
-    玩具王國有很多秘密！？](../Page/FRESH光之美少女！#劇場版.md "wikilink")》登場。
+    玩具王國有很多秘密！？](https://zh.wikipedia.org/wiki/FRESH光之美少女！#劇場版 "wikilink")》登場。
 
     與沙羅曼達男爵聯手交戰夏妮露米納斯、火天使、星天使、紫天使、鳳梨天使、百香果天使、陽光天使和月光天使，最後超獸化被桃天使、苺天使、鳳梨天使和百香果天使以**幸運四葉草最終舞曲**打敗。
 
   -
 
     於《[電影
-    光之美少女：甜蜜天使！：超級時尚秀在花之都...真的嗎！？](../Page/Heartcatch_光之美少女！#劇場版.md "wikilink")》登場。
+    光之美少女：甜蜜天使！：超級時尚秀在花之都...真的嗎！？](https://zh.wikipedia.org/wiki/Heartcatch_光之美少女！#劇場版 "wikilink")》登場。
 
     與玩具魔神聯手交戰夏妮露米納斯、火天使、星天使、紫天使、鳳梨天使、百香果天使、陽光天使和月光天使，最後超獸化被花蕾天使、海洋天使、陽光天使和月光天使先後以**光之美少女
     銀白強力音波**、**光之美少女 閃耀超強音波**打敗。
@@ -244,10 +247,10 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
 ## 主題曲
 
   - 片頭曲「」
-    作詞：青木久美子，作曲：[小杉保夫](../Page/小杉保夫.md "wikilink")，編曲：[大石憲一郎](../Page/大石憲一郎.md "wikilink")，主唱：[工藤真由](../Page/工藤真由.md "wikilink")，和聲：[五條真由美](../Page/五條真由美.md "wikilink")、
+    作詞：青木久美子，作曲：[小杉保夫](https://zh.wikipedia.org/wiki/小杉保夫 "wikilink")，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，主唱：[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")，和聲：[五條真由美](../Page/五條真由美.md "wikilink")、
   - 片尾曲「」
     作詞：青木久美子、作曲：小杉保夫、編曲：鹽崎容正、主唱：Cure
-    Rainbows（[五條真由美](../Page/五條真由美.md "wikilink")、、工藤真由、[宮本佳那子](../Page/宮本佳那子.md "wikilink")、茂家瑞季、[林桃子](../Page/林桃子.md "wikilink")、[池田彩](../Page/池田彩_\(歌手\).md "wikilink")）with
+    Rainbows（[五條真由美](../Page/五條真由美.md "wikilink")、、工藤真由、[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")、茂家瑞季、[林桃子](https://zh.wikipedia.org/wiki/林桃子 "wikilink")、[池田彩](https://zh.wikipedia.org/wiki/池田彩_\(歌手\) "wikilink")）with
     光之美少女 All Stars 21人，和聲：Young Fresh
 
 ## 製作人員
@@ -263,9 +266,9 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
   - CG監督：鈴木大介
   - 色彩設計：澤田豊二
   - 製作擔當：末竹憲
-  - 動畫製作：[東映動畫](../Page/東映動畫.md "wikilink")
+  - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 製作：光之美少女 All Stars DX3
-    製作委員會（[東映動畫](../Page/東映動畫.md "wikilink")、[東映](../Page/東映.md "wikilink")、[Bandai](../Page/Bandai.md "wikilink")、[旭通廣告](../Page/旭通廣告.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous
+    製作委員會（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[東映](../Page/東映.md "wikilink")、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous
     Entertainment、木下工務店）
 
 ## 外部連結
@@ -274,7 +277,7 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
     傳達到未來！連結世界☆虹色之花](http://www.toei-anim.co.jp/movie/2011_precure_allstars/)
 
 [en:Pretty Cure All Stars
-DX](../Page/en:Pretty_Cure_All_Stars_DX.md "wikilink")
+DX](https://zh.wikipedia.org/wiki/en:Pretty_Cure_All_Stars_DX "wikilink")
 
 [Category:大塚隆史電影](https://zh.wikipedia.org/wiki/Category:大塚隆史電影 "wikilink")
 [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink")

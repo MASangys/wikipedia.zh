@@ -1,14 +1,14 @@
-**misono**（，）是[日本](../Page/日本.md "wikilink")[女歌手](../Page/歌手.md "wikilink")，[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[伏見區出身](../Page/伏見區.md "wikilink")。本名**神田美苑**，是女歌手[倖田來未的親生妹妹](../Page/倖田來未.md "wikilink")，因此她偶爾也會以「倖田misono」的名字自稱。[隸屬於](../Page/經紀公司.md "wikilink")[avex](../Page/愛貝克思.md "wikilink")，misono原為[流行音樂](../Page/日本流行音樂.md "wikilink")[樂團](../Page/樂團.md "wikilink")[近未來](../Page/近未來.md "wikilink")（Day
+**misono**（，）是[日本](../Page/日本.md "wikilink")[女歌手](../Page/歌手.md "wikilink")，[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[伏見區出身](../Page/伏見區.md "wikilink")。本名**神田美苑**，是女歌手[倖田來未的親生妹妹](../Page/倖田來未.md "wikilink")，因此她偶爾也會以「倖田misono」的名字自稱。[隸屬於](../Page/經紀公司.md "wikilink")[avex](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")，misono原為[流行音樂](../Page/日本流行音樂.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[近未來](https://zh.wikipedia.org/wiki/近未來 "wikilink")（Day
 After
-Tomorrow）的[主唱兼](../Page/主唱.md "wikilink")[作詞](../Page/作詞.md "wikilink")，樂團解散後於2006年起以個人身分進行音樂活動，並活躍於日本各大電視台的[綜藝節目中](../Page/綜藝節目.md "wikilink")。
+Tomorrow）的[主唱兼](https://zh.wikipedia.org/wiki/主唱 "wikilink")[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")，樂團解散後於2006年起以個人身分進行音樂活動，並活躍於日本各大電視台的[綜藝節目中](../Page/綜藝節目.md "wikilink")。
 
 ## 個人經歷
 
-misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")、[山田優等知名藝人著名的](../Page/山田優.md "wikilink")，並參加過由校內學生組成的演藝團體「[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")」。
+misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")、[山田優等知名藝人著名的](../Page/山田優.md "wikilink")，並參加過由校內學生組成的演藝團體「[B.B.WAVES](https://zh.wikipedia.org/wiki/B.B.WAVES "wikilink")」。
 
-2002年8月7日，misono以「近未來」成員的身分[出道](../Page/出道.md "wikilink")，該樂團曾是avex的重點[新人](../Page/新人.md "wikilink")。2005年8月，近未來宣布「活動休止」，樂團解散。經過一年的空窗期，misono在2006年3月29日發行首張個人[單曲](../Page/單曲.md "wikilink")，開始個人的音樂活動，並在2009年與其姊[倖田來未以](../Page/倖田來未.md "wikilink")「倖田來未×misono」的名義共同發行單曲。
+2002年8月7日，misono以「近未來」成員的身分[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，該樂團曾是avex的重點[新人](https://zh.wikipedia.org/wiki/新人 "wikilink")。2005年8月，近未來宣布「活動休止」，樂團解散。經過一年的空窗期，misono在2006年3月29日發行首張個人[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，開始個人的音樂活動，並在2009年與其姊[倖田來未以](../Page/倖田來未.md "wikilink")「倖田來未×misono」的名義共同發行單曲。
 
-此外，misono自2007年11月起，開始參加[富士電視台猜謎節目](../Page/富士電視台.md "wikilink")《》，並成為[固定班底之一](../Page/固定班底.md "wikilink")，此後便開始活躍於[日本各大](../Page/日本.md "wikilink")[電視台的](../Page/電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+此外，misono自2007年11月起，開始參加[富士電視台猜謎節目](../Page/富士電視台.md "wikilink")《》，並成為[固定班底之一](https://zh.wikipedia.org/wiki/固定班底 "wikilink")，此後便開始活躍於[日本各大](../Page/日本.md "wikilink")[電視台的](https://zh.wikipedia.org/wiki/電視台 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 音樂作品
 
@@ -167,9 +167,9 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
 <!-- end list -->
 
   - [QUIZ\!HEXAGON
-    II](../Page/QUIZ!HEXAGON_II.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")，2007年11月28日—）
+    II](https://zh.wikipedia.org/wiki/QUIZ!HEXAGON_II "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")，2007年11月28日—）
   - [男女糾察隊](../Page/男女糾察隊.md "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")，2008年—）
-  - [冒險Tutorial](../Page/冒險Tutorial.md "wikilink")（[關西電視台製作](../Page/關西電視台.md "wikilink")，2009年5月—）
+  - [冒險Tutorial](https://zh.wikipedia.org/wiki/冒險Tutorial "wikilink")（[關西電視台製作](../Page/關西電視台.md "wikilink")，2009年5月—）
 
 <!-- end list -->
 
@@ -178,16 +178,17 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
 <!-- end list -->
 
   - [驚奇世界HOW
-    MUCH](../Page/驚奇世界HOW_MUCH.md "wikilink")（[TBS系](../Page/TBS系.md "wikilink")，2007年）
+    MUCH](https://zh.wikipedia.org/wiki/驚奇世界HOW_MUCH "wikilink")（[TBS系](https://zh.wikipedia.org/wiki/TBS系 "wikilink")，2007年）
   - [Omoiikiri
-    DON\!](../Page/Omoiikiri_DON!.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2009年、2010年）
-  - [DON\!](../Page/DON!.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2010年）
+    DON\!](https://zh.wikipedia.org/wiki/Omoiikiri_DON! "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2009年、2010年）
+  - [DON\!](https://zh.wikipedia.org/wiki/DON! "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2010年）
 
 ### 電影
 
-  - [Obachan Chips](../Page/Obachan_Chips.md "wikilink")（2007年1月27日上映）
+  - [Obachan
+    Chips](https://zh.wikipedia.org/wiki/Obachan_Chips "wikilink")（2007年1月27日上映）
   - [The Harimaya
-    Bridge](../Page/The_Harimaya_Bridge.md "wikilink")（2009年6月13日上映）
+    Bridge](https://zh.wikipedia.org/wiki/The_Harimaya_Bridge "wikilink")（2009年6月13日上映）
 
 ### DVD
 
@@ -196,34 +197,34 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
 
 ### 廣播
 
-  - [ゴチャ・まぜっ\!金スペ](../Page/ゴチャ・まぜっ!.md "wikilink")（[MBS廣播](../Page/毎日放送.md "wikilink")）
+  - [ゴチャ・まぜっ\!金スペ](https://zh.wikipedia.org/wiki/ゴチャ・まぜっ! "wikilink")（[MBS廣播](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")）
   - ゴチャ・まぜっ\!火曜日 ※已結束
   - MOVIE☆ON\!毎週水曜 24：20〜24：35
   - 脳misoknow\! 日曜 20:00\~20:30
-    （[bayfm78](../Page/bayfm78.md "wikilink")）
+    （[bayfm78](https://zh.wikipedia.org/wiki/bayfm78 "wikilink")）
 
 ### 舞台劇
 
-  - [美味學院](../Page/美味學院.md "wikilink")（2007年5月16日〜20日，[青山劇場](../Page/青山劇場.md "wikilink")）
+  - [美味學院](https://zh.wikipedia.org/wiki/美味學院 "wikilink")（2007年5月16日〜20日，[青山劇場](https://zh.wikipedia.org/wiki/青山劇場 "wikilink")）
 
 ### 電視劇
 
-  - [音女](../Page/音女.md "wikilink")（2008年4月14日〜17日，朝日電視台）
+  - [音女](https://zh.wikipedia.org/wiki/音女 "wikilink")（2008年4月14日〜17日，朝日電視台）
   - [恋爱小说家·伊崎龙之介](../Page/恋爱小说家·伊崎龙之介.md "wikilink")（2009年7月〜9月，朝日電視台）飾演miko
   - [東京DOGS](../Page/東京DOGS.md "wikilink")（2009年11月16日，富士電視台）
 
 ### 廣告代言
 
-  - [小僧壽CHAIN](../Page/小僧壽CHAIN.md "wikilink")（幼年時期出演）
+  - [小僧壽CHAIN](https://zh.wikipedia.org/wiki/小僧壽CHAIN "wikilink")（幼年時期出演）
   - 『[ICE
-    BOX](../Page/ICE_BOX.md "wikilink")』[森永製菓](../Page/森永製菓.md "wikilink")（2003年）
-  - 『[交響曲傳奇](../Page/交響曲傳奇.md "wikilink")〜[任天堂GameCube用](../Page/任天堂GameCube.md "wikilink")』[Namco](../Page/Namco.md "wikilink")（2003年）
-  - 『[kissmark](../Page/kissmark.md "wikilink")』（2002-2003年）
+    BOX](https://zh.wikipedia.org/wiki/ICE_BOX "wikilink")』[森永製菓](../Page/森永製菓.md "wikilink")（2003年）
+  - 『[交響曲傳奇](../Page/交響曲傳奇.md "wikilink")〜[任天堂GameCube用](../Page/任天堂GameCube.md "wikilink")』[Namco](https://zh.wikipedia.org/wiki/Namco "wikilink")（2003年）
+  - 『[kissmark](https://zh.wikipedia.org/wiki/kissmark "wikilink")』（2002-2003年）
   - 『』株式会社AIM（2009年）
 
 ### 其他歌手的音樂錄音帶
 
-  - 「[喜歡，喜歡，喜歡。/唯有你](../Page/喜歡，喜歡，喜歡。/唯有你.md "wikilink")」/倖田來未（2010年）
+  - 「[喜歡，喜歡，喜歡。/唯有你](https://zh.wikipedia.org/wiki/喜歡，喜歡，喜歡。/唯有你 "wikilink")」/倖田來未（2010年）
 
 ## 參考資料
 
@@ -234,7 +235,7 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
   - [](http://misono-net.jp/)
       - [](http://misono-net.jp/?p=diarylist) - 新網誌
   - [](http://ameblo.jp/blog-misono) -
-    舊網誌（架設於[ameblo](../Page/ameblo.md "wikilink")）
+    舊網誌（架設於[ameblo](https://zh.wikipedia.org/wiki/ameblo "wikilink")）
   - [倖田來未×misono Official
     Site](https://web.archive.org/web/20101127112641/http://rhythmzone.net/koda/its-all-love/)
 

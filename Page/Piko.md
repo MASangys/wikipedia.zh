@@ -1,4 +1,4 @@
-**Piko**（，）是日本的男性流行樂歌手。其聲域廣泛到足以安穩自信的唱出男性與女性的音域範圍，因此他是以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」的名稱為招牌特點的歌手。在[NICONICO動畫上發表自己的翻唱作品](../Page/NICONICO動畫.md "wikilink")，以動漫和Janne
+**Piko**（，）是日本的男性流行樂歌手。其聲域廣泛到足以安穩自信的唱出男性與女性的音域範圍，因此他是以「[兩聲類](https://zh.wikipedia.org/wiki/兩聲類 "wikilink")」的名稱為招牌特點的歌手。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以動漫和Janne
 Da Arc的歌曲為主，為大賣的音樂軟體[VOCALOID
 2](https://zh.wikipedia.org/wiki/VOCALOID_2 "wikilink")
 [歌手音ピコ](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink")

@@ -22,7 +22,7 @@ Phase II現身，初期只有「Series A」版本，1978年推出簡化版「Ser
 
 利蘭National是英國National Bus Company的一款標準單層巴士，不少利蘭National售予National Bus
 Company旗下公司。利蘭National其他買家包括倫敦運輸局、多間國營的Passenger Transport
-Executive及一些私營巴士公司。但以[戴卓爾夫人為首的英國保守黨政權在](../Page/戴卓爾夫人.md "wikilink")1979年上台後，政府逐步減少對購買新巴士的資助，引致利蘭National在英國銷量下跌。
+Executive及一些私營巴士公司。但以[戴卓爾夫人為首的英國保守黨政權在](https://zh.wikipedia.org/wiki/戴卓爾夫人 "wikilink")1979年上台後，政府逐步減少對購買新巴士的資助，引致利蘭National在英國銷量下跌。
 
 ### 翻新工程
 
@@ -32,7 +32,7 @@ Greenway。
 
 ## 改造
 
-1980年代，英國對鐵路需求增加，爲購買新列車同時節省成本，[英國國鐵向利蘭車廠買入本型號巴士的車身](../Page/英國國鐵.md "wikilink")，安裝到柴油列車的底盤上，這些列車被稱爲。
+1980年代，英國對鐵路需求增加，爲購買新列車同時節省成本，[英國國鐵向利蘭車廠買入本型號巴士的車身](https://zh.wikipedia.org/wiki/英國國鐵 "wikilink")，安裝到柴油列車的底盤上，這些列車被稱爲。
 
 ## 出口
 

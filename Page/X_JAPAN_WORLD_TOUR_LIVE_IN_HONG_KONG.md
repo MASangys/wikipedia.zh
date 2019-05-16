@@ -1,38 +1,40 @@
 **X JAPAN WORLD TOUR LIVE IN HONG KONG**是日本樂團[X
-JAPAN於](../Page/X_JAPAN.md "wikilink")2009年1月16日－17日在[香港](../Page/香港.md "wikilink")[亚洲国际博览馆所舉辦的演唱會](../Page/亚洲国际博览馆.md "wikilink")。
+JAPAN於](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")2009年1月16日－17日在[香港](../Page/香港.md "wikilink")[亚洲国际博览馆所舉辦的演唱會](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")。
 
 ## 概要
 
 這是[X
-JAPAN出道以來首次的海外演唱會](../Page/X_JAPAN.md "wikilink")，原本預定只唱1月17日一場，但在售票當天所有的票就全部賣完，在[香港歌迷的熱烈請求下](../Page/香港.md "wikilink")，緊急加開一場1月16日的演唱會，本次演唱會[SUGIZO也有支援](../Page/SUGIZO.md "wikilink")。
+JAPAN出道以來首次的海外演唱會](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")，原本預定只唱1月17日一場，但在售票當天所有的票就全部賣完，在[香港歌迷的熱烈請求下](../Page/香港.md "wikilink")，緊急加開一場1月16日的演唱會，本次演唱會[SUGIZO也有支援](../Page/SUGIZO.md "wikilink")。
 
 ## 參加團員
 
-  - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
-  - [TOSHI](../Page/TOSHI.md "wikilink")
-  - [PATA](../Page/PATA.md "wikilink")
+  - [YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
+  - [TOSHI](https://zh.wikipedia.org/wiki/TOSHI "wikilink")
+  - [PATA](https://zh.wikipedia.org/wiki/PATA "wikilink")
   - [Heath](../Page/Heath.md "wikilink")
 
 支援樂手
 
   - [LUNA
-    SEA吉他手](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")
+    SEA吉他手](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")
 
 ## 歌單
 
 破壊の夜 Extra（2009/1/16）
 
-  - [THE LAST SONG](../Page/THE_LAST_SONG.md "wikilink")
+  - [THE LAST
+    SONG](https://zh.wikipedia.org/wiki/THE_LAST_SONG "wikilink")
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink")
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
   - PATA Guitar solo
-  - [DRAIN](../Page/DRAIN.md "wikilink")
-  - [Longing 〜跡切れたmelody〜](../Page/Longing_〜跡切れたmelody〜.md "wikilink")
+  - [DRAIN](https://zh.wikipedia.org/wiki/DRAIN "wikilink")
+  - [Longing
+    〜跡切れたmelody〜](https://zh.wikipedia.org/wiki/Longing_〜跡切れたmelody〜 "wikilink")
     (アコースティック)
   - Piano solo
   - Without You (Short Version)
   - [ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink") (第一楽章まで)
-  - [紅](../Page/紅.md "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
 
 アンコール1
 
@@ -45,23 +47,28 @@ JAPAN出道以來首次的海外演唱會](../Page/X_JAPAN.md "wikilink")，原�
 
   - [Tears](../Page/Tears.md "wikilink")
   - [Say Anything](../Page/Say_Anything.md "wikilink") (S.E)
-  - [Longing 〜跡切れたMelody〜](../Page/Longing_〜跡切れたMelody〜.md "wikilink")
+  - [Longing
+    〜跡切れたMelody〜](https://zh.wikipedia.org/wiki/Longing_〜跡切れたMelody〜 "wikilink")
     (S.E)
-  - [UNFINISHED](../Page/UNFINISHED.md "wikilink") (S.E)
-  - [CRUCIFY MY LOVE](../Page/CRUCIFY_MY_LOVE.md "wikilink")(S.E)
+  - [UNFINISHED](https://zh.wikipedia.org/wiki/UNFINISHED "wikilink")
+    (S.E)
+  - [CRUCIFY MY
+    LOVE](https://zh.wikipedia.org/wiki/CRUCIFY_MY_LOVE "wikilink")(S.E)
 
 破壊の夜 in HONG KONG（2009/1/17）
 
-  - [Amethyst](../Page/Amethyst.md "wikilink") (S.E)
+  - [Amethyst](https://zh.wikipedia.org/wiki/Amethyst "wikilink") (S.E)
   - [Rusty Nail](../Page/Rusty_Nail.md "wikilink") (ピアノ演奏から)
-  - [WEEK END](../Page/WEEK_END.md "wikilink")
+  - [WEEK END](https://zh.wikipedia.org/wiki/WEEK_END "wikilink")
   - HEATH Bass solo
-  - [DRAIN](../Page/DRAIN.md "wikilink")
-  - [Forever Love](../Page/Forever_Love.md "wikilink") (アコースティック)
+  - [DRAIN](https://zh.wikipedia.org/wiki/DRAIN "wikilink")
+  - [Forever
+    Love](https://zh.wikipedia.org/wiki/Forever_Love "wikilink")
+    (アコースティック)
   - Piano solo
   - [Tears](../Page/Tears.md "wikilink")
-  - [紅](../Page/紅.md "wikilink")
-  - [Orgasm](../Page/Orgasm.md "wikilink")
+  - [紅](https://zh.wikipedia.org/wiki/紅 "wikilink")
+  - [Orgasm](https://zh.wikipedia.org/wiki/Orgasm "wikilink")
 
 アンコール1
 
@@ -75,10 +82,14 @@ JAPAN出道以來首次的海外演唱會](../Page/X_JAPAN.md "wikilink")，原�
   - [ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink") (第二楽章から) ～ Drum
     Break
   - [Say Anything](../Page/Say_Anything.md "wikilink") (S.E)
-  - [Longing 〜跡切れたMelody〜](../Page/Longing_〜跡切れたMelody〜.md "wikilink")
+  - [Longing
+    〜跡切れたMelody〜](https://zh.wikipedia.org/wiki/Longing_〜跡切れたMelody〜 "wikilink")
     (S.E)
-  - [UNFINISHED](../Page/UNFINISHED.md "wikilink") (S.E)
-  - [CRUCIFY MY LOVE](../Page/CRUCIFY_MY_LOVE.md "wikilink") (S.E)
+  - [UNFINISHED](https://zh.wikipedia.org/wiki/UNFINISHED "wikilink")
+    (S.E)
+  - [CRUCIFY MY
+    LOVE](https://zh.wikipedia.org/wiki/CRUCIFY_MY_LOVE "wikilink")
+    (S.E)
 
 ## 外部連結
 

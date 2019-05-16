@@ -31,7 +31,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_春季之全国小小巡演～路还远着呢AKB48!～" title="wikilink">AKB48 春季之全国小小巡演～路还远着呢AKB48!～</a></p></td>
+<td><p><a href="../Page/AKB48_春季之全国小小巡演～路还远着呢AKB48!～.md" title="wikilink">AKB48 春季之全国小小巡演～路还远着呢AKB48!～</a></p></td>
 <td><p>3月10日－4月1日</p></td>
 <td></td>
 <td></td>
@@ -43,25 +43,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100" title="wikilink">AKB48 重温时间 最佳曲目100</a></p></td>
+<td><p><a href="../Page/AKB48_重温时间_最佳曲目100.md" title="wikilink">AKB48 重温时间 最佳曲目100</a></p></td>
 <td><p>1月21日－24日</p></td>
 <td><p><a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！" title="wikilink">大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！</a></p></td>
+<td><p><a href="../Page/大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！.md" title="wikilink">大概会出演唱会DVD、不过现场看机会有限！AKB48夏日祭！</a></p></td>
 <td><p>8月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日比谷野外音樂堂" title="wikilink">日比谷野外音樂堂</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_難道說，這場演唱會的音源不會流出嗎？" title="wikilink">AKB48 難道說，這場演唱會的音源不會流出嗎？</a></p></td>
+<td><p><a href="../Page/AKB48_難道說，這場演唱會的音源不會流出嗎？.md" title="wikilink">AKB48 難道說，這場演唱會的音源不會流出嗎？</a></p></td>
 <td><p>11月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NHK大廳" title="wikilink">NHK大廳</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/忘年感謝祭_來洗牌吧，AKB！_SKE也請多關照吧" title="wikilink">忘年感謝祭 來洗牌吧，AKB！ SKE也請多關照吧</a></p></td>
+<td><p><a href="../Page/忘年感謝祭_來洗牌吧，AKB！_SKE也請多關照吧.md" title="wikilink">忘年感謝祭 來洗牌吧，AKB！ SKE也請多關照吧</a></p></td>
 <td><p>12月20日</p></td>
 <td><p>JCB HALL（今<a href="../Page/MEETS_PORT.md" title="wikilink">TOKYO DOME CITY HALL</a>）</p></td>
 <td></td>
@@ -79,13 +79,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒" title="wikilink">「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒</a></p></td>
+<td><p><a href="../Page/「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒.md" title="wikilink">「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒</a></p></td>
 <td><p>4月25日、26日</p></td>
 <td><p>NHK HALL</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48分身之術巡演／AKB104選拔成員組閣祭" title="wikilink">AKB48分身之術巡演／AKB104選拔成員組閣祭</a></p>
+<td><p><a href="../Page/AKB48分身之術巡演／AKB104選拔成員組閣祭.md" title="wikilink">AKB48分身之術巡演／AKB104選拔成員組閣祭</a></p>
 <ul>
 <li>AKB48分身之術巡演</li>
 <li>AKB104選拔成員組閣祭</li>
@@ -99,7 +99,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_夏之猴大嬸祭" title="wikilink">AKB48 夏之猴大嬸祭</a></p></td>
+<td><p><a href="../Page/AKB48_夏之猴大嬸祭.md" title="wikilink">AKB48 夏之猴大嬸祭</a></p></td>
 <td><p>9月13日</p></td>
 <td><p><a href="../Page/富士急高原樂園.md" title="wikilink">富士急高原樂園</a></p></td>
 <td></td>
@@ -146,13 +146,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_東京秋祭" title="wikilink">AKB48 東京秋祭</a></p></td>
+<td><p><a href="../Page/AKB48_東京秋祭.md" title="wikilink">AKB48 東京秋祭</a></p></td>
 <td><p>10月9日、10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/葛西臨海公園" title="wikilink">葛西臨海公園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>KYORAKU presents AKB48 SKE48 LIVE IN ASIA supported by <a href="../Page/Sky_PerfecTV!.md" title="wikilink">Sky PerfecTV!</a></p></td>
+<td><p>KYORAKU presents AKB48 SKE48 LIVE IN ASIA supported by <a href="https://zh.wikipedia.org/wiki/Sky_PerfecTV!" title="wikilink">Sky PerfecTV!</a></p></td>
 <td><p>11月16日</p></td>
 <td><p><a href="../Page/澳門.md" title="wikilink">澳門</a><a href="https://zh.wikipedia.org/wiki/金沙酒店" title="wikilink">金沙酒店金沙演奏廳</a></p></td>
 <td><p>[3]</p></td>
@@ -182,7 +182,7 @@
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB滿載～SUMMER_TOUR_2011～" title="wikilink">AKB滿載～SUMMER TOUR 2011～</a></p></td>
+<td><p><a href="../Page/AKB滿載～SUMMER_TOUR_2011～.md" title="wikilink">AKB滿載～SUMMER TOUR 2011～</a></p></td>
 <td><p>8月1日－31日</p></td>
 <td></td>
 <td></td>
@@ -260,7 +260,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48团研究生演唱会“早推得胜”" title="wikilink">AKB48团研究生演唱会“早推得胜”</a></p></td>
+<td><p><a href="../Page/AKB48团研究生演唱会“早推得胜”.md" title="wikilink">AKB48团研究生演唱会“早推得胜”</a></p></td>
 <td><p>6月5日</p></td>
 <td><p><a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p></td>
 <td></td>
@@ -292,7 +292,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014" title="wikilink">AKB48 重溫時間 最佳曲目200 2014（200位-101位）</a></p></td>
+<td><p><a href="../Page/AKB48_重溫時間_最佳曲目200_2014.md" title="wikilink">AKB48 重溫時間 最佳曲目200 2014（200位-101位）</a></p></td>
 <td><p>1月23日－26日</p></td>
 <td><p>TOKYO DOME CITY HALL</p></td>
 <td></td>
@@ -304,7 +304,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014" title="wikilink">AKB48 重溫時間 最佳曲目200 2014（100位-1位）</a></p></td>
+<td><p><a href="../Page/AKB48_重溫時間_最佳曲目200_2014.md" title="wikilink">AKB48 重溫時間 最佳曲目200 2014（100位-1位）</a></p></td>
 <td><p>4月6日</p></td>
 <td><p><a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a></p></td>
 <td></td>
@@ -362,7 +362,7 @@
 宇治市文化中心大Hall（Team K）<br />
 （Team B）<br />
 （Team K）<br />
-<a href="https://zh.wikipedia.org/wiki/名古屋國際會議場" title="wikilink">世紀廳</a>（Team 4）<br />
+<a href="../Page/名古屋國際會議場.md" title="wikilink">世紀廳</a>（Team 4）<br />
 （Team A）<br />
 （Team K）<br />
 （Team A）<br />
@@ -600,7 +600,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目100_2009" title="wikilink">AKB48 重溫時間 最佳曲目100 2009</a></p></td>
+<td><p><a href="../Page/AKB48_重溫時間_最佳曲目100_2009.md" title="wikilink">AKB48 重溫時間 最佳曲目100 2009</a></p></td>
 <td><p>初日</p></td>
 <td><p>大聲鑽石</p></td>
 <td><p>無望之淚</p></td>
@@ -644,7 +644,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目100_2013" title="wikilink">AKB48 重溫時間 最佳曲目100 2013</a></p></td>
+<td><p><a href="../Page/AKB48_重溫時間_最佳曲目100_2013.md" title="wikilink">AKB48 重溫時間 最佳曲目100 2013</a></p></td>
 <td><p>跑吧！企鵝</p></td>
 <td><p><a href="../Page/Team_K_6th_Stage「RESET」.md" title="wikilink">奇跡也趕不及</a></p></td>
 <td><p>崇尚麻里子</p></td>
@@ -655,7 +655,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014" title="wikilink">AKB48 重溫時間 最佳曲目200 2014</a></p></td>
+<td><p><a href="../Page/AKB48_重溫時間_最佳曲目200_2014.md" title="wikilink">AKB48 重溫時間 最佳曲目200 2014</a></p></td>
 <td><p>清純哲學</p></td>
 <td><p>倘若在梧桐樹什麼的</p></td>
 <td><p>戀愛的幸運餅乾</p></td>
@@ -678,7 +678,7 @@
 </tr>
 <tr class="even">
 <td><p>AKB48單獨 重溫時間 最佳曲目100 2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/這裡是羅德斯島、在這裡跳吧！" title="wikilink">紅色高跟鞋與教授</a></p></td>
+<td><p><a href="../Page/這裡是羅德斯島、在這裡跳吧！.md" title="wikilink">紅色高跟鞋與教授</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -690,7 +690,7 @@
 <tr class="odd">
 <td><p>AKB48集團 重溫時間 最佳曲目100 2016</p></td>
 <td><p>奇跡也趕不及</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/風情萬種塞車中" title="wikilink">我都知道</a></p></td>
+<td><p><a href="../Page/風情萬種塞車中.md" title="wikilink">我都知道</a></p></td>
 <td><p>去47個美麗城市</p></td>
 <td></td>
 <td></td>
@@ -856,7 +856,7 @@
   - Japan Pop Culture Concert 2012 in Washington D.C. ～Celebrating 100th
     anniversary of Cherry Blossom with AKB48 （3月27日、ワシントン Lincoln
     Theater）\[34\]
-  - [第2屆AKB48红白对抗歌合战](https://zh.wikipedia.org/wiki/第2屆AKB48红白对抗歌合战 "wikilink")（12月17日、TOKYO
+  - [第2屆AKB48红白对抗歌合战](../Page/第2屆AKB48红白对抗歌合战.md "wikilink")（12月17日、TOKYO
     DOME CITY HALL）
 
 **2013年**

@@ -1,4 +1,4 @@
-《**神兵玄奇F**》是[鍾英偉主編](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")，[曹志豪繪畫的](https://zh.wikipedia.org/wiki/曹志豪 "wikilink")[香港漫畫作品](../Page/香港漫畫.md "wikilink")，由[玉皇朝出版發行](../Page/玉皇朝.md "wikilink")。集合[神兵玄奇和](../Page/神兵玄奇.md "wikilink")[天子傳奇等眾多](../Page/天子傳奇.md "wikilink")[玉皇朝作品](../Page/玉皇朝.md "wikilink")，以港漫少見的[跨界作品形式](../Page/跨界作品.md "wikilink")，並引入[平行世界的概念](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，形成極大的世界觀。須注意的是，其他作品客串的人物，其經歷與原作有不少差異，不可當作同一角色看待。發行順序則以清末篇、二戰篇、現代篇的方式不定期發行，目前發行至二戰篇(2009)第10期便腰斬至今不出了。\[1\]
+《**神兵玄奇F**》是[鍾英偉主編](https://zh.wikipedia.org/wiki/鍾英偉 "wikilink")，[曹志豪繪畫的](../Page/曹志豪.md "wikilink")[香港漫畫作品](../Page/香港漫畫.md "wikilink")，由[玉皇朝出版發行](../Page/玉皇朝.md "wikilink")。集合[神兵玄奇和](../Page/神兵玄奇.md "wikilink")[天子傳奇等眾多](../Page/天子傳奇.md "wikilink")[玉皇朝作品](../Page/玉皇朝.md "wikilink")，以港漫少見的[跨界作品形式](../Page/跨界作品.md "wikilink")，並引入[平行世界的概念](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，形成極大的世界觀。須注意的是，其他作品客串的人物，其經歷與原作有不少差異，不可當作同一角色看待。發行順序則以清末篇、二戰篇、現代篇的方式不定期發行，目前發行至二戰篇(2009)第10期便腰斬至今不出了。\[1\]
 
 ## 故事簡介
 

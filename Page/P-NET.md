@@ -1,8 +1,8 @@
-**P-NET**是一個開放式的工業[現場總線協定](../Page/現場總線.md "wikilink")，由[丹麥的Proces](../Page/丹麥.md "wikilink")-Data
+**P-NET**是一個開放式的工業[現場總線協定](../Page/現場總線.md "wikilink")，由[丹麥的Proces](https://zh.wikipedia.org/wiki/丹麥 "wikilink")-Data
 A/S公司在1983年開發\[1\]。管理機構為國際P-NET用戶組織（International P-NET User
 Organization，IPUO）。P-NET適合在一般時間需求的工業系統中使用。一般系統的反應時間大約為微秒等級，網路線最長可到一公里。
 
-P-NET協定的標準是架構在[OSI模型上](../Page/OSI模型.md "wikilink")。大多數的現場總線協定只包括有OSI模型的第1層（[實體層](../Page/實體層.md "wikilink")）、第2層（[資料連結層](../Page/資料連結層.md "wikilink")）及第7層（[應用層](../Page/應用層.md "wikilink")），但P-NET協定除了上述的協定外，還包括OSI模型的第3層（[網絡層](../Page/網絡層.md "wikilink")）及第4層（[傳輸層](../Page/傳輸層.md "wikilink")，但在P-NET中是服務層）。
+P-NET協定的標準是架構在[OSI模型上](../Page/OSI模型.md "wikilink")。大多數的現場總線協定只包括有OSI模型的第1層（[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")）、第2層（[資料連結層](https://zh.wikipedia.org/wiki/資料連結層 "wikilink")）及第7層（[應用層](https://zh.wikipedia.org/wiki/應用層 "wikilink")），但P-NET協定除了上述的協定外，還包括OSI模型的第3層（[網絡層](https://zh.wikipedia.org/wiki/網絡層 "wikilink")）及第4層（[傳輸層](https://zh.wikipedia.org/wiki/傳輸層 "wikilink")，但在P-NET中是服務層）。
 
 ## 參考資料
 

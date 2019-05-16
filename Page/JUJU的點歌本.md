@@ -85,7 +85,7 @@ TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美惠](../Page/安室
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/LOVER_SOUL" title="wikilink">LOVER SOUL</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/JUDY_AND_MARY" title="wikilink">JUDY AND MARY</a></p></td>
+<td><p><a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a></p></td>
 <td><p><a href="../Page/YUKI_(歌手).md" title="wikilink">YUKI</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a></p></td>
 <td><p>龜田誠治</p></td>
@@ -93,7 +93,7 @@ TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美惠](../Page/安室
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><strong><a href="../Page/WHITE_LOVE.md" title="wikilink">WHITE LOVE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/WHITE_LOVE" title="wikilink">WHITE LOVE</a></strong></p></td>
 <td><p><a href="../Page/SPEED_(日本音樂團體).md" title="wikilink">SPEED</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊秩弘將" title="wikilink">伊秩弘將</a></p></td>
 <td><p>伊秩弘將</p></td>

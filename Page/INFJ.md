@@ -1,5 +1,5 @@
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**INFJ**（内倾/直觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](../Page/迈尔斯·布里格斯性格分类法.md "wikilink")，在柯尔塞气质类型测试中被称为**[咨询师](../Page/咨询师_\(角色变异\).md "wikilink")**，属于[理想者的四种类型之一](../Page/理想者_\(气质类型\).md "wikilink")。\[1\]
+**INFJ**（内倾/直觉/情感/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在柯尔塞气质类型测试中被称为**[咨询师](https://zh.wikipedia.org/wiki/咨询师_\(角色变异\) "wikilink")**，属于[理想者的四种类型之一](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")。\[1\]
 
 INFJ是最稀少的类型之一，大概佔人口的1%-3%。\[2\]\[3\]\[4\]
 
@@ -74,10 +74,10 @@ Si收集关于当下的数据，然后把它们和过去的经验比较，这过
 
 ## 相关条目
 
-  - [MBTI](../Page/MBTI.md "wikilink")
-  - [柯尔塞气质类型测试](../Page/柯尔塞气质类型测试.md "wikilink")
-  - [理想者 (气质类型)](../Page/理想者_\(气质类型\).md "wikilink")
-  - [咨询师](../Page/咨询师_\(角色变异\).md "wikilink")
+  - [MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")
+  - [柯尔塞气质类型测试](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")
+  - [理想者 (气质类型)](https://zh.wikipedia.org/wiki/理想者_\(气质类型\) "wikilink")
+  - [咨询师](https://zh.wikipedia.org/wiki/咨询师_\(角色变异\) "wikilink")
 
 ## 参考资料
 

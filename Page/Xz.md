@@ -2,13 +2,13 @@
 
 ## 设计
 
-和[gzip与](../Page/gzip.md "wikilink")[bzip2一样](../Page/bzip2.md "wikilink")，同样支持多文件压缩，但是约定不能将多于一个的目标文件压缩进同一个[归档文件](https://zh.wikipedia.org/wiki/归档文件 "wikilink")。相反，xz通常作为一种归档文件自身的压缩格式，例如使用[tar或](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")[cpio](../Page/cpio.md "wikilink")
-[Unix程序创建的归档](../Page/Unix.md "wikilink")。xz在[GNU](../Page/GNU.md "wikilink")
+和[gzip与](https://zh.wikipedia.org/wiki/gzip "wikilink")[bzip2一样](https://zh.wikipedia.org/wiki/bzip2 "wikilink")，同样支持多文件压缩，但是约定不能将多于一个的目标文件压缩进同一个[归档文件](https://zh.wikipedia.org/wiki/归档文件 "wikilink")。相反，xz通常作为一种归档文件自身的压缩格式，例如使用[tar或](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")[cpio](https://zh.wikipedia.org/wiki/cpio "wikilink")
+[Unix程序创建的归档](https://zh.wikipedia.org/wiki/Unix "wikilink")。xz在[GNU](../Page/GNU.md "wikilink")
 [coreutils](https://zh.wikipedia.org/wiki/coreutils "wikilink")（版本7.1或更新）\[1\]中被使用。xz作为压缩软件包被收录在[Fedora](../Page/Fedora.md "wikilink")（自Fedora
 12起）\[2\], [Arch Linux](../Page/Arch_Linux.md "wikilink")\[3\],
 [FreeBSD](../Page/FreeBSD.md "wikilink")、[Slackware
 Linux](https://zh.wikipedia.org/wiki/Slackware_Linux "wikilink")、[CRUX和](https://zh.wikipedia.org/wiki/CRUX "wikilink")[Funtoo
-Linux中](https://zh.wikipedia.org/wiki/Funtoo_Linux "wikilink")。
+Linux中](../Page/Funtoo_Linux.md "wikilink")。
 
 ## 实现
 
@@ -28,8 +28,8 @@ xz命令行程序曾有过一个名为pxz的分支，提供多线程压缩功能
 xz以其优异的性能和压缩比\[8\]成为了不少开源软件（例如[GNU](../Page/GNU.md "wikilink")
 [coreutils](https://zh.wikipedia.org/wiki/coreutils "wikilink") 项目,\[9\]
 [Debian](../Page/Debian.md "wikilink") 系列系统
-[deb包格式](../Page/deb.md "wikilink"),
-[openSUSE](../Page/openSUSE.md "wikilink"),\[10\]
+[deb包格式](https://zh.wikipedia.org/wiki/deb "wikilink"),
+[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink"),\[10\]
 [Fedora](../Page/Fedora.md "wikilink"),\[11\] [Arch
 Linux](../Page/Arch_Linux.md "wikilink"),\[12\]
 [Slackware](../Page/Slackware.md "wikilink"),\[13\]

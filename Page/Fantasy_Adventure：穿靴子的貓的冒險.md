@@ -1,9 +1,9 @@
 《**Fantasy
-Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日每週星期三7時00分〜7時30分期間放送的冒險系奇幻[電視動畫作品](../Page/電視動畫.md "wikilink")。於[東京電視台上放送](../Page/東京電視台.md "wikilink")。動畫製作由負責。全26話。
+Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日每週星期三7時00分〜7時30分期間放送的冒險系奇幻[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於[東京電視台上放送](../Page/東京電視台.md "wikilink")。動畫製作由負責。全26話。
 
 ## 概要
 
-本作是以《[穿靴子的貓](../Page/穿靴子的貓.md "wikilink")》與《[睡美人](../Page/睡美人.md "wikilink")》為基礎改編。
+本作是以《[穿靴子的貓](https://zh.wikipedia.org/wiki/穿靴子的貓 "wikilink")》與《[睡美人](../Page/睡美人.md "wikilink")》為基礎改編。
 
 ## 人物
 
@@ -23,7 +23,7 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 
 王宫里的公主。因为结婚典礼没有邀请恶魔而被诅咒要沉睡100年。
 
-  - ザキル（声:[小宮和枝](../Page/小宮和枝.md "wikilink")）
+  - ザキル（声:[小宮和枝](https://zh.wikipedia.org/wiki/小宮和枝 "wikilink")）
 
 有着强大魔法的悪魔。因为没有收到结婚典礼的邀请，以为被瞧不起而怀恨在心，诅咒萨拉公主要沉睡100年。
 
@@ -35,24 +35,25 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
   - 音樂 - 村上浩司
   - 音樂製作協力 - [Horipro](../Page/Horipro.md "wikilink")
   - 製作人 - 神田豊
-  - 美術設定 - [小林七郎](../Page/小林七郎.md "wikilink")、大山哲史、井野部修
+  - 美術設定 -
+    [小林七郎](https://zh.wikipedia.org/wiki/小林七郎 "wikilink")、大山哲史、井野部修
   - 美術材料 - 宮前光春、秋保富惠、東條俊寿
   - 撮影監督 - 沖野雅英
   - 編集 - 鶴渕友彰
-  - 標題 - [マキ・プロ](../Page/マキ・プロ.md "wikilink")
+  - 標題 - [マキ・プロ](https://zh.wikipedia.org/wiki/マキ・プロ "wikilink")
   - 攝影 - ティ・ニシムラ
-  - 音響監督 - [田中英行](../Page/田中英行.md "wikilink")
+  - 音響監督 - [田中英行](https://zh.wikipedia.org/wiki/田中英行 "wikilink")
   - 修音 - 池上信照
   - 效果 - [Anime Sound
-    Production](../Page/Anime_Sound_Production.md "wikilink")
+    Production](https://zh.wikipedia.org/wiki/Anime_Sound_Production "wikilink")
 
 ## 主題曲
 
   - 片頭曲「8ビートのエチュード」
     歌 -
     [千葉美加](../Page/千葉美加.md "wikilink")（[索尼唱片](../Page/Sony_Music_Records.md "wikilink")）
-    作詞 - [まさごろ](../Page/まさごろ.md "wikilink")、作曲 -
-    [REMOTE](../Page/REMOTE.md "wikilink")、編曲 -
+    作詞 - [まさごろ](https://zh.wikipedia.org/wiki/まさごろ "wikilink")、作曲 -
+    [REMOTE](https://zh.wikipedia.org/wiki/REMOTE "wikilink")、編曲 -
     [梁邦彦](../Page/梁邦彦.md "wikilink")
   - 片尾曲「Heart to Heart」
     歌 - 千葉美加（索尼唱片）
@@ -78,7 +79,7 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 4月1日</p></td>
 <td><p>1</p></td>
 <td></td>
-<td><p><a href="../Page/山田隆司.md" title="wikilink">山田隆司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田隆司" title="wikilink">山田隆司</a></p></td>
 <td><p>石崎すすむ</p></td>
 <td><p>丸山泰英</p></td>
 </tr>
@@ -103,14 +104,14 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 <td><p>4</p></td>
 <td><p>{{lang|ja|毒リンゴを食べないで</p></td>
 <td><p>}}</p></td>
-<td><p><a href="../Page/雪室俊一.md" title="wikilink">雪室俊一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雪室俊一" title="wikilink">雪室俊一</a></p></td>
 <td><p><a href="../Page/川瀨敏文.md" title="wikilink">川瀨敏文</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
 <td><p>5</p></td>
 <td></td>
-<td><p><a href="../Page/知吹愛弓.md" title="wikilink">知吹愛弓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/知吹愛弓" title="wikilink">知吹愛弓</a></p></td>
 <td><p>安部正己</p></td>
 <td></td>
 </tr>
@@ -191,7 +192,7 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 <td><p>15</p></td>
 <td></td>
 <td><p>山田隆司</p></td>
-<td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
 <td><p>矢沢則夫</p></td>
 </tr>
 <tr class="even">
@@ -288,11 +289,11 @@ Adventure：穿靴子的貓的冒險**》（）是從1992年4月1日到9月23日
 
 ## 播放電視台
 
-| 播放電視台                                | 播放期間                  | 播放時間                   |
-| ------------------------------------ | --------------------- | ---------------------- |
-| [東京電視台](../Page/東京電視台.md "wikilink") | 1992年4月1日 - 9月23日     | 每週三 07:00 - 07:30      |
-| [熊本電視台](../Page/熊本電視台.md "wikilink") | 1994年10月1日-1995年3月25日 | 每週六 08:00 - 08:30\[1\] |
-|                                      |                       |                        |
+| 播放電視台                                                   | 播放期間                  | 播放時間                   |
+| ------------------------------------------------------- | --------------------- | ---------------------- |
+| [東京電視台](../Page/東京電視台.md "wikilink")                    | 1992年4月1日 - 9月23日     | 每週三 07:00 - 07:30      |
+| [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink") | 1994年10月1日-1995年3月25日 | 每週六 08:00 - 08:30\[1\] |
+|                                                         |                       |                        |
 
 ## 出處
 

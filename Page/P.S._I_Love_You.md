@@ -1,6 +1,6 @@
 《**P.S. I Love
 You**》是[張敬軒的第十二張大碟](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")，第二張新曲加精選大碟。曾計劃於2010年10月推出，當時定位為一張新專輯，名為《[Why
-Not?](../Page/Why_Not?.md "wikilink")》，但因為張敬軒患[肺炎影響錄音工作而須一再延期](../Page/肺炎.md "wikilink")\[1\]，至2011年4月11日終於決定於四天後（4月15日）發行精選專輯，而《Why
+Not?](https://zh.wikipedia.org/wiki/Why_Not? "wikilink")》，但因為張敬軒患[肺炎影響錄音工作而須一再延期](../Page/肺炎.md "wikilink")\[1\]，至2011年4月11日終於決定於四天後（4月15日）發行精選專輯，而《Why
 Not?》也因此延期足足一年預定至2012年3月推出。
 
 專輯主題是「生離死別」，第一主打歌是《Deadline》，而第二主打歌為《P.S. I Love

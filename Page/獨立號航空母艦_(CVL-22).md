@@ -1,16 +1,16 @@
 **獨立號航空母艦**（**USS Independence
-CVL-22**）是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[航空母艦](../Page/航空母艦.md "wikilink")，為[獨立級航空母艦的首艦](../Page/獨立級航空母艦.md "wikilink")。她是美軍第四艘以[獨立為名的軍艦](../Page/獨立.md "wikilink")。
+CVL-22**）是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，為[獨立級航空母艦的首艦](https://zh.wikipedia.org/wiki/獨立級航空母艦 "wikilink")。她是美軍第四艘以[獨立為名的軍艦](https://zh.wikipedia.org/wiki/獨立 "wikilink")。
 
-獨立號是在1941年5月1日開始在[紐約造船廠建造](../Page/紐約造船廠.md "wikilink")，起造時原為[克利夫蘭級輕巡洋艦的五號艦](../Page/克利夫蘭級輕巡洋艦.md "wikilink")**阿姆斯特丹號**（USS
+獨立號是在1941年5月1日開始在[紐約造船廠建造](../Page/紐約造船廠.md "wikilink")，起造時原為[克利夫蘭級輕巡洋艦的五號艦](https://zh.wikipedia.org/wiki/克利夫蘭級輕巡洋艦 "wikilink")**阿姆斯特丹號**（USS
 Amsterdam
-CL-59）；但建造不久，日本[偷襲珍珠港](../Page/偷襲珍珠港.md "wikilink")，美國正式參與[第二次世界大戰](../Page/第二次世界大戰.md "wikilink")。此時美軍[航空母艦短缺](../Page/航空母艦.md "wikilink")，故最終將九艘建造中的克利夫蘭級改裝為航空母艦。
+CL-59）；但建造不久，日本[偷襲珍珠港](https://zh.wikipedia.org/wiki/偷襲珍珠港 "wikilink")，美國正式參與[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。此時美軍[航空母艦短缺](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，故最終將九艘建造中的克利夫蘭級改裝為航空母艦。
 
-1942年2月12日，獨立號開始改建為航空母艦，更改艦名及舷號（由CL-59改為CV-22）；而海軍則在3月18日修改建造合約。同年8月22日，獨立號下水，並在1943年1月14日服役。7月15日，獨立號等改裝航空母艦被重編為[輕型航空母艦](../Page/輕型航空母艦.md "wikilink")，舷號改為CVL-22。
+1942年2月12日，獨立號開始改建為航空母艦，更改艦名及舷號（由CL-59改為CV-22）；而海軍則在3月18日修改建造合約。同年8月22日，獨立號下水，並在1943年1月14日服役。7月15日，獨立號等改裝航空母艦被重編為[輕型航空母艦](https://zh.wikipedia.org/wiki/輕型航空母艦 "wikilink")，舷號改為CVL-22。
 
-稍後獨立號加入[太平洋戰爭](../Page/太平洋戰爭.md "wikilink")，參與多場戰役，直到戰爭結束；亦曾短暫與[薩拉托加號](../Page/薩拉托加號航空母艦_\(CV-3\).md "wikilink")、[企業號等改編為夜戰航空母艦](../Page/企業號航空母艦_\(CV-6\).md "wikilink")。
+稍後獨立號加入[太平洋戰爭](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，參與多場戰役，直到戰爭結束；亦曾短暫與[薩拉托加號](../Page/薩拉托加號航空母艦_\(CV-3\).md "wikilink")、[企業號等改編為夜戰航空母艦](../Page/企業號航空母艦_\(CV-6\).md "wikilink")。
 
 戰後獨立號參與（Operation Magic
-Carpet），運載美軍返國，並在稍後於[十字路口行動核試用作靶艦](../Page/十字路口行動.md "wikilink")。獨立號雖未在核試中沉沒，卻受嚴重的輻射污染，最終在1951年1月29日被海軍於[三藩市外海鑿沉](../Page/三藩市.md "wikilink")。
+Carpet），運載美軍返國，並在稍後於[十字路口行動核試用作靶艦](https://zh.wikipedia.org/wiki/十字路口行動 "wikilink")。獨立號雖未在核試中沉沒，卻受嚴重的輻射污染，最終在1951年1月29日被海軍於[三藩市外海鑿沉](https://zh.wikipedia.org/wiki/三藩市 "wikilink")。
 
 獨立號在二戰中獲得八顆戰鬥之星。
 
@@ -18,7 +18,7 @@ Carpet），運載美軍返國，並在稍後於[十字路口行動核試用作�
 
 ## 相關條目
 
-  - [美國航空母艦列表](../Page/美國航空母艦列表.md "wikilink")
+  - [美國航空母艦列表](https://zh.wikipedia.org/wiki/美國航空母艦列表 "wikilink")
 
 ## 註釋
 

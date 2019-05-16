@@ -1,13 +1,13 @@
 「**See
-visionS**」（）是[川田真美的第](../Page/川田真美.md "wikilink")10張[單曲](../Page/單曲.md "wikilink")。2011年2月16日由[Geneon
+visionS**」（）是[川田真美的第](../Page/川田真美.md "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年2月16日由[Geneon
 Universal Entertainment Japan,
-LLC.發售](../Page/Geneon_Universal_Entertainment_Japan,_LLC..md "wikilink")。
+LLC.發售](https://zh.wikipedia.org/wiki/Geneon_Universal_Entertainment_Japan,_LLC. "wikilink")。
 
 ## 概要
 
 「See visionS」與前作「[No
-buts\!](../Page/No_buts!.md "wikilink")」同様為電視動畫『[魔法禁書目錄II](../Page/魔法禁書目錄.md "wikilink")』的主題曲。分成初回限定盤（GNCV-29）與通常盤（GNCV-0030）兩種類型，前者附「See
-visionS」的[MV](../Page/音樂影片.md "wikilink")[DVD](../Page/DVD.md "wikilink")。而第三首曲子則是[魔法禁書目錄第一季的主題曲](../Page/魔法禁書目錄.md "wikilink")「[PSI-missing](../Page/PSI-missing.md "wikilink")」的[混音版本](../Page/混音.md "wikilink")。
+buts\!](../Page/No_buts!.md "wikilink")」同様為電視動畫『[魔法禁書目錄II](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")』的主題曲。分成初回限定盤（GNCV-29）與通常盤（GNCV-0030）兩種類型，前者附「See
+visionS」的[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。而第三首曲子則是[魔法禁書目錄第一季的主題曲](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")「[PSI-missing](../Page/PSI-missing.md "wikilink")」的[混音版本](../Page/混音.md "wikilink")。
 該樂曲於2011年1月23日由Zepp TOKYO舉行的動畫歌曲LIVE活動「DK Anime Complex Fes 2011」初次亮相。
 由川田真美所唱、電撃文庫原作、J.C.STAFF製作的動畫作品，加上前作「No
 buts\!」算起來總共是九張單曲\[1\]。發售上，銷售率比上一張單曲「No
@@ -19,13 +19,14 @@ visionS」的意思是“重新審視自己的視角”，川田表示這首曲�
 
 1.  **See visionS** \[5:26\]
       -
-        作詞：[川田真美](../Page/川田真美.md "wikilink")、作曲・編曲：[井內舞子](../Page/井內舞子.md "wikilink")
+        作詞：[川田真美](../Page/川田真美.md "wikilink")、作曲・編曲：[井內舞子](https://zh.wikipedia.org/wiki/井內舞子 "wikilink")
     <!-- end list -->
-      - [AT-X和](../Page/AT-X.md "wikilink")[UHF系各局放送的](../Page/全國獨立UHF放送協議會.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")『[魔法禁書目錄II](../Page/魔法禁書目錄.md "wikilink")』後期[主題曲](../Page/主題曲.md "wikilink")
+      - [AT-X和](../Page/AT-X.md "wikilink")[UHF系各局放送的](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[魔法禁書目錄II](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")』後期[主題曲](../Page/主題曲.md "wikilink")
 2.  **Don't interrupt me** \[4:16\]
       -
-        作詞：川田真美、作曲：[中澤伴行](../Page/中澤伴行.md "wikilink")、編曲：中澤伴行・[尾崎武士](../Page/尾崎武士.md "wikilink")
-3.  See visionS -[instrumental](../Page/器樂.md "wikilink")-
+        作詞：川田真美、作曲：[中澤伴行](https://zh.wikipedia.org/wiki/中澤伴行 "wikilink")、編曲：中澤伴行・[尾崎武士](https://zh.wikipedia.org/wiki/尾崎武士 "wikilink")
+3.  See visionS
+    -[instrumental](https://zh.wikipedia.org/wiki/器樂 "wikilink")-
 4.  Don't interrupt me -instrumental-
 5.  [PSI-missing](../Page/PSI-missing.md "wikilink") -2011 remix-
       -

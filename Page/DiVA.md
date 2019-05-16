@@ -1,5 +1,5 @@
 **DiVA**（）是由[FLAVE
-ENTERTAINMENT所屬的](../Page/office48.md "wikilink")[AKB48成員選拔組成的一個日本女子組合](../Page/AKB48.md "wikilink")。
+ENTERTAINMENT所屬的](https://zh.wikipedia.org/wiki/office48 "wikilink")[AKB48成員選拔組成的一個日本女子組合](../Page/AKB48.md "wikilink")。
 
 ## 概要
 
@@ -401,7 +401,7 @@ CM：專門学校山形V.學院</p></td>
 
 ### 電視節目
 
-  - （2011年4月29日、5月6日，[MBS電視台](https://zh.wikipedia.org/wiki/MBS电视台 "wikilink")）
+  - （2011年4月29日、5月6日，[MBS電視台](../Page/MBS电视台.md "wikilink")）
 
   - [MUSIC
     JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2011年5月8日，[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）

@@ -11,10 +11,10 @@ love
 you\!》的音樂錄影帶收錄於Type-A的兩個版本；《是你的話沒有問題》的音樂錄影帶收錄於Type-B的兩個版本，所有初回生產限定盤均附有交易卡和攝影活動參加券，劇場盤則包含握手券\[1\]。
 
 5月11日，[French
-Kiss在](../Page/French_Kiss_\(音乐团体\).md "wikilink")[幕張展覽館舉辦單曲發售的紀念特別](../Page/幕張展覽館.md "wikilink")[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")\[2\]，其後在[109百貨大樓外牆展示了單曲封面的大型看版](../Page/109百貨.md "wikilink")\[3\]，亦有在音樂節目《[MUSIC
+Kiss在](../Page/French_Kiss_\(音乐团体\).md "wikilink")[幕張展覽館舉辦單曲發售的紀念特別](../Page/幕張展覽館.md "wikilink")[握手會](../Page/握手會.md "wikilink")\[2\]，其後在[109百貨大樓外牆展示了單曲封面的大型看版](../Page/109百貨.md "wikilink")\[3\]，亦有在音樂節目《[MUSIC
 JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》上宣傳單曲\[4\]。
 
-《是你的話沒有問題》的音樂下載收入將會撥捐[東日本大震災的災民](../Page/東日本大震災.md "wikilink")\[5\]，同時是的廣告歌\[6\]，在音樂錄影帶客串的有馬拉松選手[高橋尚子](../Page/高橋尚子.md "wikilink")、職業拳擊手[龜田大毅](https://zh.wikipedia.org/wiki/龜田大毅 "wikilink")、搞笑藝人、高爾夫球手[有村智惠](https://zh.wikipedia.org/wiki/有村智惠 "wikilink")、職業摔跤手、足球員[柏木陽介](https://zh.wikipedia.org/wiki/柏木陽介 "wikilink")、[今野泰幸](../Page/今野泰幸.md "wikilink")、[前園真聖](https://zh.wikipedia.org/wiki/前園真聖 "wikilink")、競速滑冰選手、排球員[高橋美雪和手球員](../Page/高橋美雪.md "wikilink")\[7\]。單曲的音樂錄影帶亦被官方上載至[Youtube供大眾觀看](../Page/Youtube.md "wikilink")\[8\]。《太遜了I
+《是你的話沒有問題》的音樂下載收入將會撥捐[東日本大震災的災民](../Page/東日本大震災.md "wikilink")\[5\]，同時是的廣告歌\[6\]，在音樂錄影帶客串的有馬拉松選手[高橋尚子](../Page/高橋尚子.md "wikilink")、職業拳擊手[龜田大毅](https://zh.wikipedia.org/wiki/龜田大毅 "wikilink")、搞笑藝人、高爾夫球手[有村智惠](https://zh.wikipedia.org/wiki/有村智惠 "wikilink")、職業摔跤手、足球員[柏木陽介](../Page/柏木陽介.md "wikilink")、[今野泰幸](../Page/今野泰幸.md "wikilink")、[前園真聖](../Page/前園真聖.md "wikilink")、競速滑冰選手、排球員[高橋美雪和手球員](../Page/高橋美雪.md "wikilink")\[7\]。單曲的音樂錄影帶亦被官方上載至[Youtube供大眾觀看](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[8\]。《太遜了I
 love you\!》是[動畫](../Page/日本電視動畫.md "wikilink")《[SKET
 DANCE](../Page/SKET_DANCE.md "wikilink")》的主題曲\[9\]。
 

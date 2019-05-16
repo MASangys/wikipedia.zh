@@ -5,7 +5,7 @@ WORLD**」是[日本男性偶像組合](../Page/日本.md "wikilink")[KAT-TUN第
 
   - 初回限定盤1、初回限定盤2及通常盤的封面、內頁及收錄內容是不同。
   - 前成員[赤西仁宣佈離隊後首張單曲](../Page/赤西仁.md "wikilink")。
-  - 成員[龜梨和也主持日本電視台網絡](../Page/龜梨和也.md "wikilink")『[Going\!Sports\&News](../Page/Going!Sports&News.md "wikilink")』主題歌，在10月2日初次播放。
+  - 成員[龜梨和也主持日本電視台網絡](../Page/龜梨和也.md "wikilink")『[Going\!Sports\&News](https://zh.wikipedia.org/wiki/Going!Sports&News "wikilink")』主題歌，在10月2日初次播放。
   - 初回限定盤1中CD只收錄「CHANGE UR WORLD」一曲，及DVD收錄同一歌曲之Music
     Video、製作片段及在夏天舉行的**Summer Premium Event
     2010**的製作片段。
@@ -76,4 +76,4 @@ PART～』被指與在2010年2月發表的[VOCALOID歌曲](../Page/VOCALOID.md "
 [Category:2010年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.  [KAT-TUN新歌被指抄袭VOCALOID
-    相似度90%](http://yule.sohu.com/20101130/n278013423.shtml)：[搜狐娱乐](../Page/搜狐娱乐.md "wikilink")、2010年11月30日
+    相似度90%](http://yule.sohu.com/20101130/n278013423.shtml)：[搜狐娱乐](https://zh.wikipedia.org/wiki/搜狐娱乐 "wikilink")、2010年11月30日

@@ -35,15 +35,21 @@
 
 ### 專輯
 
-1.  **[ハイカラ・ガール](../Page/ハイカラ・ガール.md "wikilink")** （2001年11月21日）
-2.  **[CUTIE CINEMA REPLAY](../Page/CUTIE_CINEMA_REPLAY.md "wikilink")**
+1.  **[ハイカラ・ガール](https://zh.wikipedia.org/wiki/ハイカラ・ガール "wikilink")**
+    （2001年11月21日）
+2.  **[CUTIE CINEMA
+    REPLAY](https://zh.wikipedia.org/wiki/CUTIE_CINEMA_REPLAY "wikilink")**
     （2003年3月19日）
-3.  **[phony phonic](../Page/phony_phonic.md "wikilink")** （2003年11月19日）
+3.  **[phony
+    phonic](https://zh.wikipedia.org/wiki/phony_phonic "wikilink")**
+    （2003年11月19日）
 4.  **[S.F. sound
-    furniture](../Page/S.F._sound_furniture.md "wikilink")** （2004年6月9日）
-5.  **[NEXUS-2060](../Page/NEXUS-2060.md "wikilink")** （2005年2月9日）
+    furniture](https://zh.wikipedia.org/wiki/S.F._sound_furniture "wikilink")**
+    （2004年6月9日）
+5.  **[NEXUS-2060](https://zh.wikipedia.org/wiki/NEXUS-2060 "wikilink")**
+    （2005年2月9日）
 6.  **[L.D.K. Lounge Designers
-    Killer](../Page/L.D.K._Lounge_Designers_Killer.md "wikilink")**
+    Killer](https://zh.wikipedia.org/wiki/L.D.K._Lounge_Designers_Killer "wikilink")**
     （2005年9月21日）
 7.  **[FRUITS CLiPPER](../Page/FRUITS_CLiPPER.md "wikilink")**
     （2006年5月10日）
@@ -57,17 +63,21 @@
     FANTASY](../Page/WORLD_OF_FANTASY.md "wikilink")**（2011年5月25日）
 13. **[STEREO WORXXX](../Page/STEREO_WORXXX.md "wikilink")**（2012年3月7日）
 14. **[CAPS LOCK](../Page/CAPS_LOCK.md "wikilink")**（2013年10月23日）
-15. **[WAVE RUNNER](../Page/WAVE_RUNNER.md "wikilink")**（2015年2月18日）
+15. **[WAVE
+    RUNNER](https://zh.wikipedia.org/wiki/WAVE_RUNNER "wikilink")**（2015年2月18日）
 
 ### 精選輯
 
 1.  **[FLASH BEST](../Page/FLASH_BEST.md "wikilink")**（2009年8月26日）
-2.  **[rewind BEST-1](../Page/rewind_BEST-1.md "wikilink")**　（2013年3月6日）
-3.  **[rewind BEST-2](../Page/rewind_BEST-2.md "wikilink")**　（2013年3月6日）
+2.  **[rewind
+    BEST-1](https://zh.wikipedia.org/wiki/rewind_BEST-1 "wikilink")**　（2013年3月6日）
+3.  **[rewind
+    BEST-2](https://zh.wikipedia.org/wiki/rewind_BEST-2 "wikilink")**　（2013年3月6日）
 
 ### 混音專輯
 
-1.  **[capsule rmx](../Page/capsule_rmx.md "wikilink")**（2007年10月10日）
+1.  **[capsule
+    rmx](https://zh.wikipedia.org/wiki/capsule_rmx "wikilink")**（2007年10月10日）
 
 ## 外部連結
 

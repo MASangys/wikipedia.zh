@@ -197,7 +197,7 @@
 <!-- end list -->
 
   - 神童 拓人（しんどう‧たくと）（Shindou Takuto）
-    聲：[齋賀光希](../Page/齋賀光希.md "wikilink")；[錢欣郁](../Page/錢欣郁.md "wikilink")；[李致林](../Page/李致林.md "wikilink")、[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")（代配）
+    聲：[齋賀光希](../Page/齋賀光希.md "wikilink")；[錢欣郁](../Page/錢欣郁.md "wikilink")；[李致林](../Page/李致林.md "wikilink")、[黃積權](../Page/黃積權.md "wikilink")（代配）
     本作品男主角之一。
     雷門中學二年級，原雷門中學足球隊隊長，位置MF，背號9號。
     必殺技為「極強音律射門」、「極速轉身V2」、「進化射門」(劍城&天馬)、「奧林帕斯合奏」、「愚者之雨」(劍城)
@@ -339,7 +339,7 @@
 <!-- end list -->
 
   - 錦 龍馬（にしき りょうま）（Nishiki Ryoma）
-    聲：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")；[何志威](../Page/何志威.md "wikilink")；[雷霆](../Page/雷霆.md "wikilink")→[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
+    聲：[岩崎了](../Page/岩崎了.md "wikilink")；[何志威](../Page/何志威.md "wikilink")；[雷霆](../Page/雷霆.md "wikilink")→[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
     雷門中學二年級，位置MF，背號14號。
     必殺技為「特技運球」、「傳來寶刀」、「神龍昇天」
 
@@ -457,7 +457,7 @@
 <!-- end list -->
 
   - 濱野 海士（はまの かいじ)（Hamano Kaiji）
-    聲：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；台：[賀宇傑](../Page/賀宇傑.md "wikilink")；港：[伍秀霞](../Page/伍秀霞.md "wikilink")
+    聲：[金野潤](../Page/金野潤.md "wikilink")；台：[賀宇傑](../Page/賀宇傑.md "wikilink")；港：[伍秀霞](../Page/伍秀霞.md "wikilink")
     雷門中學二年級，位置MF，背號6號。
     黑膚而且頭髮像是海帶一樣細長彎曲，也喜歡把球衣的袖子給捲起來以及將手插在褲子裡。
     個性豪爽且喜歡釣魚，對於任何事都不會想太多。
@@ -549,7 +549,7 @@
 <!-- end list -->
 
   - 影山 輝（かげやま ひかる）（Kageyama Hikaru）
-    聲：[藤村歩](https://zh.wikipedia.org/wiki/藤村歩 "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[陳琴雲](../Page/陳琴雲.md "wikilink")→[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")
+    聲：[藤村歩](https://zh.wikipedia.org/wiki/藤村歩 "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[陳琴雲](../Page/陳琴雲.md "wikilink")→[吳羨婷](../Page/吳羨婷.md "wikilink")
     雷門中學一年級，位置FW，背號16號。
     與月山國光對戰結束後，新加入的球員。有著藍紫色像是葡萄髮型和一對充滿特色的瞳孔。是個只有兩個月的足球經驗的初學者，但卻擁有很快就學會的天份，擅於觀察對方的動作後，而藉此提升自己的技術。
     為前帝國學園總帥影山零治的姪子，並且因為知道自己的伯父對雷門中學做過不好的事情而一度不太敢報上自己的姓氏，不過在圓堂等人的認同下而順利加入球隊。
@@ -568,7 +568,7 @@
 <!-- end list -->
 
   - 菲・魯恩（フェイ・ルーン）（Fei Rune）
-    聲：[木村亞希子](../Page/木村亞希子.md "wikilink")；[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")
+    聲：[木村亞希子](../Page/木村亞希子.md "wikilink")；[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；[黃昕瑜](../Page/黃昕瑜.md "wikilink")
     第二季動畫首次出現，為本季動畫男主角。
     來自200年後的未來少年，位置是FW/MF，背號11號。在比賽中展現高超移動與跳躍能力，如同兔子一般。
     一開始在阿爾法抹滅天馬的足球時出現，與天馬組成一支由天馬擔任隊長的隊伍，並命名為「[天馬隊](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#天馬隊 "wikilink")」，為了阻止企圖消滅足球的神秘未來組織「[埃爾多拉特](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#埃爾多拉特 "wikilink")」，一同與天馬向未來的敵人進行挑戰。
@@ -621,7 +621,7 @@
         位置DF
         必殺技為「分形幾何大廈」(沃利、疊胖)
         **沃利（ウォーリー）**
-        聲：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")
+        聲：[岩崎了](../Page/岩崎了.md "wikilink")
         位置DF
         必殺技為「分形幾何大廈」(史特羅、疊胖)
         **疊胖（デブーン)**
@@ -631,7 +631,7 @@
         聲：[藤村歩](https://zh.wikipedia.org/wiki/藤村歩 "wikilink")
         位置MF。
         **曼特（マント）**
-        聲：[高垣彩陽](../Page/高垣彩陽.md "wikilink")；[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+        聲：[高垣彩陽](../Page/高垣彩陽.md "wikilink")；[何寶珊](../Page/何寶珊.md "wikilink")
         天馬隊的女性選手，位置MF，背號7號。
         有個像斗篷般的髮型。
         **多利露（ドリル）**
@@ -733,7 +733,7 @@
 <!-- end list -->
 
   - 水森龍也（みずもり たつや）
-    聲：[古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")；港：[巫哲棋](../Page/巫哲棋.md "wikilink")
+    聲：[古島清孝](../Page/古島清孝.md "wikilink")；港：[巫哲棋](../Page/巫哲棋.md "wikilink")
     原雷門足球隊隊員。位置MF。背號8號。在茶色的頭髮，褐色皮膚。為進入瞳孔的記錄在案足球會好起來的，而不是原來足球的喜愛，黑之騎士戰結束後，“第五院”暗示足球的一部分部分恐懼。
 
 ### 候補隊(雷門中學候補隊)
@@ -757,7 +757,7 @@
 <!-- end list -->
 
   - 虻山 保（あぶやま たもつ）
-    声：[古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[劉奕希](../Page/劉奕希.md "wikilink")
+    声：[古島清孝](../Page/古島清孝.md "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[劉奕希](../Page/劉奕希.md "wikilink")
     位置GK，背號1號。球隊中的巨漢、有著一頭藍色的[爆炸頭並且戴著黃色的頭帶](https://zh.wikipedia.org/wiki/爆炸頭 "wikilink")，同樣也是被劍城京介打傷並且退出球隊的成員之一。
 
 <!-- end list -->
@@ -797,7 +797,7 @@
 <!-- end list -->
 
   - 吉良 周吾（きら しゅうご）
-    声：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")
+    声：[金野潤](../Page/金野潤.md "wikilink")
     位置FW。背號10番。有著一頭直立的深綠色頭髮，同樣也是被劍城京介打傷並且退出球隊的成員之一。
 
 <!-- end list -->
@@ -842,7 +842,7 @@
 <!-- end list -->
 
   - 角馬 歩（かくま あゆむ）
-    声：[古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")；台-
+    声：[古島清孝](../Page/古島清孝.md "wikilink")；台-
     [陳幼文](../Page/陳幼文.md "wikilink")；港：[巫哲棋](../Page/巫哲棋.md "wikilink")
     擔任雷門中學足球隊的播報員，平頭且戴的厚厚的眼鏡，有跟西園一樣的鼻子和臉腮，是角馬圭太的弟弟，角馬王將之子。
 
@@ -1137,7 +1137,7 @@
 <!-- end list -->
 
   - 立向居 勇氣（たちむかい ゆうき）
-    声：[立花慎之介](../Page/立花慎之介.md "wikilink")／台：[何志威](../Page/何志威.md "wikilink")／港：[李震權](https://zh.wikipedia.org/wiki/李震權 "wikilink")
+    声：[立花慎之介](../Page/立花慎之介.md "wikilink")／台：[何志威](../Page/何志威.md "wikilink")／港：[李震權](../Page/李震權.md "wikilink")
     原陽花戶中足球部（之後成隊長）、閃電大蓬車雷門中學足球隊兼日本代表「閃電日本隊」選手，當時的位置為GK/MF。背號20。23歲（前作當時為國中1年級生）。
     和前作相比，頭髮有長長、前髪也向右分，聲音比前作更成熟。
     現在則是一名職業足球選手。
@@ -1186,7 +1186,7 @@
 
   - 綠川 龍次/綠川 龍二（みどりかわ リュウジ）
     声：[小平有希](https://zh.wikipedia.org/wiki/小平有希 "wikilink")／台
-    ：[錢欣郁](../Page/錢欣郁.md "wikilink")／港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    ：[錢欣郁](../Page/錢欣郁.md "wikilink")／港：[鄧港文](../Page/鄧港文.md "wikilink")
     原外星學園第二等級隊伍-雙子星風暴的隊長（當時名為雷傑）兼日本代表「閃電日本隊」選手，當時的位置MF，背號13。24歳（前作是國中2年級）。
     出身於吉良瞳子現在經營的育兒院「陽光育幼院」，現在在浩人的公司擔任[秘書](../Page/秘書.md "wikilink")。與前作相比，將馬尾束起來，但還是很喜歡使用諺語。
     第40集中登場現在則是反抗軍組織的一員，與響木一起將帝國學園地下做為活動據點，被賦予調查第五院財務狀況的任務。
@@ -1222,7 +1222,7 @@
 <!-- end list -->
 
   - 角馬 圭太（かくま けいた）
-    声：[古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")／港：[張錦江](../Page/張錦江.md "wikilink")
+    声：[古島清孝](../Page/古島清孝.md "wikilink")／港：[張錦江](../Page/張錦江.md "wikilink")
     前雷門中學足球隊的播報員，現交給弟弟角馬步負責。
     動畫第47話登場，現在是電視台的監製，製作了一個節目來訪問雷門中學足球部的歷史。
 
@@ -1249,7 +1249,7 @@
 <!-- end list -->
 
   - 菲・魯恩（フェイ・ルーン）（Fei Rune）
-    聲：[木村亞希子](../Page/木村亞希子.md "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")
+    聲：[木村亞希子](../Page/木村亞希子.md "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[黃昕瑜](../Page/黃昕瑜.md "wikilink")
     來自200年後的未來少年，閃電十一人GO:時空之石的主角之一，位置是FW/MF，背號11號。
     參考[雷門中學足球隊](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#先發隊伍\(雷門中學足球隊\) "wikilink")
 
@@ -1318,7 +1318,7 @@
     十一之力**巨大颱風科拉羅傑**的擁有者，位置FW，背號99號。
     參考[扎納克領域](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#扎納克領域（ザナーク・ドメイン） "wikilink")
   - 托普（トーブ）
-    聲：[鈴木晶子](https://zh.wikipedia.org/wiki/雪路 "wikilink")；港：[雷碧娜](../Page/雷碧娜.md "wikilink")
+    聲：[鈴木晶子](../Page/雪路.md "wikilink")；港：[雷碧娜](../Page/雷碧娜.md "wikilink")
     七之力**翼龍老爸**的擁有者，雷門在大恐龍時代遇到的男孩，位置DF，背號21號。
     實際是200年後的未來人，由於那個時代的時空穿越技術不是很發達，經常發生意外，而他就是在一次意外來到原始時代，發生事故時，父母警急之下將他放進救生艙逃脫，然後隨著時間波動，來到了白堊紀。由翼龍老爸養育，透過救生艙的設備學習人類語言。懂得聽恐龍們的說話。後來自己要求加入雷門成為其一員。
 
@@ -1727,7 +1727,7 @@
 <!-- end list -->
 
   - 木暮 夕彌（こぐれ ゆうや）
-    声：[宮原永海](https://zh.wikipedia.org/wiki/宮原永海 "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    声：[宮原永海](https://zh.wikipedia.org/wiki/宮原永海 "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[黃積權](../Page/黃積權.md "wikilink")
     秋空挑戰者足球隊隊長。位置DF，背號2號。
     原漫遊寺中學足球隊、閃電大蓬車雷門中學足球隊兼日本代表「閃電日本隊」選手，當時的位置是DF，背號6。23歳（前作是國中1年級）。
     目前在一流企業上班，但為了省錢而住在枯木莊，是木野秋的鄰居，也加入由木野組成的球隊「秋空的挑戰者」。
@@ -1806,7 +1806,7 @@
 <!-- end list -->
 
   - 豪炎寺 修也（ごうえんじ しゅうや）／石戶修二（イシド シュウジ）
-    声：日本：[野島裕史](../Page/野島裕史.md "wikilink")／台：[賀宇傑](../Page/賀宇傑.md "wikilink")／港：[曹啟謙](../Page/曹啟謙.md "wikilink")、[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")（代配）
+    声：日本：[野島裕史](../Page/野島裕史.md "wikilink")／台：[賀宇傑](../Page/賀宇傑.md "wikilink")／港：[曹啟謙](../Page/曹啟謙.md "wikilink")、[黃積權](../Page/黃積權.md "wikilink")（代配）
     原雷門中學足球隊兼日本代表「閃電日本隊」選手，位置是FW，背號10號。24歲（前作為國中2年級）
     十年前在沖繩時救了險被木頭壓傷的天馬，成為天馬喜歡足球的原因及就讀雷門的契機並且在十年後成為掌管所有的少年足球神秘組織「第五院」的[聖帝](https://zh.wikipedia.org/wiki/執行長 "wikilink")。
     在45集之前留著白髪但是部分卻染成藍綠色、左耳戴著[耳環](../Page/耳環.md "wikilink")，平常都戴著[斗蓬之類的服裝](https://zh.wikipedia.org/wiki/斗蓬 "wikilink")。
@@ -2302,7 +2302,7 @@
 
   - 喜多 一番（きた いちばん）
     聲-
-    [金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；港：[李凱傑](../Page/李凱傑.md "wikilink")
+    [金野潤](../Page/金野潤.md "wikilink")；港：[李凱傑](../Page/李凱傑.md "wikilink")
     天河原中學二年級，天河原中學足球隊隊長。位置FW。背號9號。眼睛細長而且眼睫毛也很長、橘色頭髮並且戴著髮圈。和其他隊友不同，相當有禮貌。由於不敢違抗「第五部門」的命令、所以會不擇手段追求勝利。在比賽輸了後、很真心地認同了神童等人的心情以及踢球方式。
     必殺技為「瘋狂變戲法」
 
@@ -2425,7 +2425,7 @@
 <!-- end list -->
 
   - 光良 夜櫻（みつよし よざくら）
-    声：[小平有希](https://zh.wikipedia.org/wiki/小平有希 "wikilink")；台：[孫若瑜](../Page/孫若瑜.md "wikilink")；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    声：[小平有希](https://zh.wikipedia.org/wiki/小平有希 "wikilink")；台：[孫若瑜](../Page/孫若瑜.md "wikilink")；港：[黃積權](../Page/黃積權.md "wikilink")
     萬能坂中學二年級。位置FW。背號10號。皮膚白皙、留著紅紫色的[團子頭髮形](https://zh.wikipedia.org/wiki/團子頭 "wikilink")，有黑眼圈，外表看起來相當中性。與磯崎、篠山一樣是由「第五部門」送到萬能坂中學的種子選手，會使用「化身」。
 
 <!-- end list -->
@@ -2625,7 +2625,7 @@
 <!-- end list -->
 
   - 五木 勝正 （いつき かつまさ）
-    聲- [金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")
+    聲- [金野潤](../Page/金野潤.md "wikilink")
     帝國學園三年級。位置MF。背号8號。
 
 <!-- end list -->
@@ -2638,7 +2638,7 @@
 <!-- end list -->
 
   - 逸見 久仁彥（いつみ くにひこ）
-    聲- [古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")；港 -
+    聲- [古島清孝](../Page/古島清孝.md "wikilink")；港 -
     [劉奕希](../Page/劉奕希.md "wikilink")
     帝國學園一年級。位置FW。背號10號。眼睛細長、右臉頬有傷、留著紅紫色頭髮。是「第五部門」送入帝國學園的種子選手。
     必殺技為「魔幻交叉」(佐佐鬼)。
@@ -2648,7 +2648,7 @@
 雷門中學在神聖之路地區預賽決賽的對手，校舍位於港口附近。是今年神聖之路的熱門優勝後補隊伍。由於全隊都是種子選手，所以據說多數人都會使用化身。在FLETS光的特別動畫中，向雷門發出挑戰狀進行挑戰。
 
   - 浪川 蓮助（なみかわ れんすけ）
-    声：峯暢也；台：[賀宇傑](../Page/賀宇傑.md "wikilink")；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    声：峯暢也；台：[賀宇傑](../Page/賀宇傑.md "wikilink")；港：[黃積權](../Page/黃積權.md "wikilink")
     海王學園二年級，海王學園足球隊隊長。位置FW。背號10號。左眼有傷、有著像鯊魚般的藍色頭髮、並且戴著髮箍。在當足球選手時遇到挫折，受到第五部門的幫助而因此覺醒而能夠發揮自己潛藏的實力。
 
 <!-- end list -->
@@ -2951,7 +2951,7 @@
 <!-- end list -->
 
   - 雪村 豹牙（ゆきむら ひょうが）
-    声：[寺島惇太](https://zh.wikipedia.org/wiki/寺島惇太 "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")→[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")(閃電十一人GO
+    声：[寺島惇太](https://zh.wikipedia.org/wiki/寺島惇太 "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")→[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")(閃電十一人GO
     VS 紙箱戰機W)
     白戀中学足球隊王牌選手。白戀中學二年級，位置FW。背号10號。
     必殺技是「永恆暴風雪」、「獵豹冰風暴」、「黑色黎明」（銀河遊戲中出現過，動畫未登場）
@@ -3105,7 +3105,7 @@
 <!-- end list -->
 
   - 貴志部 大河（きしべ たいが）
-    声：[小野友樹](../Page/小野友樹.md "wikilink")；台：[孫若瑜](../Page/孫若瑜.md "wikilink")；港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    声：[小野友樹](../Page/小野友樹.md "wikilink")；台：[孫若瑜](../Page/孫若瑜.md "wikilink")；港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     木戶川清修中學二年級，木戶川清修中學足球隊隊長。位置MF，背號9號。淺黑色的皮膚、紫色的頭髮。
     神童的勁敵，煩惱隊上因為雷門的革命與第五部門的管理而鬧內鬨的兩派球員們。但在新教練亞風爐照美開示了一條新的道路下，決定要為了球隊本身來挑戰雷門。遊戲裡能使用化身，動畫中則是沒有化身。
     必殺技為「死亡三角洲ZZ」（和泉＆跳澤）
@@ -3454,7 +3454,7 @@
 
   - 雨宮 太陽（あめみや たいよう）
     聲：[江口拓也](../Page/江口拓也.md "wikilink")
-    ；台：[何志威](../Page/何志威.md "wikilink")；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    ；台：[何志威](../Page/何志威.md "wikilink")；港：[黃積權](../Page/黃積權.md "wikilink")
     新雲学園足球隊隊長。1年級，位置FW，背號11號。
     於動畫33集登場，有著橘色像是向日葵般的頭髮。被人說是「十年難得一見的天才前鋒」，也會使用化身。
     為了身體檢查住進冬花上班的醫院而因此中止踢球，不過偶而還是會會偷跑出去踢足球。遇見前來探望劍城優一而要離開醫院的天馬，並且與天馬進行比賽過後，祝福雷門可以贏得之後的比賽。
@@ -3514,7 +3514,7 @@
 <!-- end list -->
 
   - 佐田 土佐丸
-    聲：[泰勇氣](../Page/泰勇氣.md "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+    聲：[泰勇氣](../Page/泰勇氣.md "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")
     位置GK，背號1號。
     必殺技為「反射星星」(動畫未登場)
 
@@ -3612,7 +3612,7 @@
 <!-- end list -->
 
   - 黑裂 真命（くろさき まこと）
-    声：[加藤奈奈繪](../Page/加藤奈奈繪.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[雷碧娜](../Page/雷碧娜.md "wikilink")、[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")（代配）
+    声：[加藤奈奈繪](../Page/加藤奈奈繪.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[雷碧娜](../Page/雷碧娜.md "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）
     聖堂山中學足球部的隊長。位置FW，背號9號。有著細長的眼睛、茶色的長髮而綁成馬尾留在左肩上並且也戴著一個髮圈。會使用「化身」、也被稱為「足球之神所選之子」。認同雷門的實力而堂堂正正與他們對決。為了證明石戶修二的足球方式是正確的，因此在比賽中，在被石戶告訴他們不再給予指示而要他們自由比賽時，一度感到困惑，但在接受了他所說的相信你們自己所踢的足球後，而把球隊視為自己的靠山來比賽、最終的也與其他隊友們一起露出喜悅的表情。
     必殺技為「投石器射門」
 
@@ -3737,7 +3737,7 @@
 ### 無限閃光隊（アンリミテッドシャイニング）
 
   - 白龍（はくりゅう）
-    声：[福山潤](../Page/福山潤.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")→[麥皓豐](../Page/麥皓豐.md "wikilink")
+    声：[福山潤](../Page/福山潤.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")→[麥皓豐](../Page/麥皓豐.md "wikilink")
     位置FW，一年級，背號10號(無盡閃耀隊)。有著灰白色的頭髮並且綁著馬尾。
     曾稱離開島上的劍城是「三流源種選手」
     對於被他視為對手的劍城離開「神之伊甸」後、就對他抱持著「想讓他看看自己實力」的想法。
@@ -4179,7 +4179,7 @@
 <!-- end list -->
 
   - 阿爾法（アルファ）
-    聲優：[谷山紀章](../Page/谷山紀章.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    聲優：[谷山紀章](../Page/谷山紀章.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     網際空間奧米迦的隊長，位置FW，背號10。
     擁有著冷酷的性格，在任務失敗後被送往無限獄，被2.0的比達取代位置。
     對第二階段孩童之戰中屬於黃金國小隊
@@ -4211,13 +4211,13 @@
 <!-- end list -->
 
   - 紮諾（ザノウ）
-    聲優：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
+    聲優：[岩崎了](../Page/岩崎了.md "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
     請參A-5小隊
 
 <!-- end list -->
 
   - 梅達姆（メダム）
-    聲優：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；港：[梁偉德](../Page/梁偉德.md "wikilink")
+    聲優：[金野潤](../Page/金野潤.md "wikilink")；港：[梁偉德](../Page/梁偉德.md "wikilink")
     網際空間奧米迦的汎用球員。位置DF，背號2，少數從一開始活到3.0的成員。
     對第二階段孩童之戰中屬於豪炎寺小隊
     必殺技為「防守指令03」(上層線圈)(動畫未登場)、「防守指令06」(魔法磁鐵)
@@ -4276,7 +4276,7 @@
 <!-- end list -->
 
   - 艾那姆（エイナム）
-    聲優：[野島裕史](../Page/野島裕史.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    聲優：[野島裕史](../Page/野島裕史.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")
     網際空間奧米迦的汎用球員。位置FW，背號11。
     請參考A-5小隊
 
@@ -4294,7 +4294,7 @@
 <!-- end list -->
 
   - 艾那姆（エイナム）
-    聲優：[野島裕史](../Page/野島裕史.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    聲優：[野島裕史](../Page/野島裕史.md "wikilink")；台：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")
     網際空間奧米加的汎用球員。位置FW，背號11。
     頭髮為橙色的，將劉海撥開避免阻擋視力。因為宣示效忠阿爾法，不承認比達作為隊長而組成A5小隊獨自向天馬挑戰，少數從一開始活到3.0的成員。
     對第二階段孩童戰中屬於黃金國小隊
@@ -4325,7 +4325,7 @@
         由「音速的巴里屋斯」、「重機兵 巴隆」合體而成的。
         化身技為「重型水矛」
   - 紮諾（ザノウ）
-    聲優：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
+    聲優：[岩崎了](../Page/岩崎了.md "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
     網際空間奧米加的汎用球員。位置GK，背號1。
     在奧美迦協定隊時被多次進球，在網際空間奧米加2.0時卻突然實力暴增許多。
     被伽瑪送往無限獄中，被3.0的魯吉斯取代位置。
@@ -4361,7 +4361,7 @@
 <!-- end list -->
 
   - 貝塔/比達（ベータ）
-    聲優：[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    聲優：[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     網際空間奧米加2.0隊長。位置FW，背號10。
     個性腹黑，平常十分乖巧可愛有禮，在某些特定狀況下個性會轉為極度粗暴，眼神的眼色也會因為個性的變化而有所改變。本身擁有很高的實力，以壓倒性的力量對抗雷門。是劇情中第一個出現的敵方女隊長，採用暴力的戰鬥手段，被3.0的伽瑪取代位置。
     使用意識操控取走雷門球員對足球的熱情，但對部分人沒有效果。無效的原因是因為化身具有抵禦的功效，意識操控是改變人心的東西，而化身本身就是從堅定的心所生的氣場。
@@ -4406,7 +4406,7 @@
     被康曼送往無限獄中，被3.0的巴哈姆斯取代位置。
     必殺技為「進攻指令04」(迴旋上擊)（動畫未登場）
   - 奧爾加（オルカ）
-    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")、[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")（代配）
+    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）
     網際空間奧米加2.0的汎用球員。位置MF，背號7。
     講話語氣輕浮，行事冷漠的女性。
     對第二階段孩童之戰中屬於黃金國小隊
@@ -4441,14 +4441,14 @@
     <!-- end list -->
       - **伽瑪的化身武裝**(遊戲登場)
   - 達娜（ダーナ）
-    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     網際空間奧米加3.0的汎用球員。位置MF，背號8。
     女性，有著黑髮與垂下的眼睛當作特徵。
     對第二階段孩童之戰中屬於鬼道小隊
     必殺技為「防守指令03」(上層線圈)、「進攻指令02」（直線驅動）(動畫未登場)、「射門指令06」（電漿之球）(動畫未登場)
   - 魯吉斯（ルジク）
     聲優
-    [金野润](https://zh.wikipedia.org/wiki/金野润 "wikilink")；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    [金野润](https://zh.wikipedia.org/wiki/金野润 "wikilink")；港：[黃積權](../Page/黃積權.md "wikilink")
     網際空間奧米加3.0的汎用球員。位置GK，背號1。
     對第二階段孩童之戰中屬於黃金國小隊
     必殺技為「守門指令07」(儲能陀螺)
@@ -4479,13 +4479,13 @@
     網際空間奧米加3.0的汎用球員。位置MF，背號5。
     必殺技為「進攻指令02」（直線驅動）(動畫未登場)、「防守指令06」(魔法磁鐵)(動畫未登場)、「射門指令06」（電漿射門）(動畫未登場)
   - 察拿克‧阿巴洛尼庫（ザナーク‧アバロニク）
-    聲：[小西克幸](../Page/小西克幸.md "wikilink")；港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    聲：[小西克幸](../Page/小西克幸.md "wikilink")；港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     網際空間奧米加3.0臨時教練。襲擊網際空間奧米加3.0並將其擊敗，心智控制行動。
 
 ### 察拿克領域（ザナーク・ドメイン）
 
   - 察拿克‧阿巴洛尼庫（ザナーク‧アバロニク）
-    聲：[小西克幸](../Page/小西克幸.md "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    聲：[小西克幸](../Page/小西克幸.md "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     察拿克領域隊長。位置FW，，背號10號。
     黃金國的S級危險人物，從黃金國的無限獄輕易逃出來。在康曼執行任務中出現並阻礙且在被攻擊後毫髮無傷。
     自認為打倒雷門就能消除自己的罪而控制伽瑪等人前去襲擊。
@@ -4522,7 +4522,7 @@
 <!-- end list -->
 
   - 蘇坦（シュテン）
-    声：[佐藤健輔](https://zh.wikipedia.org/wiki/佐藤健輔 "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    声：[佐藤健輔](https://zh.wikipedia.org/wiki/佐藤健輔 "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")
     位置GK，背號1。
     必殺技為「沙塵切割」。
       - **蘇坦的化身**（動畫未登場）
@@ -4542,7 +4542,7 @@
 <!-- end list -->
 
   - 夜叉（ヤシャ）
-    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    声：[佐佐木日菜子](https://zh.wikipedia.org/wiki/佐佐木日菜子 "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     位置DF，背號3。
     必殺技為「螺絲起子」。
 
@@ -4565,7 +4565,7 @@
     位置MF，背號6。
     必殺技為「蹦極衝刺」
   - 辛吉米（シンジャミ）
-    聲：[齋賀光希](../Page/齋賀光希.md "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    聲：[齋賀光希](../Page/齋賀光希.md "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     位置MF，背號7。
   - 古布利斯（ゴブリス）
     声：[ゆりん](https://zh.wikipedia.org/wiki/ゆりん "wikilink")；港：[胡家豪](../Page/胡家豪.md "wikilink")
@@ -4574,13 +4574,13 @@
 <!-- end list -->
 
   - 修羅（シュラ）
-    声：[佐藤健輔](https://zh.wikipedia.org/wiki/佐藤健輔 "wikilink")；港：[李震權](https://zh.wikipedia.org/wiki/李震權 "wikilink")
+    声：[佐藤健輔](https://zh.wikipedia.org/wiki/佐藤健輔 "wikilink")；港：[李震權](../Page/李震權.md "wikilink")
     位置FW，背號9。
 
 <!-- end list -->
 
   - 羅剎（ラセツ）
-    声：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；港：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
+    声：[金野潤](../Page/金野潤.md "wikilink")；港：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
     位置FW，背號11。
     必殺技為「食人鬼之刃」。
       - **羅剎的化身**（動畫未登場）
@@ -4614,7 +4614,7 @@
 <!-- end list -->
 
   - 雷伊・路克（レイ・ルク）
-    聲：[河野裕](https://zh.wikipedia.org/wiki/河野裕 "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    聲：[河野裕](../Page/河野裕.md "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")
     完美病毒隊長。位置MF，背號9。
     必殺技為「進攻指令11」(無影走破)(完美病毒隨機2人)、「射門指令20」(雙飛流星彈)(完美病毒隨機2人)
       - **雷伊的化身**
@@ -5069,7 +5069,7 @@
 
   - 切特（チェット）
     聲優：[野島裕史](../Page/野島裕史.md "wikilink")；
-    港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+    港：[鍾見麟](../Page/鍾見麟.md "wikilink")
     卡魯隊汎用球員,GK,背號1號。長得像女性，實際上是男性。
       - **切特的化身**
     :\* **白尾神 塔瑪茲莎（白尾神タマズサ）**
@@ -5098,7 +5098,7 @@
 <!-- end list -->
 
   - 尤卡（ヨッカ）
-    聲：[河野裕](https://zh.wikipedia.org/wiki/河野裕 "wikilink")
+    聲：[河野裕](../Page/河野裕.md "wikilink")
     卡魯隊汎用球員,MF,背號5號。
       - **尤卡的化身**(動畫未登場)
     :\* **狂戰士 迪爾貝洛（狂戦士ディアベル）**
@@ -5139,7 +5139,7 @@
 <!-- end list -->
 
   - 優奇（ユウチ）
-    聲：[河野裕](https://zh.wikipedia.org/wiki/河野裕 "wikilink")
+    聲：[河野裕](../Page/河野裕.md "wikilink")
     卡魯隊汎用球員,FW,背號11號。
     必殺技為「誘餌出擊」
       - **優奇的化身**
@@ -5194,7 +5194,7 @@
 <!-- end list -->
 
   - 胡斯（ホス）
-    聲：[河野裕](https://zh.wikipedia.org/wiki/河野裕 "wikilink")
+    聲：[河野裕](../Page/河野裕.md "wikilink")
     位置GK,背號1號。
     必殺技為「絕·顛倒世界」
       - **胡斯的化身**(動畫未登場)
@@ -5379,8 +5379,7 @@
 
   - 華凡尼‧華普(ヴァンフェニー・ヴァンプ)
 
-聲
--[笹沼堯羅](../Page/笹沼堯羅.md "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+聲 -[笹沼堯羅](../Page/笹沼堯羅.md "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")
 
   -
     位置MF，背號9。
@@ -5505,8 +5504,7 @@
 
   - 華凡尼‧華普(ヴァンフェニー・ヴァンプ)
 
-聲
--[笹沼堯羅](../Page/笹沼堯羅.md "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+聲 -[笹沼堯羅](../Page/笹沼堯羅.md "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")
 
   -
     位置MF，背號9。
@@ -5623,7 +5621,7 @@
 
   - **[聖女貞德](../Page/聖女貞德.md "wikilink")**
     聲：[壽美菜子](../Page/壽美菜子.md "wikilink")；台
-    :[曾允凡](../Page/曾允凡.md "wikilink")；港：[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")
+    :[曾允凡](../Page/曾允凡.md "wikilink")；港：[凌晞](../Page/凌晞.md "wikilink")
     符合「**二之力**」的人。
     為後世人熟悉的法國救世主，是拯救法國的女英雄，引導英法百年戰爭通向勝利方向，並被後世人稱為「戰場上的女神」。本作設定為帶眼鏡。
     性格和歷史上的貞德不一樣，對於戰鬥有所恐懼，據圓堂大介所述，其擁有的力量尚未覺醒，故未能成功拿取氣場。能聽到神的聲音，傳達神的旨意。
@@ -5795,10 +5793,10 @@
   - 織田信長
     詳情參考[時空最強十一人的能力持有者](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#時空最強十一人的能力持有者 "wikilink")
   - 木下藤吉郎
-    声：[古島清孝](https://zh.wikipedia.org/wiki/古島清孝 "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
+    声：[古島清孝](../Page/古島清孝.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
     即被後世諭為「豐臣秀吉」的人，在白鹿組一事上幫助太助一行人，從故鄉那裡來到尾張之國，希望有一天能成為織田信長身邊的官員。十分機智，並能即時理解足球的規則，臨時代替旺達巴成為雷門的教練，向臨時加入雷門的太助提出指示，並在與今川軍的足球比賽上的調配，讓信長對他得到信任，並允許他為自己辦事。
   - 前田利家
-    声：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；港：[劉奕希](../Page/劉奕希.md "wikilink")
+    声：[金野潤](../Page/金野潤.md "wikilink")；港：[劉奕希](../Page/劉奕希.md "wikilink")
   - 丹羽長秀
     声：[泰勇氣](../Page/泰勇氣.md "wikilink")；港：[周良鴻](../Page/周良鴻.md "wikilink")
   - 佐久間信盛
@@ -5814,7 +5812,7 @@
     雷門混合隊的隊員。位置FW/DF，背號25號。
     必殺技為「一夜城」(五郎太&獅子丸)
   - 市正
-    声：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")；港：[魏惠娥](../Page/魏惠娥.md "wikilink")
+    声：[金野潤](../Page/金野潤.md "wikilink")；港：[魏惠娥](../Page/魏惠娥.md "wikilink")
     雷門混合隊的隊員。位置DF，背號21號。
   - 仁悟
     声：[藤村步](../Page/藤村步.md "wikilink")；港：[許盈](../Page/許盈.md "wikilink")
@@ -5964,7 +5962,7 @@
 <!-- end list -->
 
   - 紅菊的姉御（べにぎく）
-    聲優：[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    聲優：[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     白鹿組監督。實際上是偽裝的[貝塔](https://zh.wikipedia.org/wiki/閃電十一人GO角色列表#貝塔（ベータ） "wikilink")，對白鹿組洗腦控制其行動。
 
 ### 英法百年戰爭（1427年‧法國沃庫勒爾）\[第19-21集\]
@@ -6213,7 +6211,7 @@
   - 神童拓人
     位置MF，背號9號。
   - 瞬木隼人（またたぎ はやと）(Matatagi Hayato)
-    聲：[石川界人](https://zh.wikipedia.org/wiki/石川界人 "wikilink")、[遠藤綾](../Page/遠藤綾.md "wikilink")（童年）；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")
+    聲：[石川界人](../Page/石川界人.md "wikilink")、[遠藤綾](../Page/遠藤綾.md "wikilink")（童年）；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")
     二年級，位置FW，背號11號。
     海王學園17號球員，原屬田徑部，擁有世界級的速度。雖然擁有一雙飛毛腿，但是個問題兒童。參賽的原因是賺錢為他的家人買一間大屋。家境窘困，父親許久以前離家，母親病倒無法工作，唯有讓瞬木自己照顧弟弟們。因為看到自己的朋友只是想找他玩玩具車，而不是真心想跟他當朋友，感覺被背叛，從此不肯相信他人。
     弟弟曾經肚餓而盜竊，但為了弟弟，自己甘願代替弟弟被捕，自此之後沒人再相信他說的話。
@@ -6235,7 +6233,7 @@
 <!-- end list -->
 
   - 井吹宗正（いぶき むねまさ）(Ibuki Munemasa)
-    聲：[鈴木達央](../Page/鈴木達央.md "wikilink")；港：[李安邦](https://zh.wikipedia.org/wiki/李安邦 "wikilink")
+    聲：[鈴木達央](../Page/鈴木達央.md "wikilink")；港：[李安邦](../Page/李安邦.md "wikilink")
     二年級，位置GK，背號1號。
     月山國光20號球員，戴著黑色頭巾的白髮少年。原屬籃球部，是一名擁有與全國較量的極強籃球選手。是第一次踢足球，但卻擁有極強的反射神經。在第1話中空手接下了御門春馬的「皇帝企鵝7」，卻用手運球運到了場上。參賽的原因是為了賺錢進入世界級的籃球隊留學。由於認為身為守門員的自己才是截住射門的人，所以和神童關係比較不和。
     與風暴之狼比賽中得到神童的協助後明白守門員最重要並不是單靠自己保護球門，而是與隊友一同保護球門後跟神童和解。
@@ -6256,7 +6254,7 @@
 <!-- end list -->
 
   - 野咲櫻（野咲さくら）(Nozaki Sakura)
-    聲：[遠藤綾](../Page/遠藤綾.md "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")
+    聲：[遠藤綾](../Page/遠藤綾.md "wikilink")；台：[陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink")；港：[凌晞](../Page/凌晞.md "wikilink")
     二年級，位置MF，背號7號。
     大海原中學12號球員，粉紅髮，專長[韻律體操的少女](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。擁有靈活的身體的女孩，以成為新體操的世界第一為目標，在練習上十分熱心。參賽的原因是為了進入知名體操學校留學。自小被父母嚴格要求，因此對於自己表現不佳有非常大的恐懼，怕被父母數落，甚至會為了突顯自己而傷害他人，也因此受到原體操社的成員排擠。
     必殺技為「華美之圈」
@@ -6275,7 +6273,7 @@
 <!-- end list -->
 
   - 九坂隆二 (Kusaka Ryuuji)
-    聲：[岡林史泰](https://zh.wikipedia.org/wiki/岡林史泰 "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[陳耀楠](https://zh.wikipedia.org/wiki/陳耀楠 "wikilink")
+    聲：[岡林史泰](https://zh.wikipedia.org/wiki/岡林史泰 "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[陳耀楠](../Page/陳耀楠.md "wikilink")
     三年級，位置MF，背號6號。
     友信學園14號球員，蝎色皮膚戴頭巾的不良少年。他表面上和藹可親，但一旦生氣，就會變得十分恐怖，是個一群不良少年的頭頭。一旦他憤怒到MAX狀態就會進入**怒髮衝天**模式，把頭巾拿掉、睜開雙眼一副惡鬼模樣。小時候是一個很溫柔的小孩，但為了保護一個叫小覺的女孩，而被三個惡霸欺負。自始發展出兇惡的另一面。參賽的原因是為了幫助自己和朋友回學校讀書。
     因為説森村很氣人而一直想跟避開他的森村道歉，後來眾人聽到他其實是跟森村告白。自此二人關係好轉。
@@ -6295,7 +6293,7 @@
 <!-- end list -->
 
   - 鐵角真 (Tetsukado Shin)
-    聲：[泰勇氣](../Page/泰勇氣.md "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+    聲：[泰勇氣](../Page/泰勇氣.md "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")
     二年級，位置DF，背號5號。
     萬能坂中16號球員。拳擊部的雷鬼頭少年，身手很敏捷。是世界級的選手，但由於在幫助一個被打劫的人時，被行劫者用鐵棍打傷右手而退出了。參賽的原因是賺錢去修理他家的漁船。
     在與反抗日本隊的練習賽時与南泽搶球時扭到腳踝，因而想起右手被劫者用鐵棍打傷，所以對足球產生了恐懼，了解自己還太弱了。在與風暴狂狼隊賽中明白到要面對恐懼，而成功使用必殺技。在火之惑星伽頓比賽中的時候發現信助的手受傷了，為了幫助信助使出了新必殺技(可從己方球門踢到敵方球門)
@@ -6338,7 +6336,7 @@
 <!-- end list -->
 
   - 皆帆和人 (Minaho Kazuto)
-    聲：[代永翼](../Page/代永翼.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+    聲：[代永翼](../Page/代永翼.md "wikilink")；台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")；港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")
     一年級，位置DF，背號3號。
     天河原中19號球員。有一個刑警父親，擁有特別的推理能力。喜歡觀察人的臉色，對於所有成員的不同一面瞭如指掌。多與真名部一起行動，不過因為在父親方面持不同意見而關係開始惡化。非常仰慕自己的父親（被稱為**日本的[夏洛克·福爾摩斯](https://zh.wikipedia.org/wiki/夏洛克·福爾摩斯 "wikilink")**），希望可以跟他一樣，參賽的原因也是為了去[蘇格蘭場實習](../Page/蘇格蘭場.md "wikilink")。
     馬赫猛虎下半場期間，注意到真名部的不安，指出真名部想父親認同自己，並說到自己的父親在自己年少時已經過世的事實。二人在比賽中憑著結合個人技巧（真名部：計算，皆帆：觀察）擔當戰略家。比賽後與真名部和解。
@@ -6392,7 +6390,7 @@
 <!-- end list -->
 
   - 波多姆利・艾母納塔（ポトムリ・エムナトル）(Potomuri Emnator)
-    聲：[三木真一郎](../Page/三木真一郎.md "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")
+    聲：[三木真一郎](../Page/三木真一郎.md "wikilink")；台：[陳幼文](../Page/陳幼文.md "wikilink")；港：[鍾見麟](../Page/鍾見麟.md "wikilink")
     一個基爾的科學家，因為看見有一個黑洞威脅母星，打算製作宇宙等離子光砲對抗黑洞。但因為秘銀這種材料沒時間製作，而製作一個小宇宙飛船送走卡特拉。但最後卡特拉命令波多姆利自己逃跑。
     因為飛船沒有逃脫成功，而失去肉體（也就是靈魂），在宇宙中飄蕩，終於來到地球並且進入當時生命垂危的水川身體裡救了她，並與她共用一個身體。其他時候會用小丑娃娃的身體。被瑪魯巴帶走。
 
@@ -6502,7 +6500,7 @@
 <!-- end list -->
 
   - 南斗炫（ナム・ドヒョン）
-    聲：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")；港：[李震權](https://zh.wikipedia.org/wiki/李震權 "wikilink")
+    聲：[岩崎了](../Page/岩崎了.md "wikilink")；港：[李震權](../Page/李震權.md "wikilink")
     位置GK，背號1號。
     必殺技為「大爆發相撲推手」
 
@@ -6575,7 +6573,7 @@
 <!-- end list -->
 
   - 科爾·拉爾傑(コール・ラルーゼ)
-    聲：[岩崎了](https://zh.wikipedia.org/wiki/岩崎了 "wikilink")；港：[李鎮然](../Page/李鎮然.md "wikilink")
+    聲：[岩崎了](../Page/岩崎了.md "wikilink")；港：[李鎮然](../Page/李鎮然.md "wikilink")
     新蔚藍巨浪隊的隊長。位置MF，背號8號。
     必殺技為「史前巨鯊」
 
@@ -6695,7 +6693,7 @@
 <!-- end list -->
 
   - 泰米爾·納斯爾（タミル・ナスル）
-    聲：小林優；港：[黃積權](https://zh.wikipedia.org/wiki/黃積權 "wikilink")
+    聲：小林優；港：[黃積權](../Page/黃積權.md "wikilink")
     波斯彎刀隊的隊員。位置MF，背號8號。
 
 <!-- end list -->
@@ -6706,7 +6704,7 @@
 <!-- end list -->
 
   - 卡西姆·巴德爾（カシム・バドル）
-    聲：[石川界人](https://zh.wikipedia.org/wiki/石川界人 "wikilink")；港：[胡家豪](../Page/胡家豪.md "wikilink")
+    聲：[石川界人](../Page/石川界人.md "wikilink")；港：[胡家豪](../Page/胡家豪.md "wikilink")
     波斯彎刀隊的隊員。位置FW，背號11號。
 
 <!-- end list -->
@@ -7254,7 +7252,7 @@
 <!-- end list -->
 
   - 斑達·克洛古(バンダ・コローギュ)
-    聲：[金野潤](https://zh.wikipedia.org/wiki/金野潤 "wikilink")/台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")
+    聲：[金野潤](../Page/金野潤.md "wikilink")/台：[郭霖](https://zh.wikipedia.org/wiki/郭霖 "wikilink")
     位置MF，背號7號。似乎是由[蟋蟀演化而來](../Page/蟋蟀.md "wikilink")，隊伍上最樂觀開朗的成員，自願擔任代表為地球十一人帶路，也邀他們和自己的隊伍一同練習，在櫻、森村、真名部、九坂被襲擊時，跳出來與幻惑草奮鬥，比賽前夕告知九坂自己只能活到明天，卻在比賽剩下不多時間的時候去世了，雖然如此他還是微笑地和九坂告別。
     必殺技為「巨藤」、「蘑菇跳躍」(動畫版皆未出現)、「觸手抓取」(動畫版限定)
 
@@ -7360,7 +7358,7 @@
 <!-- end list -->
 
   - 剛達雷斯·巴藍(ガンダレス・バラン/Gandales Baran)
-    聲：[興津和幸](../Page/興津和幸.md "wikilink")；港：[李震權](https://zh.wikipedia.org/wiki/李震權 "wikilink")
+    聲：[興津和幸](../Page/興津和幸.md "wikilink")；港：[李震權](../Page/李震權.md "wikilink")
     位置FW，背號11號。
     法拉姆·歐比亞斯人，為紫天王一員，琉喀爾的弟弟。非常敬佩(近乎盲目崇拜)哥哥琉喀爾。不論哥哥説甚麽也會贊同。雖然能在二人合作下壓製地球十一人，但在被皆帆使用了「你們看！那裡有個幽浮」後撤退。
     遊戲版裡二人沒有撤退。
@@ -7481,7 +7479,7 @@
 為法拉姆迪的銀河系中一顆行星。因為黑洞和過量人口而決定侵略其他行星。銀河聯邦評議會跟他們商議出解決方案: 銀河巨人盃大賽。
 
   - 拉拉雅·奧比伊斯 （ララヤ・オビエス）(Lalaya Obies)
-    聲：[高垣彩陽](../Page/高垣彩陽.md "wikilink")；港：[何寶珊](https://zh.wikipedia.org/wiki/何寶珊 "wikilink")
+    聲：[高垣彩陽](../Page/高垣彩陽.md "wikilink")；港：[何寶珊](../Page/何寶珊.md "wikilink")
     法拉姆·歐比亞斯的女王。在看見劍城京介使用倒掛之劍後對其産生興趣，命令她的僕人把他帶過來，以作為她的丈夫。
 
 <!-- end list -->
@@ -7503,7 +7501,7 @@
     [花田光](../Page/花田光.md "wikilink")(成年版)
     [悠木碧](../Page/悠木碧.md "wikilink")(黑精靈版)
     拉拉雅的父親(劍城於28集中首次提到)、伊雷多的兒子，同時也是[閃電十一人GO3
-    銀河超新星版的限定人物](https://zh.wikipedia.org/wiki/閃電十一人GO3_銀河 "wikilink")。拉拉雅會選擇劍城當作丈夫的原因，或許是因為劍城長得很像自己的父親。
+    銀河超新星版的限定人物](../Page/閃電十一人GO3_銀河.md "wikilink")。拉拉雅會選擇劍城當作丈夫的原因，或許是因為劍城長得很像自己的父親。
     遊戲版中因為父親伊雷多阻止亞古洛斯拯救母親而與他戰鬥，不小心把他推下城樓而成為新的國王。他在一場戰爭中喪生，後來以黑色精靈的狀態復活。
     在動畫版第36話中，以死前的國王狀態出現在劍城面前。
 
@@ -7537,14 +7535,14 @@
 <!-- end list -->
 
   - 卡特拉·帕吉 (カトラ・ペイジ) (Katra Paige)
-    聲：[上田麗奈](https://zh.wikipedia.org/wiki/上田麗奈 "wikilink")；港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")
+    聲：[上田麗奈](../Page/上田麗奈.md "wikilink")；港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")
     其耶爾的公主。只出現在天馬面前，並向他說明要拯救整個銀河系，便要在銀河巨人盃大賽中獲勝。在每一個星球上都帶領天馬拿到一塊閃光石。
 
 <!-- end list -->
 
   - 沙傑斯·路古(サージェス・ルーグ)
     其耶爾的王宮士兵，效忠於卡特拉，同時為[閃電十一人GO3
-    銀河大霹靂版的限定人物](https://zh.wikipedia.org/wiki/閃電十一人GO3_銀河 "wikilink")。
+    銀河大霹靂版的限定人物](../Page/閃電十一人GO3_銀河.md "wikilink")。
     遊戲版中，因為受到另一個國家的難民冤枉殺死自己的同伴而被流放，跟卡特拉承諾會在她有危險的時候回來保護她。一次為了回來保護卡特拉而喪生，後來以白色精靈的狀態復活。
     在動畫版第36話中，以死前的狀態出現在天馬面前。
 
@@ -7758,7 +7756,7 @@
 <!-- end list -->
 
   - 達庫斯甘·巴表(ダクスガン・バービュー)
-    聲：[勝杏里](https://zh.wikipedia.org/wiki/勝杏里 "wikilink")；港：[陳卓智](../Page/陳卓智.md "wikilink")
+    聲：[勝杏里](../Page/勝杏里.md "wikilink")；港：[陳卓智](../Page/陳卓智.md "wikilink")
     銀河大賽進行期間，就由他對觀眾進行實況播報，長得像章魚，常常混著一些英文當發語詞或語助詞(ex:Oh Yeah\!Baby\!)。
 
 ## 銀河十一人
@@ -7865,7 +7863,7 @@
 <!-- end list -->
 
   - 阿斯雷・魯恩 （アスレイ・ルーン ）
-    聲：[家中宏](../Page/家中宏.md "wikilink")；港：[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")→[張方正](../Page/張方正.md "wikilink")
+    聲：[家中宏](../Page/家中宏.md "wikilink")；港：[鄧港文](../Page/鄧港文.md "wikilink")→[張方正](../Page/張方正.md "wikilink")
     支援者Ｘ，菲的父親，告訴札納克關於自身的力量的老人都是他，原本是埃爾多拉特的幹部。
     他把手鐲送給豪炎寺和優一。第二季第7集從豪炎寺所知，他有協助成立「第五院」。
     前往黃名子的時代，也就是已故妻子與菲同齡的年輕時代。託付她守護菲的任務然後將黃名子送到雷門。在第46集現出原本的面貌，說出自己是菲的父親。
@@ -7887,7 +7885,7 @@
 <!-- end list -->
 
   - 松居 安二郎
-    聲：[松木安太郎](https://zh.wikipedia.org/wiki/松木安太郎 "wikilink")
+    聲：[松木安太郎](../Page/松木安太郎.md "wikilink")
     FFIV2的解說員，負責向角馬王將與觀眾說明現況的人。
 
 <!-- end list -->

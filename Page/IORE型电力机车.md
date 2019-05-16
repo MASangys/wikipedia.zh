@@ -1,15 +1,15 @@
-**IORE型电力机车**，又名**基律納型電力機車**（龐巴迪內部名稱），是由[Adtranz公司及后继的](../Page/Adtranz.md "wikilink")[庞巴迪运输集团为](../Page/庞巴迪运输.md "wikilink")[瑞典及](../Page/瑞典.md "wikilink")[挪威的](../Page/挪威.md "wikilink")[卢基矿业公司](../Page/卢基矿业公司.md "wikilink")（LKAB）轄下MTAB鐵路设计制造的大功率干线货运电力机车，屬原Adtranz
-「Octeron」車系（即龐巴迪TRAXX）。該款機車主要行走連接[瑞典和](../Page/瑞典.md "wikilink")[挪威的](../Page/挪威.md "wikilink")[鐵礦石運輸鐵路](../Page/鐵礦石.md "wikilink")。為數共17輛、34節機車自2000年至2014年間投入服務。
+**IORE型电力机车**，又名**基律納型電力機車**（龐巴迪內部名稱），是由[Adtranz公司及后继的](../Page/Adtranz.md "wikilink")[庞巴迪运输集团为](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[瑞典及](../Page/瑞典.md "wikilink")[挪威的](../Page/挪威.md "wikilink")[卢基矿业公司](https://zh.wikipedia.org/wiki/卢基矿业公司 "wikilink")（LKAB）轄下MTAB鐵路设计制造的大功率干线货运电力机车，屬原Adtranz
+「Octeron」車系（即龐巴迪TRAXX）。該款機車主要行走連接[瑞典和](../Page/瑞典.md "wikilink")[挪威的](../Page/挪威.md "wikilink")[鐵礦石運輸鐵路](https://zh.wikipedia.org/wiki/鐵礦石 "wikilink")。為數共17輛、34節機車自2000年至2014年間投入服務。
 
 ## 發展歷史
 
-為配合盧基礦業於2005年將鐵礦產量提升35%的計劃，盧基轄下MTAB鐵路公司（1999年起成為全資附屬公司）於1998年起為其專用鐵路進行升級工程，同時為此向[Adtranz訂購](../Page/Adtranz.md "wikilink")9輛（18節）本型機車，並向南非Transnet公司訂購750輛100噸級[漏斗車](../Page/漏斗車.md "wikilink")；而本型機車的合約於1998年9月15日簽立，所有機車均於Adtranz瑞士工廠（原[瑞士機車和機器製造廠機車部](../Page/瑞士機車和機器製造廠.md "wikilink")）生產散件，並於德國進行組裝。
+為配合盧基礦業於2005年將鐵礦產量提升35%的計劃，盧基轄下MTAB鐵路公司（1999年起成為全資附屬公司）於1998年起為其專用鐵路進行升級工程，同時為此向[Adtranz訂購](../Page/Adtranz.md "wikilink")9輛（18節）本型機車，並向南非Transnet公司訂購750輛100噸級[漏斗車](https://zh.wikipedia.org/wiki/漏斗車 "wikilink")；而本型機車的合約於1998年9月15日簽立，所有機車均於Adtranz瑞士工廠（原[瑞士機車和機器製造廠機車部](https://zh.wikipedia.org/wiki/瑞士機車和機器製造廠 "wikilink")）生產散件，並於德國進行組裝。
 
 首輛機車101/102號於2000年8月運抵瑞典進行測試，並於翌年1月10日正式上線營運。及後，收購Adtranz的[龐巴迪運輸亦於](../Page/龐巴迪運輸.md "wikilink")2002至2005年間交付其餘8輛機車。
 
 2007年8月23日，盧基再增購4輛（及後再於2011年第二次增購4輛）同型機車，以取代舊式機車，同時增加鐵礦年產量至3300萬噸。此等機車已於2010-11年及2013-14年分兩次配屬。
 
-在車鈎方面，首輛機車出廠時安裝[詹尼車鈎](../Page/詹尼車鈎.md "wikilink")，但由於牽引的漏斗車採用[SA-3車鈎](../Page/SA-3車鈎.md "wikilink")，因此由103/104號機車起，出廠時改配SA-3車鈎，而101/102號後來亦改為使用SA-3。
+在車鈎方面，首輛機車出廠時安裝[詹尼車鈎](https://zh.wikipedia.org/wiki/詹尼車鈎 "wikilink")，但由於牽引的漏斗車採用[SA-3車鈎](https://zh.wikipedia.org/wiki/SA-3車鈎 "wikilink")，因此由103/104號機車起，出廠時改配SA-3車鈎，而101/102號後來亦改為使用SA-3。
 
 本型機車名稱「IORE」乃出自鐵和礦石的英文「Iron」及「Ore」，並併合為「IORE」單詞，以顯示盧基礦業的業務。
 
@@ -24,13 +24,13 @@ IORE型電力機車是十二軸貨運電力機車，適用於供電制式為15kV
 
 ## 衍生型
 
-[中國鐵路的](../Page/中國鐵路.md "wikilink")[HXD3B型電力機車即以此型號機車為設計基礎](../Page/HXD3B型電力機車.md "wikilink")，但由雙機固定重聯改為單機設計，並改用同樣由龐巴迪生產的改進版本電動機連IGBT-VVVF模塊，而供電格式及車鈎分別改為國鐵的25kV
+[中國鐵路的](https://zh.wikipedia.org/wiki/中國鐵路 "wikilink")[HXD3B型電力機車即以此型號機車為設計基礎](https://zh.wikipedia.org/wiki/HXD3B型電力機車 "wikilink")，但由雙機固定重聯改為單機設計，並改用同樣由龐巴迪生產的改進版本電動機連IGBT-VVVF模塊，而供電格式及車鈎分別改為國鐵的25kV
 50Hz交流電及詹尼車鈎 。
 
 ## 参见
 
   - [庞巴迪TRAXX](../Page/庞巴迪TRAXX.md "wikilink")
-  - [HXD3B型电力机车](../Page/HXD3B型电力机车.md "wikilink")
+  - [HXD3B型电力机车](https://zh.wikipedia.org/wiki/HXD3B型电力机车 "wikilink")
 
 ## 外部連結
 

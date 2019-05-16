@@ -1,5 +1,5 @@
 **Microsoft
-WebMatrix**是一款由[微软公司开发的免费的轻量级Web开发工具](../Page/微软.md "wikilink")。用它可以开发运行在[Windows服务器上的网站](../Page/Windows.md "wikilink")。值得一提的是，它允许开发者使用许多著名的[开源Web应用程序](../Page/开源.md "wikilink")。\[1\]
+WebMatrix**是一款由[微软公司开发的免费的轻量级Web开发工具](../Page/微软.md "wikilink")。用它可以开发运行在[Windows服务器上的网站](https://zh.wikipedia.org/wiki/Windows "wikilink")。值得一提的是，它允许开发者使用许多著名的[开源Web应用程序](https://zh.wikipedia.org/wiki/开源 "wikilink")。\[1\]
 
 ## 版本
 

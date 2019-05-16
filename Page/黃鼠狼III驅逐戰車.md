@@ -35,7 +35,7 @@ III**，也有**貂鼠**之稱）是納粹德國黃鼠狼系列的第三種型�
 
 此型號的黃鼠狼以德軍PaK 40
 7.5公分反坦克砲為主要武裝，用LT-38戰車H型製成，LT-38戰車H型的引擎與LT-38戰車一樣位於後方。該黃鼠狼與上文提及的有不同之處，戰鬥室位於LT-38戰車的中心，可以讓組員保持低姿，減少組員暴露於小型武器攻擊的機會，但是由於引擎位於後方，空間只能容納兩位組員站立。側面大片裝甲提供組員額外的保護，然而，馬蹄形狀的裝甲只有提供正面及側面的保護，後面及上面則是空無一物。此型號黃鼠狼可攜帶38發炮彈，就如Sd.Kfz.
-139一樣，這輛黃鼠狼也有一挺捷克製造的[ZB37式重機槍](https://zh.wikipedia.org/wiki/ZB37式重機槍 "wikilink")。
+139一樣，這輛黃鼠狼也有一挺捷克製造的[ZB37式重機槍](../Page/ZB37式重機槍.md "wikilink")。
 
 這輛黃鼠狼的全名是「*7.5 cm PaK 40/3 auf Panzerkampfwagen 38(t) Ausf.H, Sd.Kfz.
 138*」，Sd.Kfz. 138
@@ -73,7 +73,7 @@ Division 1 Hermann Göring）。
   - [黃鼠狼II驅逐戰車](../Page/黃鼠狼II驅逐戰車.md "wikilink")
   - [Nahkampfkanone
     1](https://zh.wikipedia.org/wiki/Nahkampfkanone_1 "wikilink")（近戰自行火炮1型），瑞士的類似設計。
-  - [貂鼠式步兵戰車](https://zh.wikipedia.org/wiki/貂鼠式步兵戰車 "wikilink")（[冷战時期同名戰車](../Page/冷战.md "wikilink")）
+  - [貂鼠式步兵戰車](../Page/貂鼠式步兵戰車.md "wikilink")（[冷战時期同名戰車](../Page/冷战.md "wikilink")）
 
 ## 外部連結
 

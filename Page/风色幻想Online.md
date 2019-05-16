@@ -1,23 +1,23 @@
-**风色幻想Online**是由台湾[弘煜科技所制作的](../Page/弘煜科技.md "wikilink")[大型多人线上角色扮演遊戲](../Page/MMORPG.md "wikilink")，由[游戏新干线于](../Page/游戏新干线.md "wikilink")2009年8月18日开始正式运营。通称为“风色Online”或“AGO”（其全称风色幻想
+**风色幻想Online**是由台湾[弘煜科技所制作的](../Page/弘煜科技.md "wikilink")[大型多人线上角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，由[游戏新干线于](https://zh.wikipedia.org/wiki/游戏新干线 "wikilink")2009年8月18日开始正式运营。通称为“风色Online”或“AGO”（其全称风色幻想
 Adventure Generation
 Online英文部分的缩写）。收费制度为免费（有商城系统，参见[网络游戏免费模式](../Page/网络游戏免费模式.md "wikilink")）。
 
-日版标题更改为“”（[法語](../Page/法語.md "wikilink")「青空」之意），于2010年1月12日开始正式运营。此版以下称日版。日版的角色名字、名词、地名等都与台版有较大出入，另外日版中为重要角色添加了语音（人物說話時的日語配音）。日本版和臺灣原版最大的不同，在於常與日本當地作品結合，如2010年8月11日與[我的妹妹哪有這麼可愛推出角色衣裝](../Page/我的妹妹哪有這麼可愛.md "wikilink")，以及2012年1月11日起和遊戲公司[TYPE-MOON作品](../Page/TYPE-MOON.md "wikilink")[命運停駐之夜之前傳](../Page/命運停駐之夜.md "wikilink")[Fate/Zero合作推出Servant系統](../Page/Fate/Zero.md "wikilink")，和2012年4月25日的[超級索尼子等](../Page/超級索尼子.md "wikilink")。中国大陆版由[悠游网代理](../Page/悠游网.md "wikilink")，于2010年3月18日开始运营，以下称陆版。
+日版标题更改为“”（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「青空」之意），于2010年1月12日开始正式运营。此版以下称日版。日版的角色名字、名词、地名等都与台版有较大出入，另外日版中为重要角色添加了语音（人物說話時的日語配音）。日本版和臺灣原版最大的不同，在於常與日本當地作品結合，如2010年8月11日與[我的妹妹哪有這麼可愛推出角色衣裝](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")，以及2012年1月11日起和遊戲公司[TYPE-MOON作品](../Page/TYPE-MOON.md "wikilink")[命運停駐之夜之前傳](https://zh.wikipedia.org/wiki/命運停駐之夜 "wikilink")[Fate/Zero合作推出Servant系統](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")，和2012年4月25日的[超級索尼子等](../Page/超級索尼子.md "wikilink")。中国大陆版由[悠游网代理](https://zh.wikipedia.org/wiki/悠游网 "wikilink")，于2010年3月18日开始运营，以下称陆版。
 
 台灣版於2014年10月31日結束运营。
 
-马来西亚地区版由[CilyGame代理](../Page/CilyGame.md "wikilink")，于2011年5月16日开始封闭测试。以下称英文版。
+马来西亚地区版由[CilyGame代理](https://zh.wikipedia.org/wiki/CilyGame "wikilink")，于2011年5月16日开始封闭测试。以下称英文版。
 
 以下如无特别说明，皆指由游戏新干线运营的版本；或称台版。
 
 ## 概要
 
-继承[弘煜科技出品的著名](../Page/弘煜科技.md "wikilink")[角色扮演遊戲](../Page/角色扮演遊戲.md "wikilink")，[魔導聖戰～風色幻想～世界观的网络游戏](../Page/魔導聖戰～風色幻想～.md "wikilink")。
-[魔導聖戰～風色幻想～主要描绘南方大陆的故事](../Page/魔導聖戰～風色幻想～.md "wikilink")，而本作则是加入了北方大陆的设定。
+继承[弘煜科技出品的著名](../Page/弘煜科技.md "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")，[魔導聖戰～風色幻想～世界观的网络游戏](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")。
+[魔導聖戰～風色幻想～主要描绘南方大陆的故事](https://zh.wikipedia.org/wiki/魔導聖戰～風色幻想～ "wikilink")，而本作则是加入了北方大陆的设定。
 
 ### 代言人
 
-台版[代言人为](../Page/代言人.md "wikilink")[李毓芬](../Page/李毓芬.md "wikilink")。中版代言人为[豆花妹](../Page/豆花妹.md "wikilink")。目前尚未有日版有代言人的消息。
+台版[代言人为](https://zh.wikipedia.org/wiki/代言人 "wikilink")[李毓芬](../Page/李毓芬.md "wikilink")。中版代言人为[豆花妹](https://zh.wikipedia.org/wiki/豆花妹 "wikilink")。目前尚未有日版有代言人的消息。
 台版、中版分别在游戏中以代言人形象设计了NPC\[1\]，并命名为“小芬”“小汝”， 一般在举行活动时能够到该NPC处承接特殊任务。
 
 ### 主题歌
@@ -25,7 +25,7 @@ Online英文部分的缩写）。收费制度为免费（有商城系统，参�
 台版代言人李毓芬是该版本之同名主题歌的演唱者\[2\]。
 
 该主题歌在游戏登录画面中，自“封嶽之塔”资料片沿用至今。
-台版还曾于[蒟蒻閣举办过主题歌](../Page/蒟蒻閣.md "wikilink")[翻唱比赛活动](../Page/翻唱.md "wikilink")\[3\]。
+台版还曾于[蒟蒻閣举办过主题歌](https://zh.wikipedia.org/wiki/蒟蒻閣 "wikilink")[翻唱比赛活动](https://zh.wikipedia.org/wiki/翻唱 "wikilink")\[3\]。
 中版、日版、英文版是否有主题歌尚不详。
 
 ## 剧情
@@ -170,7 +170,7 @@ Online英文部分的缩写）。收费制度为免费（有商城系统，参�
 
 ### 装备
 
-本游戏中的装备皆有设定最低装备等级。基本是要求等级越高的装备其基本素质越高。另外，一部分的装备也有限制角色性别。（参见[“外观问题”](../Page/风色幻想Online#特殊生态.md "wikilink")）
+本游戏中的装备皆有设定最低装备等级。基本是要求等级越高的装备其基本素质越高。另外，一部分的装备也有限制角色性别。（参见[“外观问题”](https://zh.wikipedia.org/wiki/风色幻想Online#特殊生态 "wikilink")）
 
 可装备的位置分为：（上起）头部、脸部、主手、副手、身体、脚部、饰品（两件）、套装、背部。其中主手和副手的武器可能会受到职业的限制；另外也有一些类别是无法同时装备：如主手装备“枪”时，副手无法装备“盾”。
 头部、脸部、武器、副手（一部分）、套装及背部的装备会影响角色外观。

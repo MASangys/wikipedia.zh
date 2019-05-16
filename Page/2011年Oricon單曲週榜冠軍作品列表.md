@@ -1,4 +1,4 @@
-**2011年Oricon單曲週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**2011年Oricon單曲週榜冠軍作品列表**列出2011年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有50張冠軍單曲誕生，有兩張單曲獲得兩週冠軍。
 
@@ -53,7 +53,7 @@
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
-<td><p><a href="../Page/Why?_(Keep_Your_Head_Down).md" title="wikilink">Why? (Keep Your Head Down)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Why?_(Keep_Your_Head_Down)" title="wikilink">Why? (Keep Your Head Down)</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>23.1</p></td>
 <td><p>1</p></td>
@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p>2月21日</p></td>
 <td><p><a href="../Page/Each_Other&#39;s_Way_～旅途中～.md" title="wikilink">Each Other's Way ～旅途中～</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>10.1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -124,7 +124,7 @@
 <tr class="even">
 <td><p>4月18日</p></td>
 <td><p><a href="../Page/Jet_Coaster_Love.md" title="wikilink">Jet Coaster Love</a></p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
 <td><p>12.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -137,14 +137,14 @@
 </tr>
 <tr class="even">
 <td><p>5月2日</p></td>
-<td><p><a href="../Page/T.W.L/Yellow_Pansy_Street.md" title="wikilink">T.W.L／Yellow Pansy Street</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T.W.L/Yellow_Pansy_Street" title="wikilink">T.W.L／Yellow Pansy Street</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>20.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月9日</p></td>
-<td><p><a href="../Page/Let_me_cry_(张根硕单曲).md" title="wikilink">Let me cry</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Let_me_cry_(张根硕单曲)" title="wikilink">Let me cry</a></p></td>
 <td><p><a href="../Page/張根碩.md" title="wikilink">張根碩</a></p></td>
 <td><p>11.9</p></td>
 <td><p>1</p></td>
@@ -172,7 +172,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月6日</p></td>
-<td><p><a href="../Page/Everyday，髮箍.md" title="wikilink">Everyday，髮箍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Everyday，髮箍" title="wikilink">Everyday，髮箍</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>133.4</p></td>
 <td><p>1</p></td>
@@ -194,7 +194,7 @@
 <tr class="even">
 <td><p>6月27日</p></td>
 <td><p><a href="../Page/Time_(近畿小子).md" title="wikilink">Time</a></p></td>
-<td><p><a href="../Page/近畿小子.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿小子" title="wikilink">KinKi Kids</a></p></td>
 <td><p>15.1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -250,7 +250,7 @@
 <tr class="even">
 <td><p>8月22日</p></td>
 <td><p><a href="../Page/Everybody_Go.md" title="wikilink">Everybody Go</a></p></td>
-<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>31.6</p></td>
 <td><p>1</p></td>
 </tr>
@@ -284,8 +284,8 @@
 </tr>
 <tr class="odd">
 <td><p>9月26日</p></td>
-<td><p><a href="../Page/Rising_Sun/總有一天….md" title="wikilink">Rising Sun／總有一天…</a></p></td>
-<td><p><a href="../Page/放浪兄弟.md" title="wikilink">EXILE</a>／<a href="../Page/佐藤篤志.md" title="wikilink">EXILE ATSUSHI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rising_Sun/總有一天…" title="wikilink">Rising Sun／總有一天…</a></p></td>
+<td><p><a href="../Page/放浪兄弟.md" title="wikilink">EXILE</a>／<a href="https://zh.wikipedia.org/wiki/佐藤篤志" title="wikilink">EXILE ATSUSHI</a></p></td>
 <td><p>20.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -298,22 +298,22 @@
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
-<td><p><a href="../Page/Bo_peep_Bo_peep.md" title="wikilink">Bo peep Bo peep</a></p></td>
-<td><p><a href="../Page/T-ara.md" title="wikilink">T-ARA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bo_peep_Bo_peep" title="wikilink">Bo peep Bo peep</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ARA</a></p></td>
 <td><p>5.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>10月17日</p></td>
 <td><p><a href="../Page/Green_a.live.md" title="wikilink">Green a.live</a></p></td>
-<td><p><a href="../Page/YUI_(歌手).md" title="wikilink">YUI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></p></td>
 <td><p>5.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月24日</p></td>
 <td></td>
-<td><p><a href="../Page/彩虹樂團.md" title="wikilink">彩虹樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彩虹樂團" title="wikilink">彩虹樂團</a></p></td>
 <td><p>8.1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -340,7 +340,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月21日</p></td>
-<td><p><a href="../Page/愛就OK.md" title="wikilink">愛就OK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛就OK" title="wikilink">愛就OK</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>38.3</p></td>
 <td><p>1</p></td>
@@ -355,7 +355,7 @@
 <tr class="odd">
 <td><p>12月5日</p></td>
 <td><p><a href="../Page/最初的Mail.md" title="wikilink">最初的Mail</a></p></td>
-<td><p><a href="../Page/French_Kiss.md" title="wikilink">French Kiss</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/French_Kiss" title="wikilink">French Kiss</a></p></td>
 <td><p>13.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -376,7 +376,7 @@
 <tr class="even">
 <td><p>12月26日</p></td>
 <td><p><a href="../Page/We_never_give_up!.md" title="wikilink">We never give up!</a></p></td>
-<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
 <td><p>24.6</p></td>
 <td><p>1</p></td>
 </tr>

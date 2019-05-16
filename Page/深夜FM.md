@@ -14,14 +14,14 @@
   - [秀　愛](../Page/秀愛.md "wikilink") 飾 高善英
   - [劉智泰](../Page/劉智泰.md "wikilink") 飾 韓東秀
   - [馬東錫](https://zh.wikipedia.org/wiki/馬東錫 "wikilink") 飾 孫德泰
-  - [鄭滿植](https://zh.wikipedia.org/wiki/鄭滿植 "wikilink") 飾 吳靖茂
-  - [崔松賢](https://zh.wikipedia.org/wiki/崔松賢 "wikilink") 飾 朴慶陽
+  - [鄭滿植](../Page/鄭滿植.md "wikilink") 飾 吳靖茂
+  - [崔松賢](../Page/崔松賢.md "wikilink") 飾 朴慶陽
   - [金民奎](https://zh.wikipedia.org/wiki/金民奎 "wikilink") 飾 楊又韓
   - [申多恩](../Page/申多恩.md "wikilink") 飾 高雅英
   - [李俊荷](https://zh.wikipedia.org/wiki/李俊荷 "wikilink") 飾 高恩秀
   - [崔熙媛](https://zh.wikipedia.org/wiki/崔熙媛 "wikilink") 飾 高賢智
   - [趙石賢](https://zh.wikipedia.org/wiki/趙石賢 "wikilink")
-  - [郭度沅](https://zh.wikipedia.org/wiki/郭度沅 "wikilink")
+  - [郭度沅](../Page/郭度沅.md "wikilink")
 
 ### 客串出演
 

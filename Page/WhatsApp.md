@@ -16,7 +16,7 @@ Koum）則加入Facebook[董事會](https://zh.wikipedia.org/wiki/董事會 "wik
 
 ### 手機
 
-  - [iOS](../Page/iOS.md "wikilink")（僅支援[iPhone使用](../Page/iPhone.md "wikilink")，[iPod及](../Page/iPod.md "wikilink")[iPad需要](https://zh.wikipedia.org/wiki/iPad "wikilink")[越獄使用](https://zh.wikipedia.org/wiki/越狱_\(iOS\) "wikilink")\[15\]）。
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（僅支援[iPhone使用](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPod及](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPad需要](https://zh.wikipedia.org/wiki/iPad "wikilink")[越獄使用](https://zh.wikipedia.org/wiki/越狱_\(iOS\) "wikilink")\[15\]）。
   - [Android](../Page/Android.md "wikilink")（2016年底停止支援2.1－2.2版本\[16\]）
   - [Windows
     Phone](../Page/Windows_Phone.md "wikilink")（2016年底停止支援7.1版本\[17\]）
@@ -30,7 +30,7 @@ Koum）則加入Facebook[董事會](https://zh.wikipedia.org/wiki/董事會 "wik
 
 ### 網頁版
 
-WhatsApp於2015年1月21日推出「WhatsApp網頁版」功能，目前僅提供[iOS](../Page/iOS.md "wikilink")、[Android與](../Page/Android.md "wikilink")[Windows
+WhatsApp於2015年1月21日推出「WhatsApp網頁版」功能，目前僅提供[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android與](../Page/Android.md "wikilink")[Windows
 Phone平台的用戶使用](../Page/Windows_Phone.md "wikilink")。用戶必須更新為最新版本的WhatsApp，並透過[瀏覽器進入網頁版頁面後](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，掃描[QR條碼驗證成功即可使用](https://zh.wikipedia.org/wiki/QR條碼 "wikilink")。
 
 ### 數據傳輸
@@ -75,7 +75,7 @@ WhatsApp的帳號是綑綁用戶手機的電話號碼，但用戶如需要更改
 Phone免費註冊的帳戶](../Page/Windows_Phone.md "wikilink")，則無需再次付費。Windows
 Phone版本的WhatsApp是免費下載和註冊使用的。
 
-在[iOS版本中](../Page/iOS.md "wikilink")，用戶要先付0.99美元，才擁有在[App
+在[iOS版本中](https://zh.wikipedia.org/wiki/iOS "wikilink")，用戶要先付0.99美元，才擁有在[App
 Store的下載及使用權](https://zh.wikipedia.org/wiki/App_Store "wikilink")，或是在不定時會推出限時免費的優惠時段以衝高市佔率，通常在受到其他通訊軟體製造新聞話題時，而使Whatsapp的通訊量暴跌，便會出現免費下載的情況，例如曾於2011年5月31日至6月2日期間注冊可免費使用。
 
 ### 统一收費
@@ -115,8 +115,8 @@ Authority，CBP）共同針對知名行動程式WhatsApp的隱私作法展開調
   - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [LINE](https://zh.wikipedia.org/wiki/连我 "wikilink")
   - [微信](../Page/微信.md "wikilink")
-  - [Kik](https://zh.wikipedia.org/wiki/Kik "wikilink")
-  - [KakaoTalk](https://zh.wikipedia.org/wiki/KakaoTalk "wikilink")
+  - [Kik](../Page/Kik.md "wikilink")
+  - [KakaoTalk](../Page/KakaoTalk.md "wikilink")
   - [TalkBox](https://zh.wikipedia.org/wiki/TalkBox_語音聊 "wikilink")
 
 ## 外部链接

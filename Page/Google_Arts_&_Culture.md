@@ -43,7 +43,7 @@ Project**）於2011年2月1日推出，Google與世界各地[博物館合作](ht
 <td><p><em>St Francis in the Desert</em><br />
 <a href="https://zh.wikipedia.org/wiki/沙漠中的圣方济各" title="wikilink">沙漠中的圣方济各</a></p></td>
 <td><p>Giovanni Bellini<br />
-<a href="https://zh.wikipedia.org/wiki/乔瓦尼·贝利尼" title="wikilink">乔瓦尼·贝利尼</a><br />
+<a href="../Page/乔瓦尼·贝利尼.md" title="wikilink">乔瓦尼·贝利尼</a><br />
 (started around 1480)[5]</p></td>
 </tr>
 <tr class="even">

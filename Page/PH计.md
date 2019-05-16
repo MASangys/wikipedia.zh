@@ -4,8 +4,8 @@
 
 [PH_Meter.jpg](https://zh.wikipedia.org/wiki/File:PH_Meter.jpg "fig:PH_Meter.jpg")
 
-**pH计**是一种用于测量液体的[pH值的电子仪器](../Page/pH值.md "wikilink")（也有特殊的探针來测量半固体物质），可以確認物質的[酸](../Page/酸性.md "wikilink")[鹼性](../Page/鹼.md "wikilink")。一个典型的pH计由一个特殊的测量探头〔[玻璃電極](../Page/玻璃電極.md "wikilink")（glass
-electrode）〕连接到[電壓表](../Page/電壓表.md "wikilink")，量測并显示pH读数。為使測量結果準確，在使用前建議進行30分鐘左右的預熱。
+**pH计**是一种用于测量液体的[pH值的电子仪器](https://zh.wikipedia.org/wiki/pH值 "wikilink")（也有特殊的探针來测量半固体物质），可以確認物質的[酸](https://zh.wikipedia.org/wiki/酸性 "wikilink")[鹼性](https://zh.wikipedia.org/wiki/鹼 "wikilink")。一个典型的pH计由一个特殊的测量探头〔[玻璃電極](https://zh.wikipedia.org/wiki/玻璃電極 "wikilink")（glass
+electrode）〕连接到[電壓表](https://zh.wikipedia.org/wiki/電壓表 "wikilink")，量測并显示pH读数。為使測量結果準確，在使用前建議進行30分鐘左右的預熱。
 
 ## pH探头
 
@@ -13,7 +13,7 @@ electrode）〕连接到[電壓表](../Page/電壓表.md "wikilink")，量測并
 
 ## 仪器
 
-pH计电路类似[电压表](../Page/电压表.md "wikilink")，但并不指示电压大小，而是pH值。由于其玻璃电极具有高电阻（20\~1000MΩ）的特点，输入信号必须非常大。因此，一个简单的pH计电路通常在反相配置中含有一个运算放大器，其总电压增益大约为-17倍。反相放大器将探头产生的小电压(+0.059
+pH计电路类似[电压表](https://zh.wikipedia.org/wiki/电压表 "wikilink")，但并不指示电压大小，而是pH值。由于其玻璃电极具有高电阻（20\~1000MΩ）的特点，输入信号必须非常大。因此，一个简单的pH计电路通常在反相配置中含有一个运算放大器，其总电压增益大约为-17倍。反相放大器将探头产生的小电压(+0.059
 V/pH)转换成pH值。为了在指示器上显示pH值，通常还要再在其结果上加7V，例如在中性pH值溶液中，探头的输出电压为0V。
 pH计的示数值为：0×17+7 =7。
 

@@ -3,7 +3,7 @@
 
 ## 功能
 
-TRPM8是一种[离子通道](../Page/离子通道.md "wikilink")，在活化时它允许[钠离子](../Page/钠.md "wikilink")、[钾离子](../Page/钾.md "wikilink")、铯离子和钙离子进入细胞内，这导致[细胞的](../Page/细胞.md "wikilink")[去极化以及产生一个](https://zh.wikipedia.org/wiki/去极化 "wikilink")[动作电位](../Page/动作电位.md "wikilink")，并最终将导致生物感受到冷的感觉。
+TRPM8是一种[离子通道](../Page/离子通道.md "wikilink")，在活化时它允许[钠离子](../Page/钠.md "wikilink")、[钾离子](../Page/钾.md "wikilink")、铯离子和钙离子进入细胞内，这导致[细胞的](../Page/细胞.md "wikilink")[去极化以及产生一个](../Page/去极化.md "wikilink")[动作电位](../Page/动作电位.md "wikilink")，并最终将导致生物感受到冷的感觉。
 
 在感觉神经元上会表达这种TRPM8蛋白，该蛋白会被温度降低，或者诸如[薄荷醇](../Page/薄荷醇.md "wikilink")、等冷感剂激活。对于TRPM8来说，WS-12和CPS-369是最具选择性的激动剂\[2\]\[3\]。
 

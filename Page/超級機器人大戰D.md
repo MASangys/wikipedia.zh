@@ -1,4 +1,4 @@
-《**超級機械人大戰D**》（），為[萬普發行的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")。簡稱「機戰D」「SRWD」。
+《**超級機械人大戰D**》（），為[萬普發行的](../Page/萬普.md "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「機戰D」「SRWD」。
 
 ## 概要
 

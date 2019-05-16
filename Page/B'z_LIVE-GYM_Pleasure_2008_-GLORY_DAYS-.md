@@ -32,7 +32,7 @@ DAYS-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")12張LIVE作�
 
 1.  [BAD
     COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")
-2.  [ultra soul](../Page/ultra_soul.md "wikilink")
+2.  [ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
 3.  [裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")
 4.  [BLOWIN'](../Page/BLOWIN'.md "wikilink")
 5.  [ねがい](https://zh.wikipedia.org/wiki/ねがい "wikilink")
@@ -45,13 +45,13 @@ DAYS-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")12張LIVE作�
 11. [OCEAN](https://zh.wikipedia.org/wiki/OCEAN "wikilink")
 12. [NATIVE
     DANCE](https://zh.wikipedia.org/wiki/NATIVE_DANCE "wikilink")
-13. [Oh\! Darling](https://zh.wikipedia.org/wiki/Oh!_Darling "wikilink")
+13. [Oh\! Darling](../Page/Oh!_Darling.md "wikilink")
 14. [だからその手を離して](https://zh.wikipedia.org/wiki/だからその手を離して "wikilink")
 15. [いつかまたここで](https://zh.wikipedia.org/wiki/いつかまたここで "wikilink")
 16. [ONE](https://zh.wikipedia.org/wiki/ONE "wikilink")
 17. [LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")
 18. [ZERO](https://zh.wikipedia.org/wiki/ZERO "wikilink")
-19. [juice](../Page/juice.md "wikilink")
+19. [juice](https://zh.wikipedia.org/wiki/juice "wikilink")
 20. [愛のバクダン](https://zh.wikipedia.org/wiki/愛のバクダン "wikilink")
 21. [BANZAI](https://zh.wikipedia.org/wiki/BANZAI "wikilink")
 22. [Brotherhood](https://zh.wikipedia.org/wiki/Brotherhood "wikilink")

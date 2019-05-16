@@ -1,4 +1,4 @@
-**和惡魔訂契約的女人**（），[關西電視台與](../Page/關西電視台.md "wikilink")[富士電視台聯播網於](../Page/富士電視台.md "wikilink")2010年10月12日至2010年12月21日間播出的[火十劇](../Page/關西電視台、富士電視台週二晚間十點連續劇.md "wikilink")，首集加長15分鐘。本劇由[菅野美穗主演](../Page/菅野美穗.md "wikilink")，為[菅野美穗和](../Page/菅野美穗.md "wikilink")[玉木宏自](../Page/玉木宏.md "wikilink")2004年《[讓愛看得見](../Page/讓愛看得見.md "wikilink")》後再度合作。
+**和惡魔訂契約的女人**（），[關西電視台與](../Page/關西電視台.md "wikilink")[富士電視台聯播網於](../Page/富士電視台.md "wikilink")2010年10月12日至2010年12月21日間播出的[火十劇](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")，首集加長15分鐘。本劇由[菅野美穗主演](../Page/菅野美穗.md "wikilink")，為[菅野美穗和](../Page/菅野美穗.md "wikilink")[玉木宏自](../Page/玉木宏.md "wikilink")2004年《[讓愛看得見](../Page/讓愛看得見.md "wikilink")》後再度合作。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 <!-- end list -->
 
   -
-    本作的主角。寵物美容師，工作於[東京都](../Page/東京都.md "wikilink")[港區白金的一間](../Page/港區_\(東京都\).md "wikilink")[寵物沙龍](../Page/寵物.md "wikilink")「MON
+    本作的主角。寵物美容師，工作於[東京都](../Page/東京都.md "wikilink")[港區白金的一間](../Page/港區_\(東京都\).md "wikilink")[寵物沙龍](https://zh.wikipedia.org/wiki/寵物 "wikilink")「MON
     ANGE」；亦是[醫院犬兒治療的義工](../Page/醫院.md "wikilink")。在19歳時因被誣陷殺害親姊夫以及其子而服刑13年，出獄後開始調查事件的真相。
 
 <!-- end list -->
@@ -45,12 +45,13 @@
 
 <!-- end list -->
 
-  - **鶴見 真人**〔つるみ まさと〕（27） - [水上劍星](../Page/水上劍星.md "wikilink")
+  - **鶴見 真人**〔つるみ まさと〕（27） -
+    [水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
 
 <!-- end list -->
 
   -
-    真島常去那所[酒吧的酒保](../Page/酒吧.md "wikilink")（Bartender）。總是支持真島以及和他一起分享討論事件。
+    真島常去那所[酒吧的酒保](https://zh.wikipedia.org/wiki/酒吧 "wikilink")（Bartender）。總是支持真島以及和他一起分享討論事件。
 
 <!-- end list -->
 
@@ -63,7 +64,8 @@
 
 <!-- end list -->
 
-  - **宇喜田 元**〔うきた はじめ〕（52） - [吉田鋼太郎](../Page/吉田鋼太郎.md "wikilink")
+  - **宇喜田 元**〔うきた はじめ〕（52） -
+    [吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")
 
 <!-- end list -->
 
@@ -72,7 +74,8 @@
 
 <!-- end list -->
 
-  - **門倉 了**〔かどくら りょう〕（32） - [RIKIYA](../Page/RIKIYA.md "wikilink")
+  - **門倉 了**〔かどくら りょう〕（32） -
+    [RIKIYA](https://zh.wikipedia.org/wiki/RIKIYA "wikilink")
 
 <!-- end list -->
 
@@ -81,7 +84,8 @@
 
 <!-- end list -->
 
-  - **三輪 周平**〔みわ しゅうへい〕（53） - [モロ師岡](../Page/モロ師岡.md "wikilink")
+  - **三輪 周平**〔みわ しゅうへい〕（53） -
+    [モロ師岡](https://zh.wikipedia.org/wiki/モロ師岡 "wikilink")
 
 <!-- end list -->
 
@@ -90,7 +94,8 @@
 
 <!-- end list -->
 
-  - **藤井 優**〔ふじい まさる〕 - [永江祐貴](../Page/永江祐貴.md "wikilink")
+  - **藤井 優**〔ふじい まさる〕 -
+    [永江祐貴](https://zh.wikipedia.org/wiki/永江祐貴 "wikilink")
 
 <!-- end list -->
 
@@ -99,7 +104,8 @@
 
 <!-- end list -->
 
-  - **高部**〔たかべ〕 - [大下源一郎](../Page/大下源一郎.md "wikilink")
+  - **高部**〔たかべ〕 -
+    [大下源一郎](https://zh.wikipedia.org/wiki/大下源一郎 "wikilink")
 
 <!-- end list -->
 
@@ -113,30 +119,34 @@
 <!-- end list -->
 
   -
-    寵物美容師，[寵物沙龍](../Page/寵物.md "wikilink")「MON ANGE」員工，芽衣子的同事。
+    寵物美容師，[寵物沙龍](https://zh.wikipedia.org/wiki/寵物 "wikilink")「MON
+    ANGE」員工，芽衣子的同事。
 
 <!-- end list -->
 
-  - **小山內 琴美**〔おさない ことみ〕（42） - [横山惠](../Page/横山惠.md "wikilink")
+  - **小山內 琴美**〔おさない ことみ〕（42） -
+    [横山惠](https://zh.wikipedia.org/wiki/横山惠 "wikilink")
 
 <!-- end list -->
 
   -
-    [寵物沙龍](../Page/寵物.md "wikilink")「MON ANGE」老闆，相當同情芽衣子的處境。
+    [寵物沙龍](https://zh.wikipedia.org/wiki/寵物 "wikilink")「MON
+    ANGE」老闆，相當同情芽衣子的處境。
 
 <!-- end list -->
 
   - **野上 千津**〔のがみ ちづ〕（65） -
-    [岩本多代](../Page/岩本多代.md "wikilink")（第1-4話、第7-8話、最終話）
+    [岩本多代](https://zh.wikipedia.org/wiki/岩本多代 "wikilink")（第1-4話、第7-8話、最終話）
 
 <!-- end list -->
 
   -
-    芽衣子、小夜子的母親，現居於[安老院](../Page/安老院.md "wikilink")。
+    芽衣子、小夜子的母親，現居於[安老院](https://zh.wikipedia.org/wiki/安老院 "wikilink")。
 
 <!-- end list -->
 
-  - **溝口 猛** - [金井勇太](../Page/金井勇太.md "wikilink")（第1-2話、第6-8話）
+  - **溝口 猛** -
+    [金井勇太](https://zh.wikipedia.org/wiki/金井勇太 "wikilink")（第1-2話、第6-8話）
 
 <!-- end list -->
 
@@ -150,7 +160,7 @@
 <!-- end list -->
 
   -
-    存放在三輪氏家裡的[傑克羅素梗母犬](../Page/傑克羅素梗.md "wikilink")，因三輪周平失蹤及其妻繁代住院留醫，於是由芽衣子照顧。在營業時間以外則由真島照顧。
+    存放在三輪氏家裡的[傑克羅素梗母犬](https://zh.wikipedia.org/wiki/傑克羅素梗 "wikilink")，因三輪周平失蹤及其妻繁代住院留醫，於是由芽衣子照顧。在營業時間以外則由真島照顧。
 
 <!-- end list -->
 
@@ -165,7 +175,7 @@
 
 **（第1話）**
 
-  - 北村 良和 - [濱田晃](../Page/浜田晃.md "wikilink")(第1-7話)
+  - 北村 良和 - [濱田晃](https://zh.wikipedia.org/wiki/浜田晃 "wikilink")(第1-7話)
 
 <!-- end list -->
 
@@ -174,7 +184,7 @@
 
 <!-- end list -->
 
-  - 菅沼 俊也 - [波岡一喜](../Page/波岡一喜.md "wikilink")(第1-7話)
+  - 菅沼 俊也 - [波岡一喜](https://zh.wikipedia.org/wiki/波岡一喜 "wikilink")(第1-7話)
 
 <!-- end list -->
 
@@ -183,7 +193,7 @@
 
 <!-- end list -->
 
-  - 菅沼 知香 - [原田佳奈](../Page/原田佳奈.md "wikilink")
+  - 菅沼 知香 - [原田佳奈](https://zh.wikipedia.org/wiki/原田佳奈 "wikilink")
 
 <!-- end list -->
 
@@ -192,7 +202,7 @@
 
 <!-- end list -->
 
-  - 三輪 繁代 - [梅澤昌代](../Page/梅沢昌代.md "wikilink")
+  - 三輪 繁代 - [梅澤昌代](https://zh.wikipedia.org/wiki/梅沢昌代 "wikilink")
 
 <!-- end list -->
 
@@ -201,7 +211,7 @@
 
 <!-- end list -->
 
-  - 北村 麻由美 - [石橋桂](../Page/石橋桂.md "wikilink")
+  - 北村 麻由美 - [石橋桂](https://zh.wikipedia.org/wiki/石橋桂 "wikilink")
 
 <!-- end list -->
 
@@ -210,7 +220,7 @@
 
 <!-- end list -->
 
-  - 吉井 宏太 - [川野直輝](../Page/川野直輝.md "wikilink")（第1-2話）
+  - 吉井 宏太 - [川野直輝](https://zh.wikipedia.org/wiki/川野直輝 "wikilink")（第1-2話）
 
 <!-- end list -->
 
@@ -219,9 +229,11 @@
 
 **（第2話）**
 
-  - 「パティースリー立花」法式餅店的店長 - [俵木藤汰](../Page/俵木藤汰.md "wikilink")
-  - 櫻葉館學園高等學校・現理事長 - [兒玉賴信](../Page/児玉賴信.md "wikilink")
-  - 吉井 孝 - [大鷹明良](../Page/大鷹明良.md "wikilink")
+  - 「パティースリー立花」法式餅店的店長 -
+    [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")
+  - 櫻葉館學園高等學校・現理事長 -
+    [兒玉賴信](https://zh.wikipedia.org/wiki/児玉賴信 "wikilink")
+  - 吉井 孝 - [大鷹明良](https://zh.wikipedia.org/wiki/大鷹明良 "wikilink")
 
 <!-- end list -->
 
@@ -230,7 +242,8 @@
 
 <!-- end list -->
 
-  - 松永 征一 - [石丸謙二郎](../Page/石丸謙二郎.md "wikilink")（第2-7話）
+  - 松永 征一 -
+    [石丸謙二郎](https://zh.wikipedia.org/wiki/石丸謙二郎 "wikilink")（第2-7話）
 
 <!-- end list -->
 
@@ -239,7 +252,7 @@
 
 <!-- end list -->
 
-  - 松永 美咲 - [美山加戀](../Page/美山加恋.md "wikilink")（第2-3話）
+  - 松永 美咲 - [美山加戀](https://zh.wikipedia.org/wiki/美山加恋 "wikilink")（第2-3話）
 
 <!-- end list -->
 
@@ -248,7 +261,7 @@
 
 <!-- end list -->
 
-  - 田邊 厚 - [戸田昌宏](../Page/戸田昌宏.md "wikilink")（第2-3話）
+  - 田邊 厚 - [戸田昌宏](https://zh.wikipedia.org/wiki/戸田昌宏 "wikilink")（第2-3話）
 
 <!-- end list -->
 
@@ -257,7 +270,7 @@
 
 <!-- end list -->
 
-  - 松永 陽子 - [笠木泉](../Page/笠木泉.md "wikilink")（第2-3話）
+  - 松永 陽子 - [笠木泉](https://zh.wikipedia.org/wiki/笠木泉 "wikilink")（第2-3話）
 
 <!-- end list -->
 
@@ -266,7 +279,7 @@
 
 <!-- end list -->
 
-  - 川崎 翔- [加部亞門](../Page/加部亜門.md "wikilink")（第2話、第4話）
+  - 川崎 翔- [加部亞門](https://zh.wikipedia.org/wiki/加部亜門 "wikilink")（第2話、第4話）
 
 <!-- end list -->
 
@@ -275,7 +288,7 @@
 
 <!-- end list -->
 
-  - 川崎 順- [塚原大助](../Page/塚原大助.md "wikilink")（第2話、第4話）
+  - 川崎 順- [塚原大助](https://zh.wikipedia.org/wiki/塚原大助 "wikilink")（第2話、第4話）
 
 <!-- end list -->
 
@@ -284,9 +297,9 @@
 
 **（第3話）**
 
-  - [醫院的](../Page/醫院.md "wikilink")[醫生](../Page/醫生.md "wikilink") -
-    [真勝國之](../Page/真勝國之.md "wikilink")
-  - 平田 勇次 - [並樹史朗](../Page/並樹史朗.md "wikilink")
+  - [醫院的](../Page/醫院.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")
+    - [真勝國之](https://zh.wikipedia.org/wiki/真勝國之 "wikilink")
+  - 平田 勇次 - [並樹史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")
 
 <!-- end list -->
 
@@ -295,12 +308,12 @@
 
 <!-- end list -->
 
-  - [主播](../Page/主播.md "wikilink") -
-    [杉本夏美](../Page/杉本夏美.md "wikilink")（關西電視台主播）
+  - [主播](https://zh.wikipedia.org/wiki/主播 "wikilink") -
+    [杉本夏美](https://zh.wikipedia.org/wiki/杉本夏美 "wikilink")（關西電視台主播）
 
 **(第4話)**
 
-  - 金谷 文則 - [山崎裕太](../Page/山崎裕太.md "wikilink")（第4-7話）
+  - 金谷 文則 - [山崎裕太](https://zh.wikipedia.org/wiki/山崎裕太 "wikilink")（第4-7話）
 
 <!-- end list -->
 
@@ -318,7 +331,7 @@
 
 <!-- end list -->
 
-  - 大河原正彥 - [島津健太郎](../Page/島津健太郎.md "wikilink")
+  - 大河原正彥 - [島津健太郎](https://zh.wikipedia.org/wiki/島津健太郎 "wikilink")
 
 <!-- end list -->
 
@@ -327,7 +340,7 @@
 
 <!-- end list -->
 
-  - 田村 - [谷川昭一朗](../Page/谷川昭一朗.md "wikilink")
+  - 田村 - [谷川昭一朗](https://zh.wikipedia.org/wiki/谷川昭一朗 "wikilink")
 
 <!-- end list -->
 
@@ -336,7 +349,7 @@
 
 **(第4-5話)**
 
-  - 堀 陽介 - [櫻井聖](../Page/桜井聖.md "wikilink")
+  - 堀 陽介 - [櫻井聖](https://zh.wikipedia.org/wiki/桜井聖 "wikilink")
 
 <!-- end list -->
 
@@ -345,7 +358,7 @@
 
 <!-- end list -->
 
-  - 原 美江 - [上岡紘子](../Page/上岡紘子.md "wikilink")
+  - 原 美江 - [上岡紘子](https://zh.wikipedia.org/wiki/上岡紘子 "wikilink")
 
 <!-- end list -->
 
@@ -363,14 +376,15 @@
 
 **(第6-8話)**
 
-  - 第一強行犯搜查系的刑警 - [赤丸正幸](../Page/赤丸正幸.md "wikilink")
-  - 第一強行犯搜查系的刑警 - [椎場辰朗](../Page/椎場辰朗.md "wikilink")
-  - 第一強行犯搜查系的刑警 - [増田雄二](../Page/増田雄二.md "wikilink")
-  - 第一強行犯搜查系的刑警 - [山之內力哉](../Page/山之內力哉.md "wikilink")
+  - 第一強行犯搜查系的刑警 - [赤丸正幸](https://zh.wikipedia.org/wiki/赤丸正幸 "wikilink")
+  - 第一強行犯搜查系的刑警 - [椎場辰朗](https://zh.wikipedia.org/wiki/椎場辰朗 "wikilink")
+  - 第一強行犯搜查系的刑警 - [増田雄二](https://zh.wikipedia.org/wiki/増田雄二 "wikilink")
+  - 第一強行犯搜查系的刑警 -
+    [山之內力哉](https://zh.wikipedia.org/wiki/山之內力哉 "wikilink")
 
 **(第6話、第9話)**
 
-  - 堂島 基晴 - [澤田怜央](../Page/澤田怜央.md "wikilink")
+  - 堂島 基晴 - [澤田怜央](https://zh.wikipedia.org/wiki/澤田怜央 "wikilink")
 
 <!-- end list -->
 
@@ -379,55 +393,57 @@
 
 <!-- end list -->
 
-  - 流浪漢 - [芝崎昇](../Page/芝崎昇.md "wikilink")（第6話、第9話、最終話）
+  - 流浪漢 -
+    [芝崎昇](https://zh.wikipedia.org/wiki/芝崎昇 "wikilink")（第6話、第9話、最終話）
 
 **(第7話)**
 
-  - 刑事部長 - [須藤雅宏](../Page/須藤雅宏.md "wikilink")
-  - [川地純平](../Page/川地純平.md "wikilink")
-  - [古澤千鶴](../Page/古澤千鶴.md "wikilink")
+  - 刑事部長 - [須藤雅宏](https://zh.wikipedia.org/wiki/須藤雅宏 "wikilink")
+  - [川地純平](https://zh.wikipedia.org/wiki/川地純平 "wikilink")
+  - [古澤千鶴](https://zh.wikipedia.org/wiki/古澤千鶴 "wikilink")
 
 **(第8話)**
 
-  - [主播](../Page/主播.md "wikilink") -
-    [村西利恵](../Page/村西利恵.md "wikilink")（關西電視台主播）
-  - 麻藥販賣者 - [水野直](../Page/水野直.md "wikilink")
-  - [渡邊隆二郎](../Page/渡辺隆二郎.md "wikilink")
-  - [加藤龍治](../Page/加藤竜治.md "wikilink")
+  - [主播](https://zh.wikipedia.org/wiki/主播 "wikilink") -
+    [村西利恵](https://zh.wikipedia.org/wiki/村西利恵 "wikilink")（關西電視台主播）
+  - 麻藥販賣者 - [水野直](https://zh.wikipedia.org/wiki/水野直 "wikilink")
+  - [渡邊隆二郎](https://zh.wikipedia.org/wiki/渡辺隆二郎 "wikilink")
+  - [加藤龍治](https://zh.wikipedia.org/wiki/加藤竜治 "wikilink")
 
 **(第9話)**
 
-  - 三澤 準 - [柏原収史](../Page/柏原収史.md "wikilink")（第9話-最終話）
+  - 三澤 準 -
+    [柏原収史](https://zh.wikipedia.org/wiki/柏原収史 "wikilink")（第9話-最終話）
 
 <!-- end list -->
 
   -
-    民自黨副[議員](../Page/議員.md "wikilink")，三澤豪的兒子，曾擔任父親的[私人助理](../Page/公司秘書.md "wikilink")。
+    民自黨副[議員](https://zh.wikipedia.org/wiki/議員 "wikilink")，三澤豪的兒子，曾擔任父親的[私人助理](../Page/公司秘書.md "wikilink")。
 
 <!-- end list -->
 
   - 帝都新聞社的[記者](../Page/記者.md "wikilink") -
-    [小濱正寛](../Page/小濱正寛.md "wikilink")
+    [小濱正寛](https://zh.wikipedia.org/wiki/小濱正寛 "wikilink")
 
 **(第10話-最終話)**
 
-  - 三澤 豪 - [津嘉山正種](../Page/津嘉山正種.md "wikilink")
+  - 三澤 豪 - [津嘉山正種](https://zh.wikipedia.org/wiki/津嘉山正種 "wikilink")
 
 <!-- end list -->
 
   -
-    司法部副大臣，三澤準的父親，民自黨下屆[候選人之代表](../Page/候選人.md "wikilink")。
+    司法部副大臣，三澤準的父親，民自黨下屆[候選人之代表](https://zh.wikipedia.org/wiki/候選人 "wikilink")。
 
 ## 工作人員
 
-  - 原案 - [相沢友子](../Page/相沢友子.md "wikilink")
+  - 原案 - [相沢友子](https://zh.wikipedia.org/wiki/相沢友子 "wikilink")
   - 脚本 - 大久保ともみ、平野悠希
-  - 音樂 - [住友紀人](../Page/住友紀人.md "wikilink")
+  - 音樂 - [住友紀人](https://zh.wikipedia.org/wiki/住友紀人 "wikilink")
   - 演出 -
-    [小林義則](../Page/小林義則.md "wikilink")、[植田泰史](../Page/植田泰史.md "wikilink")、白木啓一郎
-  - 主要製作人 - [吉條英希](../Page/吉條英希.md "wikilink")（関西テレビ）
+    [小林義則](https://zh.wikipedia.org/wiki/小林義則 "wikilink")、[植田泰史](https://zh.wikipedia.org/wiki/植田泰史 "wikilink")、白木啓一郎
+  - 主要製作人 - [吉條英希](https://zh.wikipedia.org/wiki/吉條英希 "wikilink")（関西テレビ）
   - 製作人 -
-    [稲田秀樹](../Page/稲田秀樹.md "wikilink")、山崎淳子（共同テレビ）、[佐野拓水](../Page/佐野拓水.md "wikilink")（関西テレビ）
+    [稲田秀樹](https://zh.wikipedia.org/wiki/稲田秀樹 "wikilink")、山崎淳子（共同テレビ）、[佐野拓水](https://zh.wikipedia.org/wiki/佐野拓水 "wikilink")（関西テレビ）
   - 技術製作 - 名取佐斗史
   - TD - 白田龍夫
   - 攝影 - 大石弘宜
@@ -436,14 +452,15 @@
   - 錄影 - 山本米勝
   - 照明 - 三上日出志
   - 聲音 - 渡部満裕
-  - 選曲 - 泉清二（[スポット](../Page/スポット_\(企業\).md "wikilink")）
+  - 選曲 -
+    泉清二（[スポット](https://zh.wikipedia.org/wiki/スポット_\(企業\) "wikilink")）
   - 音響效果 - 近藤隆史（スポット）
   - 編集 - 朝原正志
   - 編集 - 浅沼美奈子
   - 標題 - 高岡直樹
   - MA - 亀山貴之
   - 美術製作 - 津留啓亮
-  - 美術設計 - [柳川和央](../Page/柳川和央.md "wikilink")
+  - 美術設計 - [柳川和央](https://zh.wikipedia.org/wiki/柳川和央 "wikilink")
   - 美術進行 - 森田智弘
   - 大道具製作 - 内海靖之
   - 大道具操作 - 小野将志
@@ -456,10 +473,11 @@
   - 電飾 - 中園誠四郎
   - 植木装飾 - 後藤健
   - 美術車輌 - コマツサポートサービス
-  - 警察監修 - [伊藤鋼一](../Page/伊藤鋼一.md "wikilink")
+  - 警察監修 - [伊藤鋼一](https://zh.wikipedia.org/wiki/伊藤鋼一 "wikilink")
   - 法律監修 - 荻野明一（弁護士法人東京パブリック法律事務所）
   - 醫療指導 - 石崎理恵、渡邉絵美
-  - 編成 - [西澤宏隆](../Page/西澤宏隆.md "wikilink")(関西テレビ)、塩原充顕(フジテレビ)
+  - 編成 -
+    [西澤宏隆](https://zh.wikipedia.org/wiki/西澤宏隆 "wikilink")(関西テレビ)、塩原充顕(フジテレビ)
   - 宣傳 - 栄川歩美
   - 廣告 - 豊増雄
   - 網頁 - 馬殿陽子
@@ -471,13 +489,13 @@
   - 記録 - 外川恵美子
   - 製作人補 - 久保田育美
   - 協力 -
-    [バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[ベイシス](../Page/ベイシス.md "wikilink")、[レモンスタジオ](../Page/レモンスタジオ.md "wikilink")、レガートミュージック
-  - 制作著作 - [共同電視台](../Page/共同電視台.md "wikilink")
+    [バスク](https://zh.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")、[フジアール](https://zh.wikipedia.org/wiki/フジアール "wikilink")、[ベイシス](https://zh.wikipedia.org/wiki/ベイシス "wikilink")、[レモンスタジオ](https://zh.wikipedia.org/wiki/レモンスタジオ "wikilink")、レガートミュージック
+  - 制作著作 - [共同電視台](https://zh.wikipedia.org/wiki/共同電視台 "wikilink")
   - 制作 - [關西電視台](../Page/關西電視台.md "wikilink")
 
 ## 主題歌
 
-  - [JUJU](../Page/JUJU.md "wikilink")「[この夜を止めてよ](../Page/この夜を止めてよ.md "wikilink")」（[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")）
+  - [JUJU](../Page/JUJU.md "wikilink")「[この夜を止めてよ](https://zh.wikipedia.org/wiki/この夜を止めてよ "wikilink")」（[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")）
 
 ## 音樂
 
@@ -645,7 +663,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率 12.3%（<a href="../Page/關東地方.md" title="wikilink">關東地區</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
+<td><p>平均收視率 12.3%（<a href="../Page/關東地方.md" title="wikilink">關東地區</a>・<a href="https://zh.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -669,7 +687,7 @@
   - 第2話：[玉木宏](../Page/玉木宏.md "wikilink")
   - 第3話：[唐澤壽明](../Page/唐澤壽明.md "wikilink")
   - 第4話：[吉瀨美智子](../Page/吉瀨美智子.md "wikilink")
-  - 第5話：[吉田鋼太郎](../Page/吉田鋼太郎.md "wikilink")
+  - 第5話：[吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")
   - 第6話：菅野美穂
   - 第7話：吉田鋼太郎
   - 第8話：吉瀬美智子
@@ -684,7 +702,7 @@
 
 ## 相關項目
 
-  - [關西電視台、富士電視台週二晚間十點連續劇](../Page/關西電視台、富士電視台週二晚間十點連續劇.md "wikilink")
+  - [關西電視台、富士電視台週二晚間十點連續劇](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")
 
 ## 外部連結
 

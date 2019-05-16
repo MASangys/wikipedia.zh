@@ -1,13 +1,13 @@
-**LonWorks**是一個由[埃施朗公司所開發的網路控制平台](../Page/埃施朗公司.md "wikilink")，使用的通訊協定是埃施朗公司開發的[LonTalk](../Page/LonTalk.md "wikilink")，傳輸媒介可以是[雙絞線](../Page/雙絞線.md "wikilink")、[電力線](../Page/電力線通信.md "wikilink")、[光纖及](../Page/光纖.md "wikilink")[无线电](../Page/无线电.md "wikilink")。LonWorks可用在[智能建筑中的許多](../Page/智能建筑.md "wikilink")[自動化機能](../Page/自動化.md "wikilink")，例如[暖通空調](../Page/暖通空調.md "wikilink")（HVAC）及[照明控制](../Page/照明.md "wikilink")。在2010年時已有9千萬個設備使用LonWorks網路技術。LonWorks網路技術目前由LonMark协会（LonMark
+**LonWorks**是一個由[埃施朗公司所開發的網路控制平台](../Page/埃施朗公司.md "wikilink")，使用的通訊協定是埃施朗公司開發的[LonTalk](https://zh.wikipedia.org/wiki/LonTalk "wikilink")，傳輸媒介可以是[雙絞線](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")、[電力線](../Page/電力線通信.md "wikilink")、[光纖及](https://zh.wikipedia.org/wiki/光纖 "wikilink")[无线电](https://zh.wikipedia.org/wiki/无线电 "wikilink")。LonWorks可用在[智能建筑中的許多](https://zh.wikipedia.org/wiki/智能建筑 "wikilink")[自動化機能](https://zh.wikipedia.org/wiki/自動化 "wikilink")，例如[暖通空調](../Page/暖通空調.md "wikilink")（HVAC）及[照明控制](https://zh.wikipedia.org/wiki/照明 "wikilink")。在2010年時已有9千萬個設備使用LonWorks網路技術。LonWorks網路技術目前由LonMark协会（LonMark
 International）維護。
 
 ## 起源及標準化
 
-LonWorks系統的許多技術都是源自[埃施朗公司](../Page/埃施朗公司.md "wikilink")，包括晶片設計、雙絞線及電力線的通訊、[LonTalk通訊協定](../Page/LonTalk.md "wikilink")、[路由器](../Page/路由器.md "wikilink")、網路管理軟體等。在1999年其通訊協定LonTalk提交給[ANSI認可](../Page/美國國家標準協會.md "wikilink")，成為控制網路的標準ANSI/CEA-709.1-B。其雙絞線及電力線的通訊也成為ANSI的標準。
+LonWorks系統的許多技術都是源自[埃施朗公司](../Page/埃施朗公司.md "wikilink")，包括晶片設計、雙絞線及電力線的通訊、[LonTalk通訊協定](https://zh.wikipedia.org/wiki/LonTalk "wikilink")、[路由器](../Page/路由器.md "wikilink")、網路管理軟體等。在1999年其通訊協定LonTalk提交給[ANSI認可](https://zh.wikipedia.org/wiki/美國國家標準協會 "wikilink")，成為控制網路的標準ANSI/CEA-709.1-B。其雙絞線及電力線的通訊也成為ANSI的標準。
 
 此後，ANSI/CEA-709.1成為許多標準的基礎，例如用在火車控制的IEEE
-1473-L、[美國鐵路協會](../Page/美國鐵路協會.md "wikilink")（）針對貨運列車的電動氣動剎車系統、歐洲的加油站控制協會[IFSF](../Page/IFSF.md "wikilink")（）、[國際半導體和材料](../Page/國際半導體和材料.md "wikilink")（）等。在2005年時LonWorks系統成為歐洲智能建筑標準EN
-14908。LonTalk協定也是[美國冷凍空調協會](../Page/美國冷凍空調協會.md "wikilink")（[ASHRAE](../Page/美国采暖、制冷与空调工程师学会.md "wikilink")）定義的智能建築通訊協定[BACnet中](../Page/BACnet.md "wikilink")，六種資料連結層及物理層中的一種。
+1473-L、[美國鐵路協會](https://zh.wikipedia.org/wiki/美國鐵路協會 "wikilink")（）針對貨運列車的電動氣動剎車系統、歐洲的加油站控制協會[IFSF](https://zh.wikipedia.org/wiki/IFSF "wikilink")（）、[國際半導體和材料](https://zh.wikipedia.org/wiki/國際半導體和材料 "wikilink")（）等。在2005年時LonWorks系統成為歐洲智能建筑標準EN
+14908。LonTalk協定也是[美國冷凍空調協會](https://zh.wikipedia.org/wiki/美國冷凍空調協會 "wikilink")（[ASHRAE](https://zh.wikipedia.org/wiki/美国采暖、制冷与空调工程师学会 "wikilink")）定義的智能建築通訊協定[BACnet中](../Page/BACnet.md "wikilink")，六種資料連結層及物理層中的一種。
 
 中國將LonWorks技術成為國家標準GB/Z 20177.1-2006及智能建築標準GB/T
 20299.4-2006。2008年時[國際標準化組織](../Page/國際標準化組織.md "wikilink")（ISO）及[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）將其通訊協定、雙絞線信號技術、電力線信號技術及乙太網路協定（IP）標準化，編號為ISO/IEC14908-1，-2，-3及-4。
@@ -24,15 +24,15 @@ ID），因此在網路上可以識別每一個設備。在1999年後，使用�
 ### 物理層
 
 LonWorks網路使用二種不同的物理層通訊技術，分別是名為「free
-topology」的[雙絞線通訊技術](../Page/雙絞線.md "wikilink")，以及[電力線通信](../Page/電力線通信.md "wikilink")。
+topology」的[雙絞線通訊技術](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")，以及[電力線通信](../Page/電力線通信.md "wikilink")。
 
-其雙絞線通訊使用[差動式曼徹斯特編碼](../Page/差動式曼徹斯特編碼.md "wikilink")（），可以使用[RS-485收發器及變壓器耦合收發器](../Page/RS-485.md "wikilink")，RS-485收發器建議的通訊速率為39
+其雙絞線通訊使用[差動式曼徹斯特編碼](https://zh.wikipedia.org/wiki/差動式曼徹斯特編碼 "wikilink")（），可以使用[RS-485收發器及變壓器耦合收發器](https://zh.wikipedia.org/wiki/RS-485 "wikilink")，RS-485收發器建議的通訊速率為39
 kbit/s。LonWorks支援的變壓器耦合收發器分為二種，只支援總線型網路拓撲的收發器，其通訊速率可以到1.25Mbit/s，另一種收發器允許總線型、環型及星型網路拓撲，其通訊速率為78Kbit/s\[2\]
 。電力線通信的通訊速度可以是5.4 kbit/s或3.6 kbit/s。\[3\]
 
 ### 媒體存取控制
 
-LonWorks的[媒體存取控制層使用一種改良型的](../Page/媒體存取控制.md "wikilink")[载波侦听多路访问](../Page/载波侦听多路访问.md "wikilink")（CSMA）協議，稱為可預測P-持續CSMA，每個節點在網路空閒時需等待一段隨機的時間，這段時間內網路仍沒有資料，才允許傳送資料。隨機時間的範圍由節點佔計的網路負載決定，網路負載越重，隨機時間的範圍就越長\[4\]
+LonWorks的[媒體存取控制層使用一種改良型的](https://zh.wikipedia.org/wiki/媒體存取控制 "wikilink")[载波侦听多路访问](../Page/载波侦听多路访问.md "wikilink")（CSMA）協議，稱為可預測P-持續CSMA，每個節點在網路空閒時需等待一段隨機的時間，這段時間內網路仍沒有資料，才允許傳送資料。隨機時間的範圍由節點佔計的網路負載決定，網路負載越重，隨機時間的範圍就越長\[4\]
 。
 
 ### 網路變數及顯式報文
@@ -45,7 +45,7 @@ LonWorks的通訊除了網路變數外，也可以使用顯式報文。顯式報
 ### 標準網路變數性態
 
 為了方便不同設備的資料交換，LonWorks針對實際物理量定義了標準網路變數性態（Standard Network Variable
-Type，簡稱SNVT），標準網路變數性態包括一物理量的單位及其數值及實際物理量的關係，例如表示溫度的標準網路變數性態SNVT_temp用0至65535的整數來表示從[絕對零度到](../Page/絕對零度.md "wikilink")[攝氏](../Page/攝氏.md "wikilink")6279.5度的溫度範圍。因此不同設備只要其溫度是用SNVT_temp表示，其數值和實際溫度的關係都相同。
+Type，簡稱SNVT），標準網路變數性態包括一物理量的單位及其數值及實際物理量的關係，例如表示溫度的標準網路變數性態SNVT_temp用0至65535的整數來表示從[絕對零度到](https://zh.wikipedia.org/wiki/絕對零度 "wikilink")[攝氏](https://zh.wikipedia.org/wiki/攝氏 "wikilink")6279.5度的溫度範圍。因此不同設備只要其溫度是用SNVT_temp表示，其數值和實際溫度的關係都相同。
 
 ### 開發及網路管理工具
 
@@ -56,12 +56,13 @@ DDE伺服器可使電腦中支持[動態資料交換的應用程式有監控及�
 
 ## 參照
 
-其他同樣廣為使用的[智能建筑通訊協定](../Page/智能建筑.md "wikilink")\[8\]：
+其他同樣廣為使用的[智能建筑通訊協定](https://zh.wikipedia.org/wiki/智能建筑 "wikilink")\[8\]：
 
   - [BACnet](../Page/BACnet.md "wikilink")
-  - [控制器區域網路](../Page/控制器區域網路.md "wikilink")（簡稱CAN或CANbus）
-  - [EIB](../Page/EIB.md "wikilink")（全名是European Installation
-    Bus，已成為[KNX協定的一部份](../Page/KNX.md "wikilink")）
+  - [控制器區域網路](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")（簡稱CAN或CANbus）
+  - [EIB](https://zh.wikipedia.org/wiki/EIB "wikilink")（全名是European
+    Installation
+    Bus，已成為[KNX協定的一部份](https://zh.wikipedia.org/wiki/KNX "wikilink")）
 
 ## 外部連結
 

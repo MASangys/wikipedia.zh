@@ -8,8 +8,9 @@ Clié](../Page/Clié.md "wikilink") PEG-NR70。
 
 使用 HVGA 常见设备有 [Blackberry Bold
 9000](../Page/BlackBerry_Bold.md "wikilink")，[Apple iPhone
-3GS/3G/2G](../Page/iPhone.md "wikilink")，Sony Ericsson Xperia X8，[Palm
-Pre](../Page/Palm_Pre.md "wikilink")，LG GW620 Eve，[Samsung M900
+3GS/3G/2G](https://zh.wikipedia.org/wiki/iPhone "wikilink")，Sony
+Ericsson Xperia X8，[Palm Pre](../Page/Palm_Pre.md "wikilink")，LG GW620
+Eve，[Samsung M900
 Moment](https://zh.wikipedia.org/wiki/Samsung_M900_Moment "wikilink")，[HTC
 Hero](../Page/HTC_Hero.md "wikilink")， [MyTouch 3G
 Slide](https://zh.wikipedia.org/wiki/MyTouch_3G_Slide "wikilink")，[HTC

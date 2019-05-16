@@ -8,7 +8,7 @@ Shebang 后的内容，将这些内容作为解释器指令，并调用该指令
 例如，以指令开头的文件在执行时会实际调用*/bin/sh*程序（通常是 [Bourne
 shell](../Page/Bourne_shell.md "wikilink") 或兼容的
 [shell](../Page/Unix_shell.md "wikilink")，例如
-[bash](../Page/bash.md "wikilink")、[dash](https://zh.wikipedia.org/wiki/dash "wikilink")
+[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[dash](https://zh.wikipedia.org/wiki/dash "wikilink")
 等）来执行。这行内容也是 [shell
 脚本的标准起始行](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")。
 
@@ -17,8 +17,8 @@ shell](../Page/Bourne_shell.md "wikilink") 或兼容的
 [Scheme](../Page/Scheme.md "wikilink")，解释器也可能忽略以 `#!` 开头的首行内容，以提供与
 Shebang 的兼容性\[2\]。
 
-"Shebang" 或者说 "Hashbang" 的名字有时也被当做 [Ajax](../Page/Ajax.md "wikilink")
-应用程序中的
+"Shebang" 或者说 "Hashbang" 的名字有时也被当做
+[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink") 应用程序中的
 [分段标识符](https://zh.wikipedia.org/wiki/分段标识符 "wikilink")，用于浏览器的状态保存；Google
 网站站长中心提到，以[叹号开头的分段标识符](../Page/叹号.md "wikilink")（即 ...url\#\!state...
 ）会为 Google 的网页爬虫所索引。
@@ -53,7 +53,8 @@ guide](http://tldp.org/LDP/abs/html/)（revision 6.2）中，shebang 被称为
 
   - `#!/bin/sh`—使用 `sh`，即 [Bourne
     shell](../Page/Bourne_shell.md "wikilink") 或其它兼容 shell 执行脚本
-  - `#!/bin/csh`—使用 `csh`，即 [C shell](../Page/C_shell.md "wikilink") 执行
+  - `#!/bin/csh`—使用 `csh`，即 [C
+    shell](https://zh.wikipedia.org/wiki/C_shell "wikilink") 执行
   - `#!/usr/bin/perl -w`—使用带警告的 [Perl](../Page/Perl.md "wikilink") 执行
   - `#!/usr/bin/python -O`—使用具有代码优化的
     [Python](../Page/Python.md "wikilink") 执行
@@ -61,7 +62,8 @@ guide](http://tldp.org/LDP/abs/html/)（revision 6.2）中，shebang 被称为
 
 在许多系统上，`/bin/sh` 是[链接到](https://zh.wikipedia.org/wiki/链接 "wikilink")
 [Bash](../Page/Bash.md "wikilink") 的，而 `/bin/csh` 则是链接到
-[tcsh](../Page/tcsh.md "wikilink") 的，因此设定前面的解释器实际上是运行的与之兼容的，或改进的版本。
+[tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink")
+的，因此设定前面的解释器实际上是运行的与之兼容的，或改进的版本。
 
 Shebang 行也可以包含需要传递到解释器的特定选项（见下文的 Perl 例子）。然而，选项传递的方式随实现的不同而不同。
 

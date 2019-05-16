@@ -1,9 +1,9 @@
 [Aetna_building_in_Hartford.gk.jpg](https://zh.wikipedia.org/wiki/File:Aetna_building_in_Hartford.gk.jpg "fig:Aetna_building_in_Hartford.gk.jpg")
 **Aetna**安泰人壽（）是美国的[保險公司](../Page/保險.md "wikilink")，总部在[康乃狄克州的](../Page/康乃狄克州.md "wikilink")[哈特福](../Page/哈特福.md "wikilink")。\[1\]
-Aetna是[財富500強公司](../Page/財富500強.md "wikilink")\[2\]，名称取自[埃特纳火山](../Page/埃特纳火山.md "wikilink").\[3\]
+Aetna是[財富500強公司](https://zh.wikipedia.org/wiki/財富500強 "wikilink")\[2\]，名称取自[埃特纳火山](../Page/埃特纳火山.md "wikilink").\[3\]
 Ronald A. Williams是Aetna的[主席](../Page/主席.md "wikilink"). Mark T.
 Bertolini是Aetna的[首席执行官](../Page/首席执行官.md "wikilink").
-Aetna有34,314名[僱員](../Page/僱員.md "wikilink").\[4\]
+Aetna有34,314名[僱員](https://zh.wikipedia.org/wiki/僱員 "wikilink").\[4\]
 
 2000年Aetna以約77億美元代價把旗下全球人壽業務和金融服務業務----即Aetna International和Aetna
 Financial Services出售給荷蘭國際集團（[ING](../Page/ING.md "wikilink")）
@@ -15,7 +15,7 @@ Company）以每股125美元現金及0.8375股Aetna股份
 
 2017年1月24日美國一位聯邦法官周一否決了安泰以370億美元收購Humana Inc的交易，
 
-2017年12月3日[CVS藥局以每股](../Page/CVS藥局.md "wikilink")145美元現金和0.8378股CVS股票合共每股207美元斥资690億美元收購美國第三大醫療保險公司安泰（[Aetna](../Page/Aetna.md "wikilink")），如果包括承擔安泰的債務在內，交易總金額將達到780億美元，安泰股東將持有合併後公司約22％股權，其他則為CVS股東持有。
+2017年12月3日[CVS藥局以每股](https://zh.wikipedia.org/wiki/CVS藥局 "wikilink")145美元現金和0.8378股CVS股票合共每股207美元斥资690億美元收購美國第三大醫療保險公司安泰（[Aetna](../Page/Aetna.md "wikilink")），如果包括承擔安泰的債務在內，交易總金額將達到780億美元，安泰股東將持有合併後公司約22％股權，其他則為CVS股東持有。
 
 ## 参考资料及注释
 

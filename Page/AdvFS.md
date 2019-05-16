@@ -1,9 +1,9 @@
 **AdvFS**源自於迪吉多為Tru64
-UNIX作業系統開發的[檔案系統](../Page/檔案系統.md "wikilink")。AdvFS是一個使用GPL協議條款授權的開源項目。
+UNIX作業系統開發的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。AdvFS是一個使用GPL協議條款授權的開源項目。
 
 ## 歷史
 
-2002年[惠普公司收購](../Page/惠普公司.md "wikilink")[康柏電腦後](../Page/康柏電腦.md "wikilink")，曾嘗試把AdvFS移植至[HP-UX作業系統](../Page/HP-UX.md "wikilink")。
+2002年[惠普公司收購](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[康柏電腦後](https://zh.wikipedia.org/wiki/康柏電腦 "wikilink")，曾嘗試把AdvFS移植至[HP-UX作業系統](../Page/HP-UX.md "wikilink")。
 
 2015年惠普公司在[USENIX](../Page/USENIX.md "wikilink") 統協會
 FAST15座談會公佈基於AdvFS的[Linux檔案系統](../Page/Linux.md "wikilink")，新增了檔案資料原子性更新的功能。\[1\]

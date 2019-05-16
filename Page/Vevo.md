@@ -7,7 +7,7 @@ Vevo提供三家唱片大廠商的音樂影片。\[5\]\[6\]
 ## 發展
 
 VEVO的核心理念被稱為音樂錄像界的[Hulu](../Page/Hulu.md "wikilink")，\[7\]而VEVO把網站設計成這樣，目的是由吸引更多高端廣告客戶投資以增加收益。\[8\]
-為此，VEVO會因為錄像語言的關係而對錄像內容進行審查。使它能被和[麥當勞規模相等的合作者接受](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。\[9\]網站的另一個收入來源包括量販店\[10\]，以及讓訪客到[亞馬遜和](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")[iTunes上購買歌曲的推薦連結](../Page/iTunes.md "wikilink")。\[11\]環球唱片公司在2008年11月20日收購了域名vevo.com，而[索尼音樂娛樂則於](../Page/索尼音樂娛樂.md "wikilink")2009年6月決定把自己的內容添進VEVO網站中。\[12\]此網站於2009年11月8日正式運營，並於同一月份中超越[Myspace](../Page/Myspace.md "wikilink")\[13\]成為美國瀏覽量最大的音乐服务类網站。\[14\]
+為此，VEVO會因為錄像語言的關係而對錄像內容進行審查。使它能被和[麥當勞規模相等的合作者接受](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。\[9\]網站的另一個收入來源包括量販店\[10\]，以及讓訪客到[亞馬遜和](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")[iTunes上購買歌曲的推薦連結](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[11\]環球唱片公司在2008年11月20日收購了域名vevo.com，而[索尼音樂娛樂則於](../Page/索尼音樂娛樂.md "wikilink")2009年6月決定把自己的內容添進VEVO網站中。\[12\]此網站於2009年11月8日正式運營，並於同一月份中超越[Myspace](../Page/Myspace.md "wikilink")\[13\]成為美國瀏覽量最大的音乐服务类網站。\[14\]
 
 成立之初VEVO提供音樂廠牌“四大巨頭”中三家的音樂錄像，它們是[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")、[索尼音樂娛樂及](../Page/索尼音樂娛樂.md "wikilink")[EMI](../Page/EMI.md "wikilink")。\[15\][華納音樂集團曾在先前被報導可能是內容提供商之一](../Page/華納音樂集團.md "wikilink")，\[16\]但隨後卻是與它的對手[音樂電視網結盟](../Page/音樂電視網.md "wikilink")。\[17\]而[EMI則在沒有擁有股份的情況下授權VEVO使用其內容](../Page/EMI.md "wikilink")。\[18\]後來EMI公司被環球、索尼收購而消滅。
 
@@ -19,10 +19,10 @@ vevo.com的服務現階段僅限於美國、加拿大、英国、波蘭、爱尔
 大部份VEVO的影片均可以在[YouTube上觀看](../Page/YouTube.md "wikilink")，而剩下的一小部份則會被封鎖，並會顯示出“該錄像包含VEVO的內容，上傳者已禁止在您的國家/地區播放此錄像”的信息。\[24\]于2011年4月26日，Vevo.com開始向英国和爱尔兰提供服務。\[25\]於2012年4月16日，MCM娛樂把vevo.com的服務帶到澳大利亞和新西蘭。於2012年8月14日，巴西成為了[拉丁美洲首個能夠使用vevo](../Page/拉丁美洲.md "wikilink").com服務的國家。而VEVO亦預計在2012年於6個歐洲或拉丁美洲國家中推出服務。\[26\]
 於2012年10月，VEVO在南非推出服務，使之成為非洲首個能夠使用vevo.com服務的國家。\[27\]於2012年11月15日起，西班牙、意大利和法國亦能使用vevo.com服務。\[28\]
 
-VEVO亦可在一系列的平台上瀏覽，其中包括[iPhone](../Page/iPhone.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
+VEVO亦可在一系列的平台上瀏覽，其中包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[Google
 TV](../Page/Google_TV.md "wikilink")、[Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")、[Roku和](https://zh.wikipedia.org/wiki/Roku "wikilink")[Xbox
-360](../Page/Xbox_360.md "wikilink")。\[29\]2010年8月，VEVO推出了平台為[iPhone的應用程式](../Page/iPhone.md "wikilink")，允許用戶在iPhone上的VEVO目錄中下載媒體播放錄像並且創建播放列表。在擴展連接設備方面，VEVO在[Google
+360](../Page/Xbox_360.md "wikilink")。\[29\]2010年8月，VEVO推出了平台為[iPhone的應用程式](https://zh.wikipedia.org/wiki/iPhone "wikilink")，允許用戶在iPhone上的VEVO目錄中下載媒體播放錄像並且創建播放列表。在擴展連接設備方面，VEVO在[Google
 TV以及](../Page/Google_TV.md "wikilink")[Boxee上亦開設了自己的頻道](https://zh.wikipedia.org/wiki/Boxee "wikilink")。2011年1月，VEVO釋出了其[Android版本應用程式](../Page/Android.md "wikilink")。VEVO指出其他行動平台上的VEVO應用程用將會陸續推出。\[30\]
 
 ## 對於含限制內容影片的政策
@@ -41,7 +41,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 
 <!-- end list -->
 
-  - 首個獲得認證的音頻音樂錄像帶為法国樂團[傻瓜龐克和美国歌手](https://zh.wikipedia.org/wiki/傻瓜龐克 "wikilink")[法瑞尔·威廉姆斯的歌曲](https://zh.wikipedia.org/wiki/法瑞尔·威廉姆斯 "wikilink")《*[Get
+  - 首個獲得認證的音頻音樂錄像帶為法国樂團[傻瓜龐克和美国歌手](https://zh.wikipedia.org/wiki/傻瓜龐克 "wikilink")[法瑞尔·威廉姆斯的歌曲](../Page/法瑞尔·威廉姆斯.md "wikilink")《*[Get
     Lucky](https://zh.wikipedia.org/wiki/Get_Lucky "wikilink")*》。
 
 ### 认证艺人
@@ -183,7 +183,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td><p>[53]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/艾維奇" title="wikilink">艾維奇</a></p></td>
+<td><p><a href="../Page/艾維奇.md" title="wikilink">艾維奇</a></p></td>
 <td><p>5</p></td>
 <td><p>[54]</p></td>
 <td></td>
@@ -231,7 +231,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/凱文·哈里斯" title="wikilink">凱文·哈里斯</a></p></td>
+<td><p><a href="../Page/凱文·哈里斯.md" title="wikilink">凱文·哈里斯</a></p></td>
 <td><p>4</p></td>
 <td><p>[62]</p></td>
 <td></td>
@@ -273,7 +273,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謎幻樂團" title="wikilink">謎幻樂團</a></p></td>
+<td><p><a href="../Page/謎幻樂團.md" title="wikilink">謎幻樂團</a></p></td>
 <td><p>2</p></td>
 <td><p>[69]</p></td>
 <td></td>
@@ -453,7 +453,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑞典浩室黑手黨" title="wikilink">瑞典浩室黑手黨</a></p></td>
+<td><p><a href="../Page/瑞典浩室黑手黨.md" title="wikilink">瑞典浩室黑手黨</a></p></td>
 <td><p>1</p></td>
 <td><p>[99]</p></td>
 <td></td>
@@ -477,7 +477,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/傻朋克" title="wikilink">傻朋克</a></p></td>
+<td><p><a href="../Page/傻朋克.md" title="wikilink">傻朋克</a></p></td>
 <td><p>1</p></td>
 <td><p>[103]</p></td>
 <td></td>
@@ -609,13 +609,13 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/雪兒·洛薇" title="wikilink">雪兒·洛薇</a></p></td>
+<td><p><a href="../Page/雪兒·洛薇.md" title="wikilink">雪兒·洛薇</a></p></td>
 <td><p>1</p></td>
 <td><p>[125]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/雪兒·洛薇" title="wikilink">雪兒·洛薇</a></p></td>
+<td><p><a href="../Page/雪兒·洛薇.md" title="wikilink">雪兒·洛薇</a></p></td>
 <td><p>1</p></td>
 <td><p>[126]</p></td>
 <td></td>
@@ -663,7 +663,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巴士底樂團" title="wikilink">巴士底樂團</a></p></td>
+<td><p><a href="../Page/巴士底樂團.md" title="wikilink">巴士底樂團</a></p></td>
 <td><p>1</p></td>
 <td><p>[134]</p></td>
 <td></td>

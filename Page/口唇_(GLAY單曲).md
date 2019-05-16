@@ -14,7 +14,7 @@ c/w曲《[戀慕春天的人](https://zh.wikipedia.org/wiki/戀慕春天的人 "
 ## 收錄曲目
 
 1.  **口唇**
-      - 作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
       - [富士電視台](../Page/富士電視台.md "wikilink")《[HEY\!HEY\!HEY\!MUSIC
         CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》的主題曲
 2.  **[戀慕春天的人](https://zh.wikipedia.org/wiki/戀慕春天的人 "wikilink")**（）

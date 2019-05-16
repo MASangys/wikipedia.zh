@@ -49,7 +49,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 1985年
 
   - 國內使用：[矢切渡口](https://zh.wikipedia.org/wiki/矢切渡口_\(細川貴志\) "wikilink")（作詞：[石本美由起](https://zh.wikipedia.org/wiki/石本美由起 "wikilink")；作曲：[船村徹](https://zh.wikipedia.org/wiki/船村徹 "wikilink")）
-  - 外國使用：[小甜甜劇中音樂](../Page/小甜甜.md "wikilink")（作詞：[名木田惠子](https://zh.wikipedia.org/wiki/名木田惠子 "wikilink")；作曲：[渡邊岳夫](https://zh.wikipedia.org/wiki/渡邊岳夫 "wikilink")）
+  - 外國使用：[小甜甜劇中音樂](../Page/小甜甜.md "wikilink")（作詞：[名木田惠子](https://zh.wikipedia.org/wiki/名木田惠子 "wikilink")；作曲：[渡邊岳夫](../Page/渡邊岳夫.md "wikilink")）
 
 #### 1986年
 
@@ -68,8 +68,9 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
   - 銀獎：[雪國](https://zh.wikipedia.org/wiki/雪國_\(單曲\) "wikilink")（作詞、作曲：[吉幾三](https://zh.wikipedia.org/wiki/吉幾三 "wikilink")）
   - 銅獎：[男和女的戀愛遊戲](https://zh.wikipedia.org/wiki/男和女的戀愛遊戲 "wikilink")（作詞：[魚住勉](https://zh.wikipedia.org/wiki/魚住勉 "wikilink")；作曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")）
   - 國際獎：金銀島背景音樂（作曲：[羽田健太郎](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")）
-  - 外國作品獎：[CHA CHA CHA](../Page/CHA_CHA_CHA.md "wikilink")（作詞：G\>BOIDO /
-    譯詞：今野雄二；作曲：B.REITANO、B.ROSELLINI、F.BALDONI、F.REITANO）
+  - 外國作品獎：[CHA CHA
+    CHA](https://zh.wikipedia.org/wiki/CHA_CHA_CHA "wikilink")（作詞：G\>BOIDO
+    / 譯詞：今野雄二；作曲：B.REITANO、B.ROSELLINI、F.BALDONI、F.REITANO）
 
 #### 1989年
 
@@ -123,9 +124,9 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 1994年
 
   - 金獎：[survival dAnce ～no no cry
-    more～](../Page/survival_dAnce_～no_no_cry_more～.md "wikilink")（作詞、作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")）
+    more～](https://zh.wikipedia.org/wiki/survival_dAnce_～no_no_cry_more～ "wikilink")（作詞、作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")）
   - 銀獎：[innocent
-    world](../Page/innocent_world.md "wikilink")（作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")）
+    world](https://zh.wikipedia.org/wiki/innocent_world "wikilink")（作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")）
   - 銅獎：[BOY MEETS
     GIRL](https://zh.wikipedia.org/wiki/BOY_MEETS_GIRL "wikilink")（作詞、作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")）
   - 國際獎：[足球小將背景音樂](../Page/足球小將.md "wikilink")（作曲：[飛澤宏元](https://zh.wikipedia.org/wiki/飛澤宏元 "wikilink")）
@@ -161,7 +162,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
   - 銀獎：[FACE](https://zh.wikipedia.org/wiki/FACE_\(globe單曲\) "wikilink")（作詞：小室哲哉
     /
     [MARC](https://zh.wikipedia.org/wiki/Marc_Panther "wikilink")；作曲：[小室哲哉](../Page/小室哲哉.md "wikilink")）
-  - 銅獎：[HOWEVER](../Page/HOWEVER.md "wikilink")（作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")）
+  - 銅獎：[HOWEVER](../Page/HOWEVER.md "wikilink")（作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")）
   - 國際獎：[美少女戰士背景音樂](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")（作曲：[有澤孝紀](../Page/有澤孝紀.md "wikilink")）
   - 外國作品獎：WHEN YOU WISH UPON A STAR（作詞：N.WASHINGTON /
     譯詞：島村葉二；作曲：L.HARLINE）
@@ -173,7 +174,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
   - 銀獎：[White
     Love](../Page/White_Love.md "wikilink")（作詞、作曲：[伊秩弘將](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")）
   - 銅獎：[魔法公主背景音樂](../Page/魔法公主.md "wikilink")（作曲：[久石讓](https://zh.wikipedia.org/wiki/久石讓 "wikilink")）
-  - 國際獎：[女排NO.1背景音樂](https://zh.wikipedia.org/wiki/女排NO.1 "wikilink")（作曲：[渡邊岳夫](https://zh.wikipedia.org/wiki/渡邊岳夫 "wikilink")）
+  - 國際獎：[女排NO.1背景音樂](https://zh.wikipedia.org/wiki/女排NO.1 "wikilink")（作曲：[渡邊岳夫](../Page/渡邊岳夫.md "wikilink")）
   - 外國作品獎：WHEN YOU WISH UPON A STAR（作詞：N.WASHINGTON /
     譯詞：島村葉二；作曲：L.HARLINE）
 
@@ -203,7 +204,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
   - 金獎：[Everything](../Page/Everything_\(MISIA單曲\).md "wikilink")（作詞：[MISIA](../Page/MISIA.md "wikilink")；作曲：[松本俊明](https://zh.wikipedia.org/wiki/松本俊明 "wikilink")）
   - 銀獎：[Can You Keep A
-    Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")（作詞、作曲：[宇多田光](../Page/宇多田光.md "wikilink")）
+    Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")（作詞、作曲：[宇多田光](../Page/宇多田光.md "wikilink")）
   - 銅獎：[Lion
     Heart](https://zh.wikipedia.org/wiki/Lion_Heart "wikilink")（作詞：[野島伸司](../Page/野島伸司.md "wikilink")；作曲：[小森田實](https://zh.wikipedia.org/wiki/小森田實 "wikilink")）
   - 國際獎：[神奇寶貝背景音樂](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")（作曲：[宮崎慎二](https://zh.wikipedia.org/wiki/宮崎慎二 "wikilink")）
@@ -212,8 +213,8 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 2002年
 
   - 金獎：[千與千尋背景音樂](https://zh.wikipedia.org/wiki/千與千尋 "wikilink")（作曲：[久石讓](https://zh.wikipedia.org/wiki/久石讓 "wikilink")）
-  - 銀獎：[traveling](../Page/traveling_\(單曲\).md "wikilink")（作詞、作曲：[宇多田光](../Page/宇多田光.md "wikilink")）
-  - 銅獎：[亞麻色頭髮的少女](https://zh.wikipedia.org/wiki/亞麻色頭髮的少女 "wikilink")（作詞：[橋本淳](https://zh.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")；作曲：[椙山浩一](https://zh.wikipedia.org/wiki/椙山浩一 "wikilink")）
+  - 銀獎：[traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")（作詞、作曲：[宇多田光](../Page/宇多田光.md "wikilink")）
+  - 銅獎：[亞麻色頭髮的少女](https://zh.wikipedia.org/wiki/亞麻色頭髮的少女 "wikilink")（作詞：[橋本淳](https://zh.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")；作曲：[椙山浩一](../Page/椙山浩一.md "wikilink")）
   - 國際獎：[神奇寶貝背景音樂](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")（作曲：[宮崎慎二](https://zh.wikipedia.org/wiki/宮崎慎二 "wikilink")）
   - 外國作品獎：[HIKARI](../Page/光_\(宇多田光單曲\).md "wikilink")（作詞、作曲：[宇多田光](../Page/宇多田光.md "wikilink")）
 
@@ -221,7 +222,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
   - 金獎：[世界上唯一的花](../Page/世界上唯一的花.md "wikilink")（作詞、作曲：[槙原敬之](../Page/槙原敬之.md "wikilink")）
   - 銀獎：[七龍珠Z背景音樂](../Page/七龍珠Z.md "wikilink")（作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")）
-  - 銅獎：[亞麻色頭髮的少女](https://zh.wikipedia.org/wiki/亞麻色頭髮的少女 "wikilink")（作詞：[橋本淳](https://zh.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")；作曲：[椙山浩一](https://zh.wikipedia.org/wiki/椙山浩一 "wikilink")）
+  - 銅獎：[亞麻色頭髮的少女](https://zh.wikipedia.org/wiki/亞麻色頭髮的少女 "wikilink")（作詞：[橋本淳](https://zh.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")；作曲：[椙山浩一](../Page/椙山浩一.md "wikilink")）
   - 國際獎：[神奇寶貝背景音樂](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")（作曲：[宮崎慎二](https://zh.wikipedia.org/wiki/宮崎慎二 "wikilink")）
   - 外國作品獎：ZOOM ZOOM ZOOM（作詞、作曲：JOAO CARLOS ROSMAN）
 
@@ -245,7 +246,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 2006年
 
   - 金獎：[哈爾移動城堡背景音樂](https://zh.wikipedia.org/wiki/哈爾移動城堡 "wikilink")（作曲：[久石讓](https://zh.wikipedia.org/wiki/久石讓 "wikilink")）
-  - 銀獎：[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")（作詞、作曲：[小淵健太郎](https://zh.wikipedia.org/wiki/小淵健太郎 "wikilink")、[黑田俊介](https://zh.wikipedia.org/wiki/黑田俊介 "wikilink")）
+  - 銀獎：[櫻花](../Page/櫻花_\(可苦可樂單曲\).md "wikilink")（作詞、作曲：[小淵健太郎](../Page/小淵健太郎.md "wikilink")、[黑田俊介](../Page/黑田俊介.md "wikilink")）
   - 銅獎：[粉雪](../Page/粉雪_\(Remioromen單曲\).md "wikilink")（作詞、作曲：[藤卷亮太](https://zh.wikipedia.org/wiki/藤卷亮太 "wikilink")）
   - 國際獎：[名偵探柯南背景音樂](../Page/名偵探柯南_\(動畫\).md "wikilink")（作曲：[大野克夫](../Page/大野克夫.md "wikilink")）
   - 外國作品獎：ZOOM ZOOM ZOOM（作詞、作曲：JOAO CARLOS ROSMAN）
@@ -263,7 +264,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
 #### 2008年
 
-  - 金獎：[留在我身邊](https://zh.wikipedia.org/wiki/留在我身邊 "wikilink")（作詞、作曲：[SoulJa](../Page/SoulJa.md "wikilink")）
+  - 金獎：[留在我身邊](../Page/留在我身邊.md "wikilink")（作詞、作曲：[SoulJa](../Page/SoulJa.md "wikilink")）
   - 銀獎：[創聖的亞庫艾里翁](https://zh.wikipedia.org/wiki/創聖的亞庫艾里翁_\(歌曲\) "wikilink")（作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")、[菅野洋子](../Page/菅野洋子.md "wikilink")；作曲：[菅野洋子](../Page/菅野洋子.md "wikilink")）
   - 銅獎：[奇蹟](../Page/奇蹟_\(GReeeeN單曲\).md "wikilink")（作詞、作曲：[GReeeeN](../Page/GReeeeN.md "wikilink")）
   - 國際獎：[妮嘉尋親記背景音樂](../Page/妮嘉尋親記.md "wikilink")（作曲：[奥慶一](https://zh.wikipedia.org/wiki/奥慶一 "wikilink")）
@@ -286,7 +287,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
   - 金獎：[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")（作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")；作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")）
   - 銀獎：[Butterfly](../Page/Butterfly_\(木村KAELA單曲\).md "wikilink")（作詞：[木村KAELA](../Page/木村KAELA.md "wikilink")；作曲：[末光篤](https://zh.wikipedia.org/wiki/末光篤 "wikilink")）
-  - 銅獎：[再次愛上你](https://zh.wikipedia.org/wiki/再次愛上你 "wikilink")（作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")；作曲：[森正明](https://zh.wikipedia.org/wiki/森正明 "wikilink")）
+  - 銅獎：[再次愛上你](https://zh.wikipedia.org/wiki/再次愛上你 "wikilink")（作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")；作曲：[森正明](../Page/森正明.md "wikilink")）
   - 國際獎：[奇妙家庭變形豆劇中音樂](../Page/奇妙家庭變形豆.md "wikilink")（作曲：[神尾憲一](https://zh.wikipedia.org/wiki/神尾憲一 "wikilink")）
   - 外國作品獎：ALL YOU NEED IS
     LOVE（作詞、作曲：[約翰·列儂](https://zh.wikipedia.org/wiki/約翰·列儂 "wikilink")、[保羅·麥卡特尼](https://zh.wikipedia.org/wiki/保羅·麥卡特尼 "wikilink")）
@@ -312,17 +313,17 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
 #### 2013年
 
-  - 金獎：[沒骨氣](https://zh.wikipedia.org/wiki/沒骨氣 "wikilink")（作詞、作曲：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink")）
+  - 金獎：[沒骨氣](../Page/沒骨氣.md "wikilink")（作詞、作曲：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink")）
   - 銀獎：無限重播（作詞：秋元康、作曲：山崎燿）
   - 銅獎：[Time goes
     by](../Page/Time_goes_by.md "wikilink")（作詞、作曲：[五十嵐充](https://zh.wikipedia.org/wiki/五十嵐充 "wikilink")）
   - 国際獎：火影忍者疾風傳BGM（作曲：高梨康治）
   - 外国作品獎：[Hey
-    Jude](https://zh.wikipedia.org/wiki/Hey_Jude "wikilink")（作詞、作曲：[列侬–麦卡特尼](https://zh.wikipedia.org/wiki/列侬–麦卡特尼 "wikilink")）
+    Jude](https://zh.wikipedia.org/wiki/Hey_Jude "wikilink")（作詞、作曲：[列侬–麦卡特尼](../Page/列侬–麦卡特尼.md "wikilink")）
 
 #### 2014年
 
-  - 金獎：[戀愛的幸運餅乾](https://zh.wikipedia.org/wiki/戀愛的幸運餅乾 "wikilink")
+  - 金獎：[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")
   - 銀獎：
   - 銅獎：
   - 国際獎：
@@ -330,7 +331,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
 #### 2015年
 
-  - 金獎：[R.Y.U.S.E.I.](https://zh.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")
+  - 金獎：[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")
   - 銀獎：
   - 銅獎：
   - 国際獎：
@@ -339,7 +340,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 2016年
 
   - 金獎：[三代目　J Soul
-    Brothers](../Page/J_Soul_Brothers.md "wikilink")『[R.Y.U.S.E.I.](https://zh.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")』
+    Brothers](../Page/J_Soul_Brothers.md "wikilink")『[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")』
   - 銀獎：[AKB48](../Page/AKB48.md "wikilink")『戀愛的幸運餅乾』
   - 銅獎：[中島美雪](../Page/中島美雪.md "wikilink")『糸』
   - 国際獎：[菊池俊輔](../Page/菊池俊輔.md "wikilink")『[奇天烈大百科BGM](https://zh.wikipedia.org/wiki/奇天烈大百科#電視動畫系列 "wikilink")』
@@ -350,7 +351,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
   - 金獎：[中島美雪](../Page/中島美雪.md "wikilink")『糸』
   - 銀獎：名探偵コナンBGM([名偵探柯南配樂](../Page/名偵探柯南.md "wikilink"))
-  - 銅獎：[椙山浩一](https://zh.wikipedia.org/wiki/椙山浩一 "wikilink")『[勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")
+  - 銅獎：[椙山浩一](../Page/椙山浩一.md "wikilink")『[勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")
     序曲)』
   - 国際獎：高梨 康治『[FAIRY
     TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\)#劇場版動畫 "wikilink")
@@ -361,7 +362,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 #### 2018年
 
   - 金獎：[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")『[恋](https://zh.wikipedia.org/wiki/恋_\(星野源单曲\) "wikilink")』
-  - 銀獎：[椙山浩一](https://zh.wikipedia.org/wiki/椙山浩一 "wikilink")『[勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")
+  - 銀獎：[椙山浩一](../Page/椙山浩一.md "wikilink")『[勇者鬥惡龍](https://zh.wikipedia.org/wiki/勇者鬥惡龍 "wikilink")
     序曲』
   - 銅獎：[都倉俊一](https://zh.wikipedia.org/wiki/都倉俊一 "wikilink")『UFO』
   - 国際獎：[菊池俊輔](../Page/菊池俊輔.md "wikilink")『ドラゴンボールZ

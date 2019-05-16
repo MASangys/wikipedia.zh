@@ -1,12 +1,12 @@
-**ClariS**（）是一個日本的雙人女子[偶像组合](../Page/偶像.md "wikilink")，目前唱片公司为[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")，經紀公司為。
+**ClariS**（）是一個日本的雙人女子[偶像组合](https://zh.wikipedia.org/wiki/偶像 "wikilink")，目前唱片公司为[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")，經紀公司為。
 
 ## 發展
 
-本來兩人是在[NICONICO動畫上以](../Page/NICONICO動畫.md "wikilink")「」名義活動的[同人團體](../Page/同人團體.md "wikilink")。活動開始時兩人還是中學1年級，主要活動為翻唱[VOCALOID曲及](../Page/VOCALOID.md "wikilink")[動畫歌曲並上傳](../Page/動畫歌曲.md "wikilink")。而兩人的活動吸引動畫音樂雜誌《[LisAni\!](../Page/LisAni!.md "wikilink")》編輯的目光，不僅為兩人製作特集，更在雜誌中附贈兩人演唱的原創曲CD，引起大眾注意。
+本來兩人是在[NICONICO動畫上以](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「」名義活動的[同人團體](https://zh.wikipedia.org/wiki/同人團體 "wikilink")。活動開始時兩人還是中學1年級，主要活動為翻唱[VOCALOID曲及](../Page/VOCALOID.md "wikilink")[動畫歌曲並上傳](../Page/動畫歌曲.md "wikilink")。而兩人的活動吸引動畫音樂雜誌《[LisAni\!](https://zh.wikipedia.org/wiki/LisAni! "wikilink")》編輯的目光，不僅為兩人製作特集，更在雜誌中附贈兩人演唱的原創曲CD，引起大眾注意。
 
 [ClariS_SMER.jpg](https://zh.wikipedia.org/wiki/File:ClariS_SMER.jpg "fig:ClariS_SMER.jpg")
-其後於2010年10月20日以[Kz製作的單曲](../Page/livetune.md "wikilink")《[Irony](../Page/Irony.md "wikilink")》正式出道。\[1\]這首歌在發行前就已經因為搭配熱門[深夜動畫](../Page/深夜動畫.md "wikilink")《[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")》\[2\]\[3\]引起討論，而熱門作品採用中學生新人團體的出道曲作為主題曲的空前記錄，也引起話題。該曲於10月5日公布的「」（[多玩國](../Page/dwango.md "wikilink")[手機鈴聲網站](../Page/手機鈴聲.md "wikilink")）獲得週榜冠軍、同時在另一個網站「」也奪冠。10月21日的[公信榜單日榜中獲得第](../Page/公信榜.md "wikilink")5名，而11月1日的公信榜週榜中也獲得第7名的成績。
+其後於2010年10月20日以[Kz製作的單曲](https://zh.wikipedia.org/wiki/livetune "wikilink")《[Irony](../Page/Irony.md "wikilink")》正式出道。\[1\]這首歌在發行前就已經因為搭配熱門[深夜動畫](https://zh.wikipedia.org/wiki/深夜動畫 "wikilink")《[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")》\[2\]\[3\]引起討論，而熱門作品採用中學生新人團體的出道曲作為主題曲的空前記錄，也引起話題。該曲於10月5日公布的「」（[多玩國](https://zh.wikipedia.org/wiki/dwango "wikilink")[手機鈴聲網站](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")）獲得週榜冠軍、同時在另一個網站「」也奪冠。10月21日的[公信榜單日榜中獲得第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")5名，而11月1日的公信榜週榜中也獲得第7名的成績。
 
 在為紀念[ZONE復出](../Page/ZONE.md "wikilink")，於2011年8月10日正式发售的《》专辑里翻唱了《true
 blue》一曲。\[4\]
@@ -25,17 +25,17 @@ Sky」，同時公布了「新生ClariS」的首張視覺圖，依然維持雙�
 5的消息\[10\]。
 
 2015年1月25日，再次以真人参演方式参与了[LisAni\!LIVE
-5演唱会表演](../Page/Lis_Ani!.md "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
+5演唱会表演](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink")，但在强烈的灯光效果和佩戴了面纱的情况下，依然无法看到其真实脸容。\[11\]
 
 2015年7月31日，举办了第一场专属演唱会，不过依然保持以半脸纱遮盖脸容。\[12\]
 
 2017年4月，由原先[SME
 Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[13\]
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[13\]
 
 ## 成員
 
-ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非本名）組成的偶像组合\[14\]。ClariS是由兩人的名字組合而成，而單字「claris」在[拉丁語中也有著](../Page/拉丁語.md "wikilink")「開朗、清潔、閃耀」等意義\[15\]（雖然實際上拼寫為「clarus\[16\]」）。此外也和兩人喜歡的《[魯邦三世卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")》作品中的女性角色同名。Clara從幼稚園時期便想成為一名歌手，後來上音樂學校時認識Aris\[17\]。由於以學業優先為理由，在各種媒體中也未曾公開本人照片，僅以[織田廣之及](../Page/織田廣之.md "wikilink")[蒼樹梅等插畫家繪製的插圖示人](../Page/蒼樹梅.md "wikilink")。2014年5月26日，Aris宣布因学业原因，在第三張专辑《》发行后离开该组合\[18\]。後來加入的成員Karen是Clara上音樂學校時認識的同學。Clara注意到Karen的個性與她自己截然不同，並親自提名Karen接替Aris成為ClariS的第二位成員。成员都有著代表色以及代表物：Clara是粉紅色，代表是月亮；Aris是藍色，代表是太陽；新加入的成員Karen則是淺綠色，代表是星星。
+ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非本名）組成的偶像组合\[14\]。ClariS是由兩人的名字組合而成，而單字「claris」在[拉丁語中也有著](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「開朗、清潔、閃耀」等意義\[15\]（雖然實際上拼寫為「clarus\[16\]」）。此外也和兩人喜歡的《[魯邦三世卡里奧斯特羅之城](../Page/魯邦三世卡里奧斯特羅之城.md "wikilink")》作品中的女性角色同名。Clara從幼稚園時期便想成為一名歌手，後來上音樂學校時認識Aris\[17\]。由於以學業優先為理由，在各種媒體中也未曾公開本人照片，僅以[織田廣之及](https://zh.wikipedia.org/wiki/織田廣之 "wikilink")[蒼樹梅等插畫家繪製的插圖示人](../Page/蒼樹梅.md "wikilink")。2014年5月26日，Aris宣布因学业原因，在第三張专辑《》发行后离开该组合\[18\]。後來加入的成員Karen是Clara上音樂學校時認識的同學。Clara注意到Karen的個性與她自己截然不同，並親自提名Karen接替Aris成為ClariS的第二位成員。成员都有著代表色以及代表物：Clara是粉紅色，代表是月亮；Aris是藍色，代表是太陽；新加入的成員Karen則是淺綠色，代表是星星。
 
 ## 錄音作品
 
@@ -65,7 +65,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2010年10月20日</p></td>
-<td><p><strong><a href="../Page/irony.md" title="wikilink">irony</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/irony" title="wikilink">irony</a></strong></p></td>
 <td><p>SECL-906/07</p></td>
 <td><p>SECL-908</p></td>
 <td><p>SECL-909</p></td>
@@ -97,7 +97,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2012年8月15日</p></td>
-<td><p><strong><a href="../Page/Wake_Up_(ClariS单曲).md" title="wikilink">Wake Up</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Wake_Up_(ClariS单曲)" title="wikilink">Wake Up</a></strong></p></td>
 <td></td>
 <td><p>SECL-1169</p></td>
 <td><p>SECL-1170/71</p></td>
@@ -177,7 +177,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>2016年9月14日</p></td>
-<td><p><strong>clever（ClariS×<a href="../Page/GARNiDELiA.md" title="wikilink">GARNiDELiA</a>）</strong></p></td>
+<td><p><strong>clever（ClariS×<a href="https://zh.wikipedia.org/wiki/GARNiDELiA" title="wikilink">GARNiDELiA</a>）</strong></p></td>
 <td></td>
 <td></td>
 <td><p>SECL-1975/6</p></td>
@@ -217,7 +217,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <tr class="odd">
 <td><p>20th</p></td>
 <td><p>2018年8月15日</p></td>
-<td><p><strong><a href="../Page/CheerS_(ClariS單曲).md" title="wikilink">CheerS</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/CheerS_(ClariS單曲)" title="wikilink">CheerS</a></strong></p></td>
 <td><p>VVCL-1262/3</p></td>
 <td><p>VVCL-1264</p></td>
 <td><p>VVCL-1265/6</p></td>
@@ -315,7 +315,7 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <td><p><strong><a href="../Page/ZONE_tribute_～你給我的東西～.md" title="wikilink">ZONE tribute ～你給我的東西～</a></strong></p></td>
 <td><p>SRCL-7680（期間限定生產）<br />
 SRCL-7682（通常盤）</p></td>
-<td><p><a href="../Page/true_blue/恋々・・・.md" title="wikilink">true blue</a>[19]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/true_blue/恋々・・・" title="wikilink">true blue</a>[19]</p></td>
 </tr>
 </tbody>
 </table>
@@ -338,7 +338,7 @@ SRCL-7682（通常盤）</p></td>
 （）</p></td>
 <td><p>ISBN 4789735427<br />
 ISBN 978-4789735421</p></td>
-<td><p><a href="../Page/M-ON!_Entertainment.md" title="wikilink">M-ON! Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M-ON!_Entertainment" title="wikilink">M-ON! Entertainment</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -369,26 +369,26 @@ ISBN 978-4789735421</p></td>
 
 ## 音樂合作
 
-| 樂曲               | 音樂合作一覽                                                                                                                   | 時期    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----- |
-| **irony**        | [電視動畫](../Page/電視動畫.md "wikilink")『[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")』片頭曲                                  | 2010年 |
-| **Connect**      | 電視動畫『[魔法少女小圓](../Page/魔法少女小圓.md "wikilink")』片頭曲                                                                          | 2011年 |
-| **秘密的話（ナイショの話）** | 電視動畫『[偽物語](../Page/偽物語.md "wikilink")』片尾曲                                                                                | 2012年 |
-| **Wake Up**      | 電視動畫『[農大菌物語](../Page/農大菌物語.md "wikilink")』片頭曲                                                                            |       |
-| **Reunion**      | 電視動畫『[我的妹妹哪有這麼可愛。](../Page/我的妹妹哪有這麼可愛。.md "wikilink")』片頭曲                                                                | 2013年 |
-| **CLICK**        | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                             | 2014年 |
-| **STEP**         | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                             |       |
-| **border**       | 電視動畫『[憑物語](../Page/憑物語.md "wikilink")』片尾曲                                                                                | 2015年 |
-| **アネモネ**         | 電視動畫『[Classroom☆Crisis](../Page/Classroom☆Crisis.md "wikilink")』片尾曲                                                      | 2015年 |
-| **Gravity**      | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲1st                                                         | 2016年 |
-| **clever**       | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲3rd                                                         |       |
-| **again**        | [PS4](../Page/PS4.md "wikilink")、[PS Vita遊戲](../Page/PS_Vita.md "wikilink")『[秋葉原妄想物語](../Page/秋葉原妄想物語.md "wikilink")』主題曲 |       |
-| **ヒトリゴト**        | 電視動畫『[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")』片頭曲                                                                          | 2017年 |
-| **SHIORI**       | 電視動畫『[終物語 第二季](../Page/終物語.md "wikilink")』第二片尾曲                                                                          |       |
-| **PRIMALove**    | 電視動畫『[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")』片尾曲                                                      | 2018年 |
-| **CheerS**       | 電視動畫『[工作細胞](../Page/工作細胞.md "wikilink")』片尾曲                                                                              |       |
+| 樂曲               | 音樂合作一覽                                                                                                                                                                            | 時期    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **irony**        | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[我的妹妹哪有這麼可愛！](../Page/我的妹妹哪有這麼可愛！.md "wikilink")』片頭曲                                                                        | 2010年 |
+| **Connect**      | 電視動畫『[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")』片頭曲                                                                                                                | 2011年 |
+| **秘密的話（ナイショの話）** | 電視動畫『[偽物語](../Page/偽物語.md "wikilink")』片尾曲                                                                                                                                         | 2012年 |
+| **Wake Up**      | 電視動畫『[農大菌物語](../Page/農大菌物語.md "wikilink")』片頭曲                                                                                                                                     |       |
+| **Reunion**      | 電視動畫『[我的妹妹哪有這麼可愛。](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛。 "wikilink")』片頭曲                                                                                                      | 2013年 |
+| **CLICK**        | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                                      | 2014年 |
+| **STEP**         | 電視動畫『[偽戀](../Page/偽戀.md "wikilink")（第1期）』片頭曲                                                                                                                                      |       |
+| **border**       | 電視動畫『[憑物語](../Page/憑物語.md "wikilink")』片尾曲                                                                                                                                         | 2015年 |
+| **アネモネ**         | 電視動畫『[Classroom☆Crisis](../Page/Classroom☆Crisis.md "wikilink")』片尾曲                                                                                                               | 2015年 |
+| **Gravity**      | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲1st                                                                                                                  | 2016年 |
+| **clever**       | 電視動畫『[Qualidea Code](../Page/Qualidea_Code.md "wikilink")』片尾曲3rd                                                                                                                  |       |
+| **again**        | [PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PS Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『[秋葉原妄想物語](https://zh.wikipedia.org/wiki/秋葉原妄想物語 "wikilink")』主題曲 |       |
+| **ヒトリゴト**        | 電視動畫『[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")』片頭曲                                                                                                                | 2017年 |
+| **SHIORI**       | 電視動畫『[終物語 第二季](../Page/終物語.md "wikilink")』第二片尾曲                                                                                                                                   |       |
+| **PRIMALove**    | 電視動畫『[沒有心跳的少女 BEATLESS](https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS "wikilink")』片尾曲                                                                                            | 2018年 |
+| **CheerS**       | 電視動畫『[工作細胞](https://zh.wikipedia.org/wiki/工作細胞 "wikilink")』片尾曲                                                                                                                    |       |
 
-## [Niconico上的翻唱作品](../Page/Niconico.md "wikilink")
+## [Niconico上的翻唱作品](https://zh.wikipedia.org/wiki/Niconico "wikilink")
 
 <table>
 <thead>
@@ -411,7 +411,7 @@ ISBN 978-4789735421</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2009年10月17日</p></td>
-<td><p><strong><a href="../Page/BLACK★ROCK_SHOOTER#樂曲.md" title="wikilink">BLACK★ROCK SHOOTER</a></strong>　</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER#樂曲" title="wikilink">BLACK★ROCK SHOOTER</a></strong>　</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -432,7 +432,7 @@ ISBN 978-4789735421</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2009年11月29日</p></td>
-<td><p><strong><a href="../Page/only_my_railgun.md" title="wikilink">only my railgun</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/only_my_railgun" title="wikilink">only my railgun</a></strong></p></td>
 <td><p>電視動畫《<a href="../Page/科學超電磁砲.md" title="wikilink">科學超電磁砲</a>》片頭曲1</p></td>
 <td></td>
 </tr>
@@ -453,7 +453,7 @@ ISBN 978-4789735421</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2009年12月31日</p></td>
-<td><p><strong><a href="../Page/Lion_(May&#39;n/中島愛歌曲).md" title="wikilink">Lion</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lion_(May&#39;n/中島愛歌曲)" title="wikilink">Lion</a></strong></p></td>
 <td><p>電視動畫《<a href="../Page/超时空要塞Frontier.md" title="wikilink">超时空要塞Frontier</a>》片頭曲。</p></td>
 <td></td>
 </tr>
@@ -475,14 +475,14 @@ ISBN 978-4789735421</p></td>
 <td><p>11th</p></td>
 <td><p>2010年4月3日</p></td>
 <td><p><strong><a href="../Page/Polyrhythm_(Perfume單曲).md" title="wikilink">Polyrhythm</a></strong></p></td>
-<td><p>日本女子電音組合<a href="../Page/Perfume.md" title="wikilink">Perfume單曲</a> "Polyrhythm"</p></td>
+<td><p>日本女子電音組合<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume單曲</a> "Polyrhythm"</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2010年5月8日</p></td>
-<td><p><strong><a href="../Page/Don&#39;t_say_&quot;lazy&quot;.md" title="wikilink">Don't say "lazy"</a></strong></p></td>
-<td><p>電視動畫《<a href="../Page/K-ON!.md" title="wikilink">K-ON!</a>》片尾曲</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Don&#39;t_say_&quot;lazy&quot;" title="wikilink">Don't say "lazy"</a></strong></p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON!</a>》片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -502,8 +502,8 @@ ISBN 978-4789735421</p></td>
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p>2011年8月10日</p></td>
-<td><p><strong><a href="../Page/true_blue.md" title="wikilink">true blue</a></strong></p></td>
-<td><p>纪念碟《<a href="../Page/ZONEトリビュート〜君がくれたもの〜.md" title="wikilink">ZONEトリビュート〜君がくれたもの〜</a>》<br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/true_blue" title="wikilink">true blue</a></strong></p></td>
+<td><p>纪念碟《<a href="https://zh.wikipedia.org/wiki/ZONEトリビュート〜君がくれたもの〜" title="wikilink">ZONEトリビュート〜君がくれたもの〜</a>》<br />
 SRCL-7682（通常版）SRCL-7680（限量生产版）</p></td>
 <td></td>
 </tr>
@@ -518,7 +518,7 @@ SRCL-7682（通常版）SRCL-7680（限量生产版）</p></td>
   - [アリス☆クララ](https://web.archive.org/web/20130314142352/http://x82.peps.jp/alicekurara)，在時代的官方網站。
 
   - [Nicovideo
-    Mylist](https://www.webcitation.org/668u1RnD8?url=http://www.nicovideo.jp/mylist/15308474)，在[NICONICO動畫上的Mylist](../Page/NICONICO動畫.md "wikilink")。
+    Mylist](https://www.webcitation.org/668u1RnD8?url=http://www.nicovideo.jp/mylist/15308474)，在[NICONICO動畫上的Mylist](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
   -
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")

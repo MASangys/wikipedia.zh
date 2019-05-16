@@ -20,8 +20,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
   - 2007年，舊札幌總社的職員成立[Debris札幌](https://zh.wikipedia.org/wiki/Debris札幌 "wikilink")。
   - 2008年，大阪工作室及東京第二工作室的一部分職員成立[GoHands](https://zh.wikipedia.org/wiki/GoHands "wikilink")。
-  - 2008年，東京第一工作室的一部分職員成立[Eight
-    Bit](https://zh.wikipedia.org/wiki/8bit "wikilink")。
+  - 2008年，東京第一工作室的一部分職員成立[Eight Bit](../Page/8bit.md "wikilink")。
   - 2012年，上海工作室的一部分職員成立[KDE](../Page/科樂美數位娛樂.md "wikilink")。
 
 ## 重要奬項
@@ -52,7 +51,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 :\* [創聖機械天使](https://zh.wikipedia.org/wiki/創聖機械天使 "wikilink")（，2005年）
 
 :\*
-[創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")（，2012年，與[8bit共同制作](https://zh.wikipedia.org/wiki/8bit "wikilink")）
+[創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")（，2012年，與[8bit共同制作](../Page/8bit.md "wikilink")）
 
   - [到另一個你的身邊去](../Page/到另一個你的身邊去.md "wikilink")（，2005年）
 
@@ -92,7 +91,7 @@ Cube公司購入股。該公司行政總裁內田善之兼任公司社長。同�
 
   - [KIDDY GiRL-AND](../Page/KIDDY_GiRL-AND.md "wikilink")（，2009年）
 
-  - [動物偵探奇魯米](https://zh.wikipedia.org/wiki/動物偵探奇魯米 "wikilink")（，2009年）（1－11話製作統籌，12話－50話製作，實質製作為[HAL
+  - [動物偵探奇魯米](../Page/動物偵探奇魯米.md "wikilink")（，2009年）（1－11話製作統籌，12話－50話製作，實質製作為[HAL
     FILM
     MAKER及JM](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
     ANIMATION）
@@ -122,10 +121,10 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
   - [革神語](../Page/革神語.md "wikilink")（2013年）（與JM ANIMATION共同制作）
   - [記錄的地平線](../Page/記錄的地平線.md "wikilink")（，2013年）
   - [白色相簿2](../Page/白色相簿2.md "wikilink")（，2013年）
-  - [愚者信長](https://zh.wikipedia.org/wiki/愚者信長 "wikilink")（，2014年）
+  - [愚者信長](../Page/愚者信長.md "wikilink")（，2014年）
   - [M3〜其為黑鋼〜](https://zh.wikipedia.org/wiki/M3〜其為黑鋼〜 "wikilink")（，2014年，與C2C共同制作）
   - [魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")（，2014年）
-  - [小長門有希的消失](https://zh.wikipedia.org/wiki/小長門有希的消失 "wikilink")（，2015年）
+  - [小長門有希的消失](../Page/小長門有希的消失.md "wikilink")（，2015年）
   - [-{zh-cn:创圣的大天使LOGOS; zh-tw:創聖機械天使LOGOS;
     zh-hk:創聖大天使LOGOS;}-](../Page/Aquarion_Logos.md "wikilink")（，2015年，與C2C共同制作）
   - [小桃小栗 Love Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")（，2015年）
@@ -234,7 +233,7 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
 ### 劇場版
 
   - [劇場版 Macross F
-    虛空歌姬](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2009年）（與[8bit共同制作](https://zh.wikipedia.org/wiki/8bit "wikilink")）
+    虛空歌姬](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2009年）（與[8bit共同制作](../Page/8bit.md "wikilink")）
   - [劇場版 Macross F
     戀離飛翼](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（，2011年）
   - [超時空要塞FB7 銀河流魂
@@ -253,8 +252,8 @@ FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")）
 ## 相關項目
 
   - [GoHands](https://zh.wikipedia.org/wiki/GoHands "wikilink")
-  - [8bit](https://zh.wikipedia.org/wiki/8bit "wikilink")
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [8bit](../Page/8bit.md "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

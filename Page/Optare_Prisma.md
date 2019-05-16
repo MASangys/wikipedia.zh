@@ -13,8 +13,7 @@ Prisma的最终销量还是比只卖出22辆的Wright Cityranger多。
 
 Optare Prisma共制造了121辆，以下是使用者：
 
-  - Tees &
-    District（现在的[爱瑞发东北](https://zh.wikipedia.org/wiki/爱瑞发 "wikilink")）
+  - Tees & District（现在的[爱瑞发东北](../Page/爱瑞发.md "wikilink")）
   - Grampian Regional Transport（现在的First Aberdeen）
   - Eastern Scottish（现在的First Edinburgh）
   - Leicester Citybus（现在的First Leicester）

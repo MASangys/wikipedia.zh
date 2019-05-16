@@ -5,11 +5,11 @@
 
 本作是由《[超級機械人大戰系列](https://zh.wikipedia.org/wiki/超級機械人大戰系列 "wikilink")》作品中登場的原創角色構成的OG\[1\]系列作品之一。雖為該系列第3作，但標題並非《超級機械人大戰OG3》。而是將[PS2上的前兩作合集](../Page/PlayStation_2.md "wikilink")《[超級機器人大戰OG
 ORIGINAL
-GENERATIONS](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")》\[2\]（下文簡稱：OGS）視為「第1次」，本作則順理成章地成為《「第2次」超級機器人大戰OG》\[3\]。劇情上則是第2.5作：《》的延續。
+GENERATIONS](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")》\[2\]（下文簡稱：OGS）視為「第1次」，本作則順理成章地成為《「第2次」超級機器人大戰OG》\[3\]。劇情上則是第2.5作：《》的延續。
 
 系列中首款PS3上的專用作品，畫面的[解像度為系列作以來最高](https://zh.wikipedia.org/wiki/解像度 "wikilink")，而且畫質亦是[HD級別](../Page/HDMI.md "wikilink")。另外在戰鬥場面方面，以前機體及背景都是2D的，到本作背景變為用3D描繪\[4\]，必殺技時更會有特別的動態視點。另外，《OGS》《OG外傳》中登場機體的戰鬥場面在本作高解像度的運用下得以提高，一些戰鬥場面的戰鬥動畫亦有重新設計。
 
-新參戰有《[超級機械人大戰D](https://zh.wikipedia.org/wiki/超級機械人大戰D "wikilink")》、《》，前作《OG外傳》中有客串演出的《[超級機械人大戰MX](https://zh.wikipedia.org/wiki/超級機械人大戰MX "wikilink")》的角色及機體亦確認了登場。另外，故事上亦包含了DC戰爭系列的《[超級機器人大戰EX](https://zh.wikipedia.org/wiki/超級機器人大戰EX "wikilink")》、《[第4次超級機器人大戰](https://zh.wikipedia.org/wiki/第4次超級機器人大戰 "wikilink")》、《[超級機器人大戰F](https://zh.wikipedia.org/wiki/超級機器人大戰F "wikilink")》、α系列的《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/第2次超級機械人大戰α "wikilink")》。
+新參戰有《[超級機械人大戰D](https://zh.wikipedia.org/wiki/超級機械人大戰D "wikilink")》、《》，前作《OG外傳》中有客串演出的《[超級機械人大戰MX](https://zh.wikipedia.org/wiki/超級機械人大戰MX "wikilink")》的角色及機體亦確認了登場。另外，故事上亦包含了DC戰爭系列的《[超級機器人大戰EX](../Page/超級機器人大戰EX.md "wikilink")》、《[第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")》、《[超級機器人大戰F](../Page/超級機器人大戰F.md "wikilink")》、α系列的《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/第2次超級機械人大戰α "wikilink")》。
 
 原本預定發售日期為2011年9月29日，但在同年7月12日發表了無限期發售延期的公告\[5\]，至2012年5月31日才表示將預定於2012年冬季發售\[6\]。於2012年8月9日公佈預定發售日期為同年11月29日\[7\]。
 

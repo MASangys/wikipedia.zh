@@ -1,13 +1,14 @@
 《**Swallowtail Butterfly
-～愛之歌～**》（[日語](../Page/日語.md "wikilink")：），是[日本](../Page/日本.md "wikilink")[電影](../Page/電影.md "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》衍生的[樂團](../Page/樂團.md "wikilink")[YEN
+～愛之歌～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》衍生的[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[YEN
 TOWN
-BAND的](../Page/YEN_TOWN_BAND.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
+BAND的](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 1996年7月22日發行。
 
 ## 簡介
 
-是由[岩井俊二執導](../Page/岩井俊二.md "wikilink")、[CHARA親自主演的電影](../Page/CHARA.md "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》的[片尾曲](../Page/主題曲.md "wikilink")。同年CD單曲化，CHARA和[音樂製作人](../Page/音樂製作人.md "wikilink")[小林武史以電影中的虛構樂團](../Page/小林武史.md "wikilink")「[YEN
-TOWN BAND](../Page/YEN_TOWN_BAND.md "wikilink")」為名義組成限定的樂團組合。
+是由[岩井俊二執導](../Page/岩井俊二.md "wikilink")、[CHARA親自主演的電影](https://zh.wikipedia.org/wiki/CHARA "wikilink")《[燕尾蝶](../Page/燕尾蝶_\(電影\).md "wikilink")》的[片尾曲](../Page/主題曲.md "wikilink")。同年CD單曲化，CHARA和[音樂製作人](../Page/音樂製作人.md "wikilink")[小林武史以電影中的虛構樂團](../Page/小林武史.md "wikilink")「[YEN
+TOWN
+BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")」為名義組成限定的樂團組合。
 
 不僅CHARA和小林武史，導演岩井俊二也參與了填詞。
 
@@ -21,10 +22,10 @@ TOWN BAND](../Page/YEN_TOWN_BAND.md "wikilink")」為名義組成限定的樂團
 
 1.  **Swallowtail Butterfly ～愛之歌～**（）
       -
-        作詞：[岩井俊二](../Page/岩井俊二.md "wikilink")、[CHARA](../Page/CHARA.md "wikilink")、[小林武史](../Page/小林武史.md "wikilink")；作曲、編曲：小林武史
+        作詞：[岩井俊二](../Page/岩井俊二.md "wikilink")、[CHARA](https://zh.wikipedia.org/wiki/CHARA "wikilink")、[小林武史](../Page/小林武史.md "wikilink")；作曲、編曲：小林武史
 2.  **Mama's alright**
       -
-        作詞：小林武史、[長澤崇代](../Page/長澤崇代.md "wikilink")、BRYAN
+        作詞：小林武史、[長澤崇代](https://zh.wikipedia.org/wiki/長澤崇代 "wikilink")、BRYAN
         BURTON-LEWIS；作曲、編曲：小林武史
 
 ## 參考資料

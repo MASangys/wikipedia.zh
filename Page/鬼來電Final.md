@@ -242,7 +242,7 @@ Final）。[鬼來電系列電影完結篇](https://zh.wikipedia.org/wiki/鬼來
 
   - 作詞：[秋元康](../Page/秋元康.md "wikilink")
   - 作曲：[江崎敏子](https://zh.wikipedia.org/wiki/江崎敏子 "wikilink")
-  - 編曲：[羽毛田丈史](https://zh.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - 編曲：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
   - 演唱：[中孝介](../Page/中孝介.md "wikilink")
 
 ## 相關作品

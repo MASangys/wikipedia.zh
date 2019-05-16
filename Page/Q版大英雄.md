@@ -1,14 +1,14 @@
-《**Q版大英雄**》（）是一部由[惊奇动画所制作的](../Page/惊奇动画.md "wikilink")[电视动画](../Page/电视动画.md "wikilink")。源自於[孩之宝的Ｑ版大英雄生產線](../Page/孩之宝.md "wikilink")，其角色皆由驚奇漫畫世界（[惊奇宇宙](../Page/惊奇宇宙.md "wikilink")）裡面加以Ｑ版化（[super-deformed](../Page/super-deformed.md "wikilink")-style）。本系列動畫是由[羅曼電影公司](../Page/羅曼電影公司.md "wikilink")（[Film
-Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film_Partners.md "wikilink")，和[驚奇動畫工作室製作](../Page/驚奇動畫.md "wikilink")。
+《**Q版大英雄**》（）是一部由[惊奇动画所制作的](https://zh.wikipedia.org/wiki/惊奇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。源自於[孩之宝的Ｑ版大英雄生產線](https://zh.wikipedia.org/wiki/孩之宝 "wikilink")，其角色皆由驚奇漫畫世界（[惊奇宇宙](https://zh.wikipedia.org/wiki/惊奇宇宙 "wikilink")）裡面加以Ｑ版化（[super-deformed](https://zh.wikipedia.org/wiki/super-deformed "wikilink")-style）。本系列動畫是由[羅曼電影公司](https://zh.wikipedia.org/wiki/羅曼電影公司 "wikilink")（[Film
+Roman](https://zh.wikipedia.org/wiki/Film_Roman "wikilink")）、[Ingenious](https://zh.wikipedia.org/wiki/Ingenious_Film_Partners "wikilink")，和[驚奇動畫工作室製作](https://zh.wikipedia.org/wiki/驚奇動畫 "wikilink")。
 
-本作品在2009年9月13日（星期日早上8點半）在加拿大的[Teletoon](../Page/Teletoon_\(Canadian_TV_channel\).md "wikilink")
+本作品在2009年9月13日（星期日早上8點半）在加拿大的[Teletoon](https://zh.wikipedia.org/wiki/Teletoon_\(Canadian_TV_channel\) "wikilink")
 進行全球首播。\[1\]
 
-美國[卡通频道在隔日](../Page/卡通频道.md "wikilink")（2009年9月14日）到18日間，\[2\]先行首播。
+美國[卡通频道在隔日](https://zh.wikipedia.org/wiki/卡通频道 "wikilink")（2009年9月14日）到18日間，\[2\]先行首播。
 第二季於2010年10月23日早上6點半
-(ET)。12月4日，在澳洲的一個免費兒童頻道[ABC3也開始播出](../Page/ABC3.md "wikilink")。
+(ET)。12月4日，在澳洲的一個免費兒童頻道[ABC3也開始播出](https://zh.wikipedia.org/wiki/ABC3 "wikilink")。
 
-英國於2009年10月開始在[NickToons](../Page/Nicktoons_\(UK_&_Ireland\).md "wikilink")
+英國於2009年10月開始在[NickToons](https://zh.wikipedia.org/wiki/Nicktoons_\(UK_&_Ireland\) "wikilink")
 播出。\[3\]
 
 香港於2011年7月4日開始在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播出](../Page/本港台.md "wikilink")，譯名為《超級英雄聯盟》。
@@ -36,13 +36,13 @@ Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film
     是能量超能力者。
     於第26集跟著宇宙魔王回去。
 
-##### [猎鹰](../Page/猎鹰.md "wikilink")(Falcon)
+##### [猎鹰](https://zh.wikipedia.org/wiki/猎鹰 "wikilink")(Falcon)
 
   -
     配音：Alimi Ballard（美）、[李世揚](../Page/李世揚.md "wikilink")（台）
     是極速超能力者。
 
-##### [浩克](../Page/浩克.md "wikilink")(Hulk)
+##### [浩克](https://zh.wikipedia.org/wiki/浩克 "wikilink")(Hulk)
 
   -
     配音：Travis Willingham（美）、[符爽](../Page/符爽.md "wikilink")（台）
@@ -56,7 +56,7 @@ Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film
     台灣配音版常帶入一些台語。
     個性火爆，初次當百變龍的導師讓金剛狼非常不滿，之後和百變龍的關係有變好。
 
-##### [索爾](../Page/索爾.md "wikilink")(Thor)
+##### [索爾](https://zh.wikipedia.org/wiki/索爾 "wikilink")(Thor)
 
   -
     是天候超能力者。
@@ -97,14 +97,14 @@ Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film
   -
     配音：Grey DeLisle （美）、[魏晶琦](../Page/魏晶琦.md "wikilink")（台）
 
-#### [超級英雄市長](../Page/超級英雄市長.md "wikilink")(Mayor of Superhero City)
+#### [超級英雄市長](https://zh.wikipedia.org/wiki/超級英雄市長 "wikilink")(Mayor of Superhero City)
 
   -
     配音：[史丹·李](../Page/史丹·李.md "wikilink")（美）、符爽（台）
 
 ### 壞惡堡角色
 
-#### [末日博士](../Page/末日博士.md "wikilink")(Dr. Doom)
+#### [末日博士](https://zh.wikipedia.org/wiki/末日博士 "wikilink")(Dr. Doom)
 
   -
     配音：Charlie
@@ -113,19 +113,20 @@ Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film
 #### [魔多客](../Page/魔多客.md "wikilink")(M.O.D.O.K.)
 
   -
-    配音：Tom Kenny（美）、[吳東原](../Page/吳東原.md "wikilink")（台）
+    配音：Tom
+    Kenny（美）、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（台）
 
-#### [惡煞](../Page/惡煞.md "wikilink")(Abomination)
+#### [惡煞](https://zh.wikipedia.org/wiki/惡煞 "wikilink")(Abomination)
 
   -
     配音：Steven Blum（美）
 
-#### [巫魔女](../Page/巫魔女.md "wikilink")(Enchantress)
+#### [巫魔女](https://zh.wikipedia.org/wiki/巫魔女 "wikilink")(Enchantress)
 
   -
     配音：Grey DeLisle （美）、[魏晶琦](../Page/魏晶琦.md "wikilink")（台）
 
-#### [黏糊屁哥](../Page/黏糊屁哥.md "wikilink")
+#### [黏糊屁哥](https://zh.wikipedia.org/wiki/黏糊屁哥 "wikilink")
 
   -
     配音：[魏伯勤](../Page/魏伯勤.md "wikilink")（台）
@@ -141,7 +142,8 @@ Roman](../Page/Film_Roman.md "wikilink")）、[Ingenious](../Page/Ingenious_Film
 
   - [*The Super Hero Squad
     Show*](https://web.archive.org/web/20110131135124/http://www.cartoonnetwork.com/tv_shows/superherosquad/)
-    on [Cartoon Network.com](../Page/Cartoon_Network.md "wikilink")
+    on [Cartoon
+    Network.com](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
 
   - [*The Super Hero Squad
     Show*](http://www.animatedsuperheroes.com/2009/09/super-hero-squad-show.html)

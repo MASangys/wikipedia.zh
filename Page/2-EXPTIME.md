@@ -1,5 +1,5 @@
-在[計算複雜度理論內](../Page/計算複雜度理論.md "wikilink")，**2-EXPTIME**這個[複雜度類](../Page/複雜度類.md "wikilink")
-(有時寫作**2-EXP**)是在[O](../Page/大O符號.md "wikilink")(2<sup>2<sup>*p*(*n*)</sup></sup>)時間內，可以使用[決定型圖靈機解決掉](../Page/決定型圖靈機.md "wikilink")[決定型問題的集合](../Page/決定型問題.md "wikilink")，這裡
+在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，**2-EXPTIME**這個[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")
+(有時寫作**2-EXP**)是在[O](https://zh.wikipedia.org/wiki/大O符號 "wikilink")(2<sup>2<sup>*p*(*n*)</sup></sup>)時間內，可以使用[決定型圖靈機解決掉](https://zh.wikipedia.org/wiki/決定型圖靈機 "wikilink")[決定型問題的集合](https://zh.wikipedia.org/wiki/決定型問題 "wikilink")，這裡
 *p*(*n*) 是*n*的一個多項式
 
 用[DTIME的方式說明](../Page/DTIME.md "wikilink")，
@@ -17,7 +17,7 @@
     [EXPSPACE](../Page/EXPSPACE.md "wikilink") \(\subseteq\) 2-EXPTIME
     \(\subseteq\) [ELEMENTARY](../Page/ELEMENTARY.md "wikilink").
 
-2-EXPTIME也可以被重構成AEXPSPACE這個空間複雜度類(使用[交替式圖靈機可以在指數空間內解決的問題](../Page/交替式圖靈機.md "wikilink"))。因為交替式圖靈機至少有跟決定型圖靈機一樣的計算力，所以這也是一個看出EXPSPACE
+2-EXPTIME也可以被重構成AEXPSPACE這個空間複雜度類(使用[交替式圖靈機可以在指數空間內解決的問題](https://zh.wikipedia.org/wiki/交替式圖靈機 "wikilink"))。因為交替式圖靈機至少有跟決定型圖靈機一樣的計算力，所以這也是一個看出EXPSPACE
 \(\subseteq\) 2-EXPTIME的方式。\[1\]
 
 2-EXPTIME這個複雜度類，是在一種可以不斷提昇時間上限的複雜度類層級裡面的其中一類。像3-EXPTIME
@@ -33,7 +33,7 @@ problems)相較於全部資訊可觀察的遊戲，其困難度則從[EXPTIME](.
 
 ## 相關頁面
 
-  - [雙重指數](../Page/雙重指數.md "wikilink")
+  - [雙重指數](https://zh.wikipedia.org/wiki/雙重指數 "wikilink")
 
 ## 參考資料
 

@@ -66,7 +66,7 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 <td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/傑克_(ONE_PIECE).md" title="wikilink">「紅髮」傑克</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/傑克_(ONE_PIECE)" title="wikilink">「紅髮」傑克</a></p></td>
 <td><p><a href="../Page/池田秀一.md" title="wikilink">池田秀一</a></p></td>
 </tr>
 </tbody>
@@ -91,7 +91,7 @@ film』為題，同步上映『[美食獵人TORIKO](../Page/美食獵人TORIKO.m
 
 ## 工作人員
 
-  - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")（[集英社](../Page/集英社.md "wikilink")・[週刊少年JUMP連載](../Page/週刊少年JUMP.md "wikilink")）
+  - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")（[集英社](../Page/集英社.md "wikilink")・[週刊少年JUMP連載](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")）
   - 劇本：堤泰之
   - 監督：佐藤宏幸
   - 製作：「2011 ONE PIECE」製作委員會

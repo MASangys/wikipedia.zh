@@ -4,7 +4,7 @@
 
 ## 冠軍專輯列表
 
-專輯類型中的「原創」是指[原創專輯](../Page/錄音室專輯.md "wikilink")；「精選」是指[精選輯](../Page/精選輯.md "wikilink")；「合輯」是指[合輯](../Page/合輯.md "wikilink")；「翻唱」是指[翻唱專輯](../Page/翻唱專輯.md "wikilink")；「原聲」是指[音樂原聲帶](../Page/原聲音樂.md "wikilink")。
+專輯類型中的「原創」是指[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")；「精選」是指[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")；「合輯」是指[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")；「翻唱」是指[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")；「原聲」是指[音樂原聲帶](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 <table>
 <thead>
@@ -23,7 +23,7 @@
 <td><p>1月12日<br />
 （雙週）</p></td>
 <td><p><a href="../Page/My_song_Your_song.md" title="wikilink">My song Your song</a></p></td>
-<td><p><a href="../Page/生物股長.md" title="wikilink">生物股長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物股長" title="wikilink">生物股長</a></p></td>
 <td><p>原創</p></td>
 <td><p>24.2</p></td>
 <td><p>2</p></td>
@@ -31,7 +31,7 @@
 <tr class="even">
 <td><p>1月19日</p></td>
 <td><p><a href="../Page/EXILE_BALLAD_BEST.md" title="wikilink">EXILE BALLAD BEST</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>精選</p></td>
 <td><p>5.3</p></td>
 <td><p>6</p></td>
@@ -46,7 +46,7 @@
 </tr>
 <tr class="even">
 <td><p>2月2日</p></td>
-<td><p><a href="../Page/touch_Me!.md" title="wikilink">touch Me!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/touch_Me!" title="wikilink">touch Me!</a></p></td>
 <td><p><a href="../Page/倉木麻衣.md" title="wikilink">倉木麻衣</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.0</p></td>
@@ -70,7 +70,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月23日</p></td>
-<td><p><a href="../Page/LOVE!_～THELMA_LOVE_SONG_COLLECTION～.md" title="wikilink">LOVE! ～THELMA LOVE SONG COLLECTION～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE!_～THELMA_LOVE_SONG_COLLECTION～" title="wikilink">LOVE! ～THELMA LOVE SONG COLLECTION～</a></p></td>
 <td><p><a href="../Page/青山黛瑪.md" title="wikilink">青山黛瑪</a></p></td>
 <td><p>精選</p></td>
 <td><p>4.5</p></td>
@@ -78,15 +78,15 @@
 </tr>
 <tr class="even">
 <td><p>3月2日</p></td>
-<td><p><a href="../Page/Chambre.md" title="wikilink">Chambre</a></p></td>
-<td><p><a href="../Page/UNICORN.md" title="wikilink">UNICORN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chambre" title="wikilink">Chambre</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UNICORN" title="wikilink">UNICORN</a></p></td>
 <td><p>原創</p></td>
 <td><p>15.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月9日</p></td>
-<td><p><a href="../Page/ANSWER_(安潔拉亞季專輯).md" title="wikilink">ANSWER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANSWER_(安潔拉亞季專輯)" title="wikilink">ANSWER</a></p></td>
 <td><p><a href="../Page/安潔拉亞季.md" title="wikilink">安潔拉亞季</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.4</p></td>
@@ -94,7 +94,7 @@
 </tr>
 <tr class="even">
 <td><p>3月16日</p></td>
-<td><p><a href="../Page/FUNKY_MONKEY_BABYS_3.md" title="wikilink">FUNKY MONKEY BABYS 3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FUNKY_MONKEY_BABYS_3" title="wikilink">FUNKY MONKEY BABYS 3</a></p></td>
 <td><p><a href="../Page/放克猴寶貝.md" title="wikilink">放克猴寶貝</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.0</p></td>
@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月23日</p></td>
-<td><p><a href="../Page/Remioromen_(專輯).md" title="wikilink">Remioromen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Remioromen_(專輯)" title="wikilink">Remioromen</a></p></td>
 <td><p><a href="../Page/Remioromen.md" title="wikilink">Remioromen</a></p></td>
 <td><p>精選</p></td>
 <td><p>28.0</p></td>
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>3月30日</p></td>
-<td><p><a href="../Page/DO_YOU_DREAMS_COME_TRUE?.md" title="wikilink">DO YOU DREAMS COME TRUE?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE?" title="wikilink">DO YOU DREAMS COME TRUE?</a></p></td>
 <td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></p></td>
 <td><p>原創</p></td>
 <td><p>23.1</p></td>
@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p>4月13日</p></td>
-<td><p><a href="../Page/DO_YOU_DREAMS_COME_TRUE?.md" title="wikilink">DO YOU DREAMS COME TRUE?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DO_YOU_DREAMS_COME_TRUE?" title="wikilink">DO YOU DREAMS COME TRUE?</a></p></td>
 <td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.2</p></td>
@@ -134,8 +134,8 @@
 </tr>
 <tr class="odd">
 <td><p>4月20日</p></td>
-<td><p><a href="../Page/湘南乃風～JOKER～.md" title="wikilink">湘南乃風～JOKER～</a></p></td>
-<td><p><a href="../Page/湘南乃風.md" title="wikilink">湘南乃風</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湘南乃風～JOKER～" title="wikilink">湘南乃風～JOKER～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湘南乃風" title="wikilink">湘南乃風</a></p></td>
 <td><p>原創</p></td>
 <td><p>8.4</p></td>
 <td><p>1</p></td>
@@ -150,8 +150,8 @@
 </tr>
 <tr class="odd">
 <td><p>5月4日</p></td>
-<td><p><a href="../Page/鶴之歌.md" title="wikilink">鶴之歌</a></p></td>
-<td><p><a href="../Page/鶴野剛士.md" title="wikilink">鶴野剛士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鶴之歌" title="wikilink">鶴之歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鶴野剛士" title="wikilink">鶴野剛士</a></p></td>
 <td><p>翻唱</p></td>
 <td><p>10.3</p></td>
 <td><p>1</p></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月18日</p></td>
-<td><p><a href="../Page/WE_ALL.md" title="wikilink">WE ALL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WE_ALL" title="wikilink">WE ALL</a></p></td>
 <td><p><a href="../Page/德永英明.md" title="wikilink">德永英明</a></p></td>
 <td><p>原創</p></td>
 <td><p>3.0</p></td>
@@ -174,15 +174,15 @@
 </tr>
 <tr class="even">
 <td><p>5月25日</p></td>
-<td><p><a href="../Page/21st_Century_Breakdown.md" title="wikilink">21st Century Breakdown</a></p></td>
-<td><p><a href="../Page/Green_Day.md" title="wikilink">Green Day</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/21st_Century_Breakdown" title="wikilink">21st Century Breakdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Green_Day" title="wikilink">Green Day</a></p></td>
 <td><p>原創</p></td>
 <td><p>6.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月1日</p></td>
-<td><p><a href="../Page/Relapse.md" title="wikilink">Relapse</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Relapse" title="wikilink">Relapse</a></p></td>
 <td><p><a href="../Page/Eminem.md" title="wikilink">Eminem</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.6</p></td>
@@ -190,8 +190,8 @@
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p><a href="../Page/Trash_We&#39;d_Love.md" title="wikilink">Trash We'd Love</a></p></td>
-<td><p><a href="../Page/the_HIATUS.md" title="wikilink">the HIATUS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Trash_We&#39;d_Love" title="wikilink">Trash We'd Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.9</p></td>
 <td><p>1</p></td>
@@ -230,7 +230,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月13日</p></td>
-<td><p><a href="../Page/残響.md" title="wikilink">残響</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/残響" title="wikilink">残響</a></p></td>
 <td><p><a href="../Page/福山雅治.md" title="wikilink">福山雅治</a></p></td>
 <td><p>原創</p></td>
 <td><p>26.0</p></td>
@@ -239,7 +239,7 @@
 <tr class="even">
 <td><p>7月20日</p></td>
 <td><p><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿</a></p></td>
-<td><p><a href="../Page/Perfume.md" title="wikilink">Perfume</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>原創</p></td>
 <td><p>21.0</p></td>
 <td><p>1</p></td>
@@ -254,15 +254,15 @@
 </tr>
 <tr class="even">
 <td><p>8月3日</p></td>
-<td><p><a href="../Page/放課後TEA_TIME.md" title="wikilink">放課後TEA TIME</a></p></td>
-<td><p><a href="../Page/K-ON!.md" title="wikilink">放課後TEA TIME</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/放課後TEA_TIME" title="wikilink">放課後TEA TIME</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">放課後TEA TIME</a></p></td>
 <td><p>原創</p></td>
 <td><p>6.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月10日</p></td>
-<td><p><a href="../Page/Hello-Goodbye.md" title="wikilink">Hello-Goodbye</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hello-Goodbye" title="wikilink">Hello-Goodbye</a></p></td>
 <td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">Coming Century</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.3</p></td>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p>8月31日</p></td>
-<td><p><a href="../Page/1999-2009_完全精選!.md" title="wikilink">1999-2009 完全精選!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1999-2009_完全精選!" title="wikilink">1999-2009 完全精選!</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>精選</p></td>
 <td><p>75.3</p></td>
@@ -318,7 +318,7 @@
 </tr>
 <tr class="even">
 <td><p>9月28日</p></td>
-<td><p><a href="../Page/BEST_A.I..md" title="wikilink">BEST A.I.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEST_A.I." title="wikilink">BEST A.I.</a></p></td>
 <td><p><a href="../Page/AI_(歌手).md" title="wikilink">AI</a></p></td>
 <td><p>精選</p></td>
 <td><p>8.1</p></td>
@@ -342,7 +342,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月19日</p></td>
-<td><p><a href="../Page/FURUSATO.md" title="wikilink">FURUSATO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FURUSATO" title="wikilink">FURUSATO</a></p></td>
 <td><p><a href="../Page/柚子_(組合).md" title="wikilink">柚子</a></p></td>
 <td><p>原創</p></td>
 <td><p>11.4</p></td>
@@ -350,7 +350,7 @@
 </tr>
 <tr class="even">
 <td><p>10月26日</p></td>
-<td><p><a href="../Page/The_BEST_of_Aqua_Timez.md" title="wikilink">The BEST of Aqua Timez</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_BEST_of_Aqua_Timez" title="wikilink">The BEST of Aqua Timez</a></p></td>
 <td><p><a href="../Page/Aqua_Timez.md" title="wikilink">Aqua Timez</a></p></td>
 <td><p>精選</p></td>
 <td><p>8.3</p></td>
@@ -358,7 +358,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月2日</p></td>
-<td><p><a href="../Page/THE_GREAT_VACATION_VOL.2_～SUPER_BEST_OF_GLAY～.md" title="wikilink">THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_～SUPER_BEST_OF_GLAY～" title="wikilink">THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>精選</p></td>
 <td><p>12.2</p></td>
@@ -367,7 +367,7 @@
 <tr class="even">
 <td><p>11月9日</p></td>
 <td><p><a href="../Page/This_Is_It_(迈克尔·杰克逊专辑).md" title="wikilink">This Is It</a></p></td>
-<td><p><a href="../Page/邁克爾·傑克遜.md" title="wikilink">邁克爾·傑克遜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁克爾·傑克遜" title="wikilink">邁克爾·傑克遜</a></p></td>
 <td><p>原聲、精選</p></td>
 <td><p>7.3</p></td>
 <td><p>1</p></td>
@@ -383,7 +383,7 @@
 <tr class="even">
 <td><p>11月23日</p></td>
 <td><p><a href="../Page/LOVE_is_BEST.md" title="wikilink">LOVE is BEST</a></p></td>
-<td><p><a href="../Page/大塚愛.md" title="wikilink">大塚愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大塚愛" title="wikilink">大塚愛</a></p></td>
 <td><p>精選</p></td>
 <td><p>5.6</p></td>
 <td><p>1</p></td>
@@ -398,7 +398,7 @@
 </tr>
 <tr class="even">
 <td><p>12月7日</p></td>
-<td><p><a href="../Page/A、B面精選！？.md" title="wikilink">A、B面精選！？</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A、B面精選！？" title="wikilink">A、B面精選！？</a></p></td>
 <td><p><a href="../Page/GReeeeN.md" title="wikilink">GReeeeN</a></p></td>
 <td><p>精選</p></td>
 <td><p>25.5</p></td>
@@ -407,7 +407,7 @@
 <tr class="odd">
 <td><p>12月14日</p></td>
 <td><p><a href="../Page/給珍愛的未來.md" title="wikilink">給珍愛的未來</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>原創</p></td>
 <td><p>73.0</p></td>
 <td><p>1</p></td>
@@ -415,7 +415,7 @@
 <tr class="even">
 <td><p>12月21日</p></td>
 <td><p><a href="../Page/J_album.md" title="wikilink">J album</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>原創</p></td>
 <td><p>17.0</p></td>
 <td><p>1</p></td>

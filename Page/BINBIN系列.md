@@ -16,7 +16,7 @@
 
   - [野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")：榎本英樹（職場的後輩）
 
-  - [小林聰美](https://zh.wikipedia.org/wiki/小林聰美 "wikilink")：（職場的同事）
+  - [小林聰美](../Page/小林聰美.md "wikilink")：（職場的同事）
 
   - [萩原流行](https://zh.wikipedia.org/wiki/萩原流行 "wikilink")：瀧澤（製作部主管）
 
@@ -34,7 +34,7 @@
 
   - [中島夕紀繪](https://zh.wikipedia.org/wiki/中島夕紀繪 "wikilink")：（日本放送職員）
 
-  - [山下真司](https://zh.wikipedia.org/wiki/山下真司 "wikilink")：沖田部長（職場的上司）
+  - [山下真司](../Page/山下真司.md "wikilink")：沖田部長（職場的上司）
 
   - [池上季實子](https://zh.wikipedia.org/wiki/池上季實子 "wikilink")：田島響子（製作部製作人）
 
@@ -83,7 +83,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
   - [五代高之](https://zh.wikipedia.org/wiki/五代高之 "wikilink")：鹿島（的贊助人）
 
-  - [長塚京三](https://zh.wikipedia.org/wiki/長塚京三 "wikilink")：三田不動產社長
+  - [長塚京三](../Page/長塚京三.md "wikilink")：三田不動產社長
 
   - [立原麻衣](https://zh.wikipedia.org/wiki/立原麻衣 "wikilink")
 
@@ -248,7 +248,7 @@ Best Ten](../Page/The_Best_Ten.md "wikilink")》年度冠軍歌曲。
 
   - [野村宏伸](https://zh.wikipedia.org/wiki/野村宏伸 "wikilink")：榎本英樹
 
-  - [麻生祐未](https://zh.wikipedia.org/wiki/麻生祐未 "wikilink")：三井祐子
+  - [麻生祐未](../Page/麻生祐未.md "wikilink")：三井祐子
 
   - [生田智子](https://zh.wikipedia.org/wiki/生田智子 "wikilink")：木下玲子
 

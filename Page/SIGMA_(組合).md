@@ -1,6 +1,6 @@
 {{ BLPsources }}
 
-**SIGMA**是一組[台灣三人](../Page/台灣.md "wikilink")[男子唱跳團體](../Page/男子音樂組合.md "wikilink")，團名源自希臘文的數學符號「[Σ](../Page/Σ.md "wikilink")」，代表總合、加總，強調「團結力量大」。於2010年11月正式出道，隔月發行首張專輯。成員有[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇和](../Page/李杰宇.md "wikilink")[林維哲三位](../Page/林維哲.md "wikilink")，團長是[周定緯](../Page/周定緯.md "wikilink")。
+**SIGMA**是一組[台灣三人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子唱跳團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，團名源自希臘文的數學符號「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")」，代表總合、加總，強調「團結力量大」。於2010年11月正式出道，隔月發行首張專輯。成員有[周定緯](../Page/周定緯.md "wikilink")、[李-{杰}-宇和](../Page/李杰宇.md "wikilink")[林維哲三位](../Page/林維哲.md "wikilink")，團長是[周定緯](../Page/周定緯.md "wikilink")。
 
 2012年8月，原團員之一林維哲宣布因個人生涯規劃而退出SIGMA，並於8月24日在經紀公司官網公布此一訊息。
 
@@ -37,7 +37,7 @@
 </tr>
 <tr class="even">
 <td><p>2010年12月17日</p></td>
-<td><p><a href="../Page/SIGMA_(專輯).md" title="wikilink">Sigma 首張同名專輯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SIGMA_(專輯)" title="wikilink">Sigma 首張同名專輯</a></p></td>
 <td><ol>
 <li><a href="http://www.youtube.com/watch?v=7ud4vRwg7Ok&amp;list=PL31511085EA6F07FD&amp;index=1&amp;feature=plpp_video">SIGMA</a></li>
 <li>我得了一種不跳舞就會死的病 DANCE or DIE</li>
@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011年1月28日</p></td>
-<td><p><a href="../Page/SIGMA_(專輯).md" title="wikilink">Sigma（影音雙全升級版）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SIGMA_(專輯)" title="wikilink">Sigma（影音雙全升級版）</a></p></td>
 <td><p>CD：</p>
 <ol>
 <li>SIGMA</li>
@@ -91,11 +91,11 @@
 
 ### 電視劇
 
-| 年份    | 撥出頻道                                                                | 劇名                                     | 參與成員    | 角色  | 性質  | 登場集數                           |
-| ----- | ------------------------------------------------------------------- | -------------------------------------- | ------- | --- | --- | ------------------------------ |
-| 2010年 | [中視](../Page/中視.md "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink") | 《[就想賴著妳](../Page/就想賴著妳.md "wikilink")》 | 周定緯     | 阿德  | 客串  | 1、2、6、7、13                     |
-| 2013年 | [華視](../Page/華視.md "wikilink")、[緯來綜合台](../Page/緯來綜合台.md "wikilink") | 《[我愛幸運七](../Page/我愛幸運七.md "wikilink")》 | 李-{杰}-宇 | 阿K  | 男配角 | 1-7,10-13                      |
-| 2013年 | 樂視網、[中天綜合台](../Page/中天綜合台.md "wikilink")                            | 《[PMAM](../Page/PMAM.md "wikilink")》   | 周定緯     | 王慎言 | 主角  | 1、2、5-7、9-17、19-20、23-30、32-40 |
+| 年份    | 撥出頻道                                                                                   | 劇名                                     | 參與成員    | 角色  | 性質  | 登場集數                           |
+| ----- | -------------------------------------------------------------------------------------- | -------------------------------------- | ------- | --- | --- | ------------------------------ |
+| 2010年 | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink") | 《[就想賴著妳](../Page/就想賴著妳.md "wikilink")》 | 周定緯     | 阿德  | 客串  | 1、2、6、7、13                     |
+| 2013年 | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[緯來綜合台](../Page/緯來綜合台.md "wikilink") | 《[我愛幸運七](../Page/我愛幸運七.md "wikilink")》 | 李-{杰}-宇 | 阿K  | 男配角 | 1-7,10-13                      |
+| 2013年 | 樂視網、[中天綜合台](../Page/中天綜合台.md "wikilink")                                               | 《[PMAM](../Page/PMAM.md "wikilink")》   | 周定緯     | 王慎言 | 主角  | 1、2、5-7、9-17、19-20、23-30、32-40 |
 
 ### 電影
 
@@ -177,11 +177,11 @@
 
 ## 得獎紀錄
 
-|             |                                            |          |
-| ----------- | ------------------------------------------ | -------- |
-| **日期**      | **典禮名稱**                                   | **得獎項目** |
-| 2011年11月24日 | [第四屆音樂風云榜新人盛典](../Page/新人盛典.md "wikilink") | 最佳潛力組合   |
-| 2011年12月11日 | 2011年音樂先鋒榜                                 | 先锋新组合    |
+|             |                                                               |          |
+| ----------- | ------------------------------------------------------------- | -------- |
+| **日期**      | **典禮名稱**                                                      | **得獎項目** |
+| 2011年11月24日 | [第四屆音樂風云榜新人盛典](https://zh.wikipedia.org/wiki/新人盛典 "wikilink") | 最佳潛力組合   |
+| 2011年12月11日 | 2011年音樂先鋒榜                                                    | 先锋新组合    |
 
 ## 參考資料
 

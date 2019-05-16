@@ -89,7 +89,7 @@ O形環材料可能會因為[高溫或](https://zh.wikipedia.org/wiki/高溫 "wi
 
 ## 相關條目
 
-  - [聚合物降解](https://zh.wikipedia.org/wiki/聚合物降解 "wikilink")
+  - [聚合物降解](../Page/聚合物降解.md "wikilink")
   - [挑戰者號太空梭](../Page/挑戰者號太空梭.md "wikilink")
 
 ## 參考文獻

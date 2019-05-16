@@ -1,12 +1,12 @@
 **OpenOffice.org Impress**（又稱**Impress**，**OpenOffice
 Impress**，**OpenOffice簡報**或**OO.o簡報**），是[甲骨文公司開發的](../Page/甲骨文公司.md "wikilink")[OpenOffice.org生產力軟體的一部分](../Page/OpenOffice.org.md "wikilink")。是一個功能與[Microsoft
 PowerPoint相近](../Page/Microsoft_PowerPoint.md "wikilink")，且可與Microsoft
-PowerPoint檔案相容的「簡報編輯」軟體。\[1\]除了可轉換為PDF檔外，也可以以[SWF之檔案形式輸出](../Page/SWF.md "wikilink")，讓電腦上裝有[Flash
-player的使用者觀看簡報](../Page/Flash_player.md "wikilink")。「OpenOffice.org簡報」可以瀏覽、編輯並存成多種格式（包含Microsoft
+PowerPoint檔案相容的「簡報編輯」軟體。\[1\]除了可轉換為PDF檔外，也可以以[SWF之檔案形式輸出](https://zh.wikipedia.org/wiki/SWF "wikilink")，讓電腦上裝有[Flash
+player的使用者觀看簡報](https://zh.wikipedia.org/wiki/Flash_player "wikilink")。「OpenOffice.org簡報」可以瀏覽、編輯並存成多種格式（包含Microsoft
 PowerPoint使用的.ppt檔）。\[2\]
 
 相較於[Microsoft
-PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")，「OpenOffice.org簡報」因為是[自由軟體](../Page/自由軟體.md "wikilink")，所以可以免費下載或自由散布等優點。
+PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")，「OpenOffice.org簡報」因為是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，所以可以免費下載或自由散布等優點。
 
 「OpenOffice.org簡報」使用者可安裝[開放美工圖庫](../Page/開放美工圖庫.md "wikilink")。[Linux發行版](../Page/Linux.md "wikilink")[Debian](../Page/Debian.md "wikilink"),
 [Gentoo](../Page/Gentoo_Linux.md "wikilink"),
@@ -19,7 +19,7 @@ PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")，「OpenOffice.org簡�
   - [Writer](../Page/OpenOffice.org_Writer.md "wikilink")
   - [Calc](../Page/OpenOffice.org_Calc.md "wikilink")
   - [Draw](../Page/OpenOffice.org_Draw.md "wikilink")
-  - [Math](../Page/OpenOffice.org_Math.md "wikilink")
+  - [Math](https://zh.wikipedia.org/wiki/OpenOffice.org_Math "wikilink")
 
 ## 參考
 
@@ -72,7 +72,7 @@ PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")，「OpenOffice.org簡�
     (OpenOffice.org 3.0)](http://www.linux.com/feature/148435)
 
 [de:Apache
-OpenOffice\#Impress](../Page/de:Apache_OpenOffice#Impress.md "wikilink")
+OpenOffice\#Impress](https://zh.wikipedia.org/wiki/de:Apache_OpenOffice#Impress "wikilink")
 
 [Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink")
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")

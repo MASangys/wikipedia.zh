@@ -5,7 +5,7 @@
 該網站成立於2005年10月\[1\]，由兩名學生Ehssan Dariani (CEO) 和 Dennis
 Bemmann所主導\[2\]。另一個版本名為SchülerVZ 推出，用於主推高中生。\[3\]
 
-2007年1月，StudiVZ被出售給一個德國集團，格奧爾格馮霍爾茨布林克出版集團（[霍尔茨布林克出版集团](https://zh.wikipedia.org/wiki/霍尔茨布林克出版集团 "wikilink")）。2008年2月，又有一個非學生版的meinVZ推出。
+2007年1月，StudiVZ被出售給一個德國集團，格奧爾格馮霍爾茨布林克出版集團（[霍尔茨布林克出版集团](../Page/霍尔茨布林克出版集团.md "wikilink")）。2008年2月，又有一個非學生版的meinVZ推出。
 
 [Facebook起诉StudiVZ抄襲](../Page/Facebook.md "wikilink")，並要求賠償。
 

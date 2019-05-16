@@ -45,7 +45,7 @@ I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。
 
   - [Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")
   - [AtGoogleTalks](https://zh.wikipedia.org/wiki/AtGoogleTalks "wikilink")
-  - [Android开发者日](https://zh.wikipedia.org/wiki/Android开发者日 "wikilink")
+  - [Android开发者日](../Page/Android开发者日.md "wikilink")
 
 ## 参考
 

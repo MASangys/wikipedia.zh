@@ -99,7 +99,7 @@
   - 音樂：[村山達哉](https://zh.wikipedia.org/wiki/村山達哉 "wikilink")、[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")、[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
   - 製作監製：[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink")
   - 監製：[高野希義](https://zh.wikipedia.org/wiki/高野希義 "wikilink")、[宿利剛](https://zh.wikipedia.org/wiki/宿利剛 "wikilink")、[渡邊和哉](https://zh.wikipedia.org/wiki/渡邊和哉 "wikilink")
-  - 動畫製作：[ufotable](../Page/ufotable.md "wikilink")、[flag](https://zh.wikipedia.org/wiki/flag "wikilink")、[feel.](../Page/feel..md "wikilink")
+  - 動畫製作：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、[flag](https://zh.wikipedia.org/wiki/flag "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作：[雙戀製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")、[King
     Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")）
 
@@ -119,7 +119,7 @@
 <!-- end list -->
 
   -
-    作詞：[逢瀬祭](https://zh.wikipedia.org/wiki/近藤光 "wikilink")、[ufotable](../Page/ufotable.md "wikilink")、[eufonius](../Page/eufonius.md "wikilink")、作曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")、編曲：菊地創、歌：eufonius
+    作詞：[逢瀬祭](https://zh.wikipedia.org/wiki/近藤光 "wikilink")、[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")、作曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")、編曲：菊地創、歌：eufonius
 
 <!-- end list -->
 
@@ -371,11 +371,11 @@
 ## 小說
 
   -
-    作者：[工藤治](https://zh.wikipedia.org/wiki/工藤治 "wikilink")、插畫：[ufotable](../Page/ufotable.md "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2005年7月、ISBN
+    作者：[工藤治](https://zh.wikipedia.org/wiki/工藤治 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2005年7月、ISBN
     978-4-840-23119-0
     目前未有中文代理。
   -
-    作者：[金月龍之介](https://zh.wikipedia.org/wiki/金月龍之介 "wikilink")、插畫：[ufotable](../Page/ufotable.md "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2006年7月29日、ISBN
+    作者：[金月龍之介](https://zh.wikipedia.org/wiki/金月龍之介 "wikilink")、插畫：[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、出版社：[MediaWorks](../Page/MediaWorks.md "wikilink")、出版日期：2006年7月29日、ISBN
     978-4-840-23544-0
     目前未有中文代理。
 

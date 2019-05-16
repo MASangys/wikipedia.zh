@@ -1,9 +1,9 @@
 **PlayStation Vita**（官方簡稱**PS
-Vita**\[1\]，部分玩家简称**PSV**）是[索尼電腦娛樂](../Page/索尼電腦娛樂.md "wikilink")（SCEI）於2011年12月17日開始販售的[掌上型遊戲機](../Page/掌上型遊戲機.md "wikilink")，開發時期的代號為Next
+Vita**\[1\]，部分玩家简称**PSV**）是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCEI）於2011年12月17日開始販售的[掌上型遊戲機](https://zh.wikipedia.org/wiki/掌上型遊戲機 "wikilink")，開發時期的代號為Next
 Generation
-Portable（NGP）。\[2\]發售初期索尼曾表示PSV并不会取代[PSP](../Page/PSP.md "wikilink")，而是与PSP并存\[3\]。
+Portable（NGP）。\[2\]發售初期索尼曾表示PSV并不会取代[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")，而是与PSP并存\[3\]。
 
-2013年11月16日改版的PSV-2000上市，2000型PSV除了的重量和厚度均減少之外，屏幕也由[OLED換為](../Page/OLED.md "wikilink")[LCD](../Page/LCD.md "wikilink")，並新增1GB儲存空間。\[4\]但插入記憶卡後，內置儲存空間便無法使用。
+2013年11月16日改版的PSV-2000上市，2000型PSV除了的重量和厚度均減少之外，屏幕也由[OLED換為](https://zh.wikipedia.org/wiki/OLED "wikilink")[LCD](https://zh.wikipedia.org/wiki/LCD "wikilink")，並新增1GB儲存空間。\[4\]但插入記憶卡後，內置儲存空間便無法使用。
 
 2015年10月，索尼游戏业务高层伊藤雅康在采访中透露第一方工作室已经停止了制作PlayStation
 Vita游戏的计划。\[5\]2019年3月1日，索尼互动娱乐宣布在日本正式停产PlayStation
@@ -11,9 +11,9 @@ Vita。\[6\]
 
 ## 簡介
 
-PSV採用与[东芝和](../Page/东芝.md "wikilink")[IBM共同研发的](../Page/IBM.md "wikilink")[ARM架構Cortex](../Page/ARM架構.md "wikilink")-A9四核心[中央處理器](../Page/中央處理器.md "wikilink")，以及[Imagination
+PSV採用与[东芝和](../Page/东芝.md "wikilink")[IBM共同研发的](../Page/IBM.md "wikilink")[ARM架構Cortex](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")-A9四核心[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，以及[Imagination
 Technologies提供的](../Page/Imagination_Technologies.md "wikilink")[PowerVR](../Page/PowerVR.md "wikilink")
-SGX543MP4+四核心[繪圖處理器](../Page/繪圖處理器.md "wikilink")。承襲[PSP的長橢圓造型設計](../Page/PSP.md "wikilink")，採用4倍解析度的5吋全彩[多點觸控](../Page/多點觸控.md "wikilink")[OLED](../Page/OLED.md "wikilink")[螢幕](../Page/觸控式螢幕.md "wikilink")。內建3軸加速計、3軸[陀螺儀](../Page/陀螺儀.md "wikilink")、3軸[電子羅盤](../Page/電子羅盤.md "wikilink")、[全球衛星定位](../Page/全球衛星定位.md "wikilink")、雙[類比搖桿](../Page/類比搖桿.md "wikilink")、雙多點觸控面板等多樣化操作介面。配備內外兩組攝影鏡頭，支援[Wi-Fi](../Page/Wi-Fi.md "wikilink")、[3G行動網路和](../Page/3G.md "wikilink")[藍牙](../Page/藍牙.md "wikilink")。
+SGX543MP4+四核心[繪圖處理器](https://zh.wikipedia.org/wiki/繪圖處理器 "wikilink")。承襲[PSP的長橢圓造型設計](https://zh.wikipedia.org/wiki/PSP "wikilink")，採用4倍解析度的5吋全彩[多點觸控](../Page/多點觸控.md "wikilink")[OLED](https://zh.wikipedia.org/wiki/OLED "wikilink")[螢幕](../Page/觸控式螢幕.md "wikilink")。內建3軸加速計、3軸[陀螺儀](../Page/陀螺儀.md "wikilink")、3軸[電子羅盤](https://zh.wikipedia.org/wiki/電子羅盤 "wikilink")、[全球衛星定位](https://zh.wikipedia.org/wiki/全球衛星定位 "wikilink")、雙[類比搖桿](https://zh.wikipedia.org/wiki/類比搖桿 "wikilink")、雙多點觸控面板等多樣化操作介面。配備內外兩組攝影鏡頭，支援[Wi-Fi](../Page/Wi-Fi.md "wikilink")、[3G行動網路和](../Page/3G.md "wikilink")[藍牙](../Page/藍牙.md "wikilink")。
 
 ## 主要規格
 
@@ -27,7 +27,7 @@ SGX543MP4+四核心[繪圖處理器](../Page/繪圖處理器.md "wikilink")。�
       - PCH-1000 ZA01 Wi-Fi水晶黑
       - PCH-1107 ZAZ1 3G/Wi-Fi晶瑩白初音未來限量版同捆機
       - PCH-1106 ZAZ2 3G/Wi-Fi晶瑩黑決勝時刻限量版同捆機
-  - [中央處理器](../Page/中央處理器.md "wikilink")：[ARM](../Page/ARM架構.md "wikilink")
+  - [中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")：[ARM](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")
     Cortex-A9四核心處理器，時脈1GHz（遊戲等應用僅能使用其中三個核心）
   - [圖形處理器](../Page/圖形處理器.md "wikilink")：PowerVR SGX543MP4@200MHz
   - 系統記憶體：512MB
@@ -41,9 +41,9 @@ SGX543MP4+四核心[繪圖處理器](../Page/繪圖處理器.md "wikilink")。�
   - 前建內建攝影機帧率：120fps@320x240（QVGA），60fps@640x480（VGA）；分辨率：最大640x480（VGA）
   - 內建[立體聲揚聲器](../Page/立體聲.md "wikilink")、麥克風
   - [3G](../Page/3G.md "wikilink")、[IEEE
-    802.11](../Page/IEEE_802.11.md "wikilink")[b](../Page/IEEE_802.11b.md "wikilink")/[g](../Page/IEEE_802.11g.md "wikilink")/[n標準](../Page/IEEE_802.11n.md "wikilink")（Wi-Fi）、[藍牙2.1
+    802.11](../Page/IEEE_802.11.md "wikilink")[b](https://zh.wikipedia.org/wiki/IEEE_802.11b "wikilink")/[g](https://zh.wikipedia.org/wiki/IEEE_802.11g "wikilink")/[n標準](../Page/IEEE_802.11n.md "wikilink")（Wi-Fi）、[藍牙2.1
     + EDR](../Page/藍牙.md "wikilink") A2DP/AVRCP/HSP
-  - 內建[GPS全球衛星定位](../Page/GPS.md "wikilink")（只限[3G](../Page/3G.md "wikilink")/[Wi-Fi型號](../Page/Wi-Fi.md "wikilink")）、Wi-Fi定位、電子指南針、6軸感應器（3軸加速計、3軸陀螺儀、3軸電子羅盤）
+  - 內建[GPS全球衛星定位](https://zh.wikipedia.org/wiki/GPS "wikilink")（只限[3G](../Page/3G.md "wikilink")/[Wi-Fi型號](../Page/Wi-Fi.md "wikilink")）、Wi-Fi定位、電子指南針、6軸感應器（3軸加速計、3軸陀螺儀、3軸電子羅盤）
   - 通訊系統：HSDPA/HSUPA
   - 使用直徑3.5標準耳機孔
   - 操作環境溫度：5度\~35度
@@ -102,17 +102,18 @@ SGX543MP4+四核心[繪圖處理器](../Page/繪圖處理器.md "wikilink")。�
 
 ### 中央處理器
 
-PS Vita採用了當今可攜式裝置主流的[ARM架构CPU](../Page/ARM架构.md "wikilink")，PS
-Vita從PSP的[MIPS架構轉換到](../Page/MIPS架構.md "wikilink")[ARM架構](../Page/ARM架構.md "wikilink")。PS
-Vita採用[Cortex-A9四核心處理器](../Page/Cortex-A9.md "wikilink")，其中三個用於遊戲運算，一個用於處理OS與背景程式使用。
+PS
+Vita採用了當今可攜式裝置主流的[ARM架构CPU](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")，PS
+Vita從PSP的[MIPS架構轉換到](../Page/MIPS架構.md "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。PS
+Vita採用[Cortex-A9四核心處理器](https://zh.wikipedia.org/wiki/Cortex-A9 "wikilink")，其中三個用於遊戲運算，一個用於處理OS與背景程式使用。
 
 ### 繪圖處理器
 
 PS Vita採用Imagination Technologies PowerVR
 SGX543MP4+四核心繪圖處理器，是一款支援[OpenGL](../Page/OpenGL.md "wikilink")
 ES 2.0與Shader Model
-3.0標準的內嵌式繪圖核心。採用可程式化統一著色器架構，可提供[PS3世代的繪圖功能](../Page/PS3.md "wikilink")。這款內嵌式繪圖核心屬於PowerVR家族第5代的加強版，該系列被廣泛應用在[iPhone
-4或](../Page/iPhone_4.md "wikilink")[iPad等高階](../Page/iPad.md "wikilink")[智慧型手機和](../Page/智慧型手機.md "wikilink")[平板電腦上](../Page/平板電腦.md "wikilink")，是目前高階可攜式裝置的主流。
+3.0標準的內嵌式繪圖核心。採用可程式化統一著色器架構，可提供[PS3世代的繪圖功能](https://zh.wikipedia.org/wiki/PS3 "wikilink")。這款內嵌式繪圖核心屬於PowerVR家族第5代的加強版，該系列被廣泛應用在[iPhone
+4或](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[iPad等高階](https://zh.wikipedia.org/wiki/iPad "wikilink")[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦上](../Page/平板電腦.md "wikilink")，是目前高階可攜式裝置的主流。
 
 PS
 Vita的繪圖處理器則是目前內嵌式繪圖核心中數一數二的高規格產品，是PowerVR家族最新的第5代加強版（Series5XT），比iPhone或iPad系列採用的[PowerVR家族第](../Page/PowerVR.md "wikilink")5代（Series5）更強。
@@ -136,12 +137,12 @@ Vita的繪圖處理器則是目前內嵌式繪圖核心中數一數二的高規�
 <!-- end list -->
 
   -
-    [Sony擁有](../Page/Sony.md "wikilink")[專利權的](../Page/專利權.md "wikilink")「PSV專用記憶卡」，起初提供4GB、8GB、16GB和32GB選擇。後來增加64GB版本。\[10\]
+    [Sony擁有](https://zh.wikipedia.org/wiki/Sony "wikilink")[專利權的](https://zh.wikipedia.org/wiki/專利權 "wikilink")「PSV專用記憶卡」，起初提供4GB、8GB、16GB和32GB選擇。後來增加64GB版本。\[10\]
 
 <!-- end list -->
 
   - SIM卡插槽（仅限3G型號）
-  - 多用途連接埠（用作USB資料傳輸、DC輸入、[立體聲輸出](../Page/立體聲.md "wikilink")/[單聲道輸入](../Page/單聲道.md "wikilink")；串流數據通訊）
+  - 多用途連接埠（用作USB資料傳輸、DC輸入、[立體聲輸出](../Page/立體聲.md "wikilink")/[單聲道輸入](https://zh.wikipedia.org/wiki/單聲道 "wikilink")；串流數據通訊）
   - 耳機/麥克風連接端（立體聲迷你連接端）
   - 周邊機器連接埠
   - [Micro USB連接埠](../Page/USB.md "wikilink")（適用於2000型主機，取代1000型的多用途連接埠）
@@ -155,7 +156,7 @@ Vita的繪圖處理器則是目前內嵌式繪圖核心中數一數二的高規�
   -
     [MP3](../Page/MP3.md "wikilink") MPEG - 1/2 Audio Layer
     3、[MP4](../Page/MP4.md "wikilink")（MPEG-4 AAC）、WAVE（Linear
-    [PCM](../Page/PCM.md "wikilink")）
+    [PCM](https://zh.wikipedia.org/wiki/PCM "wikilink")）
 
 <!-- end list -->
 
@@ -165,8 +166,8 @@ Vita的繪圖處理器則是目前內嵌式繪圖核心中數一數二的高規�
 
   -
     MPEG-4 Simple
-    Profile（[AAC](../Page/AAC.md "wikilink")）、[H.264](../Page/H.264.md "wikilink")/MPEG-4
-    [AVC](../Page/AVC.md "wikilink")、Hi/Main/Baseline
+    Profile（[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")）、[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")/MPEG-4
+    [AVC](https://zh.wikipedia.org/wiki/AVC "wikilink")、Hi/Main/Baseline
     Profile（AAC），可容納720p畫質
 
 <!-- end list -->
@@ -177,11 +178,11 @@ Vita的繪圖處理器則是目前內嵌式繪圖核心中數一數二的高規�
 
   -
     [JPEG](../Page/JPEG.md "wikilink")（Exif
-    2.2.1）、[TIFF](../Page/TIFF.md "wikilink")、[BMP](../Page/BMP.md "wikilink")、[GIF](../Page/GIF.md "wikilink")、[PNG](../Page/PNG.md "wikilink")
+    2.2.1）、[TIFF](../Page/TIFF.md "wikilink")、[BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")、[GIF](../Page/GIF.md "wikilink")、[PNG](../Page/PNG.md "wikilink")
 
 ### 电池
 
-  - 首轮发售版本内置2210mAh的[锂离子蓄电池组](../Page/锂电池.md "wikilink")，型号为SP65M，[中国製造](../Page/中国.md "wikilink")，電壓是常見的3.7V。
+  - 首轮发售版本内置2210mAh的[锂离子蓄电池组](../Page/锂电池.md "wikilink")，型号为SP65M，[中国製造](https://zh.wikipedia.org/wiki/中国 "wikilink")，電壓是常見的3.7V。
 
 <!-- end list -->
 
@@ -303,7 +304,7 @@ PlayStation Vita的游戏是不存在区域限制的，然而受各个国家监�
 大陆：
 
 1.  只允许使用中国大陆地区的PSN账号，而其他国家的PSN账号会被禁止登录。
-2.  因为PS3主机并没有在中国大陆正式发行，因此执行备份和更新均未出现从[PS3进行的选项](../Page/PS3.md "wikilink")。
+2.  因为PS3主机并没有在中国大陆正式发行，因此执行备份和更新均未出现从[PS3进行的选项](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
 
 ## 發售日期
 
@@ -369,7 +370,7 @@ PlayStation Vita的游戏是不存在区域限制的，然而受各个国家监�
 索尼于2014年召开发布会，宣布PlayStation
 Vita中国大陆版于2015年1月11日上市\[15\]。但预定上市几天前，索尼中国突然声明上市时间推迟，且未给出原因及新上市时间\[16\]。一时间舆论猜测纷纷，有评论认为是因名为「刘睿哲」的民众向北京市文化局官方网站对预定一同发售的[PlayStation
 4进行实名举报所致](../Page/PlayStation_4.md "wikilink")\[17\]，甚至引發网友对当事人的声讨和人肉搜索\[18\]；但亦有消息称延期仅与游戏审批受阻有关\[19\]。2015年3月，随着PlayStation
-Vita首发游戏一一通过[国家新闻出版广电总局审批](../Page/国家新闻出版广电总局.md "wikilink")\[20\]，索尼中国重新宣布PlayStation
+Vita首发游戏一一通过[国家新闻出版广电总局审批](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")\[20\]，索尼中国重新宣布PlayStation
 Vita中国大陆版于2015年3月20日上市\[21\]。经媒体测试，中国大陆版PS
 Vita可以运行中国大陆之外区域发行的实体版游戏，也可以下载海外游戏补丁及进行全球联机，但无法登录外服账号及下载外服游戏。\[22\]
 
@@ -383,8 +384,8 @@ Vita可以运行中国大陆之外区域发行的实体版游戏，也可以下�
 
   - [PlayStation Vita系统软件](../Page/PlayStation_Vita系统软件.md "wikilink")
   - [PlayStation Vita TV](../Page/PlayStation_Vita_TV.md "wikilink")
-  - [攜帶型遊戲機](../Page/攜帶型遊戲機.md "wikilink")
-  - [ARM架構](../Page/ARM架構.md "wikilink")
+  - [攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")
+  - [ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")
   - [PowerVR](../Page/PowerVR.md "wikilink")
 
 ## 相關條目
@@ -410,7 +411,8 @@ Vita可以运行中国大陆之外区域发行的实体版游戏，也可以下�
 1.
 
 2.  [PSP後續機「NGP」](http://www.itmedia.co.jp/news/articles/1101/27/news057.html)
-    - 2011年12月17日[ITmedia](../Page/ITmedia.md "wikilink")
+    -
+    2011年12月17日[ITmedia](https://zh.wikipedia.org/wiki/ITmedia "wikilink")
 
 3.
 

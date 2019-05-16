@@ -7,7 +7,7 @@ Preview〉方式發佈\[3\]。它的目標是用於任何人開始學程式設�
 
 ## 程式語言
 
-它最初是以微軟的[QBasic程式語言做為基礎進行修改](../Page/QBasic.md "wikilink")，但被移植到[.Net
+它最初是以微軟的[QBasic程式語言做為基礎進行修改](https://zh.wikipedia.org/wiki/QBasic "wikilink")，但被移植到[.Net
 Framework](https://zh.wikipedia.org/wiki/.Net_Framework "wikilink")。以範例'[Hello
 World](../Page/Hello_World.md "wikilink")'為例，必須寫成：
 

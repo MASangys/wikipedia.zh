@@ -1,6 +1,6 @@
 《**DJMAX Technika 旋风
-2**》是一款[音乐类](../Page/音乐游戏.md "wikilink")[街机游戏](../Page/街机游戏.md "wikilink")，由[PENTAVISION开发并公布](../Page/PENTAVISION.md "wikilink")，自街机游戏厂商世宇科技代理并于中国大陆境内销售。本作是[DJMAX
-TECHNIKA的续作](../Page/DJMAX_TECHNIKA.md "wikilink")。
+2**》是一款[音乐类](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")，由[PENTAVISION开发并公布](https://zh.wikipedia.org/wiki/PENTAVISION "wikilink")，自街机游戏厂商世宇科技代理并于中国大陆境内销售。本作是[DJMAX
+TECHNIKA的续作](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")。
 
 ## 游戏资讯
 
@@ -9,22 +9,24 @@ TECHNIKA的续作](../Page/DJMAX_TECHNIKA.md "wikilink")。
   - **Duo
     Mixing：**通过左右分屏，可以让两名玩家同时合作进行游戏，歌曲的背景动画被替换成一个固定的背景动画，而不是对应曲目的动画。可选曲目很少，只有27首，并且每一首歌只有一种难度。
   - **Star Mixing：**[DJMAX
-    TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink") 旋风**Lite
-    Mixing**的强化模式。与[DJMAX
-    Technika一样](../Page/DJMAX_Technika.md "wikilink")，本模式只有3行音轨，更适合初学者和新玩家游戏。**Star
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
+    旋风**Lite Mixing**的强化模式。与[DJMAX
+    Technika一样](https://zh.wikipedia.org/wiki/DJMAX_Technika "wikilink")，本模式只有3行音轨，更适合初学者和新玩家游戏。**Star
     Mixing**每一首歌只有一种难度。Fever系统(详情请参考下文)将不能使用，取而代之的是玩家点击提示按钮，默认开启。通过系统的提示可以让玩家跟着范例的手指去进行游戏，可以关闭。
   - **Pop Mixing：**[DJMAX
-    TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink") 旋风**Popular
-    Mixing**的强化模式，游戏的音符与1代相比变得更大了，绝大多数歌曲（包括Club
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
+    旋风**Popular Mixing**的强化模式，游戏的音符与1代相比变得更大了，绝大多数歌曲（包括Club
     Mixing内的歌曲）可以在注册之后在官网页面的MAX
     POINT商店中购买并游戏。游戏内ID卡的签名、底板、装饰、音符樣式可以更换。
   - **Club Mixing：**[DJMAX
-    TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink") 旋风**Technical
-    Mixing**的强化模式。新增**Non-Stop Remix**等延长版和Remix等曲目，但目前歌曲数量偏少(详情请参考下文)。
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
+    旋风**Technical Mixing**的强化模式。新增**Non-Stop
+    Remix**等延长版和Remix等曲目，但目前歌曲数量偏少(详情请参考下文)。
   - **Crew
     Race：**全新的对战模式(非即時)，加入战队的玩家可以挑战其他战队事先挑战成功的组合并进行分数对战，此模式不可以开启Fever。
   - 如果机台没有连接网络则可与预置好的20个CPU战队组合进行对战。
-  - 任务模式类似[DJMAX TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink")
+  - 任务模式类似[DJMAX
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
     旋风的**Platinum Crew**模式，按照任务条件挑战指定歌曲并通过即可获得相关奖励。
 
 ## 与前作相比的一些变动
@@ -35,18 +37,20 @@ TECHNIKA的续作](../Page/DJMAX_TECHNIKA.md "wikilink")。
   - 相对地，修正判定算法的同时又产生了音符串行的BUG。即4行音符若相邻两行有连续存在的音符，由于判定宽松的原因会导致点触的下一个音符被提前判定了，变成COOL或者GOOD，甚至MISS。
   - 新增紫色长键，操作方法与蓝色长按音符一样。
   - 界面变得更加色彩斑斓，更接近**[DJMAX
-    Portable](../Page/DJMAX_Portable.md "wikilink") Clazzuqai
-    Edition**的风格。
+    Portable](https://zh.wikipedia.org/wiki/DJMAX_Portable "wikilink")
+    Clazzuqai Edition**的风格。
   - Pop/Club/Crew Race的音符变大。
   - **九宫格选曲界面** 与**[DJMAX
-    TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink") 旋风**和**[DJMAX
-    Portable](../Page/DJMAX_Portable.md "wikilink")
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
+    旋风**和**[DJMAX
+    Portable](https://zh.wikipedia.org/wiki/DJMAX_Portable "wikilink")
     3**横向碟片排列不同的选曲界面，***'DJMAX TECHNIKA 2**
-    旋风**采用了与**[Jubeat乐动魔方](../Page/Jubeat.md "wikilink")**类似的九宫格选曲界面，并新增**随机*'选该页面曲目的功能。
+    旋风**采用了与**[Jubeat乐动魔方](https://zh.wikipedia.org/wiki/Jubeat "wikilink")**类似的九宫格选曲界面，并新增**随机*'选该页面曲目的功能。
 
 ### 歌曲难度表示变化
 
-  - 歌曲难度由前作的Popular Pattern等改为过往[DJMAX](../Page/DJMAX.md "wikilink")
+  - 歌曲难度由前作的Popular
+    Pattern等改为过往[DJMAX](https://zh.wikipedia.org/wiki/DJMAX "wikilink")
     online和Portable系列惯用的Normal（NM），Hard（HD），Maximum（MX）。
   - 全新难度Extra（EX）尚未公布。
   - 歌曲最低难度为1星，最高难度为10星。
@@ -114,9 +118,9 @@ TECHNIKA的续作](../Page/DJMAX_TECHNIKA.md "wikilink")。
 ### Club mixing 个性化曲目组合
 
 **DJMAX TECHNIKA 2**改变了[DJMAX
-Technika出现上](../Page/DJMAX_Technika.md "wikilink")/下位BOSS曲的方法。
+Technika出现上](https://zh.wikipedia.org/wiki/DJMAX_Technika "wikilink")/下位BOSS曲的方法。
 **DJMAX TECHNIKA 2**删除了旧组曲Core Sound。 [DJMAX
-Technika的旧组曲从以前的](../Page/DJMAX_Technika.md "wikilink")7首可选曲目删减至6首。
+Technika的旧组曲从以前的](https://zh.wikipedia.org/wiki/DJMAX_Technika "wikilink")7首可选曲目删减至6首。
 
 旧组曲中，原本有上/中/下位BOSS曲的组曲删减了其中1首。 （如Conqueror组曲删除了可选曲Colour of
 Sorrow和下位BOSS曲Landscape）。
@@ -717,9 +721,10 @@ You**''这个组合的时候，总和数即**6 + 5 + 2 = 13**＞11
 
 ## 相关条目
 
-  - [PENTAVISION](../Page/PENTAVISION.md "wikilink")
-  - [DJMAX](../Page/DJMAX.md "wikilink")
-  - [DJMAX TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink")
+  - [PENTAVISION](https://zh.wikipedia.org/wiki/PENTAVISION "wikilink")
+  - [DJMAX](https://zh.wikipedia.org/wiki/DJMAX "wikilink")
+  - [DJMAX
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
   - [DJMAX TECHNIKA 3](../Page/DJMAX_TECHNIKA_3.md "wikilink")
 
 ## 参考文献

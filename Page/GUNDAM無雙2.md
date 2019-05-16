@@ -1,13 +1,13 @@
-是由[光榮的](../Page/光榮.md "wikilink")[Omega
-Force開發](../Page/Omega_Force.md "wikilink")，由[Namco
-Bandai發行的](../Page/南夢宮萬代發展公司.md "wikilink")[PlayStation
+是由[光榮的](https://zh.wikipedia.org/wiki/光榮 "wikilink")[Omega
+Force開發](https://zh.wikipedia.org/wiki/Omega_Force "wikilink")，由[Namco
+Bandai發行的](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink")[PlayStation
 2](../Page/PlayStation_2.md "wikilink")、[PlayStation
 3及](../Page/PlayStation_3.md "wikilink")[Xbox
 360遊戲](../Page/Xbox_360.md "wikilink")。已經在2008年12月18日發行。另外PS3精選集，於2010年6月3日發行。本作品承襲一代基礎，另外新加入了[宇宙世紀的](../Page/宇宙世紀.md "wikilink")[機動戰士GUNDAM
 逆襲的夏亞及](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")[機動戰士V
-GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")（高特拉坦）及[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（甘恩）、[正歷的](../Page/正歷.md "wikilink")[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")（逆X）、[宇宙紀元的](../Page/宇宙紀元.md "wikilink")[機動戰士GUNDAM
+GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")（高特拉坦）及[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（甘恩）、[正歷的](https://zh.wikipedia.org/wiki/正歷 "wikilink")[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")（逆X）、[宇宙紀元的](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")[機動戰士GUNDAM
 SEED
-DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（[命運GUNDAM](../Page/ZGMF-X42S_Destiny.md "wikilink")、[無限正義GUNDAM](../Page/ZGMF-X19A_Infinite_Justice.md "wikilink")、[-{zh-hans:强袭自由;
+DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（[命運GUNDAM](../Page/ZGMF-X42S_Destiny.md "wikilink")、[無限正義GUNDAM](https://zh.wikipedia.org/wiki/ZGMF-X19A_Infinite_Justice "wikilink")、[-{zh-hans:强袭自由;
 zh-tw:攻擊自由;
 zh-hk:突擊自由}-GUNDAM](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")）、[MA等機體](../Page/機動裝甲.md "wikilink")。
 
@@ -39,8 +39,8 @@ zh-hk:突擊自由}-GUNDAM](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")）�
 
 ### 其他
 
-  - [武者GUNDAM](../Page/武者GUNDAM.md "wikilink")
-  - [武者GUNDAM MK-II](../Page/武者GUNDAM.md "wikilink")
+  - [武者GUNDAM](https://zh.wikipedia.org/wiki/武者GUNDAM "wikilink")
+  - [武者GUNDAM MK-II](https://zh.wikipedia.org/wiki/武者GUNDAM "wikilink")
 
 \[2\]
 

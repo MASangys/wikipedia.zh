@@ -3,7 +3,7 @@
 ## 簡介
 
   - 專輯[BIG MACHINE發行前先行發售](../Page/BIG_MACHINE.md "wikilink")
-  - CD封面是在[美國](../Page/美國.md "wikilink")[夏威夷拍的](../Page/夏威夷.md "wikilink")
+  - CD封面是在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷拍的](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")
   - 此張單曲的PV主要在敘述兩人未組團前各自的人生，[松本孝弘再組成B](../Page/松本孝弘.md "wikilink")'z前在一間樂器行裡打工，而畢業於橫濱國立大學教育學部數學科的[稻葉浩志再組成B](../Page/稻葉浩志.md "wikilink")'z之前，已修完教育學分而準備進小學擔任老師。
   - 2008年發行的Music Freak Magazine，舉行的"B'z PV人氣票選"此PV獲得第一。
   - 最終銷量約30.4萬張。

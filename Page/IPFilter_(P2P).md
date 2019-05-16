@@ -1,16 +1,16 @@
-**IPFilter**是一种过滤阻擋不安全[IP的功能](../Page/IP地址.md "wikilink")，它被很多[P2P](../Page/P2P.md "wikilink")[檔案分享客户端和](../Page/檔案分享.md "wikilink")[防火牆軟體所使用](../Page/防火牆.md "wikilink")。
+**IPFilter**是一种过滤阻擋不安全[IP的功能](../Page/IP地址.md "wikilink")，它被很多[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[檔案分享客户端和](../Page/檔案分享.md "wikilink")[防火牆軟體所使用](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
 
 ## 目的
 
-这些P2P檔案分享客户端使用IPFilter的目的包括：防止来自某些IP的恶意攻击、虚假文件的传送和某些反P2P的[版权组织收集P](../Page/版权.md "wikilink")2P网络上传输有版权文件的信息数据等。\[1\]
+这些P2P檔案分享客户端使用IPFilter的目的包括：防止来自某些IP的恶意攻击、虚假文件的传送和某些反P2P的[版权组织收集P](https://zh.wikipedia.org/wiki/版权 "wikilink")2P网络上传输有版权文件的信息数据等。\[1\]
 
 ## 支持
 
-IPFilter被很多[防火牆軟體](../Page/防火牆.md "wikilink")、[eDonkey网络客户端与](../Page/eDonkey网络.md "wikilink")[BitTorrent协议客户端所使用](../Page/BitTorrent协议.md "wikilink")，支持IPFilter的软件包括\[2\]\[3\]：
+IPFilter被很多[防火牆軟體](https://zh.wikipedia.org/wiki/防火牆 "wikilink")、[eDonkey网络客户端与](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[BitTorrent协议客户端所使用](https://zh.wikipedia.org/wiki/BitTorrent协议 "wikilink")，支持IPFilter的软件包括\[2\]\[3\]：
 
-  - eDonkey网络客户端：[aMule](../Page/aMule.md "wikilink")、[eMule与其](../Page/eMule.md "wikilink")[Mod](../Page/eMule_Mod.md "wikilink")（修改版）、[eMule
-    Plus](../Page/eMule_Plus.md "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[Shareaza](../Page/Shareaza.md "wikilink")、[Lphant](../Page/Lphant.md "wikilink")、[JMule等](../Page/JMule.md "wikilink")
-  - BitTorrent协议客户端：[μTorrent](../Page/μTorrent.md "wikilink")、[Vuze](../Page/Vuze.md "wikilink")、[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")、[BitSpirit](../Page/BitSpirit.md "wikilink")、[BitComet](../Page/BitComet.md "wikilink")、[Halite等](../Page/Halite.md "wikilink")
+  - eDonkey网络客户端：[aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")、[eMule与其](https://zh.wikipedia.org/wiki/eMule "wikilink")[Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")（修改版）、[eMule
+    Plus](https://zh.wikipedia.org/wiki/eMule_Plus "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[Shareaza](../Page/Shareaza.md "wikilink")、[Lphant](../Page/Lphant.md "wikilink")、[JMule等](../Page/JMule.md "wikilink")
+  - BitTorrent协议客户端：[μTorrent](https://zh.wikipedia.org/wiki/μTorrent "wikilink")、[Vuze](../Page/Vuze.md "wikilink")、[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")、[BitSpirit](https://zh.wikipedia.org/wiki/BitSpirit "wikilink")、[BitComet](../Page/BitComet.md "wikilink")、[Halite等](https://zh.wikipedia.org/wiki/Halite "wikilink")
 
 eMule等一些客户端也具有自动更新IPFilter的功能。
 
@@ -18,7 +18,7 @@ ipfilter.dat格式的IPFilter可以拥有过滤级别，但仅有eMule与其Mod�
 
 ## 格式
 
-IPFilter通常的格式包括**ipfilter.dat**格式和**guarding.p2p**格式。其中常用的ipfilter.dat格式由「IP段」、「过滤级别」、「注解」三個項目依序構成，分別以[半形](../Page/半形.md "wikilink")[逗號](../Page/逗號.md "wikilink")「,」為分界。IP僅可使用阿拉伯數字，以32位地址表示區段或單一主機，零不可被省略，以半形[連接號](../Page/連接號.md "wikilink")「-」為分界。\[5\]
+IPFilter通常的格式包括**ipfilter.dat**格式和**guarding.p2p**格式。其中常用的ipfilter.dat格式由「IP段」、「过滤级别」、「注解」三個項目依序構成，分別以[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")[逗號](../Page/逗號.md "wikilink")「,」為分界。IP僅可使用阿拉伯數字，以32位地址表示區段或單一主機，零不可被省略，以半形[連接號](https://zh.wikipedia.org/wiki/連接號 "wikilink")「-」為分界。\[5\]
 
 ### 範例
 

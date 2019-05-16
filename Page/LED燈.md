@@ -1,27 +1,27 @@
 [LED_bulbs.jpg](https://zh.wikipedia.org/wiki/File:LED_bulbs.jpg "fig:LED_bulbs.jpg")
-**LED燈**（）是指利用[發光二極管](../Page/發光二極管.md "wikilink")（LED）作為[光源的燈具](../Page/光源.md "wikilink")，一般使用半导体LED制成。LED灯的寿命和[发光效率可达白炽灯的几倍](../Page/发光效率.md "wikilink")，和[一体式荧光灯相比也高出不少](../Page/一体式荧光灯.md "wikilink")，\[1\]\[2\]\[3\]其中Cree等厂家更是号称能达到300[流明](../Page/流明.md "wikilink")/[瓦特的效率](../Page/瓦特.md "wikilink")。\[4\]
+**LED燈**（）是指利用[發光二極管](../Page/發光二極管.md "wikilink")（LED）作為[光源的燈具](https://zh.wikipedia.org/wiki/光源 "wikilink")，一般使用半导体LED制成。LED灯的寿命和[发光效率可达白炽灯的几倍](https://zh.wikipedia.org/wiki/发光效率 "wikilink")，和[一体式荧光灯相比也高出不少](https://zh.wikipedia.org/wiki/一体式荧光灯 "wikilink")，\[1\]\[2\]\[3\]其中Cree等厂家更是号称能达到300[流明](../Page/流明.md "wikilink")/[瓦特的效率](../Page/瓦特.md "wikilink")。\[4\]
 
 單顆發光二極管的[光度比傳統白炽灯和省電燈泡低很多](../Page/光通量.md "wikilink")，所以一個燈泡通常會包含多顆發光二極管。近年，二極管技術提高，高功率、高光度的發光二極管陸續上市，使得這類燈泡漸有取代其他傳統光源之勢。已有廠商推出單顆設計的照明用高功率LED晶片，只需100瓦的電力，就能發出7,527[流明的光度](../Page/流明.md "wikilink")。\[5\]。除了用於專為LED所設計的燈具外，LED也可在加裝轉換電路與相關的穩定裝置後，製成與其他光源兼容的燈泡，安裝於傳統光源的燈具中。
 
-由於二極管是使用[直流電](../Page/直流電.md "wikilink")（DC）驅動，所以LED燈泡內通常設有電路，以將日常使用的[交流電](../Page/交流電.md "wikilink")（AC）轉為直流電，以供電給泡內的LED。此外，高溫會保護LED，故LED燈泡一般會配以[加熱片等加熱配件](../Page/加熱片.md "wikilink")。LED燈泡[壽命長](../Page/寿命.md "wikilink")、能源效益高，主要缺點在於初期的[購置成本比](../Page/購置成本.md "wikilink")[螢光燈管等傳統照明光源高](../Page/光管.md "wikilink")。
+由於二極管是使用[直流電](../Page/直流電.md "wikilink")（DC）驅動，所以LED燈泡內通常設有電路，以將日常使用的[交流電](../Page/交流電.md "wikilink")（AC）轉為直流電，以供電給泡內的LED。此外，高溫會保護LED，故LED燈泡一般會配以[加熱片等加熱配件](https://zh.wikipedia.org/wiki/加熱片 "wikilink")。LED燈泡[壽命長](../Page/寿命.md "wikilink")、能源效益高，主要缺點在於初期的[購置成本比](https://zh.wikipedia.org/wiki/購置成本 "wikilink")[螢光燈管等傳統照明光源高](https://zh.wikipedia.org/wiki/光管 "wikilink")。
 
 ## 歷史
 
 ## 技術簡介
 
 [LED_T-bar_ceiling_light.JPG](https://zh.wikipedia.org/wiki/File:LED_T-bar_ceiling_light.JPG "fig:LED_T-bar_ceiling_light.JPG")天花板\]\]
-一般照明會使用白光，由不同[波長的光所組成](../Page/波长.md "wikilink")。但LED只能發出波長相距很少的光，故帶有顏色。不同的LED，其[半導體材料的](../Page/半導體.md "wikilink")[能隙不同](../Page/能隙.md "wikilink")，故發出不同顏色的光。要製造白光LED，有兩個方法：將紅、綠和藍三色的LED混合，或者用[磷來轉變光的顏色](../Page/磷.md "wikilink")。
+一般照明會使用白光，由不同[波長的光所組成](../Page/波长.md "wikilink")。但LED只能發出波長相距很少的光，故帶有顏色。不同的LED，其[半導體材料的](https://zh.wikipedia.org/wiki/半導體 "wikilink")[能隙不同](../Page/能隙.md "wikilink")，故發出不同顏色的光。要製造白光LED，有兩個方法：將紅、綠和藍三色的LED混合，或者用[磷來轉變光的顏色](../Page/磷.md "wikilink")。
 
-第一種方法（RGB-LEDs）用多顆LED，每顆發出不同波長的光，LED間波長相距很少，所以形成了一條白[光譜](../Page/光譜.md "wikilink")。其優點是每顆LED的光度可獨立調較，造出不同顏色，但製作成本很高。
+第一種方法（RGB-LEDs）用多顆LED，每顆發出不同波長的光，LED間波長相距很少，所以形成了一條白[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")。其優點是每顆LED的光度可獨立調較，造出不同顏色，但製作成本很高。
 
 第二種方法（螢光粉轉換白光發光二極體，phosphor converted LEDs,
-pcLEDs），利用短波長LED（通常是藍或紫外光），磷會吸收部分藍光，發出一個闊光譜的白光。這個原理跟[螢光燈利用磷發出白光相似](../Page/螢光燈.md "wikilink")。這個方法成本較低，[演色性指數](../Page/演色性指數.md "wikilink")（Color
+pcLEDs），利用短波長LED（通常是藍或紫外光），磷會吸收部分藍光，發出一個闊光譜的白光。這個原理跟[螢光燈利用磷發出白光相似](../Page/螢光燈.md "wikilink")。這個方法成本較低，[演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
 Rendering Index,
-[CRI](../Page/演色性指數.md "wikilink")）高，但不能隨意改變其發光特性，而且會減低效能。這種燈具價錢低且表現中等，這種技術今常用於一般照明。
+[CRI](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")）高，但不能隨意改變其發光特性，而且會減低效能。這種燈具價錢低且表現中等，這種技術今常用於一般照明。
 
 ### 驅動電路
 
-LED是一個低電壓的半導體產品，過高的電壓會導致損壞，不能直接由標準的交流電驅動，需要額外電路來控制電壓和電流供應。這個電路包括一連串的[二極管和](../Page/二極管.md "wikilink")[電阻](../Page/電阻.md "wikilink")，以控制電壓的極性和限制電流。
+LED是一個低電壓的半導體產品，過高的電壓會導致損壞，不能直接由標準的交流電驅動，需要額外電路來控制電壓和電流供應。這個電路包括一連串的[二極管和](../Page/二極管.md "wikilink")[電阻](https://zh.wikipedia.org/wiki/電阻 "wikilink")，以控制電壓的極性和限制電流。
 
 但這種方法會使多餘的電壓轉化為熱而流失。將多顆LED串聯可以減少[電壓損失](../Page/電壓.md "wikilink")，但一顆LED[故障則整串不會發光](../Page/故障分析.md "wikilink")。幾串的LED會並聯使用，使其更加可靠。現實中，三串或以上的LED會[並聯使用](../Page/並聯電路.md "wikilink")。
 
@@ -74,7 +74,7 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 
 ## 植物用燈
 
-2010年，LED燈成為了園藝界和農業的熱門話題。[美國太空總署率先在太空使用LED燈栽種](../Page/美國太空總署.md "wikilink")，其後家用和商業的室內園藝也跟隨。\[11\]這些栽種專用燈經特別設計，其光波剛好是[葉綠素吸收的波長](../Page/葉綠素.md "wikilink")，促進生長之餘，亦減少植物不吸收的光波而造成的浪費。在可見光譜中，光合作用只需紅藍兩色，所以這些燈的設計都有這兩種顏色。\[12\]比起同類產品，這些LED燈能提供同樣光度、不需鎮流器、而且發熱比[氣體放電燈少得多](../Page/氣體放電燈.md "wikilink")\[13\]，用於室內栽種十分適合。發熱少能減少[蒸散作用](../Page/蒸散作用.md "wikilink")，從而減少灌溉次數。\[14\]
+2010年，LED燈成為了園藝界和農業的熱門話題。[美國太空總署率先在太空使用LED燈栽種](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")，其後家用和商業的室內園藝也跟隨。\[11\]這些栽種專用燈經特別設計，其光波剛好是[葉綠素吸收的波長](https://zh.wikipedia.org/wiki/葉綠素 "wikilink")，促進生長之餘，亦減少植物不吸收的光波而造成的浪費。在可見光譜中，光合作用只需紅藍兩色，所以這些燈的設計都有這兩種顏色。\[12\]比起同類產品，這些LED燈能提供同樣光度、不需鎮流器、而且發熱比[氣體放電燈少得多](https://zh.wikipedia.org/wiki/氣體放電燈 "wikilink")\[13\]，用於室內栽種十分適合。發熱少能減少[蒸散作用](https://zh.wikipedia.org/wiki/蒸散作用 "wikilink")，從而減少灌溉次數。\[14\]
 
 ## 家用LED燈
 
@@ -84,7 +84,7 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 
 很多LED燈均可取代螺旋式熱熾燈或省電燈泡，由5-40瓦特，低功率的熱熾燈，至60瓦特（只需約7瓦特電力）。截至2010年，有些燈甚至能取代更高功率的燈泡，例如一顆13瓦特的燈泡就與100瓦特熱熾燈的光度相約。（一般的熱熾燈光效標準，約為14至17流明/瓦特，視乎其大小和電壓而定。根據歐盟標準，一顆與60瓦特熱熾燈等效的「節能燈泡」，最少要能輸出806流明。）\[15\])
 
-多數的LED燈泡都是設計成不可調暗的，但亦有些能配合調光器操作，而且光照角度較窄。由2010年起，這些燈泡開始由30至50美元的價錢下跌。LED燈泡比[省電燈泡更省電](../Page/省電燈泡.md "wikilink")\[16\]，若散熱合宜，壽命長達30000小時。熱熾燈一般都只有1000小時壽命，省電燈泡亦只有大約8000小時。\[17\]故LED燈泡能使用大約25至30年，而且光度的隨年月衰減很少。[能源之星標準訂明燈泡使用](../Page/能源之星.md "wikilink")6000小時後，光度衰減應在10%之內，最差不可超過15%。\[18\]不像螢光燈，LED燈泡都是無汞的。LED燈泡亦有不同顏色選擇。售價雖然較高，但電力和維護費用較低，可互相抵消。\[19\]
+多數的LED燈泡都是設計成不可調暗的，但亦有些能配合調光器操作，而且光照角度較窄。由2010年起，這些燈泡開始由30至50美元的價錢下跌。LED燈泡比[省電燈泡更省電](https://zh.wikipedia.org/wiki/省電燈泡 "wikilink")\[16\]，若散熱合宜，壽命長達30000小時。熱熾燈一般都只有1000小時壽命，省電燈泡亦只有大約8000小時。\[17\]故LED燈泡能使用大約25至30年，而且光度的隨年月衰減很少。[能源之星標準訂明燈泡使用](https://zh.wikipedia.org/wiki/能源之星 "wikilink")6000小時後，光度衰減應在10%之內，最差不可超過15%。\[18\]不像螢光燈，LED燈泡都是無汞的。LED燈泡亦有不同顏色選擇。售價雖然較高，但電力和維護費用較低，可互相抵消。\[19\]
 
 ### LED燈管
 
@@ -97,7 +97,7 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 [New_torch_bulb.jpg](https://zh.wikipedia.org/wiki/File:New_torch_bulb.jpg "fig:New_torch_bulb.jpg")
 白光LED燈泡具高效能，在低功耗的市場（如手電筒、太陽能花園燈和行人路燈、自行車燈等）有領導地位。單色LED燈常用來造交通燈和節日燈飾。
 
-2010年代起，汽車與鐵路車輛的燈具也逐漸使用LED燈，一些高價車款的[頭燈也逐漸以LED燈取代傳統鹵素燈以及](../Page/頭燈.md "wikilink")[高強度氣體放電燈](../Page/高強度氣體放電燈.md "wikilink")（HID燈）。
+2010年代起，汽車與鐵路車輛的燈具也逐漸使用LED燈，一些高價車款的[頭燈也逐漸以LED燈取代傳統鹵素燈以及](https://zh.wikipedia.org/wiki/頭燈 "wikilink")[高強度氣體放電燈](../Page/高強度氣體放電燈.md "wikilink")（HID燈）。
 
 ### 先驅
 
@@ -133,14 +133,14 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 
 <!-- end list -->
 
-  - [演色性有待加強](../Page/演色性.md "wikilink")
+  - [演色性有待加強](https://zh.wikipedia.org/wiki/演色性 "wikilink")
 
 <!-- end list -->
 
   -
-    螢光燈無法完全取代[白熾燈的重要原因就是因為螢光燈](../Page/白熾燈.md "wikilink")[演色性不佳](../Page/演色性.md "wikilink")（白熾燈是連續而且平滑的[光譜](../Page/光譜.md "wikilink")，[演色性指數](../Page/演色性指數.md "wikilink")（Color
+    螢光燈無法完全取代[白熾燈的重要原因就是因為螢光燈](../Page/白熾燈.md "wikilink")[演色性不佳](https://zh.wikipedia.org/wiki/演色性 "wikilink")（白熾燈是連續而且平滑的[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")，[演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
     Rendering Index,
-    [CRI](../Page/演色性指數.md "wikilink")）接近100，這樣的光線也有較健康護眼的特色；其他人工光源多屬[發射光譜](../Page/發射光譜.md "wikilink")，很難取代白熾燈及[陽光](../Page/陽光.md "wikilink")）。目前中低階LED的演色性甚至還低於螢光燈。大致上需要用波長組合的方式來模擬。
+    [CRI](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")）接近100，這樣的光線也有較健康護眼的特色；其他人工光源多屬[發射光譜](../Page/發射光譜.md "wikilink")，很難取代白熾燈及[陽光](https://zh.wikipedia.org/wiki/陽光 "wikilink")）。目前中低階LED的演色性甚至還低於螢光燈。大致上需要用波長組合的方式來模擬。
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 <!-- end list -->
 
   -
-    2017年，[臺灣](../Page/臺灣.md "wikilink")[雲林縣道路兩旁的LED路燈](../Page/雲林縣.md "wikilink")，因照明過亮、時間過長，衍生[光害危機](../Page/光害.md "wikilink")，令作物誤將冬季以為夏季，以至於[稻子不結穗](../Page/稻子.md "wikilink")、[包心白菜不會包](../Page/包心白菜.md "wikilink")、[玉米又高又粗但不結果](../Page/玉米.md "wikilink")、[菠菜莖只抽高](../Page/菠菜.md "wikilink")、不長葉子\[20\]。
+    2017年，[臺灣](../Page/臺灣.md "wikilink")[雲林縣道路兩旁的LED路燈](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")，因照明過亮、時間過長，衍生[光害危機](../Page/光害.md "wikilink")，令作物誤將冬季以為夏季，以至於[稻子不結穗](https://zh.wikipedia.org/wiki/稻子 "wikilink")、[包心白菜不會包](https://zh.wikipedia.org/wiki/包心白菜 "wikilink")、[玉米又高又粗但不結果](../Page/玉米.md "wikilink")、[菠菜莖只抽高](../Page/菠菜.md "wikilink")、不長葉子\[20\]。
 
 <!-- end list -->
 
@@ -199,9 +199,9 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
 
 ## 參見
 
-  - [色溫](../Page/色溫.md "wikilink")
-  - [LED](../Page/LED.md "wikilink")
-  - [勒克斯](../Page/勒克斯.md "wikilink")
+  - [色溫](https://zh.wikipedia.org/wiki/色溫 "wikilink")
+  - [LED](https://zh.wikipedia.org/wiki/LED "wikilink")
+  - [勒克斯](https://zh.wikipedia.org/wiki/勒克斯 "wikilink")
   - [街燈](../Page/街燈.md "wikilink")
 
 ## 參考資料
@@ -211,8 +211,8 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
   - [Light Emitting Diodes, Second
     edition](http://books.google.com/books?id=0H4bWIpaXb0C&printsec=frontcover)
     by E. F. Schubert ([Cambridge University
-    Press](../Page/Cambridge_University_Press.md "wikilink"), 2006) ISBN
-    0-521-86538-7
+    Press](https://zh.wikipedia.org/wiki/Cambridge_University_Press "wikilink"),
+    2006) ISBN 0-521-86538-7
 
 ## 外部連結
 
@@ -236,7 +236,9 @@ LED燈沒有玻璃管，內部零件裝嵌穩妥，不易受震盪和撞擊影�
     earth.org.uk
   - ["Fans of L.E.D.'s Say This Bulb's Time Has
     Come"](http://www.nytimes.com/2008/07/28/technology/28led.html) [New
-    York Times](../Page/New_York_Times.md "wikilink"), July 28, 2008
+    York
+    Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"),
+    July 28, 2008
 
 [Category:電光源](https://zh.wikipedia.org/wiki/Category:電光源 "wikilink")
 [Category:半导体元件](https://zh.wikipedia.org/wiki/Category:半导体元件 "wikilink")

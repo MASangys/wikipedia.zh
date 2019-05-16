@@ -1,9 +1,9 @@
 《**Running
-Man**》（）是[韓國](../Page/韓國.md "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，於2010年7月11日啟播。節目在一開始屬於《[星期天真好](../Page/星期天真好.md "wikilink")》時段的其中一部，直到該時段於2017年3月19日完結後才正式成為獨立節目。
+Man**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，於2010年7月11日啟播。節目在一開始屬於《[星期天真好](../Page/星期天真好.md "wikilink")》時段的其中一部，直到該時段於2017年3月19日完結後才正式成為獨立節目。
 
-由2012年5月6日開始，逢[韓國時間星期日下午](../Page/韓國標準時間.md "wikilink")6時10分開始播放，每集約80-99分鐘；自2015年11月8日起，逢[韓國時間星期日下午](../Page/韓國標準時間.md "wikilink")4時50分開始播放；自2016年4月17日起，逢[韓國時間星期日下午](../Page/韓國標準時間.md "wikilink")6時25分開始播放；自2017年3月26日起，逢[韓國時間星期日下午](../Page/韓國標準時間.md "wikilink")4時50分開始播放；自2019年1月6日起，逢[韩国时间星期日下午](../Page/韩国标准时.md "wikilink")5时整开始播放。臺灣原由[FOX頻道取得官方授權集數](../Page/FOX頻道.md "wikilink")（至第261集），自2016年1月至12月底（至第331集），可於LINE
-TV線上觀看官方授權完整版（自第274集起，除第275、276集外，均有各集完整內容），自2017年12月10日起每週日[愛奇藝台灣站跟播](../Page/愛奇藝台灣站.md "wikilink")。香港由[myTV
-SUPER緊貼韓國點播](../Page/myTV_SUPER.md "wikilink")。
+由2012年5月6日開始，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")6時10分開始播放，每集約80-99分鐘；自2015年11月8日起，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")4時50分開始播放；自2016年4月17日起，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")6時25分開始播放；自2017年3月26日起，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")4時50分開始播放；自2019年1月6日起，逢[韩国时间星期日下午](../Page/韩国标准时.md "wikilink")5时整开始播放。臺灣原由[FOX頻道取得官方授權集數](https://zh.wikipedia.org/wiki/FOX頻道 "wikilink")（至第261集），自2016年1月至12月底（至第331集），可於LINE
+TV線上觀看官方授權完整版（自第274集起，除第275、276集外，均有各集完整內容），自2017年12月10日起每週日[愛奇藝台灣站跟播](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。香港由[myTV
+SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。
 
 初期的遊戲設定是嘉賓與主持們被鎖於韓國著名地標進行遊戲，並需於其開始營業前逃出，經過幾輪遊戲後輸掉的成員，會被安排在人來人往的地點中接受尷尬的懲罰。2011年5月以後取消輸家的懲罰，不定期給予勝者獎品，並且遊戲方式更改為先於各地進行任務，由勝出的成員或隊伍獲得對最終任務的有利提示或權力，而節目遊戲中最著名的環節就是緊張刺激的撕名牌戰。
 
@@ -14,9 +14,9 @@ SUPER緊貼韓國點播](../Page/myTV_SUPER.md "wikilink")。
 由於[劉在錫自](../Page/劉在錫.md "wikilink")2010年2月《[家族誕生](../Page/家族的誕生.md "wikilink")》結束後決定再次回歸《[星期天真好](../Page/星期天真好.md "wikilink")》的節目，因此《Running
 Man》在最初播放時引起觀眾極大的關注。\[1\]
 
-節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](../Page/池錫辰.md "wikilink")、[金鍾國](../Page/金鍾國.md "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")，而[宋智孝](../Page/宋智孝.md "wikilink")\[2\]和[Lizzy分別於第](../Page/朴修映.md "wikilink")7集和第18集亦成為固定主持。
+節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")，而[宋智孝](../Page/宋智孝.md "wikilink")\[2\]和[Lizzy分別於第](https://zh.wikipedia.org/wiki/朴修映 "wikilink")7集和第18集亦成為固定主持。
 
-2011年，成員[Lizzy和](../Page/朴修映.md "wikilink")[宋仲基分別忙於拍攝電視劇及專注演藝事業而陸續退出](../Page/宋仲基.md "wikilink")。
+2011年，成員[Lizzy和](https://zh.wikipedia.org/wiki/朴修映 "wikilink")[宋仲基分別忙於拍攝電視劇及專注演藝事業而陸續退出](../Page/宋仲基.md "wikilink")。
 
 ### 2012－2014年：鼎盛時期 （第一次型式更改、收視率高漲、舉辧亞洲見面會、製作中國版）
 
@@ -27,8 +27,8 @@ Running Man的鼎盛時期大約在2012～2014年，最高收視率曾見21.0%�
 2013年起，Running Man每年也會舉行亞洲巡迴粉絲見面會，受到海外觀眾熱烈歡迎。
 
 2014年5月30日，韓國SBS電視台正式宣布《Running
-Man》將推出中國版，選定中國[浙江衛視為中國版](../Page/浙江衛視.md "wikilink")“跑男”的協商對象，計劃共同開發製作。同年7月8日，[浙江衛視與韓國SBS電視台召開記者會](../Page/浙江衛視.md "wikilink")，定出新節目的名稱為《[奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")》，該節目已於8月28日正式開拍。\[3\]其中，韓國《Running
-Man》成員曾在《奔跑吧兄弟》節目第一季第五集和第四季第五集中擔任嘉賓（而金鐘國另於第一季第一集以韓國兄弟團代表身分擔任嘉賓以表祝賀，而已經退出的宋仲基則於第四季第七集擔任嘉賓）。直到第五季時因為「限韓令」影響而改版為《[奔跑吧](../Page/奔跑吧.md "wikilink")》，而且不再有任何韓方人員協助共同製作。
+Man》將推出中國版，選定中國[浙江衛視為中國版](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")“跑男”的協商對象，計劃共同開發製作。同年7月8日，[浙江衛視與韓國SBS電視台召開記者會](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")，定出新節目的名稱為《[奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")》，該節目已於8月28日正式開拍。\[3\]其中，韓國《Running
+Man》成員曾在《奔跑吧兄弟》節目第一季第五集和第四季第五集中擔任嘉賓（而金鐘國另於第一季第一集以韓國兄弟團代表身分擔任嘉賓以表祝賀，而已經退出的宋仲基則於第四季第七集擔任嘉賓）。直到第五季時因為「限韓令」影響而改版為《[奔跑吧](https://zh.wikipedia.org/wiki/奔跑吧 "wikilink")》，而且不再有任何韓方人員協助共同製作。
 
 ### 2015－2016年：低谷時期 （收視率低迷、Gary退出、改版風波）
 
@@ -36,27 +36,27 @@ Man》成員曾在《奔跑吧兄弟》節目第一季第五集和第四季第�
 
 2016年10月31日，成員[Gary因專注音樂事業而退出](../Page/Gary_\(韓國歌手\).md "wikilink")\[4\]。
 
-2016年12月14日，成員[宋智孝和](../Page/宋智孝.md "wikilink")[金鐘國因](../Page/金鐘國.md "wikilink")「分別專注演藝及音樂事業」而退出，並會邀請部份新成員開始第二季，但其後傳媒揭發兩人因SBS單方面發表下車聲明而被迫退出\[5\]，引起大批粉絲不滿。12月15日，製作組發出道歉聲明\[6\]\[7\]，但在官方Instagram中則繼續表示開始第二季。12月16日，SBS製作組與節目成員包括被撤銷成員資格的[金鐘國](../Page/金鐘國.md "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")，召開緊急會議商討節目的未來動向，最終決定將於2017年2月底進行最後播放，六位成員將會共同參與節目至結束\[8\]\[9\]。
+2016年12月14日，成員[宋智孝和](../Page/宋智孝.md "wikilink")[金鐘國因](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")「分別專注演藝及音樂事業」而退出，並會邀請部份新成員開始第二季，但其後傳媒揭發兩人因SBS單方面發表下車聲明而被迫退出\[5\]，引起大批粉絲不滿。12月15日，製作組發出道歉聲明\[6\]\[7\]，但在官方Instagram中則繼續表示開始第二季。12月16日，SBS製作組與節目成員包括被撤銷成員資格的[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")，召開緊急會議商討節目的未來動向，最終決定將於2017年2月底進行最後播放，六位成員將會共同參與節目至結束\[8\]\[9\]。
 
 2017年1月24日，SBS綜藝節目《Running Man》方面發布聲明，宣布將繼續製作節目《Running
 Man》，取消停播決定，六位成員將繼續奔跑\[10\]\[11\]。
 
 ### 2017年－至今：重建時期（梁世燦、全昭旻加入、收視回升、製作動畫版、第二次形式更改、制作越南版）
 
-2017年4月3日，[梁世燦和](../Page/梁世燦.md "wikilink")[全昭旻加入成為](../Page/全昭旻.md "wikilink")《Running
+2017年4月3日，[梁世燦和](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")[全昭旻加入成為](../Page/全昭旻.md "wikilink")《Running
 Man》半固定主持，但全球粉絲對新成員加入持有正反意見。\[12\]\[13\]\[14\]
 
 加入新成員後，Running Man的收視率有明顯改善，維持在約6%至9%之間。
 
 2017年5月14日，官方公布將製作[Running Man
-(動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")，角色將設定在2013年的動物王國中7位固定成員上，之後也陸續公布了預告片以及找來了[EXO-CBX演唱的主題曲](../Page/EXO-CBX.md "wikilink")。動畫版第一季在2017年7月29日開播。
+(動畫版)](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")，角色將設定在2013年的動物王國中7位固定成員上，之後也陸續公布了預告片以及找來了[EXO-CBX演唱的主題曲](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")。動畫版第一季在2017年7月29日開播。
 
 由2017年年中至年尾，海外拍攝的節目已佔整體節目的一大部份，數目與常規節目看齊。成員和攝製隊在短短半年已到了5個國家進行拍攝，海外拍攝的節目亦受到歡迎，整體收視率有上升的趨勢。
 
 2017年12月3日（Running Man第379集），Running
-Man的收視率時隔兩年再次破10%\[15\]。但之後無以為繼，收視人氣出現回落，長居四大電視台[同時段綜藝節目收視率第二](../Page/Running_Man#同時段競爭節目.md "wikilink")、三位。
+Man的收視率時隔兩年再次破10%\[15\]。但之後無以為繼，收視人氣出現回落，長居四大電視台[同時段綜藝節目收視率第二](https://zh.wikipedia.org/wiki/Running_Man#同時段競爭節目 "wikilink")、三位。
 
-2018年7月17日，三位[好萊塢巨星](../Page/好萊塢.md "wikilink")，包括[湯姆·克魯斯](../Page/湯姆·克魯斯.md "wikilink")、[賽門·佩吉和](../Page/賽門·佩吉.md "wikilink")[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")，獲邀到韓國參與《Running
+2018年7月17日，三位[好萊塢巨星](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，包括[湯姆·克魯斯](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")、[賽門·佩吉和](https://zh.wikipedia.org/wiki/賽門·佩吉 "wikilink")[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")，獲邀到韓國參與《Running
 Man》拍攝，預告號稱史上最強遊戲。\[16\]
 
 ## 節目成員
@@ -64,18 +64,18 @@ Man》拍攝，預告號稱史上最強遊戲。\[16\]
 ### 現任成員
 
   - [劉在錫](../Page/劉在錫.md "wikilink")（2010年－至今）
-  - [池錫辰](../Page/池錫辰.md "wikilink")（2010年－至今）
-  - [金鍾國](../Page/金鍾國.md "wikilink")（2010年－至今）
+  - [池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")（2010年－至今）
+  - [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")（2010年－至今）
   - [哈哈](../Page/Haha.md "wikilink")（2010年－至今）
   - [宋智孝](../Page/宋智孝.md "wikilink")（2010年－至今）
   - [李光洙](../Page/李光洙_\(演員\).md "wikilink")（2010年－至今）
   - [全昭旻](../Page/全昭旻.md "wikilink")（2017年－至今）
-  - [梁世燦](../Page/梁世燦.md "wikilink")（2017年－至今）
+  - [梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")（2017年－至今）
 
 ### 已離隊成員
 
   - [宋仲基](../Page/宋仲基.md "wikilink")（2010年－2011年）
-  - [Lizzy](../Page/朴修映.md "wikilink")（2010年－2011年）
+  - [Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")（2010年－2011年）
   - [Gary](../Page/Gary_\(韓國歌手\).md "wikilink")（2010年－2016年）
 
 ## 節目形式
@@ -244,7 +244,7 @@ Global Race</p></td>
 整集節目中有經常參與的出演者，無論其以何種身份出演或是否有遊戲勝出權皆視為嘉賓，其他只參與某一環節的出演者則視為「特別出演」或「驚喜出演」於備註欄中列出，而名字則以節目內的名牌為準；如節目於多過一個地標拍攝，會以最終任務場地或最重要的地標作準；主題名稱以節目播出時左上方資料以作標示。有關聯的集數（例如同一主題或同樣的嘉賓）會被視作「
 特輯 」，單一集數則為「 篇 」，播放次數以一「特輯」或一「篇」作計算。
 
-另外，集數欄括號內為官方網頁中《[星期天真好](../Page/星期天真好.md "wikilink")》的總集數；節目曾於2010年10月10日及2011年10月16日因直播韓國職業棒球季後賽超時、2010年11月14日改播SBS創社20週年特輯、2012年7月29日直播[倫敦奧運會賽事](../Page/2012年夏季奧林匹克運動會.md "wikilink")、2014年4月20日及2014年4月27日因[世越號沉沒事故](../Page/世越號沉沒事故.md "wikilink")、2014年9月14日因直播[仁川亞運男足預賽](../Page/2014年亞洲運動會.md "wikilink")、2017年3月12日因直播[朴槿惠搬離青瓦台而停播](../Page/朴槿惠弹劾案.md "wikilink")，以及2018年2月11日因直播[2018年冬季奧運會而停播一周](../Page/2018年冬季奧林匹克運動會.md "wikilink")、2018年2月25日因直播[2018年冬季奧林匹克運動會閉幕式](../Page/2018年冬季奧林匹克運動會.md "wikilink")、2018年10月28日因直播[韓國職棒聯賽赛事而停播一周](../Page/韓國職棒聯賽.md "wikilink")。
+另外，集數欄括號內為官方網頁中《[星期天真好](../Page/星期天真好.md "wikilink")》的總集數；節目曾於2010年10月10日及2011年10月16日因直播韓國職業棒球季後賽超時、2010年11月14日改播SBS創社20週年特輯、2012年7月29日直播[倫敦奧運會賽事](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")、2014年4月20日及2014年4月27日因[世越號沉沒事故](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")、2014年9月14日因直播[仁川亞運男足預賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")、2017年3月12日因直播[朴槿惠搬離青瓦台而停播](https://zh.wikipedia.org/wiki/朴槿惠弹劾案 "wikilink")，以及2018年2月11日因直播[2018年冬季奧運會而停播一周](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年2月25日因直播[2018年冬季奧林匹克運動會閉幕式](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會 "wikilink")、2018年10月28日因直播[韓國職棒聯賽赛事而停播一周](../Page/韓國職棒聯賽.md "wikilink")。
 
 ## 節目嘉賓
 
@@ -263,17 +263,17 @@ Man**》調回1部時段，《金妍兒的Kiss &
 Cry》則改為2部；兩家收視調查公司改為以《星期天真好》的整體收視作主數據發佈該日的收視排名，並選擇性發佈單獨收視率\[19\]。
 
 《[減肥淘汰賽
-Victory](../Page/減肥淘汰賽_Victory.md "wikilink")》於2011年8月28日接替《金妍兒的Kiss
+Victory](https://zh.wikipedia.org/wiki/減肥淘汰賽_Victory "wikilink")》於2011年8月28日接替《金妍兒的Kiss
 & Cry》；在播放四星期後（即第62集），《星期天真好》改回分別發佈1部和2部的單獨收視以作排名。
 
 由第71集開始，《[K-pop Star 1](../Page/K-pop_Star_1.md "wikilink")》接替《減肥淘汰賽
 Victory》成為《星期天真好》2部，兩家收視調查公司再次改為以整體收視作主數據；《K-pop
-Star》於2012年4月底播放完畢，接替的節目《[金炳萬的叢林的法則第二季](../Page/叢林的法則.md "wikilink")》在5月份開始取代《**Running
+Star》於2012年4月底播放完畢，接替的節目《[金炳萬的叢林的法則第二季](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》在5月份開始取代《**Running
 Man**》成為《星期天真好》1部，而《**Running
-Man**》則在一年後再次被調往2部時段，與[KBS](../Page/韓國放送公社.md "wikilink")《[兩天一夜2](../Page/兩天一夜.md "wikilink")》及[MBC](../Page/文化廣播_\(韓國\).md "wikilink")《[我是歌手2](../Page/我是歌手第二季_\(韓國\).md "wikilink")》爭奪周日藝能收視冠軍。
+Man**》則在一年後再次被調往2部時段，與[KBS](../Page/韓國放送公社.md "wikilink")《[兩天一夜2](../Page/兩天一夜.md "wikilink")》及[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[我是歌手2](https://zh.wikipedia.org/wiki/我是歌手第二季_\(韓國\) "wikilink")》爭奪周日藝能收視冠軍。
 
 2012年12月18日起，《[K-pop Star
-2](../Page/K-pop_Star_2.md "wikilink")》於1部時段啟播。
+2](https://zh.wikipedia.org/wiki/K-pop_Star_2 "wikilink")》於1部時段啟播。
 
 2017年3月19日星期天真好播出最後一集，自3月26日起《**Running
 Man**》成为獨立節目，兩家調查公司改以分別發佈1部2部的單獨收視以作排名。
@@ -312,15 +312,15 @@ Man Special Live in Asia 2015」。為了感謝粉絲多年來的支持節目製
 
 ### 海外播放情況
 
-  - 由[IPTV从原版第](../Page/BesTV.md "wikilink")78集起以韓語原音及[简体中文字幕播出](../Page/简体中文.md "wikilink")，央视旗下收费频道[风云音乐于](../Page/中国中央电视台风云音乐频道.md "wikilink")2014年12月13日起以韓語原音及简体中文字幕每周六晚20:00播出。網絡平台方面，自Running
-    Man開播以來一直有附中文字幕的片段在上傳至不同視頻網站播出，直到2014年由[愛奇藝獲得中國內地獨家網絡播映權](../Page/愛奇藝.md "wikilink")，每周日與SBS同步直播\[20\]，並在同日晚上至翌日凌晨上傳配有簡體中文字幕的版本\[21\]。2015年1月25日，播映權轉至優酷土豆平台，並在周日直播SBS訊號時即時在畫面配上簡體中文字幕。\[22\]\[23\]
-  - 受限韓令影響自2017年起[愛奇藝](../Page/愛奇藝.md "wikilink")、優酷土豆撤下全部擁有版權的劇集
+  - 由[IPTV从原版第](https://zh.wikipedia.org/wiki/BesTV "wikilink")78集起以韓語原音及[简体中文字幕播出](https://zh.wikipedia.org/wiki/简体中文 "wikilink")，央视旗下收费频道[风云音乐于](https://zh.wikipedia.org/wiki/中国中央电视台风云音乐频道 "wikilink")2014年12月13日起以韓語原音及简体中文字幕每周六晚20:00播出。網絡平台方面，自Running
+    Man開播以來一直有附中文字幕的片段在上傳至不同視頻網站播出，直到2014年由[愛奇藝獲得中國內地獨家網絡播映權](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")，每周日與SBS同步直播\[20\]，並在同日晚上至翌日凌晨上傳配有簡體中文字幕的版本\[21\]。2015年1月25日，播映權轉至優酷土豆平台，並在周日直播SBS訊號時即時在畫面配上簡體中文字幕。\[22\]\[23\]
+  - 受限韓令影響自2017年起[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、優酷土豆撤下全部擁有版權的劇集
 
 <!-- end list -->
 
   - [Now
-    TV曾以](../Page/Now_TV.md "wikilink")《奔跑男女》作譯名播放節目初期之集數；而[無綫電視](../Page/無綫電視.md "wikilink")[J2從](../Page/J2.md "wikilink")2012年12月30日開始，逢星期日下午2時（2013年5月26日起改為下午2時35分，2013年8月18日及25日則改為下午3時5分）以[繁體中文字幕](../Page/繁體中文.md "wikilink")、粵、韓雙語選播部分集數，並於myTV提供60天（現已改為30天）粵語、繁體中文字幕重溫。首輯\[24\]於2012年12月30日播出，第二輯\[25\]緊接於2013年7月7日播出，第三輯\[26\]則於2014年1月12日起播出，第四輯\[27\]則於2015年1月18日起播出。自第二輯起，粵語配音版本保留了原版韓語音軌，只在粵、韓語音軌重疊時降低韓語音量，使粵語配音也能聽到原版配樂等音效。而myTV重溫服務亦提供有最高720p的高清版本。另外，J2版本第三輯的第4集作為賀年特輯於2014年2月1日（星期六）晚上8:30至10:30播出，也是該節目自播出以來首次在黃金時段播出，並於2015年2月21日（星期六）正午12:00至13:55重播，而第五輯\[28\]、第六輯\[29\]、第七輯\[30\]、第八輯\[31\]、第九輯\[32\]、第十輯\[33\]、第十一輯\[34\]正式在黃金時段播出；另外[無綫網絡電視](../Page/無綫網絡電視.md "wikilink")[TVB
-    Window從](../Page/TVB_Window.md "wikilink")2015年4月4日開始，逢星期六上午10時、下午3時及晚上8時以[繁體中文字幕](../Page/繁體中文.md "wikilink")、粵、韓雙語播放，跟隨韓國原版第232集（與原版相差約三個月）的進度，較現時[J2版本的進度](../Page/J2.md "wikilink")（相差約七個月）為快，而J2版本第四輯的第34集開始跟隨TVB
+    TV曾以](https://zh.wikipedia.org/wiki/Now_TV "wikilink")《奔跑男女》作譯名播放節目初期之集數；而[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2從](../Page/J2.md "wikilink")2012年12月30日開始，逢星期日下午2時（2013年5月26日起改為下午2時35分，2013年8月18日及25日則改為下午3時5分）以[繁體中文字幕](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、粵、韓雙語選播部分集數，並於myTV提供60天（現已改為30天）粵語、繁體中文字幕重溫。首輯\[24\]於2012年12月30日播出，第二輯\[25\]緊接於2013年7月7日播出，第三輯\[26\]則於2014年1月12日起播出，第四輯\[27\]則於2015年1月18日起播出。自第二輯起，粵語配音版本保留了原版韓語音軌，只在粵、韓語音軌重疊時降低韓語音量，使粵語配音也能聽到原版配樂等音效。而myTV重溫服務亦提供有最高720p的高清版本。另外，J2版本第三輯的第4集作為賀年特輯於2014年2月1日（星期六）晚上8:30至10:30播出，也是該節目自播出以來首次在黃金時段播出，並於2015年2月21日（星期六）正午12:00至13:55重播，而第五輯\[28\]、第六輯\[29\]、第七輯\[30\]、第八輯\[31\]、第九輯\[32\]、第十輯\[33\]、第十一輯\[34\]正式在黃金時段播出；另外[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[TVB
+    Window從](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")2015年4月4日開始，逢星期六上午10時、下午3時及晚上8時以[繁體中文字幕](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、粵、韓雙語播放，跟隨韓國原版第232集（與原版相差約三個月）的進度，較現時[J2版本的進度](../Page/J2.md "wikilink")（相差約七個月）為快，而J2版本第四輯的第34集開始跟隨TVB
     Window版本第2集的進度，而J2版本第五輯開始跟隨韓國原版第266集（與原版相差約兩個月）的進度，但TVB
     Window版本同時改為重播以前J2版本第三輯的第44-52集的集數，而J2版本第二次賀年特輯於2016年2月7日至9日（星期一至三）一連兩集分別重播TVB
     Window版本第19、23、16、34、13、20集的集數，而綜藝台（前稱TVB
@@ -329,15 +329,15 @@ Man Special Live in Asia 2015」。為了感謝粉絲多年來的支持節目製
 <!-- end list -->
 
   - 2011年年中由當時的[Channel
-    V引進本節目並附以](../Page/Channel_V台灣頻道.md "wikilink")[繁體中文字幕播出剪輯版](../Page/繁體中文.md "wikilink")。2012年9月頻道更名為[FOX娛樂台之後](../Page/FOX娛樂台.md "wikilink")，節目內容大幅增加繁體中文字幕的範圍，由原先僅僅只翻譯對話進展到所有內容均有翻譯，同時在該年年底起播放95分鐘完整版本。2014年頻道再度更名為[FOX](../Page/FOX_\(台灣頻道\).md "wikilink")，由於母帶及翻譯製作不及，2月起重播整整一個月，3月初才恢復進度播放，進度也因此再慢韓國一個月。2014年8月12日，Running
+    V引進本節目並附以](https://zh.wikipedia.org/wiki/Channel_V台灣頻道 "wikilink")[繁體中文字幕播出剪輯版](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。2012年9月頻道更名為[FOX娛樂台之後](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")，節目內容大幅增加繁體中文字幕的範圍，由原先僅僅只翻譯對話進展到所有內容均有翻譯，同時在該年年底起播放95分鐘完整版本。2014年頻道再度更名為[FOX](../Page/FOX_\(台灣頻道\).md "wikilink")，由於母帶及翻譯製作不及，2月起重播整整一個月，3月初才恢復進度播放，進度也因此再慢韓國一個月。2014年8月12日，Running
     Man首度來台拍攝，引發上千粉絲轟動前去追星。\[35\]
 
 2016年，[LINE
-TV獲得台灣地區網路播映版權](../Page/LINE_\(應用程式\).md "wikilink")，於當周四晚間6點放送繁體中字搶先版，隔週一放送繁體中字特效版(2017年已終止)。\[36\]
+TV獲得台灣地區網路播映版權](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，於當周四晚間6點放送繁體中字搶先版，隔週一放送繁體中字特效版(2017年已終止)。\[36\]
 
 
   - 首播由[One
-    HD播出](../Page/ONE_TV_ASIA.md "wikilink")，首播時間為星期日晚上8時30分\[37\]，重播時間為星期一下午3時05分以及星期五晚上11時45分播出；該節目以韓語原音輔以英文、馬來文或中文字幕播出。
+    HD播出](https://zh.wikipedia.org/wiki/ONE_TV_ASIA "wikilink")，首播時間為星期日晚上8時30分\[37\]，重播時間為星期一下午3時05分以及星期五晚上11時45分播出；該節目以韓語原音輔以英文、馬來文或中文字幕播出。
 
 <!-- end list -->
 
@@ -374,7 +374,7 @@ TV獲得台灣地區網路播映版權](../Page/LINE_\(應用程式\).md "wikili
 
 <!-- end list -->
 
-  - 馬來西亞[TV2](../Page/TV2.md "wikilink")（無-{}-線電視頻道）在2013年6月1日起逢星期六下午5時00至6时30分,星期日下午5时整至6時30分播出《Running
+  - 馬來西亞[TV2](https://zh.wikipedia.org/wiki/TV2 "wikilink")（無-{}-線電視頻道）在2013年6月1日起逢星期六下午5時00至6时30分,星期日下午5时整至6時30分播出《Running
     Man》，并從原版第一集起以原音播出輔以馬來文及繁體中文字幕播出剪輯版。該節目因版權播放問題只播出至112集，之後從64集起重新順序循環播出。雖然經過協商後，2014年11月在臉書宣布會繼續播出112集之後的集數也在TV9播出星期五睌上9时30分至11时
 
 ## 得獎
@@ -398,27 +398,27 @@ TV獲得台灣地區網路播映版權](../Page/LINE_\(應用程式\).md "wikili
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/SBS演藝大賞#2017年.md" title="wikilink">第十一屆SBS演藝大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS演藝大賞#2017年" title="wikilink">第十一屆SBS演藝大賞</a></p></td>
 <td><ul>
 <li>真人秀類女子新人獎（ 신인상(버라이어티 부문)） ：<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></li>
 <li>Best Couple獎（베스트 커플상）：<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></li>
 <li>Global Star獎（글로벌 스타상） ：《<strong>Running Man</strong>》 全體</li>
-<li>真人秀類最優秀獎（최우수상 (버라이어티 부문)） ：<a href="../Page/池錫辰.md" title="wikilink">池錫辰</a></li>
+<li>真人秀類最優秀獎（최우수상 (버라이어티 부문)） ：<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>2018<a href="../Page/愛奇藝.md" title="wikilink">愛奇藝台灣站最受歡迎韓綜排行榜</a>[39]</p></td>
+<td><p>2018<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝台灣站最受歡迎韓綜排行榜</a>[39]</p></td>
 <td><ul>
 <li>最受歡迎韓綜（Top 1）：《<strong>Running Man</strong>》</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/SBS演藝大賞#2018年.md" title="wikilink">第十二屆SBS演藝大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS演藝大賞#2018年" title="wikilink">第十二屆SBS演藝大賞</a></p></td>
 <td><ul>
-<li>製作人獎 (프로듀서상) ：<a href="../Page/金鐘國.md" title="wikilink">金鐘國</a></li>
-<li>Best Couple獎（베스트 커플상）：<a href="../Page/金鐘國.md" title="wikilink">金鐘國</a>、<a href="../Page/洪真英.md" title="wikilink">洪真英</a></li>
+<li>製作人獎 (프로듀서상) ：<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a></li>
+<li>Best Couple獎（베스트 커플상）：<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/洪真英.md" title="wikilink">洪真英</a></li>
 <li>最佳人氣獎 (인기상) ：<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></li>
 <li>真人秀類最優秀獎（최우수상 (버라이어티 부문)） ：<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></li>
 <li>最佳團隊合作獎 (베스트 팀워크상) ：《<strong>Running Man</strong>》 全體</li>
@@ -441,21 +441,21 @@ Man》由2010年開播以來發生了不少具爭議性的事件，當中涉及�
 爭議如下：
 
   - [《Super
-    7》演唱會風波](../Page/有關Running_Man的爭議#《Super_7》演唱會風波.md "wikilink")
-  - [置入性行銷](../Page/有關Running_Man的爭議#置入性行銷.md "wikilink")
-  - [錯置高麗大學校徽](../Page/有關Running_Man的爭議#錯置高麗大學校徽.md "wikilink")
-  - [被指抄襲](../Page/有關Running_Man的爭議#被指抄襲.md "wikilink")
-  - [節目改版風波](../Page/有關Running_Man的爭議#節目改版風波.md "wikilink")
-  - [成員行為問題](../Page/有關Running_Man的爭議#成員行為問題.md "wikilink")
-  - [動漫版侵犯肖像權](../Page/有關Running_Man的爭議#動漫版侵犯肖像權.md "wikilink")
+    7》演唱會風波](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#《Super_7》演唱會風波 "wikilink")
+  - [置入性行銷](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#置入性行銷 "wikilink")
+  - [錯置高麗大學校徽](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#錯置高麗大學校徽 "wikilink")
+  - [被指抄襲](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#被指抄襲 "wikilink")
+  - [節目改版風波](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#節目改版風波 "wikilink")
+  - [成員行為問題](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#成員行為問題 "wikilink")
+  - [動漫版侵犯肖像權](https://zh.wikipedia.org/wiki/有關Running_Man的爭議#動漫版侵犯肖像權 "wikilink")
 
 ## 延伸節目/手遊
 
 ### 奔跑吧兄弟/奔跑吧
 
-《奔跑吧兄弟》是中國[浙江衛視與韓國](../Page/浙江衛視.md "wikilink")[SBS電視台聯合製作的真人實境秀節目](../Page/SBS電視台.md "wikilink")，原版為韓國[SBS電視台的](../Page/SBS電視台.md "wikilink")《Running
-Man》。\[40\]因為[浙江衛視向韓國](../Page/浙江衛視.md "wikilink")[SBS電視台購買了全部版權](../Page/SBS電視台.md "wikilink")，所以節目的內容、成員的人數、角色、關係和變化都與《Running
-Man》十分相似。《奔跑吧兄弟》因受中國禁韓令影響，節目於2017年2月13日宣布正式改名為《奔跑吧》，韓國[SBS電視台停止參與製作](../Page/SBS電視台.md "wikilink")。\[41\]
+《奔跑吧兄弟》是中國[浙江衛視與韓國](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")[SBS電視台聯合製作的真人實境秀節目](https://zh.wikipedia.org/wiki/SBS電視台 "wikilink")，原版為韓國[SBS電視台的](https://zh.wikipedia.org/wiki/SBS電視台 "wikilink")《Running
+Man》。\[40\]因為[浙江衛視向韓國](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")[SBS電視台購買了全部版權](https://zh.wikipedia.org/wiki/SBS電視台 "wikilink")，所以節目的內容、成員的人數、角色、關係和變化都與《Running
+Man》十分相似。《奔跑吧兄弟》因受中國禁韓令影響，節目於2017年2月13日宣布正式改名為《奔跑吧》，韓國[SBS電視台停止參與製作](https://zh.wikipedia.org/wiki/SBS電視台 "wikilink")。\[41\]
 
 ### 越南版
 
@@ -464,7 +464,7 @@ Man》十分相似。《奔跑吧兄弟》因受中國禁韓令影響，節目�
 看準節目老少咸宜的特性，以及在海外持續的高人氣，節目單位將根據2013年推出的《動物的王國》特輯設定，由7位成員化身各種動物，主要是以兒童為目標製作預計播出24集，是描寫代表各種動物的選手們，前去參加「Running
 Man
 大賽」角逐冠軍的奇幻冒險故事，事實上也就是將「撕名牌」主題動漫化的呈現，預計於7月底的週末晨間時段開播，甚至還會與通訊軟體LINE合作推出貼圖。\[42\]
-主題曲由[EXO-CBX演唱](../Page/EXO-CBX.md "wikilink")。\[43\]
+主題曲由[EXO-CBX演唱](https://zh.wikipedia.org/wiki/EXO-CBX "wikilink")。\[43\]
 
 #### Running Man：全露露的反擊(動畫電影)
 
@@ -473,8 +473,8 @@ Man
 ### RunningMan Heros
 
 《RunningMan Heroes》為電視動畫[《Running
-Man》動畫版的角色動作手遊](../Page/Running_Man_\(動畫版\).md "wikilink")。遊戲中手遊角色有7個，與[《Running
-Man》相同](../Page/Running_Man_\(動畫版\).md "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
+Man》動畫版的角色動作手遊](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")。遊戲中手遊角色有7個，與[《Running
+Man》相同](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")，玩家可以從七個種族的角色中選擇一名，並可以和最多六名的玩家一起進行即時對戰。手遊提供戰鬥到直至剩下最後一人為止的「皇家對戰模式」、分成兩個隊伍一決勝負的「小隊模式」，以及玩家一起協力執行任務的「劇情模式」等豐富的對戰系統。手遊由
 LINE FRIENDS 開發，NEXON代理，雖然遊戲尚未正式上市，但官方已經於Android系統進行封測。\[44\]
 
 ### RunningMan in Hong Kong
@@ -484,7 +484,7 @@ Man》業餘團隊。\[45\]\[46\]團隊透過網絡招募成員，於2011年9月
 
 ## 同時段競爭節目
 
-  - [MBC](../Page/文化廣播_\(韓國\).md "wikilink")：《[日晚](../Page/日晚.md "wikilink")－[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[日晚](https://zh.wikipedia.org/wiki/日晚 "wikilink")－[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
   - [KBS](../Page/韓國放送公社.md "wikilink")：《－[-{zh-hans:超人归来;zh-hant:超人歸來;zh-hk:超人回來了}-](../Page/超人歸來_\(韓國綜藝\).md "wikilink")》
 
 ## 註釋

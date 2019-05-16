@@ -7,7 +7,7 @@
     DIAMOND in TOKYO DOME」的DVD，而通常盤則收錄「Share」同日現場音源版本。
   - PV中山下智久第六次再用寫著(山)(P)的紙杯蓋著自己的雙眼。
   - 歌曲開始的對白是由小山及山下兩人提案。
-  - 值得一提是擔任「愛情血型ABO」的作詞人[zopp的血型是](../Page/zopp.md "wikilink")[O型](../Page/O型.md "wikilink")。
+  - 值得一提是擔任「愛情血型ABO」的作詞人[zopp的血型是](https://zh.wikipedia.org/wiki/zopp "wikilink")[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
 
 ## 收錄歌曲
 
@@ -15,12 +15,13 @@
 
 1.  **愛情血型ABO**
       -
-        作詞:[zopp](../Page/zopp.md "wikilink")、作曲:adult education、編曲:鈴木雅也
+        作詞:[zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")、作曲:adult
+        education、編曲:鈴木雅也
     <!-- end list -->
       - クリムゾン RUSS-K 「T-Fes」篇 CM曲
 2.  **迷宮**
       -
-        作詞:zopp、作曲:[藤末樹](../Page/藤末樹.md "wikilink")、編曲:鈴木雅也
+        作詞:zopp、作曲:[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")、編曲:鈴木雅也
 3.  **愛情血型ABO(伴唱版本)**
 
 <!-- end list -->

@@ -1,7 +1,7 @@
-是[華碩雲端股份有限公司開發的](../Page/華碩雲端股份有限公司.md "wikilink")[線上儲存服務](../Page/線上儲存服務.md "wikilink")，透過[雲端運算實現](../Page/雲端運算.md "wikilink")[網際網路上的](../Page/網際網路.md "wikilink")[文件同步](../Page/文件同步.md "wikilink")，用户可以儲存與分享檔案和檔案夾\[1\]。
+是[華碩雲端股份有限公司開發的](https://zh.wikipedia.org/wiki/華碩雲端股份有限公司 "wikilink")[線上儲存服務](https://zh.wikipedia.org/wiki/線上儲存服務 "wikilink")，透過[雲端運算實現](../Page/雲端運算.md "wikilink")[網際網路上的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[文件同步](https://zh.wikipedia.org/wiki/文件同步 "wikilink")，用户可以儲存與分享檔案和檔案夾\[1\]。
 
 ASUS
-WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/操作系统.md "wikilink")[客户端軟體](../Page/客户端.md "wikilink")，並且有[網頁與](../Page/網際網路.md "wikilink")[手機客户端](../Page/手機.md "wikilink")。
+WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/操作系统.md "wikilink")[客户端軟體](https://zh.wikipedia.org/wiki/客户端 "wikilink")，並且有[網頁與](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[手機客户端](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 功能
 
@@ -30,29 +30,30 @@ WebStorage提供免費和收費服務，在不同[操作系统下有](../Page/�
 
 ### 雲端列印
 
-在[7-Eleven](../Page/7-Eleven.md "wikilink")，Family超商的[Kiosk](../Page/Kiosk.md "wikilink")（[ibon](../Page/ibon.md "wikilink")、FamiPort[多媒體機台](../Page/多媒體機台.md "wikilink")）上，透過網頁介面輸入帳號與密碼，瀏覽檔案後提供下載列印服務。
+在[7-Eleven](../Page/7-Eleven.md "wikilink")，Family超商的[Kiosk](https://zh.wikipedia.org/wiki/Kiosk "wikilink")（[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")、FamiPort[多媒體機台](https://zh.wikipedia.org/wiki/多媒體機台 "wikilink")）上，透過網頁介面輸入帳號與密碼，瀏覽檔案後提供下載列印服務。
 
 ## 主要競爭對手比較
 
 ## 類似服務
 
-  - [ADrive](../Page/ADrive.md "wikilink")
-  - [Copy](../Page/Copy.md "wikilink")
+  - [ADrive](https://zh.wikipedia.org/wiki/ADrive "wikilink")
+  - [Copy](https://zh.wikipedia.org/wiki/Copy "wikilink")
   - [Dropbox](../Page/Dropbox.md "wikilink")
-  - [Jungle Disk](../Page/Jungle_Disk.md "wikilink")
-  - [Windows Live Mesh](../Page/Live_mesh.md "wikilink")
-  - [Mozy](../Page/Mozy.md "wikilink")
-  - [SpiderOak](../Page/SpiderOak.md "wikilink")
-  - [SugarSync](../Page/SugarSync.md "wikilink")
-  - [Syncplicity](../Page/Syncplicity.md "wikilink")
-  - [Wuala](../Page/Wuala.md "wikilink")
-  - [ZumoDrive](../Page/ZumoDrive.md "wikilink")
+  - [Jungle Disk](https://zh.wikipedia.org/wiki/Jungle_Disk "wikilink")
+  - [Windows Live
+    Mesh](https://zh.wikipedia.org/wiki/Live_mesh "wikilink")
+  - [Mozy](https://zh.wikipedia.org/wiki/Mozy "wikilink")
+  - [SpiderOak](https://zh.wikipedia.org/wiki/SpiderOak "wikilink")
+  - [SugarSync](https://zh.wikipedia.org/wiki/SugarSync "wikilink")
+  - [Syncplicity](https://zh.wikipedia.org/wiki/Syncplicity "wikilink")
+  - [Wuala](https://zh.wikipedia.org/wiki/Wuala "wikilink")
+  - [ZumoDrive](https://zh.wikipedia.org/wiki/ZumoDrive "wikilink")
 
 ## 參見
 
-  - [網路硬碟](../Page/網路硬碟.md "wikilink")
-  - [雲端儲存](../Page/雲端儲存.md "wikilink")
-  - [協作軟體](../Page/協作軟體.md "wikilink")
+  - [網路硬碟](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")
+  - [雲端儲存](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")
+  - [協作軟體](https://zh.wikipedia.org/wiki/協作軟體 "wikilink")
 
 ## 參考文獻
 

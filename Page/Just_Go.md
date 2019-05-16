@@ -1,5 +1,5 @@
 《**Just
-Go**》是[狄易達首第張個人](../Page/狄易達.md "wikilink")[EP](../Page/EP.md "wikilink")，於2008年11月21日以雙封面設計推出。\[1\]。
+Go**》是[狄易達首第張個人](https://zh.wikipedia.org/wiki/狄易達 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2008年11月21日以雙封面設計推出。\[1\]。
 
 專輯的第一主打歌是《Just Go》，而第二主打歌為《Miss H.K》。
 

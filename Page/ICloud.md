@@ -1,6 +1,6 @@
 **iCloud**是[苹果公司所提供的雲端存储和云端计算服務](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，初始空间有5GB，可以購買儲存空間。用户能在iCloud中存储音乐、照片、[App資料](../Page/App_Store_\(iOS\).md "wikilink")、[檔案](../Page/檔案.md "wikilink")、联系人和日历等，并将无线推送到用户所有支持iCloud同步的设备上，而不用使用连-{接}-线来同步。iCloud现在可以存储第三方应用的数据并同步苹果设备上\[1\]。
 
-2011年5月31日，[蘋果公司官方宣布iCloud將會取代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[MobileMe](../Page/MobileMe.md "wikilink")，并即將停止MobileMe的服务。iCloud是基於原有的MobileMe功能改寫而成，提供了原有的郵件、[iCloud行事曆和聯絡人同步功能](../Page/iCloud.md "wikilink")\[2\]。2011年6月6日，蘋果公司執行長[史蒂夫·乔布斯主持](../Page/史蒂夫·乔布斯.md "wikilink")[苹果全球研发者大会](https://zh.wikipedia.org/wiki/WWDC "wikilink")，正式發表iCloud雲端服務，可以在iOS
+2011年5月31日，[蘋果公司官方宣布iCloud將會取代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[MobileMe](../Page/MobileMe.md "wikilink")，并即將停止MobileMe的服务。iCloud是基於原有的MobileMe功能改寫而成，提供了原有的郵件、[iCloud行事曆和聯絡人同步功能](https://zh.wikipedia.org/wiki/iCloud "wikilink")\[2\]。2011年6月6日，蘋果公司執行長[史蒂夫·乔布斯主持](../Page/史蒂夫·乔布斯.md "wikilink")[苹果全球研发者大会](https://zh.wikipedia.org/wiki/WWDC "wikilink")，正式發表iCloud雲端服務，可以在iOS
 5 以及 OS X Lion中运行，而苹果公司官方在10月12日推出服務。
 
 相較於[Google和](../Page/Google.md "wikilink")[Amazon的雲端音樂服務](https://zh.wikipedia.org/wiki/Amazon "wikilink")，蘋果認為iCloud功能更強大，最主要是有“掃描配對”（scan
@@ -9,7 +9,7 @@ and match）功能。iCloud服務讓用戶可在任何裝置上存取先前從iT
 
 ## 基礎運作
 
-起初在2011年，蘋果一開始使用了[亞馬遜AWS和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微軟Azure支撐旗下的iCloud服務](../Page/Microsoft_Azure.md "wikilink")（發表於2014年的蘋果[iOS安全白皮書中](../Page/iOS.md "wikilink")，蘋果承認加密過的[iOS檔案是存放在](../Page/iOS.md "wikilink")[Amazon
+起初在2011年，蘋果一開始使用了[亞馬遜AWS和](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[微軟Azure支撐旗下的iCloud服務](../Page/Microsoft_Azure.md "wikilink")（發表於2014年的蘋果[iOS安全白皮書中](https://zh.wikipedia.org/wiki/iOS "wikilink")，蘋果承認加密過的[iOS檔案是存放在](https://zh.wikipedia.org/wiki/iOS "wikilink")[Amazon
 S3和](../Page/Amazon_S3.md "wikilink")[微軟Azure](../Page/Microsoft_Azure.md "wikilink")\[3\]。從2016年開始又加入[Google
 Cloud
 Platform來支撐部分iCloud功能雲端平台運作](https://zh.wikipedia.org/wiki/Google雲端平台 "wikilink")\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。

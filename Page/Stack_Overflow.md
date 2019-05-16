@@ -1,10 +1,10 @@
 **Stack
 Overflow**是一個[程式設計領域的問答](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[網站](../Page/網站.md "wikilink")，隶属[Stack
 Exchange
-Network](https://zh.wikipedia.org/wiki/Stack_Exchange "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。網站允許註冊用戶提出或回答問題，還可對已有問題或答案加分、扣分或進行修改，條件是用戶達到一定的“聲望值”。“聲望值”就是用戶進行網站互動時能獲取的分數，例如，用戶A回答了一個問題，用戶B對用戶A的解答給予了“加分”，用戶A就會因而獲得10點聲望值。當聲望值達到某個程度，用戶的權限就會增加，如聲望值超過50點就可以評論答案，另外網站也會根據用戶的貢獻頒發徽章\[6\]。用戶建立的內容都使用[知識共享協議授權](https://zh.wikipedia.org/wiki/知識共享 "wikilink")。\[7\]
+Network](../Page/Stack_Exchange.md "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。網站允許註冊用戶提出或回答問題，還可對已有問題或答案加分、扣分或進行修改，條件是用戶達到一定的“聲望值”。“聲望值”就是用戶進行網站互動時能獲取的分數，例如，用戶A回答了一個問題，用戶B對用戶A的解答給予了“加分”，用戶A就會因而獲得10點聲望值。當聲望值達到某個程度，用戶的權限就會增加，如聲望值超過50點就可以評論答案，另外網站也會根據用戶的貢獻頒發徽章\[6\]。用戶建立的內容都使用[知識共享協議授權](https://zh.wikipedia.org/wiki/知識共享 "wikilink")。\[7\]
 
 直至2018年9月，Stack
-Overflow有超過9,400,000名註冊用戶\[8\]和超過16,000,000\[9\]個問題，其中最常見的主題有[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Python](../Page/Python.md "wikilink")、[jQuery和](../Page/jQuery.md "wikilink")[HTML](../Page/HTML.md "wikilink")\[10\]。
+Overflow有超過9,400,000名註冊用戶\[8\]和超過16,000,000\[9\]個問題，其中最常見的主題有[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Python](../Page/Python.md "wikilink")、[jQuery和](https://zh.wikipedia.org/wiki/jQuery "wikilink")[HTML](../Page/HTML.md "wikilink")\[10\]。
 
 ## 歷史
 

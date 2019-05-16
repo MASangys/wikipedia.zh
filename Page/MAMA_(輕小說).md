@@ -1,10 +1,10 @@
 {{ Otheruses|MAMA }}
 
-《**MAMA**》（**MAMA**）是電擊文庫出版的[輕小說](../Page/輕小說.md "wikilink")。[紅玉伊月撰寫](../Page/紅玉伊月.md "wikilink")，[KARASU](../Page/KARASU.md "wikilink")（）繪製插畫。
+《**MAMA**》（**MAMA**）是電擊文庫出版的[輕小說](../Page/輕小說.md "wikilink")。[紅玉伊月撰寫](../Page/紅玉伊月.md "wikilink")，[KARASU](https://zh.wikipedia.org/wiki/KARASU "wikilink")（）繪製插畫。
 
 ## 簡介
 
-作者於大獎獲獎後，發表《[食人魔物的故事](../Page/食人魔物的故事.md "wikilink")》的第2作品。與前作不同的是有少量插圖（彩色拉頁，扉頁）。後半收錄姊妹作《AND》。
+作者於大獎獲獎後，發表《[食人魔物的故事](https://zh.wikipedia.org/wiki/食人魔物的故事 "wikilink")》的第2作品。與前作不同的是有少量插圖（彩色拉頁，扉頁）。後半收錄姊妹作《AND》。
 
 ## 故事大綱
 

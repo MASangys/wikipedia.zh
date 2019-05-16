@@ -78,7 +78,7 @@ OS 6.0中，这些会得到改善。\[2\]
 #### 应用程序
 
 所有常用的黑莓应用程序都可以在Bold
-9700上运行，包括但不限于[WordToGo](../Page/Microsoft_Word.md "wikilink")、[PowerPointToGo](../Page/Microsoft_Powerpoint.md "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold
+9700上运行，包括但不限于[WordToGo](../Page/Microsoft_Word.md "wikilink")、[PowerPointToGo](https://zh.wikipedia.org/wiki/Microsoft_Powerpoint "wikilink")、[BrickBreaker以及](https://zh.wikipedia.org/wiki/BrickBreaker "wikilink")[WordMole](https://zh.wikipedia.org/wiki/WordMole "wikilink")。Bold
 9700也提供了BlackBerry Messenger 4.7，但在BlackBerry App World中可以升级至5.0。
 
 ### BlackBerry Bold 9650

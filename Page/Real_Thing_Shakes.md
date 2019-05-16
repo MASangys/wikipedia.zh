@@ -5,7 +5,7 @@
   - 日本歌手發行的全英語作詞的單曲裡，第一次賣破百萬的作品
   - 另外一個全英語作詞的單曲是[DREAMS COME
     TRUE的](../Page/DREAMS_COME_TRUE.md "wikilink")[WINTER
-    SONG](../Page/WINTER_SONG.md "wikilink")
+    SONG](https://zh.wikipedia.org/wiki/WINTER_SONG "wikilink")
   - 第8張單曲[LADY
     NAVIGATION開始到本張作品](../Page/LADY_NAVIGATION.md "wikilink")，連續13張單曲賣破百萬，獨霸日本連續百萬單曲第一的紀錄17年，至2013年被AKB48超越，目前是日本第二。
   - 是1996年度日本單曲銷量第11位\[1\]

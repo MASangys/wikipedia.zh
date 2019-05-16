@@ -180,8 +180,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 
   - [穢翼的尤斯蒂婭](../Page/穢翼的尤斯蒂婭.md "wikilink")、*[AUGUST](../Page/AUGUST.md "wikilink")*（**聖女伊蓮**）
   - [戀愛0公里](https://zh.wikipedia.org/wiki/戀愛0公里 "wikilink")（**木ノ本 咲耶**）
-  - [Princess
-    Evangile](https://zh.wikipedia.org/wiki/Princess_Evangile "wikilink")（**北御門
+  - [Princess Evangile](../Page/Princess_Evangile.md "wikilink")（**北御門
     律子**）
   - [雨芳戀歌](https://zh.wikipedia.org/wiki/雨芳戀歌 "wikilink")（**叶夏恋**）
   - [World Wide Love\!
@@ -223,8 +222,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
   - [少女編織愛的畫布](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")（猫西 昭江）
   - [在這蒼穹展翅](../Page/在這蒼穹展翅.md "wikilink")（羽々音 ひばり）
   - [Princess Evangile 〜W
-    Happiness〜](https://zh.wikipedia.org/wiki/Princess_Evangile "wikilink")（**北御門
-    律子**）
+    Happiness〜](../Page/Princess_Evangile.md "wikilink")（**北御門 律子**）
   - [同棲Lover
     Able](https://zh.wikipedia.org/wiki/Lover_Able "wikilink")（**姫野
     つぐみ**）
@@ -240,7 +238,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 
 **2013年**
 
-  - [幸福惡夢](https://zh.wikipedia.org/wiki/幸福惡夢 "wikilink")（**內藤舞亞**）
+  - [幸福惡夢](../Page/幸福惡夢.md "wikilink")（**內藤舞亞**）
   - [間接之戀](https://zh.wikipedia.org/wiki/間接之戀 "wikilink")（**倉木夏芽**）
   - [姊妹Neo＋ ～Second
     Sisters～](../Page/姊妹Neo_～Second_Sisters～.md "wikilink")（**日向舞**）
@@ -260,10 +258,8 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 
 **2014年**
 
-  - [幸福惡夢 -Fragmentation
-    Dream-](https://zh.wikipedia.org/wiki/幸福惡夢 "wikilink")（**舞亜**）
-  - [Clover
-    Day's](https://zh.wikipedia.org/wiki/Clover_Day's "wikilink")（**龍膽燕**）
+  - [幸福惡夢 -Fragmentation Dream-](../Page/幸福惡夢.md "wikilink")（**舞亜**）
+  - [Clover Day's](../Page/Clover_Day's.md "wikilink")（**龍膽燕**）
   - [きみと僕との騎士の日々
     -楽園のシュバリエ-](https://zh.wikipedia.org/wiki/きみと僕との騎士の日々_-楽園のシュバリエ- "wikilink")（**東谷瑠瑠花**）
   - [キスアト](https://zh.wikipedia.org/wiki/キスアト "wikilink")（**星見月夜**）

@@ -1,11 +1,11 @@
-『**エンドレスkiss**』（-キス）是[電視動畫](../Page/電視動畫.md "wikilink")『[kiss×sis](../Page/kiss×sis.md "wikilink")』的[角色歌曲和](../Page/角色歌曲.md "wikilink")[原聲音樂收錄的](../Page/原聲音樂.md "wikilink")[專輯](../Page/專輯.md "wikilink")。在2010年6月23日由[STARCHILD](../Page/STARCHILD.md "wikilink")（[King
-Records](../Page/King_Records.md "wikilink")）發售。
+『**エンドレスkiss**』（-キス）是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂收錄的](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在2010年6月23日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
+Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）發售。
 
 ## 概要
 
-  - 收錄了[電視動畫](../Page/電視動畫.md "wikilink")『[kiss×sis](../Page/kiss×sis.md "wikilink")』的[角色歌曲和](../Page/角色歌曲.md "wikilink")[原聲音樂](../Page/原聲音樂.md "wikilink")，DISC-1是角色歌曲，DISC-2收錄的是[原聲音樂和](../Page/原聲音樂.md "wikilink")[主題曲和片尾曲](../Page/主題曲.md "wikilink")。
+  - 收錄了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』的[角色歌曲和](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，DISC-1是角色歌曲，DISC-2收錄的是[原聲音樂和](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")[主題曲和片尾曲](../Page/主題曲.md "wikilink")。
   - CD的封面是住之江圭太、住之江亞香、住之江理香的畫像。
-  - [BGM的作曲是](../Page/BGM.md "wikilink")[植木瑞基担当的](../Page/植木瑞基.md "wikilink")。
+  - [BGM的作曲是](https://zh.wikipedia.org/wiki/BGM "wikilink")[植木瑞基担当的](https://zh.wikipedia.org/wiki/植木瑞基 "wikilink")。
 
 ## 收錄曲
 
@@ -14,15 +14,15 @@ Records](../Page/King_Records.md "wikilink")）發售。
 1.  **恋する♥HONEY BEAT** \[3:35\]
       -
         歌：住之江亞香（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
-        作詞：[うらん](../Page/うらん.md "wikilink")、作曲・編曲：[河合英嗣](../Page/河合英嗣.md "wikilink")
+        作詞：[うらん](https://zh.wikipedia.org/wiki/うらん "wikilink")、作曲・編曲：[河合英嗣](https://zh.wikipedia.org/wiki/河合英嗣 "wikilink")
 2.  **ス・イ・ナ・ン Destiny** \[4:01\]
       -
         歌：三国美春（[永田依子](../Page/永田依子.md "wikilink")）
-        作詞：[こだまさおり](../Page/こだまさおり.md "wikilink")、作曲：[渡邊美佳](../Page/渡邊美佳.md "wikilink")、編曲：[菊谷知樹](../Page/菊谷知樹.md "wikilink")
+        作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")、作曲：[渡邊美佳](https://zh.wikipedia.org/wiki/渡邊美佳 "wikilink")、編曲：[菊谷知樹](https://zh.wikipedia.org/wiki/菊谷知樹 "wikilink")
 3.  **急接近アプローチ♥** \[3:24\]
       -
-        歌：桐生三日月（[大亀明日香](../Page/大亀明日香.md "wikilink")）
-        作詞：こだまさおり、作曲・編曲：[山口朗彦](../Page/山口朗彦.md "wikilink")
+        歌：桐生三日月（[大亀明日香](https://zh.wikipedia.org/wiki/大亀明日香 "wikilink")）
+        作詞：こだまさおり、作曲・編曲：[山口朗彦](https://zh.wikipedia.org/wiki/山口朗彦 "wikilink")
 4.  **STOP\! プラチナスキャンダル** \[4:16\]
       -
         歌：桐生夕月（[今井麻美](../Page/今井麻美.md "wikilink")）
@@ -34,12 +34,14 @@ Records](../Page/King_Records.md "wikilink")）發售。
 
 ### DISC-2
 
-1.  **[バランスKISS TV Size Ver.](../Page/バランスKISS.md "wikilink")** \[1:32\]
+1.  **[バランスKISS TV Size
+    Ver.](https://zh.wikipedia.org/wiki/バランスKISS "wikilink")**
+    \[1:32\]
       -
         歌：あこりこ（竹達彩奈&巽悠衣子）
         作詞・作曲・編曲：[橋本由香利](../Page/橋本由香利.md "wikilink")
     <!-- end list -->
-      - [電視動畫](../Page/電視動畫.md "wikilink")『[kiss×sis](../Page/kiss×sis.md "wikilink")』[主題曲](../Page/主題曲.md "wikilink")
+      - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』[主題曲](../Page/主題曲.md "wikilink")
 2.  純粋 kiss \[1:50\]
 3.  とどのつまりはいつもの朝 \[1:34\]
 4.  脱いだばかりの、、、。 \[1:40\]
@@ -77,8 +79,8 @@ Records](../Page/King_Records.md "wikilink")）發售。
 36. **[Our Steady Boy TV Size
     Ver.](../Page/Our_Steady_Boy.md "wikilink")** \[1:31\]
       -
-        歌：[ゆいかおり](../Page/ゆいかおり.md "wikilink")（[小倉唯](../Page/小倉唯.md "wikilink")&[石原夏織](../Page/石原夏織.md "wikilink")）
-        作詞：[大森祥子](../Page/大森祥子.md "wikilink")、作曲・編曲：[植木瑞基](../Page/植木瑞基.md "wikilink")
+        歌：[ゆいかおり](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")（[小倉唯](../Page/小倉唯.md "wikilink")&[石原夏織](../Page/石原夏織.md "wikilink")）
+        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")、作曲・編曲：[植木瑞基](https://zh.wikipedia.org/wiki/植木瑞基 "wikilink")
         in [俊龍](../Page/俊龍.md "wikilink")
     <!-- end list -->
       - 電視動畫『kiss×sis』[主題曲](../Page/主題曲.md "wikilink")
@@ -88,7 +90,7 @@ Records](../Page/King_Records.md "wikilink")）發售。
   - [kiss×sis
     リリース情報](http://www.starchild.co.jp/special/kiss_sis/release.html)
 
-[ja:Kiss×sisのディスコグラフィ\#エンドレスkiss](../Page/ja:Kiss×sisのディスコグラフィ#エンドレスkiss.md "wikilink")
+[ja:Kiss×sisのディスコグラフィ\#エンドレスkiss](https://zh.wikipedia.org/wiki/ja:Kiss×sisのディスコグラフィ#エンドレスkiss "wikilink")
 
 [Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
 [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")

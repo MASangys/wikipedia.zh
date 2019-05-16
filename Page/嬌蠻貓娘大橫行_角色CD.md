@@ -1,11 +1,11 @@
 「**「嬌蠻貓娘大橫行」角色CD**」在2010年6月9日開始由Geneon Universal
-Entertainment一連發售該系列的[單曲](../Page/單曲.md "wikilink")。
+Entertainment一連發售該系列的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
-  - [電視動畫](../Page/電視動畫.md "wikilink")『[嬌蠻貓娘大橫行](../Page/嬌蠻貓娘大橫行.md "wikilink")』的[角色歌曲系列](../Page/角色歌曲.md "wikilink")。全4片。2010年6月9日至同年6月25日發售。每次同時發售2片。
-  - 每片有兩首歌曲和一首[Ver.Inst](../Page/樂器.md "wikilink")，其中一首歌曲是主題曲「はっぴぃ にゅう
-    にゃあ」的獨唱版本，沒有參與主題曲歌唱的乙女也有獨唱版本。另一首則是角色歌曲。
+  - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[嬌蠻貓娘大橫行](https://zh.wikipedia.org/wiki/嬌蠻貓娘大橫行 "wikilink")』的[角色歌曲系列](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")。全4片。2010年6月9日至同年6月25日發售。每次同時發售2片。
+  - 每片有兩首歌曲和一首[Ver.Inst](https://zh.wikipedia.org/wiki/樂器 "wikilink")，其中一首歌曲是主題曲「はっぴぃ
+    にゅう にゃあ」的獨唱版本，沒有參與主題曲歌唱的乙女也有獨唱版本。另一首則是角色歌曲。
 
 ## 系列一覧
 
@@ -15,10 +15,10 @@ Entertainment一連發售該系列的[單曲](../Page/單曲.md "wikilink")。
 
 1.  **ストライプはシマシマ**
       -
-        作詞：[くまのきよみ](../Page/くまのきよみ.md "wikilink")、作曲・編曲：あきづきかおる
+        作詞：[くまのきよみ](https://zh.wikipedia.org/wiki/くまのきよみ "wikilink")、作曲・編曲：あきづきかおる
 2.  **はっぴぃ にゅう にゃあ（Ver. Fumino Serizawa）**
       -
-        作詞：くまのきよみ、作曲・編曲：[髙木隆次](../Page/髙木隆次.md "wikilink")
+        作詞：くまのきよみ、作曲・編曲：[髙木隆次](https://zh.wikipedia.org/wiki/髙木隆次 "wikilink")
 3.  ストライプはシマシマ（Ver.Inst）
 4.  Monologue from Fumino
 

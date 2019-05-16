@@ -56,7 +56,7 @@ Bus提供](https://zh.wikipedia.org/wiki/Wifi_Bus "wikilink")。
   - [香港政府WiFi通](../Page/香港政府WiFi通.md "wikilink")
   - [Free
     Wi-Fi@HKBN](https://zh.wikipedia.org/wiki/Free_Wi-Fi@HKBN "wikilink")
-  - [Fon](../Page/Fon.md "wikilink")
+  - [Fon](https://zh.wikipedia.org/wiki/Fon "wikilink")
 
 ## 外部連結
 

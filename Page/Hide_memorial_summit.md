@@ -1,36 +1,39 @@
 **hide memorial
-summit**，是2008年5月3日、4日在[日本](../Page/日本.md "wikilink")[東京](../Page/東京.md "wikilink")[味之素體育場所舉辦的](../Page/味之素體育場.md "wikilink")[演唱會](../Page/演唱會.md "wikilink")，為的是紀念日本搖滾樂團[X
-JAPAN前](../Page/X_JAPAN.md "wikilink")[吉他手](../Page/吉他手.md "wikilink")[hide逝世](../Page/hide.md "wikilink")10周年。
+summit**，是2008年5月3日、4日在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[味之素體育場所舉辦的](https://zh.wikipedia.org/wiki/味之素體育場 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，為的是紀念日本搖滾樂團[X
+JAPAN前](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[hide逝世](https://zh.wikipedia.org/wiki/hide "wikilink")10周年。
 
 ## 參加藝人
 
 ### 5月3日（六）
 
-  - [DJ OZMA](../Page/DJ_OZMA.md "wikilink")
+  - [DJ OZMA](https://zh.wikipedia.org/wiki/DJ_OZMA "wikilink")
   - [DaizyStripper](../Page/DaizyStripper.md "wikilink")
   - [Ra:IN](../Page/Ra:IN.md "wikilink")
   - [RIZE](../Page/RIZE.md "wikilink")
   - [Versailles](../Page/Versailles_-Philharmonic_Quintet-.md "wikilink")
-  - [MarBell](../Page/MarBell.md "wikilink")
-  - [マキシマムザホルモン](../Page/マキシマムザホルモン.md "wikilink")
-  - [Phantasmagoira](../Page/Phantasmagoira.md "wikilink")
+  - [MarBell](https://zh.wikipedia.org/wiki/MarBell "wikilink")
+  - [マキシマムザホルモン](https://zh.wikipedia.org/wiki/マキシマムザホルモン "wikilink")
+  - [Phantasmagoira](https://zh.wikipedia.org/wiki/Phantasmagoira "wikilink")
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-  - [hundy gundy](../Page/hundy_gundy.md "wikilink")
+  - [hundy gundy](https://zh.wikipedia.org/wiki/hundy_gundy "wikilink")
   - [hide with Spread
-    Beaver](../Page/hide_with_Spread_Beaver.md "wikilink")
+    Beaver](https://zh.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")
 
 ### 5月4日（日）
 
-  - [heidi.](../Page/heidi..md "wikilink")
-  - [TOKYO YANKESS](../Page/TOKYO_YANKESS.md "wikilink")
-  - [LADIES ROOM](../Page/LADIES_ROOM.md "wikilink")
+  - [heidi.](https://zh.wikipedia.org/wiki/heidi. "wikilink")
+  - [TOKYO
+    YANKESS](https://zh.wikipedia.org/wiki/TOKYO_YANKESS "wikilink")
+  - [LADIES ROOM](https://zh.wikipedia.org/wiki/LADIES_ROOM "wikilink")
   - [Dir en grey](../Page/Dir_en_grey.md "wikilink")
-  - [the underneath](../Page/the_underneath.md "wikilink")
+  - [the
+    underneath](https://zh.wikipedia.org/wiki/the_underneath "wikilink")
   - [D'espairsRay](../Page/D'espairsRay.md "wikilink")
-  - [MUCC](../Page/ムック.md "wikilink")
-  - [Oblivion Dust](../Page/Oblivion_Dust.md "wikilink")
-  - [LUNA SEA](../Page/LUNA_SEA.md "wikilink")
-  - [X JAPAN](../Page/X_JAPAN.md "wikilink")
+  - [MUCC](https://zh.wikipedia.org/wiki/ムック "wikilink")
+  - [Oblivion
+    Dust](https://zh.wikipedia.org/wiki/Oblivion_Dust "wikilink")
+  - [LUNA SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")
+  - [X JAPAN](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")
 
 ## 外部連結
 

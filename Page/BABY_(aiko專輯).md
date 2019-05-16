@@ -1,4 +1,4 @@
-《**BABY**》，[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2010年3月31日發行。
+《**BABY**》，[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2010年3月31日發行。
 
 ## 解説
 

@@ -5,8 +5,8 @@ Pandora基於[OpenLaszlo](https://zh.wikipedia.org/wiki/OpenLaszlo "wikilink")�
 Genome
 Project管理](https://zh.wikipedia.org/wiki/Music_Genome_Project "wikilink")，可以通過許多獨立的播放器訪問\[1\]。2008年7月11日，Pandora通過[iTunes
 App
-Store](https://zh.wikipedia.org/wiki/iTunes_App_Store "wikilink")，發佈了為[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](../Page/iPhone.md "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
-Touch設計的移動版應用程序](../Page/iPod_Touch.md "wikilink")，支持的平台還包括[Android](../Page/Android.md "wikilink")、[黑莓手機](../Page/黑莓手機.md "wikilink")、[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")（用於[Palm
+Store](https://zh.wikipedia.org/wiki/iTunes_App_Store "wikilink")，發佈了為[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
+Touch設計的移動版應用程序](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")，支持的平台還包括[Android](../Page/Android.md "wikilink")、[黑莓手機](../Page/黑莓手機.md "wikilink")、[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")（用於[Palm
 Pre和](../Page/Palm_Pre.md "wikilink")[Palm
 Pixi](https://zh.wikipedia.org/wiki/Palm_Pixi "wikilink")）和[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")\[2\]。Pandora還曾是[MSN電台的音樂提供商](../Page/MSN.md "wikilink")，直到2008年6月18日，MSN結束了他們的互聯網電台服務\[3\]。

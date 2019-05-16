@@ -19,7 +19,7 @@ Champions)，又被稱作WTA小年終賽，是一項WTA巡迴賽。第一屆的�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/峇里島.md" title="wikilink">峇里島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/峇里島" title="wikilink">峇里島</a></p></td>
 <td><p>2009–2011</p></td>
 <td><p>Bali International Convention Centre</p></td>
 <td><p>硬地</p></td>
@@ -28,7 +28,7 @@ Champions)，又被稱作WTA小年終賽，是一項WTA巡迴賽。第一屆的�
 <tr class="even">
 <td><p><a href="../Page/索菲亞.md" title="wikilink">索菲亞</a></p></td>
 <td><p>2012–2014</p></td>
-<td><p><a href="../Page/Armeets_Arena.md" title="wikilink">Armeets Arena</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Armeets_Arena" title="wikilink">Armeets Arena</a></p></td>
 <td><p>硬地</p></td>
 <td><p>13,545</p></td>
 </tr>
@@ -51,8 +51,8 @@ Champions)，又被稱作WTA小年終賽，是一項WTA巡迴賽。第一屆的�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/巴厘島.md" title="wikilink">巴厘島</a></p></td>
-<td><p><a href="../Page/2009年聯邦銀行錦標賽.md" title="wikilink">2009</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴厘島" title="wikilink">巴厘島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009年聯邦銀行錦標賽" title="wikilink">2009</a></p></td>
 <td><p><strong><a href="../Page/阿拉瓦內·雷扎伊.md" title="wikilink">阿拉瓦內·雷扎伊</a></strong></p></td>
 <td><p><a href="../Page/瑪麗昂·巴托莉.md" title="wikilink">瑪麗昂·巴托莉</a></p></td>
 <td><p>7-5, 退賽</p></td>
@@ -65,7 +65,7 @@ Champions)，又被稱作WTA小年終賽，是一項WTA巡迴賽。第一屆的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年聯邦銀行冠軍錦標賽.md" title="wikilink">2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2011年聯邦銀行冠軍錦標賽" title="wikilink">2011</a></p></td>
 <td><p><strong><a href="../Page/安娜·伊萬諾維奇.md" title="wikilink">安娜·伊萬諾維奇</a></strong></p></td>
 <td><p><a href="../Page/安娜貝爾·梅迪娜·加里格斯.md" title="wikilink">安娜貝爾·梅迪娜·加里格斯</a></p></td>
 <td><p>6–3, 6–0</p></td>
@@ -73,15 +73,15 @@ Champions)，又被稱作WTA小年終賽，是一項WTA巡迴賽。第一屆的�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/索菲亞.md" title="wikilink">索菲亞</a></p></td>
-<td><p><a href="../Page/2012年卡達航空冠軍錦標賽.md" title="wikilink">2012</a></p></td>
-<td><p><strong><a href="../Page/娜迪亞·佩特羅娃.md" title="wikilink">娜迪亞·佩特羅娃</a></strong></p></td>
-<td><p><a href="../Page/卡洛琳·瓦芝妮雅琪.md" title="wikilink">卡洛琳·瓦芝妮雅琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2012年卡達航空冠軍錦標賽" title="wikilink">2012</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/娜迪亞·佩特羅娃" title="wikilink">娜迪亞·佩特羅娃</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡洛琳·瓦芝妮雅琪" title="wikilink">卡洛琳·瓦芝妮雅琪</a></p></td>
 <td><p>6–2, 6–1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013_Garanti_Koza_WTA_Tournament_of_Champions.md" title="wikilink">2013</a></p></td>
-<td><p><strong><a href="../Page/Simona_Halep.md" title="wikilink">Simona Halep</a></strong></p></td>
-<td><p><a href="../Page/Samantha_Stosur.md" title="wikilink">Samantha Stosur</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2013_Garanti_Koza_WTA_Tournament_of_Champions" title="wikilink">2013</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Simona_Halep" title="wikilink">Simona Halep</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samantha_Stosur" title="wikilink">Samantha Stosur</a></p></td>
 <td><p>2–6, 6–2, 6–2</p></td>
 <td></td>
 </tr>

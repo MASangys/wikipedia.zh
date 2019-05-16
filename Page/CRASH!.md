@@ -1,4 +1,4 @@
-《**CRASH\!**》是日本[漫画家](../Page/漫画家.md "wikilink")[藤原友佳的](../Page/藤原友佳.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。
+《**CRASH\!**》是日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[藤原友佳的](../Page/藤原友佳.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 於[集英社出版的](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載中。
 於2013年8月號完結
 
@@ -12,7 +12,8 @@
 
 ## 登場人物
 
-※聲優為分鏡廣播劇版 / 分鏡廣播劇特別版 / [電視動畫版](../Page/電視動畫.md "wikilink")
+※聲優為分鏡廣播劇版 / 分鏡廣播劇特別版 /
+[電視動畫版](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")
 
 ### CRASH\!
 
@@ -139,9 +140,9 @@
     曾向花告白，高中三年都和桐同班。
     擅長科目是國文相關。
   - 佐古修一
-    STUDY5的隊長，擅長科目是[數學](../Page/數學.md "wikilink")。和紫之塚怜是同所學校競爭成績排名的對手。
+    STUDY5的隊長，擅長科目是[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")。和紫之塚怜是同所學校競爭成績排名的對手。
   - 栗須智
-    STUDY5的團員，擅長科目為[英文](../Page/英文.md "wikilink")。
+    STUDY5的團員，擅長科目為[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")。
   - 井上孝
     STUDY5的團員，擅長科目為理科相關。
   - 橋田賢
@@ -197,7 +198,7 @@ DARK所屬的唱片公司
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

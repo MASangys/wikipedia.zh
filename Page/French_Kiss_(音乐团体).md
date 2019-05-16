@@ -13,7 +13,7 @@ love
 you\!](../Page/太遜了I_love_you!.md "wikilink")》，11月22日，發售第四張單曲《[最初的Mail](../Page/最初的Mail.md "wikilink")》。
 
 2012年7月18日，發售第五張單曲《[Romance
-Privacy](../Page/Romance_Privacy.md "wikilink")》。2014年10月1日，時隔兩年發售第六張單曲《[没记起来的花](../Page/没记起来的花.md "wikilink")》。
+Privacy](../Page/Romance_Privacy.md "wikilink")》。2014年10月1日，時隔兩年發售第六張單曲《[没记起来的花](https://zh.wikipedia.org/wiki/没记起来的花 "wikilink")》。
 
 2015年8月，因[倉持明日香畢業離團加上成員因工作日程難以調整](../Page/倉持明日香.md "wikilink")，French
 Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3\]。專輯《》10月發行後获得[Oricon榜冠軍](../Page/Oricon.md "wikilink")\[4\]。
@@ -38,7 +38,7 @@ Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3
 兼任<a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td></td>
 <td><p>B型</p></td>
-<td><p><a href="../Page/鹿兒島縣.md" title="wikilink">鹿兒島縣</a><a href="../Page/鹿兒島市.md" title="wikilink">鹿兒島市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島縣</a><a href="https://zh.wikipedia.org/wiki/鹿兒島市" title="wikilink">鹿兒島市</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高城亞樹.md" title="wikilink">高城亞樹</a><br />
@@ -54,7 +54,7 @@ Kiss宣布10月發行唯一一張專輯，並於11月演唱會後正式解散\[3
 <td></td>
 <td></td>
 <td><p>A型</p></td>
-<td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="../Page/橫濱市.md" title="wikilink">橫濱市</a></p></td>
+<td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -197,7 +197,7 @@ TYPE-C<br />
 <td><p>6</p></td>
 <td><p>2014年10月1日</p></td>
 <td><center>
-<p><a href="../Page/没记起来的花.md" title="wikilink">没记起来的花</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/没记起来的花" title="wikilink">没记起来的花</a></p>
 </center></td>
 <td><p>第2名</p></td>
 <td><p>37,788張</p></td>
@@ -260,28 +260,28 @@ AVCD-93301/B</p></td>
 
 ## 音樂合作
 
-| 樂曲              | 名稱                                                                                       | 收錄作品                   |
-| --------------- | ---------------------------------------------------------------------------------------- | ---------------------- |
-| 很早以前            | [NHK教育頻道動畫](../Page/NHK教育頻道.md "wikilink")『[棒球大联盟第6季](../Page/棒球大联盟.md "wikilink")』ED    | 1st單曲「很早以前」            |
-| If              | [OVA](../Page/OVA.md "wikilink")「[今天，开始恋爱吧](../Page/今天開始談戀愛.md "wikilink")」主題歌\[5\]      | 2nd單曲「If」              |
-| 太遜了I love you\! | [東京電視台動畫](../Page/東京電視台.md "wikilink")『[SKET DANCE](../Page/SKET_DANCE.md "wikilink")』OP | 3rd單曲「太遜了I love you\!」 |
-| 是你的話沒有問題        | CM：                                                                                      |                        |
-| 最初的Mail         | CM:[RecoChoku](../Page/RecoChoku.md "wikilink")11月期                                      | 4th單曲「最初的Mail」         |
-| 蠟燭之心            | [朝日電視台系](../Page/朝日電視台.md "wikilink")『』主題曲                                               |                        |
-| 半夜刷牙            | [TBS系](../Page/TBS電視台.md "wikilink")《》11月結尾曲                                             |                        |
-| 吃火龍果的時刻         | CM:                                                                                      |                        |
-|                 |                                                                                          |                        |
+| 樂曲              | 名稱                                                                                                       | 收錄作品                   |
+| --------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- |
+| 很早以前            | [NHK教育頻道動畫](../Page/NHK教育頻道.md "wikilink")『[棒球大联盟第6季](https://zh.wikipedia.org/wiki/棒球大联盟 "wikilink")』ED | 1st單曲「很早以前」            |
+| If              | [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")「[今天，开始恋爱吧](../Page/今天開始談戀愛.md "wikilink")」主題歌\[5\]   | 2nd單曲「If」              |
+| 太遜了I love you\! | [東京電視台動畫](../Page/東京電視台.md "wikilink")『[SKET DANCE](../Page/SKET_DANCE.md "wikilink")』OP                 | 3rd單曲「太遜了I love you\!」 |
+| 是你的話沒有問題        | CM：                                                                                                      |                        |
+| 最初的Mail         | CM:[RecoChoku](../Page/RecoChoku.md "wikilink")11月期                                                      | 4th單曲「最初的Mail」         |
+| 蠟燭之心            | [朝日電視台系](../Page/朝日電視台.md "wikilink")『』主題曲                                                               |                        |
+| 半夜刷牙            | [TBS系](../Page/TBS電視台.md "wikilink")《》11月結尾曲                                                             |                        |
+| 吃火龍果的時刻         | CM:                                                                                                      |                        |
+|                 |                                                                                                          |                        |
 
 ## 出演
 
 ### 廣播節目
 
   - 文化放送 センパツスペシャル AKB48
-    フレンチ・キスのKISS\!×3（2010年9月12日、[文化放送](../Page/文化放送.md "wikilink")）
+    フレンチ・キスのKISS\!×3（2010年9月12日、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
   - [French
     Kiss的Kiss廣播\!](../Page/French_Kiss的Kiss廣播!.md "wikilink")（2011年4月2日
     - 、[TOKYO FM](../Page/FM東京.md "wikilink")・・[Date
-    FM](../Page/FM仙台.md "wikilink")・[FM岩手](../Page/FM岩手.md "wikilink")）
+    FM](https://zh.wikipedia.org/wiki/FM仙台 "wikilink")・[FM岩手](https://zh.wikipedia.org/wiki/FM岩手 "wikilink")）
 
 ### CM
 
@@ -290,9 +290,9 @@ AVCD-93301/B</p></td>
 ### 活動
 
   - [a-nation 10th Anniversary for Life Charge ▶ Go\!
-    ウイダーinゼリー](../Page/a-nation.md "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海の中道海浜公園野外劇場](../Page/海の中道海浜公園.md "wikilink")）
+    ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月6日、[福岡市](../Page/福岡市.md "wikilink")・[海の中道海浜公園野外劇場](https://zh.wikipedia.org/wiki/海の中道海浜公園 "wikilink")）
   - Power of Watanabe Girls 〜Smile For
-    Japan〜（2011年8月7日、[仙台市](../Page/仙台市.md "wikilink")・[Rensa](../Page/Rensa.md "wikilink")）
+    Japan〜（2011年8月7日、[仙台市](../Page/仙台市.md "wikilink")・[Rensa](https://zh.wikipedia.org/wiki/Rensa "wikilink")）
 
 ## 備註
 

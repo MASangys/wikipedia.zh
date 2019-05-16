@@ -1,4 +1,4 @@
-**和谐号CRH380D型电力动车组**，铁路迷和传媒有时简称为**380D**\[1\]，是[中华人民共和国铁道部为营运新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，由[青岛四方庞巴迪铁路运输设备有限公司基于](https://zh.wikipedia.org/wiki/青岛四方庞巴迪铁路运输设备有限公司 "wikilink")[庞巴迪ZEFIRO平台研发的](../Page/庞巴迪ZEFIRO.md "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")[動車組](../Page/動車組.md "wikilink")。中国鐵道部将所有自行发展关键技术、引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）車輛均命名為「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
+**和谐号CRH380D型电力动车组**，铁路迷和传媒有时简称为**380D**\[1\]，是[中华人民共和国铁道部为营运新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，由[青岛四方庞巴迪铁路运输设备有限公司基于](https://zh.wikipedia.org/wiki/青岛四方庞巴迪铁路运输设备有限公司 "wikilink")[庞巴迪ZEFIRO平台研发的](https://zh.wikipedia.org/wiki/庞巴迪ZEFIRO "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")[動車組](../Page/動車組.md "wikilink")。中国鐵道部将所有自行发展关键技术、引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）車輛均命名為「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 概要
 
@@ -8,7 +8,7 @@
 
 ### 研发
 
-铁道部于2009年6月招标采购时速350公里级别高速动车组\[2\]，[青岛四方庞巴迪铁路运输设备有限公司](https://zh.wikipedia.org/wiki/青岛四方庞巴迪铁路运输设备有限公司 "wikilink")（BST）成为中标厂商之一，获得了20列8节编组和60列16节大编组座车的订单。2009年9月28日，BST與[上海铁路局签订了](https://zh.wikipedia.org/wiki/上海铁路局 "wikilink")350公里速度级动车组销售合同，总值274亿元人民币。列车将以[庞巴迪ZEFIRO](../Page/庞巴迪ZEFIRO.md "wikilink")
+铁道部于2009年6月招标采购时速350公里级别高速动车组\[2\]，[青岛四方庞巴迪铁路运输设备有限公司](https://zh.wikipedia.org/wiki/青岛四方庞巴迪铁路运输设备有限公司 "wikilink")（BST）成为中标厂商之一，获得了20列8节编组和60列16节大编组座车的订单。2009年9月28日，BST與[上海铁路局签订了](https://zh.wikipedia.org/wiki/上海铁路局 "wikilink")350公里速度级动车组销售合同，总值274亿元人民币。列车将以[庞巴迪ZEFIRO](https://zh.wikipedia.org/wiki/庞巴迪ZEFIRO "wikilink")
 380超高速动车组为技术平台，最高运营速度为350km/h，设计最高速度为380km/h，最高试验速度为420km/h。预计于2012年7月至2014年9月间交付\[3\]。此后，受铁路总体环境变化，60列16节大编组取消，变更为50列8节编组，即总共生产70列8节编组CRH380D型，动车编号为CRH380D-6601\~CRH380D-6670。
 
 在2010年9月举行的2010年德国柏林国际轨道交通技术展览会（Innotrans 2010），庞巴迪首度公开展示了最新ZEFIRO

@@ -10,7 +10,7 @@
 
 音樂下載限定
 《[為了誰 -What can I do for
-someone?-](../Page/為了誰_-What_can_I_do_for_someone?-.md "wikilink")》
+someone?-](https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?- "wikilink")》
 （2011年） | This single = 《**Everyday、髮箍**》
 （2011年） | Next single =《[飛翔入手](../Page/飛翔入手.md "wikilink")》
 （2011年） | Misc =  }}
@@ -151,7 +151,7 @@ Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")、[光GENJI和](../Pag
 
   - Team B：[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")
   - Team
-    研究生：[阿部瑪莉亞](https://zh.wikipedia.org/wiki/阿部瑪莉亞 "wikilink")、伊豆田莉奈、市川美織、[入山杏奈](../Page/入山杏奈.md "wikilink")、牛窪紗良、大場美奈、[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、[川榮李奈](../Page/川榮李奈.md "wikilink")、[小嶋菜月](https://zh.wikipedia.org/wiki/小嶋菜月 "wikilink")、小林茉里奈、島崎遥香、島田晴香、竹内美宥、永尾瑪利亞、仲俣汐里、中村麻里子、名取稚菜、藤田奈那、森杏奈、森川彩香、山内鈴蘭、山口菜有
+    研究生：[阿部瑪莉亞](https://zh.wikipedia.org/wiki/阿部瑪莉亞 "wikilink")、伊豆田莉奈、市川美織、[入山杏奈](../Page/入山杏奈.md "wikilink")、牛窪紗良、大場美奈、[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、[川榮李奈](../Page/川榮李奈.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、小林茉里奈、島崎遥香、島田晴香、竹内美宥、永尾瑪利亞、仲俣汐里、中村麻里子、名取稚菜、藤田奈那、森杏奈、森川彩香、山内鈴蘭、山口菜有
 
 ## 歌曲列表
 
@@ -164,7 +164,7 @@ Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")、[光GENJI和](../Pag
 <!-- end list -->
 
   - 總合[製作及出品](../Page/製作.md "wikilink")：秋元康
-  - [執行製作](../Page/執行製作人.md "wikilink")：[窪田康志](https://zh.wikipedia.org/wiki/窪田康志 "wikilink")、坂本敏明
+  - [執行製作](../Page/執行製作人.md "wikilink")：[窪田康志](../Page/窪田康志.md "wikilink")、坂本敏明
   - 執行[監督](https://zh.wikipedia.org/wiki/導演 "wikilink")：淺沼正人
   - 監督：增谷公治、澀谷剛
 
@@ -239,7 +239,7 @@ Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")、[光GENJI和](../Pag
 
 ## 參見
 
-  - 《[會呼吸的鋼琴](https://zh.wikipedia.org/wiki/會呼吸的鋼琴 "wikilink")》：AKB48成員[松井咲子在](../Page/松井咲子.md "wikilink")2012年發行的出道[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄了鋼琴演奏版的《Everyday、髮箍》。\[102\]
+  - 《[會呼吸的鋼琴](../Page/會呼吸的鋼琴.md "wikilink")》：AKB48成員[松井咲子在](../Page/松井咲子.md "wikilink")2012年發行的出道[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄了鋼琴演奏版的《Everyday、髮箍》。\[102\]
 
 ## 參考資料
 

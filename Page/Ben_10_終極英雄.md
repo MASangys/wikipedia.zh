@@ -1,16 +1,16 @@
 **《Ben 10 終極英雄》**（英文：Ben 10: Ultimate
-Alien），為[美國](../Page/美國.md "wikilink")[時代華納公司旗下](../Page/時代華納.md "wikilink")[Cartoon
+Alien），為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[時代華納公司旗下](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[Cartoon
 Network
-Studios於](../Page/Cartoon_Network_Studios.md "wikilink")2010年推出之[電視動畫](../Page/電視動畫.md "wikilink")。是[Ben
+Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")2010年推出之[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。是[Ben
 10商標的第三部系列作](../Page/Ben_10系列.md "wikilink")，分兩季52集。由Dwayne
 McDuffie和Glen Murakami以及Man of
-Action工作室製作。在美國是在2010年4月23日首播，在台灣、英國和拉丁美洲是在2010年10月10日10:00。美國已經在2012年3月31日播出最後一集，台灣則是在2012年9月27日播出最後一集。中国大陆初期由[广东广播电视台](../Page/广东广播电视台.md "wikilink")[嘉佳卡通卫视于](../Page/嘉佳卡通.md "wikilink")2014年9月中到2015年6月15日为全国首播\[1\]，现节目由[腾讯公司旗下的](../Page/腾讯公司.md "wikilink")[腾讯视频重新配音在网络平台独家播出](../Page/腾讯视频.md "wikilink")，以《**少年骇客终极异形**》名义，与台湾版不同
+Action工作室製作。在美國是在2010年4月23日首播，在台灣、英國和拉丁美洲是在2010年10月10日10:00。美國已經在2012年3月31日播出最後一集，台灣則是在2012年9月27日播出最後一集。中国大陆初期由[广东广播电视台](../Page/广东广播电视台.md "wikilink")[嘉佳卡通卫视于](https://zh.wikipedia.org/wiki/嘉佳卡通 "wikilink")2014年9月中到2015年6月15日为全国首播\[1\]，现节目由[腾讯公司旗下的](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[腾讯视频重新配音在网络平台独家播出](../Page/腾讯视频.md "wikilink")，以《**少年骇客终极异形**》名义，与台湾版不同
 (大陆版为高清16:9播出，无字幕，在内地配音)。\[2\]
 
 ## 故事簡介
 
   -
-    小班得到[Omnitrix的升級版Ultimarix以後](../Page/Omnitrix.md "wikilink")，擁有更強大的變身能力，可以將之前變身的外星生物轉變為更強大的版本。另一方面，小班原本的秘密身份曝光讓大眾以不同於過去的眼光看他。小班除了要面對與茱莉關係的變化，還要面對過去的舊敵人和未知的新敵人。
+    小班得到[Omnitrix的升級版Ultimarix以後](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")，擁有更強大的變身能力，可以將之前變身的外星生物轉變為更強大的版本。另一方面，小班原本的秘密身份曝光讓大眾以不同於過去的眼光看他。小班除了要面對與茱莉關係的變化，還要面對過去的舊敵人和未知的新敵人。
     第一季的劇情主線在阻止惡怪剋的計畫，主要敵人為惡怪剋。第二季沒有特定的主要敵人，有多集敘述各角色本身的故事。後期原本衰弱的永恆武士重振實力，異界生物大剛也將構成嚴重威脅。
 
 ## 主角團隊
@@ -343,7 +343,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 <!-- end list -->
 
   -
-    見[維德家](../Page/#.E7.B6.AD.E5.BE.B7.E5.AE.B6.md "wikilink")
+    見[維德家](https://zh.wikipedia.org/wiki/#.E7.B6.AD.E5.BE.B7.E5.AE.B6 "wikilink")
 
 <!-- end list -->
 
@@ -467,7 +467,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
   -
 
-    蓋文星人發明家，作品包括年輕時開發的威力強大的劍艾司克隆和後來的Omnitrix相關科技。可以自由拔下[Omnitrix的核心](../Page/Omnitrix.md "wikilink")。小班先後配戴的Omnitrix和Ultimatrix都是從他的實驗室出產。而艾司克隆則是落入喬治手中，用來對付大剛。在創造威力強大的艾司克隆以後改變研究路線，以增進星際物種了解促進和平為出發點創造Omnitrix，但是因為魔賈斯一類的野心家而感到灰心變得不問世事。後來受到小班影響，重新關注外界的事。後來在足以造成星際危機的事件發生時，會與小班接觸，無論是屬於被動捲入還是主動干預。
+    蓋文星人發明家，作品包括年輕時開發的威力強大的劍艾司克隆和後來的Omnitrix相關科技。可以自由拔下[Omnitrix的核心](https://zh.wikipedia.org/wiki/Omnitrix "wikilink")。小班先後配戴的Omnitrix和Ultimatrix都是從他的實驗室出產。而艾司克隆則是落入喬治手中，用來對付大剛。在創造威力強大的艾司克隆以後改變研究路線，以增進星際物種了解促進和平為出發點創造Omnitrix，但是因為魔賈斯一類的野心家而感到灰心變得不問世事。後來受到小班影響，重新關注外界的事。後來在足以造成星際危機的事件發生時，會與小班接觸，無論是屬於被動捲入還是主動干預。
 
     [Ben 10系列中首次登場在](../Page/Ben_10系列.md "wikilink")《Ben
     10：變身之謎》，為了Omnitrix自毀會造成大災難的事被找到。在《Ben 10
@@ -818,7 +818,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
 ### 雷吉多蒙
 
-  - **邪咒[魔女](../Page/魔女.md "wikilink")**（Charmcaster）
+  - **邪咒[魔女](https://zh.wikipedia.org/wiki/魔女 "wikilink")**（Charmcaster）
 
 <!-- end list -->
 
@@ -1535,7 +1535,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
     基因來源：變形外星人（Polymorph）
 
-    黏呼呼的一大團淺綠色液體，可以隨意變換外形，也能夠改變自己身體的酸鹼度。作戰時可以噴射強酸或潛入目標內自爆。需要像小型[幽浮一般的重力控制器控制液態身體](../Page/幽浮.md "wikilink")，如果控制器被關閉就會以一灘黏液困在地面。當小班使用異形怪時，小玟和凱文都對這個外星人有意見。在《The
+    黏呼呼的一大團淺綠色液體，可以隨意變換外形，也能夠改變自己身體的酸鹼度。作戰時可以噴射強酸或潛入目標內自爆。需要像小型[幽浮一般的重力控制器控制液態身體](https://zh.wikipedia.org/wiki/幽浮 "wikilink")，如果控制器被關閉就會以一灘黏液困在地面。當小班使用異形怪時，小玟和凱文都對這個外星人有意見。在《The
     Creature From Beyond》，小班從小玟沒有對他變身的異形怪抱怨判斷小玟情況不好。
 
 <!-- end list -->
@@ -1548,7 +1548,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
     基因來源：海空雙棲星人（Aerophibian）
 
-    外形像[魟的外星人](../Page/魟.md "wikilink")，以飛行為主要行動方式，可從眼睛射出光束。可以高速飛行，眼睛發射的光束具有破壞力。在《Eye
+    外形像[魟的外星人](https://zh.wikipedia.org/wiki/魟 "wikilink")，以飛行為主要行動方式，可從眼睛射出光束。可以高速飛行，眼睛發射的光束具有破壞力。在《Eye
     of the Beholder》顯示可以穿過超空間傳送門，在太空進行長程旅行。眼睛光束的能力在《Ben 10,000
     Returns》破壞亞馬加頓魔盤。
 
@@ -1648,7 +1648,7 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
     基因來源：阿拉卡那星人
 
-    長得像[猴子和](../Page/猴子.md "wikilink")[蜘蛛的混合體](../Page/蜘蛛.md "wikilink")，有四隻手，行動敏捷並可吐出強力黏性絲網。
+    長得像[猴子和](https://zh.wikipedia.org/wiki/猴子 "wikilink")[蜘蛛的混合體](../Page/蜘蛛.md "wikilink")，有四隻手，行動敏捷並可吐出強力黏性絲網。
 
     終極版：主要外型由藍色猴子轉為大猩猩，再加上蜘蛛腳。吐出的黏性網威力更強。
 
@@ -3000,11 +3000,12 @@ Action工作室製作。在美國是在2010年4月23日首播，在台灣、英�
 
 ## 參見
 
-  - [Cartoon Network](../Page/Cartoon_Network.md "wikilink")
+  - [Cartoon
+    Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")
   - [Cartoon Network
-    Studios](../Page/Cartoon_Network_Studios.md "wikilink")
+    Studios](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")
   - [Ben 10系列](../Page/Ben_10系列.md "wikilink")
-  - [Ben 10](../Page/Ben_10.md "wikilink")（最早的系列）
+  - [Ben 10](https://zh.wikipedia.org/wiki/Ben_10 "wikilink")（最早的系列）
   - [Ben 10 外星英雄](../Page/Ben_10_外星英雄.md "wikilink")
   - [Ben 10 全面進化](../Page/Ben_10_全面進化.md "wikilink")
 

@@ -2,7 +2,7 @@
 7）是日本歌手[濱崎步的混音專輯系列](../Page/濱崎步.md "wikilink")，總共四張混音專輯，同時於2011年4月20日在日本發行。
 
 共四張混音專輯，收錄出道單曲《[poker
-face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》的混音歌曲。另外發行一個包含四張專輯以及額外特典CD的紙盒限量包裝：
+face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")》至第50張單曲《[L](../Page/L_\(濱崎步單曲\).md "wikilink")》的混音歌曲。另外發行一個包含四張專輯以及額外特典CD的紙盒限量包裝：
 
   - 《ayu-mi-x 7 -version HOUSE-》(濱崎·不·一樣 7 -電時尚浩室混音篇-)
   - 《ayu-mi-x 7 -version Acoustic Orchestra-》(濱崎·不·一樣 7 -新古典浪漫管弦篇-)
@@ -25,7 +25,7 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
 <!-- end list -->
 
   - 濱崎步前次發行的混音專輯為2008年的《[ayu-mi-x
-    6](../Page/ayu-mi-x_6.md "wikilink")》，約間隔三年再度發行。
+    6](https://zh.wikipedia.org/wiki/ayu-mi-x_6 "wikilink")》，約間隔三年再度發行。
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
 
 <!-- end list -->
 
-  - 在「新古典浪漫管弦篇」裡請來首位在[范克萊本國際鋼琴大賽贏得冠軍的日本鋼琴家](https://zh.wikipedia.org/wiki/范·克萊本國際鋼琴比賽 "wikilink")[辻井伸行演奏](https://zh.wikipedia.org/wiki/辻井伸行 "wikilink")「[LOVE
+  - 在「新古典浪漫管弦篇」裡請來首位在[范克萊本國際鋼琴大賽贏得冠軍的日本鋼琴家](https://zh.wikipedia.org/wiki/范·克萊本國際鋼琴比賽 "wikilink")[辻井伸行演奏](../Page/辻井伸行.md "wikilink")「[LOVE
     \~Destiny\~](https://zh.wikipedia.org/wiki/LOVE_~Destiny~ "wikilink")」。
 
 <!-- end list -->
@@ -88,18 +88,20 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     NATION remix)**
 4.  **[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink") (Johnny
     Vicious Club mix)**
-5.  **[fairyland](../Page/fairyland.md "wikilink") (Hex Hector remix)**
+5.  **[fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
+    (Hex Hector remix)**
 6.  **[No way to say](../Page/No_way_to_say.md "wikilink") (Sugiurumn
     remix)**
-7.  **[appears](../Page/appears.md "wikilink") (Shinichi Osawa remix)**
+7.  **[appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    (Shinichi Osawa remix)**
 8.  **[Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
     (Dub's Standard House remix)**
 9.  **[Voyage](../Page/Voyage.md "wikilink") (TURBO's Circuit mix)**
 10. **[M](../Page/M_\(濱崎步單曲\).md "wikilink") (Remo-con remix)**
 11. **[UNITE\!](../Page/UNITE!.md "wikilink") (EK's Big Room remix)**
-12. **[crossroad](../Page/crossroad.md "wikilink") (Johnny Vicious Club
-    mix)**
+12. **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+    (Johnny Vicious Club mix)**
 13. **[Virgin Road](../Page/L_\(濱崎步單曲\).md "wikilink") (FPM EVERLUST
     mix)**
 
@@ -112,8 +114,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     Kobayashi)**
 3.  **[Moments](../Page/Moments_\(濱崎步單曲\).md "wikilink") (Arranged by
     Akimitsu Homma)**
-4.  **[kanariya](../Page/kanariya.md "wikilink") (Arranged by Yuta
-    Nakano)**
+4.  **[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
+    (Arranged by Yuta Nakano)**
 5.  **[HEAVEN](https://zh.wikipedia.org/wiki/HEAVEN "wikilink")
     (Arranged by Akimitsu Homma)**
 6.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink") (Arranged by
@@ -122,15 +124,15 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     Homma)**
 8.  **[AUDIENCE](../Page/AUDIENCE.md "wikilink") (Arranged by Akimitsu
     Homma)**
-9.  **[evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink") (Arranged
-    by Yuta Nakano)**
+9.  **[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
+    (Arranged by Yuta Nakano)**
 10. **[BLUE BIRD](../Page/BLUE_BIRD.md "wikilink") (Arranged by Akimitsu
     Homma)**
 11. **[You
     were...](https://zh.wikipedia.org/wiki/You_were..._/_BALLAD "wikilink")
     (Arranged by CMJK)**
-12. **[forgiveness](../Page/forgiveness.md "wikilink") (Arranged by
-    Shingo Kobayashi)**
+12. **[forgiveness](https://zh.wikipedia.org/wiki/forgiveness "wikilink")
+    (Arranged by Shingo Kobayashi)**
 13. **[LOVE ～Destiny～](../Page/LOVE_～Destiny～.md "wikilink") (Arranged
     by Nobuyuki Tsujii)**
 
@@ -146,14 +148,15 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     remix)**
 4.  **[Days](https://zh.wikipedia.org/wiki/Days/GREEN "wikilink") (Aly &
     Fila remix)**
-5.  **[poker face](../Page/poker_face_\(濱崎步單曲\).md "wikilink") (Ronald
-    Van Gelderen Extended remix)**
+5.  **[poker
+    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
+    (Ronald Van Gelderen Extended remix)**
 6.  **[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") (Remo-con classic
     trance remix)**
 7.  **[Rule](https://zh.wikipedia.org/wiki/Rule/Sparkle "wikilink")
     (Public Domain remix)**
-8.  **[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") (Groove Coverage
-    remix)**
+8.  **[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    (Groove Coverage remix)**
 9.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") (Dance
     Nation remix)**
 10. **[YOU](../Page/YOU_\(濱崎步單曲\).md "wikilink") (Ramon Zenker remix)**
@@ -183,7 +186,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     (EUROGROOVES 2011 rmx)**
 9.  **[INSPIRE](../Page/INSPIRE.md "wikilink") (AKBK "valle blanco"
     remix)**
-10. **[talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink")
+10. **[talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
     (EUROGROOVES fashion mix)**
 11. **[Free & Easy](../Page/Free_&_Easy.md "wikilink") (Plum mix)**
 12. **[Depend on you](../Page/Depend_on_you.md "wikilink") (EUROBEAT
@@ -206,8 +210,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
 
 #### BONUS DISC
 
-1.  **[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") (Groove Coverage
-    remix)**
+1.  **[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    (Groove Coverage remix)**
 2.  **[Far away](../Page/Far_away.md "wikilink") (Alex M.O.R.P.H.
     Extended rmx)**
 3.  **[SEASONS](../Page/SEASONS.md "wikilink") (John O'Callaghan
@@ -219,7 +223,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
 6.  **[Sunrise 〜LOVE is
     ALL〜](https://zh.wikipedia.org/wiki/Sunrise/Sunset_～LOVE_is_ALL～ "wikilink")
     (accatino - rimonti - festari remix)**
-7.  **[fairyland](../Page/fairyland.md "wikilink") (Hex Hector remix)**
+7.  **[fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
+    (Hex Hector remix)**
 8.  **[TO BE](../Page/TO_BE.md "wikilink") (Jonathan Peters Club mix)**
 9.  **[WHATEVER](../Page/WHATEVER.md "wikilink") (Arranged by CMJK)**
 10. **[Trust](../Page/Trust.md "wikilink") (Arranged by Akimitsu
@@ -234,8 +239,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     trance remix)**
 15. **[MOON](https://zh.wikipedia.org/wiki/MOON/blossom "wikilink")
     (Clokx remix)**
-16. **[crossroad](../Page/crossroad.md "wikilink") (Johnny Vicious Club
-    mix)**
+16. **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+    (Johnny Vicious Club mix)**
 17. **[For My Dear...](../Page/For_My_Dear....md "wikilink") (HOUSE
     NATION remix)**
 18. **[Dearest](../Page/Dearest_\(濱崎步單曲\).md "wikilink") (Razor 'N Guido
@@ -256,18 +261,20 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     NATION remix)**
 4.  **[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink") (Johnny
     Vicious Club mix)**
-5.  **[fairyland](../Page/fairyland.md "wikilink") (Hex Hector remix)**
+5.  **[fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
+    (Hex Hector remix)**
 6.  **[No way to say](../Page/No_way_to_say.md "wikilink") (Sugiurumn
     remix)**
-7.  **[appears](../Page/appears.md "wikilink") (Shinichi Osawa remix)**
+7.  **[appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    (Shinichi Osawa remix)**
 8.  **[Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
     (Dub's Standard House remix)**
 9.  **[Voyage](../Page/Voyage.md "wikilink") (TURBO's Circuit mix)**
 10. **[M](../Page/M_\(濱崎步單曲\).md "wikilink") (Remo-con remix)**
 11. **[UNITE\!](../Page/UNITE!.md "wikilink") (EK's Big Room remix)**
-12. **[crossroad](../Page/crossroad.md "wikilink") (Johnny Vicious Club
-    mix)**
+12. **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+    (Johnny Vicious Club mix)**
 13. **[Virgin Road](../Page/L_\(濱崎步單曲\).md "wikilink") (FPM EVERLUST
     mix)**
 
@@ -283,12 +290,12 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     NATION Instrumental mix)**
 4.  **[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink") (Johnny
     Vicious Instrumental)**
-5.  **[fairyland](../Page/fairyland.md "wikilink") (Hex Hector
-    Instrumental mix)**
+5.  **[fairyland](https://zh.wikipedia.org/wiki/fairyland "wikilink")
+    (Hex Hector Instrumental mix)**
 6.  **[No way to say](../Page/No_way_to_say.md "wikilink") (Sugiurumn
     Instrumental mix)**
-7.  **[appears](../Page/appears.md "wikilink") (Shinichi Osawa remix
-    Instrumental)**
+7.  **[appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    (Shinichi Osawa remix Instrumental)**
 8.  **[Bold &
     Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
     (Dub's Standard House Instrumental)**
@@ -298,8 +305,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     mix)**
 11. **[UNITE\!](../Page/UNITE!.md "wikilink") (EK's Big Room
     Instrumental remix)**
-12. **[crossroad](../Page/crossroad.md "wikilink") (Johnny Vicious
-    Instrumental)**
+12. **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+    (Johnny Vicious Instrumental)**
 13. **[Virgin Road](../Page/L_\(濱崎步單曲\).md "wikilink") (FPM EVERLUST
     Instrumental mix)**
 
@@ -315,14 +322,15 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     remix)**
 4.  **[Days](https://zh.wikipedia.org/wiki/Days/GREEN "wikilink") (Aly &
     Fila remix)**
-5.  **[poker face](../Page/poker_face_\(濱崎步單曲\).md "wikilink") (Ronald
-    Van Gelderen Extended remix)**
+5.  **[poker
+    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
+    (Ronald Van Gelderen Extended remix)**
 6.  **[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") (Remo-con classic
     trance remix)**
 7.  **[Rule](https://zh.wikipedia.org/wiki/Rule/Sparkle "wikilink")
     (Public Domain remix)**
-8.  **[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") (Groove Coverage
-    remix)**
+8.  **[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    (Groove Coverage remix)**
 9.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") (Dance
     Nation remix)**
 10. **[YOU](../Page/YOU_\(濱崎步單曲\).md "wikilink") (Ramon Zenker remix)**
@@ -341,14 +349,15 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
 3.  **[SEASONS](../Page/SEASONS.md "wikilink") (John O'Callaghan Dub)**
 4.  **[Days](https://zh.wikipedia.org/wiki/Days/GREEN "wikilink") (Aly &
     Fila Dub)**
-5.  **[poker face](../Page/poker_face_\(濱崎步單曲\).md "wikilink") (Ronald
-    Van Gelderen remix Instrumental)**
+5.  **[poker
+    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
+    (Ronald Van Gelderen remix Instrumental)**
 6.  **[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") (Remo-con classic
     trance Instrumental)**
 7.  **[Rule](https://zh.wikipedia.org/wiki/Rule/Sparkle "wikilink")
     (Public Domain remix Instrumental)**
-8.  **[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") (Groove Coverage
-    Instrumental)**
+8.  **[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    (Groove Coverage Instrumental)**
 9.  **[Endless sorrow](../Page/Endless_sorrow.md "wikilink") (Dance
     Nation Instrumental mix)**
 10. **[YOU](../Page/YOU_\(濱崎步單曲\).md "wikilink") (Ramon Zenker
@@ -379,7 +388,8 @@ face](../Page/poker_face_\(濱崎步單曲\).md "wikilink")》至第50張單曲�
     (EUROGROOVES 2011 rmx)**
 9.  **[INSPIRE](../Page/INSPIRE.md "wikilink") (AKBK "valle blanco"
     remix)**
-10. **[talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink")
+10. **[talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
     (EUROGROOVES fashion mix)**
 11. **[Free & Easy](../Page/Free_&_Easy.md "wikilink") (Plum mix)**
 12. **[Depend on you](../Page/Depend_on_you.md "wikilink") (EUROBEAT

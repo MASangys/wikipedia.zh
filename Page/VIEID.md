@@ -15,7 +15,7 @@
 
 2011年1月，[美国](../Page/美国.md "wikilink")[奥巴马](https://zh.wikipedia.org/wiki/奥巴马 "wikilink")[政府责成美国](../Page/政府.md "wikilink")[商务部](https://zh.wikipedia.org/wiki/商务部 "wikilink")，就如何才能妥善地建立一套“[网络身份证](../Page/网络身份证.md "wikilink")”制度尽快出一个解决方案。美国[商务部长](https://zh.wikipedia.org/wiki/商务部 "wikilink")[骆家辉和白宫网络安全协调员施密特](../Page/骆家辉.md "wikilink")7日在[斯坦福](https://zh.wikipedia.org/wiki/斯坦福 "wikilink")[经济](../Page/经济.md "wikilink")[政策](../Page/政策.md "wikilink")[研究院出席公开活动时透露](../Page/研究.md "wikilink")，总统奥巴马将于未来数月公开一份名为《网络空间可信身份国家战略》的草案。目前在世界范围内提供**VIEID**服务的公司有以下数家：
 
-`  `[`VIeID`](../Page/VIeID.md "wikilink")`:`[`通用账户及身份`](https://zh.wikipedia.org/wiki/通用账户 "wikilink")[`管理`](https://zh.wikipedia.org/wiki/管理 "wikilink")
+`  `[`VIeID`](https://zh.wikipedia.org/wiki/VIeID "wikilink")`:`[`通用账户及身份`](https://zh.wikipedia.org/wiki/通用账户 "wikilink")[`管理`](https://zh.wikipedia.org/wiki/管理 "wikilink")
 `  `[`OpenID`](../Page/OpenID.md "wikilink")`：跨站身份管理`
 `  ClaimID：创建用户档案、信誉的网络服务    `
 `  CardSpace：`[`微软可支持多个`](../Page/微软.md "wikilink")[`数字身份的虚拟钱包`](https://zh.wikipedia.org/wiki/数字 "wikilink")

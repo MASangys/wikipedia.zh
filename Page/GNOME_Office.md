@@ -5,17 +5,18 @@
     Evolution新聞群組和電子郵件應用](../Page/Novell_Evolution.md "wikilink")
   - [Evince文件閱讀器](../Page/Evince.md "wikilink")
   - [Gnumeric電子試算表](../Page/Gnumeric.md "wikilink")
-  - [Glom資料庫](../Page/Glom.md "wikilink")
-  - [Agnubis簡報](../Page/Agnubis.md "wikilink")（*已停止開發*）
-  - [Criawips簡報](../Page/Criawips.md "wikilink")（*已停止開發*）
-  - [Ease演示工具](../Page/Ease.md "wikilink")（使用[Clutter](../Page/Clutter.md "wikilink")，開發中）
+  - [Glom資料庫](https://zh.wikipedia.org/wiki/Glom "wikilink")
+  - [Agnubis簡報](https://zh.wikipedia.org/wiki/Agnubis "wikilink")（*已停止開發*）
+  - [Criawips簡報](https://zh.wikipedia.org/wiki/Criawips "wikilink")（*已停止開發*）
+  - [Ease演示工具](https://zh.wikipedia.org/wiki/Ease "wikilink")（使用[Clutter](https://zh.wikipedia.org/wiki/Clutter "wikilink")，開發中）
 
 ## 相关条目
 
-  - [Calligra Suite](../Page/Calligra_Suite.md "wikilink")
+  - [Calligra
+    Suite](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")
   - [KOffice](../Page/KOffice.md "wikilink")
   - [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
-  - [LibreOffice](../Page/LibreOffice.md "wikilink")
+  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
 
 ## 外部链接
 

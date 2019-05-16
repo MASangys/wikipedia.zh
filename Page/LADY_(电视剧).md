@@ -1,4 +1,4 @@
-《**LADY～最后的犯罪画像～**》（）通稱**-{LADY}-**。是一部於2011年1月7日起，由[日本](../Page/日本.md "wikilink")[TBS電視台於逢](../Page/TBS電視台.md "wikilink")[每週五](../Page/每週五.md "wikilink")22:00〜22:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出的[電視連續劇](../Page/日本電視劇.md "wikilink")，由[北川景子主演](../Page/北川景子.md "wikilink")，[木村多江](../Page/木村多江.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[須藤理彩](../Page/須藤理彩.md "wikilink")、[要潤](../Page/要潤.md "wikilink")、[小澤征悦等人參演](../Page/小澤征悦.md "wikilink")。首回播放時間為21:00〜23:09。
+《**LADY～最后的犯罪画像～**》（）通稱**-{LADY}-**。是一部於2011年1月7日起，由[日本](../Page/日本.md "wikilink")[TBS電視台於逢](../Page/TBS電視台.md "wikilink")[每週五](https://zh.wikipedia.org/wiki/每週五 "wikilink")22:00〜22:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[北川景子主演](../Page/北川景子.md "wikilink")，[木村多江](../Page/木村多江.md "wikilink")、[平岡祐太](../Page/平岡祐太.md "wikilink")、[須藤理彩](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")、[要潤](../Page/要潤.md "wikilink")、[小澤征悦等人參演](https://zh.wikipedia.org/wiki/小澤征悦 "wikilink")。首回播放時間為21:00〜23:09。
 
 ## 劇情
 
@@ -8,7 +8,7 @@
 
 ### 警視廳搜查一課犯罪行動分析室(<Font Color="red">C</Font Color><small>riminal</small> <Font Color="red">P</Font Color><small>rofiling</small> <Font Color="red">S</Font Color><small>upport</small> T<small>eam</small>)
 
-  - **香月翔子：[北川景子](../Page/北川景子.md "wikilink")〔26〕**〔17歳：[相葉香凛](../Page/相葉香凛.md "wikilink")〕
+  - **香月翔子：[北川景子](../Page/北川景子.md "wikilink")〔26〕**〔17歳：[相葉香凛](https://zh.wikipedia.org/wiki/相葉香凛 "wikilink")〕
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
 <!-- end list -->
 
-  - **奥居萬里江：[須藤理彩](../Page/須藤理彩.md "wikilink")〔34〕**
+  - **奥居萬里江：[須藤理彩](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")〔34〕**
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 
 ### 警視廳搜查一課
 
-  - **柘植正樹：[中山裕介](../Page/中山裕介.md "wikilink")〔39〕**〔14歳：[井上翔](../Page/井上翔.md "wikilink")〕
+  - **柘植正樹：[中山裕介](https://zh.wikipedia.org/wiki/中山裕介 "wikilink")〔39〕**〔14歳：[井上翔](https://zh.wikipedia.org/wiki/井上翔 "wikilink")〕
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - **石渡順也**：**[細田義彥](../Page/細田義彥.md "wikilink")**
+  - **石渡順也**：**[細田義彥](https://zh.wikipedia.org/wiki/細田義彥 "wikilink")**
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - **久保田公一** ：**[吉家章人](../Page/吉家章人.md "wikilink")**
+  - **久保田公一** ：**[吉家章人](https://zh.wikipedia.org/wiki/吉家章人 "wikilink")**
 
 <!-- end list -->
 
@@ -80,8 +80,8 @@
 
 <!-- end list -->
 
-  - **搜查一課的刑事**：**[青柳翔](../Page/青柳翔.md "wikilink")、[坂本充廣](../Page/坂本充廣.md "wikilink")**
-  - **藤堂雄一郎：[小澤征悦](../Page/小澤征悦.md "wikilink")〔37〕**
+  - **搜查一課的刑事**：**[青柳翔](../Page/青柳翔.md "wikilink")、[坂本充廣](https://zh.wikipedia.org/wiki/坂本充廣 "wikilink")**
+  - **藤堂雄一郎：[小澤征悦](https://zh.wikipedia.org/wiki/小澤征悦 "wikilink")〔37〕**
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@
 
 ### 其他角色
 
-  - **香月舞子：[岡本杏理](../Page/岡本杏理.md "wikilink")〔19〕**（幼年時期：[青山愛依](../Page/青山愛依.md "wikilink")）
+  - **香月舞子：[岡本杏理](../Page/岡本杏理.md "wikilink")〔19〕**（幼年時期：[青山愛依](https://zh.wikipedia.org/wiki/青山愛依 "wikilink")）
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 
 <!-- end list -->
 
-  - **香月直也**：[鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
+  - **香月直也**：[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - **真鍋佳代子：[久世星佳](../Page/久世星佳.md "wikilink")**（第8章、第9章）
+  - **真鍋佳代子：[久世星佳](https://zh.wikipedia.org/wiki/久世星佳 "wikilink")**（第8章、第9章）
 
 <!-- end list -->
 
@@ -118,7 +118,7 @@
 
 <!-- end list -->
 
-  - **今泉：[哀川翔](../Page/哀川翔.md "wikilink")**（第5章、第9章、完結篇）
+  - **今泉：[哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")**（第5章、第9章、完結篇）
 
 <!-- end list -->
 
@@ -127,13 +127,13 @@
 
 <!-- end list -->
 
-  - **開場旁白**：[升田尚宏](../Page/升田尚宏.md "wikilink")（TBS主播）
+  - **開場旁白**：[升田尚宏](https://zh.wikipedia.org/wiki/升田尚宏 "wikilink")（TBS主播）
 
 ### 各集角色/客串演員
 
 **第1章**
 
-  - **國木田譲〔26〕：[DAIGO](../Page/DAIGO.md "wikilink")**（幼年時期：[中島凱斗](../Page/中島凱斗.md "wikilink")）
+  - **國木田譲〔26〕：[DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")**（幼年時期：[中島凱斗](https://zh.wikipedia.org/wiki/中島凱斗 "wikilink")）
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 
 <!-- end list -->
 
-  - **國木田美代子：[杉田薰](../Page/杉田薰.md "wikilink")**
+  - **國木田美代子：[杉田薰](https://zh.wikipedia.org/wiki/杉田薰 "wikilink")**
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@
 
 <!-- end list -->
 
-  - **國木田隆明（當時38歲）：[二階堂智](../Page/二階堂智.md "wikilink")**
+  - **國木田隆明（當時38歲）：[二階堂智](https://zh.wikipedia.org/wiki/二階堂智 "wikilink")**
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@
 
 <!-- end list -->
 
-  - **國木田文則（當時7歲）：[大江駿輔](../Page/大江駿輔.md "wikilink")**
+  - **國木田文則（當時7歲）：[大江駿輔](https://zh.wikipedia.org/wiki/大江駿輔 "wikilink")**
 
 <!-- end list -->
 
@@ -178,7 +178,7 @@
 
 <!-- end list -->
 
-  - **楡：[中平良夫](../Page/中平良夫.md "wikilink")**
+  - **楡：[中平良夫](https://zh.wikipedia.org/wiki/中平良夫 "wikilink")**
 
 <!-- end list -->
 
@@ -187,10 +187,10 @@
 
 <!-- end list -->
 
-  - **警視廳犯罪行動演習中，扮演炸彈客的警方人員：[小澤一敬](../Page/小澤一敬.md "wikilink")（[SPEED
-    WAGON](../Page/SPEED_WAGON.md "wikilink")）**
-  - **伊野充：[佐藤詩音](../Page/佐藤詩音.md "wikilink")**
-  - **本宮：[鈴之助](../Page/鈴之助.md "wikilink")**
+  - **警視廳犯罪行動演習中，扮演炸彈客的警方人員：[小澤一敬](https://zh.wikipedia.org/wiki/小澤一敬 "wikilink")（[SPEED
+    WAGON](https://zh.wikipedia.org/wiki/SPEED_WAGON "wikilink")）**
+  - **伊野充：[佐藤詩音](https://zh.wikipedia.org/wiki/佐藤詩音 "wikilink")**
+  - **本宮：[鈴之助](https://zh.wikipedia.org/wiki/鈴之助 "wikilink")**
 
 <!-- end list -->
 
@@ -199,11 +199,11 @@
 
 <!-- end list -->
 
-  - **新聞主播：[竹内香苗](../Page/竹内香苗.md "wikilink")**（TBS電視主播）
+  - **新聞主播：[竹内香苗](https://zh.wikipedia.org/wiki/竹内香苗 "wikilink")**（TBS電視主播）
 
 **第2章**
 
-  - **徳山茂：[塚地武雅](../Page/塚地武雅.md "wikilink")**（）
+  - **徳山茂：[塚地武雅](https://zh.wikipedia.org/wiki/塚地武雅 "wikilink")**（）
 
 <!-- end list -->
 
@@ -212,7 +212,7 @@
 
 <!-- end list -->
 
-  - **田宮清美：[佐藤江梨子](../Page/佐藤江梨子.md "wikilink")**（少女時期：[咲良菜緒](../Page/咲良菜緒.md "wikilink")）
+  - **田宮清美：[佐藤江梨子](../Page/佐藤江梨子.md "wikilink")**（少女時期：[咲良菜緒](https://zh.wikipedia.org/wiki/咲良菜緒 "wikilink")）
 
 <!-- end list -->
 
@@ -221,7 +221,7 @@
 
 <!-- end list -->
 
-  - **田宮琴美：[松尾寧夏](../Page/松尾寧夏.md "wikilink")**（幼年時期：[永井穗花](../Page/永井穗花.md "wikilink")）
+  - **田宮琴美：[松尾寧夏](https://zh.wikipedia.org/wiki/松尾寧夏 "wikilink")**（幼年時期：[永井穗花](https://zh.wikipedia.org/wiki/永井穗花 "wikilink")）
 
 <!-- end list -->
 
@@ -230,7 +230,7 @@
 
 <!-- end list -->
 
-  - **大友繪里：[大村彩子](../Page/大村彩子.md "wikilink")**
+  - **大友繪里：[大村彩子](https://zh.wikipedia.org/wiki/大村彩子 "wikilink")**
 
 <!-- end list -->
 
@@ -248,7 +248,7 @@
 
 <!-- end list -->
 
-  - **西野久美子：[諏訪井莫妮卡](../Page/諏訪井莫妮卡.md "wikilink")**
+  - **西野久美子：[諏訪井莫妮卡](https://zh.wikipedia.org/wiki/諏訪井莫妮卡 "wikilink")**
 
 <!-- end list -->
 
@@ -257,7 +257,7 @@
 
 <!-- end list -->
 
-  - **梶山：[榊英雄](../Page/榊英雄.md "wikilink")**
+  - **梶山：[榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")**
 
 <!-- end list -->
 
@@ -266,8 +266,8 @@
 
 <!-- end list -->
 
-  - **杉並署生活安全課課員：[柏原收史](../Page/柏原收史.md "wikilink")**
-  - **清美與琴美的母親：[澤口夏奈子](../Page/澤口夏奈子.md "wikilink")**
+  - **杉並署生活安全課課員：[柏原收史](https://zh.wikipedia.org/wiki/柏原收史 "wikilink")**
+  - **清美與琴美的母親：[澤口夏奈子](https://zh.wikipedia.org/wiki/澤口夏奈子 "wikilink")**
 
 <!-- end list -->
 
@@ -276,11 +276,11 @@
 
 <!-- end list -->
 
-  - **警視廳職員：[田口主將](../Page/田口主將.md "wikilink")**
+  - **警視廳職員：[田口主將](https://zh.wikipedia.org/wiki/田口主將 "wikilink")**
 
 **第3章**
 
-  - **三宅隆史：[片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")**
+  - **三宅隆史：[片岡鶴太郎](https://zh.wikipedia.org/wiki/片岡鶴太郎 "wikilink")**
 
 <!-- end list -->
 
@@ -289,7 +289,7 @@
 
 <!-- end list -->
 
-  - **三宅奈緒子：[野崎萌香](../Page/野崎萌香.md "wikilink")**
+  - **三宅奈緒子：[野崎萌香](https://zh.wikipedia.org/wiki/野崎萌香 "wikilink")**
 
 <!-- end list -->
 
@@ -298,7 +298,7 @@
 
 <!-- end list -->
 
-  - **中野正敏：[大東俊介](../Page/大東俊介.md "wikilink")**
+  - **中野正敏：[大東俊介](https://zh.wikipedia.org/wiki/大東俊介 "wikilink")**
 
 <!-- end list -->
 
@@ -307,7 +307,7 @@
 
 <!-- end list -->
 
-  - **武林弘一：[長谷川朝晴](../Page/長谷川朝晴.md "wikilink")**
+  - **武林弘一：[長谷川朝晴](https://zh.wikipedia.org/wiki/長谷川朝晴 "wikilink")**
 
 <!-- end list -->
 
@@ -316,7 +316,7 @@
 
 <!-- end list -->
 
-  - **松尾善雄：[小木茂光](../Page/小木茂光.md "wikilink")**
+  - **松尾善雄：[小木茂光](https://zh.wikipedia.org/wiki/小木茂光 "wikilink")**
 
 <!-- end list -->
 
@@ -325,7 +325,7 @@
 
 <!-- end list -->
 
-  - **内村健一：[森岡龍](../Page/森岡龍.md "wikilink")**
+  - **内村健一：[森岡龍](https://zh.wikipedia.org/wiki/森岡龍 "wikilink")**
 
 <!-- end list -->
 
@@ -334,7 +334,7 @@
 
 <!-- end list -->
 
-  - **上原誠：[恩田隆一](../Page/恩田隆一.md "wikilink")**
+  - **上原誠：[恩田隆一](https://zh.wikipedia.org/wiki/恩田隆一 "wikilink")**
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 
 <!-- end list -->
 
-  - **神奈川縣警刑事部長：[市村俊明](../Page/市村俊明.md "wikilink")**
+  - **神奈川縣警刑事部長：[市村俊明](https://zh.wikipedia.org/wiki/市村俊明 "wikilink")**
 
 **第4章、第5章**
 
@@ -356,7 +356,8 @@
 
 <!-- end list -->
 
-  - '''吉野：[久保貫太郎](../Page/久保貫太郎.md "wikilink")（第4章） '''
+  - '''吉野：[久保貫太郎](https://zh.wikipedia.org/wiki/久保貫太郎 "wikilink")（第4章）
+    '''
 
 <!-- end list -->
 
@@ -384,8 +385,8 @@
 
 <!-- end list -->
 
-  - **東京拘留所的看守人：[加瀬尊朗](../Page/加瀬尊朗.md "wikilink")、維洛武田**
-  - **北村（32）：[袴田吉彦](../Page/袴田吉彦.md "wikilink")（第4章）**
+  - **東京拘留所的看守人：[加瀬尊朗](https://zh.wikipedia.org/wiki/加瀬尊朗 "wikilink")、維洛武田**
+  - **北村（32）：[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")（第4章）**
 
 <!-- end list -->
 
@@ -394,7 +395,7 @@
 
 <!-- end list -->
 
-  - **松本愛莉：[淺見姫香](../Page/淺見姫香.md "wikilink")**
+  - **松本愛莉：[淺見姫香](https://zh.wikipedia.org/wiki/淺見姫香 "wikilink")**
 
 <!-- end list -->
 
@@ -403,7 +404,7 @@
 
 <!-- end list -->
 
-  - **誘拐犯戸口（19～20）：[川村亮介](../Page/川村亮介.md "wikilink")（第5章）**
+  - **誘拐犯戸口（19～20）：[川村亮介](https://zh.wikipedia.org/wiki/川村亮介 "wikilink")（第5章）**
 
 <!-- end list -->
 
@@ -413,8 +414,8 @@
 <!-- end list -->
 
   - **愛莉的父親：中島健光（第5章）**
-  - **愛莉的母親：[野野村花音](../Page/野野村花音.md "wikilink")（第5章）**
-  - **聰史的母親：[赤澤六子](../Page/赤澤六子.md "wikilink")（第5章）**
+  - **愛莉的母親：[野野村花音](https://zh.wikipedia.org/wiki/野野村花音 "wikilink")（第5章）**
+  - **聰史的母親：[赤澤六子](https://zh.wikipedia.org/wiki/赤澤六子 "wikilink")（第5章）**
 
 <!-- end list -->
 
@@ -445,7 +446,7 @@
 
 **第6章**
 
-  - **38號（高井陽介）（28）：[忍成修吾](../Page/忍成修吾.md "wikilink")**（10歳：[加部亞門](../Page/加部亞門.md "wikilink")）
+  - **38號（高井陽介）（28）：[忍成修吾](../Page/忍成修吾.md "wikilink")**（10歳：[加部亞門](https://zh.wikipedia.org/wiki/加部亞門 "wikilink")）
 
 <!-- end list -->
 
@@ -463,7 +464,7 @@
 
 <!-- end list -->
 
-  - **高井睦美（54）：[梅澤昌代](../Page/梅澤昌代.md "wikilink")**
+  - **高井睦美（54）：[梅澤昌代](https://zh.wikipedia.org/wiki/梅澤昌代 "wikilink")**
 
 <!-- end list -->
 
@@ -472,7 +473,7 @@
 
 <!-- end list -->
 
-  - **高井正樹（55）：[大鷹明良](../Page/大鷹明良.md "wikilink")**
+  - **高井正樹（55）：[大鷹明良](https://zh.wikipedia.org/wiki/大鷹明良 "wikilink")**
 
 <!-- end list -->
 
@@ -490,10 +491,10 @@
 
 <!-- end list -->
 
-  - **「PUB\&SNACK梨子」的女服務生：[西田薫](../Page/西田薫.md "wikilink")**
-  - **刑事：[須田邦裕](../Page/須田邦裕.md "wikilink")、[永井努](../Page/永井努.md "wikilink")**
+  - **「PUB\&SNACK梨子」的女服務生：[西田薫](https://zh.wikipedia.org/wiki/西田薫 "wikilink")**
+  - **刑事：[須田邦裕](https://zh.wikipedia.org/wiki/須田邦裕 "wikilink")、[永井努](https://zh.wikipedia.org/wiki/永井努 "wikilink")**
   - **警官：山崎畫大**
-  - **汽車修護工：[冬本俊](../Page/冬本俊.md "wikilink")**
+  - **汽車修護工：[冬本俊](https://zh.wikipedia.org/wiki/冬本俊 "wikilink")**
   - **男子：宮良洋平**
   - **靜香（回憶）：[北川景子](../Page/北川景子.md "wikilink")（分飾角色）**
 
@@ -513,10 +514,10 @@
 
 <!-- end list -->
 
-  - **柿本弘也（28）：[井坂俊哉](../Page/井坂俊哉.md "wikilink")**
-  - **柿本敏也（享年18）：[清水優](../Page/清水優.md "wikilink")**
-  - **大川昭雄（27）：[弓削智久](../Page/弓削智久.md "wikilink")**
-  - **三井貴史（28）：[佐佐木卓馬](../Page/佐佐木卓馬.md "wikilink")**
+  - **柿本弘也（28）：[井坂俊哉](https://zh.wikipedia.org/wiki/井坂俊哉 "wikilink")**
+  - **柿本敏也（享年18）：[清水優](https://zh.wikipedia.org/wiki/清水優 "wikilink")**
+  - **大川昭雄（27）：[弓削智久](https://zh.wikipedia.org/wiki/弓削智久 "wikilink")**
+  - **三井貴史（28）：[佐佐木卓馬](https://zh.wikipedia.org/wiki/佐佐木卓馬 "wikilink")**
 
 <!-- end list -->
 
@@ -525,8 +526,8 @@
 
 <!-- end list -->
 
-  - **恭子：[森村玲](../Page/森村玲.md "wikilink")**
-  - **麗華的朋友：[岩崎繪理](../Page/岩崎繪理.md "wikilink")、[湯淺奈津美](../Page/湯淺奈津美.md "wikilink")**
+  - **恭子：[森村玲](https://zh.wikipedia.org/wiki/森村玲 "wikilink")**
+  - **麗華的朋友：[岩崎繪理](https://zh.wikipedia.org/wiki/岩崎繪理 "wikilink")、[湯淺奈津美](https://zh.wikipedia.org/wiki/湯淺奈津美 "wikilink")**
 
 <!-- end list -->
 
@@ -535,7 +536,7 @@
 
 <!-- end list -->
 
-  - **柘植綠（享年10）：[國光真央](../Page/國光真央.md "wikilink")**
+  - **柘植綠（享年10）：[國光真央](https://zh.wikipedia.org/wiki/國光真央 "wikilink")**
 
 <!-- end list -->
 
@@ -544,12 +545,12 @@
 
 <!-- end list -->
 
-  - **記者：[兒島功一](../Page/兒島功一.md "wikilink")**
-  - **與大川同居的女子：[安藤穂南](../Page/安藤穂南.md "wikilink")**
+  - **記者：[兒島功一](https://zh.wikipedia.org/wiki/兒島功一 "wikilink")**
+  - **與大川同居的女子：[安藤穂南](https://zh.wikipedia.org/wiki/安藤穂南 "wikilink")**
 
 **第8章**
 
-  - **山岸卓也：[戸次重幸](../Page/戸次重幸.md "wikilink")**（幼年時期：廣瀬公祐）
+  - **山岸卓也：[戸次重幸](https://zh.wikipedia.org/wiki/戸次重幸 "wikilink")**（幼年時期：廣瀬公祐）
 
 <!-- end list -->
 
@@ -558,7 +559,7 @@
 
 <!-- end list -->
 
-  - **星野貴行：[遠藤要](../Page/遠藤要_\(俳優\).md "wikilink")**
+  - **星野貴行：[遠藤要](https://zh.wikipedia.org/wiki/遠藤要_\(俳優\) "wikilink")**
 
 <!-- end list -->
 
@@ -567,8 +568,8 @@
 
 <!-- end list -->
 
-  - **真鍋佳代子：[久世星佳](../Page/久世星佳.md "wikilink")**
-  - **臼井：[加門良](../Page/加門良.md "wikilink")**
+  - **真鍋佳代子：[久世星佳](https://zh.wikipedia.org/wiki/久世星佳 "wikilink")**
+  - **臼井：[加門良](https://zh.wikipedia.org/wiki/加門良 "wikilink")**
 
 <!-- end list -->
 
@@ -578,7 +579,7 @@
 <!-- end list -->
 
   - **倉持獼生（當時34）：吉原朱美**
-  - **松島憲子（當時33）：[宮澤奈緒](../Page/宮澤奈緒.md "wikilink")**
+  - **松島憲子（當時33）：[宮澤奈緒](https://zh.wikipedia.org/wiki/宮澤奈緒 "wikilink")**
   - **田口陽子（當時35）栗田愛巳**
 
 <!-- end list -->
@@ -589,11 +590,11 @@
 <!-- end list -->
 
   - **涼子（32）：松田沙希**
-  - **穿紅色布鞋的男子：[中村譲](../Page/中村譲.md "wikilink")**
-  - **女性：[中川繪理加](../Page/中川繪理加.md "wikilink")**
+  - **穿紅色布鞋的男子：[中村譲](https://zh.wikipedia.org/wiki/中村譲 "wikilink")**
+  - **女性：[中川繪理加](https://zh.wikipedia.org/wiki/中川繪理加 "wikilink")**
   - **電影院裡的男性客人：辻伊吹**
   - **電影院裡的女高中生：松本美咲**
-  - **山岸的母親：[森谷文](../Page/森谷文.md "wikilink")**
+  - **山岸的母親：[森谷文](https://zh.wikipedia.org/wiki/森谷文 "wikilink")**
 
 <!-- end list -->
 
@@ -611,7 +612,7 @@
 
 <!-- end list -->
 
-  - **梶原英人：[池田鐵洋](../Page/池田鐵洋.md "wikilink")**
+  - **梶原英人：[池田鐵洋](https://zh.wikipedia.org/wiki/池田鐵洋 "wikilink")**
 
 <!-- end list -->
 
@@ -620,7 +621,7 @@
 
 <!-- end list -->
 
-  - **鳴海和明：[犬飼若博](../Page/犬飼若博.md "wikilink")**
+  - **鳴海和明：[犬飼若博](https://zh.wikipedia.org/wiki/犬飼若博 "wikilink")**
 
 <!-- end list -->
 
@@ -629,7 +630,7 @@
 
 <!-- end list -->
 
-  - **鳴海亞美：[藤井佳代子](../Page/藤井佳代子.md "wikilink")**
+  - **鳴海亞美：[藤井佳代子](https://zh.wikipedia.org/wiki/藤井佳代子 "wikilink")**
 
 <!-- end list -->
 
@@ -792,30 +793,31 @@
 
 ## 主题曲
 
-  - [柴崎幸](../Page/柴崎幸.md "wikilink")《[無形的靈魂](../Page/無形的靈魂.md "wikilink")》([環球音樂](../Page/環球音樂_\(日本\).md "wikilink"))
+  - [柴崎幸](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")《[無形的靈魂](../Page/無形的靈魂.md "wikilink")》([環球音樂](../Page/環球音樂_\(日本\).md "wikilink"))
 
 ## 制作人员
 
-  - 剧本：[荒井修子](../Page/荒井修子.md "wikilink")（第3話原案）、[渡邊雄介](../Page/渡邊雄介.md "wikilink")、[徳永友一](../Page/徳永友一.md "wikilink")
-  - 監修： [桐生正幸](../Page/桐生正幸.md "wikilink")〔關西國際大人間科學部人間心理學科教授〕
-  - 制作人：[津留正明](../Page/津留正明.md "wikilink")、
-    [渡邊良介](../Page/渡邊良介.md "wikilink")（[大映テレビ](../Page/大映テレビ.md "wikilink")）
-  - 导演：[平野俊一](../Page/平野俊一.md "wikilink")、[山本剛義](../Page/山本剛義.md "wikilink")（[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")）、[今井夏木](../Page/今井夏木.md "wikilink")
-  - 音樂：[河野伸](../Page/河野伸.md "wikilink")、[羽岡佳](../Page/羽岡佳.md "wikilink")、中村浩士（[i-dep](../Page/i-dep.md "wikilink")）
-  - 音樂製作：[志田博英](../Page/志田博英.md "wikilink")
+  - 剧本：[荒井修子](https://zh.wikipedia.org/wiki/荒井修子 "wikilink")（第3話原案）、[渡邊雄介](https://zh.wikipedia.org/wiki/渡邊雄介 "wikilink")、[徳永友一](https://zh.wikipedia.org/wiki/徳永友一 "wikilink")
+  - 監修：
+    [桐生正幸](https://zh.wikipedia.org/wiki/桐生正幸 "wikilink")〔關西國際大人間科學部人間心理學科教授〕
+  - 制作人：[津留正明](https://zh.wikipedia.org/wiki/津留正明 "wikilink")、
+    [渡邊良介](https://zh.wikipedia.org/wiki/渡邊良介 "wikilink")（[大映テレビ](https://zh.wikipedia.org/wiki/大映テレビ "wikilink")）
+  - 导演：[平野俊一](https://zh.wikipedia.org/wiki/平野俊一 "wikilink")、[山本剛義](https://zh.wikipedia.org/wiki/山本剛義 "wikilink")（[ドリマックス・テレビジョン](https://zh.wikipedia.org/wiki/ドリマックス・テレビジョン "wikilink")）、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
+  - 音樂：[河野伸](https://zh.wikipedia.org/wiki/河野伸 "wikilink")、[羽岡佳](https://zh.wikipedia.org/wiki/羽岡佳 "wikilink")、中村浩士（[i-dep](https://zh.wikipedia.org/wiki/i-dep "wikilink")）
+  - 音樂製作：[志田博英](https://zh.wikipedia.org/wiki/志田博英 "wikilink")
   - 制作：[TBS](../Page/TBS.md "wikilink")
 
 ## 參考
 
   - [心理学](../Page/心理学.md "wikilink")
-  - [犯罪心理学](../Page/犯罪心理学.md "wikilink")
+  - [犯罪心理学](https://zh.wikipedia.org/wiki/犯罪心理学 "wikilink")
 
 ## 腳註
 
 ## 相關條目
 
-  - [TBS週五連續劇](../Page/TBS週五連續劇.md "wikilink")[（金曜ドラマ）](../Page/（金曜ドラマ）.md "wikilink")
-  - [犯罪心理](../Page/犯罪心理.md "wikilink")
+  - [TBS週五連續劇](../Page/TBS週五連續劇.md "wikilink")[（金曜ドラマ）](https://zh.wikipedia.org/wiki/（金曜ドラマ） "wikilink")
+  - [犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理 "wikilink")
   - [日本劇集列表 (2011年)](../Page/日本劇集列表_\(2011年\).md "wikilink")
 
 ## 外部連結

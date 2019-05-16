@@ -17,7 +17,7 @@ I 坦克（Mark I Tank），同時也正式開啟
 Mark I
 坦克的菱形構型的特點是戰車底盤與上部車身結合為一體變成一個高大的菱形，加上低重心及特長履帶，就如把整個戰車車體變成了一個大車輪，令車體可以滾過一切的鐵絲網與大小壕溝。
 
-在雌雄兩型坦克車體左右兩旁都有設置各一門砲塔，雄性坦克在砲塔上裝備一門，其後設置一挺[7.7毫米口徑維克斯水冷式重機槍](https://zh.wikipedia.org/wiki/維克斯機槍 "wikilink")，車身前後兩旁再各設置一挺維克斯機槍，總計砲2門，重機槍4挺。雌性坦克是在雄性坦克原裝設6磅砲的位置改為一挺維克斯機槍，其他沒有變化。
+在雌雄兩型坦克車體左右兩旁都有設置各一門砲塔，雄性坦克在砲塔上裝備一門，其後設置一挺[7.7毫米口徑維克斯水冷式重機槍](../Page/維克斯機槍.md "wikilink")，車身前後兩旁再各設置一挺維克斯機槍，總計砲2門，重機槍4挺。雌性坦克是在雄性坦克原裝設6磅砲的位置改為一挺維克斯機槍，其他沒有變化。
 
 車體內的乘員室並無任何隔間，引擎和武器等機械同處於一個空間內，加上引擎無裝置減震減音裝置，因此環境非常惡劣。車體內部充斥來自引擎的[一氧化碳廢氣](../Page/一氧化碳.md "wikilink")、[汽油和](../Page/汽油.md "wikilink")[機油味](../Page/機油.md "wikilink")，而武器開火後的[硝煙味亦直接衝擊車箱內的空氣質素](https://zh.wikipedia.org/wiki/硝煙 "wikilink")，再加上車箱內溫度高達[攝氏](https://zh.wikipedia.org/wiki/攝氏 "wikilink")50度，極端惡劣的環境導致不少乘員在車上暈倒。
 
@@ -53,7 +53,7 @@ III共生產了50輛，但最後兩輛均於[第二次世界大戰期間遭到�
 
 [Bundesarchiv_Bild_146-1998-098-10,_Bei_Cambrai,_erbeuteter_englischer_Panzer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_146-1998-098-10,_Bei_Cambrai,_erbeuteter_englischer_Panzer.jpg "fig:Bundesarchiv_Bild_146-1998-098-10,_Bei_Cambrai,_erbeuteter_englischer_Panzer.jpg")
 從1917年5月至1918年的年底，共生產了1,220輛。配備兩門的雄性Mark IV
-重28.4噸，而配備5挺[路易士機槍的雌性Mark](https://zh.wikipedia.org/wiki/路易士機槍 "wikilink")
+重28.4噸，而配備5挺[路易士機槍的雌性Mark](../Page/路易士機槍.md "wikilink")
 IV則重27.4噸。
 
 ### Mark V 坦克

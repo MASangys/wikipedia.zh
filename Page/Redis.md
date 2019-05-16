@@ -1,32 +1,32 @@
 **Redis**是一个使用[ANSI
-C编写的](../Page/ANSI_C.md "wikilink")[开源](../Page/开源.md "wikilink")、支持[网络](../Page/电脑网络.md "wikilink")、基于[内存](../Page/内存.md "wikilink")、可选的。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal赞助](../Page/Pivotal.md "wikilink")。\[1\]在2013年5月之前，其开发由[VMware赞助](../Page/VMware.md "wikilink")。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
+C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、支持[网络](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")、基于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、可选的。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal赞助](../Page/Pivotal.md "wikilink")。\[1\]在2013年5月之前，其开发由[VMware赞助](../Page/VMware.md "wikilink")。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
 
 ## 支持语言
 
 许多语言都包含Redis支持，包括：\[5\]
 
   - [ActionScript](../Page/ActionScript.md "wikilink")
-  - [C](../Page/C语言.md "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
-  - [C\#](../Page/C_Sharp.md "wikilink")
-  - [Clojure](../Page/Clojure.md "wikilink")
+  - [C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")
+  - [Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")
 
 <!-- end list -->
 
   - [Common Lisp](../Page/Common_Lisp.md "wikilink")
   - [Dart](../Page/Dart.md "wikilink")
-  - [Erlang](../Page/Erlang语言.md "wikilink")
-  - [Go](../Page/Go语言.md "wikilink")
-  - [Haskell](../Page/Haskell语言.md "wikilink")
+  - [Erlang](https://zh.wikipedia.org/wiki/Erlang语言 "wikilink")
+  - [Go](https://zh.wikipedia.org/wiki/Go语言 "wikilink")
+  - [Haskell](https://zh.wikipedia.org/wiki/Haskell语言 "wikilink")
 
 <!-- end list -->
 
   - [Haxe](../Page/Haxe.md "wikilink")
-  - [Io](../Page/Io语言.md "wikilink")
-  - [Java](../Page/Java语言.md "wikilink")
-  - [Fibjs](../Page/Fibjs.md "wikilink")
+  - [Io](https://zh.wikipedia.org/wiki/Io语言 "wikilink")
+  - [Java](https://zh.wikipedia.org/wiki/Java语言 "wikilink")
+  - [Fibjs](https://zh.wikipedia.org/wiki/Fibjs "wikilink")
   - [Node.js](../Page/Node.js.md "wikilink")
-  - [Lua](../Page/Lua语言.md "wikilink")
+  - [Lua](https://zh.wikipedia.org/wiki/Lua语言 "wikilink")
 
 <!-- end list -->
 
@@ -39,8 +39,8 @@ C编写的](../Page/ANSI_C.md "wikilink")[开源](../Page/开源.md "wikilink")�
 <!-- end list -->
 
   - [R](../Page/R语言.md "wikilink")\[6\]
-  - [Ruby](../Page/Ruby语言.md "wikilink")
-  - [Scala](../Page/Scala语言.md "wikilink")
+  - [Ruby](https://zh.wikipedia.org/wiki/Ruby语言 "wikilink")
+  - [Scala](https://zh.wikipedia.org/wiki/Scala语言 "wikilink")
   - [Smalltalk](../Page/Smalltalk.md "wikilink")
   - [Tcl](../Page/Tcl.md "wikilink")
 
@@ -84,27 +84,27 @@ print r.zrange('zset_test', 0, 10)
 
 ## 数据模型
 
-Redis的外围由一个键、值映射的[字典构成](../Page/关联数组.md "wikilink")。与其他[非关系型数据库主要不同在于](../Page/非关系型数据库.md "wikilink")：Redis中值的类型不仅限于[字符串](../Page/字符串.md "wikilink")，还支持如下抽象数据类型：
+Redis的外围由一个键、值映射的[字典构成](../Page/关联数组.md "wikilink")。与其他[非关系型数据库主要不同在于](https://zh.wikipedia.org/wiki/非关系型数据库 "wikilink")：Redis中值的类型不仅限于[字符串](../Page/字符串.md "wikilink")，还支持如下抽象数据类型：
 
   - [字符串](../Page/字符串.md "wikilink")[列表](../Page/串列_\(抽象資料型別\).md "wikilink")
-  - 无序不重复的[字符串](../Page/字符串.md "wikilink")[集合](../Page/集合_\(抽象資料型別\).md "wikilink")
-  - 有序不重复的[字符串](../Page/字符串.md "wikilink")[集合](../Page/集合_\(抽象資料型別\).md "wikilink")
+  - 无序不重复的[字符串](../Page/字符串.md "wikilink")[集合](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")
+  - 有序不重复的[字符串](../Page/字符串.md "wikilink")[集合](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")
   - 键、值都为[字符串的](../Page/字符串.md "wikilink")[哈希表](../Page/哈希表.md "wikilink")
 
-值的类型决定了值本身支持的操作。Redis支持不同无序、有序的[列表](../Page/串列_\(抽象資料型別\).md "wikilink")，无序、有序的[集合间的交集](../Page/集合_\(抽象資料型別\).md "wikilink")、并集等高级服务器端原子操作。
+值的类型决定了值本身支持的操作。Redis支持不同无序、有序的[列表](../Page/串列_\(抽象資料型別\).md "wikilink")，无序、有序的[集合间的交集](https://zh.wikipedia.org/wiki/集合_\(抽象資料型別\) "wikilink")、并集等高级服务器端原子操作。
 
 ## 持久化
 
 Redis通常将全部的数据存储在内存中。2.4版本后可配置为使用[虚拟内存](../Page/虚拟内存.md "wikilink")，\[7\]一部分数据集存储在硬盘上，但这个特性废弃了。
 
-目前通过两种方式实现[持久化](../Page/持久化.md "wikilink")：
+目前通过两种方式实现[持久化](https://zh.wikipedia.org/wiki/持久化 "wikilink")：
 
-  - 使用[快照](../Page/快照.md "wikilink")，一种半持久耐用模式。不时的将数据集以异步方式从内存以RDB格式写入硬盘。
+  - 使用[快照](https://zh.wikipedia.org/wiki/快照 "wikilink")，一种半持久耐用模式。不时的将数据集以异步方式从内存以RDB格式写入硬盘。
   - 1.1版本开始使用更安全的AOF格式替代，一种只能追加的日志类型。将数据集修改操作记录起来。Redis能够在后台对只可追加的记录作修改来避免無限增长的日志。
 
 ## 同步
 
-Redis支持主从同步。数据可以从主服务器向任意数量的从服务器上同步，从服务器可以是关联其他从服务器的主服务器。这使得Redis可执行单层树复制。从盘可以有意无意的对数据进行写操作。由于完全实现了[发布/订阅机制](../Page/发布/订阅.md "wikilink")，使得从数据库在任何地方同步树时，可订阅一个频道并接收主服务器完整的消息发布记录。同步对读取操作的可扩展性和数据冗余很有帮助。\[8\]
+Redis支持主从同步。数据可以从主服务器向任意数量的从服务器上同步，从服务器可以是关联其他从服务器的主服务器。这使得Redis可执行单层树复制。从盘可以有意无意的对数据进行写操作。由于完全实现了[发布/订阅机制](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")，使得从数据库在任何地方同步树时，可订阅一个频道并接收主服务器完整的消息发布记录。同步对读取操作的可扩展性和数据冗余很有帮助。\[8\]
 
 ## 性能
 
@@ -114,21 +114,22 @@ Redis支持主从同步。数据可以从主服务器向任意数量的从服务
 
   - [Cassandra](../Page/Cassandra.md "wikilink")
   - [Berkeley DB](../Page/Berkeley_DB.md "wikilink")
-  - [memcached](../Page/memcached.md "wikilink")
+  - [memcached](https://zh.wikipedia.org/wiki/memcached "wikilink")
   - [MongoDB](../Page/MongoDB.md "wikilink")
   - [Solr](../Page/Solr.md "wikilink")
-  - [内存数据库](../Page/内存数据库.md "wikilink")
-  - [非关系型数据库](../Page/非关系型数据库.md "wikilink")
+  - [内存数据库](https://zh.wikipedia.org/wiki/内存数据库 "wikilink")
+  - [非关系型数据库](https://zh.wikipedia.org/wiki/非关系型数据库 "wikilink")
 
 ## 参考资料
 
   - Jeremy Zawodny, *[Redis: Lightweight key/value Store That Goes the
     Extra Mile](http://www.linux-mag.com/cache/7496/1.html)*, [Linux
-    Magazine](../Page/Linux_Magazine.md "wikilink"), August 31, 2009
+    Magazine](https://zh.wikipedia.org/wiki/Linux_Magazine "wikilink"),
+    August 31, 2009
   - Isabel Drost and Jan Lehnard（29 October 2009）,[Happenings: NoSQL
     Conference,
     Berlin](http://www.h-online.com/open/features/Happenings-NoSQL-Conference-Berlin-843597.html),
-    [The H](../Page/The_H.md "wikilink").
+    [The H](https://zh.wikipedia.org/wiki/The_H "wikilink").
     [Slides](http://nosqlberlin.de/slides/NoSQLBerlin-Redis.pdf) for the
     Redis presentation.
     [Summary](http://www.paperplanes.de/2009/10/27/theres_something_about_redis.html).

@@ -1,5 +1,5 @@
 《**光劍星傳EX**》（、）是[Studio
-Deen製作的日本](../Page/Studio_Deen.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自《[星海遊俠系列](../Page/星海遊俠系列.md "wikilink")》之一的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")〈星海遊俠
+Deen製作的日本](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自《[星海遊俠系列](../Page/星海遊俠系列.md "wikilink")》之一的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")〈星海遊俠
 The Second
 Story〉與[東麻由美依該軟體改編的](../Page/東麻由美.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
@@ -71,7 +71,7 @@ Story〉與[東麻由美依該軟體改編的](../Page/東麻由美.md "wikilink
   - 音樂：[櫻庭統](https://zh.wikipedia.org/wiki/櫻庭統 "wikilink")
   - 製作人：[東不可止](https://zh.wikipedia.org/wiki/東不可止 "wikilink")、山西太平、豐住政弘
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio
-    Deen](../Page/Studio_Deen.md "wikilink")
+    Deen](https://zh.wikipedia.org/wiki/Studio_Deen "wikilink")
 
 ## 各話標題
 

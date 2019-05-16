@@ -2,17 +2,17 @@
 **[AKB48](../Page/AKB48.md "wikilink")**是由[秋元康擔任製作人的日本女子組合](../Page/秋元康.md "wikilink")，於2005年正式成立。與AKB48相關的**歌曲**中，[單曲有](https://zh.wikipedia.org/wiki/單曲 "wikilink")88張、其他歌曲有23首、[錄音室專輯有](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")13張、公演[DVD有](https://zh.wikipedia.org/wiki/DVD "wikilink")7張、公演[CD有](../Page/CD.md "wikilink")6張、[精選輯有](https://zh.wikipedia.org/wiki/精選輯 "wikilink")4張和紀念專輯一張，發行商分別是[AKS](../Page/AKS.md "wikilink")、[DefSTAR
 Records](../Page/DefSTAR_Records.md "wikilink")、[King
 Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")、[avex
-trax](../Page/avex_trax.md "wikilink")、[Avex
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")、[Avex
 Entertainment](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")、[Epic
 Records Japan
 Inc.](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[德間日本通訊](https://zh.wikipedia.org/wiki/德間日本通訊 "wikilink")、[Sony
 Music Records](../Page/Sony_Music_Records.md "wikilink")、[flying
-DOG](../Page/flying_DOG.md "wikilink")、、[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")、[Media
+DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、、[堀製作](https://zh.wikipedia.org/wiki/堀製作 "wikilink")、[Media
 Factory](../Page/Media_Factory.md "wikilink")、和。另外，未被收錄於任何唱片中的歌曲有12首。
 
-在與AKB48相關的單曲中，有紀錄Oricon銷量最低的單曲是由研究生組成的邪留丸姊妹演唱的《初戀是沒有結果的》，也是歷來排名最低的單曲和Oricon上榜次數最少的單曲之一，而[奧真奈美的單曲](../Page/奧真奈美.md "wikilink")《[蝸牛](../Page/蝸牛_\(奧真奈美單曲\).md "wikilink")》則是唯一從未登上Oricon公信榜的單曲，《[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")》則是銷量最高的單曲，AKB48以外的銷量最高的單曲則是子團體[Not
+在與AKB48相關的單曲中，有紀錄Oricon銷量最低的單曲是由研究生組成的邪留丸姊妹演唱的《初戀是沒有結果的》，也是歷來排名最低的單曲和Oricon上榜次數最少的單曲之一，而[奧真奈美的單曲](../Page/奧真奈美.md "wikilink")《[蝸牛](../Page/蝸牛_\(奧真奈美單曲\).md "wikilink")》則是唯一從未登上Oricon公信榜的單曲，《[再見自由式](../Page/再見自由式.md "wikilink")》則是銷量最高的單曲，AKB48以外的銷量最高的單曲則是子團體[Not
 yet的](../Page/Not_yet.md "wikilink")《[週末Not
-yet](../Page/週末Not_yet.md "wikilink")》。在[Oricon週榜中](../Page/Oricon公信榜.md "wikilink")，AKB48總共有23張相關單曲取得第一位，《[無限重播](../Page/無限重播.md "wikilink")》是上榜次數最多的單曲，也是AKB48第一張取得Oricon月榜冠軍的單曲，而從《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》以後AKB48的所有單曲均取得週榜冠軍。其後，AKB48憑《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》首度成為[Oricon年榜冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。《[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")》是發售首週Oricon公信榜創立以來銷量最高的歌曲，而《[拉布拉多獵犬](https://zh.wikipedia.org/wiki/拉布拉多獵犬_\(AKB48單曲\) "wikilink")》則是發售首天銷量最高的歌曲。在[Japan
+yet](../Page/週末Not_yet.md "wikilink")》。在[Oricon週榜中](../Page/Oricon公信榜.md "wikilink")，AKB48總共有23張相關單曲取得第一位，《[無限重播](../Page/無限重播.md "wikilink")》是上榜次數最多的單曲，也是AKB48第一張取得Oricon月榜冠軍的單曲，而從《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》以後AKB48的所有單曲均取得週榜冠軍。其後，AKB48憑《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》首度成為[Oricon年榜冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。《[再見自由式](../Page/再見自由式.md "wikilink")》是發售首週Oricon公信榜創立以來銷量最高的歌曲，而《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》則是發售首天銷量最高的歌曲。在[Japan
 Hot
 100方面](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")，AKB48總共有19張相關單曲取得第一位，自《[櫻花印記](../Page/櫻花印記.md "wikilink")》開始所有AKB48的單曲均取得第一位，而排名最低的單曲是《[想見你](../Page/想见你_\(AKB48单曲\).md "wikilink")》。在[RIAJ付費音樂下載榜的所有相關單曲中](../Page/RIAJ付費音樂下載榜.md "wikilink")，只有《無限重播》、《[Dear
 J](../Page/Dear_J.md "wikilink")》、《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》、《[飛翔入手](../Page/飛翔入手.md "wikilink")》、《[風正在吹](../Page/風正在吹.md "wikilink")》和《[GIVE
@@ -21,9 +21,9 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》能夠取得第一位，而有紀
 
 在與AKB48相關的[音樂專輯中](../Page/音樂專輯.md "wikilink")，有紀錄Oricon銷量最低的專輯是《[Team K
 1st
-Stage「PARTY开始了」](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#Team_K_1st_Stage「PARTY开始了」（DVD） "wikilink")》，同時亦是排名最低的專輯和Oricon上榜次數最少的專輯之一。排名最高的專輯則是《[神曲集](../Page/神曲集.md "wikilink")》、《[就是在這裡](../Page/就是在這裡.md "wikilink")》、《[1830m](../Page/1830m.md "wikilink")》和《[no3b](../Page/no3b_\(專輯\).md "wikilink")》，其中《神曲集》是上榜次數最多的專輯，《1830m》則是銷量最高的專輯，而唯一從未登上Oricon公信榜的專輯是[走廊奔跑隊有份參與的紀念專輯](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《》。
+Stage「PARTY开始了」](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#Team_K_1st_Stage「PARTY开始了」（DVD） "wikilink")》，同時亦是排名最低的專輯和Oricon上榜次數最少的專輯之一。排名最高的專輯則是《[神曲集](../Page/神曲集.md "wikilink")》、《[就是在這裡](../Page/就是在這裡.md "wikilink")》、《[1830m](../Page/1830m.md "wikilink")》和《[no3b](https://zh.wikipedia.org/wiki/no3b_\(專輯\) "wikilink")》，其中《神曲集》是上榜次數最多的專輯，《1830m》則是銷量最高的專輯，而唯一從未登上Oricon公信榜的專輯是[走廊奔跑隊有份參與的紀念專輯](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")《》。
 
-每首歌曲都設有中心位置（即Center），中心位置的成員能夠獲得更多媒体的露面机會。而中心位置可以不只一位成員，有分於雙人Center（如《[希望無限](https://zh.wikipedia.org/wiki/希望無限 "wikilink")》）、四人Center（如《[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")》）等。
+每首歌曲都設有中心位置（即Center），中心位置的成員能夠獲得更多媒体的露面机會。而中心位置可以不只一位成員，有分於雙人Center（如《[希望無限](../Page/希望無限.md "wikilink")》）、四人Center（如《[再見自由式](../Page/再見自由式.md "wikilink")》）等。
 
 ## 單曲
 
@@ -390,7 +390,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>29</p></td>
 <td><p>2012年12月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永遠的壓力" title="wikilink">永遠的壓力</a></p></td>
+<td><p><a href="../Page/永遠的壓力.md" title="wikilink">永遠的壓力</a></p></td>
 <td><p>1,206,869</p></td>
 <td><p>31</p></td>
 <td><p>[63][64]</p></td>
@@ -401,7 +401,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>30</p></td>
 <td><p>2013年2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/So_long!" title="wikilink">So long!</a></p></td>
+<td><p><a href="../Page/So_long!.md" title="wikilink">So long!</a></p></td>
 <td><p>1,132,853</p></td>
 <td><p>25</p></td>
 <td><p>[65][66][67]</p></td>
@@ -423,7 +423,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>32</p></td>
 <td><p>2013年8月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛的幸運餅乾" title="wikilink">戀愛的幸運餅乾</a></p></td>
+<td><p><a href="../Page/戀愛的幸運餅乾.md" title="wikilink">戀愛的幸運餅乾</a></p></td>
 <td><p>1,549,343</p></td>
 <td><p>75</p></td>
 <td><p>[70][71]</p></td>
@@ -434,7 +434,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>33</p></td>
 <td><p>2013年10月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">真心電流</a></p></td>
+<td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
 <td><p>|1,294,197</p></td>
 <td><p>37</p></td>
 <td><p>[72][73]</p></td>
@@ -456,7 +456,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>35</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a></p></td>
+<td><p><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a></p></td>
 <td><p>1,153,906</p></td>
 <td><p>23</p></td>
 <td><p>[76][77]</p></td>
@@ -467,7 +467,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>36</p></td>
 <td><p>2014年5月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a></p></td>
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a></p></td>
 <td><p>1,787,367</p></td>
 <td><p>28</p></td>
 <td><p>[78][79]</p></td>
@@ -489,7 +489,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>38</p></td>
 <td><p>2014年11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a></p></td>
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a></p></td>
 <td><p>1,199,429</p></td>
 <td><p>24</p></td>
 <td><p>[82][83]</p></td>
@@ -500,7 +500,7 @@ JAPAN</a><br />
 <tr class="even">
 <td><p>39</p></td>
 <td><p>2015年3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Green_Flash_(AKB48單曲)" title="wikilink">Green Flash</a></p></td>
+<td><p><a href="../Page/Green_Flash_(AKB48單曲).md" title="wikilink">Green Flash</a></p></td>
 <td><p>1,045,492</p></td>
 <td><p>23</p></td>
 <td><p>[84][85]</p></td>
@@ -707,45 +707,45 @@ JAPAN</a><br />
 
 ### [DiVA](../Page/DiVA.md "wikilink")（3）
 
-| 發行日期       | 單曲名稱                                               | 發行商                                          | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名 | 參考資料                  |
-| ---------- | -------------------------------------------------- | -------------------------------------------- | -------- | ------------- | ------------- | --------------------- | --------------- | --------------------- |
-| 2011年5月18日 | [月的裏側](../Page/月的裏側.md "wikilink")                 | [avex trax](../Page/avex_trax.md "wikilink") | 87,276   | 3             | 9             | 4                     | 32              | \[111\]\[112\]\[113\] |
-| 2011年8月10日 | [Cry](../Page/Cry.md "wikilink")                   | 68,813                                       | 2        | 6             | 6             | －                     | \[114\]\[115\]  |                       |
-| 2012年3月21日 | [Lost the way](../Page/Lost_the_way.md "wikilink") | 77,417                                       | 3        | 9             | 13            | \[116\]\[117\]\[118\] |                 |                       |
+| 發行日期       | 單曲名稱                                               | 發行商                                                             | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名 | 參考資料                  |
+| ---------- | -------------------------------------------------- | --------------------------------------------------------------- | -------- | ------------- | ------------- | --------------------- | --------------- | --------------------- |
+| 2011年5月18日 | [月的裏側](../Page/月的裏側.md "wikilink")                 | [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink") | 87,276   | 3             | 9             | 4                     | 32              | \[111\]\[112\]\[113\] |
+| 2011年8月10日 | [Cry](../Page/Cry.md "wikilink")                   | 68,813                                                          | 2        | 6             | 6             | －                     | \[114\]\[115\]  |                       |
+| 2012年3月21日 | [Lost the way](../Page/Lost_the_way.md "wikilink") | 77,417                                                          | 3        | 9             | 13            | \[116\]\[117\]\[118\] |                 |                       |
 
 ### [French Kiss](https://zh.wikipedia.org/wiki/French_Kiss_\(音樂團體\) "wikilink")（5）
 
-| 發行日期        | 單曲名稱                                                     | 發行商                                          | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
-| ----------- | -------------------------------------------------------- | -------------------------------------------- | -------- | ------------- | ------------- | --------------------- | --------------------- | --------------------- |
-| 2010年9月8日   | [很早以前](../Page/很早以前.md "wikilink")                       | [avex trax](../Page/avex_trax.md "wikilink") | 62,046   | 5             | 27            | 5                     | 91                    | \[119\]\[120\]\[121\] |
-| 2011年1月19日  | [If](../Page/If_\(French_Kiss單曲\).md "wikilink")         | 97,113                                       | 2        | 18            | 1             | 22                    | \[122\]\[123\]\[124\] |                       |
-| 2011年5月11日  | [太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")  | 143,612                                      | 19       | 3             | 28            | \[125\]\[126\]\[127\] |                       |                       |
-| 2011年11月22日 | [最初的Mail](../Page/最初的Mail.md "wikilink")                 | 154,223                                      | 1        | 17            | 2             | 24                    | \[128\]\[129\]\[130\] |                       |
-| 2012年7月18日  | [Romance Privacy](../Page/Romance_Privacy.md "wikilink") | 98,214                                       | 7        | 6             | －             | \[131\]\[132\]        |                       |                       |
+| 發行日期        | 單曲名稱                                                     | 發行商                                                             | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
+| ----------- | -------------------------------------------------------- | --------------------------------------------------------------- | -------- | ------------- | ------------- | --------------------- | --------------------- | --------------------- |
+| 2010年9月8日   | [很早以前](../Page/很早以前.md "wikilink")                       | [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink") | 62,046   | 5             | 27            | 5                     | 91                    | \[119\]\[120\]\[121\] |
+| 2011年1月19日  | [If](../Page/If_\(French_Kiss單曲\).md "wikilink")         | 97,113                                                          | 2        | 18            | 1             | 22                    | \[122\]\[123\]\[124\] |                       |
+| 2011年5月11日  | [太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")  | 143,612                                                         | 19       | 3             | 28            | \[125\]\[126\]\[127\] |                       |                       |
+| 2011年11月22日 | [最初的Mail](../Page/最初的Mail.md "wikilink")                 | 154,223                                                         | 1        | 17            | 2             | 24                    | \[128\]\[129\]\[130\] |                       |
+| 2012年7月18日  | [Romance Privacy](../Page/Romance_Privacy.md "wikilink") | 98,214                                                          | 7        | 6             | －             | \[131\]\[132\]        |                       |                       |
 
 ### [no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")（9）
 
-| 發行日期        | 單曲名稱                                                | 發行商                                                       | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名       | 參考資料           |
-| ----------- | --------------------------------------------------- | --------------------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------------- | -------------- |
-| 2008年11月26日 | [Relax\!](../Page/Relax!.md "wikilink")             | [史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink") | 15,115   | 13            | 6             | 24                | －                     | \[133\]\[134\] |
-| 2009年3月18日  | [種子](../Page/種子_\(no3b單曲\).md "wikilink")           | 16,801                                                    | 9        | 5             | 46            | \[135\]\[136\]    |                       |                |
-| 2009年11月25日 | [流星之吻](../Page/流星之吻.md "wikilink")                  | 29,434                                                    | 8        | 9             | －             | \[137\]           |                       |                |
-| 2010年4月21日  | [Lie](../Page/Lie.md "wikilink")                    | 32,983                                                    | 5        | 7             | 10            | 41                | \[138\]\[139\]\[140\] |                |
-| 2010年8月4日   | [只有你](../Page/只有你_\(no3b單曲\).md "wikilink")         | 45,673                                                    | 6        | 18            | 12            | 94                | \[141\]\[142\]\[143\] |                |
-| 2011年3月2日   | [Answer](../Page/Answer.md "wikilink")              | 108,831                                                   | 2        | 16            | 3             | 7                 | \[144\]\[145\]\[146\] |                |
-| 2011年6月29日  | [觸不到的唇…](../Page/觸不到的唇….md "wikilink")              | 121,734                                                   | 3        | 13            | 4             | 18                | \[147\]\[148\]\[149\] |                |
-| 2011年12月28日 | [Pedicure day](../Page/Pedicure_day.md "wikilink")  | 115,763                                                   | 2        | 10            | 7             | 20                | \[150\]\[151\]\[152\] |                |
-| 2013年1月16日  | [蟋蟀人](https://zh.wikipedia.org/wiki/蟋蟀人 "wikilink") | 77,640                                                    | 2        | 7             | 3             | －                 | \[153\]\[154\]        |                |
+| 發行日期        | 單曲名稱                                               | 發行商                                                       | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名       | 參考資料           |
+| ----------- | -------------------------------------------------- | --------------------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------------- | -------------- |
+| 2008年11月26日 | [Relax\!](../Page/Relax!.md "wikilink")            | [史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink") | 15,115   | 13            | 6             | 24                | －                     | \[133\]\[134\] |
+| 2009年3月18日  | [種子](../Page/種子_\(no3b單曲\).md "wikilink")          | 16,801                                                    | 9        | 5             | 46            | \[135\]\[136\]    |                       |                |
+| 2009年11月25日 | [流星之吻](../Page/流星之吻.md "wikilink")                 | 29,434                                                    | 8        | 9             | －             | \[137\]           |                       |                |
+| 2010年4月21日  | [Lie](../Page/Lie.md "wikilink")                   | 32,983                                                    | 5        | 7             | 10            | 41                | \[138\]\[139\]\[140\] |                |
+| 2010年8月4日   | [只有你](../Page/只有你_\(no3b單曲\).md "wikilink")        | 45,673                                                    | 6        | 18            | 12            | 94                | \[141\]\[142\]\[143\] |                |
+| 2011年3月2日   | [Answer](../Page/Answer.md "wikilink")             | 108,831                                                   | 2        | 16            | 3             | 7                 | \[144\]\[145\]\[146\] |                |
+| 2011年6月29日  | [觸不到的唇…](../Page/觸不到的唇….md "wikilink")             | 121,734                                                   | 3        | 13            | 4             | 18                | \[147\]\[148\]\[149\] |                |
+| 2011年12月28日 | [Pedicure day](../Page/Pedicure_day.md "wikilink") | 115,763                                                   | 2        | 10            | 7             | 20                | \[150\]\[151\]\[152\] |                |
+| 2013年1月16日  | [蟋蟀人](../Page/蟋蟀人.md "wikilink")                   | 77,640                                                    | 2        | 7             | 3             | －                 | \[153\]\[154\]        |                |
 
 ### [Not yet](../Page/Not_yet.md "wikilink")（5）
 
-| 發行日期        | 單曲名稱                                                  | 發行商                                    | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數         | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
-| ----------- | ----------------------------------------------------- | -------------------------------------- | -------- | ------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 2011年3月16日  | [週末Not yet](../Page/週末Not_yet.md "wikilink")          | [日本古倫美亞](../Page/日本古倫美亞.md "wikilink") | 247,981  | 1             | 33                    | 1                     | 2                     | \[155\]\[156\]\[157\] |
-| 2011年7月6日   | [破浪刨冰](../Page/破浪刨冰.md "wikilink")                    | 208,504                                | 30       | 6             | \[158\]\[159\]\[160\] |                       |                       |                       |
-| 2011年11月16日 | [愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")          | 211,983                                | 2        | 22            | 2                     | 14                    | \[161\]\[162\]\[163\] |                       |
-| 2012年5月30日  | [西瓜BABY](../Page/西瓜BABY.md "wikilink")                | 171,574                                | 1        | 14            | 9                     | \[164\]\[165\]\[166\] |                       |                       |
-| 2013年9月25日  | [刺痛的花](https://zh.wikipedia.org/wiki/刺痛的花 "wikilink") | 127,855                                | 9        | 1             | \-                    | \[167\]\[168\]        |                       |                       |
+| 發行日期        | 單曲名稱                                         | 發行商                                    | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數         | Japan Hot 100最高排名     | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
+| ----------- | -------------------------------------------- | -------------------------------------- | -------- | ------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 2011年3月16日  | [週末Not yet](../Page/週末Not_yet.md "wikilink") | [日本古倫美亞](../Page/日本古倫美亞.md "wikilink") | 247,981  | 1             | 33                    | 1                     | 2                     | \[155\]\[156\]\[157\] |
+| 2011年7月6日   | [破浪刨冰](../Page/破浪刨冰.md "wikilink")           | 208,504                                | 30       | 6             | \[158\]\[159\]\[160\] |                       |                       |                       |
+| 2011年11月16日 | [愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink") | 211,983                                | 2        | 22            | 2                     | 14                    | \[161\]\[162\]\[163\] |                       |
+| 2012年5月30日  | [西瓜BABY](../Page/西瓜BABY.md "wikilink")       | 171,574                                | 1        | 14            | 9                     | \[164\]\[165\]\[166\] |                       |                       |
+| 2013年9月25日  | [刺痛的花](../Page/刺痛的花.md "wikilink")           | 127,855                                | 9        | 1             | \-                    | \[167\]\[168\]        |                       |                       |
 
 ### [走廊奔跑隊](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")（10）
 
@@ -764,34 +764,34 @@ JAPAN</a><br />
 
 ### [板野友美](../Page/板野友美.md "wikilink")（4）
 
-| 發行日期       | 單曲名稱                                              | 發行商                                                                                              | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
-| ---------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------- | ------------- | ------------- | ----------------- | --------------------- | --------------------- |
-| 2011年1月26日 | [Dear J](../Page/Dear_J.md "wikilink")            | [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS](../Page/國王唱片.md "wikilink") | 216,781  | 2             | 24            | 2                 | 1                     | \[197\]\[198\]\[199\] |
-| 2011年7月13日 | [突然間](../Page/突然間.md "wikilink")                  | 125,783                                                                                          | 1        | 27            | 1             | 8                 | \[200\]\[201\]\[202\] |                       |
-| 2012年4月25日 | [給10年後的你](../Page/給10年後的你.md "wikilink")          | 94,059                                                                                           | 2        | 10            | 2             | 3                 | \[203\]\[204\]\[205\] |                       |
-| 2013年6月12日 | [1%](https://zh.wikipedia.org/wiki/1% "wikilink") | 56,094                                                                                           | 4        | 7             | 4             | 排行榜停止運行           | \[206\]               |                       |
+| 發行日期       | 單曲名稱                                     | 發行商                                                                                              | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名       | 參考資料                  |
+| ---------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------ | -------- | ------------- | ------------- | ----------------- | --------------------- | --------------------- |
+| 2011年1月26日 | [Dear J](../Page/Dear_J.md "wikilink")   | [You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS](../Page/國王唱片.md "wikilink") | 216,781  | 2             | 24            | 2                 | 1                     | \[197\]\[198\]\[199\] |
+| 2011年7月13日 | [突然間](../Page/突然間.md "wikilink")         | 125,783                                                                                          | 1        | 27            | 1             | 8                 | \[200\]\[201\]\[202\] |                       |
+| 2012年4月25日 | [給10年後的你](../Page/給10年後的你.md "wikilink") | 94,059                                                                                           | 2        | 10            | 2             | 3                 | \[203\]\[204\]\[205\] |                       |
+| 2013年6月12日 | [1%](../Page/1%.md "wikilink")           | 56,094                                                                                           | 4        | 7             | 4             | 排行榜停止運行           | \[206\]               |                       |
 
 ### [岩佐美咲](../Page/岩佐美咲.md "wikilink")（3）
 
-| 發行日期      | 單曲名稱                                                          | 發行商                                                       | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料           |
-| --------- | ------------------------------------------------------------- | --------------------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------- | -------------- |
-| 2012年2月1日 | [無人車站](../Page/無人車站_\(岩佐美咲單曲\).md "wikilink")                 | [德間日本傳播](https://zh.wikipedia.org/wiki/德間日本傳播 "wikilink") | 53,204   | 5             | 19            | 12                | －               | \[207\]\[208\] |
-| 2013年1月9日 | [如果我居於天空](https://zh.wikipedia.org/wiki/如果我居於天空 "wikilink")   | 29,825                                                    | 5        | 14            | 6             | 排行榜停止運行           | \[209\]\[210\]  |                |
-| 2014年1月8日 | [鞆之浦的愛慕之情](https://zh.wikipedia.org/wiki/鞆之浦的愛慕之情 "wikilink") | 19,446                                                    | 1        | 10            | \-            | 排行榜停止運行           |                 |                |
+| 發行日期      | 單曲名稱                                                          | 發行商                                    | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料           |
+| --------- | ------------------------------------------------------------- | -------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------- | -------------- |
+| 2012年2月1日 | [無人車站](../Page/無人車站_\(岩佐美咲單曲\).md "wikilink")                 | [德間日本傳播](../Page/德間日本傳播.md "wikilink") | 53,204   | 5             | 19            | 12                | －               | \[207\]\[208\] |
+| 2013年1月9日 | [如果我居於天空](../Page/如果我居於天空.md "wikilink")                      | 29,825                                 | 5        | 14            | 6             | 排行榜停止運行           | \[209\]\[210\]  |                |
+| 2014年1月8日 | [鞆之浦的愛慕之情](https://zh.wikipedia.org/wiki/鞆之浦的愛慕之情 "wikilink") | 19,446                                 | 1        | 10            | \-            | 排行榜停止運行           |                 |                |
 
 ### [柏木由紀](../Page/柏木由紀.md "wikilink")（2）
 
-| 發行日期        | 單曲名稱                                                                          | 發行商                                                           | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料           |
-| ----------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------- | -------------- |
-| 2013年2月6日   | [草莓小蛋糕](https://zh.wikipedia.org/wiki/草莓小蛋糕 "wikilink")                       | [YukiRing](https://zh.wikipedia.org/wiki/YukiRing "wikilink") | 127,530  | 2             | 10            | 2                 | 排行榜停止運行         | \[211\]\[212\] |
-| 2013年10月16日 | [Birthday wedding](https://zh.wikipedia.org/wiki/Birthday_wedding "wikilink") | 76,220                                                        | 2        | 6             | 2             | \[213\]\[214\]    |                 |                |
+| 發行日期        | 單曲名稱                                                       | 發行商                                        | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料           |
+| ----------- | ---------------------------------------------------------- | ------------------------------------------ | -------- | ------------- | ------------- | ----------------- | --------------- | -------------- |
+| 2013年2月6日   | [草莓小蛋糕](https://zh.wikipedia.org/wiki/草莓小蛋糕 "wikilink")    | [YukiRing](../Page/YukiRing.md "wikilink") | 127,530  | 2             | 10            | 2                 | 排行榜停止運行         | \[211\]\[212\] |
+| 2013年10月16日 | [Birthday wedding](../Page/Birthday_wedding.md "wikilink") | 76,220                                     | 2        | 6             | 2             | \[213\]\[214\]    |                 |                |
 
 ### [指原莉乃](../Page/指原莉乃.md "wikilink")（2）
 
-| 發行日期        | 單曲名稱                                                        | 發行商                                          | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料                  |
-| ----------- | ----------------------------------------------------------- | -------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------- | --------------------- |
-| 2012年5月2日   | [就是喜歡妳](../Page/就是喜歡妳.md "wikilink")                        | [avex trax](../Page/avex_trax.md "wikilink") | 151,724  | 2             | 15            | 1                 | 6               | \[215\]\[216\]\[217\] |
-| 2012年10月17日 | [懦弱的化妝舞會](https://zh.wikipedia.org/wiki/懦弱的化妝舞會 "wikilink") | 85,798                                       | 1        | 11            | 2             | 排行榜停止運行           | \[218\]\[219\]  |                       |
+| 發行日期        | 單曲名稱                                     | 發行商                                                             | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | RIAJ付費音樂下載榜最高排名 | 參考資料                  |
+| ----------- | ---------------------------------------- | --------------------------------------------------------------- | -------- | ------------- | ------------- | ----------------- | --------------- | --------------------- |
+| 2012年5月2日   | [就是喜歡妳](../Page/就是喜歡妳.md "wikilink")     | [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink") | 151,724  | 2             | 15            | 1                 | 6               | \[215\]\[216\]\[217\] |
+| 2012年10月17日 | [懦弱的化妝舞會](../Page/懦弱的化妝舞會.md "wikilink") | 85,798                                                          | 1        | 11            | 2             | 排行榜停止運行           | \[218\]\[219\]  |                       |
 
 ### [前田敦子](../Page/前田敦子.md "wikilink")（2）
 
@@ -806,16 +806,16 @@ JAPAN</a><br />
 | ----------- | ------------------------------------------------------------------------- | -------------------------------------------------------------- | -------- | ------------- | ------------- | --------------------- | --------------- | --------------------- |
 | 2012年2月29日  | [怦然心動](../Page/怦然心動_\(單曲\).md "wikilink")                                 | [Sony Music Records](../Page/Sony_Music_Records.md "wikilink") | 158,884  | 2             | 24            | 2                     | 9               | \[226\]\[227\]\[228\] |
 | 2012年7月25日  | [成年人Jelly Beans](https://zh.wikipedia.org/wiki/成年人Jelly_Beans "wikilink") | 110,051                                                        | 3        | 15            | 3             | \[229\]\[230\]\[231\] |                 |                       |
-| 2012年11月21日 | [發光體](https://zh.wikipedia.org/wiki/發光體_\(渡邊麻友單曲\) "wikilink")            | 122,381                                                        | 1        | 13            | 3             | 排行榜停止運行               | \[232\]\[233\]  |                       |
-| 2013年7月10日  | [喇叭練習中](https://zh.wikipedia.org/wiki/喇叭練習中 "wikilink")                   | 81,752                                                         | |3       | 10            | 5             |                       |                 |                       |
+| 2012年11月21日 | [發光體](../Page/發光體_\(渡邊麻友單曲\).md "wikilink")                               | 122,381                                                        | 1        | 13            | 3             | 排行榜停止運行               | \[232\]\[233\]  |                       |
+| 2013年7月10日  | [喇叭練習中](../Page/喇叭練習中.md "wikilink")                                      | 81,752                                                         | |3       | 10            | 5             |                       |                 |                       |
 | 2015年6月10日  | [相遇的後續](../Page/相遇的後續.md "wikilink")                                      | 54,125                                                         | 2        | 9             | \-            |                       |                 |                       |
 
 ### [NO NAME](https://zh.wikipedia.org/wiki/NO_NAME_\(組合\) "wikilink")（2）
 
-| 發行日期       | 單曲名稱                                                      | 發行商                                | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | 參考資料           |
-| ---------- | --------------------------------------------------------- | ---------------------------------- | -------- | ------------- | ------------- | ----------------- | -------------- |
-| 2012年8月1日  | [關於希望](../Page/關於希望.md "wikilink")                        | [國王唱片](../Page/國王唱片.md "wikilink") | 64,421   | 3             | 11            | 4                 | \[234\]\[235\] |
-| 2013年4月10日 | [將淚水獻給你](https://zh.wikipedia.org/wiki/將淚水獻給你 "wikilink") | 65,567                             | 2        | 8             | 2             | \-                |                |
+| 發行日期       | 單曲名稱                                   | 發行商                                | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | 參考資料           |
+| ---------- | -------------------------------------- | ---------------------------------- | -------- | ------------- | ------------- | ----------------- | -------------- |
+| 2012年8月1日  | [關於希望](../Page/關於希望.md "wikilink")     | [國王唱片](../Page/國王唱片.md "wikilink") | 64,421   | 3             | 11            | 4                 | \[234\]\[235\] |
+| 2013年4月10日 | [將淚水獻給你](../Page/將淚水獻給你.md "wikilink") | 65,567                             | 2        | 8             | 2             | \-                |                |
 
 ### [河西智美](../Page/河西智美.md "wikilink")（3）
 
@@ -835,7 +835,7 @@ JAPAN</a><br />
 <tbody>
 <tr class="odd">
 <td><p>2012年12月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/難道說" title="wikilink">難道說</a></p></td>
+<td><p><a href="../Page/難道說.md" title="wikilink">難道說</a></p></td>
 <td></td>
 <td><p>44,982</p></td>
 <td><p>3</p></td>
@@ -845,7 +845,7 @@ JAPAN</a><br />
 </tr>
 <tr class="even">
 <td><p>2013年5月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mine" title="wikilink">Mine</a></p></td>
+<td><p><a href="../Page/Mine.md" title="wikilink">Mine</a></p></td>
 <td><p>23,315</p></td>
 <td><p>5</p></td>
 <td><p>7</p></td>
@@ -858,9 +858,9 @@ JAPAN</a><br />
 
 ### [高橋南](../Page/高橋南.md "wikilink")（1）
 
-| 發行日期      | 單曲名稱                                                          | 發行商                                            | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | 參考資料 |
-| --------- | ------------------------------------------------------------- | ---------------------------------------------- | -------- | ------------- | ------------- | ----------------- | ---- |
-| 2013年4月3日 | [Jane Doe](https://zh.wikipedia.org/wiki/Jane_Doe "wikilink") | [環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink") | 103,066  | 2             | 9             | 1                 | \-   |
+| 發行日期      | 單曲名稱                                       | 發行商                                            | Oricon銷量 | Oricon公信榜最高排名 | Oricon公信榜上榜次數 | Japan Hot 100最高排名 | 參考資料 |
+| --------- | ------------------------------------------ | ---------------------------------------------- | -------- | ------------- | ------------- | ----------------- | ---- |
+| 2013年4月3日 | [Jane Doe](../Page/Jane_Doe.md "wikilink") | [環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink") | 103,066  | 2             | 9             | 1                 | \-   |
 
 ### [倉持明日香](../Page/倉持明日香.md "wikilink")（1）
 
@@ -986,7 +986,7 @@ JAPAN</a><br />
 <td><p>2011年9月14日</p></td>
 <td><p>BABY GAMBA</p></td>
 <td><p>不是很好嘛</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>743</p></td>
 <td><p>63</p></td>
 <td><p>[247]</p></td>
@@ -1222,7 +1222,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2011年4月1日</p></td>
 <td><p>AKB48</p></td>
-<td><p><a href="../Page/為了誰_-What_can_I_do_for_someone?-.md" title="wikilink">為了誰 -What can I do for someone?-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/為了誰_-What_can_I_do_for_someone?-" title="wikilink">為了誰 -What can I do for someone?-</a></p></td>
 <td><p><a href="../Page/AKS.md" title="wikilink">AKS</a></p></td>
 <td><p>[270]</p></td>
 <td></td>
@@ -1238,7 +1238,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2011年5月11日</p></td>
 <td><p>板野友美</p></td>
-<td><p><a href="../Page/wanna_be_now.md" title="wikilink">wanna be now</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/wanna_be_now" title="wikilink">wanna be now</a></p></td>
 <td><p><a href="../Page/You,_Be_Cool!.md" title="wikilink">You, Be Cool!</a>/<a href="../Page/國王唱片.md" title="wikilink">KING RECORDS</a></p></td>
 <td><p>網上下載限定曲</p></td>
 <td><p>[272]</p></td>
@@ -1270,9 +1270,9 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2012年10月30日</p></td>
 <td><p>AKB48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sugar_Rush_(AKB48歌曲)" title="wikilink">Sugar Rush</a></p></td>
+<td><p><a href="../Page/Sugar_Rush_(AKB48歌曲).md" title="wikilink">Sugar Rush</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華特迪士尼唱片" title="wikilink">華特迪士尼唱片</a></p></td>
-<td><p>美國<a href="https://zh.wikipedia.org/wiki/動畫電影" title="wikilink">動畫電影</a>《<a href="https://zh.wikipedia.org/wiki/無敵破壞王" title="wikilink">無敵破壞王</a>》片尾曲，收錄於該片的<a href="https://zh.wikipedia.org/wiki/電影原聲帶" title="wikilink">電影原聲帶中及在</a>《<a href="https://zh.wikipedia.org/wiki/So_long!" title="wikilink">So long!</a>》 中收录了该曲的音乐录影带.</p></td>
+<td><p>美國<a href="https://zh.wikipedia.org/wiki/動畫電影" title="wikilink">動畫電影</a>《<a href="https://zh.wikipedia.org/wiki/無敵破壞王" title="wikilink">無敵破壞王</a>》片尾曲，收錄於該片的<a href="https://zh.wikipedia.org/wiki/電影原聲帶" title="wikilink">電影原聲帶中及在</a>《<a href="../Page/So_long!.md" title="wikilink">So long!</a>》 中收录了该曲的音乐录影带.</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1369,7 +1369,7 @@ JAPAN</a><br />
 </tr>
 <tr class="odd">
 <td><p>2015年1月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/這裡是羅德斯島、在這裡跳吧！" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></p></td>
+<td><p><a href="../Page/這裡是羅德斯島、在這裡跳吧！.md" title="wikilink">這裡是羅德斯島、在這裡跳吧！</a></p></td>
 <td><p>780,591</p></td>
 <td><p>19</p></td>
 <td></td>
@@ -1883,7 +1883,7 @@ JAPAN</a><br />
 <td><p><a href="../Page/宮崎美穗.md" title="wikilink">宮崎美穗</a></p></td>
 <td><p>姉うた-80~90's GIRL POP NON-STOP COVER-</p></td>
 <td><p>精選輯</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>－</p></td>
 <td><p>[299]</p></td>
 <td></td>
@@ -1903,7 +1903,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2011年1月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/no3b" title="wikilink">no3b</a></p></td>
-<td><p><a href="../Page/no3b_(專輯).md" title="wikilink">no3b</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/no3b_(專輯)" title="wikilink">no3b</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史詩唱片日本" title="wikilink">史詩唱片日本</a></p></td>
 <td><p>103,042</p></td>
 <td><p>1</p></td>
@@ -1916,7 +1916,7 @@ JAPAN</a><br />
 <td><p><a href="../Page/佐藤堇.md" title="wikilink">佐藤堇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥特曼傳奇" title="wikilink">奥特曼傳奇原聲帶</a><br />
 （）[302]</p></td>
-<td><p><a href="../Page/avex_trax.md" title="wikilink">avex trax</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>－</p></td>
 <td><p>219</p></td>
 <td><p>2</p></td>
@@ -1926,7 +1926,7 @@ JAPAN</a><br />
 <tr class="odd">
 <td><p>2012年10月3日</p></td>
 <td><p><a href="../Page/松井咲子.md" title="wikilink">松井咲子</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/會呼吸的鋼琴" title="wikilink">會呼吸的鋼琴</a></p></td>
+<td><p><a href="../Page/會呼吸的鋼琴.md" title="wikilink">會呼吸的鋼琴</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">波麗佳音</a></p></td>
 <td><p>14,738</p></td>
 <td><p>10</p></td>

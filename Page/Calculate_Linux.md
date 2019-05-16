@@ -1,4 +1,5 @@
-**Calculate Linux** 是一个基于 [Gentoo](../Page/Gentoo.md "wikilink") 的发行版本。
+**Calculate Linux** 是一个基于
+[Gentoo](https://zh.wikipedia.org/wiki/Gentoo "wikilink") 的发行版本。
 Calculate 目录服务器 (CDS) 是一个通过LDAP+SAMBA支持Windows和Linux客户端的解决方案，提供包括代理，邮件和
 Jabber 的精简用户服务。 Calculate Linux Desktop (CLD) 是一个带有 KDE, GNOME 或
 Xfce桌面环境的工作站和客户端发行版，通过一个向导配置连接到Calculate 目录服务器。 Calculate Linux
@@ -27,7 +28,7 @@ Scratch (CLS) 是为创造定制发行版准备的已编译的框架。
 
 ## 参见
 
-  - [Linux套件列表](../Page/Linux套件列表.md "wikilink")
+  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
   - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
   - [Live CD](../Page/Live_CD.md "wikilink")
 

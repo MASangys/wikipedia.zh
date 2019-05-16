@@ -17,7 +17,7 @@ WAY**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedi
 
 1.  **GOOD LUCK MY WAY** / L'Arc〜en〜Ciel
       -
-        作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")；作曲：[tetsuya](../Page/tetsuya.md "wikilink")
+        作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")；作曲：[tetsuya](https://zh.wikipedia.org/wiki/tetsuya "wikilink")
         為劇場版[鋼之鍊金術師
         嘆息之丘的神聖之星的](https://zh.wikipedia.org/wiki/鋼之鍊金術師_嘆息之丘的神聖之星 "wikilink")[主題曲](../Page/主題曲.md "wikilink")
 2.  **Metropolis -2011-** / P'UNK〜EN〜CIEL
@@ -27,7 +27,7 @@ WAY**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedi
         fall](https://zh.wikipedia.org/wiki/winter_fall "wikilink")』中的「metropolis」的重新COVER版。
 3.  **GOOD LUCK MY WAY (hydeless version)** / L'Arc〜en〜Ciel
       -
-        作曲：[tetsuya](../Page/tetsuya.md "wikilink")
+        作曲：[tetsuya](https://zh.wikipedia.org/wiki/tetsuya "wikilink")
 4.  **Metropolis -2011- (T.E.Z P'unkless version)**
 
 <!-- end list -->

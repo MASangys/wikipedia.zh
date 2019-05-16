@@ -142,7 +142,7 @@ PASSPORT」演藝經紀公司旗下、以旅行為主題組成的7人女子團�
 <td><p>2011年12月30日畢業[1]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/奧仲麻琴" title="wikilink">奧仲麻琴</a></p></td>
+<td><p><a href="../Page/奧仲麻琴.md" title="wikilink">奧仲麻琴</a></p></td>
 <td></td>
 <td><p>1993年11月18日</p></td>
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
@@ -366,7 +366,7 @@ CD+DVD</p></td>
 <tr class="even">
 <td><p>9th</p></td>
 <td><p>2013年6月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Truly" title="wikilink">Truly</a></strong></p></td>
+<td><p><strong><a href="../Page/Truly.md" title="wikilink">Truly</a></strong></p></td>
 <td><p>第7名</p></td>
 <td><p>UPCH-5801<br />
 UPCH-9866<br />

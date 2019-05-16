@@ -2,8 +2,8 @@
 
 ## 簡介
 
-  - [B'z自歌曲](../Page/B'z.md "wikilink")《[ONE](../Page/ONE.md "wikilink")》以來第四次成為[名偵探柯南的主題曲](../Page/名偵探柯南.md "wikilink")
-  - [B'z所有歌曲裡](../Page/B'z.md "wikilink")，唯一完全使用[漢字當歌名的歌曲](../Page/漢字.md "wikilink")
+  - [B'z自歌曲](../Page/B'z.md "wikilink")《[ONE](https://zh.wikipedia.org/wiki/ONE "wikilink")》以來第四次成為[名偵探柯南的主題曲](../Page/名偵探柯南.md "wikilink")
+  - [B'z所有歌曲裡](../Page/B'z.md "wikilink")，唯一完全使用[漢字當歌名的歌曲](https://zh.wikipedia.org/wiki/漢字 "wikilink")
   - 最終銷量約30.4萬張。
 
 ## 製作人員
@@ -37,7 +37,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>动画《<a href="../Page/名侦探柯南_(动画).md" title="wikilink">名侦探柯南</a>》片头曲<br />
+<td><p>动画《<a href="https://zh.wikipedia.org/wiki/名侦探柯南_(动画)" title="wikilink">名侦探柯南</a>》片头曲<br />
 2006年1月9日 - 2006年5月8日</p></td>
 </tr>
 <tr class="even">

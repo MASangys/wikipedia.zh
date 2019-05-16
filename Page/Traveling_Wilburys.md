@@ -1,9 +1,9 @@
 **Traveling Wilburys** (有人翻譯為
-**漂泊**)是一個具有英美血統[搖滾樂團](../Page/搖滾.md "wikilink")，由[披頭四的](../Page/披頭四.md "wikilink")[乔治·哈里森](../Page/乔治·哈里森.md "wikilink")（George
-Harrison）、[E.L.O的主唱](../Page/電光交響樂團.md "wikilink")[傑夫·琳恩](../Page/傑夫·琳恩.md "wikilink")（Jeff
-Lynne）、 [羅伊·歐賓森](../Page/羅伊·歐賓森.md "wikilink")（Roy
-Orbison）、[湯姆·佩蒂](../Page/湯姆·佩蒂.md "wikilink")（Tom
-Petty）和[巴布·狄倫](../Page/巴布·狄倫.md "wikilink")（Bob
+**漂泊**)是一個具有英美血統[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，由[披頭四的](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[乔治·哈里森](../Page/乔治·哈里森.md "wikilink")（George
+Harrison）、[E.L.O的主唱](https://zh.wikipedia.org/wiki/電光交響樂團 "wikilink")[傑夫·琳恩](https://zh.wikipedia.org/wiki/傑夫·琳恩 "wikilink")（Jeff
+Lynne）、 [羅伊·歐賓森](https://zh.wikipedia.org/wiki/羅伊·歐賓森 "wikilink")（Roy
+Orbison）、[湯姆·佩蒂](https://zh.wikipedia.org/wiki/湯姆·佩蒂 "wikilink")（Tom
+Petty）和[巴布·狄倫](https://zh.wikipedia.org/wiki/巴布·狄倫 "wikilink")（Bob
 Dylan）所組成。他們在1988及1990共發行了兩張專輯，但羅伊歐賓森在第二張專輯錄音前因病去世。
 
 ## History

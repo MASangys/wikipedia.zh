@@ -130,7 +130,7 @@ INTEGRATION Nitro The Best\! Vol.1》发售。
 <!-- end list -->
 
   - 東尼·斯通（）
-    聲：没有登場 / 没有登場 / [楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")
+    聲：没有登場 / 没有登場 / [楠大典](../Page/楠大典.md "wikilink")
     动画版中的原创角色。以[洛杉磯的Melanie](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
     Square為地盤的黑帮頭目。從前就因為死心眼的性格而有「石頭托尼」的綽號。
 
@@ -204,7 +204,7 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
   - 撮影監督 - 武原健二
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音樂 -
-    [七瀬光](../Page/伊藤真澄.md "wikilink")、[加藤達也](https://zh.wikipedia.org/wiki/加藤達也 "wikilink")\[6\]
+    [七瀬光](../Page/伊藤真澄.md "wikilink")、[加藤達也](../Page/加藤達也.md "wikilink")\[6\]
   - 音樂製作人 - 伊藤善之
   - 音樂製作 - [Lantis](../Page/Lantis.md "wikilink")
   - 製作人 - 吉沼忍、大澤信博
@@ -277,7 +277,7 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
 <td><p>訓練</p></td>
 <td><p>兵頭一歩</p></td>
 <td><p>守岡博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜田義明" title="wikilink">天崎まなむ</a><br />
+<td><p><a href="../Page/龜田義明.md" title="wikilink">天崎まなむ</a><br />
 才木康寛（機械）</p></td>
 <td></td>
 </tr>
@@ -288,7 +288,7 @@ Channel播放](https://zh.wikipedia.org/wiki/Funimation_Channel "wikilink")，�
 <td><p><a href="../Page/安川正吾.md" title="wikilink">安川正吾</a></p></td>
 <td><p>澤井幸次</p></td>
 <td><p>黑川智之</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/門智昭" title="wikilink">門智昭</a></p></td>
+<td><p><a href="../Page/門智昭.md" title="wikilink">門智昭</a></p></td>
 </tr>
 <tr class="even">
 <td><p>#4</p></td>

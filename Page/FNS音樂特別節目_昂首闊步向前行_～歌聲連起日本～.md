@@ -42,8 +42,8 @@
 
 按五十音順序：
 
-  - [AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
-  - [aiko](../Page/aiko.md "wikilink")
+  - [AI](../Page/AI_\(歌手\).md "wikilink")
+  - [aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")
   - [伊藤由奈](../Page/伊藤由奈.md "wikilink")
   - [ELEPHANT KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")
   - [加山雄三](../Page/加山雄三.md "wikilink")
@@ -54,7 +54,7 @@
   - Chorus
     Japan（成員：[布施明](../Page/布施明.md "wikilink")、[石川小百合](../Page/石川小百合.md "wikilink")、[鈴木雅之](https://zh.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")、[杏里](https://zh.wikipedia.org/wiki/杏里 "wikilink")、[堂珍嘉邦](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")、[松浦亞彌](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")）
   - [近藤房之助](https://zh.wikipedia.org/wiki/近藤房之助 "wikilink")
-  - [坂本冬美](https://zh.wikipedia.org/wiki/坂本冬美 "wikilink")
+  - [坂本冬美](../Page/坂本冬美.md "wikilink")
   - [佐田雅志](https://zh.wikipedia.org/wiki/佐田雅志 "wikilink")（[兵庫縣的演唱會會場連線出演](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")）
   - [JUJU](../Page/JUJU.md "wikilink")
   - [菅止戈男](../Page/菅止戈男.md "wikilink")

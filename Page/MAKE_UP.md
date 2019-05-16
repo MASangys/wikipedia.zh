@@ -1,6 +1,7 @@
 《**MAKE
-UP**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](../Page/西野加奈.md "wikilink")4張單曲，在2009年1月28日由[SME
-Records Inc.發售](../Page/SME_Records_Inc..md "wikilink")。
+UP**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")4張單曲，在2009年1月28日由[SME
+Records
+Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 

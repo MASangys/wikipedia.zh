@@ -53,7 +53,7 @@ Vision**」。
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p>2004年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冒險遊記Pluster_World" title="wikilink">冒險遊記Pluster World</a></p></td>
+<td><p><a href="../Page/冒險遊記Pluster_World.md" title="wikilink">冒險遊記Pluster World</a></p></td>
 <td></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Actas" title="wikilink">Actas共同製作</a>。</p></td>
 <td></td>
@@ -228,7 +228,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/IXION_SAGA_DT" title="wikilink">IXION SAGA DT</a></p></td>
+<td><p><a href="../Page/IXION_SAGA_DT.md" title="wikilink">IXION SAGA DT</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -269,14 +269,14 @@ Vision**」。
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/屬性同好會" title="wikilink">屬性同好會</a></p></td>
+<td><p><a href="../Page/屬性同好會.md" title="wikilink">屬性同好會</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/諸神的惡作劇" title="wikilink">諸神的惡作劇</a></p></td>
+<td><p><a href="../Page/諸神的惡作劇.md" title="wikilink">諸神的惡作劇</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -292,7 +292,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/一週的朋友" title="wikilink">一週的朋友。</a></p></td>
+<td><p><a href="../Page/一週的朋友.md" title="wikilink">一週的朋友。</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -474,7 +474,7 @@ Vision**」。
 </tr>
 <tr class="odd">
 <td><p>2004年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新蓋特機器人" title="wikilink">-{zh-cn:新盖塔机器人;zh-hk:新三一萬能俠;zh-tw:新蓋特機器人;}-</a></p></td>
+<td><p><a href="../Page/新蓋特機器人.md" title="wikilink">-{zh-cn:新盖塔机器人;zh-hk:新三一萬能俠;zh-tw:新蓋特機器人;}-</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -658,7 +658,7 @@ Vision**」。
 <td><p>2010年</p></td>
 <td><p><a href="../Page/寶石寵物.md" title="wikilink">寶石寵物</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/STUDIO_COMET" title="wikilink">STUDIO COMET</a></p></td>
+<td><p><a href="../Page/STUDIO_COMET.md" title="wikilink">STUDIO COMET</a></p></td>
 <td><p>原創</p></td>
 <td><p>三麗鷗與原案的遊戲原作衍生動畫系列。</p></td>
 </tr>
@@ -684,7 +684,7 @@ Vision**」。
 <td><p>2011年</p></td>
 <td><p><a href="../Page/IS〈Infinite_Stratos〉.md" title="wikilink">IS〈Infinite Stratos〉</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/8bit" title="wikilink">8bit</a></p></td>
+<td><p><a href="../Page/8bit.md" title="wikilink">8bit</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 <td></td>
@@ -709,7 +709,7 @@ Vision**」。
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/惡之華_(2009年漫畫)" title="wikilink">惡之華</a></p></td>
+<td><p><a href="../Page/惡之華_(2009年漫畫).md" title="wikilink">惡之華</a></p></td>
 <td></td>
 <td><p><a href="../Page/ZEXCS.md" title="wikilink">ZEXCS</a></p></td>
 <td><p>漫畫</p></td>
@@ -811,7 +811,7 @@ Vision**」。
 
   - 上島均
 
-  - [後藤圭二](https://zh.wikipedia.org/wiki/後藤圭二 "wikilink")
+  - [後藤圭二](../Page/後藤圭二.md "wikilink")
 
   - 進藤優
 
@@ -842,7 +842,7 @@ Vision**」。
 
 ## 相關項目
 
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

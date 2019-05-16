@@ -1,11 +1,11 @@
 《**GANGAN
-ONLINE**》（）是一份由日本出版社[史克威爾艾尼克斯於](../Page/史克威爾艾尼克斯.md "wikilink")2008年10月2日創辦\[1\]\[2\]，固定於每周四更新其[網站上連載的](../Page/網站.md "wikilink")[免費線上期刊](../Page/免費.md "wikilink")。
+ONLINE**》（）是一份由日本出版社[史克威爾艾尼克斯於](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")2008年10月2日創辦\[1\]\[2\]，固定於每周四更新其[網站上連載的](../Page/網站.md "wikilink")[免費線上期刊](https://zh.wikipedia.org/wiki/免費 "wikilink")。
 
 ## 概要
 
-該網上雜誌創立目的為「嘗試製作跳脫一般[少年漫畫雜誌常識框框的漫畫](../Page/少年漫畫.md "wikilink")（）」\[3\]，至於其主打內容則包括免費[漫畫](../Page/漫畫.md "wikilink")、[小說及相關](../Page/小說.md "wikilink")[插圖](../Page/插圖.md "wikilink")\[4\]。部分受歡迎的作品後來更被印製成[單行本發售](../Page/單行本.md "wikilink")\[5\]。
+該網上雜誌創立目的為「嘗試製作跳脫一般[少年漫畫雜誌常識框框的漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")（）」\[3\]，至於其主打內容則包括免費[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說及相關](https://zh.wikipedia.org/wiki/小說 "wikilink")[插圖](https://zh.wikipedia.org/wiki/插圖 "wikilink")\[4\]。部分受歡迎的作品後來更被印製成[單行本發售](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[5\]。
 
-網站成立初期讀者不用註冊但需要安裝\[6\]，不過現已棄用\[7\]。此外，該雜誌於[2010年9月宣佈自](../Page/2010年9月.md "wikilink")[2011年1月開始支援](../Page/2011年1月.md "wikilink")[iPad和](../Page/iPad.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")\[8\]。
+網站成立初期讀者不用註冊但需要安裝\[6\]，不過現已棄用\[7\]。此外，該雜誌於[2010年9月宣佈自](../Page/2010年9月.md "wikilink")[2011年1月開始支援](../Page/2011年1月.md "wikilink")[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[8\]。
 
 ## 參考資料
 

@@ -5,7 +5,7 @@
 OTs-12开发于1990年代前期，由槍械設計師（，）和[Yu.V.列別捷夫](https://zh.wikipedia.org/wiki/Yu.V.列別捷夫 "wikilink")（，）设计，俄罗斯[图拉市的](https://zh.wikipedia.org/wiki/图拉_\(图拉州\) "wikilink")（俄语：ЦКИБ
 СОО）负责生产。
 
-OTs-12是以[AKS-74U](../Page/AKS-74U卡宾枪.md "wikilink")[卡宾枪為藍本](../Page/卡宾枪.md "wikilink")，因此其結構和操作方式亦與AKS-74U基本相同。除了因為改為發射[9×39毫米蘇聯](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亚音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[弹药的關係而需要改進發射機構以外](https://zh.wikipedia.org/wiki/弹药 "wikilink")，[機械瞄具和槍口制動補償器也經過改進](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。
+OTs-12是以[AKS-74U](../Page/AKS-74U卡宾枪.md "wikilink")[卡宾枪為藍本](../Page/卡宾枪.md "wikilink")，因此其結構和操作方式亦與AKS-74U基本相同。除了因為改為發射[9×39毫米蘇聯](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亚音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[弹药的關係而需要改進發射機構以外](https://zh.wikipedia.org/wiki/弹药 "wikilink")，[機械瞄具和槍口制動補償器也經過改進](../Page/機械瞄具.md "wikilink")。
 
 在1993年生產完成以後，幾百枝OTs-12就交付給[俄羅斯內務部](https://zh.wikipedia.org/wiki/俄羅斯內務部 "wikilink")（，，簡稱：MVD）使用，而且它們對新武器的評價很高：比[AKS-74U](../Page/AKS-74U卡宾枪.md "wikilink")[卡宾枪更小和更輕巧](../Page/卡宾枪.md "wikilink")，子彈會四處飛濺攻擊，增加[準確性和](../Page/準確與精密.md "wikilink")，操作方便。儘管如此，OTs-12沒有達到大量生產的水平。
 

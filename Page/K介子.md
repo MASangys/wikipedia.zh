@@ -32,8 +32,8 @@
 
 儘管及其反粒子經由[強相互作用產生](https://zh.wikipedia.org/wiki/強相互作用 "wikilink")，但是它們經由[弱相互作用衰變](../Page/弱相互作用.md "wikilink")。因此，在誕生後它們較適合被視為兩個有着相當不同壽命的弱[本徵態](https://zh.wikipedia.org/wiki/本徵態 "wikilink")：
 
-1.  長命的K介子被稱為（K-long，長命K），主要衰變成三個[π介子](../Page/π介子.md "wikilink")，其平均壽命為。
-2.  短命的K介子被稱為（K-short，短命K），主要衰變成兩個[π介子](../Page/π介子.md "wikilink")，其平均壽命為。
+1.  長命的K介子被稱為（K-long，長命K），主要衰變成三個[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")，其平均壽命為。
+2.  短命的K介子被稱為（K-short，短命K），主要衰變成兩個[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")，其平均壽命為。
 
 （見下文的[中性K介子混合](https://zh.wikipedia.org/wiki/K介子#中性K介子混合 "wikilink")）
 
@@ -60,9 +60,9 @@ style="height: 2em;" |    | 重子 |  |- style="height: 2em;" |    | 重子 |
 
 在1947年，[曼徹斯特大學](https://zh.wikipedia.org/wiki/曼徹斯特大學 "wikilink")和發表了兩輻[宇宙線引發反應的](../Page/宇宙線.md "wikilink")[雲室照片](https://zh.wikipedia.org/wiki/雲室 "wikilink")，一輻看起來是一中性粒子衰變成兩個帶電荷的π介子，另一輻看起來是一帶荷的粒子衰變成一帶電荷的π介子及一些中性的東西。新粒子的質量估算相當粗略，約為質子質量的一半。之後這種“V粒子”的個案就慢慢地湧現。
 
-[加州理工學院取得最早的突破](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")，他們為了得到更佳的宇宙線接收，而把雲室運上了威爾遜山。在1950年，他們報告了30個帶電荷及4個中性的V粒子。受這個所啟發，往後幾年的很多觀測都在山頂上進行，而1953年之前，所用的詞彙如下：“L介子”指的是[μ子或](../Page/μ子.md "wikilink")[π介子](../Page/π介子.md "wikilink")。“K介子”指的是質量介乎π介子及核子間的粒子；而“[超子](https://zh.wikipedia.org/wiki/超子 "wikilink")”指的質量比核子大的粒子。
+[加州理工學院取得最早的突破](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")，他們為了得到更佳的宇宙線接收，而把雲室運上了威爾遜山。在1950年，他們報告了30個帶電荷及4個中性的V粒子。受這個所啟發，往後幾年的很多觀測都在山頂上進行，而1953年之前，所用的詞彙如下：“L介子”指的是[μ子或](https://zh.wikipedia.org/wiki/μ子 "wikilink")[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")。“K介子”指的是質量介乎π介子及核子間的粒子；而“[超子](https://zh.wikipedia.org/wiki/超子 "wikilink")”指的質量比核子大的粒子。
 
-K介子與超子的衰變非常慢；一般大小尺度為。然而，在[π介子](../Page/π介子.md "wikilink")－[質子反應所生產出的這些粒子的衰變則要快得多](../Page/質子.md "wikilink")，時間大小尺度為。這個不協調問題由[亞伯拉罕·派斯所解決](../Page/亞伯拉罕·派斯.md "wikilink")，他設定了一個新的量子數的叫[奇異數](https://zh.wikipedia.org/wiki/奇異數 "wikilink")，在[強相互作用下守恆](https://zh.wikipedia.org/wiki/強相互作用 "wikilink")，但在[弱相互作用下則不守恆](../Page/弱相互作用.md "wikilink")。由於奇夸克及其反粒子一起的“相伴產生”，所以出現很大量的奇異粒子。奇異數很快就被指出它不是一個[乘法量子數](https://zh.wikipedia.org/wiki/乘法量子數 "wikilink")，因為如果是的話，奇異數會允許一些未被當時新的[同步加速器所觀測到的反應](../Page/同步加速器.md "wikilink")；[布魯克哈芬國家實驗室在](https://zh.wikipedia.org/wiki/布魯克哈芬國家實驗室 "wikilink")1953年，[勞倫斯伯克利國家實驗室在](https://zh.wikipedia.org/wiki/勞倫斯伯克利國家實驗室 "wikilink")1955年被委託製作同步加速器。
+K介子與超子的衰變非常慢；一般大小尺度為。然而，在[π介子](https://zh.wikipedia.org/wiki/π介子 "wikilink")－[質子反應所生產出的這些粒子的衰變則要快得多](../Page/質子.md "wikilink")，時間大小尺度為。這個不協調問題由[亞伯拉罕·派斯所解決](../Page/亞伯拉罕·派斯.md "wikilink")，他設定了一個新的量子數的叫[奇異數](https://zh.wikipedia.org/wiki/奇異數 "wikilink")，在[強相互作用下守恆](https://zh.wikipedia.org/wiki/強相互作用 "wikilink")，但在[弱相互作用下則不守恆](../Page/弱相互作用.md "wikilink")。由於奇夸克及其反粒子一起的“相伴產生”，所以出現很大量的奇異粒子。奇異數很快就被指出它不是一個[乘法量子數](https://zh.wikipedia.org/wiki/乘法量子數 "wikilink")，因為如果是的話，奇異數會允許一些未被當時新的[同步加速器所觀測到的反應](../Page/同步加速器.md "wikilink")；[布魯克哈芬國家實驗室在](https://zh.wikipedia.org/wiki/布魯克哈芬國家實驗室 "wikilink")1953年，[勞倫斯伯克利國家實驗室在](https://zh.wikipedia.org/wiki/勞倫斯伯克利國家實驗室 "wikilink")1955年被委託製作同步加速器。
 
 ## 宇稱不守恆
 

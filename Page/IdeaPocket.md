@@ -4,9 +4,9 @@
 
 公司初期原本是屬於[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")「[ATTACKERS](https://zh.wikipedia.org/wiki/Attackers "wikilink")」底下的一個品牌，並伴隨著該片商進入了[北都集團旗下的銷售部門](https://zh.wikipedia.org/wiki/北都集團 "wikilink")「アウトビジョン」（Outvision）。從2002年開始脫離ATTACKERS，成為集團底下的獨立片商進行活動。
 
-2005年4月，第一次以北都集團旗下銷售製造商的身分發行租賃商品。同年10月，集團底下的其他片商也開始透過[子公司](../Page/子公司.md "wikilink")「[TIS](https://zh.wikipedia.org/wiki/TIS "wikilink")」全面進入租賃部門成為測試對象。
+2005年4月，第一次以北都集團旗下銷售製造商的身分發行租賃商品。同年10月，集團底下的其他片商也開始透過[子公司](../Page/子公司.md "wikilink")「[TIS](../Page/TIS.md "wikilink")」全面進入租賃部門成為測試對象。
 
-早期的看板系列「**ANGEL**」，從ATTCKERS時期開始維持了大約10年的時間左右，主要是單體女優的[COSPLAY的作品](../Page/COSPLAY.md "wikilink")，而「**DIGITAL
+早期的看板系列「**ANGEL**」，從ATTCKERS時期開始維持了大約10年的時間左右，主要是單體女優的[COSPLAY的作品](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，而「**DIGITAL
 CHANNEL**」系列則是從2004年開始，該系列作品以[顏射為主軸](https://zh.wikipedia.org/wiki/顏射 "wikilink")，並由不同的導演拍攝單體女優，不論其是否為專屬契約。兩者皆包含超過100部以上的作品\[2\]。
 
 2004年公司開始有專屬女優（IP女優），所以新人出道系列作品「**FIRST
@@ -211,7 +211,7 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2016年8月19日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/香西咲" title="wikilink">香西咲</a></p></td>
+<td><p><a href="../Page/香西咲.md" title="wikilink">香西咲</a></p></td>
 <td><p>DIGITAL CHANNEL 117</p></td>
 <td></td>
 <td><p>2014年6月1日</p></td>
@@ -235,7 +235,7 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2013年8月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/卯水咲流" title="wikilink">卯水咲流</a></p></td>
+<td><p><a href="../Page/卯水咲流.md" title="wikilink">卯水咲流</a></p></td>
 <td><p>FIRST IMPRESSION 68</p></td>
 <td></td>
 <td><p>2013年6月1日</p></td>
@@ -265,7 +265,7 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2012年7月1日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佳苗琉花" title="wikilink">佳苗琉花</a></p></td>
+<td><p><a href="../Page/佳苗琉花.md" title="wikilink">佳苗琉花</a></p></td>
 <td><p>FIRST IMPRESSION 58</p></td>
 <td></td>
 <td><p>2012年5月1日</p></td>
@@ -277,7 +277,7 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2012年4月1日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/丘咲愛米莉" title="wikilink">丘咲愛米莉</a></p></td>
+<td><p><a href="../Page/丘咲愛米莉.md" title="wikilink">丘咲愛米莉</a></p></td>
 <td><p>FIRST IMPRESSION 57</p></td>
 <td></td>
 <td><p>2012年3月1日</p></td>
@@ -289,13 +289,13 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2012年2月1日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/星美梨香" title="wikilink">星美梨香</a></p></td>
+<td><p><a href="../Page/星美梨香.md" title="wikilink">星美梨香</a></p></td>
 <td><p>FIRST IMPRESSION 55</p></td>
 <td></td>
 <td><p>2012年1月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/安城安娜" title="wikilink">安城安娜</a></p></td>
+<td><p><a href="../Page/安城安娜.md" title="wikilink">安城安娜</a></p></td>
 <td><p>FIRST IMPRESSION 54</p></td>
 <td></td>
 <td><p>2011年12月1日</p></td>

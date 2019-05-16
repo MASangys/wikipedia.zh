@@ -1,4 +1,4 @@
-**2002年Oricon單曲週榜冠軍作品列表**列出2002年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**2002年Oricon單曲週榜冠軍作品列表**列出2002年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有38首冠軍單曲誕生，其中[平井堅的](../Page/平井堅.md "wikilink")《[爺爺的古老大鐘](../Page/爺爺的古老大鐘_\(平井堅單曲\).md "wikilink")》取得冠軍的週書最多（4週）。
 
@@ -40,7 +40,7 @@
 </tr>
 <tr class="even">
 <td><p>2月4日</p></td>
-<td><p><a href="../Page/Life_goes_on_(Dragon_Ash單曲).md" title="wikilink">Life goes on</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Life_goes_on_(Dragon_Ash單曲)" title="wikilink">Life goes on</a></p></td>
 <td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></p></td>
 <td><p>32.3</p></td>
 <td><p>1</p></td>
@@ -54,21 +54,21 @@
 </tr>
 <tr class="even">
 <td><p>2月18日</p></td>
-<td><p><a href="../Page/a_Day_in_Our_Life.md" title="wikilink">a Day in Our Life</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/a_Day_in_Our_Life" title="wikilink">a Day in Our Life</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>22.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月25日</p></td>
-<td><p><a href="../Page/AGAIN_2.md" title="wikilink">AGAIN 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AGAIN_2" title="wikilink">AGAIN 2</a></p></td>
 <td><p><a href="../Page/柚子_(組合).md" title="wikilink">柚子</a></p></td>
 <td><p>11.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>3月4日</p></td>
-<td><p><a href="../Page/是啊！_We&#39;re_ALIVE.md" title="wikilink">是啊！ We're ALIVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/是啊！_We&#39;re_ALIVE" title="wikilink">是啊！ We're ALIVE</a></p></td>
 <td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。</a></p></td>
 <td><p>27.2</p></td>
 <td><p>1</p></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>3月18日</p></td>
-<td><p><a href="../Page/FANTASISTA_(單曲).md" title="wikilink">FANTASISTA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FANTASISTA_(單曲)" title="wikilink">FANTASISTA</a></p></td>
 <td><p><a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></p></td>
 <td><p>17.8</p></td>
 <td><p>1</p></td>
@@ -139,28 +139,28 @@
 <tr class="even">
 <td><p>5月13日</p></td>
 <td><p><a href="../Page/藍色憂傷.md" title="wikilink">藍色憂傷</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>20.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月20日</p></td>
-<td><p><a href="../Page/SAKURA_Drops/Letters.md" title="wikilink">SAKURA Drops／Letters</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters" title="wikilink">SAKURA Drops／Letters</a></p></td>
 <td><p><a href="../Page/宇多田光.md" title="wikilink">宇多田光</a></p></td>
 <td><p>40.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月27日</p></td>
-<td><p><a href="../Page/freebird.md" title="wikilink">freebird</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/freebird" title="wikilink">freebird</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>17.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月3日</p></td>
-<td><p><a href="../Page/Another_Days.md" title="wikilink">Another Days</a></p></td>
-<td><p><a href="../Page/w-inds..md" title="wikilink">w-inds.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Another_Days" title="wikilink">Another Days</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td><p>10.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -180,15 +180,15 @@
 </tr>
 <tr class="even">
 <td><p>6月24日</p></td>
-<td><p><a href="../Page/Feel_your_breeze/one.md" title="wikilink">Feel your breeze／one</a></p></td>
-<td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a>／<a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a> feat. <a href="../Page/Shoo.md" title="wikilink">Shoo</a> (<a href="../Page/S.E.S._(團體).md" title="wikilink">S.E.S.</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Feel_your_breeze/one" title="wikilink">Feel your breeze／one</a></p></td>
+<td><p><a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a>／<a href="../Page/V6_(偶像團體).md" title="wikilink">V6</a> feat. <a href="../Page/Shoo.md" title="wikilink">Shoo</a> (<a href="https://zh.wikipedia.org/wiki/S.E.S._(團體)" title="wikilink">S.E.S.</a>)</p></td>
 <td><p>10.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月1日</p></td>
-<td><p><a href="../Page/戀之Mileage.md" title="wikilink">戀之Mileage</a></p></td>
-<td><p><a href="../Page/RAG_FAIR.md" title="wikilink">RAG FAIR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀之Mileage" title="wikilink">戀之Mileage</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RAG_FAIR" title="wikilink">RAG FAIR</a></p></td>
 <td><p>5.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月29日</p></td>
-<td><p><a href="../Page/FLOATIN&#39;.md" title="wikilink">FLOATIN'</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FLOATIN&#39;" title="wikilink">FLOATIN'</a></p></td>
 <td><p><a href="../Page/化學超男子.md" title="wikilink">化學超男子</a></p></td>
 <td><p>9.0</p></td>
 <td><p>1</p></td>
@@ -236,7 +236,7 @@
 </tr>
 <tr class="even">
 <td><p>8月19日</p></td>
-<td><p><a href="../Page/夜不成眠都為你.md" title="wikilink">夜不成眠都為你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夜不成眠都為你" title="wikilink">夜不成眠都為你</a></p></td>
 <td><p><a href="../Page/MISIA.md" title="wikilink">MISIA</a></p></td>
 <td><p>12.8</p></td>
 <td><p>1</p></td>
@@ -250,8 +250,8 @@
 </tr>
 <tr class="even">
 <td><p>9月2日</p></td>
-<td><p><a href="../Page/Because_of_you_(w-inds.單曲).md" title="wikilink">Because of you</a></p></td>
-<td><p><a href="../Page/w-inds..md" title="wikilink">w-inds.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Because_of_you_(w-inds.單曲)" title="wikilink">Because of you</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td><p>10.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -306,15 +306,15 @@
 </tr>
 <tr class="even">
 <td><p>10月28日</p></td>
-<td><p><a href="../Page/PIKA☆NCHI.md" title="wikilink">PIKA☆NCHI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PIKA☆NCHI" title="wikilink">PIKA☆NCHI</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>11.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月4日</p></td>
-<td><p><a href="../Page/solitude～真實的告別～.md" title="wikilink">solitude～真實的告別～</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/solitude～真實的告別～" title="wikilink">solitude～真實的告別～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>21.3</p></td>
 <td><p>1</p></td>
 </tr>
@@ -334,29 +334,29 @@
 </tr>
 <tr class="even">
 <td><p>11月25日</p></td>
-<td><p><a href="../Page/It_Takes_Two.md" title="wikilink">It Takes Two</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/It_Takes_Two" title="wikilink">It Takes Two</a></p></td>
 <td><p><a href="../Page/化學超男子.md" title="wikilink">化學超男子</a></p></td>
 <td><p>15.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月2日</p></td>
-<td><p><a href="../Page/SHALL_WE_LOVE?.md" title="wikilink">SHALL WE LOVE?</a></p></td>
-<td><p><a href="../Page/後松藤.md" title="wikilink">後松藤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHALL_WE_LOVE?" title="wikilink">SHALL WE LOVE?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/後松藤" title="wikilink">後松藤</a></p></td>
 <td><p>9.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>12月9日</p></td>
-<td><p><a href="../Page/BLUE_BE-BOP.md" title="wikilink">BLUE BE-BOP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_BE-BOP" title="wikilink">BLUE BE-BOP</a></p></td>
 <td><p><a href="../Page/屎爛幫.md" title="wikilink">屎爛幫</a></p></td>
 <td><p>10.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月16日</p></td>
-<td><p><a href="../Page/ding-dong/glider.md" title="wikilink">ding-dong／glider</a></p></td>
-<td><p><a href="../Page/TOKIO.md" title="wikilink">TOKIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ding-dong/glider" title="wikilink">ding-dong／glider</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKIO" title="wikilink">TOKIO</a></p></td>
 <td><p>7.5</p></td>
 <td><p>1</p></td>
 </tr>
@@ -369,7 +369,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月30日</p></td>
-<td><p><a href="../Page/Love_Me_All_Over.md" title="wikilink">Love Me All Over</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Me_All_Over" title="wikilink">Love Me All Over</a></p></td>
 <td><p><a href="../Page/J-FRIENDS.md" title="wikilink">J-FRIENDS</a></p></td>
 <td><p>18.0</p></td>
 <td><p>1</p></td>
@@ -379,7 +379,7 @@
 
 ## 參見
 
-  - [2002年Oricon專輯週榜冠軍作品列表](../Page/2002年Oricon專輯週榜冠軍作品列表.md "wikilink")
+  - [2002年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2002年Oricon專輯週榜冠軍作品列表 "wikilink")
 
 ## 參考資料
 

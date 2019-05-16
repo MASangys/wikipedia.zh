@@ -1,4 +1,4 @@
-《**DISCOVERY**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")7張[專輯](../Page/錄音室專輯.md "wikilink")。1999年2月3日發行。
+《**DISCOVERY**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")7張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。1999年2月3日發行。
 
 ## 簡介
 

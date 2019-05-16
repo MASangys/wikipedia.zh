@@ -11,7 +11,7 @@ connectivity = 4 × [USB
 service = [任天堂网络](https://zh.wikipedia.org/wiki/任天堂网络 "wikilink")
 [任天堂eShop](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")
 [Miiverse](https://zh.wikipedia.org/wiki/Miiverse "wikilink") | top game
-=《[瑪利歐賽車8](https://zh.wikipedia.org/wiki/瑪利歐賽車8 "wikilink")》
+=《[瑪利歐賽車8](../Page/瑪利歐賽車8.md "wikilink")》
 840万套
 （全球，截止2017年12月） | compatibility= [Wii](../Page/Wii.md "wikilink") |
 predecessor = [Wii](../Page/Wii.md "wikilink") | successor =
@@ -55,7 +55,7 @@ Pack主機。\[13\]
 
 [Nintendo-Wii-U-Console-FL.jpg](https://zh.wikipedia.org/wiki/File:Nintendo-Wii-U-Console-FL.jpg "fig:Nintendo-Wii-U-Console-FL.jpg")
 Wii
-U使用了由[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[IBM和](../Page/IBM.md "wikilink")[瑞薩電子與任天堂合作開發的特製](../Page/瑞薩電子.md "wikilink")[多晶片模組](../Page/多晶片模組.md "wikilink")（MCM），其結合了[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）、[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）以及[EEPROM記憶體控制器](../Page/電子抹除式可複寫唯讀記憶體.md "wikilink")\[14\]。代號為「[Espresso](https://zh.wikipedia.org/wiki/Espresso_\(处理器\) "wikilink")」的中央處理器是由IBM設計\[15\]，以[PowerPC
+U使用了由[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[IBM和](../Page/IBM.md "wikilink")[瑞薩電子與任天堂合作開發的特製](../Page/瑞薩電子.md "wikilink")[多晶片模組](../Page/多晶片模組.md "wikilink")（MCM），其結合了[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）、[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）以及[EEPROM記憶體控制器](../Page/電子抹除式可複寫唯讀記憶體.md "wikilink")\[14\]。代號為「[Espresso](../Page/Espresso_\(处理器\).md "wikilink")」的中央處理器是由IBM設計\[15\]，以[PowerPC
 750](https://zh.wikipedia.org/wiki/PowerPC_7xx "wikilink")（與蘋果電腦PowerPC
 G3處理器系出同門）為基礎的三核心架構，時脈為1.24
 GHz\[16\]。IBM形容這是一款「全新的[Power架構微處理器](https://zh.wikipedia.org/wiki/Power_Architecture "wikilink")」\[17\]，其採用[多核心設計](../Page/多核心處理器.md "wikilink")、45奈米製程生產，並包含了一個未知大小的[eDRAM](https://zh.wikipedia.org/wiki/eDRAM "wikilink")[CPU快取](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")。這款處理器是由IBM位於[紐約州的](https://zh.wikipedia.org/wiki/紐約州 "wikilink")300毫米半導體工廠生產製造\[18\]。圖形處理器則由AMD設計，包括了一個含320个流处理器规格近于HD

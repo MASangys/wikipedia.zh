@@ -1,17 +1,17 @@
 **Object Desktop**（又名 **Object Desktop Network** 或
-**ODNT**）起初是由[Stardock开发的一组供](../Page/Stardock.md "wikilink")[OS/2使用的软件](../Page/OS/2.md "wikilink")，后来在1997年推出了
+**ODNT**）起初是由[Stardock开发的一组供](https://zh.wikipedia.org/wiki/Stardock "wikilink")[OS/2使用的软件](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，后来在1997年推出了
 Windows 版本。
 
 Object Desktop 包含下列组件：
 
-  - [WindowBlinds](../Page/WindowBlinds.md "wikilink")
+  - [WindowBlinds](https://zh.wikipedia.org/wiki/WindowBlinds "wikilink")
   - [Fences](../Page/Fences.md "wikilink")
-  - [DesktopX](../Page/DesktopX.md "wikilink")
-  - [Tweak7](../Page/Tweak7.md "wikilink")
+  - [DesktopX](https://zh.wikipedia.org/wiki/DesktopX "wikilink")
+  - [Tweak7](https://zh.wikipedia.org/wiki/Tweak7 "wikilink")
   - IconPackager
   - ObjectBar
 
-上述大部分组件用来美化操作系统图形界面，也有一部分用来优化系统性能及使用体验。Stardock另外两款功能类似的工具[ObjectDock与](../Page/ObjectDock.md "wikilink")[ThinkDesk则主要是面向专业用户](../Page/ThinkDesk.md "wikilink")，并不包含在
+上述大部分组件用来美化操作系统图形界面，也有一部分用来优化系统性能及使用体验。Stardock另外两款功能类似的工具[ObjectDock与](https://zh.wikipedia.org/wiki/ObjectDock "wikilink")[ThinkDesk则主要是面向专业用户](https://zh.wikipedia.org/wiki/ThinkDesk "wikilink")，并不包含在
 Object Desktop 中。
 
 ## 历史

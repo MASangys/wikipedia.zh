@@ -1,13 +1,14 @@
 《**Everyone is No. 1**》，劉德華于2007年發行的新歌加精选專輯。其中收录了六首新歌：《Everyone is No.
-1》（2008奥运会歌曲）、《投名状》（电影《[投名状](../Page/投名状.md "wikilink")》同名宣传歌曲）、《兄弟》（电影《兄弟》主题曲）、《一起嗌》（2007香港演唱会主题曲）、《没有翅膀的天使》和《不是我的我不要》（McDonald之家慈善广告歌）\[1\]。
+1》（2008奥运会歌曲）、《投名状》（电影《[投名状](https://zh.wikipedia.org/wiki/投名状 "wikilink")》同名宣传歌曲）、《兄弟》（电影《兄弟》主题曲）、《一起嗌》（2007香港演唱会主题曲）、《没有翅膀的天使》和《不是我的我不要》（McDonald之家慈善广告歌）\[1\]。
 
 ## 曲目
 
 Disc 1（國）
 1\.**[Everyone is No.
-1](../Page/Everyone_is_No._1.md "wikilink")**（New）词： 劉德華&李安修
-2\.[投名状](../Page/投名状.md "wikilink")（New）
-3.兄弟（New）词：刘德华〔電影"[兄弟](../Page/兄弟.md "wikilink")"主题曲〕
+1](https://zh.wikipedia.org/wiki/Everyone_is_No._1 "wikilink")**（New）词：
+劉德華&李安修
+2\.[投名状](https://zh.wikipedia.org/wiki/投名状 "wikilink")（New）
+3.兄弟（New）词：刘德华〔電影"[兄弟](https://zh.wikipedia.org/wiki/兄弟 "wikilink")"主题曲〕
 4.练习
 5.原来我有爱
 6.下次不敢

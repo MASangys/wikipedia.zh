@@ -4,13 +4,14 @@
 
   - 2007年（平成19年）9月，公司設立。
   - 2009年12月，[中田千智](../Page/中田千智.md "wikilink")、[仲谷明香從](../Page/仲谷明香.md "wikilink")[AKS移籍至此](../Page/AKS.md "wikilink")。
-  - 2010年4月，[內田真由美](../Page/內田真由美.md "wikilink")、[田名部生來從AKS移籍至此](../Page/田名部生來.md "wikilink")。
+  - 2010年4月，[內田真由美](../Page/內田真由美.md "wikilink")、[田名部生來從AKS移籍至此](https://zh.wikipedia.org/wiki/田名部生來 "wikilink")。
 
 ## 所属藝人
 
   - [中田千智](../Page/中田千智.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")
     Team K）
-  - [田名部生來](../Page/田名部生來.md "wikilink")（AKB48 Team B）
+  - [田名部生來](https://zh.wikipedia.org/wiki/田名部生來 "wikilink")（AKB48 Team
+    B）
 
 ## 離開成員
 

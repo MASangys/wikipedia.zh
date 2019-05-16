@@ -1,4 +1,4 @@
-「**if**」為[日本歌手](../Page/日本.md "wikilink")[西野加奈於](../Page/西野加奈.md "wikilink")2010年8月4日發行的第11張[單曲](../Page/單曲.md "wikilink")。
+「**if**」為[日本歌手](../Page/日本.md "wikilink")[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2010年8月4日發行的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -15,7 +15,7 @@
       -
         作詞：Kana Nishino・GIORGIO13/ 作曲・編曲：GIORGIO CANCEMI
     <!-- end list -->
-      - [東寶配給](../Page/東寶.md "wikilink")[動畫](../Page/動畫.md "wikilink")《劇場版
+      - [東寶配給](../Page/東寶.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《劇場版
         NARUTO -ナルト- 疾風伝 THE LOST TOWER》主題歌
 2.  **I'll be there**
       -

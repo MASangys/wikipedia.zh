@@ -56,7 +56,7 @@ Freedom, Justice, Truth<br />
 
 ## 类似概念
 
-  - [早慶](https://zh.wikipedia.org/wiki/早慶 "wikilink")
+  - [早慶](../Page/早慶.md "wikilink")
   - [常青藤盟校](https://zh.wikipedia.org/wiki/常青藤盟校 "wikilink")
   - [牛劍](../Page/牛劍.md "wikilink")
 

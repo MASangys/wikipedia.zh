@@ -370,8 +370,8 @@ City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進�
 
 <!-- end list -->
 
-  - [岩本輝雄](https://zh.wikipedia.org/wiki/岩本輝雄 "wikilink")「青春沒有結束」（2015年9月18日
-    - ） \[27\]\[28\]\[29\]
+  - [岩本輝雄](../Page/岩本輝雄.md "wikilink")「青春沒有結束」（2015年9月18日 - ）
+    \[27\]\[28\]\[29\]
 
 <!-- end list -->
 
@@ -400,7 +400,7 @@ City内](https://zh.wikipedia.org/wiki/Tokyo_Dome_City "wikilink")不定期進�
     - 6月8日・10日 - 12日）
   - [「獻給錯過的你們2」～AKB48全體總動員公演～](../Page/「獻給錯過的你們2」～AKB48全體總動員公演～.md "wikilink")（2012年5月3日
     - 24日）
-  - [「獻給追憶的你們」～AKB48全體總動員公演～](https://zh.wikipedia.org/wiki/「獻給追憶的你們」～AKB48全體總動員公演～ "wikilink")（2013年5月2日
+  - [「獻給追憶的你們」～AKB48全體總動員公演～](../Page/「獻給追憶的你們」～AKB48全體總動員公演～.md "wikilink")（2013年5月2日
     - 25日）
 
 ## 參考

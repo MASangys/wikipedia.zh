@@ -199,8 +199,8 @@ Cube娛樂，常用外號為**United Cube**。
     Tae Ho，作曲家，2014 - 2018，現為[Yummy Tone Producing
     Team成員](https://zh.wikipedia.org/wiki/Yummy_Tone_Producing_Team "wikilink")。\[90\]\[91\]
     \[92\]
-  - [朴海日](https://zh.wikipedia.org/wiki/朴海日 "wikilink")，박해일，Park Hae
-    Il，作曲家，現為Yummy Tone Producing Team成員。\[93\]
+  - [朴海日](../Page/朴海日.md "wikilink")，박해일，Park Hae Il，作曲家，現為Yummy Tone
+    Producing Team成員。\[93\]
   - [Fredy](https://zh.wikipedia.org/wiki/Fredy "wikilink")，Choi Min
     Soo，作曲家，現為[MosPick Music Producing
     Group모스픽](https://zh.wikipedia.org/wiki/MosPick_Music_Producing_Group "wikilink")
@@ -218,7 +218,7 @@ Cube娛樂，常用外號為**United Cube**。
 ### 團體
 
   - [BTOB](../Page/BTOB.md "wikilink")
-  - [CLC](https://zh.wikipedia.org/wiki/CLC "wikilink")
+  - [CLC](../Page/CLC.md "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
   - [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
   - [開往秋天的列車](https://zh.wikipedia.org/wiki/開往秋天的列車 "wikilink")
@@ -244,8 +244,8 @@ Cube娛樂，常用外號為**United Cube**。
 
 ### 藝人
 
-  - [許卿煥](https://zh.wikipedia.org/wiki/許卿煥 "wikilink") \[100\]
-  - [李輝宰](https://zh.wikipedia.org/wiki/李輝宰 "wikilink") \[101\]
+  - [許卿煥](../Page/許卿煥.md "wikilink") \[100\]
+  - [李輝宰](../Page/李輝宰.md "wikilink") \[101\]
 
 ### 練習生
 
@@ -289,7 +289,7 @@ Cube娛樂，常用外號為**United Cube**。
       - [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008-2009）
       - [昶旻](../Page/李昶旻.md "wikilink")（2008-2009）
       - [珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008-2009）
-  - [M4M](https://zh.wikipedia.org/wiki/M4M "wikilink")（2013–2015）
+  - [M4M](../Page/M4M.md "wikilink")（2013–2015）
   - [4minute](../Page/4minute.md "wikilink")（2009-2016） \[112\]\[113\]
       - [智贤](https://zh.wikipedia.org/wiki/南智贤 "wikilink")（2009-2016）
       - [嘉允](https://zh.wikipedia.org/wiki/许嘉允 "wikilink")（2009-2016）
@@ -300,7 +300,7 @@ Cube娛樂，常用外號為**United Cube**。
 
 ### 企劃組合
 
-  - [2Yoon](https://zh.wikipedia.org/wiki/2Yoon "wikilink")（2013 - 2016）
+  - [2Yoon](../Page/2Yoon.md "wikilink")（2013 - 2016）
   - [Trouble Maker](../Page/Trouble_Maker.md "wikilink")（2011 - 2018）
   - [Triple
     H](https://zh.wikipedia.org/wiki/Triple_H_\(企劃組合\) "wikilink")（2017
@@ -314,14 +314,13 @@ Cube娛樂，常用外號為**United Cube**。
 
   - [G.NA](../Page/G.NA.md "wikilink")（2009－2016） \[117\]
 
-  - [盧志勳](https://zh.wikipedia.org/wiki/盧志勳 "wikilink")（2012－2017）\[118\]
+  - [盧志勳](../Page/盧志勳.md "wikilink")（2012－2017）\[118\]
 
-  - [辛知勳](https://zh.wikipedia.org/wiki/辛知勳 "wikilink")（2013－2017）\[119\]
+  - [辛知勳](../Page/辛知勳.md "wikilink")（2013－2017）\[119\]
 
   - （2013－2017）\[120\]
 
-  - [朴敏荷](https://zh.wikipedia.org/wiki/朴敏荷 "wikilink")
-    （2015－2017）\[121\]
+  - [朴敏荷](../Page/朴敏荷.md "wikilink") （2015－2017）\[121\]
 
   - （2016－2017）\[122\]
 
@@ -337,8 +336,8 @@ Cube娛樂，常用外號為**United Cube**。
 
 <!-- end list -->
 
-  - [陳學冬](https://zh.wikipedia.org/wiki/陳學冬 "wikilink")（演員）
-  - [宰孝](https://zh.wikipedia.org/wiki/宰孝 "wikilink")（[Block
+  - [陳學冬](../Page/陳學冬.md "wikilink")（演員）
+  - [宰孝](../Page/宰孝.md "wikilink")（[Block
     B](../Page/Block_B.md "wikilink")）
   - 趙達沅（VARSITY）
   - [鄭秀彬](https://zh.wikipedia.org/wiki/VICTON "wikilink")（[VICTON](https://zh.wikipedia.org/wiki/VICTON "wikilink")）
@@ -372,18 +371,18 @@ Cube娛樂，常用外號為**United Cube**。
 
   - [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")（SOLO）
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")（除率智以外全員）
-  - [Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")）
-  - [Yerin](https://zh.wikipedia.org/wiki/Yerin "wikilink")（[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")）
-  - [SOYEE](https://zh.wikipedia.org/wiki/gu9udan "wikilink")（現[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、曾為[Apink](../Page/Apink.md "wikilink")、[CLC預備成員](https://zh.wikipedia.org/wiki/CLC "wikilink")）
-  - [Ashley](https://zh.wikipedia.org/wiki/Ladies'_Code "wikilink")（[Ladies'
-    Code](https://zh.wikipedia.org/wiki/Ladies'_Code "wikilink")）
+  - [Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
+  - [Yerin](https://zh.wikipedia.org/wiki/Yerin "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）
+  - [SOYEE](https://zh.wikipedia.org/wiki/gu9udan "wikilink")（現[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、曾為[Apink](../Page/Apink.md "wikilink")、[CLC預備成員](../Page/CLC.md "wikilink")）
+  - [Ashley](../Page/Ladies'_Code.md "wikilink")（[Ladies'
+    Code](../Page/Ladies'_Code.md "wikilink")）
   - 柳秀兒（OAHSIS（原名SEEART）、[Aqua](https://zh.wikipedia.org/wiki/Aqua "wikilink")、[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")）
   - [苞娜](https://zh.wikipedia.org/wiki/苞娜 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
   - 丁海梨（[P.O.P](https://zh.wikipedia.org/wiki/P.O.P "wikilink")）
   - 李允書（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
   - 徐惠璘（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
-  - 高序炫（[CLC預備成員](https://zh.wikipedia.org/wiki/CLC "wikilink")）\[131\]
+  - 高序炫（[CLC預備成員](../Page/CLC.md "wikilink")）\[131\]
   - 鄭海利
   - 金賢智 \[132\]\[133\]\[134\]
   - Nana \[135\]\[136\]\[137\]
@@ -486,8 +485,7 @@ TV，（），於2015年7月1日成立，iHQ與Cube娛樂合作，iHQ投資經�
 \[171\]
 
 CUBE TV，節目有[BTOB的](../Page/BTOB.md "wikilink")《BTOB
-SHOW》、[CLC的](https://zh.wikipedia.org/wiki/CLC "wikilink")《CLC's
-Beautiful
+SHOW》、[CLC的](../Page/CLC.md "wikilink")《CLC's Beautiful
 Mission》、[Pentagon的](../Page/Pentagon_\(男子組合\).md "wikilink")《[Pentagon
 maker](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")》、
 [Triple
@@ -632,14 +630,14 @@ H
 
 ### 頒獎禮獎項
 
-|      |                                                                                                    |
-| ---- | -------------------------------------------------------------------------------------------------- |
-| 年份   | 獎項                                                                                                 |
-| 2011 | 第25屆[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")－製作人獎（洪勝成）                                |
-| 2012 | 第26屆金唱片獎－製作人獎（洪勝成）                                                                                 |
-| 2013 | 第2屆[Gaon Chart K-POP大獎](https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大獎 "wikilink")－K-pop貢獻獎（洪勝成） |
-| 2014 | 第28屆金唱片獎－製作人獎（洪勝成）                                                                                 |
-| 2017 | 2017 Korea Drama Awards (韓國電視劇節)－Global Management Award \[179\]                                   |
+|      |                                                                                 |
+| ---- | ------------------------------------------------------------------------------- |
+| 年份   | 獎項                                                                              |
+| 2011 | 第25屆[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")－製作人獎（洪勝成）             |
+| 2012 | 第26屆金唱片獎－製作人獎（洪勝成）                                                              |
+| 2013 | 第2屆[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")－K-pop貢獻獎（洪勝成） |
+| 2014 | 第28屆金唱片獎－製作人獎（洪勝成）                                                              |
+| 2017 | 2017 Korea Drama Awards (韓國電視劇節)－Global Management Award \[179\]                |
 
 ## 參考資料
 

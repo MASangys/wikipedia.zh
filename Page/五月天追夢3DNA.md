@@ -38,7 +38,7 @@
 | [劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink") | 神秘乘客  | 片中自我介紹「我是小乃」，是她自薦的[台詞](https://zh.wikipedia.org/wiki/台詞 "wikilink")。 \[13\]                                             |
 | [林雪](../Page/林雪.md "wikilink")                      | 廚師肥仔  |                                                                                                                         |
 | [談一樂](https://zh.wikipedia.org/wiki/談一樂 "wikilink") | 樂樂    | 在戲中演出[女兒樂樂一角](https://zh.wikipedia.org/wiki/女兒 "wikilink")。\[14\]                                                       |
-| [王文祥](https://zh.wikipedia.org/wiki/王文祥 "wikilink") | 興仔    | 戲中演繹木訥認真的廚師[學徒](https://zh.wikipedia.org/wiki/學徒 "wikilink")，與林雪有多場精采對手戲。\[15\]                                         |
+| [王文祥](https://zh.wikipedia.org/wiki/王文祥 "wikilink") | 興仔    | 戲中演繹木訥認真的廚師[學徒](../Page/學徒.md "wikilink")，與林雪有多場精采對手戲。\[15\]                                                            |
 | [張雨劍](https://zh.wikipedia.org/wiki/張雨劍 "wikilink") | 雨劍    | 扮演認真執著的[單車](https://zh.wikipedia.org/wiki/單車 "wikilink")[快遞員](https://zh.wikipedia.org/wiki/快遞 "wikilink")。\[16\]       |
 | [吳博鷹](https://zh.wikipedia.org/wiki/吳博鷹 "wikilink") | 亮子    | 戲裡為雨劍的[同事](https://zh.wikipedia.org/wiki/同事 "wikilink")，上海街頭[競速的演出](https://zh.wikipedia.org/wiki/競速 "wikilink")。\[17\] |
 

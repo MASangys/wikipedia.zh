@@ -20,7 +20,7 @@
 <SMALL>※SFC=[超級任天堂](../Page/超級任天堂.md "wikilink")、GB=[Game
 Boy](../Page/Game_Boy.md "wikilink")、GBC=[Game Boy
 Color](../Page/Game_Boy_Color.md "wikilink")、GC=[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、SS=[世嘉土星](../Page/世嘉土星.md "wikilink")、PS=[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、PS2=[Playstation
-2](../Page/Playstation_2.md "wikilink")、PSP=[PlayStation
+2](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")、PSP=[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")、PC=[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、VC=[Virtual
 Console](../Page/Virtual_Console.md "wikilink")</SMALL>
@@ -38,7 +38,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     吸魂者](https://zh.wikipedia.org/wiki/洛克人X2_吸魂者 "wikilink")（GBC、VC）
   - [洛克人X
     指令任務](https://zh.wikipedia.org/wiki/洛克人X_指令任務 "wikilink")（PS2、GC）
-  - [反亂獵人X](https://zh.wikipedia.org/wiki/反亂獵人X "wikilink")（PSP）
+  - [反亂獵人X](../Page/反亂獵人X.md "wikilink")（PSP）
 
 ## 主要人物
 
@@ -101,7 +101,7 @@ Console](../Page/Virtual_Console.md "wikilink")</SMALL>
     在『Irregular Hunter
     X』中對於西克瑪的設定，與原系列作有相當大的不同。在此作品中，西克瑪是為了瞭解凱恩博士口中，[艾克斯所擁有的](../Page/艾克斯_\(洛克人\).md "wikilink")「思考型機器人的可能性」，才發起這場「賭上思考型機器人未來的大戰」。
     小說版中，除了是凱恩博士的最高傑作外，也提及他是依照凱恩博士年輕時的樣貌製作\[4\]
-    在《漫威對卡普空》系列中曾經和[奧創合作](https://zh.wikipedia.org/wiki/奧創 "wikilink")，並合體成「奧創西格瑪」，計劃將漫威宇宙和卡普空宇宙都改造成由機器統治的世界，更導致兩個世界永久融合。
+    在《漫威對卡普空》系列中曾經和[奧創合作](../Page/奧創.md "wikilink")，並合體成「奧創西格瑪」，計劃將漫威宇宙和卡普空宇宙都改造成由機器統治的世界，更導致兩個世界永久融合。
 
 <!-- end list -->
 

@@ -7,7 +7,7 @@ Entertainment是[SEGA的關係企業](https://zh.wikipedia.org/wiki/SEGA "wikili
 Music
 Vibration」，指「有魅力的音樂如波紋般大幅擴散出去」\[1\]\[2\]。Marvelous主要業務為發售[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[遊戲軟體的](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[CD及](../Page/CD.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
-[中山隼雄卸任SEGA社長](https://zh.wikipedia.org/wiki/中山隼雄 "wikilink")，於1998年12月設立[投資公司](https://zh.wikipedia.org/wiki/投資公司 "wikilink")「Amuse
+[中山隼雄卸任SEGA社長](../Page/中山隼雄.md "wikilink")，於1998年12月設立[投資公司](https://zh.wikipedia.org/wiki/投資公司 "wikilink")「Amuse
 Capital」（），其子[中山晴喜亦擔任](https://zh.wikipedia.org/wiki/中山晴喜 "wikilink")[董事](../Page/董事.md "wikilink")，以[管理层收购](https://zh.wikipedia.org/wiki/管理层收购 "wikilink")（MBO）方式收購Marvelous
 Entertainment。Marvelous
 Entertainment成為獨立公司後，[旭通信社動畫製作人](https://zh.wikipedia.org/wiki/旭通信社 "wikilink")[片岡義朗就任關係企業總經理](https://zh.wikipedia.org/wiki/片岡義朗 "wikilink")，以其任職旭通信社時累積的人脈與基礎知識跨足動畫製作，並與「Nelke
@@ -17,11 +17,11 @@ Marvelous委託的CD總經銷，2011年1月以前為[日本Geneon環球娛樂](h
 
 ## 歷史
 
-  - 1997年6月25日，成立於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[元赤坂](https://zh.wikipedia.org/wiki/元赤坂 "wikilink")，[資本額為](https://zh.wikipedia.org/wiki/資本額 "wikilink")5,000萬[日圓](../Page/日圓.md "wikilink")；9月，總部搬至東京都港區[赤坂](../Page/赤坂.md "wikilink")。
+  - 1997年6月25日，成立於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[元赤坂](../Page/元赤坂.md "wikilink")，[資本額為](https://zh.wikipedia.org/wiki/資本額 "wikilink")5,000萬[日圓](../Page/日圓.md "wikilink")；9月，總部搬至東京都港區[赤坂](../Page/赤坂.md "wikilink")。
 
 <!-- end list -->
 
-  - 2000年3月，總部搬至東京都港區[南麻布](https://zh.wikipedia.org/wiki/南麻布 "wikilink")。
+  - 2000年3月，總部搬至東京都港區[南麻布](../Page/南麻布.md "wikilink")。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@ Marvelous委託的CD總經銷，2011年1月以前為[日本Geneon環球娛樂](h
 
 <!-- end list -->
 
-  - 2009年7月，總部搬至東京都[品川區](../Page/品川區.md "wikilink")[東品川](https://zh.wikipedia.org/wiki/東品川 "wikilink")。
+  - 2009年7月，總部搬至東京都[品川區](../Page/品川區.md "wikilink")[東品川](../Page/東品川.md "wikilink")。
 
 <!-- end list -->
 

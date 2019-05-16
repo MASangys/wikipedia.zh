@@ -1,39 +1,43 @@
 **3Delight** 是一个专有的，符合 [RenderMan
-规范的逼真图像渲染器](../Page/RenderMan规范.md "wikilink")，和[皮克斯的](../Page/皮克斯.md "wikilink")
-[PRMan](../Page/PRMan.md "wikilink") 有一样高的渲染质量和效率，由 Taarna 工作室的子公司 DNA
-Research 开发。
+规范的逼真图像渲染器](../Page/RenderMan规范.md "wikilink")，和[皮克斯的](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")
+[PRMan](https://zh.wikipedia.org/wiki/PRMan "wikilink") 有一样高的渲染质量和效率，由
+Taarna 工作室的子公司 DNA Research 开发。
 
 ## 特性
 
 3Delight 主要使用 [Reyes
-渲染架构](../Page/Reyes渲染架构.md "wikilink")，但也支持光线追踪和全局照明渲染，完全支持[多线程和](../Page/多线程.md "wikilink")[分布式渲染](../Page/分布式渲染.md "wikilink")，因此可以有效利用计算机的多核处理器，以及拥有众多计算机的渲染农场的计算资源进行渲染。
+渲染架构](../Page/Reyes渲染架构.md "wikilink")，但也支持光线追踪和全局照明渲染，完全支持[多线程和](../Page/多线程.md "wikilink")[分布式渲染](https://zh.wikipedia.org/wiki/分布式渲染 "wikilink")，因此可以有效利用计算机的多核处理器，以及拥有众多计算机的渲染农场的计算资源进行渲染。
 
 3Delight 拥有以下特性\[1\]：
 
-  - 可编程着色，使用 [RSL](../Page/RenderMan着色语言.md "wikilink") 编写着色器
+  - 可编程着色，使用
+    [RSL](https://zh.wikipedia.org/wiki/RenderMan着色语言 "wikilink")
+    编写着色器
   - 面光源
   - [景深](../Page/景深.md "wikilink")
-  - [置换](../Page/置换.md "wikilink")
+  - [置换](https://zh.wikipedia.org/wiki/置换 "wikilink")
   - [环境贴图](../Page/反射贴图.md "wikilink")
-  - [全局照明](../Page/全局照明.md "wikilink")
+  - [全局照明](https://zh.wikipedia.org/wiki/全局照明 "wikilink")
   - [细节层次](../Page/细节层次.md "wikilink")
-  - [运动模糊](../Page/运动模糊.md "wikilink")
-  - 特殊[镜头映射](../Page/镜头映射.md "wikilink")（通过 *ray trace hider*）
-  - [光线跟踪](../Page/光线跟踪.md "wikilink")
-  - [深度阴影](../Page/深度阴影.md "wikilink")
+  - [运动模糊](https://zh.wikipedia.org/wiki/运动模糊 "wikilink")
+  - 特殊[镜头映射](https://zh.wikipedia.org/wiki/镜头映射 "wikilink")（通过 *ray
+    trace hider*）
+  - [光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")
+  - [深度阴影](https://zh.wikipedia.org/wiki/深度阴影 "wikilink")
   - [实体模型](../Page/实体造型.md "wikilink")
-  - [纹理映射](../Page/纹理映射.md "wikilink")
-  - [体积着色](../Page/体积着色.md "wikilink")
+  - [纹理映射](https://zh.wikipedia.org/wiki/纹理映射 "wikilink")
+  - [体积着色](https://zh.wikipedia.org/wiki/体积着色 "wikilink")
 
 此外，3Delight 还支持以下特性：
 
   - [光子映射](../Page/光子映射.md "wikilink")
-  - [点云](../Page/点云.md "wikilink")
+  - [点云](https://zh.wikipedia.org/wiki/点云 "wikilink")
   - 多级[细分曲面](../Page/细分曲面.md "wikilink")
   - NURBS 曲线
-  - [砖图](../Page/砖图.md "wikilink")（三维 Mipmap 纹理）
-  - [RIB判决](../Page/RIB判决.md "wikilink")，允许仅在满足特定条件下才解析指定的 RIB 片段。\[2\]
-  - [类着色器](../Page/类着色器.md "wikilink")
+  - [砖图](https://zh.wikipedia.org/wiki/砖图 "wikilink")（三维 Mipmap 纹理）
+  - [RIB判决](https://zh.wikipedia.org/wiki/RIB判决 "wikilink")，允许仅在满足特定条件下才解析指定的
+    RIB 片段。\[2\]
+  - [类着色器](https://zh.wikipedia.org/wiki/类着色器 "wikilink")
   - [Co-shaders](../Page/协程.md "wikilink")
 
 ### 模块化
@@ -44,8 +48,8 @@ Reyes/光线跟踪杂交的渲染器变成完全的光线跟踪渲染器。
 
 其他的特性包括：
 
-  - 支持 [Maya](../Page/Autodesk_Maya.md "wikilink") Hypershade
-    的多数材质，3Delight 可以自动转换 Maya 材质为 RenderMan 材质。
+  - 支持 [Maya](https://zh.wikipedia.org/wiki/Autodesk_Maya "wikilink")
+    Hypershade 的多数材质，3Delight 可以自动转换 Maya 材质为 RenderMan 材质。
   - 支持 Maya、[3ds
     Max](../Page/3ds_Max.md "wikilink")、[Softimage](../Page/Softimage.md "wikilink")、[Houdini](../Page/Houdini.md "wikilink")、Massive
     等三维软件。
@@ -56,7 +60,7 @@ Reyes/光线跟踪杂交的渲染器变成完全的光线跟踪渲染器。
   - 置换着色器可以嵌套。
   - 置换着色器可在模型着色前对几何原型的顶点进行运算。
   - gather() shaderop 可用于产生点云，以从 [HDR
-    图像生成取样分布](../Page/高动态范围成像.md "wikilink")，如此可以方便的把光子映射和[图像照明结合起来](../Page/图像照明.md "wikilink")。
+    图像生成取样分布](../Page/高动态范围成像.md "wikilink")，如此可以方便的把光子映射和[图像照明结合起来](https://zh.wikipedia.org/wiki/图像照明 "wikilink")。
   - 磁盘读写缓存，在大场景渲染时优化大量数据传输，减少网络阻塞。
   - 一个允许对任何数据运行 RSL 代码的 C 语言 API，比如，对模型的顶点属性数据进行处理。
 
@@ -64,8 +68,8 @@ Reyes/光线跟踪杂交的渲染器变成完全的光线跟踪渲染器。
 
 3Delight 的开发开始于 1999 年，于 2000 年首次公开发布。\[3\]3Delight 是首个结合 Reyes 算法和光线跟踪的
 RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
-[BMRT](../Page/BMRT.md "wikilink")，但 BMRT 并非一个Reyes 渲染器。3Delight
-从一开始就是一个商业渲染器，但在 2000 年 8 月到 2005 年 3
+[BMRT](https://zh.wikipedia.org/wiki/BMRT "wikilink")，但 BMRT 并非一个Reyes
+渲染器。3Delight 从一开始就是一个商业渲染器，但在 2000 年 8 月到 2005 年 3
 月，开发商允许人们免费使用，以便建立用户群。
 
 从 2011 年 10 月发布的 10.0 开始，名字改成了 3Delight Studio Pro，从这个版本开始，开发商允许用户使用整个
@@ -88,7 +92,7 @@ RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
   - [3Delight 8.5.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/a8615ea70c31b587)，"[Bronson](../Page/查尔斯·布朗森.md "wikilink")"，2009
     年 5 月
   - [3Delight 8.0.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/ab754ad521d41035)，"[Midnight
-    Express](../Page/午夜快车.md "wikilink")"，2008 年 10 月
+    Express](https://zh.wikipedia.org/wiki/午夜快车 "wikilink")"，2008 年 10 月
   - [3Delight 7.0.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/c389d5e90c943d24)，"[Django](../Page/迪亚戈_\(电影\).md "wikilink")"，2007
     年 11 月
   - [3Delight 6.5.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/8f4d252ff97b8aaa)，"[Ennio](../Page/恩尼奥·莫里科内.md "wikilink")"，2007
@@ -99,7 +103,7 @@ RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
     年 2 月
   - [3Delight 4.5.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/22cac22ce089a235)，""，2005
     年 8 月
-  - [3Delight 4.0.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/c8c7c6337e998e55)，"[Indiana](../Page/印第安那·琼斯.md "wikilink")"，2005
+  - [3Delight 4.0.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/c8c7c6337e998e55)，"[Indiana](https://zh.wikipedia.org/wiki/印第安那·琼斯 "wikilink")"，2005
     年 3 月
   - 3Delight 3.0.0
   - [3Delight 2.1.0](https://groups.google.com/group/comp.graphics.rendering.renderman/msg/8b7f2b432aad4e21)，2004
@@ -128,15 +132,15 @@ RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
 
 3Delight 既有 32 位平台也有 64 位平台版本，目前支持的平台主要有
 
-  - [苹果公司](../Page/苹果公司.md "wikilink")
+  - [苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
     [PowerPC](../Page/PowerPC.md "wikilink") 和
-    [x86](../Page/x86.md "wikilink") 平台上的 [Mac OS
-    X](../Page/Mac_OS_X.md "wikilink")
-  - x86，[x86-64](../Page/x86-64.md "wikilink") 和
-    [Cell](../Page/Cell.md "wikilink") 平台上的
+    [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") 平台上的 [Mac OS
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+  - x86，[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") 和
+    [Cell](https://zh.wikipedia.org/wiki/Cell "wikilink") 平台上的
     [GNU/Linux](../Page/Linux.md "wikilink")
   - [微软](../Page/微软.md "wikilink") x86 和 x86-64 平台上的
-    [Windows](../Page/Windows.md "wikilink")
+    [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ### 停止开发的平台
 
@@ -145,41 +149,43 @@ RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
   - [硅谷图形公司](../Page/硅谷图形公司.md "wikilink") [MIPS
     平台的](../Page/MIPS架構.md "wikilink")
     [IRIX](../Page/IRIX.md "wikilink")
-  - [升阳电脑](../Page/升阳电脑.md "wikilink")[SPARC](../Page/SPARC.md "wikilink")
+  - [升阳电脑](https://zh.wikipedia.org/wiki/升阳电脑 "wikilink")[SPARC](../Page/SPARC.md "wikilink")
     平台的 [Solaris](../Page/Solaris.md "wikilink")
 
 ## 使用 3Delight 的影视项目\[7\]
 
   - [Assault on Precinct
-    13](../Page/Assault_on_Precinct_13.md "wikilink")
-  - [Bailey's Billions](../Page/Bailey's_Billions.md "wikilink")
-  - [黑色圣诞](../Page/黑色圣诞_\(电影\).md "wikilink")
-  - [荣誉之刃](../Page/荣誉之刃.md "wikilink")
-  - [血钻](../Page/血钻_\(电影\).md "wikilink")
+    13](https://zh.wikipedia.org/wiki/Assault_on_Precinct_13 "wikilink")
+  - [Bailey's
+    Billions](https://zh.wikipedia.org/wiki/Bailey's_Billions "wikilink")
+  - [黑色圣诞](https://zh.wikipedia.org/wiki/黑色圣诞_\(电影\) "wikilink")
+  - [荣誉之刃](https://zh.wikipedia.org/wiki/荣誉之刃 "wikilink")
+  - [血钻](https://zh.wikipedia.org/wiki/血钻_\(电影\) "wikilink")
   - [夏洛特的网](../Page/夏洛特的网_\(2006年电影\).md "wikilink")
-  - [长江七号](../Page/长江七号.md "wikilink")
-  - [纳尼亚传奇：狮子·女巫·魔衣橱](../Page/纳尼亚传奇：狮子·女巫·魔衣橱.md "wikilink")
+  - [长江七号](https://zh.wikipedia.org/wiki/长江七号 "wikilink")
+  - [纳尼亚传奇：狮子·女巫·魔衣橱](https://zh.wikipedia.org/wiki/纳尼亚传奇：狮子·女巫·魔衣橱 "wikilink")
   - [The Chronicles of
-    Riddick](../Page/The_Chronicles_of_Riddick.md "wikilink")
-  - [Cube Zero](../Page/Cube_Zero.md "wikilink")
+    Riddick](https://zh.wikipedia.org/wiki/The_Chronicles_of_Riddick "wikilink")
+  - [Cube Zero](https://zh.wikipedia.org/wiki/Cube_Zero "wikilink")
   - [第九区](../Page/第九区.md "wikilink")
-  - [神奇四侠](../Page/神奇四侠_\(电影\).md "wikilink")
-  - [神奇四侠：银魔现身](../Page/神奇四侠：银魔现身.md "wikilink")
-  - [死神来了3](../Page/死神来了3.md "wikilink")
+  - [神奇四侠](https://zh.wikipedia.org/wiki/神奇四侠_\(电影\) "wikilink")
+  - [神奇四侠：银魔现身](https://zh.wikipedia.org/wiki/神奇四侠：银魔现身 "wikilink")
+  - [死神来了3](https://zh.wikipedia.org/wiki/死神来了3 "wikilink")
   - [哈利·波特与“混血王子”](../Page/哈利·波特与“混血王子”.md "wikilink")
   - [哈利·波特与凤凰社](../Page/哈利·波特与凤凰社.md "wikilink")
   - [绿巨人](../Page/绿巨人_\(电影\).md "wikilink")
-  - [神奇绿巨人](../Page/神奇绿巨人.md "wikilink")
-  - [The Last Mimzy](../Page/The_Last_Mimzy.md "wikilink")
-  - [The Ruins](../Page/The_Ruins.md "wikilink")
+  - [神奇绿巨人](https://zh.wikipedia.org/wiki/神奇绿巨人 "wikilink")
+  - [The Last
+    Mimzy](https://zh.wikipedia.org/wiki/The_Last_Mimzy "wikilink")
+  - [The Ruins](https://zh.wikipedia.org/wiki/The_Ruins "wikilink")
   - [The Seeker: The Dark is
-    Rising](../Page/The_Seeker:_The_Dark_is_Rising.md "wikilink")
-  - [终结者之救赎](../Page/终结者之救赎.md "wikilink")
-  - [超人归来](../Page/超人归来.md "wikilink")
-  - [野兽冒险乐园](../Page/野兽冒险乐园_\(电影\).md "wikilink")
-  - [The Woods](../Page/The_Woods.md "wikilink")
-  - [X战警3：最后之战](../Page/X战警3：最后之战.md "wikilink")
-  - [X战警前传：金刚狼](../Page/X战警前传：金刚狼.md "wikilink")
+    Rising](https://zh.wikipedia.org/wiki/The_Seeker:_The_Dark_is_Rising "wikilink")
+  - [终结者之救赎](https://zh.wikipedia.org/wiki/终结者之救赎 "wikilink")
+  - [超人归来](https://zh.wikipedia.org/wiki/超人归来 "wikilink")
+  - [野兽冒险乐园](https://zh.wikipedia.org/wiki/野兽冒险乐园_\(电影\) "wikilink")
+  - [The Woods](https://zh.wikipedia.org/wiki/The_Woods "wikilink")
+  - [X战警3：最后之战](https://zh.wikipedia.org/wiki/X战警3：最后之战 "wikilink")
+  - [X战警前传：金刚狼](https://zh.wikipedia.org/wiki/X战警前传：金刚狼 "wikilink")
 
 以下全 CG 电影使用了 3Delight：
 

@@ -1,4 +1,4 @@
-是一部1992年由[王晶执导](../Page/王晶_\(導演\).md "wikilink")，[刘德华主演的香港传记片](../Page/刘德华.md "wikilink")，为《[賭城大亨之新哥傳奇](../Page/賭城大亨之新哥傳奇.md "wikilink")》的续集。
+是一部1992年由[王晶执导](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")，[刘德华主演的香港传记片](https://zh.wikipedia.org/wiki/刘德华 "wikilink")，为《[賭城大亨之新哥傳奇](../Page/賭城大亨之新哥傳奇.md "wikilink")》的续集。
 
 ## 剧情
 
@@ -6,7 +6,7 @@
 
 期間賀新也認識了美女演員狄雲，與他發展出曖昧情愫。
 
-一次賀天寶与程震飙车競速，天寶不幸出事车毁人亡，賀新认为儿子是被人蓄意谋害的，经过调查发现原来是程震幹的，于是决定派人除掉程震。而另一方面阿妹则发现程震是程樂兒的儿子，在她到[夏威夷问过程樂兒之后才发现原来程震的父亲竟然是賀新](../Page/夏威夷.md "wikilink")，程樂兒也不知程震去找賀新報仇。归来后阿妹将这个消息告诉了賀新，賀新震驚之餘決定放过受伤的程震，不知情的程震離開時仍口口聲聲說以後還要幫父親傅家駿報仇。正當賀新因手足相殘子女亂倫而難過時，郭英南告诉賀新一个秘密：賀天兒是他当年在医院花錢買來的女嬰（亲生的在阿妹被傅家俊打傷後流產），所以賀新不用担心子女亂倫。
+一次賀天寶与程震飙车競速，天寶不幸出事车毁人亡，賀新认为儿子是被人蓄意谋害的，经过调查发现原来是程震幹的，于是决定派人除掉程震。而另一方面阿妹则发现程震是程樂兒的儿子，在她到[夏威夷问过程樂兒之后才发现原来程震的父亲竟然是賀新](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，程樂兒也不知程震去找賀新報仇。归来后阿妹将这个消息告诉了賀新，賀新震驚之餘決定放过受伤的程震，不知情的程震離開時仍口口聲聲說以後還要幫父親傅家駿報仇。正當賀新因手足相殘子女亂倫而難過時，郭英南告诉賀新一个秘密：賀天兒是他当年在医院花錢買來的女嬰（亲生的在阿妹被傅家俊打傷後流產），所以賀新不用担心子女亂倫。
 
 程震事件解決後賀新與郭英男回頭對付聶傲天人馬，解決了大东等人後與聶傲天共處一室細說恩怨。最终賀新與郭英男兩人關起房門圍毆聶傲天，事後聶傲天火速退出公司離開澳門、不知所蹤。
 
@@ -87,7 +87,7 @@
 <td><p><a href="../Page/蔡一智.md" title="wikilink">蔡一智</a></p></td>
 <td><p><a href="../Page/羅君左.md" title="wikilink">羅君左</a></p></td>
 <td><p>賀新与阿妹的儿子，被程震害死<br />
-原型：<a href="../Page/何猷光.md" title="wikilink">何猷光</a></p></td>
+原型：<a href="https://zh.wikipedia.org/wiki/何猷光" title="wikilink">何猷光</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>狄雲</p></td>
@@ -125,13 +125,13 @@
 <tr class="even">
 <td><p>阿虎</p></td>
 <td><p><a href="../Page/朱鐵和.md" title="wikilink">朱鐵和</a></p></td>
-<td><p><a href="../Page/陳欣.md" title="wikilink">陳欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳欣" title="wikilink">陳欣</a></p></td>
 <td><p>賀新的助手，为了还债威逼賀新借錢而入狱</p></td>
 </tr>
 <tr class="odd">
 <td><p>四哥</p></td>
 <td><p><a href="../Page/黎漢持.md" title="wikilink">黎漢持</a></p></td>
-<td><p><a href="../Page/馮永和.md" title="wikilink">馮永和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮永和" title="wikilink">馮永和</a></p></td>
 <td><p>狄雲的同事<br />
 原型：<a href="../Page/謝賢.md" title="wikilink">謝賢</a></p></td>
 </tr>
@@ -158,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>刀手</p></td>
-<td><p><a href="../Page/易天雄.md" title="wikilink">易天雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易天雄" title="wikilink">易天雄</a></p></td>
 <td></td>
 <td><p>大東的手下,行刺賀新的刀手<br />
 </p></td>

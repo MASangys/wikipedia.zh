@@ -98,7 +98,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")[廣播劇CD](../Page/廣播�
 <!-- end list -->
 
   - [河尻与兵衛秀隆](../Page/河尻秀隆.md "wikilink")（かわじり よへえ
-    ひでたか，[聲](../Page/聲優.md "wikilink")：[内田夕夜](https://zh.wikipedia.org/wiki/内田夕夜 "wikilink")）
+    ひでたか，[聲](../Page/聲優.md "wikilink")：[内田夕夜](../Page/内田夕夜.md "wikilink")）
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")[廣播劇CD](../Page/廣播�
 
 <!-- end list -->
 
-  - [服部小平太](https://zh.wikipedia.org/wiki/服部一忠 "wikilink")（はっとり
+  - [服部小平太](../Page/服部一忠.md "wikilink")（はっとり
     こへいた，[聲](../Page/聲優.md "wikilink")：[鈴木達央](../Page/鈴木達央.md "wikilink")）
 
 <!-- end list -->
@@ -133,7 +133,7 @@ Works發售](../Page/Frontier_Works.md "wikilink")[廣播劇CD](../Page/廣播�
 
 #### 織田大和守家
 
-[織田大和守信友](https://zh.wikipedia.org/wiki/織田信友 "wikilink")（おだ やまとのかみ のぶとも）
+[織田大和守信友](../Page/織田信友.md "wikilink")（おだ やまとのかみ のぶとも）
 
   -
     尾張國[守護代](https://zh.wikipedia.org/wiki/守護代 "wikilink")，[清洲城城主](../Page/清洲城.md "wikilink")，不滿[信長獨稱國主而和其敵對](../Page/織田信長.md "wikilink")，為尾張國內最大反抗勢力。

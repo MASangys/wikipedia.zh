@@ -1,6 +1,7 @@
 **Navicat** 是[香港卓軟數碼科技有限公司生產的一系列](../Page/香港.md "wikilink")
-[MySQL](../Page/MySQL.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Oracle](../Page/Oracle_Database.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")
-及 [Microsoft SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")
+[MySQL](../Page/MySQL.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Oracle](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")
+及 [Microsoft SQL
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
 的圖形化資料庫管理及發展軟件。它有一個類似瀏覽器的圖形使用者介面，支援多重連線到本地和遠端資料庫。它的設計合乎各種使用者的需求，從資料庫管理員和程序員，到各種為客戶服務並與合作夥伴共享信息的不同企業或公司。
 
 ## 歷史
@@ -11,8 +12,8 @@ MySQL 獲得 2008 年香港資訊及通訊科技獎的*全年大獎*，*最佳�
 ## 支援平台和語言
 
 Navicat 是一個跨平台工具，支援 [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac OS
-X](../Page/Mac_OS_X.md "wikilink") 及
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 及
 [Linux](../Page/Linux.md "wikilink") 平台。購買軟件時，使用者可以從 11
 個可用的語言中選擇一種語言：英文，法文，德文，西班牙文，日文，波蘭文，俄文，葡萄牙文，韓文，簡體中文和繁體中文。
 
@@ -20,11 +21,12 @@ X](../Page/Mac_OS_X.md "wikilink") 及
 
 ### Navicat for MySQL
 
-在 2002 年 3 月正式發佈，[Windows](../Page/Microsoft_Windows.md "wikilink") 版本的
-Navicat for [MySQL](../Page/MySQL.md "wikilink")
+在 2002 年 3
+月正式發佈，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+版本的 Navicat for [MySQL](../Page/MySQL.md "wikilink")
 成為卓軟數碼科技第一個提供給公眾人士的產品。隨後，該公司分別於
 2003 年 6 月及 10 月發佈兩個附加的 Navicat for MySQL [Mac OS
-X](../Page/Mac_OS_X.md "wikilink") 和
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 和
 [Linux](../Page/Linux.md "wikilink") 操作系統版本。在 2013 年 11 月，增加了支援
 MariaDB。\[2\]
 
@@ -38,9 +40,9 @@ Linux 版本。\[3\]
 ### Navicat for Oracle
 
 在 2008 年 8 月 Navicat 決定擴大他們的生產線及開始擴展到
-[Oracle](../Page/Oracle.md "wikilink")，設計 Navicat for Oracle 的 Windows 及
-Mac 版本。在次年八月，他們發佈 Linux 平台版本。\[4\]Oracle 版本的 Navicat 支持大部份最新的 Oracle
-物件功能包括目錄、資料表空間、同義字、具體化檢視記錄、觸發器、序列及類型等。\[5\]
+[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")，設計 Navicat for
+Oracle 的 Windows 及 Mac 版本。在次年八月，他們發佈 Linux 平台版本。\[4\]Oracle 版本的 Navicat
+支持大部份最新的 Oracle 物件功能包括目錄、資料表空間、同義字、具體化檢視記錄、觸發器、序列及類型等。\[5\]
 
 ### Navicat for SQLite
 
@@ -58,14 +60,14 @@ PostgreSQL，讓使用者在跨資料庫間進行資料遷移。Navicat Premium
 Premium 版本 9 發佈，增加了 SQLite 資料庫的連接性到 Navicat Premium，讓 Navicat Premium
 可以在單一應用程序中連線到 MySQL、Oracle、Postgresql 及 SQLite。 在 2010 年 11
 月，增加了支援 Microsoft SQL Server。在 2011 年 1 月，支援連線到 [SQL
-Azure](../Page/SQL_Azure.md "wikilink")。在 2013 年 11 月，增加了支援 MariaDB。在
-2018 年 9 月，Navicat Premium 開始支持 MongoDB。\[7\]
+Azure](https://zh.wikipedia.org/wiki/SQL_Azure "wikilink")。在 2013 年 11
+月，增加了支援 MariaDB。在 2018 年 9 月，Navicat Premium 開始支持 MongoDB。\[7\]
 
 ### Navicat for SQL Server
 
 在 2010 年 11 月發佈 Navicat for SQL Server 的 Windows 平台和 Mac OS X。在發佈時，SQL
 Server 版本包含到 Navicat Premium 版本。在 2011 年 1 月，支援連線到 [SQL
-Azure](../Page/SQL_Azure.md "wikilink")。\[8\]
+Azure](https://zh.wikipedia.org/wiki/SQL_Azure "wikilink")。\[8\]
 
 ### Navicat Essentials
 

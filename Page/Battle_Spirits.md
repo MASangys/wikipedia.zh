@@ -219,8 +219,9 @@ Battle Spirits裡面有5種卡。這些卡都可以在遊戲從卡組抽牌所�
   - 《[Battle Spirits Sword
     Eyes](../Page/Battle_Spirits_Sword_Eyes.md "wikilink")》
   - 《[最強銀河 究極ZERO Battle
-    Spirits](../Page/最強銀河_究極ZERO_Battle_Spirits.md "wikilink")》
-  - 《[Battle Spirits 烈火魂](../Page/Battle_Spirits_烈火魂.md "wikilink")》
+    Spirits](https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits "wikilink")》
+  - 《[Battle Spirits
+    烈火魂](https://zh.wikipedia.org/wiki/Battle_Spirits_烈火魂 "wikilink")》
   - 《[Battle Spirits Double
     Drive](../Page/Battle_Spirits_Double_Drive.md "wikilink")》
 

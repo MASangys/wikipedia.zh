@@ -8,7 +8,7 @@ Digital與](../Page/Polyphony_Digital.md "wikilink")[紅牛車隊共同設計出
 ## 概要
 
 起初，採用翼車(wing
-car)架構，設置了駕駛艙罩的單座原型賽車，前輪圈緊密地包覆在整流罩當中。車上裝載1500ps馬力V6直噴雙渦輪引擎，時速超過400km、最大橫向加速度6G的效能。而[紅牛車隊技術總監](../Page/紅牛車隊.md "wikilink")[亞德利安·紐威](../Page/亚德里安·纽维.md "wikilink")，主動提議將「風扇車」的技術運用在Red
+car)架構，設置了駕駛艙罩的單座原型賽車，前輪圈緊密地包覆在整流罩當中。車上裝載1500ps馬力V6直噴雙渦輪引擎，時速超過400km、最大橫向加速度6G的效能。而[紅牛車隊技術總監](../Page/紅牛車隊.md "wikilink")[亞德利安·紐威](https://zh.wikipedia.org/wiki/亚德里安·纽维 "wikilink")，主動提議將「風扇車」的技術運用在Red
 Bull X2010上。
 
 風扇車是指用風扇強制導出車子下方的氣流，降低車底氣壓以產生強大的下壓力，使車身緊緊吸附在路面上。這種車的特徵在於不論速度快慢，車身都能獲得龐大的下壓力，大幅提昇車子在低速彎道上的過彎速度；亞德利安·紐威同時也針對前後擾流翼、後擾流器的形狀給了許多建議，使得Red
@@ -87,7 +87,7 @@ Bull X2010極速超過450km/h、最大橫向加速度達8.75G的性能，幾乎�
 
 ## 試車員
 
-遊戲公司請來了[紅牛車隊之F](../Page/紅牛車隊.md "wikilink")1車手[賽巴斯蒂安·維泰爾透過遊戲來試駕](../Page/賽巴斯蒂安·維泰爾.md "wikilink")，於第一次在日本[鈴鹿賽道試跑時](../Page/鈴鹿賽道.md "wikilink")，便將該賽道的F1賽車單圈最佳紀錄一口氣縮短了20秒之多。
+遊戲公司請來了[紅牛車隊之F](../Page/紅牛車隊.md "wikilink")1車手[賽巴斯蒂安·維泰爾透過遊戲來試駕](../Page/賽巴斯蒂安·維泰爾.md "wikilink")，於第一次在日本[鈴鹿賽道試跑時](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")，便將該賽道的F1賽車單圈最佳紀錄一口氣縮短了20秒之多。
 
 ## 實物
 
@@ -104,15 +104,15 @@ X2010在現實中首先以按照相同比例的模型出現，然後於西班牙
 2.  B-spec達到Lv35時，就會有賽巴斯蒂安·維泰爾版。
 3.  A-spec或者B-spec達到Lv40時，玩家可以購買多種顏色版。
 
-另外，賽巴斯蒂安·維泰爾奪得[2011年世界一級方程式錦標賽總冠軍](../Page/2011年世界一級方程式錦標賽.md "wikilink")，所有玩家可在他奪標後一星期內透過網絡取得賽巴斯蒂安·維泰爾版的X2010。
+另外，賽巴斯蒂安·維泰爾奪得[2011年世界一級方程式錦標賽總冠軍](https://zh.wikipedia.org/wiki/2011年世界一級方程式錦標賽 "wikilink")，所有玩家可在他奪標後一星期內透過網絡取得賽巴斯蒂安·維泰爾版的X2010。
 
 ## 相關連結
 
   - [Polyphony Digital](../Page/Polyphony_Digital.md "wikilink")
   - [紅牛車隊](../Page/紅牛車隊.md "wikilink")
   - [跑車浪漫旅5](../Page/跑車浪漫旅5.md "wikilink")
-  - [山內一典](../Page/山內一典.md "wikilink")
-  - [亞德利安·紐威](../Page/亚德里安·纽维.md "wikilink")
+  - [山內一典](https://zh.wikipedia.org/wiki/山內一典 "wikilink")
+  - [亞德利安·紐威](https://zh.wikipedia.org/wiki/亚德里安·纽维 "wikilink")
   - [賽巴斯蒂安·維泰爾](../Page/賽巴斯蒂安·維泰爾.md "wikilink")
 
 ## 外部連結
@@ -126,10 +126,10 @@ X2010在現實中首先以按照相同比例的模型出現，然後於西班牙
 
 <references />
 
-[分類:虛構汽車](../Page/分類:虛構汽車.md "wikilink")
+[分類:虛構汽車](https://zh.wikipedia.org/wiki/分類:虛構汽車 "wikilink")
 
 [fr:Gran Turismo 5\#Red Bull
-X2010](../Page/fr:Gran_Turismo_5#Red_Bull_X2010.md "wikilink")
+X2010](https://zh.wikipedia.org/wiki/fr:Gran_Turismo_5#Red_Bull_X2010 "wikilink")
 
 [Category:概念車](https://zh.wikipedia.org/wiki/Category:概念車 "wikilink")
 [Category:賽車](https://zh.wikipedia.org/wiki/Category:賽車 "wikilink")

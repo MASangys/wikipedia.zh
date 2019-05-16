@@ -1,5 +1,5 @@
 《**GAD
-Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作的一部](../Page/GONZO.md "wikilink")26集原創日本動畫，于2003年4月至9月在[Animax与](../Page/Animax.md "wikilink")[富士电视台播出](../Page/富士电视台.md "wikilink")。
+Guard**》是[锦织博监督](https://zh.wikipedia.org/wiki/锦织博 "wikilink")，[GONZO制作的一部](../Page/GONZO.md "wikilink")26集原創日本動畫，于2003年4月至9月在[Animax与](../Page/Animax.md "wikilink")[富士电视台播出](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。
 
 ## 故事概要
 
@@ -44,7 +44,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p><a href="../Page/會川昇.md" title="wikilink">會川昇</a></p></td>
 <td><p><a href="../Page/錦織博.md" title="wikilink">錦織博</a><br />
 宮尾佳和</p></td>
-<td><p><a href="../Page/相澤昌弘.md" title="wikilink">相澤昌弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/相澤昌弘" title="wikilink">相澤昌弘</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -58,11 +58,11 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>ナイトタウンの街角で</p></td>
-<td><p><a href="../Page/中瀨理香.md" title="wikilink">中瀨理香</a></p></td>
-<td><p><a href="../Page/増井壮一.md" title="wikilink">増井壮一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中瀨理香" title="wikilink">中瀨理香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/増井壮一" title="wikilink">増井壮一</a></p></td>
 <td><p>錦織博<br />
-<a href="../Page/板垣伸.md" title="wikilink">いたがきしん</a></p></td>
-<td><p><a href="../Page/田頭しのぶ.md" title="wikilink">田頭しのぶ</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/板垣伸" title="wikilink">いたがきしん</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田頭しのぶ" title="wikilink">田頭しのぶ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -87,14 +87,14 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>五つの仮面</p></td>
 <td><p>稲荷昭彦</p></td>
 <td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a><br />
-<a href="../Page/坂田純一.md" title="wikilink">坂田純一</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/坂田純一" title="wikilink">坂田純一</a></p></td>
 <td><p><a href="../Page/別所誠人.md" title="wikilink">別所誠人</a></p></td>
 <td><p>本村晃一</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>空を飛べたら</p></td>
-<td><p><a href="../Page/村井貞之.md" title="wikilink">村井貞之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村井貞之" title="wikilink">村井貞之</a></p></td>
 <td><p>増井壮一</p></td>
 <td><p>錦織博</p></td>
 <td><p>秋山由樹子</p></td>
@@ -103,8 +103,8 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>8</p></td>
 <td><p>さすらいの二人</p></td>
 <td><p>會川昇</p></td>
-<td><p><a href="../Page/玉川達文.md" title="wikilink">玉川達文</a></p></td>
-<td><p><a href="../Page/中澤勇一.md" title="wikilink">中澤勇一</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/玉川達文" title="wikilink">玉川達文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中澤勇一" title="wikilink">中澤勇一</a><br />
 中本尚子</p></td>
 <td></td>
 </tr>
@@ -120,7 +120,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>10</p></td>
 <td><p>夕陽に札束</p></td>
 <td><p>會川昇</p></td>
-<td><p><a href="../Page/小林治_(イラストレーター).md" title="wikilink">小林治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林治_(イラストレーター)" title="wikilink">小林治</a></p></td>
 <td><p>小林治<br />
 錦織博</p></td>
 <td><p>加藤裕美</p></td>
@@ -130,7 +130,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>虹の町には帰れない</p></td>
 <td><p>村井貞之</p></td>
 <td><p>宮尾佳和</p></td>
-<td><p><a href="../Page/吉田徹.md" title="wikilink">吉田徹</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a><br />
 佐々木一浩</p></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>坂田純一</p></td>
 <td><p><a href="../Page/紅優.md" title="wikilink">紅優</a><br />
 平田豊</p></td>
-<td><p><a href="../Page/吉田隆彦.md" title="wikilink">吉田隆彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉田隆彦" title="wikilink">吉田隆彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -163,7 +163,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>15</p></td>
 <td><p>陽の当たる庭</p></td>
 <td><p>稲荷昭彦</p></td>
-<td><p><a href="../Page/板垣伸.md" title="wikilink">板垣伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/板垣伸" title="wikilink">板垣伸</a></p></td>
 <td><p>三宅雄一郎</p></td>
 <td><p>関口雅浩</p></td>
 </tr>
@@ -187,7 +187,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>18</p></td>
 <td><p>去る者の論理</p></td>
 <td><p>關島真賴</p></td>
-<td><p><a href="../Page/佐藤英一.md" title="wikilink">佐藤英一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤英一" title="wikilink">佐藤英一</a></p></td>
 <td><p>錦織博</p></td>
 <td><p>秋山由樹子</p></td>
 </tr>
@@ -222,7 +222,7 @@ Guard**》是[锦织博监督](../Page/锦织博.md "wikilink")，[GONZO制作�
 <td><p>22</p></td>
 <td><p>ガラスの輪舞（ロンド）</p></td>
 <td><p>村井貞之</p></td>
-<td><p><a href="../Page/西村博之_(イラストレーター).md" title="wikilink">西村博之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西村博之_(イラストレーター)" title="wikilink">西村博之</a></p></td>
 <td><p>大宅光子</p></td>
 <td><p>松本文男</p></td>
 </tr>

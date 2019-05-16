@@ -1,5 +1,5 @@
 **INFINITI
-G**是日產汽車推出的[轎跑車系列](../Page/轎跑車.md "wikilink")，目前推出至四代，銷售東亞和歐美；也有部分銷往北美的G系列是貼牌版本的[日產天際線](../Page/日產天際線.md "wikilink")。本車共用FM型底盤。
+G**是日產汽車推出的[轎跑車系列](../Page/轎跑車.md "wikilink")，目前推出至四代，銷售東亞和歐美；也有部分銷往北美的G系列是貼牌版本的[日產天際線](https://zh.wikipedia.org/wiki/日產天際線 "wikilink")。本車共用FM型底盤。
 
 G35於2003年獲得北美年度汽車獎前十名，2007年起的第四代G37系列目標為競爭Lexus IS250和BMW 328i的市場。\[1\]
 
@@ -39,12 +39,18 @@ Infiniti G20.jpg|第二代 <File:04-05> Infiniti G35 sedan.jpg|第三代
   - [Official G37 Coupe homepage
     (USA)](https://web.archive.org/web/20101205095735/http://www.infinitiusa.com/g_coupe/index.html)
 
-[de:Infiniti G20](../Page/de:Infiniti_G20.md "wikilink") [fr:Infiniti G
-Cabriolet](../Page/fr:Infiniti_G_Cabriolet.md "wikilink") [fr:Infiniti G
-Coupé](../Page/fr:Infiniti_G_Coupé.md "wikilink") [pt:Infiniti
-G20](../Page/pt:Infiniti_G20.md "wikilink") [pt:Infiniti
-G37](../Page/pt:Infiniti_G37.md "wikilink") [fi:Infiniti
-G37](../Page/fi:Infiniti_G37.md "wikilink")
+[de:Infiniti
+G20](https://zh.wikipedia.org/wiki/de:Infiniti_G20 "wikilink")
+[fr:Infiniti G
+Cabriolet](https://zh.wikipedia.org/wiki/fr:Infiniti_G_Cabriolet "wikilink")
+[fr:Infiniti G
+Coupé](https://zh.wikipedia.org/wiki/fr:Infiniti_G_Coupé "wikilink")
+[pt:Infiniti
+G20](https://zh.wikipedia.org/wiki/pt:Infiniti_G20 "wikilink")
+[pt:Infiniti
+G37](https://zh.wikipedia.org/wiki/pt:Infiniti_G37 "wikilink")
+[fi:Infiniti
+G37](https://zh.wikipedia.org/wiki/fi:Infiniti_G37 "wikilink")
 
 ## 參考文獻
 

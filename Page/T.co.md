@@ -4,7 +4,7 @@ Twitter希望这个服务可以保护用户远离恶意网站，\[4\]并且用�
 
 ## 历史
 
-Twitter之前使用第三方的服务[TinyURL和](https://zh.wikipedia.org/wiki/TinyURL "wikilink")[bit.ly](../Page/bit.ly.md "wikilink")，\[7\]在2010年3月Twitter开始试验在私信中使用自己的twt.tl域名缩略网址服务，\[8\]后来Twitter购买了t.co域名。
+Twitter之前使用第三方的服务[TinyURL和](https://zh.wikipedia.org/wiki/TinyURL "wikilink")[bit.ly](https://zh.wikipedia.org/wiki/bit.ly "wikilink")，\[7\]在2010年3月Twitter开始试验在私信中使用自己的twt.tl域名缩略网址服务，\[8\]后来Twitter购买了t.co域名。
 
 这项服务用 @TwitterAPI、@rsarver和@raffi帐号在主站进行了测试。\[9\]
 

@@ -1,12 +1,12 @@
 **Linpus
-Linux**是一个由[台湾的](../Page/台湾.md "wikilink")[百資科技公司基于](../Page/百資科技.md "wikilink")[Fedora开发的](../Page/Fedora.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[1\]Linpus特地为亚洲市场而设计，对[萬國碼和中日文字的編碼相容性相當高](../Page/萬國碼.md "wikilink")。
+Linux**是一个由[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")[百資科技公司基于](https://zh.wikipedia.org/wiki/百資科技 "wikilink")[Fedora开发的](../Page/Fedora.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[1\]Linpus特地为亚洲市场而设计，对[萬國碼和中日文字的編碼相容性相當高](https://zh.wikipedia.org/wiki/萬國碼 "wikilink")。
 
-另外还有一个为[笔记本等较低端硬件和手提设备的较小屏幕而开发的](../Page/笔记本电脑.md "wikilink")**Linpus
-Lite**版本，拥有为新手设计的可用tab键控制的“简单模式”，和为[Windows用户设计](../Page/Windows.md "wikilink")、界面与Windows相似的“PC模式”。\[2\][宏碁的](../Page/宏碁.md "wikilink")[Aspire
-One](../Page/Aspire_One.md "wikilink")、Acer Revo 3610、和Northtec
-Gecko\[3\]\[4\]笔记本电脑预安装了Linpus Lite Linux。
+另外还有一个为[笔记本等较低端硬件和手提设备的较小屏幕而开发的](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")**Linpus
+Lite**版本，拥有为新手设计的可用tab键控制的“简单模式”，和为[Windows用户设计](https://zh.wikipedia.org/wiki/Windows "wikilink")、界面与Windows相似的“PC模式”。\[2\][宏碁的](../Page/宏碁.md "wikilink")[Aspire
+One](https://zh.wikipedia.org/wiki/Aspire_One "wikilink")、Acer Revo
+3610、和Northtec Gecko\[3\]\[4\]笔记本电脑预安装了Linpus Lite Linux。
 
-Linpus内同时包含[GPL的](../Page/GNU通用公共许可证.md "wikilink")[自由软件和未完全开源的](../Page/自由软件.md "wikilink")[共享软件](../Page/共享软件.md "wikilink")。
+Linpus内同时包含[GPL的](../Page/GNU通用公共许可证.md "wikilink")[自由软件和未完全开源的](../Page/自由软件.md "wikilink")[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。
 
 ## 参考资料
 

@@ -1,4 +1,4 @@
-**WK廣場**（），前名**活方商場**（），是[香港一個](../Page/香港.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")36-44號[重慶大廈地庫](../Page/重慶大廈.md "wikilink")，只有地庫一層，現由[允記集團管理](../Page/允記集團.md "wikilink")。
+**WK廣場**（），前名**活方商場**（），是[香港一個](../Page/香港.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")36-44號[重慶大廈地庫](../Page/重慶大廈.md "wikilink")，只有地庫一層，現由[允記集團管理](https://zh.wikipedia.org/wiki/允記集團 "wikilink")。
 
 ## 商舖
 
@@ -34,7 +34,7 @@ Alchemy。
 [Woodhouse.jpg](https://zh.wikipedia.org/wiki/File:Woodhouse.jpg "fig:Woodhouse.jpg")
 [缩略图](https://zh.wikipedia.org/wiki/File:WK廣場\(正門\).jpg "fig:缩略图")
 重慶大廈地庫曾是不同的商場，活方開業前名為Update
-Mall。[周大福企業購入後](../Page/周大福企業.md "wikilink")，改名為活方商場（Woodhouse），於2009年開幕，以精緻和獨一無二的設計、裝修配合充滿時尚感和有特式的店舖去帶出「本地創作，日本文化」的主題吸引一些對生活有要求、具消費力的本地客及來港旅客。
+Mall。[周大福企業購入後](https://zh.wikipedia.org/wiki/周大福企業 "wikilink")，改名為活方商場（Woodhouse），於2009年開幕，以精緻和獨一無二的設計、裝修配合充滿時尚感和有特式的店舖去帶出「本地創作，日本文化」的主題吸引一些對生活有要求、具消費力的本地客及來港旅客。
 
 為打破傳統連鎖商場經營模式，商場嚴選了很多不同特色的商戶進駐；如[蘭芳園](../Page/蘭芳園.md "wikilink")、JFT、札菲庫日本創意生活店、明樂屋、板長壽司同系自家烏冬（首店）和岡崎珈琲等，絕非一般商場可以囊括。
 
@@ -71,7 +71,7 @@ Mall。[周大福企業購入後](../Page/周大福企業.md "wikilink")，改�
 
 商場內亦有周大福旗下的鐘錶、珠寶店。
 
-2012年，[周大福企業以](../Page/周大福企業.md "wikilink")6.6億元出售活方商場。\[1\]
+2012年，[周大福企業以](https://zh.wikipedia.org/wiki/周大福企業 "wikilink")6.6億元出售活方商場。\[1\]
 
 商場改建為WK廣場後，除蘭芳園外其餘店舖已遷出。
 

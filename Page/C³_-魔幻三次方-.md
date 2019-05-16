@@ -607,7 +607,7 @@
 <td><p>黑川智之</p></td>
 <td><p>平田豐</p></td>
 <td><p>渡邊亞彩美</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中島有華" title="wikilink">中島有華</a></p></td>
+<td><p><a href="../Page/中島有華.md" title="wikilink">中島有華</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -781,7 +781,7 @@
 其他话需收费观看。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO频道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO频道</a></p></td>
 <td><p>星期二 24時30分 更新</p></td>
 <td></td>
 <td></td>

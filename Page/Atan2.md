@@ -2,7 +2,7 @@
 
 在几何意义上，\(\operatorname{atan2}(y,x)\)等价于\(\operatorname{atan2}(\frac{y}{x})\)，但\(\operatorname{atan2}\)的最大优势是可以正确处理\(x=0\)而\(y\neq 0\)的情况，而不必进行会引发[除零异常的](../Page/除以零.md "wikilink")\(\frac{y}{x}\)操作。
 
-\(\operatorname{atan2}\)函数最初在计算机编程语言中被引入，但是现在它的应用在科学和工程等其他多个领域十分常见。他的出现最早可以追溯到[FORTRAN语言](../Page/FORTRAN.md "wikilink")\[1\]，并且可以在[C语言的数学标准库的math](https://zh.wikipedia.org/wiki/C语言 "wikilink").h文件中找到，此外在[Java数学库](../Page/Java.md "wikilink")、[.NET的System](https://zh.wikipedia.org/wiki/.NET "wikilink").Math（可应用于[C\#](../Page/C♯.md "wikilink")、[VB.NET等语言](https://zh.wikipedia.org/wiki/VB.NET "wikilink")）、[Python的数学模块以及其他地方都可以找到atan](../Page/Python.md "wikilink")2的身影。许多脚本语言，比如[Perl](../Page/Perl.md "wikilink")，也包含了C语言风格的atan2函数<ref>The
+\(\operatorname{atan2}\)函数最初在计算机编程语言中被引入，但是现在它的应用在科学和工程等其他多个领域十分常见。他的出现最早可以追溯到[FORTRAN语言](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")\[1\]，并且可以在[C语言的数学标准库的math](https://zh.wikipedia.org/wiki/C语言 "wikilink").h文件中找到，此外在[Java数学库](../Page/Java.md "wikilink")、[.NET的System](https://zh.wikipedia.org/wiki/.NET "wikilink").Math（可应用于[C\#](../Page/C♯.md "wikilink")、[VB.NET等语言](https://zh.wikipedia.org/wiki/VB.NET "wikilink")）、[Python的数学模块以及其他地方都可以找到atan](../Page/Python.md "wikilink")2的身影。许多脚本语言，比如[Perl](../Page/Perl.md "wikilink")，也包含了C语言风格的atan2函数<ref>The
 [Linux Programmer's
 Manual](https://zh.wikipedia.org/wiki/Linux_API "wikilink")
 [1](http://linux.die.net/man/3/atan2) says:
@@ -22,7 +22,7 @@ Manual](https://zh.wikipedia.org/wiki/Linux_API "wikilink")
 ## 函数定义
 
 基于值域为 \(\left ( -\frac{\pi}{2}, \frac{\pi}{2} \right )\)
-的[反正切函数](https://zh.wikipedia.org/wiki/反正切 "wikilink")，该函数定义如下：
+的[反正切函数](../Page/反正切.md "wikilink")，该函数定义如下：
 
 \[\operatorname{atan2}(y, x) = \begin{cases}
 \arctan\left(\frac y x\right) & \qquad x > 0 \\

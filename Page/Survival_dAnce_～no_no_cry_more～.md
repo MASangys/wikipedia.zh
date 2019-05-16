@@ -1,17 +1,17 @@
 《**survival dAnce ～no no cry
-more～**》，是[日本歌舞組合](../Page/日本.md "wikilink")[trf的第](../Page/TRF.md "wikilink")6張[單曲和代表作之一](../Page/單曲.md "wikilink")。1994年5月25日發行。
+more～**》，是[日本歌舞組合](../Page/日本.md "wikilink")[trf的第](../Page/TRF.md "wikilink")6張[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1994年5月25日發行。
 
 ## 簡介
 
-[TRF首張初登場就獲得](../Page/TRF.md "wikilink")[Oricon公信榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品](../Page/單曲.md "wikilink")。
+[TRF首張初登場就獲得](../Page/TRF.md "wikilink")[Oricon公信榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 被用作[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](../Page/日本電視台.md "wikilink")《[熱力十七歲](../Page/熱力十七歲.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。2007年被用作富士電視台的綜藝節目《》的結束音樂。
 
 第一張銷量超過百萬的單曲，總銷量高達137.6萬張\[1\]，是1994年度日本單曲銷量的第7位\[2\]。
 
-後來由旅日[韓國女歌手](../Page/韓國.md "wikilink")[BoA翻唱](../Page/BoA.md "wikilink")，曲目標記為「survival
+後來由旅日[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BoA翻唱](https://zh.wikipedia.org/wiki/BoA "wikilink")，曲目標記為「survival
 dAnce ～no no cry more～ -meets
-BoA-」，收錄於TRF的專輯《[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")》中。
+BoA-」，收錄於TRF的專輯《[Lif-e-Motions](https://zh.wikipedia.org/wiki/Lif-e-Motions "wikilink")》中。
 
 2006年11月29日，廉價版的12cmCD單曲發售。
 

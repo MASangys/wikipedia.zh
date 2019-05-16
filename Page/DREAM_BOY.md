@@ -136,9 +136,9 @@ Hall上演。3月8日夜場為本劇第200場公演。
     Kids](https://zh.wikipedia.org/wiki/Johnny's_Jr.解散グループ_\(2000年以降\)#TOP_Kids "wikilink")・[Hey\!
     Say\! 7
     West](https://zh.wikipedia.org/wiki/7_WEST "wikilink"),現在為[Johnny's
-    WEST](https://zh.wikipedia.org/wiki/Johnny's_WEST "wikilink")）
+    WEST](../Page/Johnny's_WEST.md "wikilink")）
   - [濱田崇裕](https://zh.wikipedia.org/wiki/濱田崇裕 "wikilink")（当時BOYS,現在為[Johnny's
-    WEST](https://zh.wikipedia.org/wiki/Johnny's_WEST "wikilink")）
+    WEST](../Page/Johnny's_WEST.md "wikilink")）
   - [千崎涼太](https://zh.wikipedia.org/wiki/千崎涼太 "wikilink")（当時[OSSaN](https://zh.wikipedia.org/wiki/Johnny's_Jr.解散グループ_\(2000年以降\)#OSSAN "wikilink")）
   - [関西\* Johnny's
     Jr.](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink")

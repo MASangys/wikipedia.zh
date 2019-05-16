@@ -1,11 +1,11 @@
-《**La☆BlueGirl**》是[日本淫獸始祖](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")的[成人漫畫作品](../Page/成人漫畫.md "wikilink")\[1\]，為1990年代[觸手](../Page/觸手.md "wikilink")[淫獸的代表性作品](../Page/淫獸.md "wikilink")，後來發售[成人動畫系列並開始用](../Page/成人動畫.md "wikilink")《**淫獸學園**》（）的名稱\[2\]及真人版本電影等。
+《**La☆BlueGirl**》是[日本淫獸始祖](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")的[成人漫畫作品](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")\[1\]，為1990年代[觸手](../Page/觸手.md "wikilink")[淫獸的代表性作品](https://zh.wikipedia.org/wiki/淫獸 "wikilink")，後來發售[成人動畫系列並開始用](../Page/成人動畫.md "wikilink")《**淫獸學園**》（）的名稱\[2\]及真人版本電影等。
 
 ## 角色
 
   - 美童巫女（[CV](../Page/聲優.md "wikilink")：[阿久津マリ](../Page/南央美.md "wikilink")）（EX为止）
     女主角。
-  - ニン忍（CV：[勝家和彌](../Page/勝家和彌.md "wikilink"))
-    夜久（CV：[浅倉舞](../Page/浅倉舞.md "wikilink")（3、4卷）、[尾崎聖子](../Page/尾崎聖子.md "wikilink")（EX开始））
+  - ニン忍（CV：[勝家和彌](https://zh.wikipedia.org/wiki/勝家和彌 "wikilink"))
+    夜久（CV：[浅倉舞](https://zh.wikipedia.org/wiki/浅倉舞 "wikilink")（3、4卷）、[尾崎聖子](https://zh.wikipedia.org/wiki/尾崎聖子 "wikilink")（EX开始））
     甲斐吹雪（CV：八神恭子)
     美童みゆ（CV：[朝岡實嶺](../Page/朝岡實嶺.md "wikilink")）（1、2卷）
     青鬼魔／色魔大王（CV：山川浩二）
@@ -40,7 +40,8 @@
 
 1.  [La Blue Girl
     (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=2433)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [La Blue Girl
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=473)Anime
     News Network

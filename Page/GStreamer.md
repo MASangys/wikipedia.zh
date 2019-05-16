@@ -1,7 +1,7 @@
 **GStreamer**
-是一个基于[流水线的](../Page/流水线_\(计算机\).md "wikilink")[多媒体框架](../Page/多媒体框架.md "wikilink")，基于[GObject](../Page/GObject.md "wikilink")，以[C语言写成](../Page/C语言.md "wikilink")。
+是一个基于[流水线的](../Page/流水线_\(计算机\).md "wikilink")[多媒体框架](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")，基于[GObject](../Page/GObject.md "wikilink")，以[C语言写成](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
-凭借GStreamer，程序员可以很容易地创建各种多媒体功能组件，包括简单的[音频](../Page/音频.md "wikilink")[回放](../Page/回放.md "wikilink")，音频和[视频播放](../Page/视频.md "wikilink"),[录音](../Page/录音.md "wikilink")，[流媒体和音频编辑](../Page/流媒体.md "wikilink")。基于流水线设计，可以创建诸如[视频编辑器](../Page/视频编辑器.md "wikilink")、流媒体广播和[媒体播放器等等的很多多媒体应用](../Page/媒体播放器.md "wikilink")。
+凭借GStreamer，程序员可以很容易地创建各种多媒体功能组件，包括简单的[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")[回放](https://zh.wikipedia.org/wiki/回放 "wikilink")，音频和[视频播放](../Page/视频.md "wikilink"),[录音](https://zh.wikipedia.org/wiki/录音 "wikilink")，[流媒体和音频编辑](../Page/流媒体.md "wikilink")。基于流水线设计，可以创建诸如[视频编辑器](https://zh.wikipedia.org/wiki/视频编辑器 "wikilink")、流媒体广播和[媒体播放器等等的很多多媒体应用](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。
 
 ## 發展歷史
 
@@ -17,9 +17,9 @@ GStreamer的進展並未受影響。2001年7月發表了0.2.0的版本，2002年
 GStreamer日後在商業上取得巨大成功有許多不同的公司採用（諾基亞、摩托羅拉、德州儀器、
 飛思卡爾、英特爾等等），並已成為一個非常強大的跨平台多媒體框架。
 
-其[跨平台设计](../Page/跨平台.md "wikilink")，使其能够在[Linux](../Page/Linux.md "wikilink")（包括[x86](../Page/x86.md "wikilink")，[PowerPC和](../Page/PowerPC.md "wikilink")[ARM架构](../Page/ARM.md "wikilink")），[Solaris](../Page/Solaris.md "wikilink")（Intel和[SPARC](../Page/SPARC.md "wikilink")）以及[OpenSolaris](../Page/OpenSolaris.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[OpenBSD](../Page/OpenBSD.md "wikilink")，[NetBSD](../Page/NetBSD.md "wikilink")，[Mac
-OS X](../Page/Mac_OS_X.md "wikilink")，[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[OS/400上运行](../Page/OS/400.md "wikilink")。GStreame也有针对其他语言的[绑定如](../Page/绑扎.md "wikilink")[Python](../Page/Python.md "wikilink")，[Vala](../Page/Vala.md "wikilink")，[C++](../Page/C++.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[GNU
+其[跨平台设计](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，使其能够在[Linux](../Page/Linux.md "wikilink")（包括[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")，[PowerPC和](../Page/PowerPC.md "wikilink")[ARM架构](https://zh.wikipedia.org/wiki/ARM "wikilink")），[Solaris](../Page/Solaris.md "wikilink")（Intel和[SPARC](../Page/SPARC.md "wikilink")）以及[OpenSolaris](../Page/OpenSolaris.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[OpenBSD](../Page/OpenBSD.md "wikilink")，[NetBSD](../Page/NetBSD.md "wikilink")，[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Microsoft
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS/400上运行](https://zh.wikipedia.org/wiki/OS/400 "wikilink")。GStreame也有针对其他语言的[绑定如](https://zh.wikipedia.org/wiki/绑扎 "wikilink")[Python](../Page/Python.md "wikilink")，[Vala](../Page/Vala.md "wikilink")，[C++](../Page/C++.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[GNU
 Guile和](../Page/GNU_Guile.md "wikilink")[Ruby](../Page/Ruby.md "wikilink")。GStreamer依据[GNU宽通用公共许可证授权](../Page/GNU宽通用公共许可证.md "wikilink")。\[1\]
 
 ## 技術概述
@@ -47,8 +47,9 @@ element的时候，不能使用全局变量，要把这些变量全部放到该e
 Plug-ins 如果有需要的話,
 可以半自動的載入。GStreamer並沒有嚴格規定輸入端和輸出端的數目，事實上它們都可以是一個或者多個。所有的元件都從NULL狀態開始，依次經歷NULL、READY、PAUSED、PLAYING等狀態間的轉換。正處於播放狀態的管道能夠隨時切換到PAUSED狀態。
 
-0.9版以後的插件可被區分成三種類 (來自電影*[黄金三镖客](../Page/黄金三镖客.md "wikilink")*"The Good,
-the Bad and the Ugly"的名字)
+0.9版以後的插件可被區分成三種類
+(來自電影*[黄金三镖客](https://zh.wikipedia.org/wiki/黄金三镖客 "wikilink")*"The
+Good, the Bad and the Ugly"的名字)
 
 | 插件集合的名稱 | 描述                                                                                                                                       |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -61,16 +62,16 @@ the Bad and the Ugly"的名字)
 ## 另见
 
   - [Phonon](../Page/Phonon_\(KDE\).md "wikilink")
-  - [VLC](../Page/VLC.md "wikilink")
-  - [Xine](../Page/Xine.md "wikilink")
+  - [VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")
+  - [Xine](https://zh.wikipedia.org/wiki/Xine "wikilink")
   - [MPlayer](../Page/MPlayer.md "wikilink")
 
 ## 外部链接
 
   - [GStreamer主页](http://gstreamer.freedesktop.org/)
   - [GStreamer介绍](http://www-128.ibm.com/developerworks/aix/library/au-gstreamer.html?ca=dgr-lnxw07GStreamer)（英文）
-  - [GStreamer](http://www.ohloh.net/projects/3475?p=GStreamer)在[Ohloh网站](../Page/Ohloh.md "wikilink")
-  - [\#gstreamer](irc://irc.freenode.net/gstreamer)在[freenode的讨论组](../Page/freenode.md "wikilink")
+  - [GStreamer](http://www.ohloh.net/projects/3475?p=GStreamer)在[Ohloh网站](https://zh.wikipedia.org/wiki/Ohloh "wikilink")
+  - [\#gstreamer](irc://irc.freenode.net/gstreamer)在[freenode的讨论组](https://zh.wikipedia.org/wiki/freenode "wikilink")
   - [GStreamer](http://gstreamer.freedesktop.org/modules/gst-ffmpeg.html)的[FFmpeg插件网站](../Page/FFmpeg.md "wikilink")
   - [Windows 二进制安装包](http://code.google.com/p/ossbuild/)
   - [Mac OS X

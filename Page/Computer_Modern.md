@@ -6,9 +6,9 @@ Modern或其变体在科学出版中，尤其在经常使用[數學符號的学�
 ## 设计
 
 正如这个名字所暗示的，Computer
-Modern是一种“[现代](../Page/Didone_\(typography\).md "wikilink")”[衬线字体](../Page/衬线体.md "wikilink")，是18世纪末期出现的一种类型，与之前的更不规则的设计形成鲜明对比。现代或“[Didone](../Page/Didone_\(typography\).md "wikilink")”，字体在粗细元素之间具有较高的对比度，其“强调”或加粗的轴线完全垂直。具体来说，Computer
+Modern是一种“[现代](https://zh.wikipedia.org/wiki/Didone_\(typography\) "wikilink")”[衬线字体](../Page/衬线体.md "wikilink")，是18世纪末期出现的一种类型，与之前的更不规则的设计形成鲜明对比。现代或“[Didone](https://zh.wikipedia.org/wiki/Didone_\(typography\) "wikilink")”，字体在粗细元素之间具有较高的对比度，其“强调”或加粗的轴线完全垂直。具体来说，Computer
 Modern是基于[Monotype](../Page/蒙納公司.md "wikilink") Modern
-8a，就像它的直接模型，它的[X字高相对于](../Page/X字高.md "wikilink")[升部和](../Page/升部.md "wikilink")[降部的长度来说是较大的](../Page/降部.md "wikilink")。在[Times
+8a，就像它的直接模型，它的[X字高相对于](https://zh.wikipedia.org/wiki/X字高 "wikilink")[升部和](https://zh.wikipedia.org/wiki/升部 "wikilink")[降部的长度来说是较大的](https://zh.wikipedia.org/wiki/降部 "wikilink")。在[Times
 New
 Roman字体出现之前](../Page/Times_New_Roman.md "wikilink")，数学排版中广泛使用Monotype
 Modern字体，而在20世纪50年代后，出版商就开始用Times New Roman进行排版了。\[2\]\[3\]\[4\]
@@ -26,7 +26,7 @@ Knuth使用[Metafont生成了他原始的Computer](../Page/METAFONT.md "wikilink
 Modern字体，该程序读取基于笔画的字形定义，并将直接可以使用的字体输出为位图图像文件。
 
 出版技术的进步（PostScript、PDF、激光打印机）减少了对位图字体的需求。现在首选格式是轮廓字体，如[Type
-1](../Page/Type_1_font.md "wikilink")、[TrueType或](../Page/TrueType.md "wikilink")[OpenType](../Page/OpenType.md "wikilink")，可以以任意分辨率高效渲染，并使用打印机固件或屏幕文档查看器的复杂抗锯齿技术。于是，多个其他项目把Computer
+1](https://zh.wikipedia.org/wiki/Type_1_font "wikilink")、[TrueType或](../Page/TrueType.md "wikilink")[OpenType](../Page/OpenType.md "wikilink")，可以以任意分辨率高效渲染，并使用打印机固件或屏幕文档查看器的复杂抗锯齿技术。于是，多个其他项目把Computer
 Modern字体移植到了这些格式。一些项目还在Computer Modern上加入了
 
   - 附加字符（欧元、重音字符、西里尔和希腊字母手写体）
@@ -34,7 +34,7 @@ Modern字体移植到了这些格式。一些项目还在Computer Modern上加�
   - 额外的字体样式
 
 现在，这些衍生字体已得到广泛应用，并包含在现代TeX发行版[TeX
-Live中](../Page/TeX_Live.md "wikilink")。
+Live中](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")。
 
 目前，以通用的[OpenType格式发布的Computer](../Page/OpenType.md "wikilink")
 Modern字类—— CMU发行版（下方有链接）包括：
@@ -46,7 +46,8 @@ Modern字类—— CMU发行版（下方有链接）包括：
       - CMU Serif roman与bold
         slanted，两种[伪斜体风格](../Page/伪斜体.md "wikilink")
       - CMU Classical Serif，略微简单的[衬线设计的斜体设计](../Page/衬线体.md "wikilink")
-  - [Concrete Roman](../Page/Concrete_Roman.md "wikilink"),
+  - [Concrete
+    Roman](https://zh.wikipedia.org/wiki/Concrete_Roman "wikilink"),
     包括四种标准风格的一种[粗衬线字体](../Page/粗衬线体.md "wikilink")
   - CMU Typewriter，一种打印机风格的粗衬线字体
   - CMU Sans Serif，一个补充的[无衬线字体](../Page/无衬线体.md "wikilink")，还有CMU
@@ -56,17 +57,17 @@ Modern字类—— CMU发行版（下方有链接）包括：
 ### BlueSky
 
 Computer Modern在1988年被BlueSky公司首次转换为PostScript [Type
-3字体格式](../Page/PostScript_fonts.md "wikilink")，然后在1992年转换为Type
-1，以包含[字体微调](../Page/字体微调.md "wikilink")。\[7\] 此后，Type
+3字体格式](https://zh.wikipedia.org/wiki/PostScript_fonts "wikilink")，然后在1992年转换为Type
+1，以包含[字体微调](https://zh.wikipedia.org/wiki/字体微调 "wikilink")。\[7\] 此后，Type
 1版本已捐赠给[美國數學學會](../Page/美國數學學會.md "wikilink")（AMS），根据开放字体许可证自由分发。\[8\]
 在大多数标准TeX发行版中都有。
 
 ### Latin Modern
 
 由Bogusław Jackowski和Janusz M. Nowacki维护的Latin
-Modern实现，现在是[TeX社区的标准](../Page/TeX.md "wikilink")，它是用[Metafont](../Page/METAFONT.md "wikilink")/[MetaPost的派生版本](../Page/MetaPost.md "wikilink")[METATYPE1制作的](../Page/METATYPE1.md "wikilink")。该字体从BlueSky
+Modern实现，现在是[TeX社区的标准](../Page/TeX.md "wikilink")，它是用[Metafont](../Page/METAFONT.md "wikilink")/[MetaPost的派生版本](../Page/MetaPost.md "wikilink")[METATYPE1制作的](https://zh.wikipedia.org/wiki/METATYPE1 "wikilink")。该字体从BlueSky
 Type 1字体派生，基于METATYPE1程序转回轮廓，并开发了扩展的Type1和OpenType Latin
-Modern字体。[ConTeXt使用Latin](../Page/ConTeXt.md "wikilink")
+Modern字体。[ConTeXt使用Latin](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")
 Modern作为默认字体，而不是Computer Modern 。\[9\]
 
 Latin Modern字体制作中涉及到的Type 1到METATYPE1到Type
@@ -74,7 +75,7 @@ Latin Modern字体制作中涉及到的Type 1到METATYPE1到Type
 Modern的屏幕显示会比BlueSky字体，在字距调整和字符高度上更不均匀。\[10\]
 
 综合项目[TeX
-Gyre以同样的过程制作了一些自由PostScript字体克隆](../Page/TeX_Gyre.md "wikilink")。\[11\]
+Gyre以同样的过程制作了一些自由PostScript字体克隆](https://zh.wikipedia.org/wiki/TeX_Gyre "wikilink")。\[11\]
 
 Latin
 Modern字体也获得了[OpenType数学字符表](../Page/OpenType.md "wikilink")。\[12\]\[13\]
@@ -82,7 +83,7 @@ Modern字体也获得了[OpenType数学字符表](../Page/OpenType.md "wikilink"
 ### 其他
 
   - EC字体 – 看起来很像Computer
-    Modern，不过指标上略有不同。这些是第一个使用“[Cork编码](../Page/Cork_encoding.md "wikilink")”（LaTeX也称为T1编码）的TeX字体，它为西欧语言提供了预设的字形。原始EC字体只有Metafont生成的位图。
+    Modern，不过指标上略有不同。这些是第一个使用“[Cork编码](https://zh.wikipedia.org/wiki/Cork_encoding "wikilink")”（LaTeX也称为T1编码）的TeX字体，它为西欧语言提供了预设的字形。原始EC字体只有Metafont生成的位图。
   - TC字体 – 提供了许多通常用于文本的附加符号的TeX Companion字体。
   - BaKoMa字体 – 另一个由Basil K. Malyshev自动生成的Computer Modern的Type1版本。
   - CM-super\[14\] – Computer Modern的一个非常大的扩展，可用于各种编码。这些字体自动从Computer
@@ -95,8 +96,8 @@ Modern字体也获得了[OpenType数学字符表](../Page/OpenType.md "wikilink"
   - ，创建与[Times New
     Roman兼容的数学字体的项目](../Page/Times_New_Roman.md "wikilink")。在[SIL开源字体授权下开源](../Page/SIL开源字体授权.md "wikilink")。
 
-  - [Surveyor](../Page/Surveyor_\(typeface\).md "wikilink")，[Tobias
-    Frere-Jones开发的一种通用商业字体](../Page/Tobias_Frere-Jones.md "wikilink")。与Computer
+  - [Surveyor](https://zh.wikipedia.org/wiki/Surveyor_\(typeface\) "wikilink")，[Tobias
+    Frere-Jones开发的一种通用商业字体](https://zh.wikipedia.org/wiki/Tobias_Frere-Jones "wikilink")。与Computer
     Modern Serif风格相同，但样式、字重和[字型更为广泛](../Page/字型.md "wikilink")。\[16\]
 
 ## 参考文献

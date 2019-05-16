@@ -3,7 +3,7 @@ Pöml于2006年开始开发并于2007年开发完成。是一个用[C语言写�
 
 ## 应用
 
-MirrorBrain被[openSUSE项目率先使用](../Page/openSUSE.md "wikilink")，目前的使用者或组织包括
+MirrorBrain被[openSUSE项目率先使用](https://zh.wikipedia.org/wiki/openSUSE "wikilink")，目前的使用者或组织包括
 [OpenOffice.org](../Page/OpenOffice.org.md "wikilink")
 \[1\]，[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
 \[2\]，[Sugar

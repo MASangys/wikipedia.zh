@@ -26,34 +26,34 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 
 ### 電視劇
 
-|                                          |                                                    |                                                          |                                  |       |       |    |
-| ---------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | -------------------------------- | ----- | ----- | -- |
-| 年份                                       | 電視台                                                | 劇名                                                       | 參演成員                             | 角色    | 性質    | 集數 |
-| 2010年                                    | [富士電視台](../Page/富士電視台.md "wikilink")               | 無法坦誠相對                                                   | [金在中](../Page/金在中.md "wikilink") | 朴成洙   | 男配角   | 全集 |
-| [BeeTV](../Page/BeeTV.md "wikilink")     | Beautiful Love\~如果有你在                              | [朴有天](../Page/朴有天.md "wikilink")                         | 英秀                               | 男主角   |       |    |
-| [KBS](../Page/韓國放送公社.md "wikilink")      | [成均館緋聞](../Page/成均館緋聞.md "wikilink")               | 李先埈                                                      |                                  |       |       |    |
-| 2011年                                    | [SBS](../Page/SBS_\(韓國\).md "wikilink")            | [守護老闆](../Page/守護老闆.md "wikilink")                       | [金在中](../Page/金在中.md "wikilink") | 車武元   | 第二男主角 |    |
-| [女人的香氣](../Page/女人的香氣.md "wikilink")     | [金俊秀](../Page/金俊秀.md "wikilink")                   | 金俊秀                                                      | 客串                               | 第5集   |       |    |
-| [MBC](../Page/文化廣播_\(韓國\).md "wikilink") | [Miss Ripley](../Page/Miss_Ripley.md "wikilink")   | [朴有天](../Page/朴有天.md "wikilink")                         | 宋有鉉                              | 男主角   | 全集    |    |
-| 2012年                                    | SBS                                                | [屋塔房王世子](../Page/屋塔房王世子.md "wikilink")                   | 李恪/龍泰瑢                           |       |       |    |
-| MBC                                      | [Dr. JIN](../Page/Dr._JIN.md "wikilink")           | [金在中](../Page/金在中.md "wikilink")                         | 金景卓                              | 第二男主角 |       |    |
-| [想你](../Page/想你.md "wikilink")           | [朴有天](../Page/朴有天.md "wikilink")                   | 韓正宇                                                      | 男主角                              |       |       |    |
-| 2014年                                    | SBS                                                | [Three Days](../Page/Three_Days.md "wikilink")           | 韓泰京                              |       |       |    |
-| MBC                                      | [Triangle](../Page/Triangle_\(電視劇\).md "wikilink") | [金在中](../Page/金在中.md "wikilink")                         | 许英达／張東澈                          |       |       |    |
-| 2015年                                    | KBS                                                | [SPY](../Page/SPY.md "wikilink")                         | 金善宇                              |       |       |    |
-| SBS                                      | [看見味道的少女](../Page/看見味道的少女.md "wikilink")           | [朴有天](../Page/朴有天.md "wikilink")                         | 崔武閣                              |       |       |    |
-| 2017年                                    | KBS                                                | [Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink") | [金在中](../Page/金在中.md "wikilink") | 奉弼    |       |    |
+|                                                             |                                                                       |                                                                             |                                  |       |       |    |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------- | ----- | ----- | -- |
+| 年份                                                          | 電視台                                                                   | 劇名                                                                          | 參演成員                             | 角色    | 性質    | 集數 |
+| 2010年                                                       | [富士電視台](../Page/富士電視台.md "wikilink")                                  | 無法坦誠相對                                                                      | [金在中](../Page/金在中.md "wikilink") | 朴成洙   | 男配角   | 全集 |
+| [BeeTV](../Page/BeeTV.md "wikilink")                        | Beautiful Love\~如果有你在                                                 | [朴有天](../Page/朴有天.md "wikilink")                                            | 英秀                               | 男主角   |       |    |
+| [KBS](../Page/韓國放送公社.md "wikilink")                         | [成均館緋聞](../Page/成均館緋聞.md "wikilink")                                  | 李先埈                                                                         |                                  |       |       |    |
+| 2011年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | [守護老闆](../Page/守護老闆.md "wikilink")                                          | [金在中](../Page/金在中.md "wikilink") | 車武元   | 第二男主角 |    |
+| [女人的香氣](../Page/女人的香氣.md "wikilink")                        | [金俊秀](../Page/金俊秀.md "wikilink")                                      | 金俊秀                                                                         | 客串                               | 第5集   |       |    |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Miss Ripley](../Page/Miss_Ripley.md "wikilink")                      | [朴有天](../Page/朴有天.md "wikilink")                                            | 宋有鉉                              | 男主角   | 全集    |    |
+| 2012年                                                       | SBS                                                                   | [屋塔房王世子](../Page/屋塔房王世子.md "wikilink")                                      | 李恪/龍泰瑢                           |       |       |    |
+| MBC                                                         | [Dr. JIN](../Page/Dr._JIN.md "wikilink")                              | [金在中](../Page/金在中.md "wikilink")                                            | 金景卓                              | 第二男主角 |       |    |
+| [想你](../Page/想你.md "wikilink")                              | [朴有天](../Page/朴有天.md "wikilink")                                      | 韓正宇                                                                         | 男主角                              |       |       |    |
+| 2014年                                                       | SBS                                                                   | [Three Days](../Page/Three_Days.md "wikilink")                              | 韓泰京                              |       |       |    |
+| MBC                                                         | [Triangle](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink") | [金在中](../Page/金在中.md "wikilink")                                            | 许英达／張東澈                          |       |       |    |
+| 2015年                                                       | KBS                                                                   | [SPY](../Page/SPY.md "wikilink")                                            | 金善宇                              |       |       |    |
+| SBS                                                         | [看見味道的少女](../Page/看見味道的少女.md "wikilink")                              | [朴有天](../Page/朴有天.md "wikilink")                                            | 崔武閣                              |       |       |    |
+| 2017年                                                       | KBS                                                                   | [Manhole：夢遊仙境的奉弼](https://zh.wikipedia.org/wiki/Manhole：夢遊仙境的奉弼 "wikilink") | [金在中](../Page/金在中.md "wikilink") | 奉弼    |       |    |
 
 ### 電影
 
-|       |                                                  |                                  |     |    |
-| ----- | ------------------------------------------------ | -------------------------------- | --- | -- |
-| 年份    | 劇名                                               | 參演成員                             | 角色  | 備註 |
-| 2009年 | [天國的郵遞員](../Page/天國的郵遞員.md "wikilink")           | [金在中](../Page/金在中.md "wikilink") | 申在俊 |    |
-| 2012年 | [胡狼來了](../Page/胡狼來了.md "wikilink")               | 崔賢                               |     |    |
-| 2014年 | [海霧](../Page/海霧_\(電影\).md "wikilink")            | [朴有天](../Page/朴有天.md "wikilink") | 朱東植 |    |
-| 2017年 | [Lucid Dream](../Page/Lucid_Dream.md "wikilink") | 權龍賢                              |     |    |
-|       |                                                  |                                  |     |    |
+|       |                                                                     |                                  |     |    |
+| ----- | ------------------------------------------------------------------- | -------------------------------- | --- | -- |
+| 年份    | 劇名                                                                  | 參演成員                             | 角色  | 備註 |
+| 2009年 | [天國的郵遞員](../Page/天國的郵遞員.md "wikilink")                              | [金在中](../Page/金在中.md "wikilink") | 申在俊 |    |
+| 2012年 | [胡狼來了](https://zh.wikipedia.org/wiki/胡狼來了 "wikilink")               | 崔賢                               |     |    |
+| 2014年 | [海霧](../Page/海霧_\(電影\).md "wikilink")                               | [朴有天](../Page/朴有天.md "wikilink") | 朱東植 |    |
+| 2017年 | [Lucid Dream](https://zh.wikipedia.org/wiki/Lucid_Dream "wikilink") | 權龍賢                              |     |    |
+|       |                                                                     |                                  |     |    |
 
 ## 音樂作品
 
@@ -245,7 +245,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/成均館緋聞.md" title="wikilink">成均館緋聞</a></strong>》</p>
 <ul>
 <li>發行日期：2011年2月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -255,27 +255,27 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/Miss_Ripley.md" title="wikilink">Miss Ripley</a></strong>》</p>
 <ul>
 <li>發行日期：2011年7月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>電視劇《<strong><a href="../Page/女人的香气.md" title="wikilink">女人的香气</a></strong>》</p>
+<td><p>電視劇《<strong><a href="https://zh.wikipedia.org/wiki/女人的香气" title="wikilink">女人的香气</a></strong>》</p>
 <ul>
 <li>發行日期：2011年7月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>電視劇《<strong><a href="../Page/守护BOSS.md" title="wikilink">守护BOSS</a></strong>》</p>
+<td><p>電視劇《<strong><a href="https://zh.wikipedia.org/wiki/守护BOSS" title="wikilink">守护BOSS</a></strong>》</p>
 <ul>
 <li>發行日期：2011年7月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -285,7 +285,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/屋塔房王世子.md" title="wikilink">屋塔房王世子</a></strong>》</p>
 <ul>
 <li>發行日期：2012年4月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -295,7 +295,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/Dr._JIN.md" title="wikilink">Dr. JIN</a></strong>》</p>
 <ul>
 <li>發行日期：2012年5月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -305,17 +305,17 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/世上哪裡都找不到的善良男人.md" title="wikilink">世上哪裡都找不到的善良男人</a></strong>》</p>
 <ul>
 <li>發行日期：2012年9月26日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>8th</strong></p></td>
-<td><p>電影《<strong><a href="../Page/胡狼來了.md" title="wikilink">胡狼來了</a></strong>》</p>
+<td><p>電影《<strong><a href="https://zh.wikipedia.org/wiki/胡狼來了" title="wikilink">胡狼來了</a></strong>》</p>
 <ul>
 <li>發行日期：2012年11月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -325,7 +325,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/天命：朝鮮版逃亡者故事.md" title="wikilink">天命：朝鮮版逃亡者故事</a></strong>》</p>
 <ul>
 <li>發行日期：2013年5月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -335,17 +335,17 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/奇皇后.md" title="wikilink">奇皇后</a></strong>》</p>
 <ul>
 <li>發行日期：2013年12月10日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>11th</strong></p></td>
-<td><p>電視劇《<strong><a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a></strong>》</p>
+<td><p>電視劇《<strong><a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a></strong>》</p>
 <ul>
 <li>發行日期：2014年6月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -355,27 +355,27 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>音樂劇《<strong><a href="../Page/德古拉.md" title="wikilink">德古拉</a></strong>》</p>
 <ul>
 <li>發行日期：2014年7月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>13th</strong></p></td>
-<td><p>電視劇《<strong><a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a></strong>》</p>
+<td><p>電視劇《<strong><a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a></strong>》</p>
 <ul>
 <li>發行日期：2014年7月21日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>14th</strong></p></td>
-<td><p>電視劇《<strong><a href="../Page/Mr.Back.md" title="wikilink">Mr.Back</a></strong>》</p>
+<td><p>電視劇《<strong><a href="https://zh.wikipedia.org/wiki/Mr.Back" title="wikilink">Mr.Back</a></strong>》</p>
 <ul>
 <li>發行日期：2014年11月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -385,7 +385,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>電視劇《<strong><a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a></strong>》</p>
 <ul>
 <li>發行日期：2015年11月11日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：未以JYJ名義</li>
 </ul></td>
 <td></td>
@@ -635,7 +635,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <li>Channel [V] Thailand Award－亞洲最受歡迎藝人獎</li>
 <li>印尼Korean Updates Awards－特等獎、最佳男團體獎、年度最佳歌曲獎《In Heaven》、年度最佳專輯獎《In Heaven》、年度最佳舞蹈獎《Get Out》</li>
 <li>第1屆So-Love Award－最佳男子團體獎、最佳專輯獎、最佳音樂錄影帶獎</li>
-<li><a href="../Page/KBS.md" title="wikilink">KBS</a> Idol star部門-最高偶像藝人賞</li>
+<li><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> Idol star部門-最高偶像藝人賞</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -663,7 +663,7 @@ C-jes娛樂2014年2月16日在官方網站上表示“C-jes（JYJ）與[Avex就�
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JUST_US_(JYJ專輯).md" title="wikilink">JUST US</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JUST_US_(JYJ專輯)" title="wikilink">JUST US</a></p></td>
 </tr>
 <tr class="even">
 <td><p>So So</p></td>

@@ -1,5 +1,5 @@
 **Not
-yet**（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](../Page/日本偶像.md "wikilink")[AKB48的一個衍生團體](../Page/AKB48.md "wikilink")，成立於2011年1月21日，由[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃與](../Page/指原莉乃.md "wikilink")[橫山由依](../Page/橫山由依.md "wikilink")4人組成，團員所屬的[經紀公司均為](../Page/經紀公司.md "wikilink")[太田製作](../Page/太田製作.md "wikilink")、所屬[唱片公司則為](../Page/唱片公司.md "wikilink")[日本哥伦比亚](../Page/日本哥伦比亚.md "wikilink")。Not
+yet**（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的一個衍生團體](../Page/AKB48.md "wikilink")，成立於2011年1月21日，由[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[指原莉乃與](../Page/指原莉乃.md "wikilink")[橫山由依](../Page/橫山由依.md "wikilink")4人組成，團員所屬的[經紀公司均為](../Page/經紀公司.md "wikilink")[太田製作](../Page/太田製作.md "wikilink")、所屬[唱片公司則為](../Page/唱片公司.md "wikilink")[日本哥伦比亚](https://zh.wikipedia.org/wiki/日本哥伦比亚 "wikilink")。Not
 yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿下4次[Oricon公信榜單曲周榜冠軍與](../Page/Oricon公信榜.md "wikilink")1次專輯周榜冠軍，其中第三張單曲更於首周創下17萬張的銷量佳績，是AKB48眾多子團體中的最高紀錄，而累積的冠軍次數與音樂作品銷量皆是AKB48子團之最。
 
 ## 成員
@@ -21,7 +21,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <td></td>
 <td></td>
 <td><p>B型</p></td>
-<td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a><a href="../Page/下都賀郡.md" title="wikilink">下都賀郡</a><a href="../Page/壬生町.md" title="wikilink">壬生町</a></p></td>
+<td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a><a href="https://zh.wikipedia.org/wiki/下都賀郡" title="wikilink">下都賀郡</a><a href="https://zh.wikipedia.org/wiki/壬生町" title="wikilink">壬生町</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/北原里英.md" title="wikilink">北原里英</a><br />
@@ -37,7 +37,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td></td>
 <td><p>O型</p></td>
-<td><p><a href="../Page/大分縣.md" title="wikilink">大分縣</a><a href="../Page/大分市.md" title="wikilink">大分市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a><a href="../Page/大分市.md" title="wikilink">大分市</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/橫山由依.md" title="wikilink">橫山由依</a><br />
@@ -45,7 +45,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td></td>
 <td><p>B型</p></td>
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/木津川市.md" title="wikilink">木津川市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a><a href="../Page/木津川市.md" title="wikilink">木津川市</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +61,7 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
 
 ### 結成背景
 
-  - 在[TBS電視台的深夜](../Page/TBS電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《》中，擔任[主持人的](../Page/主持人.md "wikilink")[指原莉乃和](../Page/指原莉乃.md "wikilink")[土田晃之的談話中](../Page/土田晃之.md "wikilink")「當初預定成員爲大島、北原、指原3人。但在大島擔任TOP1的時候，擔任TOP2『（做為組合）有點弱……，』因爲這個理由讓橫山加入組合」，由此確認了4人組合。
+  - 在[TBS電視台的深夜](../Page/TBS電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《》中，擔任[主持人的](https://zh.wikipedia.org/wiki/主持人 "wikilink")[指原莉乃和](../Page/指原莉乃.md "wikilink")[土田晃之的談話中](../Page/土田晃之.md "wikilink")「當初預定成員爲大島、北原、指原3人。但在大島擔任TOP1的時候，擔任TOP2『（做為組合）有點弱……，』因爲這個理由讓橫山加入組合」，由此確認了4人組合。
 
 <!-- end list -->
 
@@ -82,7 +82,8 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
     yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災影響而中止](../Page/東日本大震災.md "wikilink")\[9\]。
   - 3月28日，第1張單曲《週末Not
     yet》獲得[Oricon週榜第](../Page/Oricon.md "wikilink")1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[10\]。
-  - 5月14日，於[有明競技場舉行Not](../Page/有明競技場.md "wikilink") yet的首次活動「」\[11\]。
+  - 5月14日，於[有明競技場舉行Not](https://zh.wikipedia.org/wiki/有明競技場 "wikilink")
+    yet的首次活動「」\[11\]。
   - 7月6日，第2張單曲《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》發售。
   - 10月9日，組合首個固定節目《》開始播映，主持為[劇團一人](../Page/劇團一人.md "wikilink")。
   - 11月16日，第3張單曲《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發售，並在首周獲得17萬張的銷量，再次刷新自身所保持的AKB48衍生組合首週單曲銷量的最高記錄。
@@ -109,11 +110,11 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
 
 <!-- end list -->
 
-  - 4月23日，發行出道以來的第一張專輯《[already](../Page/already.md "wikilink")》\[12\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not
-    yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部衍生組合](../Page/小貓俱樂部.md "wikilink")[指指點點組所保持](../Page/指指點點組.md "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[13\]。
+  - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[12\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not
+    yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部衍生組合](../Page/小貓俱樂部.md "wikilink")[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[13\]。
   - 5月10日，於有明競技場舉行「Not yet 1st Album《already》發售紀念SPECIAL LIVE。」
   - 10月15日，發行「Not yet "already" 2014.5.10 1st
-    LIVE」演唱會影音作品，其中[藍光版本在首週拿下](../Page/藍光.md "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](../Page/走廊奔跑隊.md "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[14\]。
+    LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[14\]。
 
 ## 音樂作品
 
@@ -288,7 +289,7 @@ COCA-16764</p></td>
 <td><p>1st</p></td>
 <td><p>2014年4月23日</p></td>
 <td><center>
-<p><strong><a href="../Page/already.md" title="wikilink">already</a></strong></p>
+<p><strong><a href="https://zh.wikipedia.org/wiki/already" title="wikilink">already</a></strong></p>
 </center></td>
 <td><center>
 <p>第1名</p>
@@ -350,11 +351,11 @@ COBA-6703-4</p></td>
 <tr class="odd">
 <td><p>第1張單曲《<a href="../Page/週末Not_yet.md" title="wikilink">週末Not yet</a>》</p></td>
 <td><p><strong>《週末Not yet》</strong></p></td>
-<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
+<td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="https://zh.wikipedia.org/wiki/Dr.伊良部一郎" title="wikilink">Dr.伊良部一郎</a>》主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>《飄飄》</strong></p></td>
-<td><p>CM：<a href="../Page/電報.md" title="wikilink">電報</a>「」</p></td>
+<td><p>CM：<a href="https://zh.wikipedia.org/wiki/電報" title="wikilink">電報</a>「」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -375,7 +376,7 @@ COBA-6703-4</p></td>
 <tr class="even">
 <td><p>第2張單曲《<a href="../Page/破浪刨冰.md" title="wikilink">破浪刨冰</a>》</p></td>
 <td><p><strong>《弗美爾的信》</strong></p></td>
-<td><p>「來自<a href="../Page/楊·維梅爾.md" title="wikilink">弗美爾的情書展</a>」印象歌</p></td>
+<td><p>「來自<a href="https://zh.wikipedia.org/wiki/楊·維梅爾" title="wikilink">弗美爾的情書展</a>」印象歌</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -384,7 +385,7 @@ COBA-6703-4</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>《摯友》</strong></p></td>
-<td><p>電影：《<a href="../Page/復活節兔子的糖果工廠.md" title="wikilink">復活節兔子的糖果工廠</a>》日本語版主題曲</p></td>
+<td><p>電影：《<a href="https://zh.wikipedia.org/wiki/復活節兔子的糖果工廠" title="wikilink">復活節兔子的糖果工廠</a>》日本語版主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -415,7 +416,7 @@ TBS《》結尾曲<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第1張專輯《<a href="../Page/already.md" title="wikilink">already</a>》</p></td>
+<td><p>第1張專輯《<a href="https://zh.wikipedia.org/wiki/already" title="wikilink">already</a>》</p></td>
 <td><p><strong>《我接受來自世界的風》</strong></p></td>
 <td><p>外為online《BUSINESS篇》與《HOLIDAY篇》的廣告曲</p></td>
 </tr>
@@ -426,9 +427,9 @@ TBS《》結尾曲<br />
 
 ### 電視劇
 
-  - [Dr.伊良部一郎](../Page/Dr.伊良部一郎.md "wikilink")
-    第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演
-    本人（Not yet）
+  - [Dr.伊良部一郎](https://zh.wikipedia.org/wiki/Dr.伊良部一郎 "wikilink")
+    第7話（2011年3月20日；[朝日電視台](../Page/朝日電視台.md "wikilink")）：飾演 本人（Not
+    yet）
 
 ### 電視節目
 
@@ -440,7 +441,7 @@ TBS《》結尾曲<br />
 ### 電台
 
   - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")
-    第8集（2011年7月8日・11月25日・2012年1月20日；[NHK-FM](../Page/NHK-FM放送.md "wikilink")）
+    第8集（2011年7月8日・11月25日・2012年1月20日；[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")）
 
 ### 活動
 
@@ -448,7 +449,7 @@ TBS《》結尾曲<br />
     yet》發售記念活動（2011年5月14日；[御台場有明競技場](../Page/御台場.md "wikilink")
     3公演）
   - [a-nation 10th Anniversary for Life Charge ▶ Go\!
-    ウイダーinゼリー](../Page/a-nation.md "wikilink")（2011年8月13日；[名古屋市](../Page/名古屋市.md "wikilink")、野外特設会場）
+    ウイダーinゼリー](https://zh.wikipedia.org/wiki/a-nation "wikilink")（2011年8月13日；[名古屋市](../Page/名古屋市.md "wikilink")、野外特設会場）
   - Not yet 1st Album《already》發售紀念SPECIAL LIVE（2014年5月10日；御台場有明競技場）
 
 ## 備註
@@ -472,7 +473,8 @@ TBS《》結尾曲<br />
 4.
 5.
 6.
-7.  《優子》大島優子個人寫真集.[講談社](../Page/講談社.md "wikilink") 發行日期：2011年6月17日
+7.  《優子》大島優子個人寫真集.[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
+    發行日期：2011年6月17日
 8.  《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》 播出日期：2011年10月27日
 9.
 10.

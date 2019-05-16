@@ -1,8 +1,8 @@
 《**Dream
-High**》（）為[韓國](../Page/韓國.md "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](../Page/KBS月火迷你連續劇.md "wikilink")。
+High**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2011年1月3日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")。
 
-2011年3月1日，即電視劇播畢後的一天在[首爾播出了一個特輯](../Page/首爾.md "wikilink")，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream
-High 2](../Page/Dream_High_2.md "wikilink")}-》播出。
+2011年3月1日，即電視劇播畢後的一天在[首爾播出了一個特輯](https://zh.wikipedia.org/wiki/首爾 "wikilink")，由原劇組演員出演。\[1\]\[2\]2012年1月後續的《-{[Dream
+High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")}-》播出。
 
 ## 故事大綱
 
@@ -44,11 +44,11 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <td><center>
 <p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 <td><center>
-<p><a href="../Page/張裕東.md" title="wikilink">張裕東</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/裴秀智.md" title="wikilink">裴秀智</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
 <td><center>
 <p>高惠美</p></td>
 <td><center>
@@ -59,11 +59,11 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <td><center>
 <p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 <td><center>
-<p><a href="../Page/黃紫嫻.md" title="wikilink">黃紫嫻</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">玉澤演</a></p></td>
 <td><center>
 <p>玄振國<br />
 /玄時赫</p></td>
@@ -92,7 +92,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/張祐榮.md" title="wikilink">張祐榮</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">張祐榮</a></p></td>
 <td><center>
 <p>Jason</p></td>
 <td><center>
@@ -107,7 +107,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/IU_(歌手).md" title="wikilink">IU</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
 <td><center>
 <p>金碧淑</p></td>
 <td><center>
@@ -115,7 +115,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <td><p>樂團主唱。本來是200 磅的肥胖的女學生，擁有豐富歌聲及絕對音感，歌唱實力驚人。但她打破所有人的偏見入學麒麟藝校。</p>
 <p>暗戀每次陷入困難情況時都會出現幫助自己的Jason，跟Jason 表白被拒後, 與Jason 約定以200日內減肥為目標, 成功減肥後令Jason感到驚訝。</p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
 <p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 </tr>
@@ -144,7 +144,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/全亞民.md" title="wikilink">全亞民</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/全亞民" title="wikilink">全亞民</a></p></td>
 <td><center>
 <p>趙仁盛</p></td>
 <td><center>
@@ -152,11 +152,11 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <td><p>振國的朋友。</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/鄭敏珠.md" title="wikilink">JOO</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭敏珠" title="wikilink">JOO</a></p></td>
 <td><center>
 <p>鄭雅京</p></td>
 <td><center>
@@ -169,7 +169,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/韓藝仁.md" title="wikilink">尹英雅</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/韓藝仁" title="wikilink">尹英雅</a></p></td>
 <td><center>
 <p>李莉雅</p></td>
 <td><center>
@@ -181,7 +181,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/韓智厚.md" title="wikilink">韓智厚</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/韓智厚" title="wikilink">韓智厚</a></p></td>
 <td><center>
 <p>朴道俊</p></td>
 <td><center>
@@ -193,7 +193,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/朴鎮尚.md" title="wikilink">朴鎮尚</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴鎮尚" title="wikilink">朴鎮尚</a></p></td>
 <td><center>
 <p>全泰山</p></td>
 <td><center>
@@ -213,7 +213,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <td><p>二年級生。直至中學止一直專攻芭蕾舞，身體相當靈活。出道班學生，組合K成員。</p></td>
 <td></td>
 <td><center>
-<p><a href="../Page/林元春.md" title="wikilink">林元春</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林元春" title="wikilink">林元春</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -272,13 +272,13 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>29</p></td>
 <td><p>施炳修的女兒。一高興就會在頭上戴花的髮飾，喜歡姜武赫老師。</p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
 <p><a href="../Page/黃玉娟.md" title="wikilink">黃玉娟</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/裴勇俊.md" title="wikilink">裴勇俊</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/裴勇俊" title="wikilink">裴勇俊</a></p></td>
 <td><center>
 <p>鄭夏明</p></td>
 <td><center>
@@ -316,7 +316,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/白元吉.md" title="wikilink">白元吉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/白元吉" title="wikilink">白元吉</a></p></td>
 <td><center>
 <p>孔民哲</p></td>
 <td><center>
@@ -371,7 +371,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>39</p></td>
 <td><p>武赫的姊姊。記者。</p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
 <p><a href="../Page/謝潔貞.md" title="wikilink">謝潔貞</a></p></td>
 </tr>
@@ -384,7 +384,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>8</p></td>
 <td><p>惠美的妹妹。</p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
 <p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 </tr>
@@ -397,7 +397,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>49</p></td>
 <td><p>三東的母親。</p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
 <p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a></p></td>
 </tr>
@@ -436,18 +436,18 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
   - [金賢重](../Page/金賢重.md "wikilink") 飾演
     金賢重（第一集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
   - [曹秀美](../Page/曹秀美.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
-  - [宋海](../Page/宋海.md "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
-  - [善宇](../Page/權閔際.md "wikilink")
-  - [閔慶旭](../Page/閔慶旭.md "wikilink")
+  - [宋海](https://zh.wikipedia.org/wiki/宋海 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
+  - [善宇](https://zh.wikipedia.org/wiki/權閔際 "wikilink")
+  - [閔慶旭](https://zh.wikipedia.org/wiki/閔慶旭 "wikilink")
   - [金在成](../Page/金在成.md "wikilink")
-  - [Nichkhun](../Page/Nichkhun.md "wikilink")（[2PM](../Page/2PM.md "wikilink")）（第八集）
-  - [黃燦盛](../Page/黃燦盛.md "wikilink")（[2PM](../Page/2PM.md "wikilink")）飾演
+  - [Nichkhun](../Page/Nichkhun.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）（第八集）
+  - [黃燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）飾演
     幻想的馬斗植（第十二集）
   - [利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")（[Super
     Junior](../Page/Super_Junior.md "wikilink")）飾演 電台主持人（第十三集）
-  - [全炫茂](../Page/全炫茂.md "wikilink") 飾演 節目主持人（第十五集）
-  - [李昶旻](../Page/李昶旻.md "wikilink")、[鄭珍雲](../Page/鄭珍雲.md "wikilink")、[任瑟雍](../Page/任瑟雍.md "wikilink")（[2AM](../Page/2AM.md "wikilink")）（第十六集）
-  - [Fei](../Page/王霏霏.md "wikilink")、[Jia](../Page/孟佳.md "wikilink")、[Min](../Page/李玟暎.md "wikilink")（[Miss
+  - [全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink") 飾演 節目主持人（第十五集）
+  - [李昶旻](../Page/李昶旻.md "wikilink")、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（[2AM](../Page/2AM.md "wikilink")）（第十六集）
+  - [Fei](../Page/王霏霏.md "wikilink")、[Jia](../Page/孟佳.md "wikilink")、[Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（[Miss
     A](../Page/Miss_A.md "wikilink")）（第十六集）
   - [朴恩玭](../Page/朴恩玭.md "wikilink") 飾演 青少年 高慧星（第十六集）
   - [Dal★Shabet](../Page/Dal★Shabet.md "wikilink")（第十六集）

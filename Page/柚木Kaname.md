@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - [下級生2](../Page/下級生2.md "wikilink")（**柴門たまき**）
-  - [IZUMO2](https://zh.wikipedia.org/wiki/IZUMO2 "wikilink")（ヒミコ）
+  - [IZUMO2](../Page/IZUMO2.md "wikilink")（ヒミコ）
   - [KYRIE 〜BLOOD
     ROYAL3〜](https://zh.wikipedia.org/wiki/KYRIE_〜BLOOD_ROYAL3〜 "wikilink")（エレナ・グレンジャー、ロイ・ヘンリーク）
   - [VANQUISH](https://zh.wikipedia.org/wiki/VANQUISH "wikilink")（ティルト）
@@ -78,8 +78,7 @@
 <!-- end list -->
 
   - [Summer Days](../Page/Summer_Days.md "wikilink")（西園寺 世界）
-  - [IZUMO2
-    -學園狂想曲-](https://zh.wikipedia.org/wiki/IZUMO2 "wikilink")（ヒミコ）
+  - [IZUMO2 -學園狂想曲-](../Page/IZUMO2.md "wikilink")（ヒミコ）
 
 <!-- end list -->
 
@@ -194,7 +193,7 @@
 
   - [恋めくりクローバー
     ミニファンディスク](https://zh.wikipedia.org/wiki/恋めくりクローバー_ミニファンディスク "wikilink")（**月館絵里**）
-  - [虚之少女](https://zh.wikipedia.org/wiki/虚之少女 "wikilink")（葉月杏子、佐東歩）
+  - [虚之少女](../Page/虚之少女.md "wikilink")（葉月杏子、佐東歩）
   - [真剣で私に恋しなさい\!A](../Page/認真和我談戀愛！.md "wikilink")（橘天衣）
   - [Electro
     Arms](https://zh.wikipedia.org/wiki/Electro_Arms "wikilink")（**レオナ・K・バーンズ**）
@@ -254,8 +253,7 @@
     Blue](https://zh.wikipedia.org/wiki/Innocent_Blue "wikilink")（尾崎祐美）
   - [Dark Blue](../Page/Dark_Blue.md "wikilink")（哀沢鈴香）
   - [義妹×2](https://zh.wikipedia.org/wiki/義妹×2 "wikilink")（九宮心音）
-  - [鬼父 Rebuild
-    Vol.3「小生意気な萌顔ほぃほぃ」](https://zh.wikipedia.org/wiki/鬼父 "wikilink")（秋月華代子）
+  - [鬼父 Rebuild Vol.3「小生意気な萌顔ほぃほぃ」](../Page/鬼父.md "wikilink")（秋月華代子）
   - [館〜官能奇譚〜](https://zh.wikipedia.org/wiki/館〜官能奇譚〜 "wikilink")（善櫻寺綾女）
   - [黒の教室](https://zh.wikipedia.org/wiki/黒の教室 "wikilink")（有栖川冴香）
 

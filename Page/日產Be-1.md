@@ -39,7 +39,7 @@ Image:Be-1rear.jpg|車尾 Image:1987NissanBE-1.jpg|車頭 Image:1987 Nissan BE-1
   - [日產March](../Page/日產March.md "wikilink")
   - [日產Pao](../Page/日產Pao.md "wikilink")
   - [日產費加羅](https://zh.wikipedia.org/wiki/日產費加羅 "wikilink")
-  - [日產S-Cargo](https://zh.wikipedia.org/wiki/日產S-Cargo "wikilink")
+  - [日產S-Cargo](../Page/日產S-Cargo.md "wikilink")
 
 ## 參考資料
 

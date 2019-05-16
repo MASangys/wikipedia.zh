@@ -2,8 +2,8 @@
 
 ## 簡介
 
-  - 第17張專輯[MAGIC發行前先行發售](../Page/MAGIC.md "wikilink")
-  - PV在[長崎縣](../Page/長崎縣.md "wikilink")[端島拍攝](../Page/端島.md "wikilink")
+  - 第17張專輯[MAGIC發行前先行發售](https://zh.wikipedia.org/wiki/MAGIC "wikilink")
+  - PV在[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[端島拍攝](../Page/端島.md "wikilink")
   - 最終銷量約23.1萬張。
 
 ## 製作人員

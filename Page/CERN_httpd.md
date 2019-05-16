@@ -22,7 +22,7 @@ conference](https://zh.wikipedia.org/wiki/Hypertext_91_conference "wikilink")）
 Program
 Library](https://zh.wikipedia.org/wiki/CERN_Program_Library "wikilink")）（CERNLIB）的一部分\[8\]\[9\]\[10\]。
 
-而之后版本的服务器都是基于[libwww](../Page/libwww.md "wikilink")[库之上的](../Page/函式庫.md "wikilink")\[11\]。在1996年7月15日推出了3.0A版本之后，CERN
+而之后版本的服务器都是基于[libwww](https://zh.wikipedia.org/wiki/libwww "wikilink")[库之上的](../Page/函式庫.md "wikilink")\[11\]。在1996年7月15日推出了3.0A版本之后，CERN
 httpd项目的发展被W3C所接管\[12\]。自1996年之后，W3C将重点落在了研发基于[Java的Jigsaw服务器之上](../Page/Java.md "wikilink")\[13\]。
 
 此程序的初始版本为公有领域软件，最后一个版本则基于[MIT许可](../Page/MIT許可證.md "wikilink")\[14\]。

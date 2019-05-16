@@ -516,7 +516,8 @@ Yim）負責監製。
   - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2009
     - 傑出表現獎-銅獎
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2009 - 新城勁爆卡拉OK歌曲（《日夜想你》）
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")2009
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
     - 最高收聽率二十大歌曲獎（《日夜想你》）
 
 ## 參考資料

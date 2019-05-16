@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td><p>000002</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/前田聖來" title="wikilink">前田聖來</a></p></td>
+<td><p><a href="../Page/前田聖來.md" title="wikilink">前田聖來</a></p></td>
 <td><p>まえだ せいら</p></td>
 <td><p>まえまえ</p></td>
 <td><p>1996年2月24日</p></td>
@@ -421,23 +421,23 @@
 
 **第三期新成員**\[11\]
 
-| R的編號   | 姓名                                                      | 拼音       | 暱稱    | 出生日期        | 其他                                                                      |
-| ------ | ------------------------------------------------------- | -------- | ----- | ----------- | ----------------------------------------------------------------------- |
-| 000045 | [村木亮太](https://zh.wikipedia.org/wiki/村木亮太 "wikilink")   | むらき りょうた | りょう   | 1999年1月26日  | [Johnny's Jr.成員](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink") |
-| 000046 | [野田美櫻](https://zh.wikipedia.org/wiki/野田美櫻 "wikilink")   | のだ みお    | ひめ    | 1997年4月2日   |                                                                         |
-| 000047 | [石神澪](https://zh.wikipedia.org/wiki/石神澪 "wikilink")     | いしがみ れい  | いしがみ  | 1997年4月16日  | [w-Street OSAKA→e-Street TOKYO](../Page/iDOL_Street.md "wikilink")      |
-| 000048 | [内田菜月](https://zh.wikipedia.org/wiki/内田菜月 "wikilink")   | うちだ なつき  | なっちゃん | 1995年5月4日   |                                                                         |
-| 000049 | [菅田琳寧](https://zh.wikipedia.org/wiki/菅田琳寧 "wikilink")   | すげた りんね  | りんね   | 1998年5月12日  | [Johnny's Jr.成員](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink") |
-| 000050 | [蒼葉える](https://zh.wikipedia.org/wiki/蒼葉える "wikilink")   | あおば える   | える    | 1995年6月16日  |                                                                         |
-| 000051 | [國井亞里沙](https://zh.wikipedia.org/wiki/國井亞里沙 "wikilink") | くにい ありさ  | くーちゃん | 1996年6月23日  |                                                                         |
-| 000052 | [野呂汰雅](https://zh.wikipedia.org/wiki/野呂汰雅 "wikilink")   | のろ たいが   | たいが   | 1995年6月24日  |                                                                         |
-| 000053 | [若月佑美](../Page/若月佑美.md "wikilink")                      | わかつき ゆみ  | ワカツキ  | 1994年6月27日  | [乃木坂46成員](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")               |
-| 000054 | [小森美果](../Page/小森美果.md "wikilink")                      | こもり みか   | こもりん  | 1994年7月19日  | 前[AKB48成員](../Page/AKB48.md "wikilink")                                 |
-| 000055 | [尾崎有彩](https://zh.wikipedia.org/wiki/尾崎有彩 "wikilink")   | おざき ありさ  | ザッキー  | 1997年7月24日  |                                                                         |
-| 000056 | [杉山紗英](https://zh.wikipedia.org/wiki/杉山紗英 "wikilink")   | すぎやま さえ  | さえ    | 1996年7月31日  |                                                                         |
-| 000057 | [椎名桃](https://zh.wikipedia.org/wiki/椎名桃 "wikilink")     | しいな もも   | もも    | 1997年8月6日   |                                                                         |
-| 000058 | [石田桃香](https://zh.wikipedia.org/wiki/石田桃香 "wikilink")   | いしだ ももか  | いっちゃん | 1997年10月21日 |                                                                         |
-| 000059 | [岡部勇介](https://zh.wikipedia.org/wiki/岡部勇介 "wikilink")   | おかべ ゆうすけ | ゆーすけ  | 1996年11月7日  |                                                                         |
+| R的編號   | 姓名                                                      | 拼音       | 暱稱    | 出生日期        | 其他                                                                                    |
+| ------ | ------------------------------------------------------- | -------- | ----- | ----------- | ------------------------------------------------------------------------------------- |
+| 000045 | [村木亮太](https://zh.wikipedia.org/wiki/村木亮太 "wikilink")   | むらき りょうた | りょう   | 1999年1月26日  | [Johnny's Jr.成員](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink")               |
+| 000046 | [野田美櫻](https://zh.wikipedia.org/wiki/野田美櫻 "wikilink")   | のだ みお    | ひめ    | 1997年4月2日   |                                                                                       |
+| 000047 | [石神澪](https://zh.wikipedia.org/wiki/石神澪 "wikilink")     | いしがみ れい  | いしがみ  | 1997年4月16日  | [w-Street OSAKA→e-Street TOKYO](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink") |
+| 000048 | [内田菜月](https://zh.wikipedia.org/wiki/内田菜月 "wikilink")   | うちだ なつき  | なっちゃん | 1995年5月4日   |                                                                                       |
+| 000049 | [菅田琳寧](https://zh.wikipedia.org/wiki/菅田琳寧 "wikilink")   | すげた りんね  | りんね   | 1998年5月12日  | [Johnny's Jr.成員](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink")               |
+| 000050 | [蒼葉える](https://zh.wikipedia.org/wiki/蒼葉える "wikilink")   | あおば える   | える    | 1995年6月16日  |                                                                                       |
+| 000051 | [國井亞里沙](https://zh.wikipedia.org/wiki/國井亞里沙 "wikilink") | くにい ありさ  | くーちゃん | 1996年6月23日  |                                                                                       |
+| 000052 | [野呂汰雅](https://zh.wikipedia.org/wiki/野呂汰雅 "wikilink")   | のろ たいが   | たいが   | 1995年6月24日  |                                                                                       |
+| 000053 | [若月佑美](../Page/若月佑美.md "wikilink")                      | わかつき ゆみ  | ワカツキ  | 1994年6月27日  | [乃木坂46成員](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")                             |
+| 000054 | [小森美果](../Page/小森美果.md "wikilink")                      | こもり みか   | こもりん  | 1994年7月19日  | 前[AKB48成員](../Page/AKB48.md "wikilink")                                               |
+| 000055 | [尾崎有彩](https://zh.wikipedia.org/wiki/尾崎有彩 "wikilink")   | おざき ありさ  | ザッキー  | 1997年7月24日  |                                                                                       |
+| 000056 | [杉山紗英](https://zh.wikipedia.org/wiki/杉山紗英 "wikilink")   | すぎやま さえ  | さえ    | 1996年7月31日  |                                                                                       |
+| 000057 | [椎名桃](../Page/椎名桃.md "wikilink")                        | しいな もも   | もも    | 1997年8月6日   |                                                                                       |
+| 000058 | [石田桃香](https://zh.wikipedia.org/wiki/石田桃香 "wikilink")   | いしだ ももか  | いっちゃん | 1997年10月21日 |                                                                                       |
+| 000059 | [岡部勇介](https://zh.wikipedia.org/wiki/岡部勇介 "wikilink")   | おかべ ゆうすけ | ゆーすけ  | 1996年11月7日  |                                                                                       |
 
 ## 節目列表
 
@@ -794,7 +794,7 @@ R'sが気になったニュース＆話題ランキング[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年4月16日</p></td>
-<td><p><a href="../Page/miwa.md" title="wikilink">miwaが登場</a>！生ライブ 桜自慢の女子高から大中継！</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwaが登場</a>！生ライブ 桜自慢の女子高から大中継！</p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="even">
@@ -1403,7 +1403,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年10月25日</p></td>
-<td><p><a href="../Page/大石参月.md" title="wikilink">大石参月</a>・マギー・<a href="https://zh.wikipedia.org/wiki/河北麻友子" title="wikilink">河北麻友子</a> 美容法から恋愛まで モデルぶっちゃけトーク！</p></td>
+<td><p><a href="../Page/大石参月.md" title="wikilink">大石参月</a>・マギー・<a href="../Page/河北麻友子.md" title="wikilink">河北麻友子</a> 美容法から恋愛まで モデルぶっちゃけトーク！</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1479,7 +1479,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年11月21日</p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARAとガールズトーク</a>！！恋愛観＆美の秘訣 10代に人気曲をLIVE</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARAとガールズトーク</a>！！恋愛観＆美の秘訣 10代に人気曲をLIVE</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1514,7 +1514,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年12月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰" title="wikilink">紅白出場</a>☆<a href="https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI" title="wikilink">ナオト・インティライミ</a> 超レア！即興の歌作り披露に名曲＆新曲スペシャルライブも</p></td>
+<td><p><a href="../Page/第63回NHK紅白歌合戰.md" title="wikilink">紅白出場</a>☆<a href="https://zh.wikipedia.org/wiki/NAOTO_INTI_RAYMI" title="wikilink">ナオト・インティライミ</a> 超レア！即興の歌作り披露に名曲＆新曲スペシャルライブも</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1910,7 +1910,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 <tr class="even">
 <td><p>2013年4月2日</p></td>
 <td><p>なんちゃって制服 こだわり</p></td>
-<td><p>! <a href="https://zh.wikipedia.org/wiki/渋谷" title="wikilink">渋谷</a>、<a href="../Page/池袋.md" title="wikilink">池袋</a>、<a href="https://zh.wikipedia.org/wiki/立川_(墨田區)" title="wikilink">立川</a>、<a href="https://zh.wikipedia.org/wiki/大宮" title="wikilink">大宮など全国</a>200人 女子高校生調査</p></td>
+<td><p>! <a href="https://zh.wikipedia.org/wiki/渋谷" title="wikilink">渋谷</a>、<a href="../Page/池袋.md" title="wikilink">池袋</a>、<a href="../Page/立川_(墨田區).md" title="wikilink">立川</a>、<a href="https://zh.wikipedia.org/wiki/大宮" title="wikilink">大宮など全国</a>200人 女子高校生調査</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年4月3日</p></td>
@@ -2203,7 +2203,7 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 <tr class="odd">
 <td><p>2013年7月1日</p></td>
 <td><p>生放送 クイズ★ニュースWEBティーンズ(12)<br />
-歩き<a href="https://zh.wikipedia.org/wiki/智慧型手機" title="wikilink">スマホには危険がいっぱい</a>! <a href="https://zh.wikipedia.org/wiki/清涼商務" title="wikilink">スーパークールビズって</a>? ゲスト：<a href="https://zh.wikipedia.org/wiki/菜菜緒" title="wikilink">菜々緒</a></p></td>
+歩き<a href="https://zh.wikipedia.org/wiki/智慧型手機" title="wikilink">スマホには危険がいっぱい</a>! <a href="https://zh.wikipedia.org/wiki/清涼商務" title="wikilink">スーパークールビズって</a>? ゲスト：<a href="../Page/菜菜緒.md" title="wikilink">菜々緒</a></p></td>
 <td><p>現場直播</p></td>
 </tr>
 <tr class="even">
@@ -2418,8 +2418,8 @@ WORLD ORDER 100 LIVE！！ 中間報告</p></td>
 10.
 11. 從2012年11月5日播出的該集開始。
 12.
-13. 本集播出前後，R's成員在[NICONICO動畫於](../Page/NICONICO動畫.md "wikilink")18:20 -
-    18:55、19:25 -
+13. 本集播出前後，R's成員在[NICONICO動畫於](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")18:20
+    - 18:55、19:25 -
     20:30亦有演出。演出的成員有：伊藤優衣・川口絹・[前田亞美](../Page/前田亞美.md "wikilink")・[森咲樹](../Page/森咲樹.md "wikilink")4人。
 14. 放送時間16:00 - 18:55の3時間スペシャル番組。
 15. 7月30日的重播因為轉播[2012年夏季奧林匹克運動會的原因](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")，原時段播放其他節目，而延至8月2日26:35（8月3日2:35）播出。

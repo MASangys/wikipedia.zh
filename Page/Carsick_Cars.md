@@ -1,6 +1,6 @@
 Carsick
-Cars是[中国](../Page/中华人民共和国.md "wikilink")[北京的一支](../Page/北京.md "wikilink")[乐队](../Page/乐队.md "wikilink")，成立于2005年3月，现由吉他手张守望、鼓手孙鹤庭，以及贝司手何凡组成。乐队风格受[Sonic
-Youth的影响](../Page/Sonic_Youth.md "wikilink")。乐队多在北京的D-22（现XP）酒吧表演。
+Cars是[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[北京的一支](https://zh.wikipedia.org/wiki/北京 "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，成立于2005年3月，现由吉他手张守望、鼓手孙鹤庭，以及贝司手何凡组成。乐队风格受[Sonic
+Youth的影响](https://zh.wikipedia.org/wiki/Sonic_Youth "wikilink")。乐队多在北京的D-22（现XP）酒吧表演。
 
 ## 历史
 
@@ -16,7 +16,7 @@ Arena，英国伦敦 Roundhouse举办的"Open for Sonic Youth"演出。
 2008年12月2日，乐队发行第一张同名专辑"Carsick Cars"。
 
 2009年4月17日，Carsick
-Cars于[嘎调乐队开始](../Page/嘎调.md "wikilink")“伟大航路”公路巡演，巡演途径16个城市\[1\]。巡演于6月27日在北京东城区的愚公移山酒吧谢幕\[2\]。
+Cars于[嘎调乐队开始](https://zh.wikipedia.org/wiki/嘎调 "wikilink")“伟大航路”公路巡演，巡演途径16个城市\[1\]。巡演于6月27日在北京东城区的愚公移山酒吧谢幕\[2\]。
 
 2009年5月29日，乐队受邀参加西班牙巴塞罗那Primavera Sound 2009音乐节。
 
@@ -31,7 +31,7 @@ TRACK"博客评为年度十大专辑之一。\[4\]
 
 2010年2月，乐队与Maybe Noise旗下的乐队在韩国进行小规模巡演。
 
-2010年11月17日，乐队宣布贝斯手[李维思和鼓手](../Page/李维思.md "wikilink")[李青退出乐队](../Page/李青.md "wikilink")，11月16日的演出成为乐队原始成员的最后一次演出。\[5\]
+2010年11月17日，乐队宣布贝斯手[李维思和鼓手](https://zh.wikipedia.org/wiki/李维思 "wikilink")[李青退出乐队](https://zh.wikipedia.org/wiki/李青 "wikilink")，11月16日的演出成为乐队原始成员的最后一次演出。\[5\]
 
 ## 出版唱片
 

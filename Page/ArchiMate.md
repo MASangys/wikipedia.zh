@@ -1,9 +1,10 @@
 [ArchiMate_Architectural_Framework.jpg](https://zh.wikipedia.org/wiki/File:ArchiMate_Architectural_Framework.jpg "fig:ArchiMate_Architectural_Framework.jpg")</ref>\]\]
 
-**ArchiMate**，是一種整合多種[架構的一種](../Page/架構.md "wikilink")[可視化業務分析模型語言](../Page/可視化業務分析模型語言.md "wikilink")，屬於[架構描述語言](../Page/架構描述語言.md "wikilink")（ADL）它從業務、應用和技術三個層次（Layer），[物件](../Page/物件.md "wikilink")、[行為和主體三個方面](../Page/行為.md "wikilink")（Aspect）和產品、組織、流程、資訊、資料、應用、技術領域（Domain）來進行描述。**ArchiMate**是
-[The Open Group](../Page/The_Open_Group.md "wikilink")
+**ArchiMate**，是一種整合多種[架構的一種](https://zh.wikipedia.org/wiki/架構 "wikilink")[可視化業務分析模型語言](https://zh.wikipedia.org/wiki/可視化業務分析模型語言 "wikilink")，屬於[架構描述語言](https://zh.wikipedia.org/wiki/架構描述語言 "wikilink")（ADL）它從業務、應用和技術三個層次（Layer），[物件](https://zh.wikipedia.org/wiki/物件 "wikilink")、[行為和主體三個方面](../Page/行為.md "wikilink")（Aspect）和產品、組織、流程、資訊、資料、應用、技術領域（Domain）來進行描述。**ArchiMate**是
+[The Open
+Group](https://zh.wikipedia.org/wiki/The_Open_Group "wikilink")
 發佈的企業級標準。它是一種圖形化描述語言，正好可以作為
-[TOGAF](../Page/TOGAF.md "wikilink") 圖形工件的建模工具。
+[TOGAF](https://zh.wikipedia.org/wiki/TOGAF "wikilink") 圖形工件的建模工具。
 
 ## 註釋及文獻參考
 
@@ -23,11 +24,11 @@
   - Marc Lankhorst (ed.) and the ArchiMate team (2004) [*ArchiMate
     Language
     Primer*](https://web.archive.org/web/20110724162610/https://doc.novay.nl/dsweb/Get/Document-43839/).
-    Enschede: [Novay](../Page/Novay.md "wikilink").
+    Enschede: [Novay](https://zh.wikipedia.org/wiki/Novay "wikilink").
 
 ## 相關條目
 
-  - [TOGAF](../Page/TOGAF.md "wikilink")
+  - [TOGAF](https://zh.wikipedia.org/wiki/TOGAF "wikilink")
 
 ## 外部連結
 
@@ -36,7 +37,7 @@
   - [EVA Netmodeler - Enterprise Architecture Tool
     supporting](http://www.pro-mis.com/products-articles/items/archimate-in-eva-netmodeler.38.html)
 
-[分類:建模語言](../Page/分類:建模語言.md "wikilink")
+[分類:建模語言](https://zh.wikipedia.org/wiki/分類:建模語言 "wikilink")
 
 [Category:資訊科學](https://zh.wikipedia.org/wiki/Category:資訊科學 "wikilink")
 [Category:设计](https://zh.wikipedia.org/wiki/Category:设计 "wikilink")

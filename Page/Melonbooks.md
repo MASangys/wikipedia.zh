@@ -132,7 +132,7 @@ trial錦標賽](https://zh.wikipedia.org/wiki/全日本Dirt_trial錦標賽 "wiki
 2.  如包含特許經營店為[White
     Canvas最多](https://zh.wikipedia.org/wiki/White_Canvas "wikilink")。但是，其特許經營店舗與母體的直屬店舖所售賣的商品在相較之下卻有不少差異。
 3.  現在通信販賣（郵購）部與流通部仍然設置於横濱市内
-4.  於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[神田佐久間町](https://zh.wikipedia.org/wiki/神田佐久間町 "wikilink")﹐並不是與「Melonbooks秋葉原店」為鄰，而且在另一地方。
+4.  於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[神田佐久間町](../Page/神田佐久間町.md "wikilink")﹐並不是與「Melonbooks秋葉原店」為鄰，而且在另一地方。
 5.  在公式網頁等使用到2003年。現在還能在部分店舗中見到。
 6.  2000年間設計的標識，主要在這個時間內使用。
 7.  於2003年9月改變了設計。

@@ -5,7 +5,7 @@ International（SSI）在1980年開發。在最初期，WordPerfect能夠運行�
 General，[IBM PC](../Page/IBM_PC.md "wikilink")，[Apple
 II](../Page/Apple_II.md "wikilink")，VAX/VMS，[Amiga](../Page/Amiga.md "wikilink")，[Atari
 ST](https://zh.wikipedia.org/wiki/Atari_ST "wikilink")，IBM System
-370，[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，[NeXT以及](../Page/NeXT.md "wikilink")[DOS](../Page/DOS.md "wikilink")，[Unix](../Page/Unix.md "wikilink")，[Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")\[1\]。
+370，[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，[NeXT以及](../Page/NeXT.md "wikilink")[DOS](../Page/DOS.md "wikilink")，[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")，[Macintosh](https://zh.wikipedia.org/wiki/Macintosh "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")\[1\]。
 
 WordPerfect曾在市場上居主導地位，但WordPerfect的Microsoft
 Windows穩定版本的過遲發行，以及微軟開始將[Microsoft

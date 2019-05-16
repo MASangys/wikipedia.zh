@@ -1,4 +1,4 @@
-《**STAR**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](../Page/aiko.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年11月30日發行。
+《**STAR**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年11月30日發行。
 
 ## 簡介
 
@@ -23,7 +23,7 @@
 4.  STAR（insturumental）
 
 全
-作詞、作曲：[AIKO](../Page/aiko.md "wikilink")；編曲：[島田昌典](https://zh.wikipedia.org/wiki/島田昌典 "wikilink")　
+作詞、作曲：[AIKO](https://zh.wikipedia.org/wiki/aiko "wikilink")；編曲：[島田昌典](https://zh.wikipedia.org/wiki/島田昌典 "wikilink")　
 
 ## 參考資料
 

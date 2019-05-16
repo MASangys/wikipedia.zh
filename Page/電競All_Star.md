@@ -1,5 +1,5 @@
 《**電-{}-競All
-Star**》是[中國電視公司的](../Page/中國電視公司.md "wikilink")[電玩競技節目](../Page/電玩.md "wikilink")，由競賽聯盟單位[阿茲特克電子競技聯盟](../Page/阿茲特克電子競技聯盟.md "wikilink")(AztecCup)製作，[台灣時間](../Page/台灣時間.md "wikilink")2010年10月17日00:00於[中視無線台開播](../Page/中視無線台.md "wikilink")。目前播出時段為每星期日00:00\~01:00首播。
+Star**》是[中國電視公司的](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[電玩競技節目](https://zh.wikipedia.org/wiki/電玩 "wikilink")，由競賽聯盟單位[阿茲特克電子競技聯盟](https://zh.wikipedia.org/wiki/阿茲特克電子競技聯盟 "wikilink")(AztecCup)製作，[台灣時間](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")2010年10月17日00:00於[中視無線台開播](https://zh.wikipedia.org/wiki/中視無線台 "wikilink")。目前播出時段為每星期日00:00\~01:00首播。
 
 ## 節目播出期間與時段
 

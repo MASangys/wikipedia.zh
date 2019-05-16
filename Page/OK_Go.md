@@ -20,8 +20,8 @@ Go樂隊在上，表演了專輯的歌曲.
 亞當·薩多斯基制作了他們這首歌配合著[鲁宾·戈德堡装置的音樂視頻](../Page/魯布·戈德堡機械.md "wikilink")。\[2\]
 
 2014年，OK Go的《I Won't Let You
-Down》音樂影片在[日本](../Page/日本.md "wikilink")[千葉](../Page/千葉縣.md "wikilink")[長柄町長木驛站購物中心拍攝](../Page/長柄町.md "wikilink")，並邀請了日本[電音組合](../Page/電音.md "wikilink")[Perfume客串出演](../Page/Perfume_\(日本音樂團體\).md "wikilink")，同時樂隊成員更與2328名舞蹈員一同手持顏色傘子乘坐[本田UNI-CUB
-β電動載具](../Page/本田UNI-CUB.md "wikilink")，在空地上跟隨音樂節奏移動，從而排列出由複雜行列組成的[像素畫](../Page/像素畫.md "wikilink")\[3\]，呈現如[LED](../Page/LED.md "wikilink")[跑馬燈看板般的效果](../Page/跑馬燈.md "wikilink")，獲評意念創新\[4\]。
+Down》音樂影片在[日本](../Page/日本.md "wikilink")[千葉](../Page/千葉縣.md "wikilink")[長柄町長木驛站購物中心拍攝](../Page/長柄町.md "wikilink")，並邀請了日本[電音組合](https://zh.wikipedia.org/wiki/電音 "wikilink")[Perfume客串出演](../Page/Perfume_\(日本音樂團體\).md "wikilink")，同時樂隊成員更與2328名舞蹈員一同手持顏色傘子乘坐[本田UNI-CUB
+β電動載具](https://zh.wikipedia.org/wiki/本田UNI-CUB "wikilink")，在空地上跟隨音樂節奏移動，從而排列出由複雜行列組成的[像素畫](https://zh.wikipedia.org/wiki/像素畫 "wikilink")\[3\]，呈現如[LED](https://zh.wikipedia.org/wiki/LED "wikilink")[跑馬燈看板般的效果](https://zh.wikipedia.org/wiki/跑馬燈 "wikilink")，獲評意念創新\[4\]。
 
 ## 专辑
 

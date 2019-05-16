@@ -1,5 +1,5 @@
 **Z
-shell**（**Zsh**）是一款可用作登录的[shell及](../Page/殼層.md "wikilink")[脚本编写的](https://zh.wikipedia.org/wiki/Shell脚本 "wikilink")[命令解释器](../Page/命令行界面.md "wikilink")。Zsh对[Bourne
+shell**（**Zsh**）是一款可用作登录的[shell及](../Page/殼層.md "wikilink")[脚本编写的](../Page/Shell脚本.md "wikilink")[命令解释器](../Page/命令行界面.md "wikilink")。Zsh对[Bourne
 shell做出了大量改进](../Page/Bourne_shell.md "wikilink")，同时加入了[Bash](../Page/Bash.md "wikilink")、[ksh及](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")[tcsh的某些功能](../Page/Tcsh.md "wikilink")。
 
 ## 起源
@@ -7,7 +7,7 @@ shell做出了大量改进](../Page/Bourne_shell.md "wikilink")，同时加入�
 保罗·弗斯塔德（Paul
 Falstad）于1990年在[普林斯顿大学求学时编写了Zsh的初版](../Page/普林斯顿大学.md "wikilink")\[1\]。\[2\]名称*zsh*源于[耶鲁大学教授邵中](../Page/耶鲁大学.md "wikilink")（Zhong
 Shao，后转为普林斯顿大学教授) —
-保罗将教授的[用户名](https://zh.wikipedia.org/wiki/用户 "wikilink")"zsh"作为此Shell的名称。\[3\]\[4\]
+保罗将教授的[用户名](../Page/用户.md "wikilink")"zsh"作为此Shell的名称。\[3\]\[4\]
 
 ## 特性
 

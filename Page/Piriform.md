@@ -1,4 +1,4 @@
-**Piriform**（[梨形之意](../Page/梨.md "wikilink")）是2004年在[英國建立的一家](../Page/英國.md "wikilink")[軟體公司](../Page/軟體公司.md "wikilink")，專長於[Windows系統維護軟体的開發](../Page/Microsoft_Windows.md "wikilink")。2017年7月，此公司被[捷克的資安軟體廠商](../Page/捷克.md "wikilink")[Avast併購](../Page/Avast.md "wikilink")，成為Avast旗下公司\[1\]。
+**Piriform**（[梨形之意](../Page/梨.md "wikilink")）是2004年在[英國建立的一家](https://zh.wikipedia.org/wiki/英國 "wikilink")[軟體公司](https://zh.wikipedia.org/wiki/軟體公司 "wikilink")，專長於[Windows系統維護軟体的開發](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2017年7月，此公司被[捷克的資安軟體廠商](../Page/捷克.md "wikilink")[Avast併購](../Page/Avast.md "wikilink")，成為Avast旗下公司\[1\]。
 
 ## 軟體
 

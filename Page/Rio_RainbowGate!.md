@@ -1,11 +1,11 @@
 『**Rio
-RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")。
+RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
-[Pachislo為原案發售的](../Page/Pachislo.md "wikilink")[Rio系列](../Page/Rio系列.md "wikilink")。
+[Pachislo為原案發售的](https://zh.wikipedia.org/wiki/Pachislo "wikilink")[Rio系列](../Page/Rio系列.md "wikilink")。
 
 ## 故事
 
-大富豪的孫女敏特・克拉克與祖父一同來到最有人氣的[賭博聖地](../Page/賭博.md "wikilink")「**霍華德**」參觀。敏特卻是個對[賭博不感興趣的人](../Page/賭博.md "wikilink")，此時碰巧遇上被稱為「**勝利的女神**」的女性理歐・羅倫斯兩人相識之後便一同開始面對新的挑戰。
+大富豪的孫女敏特・克拉克與祖父一同來到最有人氣的[賭博聖地](https://zh.wikipedia.org/wiki/賭博 "wikilink")「**霍華德**」參觀。敏特卻是個對[賭博不感興趣的人](https://zh.wikipedia.org/wiki/賭博 "wikilink")，此時碰巧遇上被稱為「**勝利的女神**」的女性理歐・羅倫斯兩人相識之後便一同開始面對新的挑戰。
 
 ## 登場角色
 
@@ -19,7 +19,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
     最喜歡的食物：薑餅
     興趣：彈珠臺、作點心
     霍華德度假村最有人氣的發牌者，手持「7」號的Gate持牌者。擁有Roll
-    Ruler（ロールルーラー）的能力。被人稱為「勝利的女神」，只要理歐出現在附近原本殺氣騰騰的賭場就會緩和下來，且帶給週遭的人運氣。養著名叫琪布（♂）的[雪貂寵物](../Page/雪貂.md "wikilink")。傳說持牌者麗莎的女兒，夢想有一日可以成為跟母親一樣的持牌者。經常面帶微笑，宗旨是「滿足客人的願望」。比起自己更在意週遭的朋友，總是自然而然的關心朋友、替別人著想。
+    Ruler（ロールルーラー）的能力。被人稱為「勝利的女神」，只要理歐出現在附近原本殺氣騰騰的賭場就會緩和下來，且帶給週遭的人運氣。養著名叫琪布（♂）的[雪貂寵物](https://zh.wikipedia.org/wiki/雪貂 "wikilink")。傳說持牌者麗莎的女兒，夢想有一日可以成為跟母親一樣的持牌者。經常面帶微笑，宗旨是「滿足客人的願望」。比起自己更在意週遭的朋友，總是自然而然的關心朋友、替別人著想。
     過去曾在某個賭場代替客人賭局，勝利以後被神秘的男子給予「7」號的Gate，並留下「小姐有持有這個的資格」後離去。
 
 <!-- end list -->
@@ -35,12 +35,13 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
   -
     被大富豪的祖父帶來霍華德度假村的少女。
     起初對於住在霍華德度假村的賭場絲毫不感興趣，之後因為與理歐相遇變開始產生興趣且非常喜歡理歐，希望理歐做自己的姐姐。看到理歐跟莉娜過度的友好會非常的忌妒吃醋。
-    隨身抱著一隻標有（made in china）的[布偶熊巧可](../Page/布偶.md "wikilink")。
+    隨身抱著一隻標有（made in
+    china）的[布偶熊巧可](https://zh.wikipedia.org/wiki/布偶 "wikilink")。
 
 <!-- end list -->
 
   -
-    霍華德賭場的常客，[好萊塢](../Page/好萊塢.md "wikilink")[女優](../Page/女優.md "wikilink")。
+    霍華德賭場的常客，[好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[女優](https://zh.wikipedia.org/wiki/女優 "wikilink")。
     賭博運氣偏差經常在[角子機](../Page/角子機.md "wikilink")（slot
     machine）前苦惱著。偶而會代替其他發牌者來擔任判定理歐與其他賭客的賭局勝負。對於Gate
     Battle的賭局非常感興趣。
@@ -54,7 +55,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <!-- end list -->
 
   -
-    從[俄羅斯來的新人發牌者](../Page/俄羅斯.md "wikilink")。
+    從[俄羅斯來的新人發牌者](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
     非常尊敬理歐，以前輩來稱呼。雖然有不錯的發牌者素質卻經驗不足，目前由理歐來指導。容易受人喜愛的天然呆孩子，經常自己絆倒自己或是在什麼東西都沒有的地方跌倒，且給霍華德賭場各種大小的災難。
 
 <!-- end list -->
@@ -118,13 +119,13 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 ### 其他客人
 
   -
-    為了搶奪敏特手中的小熊[布偶夜晚時埋伏在酒店路上](../Page/布偶.md "wikilink")，因埋伏的保鏢被理歐擊退，隔日出現在霍華德賭場提議與理歐展開賭局。結婚典禮五分鐘前新娘跑路後至此都是單身漢，一直以來用玩偶撫平著妻子跑路的痛楚，是個『重度玩偶收藏狂』，對於敏特手中產於[比利時的布偶非常執著](../Page/比利時.md "wikilink")。在現實中毫無女人緣但是對自己的賭運有自信，比試[德州撲克都以四張Q](../Page/德州撲克.md "wikilink")－四條（Four
+    為了搶奪敏特手中的小熊[布偶夜晚時埋伏在酒店路上](https://zh.wikipedia.org/wiki/布偶 "wikilink")，因埋伏的保鏢被理歐擊退，隔日出現在霍華德賭場提議與理歐展開賭局。結婚典禮五分鐘前新娘跑路後至此都是單身漢，一直以來用玩偶撫平著妻子跑路的痛楚，是個『重度玩偶收藏狂』，對於敏特手中產於[比利時的布偶非常執著](https://zh.wikipedia.org/wiki/比利時 "wikilink")。在現實中毫無女人緣但是對自己的賭運有自信，比試[德州撲克都以四張Q](../Page/德州撲克.md "wikilink")－四條（Four
     of a kind）來對決因此以「女王殺手」的名號自稱。
 
 <!-- end list -->
 
   -
-    為了獲得理歐手中的Gate而來到霍華德賭場。外表輕浮精神洋溢的男子，對於美女都已紳士般的態度對待，且已親暱的方式稱呼，身後有許多的女性跟隨在後，認為沒有女性在他面前是不會被迷倒的。自稱自己是被數字和女人愛著的男人，以周圍的環境分析數值以及高密度的計算來解讀所有的對決方法。手中持有著一把放置Gate的特殊形狀[麥克風](../Page/麥克風.md "wikilink")，對決中都以絕對的自信來面對各種場合。
+    為了獲得理歐手中的Gate而來到霍華德賭場。外表輕浮精神洋溢的男子，對於美女都已紳士般的態度對待，且已親暱的方式稱呼，身後有許多的女性跟隨在後，認為沒有女性在他面前是不會被迷倒的。自稱自己是被數字和女人愛著的男人，以周圍的環境分析數值以及高密度的計算來解讀所有的對決方法。手中持有著一把放置Gate的特殊形狀[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，對決中都以絕對的自信來面對各種場合。
     擁有「3」號Gate的持牌者。與理歐對決時因過度依賴數據而被未預料到的意外輸掉比賽，之後Gate被阿妮娅回收後交到理歐手中。
 
 ## 用語
@@ -143,20 +144,20 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 
 ### 工作人員
 
-  - 原作 - [光榮特庫摩](../Page/光榮特庫摩.md "wikilink")
-  - 監督 - [加戶誉夫](../Page/加戶誉夫.md "wikilink")
+  - 原作 - [光榮特庫摩](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")
+  - 監督 - [加戶誉夫](https://zh.wikipedia.org/wiki/加戶誉夫 "wikilink")
   - 系列構成 - [關島真賴](../Page/關島真賴.md "wikilink")
   - 人物設計 - 志村久
   - 動畫制作 - [XEBEC](../Page/XEBEC.md "wikilink")
   - 製作 - 霍華德度假村開發集團
-  - 情节设计 - [寺岡賢司](../Page/寺岡賢司.md "wikilink")、長屋侑利子
+  - 情节设计 - [寺岡賢司](https://zh.wikipedia.org/wiki/寺岡賢司 "wikilink")、長屋侑利子
   - 美術設計 - 平澤晃弘
   - 美術監督 - 木下了香
   - 色彩設定 - 關本美津子
   - 撮影監督 - 武原健二
   - 編集 - 坂本久美子
-  - 音樂 - [梅堀淳](../Page/梅堀淳.md "wikilink")
-  - 音響監督 - [田中一也](../Page/田中一也.md "wikilink")
+  - 音樂 - [梅堀淳](https://zh.wikipedia.org/wiki/梅堀淳 "wikilink")
+  - 音響監督 - [田中一也](https://zh.wikipedia.org/wiki/田中一也 "wikilink")
   - 制作人 - 原尾宏次、妹尾亘、堀切伸二
 
 ### 主題曲
@@ -179,7 +180,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 
       -
         作詞 -  / 作曲・編曲 - 小池雅也 / 歌 -
-        [ULTRA-PRISM](../Page/ULTRA-PRISM.md "wikilink")
+        [ULTRA-PRISM](https://zh.wikipedia.org/wiki/ULTRA-PRISM "wikilink")
 
 ### 各集列表
 
@@ -201,8 +202,8 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td><p>#01</p></td>
 <td></td>
 <td><p>胜利的女神</p></td>
-<td><p><a href="../Page/関島眞頼.md" title="wikilink">関島眞頼</a></p></td>
-<td><p><a href="../Page/加戸誉夫.md" title="wikilink">加戸誉夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/関島眞頼" title="wikilink">関島眞頼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加戸誉夫" title="wikilink">加戸誉夫</a></p></td>
 <td><p>志村久</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -211,8 +212,8 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td><p>#02</p></td>
 <td></td>
 <td><p>Gate持有者</p></td>
-<td><p><a href="../Page/久保田雅史.md" title="wikilink">久保田雅史</a></p></td>
-<td><p><a href="../Page/いまざきいつき.md" title="wikilink">いまざきいつき</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保田雅史" title="wikilink">久保田雅史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/いまざきいつき" title="wikilink">いまざきいつき</a></p></td>
 <td><p>孫承希</p></td>
 <td><p>長屋侑利子<br />
 中村深雪</p></td>
@@ -222,7 +223,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td><p>#03</p></td>
 <td></td>
 <td><p>梅瑟琳</p></td>
-<td><p><a href="../Page/荒木憲一.md" title="wikilink">荒木憲一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木憲一" title="wikilink">荒木憲一</a></p></td>
 <td><p>柳沼和良</p></td>
 <td><p>岩岡優子</p></td>
 <td></td>
@@ -256,7 +257,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td><p>荒木憲一</p></td>
 <td><p>吉田英俊</p></td>
 <td><p>大庭秀昭</p></td>
-<td><p><a href="../Page/松川哲也.md" title="wikilink">松川哲也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松川哲也" title="wikilink">松川哲也</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -264,9 +265,9 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td></td>
 <td><p>Antlion</p></td>
 <td><p>關島眞頼</p></td>
-<td><p><a href="../Page/久行宏和.md" title="wikilink">久行宏和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a></p></td>
 <td><p>筑紫大介</p></td>
-<td><p><a href="../Page/つなきあき.md" title="wikilink">つなきあき</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/つなきあき" title="wikilink">つなきあき</a></p></td>
 <td><p>志村久</p></td>
 </tr>
 <tr class="even">
@@ -295,7 +296,7 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 <td></td>
 <td><p>REBIRTH</p></td>
 <td><p>関島眞頼</p></td>
-<td><p><a href="../Page/阿部雅司.md" title="wikilink">阿部雅司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿部雅司" title="wikilink">阿部雅司</a></p></td>
 <td><p>關口雅浩</p></td>
 <td><p>半部淳</p></td>
 <td></td>
@@ -373,15 +374,15 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 
 ### 播放電視台
 
-| 播放地域                                           | 播放電視台                                     | 播放日期              | 播放時間                               | 播放系列                                         | 備註                                       |
-| ---------------------------------------------- | ----------------------------------------- | ----------------- | ---------------------------------- | -------------------------------------------- | ---------------------------------------- |
-| [東京都](../Page/東京都.md "wikilink")               | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | 2011年1月4日 - 3月29日 | 星期二 23時00分 - 23時30分                | [独立UHF局](../Page/全國獨立UHF放送協議會.md "wikilink") |                                          |
-| [愛知縣](../Page/愛知縣.md "wikilink")               | [愛知電視台](../Page/愛知電視台.md "wikilink")      | 2011年1月5日 - 3月30日 | 星期三 26時28分 - 26時58分                | [東京電視網](../Page/東京電視網.md "wikilink")         |                                          |
-| [近畿廣域圏](../Page/近畿廣域圏.md "wikilink")           | [毎日放送](../Page/毎日放送.md "wikilink")        | 2011年1月6日 - 3月31日 | 星期四 25時55分 - 26時25分                | [TBS系列](../Page/日本新聞網.md "wikilink")         |                                          |
-| 日本全域                                           | BS11                                      | 2011年1月7日 - 4月1日  | 星期五 23時00分 - 23時30分                | [BSデジタル放送](../Page/BSデジタル放送.md "wikilink")   | [ANIME+範圍](../Page/ANIME+.md "wikilink") |
-| [NICONICO動畫](../Page/NICONICO動畫.md "wikilink") | 2011年1月8日 -                               | 星期六 0時00分頃更新      | [網路電視](../Page/網路電視.md "wikilink") | 最新話一週免費                                      |                                          |
-| [AT-X](../Page/AT-X.md "wikilink")             | 2011年1月8日 - 4月2日                          | 星期六 8時30分 - 9時00分 | [CS放送](../Page/CS放送.md "wikilink") | 有重播                                          |                                          |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")             | [tvk](../Page/神奈川電視台.md "wikilink")       | 2011年4月4日 -       | 星期一 25時45分 - 26時15分                | 独立UHF局                                       |                                          |
+| 播放地域                                                              | 播放電視台                                                 | 播放日期              | 播放時間                                                  | 播放系列                                                            | 備註                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------- | ----------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------- |
+| [東京都](../Page/東京都.md "wikilink")                                  | [TOKYO MX](../Page/東京都會電視台.md "wikilink")             | 2011年1月4日 - 3月29日 | 星期二 23時00分 - 23時30分                                   | [独立UHF局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |                                          |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")                  | 2011年1月5日 - 3月30日 | 星期三 26時28分 - 26時58分                                   | [東京電視網](../Page/東京電視網.md "wikilink")                            |                                          |
+| [近畿廣域圏](https://zh.wikipedia.org/wiki/近畿廣域圏 "wikilink")           | [毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink") | 2011年1月6日 - 3月31日 | 星期四 25時55分 - 26時25分                                   | [TBS系列](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")         |                                          |
+| 日本全域                                                              | BS11                                                  | 2011年1月7日 - 4月1日  | 星期五 23時00分 - 23時30分                                   | [BSデジタル放送](https://zh.wikipedia.org/wiki/BSデジタル放送 "wikilink")   | [ANIME+範圍](../Page/ANIME+.md "wikilink") |
+| [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2011年1月8日 -                                           | 星期六 0時00分頃更新      | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") | 最新話一週免費                                                         |                                          |
+| [AT-X](../Page/AT-X.md "wikilink")                                | 2011年1月8日 - 4月2日                                      | 星期六 8時30分 - 9時00分 | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink") | 有重播                                                             |                                          |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                                | [tvk](../Page/神奈川電視台.md "wikilink")                   | 2011年4月4日 -       | 星期一 25時45分 - 26時15分                                   | 独立UHF局                                                          |                                          |
 
 ## 外部連結
 

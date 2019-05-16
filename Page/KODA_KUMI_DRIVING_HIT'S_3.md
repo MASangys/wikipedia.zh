@@ -11,8 +11,8 @@
     Handz-Up Electro Remix\]**
 2.  **[POP DIVA](../Page/POP_DIVA.md "wikilink") \[HOUSE NATION Sunset
     In Ibiza Remix\]**
-3.  **[Bounce](../Page/anytime.md "wikilink") \[KOZM® Remix Lucas
-    Valentine\]**
+3.  **[Bounce](https://zh.wikipedia.org/wiki/anytime "wikilink") \[KOZM®
+    Remix Lucas Valentine\]**
 4.  **[FREAKY](../Page/FREAKY.md "wikilink") \[Caramel Pod Remix\]**
 5.  **[Driving](../Page/TRICK_\(倖田來未專輯\).md "wikilink") \[ID3 Night
     Drive Remix\]**
@@ -40,8 +40,8 @@
 16. **[With your
     smile](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")
     \[GROOVEHACKER$ REMIX\]**
-17. **[come back](../Page/affection.md "wikilink") \[PLUG in LANGUAGE
-    Remix\]**
+17. **[come back](https://zh.wikipedia.org/wiki/affection "wikilink")
+    \[PLUG in LANGUAGE Remix\]**
 18. **[POP DIVA](../Page/POP_DIVA.md "wikilink") \[DJ VIRMAN REMIX -
     [FAR EAST MOVEMENT](../Page/遠東韻律.md "wikilink")\]**（Bonus track）
 
