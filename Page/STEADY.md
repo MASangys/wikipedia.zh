@@ -1,8 +1,8 @@
-《**STEADY**》，是[日本](../Page/日本.md "wikilink")[女子演唱團體](../Page/女子演唱團體.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")2張[單曲](../Page/單曲.md "wikilink")。1996年11月18日發行，是SPEED其中一首代表作、第一張銷量突破百萬的單曲。
+《**STEADY**》，是[日本](../Page/日本.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年11月18日發行，是SPEED其中一首代表作、第一張銷量突破百萬的單曲。
 
-是同年[朝日系熱門愛情](../Page/朝日電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")《[恶作剧之吻](../Page/恶作剧之吻_\(日本电视剧\).md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")，電視劇和主題曲互相配合拉高人氣，使這首單曲成為SPEED出道不夠一年就獲得[日本唱片業協會](../Page/日本唱片業協會.md "wikilink")「Million」認證的唱片。並成為1997年年度單曲銷量第5位。最終銷量超過150萬張，是SPEED的單曲中銷量僅次於《[White
+是同年[朝日系熱門愛情](../Page/朝日電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[恶作剧之吻](https://zh.wikipedia.org/wiki/恶作剧之吻_\(日本电视剧\) "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")，電視劇和主題曲互相配合拉高人氣，使這首單曲成為SPEED出道不夠一年就獲得[日本唱片業協會](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")「Million」認證的唱片。並成為1997年年度單曲銷量第5位。最終銷量超過150萬張，是SPEED的單曲中銷量僅次於《[White
 Love](../Page/White_Love.md "wikilink")》、《[my
-graduation](../Page/my_graduation.md "wikilink")》的第三位。
+graduation](https://zh.wikipedia.org/wiki/my_graduation "wikilink")》的第三位。
 
 這首單曲的成功更奠定了SPEED作為當時超級女子團體的地位。
 

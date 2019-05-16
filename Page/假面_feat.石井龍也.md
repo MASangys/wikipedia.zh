@@ -1,7 +1,7 @@
 《**KAMEN 假面
 feat.石井龍也**》為2006年2月8日發行的日本歌手[倖田來未第](../Page/倖田來未.md "wikilink")28張單曲。
 
-[12週單曲連發第](../Page/12週單曲連發.md "wikilink")10彈・5萬張完全限定生產作品。單曲封面主題為[夏威夷](../Page/夏威夷.md "wikilink")。
+[12週單曲連發第](../Page/12週單曲連發.md "wikilink")10彈・5萬張完全限定生產作品。單曲封面主題為[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")。
 
 ## 解說
 
@@ -11,7 +11,7 @@ feat.石井龍也**》為2006年2月8日發行的日本歌手[倖田來未第](.
 
   - 男女合唱曲進入TOP3的為[濱崎步](../Page/濱崎步.md "wikilink")[LOVE ～Destiny～/LOVE
     ～since
-    1999～以來](../Page/LOVE_～Destiny～/LOVE_～since_1999～.md "wikilink")，6年10個月再次進榜也是2000年的第一次。
+    1999～以來](https://zh.wikipedia.org/wiki/LOVE_～Destiny～/LOVE_～since_1999～ "wikilink")，6年10個月再次進榜也是2000年的第一次。
 
 <!-- end list -->
 

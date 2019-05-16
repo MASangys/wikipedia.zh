@@ -3,16 +3,16 @@
 ## 概要
 
   - 2009年《[Animelo Summer
-    Live](../Page/Animelo_Summer_Live#2009年.md "wikilink")》第一次出現場的時候唱的曲子。
+    Live](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2009年 "wikilink")》第一次出現場的時候唱的曲子。
 
 ## 收錄曲
 
 1.  **mind as Judgment**
 
       -
-        [作詞](../Page/作詞.md "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：上松範康（[Elements
+        [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：上松範康（[Elements
         Garden](../Page/Elements_Garden.md "wikilink")）
-        [電視動畫](../Page/電視動畫.md "wikilink")《[CANAAN](../Page/CANAAN.md "wikilink")》主題歌。
+        [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[CANAAN](../Page/CANAAN.md "wikilink")》主題歌。
 
 2.  ****
 

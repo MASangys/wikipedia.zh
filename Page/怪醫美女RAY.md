@@ -86,7 +86,7 @@ SIDE-」收錄於單行本《**怪醫美女RAY+**》。此漫畫中的角色B.J.
 ## 外部連結
 
   - [アニメ公式サイト](http://web.archive.org/web/*/http://ray.tv/) -
-    [網際網路檔案館](../Page/網際網路檔案館.md "wikilink")
+    [網際網路檔案館](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")
 
   - [hicbc.com：RAY THE ANIMATION](http://hicbc.com/tv/ray/)
 

@@ -1,9 +1,11 @@
 **SSR**可以指：
 
   - [固態繼電器](../Page/固態繼電器.md "wikilink")（Solid State Relay）
-  - [简单重复序列](../Page/微卫星.md "wikilink")（Simple Sequence Repeats）
-  - [影梭R](../Page/影梭R.md "wikilink")（ShadowsocksR）
-  - [服务器端渲染](../Page/服务器端渲染.md "wikilink")（Server Side Render）\<\!--
+  - [简单重复序列](https://zh.wikipedia.org/wiki/微卫星 "wikilink")（Simple
+    Sequence Repeats）
+  - [影梭R](https://zh.wikipedia.org/wiki/影梭R "wikilink")（ShadowsocksR）
+  - [服务器端渲染](https://zh.wikipedia.org/wiki/服务器端渲染 "wikilink")（Server
+    Side Render）\<\!--
   - Small Screen Rendering，[Opera
     Mini技術的一部分](../Page/Opera_Mini.md "wikilink")
 
@@ -27,7 +29,7 @@
   - SSR Motorsports，摩托車製造商
 
   - Special Super
-    Rare，一些[集换式卡牌游戏中的一种稀有度](../Page/集换式卡牌游戏.md "wikilink")(Super
+    Rare，一些[集换式卡牌游戏中的一种稀有度](https://zh.wikipedia.org/wiki/集换式卡牌游戏 "wikilink")(Super
     Salary Reaper)
 
 <!-- end list -->
@@ -35,8 +37,8 @@
   - [斯洛伐克社会主义共和国](../Page/斯洛伐克社会主义共和国.md "wikilink")（1969–1990）（Slovak
     Socialist Republic）
 
-  - [苏维埃社会主义共和国](../Page/苏联加盟共和国.md "wikilink")（Soviet Socialist
-    Republic）
+  - [苏维埃社会主义共和国](https://zh.wikipedia.org/wiki/苏联加盟共和国 "wikilink")（Soviet
+    Socialist Republic）
 
   - (1919)（Slovak Soviet Republic）\<\!--
 
@@ -84,7 +86,7 @@
 
 ## Other uses
 
-  - [瑞士广播电视集团](../Page/瑞士广播电视集团.md "wikilink")
+  - [瑞士广播电视集团](https://zh.wikipedia.org/wiki/瑞士广播电视集团 "wikilink")
 
   - , a senior secondary school in India
 

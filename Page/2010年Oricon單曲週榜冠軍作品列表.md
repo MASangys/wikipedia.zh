@@ -1,4 +1,4 @@
-**2010年Oricon單曲週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**2010年Oricon單曲週榜冠軍作品列表**列出2010年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有51張冠軍單曲誕生，但沒有一首單曲獲得兩週或以上冠軍，且所有冠軍單曲都是在發行首週取得冠軍。
 
@@ -26,7 +26,7 @@
 <tr class="even">
 <td><p>1月18日<br />
 （雙週）</p></td>
-<td><p><a href="../Page/You_were.../BALLAD.md" title="wikilink">You were...／BALLAD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/You_were.../BALLAD" title="wikilink">You were...／BALLAD</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>10.3</p></td>
 <td><p>2</p></td>
@@ -41,7 +41,7 @@
 <tr class="even">
 <td><p>2月1日</p></td>
 <td><p><a href="../Page/GLORIA.md" title="wikilink">GLORIA</a></p></td>
-<td><p><a href="../Page/YUI_(歌手).md" title="wikilink">YUI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></p></td>
 <td><p>8.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -55,7 +55,7 @@
 <tr class="even">
 <td><p>2月15日</p></td>
 <td><p><a href="../Page/無法挽回的明日.md" title="wikilink">無法挽回的明日</a></p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 <td><p>5.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -68,7 +68,7 @@
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p><a href="../Page/櫻花書籤.md" title="wikilink">櫻花書籤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻花書籤" title="wikilink">櫻花書籤</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>31.7</p></td>
 <td><p>1</p></td>
@@ -90,20 +90,20 @@
 <tr class="odd">
 <td><p>3月22日</p></td>
 <td></td>
-<td><p><a href="../Page/遊助.md" title="wikilink">遊助</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遊助" title="wikilink">遊助</a></p></td>
 <td><p>9.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>3月29日</p></td>
 <td><p><a href="../Page/鬼臉橋.md" title="wikilink">鬼臉橋</a></p></td>
-<td><p><a href="../Page/走廊奔跑隊.md" title="wikilink">走廊奔跑隊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/走廊奔跑隊" title="wikilink">走廊奔跑隊</a></p></td>
 <td><p>2.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月5日</p></td>
-<td><p><a href="../Page/時光暫停.md" title="wikilink">時光暫停</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/時光暫停" title="wikilink">時光暫停</a></p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>19.5</p></td>
 <td><p>1</p></td>
@@ -139,13 +139,13 @@
 <tr class="even">
 <td><p>5月10日</p></td>
 <td><p><a href="../Page/GO!_GO!_MANIAC.md" title="wikilink">GO! GO! MANIAC</a></p></td>
-<td><p><a href="../Page/K-ON!.md" title="wikilink">放課後TEA TIME</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">放課後TEA TIME</a></p></td>
 <td><p>8.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月17日</p></td>
-<td><p><a href="../Page/想見你的理由_/_Dream_After_Dream_～夢醒之夢～.md" title="wikilink">想見你的理由／Dream After Dream ～夢醒之夢～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/想見你的理由_/_Dream_After_Dream_～夢醒之夢～" title="wikilink">想見你的理由／Dream After Dream ～夢醒之夢～</a></p></td>
 <td><p><a href="../Page/AAA_(團體).md" title="wikilink">AAA</a></p></td>
 <td><p>4.5</p></td>
 <td><p>1</p></td>
@@ -173,8 +173,8 @@
 </tr>
 <tr class="odd">
 <td><p>6月14日</p></td>
-<td><p><a href="../Page/to_Mother.md" title="wikilink">to Mother</a></p></td>
-<td><p><a href="../Page/YUI_(歌手).md" title="wikilink">YUI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/to_Mother" title="wikilink">to Mother</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></p></td>
 <td><p>7.1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -188,7 +188,7 @@
 <tr class="odd">
 <td><p>6月28日</p></td>
 <td></td>
-<td><p><a href="../Page/TOKIO.md" title="wikilink">TOKIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKIO" title="wikilink">TOKIO</a></p></td>
 <td><p>4.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月26日</p></td>
-<td><p><a href="../Page/MOON/blossom.md" title="wikilink">MOON／blossom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MOON/blossom" title="wikilink">MOON／blossom</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>7.0</p></td>
 <td><p>1</p></td>
@@ -229,7 +229,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月9日</p></td>
-<td><p><a href="../Page/One_in_a_million.md" title="wikilink">One in a million</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_in_a_million" title="wikilink">One in a million</a></p></td>
 <td><p><a href="../Page/山下智久.md" title="wikilink">山下智久</a></p></td>
 <td><p>16.1</p></td>
 <td><p>1</p></td>
@@ -257,7 +257,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月6日</p></td>
-<td><p><a href="../Page/LIFE～朝著眼前的方向～.md" title="wikilink">LIFE～朝著眼前的方向～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～" title="wikilink">LIFE～朝著眼前的方向～</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>25.6</p></td>
 <td><p>1</p></td>
@@ -279,13 +279,13 @@
 <tr class="even">
 <td><p>9月27日</p></td>
 <td><p><a href="../Page/活出堅強.md" title="wikilink">活出堅強</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>15.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月4日</p></td>
-<td><p><a href="../Page/crossroad.md" title="wikilink">crossroad</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/crossroad" title="wikilink">crossroad</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>7.4</p></td>
 <td><p>1</p></td>
@@ -356,7 +356,7 @@
 <tr class="odd">
 <td><p>12月13日</p></td>
 <td><p><a href="../Page/Family_～讓我們在一起.md" title="wikilink">Family ～讓我們在一起</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>16.5</p></td>
 <td><p>1</p></td>
 </tr>

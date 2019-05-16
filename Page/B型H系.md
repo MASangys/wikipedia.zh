@@ -1,9 +1,9 @@
-《**B型H系**》是日本漫畫家[山-{}-里陽子在](../Page/山里陽子.md "wikilink")《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品](../Page/四格漫画.md "wikilink")，自2004年20號起連載至2011年10號為止，單行本全九集。改編电视动画于2010年4月开始播放至同年7月，共12回。
+《**B型H系**》是日本漫畫家[山-{}-里陽子在](https://zh.wikipedia.org/wiki/山里陽子 "wikilink")《[週刊YOUNG
+JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品](https://zh.wikipedia.org/wiki/四格漫画 "wikilink")，自2004年20號起連載至2011年10號為止，單行本全九集。改編电视动画于2010年4月开始播放至同年7月，共12回。
 
 ## 剧情简介
 
-本作的主人公**山田**是一个美少女高中生，她的梦想是結交100名[性伙伴](../Page/性伙伴.md "wikilink")。她选择的第一个对象是外表平凡的[處男](../Page/處男.md "wikilink")**小须田**，可是因为种种原因，总是不能如愿。
+本作的主人公**山田**是一个美少女高中生，她的梦想是結交100名[性伙伴](../Page/性伙伴.md "wikilink")。她选择的第一个对象是外表平凡的[處男](https://zh.wikipedia.org/wiki/處男 "wikilink")**小须田**，可是因为种种原因，总是不能如愿。
 
 ## 登場人物
 
@@ -16,7 +16,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 ### 主要角色
 
   -
-    本作品主角，名不詳。登場時是十五歲的高一生，[處女](../Page/處女.md "wikilink")、B罩杯，滿腦子都是黃色思想。渴望「要和100人發生性關係」，由於害怕被別人知道自己是處女而被嘲笑，所以第一個目標希望找的是毫無經驗的處男，因而找上平凡的小須田崇。但由於個性上[傲嬌](../Page/傲嬌.md "wikilink")、[公主病](../Page/公主病.md "wikilink")，因為自尊往往不敢說出自己的想法，因此發生種種原因，無法與小須田告白、[做愛](../Page/床戏.md "wikilink")，直到高三時兩人才突破困難開始交往並達成願望。五官標緻、身材端正，成績優異，登場時設定為學校最受歡迎的女生，之後與金城京香並列。
+    本作品主角，名不詳。登場時是十五歲的高一生，[處女](https://zh.wikipedia.org/wiki/處女 "wikilink")、B罩杯，滿腦子都是黃色思想。渴望「要和100人發生性關係」，由於害怕被別人知道自己是處女而被嘲笑，所以第一個目標希望找的是毫無經驗的處男，因而找上平凡的小須田崇。但由於個性上[傲嬌](../Page/傲嬌.md "wikilink")、[公主病](../Page/公主病.md "wikilink")，因為自尊往往不敢說出自己的想法，因此發生種種原因，無法與小須田告白、[做愛](../Page/床戏.md "wikilink")，直到高三時兩人才突破困難開始交往並達成願望。五官標緻、身材端正，成績優異，登場時設定為學校最受歡迎的女生，之後與金城京香並列。
     最後與小須田發生性關係，並因愛情而放棄了「要和100人發生性關係」的想法，一心一意當小須田的愛侶，和小須田考上同一所大學。
 
 <!-- end list -->
@@ -29,7 +29,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
   -
     山田同班親友，擁有令山田羨慕的F罩杯，因此被山田戲稱為「F下」。男朋友是三年生松尾大佑。由於自初中就與山田認識，所以是山田吐露心聲的對象，也常幫忙山田解決戀愛上的煩惱。經常吐槽山田（縱然不在現場，仍會以旁白角色在旁吐嘈）。
   -
-    小須田的[青梅竹馬及鄰居](../Page/青梅竹馬.md "wikilink")，擁有F罩杯（山田目測），處女。自幼暗戀小須田崇，山田視她為情敵。[天然呆兼](../Page/天然呆.md "wikilink")[冒失娘](../Page/冒失娘.md "wikilink")，喜歡烹飪。二年級時與小須田同班，後來向小須田告白失敗。
+    小須田的[青梅竹馬及鄰居](../Page/青梅竹馬.md "wikilink")，擁有F罩杯（山田目測），處女。自幼暗戀小須田崇，山田視她為情敵。[天然呆兼](../Page/天然呆.md "wikilink")[冒失娘](https://zh.wikipedia.org/wiki/冒失娘 "wikilink")，喜歡烹飪。二年級時與小須田同班，後來向小須田告白失敗。
   -
     富家千金，暗戀自己的兄長，是一位有戀兄情結的處女，C罩杯。有收藏有關其兄物品的[戀物癖](../Page/戀物.md "wikilink")。在1年級第二學期回到日本，校園祭人氣比賽曾僅負於山田。2年級與山田同班，於是開始展開針對山田的行動，但對山田只是一知半解。兩人針鋒相對直到最後才冰釋前嫌和好，並且放棄戀兄的癖好，之後出國就讀大學。
   -
@@ -75,7 +75,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
     他本人登場次數很少。是山田最深刻的人，可能山田已忘了。以前帮助她理解感情，没想到让她误会；导致现在的滿腦子都是黃色思想，而且还被山田履行了某种约定，其实在山田履行了某种约定时也没听到很清楚就这样不了了之了。
   -
     掌管情慾的神。依其附身有著各自角色相似的姿容和性格。只在夢中出現給予指引，不過後來在白天也出現，並且作為吐嘈角色。
-    動畫版中擔任解說或[逗哏的角色](../Page/逗哏.md "wikilink")。
+    動畫版中擔任解說或[逗哏的角色](https://zh.wikipedia.org/wiki/逗哏 "wikilink")。
       - 動畫登場
     <!-- end list -->
       - 山田（声： - ／[宍戶留美](../Page/宍戶留美.md "wikilink")）
@@ -109,9 +109,9 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 <tbody>
 <tr class="odd">
 <td><p>初版發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>初版發售日期</p></td>
-<td><p><a href="../Page/EAN.md" title="wikilink">EAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>B型H系 1</p></td>
@@ -182,7 +182,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 <tbody>
 <tr class="odd">
 <td><p>初版發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>B型H系</p></td>
@@ -193,7 +193,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 
 ## 電視动画
 
-2010年4月开始在[独立UHF局播放](../Page/独立UHF局.md "wikilink")。
+2010年4月开始在[独立UHF局播放](https://zh.wikipedia.org/wiki/独立UHF局 "wikilink")。
 
 ### 工作人员
 
@@ -211,11 +211,12 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
     Garden](../Page/Elements_Garden.md "wikilink")（藤田淳平、藤間仁）
   - 錄音演出：鹽谷翼
   - 制片人：松井智、森亮介、吉田悟、栗田滋弘、甲斐健太郎
-  - 动画制作：[HAL FILM MAKER](../Page/HAL_FILM_MAKER.md "wikilink")
-  - 製作：B型H系製作委員会（[Happinet](../Page/Happinet.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[電通](../Page/電通.md "wikilink")、[AG-ONE](../Page/AG-ONE.md "wikilink")、[NEC
-    BIGLOBE](../Page/NEC_BIGLOBE.md "wikilink")、[DAX
-    Production](../Page/DAX_Production.md "wikilink")、[TYO
-    Animations](../Page/TYO_Animations.md "wikilink")、[McRAY](../Page/McRAY.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
+  - 动画制作：[HAL FILM
+    MAKER](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
+  - 製作：B型H系製作委員会（[Happinet](https://zh.wikipedia.org/wiki/Happinet "wikilink")、[集英社](../Page/集英社.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[AG-ONE](https://zh.wikipedia.org/wiki/AG-ONE "wikilink")、[NEC
+    BIGLOBE](https://zh.wikipedia.org/wiki/NEC_BIGLOBE "wikilink")、[DAX
+    Production](https://zh.wikipedia.org/wiki/DAX_Production "wikilink")、[TYO
+    Animations](https://zh.wikipedia.org/wiki/TYO_Animations "wikilink")、[McRAY](https://zh.wikipedia.org/wiki/McRAY "wikilink")、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題歌
 
@@ -230,7 +231,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
   -
     作詞：
 
-    作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
+    作曲・編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
 
     歌：山田（[田村由香里](../Page/田村由香里.md "wikilink")）
 
@@ -245,7 +246,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
   -
     作詞：
 
-    作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
+    作曲・編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
 
     歌：山田（[田村由香里](../Page/田村由香里.md "wikilink")）
 
@@ -271,7 +272,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 <!-- end list -->
 
   -
-    作詞：[鬼頭巖](../Page/鬼頭巖.md "wikilink")
+    作詞：[鬼頭巖](https://zh.wikipedia.org/wiki/鬼頭巖 "wikilink")
     作曲・編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements
     Garden](../Page/Elements_Garden.md "wikilink")）
     歌：
@@ -283,9 +284,9 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 <!-- end list -->
 
   -
-    作詞：[童貞一男](../Page/童貞一男.md "wikilink")
+    作詞：[童貞一男](https://zh.wikipedia.org/wiki/童貞一男 "wikilink")
     作曲・編曲：
-    歌：小須田崇、、工藤俊一（[阿部敦](../Page/阿部敦.md "wikilink")、[大下孝太](../Page/大下孝太.md "wikilink")、[小泉豐](../Page/小泉豐.md "wikilink")）
+    歌：小須田崇、、工藤俊一（[阿部敦](../Page/阿部敦.md "wikilink")、[大下孝太](https://zh.wikipedia.org/wiki/大下孝太 "wikilink")、[小泉豐](../Page/小泉豐.md "wikilink")）
 
 <!-- end list -->
 
@@ -294,8 +295,8 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
 <!-- end list -->
 
   -
-    作詞・作曲：[NAGAE](../Page/NAGAE.md "wikilink")
-    編曲：[菊田大介](../Page/菊田大介.md "wikilink")（[Elements
+    作詞・作曲：[NAGAE](https://zh.wikipedia.org/wiki/NAGAE "wikilink")
+    編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
     Garden](../Page/Elements_Garden.md "wikilink")）
     歌：山田、宮野麻由、金城京香（[田村由香里](../Page/田村由香里.md "wikilink")、[花澤香菜](../Page/花澤香菜.md "wikilink")、[小林優](../Page/小林優.md "wikilink")）
 
@@ -609,23 +610,23 @@ B型H系、永远…</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬電視網</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">京都放送</a></p></td>
 <td><p>2010年4月1日 - 6月17日</p></td>
 <td><p>星期四 25時00分 - 25時30分</p></td>
-<td><p><a href="../Page/全国独立UHF放送協議会.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
 <td><p> </p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>星期四 25時30分 - 26時00分</p></td>
 <td></td>
 <td></td>
@@ -636,7 +637,7 @@ B型H系、永远…</p></td>
 <td><p>BIGLOBE</p></td>
 <td><p>2010年4月2日 - 6月18日</p></td>
 <td><p>星期五 13時00分 更新</p></td>
-<td><p><a href="../Page/網路電視.md" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p><strong>製作局</strong></p></td>
 </tr>
 <tr class="even">
@@ -648,8 +649,8 @@ B型H系、永远…</p></td>
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/和歌山縣.md" title="wikilink">和歌山縣</a></p></td>
-<td><p><a href="../Page/和歌山電視台.md" title="wikilink">和歌山電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/和歌山電視台" title="wikilink">和歌山電視台</a></p></td>
 <td><p>星期日 25時40分 - 26時10分</p></td>
 <td></td>
 <td></td>
@@ -660,12 +661,12 @@ B型H系、永远…</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2010年4月5日 - 6月21日</p></td>
 <td><p>星期一 8時30分 - 9時00分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">CS放送</a></p></td>
 <td><p><strong>製作局</strong><br />
 有重播時段</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岐阜縣.md" title="wikilink">岐阜縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a></p></td>
 <td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a></p></td>
 <td><p>星期一 25時45分 - 26時15分</p></td>
 <td><p>独立UHF局</p></td>
@@ -674,14 +675,14 @@ B型H系、永远…</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2010年4月7日 - 6月23日</p></td>
 <td><p>星期三 25時30分 - 26時00分</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/三重縣.md" title="wikilink">三重縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重縣</a></p></td>
 <td><p><a href="../Page/三重電視台.md" title="wikilink">三重電視台</a></p></td>
 <td><p>2010年4月8日 - 6月24日</p></td>
 <td><p>星期四 25時20分 - 25時50分</p></td>
@@ -689,8 +690,8 @@ B型H系、永远…</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/奈良縣.md" title="wikilink">奈良縣</a></p></td>
-<td><p><a href="../Page/奈良電視台.md" title="wikilink">奈良電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良電視台" title="wikilink">奈良電視台</a></p></td>
 <td><p>2010年4月9日 - 7月2日</p></td>
 <td><p>星期五 25時30分 - 26時00分</p></td>
 <td></td>
@@ -698,7 +699,7 @@ B型H系、永远…</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/showTime.md" title="wikilink">showTime</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/showTime" title="wikilink">showTime</a></p></td>
 <td><p>2010年4月16日 -</p></td>
 <td><p>星期五 15時00分 更新</p></td>
 <td><p>網路電視</p></td>

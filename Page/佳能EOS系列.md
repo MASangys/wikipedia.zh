@@ -1,5 +1,5 @@
 [Canon_EOS.svg](https://zh.wikipedia.org/wiki/File:Canon_EOS.svg "fig:Canon_EOS.svg")
-**佳能EOS系列**是[佳能公司於](../Page/佳能.md "wikilink")1987年開始推出的一系列[單眼相機及其配套系统](../Page/單眼相機.md "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
+**佳能EOS系列**是[佳能公司於](../Page/佳能.md "wikilink")1987年開始推出的一系列[單眼相機及其配套系统](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")。EOS在英文的全稱是“”，也就是**電子光學系統**\[1\]。
 
 第一款EOS是在佳能成立的五十周年当天（1987年3月1日）所推出的EOS
 650\[2\]。后来，數位單眼相機逐步取代了底片單眼相機。2000年，佳能推出的EOS
@@ -8,7 +8,7 @@ D30是佳能EOS系列第一款數位單眼相機。\[3\]
 ## 机身
 
 佳能于1987年发布了EOS系列的第一款单镜反光相机EOS
-650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](../Page/柯达.md "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS
+650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](https://zh.wikipedia.org/wiki/柯达 "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS
 CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机EOS D30发布。\[4\]
 [Canon_CMOS.jpg](https://zh.wikipedia.org/wiki/File:Canon_CMOS.jpg "fig:Canon_CMOS.jpg")
 
@@ -56,8 +56,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS-1Ds.md" title="wikilink">1Ds</a></p></td>
-<td><p><span style="display:否ne">1</span> <a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-1Ds" title="wikilink">1Ds</a></p></td>
+<td><p><span style="display:否ne">1</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>35.8×23.8 mm CMOS</p></td>
 <td><p>11.4</p></td>
 <td><p>100-<span style="display:否ne"></span>1250</p></td>
@@ -71,7 +71,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS-1Ds_Mark_II.md" title="wikilink">1Ds MarkII</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>36.0×22.0 mm CMOS</p></td>
 <td><p>16.7</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -85,7 +85,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS-1Ds_Mark_III.md" title="wikilink">1Ds MarkIII</a></p></td>
-<td><p><span style="display:否ne">3</span> <a href="../Page/DIGIC#Dual_DIGIC_III.md" title="wikilink">Dual DIGIC III</a></p></td>
+<td><p><span style="display:否ne">3</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_III" title="wikilink">Dual DIGIC III</a></p></td>
 <td><p>36.0×24.0 mm CMOS</p></td>
 <td><p>21</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -99,7 +99,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS-1D.md" title="wikilink">1D</a></p></td>
-<td><p><span style="display:否ne">1</span> <a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><span style="display:否ne">1</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>28.7×19.1 mm CCD</p></td>
 <td><p>4</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -112,8 +112,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>156×157.6×79.9 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS-1D_Mark_II.md" title="wikilink">1D Mark II</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-1D_Mark_II" title="wikilink">1D Mark II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>28.7×19.1 mm CMOS</p></td>
 <td><p>8.2</p></td>
 <td><p><span style="display:否ne"></span>50-<span style="display:否ne"></span>3200</p></td>
@@ -126,8 +126,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>156×157.6×79.9 mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EOS-1D_Mark_II_N.md" title="wikilink">1D Mark II N</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-1D_Mark_II_N" title="wikilink">1D Mark II N</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>28.7×19.1 mm CMOS</p></td>
 <td><p>8.2</p></td>
 <td><p><span style="display:否ne"></span>50-<span style="display:否ne"></span>3200</p></td>
@@ -141,7 +141,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS-1D_Mark_III.md" title="wikilink">1D Mark III</a></p></td>
-<td><p><span style="display:否ne">3D</span> <a href="../Page/DIGIC#Dual_DIGIC_III.md" title="wikilink">Dual DIGIC III</a></p></td>
+<td><p><span style="display:否ne">3D</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_III" title="wikilink">Dual DIGIC III</a></p></td>
 <td><p>28.1×18.7 mm CMOS</p></td>
 <td><p>10.1</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -155,7 +155,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS-1D_Mark_IV.md" title="wikilink">1D Mark IV</a></p></td>
-<td><p><span style="display:否ne">4D</span> <a href="../Page/DIGIC#Dual_DIGIC_4.md" title="wikilink">Dual DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4D</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_4" title="wikilink">Dual DIGIC 4</a></p></td>
 <td><p>27.9×18.6 mm CMOS</p></td>
 <td><p>16.1</p></td>
 <td><p>50-<span style="display:否ne"></span> 102,400</p></td>
@@ -169,7 +169,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS-1D_X.md" title="wikilink">1D X</a></p></td>
-<td><p><span style="display:否ne"></span> <a href="../Page/DIGIC#Dual_DIGIC_5+.md" title="wikilink">Dual DIGIC 5+</a></p></td>
+<td><p><span style="display:否ne"></span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_5+" title="wikilink">Dual DIGIC 5+</a></p></td>
 <td><p>36.0×24.0 mm CMOS</p></td>
 <td><p>18.0</p></td>
 <td><p>50-<span style="display:否ne"></span> 204,800</p></td>
@@ -182,8 +182,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>158×163.6×82.7 mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EOS-1D_X_Mark_II.md" title="wikilink">1D X Mark II</a></p></td>
-<td><p><span style="display:否ne"></span> <a href="../Page/DIGIC#Dual_DIGIC_6.md" title="wikilink">Dual DIGIC 6+</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-1D_X_Mark_II" title="wikilink">1D X Mark II</a></p></td>
+<td><p><span style="display:否ne"></span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_6" title="wikilink">Dual DIGIC 6+</a></p></td>
 <td><p>36.0×24.0 mm CMOS</p></td>
 <td><p>20.2</p></td>
 <td><p>50-<span style="display:否ne"></span> 409,600</p></td>
@@ -197,7 +197,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_5D.md" title="wikilink">5D</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>35.8×23.9 mm CMOS</p></td>
 <td><p>12.8</p></td>
 <td><p><span style="display:否ne"></span>50-<span style="display:否ne"></span>3200</p></td>
@@ -211,7 +211,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_5D_Mark_II.md" title="wikilink">5D Mark II</a></p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>35.8×23.9 mm CMOS</p></td>
 <td><p>21.1</p></td>
 <td><p><span style="display:否ne"></span>50-<span style="display:否ne"></span>25,600</p></td>
@@ -225,7 +225,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_5D_Mark_III.md" title="wikilink">5D Mark III</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC_5+.md" title="wikilink">DIGIC 5+</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5+" title="wikilink">DIGIC 5+</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>22.3</p></td>
 <td><p>100-<span style="display:否ne"></span>102400</p></td>
@@ -238,8 +238,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>152.0×116.4×76.4 mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EOS_5D_Mark_IV.md" title="wikilink">5D Mark IV</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_IV" title="wikilink">5D Mark IV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>36 × 24 mm CMOS</p></td>
 <td><p>30.4</p></td>
 <td><p>1<span style="display:否ne"></span>00-102400</p></td>
@@ -252,8 +252,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>150.7×116.4×75.9mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS_5Ds.md" title="wikilink">5Ds/5DsR</a></p></td>
-<td><p>Dual <a href="../Page/DIGIC#DIGIC_+.md" title="wikilink">DIGIC 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_5Ds" title="wikilink">5Ds/5DsR</a></p></td>
+<td><p>Dual <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_+" title="wikilink">DIGIC 6</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>50.6</p></td>
 <td><p>100-<span style="display:否ne"></span>6400</p></td>
@@ -267,7 +267,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_6D.md" title="wikilink">6D</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC_5+.md" title="wikilink">DIGIC 5+</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5+" title="wikilink">DIGIC 5+</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>20.2</p></td>
 <td><p>100-<span style="display:否ne"></span>102400</p></td>
@@ -280,8 +280,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>144.5×110.5×71.2 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS_6D_Mark_II.md" title="wikilink">6D Mark II</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_6D_Mark_II" title="wikilink">6D Mark II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC 7</a></p></td>
 <td><p>36×24 mm CMOS</p></td>
 <td><p>26.2</p></td>
 <td><p>1<span style="display:否ne"></span>00-40000</p></td>
@@ -295,7 +295,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_7D.md" title="wikilink">7D</a></p></td>
-<td><p><span style="display:否ne">4D</span> <a href="../Page/DIGIC#Dual_DIGIC_4.md" title="wikilink">Dual DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4D</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#Dual_DIGIC_4" title="wikilink">Dual DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -309,7 +309,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_7D_Mark_II.md" title="wikilink">7D Mark II</a></p></td>
-<td><p>Dual <a href="../Page/DIGIC#DIGIC_6.md" title="wikilink">DIGIC 6</a></p></td>
+<td><p>Dual <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6" title="wikilink">DIGIC 6</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>20.2</p></td>
 <td><p>100-<span style="display:否ne"></span>51,200</p></td>
@@ -351,7 +351,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_10D.md" title="wikilink">10D</a></p></td>
-<td><p><span style="display:否ne">1</span> <a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><span style="display:否ne">1</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>22.7×15.1 mm CMOS</p></td>
 <td><p>6.3</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -365,7 +365,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_20D.md" title="wikilink">20D</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.5×15.0 mm CMOS</p></td>
 <td><p>8.2</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -379,7 +379,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_30D.md" title="wikilink">30D</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.5×15.0 mm CMOS</p></td>
 <td><p>8.2</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -393,7 +393,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_40D.md" title="wikilink">40D</a></p></td>
-<td><p><span style="display:否ne">3</span> <a href="../Page/DIGIC#DIGIC_III.md" title="wikilink">DIGIC III</a></p></td>
+<td><p><span style="display:否ne">3</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_III" title="wikilink">DIGIC III</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>10.1</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -407,7 +407,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_50D.md" title="wikilink">50D</a></p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>15.1</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -421,7 +421,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/佳能_EOS_60D.md" title="wikilink">60D</a></p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -435,7 +435,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佳能_EOS_70D.md" title="wikilink">70D</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC_5+.md" title="wikilink">DIGIC 5+</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5+" title="wikilink">DIGIC 5+</a></p></td>
 <td><p>22.5 x 15.0mm CMOS</p></td>
 <td><p>20.2</p></td>
 <td><p>100-<span style="display:none"></span>25600</p></td>
@@ -448,8 +448,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>139×104.3×78.5 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS_80D.md" title="wikilink">80D</a></p></td>
-<td><p><a href="../Page/DIGIC#DIGIC_6.md" title="wikilink">DIGIC 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_80D" title="wikilink">80D</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6" title="wikilink">DIGIC 6</a></p></td>
 <td><p>22.5 x 15.0mm CMOS</p></td>
 <td><p>24.2</p></td>
 <td><p>100-<span style="display:none"></span>25600</p></td>
@@ -462,8 +462,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>139×105.2×78.5mm</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佳能_EOS_20Da.md" title="wikilink">20Da</a></p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_20Da" title="wikilink">20Da</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.5×15.0 mm CMOS</p></td>
 <td><p>8.2</p></td>
 <td><p>100-<span style="display:否ne"></span>3200</p></td>
@@ -476,8 +476,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>144×105.5×71.5 mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS_60Da.md" title="wikilink">60Da</a></p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_60Da" title="wikilink">60Da</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -493,7 +493,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_300D|300D</p>
 <p>Digital Rebel</p>
 <p>Kiss Digital]]</p></td>
-<td><p><span style="display:否ne">1</span> <a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><span style="display:否ne">1</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>22.7×15.1 mm CMOS</p></td>
 <td><p>6.3</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -509,7 +509,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_350D|350D</p>
 <p>Rebel XT</p>
 <p>Kiss Digital N]]</p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>8.0</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -525,7 +525,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_400D|400D</p>
 <p>Rebel XTi</p>
 <p>Kiss Digital X]]</p></td>
-<td><p><span style="display:否ne">2</span> <a href="../Page/DIGIC#DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><span style="display:否ne">2</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>10.1</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -541,7 +541,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_450D|450D</p>
 <p>Rebel XSi</p>
 <p>Kiss X2]]</p></td>
-<td><p><span style="display:否ne">3</span> <a href="../Page/DIGIC#DIGIC_III.md" title="wikilink">DIGIC III</a></p></td>
+<td><p><span style="display:否ne">3</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_III" title="wikilink">DIGIC III</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>12.2</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -557,7 +557,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_500D|500D</p>
 <p>Rebel T1i</p>
 <p>Kiss X3]]</p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>15.1</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -573,7 +573,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_550D|550D</p>
 <p>Rebel T2i</p>
 <p>Kiss X4]]</p></td>
-<td><p><span style="display:否ne">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:否ne">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:否ne"></span>12,800</p></td>
@@ -589,7 +589,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_600D|600D</p>
 <p>Rebel T3i</p>
 <p>Kiss X5]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:none"></span>12,800</p></td>
@@ -605,7 +605,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_650D|650D</p>
 <p>Rebel T4i</p>
 <p>Kiss X6i]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_5.md" title="wikilink">DIGIC 5</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5" title="wikilink">DIGIC 5</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:none"></span>12,800</p></td>
@@ -621,7 +621,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_700D|700D</p>
 <p>Rebel T5i</p>
 <p>Kiss X7i]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_5.md" title="wikilink">DIGIC 5</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5" title="wikilink">DIGIC 5</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:none"></span>25,600</p></td>
@@ -637,7 +637,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_750D|750D</p>
 <p>Rebel T6i</p>
 <p>Kiss X8i]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_6.md" title="wikilink">DIGIC 6</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6" title="wikilink">DIGIC 6</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>24.2</p></td>
 <td><p>100-<span style="display:none"></span>25,600</p></td>
@@ -653,7 +653,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_760D|760D</p>
 <p>Rebel T6s</p>
 <p>8000D]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_6.md" title="wikilink">DIGIC 6</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6" title="wikilink">DIGIC 6</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>24.2</p></td>
 <td><p>100-<span style="display:none"></span>25,600</p></td>
@@ -669,7 +669,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_77D|77D</p>
 <p>Rebel T7s</p>
 <p>9000D]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_7.md" title="wikilink">DIGIC 7</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_7" title="wikilink">DIGIC 7</a></p></td>
 <td><p>22.5×15 mm CMOS</p></td>
 <td><p>24.7</p></td>
 <td><p>100-<span style="display:none"></span>25600</p></td>
@@ -685,7 +685,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_100D|100D</p>
 <p>Rebel SL1</p>
 <p>Kiss X7]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_5.md" title="wikilink">DIGIC 5</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_5" title="wikilink">DIGIC 5</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>18</p></td>
 <td><p>100-<span style="display:none"></span>25,600</p></td>
@@ -701,7 +701,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_1000D|1000D</p>
 <p>Rebel XS</p>
 <p>Kiss F]]</p></td>
-<td><p><span style="display:否ne">3</span> <a href="../Page/DIGIC#DIGIC_III.md" title="wikilink">DIGIC III</a></p></td>
+<td><p><span style="display:否ne">3</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_III" title="wikilink">DIGIC III</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>10.1</p></td>
 <td><p>100-<span style="display:否ne"></span>1600</p></td>
@@ -717,7 +717,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_1100D|1100D</p>
 <p>Rebel T3</p>
 <p>Kiss X50]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.2×14.8 mm CMOS</p></td>
 <td><p>12.1</p></td>
 <td><p>100-<span style="display:none"></span>6400</p></td>
@@ -733,7 +733,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_1200D|1200D</p>
 <p>Rebel T4</p>
 <p>Kiss X70]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>22.2×14.7 mm CMOS</p></td>
 <td><p>18.0</p></td>
 <td><p>100-<span style="display:none"></span>6400</p></td>
@@ -749,7 +749,7 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>[[佳能_EOS_1300D|1300D</p>
 <p>Rebel T5</p>
 <p>Kiss X80]]</p></td>
-<td><p><span style="display:none">4</span> <a href="../Page/DIGIC#DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><span style="display:none">4</span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>× mm CMOS</p></td>
 <td></td>
 <td><p>-<span style="display:none"></span></p></td>
@@ -762,8 +762,8 @@ III](../Page/佳能_EOS_5D_Mark_III.md "wikilink")）拥有高达61个[自动对
 <td><p>× ×  mm</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能_EOS-M5.md" title="wikilink">M5</a></p></td>
-<td><p><span style="display:否ne"></span> <a href="../Page/DIGIC#DIGIC_7.md" title="wikilink">DIGIC 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS-M5" title="wikilink">M5</a></p></td>
+<td><p><span style="display:否ne"></span> <a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_7" title="wikilink">DIGIC 7</a></p></td>
 <td><p>22.3×14.9 mm CMOS</p></td>
 <td><p>24.2</p></td>
 <td><p>100-<span style="display:否ne"></span>25600</p></td>
@@ -840,7 +840,7 @@ Focus）功能实现在短片拍摄中转动对焦调出环来依靠电力以一
 以下是镜头命名中常用的字母代号\[16\]：
 
   - 标有“**EF**”的镜头使用佳能EF接環，适用于佳能EOS系列所有单镜反光相机。
-  - 标有“**EF-S**”的镜头使用佳能EF-S接環，仅适用于佳能EOS系列之[APS-C画幅数码单镜反光相机](../Page/APS-C.md "wikilink")。
+  - 标有“**EF-S**”的镜头使用佳能EF-S接環，仅适用于佳能EOS系列之[APS-C画幅数码单镜反光相机](https://zh.wikipedia.org/wiki/APS-C "wikilink")。
   - 标有“**EF-M**”的镜头使用佳能EF-M接環，仅适用於佳能EOS-M系列无反光镜可换镜头相机。
   - 标有“**RF**”的镜头使用佳能RF接環，暫仅适用於佳能EOS-R无反光镜全片幅可换镜头相机。
   - 标有“**USM**”的镜头配有超音波马达。（全称“**U**ltra**S**onic **M**otor”）
@@ -862,7 +862,7 @@ MG 2020.jpg|佳能EF 70-300mm 4.5-5.6 IS DO镜头
 
 ## 闪光系统
 
-EOS闪光系统先后经历A-[TTL](../Page/镜后测光.md "wikilink")、E-TTL系统。E-TTL系统使用了预闪光来帮助自动对焦系统为拍摄对象进行提前测光。E-TTL
+EOS闪光系统先后经历A-[TTL](https://zh.wikipedia.org/wiki/镜后测光 "wikilink")、E-TTL系统。E-TTL系统使用了预闪光来帮助自动对焦系统为拍摄对象进行提前测光。E-TTL
 II系统是E-TTL的固件增强版本，于2004年开始逐步代替了E-TTL。\[18\]
 
 Image:Canon Speedlite 550EX flash.jpg|Speedlite 550EX Image:Canon
@@ -872,16 +872,16 @@ speedlite 430ex.jpg|Speedlite 430EX
 
 佳能EOS系列的宣传语为“感动常在，佳能”以及“EOS，创造单反相机的传奇”。
 
-2008年上半年，佳能宣布[成龙成为佳能EOS系列数码单镜反光相机和EF镜头在中国大陆地区的代言人](../Page/成龙.md "wikilink")。\[19\]
+2008年上半年，佳能宣布[成龙成为佳能EOS系列数码单镜反光相机和EF镜头在中国大陆地区的代言人](https://zh.wikipedia.org/wiki/成龙 "wikilink")。\[19\]
 
 ## 相关条目
 
   - [佳能](../Page/佳能.md "wikilink")
-  - [單眼相機](../Page/單眼相機.md "wikilink")
+  - [單眼相機](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")
   - [數位單眼相機](../Page/數位單眼相機.md "wikilink")
-  - [佳能EF接环镜头](../Page/佳能EF接环镜头.md "wikilink")
-  - [佳能EF-S接环镜头](../Page/佳能EF-S接环镜头.md "wikilink")
-  - [佳能EF-M接环镜头](../Page/佳能EF-M接环镜头.md "wikilink")
+  - [佳能EF接环镜头](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")
+  - [佳能EF-S接环镜头](https://zh.wikipedia.org/wiki/佳能EF-S接环镜头 "wikilink")
+  - [佳能EF-M接环镜头](https://zh.wikipedia.org/wiki/佳能EF-M接环镜头 "wikilink")
 
 ## 參考文獻
 

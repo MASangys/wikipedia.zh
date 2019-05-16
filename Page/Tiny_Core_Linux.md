@@ -1,7 +1,7 @@
 **Tiny Core
 Linux**是一个基于[Linux](../Page/Linux.md "wikilink")3.x版本[内核](../Page/内核.md "wikilink")，采用[BusyBox](../Page/BusyBox.md "wikilink")、[Tiny
-X](../Page/Tiny_X.md "wikilink")、[FLTK](../Page/FLTK.md "wikilink")
-和其它小型软件构筑的带[图形用户界面的微型](../Page/图形用户界面.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。由于体积很小，大约10MB，故采用整体装载入[RAM的方式运行](../Page/隨機存取記憶體.md "wikilink")，速度很快。由于精简程度很高，故在默认状态下，其桌面环境和硬件支持并不完全，不过，用户有充分的定制自由，通过加装软件、驱动模块扩展其应用。采用纯[命令行用户界面的官方分支叫](../Page/命令行用户界面.md "wikilink")**Micro
+X](https://zh.wikipedia.org/wiki/Tiny_X "wikilink")、[FLTK](../Page/FLTK.md "wikilink")
+和其它小型软件构筑的带[图形用户界面的微型](../Page/图形用户界面.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。由于体积很小，大约10MB，故采用整体装载入[RAM的方式运行](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，速度很快。由于精简程度很高，故在默认状态下，其桌面环境和硬件支持并不完全，不过，用户有充分的定制自由，通过加装软件、驱动模块扩展其应用。采用纯[命令行用户界面的官方分支叫](https://zh.wikipedia.org/wiki/命令行用户界面 "wikilink")**Micro
 Core**。
 
 ## 種類
@@ -25,11 +25,11 @@ Core 5.0版本後使用的獨立的包格式）。
 ## 设计理念
 
 Tiny Core
-Linux是一个超小型的便携式Linux操作系统，可从[CDROM](../Page/CDROM.md "wikilink")、[U盘或](../Page/U盘.md "wikilink")[硬盘中启动](../Page/硬盘.md "wikilink")，全部或主要部件运行于RAM中。用户加装的软件有三种模式：
+Linux是一个超小型的便携式Linux操作系统，可从[CDROM](https://zh.wikipedia.org/wiki/CDROM "wikilink")、[U盘或](https://zh.wikipedia.org/wiki/U盘 "wikilink")[硬盘中启动](../Page/硬盘.md "wikilink")，全部或主要部件运行于RAM中。用户加装的软件有三种模式：
 
   - **云模式**：启动Tiny Core
     Linux并连接到互联网后，用户可以通过称为**appbrowser**的软件包管理器从在线软件源下载需要的软件。下载的软件仅存于当前会话中，并只待在RAM中。
-  - **TCE/Install模式**：下载软件并安装在[外部存储器上](../Page/外部存储器.md "wikilink")，在RAM里创建相关的符号链接。
+  - **TCE/Install模式**：下载软件并安装在[外部存储器上](https://zh.wikipedia.org/wiki/外部存储器 "wikilink")，在RAM里创建相关的符号链接。
   - **TCE/CopyFS模式**：像多数典型的Linux操作系统一样，将软件安装于标准Linux目录下。
 
 ## 系统需求

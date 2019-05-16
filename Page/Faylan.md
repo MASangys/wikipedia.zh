@@ -1,10 +1,10 @@
-**Faylan**（旧称****，，），[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](../Page/音樂家.md "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣出身](../Page/埼玉縣.md "wikilink")。[血型A型](../Page/血型.md "wikilink")。[Lantis所屬](../Page/Lantis.md "wikilink")。
+**Faylan**（旧称****，，），[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣出身](../Page/埼玉縣.md "wikilink")。[血型A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。[Lantis所屬](../Page/Lantis.md "wikilink")。
 
 ## 人物经历
 
-Faylan最早在学习舞蹈，之后入学学习歌唱、作词以及作曲方面的基础。2005年开始歌手活动，主要演唱[电脑游戏的](../Page/电脑游戏.md "wikilink")[主题曲](../Page/主题曲.md "wikilink")。2008年5月加入。2009年7月22日以[Lantis制作的单曲](../Page/Lantis.md "wikilink")《[mind
+Faylan最早在学习舞蹈，之后入学学习歌唱、作词以及作曲方面的基础。2005年开始歌手活动，主要演唱[电脑游戏的](../Page/电脑游戏.md "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。2008年5月加入。2009年7月22日以[Lantis制作的单曲](../Page/Lantis.md "wikilink")《[mind
 as
-Judgment](../Page/mind_as_Judgment.md "wikilink")》（电视动画《[CANAAN](../Page/CANAAN.md "wikilink")》的OP主题曲）正式出道。以此为起点，Faylan开始演唱[電視動畫主题曲和插入曲](../Page/日本電視動畫.md "wikilink")，并在日本演艺圈进行其他各类音乐活动。
+Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》（电视动画《[CANAAN](../Page/CANAAN.md "wikilink")》的OP主题曲）正式出道。以此为起点，Faylan开始演唱[電視動畫主题曲和插入曲](../Page/日本電視動畫.md "wikilink")，并在日本演艺圈进行其他各类音乐活动。
 
 Faylan之前所用的艺名“”由[上松範康所取](../Page/上松範康.md "wikilink")\[1\]。作为Faylan的歌曲提供者之一的[藤間仁是Faylan在就读音乐学校期间的同学](../Page/藤間仁.md "wikilink")\[2\]。
 
@@ -23,8 +23,8 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <th><p>發售日</p></th>
 <th><p>名稱</p></th>
 <th><p>簡介</p></th>
-<th><p><a href="../Page/ORICON.md" title="wikilink">ORICON週間最高順位</a></p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ORICON" title="wikilink">ORICON週間最高順位</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -32,15 +32,15 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <td><p>※</p></td>
 <td><p>2007年4月6日</p></td>
 <td><p>'''  '''</p></td>
-<td><p><a href="../Page/电脑游戏.md" title="wikilink">电脑游戏</a>《<a href="../Page/桃華月憚.md" title="wikilink">桃華月憚</a>》<a href="../Page/ED.md" title="wikilink">ED</a><a href="../Page/片尾曲.md" title="wikilink">片尾曲</a></p></td>
+<td><p><a href="../Page/电脑游戏.md" title="wikilink">电脑游戏</a>《<a href="../Page/桃華月憚.md" title="wikilink">桃華月憚</a>》<a href="https://zh.wikipedia.org/wiki/ED" title="wikilink">ED</a><a href="https://zh.wikipedia.org/wiki/片尾曲" title="wikilink">片尾曲</a></p></td>
 <td><p>200位</p></td>
 <td><p>HBMS-177</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2009年7月22日</p></td>
-<td><p>''' <a href="../Page/mind_as_Judgment.md" title="wikilink">mind as Judgment</a> '''</p></td>
-<td><p><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《<a href="../Page/CANAAN.md" title="wikilink">CANAAN</a>》<a href="../Page/OP.md" title="wikilink">OP</a><a href="../Page/主題曲.md" title="wikilink">主題曲</a></p></td>
+<td><p>''' <a href="https://zh.wikipedia.org/wiki/mind_as_Judgment" title="wikilink">mind as Judgment</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="../Page/CANAAN.md" title="wikilink">CANAAN</a>》<a href="https://zh.wikipedia.org/wiki/OP" title="wikilink">OP</a><a href="../Page/主題曲.md" title="wikilink">主題曲</a></p></td>
 <td><p>14位</p></td>
 <td><p>LACM-4630</p></td>
 </tr>
@@ -72,7 +72,7 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <td><p>5th</p></td>
 <td><p>2010年7月21日</p></td>
 <td><p>'''  '''</p></td>
-<td><p><a href="../Page/PS3.md" title="wikilink">PS3遊戲</a>《<a href="../Page/白騎士物語.md" title="wikilink">白騎士物語 光與闇的覺醒</a>》OP主題曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PS3" title="wikilink">PS3遊戲</a>《<a href="https://zh.wikipedia.org/wiki/白騎士物語" title="wikilink">白騎士物語 光與闇的覺醒</a>》OP主題曲</p></td>
 <td><p>75位</p></td>
 <td><p>LACM-4736</p></td>
 </tr>
@@ -80,7 +80,7 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <td><p>6th</p></td>
 <td><p>2010年10月27日</p></td>
 <td><p>''' '''</p></td>
-<td><p>電視動畫《<a href="../Page/百花繚乱.md" title="wikilink">百花繚乱</a>》OP主題曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/百花繚乱" title="wikilink">百花繚乱</a>》OP主題曲</p></td>
 <td><p>43位</p></td>
 <td><p>LACM-4752</p></td>
 </tr>
@@ -88,7 +88,7 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <td><p>7th</p></td>
 <td><p>2010年11月24日</p></td>
 <td><p>''' '''</p></td>
-<td><p>電視動畫《<a href="../Page/偵探歌劇_少女福爾摩斯.md" title="wikilink">偵探歌劇 少女福爾摩斯</a>》ED片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯" title="wikilink">偵探歌劇 少女福爾摩斯</a>》ED片尾曲</p></td>
 <td><p>66位</p></td>
 <td><p>LACM-4760</p></td>
 </tr>
@@ -96,7 +96,7 @@ Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性
 <td><p>8th</p></td>
 <td><p>2011年1月26日</p></td>
 <td><p>'''  '''</p></td>
-<td><p><a href="../Page/电脑游戏.md" title="wikilink">电脑游戏</a>《<a href="../Page/グリザイアの果実.md" title="wikilink">グリザイアの果実</a>》OP主題歌</p></td>
+<td><p><a href="../Page/电脑游戏.md" title="wikilink">电脑游戏</a>《<a href="https://zh.wikipedia.org/wiki/グリザイアの果実" title="wikilink">グリザイアの果実</a>》OP主題歌</p></td>
 <td><p>75位</p></td>
 <td><p>LACA-34778（初回盤）<br />
 LACM-4778（通常盤）</p></td>
@@ -141,7 +141,7 @@ LASM-4897（通常盤）</p></td>
 <td><p>13th</p></td>
 <td><p>2012年5月23日</p></td>
 <td><p>'''  '''</p></td>
-<td><p>電視動畫《<a href="../Page/機動戰士鋼彈AGE.md" title="wikilink">機動戰士鋼彈AGE</a>》ED主題曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈AGE" title="wikilink">機動戰士鋼彈AGE</a>》ED主題曲</p></td>
 <td></td>
 <td><p>LACM-4935（初回盤）<br />
 LACM-34935（通常盤）</p></td>
@@ -199,19 +199,19 @@ LACM-34935（通常盤）</p></td>
 
 ### 專輯
 
-| 部     | 发售日        | 标题                                                     | 規格編號       | 最高排名       |
-| ----- | ---------- | ------------------------------------------------------ | ---------- | ---------- |
-| 初回限定盤 | 通常盤        |                                                        |            |            |
-| 1st   | 2010年9月8日  | **[Polaris](../Page/Polaris_\(飛蘭的專輯\).md "wikilink")** | LACA-35055 | LACA-15055 |
-| 2nd   | 2011年9月21日 | **[ALIVE](../Page/Alive_\(飛蘭的專輯\).md "wikilink")**     | LACA-35149 | LACA-15149 |
-| 3rd   | 2013年3月20日 | **[PRISM](../Page/PRISM_\(飛蘭的專輯\).md "wikilink")**     | \-         | LACA-15281 |
-| 4th   | 2015年1月7日  | ****                                                   | LACA-35469 | LACA-15469 |
+| 部     | 发售日        | 标题                                                                        | 規格編號       | 最高排名       |
+| ----- | ---------- | ------------------------------------------------------------------------- | ---------- | ---------- |
+| 初回限定盤 | 通常盤        |                                                                           |            |            |
+| 1st   | 2010年9月8日  | **[Polaris](https://zh.wikipedia.org/wiki/Polaris_\(飛蘭的專輯\) "wikilink")** | LACA-35055 | LACA-15055 |
+| 2nd   | 2011年9月21日 | **[ALIVE](https://zh.wikipedia.org/wiki/Alive_\(飛蘭的專輯\) "wikilink")**     | LACA-35149 | LACA-15149 |
+| 3rd   | 2013年3月20日 | **[PRISM](https://zh.wikipedia.org/wiki/PRISM_\(飛蘭的專輯\) "wikilink")**     | \-         | LACA-15281 |
+| 4th   | 2015年1月7日  | ****                                                                      | LACA-35469 | LACA-15469 |
 
 ### 影视
 
-| 部   | 发售日       | 标题                                                                                                                | 規格編號      |
-| --- | --------- | ----------------------------------------------------------------------------------------------------------------- | --------- |
-| 1st | 2011年4月6日 | **[飛蘭 LIVE TOUR 01-Polaris-LIVE DVD](../Page/Polaris_\(飛蘭的專輯\)#飛蘭_LIVE_TOUR_01-Polaris-_LIVE_DVD.md "wikilink")** | LABM-7075 |
+| 部   | 发售日       | 标题                                                                                                                                   | 規格編號      |
+| --- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| 1st | 2011年4月6日 | **[飛蘭 LIVE TOUR 01-Polaris-LIVE DVD](https://zh.wikipedia.org/wiki/Polaris_\(飛蘭的專輯\)#飛蘭_LIVE_TOUR_01-Polaris-_LIVE_DVD "wikilink")** | LABM-7075 |
 
 ## 参考资料
 

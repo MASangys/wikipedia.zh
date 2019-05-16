@@ -1,6 +1,6 @@
 **NI Multisim**（旧名Electronics
-Workbench）是一款著名的[电子设计自动化软件](../Page/电子设计自动化.md "wikilink")，与[NI
-Ultiboard同属](../Page/NI_Ultiboard.md "wikilink")[美国国家仪器公司的电路设计软件套件](../Page/美国国家仪器公司.md "wikilink")。是入选[伯克利加大](../Page/伯克利加大.md "wikilink")[SPICE项目中为数不多的几款软件之一](../Page/SPICE.md "wikilink")。Multisim在学术界以及产业界被广泛地应用于电路教学、电路图设计以及SPICE模拟。
+Workbench）是一款著名的[电子设计自动化软件](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")，与[NI
+Ultiboard同属](https://zh.wikipedia.org/wiki/NI_Ultiboard "wikilink")[美国国家仪器公司的电路设计软件套件](https://zh.wikipedia.org/wiki/美国国家仪器公司 "wikilink")。是入选[伯克利加大](https://zh.wikipedia.org/wiki/伯克利加大 "wikilink")[SPICE项目中为数不多的几款软件之一](https://zh.wikipedia.org/wiki/SPICE "wikilink")。Multisim在学术界以及产业界被广泛地应用于电路教学、电路图设计以及SPICE模拟。
 
 ## 发展历史
 

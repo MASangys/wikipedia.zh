@@ -1,5 +1,5 @@
 **INXS**（讀音為「in
-excess」）是[澳大利亞的一個](../Page/澳大利亞.md "wikilink")[搖滾樂隊](../Page/搖滾.md "wikilink")，于1977年在悉尼組建，當時的樂隊名稱是**The
+excess」）是[澳大利亞的一個](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，于1977年在悉尼組建，當時的樂隊名稱是**The
 Farriss Brothers**。其中Garry Gary Beers擔當低音吉他，Andrew Farriss擔當鍵盤，Jon
 Farriss擔當鼓手，Tim Farriss擔當主音吉他，Kirk
 Pengilly擔當吉他/薩克斯。樂隊在1980-90年代取得了很大的成功，是澳大利亞歷史上最具影響力的樂隊之一。1997年，樂隊的主唱[Michael

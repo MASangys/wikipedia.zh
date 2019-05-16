@@ -1,7 +1,7 @@
 **EXIT TUNES**是一間生產日本電子流行曲的企業，原公司名稱為[QUAKE
-Inc.](../Page/QUAKE_Inc..md "wikilink")。後來，Quake於2011年10月，將商號變更為EXIT
+Inc.](https://zh.wikipedia.org/wiki/QUAKE_Inc. "wikilink")。後來，Quake於2011年10月，將商號變更為EXIT
 TUNES株式会社。此部份所提及的是其中一個TRANCE(トランス)音樂製作分部－－[EXIT
-TRANCE](../Page/EXIT_TRANCE.md "wikilink")。
+TRANCE](https://zh.wikipedia.org/wiki/EXIT_TRANCE "wikilink")。
 
 ## 發展經過
 
@@ -9,10 +9,10 @@ TRANCE](../Page/EXIT_TRANCE.md "wikilink")。
 
 EXIT TUNES最初僅以推出外語電子混音及純電子音樂為主。
 
-動畫主題曲混音系列的作品，始於2007年9月，特色為疾走感強的[TRANCE](../Page/TRANCE.md "wikilink"),
+動畫主題曲混音系列的作品，始於2007年9月，特色為疾走感強的[TRANCE](https://zh.wikipedia.org/wiki/TRANCE "wikilink"),
 HARDCORE等相近風格來混音(REMIX)時下耳熟聞長的歌曲，歌唱者(VOCALIST)本身雖然大多是同人協助性質參與，並非原唱者本人，但也能仿效得唯妙唯肖。當時首張由EXIT
-TRANCE幹事[Ryu☆一力負責的混音動畫專輯](../Page/Ryu☆.md "wikilink")「CODE SPEED アニメトランス
-BEST」為EXIT TRANCE打響了名號，同年12月繼續推出續作「SPEED アニメトランス BEST
+TRANCE幹事[Ryu☆一力負責的混音動畫專輯](https://zh.wikipedia.org/wiki/Ryu☆ "wikilink")「CODE
+SPEED アニメトランス BEST」為EXIT TRANCE打響了名號，同年12月繼續推出續作「SPEED アニメトランス BEST
 2」，自此，QUAKE投放更多資源推出動畫系的TRANCE REMIX作品。
 
 ### 題材領域的擴展
@@ -34,7 +34,7 @@ Sa9、Judas、kinoto等人參與，顛峰時期一張20曲的專輯創作人同�
 後來2009年初，QUAKE更以EXIT
 TUNES名堂進軍[VOCALOID界](../Page/VOCALOID.md "wikilink")，從眾多網上熱門VOCALOID作家獲得歌曲並發表多張VOCALOID專輯，同年3月推出的首張V曲集合專輯「EXIT
 TUNES PRESENTS Vocarhythm feat.
-[初音ミク](../Page/初音ミク.md "wikilink")」廣受好評，於是其後，接續推出一連串以「Vocalo」字首為標題的大熱V曲集合專輯、VOCALOID與NICO有關的歌曲專輯「EXIT
+[初音ミク](https://zh.wikipedia.org/wiki/初音ミク "wikilink")」廣受好評，於是其後，接續推出一連串以「Vocalo」字首為標題的大熱V曲集合專輯、VOCALOID與NICO有關的歌曲專輯「EXIT
 TUNES PRESENTS STARDOM」及以V作家最新作品系列的「EXIT TUNES PRESENTS
 Supernova」。同時，EXIT
 TUNES亦獲得一些如死球P（デッドボールP）、拉瑪茲P（ラマーズP)、azuma、164、40mP、CosMo@暴走P等著名V曲作家的幫助，也為他們發行個人BEST專輯。在2010年春季推出的VOCALOID專輯「EXIT
@@ -58,24 +58,30 @@ FINAL」為名的專輯，正式為這長達七年多的混音系列畫上句號
   - **Ryu☆** / Ryutaro Nakahara （中原龍太郎）
   - **Kazuki Kobayashi** (小林一樹)
   - **DJ YOSHINORI** / Yoshinori Ishida / Tracy （[Amateras
-    Records](../Page/Amateras_Records.md "wikilink")）
-  - **MAYUMI MORINAGA** （[森永真由美](../Page/森永真由美.md "wikilink")） / senya
-    （[幽閉サテライト](../Page/幽閉サテライト.md "wikilink")）
+    Records](https://zh.wikipedia.org/wiki/Amateras_Records "wikilink")）
+  - **MAYUMI MORINAGA**
+    （[森永真由美](https://zh.wikipedia.org/wiki/森永真由美 "wikilink")）
+    / senya
+    （[幽閉サテライト](https://zh.wikipedia.org/wiki/幽閉サテライト "wikilink")）
   - **Starving Trancer** / Yusuke Ceo / Xceon / Iceon （幽閉サテライト）
   - **MK** / Masakazu Kageyama / きりん
-    ([EastNewSound](../Page/EastNewSound.md "wikilink")) / Autobahn
-    （[幽閉サテライト](../Page/幽閉サテライト.md "wikilink")）
-  - **Hommarju** / でいたらぼっち （[幽閉サテライト](../Page/幽閉サテライト.md "wikilink")）
+    ([EastNewSound](https://zh.wikipedia.org/wiki/EastNewSound "wikilink"))
+    / Autobahn
+    （[幽閉サテライト](https://zh.wikipedia.org/wiki/幽閉サテライト "wikilink")）
+  - **Hommarju** / でいたらぼっち
+    （[幽閉サテライト](https://zh.wikipedia.org/wiki/幽閉サテライト "wikilink")）
   - **Judas** / Hiroki Otsuka / Hedonist ([Delights
-    music](../Page/Delights_music.md "wikilink"))
+    music](https://zh.wikipedia.org/wiki/Delights_music "wikilink"))
   - **mitsu** / Mitsu Ishitani / Acid=Stone Valley / M.I.O ([Amateras
-    Records](../Page/Amateras_Records.md "wikilink")) / Sofi ([Amateras
-    Records](../Page/Amateras_Records.md "wikilink")) / HiZuMi （幽閉サテライト）
-    / VALLEYSTONE （Halozy）
+    Records](https://zh.wikipedia.org/wiki/Amateras_Records "wikilink"))
+    / Sofi ([Amateras
+    Records](https://zh.wikipedia.org/wiki/Amateras_Records "wikilink"))
+    / HiZuMi （幽閉サテライト） / VALLEYSTONE （Halozy）
   - **Dizzi Mystica** / Toshiyuki Akabane （赤羽俊之）
   - **Icon** / Irus ([LiLA'c
-    Records](../Page/LiLA'c_Records.md "wikilink"))
-  - **DJ Sa9** / nana ([Sevencolors](../Page/Sevencolors.md "wikilink"))
+    Records](https://zh.wikipedia.org/wiki/LiLA'c_Records "wikilink"))
+  - **DJ Sa9** / nana
+    ([Sevencolors](https://zh.wikipedia.org/wiki/Sevencolors "wikilink"))
   - **azuma** / kinoto
   - **RTM**
   - **KMA**
@@ -108,7 +114,8 @@ FINAL」為名的專輯，正式為這長達七年多的混音系列畫上句號
   - Starving Trancer
   - N.O.-SYO
   - DJ Kyon-C
-  - 源屋([MINAMOTRANCE](../Page/MINAMOTRANCE.md "wikilink")) (已退出)
+  - 源屋([MINAMOTRANCE](https://zh.wikipedia.org/wiki/MINAMOTRANCE "wikilink"))
+    (已退出)
   - SHO-YA (已退出)
 
 ### EXIT TRANCE 編曲者別名
@@ -213,9 +220,10 @@ FINAL」為名的專輯，正式為這長達七年多的混音系列畫上句號
   - misaki
   - Nanaki \[CV: 実谷なな\]
   - 棒歌ロイド
-  - RinK \[OS:[鏡音リン](../Page/鏡音リン.md "wikilink")\]
+  - RinK \[OS:[鏡音リン](https://zh.wikipedia.org/wiki/鏡音リン "wikilink")\]
     ([Crypton](http://www.crypton.co.jp/))
-  - ミッヒ / MicH \[OS:[初音ミク](../Page/初音ミク.md "wikilink")\]
+  - ミッヒ / MicH
+    \[OS:[初音ミク](https://zh.wikipedia.org/wiki/初音ミク "wikilink")\]
     ([Crypton](http://www.crypton.co.jp/))
   - たまゆら
   - Mirin \[CV: [古川未鈴](http://ameblo.jp/mirin-9/) of ディアガールでんぱ組\]

@@ -2,7 +2,7 @@
 World
 Computing制作组开发](../Page/New_World_Computing.md "wikilink")，于1988年发行，运行于[Apple
 II](../Page/Apple_II.md "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")（[IBM
-PC](../Page/IBM_PC.md "wikilink")）、[NES等平台的一款](../Page/NES.md "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第二版](../Page/魔法门系列.md "wikilink")，剧情接在《[魔法门I：心灵圣地之谜](../Page/魔法门I：心灵圣地之谜.md "wikilink")》之后。
+PC](../Page/IBM_PC.md "wikilink")）、[NES等平台的一款](https://zh.wikipedia.org/wiki/NES "wikilink")[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第二版](../Page/魔法门系列.md "wikilink")，剧情接在《[魔法门I：心灵圣地之谜](../Page/魔法门I：心灵圣地之谜.md "wikilink")》之后。
 
 [Category:New_World_Computing遊戲](https://zh.wikipedia.org/wiki/Category:New_World_Computing遊戲 "wikilink")
 [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")

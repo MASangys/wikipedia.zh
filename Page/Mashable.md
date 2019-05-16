@@ -1,5 +1,5 @@
-**Mashable**是一个[互联网](../Page/互联网.md "wikilink")[新闻](../Page/新闻.md "wikilink")[博客](../Page/博客.md "wikilink")。由[Pete
-Cashmore于](../Page/Pete_Cashmore.md "wikilink")2005年7月创办\[1\]。月访问量超过7百万\[2\]，[Alexa排名](../Page/Alexa.md "wikilink")300多\[3\]。它是世界上访问量最多的博客之一。Mashable撰写有关[YouTube](../Page/YouTube.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[MySpace](../Page/MySpace.md "wikilink")、[苹果等的新闻](../Page/苹果公司.md "wikilink")\[4\]，同时他们也报道一些其他[社会媒体的消息](../Page/社会媒体.md "wikilink")\[5\]。
+**Mashable**是一个[互联网](../Page/互联网.md "wikilink")[新闻](../Page/新闻.md "wikilink")[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")。由[Pete
+Cashmore于](https://zh.wikipedia.org/wiki/Pete_Cashmore "wikilink")2005年7月创办\[1\]。月访问量超过7百万\[2\]，[Alexa排名](https://zh.wikipedia.org/wiki/Alexa "wikilink")300多\[3\]。它是世界上访问量最多的博客之一。Mashable撰写有关[YouTube](../Page/YouTube.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[苹果等的新闻](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")\[4\]，同时他们也报道一些其他[社会媒体的消息](https://zh.wikipedia.org/wiki/社会媒体 "wikilink")\[5\]。
 
 截止2009年底，Mashable已有超过180万的Twitter follower，超过9万的Facebook
 fans，超过33万的[RSS订阅数](../Page/RSS.md "wikilink")\[6\]。截至2014年8月，Mashable在[Google+页面上的关注者已经超过](../Page/Google+.md "wikilink")340万\[7\]。

@@ -23,7 +23,7 @@ Engineering），在全球開創了跨國際事業經營，並將事業範圍分
 ## 沿革
 
   - 1934年 -
-    [吉田忠雄在東京都](../Page/吉田忠雄.md "wikilink")[東日本橋成立](../Page/東日本橋.md "wikilink")3S（サンエス）商會，開始生產和販賣拉鍊。
+    [吉田忠雄在東京都](https://zh.wikipedia.org/wiki/吉田忠雄 "wikilink")[東日本橋成立](../Page/東日本橋.md "wikilink")3S（サンエス）商會，開始生產和販賣拉鍊。
   - 1938年 - 改名為「吉田工業所」。
   - 1945年 -
     因[東京大轟炸導致工廠燒毀](../Page/東京大轟炸.md "wikilink")。收購[富山縣](../Page/富山縣.md "wikilink")[魚津市的株式会社魚津鐵工所](../Page/魚津市.md "wikilink")，公司改名為吉田工業株式會社。
@@ -37,7 +37,8 @@ Engineering），在全球開創了跨國際事業經營，並將事業範圍分
     公司總部遷至東京都[千代田區](../Page/千代田區.md "wikilink")[神田和泉町](../Page/神田和泉町.md "wikilink")。
   - 1966年 - 成立台灣分公司「台灣華可貴股份有限公司」。
   - 1985年 - 在[巴西開始發展農牧業](../Page/巴西.md "wikilink")。
-  - 1986年 - 在[印度尼西亞建立第一個海外鋁合金建材生產工廠並坄入生產](../Page/印度尼西亞.md "wikilink")。
+  - 1986年 -
+    在[印度尼西亞建立第一個海外鋁合金建材生產工廠並坄入生產](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")。
   - 1994年 - 公司名稱從吉田工業株式會社更名為YKK株式會社。
   - 2003年 - 建材製造事業本部正式併入YKK AP株式會社，YKK集團建材事業一體化生產作業體制完成。
 
@@ -45,9 +46,9 @@ Engineering），在全球開創了跨國際事業經營，並將事業範圍分
 
   - 總公司（東京都千代田區）
   - 黑部事業所（富山縣黑部市）
-  - 滑川製造所（富山縣[滑川市](../Page/滑川市.md "wikilink")）
+  - 滑川製造所（富山縣[滑川市](https://zh.wikipedia.org/wiki/滑川市 "wikilink")）
   - 北海道工廠（北海道[石狩市](../Page/石狩市.md "wikilink")）
-  - 東北事業所（宮城縣[大崎市](../Page/大崎市.md "wikilink")）
+  - 東北事業所（宮城縣[大崎市](https://zh.wikipedia.org/wiki/大崎市 "wikilink")）
   - 四國事業所（香川縣[綾歌郡](../Page/綾歌郡.md "wikilink")[宇多津町](../Page/宇多津町.md "wikilink")）
   - 九州事業所（熊本縣[八代市](../Page/八代市.md "wikilink")）
 

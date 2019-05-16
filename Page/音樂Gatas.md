@@ -6,18 +6,18 @@ Project Egg數名，名為「音樂GATAS」。
 
   - [吉澤瞳](../Page/吉澤瞳.md "wikilink") ※隊長
   - [石川梨華](../Page/石川梨華.md "wikilink")
-  - [里田舞](../Page/里田舞.md "wikilink")（[鄉村少女組｡](../Page/鄉村少女組｡.md "wikilink")）
-  - [是永美記](../Page/是永美記.md "wikilink")
+  - [里田舞](https://zh.wikipedia.org/wiki/里田舞 "wikilink")（[鄉村少女組｡](https://zh.wikipedia.org/wiki/鄉村少女組｡ "wikilink")）
+  - [是永美記](https://zh.wikipedia.org/wiki/是永美記 "wikilink")
   - [紺野朝美](../Page/紺野朝美.md "wikilink")
   - [能登有沙](../Page/能登有沙.md "wikilink")
-  - [仙石南](../Page/仙石南.md "wikilink")（[Hello\! Project
-    Egg](../Page/Hello!_Project_Egg.md "wikilink")）
+  - [仙石南](https://zh.wikipedia.org/wiki/仙石南 "wikilink")（[Hello\! Project
+    Egg](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")）
 
 ## 已卒業成員
 
   - [真野惠里菜](../Page/真野惠里菜.md "wikilink")（2008年3月2日卒業）
-  - [武藤水華](../Page/武藤水華.md "wikilink")（2008年4月30日卒業）
-  - [澤田由梨](../Page/澤田由梨.md "wikilink")（2009年8月30日卒業）
+  - [武藤水華](https://zh.wikipedia.org/wiki/武藤水華 "wikilink")（2008年4月30日卒業）
+  - [澤田由梨](https://zh.wikipedia.org/wiki/澤田由梨 "wikilink")（2009年8月30日卒業）
 
 ## 活動
 
@@ -28,7 +28,7 @@ Project Egg數名，名為「音樂GATAS」。
   - 6月19日：宣佈由「[Gatas Brilhantes
     H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")」中的被選中的成員組合。同時宣佈2006年7月[紺野朝美復歸GATAS及加入](../Page/紺野朝美.md "wikilink")[Hello\!
     Project
-    Egg的](../Page/Hello!_Project_Egg.md "wikilink")[能登有沙](../Page/能登有沙.md "wikilink")、[真野惠里菜](../Page/真野惠里菜.md "wikilink")、[仙石南](../Page/仙石南.md "wikilink")、[澤田由梨](../Page/澤田由梨.md "wikilink")。
+    Egg的](https://zh.wikipedia.org/wiki/Hello!_Project_Egg "wikilink")[能登有沙](../Page/能登有沙.md "wikilink")、[真野惠里菜](../Page/真野惠里菜.md "wikilink")、[仙石南](https://zh.wikipedia.org/wiki/仙石南 "wikilink")、[澤田由梨](https://zh.wikipedia.org/wiki/澤田由梨 "wikilink")。
 
 <!-- end list -->
 
@@ -37,7 +37,8 @@ Project Egg數名，名為「音樂GATAS」。
 <!-- end list -->
 
   - [真野惠里菜發表卒業差在個人活動發展](../Page/真野惠里菜.md "wikilink")。
-  - 4月30日：[武藤水華從](../Page/武藤水華.md "wikilink")[Gatas Brilhantes
+  - 4月30日：[武藤水華從](https://zh.wikipedia.org/wiki/武藤水華 "wikilink")[Gatas
+    Brilhantes
     H.P.卒業](../Page/Gatas_Brilhantes_H.P..md "wikilink")，並開始高校生的生活。
 
 <!-- end list -->
@@ -46,23 +47,24 @@ Project Egg數名，名為「音樂GATAS」。
 
 <!-- end list -->
 
-  - 8月30日：[澤田由梨以學業為理由從音樂Gatas卒業](../Page/澤田由梨.md "wikilink")。
+  - 8月30日：[澤田由梨以學業為理由從音樂Gatas卒業](https://zh.wikipedia.org/wiki/澤田由梨 "wikilink")。
 
 ### 單曲
 
-1.  [鳴り始めた恋のBell](../Page/鳴り始めた恋のBell.md "wikilink")（2007年9月12日）
-      - [モーニング娘。誕生10年記念隊に続いて](../Page/モーニング娘。誕生10年記念隊.md "wikilink")[ドラリオンの](../Page/ドラリオン.md "wikilink")[イメージソングに起用される](../Page/イメージソング.md "wikilink")。
+1.  [鳴り始めた恋のBell](https://zh.wikipedia.org/wiki/鳴り始めた恋のBell "wikilink")（2007年9月12日）
+      - [モーニング娘。誕生10年記念隊に続いて](https://zh.wikipedia.org/wiki/モーニング娘。誕生10年記念隊 "wikilink")[ドラリオンの](https://zh.wikipedia.org/wiki/ドラリオン "wikilink")[イメージソングに起用される](https://zh.wikipedia.org/wiki/イメージソング "wikilink")。
       - c/w DREAMIN'〜ガッタスブリリャンチスH.P.の応援歌〜
-2.  [やったろうぜ\!](../Page/やったろうぜ!.md "wikilink")（2007年12月5日）
+2.  [やったろうぜ\!](https://zh.wikipedia.org/wiki/やったろうぜ! "wikilink")（2007年12月5日）
       - c/w 栄えろ羽ばたけ ガッタスブリリャンチスH.P.
 3.  [Come Together](../Page/Come_Together.md "wikilink")（2008年9月10日）
       - c/w 愛されたい 愛されたい
 4.  [READY\! KICK
-    OFF\!\!](../Page/READY!_KICK_OFF!!.md "wikilink")（2010年3月6日）
+    OFF\!\!](https://zh.wikipedia.org/wiki/READY!_KICK_OFF!! "wikilink")（2010年3月6日）
 
 ### 專輯
 
-1.  [1st GOODSAL](../Page/1st_GOODSAL.md "wikilink")（2008年2月6日）
+1.  [1st
+    GOODSAL](https://zh.wikipedia.org/wiki/1st_GOODSAL "wikilink")（2008年2月6日）
 
 ## 演唱會
 
@@ -74,7 +76,7 @@ Project Egg數名，名為「音樂GATAS」。
 ## 関連項目
 
   - [Gatas Brilhantes H.P.](../Page/Gatas_Brilhantes_H.P..md "wikilink")
-  - [Hello\!Project](../Page/Hello!Project.md "wikilink")
+  - [Hello\!Project](https://zh.wikipedia.org/wiki/Hello!Project "wikilink")
 
 ## 外部連結
 

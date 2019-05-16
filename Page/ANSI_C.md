@@ -1,9 +1,9 @@
 **ANSI C**、**ISO C**、**Standard
-C**是指[美国国家标准协会](../Page/美国国家标准协会.md "wikilink")（ANSI）和[国际标准化组织](../Page/国际标准化组织.md "wikilink")（ISO）对[C语言发布的标准](../Page/C语言.md "wikilink")。历史上，这个名字专门用于指代此标准的原始版本，也是支持最好的版本（称为C89或C90）。使用C的软件开发者被鼓励遵循标准的要求，因为它鼓励使用[跨平台的代码](../Page/跨平台.md "wikilink")。
+C**是指[美国国家标准协会](https://zh.wikipedia.org/wiki/美国国家标准协会 "wikilink")（ANSI）和[国际标准化组织](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（ISO）对[C语言发布的标准](https://zh.wikipedia.org/wiki/C语言 "wikilink")。历史上，这个名字专门用于指代此标准的原始版本，也是支持最好的版本（称为C89或C90）。使用C的软件开发者被鼓励遵循标准的要求，因为它鼓励使用[跨平台的代码](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。
 
 ## ANSI C和ISO C的历史
 
-C的第一个标准是由ANSI发布的。虽然这份文档后来被[国际标准化组织](../Page/国际标准化组织.md "wikilink")（ISO）采纳并且ISO发布的修订版亦被ANSI采纳，但名称ANSI
+C的第一个标准是由ANSI发布的。虽然这份文档后来被[国际标准化组织](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（ISO）采纳并且ISO发布的修订版亦被ANSI采纳，但名称ANSI
 C（而不是ISO C）仍被广泛使用。\[1\]一些软件开发者使用名称**ISO C**，还有一些使用中立的名称**Standard C**。
 
 ### C89
@@ -32,8 +32,8 @@ C基础上写的。任何*仅仅*使用标准C并且没有任何硬件依赖假�
 
 ### 选择编译
 
-为了减轻[K\&R](../Page/C程序設計語言_\(書\).md "wikilink") C和ANSI
-C标准，`__STDC__`（"standard c"）巨集可以被用来将代码分割为ANSI和K\&R部分。
+为了减轻[K\&R](https://zh.wikipedia.org/wiki/C程序設計語言_\(書\) "wikilink")
+C和ANSI C标准，`__STDC__`（"standard c"）巨集可以被用来将代码分割为ANSI和K\&R部分。
 
 ``` c
  #if __STDC__
@@ -52,11 +52,11 @@ C，"`__STDC__`"仍然能像显示的那样工作。
 
 ## 支持ANSI C的编译器
 
-  - [GCC](../Page/GNU_Compiler_Collection.md "wikilink")
+  - [GCC](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")
   - [Xcode](../Page/Xcode.md "wikilink")
   - [Microsoft Visual
-    C++](../Page/Visual_C++.md "wikilink")（C89/90和部分C99）
-  - [ARM RealView](../Page/ARM推出的開發工具.md "wikilink")
+    C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")（C89/90和部分C99）
+  - [ARM RealView](https://zh.wikipedia.org/wiki/ARM推出的開發工具 "wikilink")
 
 ## 参考文献
 

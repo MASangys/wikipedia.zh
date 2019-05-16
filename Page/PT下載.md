@@ -1,12 +1,12 @@
 **PT**（Private
-Tracker）是一種改良自[BitTorrent協定的](../Page/BitTorrent_\(协议\).md "wikilink")[P2P下載方式](../Page/P2P.md "wikilink")，「Private
+Tracker）是一種改良自[BitTorrent協定的](../Page/BitTorrent_\(协议\).md "wikilink")[P2P下載方式](https://zh.wikipedia.org/wiki/P2P "wikilink")，「Private
 Tracker」指私有種子伺服器。與BT最大的不同點分別為可進行私密範圍下載，并且记录每一个用户的详细数据。
 
 ## 特點
 
-PT可進行私密範圍下載，因此提供PT的[討論區大多非公開的](../Page/討論區.md "wikilink")，採用邀請制或是不定時開放註冊。用戶註冊後會得到一個passkey，因此可藉由passkey辨識每個用戶，用戶從某PT站下載種子後，該種子即帶有用戶的passkey。因此PT的種子是不可外流到其他地方，且不允許一個用戶有過多IP（通常上限為3個IP）同時上下傳。
+PT可進行私密範圍下載，因此提供PT的[討論區大多非公開的](https://zh.wikipedia.org/wiki/討論區 "wikilink")，採用邀請制或是不定時開放註冊。用戶註冊後會得到一個passkey，因此可藉由passkey辨識每個用戶，用戶從某PT站下載種子後，該種子即帶有用戶的passkey。因此PT的種子是不可外流到其他地方，且不允許一個用戶有過多IP（通常上限為3個IP）同時上下傳。
 
-为了控制用户数量，关闭自由注册的PT网站一般采用[邀请码制度](../Page/邀请码.md "wikilink")，由已注册的用户向自己所信任的人发送邀请，以确保用户质量。\[1\]有一些站点还会允许用户通过官方渠道捐助或购买邀请码以获得邀请。
+为了控制用户数量，关闭自由注册的PT网站一般采用[邀请码制度](https://zh.wikipedia.org/wiki/邀请码 "wikilink")，由已注册的用户向自己所信任的人发送邀请，以确保用户质量。\[1\]有一些站点还会允许用户通过官方渠道捐助或购买邀请码以获得邀请。
 
 由於有passkey，用戶上傳及下載即可統計，在大多數的PT站會以上下載比例（分享率）規定用戶需上傳多少後才可下載多少，有些站甚至會以用戶上傳及下載的內容等做積分值，分享率過低者會被系統取消使用PT的資格。由於需有足夠的上傳方可下載，因此有些使用者會租用網路上有大頻寬的以衝高自己的上傳率。
 
@@ -16,8 +16,8 @@ PT网站禁止一人多个账号、多人共用一个账号、私自贩卖账号
 
 ## 軟體
 
-支援PT的伺服器端軟體有[Gazelle](../Page/Gazelle.md "wikilink")、[XBT
-Tracker](../Page/XBT_Tracker.md "wikilink")（XBTT）、[NexusPHP等](../Page/NexusPHP.md "wikilink")；[windows用戶端軟體有](../Page/windows.md "wikilink")[μTorrent](../Page/μTorrent.md "wikilink")；而[linux](../Page/linux.md "wikilink")、[Mac用戶端軟體有](../Page/Mac.md "wikilink")[μTorrent](../Page/μTorrent.md "wikilink")、[Transmission](../Page/Transmission.md "wikilink")、[rTorrent](../Page/rTorrent.md "wikilink")、[Vuze](../Page/Vuze.md "wikilink")、[Deluge等](../Page/Deluge.md "wikilink")，有些PT站只允許使用特定的PT軟體。
+支援PT的伺服器端軟體有[Gazelle](https://zh.wikipedia.org/wiki/Gazelle "wikilink")、[XBT
+Tracker](https://zh.wikipedia.org/wiki/XBT_Tracker "wikilink")（XBTT）、[NexusPHP等](https://zh.wikipedia.org/wiki/NexusPHP "wikilink")；[windows用戶端軟體有](https://zh.wikipedia.org/wiki/windows "wikilink")[μTorrent](https://zh.wikipedia.org/wiki/μTorrent "wikilink")；而[linux](https://zh.wikipedia.org/wiki/linux "wikilink")、[Mac用戶端軟體有](https://zh.wikipedia.org/wiki/Mac "wikilink")[μTorrent](https://zh.wikipedia.org/wiki/μTorrent "wikilink")、[Transmission](../Page/Transmission.md "wikilink")、[rTorrent](https://zh.wikipedia.org/wiki/rTorrent "wikilink")、[Vuze](../Page/Vuze.md "wikilink")、[Deluge等](../Page/Deluge.md "wikilink")，有些PT站只允許使用特定的PT軟體。
 
 ## 存在问题
 
@@ -52,7 +52,7 @@ Tracker](../Page/XBT_Tracker.md "wikilink")（XBTT）、[NexusPHP等](../Page/Ne
   - [Private Tracker介紹](http://tw.18dao.info/Private_Tracker)
 
 [en:BitTorrent tracker\#Private
-trackers](../Page/en:BitTorrent_tracker#Private_trackers.md "wikilink")
+trackers](https://zh.wikipedia.org/wiki/en:BitTorrent_tracker#Private_trackers "wikilink")
 
 [Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")
 

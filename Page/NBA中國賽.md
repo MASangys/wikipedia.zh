@@ -1,22 +1,22 @@
 ## NBA中國賽
 
-早在1979年8月24日和8月29日，[华盛顿子弹队就曾来华访问在北京和上海和](../Page/华盛顿子弹队.md "wikilink")[中国国家男子篮球队进行了两场表演赛](../Page/中国国家男子篮球队.md "wikilink")，子弹队以96-82和113-80两次击败中国赛。
+早在1979年8月24日和8月29日，[华盛顿子弹队就曾来华访问在北京和上海和](https://zh.wikipedia.org/wiki/华盛顿子弹队 "wikilink")[中国国家男子篮球队进行了两场表演赛](../Page/中国国家男子篮球队.md "wikilink")，子弹队以96-82和113-80两次击败中国赛。
 
   - 1979年8月24日，上海 华盛顿子弹 96–82 中国国家男子篮球队
   - 1979年8月29日，北京 中国国家男子篮球队 80–113 华盛顿子弹
 
 ### NBA中国赛2004
 
-由于中国的经济发展和NBA在中国的迅速普及加上2002年NBA选秀的新进[状元](../Page/NBA选秀状元.md "wikilink")[姚明](../Page/姚明.md "wikilink")，**NBA中国赛**（**NBA
+由于中国的经济发展和NBA在中国的迅速普及加上2002年NBA选秀的新进[状元](https://zh.wikipedia.org/wiki/NBA选秀状元 "wikilink")[姚明](https://zh.wikipedia.org/wiki/姚明 "wikilink")，**NBA中国赛**（**NBA
 China
-Game**）就这样孕育而生了。2004的中国赛是NBA季前赛首次登陆中国，10月14日和10月17日在[上海](../Page/上海.md "wikilink")、[北京举行两场比赛](../Page/北京.md "wikilink")，来访的是[休斯敦火箭队和](../Page/休斯敦火箭队.md "wikilink")[沙加緬度国王队](../Page/沙加緬度国王队.md "wikilink")。其中由状元秀姚明领军的火箭队的到来，在中国也掀起了一股空前的NBA热潮，比赛期间国王队也临时签下了中国国家队主力控卫[刘炜](../Page/刘炜.md "wikilink")，上演了两场「NBA中国德比」。
+Game**）就这样孕育而生了。2004的中国赛是NBA季前赛首次登陆中国，10月14日和10月17日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[北京举行两场比赛](https://zh.wikipedia.org/wiki/北京 "wikilink")，来访的是[休斯敦火箭队和](https://zh.wikipedia.org/wiki/休斯敦火箭队 "wikilink")[沙加緬度国王队](https://zh.wikipedia.org/wiki/沙加緬度国王队 "wikilink")。其中由状元秀姚明领军的火箭队的到来，在中国也掀起了一股空前的NBA热潮，比赛期间国王队也临时签下了中国国家队主力控卫[刘炜](../Page/刘炜.md "wikilink")，上演了两场「NBA中国德比」。
 
   - 2004年10月14日，上海 休斯敦火箭 88–86 沙加緬度国王
   - 2004年10月17日，北京 沙加緬度国王 91–89 休斯敦火箭
 
 ### NBA中国赛2007
 
-2007年NBA中国赛，NBA球队再次来到中国打季前赛，这次分别是[勒布朗·詹姆斯领军的](../Page/勒布朗·詹姆斯.md "wikilink")[克里夫兰骑士队和](../Page/克里夫兰骑士队.md "wikilink")[德怀特·霍华德领衔的](../Page/德怀特·霍华德.md "wikilink")[奥兰多魔术队](../Page/奥兰多魔术队.md "wikilink")，两队分别在[上海](../Page/上海.md "wikilink")、[澳门进行了一场比赛](../Page/澳门.md "wikilink")，魔术队还与中国CBA联赛明星队打了一场国际篮球规则的友谊赛。奥兰多魔术队取得了全部三场比赛的胜利。
+2007年NBA中国赛，NBA球队再次来到中国打季前赛，这次分别是[勒布朗·詹姆斯领军的](../Page/勒布朗·詹姆斯.md "wikilink")[克里夫兰骑士队和](https://zh.wikipedia.org/wiki/克里夫兰骑士队 "wikilink")[德怀特·霍华德领衔的](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")[奥兰多魔术队](https://zh.wikipedia.org/wiki/奥兰多魔术队 "wikilink")，两队分别在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[澳门进行了一场比赛](https://zh.wikipedia.org/wiki/澳门 "wikilink")，魔术队还与中国CBA联赛明星队打了一场国际篮球规则的友谊赛。奥兰多魔术队取得了全部三场比赛的胜利。
 
   - 2007年10月17日，上海 奥兰多魔术 90–86 克里夫兰骑士
   - 2007年10月18日，澳门 中国CBA联赛明星队 92–116 奥兰多魔术

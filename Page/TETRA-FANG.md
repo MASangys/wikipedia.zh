@@ -1,18 +1,18 @@
-**TETRA-FANG**（テトラファング）在2008年結成，是[日本的](../Page/日本.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")。所屬的公司是[AVEX](../Page/AVEX.md "wikilink")。
+**TETRA-FANG**（テトラファング）在2008年結成，是[日本的](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。所屬的公司是[AVEX](https://zh.wikipedia.org/wiki/AVEX "wikilink")。
 
 ## 來歷
 
-2008年，因[朝日電視台拍攝的](../Page/朝日電視台.md "wikilink")『[假面騎士KIVA](../Page/假面騎士KIVA.md "wikilink")』所組成的期間限定搖滾樂隊，由主演假面騎士KIVA的[瀬戸康史以](../Page/瀬戸康史.md "wikilink")「KOJI」的名義作為主唱。
+2008年，因[朝日電視台拍攝的](../Page/朝日電視台.md "wikilink")『[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")』所組成的期間限定搖滾樂隊，由主演假面騎士KIVA的[瀬戸康史以](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")「KOJI」的名義作為主唱。
 
-前作『[假面騎士電王](../Page/假面騎士電王.md "wikilink")』所組成的『[Double-Action](../Page/Double-Action.md "wikilink")』的手法得到好評，因此TETRA-FANG是參照這手法的。前作是由各『假面騎士電王』登場的演員、廣播劇演員演唱歌曲，但這次有所不同，假面騎士KIVA的主題曲及插曲基本由KOJI演唱。
+前作『[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")』所組成的『[Double-Action](https://zh.wikipedia.org/wiki/Double-Action "wikilink")』的手法得到好評，因此TETRA-FANG是參照這手法的。前作是由各『假面騎士電王』登場的演員、廣播劇演員演唱歌曲，但這次有所不同，假面騎士KIVA的主題曲及插曲基本由KOJI演唱。
 
 ## 成員
 
-  - KOJI（[瀬戸康史](../Page/瀬戸康史.md "wikilink")） -
-    [主唱](../Page/主唱.md "wikilink")
-  - SHUHEI（[鳴瀬シュウヘイ](../Page/鳴瀬シュウヘイ.md "wikilink")） -
-    [keyboard](../Page/電子琴.md "wikilink")
-  - Ayano（[綾野光紘](../Page/FULL_AHEAD.md "wikilink")） -
+  - KOJI（[瀬戸康史](https://zh.wikipedia.org/wiki/瀬戸康史 "wikilink")） -
+    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - SHUHEI（[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/鳴瀬シュウヘイ "wikilink")）
+    - [keyboard](../Page/電子琴.md "wikilink")
+  - Ayano（[綾野光紘](https://zh.wikipedia.org/wiki/FULL_AHEAD "wikilink")） -
     主[吉他](../Page/吉他.md "wikilink")
   - UME - [貝斯](../Page/電貝斯.md "wikilink")
 
@@ -33,7 +33,8 @@
 
   - Destiny's Play
     作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-    作曲：[NKMD](../Page/前田尚紀.md "wikilink") / 編曲：鳴瀬シュウヘイ
+    作曲：[NKMD](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") /
+    編曲：鳴瀬シュウヘイ
     2008年4月23日發售。
     1.  Destiny's Play
     2.  Destiny's Play (Neo Romanesque Guitar Edit.)
@@ -59,8 +60,9 @@
   - SUPERNOVA
     2008年8月6日發售。
     1.  Entrance Procession（作曲・編曲：鳴瀬シュウヘイ）
-    2.  Supernova（作詞：藤林聖子 / 作曲：[NAOKI MAEDA](../Page/前田尚紀.md "wikilink")
-        / 編曲：鳴瀬シュウヘイ）
+    2.  Supernova（作詞：藤林聖子 / 作曲：[NAOKI
+        MAEDA](https://zh.wikipedia.org/wiki/前田尚紀 "wikilink") /
+        編曲：鳴瀬シュウヘイ）
     3.  Shout in the Moonlight（作詞：藤林聖子 / 作曲・編曲：RYO）
     4.  Innocent Trap（作詞：藤林聖子 / 作曲・編曲：鳴瀬シュウヘイ）
     5.  Silent Shout（作詞：藤林聖子 / 作曲・編曲：RYO）
@@ -86,7 +88,7 @@
 
   - Destiny's Play イケメンズVer.
     作詞：藤林聖子 / 作曲：NKMD / 編曲：鳴瀬シュウヘイ / 歌：イケメンズ
-    feat.襟立健吾（[熊井幸平](../Page/熊井幸平.md "wikilink")）
+    feat.襟立健吾（[熊井幸平](https://zh.wikipedia.org/wiki/熊井幸平 "wikilink")）
 
   - Fight For Justice 〜Individual-System NAGO Ver.〜
     作詞：藤林聖子 / 作曲・編曲：鳴瀬シュウヘイ / 歌：名護啓介（[加藤慶祐](../Page/加藤慶祐.md "wikilink")）

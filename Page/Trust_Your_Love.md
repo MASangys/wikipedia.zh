@@ -1,9 +1,9 @@
 「**Trust Your
-Love**」為2001年5月3日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")2nd[單曲](../Page/單曲.md "wikilink")。
+Love**」為2001年5月3日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")2nd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
-  - 本次作品延續前作也在[美國發行](../Page/美國.md "wikilink")，獲得「[告示牌](../Page/告示牌.md "wikilink")」銷售榜初登場第39名、最高第19名的紀錄。
+  - 本次作品延續前作也在[美國發行](https://zh.wikipedia.org/wiki/美國 "wikilink")，獲得「[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")」銷售榜初登場第39名、最高第19名的紀錄。
 
 ## 發行版本
 

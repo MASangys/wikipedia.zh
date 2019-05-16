@@ -3,13 +3,13 @@ Vista的开发历史](../Page/Windows_Vista.md "wikilink")**从2001年5月[Windo
 XP发布前开始算起](../Page/Windows_XP.md "wikilink")\[1\]，直至2006年11月结束，历时长达5年半。
 
 [微软公司原先计划于](../Page/微软.md "wikilink")2003年开发一个介于XP（开发代号为“Whistler”）和[Windows
-7](../Page/Windows_7.md "wikilink")（开发代号为“Blackcomb”）之间的过渡性操作系统，其代号为“Longhorn”，后来发展为时下的Vista系统。Whistler和Blackcomb是位于[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚的滑雪名山](../Page/不列颠哥伦比亚.md "wikilink")，而Longhorn则是位于两座山之间的小酒吧的名字，位于Whistler前往Blackcomb的路上。在开发的过程中，Longhorn不断地整合了原来预定给Blackcomb的新特性，结果导致其发布日期不断延后，而Windows
-XP的安全性改进亦被微软优先考虑。面对Longhorn的不断延期和[特性蔓延](../Page/特性蔓延.md "wikilink")，微软于2004年8月27日宣称将对开发进程做出重大变更，Longhorn从此以后基本上是重新开发，基于[Windows
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")（开发代号为“Blackcomb”）之间的过渡性操作系统，其代号为“Longhorn”，后来发展为时下的Vista系统。Whistler和Blackcomb是位于[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚的滑雪名山](https://zh.wikipedia.org/wiki/不列颠哥伦比亚 "wikilink")，而Longhorn则是位于两座山之间的小酒吧的名字，位于Whistler前往Blackcomb的路上。在开发的过程中，Longhorn不断地整合了原来预定给Blackcomb的新特性，结果导致其发布日期不断延后，而Windows
+XP的安全性改进亦被微软优先考虑。面对Longhorn的不断延期和[特性蔓延](https://zh.wikipedia.org/wiki/特性蔓延 "wikilink")，微软于2004年8月27日宣称将对开发进程做出重大变更，Longhorn从此以后基本上是重新开发，基于[Windows
 Server
 2003的代码库](../Page/Windows_Server_2003.md "wikilink")，并且仅仅整合一些预定的功能特性，而一些此前宣布要整合的新特性，比如[WinFS和](../Page/WinFS.md "wikilink")[下一代安全计算基础](../Page/下一代安全计算基础.md "wikilink")，则被搁置。
 
 2005年年中，Longhorn被正式命名为Windows
-Vista，之后，成千上万的开发志愿者和公司参与了测试版的开发工作，而从当年9月至次年10月，微软还将[社区技术预览版](../Page/Community_Technology_Preview.md "wikilink")（CTP）版提供给测试开发人员，以及两个候选版（Release
+Vista，之后，成千上万的开发志愿者和公司参与了测试版的开发工作，而从当年9月至次年10月，微软还将[社区技术预览版](https://zh.wikipedia.org/wiki/Community_Technology_Preview "wikilink")（CTP）版提供给测试开发人员，以及两个候选版（Release
 Candidate）发布给公众。2006年11月8日，微软Windows开发部联席总裁吉姆·阿尔钦（Jim Allchin）宣布Windows
 Vista开发完成。
 
@@ -17,7 +17,7 @@ Vista开发完成。
 
 早期Longhorn的开发只是一些对Windows XP的改进和更新，而微软对此也保持缄默，当时公司主要集中精力于Windows
 XP的销售和Windows Server
-2003的开发（后于2003年4月发布）。其中间歇性的有一些内部测试版被泄露到[BitTorrent等文件共享网络以及一些新闻组](../Page/BitTorrent.md "wikilink")，而人们对Longhorn系统的早期信息亦来源于这些内部测试版。内部测试版的系统桌面右下角都会呈现一个测试版本号，例如：“Longhorn
+2003的开发（后于2003年4月发布）。其中间歇性的有一些内部测试版被泄露到[BitTorrent等文件共享网络以及一些新闻组](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，而人们对Longhorn系统的早期信息亦来源于这些内部测试版。内部测试版的系统桌面右下角都会呈现一个测试版本号，例如：“Longhorn
 Build 3663.Lab06_N.020728-1728”。Build后面四位数越大并不代表着拥有越新的特性，只是阶段性的代码稳定版标志。
 
 ### Milestone 2
@@ -26,13 +26,13 @@ Build 3663.Lab06_N.020728-1728”。Build后面四位数越大并不代表着拥
 3663**（020728）是首个已知的内部测试版，相比XP的改进仅仅是Windows徽標在開始功能表按鈕顯示為全白色，以及我的電腦的磁碟區列表顯示剩餘空間條。
 
 **Build
-3670**（020819）提供的改进也较少，仅仅是可以在[资源管理器当中直接访问](../Page/资源管理器.md "wikilink")[设备管理器](../Page/裝置管理員.md "wikilink")。
+3670**（020819）提供的改进也较少，仅仅是可以在[资源管理器当中直接访问](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")[设备管理器](../Page/裝置管理員.md "wikilink")。
 
 ### Milestone 3
 
 **Build 3683**（020923）于当年10月20日泄露，是首个泄露到网络上的内部测试版。这个测试版的版本信息显示为“Longhorn
 XP Professional”表明和Windows XP没有明显差异。這版本是內置“Plex”主題的首個版本，[Windows
-侧边栏也首次出现](../Page/Windows小工具.md "wikilink")，包括一个时钟、图片幻灯等工具，用户还可以把开始菜单移到侧边栏上，从而让传统的[任务栏消失](../Page/任务栏.md "wikilink")。另外，早期版本的WinFS也被包括进来，不过仅仅是一小部分展示于用户界面上，这样WinFS对于早期测试者而言只不过是一个消耗大量内存和CPU使用率的一个系统服务罢了。“显示属性”的界面在3683版本中采用了“[Avalon](../Page/Windows_Presentation_Foundation.md "wikilink")”的[Windows
+侧边栏也首次出现](https://zh.wikipedia.org/wiki/Windows小工具 "wikilink")，包括一个时钟、图片幻灯等工具，用户还可以把开始菜单移到侧边栏上，从而让传统的[任务栏消失](../Page/任务栏.md "wikilink")。另外，早期版本的WinFS也被包括进来，不过仅仅是一小部分展示于用户界面上，这样WinFS对于早期测试者而言只不过是一个消耗大量内存和CPU使用率的一个系统服务罢了。“显示属性”的界面在3683版本中采用了“[Avalon](../Page/Windows_Presentation_Foundation.md "wikilink")”的[Windows
 API](../Page/Windows_API.md "wikilink")\[2\]。
 
 **Build
@@ -51,7 +51,7 @@ Explorer的版本号亦升级为](../Page/Internet_Explorer.md "wikilink")6.05�
 XP的三分之一。一个可选的“新任务栏”也被包含进来，比前任版本小巧，并且可以以不同方式显示时间。
 
 Build
-4008最值得注意的视觉和功能差异在于[资源管理器当中](../Page/资源管理器.md "wikilink")。除了界面被统一为蓝色之外，Windows
+4008最值得注意的视觉和功能差异在于[资源管理器当中](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")。除了界面被统一为蓝色之外，Windows
 XP中的垂直任务窗格被4008中的水平任务窗格替代，位于工具栏的下方。一个全新的搜索界面替代了原有的搜索动画角色。用户可以直接调整图标大小并实时预览，而不仅仅是设置为预览大图标、小图标等。文件元数据也变得更加可视化且更容易编辑。另外资源管理器开始基于.NET构造。
 
 ### Milestone 5
@@ -75,7 +75,7 @@ Express无法工作。
 4029**（030619）于同年9月23日泄露，新增了鼠标悬停时的图片和视频预览功能，性能比4015版有些许提升，但内存泄漏问题并未完全解决。此外，系统新增了图片批量处理功能，用户可以批量旋转图片。
 
 Build 4029的系统中有不少地方都写着**“onghornLay
-rofessionalPay”**，即[儿童黑话的](../Page/儿童黑话.md "wikilink")“Longhorn
+rofessionalPay”**，即[儿童黑话的](https://zh.wikipedia.org/wiki/儿童黑话 "wikilink")“Longhorn
 Professional”，有人怀疑这是伪造的，微软解释说这仅仅是用来测试一些新代码，用于定位和减少系统代码中“onghornLay
 rofessionalPay”定义的那些位置\[5\]。
 
@@ -90,9 +90,9 @@ Glass效果，这也是最后一个采用Plex主题界面的测试版。
 Glass被继承下来。
 
 **Build
-4051**（031001）是2003年[专业开发者大会](../Page/专业开发者大会.md "wikilink")（Professional
+4051**（031001）是2003年[专业开发者大会](https://zh.wikipedia.org/wiki/专业开发者大会 "wikilink")（Professional
 Developers
-Conference，PDC）的微软官方演示版本。这个版本并未发布给公众，但却在10月20日泄露。该版本中，[开始菜单上的一些项目被改名](../Page/开始菜单.md "wikilink")，“My”被去除，同时又新增了一些项目，比如共享文件、共享照片和视频。IE升级到6.05，新增了一个下载管理器，弹窗阻拦功能，加载项管理器，浏览历史清理工具\[6\]。除了下载管理器被弃用以外，其它三项都在Windows
+Conference，PDC）的微软官方演示版本。这个版本并未发布给公众，但却在10月20日泄露。该版本中，[开始菜单上的一些项目被改名](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")，“My”被去除，同时又新增了一些项目，比如共享文件、共享照片和视频。IE升级到6.05，新增了一个下载管理器，弹窗阻拦功能，加载项管理器，浏览历史清理工具\[6\]。除了下载管理器被弃用以外，其它三项都在Windows
 XP Service Pack 2的IE 6中得到保留。
 
 另外，4051版本的开始菜单按钮中首次不带有“Start”的字样（默认开启主题时）。
@@ -106,7 +106,7 @@ XP Service Pack 2的IE 6中得到保留。
 
 **Build
 4074**（040425），作为2004年Windows硬件工程师研讨会上的官方演示版本，于5月泄露出。该版本又更换了一个新的Jade主题界面，并且提供了一套新的系统图标，以及全新的[Segoe
-UI系统字体](../Page/Segoe_UI.md "wikilink")。
+UI系统字体](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink")。
 
 随后的5月，微软改变了计划，欲将饱受分析家、安全专家和研究人员诟病的[下一代安全计算基础整合进Longhorn当中](../Page/下一代安全计算基础.md "wikilink")\[8\]，由于后来企业客户和开发人员也对下一代安全计算基础持否定态度，微软退缩并将其无限期搁置\[9\]，最终只有BitLocker功能保留下来。
 
@@ -138,11 +138,11 @@ Agreement）那裏明顯標示"Longhorn"而已。\[15\]
 
 **Build 5048**（050401）被微软描述为**“Longhorn开发者预览版”**（Longhorn Developer
 Preview），在2005年的[WinHEC大会上展出](../Page/WinHEC.md "wikilink")。微软并没有将其发布给公众，但这个版本很快又泄露到网络上。5048版本首次采用了[Windows
-Aero主题界面](../Page/Windows_Aero.md "wikilink")，[桌面視窗管理員包含但默认不启用](../Page/桌面視窗管理員.md "wikilink")。盖茨声称，原来仅提供给Longhorn的[WinFX应用程序接口已将向下兼容Windows](../Page/WinFX.md "wikilink")
+Aero主题界面](../Page/Windows_Aero.md "wikilink")，[桌面視窗管理員包含但默认不启用](../Page/桌面視窗管理員.md "wikilink")。盖茨声称，原来仅提供给Longhorn的[WinFX应用程序接口已将向下兼容Windows](https://zh.wikipedia.org/wiki/WinFX "wikilink")
 XP和Windows Server 2003，而Longhorn的最终用户界面还要很长一段时间才能面市。
 
 5048测试版比起前面的几个测试版更接近Windows XP，知名的Windows IT
-Pro杂志编辑[保罗·杜罗特](../Page/保罗·杜罗特.md "wikilink")（Paul
+Pro杂志编辑[保罗·杜罗特](https://zh.wikipedia.org/wiki/保罗·杜罗特 "wikilink")（Paul
 Thurrott）对此深感震惊，他不认可5048测试版，认为这是一个倒退\[16\]。
 
 **Build 5060**（050417）拥有了一个新的登录界面，除此之外和5048版本没有什么两样。
@@ -165,7 +165,7 @@ world）。”吉姆·阿尔钦也对这个新名字表示赞赏，他说，Vist
 ### Beta 1
 
 **Vista Beta 1**（Build
-5112，050720）于2005年7月27日释出。这是Longhorn被命名为Vista后的第一个测试版，该版本被发放给[MSDN和Technet订户](../Page/MSDN.md "wikilink")，以及一些指定的微软测试人员。这个版本和5048比起来，引进了一个新的图形界面，Windows外壳得到了大幅度的修改，虚拟文件夹、新的搜索界面、高清图标和大幅修改的资源管理器（以前版本的工具栏图标以及[Windows
+5112，050720）于2005年7月27日释出。这是Longhorn被命名为Vista后的第一个测试版，该版本被发放给[MSDN和Technet订户](https://zh.wikipedia.org/wiki/MSDN "wikilink")，以及一些指定的微软测试人员。这个版本和5048比起来，引进了一个新的图形界面，Windows外壳得到了大幅度的修改，虚拟文件夹、新的搜索界面、高清图标和大幅修改的资源管理器（以前版本的工具栏图标以及[Windows
 XP主題都被移除](../Page/Windows_XP.md "wikilink")）均被整合进来。另外，Beta
 1还包含了一些预定给Vista的一些潜在功能，包括家长控制、新的网络和音频堆栈、和[.NET
 Framework 3.0构架](../Page/.NET_Framework_3.0.md "wikilink")，不过仍被称作WinFX。
@@ -176,15 +176,16 @@ Framework 3.0构架](../Page/.NET_Framework_3.0.md "wikilink")，不过仍被称
 5212**（050726）在2016年12月19日洩漏，與5112沒有明顯差別，不過此版本包含了Windows侧边栏。\[19\]另外同個版本號但只有圖片洩漏的"vbl_ux_dev_checkin"分支（050808）已經出現Vista風格的開始按鈕。\[20\]
 
 **Build
-5219**（050830）开始，微软定期发放社区技术预览版给测试人员。5219版本又称为CTP1或CTP9月版，于9月13日PDC大会时发放给出席者和MSDN订户。这是首个公开的[旗舰版](../Page/Windows_Vista版本列表.md "wikilink")（Ultimate
+5219**（050830）开始，微软定期发放社区技术预览版给测试人员。5219版本又称为CTP1或CTP9月版，于9月13日PDC大会时发放给出席者和MSDN订户。这是首个公开的[旗舰版](https://zh.wikipedia.org/wiki/Windows_Vista版本列表 "wikilink")（Ultimate
 Edition）的测试版，整合了Super
-Fetch功能，尽管默认为不启用，Windows侧边栏自开发重新啟動之后被移除，这次又重新出现，并且整合了桌面小工具，而侧边栏和桌面小工具同为[微软小工具的一部分](../Page/微软小工具.md "wikilink")。微软还表示，将提供额外的小工具给用户下载使用。另外，这个版本内建了一个新的[媒体中心](../Page/Windows_Media_Center.md "wikilink")，开发代号为“Diamond”。
+Fetch功能，尽管默认为不启用，Windows侧边栏自开发重新啟動之后被移除，这次又重新出现，并且整合了桌面小工具，而侧边栏和桌面小工具同为[微软小工具的一部分](https://zh.wikipedia.org/wiki/微软小工具 "wikilink")。微软还表示，将提供额外的小工具给用户下载使用。另外，这个版本内建了一个新的[媒体中心](../Page/Windows_Media_Center.md "wikilink")，开发代号为“Diamond”。
 
 尽管微软声称WinFS不会出现在Vista当中，但用户们还是注意到了5219版本实际上包含了WinFS，一些Windows“流言”网站和新闻组（比如杜罗特的**SuperSite
 for Windows**）则推测WinFS应该会和Vista一起上市。
 
 **Build 5231**（051004）又称作CTP2或CTP10月版，于10月17日释出给MSDN订户和测试人员，新增了[Windows
-Media Player](../Page/Windows_Media_Player.md "wikilink")
+Media
+Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
 11\[21\]。不过保罗·杜罗特对此版本中的媒体中心感到厌恶\[22\]。
 
 **Build 5259**（051117）于11月22日释出给“微软技术采纳计划组”（Microsoft Technology
@@ -204,7 +205,7 @@ Defender。5270也是最后一个支持绕过WDDM驱动模式要求的版本。
 5308**（060217）即CTP2月版，于2月22日释出，集齐了所有的特性，并且包含了升级兼容性资讯。微软声称，这个版本中还有一个新特性未有集成，将在最终版当中出现。不过，后续的测试版却集成了更多的改进。6天后释出的5308.60版本是Longhorn
 Server的测试版。
 
-随后，在3月9日的[英特尔开发者论坛上](../Page/英特尔开发者论坛.md "wikilink")，微软声称他们改变原有计划，Vista将暂不支持[可扩展固件接口](../Page/可扩展固件接口.md "wikilink")（EFI），这样，Windows和64位平台的EFI支持直到Vista
+随后，在3月9日的[英特尔开发者论坛上](https://zh.wikipedia.org/wiki/英特尔开发者论坛 "wikilink")，微软声称他们改变原有计划，Vista将暂不支持[可扩展固件接口](https://zh.wikipedia.org/wiki/可扩展固件接口 "wikilink")（EFI），这样，Windows和64位平台的EFI支持直到Vista
 SP1和[Windows Server
 2008才开始被支持](../Page/Windows_Server_2008.md "wikilink")\[24\]\[25\]。
 
@@ -214,7 +215,7 @@ Developer
 Workstation），意为提供一个介于各个CTP之间的临时过渡。这个版本包含了少许图形界面上的改进，特别是媒体中心，Aero和极光效果，此外还有更快的系统安装速度，一些新的侧边栏小工具，些许稳定性和系统性能提升，一个新的截图工具，略微重新设计的网络中心界面。
 
 **Build
-5365**（060419）称作“EDW四月版”，于4月21日释出。包括更多的图形用户界面元素的变化，以及[使用者帳戶控制行为设置](../Page/使用者帳戶控制.md "wikilink")。系统同时还包含了大量的桌面壁纸和两个新的[屏幕保护程序](../Page/屏幕保护程序.md "wikilink")，以及自动的硬盘碎片整理功能等。不过，前面CTP版集成的游戏[德州扑克](../Page/德州扑克.md "wikilink")，在5365版本中由于政治敏感性而被移除，微软现在为Vista旗舰版用户单独提供了该游戏的网络下载版\[26\]。
+5365**（060419）称作“EDW四月版”，于4月21日释出。包括更多的图形用户界面元素的变化，以及[使用者帳戶控制行为设置](../Page/使用者帳戶控制.md "wikilink")。系统同时还包含了大量的桌面壁纸和两个新的[屏幕保护程序](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")，以及自动的硬盘碎片整理功能等。不过，前面CTP版集成的游戏[德州扑克](https://zh.wikipedia.org/wiki/德州扑克 "wikilink")，在5365版本中由于政治敏感性而被移除，微软现在为Vista旗舰版用户单独提供了该游戏的网络下载版\[26\]。
 
 **Build 5381**（060501）作为Beta
 2预览版，于5月3日泄露，并于3日后释出给微软技术测试人员。这个版本除了新增了一些性能调整工具之外，和5365版本并无大异。
@@ -228,10 +229,10 @@ Beta 2发表主题演讲。6月6日，Beta
 
 6月，微软又对Vista的开发计划做出两个重要修改：其一，[XML纸张规范](../Page/XML纸张规范.md "wikilink")（XPS）将被Vista和[Microsoft
 Office
-2007所支持](../Page/Microsoft_Office_2007.md "wikilink")，这引发了和[Adobe之间的争议](../Page/Adobe.md "wikilink")，实际上早在2005年5月XPS面市时，就被称作是“[PDF杀手](../Page/PDF.md "wikilink")”，不过当时Adobe却表示这不会带来任何威胁\[28\]，而一年以后，Adobe改变了态度，声称微软此举是在反对自由竞争，而微软拒绝将XPS功能移除，并指出这是Vista打印队列系统核心的一部分\[29\]。其二，PC和PC之间的同步功能将不会随Vista最终版发布\[30\]。
+2007所支持](../Page/Microsoft_Office_2007.md "wikilink")，这引发了和[Adobe之间的争议](../Page/Adobe.md "wikilink")，实际上早在2005年5月XPS面市时，就被称作是“[PDF杀手](https://zh.wikipedia.org/wiki/PDF "wikilink")”，不过当时Adobe却表示这不会带来任何威胁\[28\]，而一年以后，Adobe改变了态度，声称微软此举是在反对自由竞争，而微软拒绝将XPS功能移除，并指出这是Vista打印队列系统核心的一部分\[29\]。其二，PC和PC之间的同步功能将不会随Vista最终版发布\[30\]。
 
 6月14日，一位名叫菲利普·苏（Philip
-Su）的微软开发人员在自己的[博客上批评了Vista的开发过程](../Page/博客.md "wikilink")，他认为系统代码太过复杂，使得开发进度大幅减慢\[31\]。同时他还指出，Vista的代码已经到达5000万行，有2000名开发人员正在进行开发。
+Su）的微软开发人员在自己的[博客上批评了Vista的开发过程](https://zh.wikipedia.org/wiki/博客 "wikilink")，他认为系统代码太过复杂，使得开发进度大幅减慢\[31\]。同时他还指出，Vista的代码已经到达5000万行，有2000名开发人员正在进行开发。
 
 ### Pre-RC1
 
@@ -241,7 +242,7 @@ Su）的微软开发人员在自己的[博客上批评了Vista的开发过程](.
 Betz）在博客中解释说，移除列表视图将使得资源管理器的“分组”新特性无法被支持\[32\]。
 
 此外，该版本修正了此前测试版中遇到的时区Bug问题，而区域设定和输入法问题也得到解决。Windows
-Aero界面元素上增加了新的鼠标指针主题，这个鼠标指针的边缘首次带有[反锯齿功能](../Page/反锯齿.md "wikilink")，剩余的XP风格的图标都被替换为Vista的图标，全新安装系统所占用的磁盘空间也显著减少。
+Aero界面元素上增加了新的鼠标指针主题，这个鼠标指针的边缘首次带有[反锯齿功能](https://zh.wikipedia.org/wiki/反锯齿 "wikilink")，剩余的XP风格的图标都被替换为Vista的图标，全新安装系统所占用的磁盘空间也显著减少。
 
 **Build
 5466**（060627）圖片在2006年7月11日洩漏，連結在2016年12月19日洩漏，與5456相比更換了新的“Basic”主题。\[33\]\[34\]

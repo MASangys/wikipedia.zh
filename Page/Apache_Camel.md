@@ -3,8 +3,8 @@ Camel**是一个基于规则路由和中介引擎，提供企业集成模式的J
 Camel支持你在的集成开发工具中使用平常的，类型安全的，可自动补全的Java代码来编写路由规则，而不需要大量的XML配置文件。同时，也支持在[Spring中使用XML配置定义路由和中介规则](../Page/Spring_Framework.md "wikilink")。
 
 在[面向服务的体系结构的项目中](../Page/面向服务的体系结构.md "wikilink")，Camel通常与[Apache
-ServiceMix](../Page/Apache_ServiceMix.md "wikilink"), [Apache
-ActiveMQ以及](../Page/Apache_ActiveMQ.md "wikilink")[Apache
+ServiceMix](https://zh.wikipedia.org/wiki/Apache_ServiceMix "wikilink"),
+[Apache ActiveMQ以及](../Page/Apache_ActiveMQ.md "wikilink")[Apache
 CXF一同使用](../Page/Apache_CXF.md "wikilink")。
 
 一些独立的提供商，包括[FuseSource](http://fusesource.com)，为Camel提供企业级的支持。
@@ -13,17 +13,19 @@ Router](http://fusesource.com/products/enterprise-camel/)。
 
 ## 参见
 
-  - [企业消息系统](../Page/企业消息系统.md "wikilink")
-  - [面向消息的中间件](../Page/面向消息的中间件.md "wikilink")
+  - [企业消息系统](https://zh.wikipedia.org/wiki/企业消息系统 "wikilink")
+  - [面向消息的中间件](https://zh.wikipedia.org/wiki/面向消息的中间件 "wikilink")
   - [Apache ActiveMQ](../Page/Apache_ActiveMQ.md "wikilink")
   - [Apache CXF](../Page/Apache_CXF.md "wikilink")
-  - [Apache MINA](../Page/Apache_MINA.md "wikilink")
-  - [Apache ServiceMix](../Page/Apache_ServiceMix.md "wikilink")
-  - [FUSE Mediation Router](../Page/FUSE_Mediation_Router.md "wikilink")
-  - [Open ESB](../Page/Open_ESB.md "wikilink")
+  - [Apache MINA](https://zh.wikipedia.org/wiki/Apache_MINA "wikilink")
+  - [Apache
+    ServiceMix](https://zh.wikipedia.org/wiki/Apache_ServiceMix "wikilink")
+  - [FUSE Mediation
+    Router](https://zh.wikipedia.org/wiki/FUSE_Mediation_Router "wikilink")
+  - [Open ESB](https://zh.wikipedia.org/wiki/Open_ESB "wikilink")
   - [企业服务总线](../Page/企业服务总线.md "wikilink")
   - [面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")
-  - [事件驱动的SOA](../Page/事件驱动的SOA.md "wikilink")
+  - [事件驱动的SOA](https://zh.wikipedia.org/wiki/事件驱动的SOA "wikilink")
 
 ## 图书
 
@@ -48,10 +50,10 @@ Router](http://fusesource.com/products/enterprise-camel/)。
   - [Apache Camel JBI Service
     Engine](https://web.archive.org/web/20080915035805/http://wiki.open-esb.java.net/Wiki.jsp?page=CamelSE)
   - [Apache
-    [Apache_Qpid](../Page/Apache_Qpid.md "wikilink")](http://cwiki.apache.org/qpid/)
+    [Apache_Qpid](https://zh.wikipedia.org/wiki/Apache_Qpid "wikilink")](http://cwiki.apache.org/qpid/)
   - [Talend ESB based on Apache Camel](http://talend.com/)
 
-[分类:Java企业平台](../Page/分类:Java企业平台.md "wikilink")
+[分类:Java企业平台](https://zh.wikipedia.org/wiki/分类:Java企业平台 "wikilink")
 
 [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
 [Category:企业应用集成](https://zh.wikipedia.org/wiki/Category:企业应用集成 "wikilink")

@@ -1,11 +1,11 @@
 《**花
--Mémento-Mori-**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")11張[單曲](../Page/單曲.md "wikilink")。1996年4月10日發行。
+-Mémento-Mori-**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年4月10日發行。
 
 ## 簡介
 
 是同年發行的專輯《[深海](../Page/深海_\(專輯\).md "wikilink")》的先行單曲，只收錄一首曲目，售價定在500[日圓的低價](../Page/日圓.md "wikilink")。
 
-歌曲標題中的「Mémento-Mori」是[拉丁語](../Page/拉丁語.md "wikilink")「記住，你必將死亡」的意思。
+歌曲標題中的「Mémento-Mori」是[拉丁語](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「記住，你必將死亡」的意思。
 
 是1996年度日本單曲銷量第5位。\[1\]總銷量高達153.86萬張\[2\]，連續8張單曲銷量百萬以上，僅次於[B'z](../Page/B'z.md "wikilink")。
 

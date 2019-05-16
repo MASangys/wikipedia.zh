@@ -14,16 +14,18 @@ Pico和Chico兩人某天在都市中遇到一名外表宛如少女的神秘人�
 
 ## 工作人員
 
-  - 原作：[Natural High](../Page/Natural_High.md "wikilink")
+  - 原作：[Natural
+    High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
   - 製作總指揮：とっちん
   - 劇本：高山カツヒコ
-  - 角色設定・作画監督：[よし天](../Page/よし天.md "wikilink")
-  - 角色原案：[彩画堂](../Page/彩画堂.md "wikilink")
+  - 角色設定・作画監督：[よし天](https://zh.wikipedia.org/wiki/よし天 "wikilink")
+  - 角色原案：[彩画堂](https://zh.wikipedia.org/wiki/彩画堂 "wikilink")
   - 製作人：GOLDENBOY
   - 音樂：忍、K2 project
   - 音效設計：Dr.T
-  - 導演：[谷田部勝義](../Page/谷田部勝義.md "wikilink")
-  - 製作・著作・受審・發售：[Natural High](../Page/Natural_High.md "wikilink")
+  - 導演：[谷田部勝義](https://zh.wikipedia.org/wiki/谷田部勝義 "wikilink")
+  - 製作・著作・受審・發售：[Natural
+    High](https://zh.wikipedia.org/wiki/Natural_High "wikilink")
   - 製作：シュガーボーイ、スタジオブルーキャッツ、[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 販售商：Soft On Demand
 
@@ -60,4 +62,5 @@ Pico和Chico兩人某天在都市中遇到一名外表宛如少女的神秘人�
 
 1.  [Pico×CoCo×Chico
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11326)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

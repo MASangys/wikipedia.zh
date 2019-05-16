@@ -1,6 +1,6 @@
 **XBL**（XML Binding Language或称作 Extensible Bindings
-Language）是一种基于[XML的](../Page/XML.md "wikilink")[置标语言](../Page/置标语言.md "wikilink")，用于描述如何将其他文档中的元素（如XPCOM的功能）绑定到部件（如XUL部件）。可以使用[级联样式表](../Page/级联样式表.md "wikilink")（CSS）或[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）两种方式绑定，绑定可为部件创建新的行为。绑定可以包含已注册到“被绑定元素”的事件处理程序，实现对“被绑定元素”的新的方法和属性访问，包括“被绑定元素”内的“匿名内容”。大部分XUL组建至少是部分需要用XBL实现，您可以使用现有的[XUL](../Page/XUL.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[SVG和其他使用XBL的高级语言建立自己的可重用组件](../Page/SVG.md "wikilink")。
-XBL由[Mozilla基金会组织开发](../Page/Mozilla基金会.md "wikilink")，用于[Mozilla
+Language）是一种基于[XML的](../Page/XML.md "wikilink")[置标语言](../Page/置标语言.md "wikilink")，用于描述如何将其他文档中的元素（如XPCOM的功能）绑定到部件（如XUL部件）。可以使用[级联样式表](https://zh.wikipedia.org/wiki/级联样式表 "wikilink")（CSS）或[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）两种方式绑定，绑定可为部件创建新的行为。绑定可以包含已注册到“被绑定元素”的事件处理程序，实现对“被绑定元素”的新的方法和属性访问，包括“被绑定元素”内的“匿名内容”。大部分XUL组建至少是部分需要用XBL实现，您可以使用现有的[XUL](../Page/XUL.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[SVG和其他使用XBL的高级语言建立自己的可重用组件](https://zh.wikipedia.org/wiki/SVG "wikilink")。
+XBL由[Mozilla基金会组织开发](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")，用于[Mozilla
 Application
 Suite](../Page/Mozilla_Application_Suite.md "wikilink")；该语言目前没有任何正式的标准描述，只属于Mozilla专有，只能用于[Gecko排版引擎](../Page/Gecko.md "wikilink")。
 

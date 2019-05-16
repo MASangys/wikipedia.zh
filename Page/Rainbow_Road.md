@@ -1,6 +1,7 @@
 《**Rainbow
-Road**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](../Page/戶松遥.md "wikilink")1張[專輯](../Page/專輯.md "wikilink")。於2010年2月24日由[Music
-Ray'n Inc.發行](../Page/Music_Ray'n_Inc..md "wikilink")。
+Road**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年2月24日由[Music
+Ray'n
+Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 
 ## 收錄曲
 
@@ -8,7 +9,7 @@ Ray'n Inc.發行](../Page/Music_Ray'n_Inc..md "wikilink")。
 
 1.  自己中男
       - 作詞・作曲・編曲：古川貴浩
-2.  [motto☆派手にね\!](../Page/motto☆派手にね!.md "wikilink")
+2.  [motto☆派手にね\!](https://zh.wikipedia.org/wiki/motto☆派手にね! "wikilink")
       - 作詞：辛矢凡、作曲・編曲：神前暁
       - 動畫『[神薙](../Page/神薙.md "wikilink")』片頭曲
 3.  Circle
@@ -18,14 +19,14 @@ Ray'n Inc.發行](../Page/Music_Ray'n_Inc..md "wikilink")。
 5.  [Girls, Be Ambitious.](../Page/Girls,_Be_Ambitious..md "wikilink")
       - 作詞：磯谷佳江、作曲・編曲：日暮和広
       - 電視動畫《[空·之·音](../Page/空·之·音.md "wikilink")》片尾曲
-6.  [REWIND](../Page/naissance.md "wikilink")
+6.  [REWIND](https://zh.wikipedia.org/wiki/naissance "wikilink")
       - 作詞・作曲：川上直子、編曲：奧村益生
 7.  [記憶の景色](../Page/產巢日之時.md "wikilink")
       - 作詞：古屋真、作曲：石松領平、編曲：大西省吾
 8.  [産巣日の時](../Page/產巢日之時.md "wikilink")
       - 作詞：辛矢凡、作曲・編曲：神前暁
       - 動畫『[神薙](../Page/神薙.md "wikilink")』片尾曲
-9.  [naissance](../Page/naissance.md "wikilink")
+9.  [naissance](https://zh.wikipedia.org/wiki/naissance "wikilink")
       - 作詞：野口圭、作曲：田中隼人、編曲：馬場一嘉
       - 電視劇《[夢回綠園 〜青春男子寮日誌〜](../Page/夢回綠園.md "wikilink")》片尾曲
 10. Rainbow

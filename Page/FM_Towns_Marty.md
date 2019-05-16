@@ -3,20 +3,21 @@
 ## 历史
 
 FM Towns
-Marty是历史上第一台[32位家庭游戏机](../Page/32位.md "wikilink")，内置[CD-ROM和](../Page/CD-ROM.md "wikilink")[软盘驱动器](../Page/软盘.md "wikilink")。它基于之前的1989年[FM
+Marty是历史上第一台[32位家庭游戏机](https://zh.wikipedia.org/wiki/32位 "wikilink")，内置[CD-ROM和](../Page/CD-ROM.md "wikilink")[软盘驱动器](../Page/软盘.md "wikilink")。它基于之前的1989年[FM
 Towns](../Page/FM_Towns.md "wikilink")，并兼容此机器的游戏。
 
 1994年，新版本的*FM Towns Marty
-2*发布。它颜色更深的灰色外壳，以及更便宜的价格（66，000[日元](../Page/日元.md "wikilink")）。普遍认为它使用了更快的[CPU](../Page/CPU.md "wikilink")，甚至有使用[80486的说法](../Page/80486.md "wikilink")，但事实并非如此。\[1\]
+2*发布。它颜色更深的灰色外壳，以及更便宜的价格（66，000[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")）。普遍认为它使用了更快的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，甚至有使用[80486的说法](https://zh.wikipedia.org/wiki/80486 "wikilink")，但事实并非如此。\[1\]
 
 此外还有**FM Towns Car Marty**，专为装在汽车上设计的版本。它发行了两个版本，MVP-1
 (1994年4月发布)和MVP-10
-(1994年11月发布).两者区别只在于其驱动机制，有说法指由于MVP-1很容易损坏所以才有MVP-10。其内置一张额外的IC卡，使其支持[VICS](../Page/道路交通信息通信系统.md "wikilink")。
+(1994年11月发布).两者区别只在于其驱动机制，有说法指由于MVP-1很容易损坏所以才有MVP-10。其内置一张额外的IC卡，使其支持[VICS](https://zh.wikipedia.org/wiki/道路交通信息通信系统 "wikilink")。
 
 尽管拥有优秀的机能，FM Towns和FM Towns
 Marty在日本的销量很差。它们卖得很贵，并且由于其特殊定制的结构，它们的扩展性不如使用或者[Microsoft
-Windows的IBM兼容机](../Page/Microsoft_Windows.md "wikilink")。FM Towns Marty
-发布的时候[NEC的](../Page/NEC.md "wikilink")[PC98在日本市场如日中天](../Page/PC98.md "wikilink")，使它在DOS/V大举入侵之前无法突围。这实在是浪费了它那比兼容[Windows
+Windows的IBM兼容机](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。FM
+Towns Marty
+发布的时候[NEC的](https://zh.wikipedia.org/wiki/NEC "wikilink")[PC98在日本市场如日中天](https://zh.wikipedia.org/wiki/PC98 "wikilink")，使它在DOS/V大举入侵之前无法突围。这实在是浪费了它那比兼容[Windows
 95的机器还要早](../Page/Windows_95.md "wikilink")7年的机能，包括可启动CD-ROM，彩色图形界面。到了现在兼容这台机器的软件由于产量太低而价格高昂。
 
 尽管它向下兼容老FM
@@ -31,7 +32,7 @@ Towns的](../Page/FM_Towns.md "wikilink")“游戏机版”。\[2\]
 
 ### CPU
 
-32位 [AMD](../Page/AMD.md "wikilink") 处理器，速度: 16MHz
+32位 [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 处理器，速度: 16MHz
 
 ### 图像
 
@@ -57,14 +58,14 @@ Sprites:最大1024 sprites,16 x 16 sprite规格
 
   - [CD-ROM](../Page/CD-ROM.md "wikilink"), 单速(1x)
   - 内置3.5" HD
-    [软驱](../Page/软驱.md "wikilink")。软盘必须格式化到1.2M(PC98-风格)。这能在BIOS
+    [软驱](https://zh.wikipedia.org/wiki/软驱 "wikilink")。软盘必须格式化到1.2M(PC98-风格)。这能在BIOS
     GUI完成。Marty不支持标准1.44M或者720k FAT格式3.5"软盘。PC要支持FM Towns
     Marty的软盘则需要一个软驱，以及BIOS和系统支持“3
     模式”软盘。另外也有USB软驱支持“3 模式”。
 
 ### Multi-Purpose
 
-  - [PCMCIA](../Page/PCMCIA.md "wikilink") type 1 接口
+  - [PCMCIA](https://zh.wikipedia.org/wiki/PCMCIA "wikilink") type 1 接口
 
 Marty的IC Card插口兼容type 1
 PCMCIA卡，包括装有电源的SRAM卡（可从BIOS菜单读取）并将其当作一个小盘来用。富士通也发行过一个PCMCIA
@@ -77,9 +78,11 @@ Card插口可以扩充内存，这是不可能的事。
   - 2个标准手柄插口
   - 键盘口
 
-手柄插口叫DB9也就是兼容[Atari 2600的](../Page/Atari_2600.md "wikilink")“Atari
-Type”插口。选择、运行两个键也可以用同时按住上下，或者同时按住左右代替。富士通也曾为[Capcom的](../Page/Capcom.md "wikilink")[街头霸王2出过一款](../Page/街头霸王2.md "wikilink")6键手柄。[Capcom也曾为FM](../Page/Capcom.md "wikilink")
-Towns/Marty和[Sharp X68000出过一款兼容的CPS](../Page/Sharp_X68000.md "wikilink")
+手柄插口叫DB9也就是兼容[Atari
+2600的](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")“Atari
+Type”插口。选择、运行两个键也可以用同时按住上下，或者同时按住左右代替。富士通也曾为[Capcom的](https://zh.wikipedia.org/wiki/Capcom "wikilink")[街头霸王2出过一款](https://zh.wikipedia.org/wiki/街头霸王2 "wikilink")6键手柄。[Capcom也曾为FM](https://zh.wikipedia.org/wiki/Capcom "wikilink")
+Towns/Marty和[Sharp
+X68000出过一款兼容的CPS](https://zh.wikipedia.org/wiki/Sharp_X68000 "wikilink")
 Fighter摇杆转接器。 \[3\]\[4\]
 
 ## 参考

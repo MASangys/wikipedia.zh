@@ -1,4 +1,4 @@
-為[索尼電腦娛樂聖塔莫尼卡工作室所開發的](../Page/索尼電腦娛樂聖塔莫尼卡工作室.md "wikilink")《[戰神II](../Page/戰神II.md "wikilink")》續篇新作，由[索尼電腦娛樂發行](../Page/索尼電腦娛樂.md "wikilink")，最先登陆[PlayStation
+為[索尼電腦娛樂聖塔莫尼卡工作室所開發的](https://zh.wikipedia.org/wiki/索尼電腦娛樂聖塔莫尼卡工作室 "wikilink")《[戰神II](../Page/戰神II.md "wikilink")》續篇新作，由[索尼電腦娛樂發行](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")，最先登陆[PlayStation
 3平台](../Page/PlayStation_3.md "wikilink")。分別在2010年3月16日於北美、2010年3月19日於歐洲、2010年3月19日於日本發行。按情节来看是《战神》系列第七作。后本作以高清重制的形式登陆[PlayStation
 4平台](../Page/PlayStation_4.md "wikilink")。
 
@@ -8,14 +8,14 @@
 
 ## 登場人物
 
-  - [克雷多斯](../Page/克拉托斯.md "wikilink")（[奎托斯](../Page/奎托斯.md "wikilink")）（Kratos）-
+  - [克雷多斯](https://zh.wikipedia.org/wiki/克拉托斯 "wikilink")（[奎托斯](https://zh.wikipedia.org/wiki/奎托斯 "wikilink")）（Kratos）-
     本作主角
 
 <!-- end list -->
 
   -
     過去被譽為是斯巴達軍最強的戰士，後來成為了眾神口中的"Ghost of
-    Sparta"。以往曾領著手下到處征戰，以有效但殘暴的戰術獲得多次的勝利。但一次與野蠻人之戰當中慘敗，死前向戰神阿瑞斯([Ares](../Page/Ares.md "wikilink"))以自己的靈魂為代價換取生命，而阿瑞斯亦接受這一筆交易，賜予混沌雙刃(Blades
+    Sparta"。以往曾領著手下到處征戰，以有效但殘暴的戰術獲得多次的勝利。但一次與野蠻人之戰當中慘敗，死前向戰神阿瑞斯([Ares](https://zh.wikipedia.org/wiki/Ares "wikilink"))以自己的靈魂為代價換取生命，而阿瑞斯亦接受這一筆交易，賜予混沌雙刃(Blades
     of
     Chaos)給克雷多斯，雖然克雷多斯最後取得勝利，但自始就為戰神的奴棣。一次在受阿瑞斯操控下，被阿瑞斯所骗，錯殺了自己最愛的家人，每晚亦受到殺害家人的惡夢困擾，於是決心向阿瑞斯復仇和尋求從惡夢中解放的方法，其間做了眾神的奴隸十年。本來雅典娜答應他只要克雷多斯殺掉阿瑞斯就讓他不再受惡夢困擾，但殺掉阿瑞斯後，不但沒有從惡夢中解放，更被雅典娜逼做繼任戰神。其後更被親父宙斯陷害，但在蓋亞的幫助下，成功找到命運三女神改變自己命運，但因為三女神不許克雷多斯回到過去而被他殺害。最後一刻，當宙斯快被克雷多斯手中的奥林匹斯神劍刺中時，雅典娜卻擋下致命的一劍，臨死前告訴他宙斯是他親父一事。累積心中的對神的憤恨和雅典娜的死，促使克雷多斯聯合眾泰坦(Titans)，向奧林匹斯進行復仇，展開God
     of War 3的故事。
@@ -27,12 +27,12 @@
 <!-- end list -->
 
   -
-    奧林帕斯的主神，同時也是克雷多斯的父親。在[I中](../Page/戰神_\(動作遊戲\).md "wikilink")，為了打倒阿瑞斯而賜給克雷多斯力量。
+    奧林帕斯的主神，同時也是克雷多斯的父親。在[I中](https://zh.wikipedia.org/wiki/戰神_\(動作遊戲\) "wikilink")，為了打倒阿瑞斯而賜給克雷多斯力量。
     最後被克雷多斯活活打死。
 
 <!-- end list -->
 
-  - [愛芙羅黛蒂](../Page/愛芙羅黛蒂.md "wikilink")（Aphrodite）
+  - [愛芙羅黛蒂](https://zh.wikipedia.org/wiki/愛芙羅黛蒂 "wikilink")（Aphrodite）
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [卡利俄佩](../Page/卡利俄佩.md "wikilink")（Calliope）
+  - [卡利俄佩](https://zh.wikipedia.org/wiki/卡利俄佩 "wikilink")（Calliope）
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - [代達羅斯](../Page/代達羅斯.md "wikilink")（Daedalus）
+  - [代達羅斯](https://zh.wikipedia.org/wiki/代達羅斯 "wikilink")（Daedalus）
 
 <!-- end list -->
 
@@ -69,19 +69,19 @@
 
 <!-- end list -->
 
-  - [蓋亞](../Page/蓋亞.md "wikilink")（Gaia）
+  - [蓋亞](https://zh.wikipedia.org/wiki/蓋亞 "wikilink")（Gaia）
 
 <!-- end list -->
 
   -
-    大地母神，希臘神話中所有神的祖先。（战神3的旁白）[II中引導克雷多斯前往命運三姊妹](../Page/戰神（動作遊戲）.md "wikilink")（Sisters
+    大地母神，希臘神話中所有神的祖先。（战神3的旁白）[II中引導克雷多斯前往命運三姊妹](https://zh.wikipedia.org/wiki/戰神（動作遊戲） "wikilink")（Sisters
     of
     Fate）之處。於戰神III開頭帶領泰坦巨神一族及克雷多斯攻上曾不可侵犯的奧林匹斯，其間被宙斯斷去左前臂。（剩下骨头没断，但在克雷多斯从冥界上来时，被克雷多斯切断。）及後以一句「這是我們的戰爭，不是你的」（This
     is our war, not yours\!）趕走克雷多斯，但於克雷多斯與宙斯的最終決戰中，因心臟受到克雷多斯的過量攻擊而崩潰致死。
 
 <!-- end list -->
 
-  - [哈帝斯](../Page/哈帝斯.md "wikilink")（Hades）
+  - [哈帝斯](https://zh.wikipedia.org/wiki/哈帝斯 "wikilink")（Hades）
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - [赫利奥斯](../Page/赫利奥斯.md "wikilink")（Helios）
+  - [赫利奥斯](https://zh.wikipedia.org/wiki/赫利奥斯 "wikilink")（Helios）
 
 <!-- end list -->
 
@@ -128,8 +128,8 @@
 
 <!-- end list -->
 
-  - [米諾斯](../Page/米諾斯.md "wikilink")（Minos）
-  - [潘多拉](../Page/潘多拉.md "wikilink")（Pandora）
+  - [米諾斯](https://zh.wikipedia.org/wiki/米諾斯 "wikilink")（Minos）
+  - [潘多拉](https://zh.wikipedia.org/wiki/潘多拉 "wikilink")（Pandora）
 
 <!-- end list -->
 
@@ -147,7 +147,7 @@
 
 <!-- end list -->
 
-  - [海克力斯](../Page/海克力斯.md "wikilink")（Hercules）
+  - [海克力斯](https://zh.wikipedia.org/wiki/海克力斯 "wikilink")（Hercules）
 
 <!-- end list -->
 
@@ -156,7 +156,7 @@
 
 <!-- end list -->
 
-  - [克羅諾斯](../Page/克羅諾斯.md "wikilink")（Cronos）
+  - [克羅諾斯](https://zh.wikipedia.org/wiki/克羅諾斯 "wikilink")（Cronos）
 
 <!-- end list -->
 
@@ -165,8 +165,8 @@
 
 <!-- end list -->
 
-  - [克洛托](../Page/克洛托.md "wikilink")（Clotho）
-  - [波塞頓](../Page/波塞頓.md "wikilink")（Poseidon）
+  - [克洛托](https://zh.wikipedia.org/wiki/克洛托 "wikilink")（Clotho）
+  - [波塞頓](https://zh.wikipedia.org/wiki/波塞頓 "wikilink")（Poseidon）
 
 <!-- end list -->
 
@@ -175,7 +175,7 @@
 
 <!-- end list -->
 
-  - [堤豐](../Page/堤豐.md "wikilink")（Typhon）
+  - [堤豐](https://zh.wikipedia.org/wiki/堤豐 "wikilink")（Typhon）
   - [阿瑞斯](../Page/阿瑞斯.md "wikilink")（Ares）
 
 <!-- end list -->
@@ -246,7 +246,7 @@
 
   -
     此武器是以石臍（Omphalos
-    Stone，*即神話中克羅諾斯誤認為是剛出生的宙斯，而蓄意吞下的石頭*）為素材，由赫淮斯托斯（Hephaestus）為克雷多斯打造的武器，以一條鎖鏈連接著一對三旋刃，在拋向敵人時三旋刃會高速旋轉並連續削切對方的血肉，達到類似於[電鋸的攻擊方式](../Page/電鋸.md "wikilink")。
+    Stone，*即神話中克羅諾斯誤認為是剛出生的宙斯，而蓄意吞下的石頭*）為素材，由赫淮斯托斯（Hephaestus）為克雷多斯打造的武器，以一條鎖鏈連接著一對三旋刃，在拋向敵人時三旋刃會高速旋轉並連續削切對方的血肉，達到類似於[電鋸的攻擊方式](https://zh.wikipedia.org/wiki/電鋸 "wikilink")。
     此武器的命名來自於復仇女神涅墨西斯（Nemesis），在將泰坦克羅諾斯開腸剖肚並挖出石臍後，就會得到復仇之鞭，原本赫淮斯托斯預計要將此武器作為殺死克雷多斯的媒介，但後來克雷多斯掙脫了這股力量，反將赫淮斯托斯殺死。
     魔法技能為「Nemesis Rage」（涅墨西斯之怒），經由武器釋放出一道電流，當敵人為複數時會互相導電。
 
@@ -312,9 +312,10 @@
 
 ## 發行版本
 
-[thumb](../Page/檔案:God_of_War_III_Ultimate_Edition.jpg.md "wikilink")
-2009年10月[SCEA與](../Page/新力電腦娛樂.md "wikilink")[SCE Studios Santa
-Monica發表](../Page/新力電腦娛樂.md "wikilink")，將推出「終極典藏版」，並公佈內容詳情。
+[thumb](https://zh.wikipedia.org/wiki/檔案:God_of_War_III_Ultimate_Edition.jpg "wikilink")
+2009年10月[SCEA與](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")[SCE
+Studios Santa
+Monica發表](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")，將推出「終極典藏版」，並公佈內容詳情。
 終極典藏版包裝是採用前作所登場的傳說神器「潘朵拉之盒」造型的雕塑複製品包裝盒，內含《戰神III》遊戲、限量版《戰神III》畫冊以及獨佔下載內容。
 
 DEMO版分別於2009年11月17日（《戰神合集》（God of War
@@ -325,7 +326,7 @@ Collection）裡所附加DEMO下載小卡）、2010年2月25日（PSN免費下�
 
 ## 參考條目
 
-  - [戰神](../Page/戰神_\(動作遊戲\).md "wikilink")
+  - [戰神](https://zh.wikipedia.org/wiki/戰神_\(動作遊戲\) "wikilink")
 
 ## 外部連結
 

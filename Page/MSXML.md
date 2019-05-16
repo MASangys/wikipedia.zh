@@ -1,7 +1,7 @@
 **微软XML核心服务**（**MSXML**）提供了一组服务，使用户可以使用[JScript](../Page/JScript.md "wikilink")、[VBScript和其它微软的开发工具开发基于](../Page/VBScript.md "wikilink")[XML的本机应用程序](../Page/XML.md "wikilink")。它支持XML
-1.0、[DOM](../Page/Document_Object_Model.md "wikilink")、[SAX](../Page/Simple_API_for_XML.md "wikilink")、[XSLT](../Page/XSL_Transformations.md "wikilink")
-1.0，并提供了包括[XSD和](../Page/XSD.md "wikilink")[XDR在内的](../Page/XDR_Schema.md "wikilink")[XML
-schema](../Page/XML_schema.md "wikilink")、XMLHttpRequest、XPath、SOM（）等技术。
+1.0、[DOM](https://zh.wikipedia.org/wiki/Document_Object_Model "wikilink")、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
+1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML
+schema](https://zh.wikipedia.org/wiki/XML_schema "wikilink")、XMLHttpRequest、XPath、SOM（）等技术。
 
 ## 版本历史
 
@@ -10,12 +10,13 @@ schema](../Page/XML_schema.md "wikilink")、XMLHttpRequest、XPath、SOM（）�
 ### 现行有效版本
 
   - **MSXML 6.0** MSXML6是最新版本。与MSXML3一起随[Microsoft SQL Server
-    2005](../Page/Microsoft_SQL_Server_2005.md "wikilink")、[Visual
+    2005](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server_2005 "wikilink")、[Visual
     Studio 2005](../Page/Microsoft_Visual_Studio.md "wikilink")、[.NET
     Framework 3.0](../Page/.NET_Framework_3.0.md "wikilink")、[Windows
     Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-    7](../Page/Windows_7.md "wikilink")、[Windows XP Service Pack
-    3发行](../Page/Windows_XP_Service_Pack_3.md "wikilink")。支持64位本地环境。版本6可以替代版本4\[2\]，但不能替代版本3。MSXML
+    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows XP
+    Service Pack
+    3发行](https://zh.wikipedia.org/wiki/Windows_XP_Service_Pack_3 "wikilink")。支持64位本地环境。版本6可以替代版本4\[2\]，但不能替代版本3。MSXML
     6不支持[Windows 9x](../Page/Windows_9x.md "wikilink")。
   - **MSXML 3.0**对应于msxml3.dll。MSXML 3.0 SP2随[Windows
     XP](../Page/Windows_XP.md "wikilink")、[Internet
@@ -23,7 +24,7 @@ schema](../Page/XML_schema.md "wikilink")、XMLHttpRequest、XPath、SOM（）�
     6.0与[MDAC](../Page/Microsoft_Data_Access_Components.md "wikilink")
     2.7发行。Windows XP SP2包含MSXML 3.0 SP5，作为MDAC 2.81的一部分。Internet
     Explorer
-    版本[6.0](../Page/Internet_Explorer_6.md "wikilink")、[7.0](../Page/Internet_Explorer_7.0.md "wikilink")、[8.0使用MSXML](../Page/Internet_Explorer_8.md "wikilink")
+    版本[6.0](../Page/Internet_Explorer_6.md "wikilink")、[7.0](https://zh.wikipedia.org/wiki/Internet_Explorer_7.0 "wikilink")、[8.0使用MSXML](../Page/Internet_Explorer_8.md "wikilink")
     3解析XML文档。MSXML 3.0 SP7是[Windows
     95支持的最高版本](../Page/Windows_95.md "wikilink")。Windows
     XP SP3包含MSXML 3.0 SP9。[Windows
@@ -33,15 +34,15 @@ schema](../Page/XML_schema.md "wikilink")、XMLHttpRequest、XPath、SOM（）�
 
   - **MSXML 5.0**随[Microsoft
     Office](../Page/Microsoft_Office.md "wikilink") 2003与[Office
-    2007发布](../Page/Office_2007.md "wikilink")。Microsoft没有发布5.0的文档，因为MSXML
+    2007发布](https://zh.wikipedia.org/wiki/Office_2007 "wikilink")。Microsoft没有发布5.0的文档，因为MSXML
     5仅为Office 2003与2007内部使用。[Office
-    2010不包含MSXML](../Page/Microsoft_Office_2010.md "wikilink")
+    2010不包含MSXML](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink")
     5.0。\[3\]
   - **MSXML 4.0**随独立的、可下载的SDK发布，不能完全兼容版本3.0 。只有32位版本。MSXML 4.0
     SP3是最高版本。\[4\]并于2014年4月过期。\[5\]
   - **MSXML 2.6**随[Microsoft SQL
-    Server](../Page/Microsoft_SQL_Server.md "wikilink") 2000与MDAC
-    2.6发布，对应于msxml2.dll，最后版本为
+    Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
+    2000与MDAC 2.6发布，对应于msxml2.dll，最后版本为
     [KB887606](http://support.microsoft.com/kb/887606).
   - **MSXML 2.5**随[Windows
     2000中的](../Page/Windows_2000.md "wikilink")[Internet
@@ -49,7 +50,7 @@ schema](../Page/XML_schema.md "wikilink")、XMLHttpRequest、XPath、SOM（）�
     与[MDAC](../Page/Microsoft_Data_Access_Components.md "wikilink")
     2.5发布。对应于msxml.dll
   - **MSXML 2.0a**随[Internet Explorer
-    5.0发布](../Page/Internet_Explorer_5.0.md "wikilink")
+    5.0发布](https://zh.wikipedia.org/wiki/Internet_Explorer_5.0 "wikilink")
   - **MSXML 1.0**随[Internet Explorer
     4.0发布](../Page/Internet_Explorer_4.md "wikilink")
 

@@ -1,26 +1,26 @@
 [BNC_connector.jpg](https://zh.wikipedia.org/wiki/File:BNC_connector.jpg "fig:BNC_connector.jpg")
-**连接器**（，直译为“尼尔-康塞曼卡口”）是一种很常见的[RF端子](../Page/RF端子.md "wikilink")[同轴电缆终结器](../Page/同轴电缆.md "wikilink")。
+**连接器**（，直译为“尼尔-康塞曼卡口”）是一种很常见的[RF端子](https://zh.wikipedia.org/wiki/RF端子 "wikilink")[同轴电缆终结器](../Page/同轴电缆.md "wikilink")。
 
 ## 使用
 
-[Network_card.jpg](https://zh.wikipedia.org/wiki/File:Network_card.jpg "fig:Network_card.jpg")左为BNC连接器,右为[RJ-45](../Page/RJ-45.md "wikilink")。\]\]
-BNC连接器用于射频信号的传输，包括模拟或数字[视频信号的传输](../Page/视频信号.md "wikilink")、[业余无线电设备](../Page/业余无线电.md "wikilink")[天线的连接](../Page/天线.md "wikilink")、[航空电子设备和其他的一些](../Page/航空电子.md "wikilink")[电子测试设备的连接](../Page/电子测试设备.md "wikilink")。在[消费电子领域](../Page/消费电子.md "wikilink")，用于视频信号传输的BNC连接器已為[RCA端子取代](../Page/RCA端子.md "wikilink")，通过简单的转接器，RCA端子就可以在只具备BNC连接器的设备上使用。BNC端子曾广泛用于10base2[以太网](../Page/以太网.md "wikilink"),
-由于同轴电缆為[双绞线取代](../Page/双绞线.md "wikilink")，目前很难看到有BNC端子的网卡。一些[ARCNET网络使BNC端子终结的同轴电缆](../Page/ARCNET.md "wikilink")。
+[Network_card.jpg](https://zh.wikipedia.org/wiki/File:Network_card.jpg "fig:Network_card.jpg")左为BNC连接器,右为[RJ-45](https://zh.wikipedia.org/wiki/RJ-45 "wikilink")。\]\]
+BNC连接器用于射频信号的传输，包括模拟或数字[视频信号的传输](https://zh.wikipedia.org/wiki/视频信号 "wikilink")、[业余无线电设备](../Page/业余无线电.md "wikilink")[天线的连接](../Page/天线.md "wikilink")、[航空电子设备和其他的一些](../Page/航空电子.md "wikilink")[电子测试设备的连接](../Page/电子测试设备.md "wikilink")。在[消费电子领域](https://zh.wikipedia.org/wiki/消费电子 "wikilink")，用于视频信号传输的BNC连接器已為[RCA端子取代](../Page/RCA端子.md "wikilink")，通过简单的转接器，RCA端子就可以在只具备BNC连接器的设备上使用。BNC端子曾广泛用于10base2[以太网](../Page/以太网.md "wikilink"),
+由于同轴电缆為[双绞线取代](../Page/双绞线.md "wikilink")，目前很难看到有BNC端子的网卡。一些[ARCNET网络使BNC端子终结的同轴电缆](https://zh.wikipedia.org/wiki/ARCNET "wikilink")。
 
 ## 规格
 
 BNC连接器有50欧姆和75欧姆两个版本。50欧姆连接器和其他[阻抗电缆连接时](../Page/阻抗.md "wikilink")，传输出错的可能性较小。不同版本的连接器互相兼容\[1\]
 ，但如电缆阻抗不同，信号可能出现反射。通常BNC连接器可以使用在4GHz或2GHz。
 
-75欧姆连接器用于[视频和](../Page/视频.md "wikilink")[DS3到](../Page/DS3.md "wikilink")[電話公司中心局的连接](../Page/電話公司.md "wikilink")，而50欧姆连接器用于数据和[射频传输](../Page/射频.md "wikilink")。错误接在75欧姆插座上的50欧姆插头可能会损害插座。[甚高频应用中使用](../Page/甚高频.md "wikilink")75欧姆连接器。
+75欧姆连接器用于[视频和](../Page/视频.md "wikilink")[DS3到](https://zh.wikipedia.org/wiki/DS3 "wikilink")[電話公司中心局的连接](https://zh.wikipedia.org/wiki/電話公司 "wikilink")，而50欧姆连接器用于数据和[射频传输](https://zh.wikipedia.org/wiki/射频 "wikilink")。错误接在75欧姆插座上的50欧姆插头可能会损害插座。[甚高频应用中使用](https://zh.wikipedia.org/wiki/甚高频 "wikilink")75欧姆连接器。
 
 ## 历史
 
-BNC连接器得名于其锁定方式和其发明者[贝尔实验室的](../Page/贝尔实验室.md "wikilink")（发明了[N端子](../Page/N端子.md "wikilink")）和安费诺公司的工程师（发明了[C端子](../Page/C端子.md "wikilink")）。
+BNC连接器得名于其锁定方式和其发明者[贝尔实验室的](../Page/贝尔实验室.md "wikilink")（发明了[N端子](https://zh.wikipedia.org/wiki/N端子 "wikilink")）和安费诺公司的工程师（发明了[C端子](https://zh.wikipedia.org/wiki/C端子 "wikilink")）。
 
 ## 相似的连接器
 
-BNC连接器和[B端子和](../Page/B端子.md "wikilink")[C端子十分相似](../Page/C端子.md "wikilink")。
+BNC连接器和[B端子和](https://zh.wikipedia.org/wiki/B端子 "wikilink")[C端子十分相似](https://zh.wikipedia.org/wiki/C端子 "wikilink")。
 
 一种带螺纹的连接器TNC(Threaded Neill-Concelman)和BNC相比在微波波段有更好的性能。
 
@@ -47,10 +47,11 @@ cable.jpg|75欧姆BNC公头
 
 ## 參考資料
 
-[he:מחבר RF\#BNC](../Page/he:מחבר_RF#BNC.md "wikilink")
-[ja:コネクタ\#同軸コネクタ](../Page/ja:コネクタ#同軸コネクタ.md "wikilink")
+[he:מחבר
+RF\#BNC](https://zh.wikipedia.org/wiki/he:מחבר_RF#BNC "wikilink")
+[ja:コネクタ\#同軸コネクタ](https://zh.wikipedia.org/wiki/ja:コネクタ#同軸コネクタ "wikilink")
 [ru:Коаксиальный радиочастотный
-разъём\#BNC-коннектор](../Page/ru:Коаксиальный_радиочастотный_разъём#BNC-коннектор.md "wikilink")
+разъём\#BNC-коннектор](https://zh.wikipedia.org/wiki/ru:Коаксиальный_радиочастотный_разъём#BNC-коннектор "wikilink")
 
 [Category:类比显示接口](https://zh.wikipedia.org/wiki/Category:类比显示接口 "wikilink")
 

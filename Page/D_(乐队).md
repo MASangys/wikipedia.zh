@@ -3,33 +3,33 @@ D（ディー）以原Syndrome的樂團成員為中心集結而成的日本視�
 ## 解説
 
 自結成以來一直沒有特定所屬的事務所，由成員及少數工作人員自己親自打理團內事務，2006年在自己的辦公室成立所属事務所[GOD CHILD
-RECORDS](../Page/GOD_CHILD_RECORDS.md "wikilink")。 2007年12月與[Smile
-Company
-Ltd.簽約](../Page/Smile_Company_Ltd..md "wikilink")，在2008年正式成為主流身分出道。
+RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
+2007年12月與[Smile Company
+Ltd.簽約](https://zh.wikipedia.org/wiki/Smile_Company_Ltd. "wikilink")，在2008年正式成為主流身分出道。
 為代表曲「Night-Ship"D"」及「Fanfare」訂製小旗，讓粉絲們能在LIVE中一起揮舞小旗。
 在音楽方面，舉辦以LIVE為主的音楽雜誌，比起獨立的活動，也相當重視與其他樂團的聯繫互動。
-2008年5月7日，是加入[艾迴唱片後首次以主流樂團的身分登台](../Page/艾迴唱片.md "wikilink")。隨後也由[avex
-trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」。
+2008年5月7日，是加入[艾迴唱片後首次以主流樂團的身分登台](https://zh.wikipedia.org/wiki/艾迴唱片 "wikilink")。隨後也由[avex
+trax發售主流後的第](https://zh.wikipedia.org/wiki/avex_trax "wikilink")1張單曲「BIRTH」。
 
 ## 成員
 
-  - [Vocal](../Page/主唱.md "wikilink"):
+  - [Vocal](https://zh.wikipedia.org/wiki/主唱 "wikilink"):
     [ASAGI](../Page/ASAGI.md "wikilink") / 浅葱
 
 <!-- end list -->
 
   -
-    （ex.→Balsamic→JE\*REVIENS→[Syndrome](../Page/Syndrome.md "wikilink")(浅葱)→D/胡蝶）
+    （ex.→Balsamic→JE\*REVIENS→[Syndrome](https://zh.wikipedia.org/wiki/Syndrome "wikilink")(浅葱)→D/胡蝶）
 
 <!-- end list -->
 
-  - [Guitar](../Page/吉他手.md "wikilink"):
-    [Ruiza](../Page/Ruiza.md "wikilink") / 涙沙
+  - [Guitar](https://zh.wikipedia.org/wiki/吉他手 "wikilink"):
+    [Ruiza](https://zh.wikipedia.org/wiki/Ruiza "wikilink") / 涙沙
 
 <!-- end list -->
 
   -
-    （ex.→関西ジャニーズJr→Distray→LAYBIAL(涙沙)→[Syndrome](../Page/Syndrome.md "wikilink")→D）
+    （ex.→関西ジャニーズJr→Distray→LAYBIAL(涙沙)→[Syndrome](https://zh.wikipedia.org/wiki/Syndrome "wikilink")→D）
 
 （日语：るいざ/淚沙，1979年2月18日－），本名中浜庆幸，兵库县伊丹市出身的吉他手。主要是Matina所属视觉系乐团成员。高中时曾以本名活跃，之后加入关西小杰尼斯。2003年D结成，Ruiza成为该团吉他手一直活跃至今。爱称“ルイちゃん”（小泪）。
 
@@ -42,16 +42,16 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
 
 <!-- end list -->
 
-  - [Bass](../Page/貝斯手.md "wikilink"): Tsunehito / 恒人
+  - [Bass](https://zh.wikipedia.org/wiki/貝斯手 "wikilink"): Tsunehito / 恒人
 
 <!-- end list -->
 
   -
-    （ex.→Relude→[ギブス](../Page/ギブス_\(バンド\).md "wikilink")→SCISSOR→D）
+    （ex.→Relude→[ギブス](https://zh.wikipedia.org/wiki/ギブス_\(バンド\) "wikilink")→SCISSOR→D）
 
 <!-- end list -->
 
-  - [Drums](../Page/鼓手.md "wikilink"): HIROKI / 大城
+  - [Drums](https://zh.wikipedia.org/wiki/鼓手 "wikilink"): HIROKI / 大城
 
 <!-- end list -->
 
@@ -60,11 +60,11 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
 
 ## 原成員
 
-  - [Guitar](../Page/吉他手.md "wikilink"):SIN
+  - [Guitar](https://zh.wikipedia.org/wiki/吉他手 "wikilink"):SIN
 
-與[ASAGI](../Page/ASAGI.md "wikilink"),[Ruiza參與](../Page/Ruiza.md "wikilink")[Syndrome時期的活動](../Page/Syndrome.md "wikilink")。演奏技術評價很高、但組成之後不到半年就突然退出。
+與[ASAGI](../Page/ASAGI.md "wikilink"),[Ruiza參與](https://zh.wikipedia.org/wiki/Ruiza "wikilink")[Syndrome時期的活動](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。演奏技術評價很高、但組成之後不到半年就突然退出。
 
-  - [Bass](../Page/貝斯手ト.md "wikilink"):レナ
+  - [Bass](https://zh.wikipedia.org/wiki/貝斯手ト "wikilink"):レナ
 
 原為廣島的地方性樂團成員，有參與D最初結成的時期。是免費贈送的單曲「Alice」之作曲者。但在2005年7月23日突然退出，目前去向不明。
 
@@ -74,14 +74,15 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
 
   - 4月3日-秘密演唱會。
   - 4月6日-於[川崎CLUB
-    CITTA'舉辦演唱會](../Page/川崎CLUB_CITTA'.md "wikilink")「SHOCK
+    CITTA'舉辦演唱會](https://zh.wikipedia.org/wiki/川崎CLUB_CITTA' "wikilink")「SHOCK
     JAM \#001」並宣布正式活動開始。
   - 7月-SIN退出、Ruiza入院造成D的活動休止。開始徵求新的團員。"The Night of Children”暫時活動。
   - 7月18日-Mini album「NEW BLOOD」發行。
   - 8月2日-首次大型活動「Mad tea
-    party」於[高田馬場AREA展開](../Page/高田馬場AREA.md "wikilink")。
+    party」於[高田馬場AREA展開](https://zh.wikipedia.org/wiki/高田馬場AREA "wikilink")。
   - 9月27日-高田馬場AREA的演唱會\~D復活。公開甄選中找到HIDE-ZOU成為正式成員。
-  - 11月27日-[目黒鹿鳴館](../Page/目黒鹿鳴館.md "wikilink")「Believe or not Believe」。
+  - 11月27日-[目黒鹿鳴館](https://zh.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")「Believe
+    or not Believe」。
 
 **2004**
 
@@ -89,21 +90,21 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
   - 1月24日-高田馬場AREA「現実と非現実のParadox」
   - 2月-參加「TOUR-2004 CANNONBALL vol.1」。
   - 3月-參加「stylish wave CIRCUIT'04 春の嵐」。
-  - 5月5日-於[渋谷O-WEST舉行一周年記念](../Page/渋谷O-WEST.md "wikilink")「夢なりし空中庭園」。
+  - 5月5日-於[渋谷O-WEST舉行一周年記念](https://zh.wikipedia.org/wiki/渋谷O-WEST "wikilink")「夢なりし空中庭園」。
   - 5月12日-Maxi single「夢なりし空中庭園」發售。
-  - 5月22日-[札幌アビーロード](../Page/札幌アビーロード.md "wikilink")「夢なりし空中庭園」。
+  - 5月22日-[札幌アビーロード](https://zh.wikipedia.org/wiki/札幌アビーロード "wikilink")「夢なりし空中庭園」。
   - 11月-東名阪ONEMAN LIVE TOUR「繭月の棺」開始。各会場にてCD「繭月の棺」發售。
   - 12月8日-Mini album「NEW BLOOD 〜second impact〜」發售。
 
 **2005**
 
   - 1月12日-Maxi single「真昼の声 〜Synchronicity〜」發售。
-  - 2月17日-[渋谷O-EASTONEMAN](../Page/渋谷O-EAST.md "wikilink")「真昼の声
+  - 2月17日-[渋谷O-EASTONEMAN](https://zh.wikipedia.org/wiki/渋谷O-EAST "wikilink")「真昼の声
     〜Synchronicity〜」開始。
   - 4月6日-「真昼の声 〜Synchronicity〜」「NEW BLOOD 〜second impact〜」普通盤發售。
   - 4月9日-2nd ANNIVERSARYONEMAN TOUR 2005「THE PHANTOM OF THE OPERA」開始。
   - 5月21日-TOUR FINAL公演を[LIQUID ROOM
-    ebisu開始](../Page/LIQUID_ROOM_ebisu.md "wikilink")。
+    ebisu開始](https://zh.wikipedia.org/wiki/LIQUID_ROOM_ebisu "wikilink")。
   - 6月22日-單曲「闇より暗い慟哭のアカペラと薔薇より赤い情熱のアリア」發售。
   - 7月23日-大阪市内的CD店開始舉辦商店活動、在專輯紀錄中，LENA以「個人因素」作了退出的發表。
   - 8月-與[D'espairsRay聯合舉辦](../Page/D'espairsRay.md "wikilink")「月下双影」開始。
@@ -125,7 +126,8 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
     「Corvinus（コルヴィヌス）」同時發售。
   - 10月-ONEMAN TOUR2006「Tafel Anatomie」を開始。
   - 10月18日-2nd Full album「Tafel Anatomie」發售。
-  - 12月6日-TOUR FINAL[涩谷公会堂で開始](../Page/涩谷公会堂.md "wikilink")。
+  - 12月6日-TOUR
+    FINAL[涩谷公会堂で開始](https://zh.wikipedia.org/wiki/涩谷公会堂 "wikilink")。
   - 12月7日-正式的粉絲官方後援會「Ultimate lover」成立。
 
 **2007**
@@ -133,10 +135,10 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
   - 2月-東名阪ONEMAN TOUR2007 「Another face」開始。
   - 4-5月-第一次的HALL TOUR「Dearest you」TOUR2007開始。
   - 8月-ONEMAN TOUR 「Neo
-    culture」開催、終場於[日比谷野外音楽堂舉行](../Page/日比谷野外音楽堂.md "wikilink")。
+    culture」開催、終場於[日比谷野外音楽堂舉行](https://zh.wikipedia.org/wiki/日比谷野外音楽堂 "wikilink")。
   - 11月-3rd Full album「Neo Culture〜Beyond the World」發售。
   - 11月〜12月-TOUR「Neo Culture〜Beyond the World」開始、FINAL在[Zepp
-    TokyoONEMAN](../Page/Zepp_Tokyo.md "wikilink")。
+    TokyoONEMAN](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")。
 
 **2008**
 
@@ -144,7 +146,7 @@ trax發售主流後的第](../Page/avex_trax.md "wikilink")1張單曲「BIRTH」
   - 5月5日-TOUR FINAL[赤坂BLITZ開催](../Page/赤坂BLITZ.md "wikilink")。
   - 5月7日-主流單曲第一彈「BIRTH」發售。
   - 7月19日-abingdon boys school「MATCH UP'08」出演。
-  - 8月2日-主流首次登台紀念[新木場スタジオコースト開始](../Page/新木場スタジオコースト.md "wikilink")。
+  - 8月2日-主流首次登台紀念[新木場スタジオコースト開始](https://zh.wikipedia.org/wiki/新木場スタジオコースト "wikilink")。
   - 9月3日-主流2nd單曲「闇の国のアリス/波紋」發售。
   - 9月21日-巡迴「Alice in Dark edge」開始、終場在涉谷C.C.Lemon大廳舉行。
 

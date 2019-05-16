@@ -1,5 +1,5 @@
 **G.G.佐藤**（ジー・ジー・さとう、本名：**佐藤 隆彦**（さとう
-たかひこ）、[千葉縣](../Page/千葉縣.md "wikilink")[市川市出身的職業棒球選手](../Page/市川市.md "wikilink")[外野手](../Page/外野手.md "wikilink")。曾經效力於[太平洋聯盟](../Page/太平洋聯盟.md "wikilink")[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")。\[1\]
+たかひこ）、[千葉縣](../Page/千葉縣.md "wikilink")[市川市出身的職業棒球選手](../Page/市川市.md "wikilink")[外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")。曾經效力於[太平洋聯盟](../Page/太平洋聯盟.md "wikilink")[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")。\[1\]
 由於球團方針年輕化於2011年10月9日宣告戰力外。\[2\] 離開日本後選擇到義大利波隆納繼續打球。
 優異的表現受到了日本千葉羅德海洋對的青睞,在2012年11月25日,羅德球團宣布測試合格入團擔任球隊以代打為中心。所有的球迷都期待G.G.佐藤能夠恢復當年的長打火力以及賽後接受訪問時的招牌吶喊"好舒服"。\[3\]
 
@@ -302,7 +302,7 @@
 <td><p>.767</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/日本棒球機構.md" title="wikilink">NPB</a>:8年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本棒球機構" title="wikilink">NPB</a>:8年</p></td>
 <td><p>587</p></td>
 <td><p>2023</p></td>
 <td><p>1835</p></td>
@@ -363,17 +363,17 @@
 
 ### 守備成績
 
-| 年度   | [外野](../Page/外野手.md "wikilink") | [一壘](../Page/一壘手.md "wikilink") |
-| ---- | ------------------------------- | ------------------------------- |
-| 試合   | 刺殺                              | 接殺                              |
-| 2004 | \-                              | |21                             |
-| 2005 | 3                               | 3                               |
-| 2006 | 38                              | 55                              |
-| 2007 | 131                             | 267                             |
-| 2008 | 99                              | 167                             |
-| 2009 | 117                             | 185                             |
-| 2010 | 44                              | 70                              |
-| 通算   | 432                             | 747                             |
+| 年度   | [外野](https://zh.wikipedia.org/wiki/外野手 "wikilink") | [一壘](https://zh.wikipedia.org/wiki/一壘手 "wikilink") |
+| ---- | -------------------------------------------------- | -------------------------------------------------- |
+| 試合   | 刺殺                                                 | 接殺                                                 |
+| 2004 | \-                                                 | |21                                                |
+| 2005 | 3                                                  | 3                                                  |
+| 2006 | 38                                                 | 55                                                 |
+| 2007 | 131                                                | 267                                                |
+| 2008 | 99                                                 | 167                                                |
+| 2009 | 117                                                | 185                                                |
+| 2010 | 44                                                 | 70                                                 |
+| 通算   | 432                                                | 747                                                |
 
 ## 背號
 
@@ -382,23 +382,25 @@
 
 ### 個人記錄
 
-  - 首次出場：2004年3月30日、對[福岡大榮鷹](../Page/福岡軟體銀行鷹.md "wikilink")2回戰（[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")）、9局上代打出場
-  - 首次先發出場：2004年4月4日、對[歐力士藍浪](../Page/歐力士野牛.md "wikilink")1回戰（[西武巨蛋](../Page/西武巨蛋.md "wikilink")）、7棒・[一壘手先發出場](../Page/一壘手.md "wikilink")
-  - 首次安打・首次打點：2004年4月5日、對歐力士藍浪2回戰（西武巨蛋）、6局下[トレイ・ムーア](../Page/トレイ・ムーア.md "wikilink")
-  - 首次本壘打：2004年6月13日、對[千葉羅德海洋](../Page/千葉羅德海洋.md "wikilink")14回戰（西武巨蛋）、4局下[高木晃次左外野方向](../Page/高木晃次.md "wikilink")
-  - 首次盗壘：2006年4月25日、對[北海道日本火腿鬥士](../Page/北海道日本火腿鬥士.md "wikilink")4回戰（インボイスSEIBU巨蛋）、2局下二盗（投手：[コリー・リー](../Page/コリー・リー.md "wikilink")、捕手：[高橋信二](../Page/高橋信二.md "wikilink")）
+  - 首次出場：2004年3月30日、對[福岡大榮鷹](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")2回戰（[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")）、9局上代打出場
+  - 首次先發出場：2004年4月4日、對[歐力士藍浪](../Page/歐力士野牛.md "wikilink")1回戰（[西武巨蛋](../Page/西武巨蛋.md "wikilink")）、7棒・[一壘手先發出場](https://zh.wikipedia.org/wiki/一壘手 "wikilink")
+  - 首次安打・首次打點：2004年4月5日、對歐力士藍浪2回戰（西武巨蛋）、6局下[トレイ・ムーア](https://zh.wikipedia.org/wiki/トレイ・ムーア "wikilink")
+  - 首次本壘打：2004年6月13日、對[千葉羅德海洋](../Page/千葉羅德海洋.md "wikilink")14回戰（西武巨蛋）、4局下[高木晃次左外野方向](https://zh.wikipedia.org/wiki/高木晃次 "wikilink")
+  - 首次盗壘：2006年4月25日、對[北海道日本火腿鬥士](https://zh.wikipedia.org/wiki/北海道日本火腿鬥士 "wikilink")4回戰（インボイスSEIBU巨蛋）、2局下二盗（投手：[コリー・リー](https://zh.wikipedia.org/wiki/コリー・リー "wikilink")、捕手：[高橋信二](../Page/高橋信二.md "wikilink")）
 
 ## 應援曲
 
-  - 2006年　[シロコダイル](../Page/シロコダイル.md "wikilink")「空が笑ってる」「BIG GG（オリジナル曲）」
-  - 2007年～2008年　[高橋伸明](../Page/高橋伸明.md "wikilink")「theme of G.G.toward
-    to love 30th（オリジナル曲）」
-  - 2009年　[Def Tech](../Page/Def_Tech.md "wikilink")「My Way」（「theme of
-    G.G.toward to love 30th」も併用）
+  - 2006年　[シロコダイル](https://zh.wikipedia.org/wiki/シロコダイル "wikilink")「空が笑ってる」「BIG
+    GG（オリジナル曲）」
+  - 2007年～2008年　[高橋伸明](https://zh.wikipedia.org/wiki/高橋伸明 "wikilink")「theme
+    of G.G.toward to love 30th（オリジナル曲）」
+  - 2009年　[Def
+    Tech](https://zh.wikipedia.org/wiki/Def_Tech "wikilink")「My
+    Way」（「theme of G.G.toward to love 30th」も併用）
   - 2009年　シーズン途中
-    [マイケル・ジャクソン](../Page/マイケル・ジャクソン.md "wikilink")「[今夜はビート・イット](../Page/今夜はビート・イット.md "wikilink")」（奇数打席時）、「[スリラー](../Page/スリラー_\(曲\).md "wikilink")」（偶数打席時）
-  - 2009年　ライオンズクラシック期間は、[渡辺美里](../Page/渡辺美里.md "wikilink")｢[My
-    Revolution](../Page/My_Revolution.md "wikilink")｣
+    [マイケル・ジャクソン](https://zh.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")「[今夜はビート・イット](https://zh.wikipedia.org/wiki/今夜はビート・イット "wikilink")」（奇数打席時）、「[スリラー](https://zh.wikipedia.org/wiki/スリラー_\(曲\) "wikilink")」（偶数打席時）
+  - 2009年　ライオンズクラシック期間は、[渡辺美里](https://zh.wikipedia.org/wiki/渡辺美里 "wikilink")｢[My
+    Revolution](https://zh.wikipedia.org/wiki/My_Revolution "wikilink")｣
 
 ## 參考
 

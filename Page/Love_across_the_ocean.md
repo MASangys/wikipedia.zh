@@ -1,15 +1,15 @@
 「**love across the
-ocean**」為2002年7月24日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")5th[單曲](../Page/單曲.md "wikilink")。
+ocean**」為2002年7月24日發行之[日本歌手](../Page/日本.md "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
   - B面曲為songnation+的第2彈單曲「[the meaning of
-    peace](../Page/the_meaning_of_peace.md "wikilink")」的獨唱。原曲為與[BoA的合唱](../Page/BoA.md "wikilink")。
+    peace](https://zh.wikipedia.org/wiki/the_meaning_of_peace "wikilink")」的獨唱。原曲為與[BoA的合唱](https://zh.wikipedia.org/wiki/BoA "wikilink")。
 
 <!-- end list -->
 
-  - 本作以後至14th單曲「[hands](../Page/hands.md "wikilink")」皆為 [Copy
-    Control製品](../Page/Copy_Control.md "wikilink")。
+  - 本作以後至14th單曲「[hands](https://zh.wikipedia.org/wiki/hands "wikilink")」皆為
+    [Copy Control製品](../Page/Copy_Control.md "wikilink")。
 
 ## 發行版本
 
@@ -20,7 +20,7 @@ ocean**」為2002年7月24日發行之[日本歌手](../Page/日本.md "wikilink
 1.  **love across the ocean -Original Mix-**
       -
         作詞：倖田來未、作曲：TSUKASA
-        [佳麗寶化妝品](../Page/佳麗寶.md "wikilink")「テスティモ」廣告曲。1st單曲「[TAKE
+        [佳麗寶化妝品](https://zh.wikipedia.org/wiki/佳麗寶 "wikilink")「テスティモ」廣告曲。1st單曲「[TAKE
         BACK](../Page/TAKE_BACK.md "wikilink")」之後第2度搭載化妝品的歌曲。
 2.  **the meaning of peace -Original Mix-**
       -

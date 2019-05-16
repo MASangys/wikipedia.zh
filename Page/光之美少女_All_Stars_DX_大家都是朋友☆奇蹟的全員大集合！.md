@@ -9,9 +9,9 @@ Star DX－彩虹奇蹟」，但是其後突然宣布取消播放，之後再定�
 ## 概要
 
 本作是前年的『[Yes\! 光之美少女5
-GoGo\!](../Page/Yes!_光之美少女5.md "wikilink")』劇場版『甜點王國歡樂的生日聚會♪』同時上映超短編電影的内容所強化的動畫電影。東映最初預告時『[光之美少女：幸福精靈Fresh\!](../Page/FRESH光之美少女!.md "wikilink")』尚未公開，所以宣傳的影片以『Yes\!
+GoGo\!](../Page/Yes!_光之美少女5.md "wikilink")』劇場版『甜點王國歡樂的生日聚會♪』同時上映超短編電影的内容所強化的動畫電影。東映最初預告時『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』尚未公開，所以宣傳的影片以『Yes\!
 光之美少女5
-GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空的集合，共同前往新敵人所在地。同時歷代的所有妖精與刺客物質除了那基華米基、帕魯米王國四鄰國的精靈外也一同登場。本作沿用的設定為至『[光之美少女：幸福精靈Fresh\!](../Page/FRESH光之美少女!.md "wikilink")』初期為止。
+GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空的集合，共同前往新敵人所在地。同時歷代的所有妖精與刺客物質除了那基華米基、帕魯米王國四鄰國的精靈外也一同登場。本作沿用的設定為至『[光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")』初期為止。
 
 本作首次交代「各個世界的精靈代表互相認識」及「歷作光之美少女所在的世界相同」的設定，每個精靈都擁有一支彩虹奇蹟手電筒。
 
@@ -47,7 +47,7 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
 
 :;光之美少女 亮晶晶閃耀極限（Precure Extreme Luminario）
 
-### [光之美少女 Splash Star](../Page/光之美少女_Splash_Star.md "wikilink")
+### [光之美少女 Splash Star](https://zh.wikipedia.org/wiki/光之美少女_Splash_Star "wikilink")
 
   -
 
@@ -107,7 +107,7 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
 
 :;光之美少女 幻彩玫瑰大爆發（Precure Rainbow Rose Explosion）
 
-### [光之美少女：幸福精靈Fresh\!](../Page/FRESH光之美少女!.md "wikilink")
+### [光之美少女：幸福精靈Fresh\!](https://zh.wikipedia.org/wiki/FRESH光之美少女! "wikilink")
 
   -
 
@@ -137,7 +137,7 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
 
 <!-- end list -->
 
-  - 作詞：青木久美子，作曲：小杉保夫，編曲：[大石憲一郎](../Page/大石憲一郎.md "wikilink")，主唱：五條真由美
+  - 作詞：青木久美子，作曲：小杉保夫，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")，主唱：五條真由美
     from
     [.R計劃](../Page/Project.R.md "wikilink")（[五條真由美](../Page/五條真由美.md "wikilink")、うちやえゆか、工藤真由、宮本佳那子、茂家瑞季、林桃子）
 
@@ -167,9 +167,9 @@ GoGo\!』為中心。上映當時歴代的光之美少女14人像是跨躍時空
   - 剪接：麻生芳弘
   - 錄音：川崎公敬
   - 音響效果：石野貴久（）
-  - 動畫製作：[ABC](../Page/ABC.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+  - 動畫製作：[ABC](../Page/ABC.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 製作：©2009 電影光之美少女All
-    Stars製作委員會（東映動畫、[東映](../Page/東映.md "wikilink")、[Bandai](../Page/Bandai.md "wikilink")、[旭通廣告](../Page/旭通廣告.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous
+    Stars製作委員會（東映動畫、[東映](../Page/東映.md "wikilink")、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、Marvelous
     Entertainment、木下工務店）
 
 ## 外部連結

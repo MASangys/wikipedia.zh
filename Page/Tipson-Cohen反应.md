@@ -1,10 +1,10 @@
 **Tipson-Cohen反应**，最早由在华盛顿国家标准局的 Stuart Tipson 和 Alex Cohen 首先报道。\[1\]
 
-与[锌粉和](../Page/锌.md "wikilink")[碘化钠在](../Page/碘化钠.md "wikilink")[二甲基甲酰胺等溶剂中回流时](../Page/二甲基甲酰胺.md "wikilink")，含两个相邻的伯[磺酰氧基的](../Page/磺酰氧基.md "wikilink")[糖转变为相应的不饱和糖](../Page/糖.md "wikilink")。\[2\]
+与[锌粉和](../Page/锌.md "wikilink")[碘化钠在](../Page/碘化钠.md "wikilink")[二甲基甲酰胺等溶剂中回流时](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")，含两个相邻的伯[磺酰氧基的](https://zh.wikipedia.org/wiki/磺酰氧基 "wikilink")[糖转变为相应的不饱和糖](https://zh.wikipedia.org/wiki/糖 "wikilink")。\[2\]
 
 ## 背景
 
-不饱和糖是重要的合成前体，可参与多种反应。\[3\]可用于天然产物和寡糖的合成，也可用作[狄尔斯-阿尔德反应中的双烯体](../Page/狄尔斯-阿尔德反应.md "wikilink")。\[4\]
+不饱和糖是重要的合成前体，可参与多种反应。\[3\]可用于天然产物和寡糖的合成，也可用作[狄尔斯-阿尔德反应中的双烯体](https://zh.wikipedia.org/wiki/狄尔斯-阿尔德反应 "wikilink")。\[4\]
 
 Tipson-Cohen
 反应为同式（*syn*）或对式（*anti*）消除机理。产物为烯烃，产率中等。\[5\]反应受周边取代基的影响。下面是吡喃葡糖苷和吡喃甘露苷的反应机理。\[6\]
@@ -33,7 +33,7 @@ CH<sub>3</sub>C<sub>6</sub>H<sub>4</sub>SO<sub>2</sub> (Ts)。
 | α-吡喃葡苷         | 12     | 55     |
 | α-吡喃甘露苷        | 15     | 10     |
 
-<sup>a</sup>底物C-4和C-6有[苄叉保护](../Page/苄叉.md "wikilink")，异头位有甲氧基，C-2和C-3则有OTs基。反应温度95-100°C。
+<sup>a</sup>底物C-4和C-6有[苄叉保护](https://zh.wikipedia.org/wiki/苄叉 "wikilink")，异头位有甲氧基，C-2和C-3则有OTs基。反应温度95-100°C。
 
 表1．反应时间与产率与底物有关。作者比较四种底物性质后，发现β-吡喃葡苷是 Tipson-Cohen 反应的最佳底物。\[12\]
 

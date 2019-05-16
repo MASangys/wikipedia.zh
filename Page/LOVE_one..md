@@ -1,19 +1,20 @@
 《**LOVE
-one.**》（愛的第一課）是日本的女歌手[西野加奈的第](../Page/西野加奈.md "wikilink")1枚原創專輯。於2009年6月24日發行。唱片公司為[SME
-Records Inc.](../Page/SME_Records_Inc..md "wikilink")。
+one.**》（愛的第一課）是日本的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")1枚原創專輯。於2009年6月24日發行。唱片公司為[SME
+Records
+Inc.](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 
   - 收錄第1張單曲「[I](../Page/I_\(西野加奈單曲\).md "wikilink")」至第6張單曲「[忽然好想見你](../Page/忽然好想見你.md "wikilink")」的6首A面曲，以及「[glowly
-    days](../Page/glowly_days.md "wikilink")」的B面曲「celtic」和新曲「想聽你的聲音
+    days](https://zh.wikipedia.org/wiki/glowly_days "wikilink")」的B面曲「celtic」和新曲「想聽你的聲音
     feat.VERBAL(m-flo)」等，共14首曲目。
   - 新曲「Life goes
-    on...」是[九州朝日放送](../Page/九州朝日放送.md "wikilink")「水與綠色的故事」的主題曲。
+    on...」是[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")「水與綠色的故事」的主題曲。
   - 本作分「初回限定盤」和「CD盤」2種版本
   - 「初回限定盤」收錄了「I」、「即使分開兩地」、「忽然好想見你」等6首歌曲的PV。
   - 在7月6日於[Oricon公信榜專輯週榜取得第](../Page/Oricon公信榜.md "wikilink")4名。
   - 新曲「想聽你的聲音
-    feat.VERBAL(m-flo)」於[RIAJ數位單曲下載拿下金](../Page/RIAJ.md "wikilink")（10萬）銷量
+    feat.VERBAL(m-flo)」於[RIAJ數位單曲下載拿下金](https://zh.wikipedia.org/wiki/RIAJ "wikilink")（10萬）銷量
 
 ## 收錄內容
 
@@ -40,13 +41,13 @@ Records Inc.](../Page/SME_Records_Inc..md "wikilink")。
     （作詞：Kana Nishino / 作曲・編曲：Kazuhiko.M）
       -
         3rd單曲。[東京電視台動畫](../Page/東京電視台.md "wikilink")「SOUL
-        EATER」片尾曲、[富山電視台](../Page/富山電視台.md "wikilink")「bbt
+        EATER」片尾曲、[富山電視台](https://zh.wikipedia.org/wiki/富山電視台 "wikilink")「bbt
         music
         selection」2008年8月份片頭曲、三重電視台「とってもワクドキ\!」2008年7月28日～8月8日節目片尾曲。
 7.  **Life goes on...**
     （作詞：Kana Nishino / 作曲・編曲：Ryuichiro Yamaki）
       -
-        [九州朝日放送](../Page/九州朝日放送.md "wikilink")「水與綠色的故事」的主題曲。
+        [九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")「水與綠色的故事」的主題曲。
 8.  **[I](../Page/I_\(西野加奈單曲\).md "wikilink")**
     （作詞：Kana Nishino / 作曲：Olivia Nervo・Miriam Nervo・Bobby Huff / 編曲：SiZK
     from ★STAR GUiTAR）
@@ -60,13 +61,14 @@ Records Inc.](../Page/SME_Records_Inc..md "wikilink")。
     （作詞：Kana Nishino / 作曲・編曲：Kazuhiko.M）
       -
         4th單曲。動畫「Chocolate Underground」的主題歌
-11. **[glowly days](../Page/glowly_days.md "wikilink")**
+11. **[glowly
+    days](https://zh.wikipedia.org/wiki/glowly_days "wikilink")**
     （作詞：Kana Nishino / 作曲：Marimo Wamoto / 編曲：SiZK）
       -
         2nd單曲。[TBS電視台](../Page/TBS電視台.md "wikilink")「COUNT DOWN
         TV」片尾曲、FM三重「SINGLE TOP 30」2008年4月份片尾曲、STARCAT
         Channel「みゆきカフェ」2008年5月份片尾曲、[熊本縣民電視台](../Page/熊本縣.md "wikilink")「テレビタミン」2008年5月份片尾曲。
-12. **[celtic](../Page/glowly_days.md "wikilink")**
+12. **[celtic](https://zh.wikipedia.org/wiki/glowly_days "wikilink")**
     （作詞：Kana Nishino / 作曲：Gajin / 編曲：Makoto Sakuma）
       -
         2nd單曲。
@@ -75,7 +77,7 @@ Records Inc.](../Page/SME_Records_Inc..md "wikilink")。
     （作詞：Kana Nishino, Kanako Kato / 作曲：Kana Nishino, Jeff Miyahara,
     Kenji "JINO" Hino / 編曲: Jeff Miyahara, Kenji "JINO" Hino）
       -
-        6th單曲。[Recochoku的電視廣告歌曲](../Page/Recochoku.md "wikilink")。
+        6th單曲。[Recochoku的電視廣告歌曲](https://zh.wikipedia.org/wiki/Recochoku "wikilink")。
 14. **＊Epilogue＊～LOVE one.～**
     （作詞：Kana Nishino / 作曲：ViVi / 編曲：SiZK from ★STAR GUiTAR）
       -

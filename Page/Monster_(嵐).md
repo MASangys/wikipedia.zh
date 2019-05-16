@@ -6,7 +6,7 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 與前作[Troublemaker相距約](../Page/Troublemaker.md "wikilink")2個月。為2010年的第二張單曲
   - 與前作一樣，分初回限定盤、通常盤2種形態發售。每種版本除收入「Monster」、「螺旋墜落」2曲外，初回限定盤附贈「Monster」的PV及幕後製作花絮，通常盤再加上2曲的原版卡拉OK一共4曲。
   - 主打歌是成員[大野智主演](../Page/大野智.md "wikilink")、日本電視台週六晚間九點《[怪物王子](../Page/怪物王子.md "wikilink")》的主題曲。
-  - 在[第61回NHK紅白歌合戰以組曲形式演唱](../Page/第61回NHK紅白歌合戰.md "wikilink")（[Troublemaker](../Page/Troublemaker.md "wikilink")
+  - 在[第61回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")（[Troublemaker](../Page/Troublemaker.md "wikilink")
     + **Monster**）
 
 ### 主要紀錄
@@ -25,7 +25,7 @@ Storm](../Page/J_Storm.md "wikilink")。
         <span style="font-size:smaller">作曲：CHI-MEY</span>
         <span style="font-size:smaller">編曲：Taku Yoshioka・Hirofumi
         Sasaki</span>
-        [日本電視台系連續劇](../Page/日本電視台.md "wikilink")《[怪物小王子](../Page/怪物小王子.md "wikilink")》主題曲
+        [日本電視台系連續劇](../Page/日本電視台.md "wikilink")《[怪物小王子](https://zh.wikipedia.org/wiki/怪物小王子 "wikilink")》主題曲
 2.  **螺旋墜落**<span style="font-size:smaller">（</span>）
       -
         <span style="font-size:smaller">作詞：小川貴史</span>

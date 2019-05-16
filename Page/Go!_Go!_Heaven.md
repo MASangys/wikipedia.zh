@@ -1,5 +1,5 @@
 《**Go\! Go\!
-Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](../Page/女子音樂組合.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張[單曲](../Page/單曲.md "wikilink")。
+Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説
 
@@ -13,8 +13,8 @@ Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](../Page
 1.  **Go\! Go\! Heaven**
 
       -
-        [PV是在](../Page/PV.md "wikilink")[紐約與](../Page/紐約.md "wikilink")[邁阿密拍攝](../Page/邁阿密.md "wikilink")。導演為。
-        [B'z的](../Page/B'z.md "wikilink")[松本孝弘相當喜歡本曲](../Page/松本孝弘.md "wikilink")，當意識到時是在作曲之際親口訴道。喜歡程度最終引用為1997年的[SHOWCASE](../Page/LIVE-GYM#SHOWCASE.md "wikilink")（秘密演唱會）標題。
+        [PV是在](https://zh.wikipedia.org/wiki/PV "wikilink")[紐約與](https://zh.wikipedia.org/wiki/紐約 "wikilink")[邁阿密拍攝](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")。導演為。
+        [B'z的](../Page/B'z.md "wikilink")[松本孝弘相當喜歡本曲](../Page/松本孝弘.md "wikilink")，當意識到時是在作曲之際親口訴道。喜歡程度最終引用為1997年的[SHOWCASE](https://zh.wikipedia.org/wiki/LIVE-GYM#SHOWCASE "wikilink")（秘密演唱會）標題。
         此外，2個月後發行的首張專輯「Starling Over」中所收錄的專輯版本，淡出處有所不同，並收錄了延續的部分。
 
 2.
@@ -46,4 +46,4 @@ Heaven**》是[日本](../Page/日本.md "wikilink")[女子音樂組合](../Page
 [Category:1997年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon單曲週榜冠軍作品 "wikilink")
 [Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")
 
-1.  [SPEEDさよならツアー涙、涙…](https://web.archive.org/web/20010316014911/http://www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[網際網路檔案館的存檔](../Page/網際網路檔案館.md "wikilink")）
+1.  [SPEEDさよならツアー涙、涙…](https://web.archive.org/web/20010316014911/http://www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[網際網路檔案館的存檔](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")）

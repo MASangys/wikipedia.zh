@@ -1,15 +1,16 @@
-**雷神ELCAN光學技術**（；前稱：**恩斯特·徠茲·加拿大**、**ELCAN光學技術**）是一家生產光學和電子儀器的[跨國公司和](../Page/跨國公司.md "wikilink")[私人公司](../Page/私人公司.md "wikilink")，為[雷神公司的](../Page/雷神公司.md "wikilink")[子公司](../Page/子公司.md "wikilink")，成立於1952年，總部設在[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[米德蘭](../Page/米德蘭_\(安大略省\).md "wikilink")，分部設在[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[達拉斯縣](../Page/達拉斯縣_\(德克薩斯州\).md "wikilink")[理查森和](../Page/理查森_\(德克薩斯州\).md "wikilink")[西班牙](../Page/西班牙.md "wikilink")[安達盧西亞](../Page/安達盧西亞.md "wikilink")[馬拉加省](../Page/馬拉加省.md "wikilink")[马拉加](../Page/马拉加.md "wikilink")，通過[軍備技術公司及其經銷商渠道銷售面向民用和軍用市場生產的設備](../Page/軍備技術公司.md "wikilink")，專注於設計和製造光學解決方案，以滿足軍事和商業規範。
+**雷神ELCAN光學技術**（；前稱：**恩斯特·徠茲·加拿大**、**ELCAN光學技術**）是一家生產光學和電子儀器的[跨國公司和](../Page/跨國公司.md "wikilink")[私人公司](../Page/私人公司.md "wikilink")，為[雷神公司的](../Page/雷神公司.md "wikilink")[子公司](../Page/子公司.md "wikilink")，成立於1952年，總部設在[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[米德蘭](https://zh.wikipedia.org/wiki/米德蘭_\(安大略省\) "wikilink")，分部設在[美国](../Page/美国.md "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[達拉斯縣](https://zh.wikipedia.org/wiki/達拉斯縣_\(德克薩斯州\) "wikilink")[理查森和](https://zh.wikipedia.org/wiki/理查森_\(德克薩斯州\) "wikilink")[西班牙](../Page/西班牙.md "wikilink")[安達盧西亞](../Page/安達盧西亞.md "wikilink")[馬拉加省](../Page/馬拉加省.md "wikilink")[马拉加](../Page/马拉加.md "wikilink")，通過[軍備技術公司及其經銷商渠道銷售面向民用和軍用市場生產的設備](https://zh.wikipedia.org/wiki/軍備技術公司 "wikilink")，專注於設計和製造光學解決方案，以滿足軍事和商業規範。
 
 ## 概述
 
-1952年，[恩斯特·徠茲光學工廠成立E](../Page/恩斯特·徠茲光學工廠.md "wikilink"). Leitz
-Canada。直至1998年，ELCAN先後被[休斯飛機公司](../Page/休斯飛機公司.md "wikilink")、[通用汽車和](../Page/通用汽車.md "wikilink")[雷神公司收購](../Page/雷神公司.md "wikilink")。
+1952年，[恩斯特·徠茲光學工廠成立E](https://zh.wikipedia.org/wiki/恩斯特·徠茲光學工廠 "wikilink").
+Leitz
+Canada。直至1998年，ELCAN先後被[休斯飛機公司](https://zh.wikipedia.org/wiki/休斯飛機公司 "wikilink")、[通用汽車和](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[雷神公司收購](../Page/雷神公司.md "wikilink")。
 
-[徠卡M4是最著名的相機](../Page/徠卡M4.md "wikilink")，光學儀器則是3.4×28毫米倍率的ELCAN
+[徠卡M4是最著名的相機](https://zh.wikipedia.org/wiki/徠卡M4 "wikilink")，光學儀器則是3.4×28毫米倍率的ELCAN
 SpecterOS（[C79](../Page/C79光學瞄準鏡.md "wikilink")）光學瞄準鏡，並且安裝在迪瑪科[C7（C7A1和C7A2）](../Page/C7突擊步槍.md "wikilink")、[C8（C8A1、C8A2和C8A3）](../Page/C8卡賓槍.md "wikilink")、[FN
 Minimi（C9A1和C9A2）](../Page/FN_Minimi輕機槍.md "wikilink")、[FN
 MAG（C6）和](../Page/FN_MAG通用機槍.md "wikilink")[CZ-805
-Bren突擊步槍系列槍械上使用](../Page/CZ-805_Bren突擊步槍.md "wikilink")。C79光學瞄準鏡本身的設計目的就不是作為狙擊步槍的瞄準鏡，而是計畫用於安裝在各種的步槍並且給所有使用步槍的步兵及特等射手們使用。
+Bren突擊步槍系列槍械上使用](https://zh.wikipedia.org/wiki/CZ-805_Bren突擊步槍 "wikilink")。C79光學瞄準鏡本身的設計目的就不是作為狙擊步槍的瞄準鏡，而是計畫用於安裝在各種的步槍並且給所有使用步槍的步兵及特等射手們使用。
 
 分劃標記使用了氚光照明設計，能夠解決C79在光線不足或夜間時照明的問題。由於有低放射性的氚的半衰期約為8—12
 年，在這段時間亮度會因為放射性衰變而在一般的時間內減少了一半並且失去光澤，這時便需要更換內部的氚燈。

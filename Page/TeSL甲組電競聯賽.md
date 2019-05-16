@@ -1,22 +1,23 @@
 **TeSL甲組電競聯賽**（Tt eSports Amateur
-League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](../Page/台灣電子競技聯盟.md "wikilink")》所主辦的業餘[電子競技聯賽](../Page/電子競技.md "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF
-Online](../Page/SF_Online.md "wikilink")》、《[跑跑卡丁車](../Page/跑跑卡丁車.md "wikilink")》、《[BBO全民打棒球](../Page/全民打棒球.md "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。
+League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")》所主辦的業餘[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF
+Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、《[BBO全民打棒球](https://zh.wikipedia.org/wiki/全民打棒球 "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。
 
 ## 歷史沿革
 
   - 2009年9月：聯盟宣布開辦甲組聯賽。
   - 2010年2月27日：舉行示範賽。
   - 2010年3月：開始第一年賽季，首波入選之比賽項目為《[SF
-    Online](../Page/SF_Online.md "wikilink")》、
-    《[跑跑卡丁車](../Page/跑跑卡丁車.md "wikilink")》、 《[CS
-    Online](../Page/CSO.md "wikilink")》，第一個甲組周冠軍由SF團隊《B‧Stones》獲得。
-  - 2010年7月：增加《[魔獸世界](../Page/魔獸世界.md "wikilink")》為甲組第四個比賽項目。\[1\]
-  - 2010年7-8月：《[億泰利](../Page/億泰利.md "wikilink")》與台灣電競聯盟合作，於北中南三地分別舉行短期的《光速電競盃》，為旗下遊戲《[光速城市](../Page/光速城市.md "wikilink")》的電競比賽。但尚未成為甲組正式的例行電競項目。
-  - 2010年11月11日：《[I54I](../Page/I54I.md "wikilink")》成為甲組聯賽的正式電競項目。
-  - 2010年11月15日：《[45](../Page/45.md "wikilink")》職業選秀賽開幕。
+    Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、
+    《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、
+    《[CS
+    Online](https://zh.wikipedia.org/wiki/CSO "wikilink")》，第一個甲組周冠軍由SF團隊《B‧Stones》獲得。
+  - 2010年7月：增加《[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")》為甲組第四個比賽項目。\[1\]
+  - 2010年7-8月：《[億泰利](https://zh.wikipedia.org/wiki/億泰利 "wikilink")》與台灣電競聯盟合作，於北中南三地分別舉行短期的《光速電競盃》，為旗下遊戲《[光速城市](https://zh.wikipedia.org/wiki/光速城市 "wikilink")》的電競比賽。但尚未成為甲組正式的例行電競項目。
+  - 2010年11月11日：《[I54I](https://zh.wikipedia.org/wiki/I54I "wikilink")》成為甲組聯賽的正式電競項目。
+  - 2010年11月15日：《[45](https://zh.wikipedia.org/wiki/45 "wikilink")》職業選秀賽開幕。
   - 2011年4月25日：開始二年賽季。
   - 2011年5月15日：與戰谷合作，舉行《[AVA戰地之王2011
-    春季錦標賽](../Page/AVA戰地之王2011_春季錦標賽.md "wikilink")》。
+    春季錦標賽](https://zh.wikipedia.org/wiki/AVA戰地之王2011_春季錦標賽 "wikilink")》。
   - 2011年5月20日：《\[7887\[\]\]》成為甲組聯賽的正式電競項目。
   - 2011年11月15日：《百變恰吉》成為甲組聯賽的正式電競項目。\[2\]
   - 2012年9月15日：2012-2013甲組聯賽改由GX GAMING贊助甲組聯賽\[3\]
@@ -26,9 +27,9 @@ Online](../Page/SF_Online.md "wikilink")》、《[跑跑卡丁車](../Page/跑�
 
 ## 比賽地點
 
-甲組比賽分為北區（[台北](../Page/台北.md "wikilink")）、中區（[台中](../Page/台中.md "wikilink")）和南區（[高雄](../Page/高雄.md "wikilink")）三大區域，比賽以「北區、中區、北區、南區」輪流在這三區進行，比賽地點大多為固定的店家，但有時會改變為其他的地點。甚至是因政府的政策之故，被迫更換地點的事情發生\[7\]。此外，地點之選擇也受到當地設備以及交通因素之影響，夠資格的店家才能做為甲組比賽場地。
+甲組比賽分為北區（[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")）、中區（[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")）和南區（[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")）三大區域，比賽以「北區、中區、北區、南區」輪流在這三區進行，比賽地點大多為固定的店家，但有時會改變為其他的地點。甚至是因政府的政策之故，被迫更換地點的事情發生\[7\]。此外，地點之選擇也受到當地設備以及交通因素之影響，夠資格的店家才能做為甲組比賽場地。
 
-例行賽事於特約的[網咖舉行](../Page/網咖.md "wikilink")，而重大的比賽（如季冠軍賽）則移師到大型場地進行。
+例行賽事於特約的[網咖舉行](https://zh.wikipedia.org/wiki/網咖 "wikilink")，而重大的比賽（如季冠軍賽）則移師到大型場地進行。
 
 ### 各區比賽場地
 

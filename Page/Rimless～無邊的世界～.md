@@ -6,7 +6,7 @@
 
       -
         作詞：IKU　作曲：高瀬一矢・IKU　編曲：高瀬一矢
-          - [全國獨立UHF放送協議會的](../Page/全國獨立UHF放送協議會.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](../Page/魔法禁書目錄.md "wikilink")》[片尾曲](../Page/片尾曲.md "wikilink")
+          - [全國獨立UHF放送協議會的](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")
 
 2.  **** \[4:35\]
 
@@ -20,7 +20,7 @@
 ## 相關項目
 
   - [PSI-missing](../Page/PSI-missing.md "wikilink")
-  - [masterpiece](../Page/masterpiece.md "wikilink")
+  - [masterpiece](https://zh.wikipedia.org/wiki/masterpiece "wikilink")
 
 ## 外部連結
 

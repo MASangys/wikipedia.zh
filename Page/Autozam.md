@@ -1,12 +1,12 @@
 [Autozam-logo.gif](https://zh.wikipedia.org/wiki/File:Autozam-logo.gif "fig:Autozam-logo.gif")
-**Autozam**（）為1980年代後半[日本泡沫經濟最盛時期](../Page/日本泡沫經濟.md "wikilink")[馬自達汽車公司推行](../Page/馬自達.md "wikilink")[多品牌策略](../Page/多品牌策略.md "wikilink")，而在[日本國內市場創立的三個子](../Page/日本.md "wikilink")[品牌之一](../Page/品牌.md "wikilink")；其餘兩個子品牌是[Eunos和](../Page/Eunos.md "wikilink")[Ẽfini](../Page/Ẽfini.md "wikilink")；同時這三個副品牌也是旗下三個銷售通路體系。隨著[日本泡沫經濟的崩解](../Page/日本泡沫經濟.md "wikilink")，這種[多品牌策略失利](../Page/多品牌策略.md "wikilink")，使得該公司陷入經營危機，故在1996年宣告終止。
+**Autozam**（）為1980年代後半[日本泡沫經濟最盛時期](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")[馬自達汽車公司推行](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，而在[日本國內市場創立的三個子](../Page/日本.md "wikilink")[品牌之一](../Page/品牌.md "wikilink")；其餘兩個子品牌是[Eunos和](../Page/Eunos.md "wikilink")[Ẽfini](../Page/Ẽfini.md "wikilink")；同時這三個副品牌也是旗下三個銷售通路體系。隨著[日本泡沫經濟的崩解](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，這種[多品牌策略失利](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，使得該公司陷入經營危機，故在1996年宣告終止。
 
 ## 概要
 
-馬自達設立Autozam的中心概念為「離消費者居住的街上最近的汽車展示中心」，專門販售微型車（subcompact）與輕型車（K-car），其中有許多輕型車由[鈴木代工製造](../Page/鈴木株式會社.md "wikilink")。目前馬自達繼續使用Mazda
+馬自達設立Autozam的中心概念為「離消費者居住的街上最近的汽車展示中心」，專門販售微型車（subcompact）與輕型車（K-car），其中有許多輕型車由[鈴木代工製造](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")。目前馬自達繼續使用Mazda
 Autozam來運作經銷商體系，並在輕型車車款名稱冠以「AZ」稱之。
 
-此外為了補足高級車陣容，Autozam也取得[義大利](../Page/義大利.md "wikilink")[蘭吉雅的授權代理資格](../Page/蓝旗亚.md "wikilink")\[1\]，引進、、等車款，直到1998年為止。
+此外為了補足高級車陣容，Autozam也取得[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[蘭吉雅的授權代理資格](../Page/蓝旗亚.md "wikilink")\[1\]，引進、、等車款，直到1998年為止。
 
 ## 車種一覽
 

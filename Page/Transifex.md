@@ -1,4 +1,4 @@
-**Transifex**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[本地化平台](../Page/本地化.md "wikilink")。它为用户提供了一个易用的界面帮助向不同平台上的不同项目提交翻译。
+**Transifex**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[本地化平台](https://zh.wikipedia.org/wiki/本地化 "wikilink")。它为用户提供了一个易用的界面帮助向不同平台上的不同项目提交翻译。
 Transifex的字面意思是“”（from the latin verb facere）。
 
 ## 特性
@@ -10,9 +10,9 @@ Transifex支持使用[GNU](../Page/GNU.md "wikilink")
 
 Transifex能导入并提交到下列版本系统：
 
-  - [CVS](../Page/CVS.md "wikilink")
+  - [CVS](https://zh.wikipedia.org/wiki/CVS "wikilink")
   - [SVN](../Page/Subversion.md "wikilink")
-  - [Bazaar](../Page/Bazaar_\(software\).md "wikilink")
+  - [Bazaar](https://zh.wikipedia.org/wiki/Bazaar_\(software\) "wikilink")
   - [Mercurial](../Page/Mercurial.md "wikilink")
   - [Git](../Page/Git.md "wikilink")
 
@@ -22,31 +22,32 @@ Transifex能导入并提交到下列版本系统：
 
   - [Django](../Page/Django.md "wikilink") \[2\]
   - [Fedora](../Page/Fedora.md "wikilink")
-  - [Moblin](../Page/Moblin_project.md "wikilink")\[3\]
+  - [Moblin](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")\[3\]
   - [Maemo](../Page/Maemo.md "wikilink")
-  - [XFCE](../Page/XFCE.md "wikilink")\[4\]
-  - [VLC media player](../Page/VLC_media_player.md "wikilink")
+  - [XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")\[4\]
+  - [VLC media
+    player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
   - [SMPlayer](../Page/SMPlayer.md "wikilink")
   - [MuseScore](../Page/MuseScore.md "wikilink")
   - [Mixxx](../Page/Mixxx.md "wikilink")
-  - [XBMC](../Page/XBMC.md "wikilink")
-  - [QupZilla](../Page/QupZilla.md "wikilink")
-  - [qBittorrent](../Page/qBittorrent.md "wikilink")
-  - [ownCloud](../Page/ownCloud.md "wikilink")
-  - [Quantum GIS](../Page/Quantum_GIS.md "wikilink")
+  - [XBMC](https://zh.wikipedia.org/wiki/XBMC "wikilink")
+  - [QupZilla](https://zh.wikipedia.org/wiki/QupZilla "wikilink")
+  - [qBittorrent](https://zh.wikipedia.org/wiki/qBittorrent "wikilink")
+  - [ownCloud](https://zh.wikipedia.org/wiki/ownCloud "wikilink")
+  - [Quantum GIS](https://zh.wikipedia.org/wiki/Quantum_GIS "wikilink")
   - [Tor](../Page/Tor.md "wikilink")
   - [0 A.D.](../Page/0_A.D..md "wikilink")
-  - [SuperTux](../Page/SuperTux.md "wikilink")（超級企鵝）
+  - [SuperTux](https://zh.wikipedia.org/wiki/SuperTux "wikilink")（超級企鵝）
   - [UFO: Alien
-    Invasion](../Page/UFO:_Alien_Invasion.md "wikilink")（不明飛行物：異形入侵）
+    Invasion](https://zh.wikipedia.org/wiki/UFO:_Alien_Invasion "wikilink")（不明飛行物：異形入侵）
   - [Xonotic](../Page/Xonotic.md "wikilink")
-  - [Telegram](../Page/Telegram.md "wikilink")
+  - [Telegram](https://zh.wikipedia.org/wiki/Telegram "wikilink")
   - [Coursera](../Page/Coursera.md "wikilink")
 
 ## 参见
 
-  - [Crowdin](../Page/Crowdin.md "wikilink")
-  - [translatewiki.net](../Page/translatewiki.net.md "wikilink")
+  - [Crowdin](https://zh.wikipedia.org/wiki/Crowdin "wikilink")
+  - [translatewiki.net](https://zh.wikipedia.org/wiki/translatewiki.net "wikilink")
   - [Launchpad](../Page/Launchpad_\(網站\).md "wikilink")
 
 ## 参考来源
@@ -69,7 +70,7 @@ Transifex能导入并提交到下列版本系统：
     Questions](http://www.transifex.net/faq/)
 2.  [Developers | Django CMS](http://www.django-cms.org/en/developers/)
     Describes tools used by
-    \*[Django](../Page/Django_\(web_framework\).md "wikilink"),
+    \*[Django](https://zh.wikipedia.org/wiki/Django_\(web_framework\) "wikilink"),
     including Transifex.
 3.
 4.  <http://translations.xfce.org/>

@@ -1,6 +1,6 @@
 **Nook**是由Barnes &
 Noble（[巴諾書店](../Page/巴諾書店.md "wikilink")）推出的電子書，與[Amazon
-Kindle是直接對手](../Page/Amazon_Kindle.md "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
+Kindle是直接對手](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
 
 ## 特點
 
@@ -18,7 +18,7 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/PDF.md" title="wikilink">PDF</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PDF" title="wikilink">PDF</a></p></td>
 <td><p>.pdf</p></td>
 <td></td>
 <td></td>
@@ -26,7 +26,7 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/EPUB.md" title="wikilink">ePub</a></p></td>
-<td><p>.<a href="../Page/epub.md" title="wikilink">epub</a></p></td>
+<td><p>.<a href="https://zh.wikipedia.org/wiki/epub" title="wikilink">epub</a></p></td>
 <td></td>
 <td></td>
 <td><p>不適用</p></td>
@@ -67,7 +67,7 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 <td><p>不適用</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BMP.md" title="wikilink">BMP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMP" title="wikilink">BMP</a></p></td>
 <td><p>.bmp</p></td>
 <td></td>
 <td></td>
@@ -82,13 +82,13 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 </tr>
 <tr class="even">
 <td><p>Office Pre-2007</p></td>
-<td><p><a href="../Page/.doc.md" title="wikilink">.doc</a> <a href="../Page/.ppt.md" title="wikilink">.ppt</a> <a href="../Page/.xls.md" title="wikilink">.xls</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/.doc" title="wikilink">.doc</a> <a href="https://zh.wikipedia.org/wiki/.ppt" title="wikilink">.ppt</a> <a href="https://zh.wikipedia.org/wiki/.xls" title="wikilink">.xls</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/CHM.md" title="wikilink">CHM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CHM" title="wikilink">CHM</a></p></td>
 <td><p>.chm</p></td>
 <td></td>
 <td></td>
@@ -102,14 +102,14 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 <td><p>ConvertLIT</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Amazon_Kindle.md" title="wikilink">Amazon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Amazon_Kindle" title="wikilink">Amazon</a></p></td>
 <td><p>.azw</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/文字文件.md" title="wikilink">文字文件</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文字文件" title="wikilink">文字文件</a></p></td>
 <td><p>.txt</p></td>
 <td></td>
 <td></td>
@@ -130,7 +130,7 @@ Nook其中一個最大的特點就是它下方的3.5吋彩色LCD顯示屏。
 {{-}}
 
 [de:Barnes & Noble\#NOOK
-E-Book-Reader](../Page/de:Barnes_&_Noble#NOOK_E-Book-Reader.md "wikilink")
+E-Book-Reader](https://zh.wikipedia.org/wiki/de:Barnes_&_Noble#NOOK_E-Book-Reader "wikilink")
 
 [Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink")
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")

@@ -2,8 +2,8 @@
 t_transit = 2454508.9761 ± 0.0002 }} \[1\], \[2\]}} | density = 326 |
 gravity_earth = 1.16 | temperature = 2525\[3\] }}
 
-**WASP-12b**是由[SuperWASP使用](../Page/超廣角尋找行星.md "wikilink")[凌日法於](../Page/凌_\(天體\).md "wikilink")2008年4月1日發現環繞著[WASP-12的一顆](../Page/WASP-12.md "wikilink")[系外行星](../Page/系外行星.md "wikilink")
-\[4\]。由於WASP-12b環繞的軌道非常靠近母恆星，它是已知系外行星中密度最低者之一（因為接受母恆星的輻射能而膨脹）。該恆星的軌道周期只比一天略長一點，而地球環繞[太陽一周要](../Page/太陽.md "wikilink")365天。它與母恆星的距離只有[地球與](../Page/地球.md "wikilink")[太陽距離的](../Page/太陽.md "wikilink")<sup>1</sup>/<sub>44</sub>，[軌道離心率則與木星相同](../Page/軌道離心率.md "wikilink")。2013年12月3日，天文學家報告以[哈伯太空望遠鏡觀測WASP](../Page/哈伯太空望遠鏡.md "wikilink")-12b的大氣層時發現了水的存在\[5\]\[6\]。2014年7月，NASA宣布在包含WASP-12b的3顆系外行星上偵測到極乾燥大氣層（另外兩顆為[HD
+**WASP-12b**是由[SuperWASP使用](../Page/超廣角尋找行星.md "wikilink")[凌日法於](../Page/凌_\(天體\).md "wikilink")2008年4月1日發現環繞著[WASP-12的一顆](../Page/WASP-12.md "wikilink")[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")
+\[4\]。由於WASP-12b環繞的軌道非常靠近母恆星，它是已知系外行星中密度最低者之一（因為接受母恆星的輻射能而膨脹）。該恆星的軌道周期只比一天略長一點，而地球環繞[太陽一周要](https://zh.wikipedia.org/wiki/太陽 "wikilink")365天。它與母恆星的距離只有[地球與](../Page/地球.md "wikilink")[太陽距離的](https://zh.wikipedia.org/wiki/太陽 "wikilink")<sup>1</sup>/<sub>44</sub>，[軌道離心率則與木星相同](../Page/軌道離心率.md "wikilink")。2013年12月3日，天文學家報告以[哈伯太空望遠鏡觀測WASP](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")-12b的大氣層時發現了水的存在\[5\]\[6\]。2014年7月，NASA宣布在包含WASP-12b的3顆系外行星上偵測到極乾燥大氣層（另外兩顆為[HD
 189733 b和](../Page/HD_189733_b.md "wikilink")[HD 209458
 b](../Page/HD_209458_b.md "wikilink")）\[7\]。
 
@@ -14,12 +14,12 @@ b](../Page/HD_209458_b.md "wikilink")）\[7\]。
 [
 WASP-12b表面吸收94％的照射在其上的光輻射能，導致該行星的[反照率](../Page/反照率.md "wikilink")，即反射光強度與入射光強度比值非常低\[10\]。](https://zh.wikipedia.org/wiki/File:The_Pitch-Black_Exoplanet_WASP-12b.jpg "fig: WASP-12b表面吸收94％的照射在其上的光輻射能，導致該行星的反照率，即反射光強度與入射光強度比值非常低。")
 這顆行星因為極為靠近WASP-12，所以受到潮汐力的扭曲成為卵形，並且以每年大約10<sup>−7</sup>
-[M<sub>J</sub>的速率將大氣層的氣體剝離](../Page/木星質量.md "wikilink")\[11\]。前述就是所謂的「潮汐加熱」，以及WASP-12b與其母恆星極為接近，兩項條件結合起來使WASP-12b表面溫度超過。
+[M<sub>J</sub>的速率將大氣層的氣體剝離](https://zh.wikipedia.org/wiki/木星質量 "wikilink")\[11\]。前述就是所謂的「潮汐加熱」，以及WASP-12b與其母恆星極為接近，兩項條件結合起來使WASP-12b表面溫度超過。
 
-在2010年5月20日，天文學家以[哈伯太空望遠鏡觀測結果指出WASP](../Page/哈伯太空望遠鏡.md "wikilink")-12b正在被母恆星吞噬。儘管之前科學家已經意識到行星可能被母恆星吞噬，這還是第一次如此明確觀測到這樣的事實。NASA的天文學家預測WASP-12b的壽命剩下約1000萬年\[12\]。
+在2010年5月20日，天文學家以[哈伯太空望遠鏡觀測結果指出WASP](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")-12b正在被母恆星吞噬。儘管之前科學家已經意識到行星可能被母恆星吞噬，這還是第一次如此明確觀測到這樣的事實。NASA的天文學家預測WASP-12b的壽命剩下約1000萬年\[12\]。
 
-另外，[北京大學李抒璘](../Page/北京大學.md "wikilink")（Shu-lin
-Li）等人對WASP-12b的使用哈伯太空望遠鏡的[宇宙起源頻譜儀進行觀測](../Page/宇宙起源頻譜儀.md "wikilink")。該次觀測最終確認成果於2009年2月的《[自然](../Page/自然_\(期刊\).md "wikilink")》期刊。WASP-12b的大氣層大幅膨脹至半徑約為木星的3倍，而它的質量只比木星高40%。
+另外，[北京大學李抒璘](https://zh.wikipedia.org/wiki/北京大學 "wikilink")（Shu-lin
+Li）等人對WASP-12b的使用哈伯太空望遠鏡的[宇宙起源頻譜儀進行觀測](https://zh.wikipedia.org/wiki/宇宙起源頻譜儀 "wikilink")。該次觀測最終確認成果於2009年2月的《[自然](../Page/自然_\(期刊\).md "wikilink")》期刊。WASP-12b的大氣層大幅膨脹至半徑約為木星的3倍，而它的質量只比木星高40%。
 
 ### 碳含量
 

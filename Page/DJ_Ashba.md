@@ -1,9 +1,9 @@
 **DJ
-ashba**（1972年11月10日出生於[美國](../Page/美國.md "wikilink")[印第安納州](../Page/印第安納州.md "wikilink")），原名达伦·杰伊·阿什巴（Darren
+ashba**（1972年11月10日出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")），原名达伦·杰伊·阿什巴（Darren
 Jay
-Ashba），是[美國的](../Page/美國.md "wikilink")[硬式摇滚](../Page/硬式摇滚.md "wikilink")[樂團](../Page/樂團.md "wikilink")[槍與玫瑰的前任主奏](../Page/槍與玫瑰.md "wikilink")[吉他手](../Page/吉他手.md "wikilink")，於2007年與[克魯小丑](../Page/克魯小丑.md "wikilink")[貝斯手](../Page/貝斯手.md "wikilink")[Nikki
-Sixx和](../Page/Nikki_Sixx.md "wikilink")[James Andrew
-Michael](../Page/James_Andrew_Michael.md "wikilink")3人組成[硬式搖滾](../Page/硬式搖滾.md "wikilink")[樂團Sixx](../Page/樂團.md "wikilink"):A.M.。
+Ashba），是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[硬式摇滚](https://zh.wikipedia.org/wiki/硬式摇滚 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[槍與玫瑰的前任主奏](https://zh.wikipedia.org/wiki/槍與玫瑰 "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於2007年與[克魯小丑](https://zh.wikipedia.org/wiki/克魯小丑 "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[Nikki
+Sixx和](https://zh.wikipedia.org/wiki/Nikki_Sixx "wikilink")[James Andrew
+Michael](https://zh.wikipedia.org/wiki/James_Andrew_Michael "wikilink")3人組成[硬式搖滾](../Page/硬式搖滾.md "wikilink")[樂團Sixx](https://zh.wikipedia.org/wiki/樂團 "wikilink"):A.M.。
 
 ## 個人作品
 

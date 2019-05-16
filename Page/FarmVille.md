@@ -5,7 +5,7 @@
 1%。\[4\]
 
 FarmVille 不是 Facebook 上唯一的農場遊戲，但 FarmVille
-農場的擺設相當自由，而且有[Avatar系統](../Page/紙娃娃系統.md "wikilink")，可以讓使用者設計自己的造型，是和其他農場遊戲不同的地方。
+農場的擺設相當自由，而且有[Avatar系統](https://zh.wikipedia.org/wiki/紙娃娃系統 "wikilink")，可以讓使用者設計自己的造型，是和其他農場遊戲不同的地方。
 
 ## 參考
 

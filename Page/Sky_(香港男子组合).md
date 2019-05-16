@@ -1,12 +1,12 @@
-**SKY**是2003年屬於[香港](../Page/香港.md "wikilink")[新藝寶唱片的一隊](../Page/新藝寶唱片.md "wikilink")[男子演唱團體](../Page/男子演唱團體.md "wikilink")，由[潘卓楠](../Page/潘卓楠.md "wikilink")（Gilbert）、[嚴嘉駿](../Page/嚴嘉駿.md "wikilink")（Yani）、[林卓健](../Page/林卓健.md "wikilink")（Kin）、[趙耀邦](../Page/趙耀邦.md "wikilink")（Bon）以及[梁俊邦](../Page/梁俊邦.md "wikilink")（Bonald）五位男生組成。曾演出音樂作品、電視、廣告；2005年正式解散，各人各自發展，至2018年中，除潘卓楠外四人重組復出\[1\]。
+**SKY**是2003年屬於[香港](../Page/香港.md "wikilink")[新藝寶唱片的一隊](../Page/新藝寶唱片.md "wikilink")[男子演唱團體](https://zh.wikipedia.org/wiki/男子演唱團體 "wikilink")，由[潘卓楠](https://zh.wikipedia.org/wiki/潘卓楠 "wikilink")（Gilbert）、[嚴嘉駿](https://zh.wikipedia.org/wiki/嚴嘉駿 "wikilink")（Yani）、[林卓健](https://zh.wikipedia.org/wiki/林卓健 "wikilink")（Kin）、[趙耀邦](https://zh.wikipedia.org/wiki/趙耀邦 "wikilink")（Bon）以及[梁俊邦](https://zh.wikipedia.org/wiki/梁俊邦 "wikilink")（Bonald）五位男生組成。曾演出音樂作品、電視、廣告；2005年正式解散，各人各自發展，至2018年中，除潘卓楠外四人重組復出\[1\]。
 
 ## 組合成員
 
-  - [潘卓楠](../Page/潘卓楠.md "wikilink")（Gilbert）：隊長，已退出娛樂圈，現為游泳教練
-  - [嚴嘉駿](../Page/嚴嘉駿.md "wikilink")（Moses）：前名為Yani，已退出娛樂圈，現為地產經紀
-  - [林卓健](../Page/林卓健.md "wikilink")（Kin）：現改名為[林隽健](../Page/林隽健.md "wikilink")，在[電影圈發展](../Page/電影.md "wikilink")，亦是節目主持
-  - [趙耀邦](../Page/趙耀邦.md "wikilink")（Bon）：已退出娛樂圈，現為職業舞蹈員
-  - [梁俊邦](../Page/梁俊邦.md "wikilink")（Bonald）：現為[香港華視國影娛樂傳媒有限公司旗下歌手](../Page/香港華視國影娛樂傳媒有限公司.md "wikilink")
+  - [潘卓楠](https://zh.wikipedia.org/wiki/潘卓楠 "wikilink")（Gilbert）：隊長，已退出娛樂圈，現為游泳教練
+  - [嚴嘉駿](https://zh.wikipedia.org/wiki/嚴嘉駿 "wikilink")（Moses）：前名為Yani，已退出娛樂圈，現為地產經紀
+  - [林卓健](https://zh.wikipedia.org/wiki/林卓健 "wikilink")（Kin）：現改名為[林隽健](https://zh.wikipedia.org/wiki/林隽健 "wikilink")，在[電影圈發展](https://zh.wikipedia.org/wiki/電影 "wikilink")，亦是節目主持
+  - [趙耀邦](https://zh.wikipedia.org/wiki/趙耀邦 "wikilink")（Bon）：已退出娛樂圈，現為職業舞蹈員
+  - [梁俊邦](https://zh.wikipedia.org/wiki/梁俊邦 "wikilink")（Bonald）：現為[香港華視國影娛樂傳媒有限公司旗下歌手](https://zh.wikipedia.org/wiki/香港華視國影娛樂傳媒有限公司 "wikilink")
 
 ## 唱片
 
@@ -32,7 +32,7 @@
 <li>冒險後樂園</li>
 <li>1比9</li>
 <li>五個等愛的少年</li>
-<li>百獸戰隊（TVB特攝《<a href="../Page/百獸戰隊.md" title="wikilink">百獸戰隊</a>》粵語主題曲）</li>
+<li>百獸戰隊（TVB特攝《<a href="https://zh.wikipedia.org/wiki/百獸戰隊" title="wikilink">百獸戰隊</a>》粵語主題曲）</li>
 <li>三分區(Break Beat Mix)</li>
 <li>口袋情人(Pocket Mix)</li>
 </ol></td>
@@ -56,8 +56,9 @@
 
 ### 其他歌曲／未收錄在大碟內之歌曲
 
-1.  勇者（與[郭力行](../Page/郭力行.md "wikilink")、[高皓正](../Page/高皓正.md "wikilink")、[吳卓羲合唱](../Page/吳卓羲.md "wikilink")）（TVB電視劇《學警雄心》主題曲）　
-2.  趁今天有空 (featuring. [Ghost Style](../Page/Ghost_Style.md "wikilink"))　
+1.  勇者（與[郭力行](../Page/郭力行.md "wikilink")、[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[吳卓羲合唱](../Page/吳卓羲.md "wikilink")）（TVB電視劇《學警雄心》主題曲）　
+2.  趁今天有空 (featuring. [Ghost
+    Style](https://zh.wikipedia.org/wiki/Ghost_Style "wikilink"))　
 3.  人生同盟
 
 ## 外部連結

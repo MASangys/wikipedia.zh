@@ -1,5 +1,5 @@
 **AD
-Lin**（），出生於[台灣](../Page/台灣.md "wikilink")[台北市](../Page/台北市.md "wikilink")。台灣[女同性戀](../Page/女同性戀.md "wikilink")[作家](../Page/作家.md "wikilink")、[同志運動者](../Page/同志.md "wikilink")。[美國](../Page/美國.md "wikilink")[奧克拉荷馬市大學大眾傳播系](../Page/奧克拉荷馬市大學.md "wikilink")，美國[加州州立大學廣告研究所](../Page/加州州立大學.md "wikilink")。AD是AriesDog的簡寫。
+Lin**（），出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")。台灣[女同性戀](../Page/女同性戀.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、[同志運動者](https://zh.wikipedia.org/wiki/同志 "wikilink")。[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[奧克拉荷馬市大學大眾傳播系](https://zh.wikipedia.org/wiki/奧克拉荷馬市大學 "wikilink")，美國[加州州立大學廣告研究所](https://zh.wikipedia.org/wiki/加州州立大學 "wikilink")。AD是AriesDog的簡寫。
 
 ## 作品列表
 

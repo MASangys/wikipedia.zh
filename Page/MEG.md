@@ -1,5 +1,5 @@
 **MEG**（メグ
-），1980年10月3日出生，出身於[日本](../Page/日本.md "wikilink")[廣島](../Page/廣島.md "wikilink")，是一位日本女歌手，也是[模特兒及設計師](../Page/模特兒.md "wikilink")。所屬唱片公司為KING
+），1980年10月3日出生，出身於[日本](../Page/日本.md "wikilink")[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")，是一位日本女歌手，也是[模特兒及設計師](../Page/模特兒.md "wikilink")。所屬唱片公司為KING
 RECORDS旗下的STARCHILD。音樂類型多為[電子音樂及流行樂](../Page/電子音樂.md "wikilink")，有日本電音小天后之名。唱腔及造型以性感中卻帶甜美可愛的風格著稱。
 
 ## 經歷
@@ -16,13 +16,13 @@ TOKYO」。同時開始親自設計的時裝品牌「cheryl」。
 
 在單曲「OK」發售的時候，在[原宿張貼的海報被大量盜去](../Page/原宿.md "wikilink")，成為了一時的話題。
 
-其後，跟[中田康貴合作的專輯](../Page/中田康貴.md "wikilink")「BEAM」和「STEP」(2007年)在外資唱片店舖銷售榜獲得第1位，並首次打入Oricon榜5名以內。單曲「FREAK」是跟[英國樂隊Hadouken](../Page/英國.md "wikilink")！合作的作品，而專輯「Journey」的製作人則是在[紐約居住的](../Page/紐約.md "wikilink")。
+其後，跟[中田康貴合作的專輯](../Page/中田康貴.md "wikilink")「BEAM」和「STEP」(2007年)在外資唱片店舖銷售榜獲得第1位，並首次打入Oricon榜5名以內。單曲「FREAK」是跟[英國樂隊Hadouken](https://zh.wikipedia.org/wiki/英國 "wikilink")！合作的作品，而專輯「Journey」的製作人則是在[紐約居住的](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 於2008，2009兩年連續在大型音樂節SUMMER
-SONIC作表演嘉賓。同年，在[法國進行的博覽會Japan](../Page/法國.md "wikilink")
+SONIC作表演嘉賓。同年，在[法國進行的博覽會Japan](https://zh.wikipedia.org/wiki/法國 "wikilink")
 Expo作為代表日本的歌手演出。
 
-2010年秋天將推出[精選專輯](../Page/精選專輯.md "wikilink")，並宣佈暫時停止其音樂活動。
+2010年秋天將推出[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，並宣佈暫時停止其音樂活動。
 
 在法國巴黎小住後，於同年12月宣布加入華納音樂旗下新廠牌\[unBORDE\] 同時經理人公司也轉到 \[unBORDE ARTISTA\]。
 

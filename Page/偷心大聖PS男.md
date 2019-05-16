@@ -3,30 +3,35 @@
 presenter = | starring =
 [藍正龍](../Page/藍正龍.md "wikilink"){{、w}}[隋棠](../Page/隋棠.md "wikilink"){{、w}}[溫昇豪](../Page/溫昇豪.md "wikilink"){{、w}}[白歆惠](../Page/白歆惠.md "wikilink")
 | judges = | voices = | narrated = | theme_music_composer = |
-opentheme = [Magic Power](../Page/Magic_Power.md "wikilink")〈我是誰我是誰我是誰〉
-| endtheme = [劉若英](../Page/劉若英.md "wikilink")〈我們沒有在一起〉 | composer = |
-country =  | language = [國語](../Page/國語.md "wikilink") | num_seasons =
-| num_episodes = 21集(首播版)
+opentheme = [Magic
+Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")〈我是誰我是誰我是誰〉
+| endtheme =
+[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")〈我們沒有在一起〉
+| composer = | country =  | language =
+[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = |
+num_episodes = 21集(首播版)
 34集(海外版) | list_episodes = | executive_producer = |
 supervising_producer =
-[劉麗惠](../Page/劉麗惠.md "wikilink"){{、w}}[陳一俊](../Page/陳一俊.md "wikilink")
-| producer = [廖健行](../Page/廖健行.md "wikilink") | editor =
-[顏正言](../Page/顏正言.md "wikilink") | location =
-[桃園](../Page/桃園市.md "wikilink")[龍潭](../Page/龍潭區_\(桃園市\).md "wikilink")
+[劉麗惠](https://zh.wikipedia.org/wiki/劉麗惠 "wikilink"){{、w}}[陳一俊](https://zh.wikipedia.org/wiki/陳一俊 "wikilink")
+| producer = [廖健行](https://zh.wikipedia.org/wiki/廖健行 "wikilink") |
+editor = [顏正言](https://zh.wikipedia.org/wiki/顏正言 "wikilink") | location
+=
+[桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink")
 | cinematography = 蕭聖明 | camera = | runtime = 約90分鐘（含廣告）
-60分鐘（海外版、含廣告） | company = [聲色工場傳播有限公司](../Page/聲色工場傳播有限公司.md "wikilink")
+60分鐘（海外版、含廣告） | company =
+[聲色工場傳播有限公司](https://zh.wikipedia.org/wiki/聲色工場傳播有限公司 "wikilink")
 | distributor = [三立電視](../Page/三立電視.md "wikilink") | slogan =
 '''女人不愛，男人使壞 | channel =
-[台視主頻](../Page/台視主頻.md "wikilink") | picture_format =
-[NTSC](../Page/NTSC.md "wikilink") | audio_format = | first_run =  |
-first_aired =  | last_aired =  | channel_1 =
-[三立都會台](../Page/三立都會台.md "wikilink") |
-picture_format_1 = [NTSC](../Page/NTSC.md "wikilink") |
-audio_format_1 = | first_run_1 =  | first_aired_1 =  |
-last_aired_1 =  | preceded_by = | followed_by = | related = |
-website = <http://www.ttv.com.tw/drama10/psman/index.htm> |
-production_website = }}
-**《偷心大聖PS男》**（，[新加坡譯為](../Page/新加坡.md "wikilink")****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](../Page/三立電視戲劇節目列表#華人電視劇.md "wikilink")。全劇共21集。[台灣電視公司](../Page/台灣電視公司.md "wikilink")、[三立電視公司聯合出品](../Page/三立電視.md "wikilink")。[劉俊傑執導](../Page/劉俊傑.md "wikilink")。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](../Page/小小彬.md "wikilink")。
+[台視主頻](https://zh.wikipedia.org/wiki/台視主頻 "wikilink") |
+picture_format = [NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink")
+| audio_format = | first_run =  | first_aired =  | last_aired =  |
+channel_1 = [三立都會台](../Page/三立都會台.md "wikilink") | picture_format_1 =
+[NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink") | audio_format_1
+= | first_run_1 =  | first_aired_1 =  | last_aired_1 =  |
+preceded_by = | followed_by = | related = | website =
+<http://www.ttv.com.tw/drama10/psman/index.htm> | production_website =
+}}
+**《偷心大聖PS男》**（，[新加坡譯為](../Page/新加坡.md "wikilink")****\[1\]，前名《尋找P.S.男》、《愛上P.S.男》）是2010年[三立華人電視劇週日十點檔系列的第二十二部作品](https://zh.wikipedia.org/wiki/三立電視戲劇節目列表#華人電視劇 "wikilink")。全劇共21集。[台灣電視公司](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")、[三立電視公司聯合出品](../Page/三立電視.md "wikilink")。[劉俊傑執導](../Page/劉俊傑.md "wikilink")。2009年7月殺青，2010年2月28日播到7月18日止。接檔《[下一站，幸福](../Page/下一站，幸福.md "wikilink")》。主要演員包括[藍正龍](../Page/藍正龍.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[隋棠](../Page/隋棠.md "wikilink")、[白歆惠](../Page/白歆惠.md "wikilink")、[小小彬](https://zh.wikipedia.org/wiki/小小彬 "wikilink")。
 
 ## 播出時間
 
@@ -53,7 +58,7 @@ production_website = }}
 <td><center>
 <p>2010年2月28日</p></td>
 <td><center>
-<p>每<a href="../Page/週日.md" title="wikilink">週日</a>22:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週日" title="wikilink">週日</a>22:00播出</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -63,7 +68,7 @@ production_website = }}
 <td><center>
 <p>2010年3月6日</p></td>
 <td><center>
-<p>每<a href="../Page/週六.md" title="wikilink">週六</a>21:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週六" title="wikilink">週六</a>21:00播出</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -90,7 +95,7 @@ production_website = }}
 <td><center>
 <p>2010年3月7日</p></td>
 <td><center>
-<p>每<a href="../Page/週日.md" title="wikilink">週日</a>13:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週日" title="wikilink">週日</a>13:00播出</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -98,7 +103,7 @@ production_website = }}
 <td><center>
 <p>2010年3月13日</p></td>
 <td><center>
-<p>每<a href="../Page/週六.md" title="wikilink">週六</a>13:30播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週六" title="wikilink">週六</a>13:30播出</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -106,7 +111,7 @@ production_website = }}
 <td><center>
 <p>2011年6月6日</p></td>
 <td><center>
-<p>每<a href="../Page/週一.md" title="wikilink">週一至</a><a href="../Page/週五.md" title="wikilink">五</a>20:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週一" title="wikilink">週一至</a><a href="https://zh.wikipedia.org/wiki/週五" title="wikilink">五</a>20:00播出</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -115,7 +120,7 @@ production_website = }}
 <td><center>
 <p>2011年6月7日</p></td>
 <td><center>
-<p>每<a href="../Page/週一.md" title="wikilink">週一至</a><a href="../Page/週五.md" title="wikilink">五</a>13:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週一" title="wikilink">週一至</a><a href="https://zh.wikipedia.org/wiki/週五" title="wikilink">五</a>13:00播出</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,12 +130,12 @@ production_website = }}
 <td><center>
 <p>2012年1月7日</p></td>
 <td><center>
-<p>每<a href="../Page/週六.md" title="wikilink">週六</a>22:00播出</p></td>
+<p>每<a href="https://zh.wikipedia.org/wiki/週六" title="wikilink">週六</a>22:00播出</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中華電信MOD_044星光偶像HD台(1080i).md" title="wikilink">中華電信MOD 044星光偶像HD台(1080i)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華電信MOD_044星光偶像HD台(1080i)" title="wikilink">中華電信MOD 044星光偶像HD台(1080i)</a></p></td>
 <td><center>
 <p>2012年6月2日</p></td>
 <td><center>
@@ -168,7 +173,7 @@ production_website = }}
 <td><center>
 <p><strong>全劇</strong></p></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -177,7 +182,7 @@ production_website = }}
 <p><a href="../Page/隋棠.md" title="wikilink">隋棠</a></p></td>
 <td><p>30歲，民國68年6月25日出生，血型A型，鋼牙妹。有愛心的幼稚園老師，瑪麗的同事，夏和-{杰}-小時候的鄰居。</p></td>
 <td><center>
-<p><a href="../Page/黃紫嫻.md" title="wikilink">黃紫嫻</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -242,7 +247,7 @@ production_website = }}
 <td><center>
 <p>黃瑪麗</p></td>
 <td><center>
-<p><a href="../Page/鍾欣凌.md" title="wikilink">鍾欣凌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鍾欣凌" title="wikilink">鍾欣凌</a></p></td>
 <td><p>幼稚園老師，是馬小茜的同事兼室友。</p></td>
 <td><center>
 <p>第1-16,18-21集</p></td>
@@ -274,8 +279,8 @@ production_website = }}
 <td><center>
 <p>馬楊恨</p></td>
 <td><center>
-<p><a href="../Page/吳佳珊.md" title="wikilink">吳佳珊</a></p></td>
-<td><p>馬小茜的<a href="../Page/阿嬤.md" title="wikilink">阿嬤</a>（外祖母）。</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/吳佳珊" title="wikilink">吳佳珊</a></p></td>
+<td><p>馬小茜的<a href="https://zh.wikipedia.org/wiki/阿嬤" title="wikilink">阿嬤</a>（外祖母）。</p></td>
 <td><center>
 <p>第4-17,21集</p></td>
 <td><center></td>
@@ -304,7 +309,7 @@ production_website = }}
 <td><center>
 <p>胡雪</p></td>
 <td><center>
-<p><a href="../Page/楊鷺.md" title="wikilink">楊鷺</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/楊鷺" title="wikilink">楊鷺</a></p></td>
 <td><p>馬小茜的小舅媽。</p></td>
 <td><center>
 <p>第5,6,12-14,21集</p></td>
@@ -355,7 +360,7 @@ production_website = }}
 <td><center>
 <p>夏和-{杰}- (國中)</p></td>
 <td><center>
-<p><a href="../Page/張宇文.md" title="wikilink">張宇文</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張宇文" title="wikilink">張宇文</a></p></td>
 <td><p>拿馬蹄鐵想到國中跟小茜談話的記憶</p></td>
 <td><center>
 <p>第7,8,15,17集</p></td>
@@ -374,7 +379,7 @@ production_website = }}
 <td><center>
 <p>馬小茜 (國中)</p></td>
 <td><center>
-<p><a href="../Page/林珈妤.md" title="wikilink">林珈妤</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林珈妤" title="wikilink">林珈妤</a></p></td>
 <td><p>拿馬蹄鐵想到國中跟和-{杰}-談話的記憶</p></td>
 <td><center>
 <p>第7.8.17集</p></td>
@@ -413,7 +418,7 @@ production_website = }}
 <td><center>
 <p>主持人</p></td>
 <td><center>
-<p><a href="../Page/何戎.md" title="wikilink">何戎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/何戎" title="wikilink">何戎</a></p></td>
 <td><p>阿曼達的電台專訪主持人</p></td>
 <td><center>
 <p>第1集</p></td>
@@ -423,7 +428,7 @@ production_website = }}
 <td><center>
 <p>記者</p></td>
 <td><center>
-<p><a href="../Page/連仲偉.md" title="wikilink">連仲偉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/連仲偉" title="wikilink">連仲偉</a></p></td>
 <td><p>新書發表會，電視台，電影首映會，法院及醫院採訪記者。</p></td>
 <td><center>
 <p>第1,2集</p></td>
@@ -431,7 +436,7 @@ production_website = }}
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/李皓婷.md" title="wikilink">李皓婷</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李皓婷" title="wikilink">李皓婷</a></p></td>
 <td><p>新書發表會，電影首映會，記者會採訪記者。</p></td>
 <td><center></td>
 <td></td>
@@ -461,7 +466,7 @@ production_website = }}
 <td><center>
 <p>老闆娘</p></td>
 <td><center>
-<p><a href="../Page/陳思蓉.md" title="wikilink">陳思蓉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳思蓉" title="wikilink">陳思蓉</a></p></td>
 <td><p>賣炒米粉老闆娘，阿曼達在還未走紅之前常吃她的米粉，她常想著以前和阿曼達的回憶，阿曼達也很感激她。</p></td>
 <td><center>
 <p>第2,3集</p></td>
@@ -470,7 +475,7 @@ production_website = }}
 <tr class="odd">
 <td></td>
 <td><center>
-<p><a href="../Page/趙杰.md" title="wikilink">趙杰</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/趙杰" title="wikilink">趙杰</a></p></td>
 <td><p>一直在孟成恩旁邊的助理(負責開車的)</p></td>
 <td><center>
 <p>第4-18集</p></td>
@@ -480,7 +485,7 @@ production_website = }}
 <td><center>
 <p>張總</p></td>
 <td><center>
-<p><a href="../Page/陸一龍.md" title="wikilink">陸一龍</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陸一龍" title="wikilink">陸一龍</a></p></td>
 <td><p>與聯隼對抗的貿統集團負責人</p></td>
 <td><center></td>
 <td></td>
@@ -499,7 +504,7 @@ production_website = }}
 <td><center>
 <p>法蘭克</p></td>
 <td><center>
-<p><a href="../Page/柯傑夫.md" title="wikilink">柯傑夫</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/柯傑夫" title="wikilink">柯傑夫</a></p></td>
 <td><p>艾咪的新男友，劈腿的對象。</p></td>
 <td><center></td>
 <td></td>
@@ -507,7 +512,7 @@ production_website = }}
 <tr class="odd">
 <td><p>-</p></td>
 <td><center>
-<p><a href="../Page/陶妍妏.md" title="wikilink">陶妍妏</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陶妍妏" title="wikilink">陶妍妏</a></p></td>
 <td><p>夏和-{杰}-電梯遇到的女生</p></td>
 <td><center>
 <p>第6集</p></td>
@@ -517,7 +522,7 @@ production_website = }}
 <td><center>
 <p>經理</p></td>
 <td><center>
-<p><a href="../Page/廖梨伶.md" title="wikilink">廖梨伶</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/廖梨伶" title="wikilink">廖梨伶</a></p></td>
 <td><p>因為廣告商威脅抽廣告而配合封殺夏和-{杰}-的電視台經理。</p></td>
 <td><center></td>
 <td></td>
@@ -556,7 +561,7 @@ production_website = }}
 <td><center>
 <p>李大成</p></td>
 <td><center>
-<p><a href="../Page/李進良.md" title="wikilink">李進良</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李進良" title="wikilink">李進良</a></p></td>
 <td><p>出版社總編輯。</p></td>
 <td><center>
 <p>第8集</p></td>
@@ -565,7 +570,7 @@ production_website = }}
 <tr class="odd">
 <td><p>-</p></td>
 <td><center>
-<p><a href="../Page/邱隆杰.md" title="wikilink">邱隆-{杰}-</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/邱隆杰" title="wikilink">邱隆-{杰}-</a></p></td>
 <td><p>工地裡抗議的工人</p></td>
 <td><center></td>
 <td></td>
@@ -649,14 +654,16 @@ production_website = }}
 
 ## 電視劇歌曲
 
-  - 主題曲：〈我是誰我是誰我是誰〉作詞：[廷廷](../Page/廷廷.md "wikilink") 作曲：廷廷 　演唱：[Magic
-    Power](../Page/Magic_Power.md "wikilink")
-  - 片尾曲：〈我們沒有在一起〉作詞：黃婷　作曲：陳韋伶　演唱：[劉若英](../Page/劉若英.md "wikilink")
+  - 主題曲：〈我是誰我是誰我是誰〉作詞：[廷廷](https://zh.wikipedia.org/wiki/廷廷 "wikilink")
+    作曲：廷廷 　演唱：[Magic
+    Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")
+  - 片尾曲：〈我們沒有在一起〉作詞：黃婷　作曲：陳韋伶　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
   - 插曲：〈Summer〉作詞：廷廷 作曲：廷廷 　演唱：Magic Power
-  - 插曲：〈時間倒轉〉作詞：廷廷 作曲：廷廷、[雷堡](../Page/雷堡.md "wikilink") (Magic
-    Power)演唱：Magic Power
-  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")/陳沒
-    作曲：鴉片丹 　演唱：[劉若英](../Page/劉若英.md "wikilink")
+  - 插曲：〈時間倒轉〉作詞：廷廷
+    作曲：廷廷、[雷堡](https://zh.wikipedia.org/wiki/雷堡 "wikilink")
+    (Magic Power)演唱：Magic Power
+  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")/陳沒
+    作曲：鴉片丹 　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
 
 ## 收視率
 
@@ -688,10 +695,10 @@ production_website = }}
 | 平均收視       | 4.25 | 1                                 |        |                                  |
 
   - <small>**同時段偶像劇：**
-      - [中視](../Page/中視.md "wikilink")《[就想賴著妳](../Page/就想賴著妳.md "wikilink")／[就是要香戀](../Page/就是要香戀.md "wikilink")》
-      - [華視](../Page/華視.md "wikilink")《[星光下的童話](../Page/星光下的童話.md "wikilink")／[呼叫大明星](../Page/呼叫大明星.md "wikilink")》
-      - 5月30日起加入[民視](../Page/民視.md "wikilink")《[泡沫之夏](../Page/泡沫之夏.md "wikilink")》
-  - '''由[AGB尼爾森調查](../Page/AGB尼爾森.md "wikilink")，調查範圍是四歲以上收看電視之觀眾。
+      - [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[就想賴著妳](../Page/就想賴著妳.md "wikilink")／[就是要香戀](../Page/就是要香戀.md "wikilink")》
+      - [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[星光下的童話](../Page/星光下的童話.md "wikilink")／[呼叫大明星](../Page/呼叫大明星.md "wikilink")》
+      - 5月30日起加入[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[泡沫之夏](https://zh.wikipedia.org/wiki/泡沫之夏 "wikilink")》
+  - '''由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
     資料來源：[中時娛樂](https://web.archive.org/web/20140523001148/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0%2C5137%2Ctv%200%2C00.html)</small>
 
 ### 製作特輯收視
@@ -729,13 +736,13 @@ production_website = }}
 <!-- end list -->
 
 1.  我是誰 我是誰 我是誰 (片頭曲／ [Magic
-    Power魔幻力量](../Page/Magic_Power.md "wikilink"))
+    Power魔幻力量](https://zh.wikipedia.org/wiki/Magic_Power "wikilink"))
 2.  我喜歡(不,我愛) (插曲／ [嚴爵](../Page/嚴爵.md "wikilink"))
 3.  隱藏真心 (OT：困在台北)
 4.  偷心大聖PS男 (OT：我們沒有在一起)
 5.  困在台北 (插曲／ [嚴爵](../Page/嚴爵.md "wikilink"))
 6.  去他的愛情 (OT：Summer)
-7.  我們沒有在一起 (片尾曲／ [劉若英](../Page/劉若英.md "wikilink"))
+7.  我們沒有在一起 (片尾曲／ [劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink"))
 8.  不能在一起 (OT：我是誰 我是誰 我是誰)
 9.  我是誰 我是誰 我是誰 (Magic Power-廷廷／ acappella版)
 10. 時尚情敵 (OT：困在台北)
@@ -759,10 +766,10 @@ DVD收錄內容:
 
 ## 取景地點
 
-  - [桃園](../Page/桃園市.md "wikilink")[龍潭](../Page/龍潭區_\(桃園市\).md "wikilink")
+  - [桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink")
     藍月莊園德式咖啡館
-  - [台中市](../Page/台中市.md "wikilink")[霧峰](../Page/霧峰區.md "wikilink")
-    [亞洲大學](../Page/亞洲大學_\(台灣\).md "wikilink")
+  - [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[霧峰](../Page/霧峰區.md "wikilink")
+    [亞洲大學](https://zh.wikipedia.org/wiki/亞洲大學_\(台灣\) "wikilink")
   - 壢新醫院
   - 宜蘭民宿\~麗野渡假別墅 宜蘭民宿\~麗野渡假別墅
   - 華南銀行
@@ -774,7 +781,7 @@ DVD收錄內容:
 
 ## 節目贊助
 
-  - [蘋果電腦](../Page/蘋果公司.md "wikilink")
+  - [蘋果電腦](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
   - [奥迪](../Page/奥迪.md "wikilink")
   - [萬寶龍](../Page/萬寶龍.md "wikilink")
 
@@ -859,11 +866,11 @@ DVD收錄內容:
 
 <div class="NavContent" align="left">
 
-  - 監製：[劉麗惠](../Page/劉麗惠.md "wikilink")、陳一俊
+  - 監製：[劉麗惠](https://zh.wikipedia.org/wiki/劉麗惠 "wikilink")、陳一俊
   - 企劃：楊秉儒
   - 製作人：廖健行
   - 統籌：鄭美利
-  - 劇本：胡寧遠、顏一帆、曹頤和、夏佩爾、[烏奴奴](../Page/烏奴奴.md "wikilink")
+  - 劇本：胡寧遠、顏一帆、曹頤和、夏佩爾、[烏奴奴](https://zh.wikipedia.org/wiki/烏奴奴 "wikilink")
   - 導演：劉俊傑
   - 視覺設計：林俊佑、余書蓓
   - 美術指導：謝易霖

@@ -5,20 +5,24 @@
 
 1.  All Night Long (3:19)
 2.  [Dreamin' Away: English
-    Version](../Page/Dreamin'_Away.md "wikilink") (3:15)
+    Version](https://zh.wikipedia.org/wiki/Dreamin'_Away "wikilink")
+    (3:15)
 3.  Angel Angel Angel (4:45)
-4.  [Crystal Love](../Page/Crystal_Love.md "wikilink") (5:28)
+4.  [Crystal
+    Love](https://zh.wikipedia.org/wiki/Crystal_Love "wikilink") (5:28)
 5.  Don't Let Go (4:38)
 6.  Flower Bed (4:03)
 7.  [Simple As
-    That](../Page/Simple_as_That/Over_the_Rainbow.md "wikilink") (4:21)
+    That](https://zh.wikipedia.org/wiki/Simple_as_That/Over_the_Rainbow "wikilink")
+    (4:21)
 8.  Just Be A Man (3:40)
 9.  [Over the
-    Rainbow](../Page/Simple_as_That/Over_the_Rainbow.md "wikilink")
+    Rainbow](https://zh.wikipedia.org/wiki/Simple_as_That/Over_the_Rainbow "wikilink")
     (3:16)
 10. Soon You'll Be Alone (4:02)
 11. Sincerely (6:03)
-12. [You Want This: 24 Seven](../Page/Dreamin'_Away.md "wikilink")
+12. [You Want This: 24
+    Seven](https://zh.wikipedia.org/wiki/Dreamin'_Away "wikilink")
     (3:30)
 13. Precious Baby (5:16)
 14. Once Again (5:37)

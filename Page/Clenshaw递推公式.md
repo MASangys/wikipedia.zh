@@ -1,5 +1,6 @@
-在[数值分析中](../Page/数值分析.md "wikilink")，**Clenshaw递推公式** (由[Charles William
-Clenshaw发现](../Page/Charles_William_Clenshaw.md "wikilink"))是一个求[切比雪夫多项式的值的](../Page/切比雪夫多项式.md "wikilink")[递归方法](../Page/递归.md "wikilink")。
+在[数值分析中](https://zh.wikipedia.org/wiki/数值分析 "wikilink")，**Clenshaw递推公式**
+(由[Charles William
+Clenshaw发现](https://zh.wikipedia.org/wiki/Charles_William_Clenshaw "wikilink"))是一个求[切比雪夫多项式的值的](../Page/切比雪夫多项式.md "wikilink")[递归方法](../Page/递归.md "wikilink")。
 
 ## 切比雪夫多项式
 

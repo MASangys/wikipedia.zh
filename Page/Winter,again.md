@@ -1,4 +1,4 @@
-《**Winter,again**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")16張[單曲](../Page/單曲.md "wikilink")。1999年2月3日發行。
+《**Winter,again**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1999年2月3日發行。
 
 ## 簡介
 
@@ -7,24 +7,24 @@ To You](../Page/Addicted_To_You.md "wikilink")》超過，現時成為日本歷�
 
 1999年年度銷量達163.2萬張，在[Oricon公信榜的單曲年榜中排行第](../Page/Oricon公信榜.md "wikilink")2位，僅次於《丸子三兄弟》。\[2\]但當時Oricon的統計將8cm
 CD和12cm CD分開計算，如果是合併計算的話，則宇多田光的《[Automatic／time will
-tell](../Page/Automatic/time_will_tell.md "wikilink")》才是第2位；《Winter,again》則應是第3位。
+tell](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")》才是第2位；《Winter,again》則應是第3位。
 
 是GLAY迄今為止銷量最高的單曲作品，總銷量高達164.3萬張，是[日本歷代單曲銷量第57位](../Page/日本最暢銷單曲列表.md "wikilink")。\[3\]
 
-榮獲[第41回](../Page/第41回日本唱片大賞.md "wikilink")[日本唱片大賞](../Page/日本唱片大賞.md "wikilink")，但是獲獎之後，GLAY反而陷入解散危機。
+榮獲[第41回](https://zh.wikipedia.org/wiki/第41回日本唱片大賞 "wikilink")[日本唱片大賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")，但是獲獎之後，GLAY反而陷入解散危機。
 
 ## 收錄曲目
 
 1.  **Winter,again**
-      - 作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](../Page/佐久間正英.md "wikilink")
+      - 作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
     <!-- end list -->
       -
         [JR東日本](../Page/東日本旅客鐵道.md "wikilink")「SKI SKI」的廣告歌
-        以[GLAY大部分團員的出身地](../Page/GLAY.md "wikilink")-[北海道](../Page/北海道.md "wikilink")[函館市以及](../Page/函館市.md "wikilink")[TAKURO和情人在此地的回憶作為本曲的背景](../Page/TAKURO.md "wikilink")。
+        以[GLAY大部分團員的出身地](../Page/GLAY.md "wikilink")-[北海道](../Page/北海道.md "wikilink")[函館市以及](../Page/函館市.md "wikilink")[TAKURO和情人在此地的回憶作為本曲的背景](https://zh.wikipedia.org/wiki/TAKURO "wikilink")。
 2.  **Young oh\! oh\!**
       - 作詞、作曲：TAKURO；編曲：GLAY
 3.  **HELLO MY LIFE**
-      - 作詞：[TERU](../Page/TERU.md "wikilink")；作曲：TAKURO；編曲：GLAY
+      - 作詞：[TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")；作曲：TAKURO；編曲：GLAY
 4.  **Winter,again (instrumental)**
 
 ## 參考資料

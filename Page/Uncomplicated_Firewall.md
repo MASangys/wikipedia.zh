@@ -4,7 +4,7 @@ UFW 全称为 **Uncomplicated Firewall**\[1\]，是
 [Ubuntu](../Page/Ubuntu.md "wikilink")
 系统上默认的[防火墙组件](../Page/防火墙.md "wikilink"),
 为了轻量化配置 iptables 而开发的一款工具。UFW
-提供一个非常友好的界面用于创建基于[IPV4](../Page/IPV4.md "wikilink")，[IPV6的防火墙规则](../Page/IPV6.md "wikilink")。
+提供一个非常友好的界面用于创建基于[IPV4](https://zh.wikipedia.org/wiki/IPV4 "wikilink")，[IPV6的防火墙规则](https://zh.wikipedia.org/wiki/IPV6 "wikilink")。
 
 但是，UFW
 是沒有圖形化使用者界面的，它使用指令列操作，所以，操作起來就不是那麼的方便，有人幫它寫了個圖形化使用者界面，名字就叫做「Gufw」。
@@ -87,7 +87,7 @@ app default ARG                 set default application policy
 deny 與 reject 的區別在於：使用 deny 時，對方不會得到任何通知，而使用 reject 時則明確告訴對方被靜止了。
 
 [ast:Uncomplicated
-Firewall](../Page/ast:Uncomplicated_Firewall.md "wikilink")
+Firewall](https://zh.wikipedia.org/wiki/ast:Uncomplicated_Firewall "wikilink")
 
 [Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
 [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")

@@ -1,12 +1,12 @@
-**AxSTREAM套装软件**是美国SoftInWay公司设计、销售的，具备设计[涡轮机](../Page/涡轮机.md "wikilink")、[压缩机功能](../Page/压缩机.md "wikilink")，计算现有涡轮机器的设计工况与非设计工况操作的热动力分析。此套装软件的运用覆盖了涡轮机组的设计与再次设计领域以及培训咨询。
+**AxSTREAM套装软件**是美国SoftInWay公司设计、销售的，具备设计[涡轮机](https://zh.wikipedia.org/wiki/涡轮机 "wikilink")、[压缩机功能](https://zh.wikipedia.org/wiki/压缩机 "wikilink")，计算现有涡轮机器的设计工况与非设计工况操作的热动力分析。此套装软件的运用覆盖了涡轮机组的设计与再次设计领域以及培训咨询。
 
 AxSTREAM试用于：
 
-  - [轴流式涡轮机](../Page/轴流式涡轮机.md "wikilink")
-  - [轴向式压缩机](../Page/轴向式压缩机.md "wikilink")
-  - [辐流式涡轮机](../Page/辐流式涡轮机.md "wikilink")
-  - [离心式压缩机](../Page/离心式压缩机.md "wikilink")
-  - [轴流式风机](../Page/轴流式风机.md "wikilink")
+  - [轴流式涡轮机](https://zh.wikipedia.org/wiki/轴流式涡轮机 "wikilink")
+  - [轴向式压缩机](https://zh.wikipedia.org/wiki/轴向式压缩机 "wikilink")
+  - [辐流式涡轮机](https://zh.wikipedia.org/wiki/辐流式涡轮机 "wikilink")
+  - [离心式压缩机](https://zh.wikipedia.org/wiki/离心式压缩机 "wikilink")
+  - [轴流式风机](https://zh.wikipedia.org/wiki/轴流式风机 "wikilink")
   - [风箱](../Page/风箱.md "wikilink")
 
 在建立新设计时，设计者能够通过输入最初的入口与出口参数，几何约束参数，必须的质量流率及转动速度，进而进行初级设计、一维及二维计算与优化设计。AxSTREAM最终生成完整的流程几何图，包括子午形面、型材及叶片基本图形转换规范模块。AxSTREAM是一个多方位的软件，此软件运用简化一维结构模块进行初级阶段的一维及二维平面计算与优化设计的检测。在最终阶段

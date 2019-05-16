@@ -1,6 +1,6 @@
 [MugenStart.jpg](https://zh.wikipedia.org/wiki/File:MugenStart.jpg "fig:MugenStart.jpg")
 
-**M.U.G.E.N**，又稱**MUGEN**，是一款由[美國](../Page/美國.md "wikilink")[Elecbyte用](../Page/Elecbyte.md "wikilink")[C語言與](../Page/C語言.md "wikilink")[Allegro程式庫所開發的免費](../Page/Allegro.md "wikilink")2D[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，發佈於1999年-2002年間，2009年後又有新版本的發佈。MUGEN和日語中的「無限」同音。
+**M.U.G.E.N**，又稱**MUGEN**，是一款由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Elecbyte用](https://zh.wikipedia.org/wiki/Elecbyte "wikilink")[C語言與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[Allegro程式庫所開發的免費](../Page/Allegro.md "wikilink")2D[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，發佈於1999年-2002年間，2009年後又有新版本的發佈。MUGEN和日語中的「無限」同音。
 
 M.U.G.E.N據稱是Elecbyte在開發射擊遊戲時衍生的產物，目前M.U.G.E.N有分別在DOS、Windows和Linux等作業系統上運行的版本。
 
@@ -149,7 +149,7 @@ M.U.G.E.N開始時只有一個預設人物，其他人物多半是由其他格�
 ## 參見
 
   - [小朋友齊打交](../Page/小朋友齊打交.md "wikilink")
-  - [同人](../Page/同人.md "wikilink")
+  - [同人](https://zh.wikipedia.org/wiki/同人 "wikilink")
 
 ## 外部連結
 

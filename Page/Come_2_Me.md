@@ -1,5 +1,5 @@
 《**Come 2
-Me**》是[林峯的第四張個人大碟](../Page/林峯.md "wikilink")，於2010年7月17日分精裝版及平裝版公開發售。精裝版隨碟附送24頁張寫真卡（尺寸：18cm
+Me**》是[林峯的第四張個人大碟](https://zh.wikipedia.org/wiki/林峯 "wikilink")，於2010年7月17日分精裝版及平裝版公開發售。精裝版隨碟附送24頁張寫真卡（尺寸：18cm
 x 25cm，約A4尺寸）；平裝版附送精美相集。
 
 ## 曲目列表
@@ -177,17 +177,17 @@ Come 2 Me Beauty Live on Stage 林峯演唱會主題曲</p></td>
 
 ## 所獲獎項
 
-  - [無綫電視](../Page/無綫電視.md "wikilink")[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink")（2010）：歌曲獎
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink")（2010）：歌曲獎
     「直到你不找我」
-  - [無綫電視](../Page/無綫電視.md "wikilink")[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink")（2010）：歌曲獎
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[勁歌金曲優秀選第二回](../Page/勁歌金曲優秀選.md "wikilink")（2010）：歌曲獎
     「一直都在」（與[蔡卓妍合唱](../Page/蔡卓妍.md "wikilink")）
   - [雅虎](../Page/雅虎.md "wikilink")[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")（2010）：網上熱播歌曲「直到你不找我」
   - [雅虎](../Page/雅虎.md "wikilink")[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")（2010）：搜尋人氣電影主題曲「一直都在」（與[蔡卓妍合唱](../Page/蔡卓妍.md "wikilink")）
-  - [無綫電視](../Page/無綫電視.md "wikilink")[TVB8金曲榜頒獎典禮](../Page/TVB8金曲榜頒獎典禮.md "wikilink")（2010）：全球觀眾最愛粵語歌曲獎「直到你不找我」
-  - [無綫電視](../Page/無綫電視.md "wikilink")[十大勁歌金曲頒獎典禮](../Page/十大勁歌金曲頒獎典禮.md "wikilink")（2010）：十大勁歌金曲獎「直到你不找我」
-  - [無綫電視](../Page/無綫電視.md "wikilink")[十大勁歌金曲頒獎典禮](../Page/十大勁歌金曲頒獎典禮.md "wikilink")（2010）：最受歡迎合唱歌曲獎-銀獎《一直都在》（與[蔡卓妍合唱](../Page/蔡卓妍.md "wikilink")）
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")（2010）：全球觀眾最愛粵語歌曲獎「直到你不找我」
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")（2010）：十大勁歌金曲獎「直到你不找我」
+  - [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")（2010）：最受歡迎合唱歌曲獎-銀獎《一直都在》（與[蔡卓妍合唱](../Page/蔡卓妍.md "wikilink")）
   - [新浪](../Page/新浪.md "wikilink")[SINA
-    Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")（2010）：SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")（2010）：SINA
     Music電視劇主題曲大獎《直到你不找我》
 
 ## 參考資料

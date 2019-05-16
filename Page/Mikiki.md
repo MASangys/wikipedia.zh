@@ -7,7 +7,7 @@
 [Mikiki_MALL_Level_1_View1_201109.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_MALL_Level_1_View1_201109.jpg "fig:Mikiki_MALL_Level_1_View1_201109.jpg")
 [Mikiki_GF_Washroom_Enterance_201108.jpg](https://zh.wikipedia.org/wiki/File:Mikiki_GF_Washroom_Enterance_201108.jpg "fig:Mikiki_GF_Washroom_Enterance_201108.jpg")
 
-**Mikiki**是[新鴻基地產旗下的](../Page/新鴻基地產.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[新蒲崗](../Page/新蒲崗.md "wikilink")[太子道東](../Page/太子道東.md "wikilink")638號，位於屋苑[譽·港灣基座](../Page/譽·港灣.md "wikilink")，總面積逾20萬平方呎，於[2011年7月月中開始對外開放](../Page/2011年7月.md "wikilink")，於同年10月30日正式開幕。商場由新鴻基地產旗下的[康業服務負責管理](../Page/康業服務.md "wikilink")。
+**Mikiki**是[新鴻基地產旗下的](../Page/新鴻基地產.md "wikilink")[商場](../Page/商場.md "wikilink")，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[新蒲崗](../Page/新蒲崗.md "wikilink")[太子道東](https://zh.wikipedia.org/wiki/太子道東 "wikilink")638號，位於屋苑[譽·港灣基座](../Page/譽·港灣.md "wikilink")，總面積逾20萬平方呎，於[2011年7月月中開始對外開放](../Page/2011年7月.md "wikilink")，於同年10月30日正式開幕。商場由新鴻基地產旗下的[康業服務負責管理](../Page/康業服務.md "wikilink")。
 
 ## 簡介
 
@@ -17,7 +17,7 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
 ## 設計
 
-商場的裝修與新鴻基地產旗下的商場分別不大，採用與[apm及](../Page/apm.md "wikilink")[新城市廣場相似款式的假天花](../Page/新城市廣場.md "wikilink")、外牆及地台。大部份範圍以白色為主調，欠缺任何裝飾，特色欠奉，務求將遊人的「購物體驗」限於店舖內。為解決白色部份過多問題，管理公司將部份外牆及圓柱作為商户廣告用途，以賺取更多收入。商場洗手間設計及用料普通，保養一般。
+商場的裝修與新鴻基地產旗下的商場分別不大，採用與[apm及](https://zh.wikipedia.org/wiki/apm "wikilink")[新城市廣場相似款式的假天花](../Page/新城市廣場.md "wikilink")、外牆及地台。大部份範圍以白色為主調，欠缺任何裝飾，特色欠奉，務求將遊人的「購物體驗」限於店舖內。為解決白色部份過多問題，管理公司將部份外牆及圓柱作為商户廣告用途，以賺取更多收入。商場洗手間設計及用料普通，保養一般。
 
 商場早期於洗手間入口設置公共座位，唯到後期公共座位亦已拆走。目前公共座位設置於LG層停車場上落貨區外，位置隱閉。
 
@@ -43,49 +43,53 @@ Bistro、韓食家純豆腐麵店及A++Deli。其餘範圍為[一田百貨旗下
 
 ### G
 
-地下層景福街主入口除了有的士/落客區外，門口設佔地1,200呎的[Starbucks](../Page/Starbucks.md "wikilink")，以舊啟德機場為主題，把新蒲崗區深厚的社區文化及前啟德機場的歷史融合在店舖設計中。而近[景福街有](../Page/景福街.md "wikilink")10多間街舖，大多以小食為主，包括Yoshi
+地下層景福街主入口除了有的士/落客區外，門口設佔地1,200呎的[Starbucks](https://zh.wikipedia.org/wiki/Starbucks "wikilink")，以舊啟德機場為主題，把新蒲崗區深厚的社區文化及前啟德機場的歷史融合在店舖設計中。而近[景福街有](https://zh.wikipedia.org/wiki/景福街 "wikilink")10多間街舖，大多以小食為主，包括Yoshi
 Yogort、La
 Kaffa義式咖啡店、糖圓園糖水店、[美心西餅](../Page/美心西餅.md "wikilink")、自家烏冬及[Vango便利店](../Page/華潤萬家超級市場.md "wikilink")。
 近彩虹道的綠化空間則設食肆為主，包括[Panash Bakery &
-Cafe](../Page/Panash_Bakery_&_Cafe.md "wikilink")、[California Pizza
-Kitchen及DG](../Page/California_Pizza_Kitchen.md "wikilink") Lifestyle
-Store Cafe。至於近[景泰街的入口設寵物主題樂園吉のFun](../Page/景泰街.md "wikilink")
+Cafe](https://zh.wikipedia.org/wiki/Panash_Bakery_&_Cafe "wikilink")、[California
+Pizza
+Kitchen及DG](https://zh.wikipedia.org/wiki/California_Pizza_Kitchen "wikilink")
+Lifestyle Store
+Cafe。至於近[景泰街的入口設寵物主題樂園吉のFun](https://zh.wikipedia.org/wiki/景泰街 "wikilink")
 Club、nanoco電腦維修店及寵物食品店，滿足街坊需要。
 
 場內地下亦設不少時裝店，其中包括i.t.旗下的ete\!及Venilla
-Suite、2%、[Converse](../Page/Converse.md "wikilink")、YMK、Brend n
-butter、mastermind
-production、[Levi's](../Page/Levi's.md "wikilink")、[Missha](../Page/Missha.md "wikilink")、Kitterick及Topicks等。當中本地時裝品牌Initial設首間兩層概念店，佔地3,300呎。室內設計像一所中古傢俬博物館，店內售賣全線男女裝及配飾系列外，還增添生活精品系列，包括香薰、蠟燭等。
+Suite、2%、[Converse](https://zh.wikipedia.org/wiki/Converse "wikilink")、YMK、Brend
+n butter、mastermind
+production、[Levi's](../Page/Levi's.md "wikilink")、[Missha](https://zh.wikipedia.org/wiki/Missha "wikilink")、Kitterick及Topicks等。當中本地時裝品牌Initial設首間兩層概念店，佔地3,300呎。室內設計像一所中古傢俬博物館，店內售賣全線男女裝及配飾系列外，還增添生活精品系列，包括香薰、蠟燭等。
 
-運動服裝店包括[adidas](../Page/adidas.md "wikilink")、Sports
-Corner及KSWISS。其他主要租戶包括YMK、ctf2年青新一代、[SaSa化妝品店及售賣蘋果電腦產品的DG](../Page/SaSa.md "wikilink")
+運動服裝店包括[adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")、Sports
+Corner及KSWISS。其他主要租戶包括YMK、ctf2年青新一代、[SaSa化妝品店及售賣蘋果電腦產品的DG](https://zh.wikipedia.org/wiki/SaSa "wikilink")
 Lifestyle Store等。
 
 不過試業期間大部份店舖進行裝修中，店舖已於8月中至9月尾分批開業。
 
 到2014年起商場進行租戶重組，Sports Corner、La Kaffa義式咖啡店、糖圓園糖水店、YMK、mastermind
-production、[Missha](../Page/Missha.md "wikilink")、Kitterick及Topicks等時裝店結業。新租戶包括[Baleno](../Page/Baleno.md "wikilink")、TWIST
+production、[Missha](https://zh.wikipedia.org/wiki/Missha "wikilink")、Kitterick及Topicks等時裝店結業。新租戶包括[Baleno](https://zh.wikipedia.org/wiki/Baleno "wikilink")、TWIST
 accessories、Antoshimo、[MOS
-Burger及](../Page/MOS_Burger.md "wikilink")6IXTY 8IGH。目前該層有不少商舖處於空置狀態。
+Burger及](https://zh.wikipedia.org/wiki/MOS_Burger "wikilink")6IXTY
+8IGH。目前該層有不少商舖處於空置狀態。
 
 ### L1
 
 一樓主要租戶包括佔地3,200呎的Metrobooks書店，是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位，到2017年結業。家品概念店Colour@life以「生活
 +
-趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。其他租戶包括鬆弛熊博品館(已結業)、潮流天地眼鏡、大型玩具店[玩具之森](../Page/玩具之森.md "wikilink")、[眼鏡88](../Page/眼鏡88.md "wikilink")、C2
+趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。其他租戶包括鬆弛熊博品館(已結業)、潮流天地眼鏡、大型玩具店[玩具之森](https://zh.wikipedia.org/wiki/玩具之森 "wikilink")、[眼鏡88](../Page/眼鏡88.md "wikilink")、C2
 of City
-Chain、[豐澤](../Page/豐澤.md "wikilink")、[屈臣氏](../Page/屈臣氏.md "wikilink")、香港電業城、QB
-HOUSE及多間童裝店等。此外，場內亦設多間家居店，包括[軒琴居](../Page/軒琴居.md "wikilink")、Norwood
-home室內設計 (已結業)、[Sinomax及Pioneer](../Page/Sinomax.md "wikilink") Creator
-Electric 燈飾店。
+Chain、[豐澤](https://zh.wikipedia.org/wiki/豐澤 "wikilink")、[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、香港電業城、QB
+HOUSE及多間童裝店等。此外，場內亦設多間家居店，包括[軒琴居](https://zh.wikipedia.org/wiki/軒琴居 "wikilink")、Norwood
+home室內設計
+(已結業)、[Sinomax及Pioneer](https://zh.wikipedia.org/wiki/Sinomax "wikilink")
+Creator Electric 燈飾店。
 
 該層亦設多間食肆，包括Hip Bento
-café(已結業)、串(已結業)、小蜜蜂糖果店(已結業)、[金牌小龍](../Page/金牌小龍.md "wikilink")(已遷至LG層)及[龍皇酒家](../Page/龍皇酒家.md "wikilink")，其中Hip
-Bento café及[龍皇酒家設有室外用餐區](../Page/龍皇酒家.md "wikilink")。
+café(已結業)、串(已結業)、小蜜蜂糖果店(已結業)、[金牌小龍](https://zh.wikipedia.org/wiki/金牌小龍 "wikilink")(已遷至LG層)及[龍皇酒家](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")，其中Hip
+Bento café及[龍皇酒家設有室外用餐區](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")。
 
-到2014年起商場進行租戶重組，多間食肆、家居、精品及童裝店已結業。新租戶以2、3線租客，包括健康產品及中下檔的生活用品店為主，新租戶包括[華潤堂](../Page/華潤堂.md "wikilink")、[優之良品](../Page/優之良品.md "wikilink")、[日本城旗下生活提案](../Page/日本城.md "wikilink")、偉成洋酒及[零食物語等](../Page/零食物語.md "wikilink")。新食肆為[元気寿司](../Page/元気寿司.md "wikilink")、PHO會安、日牛涮涮鍋專門店及金鍋鍋火鍋店。
+到2014年起商場進行租戶重組，多間食肆、家居、精品及童裝店已結業。新租戶以2、3線租客，包括健康產品及中下檔的生活用品店為主，新租戶包括[華潤堂](https://zh.wikipedia.org/wiki/華潤堂 "wikilink")、[優之良品](../Page/優之良品.md "wikilink")、[日本城旗下生活提案](https://zh.wikipedia.org/wiki/日本城 "wikilink")、偉成洋酒及[零食物語等](https://zh.wikipedia.org/wiki/零食物語 "wikilink")。新食肆為[元気寿司](https://zh.wikipedia.org/wiki/元気寿司 "wikilink")、PHO會安、日牛涮涮鍋專門店及金鍋鍋火鍋店。
 
-該層預留行人天橋橫跨[太子道東](../Page/太子道東.md "wikilink")，連接毗鄰的[工業貿易大樓](../Page/工業貿易大樓.md "wikilink")、規劃中的[港鐵](../Page/港鐵.md "wikilink")[沙中綫](../Page/沙中綫.md "wikilink")[啟德站及啟德發展區](../Page/啟德站.md "wikilink")，橫跨太子道東部分已於2013年啟用。
+該層預留行人天橋橫跨[太子道東](https://zh.wikipedia.org/wiki/太子道東 "wikilink")，連接毗鄰的[工業貿易大樓](../Page/工業貿易大樓.md "wikilink")、規劃中的[港鐵](../Page/港鐵.md "wikilink")[沙中綫](https://zh.wikipedia.org/wiki/沙中綫 "wikilink")[啟德站及啟德發展區](../Page/啟德站.md "wikilink")，橫跨太子道東部分已於2013年啟用。
 
 ## 商戶
 
@@ -96,11 +100,11 @@ Club。到了2011年6月時再公佈新一批租戶。包括佔地3,200呎的Met
 
 其他租戶包括[鬆弛熊博品館](../Page/鬆弛熊.md "wikilink")，售賣蘋果電腦產品的DG Lifestyle
 Store、2%、bread n
-butter時裝店、Twist、K-swiss及adidas運動服裝店、ctf2年青新一代、[Converse及燈飾店等](../Page/Converse.md "wikilink")。
+butter時裝店、Twist、K-swiss及adidas運動服裝店、ctf2年青新一代、[Converse及燈飾店等](https://zh.wikipedia.org/wiki/Converse "wikilink")。
 
 食肆包括六本木式DG Lifestyle Café、California Pizza Kitchen、IKI鐵板燒、Panash麵包店、La
 Kaffa義式咖啡店、糖圓園糖水店
-、台灣[東一排骨](../Page/東一排骨.md "wikilink")(以「壹臺」為餐廳名稱)、[金牌小龍](../Page/金牌小龍.md "wikilink")、龍皇酒家及金寶越南牛肉粉。當中[星巴克咖啡的Mikiki分店佔地](../Page/星巴克咖啡.md "wikilink")1,200呎，原表示以舊[啟德機場為主題](../Page/啟德機場.md "wikilink")，把新蒲崗區深厚的社區文化及前啟德機場的歷史融合在店舖設計中。不過開業後該店裝修與一般星巴克差別不大。
+、台灣[東一排骨](https://zh.wikipedia.org/wiki/東一排骨 "wikilink")(以「壹臺」為餐廳名稱)、[金牌小龍](https://zh.wikipedia.org/wiki/金牌小龍 "wikilink")、龍皇酒家及金寶越南牛肉粉。當中[星巴克咖啡的Mikiki分店佔地](https://zh.wikipedia.org/wiki/星巴克咖啡 "wikilink")1,200呎，原表示以舊[啟德機場為主題](../Page/啟德機場.md "wikilink")，把新蒲崗區深厚的社區文化及前啟德機場的歷史融合在店舖設計中。不過開業後該店裝修與一般星巴克差別不大。
 
 商場示範單位設於[將軍澳中心](../Page/將軍澳中心.md "wikilink")，佔地約8,000方呎，將商場的「購物+體驗」消閒模式呈現潛在租戶眼前，並製作提供有聽覺和嗅覺等體驗的概念性招租畫冊，將項目發展遠景具體呈現。[新鴻基地產亦要求商戶的裝修及經營手法均需引入創新元素](../Page/新鴻基地產.md "wikilink")，單在商戶的裝修設計，已經過數次洽談。\[2\]
 
@@ -129,8 +133,8 @@ Kaffa義式咖啡店、糖圓園糖水店
 ## 鄰近
 
   - [啟德發展區](../Page/啟德發展計劃.md "wikilink")
-  - [新蒲崗廣場](../Page/新蒲崗廣場.md "wikilink")
-  - [越秀廣場](../Page/越秀廣場.md "wikilink")
+  - [新蒲崗廣場](https://zh.wikipedia.org/wiki/新蒲崗廣場 "wikilink")
+  - [越秀廣場](https://zh.wikipedia.org/wiki/越秀廣場 "wikilink")
 
 ## 交通
 

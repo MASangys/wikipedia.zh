@@ -18,7 +18,7 @@ Vista開始重寫其音效框架，並且增加一套全新的音訊API，Window
 
 但不幸的是，以往遊戲以至音訊程式常用的音效硬件加速API，DirectSound，Direct Sound 3D，Direct Sound
 EAX效果以致Kernel
-Stream等也不能再直接使用音效卡進行硬件加速，如程式使用以上API，將透過WASAPI改用CPU進行軟件模擬方式處理相關的音訊資料。正因如此，微軟建議各音效卡以致程式開發商改用其他音訊API以便作硬件加速方案，例如：[OpenAL](../Page/OpenAL.md "wikilink")/[OpenSL這些API為程式重新提供硬件音訊加速功能](../Page/OpenSL.md "wikilink")。
+Stream等也不能再直接使用音效卡進行硬件加速，如程式使用以上API，將透過WASAPI改用CPU進行軟件模擬方式處理相關的音訊資料。正因如此，微軟建議各音效卡以致程式開發商改用其他音訊API以便作硬件加速方案，例如：[OpenAL](../Page/OpenAL.md "wikilink")/[OpenSL這些API為程式重新提供硬件音訊加速功能](https://zh.wikipedia.org/wiki/OpenSL "wikilink")。
 
 ### Windows 8
 
@@ -28,7 +28,8 @@ Offload）允許音訊可以從CPU改用音效卡作處理，但這功能局限�
 ### XAudio 2
 
 微軟為了與Xbox 360整合，積極開發了Xbox audio APIs像是XAudio和[the Cross-platform Audio
-Creation Tool](../Page/XACT.md "wikilink")（XACT）。XAudio
+Creation
+Tool](https://zh.wikipedia.org/wiki/XACT "wikilink")（XACT）。XAudio
 2可以跨平台（Windows與Xbox），意圖取代DirectSound\[1\]。
 
 ## WinCE

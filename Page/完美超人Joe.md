@@ -1,8 +1,8 @@
-**完美超人JOE**（），是日本遊戲公司[CAPCOM發行的動作遊戲](../Page/CAPCOM.md "wikilink")。
+**完美超人JOE**（），是日本遊戲公司[CAPCOM發行的動作遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")。
 
-2004年10月由[東京電視台播放](../Page/東京電視台.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")、同年11月20日發售的[Vジャンプ也有菊池晃弘連載其](../Page/Vジャンプ.md "wikilink")[漫画版](../Page/漫画.md "wikilink")。
+2004年10月由[東京電視台播放](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、同年11月20日發售的[Vジャンプ也有菊池晃弘連載其](https://zh.wikipedia.org/wiki/Vジャンプ "wikilink")[漫画版](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
-因為第一作大賣，而成為[四葉草工作室的看版遊戲並發售有數篇續作](../Page/四葉草工作室.md "wikilink")、2007年3月31日由於工作室被解散。現在版権由卡普空持有。
+因為第一作大賣，而成為[四葉草工作室的看版遊戲並發售有數篇續作](https://zh.wikipedia.org/wiki/四葉草工作室 "wikilink")、2007年3月31日由於工作室被解散。現在版権由卡普空持有。
 
 1作裡有著打扮成喬的樣子的摔角選手登場及有名的藝人隱藏其名字而在片尾中熱唱、還成為電視動畫『[烏龍派出所](../Page/烏龍派出所.md "wikilink")』播放完後的廣告等，而使用各式各樣的宣傳手法。
 
@@ -14,11 +14,11 @@
 
 正統的橫向卷軸方式的動作遊戲、對於敵人能用拳及踢來攻擊。不過攻擊時仍會遭到敵人反擊。當打倒一定人數時會得到**VIEWTIFUL值**（**view**（眺望）
 +
-**beautiful**（美麗）組合語）。對於敵人的攻撃能以華麗的「閃躲」來讓敵人露出空隙、並且一擊給與敵人大大的傷害。由於重點在於避開敵人的攻擊，而被認為其靈感來自於街機遊戲「[Punch-Out\!\!](../Page/Punch-Out!!.md "wikilink")」。
+**beautiful**（美麗）組合語）。對於敵人的攻撃能以華麗的「閃躲」來讓敵人露出空隙、並且一擊給與敵人大大的傷害。由於重點在於避開敵人的攻擊，而被認為其靈感來自於街機遊戲「[Punch-Out\!\!](https://zh.wikipedia.org/wiki/Punch-Out!! "wikilink")」。
 
 另外，喬還可以使用操控影像的**VFX之力**。有著讓動作緩慢的『Slow』、動作變快『MaxSpeed』等各種VFX之力而可以作出有利的打法、另外還可以讓玩家自己得到像是自己陶酔般的「魅力」玩法的爽快感、並且還可以就這樣賺取遊戲裡的獎金。
 
-擁有和[街機一樣的高難度](../Page/街機.md "wikilink")、在魔王戰等戰鬥中有著第一次看到就被秒殺的事情、不過隨著不斷的練習而可以加以改善。遊戲中並沒有會立即死的陷阱、所以與其說本作和「[洛克人](../Page/洛克人.md "wikilink")」和「[超級瑪利](../Page/超級瑪利.md "wikilink")」等動作遊戲相似，不如說和「[Trojan](../Page/斗者的挽歌.md "wikilink")」及「[街頭快打](../Page/街頭快打.md "wikilink")」等過去卡普空名作的橫向卷軸動作遊戲較像。
+擁有和[街機一樣的高難度](https://zh.wikipedia.org/wiki/街機 "wikilink")、在魔王戰等戰鬥中有著第一次看到就被秒殺的事情、不過隨著不斷的練習而可以加以改善。遊戲中並沒有會立即死的陷阱、所以與其說本作和「[洛克人](https://zh.wikipedia.org/wiki/洛克人 "wikilink")」和「[超級瑪利](https://zh.wikipedia.org/wiki/超級瑪利 "wikilink")」等動作遊戲相似，不如說和「[Trojan](https://zh.wikipedia.org/wiki/斗者的挽歌 "wikilink")」及「[街頭快打](https://zh.wikipedia.org/wiki/街頭快打 "wikilink")」等過去卡普空名作的橫向卷軸動作遊戲較像。
 
 ### VFX之力
 
@@ -227,7 +227,7 @@
 <!-- end list -->
 
   - 但丁
-    從[惡魔獵人裡來客串來本作參戰](../Page/惡魔獵人.md "wikilink")。基本上以初代設定為主。要去玩時，在電影院中被吸入電影島裡、而變成要和宿敵魔帝穆圖斯作出真正的對決。有說過料理在他的守備範圍外、。
+    從[惡魔獵人裡來客串來本作參戰](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")。基本上以初代設定為主。要去玩時，在電影院中被吸入電影島裡、而變成要和宿敵魔帝穆圖斯作出真正的對決。有說過料理在他的守備範圍外、。
     登場作品：1・戰鬥嘉年華(PSP版)
 
 #### 壞人們
@@ -328,12 +328,12 @@
 <!-- end list -->
 
   - 機動超人　卡捷柯普
-    被奪去英雄力的英雄之一。是個持有雙槍的機械警官。原型來自於[機械戰警](../Page/機械戰警.md "wikilink")。
+    被奪去英雄力的英雄之一。是個持有雙槍的機械警官。原型來自於[機械戰警](https://zh.wikipedia.org/wiki/機械戰警 "wikilink")。
 
 <!-- end list -->
 
   - 人造超人　奇拉漢斯
-    被奪去英雄力的英雄之一。是個自我陶醉型的人。原型來自[殺手漢斯](../Page/殺手漢斯.md "wikilink")。
+    被奪去英雄力的英雄之一。是個自我陶醉型的人。原型來自[殺手漢斯](https://zh.wikipedia.org/wiki/殺手漢斯 "wikilink")。
 
 <!-- end list -->
 
@@ -343,7 +343,7 @@
 <!-- end list -->
 
   - 改造超人　梅塔連賈
-    被奪去英雄力的兩人英雄組合。原型來自[假面騎士和](../Page/假面騎士.md "wikilink")[超級戰隊](../Page/超級戰隊.md "wikilink")。
+    被奪去英雄力的兩人英雄組合。原型來自[假面騎士和](../Page/假面騎士.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。
 
 <!-- end list -->
 
@@ -359,20 +359,20 @@
 <!-- end list -->
 
   - 魔帝穆圖斯
-    『[惡魔獵人](../Page/惡魔獵人.md "wikilink")』中的魔王、但丁的宿敵。
+    『[惡魔獵人](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")』中的魔王、但丁的宿敵。
 
 ### 片尾曲
 
   - 「Viewtiful World」
     藝人：Viewtiful Joe（[DA
-    PUMP的KEN](../Page/DA_PUMP.md "wikilink")、DAI的[長尾大](../Page/長尾大.md "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")、ZZ的SOTARO、03的古市絢子等五人並且全部都隱藏身份唱歌）
+    PUMP的KEN](../Page/DA_PUMP.md "wikilink")、DAI的[長尾大](../Page/長尾大.md "wikilink")、[大渡亮](https://zh.wikipedia.org/wiki/大渡亮 "wikilink")、ZZ的SOTARO、03的古市絢子等五人並且全部都隱藏身份唱歌）
 
 ## 電視動畫
 
 ### 登場人物（動畫版）
 
   - 喬
-    [声](../Page/声優.md "wikilink") -
+    [声](https://zh.wikipedia.org/wiki/声優 "wikilink") -
     [關智一](../Page/關智一.md "wikilink")(日本)：[李景唐](../Page/李景唐.md "wikilink")(台灣)：[雷霆](../Page/雷霆.md "wikilink")(香港)
     本作男主角。只要對從藍色大隊長那邊得到的V手錶喊出「HENSHIN A GO-GO
     BABY\!」就能變身成**完美超人Joe**。和同伴們一起與傑特組織戰鬥。能使用SLOW・MACHSPEED・ZOOM等三種電影特性的必殺技及VFX之力戰鬥。和希薇亞是青梅竹馬和戀人。有個電影播放師的父親‧傑特。設定画中有他的母親和妹妹、不過本編中卻未登場。與小小藍隊長是一起和傑特戰鬥的夥伴。
@@ -382,7 +382,7 @@
 
   - 希薇亞
     声 -
-    [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](../Page/馮嘉德.md "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
+    [桑谷夏子](../Page/桑谷夏子.md "wikilink")(日本)：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")(台灣)：[陸惠玲](../Page/陸惠玲.md "wikilink")(香港)
     喬的女友和本作女主角。一開始就被傑特組織抓走、而關在他們的基地中，但從透過自己的好勝心及積極表現而和裡面的小兵的變得相當親近並且因此改善自己的生活環境、以及準備好鍛鍊自己等行動來看、絕對不是一般的柔弱女主角。
     後半段和原作同様得到藍色大隊長所給的V手錶、而可以改變服裝變成**性感希薇亞**來和凱德戰鬥。主要是使用雙槍死亡貝拉多來進行遠距離攻撃。當打中敵人時會讓他們眼冒紅心而聽命於她。另外還可以和喬進行合作技攻擊。
     在她的皮帶中裝有可以封印伊貝魯王，叫作白色膠卷的強大力量。這個白色膠卷是當藍色大隊長失蹤不在時、由小時候的希薇亞不小心闖入他的房間中所找到有著藍色大隊長身影的一部分膠卷。
@@ -422,15 +422,15 @@
 <!-- end list -->
 
   - 暗躍機人 血色蕾茜兒
-    声 - [石松千惠美](../Page/石松千惠美.md "wikilink")
-    由古拉肯博士開發的最強戰鬥[仿生人](../Page/仿生人.md "wikilink")、在經過許多事件後，而讓改邪歸正並且得到英雄魂、成為喬一行人的夥伴、而成為黄金機人血色蕾茜兒。會重覆講話以及感情變得豐富而成為她的魅力點。是個文武雙全的英雄。一段時期和阿拉斯特一起行動。到最後都和喬一行人會合而一起戰鬥。
+    声 - [石松千惠美](https://zh.wikipedia.org/wiki/石松千惠美 "wikilink")
+    由古拉肯博士開發的最強戰鬥[仿生人](https://zh.wikipedia.org/wiki/仿生人 "wikilink")、在經過許多事件後，而讓改邪歸正並且得到英雄魂、成為喬一行人的夥伴、而成為黄金機人血色蕾茜兒。會重覆講話以及感情變得豐富而成為她的魅力點。是個文武雙全的英雄。一段時期和阿拉斯特一起行動。到最後都和喬一行人會合而一起戰鬥。
 
 <!-- end list -->
 
   - 史普洛凱
     声 -
     [淺野麻由美](../Page/淺野麻由美.md "wikilink")(日本)：[許雲雲](../Page/許雲雲.md "wikilink")(台灣)
-    動畫原創角色。傑特組織的軍師、毎回都會派出新怪人和喬他們戰鬥。在傑特組織被消滅後而加入凱德組織並且發揮她的實力。由於是名[爆乳](../Page/爆乳.md "wikilink")，所以會有把她的衣服拉鍊撐開而又拉上來的習慣。
+    動畫原創角色。傑特組織的軍師、毎回都會派出新怪人和喬他們戰鬥。在傑特組織被消滅後而加入凱德組織並且發揮她的實力。由於是名[爆乳](https://zh.wikipedia.org/wiki/爆乳 "wikilink")，所以會有把她的衣服拉鍊撐開而又拉上來的習慣。
     在凱德編終盤裡、和查爾斯三世、颶風塔比托、大布魯斯一起背叛克多而活到最後。
     實際上是現實世界中和藍色大隊長一起拍攝電影的工作人員之一。
     在戰鬥嘉年華中是能操作的角色之一。會叫出在克多篇中的小兵出來作戰。
@@ -455,7 +455,7 @@
 <!-- end list -->
 
   - 剛力怪人 颶風塔比托
-    声 - [高瀨右光](../Page/高瀨右光.md "wikilink")
+    声 - [高瀨右光](https://zh.wikipedia.org/wiki/高瀨右光 "wikilink")
     傑特的幹部、用他的怪力和巨斧而爬到現在的地位。只要一生氣就會無法控制。有自己專用的機車、序盤中就用機車戴著被抓的希薇亞到藍色帝王那邊。腳指頭是牠的弱點。
     在傑特被消滅後，經營肉店、但由於店遭到大約翰破壞而和史普洛凱一起成為凱德的幹部。
     和查爾斯三世及大布魯斯經常作蠢事而成為本作中很重要的三大喜角。
@@ -471,7 +471,7 @@
 <!-- end list -->
 
   - 灼熱王 法亞雷歐
-    声 - [上田陽司](../Page/上田陽司.md "wikilink")
+    声 - [上田陽司](https://zh.wikipedia.org/wiki/上田陽司 "wikilink")
     傑特組織中最高幹部。身上包圍著火燄、有著銳利的爪子和巨大的盾牌及壓倒性的領導力、而且可以包容那些各有特色的幹部們。
     傑特編中、在中盤出場就變少、終盤中、敗給喬、而被藍色帝王操控並且與阿拉斯特一起從基地裡掉落下來。
     在克多篇中由於失去記憶、而受到希爾巴斯諾的幫助、而成為她房子裡的警衛。但在和弟弟伏洛斯特泰格戰鬥後而回復記憶、在牠打贏後而離開希爾巴並且出去旅行。
@@ -504,7 +504,7 @@
 ### 片頭曲
 
   - 「Brighter side」
-    作詞・作曲・編曲：Rio 歌：[SaGa](../Page/SaGa.md "wikilink")
+    作詞・作曲・編曲：Rio 歌：[SaGa](https://zh.wikipedia.org/wiki/SaGa "wikilink")
   - 「Brighter side」
     作詞・作曲：Rio 編曲：Rio,Taichi 歌：SaGa
   - 「Spirit Awake」
@@ -518,7 +518,7 @@
     作詞：Rio 作曲・編曲：Taichi,Rio,Juno 歌：SaGa
   - 「桃源鄉」
     作詞：川村サイコ 作曲：[D・A・I](../Page/長尾大.md "wikilink") 編曲：水上裕規 歌：[Amasia
-    Landscape](../Page/Amasia_Landscape.md "wikilink")
+    Landscape](https://zh.wikipedia.org/wiki/Amasia_Landscape "wikilink")
 
 ### 各話標題
 
@@ -537,8 +537,8 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>その男ジョー! の巻</p></td>
-<td><p><a href="../Page/石山タカ明.md" title="wikilink">石山タカ明</a></p></td>
-<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石山タカ明" title="wikilink">石山タカ明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -562,7 +562,7 @@
 <td><p>4</p></td>
 <td><p>シルヴィアSOS! の巻</p></td>
 <td><p>石田真弓</p></td>
-<td><p><a href="../Page/鴫野彰.md" title="wikilink">鴫野彰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鴫野彰" title="wikilink">鴫野彰</a></p></td>
 <td><p>加藤茂</p></td>
 <td><p>アベ正己</p></td>
 </tr>
@@ -577,7 +577,7 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>カモ～ン! シックスマシンの巻</p></td>
-<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
 <td><p>赤坂三十郎</p></td>
 <td><p>大西景介</p></td>
 <td><p>服部憲知</p></td>
@@ -753,7 +753,7 @@ Zong Hyo-shick</p></td>
 <td><p>新たなる敵! ゲドー襲来! の巻</p></td>
 <td><p>砂山蔵澄</p></td>
 <td><p>渡辺純央</p></td>
-<td><p><a href="../Page/竹内昭.md" title="wikilink">竹内昭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹内昭" title="wikilink">竹内昭</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

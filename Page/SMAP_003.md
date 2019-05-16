@@ -30,10 +30,11 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - [木村拓哉](../Page/木村拓哉.md "wikilink")・[香取慎吾の楽曲](../Page/香取慎吾.md "wikilink")。
 9.  悲しくて眠れない
       - 作詞：真名杏樹 / 作曲・編曲：重実徹
-      - [中居正広のソロ曲](../Page/中居正広.md "wikilink")。
+      - [中居正広のソロ曲](https://zh.wikipedia.org/wiki/中居正広 "wikilink")。
       - 中居の実体験を基に作られた。
 10. [不要放棄Baby\!\~Never give
-    up](../Page/不要放棄Baby!~Never_give_up.md "wikilink")（3×3 MIX）
+    up](https://zh.wikipedia.org/wiki/不要放棄Baby!~Never_give_up "wikilink")（3×3
+    MIX）
       - 作詞：相田毅 / 作曲：筒美京平 / 編曲：CHOKKAKU
 
 ## 外部連結

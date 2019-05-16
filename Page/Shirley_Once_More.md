@@ -1,5 +1,5 @@
 《**Shirley Once
-More**》（中國大陸版更名為《**不可多得**》）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯到](../Page/王靖雯.md "wikilink")[美國進修時](../Page/美國.md "wikilink")，[新藝寶所發行的首張精選輯](../Page/新藝寶.md "wikilink")，於1991年发行。這張精選發行後，銷售衝破白金，氣勢驚人。也因此，唱片公司再接再厲推出第二張精選《More
+More**》（中國大陸版更名為《**不可多得**》）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯到](https://zh.wikipedia.org/wiki/王靖雯 "wikilink")[美國進修時](https://zh.wikipedia.org/wiki/美國 "wikilink")，[新藝寶所發行的首張精選輯](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，於1991年发行。這張精選發行後，銷售衝破白金，氣勢驚人。也因此，唱片公司再接再厲推出第二張精選《More
 Shirley》。
 
 ## 唱片版本

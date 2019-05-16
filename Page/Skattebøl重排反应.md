@@ -2,7 +2,7 @@
 rearrangement），又作**Skattebol重排反应**，以挪威[奥斯陆大学名誉教授](../Page/奥斯陆大学.md "wikilink")
 Lars Skattebøl 的名字命名。
 
-[偕](../Page/偕.md "wikilink")[二卤代](../Page/卤代烃.md "wikilink")[环丙烷在](../Page/环丙烷.md "wikilink")[有机锂试剂处理之下](../Page/有机锂试剂.md "wikilink")，经过[卡宾中间体](../Page/卡宾.md "wikilink")，转化为[累积二烯](../Page/累积二烯.md "wikilink")。\[1\]
+[偕](https://zh.wikipedia.org/wiki/偕 "wikilink")[二卤代](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")[环丙烷在](https://zh.wikipedia.org/wiki/环丙烷 "wikilink")[有机锂试剂处理之下](../Page/有机锂试剂.md "wikilink")，经过[卡宾中间体](../Page/卡宾.md "wikilink")，转化为[累积二烯](https://zh.wikipedia.org/wiki/累积二烯 "wikilink")。\[1\]
 
 
 [Skattebøl_rearrangement_general.png](https://zh.wikipedia.org/wiki/File:Skattebøl_rearrangement_general.png "fig:Skattebøl_rearrangement_general.png")
@@ -33,5 +33,6 @@ Lars Skattebøl 的名字命名。
 1.
 2.
 3.  Leo A. Paquette and Mark L. McLaughlin [Organic
-    Syntheses](../Page/Organic_Syntheses.md "wikilink"), CV 8, 223
+    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
+    CV 8, 223
     [Link](http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv8p0223)

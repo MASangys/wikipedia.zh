@@ -1,7 +1,7 @@
 **佳能 EF 50mm
-鏡頭**是由[日本](../Page/日本.md "wikilink")[佳能公司](../Page/佳能公司.md "wikilink")（Canon）製造的一組50毫米标准定焦[鏡頭系列](../Page/鏡頭.md "wikilink")。
+鏡頭**是由[日本](../Page/日本.md "wikilink")[佳能公司](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")（Canon）製造的一組50毫米标准定焦[鏡頭系列](../Page/鏡頭.md "wikilink")。
 
-目前為止，佳能一共推出過七款50mm鏡頭。當中兩支為[佳能L鏡頭](../Page/佳能L鏡頭.md "wikilink")，三支使用[超聲波馬達](../Page/超聲波馬達.md "wikilink")（USM），一支使用STM步进马达。
+目前為止，佳能一共推出過七款50mm鏡頭。當中兩支為[佳能L鏡頭](https://zh.wikipedia.org/wiki/佳能L鏡頭 "wikilink")，三支使用[超聲波馬達](https://zh.wikipedia.org/wiki/超聲波馬達 "wikilink")（USM），一支使用STM步进马达。
 
   - f/1.0L USM\[1\]（已停產，被f/1.2L取代）
   - f/1.2L USM\[2\]
@@ -25,9 +25,9 @@ EOS-1D Mark IV）時，其等效於全幅機身的65毫米視角（乘以系數1
 
 **EF 50mm f/1.2L USM**是佳能用以取代EF 50mm f/1.0L USM的專業級50mm L鏡頭。它是佳能的f/1.2
 L鏡頭的其中一支（另一支為[EF 85mm f/1.2L
-USM](../Page/佳能_EF_85mm_鏡頭.md "wikilink")）。它擁有鐵製鏡身和接環，特闊對焦環，並有距離標度，及防塵防水滴設計。它的八塊光圈葉片及最大光圈f/1.2，能夠拍攝出淺景深效果。
+USM](https://zh.wikipedia.org/wiki/佳能_EF_85mm_鏡頭 "wikilink")）。它擁有鐵製鏡身和接環，特闊對焦環，並有距離標度，及防塵防水滴設計。它的八塊光圈葉片及最大光圈f/1.2，能夠拍攝出淺景深效果。
 
-此鏡擁有有六組八塊鏡片，其中一塊為[非球面鏡片](../Page/非球面鏡片.md "wikilink")。它採用了以環形超聲波（Ring
+此鏡擁有有六組八塊鏡片，其中一塊為[非球面鏡片](https://zh.wikipedia.org/wiki/非球面鏡片 "wikilink")。它採用了以環形超聲波（Ring
 USM）驅動的內對焦系統。鏡頭前端於對焦時不會轉動及伸長。
 
 ## EF 50mm f/1.4 USM
@@ -41,8 +41,8 @@ USM**是佳能消費級50mm鏡頭。它擁有膠製鏡身及鐵製接環，並�
 
 ## EF 50mm f/1.8
 
-[缩略图](../Page/文件:Canon_EF_50mm_f18.jpg.md "wikilink") **EF 50mm
-f/1.8**（已於1990年停產，並被EF 50mm f/1.8
+[缩略图](https://zh.wikipedia.org/wiki/文件:Canon_EF_50mm_f18.jpg "wikilink")
+**EF 50mm f/1.8**（已於1990年停產，並被EF 50mm f/1.8
 II取代）是佳能經濟型的50mm鏡頭。它擁有膠製鏡身及鐵製接環，並有距離標度。它的五塊光圈葉片及最大光圈f/1.8，能夠拍攝出淺景深效果。
 
 此鏡擁有有五組六塊鏡片，但當中沒有特別鏡片在內。它採用了以AFD馬達驅動的前置式對焦系統，鏡頭前端於對焦時不會轉動，所以可於此鏡上安裝圓形濾鏡。
@@ -51,7 +51,7 @@ II取代）是佳能經濟型的50mm鏡頭。它擁有膠製鏡身及鐵製接�
 
 ## EF 50mm f/1.8 II
 
-[缩略图](../Page/文件:Canon_EF_50_mm_f_1.8_II.jpg.md "wikilink")
+[缩略图](https://zh.wikipedia.org/wiki/文件:Canon_EF_50_mm_f_1.8_II.jpg "wikilink")
 於1990年12月，佳能推出了**EF 50mm f/1.8 II**去取代EF 50mm
 f/1.8。由於此鏡成像不俗，而且價各便宜，所以十分物有所值。它以全膠打造，並有著十分簡單的設計。
 
@@ -59,12 +59,12 @@ f/1.8。由於此鏡成像不俗，而且價各便宜，所以十分物有所值
 
 此鏡的對焦環比第一版本細小，而且是放置於鏡頭最前端的。
 
-因为外观很像[痰盂罐](../Page/痰盂罐.md "wikilink")，因此获得了爱称“小痰盂”。
+因为外观很像[痰盂罐](https://zh.wikipedia.org/wiki/痰盂罐 "wikilink")，因此获得了爱称“小痰盂”。
 
 ## EF 50mm f/1.8 STM
 
-[缩略图](../Page/文件:Ef_50mm_stm.JPG.md "wikilink") **EF 50mm f/1.8
-STM**是佳能于2015年推出全新f1.8定焦镜头，用以取代已经发布25年的EF 50mm f/1.8
+[缩略图](https://zh.wikipedia.org/wiki/文件:Ef_50mm_stm.JPG "wikilink") **EF
+50mm f/1.8 STM**是佳能于2015年推出全新f1.8定焦镜头，用以取代已经发布25年的EF 50mm f/1.8
 II。此镜头为50mm系列中第一支搭载STM步进马达的镜头，镜片组为5组6片，7片圆形光圈，最小光圈f/22，最近对焦距离约0.35米，最大放大倍率约0.21倍，滤镜螺纹接口为49毫米，重量仅为159克。虽然定位于光圈更加大的同系列其他镜头之下，但成像能力丝毫不逊色。因为使用了STM马达的缘故，所以相比上一代，对焦时工作声音更轻。
 
 值得注意的是，当相机的自动对焦模式为“单次自动对焦”时，完成自动对焦后，半按快门按钮再转动对焦环，即可手动调焦。未开启相机电源、自动关闭电源及待机时无法手动调焦。
@@ -137,7 +137,7 @@ Macro**是一支相對上較便宜的近攝鏡頭。它的最近對焦距離為2
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/佳能L鏡頭.md" title="wikilink">L鏡頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佳能L鏡頭" title="wikilink">L鏡頭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 是</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 否</p></td>
 <td></td>
@@ -157,7 +157,7 @@ Macro**是一支相對上較便宜的近攝鏡頭。它的最近對焦距離為2
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/微距攝影.md" title="wikilink">微距</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微距攝影" title="wikilink">微距</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 否</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 是(1:2)</p></td>
 <td></td>

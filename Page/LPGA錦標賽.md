@@ -1,11 +1,11 @@
-**LPGA錦標賽**（[英語](../Page/英語.md "wikilink")：**LPGA
-Championship**）是一項女子職業高爾夫巡迴賽賽事，也是[美國女子職業高爾夫巡迴賽](../Page/美國女子職業高爾夫巡迴賽.md "wikilink")（LPGA
-Tour）的大滿貫層級賽事，但是[歐洲女子職業高爾夫巡迴賽](../Page/歐洲女子職業高爾夫巡迴賽.md "wikilink")（Ladies
+**LPGA錦標賽**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**LPGA
+Championship**）是一項女子職業高爾夫巡迴賽賽事，也是[美國女子職業高爾夫巡迴賽](https://zh.wikipedia.org/wiki/美國女子職業高爾夫巡迴賽 "wikilink")（LPGA
+Tour）的大滿貫層級賽事，但是[歐洲女子職業高爾夫巡迴賽](https://zh.wikipedia.org/wiki/歐洲女子職業高爾夫巡迴賽 "wikilink")（Ladies
 European Tour）並未將該賽事視為大滿貫層級賽事。
 
 ## 歷史
 
-LPGA錦標賽創辦於1955年，是女子職業高爾夫巡迴賽歷史第2悠久的賽事，僅次於[美國女子高爾夫球公開賽](../Page/美國女子高爾夫球公開賽.md "wikilink")。LPGA錦標賽目前只限職業高爾夫球選手參加。
+LPGA錦標賽創辦於1955年，是女子職業高爾夫巡迴賽歷史第2悠久的賽事，僅次於[美國女子高爾夫球公開賽](https://zh.wikipedia.org/wiki/美國女子高爾夫球公開賽 "wikilink")。LPGA錦標賽目前只限職業高爾夫球選手參加。
 
 ## 歷屆冠軍
 
@@ -45,7 +45,7 @@ share</p></th>
 <td><p>375,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011年LPGA錦標賽.md" title="wikilink">2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2011年LPGA錦標賽" title="wikilink">2011</a></p></td>
 <td><p>6月23–26日</p></td>
 <td><p><a href="../Page/曾雅妮.md" title="wikilink">曾雅妮</a> (2)</p></td>
 <td></td>
@@ -55,9 +55,9 @@ share</p></th>
 <td><p>375,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2010年LPGA錦標賽.md" title="wikilink">2010</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年LPGA錦標賽" title="wikilink">2010</a></p></td>
 <td><p>6月24–27日</p></td>
-<td><p><a href="../Page/柯瑞絲提·可兒.md" title="wikilink">柯瑞絲提·可兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯瑞絲提·可兒" title="wikilink">柯瑞絲提·可兒</a></p></td>
 <td></td>
 <td><p>269 (-19)</p></td>
 <td><p>Locust Hill Country Club</p></td>
@@ -65,9 +65,9 @@ share</p></th>
 <td><p>337,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009年LPGA錦標賽.md" title="wikilink">2009</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009年LPGA錦標賽" title="wikilink">2009</a></p></td>
 <td><p>6月11–14日</p></td>
-<td><p><a href="../Page/Anna_Nordqvist.md" title="wikilink">Anna Nordqvist</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Anna_Nordqvist" title="wikilink">Anna Nordqvist</a></p></td>
 <td></td>
 <td><p>273 (-15)</p></td>
 <td><p>Bulle Rock Golf Course</p></td>
@@ -75,7 +75,7 @@ share</p></th>
 <td><p>300,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2008年LPGA錦標賽.md" title="wikilink">2008</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2008年LPGA錦標賽" title="wikilink">2008</a></p></td>
 <td><p>6月5–8日</p></td>
 <td><p><a href="../Page/曾雅妮.md" title="wikilink">曾雅妮</a></p></td>
 <td></td>
@@ -85,9 +85,9 @@ share</p></th>
 <td><p>300,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2007年LPGA錦標賽.md" title="wikilink">2007</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2007年LPGA錦標賽" title="wikilink">2007</a></p></td>
 <td><p>6月7–10日</p></td>
-<td><p><a href="../Page/Suzann_Pettersen.md" title="wikilink">Suzann Pettersen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Suzann_Pettersen" title="wikilink">Suzann Pettersen</a></p></td>
 <td></td>
 <td><p>274 (-14)</p></td>
 <td><p>Bulle Rock Golf Course</p></td>
@@ -95,7 +95,7 @@ share</p></th>
 <td><p>300,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2006年LPGA錦標賽.md" title="wikilink">2006</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2006年LPGA錦標賽" title="wikilink">2006</a></p></td>
 <td><p>6月 8–11</p></td>
 <td><p><a href="../Page/朴世莉.md" title="wikilink">朴世莉</a> (3)</p></td>
 <td></td>
@@ -105,9 +105,9 @@ share</p></th>
 <td><p>270,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2005年LPGA錦標賽.md" title="wikilink">2005</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2005年LPGA錦標賽" title="wikilink">2005</a></p></td>
 <td><p>6月 9–12</p></td>
-<td><p><a href="../Page/安妮卡·索倫斯坦.md" title="wikilink">安妮卡·索倫斯坦</a> (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安妮卡·索倫斯坦" title="wikilink">安妮卡·索倫斯坦</a> (3)</p></td>
 <td></td>
 <td><p>277 (-11)</p></td>
 <td><p>Bulle Rock Golf Course</p></td>
@@ -115,9 +115,9 @@ share</p></th>
 <td><p>270,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004年LPGA錦標賽.md" title="wikilink">2004</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2004年LPGA錦標賽" title="wikilink">2004</a></p></td>
 <td><p>6月 10–13</p></td>
-<td><p><a href="../Page/安妮卡·索倫斯坦.md" title="wikilink">安妮卡·索倫斯坦</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安妮卡·索倫斯坦" title="wikilink">安妮卡·索倫斯坦</a> (2)</p></td>
 <td></td>
 <td><p>271 (-13)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -125,9 +125,9 @@ share</p></th>
 <td><p>240,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2003年LPGA錦標賽.md" title="wikilink">2003</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2003年LPGA錦標賽" title="wikilink">2003</a></p></td>
 <td><p>6月 5–8</p></td>
-<td><p><a href="../Page/安妮卡·索倫斯坦.md" title="wikilink">安妮卡·索倫斯坦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安妮卡·索倫斯坦" title="wikilink">安妮卡·索倫斯坦</a></p></td>
 <td></td>
 <td><p>278 (-6)<sup>PO</sup></p></td>
 <td><p>DuPont Country Club</p></td>
@@ -135,7 +135,7 @@ share</p></th>
 <td><p>240,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2002年LPGA錦標賽.md" title="wikilink">2002</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2002年LPGA錦標賽" title="wikilink">2002</a></p></td>
 <td><p>6月 6–9</p></td>
 <td><p><a href="../Page/朴世莉.md" title="wikilink">朴世莉</a> (2)</p></td>
 <td></td>
@@ -145,9 +145,9 @@ share</p></th>
 <td><p>225,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001年LPGA錦標賽.md" title="wikilink">2001</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2001年LPGA錦標賽" title="wikilink">2001</a></p></td>
 <td><p>6月 21–24</p></td>
-<td><p><a href="../Page/Karrie_Webb.md" title="wikilink">Karrie Webb</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Karrie_Webb" title="wikilink">Karrie Webb</a></p></td>
 <td></td>
 <td><p>270 (-14)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -155,9 +155,9 @@ share</p></th>
 <td><p>225,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2000年LPGA錦標賽.md" title="wikilink">2000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2000年LPGA錦標賽" title="wikilink">2000</a></p></td>
 <td><p>6月 22–25</p></td>
-<td><p><a href="../Page/茱莉·英克絲特.md" title="wikilink">茱莉·英克絲特</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/茱莉·英克絲特" title="wikilink">茱莉·英克絲特</a> (2)</p></td>
 <td></td>
 <td><p>281 (-3)<sup>PO</sup></p></td>
 <td><p>DuPont Country Club</p></td>
@@ -165,9 +165,9 @@ share</p></th>
 <td><p>210,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年LPGA錦標賽.md" title="wikilink">1999</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1999年LPGA錦標賽" title="wikilink">1999</a></p></td>
 <td><p>6月 24–27</p></td>
-<td><p><a href="../Page/茱莉·英克絲特.md" title="wikilink">茱莉·英克絲特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/茱莉·英克絲特" title="wikilink">茱莉·英克絲特</a></p></td>
 <td></td>
 <td><p>268 (-16)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -175,7 +175,7 @@ share</p></th>
 <td><p>210,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1998年LPGA錦標賽.md" title="wikilink">1998</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1998年LPGA錦標賽" title="wikilink">1998</a></p></td>
 <td><p>5月 14–17</p></td>
 <td><p><a href="../Page/朴世莉.md" title="wikilink">朴世莉</a></p></td>
 <td></td>
@@ -185,9 +185,9 @@ share</p></th>
 <td><p>195,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1997年LPGA錦標賽.md" title="wikilink">1997</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1997年LPGA錦標賽" title="wikilink">1997</a></p></td>
 <td><p>5月 15–18</p></td>
-<td><p><a href="../Page/Christa_Johnson.md" title="wikilink">Christa Johnson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Christa_Johnson" title="wikilink">Christa Johnson</a></p></td>
 <td></td>
 <td><p>281 (-3)<sup>PO</sup></p></td>
 <td><p>DuPont Country Club</p></td>
@@ -195,9 +195,9 @@ share</p></th>
 <td><p>180,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996年LPGA錦標賽.md" title="wikilink">1996</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1996年LPGA錦標賽" title="wikilink">1996</a></p></td>
 <td><p>5月 10–12</p></td>
-<td><p><a href="../Page/Laura_Davies.md" title="wikilink">Laura Davies</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Laura_Davies" title="wikilink">Laura Davies</a> (2)</p></td>
 <td></td>
 <td><p>213 (E)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -205,9 +205,9 @@ share</p></th>
 <td><p>180,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1995年LPGA錦標賽.md" title="wikilink">1995</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1995年LPGA錦標賽" title="wikilink">1995</a></p></td>
 <td><p>5月 11–14</p></td>
-<td><p><a href="../Page/Kelly_Robbins.md" title="wikilink">Kelly Robbins</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kelly_Robbins" title="wikilink">Kelly Robbins</a></p></td>
 <td></td>
 <td><p>274 (-10)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -215,9 +215,9 @@ share</p></th>
 <td><p>180,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1994年LPGA錦標賽.md" title="wikilink">1994</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1994年LPGA錦標賽" title="wikilink">1994</a></p></td>
 <td><p>5月 12–15</p></td>
-<td><p><a href="../Page/Laura_Davies.md" title="wikilink">Laura Davies</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Laura_Davies" title="wikilink">Laura Davies</a></p></td>
 <td></td>
 <td><p>279 (-5)</p></td>
 <td><p>DuPont Country Club</p></td>
@@ -225,9 +225,9 @@ share</p></th>
 <td><p>165,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1993年LPGA錦標賽.md" title="wikilink">1993</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1993年LPGA錦標賽" title="wikilink">1993</a></p></td>
 <td><p>6月 10–13</p></td>
-<td><p><a href="../Page/Patty_Sheehan.md" title="wikilink">Patty Sheehan</a> (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Patty_Sheehan" title="wikilink">Patty Sheehan</a> (3)</p></td>
 <td></td>
 <td><p>275 (-9)</p></td>
 <td><p>Bethesda Country Club</p></td>
@@ -235,9 +235,9 @@ share</p></th>
 <td><p>150,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1992年LPGA錦標賽.md" title="wikilink">1992</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1992年LPGA錦標賽" title="wikilink">1992</a></p></td>
 <td><p>5月 14–17</p></td>
-<td><p><a href="../Page/Betsy_King.md" title="wikilink">Betsy King</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Betsy_King" title="wikilink">Betsy King</a></p></td>
 <td></td>
 <td><p>267 (-17)</p></td>
 <td><p>Bethesda Country Club</p></td>
@@ -245,9 +245,9 @@ share</p></th>
 <td><p>150,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1991年LPGA錦標賽.md" title="wikilink">1991</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1991年LPGA錦標賽" title="wikilink">1991</a></p></td>
 <td><p>6月 27–30</p></td>
-<td><p><a href="../Page/Meg_Mallon.md" title="wikilink">Meg Mallon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Meg_Mallon" title="wikilink">Meg Mallon</a></p></td>
 <td></td>
 <td><p>274 (-10)</p></td>
 <td><p>Bethesda Country Club</p></td>
@@ -255,9 +255,9 @@ share</p></th>
 <td><p>150,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1990年LPGA錦標賽.md" title="wikilink">1990</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1990年LPGA錦標賽" title="wikilink">1990</a></p></td>
 <td><p>7月 26–29</p></td>
-<td><p><a href="../Page/Beth_Daniel.md" title="wikilink">Beth Daniel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beth_Daniel" title="wikilink">Beth Daniel</a></p></td>
 <td></td>
 <td><p>280 (-4)</p></td>
 <td><p>Bethesda Country Club</p></td>
@@ -265,9 +265,9 @@ share</p></th>
 <td><p>150,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1989年LPGA錦標賽.md" title="wikilink">1989</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1989年LPGA錦標賽" title="wikilink">1989</a></p></td>
 <td><p>5月 18–21</p></td>
-<td><p><a href="../Page/Nancy_Lopez.md" title="wikilink">Nancy Lopez</a> (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nancy_Lopez" title="wikilink">Nancy Lopez</a> (3)</p></td>
 <td></td>
 <td><p>274 (-14)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -275,9 +275,9 @@ share</p></th>
 <td><p>75,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1988年LPGA錦標賽.md" title="wikilink">1988</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1988年LPGA錦標賽" title="wikilink">1988</a></p></td>
 <td><p>5月 19–22</p></td>
-<td><p><a href="../Page/Sherri_Turner.md" title="wikilink">Sherri Turner</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sherri_Turner" title="wikilink">Sherri Turner</a></p></td>
 <td></td>
 <td><p>281 (-7)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -285,9 +285,9 @@ share</p></th>
 <td><p>52,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1987年LPGA錦標賽.md" title="wikilink">1987</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1987年LPGA錦標賽" title="wikilink">1987</a></p></td>
 <td><p>5月 21–24</p></td>
-<td><p><a href="../Page/Jane_Geddes.md" title="wikilink">Jane Geddes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jane_Geddes" title="wikilink">Jane Geddes</a></p></td>
 <td></td>
 <td><p>275 (-13)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -295,9 +295,9 @@ share</p></th>
 <td><p>52,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1986年LPGA錦標賽.md" title="wikilink">1986</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1986年LPGA錦標賽" title="wikilink">1986</a></p></td>
 <td><p>5月 29 – 6月 1</p></td>
-<td><p><a href="../Page/Pat_Bradley_(golfer).md" title="wikilink">Pat Bradley</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pat_Bradley_(golfer)" title="wikilink">Pat Bradley</a></p></td>
 <td></td>
 <td><p>277 (-11)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -305,9 +305,9 @@ share</p></th>
 <td><p>45,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1985年LPGA錦標賽.md" title="wikilink">1985</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1985年LPGA錦標賽" title="wikilink">1985</a></p></td>
 <td><p>5月 30 – 6月 2</p></td>
-<td><p><a href="../Page/Nancy_Lopez.md" title="wikilink">Nancy Lopez</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nancy_Lopez" title="wikilink">Nancy Lopez</a> (2)</p></td>
 <td></td>
 <td><p>275 (-15)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -315,9 +315,9 @@ share</p></th>
 <td><p>37,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1984年LPGA錦標賽.md" title="wikilink">1984</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1984年LPGA錦標賽" title="wikilink">1984</a></p></td>
 <td><p>5月 31 – 6月 3</p></td>
-<td><p><a href="../Page/Patty_Sheehan.md" title="wikilink">Patty Sheehan</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Patty_Sheehan" title="wikilink">Patty Sheehan</a> (2)</p></td>
 <td></td>
 <td><p>272 (-16)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -325,9 +325,9 @@ share</p></th>
 <td><p>37,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1983年LPGA錦標賽.md" title="wikilink">1983</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1983年LPGA錦標賽" title="wikilink">1983</a></p></td>
 <td><p>6月 9–12</p></td>
-<td><p><a href="../Page/Patty_Sheehan.md" title="wikilink">Patty Sheehan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Patty_Sheehan" title="wikilink">Patty Sheehan</a></p></td>
 <td></td>
 <td><p>279 (-9)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -335,9 +335,9 @@ share</p></th>
 <td><p>30,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1982年LPGA錦標賽.md" title="wikilink">1982</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1982年LPGA錦標賽" title="wikilink">1982</a></p></td>
 <td><p>6月 10–13</p></td>
-<td><p><a href="../Page/Jan_Stephenson.md" title="wikilink">Jan Stephenson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jan_Stephenson" title="wikilink">Jan Stephenson</a></p></td>
 <td></td>
 <td><p>279 (-9)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -345,9 +345,9 @@ share</p></th>
 <td><p>30,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1981年LPGA錦標賽.md" title="wikilink">1981</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1981年LPGA錦標賽" title="wikilink">1981</a></p></td>
 <td><p>6月 11–14</p></td>
-<td><p><a href="../Page/Donna_Caponi.md" title="wikilink">Donna Caponi</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Donna_Caponi" title="wikilink">Donna Caponi</a> (2)</p></td>
 <td></td>
 <td><p>280 (-8)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -355,9 +355,9 @@ share</p></th>
 <td><p>22,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1980年LPGA錦標賽.md" title="wikilink">1980</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1980年LPGA錦標賽" title="wikilink">1980</a></p></td>
 <td><p>6月 5–8</p></td>
-<td><p><a href="../Page/Sally_Little.md" title="wikilink">Sally Little</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sally_Little" title="wikilink">Sally Little</a></p></td>
 <td></td>
 <td><p>285 (-3)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -365,9 +365,9 @@ share</p></th>
 <td><p>22,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1979年LPGA錦標賽.md" title="wikilink">1979</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1979年LPGA錦標賽" title="wikilink">1979</a></p></td>
 <td><p>6月 7–10</p></td>
-<td><p><a href="../Page/Donna_Caponi.md" title="wikilink">Donna Caponi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Donna_Caponi" title="wikilink">Donna Caponi</a></p></td>
 <td></td>
 <td><p>279 (-9)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -375,9 +375,9 @@ share</p></th>
 <td><p>22,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1978年LPGA錦標賽.md" title="wikilink">1978</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1978年LPGA錦標賽" title="wikilink">1978</a></p></td>
 <td><p>6月 8–11</p></td>
-<td><p><a href="../Page/Nancy_Lopez.md" title="wikilink">Nancy Lopez</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nancy_Lopez" title="wikilink">Nancy Lopez</a></p></td>
 <td></td>
 <td><p>275 (-13)</p></td>
 <td><p>Jack Nicklaus Sports Center</p></td>
@@ -385,9 +385,9 @@ share</p></th>
 <td><p>22,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1977年LPGA錦標賽.md" title="wikilink">1977</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1977年LPGA錦標賽" title="wikilink">1977</a></p></td>
 <td><p>6月 9–12</p></td>
-<td><p><a href="../Page/樋口久子.md" title="wikilink">樋口久子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樋口久子" title="wikilink">樋口久子</a></p></td>
 <td></td>
 <td><p>279 (-9)</p></td>
 <td><p>Bay Tree Golf Plantation</p></td>
@@ -395,9 +395,9 @@ share</p></th>
 <td><p>22,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1976年LPGA錦標賽.md" title="wikilink">1976</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1976年LPGA錦標賽" title="wikilink">1976</a></p></td>
 <td><p>5月 27–30</p></td>
-<td><p><a href="../Page/Betty_Burfeindt.md" title="wikilink">Betty Burfeindt</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Betty_Burfeindt" title="wikilink">Betty Burfeindt</a></p></td>
 <td></td>
 <td><p>287 (-5)</p></td>
 <td><p>Pine Ridge Golf Course</p></td>
@@ -405,9 +405,9 @@ share</p></th>
 <td><p>8,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1975年LPGA錦標賽.md" title="wikilink">1975</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1975年LPGA錦標賽" title="wikilink">1975</a></p></td>
 <td><p>5月 29 – 6月 1</p></td>
-<td><p><a href="../Page/Kathy_Whitworth.md" title="wikilink">Kathy Whitworth</a> (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kathy_Whitworth" title="wikilink">Kathy Whitworth</a> (3)</p></td>
 <td></td>
 <td><p>288 (-4)</p></td>
 <td><p>Pine Ridge Golf Course</p></td>
@@ -415,9 +415,9 @@ share</p></th>
 <td><p>8,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1974年LPGA錦標賽.md" title="wikilink">1974</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1974年LPGA錦標賽" title="wikilink">1974</a></p></td>
 <td><p>6月 20–23</p></td>
-<td><p><a href="../Page/Sandra_Haynie.md" title="wikilink">Sandra Haynie</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sandra_Haynie" title="wikilink">Sandra Haynie</a> (2)</p></td>
 <td></td>
 <td><p>287 (-5)</p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -425,9 +425,9 @@ share</p></th>
 <td><p>7,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1973年LPGA錦標賽.md" title="wikilink">1973</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1973年LPGA錦標賽" title="wikilink">1973</a></p></td>
 <td><p>6月 7–10</p></td>
-<td><p><a href="../Page/Mary_Mills_(golfer).md" title="wikilink">Mary Mills</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mary_Mills_(golfer)" title="wikilink">Mary Mills</a> (2)</p></td>
 <td></td>
 <td><p>288 (-4)</p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -435,9 +435,9 @@ share</p></th>
 <td><p>5,250</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1972年LPGA錦標賽.md" title="wikilink">1972</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1972年LPGA錦標賽" title="wikilink">1972</a></p></td>
 <td><p>6月 8–11</p></td>
-<td><p><a href="../Page/Kathy_Ahern.md" title="wikilink">Kathy Ahern</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kathy_Ahern" title="wikilink">Kathy Ahern</a></p></td>
 <td></td>
 <td><p>293 (+1)</p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -445,9 +445,9 @@ share</p></th>
 <td><p>7,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1971年LPGA錦標賽.md" title="wikilink">1971</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1971年LPGA錦標賽" title="wikilink">1971</a></p></td>
 <td><p>6月 10–13</p></td>
-<td><p><a href="../Page/Kathy_Whitworth.md" title="wikilink">Kathy Whitworth</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kathy_Whitworth" title="wikilink">Kathy Whitworth</a> (2)</p></td>
 <td></td>
 <td><p>288 (-4)</p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -455,9 +455,9 @@ share</p></th>
 <td><p>7,950</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1970年LPGA錦標賽.md" title="wikilink">1970</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1970年LPGA錦標賽" title="wikilink">1970</a></p></td>
 <td><p>6月 10–13</p></td>
-<td><p><a href="../Page/Shirley_Englehorn.md" title="wikilink">Shirley Englehorn</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Shirley_Englehorn" title="wikilink">Shirley Englehorn</a></p></td>
 <td></td>
 <td><p>285 (-7)<sup>PO</sup></p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -465,9 +465,9 @@ share</p></th>
 <td><p>4,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1969年LPGA錦標賽.md" title="wikilink">1969</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1969年LPGA錦標賽" title="wikilink">1969</a></p></td>
 <td><p>7月 23–27</p></td>
-<td><p><a href="../Page/Betsy_Rawls.md" title="wikilink">Betsy Rawls</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Betsy_Rawls" title="wikilink">Betsy Rawls</a> (2)</p></td>
 <td></td>
 <td><p>293 (+1)</p></td>
 <td><p>Concord Golf Course</p></td>
@@ -475,9 +475,9 @@ share</p></th>
 <td><p>5,250</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1968年LPGA錦標賽.md" title="wikilink">1968</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1968年LPGA錦標賽" title="wikilink">1968</a></p></td>
 <td><p>6月 20–23</p></td>
-<td><p><a href="../Page/Sandra_Post.md" title="wikilink">Sandra Post</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sandra_Post" title="wikilink">Sandra Post</a></p></td>
 <td></td>
 <td><p>294 (+2)<sup>PO</sup></p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -485,9 +485,9 @@ share</p></th>
 <td><p>3,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1967年LPGA錦標賽.md" title="wikilink">1967</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1967年LPGA錦標賽" title="wikilink">1967</a></p></td>
 <td><p>7月 13–16</p></td>
-<td><p><a href="../Page/Kathy_Whitworth.md" title="wikilink">Kathy Whitworth</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kathy_Whitworth" title="wikilink">Kathy Whitworth</a></p></td>
 <td></td>
 <td><p>284 (-8)</p></td>
 <td><p>Pleasant Valley Country Club</p></td>
@@ -495,9 +495,9 @@ share</p></th>
 <td><p>2,625</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1966年LPGA錦標賽.md" title="wikilink">1966</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1966年LPGA錦標賽" title="wikilink">1966</a></p></td>
 <td><p>9月 22–25</p></td>
-<td><p><a href="../Page/Gloria_Ehret.md" title="wikilink">Gloria Ehret</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gloria_Ehret" title="wikilink">Gloria Ehret</a></p></td>
 <td></td>
 <td><p>282 (-2)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -505,9 +505,9 @@ share</p></th>
 <td><p>2,475</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1965年LPGA錦標賽.md" title="wikilink">1965</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1965年LPGA錦標賽" title="wikilink">1965</a></p></td>
 <td><p>9月 23–26</p></td>
-<td><p><a href="../Page/Sandra_Haynie.md" title="wikilink">Sandra Haynie</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sandra_Haynie" title="wikilink">Sandra Haynie</a></p></td>
 <td></td>
 <td><p>279 (-5)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -515,9 +515,9 @@ share</p></th>
 <td><p>2,475</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1964年LPGA錦標賽.md" title="wikilink">1964</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1964年LPGA錦標賽" title="wikilink">1964</a></p></td>
 <td><p>10月 1–4</p></td>
-<td><p><a href="../Page/Mary_Mills_(golfer).md" title="wikilink">Mary Mills</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mary_Mills_(golfer)" title="wikilink">Mary Mills</a></p></td>
 <td></td>
 <td><p>278 (-6)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -525,9 +525,9 @@ share</p></th>
 <td><p>2,450</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1963年LPGA錦標賽.md" title="wikilink">1963</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1963年LPGA錦標賽" title="wikilink">1963</a></p></td>
 <td><p>10月 10–13</p></td>
-<td><p><a href="../Page/Mickey_Wright.md" title="wikilink">Mickey Wright</a> (4)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mickey_Wright" title="wikilink">Mickey Wright</a> (4)</p></td>
 <td></td>
 <td><p>294 (+10)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -535,9 +535,9 @@ share</p></th>
 <td><p>2,450</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1962年LPGA錦標賽.md" title="wikilink">1962</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1962年LPGA錦標賽" title="wikilink">1962</a></p></td>
 <td><p>10月 4–7</p></td>
-<td><p><a href="../Page/Judy_Kimball.md" title="wikilink">Judy Kimball</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Judy_Kimball" title="wikilink">Judy Kimball</a></p></td>
 <td></td>
 <td><p>282 (-2)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -545,9 +545,9 @@ share</p></th>
 <td><p>2,300</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1961年LPGA錦標賽.md" title="wikilink">1961</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1961年LPGA錦標賽" title="wikilink">1961</a></p></td>
 <td><p>10月 12–15</p></td>
-<td><p><a href="../Page/Mickey_Wright.md" title="wikilink">Mickey Wright</a> (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mickey_Wright" title="wikilink">Mickey Wright</a> (3)</p></td>
 <td></td>
 <td><p>287 (+3)</p></td>
 <td><p>Stardust Country Club</p></td>
@@ -555,9 +555,9 @@ share</p></th>
 <td><p>2,500</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1960年LPGA錦標賽.md" title="wikilink">1960</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1960年LPGA錦標賽" title="wikilink">1960</a></p></td>
 <td><p>7月 1–4</p></td>
-<td><p><a href="../Page/Mickey_Wright.md" title="wikilink">Mickey Wright</a> (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mickey_Wright" title="wikilink">Mickey Wright</a> (2)</p></td>
 <td></td>
 <td><p>292 (-4)</p></td>
 <td><p>Sheraton Hotel Country Club</p></td>
@@ -565,9 +565,9 @@ share</p></th>
 <td><p>2,500</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1959年LPGA錦標賽.md" title="wikilink">1959</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1959年LPGA錦標賽" title="wikilink">1959</a></p></td>
 <td><p>7月 2–5</p></td>
-<td><p><a href="../Page/Betsy_Rawls.md" title="wikilink">Betsy Rawls</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Betsy_Rawls" title="wikilink">Betsy Rawls</a></p></td>
 <td></td>
 <td><p>288 (-8)</p></td>
 <td><p>Sheraton Hotel Country Club</p></td>
@@ -575,9 +575,9 @@ share</p></th>
 <td><p>1,247</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1958年LPGA錦標賽.md" title="wikilink">1958</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1958年LPGA錦標賽" title="wikilink">1958</a></p></td>
 <td><p>6月 5–8</p></td>
-<td><p><a href="../Page/Mickey_Wright.md" title="wikilink">Mickey Wright</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mickey_Wright" title="wikilink">Mickey Wright</a></p></td>
 <td></td>
 <td><p>288 (+8)</p></td>
 <td><p>Churchill Valley Country Club</p></td>
@@ -585,9 +585,9 @@ share</p></th>
 <td><p>1,247</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1957年LPGA錦標賽.md" title="wikilink">1957</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1957年LPGA錦標賽" title="wikilink">1957</a></p></td>
 <td><p>6月 6–9</p></td>
-<td><p><a href="../Page/Louise_Suggs.md" title="wikilink">Louise Suggs</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Louise_Suggs" title="wikilink">Louise Suggs</a></p></td>
 <td></td>
 <td><p>285 (+5)</p></td>
 <td><p>Churchill Valley Country Club</p></td>
@@ -595,9 +595,9 @@ share</p></th>
 <td><p>1,316</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1956年LPGA錦標賽.md" title="wikilink">1956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1956年LPGA錦標賽" title="wikilink">1956</a></p></td>
 <td><p>6月 21–24</p></td>
-<td><p><a href="../Page/Marlene_Hagge.md" title="wikilink">Marlene Hagge</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Marlene_Hagge" title="wikilink">Marlene Hagge</a></p></td>
 <td></td>
 <td><p>291 (-9)<sup>PO</sup></p></td>
 <td><p>Forest Lake Country Club</p></td>
@@ -605,9 +605,9 @@ share</p></th>
 <td><p>1,350</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1955年LPGA錦標賽.md" title="wikilink">1955</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1955年LPGA錦標賽" title="wikilink">1955</a></p></td>
 <td><p>7月 14–17</p></td>
-<td><p><a href="../Page/Beverly_Hanson.md" title="wikilink">Beverly Hanson</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beverly_Hanson" title="wikilink">Beverly Hanson</a></p></td>
 <td></td>
 <td><p>4&amp;3</p></td>
 <td><p>Orchard Ridge Country Club</p></td>

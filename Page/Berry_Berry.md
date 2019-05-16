@@ -1,5 +1,5 @@
 《**Berry
-Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女漫画.md "wikilink")[漫画家](../Page/漫画家.md "wikilink")[日高万里所創作的](../Page/日高万里.md "wikilink")[漫画作品](../Page/漫画.md "wikilink")。
+Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女漫画.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[日高万里所創作的](../Page/日高万里.md "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
 
 ## 內容簡介
 
-[同卵雙胞胎姊妹](../Page/雙胞胎#同卵雙生.md "wikilink")·**雪乃原玖留實**和**紗紗姬**回到睽違十年的城鎮。這個城市對她們來說有著非常忌諱的過去。
+[同卵雙胞胎姊妹](https://zh.wikipedia.org/wiki/雙胞胎#同卵雙生 "wikilink")·**雪乃原玖留實**和**紗紗姬**回到睽違十年的城鎮。這個城市對她們來說有著非常忌諱的過去。
 
 玖留實和紗紗姬往高中入學式途中，發現偷拍女孩子裙底的男人。她們拚命制服那個男人後把他送到派出所。兩個少年觀察著那個情況。他們是與雙胞胎姊妹同校的**近江歌丸和近江業平**。少年從各種不同的觀點，對雙胞胎姊妹懷抱著不尋常的關心。另一方面，玖留實她們和學校好友**冰上樹里·冴木逸美**一起幫助有困擾的少女們，稱為“幫助少女的同伴活動”…。
 
@@ -60,7 +60,8 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
 
 ## 書誌情報
 
-日高萬里 《Berry Berry》白泉社〈[花與夢漫畫](../Page/花與夢漫畫.md "wikilink")〉\[3\]。
+日高萬里 《Berry
+Berry》白泉社〈[花與夢漫畫](https://zh.wikipedia.org/wiki/花與夢漫畫 "wikilink")〉\[3\]。
 
 1.  2009年8月19日第1刷發行 ISBN 978-4-592-19001-1
 2.  2010年3月19日第1刷發行 ISBN 978-4-592-19002-8
@@ -73,7 +74,7 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
   - 2010年1月，《花與夢》4號被添加了附錄的非賣品\[4\]。
   - 分配角色
       - 雪乃原玖留實 - [茅原實里](../Page/茅原實里.md "wikilink")
-      - 雪乃原紗紗姬 - [齋藤千和](../Page/齋藤千和.md "wikilink")
+      - 雪乃原紗紗姬 - [齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
       - 近江歌丸 - [小西克幸](../Page/小西克幸.md "wikilink")
       - 近江業平 - [中村悠一](../Page/中村悠一.md "wikilink")
 
@@ -89,7 +90,7 @@ Berry**》（）是[日本](../Page/日本.md "wikilink")[少女](../Page/少女
       - 冴木逸美 - [伊藤靜](../Page/伊藤靜.md "wikilink")
       - 香坂 - [石田彰](../Page/石田彰.md "wikilink")
       - 少年 - [大原崇](../Page/大原崇.md "wikilink")
-      - 小偷 - [高橋研二](../Page/高橋研二.md "wikilink")
+      - 小偷 - [高橋研二](https://zh.wikipedia.org/wiki/高橋研二 "wikilink")
 
 ## 註釋
 

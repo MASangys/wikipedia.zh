@@ -1,56 +1,57 @@
 **SUGIZO**（）是一位[日本的音樂製作人兼創作歌手](../Page/日本.md "wikilink")。目前擔任[LUNA
-SEA和](../Page/LUNA_SEA.md "wikilink")[X
-JAPAN的](../Page/X_JAPAN.md "wikilink")[吉他及](../Page/吉他.md "wikilink")[弦樂演奏](../Page/弦樂.md "wikilink")。本名杉原康弘，曾二度改名；第一次改為杉原悠，現在為杉原有音（）。出生於日本[神奈川縣](../Page/神奈川縣.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")，神奈川縣立伊勢原高中畢業。身高175cm、血型O型。在歌迷間暱稱為「」（意為「小SUGI」）。出生音樂世家，3歲開始學習[小提琴及其他樂器](../Page/小提琴.md "wikilink")。根據本人描述，「剛開始迷上搖滾樂的時候，曾和家人起了很大爭執。」，而在月之海休團期間，創設自己的唱片會社，也在自傳中提到因友人的欺騙而倒閉，而後對人生體驗更多，進而因[YOSHIKI的提議](../Page/YOSHIKI.md "wikilink")，再度他後半的音樂人生，音樂創作常涉獵多種音樂風格及類型，包括搖滾樂，電子音樂，古典樂等。曾與台灣女藝人[徐若瑄及](../Page/徐若瑄.md "wikilink")[丁小芹交往過](../Page/丁小芹.md "wikilink")。
+SEA和](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[X
+JAPAN的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[吉他及](../Page/吉他.md "wikilink")[弦樂演奏](https://zh.wikipedia.org/wiki/弦樂 "wikilink")。本名杉原康弘，曾二度改名；第一次改為杉原悠，現在為杉原有音（）。出生於日本[神奈川縣](../Page/神奈川縣.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")，神奈川縣立伊勢原高中畢業。身高175cm、血型O型。在歌迷間暱稱為「」（意為「小SUGI」）。出生音樂世家，3歲開始學習[小提琴及其他樂器](../Page/小提琴.md "wikilink")。根據本人描述，「剛開始迷上搖滾樂的時候，曾和家人起了很大爭執。」，而在月之海休團期間，創設自己的唱片會社，也在自傳中提到因友人的欺騙而倒閉，而後對人生體驗更多，進而因[YOSHIKI的提議](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，再度他後半的音樂人生，音樂創作常涉獵多種音樂風格及類型，包括搖滾樂，電子音樂，古典樂等。曾與台灣女藝人[徐若瑄及](../Page/徐若瑄.md "wikilink")[丁小芹交往過](../Page/丁小芹.md "wikilink")。
 
 SUGIZO亦以社會、政治及環境的理念而聞名，曾於表演及創作中融入反戰、反核理念。2011年日本東北發生大地震後，SUGIZO前往宮城縣石卷市參於救災活動，並積極呼籲民眾加入救災義工行列，其後發表反核作品《No
 More Nukes Play The Guitar》\[1\]。曾於2016年隨聯合國難民署前往約旦探訪敍利亞難民\[2\]\[3\]。
 
 ## 經歷
 
-  - 高中時期　和[真矢組成樂團](../Page/山口真矢.md "wikilink")「*Pinocchio*」（[小木偶之意](../Page/木偶奇遇記.md "wikilink")），擔任貝斯手。
-  - 1989年　在[INORAN和](../Page/INORAN.md "wikilink")[J的邀請下](../Page/J_\(音樂人\).md "wikilink")，組成樂團*LUNACY*。
+  - 高中時期　和[真矢組成樂團](https://zh.wikipedia.org/wiki/山口真矢 "wikilink")「*Pinocchio*」（[小木偶之意](https://zh.wikipedia.org/wiki/木偶奇遇記 "wikilink")），擔任貝斯手。
+  - 1989年　在[INORAN和](https://zh.wikipedia.org/wiki/INORAN "wikilink")[J的邀請下](https://zh.wikipedia.org/wiki/J_\(音樂人\) "wikilink")，組成樂團*LUNACY*。
   - 1992年　和Extasy Records簽約，樂團更名為**[LUNA
-    SEA](../Page/LUNA_SEA.md "wikilink")**，並發行第一張同名專輯『[LUNA
+    SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")**，並發行第一張同名專輯『[LUNA
     SEA](../Page/LUNA_SEA_\(專輯\).md "wikilink")』而正式出道。
-  - 1992年　發行第二張專輯『[IMAGE](../Page/IMAGE_\(LUNA_SEA\).md "wikilink")』。
+  - 1992年　發行第二張專輯『[IMAGE](https://zh.wikipedia.org/wiki/IMAGE_\(LUNA_SEA\) "wikilink")』。
   - 1995年　在[東京巨蛋舉辦首次演唱會](../Page/東京巨蛋.md "wikilink")。
-  - 1996年　因本身對音樂的興趣而開始主持廣播節目「ΕΛΕΥΘΕΡΙΑ（エレフセリア）」（[希臘語](../Page/希臘語.md "wikilink")；意指「自由」）。節目中介紹來自古今東西方的不同類型音樂，因SUGIZO的獨特選曲品味而大受歡迎。
+  - 1996年　因本身對音樂的興趣而開始主持廣播節目「ΕΛΕΥΘΕΡΙΑ（エレフセリア）」（[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")；意指「自由」）。節目中介紹來自古今東西方的不同類型音樂，因SUGIZO的獨特選曲品味而大受歡迎。
   - 1997年　前往英國，著手籌備自己個人的音樂企畫。
   - 1997年　7月，在單曲『LUCIFER』中首次擔任主唱。
   - 1997年　同月，在[FOOL'S
-    MATE的支持下](../Page/FOOL'S_MATE.md "wikilink")，舉行「ABSTRACT
+    MATE的支持下](https://zh.wikipedia.org/wiki/FOOL'S_MATE "wikilink")，舉行「ABSTRACT
     DAY」系列活動。在日本國內展開巡迴，並招募國內外實力派音樂家，以多様化的音樂類型交錯演出。
   - 1997年　8月，於赤坂BLITZ舉行最後一場「ABSTRACT DAY」系列巡迴的表演，並邀請他本身所景仰的音樂家出席，包含[DJ
-    KRUSH](../Page/DJ_KRUSH.md "wikilink")、[土屋昌巳](../Page/土屋昌巳.md "wikilink")、原[Japan的成員等等](../Page/Japan_\(樂團\).md "wikilink")。
+    KRUSH](https://zh.wikipedia.org/wiki/DJ_KRUSH "wikilink")、[土屋昌巳](https://zh.wikipedia.org/wiki/土屋昌巳 "wikilink")、原[Japan的成員等等](https://zh.wikipedia.org/wiki/Japan_\(樂團\) "wikilink")。
   - 1997年　11月，第一張個人原創專輯『TRUTH?』發行。邀請了[坂本龍一](../Page/坂本龍一.md "wikilink")、[Mick
-    Karn等資深音樂家參與製作](../Page/Mick_Karn.md "wikilink")。
+    Karn等資深音樂家參與製作](https://zh.wikipedia.org/wiki/Mick_Karn "wikilink")。
   - 1998年　LUNA SEA的團體活動再度展開。
-  - 1998年　3月，廣播節目*ΕΛΕΥΘΕΡΙΑ*在[BayFM電台的節目改組中宣告結束](../Page/BayFM.md "wikilink")。隔月在另一家電台[J-WAVE展開新節目](../Page/J-WAVE.md "wikilink")「EIN
+  - 1998年　3月，廣播節目*ΕΛΕΥΘΕΡΙΑ*在[BayFM電台的節目改組中宣告結束](https://zh.wikipedia.org/wiki/BayFM "wikilink")。隔月在另一家電台[J-WAVE展開新節目](../Page/J-WAVE.md "wikilink")「EIN
     SOF」。
   - 1999年　發行專輯『GRAND CROSS 1999』。參與的製作團隊有土屋昌巳、JBK等人。
   - 2000年　在亞洲巡迴和東京巨蛋的終幕表演之後，LUNA SEA宣告解散。
   - 2001年　正式的歌迷後援會「SCUZZ」成立（現為「SOUL'S MATE」）。
-  - 2001年　初次主演電影「[Soundtrack](../Page/Soundtrack.md "wikilink")」。
+  - 2001年　初次主演電影「[Soundtrack](https://zh.wikipedia.org/wiki/Soundtrack "wikilink")」。
   - 2001年　在舞台劇「垂直之夢」中擔任音樂監製的工作。
   - 2001年　成立個人音樂團隊*SUGIZO & THE SPANK YOUR JUICE*，舉辦全國巡迴。
   - 2002年　組成樂團SHAG。
   - 2003年　10月，發行第二張專輯『C:LEAR』。
   - 2004年　3月，在[Shibuya
-    O-EAST舉行現場演唱](../Page/Shibuya_O-EAST.md "wikilink")，並宣佈SUGIZO
+    O-EAST舉行現場演唱](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")，並宣佈SUGIZO
     & THE SPANK YOUR JUICE活動無期限中止。
-  - 2004年　7月，與歌手YUNA組成團體[The FLARE](../Page/The_FLARE.md "wikilink")。
+  - 2004年　7月，與歌手YUNA組成團體[The
+    FLARE](https://zh.wikipedia.org/wiki/The_FLARE "wikilink")。
   - 2005年　5月，SUGIZO策劃的NEO ASCENSION GROOVE\!\!活動開始。
   - 2006年　2月，The FLARE發行同名專輯；同年3月在涉谷O-East的表演後解散。
-  - 2006年　12月，與[YOSHIKI及](../Page/YOSHIKI.md "wikilink")[GACKT決定在](../Page/GACKT.md "wikilink")2007年開始組成新的樂團[S.K.I.N.
-    (樂團)](../Page/S.K.I.N._\(樂團\).md "wikilink")，並邀請[雅-miyavi-加入](../Page/雅-miyavi-.md "wikilink")。
+  - 2006年　12月，與[YOSHIKI及](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")[GACKT決定在](../Page/GACKT.md "wikilink")2007年開始組成新的樂團[S.K.I.N.
+    (樂團)](https://zh.wikipedia.org/wiki/S.K.I.N._\(樂團\) "wikilink")，並邀請[雅-miyavi-加入](../Page/雅-miyavi-.md "wikilink")。
   - 2007年　12月，重新編制的專輯『SPIRITUARISE』發行。
   - 2007年　12月24日，參與LUNA SEA在東京巨蛋舉辦的一夜限定演唱會。
   - 2008年　3月，參加X
-    JAPAN復活演唱會（東京巨蛋公演），接替已過世的吉他手[HIDE的位置](../Page/HIDE.md "wikilink")。
+    JAPAN復活演唱會（東京巨蛋公演），接替已過世的吉他手[HIDE的位置](https://zh.wikipedia.org/wiki/HIDE "wikilink")。
   - 2008年　4月，在[JUNO
-    REACTOR的美國巡迴演出中擔任吉他手](../Page/JUNO_REACTOR.md "wikilink")。
+    REACTOR的美國巡迴演出中擔任吉他手](https://zh.wikipedia.org/wiki/JUNO_REACTOR "wikilink")。
   - 2008年　5月4日，在紀念hide的特別演唱會「[hide memorial
-    summit](../Page/hide_memorial_summit.md "wikilink")」第二天的表演中，再次與LUNA
+    summit](https://zh.wikipedia.org/wiki/hide_memorial_summit "wikilink")」第二天的表演中，再次與LUNA
     SEA共同演出。之後繼續以吉他手的身分參與X JAPAN的表演。
   - 2008年　7月，將10年以來的獨唱活動紀錄集結成專輯『COSMOSCAPE』，正式發行。
   - 2008年　12月19日，在SHIBUYA-AX舉行個人演唱會「SUGIZO GIG 2008 ～RISE TO COSMIC

@@ -2,7 +2,7 @@
 
 ## 解說
 
-  - 日本音樂史上第一次的[12週單曲連發的第](../Page/12週單曲連發.md "wikilink")1彈。單曲封面主題為[阿拉斯加](../Page/阿拉斯加.md "wikilink")。
+  - 日本音樂史上第一次的[12週單曲連發的第](../Page/12週單曲連發.md "wikilink")1彈。單曲封面主題為[阿拉斯加](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")。
   - 本單曲為倖田首次獲得[Oricon初登場第](../Page/Oricon.md "wikilink")1名的作品。
   - 本作非5萬張限定生産作品，為本次3非限定生產中的單曲第1張。
   - B面曲「Sweet Kiss」僅收錄於此單曲。
@@ -21,7 +21,7 @@
         「music.jp」T電視廣告曲、「GemCEREY」電視廣告曲。
 2.  **Sweet Kiss**
       -
-        [LOTTE](../Page/LOTTE.md "wikilink")「ピュアホワイトガム」廣告曲。
+        [LOTTE](https://zh.wikipedia.org/wiki/LOTTE "wikilink")「ピュアホワイトガム」廣告曲。
 3.  '''you （Instrumental） '''
 4.  **Sweet Kiss （Instrumental）**
 

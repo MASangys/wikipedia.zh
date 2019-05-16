@@ -1,16 +1,19 @@
 《**Hello Mr. my yesterday**》为[Hundred Percent
-Free的第一张单曲](../Page/Hundred_Percent_Free.md "wikilink")。
+Free的第一张单曲](https://zh.wikipedia.org/wiki/Hundred_Percent_Free "wikilink")。
 
 ## 概要
 
 在以下节目中均作为片尾曲使用。（除《名侦探柯南》以外均为一月份使用）
 
-  - [读卖电视台制作](../Page/读卖电视台.md "wikilink")・[日本电视台动画](../Page/日本电视台.md "wikilink")《[名侦探柯南](../Page/名侦探柯南_\(动画\).md "wikilink")》　
+  - [读卖电视台制作](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")・[日本电视台动画](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南_\(动画\) "wikilink")》　
       - 第一次为该动画演唱歌曲。
-  - [名古屋电视台](../Page/名古屋电视台.md "wikilink")《King Kong的琐事》
-  - [長野朝日放送](../Page/長野朝日放送.md "wikilink")《情報Paradise》
-  - [Sky PerfecTV\!](../Page/Sky_PerfecTV!.md "wikilink")《MUSIC FOCUS》
-  - [金泽电视台](../Page/金泽电视台.md "wikilink")《となりのテレ金ちゃん》
+  - [名古屋电视台](https://zh.wikipedia.org/wiki/名古屋电视台 "wikilink")《King
+    Kong的琐事》
+  - [長野朝日放送](https://zh.wikipedia.org/wiki/長野朝日放送 "wikilink")《情報Paradise》
+  - [Sky
+    PerfecTV\!](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")《MUSIC
+    FOCUS》
+  - [金泽电视台](https://zh.wikipedia.org/wiki/金泽电视台 "wikilink")《となりのテレ金ちゃん》
 
 首次非自主作曲。初回盘附加DVD。
 以封面登场的Handole为DJ B-BURG的模特造型。
@@ -25,13 +28,13 @@ Free的第一张单曲](../Page/Hundred_Percent_Free.md "wikilink")。
 <table>
 <tbody>
 <tr class="odd">
-<td><p>动画《<a href="../Page/名侦探柯南_(动画).md" title="wikilink">名侦探柯南</a>》片尾曲<br />
+<td><p>动画《<a href="https://zh.wikipedia.org/wiki/名侦探柯南_(动画)" title="wikilink">名侦探柯南</a>》片尾曲<br />
 2010年1月9日 - 2010年9月11日</p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />
 <a href="../Page/BREAKERZ.md" title="wikilink">BREAKERZ</a><br />
-《<a href="../Page/光(BREAKERZ单曲).md" title="wikilink">光</a>》</p></td>
+《<a href="https://zh.wikipedia.org/wiki/光(BREAKERZ单曲)" title="wikilink">光</a>》</p></td>
 </tr>
 </tbody>
 </table>

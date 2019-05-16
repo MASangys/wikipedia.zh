@@ -1,17 +1,17 @@
 **延伸顯示能力識別**（Extended display identification
-data，簡稱EDID）是指[螢幕解析度的資料](../Page/螢幕解析度.md "wikilink")，包括廠商名稱與序號。一般EDID存在於[顯示器的](../Page/顯示器.md "wikilink")[PROM或](../Page/PROM.md "wikilink")[EEPROM內](../Page/EEPROM.md "wikilink")。一般如要讀取EDID都是透過[I2C](../Page/I2C.md "wikilink")，slave
+data，簡稱EDID）是指[螢幕解析度的資料](https://zh.wikipedia.org/wiki/螢幕解析度 "wikilink")，包括廠商名稱與序號。一般EDID存在於[顯示器的](https://zh.wikipedia.org/wiki/顯示器 "wikilink")[PROM或](https://zh.wikipedia.org/wiki/PROM "wikilink")[EEPROM內](https://zh.wikipedia.org/wiki/EEPROM "wikilink")。一般如要讀取EDID都是透過[I2C](https://zh.wikipedia.org/wiki/I2C "wikilink")，slave
 address是0x50\[1\]。目前[HDMI](../Page/HDMI.md "wikilink") 1.0 -
 1.3c使用EDID結構1.3版。
 
-許多現成的[套裝軟體都可以讀取並顯示EDID資訊](../Page/套裝軟體.md "wikilink")，像是read-edid\[2\] 和
-Powerstrip\[3\]
-可以使用於[Windows之上](../Page/Windows.md "wikilink")，又如[XFree86](../Page/XFree86.md "wikilink")
+許多現成的[套裝軟體都可以讀取並顯示EDID資訊](https://zh.wikipedia.org/wiki/套裝軟體 "wikilink")，像是read-edid\[2\]
+和 Powerstrip\[3\]
+可以使用於[Windows之上](https://zh.wikipedia.org/wiki/Windows "wikilink")，又如[XFree86](../Page/XFree86.md "wikilink")
 〔將EDID 資料輸出到log檔, 如果 verbose logging 是在 (`startx --
 -logverbose 6`)〕可以使用於Linux平台上，以及[BSD
-Unix](../Page/BSD_Unix.md "wikilink")。在Linux平台上也可以看到raw
+Unix](https://zh.wikipedia.org/wiki/BSD_Unix "wikilink")。在Linux平台上也可以看到raw
 EDID的十六進位格式，只要你執行 "xrandr --verbose"。[Mac OS
-X平台上可自然的讀取EDID資訊](../Page/Mac_OS_X.md "wikilink") (見
-/var/log/system.log or hold down Cmd-V on startup) 並加以程式化，像是
+X平台上可自然的讀取EDID資訊](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+(見 /var/log/system.log or hold down Cmd-V on startup) 並加以程式化，像是
 SwitchResX\[4\] 或 DisplayConfigX\[5\] 可以顯示其資訊。
 
 ## EDID 1.3 資料格式
@@ -172,7 +172,7 @@ SwitchResX\[4\] 或 DisplayConfigX\[5\] 可以顯示其資訊。
 
 ## 參見
 
-  - [電腦標準列表](../Page/電腦標準列表.md "wikilink")
+  - [電腦標準列表](https://zh.wikipedia.org/wiki/電腦標準列表 "wikilink")
 
 ## 注釋
 

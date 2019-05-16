@@ -7,10 +7,10 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
     在「夢中MORIMORI」及廣播節目「TOYOTA SUPER COUNTDOWN 50」（現為FRIDAY SUPER
     COUNTDOWN 50）介紹時曾將歌名錯誤介紹為「」。
   - [木村拓哉及](../Page/木村拓哉.md "wikilink")[森且行有獨唱部份](../Page/森且行.md "wikilink")，以往9張單曲都是以數人合唱或全員合唱為主，是少見的歌唱分配，自此之後的單曲也漸漸出現成員獨唱部份。森且行離隊後，由[草彅剛唱出其獨唱部份](../Page/草彅剛.md "wikilink")。
-  - 此曲是SMAP第三次在[紅白歌合戰出場的表演歌曲](../Page/紅白歌合戰.md "wikilink")。\[2\]
+  - 此曲是SMAP第三次在[紅白歌合戰出場的表演歌曲](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。\[2\]
   - 此曲有數個版本，在編曲方面有少些變化。各個「$10」版本分別收錄在1994年2月2日發售的《[SMAP
-    005](../Page/SMAP_005.md "wikilink")》、1995年1月1日發售的《[Cool](../Page/Cool.md "wikilink")》、1995年11月22日發售的《[BOO](../Page/BOO_\(SMAP專輯\).md "wikilink")》、2001年3月23日發售的《[Smap
-    Vest](../Page/Smap_Vest.md "wikilink")》，B面歌曲收錄在1995年1月1日發售的《[Cool](../Page/Cool.md "wikilink")》。
+    005](https://zh.wikipedia.org/wiki/SMAP_005 "wikilink")》、1995年1月1日發售的《[Cool](https://zh.wikipedia.org/wiki/Cool "wikilink")》、1995年11月22日發售的《[BOO](https://zh.wikipedia.org/wiki/BOO_\(SMAP專輯\) "wikilink")》、2001年3月23日發售的《[Smap
+    Vest](https://zh.wikipedia.org/wiki/Smap_Vest "wikilink")》，B面歌曲收錄在1995年1月1日發售的《[Cool](https://zh.wikipedia.org/wiki/Cool "wikilink")》。
 
 ## 収録曲
 

@@ -1,5 +1,5 @@
 《**everybody goes -向沒有秩序的現代Drop
-Kick-**》（），是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")7張[單曲](../Page/單曲.md "wikilink")。1994年12月12日發行。
+Kick-**》（），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1994年12月12日發行。
 
 ## 簡介
 

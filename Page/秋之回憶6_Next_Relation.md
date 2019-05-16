@@ -1,5 +1,5 @@
 《**秋之回憶6～Next
-Relation～**》是[5pb.发售的](../Page/5pb..md "wikilink")[Xbox360用](../Page/Xbox360.md "wikilink")[恋愛冒险游戏](../Page/恋愛冒险游戏.md "wikilink")。[CERO的评级为B级适合](../Page/CERO.md "wikilink")12岁以上玩家。本作是[秋之回忆系列的第](../Page/秋之回忆系列.md "wikilink")6作后传。采用了与11eyes
+Relation～**》是[5pb.发售的](../Page/5pb..md "wikilink")[Xbox360用](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")[恋愛冒险游戏](https://zh.wikipedia.org/wiki/恋愛冒险游戏 "wikilink")。[CERO的评级为B级适合](https://zh.wikipedia.org/wiki/CERO "wikilink")12岁以上玩家。本作是[秋之回忆系列的第](https://zh.wikipedia.org/wiki/秋之回忆系列 "wikilink")6作后传。采用了与11eyes
 CrossOver（Xbox 360）相同的AVG游戏系统，同时搭载了用语解说。
 
 ## 外部链接

@@ -1,6 +1,6 @@
 《**ROOM
-NO.1301**》是一部由日本作家[新井輝所寫的](../Page/新井輝.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房發行](../Page/富士見書房.md "wikilink")，全11冊，另有短篇4冊。中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")。此外亦有推出[廣播劇CD](../Page/廣播劇CD.md "wikilink")\[1\]
-和[漫畫](../Page/漫畫.md "wikilink")\[2\] 版本。
+NO.1301**》是一部由日本作家[新井輝所寫的](https://zh.wikipedia.org/wiki/新井輝 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，日文版由[富士見書房發行](../Page/富士見書房.md "wikilink")，全11冊，另有短篇4冊。中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")。此外亦有推出[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")\[1\]
+和[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[2\] 版本。
 
 ## 故事簡介
 

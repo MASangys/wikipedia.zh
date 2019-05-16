@@ -1,11 +1,11 @@
-**保时捷Boxster**是[保時捷公司的一款双门](../Page/保時捷.md "wikilink")[雙座敞篷](../Page/雙座敞篷車.md "wikilink")[跑车](../Page/跑车.md "wikilink")，引擎採[中置後驅設計](../Page/中置後驅.md "wikilink")，最早以概念车形式亮相于[北美车展展出](../Page/底特律車展.md "wikilink")。
+**保时捷Boxster**是[保時捷公司的一款双门](https://zh.wikipedia.org/wiki/保時捷 "wikilink")[雙座敞篷](../Page/雙座敞篷車.md "wikilink")[跑车](../Page/跑车.md "wikilink")，引擎採[中置後驅設計](../Page/中置後驅.md "wikilink")，最早以概念车形式亮相于[北美车展展出](../Page/底特律車展.md "wikilink")。
 
 第一代量产车（代号986）发布于1996年，第二代产品发布于2004年，稱987。而2012年，則發佈了第三代，型號為981。2016年，發表了第四代，型號718，使用了渦輪增壓，因此性能大幅提升，而本系列的固定車頂版本稱[卡曼](../Page/保時捷卡曼.md "wikilink")。
 
 ## 第一代（1996-2003）
 
 1996年發佈第一代Boxster，又稱作「986」，由荷蘭籍汽車設計師Harm
-Lagaay所炮製，使用2.5公升[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")，並配備五速[自動變速器](../Page/自動變速器.md "wikilink")、五速[手動變速器和六速手動變速器](../Page/手動變速器.md "wikilink")。
+Lagaay所炮製，使用2.5公升[水平對臥六缸引擎](../Page/水平對臥六缸引擎.md "wikilink")，並配備五速[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")、五速[手動變速器和六速手動變速器](../Page/手動變速器.md "wikilink")。
 
 到了2000年，引擎容積被提升為2.7公升。
 

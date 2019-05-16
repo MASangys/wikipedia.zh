@@ -23,7 +23,7 @@ Corporation取得的技術取代Graffiti，並改名Grafiti 2。但不少人覺�
 ## 歷史
 
 Graffiti是由Palm computing 的Jeff
-Hawkins研發出的，他認為使用者會願意學習Graffiti，就像人們願意學習[盲打一樣](../Page/盲打.md "wikilink")。在1994年，Graffiti使用在當時推出的[PDA](../Page/PDA.md "wikilink")，Palm上。同時期也有運行在Apple
+Hawkins研發出的，他認為使用者會願意學習Graffiti，就像人們願意學習[盲打一樣](https://zh.wikipedia.org/wiki/盲打 "wikilink")。在1994年，Graffiti使用在當時推出的[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")，Palm上。同時期也有運行在Apple
 的Newton 上的版本，在Newton使用者中大受歡迎。
 
 現在，Graffiti在多種平台上也有相對應的版本。Windows mobile 平台的版本稱為"Block
@@ -35,7 +35,7 @@ CO., LTD）發放運行於Android上的Graffiti非付費版，並且加上日文
 ## 參見
 
   - [Palm](../Page/Palm.md "wikilink")
-  - [掌上电脑](../Page/掌上电脑.md "wikilink")
+  - [掌上电脑](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")
   - [Apple Newton](../Page/Apple_Newton.md "wikilink")
   - [Android](../Page/Android.md "wikilink")
 

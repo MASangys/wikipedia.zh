@@ -40,7 +40,7 @@ happiness & love」，CD+2DVD為限定生產盤，並收錄所有附增項目。
 
 ## 相關條目
 
-[分類:精選輯](../Page/分類:精選輯.md "wikilink")
+[分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")

@@ -1,5 +1,5 @@
 「**melody～SOUNDS
-REAL～**」為[絢香於](../Page/絢香.md "wikilink")2006年5月10日之2nd[單曲](../Page/單曲.md "wikilink")。
+REAL～**」為[絢香於](../Page/絢香.md "wikilink")2006年5月10日之2nd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -26,7 +26,7 @@ voice](../Page/Real_voice.md "wikilink")」）
   - [First
     Message](../Page/First_Message.md "wikilink")（\#1,\#2以及\#4的普通音源）
   - [ayaka's History
-    2006-2009](../Page/ayaka's_History_2006-2009.md "wikilink")（\#1（Disc1）,\#2（Disc2））
+    2006-2009](https://zh.wikipedia.org/wiki/ayaka's_History_2006-2009 "wikilink")（\#1（Disc1）,\#2（Disc2））
 
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 [Category:絢香歌曲](https://zh.wikipedia.org/wiki/Category:絢香歌曲 "wikilink")

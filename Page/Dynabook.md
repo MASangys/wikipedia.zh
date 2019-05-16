@@ -1,9 +1,9 @@
 **Dynabook**是[艾伦·凯於](../Page/艾伦·凯.md "wikilink")1968年所提出的電子書的概念，Alan Kay
 想像這是一台可以帶著跑的電腦。
 
-艾伦·凯是[全錄](../Page/全錄.md "wikilink")[帕罗奥多研究中心的一位研究員](../Page/帕罗奥多研究中心.md "wikilink")，他所描繪的Dyna
+艾伦·凯是[全錄](https://zh.wikipedia.org/wiki/全錄 "wikilink")[帕罗奥多研究中心的一位研究員](https://zh.wikipedia.org/wiki/帕罗奥多研究中心 "wikilink")，他所描繪的Dyna
 Book主要使用者是小孩，幫助小孩學習。為了發展Dynabook,
-艾倫甚至發明了[Smalltalk编程语言](../Page/Smalltalk.md "wikilink")，並發展出圖形使用者介面，即是蘋果[麥金塔電腦的原型](../Page/麥金塔電腦.md "wikilink")。
+艾倫甚至發明了[Smalltalk编程语言](../Page/Smalltalk.md "wikilink")，並發展出圖形使用者介面，即是蘋果[麥金塔電腦的原型](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")。
 
 ## 外部連結
 
@@ -11,7 +11,7 @@ Book主要使用者是小孩，幫助小孩學習。為了發展Dynabook,
     work](https://web.archive.org/web/20101121020946/http://www.artmuseum.net/w2vr/archives/Kay/01_Dynabook.html)
   - [History of Notebook PC
     "Dynabook"](https://web.archive.org/web/20100902134130/http://museum.toshiba.co.jp/history/1goki/1986pc.html),
-    [Toshiba](../Page/Toshiba.md "wikilink")
+    [Toshiba](https://zh.wikipedia.org/wiki/Toshiba "wikilink")
   - [From the Dynabook to Squeak - A Study in
     Survivals](https://archive.is/20121204161734/http://thinkubator.ccsp.sfu.ca/Dynabook)
   - [The World in your Own Notebook. A scanned magazine article from The
@@ -26,7 +26,8 @@ Book主要使用者是小孩，幫助小孩學習。為了發展Dynabook,
   - [Did Steve Jobs Steal The iPad? Genius Inventor Alan Kay Reveals
     All](http://www.tomshardware.com/news/alan-kay-steve-jobs-ipad-iphone,10209.html).
     Wolfgang Gruener. [Tom's
-    Hardware](../Page/Tom's_Hardware.md "wikilink"). April 17, 2010.
+    Hardware](https://zh.wikipedia.org/wiki/Tom's_Hardware "wikilink").
+    April 17, 2010.
 
 ## 參考書目
 

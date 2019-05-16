@@ -1,14 +1,14 @@
-[Nana](../Page/林珍兒.md "wikilink"){{·}}[E-Young](../Page/E-Young.md "wikilink"){{·}}[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")
+[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink"){{·}}[E-Young](https://zh.wikipedia.org/wiki/E-Young "wikilink"){{·}}[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")
 |過往成員 =
-[小英](../Page/劉小英.md "wikilink"){{·}}{{·}}[嘉熙](../Page/朴嘉熙.md "wikilink"){{·}}[珠妍](../Page/李周妍.md "wikilink"){{·}}[正雅](../Page/正雅.md "wikilink"){{·}}[U-ie](../Page/U-ie.md "wikilink"){{·}}[Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")
+[小英](../Page/劉小英.md "wikilink"){{·}}{{·}}[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink"){{·}}[珠妍](../Page/李周妍.md "wikilink"){{·}}[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink"){{·}}[U-ie](https://zh.wikipedia.org/wiki/U-ie "wikilink"){{·}}[Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")
 }}
 
 **After
-School**（；，在日本以**AFTERSCHOOL**名義活動），為[韓國](../Page/韓國.md "wikilink")[Pledis娛樂公司旗下的女子流行音樂團體](../Page/Pledis娛樂.md "wikilink")，她們亦是唯一具有畢業及入學制度的韓國團體，每次發表新作時都隨之有成員的變化。出道時成員包含[嘉熙](../Page/朴嘉熙.md "wikilink")、[正雅](../Page/正雅.md "wikilink")、[珠妍](../Page/珠妍.md "wikilink")、[小英](../Page/劉小英.md "wikilink")、，而目前成員為[Raina](../Page/Raina.md "wikilink")、[Nana](../Page/林珍兒.md "wikilink")、[E-Young和](../Page/E-Young.md "wikilink")[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")。
+School**（；，在日本以**AFTERSCHOOL**名義活動），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂公司旗下的女子流行音樂團體](../Page/Pledis娛樂.md "wikilink")，她們亦是唯一具有畢業及入學制度的韓國團體，每次發表新作時都隨之有成員的變化。出道時成員包含[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、，而目前成員為[Raina](../Page/Raina.md "wikilink")、[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")、[E-Young和](https://zh.wikipedia.org/wiki/E-Young "wikilink")[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")。
 
 After
 School最早在2008年與同門藝人[孫淡妃一同亮相過](../Page/孫淡妃.md "wikilink")。2009年1月17日，以首張單曲《New
-Schoolgirl》正式出道。2009年4月，[U-ie加入團體](../Page/U-ie.md "wikilink")，並發行數位單曲《Diva》。2009年10月，小英因健康問題而畢業，Raina和Nana隨之加入，其後發行第二張單曲《因為你》（），成為團體首張在韓國音樂節目上拿到一位的單曲。2010年3月加入了新成員Lizzy，並發行第三張單曲《Bang\!》。同年6月推出由三位成員Raina、Nana及Lizzy所組成的子團體[橙子焦糖](../Page/橙子焦糖.md "wikilink")。到了年底12月31日公開第九位新成員E-Young，隔年2011年4月28日發行了第一張正規專輯《Virgin》，在结束正规一辑主打歌的宣傳後，成員Bekah決定於同年7月從After
+Schoolgirl》正式出道。2009年4月，[U-ie加入團體](https://zh.wikipedia.org/wiki/U-ie "wikilink")，並發行數位單曲《Diva》。2009年10月，小英因健康問題而畢業，Raina和Nana隨之加入，其後發行第二張單曲《因為你》（），成為團體首張在韓國音樂節目上拿到一位的單曲。2010年3月加入了新成員Lizzy，並發行第三張單曲《Bang\!》。同年6月推出由三位成員Raina、Nana及Lizzy所組成的子團體[橙子焦糖](../Page/橙子焦糖.md "wikilink")。到了年底12月31日公開第九位新成員E-Young，隔年2011年4月28日發行了第一張正規專輯《Virgin》，在结束正规一辑主打歌的宣傳後，成員Bekah決定於同年7月從After
 School畢業。2012年4月10日公開新成員佳恩，同年6月5日成員嘉熙宣佈畢業，其後After
 School於6月21日發行第五張韓國單曲《Flashback》回歸。2013年6月13日，第六張韓國單曲《初戀》（첫사랑）發行。2014年12月31日珠妍與[Pledis娛樂合約到期](../Page/Pledis娛樂.md "wikilink")，自然地從組合中畢業。2016年1月28日正雅與[Pledis娛樂合約到期](../Page/Pledis娛樂.md "wikilink")，自動從組合中畢業。2017年5月31日U-ie宣布從After
 School畢業，而後轉至Yuleum娛樂。2018年5月1日Lizzy宣布從After School畢業。
@@ -20,65 +20,65 @@ School畢業，而後轉至Yuleum娛樂。2018年5月1日Lizzy宣布從After Sch
 ### 出道前
 
 After
-School的隊長[朴嘉熙](../Page/朴嘉熙.md "wikilink")，早在2000年已開始擔任[SM娛樂與](../Page/SM娛樂.md "wikilink")[YG娛樂旗下許多知名藝人的舞者](../Page/YG娛樂.md "wikilink")，當中包括[DJ
+School的隊長[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")，早在2000年已開始擔任[SM娛樂與](../Page/SM娛樂.md "wikilink")[YG娛樂旗下許多知名藝人的舞者](../Page/YG娛樂.md "wikilink")，當中包括[DJ
 DOC及](../Page/DJ_DOC.md "wikilink")[寶兒等](../Page/寶兒.md "wikilink")。她與寶兒的合作長達三年。2006年左右，經過超過五年的專業舞者生涯後，嘉熙決心出道成為歌手。她聯絡舞者時代認識的[寶兒前經紀人](../Page/寶兒.md "wikilink")（現Pledis代表人），經過重重困難的兩年後，團體的出道終於定案。
 
 ### 2009年
 
-2008年12月29日，初始的五名成員[嘉熙](../Page/朴嘉熙.md "wikilink")、[正雅](../Page/正雅.md "wikilink")、[珠妍](../Page/珠妍.md "wikilink")、[小英](../Page/劉小英.md "wikilink")、在[SBS年末音樂節目上](../Page/SBS_\(韓國\).md "wikilink")，與[孫淡妃一同演出作品](../Page/孫淡妃.md "wikilink")《Play
-Girlz》。出道前，公司表示團體的音樂風格深受美國團體[小野貓的影響](../Page/小野貓.md "wikilink")。\[1\]2009年1月15日，發表了出道單曲《New
+2008年12月29日，初始的五名成員[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、在[SBS年末音樂節目上](../Page/SBS_\(韓國\).md "wikilink")，與[孫淡妃一同演出作品](../Page/孫淡妃.md "wikilink")《Play
+Girlz》。出道前，公司表示團體的音樂風格深受美國團體[小野貓的影響](https://zh.wikipedia.org/wiki/小野貓 "wikilink")。\[1\]2009年1月15日，發表了出道單曲《New
 Schoolgirl》，主打曲為〈AH〉，曲風為重節奏的快歌與嘻哈。同日公司在Gom
 TV發表了一段30秒的預告短片，瀏覽量在一天內達到10萬次。1月17日，After
 School在MBC音樂節目《音樂中心》首次現場登台演出。\[2\]
 
-2009年4月，團隊加入新成員[U-ie](../Page/U-ie.md "wikilink")\[3\]\[4\]</ref>\[5\]</ref>，並發行數位單曲《DIVA》。[U-ie之後演出了許多人氣劇集](../Page/U-ie.md "wikilink")，成為有名的新生代演員。5月21日，發表數位單曲《Dream
-Girl》，本曲是翻唱[早安少女組的名曲](../Page/早安少女組.md "wikilink")〈Love
+2009年4月，團隊加入新成員[U-ie](https://zh.wikipedia.org/wiki/U-ie "wikilink")\[3\]\[4\]</ref>\[5\]</ref>，並發行數位單曲《DIVA》。[U-ie之後演出了許多人氣劇集](https://zh.wikipedia.org/wiki/U-ie "wikilink")，成為有名的新生代演員。5月21日，發表數位單曲《Dream
+Girl》，本曲是翻唱[早安少女組的名曲](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")〈Love
 Machine〉。同年7月，與[孫淡妃合作單曲](../Page/孫淡妃.md "wikilink")《Amoled》，亦是[三星同期推出的同名款手機廣告歌曲](../Page/三星電子.md "wikilink")\[6\]</ref>。
 
-2009年10月29日，成員[小英因健康問題離團](../Page/劉小英.md "wikilink")，其後增加兩名新成員[Raina和](../Page/Raina.md "wikilink")[Nana](../Page/Nana_\(南韓藝人\).md "wikilink")，成為7人團體。11月25日，新陣容的After
+2009年10月29日，成員[小英因健康問題離團](../Page/劉小英.md "wikilink")，其後增加兩名新成員[Raina和](../Page/Raina.md "wikilink")[Nana](https://zh.wikipedia.org/wiki/Nana_\(南韓藝人\) "wikilink")，成為7人團體。11月25日，新陣容的After
 School發表了第二張單曲《因為你》（너 때문에）\[7\]</ref>\[8\] </ref> 。《因為你》與前作《New
-Schoolgirl》的年輕運動風概念大為不同，除較趨於成熟風格外，也包含了更多樣化的主題。歌曲錄影帶在11月30日公佈上網，發行三日後已登上許多排行榜冠軍，並獲得三周SBS《[人氣歌謠](../Page/韓國人氣歌謠.md "wikilink")》第一位\[9\]</ref>\[10\]\[11\]\[12\]。《因為你》之後還推出數位單曲混音版本\[13\]
-</ref>，12月20日在《[人氣歌謠](../Page/韓國人氣歌謠.md "wikilink")》首次得冠時，成員們落淚表示「這是出道整整一年來最開心的一刻。」其後，團體更獲得了首爾歌謠大賞新人獎與Billboard
+Schoolgirl》的年輕運動風概念大為不同，除較趨於成熟風格外，也包含了更多樣化的主題。歌曲錄影帶在11月30日公佈上網，發行三日後已登上許多排行榜冠軍，並獲得三周SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》第一位\[9\]</ref>\[10\]\[11\]\[12\]。《因為你》之後還推出數位單曲混音版本\[13\]
+</ref>，12月20日在《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》首次得冠時，成員們落淚表示「這是出道整整一年來最開心的一刻。」其後，團體更獲得了首爾歌謠大賞新人獎與Billboard
 Japan Music Awards 2009特別獎\[14\]\[15\]。在完成後續曲〈When I
 Fall〉的演出後，該專輯的宣傳亦告一段落。
 
 ### 2010年
 
 2010年3月15日，After
-School透過官網公開了她們在第三張單曲《BANG\!》（뱅）的造型，並發表加入新成員[Lizzy的消息](../Page/Lizzy.md "wikilink")\[16\]</ref>，使After
+School透過官網公開了她們在第三張單曲《BANG\!》（뱅）的造型，並發表加入新成員[Lizzy的消息](https://zh.wikipedia.org/wiki/Lizzy "wikilink")\[16\]</ref>，使After
 School成為8人團體。3月25日《BANG\!》（뱅）發行，本作氣勢甚為強烈，並搭配行進樂隊型的現場擊鼓演出，以韓國女團來說是非常特殊的風格。\[17\]
 
 6月，公司宣布After
-School將出子團體，團體名為「[橙子焦糖](../Page/橙子焦糖.md "wikilink")」，由年紀最輕的[Nana](../Page/林珍兒.md "wikilink")、[Raina和](../Page/Raina.md "wikilink")[Lizzy三人組成](../Page/Lizzy.md "wikilink")。\[18\]橙子焦糖以青春、純真和可愛的形象示人，與以往After
+School將出子團體，團體名為「[橙子焦糖](../Page/橙子焦糖.md "wikilink")」，由年紀最輕的[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")、[Raina和](../Page/Raina.md "wikilink")[Lizzy三人組成](https://zh.wikipedia.org/wiki/Lizzy "wikilink")。\[18\]橙子焦糖以青春、純真和可愛的形象示人，與以往After
 School成熟強悍的風格不同。6月17日，[Orange
-Caramel首張迷你專輯](../Page/Orange_Caramel.md "wikilink")《魔法少女》（마법소녀）發行。曲風為可愛型，但又融合了韓國傳統演歌的風格。
+Caramel首張迷你專輯](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")《魔法少女》（마법소녀）發行。曲風為可愛型，但又融合了韓國傳統演歌的風格。
 
 7月6日MBC every1台首播《Play Girlz School》，After
 School擔任此節目的主持人，在節目內容中學習如何享受時尚潮流人生，並展現真實多樣的日常生活。
 11月19日，[Orange
-Caramel第二張迷你專輯](../Page/Orange_Caramel.md "wikilink")《Aing》發行。
+Caramel第二張迷你專輯](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")《Aing》發行。
 
 12月7日，After School發行《Happy Pledis》首張慈善專輯，主打曲為〈LOVE LOVE
-LOVE〉，因公司給予假期而沒有參加專輯制作。12月31日，在年末節目MBC歌謠大戰上，新成員[E-Young首次亮相](../Page/E-Young.md "wikilink")，現場演奏了一段電吉他。\[19\]
+LOVE〉，因公司給予假期而沒有參加專輯制作。12月31日，在年末節目MBC歌謠大戰上，新成員[E-Young首次亮相](https://zh.wikipedia.org/wiki/E-Young "wikilink")，現場演奏了一段電吉他。\[19\]
 
 ### 2011年
 
-2月14日，隊長[嘉熙發行首張個人迷你專輯](../Page/朴嘉熙.md "wikilink")《回來吧
+2月14日，隊長[嘉熙發行首張個人迷你專輯](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")《回來吧
 壞男人》，展開單獨的宣傳活動。3月23日，After
 School與日本天后[安室奈美惠合唱歌曲](../Page/安室奈美惠.md "wikilink")〈Make
 It Happen〉\[20\]，收錄在安室的精選輯《Checkmate！》中\[21\]。3月31日，子團體[Orange
-Caramel發行第一張數位單曲](../Page/Orange_Caramel.md "wikilink")《Bangkok
-City》。到了4月28日，包括新成員[E-Young共](../Page/E-Young.md "wikilink")9名成員的After
-School發行首張正規專輯名稱為《Virgin》\[22\]\[23\]\[24\]\[25\]。結束正規專輯主打歌宣傳後，成員[U-ie於](../Page/金幽珍.md "wikilink")6月21日推出個人首張數位單曲《Le
+Caramel發行第一張數位單曲](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")《Bangkok
+City》。到了4月28日，包括新成員[E-Young共](https://zh.wikipedia.org/wiki/E-Young "wikilink")9名成員的After
+School發行首張正規專輯名稱為《Virgin》\[22\]\[23\]\[24\]\[25\]。結束正規專輯主打歌宣傳後，成員[U-ie於](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")6月21日推出個人首張數位單曲《Le
 Coq Golf Collaboration,U-ie的SokSokSok》（르꼬끄골프 콜라보레이션,유이의
 쏙쏙쏙），則決定7月離開After School，回去夏威夷完成她設計師的夢想。\[26\]
 
 7月11日所屬經紀公司表示：After School將八位成員平分成性感強烈風格的[A.S.
-Red和清純甜美風格的](../Page/A.S._Red.md "wikilink")[A.S.
-Blue兩隊](../Page/A.S._Blue.md "wikilink")。[A.S.
-Red隊裡有](../Page/A.S._Red.md "wikilink")[嘉熙](../Page/嘉熙_\(歌手\).md "wikilink")、[正雅](../Page/正雅.md "wikilink")、[U-ie和](../Page/金幽珍.md "wikilink")[Nana](../Page/林珍兒.md "wikilink")，主打歌〈**In
+Red和清純甜美風格的](https://zh.wikipedia.org/wiki/A.S._Red "wikilink")[A.S.
+Blue兩隊](https://zh.wikipedia.org/wiki/A.S._Blue "wikilink")。[A.S.
+Red隊裡有](https://zh.wikipedia.org/wiki/A.S._Red "wikilink")[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[U-ie和](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")，主打歌〈**In
 The Night Sky**〉（밤 하늘에）由[勇敢兄弟作曲](../Page/勇敢兄弟.md "wikilink")；[A.S.
-Blue隊則有](../Page/A.S._Blue.md "wikilink")[珠妍](../Page/李周妍.md "wikilink")、[Raina](../Page/吳慧潾.md "wikilink")、[Lizzy和](../Page/朴修映.md "wikilink")[E-Young](../Page/E-Young.md "wikilink")，主打歌〈**Wonder
+Blue隊則有](https://zh.wikipedia.org/wiki/A.S._Blue "wikilink")[珠妍](../Page/李周妍.md "wikilink")、[Raina](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink")、[Lizzy和](https://zh.wikipedia.org/wiki/朴修映 "wikilink")[E-Young](https://zh.wikipedia.org/wiki/E-Young "wikilink")，主打歌〈**Wonder
 Boy**〉（원더보이）由[趙英秀打造](../Page/趙英秀.md "wikilink")，這兩個分隊要在7月20日同一天推出各自的單曲，彼此進行競爭。\[27\]\[28\]
 而After
 School也開始進軍日本，7月17日在日本东京赤坂BLITZ舉行首場單獨公演，吸引了五萬人搶三千張門票，一分鐘即銷售一空。\[29\]8月17日发售日本出道单曲《BANG\!》，當天就登上Oricon榜第六名\[30\]。
@@ -86,16 +86,16 @@ School也開始進軍日本，7月17日在日本东京赤坂BLITZ舉行首場單
 ### 2012年
 
 4月27日、4月28日、4月30日，After
-School分別於[東京](../Page/東京.md "wikilink")、[愛知](../Page/愛知.md "wikilink")、[大阪](../Page/大阪.md "wikilink")，舉行《After
+School分別於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[愛知](https://zh.wikipedia.org/wiki/愛知 "wikilink")、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")，舉行《After
 school First Japan Tour 2012 - PLAYGIRLZ
 -》(第一次日本巡迴演唱會)，並且在4月30日的大阪場進行網路直播，吸引超過三萬人同時觀賞。After
 School於這次巡迴演唱會中，演唱了尚未正式發行的日文單曲歌曲〈Dilly Dally〉以及〈Lady
 Luck〉。除此之外，尚未正式出道的新成員[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")\[31\]也參與了此次演出中的〈Let's
 Do
-It〉和〈Bang\!〉，而成員[E-Young也在中場時](../Page/E-Young.md "wikilink")，演奏了她的Guitar
+It〉和〈Bang\!〉，而成員[E-Young也在中場時](https://zh.wikipedia.org/wiki/E-Young "wikilink")，演奏了她的Guitar
 Solo。
 
-6月5日宣布成員[嘉熙在結束](../Page/嘉熙_\(歌手\).md "wikilink")6月17日日本東京的演唱會後，不會參與6月21日發行的第五張韓文單曲，並於8月12日韓國第三次舉辦的Fan
+6月5日宣布成員[嘉熙在結束](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink")6月17日日本東京的演唱會後，不會參與6月21日發行的第五張韓文單曲，並於8月12日韓國第三次舉辦的Fan
 Meeting上從After School畢業，開始以個人單飛的形式活動。\[32\]\[33\]
 
 6月11日，Pledis官方公開了After
@@ -120,7 +120,7 @@ Japan Tour 2012 -PLAYGIRLZ-》。
 School主持並任命為美容編輯，她們必須親自訪問專家介紹美容資訊。\[45\]
 
 3月19日After School第二張日文專輯《[Dress to
-kill](../Page/Dress_to_kill.md "wikilink")》發行，專輯邀請到大澤伸一、世界級DJ
+kill](https://zh.wikipedia.org/wiki/Dress_to_kill "wikilink")》發行，專輯邀請到大澤伸一、世界級DJ
 NERVO所屬的製作團隊FUTURE
 UNISON等豪華製作人參與製作。5月31日到日本舉辦以學校生活為主題的「AFTERSCHOOL学園祭」公演，表演內容分為「授業編」和「放課後編」，當天共演唱六首日文歌曲。\[46\]
 
@@ -140,8 +140,9 @@ BEST》，接著後天(3月20日)在東京キネマ倶楽部舉辦《CLUB
 放課後 -AFTERSCHOOL BEST RELEASE PARTY\!》公演，活動除了進行猜圖遊戲、餵食對決、現場Call
 in對決外，共演唱四首歌曲，此次表演也在Nicovideo網站進行LIVE直播，當日線上觀看人數高達六萬人。\[50\]
 
-2015年6月5日佳恩以[DJ身分個人出道](../Page/DJ.md "wikilink")，出席首爾Walkerhill場地舉辦的《BLACK
-FRIDAY PARTY》活動，作為首次[DJ秀表演](../Page/DJ.md "wikilink")。\[51\]
+2015年6月5日佳恩以[DJ身分個人出道](https://zh.wikipedia.org/wiki/DJ "wikilink")，出席首爾Walkerhill場地舉辦的《BLACK
+FRIDAY
+PARTY》活動，作為首次[DJ秀表演](https://zh.wikipedia.org/wiki/DJ "wikilink")。\[51\]
 
 ### 2016年
 
@@ -160,21 +161,23 @@ FRIDAY PARTY》活動，作為首次[DJ秀表演](../Page/DJ.md "wikilink")。\[
 2018年4月30日，Lizzy與經紀公司Pledis專屬合約已經期滿，因此自動退出After
 School，並離開Pledis，但未退出子團Orange Caramel。
 
-2018年5月，佳恩確定出演《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》。
+2018年5月，佳恩確定出演《[PRODUCE
+48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》。
 
-2018年6月，佳恩在《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》提到After
+2018年6月，佳恩在《[PRODUCE
+48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》提到After
 School尚未解散。
 
 ## 成員資料
 
-| 現任成員列表\[55\]                    |
-| ------------------------------- |
-| 藝名\[56\]                        |
-| 中文                              |
-| [萊娜](../Page/吳慧潾.md "wikilink") |
-| [娜娜](../Page/林珍兒.md "wikilink") |
-| [俐英](../Page/盧俐英.md "wikilink") |
-| [佳恩](../Page/李佳恩.md "wikilink") |
+| 現任成員列表\[55\]                                       |
+| -------------------------------------------------- |
+| 藝名\[56\]                                           |
+| 中文                                                 |
+| [萊娜](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink") |
+| [娜娜](https://zh.wikipedia.org/wiki/林珍兒 "wikilink") |
+| [俐英](https://zh.wikipedia.org/wiki/盧俐英 "wikilink") |
+| [佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink") |
 
 <table>
 <thead>
@@ -196,7 +199,7 @@ School尚未解散。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朴嘉熙.md" title="wikilink">嘉熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴嘉熙" title="wikilink">嘉熙</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李周妍.md" title="wikilink">珠妍</a></p></td>
@@ -205,7 +208,7 @@ School尚未解散。
 <td><p><a href="../Page/廷娥.md" title="wikilink">正雅</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金幽珍.md" title="wikilink">U-ie</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金幽珍" title="wikilink">U-ie</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Lizzy_(韓國歌手).md" title="wikilink">莉茲</a></p></td>
@@ -286,23 +289,23 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/橙子焦糖.md" title="wikilink">橙子焦糖</a></strong></p></td>
-<td><p><small> <a href="../Page/吳慧潾.md" title="wikilink">Raina</a><br />
-<a href="../Page/林珍兒.md" title="wikilink">Nana</a> </small></p></td>
-<td><p><a href="../Page/吳慧潾.md" title="wikilink">Raina</a></p></td>
+<td><p><small> <a href="https://zh.wikipedia.org/wiki/吳慧潾" title="wikilink">Raina</a><br />
+<a href="https://zh.wikipedia.org/wiki/林珍兒" title="wikilink">Nana</a> </small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳慧潾" title="wikilink">Raina</a></p></td>
 <td><p>2010年至2018年</p></td>
 <td><p>After School的首個子團體，在2010年6月出道。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/A.S._Blue.md" title="wikilink">A.S. Blue</a></strong></p></td>
-<td><p><small> <a href="../Page/吳慧潾.md" title="wikilink">Raina</a><br />
-<a href="../Page/盧俐英.md" title="wikilink">俐英</a> </small></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/A.S._Blue" title="wikilink">A.S. Blue</a></strong></p></td>
+<td><p><small> <a href="https://zh.wikipedia.org/wiki/吳慧潾" title="wikilink">Raina</a><br />
+<a href="https://zh.wikipedia.org/wiki/盧俐英" title="wikilink">俐英</a> </small></p></td>
 <td></td>
 <td><p>2011年</p></td>
 <td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST的成員曾為她們的歌曲</a>〈Wonder Boy〉擔任MV及音樂現場舞者。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/A.S._Red.md" title="wikilink">A.S. Red</a></strong></p></td>
-<td><p><small> <a href="../Page/林珍兒.md" title="wikilink">Nana</a> </small></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/A.S._Red" title="wikilink">A.S. Red</a></strong></p></td>
+<td><p><small> <a href="https://zh.wikipedia.org/wiki/林珍兒" title="wikilink">Nana</a> </small></p></td>
 <td></td>
 <td><p>主打歌〈Night Into The Sky〉由勇敢兄弟作曲。</p></td>
 <td></td>
@@ -396,7 +399,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/VIRGIN.md" title="wikilink">Virgin</a></strong>》</p>
 <ul>
 <li>發行日期：2011年4月28日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -423,7 +426,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/New_Schoolgirl.md" title="wikilink">New Schoolgirl</a></strong>》</p>
 <ul>
 <li>發行日期：2009年1月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -433,7 +436,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/因為你.md" title="wikilink">因為你</a></strong>》</p>
 <ul>
 <li>發行日期：2009年11月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -443,7 +446,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/BANG!.md" title="wikilink">Bang!</a></strong>》</p>
 <ul>
 <li>發行日期：2010年3月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -453,7 +456,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/RED_(After_School單曲).md" title="wikilink">Red</a></strong>》 / 《<strong><a href="../Page/BLUE_(After_School單曲).md" title="wikilink">Blue</a></strong>》</p>
 <ul>
 <li>發行日期：2011年7月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -463,7 +466,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/FLASHBACK.md" title="wikilink">Flashback</a></strong>》</p>
 <ul>
 <li>發行日期：2012年6月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -473,7 +476,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/初戀_(After_School單曲).md" title="wikilink">初戀</a></strong>》</p>
 <ul>
 <li>發行日期：2013年6月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>格式：CD唱片、數位下載</li>
 </ul></td>
 <td></td>
@@ -500,7 +503,7 @@ PlotData =
 <td><p>數位單曲《<strong>Diva</strong>》</p>
 <ul>
 <li>發行日期：2009年4月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -509,7 +512,7 @@ PlotData =
 <td><p>混音單曲《<strong>因為你 (Remix)</strong>》</p>
 <ul>
 <li>發行日期：2010年1月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -535,16 +538,16 @@ PlotData =
 <td><p>《<strong><a href="../Page/PLAYGIRLZ.md" title="wikilink">PLAYGIRLZ</a></strong>》</p>
 <ul>
 <li>發行日期：2012年3月14日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Dress_to_kill.md" title="wikilink">Dress to kill</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Dress_to_kill" title="wikilink">Dress to kill</a></strong>》</p>
 <ul>
 <li>發行日期：2014年3月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>{{hidden|曲目| {{hidden|CD+DVD盤|</p>
 <ul>
@@ -596,7 +599,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/BANG!.md" title="wikilink">Bang!</a></strong>》</p>
 <ul>
 <li>發行日期：2011年8月17日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -605,25 +608,25 @@ PlotData =
 <td><p>《<strong><a href="../Page/DIVA_(After_School單曲).md" title="wikilink">Diva</a></strong>》</p>
 <ul>
 <li>發行日期：2011年11月23日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/Rambling_girls_/_Because_of_you.md" title="wikilink">Rambling Girls/Because of you</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Rambling_girls_/_Because_of_you" title="wikilink">Rambling Girls/Because of you</a></strong>》</p>
 <ul>
 <li>發行日期：2012年1月25日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/Lady_Luck_/_Dilly_Dally.md" title="wikilink">Lady Luck/Dilly Dally</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lady_Luck_/_Dilly_Dally" title="wikilink">Lady Luck/Dilly Dally</a></strong>》</p>
 <ul>
 <li>發行日期：2012年6月13日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -632,7 +635,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/Heaven_(After_School單曲).md" title="wikilink">Heaven</a></strong>》</p>
 <ul>
 <li>發行日期：2013年10月2日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -641,7 +644,7 @@ PlotData =
 <td><p>《<strong><a href="../Page/Shh_(After_School單曲).md" title="wikilink">Shh</a></strong>》</p>
 <ul>
 <li>發行日期：2014年1月29日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -667,7 +670,7 @@ PlotData =
 <td><p>三週年紀念特別日文數位單曲《<strong>Snow Flower</strong>》</p>
 <ul>
 <li>發行日期：2012年1月17日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -693,7 +696,7 @@ PlotData =
 <td><p>《<strong>Happy Pledis 1st Album</strong>》</p>
 <ul>
 <li>發行日期：2010年12月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -702,7 +705,7 @@ PlotData =
 <td><p>《<strong>Happy Pledis 2012</strong>》</p>
 <ul>
 <li>發行日期：2011年12月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -723,7 +726,7 @@ PlotData =
 <td><p>《<strong>THE BEST OF AFTERSCHOOL 2009-2012 -Korea Ver.-</strong>》</p>
 <ul>
 <li>發行日期：2013年3月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -749,7 +752,7 @@ PlotData =
 <td><p>《<strong>AFTERSCHOOL BEST</strong>》</p>
 <ul>
 <li>發行日期：2015年3月18日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>+<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>+<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -775,7 +778,7 @@ PlotData =
 <td><p>演唱會《<strong>AFTERSCHOOL First Japan Tour 2012 -PLAYGIRLZ-</strong>》</p>
 <ul>
 <li>發行日期：2013年3月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a>+<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>+<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>版本: 藍光版及DVD版同時發行</li>
 </ul></td>
 <td></td>
@@ -791,8 +794,9 @@ PlotData =
 ### 合作歌曲
 
   - [孫淡妃](../Page/孫淡妃.md "wikilink")〈Amoled〉(featuring After School)
-  - [Sunny Side](../Page/Sunny_Side.md "wikilink")〈아프죠〉(featuring After
-    School)
+  - [Sunny
+    Side](https://zh.wikipedia.org/wiki/Sunny_Side "wikilink")〈아프죠〉(featuring
+    After School)
   - [安室奈美惠](../Page/安室奈美惠.md "wikilink")〈Make It Happen〉(featuring
     AFTERSCHOOL)
 
@@ -802,10 +806,12 @@ PlotData =
   - 2009年
     MBC《[無限挑戰](../Page/無限挑戰.md "wikilink")》[奧林匹克歌謠祭](../Page/奧林匹克歌謠祭.md "wikilink")〈幼雞白煮〉Feat.
     [鄭埻夏](../Page/鄭埻夏.md "wikilink")
-  - 2009年 MBC電視劇《[垂涎之島](../Page/垂涎之島.md "wikilink")》OST〈반쪽〉Feat. Sunny
-    Side
+  - 2009年
+    MBC電視劇《[垂涎之島](https://zh.wikipedia.org/wiki/垂涎之島 "wikilink")》OST〈반쪽〉Feat.
+    Sunny Side
   - 2010年 The Shouts of Reds. United Korea〈승리의 노래〉
-  - 2011年 MBC電視劇《[光与影](../Page/光与影.md "wikilink")》OST Part.1〈잊었나〉
+  - 2011年 MBC電視劇《[光与影](https://zh.wikipedia.org/wiki/光与影 "wikilink")》OST
+    Part.1〈잊었나〉
   - 2014年 勇敢兄弟 10周年紀念特別歌曲 Part.3〈일주일(Week)〉
 
 ### 子團體Orange Caramel
@@ -969,13 +975,13 @@ PlotData =
 
 ### 歌曲節目獎項
 
-|       |        |                                         |                                    |      |                  |
-| ----- | ------ | --------------------------------------- | ---------------------------------- | ---- | ---------------- |
-| 年份    | 日期     | 電視台                                     | 節目名稱                               | 獲獎歌曲 | 排名               |
-| 2009年 | 12月20日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | 因為你  | 1位(Mutizen Song) |
-| 2009年 | 12月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | 因為你  | 1位(Mutizen Song) |
-| 2010年 | 1月24日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink") | 因為你  | 1位(Mutizen Song) |
-|       |        |                                         |                                    |      |                  |
+|       |        |                                         |                                                       |      |                  |
+| ----- | ------ | --------------------------------------- | ----------------------------------------------------- | ---- | ---------------- |
+| 年份    | 日期     | 電視台                                     | 節目名稱                                                  | 獲獎歌曲 | 排名               |
+| 2009年 | 12月20日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | 因為你  | 1位(Mutizen Song) |
+| 2009年 | 12月27日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | 因為你  | 1位(Mutizen Song) |
+| 2010年 | 1月24日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink") | 因為你  | 1位(Mutizen Song) |
+|       |        |                                         |                                                       |      |                  |
 
 ### 主打歌曲紀錄
 
@@ -1005,13 +1011,13 @@ PlotData =
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/When_I_Fall.md" title="wikilink">When I Fall</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/When_I_Fall" title="wikilink">When I Fall</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BANG!.md" title="wikilink">BANG!</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Happy_Pledis.md" title="wikilink">Happy Pledis</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Happy_Pledis" title="wikilink">Happy Pledis</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
@@ -1063,7 +1069,7 @@ PlotData =
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a><br />
-<small><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>0</strong></p></td>

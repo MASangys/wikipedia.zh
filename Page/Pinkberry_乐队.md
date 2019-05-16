@@ -1,5 +1,6 @@
-**Pinkberry乐队**是来自[上海的一支流行](../Page/上海.md "wikilink")[朋克乐队](../Page/朋克.md "wikilink")，乐队由三名男生和一名女生组成。乐队成立于2008年，前身为冷笑话Joke
-for Nothing乐队。乐队现任成员为主唱小优，吉他手小操，[贝斯手杨芾和鼓手吴浩](../Page/贝斯手.md "wikilink")。
+**Pinkberry乐队**是来自[上海的一支流行](https://zh.wikipedia.org/wiki/上海 "wikilink")[朋克乐队](https://zh.wikipedia.org/wiki/朋克 "wikilink")，乐队由三名男生和一名女生组成。乐队成立于2008年，前身为冷笑话Joke
+for
+Nothing乐队。乐队现任成员为主唱小优，吉他手小操，[贝斯手杨芾和鼓手吴浩](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")。
 
 ## 最初(2007)
 
@@ -7,7 +8,7 @@ for Nothing乐队。乐队现任成员为主唱小优，吉他手小操，[贝�
 
 ## 第一次人员更替与乐队更名（2008）
 
-几个月之后乐队经历了第一次人员更替，小猪与大门退出乐队，小优邀请好友阿乱和寿司加入，作为乐队的[鼓手和贝斯手](../Page/鼓手.md "wikilink")，这次人员更替固定了乐队的阵容。也让乐队收获了2008年Yamaha[亚洲节拍乐队大赛上海赛区冠军](../Page/亚洲.md "wikilink")
+几个月之后乐队经历了第一次人员更替，小猪与大门退出乐队，小优邀请好友阿乱和寿司加入，作为乐队的[鼓手和贝斯手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，这次人员更替固定了乐队的阵容。也让乐队收获了2008年Yamaha[亚洲节拍乐队大赛上海赛区冠军](../Page/亚洲.md "wikilink")
 
 ## 第二次人员更替（2009）
 
@@ -19,7 +20,7 @@ for Nothing乐队。乐队现任成员为主唱小优，吉他手小操，[贝�
 
 ### 首张EP（2010）
 
-加入竹露荷风音乐社之后，厂牌为乐队制作了首张[EP](../Page/EP.md "wikilink")《GO！Boom\!》
+加入竹露荷风音乐社之后，厂牌为乐队制作了首张[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《GO！Boom\!》
 
 ### 签约Dickies（2010）
 

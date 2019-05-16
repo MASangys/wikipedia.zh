@@ -9,17 +9,19 @@ LOVED
 YESTERDAY](../Page/I_LOVED_YESTERDAY.md "wikilink")》相隔2年3個月以來的原創專輯。
 
 以CD ONLY的通常盤與附送DVD的初回限定盤兩版本發售。DVD收錄前一張專輯的單曲、獨立時代的歌曲《[It's happy
-line](../Page/It's_happy_line／I_know.md "wikilink")》、線上下載單曲《[Laugh
+line](https://zh.wikipedia.org/wiki/It's_happy_line／I_know "wikilink")》、線上下載單曲《[Laugh
 away](../Page/I_LOVED_YESTERDAY.md "wikilink")》以及先行單曲《[to
-Mother](../Page/to_Mother.md "wikilink")》的[音樂影片](../Page/音樂影片.md "wikilink")。其中《to
+Mother](https://zh.wikipedia.org/wiki/to_Mother "wikilink")》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。其中《to
 Mother》的音樂影片是能夠使用遙控的十字鍵調節觀看角度的多重角度觀賞影片。
 
 CD收錄《[SUMMER SONG](../Page/SUMMER_SONG.md "wikilink")》至《to
 Mother》的5首單曲，其中雙A面單曲《[It's all too much/Never say
-die](../Page/It's_all_too_much/Never_say_die.md "wikilink")》的《Never say
+die](https://zh.wikipedia.org/wiki/It's_all_too_much/Never_say_die "wikilink")》的《Never
+say
 die》並未收錄。此外，所有收錄單曲皆為[Oricon公信榜冠軍單曲](../Page/Oricon公信榜.md "wikilink")。
 
-專輯的名稱「HOLIDAYS IN THE SUN」來自樂隊[性手槍的同名歌曲](../Page/性手槍.md "wikilink")。
+專輯的名稱「HOLIDAYS IN THE
+SUN」來自樂隊[性手槍的同名歌曲](https://zh.wikipedia.org/wiki/性手槍 "wikilink")。
 
 ## 收錄歌曲
 

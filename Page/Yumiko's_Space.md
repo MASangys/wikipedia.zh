@@ -1,6 +1,6 @@
 **《Yumiko's
-Space》**是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")5張個人音樂專輯，於2005年6月21日推出；專輯以電子音樂為主，並由兩大音樂人[Eric
-Kwok及](../Page/Eric_Kwok.md "wikilink")[王雙駿負責監製該唱片歌曲](../Page/王雙駿.md "wikilink")。
+Space》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")5張個人音樂專輯，於2005年6月21日推出；專輯以電子音樂為主，並由兩大音樂人[Eric
+Kwok及](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")[王雙駿負責監製該唱片歌曲](../Page/王雙駿.md "wikilink")。
 
 ## 曲目列表
 

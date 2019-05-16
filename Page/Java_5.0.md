@@ -1,4 +1,4 @@
-**[Java](../Page/Java.md "wikilink")**從**5.0**版本開始，加入許多新特性，是[Java歷史中修改最大的版本](../Page/Java.md "wikilink")，許多特點模仿自[C\#](../Page/C_Sharp.md "wikilink")，因而被認為是為了與C\#對抗。
+**[Java](../Page/Java.md "wikilink")**從**5.0**版本開始，加入許多新特性，是[Java歷史中修改最大的版本](../Page/Java.md "wikilink")，許多特點模仿自[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，因而被認為是為了與C\#對抗。
 
 ## 新的特性\[1\]
 
@@ -52,7 +52,7 @@
  hm.put(i, tt);      // 在這裏對int自動裝箱成Integer，也使用了參數的型別檢查
 ```
 
-自動裝箱的新功能，可能是從[C\#語言身上學習來的](../Page/C＃.md "wikilink")，Java已經越來越像C\#。然而Java對自動裝箱／拆箱的支援，僅是利用編譯器實現，在Java
+自動裝箱的新功能，可能是從[C\#語言身上學習來的](https://zh.wikipedia.org/wiki/C＃ "wikilink")，Java已經越來越像C\#。然而Java對自動裝箱／拆箱的支援，僅是利用編譯器實現，在Java
 Bytecode中，並無自動裝箱／拆箱的操作碼（opcode）。
 
 ### [注解](../Page/Java注解.md "wikilink")（Annotation）
@@ -61,7 +61,7 @@ Annotation全名是Program Annotation Facility，是Java SE
 5.0的新功能。Java的Annotation類似於.NET的屬性（Attribute）。Java的注解是一種接口（interface），繼承自java.lang.annotation.Annotation。Class
 File則貼上ACC_ANNOTATION標籤。
 
-從5.0開始，javadoc的`@deprecated`（代表不建議使用的方法或類別）也被Annotation中的`@Deprecated`取代；另外，使用Java實作SOP的[AspectJ與](../Page/AspectJ.md "wikilink")[Spring也使用了大量的Annotation](../Page/Spring_Framework.md "wikilink")。
+從5.0開始，javadoc的`@deprecated`（代表不建議使用的方法或類別）也被Annotation中的`@Deprecated`取代；另外，使用Java實作SOP的[AspectJ與](https://zh.wikipedia.org/wiki/AspectJ "wikilink")[Spring也使用了大量的Annotation](../Page/Spring_Framework.md "wikilink")。
 
 ``` java
  // JDK 1.4
@@ -114,10 +114,10 @@ Enum 一般用来表示一组相同类型的常量。如性别、日期、月份
 
 ### 国际化
 
-Java语言严格区分[字节和](../Page/字节.md "wikilink")[字符](../Page/字符.md "wikilink")。字符的存储格式为[UCS-2](../Page/UCS-2.md "wikilink")，也就是只能使用位於[基本多文種平面的字元](../Page/基本多文種平面.md "wikilink")，从Java
-5开始支持[UTF-16字符](../Page/UTF-16.md "wikilink")。
+Java语言严格区分[字节和](../Page/字节.md "wikilink")[字符](../Page/字符.md "wikilink")。字符的存储格式为[UCS-2](https://zh.wikipedia.org/wiki/UCS-2 "wikilink")，也就是只能使用位於[基本多文種平面的字元](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")，从Java
+5开始支持[UTF-16字符](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。
 
-另外，從5.0開始Java的程式也開始可以使用[Unicode字元進行命名](../Page/Unicode.md "wikilink")。
+另外，從5.0開始Java的程式也開始可以使用[Unicode字元進行命名](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 下面就是一個合法的Java程式，裡面包含了[中文字符作為字串的名稱](../Page/汉语.md "wikilink")，這個程式可以在编譯器中通過編譯。
 
@@ -131,11 +131,11 @@ public class HelloWorld {
 
 ### 輸入輸出
 
-在jdk1.5及其以後版本中，`java.util.Scanner`和`java.util.Formatter`類別被应用到輸入輸出中。另外，也出現了類似[C語言的](../Page/C語言.md "wikilink")`printf()`函式。
+在jdk1.5及其以後版本中，`java.util.Scanner`和`java.util.Formatter`類別被应用到輸入輸出中。另外，也出現了類似[C語言的](https://zh.wikipedia.org/wiki/C語言 "wikilink")`printf()`函式。
 
 ### foreach迴圈
 
-foreach迴圈，有時又稱forin迴圈，在許多程式語言（包括[C\#](../Page/C_Sharp.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")）中都有出現，可以直接將一個Array或Map展開，而不必由程式設計師自行檢查邊界，可以有效減少錯誤的機會。
+foreach迴圈，有時又稱forin迴圈，在許多程式語言（包括[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")）中都有出現，可以直接將一個Array或Map展開，而不必由程式設計師自行檢查邊界，可以有效減少錯誤的機會。
 
 ``` Java
  int[] array1 = {1, 3, 5};
@@ -189,7 +189,7 @@ Puzzle》就有專門的篇幅討論5.0之後造成的問題。
 ## 注释
 
 [en:Java version history\#J2SE 5.0 (September 30,
-2004)](../Page/en:Java_version_history#J2SE_5.0_\(September_30,_2004\).md "wikilink")
+2004)](https://zh.wikipedia.org/wiki/en:Java_version_history#J2SE_5.0_\(September_30,_2004\) "wikilink")
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 

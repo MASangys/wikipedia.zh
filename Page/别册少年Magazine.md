@@ -1,4 +1,4 @@
-《**別冊少年Magazine**》（原名：）是[日本](../Page/日本.md "wikilink")[講談社出版的](../Page/講談社.md "wikilink")[少年漫畫雜誌](../Page/少年漫畫.md "wikilink")，每月9日發售，定價500日圓，於2009年9月9日創刊（2009年10月號）。創刊時的理念是要收錄奇幻系的作品為主\[1\]。
+《**別冊少年Magazine**》（原名：）是[日本](../Page/日本.md "wikilink")[講談社出版的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，每月9日發售，定價500日圓，於2009年9月9日創刊（2009年10月號）。創刊時的理念是要收錄奇幻系的作品為主\[1\]。
 
 ## 連載中作品
 
@@ -26,7 +26,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/飛翔的魔女.md" title="wikilink">飛翔的魔女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飛翔的魔女" title="wikilink">飛翔的魔女</a></p></td>
 <td></td>
 <td><p><a href="../Page/石塚千尋.md" title="wikilink">石塚千尋</a></p></td>
 <td></td>
@@ -50,9 +50,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朋友遊戲.md" title="wikilink">朋友遊戲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朋友遊戲" title="wikilink">朋友遊戲</a></p></td>
 <td></td>
-<td><p><a href="../Page/佐藤友生.md" title="wikilink">佐藤友生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤友生" title="wikilink">佐藤友生</a></p></td>
 <td></td>
 <td><p>2014年1月號</p></td>
 <td></td>
@@ -69,7 +69,7 @@
 <td><p>{{tsl|ja|ハピネス (押見修造の漫画)</p></td>
 <td><p>HAPPINESS}}</p></td>
 <td></td>
-<td><p><a href="../Page/押見修造.md" title="wikilink">押見修造</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/押見修造" title="wikilink">押見修造</a></p></td>
 <td></td>
 <td><p>2015年3月號</p></td>
 </tr>
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/UQ_HOLDER！悠久持有者！.md" title="wikilink">UQ HOLDER！悠久持有者！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UQ_HOLDER！悠久持有者！" title="wikilink">UQ HOLDER！悠久持有者！</a></p></td>
 <td></td>
 <td><p><a href="../Page/赤松健.md" title="wikilink">赤松健</a></p></td>
 <td></td>
@@ -122,7 +122,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/世界還是女友難以抉擇.md" title="wikilink">世界還是女友難以抉擇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界還是女友難以抉擇" title="wikilink">世界還是女友難以抉擇</a></p></td>
 <td></td>
 <td><p>内山敦司</p></td>
 <td></td>
@@ -138,7 +138,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Fate/Grand_Order#書籍.md" title="wikilink">Fate/Grand Order -turas réalta-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/Grand_Order#書籍" title="wikilink">Fate/Grand Order -turas réalta-</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/TYPE-MOON.md" title="wikilink">TYPE-MOON</a></p></td>
@@ -252,7 +252,7 @@
 
   - 超人学園（石沢庸介）創刊號～2013年1月號
 
-  - [女子落](../Page/女子落.md "wikilink")（原作：[久米田康治](../Page/久米田康治.md "wikilink")、漫畫：[泰](../Page/泰.md "wikilink")）創刊號～2013年10月號
+  - [女子落](https://zh.wikipedia.org/wiki/女子落 "wikilink")（原作：[久米田康治](../Page/久米田康治.md "wikilink")、漫畫：[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")）創刊號～2013年10月號
 
   - [奇想之國](../Page/奇想之國.md "wikilink")（[雷句誠](../Page/雷句誠.md "wikilink")）創刊號～2014年3月號
 
@@ -267,44 +267,45 @@
   - [×××HOLiC·笼](../Page/×××HOLiC.md "wikilink") 增刊6號～2011年3月號 ※从
     [週刊Young Magazine移籍](../Page/週刊Young_Magazine.md "wikilink")
 
-  - [殼中少女](../Page/殼中少女.md "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](../Page/大今良時.md "wikilink")）2009年11月號～2012年6月號
+  - [殼中少女](https://zh.wikipedia.org/wiki/殼中少女 "wikilink")（原作：[冲方丁](../Page/冲方丁.md "wikilink")、漫画：[大今良時](https://zh.wikipedia.org/wiki/大今良時 "wikilink")）2009年11月號～2012年6月號
 
-  - [小魔女計時器](../Page/小魔女計時器.md "wikilink")（[奈央晃德](../Page/奈央晃德.md "wikilink")）2009年12月號～2012年12月號
+  - [小魔女計時器](https://zh.wikipedia.org/wiki/小魔女計時器 "wikilink")（[奈央晃德](../Page/奈央晃德.md "wikilink")）2009年12月號～2012年12月號
 
   - [殭屍哪有那麼萌？](../Page/殭屍哪有那麼萌？.md "wikilink")（[服部充](../Page/服部充.md "wikilink")）2010年1月號～2014年10月號
 
-  - [壬生義士傳](../Page/壬生義士傳.md "wikilink")（原作：[淺田次郎](../Page/淺田次郎.md "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號
+  - [壬生義士傳](https://zh.wikipedia.org/wiki/壬生義士傳 "wikilink")（原作：[淺田次郎](https://zh.wikipedia.org/wiki/淺田次郎 "wikilink")、漫畫：[永安巧](../Page/永安巧.md "wikilink")）2010年2月號～2012年3月號
     ※從 移籍
 
   - [LOVEPLUS Rinko
-    Days](../Page/LOVEPLUS.md "wikilink")（原作：[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")、漫画：[瀨尾公治](../Page/瀨尾公治.md "wikilink")）2010年5月號～2012年1月號
+    Days](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")（原作：[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")、漫画：[瀨尾公治](../Page/瀨尾公治.md "wikilink")）2010年5月號～2012年1月號
 
-  - [魔法老師幼幼班](../Page/魔法老師幼幼班.md "wikilink")（原作：[赤松健](../Page/赤松健.md "wikilink")、漫画：[YUI](../Page/YUI_\(漫畫家\).md "wikilink")）2010年10月號～2011年11月號
+  - [魔法老師幼幼班](../Page/魔法老師幼幼班.md "wikilink")（原作：[赤松健](../Page/赤松健.md "wikilink")、漫画：[YUI](https://zh.wikipedia.org/wiki/YUI_\(漫畫家\) "wikilink")）2010年10月號～2011年11月號
 
   - 一路平安！（[小林尽](../Page/小林尽.md "wikilink")）2011年6月號～2012年6月號
 
   - [進撃！巨人中學校](../Page/進擊的巨人.md "wikilink")（原作：諫山創、漫畫：中川沙樹）2012年5月號～2016年8月號
 
-  - [自新世界](../Page/自新世界.md "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
+  - [自新世界](https://zh.wikipedia.org/wiki/自新世界 "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
 
   - [Real
-    Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](../Page/渡邊靜.md "wikilink")）2014年2月號～2014年10月號
+    Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](https://zh.wikipedia.org/wiki/渡邊靜 "wikilink")）2014年2月號～2014年10月號
     ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [即使如此我還是喜歡妳](../Page/馬子們！寫給曾經被我愛過傷害過的你們.md "wikilink")（原作：[徐譽庭](../Page/徐譽庭.md "wikilink")、漫畫：繪本奈央）2014年8月號～2016年4月號
     ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
 
-  - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（若林稔弥）2014年9月號～2015年4月號 ※移籍至
-    [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
+  - [徒然喜歡你](https://zh.wikipedia.org/wiki/徒然喜歡你 "wikilink")（若林稔弥）2014年9月號～2015年4月號
+    ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（原作：三屋咲悠、人物設定：okiura、漫畫：茜錆）2014年9月號～2016年10月號
 
-  - [迷え！七つの大罪学園！](../Page/七大罪_\(漫畫\).md "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
+  - [迷え！七つの大罪学園！](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（原作：鈴木央、漫畫：球木拾壹）2014年9月號～2016年11月號
 
-  - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](../Page/自稱清純派.md "wikilink")）2015年7月號～2018年1月號
+  - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（[ヒロユキ](https://zh.wikipedia.org/wiki/自稱清純派 "wikilink")）2015年7月號～2018年1月號
     ※從 [週刊少年Magazine移籍](../Page/週刊少年Magazine.md "wikilink")
 
-  - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") 2015年8月號～2017年7月號 ※移籍至
+  - [寄宿學校的茱麗葉](https://zh.wikipedia.org/wiki/寄宿學校的茱麗葉 "wikilink")
+    2015年8月號～2017年7月號 ※移籍至
     [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 
 ## 注釋

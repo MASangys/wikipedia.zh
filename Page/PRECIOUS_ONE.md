@@ -1,5 +1,5 @@
 《**PRECIOUS
-ONE**》（）是[茅原實里再次舉辦歌手活動後的第](../Page/茅原實里.md "wikilink")7張[單曲](../Page/單曲.md "wikilink")，由[Lantis和SONY音樂於](../Page/Lantis.md "wikilink")2009年12月23日發行。
+ONE**》（）是[茅原實里再次舉辦歌手活動後的第](../Page/茅原實里.md "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[Lantis和SONY音樂於](../Page/Lantis.md "wikilink")2009年12月23日發行。
 
 ## 收錄曲
 

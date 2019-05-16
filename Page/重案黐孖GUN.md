@@ -1,4 +1,4 @@
-是一部於2004年上映的[香港電影](../Page/香港電影.md "wikilink")，由[林超賢擔任執導](../Page/林超賢.md "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[鄭希怡等主演](../Page/鄭希怡.md "wikilink")。
+是一部於2004年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[林超賢擔任執導](../Page/林超賢.md "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[鄭希怡等主演](../Page/鄭希怡.md "wikilink")。
 
 ## 劇情內容
 
@@ -11,10 +11,10 @@
   - [郭富城](../Page/郭富城.md "wikilink") 飾 李耀庭
   - [陳奕迅](../Page/陳奕迅.md "wikilink") 飾 王啟聰
   - [鄭希怡](../Page/鄭希怡.md "wikilink") 飾 馮寶寶
-  - [李修賢](../Page/李修賢.md "wikilink") 飾 張鐵柱
+  - [李修賢](https://zh.wikipedia.org/wiki/李修賢 "wikilink") 飾 張鐵柱
   - [黃品源](../Page/黃品源.md "wikilink") 飾 馬林
-  - [鄔玉君](../Page/鄔玉君.md "wikilink") 飾 杜如風
-  - [王　傑](../Page/王傑_\(歌手\).md "wikilink") 飾 阮北進
+  - [鄔玉君](https://zh.wikipedia.org/wiki/鄔玉君 "wikilink") 飾 杜如風
+  - [王　傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink") 飾 阮北進
   - [吳嘉龍](../Page/吳嘉龍.md "wikilink") 飾 山度士
   - [卓韻芝](../Page/卓韻芝.md "wikilink") 飾 阿美
   - [梁慧恩](../Page/梁慧恩.md "wikilink") 飾 阿珊

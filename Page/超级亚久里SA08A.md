@@ -1,25 +1,25 @@
-[Davidson_Sepang_2008.jpg](https://zh.wikipedia.org/wiki/File:Davidson_Sepang_2008.jpg "fig:Davidson_Sepang_2008.jpg")举办地[雪邦赛道上的SA](../Page/雪邦赛道.md "wikilink")08A（车手是[安东尼·戴维森](../Page/安东尼·戴维森.md "wikilink")）\]\]
-**超级亚久里·SA08A**，是超级亚久里车队为2008年世界一级方程式锦标赛设计制造的[方程式赛车](../Page/方程式赛车.md "wikilink")。
+[Davidson_Sepang_2008.jpg](https://zh.wikipedia.org/wiki/File:Davidson_Sepang_2008.jpg "fig:Davidson_Sepang_2008.jpg")举办地[雪邦赛道上的SA](https://zh.wikipedia.org/wiki/雪邦赛道 "wikilink")08A（车手是[安东尼·戴维森](https://zh.wikipedia.org/wiki/安东尼·戴维森 "wikilink")）\]\]
+**超级亚久里·SA08A**，是超级亚久里车队为2008年世界一级方程式锦标赛设计制造的[方程式赛车](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")。
 
 ## 特征
 
-以[本田F1车队在](../Page/本田车队.md "wikilink")2007赛季使用的[RA107为基础](../Page/本田·RA107.md "wikilink")，尾翼附近使用了与[本田·RA108共通的配件](../Page/本田·RA108.md "wikilink")，其他的一部分空气动力学套件使用了由超级亚久里自行开发的产品。
+以[本田F1车队在](../Page/本田车队.md "wikilink")2007赛季使用的[RA107为基础](https://zh.wikipedia.org/wiki/本田·RA107 "wikilink")，尾翼附近使用了与[本田·RA108共通的配件](https://zh.wikipedia.org/wiki/本田·RA108 "wikilink")，其他的一部分空气动力学套件使用了由超级亚久里自行开发的产品。
 
 肩翼部分，车队采用了在季末测试中曾测试过的后方排气口一体型。前翼使用了在此前超级亚久里车队的赛车中从未采用的3层襟翼，而前鼻锥的中心部分画上了新的黑色彩圈。
 
 ## 开发
 
-2007赛季结束后，超级亚久里使用了被称为**SA07B**的暂定赛车进行测试。但这辆赛车与[SA07不同](../Page/超级亚久里·SA07.md "wikilink")，是以RA107为基础的。由此，针对客製底盤问题的议论、批判再次开始。
+2007赛季结束后，超级亚久里使用了被称为**SA07B**的暂定赛车进行测试。但这辆赛车与[SA07不同](https://zh.wikipedia.org/wiki/超级亚久里·SA07 "wikilink")，是以RA107为基础的。由此，针对客製底盤问题的议论、批判再次开始。
 
 实际上在2008年，本田在关于汽车运动的新闻发布会上，已经正式公开了超级亚久里车队的赛车将由本田进行供给。
 
-进入2008年，车队已经表明将力争在2月发布新车SA08A，且已经通过[FIA的碰撞测试](../Page/FIA.md "wikilink")，但由于赞助商谈判以至于车队本身的出售的协议一直难产，新车的发布，乃至季前测试，都未能够进行。
+进入2008年，车队已经表明将力争在2月发布新车SA08A，且已经通过[FIA的碰撞测试](https://zh.wikipedia.org/wiki/FIA "wikilink")，但由于赞助商谈判以至于车队本身的出售的协议一直难产，新车的发布，乃至季前测试，都未能够进行。
 
 结果，发布会未能进行，而揭幕站的[澳大利亚大奖赛成为了事实上的](../Page/2008年澳大利亚大奖赛.md "wikilink")“新车试航”。
 
-而一直是悬案的客製底盤问题，在新通过的协和协议中，将于2010年禁止使用，而在此之前，允许[红牛二队与超级亚久里两支车队继续使用](../Page/红牛二队.md "wikilink")。
+而一直是悬案的客製底盤问题，在新通过的协和协议中，将于2010年禁止使用，而在此之前，允许[红牛二队与超级亚久里两支车队继续使用](https://zh.wikipedia.org/wiki/红牛二队 "wikilink")。
 
-由此，虽然SA08A得以使用，但由于2010年之前需要自行开发出赛车，所以需要确保有足够的设施与人才。赛季开始前夕，车队已与[微捷码集团基本达成了出售车队并由微捷码方面提供经营支援的意向](../Page/微捷码集团.md "wikilink")，但也因此被要求大额的资金[1](http://www.ocn.ne.jp/sports/motorsports/magazine/0774.html)。
+由此，虽然SA08A得以使用，但由于2010年之前需要自行开发出赛车，所以需要确保有足够的设施与人才。赛季开始前夕，车队已与[微捷码集团基本达成了出售车队并由微捷码方面提供经营支援的意向](https://zh.wikipedia.org/wiki/微捷码集团 "wikilink")，但也因此被要求大额的资金[1](http://www.ocn.ne.jp/sports/motorsports/magazine/0774.html)。
 
 但是，微捷码集团的支援到4月后突然停止，在[土耳其大奖赛前夕](../Page/2008年土耳其大奖赛.md "wikilink")，车队判断已经无法轮转到足够的资金，故决定撤退，而SA08A也就此成为了车队最后的一辆赛车。
 
@@ -34,25 +34,26 @@
   - 轴距 3,165mm
   - 前轮距 1,450 mm
   - 后轮距 1,400 mm
-  - 离合器 [Sachs](../Page/Sachs.md "wikilink")
-  - 制动器 [Alcon](../Page/Alcon.md "wikilink")
-  - 刹车盘 [Hitoko](../Page/Hitoko.md "wikilink")
-  - 减震器 [Showa](../Page/Showa.md "wikilink")
-  - 轮毂 [BBS (汽车零配件生产商)](../Page/BBS_\(汽车零配件生产商\).md "wikilink")
+  - 离合器 [Sachs](https://zh.wikipedia.org/wiki/Sachs "wikilink")
+  - 制动器 [Alcon](https://zh.wikipedia.org/wiki/Alcon "wikilink")
+  - 刹车盘 [Hitoko](https://zh.wikipedia.org/wiki/Hitoko "wikilink")
+  - 减震器 [Showa](https://zh.wikipedia.org/wiki/Showa "wikilink")
+  - 轮毂 [BBS
+    (汽车零配件生产商)](https://zh.wikipedia.org/wiki/BBS_\(汽车零配件生产商\) "wikilink")
   - 轮胎 [普利司通](../Page/普利司通.md "wikilink")
   - 变速器
-    7速[半自动变速器](../Page/半自动变速器.md "wikilink")/[碳纤维製表皮](../Page/碳纤维.md "wikilink")
-  - 安全带 [TAKATA](../Page/TAKATA.md "wikilink")
+    7速[半自动变速器](../Page/半自动变速器.md "wikilink")/[碳纤维製表皮](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")
+  - 安全带 [TAKATA](https://zh.wikipedia.org/wiki/TAKATA "wikilink")
 
 ### 引擎
 
-  - 引擎名 [本田RA](../Page/本田.md "wikilink")808E
+  - 引擎名 [本田RA](https://zh.wikipedia.org/wiki/本田 "wikilink")808E
   - 气缸数·角度 V型8气缸·90度
   - 排量 2,400cc
   - 最高转速 19,000转以上
   - 最大马力 700马力以上
-  - 火花塞 [NGK](../Page/日本特殊陶业.md "wikilink")
-  - 燃油·润滑油 [新日本石油](../Page/新日本石油.md "wikilink")
+  - 火花塞 [NGK](https://zh.wikipedia.org/wiki/日本特殊陶业 "wikilink")
+  - 燃油·润滑油 [新日本石油](https://zh.wikipedia.org/wiki/新日本石油 "wikilink")
   - 点火器 本田PGM-IG
   - 燃料喷射装置 本田PGM-FI
 
@@ -104,7 +105,7 @@
 </p></td>
 <td><p><a href="../Page/2008年法国大奖赛.md" title="wikilink">FRA</a><br />
 </p></td>
-<td><p><a href="../Page/2008年英国大奖赛.md" title="wikilink">GBR</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/2008年英国大奖赛" title="wikilink">GBR</a><br />
 </p></td>
 <td><p><a href="../Page/2008年德国大奖赛.md" title="wikilink">GER</a><br />
 </p></td>
@@ -131,7 +132,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2008年世界一级方程式锦标赛.md" title="wikilink">2008</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2008年世界一级方程式锦标赛" title="wikilink">2008</a></p></td>
 <td><p>18</p></td>
 <td><p><a href="../Page/佐藤琢磨.md" title="wikilink">佐藤琢磨</a></p></td>
 <td><p>Ret</p></td>
@@ -157,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="../Page/安东尼·戴维森.md" title="wikilink">安东尼·戴维森</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安东尼·戴维森" title="wikilink">安东尼·戴维森</a></p></td>
 <td><p>Ret</p></td>
 <td><p>15</p></td>
 <td><p>16</p></td>
@@ -183,7 +184,7 @@
 </tbody>
 </table>
 
-  - **粗体**是[杆位](../Page/杆位.md "wikilink")、*斜字*是[最快单圈](../Page/最快单圈.md "wikilink")。([key](../Page/:Template:F1_driver_results_legend_2.md "wikilink"))
+  - **粗体**是[杆位](https://zh.wikipedia.org/wiki/杆位 "wikilink")、*斜字*是[最快单圈](https://zh.wikipedia.org/wiki/最快单圈 "wikilink")。([key](https://zh.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
   - 第5站之后退出。
 
 [Category:2008年F1赛车](https://zh.wikipedia.org/wiki/Category:2008年F1赛车 "wikilink")

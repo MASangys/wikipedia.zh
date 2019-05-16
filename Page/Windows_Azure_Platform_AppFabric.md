@@ -1,11 +1,11 @@
 [Windows_Azure_AppFabric_Management_Portal.png](https://zh.wikipedia.org/wiki/File:Windows_Azure_AppFabric_Management_Portal.png "fig:Windows_Azure_AppFabric_Management_Portal.png")
 
 **Windows Azure Platform AppFabric** 是[Windows
-Azure雲端運算服務的一部份](../Page/Windows_Azure.md "wikilink")，亦為平台即服務(PaaS)的一種類型，它是Windows
+Azure雲端運算服務的一部份](https://zh.wikipedia.org/wiki/Windows_Azure "wikilink")，亦為平台即服務(PaaS)的一種類型，它是Windows
 Azure上的應用程式伺服器 (Application Server) 平台，作為開發身份驗證，存取控制以及服務匯流排 (Service
 Bus) 應用程式之用。它本身也是奠基於 Windows Azure 作業系統之上，並且以 WCF ([Windows
 Communication
-Foundation](../Page/Windows_Communication_Foundation.md "wikilink"))
+Foundation](https://zh.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink"))
 為核心開發的。
 
 ## 概觀
@@ -22,7 +22,7 @@ AppFabric 時所使用的 URL 的一部份\[1\]，
 ## 服務
 
 AppFabric
-目前包含兩種服務：存取控制以及服務匯流排，作為開發企業[服務導向架構](../Page/服務導向架構.md "wikilink")
+目前包含兩種服務：存取控制以及服務匯流排，作為開發企業[服務導向架構](https://zh.wikipedia.org/wiki/服務導向架構 "wikilink")
 (SOA) 應用程式的基礎平台，同時可與其他不同的驗證服務整合，形成邦聯化驗證與存取控制服務 (Federated Access
 Control)。 在2010年10月28日舉辦的PDC 2010中，微軟宣布將會在 Windows Azure Platform
 AppFabric 中加入像 Cache, Integration 與 Composite Applications 等功能，讓 Windows
@@ -34,11 +34,12 @@ Azure AppFabric 在雲端應用程式上的作為中介應用程伺服器的角�
 
 #### v1.0
 
-Access Control v1.0 遵循 [OAuth](../Page/OAuth.md "wikilink") [Web
-Resource Authorization
+Access Control v1.0 遵循
+[OAuth](https://zh.wikipedia.org/wiki/OAuth "wikilink") [Web Resource
+Authorization
 Protocol](http://wiki.oauth.net/w/page/12238537/OAuth-WRAP) (WRAP)v0.9
-的規格，可作為企業的[單一簽入](../Page/單一簽入.md "wikilink") (Single Sign On)
-服務的資料儲存地，當使用者在系統中發出登入指令時，要求會先送到 AppFabric，由 AppFabric
+的規格，可作為企業的[單一簽入](https://zh.wikipedia.org/wiki/單一簽入 "wikilink")
+(Single Sign On) 服務的資料儲存地，當使用者在系統中發出登入指令時，要求會先送到 AppFabric，由 AppFabric
 驗證身份後，回傳以安全符記服務 (Security Token Service; STS)
 協定格式傳回身份驗證的資料後，再由應用程式轉送給授權程式，檢查符記的資料內容
 (會包含部份授權資訊) 後，授予使用者系統存取權限。
@@ -75,8 +76,9 @@ private static string GetTokenFromACS()
 
 為了實行單一簽入並與社群等主要身份驗證提供者 (Identity Provider, IdP) 相互介接，Access Control v2.0
 開始支援 Google, Yahoo, Facebook, Windows Live ID 等支援 [Open
-ID](../Page/Open_ID.md "wikilink") 或
-[OAuth](../Page/OAuth.md "wikilink") 等主流的身份認證服務，並進一步針對企業內環境的身份認證，提供了介接
+ID](https://zh.wikipedia.org/wiki/Open_ID "wikilink") 或
+[OAuth](https://zh.wikipedia.org/wiki/OAuth "wikilink")
+等主流的身份認證服務，並進一步針對企業內環境的身份認證，提供了介接
 Active Directory Federation Service (ADFS) v2.0 的功能，Access Control v2.0
 的使用者先在管理介面中建立橋接機制，當使用者向 IdP 要求認證通過後，會得到 IdP Token，而透過 IdP Token 可在
 Access Control Service 中交換成 ACS Token 再送交用戶端程式，之後的流程就和 v1.0 相同。
@@ -208,7 +210,7 @@ Buffer，類似 queue 服務) \[5\] 等功能。
 
 Windows Azure AppFabric 的快取服務 (Caching Services)，是以微軟的 Windows Server
 AppFabric 內的 Cache Service (研發代號為 Velocity)
-為核心所組成，它是與[memcached相同能力的分散式快取服務](../Page/memcached.md "wikilink")
+為核心所組成，它是與[memcached相同能力的分散式快取服務](https://zh.wikipedia.org/wiki/memcached "wikilink")
 (Distributed Cache Services)，現階段會直接支援 ASP.NET 的快取 API (Cache
 API)，不過基於雲端的特殊環境，它不支援所有在 Windows Server AppFabric Cache
 Service 上支援的快取功能，Caching Service
@@ -292,7 +294,7 @@ Microsoft.ServiceBus.dll)，以供開發人員使用\[6\]。
 6.  [Windows Azure AppFabric Management
     Portal](https://appfabric.azure.com)
 
-[en:AppFabric](../Page/en:AppFabric.md "wikilink")
+[en:AppFabric](https://zh.wikipedia.org/wiki/en:AppFabric "wikilink")
 
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")

@@ -1,11 +1,11 @@
 **Solr**（读作“solar”）是[Apache
-Lucene项目的](../Page/Lucene.md "wikilink")[开源](../Page/开源.md "wikilink")平台。其主要功能包括[全文检索](../Page/全文检索.md "wikilink")、命中標示\[1\]、、动态聚类、数据库集成，以及富文本（如[Word](../Page/Word.md "wikilink")、[PDF](../Page/PDF.md "wikilink")）的處理。Solr是高度可扩展的，并提供了分布式搜索和索引复制。Solr是最流行的企业级搜索引擎，\[2\]Solr
+Lucene项目的](../Page/Lucene.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")平台。其主要功能包括[全文检索](https://zh.wikipedia.org/wiki/全文检索 "wikilink")、命中標示\[1\]、、动态聚类、数据库集成，以及富文本（如[Word](https://zh.wikipedia.org/wiki/Word "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")）的處理。Solr是高度可扩展的，并提供了分布式搜索和索引复制。Solr是最流行的企业级搜索引擎，\[2\]Solr
 4还增加了[NoSQL支持](../Page/NoSQL.md "wikilink")。\[3\]
 
-Solr是用[Java编写](../Page/Java.md "wikilink")、运行在[Servlet容器](../Page/Servlet.md "wikilink")（如[Apache
+Solr是用[Java编写](../Page/Java.md "wikilink")、运行在[Servlet容器](https://zh.wikipedia.org/wiki/Servlet "wikilink")（如[Apache
 Tomcat或](../Page/Apache_Tomcat.md "wikilink")[Jetty](../Page/Jetty.md "wikilink")）的一个独立的全文搜索服务器。
 Solr采用了[Lucene](../Page/Lucene.md "wikilink")
-Java搜索库为核心的全文索引和搜索，并具有类似[REST的](../Page/REST.md "wikilink")[HTTP](../Page/HTTP.md "wikilink")/[XML和](../Page/XML.md "wikilink")[JSON的](../Page/JSON.md "wikilink")[API](../Page/API.md "wikilink")。
+Java搜索库为核心的全文索引和搜索，并具有类似[REST的](https://zh.wikipedia.org/wiki/REST "wikilink")[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")/[XML和](../Page/XML.md "wikilink")[JSON的](../Page/JSON.md "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。
 Solr强大的外部配置功能使得无需进行Java编码，便可对其进行调整以适应多种类型的应用程序。Solr有一个插件架构，以支持更多的高级定制。
 
 因为2010年Apache Lucene和Apache

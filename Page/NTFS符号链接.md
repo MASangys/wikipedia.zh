@@ -1,9 +1,9 @@
 **NTFS符号链接**（Symbolic
-Link），又稱**符號連結**\[1\]，是[NTFS](../Page/NTFS.md "wikilink")[文件系统中指向文件系统中的另一个对象的一类对象](../Page/文件系统.md "wikilink")。被指向的对象叫做“目标”。它们可以像普通文件一样操作，但所有对符号链接的操作都实际作用于目标对象。[符号链接对用户而言是透明的](../Page/符号链接.md "wikilink")，符号链接看上去和普通的文件和文件夹没有区别，操作方法也一模一样。NTFS符号链接的设计目的是为了和[POSIX标准的](../Page/POSIX.md "wikilink")[操作系统兼容](../Page/操作系统.md "wikilink")、並用來增進與舊版作業系統的相容性，它首次出现于[Windows
+Link），又稱**符號連結**\[1\]，是[NTFS](../Page/NTFS.md "wikilink")[文件系统中指向文件系统中的另一个对象的一类对象](../Page/文件系统.md "wikilink")。被指向的对象叫做“目标”。它们可以像普通文件一样操作，但所有对符号链接的操作都实际作用于目标对象。[符号链接对用户而言是透明的](../Page/符号链接.md "wikilink")，符号链接看上去和普通的文件和文件夹没有区别，操作方法也一模一样。NTFS符号链接的设计目的是为了和[POSIX标准的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[操作系统兼容](../Page/操作系统.md "wikilink")、並用來增進與舊版作業系統的相容性，它首次出现于[Windows
 Vista](../Page/Windows_Vista.md "wikilink")。
 
 [Windows
-2000开始就有的](../Page/Windows_2000.md "wikilink")\[2\]，只能用于目录，且只能用于本地文件系统。而符号链接既可以指向本地文件，也可以指向远程[SMB网络路径](../Page/服务器消息区块.md "wikilink")。NTFS连接点只支持本地驱动器的绝对路径，但NTFS符号链接允许使用相对路径。还有，NTFS符号链接允许跨文件系统使用，但是对于跨主机的符号链接，还需要远程机器也支持这一功能才行。
+2000开始就有的](../Page/Windows_2000.md "wikilink")\[2\]，只能用于目录，且只能用于本地文件系统。而符号链接既可以指向本地文件，也可以指向远程[SMB网络路径](https://zh.wikipedia.org/wiki/服务器消息区块 "wikilink")。NTFS连接点只支持本地驱动器的绝对路径，但NTFS符号链接允许使用相对路径。还有，NTFS符号链接允许跨文件系统使用，但是对于跨主机的符号链接，还需要远程机器也支持这一功能才行。
 
 硬链接只能用于文件，不能用于目录。硬链接相当于一个实体文件有多个彼此平等的名字。删除一个文件名字后，还可以用其它名字访问该文件。硬链接只能用于同一个磁盘分区内的文件。硬链接不能用于空文件，而符号链接可以用于空文件或空目录。
 
@@ -11,7 +11,7 @@ Vista](../Page/Windows_Vista.md "wikilink")。
 
 在NT6内核的操作系统，例如[Windows
 Vista或](../Page/Windows_Vista.md "wikilink")[Windows
-7中](../Page/Windows_7.md "wikilink")，符号链接可以由命令`mklink`创建，mklink是`cmd.exe`的内部命令，语法如下：
+7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，符号链接可以由命令`mklink`创建，mklink是`cmd.exe`的内部命令，语法如下：
 
 ``` text
 mklink [[NTFS符号链接/D]|[/H]]] link target
@@ -19,7 +19,7 @@ mklink [[NTFS符号链接/D]|[/H]]] link target
 
   - `/D` –创建指向目录的符号链接，如果不指定此参数，默认为创建文件符号链接。
   - `/H`
-    –创建[硬链接](../Page/硬链接.md "wikilink")（Hardlink），或稱[永久連結](../Page/永久連結.md "wikilink")\[4\]。
+    –创建[硬链接](https://zh.wikipedia.org/wiki/硬链接 "wikilink")（Hardlink），或稱[永久連結](https://zh.wikipedia.org/wiki/永久連結 "wikilink")\[4\]。
   - `/J` –创建（Junction point）。
   - `link` –指定符号链接的名字
   - `target` –指定符号链接指向的对象的路径（相对或绝对皆可）。
@@ -92,8 +92,8 @@ XP）間的相容性，部分範例如下：
   - [Link Shell
     Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html),
     which presents a graphical interface for creating
-    [hard](../Page/hard_link.md "wikilink") and symbolic links as well
-    as directory junctions
+    [hard](https://zh.wikipedia.org/wiki/hard_link "wikilink") and
+    symbolic links as well as directory junctions
   - [Symlink accessible driver
     for 2000/XP/2003](https://web.archive.org/web/20100716075342/http://homepage1.nifty.com/emk/symlink.html)，
   - \[<http://technet.microsoft.com/zh-tw/library/cc754077(WS.10>).aspx

@@ -1,22 +1,22 @@
 《**精靈樂章**》（英文名稱：**Grand Fantasia
-Online**\[1\]）是由台灣[億啟數位開發製作的一款](../Page/億啟數位.md "wikilink")[大型多人線上角色扮演遊戲](../Page/大型多人線上角色扮演遊戲.md "wikilink")。玩家在此作中將以精靈使的身份，在3個國度內結識夥伴、培育精靈，並令精靈協助玩家做各種不同事情直至其回歸於大地。\[2\]該作最初於[台灣由](../Page/台灣.md "wikilink")[傳奇網路推出](../Page/傳奇網路.md "wikilink")，2008年11月19日封測，同年12月4日公開測試\[3\]；其後該作陸續在[港澳](../Page/港澳.md "wikilink")，[中國大陸](../Page/中國大陸.md "wikilink")，[北美](../Page/北美.md "wikilink")，[日本](../Page/日本.md "wikilink")，[韓國等多個國家或地區由不同的代理商代理發行](../Page/韓國.md "wikilink")。
+Online**\[1\]）是由台灣[億啟數位開發製作的一款](https://zh.wikipedia.org/wiki/億啟數位 "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")。玩家在此作中將以精靈使的身份，在3個國度內結識夥伴、培育精靈，並令精靈協助玩家做各種不同事情直至其回歸於大地。\[2\]該作最初於[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[傳奇網路推出](../Page/傳奇網路.md "wikilink")，2008年11月19日封測，同年12月4日公開測試\[3\]；其後該作陸續在[港澳](https://zh.wikipedia.org/wiki/港澳 "wikilink")，[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，[日本](../Page/日本.md "wikilink")，[韓國等多個國家或地區由不同的代理商代理發行](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 ## 概要
 
-《**精靈樂章**》最初由[億啟數位所製作與開發](../Page/億啟數位.md "wikilink")，並由[傳奇網路所發行](../Page/傳奇網路.md "wikilink")，於2008年12月4日開始公開測試\[4\]。
+《**精靈樂章**》最初由[億啟數位所製作與開發](https://zh.wikipedia.org/wiki/億啟數位 "wikilink")，並由[傳奇網路所發行](../Page/傳奇網路.md "wikilink")，於2008年12月4日開始公開測試\[4\]。
 
-[香港地區的版本由版本最初由](../Page/香港.md "wikilink")[天宇科技代理](../Page/天宇科技.md "wikilink")，以《**夢之樂章**》標題發行，於2009年1月6日至1月12日期間進行封閉測試，同年1月15日進行公開測試\[5\]，後來改為[Alta
-Multimedia代理](../Page/Alta_Multimedia.md "wikilink")，以《**精靈樂章**》標題發行，2013年3月21日開始封閉測試，同年3月26日開始公開測試。
+[香港地區的版本由版本最初由](../Page/香港.md "wikilink")[天宇科技代理](https://zh.wikipedia.org/wiki/天宇科技 "wikilink")，以《**夢之樂章**》標題發行，於2009年1月6日至1月12日期間進行封閉測試，同年1月15日進行公開測試\[5\]，後來改為[Alta
+Multimedia代理](https://zh.wikipedia.org/wiki/Alta_Multimedia "wikilink")，以《**精靈樂章**》標題發行，2013年3月21日開始封閉測試，同年3月26日開始公開測試。
 
-在[日本地區由](../Page/日本.md "wikilink")[Aeria所代理](../Page/Aeria.md "wikilink")\[6\]，並且同時取得[美國](../Page/美國.md "wikilink")、[法國](../Page/法國.md "wikilink")、[德國以及](../Page/德國.md "wikilink")[拉丁美洲地區的代理權](../Page/拉丁美洲.md "wikilink")，以《**Grand
+在[日本地區由](../Page/日本.md "wikilink")[Aeria所代理](https://zh.wikipedia.org/wiki/Aeria "wikilink")\[6\]，並且同時取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國以及](https://zh.wikipedia.org/wiki/德國 "wikilink")[拉丁美洲地區的代理權](../Page/拉丁美洲.md "wikilink")，以《**Grand
 Fantasia
-精靈物語**》標題發行\[7\]，於2009年4月9日開始至4月22日進行封閉測試\[8\]，5月1日開始進行開放測試\[9\]，5月14日進行正式營運。並在2009年12月13日獲得由[WebMoney主辦的線上遊戲獎](../Page/WebMoney.md "wikilink")（Online
+精靈物語**》標題發行\[7\]，於2009年4月9日開始至4月22日進行封閉測試\[8\]，5月1日開始進行開放測試\[9\]，5月14日進行正式營運。並在2009年12月13日獲得由[WebMoney主辦的線上遊戲獎](https://zh.wikipedia.org/wiki/WebMoney "wikilink")（Online
 Game Award）獲得最佳遊戲獎（Best Game Award）以及最佳新進遊戲獎（Best Rockie
 Award）\[10\]\[11\]。德國於2010年4月1日開始公開測試\[12\]\[13\]。
 
-在中國大陸是由[上海悠遊網所代理發行](../Page/上海悠遊網.md "wikilink")，於2009年8月13日開始進行封閉測試，於2010年1月7日開始公測\[14\]。
+在中國大陸是由[上海悠遊網所代理發行](https://zh.wikipedia.org/wiki/上海悠遊網 "wikilink")，於2009年8月13日開始進行封閉測試，於2010年1月7日開始公測\[14\]。
 
-在韓國由[Liveplex代理](../Page/Liveplex.md "wikilink")\[15\]，於2010年3月31日開始公測。
+在韓國由[Liveplex代理](https://zh.wikipedia.org/wiki/Liveplex "wikilink")\[15\]，於2010年3月31日開始公測。
 
 ## 參考文獻與注釋
 

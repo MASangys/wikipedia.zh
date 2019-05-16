@@ -1,12 +1,12 @@
-**WS-ReliableMessaging**描述了一种协议，在出现软件组件，系统或网络故障时，使得[SOAP消息能够在分布式应用间能够可靠传送](../Page/SOAP.md "wikilink")。
+**WS-ReliableMessaging**描述了一种协议，在出现软件组件，系统或网络故障时，使得[SOAP消息能够在分布式应用间能够可靠传送](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
 
-2003年3月，[BEA Systems](../Page/BEA_Systems.md "wikilink"),
-[微软](../Page/微软.md "wikilink"),
-[IBM](../Page/IBM.md "wikilink"),
-[TIBCO软件公司共同撰写了最初的规范](../Page/TIBCO软件公司.md "wikilink")，在随后的两年里进行改进。2005年6月，2005年3月的版本于被提交到[OASIS的Web服务可靠交换](../Page/結構化資訊標準促進組織.md "wikilink")(WS-RX)技术委员会，2007年6月14日，被批准成为[OASIS标准](../Page/結構化資訊標準促進組織.md "wikilink")，2009年2月2日，1.2版本被批准。
+2003年3月，[BEA
+Systems](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink"),
+[微软](../Page/微软.md "wikilink"), [IBM](../Page/IBM.md "wikilink"),
+[TIBCO软件公司共同撰写了最初的规范](../Page/TIBCO软件公司.md "wikilink")，在随后的两年里进行改进。2005年6月，2005年3月的版本于被提交到[OASIS的Web服务可靠交换](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")(WS-RX)技术委员会，2007年6月14日，被批准成为[OASIS标准](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")，2009年2月2日，1.2版本被批准。
 
-在WS-ReliableMessaging之前，OASIS曾提出过一个竞争的规范([WS-Reliability](../Page/WS-Reliability.md "wikilink"))，该规范为[富士通](../Page/富士通.md "wikilink")，[日立](../Page/日立.md "wikilink")，[NEC](../Page/日本電氣.md "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[Progress
-Software和](../Page/Progress_Software.md "wikilink")[昇陽電腦所支持](../Page/昇陽電腦.md "wikilink")。这些支持者中的大多数现在也支持WS-ReliableMessaging规范。
+在WS-ReliableMessaging之前，OASIS曾提出过一个竞争的规范([WS-Reliability](https://zh.wikipedia.org/wiki/WS-Reliability "wikilink"))，该规范为[富士通](../Page/富士通.md "wikilink")，[日立](https://zh.wikipedia.org/wiki/日立 "wikilink")，[NEC](../Page/日本電氣.md "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[Progress
+Software和](https://zh.wikipedia.org/wiki/Progress_Software "wikilink")[昇陽電腦所支持](../Page/昇陽電腦.md "wikilink")。这些支持者中的大多数现在也支持WS-ReliableMessaging规范。
 
 ## 可靠消息模型
 
@@ -28,7 +28,7 @@ WS-RM协议定义和支持了集中递送保障，包括：
 
 ## 可组合的架构
 
-WS-ReliableMessaging使用[SOAP和](../Page/SOAP.md "wikilink")[WSDL的可扩展性模型](../Page/WSDL.md "wikilink")。WS-ReliableMessaging并没有定义一个完整的消息解决方案的所有特性。WS-ReliableMessaging是一块积木，与其他Web服务规范和应用特定的恶协议一同使用来构建完整的消息解决方案。
+WS-ReliableMessaging使用[SOAP和](https://zh.wikipedia.org/wiki/SOAP "wikilink")[WSDL的可扩展性模型](../Page/WSDL.md "wikilink")。WS-ReliableMessaging并没有定义一个完整的消息解决方案的所有特性。WS-ReliableMessaging是一块积木，与其他Web服务规范和应用特定的恶协议一同使用来构建完整的消息解决方案。
 
 ## 批评
 
@@ -39,16 +39,18 @@ WS-ReliableMessaging使用[SOAP和](../Page/SOAP.md "wikilink")[WSDL的可扩展
   - [Apache
     Sandesha](https://web.archive.org/web/20100715225039/http://ws.apache.org/sandesha/)
   - [WebLogic Server](../Page/WebLogic.md "wikilink")
-  - [IBM WebSphere](../Page/IBM_WebSphere.md "wikilink")
-  - [GlassFish](../Page/GlassFish.md "wikilink")
-  - [SAP NetWeaver](../Page/SAP_NetWeaver.md "wikilink")
+  - [IBM
+    WebSphere](https://zh.wikipedia.org/wiki/IBM_WebSphere "wikilink")
+  - [GlassFish](https://zh.wikipedia.org/wiki/GlassFish "wikilink")
+  - [SAP
+    NetWeaver](https://zh.wikipedia.org/wiki/SAP_NetWeaver "wikilink")
   - 微软[Windows Communication
-    Foundation](../Page/Windows_Communication_Foundation.md "wikilink")
+    Foundation](https://zh.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink")
 
 ## 参见
 
   - [Web服务](../Page/Web服务.md "wikilink")
-  - [WS-Reliability](../Page/WS-Reliability.md "wikilink")
+  - [WS-Reliability](https://zh.wikipedia.org/wiki/WS-Reliability "wikilink")
 
 ## 外部链接
 

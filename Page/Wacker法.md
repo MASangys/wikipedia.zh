@@ -1,7 +1,7 @@
 **瓦克法**（Wacker
-process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page/乙烯.md "wikilink")[四氯钯酸盐](../Page/四氯钯酸盐.md "wikilink")[催化剂的水中](../Page/催化剂.md "wikilink")，被空气中的氧气[氧化为](../Page/氧化.md "wikilink")[乙醛的反应](../Page/乙醛.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page/乙烯.md "wikilink")[四氯钯酸盐](https://zh.wikipedia.org/wiki/四氯钯酸盐 "wikilink")[催化剂的水中](../Page/催化剂.md "wikilink")，被空气中的氧气[氧化为](https://zh.wikipedia.org/wiki/氧化 "wikilink")[乙醛的反应](../Page/乙醛.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-这是第一个工业化的[有机金属](../Page/有机金属.md "wikilink")（[有机钯](../Page/有机钯.md "wikilink")）反应，亦是[均相催化和](../Page/均相催化.md "wikilink")[配位催化中很重要的一个反应](../Page/配位催化.md "wikilink")，在1960年代后发展很快，在石油化工发达的国家已大幅取代了[乙炔水合法](../Page/乙炔水合法.md "wikilink")，用于从[烯烃制取](../Page/烯烃.md "wikilink")[醛](../Page/醛.md "wikilink")、[酮类](../Page/酮.md "wikilink")。反应中的钯配合物与[烯烃配合物](../Page/烯烃配合物.md "wikilink")[蔡氏盐类似](../Page/蔡氏盐.md "wikilink")，不过后者是一个[异相催化剂](../Page/异相催化.md "wikilink")。
+这是第一个工业化的[有机金属](https://zh.wikipedia.org/wiki/有机金属 "wikilink")（[有机钯](https://zh.wikipedia.org/wiki/有机钯 "wikilink")）反应，亦是[均相催化和](https://zh.wikipedia.org/wiki/均相催化 "wikilink")[配位催化中很重要的一个反应](https://zh.wikipedia.org/wiki/配位催化 "wikilink")，在1960年代后发展很快，在石油化工发达的国家已大幅取代了[乙炔水合法](https://zh.wikipedia.org/wiki/乙炔水合法 "wikilink")，用于从[烯烃制取](../Page/烯烃.md "wikilink")[醛](../Page/醛.md "wikilink")、[酮类](../Page/酮.md "wikilink")。反应中的钯配合物与[烯烃配合物](https://zh.wikipedia.org/wiki/烯烃配合物 "wikilink")[蔡氏盐类似](https://zh.wikipedia.org/wiki/蔡氏盐 "wikilink")，不过后者是一个[异相催化剂](https://zh.wikipedia.org/wiki/异相催化 "wikilink")。
 
 此反应形式上与[氢甲酰化反应类似](../Page/氢甲酰化反应.md "wikilink")，都是工业上用于醛类的反应。但两者不同的是，氢甲酰化所用的是[铑基催化剂](../Page/铑.md "wikilink")，而且氢甲酰化是一个增碳过程。
 
@@ -25,7 +25,7 @@ process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page
 发展了混合溶剂体系（[DMF](../Page/DMF.md "wikilink")/H<sub>2</sub>O），又称为“Wacker-Tsuji
 氧化反应”。最常用的烯烃底物是末烯，反应遵循[马氏规则](../Page/马氏规则.md "wikilink")，得甲基酮。1,2-二取代烯烃也可反应，但区域选择性难以控制。1,1-二取代烯烃的氧化产率低。1,3-丁二烯氧化得α,β-不饱和醛。环烯烃氧化得环酮。
 
-例如，[1-癸烯在氯化钯和氯化铜存在下](../Page/1-癸烯.md "wikilink")，在二甲基甲酰胺／水溶剂中，可被空气氧化成为2-癸酮。\[7\]
+例如，[1-癸烯在氯化钯和氯化铜存在下](https://zh.wikipedia.org/wiki/1-癸烯 "wikilink")，在二甲基甲酰胺／水溶剂中，可被空气氧化成为2-癸酮。\[7\]
 
   -
     [Oxidation_of_decene_to_decanone.png](https://zh.wikipedia.org/wiki/File:Oxidation_of_decene_to_decanone.png "fig:Oxidation_of_decene_to_decanone.png")
@@ -53,9 +53,10 @@ process），又称**Hoechst-Wacker法**，最早是指[乙烯在含有](../Page
     **1962**, 95, 1575-1581.
 6.  J. Smidt, W. Hafner, R. Jira, R. Sieber, J. Sedlmeier, and A. Sabel,
     Angew. Chem., Int. Ed. Engl., **1962**, 1, 80-88.
-7.  [Jiro Tsuji](../Page/Jiro_Tsuji.md "wikilink"), Hideo Nagashima, and
-    Hisao Nemoto, [General Synthetic Method for the preparation of
-    Methyl Ketones from Terminal
+7.  [Jiro Tsuji](https://zh.wikipedia.org/wiki/Jiro_Tsuji "wikilink"),
+    Hideo Nagashima, and Hisao Nemoto, [General Synthetic Method for the
+    preparation of Methyl Ketones from Terminal
     Olefins: 2-Decanone](http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv7p0137A),
-    [Organic Syntheses](../Page/Organic_Syntheses.md "wikilink"), Coll.
-    Vol. 7, p.137 (1990); Vol. 62, p.9 (1984).
+    [Organic
+    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
+    Coll. Vol. 7, p.137 (1990); Vol. 62, p.9 (1984).

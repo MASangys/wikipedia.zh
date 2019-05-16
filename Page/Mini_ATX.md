@@ -1,6 +1,6 @@
-Mini-ATX是由建碁[AOpen Inc.](../Page/AOpen.md "wikilink") 所研發之15 x 15 cm
-(5.9 x
-5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX略小](../Page/Mini-ITX.md "wikilink")。Mini-ATX主機板是經由MoDT
+Mini-ATX是由建碁[AOpen Inc.](https://zh.wikipedia.org/wiki/AOpen "wikilink")
+所研發之15 x 15 cm (5.9 x
+5.9英吋)的主機板規格。Mini-ATX比[Mini-ITX略小](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink")。Mini-ATX主機板是經由MoDT
 (Mobile on Desktop
 Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又不失效能之目的。因此非常適合家庭戲院電腦(HTPC)之應用以及車用電腦等工業級應用。
 
@@ -8,7 +8,7 @@ Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又
 
 ### 小型化
 
-其15乘15公分的尺寸，讓Mini-ATX主機板可以置入於1[DIN大小的空間](../Page/DIN.md "wikilink")，方便以標準的尺寸來應用於車上、堆疊式系統、塔型機殼以及壁掛等特殊應用，這是Mini-ITX主機板所做不到的。而更小的Nano-ITX尺寸的主機板則缺乏方便替換CPU的模組而限制了其在應用上之彈性。
+其15乘15公分的尺寸，讓Mini-ATX主機板可以置入於1[DIN大小的空間](https://zh.wikipedia.org/wiki/DIN "wikilink")，方便以標準的尺寸來應用於車上、堆疊式系統、塔型機殼以及壁掛等特殊應用，這是Mini-ITX主機板所做不到的。而更小的Nano-ITX尺寸的主機板則缺乏方便替換CPU的模組而限制了其在應用上之彈性。
 
 ### 安靜
 
@@ -16,7 +16,7 @@ Technology)技術，搭配筆記型低功耗與低廢熱CPU達成小型化卻又
 
 ### 穩定
 
-Mini-ATX主機板採用[SMT技術與固態電容加上](../Page/SMT.md "wikilink")8層[PCB設計來增加系統的](../Page/PCB.md "wikilink")[MTBF](../Page/MTBF.md "wikilink")。SMT可以減少內部傳輸的干擾，並且8層的PCB板可以提供最佳的訊號傳輸品質。
+Mini-ATX主機板採用[SMT技術與固態電容加上](https://zh.wikipedia.org/wiki/SMT "wikilink")8層[PCB設計來增加系統的](https://zh.wikipedia.org/wiki/PCB "wikilink")[MTBF](https://zh.wikipedia.org/wiki/MTBF "wikilink")。SMT可以減少內部傳輸的干擾，並且8層的PCB板可以提供最佳的訊號傳輸品質。
 
 ### 有彈性
 
@@ -34,8 +34,8 @@ mini。借由小型化的Mini-ATX主機板之助，XC mini系列的主機大小�
 165(深) mm，是為世界上最小的桌上型電腦。
 
 在2006年AOpen推出了第一部使用Mini-ATX主機板的應用型電腦\[數位引擎\] (DE-945FX)系列。在1
-DIN大小的尺寸中搭配Intel的CPU，讓數位引擎成為相當受歡迎的應用型電腦\[1\]特別是在車用電腦（台灣三菱汽車）、飛航資訊系統([SFO](../Page/SFO.md "wikilink"),
-美國洛杉磯機場)等。近年來數位引擎與Mini-ATX主機板大量應用在KIOSK、[數位電子看板](../Page/數位電子看板.md "wikilink")、POS、醫療用電腦與保全系統等。
+DIN大小的尺寸中搭配Intel的CPU，讓數位引擎成為相當受歡迎的應用型電腦\[1\]特別是在車用電腦（台灣三菱汽車）、飛航資訊系統([SFO](https://zh.wikipedia.org/wiki/SFO "wikilink"),
+美國洛杉磯機場)等。近年來數位引擎與Mini-ATX主機板大量應用在KIOSK、[數位電子看板](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")、POS、醫療用電腦與保全系統等。
 
 ## 參考資料
 

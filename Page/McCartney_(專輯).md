@@ -1,4 +1,4 @@
-《**麦卡特尼**》是英國歌手[保羅·麥卡特尼首张个人专辑](../Page/保羅·麥卡特尼.md "wikilink")。
+《**麦卡特尼**》是英國歌手[保羅·麥卡特尼首张个人专辑](https://zh.wikipedia.org/wiki/保羅·麥卡特尼 "wikilink")。
 
 ## 曲目
 
@@ -38,10 +38,10 @@
 
 ## 音樂錄影帶
 
-| 歌名                                                             | 導演              | 首播日期  | 首播頻道                                |
-| -------------------------------------------------------------- | --------------- | ----- | ----------------------------------- |
-| [Maybe I'm Amazed](http://www.youtube.com/watch?v=cm2YyVZBL8U) | Charlie Jenkins | 1970年 | [BBC](../Page/英國廣播公司.md "wikilink") |
-|                                                                |                 |       |                                     |
+| 歌名                                                             | 導演              | 首播日期  | 首播頻道                                                   |
+| -------------------------------------------------------------- | --------------- | ----- | ------------------------------------------------------ |
+| [Maybe I'm Amazed](http://www.youtube.com/watch?v=cm2YyVZBL8U) | Charlie Jenkins | 1970年 | [BBC](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink") |
+|                                                                |                 |       |                                                        |
 
 [Category:1970年音樂專輯](https://zh.wikipedia.org/wiki/Category:1970年音樂專輯 "wikilink")
 [Category:保羅·麥卡尼音樂專輯](https://zh.wikipedia.org/wiki/Category:保羅·麥卡尼音樂專輯 "wikilink")

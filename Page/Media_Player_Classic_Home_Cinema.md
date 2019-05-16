@@ -1,6 +1,6 @@
 ****，簡稱****，是一款簡潔的媒體播放器，[Media Player
 Classic](../Page/Media_Player_Classic.md "wikilink")
-的後續版本，有[32位元和](../Page/x86.md "wikilink")[64位元版本](../Page/x64.md "wikilink")。2017年7月16日，原作者XhmikosR在發佈1.7.13版後宣佈由於開發者的流失，如沒有其他開發者加入的話，項目將會正式終結\[1\]。後續由
+的後續版本，有[32位元和](https://zh.wikipedia.org/wiki/x86 "wikilink")[64位元版本](https://zh.wikipedia.org/wiki/x64 "wikilink")。2017年7月16日，原作者XhmikosR在發佈1.7.13版後宣佈由於開發者的流失，如沒有其他開發者加入的話，項目將會正式終結\[1\]。後續由
 clsid2 接替更新1.7.13後版本\[2\]。
 
 [MPC-HC_1.7.10_x86_running_on_Windows_10.png](https://zh.wikipedia.org/wiki/File:MPC-HC_1.7.10_x86_running_on_Windows_10.png "fig:MPC-HC_1.7.10_x86_running_on_Windows_10.png")
@@ -13,10 +13,10 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
   - 支持[Windows XP](../Page/Windows_XP.md "wikilink") SP3、[Windows
     Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-    7](../Page/Windows_7.md "wikilink")、[Windows
-    8](../Page/Windows_8.md "wikilink")、[Windows
+    7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
+    8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
     8.1及](../Page/Windows_8.1.md "wikilink")[Windows
-    10](../Page/Windows_10.md "wikilink")，拥有[64位版本](../Page/64位.md "wikilink")
+    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，拥有[64位版本](https://zh.wikipedia.org/wiki/64位 "wikilink")
 
 <!-- end list -->
 
@@ -24,7 +24,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
 <!-- end list -->
 
-  - 支持[EVR渲染器](../Page/Media_Foundation#增強型視訊渲染器.md "wikilink")
+  - 支持[EVR渲染器](https://zh.wikipedia.org/wiki/Media_Foundation#增強型視訊渲染器 "wikilink")
 
 <!-- end list -->
 
@@ -52,12 +52,12 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
 <!-- end list -->
 
-  - 拥有转换[BT601与](../Page/BT.601.md "wikilink")[BT709的像素着色器](../Page/Rec._709.md "wikilink")
+  - 拥有转换[BT601与](https://zh.wikipedia.org/wiki/BT.601 "wikilink")[BT709的像素着色器](https://zh.wikipedia.org/wiki/Rec._709 "wikilink")
 
 <!-- end list -->
 
-  - 拥有[YV12](../Page/YUV#YV12.md "wikilink")
-    [色度](../Page/色度_\(色彩学\).md "wikilink")[升採樣像素着色器](../Page/升採樣.md "wikilink")
+  - 拥有[YV12](https://zh.wikipedia.org/wiki/YUV#YV12 "wikilink")
+    [色度](https://zh.wikipedia.org/wiki/色度_\(色彩学\) "wikilink")[升採樣像素着色器](../Page/升採樣.md "wikilink")
 
 <!-- end list -->
 
@@ -72,8 +72,8 @@ clsid2 接替更新1.7.13後版本\[2\]。
   - 借助免费[Android应用软体实现远程控制](../Page/Android.md "wikilink")
   - 可播放[VCD](../Page/VCD.md "wikilink"),
     [SVCD](../Page/SVCD.md "wikilink"),
-    [DVD](../Page/DVD.md "wikilink"),
-    [藍光DVD](../Page/Blu-ray.md "wikilink")
+    [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink"),
+    [藍光DVD](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
 
 ## 外部連結
 

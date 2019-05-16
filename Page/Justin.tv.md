@@ -1,13 +1,13 @@
-**Justin.tv**，于2007年3月建立，創辦人為簡側田（）。總部位于美國加利福尼亞州舊金山。它是一個可即時聊天的個人線上音樂與[影音串流平台](../Page/影音串流.md "wikilink")。
+**Justin.tv**，于2007年3月建立，創辦人為簡側田（）。總部位于美國加利福尼亞州舊金山。它是一個可即時聊天的個人線上音樂與[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")。
 
-2011年6月，分割出聚焦於電子遊戲直播的網站「[Twitch](../Page/Twitch.md "wikilink")」。2014年2月，Twitch.tv與Justin.Tv的母公司改名為「Twitch
+2011年6月，分割出聚焦於電子遊戲直播的網站「[Twitch](https://zh.wikipedia.org/wiki/Twitch "wikilink")」。2014年2月，Twitch.tv與Justin.Tv的母公司改名為「Twitch
 Interactive」\[1\]。同年8月5日，Justin.tv終止服務\[2\]\[3\]\[4\] 。
 
 ## 相關條目
 
-  - [Twitch](../Page/Twitch.md "wikilink")
-  - [Ustream](../Page/Ustream.md "wikilink")
-  - [NicoNico](../Page/NicoNico.md "wikilink")
+  - [Twitch](https://zh.wikipedia.org/wiki/Twitch "wikilink")
+  - [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
+  - [NicoNico](https://zh.wikipedia.org/wiki/NicoNico "wikilink")
   - [LIVEhouse.in](../Page/LIVEhouse.in.md "wikilink")
 
 ## 參考資料

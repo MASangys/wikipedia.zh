@@ -1,8 +1,8 @@
-《**銀河系傳承**》（）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[安西信行的](../Page/安西信行.md "wikilink")[少年漫畫作品](../Page/少年漫畫.md "wikilink")。於小學館的《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》連載，連載開始時的名稱為《MiXiM♀12》（ミクシム★トゥエルヴ），而後改成《MIXIM☆11》（ミクシム☆イレブン）。台灣由[東立出版社出版](../Page/東立出版社.md "wikilink")。
+《**銀河系傳承**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安西信行的](../Page/安西信行.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於小學館的《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》連載，連載開始時的名稱為《MiXiM♀12》（ミクシム★トゥエルヴ），而後改成《MIXIM☆11》（ミクシム☆イレブン）。台灣由[東立出版社出版](../Page/東立出版社.md "wikilink")。
 
 ## 概要
 
-[安西信行與原助理職位的野坂尚史](../Page/安西信行.md "wikilink")（2008年33號後改稱[野坂恒](../Page/野坂恒.md "wikilink")）共稱「安西信行野坂尚史」。同年33號改變為「安西信行☆野坂恒」。日版單行本第一集的作者名稱為「安西信行☆野坂恒」（台版沒有），但網路上的記載與情報常常招致誤會，而後單行本改回「安西信行」的名義。作者於[MÄR魔兵傳奇結束連載後](../Page/MÄR魔兵傳奇.md "wikilink")，曾宣稱無限期休筆，不再畫漫畫（健康因素），但兩年後，因為個人因素（單行本第一集上是說因為「想畫星空」），再度執筆。
+[安西信行與原助理職位的野坂尚史](../Page/安西信行.md "wikilink")（2008年33號後改稱[野坂恒](https://zh.wikipedia.org/wiki/野坂恒 "wikilink")）共稱「安西信行野坂尚史」。同年33號改變為「安西信行☆野坂恒」。日版單行本第一集的作者名稱為「安西信行☆野坂恒」（台版沒有），但網路上的記載與情報常常招致誤會，而後單行本改回「安西信行」的名義。作者於[MÄR魔兵傳奇結束連載後](https://zh.wikipedia.org/wiki/MÄR魔兵傳奇 "wikilink")，曾宣稱無限期休筆，不再畫漫畫（健康因素），但兩年後，因為個人因素（單行本第一集上是說因為「想畫星空」），再度執筆。
 
 「MIXIM」是由兩個MIX單字合成而來的自創詞彙，話數單位是「Mix.○」，也代表「融合」的意思。其中，故事裡也有包含作者以前的作品的要素，像是火箭公主與烈火之炎的要素。
 
@@ -288,7 +288,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -363,7 +363,7 @@
   - [漫画家BACKSTAGE
     安西信行](https://web.archive.org/web/20090727192057/http://websunday.net/backstage/set_anzai.html)
 
-[en:Mixim 11](../Page/en:Mixim_11.md "wikilink")
+[en:Mixim 11](https://zh.wikipedia.org/wiki/en:Mixim_11 "wikilink")
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")

@@ -1,13 +1,13 @@
-**Boyce-Codd范式**（，缩写），是[数据库规范化的一种](../Page/数据库规范化.md "wikilink")[正规形式](../Page/正规形式.md "wikilink")。是在[第三范式的基础上加上稍微更严格约束](../Page/第三范式.md "wikilink")，每个BCNF关系都满足[第三范式](../Page/第三范式.md "wikilink")。BCNF去除了属性间的不必要的函数依赖。
+**Boyce-Codd范式**（，缩写），是[数据库规范化的一种](https://zh.wikipedia.org/wiki/数据库规范化 "wikilink")[正规形式](https://zh.wikipedia.org/wiki/正规形式 "wikilink")。是在[第三范式的基础上加上稍微更严格约束](https://zh.wikipedia.org/wiki/第三范式 "wikilink")，每个BCNF关系都满足[第三范式](https://zh.wikipedia.org/wiki/第三范式 "wikilink")。BCNF去除了属性间的不必要的函数依赖。
 
 BCNF的定义是：
 
   -
-    如果对于[关系模式R中存在的任意一个非平凡函数依赖X](../Page/关系模式.md "wikilink")-\>A，都满足X是R的一个[超键](../Page/超键.md "wikilink")，那么关系模式R就属于BCNF。
+    如果对于[关系模式R中存在的任意一个非平凡函数依赖X](https://zh.wikipedia.org/wiki/关系模式 "wikilink")-\>A，都满足X是R的一个[超键](https://zh.wikipedia.org/wiki/超键 "wikilink")，那么关系模式R就属于BCNF。
 
-对上述定义，可以理解为：平凡函数依赖关系是指，如果属性集合X包含了属性集合A，那么就一定有X-\>A；超键是指能够唯一确定表中各行的属性集合，因此一个超键的最小化就是一个[候選鍵](../Page/候選鍵.md "wikilink")；BCNF是说，如果一个属性集合X能“不平凡”地推导出另一个属性集合A，而且X还不能唯一区分表的各行，那么这个表中一定包含了一些冗余信息。
+对上述定义，可以理解为：平凡函数依赖关系是指，如果属性集合X包含了属性集合A，那么就一定有X-\>A；超键是指能够唯一确定表中各行的属性集合，因此一个超键的最小化就是一个[候選鍵](https://zh.wikipedia.org/wiki/候選鍵 "wikilink")；BCNF是说，如果一个属性集合X能“不平凡”地推导出另一个属性集合A，而且X还不能唯一区分表的各行，那么这个表中一定包含了一些冗余信息。
 
-BCNF与[第三范式的不同之处在于](../Page/第三范式.md "wikilink")：第三范式中不允许[非主属性被另一个非主属性决定](../Page/非主属性.md "wikilink")，但第三范式允许主属性被非主属性决定；而在BCNF中，任何属性（包括非主属性和主属性）都不能被非主属性所决定。
+BCNF与[第三范式的不同之处在于](https://zh.wikipedia.org/wiki/第三范式 "wikilink")：第三范式中不允许[非主属性被另一个非主属性决定](https://zh.wikipedia.org/wiki/非主属性 "wikilink")，但第三范式允许主属性被非主属性决定；而在BCNF中，任何属性（包括非主属性和主属性）都不能被非主属性所决定。
 
 任何一个BCNF必然满足：
 
@@ -79,6 +79,6 @@ BCNF与[第三范式的不同之处在于](../Page/第三范式.md "wikilink")�
 {{-}}
 
 [de:Normalisierung (Datenbank)\#Boyce-Codd-Normalform
-(BCNF)](../Page/de:Normalisierung_\(Datenbank\)#Boyce-Codd-Normalform_\(BCNF\).md "wikilink")
+(BCNF)](https://zh.wikipedia.org/wiki/de:Normalisierung_\(Datenbank\)#Boyce-Codd-Normalform_\(BCNF\) "wikilink")
 
 [Category:資料庫正規化](https://zh.wikipedia.org/wiki/Category:資料庫正規化 "wikilink")

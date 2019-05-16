@@ -17,7 +17,7 @@
       - 作詞・作曲：コダマックス／編曲：大西省吾・コダマックス
 
 [ja:GIFT (関ジャニ∞のシングル)\#GIFT
-〜赤〜](../Page/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜赤〜.md "wikilink")
+〜赤〜](https://zh.wikipedia.org/wiki/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜赤〜 "wikilink")
 
 [Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
 [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")

@@ -1,14 +1,14 @@
 《**Body Feels
-EXIT**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠以單獨名義發行的第](../Page/安室奈美惠.md "wikilink")3張[單曲和成名作](../Page/單曲.md "wikilink")。1995年10月25日發行。
+EXIT**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠以單獨名義發行的第](../Page/安室奈美惠.md "wikilink")3張[單曲和成名作](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年10月25日發行。
 
 ## 簡介
 
-  - 是[安室奈美惠從](../Page/安室奈美惠.md "wikilink")[東芝EMI轉籍到](../Page/東芝EMI.md "wikilink")[avex之後發行的首張單曲](../Page/avex.md "wikilink")。也是安室首次和[小室哲哉合作的作品](../Page/小室哲哉.md "wikilink")。在前唱片公司東芝EMI發行的[原創專輯](../Page/錄音室專輯.md "wikilink")《[DANCE
+  - 是[安室奈美惠從](../Page/安室奈美惠.md "wikilink")[東芝EMI轉籍到](https://zh.wikipedia.org/wiki/東芝EMI "wikilink")[avex之後發行的首張單曲](https://zh.wikipedia.org/wiki/avex "wikilink")。也是安室首次和[小室哲哉合作的作品](../Page/小室哲哉.md "wikilink")。在前唱片公司東芝EMI發行的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[DANCE
     TRACKS VOL.1](../Page/DANCE_TRACKS_VOL.1.md "wikilink")》之後9天即發售這張單曲。
 
 <!-- end list -->
 
-  - 歌曲被用作安室親自出演的[TAITO家庭式](../Page/TAITO.md "wikilink")[卡拉OK產品](../Page/卡拉OK.md "wikilink")「[X-55](../Page/X-55.md "wikilink")」的電視廣告歌。
+  - 歌曲被用作安室親自出演的[TAITO家庭式](https://zh.wikipedia.org/wiki/TAITO "wikilink")[卡拉OK產品](../Page/卡拉OK.md "wikilink")「[X-55](https://zh.wikipedia.org/wiki/X-55 "wikilink")」的電視廣告歌。
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@ EXIT**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 <!-- end list -->
 
   - 雖然發行當時安室已是個人歌手姿態，惟SUPER MONKEY'S其餘四位成員
-    (即現[MAX成員](../Page/MAX_\(日本音樂團體\).md "wikilink"))
+    (即現[MAX成員](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink"))
     依然在安室背後擔任舞者。
 
 ## 收錄曲目

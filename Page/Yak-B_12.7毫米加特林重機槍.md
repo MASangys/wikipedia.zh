@@ -1,15 +1,15 @@
 **Yak-B
-12.7**（；圖拉設計局原廠編號：TKB-063；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：）是一挺由[前苏联](../Page/苏联.md "wikilink")[P.G.
-Jakuschew和](../Page/P.G._Jakuschew.md "wikilink")[B.A.
-Borsow所設計](../Page/B.A._Borsow.md "wikilink")、[KBP儀器設計廠生產的遙控型高轉速](../Page/俄联邦仪器设计局.md "wikilink")4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，類似的槍械是[GAU-19](../Page/GAU-19加特林重機槍.md "wikilink")，發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](../Page/口徑.md "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。其名字的來源是開發商的最後的字母縮寫和[亞庫舍夫·波薩克](../Page/亞庫舍夫·波薩克.md "wikilink")（）。
+12.7**（；圖拉設計局原廠編號：TKB-063；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：）是一挺由[前苏联](../Page/苏联.md "wikilink")[P.G.
+Jakuschew和](https://zh.wikipedia.org/wiki/P.G._Jakuschew "wikilink")[B.A.
+Borsow所設計](https://zh.wikipedia.org/wiki/B.A._Borsow "wikilink")、[KBP儀器設計廠生產的遙控型高轉速](../Page/俄联邦仪器设计局.md "wikilink")4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，類似的槍械是[GAU-19](../Page/GAU-19加特林重機槍.md "wikilink")，發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。其名字的來源是開發商的最後的字母縮寫和[亞庫舍夫·波薩克](https://zh.wikipedia.org/wiki/亞庫舍夫·波薩克 "wikilink")（）。
 
 ## 設計細節
 
 Yak-B
-12.7是為了安裝在[Mi-24“雌鹿”](../Page/Mi-24雌鹿直升機.md "wikilink")[攻击直升机的機鼻前端和低搭載量的軍用](../Page/攻击直升机.md "wikilink")[運輸機使用](../Page/運輸機.md "wikilink")（備彈量為1,470發）；這也可以安裝在[GUV-8700](../Page/GUV-8700.md "wikilink")（備彈量為750發，連2具[7.62×54毫米俄羅斯](../Page/7.62×54R子彈.md "wikilink")[口徑的](../Page/口徑.md "wikilink")[GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")[加特林機槍或是](../Page/加特林機槍.md "wikilink")1具[30×29毫米無彈殼榴彈的](../Page/30×29mm.md "wikilink")[AGS-17“烈火”](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[自動榴彈發射器](../Page/榴彈發射器.md "wikilink")）。
+12.7是為了安裝在[Mi-24“雌鹿”](../Page/Mi-24雌鹿直升機.md "wikilink")[攻击直升机的機鼻前端和低搭載量的軍用](../Page/攻击直升机.md "wikilink")[運輸機使用](../Page/運輸機.md "wikilink")（備彈量為1,470發）；這也可以安裝在[GUV-8700](https://zh.wikipedia.org/wiki/GUV-8700 "wikilink")（備彈量為750發，連2具[7.62×54毫米俄羅斯](https://zh.wikipedia.org/wiki/7.62×54R子彈 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")[加特林機槍或是](https://zh.wikipedia.org/wiki/加特林機槍 "wikilink")1具[30×29毫米無彈殼榴彈的](https://zh.wikipedia.org/wiki/30×29mm "wikilink")[AGS-17“烈火”](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")）。
 
 Yak-B 12.7是一挺4
-[槍管的高轉速](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，採用[氣動式自動方式](../Page/氣動式_\(槍械\).md "wikilink")，[滾轉式槍機閉鎖方式](../Page/滾轉式槍機.md "wikilink")。[彈鏈供彈](../Page/彈鏈.md "wikilink")，火藥彈首發起動。理論[射速為](../Page/射速.md "wikilink")4,000—5,000發／分鐘。
+[槍管的高轉速](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，採用[氣動式自動方式](../Page/氣動式_\(槍械\).md "wikilink")，[滾轉式槍機閉鎖方式](../Page/滾轉式槍機.md "wikilink")。[彈鏈供彈](../Page/彈鏈.md "wikilink")，火藥彈首發起動。理論[射速為](https://zh.wikipedia.org/wiki/射速 "wikilink")4,000—5,000發／分鐘。
 
 ### 首發起動裝置
 
@@ -28,7 +28,7 @@ Yak-B 12.7是一挺4
 ### 點射間能量儲存和釋放
 
 若每次點射間的再次發射都是使用火藥彈起動，則需要設置數量較多的火藥彈；因此，Yak-B
-12.7以上採用了一個利用儲能扭簧的儲能機構，將發射過程中的火藥燃氣能量轉化為[弹簧](../Page/弹簧.md "wikilink")[勢能儲存起來](../Page/勢能.md "wikilink")。再次發射時，可使Yak-B
+12.7以上採用了一個利用儲能扭簧的儲能機構，將發射過程中的火藥燃氣能量轉化為[弹簧](../Page/弹簧.md "wikilink")[勢能儲存起來](https://zh.wikipedia.org/wiki/勢能 "wikilink")。再次發射時，可使Yak-B
 12.7迅速轉入連射狀態。
 
 儲能簧的前端插入儲能杆前端的圓盤內，並有反向力作用在圓盤上。儲能簧的另一端插入槍管組件的圓盤內，也存在一作用力使槍管組件按Ａ向轉動。儲能杆尾端固定一棘輪並被棘爪鎖住，儲能杆無法反向轉動。由於行星輪機構中的內齒環被儲能扣機扣住，因此行星輪機構中由四個小行星齒輪及齒盤組成的行星輪組被卡滯在某一位置，槍管處於靜止狀態。
@@ -45,19 +45,19 @@ Yak-B
 ### 安裝載具、取代及後續
 
 Mi-24上的Yak-B
-12.7是安裝在VSPU-24機鼻下方的[砲塔](../Page/砲塔.md "wikilink")，其旋轉及攻擊角度為左右60[°](../Page/度_\(角\).md "wikilink")、仰角20°
+12.7是安裝在VSPU-24機鼻下方的[砲塔](../Page/砲塔.md "wikilink")，其旋轉及攻擊角度為左右60[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")、仰角20°
 和俯角60°。Yak-B 12.7是由KPS-53AV機鼻瞄準系統與裝在駕駛艙前面的反射式瞄準系統一起所操控。
 
 但是，Yak-B
-12.7因為被指出並沒有足以貫穿那些沒必要使用[火箭彈或](../Page/火箭炮.md "wikilink")[反坦克导弹攻擊的](../Page/反坦克导弹.md "wikilink")[輕裝甲或非裝甲目標的破壞力](../Page/輕裝甲.md "wikilink")。結果Yak-B
+12.7因為被指出並沒有足以貫穿那些沒必要使用[火箭彈或](../Page/火箭炮.md "wikilink")[反坦克导弹攻擊的](../Page/反坦克导弹.md "wikilink")[輕裝甲或非裝甲目標的破壞力](https://zh.wikipedia.org/wiki/輕裝甲 "wikilink")。結果Yak-B
 12.7從後期生產型號的Mi-24P和Mi-24VP開始分別被固定式[GSh-30K雙管式](../Page/GSh-30-2機炮.md "wikilink")30毫米機炮（固定安裝在機鼻右側部分）或可旋轉式[GSh-23L雙管式](../Page/GSh-23機炮.md "wikilink")23毫米機炮（安裝在機鼻下方的NPPU-23可旋轉式[砲塔](../Page/砲塔.md "wikilink")）所取代了。\[1\]
 
-此外，Mi-24系列本身的後繼機型，[Mi-28“浩劫”與](../Page/Mi-28攻擊直升機.md "wikilink")[卡-50“黑鯊”／卡-52“鱷魚B”](../Page/Ka-50攻擊直升機.md "wikilink")，搭載的機首下方武器都是一門[希普諾夫2A42單管式機炮](../Page/希普諾夫2A42機炮.md "wikilink")。
+此外，Mi-24系列本身的後繼機型，[Mi-28“浩劫”與](../Page/Mi-28攻擊直升機.md "wikilink")[卡-50“黑鯊”／卡-52“鱷魚B”](https://zh.wikipedia.org/wiki/Ka-50攻擊直升機 "wikilink")，搭載的機首下方武器都是一門[希普諾夫2A42單管式機炮](../Page/希普諾夫2A42機炮.md "wikilink")。
 
 ## 衍生型
 
 **Yak-BYu
-12.7**（；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：）是Yak-B
+12.7**（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：）是Yak-B
 12.7的現代化改進型。除了令射速不低於4,500發／分鐘外，並且把[槍管的壽命延長至](../Page/槍管.md "wikilink")80,000至120,000發。目前，Yak-BYu
 12.7就是該系列之中最完善的版本。
 
@@ -73,26 +73,26 @@ machine gun - TulaStateArmsMuseum2013-45.jpg|YaK-B
 cannon.jpg|裝在[Mi-24D“雌鹿”](../Page/Mi-24雌鹿直升機.md "wikilink")[攻击直升机機鼻前端的Yak](../Page/攻击直升机.md "wikilink")-B
 12.7毫米加特林重機槍 <File:Krzesiny> 85RB.JPG|波蘭Mi-24W“雌鹿”攻击直升机機鼻前端的Yak-B
 12.7毫米加特林重機槍
-|安裝在[GUV-8700](../Page/GUV-8700.md "wikilink")內的Yak-B加特林重機槍，兩側的兩挺加特林機槍為[GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")
+|安裝在[GUV-8700](https://zh.wikipedia.org/wiki/GUV-8700 "wikilink")內的Yak-B加特林重機槍，兩側的兩挺加特林機槍為[GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")
 
 ## 參見
 
-  - [重機槍](../Page/重機槍.md "wikilink")
+  - [重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")
   - [加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")—起源於1860年代及裝有旋轉式[槍管的武器概念](../Page/槍管.md "wikilink")
   - [GSh-6-30](../Page/GSh-6-30加特林机炮.md "wikilink")
   - [GSh-6-23](../Page/GSh-6-23加特林机炮.md "wikilink")
   - [GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")
-  - [GShG-5.45](../Page/GShG-5.45加特林機槍.md "wikilink")
+  - [GShG-5.45](https://zh.wikipedia.org/wiki/GShG-5.45加特林機槍 "wikilink")
   - [M197加特林機炮](../Page/M197加特林機炮.md "wikilink")
-  - [WLKM加特林重機槍](../Page/WLKM加特林重機槍.md "wikilink")，[波兰設計的](../Page/波兰.md "wikilink")12.7毫米高射機槍
+  - [WLKM加特林重機槍](../Page/WLKM加特林重機槍.md "wikilink")，[波兰設計的](https://zh.wikipedia.org/wiki/波兰 "wikilink")12.7毫米高射機槍
   - [GAU-19](../Page/GAU-19加特林重機槍.md "wikilink")，[美国設計的](../Page/美国.md "wikilink")12.7毫米加特林式機槍
-  - [CS/LM5型转管机枪](../Page/CS/LM5型转管机枪.md "wikilink")，[中国設計的](../Page/中国.md "wikilink")12.7毫米高射機槍
+  - [CS/LM5型转管机枪](https://zh.wikipedia.org/wiki/CS/LM5型转管机枪 "wikilink")，[中国設計的](https://zh.wikipedia.org/wiki/中国 "wikilink")12.7毫米高射機槍
   - [DShK重機槍](../Page/DShK重機槍.md "wikilink")
   - [NSV重機槍](../Page/NSV重機槍.md "wikilink")
   - [Kord重機槍](../Page/Kord重機槍.md "wikilink")
-  - [努登費爾特機槍](../Page/努登費爾特機槍.md "wikilink")
-  - [嘉仕達機槍](../Page/嘉仕達機槍.md "wikilink")
-  - [鏈炮](../Page/鏈炮.md "wikilink")
+  - [努登費爾特機槍](https://zh.wikipedia.org/wiki/努登費爾特機槍 "wikilink")
+  - [嘉仕達機槍](https://zh.wikipedia.org/wiki/嘉仕達機槍 "wikilink")
+  - [鏈炮](https://zh.wikipedia.org/wiki/鏈炮 "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 
 ## 資料來源

@@ -2,7 +2,7 @@
 
 ## 简介
 
-培生学术英语考试是由[金融时报的母公司英国](../Page/金融时报.md "wikilink")[培生集团以及](../Page/培生集团.md "wikilink")[GMAT的开发机构](../Page/GMAT.md "wikilink")[管理专业研究生入学考试委员会](../Page/GMAC（管理专业研究生入学考试委员会）.md "wikilink")（GMAC）共同研究主办于2009年10月26日推出的新一代的国际性英语水平测试。
+培生学术英语考试是由[金融时报的母公司英国](https://zh.wikipedia.org/wiki/金融时报 "wikilink")[培生集团以及](https://zh.wikipedia.org/wiki/培生集团 "wikilink")[GMAT的开发机构](../Page/GMAT.md "wikilink")[管理专业研究生入学考试委员会](https://zh.wikipedia.org/wiki/GMAC（管理专业研究生入学考试委员会） "wikilink")（GMAC）共同研究主办于2009年10月26日推出的新一代的国际性英语水平测试。
 
   - 培生学术英语考试是一款完全基于计算机评分的英语水平考试。
   - 为大学，高等学术机构，政府部门等专业组织提供全方位的学术英语能力衡量。
@@ -15,7 +15,7 @@
     skills），从这个角度来说它和新托福（TOEFL iBT）更像。
   - 考试长度为单一的3个小时。
   - 考试在计算机平台上进行（computer-based）,
-    相对于[雅思的传统卷面答题](../Page/雅思.md "wikilink")，[培生学术英语和新](../Page/培生学术英语.md "wikilink")[托福的网络答题](../Page/托福.md "wikilink")（internet-based）平台更为接近。
+    相对于[雅思的传统卷面答题](../Page/雅思.md "wikilink")，[培生学术英语和新](https://zh.wikipedia.org/wiki/培生学术英语 "wikilink")[托福的网络答题](../Page/托福.md "wikilink")（internet-based）平台更为接近。
   - 同传统的人工阅卷不同，培生学术英语采用全自动的机械评分，考生可在五日内获得成绩。
   - 考试有效期和托福雅思一样，均为两年；
   - 培生学术英语考试结合下列几项特点：

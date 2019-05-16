@@ -1,11 +1,11 @@
-**豐田Celica**（）是[日本](../Page/日本.md "wikilink")[豐田汽車公司自](../Page/豐田汽車.md "wikilink")1970年迄2005年生產製造的[轎跑車](../Page/轎跑車.md "wikilink")。這個名字是由[拉丁文](../Page/拉丁文.md "wikilink")「coelica」演化而来，意思是「天堂的、天空的」。
+**豐田Celica**（）是[日本](../Page/日本.md "wikilink")[豐田汽車公司自](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")1970年迄2005年生產製造的[轎跑車](../Page/轎跑車.md "wikilink")。這個名字是由[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「coelica」演化而来，意思是「天堂的、天空的」。
 
 ## 歷史
 
 ### 第一代 A20（1970-77）
 
 [1970_Toyota_Celica_01.jpg](https://zh.wikipedia.org/wiki/File:1970_Toyota_Celica_01.jpg "fig:1970_Toyota_Celica_01.jpg")
-於1970年在東京汽車展上發佈，與[豐田Carina屬同一開發平台](../Page/豐田Carina.md "wikilink")。整體上第一代豐田Celica只有兩門設計，這是因為它是以跑車形式作定位，風格較個性化。
+於1970年在東京汽車展上發佈，與[豐田Carina屬同一開發平台](https://zh.wikipedia.org/wiki/豐田Carina "wikilink")。整體上第一代豐田Celica只有兩門設計，這是因為它是以跑車形式作定位，風格較個性化。
 
 <div style="clear: both">
 

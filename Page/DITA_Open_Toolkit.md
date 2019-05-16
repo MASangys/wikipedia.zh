@@ -1,13 +1,15 @@
 **DITA Open
-Toolkit**是免费开源的并实现了[OASIS](../Page/結構化資訊標準促進組織.md "wikilink")
-DITA 技术标准的 [达尔文信息分类体系结构](../Page/达尔文信息分类体系结构.md "wikilink") (DITA)
-[DTD和](../Page/达尔文信息分类体系结构.md "wikilink")[Schema](../Page/XML_schema.md "wikilink")\[1\]工具。
+Toolkit**是免费开源的并实现了[OASIS](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")
+DITA 技术标准的
+[达尔文信息分类体系结构](https://zh.wikipedia.org/wiki/达尔文信息分类体系结构 "wikilink")
+(DITA)
+[DTD和](https://zh.wikipedia.org/wiki/达尔文信息分类体系结构 "wikilink")[Schema](https://zh.wikipedia.org/wiki/XML_schema "wikilink")\[1\]工具。
 
 ## 参考
 
 ## 参见
 
-[达尔文信息分类体系结构](../Page/达尔文信息分类体系结构.md "wikilink")
+[达尔文信息分类体系结构](https://zh.wikipedia.org/wiki/达尔文信息分类体系结构 "wikilink")
 
 ## 外部链接
 

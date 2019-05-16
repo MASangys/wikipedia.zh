@@ -1,10 +1,10 @@
-**Ctags**是一个用于从程序[源代码树产生](../Page/源代码树.md "wikilink")[索引文件](../Page/索引.md "wikilink")（或tag文件），从而便于文本编辑器来实现快速定位的实用工具。在产生的tag文件中，每一个tag的入口指向了一个[编程语言的](../Page/编程语言.md "wikilink")[对象](../Page/对象.md "wikilink")。这个对象可以是[变量定义](../Page/变量.md "wikilink")、[函数](../Page/函数.md "wikilink")、类或其他的物件。
+**Ctags**是一个用于从程序[源代码树产生](https://zh.wikipedia.org/wiki/源代码树 "wikilink")[索引文件](https://zh.wikipedia.org/wiki/索引 "wikilink")（或tag文件），从而便于文本编辑器来实现快速定位的实用工具。在产生的tag文件中，每一个tag的入口指向了一个[编程语言的](../Page/编程语言.md "wikilink")[对象](https://zh.wikipedia.org/wiki/对象 "wikilink")。这个对象可以是[变量定义](https://zh.wikipedia.org/wiki/变量 "wikilink")、[函数](../Page/函数.md "wikilink")、类或其他的物件。
 
 Ctags是开放源代码的程序。支持下列的编程语言：汇编，AWK, ASP, BETA, Bourne/Korn/Zsh Shell, C,
 C++, COBOL, Eiffel, Fortran, Java, Lisp, Lua, Make, Pascal, Perl, PHP,
 Python, REXX, Ruby, S-Lang, Scheme, Tcl, Vim, and YACC。
 
-支持Ctags产生的tag文件的[编辑器以及](../Page/编辑器.md "wikilink")[编辑器插件包括](../Page/编辑器插件.md "wikilink")：Vim，Vile，Lemmy，等等。
+支持Ctags产生的tag文件的[编辑器以及](https://zh.wikipedia.org/wiki/编辑器 "wikilink")[编辑器插件包括](https://zh.wikipedia.org/wiki/编辑器插件 "wikilink")：Vim，Vile，Lemmy，等等。
 
 ## 各種版本
 

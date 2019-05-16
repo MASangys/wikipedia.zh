@@ -1,34 +1,35 @@
-《**Oh\!**》是[韓國](../Page/韓國.md "wikilink")[女子團體](../Page/女子音樂組合.md "wikilink")[少女時代的正規第二張專輯](../Page/少女時代.md "wikilink")\[1\]，在韓國預售近15萬張\[2\]，成績超乎預期。而與專輯同名的主打歌〈Oh\!〉，在1月25日網路上首次發布後，十分鐘之內就在Real
+《**Oh\!**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的正規第二張專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，在韓國預售近15萬張\[2\]，成績超乎預期。而與專輯同名的主打歌〈Oh\!〉，在1月25日網路上首次發布後，十分鐘之內就在Real
 Time音樂排行榜站上榜首\[3\]。
 
 ## 紀錄
 
 ### 彩蛋
 
-此MV中間橋段；[崔秀英打翻飲料而飲料流至電腦使電腦異常](../Page/崔秀英.md "wikilink")，導致MV最後有另一群黑暗女孩來踢館，此即[少女時代下一首歌的造型](../Page/少女時代.md "wikilink")（
+此MV中間橋段；[崔秀英打翻飲料而飲料流至電腦使電腦異常](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")，導致MV最後有另一群黑暗女孩來踢館，此即[少女時代下一首歌的造型](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（
 "黑暗少女時代"）。
 
 ### 專輯改版發行
 
 專輯改版發行於3月，以全新的概念 "黑暗少女時代" 為主題。新單曲 "Run Devil Run"
-以數位單曲2010年3月17日發行。Demo版本來自[惡女凱莎](../Page/惡女凱莎.md "wikilink")，版權販售給[SM
-Entertainment](../Page/SM_Entertainment.md "wikilink")，並隨後由少女時代錄製。
-音樂影片發行於3月18日，她們第一次回歸舞台在[音樂銀行](../Page/音樂銀行.md "wikilink")。
+以數位單曲2010年3月17日發行。Demo版本來自[惡女凱莎](https://zh.wikipedia.org/wiki/惡女凱莎 "wikilink")，版權販售給[SM
+Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並隨後由少女時代錄製。
+音樂影片發行於3月18日，她們第一次回歸舞台在[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。
 
-SM Entertainment 後來表示，封面上的女孩是[潤娥](../Page/潤娥.md "wikilink")。
+SM Entertainment
+後來表示，封面上的女孩是[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。
 
 ### 球衣編號
 
-[少女時代所屬社](../Page/少女時代.md "wikilink")[SM娛樂公司該月](../Page/SM娛樂.md "wikilink")27日在Mydaily的採訪中，解釋球衣編號說：「這是根據少女時代成員們各自喜歡的數字設定的。」
+[少女時代所屬社](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[SM娛樂公司該月](../Page/SM娛樂.md "wikilink")27日在Mydaily的採訪中，解釋球衣編號說：「這是根據少女時代成員們各自喜歡的數字設定的。」
 
-  - [太妍](../Page/金泰耎.md "wikilink")(9號):因為少女時代有九名成員。
-  - [潔西卡](../Page/鄭秀妍.md "wikilink")(22號):因為2010年就要22歲了。
-  - [珊妮](../Page/李純揆.md "wikilink")(12號):平時喜歡的數字是1跟2，所以兩者組合起來成為12。
-  - [蒂芬妮](../Page/黃美英.md "wikilink")(0號):原本選擇的數字是01，但服裝製作出來少一個1導致成為0號。
-  - [孝淵](../Page/金孝淵.md "wikilink")(32號):自己平常喜歡的數字。
-  - [俞利](../Page/權俞利.md "wikilink")(21號):希望永遠都停留在現在的21歲。
-  - [秀英](../Page/崔秀英.md "wikilink")(24號):希望24歲能夠結婚，後改為希望24小時都能跟粉絲再一起。
-  - [潤娥](../Page/林潤妸.md "wikilink")(7號):自己的幸運數字是7。
+  - [太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")(9號):因為少女時代有九名成員。
+  - [潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")(22號):因為2010年就要22歲了。
+  - [珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")(12號):平時喜歡的數字是1跟2，所以兩者組合起來成為12。
+  - [蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")(0號):原本選擇的數字是01，但服裝製作出來少一個1導致成為0號。
+  - [孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")(32號):自己平常喜歡的數字。
+  - [俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")(21號):希望永遠都停留在現在的21歲。
+  - [秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")(24號):希望24歲能夠結婚，後改為希望24小時都能跟粉絲再一起。
+  - [潤娥](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")(7號):自己的幸運數字是7。
   - [徐玄](../Page/徐朱玄.md "wikilink")(11號):任何事情都想得第1。
 
 ## 曲目

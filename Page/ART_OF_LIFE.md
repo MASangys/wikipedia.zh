@@ -1,12 +1,13 @@
 《**Art of Life**》是日本樂團[X
-Japan在](../Page/X_Japan.md "wikilink")1993年8月23日發行的專輯。裡面僅收錄一首由[Yoshiki作詞作曲](../Page/Yoshiki.md "wikilink")，長達29分鐘的同名單曲。這首曲子架構在[舒伯特的](../Page/弗朗茨·舒伯特.md "wikilink")[第八交響曲「未完成」](../Page/第八交響曲「未完成」.md "wikilink")，音樂部分分成幾個速度不同的段落，其中包含了吉他的獨奏以及近9分鐘的鋼琴獨奏；歌詞裡帶有許多的韻文但並未使用交響樂裡常用的合聲。
+Japan在](../Page/X_Japan.md "wikilink")1993年8月23日發行的專輯。裡面僅收錄一首由[Yoshiki作詞作曲](../Page/Yoshiki.md "wikilink")，長達29分鐘的同名單曲。這首曲子架構在[舒伯特的](../Page/弗朗茨·舒伯特.md "wikilink")[第八交響曲「未完成」](https://zh.wikipedia.org/wiki/第八交響曲「未完成」 "wikilink")，音樂部分分成幾個速度不同的段落，其中包含了吉他的獨奏以及近9分鐘的鋼琴獨奏；歌詞裡帶有許多的韻文但並未使用交響樂裡常用的合聲。
 
 專輯一上市就在ORICON榜上奪得第一名\[1\]，並在發行當年賣出513,300張。
 
 這首曲子鮮少有現場的演出，第一次是在1992年7月30日於[日本武道館演出](../Page/日本武道館.md "wikilink")\[2\]，而另外兩次都在[東京巨蛋](../Page/東京巨蛋.md "wikilink")，分別在1993年的12月30日及31日；這些演出分別收錄在專輯[Art
-of life live以及DVD](../Page/Art_of_life_live.md "wikilink")/VHS的[Art of
-Life 1993.12.31 Tokyo
-Dome中](../Page/Art_of_Life_1993.12.31_Tokyo_Dome.md "wikilink")。2008年3月28日，X
+of life
+live以及DVD](https://zh.wikipedia.org/wiki/Art_of_life_live "wikilink")/VHS的[Art
+of Life 1993.12.31 Tokyo
+Dome中](https://zh.wikipedia.org/wiki/Art_of_Life_1993.12.31_Tokyo_Dome "wikilink")。2008年3月28日，X
 Japan的復出演唱會中再次將這首曲子以現場的方式重現於歌迷眼前，但在Yoshiki即將要鋼琴獨奏的前一刻，Yoshiki卻因體力不支昏倒後而中斷\[3\]。之後幾天的演唱會仍然有將這首曲子做完整的演出。其後的世界巡迴演唱會中也多次演出這首曲目。
 
 ## 曲目

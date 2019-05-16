@@ -1,4 +1,4 @@
-**Pinta**是一个受[Paint.NET启发的](../Page/Paint.NET.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[位图形编辑软件](../Page/位图形编辑软件.md "wikilink")。它使用[Gtk\#](../Page/Gtk_Sharp.md "wikilink")、[cairo和有些](../Page/Cairo_\(绘图\).md "wikilink")[Paint.NET的源代码](../Page/Paint.NET.md "wikilink")。\[1\]它的作者是在[Novell公司工作的Jonathan](../Page/Novell.md "wikilink")
+**Pinta**是一个受[Paint.NET启发的](../Page/Paint.NET.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[位图形编辑软件](https://zh.wikipedia.org/wiki/位图形编辑软件 "wikilink")。它使用[Gtk\#](https://zh.wikipedia.org/wiki/Gtk_Sharp "wikilink")、[cairo和有些](https://zh.wikipedia.org/wiki/Cairo_\(绘图\) "wikilink")[Paint.NET的源代码](../Page/Paint.NET.md "wikilink")。\[1\]它的作者是在[Novell公司工作的Jonathan](../Page/Novell.md "wikilink")
 Pobst。\[2\]
 
 ## 参见
@@ -6,7 +6,7 @@ Pobst。\[2\]
   - [GIMP](../Page/GIMP.md "wikilink")
   - [Paint.NET](../Page/Paint.NET.md "wikilink")
   - [Krita](../Page/Krita.md "wikilink")
-  - [小畫家](../Page/小畫家.md "wikilink")
+  - [小畫家](https://zh.wikipedia.org/wiki/小畫家 "wikilink")
 
 ## 参考
 
@@ -18,11 +18,11 @@ Pobst。\[2\]
 
   - [Introducing
     Pinta](http://jpobst.blogspot.com/2010/02/over-holiday-break-i-stumbled-upon-this.html)（Jonathan
-    Pobst的[博客](../Page/博客.md "wikilink")）
+    Pobst的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")）
 
   - [Pinta 0.3 is
     out](http://tirania.org/blog/archive/2010/May-03-1.html)（[Miguel de
-    Icaza的](../Page/Miguel_de_Icaza.md "wikilink")[博客](../Page/博客.md "wikilink")）
+    Icaza的](https://zh.wikipedia.org/wiki/Miguel_de_Icaza "wikilink")[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")）
 
   - [Introducing Pinta, a Gtk+ Clone of
     Paint.NET](http://www.osnews.com/story/22843/Introducing_Pinta_a_Gtk_Clone_of_Paint_NET)（OSNews）
@@ -48,7 +48,7 @@ Pobst。\[2\]
 
   - [Paint.Net inspired Pinta gains clone stamp tool, new brushes,
     more](http://www.omgubuntu.co.uk/2010/11/pinta-0-5-released-with-clone-tool/)（[OMG\!
-    Ubuntu\!](../Page/OMG!_Ubuntu!.md "wikilink")）
+    Ubuntu\!](https://zh.wikipedia.org/wiki/OMG!_Ubuntu! "wikilink")）
 
   - [Pinta，Linux下的Paint.NET](http://pengjiayou.com/blog/pinta-a-paint-net-clone-for-linux)（嘉佑中文博客）
 

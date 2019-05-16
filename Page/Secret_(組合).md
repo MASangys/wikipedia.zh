@@ -1,6 +1,6 @@
 **Secret**（）是韓國[TS娛樂公司在](../Page/TS娛樂.md "wikilink")2009年所推出的四人女子團體，成員包括[全烋星](../Page/全烋星.md "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")、[鄭河娜](../Page/鄭河娜.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")。
 2009年10月13日推出首張數位單曲《I Want You Back》，10月15日於[M\!
-Countdown正式出道](../Page/M!_Countdown.md "wikilink")。團體名稱**Secret**名字寓意為秘密之意，意味著這個團體希望將不能公開的秘密帶給大家。**Secret**的官方應援顏色為黃色，歌迷的官方名稱為「Secret
+Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。團體名稱**Secret**名字寓意為秘密之意，意味著這個團體希望將不能公開的秘密帶給大家。**Secret**的官方應援顏色為黃色，歌迷的官方名稱為「Secret
 Time」。2016年10月13日，[韓善伙與TS娛樂的合約到期後不續約](../Page/韓善伙.md "wikilink")，2018年，[宋枝恩在社群網站宣布已與公司解約並退出](../Page/宋枝恩.md "wikilink")[Secret](../Page/Secret_\(組合\).md "wikilink")，[全烋星也向首爾西部地方法院對TS娛樂提出合約無效訴訟](../Page/全烋星.md "wikilink")。\[1\]
 
 ## 成員資料
@@ -59,7 +59,7 @@ PlotData =
 ### 2009年
 
   - 10月13日發行首張韓語數位單曲《I Want You Back》。10月15日在音樂節目[M\!
-    Countdown進行首場出道演出](../Page/M!_Countdown.md "wikilink")。
+    Countdown進行首場出道演出](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
 ### 2010年
 
@@ -126,7 +126,7 @@ PlotData =
 <td><p>首張數位單曲《<strong>I Want You Back</strong>》</p>
 <ul>
 <li>發行日期：2009年10月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -135,7 +135,7 @@ PlotData =
 <td><p>第二張數位單曲《<strong>Talk That</strong>》</p>
 <ul>
 <li>發行日期：2012年12月4日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -158,7 +158,7 @@ PlotData =
 <td><p>首張單曲《<strong>Shy Boy</strong>》</p>
 <ul>
 <li>發行日期：2011年1月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -167,7 +167,7 @@ PlotData =
 <td><p>第二張單曲《<strong>Starlight Moonlight</strong>》</p>
 <ul>
 <li>發行日期：2011年6月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -176,7 +176,7 @@ PlotData =
 <td><p>第三張單曲《<strong>Gift From Secret</strong>》</p>
 <ul>
 <li>發行日期：2013年12月9日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -199,7 +199,7 @@ PlotData =
 <td><p>首張迷你專輯《<strong>Secret Time</strong>》</p>
 <ul>
 <li>發行日期：2010年4月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -208,7 +208,7 @@ PlotData =
 <td><p>第二張迷你專輯《<strong>Madonna</strong>》</p>
 <ul>
 <li>發行日期：2010年8月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -217,7 +217,7 @@ PlotData =
 <td><p>第三張迷你專輯《<strong>Poison</strong>》</p>
 <ul>
 <li>發行日期：2012年9月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>贈品：專輯附送一張隨機成員摺疊海報</li>
 </ul></td>
 <td></td>
@@ -227,7 +227,7 @@ PlotData =
 <td><p>第四張迷你專輯《<strong>Letter from Secret</strong>》</p>
 <ul>
 <li>發行日期：2013年5月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>贈品：專輯附送一張隨機小卡</li>
 </ul></td>
 <td></td>
@@ -237,7 +237,7 @@ PlotData =
 <td><p>第五張迷你專輯《<strong>Secret Summer</strong>》</p>
 <ul>
 <li>發行日期：2014年8月11日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -260,7 +260,7 @@ PlotData =
 <td><p>首張正規專輯《<strong>Moving In Secret</strong>》</p>
 <ul>
 <li>發行日期：2011年10月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -283,7 +283,7 @@ PlotData =
 <td><p>首張日文單曲《<strong>Madonna</strong>》</p>
 <ul>
 <li>發行日期：2011年8月3日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -292,7 +292,7 @@ PlotData =
 <td><p>第二張單曲《<strong>So Much for Goodbye</strong>》</p>
 <ul>
 <li>發行日期：2012年2月29日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -301,7 +301,7 @@ PlotData =
 <td><p>第三張單曲《<strong>Twinkle Twinkle</strong>》</p>
 <ul>
 <li>發行日期：2012年6月13日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -310,7 +310,7 @@ PlotData =
 <td><p>第四張單曲《<strong>I Do I Do</strong>》</p>
 <ul>
 <li>發行日期：2014年2月5日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -319,7 +319,7 @@ PlotData =
 <td><p>第五張單曲《<strong>YooHoo</strong>》</p>
 <ul>
 <li>發行日期：2014年7月23日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -342,7 +342,7 @@ PlotData =
 <td><p>首張日文迷你專輯《<strong>Shy Boy</strong>》</p>
 <ul>
 <li>發行日期：2011年11月16日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -365,7 +365,7 @@ PlotData =
 <td><p>首張日文正規專輯《<strong>WELCOME to SECRET TIME</strong>》</p>
 <ul>
 <li>發行日期：2012年8月22日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -437,101 +437,101 @@ PlotData =
 
 ### 電視劇
 
-|                                      |                                                  |                                                |       |        |       |
-| ------------------------------------ | ------------------------------------------------ | ---------------------------------------------- | ----- | ------ | ----- |
-| 年份                                   | 電視台                                              | 劇名                                             | 參演成員  | 角色     | 集數    |
-| 2010年                                | [MBC](../Page/文化廣播_\(韓國\).md "wikilink")         | [越看越可爱](../Page/越看越可爱.md "wikilink")           | 善伙、枝恩 | 金泰熙    | 第3、4集 |
-| [全部我的爱](../Page/全部我的爱.md "wikilink") | 善伙                                               | 金枝的同學                                          | 第27集  |        |       |
-| 2012年                                | [SBS](../Page/SBS_\(韓國\).md "wikilink")          | [蠑螈道士和影子操作團](../Page/蠑螈道士和影子操作團.md "wikilink") | 烋星    | 秀妍     | 第4集   |
-| [KBS](../Page/韓國放送公社.md "wikilink")  | [Family](../Page/Family_\(韓國電視劇\).md "wikilink") | 枝恩                                             | 跟蹤狂   | 第45集   |       |
-| 2013年                                | [廣告天才李太白](../Page/廣告天才李太白.md "wikilink")         | 善伙                                             | 李素蘭   |        |       |
-| [KBS](../Page/KBS.md "wikilink")     | 枝恩                                               | 姜秀智（少年）                                        |       |        |       |
-| 2014年                                | [OCN](../Page/OCN.md "wikilink")                 | [能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")   | 烋星    | 韓娜英    | 全集    |
-| SBS                                  | [神的禮物－14天](../Page/神的禮物－14天.md "wikilink")       | 善伙                                             | Jenny |        |       |
-| KBS                                  | [貓來了](../Page/貓來了.md "wikilink")                 | 烋星                                             | 韓秀梨   |        |       |
-| [tvN](../Page/tvN.md "wikilink")     | [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")         | 善伙                                             | 姜世雅   |        |       |
-| MBC                                  | [薔薇色戀人們](../Page/薔薇色戀人們.md "wikilink")           | 白薔薇                                            |       |        |       |
-| 2015年                                | OCN                                              | [能看見鬼的警察處容2](../Page/能看見鬼的警察處容.md "wikilink")  | 烋星    | 韓娜英    | 全集    |
-| tvN                                  | [超人時代](../Page/超人時代.md "wikilink")               | 枝恩                                             | 枝恩    |        |       |
-| Naver tvcast                         | 初戀不變的法則                                          | 枝恩                                             | 李如莉   | 全集     |       |
-| 2015-2016年                           | KBS1                                             | [我們家蜜醰子](../Page/我們家蜜罈子.md "wikilink")         | 枝恩    | 崔波蘭／吳春 | 全集    |
-| SBS                                  | [Wanted](../Page/Wanted.md "wikilink")           | 烋星                                             | 朴寶妍   |        |       |
-| 2017年                                | Naver tvcast / OCN                               | [焦急的羅曼史](../Page/焦急的羅曼史.md "wikilink")         | 枝恩    | 李宥美    | 全集    |
-| tvN                                  | [內向的老闆](../Page/內向的老闆.md "wikilink")             | 烋星                                             | 金喬禮   |        |       |
+|                                                         |                                                               |                                                                   |       |        |       |
+| ------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------- | ----- | ------ | ----- |
+| 年份                                                      | 電視台                                                           | 劇名                                                                | 參演成員  | 角色     | 集數    |
+| 2010年                                                   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")   | [越看越可爱](https://zh.wikipedia.org/wiki/越看越可爱 "wikilink")           | 善伙、枝恩 | 金泰熙    | 第3、4集 |
+| [全部我的爱](https://zh.wikipedia.org/wiki/全部我的爱 "wikilink") | 善伙                                                            | 金枝的同學                                                             | 第27集  |        |       |
+| 2012年                                                   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                       | [蠑螈道士和影子操作團](https://zh.wikipedia.org/wiki/蠑螈道士和影子操作團 "wikilink") | 烋星    | 秀妍     | 第4集   |
+| [KBS](../Page/韓國放送公社.md "wikilink")                     | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")              | 枝恩                                                                | 跟蹤狂   | 第45集   |       |
+| 2013年                                                   | [廣告天才李太白](../Page/廣告天才李太白.md "wikilink")                      | 善伙                                                                | 李素蘭   |        |       |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | 枝恩                                                            | 姜秀智（少年）                                                           |       |        |       |
+| 2014年                                                   | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")           | [能看見鬼的警察處容](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")   | 烋星    | 韓娜英    | 全集    |
+| SBS                                                     | [神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink") | 善伙                                                                | Jenny |        |       |
+| KBS                                                     | [貓來了](../Page/貓來了.md "wikilink")                              | 烋星                                                                | 韓秀梨   |        |       |
+| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")     | [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                      | 善伙                                                                | 姜世雅   |        |       |
+| MBC                                                     | [薔薇色戀人們](https://zh.wikipedia.org/wiki/薔薇色戀人們 "wikilink")     | 白薔薇                                                               |       |        |       |
+| 2015年                                                   | OCN                                                           | [能看見鬼的警察處容2](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")  | 烋星    | 韓娜英    | 全集    |
+| tvN                                                     | [超人時代](../Page/超人時代.md "wikilink")                            | 枝恩                                                                | 枝恩    |        |       |
+| Naver tvcast                                            | 初戀不變的法則                                                       | 枝恩                                                                | 李如莉   | 全集     |       |
+| 2015-2016年                                              | KBS1                                                          | [我們家蜜醰子](../Page/我們家蜜罈子.md "wikilink")                            | 枝恩    | 崔波蘭／吳春 | 全集    |
+| SBS                                                     | [Wanted](../Page/Wanted.md "wikilink")                        | 烋星                                                                | 朴寶妍   |        |       |
+| 2017年                                                   | Naver tvcast / OCN                                            | [焦急的羅曼史](https://zh.wikipedia.org/wiki/焦急的羅曼史 "wikilink")         | 枝恩    | 李宥美    | 全集    |
+| tvN                                                     | [內向的老闆](https://zh.wikipedia.org/wiki/內向的老闆 "wikilink")       | 烋星                                                                | 金喬禮   |        |       |
 
 ### 綜藝節目
 
 <div class="NavFrame" style="text-align:left; width:100%">
 
-|                      |                                                                                                                          |      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- |
-| 日期                   | 節目名稱                                                                                                                     | 參與成員 |
-| 2010年2月3日            | 《[食神遠征隊](../Page/食神遠征隊.md "wikilink")》                                                                                   |      |
-| 2010年4月28日           | 《[Secret Story](../Page/Secret_Story.md "wikilink")》                                                                     |      |
-| 2010年5月17日           | 《[Secret Story](../Page/Secret_Story.md "wikilink")》                                                                     |      |
-| 2010年5月18日           | 《[Secret Story](../Page/Secret_Story.md "wikilink")》                                                                     |      |
-| 2010年6月4日            | 《[Secret Story](../Page/Secret_Story.md "wikilink")》                                                                     |      |
-| 2010年5月20日-2010年9月1日 | 《[TrendReport Feel 第五季 时尚学院](../Page/TrendReport_Feel_第五季_时尚学院.md "wikilink")》                                           |      |
-| 2010年7月25日-2011年2月20 | [MBC](../Page/MBC.md "wikilink")《[花束](../Page/花束.md "wikilink")》                                                         |      |
-| 2010年8月11日           | 《[申政煥PD的藝能製造局](../Page/申政煥PD的藝能製造局.md "wikilink")》                                                                       |      |
-| 2010年9月12日           | 《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》                                                                               |      |
-| 2010年9月14日           | [MBC](../Page/MBC.md "wikilink")《[中秋運動會](../Page/中秋運動會.md "wikilink")》                                                   |      |
-| 2010年10月16日          | [KBS](../Page/KBS.md "wikilink")《[明星金鐘](../Page/明星金鐘.md "wikilink")》                                                     |      |
-| 2010年10月30日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](../Page/Starking.md "wikilink")》                                      |      |
-| 2011年2月2日            | 《[他們來了](../Page/他們來了.md "wikilink")》                                                                                     |      |
-| 2011年2月4日            | [MBC](../Page/MBC.md "wikilink")《[明星偶像7080歌手王](../Page/明星偶像7080歌手王.md "wikilink")》                                       |      |
-| 2011年3月5日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](../Page/Starking.md "wikilink")》                                      |      |
-| 2011年3月9日            | [MBC](../Page/MBC.md "wikilink")《[黄金漁場](../Page/黄金漁場.md "wikilink")》                                                     |      |
-| 2011年5月7日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](../Page/Starking.md "wikilink")》                                      |      |
-| 2011年6月25日           | 《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》                                                                               |      |
-| 2011年7月25日           | [KBS2](../Page/KBS2.md "wikilink")《[你好](../Page/你好.md "wikilink")》                                                       |      |
-| 2011年9月23日           | [MBC](../Page/MBC.md "wikilink")《[Star Dance Battle](../Page/Star_Dance_Battle.md "wikilink")》                           |      |
-| 2011年9月23日           | [KBS](../Page/KBS.md "wikilink")《[Big Star Show Dance Grand Prix](../Page/Big_Star_Show_Dance_Grand_Prix.md "wikilink")》 |      |
-| 2011年11月12日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](../Page/Starking.md "wikilink")》                                      |      |
-| 2011年11月26日          | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2011年11月29日          | [KBS2](../Page/KBS2.md "wikilink")《[1對100](../Page/1對100.md "wikilink")》                                                 |      |
-| 2012年1月24日           | [MBC](../Page/MBC.md "wikilink")《[偶像運動大會](../Page/偶像運動大會.md "wikilink")》                                                 |      |
-| 2012年4月12日           | 《[B.A.P Diary](../Page/B.A.P_Diary.md "wikilink")》                                                                       |      |
-| 2012年5月18日           | 《[柳熙烈的寫生簿](../Page/柳熙烈的寫生簿.md "wikilink")》                                                                               |      |
-| 2012年7月25日           | [MBC](../Page/MBC.md "wikilink")《[偶像運動大會](../Page/偶像運動大會.md "wikilink")》上部                                               |      |
-| 2012年7月26日           | [MBC](../Page/MBC.md "wikilink")《[偶像運動大會](../Page/偶像運動大會.md "wikilink")》下部                                               |      |
-| 2012年9月24日           | [Mnet](../Page/Mnet.md "wikilink")《[Batlescode 2](../Page/Batlescode_2.md "wikilink")》                                   |      |
-| 2012年9月26日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2012年10月2日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2012年11月18日          | [KBS](../Page/KBS.md "wikilink")《[出发梦之队2](../Page/出发梦之队2.md "wikilink")》                                                 |      |
-| 2012年12月15日          | [MBC](../Page/MBC.md "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》                                                   |      |
-| 2012年12月22日          | [MBC](../Page/MBC.md "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》                                                   |      |
-| 2013年5月15日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2013年6月19日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2013年6月26日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
-| 2014年1月15日           | [MBC](../Page/MBC.md "wikilink")《[Weekly Idol 一周偶像](../Page/Weekly_Idol_一周偶像.md "wikilink")》                             |      |
+|                      |                                                                                                                                                                |      |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| 日期                   | 節目名稱                                                                                                                                                           | 參與成員 |
+| 2010年2月3日            | 《[食神遠征隊](https://zh.wikipedia.org/wiki/食神遠征隊 "wikilink")》                                                                                                      |      |
+| 2010年4月28日           | 《[Secret Story](https://zh.wikipedia.org/wiki/Secret_Story "wikilink")》                                                                                        |      |
+| 2010年5月17日           | 《[Secret Story](https://zh.wikipedia.org/wiki/Secret_Story "wikilink")》                                                                                        |      |
+| 2010年5月18日           | 《[Secret Story](https://zh.wikipedia.org/wiki/Secret_Story "wikilink")》                                                                                        |      |
+| 2010年6月4日            | 《[Secret Story](https://zh.wikipedia.org/wiki/Secret_Story "wikilink")》                                                                                        |      |
+| 2010年5月20日-2010年9月1日 | 《[TrendReport Feel 第五季 时尚学院](https://zh.wikipedia.org/wiki/TrendReport_Feel_第五季_时尚学院 "wikilink")》                                                              |      |
+| 2010年7月25日-2011年2月20 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[花束](https://zh.wikipedia.org/wiki/花束 "wikilink")》                                                         |      |
+| 2010年8月11日           | 《[申政煥PD的藝能製造局](https://zh.wikipedia.org/wiki/申政煥PD的藝能製造局 "wikilink")》                                                                                          |      |
+| 2010年9月12日           | 《[金諪恩的巧克力](https://zh.wikipedia.org/wiki/金諪恩的巧克力 "wikilink")》                                                                                                  |      |
+| 2010年9月14日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[中秋運動會](https://zh.wikipedia.org/wiki/中秋運動會 "wikilink")》                                                   |      |
+| 2010年10月16日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[明星金鐘](https://zh.wikipedia.org/wiki/明星金鐘 "wikilink")》                                                     |      |
+| 2010年10月30日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |
+| 2011年2月2日            | 《[他們來了](https://zh.wikipedia.org/wiki/他們來了 "wikilink")》                                                                                                        |      |
+| 2011年2月4日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[明星偶像7080歌手王](https://zh.wikipedia.org/wiki/明星偶像7080歌手王 "wikilink")》                                       |      |
+| 2011年3月5日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |
+| 2011年3月9日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黄金漁場](https://zh.wikipedia.org/wiki/黄金漁場 "wikilink")》                                                     |      |
+| 2011年5月7日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |
+| 2011年6月25日           | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                                                                                                  |      |
+| 2011年7月25日           | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[你好](https://zh.wikipedia.org/wiki/你好 "wikilink")》                                                       |      |
+| 2011年9月23日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Star Dance Battle](https://zh.wikipedia.org/wiki/Star_Dance_Battle "wikilink")》                           |      |
+| 2011年9月23日           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Big Star Show Dance Grand Prix](https://zh.wikipedia.org/wiki/Big_Star_Show_Dance_Grand_Prix "wikilink")》 |      |
+| 2011年11月12日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |
+| 2011年11月26日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2011年11月29日          | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[1對100](https://zh.wikipedia.org/wiki/1對100 "wikilink")》                                                 |      |
+| 2012年1月24日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偶像運動大會](https://zh.wikipedia.org/wiki/偶像運動大會 "wikilink")》                                                 |      |
+| 2012年4月12日           | 《[B.A.P Diary](https://zh.wikipedia.org/wiki/B.A.P_Diary "wikilink")》                                                                                          |      |
+| 2012年5月18日           | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                                                                                                  |      |
+| 2012年7月25日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偶像運動大會](https://zh.wikipedia.org/wiki/偶像運動大會 "wikilink")》上部                                               |      |
+| 2012年7月26日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偶像運動大會](https://zh.wikipedia.org/wiki/偶像運動大會 "wikilink")》下部                                               |      |
+| 2012年9月24日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Batlescode 2](https://zh.wikipedia.org/wiki/Batlescode_2 "wikilink")》                                   |      |
+| 2012年9月26日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2012年10月2日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2012年11月18日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[出发梦之队2](../Page/出发梦之队2.md "wikilink")》                                                                    |      |
+| 2012年12月15日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》                                                                      |      |
+| 2012年12月22日          | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我們結婚了](../Page/我們結婚了.md "wikilink")》                                                                      |      |
+| 2013年5月15日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2013年6月19日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2013年6月26日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
+| 2014年1月15日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
 
 </div>
 
 ### 廣告代言
 
-|                                                                                      |            |
-| ------------------------------------------------------------------------------------ | ---------- |
-| 廣告名稱                                                                                 | 日期         |
-| 保險協會                                                                                 | 2010年      |
-| 勿酒驾公益                                                                                | 2010年      |
-| 釣魚網絡遊戲 Grand Mer                                                                     | 2011年      |
-| Nike運動品牌                                                                             | 2011年3月    |
-| TSKIN HOUSE 化妆品平面模特 （善伙）                                                             | 2011年4月    |
-| 炸雞 NeNe Chicken （與[劉在石](../Page/劉在石.md "wikilink")）                                  | 2011年      |
-| 韓國燒酒                                                                                 | 2011年9月19日 |
-| The Kellan冬季的滑雪服（與[方容國](../Page/方容國.md "wikilink")&[金力燦](../Page/金力燦.md "wikilink")） | 2011年10月   |
-| 樸式部隊湯                                                                                | 2011年      |
-| Secret Star Girl 假睫毛                                                                 | 2012年      |
-| California_Beach 水上樂園                                                               | 2012年6月    |
-| Blade & Soul 遊戲《劍魂》                                                                  | 2012年      |
-| 帶著微笑與世界溝通 宣傳短片                                                                       | 2012年4月    |
-| Kpop麗水世博會 宣傳短片                                                                       | 2012年8月    |
-| YES内衣代言 (烋星)                                                                         | 2013年      |
-| 《英雄之星 神雕侠侣》 遊戲 (烋星)                                                                  | 2014年      |
-| FIFA ONLINE 3 遊戲 (烋星)                                                                | 2014年11月   |
-| NEXON 移動遊戲《英雄軍團》                                                                     | 2015年7月    |
-| Swagger 男士髮蠟&香水 (烋星)                                                                 | 2016年      |
+|                                                                                                                            |            |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 廣告名稱                                                                                                                       | 日期         |
+| 保險協會                                                                                                                       | 2010年      |
+| 勿酒驾公益                                                                                                                      | 2010年      |
+| 釣魚網絡遊戲 Grand Mer                                                                                                           | 2011年      |
+| Nike運動品牌                                                                                                                   | 2011年3月    |
+| TSKIN HOUSE 化妆品平面模特 （善伙）                                                                                                   | 2011年4月    |
+| 炸雞 NeNe Chicken （與[劉在石](https://zh.wikipedia.org/wiki/劉在石 "wikilink")）                                                     | 2011年      |
+| 韓國燒酒                                                                                                                       | 2011年9月19日 |
+| The Kellan冬季的滑雪服（與[方容國](https://zh.wikipedia.org/wiki/方容國 "wikilink")&[金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")） | 2011年10月   |
+| 樸式部隊湯                                                                                                                      | 2011年      |
+| Secret Star Girl 假睫毛                                                                                                       | 2012年      |
+| California_Beach 水上樂園                                                                                                     | 2012年6月    |
+| Blade & Soul 遊戲《劍魂》                                                                                                        | 2012年      |
+| 帶著微笑與世界溝通 宣傳短片                                                                                                             | 2012年4月    |
+| Kpop麗水世博會 宣傳短片                                                                                                             | 2012年8月    |
+| YES内衣代言 (烋星)                                                                                                               | 2013年      |
+| 《英雄之星 神雕侠侣》 遊戲 (烋星)                                                                                                        | 2014年      |
+| FIFA ONLINE 3 遊戲 (烋星)                                                                                                      | 2014年11月   |
+| NEXON 移動遊戲《英雄軍團》                                                                                                           | 2015年7月    |
+| Swagger 男士髮蠟&香水 (烋星)                                                                                                       | 2016年      |
 
 ## 獎項
 
@@ -696,17 +696,17 @@ PlotData =
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                     | 節目名稱                                                | 獲獎歌曲    | 排名\[11\]\[12\] |
-| ----- | ------ | --------------------------------------- | --------------------------------------------------- | ------- | -------------- |
-| 2011年 | 1月13日  | [Mnet](../Page/Mnet.md "wikilink")      | [M\! Countdown](../Page/M!_Countdown.md "wikilink") | Shy Boy | 1位             |
-| 2011年 | 2月4日   | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月11日  | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月18日  | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月20日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                  | Shy Boy | 1位             |
-| 2011年 | 6月19日  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                  | 星光月光    | 1位             |
-| 2011年 | 12月23日 | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | 星光月光    | 全年總結: 第6位      |
-| 2011年 | 12月23日 | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | Shy Boy | 全年總結: 第3位      |
-| 2013年 | 12月20日 | [KBS](../Page/KBS.md "wikilink")        | [Music Bank](../Page/Music_Bank.md "wikilink")      | YooHoo  | 全年總結: 第29位     |
+| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲    | 排名\[11\]\[12\] |
+| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------- | -------------- |
+| 2011年 | 1月13日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Shy Boy | 1位             |
+| 2011年 | 2月4日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月11日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月18日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月20日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Shy Boy | 1位             |
+| 2011年 | 6月19日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 星光月光    | 1位             |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 星光月光    | 全年總結: 第6位      |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 全年總結: 第3位      |
+| 2013年 | 12月20日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | YooHoo  | 全年總結: 第29位     |
 
 ## 參考資料
 
@@ -718,8 +718,8 @@ PlotData =
   - [Secret日本官方網站](http://www.universal-music.co.jp/secret/)
   - [韓國官方粉絲團網站](http://cafe.daum.net/SECRETTIME/)
 
-[\*](../Page/分類:Secret.md "wikilink")
-[分類:TS娛樂](../Page/分類:TS娛樂.md "wikilink")
+[\*](https://zh.wikipedia.org/wiki/分類:Secret "wikilink")
+[分類:TS娛樂](https://zh.wikipedia.org/wiki/分類:TS娛樂 "wikilink")
 
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

@@ -1,35 +1,35 @@
 **Shihori**（\[1\]）是一名出身於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")\[2\]的日本人，是一名職業以及同人的[創作歌手](../Page/創作歌手.md "wikilink")。
 
-參加同人活動（[A-one等](../Page/A-one.md "wikilink")）時使用**Shihori**的名義，其他場合則使用****的名義。本名****\[3\]。
+參加同人活動（[A-one等](https://zh.wikipedia.org/wiki/A-one "wikilink")）時使用**Shihori**的名義，其他場合則使用****的名義。本名****\[3\]。
 
-在2007年同時以[瀨名](../Page/瀨名.md "wikilink")（）的藝名在[Lantis作為主要登場](../Page/Lantis.md "wikilink")，同時繼續使用**Shihori**的名義活動。2011年以瀨名名義的活動結束，統一使用**Shihori**作為音樂活動的藝名。
+在2007年同時以[瀨名](https://zh.wikipedia.org/wiki/瀨名 "wikilink")（）的藝名在[Lantis作為主要登場](../Page/Lantis.md "wikilink")，同時繼續使用**Shihori**的名義活動。2011年以瀨名名義的活動結束，統一使用**Shihori**作為音樂活動的藝名。
 
 ## 簡歷
 
-  - 天生左耳有[聽力障礙](../Page/聽覺障礙.md "wikilink")。
+  - 天生左耳有[聽力障礙](https://zh.wikipedia.org/wiki/聽覺障礙 "wikilink")。
   - 小一時，已經開始埋頭於歌唱及歌曲創作之中。
   - 七歲時，說「我要成為歌手！」，第一次進行作詞、作曲。
-  - 小學時喜愛[貝多芬的音樂](../Page/貝多芬.md "wikilink")，中學、高校時每日也喜歡唱[讚美詩和](../Page/讚美詩.md "wikilink")[福音歌等歌曲](../Page/福音音樂.md "wikilink")，受當中的「祈念」「母性」等因素影響，奠定以後的音樂風格。
-  - [青春期時](../Page/青春期.md "wikilink")，熱衷於[心理學和](../Page/心理學.md "wikilink")[哲學等領域之上](../Page/哲學.md "wikilink")。
-  - 高中時期曾經想努力要成為[女演員](../Page/女演員.md "wikilink")，加入學校內的演劇部，後來從演劇部上退出，並真正開始作曲\[4\]。
+  - 小學時喜愛[貝多芬的音樂](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")，中學、高校時每日也喜歡唱[讚美詩和](https://zh.wikipedia.org/wiki/讚美詩 "wikilink")[福音歌等歌曲](https://zh.wikipedia.org/wiki/福音音樂 "wikilink")，受當中的「祈念」「母性」等因素影響，奠定以後的音樂風格。
+  - [青春期時](../Page/青春期.md "wikilink")，熱衷於[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[哲學等領域之上](https://zh.wikipedia.org/wiki/哲學 "wikilink")。
+  - 高中時期曾經想努力要成為[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")，加入學校內的演劇部，後來從演劇部上退出，並真正開始作曲\[4\]。
   - 十七歲時，「為了將愛的訊息傳到世界每一個角落」（），立志成為歌手。
   - 高中畢業後，獨自前往[札幌市](../Page/札幌市.md "wikilink")，加入錄音公司，但由於經驗、實力不足的關係，最後決定返回名古屋市\[5\]。
   - 2000年時曾入讀大學，入讀半年後休學，再過半年後退學\[6\]。
   - 2001年5月，開始在名古屋市進行演唱活動\[7\]。
-  - 2002年時與鋼琴家[松本あすか組成團體](../Page/松本あすか.md "wikilink")「しほりとあすか」，2004年解散。
+  - 2002年時與鋼琴家[松本あすか組成團體](https://zh.wikipedia.org/wiki/松本あすか "wikilink")「しほりとあすか」，2004年解散。
   - 2002年至2003年期間，以《パパパパーンの歌》等廣告歌曲，展現了豐富的表現力與歌唱力，引起廣大話題。
-  - 2006年9月2日，與[佐佐木俊之結婚](../Page/佐佐木俊之.md "wikilink")\[8\]。
+  - 2006年9月2日，與[佐佐木俊之結婚](https://zh.wikipedia.org/wiki/佐佐木俊之 "wikilink")\[8\]。
   - 2007年在網上電影《クレイドル～眠れぬ夜の子守唄～》擔任主題曲歌唱、作詞和作曲，標誌著女演員上的出道；而同年在由[SOUND
-    HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優上的出道](../Page/聲優.md "wikilink")。
+    HOLIC的推出](../Page/SOUND_HOLIC.md "wikilink")[二次創作](../Page/二次創作.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[](http://www.sound-holic.com/_c73.html)》中，擔任角色配音，也標誌著[聲優上的出道](../Page/聲優.md "wikilink")。
   - 2007年同時以瀨名(日文：瀬名)的藝名在[Lantis作為主要登場](../Page/Lantis.md "wikilink")，同時繼續使用Shihori的名義活動。
-  - 2010年時，為紀念歌手出道10周年，於2月9日在[涉谷o](../Page/涉谷.md "wikilink")-west舉行[演唱會](../Page/演唱會.md "wikilink")「[](https://archive.is/20130427215306/http://shihori.com/o-west/)」。
+  - 2010年時，為紀念歌手出道10周年，於2月9日在[涉谷o](https://zh.wikipedia.org/wiki/涉谷 "wikilink")-west舉行[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")「[](https://archive.is/20130427215306/http://shihori.com/o-west/)」。
   - 2011年以瀨名名義的活動結束，統一使用Shihori作為音樂活動的藝名。
-  - 喜歡的音樂家有：[路德維希·凡·貝多芬](../Page/路德維希·凡·貝多芬.md "wikilink")、[蘿拉·尼羅](../Page/蘿拉·尼羅.md "wikilink")、[吉田美奈子](../Page/吉田美奈子.md "wikilink")、[菅野洋子等](../Page/菅野洋子.md "wikilink")\[9\]。
+  - 喜歡的音樂家有：[路德維希·凡·貝多芬](https://zh.wikipedia.org/wiki/路德維希·凡·貝多芬 "wikilink")、[蘿拉·尼羅](https://zh.wikipedia.org/wiki/蘿拉·尼羅 "wikilink")、[吉田美奈子](https://zh.wikipedia.org/wiki/吉田美奈子 "wikilink")、[菅野洋子等](../Page/菅野洋子.md "wikilink")\[9\]。
 
 ### 同人活動
 
 Shihori自06年起參加同人音樂組織[SOUND
-HOLIC](../Page/SOUND_HOLIC.md "wikilink")，該組織以製作[東方Project的二次改編音樂為主](../Page/東方Project.md "wikilink")，Shihori在該組織內以「KAZE
+HOLIC](../Page/SOUND_HOLIC.md "wikilink")，該組織以製作[東方Project的二次改編音樂為主](https://zh.wikipedia.org/wiki/東方Project "wikilink")，Shihori在該組織內以「KAZE
 NO
 KIOKU」「平成河童大系」等歌曲在同人界中成名。直至08年為止參與過數次製作，期間認識了**ELEMENTAS**、**Yassie**等作詞、編曲家，三人決定組成另一同人音樂組織「A1」（其後更名為A-One），與SOUND
 HOLIC分開活動\[10\]。
@@ -37,7 +37,7 @@ HOLIC分開活動\[10\]。
 ## 參與作品
 
   - 藤原妹紅 - [TOHO PROJECT SIDE STORY
-    星の記憶](../Page/TOHO_PROJECT_SIDE_STORY_星の記憶.md "wikilink")
+    星の記憶](https://zh.wikipedia.org/wiki/TOHO_PROJECT_SIDE_STORY_星の記憶 "wikilink")
 
 ## 音樂作品
 
@@ -240,17 +240,17 @@ HOLIC分開活動\[10\]。
 ### 協助製作
 
   - ユニバーサル・バニー（[シェリル・ノーム starring
-    May'n](../Page/中林芽依.md "wikilink")，2009年11月25日）
+    May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")，2009年11月25日）
 
 <!-- end list -->
 
   -
-    01.ユニバーサル・バニー（[劇場版超時空要塞F劇中曲](../Page/超時空要塞_Frontier.md "wikilink")）
+    01.ユニバーサル・バニー（[劇場版超時空要塞F劇中曲](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")）
     - 作詞、和唱
 
 #### 單曲
 
-  - [夢幻](../Page/夢幻_\(單曲\).md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2009年10月28日）
+  - [夢幻](https://zh.wikipedia.org/wiki/夢幻_\(單曲\) "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")，2009年10月28日）
 
 <!-- end list -->
 
@@ -325,7 +325,7 @@ HOLIC分開活動\[10\]。
 <!-- end list -->
 
   - SOUND HOLIC MEETS TOHO ～東方的幽々舞踏劇～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
+    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](https://zh.wikipedia.org/wiki/M3 "wikilink")-2007春）
 
 <!-- end list -->
 
@@ -335,7 +335,7 @@ HOLIC分開活動\[10\]。
 <!-- end list -->
 
   - SOUND HOLIC MEETS TOHO ～東方的夢天的奏典～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年5月20日，第4回[博麗神社例大祭](../Page/東方Project#博麗神社例大祭.md "wikilink")）
+    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年5月20日，第4回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）
 
 <!-- end list -->
 
@@ -367,7 +367,8 @@ HOLIC分開活動\[10\]。
 <!-- end list -->
 
   - SWING HOLIC VOL.1（SWING HOLIC，2008年4月20日，[Sunshine
-    Creation](../Page/Sunshine_Creation.md "wikilink") 39）
+    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
+    39）
 
 <!-- end list -->
 
@@ -407,8 +408,10 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - KARMA SCREEN（[A1](../Page/A-One.md "wikilink")，2008年10月5日，[Sunshine
-    Creation](../Page/Sunshine_Creation.md "wikilink") 41）
+  - KARMA
+    SCREEN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2008年10月5日，[Sunshine
+    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
+    41）
 
 <!-- end list -->
 
@@ -427,7 +430,8 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - POLYGON RAIN（[A1](../Page/A-One.md "wikilink")，2009年3月8日，例大祭6）
+  - POLYGON
+    RAIN（[A1](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年3月8日，例大祭6）
 
 <!-- end list -->
 
@@ -446,7 +450,8 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - POD JACK（[A-One](../Page/A-One.md "wikilink")，2009年8月15日，C76）
+  - POD
+    JACK（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年8月15日，C76）
 
 <!-- end list -->
 
@@ -466,7 +471,7 @@ HOLIC分開活動\[10\]。
 
 <!-- end list -->
 
-  - DYSTOPIA（[A-One](../Page/A-One.md "wikilink")，2009年12月30日，C77）
+  - DYSTOPIA（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年12月30日，C77）
 
 <!-- end list -->
 

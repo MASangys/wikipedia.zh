@@ -1,5 +1,5 @@
 《**鴉
--KARAS-**》是[龍之子Production的](../Page/龍之子Production.md "wikilink")40周年記念OVA作品。《鴉
+-KARAS-**》是[龍之子Production的](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")40周年記念OVA作品。《鴉
 -KARAS-》總共有六話，2005年11月開始發售第一話。在2005年發行了三話，而第四話到第六話在2007年中以後才發行。
 
 《鴉
@@ -10,14 +10,14 @@
 《鴉
 KARAS》的故事描述了一個充滿[妖怪的虛構](../Page/妖怪.md "wikilink")[新宿裡](../Page/新宿.md "wikilink")，一個名叫乙羽的人與新宿的事。乙羽是一名「鴉」，就是由城市（由百合音作為城市意志的代理人）所認可而成的一個強大守護者。在故事裡，前任的「鴉」——迴向，意圖控制他以前保護的新宿。而乙羽和其他妖怪以及其他的「鴉」則試著對抗他。
 
-在各卷之中都收錄有監督和製作人員的。除此之外，在第四話中是由替一角配音的[藤原啓治和替炎一角配音](../Page/藤原啓治.md "wikilink")[生天目仁美擔任評論](../Page/生天目仁美.md "wikilink")，五話中則是由替乙羽配音的[和田聰宏和替百合音配音的](../Page/和田聰宏.md "wikilink")[鈴木霞擔任](../Page/鈴木霞.md "wikilink")。
+在各卷之中都收錄有監督和製作人員的。除此之外，在第四話中是由替一角配音的[藤原啓治和替炎一角配音](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")[生天目仁美擔任評論](../Page/生天目仁美.md "wikilink")，五話中則是由替乙羽配音的[和田聰宏和替百合音配音的](https://zh.wikipedia.org/wiki/和田聰宏 "wikilink")[鈴木霞擔任](../Page/鈴木霞.md "wikilink")。
 
 ## 登場人物
 
 ### 守護城市的人
 
   -
-    鴉是一個由城市認可的守護者角色，當乙羽（或其他的認可為鴉的人）處在「鴉」的型態時，他通常是一個[武士一般的面貌](../Page/武士.md "wikilink")，不過也曾以[飛機](../Page/飛機.md "wikilink")、[車子這類機械物體的面貌出現](../Page/汽車.md "wikilink")。乙羽則是新宿新的鴉，他也是一個[黑道的兒子](../Page/黑道.md "wikilink")。
+    鴉是一個由城市認可的守護者角色，當乙羽（或其他的認可為鴉的人）處在「鴉」的型態時，他通常是一個[武士一般的面貌](https://zh.wikipedia.org/wiki/武士 "wikilink")，不過也曾以[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")、[車子這類機械物體的面貌出現](https://zh.wikipedia.org/wiki/汽車 "wikilink")。乙羽則是新宿新的鴉，他也是一個[黑道的兒子](https://zh.wikipedia.org/wiki/黑道 "wikilink")。
     手持「」。絕招「飛影斬月」。
 
 <!-- end list -->
@@ -164,7 +164,7 @@ KARAS》的故事描述了一個充滿[妖怪的虛構](../Page/妖怪.md "wikil
 <td></td>
 <td><p>真傳說 EXISTENCE</p></td>
 <td><p>吉田伸</p></td>
-<td><p><a href="../Page/山下明彦.md" title="wikilink">山下明彦</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/山下明彦" title="wikilink">山下明彦</a><br />
 佐藤敬一</p></td>
 <td><p>佐藤敬一<br />
 中村健治</p></td>
@@ -186,14 +186,14 @@ KARAS》的故事描述了一個充滿[妖怪的虛構](../Page/妖怪.md "wikil
   - CG首席動畫師：
   - CG總監：山田豐德
   - 特技監督：
-  - 音樂：[池賴廣](../Page/池賴廣.md "wikilink")
+  - 音樂：[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
   - 管弦樂演奏：布拉格交響樂團（Symfonický orchestr hl. m. Prahy FOK）
   - 交響樂團演奏指揮：馬力歐‧克萊門斯
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音響製作：Magic Capsule（）
   - 音響效果：今野康之
   - 剪接編輯：
-  - 製作：[龍之子](../Page/龍之子Production.md "wikilink")
+  - 製作：[龍之子](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")
   - 出版商：東芝娛樂（）（因為公司名的變更，自四話以後影片裡改稱SHOWGATE（））
   - 代理商：[松竹](../Page/松竹.md "wikilink")
 

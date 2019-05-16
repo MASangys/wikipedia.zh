@@ -1,22 +1,22 @@
-是一款第三人称[动作冒险游戏](../Page/动作冒险游戏.md "wikilink")，是《[四海兄弟：失落的天堂](../Page/四海兄弟：失落的天堂.md "wikilink")》的续篇。它由[2K
+是一款第三人称[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，是《[四海兄弟：失落的天堂](https://zh.wikipedia.org/wiki/四海兄弟：失落的天堂 "wikilink")》的续篇。它由[2K
 Czech开发](../Page/2K_Czech.md "wikilink")，[2K
-Games发行](../Page/2K_Games.md "wikilink")。\[1\]该游戏最初于2007年8月在[莱比锡游戏展上公布](../Page/莱比锡游戏展.md "wikilink")，2010年8月正式发行。\[2\]\[3\]
+Games发行](../Page/2K_Games.md "wikilink")。\[1\]该游戏最初于2007年8月在[莱比锡游戏展上公布](https://zh.wikipedia.org/wiki/莱比锡游戏展 "wikilink")，2010年8月正式发行。\[2\]\[3\]
 
 ## 游戏系统
 
-游戏场景设定在1943至1951年的[帝国湾](../Page/自由城_\(侠盗猎车手\).md "wikilink")——一个以[纽约为原型虚构的城市](../Page/纽约.md "wikilink")，也带点儿[芝加哥和](../Page/芝加哥.md "wikilink")[洛杉矶的影子](../Page/洛杉矶.md "wikilink")。\[4\]\[5\]游戏地图是开放式的，有10平方英里，比1代城市*失落的天堂*大上兩倍。自游戏开始就没有任何预设条件(除了限時任務)。游戏中有30
+游戏场景设定在1943至1951年的[帝国湾](https://zh.wikipedia.org/wiki/自由城_\(侠盗猎车手\) "wikilink")——一个以[纽约为原型虚构的城市](../Page/纽约.md "wikilink")，也带点儿[芝加哥和](../Page/芝加哥.md "wikilink")[洛杉矶的影子](../Page/洛杉矶.md "wikilink")。\[4\]\[5\]游戏地图是开放式的，有10平方英里，比1代城市*失落的天堂*大上兩倍。自游戏开始就没有任何预设条件(除了限時任務)。游戏中有30
 - 40种车辆（把增补包DLC包括在内的话有45种），以及那个时代的音乐。\[6\]
 
-前作中使用的枪支在二代里继续出现，如[汤普森冲锋枪](../Page/汤普森冲锋枪.md "wikilink")、[柯尔特1911和](../Page/M1911手槍.md "wikilink")[泵動式](../Page/泵動式霰彈槍.md "wikilink")[霰彈槍](../Page/霰彈槍.md "wikilink")。[二战时期的武器像](../Page/二战.md "wikilink")[MP40](../Page/MP40冲锋枪.md "wikilink")、[M3冲锋枪](../Page/M3冲锋枪.md "wikilink")、[MG42和](../Page/MG42通用機槍.md "wikilink")[伯莱塔M38也出现在游戏中](../Page/伯莱塔M38.md "wikilink")。
+前作中使用的枪支在二代里继续出现，如[汤普森冲锋枪](../Page/汤普森冲锋枪.md "wikilink")、[柯尔特1911和](../Page/M1911手槍.md "wikilink")[泵動式](https://zh.wikipedia.org/wiki/泵動式霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")。[二战时期的武器像](https://zh.wikipedia.org/wiki/二战 "wikilink")[MP40](../Page/MP40冲锋枪.md "wikilink")、[M3冲锋枪](https://zh.wikipedia.org/wiki/M3冲锋枪 "wikilink")、[MG42和](../Page/MG42通用機槍.md "wikilink")[伯莱塔M38也出现在游戏中](https://zh.wikipedia.org/wiki/伯莱塔M38 "wikilink")。
 
 玩家与环境中的物件接触可以按两个按钮——标准动作和暴力动作（比如要偷一辆车，可选择开锁或打碎玻璃）。地图与原作中类似。检查站系统则经过改进。\[7\]新的控制模式包括一个掩护系统，该系统允许玩家躲在大部分的物体中（如发电机、墙壁和大箱子）后面射击敌人，而不是在靠近物体时蹲下。
 
 2K
-Czech称游戏中的[过场动画是由游戏引擎实时创造的](../Page/过场动画.md "wikilink")，而不是预先渲染的。比如玩家在转场前驾驶着一辆汽车，过场动画开始后他会驾驶同样的车；如果汽车被毁，则会反映在过场动画中，如果玩家穿著西裝，也會反映在過場動畫中。\[8\]
+Czech称游戏中的[过场动画是由游戏引擎实时创造的](https://zh.wikipedia.org/wiki/过场动画 "wikilink")，而不是预先渲染的。比如玩家在转场前驾驶着一辆汽车，过场动画开始后他会驾驶同样的车；如果汽车被毁，则会反映在过场动画中，如果玩家穿著西裝，也會反映在過場動畫中。\[8\]
 
 ## 剧情简介
 
-游戏记叙了[西西里移民之子](../Page/西西里.md "wikilink")、二战老兵Vito
+游戏记叙了[西西里移民之子](https://zh.wikipedia.org/wiki/西西里 "wikilink")、二战老兵Vito
 Scaletta的发迹史。随着游戏的进行，维托将与三个犯罪家族合作——克莱门蒂（Clementi）、法孔尼（Falconi）和文奇（Vinci）家族，并最终走向成功。整个剧情共分15章。
 
 游戏过场动画有2小时长，剧本有700页。其编剧Daniel
@@ -31,12 +31,12 @@ show上释出第二部预告片。\[9\]1月15日发行了包含额外30秒过场
 Grace时，首次展出游戏画面。\[11\]该视频展示了驾驶和枪战的场面，描绘了物理引擎。后来该采访视频被删除。2009年5月28日第三部预告片被传上网。同年6月1日起，官网上增加了4段短片。2010年3月21日释出新预告片，展示了游戏的物理系统。\[12\]
 
 2010年8月10日，试玩版在[Steam](../Page/Steam.md "wikilink")、[Xbox Live
-Marketplace和](../Page/Xbox_Live_Marketplace.md "wikilink")[PlayStation
+Marketplace和](https://zh.wikipedia.org/wiki/Xbox_Live_Marketplace "wikilink")[PlayStation
 Network上发行](../Page/PlayStation_Network.md "wikilink")。\[13\]
 
 ## 手機版
 
-[Connect2Media推出了手機板](../Page/Connect2Media.md "wikilink")。此版本主要特色為不同的故事以及控制Salieri家族的Soldato—Marco
+[Connect2Media推出了手機板](https://zh.wikipedia.org/wiki/Connect2Media "wikilink")。此版本主要特色為不同的故事以及控制Salieri家族的Soldato—Marco
 Russetto。
 
 ## 评价
@@ -111,7 +111,7 @@ Russetto。
 ## 續集
 
 2015年7月28日，2K
-Games宣佈續集《[黑手黨III](../Page/黑手黨III.md "wikilink")》。\[20\]同年8月在[Gamescom透露了續集的資料](../Page/Gamescom.md "wikilink")，包括預告片等
+Games宣佈續集《[黑手黨III](https://zh.wikipedia.org/wiki/黑手黨III "wikilink")》。\[20\]同年8月在[Gamescom透露了續集的資料](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，包括預告片等
 已發售。\[21\]
 
 ## 参考资料

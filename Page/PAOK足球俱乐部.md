@@ -1,5 +1,5 @@
-**PAOK足球俱乐部**（）是[希腊](../Page/希腊.md "wikilink")[塞萨洛尼基的一个](../Page/塞萨洛尼基.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。帕奥克是[希腊语](../Page/希腊语.md "wikilink")“”（拉丁转写：）的缩写，意为“泛塞萨洛尼基君士坦丁堡竞技俱乐部”。帕奥克队一直参加希腊顶级联赛，未曾降级。该队获得过
-2 次联赛[冠军](../Page/冠军.md "wikilink")，4 次盃赛冠军，12 次盃赛亚军。
+**PAOK足球俱乐部**（）是[希腊](../Page/希腊.md "wikilink")[塞萨洛尼基的一个](../Page/塞萨洛尼基.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。帕奥克是[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink")“”（拉丁转写：）的缩写，意为“泛塞萨洛尼基君士坦丁堡竞技俱乐部”。帕奥克队一直参加希腊顶级联赛，未曾降级。该队获得过
+2 次联赛[冠军](https://zh.wikipedia.org/wiki/冠军 "wikilink")，4 次盃赛冠军，12 次盃赛亚军。
 
 ## 荣誉
 

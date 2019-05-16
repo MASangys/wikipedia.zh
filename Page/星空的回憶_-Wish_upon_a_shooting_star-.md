@@ -1,7 +1,7 @@
-是2009年3月27日由[CROSSNET](../Page/CROSSNET.md "wikilink")(現[FAVORITE](../Page/FAVORITE.md "wikilink"))發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2010年1月29日發售收錄各角色續集故事的[Fan
-disc](../Page/Fan_disc.md "wikilink")《星空的回憶 Eternal Heart》（ Eternal
-Heart）。\[2\]同年11月26日亦發售了結合了Wish upon a shooting star及Eternal
-Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
+是2009年3月27日由[CROSSNET](../Page/CROSSNET.md "wikilink")(現[FAVORITE](../Page/FAVORITE.md "wikilink"))發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2010年1月29日發售收錄各角色續集故事的[Fan
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《星空的回憶 Eternal
+Heart》（ Eternal Heart）。\[2\]同年11月26日亦發售了結合了Wish upon a shooting
+star及Eternal Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
 
 ## 故事
 
@@ -71,19 +71,19 @@ Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
   -
     身高：161公分、三圍：87/57/86、喜歡的東西：小雨、討厭的東西：有關星星的任何事情
     雲雀崎學園二年級。小雨的雙胞胎姊姊。
-    學生會委員。性格[傲嬌并且](../Page/傲嬌.md "wikilink")[抖M的暴力女](../Page/抖M.md "wikilink")。家裡是神社。
+    學生會委員。性格[傲嬌并且](../Page/傲嬌.md "wikilink")[抖M的暴力女](https://zh.wikipedia.org/wiki/抖M "wikilink")。家裡是神社。
     不喜欢自己的名字，也讨厌别人用名字叫她。感觉“小桃”这个名字过於可爱与自己的性格不相衬。甚至不叫小河坂洋的名字，以防止小河坂洋用名字称呼她。
     因为小雨七年前在展望台观测流星下落的时候不慎摔死而討厭星星，計劃廢除掉天協。
     灵能力很强，七年前借助自家供奉的的陨石（五十六年前降落在雲雀崎的陨石，来自月球）的力量对小雨降灵，成功使小雨借助星灵的力量复生。在恢复记忆之后，小雨的死去已经不再是噩梦，小雨的身体进一步得到巩固，从星灵变为星神一样的存在。
     之后不断梦到小雨死亡过程的噩梦，直到某天在展望台哭泣时遇到梅娅，梅娅出于试刀的原因将她的噩梦除去，从此小桃失去妹妹已经死亡的记忆。后来小桃再次接近展望台的时候渐渐回忆起了一切。
-    在FD《永恒之心》中的个人路线有和妹妹的3P情节，这个惯例被保留到了[五彩斑斕的世界的FD](../Page/五彩斑斕的世界.md "wikilink")[五彩斑斓的曙光中](../Page/五彩斑斓的曙光.md "wikilink")（観波加奈&如月澪）。
+    在FD《永恒之心》中的个人路线有和妹妹的3P情节，这个惯例被保留到了[五彩斑斕的世界的FD](../Page/五彩斑斕的世界.md "wikilink")[五彩斑斓的曙光中](https://zh.wikipedia.org/wiki/五彩斑斓的曙光 "wikilink")（観波加奈&如月澪）。
 
 <!-- end list -->
 
   -
     身高：161公分、三圍：87/57/86、喜歡的東西：姊姊－小桃、討厭的東西：刨根问底
     雲雀崎學園二年級。小桃的雙胞胎妹妹。
-    天體觀測愛好部成員，喜歡和姊姊做些百合的舉動。性格与姐姐对应，不折不扣的[抖S](../Page/抖S.md "wikilink")。
+    天體觀測愛好部成員，喜歡和姊姊做些百合的舉動。性格与姐姐对应，不折不扣的[抖S](https://zh.wikipedia.org/wiki/抖S "wikilink")。
     本作的工口担当，小恶魔系少女，以捉弄姐姐和小河坂洋为乐。
     七年前在展望台上观察从女儿星来的梅娅的陨石下落的时候不慎摔死，被姐姐复活，从而得到了不必吃喝拉撒，不必睡觉，不会晒黑，受伤也很容易恢复的身体。但是在月光下身体会变得稀薄，因此满月的日子从不外出。
     认为自己是没资格活下去的存在（神社的理念：不从之神必须送回），托母亲帮忙，从神社请巫女来，在姐姐恢复记忆之后送还自己。
@@ -203,8 +203,8 @@ Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
 
 （出處：\[4\]\[5\]）
 
-  - [角色設定](../Page/人物設計.md "wikilink")、[原畫](../Page/原畫.md "wikilink")：
-  - [劇本](../Page/劇本.md "wikilink")：
+  - [角色設定](../Page/人物設計.md "wikilink")、[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")：
+  - [劇本](https://zh.wikipedia.org/wiki/劇本 "wikilink")：
   - SD設計：/(FD)
   - 副原画：GT
   - CG製作：
@@ -232,9 +232,10 @@ Heart版本的《星空的回憶 COMPLETE》（ COMPLETE）。\[3\]
       - 夢線ED『』（宙之光）
           - 歌：[茶太](../Page/茶太.md "wikilink")　作詞：日山尚 作編曲：福田真一郎
       - 梅娅線ED『冬のダイヤモンド』（冬之钻石）
-          - 歌：[山本美禰子](../Page/山本美禰子.md "wikilink")
-            作詞：[山本美禰子](../Page/山本美禰子.md "wikilink")
-            作曲：[山本美禰子](../Page/山本美禰子.md "wikilink") 編曲：wACHA
+          - 歌：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
+            作詞：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
+            作曲：[山本美禰子](https://zh.wikipedia.org/wiki/山本美禰子 "wikilink")
+            編曲：wACHA
 
 ## 評價
 

@@ -3,24 +3,24 @@
 ## 概要
 
 韩国的游戏开发公司[Amuse
-World其系列子公司的游戏开发公司Family](../Page/Amuse_World.md "wikilink")
+World其系列子公司的游戏开发公司Family](https://zh.wikipedia.org/wiki/Amuse_World "wikilink")
 Production（后更名为Family
-Works）的[EZ2DJ部分开发成员独立出来](../Page/EZ2DJ.md "wikilink")，以[Microsoft
-Windows为平台](../Page/Microsoft_Windows.md "wikilink")，创造DJMAX游戏系列而成立的公司。在EZ2DJ
+Works）的[EZ2DJ部分开发成员独立出来](https://zh.wikipedia.org/wiki/EZ2DJ "wikilink")，以[Microsoft
+Windows为平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，创造DJMAX游戏系列而成立的公司。在EZ2DJ
 PLATINUM发售后，Amuse
-World陷入与[科乐美](../Page/科乐美.md "wikilink")（[KONAMI](../Page/KONAMI.md "wikilink")）公司的诉讼，后因败诉停止对外业务。
+World陷入与[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")（[KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")）公司的诉讼，后因败诉停止对外业务。
 
 2006年4月，Pentavision公司向韩国Neowiz Corporation取得Neowiz
 Corporation子公司资格并成为旗下子公司，现公司地址在Neowiz大楼内。
 
 ## 代表作品
 
-[DJMAX系列游戏作品](../Page/DJMAX.md "wikilink")
+[DJMAX系列游戏作品](https://zh.wikipedia.org/wiki/DJMAX "wikilink")
 
   - DJMAX Online Emotional Sense Vol.01/02
 
 （Windows 在线 音乐游戏
-在[中国](../Page/中国.md "wikilink")/[日本](../Page/日本.md "wikilink")/[韩国](../Page/韩国.md "wikilink")/[泰国等地均有运营](../Page/泰国.md "wikilink")，2004年6月开始运营，2008年3月21日终止运营）
+在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")/[日本](../Page/日本.md "wikilink")/[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")/[泰国等地均有运营](../Page/泰国.md "wikilink")，2004年6月开始运营，2008年3月21日终止运营）
 
   - DJMAX Portable
 
@@ -60,11 +60,13 @@ Corporation子公司资格并成为旗下子公司，现公司地址在Neowiz大
 
   - DJMAX Mobile
 
-（仅面向[韩国本土手机平台](../Page/韩国.md "wikilink") 音乐游戏 已停止发售）
+（仅面向[韩国本土手机平台](https://zh.wikipedia.org/wiki/韩国 "wikilink") 音乐游戏 已停止发售）
 
-  - [DJMAX TECHNIKA](../Page/DJMAX_TECHNIKA.md "wikilink")
+  - [DJMAX
+    TECHNIKA](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA "wikilink")
 
-（街机 音乐游戏 2008年8月15日发售并运营，[韩国本土网路功能Platinum](../Page/韩国.md "wikilink")
+（街机 音乐游戏
+2008年8月15日发售并运营，[韩国本土网路功能Platinum](https://zh.wikipedia.org/wiki/韩国 "wikilink")
 Crew运营已停止并全面转为DJMAX TECHNIKA 2）
 
   - [DJMAX TECHNIKA 2](../Page/DJMAX_TECHNIKA_2.md "wikilink")
@@ -74,7 +76,7 @@ Crew运营已停止并全面转为DJMAX TECHNIKA 2）
 其他游戏作品
 
   - [S4 League](../Page/S4_League.md "wikilink")（Windows 在线
-    [第三人称射击游戏](../Page/第三人称射击游戏.md "wikilink")
+    [第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")
     2007年7月25日公开测试）[3](http://s4.en.alaplaya.net/)
   - DUELGATE（Windows 在线 动作 [即时战略游戏](../Page/即时战略游戏.md "wikilink")
     2007年10月17日公开测试）

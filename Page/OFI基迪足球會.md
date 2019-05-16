@@ -1,5 +1,5 @@
 **OFI基迪足球會**（**OFI Crete F.C.**），亦称**OFI**（Greek:
-ΟΦΗ）是[希腊](../Page/希腊.md "wikilink")[克里特岛首府](../Page/克里特岛.md "wikilink")[伊拉克利翁的一个](../Page/伊拉克利翁.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。OFI是希腊语Όμιλος
+ΟΦΗ）是[希腊](../Page/希腊.md "wikilink")[克里特岛首府](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")[伊拉克利翁的一个](../Page/伊拉克利翁.md "wikilink")[足球俱乐部](../Page/足球.md "wikilink")。OFI是希腊语Όμιλος
 Φιλάθλων Ηρακλείου(拉丁转写为Omilos Filathlon
 Irakleiou)的拉丁缩写，意为“伊拉克利翁支持者俱乐部”。
 
@@ -7,7 +7,7 @@ Irakleiou)的拉丁缩写，意为“伊拉克利翁支持者俱乐部”。
 
 ## 荣誉
 
-  - [希腊盃足球赛](../Page/希腊盃足球赛.md "wikilink")
+  - [希腊盃足球赛](https://zh.wikipedia.org/wiki/希腊盃足球赛 "wikilink")
       - 冠军：1987
 
 [Category:希腊足球俱乐部](https://zh.wikipedia.org/wiki/Category:希腊足球俱乐部 "wikilink")

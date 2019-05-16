@@ -1,9 +1,9 @@
 **RATP公交路网** ([法语](../Page/法语.md "wikilink"): Réseau de bus RATP)
-是位于[法国](../Page/法国.md "wikilink")[巴黎及其近郊的公交路网](../Page/巴黎.md "wikilink"),
-由[巴黎大众运输公司](../Page/巴黎大众运输公司.md "wikilink") (RATP) 负责运营,
-对[巴黎地铁](../Page/巴黎地铁.md "wikilink"),
-[RER区域快铁等铁路客运服务起互补作用](../Page/区域快铁.md "wikilink"),
-路网的组织和资金来源由[法兰西岛运输联合会](../Page/:fr:Syndicat_des_transports_d'Île-de-France.md "wikilink")
+是位于[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎及其近郊的公交路网](../Page/巴黎.md "wikilink"),
+由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink") (RATP)
+负责运营, 对[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink"),
+[RER区域快铁等铁路客运服务起互补作用](https://zh.wikipedia.org/wiki/区域快铁 "wikilink"),
+路网的组织和资金来源由[法兰西岛运输联合会](https://zh.wikipedia.org/wiki/:fr:Syndicat_des_transports_d'Île-de-France "wikilink")
 (Syndicat des transports d'Île-de-France, STIF) 负责. 2010年,
 该路网包括346条公交线路, 总长度达到3861公里, 年客流量超过10亿人次.
 
@@ -21,7 +21,7 @@
 1828年, 巴黎公交路线重新开通, 线路共计10条. 这一次客流量增长迅速, 6个月内就有200万人乘坐. 1830年以后,
 巴黎已经有10家公交公司, 线路达到40余条, 车辆超过100辆.
 1855年2月22日颁布的帝国法令使得上述公交公司合并,
-成立[公交车总公司](../Page/:fr:Compagnie_générale_des_omnibus.md "wikilink")
+成立[公交车总公司](https://zh.wikipedia.org/wiki/:fr:Compagnie_générale_des_omnibus "wikilink")
 (Compagnie générale des omnibus, CGO).
 CGO在此后的30年内一直是巴黎及近郊公交线路的唯一一家运营商\[1\].
 
@@ -30,14 +30,14 @@ CGO在此后的30年内一直是巴黎及近郊公交线路的唯一一家运营
 [PARIS_-_Autobus_-_Place_de_Rennes.jpg](https://zh.wikipedia.org/wiki/File:PARIS_-_Autobus_-_Place_de_Rennes.jpg "fig:PARIS_-_Autobus_-_Place_de_Rennes.jpg")
 
 1906年6月11日, 巴黎开通了首条采用汽车的公交线路,
-连接[蒙马特和](../Page/蒙马特.md "wikilink")[拉丁区一带](../Page/拉丁区.md "wikilink"),
+连接[蒙马特和](https://zh.wikipedia.org/wiki/蒙马特 "wikilink")[拉丁区一带](../Page/拉丁区.md "wikilink"),
 汽车型号为Schneider Brillié P2型, 高4.25米, 长6.24米, 可以容纳32人, 车身呈乳黄色, 共有两层,
 上层还有一层顶棚覆盖. 不过自1910年开始, P2的后续型号P3型去掉了顶层, 回归传统的单层公交,
 1912年P3型全面取代了P2型. 在那几年当中, 巴黎又开通了多条采用汽车的公交线路, 1913年1月11日, 马车走进了历史.
 
 P2和P3型的公交汽车尽管存在尾气污染问题, 但和马车相比, 汽车速度更快, 更舒适. 接下来的几年内, 这种公交汽车进行了多次现代化改造,
 包括照明, 暖气等, 行驶时速也达到了20公里. 1910年5月31日起,
-CGO同时运行公交车路网和[电车路网](../Page/巴黎路面电车.md "wikilink").
+CGO同时运行公交车路网和[电车路网](https://zh.wikipedia.org/wiki/巴黎路面电车 "wikilink").
 1910至1914年, CGO对路网进行了现代化改造, 废止原来的转乘票, 采用新的分段计费系统, 一等票15生丁, 二等票10生丁,
 以及增开夜车, 和大型比赛, 节日期间的特殊班次, 以方便乘客出行.
 
@@ -45,7 +45,7 @@ CGO同时运行公交车路网和[电车路网](../Page/巴黎路面电车.md "w
 
 ### 一战期间
 
-[一战爆发后](../Page/一战.md "wikilink"), 公交路网被军事部门完全征用,
+[一战爆发后](https://zh.wikipedia.org/wiki/一战 "wikilink"), 公交路网被军事部门完全征用,
 其中120辆公交车被立即送往前线运输物资和人员.
 其中有几辆就被用于[第一次马恩河战役](../Page/第一次马恩河战役.md "wikilink"),
 [索姆河战役和](../Page/索姆河战役.md "wikilink")[凡尔登战役](../Page/凡尔登战役.md "wikilink").
@@ -58,7 +58,7 @@ CGO同时运行公交车路网和[电车路网](../Page/巴黎路面电车.md "w
 ### 巴黎公交公司时期
 
 随着CGO的财政状况不断恶化, 它的生命也到头了. 1921年1月1日起,
-CGO和其它多家公共交通公司被相关法令整合进新成立的[巴黎公交公司](../Page/:fr:Société_des_transports_en_commun_de_la_région_parisienne.md "wikilink")
+CGO和其它多家公共交通公司被相关法令整合进新成立的[巴黎公交公司](https://zh.wikipedia.org/wiki/:fr:Société_des_transports_en_commun_de_la_région_parisienne "wikilink")
 (Société des transports en commun de la région parisienne, STCRP)\[4\].
 之后, STCRP负责路面电车, 公交路网以及水上交通等巴黎地面交通的运营.
 
@@ -69,9 +69,9 @@ STCRP仍然继续对路网进行现代化改造. 1923年, 更加宽大且配备�
 STCRP于短期内停开了各条电车线, 以公交车取代: 1930年尚有3700辆电车, 1700辆公交车;
 1934年电车数量锐减到1600辆, 公交车数量则增至2900辆; 1936年电车仅剩348辆,
 公交车数量也不过才增至3600辆; 1938年电车从巴黎市区消失,
-[凡尔赛则直到](../Page/凡尔赛.md "wikilink")1957年,
+[凡尔赛则直到](https://zh.wikipedia.org/wiki/凡尔赛 "wikilink")1957年,
 固有的电车车厂陆续被转变为公交车车厂.
-客流量偏低的[巴黎环城铁路](../Page/巴黎环城铁路.md "wikilink")
+客流量偏低的[巴黎环城铁路](https://zh.wikipedia.org/wiki/巴黎环城铁路 "wikilink")
 (Ligne de Petite Ceinture) 亦在同期被关闭, 环城公交车PC线取而代之\[5\].
 
 ### 二战期间
@@ -81,22 +81,24 @@ STCRP于短期内停开了各条电车线, 以公交车取代: 1930年尚有3700
 STCRP想尽各种办法来延续公交服务, 包括更换各种燃料. 不过由于物资缺乏严重,
 1942年年初公交车剩下511辆\[6\].
 
-[维希政权强制性的要求STCRP的地面公交路网和](../Page/维希法国.md "wikilink")[巴黎城铁公司](../Page/:fr:Compagnie_du_chemin_de_fer_métropolitain_de_Paris.md "wikilink")
+[维希政权强制性的要求STCRP的地面公交路网和](https://zh.wikipedia.org/wiki/维希法国 "wikilink")[巴黎城铁公司](https://zh.wikipedia.org/wiki/:fr:Compagnie_du_chemin_de_fer_métropolitain_de_Paris "wikilink")
 (Compagnie du chemin de fer métropolitain de Paris, CMP)
 的地铁路网于1942年1月1日起合并, 并由CMP负责运营. 在这种情况下, 两家公司只得无为而治,
 顶多修改一下各自的收费系统来保持彼此之间的一致性.
 
-在此期间, 由于燃料短缺, [无轨电车开始投入运行](../Page/无轨电车.md "wikilink"). 两条线路率先使用了无轨电车,
-战后的1950年和1953年又有另外两条线使用, 直至1966年3月废止.
+在此期间, 由于燃料短缺,
+[无轨电车开始投入运行](https://zh.wikipedia.org/wiki/无轨电车 "wikilink").
+两条线路率先使用了无轨电车, 战后的1950年和1953年又有另外两条线使用, 直至1966年3月废止.
 
 [SC10_AMTUIR.jpg](https://zh.wikipedia.org/wiki/File:SC10_AMTUIR.jpg "fig:SC10_AMTUIR.jpg")
 
 ### 战后发展
 
-1945年1月3日, 公共施工部部长[勒内·梅耶](../Page/:fr:René_Mayer.md "wikilink") (René
-Mayer) 临时接管巴黎交通. 在当时, 他不仅要负责维持公共交通系统的正常运营, 还要设法创立一个新的交通运营公司. 此后的几年内,
-巴黎公交路网慢慢恢复,
-而CMP和STCRP的继任者RATP亦在1949年成立并负责运营[地铁和公交](../Page/巴黎地铁.md "wikilink").
+1945年1月3日,
+公共施工部部长[勒内·梅耶](https://zh.wikipedia.org/wiki/:fr:René_Mayer "wikilink")
+(René Mayer) 临时接管巴黎交通. 在当时, 他不仅要负责维持公共交通系统的正常运营, 还要设法创立一个新的交通运营公司.
+此后的几年内, 巴黎公交路网慢慢恢复,
+而CMP和STCRP的继任者RATP亦在1949年成立并负责运营[地铁和公交](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink").
 
 从1950至1962年, 尽管经济不景气, RATP又给路网投放了1700辆新车, 并且不间断的进行自动化改造. 1960年,
 公交路网的客流量达到了8.5亿, 但此后随着私家车数量的暴增, 路面交通日渐拥堵, 公交车的效率大打折扣,
@@ -106,18 +108,22 @@ Mayer) 临时接管巴黎交通. 在当时, 他不仅要负责维持公共交通
 以及缓解地铁客流压力较大的地段, 另外还服务于一些主要观光景点. 在近郊, 公交路网则作为地铁的延伸,
 在远郊则连接各个铁路车站. 各条线路也根据自身的起讫站地理位置进行了重新编号以便于管理.
 
-RATP对路网投放新车, 同时又于1964年1月15日开辟了第一条[公车专用道](../Page/公车专用道.md "wikilink"),
+RATP对路网投放新车,
+同时又于1964年1月15日开辟了第一条[公车专用道](https://zh.wikipedia.org/wiki/公车专用道 "wikilink"),
 长1公里, 位于[卢浮宫附近滨河路上](../Page/卢浮宫.md "wikilink"), 使用效果良好. 之后几年内,
-尽管巴黎商人对此持保守态度, 但在政府的大力扶持下, 1971年的公车专用道总长度猛增到26公里\[7\].
+尽管巴黎商人对此持保守态度, 但在政府的大力扶持下,
+1971年的公车专用道总长度猛增到26公里\[7\].
 
 1963年, 开始有女驾驶员上岗服务. 1972年5月开始, 巴黎公交车开始配备无线电话, 1979年配备完成. 1975年公交月票
-(也可以是周票) [橘黄卡](../Page/:fr:Carte_Orange.md "wikilink") (Carte
-Orange) 的发行使得人们可以乘坐公交车的次数大为增加, 相应的, 1976年的客流量比1975年飙升了31%, 达到6.8亿人次,
-但此后又有小幅回落. 1980年代, 受益于[RER开通带来的客流增长](../Page/RER.md "wikilink"),
+(也可以是周票)
+[橘黄卡](https://zh.wikipedia.org/wiki/:fr:Carte_Orange "wikilink")
+(Carte Orange) 的发行使得人们可以乘坐公交车的次数大为增加, 相应的, 1976年的客流量比1975年飙升了31%,
+达到6.8亿人次, 但此后又有小幅回落. 1980年代,
+受益于[RER开通带来的客流增长](https://zh.wikipedia.org/wiki/RER "wikilink"),
 公交流量再度回升.
 
 1993年,
-首条[BRT公交线路](../Page/BRT.md "wikilink")——[马恩河谷公交专线](../Page/RATP公交路网#.E9.A9.AC.E6.81.A9.E6.B2.B3.E8.B0.B7.E5.85.AC.E4.BA.A4.E4.B8.93.E7.BA.BF.md "wikilink")
+首条[BRT公交线路](https://zh.wikipedia.org/wiki/BRT "wikilink")——[马恩河谷公交专线](https://zh.wikipedia.org/wiki/RATP公交路网#.E9.A9.AC.E6.81.A9.E6.B2.B3.E8.B0.B7.E5.85.AC.E4.BA.A4.E4.B8.93.E7.BA.BF "wikilink")
 (Trans-Val-de-Marne) 投入使用.
 
 ## 路网
@@ -147,18 +153,18 @@ RATP公交路网当前包括:
 
 ### 市区、近郊和卫星城公交线路
 
-[20\~99路公交车主要行走](../Page/:fr:Lignes_de_bus_RATP_de_20_à_99.md "wikilink")[巴黎市区](../Page/巴黎.md "wikilink"),
+[20\~99路公交车主要行走](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_20_à_99 "wikilink")[巴黎市区](../Page/巴黎.md "wikilink"),
 其编号系统有一定规律可循: 比如20\~29路从圣拉扎尔车站 (Gare de Paris-Saint-Lazare) 发车,
 40\~49路从巴黎北站发车, 70\~79路从城市中心点 (市政厅一带)发车; 个位数则代表线路方向, 比如2代表向右岸西南,
 5代表向北或东北.
 
-[100\~199路](../Page/:fr:Lignes_de_bus_RATP_de_100_à_199.md "wikilink"),
-[200\~299路](../Page/:fr:Lignes_de_bus_RATP_de_200_à_299.md "wikilink"),
-[300\~399路行走近郊](../Page/:fr:Lignes_de_bus_RATP_de_300_à_399.md "wikilink"),
+[100\~199路](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_100_à_199 "wikilink"),
+[200\~299路](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_200_à_299 "wikilink"),
+[300\~399路行走近郊](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_300_à_399 "wikilink"),
 不会达到远郊地带. 编号系统大体按照**东-北-西-南**逆时针顺序绕巴黎近郊一圈, 比如11X路多开往东郊, 而19X路多开往南郊.
-[400\~499路大体也按照此规律但线路数量少](../Page/:fr:Lignes_de_bus_RATP_de_400_à_499.md "wikilink").
+[400\~499路大体也按照此规律但线路数量少](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_400_à_499 "wikilink").
 
-[500\~599路为卫星城公交线路](../Page/:fr:Lignes_de_bus_RATP_de_500_à_599.md "wikilink"),
+[500\~599路为卫星城公交线路](https://zh.wikipedia.org/wiki/:fr:Lignes_de_bus_RATP_de_500_à_599 "wikilink"),
 其编号系统大体也按照近郊车的规律, 并且有不少线路为环线.
 
 ### 特殊公交线路
@@ -167,15 +173,18 @@ RATP公交路网当前包括:
 
 [Spécial-Citelis_18-Gare_d'Austerlitz-1.JPG](https://zh.wikipedia.org/wiki/File:Spécial-Citelis_18-Gare_d'Austerlitz-1.JPG "fig:Spécial-Citelis_18-Gare_d'Austerlitz-1.JPG")
 
-[C线的中心路网设施因年代久远而质素落后](../Page/大区快铁C线.md "wikilink"), 从1996年起,
-每年夏天运营商[法国国家铁路公司](../Page/法国国家铁路公司.md "wikilink")
+[C线的中心路网设施因年代久远而质素落后](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink"),
+从1996年起,
+每年夏天运营商[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")
 (SNCF) 都要花一个月来对其进行整修, 该整修工程又名"海狸大工程" (Grands Travaux Castors),
 预计到2017年完成. 整修期间, [荣军院](../Page/荣军院.md "wikilink") (Les
-Invalides) 和[奥斯特里茨车站](../Page/巴黎奥斯特里茨车站.md "wikilink") (Gare de
-Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士 (Bus Castor) 替代.
+Invalides)
+和[奥斯特里茨车站](https://zh.wikipedia.org/wiki/巴黎奥斯特里茨车站 "wikilink")
+(Gare de Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士 (Bus Castor) 替代.
 
-海狸巴士往返于荣军院和奥斯特里茨车站之间, 中间停靠[巴黎圣母院](../Page/巴黎圣母院.md "wikilink"),
-[奥塞博物馆和](../Page/奥塞博物馆.md "wikilink")[法国国民议会等地](../Page/法国国民议会.md "wikilink").
+海狸巴士往返于荣军院和奥斯特里茨车站之间,
+中间停靠[巴黎圣母院](https://zh.wikipedia.org/wiki/巴黎圣母院 "wikilink"),
+[奥塞博物馆和](https://zh.wikipedia.org/wiki/奥塞博物馆 "wikilink")[法国国民议会等地](https://zh.wikipedia.org/wiki/法国国民议会 "wikilink").
 高峰期5分钟一班车, 低峰期15分钟一班车.
 
 #### 马恩河谷公交专线
@@ -183,10 +192,12 @@ Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士
 [BusTVM_choisydelisle.JPG](https://zh.wikipedia.org/wiki/File:BusTVM_choisydelisle.JPG "fig:BusTVM_choisydelisle.JPG")
 
 马恩河谷公交专线通常简称<span style="white-space: nowrap; font-size: 90%; padding: .1em; background-color: #006cb8; color: #ffcd02">**TVM**</span>,
-是一条几乎完全行走[公车专用道的](../Page/公车专用道.md "wikilink")[BRT线路](../Page/BRT.md "wikilink"),
-于1993年10月1日开通. 该线呈东西向贯通[马恩河谷省](../Page/瓦勒德马恩省.md "wikilink")
-(Val-de-Marne), 连接[RER A线](../Page/大区快铁A线.md "wikilink"),
-[B线](../Page/大区快铁B线.md "wikilink")，[C线](../Page/大区快铁C线.md "wikilink")，[D线](../Page/大区快铁D线.md "wikilink")，[巴黎地铁8号线和](../Page/巴黎地铁8号线.md "wikilink")[巴黎路面电车7号线](../Page/巴黎路面电车7号线.md "wikilink")，
+是一条几乎完全行走[公车专用道的](https://zh.wikipedia.org/wiki/公车专用道 "wikilink")[BRT线路](https://zh.wikipedia.org/wiki/BRT "wikilink"),
+于1993年10月1日开通.
+该线呈东西向贯通[马恩河谷省](https://zh.wikipedia.org/wiki/瓦勒德马恩省 "wikilink")
+(Val-de-Marne), 连接[RER
+A线](https://zh.wikipedia.org/wiki/大区快铁A线 "wikilink"),
+[B线](https://zh.wikipedia.org/wiki/大区快铁B线 "wikilink")，[C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")，[D线](https://zh.wikipedia.org/wiki/大区快铁D线 "wikilink")，[巴黎地铁8号线和](https://zh.wikipedia.org/wiki/巴黎地铁8号线 "wikilink")[巴黎路面电车7号线](https://zh.wikipedia.org/wiki/巴黎路面电车7号线 "wikilink")，
 方便了该省内的通勤往来. 目前, 该线有31个车站, 近20公里路程. 虽然这仅是一条公交线路,
 但其标准和规模已被RATP当做路面电车对待\[8\].
 
@@ -195,7 +206,7 @@ Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士
 [RoissyBusParis.JPG](https://zh.wikipedia.org/wiki/File:RoissyBusParis.JPG "fig:RoissyBusParis.JPG")
 
 戴高乐机场巴士 (RoissyBus)
-是一条连接[巴黎歌剧院和](../Page/巴黎歌剧院.md "wikilink")[戴高乐机场三个航站楼的机场公交专线](../Page/戴高乐机场.md "wikilink"),
+是一条连接[巴黎歌剧院和](https://zh.wikipedia.org/wiki/巴黎歌剧院 "wikilink")[戴高乐机场三个航站楼的机场公交专线](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink"),
 于1992年12月1日开通运营\[9\]. 线路全长30公里, 共计13站, 平时白天15分钟一班车, 走毕全程需45分钟至1小时.
 基于机场巴士的特殊性, 该线路收费偏高 (9.4欧元), 而一些公交日票也不能使用\[10\].
 
@@ -204,7 +215,7 @@ Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士
 [RATP_Orlybus_Denfert-Rochereau.JPG](https://zh.wikipedia.org/wiki/File:RATP_Orlybus_Denfert-Rochereau.JPG "fig:RATP_Orlybus_Denfert-Rochereau.JPG")
 
 奥利机场巴士 (Orlybus) 是一条连接巴黎丹佛-罗什洛广场 (Place Denfert-Rochereau)
-和[奥利机场的机场公交专线](../Page/奥利机场.md "wikilink"),
+和[奥利机场的机场公交专线](https://zh.wikipedia.org/wiki/奥利机场 "wikilink"),
 于1962年10月1日开通\[11\]. 线路全长13公里, 共计10站, 平时15\~20分钟一班车, 走毕全程需要20\~30分钟,
 在星期五, 六和节日前夜会延长服务一小时. 基于机场巴士的特殊性, 该线路收费偏高 (6.6欧元),
 而一些公交日票也不能使用\[12\].
@@ -214,9 +225,9 @@ Paris-Austerlitz) 之间的铁路交通将会中断, 相关服务由海狸巴士
 [Balabus-Habillage_73-Citelis_Line-Gare_de_Lyon-1.JPG](https://zh.wikipedia.org/wiki/File:Balabus-Habillage_73-Citelis_Line-Gare_de_Lyon-1.JPG "fig:Balabus-Habillage_73-Citelis_Line-Gare_de_Lyon-1.JPG")
 
 Bala巴士 (Balabus) 是一条观光巴士线路, 连接[拉德芳斯](../Page/拉德芳斯.md "wikilink") (La
-Défense) 和[里昂车站](../Page/巴黎里昂车站.md "wikilink") (Paris-Gare de Lyon),
-并途径[塞纳河沿岸的各个景点](../Page/塞纳河.md "wikilink"), 于1990年4月15日开通\[13\].
-该线路仅在每年的4月至9月间运行, 并且只在节日和周日的下午12时30分至晚间20时运行.
+Défense) 和[里昂车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")
+(Paris-Gare de Lyon), 并途径[塞纳河沿岸的各个景点](../Page/塞纳河.md "wikilink"),
+于1990年4月15日开通\[13\]. 该线路仅在每年的4月至9月间运行, 并且只在节日和周日的下午12时30分至晚间20时运行.
 
 #### 巴黎观光巴士
 
@@ -267,55 +278,55 @@ RATP公交路网目前所使用的巴士型号, 数量和制造商如下:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Irisbus_Agora#Agora_Standard.md" title="wikilink">Agora S</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a> / <a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Agora#Agora_Standard" title="wikilink">Agora S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a> / <a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>1643</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:Irisbus_Agora.md" title="wikilink">Agora S GNV</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a> / <a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Agora" title="wikilink">Agora S GNV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a> / <a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>90</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Irisbus_Agora#Agora_Line.md" title="wikilink">Agora Line</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a> / <a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Agora#Agora_Line" title="wikilink">Agora Line</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a> / <a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>417</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梅赛德斯-奔驰Citaro.md" title="wikilink">Citaro</a></p></td>
-<td><p><a href="../Page/:fr:EvoBus.md" title="wikilink">EvoBus</a> (<a href="../Page/Mercedes-Benz.md" title="wikilink">Mercedes-Benz</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:EvoBus" title="wikilink">EvoBus</a> (<a href="https://zh.wikipedia.org/wiki/Mercedes-Benz" title="wikilink">Mercedes-Benz</a>)</p></td>
 <td><p>68</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Irisbus_Citelis#Citelis_12.md" title="wikilink">Citelis 12</a></p></td>
-<td><p><a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Citelis#Citelis_12" title="wikilink">Citelis 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>准备交付</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:Irisbus_Citelis#Citelis_Line.md" title="wikilink">Citelis Line</a></p></td>
-<td><p><a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Citelis#Citelis_Line" title="wikilink">Citelis Line</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>851<br />
 正在交付</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Heuliez_GX_317.md" title="wikilink">Citybus</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a> / <a href="../Page/:fr:Heuliez_Bus.md" title="wikilink">Heuliez Bus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Heuliez_GX_317" title="wikilink">Citybus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a> / <a href="https://zh.wikipedia.org/wiki/:fr:Heuliez_Bus" title="wikilink">Heuliez Bus</a></p></td>
 <td><p>123</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MAN股份公司.md" title="wikilink">NL 223</a></p></td>
-<td><p><a href="../Page/MAN股份公司.md" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAN股份公司" title="wikilink">NL 223</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAN股份公司" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
 <td><p>205</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Scania_OmniCity#Bus_standards.md" title="wikilink">Omnicity 12m</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Scania_OmniCity#Bus_standards" title="wikilink">Omnicity 12m</a></p></td>
 <td><p><a href="../Page/斯堪尼亚汽车.md" title="wikilink">Scania</a></p></td>
 <td><p>211<br />
 正在交付</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:Renault_R_312.md" title="wikilink">R 312</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Renault_R_312" title="wikilink">R 312</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a></p></td>
 <td><p>255</p></td>
 </tr>
 </tbody>
@@ -335,35 +346,35 @@ RATP公交路网目前所使用的巴士型号, 数量和制造商如下:
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Irisbus_Agora#Agora_L.md" title="wikilink">Agora L</a></p></td>
-<td><p><a href="../Page/Renault_Trucks.md" title="wikilink">Renault (RVI)</a> / <a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Agora#Agora_L" title="wikilink">Agora L</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Renault_Trucks" title="wikilink">Renault (RVI)</a> / <a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>295</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:Irisbus_Citelis#Citelis_18.md" title="wikilink">Citelis 18</a></p></td>
-<td><p><a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Citelis#Citelis_18" title="wikilink">Citelis 18</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>84<br />
 正在交付</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:Irisbus_Créalis.md" title="wikilink">Créalis 18</a></p></td>
-<td><p><a href="../Page/Irisbus.md" title="wikilink">Irisbus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Irisbus_Créalis" title="wikilink">Créalis 18</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Irisbus" title="wikilink">Irisbus</a></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:MAN_Lion&#39;s_City.md" title="wikilink">Lion's City G</a></p></td>
-<td><p><a href="../Page/MAN股份公司.md" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:MAN_Lion&#39;s_City" title="wikilink">Lion's City G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAN股份公司" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
 <td><p>129<br />
 正在交付</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:fr:MAN_Lion&#39;s_City.md" title="wikilink">Lion's City GL</a></p></td>
-<td><p><a href="../Page/MAN股份公司.md" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:MAN_Lion&#39;s_City" title="wikilink">Lion's City GL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAN股份公司" title="wikilink">MAN Nutzfahrzeuge</a></p></td>
 <td><p>16<br />
 戴高乐机场巴士专用车</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:fr:Scania_OmniCity#Bus_articulés.md" title="wikilink">Omnicity 18m</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:fr:Scania_OmniCity#Bus_articulés" title="wikilink">Omnicity 18m</a></p></td>
 <td><p><a href="../Page/斯堪尼亚汽车.md" title="wikilink">Scania</a></p></td>
 <td><p>11<br />
 奥利机场巴士专用车</p></td>
@@ -375,28 +386,28 @@ RATP公交路网目前所使用的巴士型号, 数量和制造商如下:
 
 [580_tIGR-GX127-Villejuif_Louis_Aragon-1.JPG](https://zh.wikipedia.org/wiki/File:580_tIGR-GX127-Villejuif_Louis_Aragon-1.JPG "fig:580_tIGR-GX127-Villejuif_Louis_Aragon-1.JPG")
 
-| 型号                                                 | 制造商                                                  | 数量 |
-| -------------------------------------------------- | ---------------------------------------------------- | -- |
-| [GX 77 H](../Page/:fr:Heuliez_Bus.md "wikilink")   | [Heuliez Bus](../Page/:fr:Heuliez_Bus.md "wikilink") | 3  |
-| [GX 117](../Page/:fr:Heuliez_GX_117.md "wikilink") | [Heuliez Bus](../Page/:fr:Heuliez_Bus.md "wikilink") | 27 |
-| [GX 127](../Page/:fr:Heuliez_GX_127.md "wikilink") | [Heuliez Bus](../Page/:fr:Heuliez_Bus.md "wikilink") | 32 |
+| 型号                                                                    | 制造商                                                                     | 数量 |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------- | -- |
+| [GX 77 H](https://zh.wikipedia.org/wiki/:fr:Heuliez_Bus "wikilink")   | [Heuliez Bus](https://zh.wikipedia.org/wiki/:fr:Heuliez_Bus "wikilink") | 3  |
+| [GX 117](https://zh.wikipedia.org/wiki/:fr:Heuliez_GX_117 "wikilink") | [Heuliez Bus](https://zh.wikipedia.org/wiki/:fr:Heuliez_Bus "wikilink") | 27 |
+| [GX 127](https://zh.wikipedia.org/wiki/:fr:Heuliez_GX_127 "wikilink") | [Heuliez Bus](https://zh.wikipedia.org/wiki/:fr:Heuliez_Bus "wikilink") | 32 |
 
 ### 小巴
 
-| 型号                                                   | 制造商                                                  | 数量 |
-| ---------------------------------------------------- | ---------------------------------------------------- | -- |
-| [Microbus](../Page/:fr:Gruau_Microbus.md "wikilink") | Gruau                                                | 45 |
-| Oréos 55 E                                           | Gépébus                                              | 12 |
-| Sprinter                                             | [Mercedes-Benz](../Page/Mercedes-Benz.md "wikilink") | 46 |
+| 型号                                                                      | 制造商                                                                     | 数量 |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | -- |
+| [Microbus](https://zh.wikipedia.org/wiki/:fr:Gruau_Microbus "wikilink") | Gruau                                                                   | 45 |
+| Oréos 55 E                                                              | Gépébus                                                                 | 12 |
+| Sprinter                                                                | [Mercedes-Benz](https://zh.wikipedia.org/wiki/Mercedes-Benz "wikilink") | 46 |
 
 ### 其它
 
-| 型号      | 制造商                                      | 数量 |
-| ------- | ---------------------------------------- | -- |
-| Stylus  | ACEV                                     | 4  |
-| Sampler | FAST                                     | 1  |
-| Master  | [Renault](../Page/Renault.md "wikilink") | 4  |
-| Trafic  | [Renault](../Page/Renault.md "wikilink") | 3  |
+| 型号      | 制造商                                                         | 数量 |
+| ------- | ----------------------------------------------------------- | -- |
+| Stylus  | ACEV                                                        | 4  |
+| Sampler | FAST                                                        | 1  |
+| Master  | [Renault](https://zh.wikipedia.org/wiki/Renault "wikilink") | 4  |
+| Trafic  | [Renault](https://zh.wikipedia.org/wiki/Renault "wikilink") | 3  |
 
 ## 参考来源
 

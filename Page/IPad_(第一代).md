@@ -1,23 +1,23 @@
-**第一代iPad**是[蘋果公司執行長](../Page/蘋果公司.md "wikilink")[史蒂夫·乔布斯於](../Page/史蒂夫·乔布斯.md "wikilink")2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](../Page/iPad.md "wikilink")，提供瀏覽[網際網路](../Page/網際網路.md "wikilink")、收發[電子郵件](../Page/電子郵件.md "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](../Page/音訊.md "wikilink")[視訊](../Page/視訊.md "wikilink")、玩[遊戲等功能](../Page/遊戲.md "wikilink")\[1\]。
+**第一代iPad**是[蘋果公司執行長](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯於](../Page/史蒂夫·乔布斯.md "wikilink")2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](https://zh.wikipedia.org/wiki/iPad "wikilink")，提供瀏覽[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、玩[遊戲等功能](https://zh.wikipedia.org/wiki/遊戲 "wikilink")\[1\]。
 
 最初发布的iPad，只有黑色型號，無相機鏡頭。2011年3月，蘋果公司发布命名為“[iPad
-2](../Page/iPad_2.md "wikilink")”的机型，用以取代最初的iPad。
+2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")”的机型，用以取代最初的iPad。
 
 ## 發表
 
-蘋果公司在2010年1月27日於[美國](../Page/美國.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")[歐巴布也那藝術中心](../Page/歐巴布也那藝術中心.md "wikilink")（Yerba
+蘋果公司在2010年1月27日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歐巴布也那藝術中心](https://zh.wikipedia.org/wiki/歐巴布也那藝術中心 "wikilink")（Yerba
 Buena Center for the
-Arts）所舉行的發表會上，由[執行長](../Page/執行長.md "wikilink")[史蒂夫·乔布斯親自發表](../Page/史蒂夫·乔布斯.md "wikilink")。\[2\]
+Arts）所舉行的發表會上，由[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·乔布斯親自發表](../Page/史蒂夫·乔布斯.md "wikilink")。\[2\]
 
 ## 規格
 
-iPad有一個9.76[吋的](../Page/吋.md "wikilink")[IPS顯示器](../Page/薄膜電晶體液晶顯示器#IPS.md "wikilink")，厚度為0.5吋，重量為1.5磅。與使用[英特爾處理器的蘋果公司其他電腦產品不同](../Page/英特爾.md "wikilink")，iPad使用了蘋果公司自家的[Apple
+iPad有一個9.76[吋的](https://zh.wikipedia.org/wiki/吋 "wikilink")[IPS顯示器](https://zh.wikipedia.org/wiki/薄膜電晶體液晶顯示器#IPS "wikilink")，厚度為0.5吋，重量為1.5磅。與使用[英特爾處理器的蘋果公司其他電腦產品不同](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，iPad使用了蘋果公司自家的[Apple
 A4](../Page/Apple_A4.md "wikilink")
-1GHz處理晶片。iPad也支援[多點觸控](../Page/多點觸控.md "wikilink")，內建16至64[GB的](../Page/GB.md "wikilink")[快閃記憶體](../Page/快閃記憶體.md "wikilink")。電池可提供10小時的續航使用時間，以及最長達一個月的待機能力\[3\]。
+1GHz處理晶片。iPad也支援[多點觸控](../Page/多點觸控.md "wikilink")，內建16至64[GB的](https://zh.wikipedia.org/wiki/GB "wikilink")[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。電池可提供10小時的續航使用時間，以及最長達一個月的待機能力\[3\]。
 
 通訊能力方面，iPad Wi-Fi 機種支援 [Wi-Fi](../Page/Wi-Fi.md "wikilink")
-[802.11n規格的無線網路](../Page/802.11n.md "wikilink")，以及[藍牙](../Page/藍牙.md "wikilink")（Bluetooth）2.1；Wi-Fi+3G
-機種更同時具備GPS模块。另外，iPad同時內建[動態感應器](../Page/動態感應器.md "wikilink")、[電子羅盤](../Page/電子羅盤.md "wikilink")、[喇叭](../Page/喇叭.md "wikilink")、[麥克風](../Page/麥克風.md "wikilink")。
+[802.11n規格的無線網路](https://zh.wikipedia.org/wiki/802.11n "wikilink")，以及[藍牙](../Page/藍牙.md "wikilink")（Bluetooth）2.1；Wi-Fi+3G
+機種更同時具備GPS模块。另外，iPad同時內建[動態感應器](https://zh.wikipedia.org/wiki/動態感應器 "wikilink")、[電子羅盤](https://zh.wikipedia.org/wiki/電子羅盤 "wikilink")、[喇叭](https://zh.wikipedia.org/wiki/喇叭 "wikilink")、[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。
 
 ## 內建應用程式
 
@@ -26,17 +26,16 @@ A4](../Page/Apple_A4.md "wikilink")
   - **備忘錄**：分多筆記錄筆記，升級到iOS 4.2後則可以選擇字體。
   - **地圖**：在iOS 5.1.1之前，是以Google Maps作為基礎圖庫，及時下載，可查詢路線，3G機種有導航功能。在iOS
     6之後，以Apple
-    Maps作為基礎圖庫，主要由TomTom公司（国际版）和[高德地图](../Page/高德地图.md "wikilink")（大陆版）提供交通圖資的查詢，亦可查詢路線，3G機種有A-GPS導航與定位功能，wifi版則是用wifi訊號來查詢機器的所在位置。最大的噱頭是可以觀看世界主要城市建築物的外觀及模型(目前使用區域是美國的主要的大城市)。如果你夠細心，你會看到3D建築物地圖上最細微地方，有蘋果公司的iPod
+    Maps作為基礎圖庫，主要由TomTom公司（国际版）和[高德地图](https://zh.wikipedia.org/wiki/高德地图 "wikilink")（大陆版）提供交通圖資的查詢，亦可查詢路線，3G機種有A-GPS導航與定位功能，wifi版則是用wifi訊號來查詢機器的所在位置。最大的噱頭是可以觀看世界主要城市建築物的外觀及模型(目前使用區域是美國的主要的大城市)。如果你夠細心，你會看到3D建築物地圖上最細微地方，有蘋果公司的iPod
     or iPad廣告，而且廣告比周遭的建築物清楚許多。
   - **音樂**：聆聽音樂與Podcast，可以馬上播放通過iTunes Store下載的音樂，支援以專輯封面方式瀏覽。
-  - **[Podcast](../Page/Podcast.md "wikilink")**：在iOS
-    6之後，被設計成一個新的應用程序，放在app store
-    供使用者自行下載使用，目前是免費的。
+  - **[Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")**：在iOS
+    6之後，被設計成一個新的應用程序，放在app store 供使用者自行下載使用，目前是免費的。
   - **視訊**：通過iTunes導入影片與音樂視頻，並且全螢幕觀賞，在iPad的9.7寸屏幕上有不錯的觀賞效果。
   - **YouTube**：專為iPad重新設計過的介面，線上觀賞YouTube影片，並且可以調整畫質，不過VEVO高畫質音樂視頻是無法觀賞的。
   - **iTunes**：通過註冊蘋果帳戶，購買iTunes Store的內容，並且使用蘋果所推出的Ping音樂社交功能。
   - **App
-    Store**：通過註冊蘋果帳戶，購買高達數萬款的iPad應用程式；由於iPad與[iPhone採用同樣的作業系統](../Page/iPhone.md "wikilink")[iOS](../Page/iOS.md "wikilink")，因此可直接執行所有iPhone的應用程式。
+    Store**：通過註冊蘋果帳戶，購買高達數萬款的iPad應用程式；由於iPad與[iPhone採用同樣的作業系統](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，因此可直接執行所有iPhone的應用程式。
   - **Game Center**：升級到iOS 4.1後才有此功能，支援大部份App
     Store提供的遊戲，與全世界的玩家比較分數並且分享心得；需要蘋果帳戶才能使用。
   - **設定**：調整iPad的一切設定，包括連接Wi-Fi網路等等皆需要使用。
@@ -97,36 +96,36 @@ A4](../Page/Apple_A4.md "wikilink")
 ## 上市前傳言
 
 [IPad_in_Black_Case.jpg](https://zh.wikipedia.org/wiki/File:IPad_in_Black_Case.jpg "fig:IPad_in_Black_Case.jpg")
-蘋果公司自[NEWTON](../Page/Apple_Newton.md "wikilink")[平板電腦的營銷計劃失敗告終後](../Page/平板電腦.md "wikilink")，在2003年起至2010年於[CEO](../Page/CEO.md "wikilink")[史提夫·喬布斯監督下](../Page/史提夫·喬布斯.md "wikilink")，一直致力研發新版的平版電腦，但研發過程並不順利，平版電腦的雛型設計多次被史提夫否決。直至2010年，[史提夫·喬布斯終於認為蘋果新的平版電腦設計上和市場已經成熟](../Page/史提夫·喬布斯.md "wikilink")，社會普遍預計蘋果公司計劃於1月27日的媒體發佈會發佈iSlate。分析人士預測，[蘋果即將推出的](../Page/蘋果.md "wikilink")[平板電腦很可能被命名為](../Page/平板電腦.md "wikilink")「iSlate」。
+蘋果公司自[NEWTON](../Page/Apple_Newton.md "wikilink")[平板電腦的營銷計劃失敗告終後](../Page/平板電腦.md "wikilink")，在2003年起至2010年於[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史提夫·喬布斯監督下](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，一直致力研發新版的平版電腦，但研發過程並不順利，平版電腦的雛型設計多次被史提夫否決。直至2010年，[史提夫·喬布斯終於認為蘋果新的平版電腦設計上和市場已經成熟](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")，社會普遍預計蘋果公司計劃於1月27日的媒體發佈會發佈iSlate。分析人士預測，[蘋果即將推出的](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[平板電腦很可能被命名為](../Page/平板電腦.md "wikilink")「iSlate」。
 
 蘋果公司的平版電腦傳聞中的產品名稱為iSlate，iPad，iTablet，Mactablet等等，多不勝數。
 
 ## 發售
 
-蘋果公司於2010年5月4日表示，iPad於4月3日開始在美國發售，開售28日銷售量已經突破100萬部，銷售速度比[iPhone還快](../Page/iPhone.md "wikilink")。iPhone
+蘋果公司於2010年5月4日表示，iPad於4月3日開始在美國發售，開售28日銷售量已經突破100萬部，銷售速度比[iPhone還快](https://zh.wikipedia.org/wiki/iPhone "wikilink")。iPhone
 2007年開賣時要用74日才能賣出100萬部。\[5\]
 截止到2010年6月1日，蘋果CEO喬布斯宣佈，在美國和其他市場，iPad以累計出貨200萬部。蘋果公司於同年6月22日再次發表聲明，指iPad開售八十日已經售出三百萬部。\[6\]
 
 [IPad_First_Gen.jpg](https://zh.wikipedia.org/wiki/File:IPad_First_Gen.jpg "fig:IPad_First_Gen.jpg")
-[台灣於](../Page/台灣.md "wikilink")2010年11月30日正式上市，首批到貨僅不到五千部，舖貨點僅限在[Studio
-A](../Page/Studio_A.md "wikilink")、[德誼數位](../Page/德誼數位.md "wikilink")、[法雅客以及](../Page/法雅客.md "wikilink")[燦坤部份門市](../Page/燦坤.md "wikilink")，當日隨即銷售一空，12月中後才陸續提高來貨量。\[7\]
+[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年11月30日正式上市，首批到貨僅不到五千部，舖貨點僅限在[Studio
+A](https://zh.wikipedia.org/wiki/Studio_A "wikilink")、[德誼數位](https://zh.wikipedia.org/wiki/德誼數位 "wikilink")、[法雅客以及](https://zh.wikipedia.org/wiki/法雅客 "wikilink")[燦坤部份門市](../Page/燦坤.md "wikilink")，當日隨即銷售一空，12月中後才陸續提高來貨量。\[7\]
 
 ## 评价
 
-iPad一發表就遭受不少批評。[網路上流傳著不少](../Page/網路.md "wikilink")[合成照片與搞笑](../Page/合成照片.md "wikilink")[影片嘲諷iPad](../Page/影片.md "wikilink")，例如：有合成照片把喬布斯手上的iPad改成以「田」字形排列的四隻iPhone，諷刺[史提夫·喬布斯拿iPhone拼湊成iPad](../Page/史提夫·喬布斯.md "wikilink")；有搞笑影片早在iPad上市前就發表以iPad為名的[衛生棉](../Page/衛生棉.md "wikilink")；有[網友認為iPad根本就是浪費大家](../Page/網友.md "wikilink")[時間的東西](../Page/時間.md "wikilink")，而把iPad改名為「iLame」（i爛）\[8\]。早在iPad上市前，[加拿大](../Page/加拿大.md "wikilink")[內衣廠商](../Page/內衣.md "wikilink")[Coconut
+iPad一發表就遭受不少批評。[網路上流傳著不少](https://zh.wikipedia.org/wiki/網路 "wikilink")[合成照片與搞笑](https://zh.wikipedia.org/wiki/合成照片 "wikilink")[影片嘲諷iPad](https://zh.wikipedia.org/wiki/影片 "wikilink")，例如：有合成照片把喬布斯手上的iPad改成以「田」字形排列的四隻iPhone，諷刺[史提夫·喬布斯拿iPhone拼湊成iPad](https://zh.wikipedia.org/wiki/史提夫·喬布斯 "wikilink")；有搞笑影片早在iPad上市前就發表以iPad為名的[衛生棉](../Page/衛生棉.md "wikilink")；有[網友認為iPad根本就是浪費大家](../Page/網友.md "wikilink")[時間的東西](https://zh.wikipedia.org/wiki/時間 "wikilink")，而把iPad改名為「iLame」（i爛）\[8\]。早在iPad上市前，[加拿大](../Page/加拿大.md "wikilink")[內衣廠商](https://zh.wikipedia.org/wiki/內衣 "wikilink")[Coconut
 Grove
-Intimates已販售以iPad為名的胸墊](../Page/Coconut_Grove_Intimates.md "wikilink")，[意法半導體的iPad平板電腦已在](../Page/意法半導體.md "wikilink")[歐洲註冊商標](../Page/歐洲.md "wikilink")，[日本](../Page/日本.md "wikilink")[富士通在](../Page/富士通.md "wikilink")2002年銷售「iPAD」\[9\]（請注意[字母大小寫不同](../Page/字母.md "wikilink")）手持式[銷售時點情報系統](../Page/銷售時點情報系統.md "wikilink")（POS）裝置，富士通宣稱2003年就已在美國註冊「iPAD」商標\[10\]。[中國](../Page/中國.md "wikilink")[深圳的](../Page/深圳.md "wikilink")[巨龍兄弟實業宣稱早在](../Page/巨龍兄弟實業.md "wikilink")2009年8月就已推出長得像放大版iPhone的[行動電話](../Page/行動電話.md "wikilink")「P88」，還曾在[柏林國際電子消費品展覽會](../Page/柏林國際電子消費品展覽會.md "wikilink")（IFA）發表過\[11\]。《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》財經專欄作家[麥可·希爾奇克](../Page/麥可·希爾奇克.md "wikilink")（Michael
+Intimates已販售以iPad為名的胸墊](https://zh.wikipedia.org/wiki/Coconut_Grove_Intimates "wikilink")，[意法半導體的iPad平板電腦已在](../Page/意法半導體.md "wikilink")[歐洲註冊商標](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[日本](../Page/日本.md "wikilink")[富士通在](../Page/富士通.md "wikilink")2002年銷售「iPAD」\[9\]（請注意[字母大小寫不同](../Page/字母.md "wikilink")）手持式[銷售時點情報系統](../Page/銷售時點情報系統.md "wikilink")（POS）裝置，富士通宣稱2003年就已在美國註冊「iPAD」商標\[10\]。[中國](../Page/中國.md "wikilink")[深圳的](https://zh.wikipedia.org/wiki/深圳 "wikilink")[巨龍兄弟實業宣稱早在](https://zh.wikipedia.org/wiki/巨龍兄弟實業 "wikilink")2009年8月就已推出長得像放大版iPhone的[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")「P88」，還曾在[柏林國際電子消費品展覽會](https://zh.wikipedia.org/wiki/柏林國際電子消費品展覽會 "wikilink")（IFA）發表過\[11\]。《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》財經專欄作家[麥可·希爾奇克](https://zh.wikipedia.org/wiki/麥可·希爾奇克 "wikilink")（Michael
 Hiltzik）認為，iPad欠缺革命性，和市場期待有不小差距，對[Amazon
-Kindle無致命威脅](../Page/Amazon_Kindle.md "wikilink")\[12\]。
+Kindle無致命威脅](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[12\]。
 
 縱然在推出初期受到了不少批評，但其实在2010年，iPad已在全球掀起一股热潮，而且還開拓出一個新的平板電腦市場，更促使微軟和谷歌各自發表[Windows
-8和](../Page/Windows_8.md "wikilink")[Android系統來對抗蘋果](../Page/Android.md "wikilink")[iPad](../Page/iPad.md "wikilink")。目前大多數廠商均使用[Android系統來對抗](../Page/Android.md "wikilink")[iOS系統](../Page/iOS.md "wikilink")。
+8和](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Android系統來對抗蘋果](../Page/Android.md "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。目前大多數廠商均使用[Android系統來對抗](../Page/Android.md "wikilink")[iOS系統](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 相关连结
 
-  - [iPad](../Page/iPad.md "wikilink")
-  - [iPad 2](../Page/iPad_2.md "wikilink")
-  - [iOS設備清單](../Page/iOS設備清單.md "wikilink")
+  - [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - [iOS設備清單](https://zh.wikipedia.org/wiki/iOS設備清單 "wikilink")
 
 ## 外部連結
 

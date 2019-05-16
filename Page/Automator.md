@@ -18,7 +18,8 @@ Automator实际上是一些列动作（文件重命名，找链接的图片、�
 
   - [AppleScript](../Page/AppleScript.md "wikilink")
   - [AutoHotkey](../Page/AutoHotkey.md "wikilink")
-  - [iMacros for Firefox](../Page/iMacros.md "wikilink")
+  - [iMacros for
+    Firefox](https://zh.wikipedia.org/wiki/iMacros "wikilink")
 
 ## 外部链接
 

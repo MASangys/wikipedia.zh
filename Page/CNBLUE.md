@@ -1,9 +1,9 @@
-**CNBLUE**（；），[韓國](../Page/韓國.md "wikilink")[FNC娛樂旗下的四人樂團組合](../Page/FNC娛樂.md "wikilink")，成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")。
+**CNBLUE**（；），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的四人樂團組合](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，成員包括[鄭容和](../Page/鄭容和.md "wikilink")（隊長）、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")。
 
 **CNBLUE**是**Code Name
 BLUE**的簡稱，其中**BLUE**是**B**urning（[李宗泫](../Page/李宗泫.md "wikilink")）+**L**ovely（[姜敏赫](../Page/姜敏赫.md "wikilink")）+**U**ntouchable（[李正信](../Page/李正信.md "wikilink")）+**E**motional（[鄭容和](../Page/鄭容和.md "wikilink")）的合成詞，寓意團員的特質都是不同。
 
-CNBLUE官方[愛好者名為](../Page/愛好者.md "wikilink")**BOICE**，是CNBLUE的*'BLUE
+CNBLUE官方[愛好者名為](https://zh.wikipedia.org/wiki/愛好者 "wikilink")**BOICE**，是CNBLUE的*'BLUE
 **+**VOICE**的合成詞，寓意歌迷就是CNBLUE的聲音，另一意思是希望歌迷的聲音永遠與CNBLUE同在。沒有官方應援色，官方應援物名為**BLISH**（有不同版本深淺不一的藍色毛巾），是CNBLUE的**BLUE
 **+**STYLISH*'的合成詞，寓意歌迷都是閃閃發亮。
 
@@ -25,27 +25,27 @@ CNBLUE官方[愛好者名為](../Page/愛好者.md "wikilink")**BOICE**，是CNB
     <small>（**CNBLUE**成員個人詳細資料請參閱[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[李正信](../Page/李正信.md "wikilink")）
     </small>
 
-CNBLUE於2009年被[FNC娛樂公司派往](../Page/FNC娛樂.md "wikilink")[日本接受音樂訓練](../Page/日本.md "wikilink")，6月在[日本以獨立樂團開始地下活動](../Page/日本.md "wikilink")，在街上和小型演奏廳進行了過百場演出。當時成員包括[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[權光珍](../Page/權光珍.md "wikilink")，但是[權光珍在](../Page/權光珍.md "wikilink")9月以私人因素退團，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。在[日本的訓練令CNBLUE廣闊了視野](../Page/日本.md "wikilink")，增加了成員之間的默契，並幫助他們累積實力，但是實際上他們的訓練生活過得很刻苦。
+CNBLUE於2009年被[FNC娛樂公司派往](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[日本接受音樂訓練](../Page/日本.md "wikilink")，6月在[日本以獨立樂團開始地下活動](../Page/日本.md "wikilink")，在街上和小型演奏廳進行了過百場演出。當時成員包括[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[姜敏赫](../Page/姜敏赫.md "wikilink")、[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")，但是[權光珍在](https://zh.wikipedia.org/wiki/權光珍 "wikilink")9月以私人因素退團，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。在[日本的訓練令CNBLUE廣闊了視野](../Page/日本.md "wikilink")，增加了成員之間的默契，並幫助他們累積實力，但是實際上他們的訓練生活過得很刻苦。
 
-2010年1月CNBLUE在[韓國正式出道](../Page/韓國.md "wikilink")，出道15天便獲得音樂節目的第一位，打破了[韓國新人最快獲得一位的紀錄](../Page/韓國.md "wikilink")，而這紀錄一直由CNBLUE保持了四年多。[FNC娛樂社長](../Page/FNC娛樂.md "wikilink")曾表示，由於公司擴展過度，經營不善而迫使CNBLUE延後出道，在CNBLUE出道前公司欠債逹三十多億韓元；因CNBLUE出道初期便引起外界極大關注以致工作接踵而來，被外界指稱是CNBLUE出道數個月便令公司起死回生，之後CNBLUE更以全能藝人姿態活躍於各個娛樂領域。
+2010年1月CNBLUE在[韓國正式出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")，出道15天便獲得音樂節目的第一位，打破了[韓國新人最快獲得一位的紀錄](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而這紀錄一直由CNBLUE保持了四年多。[FNC娛樂社長](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")曾表示，由於公司擴展過度，經營不善而迫使CNBLUE延後出道，在CNBLUE出道前公司欠債逹三十多億韓元；因CNBLUE出道初期便引起外界極大關注以致工作接踵而來，被外界指稱是CNBLUE出道數個月便令公司起死回生，之後CNBLUE更以全能藝人姿態活躍於各個娛樂領域。
 
 2012年CNBLUE在[非洲貧窮國家](../Page/非洲.md "wikilink")[布吉納法索建立了](../Page/布吉納法索.md "wikilink")**CNBLUE學校**，資助當地兒童飲食需求，提供他們學習機會。此後每年CNBLUE也會將部分收益，捐獻給該學校作為營運費用，而CNBLUE也一直積極參與各項慈善活動。
 
 2012年CNBLUE在[日本發行單曲](../Page/日本.md "wikilink")《Where you
 are》，獲得[Oricon公信榜單曲週榜第一位](../Page/Oricon公信榜.md "wikilink")，是時隔41年後能再登上[日本](../Page/日本.md "wikilink")[Oricon公信榜單曲週榜第一的海外樂團](../Page/Oricon公信榜.md "wikilink")。同年發行的首張正規專輯《CODE
 NAME
-BLUE》也登上[Oricon公信榜週榜第一位](../Page/Oricon公信榜.md "wikilink")。CNBLUE於2013年在[韓國發行的](../Page/韓國.md "wikilink")《Re：BLUE》，除了橫掃[韓國音源榜](../Page/韓國.md "wikilink")，更登上[美國](../Page/美國.md "wikilink")[Billboard](../Page/Billboard.md "wikilink")
+BLUE》也登上[Oricon公信榜週榜第一位](../Page/Oricon公信榜.md "wikilink")。CNBLUE於2013年在[韓國發行的](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Re：BLUE》，除了橫掃[韓國音源榜](https://zh.wikipedia.org/wiki/韓國 "wikilink")，更登上[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
 World Album排行榜第1位。
 
 2019年3月14日，李宗泫捲入鄭俊英偷拍事件，並曾在kakaotalk上有過不當的言論，但公司發出聲明並表示不會退出CNBLUE與演藝圈。
 
 ## 專輯／大事記
 
-  - **CNBLUE**在[韓國出道前被公司派往](../Page/韓國.md "wikilink")[日本接受訓練](../Page/日本.md "wikilink")，曾在街頭與**Live
+  - **CNBLUE**在[韓國出道前被公司派往](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本接受訓練](../Page/日本.md "wikilink")，曾在街頭與**Live
     House**進行過百場的公演。
   - 8月19日，在[日本以獨立樂團發行迷你專輯](../Page/日本.md "wikilink")《Now or Never》。
-  - 9月，[鄭容和返回](../Page/鄭容和.md "wikilink")[韓國進行電視劇](../Page/韓國.md "wikilink")[原來是美男的試鏡](../Page/原來是美男_\(韓國電視劇\).md "wikilink")，試鏡成功後留在[韓國拍攝](../Page/韓國.md "wikilink")，這期間由[李宗泫暫代隊長和其他成員繼續在](../Page/李宗泫.md "wikilink")[日本進行地下活動](../Page/日本.md "wikilink")。
-  - 9月，[權光珍以私人因素退團](../Page/權光珍.md "wikilink")，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。
+  - 9月，[鄭容和返回](../Page/鄭容和.md "wikilink")[韓國進行電視劇](https://zh.wikipedia.org/wiki/韓國 "wikilink")[原來是美男的試鏡](../Page/原來是美男_\(韓國電視劇\).md "wikilink")，試鏡成功後留在[韓國拍攝](https://zh.wikipedia.org/wiki/韓國 "wikilink")，這期間由[李宗泫暫代隊長和其他成員繼續在](../Page/李宗泫.md "wikilink")[日本進行地下活動](../Page/日本.md "wikilink")。
+  - 9月，[權光珍以私人因素退團](https://zh.wikipedia.org/wiki/權光珍 "wikilink")，由[李正信接任貝斯手](../Page/李正信.md "wikilink")。
   - 11月25日，在[日本以獨立樂團發行迷你專輯](../Page/日本.md "wikilink")《VOICE》。
   - 11月27，日在[日本](../Page/日本.md "wikilink")**aube shibuya**舉辦 ＂CNBLUE 2nd
     Mini Album Release Live -VOICE-＂One Man Live公演。
@@ -54,51 +54,51 @@ World Album排行榜第1位。
 
 <!-- end list -->
 
-  - 1月14日，**CNBLUE**在[韓國正式出道](../Page/韓國.md "wikilink")，發行迷你專輯《Bluetory》，以《외톨이야
+  - 1月14日，**CNBLUE**在[韓國正式出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")，發行迷你專輯《Bluetory》，以《외톨이야
     孤獨的人》作主打歌。
   - 1月29日，**CNBLUE**出道15天，便憑《외톨이야
-    孤獨的人》獲得[KBS音樂節目](../Page/KBS.md "wikilink")《Music
-    Bank》第一位，打破了[韓國出道新人最快獲得第一位的紀錄](../Page/韓國.md "wikilink")，而這紀錄一直被**CNBLUE**保持了四年多。
+    孤獨的人》獲得[KBS音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《Music
+    Bank》第一位，打破了[韓國出道新人最快獲得第一位的紀錄](https://zh.wikipedia.org/wiki/韓國 "wikilink")，而這紀錄一直被**CNBLUE**保持了四年多。
   - 3月1日，**CNBLUE**[日本官方網站正式開啟](../Page/日本.md "wikilink")。
-  - 3月20日，在[日本發行首張專輯](../Page/日本.md "wikilink")《ThankU》，收入之前於[日本發行的](../Page/日本.md "wikilink")2張迷你專輯與成員原創《Intro》。當天同時在[日本](../Page/日本.md "wikilink")[涉谷](../Page/涉谷.md "wikilink")**Club
+  - 3月20日，在[日本發行首張專輯](../Page/日本.md "wikilink")《ThankU》，收入之前於[日本發行的](../Page/日本.md "wikilink")2張迷你專輯與成員原創《Intro》。當天同時在[日本](../Page/日本.md "wikilink")[涉谷](https://zh.wikipedia.org/wiki/涉谷 "wikilink")**Club
     Quattro**舉辦 ＂CNBLUE 1st Album Release Live ～ThankU～＂One Man Live公演。
-  - 4月16日，於[日本](../Page/日本.md "wikilink")[惠比壽](../Page/惠比壽.md "wikilink")**LIQUIDROOM**舉行＂CNBLUE
+  - 4月16日，於[日本](../Page/日本.md "wikilink")[惠比壽](https://zh.wikipedia.org/wiki/惠比壽 "wikilink")**LIQUIDROOM**舉行＂CNBLUE
     1st Album Release Live Encore \~Special
     Thanks\~＂公演。當天**CNBLUE**宣布將成立[日本官方歌迷俱樂部](../Page/日本.md "wikilink")**BOICE
-    JAPAN**，並將在[日本發行首張單曲](../Page/日本.md "wikilink")，也將在[東京跟](../Page/東京.md "wikilink")[大阪舉辦](../Page/大阪.md "wikilink")**One
+    JAPAN**，並將在[日本發行首張單曲](../Page/日本.md "wikilink")，也將在[東京跟](https://zh.wikipedia.org/wiki/東京 "wikilink")[大阪舉辦](https://zh.wikipedia.org/wiki/大阪 "wikilink")**One
     Man Live**公演。
-  - 4月23日，經歌迷投票，團員與[FNC娛樂的工作人員超過半數同意後](../Page/FNC娛樂.md "wikilink")，隊長[鄭容和在](../Page/鄭容和.md "wikilink")**CNBLUE**官網上公布**CNBLUE**官方粉絲名稱為**BOICE**，是**BLUE**
+  - 4月23日，經歌迷投票，團員與[FNC娛樂的工作人員超過半數同意後](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，隊長[鄭容和在](../Page/鄭容和.md "wikilink")**CNBLUE**官網上公布**CNBLUE**官方粉絲名稱為**BOICE**，是**BLUE**
     +
     **VOICE**的合成詞，寓意**BOICE**就是**CNBLUE**的**VOICE**，也像家人那樣永遠與**CNBLUE**同在。沒有應援色，應援物為**Blish**，是**BLUE**
     + **Stylish**的合成詞，寓意有**BOICE**就有**Blish**。
-  - 5月19日，在[韓國發行第二張迷你專輯](../Page/韓國.md "wikilink")《BLUELOVE》，以《LOVE》作為主打曲。
+  - 5月19日，在[韓國發行第二張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《BLUELOVE》，以《LOVE》作為主打曲。
   - 曾有外界表示《외톨이야
-    孤獨的人》一曲很多地方與[韓國地下樂隊](../Page/韓國.md "wikilink")**YNOT**的《藍鳥》相似，**YNOT**樂隊在不久後將《외톨이야
-    孤獨的人》作曲家[金道勳告上法庭](../Page/金道勳.md "wikilink")，但在2011年4月13日，[韓國法院作出審判](../Page/韓國.md "wikilink")，判原告**YNOT**樂隊敗訴，為《외톨이야
+    孤獨的人》一曲很多地方與[韓國地下樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")**YNOT**的《藍鳥》相似，**YNOT**樂隊在不久後將《외톨이야
+    孤獨的人》作曲家[金道勳告上法庭](../Page/金道勳.md "wikilink")，但在2011年4月13日，[韓國法院作出審判](https://zh.wikipedia.org/wiki/韓國 "wikilink")，判原告**YNOT**樂隊敗訴，為《외톨이야
     孤獨的人》作曲家洗清了剽竊嫌疑。
-  - 2010年，[韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart數碼音源年榜前](../Page/Gaon_Chart.md "wikilink")50的排名中，第20位《LOVE》，第31位《외톨이야
+  - 2010年，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart數碼音源年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")50的排名中，第20位《LOVE》，第31位《외톨이야
     孤獨的人》，第37位《사랑 빛 愛情光》。
-  - **CNBLUE**在年底的2010年**MAMA**頒獎典禮、[首爾歌謠大賞](../Page/首爾.md "wikilink")、**Melon
+  - **CNBLUE**在年底的2010年**MAMA**頒獎典禮、[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾 "wikilink")、**Melon
     Music Awards、Golden
-    Disk**等音樂頒獎典禮，均獲得[韓國最佳新人獎](../Page/韓國.md "wikilink")。
+    Disk**等音樂頒獎典禮，均獲得[韓國最佳新人獎](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
 <!-- end list -->
 
-  - 3月21日，**CNBLUE**在[韓國發行首張正規專輯](../Page/韓國.md "wikilink")《FIRST
+  - 3月21日，**CNBLUE**在[韓國發行首張正規專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《FIRST
     STEP》，主打歌《직감
-    直感》，專輯名稱寓意「以一個真正的音樂人踏出第一步」。收錄12首歌中有10首是團員參與作詞作曲編曲。專輯在音源公開2小時內，12首歌全部進入音樂排行榜100名以內，因為歌迷並非下載單一首歌，而是下載整張專輯的關係；該專輯也成為2011年上半年繼[東方神起與](../Page/東方神起.md "wikilink")[BIGBANG後](../Page/BIGBANG.md "wikilink")，第三張銷量突破10萬的專輯。
-  - 4月7日，在[韓國發行](../Page/韓國.md "wikilink")《FIRST STEP》的**SPECIAL LIMITED
-    EDITION**，除原有收錄的12首歌，連畫報另加約80多頁的《직감 直感》MV幕後照，和當時尚未公開的《LOVE
-    GIRL》MV花絮寫真，限量30,000張。
-  - 4月26日，在[韓國發行](../Page/韓國.md "wikilink")《FIRST STEP +1(PLUS ONE)
-    THANK YOU》，收錄全新編曲的《LOVE
+    直感》，專輯名稱寓意「以一個真正的音樂人踏出第一步」。收錄12首歌中有10首是團員參與作詞作曲編曲。專輯在音源公開2小時內，12首歌全部進入音樂排行榜100名以內，因為歌迷並非下載單一首歌，而是下載整張專輯的關係；該專輯也成為2011年上半年繼[東方神起與](../Page/東方神起.md "wikilink")[BIGBANG後](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，第三張銷量突破10萬的專輯。
+  - 4月7日，在[韓國發行](https://zh.wikipedia.org/wiki/韓國 "wikilink")《FIRST
+    STEP》的**SPECIAL LIMITED EDITION**，除原有收錄的12首歌，連畫報另加約80多頁的《직감
+    直感》MV幕後照，和當時尚未公開的《LOVE GIRL》MV花絮寫真，限量30,000張。
+  - 4月26日，在[韓國發行](https://zh.wikipedia.org/wiki/韓國 "wikilink")《FIRST
+    STEP +1(PLUS ONE) THANK YOU》，收錄全新編曲的《LOVE
     GIRL》，及三首分別由[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫創作的日文單曲的韓文版本](../Page/李宗泫.md "wikilink")，以表達對**BOICE**的感謝心情。
-  - 6月3日，在[日本](../Page/日本.md "wikilink")[橫濱舉辦](../Page/橫濱.md "wikilink")**Charity
+  - 6月3日，在[日本](../Page/日本.md "wikilink")[橫濱舉辦](https://zh.wikipedia.org/wiki/橫濱 "wikilink")**Charity
     Events**，為[日本地震的受害者應援](../Page/日本.md "wikilink")。
   - 9月1日，**CNBLUE**在[日本發行](../Page/日本.md "wikilink")《392》，是作為獨立樂團在[日本地下活動的最後一張專輯](../Page/日本.md "wikilink")。
   - 9月10日，**CNBLUE**受邀作為[Linkin
-    Park於](../Page/Linkin_Park.md "wikilink")[日本巡演首場的表演嘉賓](../Page/日本.md "wikilink")。
+    Park於](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")[日本巡演首場的表演嘉賓](../Page/日本.md "wikilink")。
   - 10月19日，**CNBLUE**在[日本正式出道](../Page/日本.md "wikilink")，發行首張日文單曲《 In My
     Head》。主打歌《In My Head》及《Mr. KIA(Know It
     All)》為[鄭容和作曲](../Page/鄭容和.md "wikilink")，《Rain
@@ -108,19 +108,19 @@ World Album排行榜第1位。
   - 12月28日，**CNBLUE**受邀參加[日本的rockin](../Page/日本.md "wikilink")'on
     presents COUNTDOWN JAPAN
     11/12，這是在[日本每年舉行的大型搖滾音樂節](../Page/日本.md "wikilink")，而**CNBLUE**是歷來第一支外國樂團能受邀參與這音樂盛典。
-  - 12月，在[韓國面向全國民的](../Page/韓國.md "wikilink")[蓋洛普民意調查中](../Page/蓋洛普.md "wikilink")，《직감
+  - 12月，在[韓國面向全國民的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[蓋洛普民意調查中](https://zh.wikipedia.org/wiki/蓋洛普 "wikilink")，《직감
     直感》被選為全年度最受歡迎歌曲第4位。
-  - [韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜數碼音源年榜前](../Page/Gaon_Chart.md "wikilink")50排名中，《직감
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜數碼音源年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")50排名中，《직감
     直感》第12位。
-  - [韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜專輯年榜前](../Page/Gaon_Chart.md "wikilink")20排名中，《First
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜專輯年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")20排名中，《First
     Step》銷量115,467張，排第8位。
 
 <!-- end list -->
 
   - 1月31日，**CNBLUE**受邀參加[日本音樂節目](../Page/日本.md "wikilink")《MTV
-    Unplugged》，成為首位登上這舞台的[韓國藝人](../Page/韓國.md "wikilink")。觀眾募集活動原本預計募集150名，但是報名人數卻超過15,000名。
+    Unplugged》，成為首位登上這舞台的[韓國藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")。觀眾募集活動原本預計募集150名，但是報名人數卻超過15,000名。
   - 2月1日，在[日本發行第二張單曲](../Page/日本.md "wikilink")《Where You
     are》，收錄了[鄭容和作詞作曲的主打歌](../Page/鄭容和.md "wikilink")《Where
     You Are》和《Feeling》，[李宗泫作曲的](../Page/李宗泫.md "wikilink")《Get
@@ -128,55 +128,57 @@ World Album排行榜第1位。
   - 3月14日，再版發行在[日本獨立樂團時期的第二張迷你專輯](../Page/日本.md "wikilink")《VOICE》。
   - 3月16日，先行公開第三張迷你專輯《EAR FUN》內《아직 사랑한다(Still In
     Love)》的音源，這歌以獨特而感性的音色渲染出現代搖滾的旋律以及悲傷歌詞的韻味，甫公開便佔據多個音源排行榜第一位。
-  - 3月26日，在[韓國發行第三張迷你專輯](../Page/韓國.md "wikilink")《EAR FUN》，主打歌《Hey
-    You》。舉行主題為"Enjoy Lunch PARTY for EAR FUN"的**LIVE**公演，並同時舉行記者會。
+  - 3月26日，在[韓國發行第三張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《EAR
+    FUN》，主打歌《Hey You》。舉行主題為"Enjoy Lunch PARTY for EAR
+    FUN"的**LIVE**公演，並同時舉行記者會。
   - 4月，**CNBLUE**從所有收益中撥款，在[非洲貧窮國家](../Page/非洲.md "wikilink")[布吉納法索位於尼亞馬多哥](../Page/布吉納法索.md "wikilink")(Niamadougou)地區建立「CNBLUE學校」，不只資助學校的建設，也提供約1100名學生飲食需求及學習機會，希望能讓孩子們脫離被遺棄、虐待、乞討等惡劣的生活環境，此後每年**CNBLUE**也會捐獻部份收益給該學校作為營運費用。
   - 8月1日，在[日本發行第三張單曲](../Page/日本.md "wikilink")《Come On》，主打歌《Come
     On》，收錄曲全部由[鄭容和與](../Page/鄭容和.md "wikilink")[李宗泫創作](../Page/李宗泫.md "wikilink")，[朝日電視台曾用](../Page/朝日電視台.md "wikilink")《Come
     On》作為其節目《Music Ru TV》的主題曲。
-  - 8月3日，[美國電視頻道](../Page/美國.md "wikilink")*WPSD Local
-    6*的早間新聞，在報道[倫敦奧運內容時以](../Page/倫敦.md "wikilink")**CNBLUE**的《One
+  - 8月3日，[美國電視頻道](https://zh.wikipedia.org/wiki/美國 "wikilink")*WPSD
+    Local
+    6*的早間新聞，在報道[倫敦奧運內容時以](https://zh.wikipedia.org/wiki/倫敦 "wikilink")**CNBLUE**的《One
     Time》作背景音樂，字幕顯示**CNBLUE- One Time**及主持簡介**You are listening to One
     Time by CNBLUE**。
   - 8月29日，在[日本發行首張正規專輯](../Page/日本.md "wikilink")《CODE NAME
     BLUE》，主打歌《Time Is
     Over》，收綠歌曲13首中有11首為**CNBLUE**成員參與創作。在[Oricon公信榜週榜得到第一位](../Page/Oricon公信榜.md "wikilink")。海外歌手首張正規專輯能夠登上[Oricon公信榜第一位的](../Page/Oricon公信榜.md "wikilink")，當時只有[FTIsland](../Page/FTIsland.md "wikilink")、[張根碩和](../Page/張根碩.md "wikilink")**CNBLUE**。
-  - 10月23日，[美國電視頻道](../Page/美國.md "wikilink")**WPSD Local
-    6**的早間新聞再次選用**CNBLUE**歌曲作背景音樂，以“MORNING
+  - 10月23日，[美國電視頻道](https://zh.wikipedia.org/wiki/美國 "wikilink")**WPSD
+    Local 6**的早間新聞再次選用**CNBLUE**歌曲作背景音樂，以“MORNING
     COFFEE”為主題進行報道，選用了**CNBLUE**的《Have A Good
     Night》其中一段有關咖啡內容的歌曲，也有字幕顯示和主持簡短介紹。
   - 12月19日，在[日本發行第四張日文單曲](../Page/日本.md "wikilink") 《
     Robot》，收錄了[鄭容和作詞作曲的](../Page/鄭容和.md "wikilink")《Robot》和《Ring》，與[李宗泫作詞作的](../Page/李宗泫.md "wikilink")「Starlit
     Night」。
-  - [韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜專輯年榜前](../Page/Gaon_Chart.md "wikilink")20排名中，《Ear
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜專輯年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")20排名中，《Ear
     Fun》銷量122515張，排第14位。
-  - **CNBLUE**在2012年的[韓國福布斯名人榜中排名第](../Page/韓國福布斯名人榜.md "wikilink")32位。
+  - **CNBLUE**在2012年的[韓國福布斯名人榜中排名第](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")32位。
 
 <!-- end list -->
 
-  - 1月14日，在出道三周年紀念日的這天，發行[韓國第四張迷你專輯](../Page/韓國.md "wikilink")《Re:BLUE》，專輯名稱有重新回來再出發的意思。主打歌《I'm
+  - 1月14日，在出道三周年紀念日的這天，發行[韓國第四張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Re:BLUE》，專輯名稱有重新回來再出發的意思。主打歌《I'm
     Sorry》由[鄭容和作詞作曲](../Page/鄭容和.md "wikilink")，《COFFEE SHOP》、《나란남자
     像我這樣的男人》、《라라라 啦啦啦》、《WHERE YOU
     ARE》也是由[鄭容和作詞作曲](../Page/鄭容和.md "wikilink")，《나그대보다
     我比你》由[李宗泫作曲](../Page/李宗泫.md "wikilink")。之前的預購已突破10萬張，顯現大家對**CNBLUE**自作曲的期待。
     而主打歌《I'm Sorry》也獲得各大音源榜第一。
-  - 1月25日，**CNBLUE**的迷你專輯《RE:BLUE》登上[美國](../Page/美國.md "wikilink")[Billboard](../Page/Billboard.md "wikilink")
+  - 1月25日，**CNBLUE**的迷你專輯《RE:BLUE》登上[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
     **World Album**排行榜週榜第1位。
-  - 2月2日，**CNBLUE**登上[韓國公眾波主新聞](../Page/韓國.md "wikilink")，[MBC新聞](../Page/MBC.md "wikilink")"News
-    Desk"以"樂隊的複活"為題進行了報導，[韓國歌謠界颳起了樂隊風潮](../Page/韓國.md "wikilink")，**K-POP**樂隊登上公眾波主新聞是非常罕見的事例。
-  - 2月，[韓國獨立樂團](../Page/韓國.md "wikilink")**Crying
-    Nut**向地方法院正式提出訴訟，控告CNBLUE及[FNC娛樂代表](../Page/FNC娛樂.md "wikilink")侵權，並要求賠償4000萬韓圜；但是並沒有控告[KBS電視台](../Page/KBS.md "wikilink")。事件發生在2010年6月，於[KBS音樂節目的世界杯特輯中](../Page/KBS.md "wikilink")，電視台要求**CNBLUE**表演**Crying
-    Nut**的《Offside》作為應援歌，**CNBLUE**剛出道不久，[FNC娛樂也不好意思拒絶電視台](../Page/FNC娛樂.md "wikilink")。但是電視台準備不足，沒有用到**MR**，而是用了《Offside》的原曲作伴奏音樂，而且於同年八月在[日本發行的DVD中收錄此曲](../Page/日本.md "wikilink")，並沒有告知**Crying
-    Nut**。對這事件[FNC娛樂表示](../Page/FNC娛樂.md "wikilink")，**CNBLUE**的表演是電視台要求的，而且伴奏音樂也是電視台提供，不過[FNC娛樂也沒清楚辨別歌曲便讓歌手上台表演](../Page/FNC娛樂.md "wikilink")，後來才知道是**Crying
-    Nut**的原曲伴奏，而DVD是由[KBS](../Page/KBS.md "wikilink")**Media**及**CJ
-    E\&M**共同企劃，[FNC娛樂毫不知情也沒有利益](../Page/FNC娛樂.md "wikilink")。而**CJ
-    E＆M**公司表示，承認當時是節目組要求**CNBLUE**表演該歌曲，也承認在未告知**CNBLUE**的狀況下，製作了DVD。**CNBLUE**和[FNC娛樂也向](../Page/FNC娛樂.md "wikilink")**Crying
+  - 2月2日，**CNBLUE**登上[韓國公眾波主新聞](https://zh.wikipedia.org/wiki/韓國 "wikilink")，[MBC新聞](https://zh.wikipedia.org/wiki/MBC "wikilink")"News
+    Desk"以"樂隊的複活"為題進行了報導，[韓國歌謠界颳起了樂隊風潮](https://zh.wikipedia.org/wiki/韓國 "wikilink")，**K-POP**樂隊登上公眾波主新聞是非常罕見的事例。
+  - 2月，[韓國獨立樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Crying
+    Nut**向地方法院正式提出訴訟，控告CNBLUE及[FNC娛樂代表](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")侵權，並要求賠償4000萬韓圜；但是並沒有控告[KBS電視台](https://zh.wikipedia.org/wiki/KBS "wikilink")。事件發生在2010年6月，於[KBS音樂節目的世界杯特輯中](https://zh.wikipedia.org/wiki/KBS "wikilink")，電視台要求**CNBLUE**表演**Crying
+    Nut**的《Offside》作為應援歌，**CNBLUE**剛出道不久，[FNC娛樂也不好意思拒絶電視台](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。但是電視台準備不足，沒有用到**MR**，而是用了《Offside》的原曲作伴奏音樂，而且於同年八月在[日本發行的DVD中收錄此曲](../Page/日本.md "wikilink")，並沒有告知**Crying
+    Nut**。對這事件[FNC娛樂表示](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，**CNBLUE**的表演是電視台要求的，而且伴奏音樂也是電視台提供，不過[FNC娛樂也沒清楚辨別歌曲便讓歌手上台表演](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，後來才知道是**Crying
+    Nut**的原曲伴奏，而DVD是由[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")**Media**及**CJ
+    E\&M**共同企劃，[FNC娛樂毫不知情也沒有利益](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。而**CJ
+    E＆M**公司表示，承認當時是節目組要求**CNBLUE**表演該歌曲，也承認在未告知**CNBLUE**的狀況下，製作了DVD。**CNBLUE**和[FNC娛樂也向](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")**Crying
     Nut**發了道歉聲明，但**Crying
-    Nut**不接受並惡意指責**CNBLUE**。[FNC娛樂向法庭對](../Page/FNC娛樂.md "wikilink")**Crying
+    Nut**不接受並惡意指責**CNBLUE**。[FNC娛樂向法庭對](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")**Crying
     Nut**提出假處分申請，但遭駁回。
-  - 4月，正式開啓**CNBLUE**的世界巡迴演唱會，**CNBLUE**是[韓國第一個樂團舉辦世界巡迴演唱會](../Page/韓國.md "wikilink")，也是在[澳洲舉辦演唱會的第一個](../Page/澳洲.md "wikilink")[韓國樂團](../Page/韓國.md "wikilink")。世巡包括[亞洲](../Page/亞洲.md "wikilink")，[歐洲](../Page/歐洲.md "wikilink")，[澳洲](../Page/澳洲.md "wikilink")，[北美](../Page/北美.md "wikilink")，[南美等地區](../Page/南美.md "wikilink")。
-  - 4月10日在，[韓國發行](../Page/韓國.md "wikilink")《Re：BLUE》限量版，由成員親自設計參與製作，四種封面，收錄親筆畫和未公開明信片等。
+  - 4月，正式開啓**CNBLUE**的世界巡迴演唱會，**CNBLUE**是[韓國第一個樂團舉辦世界巡迴演唱會](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是在[澳洲舉辦演唱會的第一個](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[韓國樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")。世巡包括[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，[南美等地區](https://zh.wikipedia.org/wiki/南美 "wikilink")。
+  - 4月10日在，[韓國發行](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Re：BLUE》限量版，由成員親自設計參與製作，四種封面，收錄親筆畫和未公開明信片等。
   - 在[日本的鈴聲下載排行榜之中](../Page/日本.md "wikilink")，**CNBLUE**連續3日以不同歌曲分別獲得第一位。分別是4月12日《Blind
     Love》、4月13日《With Your Eyes》、4月14日《Greedy Man》全部獲得第一位。
   - 4月24日，發行第五張日文單曲《Blind
@@ -186,75 +188,76 @@ World Album排行榜第1位。
   - 7月31日，發行第六張日文單曲《LADY》。
   - 8月4日，**CNBLUE**受邀參加[日本搖滾音樂節](../Page/日本.md "wikilink")「ROCK IN JAPAN
     FESTIVAL
-    2013」，是參加這公演唯一的外國樂團，也是[韓國樂團的第一次登場](../Page/韓國.md "wikilink")。
+    2013」，是參加這公演唯一的外國樂團，也是[韓國樂團的第一次登場](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
   - 8月10至11日，**CNBLUE**受邀參加[日本搖滾音樂節](../Page/日本.md "wikilink")「SUMMER
     SONIC 2013」。
   - 8月28日，發行[日本第二張主流正規專輯](../Page/日本.md "wikilink")《What turns you on?》。
-  - 11月26日，發行[韓國首張精選輯](../Page/韓國.md "wikilink")《Japan Best Album
-    《PRESENT》》。
-  - [韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜專輯年榜前](../Page/Gaon_Chart.md "wikilink")20排名中，《Re:BLUE》銷量128026張，排第17位。[韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜數碼音源年榜前](../Page/Gaon_Chart.md "wikilink")50排名中，《I'm
+  - 11月26日，發行[韓國首張精選輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Japan
+    Best Album 《PRESENT》》。
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜專輯年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")20排名中，《Re:BLUE》銷量128026張，排第17位。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜數碼音源年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")50排名中，《I'm
     Sorry》排第19位。
-  - **CNBLUE**在2013年的[韓國福布斯名人榜中排名第](../Page/韓國福布斯名人榜.md "wikilink")21位。
+  - **CNBLUE**在2013年的[韓國福布斯名人榜中排名第](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")21位。
 
 <!-- end list -->
 
   - 1月17日，在[日本上映](../Page/日本.md "wikilink")**CNBLUE**首部紀錄片電影『The Story
     Of CNBLUE／NEVER STOP』，展示**CNBLUE**從獨立樂團時期開始的心路歷程，成員的私人生活，演唱會的花絮，訪談等。
-  - 2月5日，在[日本發行](../Page/日本.md "wikilink")[韓國精選輯](../Page/韓國.md "wikilink")《KOREA
+  - 2月5日，在[日本發行](../Page/日本.md "wikilink")[韓國精選輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《KOREA
     Best Album
-    《PRESENT》》全部20首，**CNBLUE**在[韓國出道專輯](../Page/韓國.md "wikilink")《Bluetory》到最新專輯《RE:BLUE》。
-  - 2月24日，在[韓國發行第五張迷你專輯](../Page/韓國.md "wikilink")《Can't
+    《PRESENT》》全部20首，**CNBLUE**在[韓國出道專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Bluetory》到最新專輯《RE:BLUE》。
+  - 2月24日，在[韓國發行第五張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《Can't
     Stop》，主打歌是《Can't
     Stop》，專輯有五首歌曲是[鄭容和參與創作](../Page/鄭容和.md "wikilink")，一首是[李宗泫創作](../Page/李宗泫.md "wikilink")。
   - 3月2日，**CNBLUE**以特輯**Comeback show= Can't
-    Stop**於[SBS作公演](../Page/SBS_\(韓國\).md "wikilink")，是[韓國樂團最初無線電視回歸秀](../Page/韓國.md "wikilink")。
-  - 7月18日，發行[台灣精選專輯](../Page/台灣.md "wikilink")《BLUE HITS FOR
-    ASIA》，收錄17首**CNBLUE**[韓國發行的歌曲和](../Page/韓國.md "wikilink")9首全中文字幕主打歌曲**MV**。
+    Stop**於[SBS作公演](../Page/SBS_\(韓國\).md "wikilink")，是[韓國樂團最初無線電視回歸秀](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+  - 7月18日，發行[台灣精選專輯](https://zh.wikipedia.org/wiki/台灣 "wikilink")《BLUE
+    HITS FOR
+    ASIA》，收錄17首**CNBLUE**[韓國發行的歌曲和](https://zh.wikipedia.org/wiki/韓國 "wikilink")9首全中文字幕主打歌曲**MV**。
   - 8月16日至17日，**CNBLUE**連續第二年受邀到[日本出席搖滾音樂節](../Page/日本.md "wikilink")「SUMMER
     SONIC 2014」。
-  - 10月4日，**CNBLUE**受邀出席"仁川亞運會閉幕式"的祝賀舞台，是[韓國國內樂隊唯一能受邀參加閉幕式的組合](../Page/韓國.md "wikilink")。
-  - **CNBLUE**2014年[韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart榜唱片銷量](../Page/Gaon_Chart.md "wikilink")117,209。[韓國](../Page/韓國.md "wikilink")**Hanteo**排行榜唱片銷量96,042。
-  - [韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart音樂榜專輯年榜前](../Page/Gaon_Chart.md "wikilink")20排名中，《Can't
+  - 10月4日，**CNBLUE**受邀出席"仁川亞運會閉幕式"的祝賀舞台，是[韓國國內樂隊唯一能受邀參加閉幕式的組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+  - **CNBLUE**2014年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart榜唱片銷量](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")117,209。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Hanteo**排行榜唱片銷量96,042。
+  - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart音樂榜專輯年榜前](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")20排名中，《Can't
     Stop》銷量117,371張，第11位。
-  - **CNBLUE**在2014年的[韓國福布斯名人榜中排名第](../Page/韓國福布斯名人榜.md "wikilink")15位。
+  - **CNBLUE**在2014年的[韓國福布斯名人榜中排名第](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")15位。
 
 <!-- end list -->
 
   - 1月20日，**CNBLUE**主唱[鄭容和發行首張](../Page/鄭容和.md "wikilink")**solo**正規專輯《어느
     멋진 날 美好的一天》，主打歌為專輯同名歌曲《美好的一天（One Fine
-    Day）》，共收錄十首歌曲，全部由[鄭容和參與創作](../Page/鄭容和.md "wikilink")。該專輯在[馬來西亞](../Page/馬來西亞.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](../Page/泰國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[台灣等多個地區的](../Page/台灣.md "wikilink")**iTunes**上占領榜首，更登上[美國](../Page/美國.md "wikilink")[Billboard](../Page/Billboard.md "wikilink")
+    Day）》，共收錄十首歌曲，全部由[鄭容和參與創作](../Page/鄭容和.md "wikilink")。該專輯在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[台灣等多個地區的](https://zh.wikipedia.org/wiki/台灣 "wikilink")**iTunes**上占領榜首，更登上[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
     **World Album**排行榜第1位。
-  - 9月14日，在[韓國發行第二張正規專輯](../Page/韓國.md "wikilink")《2gether》，是時隔一年七個月才回歸的正規專輯，主打歌為《Cinderella》，專輯共收錄了11首歌曲，全部由成員們參與創作。《Cinderella》也是2015年中韓合拍電影《壞蛋必須死》的電影主題曲。
+  - 9月14日，在[韓國發行第二張正規專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《2gether》，是時隔一年七個月才回歸的正規專輯，主打歌為《Cinderella》，專輯共收錄了11首歌曲，全部由成員們參與創作。《Cinderella》也是2015年中韓合拍電影《壞蛋必須死》的電影主題曲。
   - 9月30日，在日本發行第四張正規專輯《Colors》，專輯11首歌曲全部由團員所創作。
-  - **CNBLUE**入選"2015年日本演唱會動員觀眾數TOP50"，共同入選的[韓國組合有](../Page/韓國.md "wikilink")[東方神起](../Page/東方神起.md "wikilink")、[Big
-    Bang](../Page/Big_Bang.md "wikilink")、[2PM](../Page/2PM.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[Super
+  - **CNBLUE**入選"2015年日本演唱會動員觀眾數TOP50"，共同入選的[韓國組合有](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起](../Page/東方神起.md "wikilink")、[Big
+    Bang](https://zh.wikipedia.org/wiki/Big_Bang "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[EXO](../Page/EXO.md "wikilink")、[Super
     Junior](../Page/Super_Junior.md "wikilink")。
-  - 2015年[韓國](../Page/韓國.md "wikilink")[Gaon
-    Chart榜唱片銷量](../Page/Gaon_Chart.md "wikilink")，**CNBLUE**82,748，[鄭容和](../Page/鄭容和.md "wikilink")115,203。[韓國](../Page/韓國.md "wikilink")**Hanteo**榜唱片銷量，**CNBLUE**56,747，[鄭容和](../Page/鄭容和.md "wikilink")87,729。
-  - 2015年**CNBLUE**在[亞洲舉行的演唱會共四十七場](../Page/亞洲.md "wikilink")(包括[鄭容和](../Page/鄭容和.md "wikilink")**solo**演唱會十七場和[家族演唱會四場](../Page/家族.md "wikilink"))。
-  - **CNBLUE**與[鄭容和](../Page/鄭容和.md "wikilink")**solo**的2015全年收益，佔了[FNC娛樂公司全年總收益的](../Page/FNC娛樂.md "wikilink")60%。
+  - 2015年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Gaon
+    Chart榜唱片銷量](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")，**CNBLUE**82,748，[鄭容和](../Page/鄭容和.md "wikilink")115,203。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Hanteo**榜唱片銷量，**CNBLUE**56,747，[鄭容和](../Page/鄭容和.md "wikilink")87,729。
+  - 2015年**CNBLUE**在[亞洲舉行的演唱會共四十七場](https://zh.wikipedia.org/wiki/亞洲 "wikilink")(包括[鄭容和](../Page/鄭容和.md "wikilink")**solo**演唱會十七場和[家族演唱會四場](https://zh.wikipedia.org/wiki/家族 "wikilink"))。
+  - **CNBLUE**與[鄭容和](../Page/鄭容和.md "wikilink")**solo**的2015全年收益，佔了[FNC娛樂公司全年總收益的](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")60%。
 
 <!-- end list -->
 
-  - 2月，[首爾中央地方法院對](../Page/首爾.md "wikilink")"2013年韓國樂團**Crying
-    Nut**控告**CNBLUE**及[FNC娛樂代表](../Page/FNC娛樂.md "wikilink")侵權，並要求賠償4000萬韓圜"一案作出判決，判原告勝訴。法庭指雖然提供伴奏音樂的電視台有一定責任，但**CNBLUE**作為演出方對侵權有直接責任，不過也判定**CNBLUE**沒有參與節目製作銷售**DVD**，且**Crying
+  - 2月，[首爾中央地方法院對](https://zh.wikipedia.org/wiki/首爾 "wikilink")"2013年韓國樂團**Crying
+    Nut**控告**CNBLUE**及[FNC娛樂代表](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")侵權，並要求賠償4000萬韓圜"一案作出判決，判原告勝訴。法庭指雖然提供伴奏音樂的電視台有一定責任，但**CNBLUE**作為演出方對侵權有直接責任，不過也判定**CNBLUE**沒有參與節目製作銷售**DVD**，且**Crying
     Nut**提出受到財產損害部分的證據並不充足，加上電視台已經進行過賠償，判決**CNBLUE**只須賠償1500萬韓圜。
-  - 4月4日，在[韓國發行第六張迷你專輯](../Page/韓國.md "wikilink")《BLUEMING》，專輯名稱《BLUEMING》是樂隊名稱**CNBLUE**和意味著花開的「blooming」的結合詞，意指重新綻放的**CNBLUE**音樂世界。主打歌為《美好的你（You're
+  - 4月4日，在[韓國發行第六張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")《BLUEMING》，專輯名稱《BLUEMING》是樂隊名稱**CNBLUE**和意味著花開的「blooming」的結合詞，意指重新綻放的**CNBLUE**音樂世界。主打歌為《美好的你（You're
     So
-    Fine）》，共收錄了5首歌曲，全部由[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[李正信參與創作](../Page/李正信.md "wikilink")。專輯甫公開便在[泰國](../Page/泰國.md "wikilink")、[台灣](../Page/台灣.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[馬來西亞](../Page/馬來西亞.md "wikilink")、[汶萊](../Page/汶萊.md "wikilink")、[新加坡等多個地區的](../Page/新加坡.md "wikilink")**iTunes**上占領榜首。
+    Fine）》，共收錄了5首歌曲，全部由[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫](../Page/李宗泫.md "wikilink")、[李正信參與創作](../Page/李正信.md "wikilink")。專輯甫公開便在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[新加坡等多個地區的](../Page/新加坡.md "wikilink")**iTunes**上占領榜首。
   - 5月11日，在[日本發行第十張日文單曲](../Page/日本.md "wikilink")《Puzzle》，共收錄了4首歌曲。
   - 7月27日，[李宗泫首張](../Page/李宗泫.md "wikilink")**solo**正規專輯《SPARKLING
     NIGHT》在[日本發行](../Page/日本.md "wikilink")，參與四首歌曲創作，共收錄十首歌曲。
-  - 10月19日，[日本主流出道](../Page/日本.md "wikilink")5週年，為表達感謝和祝福、以及**CNBLUE**未來的紀念，發行第五張原創專輯《EUPHORIA》，共收錄十首歌。《EUPHORIA》是[義大利語中](../Page/義大利.md "wikilink")「幸福」的意思，主打歌《Glory
+  - 10月19日，[日本主流出道](../Page/日本.md "wikilink")5週年，為表達感謝和祝福、以及**CNBLUE**未來的紀念，發行第五張原創專輯《EUPHORIA》，共收錄十首歌。《EUPHORIA》是[義大利語中](https://zh.wikipedia.org/wiki/義大利 "wikilink")「幸福」的意思，主打歌《Glory
     Days》向陪他們一路走來的粉絲表達感謝之情。
 
 <!-- end list -->
 
-  - 3月20日，在[韓國發行第](../Page/韓國.md "wikilink")7張迷你專輯《7ºCN》，象徵出道7年來豐碩的成長果實，收錄六首歌曲。全輯樂曲由[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫與](../Page/李宗泫.md "wikilink")[李正信親自參與填詞](../Page/李正信.md "wikilink")、作曲的自創作品。以21號上午的數據，在[台灣](../Page/台灣.md "wikilink")、[香港](../Page/香港.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[馬來西亞](../Page/馬來西亞.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](../Page/泰國.md "wikilink")、[越南以及](../Page/越南.md "wikilink")[俄羅斯等](../Page/俄羅斯.md "wikilink")9個國家及地區的**iTunes**專輯榜都登上了第1位，在[英國](../Page/英國.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[菲律賓獲得第二名](../Page/菲律賓.md "wikilink")，在[美國第三名](../Page/美國.md "wikilink")。
+  - 3月20日，在[韓國發行第](https://zh.wikipedia.org/wiki/韓國 "wikilink")7張迷你專輯《7ºCN》，象徵出道7年來豐碩的成長果實，收錄六首歌曲。全輯樂曲由[鄭容和](../Page/鄭容和.md "wikilink")、[李宗泫與](../Page/李宗泫.md "wikilink")[李正信親自參與填詞](../Page/李正信.md "wikilink")、作曲的自創作品。以21號上午的數據，在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南以及](https://zh.wikipedia.org/wiki/越南 "wikilink")[俄羅斯等](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")9個國家及地區的**iTunes**專輯榜都登上了第1位，在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[菲律賓獲得第二名](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，在[美國第三名](https://zh.wikipedia.org/wiki/美國 "wikilink")。
   - 5月10日，在[日本發行第十一張日語單曲專輯](../Page/日本.md "wikilink")《SHAKE》，共收錄三首歌曲。
   - 10月18日，在[日本發行第六張日語正規專輯](../Page/日本.md "wikilink")《STAY
     GOLD》，共收錄十一首歌曲。
@@ -418,7 +421,7 @@ World Album排行榜第1位。
 <ul>
 <li>發行日期：2012年4月10日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和參與</a>5首歌曲創作</li>
-<li>包含140張在<a href="../Page/美國.md" title="wikilink">美國拍攝的照片</a>，18張成員照，20分鐘在<a href="../Page/美國.md" title="wikilink">美國演出花絮DVD</a></li>
+<li>包含140張在<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國拍攝的照片</a>，18張成員照，20分鐘在<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國演出花絮DVD</a></li>
 </ul></td>
 <td></td>
 <td></td>
@@ -429,7 +432,7 @@ World Album排行榜第1位。
 <ul>
 <li>發行日期：2013年1月14日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
-<li>得到<a href="../Page/Billboard.md" title="wikilink">Billboard世界專輯榜第</a>1位</li>
+<li>得到<a href="https://zh.wikipedia.org/wiki/Billboard" title="wikilink">Billboard世界專輯榜第</a>1位</li>
 </ul></td>
 <td></td>
 <td><ul>
@@ -547,7 +550,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/In_My_Head_(CNBLUE單曲).md" title="wikilink">CNBLUE In My Head</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/In_My_Head_(CNBLUE單曲)" title="wikilink">CNBLUE In My Head</a></strong>》</p>
 <ul>
 <li>發行日期：2011年10月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -560,7 +563,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/where_you_are_(CNBLUE單曲).md" title="wikilink">Where you are</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/where_you_are_(CNBLUE單曲)" title="wikilink">Where you are</a></strong>》</p>
 <ul>
 <li>發行日期：2012年2月1日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -572,7 +575,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/come_on_(CNBLUE單曲).md" title="wikilink">Come on</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/come_on_(CNBLUE單曲)" title="wikilink">Come on</a></strong>》</p>
 <ul>
 <li>發行日期：2012年8月1日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -584,7 +587,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/Robot_(CNBLUE單曲).md" title="wikilink">Robot</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Robot_(CNBLUE單曲)" title="wikilink">Robot</a></strong>》</p>
 <ul>
 <li>發行日期：2012年12月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -596,7 +599,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="../Page/Blind_Love_(CNBLUE單曲).md" title="wikilink">Blind Love</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Blind_Love_(CNBLUE單曲)" title="wikilink">Blind Love</a></strong>》</p>
 <ul>
 <li>發行日期：2013年4月24日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -608,7 +611,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="../Page/Lady_(CNBLUE單曲).md" title="wikilink">Lady</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lady_(CNBLUE單曲)" title="wikilink">Lady</a></strong>》</p>
 <ul>
 <li>發行日期：2013年7月31日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和參與全部歌曲創作</a></li>
@@ -633,7 +636,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>8th</strong></p></td>
-<td><p>《<strong><a href="../Page/Go_your_way.md" title="wikilink">Go your way</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Go_your_way" title="wikilink">Go your way</a></strong>》</p>
 <ul>
 <li>發行日期：2014年8月20日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -669,7 +672,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>11th</strong></p></td>
-<td><p>《<strong><a href="../Page/SHAKE_(CNBLUE單曲).md" title="wikilink">SHAKE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SHAKE_(CNBLUE單曲)" title="wikilink">SHAKE</a></strong>》</p>
 <ul>
 <li>發行日期：2017年5月10日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -694,7 +697,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/CODE_NAME_BLUE.md" title="wikilink">CODE NAME BLUE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/CODE_NAME_BLUE" title="wikilink">CODE NAME BLUE</a></strong>》</p>
 <ul>
 <li>發行日期：2012年8月29日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與</a>11首歌曲創作</li>
@@ -709,7 +712,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《'''<a href="../Page/What_turns_you_on?.md" title="wikilink">What turns you on?</a> '''》</p>
+<td><p>《'''<a href="https://zh.wikipedia.org/wiki/What_turns_you_on?" title="wikilink">What turns you on?</a> '''》</p>
 <ul>
 <li>發行日期：2013年8月28日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -724,7 +727,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/WAVE.md" title="wikilink">WAVE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/WAVE" title="wikilink">WAVE</a></strong>》</p>
 <ul>
 <li>發行日期：2014年9月17日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -739,7 +742,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/colors_(CNBLUE專輯).md" title="wikilink">colors</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/colors_(CNBLUE專輯)" title="wikilink">colors</a></strong>》</p>
 <ul>
 <li>發行日期：2015年9月30日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫</a>、<a href="../Page/李正信.md" title="wikilink">李正信分別參與全部歌曲創作</a></li>
@@ -752,7 +755,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="../Page/EUPHORIA_(CNBLUE專輯).md" title="wikilink">EUPHORIA</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/EUPHORIA_(CNBLUE專輯)" title="wikilink">EUPHORIA</a></strong>》</p>
 <ul>
 <li>發行日期：2016年10月19日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫參與全部歌曲創作</a></li>
@@ -765,7 +768,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="../Page/Stay_Gold_(CNBLUE專輯).md" title="wikilink">STAY GOLD</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Stay_Gold_(CNBLUE專輯)" title="wikilink">STAY GOLD</a></strong>》</p>
 <ul>
 <li>發行日期：2017年10月18日</li>
 <li><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/李宗泫.md" title="wikilink">李宗泫分別參與全部歌曲創作</a></li>
@@ -1077,7 +1080,7 @@ World Album排行榜第1位。
 <td><p>OST</p></td>
 <td><p>2016/5/5</p></td>
 <td><p>I See You[53]</p></td>
-<td><p>《<a href="../Page/戲子.md" title="wikilink">戲子</a>》插曲</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/戲子" title="wikilink">戲子</a>》插曲</p></td>
 <td><p>姜敏赫</p></td>
 </tr>
 <tr class="odd">
@@ -1119,7 +1122,7 @@ World Album排行榜第1位。
 <td><p>單曲</p></td>
 <td><p>2017/1/3</p></td>
 <td><p>我獨自在家（나홀로 집에）[54]</p></td>
-<td><p>與<a href="../Page/RAVI.md" title="wikilink">RAVI</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX成員</a>）合唱</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/RAVI" title="wikilink">RAVI</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX成員</a>）合唱</p></td>
 <td><p>鄭容和</p></td>
 </tr>
 <tr class="odd">
@@ -1146,7 +1149,7 @@ World Album排行榜第1位。
 <td><p>首張精選專輯《<strong><a href="../Page/Japan_Best_Album_&#39;Present&#39;.md" title="wikilink">Japan Best Album 'Present'</a></strong>》</p>
 <ul>
 <li>發行日期：2013年11月26日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：收錄10首CNBLUE日文原創歌曲的韓文版</li>
 </ul></td>
 <td></td>
@@ -1155,7 +1158,7 @@ World Album排行榜第1位。
 <td><p>日本精選專輯《<strong><a href="../Page/Korea_Best_Album_&#39;Present&#39;.md" title="wikilink">Korea Best Album 'Present'</a></strong>》</p>
 <ul>
 <li>發行日期：2014年2月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>首日銷量：13,044（Oricon 日排名第二位；週榜第二位19,729張）</li>
 <li>備註：收錄20首CNBLUE韓國發行的歌曲</li>
 </ul></td>
@@ -1166,7 +1169,7 @@ World Album排行榜第1位。
 <td><p>台灣精選專輯《<strong>BLUE HITS FOR ASIA</strong>》</p>
 <ul>
 <li>發行日期：2014年7月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a>、<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 <li>備註：收錄17首CNBLUE韓國發行的歌曲和9首全中文字幕主打歌曲MV</li>
 </ul></td>
 <td></td>
@@ -1189,7 +1192,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE 2nd Single Release Live Tour～Listen to the CNBLUE</strong>》</p>
 <ul>
 <li>發行日期：2011年2月9日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a>、<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>2010年9月20日在日本东京的Shibuya-AX。 </p></td>
 </tr>
@@ -1198,7 +1201,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE Zepp Tour 2011～RE-MAINTENANCE～</strong>》</p>
 <ul>
 <li>發行日期：2011年4月25日</li>
-<li>語言：<a href="../Page/英語.md" title="wikilink">英語</a>、<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>2011年1月16日在日本东京的Zepp Tokyo。 </p></td>
 </tr>
@@ -1209,7 +1212,7 @@ World Album排行榜第1位。
 <li>發行日期：2011年6月22日(Japan)<br />
 2011年6月30日(Korea)<br />
 2011年7月15日(Taiwan)</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a>、<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/中文.md" title="wikilink">中文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
 </ul></td>
 <td><p>2010年7月31日在韓國首爾的演唱會表演，包括預備工作。<br />
 成員的照片將以幻燈片的形式展現 (內附40頁寫真及幕後花絮) </p></td>
@@ -1220,7 +1223,7 @@ World Album排行榜第1位。
 <ul>
 <li>發行日期：2011年8月1日(Japan)<br />
 2011年11月2日(Taiwan)</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a>、<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/中文.md" title="wikilink">中文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
 <li>備註：非官方製作發行</li>
 </ul></td>
 <td><p>CNBLUE SPECIAL (初回限定)<br />
@@ -1232,7 +1235,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE 2nd Album Release Live～392～@YOKOHAMA ARENA</strong>》</p>
 <ul>
 <li>發行日期：2011年12月28日(Japan)</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>收錄2011年9月25日在日本YOKOHAMA ARENA舉辦的演唱會實況(CNBLUE獨立樂隊時期的最後一場演唱會)。 </p></td>
 </tr>
@@ -1242,7 +1245,7 @@ World Album排行榜第1位。
 <ul>
 <li>發行日期：2012年1月31日(Korea、Japan)<br />
 2012年2月24日(Taiwan)</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a>、<a href="../Page/中文.md" title="wikilink">中文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
 </ul></td>
 <td><p>2011年9月17日(或18日)在韩国首尔奥林匹克公园奥林匹克厅。 </p></td>
 </tr>
@@ -1251,7 +1254,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE Winter Tour 2011~Here,In my head～</strong>》</p>
 <ul>
 <li>發行日期：2012年3月14日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>備註：兩種形式【LAWSON 限定盤】和【通常版】</li>
 <li>備註：首日oricon綜合第二位；週榜oricon綜合第二位</li>
 </ul></td>
@@ -1262,7 +1265,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE MTV Unplugged</strong>》</p>
 <ul>
 <li>發行日期：2012年6月27日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/英語.md" title="wikilink">英語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></li>
 <li>備註：兩種形式【初回限定盤】(同公演LIVE音源收錄CD和年曆卡片3張)和【通常版】(四種明信片的隨機1張收入)</li>
 <li>備註：首日oricon綜合第四位；週榜oricon綜合第四位</li>
 </ul></td>
@@ -1273,7 +1276,7 @@ World Album排行榜第1位。
 <td><p>《<strong>CNBLUE完全密着ドキュメント24時～K-POPスター世界を魅了する</strong>》</p>
 <ul>
 <li>發行日期：2012年12月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>備註：DVD 2入组</li>
 <li>備註：首日oricon綜合第三位；週榜oricon綜合第十位；音樂榜第三位</li>
 </ul></td>
@@ -1285,7 +1288,7 @@ World Album排行榜第1位。
 <td><p>!～@SAITAMA SUPER ARENA ～'''》</p>
 <ul>
 <li>發行日期：2013年3月20日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>備註：三種形式【WARNER MUSIC DIRECT限定盤】和【通常版】和【Blu-ray版】。</li>
 <li>備註：首日oricon綜合第二位；週榜oricon綜合第三位，音樂榜第二位</li>
 </ul></td>
@@ -1295,7 +1298,7 @@ World Album排行榜第1位。
 <td><p>《<strong>2012 CNBLUE LIVE IN SEOUL:BLUE NIGHT</strong>》</p>
 <ul>
 <li>發行日期：2013年5月8日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a>、<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/中文.md" title="wikilink">中文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
 <li>備註：三種形式【WARNER MUSIC DIRECT限定盤】和【通常版】和【Blu-ray版】。</li>
 </ul></td>
 <td><p>2012年12月15日(或16日)在韩国首尔奥林匹克公园SK奥运手球竞技场。 </p></td>
@@ -1305,7 +1308,7 @@ World Album排行榜第1位。
 <td><p>《<strong>Zepp Tour 2013 ～Lady～ @Zepp Tokyo</strong>》</p>
 <ul>
 <li>發行日期：2013年10月2日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>備註：三種形式【WARNER MUSIC DIRECT限定盤】和【通常版】和【Blu-ray版】。</li>
 <li>備註：首日oricon綜合第二位；週榜oricon綜合第二位</li>
 </ul></td>
@@ -1316,7 +1319,7 @@ World Album排行榜第1位。
 <td><p>《'''2013 CNBLUE BLUE MOON WORLD TOUR LIVE IN SEOUL '''》</p>
 <ul>
 <li>發行日期：2013年12月25日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：週榜oricon綜合第16位</li>
 </ul></td>
 <td><p>2013年5月25~26日首爾場 </p></td>
@@ -1326,7 +1329,7 @@ World Album排行榜第1位。
 <td><p>《'''ARENA TOUR 2013 -ONE MORE TIME- @NIPPONGAISHI HALL '''》</p>
 <ul>
 <li>發行日期：2014年3月5日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>備註：週榜oricon綜合第三位</li>
 </ul></td>
 <td><p>2013年12月19日在日本名古屋GAISHI HALL。 </p></td>
@@ -1336,7 +1339,7 @@ World Album排行榜第1位。
 <td><p>《'''2014 ARENA TOUR“WAVE”@OSAKA-JO HALL '''》</p>
 <ul>
 <li>發行日期：2015年3月11日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>2014年11月6日在大阪城展演廳 </p></td>
 </tr>
@@ -1345,7 +1348,7 @@ World Album排行榜第1位。
 <td><p>《<strong>SPRING LIVE 2015 “WHITE” @YOKOHAMA ARENA</strong>》</p>
 <ul>
 <li>發行日期：2015年8月5日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>2015年4月25日在橫濱競技場 </p></td>
 </tr>
@@ -1354,7 +1357,7 @@ World Album排行榜第1位。
 <td><p>《<strong>2015 ARENA TOUR ～Be a Supernova＠OSAKA-JO HALL</strong>》</p>
 <ul>
 <li>發行日期：2016年4月13日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>2015年11月26日在大阪城展演廳 </p></td>
 </tr>
@@ -1363,7 +1366,7 @@ World Album排行榜第1位。
 <td><p>《'''CNBLUE「COME TOGETHER TOUR」 '''》</p>
 <ul>
 <li>發行日期：2016年8月3日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>收錄DVD2 + CD2 + PHOTOBOOK 136P</li>
 </ul></td>
 <td><ul>
@@ -1377,7 +1380,7 @@ World Album排行榜第1位。
 <td><p>《'''SPRING LIVE 2016 ～We're like a puzzle～ @NIPPON BUDOKAN '''》</p>
 <ul>
 <li>發行日期：2016年9月21日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>2016年5月27日在日本武道館 </p></td>
 </tr>
@@ -1415,7 +1418,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="../Page/鋒味江湖之決戰食神.md" title="wikilink">決戰食神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋒味江湖之決戰食神" title="wikilink">決戰食神</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>安保羅</p></td>
 <td><p>中國首部4D電影</p></td>
@@ -1429,7 +1432,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="../Page/宮合_(電影).md" title="wikilink">宮合</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮合_(電影)" title="wikilink">宮合</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>姜輝</p></td>
 <td></td>
@@ -1465,7 +1468,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2009</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/原來是美男_(韓國電視劇).md" title="wikilink">原來是美男</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>姜薪宇</p></td>
@@ -1481,7 +1484,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/你為我著迷.md" title="wikilink">你為我著迷</a></p></td>
 <td><p>鄭容和<br />
 姜敏赫</p></td>
@@ -1493,7 +1496,7 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2012</p></td>
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/小媳婦女王.md" title="wikilink">小媳婦女王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小媳婦女王" title="wikilink">小媳婦女王</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>車世光</p></td>
 <td><p>男配角</p></td>
@@ -1524,7 +1527,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="../Page/親愛的瑞英.md" title="wikilink">親愛的瑞英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/親愛的瑞英" title="wikilink">親愛的瑞英</a></p></td>
 <td><p>李正信</p></td>
 <td><p>姜盛才</p></td>
 <td><p>男配角</p></td>
@@ -1571,8 +1574,8 @@ World Album排行榜第1位。
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/tvN.md" title="wikilink">tvN</a></p></td>
-<td><p><a href="../Page/三劍客_(電視劇).md" title="wikilink">三劍客</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三劍客_(電視劇)" title="wikilink">三劍客</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>朴達鄉</p></td>
 <td><p>第一男主角</p></td>
@@ -1581,7 +1584,7 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>2015</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="../Page/謝謝你，兒子啊.md" title="wikilink">謝謝你，兒子啊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝謝你，兒子啊" title="wikilink">謝謝你，兒子啊</a></p></td>
 <td><p>李正信</p></td>
 <td><p>張時宇</p></td>
 <td></td>
@@ -1604,7 +1607,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/搜狐.md" title="wikilink">搜狐</a></p></td>
-<td><p><a href="../Page/屌絲男士.md" title="wikilink">屌絲男士</a>4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屌絲男士" title="wikilink">屌絲男士</a>4</p></td>
 <td><p>鄭容和</p></td>
 <td><p>夜店帥哥</p></td>
 <td><p>主要演員</p></td>
@@ -1644,7 +1647,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
-<td><p><a href="../Page/My_Only_Love_Song.md" title="wikilink">My Only Love Song</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Only_Love_Song" title="wikilink">My Only Love Song</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>溫達</p></td>
 <td><p>第一男主角</p></td>
@@ -1652,7 +1655,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>KBS</p></td>
-<td><p><a href="../Page/學校2017.md" title="wikilink">學校2017</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>鍾勤前輩</p></td>
 <td><p>特別出演</p></td>
@@ -1660,7 +1663,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>MBC</p></td>
-<td><p><a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/醫療船_(韓國電視劇)" title="wikilink">醫療船</a></p></td>
 <td><p>郭賢</p></td>
 <td><p>第一男主角</p></td>
 <td></td>
@@ -1668,7 +1671,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="../Page/The_Package.md" title="wikilink">The Package</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Package" title="wikilink">The Package</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>單馬陸</p></td>
 <td></td>
@@ -1676,15 +1679,15 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>KBS</p></td>
-<td><p><a href="../Page/內衣少女時代.md" title="wikilink">內衣少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內衣少女時代" title="wikilink">內衣少女時代</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>周英春</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/OCN.md" title="wikilink">OCN</a></p></td>
-<td><p><a href="../Page/操心.md" title="wikilink">操心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a></p></td>
 <td><p>李正信</p></td>
 <td><p>姜信寓</p></td>
 <td><p>第一男主角</p></td>
@@ -1692,14 +1695,14 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="../Page/那個男人_吳秀.md" title="wikilink">那個男人 吳秀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/那個男人_吳秀" title="wikilink">那個男人 吳秀</a></p></td>
 <td><p>李宗泫</p></td>
 <td><p>吳秀</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Voice2.md" title="wikilink">Voice2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Voice2" title="wikilink">Voice2</a></p></td>
 <td><p>李正信</p></td>
 <td><p>李在熙<br />
 蟋蟀</p></td>
@@ -1740,7 +1743,7 @@ World Album排行榜第1位。
 <td><p>2月13日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/KBS2.md" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2月14日</p></td>
@@ -1937,7 +1940,7 @@ World Album排行榜第1位。
 <td><p>5月7日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5月11日<br />
@@ -2609,43 +2612,43 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>2014年6月27日<br />
 2014年7月4日（5月18日錄製）</p></td>
-<td><p><a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="../Page/天天向上.md" title="wikilink">天天向上</a></p></td>
 <td><p>全體成員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年12月6日</p></td>
-<td><p><a href="../Page/愛奇藝.md" title="wikilink">愛奇藝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
 <td><p>尖叫2015愛奇藝之夜</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年2月12日</p></td>
-<td><p><a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>2015湖南衛視羊年春晚</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年2月28日</p></td>
-<td><p><a href="../Page/浙江衛視.md" title="wikilink">浙江衛視</a></p></td>
-<td><p><a href="../Page/一路上有你.md" title="wikilink">一路上有你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一路上有你" title="wikilink">一路上有你</a></p></td>
 <td><p>李宗泫、姜敏赫</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年4月13日</p></td>
-<td><p><a href="../Page/騰訊視頻.md" title="wikilink">騰訊視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
 <td><p>第十五届音樂風雲榜頒奬禮</p></td>
 <td><p>全體成員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月18日</p></td>
-<td><p><a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
-<td><p><a href="../Page/快樂大本營.md" title="wikilink">快樂大本營</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快樂大本營" title="wikilink">快樂大本營</a></p></td>
 <td><p>鄭容和</p></td>
 <td></td>
 </tr>
@@ -2665,7 +2668,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2015年11月10日</p></td>
-<td><p><a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>天貓雙十一狂歡夜2015</p></td>
 <td><p>全體成員</p></td>
 <td></td>
@@ -2673,28 +2676,28 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2016年1月27日<br />
 2016年2月3日</p></td>
-<td><p><a href="../Page/騰訊視頻.md" title="wikilink">騰訊視頻</a></p></td>
-<td><p><a href="../Page/拜託了冰箱.md" title="wikilink">拜託了冰箱</a> 中國版</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拜託了冰箱" title="wikilink">拜託了冰箱</a> 中國版</p></td>
 <td><p>鄭容和</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年3月18日</p></td>
-<td><p><a href="../Page/湖南衛視.md" title="wikilink">湖南衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="../Page/天天向上.md" title="wikilink">天天向上</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年8月9,16日</p></td>
-<td><p><a href="../Page/江蘇衞視.md" title="wikilink">江蘇衞視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江蘇衞視" title="wikilink">江蘇衞視</a></p></td>
 <td><p>星廚駕到</p></td>
 <td><p>姜敏赫</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年7月29日</p></td>
-<td><p><a href="../Page/愛奇藝.md" title="wikilink">愛奇藝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
 <td><p>大牌對王牌　</p></td>
 <td><p>單眼皮男生特輯</p></td>
 <td></td>
@@ -2711,14 +2714,14 @@ World Album排行榜第1位。
 
 **〈台灣綜藝〉：**
 
-|                 |                                |                                      |      |                           |
-| --------------- | ------------------------------ | ------------------------------------ | ---- | ------------------------- |
-| 播出日期            | 電視台                            | 節目名稱                                 | 參加成員 | 備註                        |
-| 2010年10月2日      | [華視](../Page/華視.md "wikilink") | [綜藝大國民](../Page/綜藝大國民.md "wikilink") | 全體成員 | 表演曲目：孤獨的人、Love、Love Light |
-| 2010年10月7日-8日   | MTV                            | 日韓音樂瘋                                |      |                           |
-| 2010年10月13日-14日 | Channel V                      | 就是愛JK                                |      |                           |
-| 2012年3月8日       |                                |                                      |      |                           |
-| 2013年11月15日     | MTV                            | 我愛偶像                                 | 鄭容和  |                           |
+|                 |                                                   |                                      |      |                           |
+| --------------- | ------------------------------------------------- | ------------------------------------ | ---- | ------------------------- |
+| 播出日期            | 電視台                                               | 節目名稱                                 | 參加成員 | 備註                        |
+| 2010年10月2日      | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink") | [綜藝大國民](../Page/綜藝大國民.md "wikilink") | 全體成員 | 表演曲目：孤獨的人、Love、Love Light |
+| 2010年10月7日-8日   | MTV                                               | 日韓音樂瘋                                |      |                           |
+| 2010年10月13日-14日 | Channel V                                         | 就是愛JK                                |      |                           |
+| 2012年3月8日       |                                                   |                                      |      |                           |
+| 2013年11月15日     | MTV                                               | 我愛偶像                                 | 鄭容和  |                           |
 
 **〈日本綜藝〉：**
 
@@ -2742,7 +2745,7 @@ World Album排行榜第1位。
 <td><p>10月15日<br />
 10月22日<br />
 （10月4日錄製）</p></td>
-<td><p><a href="../Page/富士TV.md" title="wikilink">富士TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士TV" title="wikilink">富士TV</a></p></td>
 <td><p>MUSIC FAIR</p></td>
 <td><p>全體成員</p></td>
 <td><p>表演曲目:In My Head</p></td>
@@ -2763,13 +2766,13 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>10月27日</p></td>
-<td><p><a href="../Page/富士TV.md" title="wikilink">富士TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士TV" title="wikilink">富士TV</a></p></td>
 <td><p>[めざましTV]これってGOOD</p></td>
 <td><p>新宿車站回顧</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/关西电视台.md" title="wikilink">KTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/关西电视台" title="wikilink">KTV</a></p></td>
 <td><p>ハピくるっ！</p></td>
 <td><p>表演曲目:In My Head</p></td>
 <td></td>
@@ -2784,14 +2787,14 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>11月13日</p></td>
-<td><p><a href="../Page/MJTV.md" title="wikilink">MJTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MJTV" title="wikilink">MJTV</a></p></td>
 <td><p>CNBLUE SPECIAL</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月15日</p></td>
-<td><p><a href="../Page/富士TV.md" title="wikilink">富士TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士TV" title="wikilink">富士TV</a></p></td>
 <td><p>韓タメPOP</p></td>
 <td><p>表演曲目:In My Head</p></td>
 <td></td>
@@ -2805,7 +2808,7 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>1月29日</p></td>
-<td><p><a href="../Page/NHK综合.md" title="wikilink">NHK综合</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK综合" title="wikilink">NHK综合</a></p></td>
 <td><p>「ＭＵＳＩＣ ＪＡＰＡＮ」</p></td>
 <td><p>全體成員</p></td>
 <td><p>表演曲目:Where you are</p></td>
@@ -2813,7 +2816,7 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>1月30日<br />
 （1月21日錄製）</p></td>
-<td><p><a href="../Page/富士TV.md" title="wikilink">富士TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士TV" title="wikilink">富士TV</a></p></td>
 <td><p>「ＨＥＹ！ＨＥＹ！ＨＥＹ！」</p></td>
 <td></td>
 <td></td>
@@ -2837,7 +2840,7 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>2月25日<br />
 （1月31日錄製）</p></td>
-<td><p><a href="../Page/MTV.md" title="wikilink">MTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
 <td><p>MTV Unplugged</p></td>
 <td><p>場所:Billboard Live TOKYO，是MTV Unplugged第一個出演的韓國藝人</p></td>
 <td></td>
@@ -2858,14 +2861,14 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>5月9日</p></td>
-<td><p><a href="../Page/NHK綜合.md" title="wikilink">NHK綜合</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK綜合" title="wikilink">NHK綜合</a></p></td>
 <td><p>「MUSIC JAPAN」</p></td>
 <td><p>全體成員</p></td>
 <td><p>表演曲目:Blind Love &amp;臉部健美操</p></td>
 </tr>
 <tr class="even">
 <td><p>8月4日</p></td>
-<td><p><a href="../Page/TV大阪.md" title="wikilink">TV大阪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TV大阪" title="wikilink">TV大阪</a></p></td>
 <td><p>「JAPAN COUNTDOWN」</p></td>
 <td><p>表演曲目:LADY</p></td>
 <td></td>
@@ -2917,24 +2920,24 @@ World Album排行榜第1位。
 
 ### 固定節目
 
-|                         |                                             |                                             |      |                                          |
-| ----------------------- | ------------------------------------------- | ------------------------------------------- | ---- | ---------------------------------------- |
-| 日期                      | 電視台                                         | 節目名稱                                        | 參與成員 | 集數                                       |
-| 2009年12月6日－12月27日       | [MBC](../Page/MBC.md "wikilink")            | 星期天晚上Hunters                                | 鄭容和  | 4                                        |
-| 2010年1月3日－3月14日         | Eco House                                   | 11                                          |      |                                          |
-| 2010年2月27日－2011年4月2日    | [我們結婚了第](../Page/我們結婚了.md "wikilink")2季     | 51                                          |      |                                          |
-| 2015年1月23日－4月3日         | [KBS2](../Page/KBS2.md "wikilink")          | [勇敢的家族](../Page/勇敢的家族.md "wikilink")        | 姜敏赫  | 10                                       |
-| 2015年2月10日－2月24日        | [JTBC](../Page/JTBC.md "wikilink")          | 我去上學了                                       | 李正信  | 4                                        |
-| 2015年3月14日－8月29日        | [MBC](../Page/MBC.md "wikilink")            | [我們結婚了第](../Page/我們結婚了.md "wikilink")4季     | 李宗泫  | 24                                       |
-| 2015年4月10日－5月1日         | [KBS2](../Page/KBS2.md "wikilink")          | [撲通撲通印度](../Page/心動不已的印度.md "wikilink")     | 4    |                                          |
-| 2015年4月25日－6月27日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")     | 中韓時尚王                                       | 李正信  | 10／合作設計師[郭玄周](../Page/郭玄周.md "wikilink") |
-| 2015年6月26日- 12月4日       | [MBC](../Page/MBC.md "wikilink")            | 我獨自生活                                       | 姜敏赫  |                                          |
-| 2015年7月7日－9月22日         | [KBS](../Page/KBS.md "wikilink")            | [我們小區藝體能游泳篇](../Page/我們小區藝體能.md "wikilink") | 11   |                                          |
-| 2015年10月6日－11月17日       | [我們小區藝體能柔道篇](../Page/我們小區藝體能.md "wikilink") | 李宗泫                                         |      |                                          |
-| 2015年10月17日－2016年1月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")     | [握拳少林寺](../Page/握拳少林寺.md "wikilink")        | 李正信  |                                          |
-| 2017年5月22日－10月16日       | [tvn](../Page/tvn.md "wikilink")            | [島劍客](../Page/島劍客.md "wikilink")            | 鄭容和  |                                          |
-| 2017年12月1日－2018年 1月 26日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")     | [叢林的法則](../Page/叢林的法則.md "wikilink") 庫克群島   | 李宗泫  | 9                                        |
-|                         |                                             |                                             |      |                                          |
+|                         |                                                       |                                                              |      |                                                             |
+| ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ---- | ----------------------------------------------------------- |
+| 日期                      | 電視台                                                   | 節目名稱                                                         | 參與成員 | 集數                                                          |
+| 2009年12月6日－12月27日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 星期天晚上Hunters                                                 | 鄭容和  | 4                                                           |
+| 2010年1月3日－3月14日         | Eco House                                             | 11                                                           |      |                                                             |
+| 2010年2月27日－2011年4月2日    | [我們結婚了第](../Page/我們結婚了.md "wikilink")2季               | 51                                                           |      |                                                             |
+| 2015年1月23日－4月3日         | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [勇敢的家族](../Page/勇敢的家族.md "wikilink")                         | 姜敏赫  | 10                                                          |
+| 2015年2月10日－2月24日        | [JTBC](../Page/JTBC.md "wikilink")                    | 我去上學了                                                        | 李正信  | 4                                                           |
+| 2015年3月14日－8月29日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [我們結婚了第](../Page/我們結婚了.md "wikilink")4季                      | 李宗泫  | 24                                                          |
+| 2015年4月10日－5月1日         | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [撲通撲通印度](../Page/心動不已的印度.md "wikilink")                      | 4    |                                                             |
+| 2015年4月25日－6月27日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 中韓時尚王                                                        | 李正信  | 10／合作設計師[郭玄周](https://zh.wikipedia.org/wiki/郭玄周 "wikilink") |
+| 2015年6月26日- 12月4日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 我獨自生活                                                        | 姜敏赫  |                                                             |
+| 2015年7月7日－9月22日         | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [我們小區藝體能游泳篇](../Page/我們小區藝體能.md "wikilink")                  | 11   |                                                             |
+| 2015年10月6日－11月17日       | [我們小區藝體能柔道篇](../Page/我們小區藝體能.md "wikilink")           | 李宗泫                                                          |      |                                                             |
+| 2015年10月17日－2016年1月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [握拳少林寺](../Page/握拳少林寺.md "wikilink")                         | 李正信  |                                                             |
+| 2017年5月22日－10月16日       | [tvn](https://zh.wikipedia.org/wiki/tvn "wikilink")   | [島劍客](https://zh.wikipedia.org/wiki/島劍客 "wikilink")          | 鄭容和  |                                                             |
+| 2017年12月1日－2018年 1月 26日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") 庫克群島 | 李宗泫  | 9                                                           |
+|                         |                                                       |                                                              |      |                                                             |
 
 ### 主持節目
 
@@ -2959,7 +2962,7 @@ World Album排行榜第1位。
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>歌谣大战</p></td>
 <td><p>鄭容和</p></td>
-<td><p>與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="../Page/金希澈.md" title="wikilink">希澈</a>、<a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<td><p>與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="https://zh.wikipedia.org/wiki/金希澈" title="wikilink">希澈</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2010年</strong></p></td>
@@ -2970,21 +2973,21 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>2月18日－8月23日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>姜敏赫</p></td>
-<td><p>固定ＭＣ(與<a href="../Page/2PM.md" title="wikilink">2PM的</a><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun和</a><a href="../Page/李俊昊.md" title="wikilink">俊昊和</a><a href="../Page/黃燦盛.md" title="wikilink">燦盛</a> 、<a href="../Page/MBLAQ.md" title="wikilink">MBLAQ的</a><a href="../Page/G.O.md" title="wikilink">G.O</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權和</a><a href="../Page/鄭珍雲.md" title="wikilink">鄭珍雲</a>)</p></td>
+<td><p>固定ＭＣ(與<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM的</a><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun和</a><a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">俊昊和</a><a href="../Page/黃燦盛.md" title="wikilink">燦盛</a> 、<a href="https://zh.wikipedia.org/wiki/MBLAQ" title="wikilink">MBLAQ的</a><a href="../Page/G.O.md" title="wikilink">G.O</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權和</a><a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>5月29日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>鄭容和</p></td>
-<td><p>Special MC(與<a href="../Page/先藝.md" title="wikilink">先藝</a>、<a href="../Page/宥斌.md" title="wikilink">宥斌</a>)</p></td>
+<td><p>Special MC(與<a href="../Page/先藝.md" title="wikilink">先藝</a>、<a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月19日</p></td>
-<td><p>Special MC(與<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>)</p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2992,21 +2995,21 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>7月18日－3月13日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p>固定ＭＣ(與<a href="../Page/崔雪莉.md" title="wikilink">Sulli</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p>固定ＭＣ(與<a href="https://zh.wikipedia.org/wiki/崔雪莉" title="wikilink">Sulli</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月15日－7月4日</p></td>
 <td><p><a href="../Page/對決！Star_聽證會_－_每天每夜.md" title="wikilink">對決！Star 聽證會 － 每天每夜</a></p></td>
-<td><p>固定ＭＣ(與卓載勛、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/金濟東.md" title="wikilink">金濟東</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a>、<a href="../Page/BIGBANG.md" title="wikilink">BIGBANG的</a><a href="../Page/姜大聲.md" title="wikilink">大聲</a>)</p></td>
+<td><p>固定ＭＣ(與卓載勛、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/金濟東.md" title="wikilink">金濟東</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a>、<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG的</a><a href="../Page/姜大聲.md" title="wikilink">大聲</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12月29日</p></td>
 <td><p>歌謠大戰</p></td>
-<td><p>與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="../Page/金希澈.md" title="wikilink">希澈</a>、<a href="../Page/黃正音.md" title="wikilink">黃正音</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權</a></p></td>
+<td><p>與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="https://zh.wikipedia.org/wiki/金希澈" title="wikilink">希澈</a>、<a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a>、<a href="../Page/2AM.md" title="wikilink">2AM的</a><a href="../Page/趙權.md" title="wikilink">趙權</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3019,10 +3022,10 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>12月23日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>鄭容和</p></td>
-<td><p>Special MC(與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="../Page/始源.md" title="wikilink">始源</a>、<a href="../Page/Highlight.md" title="wikilink">Highlight的</a><a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>、<a href="../Page/全炫茂.md" title="wikilink">全炫茂</a>)</p></td>
+<td><p>Special MC(與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>、<a href="https://zh.wikipedia.org/wiki/Highlight" title="wikilink">Highlight的</a><a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2012年</strong></p></td>
@@ -3033,44 +3036,44 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>3月29日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>李正信</p></td>
 <td><p>Special MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>鄭容和</p></td>
-<td><p>Special MC(與<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/孝淵.md" title="wikilink">孝淵和</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>)</p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="https://zh.wikipedia.org/wiki/孝淵" title="wikilink">孝淵和</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>11月10日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>K-POP Super Concert in LA</p></td>
-<td><p>與<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/Tiffany_(少女時代).md" title="wikilink">蒂芬妮</a>、<a href="../Page/Highlight.md" title="wikilink">Highlight的</a><a href="../Page/李起光.md" title="wikilink">起光</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="../Page/Tiffany_(少女時代).md" title="wikilink">蒂芬妮</a>、<a href="https://zh.wikipedia.org/wiki/Highlight" title="wikilink">Highlight的</a><a href="../Page/李起光.md" title="wikilink">起光</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月17日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行智利特輯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行智利特輯</a></p></td>
 <td><p>與<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="../Page/圭賢.md" title="wikilink">圭賢</a>、<a href="../Page/Uie.md" title="wikilink">Uie</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12月9日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p>Special MC(與<a href="../Page/Highlight.md" title="wikilink">Highlight的</a><a href="../Page/李起光.md" title="wikilink">起光</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/Highlight" title="wikilink">Highlight的</a><a href="../Page/李起光.md" title="wikilink">起光</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月28日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>歌謠大祝祭</p></td>
-<td><p>與<a href="../Page/成始璄.md" title="wikilink">成始璄</a>、<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/潤娥.md" title="wikilink">潤娥</a></p></td>
+<td><p>與<a href="../Page/成始璄.md" title="wikilink">成始璄</a>、<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="https://zh.wikipedia.org/wiki/潤娥" title="wikilink">潤娥</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3089,8 +3092,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>1月19日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p>CNBLUE</p></td>
 <td><p>Special MC</p></td>
 </tr>
@@ -3100,7 +3103,7 @@ World Album排行榜第1位。
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>李宗泫</p></td>
-<td><p>Special MC(與<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="../Page/Yura.md" title="wikilink">亞瑩和</a><a href="../Page/惠利.md" title="wikilink">惠利</a>)</p></td>
+<td><p>Special MC(與<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">亞瑩和</a><a href="../Page/惠利.md" title="wikilink">惠利</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>12月5日<br />
@@ -3122,7 +3125,7 @@ World Album排行榜第1位。
 <td><p>-</p></td>
 <td><p>第28届金唱片大赏</p></td>
 <td><p>鄭容和</p></td>
-<td><p>與<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="../Page/珉豪.md" title="wikilink">珉豪</a>、<a href="../Page/Highlight.md" title="wikilink">Highlight的</a><a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a></p></td>
+<td><p>與<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="../Page/珉豪.md" title="wikilink">珉豪</a>、<a href="https://zh.wikipedia.org/wiki/Highlight" title="wikilink">Highlight的</a><a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4月1日</p></td>
@@ -3134,28 +3137,28 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>4月6日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>姜敏赫</p></td>
-<td><p>Special MC(與<a href="../Page/善美.md" title="wikilink">善美</a>)</p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月12日</p></td>
 <td><p>-</p></td>
 <td><p>K-POP Festival in LA</p></td>
 <td><p>鄭容和</p></td>
-<td><p>與<a href="../Page/2PM.md" title="wikilink">2PM的</a><a href="../Page/玉澤演.md" title="wikilink">澤演</a>、KBS播音員</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM的</a><a href="https://zh.wikipedia.org/wiki/玉澤演" title="wikilink">澤演</a>、KBS播音員</p></td>
 </tr>
 <tr class="even">
 <td><p>6月7日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行巴西特辑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行巴西特辑</a></p></td>
 <td><p>與<a href="../Page/李準_(歌手).md" title="wikilink">李準</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月1日<br />
 (10月19日錄)</p></td>
-<td><p><a href="../Page/KBS2.md" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p>2014 K-Pop World Festival in 昌原</p></td>
 <td><p>姜敏赫</p></td>
 <td><p>與<a href="../Page/Apink.md" title="wikilink">Apink的</a><a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a></p></td>
@@ -3165,7 +3168,7 @@ World Album排行榜第1位。
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>Awards Festival</p></td>
 <td><p>鄭容和</p></td>
-<td><p>與<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/2PM.md" title="wikilink">2PM的</a><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE的</a><a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/Baro.md" title="wikilink">Baro</a>、<a href="../Page/WINNER.md" title="wikilink">WINNER的</a><a href="../Page/宋旻浩.md" title="wikilink">MINO</a></p></td>
+<td><p>與<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM的</a><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE的</a><a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/Baro.md" title="wikilink">Baro</a>、<a href="../Page/WINNER.md" title="wikilink">WINNER的</a><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">MINO</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015年</strong></p></td>
@@ -3176,25 +3179,25 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>1月23日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>姜敏赫</p></td>
-<td><p>Special MC(與<a href="../Page/尹寶拉.md" title="wikilink">寶拉</a>)</p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">寶拉</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月25日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>鄭容和</p></td>
-<td><p>Special MC(與<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="../Page/金希澈.md" title="wikilink">希澈</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="../Page/珉雅.md" title="wikilink">珉雅</a>)</p></td>
+<td><p>Special MC(與<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/Super_Junior.md" title="wikilink">Super Junior的</a><a href="https://zh.wikipedia.org/wiki/金希澈" title="wikilink">希澈</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day的</a><a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>3月19日－<br />
 2016年9月8日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>李正信</p></td>
-<td><p>固定ＭＣ(與<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="../Page/Key_(歌手).md" title="wikilink">Key</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7的</a><a href="../Page/BamBam.md" title="wikilink">BamBam和</a><a href="../Page/朴珍榮.md" title="wikilink">Jr.</a>)</p></td>
+<td><p>固定ＭＣ(與<a href="../Page/SHINee.md" title="wikilink">SHINee的</a><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7的</a><a href="../Page/BamBam.md" title="wikilink">BamBam和</a><a href="../Page/朴珍榮.md" title="wikilink">Jr.</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月25日－7月11日</p></td>
@@ -3206,15 +3209,15 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>5月3日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>Special MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月5日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>能力者們</p></td>
-<td><p>Special MC(與<a href="../Page/金九拉.md" title="wikilink">金九拉</a>、<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦主持</a>)</p></td>
+<td><p>Special MC(與<a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>、<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦主持</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3227,17 +3230,17 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2月3日<br />
 2月17日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/Weekly_Idol.md" title="wikilink">Weekly Idol</a></p></td>
 <td><p>鄭容和</p></td>
 <td><p>Special MC</p></td>
 </tr>
 <tr class="even">
 <td><p>7月1日－11月4日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>姜敏赫</p></td>
-<td><p>固定ＭＣ(與<a href="../Page/LABOUM.md" title="wikilink">LABOUM的</a><a href="../Page/率濱.md" title="wikilink">率濱</a>)</p></td>
+<td><p>固定ＭＣ(與<a href="../Page/LABOUM.md" title="wikilink">LABOUM的</a><a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2017年</strong></p></td>
@@ -3251,12 +3254,12 @@ World Album排行榜第1位。
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>第31届金唱片大賞</p></td>
 <td><p>鄭容和</p></td>
-<td><p>(與<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="../Page/黄致列.md" title="wikilink">黄致列</a>)</p></td>
+<td><p>(與<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="https://zh.wikipedia.org/wiki/黄致列" title="wikilink">黄致列</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月7日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>Special MC</p></td>
 </tr>
@@ -3272,33 +3275,33 @@ World Album排行榜第1位。
 
 ### 特輯節目
 
-|                       |                                         |                                                       |         |
-| --------------------- | --------------------------------------- | ----------------------------------------------------- | ------- |
-| 日期                    | 電視台/頻道                                  | 節目名稱                                                  | 參與集數/備註 |
-| 2010年1月27日－2010年2月24日 | GOMTV                                   | Making The Artist                                     | 5       |
-| 2010年2月10日－2010年3月10日 | [Mnet](../Page/Mnet.md "wikilink")      | CNBLUETORY                                            |         |
-| 2012年7月28日            | O'LIVE TV                               | 《CNBLUE的Love on Party》                                | 1       |
-| 2013年11月21日－2014年1月9日 | [tvN](../Page/tvN.md "wikilink")        | [清潭洞111](../Page/清潭洞111.md "wikilink")                | 8       |
-| 2014年3月2日             | [Mnet](../Page/Mnet.md "wikilink")      | GO\! CNBLUE                                           | 1       |
-| 2014年3月2日             | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《CNBLUE回歸 Can't Stop》                                 |         |
-| 2014年3月14日－2014年4月11日 | [tvN](../Page/tvN.md "wikilink")        | [清潭洞111](../Page/清潭洞111.md "wikilink")-N.Flying邁向明星之路 | 5       |
-| 2015年1月22日－2月12日      | [Mnet](../Page/Mnet.md "wikilink")      | 鄭容和的Hologram                                          | 4       |
-| 2015年8月11日            | NAVER V app                             | FNC夜游會                                                | 1       |
-|                       |                                         |                                                       |         |
+|                       |                                                       |                                                       |         |
+| --------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------- |
+| 日期                    | 電視台/頻道                                                | 節目名稱                                                  | 參與集數/備註 |
+| 2010年1月27日－2010年2月24日 | GOMTV                                                 | Making The Artist                                     | 5       |
+| 2010年2月10日－2010年3月10日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | CNBLUETORY                                            |         |
+| 2012年7月28日            | O'LIVE TV                                             | 《CNBLUE的Love on Party》                                | 1       |
+| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [清潭洞111](../Page/清潭洞111.md "wikilink")                | 8       |
+| 2014年3月2日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | GO\! CNBLUE                                           | 1       |
+| 2014年3月2日             | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《CNBLUE回歸 Can't Stop》                                 |         |
+| 2014年3月14日－2014年4月11日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [清潭洞111](../Page/清潭洞111.md "wikilink")-N.Flying邁向明星之路 | 5       |
+| 2015年1月22日－2月12日      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 鄭容和的Hologram                                          | 4       |
+| 2015年8月11日            | NAVER V app                                           | FNC夜游會                                                | 1       |
+|                       |                                                       |                                                       |         |
 
 ### 其他ＭＶ演出
 
-|                 |                                        |                                                        |      |
-| --------------- | -------------------------------------- | ------------------------------------------------------ | ---- |
-| 日期              | 歌曲（官方MV）                               | 歌手                                                     | 出演成員 |
-| 2010年6月17日      | Magic Girl\[55\]                       | [Orange Caramel](../Page/Orange_Caramel.md "wikilink") | 姜敏赫  |
-| 2011年3月29日      | Heart To Heart\[56\]                   | [4Minute](../Page/4Minute.md "wikilink")               | 李正信  |
-| 2012年6月7日       | Fool\[57\]                             | 與[Juniel合唱](../Page/Juniel.md "wikilink")              | 鄭容和  |
-| illa illa\[58\] | [Juniel](../Page/Juniel.md "wikilink") | 姜敏赫                                                    |      |
-| 2013年12月2日      | Love Falls\[59\]                       | 與[Juniel合唱](../Page/Juniel.md "wikilink")              | 李宗泫  |
-| 2014年6月18日      | Mr. 曖昧模糊\[60\]                         | [Mamamoo](../Page/Mamamoo.md "wikilink")               |      |
-| 2016年10月7日      | 等你愛\[61\]                              | [吳映潔](../Page/吳映潔.md "wikilink")                       | 李正信  |
-|                 |                                        |                                                        |      |
+|                 |                                        |                                                                           |      |
+| --------------- | -------------------------------------- | ------------------------------------------------------------------------- | ---- |
+| 日期              | 歌曲（官方MV）                               | 歌手                                                                        | 出演成員 |
+| 2010年6月17日      | Magic Girl\[55\]                       | [Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink") | 姜敏赫  |
+| 2011年3月29日      | Heart To Heart\[56\]                   | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")               | 李正信  |
+| 2012年6月7日       | Fool\[57\]                             | 與[Juniel合唱](../Page/Juniel.md "wikilink")                                 | 鄭容和  |
+| illa illa\[58\] | [Juniel](../Page/Juniel.md "wikilink") | 姜敏赫                                                                       |      |
+| 2013年12月2日      | Love Falls\[59\]                       | 與[Juniel合唱](../Page/Juniel.md "wikilink")                                 | 李宗泫  |
+| 2014年6月18日      | Mr. 曖昧模糊\[60\]                         | [Mamamoo](../Page/Mamamoo.md "wikilink")                                  |      |
+| 2016年10月7日      | 等你愛\[61\]                              | [吳映潔](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")                       | 李正信  |
+|                 |                                        |                                                                           |      |
 
 ## 其他活動
 
@@ -4102,17 +4105,17 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2014年10月25日</p></td>
 <td><p>MBC 2014 Korean Music Wave in Beijing</p></td>
-<td><p>北京鳥巢／12月7日<a href="../Page/MBC.md" title="wikilink">MBC播放</a></p></td>
+<td><p>北京鳥巢／12月7日<a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC播放</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年9月4日</p></td>
 <td><p>Grand K-POP Festival</p></td>
-<td><p>首爾蠶室奧林匹克綜合體育場／<a href="../Page/MBC.md" title="wikilink">MBC播放</a></p></td>
+<td><p>首爾蠶室奧林匹克綜合體育場／<a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC播放</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年9月5日</p></td>
 <td><p>DMC Festival K-POP Super Concert</p></td>
-<td><p>首爾上岩數位媒體城／<a href="../Page/MBC.md" title="wikilink">MBC播放</a></p></td>
+<td><p>首爾上岩數位媒體城／<a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC播放</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年9月13日</p></td>
@@ -4137,12 +4140,12 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>2016年9月30日</p></td>
 <td><p>Music Bank KOREA Sale FESTA 2016 開幕公演</p></td>
-<td><p>首爾：江南 永東大路／9月30日<a href="../Page/KBS2.md" title="wikilink">KBS2直播</a></p></td>
+<td><p>首爾：江南 永東大路／9月30日<a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2直播</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年3月2日</p></td>
 <td><p>ONE K Global PLACE CONCERT</p></td>
-<td><p>馬尼拉／3月29日<a href="../Page/KBS1.md" title="wikilink">KBS1播放</a></p></td>
+<td><p>馬尼拉／3月29日<a href="https://zh.wikipedia.org/wiki/KBS1" title="wikilink">KBS1播放</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年8月4日</p></td>
@@ -4268,23 +4271,23 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2010年</p></td>
 <td><p>1月29日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>孤獨的人</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>1月31日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>LOVE</p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -4292,15 +4295,15 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>6月20日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月1日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4308,23 +4311,23 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>7月4日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>年度結算:第20位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>孤獨的人</p></td>
 <td><p>年度結算:第7位</p></td>
 <td></td>
@@ -4332,31 +4335,31 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p>3月31日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>直感</p></td>
 <td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>4月1日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4364,23 +4367,23 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>4月10日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月15日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4396,8 +4399,8 @@ World Album排行榜第1位。
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>4月5日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>HEY YOU</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -4411,8 +4414,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>4月20日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4420,7 +4423,7 @@ World Album排行榜第1位。
 <tr class="even">
 <td><p>4月22日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
@@ -4435,8 +4438,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2月1日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4451,8 +4454,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>2月8日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4467,8 +4470,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>12月20日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>年度結算:第15位</p></td>
 <td></td>
 <td></td>
@@ -4483,8 +4486,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>3月28日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4507,8 +4510,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>9月25日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -4523,8 +4526,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>10月2日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4547,16 +4550,16 @@ World Album排行榜第1位。
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月15日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4571,8 +4574,8 @@ World Album排行榜第1位。
 </tr>
 <tr class="odd">
 <td><p>4月22日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4596,10 +4599,10 @@ World Album排行榜第1位。
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Bluetory.md" title="wikilink">Bluetory</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bluetory" title="wikilink">Bluetory</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BLUELOVE.md" title="wikilink">BLUELOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BLUELOVE" title="wikilink">BLUELOVE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>LOVE</p></td>
@@ -4608,7 +4611,7 @@ World Album排行榜第1位。
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIRST_STEP_(CNBLUE專輯).md" title="wikilink">FIRST STEP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIRST_STEP_(CNBLUE專輯)" title="wikilink">FIRST STEP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Love Girl</p></td>
@@ -4629,19 +4632,19 @@ World Album排行榜第1位。
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Re:BLUE.md" title="wikilink">Re:BLUE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Re:BLUE" title="wikilink">Re:BLUE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>I'm Sorry</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Romantic_J.md" title="wikilink">Romantic J</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Romantic_J" title="wikilink">Romantic J</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Can&#39;t_Stop_(CNBLUE迷你專輯).md" title="wikilink">Can't Stop</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Can&#39;t_Stop_(CNBLUE迷你專輯)" title="wikilink">Can't Stop</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>其實…</p></td>
@@ -4671,10 +4674,10 @@ World Album排行榜第1位。
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/7℃N.md" title="wikilink">7℃N</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7℃N" title="wikilink">7℃N</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/DO_DISTURB.md" title="wikilink">DO DISTURB</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DO_DISTURB" title="wikilink">DO DISTURB</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

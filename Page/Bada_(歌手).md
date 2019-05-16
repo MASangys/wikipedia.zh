@@ -1,4 +1,4 @@
-**Bada**（；）本名**崔盛希**（；），[韓國女歌手](../Page/韓國.md "wikilink")，女子團體[S.E.S.成員Sea](../Page/S.E.S._\(組合\).md "wikilink")，當時與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話](../Page/神話.md "wikilink")、[Baby
+**Bada**（；）本名**崔盛希**（；），[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，女子團體[S.E.S.成員Sea](../Page/S.E.S._\(組合\).md "wikilink")，當時與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")、[Baby
 V.O.X](../Page/Baby_V.O.X.md "wikilink")、[酷龍等團體把韓國音樂推廣到國外](../Page/酷龍.md "wikilink")，從這時開始韓樂開始在東亞流行了起來。父親是唱片銷量曾突破500萬張但卻從未露臉的韓國傳統音樂（Trot）歌手崔世月，他同時也是享有「高速公路四大天王」之稱的Trot界傳奇。因為母親早逝，由父親一人養大了三個女兒。2017年3月與小她9歲的企業家結婚。\[1\]
 
 ## 個人作品
@@ -27,21 +27,21 @@ V.O.X](../Page/Baby_V.O.X.md "wikilink")、[酷龍等團體把韓國音樂推廣
 
 ## 綜藝節目
 
-  - 2011年：[MBC](../Page/文化廣播_\(韓國\).md "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》（[西海岸高速公路歌谣祭特輯](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")，嘉賓，2011年6月11日、18日、25日及7月2日）
-  - 2013年：[SBS](../Page/SBS株式會社.md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")－[赤腳的朋友們](../Page/赤腳的朋友們.md "wikilink")》（客串，2013年10月13日）
+  - 2011年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》（[西海岸高速公路歌谣祭特輯](../Page/無限挑戰_西海岸高速公路歌謠祭.md "wikilink")，嘉賓，2011年6月11日、18日、25日及7月2日）
+  - 2013年：[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")－[赤腳的朋友們](../Page/赤腳的朋友們.md "wikilink")》（客串，2013年10月13日）
   - 2014年：MBC《[無限挑戰](../Page/無限挑戰.md "wikilink")》（週六週六歌手，嘉賓，2014年12月20日、27日及2015年1月3日）
   - 2015年：[GRT
-    (中國)](../Page/中国广东电视台.md "wikilink")《[麥王爭霸](../Page/麥王爭霸.md "wikilink")》（參賽歌手，2015年12月26日及2016年1月2日、9日）
-  - 2016年：MBC《[二重唱歌謠祭](../Page/二重唱歌謠祭.md "wikilink")》（2016年6月10日、17日、24日）
+    (中國)](https://zh.wikipedia.org/wiki/中国广东电视台 "wikilink")《[麥王爭霸](https://zh.wikipedia.org/wiki/麥王爭霸 "wikilink")》（參賽歌手，2015年12月26日及2016年1月2日、9日）
+  - 2016年：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》（2016年6月10日、17日、24日）
   - 2016年：SBS《[Fantastic
     Duo](../Page/Fantastic_Duo.md "wikilink")》（2016年8月）
   - 2016年：SBS《[Running
     Man](../Page/Running_Man.md "wikilink")》（2016年8月14日）
-  - 2017年：[Mnet](../Page/Mnet.md "wikilink")《[偶像學校](../Page/偶像學校.md "wikilink")》固定音樂教師
+  - 2017年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》固定音樂教師
   - 2017年：[朴軫永的Party
-    People](../Page/朴軫永的Party_People.md "wikilink")(2017年9月30日)
+    People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")(2017年9月30日)
   - 2017年：SBS《[Fantastic Duo
-    2](../Page/Fantastic_Duo_2.md "wikilink")》（固定嘉賓，2017年3月\~12月）
+    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》（固定嘉賓，2017年3月\~12月）
 
 ## 參考資料
 

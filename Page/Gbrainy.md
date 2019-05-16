@@ -1,6 +1,6 @@
-**gbrainy**是一个为[GNOME设计的](../Page/GNOME.md "wikilink")[智力游戏](../Page/智力游戏.md "wikilink")，属于[教育软件](../Page/教育软件.md "wikilink")，旨在激发大脑潜力，授权协议是[GNU
-GPL](../Page/GNU通用公共许可证.md "wikilink")。使用[C\#编写](../Page/C_Sharp.md "wikilink")，基于[Mono](../Page/Mono.md "wikilink")\[1\]并移植到[Sugar图形环境](../Page/Sugar_\(用戶界面\).md "wikilink")\[2\]以及[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")。
+**gbrainy**是一个为[GNOME设计的](../Page/GNOME.md "wikilink")[智力游戏](https://zh.wikipedia.org/wiki/智力游戏 "wikilink")，属于[教育软件](https://zh.wikipedia.org/wiki/教育软件 "wikilink")，旨在激发大脑潜力，授权协议是[GNU
+GPL](../Page/GNU通用公共许可证.md "wikilink")。使用[C\#编写](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，基于[Mono](../Page/Mono.md "wikilink")\[1\]并移植到[Sugar图形环境](../Page/Sugar_\(用戶界面\).md "wikilink")\[2\]以及[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 主要包含：
 
@@ -12,8 +12,8 @@ Windows](../Page/Microsoft_Windows.md "wikilink")。
 
 ## 其他
 
-  - [Gcompris](../Page/Gcompris.md "wikilink")
-  - [KDE教育计划](../Page/KDE教育计划.md "wikilink")
+  - [Gcompris](https://zh.wikipedia.org/wiki/Gcompris "wikilink")
+  - [KDE教育计划](https://zh.wikipedia.org/wiki/KDE教育计划 "wikilink")
 
 ## 外部链接
 

@@ -4,7 +4,7 @@
 ## 解說
 
   - 全國動員約14萬人的「KODA KUMI LIVE TOUR 2008
-    ～Kingdom～」，此DVD收錄[東京](../Page/東京.md "wikilink")[國立代代木競技場第一體育館的演唱會影像](../Page/國立代代木競技場.md "wikilink")。另收錄巡迴全公演的貼身幕後花絮影像、特典映像，收錄約75分鐘的演唱會DVD。
+    ～Kingdom～」，此DVD收錄[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[國立代代木競技場第一體育館的演唱會影像](../Page/國立代代木競技場.md "wikilink")。另收錄巡迴全公演的貼身幕後花絮影像、特典映像，收錄約75分鐘的演唱會DVD。
   - 日本初回盤與單曲「[TABOO](../Page/TABOO.md "wikilink")」連動特典應募券封入。
   - 此巡迴演唱會DVD為倖田來未第5張連續奪冠的巡迴演唱會DVD。
   - 藍光DVD於 2011年5月18日發售

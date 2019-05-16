@@ -1,16 +1,16 @@
 [分析树
-PN = [专有名词](../Page/专有名词.md "wikilink")
-N = [名词](../Page/名词.md "wikilink")
-V = [动词](../Page/动词.md "wikilink")
+PN = [专有名词](https://zh.wikipedia.org/wiki/专有名词 "wikilink")
+N = [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")
+V = [动词](https://zh.wikipedia.org/wiki/动词 "wikilink")
 NP =
-RC = [关系从句](../Page/关系从句.md "wikilink")
-VP = [动词短语](../Page/动词短语.md "wikilink")
-S = [句子](../Page/句子.md "wikilink")
+RC = [关系从句](https://zh.wikipedia.org/wiki/关系从句 "wikilink")
+VP = [动词短语](https://zh.wikipedia.org/wiki/动词短语 "wikilink")
+S = [句子](https://zh.wikipedia.org/wiki/句子 "wikilink")
 ](https://zh.wikipedia.org/wiki/File:Buffalo_sentence_1_parse_tree.svg "fig:分析树 PN = 专有名词 N = 名词 V = 动词 NP =  RC = 关系从句 VP = 动词短语 S = 句子 ")
-"****"是[英语中一句](../Page/英语.md "wikilink")[语法正确的句子](../Page/语法.md "wikilink")，用来展示如何使用[同形同音词创造复杂的语言结构](../Page/同形同音词.md "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](../Page/纽约州立大学水牛城分校.md "wikilink")[威廉·拉帕波特](../Page/威廉·拉帕波特.md "wikilink")（William
+"****"是[英语中一句](../Page/英语.md "wikilink")[语法正确的句子](../Page/语法.md "wikilink")，用来展示如何使用[同形同音词创造复杂的语言结构](https://zh.wikipedia.org/wiki/同形同音词 "wikilink")。1972年，[纽约州立大学水牛城分校助理教授](https://zh.wikipedia.org/wiki/纽约州立大学水牛城分校 "wikilink")[威廉·拉帕波特](https://zh.wikipedia.org/wiki/威廉·拉帕波特 "wikilink")（William
 J. Rapaport）最早使用了这句句子。\[1\]1992年，拉帕波特将其发表在《[LINGUIST
-List](../Page/LINGUIST_List.md "wikilink")》上。\[2\]
-1994年，[史迪芬·平克在其著作](../Page/史迪芬·平克.md "wikilink")《[语言本能](../Page/语言本能.md "wikilink")》（**）中也提到了这一句子。\[3\]
+List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\]
+1994年，[史迪芬·平克在其著作](../Page/史迪芬·平克.md "wikilink")《[语言本能](https://zh.wikipedia.org/wiki/语言本能 "wikilink")》（**）中也提到了这一句子。\[3\]
 
 ## 句子结构
 
@@ -21,11 +21,12 @@ List](../Page/LINGUIST_List.md "wikilink")》上。\[2\]
 句子本身缺少了标点，句中的一词包含了三种不同的意义，按出现次序分别为：
 
   - **a.**
-    指[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[水牛城](../Page/水牛城.md "wikilink")（），作为[前置定语与其后的动物组成](../Page/前置定语.md "wikilink")[名名结构](../Page/名名结构.md "wikilink")（noun
+    指[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[水牛城](../Page/水牛城.md "wikilink")（），作为[前置定语与其后的动物组成](https://zh.wikipedia.org/wiki/前置定语 "wikilink")[名名结构](https://zh.wikipedia.org/wiki/名名结构 "wikilink")（noun
     adjunct）；
   - **n.**
-    [名词](../Page/名词.md "wikilink")，指[美洲野牛](../Page/美洲野牛.md "wikilink")（，经常被称为），在句中作为复数（与或相同），以避免使用[冠词](../Page/冠词.md "wikilink")；
-  - **v.** [动词](../Page/动词.md "wikilink")，意为威吓、愚弄、使困惑。
+    [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，指[美洲野牛](../Page/美洲野牛.md "wikilink")（，经常被称为），在句中作为复数（与或相同），以避免使用[冠词](../Page/冠词.md "wikilink")；
+  - **v.**
+    [动词](https://zh.wikipedia.org/wiki/动词 "wikilink")，意为威吓、愚弄、使困惑。
 
 使用上述记号标记此句为：
 
@@ -37,7 +38,7 @@ List](../Page/LINGUIST_List.md "wikilink")》上。\[2\]
     水牛城<sup>a</sup>美洲野牛<sup>n</sup>水牛城<sup>a</sup>美洲野牛<sup>n</sup>威吓<sup>v</sup>威吓<sup>v</sup>水牛城<sup>a</sup>
     美洲野牛<sup>n</sup>。
 
-于是，这句话便可以被理解为对生活在水牛城中的美洲野牛的[社会等级的描述](../Page/社会等级.md "wikilink")：
+于是，这句话便可以被理解为对生活在水牛城中的美洲野牛的[社会等级的描述](https://zh.wikipedia.org/wiki/社会等级 "wikilink")：
 
   -
   -
@@ -82,7 +83,7 @@ buffalo（主句动词） Buffalo buffalo（主句直接宾语）."
 
 ## 延伸
 
-原句中一共使用了8个，但实际上，使用任意个数的都可以使句子在语法上正确（根据[乔姆斯基的语法理论](../Page/乔姆斯基.md "wikilink")）。最短的可以为""，意思可以为“威吓（某人）！”、“看，有一些美洲野牛在这！”或“瞧，这是水牛城！”等。\[4\]又如使用10个：""。这句话中，第一个为形容词修饰第二个（主语），意为“水牛城中的美洲野牛”。之后两个分别为副词和动词，其中第三个用来描述第四个（恐吓）。而第五、第六个又与第一、第二个结构相同。
+原句中一共使用了8个，但实际上，使用任意个数的都可以使句子在语法上正确（根据[乔姆斯基的语法理论](https://zh.wikipedia.org/wiki/乔姆斯基 "wikilink")）。最短的可以为""，意思可以为“威吓（某人）！”、“看，有一些美洲野牛在这！”或“瞧，这是水牛城！”等。\[4\]又如使用10个：""。这句话中，第一个为形容词修饰第二个（主语），意为“水牛城中的美洲野牛”。之后两个分别为副词和动词，其中第三个用来描述第四个（恐吓）。而第五、第六个又与第一、第二个结构相同。
 
 ## 其他词汇
 
@@ -94,8 +95,8 @@ teacher](../Page/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_
 
 ## 参见
 
-  - [施氏食狮史](../Page/施氏食狮史.md "wikilink")
-  - [子子子子子子子子子子子子](../Page/子子子子子子子子子子子子.md "wikilink")
+  - [施氏食狮史](https://zh.wikipedia.org/wiki/施氏食狮史 "wikilink")
+  - [子子子子子子子子子子子子](https://zh.wikipedia.org/wiki/子子子子子子子子子子子子 "wikilink")
 
 ## 参考资料
 

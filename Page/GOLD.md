@@ -1,10 +1,10 @@
-《**GOLD**》，[富士電視台系列自](../Page/富士電視台.md "wikilink")2010年7月8日起播出的[日本電視劇](../Page/日本電視劇.md "wikilink")。播出時間為每周四22:00
+《**GOLD**》，[富士電視台系列自](../Page/富士電視台.md "wikilink")2010年7月8日起播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。播出時間為每周四22:00
 \~ 22:54（[JST](../Page/日本標準時間.md "wikilink")）。播到2010年9月16日，第一集22:00 \~
 23:09延長15分鐘。總共11集。
 
 ## 概要
 
-透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](../Page/家庭劇.md "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](../Page/沒有玫瑰的花店.md "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希繼](../Page/天海祐希.md "wikilink")《[BOSS女王](../Page/BOSS.md "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](../Page/富士電視台週四連續劇.md "wikilink")。
+透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](https://zh.wikipedia.org/wiki/家庭劇 "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希繼](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")《[BOSS女王](https://zh.wikipedia.org/wiki/BOSS "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")。
 
 [廣告標語為](../Page/廣告標語.md "wikilink")「**天海祐希，以金牌為目標。**」
 
@@ -12,17 +12,17 @@
 
 ### 早乙女家
 
-  - 早乙女悠里 - [天海祐希](../Page/天海祐希.md "wikilink")
+  - 早乙女悠里 - [天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
 
 <!-- end list -->
 
   -
     42歲。管理健身房·美容院的YS
-    Corporation的[CEO](../Page/執行長.md "wikilink")，頂尖的美容研究家，也在電視上演出。無論再怎麼忙，也親自做家事，希望孩子們在奧運上奪得金牌。從第一代開始收集[麗佳娃娃的人偶](../Page/麗佳娃娃.md "wikilink")。在年幼時因為親眼看見保坂的妻子為了保護自己而被強盜殺死，因而導致精神創傷，對罪犯感到強烈的氣憤。
+    Corporation的[CEO](https://zh.wikipedia.org/wiki/執行長 "wikilink")，頂尖的美容研究家，也在電視上演出。無論再怎麼忙，也親自做家事，希望孩子們在奧運上奪得金牌。從第一代開始收集[麗佳娃娃的人偶](https://zh.wikipedia.org/wiki/麗佳娃娃 "wikilink")。在年幼時因為親眼看見保坂的妻子為了保護自己而被強盜殺死，因而導致精神創傷，對罪犯感到強烈的氣憤。
 
 <!-- end list -->
 
-  - 早乙女修一 - [水上劍星](../Page/水上劍星.md "wikilink")
+  - 早乙女修一 - [水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - 早乙女廉 - [矢野聖人](../Page/矢野聖人.md "wikilink")
+  - 早乙女廉 - [矢野聖人](https://zh.wikipedia.org/wiki/矢野聖人 "wikilink")
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - 早乙女朋 - [大江駿輔](../Page/大江駿輔.md "wikilink")
+  - 早乙女朋 - [大江駿輔](https://zh.wikipedia.org/wiki/大江駿輔 "wikilink")
 
 <!-- end list -->
 
@@ -67,31 +67,31 @@
 
 <!-- end list -->
 
-  - 早乙女惣一 - [夏八木勳](../Page/夏八木勳.md "wikilink")
+  - 早乙女惣一 - [夏八木勳](https://zh.wikipedia.org/wiki/夏八木勳 "wikilink")
 
 <!-- end list -->
 
   -
-    悠-{里}-、修一的父親，[日體協會長](../Page/日本體育協會.md "wikilink")。因為自己沒能獲得金牌，造就了早乙女家的成員無論如何都得獲得奧運金牌的宿命。假造了確定修一與宇津木為親生父子的DNA鑑定報告書，並燒燬修一的遺書。
+    悠-{里}-、修一的父親，[日體協會長](https://zh.wikipedia.org/wiki/日本體育協會 "wikilink")。因為自己沒能獲得金牌，造就了早乙女家的成員無論如何都得獲得奧運金牌的宿命。假造了確定修一與宇津木為親生父子的DNA鑑定報告書，並燒燬修一的遺書。
 
 ### YS Corporation
 
-  - 新倉理佳　 - [長澤雅美](../Page/長澤雅美.md "wikilink")
+  - 新倉理佳　 - [長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")
 
 <!-- end list -->
 
   -
-    24歲。悠-{里}-的秘書。短大畢業，除了靈感特別強以外，幾乎沒有什麼一技之長。因為朋所看中，而被雇用做秘書，不過卻得24小時待命，受制於悠-{里}-。受悠-{里}-之勸，養了一隻名為「小金」的[貴賓狗](../Page/貴婦犬.md "wikilink")。口頭禪是「怎麼會～」。
+    24歲。悠-{里}-的秘書。短大畢業，除了靈感特別強以外，幾乎沒有什麼一技之長。因為朋所看中，而被雇用做秘書，不過卻得24小時待命，受制於悠-{里}-。受悠-{里}-之勸，養了一隻名為「小金」的[貴賓狗](https://zh.wikipedia.org/wiki/貴婦犬 "wikilink")。口頭禪是「怎麼會～」。
 
 <!-- end list -->
 
-  - 相馬幸惠 - [賀來千香子](../Page/賀來千香子.md "wikilink")
+  - 相馬幸惠 - [賀來千香子](https://zh.wikipedia.org/wiki/賀來千香子 "wikilink")
 
 <!-- end list -->
 
   -
     40歲。YS
-    Corporation美容部的負責人。悠-{里}-對她也相當信賴。「10年前，因沉迷於[柏青哥而將自己的孩子丟在車裡](../Page/彈珠機.md "wikilink")，導致其[中暑去世](../Page/中暑.md "wikilink")。」從顧客那裡聽到這則往事的職員開始散播傳言，幸惠為了不給公司帶來麻煩而遞交辭呈。了解情況的悠-{里}-雖極力挽留，仍抵不過她堅決的辭意。
+    Corporation美容部的負責人。悠-{里}-對她也相當信賴。「10年前，因沉迷於[柏青哥而將自己的孩子丟在車裡](../Page/彈珠機.md "wikilink")，導致其[中暑去世](https://zh.wikipedia.org/wiki/中暑 "wikilink")。」從顧客那裡聽到這則往事的職員開始散播傳言，幸惠為了不給公司帶來麻煩而遞交辭呈。了解情況的悠-{里}-雖極力挽留，仍抵不過她堅決的辭意。
 
 <!-- end list -->
 
@@ -105,12 +105,12 @@
 
 <!-- end list -->
 
-  - 保坂次郎 - [志賀廣太郎](../Page/志賀廣太郎.md "wikilink")
+  - 保坂次郎 - [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")
 
 <!-- end list -->
 
   -
-    悠-{里}-的[私人司機](../Page/司機.md "wikilink")。本是惣一的司機，服侍悠-{里}-已經將近20年。妻子是早乙女家的保母，但在悠-{里}-小時候，為保護悠-{里}-而受到強盜殺害，因著這樣的震撼使得他不再開口說話。
+    悠-{里}-的[私人司機](https://zh.wikipedia.org/wiki/司機 "wikilink")。本是惣一的司機，服侍悠-{里}-已經將近20年。妻子是早乙女家的保母，但在悠-{里}-小時候，為保護悠-{里}-而受到強盜殺害，因著這樣的震撼使得他不再開口說話。
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 <!-- end list -->
 
-  - 丹羽勝 - [水野真典](../Page/水野真典.md "wikilink")
+  - 丹羽勝 - [水野真典](https://zh.wikipedia.org/wiki/水野真典 "wikilink")
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
 
 ### 其他
 
-  - 明石辰也 - [寺島進](../Page/寺島進.md "wikilink")
+  - 明石辰也 - [寺島進](https://zh.wikipedia.org/wiki/寺島進 "wikilink")
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@
 
 <!-- end list -->
 
-  - 椎名哲夫 - [平田滿](../Page/平田滿.md "wikilink")（第2集）
+  - 椎名哲夫 - [平田滿](https://zh.wikipedia.org/wiki/平田滿 "wikilink")（第2集）
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@
 
 <!-- end list -->
 
-  - 神代洋治 - [名高達男](../Page/名高達男.md "wikilink")（第7集）
+  - 神代洋治 - [名高達男](https://zh.wikipedia.org/wiki/名高達男 "wikilink")（第7集）
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
 <!-- end list -->
 
-  - 大澤 - [小野武彥](../Page/小野武彥.md "wikilink")（第7集）
+  - 大澤 - [小野武彥](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")（第7集）
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@
 
 <!-- end list -->
 
-  - 笹岡 - [宮崎美子](../Page/宮崎美子.md "wikilink")（第7集）
+  - 笹岡 - [宮崎美子](https://zh.wikipedia.org/wiki/宮崎美子 "wikilink")（第7集）
 
 <!-- end list -->
 
@@ -243,9 +243,9 @@
 ## 工作人員
 
   - 編劇：[野島伸司](../Page/野島伸司.md "wikilink")
-  - 音樂：[千住明](../Page/千住明.md "wikilink")、[池賴廣](../Page/池賴廣.md "wikilink")
-  - 製作人：[東康之](../Page/東康之.md "wikilink")
-  - 導演：[河毛俊作](../Page/河毛俊作.md "wikilink")、[加藤裕將](../Page/加藤裕將.md "wikilink")、[石井祐介](../Page/石井祐介.md "wikilink")
+  - 音樂：[千住明](../Page/千住明.md "wikilink")、[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 製作人：[東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
+  - 導演：[河毛俊作](https://zh.wikipedia.org/wiki/河毛俊作 "wikilink")、[加藤裕將](https://zh.wikipedia.org/wiki/加藤裕將 "wikilink")、[石井祐介](https://zh.wikipedia.org/wiki/石井祐介 "wikilink")
   - 製作：富士電視台電視劇製作中心
 
 ## 主題曲
@@ -442,7 +442,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率 8.9%（<a href="../Page/收視率.md" title="wikilink">收視率為</a><a href="../Page/關東地方.md" title="wikilink">關東地區</a>·<a href="../Page/Video_Research.md" title="wikilink">Video Research公司調查</a>）</p></td>
+<td><p>平均收視率 8.9%（<a href="https://zh.wikipedia.org/wiki/收視率" title="wikilink">收視率為</a><a href="../Page/關東地方.md" title="wikilink">關東地區</a>·<a href="../Page/Video_Research.md" title="wikilink">Video Research公司調查</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -467,7 +467,7 @@
 
 ## 相關條目
 
-  - [2012年夏季奧林匹克運動會](../Page/2012年夏季奧林匹克運動會.md "wikilink")
+  - [2012年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/2012年夏季奧林匹克運動會 "wikilink")
 
 [Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
 [Category:野島伸司劇本作品](https://zh.wikipedia.org/wiki/Category:野島伸司劇本作品 "wikilink")

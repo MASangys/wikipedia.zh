@@ -1,9 +1,9 @@
 **Eunos
-300**（）是[日本](../Page/日本.md "wikilink")[馬自達於](../Page/馬自達.md "wikilink")1990年代採多品牌與銷售渠道策略，掛上副品牌「[Eunos](../Page/Eunos.md "wikilink")」並於該經銷商體系發售的四門運動型[轎車](../Page/轎車.md "wikilink")，其兄弟車為[馬自達Persona](../Page/馬自達Persona.md "wikilink")。
+300**（）是[日本](../Page/日本.md "wikilink")[馬自達於](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1990年代採多品牌與銷售渠道策略，掛上副品牌「[Eunos](../Page/Eunos.md "wikilink")」並於該經銷商體系發售的四門運動型[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")，其兄弟車為[馬自達Persona](../Page/馬自達Persona.md "wikilink")。
 
-1989年10月開始在[日本上市](../Page/日本.md "wikilink")，外觀以其兄弟車[Persona為藍本而設計](../Page/馬自達Persona.md "wikilink")，相異之處為車頭進氣柵、四顆圓型尾燈、運動化座椅等，事實上[底盤](../Page/底盤.md "wikilink")、[引擎](../Page/發動機.md "wikilink")、煞車、[懸吊系統等主要機械元件仍舊共用](../Page/懸吊系統.md "wikilink")。該款車在[Eunos品牌系列裡屬於中等級距車種](../Page/Eunos.md "wikilink")。
+1989年10月開始在[日本上市](../Page/日本.md "wikilink")，外觀以其兄弟車[Persona為藍本而設計](../Page/馬自達Persona.md "wikilink")，相異之處為車頭進氣柵、四顆圓型尾燈、運動化座椅等，事實上[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")、[引擎](https://zh.wikipedia.org/wiki/發動機 "wikilink")、煞車、[懸吊系統等主要機械元件仍舊共用](../Page/懸吊系統.md "wikilink")。該款車在[Eunos品牌系列裡屬於中等級距車種](../Page/Eunos.md "wikilink")。
 
-縱然[馬自達替這部車設計出](../Page/馬自達.md "wikilink")[跑車式的特點企圖刺激銷售](../Page/跑車.md "wikilink")，但是事與願違，總共只出售了4,746輛而已。隨後因[Persona停產](../Page/馬自達Persona.md "wikilink")，這部車也正式下線。
+縱然[馬自達替這部車設計出](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[跑車式的特點企圖刺激銷售](https://zh.wikipedia.org/wiki/跑車 "wikilink")，但是事與願違，總共只出售了4,746輛而已。隨後因[Persona停產](../Page/馬自達Persona.md "wikilink")，這部車也正式下線。
 {{-}}
 
 ## 內部連結

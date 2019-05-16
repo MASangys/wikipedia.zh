@@ -1,5 +1,5 @@
 《**MIDNIGHT
-BLUE**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")9張[單曲](../Page/單曲.md "wikilink")。1995年7月21日由[STARCHILD](../Page/STARCHILD.md "wikilink")（[King
+BLUE**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年7月21日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
 Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 解說

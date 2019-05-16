@@ -1,6 +1,6 @@
 **McFadyen-Stevens反应**（McFadyen-Stevens reaction）
 
-碱催化下，[酰基](../Page/酰基.md "wikilink")[磺酰肼发生热分解](../Page/磺酰肼.md "wikilink")，生成相应的[醛类](../Page/醛.md "wikilink")。\[1\]\[2\]
+碱催化下，[酰基](../Page/酰基.md "wikilink")[磺酰肼发生热分解](https://zh.wikipedia.org/wiki/磺酰肼 "wikilink")，生成相应的[醛类](../Page/醛.md "wikilink")。\[1\]\[2\]
 
 
 [McFadyen-Stevens_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:McFadyen-Stevens_Reaction_Scheme.png "fig:McFadyen-Stevens_Reaction_Scheme.png")
@@ -32,14 +32,18 @@ Dudman 等发展了一种不同的酰肼试剂。\[3\]
 [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  McFadyen, J. S.; Stevens, T. S. *[J. Chem.
-    Soc.](../Page/J._Chem._Soc..md "wikilink")* **1936**, 584.
+    Soc.](https://zh.wikipedia.org/wiki/J._Chem._Soc. "wikilink")*
+    **1936**, 584.
 2.  Mosettig, E. *Org. React.* **1954**, *8*, 232-240. (Review)
 3.  Dudman, C. C. *et al.* *[Tetrahedron
-    Lett.](../Page/Tetrahedron_Lett..md "wikilink")* **1980**, 4645.
+    Lett.](https://zh.wikipedia.org/wiki/Tetrahedron_Lett. "wikilink")*
+    **1980**, 4645.
 4.  Brown, V. M.; Carter, P. H.; Tomlinson, M. *[J. Chem.
-    Soc.](../Page/J._Chem._Soc..md "wikilink")* **1958**, 1843.
+    Soc.](https://zh.wikipedia.org/wiki/J._Chem._Soc. "wikilink")*
+    **1958**, 1843.
 5.  Campaigne, E.; Thompson, R. L.; Van Werth, J. E. *[J. Med.
-    Chem.](../Page/J._Med._Chem..md "wikilink")* **1959**, *1*, 577.
+    Chem.](https://zh.wikipedia.org/wiki/J._Med._Chem. "wikilink")*
+    **1959**, *1*, 577.
 6.  Martin, S. B.; Craig, J. C.; Chan, R. P. K. *[J. Org.
-    Chem.](../Page/J._Org._Chem..md "wikilink")* **1974**, *39*, 2285 -
-    2289. ()
+    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")*
+    **1974**, *39*, 2285 - 2289. ()

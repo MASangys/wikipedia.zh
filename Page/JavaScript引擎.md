@@ -1,19 +1,19 @@
-**JavaScript引擎**是一个专门处理[JavaScript脚本的](../Page/JavaScript.md "wikilink")[虚拟机](../Page/虚拟机.md "wikilink")，一般会附带在[网页浏览器之中](../Page/网页浏览器.md "wikilink")。
+**JavaScript引擎**是一个专门处理[JavaScript脚本的](../Page/JavaScript.md "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，一般会附带在[网页浏览器之中](../Page/网页浏览器.md "wikilink")。
 
 ## 历史
 
 在2008年到2009年的第二次[浏览器大战之前](../Page/浏览器大战.md "wikilink")，JavaScript引擎仅简单地被当作能阅读执行[JavaScript](../Page/JavaScript.md "wikilink")[源代码的](../Page/源代码.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")。
 
-第一個JavaScript引擎由[布蘭登·艾克在](../Page/布蘭登·艾克.md "wikilink")[网景公司开发](../Page/网景公司.md "wikilink")，用于[Netscape
+第一個JavaScript引擎由[布蘭登·艾克在](../Page/布蘭登·艾克.md "wikilink")[网景公司开发](https://zh.wikipedia.org/wiki/网景公司 "wikilink")，用于[Netscape
 Navigator](../Page/网景导航者.md "wikilink")[网页浏览器中](../Page/网页浏览器.md "wikilink")。引擎的名字叫做[SpiderMonkey](../Page/SpiderMonkey.md "wikilink")，由[C++实现](../Page/C++.md "wikilink")。它自JavaScript
 1.5升级以符合ECMA-262版本3。[Rhino引擎](../Page/Rhino_\(JavaScript引擎\).md "wikilink")，由网景公司的諾里斯·博伊德（Norris
 Boyd）开发，由[Java实现](../Page/Java.md "wikilink")。像SpiderMonkey一样，Rhino符合ECMA-262版本3。JavaScript引擎的應用例子還包括：Apple
 [Safari](../Page/Safari.md "wikilink") 4的Nitro，[Google
 Chrome的](../Page/Google_Chrome.md "wikilink")[V8和Mozilla](../Page/V8_\(JavaScript引擎\).md "wikilink")
 [Firefox
-3.5的](../Page/Firefox歷史#Firefox_3.5.md "wikilink")[TraceMonkey](../Page/SpiderMonkey#TraceMonkey.md "wikilink")。
+3.5的](https://zh.wikipedia.org/wiki/Firefox歷史#Firefox_3.5 "wikilink")[TraceMonkey](https://zh.wikipedia.org/wiki/SpiderMonkey#TraceMonkey "wikilink")。
 
-目前为止，最通用的JavaScript宿主环境是网页浏览器。网页浏览器一般使用公共的[API创建](../Page/API.md "wikilink")“宿主对象”以便于在[JavaScript中支持](../Page/JavaScript.md "wikilink")[DOM](../Page/DOM.md "wikilink")。
+目前为止，最通用的JavaScript宿主环境是网页浏览器。网页浏览器一般使用公共的[API创建](https://zh.wikipedia.org/wiki/API "wikilink")“宿主对象”以便于在[JavaScript中支持](../Page/JavaScript.md "wikilink")[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")。
 
 ## 性能演進
 
@@ -25,7 +25,7 @@ Sunspider是一个通过一系列关于JavaScript语言的脚本测试JavaScript
 近幾年來，在浏览器开发者之间展开了一场开发更快的JavaScript引擎的竞赛。2008年，[Google
 Chrome因它的JavaScript性能而倍受称赞](../Page/Google_Chrome.md "wikilink")，但是其它浏览器马上使用了更快的JavaScript引擎。之后，Google
 Chrome在性能上获得领先，其长处在于它高速的性能和JavaScript的处理速度，这些都由许多网站在主要的浏览器之间的速度测试中得到验证\[1\]\[2\]\[3\]。随着WebKit的[Squirrelfish
-Extreme和Mozilla的](../Page/WebKit#更進一步發展.md "wikilink")[TraceMonkey](../Page/SpiderMonkey.md "wikilink")
+Extreme和Mozilla的](https://zh.wikipedia.org/wiki/WebKit#更進一步發展 "wikilink")[TraceMonkey](../Page/SpiderMonkey.md "wikilink")
 JavaScript虚拟机出现，Chrome的JavaScript执行速度就被超越了\[4\]\[5\]\[6\]\[7\]。Google丹麦在Chrome
 2中开发了更快速的[V8引擎](../Page/V8_\(JavaScript引擎\).md "wikilink")。
 
@@ -39,33 +39,39 @@ JavaScript虚拟机出现，Chrome的JavaScript执行速度就被超越了\[4\]\
 
   - [Rhino](../Page/Rhino_\(JavaScript引擎\).md "wikilink")，由Mozilla基金会管理，开放源代码，完全以Java编写。
   - [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")，第一款JavaScript引擎，早期用於[Netscape
-    Navigator](../Page/Netscape_Navigator.md "wikilink")，現時用於[Mozilla
-    Firefox](../Page/Mozilla_Firefox.md "wikilink")。
+    Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")，現時用於[Mozilla
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
   - [V8](../Page/V8_\(JavaScript引擎\).md "wikilink")，开放源代码，由Google丹麦开发，是Google
     Chrome的一部分。
-  - [JavaScriptCore](../Page/WebKit#JavaScriptCore.md "wikilink")，开放源代码，用於[Safari](../Page/Safari.md "wikilink")。
+  - [JavaScriptCore](https://zh.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")，开放源代码，用於[Safari](../Page/Safari.md "wikilink")。
   - [Chakra
     (JScript引擎)](../Page/Chakra_\(JScript引擎\).md "wikilink")，用於[Internet
     Explorer](../Page/Internet_Explorer.md "wikilink")\[11\]。
   - [Chakra
-    (JavaScript引擎)](../Page/Chakra_\(JavaScript引擎\).md "wikilink")，用於[Microsoft
+    (JavaScript引擎)](https://zh.wikipedia.org/wiki/Chakra_\(JavaScript引擎\) "wikilink")，用於[Microsoft
     Edge](../Page/Microsoft_Edge.md "wikilink")。
   - [KJS](../Page/KJS.md "wikilink")，KDE的ECMAScript／JavaScript引擎，最初由开发，用于KDE项目的Konqueror网页浏览器中。
 
 ### 停止開發
 
-  - [Linear A](../Page/Linear_A.md "wikilink")，用于Opera 4.0至6.1版本。
+  - [Linear
+    A](https://zh.wikipedia.org/wiki/Linear_A "wikilink")，用于Opera
+    4.0至6.1版本。
 
-  - [Linear B](../Page/Linear_B.md "wikilink")，用于Opera 7.0至9.2版本。
+  - [Linear
+    B](https://zh.wikipedia.org/wiki/Linear_B "wikilink")，用于Opera
+    7.0至9.2版本。
 
-  - [Futhark](../Page/Futhark.md "wikilink")，用于Opera 9.5至10.2版本。
+  - [Futhark](https://zh.wikipedia.org/wiki/Futhark "wikilink")，用于Opera
+    9.5至10.2版本。
 
-  - [Carakan](../Page/Carakan.md "wikilink")，用于Opera 10.5至12.1版本。
+  - [Carakan](https://zh.wikipedia.org/wiki/Carakan "wikilink")，用于Opera
+    10.5至12.1版本。
 
   - ，开放源代码，由[布蘭登·艾克编写](../Page/布蘭登·艾克.md "wikilink")（他也编写了SpiderMonkey）。
 
   - [Tamarin](../Page/Tamarin_\(軟體\).md "wikilink")，由[Adobe
-    Labs编写](../Page/Adobe_Systems.md "wikilink")。
+    Labs编写](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")。
 
 ## 实现
 
@@ -88,22 +94,22 @@ JavaScript是一种[ECMAScript方言](../Page/ECMAScript.md "wikilink")，在许
 <td><p>ECMA-262，版本6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mozilla_Firefox.md" title="wikilink">Mozilla Firefox</a>，<a href="../Page/Gecko.md" title="wikilink">Gecko排版引擎</a>，<a href="../Page/SpiderMonkey.md" title="wikilink">SpiderMonkey和</a><a href="../Page/Rhino_(JavaScript引擎).md" title="wikilink">Rhino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox</a>，<a href="../Page/Gecko.md" title="wikilink">Gecko排版引擎</a>，<a href="../Page/SpiderMonkey.md" title="wikilink">SpiderMonkey和</a><a href="../Page/Rhino_(JavaScript引擎).md" title="wikilink">Rhino</a></p></td>
 <td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a> 1.8.5</p></td>
 <td><p>ECMA-262，版本6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Safari.md" title="wikilink">Safari</a>，<a href="../Page/WebKit#JavaScriptCore.md" title="wikilink">Nitro引擎</a></p></td>
+<td><p><a href="../Page/Safari.md" title="wikilink">Safari</a>，<a href="https://zh.wikipedia.org/wiki/WebKit#JavaScriptCore" title="wikilink">Nitro引擎</a></p></td>
 <td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a></p></td>
 <td><p>ECMA-262，版本6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Microsoft_Edge.md" title="wikilink">Microsoft Edge</a>，<a href="../Page/Chakra_(JavaScript引擎).md" title="wikilink">Chakra引擎</a></p></td>
+<td><p><a href="../Page/Microsoft_Edge.md" title="wikilink">Microsoft Edge</a>，<a href="https://zh.wikipedia.org/wiki/Chakra_(JavaScript引擎)" title="wikilink">Chakra引擎</a></p></td>
 <td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a></p></td>
 <td><p>EMCA-262，版本6</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Opera電腦瀏覽器.md" title="wikilink">Opera</a>，Carakan引擎（改用V8之前）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Opera電腦瀏覽器" title="wikilink">Opera</a>，Carakan引擎（改用V8之前）</p></td>
 <td><p>一些<a href="../Page/JavaScript.md" title="wikilink">JavaScript</a> 1.5特性及一些<a href="../Page/JScript.md" title="wikilink">JScript扩展</a>[12]</p></td>
 <td><p>ECMA-262，版本5.1</p></td>
 </tr>
@@ -129,7 +135,7 @@ JavaScript是一种[ECMAScript方言](../Page/ECMAScript.md "wikilink")，在许
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a> 1.5附带<a href="../Page/Rich_Media_Access_Interface.md" title="wikilink">RMAI扩展</a></p></td>
+<td><p><a href="../Page/JavaScript.md" title="wikilink">JavaScript</a> 1.5附带<a href="https://zh.wikipedia.org/wiki/Rich_Media_Access_Interface" title="wikilink">RMAI扩展</a></p></td>
 <td><p>ECMA-262，版本3</p></td>
 </tr>
 </tbody>

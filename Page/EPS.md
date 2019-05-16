@@ -1,7 +1,7 @@
 **EPS**（英文全称：）是[PostScript的一种延伸类型](../Page/PostScript.md "wikilink")。多用于[单镜反光相机](../Page/单镜反光相机.md "wikilink")。
 
 EPS（Encapsulated
-PostScript）是目前系統中功能最強的一種圖檔格式，向量及點陣圖皆可包容，向量圖形的EPS檔可以在[Illustrator及](../Page/Illustrator.md "wikilink")[CorelDraw中修改](../Page/CorelDraw.md "wikilink")，也可再載入到[Photoshop中做影像合成](../Page/Photoshop.md "wikilink")，可以在任何的作業平台及高解析度輸出設備上，輸出色彩精確的向量或點陣圖，是做分色印刷美工排版人員最愛使用的圖檔格式。
+PostScript）是目前系統中功能最強的一種圖檔格式，向量及點陣圖皆可包容，向量圖形的EPS檔可以在[Illustrator及](https://zh.wikipedia.org/wiki/Illustrator "wikilink")[CorelDraw中修改](https://zh.wikipedia.org/wiki/CorelDraw "wikilink")，也可再載入到[Photoshop中做影像合成](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，可以在任何的作業平台及高解析度輸出設備上，輸出色彩精確的向量或點陣圖，是做分色印刷美工排版人員最愛使用的圖檔格式。
 
 EPS格式的缺點是檔案通常相當大，而且除非使用[PostScript印表機](../Page/PostScript.md "wikilink")，否則只能印出低解析度的預視檔或根本印不出圖形。萬一真要在不支援PostScript的輸出設備上輸出EPS檔，唯一的方法是先使用RIP（Raster
 Image Processor）程式將其轉換成點陣圖格式，再列印。
@@ -12,8 +12,8 @@ Language）兩種。PostScript是Adobe公司所提出的一種列印語言，它
 ## 参见
 
   - [PostScript](../Page/PostScript.md "wikilink")
-  - [PDF](../Page/PDF.md "wikilink")
-  - [SVG](../Page/SVG.md "wikilink")
+  - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")
+  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")
 
 ## 參考
 

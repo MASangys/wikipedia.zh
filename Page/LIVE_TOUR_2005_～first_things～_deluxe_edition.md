@@ -1,11 +1,11 @@
 「**LIVE TOUR 2005 ～first things～ deluxe edition**」（2005 巡迴演唱會
-～初體驗～豪華版）為[倖田來未於](../Page/倖田來未.md "wikilink")2006年9月13日發行之演唱會DVD。[DVD](../Page/DVD.md "wikilink")2片裝。
+～初體驗～豪華版）為[倖田來未於](../Page/倖田來未.md "wikilink")2006年9月13日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
 
 ## 解說
 
-  - 收錄[倖田來未](../Page/倖田來未.md "wikilink")2005年巡迴演唱會於[大阪的DVD影像作品](../Page/大阪.md "wikilink")。
+  - 收錄[倖田來未](../Page/倖田來未.md "wikilink")2005年巡迴演唱會於[大阪的DVD影像作品](https://zh.wikipedia.org/wiki/大阪 "wikilink")。
   - 因去年發行的演唱會影像作品「[secret ～FIRST CLASS LIMITED
-    LIVE～](../Page/secret_～FIRST_CLASS_LIMITED_LIVE～.md "wikilink")」熱賣，再加上歌迷響應，於是推出LIVE
+    LIVE～](https://zh.wikipedia.org/wiki/secret_～FIRST_CLASS_LIMITED_LIVE～ "wikilink")」熱賣，再加上歌迷響應，於是推出LIVE
     DVD「2005巡迴演唱會～初體驗～」（因為在精選「[BEST～second
     session～](../Page/BEST～second_session～.md "wikilink")」的初回限定CD+2DVD中已有本LIVE
     DVD的DISC 1影像）。

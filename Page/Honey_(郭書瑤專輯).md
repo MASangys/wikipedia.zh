@@ -1,4 +1,4 @@
-《**郭書瑤首張同名專輯**》為[台灣女](../Page/台灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[郭書瑤的第一張專輯](../Page/郭書瑤.md "wikilink")，也是出道以來第二張音樂作品，於2010年8月5日全面預購\[1\]，亦於8月21日正式發行。專輯收錄十首新歌，其中包括主打歌「Honey」。
+《**郭書瑤首張同名專輯**》為[台灣女](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[郭書瑤的第一張專輯](../Page/郭書瑤.md "wikilink")，也是出道以來第二張音樂作品，於2010年8月5日全面預購\[1\]，亦於8月21日正式發行。專輯收錄十首新歌，其中包括主打歌「Honey」。
 
 ## 曲目
 
@@ -40,14 +40,14 @@ Alex(顏庭笙)</p></td>
 <tr class="odd">
 <td><p>Di Di Da</p></td>
 <td><p>2010年9月2日</p></td>
-<td><p><a href="../Page/MTV.md" title="wikilink">MTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
 <td><p>賴偉康</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>好姊妹</p></td>
 <td><p>2010年9月20日</p></td>
-<td><p><a href="../Page/MTV.md" title="wikilink">MTV</a><ref>{{cite news</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a><ref>{{cite news</p></td>
 <td><p>title = 郭書瑤 第四波主打「好姊妹」親妹首次曝光入鏡展現姊妹情深</p></td>
 <td><p>url = <a href="http://ent.msn.com.tw/news/content.aspx?sn=1009200015">http://ent.msn.com.tw/news/content.aspx?sn=1009200015</a></p></td>
 </tr>

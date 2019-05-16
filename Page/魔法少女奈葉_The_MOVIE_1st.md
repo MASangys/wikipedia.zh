@@ -1,9 +1,9 @@
 《**魔法少女奈葉 The MOVIE
-1st**》（[日語](../Page/日語.md "wikilink")：）是[魔法少女奈葉系列的第一部](../Page/魔法少女奈葉系列.md "wikilink")[劇場版動畫](../Page/劇場版.md "wikilink")，根據系列的[電視動畫第一作](../Page/電視動畫.md "wikilink")《[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink")》改編，于2010年1月23日公映。
+1st**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[魔法少女奈葉系列的第一部](../Page/魔法少女奈葉系列.md "wikilink")[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，根據系列的[電視動畫第一作](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》改編，于2010年1月23日公映。
 
 ## 概要
 
-此劇場版是根據2004年[魔法少女奈葉系列的第一期電視動畫](../Page/魔法少女奈葉系列.md "wikilink")《[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami
+此劇場版是根據2004年[魔法少女奈葉系列的第一期電視動畫](../Page/魔法少女奈葉系列.md "wikilink")《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》（全13話）改編，以原有的故事情節，構筑新的腳本，添加新的設定而成的新製作。2008年7月在《[Megami
 MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》第100號的紀念號上公布劇場版的製作決定\[1\]，原本計劃在2009年公映，但其後推遲到2010年1月。
 
 根據此劇場版所作的漫畫《魔法少女奈葉 The MOVIE 1st THE COMICS》從《[Megami
@@ -14,25 +14,25 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 
   - [高町奈葉](../Page/高町奈葉.md "wikilink")：[田村由香里](../Page/田村由香里.md "wikilink")
   - [菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
-  - [尤諾·斯克萊亞](../Page/尤諾·斯克萊亞.md "wikilink")：[水橋香織](../Page/水橋香織.md "wikilink")
-  - [艾爾芙](../Page/艾爾芙.md "wikilink")：[桑谷夏子](../Page/桑谷夏子.md "wikilink")
-  - [克羅諾·哈洛溫](../Page/克羅諾·哈洛溫.md "wikilink")：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
+  - [尤諾·斯克萊亞](https://zh.wikipedia.org/wiki/尤諾·斯克萊亞 "wikilink")：[水橋香織](../Page/水橋香織.md "wikilink")
+  - [艾爾芙](https://zh.wikipedia.org/wiki/艾爾芙 "wikilink")：[桑谷夏子](../Page/桑谷夏子.md "wikilink")
+  - [克羅諾·哈洛溫](https://zh.wikipedia.org/wiki/克羅諾·哈洛溫 "wikilink")：[高橋美佳子](../Page/高橋美佳子.md "wikilink")
   - 普蕾希亞·泰斯塔羅沙：[五十嵐麗](../Page/五十嵐麗.md "wikilink")
   - 艾莉希亞·泰斯塔羅沙：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
-  - 莉妮絲：[淺野真澄](../Page/淺野真澄.md "wikilink")
+  - 莉妮絲：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
   - 艾蜜·里米艾塔：[松岡由貴](../Page/松岡由貴.md "wikilink")
-  - 琳蒂·哈洛溫：[久川綾](../Page/久川綾.md "wikilink")
+  - 琳蒂·哈洛溫：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")
 
 \[3\]
 
 ## 製作團隊
 
   - 原作、腳本 - [都築真紀](../Page/都築真紀.md "wikilink")
-  - 監督 - [草川啓造](../Page/草川啓造.md "wikilink")
+  - 監督 - [草川啓造](https://zh.wikipedia.org/wiki/草川啓造 "wikilink")
   - 人物設計、概念設計、總作畫監督 - 奥田泰弘
   - 生物設計 - 宮澤努、橋本貴吉
   - 分鏡 -
-    草川啓造、岩井優器、[松井仁之](../Page/松井仁之.md "wikilink")、[大森英敏](../Page/大森英敏.md "wikilink")、[坂田純一](../Page/坂田純一.md "wikilink")、宮澤努
+    草川啓造、岩井優器、[松井仁之](https://zh.wikipedia.org/wiki/松井仁之 "wikilink")、[大森英敏](https://zh.wikipedia.org/wiki/大森英敏 "wikilink")、[坂田純一](https://zh.wikipedia.org/wiki/坂田純一 "wikilink")、宮澤努
   - 演出 - 奥野耕太、小林浩輔
   - 作畫監督 - 橋本貴吉、宮澤努、清水祐実、長町英樹、砂川正和、加藤剣、古池敏也、烏宏明、相坂ナオキ、安本学、井畑翔太、大貫望
   - 美術監督 - 片平真司
@@ -40,7 +40,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
   - 攝影監督、主要演出 - 中山敦史
   - 編輯 - 関一彦
   - 音響監督 - [明田川仁](../Page/明田川仁.md "wikilink")
-  - 音樂 - [佐野廣明](../Page/佐野廣明.md "wikilink")
+  - 音樂 - [佐野廣明](https://zh.wikipedia.org/wiki/佐野廣明 "wikilink")
   - 製作人 - [三嶋章夫](../Page/三嶋章夫.md "wikilink")、田中辰彌、清水博之
   - 動畫製作 - [Seven Arcs](../Page/Seven_Arcs.md "wikilink")
   - 企劃、製作 - NANOHA The MOVIE 1st
@@ -55,7 +55,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 <!-- end list -->
 
   - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；作曲：吉木繪里子；編曲：陶山隼；歌：水樹奈奈（[King
-    Records](../Page/King_Records.md "wikilink")）\[5\]
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）\[5\]
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》2009年10月號起連載。\[
 2.
 
 3.
-4.  [キネマ旬報データベース「作品情報」](http://www.kinejun.jp/cinema/id/40581)より。なお、[エンドロールには括弧内の各社名は表示されていない](../Page/クレジットタイトル.md "wikilink")。
+4.  [キネマ旬報データベース「作品情報」](http://www.kinejun.jp/cinema/id/40581)より。なお、[エンドロールには括弧内の各社名は表示されていない](https://zh.wikipedia.org/wiki/クレジットタイトル "wikilink")。
 
 5.  [](http://music.jp.msn.com/news/article.aspx?articleid=201978)
 

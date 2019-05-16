@@ -23,7 +23,7 @@ Land」。
   -
     **Aaruru**（アルル）
 
-護士型K隆星人，長得有點像[Pururu醫護長](../Page/Pururu.md "wikilink")。
+護士型K隆星人，長得有點像[Pururu醫護長](https://zh.wikipedia.org/wiki/Pururu "wikilink")。
 
   -
     **Gururu**（グルル）
@@ -123,7 +123,7 @@ Land」。
   -
     **Nuii**（ヌイイ）
       -
-        布偶型K隆星人。188話與Gyororo一起登場，介紹詳見[Syurara軍團](../Page/Syurara軍團.md "wikilink")。
+        布偶型K隆星人。188話與Gyororo一起登場，介紹詳見[Syurara軍團](https://zh.wikipedia.org/wiki/Syurara軍團 "wikilink")。
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@ Land」。
   -
     **Putata**（プタタ）
       -
-        159話和161與Mekeke一起登場，塗鴉型K隆星人。介紹詳見[Syurara軍團](../Page/Syurara軍團.md "wikilink")
+        159話和161與Mekeke一起登場，塗鴉型K隆星人。介紹詳見[Syurara軍團](https://zh.wikipedia.org/wiki/Syurara軍團 "wikilink")
     **Toriri**（トリリ）
 
 <!-- end list -->
@@ -189,7 +189,7 @@ Land」。
   -
     **Gyororo**（ギョロロ）
       -
-        在動畫版159話和161話以雙眼登場，188話與Nuii一起登場。介紹詳見[Syurara軍團](../Page/Keroro軍曹主要人物列表.md "wikilink")
+        在動畫版159話和161話以雙眼登場，188話與Nuii一起登場。介紹詳見[Syurara軍團](https://zh.wikipedia.org/wiki/Keroro軍曹主要人物列表 "wikilink")
     **Purara**（プララ）
 
 <!-- end list -->

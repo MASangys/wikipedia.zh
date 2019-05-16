@@ -1,10 +1,10 @@
 『**BEST ～BOUNCE & LOVERS～**』（影音雙體驗～媚影 &
-情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張抒情](../Page/倖田來未.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")。
+情歌極選～），2007年3月14日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張抒情](../Page/倖田來未.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 附註
 
-  - 本[精選輯自](../Page/精選輯.md "wikilink")2006年3月8日發行的『[BEST～second
-    session～再體驗\~第二次精選\~](../Page/BEST～second_session～再體驗~第二次精選~.md "wikilink")』約隔一年多。與35th單曲「（BUT/愛的證明）」同日發行。
+  - 本[精選輯自](https://zh.wikipedia.org/wiki/精選輯 "wikilink")2006年3月8日發行的『[BEST～second
+    session～再體驗\~第二次精選\~](https://zh.wikipedia.org/wiki/BEST～second_session～再體驗~第二次精選~ "wikilink")』約隔一年多。與35th單曲「（BUT/愛的證明）」同日發行。
 
 <!-- end list -->
 
@@ -18,12 +18,13 @@
 <!-- end list -->
 
   - DVD收錄的內容為**舞蹈精選**，內容為舞蹈板的音樂錄影帶，本作以舞蹈為中心將其重新再編輯，且收錄5th專輯「[Black
-    Cherry 黑色櫻桃](../Page/Black_Cherry_黑色櫻桃.md "wikilink")」中的「**Get Up &
-    Move\!\!**」的音樂錄影帶，以及其舞蹈教學（特典影像）。
+    Cherry
+    黑色櫻桃](https://zh.wikipedia.org/wiki/Black_Cherry_黑色櫻桃 "wikilink")」中的「**Get
+    Up & Move\!\!**」的音樂錄影帶，以及其舞蹈教學（特典影像）。
 
 <!-- end list -->
 
-  - 本來預定為生產35萬張的「枚数限定生産」的發行樣式，在發行前[avex臨時變更為](../Page/avex.md "wikilink")「期間限定生産」。
+  - 本來預定為生產35萬張的「枚数限定生産」的發行樣式，在發行前[avex臨時變更為](https://zh.wikipedia.org/wiki/avex "wikilink")「期間限定生産」。
 
 ## 發行版本
 

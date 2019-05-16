@@ -3,10 +3,11 @@ WiSH的歌曲全輯](../Page/I_WiSH.md "wikilink")。台灣並未代理。
 
 ## 解說
 
-  - 以「I WiSH期間限定的復活！」為標語，在期間限定復活時所發表的[專輯](../Page/專輯.md "wikilink")。
+  - 以「I
+    WiSH期間限定的復活！」為標語，在期間限定復活時所發表的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 初回限定版乃將包裝的盒子擴張到可以裝入同時發售的單曲「[LOVE SONGS 4
-YOU](../Page/LOVE_SONGS_4_YOU.md "wikilink")」。也因為如此，盒子變得相當厚\[1\]。
+YOU](https://zh.wikipedia.org/wiki/LOVE_SONGS_4_YOU "wikilink")」。也因為如此，盒子變得相當厚\[1\]。
 
 ## 收錄曲\[2\]
 

@@ -1,29 +1,29 @@
 [NERVA.jpg](https://zh.wikipedia.org/wiki/File:NERVA.jpg "fig:NERVA.jpg")
 **NERVA**（**N**uclear **E**ngine for **R**ocket **V**ehicle
-**A**pplication，火箭飞行器用核引擎）是美国[原子能委员会](../Page/原子能委员会.md "wikilink")(Atomic
+**A**pplication，火箭飞行器用核引擎）是美国[原子能委员会](https://zh.wikipedia.org/wiki/原子能委员会 "wikilink")(Atomic
 Energy
-Commission,简称AEC)和[NASA旗下的项目](../Page/NASA.md "wikilink")，由[航天核推进局](../Page/航天核推进局.md "wikilink")(Space
+Commission,简称AEC)和[NASA旗下的项目](https://zh.wikipedia.org/wiki/NASA "wikilink")，由[航天核推进局](https://zh.wikipedia.org/wiki/航天核推进局 "wikilink")(Space
 Nuclear Propulsion Office，简称SNPO)领导。整个项目于1972年终止，SNPO也于同年解散。
 [缩略图](https://zh.wikipedia.org/wiki/File:Bradbury_in_front_of_Kiwi_B4-A_reactor_N6211910.jpg "fig:缩略图")
-NERVA计划论证了[核热力火箭可以成为太空探索的一项可现实可靠的工具](../Page/核热力火箭.md "wikilink")。在1968年底，SNPO测试完成最新型号的NERVA引擎——NRX/XE后，认为NERVA可以用于载人火星任务。尽管NERVA引擎在测试后已经被认可可以胜任飞行任务，而且引擎也正准备整合入宇航器中，但在最终飞往火星的梦想实现前，NERVA随同其他耗资巨大的太空任务被尼克松政府取消。
+NERVA计划论证了[核热力火箭可以成为太空探索的一项可现实可靠的工具](https://zh.wikipedia.org/wiki/核热力火箭 "wikilink")。在1968年底，SNPO测试完成最新型号的NERVA引擎——NRX/XE后，认为NERVA可以用于载人火星任务。尽管NERVA引擎在测试后已经被认可可以胜任飞行任务，而且引擎也正准备整合入宇航器中，但在最终飞往火星的梦想实现前，NERVA随同其他耗资巨大的太空任务被尼克松政府取消。
 
 NERVA曾被AEC，SNPO和NASA寄予厚望，而实际上，整个项目的成就也达到甚至超过它原先的目标。NERVA最主要的任务是“为太空任务提供核动力推进系统的科技基础”。\[1\]
 [缩略图](https://zh.wikipedia.org/wiki/File:NERVAPewee2.jpg "fig:缩略图")
 
 ## 历史
 
-[洛斯阿拉莫斯实验室于](../Page/洛斯阿拉莫斯实验室.md "wikilink")1952年开始研发核动力火箭。1955年，[劳伦斯-利弗莫国家实验室的副主任找到了一种方法得以大幅度减轻反应堆重量使得项目提速](../Page/劳伦斯-利弗莫国家实验室.md "wikilink")，之后该项目开始被称之为“[流浪狗计划](../Page/流浪狗计划.md "wikilink")”。到1961年，由于“[流浪狗计划](../Page/流浪狗计划.md "wikilink")”的飞速进度，NASA的[马歇尔太空飞行中心开始考虑在他们的太空任务中使用核动力火箭](../Page/马歇尔太空飞行中心.md "wikilink")。[马歇尔太空飞行中心计划最早在](../Page/马歇尔太空飞行中心.md "wikilink")1964年使用来自于洛斯阿拉莫斯实验室研发的核动力火箭将核动力空间试验机（RIFT：Reactor-In-Flight-Test
-）发射升空。由于来自于此类太空任务的计划与需求，一个被称为“[航天核推进局](../Page/航天核推进局.md "wikilink")”（Space
+[洛斯阿拉莫斯实验室于](https://zh.wikipedia.org/wiki/洛斯阿拉莫斯实验室 "wikilink")1952年开始研发核动力火箭。1955年，[劳伦斯-利弗莫国家实验室的副主任找到了一种方法得以大幅度减轻反应堆重量使得项目提速](https://zh.wikipedia.org/wiki/劳伦斯-利弗莫国家实验室 "wikilink")，之后该项目开始被称之为“[流浪狗计划](https://zh.wikipedia.org/wiki/流浪狗计划 "wikilink")”。到1961年，由于“[流浪狗计划](https://zh.wikipedia.org/wiki/流浪狗计划 "wikilink")”的飞速进度，NASA的[马歇尔太空飞行中心开始考虑在他们的太空任务中使用核动力火箭](https://zh.wikipedia.org/wiki/马歇尔太空飞行中心 "wikilink")。[马歇尔太空飞行中心计划最早在](https://zh.wikipedia.org/wiki/马歇尔太空飞行中心 "wikilink")1964年使用来自于洛斯阿拉莫斯实验室研发的核动力火箭将核动力空间试验机（RIFT：Reactor-In-Flight-Test
+）发射升空。由于来自于此类太空任务的计划与需求，一个被称为“[航天核推进局](https://zh.wikipedia.org/wiki/航天核推进局 "wikilink")”（Space
 Nuclear Propulsion Office）的机构成立了。SNPO的建立使得AEC和NASA得以协同工作。由H. B. "Harry"
 Finger担任SNPO的第一届主任。Finger上任后做出了推迟发射RIFT的决定，并给核动力火箭引擎制定了十分严格精确的目标，在此之后RIFT才会被允许发射。
 
-Finger紧接着挑选了[Aerojet公司和](../Page/Aerojet.md "wikilink")[Westinghouse公司参与研发NERVA引擎](../Page/Westinghouse.md "wikilink")。与此同时，NERVA也会得到来自[洛斯阿拉莫斯实验室的科技支持](../Page/洛斯阿拉莫斯实验室.md "wikilink")。经过考虑，SNPO选择了比冲825秒，推力75，000磅的KIWI-B4核动力火箭设计（Kiwi——[鹬鸵](../Page/鹬鸵.md "wikilink")，一种产自新西兰的无翼鸟。）作为52英尺（从推力结构到喷嘴高22英尺）NERVA
+Finger紧接着挑选了[Aerojet公司和](../Page/Aerojet.md "wikilink")[Westinghouse公司参与研发NERVA引擎](https://zh.wikipedia.org/wiki/Westinghouse "wikilink")。与此同时，NERVA也会得到来自[洛斯阿拉莫斯实验室的科技支持](https://zh.wikipedia.org/wiki/洛斯阿拉莫斯实验室 "wikilink")。经过考虑，SNPO选择了比冲825秒，推力75，000磅的KIWI-B4核动力火箭设计（Kiwi——[鹬鸵](https://zh.wikipedia.org/wiki/鹬鸵 "wikilink")，一种产自新西兰的无翼鸟。）作为52英尺（从推力结构到喷嘴高22英尺）NERVA
 NRX（核动力火箭实验：Nuclear Rocket
 Experimental）的蓝本。流浪狗计划的第二阶段被称为Phoebus（太阳神），而第三阶段则是熟知的Pewee（京燕），有着更大的功率（4000
 MW）、更高的功率密度和更长效的燃料。但这些工程都没有成为最终的NERVA。最终可工作的NERVA（被称为NERVA
 NRX）是基于KIWI的设计。而当Pewee引擎开始测试时，阿波罗计划遭到了尼克松政府大幅度的预算裁减。于是，将人类送上月球和火星计划被无限期推迟。
 
-NERVA的研发、设计和建造几乎全部是在[洛斯阿拉莫斯实验室完成的](../Page/洛斯阿拉莫斯实验室.md "wikilink")。测试则是在位于[内华达测试基地由SNPO特别建造的一座大型设施内进行的](../Page/内华达测试基地.md "wikilink")。尽管洛斯阿拉莫斯在60年代测试了一系列的KIWI和Phoebus引擎，但直到1966年2月，NASA的NERVA
+NERVA的研发、设计和建造几乎全部是在[洛斯阿拉莫斯实验室完成的](https://zh.wikipedia.org/wiki/洛斯阿拉莫斯实验室 "wikilink")。测试则是在位于[内华达测试基地由SNPO特别建造的一座大型设施内进行的](https://zh.wikipedia.org/wiki/内华达测试基地 "wikilink")。尽管洛斯阿拉莫斯在60年代测试了一系列的KIWI和Phoebus引擎，但直到1966年2月，NASA的NERVA
 NPX/EST(Engine System Test:引擎系统测试)并没有进行。整个测试的目标是：
 
 1.  论证在无外部能源的情况下启动和重启引擎的可行性

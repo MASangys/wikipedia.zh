@@ -1,6 +1,6 @@
 本列表是为[Minolta
-AF系统所制造的专用](../Page/Minolta_AF.md "wikilink")[闪光灯列表](../Page/闪光灯.md "wikilink")，仅包含[美能达](../Page/美能达.md "wikilink")，[柯尼卡美能达](../Page/柯尼卡美能达.md "wikilink")，[Sony
-α所制造之闪光灯](../Page/Sony_α.md "wikilink")，并不包含第三方产品。
+AF系统所制造的专用](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[闪光灯列表](../Page/闪光灯.md "wikilink")，仅包含[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，[柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，[Sony
+α所制造之闪光灯](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，并不包含第三方产品。
 
 ## 小型热靴闪光灯
 
@@ -15,7 +15,7 @@ AF系统所制造的专用](../Page/Minolta_AF.md "wikilink")[闪光灯列表](.
 这一代闪光灯可以与之前随X-700一同推出的PX闪光灯进行交换使用，同样可实现同步与TTL测光。
 
   - 第二代，随i系机身发布[Konica_Minolta_Dynax_7D_hot_shoe.jpg](https://zh.wikipedia.org/wiki/File:Konica_Minolta_Dynax_7D_hot_shoe.jpg "fig:Konica_Minolta_Dynax_7D_hot_shoe.jpg")接口，今日的索尼α系列沿用此设计\]\]
-    此代闪光灯与机身启用新[iISO热靴接口](../Page/iISO.md "wikilink")
+    此代闪光灯与机身启用新[iISO热靴接口](https://zh.wikipedia.org/wiki/iISO "wikilink")
       - 2000i
       - 3200i
       - 5200i
@@ -31,7 +31,7 @@ AF系统所制造的专用](../Page/Minolta_AF.md "wikilink")[闪光灯列表](.
 <!-- end list -->
 
   - 第四代
-    此代闪光灯配合相应的机身可实现离机情况下的[高速同步](../Page/闪光同步.md "wikilink")
+    此代闪光灯配合相应的机身可实现离机情况下的[高速同步](https://zh.wikipedia.org/wiki/闪光同步 "wikilink")
       - 5400HS
 
 <!-- end list -->
@@ -89,9 +89,10 @@ HVL-RL1是LED灯不是闪光灯。Macro Twin Flash HVL-MT24AM 已經包括 Flash
 ## 参见
 
   - [闪光灯](../Page/闪光灯.md "wikilink")
-  - [Minolta AF](../Page/Minolta_AF.md "wikilink")
-      - [iISO 热靴](../Page/iISO.md "wikilink")
-      - [Minolta AF镜头列表](../Page/Minolta_AF镜头列表.md "wikilink")
+  - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
+      - [iISO 热靴](https://zh.wikipedia.org/wiki/iISO "wikilink")
+      - [Minolta
+        AF镜头列表](https://zh.wikipedia.org/wiki/Minolta_AF镜头列表 "wikilink")
 
 ## 外部链接
 

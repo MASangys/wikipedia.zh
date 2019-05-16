@@ -44,12 +44,12 @@ ZUKKOKE大脫走**》（），為[日本男偶像團體](../Page/日本.md "wiki
       - 作詞：[HANNYA MAN](../Page/丸山隆平.md "wikilink")；作曲：小森田実；編曲：大坪直樹
 4.  まもりたい - [大倉忠義](../Page/大倉忠義.md "wikilink")
       - 作詞：[大倉忠義](../Page/大倉忠義.md "wikilink")；作曲: 宮崎、亜美；編曲；佐藤泰将
-5.  WONDER BOY - [横山裕](../Page/横山裕.md "wikilink")
+5.  WONDER BOY - [横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
       - 作詞、作曲、編曲：磯崎健史
 6.  Forward - [村上信五](../Page/村上信五.md "wikilink")
       - 作詞：capitao；作曲：コモリタミノル；編曲：ha-j
-7.  stereo - [錦戶亮](../Page/錦戶亮.md "wikilink")
-      - 作詞、作曲：[錦戶亮](../Page/錦戶亮.md "wikilink")；編曲：[錦戶亮](../Page/錦戶亮.md "wikilink")、林部直樹
+7.  stereo - [錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")
+      - 作詞、作曲：[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")；編曲：[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")、林部直樹
 8.  いつか、また...。 - 僅收錄於初回限定盤B
       - 作詞、作曲：飯田建彦
 

@@ -14,7 +14,7 @@
 
 ::\* 数据结构的库，包括列表、字典和树等
 
-::\* [XML分析库](../Page/可扩展置标语言.md "wikilink")
+::\* [XML分析库](https://zh.wikipedia.org/wiki/可扩展置标语言 "wikilink")
 
 ::\* 安全方面应用库
 
@@ -25,10 +25,10 @@
 ::\*
 [JDBC](../Page/Java数据库连接.md "wikilink")，即Java数据库联通的[API](../Page/应用程序接口.md "wikilink")
 
-::\* [JNDI](../Page/JNDI.md "wikilink")，即Java命名和目录接口
+::\* [JNDI](https://zh.wikipedia.org/wiki/JNDI "wikilink")，即Java命名和目录接口
 
 ::\*
-[RMI和](../Page/RMI.md "wikilink")[CORBA用于重新分发软件](../Page/CORBA.md "wikilink")
+[RMI和](https://zh.wikipedia.org/wiki/RMI "wikilink")[CORBA用于重新分发软件](../Page/CORBA.md "wikilink")
 
 :\* 用户界面库文件，包含：
 
@@ -41,28 +41,29 @@
 
   - 一个用于执行软件的[Java虚拟机](../Page/Java虚拟机.md "wikilink")（JVM）
   - 插件，可以在[浏览器裡面使用](../Page/网页浏览器.md "wikilink")
-  - [JWS](../Page/JWS.md "wikilink")，可以让终端用户连接到互联网
+  - [JWS](https://zh.wikipedia.org/wiki/JWS "wikilink")，可以让终端用户连接到互联网
   - 许可文件和文档
 
 ## 用途
 
 ### 桌面的应用
 
-根据[Sun公司的统计](../Page/Sun公司.md "wikilink")，安裝Java运行环境的个人计算机已经超过7亿。\[1\]自从Sun指控微软添加Windows特效类文件到Java运行环境（JRE），并通过Visual
+根据[Sun公司的统计](https://zh.wikipedia.org/wiki/Sun公司 "wikilink")，安裝Java运行环境的个人计算机已经超过7亿。\[1\]自从Sun指控微软添加Windows特效类文件到Java运行环境（JRE），并通过Visual
 J++运行这些类文件，微软不再绑定Java运行环境到Windows操作系统。Apple的[Mac OS
-X一般默认绑定Java运行环境](../Page/Mac_OS_X.md "wikilink")，
+X一般默认绑定Java运行环境](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，
 而且许多[Linux发行版也绑定一些兼容的](../Page/Linux发行版.md "wikilink")[自由软件包](../Page/自由软件.md "wikilink")[GNU
-Classpath](../Page/GNU_Classpath.md "wikilink")。\[2\]
+Classpath](https://zh.wikipedia.org/wiki/GNU_Classpath "wikilink")。\[2\]
 
 一些Java软件被桌面计算机广泛应用，比如[NetBeans和](../Page/NetBeans.md "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")
 [integrated development
-environments](../Page/integrated_development_environment.md "wikilink")，文件共享程序如[LimeWire和](../Page/LimeWire.md "wikilink")[Vuze](../Page/Vuze.md "wikilink").
+environments](https://zh.wikipedia.org/wiki/integrated_development_environment "wikilink")，文件共享程序如[LimeWire和](../Page/LimeWire.md "wikilink")[Vuze](../Page/Vuze.md "wikilink").
 Java还被应用于[线性代数计算编程环境](../Page/线性代数.md "wikilink")，包括[用户界面和部分系统核心功能](../Page/用户界面.md "wikilink")。
 
 ### 移动设备
 
-Java ME在移动设备上越来越流行，并开始与[Symbian](../Page/Symbian.md "wikilink"),
-[BREW](../Page/BREW.md "wikilink")，和[.NET Compact
+Java
+ME在移动设备上越来越流行，并开始与[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink"),
+[BREW](https://zh.wikipedia.org/wiki/BREW "wikilink")，和[.NET Compact
 Framework展开竞争](../Page/.NET_Compact_Framework.md "wikilink")。
 
 因为手机制造商的多样性，需要一种新的统一标准，使程序可以运行于不同手机供应商制造的手机上。第一代这样的标准是MIDP
@@ -70,57 +71,64 @@ Framework展开竞争](../Page/.NET_Compact_Framework.md "wikilink")。
 
 ### 网络服务器和企业级应用
 
-[J2EE企业级架构](../Page/J2EE.md "wikilink")
+[J2EE企业级架构](https://zh.wikipedia.org/wiki/J2EE "wikilink")
 
 ## 扩展和相关架构
 
 扩展和与Java程序设计语言紧密相关的架构（按字母排序）。
 
   - [Groovy](../Page/Groovy.md "wikilink")，一种用纯Java实现的脚本语言，Python的强有力竞争者
-  - [JAIN](../Page/JAIN.md "wikilink") (Java API for Integrated
-    Networks)Java综合网络应用程序开发接口
-  - [JAI](../Page/JAI.md "wikilink")，（Java Advanced Imaging）Java进阶图像
+  - [JAIN](https://zh.wikipedia.org/wiki/JAIN "wikilink") (Java API for
+    Integrated Networks)Java综合网络应用程序开发接口
+  - [JAI](https://zh.wikipedia.org/wiki/JAI "wikilink")，（Java Advanced
+    Imaging）Java进阶图像
   - [JAXP](../Page/JAXP.md "wikilink")，（Java API for XML Processing）Java
     XML處理API
   - [Java
-    EE](../Page/J2EE.md "wikilink")（原名[J2EE](../Page/J2EE.md "wikilink")），Java平台企业版
+    EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")（原名[J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")），Java平台企业版
   - [Java
-    ME](../Page/J2ME.md "wikilink")（原名[J2ME](../Page/J2ME.md "wikilink")），Java平台微型版为[PDA和](../Page/PDA.md "wikilink")[智能手机开发的移动版本](../Page/智能手机.md "wikilink")
+    ME](https://zh.wikipedia.org/wiki/J2ME "wikilink")（原名[J2ME](https://zh.wikipedia.org/wiki/J2ME "wikilink")），Java平台微型版为[PDA和](https://zh.wikipedia.org/wiki/PDA "wikilink")[智能手机开发的移动版本](../Page/智能手机.md "wikilink")
   - [Java
-    SE](../Page/J2SE.md "wikilink")（原名[J2SE](../Page/J2SE.md "wikilink")），Java平台标准版
+    SE](https://zh.wikipedia.org/wiki/J2SE "wikilink")（原名[J2SE](https://zh.wikipedia.org/wiki/J2SE "wikilink")），Java平台标准版
   - [JDBC](../Page/Java数据库连接.md "wikilink")，（Java Database
     Connectivity）Java数据库联通
-  - [JDMK](../Page/JDMK.md "wikilink")，（Java Dynamic Management
-    Kit）Java动态管理开发包
-  - [JDO](../Page/JDO.md "wikilink")，（Java Data Objects）Java数据对象
-  - [JPA](../Page/JPA.md "wikilink")，（Java Persistence API）Java持久化API
-  - [JJSF](../Page/JJSF.md "wikilink")，Java服务器界面
-  - [JMF](../Page/JMF.md "wikilink")，（Java Media Framework）Java媒体框架
-  - [JMI](../Page/JMI.md "wikilink")，Java[元数据接口](../Page/元数据.md "wikilink")
-  - [JML](../Page/JML.md "wikilink")，（Java Modeling Language）Java建模软件
+  - [JDMK](https://zh.wikipedia.org/wiki/JDMK "wikilink")，（Java Dynamic
+    Management Kit）Java动态管理开发包
+  - [JDO](https://zh.wikipedia.org/wiki/JDO "wikilink")，（Java Data
+    Objects）Java数据对象
+  - [JPA](https://zh.wikipedia.org/wiki/JPA "wikilink")，（Java
+    Persistence API）Java持久化API
+  - [JJSF](https://zh.wikipedia.org/wiki/JJSF "wikilink")，Java服务器界面
+  - [JMF](https://zh.wikipedia.org/wiki/JMF "wikilink")，（Java Media
+    Framework）Java媒体框架
+  - [JMI](https://zh.wikipedia.org/wiki/JMI "wikilink")，Java[元数据接口](../Page/元数据.md "wikilink")
+  - [JML](https://zh.wikipedia.org/wiki/JML "wikilink")，（Java Modeling
+    Language）Java建模软件
   - [JMX](../Page/JMX.md "wikilink")，（Java Management
     Extensions）Java管理扩展
-  - [JNDI](../Page/JNDI.md "wikilink")，（Java Naming and Directory
-    Interface）Java命名和目录接口
-  - [JNI](../Page/JNI.md "wikilink")，（Java Native Interface）Java本地编程接口
-  - [JOGL](../Page/JOGL.md "wikilink")，使用[OpenGL的低阶三位游戏开发接口](../Page/OpenGL.md "wikilink")
-  - [JSML](../Page/JSML.md "wikilink")，（Java Speech API Markup
-    Language）Java的语音和标记语言
+  - [JNDI](https://zh.wikipedia.org/wiki/JNDI "wikilink")，（Java Naming
+    and Directory Interface）Java命名和目录接口
+  - [JNI](https://zh.wikipedia.org/wiki/JNI "wikilink")，（Java Native
+    Interface）Java本地编程接口
+  - [JOGL](https://zh.wikipedia.org/wiki/JOGL "wikilink")，使用[OpenGL的低阶三位游戏开发接口](../Page/OpenGL.md "wikilink")
+  - [JSML](https://zh.wikipedia.org/wiki/JSML "wikilink")，（Java Speech
+    API Markup Language）Java的语音和标记语言
   - [JSP](../Page/JSP.md "wikilink")，（JavaServer Pages）Java服务器页面
-  - [JSF](../Page/JSF.md "wikilink")，（JavaServer Faces）
-  - [JXTA](../Page/JXTA.md "wikilink")，[P2P虚拟网络协议](../Page/點對點技術.md "wikilink")
+  - [JSF](https://zh.wikipedia.org/wiki/JSF "wikilink")，（JavaServer
+    Faces）
+  - [JXTA](https://zh.wikipedia.org/wiki/JXTA "wikilink")，[P2P虚拟网络协议](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")
   - [Java Card](../Page/Java_Card.md "wikilink")
-  - [Java3D](../Page/Java3D.md "wikilink")，用于三维游戏编程的高阶应用程序开发接口
-  - [JavaSpaces](../Page/JavaSpaces.md "wikilink")
-  - [Jini](../Page/Jini.md "wikilink")，Java网络分布计算结构
+  - [Java3D](https://zh.wikipedia.org/wiki/Java3D "wikilink")，用于三维游戏编程的高阶应用程序开发接口
+  - [JavaSpaces](https://zh.wikipedia.org/wiki/JavaSpaces "wikilink")
+  - [Jini](https://zh.wikipedia.org/wiki/Jini "wikilink")，Java网络分布计算结构
   - [Jiro](../Page/Jiro.md "wikilink")
   - [OSGi](../Page/OSGi.md "wikilink")，（Dynamic Service Management and
     Remote Maintenance）动态服务管理和远程控制
-  - [Rhino](../Page/Rhino.md "wikilink")，用Java实现的JavaScript语言。
-  - [Swing](../Page/Swing_\(Java\).md "wikilink")，Java的[圖像用戶界面API](../Page/圖像用戶界面.md "wikilink")
+  - [Rhino](https://zh.wikipedia.org/wiki/Rhino "wikilink")，用Java实现的JavaScript语言。
+  - [Swing](../Page/Swing_\(Java\).md "wikilink")，Java的[圖像用戶界面API](https://zh.wikipedia.org/wiki/圖像用戶界面 "wikilink")
   - [SWT](../Page/SWT.md "wikilink")，Standard Widget
-    Toolkit，由[IBM和](../Page/IBM.md "wikilink")[Eclipse基金會主導開發的](../Page/Eclipse.md "wikilink")[開源](../Page/開源.md "wikilink")[圖像用戶界面API](../Page/圖像用戶界面.md "wikilink")
-  - [SuperWaba](../Page/SuperWaba.md "wikilink")，手持设备的虚拟机程序
+    Toolkit，由[IBM和](../Page/IBM.md "wikilink")[Eclipse基金會主導開發的](../Page/Eclipse.md "wikilink")[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[圖像用戶界面API](https://zh.wikipedia.org/wiki/圖像用戶界面 "wikilink")
+  - [SuperWaba](https://zh.wikipedia.org/wiki/SuperWaba "wikilink")，手持设备的虚拟机程序
 
 ## 注釋
 

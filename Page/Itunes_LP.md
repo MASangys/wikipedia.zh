@@ -1,11 +1,11 @@
 **iTunes
-LP**是一种由[苹果公司开发的互动音乐](../Page/苹果公司.md "wikilink")[专辑格式](../Page/专辑.md "wikilink")，于2009年9月9日推出。\[1\]\[2\]它有点类似于[CMX格式](../Page/CMX.md "wikilink")，允许用户在听音乐的同时去欣赏其他的相关多媒体资料，但其要在[iTunes](../Page/iTunes.md "wikilink")
+LP**是一种由[苹果公司开发的互动音乐](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[专辑格式](https://zh.wikipedia.org/wiki/专辑 "wikilink")，于2009年9月9日推出。\[1\]\[2\]它有点类似于[CMX格式](https://zh.wikipedia.org/wiki/CMX "wikilink")，允许用户在听音乐的同时去欣赏其他的相关多媒体资料，但其要在[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 9及以上版本上才能运行。这种技术也同时应用于其他的多媒体文件，比如iTunes Extras。\[3\]\[4\]
 
 iTunes
-LP有其专用的格式扩展名叫做itlp，是一个使用[HTML](../Page/HTML.md "wikilink"),[CSS](../Page/CSS.md "wikilink"),
+LP有其专用的格式扩展名叫做itlp，是一个使用[HTML](../Page/HTML.md "wikilink"),[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink"),
 [JavaScript](../Page/JavaScript.md "wikilink"),[CSS
-Animations和](../Page/CSS_Animations.md "wikilink")[plist的](../Page/plist.md "wikilink")[WebArchive](../Page/WebArchive.md "wikilink")。\[5\]
+Animations和](https://zh.wikipedia.org/wiki/CSS_Animations "wikilink")[plist的](https://zh.wikipedia.org/wiki/plist "wikilink")[WebArchive](https://zh.wikipedia.org/wiki/WebArchive "wikilink")。\[5\]
 
 2009年11月，itlp格式的文件开始少量的在iTunes上发售，并在随后的几个月里逐步增加了这种格式的专辑数目。2009年11月28日，iTunes
 LP的SDK中向公众发布。\[6\]

@@ -1,5 +1,5 @@
 **Devil
-Inside**是[宇多田光以Utada名義發行的第二張](../Page/宇多田光.md "wikilink")[英語](../Page/英語.md "wikilink")[單曲](../Page/單曲.md "wikilink")，也是[宇多田光以Utada的名義發行的第一張實體英語](../Page/宇多田光.md "wikilink")[單曲](../Page/單曲.md "wikilink")，於2004年9月14日發行。**Devil
+Inside**是[宇多田光以Utada名義發行的第二張](../Page/宇多田光.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是[宇多田光以Utada的名義發行的第一張實體英語](../Page/宇多田光.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2004年9月14日發行。**Devil
 Inside**一曲取得了美國Billboard舞曲榜周冠軍，而在西方舞廳也常可聽到這首曲子，這單曲算是一成功之作，但並未引起太大的關注以及目光。
 
 ## 曲目
@@ -16,15 +16,15 @@ position</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>U.S. <em>Billboard</em> <a href="../Page/Hot_Dance_Airplay.md" title="wikilink">Hot Dance Airplay</a></p></td>
+<td><p>U.S. <em>Billboard</em> <a href="https://zh.wikipedia.org/wiki/Hot_Dance_Airplay" title="wikilink">Hot Dance Airplay</a></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>U.S. <em>Billboard</em> <a href="../Page/Hot_Dance_Singles_Sales.md" title="wikilink">Hot Dance Singles Sales</a>[1]</p></td>
+<td><p>U.S. <em>Billboard</em> <a href="https://zh.wikipedia.org/wiki/Hot_Dance_Singles_Sales" title="wikilink">Hot Dance Singles Sales</a>[1]</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p>U.S. <em>Billboard</em> <a href="../Page/Hot_Dance_Club_Songs.md" title="wikilink">Hot Dance Club Play</a>[2]</p></td>
+<td><p>U.S. <em>Billboard</em> <a href="https://zh.wikipedia.org/wiki/Hot_Dance_Club_Songs" title="wikilink">Hot Dance Club Play</a>[2]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

@@ -15,8 +15,8 @@ J.S.G Best 10 Awards Presentation 2009</p></td>
 <td><p>2010年1月16日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro_On_Demand.md" title="wikilink">Astro On Demand同步直播</a></p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand同步直播</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/第三十二屆十大中文金曲得獎名單.md" title="wikilink">第三十二屆十大中文金曲頒獎音樂會</a><br />
@@ -33,7 +33,7 @@ Chinese New Year Eve Special 2010</p></td>
 <td><p>晚上10點00分</p></td>
 <td><p>現場直播<br />
 </p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>虎虎生威賀新歲<br />
@@ -42,10 +42,10 @@ Chinese New Year Day Special 2010</p></td>
 <td><p>中午12點00分</p></td>
 <td><p>現場直播<br />
 </p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2010年香港電影金像獎.md" title="wikilink">第二十九屆香港電影金像獎</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年香港電影金像獎" title="wikilink">第二十九屆香港電影金像獎</a><br />
 The 29th Hong Kong Film Awards Presentation Caremony</p></td>
 <td><p>2010年4月18日</p></td>
 <td><p>晚上8點00分</p></td>
@@ -59,8 +59,8 @@ Artistes 414 Fund Raising Campaign</p></td>
 <td><p>2010年4月26日</p></td>
 <td><p>晚上8點00分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro_On_Demand.md" title="wikilink">Astro On Demand同步直播</a></p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand同步直播</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://www.astro.com.my/asq">《Astro新秀大賽2010》決賽</a><br />
@@ -68,7 +68,7 @@ Astro Star Quest 2010 Final</p></td>
 <td><p>2010年7月24日</p></td>
 <td><p>晚上8點00分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro至尊HD.md" title="wikilink">Astro至尊HD</a> 同步高清直播<br />
+<a href="https://zh.wikipedia.org/wiki/Astro至尊HD" title="wikilink">Astro至尊HD</a> 同步高清直播<br />
 <a href="http://www.astro.com.my/asqbplayer/">AstroB.Player</a>同步网上直播<br />
 <a href="http://www.my.com.my">MY FM</a> 同步轉播</p></td>
 <td><p>-</p></td>
@@ -79,26 +79,26 @@ Miss Hong Kong Pageant 2010 Final</p></td>
 <td><p>2010年8月1日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro_On_Demand.md" title="wikilink">Astro On Demand同步直播</a></p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand同步直播</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/香港先生選舉.md" title="wikilink">香港先生選舉</a>2010 決賽<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/香港先生選舉" title="wikilink">香港先生選舉</a>2010 決賽<br />
 Mr.Hong Kong 2010 Final</p></td>
 <td><p>2010年8月21日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
 </p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/國際中華小姐競選.md" title="wikilink">國際中華小姐競選</a>2010決賽<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/國際中華小姐競選" title="wikilink">國際中華小姐競選</a>2010決賽<br />
 Miss Chinese International Pageant 2010 Final</p></td>
 <td><p>2010年11月6日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
 <a href="http://programme.tvb.com/variety/mcip2010/">2010年度國際中華小姐競選(tvb.com)</a></p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>2010<br />
@@ -106,8 +106,8 @@ TVB 43rd Anniversary Gala Show</p></td>
 <td><p>2010年11月19日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro_On_Demand.md" title="wikilink">Astro On Demand同步直播</a></p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand同步直播</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/萬千星輝頒獎典禮.md" title="wikilink">萬千星輝頒獎典禮</a>2010<br />
@@ -115,16 +115,16 @@ TVB TV Awards Presentation 2010</p></td>
 <td><p>2010年12月5日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />
-<a href="../Page/Astro_On_Demand.md" title="wikilink">Astro On Demand同步直播</a><br />
+<a href="https://zh.wikipedia.org/wiki/Astro_On_Demand" title="wikilink">Astro On Demand同步直播</a><br />
 <a href="http://www.my.com.my">MY FM</a> 同步轉播</p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="../Page/tvbj.md" title="wikilink">tvbj</a></p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a><a href="https://zh.wikipedia.org/wiki/tvbj" title="wikilink">tvbj</a></p></td>
 </tr>
 </tbody>
 </table>
 
-## [2010年南非世界杯足球赛特选直播](../Page/2010年南非世界杯.md "wikilink")
+## [2010年南非世界杯足球赛特选直播](https://zh.wikipedia.org/wiki/2010年南非世界杯 "wikilink")
 
-特别献给Astro至尊配套用户。全程由香港知名評論員[郑兆聪及](../Page/郑兆聪.md "wikilink")[梁立民以粤语评述](../Page/梁立民.md "wikilink")。
+特别献给Astro至尊配套用户。全程由香港知名評論員[郑兆聪及](https://zh.wikipedia.org/wiki/郑兆聪 "wikilink")[梁立民以粤语评述](https://zh.wikipedia.org/wiki/梁立民 "wikilink")。
 
 <table>
 <tbody>

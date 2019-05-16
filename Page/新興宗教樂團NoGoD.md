@@ -1,5 +1,5 @@
 **Nogod** (格式為
-**NoGoD**)是一個[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[重金屬](../Page/重金屬音樂.md "wikilink")[樂團](../Page/樂團.md "wikilink")\[1\]。原本的名稱是**新興宗教樂團NoGoD**，後來2010年和唱片公司[国王唱片簽約後](../Page/国王唱片.md "wikilink")，直接使用Nogod為名稱。
+**NoGoD**)是一個[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[重金屬](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")\[1\]。原本的名稱是**新興宗教樂團NoGoD**，後來2010年和唱片公司[国王唱片簽約後](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")，直接使用Nogod為名稱。
 
 ## 乐队历史
 

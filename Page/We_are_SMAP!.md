@@ -6,15 +6,16 @@ Entertainment發行。
 
   - 相隔了1年10個月的全新專輯。另外不包括期間限定細碟，新碟也相隔了接近一年。
   - CD封面仍然由『[S map〜SMAP
-    014](../Page/S_map〜SMAP_014.md "wikilink")』開始負責的[佐藤可士和設計](../Page/佐藤可士和.md "wikilink")。
+    014](https://zh.wikipedia.org/wiki/S_map〜SMAP_014 "wikilink")』開始負責的[佐藤可士和設計](../Page/佐藤可士和.md "wikilink")。
   - SMAP在『[SMAP 003](../Page/SMAP_003.md "wikilink")』首次開始，並由『[SMAP
     006〜SEXY
-    SIX〜](../Page/SMAP_006〜SEXY_SIX〜.md "wikilink")』之後一直收錄一首的主題音樂。但在今次專輯則沒有收錄，取而代之是不停收錄不同編曲版本的『We
+    SIX〜](https://zh.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")』之後一直收錄一首的主題音樂。但在今次專輯則沒有收錄，取而代之是不停收錄不同編曲版本的『We
     are SMAP\!』，從而希望令專輯帶有連貫性。
-  - 部分歌曲是由[Smappies演奏](../Page/Smappies.md "wikilink")，是自『[SMAP 007〜Gold
-    Singer〜](../Page/SMAP_007〜Gold_Singer〜.md "wikilink")』以來的再次合作。
+  - 部分歌曲是由[Smappies演奏](https://zh.wikipedia.org/wiki/Smappies "wikilink")，是自『[SMAP
+    007〜Gold
+    Singer〜](https://zh.wikipedia.org/wiki/SMAP_007〜Gold_Singer〜 "wikilink")』以來的再次合作。
   - 少有地SMAP在演唱會3個月前同時公佈專輯。
-  - 初回盤是以[Digipak形式發行](../Page/Digipak.md "wikilink")。
+  - 初回盤是以[Digipak形式發行](https://zh.wikipedia.org/wiki/Digipak "wikilink")。
   - 雖然CD上沒有印上「020」，只印上「We are SMAP\!」及口號「EVERY DAY LOVE
     TOMORROW」，但貼紙上是印有「SMAP 020 We are SMAP\!」。
   - 和前張專輯一樣有雙CD，Disc 1是組合歌曲，Disc 2是5人的各自的獨唱歌曲。今次專輯是SMAP眾多原創專輯中收錄歌曲最多的專輯。
@@ -57,13 +58,14 @@ Entertainment發行。
       - 作詞： / 作曲：石野卓球 / 編曲：CMJK
 14. Going Over
       - Words and Composed by [RIP
-        SLYME](../Page/RIP_SLYME.md "wikilink") / Sound produced by RIP
-        SLYME / Additional programming and arrangement by Yukihiro
-        Fukutomi
+        SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink") /
+        Sound produced by RIP SLYME / Additional programming and
+        arrangement by Yukihiro Fukutomi
 15. Cry for the Smile
       - 作曲：Daniel Powter / 編曲：清水俊也 / 日本語詞：森内優希・zopp
 16. We are SMAP\!
-      - 作詞：太田光 / 作曲・編曲：[久石譲](../Page/久石譲.md "wikilink")
+      - 作詞：太田光 /
+        作曲・編曲：[久石譲](https://zh.wikipedia.org/wiki/久石譲 "wikilink")
 
 ### DISC 2
 
@@ -71,10 +73,11 @@ Entertainment發行。
       - 作詞：・JINDOU・宮下浩司 / 作曲：・宮下浩司・宮下昌也 / 編曲：・宮下浩司
       - [中居正廣個人曲](../Page/中居正廣.md "wikilink")。
 2.  給你的兩個 ()
-      - Music：[David Foster](../Page/デイヴィッド・フォスター.md "wikilink")・[Kara
-        Dioguardi](../Page/Kara_Dioguardi.md "wikilink") /
-        編曲：[中西亮輔](../Page/中西亮輔.md "wikilink") /
-        日本語詞：[小林光明](../Page/小林光明.md "wikilink")
+      - Music：[David
+        Foster](https://zh.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")・[Kara
+        Dioguardi](https://zh.wikipedia.org/wiki/Kara_Dioguardi "wikilink")
+        / 編曲：[中西亮輔](https://zh.wikipedia.org/wiki/中西亮輔 "wikilink") /
+        日本語詞：[小林光明](https://zh.wikipedia.org/wiki/小林光明 "wikilink")
       - [木村拓哉個人曲](../Page/木村拓哉.md "wikilink")。
 3.  愛與戀愛 ()
       - 作詞・作曲：[矢吹香那](../Page/矢吹香那.md "wikilink") / 編曲：長岡成貢
@@ -84,15 +87,16 @@ Entertainment發行。
       - [草彅剛個人曲](../Page/草彅剛.md "wikilink")。
 5.  No Way Out
       - 作詞・作曲：[LOVE
-        PSYCHEDELICO](../Page/LOVE_PSYCHEDELICO.md "wikilink")
+        PSYCHEDELICO](https://zh.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")
       - [香取慎吾個人曲](../Page/香取慎吾.md "wikilink")。
 
 ## 飲料
 
-「We are SMAP\!」是在2010年7月6日由[朝日飲料發售的運動飲品](../Page/朝日飲料.md "wikilink")。
+「We are
+SMAP\!」是在2010年7月6日由[朝日飲料發售的運動飲品](https://zh.wikipedia.org/wiki/朝日飲料 "wikilink")。
 
-  - 以SMAP冠名的飲品是第3次，上次的冠名飲品已是8年前，是2002年的『[Drink\!Smap\!](../Page/SMAP_015/Drink!_Smap!.md "wikilink")』。這是首次跟朝日飲料[商業搭配](../Page/商業搭配.md "wikilink")。
-  - 以500毫升的[寶特瓶發售](../Page/寶特瓶.md "wikilink")，形型設計統一，由於是運動飲品，每100毫升只有12[卡路里](../Page/卡路里.md "wikilink")
+  - 以SMAP冠名的飲品是第3次，上次的冠名飲品已是8年前，是2002年的『[Drink\!Smap\!](https://zh.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink")』。這是首次跟朝日飲料[商業搭配](../Page/商業搭配.md "wikilink")。
+  - 以500毫升的[寶特瓶發售](https://zh.wikipedia.org/wiki/寶特瓶 "wikilink")，形型設計統一，由於是運動飲品，每100毫升只有12[卡路里](../Page/卡路里.md "wikilink")
   - 寶特瓶上的招紙跟專輯封面大致相同，只是文字改為黑色。
   - 限定發售1000萬瓶
 

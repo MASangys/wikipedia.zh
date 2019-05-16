@@ -1,9 +1,9 @@
 **Socket 5**
-是[Intel设计供运行在](../Page/Intel.md "wikilink")75MHz到133MHz主频，同[Pentium
-OverDrive和](../Page/Pentium_OverDrive.md "wikilink")[Pentium
-MMX同样采用](../Page/Pentium_MMX.md "wikilink")3.3V核心电压的[Pentium处理器使用](../Page/Pentium.md "wikilink")，
+是[Intel设计供运行在](https://zh.wikipedia.org/wiki/Intel "wikilink")75MHz到133MHz主频，同[Pentium
+OverDrive和](https://zh.wikipedia.org/wiki/Pentium_OverDrive "wikilink")[Pentium
+MMX同样采用](https://zh.wikipedia.org/wiki/Pentium_MMX "wikilink")3.3V核心电压的[Pentium处理器使用](https://zh.wikipedia.org/wiki/Pentium "wikilink")，
 Socket 5是头一种采用交错的针脚排列的处理器插座，即
-[SPGA](../Page/SPGA.md "wikilink")。这种设计允许处理器针脚比早期socket插座排列更多的针脚。Socket
+[SPGA](https://zh.wikipedia.org/wiki/SPGA "wikilink")。这种设计允许处理器针脚比早期socket插座排列更多的针脚。Socket
 5被 [Socket 7取代](../Page/Socket_7.md "wikilink")\[1\]
 
 ## 外部链接

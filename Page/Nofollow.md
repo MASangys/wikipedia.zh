@@ -1,19 +1,19 @@
-**nofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](../Page/搜索引擎.md "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
+**nofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
 
 ## 来源
 
 在2005年，[Googlewebspan团队的领导](../Page/Google.md "wikilink")和Jason
 Shellen在Blogger.com引入了这个特定属性`nofollow`。 \[2\]
 
-`nofollow`原本是用来控制博客上的垃圾评论，使用博客的人都已经意识到垃圾评论的严重。就像对社区的其他垃圾形式，评论垃圾[spam影响到整个博客](../Page/spam.md "wikilink")[網誌社区](../Page/網誌.md "wikilink")，所以在2005年，[Googlewebspan团队的领导](../Page/Google.md "wikilink")和Jason
+`nofollow`原本是用来控制博客上的垃圾评论，使用博客的人都已经意识到垃圾评论的严重。就像对社区的其他垃圾形式，评论垃圾[spam影响到整个博客](https://zh.wikipedia.org/wiki/spam "wikilink")[網誌社区](../Page/網誌.md "wikilink")，所以在2005年，[Googlewebspan团队的领导](../Page/Google.md "wikilink")和Jason
 Shellen设计了这个属性`nofollow`来解决这个问题。 \[3\]
 
 `nofollow`的定义是在2005-2007年由作者声明版权的，受免版税的专利政策，W3C的专利政策20040205。\[4\] and
 IETF RFC 3667 & RFC 3668. The authors intend to submit this
 specification to a standards body with a liberal copyright/licensing
 policy such as the
-[GMPG](../Page/GMPG.md "wikilink")、[IETF](../Page/IETF.md "wikilink"),
-and/or [W3C](../Page/W3C.md "wikilink").\[5\]
+[GMPG](https://zh.wikipedia.org/wiki/GMPG "wikilink")、[IETF](https://zh.wikipedia.org/wiki/IETF "wikilink"),
+and/or [W3C](https://zh.wikipedia.org/wiki/W3C "wikilink").\[5\]
 
 ## 简介
 
@@ -29,7 +29,7 @@ and/or [W3C](../Page/W3C.md "wikilink").\[5\]
 
 ### 不能做什么
 
-`nofollow`这个属性值并不是能够阻止内容不被访问或者内容不被搜索引擎收录。[robots.txt这个方法可以阻止搜索引擎访问一个网站并且将网站收录到排名中](../Page/robots.txt.md "wikilink")。在页面中META的元素用来声明这个页面哪些搜索引擎可以访问。
+`nofollow`这个属性值并不是能够阻止内容不被访问或者内容不被搜索引擎收录。[robots.txt这个方法可以阻止搜索引擎访问一个网站并且将网站收录到排名中](https://zh.wikipedia.org/wiki/robots.txt "wikilink")。在页面中META的元素用来声明这个页面哪些搜索引擎可以访问。
 
 ## 搜索引擎的解释
 
@@ -42,10 +42,10 @@ link 将会把连接值传去给被连接的网站。\[8\]
 ## 參見
 
   - [PageRank](../Page/PageRank.md "wikilink")
-  - [noindex](../Page/noindex.md "wikilink")
-  - [robots.txt](../Page/robots.txt.md "wikilink")
-  - [搜索引擎优化](../Page/搜索引擎优化.md "wikilink")
-  - [网络爬虫](../Page/网络爬虫.md "wikilink")
+  - [noindex](https://zh.wikipedia.org/wiki/noindex "wikilink")
+  - [robots.txt](https://zh.wikipedia.org/wiki/robots.txt "wikilink")
+  - [搜索引擎优化](https://zh.wikipedia.org/wiki/搜索引擎优化 "wikilink")
+  - [网络爬虫](https://zh.wikipedia.org/wiki/网络爬虫 "wikilink")
 
 ## 外部链接
 
@@ -66,7 +66,7 @@ link 将会把连接值传去给被连接的网站。\[8\]
 
 3.
 
-4.  [[W3C](../Page/W3C.md "wikilink") Patent Policy
+4.  [[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink") Patent Policy
     20040205](http://www.w3.org/Consortium/Patent-Policy-20040205/)，*W3.ORG*
 
 5.

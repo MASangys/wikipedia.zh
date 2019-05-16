@@ -27,13 +27,13 @@
     [丸山隆平](../Page/丸山隆平.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")
 6.  群青涙 - [澀谷昴](../Page/澀谷昴.md "wikilink")
 7.  果テナキ空 -
-    [錦戸亮](../Page/錦戸亮.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
+    [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
 8.  The Detective
 9.  a. OVERTURE、b. ∞戰隊(∞レンジャー)、c. コント1、d. ともだち、e. コント2
 10. 太陽の子供
 11. ヤジルシ↑ - 澀谷・錦戸・大倉
 12. Knockin'Trackin' -
-    [村上信五](../Page/村上信五.md "wikilink")・[横山裕](../Page/横山裕.md "wikilink")・丸山・安田
+    [村上信五](../Page/村上信五.md "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")・丸山・安田
 13. Cool magic city
 14. SAKAおばちゃんROCK
 15. オニギシ

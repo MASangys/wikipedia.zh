@@ -32,7 +32,7 @@ tag，變相與`img`元素畫上等號）。\[6\]\[7\]\[8\]
 
 ## 參見
 
-  - [`longdesc`屬性](../Page/Longdesc屬性.md "wikilink")
+  - [`longdesc`屬性](https://zh.wikipedia.org/wiki/Longdesc屬性 "wikilink")
 
 ## 資料來源
 
@@ -62,7 +62,7 @@ tag，變相與`img`元素畫上等號）。\[6\]\[7\]\[8\]
 3.  [Bug 25537 - Alt text is not displayed as a tooltip over
     <img>](https://bugzilla.mozilla.org/show_bug.cgi?id=25537),
     [Mozilla](../Page/Mozilla.md "wikilink")
-    [bugzilla](../Page/bugzilla.md "wikilink")
+    [bugzilla](https://zh.wikipedia.org/wiki/bugzilla "wikilink")
 
 4.
 

@@ -1,4 +1,4 @@
-《**OREA**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鍾漢良的首張](../Page/鍾漢良.md "wikilink")[國語專輯](../Page/國語.md "wikilink")，於1995年7月7日發行，共有10首曲目\[1\]。主打歌為〈OREA〉及〈是愛還是傷害〉。
+《**OREA**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鍾漢良的首張](../Page/鍾漢良.md "wikilink")[國語專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於1995年7月7日發行，共有10首曲目\[1\]。主打歌為〈OREA〉及〈是愛還是傷害〉。
 
 ## 曲目
 
@@ -10,12 +10,12 @@
 
 ## 音樂錄影帶
 
-| 歌名                                                        | 導演                                      |
-| --------------------------------------------------------- | --------------------------------------- |
-| [OREA](https://www.youtube.com/watch?v=oI971vwUhk0)       | [陳怡君](../Page/陳怡君_\(導演\).md "wikilink") |
-| [是愛還是傷害](https://www.youtube.com/watch?v=qLcMO3ZHUWc)     |                                         |
-| [別在下雨天偷偷的哭泣](https://www.youtube.com/watch?v=vnB4NnIds6I) |                                         |
-|                                                           |                                         |
+| 歌名                                                        | 導演                                                         |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| [OREA](https://www.youtube.com/watch?v=oI971vwUhk0)       | [陳怡君](https://zh.wikipedia.org/wiki/陳怡君_\(導演\) "wikilink") |
+| [是愛還是傷害](https://www.youtube.com/watch?v=qLcMO3ZHUWc)     |                                                            |
+| [別在下雨天偷偷的哭泣](https://www.youtube.com/watch?v=vnB4NnIds6I) |                                                            |
+|                                                           |                                                            |
 
 ## 参考
 

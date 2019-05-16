@@ -1,6 +1,6 @@
 [GoogleImageSearch.png](https://zh.wikipedia.org/wiki/File:GoogleImageSearch.png "fig:GoogleImageSearch.png")
 
-**Google图片搜索**是[Google公司於](../Page/Google公司.md "wikilink")2001年7月推出的[图片搜索服務](../Page/图片搜索.md "wikilink")\[1\]。[Google
+**Google图片搜索**是[Google公司於](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2001年7月推出的[图片搜索服務](https://zh.wikipedia.org/wiki/图片搜索 "wikilink")\[1\]。[Google
 Chrome](../Page/Google_Chrome.md "wikilink")\[2\]及[Firefox](../Page/Firefox.md "wikilink")\[3\]提供擴充功能搜索網絡圖像。
 
 其知名的功能為以圖片搜尋圖片，但因涉入圖片版權爭議，其電腦版介紹頁面已無法使用，改為APP下載使用。\[4\]目前直接前往Google圖片頁面進行以圖搜圖的動作暫時仍無影響。
@@ -26,13 +26,15 @@ Google總裁Eric Schmidt表示，Google圖片的建立，是因為他想要看�
 ## 参见
 
   - [Google](../Page/Google.md "wikilink")
-      - [Google search](../Page/Google_search.md "wikilink")
+      - [Google
+        search](https://zh.wikipedia.org/wiki/Google_search "wikilink")
       - [YouTube](../Page/YouTube.md "wikilink")
   - [圖像檢索](../Page/圖像檢索.md "wikilink")
       - [基于内容的图像检索](../Page/基于内容的图像检索.md "wikilink")
-      - [Picsearch](../Page/Picsearch.md "wikilink")
+      - [Picsearch](https://zh.wikipedia.org/wiki/Picsearch "wikilink")
       - [TinEye](../Page/TinEye.md "wikilink")
-      - [Yahoo Image Search](../Page/Yahoo#Image_search.md "wikilink")
+      - [Yahoo Image
+        Search](https://zh.wikipedia.org/wiki/Yahoo#Image_search "wikilink")
 
 {{-}}
 

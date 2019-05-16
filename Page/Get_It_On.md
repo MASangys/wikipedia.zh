@@ -8,12 +8,12 @@
 <!-- end list -->
 
   - 本曲的開頭部分「Introduction to the Second Session」為精選輯『[BEST～second
-    session～](../Page/BEST～second_session～再體驗~第二次精選~.md "wikilink")』所收錄。另外，配信版本的封面主題為「[阿拉伯](../Page/阿拉伯.md "wikilink")」。
+    session～](https://zh.wikipedia.org/wiki/BEST～second_session～再體驗~第二次精選~ "wikilink")』所收錄。另外，配信版本的封面主題為「[阿拉伯](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")」。
 
 <!-- end list -->
 
-  - 後收錄於2009年3月25日發行的[精選輯](../Page/精選輯.md "wikilink")「[OUT WORKS &
-    COLLABORATION
+  - 後收錄於2009年3月25日發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")「[OUT
+    WORKS & COLLABORATION
     BEST](../Page/OUT_WORKS_&_COLLABORATION_BEST.md "wikilink")」中，首次將本曲CD音源化。
 
 ## 相關條目
@@ -21,7 +21,7 @@
   - [倖田來未](../Page/倖田來未.md "wikilink")
   - [12週單曲連發](../Page/12週單曲連發.md "wikilink")
   - [BEST～second session～
-    <small>再體驗～第二次精選～</small>](../Page/BEST～second_session～再體驗~第二次精選~.md "wikilink")
+    <small>再體驗～第二次精選～</small>](https://zh.wikipedia.org/wiki/BEST～second_session～再體驗~第二次精選~ "wikilink")
 
 ## 外部連結
 
@@ -29,8 +29,8 @@
     On](https://archive.is/20070505121239/http://music.mu-mo.net/album/?id=14632&subgenre&filetype=music)
   - [hotexpress](https://web.archive.org/web/20140519053147/http://www.hotexpress.co.jp/news/060301_kodakumi/)
 
-[fr:Get it On](../Page/fr:Get_it_On.md "wikilink") [ja:Get It
-On](../Page/ja:Get_It_On.md "wikilink")
+[fr:Get it On](https://zh.wikipedia.org/wiki/fr:Get_it_On "wikilink")
+[ja:Get It On](https://zh.wikipedia.org/wiki/ja:Get_It_On "wikilink")
 
 [Category:2006年歌曲](https://zh.wikipedia.org/wiki/Category:2006年歌曲 "wikilink")
 [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")

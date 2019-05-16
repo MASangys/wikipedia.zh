@@ -1,11 +1,11 @@
 《**假面骑士BLACK
 RX**》（原題：）为1988年（[昭和](../Page/昭和.md "wikilink")63年）～1989年（平成元年）期间，由[每日放送製作](../Page/每日放送.md "wikilink")，於[TBS電視網在每週日上午](../Page/TBS.md "wikilink")10:00～10:30播出的特攝電視劇，全47集。
 
-本作為[假面騎士系列的第九部作品](../Page/假面騎士系列.md "wikilink")。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](../Page/昭和天皇之死.md "wikilink")，因此也成為[日本邁入](../Page/日本.md "wikilink")[平成年代後](../Page/平成.md "wikilink")，第一部播出的《假面騎士》系列作品。
+本作為[假面騎士系列的第九部作品](../Page/假面騎士系列.md "wikilink")。由於本片播映時期適逢[昭和天皇](../Page/昭和天皇.md "wikilink")[去世](https://zh.wikipedia.org/wiki/昭和天皇之死 "wikilink")，因此也成為[日本邁入](../Page/日本.md "wikilink")[平成年代後](../Page/平成.md "wikilink")，第一部播出的《假面騎士》系列作品。
 
 ## 故事大纲
 
-戈爾哥姆被Black打败至今已有半年了。而南光太郎则在佐原家所属的公司担任[直升机工作员](../Page/直升机.md "wikilink")。光太郎后来被-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國（或譯波式斯帝國）;zh-tw:克萊西斯帝國;}-（Crisis
+戈爾哥姆被Black打败至今已有半年了。而南光太郎则在佐原家所属的公司担任[直升机工作员](https://zh.wikipedia.org/wiki/直升机 "wikilink")。光太郎后来被-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國（或譯波式斯帝國）;zh-tw:克萊西斯帝國;}-（Crisis
 Empire）抓走，并强迫为他们服务。光太郎拒绝了他们，因此破壞他原來的變身機能，被抛到[太阳裡](../Page/太阳.md "wikilink")。千钧一发之际，帝王石吸收太阳光线的能量，而使光太郎的被破壞的變身機能馬上復原，並成为新一代的假面骑士，太阳之子**假面骑士BLACK
 RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/地球.md "wikilink")。
 
@@ -28,12 +28,12 @@ RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/�
 
 ### 佐原家
 
-  - 佐原俊吉（台譯：凱凱）（[赤塚真人饰](../Page/赤塚真人.md "wikilink")）（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 唄子（[鶴間エリ饰](../Page/鶴間エリ.md "wikilink")）
+  - 佐原俊吉（台譯：凱凱）（[赤塚真人饰](https://zh.wikipedia.org/wiki/赤塚真人 "wikilink")）（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 唄子（[鶴間エリ饰](https://zh.wikipedia.org/wiki/鶴間エリ "wikilink")）
     （香港配音：[龍寶鈿](../Page/龍寶鈿.md "wikilink")）
-  - 佐原茂（[井上豪饰](../Page/井上豪.md "wikilink")）
+  - 佐原茂（[井上豪饰](https://zh.wikipedia.org/wiki/井上豪 "wikilink")）
     （香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
-  - 佐原ひとみ（港譯：佐原小美）（[井村翔子饰](../Page/井村翔子.md "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+  - 佐原ひとみ（港譯：佐原小美）（[井村翔子饰](https://zh.wikipedia.org/wiki/井村翔子 "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
 ### 其他
 
@@ -47,7 +47,7 @@ RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/�
 
 <!-- end list -->
 
-  - 霞之乔（台譯：莊俠／港譯：隋俠）（[小山力也饰](../Page/小山力也.md "wikilink")）（香港配音：[黃志明](../Page/黃志明.md "wikilink")）
+  - 霞之乔（台譯：莊俠／港譯：隋俠）（[小山力也饰](../Page/小山力也.md "wikilink")）（香港配音：[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")）
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@ RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/�
 <!-- end list -->
 
   - 的場
-    響子（台譯：娟娟）（[上野めぐみ饰](../Page/上野めぐみ.md "wikilink")）（香港配音：[吳小藝](../Page/吳小藝.md "wikilink")）
+    響子（台譯：娟娟）（[上野めぐみ饰](https://zh.wikipedia.org/wiki/上野めぐみ "wikilink")）（香港配音：[吳小藝](../Page/吳小藝.md "wikilink")）
 
 <!-- end list -->
 
@@ -71,11 +71,11 @@ RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/�
 
 <!-- end list -->
 
-  - 吾郎（[小野寺丈饰](../Page/小野寺丈.md "wikilink")）
+  - 吾郎（[小野寺丈饰](https://zh.wikipedia.org/wiki/小野寺丈 "wikilink")）
 
 <!-- end list -->
 
-  - 速水隼人（[佐渡稔饰](../Page/佐渡稔.md "wikilink")）
+  - 速水隼人（[佐渡稔饰](https://zh.wikipedia.org/wiki/佐渡稔 "wikilink")）
 
 <!-- end list -->
 
@@ -88,11 +88,12 @@ RX**。自此光太郎便与克莱西斯帝国战斗，保卫[地球](../Page/�
   - [假面騎士V3](../Page/假面騎士V3.md "wikilink")
   - 騎士人
   - [假面騎士X](../Page/假面騎士X.md "wikilink")
-  - [假面騎士Amazon](../Page/假面騎士Amazon.md "wikilink")
+  - [假面騎士Amazon](https://zh.wikipedia.org/wiki/假面騎士Amazon "wikilink")
   - [假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")
-  - [假面騎士Sky Rider](../Page/假面騎士Sky_Rider.md "wikilink")
-  - [假面騎士超一號](../Page/假面騎士超一號.md "wikilink")
-  - [假面騎士ZX](../Page/假面騎士ZX.md "wikilink")
+  - [假面騎士Sky
+    Rider](https://zh.wikipedia.org/wiki/假面騎士Sky_Rider "wikilink")
+  - [假面騎士超一號](https://zh.wikipedia.org/wiki/假面騎士超一號 "wikilink")
+  - [假面騎士ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
 
 ## 幪面超人
 
@@ -199,7 +200,7 @@ RX變身成各種形態，亦完全處於下風，無法還擊。
         （香港配音：[葉少榮](../Page/葉少榮.md "wikilink")-\>[陳永信](../Page/陳永信.md "wikilink")）
         （第28集初登场，真正身份是克莱西斯皇帝，第47集被RX逼得露出原型，之后被消灭）
   - ガロニア（加罗丽亚）公主（第16集小瞳被玛莉巴罗带到奇迹之谷后变为加罗丽亚公主，第17集回复为小瞳）
-  - ジャーク（杰克）将军/柴將軍（第1集初登场）/最強怪人ジャークミドラ（杰克米多拉，第46集杰克被克莱西斯帝国皇帝吸进去后变成，当集被RX打败）（香港配音：[程輝](../Page/程輝.md "wikilink")）
+  - ジャーク（杰克）将军/柴將軍（第1集初登场）/最強怪人ジャークミドラ（杰克米多拉，第46集杰克被克莱西斯帝国皇帝吸进去后变成，当集被RX打败）（香港配音：[程輝](https://zh.wikipedia.org/wiki/程輝 "wikilink")）
 
 ### 四大队长
 
@@ -208,7 +209,7 @@ RX變身成各種形態，亦完全處於下風，無法還擊。
   - 怪魔獸人 海兵队长　ボスガン/波斯坎 （香港譯名:波漢 ；配音:[黃子敬](../Page/黃子敬.md "wikilink")
     ）（第1集初登场，第44集被消灭）
   - 怪魔機器人 机甲队长　ガテゾーン/加迪森 （香港譯名:卡遜
-    ；配音:[黃志明](../Page/黃志明.md "wikilink")（第1-4集）[陳欣](../Page/陳欣.md "wikilink")（第5-43集））
+    ；配音:[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（第1-4集）[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")（第5-43集））
     （第1集初登场，第43集身体部分自爆，头部被RX用风车剑砍断发出激光之后最终被消灭）
   - 怪魔異生獸 牙队长　ゲドリアン/京多利安 （香港譯名:杜安 ；配音:[陸頌愚](../Page/陸頌愚.md "wikilink")）
     （第1集初登场，第42集将自己的能源赋予盖德鲁多利鲁时在盖德鲁多利鲁被RX打败之后爆炸身亡）
@@ -299,26 +300,26 @@ RX變身成各種形態，亦完全處於下風，無法還擊。
 ## 动作演员
 
   - 假面骑士BLACK RX／生化骑士／机械骑士：-{岡}-元次郎
-  - 生化骑士／机械骑士／影月：[岩田时男](../Page/岩田时男.md "wikilink")
-  - 生化骑士：[菊地寿幸](../Page/菊地寿幸.md "wikilink")
-  - 賈克将军：[菊地寿幸](../Page/菊地寿幸.md "wikilink")
-  - 波斯坎：[藤木義勝](../Page/藤木義勝.md "wikilink")
-  - 加迪森：[北村隆幸](../Page/北村隆幸.md "wikilink")
-  - 京多利安：[渡邊實](../Page/渡邊實.md "wikilink")
-  - 部分怪魔戰士：[末永貴久](../Page/末永貴久.md "wikilink")
+  - 生化骑士／机械骑士／影月：[岩田时男](https://zh.wikipedia.org/wiki/岩田时男 "wikilink")
+  - 生化骑士：[菊地寿幸](https://zh.wikipedia.org/wiki/菊地寿幸 "wikilink")
+  - 賈克将军：[菊地寿幸](https://zh.wikipedia.org/wiki/菊地寿幸 "wikilink")
+  - 波斯坎：[藤木義勝](https://zh.wikipedia.org/wiki/藤木義勝 "wikilink")
+  - 加迪森：[北村隆幸](https://zh.wikipedia.org/wiki/北村隆幸 "wikilink")
+  - 京多利安：[渡邊實](https://zh.wikipedia.org/wiki/渡邊實 "wikilink")
+  - 部分怪魔戰士：[末永貴久](https://zh.wikipedia.org/wiki/末永貴久 "wikilink")
 
 ## 主题曲
 
   - **《》**
-      - 作词：[康珍化](../Page/康珍化.md "wikilink")
-      - 作曲、编曲：[川村榮二](../Page/川村榮二.md "wikilink")
-      - 演唱：[宮内堂千](../Page/宮内堂千.md "wikilink")
+      - 作词：[康珍化](https://zh.wikipedia.org/wiki/康珍化 "wikilink")
+      - 作曲、编曲：[川村榮二](https://zh.wikipedia.org/wiki/川村榮二 "wikilink")
+      - 演唱：[宮内堂千](https://zh.wikipedia.org/wiki/宮内堂千 "wikilink")
 
 <!-- end list -->
 
   - **《》**
       - 作词：康珍化
-      - 作曲：[林哲司](../Page/林哲司.md "wikilink")
+      - 作曲：[林哲司](https://zh.wikipedia.org/wiki/林哲司 "wikilink")
       - 编曲：川村荣二
       - 演唱：宮内堂千
 
@@ -447,7 +448,7 @@ RX變身成各種形態，亦完全處於下風，無法還擊。
 
 ### 香港
 
-在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播放](../Page/本港台.md "wikilink")。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[1\]\[2\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六晚或逢](../Page/星期六.md "wikilink")[星期日晚](../Page/星期日.md "wikilink")。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日早上](../Page/星期日.md "wikilink")7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台並無再次安排重播](../Page/本港台.md "wikilink")《假面騎士BLACK》。但在香港[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台首播](../Page/翡翠台.md "wikilink")《[幪面超人帝騎](../Page/幪面超人帝騎.md "wikilink")》時則按日本原譯為**幪面超人BLACK
+在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播放](../Page/本港台.md "wikilink")。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[1\]\[2\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六晚或逢](../Page/星期六.md "wikilink")[星期日晚](../Page/星期日.md "wikilink")。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日早上](../Page/星期日.md "wikilink")7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台並無再次安排重播](../Page/本港台.md "wikilink")《假面騎士BLACK》。但在香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台首播](../Page/翡翠台.md "wikilink")《[幪面超人帝騎](https://zh.wikipedia.org/wiki/幪面超人帝騎 "wikilink")》時則按日本原譯為**幪面超人BLACK
 RX**。
 
 ## 註解

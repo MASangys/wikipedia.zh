@@ -1,8 +1,8 @@
 **新SD高達外傳
-黃金神話**是SD高達外傳第六作，以「[機動武鬥傳G高達](../Page/機動武鬥傳G高達.md "wikilink")」為主要角色藍本。本作最大特色，是出現於各章的超越之龍，與黃金龍結合成巨大黃金神。（同年於[SD戰國傳
-超機動大將軍編中出現的](../Page/SD戰國傳_超機動大將軍編.md "wikilink")「超機動大將軍」，組合方式同樣是將SD角色結合MS機身。）
+黃金神話**是SD高達外傳第六作，以「[機動武鬥傳G高達](https://zh.wikipedia.org/wiki/機動武鬥傳G高達 "wikilink")」為主要角色藍本。本作最大特色，是出現於各章的超越之龍，與黃金龍結合成巨大黃金神。（同年於[SD戰國傳
+超機動大將軍編中出現的](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍編 "wikilink")「超機動大將軍」，組合方式同樣是將SD角色結合MS機身。）
 
-本作的藍本是來自[戰士高迪安以及](../Page/戰士高迪安.md "wikilink")[魔神英雄傳](../Page/魔神英雄傳.md "wikilink")。
+本作的藍本是來自[戰士高迪安以及](https://zh.wikipedia.org/wiki/戰士高迪安 "wikilink")[魔神英雄傳](../Page/魔神英雄傳.md "wikilink")。
 
 ## 故事簡要
 
@@ -64,7 +64,8 @@ GUNDAM))—元祖SD.0063
   -
     龍高達的弟子。
 
-**劍士玫瑰高達**(剣士ローズガンダム（[Rose Gundam](../Page/Rose_Gundam.md "wikilink")）)
+**劍士玫瑰高達**(剣士ローズガンダム（[Rose
+Gundam](https://zh.wikipedia.org/wiki/Rose_Gundam "wikilink")）)
 
   -
     メビウス共和國的劍士。
@@ -75,7 +76,7 @@ GUNDAM))—元祖SD.0063
     メビウス共和國的劍士。
 
 '''鬥士美國之星高達(闘士マックスガンダム、[Gundam
-Maxter](../Page/Gundam_Maxter.md "wikilink")）
+Maxter](https://zh.wikipedia.org/wiki/Gundam_Maxter "wikilink")）
 
   -
     カービィ王國的鬥士。
@@ -86,7 +87,7 @@ Maxter](../Page/Gundam_Maxter.md "wikilink")）
     美國之星的同伴。
 
 **重戰士金剛石高達**（重戰士ボルトガンダム、[Bolt
-Gundam](../Page/Bolt_Gundam.md "wikilink")）
+Gundam](https://zh.wikipedia.org/wiki/Bolt_Gundam "wikilink")）
 
   -
     被控制面加入デスペリオル族的戰士，在戰士阿爾戈的呼喚下才再次覺醒。漫畫版中是出賊出身，原本仕奉ミリティア王國、後來才成為デスペリオル族成員。與阿爾戈猶如親人一樣密切。
@@ -105,9 +106,10 @@ Gundam](../Page/Bolt_Gundam.md "wikilink")）
 #### 異能戰士
 
   -
-    獲得魔龍機惡魔龍騎兵邪惡力量的異能戰士，成員全部以美國英雄漫畫、以及[X-Men角色為藍本](../Page/變種特攻.md "wikilink")。
+    獲得魔龍機惡魔龍騎兵邪惡力量的異能戰士，成員全部以美國英雄漫畫、以及[X-Men角色為藍本](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")。
 
-**異能戰士RF老虎**(異能戦士RFグ)/RF Gouf + [蜘蛛俠](../Page/蜘蛛俠.md "wikilink")
+**異能戰士RF老虎**(異能戦士RFグ)/RF Gouf +
+[蜘蛛俠](https://zh.wikipedia.org/wiki/蜘蛛俠 "wikilink")
 
   -
     異能戰士之一，行動敏捷，可操縱黏性極強、用途廣泛的蜘蛛絲攻擊
@@ -115,17 +117,18 @@ Gundam](../Page/Bolt_Gundam.md "wikilink")）
 **異能戰士突擊亞克托．德卡(異能戦士ストライクギラドーガ)異能戦士ストライクギラドーガ)**/亞克托．德卡+[石頭人](../Page/石頭人.md "wikilink")
 
 **異能戰士葛索拿**(異能戦士ゴッゾーラ)/
-[葛索拿](../Page/ZMT-S13G.md "wikilink")+[狼人](../Page/金鋼狼.md "wikilink")
+[葛索拿](https://zh.wikipedia.org/wiki/ZMT-S13G "wikilink")+[狼人](../Page/金鋼狼.md "wikilink")
 
 **異能戰士野蒜夏克**(異能戦士ノビルシャッコー)/夏克+[神奇先生](../Page/神奇先生.md "wikilink")
 
-**異能戰士圓珠佐利迪克(異能戦士オプトゾリティア)**/[佐利迪克](../Page/ZM-S06G.md "wikilink")+[鐳射眼](../Page/變種特攻.md "wikilink")
+**異能戰士圓珠佐利迪克(異能戦士オプトゾリティア)**/[佐利迪克](https://zh.wikipedia.org/wiki/ZM-S06G "wikilink")+[鐳射眼](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
-**異能戰士Ice Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](../Page/變種特攻.md "wikilink")
+**異能戰士Ice
+Bomber**(異能戦士アイスボマー)/伊弗利特+[冰凍人](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
-**異能戰士野獸戰蟹**(異能戦士ワイルドゴッグ)/[戰蟹](../Page/MSM-03.md "wikilink")+[劍齒虎](../Page/變種特攻.md "wikilink")
+**異能戰士野獸戰蟹**(異能戦士ワイルドゴッグ)/[戰蟹](https://zh.wikipedia.org/wiki/MSM-03 "wikilink")+[劍齒虎](https://zh.wikipedia.org/wiki/變種特攻 "wikilink")
 
-**異能戰士戰槌格魯古古**(異能戦士ハンマーゲルググ)/[格魯古古](../Page/ms-14.md "wikilink")+[雷神奇俠](../Page/雷神奇俠.md "wikilink")
+**異能戰士戰槌格魯古古**(異能戦士ハンマーゲルググ)/[格魯古古](https://zh.wikipedia.org/wiki/ms-14 "wikilink")+[雷神奇俠](https://zh.wikipedia.org/wiki/雷神奇俠 "wikilink")
 
 ### 天界
 
@@ -136,7 +139,8 @@ Gundam](../Page/Bolt_Gundam.md "wikilink")）
 
 ## 參考書目
 
-  - 單行本「SD高達外傳 黃金神話」（[ほしの竜一著](../Page/ほしの竜一.md "wikilink")）
+  - 單行本「SD高達外傳
+    黃金神話」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
 
 <!-- end list -->
 

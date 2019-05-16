@@ -11,9 +11,9 @@ You***使得[席琳·狄翁在流行音樂界獲得了更多矚目](../Page/席�
 專輯的主打單曲包含了各種音樂風格.如翻唱自Tina Turner的"River Deep, Mountain
 High"突出了打擊樂器的節奏,翻唱自Jim Steinman的"It's All Coming
 Back to Me Now"和翻唱自Eric Carmen的 "All by
-Myself"在保持了原唱慢搖滾音樂風格的同時,在配樂製作上也有創新.由著名詞曲作者[戴安·華倫](../Page/戴安·華倫.md "wikilink")（Diane
+Myself"在保持了原唱慢搖滾音樂風格的同時,在配樂製作上也有創新.由著名詞曲作者[戴安·華倫](https://zh.wikipedia.org/wiki/戴安·華倫 "wikilink")（Diane
 Warren）譜寫的慢板情歌"Because You Loved
-Me"是1996年上映，由[勞勃·瑞福以及](../Page/勞勃·瑞福.md "wikilink")[蜜雪兒菲佛主演的電影](../Page/蜜雪兒菲佛.md "wikilink")《[因為你愛過我](../Page/因為你愛過我.md "wikilink")（Up
+Me"是1996年上映，由[勞勃·瑞福以及](../Page/勞勃·瑞福.md "wikilink")[蜜雪兒菲佛主演的電影](https://zh.wikipedia.org/wiki/蜜雪兒菲佛 "wikilink")《[因為你愛過我](https://zh.wikipedia.org/wiki/因為你愛過我 "wikilink")（Up
 Close &
 Personal）》的主題曲，此曲也被提名為1996年奧斯卡獎最佳電影主題曲以及格萊美獎最佳電影主題曲。這也成為席琳的招牌曲目之一.
 專輯也同時包含了Carole King的名曲"(You Make Me Feel Like) A Natural
@@ -58,7 +58,7 @@ Top10中保持了59周.憑藉如此的銷售成績,也使這張專輯連續成�
 在歐洲,專輯在"European Top 100
 Albums"榜上登頂,總共取得了1000萬的銷售,由IFPI認證為10白金專輯.在當時只有其他兩張專輯能夠達到這樣的銷量,他們是[席琳·狄翁的另一張英文專輯](../Page/席琳·狄翁.md "wikilink")"Let's
 Talk About Love"和[The
-Beatles的](../Page/The_Beatles.md "wikilink")"1".\[8\]\[9\]\[10\]
+Beatles的](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")"1".\[8\]\[9\]\[10\]
 
 在英國,專輯首周金榜就排名第一,最終銷售了愈210萬.獲得7白金認證.\[11\]
 
@@ -90,67 +90,67 @@ You***取代了"D'eux"成為排行榜冠軍,總共獲得五周冠軍.在其他�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/ARIA_Charts.md" title="wikilink">Australian Albums Chart</a>[20]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ARIA_Charts" title="wikilink">Australian Albums Chart</a>[20]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ö3_Austria_Top_40.md" title="wikilink">Austrian Albums Chart</a>[21]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ö3_Austria_Top_40" title="wikilink">Austrian Albums Chart</a>[21]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ultratop.md" title="wikilink">Belgian Flanders Albums Chart</a>[22]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop" title="wikilink">Belgian Flanders Albums Chart</a>[22]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ultratop.md" title="wikilink">Belgian Wallonia Albums Chart</a>[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ultratop" title="wikilink">Belgian Wallonia Albums Chart</a>[23]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Canadian_Albums_Chart.md" title="wikilink">Canadian Albums Chart</a>[24]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Canadian_Albums_Chart" title="wikilink">Canadian Albums Chart</a>[24]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/RPM_(magazine).md" title="wikilink">Canadian RPM Albums Chart</a>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RPM_(magazine)" title="wikilink">Canadian RPM Albums Chart</a>[25]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Tracklisten.md" title="wikilink">Danish Albums Chart</a>[26]<sup>1</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tracklisten" title="wikilink">Danish Albums Chart</a>[26]<sup>1</sup></p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MegaCharts.md" title="wikilink">Dutch Albums Chart</a>[27]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MegaCharts" title="wikilink">Dutch Albums Chart</a>[27]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/European_Top_100_Albums.md" title="wikilink">European Albums Chart</a>[28]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/European_Top_100_Albums" title="wikilink">European Albums Chart</a>[28]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Finland&#39;s_Official_List.md" title="wikilink">Finnish Albums Chart</a>[29]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Finland&#39;s_Official_List" title="wikilink">Finnish Albums Chart</a>[29]</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Syndicat_National_de_l&#39;Édition_Phonographique.md" title="wikilink">French Albums Chart</a>[30]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Syndicat_National_de_l&#39;Édition_Phonographique" title="wikilink">French Albums Chart</a>[30]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Media_Control_Charts.md" title="wikilink">German Albums Chart</a>[31]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Media_Control_Charts" title="wikilink">German Albums Chart</a>[31]</p></td>
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IFPI_Greece.md" title="wikilink">Greek Albums Chart</a>[32]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI_Greece" title="wikilink">Greek Albums Chart</a>[32]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mahasz.md" title="wikilink">Hungarian Albums Chart</a>[33]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mahasz" title="wikilink">Hungarian Albums Chart</a>[33]</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Irish_Albums_Chart.md" title="wikilink">Irish Albums Chart</a>[34]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Irish_Albums_Chart" title="wikilink">Irish Albums Chart</a>[34]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Federation_of_the_Italian_Music_Industry.md" title="wikilink">Italian Albums Chart</a>[35]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Federation_of_the_Italian_Music_Industry" title="wikilink">Italian Albums Chart</a>[35]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
@@ -158,35 +158,35 @@ You***取代了"D'eux"成為排行榜冠軍,總共獲得五周冠軍.在其他�
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Recording_Industry_Association_of_New_Zealand.md" title="wikilink">New Zealand Albums Chart</a>[37]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_New_Zealand" title="wikilink">New Zealand Albums Chart</a>[37]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/VG-lista.md" title="wikilink">Norwegian Albums Chart</a>[38]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VG-lista" title="wikilink">Norwegian Albums Chart</a>[38]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Associação_Fonográfica_Portuguesa.md" title="wikilink">Portuguese Albums Chart</a>[39]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Associação_Fonográfica_Portuguesa" title="wikilink">Portuguese Albums Chart</a>[39]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Productores_de_Música_de_España.md" title="wikilink">Spanish Albums Chart</a>[40]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Productores_de_Música_de_España" title="wikilink">Spanish Albums Chart</a>[40]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Sverigetopplistan.md" title="wikilink">Swedish Albums Chart</a>[41]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sverigetopplistan" title="wikilink">Swedish Albums Chart</a>[41]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Swiss_Music_Charts.md" title="wikilink">Swiss Albums Chart</a>[42]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Swiss_Music_Charts" title="wikilink">Swiss Albums Chart</a>[42]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/UK_Albums_Chart.md" title="wikilink">UK Albums Chart</a>[43]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UK_Albums_Chart" title="wikilink">UK Albums Chart</a>[43]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Billboard_200.md" title="wikilink">US <em>Billboard</em> 200</a>[44]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_200" title="wikilink">US <em>Billboard</em> 200</a>[44]</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>
@@ -200,31 +200,31 @@ You***取代了"D'eux"成為排行榜冠軍,總共獲得五周冠軍.在其他�
 
 ### 各國銷量認證
 
-| 國家                                                                                          | [認證成績](../Page/List_of_music_recording_sales_certifications.md "wikilink")<sup>2</sup> |
-| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Argentina](../Page/Argentine_Chamber_of_Phonograms_and_Videograms_Producers.md "wikilink") | 白金\[46\]                                                                               |
-| [Australia](../Page/Australian_Recording_Industry_Association.md "wikilink")                | 13× 白金\[47\]                                                                           |
-| [Austria](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")      | 2× 白金\[48\]                                                                            |
-| [Belgium](../Page/Ultratop.md "wikilink")                                                   | 4× 白金\[49\]                                                                            |
-| [Brazil](../Page/Associação_Brasileira_dos_Produtores_de_Discos.md "wikilink")              | 黃金\[50\]                                                                               |
-| [Canada](../Page/Canadian_Recording_Industry_Association.md "wikilink")                     | 鑽石\[51\]                                                                               |
-| [Europe](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")       | 9× 白金\[52\]\[53\]                                                                      |
-| [Finland](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")      | 白金\[54\]                                                                               |
-| [France](../Page/Syndicat_National_de_l'Édition_Phonographique.md "wikilink")               | 鑽石\[55\]                                                                               |
-| [Germany](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")      | 5× 黃金\[56\]                                                                            |
-| [Hungary](../Page/Mahasz.md "wikilink")                                                     | 黃金\[57\]                                                                               |
-| [Japan](../Page/RIAJ.md "wikilink")                                                         | 百萬銷量\[58\]                                                                             |
-| [Netherlands](../Page/NVPI.md "wikilink")                                                   | 6× 白金\[59\]                                                                            |
-| [New Zealand](../Page/Recording_Industry_Association_of_New_Zealand.md "wikilink")          | 12× 白金\[60\]                                                                           |
-| [Norway](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")       | 3× 白金\[61\]                                                                            |
-| [Philippines](../Page/Philippines.md "wikilink")                                            | 3× 白金\[62\]                                                                            |
-| [Poland](../Page/ZPAV.md "wikilink")                                                        | 白金\[63\]                                                                               |
-| [Spain](../Page/Productores_de_Música_de_España.md "wikilink")                              | 2× 白金\[64\]                                                                            |
-| [Sweden](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")       | 2× 白金\[65\]                                                                            |
-| [Switzerland](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")  | 3× 白金\[66\]                                                                            |
-| [Taiwan](../Page/International_Federation_of_the_Phonographic_Industry.md "wikilink")       | 12× 白金 + 1× 黃金\[67\]                                                                   |
-| [United Kingdom](../Page/British_Phonographic_Industry.md "wikilink")                       | 7× 白金\[68\]                                                                            |
-| [United States](../Page/Recording_Industry_Association_of_America.md "wikilink")            | 11× 白金 (即1鑽石+1白金)\[69\]                                                                |
+| 國家                                                                                                             | [認證成績](https://zh.wikipedia.org/wiki/List_of_music_recording_sales_certifications "wikilink")<sup>2</sup> |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [Argentina](https://zh.wikipedia.org/wiki/Argentine_Chamber_of_Phonograms_and_Videograms_Producers "wikilink") | 白金\[46\]                                                                                                  |
+| [Australia](https://zh.wikipedia.org/wiki/Australian_Recording_Industry_Association "wikilink")                | 13× 白金\[47\]                                                                                              |
+| [Austria](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")      | 2× 白金\[48\]                                                                                               |
+| [Belgium](https://zh.wikipedia.org/wiki/Ultratop "wikilink")                                                   | 4× 白金\[49\]                                                                                               |
+| [Brazil](https://zh.wikipedia.org/wiki/Associação_Brasileira_dos_Produtores_de_Discos "wikilink")              | 黃金\[50\]                                                                                                  |
+| [Canada](https://zh.wikipedia.org/wiki/Canadian_Recording_Industry_Association "wikilink")                     | 鑽石\[51\]                                                                                                  |
+| [Europe](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")       | 9× 白金\[52\]\[53\]                                                                                         |
+| [Finland](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")      | 白金\[54\]                                                                                                  |
+| [France](https://zh.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique "wikilink")               | 鑽石\[55\]                                                                                                  |
+| [Germany](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")      | 5× 黃金\[56\]                                                                                               |
+| [Hungary](https://zh.wikipedia.org/wiki/Mahasz "wikilink")                                                     | 黃金\[57\]                                                                                                  |
+| [Japan](https://zh.wikipedia.org/wiki/RIAJ "wikilink")                                                         | 百萬銷量\[58\]                                                                                                |
+| [Netherlands](https://zh.wikipedia.org/wiki/NVPI "wikilink")                                                   | 6× 白金\[59\]                                                                                               |
+| [New Zealand](https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_New_Zealand "wikilink")          | 12× 白金\[60\]                                                                                              |
+| [Norway](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")       | 3× 白金\[61\]                                                                                               |
+| [Philippines](https://zh.wikipedia.org/wiki/Philippines "wikilink")                                            | 3× 白金\[62\]                                                                                               |
+| [Poland](https://zh.wikipedia.org/wiki/ZPAV "wikilink")                                                        | 白金\[63\]                                                                                                  |
+| [Spain](https://zh.wikipedia.org/wiki/Productores_de_Música_de_España "wikilink")                              | 2× 白金\[64\]                                                                                               |
+| [Sweden](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")       | 2× 白金\[65\]                                                                                               |
+| [Switzerland](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")  | 3× 白金\[66\]                                                                                               |
+| [Taiwan](https://zh.wikipedia.org/wiki/International_Federation_of_the_Phonographic_Industry "wikilink")       | 12× 白金 + 1× 黃金\[67\]                                                                                      |
+| [United Kingdom](https://zh.wikipedia.org/wiki/British_Phonographic_Industry "wikilink")                       | 7× 白金\[68\]                                                                                               |
+| [United States](https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_America "wikilink")            | 11× 白金 (即1鑽石+1白金)\[69\]                                                                                   |
 
 <small> <sup>1</sup> 此榜單由1997年1月才開始計算。
 <sup>2</sup> 絕大部分銷量認證是屬於陳舊的資料，所以有些國家的銷量已經獲得更高的認證程度。 </small>

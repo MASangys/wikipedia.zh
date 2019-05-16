@@ -1,5 +1,5 @@
 《**STAR DRIVER
-銀河美少年**》（），2010年10月3日預訂在[MBS](../Page/每日放送.md "wikilink")、[TBS系列](../Page/TBS電視.md "wikilink")（[JNN](../Page/日本新聞網.md "wikilink")）開始放送的原創[電視動畫](../Page/電視動畫.md "wikilink")。劇場版於2013年2月9日上映。
+銀河美少年**》（），2010年10月3日預訂在[MBS](../Page/每日放送.md "wikilink")、[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")）開始放送的原創[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。劇場版於2013年2月9日上映。
 
 ## 概要
 
@@ -174,7 +174,7 @@
     **隱藏身份**：不明
     **髮色**：棕
     **瞳色**：深藍
-    戲劇社「夜間飛行」的**社長**，三年前自[東京來到南十字島](../Page/東京.md "wikilink")。
+    戲劇社「夜間飛行」的**社長**，三年前自[東京來到南十字島](https://zh.wikipedia.org/wiki/東京 "wikilink")。
     身分神秘，知道綺羅星十字團和零時空間的存在，常是**揚卷·和子**等人商量的對象。
     養有一隻名為「副社長」的寵物狐狸。
 
@@ -763,7 +763,7 @@
   -
     綺羅星十字團內的高層幹部，例如Driver等的，每人的服裝都是自己設計的。
     底層團員則全都是清一色樣式。
-    十字團內的不同隊員以[撲克牌的不同花色加以區分](../Page/撲克牌.md "wikilink")，並反映在其團服上(第二隊為黑桃，第三隊為紅桃，第四隊為方塊，第五隊為草花，第六隊則為百搭牌)
+    十字團內的不同隊員以[撲克牌的不同花色加以區分](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")，並反映在其團服上(第二隊為黑桃，第三隊為紅桃，第四隊為方塊，第五隊為草花，第六隊則為百搭牌)
 
 #### 綺羅星
 
@@ -785,23 +785,23 @@
   - 原作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
   - 監督：[五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")
   - 系列構成：[榎戶洋司](../Page/榎戶洋司.md "wikilink")
-  - 人物原案：[水屋美沙](../Page/水屋美沙.md "wikilink")×[水屋洋花](../Page/水屋洋花.md "wikilink")
+  - 人物原案：[水屋美沙](https://zh.wikipedia.org/wiki/水屋美沙 "wikilink")×[水屋洋花](https://zh.wikipedia.org/wiki/水屋洋花 "wikilink")
   - 人物設定、總作畫監督：[伊藤嘉之](../Page/伊藤嘉之.md "wikilink")
   - 賽巴迪設計：
   - 概念設計：[荒牧伸志](../Page/荒牧伸志.md "wikilink")
-  - 美術設計：[永井一男](../Page/永井一男.md "wikilink")
-  - 地下世界設計：[岡田有章](../Page/岡田有章.md "wikilink")
+  - 美術設計：[永井一男](https://zh.wikipedia.org/wiki/永井一男 "wikilink")
+  - 地下世界設計：[岡田有章](https://zh.wikipedia.org/wiki/岡田有章 "wikilink")
   - 工業設計：[柳瀨敬之](../Page/柳瀨敬之.md "wikilink")
-  - 美術監督：[脇威志](../Page/脇威志.md "wikilink")
-  - 色彩設計：[中山志保子](../Page/中山志保子.md "wikilink")
-  - 攝影監督：[神林剛](../Page/神林剛.md "wikilink")
+  - 美術監督：[脇威志](https://zh.wikipedia.org/wiki/脇威志 "wikilink")
+  - 色彩設計：[中山志保子](https://zh.wikipedia.org/wiki/中山志保子 "wikilink")
+  - 攝影監督：[神林剛](https://zh.wikipedia.org/wiki/神林剛 "wikilink")
   - 編集：[西山茂](../Page/西山茂.md "wikilink")
-  - 音樂：[神前曉](../Page/神前曉.md "wikilink")、[MONACA](../Page/MONACA.md "wikilink")
+  - 音樂：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")、[MONACA](https://zh.wikipedia.org/wiki/MONACA "wikilink")
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
-  - 製作人：[丸山博雄](../Page/丸山博雄.md "wikilink")、[大藪芳廣](../Page/大藪芳廣.md "wikilink")、[大山良](../Page/大山良.md "wikilink")、[稻垣浩文](../Page/稻垣浩文.md "wikilink")、[倉重宣之](../Page/倉重宣之.md "wikilink")
+  - 製作人：[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")、[大藪芳廣](https://zh.wikipedia.org/wiki/大藪芳廣 "wikilink")、[大山良](https://zh.wikipedia.org/wiki/大山良 "wikilink")、[稻垣浩文](https://zh.wikipedia.org/wiki/稻垣浩文 "wikilink")、[倉重宣之](https://zh.wikipedia.org/wiki/倉重宣之 "wikilink")
   - 動畫製作：BONES
   - 製作：STAR
-    DRIVER製作委員會（[Aniplex](../Page/Aniplex.md "wikilink")、[南夢宮萬代](../Page/南夢宮萬代.md "wikilink")、BONES、[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")）、[每日放送](../Page/每日放送.md "wikilink")
+    DRIVER製作委員會（[Aniplex](../Page/Aniplex.md "wikilink")、[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")、BONES、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）、[每日放送](../Page/每日放送.md "wikilink")
 
 ## 主題曲
 
@@ -824,12 +824,12 @@
 2.  《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》**（第14話－第24話）**
       -
         作詞︰TOMOMI、Hidenori Tanaka，作曲：Hidenori Tanaka，編曲：Keita
-        Kawaguchi，歌：[SCANDAL](../Page/SCANDAL.md "wikilink")
+        Kawaguchi，歌：[SCANDAL](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
 
 ### 剧中曲
 
   - 《》
-    作詞：，作曲：[神前曉](../Page/神前曉.md "wikilink")，編曲：高田龍一，歌：（[戶松遙](../Page/戶松遙.md "wikilink")）
+    作詞：，作曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，編曲：高田龍一，歌：（[戶松遙](../Page/戶松遙.md "wikilink")）
     使用話數：第1、2、3、5、7、25話
   - 《》
     作詞：，作曲：神前曉， 編曲：神前暁、帆足圭吾，歌：（[早見沙織](../Page/早見沙織.md "wikilink")）
@@ -1126,7 +1126,7 @@
 電視動畫開播前的先驅，於《[YOUNG
 GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2010年18號開始連載。作畫由KEY
 by
-Ylab擔任。三本[漫畫](../Page/漫畫.md "wikilink")[單行本於](../Page/單行本.md "wikilink")2011年2月26日至2012年1月25日發售。\[5\]\[6\]
+Ylab擔任。三本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年2月26日至2012年1月25日發售。\[5\]\[6\]
 
 ## 劇場版
 
@@ -1165,13 +1165,13 @@ Ylab擔任。三本[漫畫](../Page/漫畫.md "wikilink")[單行本於](../Page/
 
 ## 播放電視台
 
-| 播放電視台                                                                                                      | 播放日期         | 播放时间（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 備註                                   |
-| ---------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------- | ------------------------------------ |
-| [MBS](../Page/每日放送.md "wikilink")・[TBS系列](../Page/TBS電視.md "wikilink")（[JNN](../Page/日本新聞網.md "wikilink")） | 2010年10月3日－  | 星期日 17時00分 - 17時30分                                                     | [地面電視播放](../Page/地面電視.md "wikilink") |
-| [GyaO\!](../Page/GyaO!.md "wikilink")                                                                      | 2010年10月8日－  | 星期五更新                                                                   | [网络电视](../Page/网络电视.md "wikilink")   |
-| MBS公式番宣サイト                                                                                                 | 2010年10月14日－ | 星期五 0時00分更新（第2話以後）                                                      |                                      |
-| [萬代頻道](../Page/萬代頻道.md "wikilink")                                                                         | 2010年10月15日－ | 星期五更新                                                                   |                                      |
-| アニメモビ                                                                                                      | 星期五更新        | [移動電視](../Page/移動電視.md "wikilink")                                      |                                      |
+| 播放電視台                                                                                                                                            | 播放日期         | 播放时间（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [MBS](../Page/每日放送.md "wikilink")・[TBS系列](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")） | 2010年10月3日－  | 星期日 17時00分 - 17時30分                                                                                           | [地面電視播放](../Page/地面電視.md "wikilink") |
+| [GyaO\!](https://zh.wikipedia.org/wiki/GyaO! "wikilink")                                                                                         | 2010年10月8日－  | 星期五更新                                                                                                         | [网络电视](../Page/网络电视.md "wikilink")   |
+| MBS公式番宣サイト                                                                                                                                       | 2010年10月14日－ | 星期五 0時00分更新（第2話以後）                                                                                            |                                      |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                                                                                               | 2010年10月15日－ | 星期五更新                                                                                                         |                                      |
+| アニメモビ                                                                                                                                            | 星期五更新        | [移動電視](https://zh.wikipedia.org/wiki/移動電視 "wikilink")                                                         |                                      |
 
 <table>
 <caption>日本國外</caption>
@@ -1198,7 +1198,7 @@ Ylab擔任。三本[漫畫](../Page/漫畫.md "wikilink")[單行本於](../Page/
 <td></td>
 <td><p>2014年2月6日－3月2日</p></td>
 <td><p>每日 18:30－19:00</p></td>
-<td><p><a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
 <td><p>有重播時段</p></td>
 <td></td>
 </tr>
@@ -1207,29 +1207,29 @@ Ylab擔任。三本[漫畫](../Page/漫畫.md "wikilink")[單行本於](../Page/
 
 ### 節目詳細介紹
 
-| 播放地區                               | 播放電視台                                   | 播放日期        | 播放时间（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） |
-| ---------------------------------- | --------------------------------------- | ----------- | ----------------------------------------------------------------------- |
-| [近畿地區](../Page/近畿地區.md "wikilink") | 每日放送（MBS）                               | 2010年12月10日 | 星期五 26時20分－26時50分                                                       |
-| [關東地區](../Page/關東地區.md "wikilink") | TBS電視台                                  | 2010年12月10日 | 星期五 26時25分－26時55分                                                       |
-| [宮城縣](../Page/宮城縣.md "wikilink")   | [東北放送](../Page/東北放送.md "wikilink")（TBC） | 2010年12月26日 | 星期日 25時25分－25時55分                                                       |
+| 播放地區                                                  | 播放電視台                                                      | 播放日期        | 播放时间（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） |
+| ----------------------------------------------------- | ---------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- |
+| [近畿地區](https://zh.wikipedia.org/wiki/近畿地區 "wikilink") | 每日放送（MBS）                                                  | 2010年12月10日 | 星期五 26時20分－26時50分                                                                                             |
+| [關東地區](https://zh.wikipedia.org/wiki/關東地區 "wikilink") | TBS電視台                                                     | 2010年12月10日 | 星期五 26時25分－26時55分                                                                                             |
+| [宮城縣](../Page/宮城縣.md "wikilink")                      | [東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")（TBC） | 2010年12月26日 | 星期日 25時25分－25時55分                                                                                             |
 
 ## 關聯商品
 
 ### Blu-ray / DVD
 
-| 卷數    | 發售日        | 收錄話         | [規格編號](../Page/規格編號.md "wikilink") |
-| ----- | ---------- | ----------- | ---------------------------------- |
-| BD初回版 | DVD初回版     | DVD通常版      |                                    |
-| 1     | 2011年1月26日 | 第1話 - 第3話   | ANZX-9771～9772                     |
-| 2     | 2011年2月23日 | 第4話 - 第6話   | ANZX-9773                          |
-| 3     | 2011年4月6日  | 第8話 - 第9話   | ANZX-9775                          |
-| 4     | 2011年4月27日 | 第11話 - 第12話 | ANZX-9777                          |
-| 5     | 2011年5月25日 | 第13話 - 第14話 | ANZX-9779                          |
-| 6     | 2011年6月22日 | 第16話 - 第17話 | ANZX-9781                          |
-| 7     | 2011年7月27日 | 第19話 - 第20話 | ANZX-9783                          |
-| 8     | 2011年8月24日 | 第22話 - 第23話 | ANZX-9785                          |
-| 9     | 2011年9月21日 | 第24話 - 第25話 | ANZX-9787                          |
-| 特別卷   | 2013年1月23日 | 第1話 - 第25話  | ANZX-6831                          |
+| 卷數    | 發售日        | 收錄話         | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| ----- | ---------- | ----------- | ----------------------------------------------------- |
+| BD初回版 | DVD初回版     | DVD通常版      |                                                       |
+| 1     | 2011年1月26日 | 第1話 - 第3話   | ANZX-9771～9772                                        |
+| 2     | 2011年2月23日 | 第4話 - 第6話   | ANZX-9773                                             |
+| 3     | 2011年4月6日  | 第8話 - 第9話   | ANZX-9775                                             |
+| 4     | 2011年4月27日 | 第11話 - 第12話 | ANZX-9777                                             |
+| 5     | 2011年5月25日 | 第13話 - 第14話 | ANZX-9779                                             |
+| 6     | 2011年6月22日 | 第16話 - 第17話 | ANZX-9781                                             |
+| 7     | 2011年7月27日 | 第19話 - 第20話 | ANZX-9783                                             |
+| 8     | 2011年8月24日 | 第22話 - 第23話 | ANZX-9785                                             |
+| 9     | 2011年9月21日 | 第24話 - 第25話 | ANZX-9787                                             |
+| 特別卷   | 2013年1月23日 | 第1話 - 第25話  | ANZX-6831                                             |
 
 ### CD
 
@@ -1247,7 +1247,7 @@ Ylab擔任。三本[漫畫](../Page/漫畫.md "wikilink")[單行本於](../Page/
 
 <!-- end list -->
 
-  - 使用平台：[PSP](../Page/PSP.md "wikilink")
+  - 使用平台：[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
   - 發售日期：2011年3月3日
 
 <!-- end list -->

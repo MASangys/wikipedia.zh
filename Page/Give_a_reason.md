@@ -1,13 +1,13 @@
 《**Give a
-reason**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")11張[單曲](../Page/單曲.md "wikilink")。1996年4月24日由[STARCHILD](../Page/STARCHILD.md "wikilink")（[King
+reason**》是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[林原惠的第](../Page/林原惠.md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年4月24日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King
 Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 解說
 
 同名標題曲「Give a
-reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的](../Page/東京電視台.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")《[秀逗魔導士NEXT](../Page/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT.md "wikilink")》選用的片尾主題曲。同時還收錄了[奧井雅美主唱的同名動畫的片尾主題曲](../Page/奧井雅美.md "wikilink")「我不會讓你插手」。
+reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[秀逗魔導士NEXT](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT "wikilink")》選用的片尾主題曲。同時還收錄了[奧井雅美主唱的同名動畫的片尾主題曲](../Page/奧井雅美.md "wikilink")「我不會讓你插手」。
 
-2009年在日本[AT-X頻道播放的電視動畫](../Page/AT-X.md "wikilink")《[秀逗魔導士EVOLUTION-R](../Page/秀逗魔導士_\(動畫\)#秀逗魔導士EVOLUTION-R.md "wikilink")》第13集（最終回）劇中，以插入曲的形式使用。讓過去的主題曲作為插入曲使用，是《[秀逗魔導士](../Page/秀逗魔導士.md "wikilink")》系列中首次的嘗試，也是久違約13年的再現。
+2009年在日本[AT-X頻道播放的電視動畫](../Page/AT-X.md "wikilink")《[秀逗魔導士EVOLUTION-R](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士EVOLUTION-R "wikilink")》第13集（最終回）劇中，以插入曲的形式使用。讓過去的主題曲作為插入曲使用，是《[秀逗魔導士](../Page/秀逗魔導士.md "wikilink")》系列中首次的嘗試，也是久違約13年的再現。
 
 ### 記錄
 
@@ -22,7 +22,7 @@ reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的]
 
 1.  **Give a reason** \[4:24\]
       - 作詞：，作曲：，編曲：[大平勉](../Page/大平勉.md "wikilink")，主唱：[林原惠](../Page/林原惠.md "wikilink")
-      - [東京電視台](../Page/東京電視台.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")《[秀逗魔導士NEXT](../Page/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT.md "wikilink")》片頭主題曲
+      - [東京電視台](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[秀逗魔導士NEXT](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT "wikilink")》片頭主題曲
 2.  **我不會讓你插手**<small>（****）</small> \[4:38\]
       - 作詞、主唱：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：奧井雅美、[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")，編曲：矢吹俊郎
       - 東京電視台電視動畫《秀逗魔導士NEXT》片尾主題曲
@@ -45,18 +45,18 @@ reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的]
 <td><p>Give a reason</p></td>
 <td><p>《》</p></td>
 <td><p>1996年11月1日</p></td>
-<td><p>林原惠的第7張<a href="../Page/錄音室專輯.md" title="wikilink">原創專輯</a></p></td>
+<td><p>林原惠的第7張<a href="https://zh.wikipedia.org/wiki/錄音室專輯" title="wikilink">原創專輯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《》</p></td>
 <td><p>2000年4月26日</p></td>
-<td><p>林原惠的首張<a href="../Page/精選輯.md" title="wikilink">精選專輯</a></p></td>
+<td><p>林原惠的首張<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選專輯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="../Page/秀逗魔導士MEGUMIX.md" title="wikilink">秀逗魔導士MEGUMIX</a>》</p></td>
 <td><p>2008年6月25日</p></td>
-<td><p>集結林原惠與《秀逗魔導士》相關歌曲的<a href="../Page/精選輯.md" title="wikilink">精選專輯</a></p></td>
+<td><p>集結林原惠與《秀逗魔導士》相關歌曲的<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選專輯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -66,9 +66,9 @@ reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/STARCHILD.md" title="wikilink">STARCHILD</a> SELECTION音樂篇 [TV作品集]》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/STARCHILD" title="wikilink">STARCHILD</a> SELECTION音樂篇 [TV作品集]》</p></td>
 <td><p>2000年1月28日</p></td>
-<td><p>集結由<a href="../Page/STARCHILD.md" title="wikilink">STARCHILD發行的動畫歌曲</a><a href="../Page/合輯.md" title="wikilink">合輯</a></p></td>
+<td><p>集結由<a href="https://zh.wikipedia.org/wiki/STARCHILD" title="wikilink">STARCHILD發行的動畫歌曲</a><a href="https://zh.wikipedia.org/wiki/合輯" title="wikilink">合輯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -95,17 +95,17 @@ reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的]
 
 ## 翻唱
 
-| 曲名                                       | 主唱者                                                    | 收錄專輯                       | 發行日期                               | 備註                                       |
-| ---------------------------------------- | ------------------------------------------------------ | -------------------------- | ---------------------------------- | ---------------------------------------- |
-| Give a reason                            | [松村香澄](../Page/松村香澄.md "wikilink")                     | 《KASUMI the serious joker》 | 1999年3月26日                         | 松村香澄的[原創專輯](../Page/錄音室專輯.md "wikilink") |
-| [奧井雅美](../Page/奧井雅美.md "wikilink")       | 《》                                                     | 2003年5月1日                  | 奧井雅美的翻唱專輯                          |                                          |
-| [喜多村英梨](../Page/喜多村英梨.md "wikilink")     | 《[百歌聲爛 女性聲優篇II](../Page/百歌聲爛#女性聲優編II.md "wikilink")》   | 2010年5月5日                  | 翻唱[合輯專輯](../Page/合輯.md "wikilink") |                                          |
-| [米倉千尋](../Page/米倉千尋.md "wikilink")       | 《》                                                     | 2008年6月25日                 | 米倉千尋的翻唱專輯                          |                                          |
-| [桃井晴子](../Page/桃井晴子.md "wikilink")       | 《》                                                     | 2008年12月3日                 | 桃井晴子的翻唱專輯                          |                                          |
-| [新谷良子](../Page/新谷良子.md "wikilink")       | 《[百歌聲爛 女性聲優篇III](../Page/百歌聲爛#女性聲優編III.md "wikilink")》 | 2009年3月18日                 | 翻唱合輯專輯                             |                                          |
-| [m.o.v.e](../Page/m.o.v.e.md "wikilink") | 《》                                                     | 2009年8月19日                 | m.o.v.e的翻唱專輯                       |                                          |
-| [日高莉花](../Page/日高莉花.md "wikilink")       | 《♂ 10★SPECIAL》                                         | 2009年9月23日                 | 翻唱合輯專輯                             |                                          |
-| [中川翔子](../Page/中川翔子.md "wikilink")       | 《》                                                     | 2010年3月10日                 | 中川翔子的翻唱專輯                          |                                          |
+| 曲名                                                          | 主唱者                                                                       | 收錄專輯                       | 發行日期                                                  | 備註                                                          |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------- | ----------------------------------------------------------- |
+| Give a reason                                               | [松村香澄](https://zh.wikipedia.org/wiki/松村香澄 "wikilink")                     | 《KASUMI the serious joker》 | 1999年3月26日                                            | 松村香澄的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") |
+| [奧井雅美](../Page/奧井雅美.md "wikilink")                          | 《》                                                                        | 2003年5月1日                  | 奧井雅美的翻唱專輯                                             |                                                             |
+| [喜多村英梨](../Page/喜多村英梨.md "wikilink")                        | 《[百歌聲爛 女性聲優篇II](https://zh.wikipedia.org/wiki/百歌聲爛#女性聲優編II "wikilink")》   | 2010年5月5日                  | 翻唱[合輯專輯](https://zh.wikipedia.org/wiki/合輯 "wikilink") |                                                             |
+| [米倉千尋](../Page/米倉千尋.md "wikilink")                          | 《》                                                                        | 2008年6月25日                 | 米倉千尋的翻唱專輯                                             |                                                             |
+| [桃井晴子](../Page/桃井晴子.md "wikilink")                          | 《》                                                                        | 2008年12月3日                 | 桃井晴子的翻唱專輯                                             |                                                             |
+| [新谷良子](../Page/新谷良子.md "wikilink")                          | 《[百歌聲爛 女性聲優篇III](https://zh.wikipedia.org/wiki/百歌聲爛#女性聲優編III "wikilink")》 | 2009年3月18日                 | 翻唱合輯專輯                                                |                                                             |
+| [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink") | 《》                                                                        | 2009年8月19日                 | m.o.v.e的翻唱專輯                                          |                                                             |
+| [日高莉花](https://zh.wikipedia.org/wiki/日高莉花 "wikilink")       | 《♂ 10★SPECIAL》                                                            | 2009年9月23日                 | 翻唱合輯專輯                                                |                                                             |
+| [中川翔子](../Page/中川翔子.md "wikilink")                          | 《》                                                                        | 2010年3月10日                 | 中川翔子的翻唱專輯                                             |                                                             |
 
 ## 腳註
 

@@ -1,5 +1,5 @@
 **5 Star
-Street**（傳媒中文譯作**星街5號**），為一位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[星街的單幢住宅](../Page/星街.md "wikilink")，亦是[太古地產於](../Page/太古地產.md "wikilink")[灣仔發展的](../Page/灣仔.md "wikilink")[星街小區一項目](../Page/星街小區.md "wikilink")，樓高共32層，樓面面積共1.76萬[平方呎](../Page/平方呎.md "wikilink")，由[太古地產發展](../Page/太古地產.md "wikilink")，管理公司為[星街(管理)有限公司](../Page/星街\(管理\)有限公司.md "wikilink")，2010年11月29日入伙。
+Street**（傳媒中文譯作**星街5號**），為一位於[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[星街的單幢住宅](../Page/星街.md "wikilink")，亦是[太古地產於](../Page/太古地產.md "wikilink")[灣仔發展的](../Page/灣仔.md "wikilink")[星街小區一項目](https://zh.wikipedia.org/wiki/星街小區 "wikilink")，樓高共32層，樓面面積共1.76萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")，由[太古地產發展](../Page/太古地產.md "wikilink")，管理公司為[星街(管理)有限公司](https://zh.wikipedia.org/wiki/星街\(管理\)有限公司 "wikilink")，2010年11月29日入伙。
 
 ## 歷史
 
@@ -11,11 +11,11 @@ Star Street」。
 
 ## 簡介
 
-物業位於[太古地產發展的](../Page/太古地產.md "wikilink")[星街小區](../Page/星街小區.md "wikilink")，鄰近[太古廣場三座](../Page/太古廣場.md "wikilink")，而附近為[港鐵](../Page/港鐵.md "wikilink")[金鐘站和](../Page/金鐘站.md "wikilink")[灣仔站](../Page/灣仔站.md "wikilink")，加上由於[地皮面積小](../Page/地皮.md "wikilink")，故發展商設計為一梯一-{伙}-，[私隱度較高](../Page/私隱.md "wikilink")，故開售呎價達至19,000港元，而每呎發展[成本為](../Page/成本.md "wikilink")7,600港元。
+物業位於[太古地產發展的](../Page/太古地產.md "wikilink")[星街小區](https://zh.wikipedia.org/wiki/星街小區 "wikilink")，鄰近[太古廣場三座](../Page/太古廣場.md "wikilink")，而附近為[港鐵](../Page/港鐵.md "wikilink")[金鐘站和](../Page/金鐘站.md "wikilink")[灣仔站](../Page/灣仔站.md "wikilink")，加上由於[地皮面積小](https://zh.wikipedia.org/wiki/地皮 "wikilink")，故發展商設計為一梯一-{伙}-，[私隱度較高](https://zh.wikipedia.org/wiki/私隱 "wikilink")，故開售呎價達至19,000港元，而每呎發展[成本為](../Page/成本.md "wikilink")7,600港元。
 
-物業共有31樓，但實質則有32層（不設4、14、24樓），而31樓以上為公用設施層。另外地下至2樓為物業基層，1樓為機電層，2樓則為[空中花園](../Page/空中花園.md "wikilink")。3樓及6樓以上為住宅，一共25個單位，一梯一伙，全為約670[平方呎及](../Page/平方呎.md "wikilink")[開放式設計單位](../Page/開放式.md "wikilink")，另設有[露台](../Page/露台.md "wikilink")。
+物業共有31樓，但實質則有32層（不設4、14、24樓），而31樓以上為公用設施層。另外地下至2樓為物業基層，1樓為機電層，2樓則為[空中花園](https://zh.wikipedia.org/wiki/空中花園 "wikilink")。3樓及6樓以上為住宅，一共25個單位，一梯一伙，全為約670[平方呎及](https://zh.wikipedia.org/wiki/平方呎 "wikilink")[開放式設計單位](https://zh.wikipedia.org/wiki/開放式 "wikilink")，另設有[露台](https://zh.wikipedia.org/wiki/露台 "wikilink")。
 
-另外，物業設有1層[會所](../Page/會所.md "wikilink")，設於5樓，其設施包括健身室等。
+另外，物業設有1層[會所](https://zh.wikipedia.org/wiki/會所 "wikilink")，設於5樓，其設施包括健身室等。
 
 ## 途經之公共交通服務
 
@@ -40,7 +40,7 @@ Star Street」。
 
 </dl>
 <dl>
-<dt><a href="../Page/香港小巴.md" title="wikilink">專線小巴</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/香港小巴" title="wikilink">專線小巴</a></dt>
 
 </dl></td>
 </tr>
@@ -49,9 +49,9 @@ Star Street」。
 
 ## 附近物業
 
-  - [萬豪閣](../Page/萬豪閣.md "wikilink")
-  - [匯星壹號](../Page/匯星壹號.md "wikilink")
-  - [星月閣](../Page/星月閣.md "wikilink")
+  - [萬豪閣](https://zh.wikipedia.org/wiki/萬豪閣 "wikilink")
+  - [匯星壹號](https://zh.wikipedia.org/wiki/匯星壹號 "wikilink")
+  - [星月閣](https://zh.wikipedia.org/wiki/星月閣 "wikilink")
   - [星域軒](../Page/星域軒.md "wikilink")
   - [太古廣場三座](../Page/太古廣場.md "wikilink")
 

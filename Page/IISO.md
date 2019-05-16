@@ -2,8 +2,8 @@
 
 **iISO 热靴** （intelligent ISO Flash
 Shoe）是美能达于1988年提出的一种新型[热靴设计](../Page/热靴.md "wikilink")，用于[闪光灯的快速安装与更安全的连接](../Page/闪光灯.md "wikilink")，在[Minolta
-AF第二代以后的机型和](../Page/Minolta_AF.md "wikilink")[Sony
-α所有机型上均能看见](../Page/Sony_α.md "wikilink")。
+AF第二代以后的机型和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[Sony
+α所有机型上均能看见](https://zh.wikipedia.org/wiki/Sony_α "wikilink")。
 
 2012年起，索尼推出了[MI热靴](../Page/MI热靴.md "wikilink")，并且在新款机型诸如RX1和α99上配置该型热靴，等于宣告了i-ISO热靴的终结。
 
@@ -18,8 +18,8 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
 
   - 传统闪光灯支持
 
-    在1988年之前，美能达也如其他厂商一样沿用标准热靴设计，并且在最新推出的[α-7000](../Page/α-7000.md "wikilink")/[α-5000](../Page/α-5000.md "wikilink")/[α-9000和同一代的闪光灯](../Page/α-9000.md "wikilink")**1800AF**/**2800AF**/**4000AF**上保持此设计；自[Minolta
-    AF的二代机型](../Page/Minolta_AF.md "wikilink")“**i**”系列推出，使得新产品和传统产品不能直接匹配。
+    在1988年之前，美能达也如其他厂商一样沿用标准热靴设计，并且在最新推出的[α-7000](https://zh.wikipedia.org/wiki/α-7000 "wikilink")/[α-5000](https://zh.wikipedia.org/wiki/α-5000 "wikilink")/[α-9000和同一代的闪光灯](https://zh.wikipedia.org/wiki/α-9000 "wikilink")**1800AF**/**2800AF**/**4000AF**上保持此设计；自[Minolta
+    AF的二代机型](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")“**i**”系列推出，使得新产品和传统产品不能直接匹配。
 
     为了解决该问题，美能达推出了适配器**FS-1100**（索尼版本叫做**HS1AM**），可以从新机型的iISO热靴转接出一个标准热靴；一些第三方厂家也推出了这样的适配器，比如永诺的**YN-H3**，海鸥的**SC-5**等。
 
@@ -27,7 +27,7 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
 
   - 跨系统的互换性
 
-    众所周知，一个[尼康的闪光灯可以直接插在](../Page/尼康.md "wikilink")[佳能的机器上](../Page/佳能.md "wikilink")，并且完成触发（如果没有匹配过高的同步触发电压使得发生损伤的话）。但由于ISO-518并不规定同步触点以外的其他功能，所以，诸如[TTL闪光测光](../Page/镜后测光.md "wikilink")，充电状态，[闪光功率](../Page/GN指数.md "wikilink")，[焦距](../Page/焦距.md "wikilink")，距离，预闪测光，防[红眼](../Page/红眼现象.md "wikilink")，无线控制等功能是由各厂商在标准热靴定义的基础上各自扩展的，并无统一的规定。所以，跨系统的互换性一般也只能完成同步触发的基础功能，反观iISO热靴并不算失去太多功能，使用**FS-1100**即可使用其他厂牌闪光灯。
+    众所周知，一个[尼康的闪光灯可以直接插在](../Page/尼康.md "wikilink")[佳能的机器上](../Page/佳能.md "wikilink")，并且完成触发（如果没有匹配过高的同步触发电压使得发生损伤的话）。但由于ISO-518并不规定同步触点以外的其他功能，所以，诸如[TTL闪光测光](https://zh.wikipedia.org/wiki/镜后测光 "wikilink")，充电状态，[闪光功率](https://zh.wikipedia.org/wiki/GN指数 "wikilink")，[焦距](../Page/焦距.md "wikilink")，距离，预闪测光，防[红眼](https://zh.wikipedia.org/wiki/红眼现象 "wikilink")，无线控制等功能是由各厂商在标准热靴定义的基础上各自扩展的，并无统一的规定。所以，跨系统的互换性一般也只能完成同步触发的基础功能，反观iISO热靴并不算失去太多功能，使用**FS-1100**即可使用其他厂牌闪光灯。
 
 ## 相关产品
 
@@ -37,7 +37,7 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
 
 美能达
 
-  - [Minolta AF系统](../Page/Minolta_AF.md "wikilink")
+  - [Minolta AF系统](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
       - 第二代
         机型：α-3000i/α-5000i/α-7000i/α-8000i
       - 第三代
@@ -46,11 +46,13 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
         机型：α-303si/α-507si/α-707si/α-800si
       - 第五代
         机型：α-4/α-5/α-7/α-9
-      - 数码单反：[美能达 RD-175](../Page/美能达_RD-175.md "wikilink")
-  - [美能达 Vectis系统](../Page/美能达_Vectis.md "wikilink")
+      - 数码单反：[美能达
+        RD-175](https://zh.wikipedia.org/wiki/美能达_RD-175 "wikilink")
+  - [美能达 Vectis系统](https://zh.wikipedia.org/wiki/美能达_Vectis "wikilink")
       - Vectis S-1
       - Vectis S-100
-      - [DiMAGE RD 3000](../Page/DiMAGE_RD_3000.md "wikilink")
+      - [DiMAGE RD
+        3000](https://zh.wikipedia.org/wiki/DiMAGE_RD_3000 "wikilink")
   - 不可换镜头数码相机
       - DiMAGE 5
       - DiMAGE 7
@@ -61,8 +63,10 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
 柯尼卡美能达
 
   - Minolta AF系统
-      - [柯尼卡美能达 Dynax 7D](../Page/柯尼卡美能达_Dynax_7D.md "wikilink")
-      - [柯尼卡美能达 Dynax 5D](../Page/柯尼卡美能达_Dynax_5D.md "wikilink")
+      - [柯尼卡美能达 Dynax
+        7D](https://zh.wikipedia.org/wiki/柯尼卡美能达_Dynax_7D "wikilink")
+      - [柯尼卡美能达 Dynax
+        5D](https://zh.wikipedia.org/wiki/柯尼卡美能达_Dynax_5D "wikilink")
       - 柯尼卡美能达 α-70
   - 不可换镜头数码相机
       - 柯尼卡美能达 DiMAGE A2
@@ -79,7 +83,7 @@ iISO热靴物理上的一个显著特性在于，使用对应的iISO设备，如
   - 数码单反
   - SLT（单电相机）
   - 可换镜头无反数码相机
-      - [索尼 NEX-7](../Page/索尼_NEX-7.md "wikilink")
+      - [索尼 NEX-7](https://zh.wikipedia.org/wiki/索尼_NEX-7 "wikilink")
 
 哈苏
 
@@ -170,8 +174,8 @@ SONY闪光灯
   - [闪光灯](../Page/闪光灯.md "wikilink")
       - [热靴](../Page/热靴.md "wikilink")
           - [MI热靴](../Page/MI热靴.md "wikilink")，索尼的下一代替换热靴
-  - [Minolta AF](../Page/Minolta_AF.md "wikilink")
-  - [Sony α](../Page/Sony_α.md "wikilink")
+  - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
+  - [Sony α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")
 
 ## 外部链接
 

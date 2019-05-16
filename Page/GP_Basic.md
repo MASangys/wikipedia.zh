@@ -6,7 +6,7 @@ Basic獲得了“韓國最年輕女子組合”的稱號），由於六名成員
 Basic成員們年齡都很小，但是都經過了至少2年的音樂和舞蹈訓練，實力一點也不比其他女子組合差，正式出道後一定會帶給歌迷驚喜。
 
 成員Janey受[Block
-B隊長](../Page/Block_B.md "wikilink")[ZICO大力舉薦進入](../Page/Zico_\(歌手\).md "wikilink")[D-Unit](../Page/D-Unit.md "wikilink")，以Jney為藝名參與D-Unit的第二張正規專輯《Affirmative
+B隊長](../Page/Block_B.md "wikilink")[ZICO大力舉薦進入](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")[D-Unit](../Page/D-Unit.md "wikilink")，以Jney為藝名參與D-Unit的第二張正規專輯《Affirmative
 Chapter 1》，並於2013年3月結束活動。
 
 ## 成員資料
@@ -87,7 +87,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>首張韓文單曲《<strong>GAME</strong>》</p>
 <ul>
 <li>發行日期：2010年8月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li><strong>Game</strong></li>
@@ -101,7 +101,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第二張單曲《<strong>I'll Be There</strong>》</p>
 <ul>
 <li>發行日期：2010年11月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li><strong>I'Be There</strong></li>
@@ -112,7 +112,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第三張單曲《<strong>Jelly Pop</strong>》</p>
 <ul>
 <li>發行日期：2011年7月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li><strong>Jelly Pop</strong></li>
@@ -124,7 +124,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第四張單曲《<strong>V</strong>》</p>
 <ul>
 <li>發行日期：2011年11月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li><strong>V</strong></li>
@@ -136,7 +136,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第五張單曲《<strong>Christmas Carol</strong>》</p>
 <ul>
 <li>發行日期：2011年12月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>Christmas Carol</li>
@@ -147,7 +147,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第六張單曲《<strong>Edge Ta</strong>》</p>
 <ul>
 <li>發行日期：2012年2月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>Edge Ta</li>
@@ -158,7 +158,7 @@ Chapter 1》，並於2013年3月結束活動。
 <td><p>第七張單曲《<strong>Pika Burnjuck</strong>》</p>
 <ul>
 <li>發行日期：2014年2月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><ol>
 <li>Black Bounce</li>
@@ -187,7 +187,7 @@ Chapter 1》，並於2013年3月結束活動。
 
 2.  已退出
 
-3.  已退出，曾為[Ye-A成員](../Page/Ye-A.md "wikilink")**Cha-I**(後退出)
+3.  已退出，曾為[Ye-A成員](https://zh.wikipedia.org/wiki/Ye-A "wikilink")**Cha-I**(後退出)
 
 4.  2015年退出
 

@@ -1,5 +1,5 @@
 《**最後一戰3：ODST**》（Halo 3: ODST，原名「最後一戰3：Recon」）是[Xbox
-360平台的](../Page/Xbox_360.md "wikilink")[第一人稱射擊遊戲](../Page/第一人稱射擊遊戲.md "wikilink")，是《[最後一戰3](../Page/最後一戰3.md "wikilink")》的[資料片](../Page/資料片.md "wikilink")。劇情是續《[最後一戰2](../Page/最後一戰2.md "wikilink")》中士官長離開地球後「新蒙巴薩」市的戰役。
+360平台的](../Page/Xbox_360.md "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是《[最後一戰3](../Page/最後一戰3.md "wikilink")》的[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")。劇情是續《[最後一戰2](../Page/最後一戰2.md "wikilink")》中士官長離開地球後「新蒙巴薩」市的戰役。
 
 槍林彈雨是《最後一戰3：ODST》的新Co-op模式。
 
@@ -10,7 +10,7 @@
 故事發生在士官長回到地球時。 由Veronica
 Dare[上尉統領一支地獄軌道空降部隊](../Page/上尉.md "wikilink")(ODST)的5名成員，襲擊悲愴先知所搭的戰艦，但戰艦突然開啟空間跳躍，使空降艙失去動力，所有人被分散。
 主角「菜鳥」是昏迷最久的，醒來後開始尋找隊友的蹤跡。找到線索後會進入回憶模式，讓玩家擔任隊友的角色進行遊戲。
-找齊所有線索後，就會收到Dare上尉的求救訊號，於是動身救援。到達資料庫後，找到Vergil([工程師](../Page/工程師.md "wikilink"))，和ODST小隊隊長保護工程師逃離。
+找齊所有線索後，就會收到Dare上尉的求救訊號，於是動身救援。到達資料庫後，找到Vergil([工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink"))，和ODST小隊隊長保護工程師逃離。
 結局是與隊友搭乘搶來的魅影號逃離新蒙巴薩，此時，星盟戰艦用開鑿光束挖掘出先行者遺跡。 (傳奇難度會出現隱藏劇情：先知指揮工程師進入遺跡。)
 
 ## 預購特典
@@ -42,7 +42,8 @@ HER」）。《[DESTINY](../Page/天命_\(遊戲\).md "wikilink")》是《HALO�
     ODST](http://www.xbox.com/zh-TW/games/h/halo3odst/)
 
   -
-[de:Halo 3\#Halo 3: ODST](../Page/de:Halo_3#Halo_3:_ODST.md "wikilink")
+[de:Halo 3\#Halo 3:
+ODST](https://zh.wikipedia.org/wiki/de:Halo_3#Halo_3:_ODST "wikilink")
 
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
 [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")

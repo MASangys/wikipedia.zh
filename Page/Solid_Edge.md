@@ -1,7 +1,7 @@
 Solid
 Edge是一個3D的CAD參變數化特徵實體造型軟體。提供實體建模，裝配建模和起草的功能機械工程師。通過第三方應用軟件已鏈接到其他許多產品生命週期管理（PLM）的技術。
 
-2007年，[西門子股份公司工業自動化部門收購了UGS公司](../Page/西門子股份公司.md "wikilink")。2007年10月1日，UGS的公司更名為Siemens
+2007年，[西門子股份公司工業自動化部門收購了UGS公司](https://zh.wikipedia.org/wiki/西門子股份公司 "wikilink")。2007年10月1日，UGS的公司更名為Siemens
 PLM Software。自2006年9月西門子還提供了一個免費的2D版本，稱為Solid Edge 2D製圖。
 
 ## 建模

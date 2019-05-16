@@ -1,4 +1,4 @@
-《**Samba\!**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語專輯](../Page/Twins.md "wikilink")，於2005年6月24日在[香港發行](../Page/香港.md "wikilink")。
+《**Samba\!**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2005年6月24日在[香港發行](../Page/香港.md "wikilink")。
 
 ## 曲目
 

@@ -1,17 +1,17 @@
 **Lexus
-LS**是一種[豐田汽車的高級豪華旗艦房車系列](../Page/豐田汽車.md "wikilink")，也主打企業主管座車市場。至今共有四代，全部基本配備V8引擎和後輪傳動，2006年後[四輪驅動和](../Page/四輪驅動.md "wikilink")[油電混合動力以及加長版本也都列入選配以增加市場彈性](../Page/混合動力車輛.md "wikilink")。在[日本國內](../Page/日本.md "wikilink")2006年9月前曾以的孿生車行內銷過。
+LS**是一種[豐田汽車的高級豪華旗艦房車系列](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，也主打企業主管座車市場。至今共有四代，全部基本配備V8引擎和後輪傳動，2006年後[四輪驅動和](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")[油電混合動力以及加長版本也都列入選配以增加市場彈性](../Page/混合動力車輛.md "wikilink")。在[日本國內](../Page/日本.md "wikilink")2006年9月前曾以的孿生車行內銷過。
 
 ## 歷史
 
 Lexus
-LS的研發可以追溯至1983年的F1研發計畫，這個名詞也象徵第一款旗艦車之義。經過5年設計和10億[美元研發](../Page/美元.md "wikilink")，才成就高級[V8引擎和多種國際級豪華配備的量產](../Page/V8.md "wikilink")。最初的1989年Lexus
+LS的研發可以追溯至1983年的F1研發計畫，這個名詞也象徵第一款旗艦車之義。經過5年設計和10億[美元研發](../Page/美元.md "wikilink")，才成就高級[V8引擎和多種國際級豪華配備的量產](https://zh.wikipedia.org/wiki/V8 "wikilink")。最初的1989年Lexus
 LS 400是本系列第一輛，也是它在當年度打開了Lexus這品牌的高級車路線。之後1995年又推出了LS 400的升級版，五年以後LS
 430於2001年推出，LS 460／LS 460L系列則於2006年推出。當時所有日本內銷用的LS400和LS430則是掛Toyota
-Celsior的品牌直到2006年底[Lexus品牌也開始用於內銷市場為止](../Page/Lexus.md "wikilink")。
-2007年，第四代LS460是首輛配備8段自排和[電腦自動停車的款式](../Page/電腦.md "wikilink")，V8混和動力引擎也於同年Lexus
+Celsior的品牌直到2006年底[Lexus品牌也開始用於內銷市場為止](https://zh.wikipedia.org/wiki/Lexus "wikilink")。
+2007年，第四代LS460是首輛配備8段自排和[電腦自動停車的款式](https://zh.wikipedia.org/wiki/電腦 "wikilink")，V8混和動力引擎也於同年Lexus
 LS Hybrid款上出現，稱為LS 600h／LS 600h L。Lexus
-LS高品質和相對低價也迅速打入[外銷市場成為國際一級品牌](../Page/外銷.md "wikilink")，最初的LS400的龐大銷售佳績也讓豐田對Lexus的後續路線有信心，沒多久後Lexus就成為北美豪華車的銷售冠軍。量產後的每一代Lexus
-LS都在日本[田原市組裝](../Page/田原市.md "wikilink")，在美國[消費者心中也多次得到最信任車款的殊榮](../Page/消費者.md "wikilink")，連續15年（1994–2009）通過J.D.
+LS高品質和相對低價也迅速打入[外銷市場成為國際一級品牌](https://zh.wikipedia.org/wiki/外銷 "wikilink")，最初的LS400的龐大銷售佳績也讓豐田對Lexus的後續路線有信心，沒多久後Lexus就成為北美豪華車的銷售冠軍。量產後的每一代Lexus
+LS都在日本[田原市組裝](https://zh.wikipedia.org/wiki/田原市 "wikilink")，在美國[消費者心中也多次得到最信任車款的殊榮](https://zh.wikipedia.org/wiki/消費者 "wikilink")，連續15年（1994–2009）通過J.D.
 Power和U.S. Vehicle　Dependability Survey（美國汽車可靠度抽查）和消費者評選最高分。
 
 ### 第一代 (XF10；1989-1994)

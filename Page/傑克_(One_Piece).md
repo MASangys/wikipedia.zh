@@ -1,5 +1,5 @@
-**香克斯**是[日本動漫作品](../Page/日本動漫.md "wikilink")《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。「[四皇](../Page/四皇.md "wikilink")」之一。[紅髮海賊團的船長](../Page/ONE_PIECE海賊列表#紅髮海賊團.md "wikilink")，亦是故事主角[「草帽小子」蒙其·D·魯夫從小就崇拜的偶像](../Page/蒙其·D·魯夫.md "wikilink")。在第221話的SBS專欄中，作者更是間接透露香克斯是他最喜歡的角色。特別是在每集單行本人物介紹都有他。
+**香克斯**是[日本動漫作品](https://zh.wikipedia.org/wiki/日本動漫 "wikilink")《[ONE
+PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一。[紅髮海賊團的船長](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅髮海賊團 "wikilink")，亦是故事主角[「草帽小子」蒙其·D·魯夫從小就崇拜的偶像](../Page/蒙其·D·魯夫.md "wikilink")。在第221話的SBS專欄中，作者更是間接透露香克斯是他最喜歡的角色。特別是在每集單行本人物介紹都有他。
 
 ## 人物
 
@@ -21,7 +21,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。�
 
 <!-- end list -->
 
-  - 武器是一把名為「[格里芬](../Page/格里芬.md "wikilink")」的西洋劍。
+  - 武器是一把名為「[格里芬](https://zh.wikipedia.org/wiki/格里芬 "wikilink")」的西洋劍。
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。�
 
 ## 劇中表現
 
-傑克年僅15歲時就在[「海賊王」哥爾·D·羅傑的船上當海賊實習生](../Page/哥爾·D·羅傑.md "wikilink")，直至羅傑解散海賊團為止。他曾以[羅傑海賊團的船員身分參與了](../Page/羅傑海賊團.md "wikilink")20年前的「愛特·沃爾海戰」\[2\]。當時同在船上的[「小丑」巴其因十分討厭傑克的性格](../Page/巴其_\(ONE_PIECE\).md "wikilink")，及認為自己是被傑克「陷害」才吞下了惡魔果實，所以對他恨之入骨（兩人雖然經常爭吵，但在心中十分認同彼此）。
+傑克年僅15歲時就在[「海賊王」哥爾·D·羅傑的船上當海賊實習生](../Page/哥爾·D·羅傑.md "wikilink")，直至羅傑解散海賊團為止。他曾以[羅傑海賊團的船員身分參與了](https://zh.wikipedia.org/wiki/羅傑海賊團 "wikilink")20年前的「愛特·沃爾海戰」\[2\]。當時同在船上的[「小丑」巴其因十分討厭傑克的性格](../Page/巴其_\(ONE_PIECE\).md "wikilink")，及認為自己是被傑克「陷害」才吞下了惡魔果實，所以對他恨之入骨（兩人雖然經常爭吵，但在心中十分認同彼此）。
 
 傑克與現任「王下七武海」的[「鷹眼」喬拉可爾·密佛格數多年好友](../Page/喬拉可爾·密佛格.md "wikilink")，兩人在年輕時經常切磋比劍。另外，頭上那頂草帽原是羅傑海賊團船長「海賊王」哥爾·D·羅傑配戴的草帽，後來轉手給傑克。
 
@@ -54,13 +54,13 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。�
 <!-- end list -->
 
   -
-    傑克在「頂點戰爭」的始末，扮演著關鍵角色。曾與[「黑鬍子」交手過的他深知對方底細](../Page/馬歇爾·D·汀奇.md "wikilink")，故親自前往會見另一位四皇[「白鬍子」艾德華·紐蓋特](../Page/白鬍子海賊團#艾德華·紐蓋特.md "wikilink")
-    ，請他阻止[「火拳」波特卡斯·D·艾斯繼續追捕](../Page/白鬍子海賊團#波特卡斯·D·艾斯.md "wikilink")「黑鬍子」。在登上「莫比·迪克號」時，傑克以強大的[霸王色霸氣震懾船上的所有人](../Page/霸氣_\(ONE_PIECE\).md "wikilink")，使多數未有心理準備或實力層次不夠的船員受衝擊而暈倒，且僅經過便已讓船體周圍略為凹陷，但他表示只是稍加威壓而已。後與「白鬍子」談判時，兩人對上一劍，霸王色霸氣所產生的衝擊劃開了天空\[3\]。
+    傑克在「頂點戰爭」的始末，扮演著關鍵角色。曾與[「黑鬍子」交手過的他深知對方底細](../Page/馬歇爾·D·汀奇.md "wikilink")，故親自前往會見另一位四皇[「白鬍子」艾德華·紐蓋特](https://zh.wikipedia.org/wiki/白鬍子海賊團#艾德華·紐蓋特 "wikilink")
+    ，請他阻止[「火拳」波特卡斯·D·艾斯繼續追捕](https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯 "wikilink")「黑鬍子」。在登上「莫比·迪克號」時，傑克以強大的[霸王色霸氣震懾船上的所有人](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")，使多數未有心理準備或實力層次不夠的船員受衝擊而暈倒，且僅經過便已讓船體周圍略為凹陷，但他表示只是稍加威壓而已。後與「白鬍子」談判時，兩人對上一劍，霸王色霸氣所產生的衝擊劃開了天空\[3\]。
 
 <!-- end list -->
 
   -
-    「頂點戰爭」發生的前一天，四皇之一的[「百獸」海道想要趁機打倒正趕往海軍本部](../Page/ONE_PIECE海賊列表#海道.md "wikilink")「馬林福特」營救艾斯的[白鬍子海賊團](../Page/白鬍子海賊團.md "wikilink")，因此跟傑克在新世界起了小衝突，最後傑克阻止了海道\[4\]。
+    「頂點戰爭」發生的前一天，四皇之一的[「百獸」海道想要趁機打倒正趕往海軍本部](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海道 "wikilink")「馬林福特」營救艾斯的[白鬍子海賊團](../Page/白鬍子海賊團.md "wikilink")，因此跟傑克在新世界起了小衝突，最後傑克阻止了海道\[4\]。
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。�
 
 ### 夥伴
 
-  - 『[紅髮海賊團](../Page/ONE_PIECE海賊列表#紅髮海賊團.md "wikilink")』
+  - 『[紅髮海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅髮海賊團 "wikilink")』
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。�
     PIECE」の船長キャラ 2位「シャンクス」、1位は？](https://web.archive.org/web/20140517122140/http://news.goo.ne.jp/article/freshers/bizskills/fresherscol201402one-piece-21.html)
 
 [id:Daftar karakter One
-Piece\#Shanks](../Page/id:Daftar_karakter_One_Piece#Shanks.md "wikilink")
+Piece\#Shanks](https://zh.wikipedia.org/wiki/id:Daftar_karakter_One_Piece#Shanks "wikilink")
 
 [Category:ONE_PIECE海盜角色](https://zh.wikipedia.org/wiki/Category:ONE_PIECE海盜角色 "wikilink")
 

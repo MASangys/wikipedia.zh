@@ -13,7 +13,7 @@ Hebe音樂會》巡迴，地點包括台北三場，和香港、新加坡、北�
 此專輯被[HitFm聯播網評選為](../Page/台北之音.md "wikilink")「2010年度值得推薦十大專輯」和「2010年十大必聽與推薦收藏專輯」，獲得HitFm聯播網DJ群一致推薦。HitFm節目經理表示：「Hebe的專輯將主流與非主流音樂融合，找到了很好的平衡點，並以獨特的田氏唱腔詮釋出不一樣的味道。」\[2\]
 
 2011年5月，《To
-Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")，包括最佳國語專輯、單曲製作人、專輯包裝及音樂錄影帶；最後以〈寂寞寂寞就好〉MV獲[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")、《Love\!》的製作人王治平獲頒[最佳單曲製作人獎](../Page/最佳單曲製作人獎_\(金曲獎\).md "wikilink")。
+Hebe》入圍[第22屆金曲獎四項](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")，包括最佳國語專輯、單曲製作人、專輯包裝及音樂錄影帶；最後以〈寂寞寂寞就好〉MV獲[最佳音樂錄影帶獎](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")、《Love\!》的製作人王治平獲頒[最佳單曲製作人獎](../Page/最佳單曲製作人獎_\(金曲獎\).md "wikilink")。
 
 ## 唱片版本
 
@@ -40,7 +40,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <tr class="odd">
 <td><p>01</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Ebqmk96YSGg">Love?</a></p></td>
-<td><p><a href="../Page/黃淑惠.md" title="wikilink">黃淑惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑惠" title="wikilink">黃淑惠</a></p></td>
 <td><p>樊哲忠</p></td>
 <td><p><a href="../Page/王治平.md" title="wikilink">王治平</a></p></td>
 <td><p><strong>90秒首播</strong></p></td>
@@ -59,7 +59,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <td><p>03</p></td>
 <td><p>離島</p></td>
 <td><p><a href="../Page/施人誠.md" title="wikilink">施人誠</a></p></td>
-<td><p><a href="../Page/林一峰.md" title="wikilink">林一峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林一峰" title="wikilink">林一峰</a></p></td>
 <td><p>盧家宏</p></td>
 <td><p><a href="../Page/王治平.md" title="wikilink">王治平</a></p></td>
 <td></td>
@@ -68,9 +68,9 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <td><p>04</p></td>
 <td><p>沒有管理員的公寓</p></td>
 <td><p>陳信延</p></td>
-<td><p><a href="../Page/袁惟仁.md" title="wikilink">袁惟仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/袁惟仁" title="wikilink">袁惟仁</a></p></td>
 <td><p>Mac Chew</p></td>
-<td><p><a href="../Page/袁惟仁.md" title="wikilink">袁惟仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/袁惟仁" title="wikilink">袁惟仁</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -87,7 +87,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <td><p>06</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=jmvsxBwpnIQ">我想我不會愛你</a></p></td>
 <td><p>呂康惟</p></td>
-<td><p><a href="../Page/JerryC.md" title="wikilink">JerryC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JerryC" title="wikilink">JerryC</a></p></td>
 <td><p><a href="../Page/王治平.md" title="wikilink">王治平</a></p></td>
 <td><p><strong>第五波主打</strong></p></td>
 <td></td>
@@ -135,7 +135,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=w96CCImdIiE">Love!</a></p></td>
-<td><p><a href="../Page/黃淑惠.md" title="wikilink">黃淑惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑惠" title="wikilink">黃淑惠</a></p></td>
 <td><p><a href="../Page/王治平.md" title="wikilink">王治平</a></p></td>
 <td><p><strong>第一波主打</strong></p></td>
 <td></td>
@@ -149,7 +149,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 **330音樂田 生日會精華DVD**
 
   - 預購
-    [田馥甄](../Page/田馥甄.md "wikilink")（[Hebe](../Page/Hebe.md "wikilink")）的《To
+    [田馥甄](../Page/田馥甄.md "wikilink")（[Hebe](https://zh.wikipedia.org/wiki/Hebe "wikilink")）的《To
     Hebe》專輯（2010年9月3日發行）預購專輯附送的《330音樂田》音樂生日會精華DVD
       - 收錄：
 
@@ -170,29 +170,29 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 
 ## 音樂錄影帶
 
-| 歌名           | 導演                               | 首播日期       |
-| ------------ | -------------------------------- | ---------- |
-| LOVE?\[3\]   |                                  |            |
-| LOVE\!       | [比爾賈](../Page/比爾賈.md "wikilink") | 2010年8月12日 |
-| 寂寞寂寞就好\[4\]  | 徐筠軒                              | 2010年8月23日 |
-| 你太猖狂         | 黃中平                              | 2010年9月13日 |
-| To Hebe\[5\] | [比爾賈](../Page/比爾賈.md "wikilink") | 2010年10月1日 |
-| 我想我不會愛你      | bounce                           | 2010年11月2日 |
-| 超級瑪麗         | bounce                           | 2010年12月2日 |
+| 歌名           | 導演                                                  | 首播日期       |
+| ------------ | --------------------------------------------------- | ---------- |
+| LOVE?\[3\]   |                                                     |            |
+| LOVE\!       | [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink") | 2010年8月12日 |
+| 寂寞寂寞就好\[4\]  | 徐筠軒                                                 | 2010年8月23日 |
+| 你太猖狂         | 黃中平                                                 | 2010年9月13日 |
+| To Hebe\[5\] | [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink") | 2010年10月1日 |
+| 我想我不會愛你      | bounce                                              | 2010年11月2日 |
+| 超級瑪麗         | bounce                                              | 2010年12月2日 |
 
 ## 戲劇歌曲
 
 1.  我想我不會愛你（製作：bounce）【台視、三立《[國民英雄](../Page/國民英雄.md "wikilink")》插曲】
 2.  寂寞寂寞就好（MV導演：徐筠軒）【衛視中文台《[風吹好日子](../Page/風吹好日子.md "wikilink")》片頭片尾曲】
 3.  你太猖狂（MV導演：[黃中平](../Page/黃中平.md "wikilink")）【衛視中文台《[鄰居冤家](../Page/鄰居冤家.md "wikilink")》片頭片尾曲】
-4.  LOVE\!（MV導演：[比爾賈](../Page/比爾賈.md "wikilink")）【民視《[新兵日記](../Page/新兵日記.md "wikilink")》插曲】
-5.  你太猖狂（MV導演：[黃中平](../Page/黃中平.md "wikilink")）【民視《[新兵日記](../Page/新兵日記.md "wikilink")》插曲】19集
+4.  LOVE\!（MV導演：[比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink")）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】
+5.  你太猖狂（MV導演：[黃中平](../Page/黃中平.md "wikilink")）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】19集
 6.  你太猖狂（MV導演：[黃中平](../Page/黃中平.md "wikilink")）【台視《[國民英雄](../Page/國民英雄.md "wikilink")》插曲】
-7.  寂寞寂寞就好（MV導演：[徐筠軒](../Page/徐筠軒.md "wikilink")）【民視《[新兵日記](../Page/新兵日記.md "wikilink")》插曲】25集
-8.  超級瑪莉（MV導演）【民視《[新兵日記](../Page/新兵日記.md "wikilink")》插曲】35集
-9.  寂寞寂寞就好（MV導演：徐筠軒）【中視《[稍息立正我愛你](../Page/稍息立正我愛你.md "wikilink")》插曲】
+7.  寂寞寂寞就好（MV導演：[徐筠軒](https://zh.wikipedia.org/wiki/徐筠軒 "wikilink")）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】25集
+8.  超級瑪莉（MV導演）【民視《[新兵日記](https://zh.wikipedia.org/wiki/新兵日記 "wikilink")》插曲】35集
+9.  寂寞寂寞就好（MV導演：徐筠軒）【中視《[稍息立正我愛你](https://zh.wikipedia.org/wiki/稍息立正我愛你 "wikilink")》插曲】
 
-## [第22屆金曲獎](../Page/第22屆金曲獎.md "wikilink")
+## [第22屆金曲獎](https://zh.wikipedia.org/wiki/第22屆金曲獎 "wikilink")
 
 <table style="width:56%;">
 <colgroup>
@@ -212,24 +212,24 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 <tbody>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="../Page/最佳专辑包裝奖_(金曲奖).md" title="wikilink">最佳专辑包裝奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最佳专辑包裝奖_(金曲奖)" title="wikilink">最佳专辑包裝奖</a></p></td>
 <td><p><a href="../Page/聶永真.md" title="wikilink">聶永真</a>《To Hebe》</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/最佳音樂錄影帶獎_(金曲奖).md" title="wikilink">最佳音樂錄影帶獎</a></p></td>
-<td><p><a href="../Page/徐筠軒.md" title="wikilink">徐筠軒</a>〈寂寞寂寞就好〉</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最佳音樂錄影帶獎_(金曲奖)" title="wikilink">最佳音樂錄影帶獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐筠軒" title="wikilink">徐筠軒</a>〈寂寞寂寞就好〉</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/最佳單曲製作人獎_(金曲奖).md" title="wikilink">最佳單曲製作人獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最佳單曲製作人獎_(金曲奖)" title="wikilink">最佳單曲製作人獎</a></p></td>
 <td><p><a href="../Page/王治平.md" title="wikilink">王治平</a>〈LOVE!〉</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/最佳国语专辑奖_(金曲奖).md" title="wikilink">最佳国语专辑奖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最佳国语专辑奖_(金曲奖)" title="wikilink">最佳国语专辑奖</a></p></td>
 <td><p>《To Hebe》</p></td>
 <td></td>
 <td></td>
@@ -253,7 +253,8 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 
   -
     日期：2010年10月8日至10月10日（三場）
-    地點：[華山創意文化園區](../Page/華山創意文化園區.md "wikilink")「Legacy Taipei傳」音樂展演空間
+    地點：[華山創意文化園區](https://zh.wikipedia.org/wiki/華山創意文化園區 "wikilink")「Legacy
+    Taipei傳」音樂展演空間
     嘉賓：[Selina](../Page/任家萱.md "wikilink")（10/10場）
     註：專輯發行一個月後，舉辦三場小型演唱會，觀眾共計3000餘人，三場音樂會皆滿，創下「Legacy
     Taipei傳」音樂展演空間創辦以來連唱最多場、觀看人數最多的紀錄。影音收錄於2010年12月3日發行的《Love\!
@@ -268,7 +269,7 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
   -
     日期：2010年11月6日
     地點：[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[匯星Star
-    Hall](../Page/匯星.md "wikilink")
+    Hall](https://zh.wikipedia.org/wiki/匯星 "wikilink")
     註：特別獻唱[詹姆仕·布朗特的](../Page/詹姆仕·布朗特.md "wikilink")《You're
     Beautiful》時，加上[Selina的相片動畫背景](../Page/任家萱.md "wikilink")，為在接受灼傷治療的Selina祈禱
 
@@ -280,13 +281,13 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 
   -
     日期：2011年1月15日（同日兩場）
-    地點：[聖淘沙雲頂世界會議中心](../Page/聖淘沙名勝世界.md "wikilink")
-    嘉賓：[Olivia](../Page/王儷婷.md "wikilink")
+    地點：[聖淘沙雲頂世界會議中心](https://zh.wikipedia.org/wiki/聖淘沙名勝世界 "wikilink")
+    嘉賓：[Olivia](https://zh.wikipedia.org/wiki/王儷婷 "wikilink")
     註：在新加坡首次開個人音樂會，是首位在該場地開唱的歌手。於同一天加開第二場，演出時間分別為晚上八點和下午兩點
 
 <!-- end list -->
 
-  - Love\!To Hebe音樂會【[上海站](../Page/上海.md "wikilink")】
+  - Love\!To Hebe音樂會【[上海站](https://zh.wikipedia.org/wiki/上海 "wikilink")】
 
 <!-- end list -->
 
@@ -297,13 +298,13 @@ Hebe》入圍[第22屆金曲獎四項](../Page/第22屆金曲獎.md "wikilink")�
 
 <!-- end list -->
 
-  - Love\!To Hebe音樂會【[北京站](../Page/北京.md "wikilink")】
+  - Love\!To Hebe音樂會【[北京站](https://zh.wikipedia.org/wiki/北京 "wikilink")】
 
 <!-- end list -->
 
   -
     日期：2011年3月26日
-    地點：[北展劇場](../Page/北展劇場.md "wikilink")
+    地點：[北展劇場](https://zh.wikipedia.org/wiki/北展劇場 "wikilink")
 
 ## 其他作品
 

@@ -6,8 +6,8 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
   - 專輯《[SMAP 003](../Page/SMAP_003.md "wikilink")》收錄的是「不要放棄Baby\!～Never
     give up（3×3 MIX）」版本，單曲版本只收錄在《[Smap
-    Vest](../Page/Smap_Vest.md "wikilink")》。B面「BEST
-    FRIEND」的單曲版本沒有被收錄在任何專輯，收錄在[pamS的是重新錄制的](../Page/pamS.md "wikilink")2001
+    Vest](https://zh.wikipedia.org/wiki/Smap_Vest "wikilink")》。B面「BEST
+    FRIEND」的單曲版本沒有被收錄在任何專輯，收錄在[pamS的是重新錄制的](https://zh.wikipedia.org/wiki/pamS "wikilink")2001
     version。
   - 初回盤附送「SMAP MINI-MINI PHOTO BOOK」。
 
@@ -17,10 +17,10 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 作詞:相田毅 / 作曲:筒美京平 / 編曲:CHOKKAKU
 2.  BEST FRIEND
       - 作詞:福島優子‧森浩美 / 作曲:[筒美京平](../Page/筒美京平.md "wikilink") / 編曲:土方隆行
-      - 曾在[NHK](../Page/NHK.md "wikilink")[大家的歌曲上播放](../Page/大家的歌曲.md "wikilink")
+      - 曾在[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[大家的歌曲上播放](https://zh.wikipedia.org/wiki/大家的歌曲 "wikilink")
       - 描寫友情的歌曲，在NHK播放時是給母親的歌，與收錄在CD的歌詞不同。
-      - 當成員[森且行離隊](../Page/森且行.md "wikilink")、[稻垣吾郎復歸時](../Page/稻垣吾郎.md "wikilink")，在節目[SMAP×SMAP上曾共同演唱過](../Page/SMAP×SMAP.md "wikilink")
-      - 2013年4月8日播放的「[SMAP×SMAP](../Page/SMAP×SMAP.md "wikilink")」特別篇上，五人在卡啦OK唱這曲時，中居、草彅感動流淚
+      - 當成員[森且行離隊](../Page/森且行.md "wikilink")、[稻垣吾郎復歸時](../Page/稻垣吾郎.md "wikilink")，在節目[SMAP×SMAP上曾共同演唱過](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")
+      - 2013年4月8日播放的「[SMAP×SMAP](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")」特別篇上，五人在卡啦OK唱這曲時，中居、草彅感動流淚
 3.  不要放棄Baby\!～Never give up (Original Karaoke)
 4.  BEST FRIEND (Original Karaoke)
 5.  SMAP 個人留言 中居正廣

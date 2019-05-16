@@ -1,5 +1,5 @@
 《**Beat
-It**》是美国著名歌手[麥可·傑克森的一首](../Page/麥可·傑克森.md "wikilink")[搖滾歌曲](../Page/搖滾.md "wikilink")，收录于其第六张专辑《Thriller》(1982)之中。
+It**》是美国著名歌手[麥可·傑克森的一首](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")[搖滾歌曲](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，收录于其第六张专辑《Thriller》(1982)之中。
 
 ## 歌曲介绍
 
@@ -8,7 +8,7 @@ It**》是美国著名歌手[麥可·傑克森的一首](../Page/麥可·傑克�
 ## 歌词大意及含义
 
 “beat
-it”是美国[俚语](../Page/俚语.md "wikilink")，字面意思是打它，实则是躲开。有点类似中国的暗语风紧“扯乎”。本歌的大意是呼吁青少年不要用暴力来解决问题。
+it”是美国[俚语](https://zh.wikipedia.org/wiki/俚语 "wikilink")，字面意思是打它，实则是躲开。有点类似中国的暗语风紧“扯乎”。本歌的大意是呼吁青少年不要用暴力来解决问题。
 
 ## 奖项
 
@@ -18,7 +18,7 @@ It》在美國銷售量已破668000。
 
 ## 改編版本
 
-2001年，改編\[1\]該曲之台語版「誰是老大」為「[華視](../Page/華視.md "wikilink")」[八點檔](../Page/八點檔.md "wikilink")「[大家樂歡天](../Page/大家樂歡天.md "wikilink")」插曲並收錄於該戲劇電視原聲帶，[武雄作詞](../Page/武雄.md "wikilink")，[施文彬演唱](../Page/施文彬.md "wikilink")。
+2001年，改編\[1\]該曲之台語版「誰是老大」為「[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")」[八點檔](../Page/八點檔.md "wikilink")「[大家樂歡天](https://zh.wikipedia.org/wiki/大家樂歡天 "wikilink")」插曲並收錄於該戲劇電視原聲帶，[武雄作詞](https://zh.wikipedia.org/wiki/武雄 "wikilink")，[施文彬演唱](../Page/施文彬.md "wikilink")。
 
 ## 注釋
 

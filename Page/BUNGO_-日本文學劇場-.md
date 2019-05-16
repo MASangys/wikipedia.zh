@@ -8,85 +8,85 @@
 
 ### 黄金風景
 
-  - 津島修治：[向井理](../Page/向井理.md "wikilink")（兒童時期：[遠藤健慎](../Page/遠藤健慎.md "wikilink")）
-  - 阿慶：[優香](../Page/優香.md "wikilink")
+  - 津島修治：[向井理](../Page/向井理.md "wikilink")（兒童時期：[遠藤健慎](https://zh.wikipedia.org/wiki/遠藤健慎 "wikilink")）
+  - 阿慶：[優香](https://zh.wikipedia.org/wiki/優香 "wikilink")
   - 警察・馬車屋：[青木崇高](../Page/青木崇高.md "wikilink")
 
 ### 檸檬
 
   - カジイ：[佐藤隆太](../Page/佐藤隆太.md "wikilink")
   - 丸善の店員：[蓮佛美沙子](../Page/蓮佛美沙子.md "wikilink")
-  - 一階の男：[赤堀雅秋](../Page/赤堀雅秋.md "wikilink")
-  - ナカタニ：[和田聰宏](../Page/和田聰宏.md "wikilink")
+  - 一階の男：[赤堀雅秋](https://zh.wikipedia.org/wiki/赤堀雅秋 "wikilink")
+  - ナカタニ：[和田聰宏](https://zh.wikipedia.org/wiki/和田聰宏 "wikilink")
 
 ### 高瀨舟
 
   - 喜助：[成宮寬貴](../Page/成宮寬貴.md "wikilink")
-  - 庄兵衛：[杉本哲太](../Page/杉本哲太.md "wikilink")
-  - 與平：[タモト清嵐](../Page/タモト清嵐.md "wikilink")
-  - 老婆：[岡本麗](../Page/岡本麗.md "wikilink")
+  - 庄兵衛：[杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")
+  - 與平：[タモト清嵐](https://zh.wikipedia.org/wiki/タモト清嵐 "wikilink")
+  - 老婆：[岡本麗](https://zh.wikipedia.org/wiki/岡本麗 "wikilink")
 
 ### 魔術
 
   - 櫻田龍一：[塚本高史](../Page/塚本高史.md "wikilink")
-  - マティラム・ミスラ：[村上淳](../Page/村上淳.md "wikilink")
+  - マティラム・ミスラ：[村上淳](https://zh.wikipedia.org/wiki/村上淳 "wikilink")
   - 文子：[中村友理](../Page/中村友理.md "wikilink")
-  - 直哉：[三浦誠己](../Page/三浦誠己.md "wikilink")
+  - 直哉：[三浦誠己](https://zh.wikipedia.org/wiki/三浦誠己 "wikilink")
 
 ### 富美子的腳
 
   - 富美子：[加藤羅莎](../Page/加藤羅莎.md "wikilink")
-  - 塚越：[寺田農](../Page/寺田農.md "wikilink")
+  - 塚越：[寺田農](https://zh.wikipedia.org/wiki/寺田農 "wikilink")
   - 宇之吉：[夕輝壽太](../Page/夕輝壽太.md "wikilink")
 
 ### Goodbye
 
-  - 田島周二：[山崎まさよし](../Page/山崎まさよし.md "wikilink")
+  - 田島周二：[山崎まさよし](https://zh.wikipedia.org/wiki/山崎まさよし "wikilink")
   - キヌ子：[水川麻美](../Page/水川麻美.md "wikilink")
-  - 村松：[小市慢太郎](../Page/小市慢太郎.md "wikilink")
-  - 青木：[出口結美子](../Page/出口結美子.md "wikilink")
-  - 男：[長江英和](../Page/長江英和.md "wikilink")
+  - 村松：[小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")
+  - 青木：[出口結美子](https://zh.wikipedia.org/wiki/出口結美子 "wikilink")
+  - 男：[長江英和](https://zh.wikipedia.org/wiki/長江英和 "wikilink")
 
 ## 工作人員
 
-  - 主題曲：[生物股長](../Page/生物股長.md "wikilink")「[真昼の月](../Page/ハジマリノウタ.md "wikilink")」
+  - 主題曲：[生物股長](https://zh.wikipedia.org/wiki/生物股長 "wikilink")「[真昼の月](https://zh.wikipedia.org/wiki/ハジマリノウタ "wikilink")」
   - 旁白、朗讀：[吉岡聖惠](../Page/吉岡聖惠.md "wikilink")（いきものがかり）
 
 ### 黄金風景
 
   - 原作：[太宰治](../Page/太宰治.md "wikilink")
-  - 腳本：[菅野友惠](../Page/菅野友惠.md "wikilink")
-  - 導演：[アベユーイチ](../Page/アベユーイチ.md "wikilink")
+  - 腳本：[菅野友惠](https://zh.wikipedia.org/wiki/菅野友惠 "wikilink")
+  - 導演：[アベユーイチ](https://zh.wikipedia.org/wiki/アベユーイチ "wikilink")
 
 ### 檸檬
 
   - 原作：[梶井基次郎](../Page/梶井基次郎.md "wikilink")
-  - 腳本：[いながききよたか](../Page/いながききよたか.md "wikilink")
-  - 導演：[吉田惠輔](../Page/吉田惠輔.md "wikilink")
+  - 腳本：[いながききよたか](https://zh.wikipedia.org/wiki/いながききよたか "wikilink")
+  - 導演：[吉田惠輔](https://zh.wikipedia.org/wiki/吉田惠輔 "wikilink")
 
 ### 高瀬舟
 
   - 原作：[森鷗外](../Page/森鷗外.md "wikilink")
-  - 腳本：[久保裕章](../Page/久保裕章.md "wikilink")
-  - 導演：[富樫森](../Page/富樫森.md "wikilink")
+  - 腳本：[久保裕章](https://zh.wikipedia.org/wiki/久保裕章 "wikilink")
+  - 導演：[富樫森](https://zh.wikipedia.org/wiki/富樫森 "wikilink")
 
 ### 魔術
 
-  - 原作：[芥川龍之介](../Page/芥川龍之介.md "wikilink")
-  - 腳本：[草野陽花](../Page/草野陽花.md "wikilink")
-  - 導演：[熊切和嘉](../Page/熊切和嘉.md "wikilink")
+  - 原作：[芥川龍之介](https://zh.wikipedia.org/wiki/芥川龍之介 "wikilink")
+  - 腳本：[草野陽花](https://zh.wikipedia.org/wiki/草野陽花 "wikilink")
+  - 導演：[熊切和嘉](https://zh.wikipedia.org/wiki/熊切和嘉 "wikilink")
 
 ### 富美子的腳
 
   - 原作：[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")
   - 腳本：菅野友惠
-  - 導演：[橋本光二郎](../Page/橋本光二郎.md "wikilink")
+  - 導演：[橋本光二郎](https://zh.wikipedia.org/wiki/橋本光二郎 "wikilink")
 
 ### Goodbye
 
   - 原作：太宰治
-  - 腳本：[倉持裕](../Page/倉持裕.md "wikilink")
-  - 導演：[篠原哲雄](../Page/篠原哲雄.md "wikilink")
+  - 腳本：[倉持裕](https://zh.wikipedia.org/wiki/倉持裕 "wikilink")
+  - 導演：[篠原哲雄](https://zh.wikipedia.org/wiki/篠原哲雄 "wikilink")
 
 ## 播出時間
 
@@ -103,12 +103,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/TBS.md" title="wikilink">TBS</a></p></td>
 <td><p>黃金風景</p></td>
 <td><p>2010年2月15日</p></td>
 <td><p>星期一 25:44 - 26:14</p></td>
-<td><p><a href="../Page/TBS系列.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS系列" title="wikilink">TBS系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p>魔術</p></td>
@@ -151,13 +151,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/日本全國.md" title="wikilink">日本全國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本全國" title="wikilink">日本全國</a></p></td>
 <td><p><a href="../Page/BS-TBS.md" title="wikilink">BS-TBS</a></p></td>
 <td><p>黄金風景</p></td>
 <td><p>2010年2月20日</p></td>
 <td><p>星期六 18:30 - 19:00</p></td>
-<td><p><a href="../Page/TBS系列.md" title="wikilink">TBS系列</a><br />
-<a href="../Page/日本衛星放送.md" title="wikilink">BSデジタル放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS系列" title="wikilink">TBS系列</a><br />
+<a href="https://zh.wikipedia.org/wiki/日本衛星放送" title="wikilink">BSデジタル放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p>魔術</p></td>
@@ -200,8 +200,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/山梨縣.md" title="wikilink">山梨縣</a></p></td>
-<td><p><a href="../Page/山梨電視台.md" title="wikilink">山梨電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨電視台" title="wikilink">山梨電視台</a></p></td>
 <td><p>黄金風景</p></td>
 <td><p>2010年3月2日</p></td>
 <td><p>星期二 16:30 - 17:00</p></td>

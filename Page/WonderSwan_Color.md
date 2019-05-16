@@ -1,9 +1,9 @@
 **WonderSwan
-Color**（简称为**WSC**）是[BANDAI公司继](../Page/BANDAI.md "wikilink")[WonderSwan](../Page/WonderSwan.md "wikilink")（简称为**WS**）以后推出的一台掌上游戏机。其外观继承了初代由[横井军平设计的WS](../Page/横井军平.md "wikilink")。其特点为小巧、省电（WS系列是史上唯一的只用一节干电池的掌机）、而且可以把主机横着或竖着玩。相比于WS，WSC最大的亮点便在于它采用了2.8寸的彩色液晶屏幕。WSC一经推出便受到了大众的好评，并在当时形成了与[GBA一并争夺市场的局面](../Page/GBA.md "wikilink")。但后来由于WSC游戏数量较少加上GBA游戏的热卖，从而使它退出了掌机争夺的市场。
+Color**（简称为**WSC**）是[BANDAI公司继](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[WonderSwan](../Page/WonderSwan.md "wikilink")（简称为**WS**）以后推出的一台掌上游戏机。其外观继承了初代由[横井军平设计的WS](https://zh.wikipedia.org/wiki/横井军平 "wikilink")。其特点为小巧、省电（WS系列是史上唯一的只用一节干电池的掌机）、而且可以把主机横着或竖着玩。相比于WS，WSC最大的亮点便在于它采用了2.8寸的彩色液晶屏幕。WSC一经推出便受到了大众的好评，并在当时形成了与[GBA一并争夺市场的局面](https://zh.wikipedia.org/wiki/GBA "wikilink")。但后来由于WSC游戏数量较少加上GBA游戏的热卖，从而使它退出了掌机争夺的市场。
 
 ## 主机参数
 
-  - 屏幕类型：2.8英寸反射型[FSTN屏幕](../Page/FSTN.md "wikilink")
+  - 屏幕类型：2.8英寸反射型[FSTN屏幕](https://zh.wikipedia.org/wiki/FSTN "wikilink")
   - 解析度：224×144像素
   - 屏幕发色数：最多4096色，同时241色
   - 声效：4声道数字音源，经耳机输出Hyper Voice立体声。
@@ -14,7 +14,7 @@ Color**（简称为**WSC**）是[BANDAI公司继](../Page/BANDAI.md "wikilink")[
   - 游戏卡插槽：对应WSC专用游戏卡（最大512Mb），向下兼容WS游戏卡
   - 主机规格：173mm（长）×128mm（宽）×24.3mm（高）
   - 主机重量：约95g（含电池）
-  - 发售日/售价：[2000年12月9日](../Page/2000年12月9日.md "wikilink")/6800日元
+  - 发售日/售价：[2000年12月9日](https://zh.wikipedia.org/wiki/2000年12月9日 "wikilink")/6800日元
 
 ## 可选配件
 
@@ -26,7 +26,7 @@ Wave，USB适配器具有速度更快的优点。
 
 ### 记忆卡适配器
 
-WSC在2001年夏发售3款记忆卡适配器，分别对应[SMC](../Page/SMC.md "wikilink")、[MS](../Page/MS.md "wikilink")、[SD卡](../Page/SD.md "wikilink")。可以用来储存游戏进度以供和朋友分享，或从互联网下载游戏在WSC主机上运行。
+WSC在2001年夏发售3款记忆卡适配器，分别对应[SMC](https://zh.wikipedia.org/wiki/SMC "wikilink")、[MS](https://zh.wikipedia.org/wiki/MS "wikilink")、[SD卡](https://zh.wikipedia.org/wiki/SD "wikilink")。可以用来储存游戏进度以供和朋友分享，或从互联网下载游戏在WSC主机上运行。
 
 ### Wonder Coin
 
@@ -35,7 +35,7 @@ WSC在2001年夏发售3款记忆卡适配器，分别对应[SMC](../Page/SMC.md 
 ### Wonder Wave
 
 对应WS或WSC的红外适配器，可以实现在主机之间通讯的功能，亦可以与[Pocket
-Station联动从而解锁游戏要素](../Page/Pocket_Station.md "wikilink")
+Station联动从而解锁游戏要素](https://zh.wikipedia.org/wiki/Pocket_Station "wikilink")
 
 ### Wonder Borg
 
@@ -48,8 +48,8 @@ WSC与一般便携式游戏机不同，其不含有耳机插孔，所以想要�
 
 ## 相关产品
 
-  - [WonderSwan](../Page/WonderSwan.md "wikilink")（由[BANDAI出品的第一代黑白掌机](../Page/BANDAI.md "wikilink")）
-  - [SwanCrystal](../Page/SwanCrystal.md "wikilink")（WonderSwan
+  - [WonderSwan](../Page/WonderSwan.md "wikilink")（由[BANDAI出品的第一代黑白掌机](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）
+  - [SwanCrystal](https://zh.wikipedia.org/wiki/SwanCrystal "wikilink")（WonderSwan
     Color的进化机种）
 
 ## 外部链接

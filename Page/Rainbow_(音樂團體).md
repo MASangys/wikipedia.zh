@@ -1,51 +1,51 @@
-**Rainbow**（、）是[韓國](../Page/韓國.md "wikilink")[DSP
-Media於](../Page/DSP_Media.md "wikilink")2009年推出的七人[女子團體](../Page/女子音樂團體.md "wikilink")，成員包括[金栽經](../Page/金栽經.md "wikilink")、[高佑麗](../Page/高佑麗.md "wikilink")（現名高娜恩）、[吳丞芽](../Page/吳丞芽.md "wikilink")、[盧乙](../Page/盧乙.md "wikilink")、[鄭允慧](../Page/鄭允慧.md "wikilink")、[金智淑和](../Page/金智淑_\(藝人\).md "wikilink")[趙賢榮](../Page/趙賢榮.md "wikilink")。Rainbow在演藝界以組合團結、成員間關係親密見稱。
+**Rainbow**（、）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP
+Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2009年推出的七人[女子團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")，成員包括[金栽經](../Page/金栽經.md "wikilink")、[高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")（現名高娜恩）、[吳丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[盧乙](../Page/盧乙.md "wikilink")、[鄭允慧](https://zh.wikipedia.org/wiki/鄭允慧 "wikilink")、[金智淑和](../Page/金智淑_\(藝人\).md "wikilink")[趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。Rainbow在演藝界以組合團結、成員間關係親密見稱。
 
-「Rainbow」團名是師兄[SS501](../Page/SS501.md "wikilink")[金奎鐘所取的](../Page/金奎鐘.md "wikilink")，因為他認為「SS501」屬於較抽象的團名，所以他希望「Rainbow」的團名能夠更簡單明瞭些，最後公司就採用了「Rainbow」這個名字，而七色的[彩虹代表了七個團員](../Page/彩虹.md "wikilink")。\[1\]\[2\]出道初期，團員中比較受矚目是隊長[栽經](../Page/金栽經.md "wikilink")，因外貌與[日本](../Page/日本.md "wikilink")[女演員](../Page/女演員.md "wikilink")[綾瀨遙相似](../Page/綾瀨遙.md "wikilink")，所以備受網友討論。近年較著名成員，有走性感路線的[賢榮及憑](../Page/趙賢榮.md "wikilink")「演藝家中介」成功入屋的[智淑](../Page/金智淑_\(藝人\).md "wikilink")。
+「Rainbow」團名是師兄[SS501](../Page/SS501.md "wikilink")[金奎鐘所取的](../Page/金奎鐘.md "wikilink")，因為他認為「SS501」屬於較抽象的團名，所以他希望「Rainbow」的團名能夠更簡單明瞭些，最後公司就採用了「Rainbow」這個名字，而七色的[彩虹代表了七個團員](https://zh.wikipedia.org/wiki/彩虹 "wikilink")。\[1\]\[2\]出道初期，團員中比較受矚目是隊長[栽經](../Page/金栽經.md "wikilink")，因外貌與[日本](../Page/日本.md "wikilink")[女演員](https://zh.wikipedia.org/wiki/女演員 "wikilink")[綾瀨遙相似](../Page/綾瀨遙.md "wikilink")，所以備受網友討論。近年較著名成員，有走性感路線的[賢榮及憑](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")「演藝家中介」成功入屋的[智淑](../Page/金智淑_\(藝人\).md "wikilink")。
 
-所属公司表示：“7名成員接受了很長一段時間的訓練，她們都具有着深厚的歌唱實力。大家都不覺得她們像新人，她們有着自然純熟的舞台實力，所以敬請大家期待。”培養出[Fin.K.L](../Page/Fin.K.L.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[KARA等人氣團體的演藝經紀公司DSP](../Page/KARA.md "wikilink")
+所属公司表示：“7名成員接受了很長一段時間的訓練，她們都具有着深厚的歌唱實力。大家都不覺得她們像新人，她們有着自然純熟的舞台實力，所以敬請大家期待。”培養出[Fin.K.L](https://zh.wikipedia.org/wiki/Fin.K.L "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[SS501](../Page/SS501.md "wikilink")、[KARA等人氣團體的演藝經紀公司DSP](https://zh.wikipedia.org/wiki/KARA "wikilink")
 Media的另一支野心作——「Rainbow」終於揭開了面紗\[3\]。
 
 「Rainbow」的官方Fanclub名稱為RAINNOUS，由DSP官網舉辦公開投票決定出來。RAINNOUS是Rainbow（彩虹）和Luminous（發光）兩個英文字合起來，意思是Rainnous讓彩虹能夠發出更加五光十色的绚丽光彩\[4\]。
 
 Rainbow第一組子團 Rainbow Pixie（레인보우
-픽시）的成員分別是[丞芽](../Page/吳丞芽.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](../Page/趙賢榮.md "wikilink")。首張單曲《Hoi
+픽시）的成員分別是[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。首張單曲《Hoi
 Hoi》於2012年1月12日公開。\[5\]
 
 Rainbow第二組子團 Rainbow Blaxx（레인보우
-블랙）的成員分別是[栽經](../Page/金栽經.md "wikilink")、[佑麗](../Page/高佑麗.md "wikilink")、[丞芽](../Page/吳丞芽.md "wikilink")、[賢榮](../Page/趙賢榮.md "wikilink")。
+블랙）的成員分別是[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")、[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")。
 
 2016年10月28日，Rainbow所屬經紀公司[DSP
-Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後解散。
+Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月12日合約期滿後解散。
 
 ## 成員資料
 
-| 已离开成員列表                                                                       |
-| ----------------------------------------------------------------------------- |
-| 藝名                                                                            |
-| 漢字                                                                            |
-| **[高佑麗](../Page/高佑麗.md "wikilink")**                                          |
-| **[<span style="color:white;">吳丞芽</span>](../Page/吳丞芽.md "wikilink")**        |
-| **[<span style="color:white;">金栽經</span>](../Page/金栽經.md "wikilink")**        |
-| **[<span style="color:white;">盧乙</span>](../Page/盧乙.md "wikilink")**          |
-| '''[<span style="color:white;">鄭允慧</span>](../Page/鄭允慧.md "wikilink") '''     |
-| **[<span style="color:white;">金智淑</span>](../Page/金智淑_\(藝人\).md "wikilink")** |
-| *' [趙賢榮](../Page/趙賢榮.md "wikilink")*'                                         |
+| 已离开成員列表                                                                                      |
+| -------------------------------------------------------------------------------------------- |
+| 藝名                                                                                           |
+| 漢字                                                                                           |
+| **[高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")**                                      |
+| **[<span style="color:white;">吳丞芽</span>](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")**    |
+| **[<span style="color:white;">金栽經</span>](../Page/金栽經.md "wikilink")**                       |
+| **[<span style="color:white;">盧乙</span>](../Page/盧乙.md "wikilink")**                         |
+| '''[<span style="color:white;">鄭允慧</span>](https://zh.wikipedia.org/wiki/鄭允慧 "wikilink") ''' |
+| **[<span style="color:white;">金智淑</span>](../Page/金智淑_\(藝人\).md "wikilink")**                |
+| *' [趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")*'                                     |
 
 ## 簡介
 
 ### 2009年以前﹕出道前
 
-  - 2008年，DSP透過VJ突襲訪問，首次公開準備出道的新女團成員\[6\]，當時成員包括栽經、丞芽、盧乙、允慧、[主儐](../Page/李珠彬.md "wikilink")、[知睿與](../Page/閔知睿.md "wikilink")[知秀](../Page/張知秀.md "wikilink")。
+  - 2008年，DSP透過VJ突襲訪問，首次公開準備出道的新女團成員\[6\]，當時成員包括栽經、丞芽、盧乙、允慧、[主儐](https://zh.wikipedia.org/wiki/李珠彬 "wikilink")、[知睿與](https://zh.wikipedia.org/wiki/閔知睿 "wikilink")[知秀](https://zh.wikipedia.org/wiki/張知秀 "wikilink")。
   - 直至2009年，成員歷經多次變動﹕主儐、知睿、知秀先後退出，換成智淑、賢榮與允智（即[NS允智](../Page/NS允智.md "wikilink")）。最後在出道前允智退隊、公司便招攬當時為[SM娛樂練習生的佑麗](../Page/SM娛樂.md "wikilink")、空降作為替補成員，自此Rainbow成員才正式確立。
 
 ### 2009年：出道
 
   - 2009年11月，以首張迷你專輯《[Gossip
     Girl](../Page/Gossip_Girl_\(Rainbow迷你專輯\).md "wikilink")》出道，同時暫定歌迷會名稱為「Iris」。
-  - 在以[少女時代](../Page/少女時代.md "wikilink")、[T-ara](../Page/T-ara.md "wikilink")、[Brown
+  - 在以[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")、[Brown
     Eyed
-    Girls](../Page/Brown_Eyed_Girls.md "wikilink")、[KARA](../Page/KARA.md "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")、[Wonder
+    Girls](../Page/Brown_Eyed_Girls.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")、[Wonder
     Girls等女子團體為趨勢的當中](../Page/Wonder_Girls.md "wikilink")，也毫不惧怕得像歌谣界下挑戰書的她們，於11月12日推出了首張出道專輯《Gossip
     Girl》，並展開正式活動。特别是在正式出道前的4日僅公開了一張的照片，便同時登上各大門户網站搜尋排行榜第一的位置，以及韓國國内歌手搜尋語排行榜第一的位置。
 
@@ -64,7 +64,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
   - 2010年10月21日，以M\!
     Countdown作回歸舞台\[15\]。同月，劇集「[大物](../Page/大物.md "wikilink")」播出Rainbow戲份，再次出現早前被禁播的肚臍舞，引起熱議\[16\]并在11月13日的Show\!
     音樂中心表演A & Mach 結束兩張單曲的宣傳期\[17\]。
-  - 2010年12月22日，宣佈將會首度客串電影「[Heartbeat](../Page/Heartbeat_\(韓國電影\).md "wikilink")」，電影將於2011年1月6日公演\[18\]。另外官方亦預告Rainbow將於2月回歸\[19\]。
+  - 2010年12月22日，宣佈將會首度客串電影「[Heartbeat](https://zh.wikipedia.org/wiki/Heartbeat_\(韓國電影\) "wikilink")」，電影將於2011年1月6日公演\[18\]。另外官方亦預告Rainbow將於2月回歸\[19\]。
 
 ### 2011年：第二張迷你專輯《SO 女》、首張、第二張&第三張日文數位單曲《A》、《Mach》
 
@@ -82,18 +82,18 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 ### 2012年：子團體Rainbow Pixie《Hoi Hoi》、第三張日文單曲《Gonna Gonna GO\!》、首張日語專輯《Over The Rainbow》及空白期裡各成員個人活動
 
   - 2012年1月6日，推出子團體 [Rainbow
-    Pixie](../Page/Rainbow_Pixie.md "wikilink")，成員為[丞芽](../Page/吳丞芽.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、賢榮。推出單曲《Hoi
+    Pixie](https://zh.wikipedia.org/wiki/Rainbow_Pixie "wikilink")，成員為[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、賢榮。推出單曲《Hoi
     Hoi》，於1月14日的 Show\!
     音樂中心作子團出道舞台[1](https://www.youtube.com/watch?v=_h3maqEOMHs)。
   - 2012年3月14日，推出第三張日文單曲《Gonna Gonna GO\!》
   - 2012年5月19日，隊長[栽經於韓國漢陽大學舉行公演宣佈將於七月暑假檔期回歸](../Page/金栽經.md "wikilink")\[31\]，雖然其後消息先後獲官方國際粉絲網站
     Visualglow及唱片公司[DSP
-    Media證實](../Page/DSP_Media.md "wikilink")\[32\]，但最後Rainbow未有如期回歸舞台。
-  - 2012年5月27日，官方發佈[盧乙於MBC全新週末劇](../Page/盧乙.md "wikilink")《[越空仁醫](../Page/越空仁醫.md "wikilink")》的韓服造型照\[33\]。
+    Media證實](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")\[32\]，但最後Rainbow未有如期回歸舞台。
+  - 2012年5月27日，官方發佈[盧乙於MBC全新週末劇](../Page/盧乙.md "wikilink")《[越空仁醫](https://zh.wikipedia.org/wiki/越空仁醫 "wikilink")》的韓服造型照\[33\]。
   - 2012年6月12日，隊長[栽經正式畢業於同德女子大學服裝設計系](../Page/金栽經.md "wikilink")\[34\]
   - 2012年6月18日，[智淑與Super](../Page/金智淑_\(藝人\).md "wikilink") Star K3
-    成員[閔勛基為tvN](../Page/閔勛基.md "wikilink")
-    月火劇《[我愛李泰利](../Page/我愛李泰利.md "wikilink")》錄製的OST《我們相愛嗎？》於線上音源網發佈\[35\]
+    成員[閔勛基為tvN](https://zh.wikipedia.org/wiki/閔勛基 "wikilink")
+    月火劇《[我愛李泰利](https://zh.wikipedia.org/wiki/我愛李泰利 "wikilink")》錄製的OST《我們相愛嗎？》於線上音源網發佈\[35\]
 
 ### 2013年：首張正規專輯《Rainbow Syndrome》
 
@@ -110,7 +110,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
   - 2013年2月，歌曲 "Golden
     Touch"會被用在成龍和權相佑主演的電影“[十二生肖](../Page/十二生肖_\(電影\).md "wikilink")”上（包括在韓國的宣傳片[2](https://archive.is/20140825085637/http://tvpot.daum.net/v/vf0baXkXVWgQZVVm0ZMXQbQ)），電影會在2月18日在韓國上映。\[43\]
   - 2013年3月2日，於汝矣島舉行出道第一次的簽名會。
-  - 2013年3月9日，成員[栽經與](../Page/金栽經.md "wikilink")[2AM的](../Page/2AM.md "wikilink")[趙權](../Page/趙權.md "wikilink")、[鄭珍雲擔任音樂中心的Special](../Page/鄭珍雲.md "wikilink")
+  - 2013年3月9日，成員[栽經與](../Page/金栽經.md "wikilink")[2AM的](../Page/2AM.md "wikilink")[趙權](../Page/趙權.md "wikilink")、[鄭珍雲擔任音樂中心的Special](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")
     MC。
   - 2013年3月31日，於人氣歌謠表演Tell Me Tell Me結束首張正規專輯Pt.1的宣傳期。
   - 2013年5月21日，官方預告Rainbow相隔四個月後，再次回歸舞台\[44\]\[45\]
@@ -124,7 +124,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
   - 2013年6月24日，Demi Soda 飲料代言電視廣告播出。
   - 2013年6月30日，於人氣歌謠表演Sunshine結束首張正規專輯Pt.2的宣傳期。
 
-### 2014年：子團體[Rainbow BLAXX](../Page/Rainbow_BLAXX.md "wikilink") 、個人活動時期及DSP家族專輯「White Letter」
+### 2014年：子團體[Rainbow BLAXX](https://zh.wikipedia.org/wiki/Rainbow_BLAXX "wikilink") 、個人活動時期及DSP家族專輯「White Letter」
 
   - 2014年1月1日，官方宣佈推出Rainbow第二組子團Rainbow Blaxx。
   - 2014年1月6日，公開第一位成員：栽經。1月8日，公開第二位成員：賢榮。1月9日，公開第三位成員：丞芽。1月10日，公開第四位成員：佑麗。
@@ -143,7 +143,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ### 2015年：一年半後再度回歸
 
-  - 2015年1月9日，隊長栽經於個人網誌透露，七位成員共住的宿舍生活正式結束\[51\]\[52\]，宿舍其後由公司新女團[APRIL入住](../Page/APRIL_\(女子團體\).md "wikilink")。
+  - 2015年1月9日，隊長栽經於個人網誌透露，七位成員共住的宿舍生活正式結束\[51\]\[52\]，宿舍其後由公司新女團[APRIL入住](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")。
   - 2015年1月21日，官方公布Rainbow將於2月回歸舞台\[53\]\[54\]\[55\]。
   - 2015年2月5日，成員智淑舉辦了個人攝影展<绒毛>，展示自己的個人作品。攝影展由2月5日開放至2月25日，而攝影展所有收入會全部捐给兒童慈善機構\[56\]。
   - 2015年2月11日，公布Rainbow七位成員的新專輯概念照，及公布即將在23日携迷你三輯《INNOCENT》時隔1年7個月回歸\[57\]\[58\]。
@@ -153,10 +153,10 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
   - 2015年2月17日，發佈主打曲《Black Swan》MV預告片\[64\]。
   - 2015年2月23日，官方Youtube頻道發佈主打曲《Black Swan》MV\[65\]
   - 2015年3月11日，官方透過國際歌迷網頁Visual
-    Glow，表示由於[佑麗忙於拍攝新劇](../Page/高佑麗.md "wikilink")[女王之花](../Page/女王之花.md "wikilink")、[丞芽需要預留檔期拍攝新電影](../Page/吳丞芽.md "wikilink")，無暇參與新曲演出，故此宣佈主打曲《Black
+    Glow，表示由於[佑麗忙於拍攝新劇](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")[女王之花](../Page/女王之花.md "wikilink")、[丞芽需要預留檔期拍攝新電影](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")，無暇參與新曲演出，故此宣佈主打曲《Black
     Swan》宣傳期結束。原定作為第二主打、準備現場表演的歌曲「壞男人哭了」，改為僅於電台派歌、及於官方Youtube上載練習片段。\[66\]
   - 2015年3月29日，七位成員同日開通官方個人微博。
-  - 2015年10月16日，韓國傳媒報導趙賢榮與相差12年的[酷懶之味主唱](../Page/酷懶之味.md "wikilink")[Alex相戀](../Page/秋憲坤.md "wikilink")，並獲雙方公司證實消息。\[67\]
+  - 2015年10月16日，韓國傳媒報導趙賢榮與相差12年的[酷懶之味主唱](https://zh.wikipedia.org/wiki/酷懶之味 "wikilink")[Alex相戀](../Page/秋憲坤.md "wikilink")，並獲雙方公司證實消息。\[67\]
 
 ### 2016年：一年後再度回歸、推出首本寫真集「Up Close」、团体解散
 
@@ -194,7 +194,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Rainbow Syndrome Pt.1</strong>》</p>
 <ul>
 <li>發行日期：2013年2月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -205,7 +205,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <ul>
 <li>音源發行日期：2013年6月4日</li>
 <li>專輯發行日期：2013年6月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -228,7 +228,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Gossip Girl</strong>》</p>
 <ul>
 <li>發行日期：2009年11月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -237,7 +237,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>SO 女</strong>》</p>
 <ul>
 <li>發行日期：2011年4月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Sweet Dream</strong>》</p>
 <ul>
 <li>發行日期：2011年6月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -255,7 +255,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>INNOCENT</strong>》</p>
 <ul>
 <li>發行日期：2015年2月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -264,7 +264,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>PRISM</strong>》</p>
 <ul>
 <li>發行日期：2016年2月15日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -287,7 +287,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>A</strong>》</p>
 <ul>
 <li>發行日期：2010年8月12日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -296,7 +296,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Mach</strong>》</p>
 <ul>
 <li>發行日期：2010年10月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -319,7 +319,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Over The Rainbow</strong>》</p>
 <ul>
 <li>發行日期：2012年3月28日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -328,7 +328,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>首張日文專輯特別版《<strong>Over The Rainbow Special Edition</strong>》</p>
 <ul>
 <li>發行日期：2012年12月12日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -351,7 +351,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>A</strong>》</p>
 <ul>
 <li>發行日期：2011年9月14日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -360,7 +360,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Mach</strong>》</p>
 <ul>
 <li>發行日期：2011年12月7日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -369,7 +369,7 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>《<strong>Gonna Gonna GO!</strong>》</p>
 <ul>
 <li>發行日期：2012年3月14日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -378,26 +378,28 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ### 原聲帶
 
-|            |                    |                                                                                                  |                                                                                                   |
-| ---------- | ------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| 發佈日期       | 歌曲名稱               | 專輯名稱                                                                                             | 參與成員                                                                                              |
-| 2010年5月12日 | 사랑해, 좋아해（我愛你, 喜歡你） | [KBS](../Page/KBS.md "wikilink") 月火劇《[國家的呼喚](../Page/國家的呼喚.md "wikilink")》OST                    | [栽經](../Page/金栽經.md "wikilink")、[賢榮](../Page/趙賢榮.md "wikilink")                                   |
-| 2011年2月11日 | 슬퍼도 로맨틱（悲傷也浪漫）     | [MBC](../Page/MBC.md "wikilink") 週末劇《**[一閃一閃亮晶晶](../Page/一閃一閃亮晶晶_\(韓國電視劇\).md "wikilink")**》OST  | 全體                                                                                                |
-| 2011年7月6日  | 그대와 난（你和我）         | [SBS](../Page/SBS_\(韓國\).md "wikilink") 水木劇《[**城市獵人**](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》OST |                                                                                                   |
-| 2011年7月22日 | 갈팡질팡（猶豫不決）         | [MBC](../Page/MBC.md "wikilink") 週末劇《[愛情萬萬歲](../Page/愛情萬萬歲_\(韓國電視劇\).md "wikilink")》OST          | [賢榮](../Page/趙賢榮.md "wikilink")、[Kara](../Page/Kara.md "wikilink")[奎利](../Page/朴奎利.md "wikilink") |
-| 2012年6月19日 | 우리 사랑할까요（我們相愛嗎？）   | [tvN](../Page/tvN.md "wikilink") 月火劇《[我愛李泰利](../Page/戀愛魔法鐘.md "wikilink")》OST                    | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、Super Star K3 的[閔勛基](../Page/閔勛基.md "wikilink")            |
-| 2012年9月27日 | 달콤해（Sweet）         | [TV Tokyo](../Page/TV_Tokyo.md "wikilink") 電視劇《[戀愛滿屋之彩虹玫瑰](../Page/戀愛滿屋之彩虹玫瑰.md "wikilink")》OST  | 全體                                                                                                |
-| 2013年11月6日 | Secret Love        | [KBS](../Page/KBS.md "wikilink") 水木劇 《[**秘密**](../Page/秘密_\(2013年電視劇\).md "wikilink")》OST        | [智淑](../Page/金智淑_\(藝人\).md "wikilink")（Feat.Outsider）                                             |
-| 2014年1月27日 | My Hero\[72\]      | [JTBC](../Page/JTBC.md "wikilink") 月火劇 《**[我們能相愛嗎](../Page/我們能相愛嗎.md "wikilink")**》OST           | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                            |
-| 2014年6月20日 | 어쩌면 난(Maybe I)     | [OCN](../Page/OCN.md "wikilink") 《[**神的測驗4**](../Page/神的測驗.md "wikilink")》OST                    | [栽經](../Page/金栽經.md "wikilink")                                                                   |
-| 2014年10月2日 | 사랑해요 (I Love You)  | [KBS](../Page/KBS.md "wikilink") 水木劇 《[**鋼鐵人**](../Page/鋼鐵人_\(電視劇\).md "wikilink")》OST           | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](../Page/趙賢榮.md "wikilink")                            |
+|            |                    |                                                                                                                                       |                                                                                                                      |
+| ---------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 發佈日期       | 歌曲名稱               | 專輯名稱                                                                                                                                  | 參與成員                                                                                                                 |
+| 2010年5月12日 | 사랑해, 좋아해（我愛你, 喜歡你） | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 月火劇《[國家的呼喚](../Page/國家的呼喚.md "wikilink")》OST                                      | [栽經](../Page/金栽經.md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                                   |
+| 2011年2月11日 | 슬퍼도 로맨틱（悲傷也浪漫）     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 週末劇《**[一閃一閃亮晶晶](../Page/一閃一閃亮晶晶_\(韓國電視劇\).md "wikilink")**》OST                    | 全體                                                                                                                   |
+| 2011年7月6日  | 그대와 난（你和我）         | [SBS](../Page/SBS_\(韓國\).md "wikilink") 水木劇《[**城市獵人**](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》OST                                      |                                                                                                                      |
+| 2011年7月22日 | 갈팡질팡（猶豫不決）         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 週末劇《[愛情萬萬歲](../Page/愛情萬萬歲_\(韓國電視劇\).md "wikilink")》OST                            | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")、[Kara](../Page/Kara.md "wikilink")[奎利](../Page/朴奎利.md "wikilink") |
+| 2012年6月19日 | 우리 사랑할까요（我們相愛嗎？）   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 月火劇《[我愛李泰利](https://zh.wikipedia.org/wiki/戀愛魔法鐘 "wikilink")》OST                   | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、Super Star K3 的[閔勛基](https://zh.wikipedia.org/wiki/閔勛基 "wikilink")            |
+| 2012年9月27日 | 달콤해（Sweet）         | [TV Tokyo](https://zh.wikipedia.org/wiki/TV_Tokyo "wikilink") 電視劇《[戀愛滿屋之彩虹玫瑰](https://zh.wikipedia.org/wiki/戀愛滿屋之彩虹玫瑰 "wikilink")》OST | 全體                                                                                                                   |
+| 2013年11月6日 | Secret Love        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 水木劇 《[**秘密**](../Page/秘密_\(2013年電視劇\).md "wikilink")》OST                          | [智淑](../Page/金智淑_\(藝人\).md "wikilink")（Feat.Outsider）                                                                |
+| 2014年1月27日 | My Hero\[72\]      | [JTBC](../Page/JTBC.md "wikilink") 月火劇 《**[我們能相愛嗎](https://zh.wikipedia.org/wiki/我們能相愛嗎 "wikilink")**》OST                             | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                                               |
+| 2014年6月20日 | 어쩌면 난(Maybe I)     | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 《[**神的測驗4**](../Page/神的測驗.md "wikilink")》OST                                      | [栽經](../Page/金栽經.md "wikilink")                                                                                      |
+| 2014年10月2日 | 사랑해요 (I Love You)  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 水木劇 《[**鋼鐵人**](https://zh.wikipedia.org/wiki/鋼鐵人_\(電視劇\) "wikilink")》OST          | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                            |
 
 ### 其他歌曲
 
-  - 2011年 [The One](../Page/郑淳元.md "wikilink") 大碟《[Walk To
-    Paradise](../Page/Walk_To_Paradise.md "wikilink")》
+  - 2011年 [The One](https://zh.wikipedia.org/wiki/郑淳元 "wikilink")
+    大碟《[Walk To
+    Paradise](https://zh.wikipedia.org/wiki/Walk_To_Paradise "wikilink")》
       - 2011年1月20日發行
-      - 「Do it for you」，Rap﹕[佑麗](../Page/高佑麗.md "wikilink")
+      - 「Do it for
+        you」，Rap﹕[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")
   - 2011年 [SBS](../Page/SBS_\(韓國\).md "wikilink")
     動畫片《[糖果精靈(Zoobles)](../Page/糖果精靈.md "wikilink")》
       - 2011年5月18日發行
@@ -405,28 +407,33 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
         第8話），演唱者 - **Rainbow**
       - **片頭曲**「CANDY GIRLS\!」(EP9-)，演唱者：Rainbow
       - **片尾曲**「Zoobies의 모험（Zoobles的冒險）」，演唱者：Rainbow
-  - 2011年 [裴勇俊旅行隨筆](../Page/裴勇俊.md "wikilink")《尋找韓國之美的旅行》\[76\]
+  - 2011年
+    [裴勇俊旅行隨筆](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")《尋找韓國之美的旅行》\[76\]
       - OST﹕「Holic」\[77\]
-  - 2014年 網路電視劇《[吸血鬼之花](../Page/吸血鬼之花.md "wikilink")》
+  - 2014年 網路電視劇《[吸血鬼之花](https://zh.wikipedia.org/wiki/吸血鬼之花 "wikilink")》
       - 2014年7月10日發行
       - 「나를 너에게 줄게(I Give Myself To
-        You)」\[78\]，演唱者：[賢榮](../Page/趙賢榮.md "wikilink")
+        You)」\[78\]，演唱者：[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")
   - 2014年 音樂劇「菊花香(국화꽃향기)」
       - 「오리온 자리(獵戶座)」，演唱者：[智淑](../Page/金智淑_\(藝人\).md "wikilink")
-  - 2014年[Crazy Kam Sung單曲](../Page/Crazy_Kam_Sung.md "wikilink")
+  - 2014年[Crazy Kam
+    Sung單曲](https://zh.wikipedia.org/wiki/Crazy_Kam_Sung "wikilink")
       - 2014年11月28日公開
-      - 「배치기(馬卡龍)」，合唱者：[栽經](../Page/金栽經.md "wikilink")、[林韓星](../Page/Monday_Kiz.md "wikilink")、[Baechigi](../Page/Baechigi.md "wikilink")
+      - 「배치기(馬卡龍)」，合唱者：[栽經](../Page/金栽經.md "wikilink")、[林韓星](../Page/Monday_Kiz.md "wikilink")、[Baechigi](https://zh.wikipedia.org/wiki/Baechigi "wikilink")
   - 2014年DSP家族專輯「White Letter」
       - 2014年12月15日發行
       - 「White」(與DSP旗下歌手合唱)、「One More Time」(全體)
   - 2014年 合唱單曲
       - 2014年12月29日發行
-      - 「오빠야(Honey) 」\[79\]，合唱者：[賢榮](../Page/趙賢榮.md "wikilink")、 [Sool
-        J](../Page/Sool_J.md "wikilink")
+      - 「오빠야(Honey)
+        」\[79\]，合唱者：[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")、
+        [Sool J](https://zh.wikipedia.org/wiki/Sool_J "wikilink")
   - 2015年 合唱單曲
       - 2015年5月7日發行
-      - 「사랑꽃(Love Flower)」，合唱者：[賢榮](../Page/趙賢榮.md "wikilink")、 [Sool
-        J](../Page/Sool_J.md "wikilink")、Feat﹕[佑麗](../Page/高佑麗.md "wikilink")
+      - 「사랑꽃(Love
+        Flower)」，合唱者：[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")、
+        [Sool
+        J](https://zh.wikipedia.org/wiki/Sool_J "wikilink")、Feat﹕[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")
 
 ## 音樂錄影帶(MV)
 
@@ -445,45 +452,46 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ### 電視劇
 
-|       |                                                              |                                                               |                                 |                 |             |                                |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------- | --------------- | ----------- | ------------------------------ |
-| 年份    | 電視台                                                          | 劇名                                                            | 參演成員                            | 角色              | 性質          | 集數                             |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | [大物](../Page/大物.md "wikilink")                                | 全員                              |                 | 客串          | EP5                            |
-| 2012年 | [KBS](../Page/韓國放送公社.md "wikilink")                          | [需要仙女](../Page/需要仙女.md "wikilink")                            | [佑麗](../Page/高佑麗.md "wikilink") | 高麗亞             | 配角          | E29、E32、E33、E36、E39、E43、E45-52 |
-| 2012年 | [MBC](../Page/韓國文化廣播公司.md "wikilink")                        | [越空仁醫](../Page/越空仁醫.md "wikilink")                            | [盧乙](../Page/盧乙.md "wikilink")  | 蓮心              | 全集          |                                |
-| 2012年 | [JTBC](../Page/JTBC.md "wikilink")                           | [MONSTER](../Page/MONSTER_\(特別單元劇\).md "wikilink")            | [栽經](../Page/金栽經.md "wikilink") | 羅佑莉             | 主角          |                                |
-| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                          | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")              | 尹郁美                             | 客串              | E69         |                                |
-| 2013年 | [TVN](../Page/TVN.md "wikilink")                             | [實戰戀愛教室](../Page/實戰戀愛教室.md "wikilink")(Play Guide)            | [丞芽](../Page/吳丞芽.md "wikilink") |                 | 配角          | 全集                             |
-| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                          | [愛情和戰爭 2](../Page/愛情和戰爭_2.md "wikilink")                      | [佑麗](../Page/高佑麗.md "wikilink") |                 |             |                                |
-| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                           | [老大](../Page/老大_\(電視劇\).md "wikilink")                        | [允慧](../Page/鄭允惠.md "wikilink") | 金英淑             |             |                                |
-| 2013年 | [KST](../Page/KST.md "wikilink")                             | [請回答1994](../Page/請回答1994.md "wikilink")                      | [栽經](../Page/金栽經.md "wikilink") | 延大「全智賢」         |             |                                |
-| 2013年 | [佑麗](../Page/高佑麗.md "wikilink")                              | 延大「嚴正化」                                                       |                                 |                 |             |                                |
-| 2013年 | [MBC](../Page/MBC.md "wikilink")                             | [閃耀的羅曼史](../Page/閃耀的羅曼史.md "wikilink")                        | 少女「邊泰英」                         |                 |             |                                |
-| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                          | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                | [栽經](../Page/金栽經.md "wikilink") | 梅玲              | E14、E15、E16 |                                |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | [心情好的日子](../Page/心情好的日子.md "wikilink")                        | [佑麗](../Page/高佑麗.md "wikilink") | 鄭多仁             | 全集          |                                |
-| 2014年 | [心情好的日子](../Page/心情好的日子.md "wikilink")                       | [盧乙](../Page/盧乙.md "wikilink")                                | 惠美                              | 客串              |             |                                |
-| 2014年 | OCN                                                          | [神的測驗4](../Page/神的測驗.md "wikilink")                           | [栽經](../Page/金栽經.md "wikilink") | 林泰京             | 主角          | 全集                             |
-| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                          | [愛情和戰爭 2](../Page/愛情和戰爭_2.md "wikilink")                      | [丞芽](../Page/吳丞芽.md "wikilink") |                 | 配角          | E108                           |
-| 2014年 | [MBC](../Page/韓國文化廣播公司.md "wikilink")                        | [來了！張寶利](../Page/來了！張寶利.md "wikilink")                        | 蔡宥羅                             | 客串              | E11、E12、E13 |                                |
-| 2014年 | [宿舍房24號](../Page/宿舍房24號.md "wikilink")                       | [賢榮](../Page/趙賢榮.md "wikilink")                               | 趙賢榮                             | 全集              |             |                                |
-| 2014年 | [Drama Festival-轉捩點](../Page/Drama_Festival.md "wikilink")   | [栽經](../Page/金栽經.md "wikilink")                               | 夢蘭英                             | 主角              |             |                                |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")                    | 電台DJ                            | 客串              | EP16        |                                |
-| 2014年 | [MBC](../Page/MBC.md "wikilink")                             | [Drama_Festival-結他與熱褲](../Page/Drama_Festival.md "wikilink") | [允慧](../Page/鄭允惠.md "wikilink") | Twinkerbell成員曉嫻 | 配角          | 全集                             |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | [皮諾丘 (電視劇)](../Page/皮諾丘_\(電視劇\).md "wikilink")                | [丞芽](../Page/吳丞芽.md "wikilink") | 新進記者的面試生之一      | 客串          | E20                            |
-| 2015年 | [MBC](../Page/韓國文化廣播公司.md "wikilink")                        | [女王之花](../Page/女王之花.md "wikilink")                            | [佑麗](../Page/高佑麗.md "wikilink") | 徐宥拉             | 配角          | 全集                             |
-| 2015年 | [TVN](../Page/TVN.md "wikilink")                             | [沒禮貌的英愛小姐第14季](../Page/沒禮貌的英愛小姐.md "wikilink")                | [賢榮](../Page/趙賢榮.md "wikilink") | 趙賢榮             | 全集          |                                |
-| 2015年 | [MBC](../Page/MBC.md "wikilink")                             | [偉大的糟糠之妻](../Page/偉大的糟糠之妻.md "wikilink")                      | [允慧](../Page/鄭允惠.md "wikilink") | 韓公主             | 配角          | 全集                             |
-| 2015年 | [NAVER](../Page/NAVER.md "wikilink")                         | [高貴的你](../Page/高貴的你.md "wikilink")                            | [栽經](../Page/金栽經.md "wikilink") | 車允序             | 主角          | 全集                             |
-| 2015年 | [TVN](../Page/TVN.md "wikilink")                             | [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                        | 全體                              | 方明秀家中屏風\[88\]   |             |                                |
-| 2016年 | [TVN](../Page/TVN.md "wikilink")                             | [沒禮貌的英愛小姐第15季](../Page/沒禮貌的英愛小姐.md "wikilink")                | [賢榮](../Page/趙賢榮.md "wikilink") | 趙賢榮             | 全集          |                                |
-| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                           | [Madame Antoine](../Page/Madame_Antoine.md "wikilink")        | [栽經](../Page/金栽經.md "wikilink") | 朱妮              | 客串          | 全集                             |
-| 2016年 | [FNC Entertainment](../Page/FNC_Entertainment.md "wikilink") | [88號街](../Page/88號街.md "wikilink")                            | [丞芽](../Page/吳丞芽.md "wikilink") | 素美              | 主角          | 全集                             |
-| 2016年 | [MBC](../Page/MBC.md "wikilink")                             | [重新開始](../Page/重新開始_\(電視劇\).md "wikilink")                    | [佑麗](../Page/高佑麗.md "wikilink") | 李藝羅             | 主角          | 全集                             |
-| 2016年 | [MBC](../Page/MBC.md "wikilink")                             | [好人](../Page/好人_\(電視劇\).md "wikilink")                        | [允慧](../Page/鄭允惠.md "wikilink") |                 | 配角          |                                |
+|       |                                                                                 |                                                                                  |                                                    |                 |             |                                |
+| ----- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------- | --------------- | ----------- | ------------------------------ |
+| 年份    | 電視台                                                                             | 劇名                                                                               | 參演成員                                               | 角色              | 性質          | 集數                             |
+| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [大物](../Page/大物.md "wikilink")                                                   | 全員                                                 |                 | 客串          | EP5                            |
+| 2012年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [需要仙女](../Page/需要仙女.md "wikilink")                                               | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 高麗亞             | 配角          | E29、E32、E33、E36、E39、E43、E45-52 |
+| 2012年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [越空仁醫](https://zh.wikipedia.org/wiki/越空仁醫 "wikilink")                            | [盧乙](../Page/盧乙.md "wikilink")                     | 蓮心              | 全集          |                                |
+| 2012年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [MONSTER](https://zh.wikipedia.org/wiki/MONSTER_\(特別單元劇\) "wikilink")            | [栽經](../Page/金栽經.md "wikilink")                    | 羅佑莉             | 主角          |                                |
+| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [Family](../Page/Family_\(韓國電視劇\).md "wikilink")                                 | 尹郁美                                                | 客串              | E69         |                                |
+| 2013年 | [TVN](../Page/TVN.md "wikilink")                                                | [實戰戀愛教室](https://zh.wikipedia.org/wiki/實戰戀愛教室 "wikilink")(Play Guide)            | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") |                 | 配角          | 全集                             |
+| 2013年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")                      | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") |                 |             |                                |
+| 2013年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [老大](../Page/老大_\(電視劇\).md "wikilink")                                           | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 金英淑             |             |                                |
+| 2013年 | [KST](https://zh.wikipedia.org/wiki/KST "wikilink")                             | [請回答1994](../Page/請回答1994.md "wikilink")                                         | [栽經](../Page/金栽經.md "wikilink")                    | 延大「全智賢」         |             |                                |
+| 2013年 | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")                              | 延大「嚴正化」                                                                          |                                                    |                 |             |                                |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [閃耀的羅曼史](../Page/閃耀的羅曼史.md "wikilink")                                           | 少女「邊泰英」                                            |                 |             |                                |
+| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                                   | [栽經](../Page/金栽經.md "wikilink")                    | 梅玲              | E14、E15、E16 |                                |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                        | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 鄭多仁             | 全集          |                                |
+| 2014年 | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                       | [盧乙](../Page/盧乙.md "wikilink")                                                   | 惠美                                                 | 客串              |             |                                |
+| 2014年 | OCN                                                                             | [神的測驗4](../Page/神的測驗.md "wikilink")                                              | [栽經](../Page/金栽經.md "wikilink")                    | 林泰京             | 主角          | 全集                             |
+| 2014年 | [KBS](../Page/韓國放送公社.md "wikilink")                                             | [愛情和戰爭 2](https://zh.wikipedia.org/wiki/愛情和戰爭_2 "wikilink")                      | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") |                 | 配角          | E108                           |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [來了！張寶利](https://zh.wikipedia.org/wiki/來了！張寶利 "wikilink")                        | 蔡宥羅                                                | 客串              | E11、E12、E13 |                                |
+| 2014年 | [宿舍房24號](https://zh.wikipedia.org/wiki/宿舍房24號 "wikilink")                       | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                               | 趙賢榮                                                | 全集              |             |                                |
+| 2014年 | [Drama Festival-轉捩點](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink")   | [栽經](../Page/金栽經.md "wikilink")                                                  | 夢蘭英                                                | 主角              |             |                                |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")                    | 電台DJ                                               | 客串              | EP16        |                                |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [Drama_Festival-結他與熱褲](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink") | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | Twinkerbell成員曉嫻 | 配角          | 全集                             |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                         | [皮諾丘 (電視劇)](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")                | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") | 新進記者的面試生之一      | 客串          | E20                            |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")                        | [女王之花](../Page/女王之花.md "wikilink")                                               | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 徐宥拉             | 配角          | 全集                             |
+| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第14季](../Page/沒禮貌的英愛小姐.md "wikilink")                                   | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [偉大的糟糠之妻](../Page/偉大的糟糠之妻.md "wikilink")                                         | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 韓公主             | 配角          | 全集                             |
+| 2015年 | [NAVER](../Page/NAVER.md "wikilink")                                            | [高貴的你](../Page/高貴的你.md "wikilink")                                               | [栽經](../Page/金栽經.md "wikilink")                    | 車允序             | 主角          | 全集                             |
+| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                                           | 全體                                                 | 方明秀家中屏風\[88\]   |             |                                |
+| 2016年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第15季](../Page/沒禮貌的英愛小姐.md "wikilink")                                   | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
+| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink")        | [栽經](../Page/金栽經.md "wikilink")                    | 朱妮              | 客串          | 全集                             |
+| 2016年 | [FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink") | [88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")                            | [丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink") | 素美              | 主角          | 全集                             |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [重新開始](../Page/重新開始_\(電視劇\).md "wikilink")                                       | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink") | 李藝羅             | 主角          | 全集                             |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [好人](../Page/好人_\(電視劇\).md "wikilink")                                           | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") |                 | 配角          |                                |
 
 ### 電影
 
-  - 2011年 [Heartbeat](../Page/Heartbeat_\(韓國電影\).md "wikilink")
+  - 2011年
+    [Heartbeat](https://zh.wikipedia.org/wiki/Heartbeat_\(韓國電影\) "wikilink")
 
 ### 簽名會
 
@@ -521,58 +529,67 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ### 遊戲聯動
 
-  - 2012年10月 日本桌面遊戲[世界之樹](../Page/Yggdrasil.md "wikilink")\[89\]
+  - 2012年10月
+    日本桌面遊戲[世界之樹](https://zh.wikipedia.org/wiki/Yggdrasil "wikilink")\[89\]
   - 2014年12月 韓國手機遊戲
-    [偶像夢想﹕女孩](../Page/Idol_Dream:Girls.md "wikilink")(아이돌드림:걸즈)
-  - 2015年5月 台灣桌面遊戲[Mstar](../Page/Mstar.md "wikilink")\[90\]
+    [偶像夢想﹕女孩](https://zh.wikipedia.org/wiki/Idol_Dream:Girls "wikilink")(아이돌드림:걸즈)
+  - 2015年5月
+    台灣桌面遊戲[Mstar](https://zh.wikipedia.org/wiki/Mstar "wikilink")\[90\]
 
 ### 雜誌
 
   - 2010年1月 “ALLURE”冬季服飾平面拍攝
   - 2010年3月 “VOGUE”雜誌拍攝
   - 2010年4月
-    “Mickey”服飾平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](../Page/高佑麗.md "wikilink")）
+    “Mickey”服飾平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
   - 2010年10月 “CK”服飾拍攝（[栽經](../Page/金栽經.md "wikilink") +
-    [MBLAQ](../Page/MBLAQ.md "wikilink")）\[91\]
+    [MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")）\[91\]
   - 2011年12月 “SURE”雜誌平面拍攝\[92\]
-  - 2014年3月 “MAXIM KOREA”雜誌平面拍攝（[賢榮](../Page/趙賢榮.md "wikilink")）
+  - 2014年3月 “MAXIM
+    KOREA”雜誌平面拍攝（[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")）
   - 2014年3月 “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年4月 “THE STAR”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年4月 “Tenasia”雜誌平面拍攝（[智淑](../Page/金智淑_\(藝人\).md "wikilink")）
   - 2014年4月 “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年5月 “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年6月
-    “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](../Page/高佑麗.md "wikilink")）
-  - 2014年7月 “Mtalk”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
+    “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
+  - 2014年7月
+    “Mtalk”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
   - 2014年7月 “The Big
-    Issue”雜誌平面拍攝（[盧乙](../Page/盧乙.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](../Page/趙賢榮.md "wikilink")）
+    Issue”雜誌平面拍攝（[盧乙](../Page/盧乙.md "wikilink")、[智淑](../Page/金智淑_\(藝人\).md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")）
   - 2014年7月 “大學明天”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
   - 2014年8月 “JILLSTUART”服飾平面拍攝 ([栽經](../Page/金栽經.md "wikilink"))
-  - 2014年10月 “THE STAR”雜誌平面拍攝（[佑麗](../Page/高佑麗.md "wikilink")）
+  - 2014年10月 “THE
+    STAR”雜誌平面拍攝（[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
   - 2014年10月 “10+Star”服飾平面拍攝 ([栽經](../Page/金栽經.md "wikilink"))
-  - 2014年11月 “bnt News”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
+  - 2014年11月 “bnt
+    News”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
   - 2014年11月 “star1”服飾平面拍攝 ([栽經](../Page/金栽經.md "wikilink"))
-  - 2015年1月 “MAXIM KOREA”雜誌平面拍攝（[丞芽](../Page/吳丞芽.md "wikilink")）
+  - 2015年1月 “MAXIM
+    KOREA”雜誌平面拍攝（[丞芽](https://zh.wikipedia.org/wiki/吳丞芽 "wikilink")）
   - 2015年2月 “bnt News”雜誌平面拍攝（[盧乙](../Page/盧乙.md "wikilink")）
   - 2015年2月 “PHOTO+”雜誌平面拍攝（[智淑](../Page/金智淑_\(藝人\).md "wikilink")）
   - 2015年3月 “THE STAR”雜誌平面拍攝
-  - 2015年3月 “SURE”雜誌平面拍攝（[允惠](../Page/鄭允惠.md "wikilink")）
-  - 2015年3月 “CeCi”雜誌平面拍攝（[佑麗](../Page/高佑麗.md "wikilink")）
+  - 2015年3月
+    “SURE”雜誌平面拍攝（[允惠](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink")）
+  - 2015年3月
+    “CeCi”雜誌平面拍攝（[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
   - 2015年5月 「 Good Game Show 2015」遊戲展代言(全體)
 
 ### 固定節目
 
-|                       |            |                   |                                                                         |
-| --------------------- | ---------- | ----------------- | ----------------------------------------------------------------------- |
-| 日期                    | 頻道         | 節目名稱              | 參演成員                                                                    |
-| 2010年11月27日至2011年5月7日 | KBS        | 百分滿分 EP.1-EP.11   | [栽經](../Page/金栽經.md "wikilink")                                         |
-| 2011年11月12日至2012年4月7日 | KBS        | 青春不敗              | [佑麗](../Page/高佑麗.md "wikilink")                                         |
-| 2013年11月9日至今          | KBS        | 演藝家中介             | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                  |
-| 2014年3月1日至12月31日      | On Style   | Get it beauty     | [栽經](../Page/金栽經.md "wikilink")                                         |
-| 2014年4月8日至7月1日        | XTM        | HOMME 6.0         | [賢榮](../Page/趙賢榮.md "wikilink")                                         |
-| 2014年7月30日至10月8日      | KBS        | 早間廣場              | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                  |
-| 2014年11月17日至12月29日    | MBC Every1 | 最高的拉面             |                                                                         |
-| 2014年12月26日至今         | InsiteTV   | Girl's Wiki\[93\] | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、 [賢榮](../Page/趙賢榮.md "wikilink") |
+|                       |            |                   |                                                                                            |
+| --------------------- | ---------- | ----------------- | ------------------------------------------------------------------------------------------ |
+| 日期                    | 頻道         | 節目名稱              | 參演成員                                                                                       |
+| 2010年11月27日至2011年5月7日 | KBS        | 百分滿分 EP.1-EP.11   | [栽經](../Page/金栽經.md "wikilink")                                                            |
+| 2011年11月12日至2012年4月7日 | KBS        | 青春不敗              | [佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")                                         |
+| 2013年11月9日至今          | KBS        | 演藝家中介             | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                     |
+| 2014年3月1日至12月31日      | On Style   | Get it beauty     | [栽經](../Page/金栽經.md "wikilink")                                                            |
+| 2014年4月8日至7月1日        | XTM        | HOMME 6.0         | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                                         |
+| 2014年7月30日至10月8日      | KBS        | 早間廣場              | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                     |
+| 2014年11月17日至12月29日    | MBC Every1 | 最高的拉面             |                                                                                            |
+| 2014年12月26日至今         | InsiteTV   | Girl's Wiki\[93\] | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、 [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") |
 
 ### 綜藝節目
 
@@ -672,34 +689,34 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 | 10月16日        | MBC  | Every1 Weekly Idol周刊偶像 |          |
 | 11月12日-12月17日 | KBS  | 青春不敗                   | 佑麗       |
 
-|               |      |                                                                  |          |
-| ------------- | ---- | ---------------------------------------------------------------- | -------- |
-| 日期            | 電視台  | 節目名稱                                                             | 成員       |
-| 1月7日-4月7日     | KBS  | 青春不敗                                                             | 佑麗       |
-| 4月22日         | KBS  | 出發夢之隊2                                                           |          |
-| 5月6日、13日      | KBS  | 出發夢之隊2                                                           | 佑麗、盧乙    |
-| 5月18日         | SBS  | 百万問答秀                                                            | 栽經       |
-| 5月21日         | KBS2 | 逃出危機 No.1                                                        | 栽經、智淑    |
-| 6月3日          | SBS  | 挑戰千曲                                                             | 盧乙、允惠、智淑 |
-| 7月8日          | SBS  | 挑戰千曲                                                             | 佑麗       |
-| 7月14日         | SBS  | Star King                                                        | 栽經、丞芽、智淑 |
-| 7月22日         | SBS  | You & I                                                          | 全體       |
-| 8月19日         | MBC  | 我們的星期天晚上{勝負之神}                                                   | 栽經       |
-| 8月26日、9月2日    | KBS  | 出發夢之隊2                                                           |          |
-| 9月2日-9月30日    | MBC  | 我們的星期天晚上{勝負之神}                                                   |          |
-| 9月28日、10月5日   | SBS  | GO Show                                                          | 佑麗       |
-| 10月1日         | SBS  | 中秋特輯 叢林的法則W                                                      |          |
-| 10月1日         | KBS  | 中秋特輯 天下壯士 偶像摔跤大賽                                                 | 全體       |
-| 10月1日         | KBS  | 中秋特輯 Miss & Mr idol選拔大會                                          | 栽經、佑麗、賢榮 |
-| 10月15日        | Mnet | Beatles Code 2                                                   | 全體       |
-| 10月21日        | KBS  | 出發夢之隊2                                                           |          |
-| 10月27日        | SBS  | Star King                                                        | 栽經、智淑    |
-| 11月9日         | SBS  | MTV 超級模特選拔大賽                                                     | 栽經       |
-| 11月11日-12月30日 | tvN  | [The Romantic & Idol](../Page/The_Romantic_&_Idol.md "wikilink") | 丞芽       |
-| 11月13日-12月11日 | SBS  | 强心臟                                                              | 智淑       |
-| 11月23日-12月21日 | SBS  | 叢林的法則W                                                           | 栽經       |
-| 12月7日         | SBS  | Go Show                                                          |          |
-| 12月9日         | SBS  | 挑戰千曲                                                             | 栽經、佑麗、智淑 |
+|               |      |                                                                                     |          |
+| ------------- | ---- | ----------------------------------------------------------------------------------- | -------- |
+| 日期            | 電視台  | 節目名稱                                                                                | 成員       |
+| 1月7日-4月7日     | KBS  | 青春不敗                                                                                | 佑麗       |
+| 4月22日         | KBS  | 出發夢之隊2                                                                              |          |
+| 5月6日、13日      | KBS  | 出發夢之隊2                                                                              | 佑麗、盧乙    |
+| 5月18日         | SBS  | 百万問答秀                                                                               | 栽經       |
+| 5月21日         | KBS2 | 逃出危機 No.1                                                                           | 栽經、智淑    |
+| 6月3日          | SBS  | 挑戰千曲                                                                                | 盧乙、允惠、智淑 |
+| 7月8日          | SBS  | 挑戰千曲                                                                                | 佑麗       |
+| 7月14日         | SBS  | Star King                                                                           | 栽經、丞芽、智淑 |
+| 7月22日         | SBS  | You & I                                                                             | 全體       |
+| 8月19日         | MBC  | 我們的星期天晚上{勝負之神}                                                                      | 栽經       |
+| 8月26日、9月2日    | KBS  | 出發夢之隊2                                                                              |          |
+| 9月2日-9月30日    | MBC  | 我們的星期天晚上{勝負之神}                                                                      |          |
+| 9月28日、10月5日   | SBS  | GO Show                                                                             | 佑麗       |
+| 10月1日         | SBS  | 中秋特輯 叢林的法則W                                                                         |          |
+| 10月1日         | KBS  | 中秋特輯 天下壯士 偶像摔跤大賽                                                                    | 全體       |
+| 10月1日         | KBS  | 中秋特輯 Miss & Mr idol選拔大會                                                             | 栽經、佑麗、賢榮 |
+| 10月15日        | Mnet | Beatles Code 2                                                                      | 全體       |
+| 10月21日        | KBS  | 出發夢之隊2                                                                              |          |
+| 10月27日        | SBS  | Star King                                                                           | 栽經、智淑    |
+| 11月9日         | SBS  | MTV 超級模特選拔大賽                                                                        | 栽經       |
+| 11月11日-12月30日 | tvN  | [The Romantic & Idol](https://zh.wikipedia.org/wiki/The_Romantic_&_Idol "wikilink") | 丞芽       |
+| 11月13日-12月11日 | SBS  | 强心臟                                                                                 | 智淑       |
+| 11月23日-12月21日 | SBS  | 叢林的法則W                                                                              | 栽經       |
+| 12月7日         | SBS  | Go Show                                                                             |          |
+| 12月9日         | SBS  | 挑戰千曲                                                                                | 栽經、佑麗、智淑 |
 
 |            |                        |                           |             |
 | ---------- | ---------------------- | ------------------------- | ----------- |
@@ -1235,58 +1252,58 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ## 音樂現場
 
-|                                                 |                                         |                            |
-| ----------------------------------------------- | --------------------------------------- | -------------------------- |
-| 名稱                                              | 頻道                                      | 日期                         |
-| Gossip Girl                                     |                                         |                            |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink") | [MBC](../Page/MBC.md "wikilink")        | 11月14日、12月12日              |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")              | [KBS](../Page/KBS.md "wikilink")        | 11月27日、12月4日、12月11日、12月18日 |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")              | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 11月15日、12月6日               |
-| [The M](../Page/The_M.md "wikilink")            | [MTV](../Page/MTV.md "wikilink")        | 11月22日、11月29日              |
+|                                                                    |                                                     |                            |
+| ------------------------------------------------------------------ | --------------------------------------------------- | -------------------------- |
+| 名稱                                                                 | 頻道                                                  | 日期                         |
+| Gossip Girl                                                        |                                                     |                            |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 11月14日、12月12日              |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")              | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 11月27日、12月4日、12月11日、12月18日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")              | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 11月15日、12月6日               |
+| [The M](https://zh.wikipedia.org/wiki/The_M "wikilink")            | [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") | 11月22日、11月29日              |
 
-|                                                              |                                         |                                |
-| ------------------------------------------------------------ | --------------------------------------- | ------------------------------ |
-| 名稱                                                           | 頻道                                      | 日期                             |
-| Gossip Girl                                                  |                                         |                                |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                           | [KBS](../Page/KBS.md "wikilink")        | 1月1日                           |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")              | [MBC](../Page/MBC.md "wikilink")        | 1月2日                           |
-| Not Your Girl                                                |                                         |                                |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                           | [KBS](../Page/KBS.md "wikilink")        | 1月15日、1月22日、1月29日、2月5日         |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")              | [MBC](../Page/MBC.md "wikilink")        | 1月16日、1月23日、1月30日、2月6日         |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 1月17日、1月24日、1月31日、2月7日         |
-| A                                                            |                                         |                                |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")          | [Mnet](../Page/Mnet.md "wikilink")      | 8月19日、9月16日、11月11日             |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                           | [KBS](../Page/KBS.md "wikilink")        | 8月13日、8月20日、8月27日、9月3日、11月12日  |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")              | [MBC](../Page/MBC.md "wikilink")        | 8月14日、8月21日、8月28日、9月18日、11月13日 |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 8月15日、8月22日、9月12日              |
-| [Music Show Newton](../Page/Music_Show_Newton.md "wikilink") | [tvN](../Page/tvN.md "wikilink")        | 8月30日                          |
-| Mach                                                         |                                         |                                |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink")          | [Mnet](../Page/Mnet.md "wikilink")      | 10月21日、10月28日、11月11日           |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                           | [KBS](../Page/KBS.md "wikilink")        | 10月22日、10月29日、11月5日、11月12日     |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")              | [MBC](../Page/MBC.md "wikilink")        | 10月23日、11月6日、11月13日            |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 10月24日、10月31日、11月7日            |
+|                                                                                 |                                                       |                                |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------ |
+| 名稱                                                                              | 頻道                                                    | 日期                             |
+| Gossip Girl                                                                     |                                                       |                                |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 1月1日                           |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 1月2日                           |
+| Not Your Girl                                                                   |                                                       |                                |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 1月15日、1月22日、1月29日、2月5日         |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 1月16日、1月23日、1月30日、2月6日         |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 1月17日、1月24日、1月31日、2月7日         |
+| A                                                                               |                                                       |                                |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 8月19日、9月16日、11月11日             |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 8月13日、8月20日、8月27日、9月3日、11月12日  |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 8月14日、8月21日、8月28日、9月18日、11月13日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 8月15日、8月22日、9月12日              |
+| [Music Show Newton](https://zh.wikipedia.org/wiki/Music_Show_Newton "wikilink") | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | 8月30日                          |
+| Mach                                                                            |                                                       |                                |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 10月21日、10月28日、11月11日           |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 10月22日、10月29日、11月5日、11月12日     |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 10月23日、11月6日、11月13日            |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                           | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 10月24日、10月31日、11月7日            |
 
-|                                                     |                                         |                              |
-| --------------------------------------------------- | --------------------------------------- | ---------------------------- |
-| 名稱                                                  | 頻道                                      | 日期                           |
-| To Me                                               |                                         |                              |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink") | [Mnet](../Page/Mnet.md "wikilink")      | 4月14日、4月21日、5月5日、5月12日       |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                  | [KBS](../Page/KBS.md "wikilink")        | 4月8日、4月15日、4月22日、4月29日、5月6日  |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")     | [MBC](../Page/MBC.md "wikilink")        | 4月16日、4月23日、4月30日、5月7日、5月14日 |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 4月10日、4月17日、5月1日、5月8日、5月15日  |
-| Sweet Dream                                         |                                         |                              |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink") | [Mnet](../Page/Mnet.md "wikilink")      | 6月23日                        |
-| [音樂銀行](../Page/音樂銀行.md "wikilink")                  | [KBS](../Page/KBS.md "wikilink")        | 7月1日                         |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")     | [MBC](../Page/MBC.md "wikilink")        | 6月25日、7月2日、7月9日              |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 6月26日、7月10日                  |
+|                                                                        |                                                       |                              |
+| ---------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------- |
+| 名稱                                                                     | 頻道                                                    | 日期                           |
+| To Me                                                                  |                                                       |                              |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 4月14日、4月21日、5月5日、5月12日       |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 4月8日、4月15日、4月22日、4月29日、5月6日  |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 4月16日、4月23日、4月30日、5月7日、5月14日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 4月10日、4月17日、5月1日、5月8日、5月15日  |
+| Sweet Dream                                                            |                                                       |                              |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 6月23日                        |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 7月1日                         |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 6月25日、7月2日、7月9日              |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 6月26日、7月10日                  |
 
-|                                                     |                                         |                         |
-| --------------------------------------------------- | --------------------------------------- | ----------------------- |
-| 名稱                                                  | 頻道                                      | 日期                      |
-| Hoi Hoi(子團)                                         |                                         |                         |
-| [M\! Countdown](../Page/M!_Countdown.md "wikilink") | [Mnet](../Page/Mnet.md "wikilink")      | 1月19日、1月26日、2月2日        |
-| [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")     | [MBC](../Page/MBC.md "wikilink")        | 1月14日、1月21日、1月28日、2月11日 |
-| [人氣歌謠](../Page/人氣歌謠.md "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 1月15日、1月22日、1月29日       |
+|                                                                        |                                                       |                         |
+| ---------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------- |
+| 名稱                                                                     | 頻道                                                    | 日期                      |
+| Hoi Hoi(子團)                                                            |                                                       |                         |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 1月19日、1月26日、2月2日        |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 1月14日、1月21日、1月28日、2月11日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 1月15日、1月22日、1月29日       |
 
 <table>
 <tbody>
@@ -1301,33 +1318,33 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>2月14日、2月21日、2月28日、3月7日、3月14日、3月28日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>2月15日、2月22日、3月1日、3月8日、3月15日、3月22日、3月29日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2月16日、2月23日、3月2日、3月9日、3月16日、4月6日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>2月17日、2月24日、3月3日、3月10日、3月17日、3月31日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Music_Triangle.md" title="wikilink">Music Triangle</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Triangle" title="wikilink">Music Triangle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>2月20日、3月6日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2月27日、3月6日、3月13日、3月20日</p></td>
 </tr>
 <tr class="odd">
@@ -1336,22 +1353,22 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>6月13日、6月20日、6月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>6月7日、6月14日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>6月8日、6月15日、6月22日、6月29日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>6月9日、6月16日、6月23日、6月30日</p></td>
 </tr>
@@ -1381,22 +1398,22 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>1月21日、1月28日、2月4日、2月11日、12月30日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>7月10日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>1月24日、2月7日、2月14日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>1月25日、2月1日、2月8日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>1月26日、2月2日、2月9日、2月16日</p></td>
 </tr>
@@ -1421,22 +1438,22 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>2月26日、3月5日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>2月27日、3月6日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2月28日、3月7日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>3月1日、3月8日</p></td>
 </tr>
@@ -1476,22 +1493,22 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>2月17日、2月24日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>2月18日、2月25日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>2月19日、2月26日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>2月20日、2月27日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>2月21日、2月28日</p></td>
 </tr>
@@ -1678,13 +1695,13 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>2009年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Gossip_Girl.md" title="wikilink">Gossip Girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gossip_Girl" title="wikilink">Gossip Girl</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Gossip_Girl.md" title="wikilink">Gossip Girl</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gossip_Girl" title="wikilink">Gossip Girl</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/A.md" title="wikilink">A</a></p></td>
@@ -1714,13 +1731,13 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 <td><p>2015年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/INNOCENT.md" title="wikilink">INNOCENT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INNOCENT" title="wikilink">INNOCENT</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/PRISM.md" title="wikilink">PRISM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PRISM" title="wikilink">PRISM</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -1769,10 +1786,10 @@ Media宣布Rainbow於](../Page/DSP_Media.md "wikilink")11月12日合約期滿後
 
 ### 音樂節目獎項
 
-|       |        |                                  |                                                |                 |          |
-| ----- | ------ | -------------------------------- | ---------------------------------------------- | --------------- | -------- |
-| 年份    | 日期     | 電視台                              | 節目名稱                                           | 獲獎歌曲            | 排名       |
-| 2013年 | 12月26日 | [KBS](../Page/KBS.md "wikilink") | [Music Bank](../Page/Music_Bank.md "wikilink") | Tell Me Tell me | 年終結算:40位 |
+|       |        |                                                     |                                                                   |                 |          |
+| ----- | ------ | --------------------------------------------------- | ----------------------------------------------------------------- | --------------- | -------- |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                              | 獲獎歌曲            | 排名       |
+| 2013年 | 12月26日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") | Tell Me Tell me | 年終結算:40位 |
 
 ### 偶像運動會獎項
 

@@ -1,32 +1,33 @@
-**stereopony**（）是[日本的](../Page/日本.md "wikilink")[搖滾樂團](../Page/搖滾樂團.md "wikilink")，原屬於[gr8\!records](../Page/gr8!records.md "wikilink")，後屬於[Sony
-Records](../Page/Sony_Records.md "wikilink")。在日本簡稱為「」或「」。現已被解散。
+**stereopony**（）是[日本的](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，原屬於[gr8\!records](https://zh.wikipedia.org/wiki/gr8!records "wikilink")，後屬於[Sony
+Records](https://zh.wikipedia.org/wiki/Sony_Records "wikilink")。在日本簡稱為「」或「」。現已被解散。
 
 ## 成員
 
   - AIMI（1990年9月4日）[歌手](../Page/歌手.md "wikilink")、[吉他](../Page/吉他.md "wikilink")
     [沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市出身](../Page/那霸市.md "wikilink")，血型A型，身高148公分。
     有[低血壓](../Page/低血壓.md "wikilink")。
-  - NOHANA（1989年9月16日）[貝斯](../Page/貝斯.md "wikilink")
-    [長崎縣](../Page/長崎縣.md "wikilink")[島原市出身](../Page/島原市.md "wikilink")。血型A型，身高158公分。
+  - NOHANA（1989年9月16日）[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
+    [長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[島原市出身](../Page/島原市.md "wikilink")。血型A型，身高158公分。
     三人中最年長的成員。
   - SHIHO（1990年10月18日）[爵士鼓](../Page/爵士鼓.md "wikilink")
     [沖繩縣](../Page/沖繩縣.md "wikilink")[名護市出身](../Page/名護市.md "wikilink")。血型A型。身高158cm。
-    曾經擔任[YUI專輯](../Page/YUI_\(藝人\).md "wikilink")《again》中的[鼓手](../Page/鼓手.md "wikilink")。
+    曾經擔任[YUI專輯](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")《again》中的[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。
 
 ## 媒體演出
 
 ### 電視
 
   - [Music
-    Station](../Page/Music_Station.md "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")：2009年2月20日、5月1日）
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")（[朝日電視台](../Page/朝日電視台.md "wikilink")：2009年2月20日、5月1日）
   - [COUNT DOWN
-    TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS電視](../Page/TBS電視.md "wikilink")：2009年2月21日）
+    TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")：2009年2月21日）
   - [MEZAMASHI
-    TV](../Page/MEZAMASHI_TV.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")：2009年3月17日）
+    TV](https://zh.wikipedia.org/wiki/MEZAMASHI_TV "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")：2009年3月17日）
   - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](../Page/NHK.md "wikilink")：2009年4月19日）
-  - [スペチャ！](../Page/スペチャ！.md "wikilink")（[Space Shower
-    TV](../Page/Space_Shower_TV.md "wikilink")：2009年4月25日）
+    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")：2009年4月19日）
+  - [スペチャ！](https://zh.wikipedia.org/wiki/スペチャ！ "wikilink")（[Space
+    Shower
+    TV](https://zh.wikipedia.org/wiki/Space_Shower_TV "wikilink")：2009年4月25日）
 
 ## 唱片
 
@@ -38,7 +39,7 @@ Records](../Page/Sony_Records.md "wikilink")。在日本簡稱為「」或「」
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 <th><p>價格（含稅）</p></th>
 </tr>
 </thead>
@@ -56,7 +57,7 @@ Records](../Page/Sony_Records.md "wikilink")。在日本簡稱為「」或「」
 <td><p>泪のムコウ</p></td>
 <td><p>12cmCD</p></td>
 <td><p>SRCL-6946（通常盤）<br />
-SRCL-6947（<a href="../Page/機動戰士鋼彈00.md" title="wikilink">機動戰士鋼彈00盤</a>）</p></td>
+SRCL-6947（<a href="https://zh.wikipedia.org/wiki/機動戰士鋼彈00" title="wikilink">機動戰士鋼彈00盤</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -81,10 +82,10 @@ SRCL-7090（通常盤）</p></td>
 <td><p>2009年11月4日</p></td>
 <td><p>ツキアカリのミチシルベ</p></td>
 <td><p>CD+DVD（初回生産限定盤）<br />
-12cmCD（通常盤、<a href="../Page/黑之契約者.md" title="wikilink">黑之契約者盤</a>/期間生産限定盤）</p></td>
+12cmCD（通常盤、<a href="https://zh.wikipedia.org/wiki/黑之契約者" title="wikilink">黑之契約者盤</a>/期間生産限定盤）</p></td>
 <td><p>SRCL-7145～SRCL-7146（初回生産限定盤）<br />
 SRCL-7147（通常盤）<br />
-SRCL-7148（<a href="../Page/黑之契約者.md" title="wikilink">黑之契約者盤</a>/期間生産限定盤）</p></td>
+SRCL-7148（<a href="https://zh.wikipedia.org/wiki/黑之契約者" title="wikilink">黑之契約者盤</a>/期間生産限定盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -145,7 +146,7 @@ SRCL-7768（通常盤）</p></td>
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 <th><p>價格（含稅）</p></th>
 </tr>
 </thead>
@@ -180,9 +181,9 @@ SRCL-7279（通常盤）</p></td>
 
 ### DVD
 
-| \!發行日 | 標題          | 規格                               | [編號](../Page/規格編號.md "wikilink") | 價格（含稅）    |
-| ----- | ----------- | -------------------------------- | -------------------------------- | --------- |
-| 1st   | 2009年12月16日 | 1st Tour A hydrangea blooms 2009 | DVD + 12cmCD                     | SRBL-1417 |
+| \!發行日 | 標題          | 規格                               | [編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 價格（含稅）    |
+| ----- | ----------- | -------------------------------- | --------------------------------------------------- | --------- |
+| 1st   | 2009年12月16日 | 1st Tour A hydrangea blooms 2009 | DVD + 12cmCD                                        | SRBL-1417 |
 
 ## 外部連結
 

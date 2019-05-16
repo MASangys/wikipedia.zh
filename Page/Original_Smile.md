@@ -5,7 +5,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 ## 簡介
 
   - 「Original Smile」是Oronamin C Drink的廣告歌。
-  - 在以前的音樂節目中，是以[木村拓哉的獨唱部分開始](../Page/木村拓哉.md "wikilink")。另外，最後一段[副歌前的歌詞](../Page/副歌.md "wikilink")，CD中是由全員唱出，但在演唱會及音樂節目上則由木村唱出。
+  - 在以前的音樂節目中，是以[木村拓哉的獨唱部分開始](../Page/木村拓哉.md "wikilink")。另外，最後一段[副歌前的歌詞](https://zh.wikipedia.org/wiki/副歌 "wikilink")，CD中是由全員唱出，但在演唱會及音樂節目上則由木村唱出。
   - 「Major」有[森且行和木村拓哉的獨唱部分](../Page/森且行.md "wikilink")，其他部分也是兩人的聲音比較明顯。
   - 現在「Original Smile」為[高級中學的音樂教科書的教材](../Page/高級中學.md "wikilink")。
   - 在「Original Smile」發售後的演唱會，即由《SEXY SIX SHOW》至《We are SMAP\! 2010 SMAP
@@ -13,8 +13,8 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
     2011》，每次均會演唱。
   - 近年更在不同電視節目演唱，2011年日本紅白歌唱大賽更以和2011年發表之《not alone\~變得幸福吧\~》組成歌曲一同演唱。
   - 「Original Smile」同時收錄在專輯《[SMAP 006〜SEXY
-    SIX〜](../Page/SMAP_006〜SEXY_SIX〜.md "wikilink")》及《[Smap
-    Vest](../Page/Smap_Vest.md "wikilink")》，「Major」則收錄在《[WOOL](../Page/WOOL.md "wikilink")》和《[pamS](../Page/pamS.md "wikilink")》。
+    SIX〜](https://zh.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")》及《[Smap
+    Vest](https://zh.wikipedia.org/wiki/Smap_Vest "wikilink")》，「Major」則收錄在《[WOOL](https://zh.wikipedia.org/wiki/WOOL "wikilink")》和《[pamS](https://zh.wikipedia.org/wiki/pamS "wikilink")》。
 
 ## 収録曲
 

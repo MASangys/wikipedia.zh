@@ -4,21 +4,23 @@
 [CasioLoopy.png](https://zh.wikipedia.org/wiki/File:CasioLoopy.png "fig:CasioLoopy.png")
 | manufacturer = [卡西歐](../Page/卡西歐.md "wikilink") | type =
 [電子遊戲機](../Page/電子遊戲機.md "wikilink") | lifespan =  |
-generation = [第五世代](../Page/電子遊戲機歷史_\(第五世代\).md "wikilink") | CPU =
-[32-bit](../Page/32-bit.md "wikilink")
-[RISC](../Page/RISC.md "wikilink")
-[SH-1](../Page/SuperH#Models.md "wikilink") (SH7021) | media =
-[Cartridge](../Page/Cartridge_\(electronics\).md "wikilink") |
-controllers = D-pad , [Mouse](../Page/Mouse_\(computing\).md "wikilink")
-}}
+generation =
+[第五世代](https://zh.wikipedia.org/wiki/電子遊戲機歷史_\(第五世代\) "wikilink")
+| CPU = [32-bit](https://zh.wikipedia.org/wiki/32-bit "wikilink")
+[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")
+[SH-1](https://zh.wikipedia.org/wiki/SuperH#Models "wikilink") (SH7021)
+| media =
+[Cartridge](https://zh.wikipedia.org/wiki/Cartridge_\(electronics\) "wikilink")
+| controllers = D-pad ,
+[Mouse](https://zh.wikipedia.org/wiki/Mouse_\(computing\) "wikilink") }}
 
 **Casio Loopy**是[卡西歐](../Page/卡西歐.md "wikilink")1990年代开发的電子遊戲機。
 
 ## 历史
 
 ，代号 *My Seal Computer
-SV-100*，是一台只在[日本国内发售的](../Page/日本.md "wikilink")32位游戏机，发行于1995年10月。\[1\]。它的市场独立性很大程度因为它完全针对女性市场。这个主机只发行了10个游戏，大部分是[女性向游戏和穿着游戏](../Page/女性向游戏.md "wikilink")。它有一个特点是带有一台内建的彩色打印机，可以用来打印游戏中的人物。还有一个叫**Magical
-Shop**的附加设备，允许机器使用外设（例如[录像机和](../Page/录像机.md "wikilink")[DVD播放器](../Page/DVD.md "wikilink")）来获取图像，添加文字，以及附加人物图像在上面。这台游戏机只有一个控制器插口。
+SV-100*，是一台只在[日本国内发售的](../Page/日本.md "wikilink")32位游戏机，发行于1995年10月。\[1\]。它的市场独立性很大程度因为它完全针对女性市场。这个主机只发行了10个游戏，大部分是[女性向游戏和穿着游戏](https://zh.wikipedia.org/wiki/女性向游戏 "wikilink")。它有一个特点是带有一台内建的彩色打印机，可以用来打印游戏中的人物。还有一个叫**Magical
+Shop**的附加设备，允许机器使用外设（例如[录像机和](https://zh.wikipedia.org/wiki/录像机 "wikilink")[DVD播放器](https://zh.wikipedia.org/wiki/DVD "wikilink")）来获取图像，添加文字，以及附加人物图像在上面。这台游戏机只有一个控制器插口。
 
 ## 游戏列表
 

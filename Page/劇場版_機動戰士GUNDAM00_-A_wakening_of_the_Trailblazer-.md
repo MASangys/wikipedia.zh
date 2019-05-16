@@ -75,7 +75,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 <!-- end list -->
 
   -
-    與妮娜‧崔尼提長相相似的宇宙物理[學者](../Page/學者.md "wikilink")，幫助地球聯邦解析ELS的事件並針對ELS的調查。
+    與妮娜‧崔尼提長相相似的宇宙物理[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，幫助地球聯邦解析ELS的事件並針對ELS的調查。
     小說版中提到她的家系過去曾經與天上人接觸，並提供了遺傳因子，而此遺傳因子便是使用妮娜的鹼基配列。
 
 <!-- end list -->
@@ -104,7 +104,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 <!-- end list -->
 
   -
-    劇中被[ELS](../Page/ELS.md "wikilink")（斯凱·艾克里普斯）侵蝕半身的[高中](../Page/高中.md "wikilink")[女生](../Page/女生.md "wikilink")，擁有覺醒成純種變革者的因子。
+    劇中被[ELS](https://zh.wikipedia.org/wiki/ELS "wikilink")（斯凱·艾克里普斯）侵蝕半身的[高中](https://zh.wikipedia.org/wiki/高中 "wikilink")[女生](https://zh.wikipedia.org/wiki/女生 "wikilink")，擁有覺醒成純種變革者的因子。
     在ELS大規模出現於[木星時覺醒](../Page/木星.md "wikilink")。
     50年後的2364年成為外宇宙探查艦「皇」的船員，左半邊有與剎那相同的ELS金屬化特徵。除了剎那外，似乎是被ELS侵蝕後的唯一生還者。
 
@@ -116,7 +116,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
   -
     130年前木星探測船「木衛二」的一員，公元2314年被ELS侵蝕而重新活動，在00I 2314也有登場。
     外表和里朋斯.阿爾馬克相同（兩人的鹼基配列相同），因此剎那找到他時十分驚訝，以為里朋斯還生存。
-    在前人革聯領地侵蝕高中女生安米亞後打算侵蝕變革者露意絲時被天上人的鋼彈尖兵剎那發現，剎那使用[手槍連開多發](../Page/手槍.md "wikilink")[子彈](../Page/子彈.md "wikilink")（包括兩發大腿、兩發腰部、一發胸部、一發[頭部](../Page/頭部.md "wikilink")）無效後使用[黏著榴彈](../Page/黏著榴彈.md "wikilink")，令斯凱上半身炸碎、下半身溶化碎成[金屬並粉碎](../Page/金屬.md "wikilink")。
+    在前人革聯領地侵蝕高中女生安米亞後打算侵蝕變革者露意絲時被天上人的鋼彈尖兵剎那發現，剎那使用[手槍連開多發](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")（包括兩發大腿、兩發腰部、一發胸部、一發[頭部](https://zh.wikipedia.org/wiki/頭部 "wikilink")）無效後使用[黏著榴彈](../Page/黏著榴彈.md "wikilink")，令斯凱上半身炸碎、下半身溶化碎成[金屬並粉碎](https://zh.wikipedia.org/wiki/金屬 "wikilink")。
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 <!-- end list -->
 
   -
-    前新歐洲共同體([德國](../Page/德國.md "wikilink"))駕駛員。
+    前新歐洲共同體([德國](https://zh.wikipedia.org/wiki/德國 "wikilink"))駕駛員。
     在劇場版被挑選為太陽勇者隊的成員之一，駕駛的座機是與其他成員一樣的GNX-Y903VS 勇者式一般用試驗機。
 
 <!-- end list -->
@@ -142,7 +142,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 <!-- end list -->
 
   -
-    前聯合(日本[沖繩基地](../Page/沖繩.md "wikilink"))駕駛員。
+    前聯合(日本[沖繩基地](https://zh.wikipedia.org/wiki/沖繩 "wikilink"))駕駛員。
     在2307年參加Over Flags，為古萊哈姆以前的部下,駕駛SVMS-01O 超限旗幟式。
     在劇場版被挑選為太陽勇者隊的成員之一，駕駛的座機是與其他成員一樣的GNX-Y903VS 勇者式一般用試驗機。
 
@@ -152,7 +152,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 <!-- end list -->
 
   -
-    前聯合([澳洲](../Page/澳洲.md "wikilink"))駕駛員。
+    前聯合([澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink"))駕駛員。
     在劇場版被挑選為太陽勇者隊的成員之一，駕駛的座機是與其他成員一樣的GNX-Y903VS 勇者式一般用試驗機。
     在對ELS最後之戰中被ELS的GN光束射中並破壞所駕駛的勇者式，陣亡，令其為第一名陣亡的太陽勇者隊成員。
 
@@ -210,7 +210,7 @@ quanta 回到了瑪莉娜‧伊士麥的身邊，達到相互理解。
 ## ELS
 
 地球外變異性金屬體，通稱ELS（Extraterrestrial Living-metal
-Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](../Page/外星生命.md "wikilink")。具有與一切事物融合的特性，在侵蝕物體過程內部會呈現銀灰色結晶狀，液態金屬形式能夠[擬態成人類](../Page/擬態.md "wikilink")、MS或者是戰艦\[6\]，由ELS所擬態而成的MS在外觀及機能上並非是完全的模仿，頭部攝影機皆為單眼式，並且於太陽爐外殼及細部等處留有ELS其原有型態的特徵，武器在使用時並非是以手掌進行握持，而是直接由於手臂變形而成\[7\]，而擬態後的MS或戰艦所散發出的GN粒子以及武器的光束顏色為紫色\[8\]，由ELS擬態而成的MS或戰艦，除了GN粒子以及武器的光束可以擬態外，甚至軍隊戰鬥的模式也可以模彷。
+Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](../Page/外星生命.md "wikilink")。具有與一切事物融合的特性，在侵蝕物體過程內部會呈現銀灰色結晶狀，液態金屬形式能夠[擬態成人類](https://zh.wikipedia.org/wiki/擬態 "wikilink")、MS或者是戰艦\[6\]，由ELS所擬態而成的MS在外觀及機能上並非是完全的模仿，頭部攝影機皆為單眼式，並且於太陽爐外殼及細部等處留有ELS其原有型態的特徵，武器在使用時並非是以手掌進行握持，而是直接由於手臂變形而成\[7\]，而擬態後的MS或戰艦所散發出的GN粒子以及武器的光束顏色為紫色\[8\]，由ELS擬態而成的MS或戰艦，除了GN粒子以及武器的光束可以擬態外，甚至軍隊戰鬥的模式也可以模彷。
 
   - 機體
 
@@ -250,7 +250,7 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
 
   - 雙主題歌：\[9\]
   - 「」
-      - 作詞：[TAKUYA∞](../Page/TAKUYA∞.md "wikilink")
+      - 作詞：[TAKUYA∞](https://zh.wikipedia.org/wiki/TAKUYA∞ "wikilink")
       - 作曲：[UVERworld](../Page/UVERworld.md "wikilink")
       - 編曲：[UVERworld](../Page/UVERworld.md "wikilink")、平出悟
       - 主唱：[UVERworld](../Page/UVERworld.md "wikilink")
@@ -258,8 +258,9 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
 <!-- end list -->
 
   - 「」
-      - 作詞：[菅波榮純](../Page/菅波榮純.md "wikilink")
-      - 作曲：[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
+      - 作詞：[菅波榮純](https://zh.wikipedia.org/wiki/菅波榮純 "wikilink")
+      - 作曲：[THE BACK
+        HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
       - 編曲：THE BACK HORN
       - 主唱：THE BACK HORN
 
@@ -267,7 +268,7 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
 
   - 印象曲：
   - 「CHANGE」
-      - 作詞：[TAKUYA∞](../Page/TAKUYA∞.md "wikilink")
+      - 作詞：[TAKUYA∞](https://zh.wikipedia.org/wiki/TAKUYA∞ "wikilink")
       - 作曲：[UVERworld](../Page/UVERworld.md "wikilink")
       - 編曲：[UVERworld](../Page/UVERworld.md "wikilink")、平出悟
       - 主唱：[UVERworld](../Page/UVERworld.md "wikilink")
@@ -289,14 +290,14 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
   - 原作：[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 監督：[水島精二](../Page/水島精二.md "wikilink")\[10\]
   - 腳本：[黑田洋介](../Page/黑田洋介.md "wikilink")
-  - 角色設計原案：[高河弓](../Page/高河优.md "wikilink")、[千叶道德](../Page/千叶道德.md "wikilink")
-  - 機械設計師：[大河原邦男](../Page/大河原邦男.md "wikilink")、[海老川兼武](../Page/海老川兼武.md "wikilink")、[柳濑敬之](../Page/柳濑敬之.md "wikilink")、[福地仁](../Page/福地仁.md "wikilink")、[寺冈贤司](../Page/寺冈贤司.md "wikilink")、[中谷诚一](../Page/中谷诚一.md "wikilink")
-  - 製作：[Sunrise](../Page/Sunrise.md "wikilink")
+  - 角色設計原案：[高河弓](https://zh.wikipedia.org/wiki/高河优 "wikilink")、[千叶道德](https://zh.wikipedia.org/wiki/千叶道德 "wikilink")
+  - 機械設計師：[大河原邦男](../Page/大河原邦男.md "wikilink")、[海老川兼武](../Page/海老川兼武.md "wikilink")、[柳濑敬之](https://zh.wikipedia.org/wiki/柳濑敬之 "wikilink")、[福地仁](https://zh.wikipedia.org/wiki/福地仁 "wikilink")、[寺冈贤司](https://zh.wikipedia.org/wiki/寺冈贤司 "wikilink")、[中谷诚一](https://zh.wikipedia.org/wiki/中谷诚一 "wikilink")
+  - 製作：[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
 
 ## 上映情况
 
 本剧于2011年7月7日至7月11日
-于中国大陆[上海](../Page/上海.md "wikilink")[梅赛德斯-奔驰文化中心限场次上映](../Page/梅赛德斯-奔驰文化中心.md "wikilink")，此为GUNDAM系列动画在中国大陆的首次公映。
+于中国大陆[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅赛德斯-奔驰文化中心限场次上映](../Page/梅赛德斯-奔驰文化中心.md "wikilink")，此为GUNDAM系列动画在中国大陆的首次公映。
 
 ## 參考資料
 

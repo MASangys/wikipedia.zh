@@ -1,5 +1,5 @@
 **JooJoo**是由Fusion
-Garage所推出的觸控平板電腦，其设计理念上和[iPad相似](../Page/iPad.md "wikilink")，2009年底发布。
+Garage所推出的觸控平板電腦，其设计理念上和[iPad相似](https://zh.wikipedia.org/wiki/iPad "wikilink")，2009年底发布。
 
 邁克爾·阿靈頓（Michael Arrington）最早有CrunchPad的設計，採用電容式觸控螢幕，並與新加坡創業企業Fusion
 Garage 合作推出，使用Fusion Garage的Linux-based的作業系統\[1\]\[2\]。Fusion

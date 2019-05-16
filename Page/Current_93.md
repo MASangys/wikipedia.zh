@@ -1,5 +1,5 @@
 **Current
-93**是一个[英国实验音乐团体](../Page/英国.md "wikilink")，从20世纪80年代早期起开始创作[民谣类型的作品](../Page/民谣.md "wikilink")。乐队由David
+93**是一个[英国实验音乐团体](https://zh.wikipedia.org/wiki/英国 "wikilink")，从20世纪80年代早期起开始创作[民谣类型的作品](https://zh.wikipedia.org/wiki/民谣 "wikilink")。乐队由David
 Tibet（原名David Michael Bunting）创建于1982年\[1\]。
 
 ## 参考文献
@@ -9,7 +9,8 @@ Tibet（原名David Michael Bunting）创建于1982年\[1\]。
   - [Coptic Cat homepage](http://www.copticcat.com/) Official Coptic Cat
     homepage
   - [Durtro Records homepage](http://www.durtro.com/) Official
-    [Durtro](../Page/Durtro.md "wikilink") and Current 93 homepage
+    [Durtro](https://zh.wikipedia.org/wiki/Durtro "wikilink") and
+    Current 93 homepage
   - [Official archive](http://www.brainwashed.com/c93), extensive
     discography, live information archive, related literary sources.
 

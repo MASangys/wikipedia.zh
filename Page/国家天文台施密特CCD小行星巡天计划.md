@@ -1,9 +1,9 @@
 **国家天文台施密特CCD小行星巡天计划**（英文：BAO Schmidt Asteroid
-Program，或简称**SCAP**\[1\]），是由[中国科学院出资](../Page/中国科学院.md "wikilink")，于1995年5月在[北京天文台设立的](../Page/北京天文台.md "wikilink")[近地小行星（NEAs）与](../Page/近地小行星.md "wikilink")[彗星观测计划](../Page/彗星.md "wikilink")。
+Program，或简称**SCAP**\[1\]），是由[中国科学院出资](../Page/中国科学院.md "wikilink")，于1995年5月在[北京天文台设立的](https://zh.wikipedia.org/wiki/北京天文台 "wikilink")[近地小行星（NEAs）与](../Page/近地小行星.md "wikilink")[彗星观测计划](https://zh.wikipedia.org/wiki/彗星 "wikilink")。
 
 ## 仪器
 
-SCAP配备有一台60/80厘米的[施密特摄星镜](../Page/施密特摄星镜.md "wikilink")。该仪器装备一组2048x2048[像素的](../Page/像素.md "wikilink")[CCD](../Page/电荷耦合元件.md "wikilink")[照相机](../Page/照相机.md "wikilink")，现被安装在位于[河北](../Page/河北.md "wikilink")[承德的](../Page/承德.md "wikilink")[国家天文台兴隆观测基地](../Page/国家天文台兴隆观测基地.md "wikilink")。
+SCAP配备有一台60/80厘米的[施密特摄星镜](https://zh.wikipedia.org/wiki/施密特摄星镜 "wikilink")。该仪器装备一组2048x2048[像素的](../Page/像素.md "wikilink")[CCD](https://zh.wikipedia.org/wiki/电荷耦合元件 "wikilink")[照相机](https://zh.wikipedia.org/wiki/照相机 "wikilink")，现被安装在位于[河北](https://zh.wikipedia.org/wiki/河北 "wikilink")[承德的](https://zh.wikipedia.org/wiki/承德 "wikilink")[国家天文台兴隆观测基地](../Page/国家天文台兴隆观测基地.md "wikilink")。
 
 ## 科学发现
 
@@ -39,7 +39,7 @@ Zhongkeyuan</p></td>
 <td><p>1996 EW2</p></td>
 <td><p>1996年3月11日</p></td>
 <td><p>小行星</p></td>
-<td><p>以<a href="../Page/中科院.md" title="wikilink">中科院命名</a></p></td>
+<td><p>以<a href="https://zh.wikipedia.org/wiki/中科院" title="wikilink">中科院命名</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13651</p></td>
@@ -84,7 +84,7 @@ Beishizhang</p></td>
 
 ## 近况
 
-在与[Space.com](../Page/Space.com.md "wikilink")[撰稿人Michael](../Page/撰稿人.md "wikilink")
+在与[Space.com](https://zh.wikipedia.org/wiki/Space.com "wikilink")[撰稿人Michael](https://zh.wikipedia.org/wiki/撰稿人 "wikilink")
 Paine的谈话中，SCAP主任朱进透露为了给其他观测让路，本计划可支配的观测时间已经明显少于以往。
 
 ## 外部链接

@@ -1,5 +1,6 @@
-《**SPORTS**》（，*Sports*）是[東京事變的第四張](../Page/東京事變.md "wikilink")[專輯](../Page/專輯.md "wikilink")，由[EMI
-Music Japan](../Page/EMI音樂_\(日本\).md "wikilink")／[Virgin
+《**SPORTS**》（，*Sports*）是[東京事變的第四張](../Page/東京事變.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，由[EMI
+Music
+Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
 Music於](../Page/維京唱片.md "wikilink")2010年2月24日發行。在跨業合作部分，歌曲「能動的三分間」及「勝戰」兩首歌更成為[江崎固力果](../Page/江崎固力果.md "wikilink")‘Watering
 Kiss
 Mint口香糖’廣告主題曲\[1\]\[2\]，而歌曲「閃光少女」則是日本[速霸陸汽車公司](../Page/速霸陸汽車.md "wikilink")‘STELLA’和‘R2’廣告主題曲\[3\]。初回限定為「金幣浮雕外盒仕樣」。另外，如果在02月1日至03月31日間，到日本指定的店舖購買東京事變、椎名林檎的專輯或視頻\[4\]，即可獲贈東京事變或椎名林檎精美文件夾\[5\]\[6\]。
@@ -8,7 +9,7 @@ Mint口香糖’廣告主題曲\[1\]\[2\]，而歌曲「閃光少女」則是日
 
 ## 專輯概要
 
-《**SPORTS**》是東京事變第四張專輯，同時也是繼2007年9月發表《[娛樂](../Page/娛樂_\(專輯\).md "wikilink")》後，睽違兩年的新專輯。本張專輯收錄了先前發行的單曲《[能動的三分間](../Page/能動的三分間.md "wikilink")》中的歌曲，但單曲中的B面歌曲並沒有被收錄。不過，先前發售的數位下載單曲《[閃光少女](../Page/閃光少女.md "wikilink")》則有收錄至本張專輯中。本張專輯封面製作成金牌的模樣，與電影《[超異能部隊](../Page/超異能部隊.md "wikilink")》有相似之處，讓歌迷驚嘆不已。而單曲封面是「馬錶」，專輯封面則是「金牌」，讓歌迷不禁聯想，單曲和專輯似乎有種特別的關係。
+《**SPORTS**》是東京事變第四張專輯，同時也是繼2007年9月發表《[娛樂](../Page/娛樂_\(專輯\).md "wikilink")》後，睽違兩年的新專輯。本張專輯收錄了先前發行的單曲《[能動的三分間](../Page/能動的三分間.md "wikilink")》中的歌曲，但單曲中的B面歌曲並沒有被收錄。不過，先前發售的數位下載單曲《[閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")》則有收錄至本張專輯中。本張專輯封面製作成金牌的模樣，與電影《[超異能部隊](../Page/超異能部隊.md "wikilink")》有相似之處，讓歌迷驚嘆不已。而單曲封面是「馬錶」，專輯封面則是「金牌」，讓歌迷不禁聯想，單曲和專輯似乎有種特別的關係。
 
 而團員們為了想要將歌曲「閃光少女」的世界觀發揮到極致，他們將「運動」的概念套用至整張專輯\[10\]。而當專輯名稱確定後，團員們紛紛提供樂曲，並從裡面找出運動概念強烈的歌曲，然後就開始排練。之後，再從排練過的曲目，找出「具運動概念」及「有故事性」的歌曲收錄至專輯\[11\]。而延續著椎名林檎個唱的傳統，「對稱美學」又再次出現在本張專輯中。
 
@@ -116,7 +117,7 @@ C](../Page/Ultra_C.md "wikilink")》皆在Oricon銷售榜上名列第一名，�
 
 ### 先行發售單曲
 
-  - [閃光少女](../Page/閃光少女.md "wikilink")（2007年11月21日，數位下載單曲、視頻）
+  - [閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")（2007年11月21日，數位下載單曲、視頻）
       -
         (日本) Oricon音樂視頻週銷售排行榜週銷售排行榜：\#2\[36\]
         (日本) Oricon音樂視頻2007年銷售排行榜：\#47
@@ -158,7 +159,7 @@ C](../Page/Ultra_C.md "wikilink")》皆在Oricon銷售榜上名列第一名，�
 9.  FAIR（<small>，</small>）
 10. 衝勁（<small>，</small>）
 11. 最佳位置（<small>，</small>）
-12. [閃光少女](../Page/閃光少女.md "wikilink")（<small>，</small>）
+12. [閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")（<small>，</small>）
       -
         原題：頭巾。創作靈感來自於冬天時看見了身穿羽絨夾克的女生，以外套的帽子來遮掩寒意，卻遮掩不住她臉上那天真無邪的表情，龜田誠治看到了這個影像以後，心想「這個孩子的未來，會遇到誰？會度過怎樣的人生呢？」這首歌的雛形也就這樣產生了\[56\]。
 13. 到極限（<small>，</small>）
@@ -242,39 +243,39 @@ SPORTS <small>(競技)</small></p></td>
 
 ## 宣傳行程
 
-| 類型                                   | 日期                                                     | 名稱                                                                 |
-| ------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------ |
-| **[演唱會](../Page/演唱會.md "wikilink")** |                                                        | [東京事變 live tour 2010 Ultra C](../Page/Ultra_C#演唱會簡介.md "wikilink") |
-| **[報紙](../Page/報紙.md "wikilink")**   | <small>2010/03/04</small>                              | 【讀賣新聞】夕刊預定 interview\[77\]                                         |
-| <small>2010/03/05</small>            | 【朝日新聞】夕刊預定 interview\[78\]                             |                                                                    |
-| **[雜誌](../Page/雜誌.md "wikilink")**   | <small>2010/01/30</small>                              | 【rockin'on JAPAN】表紙＋特集\[79\]                                       |
-| <small>2010/02/06</small>            | 【InRed】椎名林檎　表紙＋特集\[80\]                                |                                                                    |
-| <small>2010/02/13</small>            | 【Guitar Magazine】東京事變・浮雲特集\[81\]                       |                                                                    |
-| <small>2010/02/15</small>            | 【MUSICA】表紙＋特集\[82\]                                    |                                                                    |
-| <small>2010/02/19</small>            | 【Bass Magazine】龜田誠治 表紙＋特集\[83\]                        |                                                                    |
-| <small>2010/02/20</small>            | 【SWITCH】表紙＋特集\[84\]\[85\]                              |                                                                    |
-| <small>2010/02/23</small>            | 【spring】椎名林檎　表紙＋特集\[86\]                               |                                                                    |
-| <small>2010/02/27</small>            | 【rockin'on JAPAN】專輯全曲製作\[87\]                          |                                                                    |
-| <small>2010/03/10</small>            | 【Keyboard Magazine】東京事變・伊澤一葉特集\[88\]                   |                                                                    |
-| **唱片行**                              | <small>2010/02/20</small>                              | 【TOWER RECORDS】TOWER\[89\]                                         |
-| <small>2010/02/20</small>            | 【HMV】the music & movie master\[90\]                    |                                                                    |
-| <small>2010/02/25</small>            | 【NO MUSIC,NO LIFE?】bounce\[91\]                        |                                                                    |
-| **[網站](../Page/網站.md "wikilink")**   | <small>2010/02/19</small>                              | 【YAHOO\! MUSIC】POWER PUSH 特集\[92\]                                 |
-| **[電視](../Page/電視.md "wikilink")**   | <small>2010/02</small>                                 | 【MTV】2010年2月｢Artist Of Month｣\[93\]\[94\]                          |
-| <small>2010/02/11</small>            | 【WOWOW】東京事變 OSCA\[95\]                                 |                                                                    |
-| <small>2010/02/15</small>            | 【MTV】MTV Comp.<small>(音樂錄影帶特集)</small>\[96\]           |                                                                    |
-| <small>2010/02/16</small>            | 【SPACE SHOWER TV】ZOOM<small>(音樂錄影帶特集)\[97\]</small>    |                                                                    |
-| <small>2010/02/19</small>            | 【朝日電視台】MUSIC STATION\[98\]                             |                                                                    |
-| <small>2010/02/20</small>            | 【MUSIC ON\!TV】東京事變<small>(音樂錄影帶特集)\[99\]</small>       |                                                                    |
-| <small>2010/02/21</small>            | 【VMC】VMC SPECIAL/東京事變<small>(音樂錄影帶特集)\[100\]</small>   |                                                                    |
-| <small>2010/02/24</small>            | 【富士電視台】魁！音樂番付　Eight\[101\]                             |                                                                    |
-| <small>2010/02/27</small>            | 【東京電視台】東京事變SPECIAL\[102\]                              |                                                                    |
-| <small>2010/02/27</small>            | 【朝日電視台】JAPAN COUNTDOWN\[103\]                          |                                                                    |
-| <small>2010/02/28</small>            | 【NHK】MUSIC JAPAN\[104\]                                |                                                                    |
-| <small>2010/03/25</small>            | 【WOWOW】東京事變 特集\[105\]                                  |                                                                    |
-| **[廣播](../Page/廣播.md "wikilink")**   | <small>2010/02/21</small>                              | 【J-WAVE】TOKIO HOT 100\[106\]                                       |
-| <small>2010/02/23</small>            | 【NHK-FM】MUSIC LINE\[107\]                              |                                                                    |
-| <small>2010/02/28</small>            | 【TOKYO FM & JFN全國38局】ASAHI SUPER DRY MUSIC FLAG\[108\] |                                                                    |
+| 類型                                                      | 日期                                                     | 名稱                                                                                    |
+| ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| **[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")** |                                                        | [東京事變 live tour 2010 Ultra C](https://zh.wikipedia.org/wiki/Ultra_C#演唱會簡介 "wikilink") |
+| **[報紙](../Page/報紙.md "wikilink")**                      | <small>2010/03/04</small>                              | 【讀賣新聞】夕刊預定 interview\[77\]                                                            |
+| <small>2010/03/05</small>                               | 【朝日新聞】夕刊預定 interview\[78\]                             |                                                                                       |
+| **[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")**   | <small>2010/01/30</small>                              | 【rockin'on JAPAN】表紙＋特集\[79\]                                                          |
+| <small>2010/02/06</small>                               | 【InRed】椎名林檎　表紙＋特集\[80\]                                |                                                                                       |
+| <small>2010/02/13</small>                               | 【Guitar Magazine】東京事變・浮雲特集\[81\]                       |                                                                                       |
+| <small>2010/02/15</small>                               | 【MUSICA】表紙＋特集\[82\]                                    |                                                                                       |
+| <small>2010/02/19</small>                               | 【Bass Magazine】龜田誠治 表紙＋特集\[83\]                        |                                                                                       |
+| <small>2010/02/20</small>                               | 【SWITCH】表紙＋特集\[84\]\[85\]                              |                                                                                       |
+| <small>2010/02/23</small>                               | 【spring】椎名林檎　表紙＋特集\[86\]                               |                                                                                       |
+| <small>2010/02/27</small>                               | 【rockin'on JAPAN】專輯全曲製作\[87\]                          |                                                                                       |
+| <small>2010/03/10</small>                               | 【Keyboard Magazine】東京事變・伊澤一葉特集\[88\]                   |                                                                                       |
+| **唱片行**                                                 | <small>2010/02/20</small>                              | 【TOWER RECORDS】TOWER\[89\]                                                            |
+| <small>2010/02/20</small>                               | 【HMV】the music & movie master\[90\]                    |                                                                                       |
+| <small>2010/02/25</small>                               | 【NO MUSIC,NO LIFE?】bounce\[91\]                        |                                                                                       |
+| **[網站](../Page/網站.md "wikilink")**                      | <small>2010/02/19</small>                              | 【YAHOO\! MUSIC】POWER PUSH 特集\[92\]                                                    |
+| **[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")**   | <small>2010/02</small>                                 | 【MTV】2010年2月｢Artist Of Month｣\[93\]\[94\]                                             |
+| <small>2010/02/11</small>                               | 【WOWOW】東京事變 OSCA\[95\]                                 |                                                                                       |
+| <small>2010/02/15</small>                               | 【MTV】MTV Comp.<small>(音樂錄影帶特集)</small>\[96\]           |                                                                                       |
+| <small>2010/02/16</small>                               | 【SPACE SHOWER TV】ZOOM<small>(音樂錄影帶特集)\[97\]</small>    |                                                                                       |
+| <small>2010/02/19</small>                               | 【朝日電視台】MUSIC STATION\[98\]                             |                                                                                       |
+| <small>2010/02/20</small>                               | 【MUSIC ON\!TV】東京事變<small>(音樂錄影帶特集)\[99\]</small>       |                                                                                       |
+| <small>2010/02/21</small>                               | 【VMC】VMC SPECIAL/東京事變<small>(音樂錄影帶特集)\[100\]</small>   |                                                                                       |
+| <small>2010/02/24</small>                               | 【富士電視台】魁！音樂番付　Eight\[101\]                             |                                                                                       |
+| <small>2010/02/27</small>                               | 【東京電視台】東京事變SPECIAL\[102\]                              |                                                                                       |
+| <small>2010/02/27</small>                               | 【朝日電視台】JAPAN COUNTDOWN\[103\]                          |                                                                                       |
+| <small>2010/02/28</small>                               | 【NHK】MUSIC JAPAN\[104\]                                |                                                                                       |
+| <small>2010/03/25</small>                               | 【WOWOW】東京事變 特集\[105\]                                  |                                                                                       |
+| **[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")**   | <small>2010/02/21</small>                              | 【J-WAVE】TOKIO HOT 100\[106\]                                                          |
+| <small>2010/02/23</small>                               | 【NHK-FM】MUSIC LINE\[107\]                              |                                                                                       |
+| <small>2010/02/28</small>                               | 【TOKYO FM & JFN全國38局】ASAHI SUPER DRY MUSIC FLAG\[108\] |                                                                                       |
 
 ## 連結
 

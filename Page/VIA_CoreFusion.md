@@ -8,57 +8,65 @@
 ### Mark
 
   - **Prozessorkern:**
-    [Centaur](../Page/Centaur_Technology.md "wikilink")
+    [Centaur](https://zh.wikipedia.org/wiki/Centaur_Technology "wikilink")
     [Nehemiah+](../Page/VIA_C3.md "wikilink")
       - L1緩存: 64 + 64 KB (data + instructions)
       - L2緩存: 64 KB mit Prozessortakt
-      - [MMX](../Page/Multi_Media_Extension.md "wikilink"),
-        [SSE](../Page/Streaming_SIMD_Extensions.md "wikilink"),
-        [PowerSaver 3.0](../Page/PowerSaver_3.0.md "wikilink"),
-        [PadLock](../Page/PadLock.md "wikilink")-Engine (2x RNG, 1x
-        ACE),
-        [SMP](../Page/Symmetrisches_Multiprozessorsystem.md "wikilink")
-  - **北橋:** [VIA Apollo PLE133T](../Page/VIA_Apollo-Serie.md "wikilink")
-      - 133 MHz [匯流排](../Page/匯流排.md "wikilink")
+      - [MMX](https://zh.wikipedia.org/wiki/Multi_Media_Extension "wikilink"),
+        [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
+        [PowerSaver
+        3.0](https://zh.wikipedia.org/wiki/PowerSaver_3.0 "wikilink"),
+        [PadLock](https://zh.wikipedia.org/wiki/PadLock "wikilink")-Engine
+        (2x RNG, 1x ACE),
+        [SMP](https://zh.wikipedia.org/wiki/Symmetrisches_Multiprozessorsystem "wikilink")
+  - **北橋:** [VIA Apollo
+    PLE133T](https://zh.wikipedia.org/wiki/VIA_Apollo-Serie "wikilink")
+      - 133 MHz [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")
       - Speichercontroller: [SDRAM](../Page/SDRAM.md "wikilink") mit
         max. 133 MHz (PC133)
       - integrierter [Twister-T](../Page/S3_Savage.md "wikilink")
         Grafikkern
       - [VIA 82C686B
-        Southbridge](../Page/VIA_Southbridges.md "wikilink") (Anbindung
-        über
-        [PCI-Bus](../Page/Peripheral_Component_Interconnect.md "wikilink"))
+        Southbridge](https://zh.wikipedia.org/wiki/VIA_Southbridges "wikilink")
+        (Anbindung über
+        [PCI-Bus](https://zh.wikipedia.org/wiki/Peripheral_Component_Interconnect "wikilink"))
   - **雜項:**
-      - 功耗 ([TDP](../Page/Thermal_Design_Power.md "wikilink")): 6 W und
-        8 W
+      - 功耗
+        ([TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink")):
+        6 W und 8 W
       - 包裝, 42 x 57 mm
       - 核心頻率: 533 und 800 MHz
 
 ### Luke
 
   - **Prozessorkern:**
-    [Centaur](../Page/Centaur_Technology.md "wikilink")
+    [Centaur](https://zh.wikipedia.org/wiki/Centaur_Technology "wikilink")
     [Nehemiah+](../Page/VIA_C3.md "wikilink")
       - L1緩存: 64 + 64 KB (data + instructions)
       - L2緩存: 64 KB mit Prozessortakt
-      - [MMX](../Page/Multi_Media_Extension.md "wikilink"),
-        [SSE](../Page/Streaming_SIMD_Extensions.md "wikilink"),
-        [PowerSaver 3.0](../Page/PowerSaver_3.0.md "wikilink"),
-        [PadLock](../Page/PadLock.md "wikilink")-Engine (2x RNG, 1x
-        ACE),
-        [SMP](../Page/Symmetrisches_Multiprozessorsystem.md "wikilink")
-  - **北橋:** [VIA CN400](../Page/VIA_C-Serie.md "wikilink")
-      - 133 MHz [匯流排](../Page/匯流排.md "wikilink")
-      - Speichercontroller: [DDR-SDRAM](../Page/DDR-SDRAM.md "wikilink")
+      - [MMX](https://zh.wikipedia.org/wiki/Multi_Media_Extension "wikilink"),
+        [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
+        [PowerSaver
+        3.0](https://zh.wikipedia.org/wiki/PowerSaver_3.0 "wikilink"),
+        [PadLock](https://zh.wikipedia.org/wiki/PadLock "wikilink")-Engine
+        (2x RNG, 1x ACE),
+        [SMP](https://zh.wikipedia.org/wiki/Symmetrisches_Multiprozessorsystem "wikilink")
+  - **北橋:** [VIA
+    CN400](https://zh.wikipedia.org/wiki/VIA_C-Serie "wikilink")
+      - 133 MHz [匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")
+      - Speichercontroller:
+        [DDR-SDRAM](https://zh.wikipedia.org/wiki/DDR-SDRAM "wikilink")
         mit max. 200 MHz (PC3200)
       - integrierter [UniChrome Pro](../Page/S3_Savage.md "wikilink")
         Grafikkern
       - ab [VIA VT8231
-        Southbridge](../Page/VIA_Southbridges.md "wikilink") (Anbindung
-        über [V-Link](../Page/V-Link.md "wikilink"))
+        Southbridge](https://zh.wikipedia.org/wiki/VIA_Southbridges "wikilink")
+        (Anbindung über
+        [V-Link](https://zh.wikipedia.org/wiki/V-Link "wikilink"))
   - **雜項:**
-      - 功耗 ([TDP](../Page/Thermal_Design_Power.md "wikilink")): 6 W, 8 W
-        und 10 W
+      - 功耗
+        ([TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink")):
+        6 W, 8 W und 10 W
       - 包裝: HSBGA, 37 x 53 mm
       - 核心頻率: 533, 800 und 1000 MHz
 
@@ -71,14 +79,14 @@
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
   - [VIA C3](../Page/VIA_C3.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA Eden](../Page/VIA_Eden.md "wikilink")
-  - [VIA C7](../Page/VIA_C7.md "wikilink")
+  - [VIA C7](https://zh.wikipedia.org/wiki/VIA_C7 "wikilink")
   - [VIA C7-D](../Page/VIA_C7-D.md "wikilink")
   - [VIA C7-M](../Page/VIA_C7-M.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
   - [VIA Nano](../Page/VIA_Nano.md "wikilink")
 
 ## 外部連結

@@ -1,17 +1,18 @@
-在[POSIX](../Page/POSIX.md "wikilink")
+在[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
 兼容的平台上，**SIGKILL**是发送给一个[进程](../Page/行程.md "wikilink")
-来导致它立即终止的[信号](../Page/信号_\(计算机科学\).md "wikilink")。SIGKILL的[符号常量在](../Page/C语言预处理器.md "wikilink")[头文件](../Page/头文件.md "wikilink")
-[`signal.h`](../Page/signal.h.md "wikilink")中定义。因为在不同平台上，信号数字可能变化，因此符号信号名被使用，然而在大量主要的系统上，SIGKILL是信号\#9。\[1\]
+来导致它立即终止的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。SIGKILL的[符号常量在](https://zh.wikipedia.org/wiki/C语言预处理器 "wikilink")[头文件](../Page/头文件.md "wikilink")
+[`signal.h`](https://zh.wikipedia.org/wiki/signal.h "wikilink")中定义。因为在不同平台上，信号数字可能变化，因此符号信号名被使用，然而在大量主要的系统上，SIGKILL是信号\#9。\[1\]
 
 ## 语源
 
 *SIG*是信号名的通用[前缀](../Page/詞綴.md "wikilink")
 。*KILL*是指让一个[进程](../Page/行程.md "wikilink")
-立即终止的动作的[计算机行话](../Page/计算机行话.md "wikilink") 。
+立即终止的动作的[计算机行话](https://zh.wikipedia.org/wiki/计算机行话 "wikilink")
+。
 
 ## 使用
 
-当SIGKILL被发送给一个程序时，它使程序立即终止。与[SIGTERM和](../Page/SIGTERM.md "wikilink")[SIGINT相比](../Page/SIGINT_\(POSIX\).md "wikilink")，这个信号不能被捕获或忽略，同时接收这个信号的进程在收到这个信号时不能执行任何清理。
+当SIGKILL被发送给一个程序时，它使程序立即终止。与[SIGTERM和](https://zh.wikipedia.org/wiki/SIGTERM "wikilink")[SIGINT相比](https://zh.wikipedia.org/wiki/SIGINT_\(POSIX\) "wikilink")，这个信号不能被捕获或忽略，同时接收这个信号的进程在收到这个信号时不能执行任何清理。
 
   - [僵尸进程不能被杀死](../Page/僵尸进程.md "wikilink")，因为它们已经死亡，只等待它们的父进程回收 它们。
 
@@ -21,7 +22,7 @@
 
 <!-- end list -->
 
-  - ''[init](../Page/init.md "wikilink")
+  - ''[init](https://zh.wikipedia.org/wiki/init "wikilink")
     ''进程是特殊的：它不获得它不想处理的信号，因此它可以忽略SIGKILL。
 
 <!-- end list -->

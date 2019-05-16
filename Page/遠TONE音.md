@@ -1,10 +1,10 @@
-**遠TONE音**是由演奏[尺八的](../Page/尺八.md "wikilink")[三塚幸彦](../Page/三塚幸彦.md "wikilink")、演奏[日本筝的](../Page/日本筝.md "wikilink")[小野美穗子以及演奏](../Page/小野美穗子.md "wikilink")[吉他的](../Page/吉他.md "wikilink")[曽山良一三人组成的组合](../Page/曽山良一.md "wikilink")。Northern
+**遠TONE音**是由演奏[尺八的](../Page/尺八.md "wikilink")[三塚幸彦](https://zh.wikipedia.org/wiki/三塚幸彦 "wikilink")、演奏[日本筝的](https://zh.wikipedia.org/wiki/日本筝 "wikilink")[小野美穗子以及演奏](https://zh.wikipedia.org/wiki/小野美穗子 "wikilink")[吉他的](../Page/吉他.md "wikilink")[曽山良一三人组成的组合](https://zh.wikipedia.org/wiki/曽山良一 "wikilink")。Northern
 Lights Records是他们自助创立的一个厂牌，以便自费出版专辑。
 
 ## 团体名称由来
 
 三塚和曽山是[卡洛斯·山塔那的歌迷](../Page/卡洛斯·山塔那.md "wikilink")，曽山曾购买《Guitar
-magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは”。三塚称：“トーン是tone的罗马字发音，尺八世界也有著名的乐曲《[鹿の遠音](../Page/鹿の遠音.md "wikilink")》，乐曲的远音扣动心弦，遠音就来自与此”，组合名称遠音漢字間插入TONE作配合。另外，遠TONE音的标识的漢字部分实际上是由曽山用毛笔書写的。
+magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは”。三塚称：“トーン是tone的罗马字发音，尺八世界也有著名的乐曲《[鹿の遠音](https://zh.wikipedia.org/wiki/鹿の遠音 "wikilink")》，乐曲的远音扣动心弦，遠音就来自与此”，组合名称遠音漢字間插入TONE作配合。另外，遠TONE音的标识的漢字部分实际上是由曽山用毛笔書写的。
 
 ## 专辑作品
 
@@ -35,10 +35,11 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 :\#Toypira(トイピラ )
 
 :\#The music of EARTH
-电影《[ただひとたびの人](../Page/ただひとたびの人.md "wikilink")》主题曲，作曲。
+电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》主题曲，作曲。
 
-:\#[砂山](../Page/砂山.md "wikilink") 作曲[中山晋平](../Page/中山晋平.md "wikilink")、
-电影《[ただひとたびの人](../Page/ただひとたびの人.md "wikilink")》插曲。
+:\#[砂山](https://zh.wikipedia.org/wiki/砂山 "wikilink")
+作曲[中山晋平](https://zh.wikipedia.org/wiki/中山晋平 "wikilink")、
+电影《[ただひとたびの人](https://zh.wikipedia.org/wiki/ただひとたびの人 "wikilink")》插曲。
 
 :\#はまなす
 
@@ -67,7 +68,7 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 :\#旅 (Journey )
 
 :\#道 (Our Own Way )
-此曲被歌手[簔谷雅彦作詩演唱](../Page/簔谷雅彦.md "wikilink")，收录到单曲CD中，常与歌手[CIRCUS共演](../Page/CIRCUS.md "wikilink")。
+此曲被歌手[簔谷雅彦作詩演唱](https://zh.wikipedia.org/wiki/簔谷雅彦 "wikilink")，收录到单曲CD中，常与歌手[CIRCUS共演](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")。
 
   - 四季 \[NLRCD-5101\] (1999年)
 
@@ -132,7 +133,7 @@ magazine》的山塔那特辑，其中重复的一句话是“僕のトーンは
 :\#牧人ひつじを (The First Noel )
 
   - 遠TONE音 \[CHCB-10072\] (2007年)
-    录音、混音：[西聰一郎](../Page/西聰一郎.md "wikilink")（ichiro），Mastering：[川崎洋](../Page/川崎洋_\(音乐工程师\).md "wikilink")。
+    录音、混音：[西聰一郎](https://zh.wikipedia.org/wiki/西聰一郎 "wikilink")（ichiro），Mastering：[川崎洋](https://zh.wikipedia.org/wiki/川崎洋_\(音乐工程师\) "wikilink")。
     1.  潮騒
     2.  流水
     3.  峠

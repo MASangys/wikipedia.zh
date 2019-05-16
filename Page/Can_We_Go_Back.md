@@ -4,12 +4,12 @@ Back**」為2010年1月20日發行之[日本](../Page/日本.md "wikilink")[歌�
 ## 附註
 
   - 與前作相隔約四個月發行，與2008年發行的「[stay with
-    me](../Page/stay_with_me.md "wikilink")」相隔約一年的1A面單曲。
+    me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")」相隔約一年的1A面單曲。
 
 <!-- end list -->
 
   - 本作為新專輯「[BEST～third universe～ & 8th AL
-    "UNIVERSE"](../Page/BEST～third_universe～_&_8th_AL_"UNIVERSE".md "wikilink")」的先行單曲，採完全限量生產單曲形式發行，也是2010年倖田來未邁向10周年的第一彈單曲，側標有10周年紀念圖。
+    "UNIVERSE"](https://zh.wikipedia.org/wiki/BEST～third_universe～_&_8th_AL_"UNIVERSE" "wikilink")」的先行單曲，採完全限量生產單曲形式發行，也是2010年倖田來未邁向10周年的第一彈單曲，側標有10周年紀念圖。
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@ Back**」為2010年1月20日發行之[日本](../Page/日本.md "wikilink")[歌�
 
 <!-- end list -->
 
-  - 「**Good☆day**」為[SOGO](../Page/SOGO.md "wikilink")‧[西武](../Page/西武.md "wikilink")「冬市」廣告曲。
+  - 「**Good☆day**」為[SOGO](https://zh.wikipedia.org/wiki/SOGO "wikilink")‧[西武](https://zh.wikipedia.org/wiki/西武 "wikilink")「冬市」廣告曲。
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 **DJ
-DOC**（）是[韩国](../Page/韩国.md "wikilink")所屬一隊三人男子演唱团体。是韓國音樂界頗負盛名的[嘻哈](../Page/嘻哈音樂.md "wikilink")[饒舌樂團](../Page/饒舌.md "wikilink")，以風格強烈的作品在韓國音樂界佔有一席之地。
+DOC**（）是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")所屬一隊三人男子演唱团体。是韓國音樂界頗負盛名的[嘻哈](../Page/嘻哈音樂.md "wikilink")[饒舌樂團](../Page/饒舌.md "wikilink")，以風格強烈的作品在韓國音樂界佔有一席之地。
 
-曾在1996年的[獨島爭議時翻唱](../Page/獨島主權爭議.md "wikilink")[獨島是我們的領土一曲](../Page/獨島是我們的領土.md "wikilink")，此後在韓國人氣大增。
+曾在1996年的[獨島爭議時翻唱](https://zh.wikipedia.org/wiki/獨島主權爭議 "wikilink")[獨島是我們的領土一曲](https://zh.wikipedia.org/wiki/獨島是我們的領土 "wikilink")，此後在韓國人氣大增。
 
 該團1995年的「OK?OK\!」一曲，曾改編為中文版「OK?OK\!」，由[蘇慧倫](../Page/蘇慧倫.md "wikilink")、[任賢齊與](../Page/任賢齊.md "wikilink")[羅百吉演唱](../Page/羅百吉.md "wikilink")；另一首1998年專輯的主打歌「與DOC共舞」則被當時出道的眾多少女偶像之一[婷婷翻唱為](../Page/郭婷婷.md "wikilink")「愛的勝利」。
 
@@ -48,7 +48,7 @@ DJ OZMA](http://ja.wikipedia.org/wiki/DJ_OZMA)2006年的「アゲ♂アゲ♂EVE
 ### 網路作品
 
   - 수취인분명, 2016
-    （註：該作諷刺韓國前總統[朴槿惠](../Page/朴槿惠.md "wikilink")[政壇醜聞](../Page/2016年韓國政治醜聞.md "wikilink")）
+    （註：該作諷刺韓國前總統[朴槿惠](../Page/朴槿惠.md "wikilink")[政壇醜聞](https://zh.wikipedia.org/wiki/2016年韓國政治醜聞 "wikilink")）
 
 [Category:韩国男子演唱团体](https://zh.wikipedia.org/wiki/Category:韩国男子演唱团体 "wikilink")
 [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")

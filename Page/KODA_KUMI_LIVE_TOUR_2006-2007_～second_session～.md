@@ -1,6 +1,6 @@
 「**KODA KUMI LIVE TOUR 2006-2007 ～second session～**」（倖田來未 巡迴演唱會
 2006-2007
-～再體驗～）為[倖田來未於](../Page/倖田來未.md "wikilink")2007年3月28日發行之演唱會DVD。[DVD](../Page/DVD.md "wikilink")2片裝。
+～再體驗～）為[倖田來未於](../Page/倖田來未.md "wikilink")2007年3月28日發行之演唱會DVD。[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")2片裝。
 
 ## 解說
 
@@ -43,7 +43,7 @@
 2.  「Love goes Like・・・」MUSIC VIDEO
 3.  「運命」LIVE影像 （於2007年1月8日@パシフィコ横浜）
 4.  「Everybody」LIVE影像～幕後花絮 with
-    [香取慎吾](../Page/香取慎吾.md "wikilink")（2006年10月12日@[東京國際論壇大樓A](../Page/東京國際論壇大樓.md "wikilink")）
+    [香取慎吾](../Page/香取慎吾.md "wikilink")（2006年10月12日@[東京國際論壇大樓A](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")）
 5.  「Cherry
     Girl」LIVE映像（2006年12月17日@[國立代代木競技場第一體育館](../Page/國立代代木競技場.md "wikilink")「RhythmNation2006」）
 

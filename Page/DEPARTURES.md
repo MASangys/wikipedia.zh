@@ -1,4 +1,4 @@
-《**DEPARTURES**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[globe的第](../Page/globe.md "wikilink")4張[單曲及其中一首代表作](../Page/單曲.md "wikilink")。1996年1月1日發行。
+《**DEPARTURES**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[globe的第](https://zh.wikipedia.org/wiki/globe "wikilink")4張[單曲及其中一首代表作](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年1月1日發行。
 
 被譽為是[小室哲哉的巔峰歌曲](../Page/小室哲哉.md "wikilink")，不論是作曲、作詞還是編曲都達到相當的高度。挑選在[元旦發行也被認為是小室對這首歌自信的表現](../Page/元旦.md "wikilink")，因為元旦假期期間一般較少人購買音樂產品。
 
@@ -15,7 +15,7 @@ Million」銷量認證，是日本歷代單曲銷量第15位。
       -
         作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")；MIX：Dave Ford
         [JR東日本](../Page/東日本旅客鐵道.md "wikilink")「[JR
-        SKISKI](../Page/JR_SKISKI.md "wikilink")」的廣告歌
+        SKISKI](https://zh.wikipedia.org/wiki/JR_SKISKI "wikilink")」的廣告歌
 2.  DEPARTURES (EXTENDED MIX)
 3.  DEPARTURES (INSTRUMENTAL)
 

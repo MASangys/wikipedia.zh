@@ -1,5 +1,5 @@
-**GigiPan**是一個由[卡內基梅隆大學和](../Page/卡內基梅隆大學.md "wikilink")[NASA
-Ames合作](../Page/美國予航局艾姆斯研究所.md "wikilink")，並由[Google支援的計畫](../Page/Google.md "wikilink")。他的目標是促進單一圖像的巨大組合圖，以及使圖像在網頁有效的被儲存、瀏覽和縮放。
+**GigiPan**是一個由[卡內基梅隆大學和](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")[NASA
+Ames合作](https://zh.wikipedia.org/wiki/美國予航局艾姆斯研究所 "wikilink")，並由[Google支援的計畫](../Page/Google.md "wikilink")。他的目標是促進單一圖像的巨大組合圖，以及使圖像在網頁有效的被儲存、瀏覽和縮放。
 
 ## 技術
 

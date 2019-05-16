@@ -14,7 +14,7 @@ D.於1994年1月發行首張專輯《FOREVER》正式出道。在發行了4張�
 
 <!-- end list -->
 
-  - **[SHIGEO](../Page/SHIGEO.md "wikilink")**
+  - **[SHIGEO](https://zh.wikipedia.org/wiki/SHIGEO "wikilink")**
       -
         本名：加藤成夫（SHIGEO KATO、1962年1月15日生）。東京都出身。
 

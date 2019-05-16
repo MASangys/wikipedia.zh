@@ -1,19 +1,19 @@
 **Kara**（；），為韓國的[DSP
-Media公司在](../Page/DSP_Media.md "wikilink")2007年所推出的女子團體，最终成員包括[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉](../Page/具荷拉.md "wikilink")及[齡智](../Page/許齡智.md "wikilink")。原為四人團體，經過成員變動後，最后仍保持為四人團體。
+Media公司在](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2007年所推出的女子團體，最终成員包括[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")及[齡智](../Page/許齡智.md "wikilink")。原為四人團體，經過成員變動後，最后仍保持為四人團體。
 
 2007年3月29日以歌曲《Break
-It》正式出道。2008年2月27日隊員因學業退出團體。[荷拉及](../Page/具荷拉.md "wikilink")[知英在其後加入變成五人團體](../Page/姜知英.md "wikilink")\[1\]</ref>。同年7月24日推出首張迷你專輯《Rock
+It》正式出道。2008年2月27日隊員因學業退出團體。[荷拉及](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")[知英在其後加入變成五人團體](https://zh.wikipedia.org/wiki/姜知英 "wikilink")\[1\]</ref>。同年7月24日推出首張迷你專輯《Rock
 U》，其後在10月13日推出首張數位單曲《GOOD DAY SEASON
-2》2009年3月5日憑歌曲《Honey》首次奪得歌曲冠軍\[2\]</ref>。2014年1月14日，成員[妮可宣布退出團體](../Page/鄭龍珠.md "wikilink")，團體人數減至四人。4月5日，成員[知英](../Page/姜知英.md "wikilink")宣布退出團體，團體人數減至三人。7月1日，成員[齡智憑](../Page/許齡智.md "wikilink")《KARA
+2》2009年3月5日憑歌曲《Honey》首次奪得歌曲冠軍\[2\]</ref>。2014年1月14日，成員[妮可宣布退出團體](../Page/鄭龍珠.md "wikilink")，團體人數減至四人。4月5日，成員[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")宣布退出團體，團體人數減至三人。7月1日，成員[齡智憑](../Page/許齡智.md "wikilink")《KARA
 PROJECT-KARA The
 Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加入新成員[齡智後](../Page/許齡智.md "wikilink")，帶著第六張迷你專輯《Day
 & Night》回歸。2015年5月26日，KARA睽違九個月帶著第七張迷你專輯《IN LOVE》回歸。
 
-2016年1月15日，[荷拉](../Page/荷拉.md "wikilink")、[奎利](../Page/奎利.md "wikilink")、[昇延在本月尾的合約到期後決定不再續約](../Page/昇延.md "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/齡智.md "wikilink")。
+2016年1月15日，[荷拉](https://zh.wikipedia.org/wiki/荷拉 "wikilink")、[奎利](https://zh.wikipedia.org/wiki/奎利 "wikilink")、[昇延在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/昇延 "wikilink")，而[齡智則會繼續留在公司發展個人活動](https://zh.wikipedia.org/wiki/齡智 "wikilink")。
 
 ## 團名由來
 
-團體名稱**KARA**取自[希臘語chara](../Page/希臘語.md "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[3\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色），歌迷的官方名稱為「KAMILIA」，意思為：KARA
+團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[3\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色），歌迷的官方名稱為「KAMILIA」，意思為：KARA
 + FAMILIA
 ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援物為珍珠桃色氣球。
 
@@ -42,13 +42,13 @@ Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/具荷拉.md" title="wikilink">荷拉</a>[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭龍珠.md" title="wikilink">妮可</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姜知英.md" title="wikilink">知英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜知英" title="wikilink">知英</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/許齡智.md" title="wikilink">齡智</a></p></td>
@@ -111,7 +111,7 @@ PlotData =
 **新推《BLOOMING》韓国出道**
 
   - 原為四人團體的KARA(奎利、昇延、妮可、成熙)在**2007年3月29**日以歌曲〈Break
-    It〉於Mnet《[M\!Countdown](../Page/M!_Countdown.md "wikilink")》出道，她們當時以較為成熟、獨立和強硬的女性形象推出首張專輯《BLOOMING》。
+    It〉於Mnet《[M\!Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道，她們當時以較為成熟、獨立和強硬的女性形象推出首張專輯《BLOOMING》。
   - 首張專輯中收錄了Funky, hip hop等多種音樂風格，首支主打選用了以強勁力量襯托的Funky風格的舞曲曲風〈Break
     It〉，專輯的10首歌曲以8首新曲和2首 Instrumental
     進行，由與製作了[SS501](../Page/SS501.md "wikilink")
@@ -119,7 +119,7 @@ PlotData =
 
 <!-- end list -->
 
-  - 團體原本會在2008年3月推出她們的第二張專輯，但當時成熙突然因大學入學考試未錄取而受到家長方面的壓力，為完成學業而退出團體。其後，DSP宣佈Kara將會在5月推出一張迷你專輯，同時亦會透過選秀會選出兩名新成員加入。最後決定該兩名新成員為[荷拉及](../Page/具荷拉.md "wikilink")[知英](../Page/姜知英.md "wikilink")。在2008年7月24日，Kara以五人的新姿態以新歌曲〈Rock
+  - 團體原本會在2008年3月推出她們的第二張專輯，但當時成熙突然因大學入學考試未錄取而受到家長方面的壓力，為完成學業而退出團體。其後，DSP宣佈Kara將會在5月推出一張迷你專輯，同時亦會透過選秀會選出兩名新成員加入。最後決定該兩名新成員為[荷拉及](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")。在2008年7月24日，Kara以五人的新姿態以新歌曲〈Rock
     U〉於Mnet《M\!Countdown》迴歸，她們的形象亦同時轉變為活潑可愛的女孩。
 
 <!-- end list -->
@@ -129,22 +129,22 @@ PlotData =
     Girl〉的MV正式推出，並獲得正面的評價 女子團體Kara以「Party Girl」概念迴歸。
   - 2009年1月28日至2月2日，DSP在Kara的官方網站舉行了一個挑選繼〈Pretty
     Girl〉後的新宣傳單曲的投票，Kara後續曲29日開始在官方主頁上通過投票決定，最後由獲得6成票數的歌曲〈Honey〉奪得女子團體Kara確定《Pretty
-    Girl》的後續曲，並於2月16日發佈該單曲MV，韓國女子團體Kara近日公開了新曲《Honey》MV，而此曲已在2月13日於[KBS](../Page/KBS.md "wikilink")《[Music
-    Bank](../Page/Music_Bank.md "wikilink")》作首次表演並在19日推出第二張迷你專輯的特別版。
-  - Kara分別於3月5日及3月8日憑〈Honey〉於Mnet《M\!Countdown》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》獲得歌曲冠軍，這首歌同時成為了Kara第一首獲得冠軍的歌曲，女子團體Kara在SBS
+    Girl》的後續曲，並於2月16日發佈該單曲MV，韓國女子團體Kara近日公開了新曲《Honey》MV，而此曲已在2月13日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music
+    Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》作首次表演並在19日推出第二張迷你專輯的特別版。
+  - Kara分別於3月5日及3月8日憑〈Honey〉於Mnet《M\!Countdown》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍，這首歌同時成為了Kara第一首獲得冠軍的歌曲，女子團體Kara在SBS
     (韓國)|SBS TV《SBS人氣歌謠》獲得第一名。
 
 #### 2009年－2010年
 
   - Kara於2009年7月28日中以「嶄新」風格推出單曲〈Wanna〉，此歌曲很快便登上各數位單曲榜。7月30日專輯《REVOLUTION》正式發行。
-  - 迴歸活動由7月31日開始，在[KBS](../Page/KBS.md "wikilink")《Music
+  - 迴歸活動由7月31日開始，在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Music
     Bank》中，Kara一共表演了〈Wanna〉及〈Mister〉2首歌曲。Kara因歌曲〈Mister〉中的「Hip
     Dance」而人氣急升，Kara出演《大眾交通運動歌》MV，Kara團體本週結束專輯《MR》宣傳活動，亦因而比以往兩年獲得更多廣告商邀請代言或拍攝廣告。
-  - 2009年8月30日，〈Wanna〉於《[SBS人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》獲得歌曲冠軍。
+  - 2009年8月30日，〈Wanna〉於《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍。
   - DSP在2010年2月9日發放了2張有關新專輯的預告照片並引起了人們關註，因為這次的專輯概念比以往更呈現出了Kara更成熟、黑暗和神秘的一面。翌日，專輯封套發佈，概念為「偷盜者」，而新曲名為〈Lupin〉。〈Lupin〉推出後不久即登上多個網上音樂排行榜的第一位，MV預告片在2月12日於Naver發放。2月17日，迷你專輯《Lupin》正式發行。2月22日，〈Lupin〉MV發放，在首2個小時一共吸引了超過9萬人次觀看『엉덩이춤』
     카라 이번엔 어떤 춤? 『비상구춤 -할라춤 대박예감』，Kara在2月25日開始，於Mnet《M\!Countdown》作迴歸表演。
   - 在2010年3月4日，Kara首次憑〈Lupin〉於Mnet《M\!Countdown》獲得歌曲冠軍。緊接著的多個星期，Kara在《M\!Countdown》贏得另一個冠軍。3月12日，Kara自出道以來首次獲得《Music
-    Bank》的歌曲冠軍。而〈Lupin〉亦在[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/SBS人氣歌謠.md "wikilink")》獲得歌曲冠軍。Kara憑〈Lupin〉總共贏得6個獎項，這是她們目前憑單曲贏得最多的獎項數量。
+    Bank》的歌曲冠軍。而〈Lupin〉亦在[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍。Kara憑〈Lupin〉總共贏得6個獎項，這是她們目前憑單曲贏得最多的獎項數量。
   - KARA 最新迷你專輯《Jumping》在11月10日公開了音源和 MV 完整版。
   - 因在日韓同時發行而引起熱議的《Jumping》是一張混合了80年代歐洲流行風和現代音效的專輯。近日一直努力拓展日本市场，在日本成为新進韓流明星的
     KARA 時隔很長一段時間才出現在國内的舞台上，新造型登場的隊員們透出更加强烈的明星氣質讓粉絲眼前一亮。
@@ -154,15 +154,15 @@ PlotData =
 #### 2011年
 
   - 1月19日，除了隊長[奎利外](../Page/朴奎利.md "wikilink") KARA
-    的四位成員[昇延](../Page/韓昇延.md "wikilink")、[妮可](../Page/鄭龍珠.md "wikilink")、[荷拉](../Page/具荷拉.md "wikilink")、[知英](../Page/姜知英.md "wikilink")表示將單方面與[DSP
-    Media脫離合約](../Page/DSP_Media.md "wikilink")，後來[荷拉表示不會解約](../Page/具荷拉.md "wikilink")。**Kara**的律師
+    的四位成員[昇延](../Page/韓昇延.md "wikilink")、[妮可](../Page/鄭龍珠.md "wikilink")、[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")表示將單方面與[DSP
+    Media脫離合約](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，後來[荷拉表示不會解約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")。**Kara**的律師
     LAND MARK
     表示長期以來經紀公司靠自己權力強迫超負荷工作，不和成員們溝通私下隨意增加節目通告，包括不想參加的活動，而且必須參與所有的工作行程。KARA認為無法和公司恢復信任關係是導致解約的最大原因，成員收入只得到總收入1%
     。
   - 1月27日，DSP 和三人父母進行會談並取得部分共識後 DSP
     表示五人將暫時繼續完成在日本已定的團體行程，而DSP公司與成員父母對外說明
     KARA 成員皆強烈表達「要五人繼續一起」的意願。
-  - 日本已定行程完成後2月14日三人正式起訴經紀公司，聲稱10年1月至6月每人共拿到了86,0000元韓圜（5000元[人民幣](../Page/人民幣.md "wikilink")/約22670元新台幣）
+  - 日本已定行程完成後2月14日三人正式起訴經紀公司，聲稱10年1月至6月每人共拿到了86,0000元韓圜（5000元[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")/約22670元新台幣）
     ，也就是相當於每人每月隻拿到了約14,0000元[韓圜](../Page/韓圓.md "wikilink")（800元人民幣/約3687元新台幣）。
   - 提出解約的成員三人更換原先的律師代表，改為 Hankyul 事務所。
   - 2月15日，韓國歌手協會（KSA）會長太真兒表達幫助雙方開啟仲裁程序的意願，2月18日太真兒宣佈雙方已同意接受仲裁，最快於2月19日開啟仲裁程序。
@@ -204,7 +204,7 @@ PlotData =
 **成員退出、重組**
 
   - 1月14日，DSP經紀公司發表聲明[妮可正式宣布退出](../Page/鄭龍珠.md "wikilink")**Kara**。\[5\]
-  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](../Page/姜知英.md "wikilink")**Kara**。\[6\]
+  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](https://zh.wikipedia.org/wiki/姜知英 "wikilink")**Kara**。\[6\]
   - 7月1日，DSP經紀公司發表聲明[齡智正式宣佈加入](../Page/許齡智.md "wikilink")**Kara**。\[7\]
   - 7月11日，DSP經紀公司發表聲明重新整合的4人女团KARA将于8月回归韩国乐坛。\[8\]
   - 7月24日，根據韓國DSP經紀公司消息，Kara加入新成員[齡智後將於](../Page/許齡智.md "wikilink")8月18日帶著第六張迷你專輯\<\<Day
@@ -214,7 +214,7 @@ PlotData =
   - 7月28日 至 7月31日，KARA官方facebook網頁公開首波成員個人概念，順序由 齡智、奎利、昇延、荷拉。
   - 8月1日，KARA官方facebook網頁公開第六張迷你專輯團體概念照，也公開了主打歌名稱《Mamma
     Mia》。這首歌也是攜手知名創作團隊
-    [二段橫踢](../Page/二段橫踢.md "wikilink")
+    [二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")
     打造以Sweetune風格而不失KARA原有風格的作品。
   - 8月8日，KARA官方公開第六張迷你專輯曲目，並在官方Youtube頻道公開曲目的預覽音源。
   - 8月11日 至 14日，KARA官方Youtube頻道公開個人概念預告，順序由 齡智、奎利、昇延、荷拉。
@@ -269,14 +269,14 @@ PlotData =
 #### 2011年
 
   - 2011年度 Oricon Top 100排名，Kara於排行榜中分別以[GO GO
-    Summer\!](../Page/GO_GO_Summer!.md "wikilink") (總銷售量:
-    230,082)獲得第25位、[Jet Coaster
+    Summer\!](https://zh.wikipedia.org/wiki/GO_GO_Summer! "wikilink")
+    (總銷售量: 230,082)獲得第25位、[Jet Coaster
     Love](../Page/Jet_Coaster_Love.md "wikilink") (總銷售量:
     225,175)獲得第26位及Winter Magic獲得第64位。
   - 1月23日，發行MV精選輯DVD《KARA BEST CLIPS》，發行首周銷量達到13.2萬張，拿下Oricon DVD
     綜合排行榜的週榜冠軍，成為第一個拿下日本公信榜DVD綜合排行榜冠軍的海外女性藝人，而首周銷量也打破女性藝人非現場演出類的DVD銷量紀錄（原紀錄為2000年[倉木麻衣](../Page/倉木麻衣.md "wikilink")《FIRST
     CUT》9.9萬張）。
-  - 3月，Kara出道後僅八個月在日本發行的影音產品總銷售量即突破100萬張。成為繼[BoA](../Page/BoA.md "wikilink")、[東方神起後第三位達到此銷售量的韓國藝人](../Page/東方神起.md "wikilink")。
+  - 3月，Kara出道後僅八個月在日本發行的影音產品總銷售量即突破100萬張。成為繼[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[東方神起後第三位達到此銷售量的韓國藝人](../Page/東方神起.md "wikilink")。
   - 4月，Kara在日本推出第三張單曲《[Jet Coaster
     Love](../Page/Jet_Coaster_Love.md "wikilink")》，發行僅一週即賣出超過10萬張，並獲得日本ORICON公信榜單曲周榜冠軍，此為海外女子團體發行首周即奪得單曲周榜冠軍的首次。
   - 11月, Kara首張日文專輯《Girl's Talk》銷量突破50萬張。去年12月推出的首張日文專輯《Girl's
@@ -338,16 +338,16 @@ PlotData =
 
 ## 音樂作品
 
-主條目：[Kara音樂作品列表](../Page/Kara音樂作品列表.md "wikilink")
+主條目：[Kara音樂作品列表](https://zh.wikipedia.org/wiki/Kara音樂作品列表 "wikilink")
 
 ### 韓語
 
 #### 正規專輯
 
   - 2007年：[the First
-    Bloooooming](../Page/the_First_Bloooooming.md "wikilink")
+    Bloooooming](https://zh.wikipedia.org/wiki/the_First_Bloooooming "wikilink")
   - 2009年：[REVOLUTION](../Page/REVOLUTION.md "wikilink")
-  - 2011年：[STEP](../Page/STEP.md "wikilink")
+  - 2011年：[STEP](https://zh.wikipedia.org/wiki/STEP "wikilink")
   - 2013年：[FULL BLOOM](../Page/FULL_BLOOM.md "wikilink")
 
 #### 迷你專輯
@@ -357,7 +357,8 @@ PlotData =
   - 2010年：[Lupin](../Page/Lupin.md "wikilink")
   - 2010年：[Jumping](../Page/Jumping.md "wikilink")
   - 2012年：[PANDORA](../Page/PANDORA_\(Kara迷你專輯\).md "wikilink")
-  - 2014年：[Day & Night](../Page/Day_&_Night_\(Kara迷你專輯\).md "wikilink")
+  - 2014年：[Day &
+    Night](https://zh.wikipedia.org/wiki/Day_&_Night_\(Kara迷你專輯\) "wikilink")
   - 2015年：[IN LOVE](../Page/IN_LOVE_\(Kara迷你專輯\).md "wikilink")
 
 ### 日語
@@ -414,7 +415,7 @@ PlotData =
 | 2013年11月23-24日 | 神户站  | 神户世界音乐厅   |
 
   - Kara 3rd日本巡迴演唱會（[KARA 3rd JAPAN TOUR 2014
-    KARASIA](../Page/KARA_3rd_JAPAN_TOUR_2014_KARASIA.md "wikilink")）
+    KARASIA](https://zh.wikipedia.org/wiki/KARA_3rd_JAPAN_TOUR_2014_KARASIA "wikilink")）
 
 |                |      |                    |
 | -------------- | ---- | ------------------ |
@@ -428,7 +429,7 @@ PlotData =
 | 2014年11月18-19日 | 横浜站  | 横浜アリーナ             |
 
   - Kara 4th日本巡迴演唱會（[KARA 4th JAPAN TOUR 2015
-    KARASIA](../Page/KARA_4th_JAPAN_TOUR_2015_KARASIA.md "wikilink")）
+    KARASIA](https://zh.wikipedia.org/wiki/KARA_4th_JAPAN_TOUR_2015_KARASIA "wikilink")）
 
 |                     |     |                   |
 | ------------------- | --- | ----------------- |
@@ -443,48 +444,48 @@ PlotData =
 
   - Kara其他大型演唱會
 
-|             |                                                   |                            |
-| ----------- | ------------------------------------------------- | -------------------------- |
-| 日期          | 演唱會名稱                                             | 舉行地點                       |
-| 2007年6月9日   | 2007 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2009年10月10日 | 2009 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2010年5月22日  | 2010 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2010年8月29日  | 2010 仁川韓流演唱會                                      | 仁川文鶴世界盃競技場                 |
-| 2010年9月12日  | 韓流夢想演唱會                                           | 慶州市市民運動場                   |
-| 2010年12月2日  | 2010 第十二屆[中韓歌會](../Page/中韓歌會.md "wikilink")       | 首爾KBS電視台演播廳                |
-| 2011年5月28日  | 2011 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2011年7月13日  | K-POP FESTIVAL-MUSIC BANK IN TOKYO                | 東京巨蛋                       |
-| 2011年8月13日  | 2011 仁川韓流演唱會                                      | 仁川文鶴競技場                    |
-| 2011年8月20日  | K-pop All Star Live in 新潟                         | 新潟體育場                      |
-| 2011年8月23日  | K-POP Girls in Love LIVE in HK 2011               | 香港亞洲國際博覽館                  |
-| 2011年10月8日  | 2018 平昌冬季奧運演唱會                                    | 平昌Alpensia滑雪渡假村            |
-| 2011年10月28日 | 2011 釜山煙花節韓流演唱會                                   | 釜山廣安里海水浴場                  |
-| 2011年11月12日 | 澳洲韓流音樂節（2011 K-Pop Music Festival in Sydney）      | 雪梨ANZ Stadium              |
-| 2012年1月27日  | KISS演唱會                                           | 日本國立代代木第一體育館               |
-| 2012年5月12日  | 2012 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2012年5月22日  | MBC Korean Music Wave in Google演唱會                | 美國加州Shoreline Amphitheatre |
-| 2012年7月14日  | MTV世界舞台演唱會                                        | 馬來西亞 Sunway Lagoon 雙威水上樂園  |
-| 2012年8月25日  | 2012 第十四屆[中韓歌會](../Page/中韓歌會.md "wikilink")       | 麗水世博園數碼走廊                  |
-| 2012年9月23日  | 慶州韓流夢想演唱會                                         |                            |
-| 2012年10月4日  | M\!Countdown Smile Thailand 演唱會                   | 拉加曼加拉體育場                   |
-| 2012年10月4日  | Hallyu Dream Concert 大型演唱會                        | 慶州市民運動場                    |
-| 2012年10月18日 | 文化時尚演唱會(K-Collection in Okinawa)                  | 沖繩Cellular體育場              |
-| 2012年11月10日 | SBS K-POP Super Concert In LA                     | 美國洛杉磯Verizon Amphitheater  |
-| 2013年3月2日   | U-EXPRESS LIVE 2013                               | 千叶                         |
-| 2013年3月16日  | MBC Korean Music Wave in Bangkok 2013 演唱會         | 拉加曼加拉国家体育场                 |
-| 2013年5月11日  | 2013 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2013年9月1日   | 2013 仁川韓流演唱會                                      | 仁川文鶴世界盃體育場                 |
-| 2013年11月16日 | MBC Korean Music Wave in Singapore 2013 演唱會       | 新加坡濱海灣花園                   |
-| 2014年9月17日  | 2014仁川韓流觀光演唱會                                     | 仁川國際貿易地區                   |
-| 2014年9月28日  | 2014慶州韓流夢想慶典                                      | 慶州居民運動場                    |
-| 2015年5月23日  | 2015 [Dream Concert](../Page/夢想演唱會.md "wikilink") | 首爾世界盃競技場                   |
-| 2015年6月29日  | K-Live極限璀璨之夜 Kara\&Boyfriend 演唱會                  | 上海大舞台                      |
-| 2015年8月7日   | 《LAVIE presents MTV ZUSHI FES 15》                 | 神奈川県・リビエラ逗子マリーナ特设会场        |
-| 2015年8月8日   | Romantic K-pop Music Festival In Sokcho           | 束草                         |
-| 2015年9月20日  | 2015慶州韓流夢想慶典                                      | 慶州居民運動場                    |
-| 2015年10月9日  | ONE K演唱會                                          | 首爾世界盃競技場                   |
-| 2015年12月5日  | YY玩唱會                                             | 上海                         |
-|             |                                                   |                            |
+|             |                                                                |                            |
+| ----------- | -------------------------------------------------------------- | -------------------------- |
+| 日期          | 演唱會名稱                                                          | 舉行地點                       |
+| 2007年6月9日   | 2007 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2009年10月10日 | 2009 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2010年5月22日  | 2010 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2010年8月29日  | 2010 仁川韓流演唱會                                                   | 仁川文鶴世界盃競技場                 |
+| 2010年9月12日  | 韓流夢想演唱會                                                        | 慶州市市民運動場                   |
+| 2010年12月2日  | 2010 第十二屆[中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink") | 首爾KBS電視台演播廳                |
+| 2011年5月28日  | 2011 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2011年7月13日  | K-POP FESTIVAL-MUSIC BANK IN TOKYO                             | 東京巨蛋                       |
+| 2011年8月13日  | 2011 仁川韓流演唱會                                                   | 仁川文鶴競技場                    |
+| 2011年8月20日  | K-pop All Star Live in 新潟                                      | 新潟體育場                      |
+| 2011年8月23日  | K-POP Girls in Love LIVE in HK 2011                            | 香港亞洲國際博覽館                  |
+| 2011年10月8日  | 2018 平昌冬季奧運演唱會                                                 | 平昌Alpensia滑雪渡假村            |
+| 2011年10月28日 | 2011 釜山煙花節韓流演唱會                                                | 釜山廣安里海水浴場                  |
+| 2011年11月12日 | 澳洲韓流音樂節（2011 K-Pop Music Festival in Sydney）                   | 雪梨ANZ Stadium              |
+| 2012年1月27日  | KISS演唱會                                                        | 日本國立代代木第一體育館               |
+| 2012年5月12日  | 2012 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2012年5月22日  | MBC Korean Music Wave in Google演唱會                             | 美國加州Shoreline Amphitheatre |
+| 2012年7月14日  | MTV世界舞台演唱會                                                     | 馬來西亞 Sunway Lagoon 雙威水上樂園  |
+| 2012年8月25日  | 2012 第十四屆[中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink") | 麗水世博園數碼走廊                  |
+| 2012年9月23日  | 慶州韓流夢想演唱會                                                      |                            |
+| 2012年10月4日  | M\!Countdown Smile Thailand 演唱會                                | 拉加曼加拉體育場                   |
+| 2012年10月4日  | Hallyu Dream Concert 大型演唱會                                     | 慶州市民運動場                    |
+| 2012年10月18日 | 文化時尚演唱會(K-Collection in Okinawa)                               | 沖繩Cellular體育場              |
+| 2012年11月10日 | SBS K-POP Super Concert In LA                                  | 美國洛杉磯Verizon Amphitheater  |
+| 2013年3月2日   | U-EXPRESS LIVE 2013                                            | 千叶                         |
+| 2013年3月16日  | MBC Korean Music Wave in Bangkok 2013 演唱會                      | 拉加曼加拉国家体育场                 |
+| 2013年5月11日  | 2013 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2013年9月1日   | 2013 仁川韓流演唱會                                                   | 仁川文鶴世界盃體育場                 |
+| 2013年11月16日 | MBC Korean Music Wave in Singapore 2013 演唱會                    | 新加坡濱海灣花園                   |
+| 2014年9月17日  | 2014仁川韓流觀光演唱會                                                  | 仁川國際貿易地區                   |
+| 2014年9月28日  | 2014慶州韓流夢想慶典                                                   | 慶州居民運動場                    |
+| 2015年5月23日  | 2015 [Dream Concert](../Page/夢想演唱會.md "wikilink")              | 首爾世界盃競技場                   |
+| 2015年6月29日  | K-Live極限璀璨之夜 Kara\&Boyfriend 演唱會                               | 上海大舞台                      |
+| 2015年8月7日   | 《LAVIE presents MTV ZUSHI FES 15》                              | 神奈川県・リビエラ逗子マリーナ特设会场        |
+| 2015年8月8日   | Romantic K-pop Music Festival In Sokcho                        | 束草                         |
+| 2015年9月20日  | 2015慶州韓流夢想慶典                                                   | 慶州居民運動場                    |
+| 2015年10月9日  | ONE K演唱會                                                       | 首爾世界盃競技場                   |
+| 2015年12月5日  | YY玩唱會                                                          | 上海                         |
+|             |                                                                |                            |
 
 ## 影視作品
 
@@ -628,10 +629,10 @@ PlotData =
 <td><p>2011年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/STEP.md" title="wikilink">STEP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/STEP" title="wikilink">STEP</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/STEP.md" title="wikilink">STEP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/STEP" title="wikilink">STEP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>

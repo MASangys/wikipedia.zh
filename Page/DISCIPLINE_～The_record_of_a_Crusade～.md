@@ -1,13 +1,13 @@
 《**DISCIPLINE～The record of a
-Crusade～**》（）為2002年8月30日，由[Active發售的](../Page/Active.md "wikilink")[日本成人遊戲並且還有以原作加改編的](../Page/日本成人遊戲.md "wikilink")[OVA動畫](../Page/OVA.md "wikilink")。
+Crusade～**》（）為2002年8月30日，由[Active發售的](https://zh.wikipedia.org/wiki/Active "wikilink")[日本成人遊戲並且還有以原作加改編的](../Page/日本成人遊戲.md "wikilink")[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 概要
 
-為繼《[HEARTWORK](../Page/HEARTWORK.md "wikilink")》、《[Bible
-Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終作](../Page/聖少女.md "wikilink")；和前2作相比，本作的[鬼畜風格沒這麼重](../Page/鬼畜.md "wikilink")，是一大的不同點。
+為繼《[HEARTWORK](https://zh.wikipedia.org/wiki/HEARTWORK "wikilink")》、《[Bible
+Black](https://zh.wikipedia.org/wiki/Bible_Black "wikilink")》後，[聖少女三部作的最終作](../Page/聖少女.md "wikilink")；和前2作相比，本作的[鬼畜風格沒這麼重](../Page/鬼畜.md "wikilink")，是一大的不同點。
 
 2009年5月29日發售本作前傳的《**[DISCIPLINE
-零](../Page/DISCIPLINE_零.md "wikilink")**》。
+零](https://zh.wikipedia.org/wiki/DISCIPLINE_零 "wikilink")**》。
 
 ## 故事大綱
 
@@ -18,7 +18,7 @@ Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終�
 下面角色介紹來自動畫版和遊戲版。
 
   - 早見 拓郎（はやみ たくろう）
-    [声](../Page/声優.md "wikilink")：[小池竹藏](../Page/小池竹藏.md "wikilink")
+    [声](https://zh.wikipedia.org/wiki/声優 "wikilink")：[小池竹藏](https://zh.wikipedia.org/wiki/小池竹藏 "wikilink")
     本作男主角。因為性器官優異而因此進入聖阿爾卡迪亞學園，並因此成為蕾歐娜鎖定的目標。
     和音川等人是室友，也常被宮岸等損友戲弄，故事最後和音川成為戀人。
 
@@ -33,7 +33,7 @@ Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終�
 
   - 宮岸 勇氣（みやぎし ゆうき）
     声：Yuki-Lin
-    早見的同學和室友。性欲旺盛且運動神經優秀。身材是宿舍中最好的，但性格也是裡面最[腹黑的](../Page/腹黑.md "wikilink")。
+    早見的同學和室友。性欲旺盛且運動神經優秀。身材是宿舍中最好的，但性格也是裡面最[腹黑的](https://zh.wikipedia.org/wiki/腹黑 "wikilink")。
     在早見剛進來時，就以她的肉體來誘惑他。
 
 <!-- end list -->
@@ -46,28 +46,28 @@ Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終�
 <!-- end list -->
 
   - 金田 麻衣子（かねだ まいこ）
-    声：[須本綾奈](../Page/須本綾奈.md "wikilink")
+    声：[須本綾奈](https://zh.wikipedia.org/wiki/須本綾奈 "wikilink")
     早見的同學和室友。是個典型的勤學少女，沒什麼表情也相當沉默。但其實個性相當黑心，性欲也相當旺盛。
     在故事中負責策畫行動，可說是宿舍中的軍師。
 
 <!-- end list -->
 
   - 森本蕾歐娜（もりもと れおな）
-    声：[北條明日香](../Page/北條明日香.md "wikilink")
+    声：[北條明日香](https://zh.wikipedia.org/wiki/北條明日香 "wikilink")
     早見的同學，大公司‧森本財團的千金。因為聖阿爾卡迪亞學園由森本財團所經營，所以把學園看作是自己的東西。性格相當殘忍且相當自我中心，對於自己的獵物早見一直緊盯不放。
     擁有許多跟班，也是學校的學生組織「學友會」的會長和社交俱樂部的部長。
 
 <!-- end list -->
 
   - 森本蕾娜（もりもと れいな）
-    声：[深井晴花](../Page/深井晴花.md "wikilink")
+    声：[深井晴花](https://zh.wikipedia.org/wiki/深井晴花 "wikilink")
     蕾歐娜的姐姐，也是學校的理事長。性格殘忍無情，縱容妹妹無法無天的舉止。建立學校的目的則是要訓練出一批女性以肉體為武器要來控制整個政經界，但後面被早見他們找到這份名單而稍微收斂一點。
     性欲之旺盛不輸給蕾歐娜，所以也看上了性能力優異的早見。
 
 <!-- end list -->
 
   - 松野 香織（まつの かおり）
-    声：[内村みるく](../Page/内村みるく.md "wikilink")
+    声：[内村みるく](https://zh.wikipedia.org/wiki/内村みるく "wikilink")
     早見的班導師。是個年輕的美女，因為親眼見識到早見的厲害而一直對他相當注目。
     同時也是森本姐妹的手下，但經常被她們當作玩具一樣加以凌辱。
 
@@ -80,14 +80,14 @@ Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終�
 <!-- end list -->
 
   - 姬木 可憐（ひめき かれん）
-    声：[如月美琴](../Page/如月美琴.md "wikilink")
-    森本蕾歐娜的跟班之一，社交俱樂部的副部長。言行舉止看似平穩，但其實相當淫亂而且喜歡[精液的味道](../Page/精液.md "wikilink")。
+    声：[如月美琴](https://zh.wikipedia.org/wiki/如月美琴 "wikilink")
+    森本蕾歐娜的跟班之一，社交俱樂部的副部長。言行舉止看似平穩，但其實相當淫亂而且喜歡[精液的味道](https://zh.wikipedia.org/wiki/精液 "wikilink")。
     有著要以公尺來計算的胸圍，還曾以她的[巨乳來壓迫早見](../Page/巨乳.md "wikilink")。
 
 <!-- end list -->
 
   - 山形早紀
-    声：[みすみ](../Page/みすみ.md "wikilink")
+    声：[みすみ](https://zh.wikipedia.org/wiki/みすみ "wikilink")
 
 <!-- end list -->
 
@@ -136,7 +136,7 @@ Black](../Page/Bible_Black.md "wikilink")》後，[聖少女三部作的最終�
 <!-- end list -->
 
   - 須藤（すどう）
-    声：[中澤步](../Page/中澤步.md "wikilink")
+    声：[中澤步](https://zh.wikipedia.org/wiki/中澤步 "wikilink")
     早見的同學。精通許多事情且常會輕舉妄動。比早見更早轉入學校，雖然很常靠近早見，但對早見來說就像是瘟神一樣，和這個男人來往的話，也很容易遇到不幸。
     攝影部的部長，但私底下卻做一些見不得人的勾當。
 

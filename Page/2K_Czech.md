@@ -1,8 +1,9 @@
 **2K Czech**（原名**Illusion
-Softworks**）是位于[捷克](../Page/捷克.md "wikilink")[布尔诺的一家电子游戏开发商](../Page/布尔诺.md "wikilink")，由Petr
+Softworks**）是位于[捷克](../Page/捷克.md "wikilink")[布尔诺的一家电子游戏开发商](https://zh.wikipedia.org/wiki/布尔诺 "wikilink")，由Petr
 Vochozka及其投资伙伴Cash Reform
-Group于1997年创立。该公司主要研发[第一人称射击和](../Page/第一人称射击.md "wikilink")[第三人称射击游戏](../Page/第三人称射击游戏.md "wikilink")。截止2003年11月，已有170名员工。2017年，2K宣布将2K
-Czech合并到在2014年成立的工作室[Hangar 13](../Page/Hangar_13.md "wikilink")。
+Group于1997年创立。该公司主要研发[第一人称射击和](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")。截止2003年11月，已有170名员工。2017年，2K宣布将2K
+Czech合并到在2014年成立的工作室[Hangar
+13](https://zh.wikipedia.org/wiki/Hangar_13 "wikilink")。
 
 ## 外部链接
 

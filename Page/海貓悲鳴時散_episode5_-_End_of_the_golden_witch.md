@@ -27,7 +27,8 @@ Market](../Page/Comic_Market.md "wikilink")76發表。
     奇跡之魔女貝倫卡絲泰露賦予古戶繪梨花特殊的偵探權限。棋盤上的人物中無人能阻止偵探的現場驗證。偵探也不會錯認可能驗證的情報。
   - Eiserne Jungfrau
     天界大法院所轄的異端審問機關。
-  - [諾克斯十誡](../Page/推理小說十誡.md "wikilink")（Knox's Ten Commandments）
+  - [諾克斯十誡](https://zh.wikipedia.org/wiki/推理小說十誡 "wikilink")（Knox's Ten
+    Commandments）
     19年前之男
     在本故事中打電話要脅夏妃的神秘男子。
   - GAME MASTER

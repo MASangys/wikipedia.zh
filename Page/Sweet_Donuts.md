@@ -1,10 +1,10 @@
 「**Sweet
-Donuts**」（スウィートドーナッツ）是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume非主流時期的第一張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2003年8月6日發行。唱片公司為[BEE-HIVE
-RECORDS](../Page/BEE-HIVE_RECORDS.md "wikilink")。
+Donuts**」（スウィートドーナッツ）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume非主流時期的第一張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2003年8月6日發行。唱片公司為[BEE-HIVE
+RECORDS](https://zh.wikipedia.org/wiki/BEE-HIVE_RECORDS "wikilink")。
 
 ## 解説
 
-  - 本作是團體由[廣島上京後](../Page/廣島.md "wikilink")，把名稱從**ぱふゅ～む**改作**Perfume**，並以該名義發行的第一張單曲。這張單曲亦是Perfume第一張由[中田康貴擔任製作人的單曲](../Page/中田康貴.md "wikilink")。
+  - 本作是團體由[廣島上京後](https://zh.wikipedia.org/wiki/廣島 "wikilink")，把名稱從**ぱふゅ～む**改作**Perfume**，並以該名義發行的第一張單曲。這張單曲亦是Perfume第一張由[中田康貴擔任製作人的單曲](../Page/中田康貴.md "wikilink")。
   - B面曲是組合Juicy
     Fruits的歌曲「珍妮心情不好」的翻唱版本，由近田春夫作曲。Perfume在廣島進行活動時，負責培育新人的前Juicy
     Fruits成員柴矢俊彦，希望Perfume能翻唱這首歌，於是交給中田康貴作重新編曲。從[Chocolate

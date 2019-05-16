@@ -1,5 +1,5 @@
 **AddThis**是由多姆·沃纳伯格（Dom
-Vonarburg）创立并由[甲骨文公司拥有的一个](../Page/甲骨文公司.md "wikilink")[社会性书签服务](../Page/社会性书签.md "wikilink")。它可以与网站进行整合，访客即可用它将网站上的某些内容通过其他网络服务收藏或分享，诸如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](../Page/MySpace.md "wikilink")、[Google书签](../Page/Google书签.md "wikilink")、[Twitter等](../Page/Twitter.md "wikilink")\[1\]。该服务曾经由AddThis，Inc.，AddThis，LLC和[Clearspring公司等公司运营](../Page/Clearspring公司.md "wikilink")，直至该公司于2016年1月5日被[甲骨文公司收购](../Page/甲骨文公司.md "wikilink")。\[2\]
+Vonarburg）创立并由[甲骨文公司拥有的一个](../Page/甲骨文公司.md "wikilink")[社会性书签服务](https://zh.wikipedia.org/wiki/社会性书签 "wikilink")。它可以与网站进行整合，访客即可用它将网站上的某些内容通过其他网络服务收藏或分享，诸如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Google书签](https://zh.wikipedia.org/wiki/Google书签 "wikilink")、[Twitter等](../Page/Twitter.md "wikilink")\[1\]。该服务曾经由AddThis，Inc.，AddThis，LLC和[Clearspring公司等公司运营](https://zh.wikipedia.org/wiki/Clearspring公司 "wikilink")，直至该公司于2016年1月5日被[甲骨文公司收购](../Page/甲骨文公司.md "wikilink")。\[2\]
 
 ## 参考
 

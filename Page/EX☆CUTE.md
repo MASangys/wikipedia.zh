@@ -1,5 +1,5 @@
 **EX☆CUTE**（）是[日本](../Page/日本.md "wikilink")[AZONE
-INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](../Page/玩偶.md "wikilink")。
+INTERNATIONAL所販售的](../Page/AZONE.md "wikilink")[人偶](https://zh.wikipedia.org/wiki/玩偶 "wikilink")。
 
 ## 概要
 

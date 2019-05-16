@@ -1,5 +1,5 @@
 **TopCoder**，是一家专门组织计算机程序设计竞赛的公司。TopCoder
-在线举行算法竞赛（SRMs）、组件设计竞赛和组件开发竞赛。算法竞赛在世界上与[ACM](../Page/ACM国际大学生程序设计竞赛.md "wikilink")、[Google
+在线举行算法竞赛（SRMs）、组件设计竞赛和组件开发竞赛。算法竞赛在世界上与[ACM](https://zh.wikipedia.org/wiki/ACM国际大学生程序设计竞赛 "wikilink")、[Google
 Code Jam并称为三大赛](../Page/Google_Code_Jam.md "wikilink")。 \[1\]
 
 ## 算法竞赛

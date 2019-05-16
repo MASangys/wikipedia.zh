@@ -1,9 +1,9 @@
-**「RADI-ON\!」特別版\!**（[日語](../Page/日語.md "wikilink")：）是2010年2月24日由[PONY
-CANYON發行的](../Page/PONY_CANYON.md "wikilink")《[K-ON\!網路廣播](../Page/K-ON!#網路廣播.md "wikilink")》的廣播CD。
+**「RADI-ON\!」特別版\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是2010年2月24日由[PONY
+CANYON發行的](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")《[K-ON\!網路廣播](https://zh.wikipedia.org/wiki/K-ON!#網路廣播 "wikilink")》的廣播CD。
 
 ## 概要
 
-[電視動畫](../Page/電視動畫.md "wikilink")『[K-ON\!](../Page/K-ON!.md "wikilink")』的[網路廣播](../Page/網路廣播.md "wikilink")『らじおん\!』的CD版。
+[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的[網路廣播](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")『らじおん\!』的CD版。
 
 ## Vol.1
 
@@ -23,7 +23,7 @@ CANYON發行的](../Page/PONY_CANYON.md "wikilink")《[K-ON\!網路廣播](../Pa
 <!-- end list -->
 
   - 錄音員
-    [豊崎愛生](../Page/豊崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[寿美菜子](../Page/寿美菜子.md "wikilink")
+    [豊崎愛生](https://zh.wikipedia.org/wiki/豊崎愛生 "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")
   - 嘉賓
     [竹達彩奈](../Page/竹達彩奈.md "wikilink")
 
@@ -48,7 +48,8 @@ CANYON發行的](../Page/PONY_CANYON.md "wikilink")《[K-ON\!網路廣播](../Pa
       -
         ★「ふわふわ時間」
           -
-            作詞：秋山澪 作曲／編曲：[前澤寛之](../Page/前澤寛之.md "wikilink")
+            作詞：秋山澪
+            作曲／編曲：[前澤寛之](https://zh.wikipedia.org/wiki/前澤寛之 "wikilink")
             歌：平澤唯 コーラス：秋山澪
         ★「わたしの恋はホッチキス」
           -

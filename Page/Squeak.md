@@ -2,14 +2,14 @@
 
 1996年，Smalltalk的发明者[艾伦·凯加入了迪斯尼公司](../Page/艾伦·凯.md "wikilink")，任Imagineering公司的副总裁，从事开发Squeak软件，当时是Smalltalk-80的版本。Dr.
 Geo
-II是用Squeak开发的。MIT媒体实验室推动的[OLPC计划](../Page/OLPC.md "wikilink")，采用Squeak作为开发环境。Squeak可以自由下载，不需任何费用，包括所有的[源代码](../Page/源代码.md "wikilink")，还附有[虚拟机器](../Page/虚拟机器.md "wikilink")（VM）。Squeak
-4.0有[MIT版权](../Page/MIT许可证.md "wikilink")。
+II是用Squeak开发的。MIT媒体实验室推动的[OLPC计划](../Page/OLPC.md "wikilink")，采用Squeak作为开发环境。Squeak可以自由下载，不需任何费用，包括所有的[源代码](../Page/源代码.md "wikilink")，还附有[虚拟机器](https://zh.wikipedia.org/wiki/虚拟机器 "wikilink")（VM）。Squeak
+4.0有[MIT版权](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。
 
 ## 图形介面架构
 
-  - [Morphic](../Page/Morphic.md "wikilink")，这是最重要的一个介面。
-  - [Etoys](../Page/Etoys.md "wikilink")，基于[Morphic](../Page/Morphic.md "wikilink")
-  - [Tweak](../Page/Tweak.md "wikilink")，新的实验介面。
+  - [Morphic](https://zh.wikipedia.org/wiki/Morphic "wikilink")，这是最重要的一个介面。
+  - [Etoys](https://zh.wikipedia.org/wiki/Etoys "wikilink")，基于[Morphic](https://zh.wikipedia.org/wiki/Morphic "wikilink")
+  - [Tweak](https://zh.wikipedia.org/wiki/Tweak "wikilink")，新的实验介面。
   - Squeak versions
     3.8及更早的版本还有[MVC](../Page/MVC.md "wikilink")，是一种Model-View-Controller架构模板\[1\]。
 
@@ -17,8 +17,9 @@ II是用Squeak开发的。MIT媒体实验室推动的[OLPC计划](../Page/OLPC.m
 
 ## 参见
 
-  - [Seaside](../Page/Seaside.md "wikilink")
-  - [Scratch语言](../Page/Scratch语言.md "wikilink")，一個Squeak 的应用程序平台。
+  - [Seaside](https://zh.wikipedia.org/wiki/Seaside "wikilink")
+  - [Scratch语言](https://zh.wikipedia.org/wiki/Scratch语言 "wikilink")，一個Squeak
+    的应用程序平台。
   - [Pharo](../Page/Pharo.md "wikilink")
 
 ## 外部链接

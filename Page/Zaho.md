@@ -1,12 +1,12 @@
 **Zehira
-Darabid**，艺名**Zaho**，1980年5月10日出生于[阿尔及利亚](../Page/阿尔及利亚.md "wikilink")[瓦赫兰](../Page/瓦赫兰.md "wikilink")，是一位[R\&B歌手](../Page/R&B.md "wikilink")，现居[加拿大](../Page/加拿大.md "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")。\[1\]\[2\]
+Darabid**，艺名**Zaho**，1980年5月10日出生于[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[瓦赫兰](https://zh.wikipedia.org/wiki/瓦赫兰 "wikilink")，是一位[R\&B歌手](https://zh.wikipedia.org/wiki/R&B "wikilink")，现居[加拿大](../Page/加拿大.md "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")。\[1\]\[2\]
 
 ## 生平
 
-Zaho出生于阿尔及利亚[瓦赫兰](../Page/瓦赫兰.md "wikilink")，在[阿尔及尔的Bab](../Page/阿尔及尔.md "wikilink")
+Zaho出生于阿尔及利亚[瓦赫兰](https://zh.wikipedia.org/wiki/瓦赫兰 "wikilink")，在[阿尔及尔的Bab](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")
 Ezzouar长大，18岁随全家移居[加拿大](../Page/加拿大.md "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")。7岁时开始学习弹奏[吉他](../Page/吉他.md "wikilink")。她的父亲是一位执行官（executive），母亲则是大学的数学教授。
 
-2008年，发行了她的第一张专辑——*[Dima](../Page/Dima_\(专辑\).md "wikilink")*（意为“永远”）。
+2008年，发行了她的第一张专辑——*[Dima](https://zh.wikipedia.org/wiki/Dima_\(专辑\) "wikilink")*（意为“永远”）。
 
 ## 单曲
 

@@ -1,4 +1,4 @@
-是撰寫，[如月水繪製插畫的](../Page/如月水.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，由[ASCII
+是撰寫，[如月水繪製插畫的](https://zh.wikipedia.org/wiki/如月水 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，由[ASCII
 Media
 Works出版社之](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫出版發行](../Page/電擊文庫.md "wikilink")。中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")。
 

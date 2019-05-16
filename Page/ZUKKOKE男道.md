@@ -1,4 +1,4 @@
-《**ZUKKOKE男道**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")6張[單曲](../Page/單曲.md "wikilink")。從這張單曲開始，所屬的唱片公司便由演歌部門的TEICHIKU轉為流行音樂部門的IMPERIAL
+《**ZUKKOKE男道**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。從這張單曲開始，所屬的唱片公司便由演歌部門的TEICHIKU轉為流行音樂部門的IMPERIAL
 RECORDS。初回限定盤贈送的特典為「concert ON-OFF shot mini poster」。
 
 ## 收錄歌曲

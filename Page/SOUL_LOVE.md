@@ -1,5 +1,5 @@
 《**SOUL
-LOVE**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")14張[單曲](../Page/單曲.md "wikilink")。1998年4月29日與另一單曲《[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")》同時發行。
+LOVE**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年4月29日與另一單曲《[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")》同時發行。
 
 ## 簡介
 
@@ -12,11 +12,11 @@ LOVE》分別成為第1、第2位。使[GLAY成為繼](../Page/GLAY.md "wikilink
 
 1.  **SOUL LOVE**
       -
-        作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")
+        作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")
         Kracie「BRONZE LOVE '98夏」的活動歌曲
 2.  **AI**（）
       -
-        作詞、作曲：[HISASHI](../Page/HISASHI.md "wikilink")
+        作詞、作曲：[HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")
 3.  **SOUL LOVE (instrumental)**
 
 ## 參考資料

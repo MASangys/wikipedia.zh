@@ -1,10 +1,10 @@
 **Riemschneider硫代氨基甲酸酯合成**（Riemschneider thiocarbamate synthesis），以德国化学家
 Randolph Riemschneider 的名字命名。
 
-用[硫酸处理](../Page/硫酸.md "wikilink")[芳基](../Page/芳基.md "wikilink")[硫氰酸酯](../Page/硫氰酸酯.md "wikilink")，再用冰水水解，得到相应的芳香[硫代氨基甲酸酯](../Page/硫代氨基甲酸酯.md "wikilink")。\[1\]\[2\]\[3\]
+用[硫酸处理](../Page/硫酸.md "wikilink")[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硫氰酸酯](https://zh.wikipedia.org/wiki/硫氰酸酯 "wikilink")，再用冰水水解，得到相应的芳香[硫代氨基甲酸酯](https://zh.wikipedia.org/wiki/硫代氨基甲酸酯 "wikilink")。\[1\]\[2\]\[3\]
 
 
-[500px](../Page/image:riemschneider.png.md "wikilink")
+[500px](https://zh.wikipedia.org/wiki/image:riemschneider.png "wikilink")
 
 ## 参见
 

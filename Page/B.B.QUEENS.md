@@ -1,13 +1,13 @@
-**B.B.QUEENS**（），是[日本音樂製作公司](../Page/日本.md "wikilink")[Being,Inc.的企劃](../Page/Being,Inc..md "wikilink")[樂團](../Page/樂團.md "wikilink")。匯集了當時Being內的一班一流製作水準的音樂人。樂團名字「B.B.QUEENS」是源自在美國有「藍調之王」之稱的藍調吉他手[B·B·金](../Page/B·B·金.md "wikilink")(B.B.
+**B.B.QUEENS**（），是[日本音樂製作公司](../Page/日本.md "wikilink")[Being,Inc.的企劃](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。匯集了當時Being內的一班一流製作水準的音樂人。樂團名字「B.B.QUEENS」是源自在美國有「藍調之王」之稱的藍調吉他手[B·B·金](../Page/B·B·金.md "wikilink")(B.B.
 King)。
 
 B.B.QUEENS在1990年結成，於1993年停止活動，其中三名女和音亦在樂團活動期間另外組成了[Mi-Ke作單獨演出](../Page/Mi-Ke.md "wikilink")。B.B.QUEENS直至2011年再度復出。代表作是《[大家來跳舞](../Page/大家來跳舞.md "wikilink")》。
 
 ## 簡介
 
-1990年發行的第一張[單曲是用作](../Page/單曲.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")《[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")《[大家來跳舞](../Page/大家來跳舞.md "wikilink")》，奪得年度[Oricon公信榜單曲年榜冠軍](../Page/Oricon.md "wikilink")、[第32回](../Page/第32回日本唱片大賞.md "wikilink")[日本唱片大賞](../Page/日本唱片大賞.md "wikilink")\[1\]，並且在[第41回](../Page/第41回NHK紅白歌合戰.md "wikilink")[NHK紅白歌合戰上演唱](../Page/NHK紅白歌合戰.md "wikilink")。是[Being系壟斷日本樂壇未來數年的開端](../Page/Being.md "wikilink")。\[2\]
+1990年發行的第一張[單曲是用作](https://zh.wikipedia.org/wiki/單曲 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")《[大家來跳舞](../Page/大家來跳舞.md "wikilink")》，奪得年度[Oricon公信榜單曲年榜冠軍](../Page/Oricon.md "wikilink")、[第32回](https://zh.wikipedia.org/wiki/第32回日本唱片大賞 "wikilink")[日本唱片大賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")\[1\]，並且在[第41回](https://zh.wikipedia.org/wiki/第41回NHK紅白歌合戰 "wikilink")[NHK紅白歌合戰上演唱](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。是[Being系壟斷日本樂壇未來數年的開端](https://zh.wikipedia.org/wiki/Being "wikilink")。\[2\]
 
-B.B.QUEENS的三位成員[宇德敬子](../Page/宇德敬子.md "wikilink")、[村上遙和](../Page/村上遙.md "wikilink")[渡邊真美在樂團活動期間亦另外組成](../Page/渡邊真美.md "wikilink")[Mi-Ke作單獨演出](../Page/Mi-Ke.md "wikilink")。B.B.QUEENS在1992年因為合約糾紛宣布解散，於1993年2月在MUSIC
+B.B.QUEENS的三位成員[宇德敬子](https://zh.wikipedia.org/wiki/宇德敬子 "wikilink")、[村上遙和](https://zh.wikipedia.org/wiki/村上遙 "wikilink")[渡邊真美在樂團活動期間亦另外組成](https://zh.wikipedia.org/wiki/渡邊真美 "wikilink")[Mi-Ke作單獨演出](../Page/Mi-Ke.md "wikilink")。B.B.QUEENS在1992年因為合約糾紛宣布解散，於1993年2月在MUSIC
 STATION作最後演出後停止活動，其後樂團成員各自以個人名義繼續樂壇發展。
 
 事隔十九年，在2011年2月近藤房之助宣布，將與坪倉唯子、宇徳敬子及増崎孝司，再以B.B.QUEENS身份復出樂壇。其餘四個隊員，即村上遙、渡辺真美、栗林誠一郎、望月衛介則以專注幕後音樂工作、已退出樂壇等原因未有伴隨復出。同時為了慶祝櫻桃小丸子誕生二十五周年，在五月發表了復出後的新單曲「大家來跳舞～櫻桃小丸子誕生二十五周年版本」(「おどるポンポコリン〜ちびまる子ちゃん

@@ -60,7 +60,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
 
   - 公演期：2007年2月25日－6月26日
   - 出演成员
-      - [板野友美](../Page/板野友美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](../Page/大岛麻衣.md "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](../Page/小嶋阳菜.md "wikilink")、[驹谷仁美](../Page/驹谷仁美.md "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥南](../Page/高桥南.md "wikilink")（）、[户岛花](../Page/户岛花.md "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](../Page/成田梨纱.md "wikilink")、[星野满](../Page/星野满.md "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加弥乃](../Page/增山加弥乃.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）
+      - [板野友美](../Page/板野友美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](https://zh.wikipedia.org/wiki/小嶋阳菜 "wikilink")、[驹谷仁美](https://zh.wikipedia.org/wiki/驹谷仁美 "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥南](https://zh.wikipedia.org/wiki/高桥南 "wikilink")（）、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](https://zh.wikipedia.org/wiki/成田梨纱 "wikilink")、[星野满](https://zh.wikipedia.org/wiki/星野满 "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加弥乃](https://zh.wikipedia.org/wiki/增山加弥乃 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
 
   - 公演期：2008年4月20日－10月11日
   - 出演成员
-      - 板野友美、大江朝美、大岛麻衣、川崎希、小嶋陽菜、驹谷仁美、[佐藤亚美菜](../Page/佐藤亚美菜.md "wikilink")、佐藤由加理、篠田麻里子、高桥南、户岛花、中西里菜、成田梨纱、[藤江丽奈](../Page/藤江丽奈.md "wikilink")（）、前田敦子、峯岸南
+      - 板野友美、大江朝美、大岛麻衣、川崎希、小嶋陽菜、驹谷仁美、[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、佐藤由加理、篠田麻里子、高桥南、户岛花、中西里菜、成田梨纱、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")（）、前田敦子、峯岸南
   - 成員更替
       - [宮崎美穗和](../Page/宮崎美穗.md "wikilink")[北原里英分別于](../Page/北原里英.md "wikilink")2008年7月13日和2008年7月30日從研究生升格至Team
         A，但在当场公演期间是作为代演出场的。
@@ -93,7 +93,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
 
   - 公演期間：2008年5月22日－10月7日
   - 出演成員
-      - [藤江麗奈](../Page/藤江麗奈.md "wikilink")（）、[石田晴香](../Page/石田晴香.md "wikilink")、[內田真由美](../Page/內田真由美.md "wikilink")、[瓜屋茜](../Page/瓜屋茜.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[冨田麻友](../Page/冨田麻友.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")（）、[中塚智實](../Page/中塚智實.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[畑山亞梨紗](../Page/畑山亞梨紗.md "wikilink")、[藤本紗羅](../Page/藤本紗羅.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
+      - [藤江麗奈](../Page/藤江麗奈.md "wikilink")（）、[石田晴香](../Page/石田晴香.md "wikilink")、[內田真由美](../Page/內田真由美.md "wikilink")、[瓜屋茜](https://zh.wikipedia.org/wiki/瓜屋茜 "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小原春香](../Page/小原春香.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[冨田麻友](https://zh.wikipedia.org/wiki/冨田麻友 "wikilink")、[中田千智](../Page/中田千智.md "wikilink")（）、[中塚智實](../Page/中塚智實.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[畑山亞梨紗](https://zh.wikipedia.org/wiki/畑山亞梨紗 "wikilink")、[藤本紗羅](../Page/藤本紗羅.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")
   - 成員離開：宮崎在2008年7月13日升格到Team A。北原在2008年7月30日升格到Team
     A。指原在2008年8月2日升格到Team B。仁藤在2008年8月5日升格到Team
     B。中西在2008年8月26日移籍到[SKE48](../Page/SKE48.md "wikilink")。
@@ -107,12 +107,12 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
 ### AKB48 Team B 6th Stage「正在恋爱中」公演
 
   - 公演期間：2015年12月26日 -
-  - 出演成員：[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](../Page/内山奈月.md "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤玲奈](../Page/加藤玲奈.md "wikilink")、[木崎由里亚](../Page/木崎由里亚.md "wikilink")（）、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[坂口渚沙](../Page/坂口渚沙.md "wikilink")、[竹内美宥](../Page/竹内美宥.md "wikilink")、[達家真姫寶](../Page/達家真姫寶.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[横島亞衿](../Page/横島亞衿.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
+  - 出演成員：[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[大島涼花](../Page/大島涼花.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（）、[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫寶](https://zh.wikipedia.org/wiki/達家真姫寶 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[横島亞衿](https://zh.wikipedia.org/wiki/横島亞衿 "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
       - Team
-        B選秀研究生：[高橋希良](../Page/高橋希良.md "wikilink")、[西川怜](../Page/西川怜.md "wikilink")、[山邊歩夢](../Page/山邊歩夢.md "wikilink")
+        B選秀研究生：[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")、[西川怜](https://zh.wikipedia.org/wiki/西川怜 "wikilink")、[山邊歩夢](https://zh.wikipedia.org/wiki/山邊歩夢 "wikilink")
       - 助演的其他队伍成员：[大和田南那](../Page/大和田南那.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")（以上Team
-        A）、[铃木玛莉亚](../Page/铃木玛莉亚.md "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（以上Team
-        K）、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大川莉央](../Page/大川莉央.md "wikilink")、[岡田彩花](../Page/岡田彩花.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](../Page/佐藤妃星.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team
+        A）、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（以上Team
+        K）、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")（以上Team
         4）。
   - 内山奈月在出演了2016年1月31日的毕业公演之后于同年2月21日毕业。岩佐美咲在出演了2016年3月14日的毕业公演之后于同年5月21日毕业。渡邊美優紀于2016年8月9日畢業。
   - 分组曲擔當
@@ -143,7 +143,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
   - 公演期：2013年11月1日 - 2014年4月15日
   - 出演成员
       -
-        [赤澤萌乃](../Page/赤澤萌乃.md "wikilink")、[石塚朱莉](../Page/石塚朱莉.md "wikilink")、[井尻晏菜](../Page/井尻晏菜.md "wikilink")、[植田碧麗](../Page/植田碧麗.md "wikilink")、[梅原真子](../Page/梅原真子.md "wikilink")、[太田夢莉](../Page/太田夢莉.md "wikilink")、[加藤夕夏](../Page/加藤夕夏.md "wikilink")、[上枝惠美加](../Page/上枝惠美加.md "wikilink")、[日下木之實](../Page/日下木之實.md "wikilink")（）、[久代梨奈](../Page/久代梨奈.md "wikilink")、[黒川葉月](../Page/黒川葉月.md "wikilink")、[河野早紀](../Page/河野早紀.md "wikilink")、[小林莉加子](../Page/小林莉加子.md "wikilink")、[室加奈子](../Page/室加奈子.md "wikilink")、[藪下柊](../Page/藪下柊.md "wikilink")、[山內翼](../Page/山內翼.md "wikilink")（）
+        [赤澤萌乃](https://zh.wikipedia.org/wiki/赤澤萌乃 "wikilink")、[石塚朱莉](https://zh.wikipedia.org/wiki/石塚朱莉 "wikilink")、[井尻晏菜](https://zh.wikipedia.org/wiki/井尻晏菜 "wikilink")、[植田碧麗](https://zh.wikipedia.org/wiki/植田碧麗 "wikilink")、[梅原真子](../Page/梅原真子.md "wikilink")、[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[上枝惠美加](../Page/上枝惠美加.md "wikilink")、[日下木之實](https://zh.wikipedia.org/wiki/日下木之實 "wikilink")（）、[久代梨奈](https://zh.wikipedia.org/wiki/久代梨奈 "wikilink")、[黒川葉月](https://zh.wikipedia.org/wiki/黒川葉月 "wikilink")、[河野早紀](https://zh.wikipedia.org/wiki/河野早紀 "wikilink")、[小林莉加子](https://zh.wikipedia.org/wiki/小林莉加子 "wikilink")、[室加奈子](https://zh.wikipedia.org/wiki/室加奈子 "wikilink")、[藪下柊](https://zh.wikipedia.org/wiki/藪下柊 "wikilink")、[山內翼](https://zh.wikipedia.org/wiki/山內翼 "wikilink")（）
 
 ::\*初演开始因小林莉加子处于長期休业状态造成的15人体制，每次公演都有一名研究生支援演出\[1\]。小林自2013年12月9日起重新开始活动\[2\]，并从当天的公演开始正常演出\[3\]。2014年1月20日开始因山内翼脚伤而長期休業再次造成15人体制。梅原真子于2014年2月21日举行毕业公演，并于3月2日的活动中正式毕业。山内自4月4日开始继续活动，从12日的公演开始正常出演。小林莉加子于2014年4月10日举行毕业公演、20日的活动中正式毕业。
 
@@ -161,7 +161,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
   - 公演期：2015年12月19日 -
   - 出演成员
       -
-        [秋吉優花](../Page/秋吉優花.md "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](../Page/井上由莉耶.md "wikilink")、[今村麻莉愛](../Page/今村麻莉愛.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](../Page/兒玉遥.md "wikilink")、[坂口理子](../Page/坂口理子_\(HKT48\).md "wikilink")、[坂本愛玲菜](../Page/坂本愛玲菜.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](../Page/田中優香.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、[冨吉明日香](../Page/冨吉明日香.md "wikilink")、[松岡花](../Page/松岡花.md "wikilink")（）、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[今田美奈](../Page/今田美奈.md "wikilink")、[宇井真白](../Page/宇井真白.md "wikilink")、[梅本泉](../Page/梅本泉.md "wikilink")、[岡本尚子](../Page/岡本尚子.md "wikilink")、[熊沢世莉奈](../Page/熊沢世莉奈.md "wikilink")、[栗原紗英](../Page/栗原紗英.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[朝長美桜](../Page/朝長美桜.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[村川緋杏](../Page/村川緋杏.md "wikilink")、[山内祐奈](../Page/山内祐奈.md "wikilink")、[山下艾米丽](../Page/山下艾米丽.md "wikilink")（）、[山田麻莉奈](../Page/山田麻莉奈.md "wikilink")、[山本茉央](../Page/山本茉央.md "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")、[荒巻美咲](../Page/荒巻美咲.md "wikilink")、[伊藤来笑](../Page/伊藤来笑.md "wikilink")、[岩花詩乃](../Page/岩花詩乃.md "wikilink")、[植木南央](../Page/植木南央.md "wikilink")、[上野遥](../Page/上野遥.md "wikilink")、[岡田栞奈](../Page/岡田栞奈.md "wikilink")、[駒田京伽](../Page/駒田京伽.md "wikilink")、[筒井莉子](../Page/筒井莉子.md "wikilink")、[深川舞子](../Page/深川舞子.md "wikilink")、[渕上舞](../Page/渕上舞.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[外薗葉月](../Page/外薗葉月.md "wikilink")
+        [秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](https://zh.wikipedia.org/wiki/井上由莉耶 "wikilink")、[今村麻莉愛](https://zh.wikipedia.org/wiki/今村麻莉愛 "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[坂本愛玲菜](https://zh.wikipedia.org/wiki/坂本愛玲菜 "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[松岡花](../Page/松岡花.md "wikilink")（）、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[宇井真白](https://zh.wikipedia.org/wiki/宇井真白 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[熊沢世莉奈](https://zh.wikipedia.org/wiki/熊沢世莉奈 "wikilink")、[栗原紗英](https://zh.wikipedia.org/wiki/栗原紗英 "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[村川緋杏](https://zh.wikipedia.org/wiki/村川緋杏 "wikilink")、[山内祐奈](https://zh.wikipedia.org/wiki/山内祐奈 "wikilink")、[山下艾米丽](https://zh.wikipedia.org/wiki/山下艾米丽 "wikilink")（）、[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")、[山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")、[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[岩花詩乃](https://zh.wikipedia.org/wiki/岩花詩乃 "wikilink")、[植木南央](../Page/植木南央.md "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[筒井莉子](https://zh.wikipedia.org/wiki/筒井莉子 "wikilink")、[深川舞子](https://zh.wikipedia.org/wiki/深川舞子 "wikilink")、[渕上舞](../Page/渕上舞.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[外薗葉月](https://zh.wikipedia.org/wiki/外薗葉月 "wikilink")
 
 ::\*梅本泉在2015年12月31日毕业。伊藤来笑在2016年2月29日毕业。岡田栞奈在2016年3月22日毕业。
 
@@ -235,7 +235,7 @@ A的第4台剧场公演。因为向日葵组公演开幕，上演时间较短；
     15. LOVE CHASE
     16. 制服真碍事
     17. 为何降生在这美好世界
-    18. [加油！](../Page/毕业_\(星野满的迷你专辑\).md "wikilink")（）（歌：星野）
+    18. [加油！](https://zh.wikipedia.org/wiki/毕业_\(星野满的迷你专辑\) "wikilink")（）（歌：星野）
 
 ## 參考文獻
 

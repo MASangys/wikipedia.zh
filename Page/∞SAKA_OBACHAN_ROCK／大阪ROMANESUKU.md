@@ -1,5 +1,5 @@
 《**∞SAKA OBACHAN
-ROCK／大阪ROMANESUKU**》（），為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")4張[單曲](../Page/單曲.md "wikilink")。
+ROCK／大阪ROMANESUKU**》（），為日本男偶像團體[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 

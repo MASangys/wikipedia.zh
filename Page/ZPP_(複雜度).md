@@ -1,11 +1,11 @@
-在[計算複雜度理論內](../Page/計算複雜度理論.md "wikilink"), ZPP（zero-error probabilistic
-polynomial
-time，零錯誤概率多項式時間）是一個與[機率圖靈機有關的的](../Page/機率圖靈機.md "wikilink")[複雜度類](../Page/複雜度類.md "wikilink")，並且存在以下特點：
+在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink"),
+ZPP（zero-error probabilistic polynomial
+time，零錯誤概率多項式時間）是一個與[機率圖靈機有關的的](../Page/機率圖靈機.md "wikilink")[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")，並且存在以下特點：
 
   - 這機器永遠會給出正確的"是"或者"否"的答案。
   - 這個機器平均運作的時間是多項式時間以內。
 
-換句話說，有一個演算法會在運作時使用一個完美隨機的硬幣，並且永遠回傳正確的答案（這種演算法被稱作[拉斯維加斯演算法](../Page/拉斯維加斯演算法.md "wikilink")（Las
+換句話說，有一個演算法會在運作時使用一個完美隨機的硬幣，並且永遠回傳正確的答案（這種演算法被稱作[拉斯維加斯演算法](https://zh.wikipedia.org/wiki/拉斯維加斯演算法 "wikilink")（Las
 Vegas
 algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p*(*n*)，令平均的運作時間小於*p*(*n*)（有可能偶爾會超過）。
 
@@ -19,11 +19,11 @@ algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p
 
 以上這兩個定義是相等的。
 **ZPP**的定義是基於概率圖靈機。其他基於概率圖靈機的複雜度類包含了**[BPP](../Page/BPP_\(複雜度\).md "wikilink")**和**[RP](../Page/RP_\(複雜度\).md "wikilink")**。至於**[BQP
-(複雜度)](../Page/BQP_\(複雜度\).md "wikilink")**這個複雜度類則換成使用了[量子電腦這種也是具有隨機性的電腦](../Page/量子電腦.md "wikilink")。
+(複雜度)](../Page/BQP_\(複雜度\).md "wikilink")**這個複雜度類則換成使用了[量子電腦這種也是具有隨機性的電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")。
 
 ## 以交集定義
 
-**ZPP**這個複雜度類正好完全相等於**[RP](../Page/RP_\(複雜度\).md "wikilink")**和**Co-RP**這兩個類別的交集。這也是一個常用的**ZPP**的定義。為了展示這個定義，首先得注意*同時*在**'RP**和**co-RP**的每個問題均有個[拉斯維加斯演算法](../Page/拉斯維加斯演算法.md "wikilink")，如下：
+**ZPP**這個複雜度類正好完全相等於**[RP](../Page/RP_\(複雜度\).md "wikilink")**和**Co-RP**這兩個類別的交集。這也是一個常用的**ZPP**的定義。為了展示這個定義，首先得注意*同時*在**'RP**和**co-RP**的每個問題均有個[拉斯維加斯演算法](https://zh.wikipedia.org/wiki/拉斯維加斯演算法 "wikilink")，如下：
 
   - 假設我們有一個由**RP**演算法A和（可能完全不同的）**co-RP**演算法B辨識的L語言。
   - 給一個輸入到L裡面，讓A演算輸入。如果傳回「是」，則答案一定是「是」。而讓B演算輸入，如果傳回「否」，答案必是「否」。如果兩者皆未發生，則重複這一步驟。
@@ -42,7 +42,7 @@ algorithm））。對一個輸入大小為*n*的問題，存在一個多項式*p
 如果證明了**ZPP** =
 **[EXPTIME](../Page/EXPTIME.md "wikilink")**（雖然這猜想幾乎是不可能的）將代表**P**
 ≠ **ZPP**，因為**P** ≠
-**EXPTIME**（參見[時間譜系理論](../Page/時間譜系理論.md "wikilink")）。
+**EXPTIME**（參見[時間譜系理論](https://zh.wikipedia.org/wiki/時間譜系理論 "wikilink")）。
 
 ## 外部連結
 

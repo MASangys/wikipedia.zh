@@ -1,4 +1,4 @@
-**鲍比·威尔逊**（），生于1980年2月27日，以其[艺名](../Page/艺名.md "wikilink")**鲍比·V**（Bobby
+**鲍比·威尔逊**（），生于1980年2月27日，以其[艺名](https://zh.wikipedia.org/wiki/艺名 "wikilink")**鲍比·V**（Bobby
 V）知名，是[美国音乐人](../Page/美国.md "wikilink")。他的昵称“瓦伦蒂诺”（Valentino）是因为根据预产期推算，他应该在[情人节那天出生](../Page/情人节.md "wikilink")，\[1\]而在英国，由于卷入同一位名叫“鲍比·瓦伦蒂诺”的音乐家的官司，他被称为**鲍比·V-蒂诺**（Bobby
 V-Tino）。 \[2\]\[3\]
 
@@ -19,7 +19,7 @@ V-Tino）。 \[2\]\[3\]
 
   -   - 2006年，最佳R\&B/灵魂乐单曲 - 男歌手：《Slow Down》 （提名）
       - 2006, [Best R\&B/Soul or Rap New
-        Artist](../Page/Soul_Train_Music_Award_for_Best_R&B/Soul_or_Rap_New_Artist.md "wikilink")
+        Artist](https://zh.wikipedia.org/wiki/Soul_Train_Music_Award_for_Best_R&B/Soul_or_Rap_New_Artist "wikilink")
         （提名）
 
 <!-- end list -->

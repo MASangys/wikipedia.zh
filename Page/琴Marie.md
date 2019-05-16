@@ -1,5 +1,5 @@
 **琴 まりえ**（こと まりえ、Koto Marie 1978年11月14日 -
-）、元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組的娘役](../Page/星組.md "wikilink"),現在是廣島東洋鯉魚隊・[今井啓介](../Page/今井啓介.md "wikilink")(投手)的夫人。本名是**今井
+）、元[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[星組的娘役](../Page/星組.md "wikilink"),現在是廣島東洋鯉魚隊・[今井啓介](https://zh.wikipedia.org/wiki/今井啓介 "wikilink")(投手)的夫人。本名是**今井
 裕子**（いまい ゆうこ、Imai Yuuko 、舊姓:横山）。
 兵庫縣神戸市神戸野田高等學校出身。身長160cm。血型AB型。愛稱是**ことこと**、Koto
 Koto、**ゆうこ**、Yuuko。
@@ -12,7 +12,7 @@ Koto、**ゆうこ**、Yuuko。
 <!-- end list -->
 
   -
-    同期生有彩乃かなみ（元[月組主演娘役](../Page/月組.md "wikilink")）、紫城るい（元[宙組主演娘役](../Page/宙組.md "wikilink")）、[花組的](../Page/花組.md "wikilink")[愛音羽麗](../Page/愛音羽麗.md "wikilink")、[宙組的](../Page/宙組.md "wikilink")[悠未ひろ等](../Page/悠未ひろ.md "wikilink")。
+    同期生有彩乃かなみ（元[月組主演娘役](https://zh.wikipedia.org/wiki/月組 "wikilink")）、紫城るい（元[宙組主演娘役](../Page/宙組.md "wikilink")）、[花組的](../Page/花組.md "wikilink")[愛音羽麗](https://zh.wikipedia.org/wiki/愛音羽麗 "wikilink")、[宙組的](../Page/宙組.md "wikilink")[悠未ひろ等](https://zh.wikipedia.org/wiki/悠未ひろ "wikilink")。
 
 <!-- end list -->
 
@@ -22,12 +22,12 @@ Koto、**ゆうこ**、Yuuko。
   - 2004年7月、寶塚Bowhall公演『花のいそぎ』裡初娘役主演。
   - 曾為兵庫縣小野市的宣傳手冊的封面裝飾。
   - 2010年3月21日、於『哈布斯堡的寶劍／BOLERO』千秋楽後寶塚歌劇團退團。
-  - 2010年6月、公開發表與廣島東洋鯉魚隊投手[今井啓介結婚](../Page/今井啓介.md "wikilink")\[2\]。
+  - 2010年6月、公開發表與廣島東洋鯉魚隊投手[今井啓介結婚](https://zh.wikipedia.org/wiki/今井啓介 "wikilink")\[2\]。
 
 ## 新人公演
 
 2001年3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001
--奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](../Page/瑪麗·安托瓦內特.md "wikilink")（本役：星奈優里）
+-奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里）
 2002年4月、『布哈拉的春天』/LUCKY STAR』ズザナ、新人公演：カテリーナ（本役：渚あき）
 
 ## 主要舞台經歷
@@ -51,7 +51,7 @@ Koto、**ゆうこ**、Yuuko。
 
   - 1月、『花の業平 ／夢は世界を駆け翔けめぐる』伊勢斎宮恬子、新人公演：とね（本役：陽色萌）
   - 3月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")2001
-    -奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](../Page/瑪麗·安托瓦內特.md "wikilink")（本役：星奈優里）
+    -奧斯卡與安德烈篇-』カトリーヌ、新人公演：[瑪麗·安托瓦內特](https://zh.wikipedia.org/wiki/瑪麗·安托瓦內特 "wikilink")（本役：星奈優里）
   - 6月、『風と共に去りぬ 』（全国公演）メイベル
   - 10月、『星組エンカレッジコンサート』（Bow Hall）
   - 11月、『花の業平／サザンクロス・レビューⅡ』伊勢斎宮恬子、新人公演：とね（本役：陽色萌）
@@ -88,7 +88,7 @@ Koto、**ゆうこ**、Yuuko。
 
 2006年
 
-  - 1月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")-菲爾遜與[瑪莉・安托瓦內特篇](../Page/瑪莉・安托瓦內特.md "wikilink")-』ミレイユ
+  - 1月、『[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")-菲爾遜與[瑪莉・安托瓦內特篇](https://zh.wikipedia.org/wiki/瑪莉・安托瓦內特 "wikilink")-』ミレイユ
   - 4月、『Across』（Theater Drama city・東京特別）
   - 6月、『COPACABANA』(「コバカバーナ」)（梅田藝術劇場）ジンジャー
   - 8月、『愛太短 ／ NEO DANDYISM - 男的美學』(「愛するには短すぎる／ネオ・ダンディズム！-男の美学-」) 莉莉
@@ -102,8 +102,8 @@ Koto、**ゆうこ**、Yuuko。
 
 2008年
 
-  - 3月、『[紅與黒](../Page/紅與黒.md "wikilink")』（Theater Drama
-    city・東京特別・名古屋特別）デルヴィール夫人
+  - 3月、『[紅與黒](https://zh.wikipedia.org/wiki/紅與黒 "wikilink")』（Theater
+    Drama city・東京特別・名古屋特別）デルヴィール夫人
   - 6月、『THE SCARLET PINPERNEL』シュザンヌ
   - 11月、『外傳凡爾賽玫瑰 -貝魯納爾篇-』ランベスク夫人
 

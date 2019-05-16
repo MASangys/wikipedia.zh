@@ -1,4 +1,4 @@
-如同[万维网上的所有页面一样](../Page/万维网.md "wikilink")，[维基媒体基金会服务器上的页面也有自己的](../Page/维基媒体基金会.md "wikilink")**[URL](../Page/URL.md "wikilink")**（统一资源定位符）来区分它们。这些URL地址在您浏览页面时，显示在浏览器的地址栏中。维基百科编者也可以通过创建[超链接至指定的URL](../Page/超链接.md "wikilink")，链接到维基百科或维基媒体基金会的其他计划页面，抑或是网络上的其他页面。
+如同[万维网上的所有页面一样](../Page/万维网.md "wikilink")，[维基媒体基金会服务器上的页面也有自己的](../Page/维基媒体基金会.md "wikilink")**[URL](https://zh.wikipedia.org/wiki/URL "wikilink")**（统一资源定位符）来区分它们。这些URL地址在您浏览页面时，显示在浏览器的地址栏中。维基百科编者也可以通过创建[超链接至指定的URL](https://zh.wikipedia.org/wiki/超链接 "wikilink")，链接到维基百科或维基媒体基金会的其他计划页面，抑或是网络上的其他页面。
 
 ## 链接到URL
 
@@ -25,7 +25,7 @@ URL必须以“http://”、“https://”、“ftp://”、“irc://”、“go
 URL中还可以包含Unicode字符（同内部链接一样）；系统会在必要时进行转换。例如：http://meta.wikipedia.org/wiki/À_propos_de_Méta
 等同于 <http://meta.wikipedia.org/wiki/%C3%80_propos_de_M%C3%A9ta> 。
 
-欲了解詳情，請參見元維基[外部鏈接的URL一節](../Page/m:Help:URL#URLs_in_external_links.md "wikilink")。
+欲了解詳情，請參見元維基[外部鏈接的URL一節](https://zh.wikipedia.org/wiki/m:Help:URL#URLs_in_external_links "wikilink")。
 
 ## 维基百科页面的URL
 
@@ -50,11 +50,11 @@ URL中还可以包含Unicode字符（同内部链接一样）；系统会在必�
 
 扩展URL地址使用方法如下：
 
-  - 查看[重定向页本身](../Page/WP:重定向.md "wikilink")：
+  - 查看[重定向页本身](https://zh.wikipedia.org/wiki/WP:重定向 "wikilink")：
     <http://zh.wikipedia.org/w/index.php?title=Wikipedia&redirect=no>
   - 前往编辑页（或查看全保护页面源代码）：
     <http://zh.wikipedia.org/w/index.php?title=维基百科&action=edit>
-    。还可以添加其他参数，例如“section=5”或“section=new”来编辑指定段落，或添加新段落（条目的首段为“section=0”）。还有参数可以实现在编辑新页面时自动载入指定文本，参见[mw:Extension:InputBox](../Page/mw:Extension:InputBox.md "wikilink")。
+    。还可以添加其他参数，例如“section=5”或“section=new”来编辑指定段落，或添加新段落（条目的首段为“section=0”）。还有参数可以实现在编辑新页面时自动载入指定文本，参见[mw:Extension:InputBox](https://zh.wikipedia.org/wiki/mw:Extension:InputBox "wikilink")。
   - 查看页面的[编辑历史](https://zh.wikipedia.org/wiki/Help:页面历史 "wikilink")：http://zh.wikipedia.org/w/index.php?title=维基百科\&action=history
     。（也可以添加参数，例如
     <http://zh.wikipedia.org/w/index.php?title=维基百科&limit=5&offset=90&action=history>
@@ -78,7 +78,7 @@ URL中还可以包含Unicode字符（同内部链接一样）；系统会在必�
     <http://zh.wikipedia.org/w/index.php?title=Category:二字消歧义&from=D> 。
   - 为[特殊页面自定义参数](https://zh.wikipedia.org/wiki/Help:特殊页面 "wikilink")，例如：
     <http://zh.wikipedia.org/w/index.php?title=Special:最近更改&from=20100605070002>
-    。此例中，“from”后面的参数为时间戳，格式为yyyymmddhhmmss，采用[UTC时间](../Page/UTC.md "wikilink")，此外还有其他形式的参数。
+    。此例中，“from”后面的参数为时间戳，格式为yyyymmddhhmmss，采用[UTC时间](https://zh.wikipedia.org/wiki/UTC "wikilink")，此外还有其他形式的参数。
 
 如果要输入维基百科页面的地址，切记要按照前面所说的那样，将空格转换成下划线，并把特殊字符转换成UTF-8编码。
 
@@ -93,20 +93,20 @@ URL中还可以包含Unicode字符（同内部链接一样）；系统会在必�
 注意，如果输入 <http://www.wikipedia.org>
 ，你将会转到一个多语言的维基百科专题页面，但是其他以此开头的URL都会重定向到英文维基。
 
-其他计划可能使用不同的字符串来取代URL中的“/w/”或“/wiki/”。详情参见元维基上的[URL帮助页面](../Page/m:Help:URL.md "wikilink")。
+其他计划可能使用不同的字符串来取代URL中的“/w/”或“/wiki/”。详情参见元维基上的[URL帮助页面](https://zh.wikipedia.org/wiki/m:Help:URL "wikilink")。
 
 ## 模板和程序
 
-在[模版中使用时](../Page/帮助:模板.md "wikilink")，URL也可以包含特定的词语以实现一些语法功能，例如*fullurl*，*urlencode*等等。更多的词语可以在[元维基的魔术字帮助页找到](../Page/mw:Help:Magic_words.md "wikilink")。
+在[模版中使用时](https://zh.wikipedia.org/wiki/帮助:模板 "wikilink")，URL也可以包含特定的词语以实现一些语法功能，例如*fullurl*，*urlencode*等等。更多的词语可以在[元维基的魔术字帮助页找到](https://zh.wikipedia.org/wiki/mw:Help:Magic_words "wikilink")。
 
 程序访问维基百科时使用API时最为有效的，只要使用 <http://zh.wikipedia.org/w/api.php>
-作为URL前缀。详情可以在[mw:API找到](../Page/mw:API.md "wikilink")。
+作为URL前缀。详情可以在[mw:API找到](https://zh.wikipedia.org/wiki/mw:API "wikilink")。
 
 ## 脚注
 
 ## 参见
 
-  - [元维基上的URL帮助页](../Page/m:Help:URL.md "wikilink")
+  - [元维基上的URL帮助页](https://zh.wikipedia.org/wiki/m:Help:URL "wikilink")
 
 [Category:帮助文档](https://zh.wikipedia.org/wiki/Category:帮助文档 "wikilink")
 

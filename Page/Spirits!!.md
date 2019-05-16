@@ -14,10 +14,10 @@
 5.  DREAMIN'BLOOD
 6.  大阪レイニーブルース
 7.  MC-1
-8.  愛以外のなんでもない　[錦戸亮](../Page/錦戸亮.md "wikilink")
+8.  愛以外のなんでもない　[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")
 9.  明日　大山田（[大倉忠義](../Page/大倉忠義.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")）
 10. All Of Me For You
-11. PGF　[錦戸亮](../Page/錦戸亮.md "wikilink")・[横山裕](../Page/横山裕.md "wikilink")・[澀谷昴](../Page/澀谷昴.md "wikilink")
+11. PGF　[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")・[澀谷昴](../Page/澀谷昴.md "wikilink")
 12. 剣の舞
     ※途中加入、[村上信五](../Page/村上信五.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")
 13. Let's Fight

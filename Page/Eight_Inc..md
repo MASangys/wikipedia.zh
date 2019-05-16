@@ -1,25 +1,26 @@
-**[八號公司](../Page/八號公司.md "wikilink")**，（**Eight
-Inc.**）是一家[美國](../Page/美國.md "wikilink")[室內設計公司](../Page/室內設計.md "wikilink")，[總部位於](../Page/總部.md "wikilink")[三藩市](../Page/三藩市.md "wikilink")，[分公司位於](../Page/分公司.md "wikilink")[紐約](../Page/紐約.md "wikilink")、[檀香山](../Page/檀香山.md "wikilink")、[英國](../Page/英國.md "wikilink")[倫敦](../Page/倫敦.md "wikilink")、[日本](../Page/日本.md "wikilink")[東京](../Page/東京.md "wikilink")、[北京等地](../Page/北京.md "wikilink")。
+**[八號公司](https://zh.wikipedia.org/wiki/八號公司 "wikilink")**，（**Eight
+Inc.**）是一家[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[室內設計公司](https://zh.wikipedia.org/wiki/室內設計 "wikilink")，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")，[分公司位於](https://zh.wikipedia.org/wiki/分公司 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[檀香山](../Page/檀香山.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[北京等地](https://zh.wikipedia.org/wiki/北京 "wikilink")。
 
 ## 介绍
 
-八號公司在[建築](../Page/建築.md "wikilink")、[環境](../Page/環境.md "wikilink")、[連鎖店](../Page/連鎖店.md "wikilink")、[展覽會](../Page/展覽會.md "wikilink")、[通訊和](../Page/通訊.md "wikilink")[工業設計等都有](../Page/工業設計.md "wikilink")[生意](../Page/生意.md "wikilink")。其[合作項目](../Page/合作.md "wikilink")，包括：
+八號公司在[建築](https://zh.wikipedia.org/wiki/建築 "wikilink")、[環境](https://zh.wikipedia.org/wiki/環境 "wikilink")、[連鎖店](../Page/連鎖店.md "wikilink")、[展覽會](../Page/展覽會.md "wikilink")、[通訊和](https://zh.wikipedia.org/wiki/通訊 "wikilink")[工業設計等都有](https://zh.wikipedia.org/wiki/工業設計 "wikilink")[生意](https://zh.wikipedia.org/wiki/生意 "wikilink")。其[合作項目](https://zh.wikipedia.org/wiki/合作 "wikilink")，包括：
 [Apple
-Store](../Page/Apple_Store.md "wikilink")、[Nokia](../Page/Nokia.md "wikilink")
+Store](../Page/Apple_Store.md "wikilink")、[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")
 \[1\]、 [Virgin Atlantic
-Airways](../Page/Virgin_Atlantic_Airways.md "wikilink"),\[2\]、[Nike](../Page/Nike.md "wikilink")、和[Coach
-Inc.](../Page/Coach_Inc..md "wikilink"),\[3\]\[4\] 等。
+Airways](https://zh.wikipedia.org/wiki/Virgin_Atlantic_Airways "wikilink"),\[2\]、[Nike](https://zh.wikipedia.org/wiki/Nike "wikilink")、和[Coach
+Inc.](https://zh.wikipedia.org/wiki/Coach_Inc. "wikilink"),\[3\]\[4\] 等。
 
 ### 其他项目
 
   - "High Density On The High Ground," [New
-    Orleans](../Page/New_Orleans.md "wikilink") [Hurricane
-    Katrina](../Page/Hurricane_Katrina.md "wikilink").\[5\]
+    Orleans](https://zh.wikipedia.org/wiki/New_Orleans "wikilink")
+    [Hurricane
+    Katrina](https://zh.wikipedia.org/wiki/Hurricane_Katrina "wikilink").\[5\]
   - METRO,\[6\]
-  - [Williams-Sonoma](../Page/Williams-Sonoma.md "wikilink")
-  - [Citibank](../Page/Citibank.md "wikilink")\[7\]。
+  - [Williams-Sonoma](https://zh.wikipedia.org/wiki/Williams-Sonoma "wikilink")
+  - [Citibank](https://zh.wikipedia.org/wiki/Citibank "wikilink")\[7\]。
   - [Malama Learning
-    Center](../Page/Malama_Learning_Center.md "wikilink"),\[8\]
+    Center](https://zh.wikipedia.org/wiki/Malama_Learning_Center "wikilink"),\[8\]
 
 ## Selected Projects
 

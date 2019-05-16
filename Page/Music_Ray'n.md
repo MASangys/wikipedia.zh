@@ -1,5 +1,5 @@
 **Music Ray'n**是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME
-Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](../Page/聲優.md "wikilink")[藝人中介人業務](../Page/藝人.md "wikilink")。
+Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](../Page/聲優.md "wikilink")[藝人中介人業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
 
 ## 概要
 
@@ -17,35 +17,35 @@ Japan）旗下一家音樂出版社、藝能事務所，主要從事[聲優和](
 
 （）為於第幾屆「超級聲優試聽」獲取錄。
 
-  - [麻倉桃](../Page/麻倉桃.md "wikilink")（第2屆） ☆
-  - [雨宮天](../Page/雨宮天.md "wikilink")（第2屆） ☆
+  - [麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")（第2屆） ☆
+  - [雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")（第2屆） ☆
   - [壽美菜子](../Page/壽美菜子.md "wikilink")（第1屆） ☆
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")（第1屆） ☆
   - [戶松遙](../Page/戶松遙.md "wikilink")（第1屆） ☆
   - [豐崎愛生](../Page/豐崎愛生.md "wikilink")（第1屆） ☆
-  - [夏川椎菜](../Page/夏川椎菜.md "wikilink")（第2屆） ☆
+  - [夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")（第2屆） ☆
 
 ### 藝人
 
-  - [sana](../Page/sana.md "wikilink") ☆
+  - [sana](https://zh.wikipedia.org/wiki/sana "wikilink") ☆
   - [Sphere](../Page/Sphere_\(聲優團體\).md "wikilink")（唱片公司為[Lantis的GloryHeaven](../Page/Lantis.md "wikilink")）
   - [CHiCO](../Page/CHiCO.md "wikilink") ☆
   - [TrySail](../Page/TrySail.md "wikilink")（唱片公司為[Aniplex](../Page/Aniplex.md "wikilink")→[SACRA
-    MUSIC](../Page/SACRA_MUSIC.md "wikilink")）
+    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
   - [HoneyWorks](../Page/HoneyWorks.md "wikilink")（事務所為[INCS
-    toenter](../Page/INCS_toenter.md "wikilink")） ☆
+    toenter](https://zh.wikipedia.org/wiki/INCS_toenter "wikilink")） ☆
 
 ### 前屬藝人
 
   - （2009年12月自[King Records轉到本事務所](../Page/國王唱片.md "wikilink")）\[1\] ☆
 
-  - [eico](../Page/eico.md "wikilink") ☆
+  - [eico](https://zh.wikipedia.org/wiki/eico "wikilink") ☆
 
   - ☆
 
   - ☆
 
-  - [ON/OFF](../Page/ON/OFF.md "wikilink")（後轉到[DefSTAR
+  - [ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")（後轉到[DefSTAR
     Records](../Page/DefSTAR_Records.md "wikilink")） ☆
 
   - [An Cafe](../Page/An_Cafe.md "wikilink")（後轉到[Sony Music

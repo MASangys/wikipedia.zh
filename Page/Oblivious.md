@@ -1,8 +1,8 @@
-《**oblivious**》是[Kalafina的第](../Page/Kalafina.md "wikilink")1張[單曲](../Page/單曲.md "wikilink")。於2008年1月23日由[SME
+《**oblivious**》是[Kalafina的第](../Page/Kalafina.md "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年1月23日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]
-收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》第一章至第三章的片尾主題歌。另外亦發行了本作品的[Remix版本](../Page/Remix.md "wikilink")《Re/oblivious》。
+收錄了劇場版動畫《[空之境界](../Page/空之境界.md "wikilink")》第一章至第三章的片尾主題歌。另外亦發行了本作品的[Remix版本](https://zh.wikipedia.org/wiki/Remix "wikilink")《Re/oblivious》。
 
-電視廣告的旁述為聲優[高垣彩陽](../Page/高垣彩陽.md "wikilink")。原作小說《空之境界》的作者[奈須茸評價她掌握到了原作的氣氛](../Page/奈須茸.md "wikilink")。
+電視廣告的旁述為聲優[高垣彩陽](../Page/高垣彩陽.md "wikilink")。原作小說《空之境界》的作者[奈須茸評價她掌握到了原作的氣氛](https://zh.wikipedia.org/wiki/奈須茸 "wikilink")。
 
 ## 收錄曲
 
@@ -61,7 +61,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[pt:Oblivious](../Page/pt:Oblivious.md "wikilink")
+[pt:Oblivious](https://zh.wikipedia.org/wiki/pt:Oblivious "wikilink")
 
 [Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink")
 [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")

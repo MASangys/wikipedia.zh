@@ -1,9 +1,9 @@
-**WASP-12**是一顆距離約600[光年](../Page/光年.md "wikilink")，位於[御夫座](../Page/御夫座.md "wikilink")，[視星等](../Page/視星等.md "wikilink")
-11等的[黃矮星](../Page/黃矮星.md "wikilink")\[1\]，它的[質量和](../Page/質量.md "wikilink")[半徑都予](../Page/半徑.md "wikilink")[太陽相似](../Page/太陽.md "wikilink")。
+**WASP-12**是一顆距離約600[光年](../Page/光年.md "wikilink")，位於[御夫座](../Page/御夫座.md "wikilink")，[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")
+11等的[黃矮星](https://zh.wikipedia.org/wiki/黃矮星 "wikilink")\[1\]，它的[質量和](https://zh.wikipedia.org/wiki/質量 "wikilink")[半徑都予](https://zh.wikipedia.org/wiki/半徑 "wikilink")[太陽相似](https://zh.wikipedia.org/wiki/太陽 "wikilink")。
 
 ## 行星系統
 
-在2008年，使用[凌日法發現WASP](../Page/系外行星偵測法#.md "wikilink")-12有[行星環繞著](../Page/系外行星.md "wikilink")\[2\]。
+在2008年，使用[凌日法發現WASP](https://zh.wikipedia.org/wiki/系外行星偵測法# "wikilink")-12有[行星環繞著](https://zh.wikipedia.org/wiki/系外行星 "wikilink")\[2\]。
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@
 ## 相關條目
 
   - [超廣角尋找行星](../Page/超廣角尋找行星.md "wikilink")(SuperWASP)
-  - [確定存在的太陽系外行星列表](../Page/確定存在的太陽系外行星列表.md "wikilink")
+  - [確定存在的太陽系外行星列表](https://zh.wikipedia.org/wiki/確定存在的太陽系外行星列表 "wikilink")
 
 ## 參考資料
 

@@ -1,12 +1,12 @@
 **Gimme
 5**是一個[香港電台第二台的青少年節目](../Page/香港電台第二台.md "wikilink")，播放時間在星期一至五黄昏5時至7時。**Gimme
-5**於2007年11月12日首播，首播前並沒有任何宣傳，節目主持人[梁德輝只於節目推出前數天才收到公司指示](../Page/梁德輝.md "wikilink")，以臨時性質接替[梁奕倫及](../Page/梁奕倫.md "wikilink")[曾淑儀的](../Page/曾淑儀.md "wikilink")《[萬王之王](../Page/萬王之王.md "wikilink")》，但最後成為長期節目。\[1\]
+5**於2007年11月12日首播，首播前並沒有任何宣傳，節目主持人[梁德輝只於節目推出前數天才收到公司指示](../Page/梁德輝.md "wikilink")，以臨時性質接替[梁奕倫及](https://zh.wikipedia.org/wiki/梁奕倫 "wikilink")[曾淑儀的](https://zh.wikipedia.org/wiki/曾淑儀 "wikilink")《[萬王之王](https://zh.wikipedia.org/wiki/萬王之王 "wikilink")》，但最後成為長期節目。\[1\]
 
 ## 主持
 
 **Gimme
-5**現由[黃天頤](../Page/黃天頤.md "wikilink")（天頤）、[波盛和](../Page/波盛.md "wikilink")[方梓豪主持](../Page/方梓豪.md "wikilink")，而首播時只有[Eric](../Page/梁德輝.md "wikilink")、
-天頤和[的神](../Page/的神.md "wikilink")。
+5**現由[黃天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")（天頤）、[波盛和](https://zh.wikipedia.org/wiki/波盛 "wikilink")[方梓豪主持](https://zh.wikipedia.org/wiki/方梓豪 "wikilink")，而首播時只有[Eric](../Page/梁德輝.md "wikilink")、
+天頤和[的神](https://zh.wikipedia.org/wiki/的神 "wikilink")。
 
 ## 流程
 

@@ -1,15 +1,15 @@
 《**機動戰士鋼彈戰記 Lost War
-Chronicles**》（，[英語](../Page/英語.md "wikilink")：*Mobile
+Chronicles**》（，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Mobile
 Suit Gundam: Lost War Chronicles*）是在[PlayStation
-2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](../Page/機動戰士.md "wikilink")(Mobile
+2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")(Mobile
 Suit，簡稱MS)」小隊隊長，帶領屬下的一個小隊執行各種任務。和遊戲相關的作品，有和遊戲同名、由夏元雅人所畫的漫畫故事，漫畫曾在《[Gundam
-Ace](../Page/Gundam_Ace.md "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。
+Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。
 
 ## 故事背景
 
-遊戲背景以動畫《[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")》的故事世界為藍本。
+遊戲背景以動畫《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》的故事世界為藍本。
 
-U.C.0079年，宇宙殖民衛星群「[吉翁公國](../Page/吉翁公國.md "wikilink")」向統治地球圈的地球聯邦政府發動獨立戰爭，史稱「[一年戰爭](../Page/一年戰爭.md "wikilink")」。開戰初期，吉翁公國軍以新開發的巨大化人型武器「[機動戰士](../Page/機動戰士.md "wikilink")」，成功重創使用傳統武器的地球聯邦軍，並展開大規模降落作戰，佔領地球上大部份地區。為了對抗吉翁軍的「[機動戰士](../Page/機動戰士.md "wikilink")」，聯邦軍亦自行研製「[機動戰士](../Page/機動戰士.md "wikilink")」，並配置到部隊中進行對抗。
+U.C.0079年，宇宙殖民衛星群「[吉翁公國](../Page/吉翁公國.md "wikilink")」向統治地球圈的地球聯邦政府發動獨立戰爭，史稱「[一年戰爭](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")」。開戰初期，吉翁公國軍以新開發的巨大化人型武器「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，成功重創使用傳統武器的地球聯邦軍，並展開大規模降落作戰，佔領地球上大部份地區。為了對抗吉翁軍的「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，聯邦軍亦自行研製「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")」，並配置到部隊中進行對抗。
 
 遊戲故事主要圍繞兩支小隊：聯邦軍的「MS特殊部隊第三小隊(日文：MS特殊部隊第3小隊，英文：Special Forces, 3rd
 Platoon)」和吉翁軍的「MS特務遊擊隊(日文：MS特務遊撃隊)」的各項作戰任務。
@@ -17,7 +17,7 @@ Platoon)」和吉翁軍的「MS特務遊擊隊(日文：MS特務遊撃隊)」的
 ## 遊戲特色
 
 在遊戲中，玩家可以選擇成為聯邦軍或吉翁軍陣營的軍人，並作為一支MS小隊的隊長帶領隊員參與各種任務，例如破壞軍事目標、對敵軍基地進行壓制等等，部份任務改編自鋼彈系列故事中的劇情，部份在鋼彈故事中出現的人物亦會在遊戲中客串登場。
-在行動時，玩家除了控制自己的機體外，亦要指揮手下的兩部僚機行動。玩家在任務中的表現會影響其他角色對任務的評價，表現良好的會得到遊戲中其他角色的讚賞，並有機會提升軍階及使用更多種類的機動戰士，並能進入隱藏的任務，而表現太差的會看到其他角色對玩家表達不滿的神色。遊戲設有少量收集元素，玩家可以收集在遊戲中出現過的動畫及音樂。遊戲中可以使用的機體，主要出自《[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")》、《[機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")》、《[機動戰士GUNDAM
+在行動時，玩家除了控制自己的機體外，亦要指揮手下的兩部僚機行動。玩家在任務中的表現會影響其他角色對任務的評價，表現良好的會得到遊戲中其他角色的讚賞，並有機會提升軍階及使用更多種類的機動戰士，並能進入隱藏的任務，而表現太差的會看到其他角色對玩家表達不滿的神色。遊戲設有少量收集元素，玩家可以收集在遊戲中出現過的動畫及音樂。遊戲中可以使用的機體，主要出自《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》、《[機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")》、《[機動戰士GUNDAM
 0080：口袋裡的戰爭](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")》、《機動戰士鋼彈外傳
 藍色命運》和《[機動戰士GUNDAM 0083：Stardust
 Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")》。

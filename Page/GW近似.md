@@ -1,4 +1,4 @@
-**GW近似**用于计算多体系统中的自能。利用[Green函数G与含屏蔽的相互作用W对体系自能做展开](../Page/Green函数.md "wikilink")：
+**GW近似**用于计算多体系统中的自能。利用[Green函数G与含屏蔽的相互作用W对体系自能做展开](https://zh.wikipedia.org/wiki/Green函数 "wikilink")：
 
   -
     \(\Sigma = iGW - GWGWG + \cdots\)

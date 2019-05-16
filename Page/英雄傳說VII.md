@@ -1,4 +1,4 @@
-《**英雄傳說VII**》是日本[Falcom公司製作的](../Page/Falcom.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。本作為[英雄傳說系列第七代作品](../Page/英雄傳說系列.md "wikilink")\[1\]，也是該系列第三期[軌跡系列的第二系列作](../Page/軌跡系列.md "wikilink")。由2010年推出的《**英雄傳說
+《**英雄傳說VII**》是日本[Falcom公司製作的](https://zh.wikipedia.org/wiki/Falcom "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。本作為[英雄傳說系列第七代作品](../Page/英雄傳說系列.md "wikilink")\[1\]，也是該系列第三期[軌跡系列的第二系列作](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。由2010年推出的《**英雄傳說
 零之軌跡**》與2011年推出的《**英雄傳說 碧之軌跡**》所組成。
 
   - 2010年《英雄傳說 零之軌跡》獲得PlayStation Awards 2010玩家最愛大獎\[2\]
@@ -22,35 +22,35 @@
 
   - 《英雄傳說VII》的故事由前篇《英雄傳說 零之軌跡》與後篇《英雄傳說
     碧之軌跡》組成，合稱為[英雄傳說系列第七代作品](../Page/英雄傳說系列.md "wikilink")\[7\]。承襲《英雄傳說VI
-    空之軌跡》系列的世界設定、遊戲系統等。（詳細設定請參考：[軌跡系列](../Page/軌跡系列.md "wikilink")）
+    空之軌跡》系列的世界設定、遊戲系統等。（詳細設定請參考：[軌跡系列](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")）
 
 <!-- end list -->
 
   - 在前一系列作的《空之軌跡SC》開始，[英雄傳說系列的](../Page/英雄傳說系列.md "wikilink")**代號**不再出現在標題上。因此Falcom曾經為了此取消代號的措施，在《[英雄傳說
-    零之軌跡](../Page/英雄傳說_零之軌跡.md "wikilink")》發售時，特別於官方Twitter上說明此確定為英雄傳說系列第七代作品\[8\]。
+    零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")》發售時，特別於官方Twitter上說明此確定為英雄傳說系列第七代作品\[8\]。
 
 <!-- end list -->
 
   - [英雄傳說系列過去皆發布在個人電腦](../Page/英雄傳說系列.md "wikilink")[Microsoft
-    Windows平台](../Page/Microsoft_Windows.md "wikilink")；不過從本作《英雄傳說VII》開始改在[PlayStation
+    Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")；不過從本作《英雄傳說VII》開始改在[PlayStation
     Portable平台上推出](../Page/PlayStation_Portable.md "wikilink")。
 
 <!-- end list -->
 
   - 而後個人電腦[Microsoft
-    Windows平台版本在](../Page/Microsoft_Windows.md "wikilink")[英特衛的極力請求下](../Page/英特衛.md "wikilink")，[欢乐百世決定取得代理並負責移植與進行](../Page/欢乐百世.md "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[9\]。
+    Windows平台版本在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[9\]。
 
 <!-- end list -->
 
   - 2017年1月，[Microsoft
-    Windows平台版本的](../Page/Microsoft_Windows.md "wikilink")《英雄傳說
+    Windows平台版本的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")《英雄傳說
     零之軌跡》與《英雄傳說
     碧之軌跡》經曾由歡樂百世提交到[Steam青睞之光](../Page/Steam.md "wikilink")\[10\]\[11\]。但在月底，這兩款遊戲在Steam青睞之光上被撤銷，可能是由於歡樂百世與Falcom對此還沒有達成共識。
 
 ### 零之軌跡
 
 [Zero_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Zero_no_Kiseki.jpg "fig:Zero_no_Kiseki.jpg")
-2010年9月30日在[PSP平台上推出](../Page/PSP.md "wikilink")。為[英雄傳說系列第九部作品](../Page/英雄傳說系列.md "wikilink")，[軌跡系列第四部作品](../Page/軌跡系列.md "wikilink")，『Ⅶ』的前篇。也是英雄傳說系列第一次在[掌上遊戲機上開發的作品](../Page/掌上遊戲機.md "wikilink")。主題是**「跨越障壁」**，這個主題的信念也被續編所承襲\[12\]。
+2010年9月30日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")。為[英雄傳說系列第九部作品](../Page/英雄傳說系列.md "wikilink")，[軌跡系列第四部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的前篇。也是英雄傳說系列第一次在[掌上遊戲機上開發的作品](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。主題是**「跨越障壁」**，這個主題的信念也被續編所承襲\[12\]。
 
   - 由《伊蘇7》插圖繪師[榎波克己擔當本作人物繪製](../Page/榎波克己.md "wikilink")\[13\]。不過負責的部分只有依照Falcom提供的人設繪製人物插圖，人物設定的部分並沒有參與\[14\]。
 
@@ -74,7 +74,7 @@
 ### 碧之軌跡
 
 [Ao_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Ao_no_Kiseki.jpg "fig:Ao_no_Kiseki.jpg")
-2011年9月29日在[PSP平台上推出](../Page/PSP.md "wikilink")\[21\]\[22\]。為[英雄傳說系列第十部作品](../Page/英雄傳說系列.md "wikilink")，[軌跡系列第五部作品](../Page/軌跡系列.md "wikilink")，『Ⅶ』的後篇。為FALCOM創立30周年紀念作\[23\]\[24\]\[25\]，繼承了《零》的主題「跨越障壁」，《碧》的主題為**「跨越障壁，希望在相同的時代一起活下去」**\[26\]。
+2011年9月29日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")\[21\]\[22\]。為[英雄傳說系列第十部作品](../Page/英雄傳說系列.md "wikilink")，[軌跡系列第五部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的後篇。為FALCOM創立30周年紀念作\[23\]\[24\]\[25\]，繼承了《零》的主題「跨越障壁」，《碧》的主題為**「跨越障壁，希望在相同的時代一起活下去」**\[26\]。
 
   - 關於作品標題，也曾經考慮過如同《空之軌跡SC》一般的形式以「第2章」的英文簡寫「SC (Second
     Chapter)」命名為《零之軌跡SC》。不過認為「SC」無法展現本作故事意象「無限的可能性」；另外，《零》也給人以藍色為代表的印象，因此決定使用比藍更深更廣的「碧」這個字作為本作標題\[27\]。
@@ -102,10 +102,10 @@
     of Heroes VII.」預告續作的決定。
   - 2007年11月14日-《英雄傳說Ⅶ》正在開發\[33\]。
   - 2010年 4月23日-《英雄傳說
-    零之軌跡》將會在[PSP平台販售](../Page/PSP.md "wikilink")\[34\]。
+    零之軌跡》將會在[PSP平台販售](https://zh.wikipedia.org/wiki/PSP "wikilink")\[34\]。
   - 2010年 4月26日-Falcom官網推出「《零之軌跡》你來出演？」活動，截止日期為2010年5月31日\[35\]。
   - 2010年 6月
-    3日-《零之軌跡》男女主角將會在PSP遊戲《[伊蘇vs.空之軌跡](../Page/伊蘇vs.空之軌跡.md "wikilink")》中登場\[36\]。
+    3日-《零之軌跡》男女主角將會在PSP遊戲《[伊蘇vs.空之軌跡](https://zh.wikipedia.org/wiki/伊蘇vs.空之軌跡 "wikilink")》中登場\[36\]。
   - 2010年 9月30日-《英雄傳說 零之軌跡》發售。
   - 2010年12月21日-《零之軌跡》的續編將會在2011年發布\[37\]。
   - 2011年 3月 3日-《英雄傳說 零之軌跡》發布免費體驗版本
@@ -126,7 +126,8 @@
 ## 遊戲系統
 
 本作系統大多承襲至前作。
-<small>詳細請參考：[軌跡系列 系統](../Page/英雄傳說_軌跡系列#系統.md "wikilink")</small>
+<small>詳細請參考：[軌跡系列
+系統](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列#系統 "wikilink")</small>
 
 ### 劇本組成
 
@@ -175,7 +176,8 @@ Point，搜查功績），DP累積到一定程度的話可以提升搜查官的�
 
 ### 戰鬥
 
-<small>詳細請參考：[軌跡系列 戰鬥系統](../Page/英雄傳說_軌跡系列#戰鬥系統.md "wikilink")</small>
+<small>詳細請參考：[軌跡系列
+戰鬥系統](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列#戰鬥系統 "wikilink")</small>
 
 沿用《空之軌跡系列》中以行動順序作為主軸的「AT戰鬥系統」。
 
@@ -186,14 +188,15 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 ### 戰術導力器
 
 <small>詳細請參考：[軌跡系列用語列表
-戰術導力器](../Page/英雄傳說_軌跡系列用語列表#戰術導力器.md "wikilink")</small>
+戰術導力器](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#戰術導力器 "wikilink")</small>
 
 《零》使用的新型導力器「**Enigma**」與《空之軌跡系列》所使用的「Orbment」導力器功能並無太大差異；但可在設有導力網路的地點使用通訊功能。
 《碧》中使用的「Enigma II」在中央插槽使用了新型結晶迴路**核心迴路（Master Quartz）**，不再有人物屬性限制，自由度大增。
 
 ### 料理
 
-<small>詳細請參考：[軌跡系列 料理](../Page/英雄傳說_軌跡系列#料理.md "wikilink")</small>
+<small>詳細請參考：[軌跡系列
+料理](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列#料理 "wikilink")</small>
 
 大略沿用《空之軌跡系列》的料理系統，但是在本作中可選擇各角色進行料理，每位角色擅長的料理類型也有所不同。
 
@@ -293,7 +296,7 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 
 在此只介紹故事中曾出現之國家、地區場景。
 <small>詳細請參考：[軌跡系列用語列表
-世界情勢](../Page/英雄傳說_軌跡系列用語列表#世界情勢.md "wikilink")</small>
+世界情勢](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#世界情勢 "wikilink")</small>
 
 本作以被稱作「魔都」商業貿易都市「克洛斯貝爾市」為中心，圍繞在克洛斯貝爾自治州為主要舞台。本作時間軸上皆在七耀曆1204年，《零》故事結束於6月\[41\]；《碧》故事開始於8月\[42\]。
 
@@ -301,7 +304,7 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 
   -
 
-本作品的舞台。在位於塞姆利亞大陸西部的自治州。由於位處埃雷波尼亞帝國與卡爾瓦德共和國之間，在《零》故事開始的70年前以兩國為共同宗主國成立，兩國在此享有[治外法權](../Page/治外法權.md "wikilink")。地理位置優越以及領內的瑪因茲礦山蘊有豐富七耀石，長期為兩大強權覬覦與引起爭亂之地，屢次接近成為兩國戰爭的導火線。國際間以「克洛斯貝爾問題」描述此狀況。
+本作品的舞台。在位於塞姆利亞大陸西部的自治州。由於位處埃雷波尼亞帝國與卡爾瓦德共和國之間，在《零》故事開始的70年前以兩國為共同宗主國成立，兩國在此享有[治外法權](https://zh.wikipedia.org/wiki/治外法權 "wikilink")。地理位置優越以及領內的瑪因茲礦山蘊有豐富七耀石，長期為兩大強權覬覦與引起爭亂之地，屢次接近成為兩國戰爭的導火線。國際間以「克洛斯貝爾問題」描述此狀況。
 
 在七耀曆1202年利貝爾王國提倡的不戰協議被簽訂之後，克洛斯貝爾的緊張局勢也被緩和。但依舊被限制不能擁有軍隊，只能成立國土警備隊；而治安維持只有官方的警察機構與民間的游擊士協會。
 
@@ -313,7 +316,7 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 近年由於受惠於不戰協議的簽訂而急速成長，導力網路等先進的的技術也蓬勃發展著。
 市內有著廣大的地下空間，以內建立了規模龐大的下水道與導力網路電纜。
 
-但由於兩大國強壓的[治外法權](../Page/治外法權.md "wikilink")，暗地裡帝國與共和國的諜報員的活動，從國外進入的犯罪組織鬥爭等，
+但由於兩大國強壓的[治外法權](https://zh.wikipedia.org/wiki/治外法權 "wikilink")，暗地裡帝國與共和國的諜報員的活動，從國外進入的犯罪組織鬥爭等，
 自治州法律皆無法可管，被他國稱作**「魔都」**。
 
   - 市內區域
@@ -486,11 +489,11 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 ### 組織
 
 <small>詳細請參考：[軌跡系列用語列表
-組織](../Page/英雄傳說_軌跡系列用語列表#組織.md "wikilink")</small>
+組織](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#組織 "wikilink")</small>
 
   -
     在沒有設立軍隊的克洛斯貝爾自治州，警察就是這裡長久以來負責**維持都市治安**的主力。
-    然而多年來一直深受州議會中帝國和共和國兩大派的挾制，不但無法懲治貪汙瀆職的政府官員和議員，對那些和議會中的重量級議員有良好關係的黑手黨也是束手無策。至於外來的犯罪組織更是因[治外法權限制而毫無辦法](../Page/治外法權.md "wikilink")。因為效能如此的不濟，現在的克洛斯貝爾市民早已對警方信心盡失，幾乎只會向遊擊士協會求助。警界為了挽回顏面並重獲市民對他們的信任，才在近日實驗性的成立了新單位－「**特務支援課**」。
+    然而多年來一直深受州議會中帝國和共和國兩大派的挾制，不但無法懲治貪汙瀆職的政府官員和議員，對那些和議會中的重量級議員有良好關係的黑手黨也是束手無策。至於外來的犯罪組織更是因[治外法權限制而毫無辦法](https://zh.wikipedia.org/wiki/治外法權 "wikilink")。因為效能如此的不濟，現在的克洛斯貝爾市民早已對警方信心盡失，幾乎只會向遊擊士協會求助。警界為了挽回顏面並重獲市民對他們的信任，才在近日實驗性的成立了新單位－「**特務支援課**」。
 
 <!-- end list -->
 
@@ -702,8 +705,8 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 
 ### 日文版
 
-[PSP版由日本遊戲公司](../Page/PlayStation_Portable.md "wikilink")[Falcom所開發](../Page/Falcom.md "wikilink")。
-[PSV版由](../Page/PlayStation_Vita.md "wikilink")[Pyramid負責移植](../Page/Pyramid.md "wikilink")，[角川遊戲發行](../Page/jp:角川ゲームス.md "wikilink")。
+[PSP版由日本遊戲公司](../Page/PlayStation_Portable.md "wikilink")[Falcom所開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")。
+[PSV版由](../Page/PlayStation_Vita.md "wikilink")[Pyramid負責移植](https://zh.wikipedia.org/wiki/Pyramid "wikilink")，[角川遊戲發行](https://zh.wikipedia.org/wiki/jp:角川ゲームス "wikilink")。
 
 |   | 標題                  | 作業平台  | 儲存媒體       | 發行日期        | 備註                                                 |
 | - | ------------------- | ----- | ---------- | ----------- | -------------------------------------------------- |
@@ -716,8 +719,8 @@ Craft）與支援戰技（Support Craft）。《碧》則在AI戰鬥系統中新
 ### 中文版
 
 個人電腦[Microsoft
-Windows平台版本由在](../Page/Microsoft_Windows.md "wikilink")[英特衛的極力請求下](../Page/英特衛.md "wikilink")，[欢乐百世決定取得代理並負責移植與進行](../Page/欢乐百世.md "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[44\]。
-簡體中文版由[欢乐百世在中國大陸發售](../Page/欢乐百世.md "wikilink")，而繁體中文版由[英特衛和](../Page/英特衛.md "wikilink")[Typhoon
+Windows平台版本由在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世決定取得代理並負責移植與進行](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")[高畫質重製](../Page/HD_DVD.md "wikilink")\[44\]。
+簡體中文版由[欢乐百世在中國大陸發售](https://zh.wikipedia.org/wiki/欢乐百世 "wikilink")，而繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon
 Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 | 版本   | 各地發行時間      |
@@ -728,12 +731,12 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 ## 主題曲
 
-| 遊戲             | OP／ED | 曲名          | 主唱                                   | 作詞   | 作曲                                                                   | 編曲    | 演奏                      |
-| -------------- | ----- | ----------- | ------------------------------------ | ---- | -------------------------------------------------------------------- | ----- | ----------------------- |
-| 零之軌跡           | OP    | way of life | [小寺可南子](../Page/小寺可南子.md "wikilink") | 一二三恭 | [Falcom Sound Team jdk](../Page/Falcom_Sound_Team_jdk.md "wikilink") | 神藤由東大 | 吉他：寺前甲、Bass：榎本敦、鼓：畑中誇太朗 |
-| 碧之軌跡           | OP    | 碧い軌跡        | 吉他：寺前甲、Bass：榎本敦                      |      |                                                                      |       |                         |
-| 零之軌跡 Evolution | ED    | セルリアンブルーの恋  |                                      |      |                                                                      |       |                         |
-| 碧之軌跡 Evolution | OP    | 碧き願い        | 佐坂めぐみ                                |      |                                                                      |       |                         |
+| 遊戲             | OP／ED | 曲名          | 主唱                                   | 作詞   | 作曲                                                                                      | 編曲    | 演奏                      |
+| -------------- | ----- | ----------- | ------------------------------------ | ---- | --------------------------------------------------------------------------------------- | ----- | ----------------------- |
+| 零之軌跡           | OP    | way of life | [小寺可南子](../Page/小寺可南子.md "wikilink") | 一二三恭 | [Falcom Sound Team jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink") | 神藤由東大 | 吉他：寺前甲、Bass：榎本敦、鼓：畑中誇太朗 |
+| 碧之軌跡           | OP    | 碧い軌跡        | 吉他：寺前甲、Bass：榎本敦                      |      |                                                                                         |       |                         |
+| 零之軌跡 Evolution | ED    | セルリアンブルーの恋  |                                      |      |                                                                                         |       |                         |
+| 碧之軌跡 Evolution | OP    | 碧き願い        | 佐坂めぐみ                                |      |                                                                                         |       |                         |
 
 ## 週邊企劃
 
@@ -741,7 +744,8 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 <small>
 
-  - 「碧い軌跡」只在 [iTunes Store](../Page/iTunes_Store.md "wikilink")
+  - 「碧い軌跡」只在 [iTunes
+    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")
     上販售。其他皆為CD專輯。
 
 </small>
@@ -861,31 +865,32 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
   - 英雄傳説 零之軌跡 前傳 -審判的指環-
     空之軌跡兩位主角前往克洛斯貝爾之前的故事。
     作者為[英雄傳說VI
-    空之軌跡漫畫版的](../Page/英雄傳說VI_空之軌跡.md "wikilink")[啄木鳥真紀](../Page/啄木鳥真紀.md "wikilink")。
+    空之軌跡漫畫版的](../Page/英雄傳說VI_空之軌跡.md "wikilink")[啄木鳥真紀](https://zh.wikipedia.org/wiki/啄木鳥真紀 "wikilink")。
 
 <!-- end list -->
 
   - 英雄傳説 零之軌跡
-    《零》的漫畫化作品。作者為[島草あろう](../Page/島草あろう.md "wikilink")。
+    《零》的漫畫化作品。作者為[島草あろう](https://zh.wikipedia.org/wiki/島草あろう "wikilink")。
 
 ### 小說
 
   - 英雄傳說 零之軌跡 四人的命運
-    在[電子書籍](../Page/電子書籍.md "wikilink")「月刊FALCOM MAGAZINE」上連載。
-    作者是軌跡系列廣播劇劇本主筆[田沢大典](../Page/田沢大典.md "wikilink")。小說插圖由[松竜擔當](../Page/松竜.md "wikilink")。
+    在[電子書籍](https://zh.wikipedia.org/wiki/電子書籍 "wikilink")「月刊FALCOM
+    MAGAZINE」上連載。
+    作者是軌跡系列廣播劇劇本主筆[田沢大典](https://zh.wikipedia.org/wiki/田沢大典 "wikilink")。小說插圖由[松竜擔當](https://zh.wikipedia.org/wiki/松竜 "wikilink")。
 
 <!-- end list -->
 
   - 英雄傳說 零之軌跡(1) 金之太陽、銀之月
     英雄傳說 零之軌跡(2) 拍賣會的少女
     英雄傳說 零之軌跡(3) 克洛斯貝爾最漫長的一日
-    作者[市川丈夫](../Page/市川丈夫.md "wikilink")。小說插圖由[榎波克己擔當](../Page/榎波克己.md "wikilink")。
+    作者[市川丈夫](https://zh.wikipedia.org/wiki/市川丈夫 "wikilink")。小說插圖由[榎波克己擔當](../Page/榎波克己.md "wikilink")。
 
 <!-- end list -->
 
   - 英雄傳說 零之軌跡 午後紅茶加點糖
     英雄傳說 碧之軌跡 何時與你度茶會
-    作者[村崎幸也](../Page/村崎幸也.md "wikilink")。小說插圖由[窪茶擔當](../Page/窪茶.md "wikilink")。
+    作者[村崎幸也](https://zh.wikipedia.org/wiki/村崎幸也 "wikilink")。小說插圖由[窪茶擔當](https://zh.wikipedia.org/wiki/窪茶 "wikilink")。
 
 ### 網路廣播
 
@@ -898,9 +903,9 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 ## 關連項目
 
-  - [Falcom](../Page/Falcom.md "wikilink")
+  - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
-  - [軌跡系列](../Page/軌跡系列.md "wikilink")
+  - [軌跡系列](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")
   - [英雄傳說VI 空之軌跡（FC - SC - the 3rd）](../Page/英雄傳說VI_空之軌跡.md "wikilink")
   - [英雄傳說 閃之軌跡](../Page/英雄傳說_閃之軌跡.md "wikilink")
 
@@ -985,7 +990,7 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 25. 日本Falcom『IR情報』2010年12月21日
 
 26.
-27. Falcom社長[近藤季洋於](../Page/近藤季洋.md "wikilink")『電撃PlayStation』vol.492、26頁訪談
+27. Falcom社長[近藤季洋於](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")『電撃PlayStation』vol.492、26頁訪談
 
 28.
 
@@ -993,7 +998,7 @@ Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 30.
 31.
-32. 『[週刊ファミ通](../Page/ファミ通.md "wikilink")』No.1206（1月26日号）、[エンターブレイン](../Page/エンターブレイン.md "wikilink")、2012年、11頁。
+32. 『[週刊ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")』No.1206（1月26日号）、[エンターブレイン](https://zh.wikipedia.org/wiki/エンターブレイン "wikilink")、2012年、11頁。
 
 33. 日本Falcom『IR情報』2007年11月14日
 

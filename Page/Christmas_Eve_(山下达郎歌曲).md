@@ -1,21 +1,21 @@
 《**Christmas
-Eve**》（），是[日本男性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[山下達郎的第](../Page/山下達郎.md "wikilink")9張個人[單曲和代表作之一](../Page/單曲.md "wikilink")。1983年12月14日首次發行，之後多次發行再售盤。這首歌是日本最經典的[聖誕歌曲](../Page/聖誕節.md "wikilink")。
+Eve**》（），是[日本男性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[山下達郎的第](../Page/山下達郎.md "wikilink")9張個人[單曲和代表作之一](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1983年12月14日首次發行，之後多次發行再售盤。這首歌是日本最經典的[聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")。
 
 ## 簡介
 
 《Christmas
-Eve》原是[山下達郎](../Page/山下達郎.md "wikilink")1983年的[原創專輯](../Page/錄音室專輯.md "wikilink")《[MELODIES](../Page/MELODIES_\(山下達郎專輯\).md "wikilink")》的收錄歌曲，同年年底[聖誕節前夕單曲化發行](../Page/聖誕節.md "wikilink")，限定3萬張12英寸黑膠碟發售，當時在[Oricon公信榜單曲週榜上最高排行第](../Page/Oricon公信榜.md "wikilink")44位。
+Eve》原是[山下達郎](../Page/山下達郎.md "wikilink")1983年的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[MELODIES](https://zh.wikipedia.org/wiki/MELODIES_\(山下達郎專輯\) "wikilink")》的收錄歌曲，同年年底[聖誕節前夕單曲化發行](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，限定3萬張12英寸黑膠碟發售，當時在[Oricon公信榜單曲週榜上最高排行第](../Page/Oricon公信榜.md "wikilink")44位。
 
-1986年，再次以7英寸黑膠碟單曲形式發行。之後在1998年、2000年和2003年又進行了三次混音。每年聖誕節前後，單曲的銷量就會飆升，尤其是1988年至1992年期間被用作[JR東海的](../Page/JR東海.md "wikilink")「[X'mas
-EXPRESS](../Page/X'mas_EXPRESS.md "wikilink")」形象廣告歌，大受歡迎。最終在1989年，單曲發行之後的六年，獲得了Oricon公信榜冠軍，銷量並突破百萬，是Oricon史上銷量破百萬耗時最長的單曲。在1989年至1992年，連續四年進入Oricon單曲年榜前100位，其中1990年更高達13位；至2009年，連續24年單曲進入Oricon公信榜週榜前100位\[1\]。總出貨量突破200萬張\[2\]，總銷量高達180.4萬張，是[日本歷代單曲銷量第37位](../Page/日本最暢銷單曲列表.md "wikilink")\[3\]。
+1986年，再次以7英寸黑膠碟單曲形式發行。之後在1998年、2000年和2003年又進行了三次混音。每年聖誕節前後，單曲的銷量就會飆升，尤其是1988年至1992年期間被用作[JR東海的](https://zh.wikipedia.org/wiki/JR東海 "wikilink")「[X'mas
+EXPRESS](https://zh.wikipedia.org/wiki/X'mas_EXPRESS "wikilink")」形象廣告歌，大受歡迎。最終在1989年，單曲發行之後的六年，獲得了Oricon公信榜冠軍，銷量並突破百萬，是Oricon史上銷量破百萬耗時最長的單曲。在1989年至1992年，連續四年進入Oricon單曲年榜前100位，其中1990年更高達13位；至2009年，連續24年單曲進入Oricon公信榜週榜前100位\[1\]。總出貨量突破200萬張\[2\]，總銷量高達180.4萬張，是[日本歷代單曲銷量第37位](../Page/日本最暢銷單曲列表.md "wikilink")\[3\]。
 
 這首歌曲的如此大的成功很大程度得益於JR東海的「X'mas
 EXPRESS」系列廣告，當時[國鐵分割民營化之後成立的JR東海](../Page/國鐵分割民營化.md "wikilink")，經營由東京到大阪之間的鐵路路線，推出了以遠距離異地戀為主題的「EXPRESS
 SERIES」，《Christmas Eve》首先被用作1988年「[HOME-TOWN
-EXPRESS](../Page/HOME-TOWN_EXPRESS.md "wikilink")」（X'mas編）的廣告形象歌曲，然後從1989年開始，「HOME-TOWN
+EXPRESS](https://zh.wikipedia.org/wiki/HOME-TOWN_EXPRESS "wikilink")」（X'mas編）的廣告形象歌曲，然後從1989年開始，「HOME-TOWN
 EXPRESS」的X'mas編發展出「X'mas
-EXPRESS」，並繼續使用這首歌。這一系列的廣告幾乎都是以一個模式——盛裝打扮的少女在車站焦急地等待異地的戀人，配合山下的歌聲，營造出濃郁的聖誕氣氛。當時正是[泡沫景氣的頂峰時期](../Page/日本泡沫經濟.md "wikilink")，日本人開始普遍重視聖誕節，形成了一種「聖誕節想和戀人一起度過」的意識，因此廣告產生了巨大的迴響。「X'mas
-EXPRESS」系列廣告被譽為日本史上最成功的[電視廣告系列](../Page/電視廣告.md "wikilink")，不僅捧紅了實驗廣告女主角的眾多女星——如[深津繪里](../Page/深津繪里.md "wikilink")、[牧瀨里穗](../Page/牧瀨里穗.md "wikilink")、[吉本多香美等](../Page/吉本多香美.md "wikilink")，更成功推動了JR東海「X'mas
+EXPRESS」，並繼續使用這首歌。這一系列的廣告幾乎都是以一個模式——盛裝打扮的少女在車站焦急地等待異地的戀人，配合山下的歌聲，營造出濃郁的聖誕氣氛。當時正是[泡沫景氣的頂峰時期](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，日本人開始普遍重視聖誕節，形成了一種「聖誕節想和戀人一起度過」的意識，因此廣告產生了巨大的迴響。「X'mas
+EXPRESS」系列廣告被譽為日本史上最成功的[電視廣告系列](../Page/電視廣告.md "wikilink")，不僅捧紅了實驗廣告女主角的眾多女星——如[深津繪里](../Page/深津繪里.md "wikilink")、[牧瀨里穗](https://zh.wikipedia.org/wiki/牧瀨里穗 "wikilink")、[吉本多香美等](../Page/吉本多香美.md "wikilink")，更成功推動了JR東海「X'mas
 EXPRESS」的品牌化，也使山下這首《Christmas Eve》成為日本的國民聖誕歌曲\[4\]。
 
 ## 收錄曲目
@@ -39,9 +39,10 @@ EXPRESS」的品牌化，也使山下這首《Christmas Eve》成為日本的國
 
 ## 參見
 
-  - [X'mas Express](../Page/X'mas_Express.md "wikilink") -
-    [JR東海](../Page/JR東海.md "wikilink")
-  - [泡沫景氣](../Page/日本泡沫經濟.md "wikilink")
+  - [X'mas
+    Express](https://zh.wikipedia.org/wiki/X'mas_Express "wikilink") -
+    [JR東海](https://zh.wikipedia.org/wiki/JR東海 "wikilink")
+  - [泡沫景氣](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")
 
 ## 參考資料
 

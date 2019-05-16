@@ -1,9 +1,9 @@
-「**MOON**」為2008年6月11日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")40th[單曲](../Page/單曲.md "wikilink")。
+「**MOON**」為2008年6月11日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")40th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 
   - 本作為「[4 hot
-    wave](../Page/4_hot_wave.md "wikilink")」、「[FREAKY](../Page/FREAKY.md "wikilink")」以來連續的收錄4曲的夏季[單曲](../Page/單曲.md "wikilink")。
+    wave](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")」、「[FREAKY](../Page/FREAKY.md "wikilink")」以來連續的收錄4曲的夏季[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 3.  **Moon Crying（Making Video）**
 4.  **That Ain't Cool 那可不酷 feat. Fergie 菲姬（Making Video）**
 5.  '''Moon Crying（Live Video From KODA KUMI Live Tour 2008 ～Kingdom～
-    [東京](../Page/東京.md "wikilink")・國立代代木競技場第一體育館公演）※僅收錄於初回版
+    [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・國立代代木競技場第一體育館公演）※僅收錄於初回版
 
 ## 相關連結
 

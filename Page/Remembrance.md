@@ -16,7 +16,7 @@ x PAKHO 限量相機皮帶）。
 <tr class="even">
 <td><p>01</p></td>
 <td><p>傑出青年</p></td>
-<td><p><a href="../Page/Cousin_Fung.md" title="wikilink">Cousin Fung</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cousin_Fung" title="wikilink">Cousin Fung</a></p></td>
 <td><p><a href="../Page/周博賢.md" title="wikilink">周博賢</a></p></td>
 <td><p>表哥丰</p></td>
 <td><p>第四主打歌</p></td>
@@ -79,8 +79,8 @@ x PAKHO 限量相機皮帶）。
 
 ### 歌曲《乞丐王子》
 
-  - [2010年度叱咤樂壇流行榜頒獎典禮](../Page/2010年度叱咤樂壇流行榜頒獎典禮.md "wikilink") -
-    專業推介、叱咤十大 第六位《乞丐王子》
+  - [2010年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱咤樂壇流行榜頒獎典禮 "wikilink")
+    - 專業推介、叱咤十大 第六位《乞丐王子》
   - 《SinaMusic樂壇民意指數頒獎禮2010》- SINA MUSIC最高收聽率二十大歌曲《乞丐王子》
 
 [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

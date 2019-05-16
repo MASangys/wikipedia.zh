@@ -1,5 +1,5 @@
 **Starry☆Sky**是由[HONEY
-BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
+BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Page/日本.md "wikilink")[女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2010年12月23日在網絡上播放動畫第一集。
 
 ## 摘要
 
@@ -21,9 +21,10 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 ### Starry☆Sky ～in Spring～
 
   -
-    聲 - [緑川光](../Page/緑川光.md "wikilink") /
-    [甲斐田ゆき](../Page/甲斐田ゆき.md "wikilink") （幼少期）
-    星座 - [山羊座](../Page/山羊座.md "wikilink")
+    聲 - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") /
+    [甲斐田ゆき](https://zh.wikipedia.org/wiki/甲斐田ゆき "wikilink")
+    （幼少期）
+    星座 - [山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink")
     身高175cm　體重58kg　O型　生日1月12日
     天文科2年生。法國和日本的混血兒。星月學院天文科的轉校生。小時候曾見過女主角。長大後為了見女主角而特地轉校來到星月學園。後來為了繼續完成自己的夢想而回國和赴美。因為是混血兒的關係，自小便受其他人目光歧視。在第一天轉校時被哉太和錫也說長有一張中性的臉。十分喜歡錫也做的飯糰。意外的是個大食漢。被翼叫作「呆毛前輩」。
 
@@ -31,7 +32,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 
   -
     聲 - [杉田智和](../Page/杉田智和.md "wikilink")
-    星座 - [雙魚座](../Page/雙魚座.md "wikilink")
+    星座 - [雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
     身高175cm　體重55kg　B型　生日3月18日
     天文科2年生。女主角與錫也的青梅竹馬。從小就患有疾病，體力的極限只有3分，但十分會打架。自小便患有病，病發時可能危害生命，但又不想去醫院，所以經常在保健室出入。因外表兇惡和性格急躁，被羊叫作「不良君」，其實內裡是個非常易哭的愛哭鬼。愛看少年漫畫。十分尊敬一樹會長。被翼叫作「鳥巢前輩」。。
 
@@ -46,7 +47,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 ### Starry☆Sky ～in Summer～
 
   -
-    聲 - [保志総一朗](../Page/保志総一朗.md "wikilink")
+    聲 - [保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")
     星座 - [金牛座](../Page/金牛座.md "wikilink")
     身高185cm　體重64kg　O型　生日5月14日
     西洋占星術科3年生。茶道世家。弓道部部長。弓道三段。曾因壓力關係而在全國大賽中失手，因對此十分慚愧。因為壓力常常胃痛的關係，所以相當依賴胃藥。與一樹是好朋友關係，所以在學生會室內設有特地為譽泡茶的地方。家中有一位雙胞胎姊姊:金久保環與另一對雙胞胎妹妹金久保詩和金久保奏。
@@ -55,7 +56,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 
   -
     聲 - [神谷浩史](../Page/神谷浩史.md "wikilink")
-    星座：[天蠍座](../Page/天蠍座.md "wikilink")
+    星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
     身高178cm　體重60kg　A型　生日11月3日
     星座科2年生。弓道部副部長。性格嚴肅認真，不善於表達自己的情感，有「魔鬼副部長」之稱。弓道三段。在部長引退後成為新任部長。性格十分不坦率但卻十分單純，竟然會相信科幻電影的情節內容。意外地喜歡甜食，特別喜歡去「美味堂」，因而擁有豐富的甜點知識，被羊叫作「奶油掌門」，喝碳酸飲料會醉。
 
@@ -63,7 +64,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 
   -
     聲 - [福山潤](../Page/福山潤.md "wikilink")
-    星座 - [射手座](../Page/射手座.md "wikilink")
+    星座 - [射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
     身高166cm　體重51kg　為AB型　生日12月20日
     宇宙科1年生。弓道部所屬新部員。成績第二。弓道四段，曾有一年沒有練習過弓道。有著「天才」之名的轉學生，給人以玩世不恭的感覺，實質上對待自己所處理的事情全力以赴。嚮往自由，害怕被束縛。偶爾會流露出孩子氣的一面，擅長討女孩子歡心。與翼是表兄弟關係。額前的瀏海據說是因為翼的發明品失敗後而做成的，而被翼稱呼為「一刀平」。
 
@@ -76,12 +77,12 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     保健老師。星月學院理事長(星月琥春)的弟弟，後來成為正式的理事長。跟郁及有李是青梅竹馬，郁稱呼琥太郎為『琥太哥』。平時很邋遢，常常混水摸魚睡午覺，保健室經常亂七八糟，但其實私下代替姊姊兼職理事長的工作。兒時由於有李的心臟疾病，夢想做一名醫生，後來因有李病故，而放棄了成為醫生，混混噩噩過了幾年，因受到姊姊星月琥春的邀勸，而成為星月學園的保健老師。被翼稱為「赤腳隊長」。
   -
     聲 - [岸尾大輔](../Page/岸尾大輔.md "wikilink")
-    星座 - [獅子座](../Page/獅子座.md "wikilink")
+    星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     身高164cm　體重53kg　O型　生日8月11日 24歲
     天文科2年生的班主任。弓道部顧問。十分孩子氣的熱血教師，對於可愛的學生們總是盡心盡力。愛看少年漫畫。是枚酒鬼。經常被郁和琥太郎玩弄於掌中。被翼稱呼為「小不點老師」。
   -
     聲 - [遊佐浩二](../Page/遊佐浩二.md "wikilink")
-    星座 - [雙子座](../Page/雙子座.md "wikilink")
+    星座 - [雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
     身高187cm　體重67kg　B型　生日6月9日 21歲
     教育實習生。曾是個知名樂團的成員。看似在感情方面很有經驗，實則怕被別人利用。有位已歿雙胞胎姐姐（水嶋有李）。性格彆扭，心口不一，相當壞心眼。被翼稱呼為「捲毛眼鏡君」。本人聲稱只對女人和貓溫柔。
 
@@ -89,7 +90,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 
   -
     聲 - [鈴村健一](../Page/鈴村健一.md "wikilink")
-    星座 - [水瓶座](../Page/水瓶座.md "wikilink")
+    星座 - [水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
     身高185cm 體重61kg 血型AB型 生日2月3日
     宇宙科1年生。學生會的會計。成績是第一，喜歡發明一些奇奇怪怪的東西和語言，不過實驗經常失敗，修理往往變成了破壞。愛取他人的花名。與梓是表兄弟關係。口頭禪是「呣呣呣」，在學生會室裡有個人專屬的實驗室，牆壁還有特別加厚及防爆。被星月琥太郎稱呼為「素足一等兵」。另外，翼的祖母為天羽志乃。
 
@@ -102,7 +103,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     星詠科3年生。星月學園學生會會長，由於骨折住院兩個月，曾留年一年。與譽和白銀學長感情很要好。為了實踐對恩師的承諾把翼拉進了學生會，同時也默默守護著女主角。雖然做事方式有些強硬，但由於很有魅力，所以很受學生們歡迎，有預知未來的能力。被翼叫作「火火（ぬいぬい）」。經常被翼作為他的實驗品去試驗。被說像個爸爸和大叔氣，常和天羽翼一起吵鬧搞破壞被青空颯斗斥責，最喜歡一邊喝著咖啡看報紙。中學時曾擔任七海哉太的格鬥技師父。另外，一樹的叔父為不知火宗次郎。
   -
     聲 - [平川大輔](../Page/平川大輔.md "wikilink")
-    星座 - [處女座](../Page/處女座.md "wikilink")
+    星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     身高182cm 體重60kg 血型A型 生日9月15日
     神話科2年生。學生會副會長。知名音樂世家的么子。有著腹黑的性格。被翼叫作「空空（そらそら）」。會用指甲刮黑板來阻止不知火一樹以及天羽翼的吵鬧（有時會加上白銀櫻士郎）。有2位兄姊，分別是哥哥青空隼風和姊姊青空風音，而堂弟則就讀於七夜藝術學校中等部3年級的青空空翔。
 
@@ -125,7 +126,7 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     星月學園理事長。30歲。前任理事長，星月琥太郎的姐姐，成熟的知性美女，個性豪爽大方。
   -
     聲 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
-    星座 - [天蠍座](../Page/天蠍座.md "wikilink")
+    星座 - [天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
     身高182cm 體重67kg　血型O型　生日10月24日。
     西洋占星術科3年生。與一樹是好友。前新聞部部長，依然熱中蒐集情報採訪活動，不管外表還是內在都是十足十的怪人。
   -
@@ -135,19 +136,19 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     神話科2年生。弓道部所屬。弓道部笨蛋三人組之一。擅長觀察他人，常默默的支持著宮地龍之介與夜久月子。
   -
     聲 - [近藤隆](../Page/近藤隆.md "wikilink")
-    星座 - [水瓶座](../Page/水瓶座.md "wikilink")
+    星座 - [水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
     身高182cm　體重65kg　血型O型　生日2月14日。
     星座科2年生。弓道部所屬。弓道部笨蛋三人組之一。個性單純直率，因為戀慕著夜久月子而加入弓道部，常被宮地龍之介嚷著要矯正思想而追著跑。
   -
     聲 -
     [堀江一真](../Page/堀江一真.md "wikilink")→[代永翼](../Page/代永翼.md "wikilink")
-    星座 - [山羊座](../Page/山羊座.md "wikilink")
+    星座 - [山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink")
     身高168cm　體重54kg　血型A型　生日1月16日。
     天文科1年生。弓道部所屬。弓道部笨蛋三人組之一。個性怯弱膽小，常被犬飼隆文和白鳥彌彥牽連，被宮地龍之介斥責。
     Starry☆Sky 〜in Summer〜 星的砂濱浪漫譚～之後聲優由堀江一真替換成代永翼。
   -
     聲 - [小野友樹](../Page/小野友樹.md "wikilink")
-    星座 - [處女座](../Page/處女座.md "wikilink")
+    星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     天文科2年生，隸屬廣播社。
   -
     聲 - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
@@ -155,22 +156,22 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     天文科2年生，隸屬足球社。
   -
     聲 - [成瀨誠](../Page/成瀨誠.md "wikilink")
-    星座 - [天蠍座](../Page/天蠍座.md "wikilink")
+    星座 - [天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
     天文科2年生。
   -
     聲 - [杉山紀彰](../Page/杉山紀彰.md "wikilink")
-    星座 - [水瓶座](../Page/水瓶座.md "wikilink")
+    星座 - [水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
     天文科2年生，隸屬足球社。
   -
-    聲 - [高野康弘](../Page/高野康弘.md "wikilink")
-    星座 - [獅子座](../Page/獅子座.md "wikilink")
+    聲 - [高野康弘](https://zh.wikipedia.org/wiki/高野康弘 "wikilink")
+    星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     天文科2年生，隸屬柔道社和廣播社。
 
 ### FAN DISC
 
   -
     聲 - [日野聰](../Page/日野聰.md "wikilink")
-    星座 - [處女座](../Page/處女座.md "wikilink")
+    星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     神話科1年生。
   -
     聲 - [小西克幸](../Page/小西克幸.md "wikilink")
@@ -178,15 +179,15 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     教育實習生。
   -
     聲 - [齋賀光希](../Page/齋賀光希.md "wikilink")
-    星座 - [射手座](../Page/射手座.md "wikilink")
+    星座 - [射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
     大學生，原私立陸海學園女子弓道部部長，進大學後加入了弓道部。
   -
     聲 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
-    星座 - [水瓶座](../Page/水瓶座.md "wikilink")
+    星座 - [水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
     天文學者。法國人。土萌羊的父親。40歲。
   -
-    聲 - [藤本教子](../Page/藤本教子.md "wikilink")
-    星座 - [射手座](../Page/射手座.md "wikilink")
+    聲 - [藤本教子](https://zh.wikipedia.org/wiki/藤本教子 "wikilink")
+    星座 - [射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
     天文學者。日本人。土萌羊的母親。38歲。
   -
     聲 - [興津和幸](../Page/興津和幸.md "wikilink")
@@ -194,30 +195,30 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     七海哉太的父親。已歿。
   -
     聲 - [加藤雅美](../Page/加藤雅美.md "wikilink")
-    星座 - [獅子座](../Page/獅子座.md "wikilink")
+    星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     護士。七海哉太的母親。37歲。
   -
-    聲 - [岡本ナミ](../Page/岡本ナミ.md "wikilink")
-    星座 - [處女座](../Page/處女座.md "wikilink")
+    聲 - [岡本ナミ](https://zh.wikipedia.org/wiki/岡本ナミ "wikilink")
+    星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     家庭主婦。東月錫也的母親。40歲。
   -
     聲 - [前野智昭](../Page/前野智昭.md "wikilink")
-    星座 - [天蠍座](../Page/天蠍座.md "wikilink")
+    星座 - [天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
     私立陸海學園弓道部部長。二年級。
   -
     聲 - [浪川大輔](../Page/浪川大輔.md "wikilink")
-    星座 - [雙子座](../Page/雙子座.md "wikilink")
+    星座 - [雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
     弓弦的弟弟。一年級。
   -
     聲 - [山口勝平](../Page/山口勝平.md "wikilink")
     星座 - [巨蟹座](../Page/巨蟹座.md "wikilink")
     私立陸海學園弓道部副部長。二年級。
   -
-    聲 - [井田國男](../Page/井田國男.md "wikilink")
+    聲 - [井田國男](https://zh.wikipedia.org/wiki/井田國男 "wikilink")
     星座 - [巨蟹座](../Page/巨蟹座.md "wikilink")
     茶道家。金久保譽的父親。
   -
-    聲 - [丸山雪野](../Page/丸山雪野.md "wikilink")
+    聲 - [丸山雪野](https://zh.wikipedia.org/wiki/丸山雪野 "wikilink")
     星座 - [天秤座](../Page/天秤座.md "wikilink")
     金久保譽的母親。
   -
@@ -226,31 +227,31 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
     金久保譽的雙胞胎姊姊。
   -
     聲 - [小櫻悅子](../Page/小櫻悅子.md "wikilink")
-    星座 - [雙魚座](../Page/雙魚座.md "wikilink")
+    星座 - [雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
     金久保奏的雙胞胎姊姊。
   -
     聲 - [南央美](../Page/南央美.md "wikilink")
-    星座 - [雙魚座](../Page/雙魚座.md "wikilink")
+    星座 - [雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
     金久保詩的雙胞胎妹妹。
   -
     聲 - [谷山紀章](../Page/谷山紀章.md "wikilink")
-    星座 - [雙子座](../Page/雙子座.md "wikilink")
+    星座 - [雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")
     宮地龍之介的哥哥。
   -
     聲 - [金田晶](../Page/金田晶.md "wikilink")
-    星座 - [獅子座](../Page/獅子座.md "wikilink")
+    星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     宮地龍之介的弟弟。
   -
-    聲 - [小田久史](../Page/小田久史.md "wikilink")
-    星座 - [處女座](../Page/處女座.md "wikilink")
+    聲 - [小田久史](https://zh.wikipedia.org/wiki/小田久史 "wikilink")
+    星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     星月學園弓道部新入部員。神話科一年級。
   -
-    聲 - [神原大地](../Page/神原大地.md "wikilink")
+    聲 - [神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")
     星座 - [金牛座](../Page/金牛座.md "wikilink")
     星月學園弓道部新入部員。西洋占星術科一年級。
   -
-    聲 - [高坂篤志](../Page/高坂篤志.md "wikilink")
-    星座 - [獅子座](../Page/獅子座.md "wikilink")
+    聲 - [高坂篤志](https://zh.wikipedia.org/wiki/高坂篤志 "wikilink")
+    星座 - [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     星月學園弓道部新入部員。天文科一年級。
 
 ## 主題曲
@@ -485,8 +486,8 @@ BEE發售的](../Page/HONEY_BEE.md "wikilink")[日本](../Page/日本.md "wikili
 ## 動畫
 
 2010年12月23日開始在[Animate
-TV和](../Page/Animate_TV.md "wikilink")[animatemobile於](../Page/animatemobile.md "wikilink")16：00進行網絡播放。
-預定2011年將會在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台進行電視播放](../Page/SUN電視台.md "wikilink")。
+TV和](https://zh.wikipedia.org/wiki/Animate_TV "wikilink")[animatemobile於](https://zh.wikipedia.org/wiki/animatemobile "wikilink")16：00進行網絡播放。
+預定2011年將會在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台進行電視播放](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")。
 
 ### 工作人員
 
@@ -645,7 +646,7 @@ TV和](../Page/Animate_TV.md "wikilink")[animatemobile於](../Page/animatemobile
 <td><p>岡宗次郎</p></td>
 <td><p>小俣真一</p></td>
 <td><p>岡崎洋美<br />
-<a href="../Page/藤岡真紀.md" title="wikilink">藤岡真紀</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/藤岡真紀" title="wikilink">藤岡真紀</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -698,7 +699,7 @@ TV和](../Page/Animate_TV.md "wikilink")[animatemobile於](../Page/animatemobile
 <td><p>19</p></td>
 <td><p>Episode Libra I<br />
 天秤座 I</p></td>
-<td><p><a href="../Page/柳沢テツヤ.md" title="wikilink">柳沢テツヤ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳沢テツヤ" title="wikilink">柳沢テツヤ</a></p></td>
 <td><p>又野弘道</p></td>
 <td><p>山田裕子</p></td>
 <td></td>
@@ -773,11 +774,11 @@ TV和](../Page/Animate_TV.md "wikilink")[animatemobile於](../Page/animatemobile
 
 ### 播放電視台
 
-| 播放地域                               | 播放電視台                                          | 播放期間               | 播放日時                |
-| ---------------------------------- | ---------------------------------------------- | ------------------ | ------------------- |
-| [日本全域](../Page/日本全域.md "wikilink") | [Animate TV](../Page/Animate_TV.md "wikilink") | 2010年12月23日 -      | 星期四 16時00分播放        |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [SUN電視台](../Page/SUN電視台.md "wikilink")         | 2011年2月3日 -        | 星期四 26時10分 - 26時40分 |
-| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")       | 木曜 27時00分 - 27時30分 |                     |
+| 播放地域                                                  | 播放電視台                                                             | 播放期間               | 播放日時                |
+| ----------------------------------------------------- | ----------------------------------------------------------------- | ------------------ | ------------------- |
+| [日本全域](https://zh.wikipedia.org/wiki/日本全域 "wikilink") | [Animate TV](https://zh.wikipedia.org/wiki/Animate_TV "wikilink") | 2010年12月23日 -      | 星期四 16時00分播放        |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")   | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")         | 2011年2月3日 -        | 星期四 26時10分 - 26時40分 |
+| [東京都](../Page/東京都.md "wikilink")                      | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                          | 木曜 27時00分 - 27時30分 |                     |
 
 ### DVD
 
@@ -843,7 +844,7 @@ BEE官方為《Starry☆Sky》主要角色們所申請的[Twitter](../Page/Twitt
 
 ## 關連項目
 
-  - [HONEY BEE](../Page/HONEY_BEE.md "wikilink")
+  - [HONEY BEE](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")
 
 ## 延伸創作
 

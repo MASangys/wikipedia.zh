@@ -3,7 +3,7 @@ Color版為基礎所重製](../Page/Game_Boy_Color.md "wikilink")，延續初代
 
 除了本篇內容之外，遊戲中還收錄了以 2006 年 9 月推出的 PSP《幻想傳奇
 -全語音版-》為基礎加以強化的《幻想傳奇X》，保留既有全語音演出，同時改良戰鬥步調，追加新事件新角色以及由[Production
-I.G新繪製的秘奧義特寫動畫](../Page/Production_I.G.md "wikilink")。除了一般的職業服裝之外，遊戲中還收錄了可以裝扮成特定角色的「特別服裝」，目前已知有《[美德傳奇](../Page/美德傳奇.md "wikilink")》主角艾斯貝爾、《[偶像大師](../Page/偶像大師.md "wikilink")》天海春香，以及《[鐵拳系列](../Page/鐵拳系列.md "wikilink")》風間飛鳥的服裝。
+I.G新繪製的秘奧義特寫動畫](../Page/Production_I.G.md "wikilink")。除了一般的職業服裝之外，遊戲中還收錄了可以裝扮成特定角色的「特別服裝」，目前已知有《[美德傳奇](../Page/美德傳奇.md "wikilink")》主角艾斯貝爾、《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》天海春香，以及《[鐵拳系列](https://zh.wikipedia.org/wiki/鐵拳系列 "wikilink")》風間飛鳥的服裝。
 
 ## 登場人物
 

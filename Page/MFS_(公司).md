@@ -1,27 +1,28 @@
 **MFS** (**M**asterminded **F**or **S**uccess)
-是來自[德國](../Page/德國.md "wikilink")[柏林的一個獨立電子舞曲音樂廠牌](../Page/柏林.md "wikilink")。活躍年限為1990-2008
+是來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林的一個獨立電子舞曲音樂廠牌](../Page/柏林.md "wikilink")。活躍年限為1990-2008
 (MFS 現階段狀態為暫停發行唱片，廠牌仍未解散)。 來自英國的**[馬克·雷德](../Page/馬克·雷德.md "wikilink")**
 (Mark Reeder)在1990年開創成立。
 冷戰時期東德國有的德意志唱片公司在1993年解散前曾資助此廠牌，成為東德第一家獨立舞曲廠牌。此後，雷德獨立經營MFS，也持續發行電子舞曲音樂唱片。
 
-MFS被樂界公認為迷幻電音廠牌的創始先驅，且是第一個將[Trance](../Page/Trance.md "wikilink") music
-“迷幻音樂曲風” 一詞成功定位的地下音樂廠牌。 MFS早期主要鎖定發行迷幻音樂風格，爾後也推出不同類型的電子音樂。
+MFS被樂界公認為迷幻電音廠牌的創始先驅，且是第一個將[Trance](https://zh.wikipedia.org/wiki/Trance "wikilink")
+music “迷幻音樂曲風” 一詞成功定位的地下音樂廠牌。 MFS早期主要鎖定發行迷幻音樂風格，爾後也推出不同類型的電子音樂。
 MFS幫助很多當時默默無名的DJ成功發跡，開創事業。如:
-[保羅凡戴克](../Page/保羅凡戴克.md "wikilink")，[Harald
-Blüchel](../Page/Harald_Blüchel.md "wikilink"), Mijk van Dijk, [Gerret
-Frerichs](../Page/Gerret_Frerichs.md "wikilink") … 等。
+[保羅凡戴克](https://zh.wikipedia.org/wiki/保羅凡戴克 "wikilink")，[Harald
+Blüchel](https://zh.wikipedia.org/wiki/Harald_Blüchel "wikilink"), Mijk
+van Dijk, [Gerret
+Frerichs](https://zh.wikipedia.org/wiki/Gerret_Frerichs "wikilink") … 等。
 
 ## 歷史
 
 ### 九零年代 - MFS
 
-1990年12月，[英國籍的](../Page/英國.md "wikilink")**雷德**在德國成立**MFS**唱片廠牌。此英文名稱取自於前[東德國家安全部](../Page/東德.md "wikilink")[史塔西](../Page/史塔西.md "wikilink")(Stasi)的德文字母縮寫(**M**inisterium
+1990年12月，[英國籍的](https://zh.wikipedia.org/wiki/英國 "wikilink")**雷德**在德國成立**MFS**唱片廠牌。此英文名稱取自於前[東德國家安全部](../Page/東德.md "wikilink")[史塔西](../Page/史塔西.md "wikilink")(Stasi)的德文字母縮寫(**M**inisterium
 **F**ür **S**taatssicherheit)。 初期簽下的藝人有Paul Browse 和 Johnny Klimek
 (兩人合組成 － Effective Force) 、DAF 的Gaby Delgado 和 Saba Komossa "2
 German Latinos", "Neutron 9000" 。
 
-MFS很快的以創作[Trance迷幻曲風聞名](../Page/Trance.md "wikilink")。在1991年簽下DJ Mijk
-van Dijk, Cosmic Baby, Humate 和保羅凡戴克。雷德對創作出旋律及節奏輕快Techno的遠見，在Cosmic
+MFS很快的以創作[Trance迷幻曲風聞名](https://zh.wikipedia.org/wiki/Trance "wikilink")。在1991年簽下DJ
+Mijk van Dijk, Cosmic Baby, Humate 和保羅凡戴克。雷德對創作出旋律及節奏輕快Techno的遠見，在Cosmic
 Baby發行的專輯中精彩詮釋了他的概念。MFS令大家最耳熟能詳的專輯為《The Visions of Shiva》 由Harald
 Blüchel 和 Paul van Dyk 連合創作。他們在1993年解散之前，一起發行了 《Perfect day》和《How Much
 Can You Take?》。 MFS發行過另一張知名專輯為Humate的《Love stimulation》，保羅凡戴克也製作此同名混音單曲。
@@ -32,32 +33,33 @@ Trip》。
 MFS發行過許多知名專輯如 1992年《Stellar Supreme 》，1993年Dr Motte的《Ki》，1994年，Mijk van
 Dijk的《Afreuropamericasiaustralica》以及保羅凡戴克1994年的《45 RPM》和 1996年《Seven
 Ways》也是保羅人生中發行的最初兩張專輯。保羅凡戴克和Cosmic baby成為MFS旗下首要藝人，1994年Cosmic
-Baby因唱片公司[BMG重金誘惑下而選擇跳槽](../Page/BMG.md "wikilink")。MFS也開始陸續簽下許多地下藝人，保羅當時為MFS主要創作藝人。90年代中期後，DJ保羅凡戴克的人氣迅速提高且成功的在電音市場達到頂端。1998年保羅凡戴克離開MFS後自創音樂廠牌Vandit。MFS隨後因Vandit發行專輯《Out
+Baby因唱片公司[BMG重金誘惑下而選擇跳槽](https://zh.wikipedia.org/wiki/BMG "wikilink")。MFS也開始陸續簽下許多地下藝人，保羅當時為MFS主要創作藝人。90年代中期後，DJ保羅凡戴克的人氣迅速提高且成功的在電音市場達到頂端。1998年保羅凡戴克離開MFS後自創音樂廠牌Vandit。MFS隨後因Vandit發行專輯《Out
 There and Back》所屬權爭議和保羅進行法律訴訟案件。《Out There and
 Back》最後由MFS在英國的姐妹廠牌Deviant 推出發行。
 
 ### 廠牌中斷
 
 1999年起，電子舞曲音樂開始轉型成許多新方向。 MFS也因唱片市場林立大小不同的廠牌而面臨了專輯發行問題。雷德亦然而然決定
-Trance時代已經落幕，並將重心專注於發展其他曲風，如：[Techno](../Page/Techno.md "wikilink")。他和匈牙利籍DJ
+Trance時代已經落幕，並將重心專注於發展其他曲風，如：[Techno](https://zh.wikipedia.org/wiki/Techno "wikilink")。他和匈牙利籍DJ
 Corvin Dalak 創造了一種更深沉且性感的電子舞曲音樂，稱為”Wet & Hard”。1999年，MFS成立了兩個名為 "Flesh"
 和 "Telemetric"的副廠牌。Flesh曲風以 Wet & Hard為主; Telemetric
 主要曲風為Techno，其中也製作了Trance風格的單曲。副廠牌Telemetric從未成功的打入電音市場。Flesh旗下DJ發行了一些知名且具爭議性的舞曲。如
 DJ Corvin Dalek (雷德和他一起為知名藝人如
 [新秩序樂團](../Page/新秩序_\(樂團\).md "wikilink")、[天命真女](../Page/天命真女.md "wikilink")、
-Da Hool、[無信念樂團](../Page/無信念樂團.md "wikilink")…等 製作混音單曲) Mr Sam, Eiven
-Major, Klang 和 Jan Kessler。 Flesh 發行的唱片，不但具有收藏性，雷德和Corvin Dalak共同設計的藝術平面
-使其辨識度極高。極具爭議的專輯CD “Assorted Lovetoys”創下在瑞士被禁止發售的紀錄。Flesh廠牌，發行了許多經典的舞曲 如:
-*Young People*, *Pounds & Penz*, *Pornoground*, *Crystal* 和 *I Like It
-69*。還有Wet & Hard曲風的合輯 ("*Wet\&Hard*", "*Flesh For Fantasy*" 和
-"*Feel*")。以及DJ Corvin Dalak的專輯 *"I am a Dalak"*，雷德和Corvin Dalak
-因為此專輯，兩人展開世界巡迴演出，足跡遍布哥倫比亞、中國、美國、 墨西哥、英國…
-等。可惜的是，因歐洲許多主要黑膠壓製供應商倒閉，在2008年廠牌老闆雷德決定回到以往製作電子搖滾音樂，將MFS
-和 Flesh暫時冷凍並且取消廠牌所有活動。\[1\]
+Da Hool、[無信念樂團](https://zh.wikipedia.org/wiki/無信念樂團 "wikilink")…等
+製作混音單曲) Mr Sam, Eiven Major, Klang 和 Jan Kessler。 Flesh
+發行的唱片，不但具有收藏性，雷德和Corvin Dalak共同設計的藝術平面 使其辨識度極高。極具爭議的專輯CD
+“Assorted Lovetoys”創下在瑞士被禁止發售的紀錄。Flesh廠牌，發行了許多經典的舞曲 如: *Young People*,
+*Pounds & Penz*, *Pornoground*, *Crystal* 和 *I Like It 69*。還有Wet &
+Hard曲風的合輯 ("*Wet\&Hard*", "*Flesh For Fantasy*" 和 "*Feel*")。以及DJ
+Corvin Dalak的專輯 *"I am a Dalak"*，雷德和Corvin Dalak
+因為此專輯，兩人展開世界巡迴演出，足跡遍布哥倫比亞、中國、美國、
+墨西哥、英國… 等。可惜的是，因歐洲許多主要黑膠壓製供應商倒閉，在2008年廠牌老闆雷德決定回到以往製作電子搖滾音樂，將MFS 和
+Flesh暫時冷凍並且取消廠牌所有活動。\[1\]
 
 ## 相關條目
 
-  - [Vandit](../Page/Vandit.md "wikilink")
+  - [Vandit](https://zh.wikipedia.org/wiki/Vandit "wikilink")
   - [馬克·雷德](../Page/馬克·雷德.md "wikilink") (Mark Reeder)
 
 ## 參考資料

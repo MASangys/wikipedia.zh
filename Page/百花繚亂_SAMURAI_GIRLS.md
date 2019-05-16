@@ -1,5 +1,5 @@
 《**百花繚亂 SAMURAI GIRLS**》（）是[Hobby
-Japan創立](../Page/Hobby_Japan.md "wikilink")40週年的跨媒體紀念企劃，由[すずきあきら撰寫](../Page/鈴木ドイツ.md "wikilink")、[Niθ插畫的](../Page/Niθ.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[HJ文庫出版](../Page/HJ文庫.md "wikilink")。中文版輕小說由[東立出版社代理](../Page/東立出版社.md "wikilink")。
+Japan創立](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")40週年的跨媒體紀念企劃，由[すずきあきら撰寫](https://zh.wikipedia.org/wiki/鈴木ドイツ "wikilink")、[Niθ插畫的](https://zh.wikipedia.org/wiki/Niθ "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[HJ文庫出版](../Page/HJ文庫.md "wikilink")。中文版輕小說由[東立出版社代理](../Page/東立出版社.md "wikilink")。
 
 2010年3月，宣布製作電視動畫的企劃；第1季《百花繚亂 武士少女（SAMURAI
 GIRLS）》於2010年10月起透過電視播放。第2季《百花繚亂
@@ -28,7 +28,7 @@ AFTER）》。
 <!-- end list -->
 
   -
-    武應學園中學部學生，13歲(動畫版是15歲高一生)。身穿白色[校園泳裝披著](../Page/校園泳裝.md "wikilink")[陣羽織](../Page/陣羽織.md "wikilink")，身旁跟著一隻小猴子・佐助（在動畫版第二季中登場）。柳生宗朗的劍姬，在柳生宗朗身邊擔任軍師的角色，閱讀速度極快。使用著鐵製巨扇，雖然在攻擊上容易露出破綻，但是一把在防禦上有優秀性能的武器。特點是幼兒體型和大大的腦門，結契後雖然武力略遜其餘劍姬，但強化其身為軍師方面的才能，能通過類似心電感應的方式聯絡宗朗麾下的劍姬，掌握一定範圍內四維空間的準確構造。劍姬紋為「智」，位於臀部，劍姬語為「不惜身命」。
+    武應學園中學部學生，13歲(動畫版是15歲高一生)。身穿白色[校園泳裝披著](https://zh.wikipedia.org/wiki/校園泳裝 "wikilink")[陣羽織](https://zh.wikipedia.org/wiki/陣羽織 "wikilink")，身旁跟著一隻小猴子・佐助（在動畫版第二季中登場）。柳生宗朗的劍姬，在柳生宗朗身邊擔任軍師的角色，閱讀速度極快。使用著鐵製巨扇，雖然在攻擊上容易露出破綻，但是一把在防禦上有優秀性能的武器。特點是幼兒體型和大大的腦門，結契後雖然武力略遜其餘劍姬，但強化其身為軍師方面的才能，能通過類似心電感應的方式聯絡宗朗麾下的劍姬，掌握一定範圍內四維空間的準確構造。劍姬紋為「智」，位於臀部，劍姬語為「不惜身命」。
 
 <!-- end list -->
 
@@ -153,16 +153,16 @@ AFTER）》。
 <th><p>集數</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題</p></th>
-<th><p><a href="../Page/Hobby_Japan.md" title="wikilink">Hobby Japan</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Hobby_Japan" title="wikilink">Hobby Japan</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -226,21 +226,21 @@ AFTER）》。
 <td></td>
 <td><p>百花繚亂 卷之玖</p></td>
 <td><p>2011年9月1日</p></td>
-<td><p><a href="../Page/Special:网络书源/9784798602844.md" title="wikilink">ISBN 978-4-7986-0284-4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Special:网络书源/9784798602844" title="wikilink">ISBN 978-4-7986-0284-4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td></td>
 <td><p>百花繚亂 卷之拾</p></td>
 <td><p>2011年12月28日</p></td>
-<td><p><a href="../Page/Special:网络书源/9784798603353.md" title="wikilink">ISBN 978-4-7986-0335-3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Special:网络书源/9784798603353" title="wikilink">ISBN 978-4-7986-0335-3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td></td>
 <td><p>百花繚亂 卷之拾壹</p></td>
 <td><p>2012年4月27日</p></td>
-<td><p><a href="../Page/Special:网络书源/9784798603957.md" title="wikilink">ISBN 978-4-7986-0395-7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Special:网络书源/9784798603957" title="wikilink">ISBN 978-4-7986-0395-7</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -287,16 +287,16 @@ AFTER）》。
 <tr class="header">
 <th><p>日文書名</p></th>
 <th><p>中文書名</p></th>
-<th><p><a href="../Page/Hobby_Japan.md" title="wikilink">Hobby Japan</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Hobby_Japan" title="wikilink">Hobby Japan</a></p></th>
 <th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發行日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -316,7 +316,7 @@ AFTER）》。
 ## 動畫
 
 電視動畫第1季《百花繚亂 武士少女（SAMURAI
-GIRLS）》於2010年9月3日在[東京都會電視台先行播放第一話](../Page/東京都會電視台.md "wikilink")。2010年10月3日在[神奈川等電視台開始播放](../Page/神奈川.md "wikilink")。第2季《百花繚亂
+GIRLS）》於2010年9月3日在[東京都會電視台先行播放第一話](../Page/東京都會電視台.md "wikilink")。2010年10月3日在[神奈川等電視台開始播放](https://zh.wikipedia.org/wiki/神奈川 "wikilink")。第2季《百花繚亂
 武士新娘（SAMURAI BRIDE）》自2013年4月5日起播出。
 
 2015年1月23日發售Niθ個人畫冊《續・艶姿戲畫 上卷》，同捆OVA動畫《百花繚亂 武士後談（SAMURAI
@@ -325,23 +325,23 @@ AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景
 
 ### 製作人員
 
-  - 原作：[すずきあきら](../Page/鈴木ドイツ.md "wikilink")
-  - 角色設定原案：[Niθ](../Page/Niθ.md "wikilink")
+  - 原作：[すずきあきら](https://zh.wikipedia.org/wiki/鈴木ドイツ "wikilink")
+  - 角色設定原案：[Niθ](https://zh.wikipedia.org/wiki/Niθ "wikilink")
   - 監督：KOBUN
   - 副監督：佐藤清光（第2季）
-  - 系列構成：[金月龍之介](../Page/金月龍之介.md "wikilink")（第1季）、[西園悟](../Page/西園悟.md "wikilink")（第2季）
+  - 系列構成：[金月龍之介](https://zh.wikipedia.org/wiki/金月龍之介 "wikilink")（第1季）、[西園悟](https://zh.wikipedia.org/wiki/西園悟 "wikilink")（第2季）
   - 人物設定・總作畫監督：宮澤努
-  - 美術監督：[東潤一](../Page/東潤一.md "wikilink")
+  - 美術監督：[東潤一](https://zh.wikipedia.org/wiki/東潤一 "wikilink")
   - 美術設定：青木智由紀、綱頭瑛子（第1季）、高橋武之（第2季）
   - 色彩設定：阿部みゆき
   - 攝影監督：浅川茂輝
   - 剪接：田熊純
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：加藤達也
-  - 動畫制作：[Arms](../Page/Arms.md "wikilink")
-  - 企劃製作：[GENCO](../Page/GENCO.md "wikilink")
+  - 動畫制作：[Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
+  - 企劃製作：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
   - 製作：百花繚乱 PARTNERS（第1季）、百花繚乱 SB PARTNERS（第2季）
-  - 旁白：[立木文彥](../Page/立木文彥.md "wikilink")
+  - 旁白：[立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
 
 ### 主題曲
 
@@ -351,14 +351,15 @@ AFTER）》第一話，故事圍繞柳生道場的伙伴們與新角色上杉景
 
 ::
 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements
-Garden](../Page/Elements_Garden.md "wikilink")），歌：[飛蘭](../Page/飛蘭.md "wikilink")
+Garden](../Page/Elements_Garden.md "wikilink")），歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
 
 :; 片尾曲「戀愛什麼還不能通過（）」
 
   -
 
       -
-        作詞：畑亞貴，作曲：福本公四郎 & 村井大，編曲：[高田曉](../Page/高田曉.md "wikilink")
+        作詞：畑亞貴，作曲：福本公四郎 &
+        村井大，編曲：[高田曉](https://zh.wikipedia.org/wiki/高田曉 "wikilink")
         歌：SAMURAI GIRLS
         〜柳生十兵衛、真田幸村、德川千〜（[悠木碧](../Page/悠木碧.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")）
 
@@ -704,7 +705,7 @@ Park Chamg-Fwan</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬電視網</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -720,10 +721,10 @@ Park Chamg-Fwan</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2010年10月3日－12月18日</p></td>
 <td><p>星期日 24時30分－25時00分</p></td>
-<td><p><a href="../Page/独立UHF局.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -744,10 +745,10 @@ Park Chamg-Fwan</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2010年10月5日－12月20日</p></td>
 <td><p>星期二 25時30分－26時00分</p></td>
-<td><p><a href="../Page/高清晰度電視.md" title="wikilink">高清放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高清晰度電視" title="wikilink">高清放送</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -759,11 +760,11 @@ Park Chamg-Fwan</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td><p>2010年10月6日－12月21日</p></td>
 <td><p>星期三 26時10分－26時40分</p></td>
-<td><p><a href="../Page/独立UHF局.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 <td><p>黑框畫面</p></td>
 </tr>
 <tr class="even">
@@ -833,7 +834,7 @@ Park Chamg-Fwan</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/BS11.md" title="wikilink">BS11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>2013年4月11日－6月27日</p></td>
 <td><p>星期四 24時00分－24時30分</p></td>
 <td><p>衛星電視</p></td>

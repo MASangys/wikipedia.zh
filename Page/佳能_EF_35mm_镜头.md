@@ -1,9 +1,9 @@
 **佳能 EF 35mm
-镜头**是由[佳能公司制造的一组](../Page/佳能公司.md "wikilink")35毫米[广角](../Page/广角镜.md "wikilink")[定焦镜头的总称](../Page/定焦镜头.md "wikilink")。一般认为24毫米至35毫米的焦距是广角范围，而35毫米处於广角范围的最长端，从而接近标准的50毫米焦距但仍具有一定的广角视野。通常这一焦距最常用於群体人像、风光等多种常用场合。这一焦距也被刚开始接触广角摄影的拍摄者所喜爱，因为它并不像更广的焦距那样难以驾驭。
+镜头**是由[佳能公司制造的一组](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")35毫米[广角](https://zh.wikipedia.org/wiki/广角镜 "wikilink")[定焦镜头的总称](../Page/定焦镜头.md "wikilink")。一般认为24毫米至35毫米的焦距是广角范围，而35毫米处於广角范围的最长端，从而接近标准的50毫米焦距但仍具有一定的广角视野。通常这一焦距最常用於群体人像、风光等多种常用场合。这一焦距也被刚开始接触广角摄影的拍摄者所喜爱，因为它并不像更广的焦距那样难以驾驭。
 
-当用於佳能数码[EOS系列的](../Page/佳能EOS系列.md "wikilink")[APS-C幅面机身](../Page/APS-C.md "wikilink")（如[佳能
+当用於佳能数码[EOS系列的](../Page/佳能EOS系列.md "wikilink")[APS-C幅面机身](https://zh.wikipedia.org/wiki/APS-C "wikilink")（如[佳能
 EOS
-400D](../Page/佳能_EOS_400D.md "wikilink")）时，35毫米的视角会变窄，其等效於全幅机身上的56mm视角（乘以系数1.6）。当用於[APS-H幅面机身](../Page/APS-H.md "wikilink")（如[佳能
+400D](../Page/佳能_EOS_400D.md "wikilink")）时，35毫米的视角会变窄，其等效於全幅机身上的56mm视角（乘以系数1.6）。当用於[APS-H幅面机身](https://zh.wikipedia.org/wiki/APS-H "wikilink")（如[佳能
 EOS-1D Mark
 III](../Page/佳能_EOS-1D_Mark_III.md "wikilink")）时，其等效於全幅机身的46毫米视角（乘以系数1.3）。
 
@@ -30,13 +30,13 @@ f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_EF35mm_F2_IS_USM.jpg" title="fig:Canon_EF35mm_F2_IS_USM.jpg">Canon_EF35mm_F2_IS_USM.jpg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/图像稳定器.md" title="wikilink">图像稳定器（IS）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/图像稳定器" title="wikilink">图像稳定器（IS）</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 无</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 有</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/超声马达驱动.md" title="wikilink">超声马达（USM）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超声马达驱动" title="wikilink">超声马达（USM）</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 有</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 无</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 有</p></td>
@@ -48,13 +48,13 @@ f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/衍射光学元件.md" title="wikilink">衍射光学元件（DO）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衍射光学元件" title="wikilink">衍射光学元件（DO）</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 无</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/微距摄影.md" title="wikilink">微距</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微距摄影" title="wikilink">微距</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> 无</p></td>
 <td></td>
 <td></td>
@@ -90,25 +90,25 @@ f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 <td><p>2.5 英寸/62.6 毫米</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/滤镜.md" title="wikilink">滤镜直径</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滤镜" title="wikilink">滤镜直径</a></p></td>
 <td><p>72 毫米</p></td>
 <td><p>52 毫米</p></td>
 <td><p>67 毫米</p></td>
 </tr>
 <tr class="odd">
-<td><p>水平<a href="../Page/视角.md" title="wikilink">视角</a></p></td>
+<td><p>水平<a href="https://zh.wikipedia.org/wiki/视角" title="wikilink">视角</a></p></td>
 <td><p>54°</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>对角线<a href="../Page/视角.md" title="wikilink">视角</a></p></td>
+<td><p>对角线<a href="https://zh.wikipedia.org/wiki/视角" title="wikilink">视角</a></p></td>
 <td><p>63°</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>垂直<a href="../Page/视角.md" title="wikilink">视角</a></p></td>
+<td><p>垂直<a href="https://zh.wikipedia.org/wiki/视角" title="wikilink">视角</a></p></td>
 <td><p>38°</p></td>
 <td></td>
 <td></td>
@@ -138,13 +138,13 @@ f/2镜头，前者是[L镜头](../Page/佳能L镜头.md "wikilink")。
 <td><p>2012年12月</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/建议零售价.md" title="wikilink">建议零售价</a> <a href="../Page/美元.md" title="wikilink">$</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/建议零售价" title="wikilink">建议零售价</a> <a href="../Page/美元.md" title="wikilink">$</a></p></td>
 <td><p>$1479</p></td>
 <td><p>$320</p></td>
 <td><p>$600</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/市面价格.md" title="wikilink">市面价格</a> <a href="../Page/美元.md" title="wikilink">$</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/市面价格" title="wikilink">市面价格</a> <a href="../Page/美元.md" title="wikilink">$</a></p></td>
 <td><p>$1200</p></td>
 <td><p>$200</p></td>
 <td><p>$600</p></td>

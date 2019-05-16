@@ -9,13 +9,13 @@ V.O.X，至2008年發行最後一張專輯《I Believe》後解散。
 #### 成立與首張專輯
 
 組合最初的成員為Cha Yu Mi、Jung Shi Woon、Jang Hyun
-Jung、[金倚枝](../Page/金倚枝.md "wikilink")、[李姬珍](../Page/李姬珍.md "wikilink")。1997年以首張專輯《做頭髮的那天》出道，她們的風格十分時尚性感，以妖魅形象示人，引起演藝圈熱烈討論。但是當時韓國的社會保守嚴肅，此張專輯過於前衛而沒有成功。外界盛傳團員之間并不和睦。Cha
+Jung、[金倚枝](https://zh.wikipedia.org/wiki/金倚枝 "wikilink")、[李姬珍](../Page/李姬珍.md "wikilink")。1997年以首張專輯《做頭髮的那天》出道，她們的風格十分時尚性感，以妖魅形象示人，引起演藝圈熱烈討論。但是當時韓國的社會保守嚴肅，此張專輯過於前衛而沒有成功。外界盛傳團員之間并不和睦。Cha
 Yu Mi在表演受傷的休養期裏表現不佳，而被簡美妍替代。專輯發行完畢後成員Jung Shi Woon、Jang Hyun
 Jung與公司發生糾紛而退出組合。
 
 #### 蓄勢待發的二輯
 
-首張專輯後加入成員[簡美妍](../Page/簡美妍.md "wikilink")、[沈恩珍與Lee](../Page/沈恩珍.md "wikilink")
+首張專輯後加入成員[簡美妍](../Page/簡美妍.md "wikilink")、[沈恩珍與Lee](https://zh.wikipedia.org/wiki/沈恩珍 "wikilink")
 Gai，組合在此期間透過嚴格的心理與身體訓練訓練提升舞蹈與唱歌實力。之後發行第二張專輯《Ya Ya
 Ya》，主打歌較可愛甜美，開闢了新的發展方向。專輯曲目〈Ya
 Ya Ya〉衝上韓國流行音樂榜第七位。但之後公司發現成員Lee Gai（曾於1988年以女團SEDDORE出道）隱瞞真實年齡而將她開除。
@@ -98,7 +98,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
   - 身高：168公分
   - 體重：47公斤
   - 血型：A型
-  - 經歷：與李姬珍共同負責主音，第二專輯時加入，最初加入時以跳舞為主，沒想到她的聲音有獨特慵懶的感覺，出道前經驗雖少但比較成熟穩重，所以她往往成為隊中首先開始的人，以穩定軍心。另外，她跟[S.E.S.的Shoo亦是很好的朋友](../Page/S.E.S..md "wikilink")。
+  - 經歷：與李姬珍共同負責主音，第二專輯時加入，最初加入時以跳舞為主，沒想到她的聲音有獨特慵懶的感覺，出道前經驗雖少但比較成熟穩重，所以她往往成為隊中首先開始的人，以穩定軍心。另外，她跟[S.E.S.的Shoo亦是很好的朋友](https://zh.wikipedia.org/wiki/S.E.S. "wikilink")。
 
 #### 尹恩惠
 
@@ -127,7 +127,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>首張專輯《做頭髮的那天》</p>
 <ul>
 <li>發行日期：1997年9月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -136,7 +136,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Ya Ya Ya》</p>
 <ul>
 <li>發行日期：1998年9月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -145,7 +145,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Come Come Come Baby》</p>
 <ul>
 <li>發行日期：1999年7月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -154,7 +154,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Why》</p>
 <ul>
 <li>發行日期：2000年5月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -163,7 +163,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Boyish Story》</p>
 <ul>
 <li>發行日期：2001年6月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -172,7 +172,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Devotion》</p>
 <ul>
 <li>發行日期：2003年1月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -181,7 +181,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 <td><p>《Ride West》</p>
 <ul>
 <li>發行日期：2004年1月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -204,7 +204,7 @@ Do〉在華語排行榜分別取得了第三與第四的成績，泰國的排行
 
   - First Concert in Seoul （2002年）VCD
 
-### [DVD](../Page/DVD.md "wikilink")
+### [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
 
   - Baby V.O.X. 2000（2000年）
 

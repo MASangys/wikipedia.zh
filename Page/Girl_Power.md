@@ -1,5 +1,5 @@
 《Girl
-Power》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](../Page/Twins.md "wikilink")2004年6月所推出的一張全新[廣東](../Page/廣東.md "wikilink")[專輯](../Page/專輯.md "wikilink")，此[專輯共推出初版](../Page/專輯.md "wikilink")（[AVCD](../Page/AVCD.md "wikilink")）和第二版（2[AVCD](../Page/AVCD.md "wikilink")）。
+Power》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](https://zh.wikipedia.org/wiki/Twins "wikilink")2004年6月所推出的一張全新[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，此[專輯共推出初版](https://zh.wikipedia.org/wiki/專輯 "wikilink")（[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")）和第二版（2[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")）。
 2003年Twins以多產及高銷量，成功在音樂頒獎禮奪得最佳銷量唱片獎，可是相隔一年多才 推出今年內首張新唱片《Girl
 Power》。電台邀請二人分經驗，Twins十分謙虛，表示對現在的成績只是滿意，成功就談不上，很多東西仍在學習中，今年推出唱片量大減，六月才推出今年的第一張專輯，她們否認是因為外間指她們因為出碟量多才有高銷量，只是她們有其它工作要做，再者她們出碟是因應市場需求而推出，並不是亂來的。
 
@@ -10,15 +10,15 @@ Power》率先曝光的主打歌「丟架」全曲均由伍樂城一手包辦，
 
 ## 曲目（第二版）
 
-[AVCD](../Page/AVCD.md "wikilink") Disc 1：
+[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink") Disc 1：
 
 1.  Computer Data（Non-Playable）
-2.  拍住上[MV](../Page/MV.md "wikilink")
+2.  拍住上[MV](https://zh.wikipedia.org/wiki/MV "wikilink")
 3.  女人味
 4.  約會自己
 5.  受之有愧
 6.  施比受
-7.  愛無敵（[電影](../Page/電影.md "wikilink")《[千機變II之花都大戰](../Page/千機變II之花都大戰.md "wikilink")》[主題曲](../Page/主題曲.md "wikilink")）
+7.  愛無敵（[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[千機變II之花都大戰](../Page/千機變II之花都大戰.md "wikilink")》[主題曲](../Page/主題曲.md "wikilink")）
 8.  07 奧運
 9.  丟架
 10. 安全感
@@ -26,6 +26,6 @@ Power》率先曝光的主打歌「丟架」全曲均由伍樂城一手包辦，
 12. 烈女
 13. 拍住上
 
-[AVCD](../Page/AVCD.md "wikilink") Disc 2：
+[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink") Disc 2：
 
 [Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink")

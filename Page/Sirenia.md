@@ -1,4 +1,4 @@
-**Sirenia**（台譯**女神希拉妮雅**）是一支来自[挪威](../Page/挪威.md "wikilink")[斯塔万格](../Page/斯塔万格.md "wikilink")，成立于2001年的[哥特金属乐队](../Page/哥特金属.md "wikilink")，其音乐中混合了[哥特金属和](../Page/哥特金属.md "wikilink")[交响金属乐](../Page/交响金属.md "wikilink")，同时还有部分和[死亡金屬音樂的元素](../Page/死亡金屬音樂.md "wikilink")。
+**Sirenia**（台譯**女神希拉妮雅**）是一支来自[挪威](../Page/挪威.md "wikilink")[斯塔万格](../Page/斯塔万格.md "wikilink")，成立于2001年的[哥特金属乐队](../Page/哥特金属.md "wikilink")，其音乐中混合了[哥特金属和](../Page/哥特金属.md "wikilink")[交响金属乐](https://zh.wikipedia.org/wiki/交响金属 "wikilink")，同时还有部分和[死亡金屬音樂的元素](../Page/死亡金屬音樂.md "wikilink")。
 
 ## 音乐作品
 

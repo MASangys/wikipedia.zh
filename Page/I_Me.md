@@ -1,6 +1,6 @@
 **i
 Me**是[天娱传媒于](../Page/天娱传媒.md "wikilink")2010年推出的一个跨国女子团体，由天娱传媒、韩国[DOREMI
-MUSIC](../Page/DOREMI_MUSIC.md "wikilink")、泰国[正大集团三大娱乐公司联手打造](../Page/正大集团.md "wikilink")，三名中国籍成员[李雨奚](../Page/李雨奚.md "wikilink")、[刘美含](../Page/刘美含.md "wikilink")、[易易紫](../Page/易易紫.md "wikilink")，一名泰国籍成员和一名韩国籍成员[泫京共同组成](../Page/沈泫京.md "wikilink")。组合主打90后“蜜女”路线，因此被昵称为“蜜团”。出道至今已发行一张EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》。
+MUSIC](https://zh.wikipedia.org/wiki/DOREMI_MUSIC "wikilink")、泰国[正大集团三大娱乐公司联手打造](../Page/正大集团.md "wikilink")，三名中国籍成员[李雨奚](../Page/李雨奚.md "wikilink")、[刘美含](../Page/刘美含.md "wikilink")、[易易紫](../Page/易易紫.md "wikilink")，一名泰国籍成员和一名韩国籍成员[泫京共同组成](../Page/沈泫京.md "wikilink")。组合主打90后“蜜女”路线，因此被昵称为“蜜团”。出道至今已发行一张EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》。
 
 ## 团名由来
 
@@ -32,7 +32,7 @@ Nalintara Hohler</p></td>
 <td><p>2006年泰国大赛第五名，组合成员</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/易秋蘭.md" title="wikilink">易秋蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易秋蘭" title="wikilink">易秋蘭</a></p></td>
 <td><p>易易紫</p></td>
 <td><p>Nikiii</p></td>
 <td><p>性感短发</p></td>
@@ -57,7 +57,7 @@ Nalintara Hohler</p></td>
 <td><p>1990.2.10</p></td>
 <td><p>隊長、副唱</p></td>
 <td><p>原名<strong>李媛希</strong><br />
-2009年“<a href="../Page/2009快乐女声.md" title="wikilink">快乐女声</a>”全国第10名</p></td>
+2009年“<a href="https://zh.wikipedia.org/wiki/2009快乐女声" title="wikilink">快乐女声</a>”全国第10名</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -97,7 +97,7 @@ Girl”的名义亮相表演节目，曾一度被认为是新组合的人选。�
 
 5月6日，三名中国成员结束集训回国，同时新组合正式定名为“i
 Me”，而两名外籍成员那琳和泫京亦正式曝光\[3\]。5月27日，组合推出首支单曲《哎咿呀》，之后连续多期在湖南卫视王牌综艺节目“[天天向上](../Page/天天向上.md "wikilink")”中亮相，制造了巨大的关注度。6月30日，i
-Me在[北京举行新闻发布会](../Page/北京.md "wikilink")，正式宣布出道，并推出EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》\[4\]。凭借这张EP，出道仅数月的她们便夺得多个新人奖项。
+Me在[北京举行新闻发布会](https://zh.wikipedia.org/wiki/北京 "wikilink")，正式宣布出道，并推出EP《[哎咿呀](../Page/哎咿呀.md "wikilink")》\[4\]。凭借这张EP，出道仅数月的她们便夺得多个新人奖项。
 
 由于是跨国组合，i Me积极发展海外市场，于当年8月底和10月初两次赴泰国宣传，期间曾担任AF-Single Ladies演唱会嘉宾。
 
@@ -106,7 +106,8 @@ Me在[北京举行新闻发布会](../Page/北京.md "wikilink")，正式宣布�
 ### EP
 
   - 2010年6月26日，《[哎咿呀](../Page/哎咿呀.md "wikilink")》
-  - 2012年2月15日，泰文單曲《[Help me\!](../Page/Help_me!.md "wikilink")》
+  - 2012年2月15日，泰文單曲《[Help
+    me\!](https://zh.wikipedia.org/wiki/Help_me! "wikilink")》
 
 ### MV
 
@@ -115,7 +116,8 @@ Me在[北京举行新闻发布会](../Page/北京.md "wikilink")，正式宣布�
 
 ### 电影
 
-  - 2011年12月1日，《[开心魔法](../Page/开心魔法.md "wikilink")》饰 东山排球队队员
+  - 2011年12月1日，《[开心魔法](https://zh.wikipedia.org/wiki/开心魔法 "wikilink")》饰
+    东山排球队队员
 
 ### 电视剧
 
@@ -126,12 +128,12 @@ Me在[北京举行新闻发布会](../Page/北京.md "wikilink")，正式宣布�
 ## 所获奖项
 
   - 2010年8月21日，第七届劲歌王·金曲金榜“最有前途新人组合”
-  - 2010年11月28日，第十二届韩国[Mnet亚洲音乐盛典](../Page/Mnet亚洲音乐盛典.md "wikilink")“亚洲新星”
-  - 2010年12月19日，第三届[音乐风云榜新人盛典](../Page/音乐风云榜.md "wikilink")“年度最具风尚艺人”
+  - 2010年11月28日，第十二届韩国[Mnet亚洲音乐盛典](https://zh.wikipedia.org/wiki/Mnet亚洲音乐盛典 "wikilink")“亚洲新星”
+  - 2010年12月19日，第三届[音乐风云榜新人盛典](https://zh.wikipedia.org/wiki/音乐风云榜 "wikilink")“年度最具风尚艺人”
 
 ## 相关条目
 
-  - [2009快乐女声](../Page/2009快乐女声.md "wikilink")
+  - [2009快乐女声](https://zh.wikipedia.org/wiki/2009快乐女声 "wikilink")
 
   - [李雨奚](../Page/李雨奚.md "wikilink")
 

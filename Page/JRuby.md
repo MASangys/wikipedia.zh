@@ -1,4 +1,4 @@
-**JRuby**，一個採用纯[Java實現的](../Page/Java.md "wikilink")[Ruby解释器](../Page/Ruby.md "wikilink")，由JRuby團隊開發。它是一個自由軟體，在[CPL](../Page/CPL.md "wikilink")/[GPL](../Page/GPL.md "wikilink")/[LGPL三种许可协议下发布](../Page/LGPL.md "wikilink")。主要开发者有Charles
+**JRuby**，一個採用纯[Java實現的](../Page/Java.md "wikilink")[Ruby解释器](../Page/Ruby.md "wikilink")，由JRuby團隊開發。它是一個自由軟體，在[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")/[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")/[LGPL三种许可协议下发布](https://zh.wikipedia.org/wiki/LGPL "wikilink")。主要开发者有Charles
 Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（2018-05-24）。
 
 ## 历史
@@ -21,7 +21,7 @@ Nutter、Thomas Enebo、Ola Bini、Nick Sieger等。最新发布版为9.2.0.0（
 <td><p>1.1</p></td>
 <td><p>2008-03-28</p></td>
 <td><p>比Ruby MRI 1.8.7性能更好<br />
-<a href="../Page/AOT模式.md" title="wikilink">AOT模式与</a><a href="../Page/JIT模式.md" title="wikilink">JIT模式</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/AOT模式" title="wikilink">AOT模式与</a><a href="https://zh.wikipedia.org/wiki/JIT模式" title="wikilink">JIT模式</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1.1.4</p></td>

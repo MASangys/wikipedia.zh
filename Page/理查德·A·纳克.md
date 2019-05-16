@@ -1,10 +1,10 @@
-**理查德·A.纳克**（、）是出生于[美国](../Page/美国.md "wikilink")[芝加哥的](../Page/芝加哥.md "wikilink")[奇幻](../Page/奇幻.md "wikilink")[小说家](../Page/小说家.md "wikilink")。
+**理查德·A.纳克**（、）是出生于[美国](../Page/美国.md "wikilink")[芝加哥的](../Page/芝加哥.md "wikilink")[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")。
 
 ## 历程
 
-  - 他曾经就读于美国[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")，从[化学专业转行为](../Page/化学.md "wikilink")[文学修辞专业](../Page/文学修辞.md "wikilink")，并获得相应的[学士学位](../Page/学士学位.md "wikilink")。
-  - 在1986年末期，他创作了自己的第一篇短篇小故事，直到1987年他开始撰写[奇幻小说而被陆续出版](../Page/奇幻小说.md "wikilink")。至今，他的作品大多都被世界各国购走版权，被翻译成[汉语](../Page/汉语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[丹麦语](../Page/丹麦语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[波兰语](../Page/波兰语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[捷克语](../Page/捷克语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[土耳其语和](../Page/土耳其语.md "wikilink")[俄语等不同的语言版本在市场上畅销](../Page/俄语.md "wikilink")。
-  - 他个人比较喜欢[阅读](../Page/阅读.md "wikilink")、[旅行](../Page/旅行.md "wikilink")、[食物和看](../Page/食物.md "wikilink")[旧电影](../Page/旧电影.md "wikilink")。现在他在[伊利诺州和](../Page/伊利诺州.md "wikilink")[阿肯色州奔波生活](../Page/阿肯色州.md "wikilink")，寻找不同的写作灵感。
+  - 他曾经就读于美国[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")，从[化学专业转行为](https://zh.wikipedia.org/wiki/化学 "wikilink")[文学修辞专业](https://zh.wikipedia.org/wiki/文学修辞 "wikilink")，并获得相应的[学士学位](https://zh.wikipedia.org/wiki/学士学位 "wikilink")。
+  - 在1986年末期，他创作了自己的第一篇短篇小故事，直到1987年他开始撰写[奇幻小说而被陆续出版](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。至今，他的作品大多都被世界各国购走版权，被翻译成[汉语](../Page/汉语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[丹麦语](../Page/丹麦语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[捷克语](../Page/捷克语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[土耳其语和](https://zh.wikipedia.org/wiki/土耳其语 "wikilink")[俄语等不同的语言版本在市场上畅销](https://zh.wikipedia.org/wiki/俄语 "wikilink")。
+  - 他个人比较喜欢[阅读](https://zh.wikipedia.org/wiki/阅读 "wikilink")、[旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")、[食物和看](../Page/食物.md "wikilink")[旧电影](https://zh.wikipedia.org/wiki/旧电影 "wikilink")。现在他在[伊利诺州和](https://zh.wikipedia.org/wiki/伊利诺州 "wikilink")[阿肯色州奔波生活](../Page/阿肯色州.md "wikilink")，寻找不同的写作灵感。
 
 ## 作品列表
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - [龙枪](../Page/龙枪.md "wikilink")（Dragonlance）
+  - [龙枪](https://zh.wikipedia.org/wiki/龙枪 "wikilink")（Dragonlance）
     ;英雄（Heros）
 
       -
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [魔獸爭霸](../Page/魔獸爭霸.md "wikilink")（WarCraft）
+  - [魔獸爭霸](https://zh.wikipedia.org/wiki/魔獸爭霸 "wikilink")（WarCraft）
     巨龍之日（Day of the Dragon） 2001
     上古之戰三部曲（War of the Ancients Trilogy）
       -
@@ -90,7 +90,7 @@
 
 <!-- end list -->
 
-  - [暗黑破壞神](../Page/暗黑破壞神.md "wikilink")（Diablo）
+  - [暗黑破壞神](https://zh.wikipedia.org/wiki/暗黑破壞神 "wikilink")（Diablo）
     血之遺產（Legacy of Blood） 2001
 
     陰影王國（The Kingdom of Shadow） 2002

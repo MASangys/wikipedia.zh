@@ -1,6 +1,6 @@
-**T.M.Revolution**，又常縮寫為**T.M.R**，是[日本歌手](../Page/日本.md "wikilink")[西川贵教的个人音樂](../Page/西川贵教.md "wikilink")-{zh-tw:計畫;zh-cn:项目}-（或可視為是一個個人樂團）。1996年5月，西川贵教以“T.M.Revolution”之名推出首张单曲《独裁-monopoliz-》正式出道。[浅仓大介为制作人](../Page/浅仓大介.md "wikilink")。后转入[Epic
+**T.M.Revolution**，又常縮寫為**T.M.R**，是[日本歌手](../Page/日本.md "wikilink")[西川贵教的个人音樂](../Page/西川贵教.md "wikilink")-{zh-tw:計畫;zh-cn:项目}-（或可視為是一個個人樂團）。1996年5月，西川贵教以“T.M.Revolution”之名推出首张单曲《独裁-monopoliz-》正式出道。[浅仓大介为制作人](https://zh.wikipedia.org/wiki/浅仓大介 "wikilink")。后转入[Epic
 Records
-Japan后](../Page/Epic_Records_Japan.md "wikilink")，制作人改为西川贵教，但浅仓仍然负责歌曲的作曲与大部分歌曲的编曲。
+Japan后](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")，制作人改为西川贵教，但浅仓仍然负责歌曲的作曲与大部分歌曲的编曲。
 
 T.M.R的曲子大部分为编排复杂的电子摇滚曲风，再加上西川贵教极具爆发力的嗓音和充满视觉冲击的服装，成为了T.M.R的标志。发行了许多脍炙人口的歌曲。现已发行了25张单曲和9张原创专辑，并且都在日本公信榜上取得了不错的成绩。
 
@@ -106,7 +106,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
   - 2002年
       - 2月20日，第十六张单曲《Out Of Orbit -Triple ZERO-》发行。从这张单曲以后的作品，制作人都是西川自己。
       - 3月6日，首张精选集《B★E★S★T》发行。
-      - 10月30日，第十七张单曲《INVOKE》发行。同时也是动画《[机动战士敢达SEED](../Page/机动战士敢达SEED.md "wikilink")》的第一期片头曲。
+      - 10月30日，第十七张单曲《INVOKE》发行。同时也是动画《[机动战士敢达SEED](https://zh.wikipedia.org/wiki/机动战士敢达SEED "wikilink")》的第一期片头曲。
   - 2003年
       - 3月26日，第六张专辑《coordinate》发行。这是转移唱片公司前最后发行的作品。
       - 8月，从出道时所属的唱片公司“Antinos Records”转移到了“Epic Records”。(‘Antinos
@@ -121,7 +121,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
         Night》发行。同时也是东宝西洋画系的电影《蜘蛛侠2》的日本版的主题歌。
       - 11月3日，第二十张单曲《ignited -イグナイテッド-》发行。自《HOT
         LIMIT》以来，相隔六年零一个月再次获得日本公信榜第一位。并且是日本公信榜的第900个第一位。同时也是动画《[机动战士敢达SEED
-        DESTINY](../Page/机动战士敢达SEED_DESTINY.md "wikilink")》的第一期片头曲。
+        DESTINY](https://zh.wikipedia.org/wiki/机动战士敢达SEED_DESTINY "wikilink")》的第一期片头曲。
   - 2005年
       - 2005年到2006年底，作为T.M.Revolution出道10周年（迎接年、庆祝年），进行了各种各样的活动。
           - 由“西川贵教的日本之夜”制作，推出穿着T.M.Revolution的衣装的Hello
@@ -190,7 +190,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
       - 12月31日，《Preserved
         Roses》、《革命デュアリズム》被评为第55回日本唱片大奖企画奖，和水樹奈々一起获奖。時隔8年，第四次在紅白歌合戦上出場。
   - 2014年
-      - 2月12日，和[SCANDAL合作的split](../Page/SCANDAL.md "wikilink")
+      - 2月12日，和[SCANDAL合作的split](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
         single《Count ZERO｜Runners
         high》以“T.M.Revolution｜SCANDAL”名义发行。同时《Count
         ZERO》也是人气游戏《战国BASARA4》的开头曲。
@@ -199,37 +199,37 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 
 ### 單曲
 
-  - 最高位上有※的单曲，为[CD-EXTRA规格](../Page/增强型CD.md "wikilink")
+  - 最高位上有※的单曲，为[CD-EXTRA规格](https://zh.wikipedia.org/wiki/增强型CD "wikilink")
   - 最高位上有★印的单曲，发行当初为[CCCD规格](../Page/Copy_Control.md "wikilink")
 
-|      | 发行时间        | 名称                                                                                     | 最高位 |
-| ---- | ----------- | -------------------------------------------------------------------------------------- | --- |
-| 1st  | 1996年5月13日  | [独裁 -monopolize-](../Page/独裁_-monopolize-.md "wikilink")                               | 28位 |
-| 2nd  | 1996年7月15日  | [臍淑女 -Venus-](../Page/臍淑女_-ヴィーナス-.md "wikilink")                                       | 35位 |
-| 3rd  | 1996年11月11日 | [HEART OF SWORD ～夜明之前～](../Page/HEART_OF_SWORD_～夜明之前～.md "wikilink")                   | 16位 |
-| 4th  | 1997年4月21日  | [LEVEL 4](../Page/LEVEL_4.md "wikilink")                                               | 18位 |
-| 5th  | 1997年7月1日   | [HIGH PRESSURE](../Page/HIGH_PRESSURE.md "wikilink")                                   | 4位  |
-| 6th  | 1997年10月22日 | [WHITE BREATH](../Page/WHITE_BREATH.md "wikilink")                                     | 1位  |
-| 7th  | 1998年2月25日  | [蓝色霹雳](../Page/蓝色霹雳.md "wikilink")                                                     | 3位  |
-| 8th  | 1998年6月24日  | [HOT LIMIT](../Page/HOT_LIMIT.md "wikilink")                                           | 1位  |
-| 9th  | 1998年10月7日  | [THUNDERBIRD](../Page/THUNDERBIRD.md "wikilink")                                       | 3位  |
-| 10th | 1998年10月28日 | [Burnin' X'mas](../Page/Burnin'_X'mas.md "wikilink")                                   | 2位  |
-| 11th | 1999年2月3日   | [WILD RUSH](../Page/WILD_RUSH.md "wikilink")                                           | 2位  |
-| 12th | 2000年4月19日  | [BLACK OR WHITE? version 3](../Page/BLACK_OR_WHITE?_version_3.md "wikilink")           | 5位  |
-| 13th | 2000年5月24日  | [HEAT CAPACITY](../Page/HEAT_CAPACITY.md "wikilink")                                   | 5位  |
-| 14th | 2000年9月6日   | [魔弾 〜Der Freischütz〜/LOVE SAVER](../Page/魔弾_〜Der_Freischütz〜/LOVE_SAVER.md "wikilink") | 8位  |
-| 15th | 2001年2月7日   | [BOARDING](../Page/BOARDING.md "wikilink")                                             | 5位※ |
-| 16th | 2002年2月20日  | [Out Of Orbit -Triple ZERO-](../Page/Out_Of_Orbit_-Triple_ZERO-.md "wikilink")         | 6位※ |
-| 17th | 2002年10月30日 | [INVOKE](../Page/INVOKE.md "wikilink")                                                 | 2位  |
-| 18th | 2004年2月25日  | [Albireo](../Page/Albireo.md "wikilink")                                               | 3位★ |
-| 19th | 2004年7月28日  | [Web of Night](../Page/Web_of_Night.md "wikilink")                                     | 5位★ |
-| 20th | 2004年11月3日  | [ignited](../Page/ignited.md "wikilink")                                               | 1位  |
-| 21st | 2005年8月17日  | [vestige](../Page/vestige.md "wikilink")                                               | 1位  |
-| 22nd | 2008年6月11日  | [resonance](../Page/resonance.md "wikilink")                                           | 4位  |
-| 23rd | 2010年8月11日  | [Naked arms/SWORD SUMMIT](../Page/Naked_arms/SWORD_SUMMIT.md "wikilink")               | 3位  |
-| 24th | 2010年12月1日  | [Save The One, Save The All](../Page/Save_The_One,_Save_The_All.md "wikilink")         | 4位  |
-| 25th | 2011年6月22日  | [FLAGS](../Page/FLAGS.md "wikilink")                                                   | 4位  |
-| 26th | 2014年8月6日   | [突キ破レル-Time to SMASH \!](../Page/突キ破レル-Time_to_SMASH_!.md "wikilink")                  |     |
+|      | 发行时间        | 名称                                                                                                        | 最高位 |
+| ---- | ----------- | --------------------------------------------------------------------------------------------------------- | --- |
+| 1st  | 1996年5月13日  | [独裁 -monopolize-](../Page/独裁_-monopolize-.md "wikilink")                                                  | 28位 |
+| 2nd  | 1996年7月15日  | [臍淑女 -Venus-](https://zh.wikipedia.org/wiki/臍淑女_-ヴィーナス- "wikilink")                                       | 35位 |
+| 3rd  | 1996年11月11日 | [HEART OF SWORD ～夜明之前～](../Page/HEART_OF_SWORD_～夜明之前～.md "wikilink")                                      | 16位 |
+| 4th  | 1997年4月21日  | [LEVEL 4](../Page/LEVEL_4.md "wikilink")                                                                  | 18位 |
+| 5th  | 1997年7月1日   | [HIGH PRESSURE](../Page/HIGH_PRESSURE.md "wikilink")                                                      | 4位  |
+| 6th  | 1997年10月22日 | [WHITE BREATH](../Page/WHITE_BREATH.md "wikilink")                                                        | 1位  |
+| 7th  | 1998年2月25日  | [蓝色霹雳](https://zh.wikipedia.org/wiki/蓝色霹雳 "wikilink")                                                     | 3位  |
+| 8th  | 1998年6月24日  | [HOT LIMIT](https://zh.wikipedia.org/wiki/HOT_LIMIT "wikilink")                                           | 1位  |
+| 9th  | 1998年10月7日  | [THUNDERBIRD](../Page/THUNDERBIRD.md "wikilink")                                                          | 3位  |
+| 10th | 1998年10月28日 | [Burnin' X'mas](https://zh.wikipedia.org/wiki/Burnin'_X'mas "wikilink")                                   | 2位  |
+| 11th | 1999年2月3日   | [WILD RUSH](https://zh.wikipedia.org/wiki/WILD_RUSH "wikilink")                                           | 2位  |
+| 12th | 2000年4月19日  | [BLACK OR WHITE? version 3](https://zh.wikipedia.org/wiki/BLACK_OR_WHITE?_version_3 "wikilink")           | 5位  |
+| 13th | 2000年5月24日  | [HEAT CAPACITY](https://zh.wikipedia.org/wiki/HEAT_CAPACITY "wikilink")                                   | 5位  |
+| 14th | 2000年9月6日   | [魔弾 〜Der Freischütz〜/LOVE SAVER](https://zh.wikipedia.org/wiki/魔弾_〜Der_Freischütz〜/LOVE_SAVER "wikilink") | 8位  |
+| 15th | 2001年2月7日   | [BOARDING](https://zh.wikipedia.org/wiki/BOARDING "wikilink")                                             | 5位※ |
+| 16th | 2002年2月20日  | [Out Of Orbit -Triple ZERO-](../Page/Out_Of_Orbit_-Triple_ZERO-.md "wikilink")                            | 6位※ |
+| 17th | 2002年10月30日 | [INVOKE](https://zh.wikipedia.org/wiki/INVOKE "wikilink")                                                 | 2位  |
+| 18th | 2004年2月25日  | [Albireo](https://zh.wikipedia.org/wiki/Albireo "wikilink")                                               | 3位★ |
+| 19th | 2004年7月28日  | [Web of Night](https://zh.wikipedia.org/wiki/Web_of_Night "wikilink")                                     | 5位★ |
+| 20th | 2004年11月3日  | [ignited](https://zh.wikipedia.org/wiki/ignited "wikilink")                                               | 1位  |
+| 21st | 2005年8月17日  | [vestige](https://zh.wikipedia.org/wiki/vestige "wikilink")                                               | 1位  |
+| 22nd | 2008年6月11日  | [resonance](https://zh.wikipedia.org/wiki/resonance "wikilink")                                           | 4位  |
+| 23rd | 2010年8月11日  | [Naked arms/SWORD SUMMIT](https://zh.wikipedia.org/wiki/Naked_arms/SWORD_SUMMIT "wikilink")               | 3位  |
+| 24th | 2010年12月1日  | [Save The One, Save The All](https://zh.wikipedia.org/wiki/Save_The_One,_Save_The_All "wikilink")         | 4位  |
+| 25th | 2011年6月22日  | [FLAGS](../Page/FLAGS.md "wikilink")                                                                      | 4位  |
+| 26th | 2014年8月6日   | [突キ破レル-Time to SMASH \!](https://zh.wikipedia.org/wiki/突キ破レル-Time_to_SMASH_! "wikilink")                  |     |
 
   - 2009年3月25日，当初以8cm的CD发行的1st--11th的单曲再次以12cm的CD发行。
 
@@ -271,7 +271,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 
 ### 專輯
 
-  - 最高位上有※的专辑，为[CD-EXTRA规格](../Page/增强型CD.md "wikilink")
+  - 最高位上有※的专辑，为[CD-EXTRA规格](https://zh.wikipedia.org/wiki/增强型CD "wikilink")
   - 最高位上有★印的专辑，发行当初为[CCCD规格](../Page/Copy_Control.md "wikilink")
 
 **原创专辑**
@@ -319,11 +319,11 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 | 4rd | 2013年8月9日  | GEISHA BOY ～ANIME SONG EXPERIENCE～                                       | 6位  |
 
   - 2009年9月4日，《The Complete Single Collection of T.M.Revolution
-    1000000000000 -billion-》以[Blu-Spec CD](../Page/蓝光光盘.md "wikilink")
-    形式再发行
+    1000000000000 -billion-》以[Blu-Spec
+    CD](https://zh.wikipedia.org/wiki/蓝光光盘 "wikilink") 形式再发行
   - 《T.M.REVOLUTION SINGLE COLLECTION 96-99 -GENESIS-》为集合了首张单曲《独裁
     -monopolize-》至第11张单曲《WILD
-    RUSH》再发盘的BOX，附带有密藏映像的[DVD](../Page/DVD.md "wikilink")
+    RUSH》再发盘的BOX，附带有密藏映像的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
 
 **现场实况录音专辑**
 
@@ -372,9 +372,9 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
     Records旗下发行的。而DVD则是采用CD一样的塑料包装壳。而后移籍到Epic
     Records，这些DVD以HD DVD的包装再发行。
   - 移籍到[Epic
-    Records后的首个作品](../Page/Epic_Records_Japan.md "wikilink")。\[SONIC
-    WARP\]这个名字代表自己已经移籍到[SONY](../Page/SONY.md "wikilink")(Sony Music
-    Entertainment)。
+    Records后的首个作品](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")。\[SONIC
+    WARP\]这个名字代表自己已经移籍到[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")(Sony
+    Music Entertainment)。
   - 11st\~13rd 除DVD，同时还发售了Blu-ray规格。
 
 ### 特別 DVD
@@ -571,7 +571,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 
 <!-- end list -->
 
-  - [贝斯](../Page/贝斯.md "wikilink")
+  - [贝斯](https://zh.wikipedia.org/wiki/贝斯 "wikilink")
       - 白須衛治（1995年〜1999年10月）
       - 山田章典（1999年11月〜2004年）
       - Ikuo（2005年〜）
@@ -590,7 +590,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 
 <!-- end list -->
 
-  - [键盘](../Page/键盘.md "wikilink")
+  - [键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")
       - 浅倉大介（1995年〜1996年8月、1999年〜2000年）
       - 菅原旭成（1996年12月）
       - 至今日太（1997年8月）
@@ -626,7 +626,7 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 </tr>
 <tr class="odd">
 <td><p>HIGH PRESSURE</p></td>
-<td><p>广告《<a href="../Page/乐天.md" title="wikilink">乐天</a>・Sweetie 冰淇淋》主题歌</p></td>
+<td><p>广告《<a href="https://zh.wikipedia.org/wiki/乐天" title="wikilink">乐天</a>・Sweetie 冰淇淋》主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>WHITE BREATH</p></td>
@@ -670,13 +670,13 @@ D**”的“**D**”则象征浅仓大介(Asakura Daisuke)
 </tr>
 <tr class="even">
 <td><p>INVOKE</p></td>
-<td><p>电视动画《<a href="../Page/机动战士鋼彈SEED.md" title="wikilink">机动战士鋼彈SEED</a>」片头曲<br />
+<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/机动战士鋼彈SEED" title="wikilink">机动战士鋼彈SEED</a>」片头曲<br />
 游戏《机动战士鋼彈SEED 连合vs.Z.A.F.T.》开头主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Meteor</p></td>
 <td><p>电视动画《机动战士鋼彈SEED》插入歌<br />
-电视动画《<a href="../Page/机动战士鋼彈SEED_DESTINY.md" title="wikilink">机动战士鋼彈SEED DESTINY</a>》插入歌</p></td>
+电视动画《<a href="https://zh.wikipedia.org/wiki/机动战士鋼彈SEED_DESTINY" title="wikilink">机动战士鋼彈SEED DESTINY</a>》插入歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Albireo</p></td>
@@ -696,11 +696,11 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Web of Night (English Version)</p></td>
-<td><p>电影・日本公开版《<a href="../Page/蜘蛛侠2.md" title="wikilink">蜘蛛侠2</a>》主题曲</p></td>
+<td><p>电影・日本公开版《<a href="https://zh.wikipedia.org/wiki/蜘蛛侠2" title="wikilink">蜘蛛侠2</a>》主题曲</p></td>
 </tr>
 <tr class="even">
 <td><p>ignited</p></td>
-<td><p>电视动画《<a href="../Page/机动战士鋼彈SEED_DESTINY.md" title="wikilink">机动战士鋼彈SEED DESTINY</a>》片头曲<br />
+<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/机动战士鋼彈SEED_DESTINY" title="wikilink">机动战士鋼彈SEED DESTINY</a>》片头曲<br />
 游戏《机动战士鋼彈SEED DESTINY 连合vs.Z.A.F.T.II》开头主题歌</p></td>
 </tr>
 <tr class="odd">
@@ -714,7 +714,7 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>crosswise</p></td>
-<td><p>游戏《<a href="../Page/战国BASARA.md" title="wikilink">战国BASARA</a>》《战国BASARA X」主题歌</p></td>
+<td><p>游戏《<a href="https://zh.wikipedia.org/wiki/战国BASARA" title="wikilink">战国BASARA</a>》《战国BASARA X」主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Zips （UNDER:COVER 收录版）</p></td>
@@ -730,7 +730,7 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Imaginary Ark</p></td>
-<td><p>动画《<a href="../Page/机动战士鋼彈.md" title="wikilink">机动战士鋼彈</a>》　<a href="../Page/GUNPLA.md" title="wikilink">GUNPLA</a> 30周年官方主题歌</p></td>
+<td><p>动画《<a href="https://zh.wikipedia.org/wiki/机动战士鋼彈" title="wikilink">机动战士鋼彈</a>》　<a href="../Page/GUNPLA.md" title="wikilink">GUNPLA</a> 30周年官方主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Lakers</p></td>
@@ -738,7 +738,7 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>Naked arms</p></td>
-<td><p>游戏《<a href="../Page/战国BASARA3.md" title="wikilink">战国BASARA3</a>》开头主题歌</p></td>
+<td><p>游戏《<a href="https://zh.wikipedia.org/wiki/战国BASARA3" title="wikilink">战国BASARA3</a>》开头主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>SWORD SUMMIT</p></td>
@@ -767,7 +767,7 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>Preserved Roses</p></td>
-<td><p>电视动画《<a href="../Page/革命机Valvrave.md" title="wikilink">革命机Valvrave</a>》片头曲</p></td>
+<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/革命机Valvrave" title="wikilink">革命机Valvrave</a>》片头曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>Summer Blizzard</p></td>
@@ -775,7 +775,7 @@ Campaign《NTT DoCoMo DoCommerce Campaign》主题歌</p></td>
 </tr>
 <tr class="even">
 <td><p>革命DUALISM</p></td>
-<td><p>电视动画《<a href="../Page/革命机Valvrave.md" title="wikilink">革命机Valvrave</a>》第二季片头曲(※與<a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈合作</a>)</p></td>
+<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/革命机Valvrave" title="wikilink">革命机Valvrave</a>》第二季片头曲(※與<a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈合作</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>HEAVEN ONLY KNOWS ～Get the Power～</p></td>

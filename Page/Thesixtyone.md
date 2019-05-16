@@ -1,11 +1,11 @@
-**thesixtyone**（经常被简称为**t61**）是使用[协同过滤技术来组织](../Page/协同过滤.md "wikilink")，宣传和销售由艺术家上传音乐的[流媒体网站](../Page/流媒体.md "wikilink")，这些艺术家很多都是独立音乐人。\[1\]
+**thesixtyone**（经常被简称为**t61**）是使用[协同过滤技术来组织](https://zh.wikipedia.org/wiki/协同过滤 "wikilink")，宣传和销售由艺术家上传音乐的[流媒体网站](../Page/流媒体.md "wikilink")，这些艺术家很多都是独立音乐人。\[1\]
 thesixtyone是由James Miao和Samuel
 Hsiung创立的，并从[保罗·格雷厄姆处得到了早期的投资](../Page/保罗·格雷厄姆.md "wikilink")。\[2\]2008年1月，thesixtyone发布了早期测试版\[3\]
-并从[创作共用的首席执行官](../Page/创作共用.md "wikilink")[伊藤穰一和](../Page/伊藤穰一.md "wikilink")[LinkedIn的创始人](../Page/LinkedIn.md "wikilink")[Reid
-Hoffman处得到了追加的投资](../Page/:en:Reid_Hoffman.md "wikilink")。\[4\]
+并从[创作共用的首席执行官](../Page/创作共用.md "wikilink")[伊藤穰一和](../Page/伊藤穰一.md "wikilink")[LinkedIn的创始人](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")[Reid
+Hoffman处得到了追加的投资](https://zh.wikipedia.org/wiki/:en:Reid_Hoffman "wikilink")。\[4\]
 
-thesixtyone的命名是从美国的[六十一号公路而来](../Page/六十一号公路.md "wikilink")，一条对美国音乐文化有着深远意义的公路。\[5\]
-用户可以在站点上购买由艺术家上传的歌曲或是[mp3格式的专辑](../Page/mp3.md "wikilink")，thesixtyone的愿望是能给富有创意的艺术家们提供一个以音乐为生的机会。\[6\]
+thesixtyone的命名是从美国的[六十一号公路而来](https://zh.wikipedia.org/wiki/六十一号公路 "wikilink")，一条对美国音乐文化有着深远意义的公路。\[5\]
+用户可以在站点上购买由艺术家上传的歌曲或是[mp3格式的专辑](https://zh.wikipedia.org/wiki/mp3 "wikilink")，thesixtyone的愿望是能给富有创意的艺术家们提供一个以音乐为生的机会。\[6\]
 另外thesixtyone也允许艺术家把他们的音乐以[创作共用协议发布](../Page/创作共用.md "wikilink")，此外还可以提供免费下载。
 
 thesixtyone在操作上的一大特点是在页面内点击所有的链接都会直接在页面内加载内容而不会导致页面重新载入或是歌曲播放停顿，另外也支持键盘快捷键操作。用户可以以类似[Digg的形式去给歌曲投票](../Page/Digg.md "wikilink")。\[7\]

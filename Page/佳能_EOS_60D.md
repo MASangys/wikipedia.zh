@@ -28,7 +28,7 @@ HD（1080P)錄影。它有部分特色是首見於[佳能EOS系列的](../Page/�
     SHEET](https://web.archive.org/web/20150923200306/http://www.canon.co.uk/Images/EOS_60D_Specification_Sheet-v1_0_tcm14-773109.pdf)
 
 [ja:キヤノン EOS 10D\#EOS
-60D](../Page/ja:キヤノン_EOS_10D#EOS_60D.md "wikilink")
+60D](https://zh.wikipedia.org/wiki/ja:キヤノン_EOS_10D#EOS_60D "wikilink")
 
 [Category:數碼單反相機](https://zh.wikipedia.org/wiki/Category:數碼單反相機 "wikilink")
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

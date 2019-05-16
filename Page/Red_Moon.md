@@ -9,9 +9,10 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 <!-- end list -->
 
 1.  **red moon** (6:37)
-2.  **[光の旋律](../Page/光の旋律.md "wikilink")（光之旋律）** (6:11)
+2.  **[光の旋律](https://zh.wikipedia.org/wiki/光の旋律 "wikilink")（光之旋律）**
+    (6:11)
       -
-        [電視動畫](../Page/電視動畫.md "wikilink")《[空·之·音](../Page/空·之·音.md "wikilink")》主題歌
+        [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[空·之·音](../Page/空·之·音.md "wikilink")》主題歌
 3.  **テトテトメトメ（手牽手相望 ）** (4:50)
 4.  **fantasia** (5:21)
 5.  **春は黄金の夢の中（在黃金夢中的春天 ）** (3:54)
@@ -20,17 +21,18 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 8.  **星の謡（星星的歌）** (4:50)
       -
         Windows用遊戲《信長之野望Online 新星之章》印象曲
-9.  **[storia](../Page/storia.md "wikilink")** (3:38)
+9.  **[storia](https://zh.wikipedia.org/wiki/storia "wikilink")** (3:38)
       -
         NHK歷史特輯「歴史秘話ヒストリア（歷史祕話HISTORY）」主題歌
 10. **intermezzo** (2:00)
-11. **[progressive](../Page/progressive.md "wikilink")** (5:42)
+11. **[progressive](https://zh.wikipedia.org/wiki/progressive "wikilink")**
+    (5:42)
 12. **[Lacrimosa](../Page/Lacrimosa_\(單曲\).md "wikilink")** (4:14)
       -
         電視動畫《[黑執事](../Page/黑執事.md "wikilink")》第2期片尾曲
 13. **I have a dream** (5:56)
       -
-        劇場版動畫《[夏娃的時間](../Page/夏娃的時間.md "wikilink")》主題歌
+        劇場版動畫《[夏娃的時間](https://zh.wikipedia.org/wiki/夏娃的時間 "wikilink")》主題歌
 
 ## 初回生産限定盤
 
@@ -47,7 +49,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [空·之·音](../Page/空·之·音.md "wikilink")
   - [黑執事](../Page/黑執事.md "wikilink")
-  - [夏娃的時間](../Page/夏娃的時間.md "wikilink")
+  - [夏娃的時間](https://zh.wikipedia.org/wiki/夏娃的時間 "wikilink")
 
 ## 資料來源
 

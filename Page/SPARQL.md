@@ -1,11 +1,11 @@
-**SPARQL**（讀做「sparkle」\[1\]、「史巴–摳」）是一種用於[資源描述框架上的](../Page/資源描述框架.md "wikilink")[查詢語言](../Page/查詢語言.md "wikilink")，它的名字是一個[遞迴縮寫](../Page/遞迴縮寫.md "wikilink")，代表「**S**PARQL
+**SPARQL**（讀做「sparkle」\[1\]、「史巴–摳」）是一種用於[資源描述框架上的](../Page/資源描述框架.md "wikilink")[查詢語言](https://zh.wikipedia.org/wiki/查詢語言 "wikilink")，它的名字是一個[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")，代表「**S**PARQL
 **P**rotocol **a**nd **R**DF **Q**uery
-**L**anguage（SPARQL協定與RDF查詢語言）」。它的標準化為[全球資訊網協會的](../Page/全球資訊網協會.md "wikilink")*RDF資料存取工作小組（DAWG）*所進行，被認為是[語意網科技的一個關鍵](../Page/語意網.md "wikilink")。2008年1月15日，SPARQL正式成為一項[W3C推薦標準](../Page/W3C推薦標準.md "wikilink")\[2\]。
+**L**anguage（SPARQL協定與RDF查詢語言）」。它的標準化為[全球資訊網協會的](https://zh.wikipedia.org/wiki/全球資訊網協會 "wikilink")*RDF資料存取工作小組（DAWG）*所進行，被認為是[語意網科技的一個關鍵](https://zh.wikipedia.org/wiki/語意網 "wikilink")。2008年1月15日，SPARQL正式成為一項[W3C推薦標準](https://zh.wikipedia.org/wiki/W3C推薦標準 "wikilink")\[2\]。
 
-一個SPARQL查詢由一些組合、[與邏輯](../Page/邏輯與.md "wikilink")、[或邏輯](../Page/邏輯或.md "wikilink")，及選項組合所組成\[3\]
+一個SPARQL查詢由一些組合、[與邏輯](https://zh.wikipedia.org/wiki/邏輯與 "wikilink")、[或邏輯](https://zh.wikipedia.org/wiki/邏輯或 "wikilink")，及選項組合所組成\[3\]
 。
 
-SPARQL現已有在多個[程式語言上的实现了](../Page/程式語言.md "wikilink")\[4\]。在一個2006年5月的訪問裡，[提姆·柏納李說到](../Page/提姆·柏納李.md "wikilink")：「SPARQL將會帶來很大的變化」。
+SPARQL現已有在多個[程式語言上的实现了](https://zh.wikipedia.org/wiki/程式語言 "wikilink")\[4\]。在一個2006年5月的訪問裡，[提姆·柏納李說到](https://zh.wikipedia.org/wiki/提姆·柏納李 "wikilink")：「SPARQL將會帶來很大的變化」。
 
 ## 優點
 
@@ -21,9 +21,9 @@ WHERE {
 }
 ```
 
-假設用來描述[人的](../Page/人.md "wikilink")[本體最終統一為](../Page/本體_\(資訊學\).md "wikilink")[FOAF](../Page/FOAF.md "wikilink")。注意到所有在SPARQL裡的標示都是[URI都是廣域上不含糊的](../Page/URI.md "wikilink")，與[SQL常用的欄位名](../Page/SQL.md "wikilink")「email」或是「e-mail」有所不同。這是此詢問不含糊的根本原因。
+假設用來描述[人的](../Page/人.md "wikilink")[本體最終統一為](https://zh.wikipedia.org/wiki/本體_\(資訊學\) "wikilink")[FOAF](https://zh.wikipedia.org/wiki/FOAF "wikilink")。注意到所有在SPARQL裡的標示都是[URI都是廣域上不含糊的](https://zh.wikipedia.org/wiki/URI "wikilink")，與[SQL常用的欄位名](../Page/SQL.md "wikilink")「email」或是「e-mail」有所不同。這是此詢問不含糊的根本原因。
 
-這個詢問可以被散布到多個SPARQL節點上，被計算之後結果再聚合起來，這個過程被稱作[聯合式搜尋](../Page/聯合式搜尋.md "wikilink")。
+這個詢問可以被散布到多個SPARQL節點上，被計算之後結果再聚合起來，這個過程被稱作[聯合式搜尋](https://zh.wikipedia.org/wiki/聯合式搜尋 "wikilink")。
 
 ## 例子
 
@@ -44,7 +44,7 @@ WHERE {
 
 SPARQL詢問處理器會找到所有滿足這4個三體組合的配對，將對應的變數代表的值找出來。很重要的一點是這是「屬性導向」的（類的配對只能從屬性裡找出來。
 
-為了讓詢問變得更精簡，SPARQL可以讓使用者定義前輟與[URI底](../Page/URI.md "wikilink")，與[Turtle類似](../Page/Turtle.md "wikilink")。在這個詢問中，「abc」這個前輟代表「http://example.com/exampleOntology\#」。
+為了讓詢問變得更精簡，SPARQL可以讓使用者定義前輟與[URI底](https://zh.wikipedia.org/wiki/URI "wikilink")，與[Turtle類似](https://zh.wikipedia.org/wiki/Turtle "wikilink")。在這個詢問中，「abc」這個前輟代表「http://example.com/exampleOntology\#」。
 
 ## 參考
 

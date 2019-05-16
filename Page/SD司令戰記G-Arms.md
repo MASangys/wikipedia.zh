@@ -2,16 +2,16 @@
 
 ## 故事
 
-SDV世界中，一處名為[麥哲倫大陸](../Page/麥哲倫.md "wikilink")(マゼラン大陸)的防衛軍GUNDAM部隊(ガンダムチーム)，被邪惡軍團「-{zh-hk:煞;zh-tw:撒;}-旦里昂正規軍」(ザタリオン正規軍)的司令官血腥-{zh-hk:渣古;zh-tw:薩克;}-打敗。為收復失地，司令GUNDAM決定鍛鍊GUNDAM部隊，並集結當中精銳成員，組成「G-ARMS」。
+SDV世界中，一處名為[麥哲倫大陸](https://zh.wikipedia.org/wiki/麥哲倫 "wikilink")(マゼラン大陸)的防衛軍GUNDAM部隊(ガンダムチーム)，被邪惡軍團「-{zh-hk:煞;zh-tw:撒;}-旦里昂正規軍」(ザタリオン正規軍)的司令官血腥-{zh-hk:渣古;zh-tw:薩克;}-打敗。為收復失地，司令GUNDAM決定鍛鍊GUNDAM部隊，並集結當中精銳成員，組成「G-ARMS」。
 
-成長後的G-ARMS，與-{zh-hk:煞;zh-tw:撒;}-旦里昂進行激戰。隨著潛伏在-{zh-hk:煞;zh-tw:撒;}-旦里昂軍親衛隊SS、實際上是軍團支配者的邪惡機械生命體「[元首](../Page/元首.md "wikilink")-{zh-hk:煞;zh-tw:撒;}-旦里昂」(フューラーザタリオン
+成長後的G-ARMS，與-{zh-hk:煞;zh-tw:撒;}-旦里昂進行激戰。隨著潛伏在-{zh-hk:煞;zh-tw:撒;}-旦里昂軍親衛隊SS、實際上是軍團支配者的邪惡機械生命體「[元首](https://zh.wikipedia.org/wiki/元首 "wikilink")-{zh-hk:煞;zh-tw:撒;}-旦里昂」(フューラーザタリオン
 )介入，令戰事更加激化。
 
 ## 人物
 
 ### G-ARMS
 
-#### 司令GUNDAM／重裝備司令GUNDAM／V司令GUNDAM**(FAGUNDAM／GUNDAM七號機重裝備型+[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](../Page/阿諾·史瓦辛格.md "wikilink"))**
+#### 司令GUNDAM／重裝備司令GUNDAM／V司令GUNDAM**(FAGUNDAM／GUNDAM七號機重裝備型+[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink"))**
 
 推出商品﹕BB.43、BB.84、元祖系列、SDX可動玩具
 
@@ -21,7 +21,7 @@ SDV世界中，一處名為[麥哲倫大陸](../Page/麥哲倫.md "wikilink")(�
     在元首-{zh-hk:煞;zh-tw:撒;}-旦里昂復活前夕，司令GUNDAM將將軍GUNDAM的封印解除，同時恢復原來的V司令GUNDAM型態，與-{zh-hk:煞;zh-tw:撒;}-旦里昂作最終決戰。
     連同手持武器，司令GUNDAM的武裝總計26種，包括支援機械「V炮堡1」(メカVフォース1)、以及收容操控的將軍GUNDAM。
     角色原型源自演出電影「-{zh-hk:超級英雄;zh-tw:魔鬼司令;}-」
-    （Commando）主角的[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](../Page/阿諾·史瓦辛格.md "wikilink")。
+    （Commando）主角的[-{zh-hk:阿諾·舒華辛力加;zh-tw:阿諾·史瓦辛格;}-](https://zh.wikipedia.org/wiki/阿諾·史瓦辛格 "wikilink")。
     2009年SDX系列玩具，司令GUNDAM亦再次被復刻推出。
 
 <!-- end list -->
@@ -32,7 +32,7 @@ SDV世界中，一處名為[麥哲倫大陸](../Page/麥哲倫.md "wikilink")(�
         **將軍GUNDAM**／戰艦將軍(ジェネラルガンダム ／ 戦艦ジェネラル)
           -
             為與元首-{zh-hk:煞;zh-tw:撒;}-旦里昂對決而建造、聯邦宇宙軍最多戰艦，可由平常的戰艦型態，變形成由V司令GUNDAM控制的巨大GUNDAM形態。
-            全身搭載多種火炮，戰艦型態全部前置火炮，在變形後會成為GUNDAM型態全身武裝。而將軍GUNDAM主炮「[-{zh-hk:大爆炸;zh-tw:大霹靂;}-破壞砲](../Page/大霹靂.md "wikilink")」(ビッグバンバスター／BIG
+            全身搭載多種火炮，戰艦型態全部前置火炮，在變形後會成為GUNDAM型態全身武裝。而將軍GUNDAM主炮「[-{zh-hk:大爆炸;zh-tw:大霹靂;}-破壞砲](https://zh.wikipedia.org/wiki/大霹靂 "wikilink")」(ビッグバンバスター／BIG
             BANG BUSTER)更是全部SD GUNDAM系列中最強最大的兵器。
 
 ##### 諜報部隊
@@ -63,7 +63,7 @@ SDV世界中，一處名為[麥哲倫大陸](../Page/麥哲倫.md "wikilink")(�
     為了從-{zh-hk:煞;zh-tw:撒;}-旦里昂近衛隊的突襲，保護G-ARMS基地而發動自殺攻擊，一般人以為他被捲入爆中之中已經陣亡。不過在爆炸期間，隊長GUNDAM發現地下秘道，而得以保存性命，奇跡生還，其後更與昔日同伴「-{zh-hk:幪;zh-tw:假;}-面司令」(GUNDAMMK-II)進行一決生死的終極之戰。
     必殺技是以變形為戰車型態進行突擊的「獅子之牙」。
     隊長GUNDAM在日後的CG動畫「[SD GUNDAM
-    FORCE](../Page/SD_GUNDAM_FORCE.md "wikilink")」中亦擔任主角，雖然外形稍有修改，但例如SD
+    FORCE](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")」中亦擔任主角，雖然外形稍有修改，但例如SD
     GUNDAM部隊領袖、獅子之牙等設定，則仍有保留。
 
 ##### 陸戰部隊
@@ -103,7 +103,7 @@ Z)
     GUNDAM是無法重現MS版本中將頭收納的功能。)，而進行改造手術。
     性格光明磊落，討厭卑鄙的戰術。但平時表現總像花花公子一樣，裝模作樣地進行決定。而且最大弱點，是下降時總是以硬著陸方式。不過由於空戰部隊成員的-{zh-hk:獵鷹;zh-tw:鋼獵鷹;;}-NU是一對好拍檔，在他支援下，亦能夠解決硬著陸的問題，因此對他亦極之信賴。必殺技是「天空之劍」。
     在「[SD戰國傳
-    傳說之大將軍篇](../Page/SD戰國傳_傳說之大將軍篇.md "wikilink")」中，曾因為被落雷擊中，而流落至天宮之國，在獲得烈破及烈空力量後，成為「武者頑星刃」。由於此設定是在G-ARMS完結後才出現，因此在司令戰記中並未提及。另一方面，亦有將此事，解讀成-{zh-hk:軍刀;zh-tw:鋼軍刀;}-Z回到過去的說法。
+    傳說之大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_傳說之大將軍篇 "wikilink")」中，曾因為被落雷擊中，而流落至天宮之國，在獲得烈破及烈空力量後，成為「武者頑星刃」。由於此設定是在G-ARMS完結後才出現，因此在司令戰記中並未提及。另一方面，亦有將此事，解讀成-{zh-hk:軍刀;zh-tw:鋼軍刀;}-Z回到過去的說法。
 
 **-{zh-hk:獵鷹;zh-tw:鋼獵鷹;}-Nu／重裝型-{zh-hk:獵鷹;zh-tw:鋼獵鷹;}-Nu**
 
@@ -168,7 +168,7 @@ MK-II／水中用-{zh-hk:高渣古;zh-tw:高性能薩克;}-)
 
 ### \-{zh-hk:煞;zh-tw:撒;}-旦里昂
 
-**[元首](../Page/元首.md "wikilink")-{zh-hk:煞;zh-tw:撒;}-旦里昂(フューラーザタリオン)**(闇皇帝)
+**[元首](https://zh.wikipedia.org/wiki/元首 "wikilink")-{zh-hk:煞;zh-tw:撒;}-旦里昂(フューラーザタリオン)**(闇皇帝)
 
   -
     「フューラーザタリオン」名稱中的「フューラー」(FÜHRER)是德文「元首」的意思。

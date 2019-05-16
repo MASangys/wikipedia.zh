@@ -1,5 +1,5 @@
 [密码学中](../Page/密码学.md "wikilink")，**三重数据加密算法**（，縮寫為TDEA，Triple
-DEA），或稱**3DES**（），是一種[對稱密鑰加密](../Page/對稱密鑰加密.md "wikilink")[块密码](../Page/块密码.md "wikilink")，相当于是对每个数据块应用三次[資料加密標準](../Page/資料加密標準.md "wikilink")（DES）算法。由于计算机运算能力的增强，原版DES密码的[密钥长度变得容易被](../Page/密钥长度.md "wikilink")[暴力破解](../Page/暴力破解.md "wikilink")；3DES即是设计用来提供一种相对简单的方法，即通过增加DES的密钥长度来避免类似的攻击，而不是设计一种全新的块密码算法。
+DEA），或稱**3DES**（），是一種[對稱密鑰加密](../Page/對稱密鑰加密.md "wikilink")[块密码](https://zh.wikipedia.org/wiki/块密码 "wikilink")，相当于是对每个数据块应用三次[資料加密標準](../Page/資料加密標準.md "wikilink")（DES）算法。由于计算机运算能力的增强，原版DES密码的[密钥长度变得容易被](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")[暴力破解](https://zh.wikipedia.org/wiki/暴力破解 "wikilink")；3DES即是设计用来提供一种相对简单的方法，即通过增加DES的密钥长度来避免类似的攻击，而不是设计一种全新的块密码算法。
 
 ## 标准中的定义
 
@@ -18,8 +18,8 @@ TDEA算法在以下标准中被定义：
 ## 算法的名称
 
 最早的定义了该算法的标准（ANS X9.52，1998年发布）将其描述为“三重数据加密算法（TDEA）” — 即ANSI
-X3.92中定义的数据加密算法（[DEA](../Page/DEA.md "wikilink")）的三次重复操作 —
-而完全没有使用术语“3DES”或“DES”。FIPS PUB
+X3.92中定义的数据加密算法（[DEA](https://zh.wikipedia.org/wiki/DEA "wikilink")）的三次重复操作
+— 而完全没有使用术语“3DES”或“DES”。FIPS PUB
 46-3（1999）定义了“三重数据加密算法”（TDEA），也使用了术语“Triple
 DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA）和“DES”的概念，其中以此开始DES的定义：  NIST SP
 800-67（2004，2008）主要使用术语TDEA，但也提到了“Triple DES（TDEA）”。ISO/IEC
@@ -29,7 +29,7 @@ DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA�
 
 ## 算法
 
-3DES使用“密钥包”，其包含3个DES[密钥](../Page/密钥.md "wikilink")，K<sub>1</sub>，K<sub>2</sub>和K<sub>3</sub>，均为56位（除去[奇偶校验位](../Page/奇偶校验位.md "wikilink")）。加密算法为：
+3DES使用“密钥包”，其包含3个DES[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，K<sub>1</sub>，K<sub>2</sub>和K<sub>3</sub>，均为56位（除去[奇偶校验位](../Page/奇偶校验位.md "wikilink")）。加密算法为：
 
   -
     密文 = E<sub>K3</sub>(D<sub>K2</sub>(E<sub>K1</sub>(明文)))
@@ -45,7 +45,7 @@ DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA�
 
 每次加密操作都只处理64位数据，称为一块。
 
-无论是加密还是解密，中间一步都是前后两步的逆。这种做法提高了使用[密钥选项](../Page/#密钥选项.md "wikilink")2时的算法强度，并在使用密钥选项3时与DES[兼容](../Page/向下兼容.md "wikilink")。
+无论是加密还是解密，中间一步都是前后两步的逆。这种做法提高了使用[密钥选项](https://zh.wikipedia.org/wiki/#密钥选项 "wikilink")2时的算法强度，并在使用密钥选项3时与DES[兼容](../Page/向下兼容.md "wikilink")。
 
 ## 密钥选项
 
@@ -58,9 +58,9 @@ DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA�
 密钥选项1的强度最高，拥有3 x 56 = 168个独立的密钥位。
 
 密钥选项2的安全性稍低，拥有2 x 56 =
-112个独立的密钥位。该选项比简单的应用DES两次的强度较高，即使用K<sub>1</sub>和K<sub>2</sub>，因为它可以防御[中途相遇攻击](../Page/中途相遇攻击.md "wikilink")。
+112个独立的密钥位。该选项比简单的应用DES两次的强度较高，即使用K<sub>1</sub>和K<sub>2</sub>，因为它可以防御[中途相遇攻击](https://zh.wikipedia.org/wiki/中途相遇攻击 "wikilink")。
 
-密钥选项3等同与DES，只有56个密钥位。这个选项提供了与DES的兼容性，因为第1和第2次DES操作相互抵消了。该选项不再为[国家标准科技协会](../Page/国家标准科技协会.md "wikilink")（NIST）所建议\[2\]，亦不为ISO/IEC
+密钥选项3等同与DES，只有56个密钥位。这个选项提供了与DES的兼容性，因为第1和第2次DES操作相互抵消了。该选项不再为[国家标准科技协会](https://zh.wikipedia.org/wiki/国家标准科技协会 "wikilink")（NIST）所建议\[2\]，亦不为ISO/IEC
 18033-3所支持。
 
 ### 其它用于指代密钥选项的术语
@@ -80,22 +80,22 @@ DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA�
 
 ## 对多于一个块的加密
 
-与其它的块密码一样，对多个数据块的加密和解密可以使用多种[工作模式进行](../Page/块密码的工作模式.md "wikilink")，而模式的定义可以与块密码算法相独立。然而，ANS
+与其它的块密码一样，对多个数据块的加密和解密可以使用多种[工作模式进行](https://zh.wikipedia.org/wiki/块密码的工作模式 "wikilink")，而模式的定义可以与块密码算法相独立。然而，ANS
 X9.52和NIST SP 800-67（通过SP
 800-38A\[11\]）确定了某些模式只能在特定限制下应用，而无需普遍的应用。例如，ANS
-X9.52提出对于[CBC模式](../Page/CBC.md "wikilink")，[初始化向量每次应当不同](../Page/初始化向量.md "wikilink")，而ISO/IEC
+X9.52提出对于[CBC模式](https://zh.wikipedia.org/wiki/CBC "wikilink")，[初始化向量每次应当不同](https://zh.wikipedia.org/wiki/初始化向量 "wikilink")，而ISO/IEC
 10116没有类似规定\[12\]。FIPS PUB 46-3和ISO/IEC
 18033-3只定义了单块密码，而并没有对多块的工作模式做出限制。
 
 ## 安全性
 
-普遍而言，有3个独立密钥的3DES（[密钥选项](../Page/#密钥选项.md "wikilink")1）的密钥长度为168位（三个56位的DES密钥），但由於[中途相遇攻击](../Page/中途相遇攻击.md "wikilink")，它的有效安全性仅为112位。密钥选项2将密钥长度缩短到了112位，但该选项对特定的[选择明文攻击和](../Page/选择明文攻击.md "wikilink")[已知明文攻击的强度较弱](../Page/已知明文攻击.md "wikilink")\[13\]\[14\]，因此NIST认定它只有80位的安全性\[15\]。
+普遍而言，有3个独立密钥的3DES（[密钥选项](https://zh.wikipedia.org/wiki/#密钥选项 "wikilink")1）的密钥长度为168位（三个56位的DES密钥），但由於[中途相遇攻击](https://zh.wikipedia.org/wiki/中途相遇攻击 "wikilink")，它的有效安全性仅为112位。密钥选项2将密钥长度缩短到了112位，但该选项对特定的[选择明文攻击和](https://zh.wikipedia.org/wiki/选择明文攻击 "wikilink")[已知明文攻击的强度较弱](https://zh.wikipedia.org/wiki/已知明文攻击 "wikilink")\[13\]\[14\]，因此NIST认定它只有80位的安全性\[15\]。
 
 对密钥选项1的已知最佳攻击需要约2<sup>32</sup>组已知明文，2<sup>113</sup>部，2<sup>90</sup>次DES加密以及2<sup>88</sup>位内存\[16\]（该论文提到了时间和内存的其它分配方案）。这在现在是不现实的，因此NIST认为密钥选项1可以使用到2030年\[17\]。若攻击者试图在一些可能的（而不是全部的）密钥中找到正确的，有一种在内存效率上较高的攻击方法可以用每个密钥对应的少数选择明文和约2<sup>84</sup>次加密操作找到2<sup>28</sup>个目标密钥中的一个\[18\]。
 
 ## 使用
 
-[电子货币业界普遍使用](../Page/电子货币.md "wikilink")3DES，并持续开发和宣传基于其的标准（例如[EMV](../Page/EMV.md "wikilink")）\[19\]\[20\]。
+[电子货币业界普遍使用](https://zh.wikipedia.org/wiki/电子货币 "wikilink")3DES，并持续开发和宣传基于其的标准（例如[EMV](../Page/EMV.md "wikilink")）\[19\]\[20\]。
 
 [Microsoft OneNote和](../Page/Microsoft_OneNote.md "wikilink")[Microsoft
 Outlook](../Page/Microsoft_Outlook.md "wikilink")
@@ -107,14 +107,16 @@ Outlook](../Page/Microsoft_Outlook.md "wikilink")
 
 ## 参见
 
-  - [DES](../Page/DES.md "wikilink")
-  - [DES-X](../Page/DES-X.md "wikilink")
-  - [AES](../Page/AES.md "wikilink")
-  - [Horst Feistel](../Page/Horst_Feistel.md "wikilink")
-  - [Walter Tuchman](../Page/Walter_Tuchman.md "wikilink")
+  - [DES](https://zh.wikipedia.org/wiki/DES "wikilink")
+  - [DES-X](https://zh.wikipedia.org/wiki/DES-X "wikilink")
+  - [AES](https://zh.wikipedia.org/wiki/AES "wikilink")
+  - [Horst
+    Feistel](https://zh.wikipedia.org/wiki/Horst_Feistel "wikilink")
+  - [Walter
+    Tuchman](https://zh.wikipedia.org/wiki/Walter_Tuchman "wikilink")
 
 [de:Data Encryption
-Standard\#Triple-DES](../Page/de:Data_Encryption_Standard#Triple-DES.md "wikilink")
+Standard\#Triple-DES](https://zh.wikipedia.org/wiki/de:Data_Encryption_Standard#Triple-DES "wikilink")
 
 [Category:已攻破的分组密码](https://zh.wikipedia.org/wiki/Category:已攻破的分组密码 "wikilink")
 [Category:数据加密标准](https://zh.wikipedia.org/wiki/Category:数据加密标准 "wikilink")
@@ -148,28 +150,35 @@ Standard\#Triple-DES](../Page/de:Data_Encryption_Standard#Triple-DES.md "wikilin
 12. [ISO/IEC 10116:2006 *信息技术 — 安全技术 —
     n位块密码的工作模式*](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=38761)
 
-13. [Ralph Merkle](../Page/Ralph_Merkle.md "wikilink"), [Martin
-    Hellman](../Page/Martin_Hellman.md "wikilink"):
+13. [Ralph
+    Merkle](https://zh.wikipedia.org/wiki/Ralph_Merkle "wikilink"),
+    [Martin
+    Hellman](https://zh.wikipedia.org/wiki/Martin_Hellman "wikilink"):
     [*关于多加密的安全性*](http://www.cs.purdue.edu/homes/ninghui/courses/Spring04/homeworks/p465-merkle.pdf)
-     ([PDF](../Page/PDF.md "wikilink")), [Communications of the
-    ACM](../Page/Communications_of_the_ACM.md "wikilink"), Vol 24, No 7,
-    pp 465–467, July 1981.
+     ([PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")),
+    [Communications of the
+    ACM](https://zh.wikipedia.org/wiki/Communications_of_the_ACM "wikilink"),
+    Vol 24, No 7, pp 465–467, July 1981.
 
-14. [Paul van Oorschot](../Page/Paul_van_Oorschot.md "wikilink"),
-    [Michael J. Wiener](../Page/Michael_J._Wiener.md "wikilink"),
+14. [Paul van
+    Oorschot](https://zh.wikipedia.org/wiki/Paul_van_Oorschot "wikilink"),
+    [Michael J.
+    Wiener](https://zh.wikipedia.org/wiki/Michael_J._Wiener "wikilink"),
     *一种针对双密钥三次加密的已知明文攻击*,
-    [EUROCRYPT](../Page/EUROCRYPT.md "wikilink")'90, LNCS 473, 1990, pp
-    318–325.
+    [EUROCRYPT](https://zh.wikipedia.org/wiki/EUROCRYPT "wikilink")'90,
+    LNCS 473, 1990, pp 318–325.
 
 15.
-16. [Stefan Lucks](../Page/Stefan_Lucks.md "wikilink"):
+16. [Stefan
+    Lucks](https://zh.wikipedia.org/wiki/Stefan_Lucks "wikilink"):
     [*攻击三次加密*](http://th.informatik.uni-mannheim.de/People/Lucks/papers/pdf/3des.pdf.gz)
-     ([PDF](../Page/PDF.md "wikilink")), [Fast Software
-    Encryption](../Page/Fast_Software_Encryption.md "wikilink") 1998, pp
-    239–253.
+     ([PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")), [Fast
+    Software
+    Encryption](https://zh.wikipedia.org/wiki/Fast_Software_Encryption "wikilink")
+    1998, pp 239–253.
 
 17.
-18. [Eli Biham](../Page/Eli_Biham.md "wikilink"):
+18. [Eli Biham](https://zh.wikipedia.org/wiki/Eli_Biham "wikilink"):
     [*如何使用2<sup>28</sup>步解密DES加密的消息*](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/1996/CS/CS0884.ps.gz)
      ([PostScript](../Page/PostScript.md "wikilink")), 1996.
 

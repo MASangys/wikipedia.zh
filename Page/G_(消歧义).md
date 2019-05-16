@@ -8,11 +8,11 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [天文学临时编号中指](../Page/天文学临时编号.md "wikilink")4月1日至4月15日间发现的[彗星](../Page/彗星.md "wikilink")、[小行星和小型星球](../Page/小行星.md "wikilink")。
+  - [天文学临时编号中指](https://zh.wikipedia.org/wiki/天文学临时编号 "wikilink")4月1日至4月15日间发现的[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")、[小行星和小型星球](https://zh.wikipedia.org/wiki/小行星 "wikilink")。
 
 ## 化学和生物
 
-  - [G-四联体](../Page/G-四联体.md "wikilink")
+  - [G-四联体](https://zh.wikipedia.org/wiki/G-四联体 "wikilink")
 
 <!-- end list -->
 
@@ -24,15 +24,15 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [鸟苷](../Page/鸟苷.md "wikilink")，一种[核苷](../Page/核苷.md "wikilink")。
+  - [鸟苷](https://zh.wikipedia.org/wiki/鸟苷 "wikilink")，一种[核苷](../Page/核苷.md "wikilink")。
 
 <!-- end list -->
 
-  - [单倍群G](../Page/单倍群G.md "wikilink")。
+  - [单倍群G](https://zh.wikipedia.org/wiki/单倍群G "wikilink")。
 
 <!-- end list -->
 
-  - [ATC代码G](../Page/ATC代码G.md "wikilink")，[解剖学治疗学及化学分类系统中表示](../Page/解剖学治疗学及化学分类系统.md "wikilink")[泌尿生殖系统及](../Page/泌尿生殖系统.md "wikilink")[性激素药品的解剖学分类](../Page/性激素.md "wikilink")。
+  - [ATC代码G](https://zh.wikipedia.org/wiki/ATC代码G "wikilink")，[解剖学治疗学及化学分类系统中表示](../Page/解剖学治疗学及化学分类系统.md "wikilink")[泌尿生殖系统及](https://zh.wikipedia.org/wiki/泌尿生殖系统 "wikilink")[性激素药品的解剖学分类](https://zh.wikipedia.org/wiki/性激素 "wikilink")。
 
 <!-- end list -->
 
@@ -44,29 +44,29 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [格拉斯哥](../Page/格拉斯哥.md "wikilink")，[英国邮编为G](../Page/英国.md "wikilink")。
+  - [格拉斯哥](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")，[英国邮编为G](https://zh.wikipedia.org/wiki/英国 "wikilink")。
 
 <!-- end list -->
 
-  - [魁北克东部](../Page/魁北克.md "wikilink")，[加拿大邮编前缀为G](../Page/加拿大邮编.md "wikilink")。
-  - [英國的](../Page/英國.md "wikilink")[航空器註冊編號字首](../Page/航空器註冊編號.md "wikilink")
+  - [魁北克东部](https://zh.wikipedia.org/wiki/魁北克 "wikilink")，[加拿大邮编前缀为G](https://zh.wikipedia.org/wiki/加拿大邮编 "wikilink")。
+  - [英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[航空器註冊編號字首](../Page/航空器註冊編號.md "wikilink")
 
 ## 计算机
 
   - [企鹅俱乐部中的](../Page/企鹅俱乐部.md "wikilink")“G”，一个虚构的企鹅秘密组织的发起人，一个在游戏中设定的秘密服务。
-  - [GB的简称](../Page/GB.md "wikilink")
+  - [GB的简称](https://zh.wikipedia.org/wiki/GB "wikilink")
 
 ## 语言学
 
-  - ɡ，表示[浊软颚塞音](../Page/浊软颚塞音.md "wikilink")。
+  - ɡ，表示[浊软颚塞音](https://zh.wikipedia.org/wiki/浊软颚塞音 "wikilink")。
 
 <!-- end list -->
 
-  - ɢ，表示[浊小舌塞音](../Page/浊小舌塞音.md "wikilink")。
+  - ɢ，表示[浊小舌塞音](https://zh.wikipedia.org/wiki/浊小舌塞音 "wikilink")。
 
 ## 数学
 
-  - [葛立恒数](../Page/葛立恒数.md "wikilink")，现时在正式数学证明中出现过最大的数。
+  - [葛立恒数](https://zh.wikipedia.org/wiki/葛立恒数 "wikilink")，现时在正式数学证明中出现过最大的数。
 
 ## 影视
 
@@ -74,7 +74,7 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [电视分级制度中代表](../Page/电视分级制度.md "wikilink")“普通观众”级。
+  - [电视分级制度中代表](https://zh.wikipedia.org/wiki/电视分级制度 "wikilink")“普通观众”级。
 
 <!-- end list -->
 
@@ -82,16 +82,16 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 ## 音乐
 
-  - [G音](../Page/G音.md "wikilink")，音名中的第五音。
-  - [G大调](../Page/G大调.md "wikilink")。
+  - [G音](https://zh.wikipedia.org/wiki/G音 "wikilink")，音名中的第五音。
+  - [G大调](https://zh.wikipedia.org/wiki/G大调 "wikilink")。
 
 ## 物理学
 
-  - G波段，4至6[GHz](../Page/GHz.md "wikilink")。
+  - G波段，4至6[GHz](https://zh.wikipedia.org/wiki/GHz "wikilink")。
 
 <!-- end list -->
 
-  - [高斯](../Page/高斯_\(单位\).md "wikilink")，磁通量单位。
+  - [高斯](https://zh.wikipedia.org/wiki/高斯_\(单位\) "wikilink")，磁通量单位。
 
 <!-- end list -->
 
@@ -107,12 +107,13 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [剪切模量](../Page/剪切模量.md "wikilink")。
+  - [剪切模量](https://zh.wikipedia.org/wiki/剪切模量 "wikilink")。
 
 <!-- end list -->
 
-  - [标准重力](../Page/标准重力.md "wikilink")（g<sub>0</sub> 或
-    g<sub>n</sub>），由于地球[重力而产生的额定加速度](../Page/重力.md "wikilink")。
+  - [标准重力](https://zh.wikipedia.org/wiki/标准重力 "wikilink")（g<sub>0</sub>
+    或
+    g<sub>n</sub>），由于地球[重力而产生的额定加速度](https://zh.wikipedia.org/wiki/重力 "wikilink")。
 
 <!-- end list -->
 
@@ -124,11 +125,12 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 <!-- end list -->
 
-  - [胶子](../Page/胶子.md "wikilink")，一种[玻色子](../Page/玻色子.md "wikilink")。
+  - [胶子](https://zh.wikipedia.org/wiki/胶子 "wikilink")，一种[玻色子](../Page/玻色子.md "wikilink")。
 
 ## 体育
 
-  - [墨尔本板球场](../Page/墨尔本板球场.md "wikilink")（MCG），当地人称其“The G”。
+  - [墨尔本板球场](https://zh.wikipedia.org/wiki/墨尔本板球场 "wikilink")（MCG），当地人称其“The
+    G”。
 
 <!-- end list -->
 
@@ -136,7 +138,7 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 ## 单位
 
-  - [克](../Page/克.md "wikilink")（g），质量单位。
+  - [克](https://zh.wikipedia.org/wiki/克 "wikilink")（g），质量单位。
 
 <!-- end list -->
 
@@ -144,7 +146,7 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 ## 其他用处
 
-  - [纽约地铁G线](../Page/纽约地铁G线.md "wikilink")。
+  - [纽约地铁G线](https://zh.wikipedia.org/wiki/纽约地铁G线 "wikilink")。
 
 <!-- end list -->
 
@@ -160,15 +162,16 @@ G, g 是[拉丁字母中的第](../Page/拉丁字母.md "wikilink")7个字母。
 
 ## 参见
 
-  - [Ց](../Page/亚美尼亚字母.md "wikilink")
+  - [Ց](https://zh.wikipedia.org/wiki/亚美尼亚字母 "wikilink")
 
-[ca:G\#Significats de G](../Page/ca:G#Significats_de_G.md "wikilink")
+[ca:G\#Significats de
+G](https://zh.wikipedia.org/wiki/ca:G#Significats_de_G "wikilink")
 [fi:G\#G-kirjaimen
-merkityksiä](../Page/fi:G#G-kirjaimen_merkityksiä.md "wikilink")
-[hu:G\#Jelentései](../Page/hu:G#Jelentései.md "wikilink") [ja:G\#G
-の意味](../Page/ja:G#G_の意味.md "wikilink")
-[la:G\#Abbreviationes](../Page/la:G#Abbreviationes.md "wikilink")
+merkityksiä](https://zh.wikipedia.org/wiki/fi:G#G-kirjaimen_merkityksiä "wikilink")
+[hu:G\#Jelentései](https://zh.wikipedia.org/wiki/hu:G#Jelentései "wikilink")
+[ja:G\#G の意味](https://zh.wikipedia.org/wiki/ja:G#G_の意味 "wikilink")
+[la:G\#Abbreviationes](https://zh.wikipedia.org/wiki/la:G#Abbreviationes "wikilink")
 [simple:G\#Meanings for
-G](../Page/simple:G#Meanings_for_G.md "wikilink")
-[sl:G\#Pomeni](../Page/sl:G#Pomeni.md "wikilink")
-[sv:G\#Betydelser](../Page/sv:G#Betydelser.md "wikilink")
+G](https://zh.wikipedia.org/wiki/simple:G#Meanings_for_G "wikilink")
+[sl:G\#Pomeni](https://zh.wikipedia.org/wiki/sl:G#Pomeni "wikilink")
+[sv:G\#Betydelser](https://zh.wikipedia.org/wiki/sv:G#Betydelser "wikilink")

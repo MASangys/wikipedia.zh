@@ -8,9 +8,9 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 
 ## 說明
 
-單曲名稱的「L」是指[羅馬數字的](../Page/羅馬數字.md "wikilink")50，這張單曲即是濱崎步的五十紀念單曲；而「L」在英文字母當中排序為第12個，剛好是濱崎步出道第12週年。
+單曲名稱的「L」是指[羅馬數字的](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")50，這張單曲即是濱崎步的五十紀念單曲；而「L」在英文字母當中排序為第12個，剛好是濱崎步出道第12週年。
 
-發行的時間距離前一作品《[crossroad](../Page/crossroad.md "wikilink")》僅只有短短的七天，但是這張單曲仍以七萬的銷量登上公信榜冠軍，打破了[松田聖子](../Page/松田聖子.md "wikilink")《風は秋色／Eighteen》（1980年發行）24張單曲的冠軍記錄，刷新了女性藝人和獨唱藝人部門時隔22年的記錄。
+發行的時間距離前一作品《[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")》僅只有短短的七天，但是這張單曲仍以七萬的銷量登上公信榜冠軍，打破了[松田聖子](../Page/松田聖子.md "wikilink")《風は秋色／Eighteen》（1980年發行）24張單曲的冠軍記錄，刷新了女性藝人和獨唱藝人部門時隔22年的記錄。
 
 本作收錄前作單曲《crossroad》之管絃版本，與前作的B面歌曲《SEVEN DAYS WAR》之鋼琴版本與管絃版本。
 
@@ -81,8 +81,10 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 1.  **Last angel (Original mix)**
 2.  **Virgin Road (Original mix)**
 3.  **Sweet Season (Original mix)**
-4.  **[crossroad](../Page/crossroad.md "wikilink") (Orchestra version)**
-5.  **[SEVEN DAYS WAR](../Page/crossroad.md "wikilink") (Orchestra
+4.  **[crossroad](https://zh.wikipedia.org/wiki/crossroad "wikilink")
+    (Orchestra version)**
+5.  **[SEVEN DAYS
+    WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (Orchestra
     version)**
 6.  **Last angel (Original mix -Instrumental-)**
 7.  **Virgin Road (Original mix -Instrumental-)**
@@ -94,8 +96,9 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 
 <!-- end list -->
 
-1.  **[SEVEN DAYS WAR](../Page/crossroad.md "wikilink") (TK Acoustic
-    Piano version)**
+1.  **[SEVEN DAYS
+    WAR](https://zh.wikipedia.org/wiki/crossroad "wikilink") (TK
+    Acoustic Piano version)**
 2.  **Virgin Road (Original mix)**
 3.  **Sweet Season (Original mix)**
 4.  **Last angel (Original mix)**
@@ -116,7 +119,7 @@ Easy](../Page/Free_&_Easy.md "wikilink")》開始，總計连续25張單曲都�
 
 <references/>
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
 [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")

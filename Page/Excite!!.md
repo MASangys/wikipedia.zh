@@ -17,9 +17,9 @@
       - ミュージカル・メドレー（07～13.）
 7.  旅人
 8.  So BAD\!
-    [内博貴](../Page/内博貴.md "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
+    [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[丸山隆平](../Page/丸山隆平.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")
 9.  レクイエム～宇宙の記憶～
-    [村上信五](../Page/村上信五.md "wikilink")・[横山裕](../Page/横山裕.md "wikilink")
+    [村上信五](../Page/村上信五.md "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
 10. この星が輝く理由 [澀谷昴](../Page/澀谷昴.md "wikilink")
 11. Do you agree?
 12. DREAMIN' BLOOD
@@ -32,10 +32,10 @@
 17. ジングルベル [丸山隆平](../Page/丸山隆平.md "wikilink")
 18. クリスマス・イブ [安田章大](../Page/安田章大.md "wikilink")
 19. サンタが町にやってくる
-    [錦戸亮](../Page/錦戸亮.md "wikilink")・[横山裕](../Page/横山裕.md "wikilink")
+    [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")・[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink")
 20. 赤鼻のトナカイ [澀谷昴](../Page/澀谷昴.md "wikilink")
 21. CAN YOU FEEL THIS CHRISTMAS?
-    [内博貴](../Page/内博貴.md "wikilink")・[村上信五](../Page/村上信五.md "wikilink")
+    [内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")・[村上信五](../Page/村上信五.md "wikilink")
 22. MC（2）
 23. All Of Me For You
 24. Eden
@@ -50,7 +50,7 @@
 
   - 山田「手紙」（漫才）
   - 三兄弟「みかん」
-  - すばるBAND「[ONE](../Page/F・T・O.md "wikilink")」
+  - すばるBAND「[ONE](https://zh.wikipedia.org/wiki/F・T・O "wikilink")」
 
 ## Multi
 

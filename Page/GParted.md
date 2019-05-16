@@ -1,18 +1,19 @@
 **GParted**是硬盘分区软件[GNU
-Parted的](../Page/GNU_Parted.md "wikilink")[GTK+](../Page/GTK+.md "wikilink")[图形界面](../Page/图形界面.md "wikilink")[前端](../Page/前端.md "wikilink")，是[GNOME](../Page/GNOME.md "wikilink")[桌面环境的默认分区软件](../Page/桌面环境.md "wikilink")。
+Parted的](../Page/GNU_Parted.md "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[图形界面](https://zh.wikipedia.org/wiki/图形界面 "wikilink")[前端](https://zh.wikipedia.org/wiki/前端 "wikilink")，是[GNOME](../Page/GNOME.md "wikilink")[桌面环境的默认分区软件](../Page/桌面环境.md "wikilink")。
 
-GParted可以用于创建、删除、移动分区，调整分区大小，检查、复制[分区等操作](../Page/分区.md "wikilink")。可以用于调整分区以安装新[操作系统](../Page/操作系统.md "wikilink")、备份特定分区到另一块硬盘等。
+GParted可以用于创建、删除、移动分区，调整分区大小，检查、复制[分区等操作](https://zh.wikipedia.org/wiki/分区 "wikilink")。可以用于调整分区以安装新[操作系统](../Page/操作系统.md "wikilink")、备份特定分区到另一块硬盘等。
 
 GParted使用[libparted来识别](../Page/GNU_Parted.md "wikilink")、调整分区表，并有各个文件系统工具来处理分区上的文件系统。这些文件系统工具并不是必须的，但要处理一种文件系统就必须先安装相应的工具。
 
-GParted使用[C++写成](../Page/C++.md "wikilink")，使用[gtkmm提供GTK](../Page/gtkmm.md "wikilink")+界面。
+GParted使用[C++写成](../Page/C++.md "wikilink")，使用[gtkmm提供GTK](https://zh.wikipedia.org/wiki/gtkmm "wikilink")+界面。
 
 GParted项目还提供了一个包含GParted和全部文件系统工具的[Live
 CD](../Page/Live_CD.md "wikilink")，也可以制作成[Live
-USB或使用其他介质](../Page/Live_USB.md "wikilink")。这个Live
+USB或使用其他介质](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。这个Live
 CD系统基于[Debian](../Page/Debian.md "wikilink")
-[GNU/Linux](../Page/GNU/Linux.md "wikilink")。其它Linux Live
-CD版本也大多包含GParted，如[Knoppix等](../Page/Knoppix.md "wikilink")。
+[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。其它Linux
+Live
+CD版本也大多包含GParted，如[Knoppix等](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。
 
 ## 功能
 
@@ -47,7 +48,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ext2.md" title="wikilink">ext2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ext2" title="wikilink">ext2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -59,7 +60,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ext3.md" title="wikilink">ext3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -71,7 +72,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ext4.md" title="wikilink">ext4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -83,7 +84,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/File_Allocation_Table.md" title="wikilink">FAT16</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File_Allocation_Table" title="wikilink">FAT16</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,7 +96,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/File_Allocation_Table.md" title="wikilink">FAT32</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File_Allocation_Table" title="wikilink">FAT32</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -107,7 +108,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Hierarchical_File_System.md" title="wikilink">HFS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hierarchical_File_System" title="wikilink">HFS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +120,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/HFS_Plus.md" title="wikilink">HFS+</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HFS_Plus" title="wikilink">HFS+</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -131,7 +132,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JFS.md" title="wikilink">JFS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JFS" title="wikilink">JFS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,7 +144,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/交换分区.md" title="wikilink">swap</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/交换分区" title="wikilink">swap</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -167,7 +168,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Reiser4.md" title="wikilink">Reiser4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Reiser4" title="wikilink">Reiser4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,7 +192,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Unix_File_System.md" title="wikilink">UFS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Unix_File_System" title="wikilink">UFS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -215,7 +216,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/邏輯捲軸管理.md" title="wikilink">LVM2 PV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邏輯捲軸管理" title="wikilink">LVM2 PV</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -227,7 +228,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/dm-crypt.md" title="wikilink">crypt</a> / <a href="../Page/LUKS.md" title="wikilink">LUKS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/dm-crypt" title="wikilink">crypt</a> / <a href="https://zh.wikipedia.org/wiki/LUKS" title="wikilink">LUKS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,7 +240,7 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/exFAT.md" title="wikilink">exFAT</a>[2][3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/exFAT" title="wikilink">exFAT</a>[2][3]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -279,8 +280,8 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 
 ## 参见
 
-  - [分区](../Page/分区.md "wikilink")
-  - [硬盘分区软件列表](../Page/硬盘分区软件列表.md "wikilink")
+  - [分区](https://zh.wikipedia.org/wiki/分区 "wikilink")
+  - [硬盘分区软件列表](https://zh.wikipedia.org/wiki/硬盘分区软件列表 "wikilink")
   - [GNU Parted](../Page/GNU_Parted.md "wikilink")
   - [KDE Partition Manager](../Page/KDE_Partition_Manager.md "wikilink")
 
@@ -288,7 +289,8 @@ GParted支持的功能如下表所示，支持的文件系统都需要安装相�
 
 ## 外部链接
 
-[de:GNU Parted\#GParted](../Page/de:GNU_Parted#GParted.md "wikilink")
+[de:GNU
+Parted\#GParted](https://zh.wikipedia.org/wiki/de:GNU_Parted#GParted "wikilink")
 
 [Category:GNOME应用程序](https://zh.wikipedia.org/wiki/Category:GNOME应用程序 "wikilink")
 [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")

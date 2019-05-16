@@ -1,36 +1,36 @@
-是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")2010年4月22日至6月17日每週[禮拜四](../Page/禮拜四.md "wikilink")21:00～21:54（[日本時間](../Page/日本時間.md "wikilink")）播出的[電視連續劇](../Page/日本電視劇.md "wikilink")。初回、最終回加長15分。
+是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")2010年4月22日至6月17日每週[禮拜四](https://zh.wikipedia.org/wiki/禮拜四 "wikilink")21:00～21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。初回、最終回加長15分。
 
 ## 登場人物
 
   - 宮澤朋美 - [黑木瞳](../Page/黑木瞳.md "wikilink")（15歳 -
     [篠原愛實](../Page/篠原愛實.md "wikilink")）
-  - 杉山浩介 - [高橋克典](../Page/高橋克典.md "wikilink")（15歳 -
-    [出町勇人](../Page/出町勇人.md "wikilink")）
+  - 杉山浩介 - [高橋克典](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")（15歳 -
+    [出町勇人](https://zh.wikipedia.org/wiki/出町勇人 "wikilink")）
   - 西川陽子 - [齊藤由貴](../Page/齊藤由貴.md "wikilink")（15歳 -
-    [三浦透子](../Page/三浦透子.md "wikilink")）
-  - 大久保真一 - [三上博史](../Page/三上博史.md "wikilink")（15歳 -
-    [栗田將輝](../Page/栗田將輝.md "wikilink")）
+    [三浦透子](https://zh.wikipedia.org/wiki/三浦透子 "wikilink")）
+  - 大久保真一 - [三上博史](https://zh.wikipedia.org/wiki/三上博史 "wikilink")（15歳 -
+    [栗田將輝](https://zh.wikipedia.org/wiki/栗田將輝 "wikilink")）
   - 宮澤誠一郎 - [吹越滿](../Page/吹越滿.md "wikilink")
-  - 龜村太一 - [六角精兒](../Page/六角精兒.md "wikilink")
-  - 福島和彦 - [尾美利徳](../Page/尾美利徳.md "wikilink")
-  - 板倉真理子 - [宮地雅子](../Page/宮地雅子.md "wikilink")
-  - 杉山佳奈子 - [須藤理彩](../Page/須藤理彩.md "wikilink")
-  - 江川麻美 - [芳本美代子](../Page/芳本美代子.md "wikilink")
-  - 西川正隆 - [神保悟志](../Page/神保悟志.md "wikilink")
-  - 菊川早苗 - [野波麻帆](../Page/野波麻帆.md "wikilink")
-  - 竹原俊太 - [八神蓮](../Page/八神蓮.md "wikilink")
-  - 高村亞紀 - [眞野裕子](../Page/眞野裕子.md "wikilink")
-  - 宮澤彩 - [大平うみ](../Page/大平うみ.md "wikilink")
-  - 杉山大地 - [竹內壽](../Page/竹內壽.md "wikilink")
-  - 宮澤達也 - [嘉數一星](../Page/嘉數一星.md "wikilink")
-  - 西川真奈 - [熊田聖亞](../Page/熊田聖亞.md "wikilink")
-  - 大野真弓 - [大島蓉子](../Page/大島蓉子.md "wikilink")
-  - 島田珠惠 - [佐藤詩子](../Page/佐藤詩子.md "wikilink")
+  - 龜村太一 - [六角精兒](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")
+  - 福島和彦 - [尾美利徳](https://zh.wikipedia.org/wiki/尾美利徳 "wikilink")
+  - 板倉真理子 - [宮地雅子](https://zh.wikipedia.org/wiki/宮地雅子 "wikilink")
+  - 杉山佳奈子 - [須藤理彩](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")
+  - 江川麻美 - [芳本美代子](https://zh.wikipedia.org/wiki/芳本美代子 "wikilink")
+  - 西川正隆 - [神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")
+  - 菊川早苗 - [野波麻帆](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")
+  - 竹原俊太 - [八神蓮](https://zh.wikipedia.org/wiki/八神蓮 "wikilink")
+  - 高村亞紀 - [眞野裕子](https://zh.wikipedia.org/wiki/眞野裕子 "wikilink")
+  - 宮澤彩 - [大平うみ](https://zh.wikipedia.org/wiki/大平うみ "wikilink")
+  - 杉山大地 - [竹內壽](https://zh.wikipedia.org/wiki/竹內壽 "wikilink")
+  - 宮澤達也 - [嘉數一星](https://zh.wikipedia.org/wiki/嘉數一星 "wikilink")
+  - 西川真奈 - [熊田聖亞](https://zh.wikipedia.org/wiki/熊田聖亞 "wikilink")
+  - 大野真弓 - [大島蓉子](https://zh.wikipedia.org/wiki/大島蓉子 "wikilink")
+  - 島田珠惠 - [佐藤詩子](https://zh.wikipedia.org/wiki/佐藤詩子 "wikilink")
   - 浩太 - [鈴木勝吾](../Page/鈴木勝吾.md "wikilink")
-  - 寅田富士子 - [高橋ひとみ](../Page/高橋ひとみ.md "wikilink")
-  - 警視廳部長 - [伊藤高](../Page/伊藤高.md "wikilink")
-  - 飯塚課長 - [長谷川公彥](../Page/長谷川公彥.md "wikilink")
-  - 大久保的上司 - [春海四方](../Page/春海四方.md "wikilink")
+  - 寅田富士子 - [高橋ひとみ](https://zh.wikipedia.org/wiki/高橋ひとみ "wikilink")
+  - 警視廳部長 - [伊藤高](https://zh.wikipedia.org/wiki/伊藤高 "wikilink")
+  - 飯塚課長 - [長谷川公彥](https://zh.wikipedia.org/wiki/長谷川公彥 "wikilink")
+  - 大久保的上司 - [春海四方](https://zh.wikipedia.org/wiki/春海四方 "wikilink")
 
 ## 製作人員
 
@@ -128,13 +128,13 @@
 
 ## 主題歌
 
-  - 『[ex-lover](../Page/w:ja:ex-lover.md "wikilink")』 -
-    [阪井步美](../Page/w:ja:阪井あゆみ.md "wikilink")
+  - 『[ex-lover](https://zh.wikipedia.org/wiki/w:ja:ex-lover "wikilink")』
+    - [阪井步美](https://zh.wikipedia.org/wiki/w:ja:阪井あゆみ "wikilink")
 
 ## 關連項目
 
   - [朝日電視台週四晚間九點連續劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")
-  - [Love Again](../Page/Love_Again.md "wikilink")
+  - [Love Again](https://zh.wikipedia.org/wiki/Love_Again "wikilink")
 
 ## 外部連結
 

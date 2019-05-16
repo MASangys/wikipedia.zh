@@ -4,11 +4,11 @@
 
 [TBS電視台在每週的星期一到星期五下午](../Page/TBS電視台.md "wikilink")5點30分到40分的10分鐘之間放送，共有65話。採用1話完結型式\[1\]\[2\]。
 
-并在[秋田書店的](../Page/秋田書店.md "wikilink")《[冒險王](../Page/冒險王.md "wikilink")》和[德間書店的](../Page/德間書店.md "wikilink")《》兩本雜誌上各自連載漫畫版。
+并在[秋田書店的](../Page/秋田書店.md "wikilink")《[冒險王](https://zh.wikipedia.org/wiki/冒險王 "wikilink")》和[德間書店的](../Page/德間書店.md "wikilink")《》兩本雜誌上各自連載漫畫版。
 
-在本放送結束之後，有很長一段時間都沒有再被提起，不過在[2000年代後半時](../Page/2000年代.md "wikilink")，由於其奇妙的作畫、演出和故事劇情，被認為是有[吐槽價值的珍貴作品而再次受到注目](../Page/吐槽.md "wikilink")，在[2ch和](../Page/2ch.md "wikilink")[NICONICO等等](../Page/NICONICO.md "wikilink")[網路社區掀起了热潮](../Page/網路社區.md "wikilink")。2008年9月5日放送的[NHK衛星第2頻道](../Page/NHK衛星第2頻道.md "wikilink")「The☆NetStar\!」節目中播出了網路上的「ChargeMan研！」熱潮。根據製作人[茂垣弘道](../Page/茂垣弘道.md "wikilink")（現STUDIO
+在本放送結束之後，有很長一段時間都沒有再被提起，不過在[2000年代後半時](../Page/2000年代.md "wikilink")，由於其奇妙的作畫、演出和故事劇情，被認為是有[吐槽價值的珍貴作品而再次受到注目](../Page/吐槽.md "wikilink")，在[2ch和](https://zh.wikipedia.org/wiki/2ch "wikilink")[NICONICO等等](https://zh.wikipedia.org/wiki/NICONICO "wikilink")[網路社區掀起了热潮](https://zh.wikipedia.org/wiki/網路社區 "wikilink")。2008年9月5日放送的[NHK衛星第2頻道](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")「The☆NetStar\!」節目中播出了網路上的「ChargeMan研！」熱潮。根據製作人[茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")（現STUDIO
 COMET
-Co.,Ltd.的[執行董事](../Page/執行董事.md "wikilink")）表示，由於本作1話的預算只有50萬日元，在隨便草率的製作下，才產生了這樣的作品。且據說由於本作開始製作時正值[夏天](../Page/夏天.md "wikilink")，工作人員隨意地到海邊等地去玩樂，製作情況相當嚴刻。\[3\]。
+Co.,Ltd.的[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")）表示，由於本作1話的預算只有50萬日元，在隨便草率的製作下，才產生了這樣的作品。且據說由於本作開始製作時正值[夏天](https://zh.wikipedia.org/wiki/夏天 "wikilink")，工作人員隨意地到海邊等地去玩樂，製作情況相當嚴刻。\[3\]。
 
 在2010年8月21日，從最初的放送至今過了近40年，終於開放了官方網站。同年10月27日發行了官方原聲帶紀念專輯。
 
@@ -40,12 +40,12 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
 
   -
     地球的夥伴・會變裝成ChargeMan研。
-    只要是為了守護地球，不管有多少犧牲也在所不惜。（有許多不救[人質而直接將杰拉魯星人的飛碟或基地破壞的例子](../Page/人質.md "wikilink")）
+    只要是為了守護地球，不管有多少犧牲也在所不惜。（有許多不救[人質而直接將杰拉魯星人的飛碟或基地破壞的例子](https://zh.wikipedia.org/wiki/人質 "wikilink")）
     研的ChargeMan身份應該是保密的，不過當杰拉魯星人出現之後常做出在至親以外的人面前變身的魯莽行為。
     一旦知道朋友是杰拉魯星人後就立刻射殺。就算杰拉魯星人沒有抵抗也照樣毫不猶豫將其擊破，就某種意義上來看算是無情的正義英雄。
     和研有關的登場人物除了常規角色之外幾乎都確定死亡。雖然有很多次都是只要研快速出手的話就能得救，不過幾乎都是見死不救。
     每一回都會和敵人展開激烈的戰鬥，但很少遭到苦戰。
-    很容易被[美人計所誘惑](../Page/美人局.md "wikilink")\[8\]\[9\]、討厭喝番茄汁\[10\]之外、有時也會和巴里康玩鬧，展現純真的一面。
+    很容易被[美人計所誘惑](https://zh.wikipedia.org/wiki/美人局 "wikilink")\[8\]\[9\]、討厭喝番茄汁\[10\]之外、有時也會和巴里康玩鬧，展現純真的一面。
   -
     研的妹妹，在泉家是唯一一個金髮的。
     被捉為人質、被操縱利用來暗殺研等等，由於是正義夥伴妹妹的立場多次陷入災難。
@@ -78,7 +78,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     以侵略地球為目的，來自即將滅亡的杰拉魯星。
     顏面中央只有一個眼睛，會發射怪光線，以像鞭子般的手足攻擊敵人‧裝備了其他各種科學兵器。
     另外，身體具有模仿‧變身成地球人姿態的能力。
-    杰拉魯星人也有不會映在鏡子或相機上的特徵。因此在[光學機器直接介入的狀況下](../Page/光學.md "wikilink")，由於其樣子無法以視覺補捉到的特徵，可利用這點來看穿其變身。
+    杰拉魯星人也有不會映在鏡子或相機上的特徵。因此在[光學機器直接介入的狀況下](https://zh.wikipedia.org/wiki/光學 "wikilink")，由於其樣子無法以視覺補捉到的特徵，可利用這點來看穿其變身。
     雖然以擁有比地球還先進500年的文明而自豪，為侵略那個地球時的作戰卻每次都**繞遠路**，總是一定被身為地球人的泉**單方面得幹掉**。
     基本上受到ChargeMan研的一擊即死亡。
     使用的宇宙船受到SkyRod號（スカイロッド号）的攻擊就被一掃而空，被普通的軍隊打到全滅，下場相當淒慘。
@@ -137,12 +137,12 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     憎恨其信奉時代錯誤的生活方式的父親的少年。
   -
     在第33話登場。
-    以腰上纏著手帕、腳上穿著[下馱的站姿生活在平房的中年男性](../Page/下馱.md "wikilink")。
+    以腰上纏著手帕、腳上穿著[下馱的站姿生活在平房的中年男性](https://zh.wikipedia.org/wiki/下馱 "wikilink")。
     討厭現代的生活方式，頑固地經營著舊式風格的生活。
     想要貫徹舊式風格的生活方式，不過遭到行人狠狠地恥笑而意志消沉，在樹上綁上繩子想要上吊自殺但失敗了。
   -
     在第63話「打倒殺人拳擊手！」登場。
-    在[亞利桑那長大的世界重量級拳擊冠軍](../Page/亞利桑那.md "wikilink")。
+    在[亞利桑那長大的世界重量級拳擊冠軍](https://zh.wikipedia.org/wiki/亞利桑那 "wikilink")。
     過去的戰積是50戰50KO，而且在過去的比賽中導致13人的選手死亡，被封為殺人拳擊手。
     但是在和熊寅次郎的比賽中，被發覺在攝影師的成像平面上顯現不出來，因此被查明是杰拉魯星人。
     被研打倒。
@@ -162,7 +162,7 @@ LAND（テレビランド）』1974年5月號中『ChargeMan研！』被當作�
     正在[東京灣上建設的海上工業都市的設計者](../Page/東京灣.md "wikilink")，[西德出身的科學家](../Page/西德.md "wikilink")。
     企劃了邀請代表日本的數十名學者的招待會。
     在招待會開始之前順便經過的電影院遭到綁票，腦中被裝置了炸彈，當時的記億也被消去。
-    全部都是杰拉魯星人想要把招待會會場的科學家們一口氣全炸死的計劃，不過被趕來的研以自身能力發現了炸彈（[代納邁](../Page/代納邁.md "wikilink")），會場因此逃過一劫。
+    全部都是杰拉魯星人想要把招待會會場的科學家們一口氣全炸死的計劃，不過被趕來的研以自身能力發現了炸彈（[代納邁](https://zh.wikipedia.org/wiki/代納邁 "wikilink")），會場因此逃過一劫。
     研解釋說伏爾加博士早已被殺害，現在存在的博士是「人類機器人」。
     從SkyRod號把伏爾加博士向杰拉魯星人的交通工具投下，伏爾加博士和杰拉魯星人一同壯烈地被炸死。
   -
@@ -216,18 +216,20 @@ ChargeMan研專用的乘坐飛行器。不論是在陸海空、甚至在宇宙�
 
 ## 工作人員
 
-  - 原作・角色設計 - [田中英二](../Page/田中英二.md "wikilink")
+  - 原作・角色設計 - [田中英二](https://zh.wikipedia.org/wiki/田中英二 "wikilink")
   - 企劃 - 西野清市
-  - 製作人 - [茂垣弘道](../Page/茂垣弘道.md "wikilink")
+  - 製作人 - [茂垣弘道](https://zh.wikipedia.org/wiki/茂垣弘道 "wikilink")
   - 演出 - 三浦昇
-  - 構成・脚本 - 和久田正明、[安藤豊弘](../Page/安藤豊弘.md "wikilink")、玉戸義雄
+  - 構成・脚本 -
+    和久田正明、[安藤豊弘](https://zh.wikipedia.org/wiki/安藤豊弘 "wikilink")、玉戸義雄
   - 作畫監督 - 田中英二、水村十司
   - 美術監督 - 加藤清
-  - 音樂 - [宮内國郎](../Page/宮内國郎.md "wikilink")
-  - 配音演出 - [劇團近代座](../Page/劇團近代座.md "wikilink")
+  - 音樂 - [宮内國郎](https://zh.wikipedia.org/wiki/宮内國郎 "wikilink")
+  - 配音演出 - [劇團近代座](https://zh.wikipedia.org/wiki/劇團近代座 "wikilink")
   - 動畫製作協助 - [TAMA PRODUCTION
-    CO.](../Page/TAMA_PRODUCTION_CO..md "wikilink")
-  - 製作 - [Knack](../Page/Knack\(動畫製作公司\).md "wikilink")
+    CO.](https://zh.wikipedia.org/wiki/TAMA_PRODUCTION_CO. "wikilink")
+  - 製作 -
+    [Knack](https://zh.wikipedia.org/wiki/Knack\(動畫製作公司\) "wikilink")
 
 ## 主題曲
 
@@ -235,11 +237,11 @@ ChargeMan研專用的乘坐飛行器。不論是在陸海空、甚至在宇宙�
     作詞 - Knack企劃部 / 作曲・編曲 - 宮内國郎 / 歌 - 雲雀兒童合唱團（ひばり児童合唱団）
   - 插入曲「研與可隆之歌」（研とキャロンの歌）
     作詞 - Knack企劃部 / 作曲・編曲 - 宮内國郎 / 歌 -
-    [皆川理](../Page/皆川理.md "wikilink")（皆川おさむ）、雲雀兒童合唱團
+    [皆川理](https://zh.wikipedia.org/wiki/皆川理 "wikilink")（皆川おさむ）、雲雀兒童合唱團
 
 ## 音MAD影片
 
-許多以此動畫為素材的[音MAD影片被發佈在](../Page/音MAD.md "wikilink")[YouTube或](../Page/YouTube.md "wikilink")[NICONICO動畫上](../Page/NICONICO動畫.md "wikilink")。此外，在2010年6月左右發生了ChargeMan研！的MAD影片被大量刪除的「Char研MAD大量削除事件」。不過又有大量的Char研MAD在當天之內復活過來。\[22\]\[23\]\[24\]
+許多以此動畫為素材的[音MAD影片被發佈在](https://zh.wikipedia.org/wiki/音MAD "wikilink")[YouTube或](../Page/YouTube.md "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。此外，在2010年6月左右發生了ChargeMan研！的MAD影片被大量刪除的「Char研MAD大量削除事件」。不過又有大量的Char研MAD在當天之內復活過來。\[22\]\[23\]\[24\]
 
 ## 各話標題
 
@@ -634,7 +636,7 @@ SF・ロボット・アクションアニメ編」
 14. 動畫第4話「謎之美少年」
 
 15. [「チャージマン研&スカイロッド 武装解説」『チャージマン研\! Tribute to Soundtracks
-    vol.1』pp.28-29](../Page/#西野ほか2010.md "wikilink")
+    vol.1』pp.28-29](https://zh.wikipedia.org/wiki/#西野ほか2010 "wikilink")
 
 16.
 17.

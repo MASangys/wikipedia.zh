@@ -1,4 +1,4 @@
-《**BLOWIN**'》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")10張[單曲](../Page/單曲.md "wikilink")，1992年5月27日發行。為B'z銷量第三高的單曲和代表作之一。
+《**BLOWIN**'》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，1992年5月27日發行。為B'z銷量第三高的單曲和代表作之一。
 
 ## 簡介
 

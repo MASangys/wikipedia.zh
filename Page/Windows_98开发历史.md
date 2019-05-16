@@ -75,8 +75,8 @@ Windows 98的第一个零售版本发售后，第二版开始开发。
 ## 参考文献
 
 [en:Windows
-98\#Development](../Page/en:Windows_98#Development.md "wikilink") [ko:윈도
-98\#개발](../Page/ko:윈도_98#개발.md "wikilink")
+98\#Development](https://zh.wikipedia.org/wiki/en:Windows_98#Development "wikilink")
+[ko:윈도 98\#개발](https://zh.wikipedia.org/wiki/ko:윈도_98#개발 "wikilink")
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 

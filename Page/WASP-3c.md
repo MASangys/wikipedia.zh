@@ -1,9 +1,9 @@
 **WASP-3**
-是位於[天琴座的一顆](../Page/天琴座.md "wikilink")[黃-白矮星](../Page/黃-白矮星.md "wikilink")，距離大約727[光年](../Page/光年.md "wikilink")，[光度](../Page/視星等.md "wikilink")10等的[恆星](../Page/恆星.md "wikilink")\[1\]。
+是位於[天琴座的一顆](../Page/天琴座.md "wikilink")[黃-白矮星](https://zh.wikipedia.org/wiki/黃-白矮星 "wikilink")，距離大約727[光年](../Page/光年.md "wikilink")，[光度](https://zh.wikipedia.org/wiki/視星等 "wikilink")10等的[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")\[1\]。
 
 ## 行星系
 
-在2007年[SuperWASP的專案發現了](../Page/SuperWASP.md "wikilink")[系外行星](../Page/系外行星.md "wikilink")[WASP-3b](../Page/WASP-3b.md "wikilink")
+在2007年[SuperWASP的專案發現了](https://zh.wikipedia.org/wiki/SuperWASP "wikilink")[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[WASP-3b](../Page/WASP-3b.md "wikilink")
 \[2\]。
 
 在2010年，依據[WASP-3b凌星時間的變化](../Page/WASP-3b.md "wikilink")，推斷還有另一顆行星的存在
@@ -19,7 +19,7 @@ eccentricity = 0 }}
   -
 ## 相關條目
 
-  - [SuperWASP](../Page/SuperWASP.md "wikilink")
+  - [SuperWASP](https://zh.wikipedia.org/wiki/SuperWASP "wikilink")
   - [WASP-4](../Page/WASP-4.md "wikilink")
 
 [Category:天琴座](https://zh.wikipedia.org/wiki/Category:天琴座 "wikilink")

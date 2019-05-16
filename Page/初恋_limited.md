@@ -1,5 +1,5 @@
 《**初恋
-limited**》（はつこいリミテッド）是[marble的第](../Page/marble.md "wikilink")5張單曲。
+limited**》（はつこいリミテッド）是[marble的第](https://zh.wikipedia.org/wiki/marble "wikilink")5張單曲。
 
 ## 概要
 
@@ -21,7 +21,7 @@ limited**》（はつこいリミテッド）是[marble的第](../Page/marble.md
 ## 相關項目
 
   - [Future
-    Stream](../Page/Future_Stream.md "wikilink")（[sphere](../Page/sphere.md "wikilink")）
+    Stream](../Page/Future_Stream.md "wikilink")（[sphere](https://zh.wikipedia.org/wiki/sphere "wikilink")）
 
 a
 

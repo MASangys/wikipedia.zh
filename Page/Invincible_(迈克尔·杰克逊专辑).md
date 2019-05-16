@@ -1,8 +1,8 @@
-《**Invincible**》（[中国大陆](../Page/中国大陆.md "wikilink")[译名](../Page/翻译.md "wikilink")：**无敌**或**天下无敌**，[台湾译名](../Page/台湾.md "wikilink")：**万夫莫敌**）是美國歌手[迈克尔·杰克逊發行第七张英語專輯](../Page/迈克尔·杰克逊.md "wikilink")，也是最后一张个人专辑。
+《**Invincible**》（[中国大陆](../Page/中国大陆.md "wikilink")[译名](../Page/翻译.md "wikilink")：**无敌**或**天下无敌**，[台湾译名](https://zh.wikipedia.org/wiki/台湾 "wikilink")：**万夫莫敌**）是美國歌手[迈克尔·杰克逊發行第七张英語專輯](../Page/迈克尔·杰克逊.md "wikilink")，也是最后一张个人专辑。
 
 ## 專輯介紹
 
-该专辑封面是杰克逊的脸部，有5种不同的颜色：[红色](../Page/红色.md "wikilink")、[绿色](../Page/绿色.md "wikilink")、[橙色](../Page/橙色.md "wikilink")、[蓝色和](../Page/蓝色.md "wikilink")[银色](../Page/银色.md "wikilink")（带有红色、绿色、橙色和蓝色的版本现在已停止发行）。迄今为止，Invincible的专辑全球销量已超过**1500万张**。
+该专辑封面是杰克逊的脸部，有5种不同的颜色：[红色](../Page/红色.md "wikilink")、[绿色](https://zh.wikipedia.org/wiki/绿色 "wikilink")、[橙色](../Page/橙色.md "wikilink")、[蓝色和](https://zh.wikipedia.org/wiki/蓝色 "wikilink")[银色](https://zh.wikipedia.org/wiki/银色 "wikilink")（带有红色、绿色、橙色和蓝色的版本现在已停止发行）。迄今为止，Invincible的专辑全球销量已超过**1500万张**。
 
 杰克逊不幸逝世后，该专辑受到好评，歌曲《Unbreakable》、《Butterflies》、《Threatened》、《Break of
 Dawn》、《Speechless》和《Whatever Happens》是评论家和观众最喜欢的歌曲。

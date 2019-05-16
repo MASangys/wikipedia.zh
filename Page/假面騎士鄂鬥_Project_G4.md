@@ -151,29 +151,30 @@ G4》**是平成假面骑士系列的第一部剧场版。此剧场版是为了�
   - 風谷真魚 - [秋山莉奈](../Page/秋山莉奈.md "wikilink")
   - 水城史朗 / 幪面超人G4（声） -
   - 深海理沙 - [小澤真珠](../Page/小澤真珠.md "wikilink")
-  - 加原紗綾香 - [木村茜](../Page/木村茜_\(1988年生\).md "wikilink")
-  - 本木雷 - [大高力也](../Page/大高力也.md "wikilink")
-  - 小沢澄子 - [藤田瞳子](../Page/藤田瞳子.md "wikilink")
-  - 北條透 - [山崎潤](../Page/山崎潤.md "wikilink")
-  - 沢木哲也 - [小川敦史](../Page/小川敦史.md "wikilink")
-  - 謎之少年 - [羽緒レイ](../Page/羽尾明.md "wikilink")
-  - 河野浩司 - [田口主将](../Page/田口主将.md "wikilink")
-  - 尾室隆弘 - [柴田明良](../Page/柴田明良.md "wikilink")
-  - 美杉太一 - [田辺季正](../Page/田辺季正.md "wikilink")
-  - 紗綾香之父 - [うじきつよし](../Page/うじきつよし.md "wikilink")
-  - 漢堡店食客 - [中村俊介](../Page/中村俊介.md "wikilink")
-  - 紗綾香之母 - [渡辺典子](../Page/渡辺典子.md "wikilink")
-  - [阿南健治](../Page/阿南健治.md "wikilink")
-  - [中上ちか](../Page/中上ちか.md "wikilink")
-  - 警視廳幹部 - [加地健太郎](../Page/加地健太郎.md "wikilink")
+  - 加原紗綾香 -
+    [木村茜](https://zh.wikipedia.org/wiki/木村茜_\(1988年生\) "wikilink")
+  - 本木雷 - [大高力也](https://zh.wikipedia.org/wiki/大高力也 "wikilink")
+  - 小沢澄子 - [藤田瞳子](https://zh.wikipedia.org/wiki/藤田瞳子 "wikilink")
+  - 北條透 - [山崎潤](https://zh.wikipedia.org/wiki/山崎潤 "wikilink")
+  - 沢木哲也 - [小川敦史](https://zh.wikipedia.org/wiki/小川敦史 "wikilink")
+  - 謎之少年 - [羽緒レイ](https://zh.wikipedia.org/wiki/羽尾明 "wikilink")
+  - 河野浩司 - [田口主将](https://zh.wikipedia.org/wiki/田口主将 "wikilink")
+  - 尾室隆弘 - [柴田明良](https://zh.wikipedia.org/wiki/柴田明良 "wikilink")
+  - 美杉太一 - [田辺季正](https://zh.wikipedia.org/wiki/田辺季正 "wikilink")
+  - 紗綾香之父 - [うじきつよし](https://zh.wikipedia.org/wiki/うじきつよし "wikilink")
+  - 漢堡店食客 - [中村俊介](https://zh.wikipedia.org/wiki/中村俊介 "wikilink")
+  - 紗綾香之母 - [渡辺典子](https://zh.wikipedia.org/wiki/渡辺典子 "wikilink")
+  - [阿南健治](https://zh.wikipedia.org/wiki/阿南健治 "wikilink")
+  - [中上ちか](https://zh.wikipedia.org/wiki/中上ちか "wikilink")
+  - 警視廳幹部 - [加地健太郎](https://zh.wikipedia.org/wiki/加地健太郎 "wikilink")
   - 深海部下 -
-    [松林慎司](../Page/松林慎司.md "wikilink")、[金子裕](../Page/金子裕.md "wikilink")
+    [松林慎司](https://zh.wikipedia.org/wiki/松林慎司 "wikilink")、[金子裕](https://zh.wikipedia.org/wiki/金子裕 "wikilink")
   - 警視總監 - （特別演出）
-  - 美杉義彦 - [升毅](../Page/升毅.md "wikilink")
+  - 美杉義彦 - [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")
 
 ## 皮套演員
 
-  - [高岩成二](../Page/高岩成二.md "wikilink") 飾 幪面超人亞極陀
+  - [高岩成二](https://zh.wikipedia.org/wiki/高岩成二 "wikilink") 飾 幪面超人亞極陀
   - [伊藤慎](../Page/伊藤慎.md "wikilink") 飾 幪面超人G3-X
   - [押川善文](../Page/押川善文.md "wikilink") 飾 幪面超人Gills
   - 岡元次郎 飾 幪面超人G4
@@ -181,21 +182,23 @@ G4》**是平成假面骑士系列的第一部剧场版。此剧场版是为了�
 
 ## STAFF
 
-  - 原作 - [石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
+  - 原作 - [石ノ森章太郎](https://zh.wikipedia.org/wiki/石ノ森章太郎 "wikilink")
   - 監督 - 小野寺章（石森プロ）
   - 製作 -
-    松田佐栄子（テレビ朝日）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")・[武部直美](../Page/武部直美.md "wikilink")・[塚田英明](../Page/塚田英明.md "wikilink")（東映）
-  - 劇本 - [井上敏樹](../Page/井上敏樹.md "wikilink")
-  - [音樂](../Page/音樂.md "wikilink") - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
-  - 導演 - [田﨑竜太](../Page/田崎竜太.md "wikilink")
-  - 導演助手 - [鈴村展弘](../Page/鈴村展弘.md "wikilink")、木村繁仁、近藤信子
+    松田佐栄子（テレビ朝日）、[白倉伸一郎](https://zh.wikipedia.org/wiki/白倉伸一郎 "wikilink")・[武部直美](https://zh.wikipedia.org/wiki/武部直美 "wikilink")・[塚田英明](https://zh.wikipedia.org/wiki/塚田英明 "wikilink")（東映）
+  - 劇本 - [井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink") -
+    [佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - 導演 - [田﨑竜太](https://zh.wikipedia.org/wiki/田崎竜太 "wikilink")
+  - 導演助手 -
+    [鈴村展弘](https://zh.wikipedia.org/wiki/鈴村展弘 "wikilink")、木村繁仁、近藤信子
   - 動作指導 -
-    [山田一善](../Page/山田一善.md "wikilink")、[宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")（[ジャパンアクションクラブ](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
+    [山田一善](https://zh.wikipedia.org/wiki/山田一善 "wikilink")、[宮崎剛](https://zh.wikipedia.org/wiki/宮崎剛_\(俳優\) "wikilink")（[ジャパンアクションクラブ](https://zh.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）
   - 特攝指導 -
-    [佛田洋](../Page/佛田洋.md "wikilink")・[尾上克郎](../Page/尾上克郎.md "wikilink")（[特撮研究所](../Page/特撮研究所.md "wikilink")）
+    [佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")・[尾上克郎](https://zh.wikipedia.org/wiki/尾上克郎 "wikilink")（[特撮研究所](https://zh.wikipedia.org/wiki/特撮研究所 "wikilink")）
   - 角色設定 -
-    [早瀬マサト](../Page/早瀬マサト.md "wikilink")（石森プロ）、[野中剛](../Page/野中剛.md "wikilink")・山田耕次・竹内一恵・小林大祐（PLEX）
-  - UNKNOWN造型設定 - [出渕裕](../Page/出渕裕.md "wikilink")
+    [早瀬マサト](https://zh.wikipedia.org/wiki/早瀬マサト "wikilink")（石森プロ）、[野中剛](https://zh.wikipedia.org/wiki/野中剛 "wikilink")・山田耕次・竹内一恵・小林大祐（PLEX）
+  - UNKNOWN造型設定 - [出渕裕](https://zh.wikipedia.org/wiki/出渕裕 "wikilink")
 
 ## 主題曲
 
@@ -213,7 +216,7 @@ G4》**是平成假面骑士系列的第一部剧场版。此剧场版是为了�
 <!-- end list -->
 
   -
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲：[三宅一徳](../Page/三宅一徳.md "wikilink")　編曲：[大木理紗](../Page/大木理紗.md "wikilink")　歌：[石原慎一](../Page/石原慎一.md "wikilink")
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")　作曲：[三宅一徳](https://zh.wikipedia.org/wiki/三宅一徳 "wikilink")　編曲：[大木理紗](https://zh.wikipedia.org/wiki/大木理紗 "wikilink")　歌：[石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink")
 
 [Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink")
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")

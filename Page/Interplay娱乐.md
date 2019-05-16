@@ -1,4 +1,4 @@
-**Interplay娱乐公司**（）是[美国的一家](../Page/美国.md "wikilink")[电子游戏发行与开发公司](../Page/电子游戏.md "wikilink")。创始于1983年。他们发行了很多著名的[角色扮演类游戏](../Page/角色扮演类游戏.md "wikilink")，如：[冰风谷系列](../Page/冰风谷系列.md "wikilink")、[博德之门系列](../Page/博德之门系列.md "wikilink")、[辐射系列](../Page/辐射系列.md "wikilink")、[异域镇魂曲等](../Page/异域镇魂曲.md "wikilink")。
+**Interplay娱乐公司**（）是[美国的一家](../Page/美国.md "wikilink")[电子游戏发行与开发公司](../Page/电子游戏.md "wikilink")。创始于1983年。他们发行了很多著名的[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")，如：[冰风谷系列](https://zh.wikipedia.org/wiki/冰风谷系列 "wikilink")、[博德之门系列](../Page/博德之门系列.md "wikilink")、[辐射系列](https://zh.wikipedia.org/wiki/辐射系列 "wikilink")、[异域镇魂曲等](../Page/异域镇魂曲.md "wikilink")。
 
 ## 参见
 

@@ -1,15 +1,15 @@
-**eComStation**（简写为**eCS**）是一款基于[OS/2](../Page/OS/2.md "wikilink")，由[Serenity
-Systems发布的个人计算机](../Page/Serenity_Systems.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。它包含了一系列在OS/2的[IBM版本中没有的组件及应用](../Page/IBM.md "wikilink")。
+**eComStation**（简写为**eCS**）是一款基于[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，由[Serenity
+Systems发布的个人计算机](https://zh.wikipedia.org/wiki/Serenity_Systems "wikilink")[操作系统](../Page/操作系统.md "wikilink")。它包含了一系列在OS/2的[IBM版本中没有的组件及应用](../Page/IBM.md "wikilink")。
 
 ## eCS与OS/2的不同之处
 
 eComStation的最初版本v1发布于2001年，基于IBM公司在1996年发布的OS/2 v4 client，并包括了以下组件：
 
-  - IBM公司随1999年发布的WSeB服务器版提供的软件及组件更新，这些组件在1999年随WSeB服务器版发布，但并没有为客户端版进行更新。其中包括一个更新的[内核](../Page/内核.md "wikilink")，一个32位的[TCP/IP协议栈和相关的网络工具](../Page/TCP/IP.md "wikilink")，[防火墙](../Page/防火墙.md "wikilink")，[JFS](../Page/JFS.md "wikilink")，[逻辑卷管理器等](../Page/逻辑卷管理器.md "wikilink")。
+  - IBM公司随1999年发布的WSeB服务器版提供的软件及组件更新，这些组件在1999年随WSeB服务器版发布，但并没有为客户端版进行更新。其中包括一个更新的[内核](../Page/内核.md "wikilink")，一个32位的[TCP/IP协议栈和相关的网络工具](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，[防火墙](../Page/防火墙.md "wikilink")，[JFS](https://zh.wikipedia.org/wiki/JFS "wikilink")，[逻辑卷管理器等](https://zh.wikipedia.org/wiki/逻辑卷管理器 "wikilink")。
 
 <!-- end list -->
 
-  - IBM並未將此做為安裝時的選項。這包含了更新的驅動程式、系統元件、較新版的[Java](../Page/Java.md "wikilink")、[SciTech](../Page/SciTech.md "wikilink")
+  - IBM並未將此做為安裝時的選項。這包含了更新的驅動程式、系統元件、較新版的[Java](../Page/Java.md "wikilink")、[SciTech](https://zh.wikipedia.org/wiki/SciTech "wikilink")
     SNAP Professional和系統工具。
   - IBM公司提供原本只給企業客戶的更新檔，並有維護合約，例如關於新的[USB](../Page/USB.md "wikilink")
     stack。
@@ -18,18 +18,18 @@ eComStation的最初版本v1发布于2001年，基于IBM公司在1996年发布�
   - 由Serenity自行开发的增强组件，包括全新的安装程序，用户界面，WPS的类和快速部署系统，建立在Serenity管理客户端上的实施系统改善。
   - Unix的一些开源工具。
   - 許多系統配置改變了。這包含了為了對原有代碼和[Daniela
-    Engert開發的許多儲存系統驅動程式更好的支援而可在傳統的](../Page/Daniela_Engert.md "wikilink")[REXX至](../Page/REXX.md "wikilink")[Object
-    REXX間做的切換選擇](../Page/Object_REXX.md "wikilink")。
+    Engert開發的許多儲存系統驅動程式更好的支援而可在傳統的](https://zh.wikipedia.org/wiki/Daniela_Engert "wikilink")[REXX至](../Page/REXX.md "wikilink")[Object
+    REXX間做的切換選擇](https://zh.wikipedia.org/wiki/Object_REXX "wikilink")。
 
 **eComStation 2.0增加的其他内容：**
 
-  - 可引导[JFS的分区](../Page/JFS_\(file_system\).md "wikilink")
-  - [ACPI支持](../Page/Advanced_Configuration_and_Power_Interface.md "wikilink")
+  - 可引导[JFS的分区](https://zh.wikipedia.org/wiki/JFS_\(file_system\) "wikilink")
+  - [ACPI支持](https://zh.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface "wikilink")
   - 被称作Panorama的新通用显卡驱动
   - 动态调整磁盘分区大小
-  - 通过[Samba访问局域网中的](../Page/Samba_\(software\).md "wikilink")[CIFS](../Page/CIFS.md "wikilink")/[SMB](../Page/Server_Message_Block.md "wikilink")（Windows风格）资源（包括共享文件和打印机）
+  - 通过[Samba访问局域网中的](https://zh.wikipedia.org/wiki/Samba_\(software\) "wikilink")[CIFS](https://zh.wikipedia.org/wiki/CIFS "wikilink")/[SMB](https://zh.wikipedia.org/wiki/Server_Message_Block "wikilink")（Windows风格）资源（包括共享文件和打印机）
   - 开放接口给[Mozilla
-    Firefox和](../Page/Mozilla_Firefox.md "wikilink")[Mozilla
+    Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Mozilla
     Thunderbird以浏览网页和发送邮件的应用](../Page/Mozilla_Thunderbird.md "wikilink")
 
 ## 历史
@@ -57,14 +57,16 @@ eComStation的最初版本v1发布于2001年，基于IBM公司在1996年发布�
 
 eComStation在安装程序中还包括了一些开源应用：
 
-  - 在[GNU GPL許可證下的Workplace](../Page/GNU_GPL.md "wikilink")
+  - 在[GNU
+    GPL許可證下的Workplace](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")
     Shell強化軟體XWorkplace。
-  - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
+  - [Mozilla
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")
   - WarpIn，一個開源的通用安裝程式，在GNU GPL許可證下使用。
   - PM VNC server，远程控制软件。
   - Doodle屏保，[Workplace
-    Shell的一個螢幕保護程式](../Page/Workplace_Shell.md "wikilink")，在GNU
+    Shell的一個螢幕保護程式](https://zh.wikipedia.org/wiki/Workplace_Shell "wikilink")，在GNU
     GPL許可證下使用。
   - NewView，一个用以代替view.exe的.inf文件阅读器。
 
@@ -76,14 +78,14 @@ eComStation在安装程序中还包括了一些开源应用：
 
 eComStation系统需求如下表：
 
-| 版本                                   | **1.0 to 1.2**                                                             | **2.0 GA**                                                                 |
-| ------------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [中央处理器](../Page/中央处理器.md "wikilink") | Intel Pentium 133 MHz或同等者（包含Intel Celeron、PIII、P4以及AMD K6、Athlon和Duron處理器） | Intel Pentium 133 MHz或同等者（包含Intel Celeron、PIII、P4以及AMD K6、Athlon和Duron處理器） |
-| [内存](../Page/内存.md "wikilink")       | 48 MB（需从CD安装）                                                              | 48 MB（需从CD安装）                                                              |
-| [显卡](../Page/显卡.md "wikilink")       | 最低显存512kB显卡                                                                | 最低显存512kB显卡                                                                |
-| [硬盘容量](../Page/硬盘.md "wikilink")     | 500 MB剩余空间                                                                 | 500 MB剩余空间                                                                 |
-| [光驱](../Page/光驱.md "wikilink")       | CD-ROM Drive - IDE或SCSI                                                    | CD-ROM Drive - IDE或SCSI                                                    |
-| [鼠标](../Page/鼠标.md "wikilink")       | 任何PS/2，串口或 USB鼠标                                                           | 任何PS/2，串口或 USB鼠标                                                           |
+| 版本                                                | **1.0 to 1.2**                                                             | **2.0 GA**                                                                 |
+| ------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [中央处理器](../Page/中央处理器.md "wikilink")              | Intel Pentium 133 MHz或同等者（包含Intel Celeron、PIII、P4以及AMD K6、Athlon和Duron處理器） | Intel Pentium 133 MHz或同等者（包含Intel Celeron、PIII、P4以及AMD K6、Athlon和Duron處理器） |
+| [内存](https://zh.wikipedia.org/wiki/内存 "wikilink") | 48 MB（需从CD安装）                                                              | 48 MB（需从CD安装）                                                              |
+| [显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink") | 最低显存512kB显卡                                                                | 最低显存512kB显卡                                                                |
+| [硬盘容量](../Page/硬盘.md "wikilink")                  | 500 MB剩余空间                                                                 | 500 MB剩余空间                                                                 |
+| [光驱](https://zh.wikipedia.org/wiki/光驱 "wikilink") | CD-ROM Drive - IDE或SCSI                                                    | CD-ROM Drive - IDE或SCSI                                                    |
+| [鼠标](../Page/鼠标.md "wikilink")                    | 任何PS/2，串口或 USB鼠标                                                           | 任何PS/2，串口或 USB鼠标                                                           |
 
 <big>eComStation硬件需求配置</big>
 

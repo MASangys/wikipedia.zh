@@ -1,6 +1,7 @@
 《**glowly
-days**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](../Page/西野加奈.md "wikilink")2張單曲，在2008年4月23日由[SME
-Records Inc.發售](../Page/SME_Records_Inc..md "wikilink")。
+days**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2張單曲，在2008年4月23日由[SME
+Records
+Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 

@@ -1,22 +1,22 @@
 {{ infobox OS | name = Contiki | screenshot =
 [Contiki-avr.png](https://zh.wikipedia.org/wiki/File:Contiki-avr.png "fig:Contiki-avr.png")
 | caption = 在Contiki的[Atmel
-AVR移植版本上运行的](../Page/Atmel_AVR.md "wikilink")[VNC服务器的截图](../Page/Virtual_Network_Computing.md "wikilink")。
+AVR移植版本上运行的](../Page/Atmel_AVR.md "wikilink")[VNC服务器的截图](https://zh.wikipedia.org/wiki/Virtual_Network_Computing "wikilink")。
 | developer =  | source_model = [开放源代码](../Page/开放源代码.md "wikilink") |
 released =  | latest release version = 3.0 | latest release date =  | ui
 =  | license = [BSD许可证](../Page/BSD许可证.md "wikilink") | working_state =
 当前 | website =  }}
-**Contiki**是一个小型、[开源](../Page/开源.md "wikilink")、极易移植的多任务电脑操作系统。它专门设计以适用于一系列的内存受限的网络系统，包括从8位电脑到微型控制器的嵌入系统。它的名字来自于[托尔·海尔达尔的](../Page/托尔·海尔达尔.md "wikilink")[康提基号](../Page/康提基号.md "wikilink")。
+**Contiki**是一个小型、[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、极易移植的多任务电脑操作系统。它专门设计以适用于一系列的内存受限的网络系统，包括从8位电脑到微型控制器的嵌入系统。它的名字来自于[托尔·海尔达尔的](../Page/托尔·海尔达尔.md "wikilink")[康提基号](https://zh.wikipedia.org/wiki/康提基号 "wikilink")。
 
-Contiki只需几千[字节的代码和几百](../Page/字节.md "wikilink")[字节的](../Page/字节.md "wikilink")[内存就能提供多任务环境和内建](../Page/内存.md "wikilink")[TCP/IP支持](../Page/TCP/IP.md "wikilink")。
+Contiki只需几千[字节的代码和几百](../Page/字节.md "wikilink")[字节的](../Page/字节.md "wikilink")[内存就能提供多任务环境和内建](https://zh.wikipedia.org/wiki/内存 "wikilink")[TCP/IP支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")。
 
-作为基础的内核以及大部分的核心功能是[瑞典计算机科学研究所的网络内嵌系统小组的](../Page/瑞典计算机科学研究所.md "wikilink")[Adam
-Dunkels开发的](../Page/Adam_Dunkels.md "wikilink")。
+作为基础的内核以及大部分的核心功能是[瑞典计算机科学研究所的网络内嵌系统小组的](https://zh.wikipedia.org/wiki/瑞典计算机科学研究所 "wikilink")[Adam
+Dunkels开发的](https://zh.wikipedia.org/wiki/Adam_Dunkels "wikilink")。
 
 ## 设计
 
 Contiki适用于只有极少量内存的嵌入式系统。在一个较为典型的配置中，Contiki系统只需2Kb的RAM与40Kb的ROM。
-Contiki包括了一个事件驱动的内核，因此可以在运行时动态载入上层应用程序。Contiki中使用轻量级的[protothreads](../Page/protothreads.md "wikilink")[进程模型](../Page/进程.md "wikilink")，可以在事件驱动内核上提供一种线性的、类似于线程的编程风格。
+Contiki包括了一个事件驱动的内核，因此可以在运行时动态载入上层应用程序。Contiki中使用轻量级的[protothreads](https://zh.wikipedia.org/wiki/protothreads "wikilink")[进程模型](https://zh.wikipedia.org/wiki/进程 "wikilink")，可以在事件驱动内核上提供一种线性的、类似于线程的编程风格。
 
 ## 平台
 
@@ -26,44 +26,54 @@ AVR](../Page/Atmel_AVR.md "wikilink")）以及旧的家用电脑。程序代码�
 
 ## 特点
 
-Contiki可以在每个进程内选择是否支持先占式多线程，[进程间通讯通过事件利用消息来实现](../Page/进程间通讯.md "wikilink")。Contiki中还包括一个可选的[GUI子系统](../Page/GUI.md "wikilink")，可以提供对本地终端、基于[VNC的网络化虚拟显示或者](../Page/VNC.md "wikilink")[Telnet的图形化支持](../Page/Telnet.md "wikilink")。
+Contiki可以在每个进程内选择是否支持先占式多线程，[进程间通讯通过事件利用消息来实现](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")。Contiki中还包括一个可选的[GUI子系统](https://zh.wikipedia.org/wiki/GUI "wikilink")，可以提供对本地终端、基于[VNC的网络化虚拟显示或者](../Page/VNC.md "wikilink")[Telnet的图形化支持](../Page/Telnet.md "wikilink")。
 
 完整的Contiki系统包括以下特性：
 
   - 多任务内核
   - 每个应用程序中可选的先占式多线程
-  - [Protothreads模型](../Page/Protothreads.md "wikilink")
-  - [TCP/IP网络支持](../Page/TCP/IP.md "wikilink")，包括[IPv6](../Page/IPv6.md "wikilink")
-  - [视窗系统与](../Page/视窗系统.md "wikilink")[GUI](../Page/GUI.md "wikilink")
+  - [Protothreads模型](https://zh.wikipedia.org/wiki/Protothreads "wikilink")
+  - [TCP/IP网络支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，包括[IPv6](../Page/IPv6.md "wikilink")
+  - [视窗系统与](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")
   - 基于[VNC的网络化远程显示](../Page/VNC.md "wikilink")
   - [网页浏览器](../Page/网页浏览器.md "wikilink")
-  - 个人[网络服务器](../Page/网络服务器.md "wikilink")
+  - 个人[网络服务器](https://zh.wikipedia.org/wiki/网络服务器 "wikilink")
   - 简单的[Telnet客户端](../Page/Telnet.md "wikilink")
-  - [屏幕保护程序](../Page/屏幕保护程序.md "wikilink")
+  - [屏幕保护程序](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")
 
 ## 移植版本
 
-Contiki操作系统已被[移植到以下系统中](../Page/移植_\(軟體\).md "wikilink")：
+Contiki操作系统已被[移植到以下系统中](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")：
 
   - 电脑：
-      - [Apple II family](../Page/Apple_II_series.md "wikilink")\[1\]
-      - [Atari 8-bit](../Page/Atari_8-bit_family.md "wikilink")\[2\]
-      - [雅达利ST](../Page/雅达利ST.md "wikilink")
-      - [Atari Portfolio](../Page/Atari_Portfolio.md "wikilink")
-      - [Casio Pocketview](../Page/Casio_Pocketview.md "wikilink")
-      - [Commodore PET](../Page/Commodore_PET.md "wikilink")\[3\]
-      - [Commodore VIC-20](../Page/Commodore_VIC-20.md "wikilink")\[4\]
-      - [Commodore 64](../Page/Commodore_64.md "wikilink")\[5\]
-      - [Commodore 128](../Page/Commodore_128.md "wikilink")\[6\]
-      - [Oric](../Page/Tangerine_Computer_Systems.md "wikilink")\[7\]
-      - [PC-6001](../Page/NEC_PC-6001.md "wikilink")
-      - [Sharp Wizard](../Page/Sharp_Wizard.md "wikilink")\[8\]
+      - [Apple II
+        family](https://zh.wikipedia.org/wiki/Apple_II_series "wikilink")\[1\]
+      - [Atari
+        8-bit](https://zh.wikipedia.org/wiki/Atari_8-bit_family "wikilink")\[2\]
+      - [雅达利ST](https://zh.wikipedia.org/wiki/雅达利ST "wikilink")
+      - [Atari
+        Portfolio](https://zh.wikipedia.org/wiki/Atari_Portfolio "wikilink")
+      - [Casio
+        Pocketview](https://zh.wikipedia.org/wiki/Casio_Pocketview "wikilink")
+      - [Commodore
+        PET](https://zh.wikipedia.org/wiki/Commodore_PET "wikilink")\[3\]
+      - [Commodore
+        VIC-20](https://zh.wikipedia.org/wiki/Commodore_VIC-20 "wikilink")\[4\]
+      - [Commodore
+        64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")\[5\]
+      - [Commodore
+        128](https://zh.wikipedia.org/wiki/Commodore_128 "wikilink")\[6\]
+      - [Oric](https://zh.wikipedia.org/wiki/Tangerine_Computer_Systems "wikilink")\[7\]
+      - [PC-6001](https://zh.wikipedia.org/wiki/NEC_PC-6001 "wikilink")
+      - [Sharp
+        Wizard](https://zh.wikipedia.org/wiki/Sharp_Wizard "wikilink")\[8\]
 
 <!-- end list -->
 
   - 游戏机平台：
-      - [PC Engine](../Page/TurboGrafx-16#PC_Engine.md "wikilink")
-      - [FC游戏机](../Page/FC游戏机.md "wikilink")
+      - [PC
+        Engine](https://zh.wikipedia.org/wiki/TurboGrafx-16#PC_Engine "wikilink")
+      - [FC游戏机](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")
       - [雅达利Jaguar](../Page/雅达利Jaguar.md "wikilink")
 
 <!-- end list -->
@@ -71,21 +81,21 @@ Contiki操作系统已被[移植到以下系统中](../Page/移植_\(軟體\).md
   - 手持游戏机平台：
       - [Game Boy](../Page/Game_Boy.md "wikilink")
       - [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")
-      - [GP32](../Page/GP32.md "wikilink")
+      - [GP32](https://zh.wikipedia.org/wiki/GP32 "wikilink")
 
 <!-- end list -->
 
   - 微型控制器：
       - [Atmel AVR](../Page/Atmel_AVR.md "wikilink")
-      - [LPC2103](../Page/LPC2103.md "wikilink")
-      - [TI MSP430](../Page/TI_MSP430.md "wikilink")
-      - [TI CC2430](../Page/CC2430.md "wikilink")
+      - [LPC2103](https://zh.wikipedia.org/wiki/LPC2103 "wikilink")
+      - [TI MSP430](https://zh.wikipedia.org/wiki/TI_MSP430 "wikilink")
+      - [TI CC2430](https://zh.wikipedia.org/wiki/CC2430 "wikilink")
 
 ## 参见
 
   -
   -
-  - [RIOT](../Page/RIOT_\(operating_system\).md "wikilink")
+  - [RIOT](https://zh.wikipedia.org/wiki/RIOT_\(operating_system\) "wikilink")
 
   -
   - [TinyOS](../Page/TinyOS.md "wikilink")
@@ -116,7 +126,8 @@ Contiki操作系统已被[移植到以下系统中](../Page/移植_\(軟體\).md
 [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 
-1.  [cc65](../Page/cc65.md "wikilink") based development
+1.  [cc65](https://zh.wikipedia.org/wiki/cc65 "wikilink") based
+    development
 
 2.
 3.

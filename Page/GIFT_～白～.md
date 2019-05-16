@@ -17,7 +17,7 @@
       - 作詞・作曲：TAKESHI／編曲：久米康隆・TAKESHI
 
 [ja:GIFT (関ジャニ∞のシングル)\#GIFT
-〜白〜](../Page/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜白〜.md "wikilink")
+〜白〜](https://zh.wikipedia.org/wiki/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜白〜 "wikilink")
 
 [Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
 [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")

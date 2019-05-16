@@ -1,8 +1,8 @@
 [The_Way_You_Make_Me_Feel.jpg](https://zh.wikipedia.org/wiki/File:The_Way_You_Make_Me_Feel.jpg "fig:The_Way_You_Make_Me_Feel.jpg")
 
 **The Way You Make Me
-Feel**（[中国大陆译名](../Page/中国大陆.md "wikilink")：**你给我的感觉**，[台湾译名](../Page/台湾.md "wikilink")：**再多几次**），是[迈克尔·杰克逊在他的第七张专辑](../Page/迈克尔·杰克逊.md "wikilink")[Bad里的一首歌](../Page/Bad_\(迈克尔·杰克逊专辑\).md "wikilink")。这首歌是杰克逊和[昆西·琼斯共同谱写的](../Page/昆西·琼斯.md "wikilink")，是Bad专辑里的第三支单曲，发表于1987年11月9日，这首歌在美国Top
-100榜内共呆了18个星期，并夺得了R\&B榜的冠军。该歌曲最著名的一次演出是在1988年[格莱美颁奖典礼现场](../Page/格莱美奖.md "wikilink")，杰克逊现场表演了其的慢版改编曲，赢得了很多好评。杰克逊说这首歌是为他的母亲[凯瑟琳·杰克逊所写的](../Page/凯瑟琳·杰克逊.md "wikilink")。在他的演唱会，表演这首歌时舞台上通常会有一个短裙模特女郎来回走动，而杰克逊则像在[MV里表演的那样](../Page/MV.md "wikilink")，紧随不舍。而在杰克逊的[遗作](../Page/遗作.md "wikilink")[This
+Feel**（[中国大陆译名](../Page/中国大陆.md "wikilink")：**你给我的感觉**，[台湾译名](https://zh.wikipedia.org/wiki/台湾 "wikilink")：**再多几次**），是[迈克尔·杰克逊在他的第七张专辑](../Page/迈克尔·杰克逊.md "wikilink")[Bad里的一首歌](https://zh.wikipedia.org/wiki/Bad_\(迈克尔·杰克逊专辑\) "wikilink")。这首歌是杰克逊和[昆西·琼斯共同谱写的](../Page/昆西·琼斯.md "wikilink")，是Bad专辑里的第三支单曲，发表于1987年11月9日，这首歌在美国Top
+100榜内共呆了18个星期，并夺得了R\&B榜的冠军。该歌曲最著名的一次演出是在1988年[格莱美颁奖典礼现场](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")，杰克逊现场表演了其的慢版改编曲，赢得了很多好评。杰克逊说这首歌是为他的母亲[凯瑟琳·杰克逊所写的](https://zh.wikipedia.org/wiki/凯瑟琳·杰克逊 "wikilink")。在他的演唱会，表演这首歌时舞台上通常会有一个短裙模特女郎来回走动，而杰克逊则像在[MV里表演的那样](https://zh.wikipedia.org/wiki/MV "wikilink")，紧随不舍。而在杰克逊的[遗作](https://zh.wikipedia.org/wiki/遗作 "wikilink")[This
 Is It中](../Page/迈克尔·杰克逊：就是这样.md "wikilink")，这个场景也有重复。这一直是歌迷的最爱之一。
 
 ### 背景与组成
@@ -31,7 +31,7 @@ E♭在第一线，并在第二线有相同的进展。[5](https://en.wikipedia.
 ## 参考
 
   - [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")
-  - [Bad](../Page/Bad_\(迈克尔·杰克逊专辑\).md "wikilink")
+  - [Bad](https://zh.wikipedia.org/wiki/Bad_\(迈克尔·杰克逊专辑\) "wikilink")
 
 ## 外部链接
 

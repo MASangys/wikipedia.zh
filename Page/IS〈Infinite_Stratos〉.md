@@ -1,33 +1,33 @@
 《**IS〈Infinite
-Stratos〉**》（），也称为《无限斯特拉托斯》，是[弓弦出著作的](../Page/弓弦出.md "wikilink")[日本](../Page/日本.md "wikilink")[轻小说系列](../Page/轻小说.md "wikilink")，曾因某些因素导致小说、漫画更换绘者，发行出版社变更為[Media
-Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](../Page/插画.md "wikilink")[okiura负责](../Page/okiura.md "wikilink")，[OVERLAP新装版插画由](../Page/OVERLAP.md "wikilink")[CHOCO负责](../Page/CHOCO.md "wikilink")。台湾中文版均由[尖端出版代理](../Page/尖端出版.md "wikilink")。
+Stratos〉**》（），也称为《无限斯特拉托斯》，是[弓弦出著作的](../Page/弓弦出.md "wikilink")[日本](../Page/日本.md "wikilink")[轻小说系列](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，曾因某些因素导致小说、漫画更换绘者，发行出版社变更為[Media
+Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](https://zh.wikipedia.org/wiki/插画 "wikilink")[okiura负责](https://zh.wikipedia.org/wiki/okiura "wikilink")，[OVERLAP新装版插画由](https://zh.wikipedia.org/wiki/OVERLAP "wikilink")[CHOCO负责](https://zh.wikipedia.org/wiki/CHOCO "wikilink")。台湾中文版均由[尖端出版代理](../Page/尖端出版.md "wikilink")。
 
 ## 概要
 
-  - 由[赤星健次作畫的漫畫版於](../Page/赤星健次.md "wikilink")2010年5月27日在《[月刊Comic
+  - 由[赤星健次作畫的漫畫版於](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")2010年5月27日在《[月刊Comic
     Alive](../Page/月刊Comic_Alive.md "wikilink")》7月號開始連載。
 
-  - 動畫版於2011年1月在[TBS電視](../Page/TBS電視.md "wikilink")、[BS-TBS開始播放](../Page/BS-TBS.md "wikilink")。並於2011年12月7日發售OVA
+  - 動畫版於2011年1月在[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、[BS-TBS開始播放](../Page/BS-TBS.md "wikilink")。並於2011年12月7日發售OVA
     Blu-ray\&DVD 《IS[安可](../Page/安可.md "wikilink")「愛情戰火六重奏」》。\[1\]
 
   - 在日本，小說至第6卷為止累計銷售量達120萬本\[2\]。之後，小說至第7卷為止累計銷售量達135萬本。
 
-  - 本作《[MF文庫](../Page/MF文庫.md "wikilink")》版第7卷後未見續集，已停刷\[3\]、作者也自承出不了新刊\[4\]
+  - 本作《[MF文庫](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")》版第7卷後未見續集，已停刷\[3\]、作者也自承出不了新刊\[4\]
     ，《MF文庫J》10週年紀念亦排除本作\[5\]，無異宣告絕版。
 
-  - 2012年6月，作者宣布跳槽到[講談社](../Page/講談社.md "wikilink")\[6\]，宣佈與新作並行執筆本作品\[7\]。另外，[Media
+  - 2012年6月，作者宣布跳槽到[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")\[6\]，宣佈與新作並行執筆本作品\[7\]。另外，[Media
     Factory已於](../Page/Media_Factory.md "wikilink")2012年2月28日完成原作商標讓渡。\[8\]
 
   - 2012年11月30日，動畫官網[Twitter宣佈再啟動](../Page/Twitter.md "wikilink")，由與Media
-    Factory協力關係密切的[OVERLAP出面參加](../Page/OVERLAP.md "wikilink")[Comic
+    Factory協力關係密切的[OVERLAP出面參加](https://zh.wikipedia.org/wiki/OVERLAP "wikilink")[Comic
     Market](../Page/Comic_Market.md "wikilink")
     83並販售原創商品\[9\]，作品商標也跟先前不同。
 
-  - 2012年12月29日，OVERLAP宣布成立，預定出IS原作小說新裝版，插畫家改為[CHOCO](../Page/CHOCO.md "wikilink")，原作商標亦一併更換。
+  - 2012年12月29日，OVERLAP宣布成立，預定出IS原作小說新裝版，插畫家改為[CHOCO](https://zh.wikipedia.org/wiki/CHOCO "wikilink")，原作商標亦一併更換。
 
   - 2013年4月8日，OVERLAP開設《OVERLAP文庫》創刊紀念活動特設網站，卻不慎洩露決定製作電視動畫新作的消息，之後修正。\[10\]同年4月20日正式宣佈。
 
-  - 2013年8月16日，作者應[尖端出版邀請來](../Page/尖端出版.md "wikilink")[台灣](../Page/台灣.md "wikilink")，在[漫畫博覽會首度舉辦簽名會](../Page/漫畫博覽會.md "wikilink")，並接受[台灣媒體聯訪](../Page/台灣媒體.md "wikilink")，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
+  - 2013年8月16日，作者應[尖端出版邀請來](../Page/尖端出版.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在[漫畫博覽會首度舉辦簽名會](https://zh.wikipedia.org/wiki/漫畫博覽會 "wikilink")，並接受[台灣媒體聯訪](https://zh.wikipedia.org/wiki/台灣媒體 "wikilink")，透露未來將設定以台灣為形象的《IS》女性角色\[11\]。
 
 ## 故事簡介
 
@@ -40,9 +40,9 @@ Factory](../Page/Media_Factory.md "wikilink")，此版本[插画由](../Page/插
 ## IS設定
 
 IS正式名稱是“Infinite
-Stratos”。以宇宙活動為目的製作的多功能太空服，使用[反作用力力翼](../Page/反作用力.md "wikilink")、流動波的干涉等理論，所有IS皆可漂浮於空中。在“[白騎士事件](../Page/#白事件.md "wikilink")”展露出壓倒性的兵器性能後，轉變為軍事用的飛行強化服，成為各國軍事力量的指標\[12\]。目前有1～4世代版本\[13\]。
+Stratos”。以宇宙活動為目的製作的多功能太空服，使用[反作用力力翼](https://zh.wikipedia.org/wiki/反作用力 "wikilink")、流動波的干涉等理論，所有IS皆可漂浮於空中。在“[白騎士事件](https://zh.wikipedia.org/wiki/#白事件 "wikilink")”展露出壓倒性的兵器性能後，轉變為軍事用的飛行強化服，成為各國軍事力量的指標\[12\]。目前有1～4世代版本\[13\]。
 
-IS有許多謎團。特別是相當於心臟部分的IS核心的技術，除了已知會自我進化外全部沒有公開，完全是[黑箱狀態](../Page/黑箱.md "wikilink")。另外，因為不明的原因，除了織斑一夏外，只有女性能使用IS。\[14\]
+IS有許多謎團。特別是相當於心臟部分的IS核心的技術，除了已知會自我進化外全部沒有公開，完全是[黑箱狀態](https://zh.wikipedia.org/wiki/黑箱 "wikilink")。另外，因為不明的原因，除了織斑一夏外，只有女性能使用IS。\[14\]
 
 因唯一能製作IS核心的篠之之束博士停止製造的緣故，IS的總機數固定在467架（實際上指登入進國際IS機構的核心數量，實際數量不明），要製造新機型必須將舊機體解體、核心初始化。\[15\]在小說第3本中的第3話—「站在條那境界線上」—（Thin
 Red
@@ -57,7 +57,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   - 第三世代
     以實裝“使用操縱者的想像介面的特殊兵器”為目標，藍色之淚的BIT兵器、甲龍的空間壓縮兵器和黑雨的AIC力場均屬此類。目前各國投入大量資金和時間研究，但都只處於實驗機的階段。
   - 第四世代
-    以“無需透過[套件換裝就能對應全領域](../Page/#Package.md "wikilink")、全情況變化的萬能機”為目標，因為技術發展的幅度已經遠超各國能追趕的幅度，因此符合第四世代機種定義的目前只有篠之之束博士親自製造的“[紅椿](../Page/#紅.md "wikilink")”與“[白式](../Page/#白.md "wikilink")”二部機體。\[16\]
+    以“無需透過[套件換裝就能對應全領域](https://zh.wikipedia.org/wiki/#Package "wikilink")、全情況變化的萬能機”為目標，因為技術發展的幅度已經遠超各國能追趕的幅度，因此符合第四世代機種定義的目前只有篠之之束博士親自製造的“[紅椿](https://zh.wikipedia.org/wiki/#紅 "wikilink")”與“[白式](https://zh.wikipedia.org/wiki/#白 "wikilink")”二部機體。\[16\]
 
 ### IS的相關機能
 
@@ -73,7 +73,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
     指IS操縱者的精神與IS同步到最高境界時所能發揮的特殊能力，每一架IS的能力都不一樣。一般在機體進化到第二形態後才會出現，但沒出現此能力的IS佔壓倒性的多數。白式與紅椿這兩架機體則完全是特例，在第一形態就能發動。\[21\]
   - <span id="VT">
     即「[女武神回溯系統](../Page/女武神.md "wikilink")（Valkyrie Trace System）」
-    在阿拉斯加條約中規定禁止任何國家、企業和組織進行研究。此系統裡搭載著過去世界大賽各部門優勝者的動作紀錄。小說第二卷中，[黑雨就是因為這系統而暴走](../Page/#黑.md "wikilink")，模擬出織班千冬的外貌和劍術招式。\[22\]
+    在阿拉斯加條約中規定禁止任何國家、企業和組織進行研究。此系統裡搭載著過去世界大賽各部門優勝者的動作紀錄。小說第二卷中，[黑雨就是因為這系統而暴走](https://zh.wikipedia.org/wiki/#黑 "wikilink")，模擬出織班千冬的外貌和劍術招式。\[22\]
   -
     白式（第一型態）的雪片貳式和紅椿的全身裝甲使用的第四世代IS裝備，可對應攻擊、防禦、機動等需要進行切換，例如白式（第二型態）的雪羅就具有巨爪（格鬥）、粒子炮（射擊）和盾牌（防禦）三種型態。\[23\]
 
@@ -119,7 +119,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
   - <span id="紅">
     箒的第四世代IS，小說版第3集（動畫第十集）登場。篠之之束做為送給親妹妹的生日禮物，專門打造的專用機，與一夏的白式成對，是以兩方同時運行的前提而設計。\[33\]
-    全身裝甲都是已在「雪片貳式」上實用化的「展開裝甲」，完全不需更換[套件也可對應攻擊](../Page/#Package.md "wikilink")、防禦、機動等多方面需求。在規格上擁有壓倒第三世代IS的高性能。\[34\]
+    全身裝甲都是已在「雪片貳式」上實用化的「展開裝甲」，完全不需更換[套件也可對應攻擊](https://zh.wikipedia.org/wiki/#Package "wikilink")、防禦、機動等多方面需求。在規格上擁有壓倒第三世代IS的高性能。\[34\]
     **One-off ability：**「」
       -
         與白式的「零落白夜」完全相反，能將微量的能量增幅到最大，可用來回復能源，而且只需簡單的碰觸就能將能源讓渡給其他IS\[35\]。紅椿的高性能是以發動此能力為前提做的設計，若是無法發動，會有不下於白式的耗能問題\[36\]。箒一直到小說第6卷末，小說第七卷才能隨意發動這項能力。
@@ -196,7 +196,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <!-- end list -->
 
   - <span id="疾">
-    夏洛特的第二世代IS，使用「[疾風・里凡穆](../Page/#疾原.md "wikilink")」修改而來。移除大部份裝備、只保留幾項基本裝備，使擴充槽增加為原本的兩倍，能收納多達20件的[套件](../Page/#Package.md "wikilink")。\[55\]
+    夏洛特的第二世代IS，使用「[疾風・里凡穆](https://zh.wikipedia.org/wiki/#疾原 "wikilink")」修改而來。移除大部份裝備、只保留幾項基本裝備，使擴充槽增加為原本的兩倍，能收納多達20件的[套件](https://zh.wikipedia.org/wiki/#Package "wikilink")。\[55\]
     本機安裝大量實體武器，配合操縱者夏洛特的特殊技能「高速切換」與戰技「沙漠幻影 （ミラージュ・デ・デザート ／ Mirage de
     Désert）」，能徹底展現「靈活運用大量套件對應各種戰況」的設計初衷，為目前最強等級的第二世代IS。\[56\]
     **主要武器：**
@@ -207,7 +207,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
         「風」（仿製 [TAR-21突擊步槍](../Page/IMI_TAR-21突擊步槍.md "wikilink")）：
           -
             55口徑突擊步槍，標準規格彈匣的容量為16發子彈。
-        「[加姆](../Page/加姆.md "wikilink")」（仿製 [FN
+        「[加姆](https://zh.wikipedia.org/wiki/加姆 "wikilink")」（仿製 [FN
         P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")）：
           -
             61口徑衝鋒槍。
@@ -259,7 +259,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
       -
         「VT系統」：
           -
-            隱藏在黑雨內部的程序，以「機體損害到達D級」、「操縱者的負面情緒（戰鬥中敗北的悔恨與隨之而來的憤怒）到達頂點」兩項條件作為啟動的鑰匙，經由操縱者允諾後正式啟動，失控事件後將程序移除，詳見[VT系統](../Page/#VT.md "wikilink")。\[69\]
+            隱藏在黑雨內部的程序，以「機體損害到達D級」、「操縱者的負面情緒（戰鬥中敗北的悔恨與隨之而來的憤怒）到達頂點」兩項條件作為啟動的鑰匙，經由操縱者允諾後正式啟動，失控事件後將程序移除，詳見[VT系統](https://zh.wikipedia.org/wiki/#VT "wikilink")。\[69\]
         砲戰套件「戰車砲兵」：
           -
             與銀色福音交戰時使用，換下原本搭載於右肩的一門磁軌加農砲，在兩肩各搭載一門磁軌加農砲「」使砲門數增加為兩門，並增設兩枚實體盾來防護機體的左右側與正面，做為對應遠距離砲擊、狙擊的防禦對策。\[70\]
@@ -311,13 +311,13 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 ### 亡國機業
 
   - <span id="八腳">
-    第二世代IS，[亡國機業以不明方式自美國搶奪而來](../Page/#亡.md "wikilink")，背部裝備八支裝甲腳，能展開獨立的PIC，有著模仿蜘蛛的獨特外形，機體塗裝為黃色與黑色。為了在學園祭進行「白式強奪」而使用，在戰鬥中核心被逼急的操縱者抽出、讓核心外的零件自爆以掩護自己逃脫\[79\]。目前已將核心重新插入，但讓核心重新適應機體需花費大量時間而陷入不能啟動的狀態。
+    第二世代IS，[亡國機業以不明方式自美國搶奪而來](https://zh.wikipedia.org/wiki/#亡 "wikilink")，背部裝備八支裝甲腳，能展開獨立的PIC，有著模仿蜘蛛的獨特外形，機體塗裝為黃色與黑色。為了在學園祭進行「白式強奪」而使用，在戰鬥中核心被逼急的操縱者抽出、讓核心外的零件自爆以掩護自己逃脫\[79\]。目前已將核心重新插入，但讓核心重新適應機體需花費大量時間而陷入不能啟動的狀態。
     機體名「Arachne」取自希臘神話中與女神雅典娜進行織布比試，卻因技高一籌（另一說為：其成品暗指宙斯下降人間亂玩女人，觸怒雅典娜）而被變成蜘蛛的凡人女性，「Arachne」一詞同時也是蜘蛛的學名「Arachnida」的詞源。
 
 <!-- end list -->
 
   - <span id="沉">
-    M的第三世代IS，[亡國機業以不明方式自英國搶奪而來](../Page/#亡.md "wikilink")，繼藍色之淚之後的第二台Bit搭載實驗機，以運用「藍色之淚」所獲得的數據為基礎製造，頭部感知器與背部推進器大型化、機體顏色略深於藍色之淚。能夠做出讓光線曲折的偏光控制射擊（在Bit兵器中屬於高難度的射擊技巧），擁有令西西莉亞與藍色之淚陷入苦戰的強大戰力。
+    M的第三世代IS，[亡國機業以不明方式自英國搶奪而來](https://zh.wikipedia.org/wiki/#亡 "wikilink")，繼藍色之淚之後的第二台Bit搭載實驗機，以運用「藍色之淚」所獲得的數據為基礎製造，頭部感知器與背部推進器大型化、機體顏色略深於藍色之淚。能夠做出讓光線曲折的偏光控制射擊（在Bit兵器中屬於高難度的射擊技巧），擁有令西西莉亞與藍色之淚陷入苦戰的強大戰力。
     機體名中的「Zephyrus」取自希臘神話中的西風神，該神在四位風神（Anemoi，古希臘文：Ἄνεμοι，「風」之義）中是最溫和的，被認為是宣告春天來臨的豐收之風。
     **主要武器：（除下列武器之外，尚存在一門未確認的小型格林機關砲）**
       -
@@ -326,7 +326,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
             具備切開「慣性停止結界」並解除其效果的特殊能力，正式名稱不明，顏色為粉紅色系。
         「星塵粉碎者」：
           -
-            沉默西風的主力武裝，同時具備實體彈與光束能源射擊能力的大型[槍刃](../Page/槍刃.md "wikilink")。
+            沉默西風的主力武裝，同時具備實體彈與光束能源射擊能力的大型[槍刃](https://zh.wikipedia.org/wiki/槍刃 "wikilink")。
         「能源保護傘」：
           -
             Bit型兵器，合計共六枚浮游感應炮（六枚都是光束發射器樣式，掛載位置不明），與「藍色之淚」的機能差異在於能讓能源在砲口處展開形成一面光束護盾、並在內部搭載高性能炸藥，除了射擊外亦能做防禦與特攻武器使用。操作者與機體達到最大同步時能控制自身的光束軌道使Bit射出的光束彎曲形成曲射，在小說內以「偏光射擊」稱呼這種技巧。\[80\]
@@ -335,7 +335,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 ### 其他
 
   -
-    世界上第一台IS，操控者為千冬，不過沒有對外公開。在[白騎士事件中展現出完全壓倒現代兵器的性能後](../Page/#白事件.md "wikilink")，機體解體供各國研究，但核心在某次襲擊事件不知去向。之後指出「白式」使用的核心正是這顆不知去向的核心。\[81\]
+    世界上第一台IS，操控者為千冬，不過沒有對外公開。在[白騎士事件中展現出完全壓倒現代兵器的性能後](https://zh.wikipedia.org/wiki/#白事件 "wikilink")，機體解體供各國研究，但核心在某次襲擊事件不知去向。之後指出「白式」使用的核心正是這顆不知去向的核心。\[81\]
 
 <!-- end list -->
 
@@ -394,7 +394,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 ### 事件
 
   - <span id="白事件">\[87\]
-    於小說第三集交代：故事本篇的十年前，篠之之束博士發佈了IS，但世人並未認同IS擁有凌駕於一國的軍事實力之上的性能。一個月後，束博士本人為了讓IS受世界關注。匿名入侵各國系統，向日本發射大量[導彈](../Page/導彈.md "wikilink")，並讓第一世代IS“白騎士”前往迎擊。結果，單單一台第一世代IS就攔截了2341枚導彈，並擊破了各國派出[威力偵查的](../Page/威力偵查.md "wikilink")[戰鬥機](../Page/戰鬥機.md "wikilink")207架、[巡洋艦](../Page/巡洋艦.md "wikilink")7艘、[航空母艦](../Page/航空母艦.md "wikilink")5艘和監視衛星8顆，而且整個事件的死者人數為零。世界受IS的壓倒性性能所震撼，最後制定了IS運用的限制條約－《[阿拉斯加條約](../Page/#阿條約.md "wikilink")》。
+    於小說第三集交代：故事本篇的十年前，篠之之束博士發佈了IS，但世人並未認同IS擁有凌駕於一國的軍事實力之上的性能。一個月後，束博士本人為了讓IS受世界關注。匿名入侵各國系統，向日本發射大量[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")，並讓第一世代IS“白騎士”前往迎擊。結果，單單一台第一世代IS就攔截了2341枚導彈，並擊破了各國派出[威力偵查的](https://zh.wikipedia.org/wiki/威力偵查 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")207架、[巡洋艦](https://zh.wikipedia.org/wiki/巡洋艦 "wikilink")7艘、[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")5艘和監視衛星8顆，而且整個事件的死者人數為零。世界受IS的壓倒性性能所震撼，最後制定了IS運用的限制條約－《[阿拉斯加條約](https://zh.wikipedia.org/wiki/#阿條約 "wikilink")》。
 
 ### 組織・企業
 
@@ -446,8 +446,8 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 ### 漫畫版
 
   - IS〈Infinite Stratos〉
-    作畫：[赤星健次](../Page/赤星健次.md "wikilink")，在2010年7月號的《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載（正式連載2010年8月號）。從第3話（連載第4回）開始，由[Zengo\!協力製作構成](../Page/Zengo!.md "wikilink")。全5卷。
+    作畫：[赤星健次](https://zh.wikipedia.org/wiki/赤星健次 "wikilink")，在2010年7月號的《[月刊Comic
+    Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載（正式連載2010年8月號）。從第3話（連載第4回）開始，由[Zengo\!協力製作構成](https://zh.wikipedia.org/wiki/Zengo! "wikilink")。全5卷。
 
 <table>
 <thead>
@@ -460,7 +460,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -492,7 +492,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 </table>
 
   - IS！
-    作畫：[今拓人](../Page/今拓人.md "wikilink")，其[四格漫畫在](../Page/四格漫畫.md "wikilink")2011年2月號的《月刊Comic
+    作畫：[今拓人](https://zh.wikipedia.org/wiki/今拓人 "wikilink")，其[四格漫畫在](../Page/四格漫畫.md "wikilink")2011年2月號的《月刊Comic
     Alive》上開始連載。
 
 <table>
@@ -505,7 +505,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -519,7 +519,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 </table>
 
   - IS〈Infinite Stratos〉
-    作畫：[結城焰](../Page/結城焰.md "wikilink")，**新漫畫版**在2013年6月號[小學館的](../Page/小學館.md "wikilink")《[月刊Sunday
+    作畫：[結城焰](https://zh.wikipedia.org/wiki/結城焰 "wikilink")，**新漫畫版**在2013年6月號[小學館的](../Page/小學館.md "wikilink")《[月刊Sunday
     Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》雜誌重新開始連載。
 
 <table>
@@ -533,7 +533,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -570,20 +570,20 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 </table>
 
   - IS Sugar & Honey
-    作者：[ひつじたかこ](../Page/ひつじたかこ.md "wikilink")，自2013年6月25日起開始連載，以夏綠蒂為主角的漫畫外傳。全2卷。\[89\]
+    作者：[ひつじたかこ](https://zh.wikipedia.org/wiki/ひつじたかこ "wikilink")，自2013年6月25日起開始連載，以夏綠蒂為主角的漫畫外傳。全2卷。\[89\]
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/OVERLAP.md" title="wikilink">OVERLAP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/OVERLAP" title="wikilink">OVERLAP</a></p></th>
 <th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -628,16 +628,18 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
   - 原作 - [弓弦出](../Page/弓弦出.md "wikilink")
   - 角色原案 -
-    [okiura](../Page/okiura.md "wikilink")、[CHOCO](../Page/CHOCO.md "wikilink")（第2季）
+    [okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")、[CHOCO](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
   - 監督 - [菊地康仁](../Page/菊地康仁.md "wikilink")
   - 系列指導 - 登坂晋（第2季）
-  - 系列構成、劇本 - [志茂文彦](../Page/志茂文彦.md "wikilink")（第1季）→弓弦出·Infinite
+  - 系列構成、劇本 -
+    [志茂文彦](https://zh.wikipedia.org/wiki/志茂文彦 "wikilink")（第1季）→弓弦出·Infinite
     Staff（第2季）
   - 腳本 - 富岡淳廣、北条千夏
   - 角色設計 - 倉嶋丈康（第1季）、堀井久美（第2季）
   - 副角色設計 - 清水空翔（第2季）
   - 總作畫監督 - 清水空翔、西澤真也（第2季）
-  - 機械設計 - 高倉武史、[麥谷興一](../Page/CHOCO.md "wikilink")（第2季）
+  - 機械設計 -
+    高倉武史、[麥谷興一](https://zh.wikipedia.org/wiki/CHOCO "wikilink")（第2季）
   - CGI指導 - 井野元英二
   - 美術監督 - 吉原俊一郎
   - 美術設定 - 鹽澤良憲
@@ -645,7 +647,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   - 攝影監督 - 荒幡和也→田中恒嗣（第2季）
   - 編輯 - 木村佳史子
   - 音響監督 -
-    [中嶋聰彦](../Page/中嶋聰彦.md "wikilink")、[三間雅文](../Page/三間雅文.md "wikilink")（第1季）
+    [中嶋聰彦](https://zh.wikipedia.org/wiki/中嶋聰彦 "wikilink")、[三間雅文](../Page/三間雅文.md "wikilink")（第1季）
   - 音樂 - [七瀨光](../Page/伊藤真澄.md "wikilink")
   - \-{制}-片人
       - 第1季 - 岩崎篤史、田中豪、金田一健、小池克實、高橋直美、土井美佳
@@ -666,7 +668,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   -
 
       -
-        作詞、歌：[栗林美奈實](../Page/栗林美奈實.md "wikilink")，作曲、編曲：[菊田大介](../Page/菊田大介.md "wikilink")
+        作詞、歌：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
         ※第9話作為插曲使用。
         ※OVA
 
@@ -674,7 +676,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 
 :;「SUPER∞STREAM」
 
-::作詞：，作曲、編曲：[山口朗彦](../Page/山口朗彦.md "wikilink")
+::作詞：，作曲、編曲：[山口朗彦](https://zh.wikipedia.org/wiki/山口朗彦 "wikilink")
 
 :\* 第1話 - 篠之之箒
 
@@ -691,7 +693,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   -
 
       -
-        作詞：，作曲、編曲：[山田高弘](../Page/山田高弘.md "wikilink")，歌：篠之之箒（[日笠陽子](../Page/日笠陽子.md "wikilink")）
+        作詞：，作曲、編曲：[山田高弘](https://zh.wikipedia.org/wiki/山田高弘 "wikilink")，歌：篠之之箒（[日笠陽子](../Page/日笠陽子.md "wikilink")）
 
 **第2季**
 
@@ -711,7 +713,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
   -
 
       -
-        作詞：，作曲、編曲：山口朗彦，歌：篠之之箒（[日笠陽子](../Page/日笠陽子.md "wikilink")）、西西莉亞·奧爾科特（[尤加奈](../Page/尤加奈.md "wikilink")）、凰鈴音（[下田麻美](../Page/下田麻美.md "wikilink")）、夏綠蒂·迪努亞（[花澤香菜](../Page/花澤香菜.md "wikilink")）、蘿拉·博德維希（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、更識簪（[三森鈴子](../Page/三森鈴子.md "wikilink")）\[90\]、更識楯無（[斋藤千和](../Page/斋藤千和.md "wikilink")）\[91\]
+        作詞：，作曲、編曲：山口朗彦，歌：篠之之箒（[日笠陽子](../Page/日笠陽子.md "wikilink")）、西西莉亞·奧爾科特（[尤加奈](../Page/尤加奈.md "wikilink")）、凰鈴音（[下田麻美](../Page/下田麻美.md "wikilink")）、夏綠蒂·迪努亞（[花澤香菜](../Page/花澤香菜.md "wikilink")）、蘿拉·博德維希（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、更識簪（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）\[90\]、更識楯無（[斋藤千和](../Page/斋藤千和.md "wikilink")）\[91\]
 
 ### 各話列表
 
@@ -747,10 +749,10 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第1話</p></td>
 <td></td>
 <td><p>同學都是女生</p></td>
-<td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志茂文彦" title="wikilink">志茂文彦</a></p></td>
 <td><p><a href="../Page/菊地康仁.md" title="wikilink">菊地康仁</a></p></td>
 <td><p>松田清</p></td>
-<td><p><a href="../Page/倉嶋丈康.md" title="wikilink">倉嶋丈康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倉嶋丈康" title="wikilink">倉嶋丈康</a></p></td>
 <td><p>小倉典子</p></td>
 <td><p>第1冊</p></td>
 </tr>
@@ -769,7 +771,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第3話</p></td>
 <td></td>
 <td><p>轉學生是第二個兒時玩伴</p></td>
-<td><p><a href="../Page/林直孝_(動畫師).md" title="wikilink">林直孝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林直孝_(動畫師)" title="wikilink">林直孝</a></p></td>
 <td><p>杉村友和</p></td>
 <td></td>
 <td></td>
@@ -813,7 +815,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第7話</p></td>
 <td></td>
 <td><p>Blue Days／Red Switch</p></td>
-<td><p><a href="../Page/北条千夏.md" title="wikilink">北条千夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北条千夏" title="wikilink">北条千夏</a></p></td>
 <td><p>祝浩司</p></td>
 <td><p>山田弘和</p></td>
 <td><p>尾崎正幸</p></td>
@@ -824,7 +826,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第8話</p></td>
 <td></td>
 <td><p>Find out my mind</p></td>
-<td><p><a href="../Page/富岡淳廣.md" title="wikilink">富岡淳廣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富岡淳廣" title="wikilink">富岡淳廣</a></p></td>
 <td><p><a href="../Page/福田道生.md" title="wikilink">福田道生</a></p></td>
 <td><p>吉澤俊一</p></td>
 <td><p>松田寬<br />
@@ -910,9 +912,9 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>寺東克己、登坂晉<br />
 清水空翔</p></td>
 <td><p>登坂晉</p></td>
-<td><p><a href="../Page/堀井久美.md" title="wikilink">堀井久美</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/堀井久美" title="wikilink">堀井久美</a><br />
 清水空翔</p></td>
-<td><p><a href="../Page/平山圓.md" title="wikilink">平山圓</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/平山圓" title="wikilink">平山圓</a><br />
 清水空翔</p></td>
 <td><p>第4冊</p></td>
 </tr>
@@ -967,12 +969,12 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p>第6話</p></td>
 <td></td>
 <td><p>少女的自尊</p></td>
-<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
-<td><p><a href="../Page/石倉賢一.md" title="wikilink">石倉賢一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石倉賢一" title="wikilink">石倉賢一</a></p></td>
 <td><p>森義博</p></td>
 <td><p>堀井久美<br />
 清水空翔</p></td>
-<td><p><a href="../Page/山內則康.md" title="wikilink">山內則康</a>、小澤圓<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/山內則康" title="wikilink">山內則康</a>、小澤圓<br />
 <a href="../Page/實原登.md" title="wikilink">實原登</a></p></td>
 <td><p>動畫原創<br />
 部份第7冊</p></td>
@@ -1084,7 +1086,7 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬電視網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -1099,15 +1101,15 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
-<td><p><a href="../Page/TBS電視.md" title="wikilink">TBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS</a></p></td>
 <td><p>2011年1月6日－3月31日</p></td>
 <td><p>星期四 25:25－25:55</p></td>
-<td><p><a href="../Page/日本新聞網.md" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本新聞網" title="wikilink">TBS系列</a></p></td>
 <td><p><strong>制作電視台</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/中部日本放送.md" title="wikilink">中部日本放送</a></p></td>
 <td><p>2011年1月13日－4月7日</p></td>
 <td><p>星期四 26:00－26:30</p></td>
@@ -1115,15 +1117,15 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td><p>2011年1月17日－4月4日</p></td>
 <td><p>星期一 01:40－02:10</p></td>
-<td><p><a href="../Page/独立UHF局.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
 <td><p>2011年1月19日－4月6日</p></td>
 <td><p>星期三 01:00－01:30</p></td>
@@ -1135,8 +1137,8 @@ Line）說明了在467架的IS裡面，實戰型IS佔了467架中的322架，而
 <td><p><a href="../Page/BS-TBS.md" title="wikilink">BS-TBS</a></p></td>
 <td><p>2011年1月29日－3月26日</p></td>
 <td><p>星期六 00:30－01:00</p></td>
-<td><p><a href="../Page/日本新聞網.md" title="wikilink">TBS系列</a><br />
-<a href="../Page/衛星電視.md" title="wikilink">BS數碼放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本新聞網" title="wikilink">TBS系列</a><br />
+<a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">BS數碼放送</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1239,7 +1241,8 @@ BS數碼放送</p></td>
 
 <!-- end list -->
 
-  - 使用平台：[Personal Computer](../Page/Personal_Computer.md "wikilink")
+  - 使用平台：[Personal
+    Computer](https://zh.wikipedia.org/wiki/Personal_Computer "wikilink")
   - 發售日期：2014年12月
 
 <!-- end list -->
@@ -1255,7 +1258,7 @@ BS數碼放送</p></td>
     其他：ADSL 1.0 Mbps 以上 持續連網
       - 主題曲
         「GALACTIC WORLD」
-        歌：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+        歌：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 ## 评价
 

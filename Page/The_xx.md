@@ -1,14 +1,14 @@
 **The xx**（英文唸法：The
-"ex""ex"）是一個起於[英國](../Page/英國.md "wikilink")[倫敦西南](../Page/倫敦.md "wikilink")[旺茲沃思區並於](../Page/旺茲沃思區.md "wikilink")2005年組成的樂團。\[1\]
+"ex""ex"）是一個起於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦西南](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[旺茲沃思區並於](../Page/旺茲沃思區.md "wikilink")2005年組成的樂團。\[1\]
 
 團體裡原本的四個成員於 [Elliott
-School](../Page/Elliott_School_\(London\).md "wikilink") 相遇，此學校著名音乐界校友包含
-[Hot
-Chip](../Page/Hot_Chip.md "wikilink")，[Burial](../Page/Burial_\(musician\).md "wikilink")
-以及 [Four Tet](../Page/Four_Tet.md "wikilink") 。\[2\]
+School](https://zh.wikipedia.org/wiki/Elliott_School_\(London\) "wikilink")
+相遇，此學校著名音乐界校友包含 [Hot
+Chip](https://zh.wikipedia.org/wiki/Hot_Chip "wikilink")，[Burial](https://zh.wikipedia.org/wiki/Burial_\(musician\) "wikilink")
+以及 [Four Tet](https://zh.wikipedia.org/wiki/Four_Tet "wikilink") 。\[2\]
 
-他們曾經被列為英國音樂雜誌[新音樂快遞](../Page/新音樂快遞.md "wikilink") The Future 50 list
-中的第六名。\[3\]
+他們曾經被列為英國音樂雜誌[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink") The
+Future 50 list 中的第六名。\[3\]
 
 樂團的鍵盤手 Baria Qureshi
 在錯過幾次計畫中的表演後，於2009年11月11日確認離開樂團，最初報導說她是由於疲累的緣故，但樂隊之後解釋說這是他們因為“個人差異”而做出的決定。\[4\]
@@ -16,19 +16,24 @@ Chip](../Page/Hot_Chip.md "wikilink")，[Burial](../Page/Burial_\(musician\).md 
 
 ## *專輯 xx*
 
-他們的首張洒洒專輯 *[xx](../Page/xx_\(album\).md "wikilink")* 於2009年8月17日由 Young
-Turks 唱片公司發行\[6\]。 雖然樂團時常與 [Diplo](../Page/Diplo_\(DJ\).md "wikilink") 及
-[Kwes.](../Page/Micachu.md "wikilink") 合作\[7\]，*xx* 專輯還是由樂團本身成員製作\[8\]，由
-Jamie Smith 和 Rodaidh McDonald 混音。 \[9\]他們通常於夜晚在 XL 工作室的裡的一個小房間錄製專輯。
-樂團曾與 [The Big Pink](../Page/The_Big_Pink.md "wikilink") 及
-[Micachu](../Page/Micachu.md "wikilink") 巡迴演出。 他們的單曲 "Crystalised"
-曾於2009年8月18日被英國版本的 [iTunes](../Page/iTunes.md "wikilink") 載為本週單曲。
+他們的首張洒洒專輯 *[xx](https://zh.wikipedia.org/wiki/xx_\(album\) "wikilink")*
+於2009年8月17日由 Young Turks 唱片公司發行\[6\]。 雖然樂團時常與
+[Diplo](https://zh.wikipedia.org/wiki/Diplo_\(DJ\) "wikilink") 及
+[Kwes.](https://zh.wikipedia.org/wiki/Micachu "wikilink") 合作\[7\]，*xx*
+專輯還是由樂團本身成員製作\[8\]，由 Jamie Smith 和 Rodaidh McDonald 混音。
+\[9\]他們通常於夜晚在 XL 工作室的裡的一個小房間錄製專輯。 樂團曾與 [The Big
+Pink](https://zh.wikipedia.org/wiki/The_Big_Pink "wikilink") 及
+[Micachu](https://zh.wikipedia.org/wiki/Micachu "wikilink") 巡迴演出。 他們的單曲
+"Crystalised" 曾於2009年8月18日被英國版本的
+[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 載為本週單曲。
 本張專輯也獲得了2010年的[水星音樂獎](../Page/水星音樂獎.md "wikilink")。
 
 他們的歌曲 "Intro" 被用於影集《[铁证悬案](../Page/铁证悬案.md "wikilink")》（*Cold
-Case*）、《[疑犯追蹤](../Page/疑犯追蹤.md "wikilink")》（*Person of
-Interest*）以及《[律政風雲](../Page/律政風雲.md "wikilink")》（*Law & Order*）的廣告中，而歌曲
-"VCR" 曾被用於《[别对我撒谎](../Page/别对我撒谎.md "wikilink")》（*Lie to Me*）一集中。
+Case*）、《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》（*Person
+of
+Interest*）以及《[律政風雲](https://zh.wikipedia.org/wiki/律政風雲 "wikilink")》（*Law
+& Order*）的廣告中，而歌曲 "VCR" 曾被用於《[别对我撒谎](../Page/别对我撒谎.md "wikilink")》（*Lie
+to Me*）一集中。
 
 ## 作品
 
@@ -111,7 +116,7 @@ Interest*）以及《[律政風雲](../Page/律政風雲.md "wikilink")》（*La
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><em><a href="../Page/On_Hold.md" title="wikilink">On Hold</a></em></p>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/On_Hold" title="wikilink">On Hold</a></em></p>
 <ul>
 <li>發行日: 2016年11月10日[11]</li>
 </ul></td>
@@ -130,8 +135,8 @@ Interest*）以及《[律政風雲](../Page/律政風雲.md "wikilink")》（*La
 ### 客串
 
   - *[Kwesachu Mixtape Vol.1 by Kwes. &
-    Micachu](../Page/Kwesachu_Mixtape_Vol.1.md "wikilink")* (June 5
-    2009)
+    Micachu](https://zh.wikipedia.org/wiki/Kwesachu_Mixtape_Vol.1 "wikilink")*
+    (June 5 2009)
 
 ### Demos, covers, and remixes
 
@@ -140,8 +145,8 @@ Interest*）以及《[律政風雲](../Page/律政風雲.md "wikilink")》（*La
   - "Teardrops" (Bonus CD)
   - "Do You Mind" (Bonus CD)
   - [Florence and the
-    Machine](../Page/Florence_and_the_Machine.md "wikilink") - "You've
-    Got The Love" (The xx Remix)
+    Machine](https://zh.wikipedia.org/wiki/Florence_and_the_Machine "wikilink")
+    - "You've Got The Love" (The xx Remix)
   - "Space Bass" (Jamie xx's Basic Space remix)
 
 ## 參考文獻

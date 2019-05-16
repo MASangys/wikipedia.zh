@@ -1,5 +1,5 @@
 《**SUGAR DARK
-被埋葬的黑闇與少女**》（），是[日本](../Page/日本.md "wikilink")[作家](../Page/作家.md "wikilink")[新井円侍創作的](../Page/新井円侍.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[mebae負責插畫](../Page/mebae.md "wikilink")。於[角川書店](../Page/角川書店.md "wikilink")[The
+被埋葬的黑闇與少女**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[新井円侍創作的](https://zh.wikipedia.org/wiki/新井円侍 "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[mebae負責插畫](https://zh.wikipedia.org/wiki/mebae "wikilink")。於[角川書店](../Page/角川書店.md "wikilink")[The
 Sneaker](../Page/The_Sneaker.md "wikilink")2009年2月號開始連載，單行本全一卷。繁體中文版由[台灣角川發行](../Page/台灣角川.md "wikilink")；简体中文版由[天闻角川发行](../Page/天闻角川.md "wikilink")，[湖南美术出版社出版](../Page/湖南美术出版社.md "wikilink")，沿用台湾角川译本，因[中国大陆出版审查所限](../Page/中华人民共和国出版物审查制度.md "wikilink")，简中版将书名改为《**SUGAR
 DARK 被埋葬的-{黑暗}-**》。
 
@@ -15,20 +15,20 @@ DARK
 
   - 穆歐魯‧里德
     本作的男主角，16歲，囚犯5722號。
-    因冤罪被捕，被帶到共同靈園挖掘[墳墓](../Page/墳墓.md "wikilink")，並認識到梅麗亞(守墓者)和卡拉斯(KARASU)。被捕前是一名挖[戰壕的](../Page/戰壕.md "wikilink")[步兵](../Page/步兵.md "wikilink")，又稱『戰場[地鼠](../Page/地鼠屬.md "wikilink")』。
+    因冤罪被捕，被帶到共同靈園挖掘[墳墓](https://zh.wikipedia.org/wiki/墳墓 "wikilink")，並認識到梅麗亞(守墓者)和卡拉斯(KARASU)。被捕前是一名挖[戰壕的](https://zh.wikipedia.org/wiki/戰壕 "wikilink")[步兵](../Page/步兵.md "wikilink")，又稱『戰場[地鼠](https://zh.wikipedia.org/wiki/地鼠屬 "wikilink")』。
     死去的父親是名石匠，有兩名哥哥。
   - 梅麗亞‧瑪斯‧葛雷布
     本作的女主角，守墓者，14歲。
-    擁有茶褐色長頭髮，[湛藍的眼睛的少女](../Page/天藍色.md "wikilink")。總是穿著深[藏青色連帽外套](../Page/藏青色.md "wikilink")。
+    擁有茶褐色長頭髮，[湛藍的眼睛的少女](https://zh.wikipedia.org/wiki/天藍色 "wikilink")。總是穿著深[藏青色連帽外套](../Page/藏青色.md "wikilink")。
   - 卡拉斯
-    卡拉斯是[烏鴉](../Page/烏鴉.md "wikilink")（KARASU）的化名，性別不詳。經常能出奇不意地出現在主角面前，
+    卡拉斯是[烏鴉](https://zh.wikipedia.org/wiki/烏鴉 "wikilink")（KARASU）的化名，性別不詳。經常能出奇不意地出現在主角面前，
     把主角稱為「地鼠先生」，所以主角也以莫古拉(地鼠)自稱。
   - 達利貝多爾
     共同靈園的管理人。特徵是沒有鼻子。
   - 杜芬
     共同靈園的看守犬，負責看守囚犯，曾被瑪麗亞養育，十分優秀。是一隻黑狗。
   - 瑪麗亞
-    上一任的守墓者，十分愛謢梅麗亞，但因受不了痛苦，在[陽光下自殺](../Page/陽光.md "wikilink")。
+    上一任的守墓者，十分愛謢梅麗亞，但因受不了痛苦，在[陽光下自殺](https://zh.wikipedia.org/wiki/陽光 "wikilink")。
 
 ## 用語
 

@@ -10,7 +10,7 @@
 在无法与其他航空器或者管制单位建立通讯，以发布紧急求救信号时，可以重复打开关闭着陆灯／航行灯以示警告。
 
   - 生物学
-      - ***Pan***，[黑猩猩属](../Page/黑猩猩属.md "wikilink")
+      - ***Pan***，[黑猩猩属](https://zh.wikipedia.org/wiki/黑猩猩属 "wikilink")
   - 天文
       - **Pan**，[土卫十八](../Page/土卫十八.md "wikilink")
   - 化學
@@ -19,7 +19,7 @@
 ## 語言
 
   - 英文
-      - **Pan-**是一个英文[前缀](../Page/前缀.md "wikilink")，义为“全”、“大”、“泛”等，常译为“泛”，如“[泛神论](../Page/泛神论.md "wikilink")”
+      - **Pan-**是一个英文[前缀](https://zh.wikipedia.org/wiki/前缀 "wikilink")，义为“全”、“大”、“泛”等，常译为“泛”，如“[泛神论](https://zh.wikipedia.org/wiki/泛神论 "wikilink")”
       - **P**eroxy **A**cetyl
         **N**itrate：[过氧酰基硝酸酯](../Page/过氧酰基硝酸酯.md "wikilink")
       - **P**oly**a**crylo**n**itrile：[聚丙烯腈](../Page/聚丙烯腈.md "wikilink")
@@ -31,12 +31,12 @@
       - **P**ublication **A**pproval **N**umber： 出版許可號
       - **P**ersonal **A**rea **N**etwork：个人局域网
   - 西班牙文
-      - [墨西哥](../Page/墨西哥.md "wikilink")[國家行動黨](../Page/國家行動黨.md "wikilink")：**P**artido
+      - [墨西哥](../Page/墨西哥.md "wikilink")[國家行動黨](https://zh.wikipedia.org/wiki/國家行動黨 "wikilink")：**P**artido
         **A**cción **N**acional。
 
 ## 演藝
 
   - 音樂
-      - [羅曉彬](../Page/羅曉彬.md "wikilink")：[香港](../Page/香港.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")
+      - [羅曉彬](../Page/羅曉彬.md "wikilink")：[香港](../Page/香港.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")
   - 電影
-      - 2015年電影《[小飞侠：幻梦启航](../Page/小飞侠：幻梦启航.md "wikilink")》(Pan)
+      - 2015年電影《[小飞侠：幻梦启航](https://zh.wikipedia.org/wiki/小飞侠：幻梦启航 "wikilink")》(Pan)

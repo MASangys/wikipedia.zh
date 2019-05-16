@@ -1,7 +1,7 @@
 **BTX**（全称Balanced Technology
-Extended）是一种[主板规格](../Page/主機板規格比較.md "wikilink")，由[Intel于](../Page/Intel.md "wikilink")2004年提出，原本的目标是用以代替[ATX规格](../Page/ATX规格.md "wikilink")。它设计时考虑到了许多随着计算机技术的发展带来的问题，主要是雙核心和高電壓的趨勢帶來發熱問題，因为ATX规格早在1995年就制定了，比較難透過有限改動解決問題，所以BTX架構應運而生。
+Extended）是一种[主板规格](../Page/主機板規格比較.md "wikilink")，由[Intel于](https://zh.wikipedia.org/wiki/Intel "wikilink")2004年提出，原本的目标是用以代替[ATX规格](https://zh.wikipedia.org/wiki/ATX规格 "wikilink")。它设计时考虑到了许多随着计算机技术的发展带来的问题，主要是雙核心和高電壓的趨勢帶來發熱問題，因为ATX规格早在1995年就制定了，比較難透過有限改動解決問題，所以BTX架構應運而生。
 
-但是由于ATX架构已经广泛使用且後來CPU製程提升，發熱問題得到控制，提出一种代替它的方案会带来兼容性等问题，同時存在價值又不太高。所以Intel在2006年宣布放弃BTX规格的继续发展\[1\]。除了[戴爾等](../Page/戴爾.md "wikilink")[品牌電腦廠商曾採用BTX規格主機板推出](../Page/品牌電腦.md "wikilink")[桌上型電腦及](../Page/桌上型電腦.md "wikilink")[伺服器產品](../Page/伺服器.md "wikilink")，市面上幾乎難以見到BTX的主機板及[機殼](../Page/機殼.md "wikilink")。
+但是由于ATX架构已经广泛使用且後來CPU製程提升，發熱問題得到控制，提出一种代替它的方案会带来兼容性等问题，同時存在價值又不太高。所以Intel在2006年宣布放弃BTX规格的继续发展\[1\]。除了[戴爾等](../Page/戴爾.md "wikilink")[品牌電腦廠商曾採用BTX規格主機板推出](https://zh.wikipedia.org/wiki/品牌電腦 "wikilink")[桌上型電腦及](../Page/桌上型電腦.md "wikilink")[伺服器產品](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，市面上幾乎難以見到BTX的主機板及[機殼](https://zh.wikipedia.org/wiki/機殼 "wikilink")。
 
 BTX的電源接口為24腳比ATX多出4腳，但是接口有理論相容性，不少BTX主機板在多數情況下插入舊ATX電源還是可以開機，然而穩定性或其它方面問題也就不一而定。
 
@@ -13,7 +13,7 @@ BTX的電源接口為24腳比ATX多出4腳，但是接口有理論相容性，�
 
   - [Balanced Technology eXtended (BTX) Form Factor — The Future of
     Cases & Motherboards](http://www.anandtech.com/showdoc.aspx?i=1876)
-    from [AnandTech](../Page/AnandTech.md "wikilink")
+    from [AnandTech](https://zh.wikipedia.org/wiki/AnandTech "wikilink")
   - [Hardware Analysis' evaluation of the BTX
     proposal](http://www.hardwareanalysis.com/content/article/1773/)
   - [Anandtech's

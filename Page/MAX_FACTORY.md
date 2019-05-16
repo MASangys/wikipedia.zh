@@ -1,15 +1,16 @@
-**MAX FACTORY**（）為日本的[人形玩具設計和製作](../Page/人形.md "wikilink")（原型製作）公司。
+**MAX
+FACTORY**（）為日本的[人形玩具設計和製作](https://zh.wikipedia.org/wiki/人形 "wikilink")（原型製作）公司。
 
 ## 概要
 
 **MAX
-FACTORY**是的製造商，也是[figma的設計商](../Page/figma.md "wikilink")，figma是由[Good
+FACTORY**是的製造商，也是[figma的設計商](https://zh.wikipedia.org/wiki/figma "wikilink")，figma是由[Good
 Smile Company負責銷售的](../Page/Good_Smile_Company.md "wikilink")。
 
 ## 主要商品
 
   - 35MAX
-  - [figma](../Page/figma.md "wikilink")
+  - [figma](https://zh.wikipedia.org/wiki/figma "wikilink")
   - コピック
   - MAX合金
 
@@ -26,7 +27,7 @@ Smile Company負責銷售的](../Page/Good_Smile_Company.md "wikilink")。
 ## 參見
 
   - [Good Smile Company](../Page/Good_Smile_Company.md "wikilink")
-  - [figma](../Page/figma.md "wikilink")
+  - [figma](https://zh.wikipedia.org/wiki/figma "wikilink")
 
 ## 外部链接
 

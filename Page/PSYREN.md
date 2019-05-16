@@ -1,4 +1,4 @@
-《**-{zh-hans:PSYREN;zh-tw:PSYREN－決戰遊戲－;zh-hk:PSYREN－末日遊戲－}-**》是日本漫畫家[岩代俊明繼](../Page/岩代俊明.md "wikilink")《**[鬼眼人](../Page/鬼眼人.md "wikilink")**》後於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2008年1號開始連載的漫畫作品。已於2010年52號結束連載。
+《**-{zh-hans:PSYREN;zh-tw:PSYREN－決戰遊戲－;zh-hk:PSYREN－末日遊戲－}-**》是日本漫畫家[岩代俊明繼](https://zh.wikipedia.org/wiki/岩代俊明 "wikilink")《**[鬼眼人](https://zh.wikipedia.org/wiki/鬼眼人 "wikilink")**》後於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2008年1號開始連載的漫畫作品。已於2010年52號結束連載。
 
 故事中的主角，夜科揚羽是一個高中生，被怪人尼彌西斯Q選中參加PSYREN遊戲。遊戲進行的地方是一片荒原，事實上為十年後的世界。夜科揚羽與他的同伴試圖改變未來、拯救世界。
 
@@ -137,7 +137,7 @@ PSI能力的覺醒者，其五感、體能，都可以突飛猛進。肌肉力�
 
   -
     W.I.S.E的設立者，政府私下研究PSI的第2批實驗體通稱「格裏高利06號」。兩手刺青的青年。
-    PSI的能力是「[生命之樹](../Page/生命之樹.md "wikilink")（セフィロト）」，會發出樹狀的光，可以奪取他人生命力歸為己用。
+    PSI的能力是「[生命之樹](https://zh.wikipedia.org/wiki/生命之樹 "wikilink")（セフィロト）」，會發出樹狀的光，可以奪取他人生命力歸為己用。
 
 <!-- end list -->
 
@@ -202,7 +202,7 @@ PSI能力的覺醒者，其五感、體能，都可以突飛猛進。肌肉力�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 <td></td>
@@ -324,26 +324,26 @@ PSI能力的覺醒者，其五感、體能，都可以突飛猛進。肌肉力�
 
 ### 小說
 
-著者為[SOW](../Page/SOW.md "wikilink")。（JUMP j BOOKS）
+著者為[SOW](https://zh.wikipedia.org/wiki/SOW "wikilink")。（JUMP j BOOKS）
 
 1.  PSYREN another call 1 紅蓮の聖誕（2010年9月3日發售、ISBN 978-4-08-703231-4）
 2.  PSYREN another call 2 未来は君の手の中に（2011年3月4日發售、ISBN 978-4-08-703239-0）
 
 ## 有聲漫畫
 
-集英社的有聲漫畫「[VOMIC](../Page/VOMIC.md "wikilink")」，於2010年1月的Jump專門情報番組《》上進行放送，同年2月於VOMIC官方網站上配信中。
+集英社的有聲漫畫「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」，於2010年1月的Jump專門情報番組《》上進行放送，同年2月於VOMIC官方網站上配信中。
 
 ### 配音員
 
   - 夜科揚羽：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - 雨宮櫻子：[堀江由衣](../Page/堀江由衣.md "wikilink")
-  - 碓氷：[園部啓一](../Page/園部啓一.md "wikilink")
-  - 夜科吹雪：[關山美沙紀](../Page/關山美沙紀.md "wikilink")
-  - 坂口：[金光宣明](../Page/金光宣明.md "wikilink")
-  - ヒロキ：[中西英樹](../Page/中西英樹.md "wikilink")
-  - 倉木まどか：[堀口あすか](../Page/堀口あすか.md "wikilink")
-  - 奥村：[川野剛稔](../Page/川野剛稔.md "wikilink")
-  - 電話的人聲：[松来未祐](../Page/松来未祐.md "wikilink")
+  - 碓氷：[園部啓一](https://zh.wikipedia.org/wiki/園部啓一 "wikilink")
+  - 夜科吹雪：[關山美沙紀](https://zh.wikipedia.org/wiki/關山美沙紀 "wikilink")
+  - 坂口：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")
+  - ヒロキ：[中西英樹](https://zh.wikipedia.org/wiki/中西英樹 "wikilink")
+  - 倉木まどか：[堀口あすか](https://zh.wikipedia.org/wiki/堀口あすか "wikilink")
+  - 奥村：[川野剛稔](https://zh.wikipedia.org/wiki/川野剛稔 "wikilink")
+  - 電話的人聲：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")
 
 ## 參考資料
 

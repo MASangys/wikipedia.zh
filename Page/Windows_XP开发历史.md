@@ -30,7 +30,7 @@ XP的雏形。\[2\]\[3\]\[4\]
 
 从Build 2202开始，微软在之后的版本推出了一个全新的用户界面技术。这个界面当时叫做“Visual
 Style”，是基于与Stardock's
-WindowBlind相似的系统皮肤引擎。在这期间，微软还于2001年1月推出了“Professional”（之后被重命名为“Watercolor”）的主题，并开始了新的[开始菜单样式的开发](../Page/开始菜单.md "wikilink")。
+WindowBlind相似的系统皮肤引擎。在这期间，微软还于2001年1月推出了“Professional”（之后被重命名为“Watercolor”）的主题，并开始了新的[开始菜单样式的开发](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")。
 
   - Build 2250 (with a build tag of
     main.000628-2110)：于2000年7月13日在佛罗里达专业开发人员大会上释放给测试人员。是Whistler第一个提供给测试人员的版本。它紧密混合了Windows
@@ -53,19 +53,20 @@ WindowBlind相似的系统皮肤引擎。在这期间，微软还于2001年1月�
 
   - Build 2287 (with a build tag of beta1.001012-1640)：最后一个pre-Beta
     1释出的版本。它拥有重新设计的安装向导、“帮助与支持中心”（类似Windows
-    Me的样式）和一些用户界面的细微修改。它还是第一个使用[自动更新的版本](../Page/自动更新.md "wikilink")。
+    Me的样式）和一些用户界面的细微修改。它还是第一个使用[自动更新的版本](https://zh.wikipedia.org/wiki/自动更新 "wikilink")。
 
 <!-- end list -->
 
   - Build 2296 (Beta 1, with a build tag of
-    2296.beta1.001024-1157)：于2000年10月31日释出。在这个版本里，开始面板被新的较为简单的开始菜单取代，出现一个基于[MMC的任务板](../Page/MMC.md "wikilink")，使查找频繁使用的应用程序更加容易。它是第一个在[任务栏上采用分组类似项目](../Page/任务栏.md "wikilink")、隐藏系统托盘里不常使用的图标的版本。向后的兼容性也被添加到这个版本。快速用户切换开始启用。在这个开发阶段，2000年11月13日，微软宣布“Whistler”会被称作“Windows
+    2296.beta1.001024-1157)：于2000年10月31日释出。在这个版本里，开始面板被新的较为简单的开始菜单取代，出现一个基于[MMC的任务板](https://zh.wikipedia.org/wiki/MMC "wikilink")，使查找频繁使用的应用程序更加容易。它是第一个在[任务栏上采用分组类似项目](../Page/任务栏.md "wikilink")、隐藏系统托盘里不常使用的图标的版本。向后的兼容性也被添加到这个版本。快速用户切换开始启用。在这个开发阶段，2000年11月13日，微软宣布“Whistler”会被称作“Windows
     2001”。这个名称不久后被放弃。
 
 ## Pre-Beta 2和Beta 2
 
 从Beta 1发布后的许多版本里补充了多个变化。这些版本被称为“Beta 2”，虽然它们实际上只是Pre-Beta
 2版本。在这段时间，微软宣称他们没有发布新的主题的计划，用户可以创建他们自己的Visual
-Style的用户界面。从Build 2410开始，[回收站图标默认被移动到桌面的右下角](../Page/回收站.md "wikilink")。
+Style的用户界面。从Build
+2410开始，[回收站图标默认被移动到桌面的右下角](https://zh.wikipedia.org/wiki/回收站 "wikilink")。
 
   - Build 2410 (with a build tag of main.001208-1937 and
     idx02.001212-1507)：于2001年1月4日被发布给测试人员，它包含了若干个新的特性，例如：增强色彩的图标，重命名为“Watercolor”的一个主题，略为简化的开始菜单，一个新的用户界面皮肤的样本，为[Internet
@@ -73,10 +74,11 @@ Style的用户界面。从Build 2410开始，[回收站图标默认被移动到�
     6加入媒体和即时聊天工具条、[Outlook
     Express](../Page/Outlook_Express.md "wikilink") 6、[Windows Movie
     Maker](../Page/Windows_Movie_Maker.md "wikilink") 1.1、[MSN
-    Explorer](../Page/MSN_Explorer.md "wikilink") 1.1、[Windows Media
-    Player](../Page/Windows_Media_Player.md "wikilink") 8.0和[Internet
-    Information
-    Services](../Page/Internet_Information_Services.md "wikilink")
+    Explorer](https://zh.wikipedia.org/wiki/MSN_Explorer "wikilink")
+    1.1、[Windows Media
+    Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
+    8.0和[Internet Information
+    Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")
     5.1等的支持。
 
 <!-- end list -->
@@ -89,7 +91,7 @@ Style的用户界面。从Build 2410开始，[回收站图标默认被移动到�
   - Build 2416 (with a build tag of
     idx01.010104-1958)：于2001年1月16日被发布给测试人员。它拥有一个更有吸引力的帮助与支持中心，Windows
     Media Player
-    8对于MP3的支持，一个新的文件和设置转移向导，一个折叠型的开始菜单，新的显示设置和[系统还原](../Page/系统还原.md "wikilink")（与“系统属性”对话框合并）。
+    8对于MP3的支持，一个新的文件和设置转移向导，一个折叠型的开始菜单，新的显示设置和[系统还原](https://zh.wikipedia.org/wiki/系统还原 "wikilink")（与“系统属性”对话框合并）。
 
 <!-- end list -->
 
@@ -106,16 +108,16 @@ XP”。同日，技术人员收到了“Whistler”Build 2428和2432的私人�
 
 作为对外界批评微软没有能在Windows XP裡支持即将面世的[USB](../Page/USB.md "wikilink")
 2.0标准，微软于2000年4月23日向其用户发布了一封信，解释这一决定。“微软是USB
-2.0、[蓝牙以及其他无线连接标准](../Page/蓝牙.md "wikilink")，例如[IEEE
-802.11b的强烈支持者](../Page/IEEE_802.11b.md "wikilink")，和USB 1.0”，Carl
-Stork（WIndows硬件策略总管）写到，“我们已经并且将持续致力于为那些新标准在Windows
+2.0、[蓝牙以及其他无线连接标准](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")，例如[IEEE
+802.11b的强烈支持者](https://zh.wikipedia.org/wiki/IEEE_802.11b "wikilink")，和USB
+1.0”，Carl Stork（WIndows硬件策略总管）写到，“我们已经并且将持续致力于为那些新标准在Windows
 XP和其他几个操作系统产品中提供支持。USB
 2.0和蓝牙的支持问题只是时间问题。由于缺少达到能批量生产质量的设备，而且Windows
 XP必须要配合2001年假期上市的计算机，Windows XP不会对首批进入市生产的技术提供支持。微软的目标是在Windows
 XP首次发布之后不久，为USB2.0和蓝牙提供支持。”7月下旬之前，公司已经装载好USB 2.0的测试版的驱动程序。
 
   - Build 2469 (with a build tag of
-    idx02.010508-1228)：于2001年5月12日发布。主要的变化是网络和[网卡的](../Page/网卡.md "wikilink")[驱动程序被补充](../Page/驱动程序.md "wikilink")。这一版本还包含了家庭网络向导的微小更新，RAS代理连接向导，[即插即用支持和电源管理](../Page/即插即用.md "wikilink")；可靠性，启动时间，Windows
+    idx02.010508-1228)：于2001年5月12日发布。主要的变化是网络和[网卡的](../Page/网卡.md "wikilink")[驱动程序被补充](../Page/驱动程序.md "wikilink")。这一版本还包含了家庭网络向导的微小更新，RAS代理连接向导，[即插即用支持和电源管理](https://zh.wikipedia.org/wiki/即插即用 "wikilink")；可靠性，启动时间，Windows
     98/ME的升级；安全和文件夹服务；使用blank密码登陆本地账户；帮助系统，管理，远程桌面（远程协助）。
 
 <!-- end list -->
@@ -164,7 +166,7 @@ Allchin根据收到的用户反馈后说，“今天RC 1的发布更加坚定了
 
 ## Pre-RC 2和RC 2
 
-2001年7月7日，[Amazon.com在其网站上错误地贴出了Windows](../Page/Amazon.com.md "wikilink")
+2001年7月7日，[Amazon.com在其网站上错误地贴出了Windows](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")
 XP的销售网页，而且包含了它包装盒的图片。微软要求该公司删掉这个页面，Amazon.com同意删除，不过不久之后Windows
 XP被发布给制造商的前一天，Amazon.com再次犯了同样的错误。后来该网站还在Windows
 Vista正式发布之前泄露了销售价格。\[10\]

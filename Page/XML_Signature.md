@@ -1,8 +1,8 @@
 **XML
 Signature**（也称作*XMLDsig*，*XML-DSig*，*XML-Sig*）是一个定义[数字签名的](../Page/數位簽章.md "wikilink")[XML语法的](../Page/XML.md "wikilink")[W3C推荐标准](../Page/W3C推荐标准.md "wikilink")。从功能上或，XML
-Signature与[PKCS](../Page/公開金鑰密碼編譯標準.md "wikilink")\#7有很多共同点，但是XML签名具有更好的可扩展性，并为签名XML文档做了调整。XML
-Signature在许多[Web技术](../Page/万维网.md "wikilink")，如[SOAP](../Page/SOAP.md "wikilink"),
-[SAML等中使用](../Page/SAML.md "wikilink")。
+Signature与[PKCS](https://zh.wikipedia.org/wiki/公開金鑰密碼編譯標準 "wikilink")\#7有很多共同点，但是XML签名具有更好的可扩展性，并为签名XML文档做了调整。XML
+Signature在许多[Web技术](../Page/万维网.md "wikilink")，如[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink"),
+[SAML等中使用](https://zh.wikipedia.org/wiki/SAML "wikilink")。
 
 XML
 signature可以用来签名任何类型的数据（称作资源），最常见的是XML文档，但是任何可以通过[URL访问的资源都可以被签名](../Page/统一资源定位符.md "wikilink")。如果XML签名用于对包含该签名的XML文档之外的资源签名，则称为**detached**
@@ -56,7 +56,7 @@ signature;如果XML签名包含被签名的数据，则称为**enveloping** sign
 
 XML签名的产生要比通常的数字签名的产生复杂一点，这有由于一个给定的XML文档（在XML开发人员通用的说法是"[XML信息集](../Page/XML信息集.md "wikilink")"）可能包含合法的序列化的表达方式以外的内容。例如，在XML元素中的白空格从句法上说是没有意义的，因此<Elem >和<Elem>没有区别。
 
-由于数字签名是由[非对称密钥加密算法](../Page/公开密钥加密.md "wikilink")（通常是[RSA加密演算法](../Page/RSA加密演算法.md "wikilink")）对序列化的XML文档进行[散列](../Page/密码散列算法.md "wikilink")（通常是[SHA1](../Page/SHA家族.md "wikilink")）的结果进行加密。一个字节的差别会导致数字签名的不同。
+由于数字签名是由[非对称密钥加密算法](../Page/公开密钥加密.md "wikilink")（通常是[RSA加密演算法](../Page/RSA加密演算法.md "wikilink")）对序列化的XML文档进行[散列](https://zh.wikipedia.org/wiki/密码散列算法 "wikilink")（通常是[SHA1](../Page/SHA家族.md "wikilink")）的结果进行加密。一个字节的差别会导致数字签名的不同。
 
 此外，如果XML文档是在计算机间传输，不同操作系统的[換行符可能不同](../Page/換行.md "wikilink")，从CR到LF再到CR
 LF等。
@@ -71,14 +71,14 @@ Canonicalization*的规范化算法产生了，该算法在序列化一个元素
 
 与其他形式的数字签名，如[Pretty Good
 Privacy和](../Page/PGP.md "wikilink")[Cryptographic Message
-Syntax相比](../Page/Cryptographic_Message_Syntax.md "wikilink")，XML
-Signature更加灵活，这是因为它操作的不是[二进制数据](../Page/二进制文件.md "wikilink")，而是[XML信息集](../Page/XML信息集.md "wikilink")，允许操作数据的子集，可以以不同形式将签名与被签名的信息结合，以及可以执行转换。另一个核心概念是标准化，也就是说仅对“精华”进行签名，而排除了无意义的区别，如白空格和换行符。
+Syntax相比](https://zh.wikipedia.org/wiki/Cryptographic_Message_Syntax "wikilink")，XML
+Signature更加灵活，这是因为它操作的不是[二进制数据](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")，而是[XML信息集](../Page/XML信息集.md "wikilink")，允许操作数据的子集，可以以不同形式将签名与被签名的信息结合，以及可以执行转换。另一个核心概念是标准化，也就是说仅对“精华”进行签名，而排除了无意义的区别，如白空格和换行符。
 
 ## 缺点
 
 通常，批评都对准XML安全的体系结构\[2\]，以及在签名和加密XML数据前对XML进行规范化的适宜性，这是因为XML规范化的复杂性，内在的处理需求，以及性能不高的特性\[3\]
 \[4\]
-\[5\].争论在于执行XML标准化会导致额外的等待时间，这对事务的，性能敏感的[SOA应用来说简直难以克服](../Page/面向服务的架构.md "wikilink")。
+\[5\].争论在于执行XML标准化会导致额外的等待时间，这对事务的，性能敏感的[SOA应用来说简直难以克服](https://zh.wikipedia.org/wiki/面向服务的架构 "wikilink")。
 
 这些问题正在[XML安全工作组](http://www.w3.org/2008/xmlsec/)进行解决。 \[6\] \[7\]
 
@@ -87,9 +87,10 @@ Signature更加灵活，这是因为它操作的不是[二进制数据](../Page/
 ## 参见
 
   - [Canonical XML](../Page/Canonical_XML.md "wikilink")
-  - [XML Encryption](../Page/XML_Encryption.md "wikilink")
-  - [XAdES](../Page/XAdES.md "wikilink"), extensions to XML-DSig for use
-    with advanced electronic signature
+  - [XML
+    Encryption](https://zh.wikipedia.org/wiki/XML_Encryption "wikilink")
+  - [XAdES](https://zh.wikipedia.org/wiki/XAdES "wikilink"), extensions
+    to XML-DSig for use with advanced electronic signature
 
 ## 参考文献
 

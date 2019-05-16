@@ -244,32 +244,37 @@ Linux。但不论采用哪种运行模式，MiniGUI
   - Intel 采用 MiniGUI 开发家庭数字多媒体网关产品；
   - 联芯科技（大唐移动）采用 MiniGUI 作为商用 TD-SCDMA 手机的 MMI 方案；
   - 华为选择 MiniGUI 作为平台产品，用于机顶盒、手持终端等产品领域；
-  - [HappyLinux联想](../Page/HappyLinux.md "wikilink") HappyLinux 1.0发行版采用
-    MiniGUI 开发其安装程序。
+  - [HappyLinux联想](https://zh.wikipedia.org/wiki/HappyLinux "wikilink")
+    HappyLinux 1.0发行版采用 MiniGUI 开发其安装程序。
 
 ### MiniGUI 相关组件及产品
 
-  - [mStudio](../Page/mStudio.md "wikilink") 的中文全称为“飞漫可视化软件集成开发平台”，是面向
-    MiniGUI 3.0 的一款集成开发环境。mStudio 基于 Eclipse
+  - [mStudio](https://zh.wikipedia.org/wiki/mStudio "wikilink")
+    的中文全称为“飞漫可视化软件集成开发平台”，是面向 MiniGUI 3.0
+    的一款集成开发环境。mStudio 基于 Eclipse
     集成开发环境开发，并为用户提供了所见即所得的界面设计工具，可自动生成和维护
     MiniGUI 3.0 的应用程序框架，进行代码的编辑、编译、运行、调试，从而加快 MiniGUI 3.0 应用程序的开发，降低使用
     MiniGUI 的门槛。
-  - [mDolphin](../Page/mDolphin.md "wikilink") 是飞漫软件基于开源的浏览器核心 WebKit
-    开发的嵌入式浏览器产品，并使用 MiniGUI 作为其底层图形系统。mDolphin 的最新版本为 3.0。
-  - [mGi](../Page/mGi.md "wikilink") 是飞漫软件为 MiniGUI 1.6/2.0/3.0
+  - [mDolphin](https://zh.wikipedia.org/wiki/mDolphin "wikilink")
+    是飞漫软件基于开源的浏览器核心 WebKit 开发的嵌入式浏览器产品，并使用 MiniGUI
+    作为其底层图形系统。mDolphin 的最新版本为 3.0。
+  - [mGi](https://zh.wikipedia.org/wiki/mGi "wikilink") 是飞漫软件为 MiniGUI
+    1.6/2.0/3.0
     用户提供的一个输入法组件，该组件目前提供了软键盘输入法和手写输入法框架，并提供给用户管理输入法的容器，通过这个容器，用户还可以添加自定义的输入法。此外，对于软键盘输入法，用户可以自定义显示的键盘位图，并可添加不同的输入翻译方式（自带中文全拼输入法）。
-  - [mGp](../Page/mGp.md "wikilink") 是飞漫软件针对 MiniGUI 1.6/2.0/3.0
-    应用程序的一个打印组件，该组件使用户的 MiniGUI 程序具有打印输出功能，可以将 MiniGUI
+  - [mGp](https://zh.wikipedia.org/wiki/mGp "wikilink") 是飞漫软件针对 MiniGUI
+    1.6/2.0/3.0 应用程序的一个打印组件，该组件使用户的 MiniGUI 程序具有打印输出功能，可以将 MiniGUI
     程序中的位图或文字输出到打印机去。mGp 现已提供对爱普生和惠普等多种打印机的支持。
-  - [mG3d](../Page/mG3d.md "wikilink") 是一个为 MiniGUI 1.6/2.0/3.0
-    应用程序提供简单三维（3D）接口的组件，通过这些接口，用户可以给自己的应用程序添加三维图像、场景渲染等效果。
-  - [mGUtils](../Page/mGUtils.md "wikilink") 组件是在原 MiniGUI 2.0/1.6 的
-    MiniGUI 扩展库基础上发展而来。这个组件为应用程序提供了一些常见的窗口及对话框框实现，以简化应用程序代码。
-  - [mGPlus](../Page/mGPlus.md "wikilink") 组件是对 MiniGUI 3.0
+  - [mG3d](https://zh.wikipedia.org/wiki/mG3d "wikilink") 是一个为 MiniGUI
+    1.6/2.0/3.0 应用程序提供简单三维（3D）接口的组件，通过这些接口，用户可以给自己的应用程序添加三维图像、场景渲染等效果。
+  - [mGUtils](https://zh.wikipedia.org/wiki/mGUtils "wikilink") 组件是在原
+    MiniGUI 2.0/1.6 的 MiniGUI
+    扩展库基础上发展而来。这个组件为应用程序提供了一些常见的窗口及对话框框实现，以简化应用程序代码。
+  - [mGPlus](https://zh.wikipedia.org/wiki/mGPlus "wikilink") 组件是对
+    MiniGUI 3.0
     图形绘制接口的一个扩充和增强，主要提供对二维矢量图形和高级图形算法的支持，如路径、渐变填充和颜色组合等。mGPlus
     用来实现 MiniGUI 的 Fashion 外观渲染器，也用于 mDolphin 浏览器实现高级的图形功能，如 HTML 5 中的
     Canvas 标记、SVG 支持等。
-  - [mGEff](../Page/mGEff.md "wikilink") 组件提供常规的特效支持。
+  - [mGEff](https://zh.wikipedia.org/wiki/mGEff "wikilink") 组件提供常规的特效支持。
 
 ## 版本歷史
 

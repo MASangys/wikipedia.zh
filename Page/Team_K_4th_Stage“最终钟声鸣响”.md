@@ -3,7 +3,7 @@
 ## 概要
 
 AKB48 Team
-K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶」及使用了全组成员写真纸板的「16人姐妹之歌」的歌曲。之后也被使用为[SNH48的第一台公演](../Page/SNH48.md "wikilink")
+K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶」及使用了全组成员写真纸板的「16人姐妹之歌」的歌曲。之后也被使用为[SNH48的第一台公演](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
 
 ## 公演内容
 
@@ -59,7 +59,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
   - 公演期間：2008年5月31日 - 2009年4月4日
   - 出演成员
       -
-        [秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](../Page/大岛优子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](../Page/奥真奈美.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[成瀨理沙](../Page/成瀨理沙.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](../Page/早野薫.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](../Page/宫泽佐江.md "wikilink")
+        [秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](https://zh.wikipedia.org/wiki/大岛优子 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](https://zh.wikipedia.org/wiki/奥真奈美 "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[成瀨理沙](../Page/成瀨理沙.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](https://zh.wikipedia.org/wiki/早野薫 "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")
           -
             ※2009年3月26日公演后，[近野莉菜自研究生组升格至K组](../Page/近野莉菜.md "wikilink")，此后未出演。
   - 分组曲担当
@@ -78,7 +78,7 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
   - 公演期間：2013年1月12日、8月30日 - 11月11日
   - 出演成员
       -
-        [宫泽佐江](../Page/宫泽佐江.md "wikilink")、[铃木玛莉亚](../Page/铃木玛莉亚.md "wikilink")、[趙嘉敏](../Page/趙嘉敏.md "wikilink")、[董芷依](../Page/董芷依.md "wikilink")、[許佳琪](../Page/許佳琪.md "wikilink")、[湯敏](../Page/湯敏_\(SNH48\).md "wikilink")、[陳觀慧](../Page/陳觀慧.md "wikilink")、[陳思](../Page/陳思_\(SNH48\).md "wikilink")、[吳哲晗](../Page/吳哲晗.md "wikilink")、[顧香君](../Page/顧香君.md "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[徐晨辰](../Page/徐晨辰.md "wikilink")、[戴萌](../Page/戴萌.md "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[張語格](../Page/張語格.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[錢蓓婷](../Page/錢蓓婷.md "wikilink")、[丁紫妍](../Page/丁紫妍.md "wikilink")、[李宇琪](../Page/李宇琪.md "wikilink")、[何軼琛](../Page/何軼琛.md "wikilink")、[王費澌](../Page/王費澌.md "wikilink")、[陳麗](../Page/陳麗_\(SNH48\).md "wikilink")、[曾譽嘉](../Page/曾譽嘉.md "wikilink")、[蔣羽熙](../Page/蔣羽熙.md "wikilink")、[張馨方](../Page/張馨方.md "wikilink")、[俞慧文](../Page/俞慧文.md "wikilink")
+        [宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")、[趙嘉敏](../Page/趙嘉敏.md "wikilink")、[董芷依](https://zh.wikipedia.org/wiki/董芷依 "wikilink")、[許佳琪](https://zh.wikipedia.org/wiki/許佳琪 "wikilink")、[湯敏](https://zh.wikipedia.org/wiki/湯敏_\(SNH48\) "wikilink")、[陳觀慧](https://zh.wikipedia.org/wiki/陳觀慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思_\(SNH48\) "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[顧香君](https://zh.wikipedia.org/wiki/顧香君 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[張語格](https://zh.wikipedia.org/wiki/張語格 "wikilink")、[莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")、[錢蓓婷](https://zh.wikipedia.org/wiki/錢蓓婷 "wikilink")、[丁紫妍](https://zh.wikipedia.org/wiki/丁紫妍 "wikilink")、[李宇琪](https://zh.wikipedia.org/wiki/李宇琪 "wikilink")、[何軼琛](https://zh.wikipedia.org/wiki/何軼琛 "wikilink")、[王費澌](https://zh.wikipedia.org/wiki/王費澌 "wikilink")、[陳麗](https://zh.wikipedia.org/wiki/陳麗_\(SNH48\) "wikilink")、[曾譽嘉](https://zh.wikipedia.org/wiki/曾譽嘉 "wikilink")、[蔣羽熙](https://zh.wikipedia.org/wiki/蔣羽熙 "wikilink")、[張馨方](https://zh.wikipedia.org/wiki/張馨方 "wikilink")、[俞慧文](https://zh.wikipedia.org/wiki/俞慧文 "wikilink")
           -
             ※何軼琛在2013年5月2日辞退。王費澌在5月3日辞退。陳麗与曾譽嘉在8月18日辞退。蔣羽熙、張馨方与俞慧文的资料在8月18日从官网去除。以上成员只出演了披露公演。丁紫妍将在10月6日的毕业公演暨生诞祭后从组合毕业，由AKB48移籍的宫泽佐江与铃木玛莉亚两人因演艺用签证的问题，未能参加最开始的演出\[1\]，二人的首次剧场公演在10月11日进行。
   - 分组曲担当
@@ -105,9 +105,9 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 ## AKB48 Team K Waiting公演II「最終鐘聲鳴響」
 
   - 公演期間：2014年2月20日－2014年4月16日
-  - 出演成員：[阿部瑪利亞](../Page/阿部瑪利亞.md "wikilink")、[内田眞由美](../Page/内田眞由美.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[武藤十夢](../Page/武藤十夢.md "wikilink")
+  - 出演成員：[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[野澤玲奈](../Page/野澤玲奈.md "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[前田亞美](../Page/前田亞美.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team
-    K選秀生：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[下口緋奈奈](../Page/下口緋奈奈.md "wikilink")
+    K選秀生：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[下口緋奈奈](https://zh.wikipedia.org/wiki/下口緋奈奈 "wikilink")
 
 <!-- end list -->
 
@@ -137,9 +137,9 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 ## HKT48 Team H 3rd Stage「最終鐘聲鳴響」公演
 
   - 公演期間：2014年11月9日－
-  - 出演成員：[秋吉優花](../Page/秋吉優花.md "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](../Page/井上由莉耶.md "wikilink")、[宇井真白](../Page/宇井真白.md "wikilink")、[上野遥](../Page/上野遥.md "wikilink")、[梅本泉](../Page/梅本泉.md "wikilink")、[岡本尚子](../Page/岡本尚子.md "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](../Page/兒玉遥.md "wikilink")、[駒田京伽](../Page/駒田京伽.md "wikilink")、[坂口理子](../Page/坂口理子_\(HKT48\).md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[田中美久](../Page/田中美久.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[山田麻莉奈](../Page/山田麻莉奈.md "wikilink")、[山本茉央](../Page/山本茉央.md "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")
+  - 出演成員：[秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](https://zh.wikipedia.org/wiki/井上由莉耶 "wikilink")、[宇井真白](https://zh.wikipedia.org/wiki/宇井真白 "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[田中美久](https://zh.wikipedia.org/wiki/田中美久 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")、[山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")
   - 助演的Team
-    KIV成員：[伊藤来笑](../Page/伊藤来笑.md "wikilink")、[岡田栞奈](../Page/岡田栞奈.md "wikilink")、[後藤泉](../Page/後藤泉.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](../Page/田中優香.md "wikilink")、[深川舞子](../Page/深川舞子.md "wikilink")、[渕上舞](../Page/淵上舞_\(歌手\).md "wikilink")
+    KIV成員：[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[深川舞子](https://zh.wikipedia.org/wiki/深川舞子 "wikilink")、[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")
       -
         在2015年12月27日，举行了梅本泉的毕业公演。
   - 分组曲擔當
@@ -168,12 +168,12 @@ K的第4台剧场公演，包含有歌唱女同恋爱的「雄蕊雌蕊夜之蝶
 ## AKB48 Team K 4th Stage「最終鐘聲鳴響」复活公演
 
   - 公演期間：2015年11月30日－
-  - 出演成員：[相笠萌](../Page/相笠萌.md "wikilink")、[阿部瑪利亞](../Page/阿部瑪利亞.md "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](../Page/下口绯奈奈.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](../Page/武藤十夢.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[湯本亞美](../Page/湯本亞美.md "wikilink")
+  - 出演成員：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[高城亞樹](../Page/高城亞樹.md "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[湯本亞美](https://zh.wikipedia.org/wiki/湯本亞美 "wikilink")
   - Team
-    K選秀研究生：[野村奈央](../Page/野村奈央.md "wikilink")、[久保怜音](../Page/久保怜音.md "wikilink")
+    K選秀研究生：[野村奈央](https://zh.wikipedia.org/wiki/野村奈央 "wikilink")、[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")
   - 其他队伍的助演成员：Team A：[平田梨奈](../Page/平田梨奈.md "wikilink")、Team
-    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、Team
-    4：[飯野雅](../Page/飯野雅.md "wikilink")、[岩立沙穂](../Page/岩立沙穂.md "wikilink")
+    B：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、Team
+    4：[飯野雅](../Page/飯野雅.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")
       -
         松井珠理奈於2015年12月24日的送别公演后解除兼任。在2016年2月23日举行了高城亞樹的毕业公演，同年3月19日举行了永尾瑪利亞的毕业公演，同年5月17日将举行石田晴香的毕业公演。
 

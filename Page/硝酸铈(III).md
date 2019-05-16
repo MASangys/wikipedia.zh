@@ -36,4 +36,5 @@ nitrate）是一种无机化合物，以六水合物Ce(NO<sub>3</sub>)<sub>3</su
     Chemical Book. \[2018-2-14\]
 2.  龙志奇, 朱兆武, 崔大立,等.
     [碳酸氢铵沉淀法制备超细CeO<sub>2</sub>粉体工艺条件研究](http://xueshu.baidu.com/s?wd=paperuri%3A%2843146a9694033f0ffa3c8859cd6939f4%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-1579941175.html&ie=utf-8&sc_us=13370067456607770811)\[J\].
-    [稀土](../Page/稀土_\(期刊\).md "wikilink"), 2005, 26(5):4-8.
+    [稀土](https://zh.wikipedia.org/wiki/稀土_\(期刊\) "wikilink"), 2005,
+    26(5):4-8.

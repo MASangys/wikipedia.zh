@@ -1,7 +1,7 @@
 **Mac OS X v10.6 Snow
-Leopard**是由[蘋果公司所發布及販售的](../Page/蘋果公司.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，適用於[麥金塔電腦](../Page/麥金塔電腦.md "wikilink")，于2009年8月28日在全球上市，分为个人版和可供五人使用的家庭版。这是[Mac
+Leopard**是由[蘋果公司所發布及販售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，適用於[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")，于2009年8月28日在全球上市，分为个人版和可供五人使用的家庭版。这是[Mac
 OS
-X一个简单](../Page/Mac_OS_X.md "wikilink")、功能更强大完善的版本。它提供了大量的改进功能、新一代技术、内置的Microsoft
+X一个简单](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、功能更强大完善的版本。它提供了大量的改进功能、新一代技术、内置的Microsoft
 Exchange Serve 支持以及新辅助功能。
 
 本版本在[OS X Mavericks发布后](../Page/OS_X_Mavericks.md "wikilink")，仍继续发售光盘版本。
@@ -11,16 +11,17 @@ Exchange Serve 支持以及新辅助功能。
 ### 64位构架
 
 [Mac OS X
-v10.4在支持](../Page/Mac_OS_X_v10.4.md "wikilink")64位的机种上增加了有限的[64位应用程序支持](../Page/64位.md "wikilink")；[Mac
-OS X v10.5将](../Page/Mac_OS_X_v10.5.md "wikilink")64位应用程序支持扩展到了大多数Mac OS
-X的库和框架上。
+v10.4在支持](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")64位的机种上增加了有限的[64位应用程序支持](https://zh.wikipedia.org/wiki/64位 "wikilink")；[Mac
+OS X
+v10.5将](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")64位应用程序支持扩展到了大多数Mac
+OS X的库和框架上。
 
 Mac OS X
-10.6中，绝大多数内建的应用程序都已经重新编译以支持[x86-64](../Page/x86-64.md "wikilink")[架构](../Page/指令集架構.md "wikilink")（除了[iTunes](../Page/iTunes.md "wikilink")，[Front
-Row](../Page/Front_Row.md "wikilink")，[Grapher和](../Page/Grapher.md "wikilink")[DVD播放程式以外](../Page/DVD播放程式.md "wikilink")）\[1\]。利用[Mach-O的](../Page/Mach-O.md "wikilink")[通用二进制特性](../Page/通用二进制.md "wikilink")，这些程序在32位处理器上可以以32位模式运行，在64位处理器上则可以以64位模式运行，在加载时自动选择最合适的版本。同时，内核和内核扩展也可以使用通用二进制格式以同时支持两种构架。
+10.6中，绝大多数内建的应用程序都已经重新编译以支持[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[架构](../Page/指令集架構.md "wikilink")（除了[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，[Front
+Row](../Page/Front_Row.md "wikilink")，[Grapher和](https://zh.wikipedia.org/wiki/Grapher "wikilink")[DVD播放程式以外](https://zh.wikipedia.org/wiki/DVD播放程式 "wikilink")）\[1\]。利用[Mach-O的](../Page/Mach-O.md "wikilink")[通用二进制特性](../Page/通用二进制.md "wikilink")，这些程序在32位处理器上可以以32位模式运行，在64位处理器上则可以以64位模式运行，在加载时自动选择最合适的版本。同时，内核和内核扩展也可以使用通用二进制格式以同时支持两种构架。
 
 同时，为了可以在某些机种上以64位模式运行，Mac OS X
-[内核也进行了重新编译](../Page/内核.md "wikilink")。在不是默认运行64位模式的机种上，用户需要在启动时按住数字键6和4以使用64位内核\[2\]\[3\]，或更改com.apple.Boot.plist使得以默认64位内核方式启动。反之，在默认加载64位内核的情况下，可以在开机时按住数字键3和2以使用32位内核。64位内核只支持64位的[内核扩展](../Page/内核扩展.md "wikilink")，反之亦然；普通应用程序则无此限制，唯独32位程序只能使用4GB的内存空间\[4\]\[5\]
+[内核也进行了重新编译](../Page/内核.md "wikilink")。在不是默认运行64位模式的机种上，用户需要在启动时按住数字键6和4以使用64位内核\[2\]\[3\]，或更改com.apple.Boot.plist使得以默认64位内核方式启动。反之，在默认加载64位内核的情况下，可以在开机时按住数字键3和2以使用32位内核。64位内核只支持64位的[内核扩展](https://zh.wikipedia.org/wiki/内核扩展 "wikilink")，反之亦然；普通应用程序则无此限制，唯独32位程序只能使用4GB的内存空间\[4\]\[5\]
 。
 
 在10.6.0版系统上，只有下列机种可以开启64位内核功能：\[6\]\[7\]
@@ -40,29 +41,29 @@ Row](../Page/Front_Row.md "wikilink")，[Grapher和](../Page/Grapher.md "wikilin
 | Early 2009 Mac mini     | Macmini3,1    | 可开启     |
 
 Amit Singh与Allen Dunahoo声称early 2009 Mac Mini 和 Early 2009 MacBook 13"
-机型有可能可以开启64位内核。若使用[OnyX](../Page/OnyX.md "wikilink")，也可以让Unibody
+机型有可能可以开启64位内核。若使用[OnyX](https://zh.wikipedia.org/wiki/OnyX "wikilink")，也可以让Unibody
 MacBook使用64位内核\[8\]。
 
 ### Grand Central Dispatch
 
 [Grand Central
-Dispatch可以利用新的Mac上的](../Page/Grand_Central_Dispatch.md "wikilink")[多核处理器取得更好的性能](../Page/多核处理器.md "wikilink")。由于为多核CPU进行[程序优化的技术难度](../Page/程序优化.md "wikilink")，多数程序并没有有效的利用多核的特性\[9\]，因此，多核处理器的能力常常没有得到完全的应用。Grand
+Dispatch可以利用新的Mac上的](https://zh.wikipedia.org/wiki/Grand_Central_Dispatch "wikilink")[多核处理器取得更好的性能](https://zh.wikipedia.org/wiki/多核处理器 "wikilink")。由于为多核CPU进行[程序优化的技术难度](https://zh.wikipedia.org/wiki/程序优化 "wikilink")，多数程序并没有有效的利用多核的特性\[9\]，因此，多核处理器的能力常常没有得到完全的应用。Grand
 Central
-Dispatch包含一些可以帮助开发者有效的利用多核特性进行[并行计算的](../Page/并行计算.md "wikilink")[API](../Page/API.md "wikilink")。
+Dispatch包含一些可以帮助开发者有效的利用多核特性进行[并行计算的](../Page/并行计算.md "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 Grand Central
 Dispatch将线程编程的焦点移到了编程自身，而将开发者从原有的将任务平均分配到各个核上、清除无用线程使用的内存等繁琐过程中解放出来，使优化性能变得更为容易。Apple也给出了用于开发者编写的程序的Grand
 Central Dispatch API，也允许开发者分析Grand Central Dispatch程序中特定模块的性能。\[10\]
 
-一种称为「[块](../Page/块_\(C语言扩展\).md "wikilink")」（blocks）新的[C语言和](../Page/C语言.md "wikilink")[Objective-C语言特性使得开发者可以更简便的优化程序](../Page/Objective-C.md "wikilink")，以应用Grand
+一种称为「[块](../Page/块_\(C语言扩展\).md "wikilink")」（blocks）新的[C语言和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Objective-C语言特性使得开发者可以更简便的优化程序](../Page/Objective-C.md "wikilink")，以应用Grand
 Central Dispatch的优点。\[11\]\[12\]\[13\]
 
 ### OpenCL
 
-[OpenCL允许在任意程序中利用](../Page/OpenCL.md "wikilink")[GPU的运算能力](../Page/GPU.md "wikilink")，而不限于类似于3D游戏的偏重图形的程序。OpenCL自动的为Mac中的GPU种类而优化，并利用可用的运算能力。OpenCL提供了连续的数值精度，并修正了妨碍基于GPU编程的一个问题。\[14\]
+[OpenCL允许在任意程序中利用](../Page/OpenCL.md "wikilink")[GPU的运算能力](https://zh.wikipedia.org/wiki/GPU "wikilink")，而不限于类似于3D游戏的偏重图形的程序。OpenCL自动的为Mac中的GPU种类而优化，并利用可用的运算能力。OpenCL提供了连续的数值精度，并修正了妨碍基于GPU编程的一个问题。\[14\]
 
-OpenCL的目的与[Nvidia的C语言框架](../Page/Nvidia.md "wikilink")[CUDA以及](../Page/CUDA.md "wikilink")[微软的](../Page/微软.md "wikilink")[Direct3D
-11计算技术相似](../Page/Direct3D#Direct3D_11.md "wikilink")。
+OpenCL的目的与[Nvidia的C语言框架](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[CUDA以及](../Page/CUDA.md "wikilink")[微软的](../Page/微软.md "wikilink")[Direct3D
+11计算技术相似](https://zh.wikipedia.org/wiki/Direct3D#Direct3D_11 "wikilink")。
 
 OpenCL只能在下列GPU上工作： NVIDIA GeForce 320M, GT 330M, 9400M, 9600M GT, 8600M
 GT, GT 120, GT 130, GTX 285, 8800 GT, 8800 GS, Quadro FX 4800, FX 5600
@@ -72,15 +73,16 @@ and ATI Radeon HD 4670, HD 4850, HD 4870, HD 5670, HD 5750, HD 5770, HD
 ### CUPS
 
 [CUPS](../Page/CUPS.md "wikilink")
-（是在许多[类Unix系统上应用的打印系统](../Page/类Unix.md "wikilink")）被升级到了1.4版，提供了改进的驱动，网络，[Kerberos支持以及一些性能改进](../Page/Kerberos.md "wikilink")。CUPS
-1.4也是第一个支持[互联网列印协定](../Page/互联网列印协定.md "wikilink")2.1版的实现。\[16\]
+（是在许多[类Unix系统上应用的打印系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")）被升级到了1.4版，提供了改进的驱动，网络，[Kerberos支持以及一些性能改进](../Page/Kerberos.md "wikilink")。CUPS
+1.4也是第一个支持[互联网列印协定](https://zh.wikipedia.org/wiki/互联网列印协定 "wikilink")2.1版的实现。\[16\]
 
 ### 电源管理
 
-电源管理也有所改进，包含了支持了更多硬件[按需唤醒功能的实现](../Page/按需唤醒.md "wikilink")。\[17\]
+电源管理也有所改进，包含了支持了更多硬件[按需唤醒功能的实现](https://zh.wikipedia.org/wiki/按需唤醒 "wikilink")。\[17\]
 按需唤醒利用了一些在[AirPort与](../Page/AirPort.md "wikilink")[Time
-Capsule等路由设备](../Page/Time_Capsule.md "wikilink")[Sleep proxy
-service中实现的优点](../Page/Sleep_proxy_service.md "wikilink")，\[18\]因此计算机可以在路由器响应[mDNS请求时睡眠](../Page/mDNS.md "wikilink")。若请求需要唤醒主机，则路由会向睡眠的计算机发送必要的特殊[唤醒封包](../Page/网路唤醒#魔法封包.md "wikilink")\[19\]
+Capsule等路由设备](https://zh.wikipedia.org/wiki/Time_Capsule "wikilink")[Sleep
+proxy
+service中实现的优点](https://zh.wikipedia.org/wiki/Sleep_proxy_service "wikilink")，\[18\]因此计算机可以在路由器响应[mDNS请求时睡眠](https://zh.wikipedia.org/wiki/mDNS "wikilink")。若请求需要唤醒主机，则路由会向睡眠的计算机发送必要的特殊[唤醒封包](https://zh.wikipedia.org/wiki/网路唤醒#魔法封包 "wikilink")\[19\]
 。
 
 ## 發行版本
@@ -91,7 +93,7 @@ service中实现的优点](../Page/Sleep_proxy_service.md "wikilink")，\[18\]�
 <th><p>|版本</p></th>
 <th><p>|Build</p></th>
 <th><p>|日期</p></th>
-<th><p>|<a href="../Page/uname.md" title="wikilink">系统名称</a></p></th>
+<th><p>|<a href="https://zh.wikipedia.org/wiki/uname" title="wikilink">系统名称</a></p></th>
 <th><p>|备注</p></th>
 <th><p>|下载</p></th>
 </tr>
@@ -101,7 +103,7 @@ service中实现的优点](../Page/Sleep_proxy_service.md "wikilink")，\[18\]�
 <td><p>10.6</p></td>
 <td><p>10A432</p></td>
 <td><p>2009年8月28日</p></td>
-<td><p><a href="../Page/Apple_Darwin.md" title="wikilink">Darwin</a> 10.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_Darwin" title="wikilink">Darwin</a> 10.0</p></td>
 <td><p>第一個零售版本</p></td>
 <td><p>rowspan=2 </p></td>
 </tr>
@@ -229,4 +231,5 @@ service中实现的优点](../Page/Sleep_proxy_service.md "wikilink")，\[18\]�
 17.
 18.
 19. Note: The networking industry nomenclature for a wake-up-packet is
-    [Magic Packet](../Page/Wake-on-LAN#Magic_Packet.md "wikilink")
+    [Magic
+    Packet](https://zh.wikipedia.org/wiki/Wake-on-LAN#Magic_Packet "wikilink")

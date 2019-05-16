@@ -1,6 +1,6 @@
-**ZERO+**是[台灣的一個女子歌唱團體](../Page/台灣.md "wikilink")。起始成員有[邵庭](../Page/鄧少婷.md "wikilink")、[安娜](../Page/李宗望.md "wikilink")、[荷希](../Page/黃雅暄.md "wikilink")、[亞理](../Page/俞曉帆.md "wikilink")、[妍愷共計五位團員](../Page/許蓁蓁.md "wikilink")。首部作品是3D寫真書《嬉戲》附同名專輯單曲CD《Sha
+**ZERO+**是[台灣的一個女子歌唱團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")。起始成員有[邵庭](https://zh.wikipedia.org/wiki/鄧少婷 "wikilink")、[安娜](../Page/李宗望.md "wikilink")、[荷希](https://zh.wikipedia.org/wiki/黃雅暄 "wikilink")、[亞理](https://zh.wikipedia.org/wiki/俞曉帆 "wikilink")、[妍愷共計五位團員](https://zh.wikipedia.org/wiki/許蓁蓁 "wikilink")。首部作品是3D寫真書《嬉戲》附同名專輯單曲CD《Sha
 la la
-la》，在2010年8月加入“[以薰](../Page/王鈺馨.md "wikilink")”後成員變為6人。2010年底“[亞理](../Page/俞曉帆.md "wikilink")”因遠赴海外深造而離開，成員仍為5人。約在11月時再加入另一名新成員“[愛瑪](../Page/黃芝蓉.md "wikilink")”成員變為6人。之後又因“[邵庭](../Page/鄧少婷.md "wikilink")”個人工作較為繁忙，於2011年7月27日[衛視中文台的](../Page/衛視中文台.md "wikilink")[麻辣天后宮節目中說明已退出團體](../Page/麻辣天后宮.md "wikilink")，成員變回5人。同年10月5日再加入新成員[若穎](../Page/陳若穎.md "wikilink")。2011年6月發行第二部作品《女孩‧華麗冒險》EP+寫真日誌，及後成員只剩[安娜](../Page/李宗望.md "wikilink")、[愛瑪](../Page/黃芝蓉.md "wikilink")、[以薰](../Page/王鈺馨.md "wikilink")，因為各自發展的緣故，已於2014年初解散。
+la》，在2010年8月加入“[以薰](https://zh.wikipedia.org/wiki/王鈺馨 "wikilink")”後成員變為6人。2010年底“[亞理](https://zh.wikipedia.org/wiki/俞曉帆 "wikilink")”因遠赴海外深造而離開，成員仍為5人。約在11月時再加入另一名新成員“[愛瑪](https://zh.wikipedia.org/wiki/黃芝蓉 "wikilink")”成員變為6人。之後又因“[邵庭](https://zh.wikipedia.org/wiki/鄧少婷 "wikilink")”個人工作較為繁忙，於2011年7月27日[衛視中文台的](../Page/衛視中文台.md "wikilink")[麻辣天后宮節目中說明已退出團體](../Page/麻辣天后宮.md "wikilink")，成員變回5人。同年10月5日再加入新成員[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")。2011年6月發行第二部作品《女孩‧華麗冒險》EP+寫真日誌，及後成員只剩[安娜](../Page/李宗望.md "wikilink")、[愛瑪](https://zh.wikipedia.org/wiki/黃芝蓉 "wikilink")、[以薰](https://zh.wikipedia.org/wiki/王鈺馨 "wikilink")，因為各自發展的緣故，已於2014年初解散。
 
 ## 團名由來
 
@@ -28,14 +28,14 @@ PLUS）；中文團名取其諧音為《鄰家女孩》（零加女孩），強�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃芝蓉.md" title="wikilink">黃芝蓉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃芝蓉" title="wikilink">黃芝蓉</a></p></td>
 <td><p>愛瑪</p></td>
 <td><p>Emma</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王鈺馨.md" title="wikilink">王鈺馨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王鈺馨" title="wikilink">王鈺馨</a></p></td>
 <td><p>以薰</p></td>
 <td><p>Linna</p></td>
 <td></td>
@@ -70,28 +70,28 @@ PLUS）；中文團名取其諧音為《鄰家女孩》（零加女孩），強�
 <td><p>2011年退出</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃雅暄.md" title="wikilink">黃雅暄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃雅暄" title="wikilink">黃雅暄</a></p></td>
 <td><p>荷希</p></td>
 <td><p>Josefina</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/俞曉帆.md" title="wikilink">俞曉帆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俞曉帆" title="wikilink">俞曉帆</a></p></td>
 <td><p>亞理</p></td>
 <td><p>Winnie</p></td>
 <td></td>
 <td><p>2010年退出</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/許蓁蓁.md" title="wikilink">許蓁蓁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許蓁蓁" title="wikilink">許蓁蓁</a></p></td>
 <td><p>妍愷</p></td>
 <td><p>Jane</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳若穎.md" title="wikilink">陳若穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳若穎" title="wikilink">陳若穎</a></p></td>
 <td><p>若穎</p></td>
 <td><p>Haze</p></td>
 <td></td>
@@ -143,7 +143,7 @@ PLUS）；中文團名取其諧音為《鄰家女孩》（零加女孩），強�
 <td style="text-align: center;"><p>2014年至今</p></td>
 <td style="text-align: center;"><p><a href="../Page/MY_101綜合台.md" title="wikilink">MY 101綜合台</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td style="text-align: center;"><p>《<a href="../Page/電玩宅速配.md" title="wikilink">電玩宅速配</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="https://zh.wikipedia.org/wiki/電玩宅速配" title="wikilink">電玩宅速配</a>》</p></td>
 <td style="text-align: center;"><p>以薰<br />
 安娜<br />
 愛瑪</p></td>
@@ -176,70 +176,70 @@ PLUS）；中文團名取其諧音為《鄰家女孩》（零加女孩），強�
 <tr class="odd">
 <td style="text-align: center;"><p>2011年</p></td>
 <td style="text-align: center;"><p><a href="../Page/痞客邦.md" title="wikilink">痞客邦</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/網路偶像劇.md" title="wikilink">網路偶像劇</a>《<a href="../Page/四人三床.md" title="wikilink">四人三床</a>》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/網路偶像劇" title="wikilink">網路偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/四人三床" title="wikilink">四人三床</a>》</p></td>
 <td style="text-align: center;"><p>安娜飾演 小童</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-宅配男女》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-宅配男女》</p></td>
 <td style="text-align: center;"><p>安娜飾演 郁如</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-YO天使》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-YO天使》</p></td>
 <td style="text-align: center;"><p>妍愷飾演 曉婷</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-假面巧克力》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-假面巧克力》</p></td>
 <td style="text-align: center;"><p>以薰飾演 小啵</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-相戀無罪》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-相戀無罪》</p></td>
 <td style="text-align: center;"><p>愛瑪飾演 淑君</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-男賓止步》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-男賓止步》</p></td>
 <td style="text-align: center;"><p>安娜飾演 阿莫<br />
 以薰飾演 爐子<br />
 妍愷飾演 曉莉</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/超視.md" title="wikilink">超視</a></p></td>
-<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="../Page/33故事館.md" title="wikilink">33故事館</a>-幸福的條件》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/超視" title="wikilink">超視</a></p></td>
+<td style="text-align: center;"><p>單元<a href="../Page/偶像劇.md" title="wikilink">偶像劇</a>《<a href="https://zh.wikipedia.org/wiki/33故事館" title="wikilink">33故事館</a>-幸福的條件》</p></td>
 <td style="text-align: center;"><p>安娜飾演 小曼<br />
 以薰飾演 羅珊</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年</p></td>
-<td style="text-align: center;"><p><a href="../Page/台視主頻.md" title="wikilink">台視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台視主頻" title="wikilink">台視</a></p></td>
 <td style="text-align: center;"><p>偶像劇《<a href="../Page/勇士們_(電視劇).md" title="wikilink">勇士們</a>》</p></td>
 <td style="text-align: center;"><p>安娜飾演 李安娜</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2012年</p></td>
-<td style="text-align: center;"><p><a href="../Page/台視主頻.md" title="wikilink">台視</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台視主頻" title="wikilink">台視</a></p></td>
 <td style="text-align: center;"><p>八點檔《<a href="../Page/女人花_(2012年電視劇).md" title="wikilink">女人花</a>》</p></td>
 <td style="text-align: center;"><p>許蓁蓁飾演 Banana</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2016年</p></td>
-<td style="text-align: center;"><p><a href="../Page/台視主頻.md" title="wikilink">台視</a></p></td>
-<td style="text-align: center;"><p>八點檔《<a href="../Page/加油!美玲_(2016年電視劇).md" title="wikilink">加油!美玲</a>》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台視主頻" title="wikilink">台視</a></p></td>
+<td style="text-align: center;"><p>八點檔《<a href="https://zh.wikipedia.org/wiki/加油!美玲_(2016年電視劇)" title="wikilink">加油!美玲</a>》</p></td>
 <td style="text-align: center;"><p>許蓁蓁飾演 劉夢娟</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2017年</p></td>
-<td style="text-align: center;"><p><a href="../Page/台視主頻.md" title="wikilink">台視</a></p></td>
-<td style="text-align: center;"><p>八點檔《<a href="../Page/牡丹花開_(2017年電視劇).md" title="wikilink">牡丹花開</a>》</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台視主頻" title="wikilink">台視</a></p></td>
+<td style="text-align: center;"><p>八點檔《<a href="https://zh.wikipedia.org/wiki/牡丹花開_(2017年電視劇)" title="wikilink">牡丹花開</a>》</p></td>
 <td style="text-align: center;"><p>許蓁蓁飾演 秀秀</p></td>
 </tr>
 <tr class="even">

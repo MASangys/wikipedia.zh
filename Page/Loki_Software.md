@@ -1,6 +1,6 @@
 **Loki Software, Inc.**（有時也叫做**Loki Games**或**Loki Entertainment
-Software**）是一家位於[美國](../Page/美國.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[塔斯廷的軟體公司](../Page/塔斯廷.md "wikilink")。它致力於把一些電腦遊戲從Microsoft
-Windows平台移植到Linux平台上。它得名於[北歐神話的](../Page/北歐神話.md "wikilink")[洛基](../Page/洛基.md "wikilink")。\[1\]
+Software**）是一家位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[塔斯廷的軟體公司](../Page/塔斯廷.md "wikilink")。它致力於把一些電腦遊戲從Microsoft
+Windows平台移植到Linux平台上。它得名於[北歐神話的](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[洛基](../Page/洛基.md "wikilink")。\[1\]
 
 ## 歷史
 
@@ -16,9 +16,9 @@ Solitaire。\[3\]後兩年中，公司繼續移植更多遊戲到Linux。\[4\]
 ## 遺產
 
 Loki
-軟體公司，儘管在商業上失敗，但被認為是現代Linux遊戲工業之誕生。Loki開發了數個[自由軟體工具](../Page/自由軟體.md "wikilink")，如Loki安裝程式（也叫Loki
+軟體公司，儘管在商業上失敗，但被認為是現代Linux遊戲工業之誕生。Loki開發了數個[自由軟體工具](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，如Loki安裝程式（也叫Loki
 Setup）。它支援了Simple DirectMedia
-Layer的開發。它還發起了[OpenAL音頻庫項目](../Page/OpenAL.md "wikilink")（現在由[創新科技和](../Page/創新科技.md "wikilink")[蘋果公司運行](../Page/蘋果公司.md "wikilink")）。這被讚譽為Linux遊戲開發之基石。
+Layer的開發。它還發起了[OpenAL音頻庫項目](../Page/OpenAL.md "wikilink")（現在由[創新科技和](https://zh.wikipedia.org/wiki/創新科技 "wikilink")[蘋果公司運行](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）。這被讚譽為Linux遊戲開發之基石。
 
 Loki軟體公司與John R所著書籍[Programming Linux
 Games](https://web.archive.org/web/20090720071431/http://www.nostarch.com/frameset.php?startat=plg)（[在互聯網檔案館線查看](https://web.archive.org/web/20030210191202/http://www.overcode.net/~overcode/writing/plg/)）被認為是Simple
@@ -34,55 +34,60 @@ Lantinga之後也加入了[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")。
 
 儘管從Loki倒閉之後很多Loki移植的遊戲被停止支援，Linux Game Publishing設法pick up the rights to
 MindRover和提供一些支援和Linux遊戲移植版本的更新。[id
-Software](../Page/id_Software.md "wikilink") 重新開始對Quake III Arena
-Linux版本釋出的支援\[9\]，僱傭Timothee
-Besset來維護它；他想以後負責移植一些id的產品到Linux。\[10\]Running
-with Scissors仍然在網站上出售原始Loki移植的Postal 。\[11\]\[12\]\[13\]軟體承包人Frank C.
-Earl要求持有完整的Myth系列移植權利，他說他將移植它到Linux。\[14\]\[15\]loki installers for
-linux gamers也提供對於很多Loki遊戲的安裝包，幫助這些遊戲更好地在現代操作系統上運行。
+Software](https://zh.wikipedia.org/wiki/id_Software "wikilink")
+重新開始對Quake III Arena Linux版本釋出的支援\[9\]，僱傭Timothee
+Besset來維護它；他想以後負責移植一些id的產品到Linux。\[10\]Running with
+Scissors仍然在網站上出售原始Loki移植的Postal 。\[11\]\[12\]\[13\]軟體承包人Frank C.
+Earl要求持有完整的Myth系列移植權利，他說他將移植它到Linux。\[14\]\[15\]loki installers
+for linux gamers也提供對於很多Loki遊戲的安裝包，幫助這些遊戲更好地在現代操作系統上運行。
 
 ## 發布的遊戲
 
   - [Civilization: Call to
-    Power](../Page/Civilization:_Call_to_Power.md "wikilink")
-  - [Descent³](../Page/Descent³.md "wikilink")
-      - [Descent³: Mercenary](../Page/Descent³.md "wikilink")
+    Power](https://zh.wikipedia.org/wiki/Civilization:_Call_to_Power "wikilink")
+  - [Descent³](https://zh.wikipedia.org/wiki/Descent³ "wikilink")
+      - [Descent³:
+        Mercenary](https://zh.wikipedia.org/wiki/Descent³ "wikilink")
         (expansion, as downloadable installer only)
   - [Eric's Ultimate
-    Solitaire](../Page/Eric's_Ultimate_Solitaire.md "wikilink")
-  - [Heavy Gear II](../Page/Heavy_Gear.md "wikilink")
+    Solitaire](https://zh.wikipedia.org/wiki/Eric's_Ultimate_Solitaire "wikilink")
+  - [Heavy Gear II](https://zh.wikipedia.org/wiki/Heavy_Gear "wikilink")
   - [Heavy Metal:
-    F.A.K.K.²](../Page/Heavy_Metal:_F.A.K.K.².md "wikilink")
-  - [Heretic II](../Page/Heretic_II.md "wikilink")
-  - [魔法门之英雄无敌III](../Page/魔法门之英雄无敌III.md "wikilink")
+    F.A.K.K.²](https://zh.wikipedia.org/wiki/Heavy_Metal:_F.A.K.K.² "wikilink")
+  - [Heretic II](https://zh.wikipedia.org/wiki/Heretic_II "wikilink")
+  - [魔法门之英雄无敌III](https://zh.wikipedia.org/wiki/魔法门之英雄无敌III "wikilink")
   - [Kohan: Immortal
-    Sovereigns](../Page/Kohan:_Immortal_Sovereigns.md "wikilink")
-  - [Myth II: Soulblighter](../Page/Myth_II:_Soulblighter.md "wikilink")
-  - [Postal Plus](../Page/Postal_\(computer_game\).md "wikilink")
+    Sovereigns](https://zh.wikipedia.org/wiki/Kohan:_Immortal_Sovereigns "wikilink")
+  - [Myth II:
+    Soulblighter](https://zh.wikipedia.org/wiki/Myth_II:_Soulblighter "wikilink")
+  - [Postal
+    Plus](https://zh.wikipedia.org/wiki/Postal_\(computer_game\) "wikilink")
   - [铁路大亨II](../Page/铁路大亨II.md "wikilink")
   - [雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")
-  - [Rune](../Page/Rune_\(computer_game\).md "wikilink")
+  - [Rune](https://zh.wikipedia.org/wiki/Rune_\(computer_game\) "wikilink")
       - [Rune: Halls of
-        Valhalla](../Page/Rune:_Halls_of_Valhalla.md "wikilink")
+        Valhalla](https://zh.wikipedia.org/wiki/Rune:_Halls_of_Valhalla "wikilink")
         (expansion)
   - [Sid Meier's Alpha Centauri Planetary
-    Pack](../Page/Sid_Meier's_Alpha_Centauri.md "wikilink")
+    Pack](https://zh.wikipedia.org/wiki/Sid_Meier's_Alpha_Centauri "wikilink")
   - [模拟城市3000](../Page/模拟城市3000.md "wikilink")
   - [命运战士](../Page/命运战士.md "wikilink")
   - [部落2](../Page/部落2.md "wikilink")
   - [魔域幻境之浴血戰場](../Page/魔域幻境之浴血戰場.md "wikilink") (as downloadable
     installer only)
-  - [MindRover](../Page/MindRover.md "wikilink")
+  - [MindRover](https://zh.wikipedia.org/wiki/MindRover "wikilink")
 
 另外，也有一個對Deus Ex. 未完成的移植。來自Loki軟體Linux移植的Unreal engine的OpenGL
 driver對之後的Microsoft Windows版本Deus Ex更新起重要作用。
 
 ## 參見
 
-  - [Ryan C. Gordon](../Page/Ryan_C._Gordon.md "wikilink")
-  - [Linux Game Publishing](../Page/Linux_Game_Publishing.md "wikilink")
+  - [Ryan C.
+    Gordon](https://zh.wikipedia.org/wiki/Ryan_C._Gordon "wikilink")
+  - [Linux Game
+    Publishing](https://zh.wikipedia.org/wiki/Linux_Game_Publishing "wikilink")
   - [loki installers for linux
-    gamers](../Page/loki_installers_for_linux_gamers.md "wikilink")
+    gamers](https://zh.wikipedia.org/wiki/loki_installers_for_linux_gamers "wikilink")
 
 ## 參考鏈接
 
@@ -114,7 +119,8 @@ driver對之後的Microsoft Windows版本Deus Ex更新起重要作用。
     IDG News Service, May 18, 1999
 4.  [Loki
     Retrospective](https://web.archive.org/web/20010820024435/http://www.linuxgames.com/articles/lokiretro/)
-    [LinuxGames](../Page/LinuxGames.md "wikilink"), August 13, 2001
+    [LinuxGames](https://zh.wikipedia.org/wiki/LinuxGames "wikilink"),
+    August 13, 2001
 5.  [Loki: A promising plan gone terribly
     wrong](https://web.archive.org/web/20020418225227/http://www.linuxandmain.com/features/lokistory.html)
 6.  <http://www.icculus.org/news/news.php?id=209>
@@ -129,7 +135,8 @@ driver對之後的Microsoft Windows版本Deus Ex更新起重要作用。
     2001
 10. [Interview with id Software's Timothee
     Besset](https://web.archive.org/web/20040924113843/http://www.linuxgames.com/?dataloc=articles%2Fttimo%2F)
-    [LinuxGames](../Page/LinuxGames.md "wikilink"), August 22, 2004
+    [LinuxGames](https://zh.wikipedia.org/wiki/LinuxGames "wikilink"),
+    August 22, 2004
 11. [POSTAL: Classic and Uncut LINUX
     Download](http://store03.prostores.com/servlet/runningwithscissors/the-23/POSTAL-cln--Classic-and-Uncut/Detail)
      Running with Scissors Store

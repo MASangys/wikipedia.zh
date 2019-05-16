@@ -7,7 +7,7 @@ way**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wik
   - 出道專輯能夠大賣，是在日本音樂界少見現象，當然也有很大原因都歸功於「[Love, Day After
     Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」、「[Secret
     of my
-    heart](../Page/Secret_of_my_heart.md "wikilink")」等[單曲的成功](../Page/單曲.md "wikilink")。
+    heart](https://zh.wikipedia.org/wiki/Secret_of_my_heart "wikilink")」等[單曲的成功](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
   - 自[宇多田光以來首位出道單曲與專輯都各達百萬的歌手](../Page/宇多田光.md "wikilink")，下一位達成此紀錄的歌手為[化學超男子](../Page/化學超男子.md "wikilink")。
   - 為配合此專輯在[中國的發行](../Page/中國.md "wikilink")，倉木麻衣以中文重新演唱了出道單曲「Love, Day
     After Tomorrow」作為特別曲目收錄於中國版的CD與卡帶中。
@@ -17,7 +17,7 @@ way**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wik
   - 2000年[Oricon公信榜年間](../Page/Oricon公信榜.md "wikilink")1位（當時345萬張）
   - 歷代專輯銷量10位（353萬張）
   - 歷代出道專輯銷量3位（僅次[宇多田光的](../Page/宇多田光.md "wikilink")「[First
-    Love](../Page/First_Love.md "wikilink")」與[globe的同名專輯](../Page/globe.md "wikilink")）
+    Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")」與[globe的同名專輯](https://zh.wikipedia.org/wiki/globe "wikilink")）
   - 歷代專輯初動銷量6位（221萬張）
   - 歷代出道專輯初動銷量1位
 

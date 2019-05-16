@@ -1,5 +1,5 @@
 **Estatic
-Fear**（该名称的第一个字是*[ecstatic](../Page/wiktionary:ecstatic.md "wikilink")*，**狂喜**和*[esthetic](../Page/wiktionary:aesthetic.md "wikilink")*，**美学**的合成词）是一支来自[奥地利的](../Page/奥地利.md "wikilink")[交响金属乐队](../Page/交响金属.md "wikilink")。他们的作品涵盖了多种不同音乐风格的元素，例如[古典音乐](../Page/古典音乐.md "wikilink")、[厄运金属](../Page/厄运金属.md "wikilink")、[哥特金属](../Page/哥特金属.md "wikilink")、[黑金属和](../Page/黑金属.md "wikilink")[民谣音乐](../Page/民谣音乐.md "wikilink")。
+Fear**（该名称的第一个字是*[ecstatic](https://zh.wikipedia.org/wiki/wiktionary:ecstatic "wikilink")*，**狂喜**和*[esthetic](https://zh.wikipedia.org/wiki/wiktionary:aesthetic "wikilink")*，**美学**的合成词）是一支来自[奥地利的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[交响金属乐队](https://zh.wikipedia.org/wiki/交响金属 "wikilink")。他们的作品涵盖了多种不同音乐风格的元素，例如[古典音乐](../Page/古典音乐.md "wikilink")、[厄运金属](https://zh.wikipedia.org/wiki/厄运金属 "wikilink")、[哥特金属](../Page/哥特金属.md "wikilink")、[黑金属和](https://zh.wikipedia.org/wiki/黑金属 "wikilink")[民谣音乐](https://zh.wikipedia.org/wiki/民谣音乐 "wikilink")。
 
 ## 历史
 
@@ -40,9 +40,9 @@ Fear**（该名称的第一个字是*[ecstatic](../Page/wiktionary:ecstatic.md "
 ` 10.Chapter IX 　`
 
   - '' Estatic
-    Fear的作品同时也出现在奥地利异教金属[Hrossharsgrani的专辑](../Page/Hrossharsgrani.md "wikilink")
-    [Schattenkrieger](../Page/Schattenkrieger.md "wikilink")(2002, CCP
-    Records)中：
+    Fear的作品同时也出现在奥地利异教金属[Hrossharsgrani的专辑](https://zh.wikipedia.org/wiki/Hrossharsgrani "wikilink")
+    [Schattenkrieger](https://zh.wikipedia.org/wiki/Schattenkrieger "wikilink")(2002,
+    CCP Records)中：
 
 (13) Sechster Schattenzyklus (14) Wenn Winters Sang und Klang
 Verstummt;lpl

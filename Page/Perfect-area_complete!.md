@@ -7,10 +7,10 @@
 
 1.  **Perfect-area complete\!** \[4:03\]
       - 作詞 ：
-        [畑亜貴](../Page/畑亜貴.md "wikilink")、作曲、編曲：[前山田健一](../Page/前山田健一.md "wikilink")
+        [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")、作曲、編曲：[前山田健一](../Page/前山田健一.md "wikilink")
       - 電視動畫《[笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")》主題歌
 2.  **Dream into action\!** \[4:05\]
-      - 作詞：[こだまさおり](../Page/こだまさおり.md "wikilink")
+      - 作詞：[こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink")
         、作曲：[前山田健一](../Page/前山田健一.md "wikilink")、編曲：A-bee
 3.  **Perfect-area complete\!** （Instrumental）
 4.  **Dream into action\!**（Instrumental）

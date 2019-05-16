@@ -1,26 +1,26 @@
-《**Gift**》是[坂本真綾的第二張單曲](../Page/坂本真綾.md "wikilink")。
+《**Gift**》是[坂本真綾的第二張單曲](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")。
 
 ## 作品簡介
 
   - 坂本所唱的「」（收錄於Soundtrack CD『「CLAMP學園偵探團」MINI SOUND
-    TRACK』）被廣播劇『[CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")』起用為主題曲，也因此決定用坂本的歌來當作電視動畫版的主題曲。\[1\]
+    TRACK』）被廣播劇『[CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")』起用為主題曲，也因此決定用坂本的歌來當作電視動畫版的主題曲。\[1\]
   - 為原創單曲中唯一沒有進[Oricon排行榜的單曲](../Page/Oricon.md "wikilink")。
   - 2010年3月31日坂本真綾15周年紀念演唱會便以「Gift」當作演唱會的名稱，並以此曲當作開場曲目。\[2\]
 
 ## 收錄曲
 
-（全作詞 - [岩里祐穗](../Page/岩里祐穗.md "wikilink") / 作曲・編曲 -
+（全作詞 - [岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink") / 作曲・編曲 -
 [菅野洋子](../Page/菅野洋子.md "wikilink")）
 
 1.  **Gift**
-      - 電視動畫『[CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")』的片頭曲。
+      - 電視動畫『[CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")』的片頭曲。
 2.  ****
 3.  **Gift（）**
 4.  ****
 
 ## 關聯項目
 
-  - [CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")
+  - [CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")
   - [菅野洋子](../Page/菅野洋子.md "wikilink")
 
 ## 註解

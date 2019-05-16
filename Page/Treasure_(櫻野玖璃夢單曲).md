@@ -1,4 +1,4 @@
-**Treasure**（）是於2009年11月11日發行的[單曲](../Page/單曲.md "wikilink")，也是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[學生會的一己之見](../Page/碧陽學園學生會議事錄.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。由櫻野玖璃夢主唱。
+**Treasure**（）是於2009年11月11日發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[學生會的一己之見](../Page/碧陽學園學生會議事錄.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。由櫻野玖璃夢主唱。
 
 ## 收錄曲
 
@@ -10,7 +10,8 @@
 2.  絶対会長宣言！
       -
         歌:櫻野玖璃夢（本多真梨子）
-        作詞:橋本由香利 / 作曲・編曲:[STAY](../Page/STAY.md "wikilink")
+        作詞:橋本由香利 /
+        作曲・編曲:[STAY](https://zh.wikipedia.org/wiki/STAY "wikilink")
 3.  Treasure 〜KARAOKE MIX〜
 4.  絶対会長宣言！ 〜KARAOKE MIX〜
 

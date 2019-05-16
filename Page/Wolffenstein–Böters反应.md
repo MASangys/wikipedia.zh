@@ -4,12 +4,12 @@
 
 
 [WolfensteinBotersreaction.svg](https://zh.wikipedia.org/wiki/File:WolfensteinBotersreaction.svg "fig:WolfensteinBotersreaction.svg")
-研究显示反应中硝酸汞先与苯作用产生相应的[亚硝基化合物](../Page/亚硝基.md "wikilink")，从此相继进一步转变为[重氮盐和](../Page/重氮盐.md "wikilink")[苯酚](../Page/苯酚.md "wikilink")，并最后发生芳香[硝化](../Page/硝化.md "wikilink")，得苦味酸。
-[亚硝酸根离子是反应的必需中间体](../Page/亚硝酸根.md "wikilink")，如果用[尿素捕获反应中的亚硝酸则反应后将无苦味酸生成](../Page/尿素.md "wikilink")。\[4\]\[5\]
+研究显示反应中硝酸汞先与苯作用产生相应的[亚硝基化合物](https://zh.wikipedia.org/wiki/亚硝基 "wikilink")，从此相继进一步转变为[重氮盐和](../Page/重氮盐.md "wikilink")[苯酚](../Page/苯酚.md "wikilink")，并最后发生芳香[硝化](https://zh.wikipedia.org/wiki/硝化 "wikilink")，得苦味酸。
+[亚硝酸根离子是反应的必需中间体](https://zh.wikipedia.org/wiki/亚硝酸根 "wikilink")，如果用[尿素捕获反应中的亚硝酸则反应后将无苦味酸生成](../Page/尿素.md "wikilink")。\[4\]\[5\]
 
 ## 参见
 
-  - [Bohn-Schmidt反应](../Page/Bohn-Schmidt反应.md "wikilink")
+  - [Bohn-Schmidt反应](https://zh.wikipedia.org/wiki/Bohn-Schmidt反应 "wikilink")
     (1889)：羟基[蒽醌与硫酸和铅或硒作用](../Page/蒽醌.md "wikilink")，得到多羟基取代的蒽醌。
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
@@ -37,10 +37,10 @@
 3.
 4.  *The Mechanism of the Oxynitration of Benzene* F. H. Westheimer,
     Edward Segel, and Richard Schramm [J. Am. Chem.
-    Soc.](../Page/J._Am._Chem._Soc..md "wikilink"); **1947**; 69(4) pp
-    773 - 785;
+    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink");
+    **1947**; 69(4) pp 773 - 785;
 5.  *The Oxynitration of Benzene. I. Studies Relating to the Reaction
     Mechanisms*Marvin Carmack, Manuel M. Baizer, G. Richard Handrick, L.
     W. Kissinger, and Edward H. Specht [J. Am. Chem.
-    Soc.](../Page/J._Am._Chem._Soc..md "wikilink"); **1947**; 69(4) pp
-    785 - 790;
+    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink");
+    **1947**; 69(4) pp 785 - 790;

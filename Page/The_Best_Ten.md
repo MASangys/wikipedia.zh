@@ -13,10 +13,10 @@ Ten》的音樂排行榜在1980年代是日本一個最受歡迎和大眾最關�
 綜合排行榜以以下四種數據的排名，進行點算換算，然後得出最終綜合點數。
 
   - 唱片銷售量（使用[Oricon](../Page/Oricon公信榜.md "wikilink")、[Music
-    Lab](../Page/Music_Lab.md "wikilink")、[Music
-    Research三社提供的數據](../Page/Music_Research.md "wikilink")）
-  - 有線電視播放量（使用[全國有線音樂放送協會提供的數據](../Page/全國有線音樂放送協會.md "wikilink")）
-  - 廣播播放量（使用[JRN系列提供的數據](../Page/JRN.md "wikilink")）
+    Lab](https://zh.wikipedia.org/wiki/Music_Lab "wikilink")、[Music
+    Research三社提供的數據](https://zh.wikipedia.org/wiki/Music_Research "wikilink")）
+  - 有線電視播放量（使用[全國有線音樂放送協會提供的數據](https://zh.wikipedia.org/wiki/全國有線音樂放送協會 "wikilink")）
+  - 廣播播放量（使用[JRN系列提供的數據](https://zh.wikipedia.org/wiki/JRN "wikilink")）
   - 觀眾寄給節目的點播卡片（相當於觀眾投票）
 
 四種數據都是使用排名數字，即不管大小如何，排名數字一樣的話，基數也是一樣。把每種數據的前30名統計，第1名30點，第2名29點……如此類推，第30名1點。
@@ -73,7 +73,7 @@ Ten》的音樂排行榜在1980年代是日本一個最受歡迎和大眾最關�
 四項數據的排名基點分別乘以配點再相加之後，再乘以3.333，就得出最終點數。
 
 滿點為9,999點。歷史上只有[西城秀樹的](../Page/西城秀樹.md "wikilink")《[YOUNG MAN
-(Y.M.C.A.)](../Page/YOUNG_MAN_\(Y.M.C.A.\).md "wikilink")》拿過一次滿點。
+(Y.M.C.A.)](https://zh.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\) "wikilink")》拿過一次滿點。
 
 在节目刚开播的时候，以上评判标准所占比率为，唱片30%、有线10%、广播10%、明信片40%，明信片所占比重较高，有时会出现按照唱片和有线排名连前20都进不了的歌曲凭借明信片上的优势进入前十的情况。但是，从1979年2月开始，TBS没有通过节目发表声明，而是通过周刊杂志更正了榜单的评判标准，变为唱片30%、有线10%、广播30%、明信片30%，也就是说广播的比重上升了，而明信片的比重下降了。理由是节目组发现明信片中有很多笔迹明明是一样的，但却以不同名义发出，也就是说有些狂热饭有组织性地借用他人的名义寄明信片让支持的歌手点数上升。
 
@@ -86,7 +86,7 @@ Station（MS）的单曲排行等变成了几乎可以说是100%以CD销量作�
 
 [黑柳徹子從第一集到最後一集都擔任主持](../Page/黑柳徹子.md "wikilink")。
 
-  - 第一代：黑柳徹子、[久米宏](../Page/久米宏.md "wikilink")
+  - 第一代：黑柳徹子、[久米宏](https://zh.wikipedia.org/wiki/久米宏 "wikilink")
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@ Station（MS）的单曲排行等变成了几乎可以说是100%以CD销量作�
 
 <!-- end list -->
 
-  - 黑柳徹子和輪換制的男性主持人（進行候補的男主持人有[松宮一彥](../Page/松宮一彥.md "wikilink")、、[松下賢次](../Page/松下賢次.md "wikilink")）
+  - 黑柳徹子和輪換制的男性主持人（進行候補的男主持人有[松宮一彥](https://zh.wikipedia.org/wiki/松宮一彥 "wikilink")、、[松下賢次](https://zh.wikipedia.org/wiki/松下賢次 "wikilink")）
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@ Station（MS）的单曲排行等变成了几乎可以说是100%以CD销量作�
 
 <!-- end list -->
 
-  - 第二代：黑柳徹子、[小西博之](../Page/小西博之.md "wikilink")
+  - 第二代：黑柳徹子、[小西博之](https://zh.wikipedia.org/wiki/小西博之 "wikilink")
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@ Station（MS）的单曲排行等变成了几乎可以说是100%以CD销量作�
 
 <!-- end list -->
 
-  - 第三代：黑柳徹子、[松下賢次](../Page/松下賢次.md "wikilink")
+  - 第三代：黑柳徹子、[松下賢次](https://zh.wikipedia.org/wiki/松下賢次 "wikilink")
 
 <!-- end list -->
 
@@ -122,7 +122,7 @@ Station（MS）的单曲排行等变成了几乎可以说是100%以CD销量作�
 
 <!-- end list -->
 
-  - 第四代：黑柳徹子、[渡邊正行](../Page/渡邊正行.md "wikilink")、[柄澤晃弘](../Page/柄澤晃弘.md "wikilink")
+  - 第四代：黑柳徹子、[渡邊正行](https://zh.wikipedia.org/wiki/渡邊正行 "wikilink")、[柄澤晃弘](https://zh.wikipedia.org/wiki/柄澤晃弘 "wikilink")
 
 <!-- end list -->
 
@@ -138,7 +138,8 @@ Star Show\~只要有歌」担任主持，一起算的话他在TBS的周四9点�
 ## 參見
 
   - [Oricon公信榜](../Page/Oricon公信榜.md "wikilink")
-  - [Music Station](../Page/Music_Station.md "wikilink")
+  - [Music
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")
 
 ## 年间best ten
 

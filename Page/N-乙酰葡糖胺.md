@@ -1,4 +1,4 @@
-***N*-乙酰葡糖胺**（GlcNAc；NAG）是[葡糖胺的](../Page/葡糖胺.md "wikilink")*N*-[乙酰](../Page/乙酰.md "wikilink")[衍生物](../Page/衍生物.md "wikilink")，分子式[C](../Page/碳.md "wikilink")<sub>8</sub>[H](../Page/氢.md "wikilink")<sub>15</sub>[N](../Page/氮.md "wikilink")[O](../Page/氧.md "wikilink")<sub>6</sub>。NAG与[NAM为组成细菌细胞壁的单体](../Page/N-乙酰胞壁酸.md "wikilink")，与[葡糖醛酸为](../Page/葡糖醛酸.md "wikilink")[透明质酸的单体](../Page/透明质酸.md "wikilink")。NAG也是[甲壳素的聚合单体](../Page/甲壳素.md "wikilink")。
+***N*-乙酰葡糖胺**（GlcNAc；NAG）是[葡糖胺的](https://zh.wikipedia.org/wiki/葡糖胺 "wikilink")*N*-[乙酰](https://zh.wikipedia.org/wiki/乙酰 "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")，分子式[C](../Page/碳.md "wikilink")<sub>8</sub>[H](../Page/氢.md "wikilink")<sub>15</sub>[N](../Page/氮.md "wikilink")[O](../Page/氧.md "wikilink")<sub>6</sub>。NAG与[NAM为组成细菌细胞壁的单体](../Page/N-乙酰胞壁酸.md "wikilink")，与[葡糖醛酸为](https://zh.wikipedia.org/wiki/葡糖醛酸 "wikilink")[透明质酸的单体](https://zh.wikipedia.org/wiki/透明质酸 "wikilink")。NAG也是[甲壳素的聚合单体](https://zh.wikipedia.org/wiki/甲壳素 "wikilink")。
 
 ## 外部連結
 

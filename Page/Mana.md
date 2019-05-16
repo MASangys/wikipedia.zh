@@ -1,10 +1,11 @@
-**Mana**（，）是[日本的吉他手](../Page/日本.md "wikilink")、合成器奏者、[音樂製作人](../Page/音樂製作人.md "wikilink")，且是現在活動停止中的[視覺系](../Page/視覺系.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Malice
-Mizer和現在自行創作的](../Page/Malice_Mizer.md "wikilink") Sound Project（）[Moi
-dix Mois](../Page/Moi_dix_Mois.md "wikilink")
+**Mana**（，）是[日本的吉他手](../Page/日本.md "wikilink")、合成器奏者、[音樂製作人](../Page/音樂製作人.md "wikilink")，且是現在活動停止中的[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Malice
+Mizer和現在自行創作的](https://zh.wikipedia.org/wiki/Malice_Mizer "wikilink")
+Sound Project（）[Moi dix
+Mois](https://zh.wikipedia.org/wiki/Moi_dix_Mois "wikilink")
 的[領導人](../Page/領袖.md "wikilink")。通稱為「」。
 
-[哥德蘿莉的愛好者通常會稱他為](../Page/哥德蘿莉.md "wikilink")「Mana大人」（），而他本身也相當喜歡哥德蘿莉，甚至設立了一個流行品牌
-[Moi-même-Moitié](../Page/Moi-même-Moitié.md "wikilink")（），並親自為其設計。
+[哥德蘿莉的愛好者通常會稱他為](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")「Mana大人」（），而他本身也相當喜歡哥德蘿莉，甚至設立了一個流行品牌
+[Moi-même-Moitié](https://zh.wikipedia.org/wiki/Moi-même-Moitié "wikilink")（），並親自為其設計。
 
 ## 簡介
 
@@ -12,28 +13,32 @@ dix Mois](../Page/Moi_dix_Mois.md "wikilink")
 
 <!-- end list -->
 
-  - 意外的喜歡[電子遊戲](../Page/電子遊戲.md "wikilink")，特別喜歡的類型是[競速遊戲](../Page/競速遊戲.md "wikilink")。喜歡雜誌。
-  - [廣島縣出身的父親是高中的音樂老師](../Page/廣島縣.md "wikilink")，小時候就常聽[古典樂](../Page/古典樂.md "wikilink")，因此在發表的樂曲中常融合古典樂和搖滾樂。另外曲子裡也常使用[羽管鍵琴和](../Page/羽管鍵琴.md "wikilink")[風琴](../Page/風琴.md "wikilink")
+  - 意外的喜歡[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，特別喜歡的類型是[競速遊戲](https://zh.wikipedia.org/wiki/競速遊戲 "wikilink")。喜歡雜誌。
+  - [廣島縣出身的父親是高中的音樂老師](../Page/廣島縣.md "wikilink")，小時候就常聽[古典樂](https://zh.wikipedia.org/wiki/古典樂 "wikilink")，因此在發表的樂曲中常融合古典樂和搖滾樂。另外曲子裡也常使用[羽管鍵琴和](https://zh.wikipedia.org/wiki/羽管鍵琴 "wikilink")[風琴](../Page/風琴.md "wikilink")
 
 ## 略歷
 
-  - 1992年8月 - 打工時認識了[Közi](../Page/Közi.md "wikilink")，並和他組了 [Malice
-    Mizer](../Page/Malice_Mizer.md "wikilink")。
-  - 1997年 - 和[日本古倫美亞訂立主要出道](../Page/古倫美亞音樂娛樂.md "wikilink")（major
+  - 1992年8月 -
+    打工時認識了[Közi](https://zh.wikipedia.org/wiki/Közi "wikilink")，並和他組了
+    [Malice
+    Mizer](https://zh.wikipedia.org/wiki/Malice_Mizer "wikilink")。
+  - 1997年 -
+    和[日本古倫美亞訂立主要出道](https://zh.wikipedia.org/wiki/古倫美亞音樂娛樂 "wikilink")（major
     debute，）契約
   - 1999年1月 - 主唱GACKT退出
   - 2001年12月31日 - MALICE MIZER 停止活動。
   - 2002年3月19日 - 在Mana的生日組成名為[Moi dix
-    Mois的團體並開始活動](../Page/Moi_dix_Mois.md "wikilink")。
+    Mois的團體並開始活動](https://zh.wikipedia.org/wiki/Moi_dix_Mois "wikilink")。
   - 2008年5月 - 負責 [DefSTAR
-    Records](../Page/DefSTAR_Records.md "wikilink")（）的[分島花音出道](../Page/分島花音.md "wikilink")[單曲](../Page/單曲.md "wikilink")（debute
-    single，・）的製作、[作曲和](../Page/作曲.md "wikilink")[編曲工作](../Page/編曲.md "wikilink")。
+    Records](../Page/DefSTAR_Records.md "wikilink")（）的[分島花音出道](../Page/分島花音.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（debute
+    single，・）的製作、[作曲和](https://zh.wikipedia.org/wiki/作曲 "wikilink")[編曲工作](https://zh.wikipedia.org/wiki/編曲 "wikilink")。
 
 ## 相關條目
 
-  - [哥德蘿莉](../Page/哥德蘿莉.md "wikilink")
-  - [Malice Mizer](../Page/Malice_Mizer.md "wikilink")
-  - [Gackt](../Page/Gackt.md "wikilink")
+  - [哥德蘿莉](https://zh.wikipedia.org/wiki/哥德蘿莉 "wikilink")
+  - [Malice
+    Mizer](https://zh.wikipedia.org/wiki/Malice_Mizer "wikilink")
+  - [Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")
   - [分島花音](../Page/分島花音.md "wikilink")
 
 ## 外部連結

@@ -1,4 +1,4 @@
-《**Soulboy**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第一張](../Page/方大同.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，在2005年11月18日推出。專輯主題是“世界大同”。「Soulboy」也是[方大同為自己和其他歌手的歌曲擔任樂器伴奏時的代稱](../Page/方大同.md "wikilink")。
+《**Soulboy**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第一張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，在2005年11月18日推出。專輯主題是“世界大同”。「Soulboy」也是[方大同為自己和其他歌手的歌曲擔任樂器伴奏時的代稱](https://zh.wikipedia.org/wiki/方大同 "wikilink")。
 
 ## 曲目
 

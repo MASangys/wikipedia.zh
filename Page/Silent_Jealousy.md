@@ -1,16 +1,16 @@
 "**Silent
-Jealousy**"發行於1991年9月11日。曲子從[Yoshiki稍微安靜的鋼琴獨奏開始](../Page/Yoshiki.md "wikilink")，接著引進帶有[速度金屬要素的演奏](../Page/速度金屬.md "wikilink")。
+Jealousy**"發行於1991年9月11日。曲子從[Yoshiki稍微安靜的鋼琴獨奏開始](../Page/Yoshiki.md "wikilink")，接著引進帶有[速度金屬要素的演奏](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")。
 
 單曲[B面中收錄的是編曲稍做改變的](../Page/A面與B面.md "wikilink")"Sadistic Desire
 (Alternate Version)"。
 
-[澳洲樂團](../Page/澳洲.md "wikilink")[Lord在](../Page/勳爵.md "wikilink")2007年發行在日本的專輯，也翻唱了"Silent
+[澳洲樂團](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[Lord在](../Page/勳爵.md "wikilink")2007年發行在日本的專輯，也翻唱了"Silent
 Jealousy"作為Bonus曲\[1\]，演唱者為Hideaki Niwa。
 
-[芬蘭力量金屬樂團](../Page/芬蘭.md "wikilink")[極光奏鳴曲樂團也曾在演唱會中翻唱過一小段](../Page/極光奏鳴曲樂團.md "wikilink")\[2\]
+[芬蘭力量金屬樂團](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[極光奏鳴曲樂團也曾在演唱會中翻唱過一小段](https://zh.wikipedia.org/wiki/極光奏鳴曲樂團 "wikilink")\[2\]
 
 在歌迷投票49首曲目精選專輯[Fan's
-Selection中](../Page/X_JAPAN_BEST_〜FAN'S_SELECTION〜.md "wikilink")，以11,051票位居歌迷心目中的第二名。\[3\]
+Selection中](https://zh.wikipedia.org/wiki/X_JAPAN_BEST_〜FAN'S_SELECTION〜 "wikilink")，以11,051票位居歌迷心目中的第二名。\[3\]
 
 ## 彩蛋
 

@@ -1,11 +1,11 @@
-將會是[藝電的第](../Page/藝電.md "wikilink")18款[足球運動類](../Page/足球.md "wikilink")[電子遊戲](../Page/電子遊戲.md "wikilink")，它是由[藝電加拿大開發](../Page/藝電.md "wikilink")。除了[Wii的版本外](../Page/Wii.md "wikilink")，《FIFA
-11》將於2010年9月28日、9月30日和10月1日分別在北美、[澳洲與](../Page/澳洲.md "wikilink")[歐洲上市](../Page/歐洲.md "wikilink")，而[Wii的版本將於](../Page/Wii.md "wikilink")2010年10月3日在北美和歐洲出售。\[1\][PC版本的](../Page/PC.md "wikilink")《FIFA
+將會是[藝電的第](https://zh.wikipedia.org/wiki/藝電 "wikilink")18款[足球運動類](../Page/足球.md "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，它是由[藝電加拿大開發](https://zh.wikipedia.org/wiki/藝電 "wikilink")。除了[Wii的版本外](../Page/Wii.md "wikilink")，《FIFA
+11》將於2010年9月28日、9月30日和10月1日分別在北美、[澳洲與](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[歐洲上市](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，而[Wii的版本將於](../Page/Wii.md "wikilink")2010年10月3日在北美和歐洲出售。\[1\][PC版本的](../Page/PC.md "wikilink")《FIFA
 11》首次使用了[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox
-360版本的](../Page/Xbox_360.md "wikilink")[遊戲引擎](../Page/遊戲引擎.md "wikilink")。[卡卡和](../Page/卡卡.md "wikilink")[朗尼是](../Page/朗尼.md "wikilink")《FIFA
+360版本的](../Page/Xbox_360.md "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。[卡卡和](../Page/卡卡.md "wikilink")[朗尼是](https://zh.wikipedia.org/wiki/朗尼 "wikilink")《FIFA
 11》的封面人物。\[2\]
 
 試玩版的FIFA 11
-可試玩[皇家馬德里](../Page/皇家馬德里.md "wikilink")，[車路士](../Page/車路士.md "wikilink")，[巴塞羅那](../Page/巴塞羅那.md "wikilink")，[祖雲達斯等六隊球隊](../Page/祖雲達斯.md "wikilink")。該場館採用了[皇家馬德里的](../Page/皇家馬德里.md "wikilink")[班拿貝球場](../Page/班拿貝球場.md "wikilink")（PC版本）。該演示提供友誼賽的一半長度的3實時分鐘。
+可試玩[皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")，[車路士](https://zh.wikipedia.org/wiki/車路士 "wikilink")，[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")，[祖雲達斯等六隊球隊](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")。該場館採用了[皇家馬德里的](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")[班拿貝球場](https://zh.wikipedia.org/wiki/班拿貝球場 "wikilink")（PC版本）。該演示提供友誼賽的一半長度的3實時分鐘。
 
 ## 新特色
 
@@ -18,7 +18,7 @@
     藉由新的傳球機制，傳球的精準度乃取決於玩家操控手把的能力、球員技巧以及球場上的情勢和迫切情況。差勁的決定或踢球力道過大/不足，都會產生可能造成失誤的結果。新的傳球方式，例如轉向傳球，將可讓玩家採取更安全且更有效的戰術。\[6\]
   - **創作中心 Creation Centre (PlayStation 3, Xbox 360)**:\[7\]
   - **自訂觀眾歡呼頌唱**:
-    替每支球隊和聯盟指定歡呼頌唱內容。設定你的主場球隊的讚美歌曲，以及球員出場時、中場時、射門得分後的歡呼頌唱內容。你甚至可以替你的虛擬職業球員自訂歡呼頌唱內容，讓你的名字在[奧脫福或](../Page/奧脫福球場.md "wikilink")[-{zh-hans:圣西罗;zh-hk:聖西路;zh-tw:聖西羅;}-看台上迴盪](../Page/聖西路球場.md "wikilink")。另外，你還可在遊戲中播放硬碟上儲存的音樂。\[8\]
+    替每支球隊和聯盟指定歡呼頌唱內容。設定你的主場球隊的讚美歌曲，以及球員出場時、中場時、射門得分後的歡呼頌唱內容。你甚至可以替你的虛擬職業球員自訂歡呼頌唱內容，讓你的名字在[奧脫福或](https://zh.wikipedia.org/wiki/奧脫福球場 "wikilink")[-{zh-hans:圣西罗;zh-hk:聖西路;zh-tw:聖西羅;}-看台上迴盪](../Page/聖西路球場.md "wikilink")。另外，你還可在遊戲中播放硬碟上儲存的音樂。\[8\]
   - **生涯模式 Career Mode (PlayStation 3, Xbox 360)**:\[9\]\[10\]
   - **街頭足球 (Wii)**:\[11\]
   - **更上一層樓的守門員警覺性 (All Platforms)**:

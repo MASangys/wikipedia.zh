@@ -1,6 +1,6 @@
 **UltraISO** 是一个运行在[Microsoft
-Windows平台上的用来创建](../Page/Microsoft_Windows.md "wikilink")、修改和转换[ISO文件的软件](../Page/ISO_镜像.md "wikilink")。自从2002年4月20日UltraISO首次发布以来，它的開發公司[EZB
-Systems就把它定义为一个](../Page/EZB_Systems.md "wikilink")[共享软件](../Page/共享软件.md "wikilink")。当前EZB
+Windows平台上的用来创建](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、修改和转换[ISO文件的软件](https://zh.wikipedia.org/wiki/ISO_镜像 "wikilink")。自从2002年4月20日UltraISO首次发布以来，它的開發公司[EZB
+Systems就把它定义为一个](https://zh.wikipedia.org/wiki/EZB_Systems "wikilink")[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。当前EZB
 Systems域名的注册地址在中国深圳。
 
 ## 特点
@@ -9,10 +9,10 @@ Systems域名的注册地址在中国深圳。
 -{H|镜像文件=\>zh-tw:映像檔;}-
 
   - 复制CD和DVD到ISO镜像文件。
-  - 通过儲存在[CD/DVD-ROM或](../Page/光盘驱动器.md "wikilink")[硬盘上文件的创建ISO镜像文件](../Page/硬盘驱动器.md "wikilink")。
+  - 通过儲存在[CD/DVD-ROM或](../Page/光盘驱动器.md "wikilink")[硬盘上文件的创建ISO镜像文件](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink")。
   - 通过添加，删除和创建文件或文件夹的方法编辑现有的ISO镜像文件。
   - 创建文件系统为ziso (.ISZ) 的镜像。
-  - 创建[可引导的](../Page/可引导.md "wikilink") CD, DVD
+  - 创建[可引导的](https://zh.wikipedia.org/wiki/可引导 "wikilink") CD, DVD
     和[-{zh-hans:软盘;zh-tw:軟碟;}-镜像](../Page/软盘.md "wikilink").
   - 把.BIN, .IMG, .CIF, .NRG, .BWI, .DAA, .DMG, .HFS 和其他格式的文件转换到标准的ISO文件。
   - 支持所有[ISO 9660规范和Joliet扩展](../Page/ISO_9660.md "wikilink")。

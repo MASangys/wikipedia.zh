@@ -8,14 +8,14 @@
 ## 概要
 
   - 1988年以[魔神英雄傳WATARU的主題歌出道](../Page/魔神英雄傳.md "wikilink")。之後主要參與[魔神英雄伝WATARU系列的主題歌和形象歌曲](../Page/魔神英雄傳.md "wikilink")。
-  - 1991年發行了單獨的專輯。第二張專輯是以至今為止沒有過的姿態登場。之後，做為歌手的活動逐漸變廣，也提供了WATARU以外的作品（[極道くん漫遊記](../Page/極道くん漫遊記.md "wikilink")）。
+  - 1991年發行了單獨的專輯。第二張專輯是以至今為止沒有過的姿態登場。之後，做為歌手的活動逐漸變廣，也提供了WATARU以外的作品（[極道くん漫遊記](https://zh.wikipedia.org/wiki/極道くん漫遊記 "wikilink")）。
   - 1995年以後，新曲發表停止，在1998年播放的電視動畫片『[超魔神英雄伝WATARU](../Page/魔神英雄傳.md "wikilink")』的3張音樂集中，分別收錄了1曲。此外，在同期舉行的『超魔神英雄伝WATARU』活動中也多年不見的在公眾場合露面。
-  - 一段時期偏向於獨立型的發行，歌手曲目作家[立花瞳為兩人創作歌曲](../Page/立花瞳_\(歌手\).md "wikilink")，突然發行計畫被白紙撤回，「新曲發行」沒有實現。
+  - 一段時期偏向於獨立型的發行，歌手曲目作家[立花瞳為兩人創作歌曲](https://zh.wikipedia.org/wiki/立花瞳_\(歌手\) "wikilink")，突然發行計畫被白紙撤回，「新曲發行」沒有實現。
 
 ## 作品
 
 發售全部由[Victor
-Entertainment進行](../Page/Victor_Entertainment.md "wikilink")。
+Entertainment進行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ### 單曲
 

@@ -1,10 +1,10 @@
 《**On Wings Of
-Time**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第五張錄音室專輯](../Page/王菀之.md "wikilink")、第四張粵語錄音室專輯，於2009年10月29日發行。專輯內含一張CD和一張DVD，CD中收錄了十二首歌曲，全部均由王菀之作曲。《小團圓》及《低科技之歌》為王菀之與填詞人[黃偉文首次合作的作品](../Page/黃偉文.md "wikilink")。派台歌曲有《大笨鐘》、《月亮說》、《月亮說團圓（月亮說
+Time**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第五張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、第四張粵語錄音室專輯，於2009年10月29日發行。專輯內含一張CD和一張DVD，CD中收錄了十二首歌曲，全部均由王菀之作曲。《小團圓》及《低科技之歌》為王菀之與填詞人[黃偉文首次合作的作品](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。派台歌曲有《大笨鐘》、《月亮說》、《月亮說團圓（月亮說
 Remix）》、《小團圓》及《低科技之歌》。
 
 ## 曲目
 
-全碟詞曲：[王菀之](../Page/王菀之.md "wikilink")　全碟編曲及監製：[馮翰銘](../Page/馮翰銘.md "wikilink")　<small>（下面註明例外曲目）</small>
+全碟詞曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟編曲及監製：[馮翰銘](../Page/馮翰銘.md "wikilink")　<small>（下面註明例外曲目）</small>
 
 
 **備註：**
@@ -16,16 +16,17 @@ Remix）》、《小團圓》及《低科技之歌》。
 出自《On Wings of Time》首版專輯內頁。\[1\]
 **音樂**
 
-  - [王菀之](../Page/王菀之.md "wikilink") – 主音 <small>(所有歌曲)</small>、作曲
-    <small>(所有歌曲)</small>、作詞 <small>(1-2、5-6、8-12)</small>、和音
-    <small>(2-5、7、9-12)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
+    <small>(所有歌曲)</small>、作曲 <small>(所有歌曲)</small>、作詞
+    <small>(1-2、5-6、8-12)</small>、和音 <small>(2-5、7、9-12)</small>
   - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(1-4、6-12)</small>、所有樂器
     <small>(1-3、7-8、10、12)</small>、低音吉他 <small>(4、6、9)</small>、鼓
     <small>(4、6、9)</small>、電腦程式 <small>(4)</small>、鋼琴
     <small>(6)</small>、Wurlitzer電鋼琴 <small>(6)</small>、弦樂編曲
     <small>(9)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(3)</small>
-  - [黃偉文](../Page/黃偉文.md "wikilink") – 作詞 <small>(4、7)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
+    <small>(4、7)</small>
   - [常石磊](../Page/常石磊.md "wikilink") – 主音 <small>(8)</small>、和音
     <small>(8)</small>
   - [陳奐仁](../Page/陳奐仁.md "wikilink") – 木吉他 <small>(3、7、12)</small>
@@ -149,7 +150,7 @@ Remix）》、《小團圓》及《低科技之歌》。
   - 香港：[2009年度SINA
     Music樂壇民意指數頒獎禮](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink")－SINA
     Music 創作概念大碟
-  - 中國：[2010年（第十屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－百家傳媒年度最受矚目專輯
+  - 中國：[2010年（第十屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－百家傳媒年度最受矚目專輯
 
 ### 歌曲《月亮說》
 
@@ -159,11 +160,12 @@ Remix）》、《小團圓》及《低科技之歌》。
   - 香港：[2009年度SINA
     Music樂壇民意指數頒獎禮](../Page/2009年度SINA_Music樂壇民意指數頒獎禮.md "wikilink")－SINA
     Music最高收聽率二十大歌曲
-  - 香港：[2009 CASH金帆音樂獎](../Page/2009_CASH金帆音樂獎.md "wikilink")－最佳旋律
   - 香港：[2009
-    CASH金帆音樂獎](../Page/2009_CASH金帆音樂獎.md "wikilink")－CASH最佳歌曲大獎（提名）
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2009_CASH金帆音樂獎 "wikilink")－最佳旋律
   - 香港：[2009
-    CASH金帆音樂獎](../Page/2009_CASH金帆音樂獎.md "wikilink")－最佳女歌手演繹（提名）
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2009_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
+  - 香港：[2009
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2009_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
   - 加拿大：2009 加拿大至HiT中文歌曲排行榜－全國推崇十大歌曲（粵語）
 
 ### 歌曲《大笨鐘》

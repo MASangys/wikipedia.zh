@@ -1,6 +1,6 @@
-**4TEEN十四歲**（）是日本作家石田衣良的連續短篇小說集，描述四名十四歲的少年日常生活的點點滴滴。本書獲得了第129回[直木三十五獎](../Page/直木三十五獎.md "wikilink")\[1\]。2004年由[WOWOW制作成電視劇](../Page/WOWOW.md "wikilink")，並改編為漫畫於《[Big
+**4TEEN十四歲**（）是日本作家石田衣良的連續短篇小說集，描述四名十四歲的少年日常生活的點點滴滴。本書獲得了第129回[直木三十五獎](https://zh.wikipedia.org/wiki/直木三十五獎 "wikilink")\[1\]。2004年由[WOWOW制作成電視劇](../Page/WOWOW.md "wikilink")，並改編為漫畫於《[Big
 Comic
-Spirits](../Page/Big_Comic_Spirits.md "wikilink")》連載（繪者為[海埜悠子](../Page/海埜悠子.md "wikilink")）。
+Spirits](../Page/Big_Comic_Spirits.md "wikilink")》連載（繪者為[海埜悠子](https://zh.wikipedia.org/wiki/海埜悠子 "wikilink")）。
 
 ## 登場人物
 
@@ -53,15 +53,15 @@ Spirits](../Page/Big_Comic_Spirits.md "wikilink")》連載（繪者為[海埜悠
 
 ### 參與人員
 
-  - 監督 - [廣木隆一](../Page/廣木隆一.md "wikilink")
-  - 脚本 - [斉藤ひろし](../Page/斉藤ひろし.md "wikilink")
+  - 監督 - [廣木隆一](https://zh.wikipedia.org/wiki/廣木隆一 "wikilink")
+  - 脚本 - [斉藤ひろし](https://zh.wikipedia.org/wiki/斉藤ひろし "wikilink")
   - 原作 - [石田衣良](../Page/石田衣良.md "wikilink")
   - 製片 – 青木竹彦 (WOWOW)
   - 制作 - 山下秀治
   - 企画 - 山本均 (WOWOW) 、出川朋子 (WOWOW)
   - 音楽 - 林祐介
   - 楽曲 - [Happy
-    End](../Page/Happy_End.md "wikilink")、[決明子](../Page/決明子_\(團體\).md "wikilink")
+    End](https://zh.wikipedia.org/wiki/Happy_End "wikilink")、[決明子](../Page/決明子_\(團體\).md "wikilink")
   - 撮影 - 水口智之、（VE - 鏡原圭吾）
   - 照明 - 関輝久
   - 録音 - 漆田晃
@@ -72,7 +72,7 @@ Spirits](../Page/Big_Comic_Spirits.md "wikilink")》連載（繪者為[海埜悠
 ### 韓國版
 
   -
-    主條目：[4teen](../Page/Drama_Festival#第二季.md "wikilink")
+    主條目：[4teen](https://zh.wikipedia.org/wiki/Drama_Festival#第二季 "wikilink")
 
 ## 參考文獻
 
@@ -87,7 +87,8 @@ Spirits](../Page/Big_Comic_Spirits.md "wikilink")》連載（繪者為[海埜悠
 ## 外部連結
 
   - [『4TEEN』書評・対談](http://www.shinchosha.co.jp/shinkan/nami/shoseki/459501.html)
-    -[森絵都的書評](../Page/森絵都.md "wikilink") 刊登於『波』2003年7月號
+    -[森絵都的書評](https://zh.wikipedia.org/wiki/森絵都 "wikilink")
+    刊登於『波』2003年7月號
   - [4TEEN電視劇設定頁](http://www.wowow.co.jp/dramaw/4teen/)
 
 [Category:1999年日本小說](https://zh.wikipedia.org/wiki/Category:1999年日本小說 "wikilink")

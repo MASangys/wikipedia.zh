@@ -22,11 +22,11 @@ Apache 2.2 只有5秒。\[4\]
 
 ## 优势
 
-  - 较少的[CPU和内存的使用](../Page/CPU.md "wikilink")（由于同时打开的连接的减少了）
-  - 允许请求和应答的[HTTP管線化](../Page/HTTP管線化.md "wikilink")
+  - 较少的[CPU和内存的使用](https://zh.wikipedia.org/wiki/CPU "wikilink")（由于同时打开的连接的减少了）
+  - 允许请求和应答的[HTTP管線化](https://zh.wikipedia.org/wiki/HTTP管線化 "wikilink")
   - 降低[拥塞控制](../Page/拥塞控制.md "wikilink")
     （[TCP连接减少了](../Page/传输控制协议.md "wikilink")）
-  - 减少了后续请求的[延遲](../Page/延遲_\(電腦\).md "wikilink")（无需再进行[握手](../Page/握手_\(技术\).md "wikilink")）
+  - 减少了后续请求的[延遲](https://zh.wikipedia.org/wiki/延遲_\(電腦\) "wikilink")（无需再进行[握手](https://zh.wikipedia.org/wiki/握手_\(技术\) "wikilink")）
   - 报告错误无需关闭TCP连接
 
 根据RFC 2616
@@ -44,17 +44,17 @@ Apache 2.2 只有5秒。\[4\]
 [网景导航者](../Page/网景导航者.md "wikilink")（4.05版本以后）和[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")（4.01版本以后）支持使用持久链接链接Web服务器和代理服务器。
 
-网景不使用过时时间来关闭持久连接。而是对所有空闲的持久链接进行排队。当需要打开一个新的持久链接，但连接到不同的服务器上时，浏览器使用[最近最少使用算法终止一个空闲的持久链接](../Page/最近最少使用算法.md "wikilink")。\[6\]
+网景不使用过时时间来关闭持久连接。而是对所有空闲的持久链接进行排队。当需要打开一个新的持久链接，但连接到不同的服务器上时，浏览器使用[最近最少使用算法终止一个空闲的持久链接](https://zh.wikipedia.org/wiki/最近最少使用算法 "wikilink")。\[6\]
 
 [Internet Explorer支持持久链接](../Page/Internet_Explorer.md "wikilink")，IE
 6和IE 7缺省使用2个持久链接，而IE 8缺省使用6个持久链接。\[7\]
 持久链接在不活跃60秒后过时，可以在Windows注册表中修改。\[8\]
 
 [Mozilla
-Firefox支持持久链接](../Page/Mozilla_Firefox.md "wikilink")。可以定制同时的持久连接的最大个数（每个服务器，每个代理服务器，总数）。连接在不活跃300秒（5分钟）后过时（配置中可以修改）。\[9\]
+Firefox支持持久链接](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。可以定制同时的持久连接的最大个数（每个服务器，每个代理服务器，总数）。连接在不活跃300秒（5分钟）后过时（配置中可以修改）。\[9\]
 
-[Opera](../Page/Opera.md "wikilink") 4.0版本开始支持持久链接.\[10\]
-可以配置同时的持久连接的最大个数（每个服务器，总数）。
+[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
+4.0版本开始支持持久链接.\[10\] 可以配置同时的持久连接的最大个数（每个服务器，总数）。
 
 ## 参考文献
 

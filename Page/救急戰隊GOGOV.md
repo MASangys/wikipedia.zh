@@ -1,9 +1,9 @@
-《**救急戰隊GOGOＶ**》（救急戰隊GOGOFIVE，原題：）是日本[東映公司在](../Page/東映.md "wikilink")1999年製作的「[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")」第23部[特攝作品](../Page/特攝.md "wikilink")。1999年2月21日至2000年2月6日每週日早上7：30～8：00在日本[朝日電視台播放](../Page/朝日電視台.md "wikilink")，共50集。這組的宗旨，人類發揮救難精神，敘述他們五兄妹共同奮鬥，協助救災的冒險故事。
+《**救急戰隊GOGOＶ**》（救急戰隊GOGOFIVE，原題：）是日本[東映公司在](../Page/東映.md "wikilink")1999年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第23部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")。1999年2月21日至2000年2月6日每週日早上7：30～8：00在日本[朝日電視台播放](../Page/朝日電視台.md "wikilink")，共50集。這組的宗旨，人類發揮救難精神，敘述他們五兄妹共同奮鬥，協助救災的冒險故事。
 
 最初編組主要成員則為級戰隊早期傳統的四男一女組合，顏色依序為：紅、綠、藍、黃、桃。本作最多初期只有5個人並沒有追加戰士，本作是繼《[鳥人戰隊噴射人](../Page/鳥人戰隊噴射人.md "wikilink")》之後，睽違8年後再次沒有出現追加成員的戰隊的設定。
 
-本作是首次採用「[消防](../Page/消防.md "wikilink")」以及首次採用「[救援](../Page/救援.md "wikilink")」主題的戰隊系列作，同時這也是繼《[JAKQ電擊隊](../Page/JAKQ電擊隊.md "wikilink")》、《[戰鬥狂熱
-J](../Page/戰鬥狂熱_J.md "wikilink")》、《[大戰隊風鏡V](../Page/大戰隊風鏡V.md "wikilink")》後，第四次不以「○○人」、「○○連者」、「○○者」命名的作品。除此之外本作亦是繼《[大戰隊風鏡V](../Page/大戰隊風鏡V.md "wikilink")》後，睽違17年後再次採用「○○V」為命名標題及團隊名稱。
+本作是首次採用「[消防](https://zh.wikipedia.org/wiki/消防 "wikilink")」以及首次採用「[救援](../Page/救援.md "wikilink")」主題的戰隊系列作，同時這也是繼《[JAKQ電擊隊](../Page/JAKQ電擊隊.md "wikilink")》、《[戰鬥狂熱
+J](../Page/戰鬥狂熱_J.md "wikilink")》、《[大戰隊風鏡V](https://zh.wikipedia.org/wiki/大戰隊風鏡V "wikilink")》後，第四次不以「○○人」、「○○連者」、「○○者」命名的作品。除此之外本作亦是繼《[大戰隊風鏡V](https://zh.wikipedia.org/wiki/大戰隊風鏡V "wikilink")》後，睽違17年後再次採用「○○V」為命名標題及團隊名稱。
 
 此外，從這支戰隊開始，每輯戰隊的片頭曲和片尾曲都分開由兩位不同的歌手演唱。
 
@@ -16,9 +16,9 @@ V**正式成軍。
 
 ## 特色
 
-  - 本作首支採用以《[消防](../Page/消防.md "wikilink")》及《[救援](../Page/救援.md "wikilink")》作為主題。
+  - 本作首支採用以《[消防](https://zh.wikipedia.org/wiki/消防 "wikilink")》及《[救援](../Page/救援.md "wikilink")》作為主題。
   - 本作首次出現救援機器人。
-  - 本作繼《[大戰隊風鏡V](../Page/大戰隊風鏡V.md "wikilink")》後，第二次採用「○○V」命名標題及團隊名稱，前後相隔17年。
+  - 本作繼《[大戰隊風鏡V](https://zh.wikipedia.org/wiki/大戰隊風鏡V "wikilink")》後，第二次採用「○○V」命名標題及團隊名稱，前後相隔17年。
   - 本作繼《[鳥人戰隊噴射人](../Page/鳥人戰隊噴射人.md "wikilink")》後，睽違8年後再次沒有追加第六位成員的戰隊。
   - 救急的日語發音剛好與「99」同音。
   - 本作首次出現金色戰士，但被設定為番外戰士\[1\]。
@@ -48,7 +48,7 @@ V**正式成軍。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/西岡龍一朗.md" title="wikilink"><font color="White">西岡龍一朗</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西岡龍一朗" title="wikilink"><font color="White">西岡龍一朗</font></a></p></td>
 <td><p>巽纏Matoi Tatsumi</p></td>
 <td><p>長兄</p></td>
 <td><p>Go Red</p></td>
@@ -76,7 +76,7 @@ V**正式成軍。
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/谷口賢志.md" title="wikilink"><font color="White">谷口賢志</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷口賢志" title="wikilink"><font color="White">谷口賢志</font></a></p></td>
 <td><p>巽流水Nagare Tatsumi</p></td>
 <td><p>次兄</p></td>
 <td><p>Go Blue</p></td>
@@ -105,7 +105,7 @@ V**正式成軍。
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/原田篤.md" title="wikilink"><font color="White">原田篤</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/原田篤" title="wikilink"><font color="White">原田篤</font></a></p></td>
 <td><p>巽鐘Shou Tatsumi</p></td>
 <td><p>三弟</p></td>
 <td><p>Go Green</p></td>
@@ -134,7 +134,7 @@ V**正式成軍。
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柴田賢志.md" title="wikilink"><font color="black">柴田賢志</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柴田賢志" title="wikilink"><font color="black">柴田賢志</font></a></p></td>
 <td><p>巽大門Daimon Tatsumi</p></td>
 <td><p>四弟</p></td>
 <td><p>Go Yellow</p></td>
@@ -163,7 +163,7 @@ V**正式成軍。
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/坂口望二香.md" title="wikilink"><font color="White">坂口望二香</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂口望二香" title="wikilink"><font color="White">坂口望二香</font></a></p></td>
 <td><p>巽祭Matsuri Tatsumi</p></td>
 <td><p>小妹</p></td>
 <td><p>Go Pink</p></td>
@@ -180,13 +180,15 @@ V**正式成軍。
 </tbody>
 </table>
 
-**巽世界Mondo Tatsumi／巽防災研究所所長**（[マイク 眞木](../Page/マイク_眞木.md "wikilink")）
+**巽世界Mondo Tatsumi／巽防災研究所所長**（[マイク
+眞木](https://zh.wikipedia.org/wiki/マイク_眞木 "wikilink")）
 
 他是救急戰隊GOGO V的大家長，他從基地上的電腦得知，宇宙上的行星形成Grand
 Cross的時候，災魔即將降臨這個地球，於是他準備開始對抗災魔的計畫，花了十年所建造完成的灣岸領域55，是救急戰隊GOGO
 V的前線基地，當時巽兄妹並不知情就準備進行各項救援與抵抗災魔的任務。
 
-**巽律子Ritsuko Tatsumi**（[吉澤京子](../Page/吉澤京子.md "wikilink")）
+**巽律子Ritsuko
+Tatsumi**（[吉澤京子](https://zh.wikipedia.org/wiki/吉澤京子 "wikilink")）
 
 她是巽兄妹的母親，也是巽世界的妻子。她在巽兄妹十歲左右，剛好是八年前，突然離家行蹤不明，令人擔心。
 
@@ -199,7 +201,8 @@ V的前線基地，當時巽兄妹並不知情就準備進行各項救援與抵�
     V及時救援，才化險為夷，平時的她可是一位對GOGO
     V崇敬的超自信女生，成為最忠實的夥伴。父母經營著老字號壽司屋。
 
-**分析機器人米特Analyse Robo Mint<small>｜**[相田さやか](../Page/相田さやか.md "wikilink")
+**分析機器人米特Analyse Robo
+Mint<small>｜**[相田さやか](https://zh.wikipedia.org/wiki/相田さやか "wikilink")
 聲</small>
 
   -
@@ -207,7 +210,8 @@ V的前線基地，當時巽兄妹並不知情就準備進行各項救援與抵�
     V以為是鬧鐘，他專門分析災魔侵略情報，需要救援地點與狀況，給GOGO
     V及巽博士他們知道，是一個精略分析戰事的綠色機器人。
 
-**乾 謙二Kenji Inui<small>｜**[岩尾拓志](../Page/岩尾拓志.md "wikilink")</small>
+**乾 謙二Kenji
+Inui<small>｜**[岩尾拓志](https://zh.wikipedia.org/wiki/岩尾拓志 "wikilink")</small>
 
   -
     他是一位擔任日本首都消防局的總監，也是大哥巽纏工作單位的直系長官，他曾經與巽世界有過一段打火英雄的歲月，如今巽氏五兄妹無故辭職，原因居然是成為超級英雄**救急戰隊GOGO
@@ -260,7 +264,7 @@ V的前線基地，當時巽兄妹並不知情就準備進行各項救援與抵�
 
 ## 災魔一族
 
-以破壞與摧殘所有一切的特別種族，也是宇宙中公認最強的[惡魔種族](../Page/惡魔.md "wikilink")。為這個地球帶來各種災難的敵人，當**大十字Grand
+以破壞與摧殘所有一切的特別種族，也是宇宙中公認最強的[惡魔種族](https://zh.wikipedia.org/wiki/惡魔 "wikilink")。為這個地球帶來各種災難的敵人，當**大十字Grand
 Cross**行星排成一列之時，災魔一族的最大支配者「**大魔女格蘭狄努**」將現身，讓地球變成死星就是他們的作戰策略，旗下的共有四大災難組合而成的災魔四兄弟，他們的基地將座落在位於北極的極寒交界處，一座雄偉的災魔聖殿。
 災魔獸的誕生方法為皮耶魯將四兄弟給予的災魔卡，擲入聚集黑暗能量的魔方陣中，當皮耶魯唸出咒語召喚後，災魔卡則會轉變為有肉體的災魔怪人。
 
@@ -287,7 +291,7 @@ V五人的生體能源活動的最終計畫－**黑‧極限勝利金剛**，順
 
   -
     **冥王吉爾菲瑟Dark King
-    Zylpheeza<small>｜**[中村大樹](../Page/中村大樹.md "wikilink")
+    Zylpheeza<small>｜**[中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")
     聲</small>
       - <small>屬性 = 天</small>
     災魔兄弟中的頭領，排名為老大，事實上牠的身分排名才老二，牠是屬於天屬性的災魔代表，牠作為災魔一族的最高司令官，代表稱號為『冥王』，胸前有著一顆紅色的星星為證，武器為長槍，在兄弟地位與稱號，都叫牠為大哥，牠繼承了大魔女格蘭狄努的邪惡本性，也要與其他三兄弟競爭，看誰派出去的災魔獸作亂次數較多，不過通常災魔獸牠派出來的都是天災性質的較多，比如颱風、龍捲風等。
@@ -323,13 +327,13 @@ V五人的生體能源活動的最終計畫－**黑‧極限勝利金剛**，順
 
   -
     **邪靈姬蒂娜絲Evil Spirit Princess
-    Dinas<small>｜**[平澤草](../Page/平澤草.md "wikilink")</small>
+    Dinas<small>｜**[平澤草](https://zh.wikipedia.org/wiki/平澤草 "wikilink")</small>
       - <small>屬性 = 水</small>
     災魔兄弟中唯一的惡女代表，也是唯一一位擁有人類外表的幹部，她排名為實際中的老大，也是大魔女格蘭狄努最疼愛的女兒。以劍為武器。她可以化為人類的身分來刺探敵情以及重要情報，她專屬的屬性為水，因此派出去的災魔獸，比如水災或者液體中毒等，都是讓人類聞風喪膽的水性災魔獸。
     敬重大哥冥王吉爾菲瑟，對於哥波魯達則帶點輕視的態度。對於母親對沙拉曼狄斯的疼愛有加，心裡很不是滋味，就算她一開始就看透了沙拉曼狄斯的本性。
     最後為了保護哥哥也就是再生吉爾菲瑟，遭到GOGO
     V的攻擊而負傷。由於吉爾菲瑟尚未完全復活，蒂娜絲就在將自身僅存的能量透過寄生獸轉送給吉爾菲瑟後死亡。
-    名字來源為[溫蒂妮和](../Page/溫蒂妮.md "wikilink")[維納斯](../Page/維納斯.md "wikilink")。
+    名字來源為[溫蒂妮和](../Page/溫蒂妮.md "wikilink")[維納斯](https://zh.wikipedia.org/wiki/維納斯 "wikilink")。
 
 <!-- end list -->
 
@@ -349,7 +353,7 @@ V五人的生體能源活動的最終計畫－**黑‧極限勝利金剛**，順
             V陷入苦戰，但也曾輸給了Go
             Red。當胸前的冥王星閃耀出光輝之時，能夠召喚出異空間‧**暗黑災魔空間**，在災魔空間裡災魔獸能增加十萬倍如此巨幅的威力凌駕敵人，也使得極限勝利金剛解除合體，更有讓勝利金剛發生故障的效果。
             聽命大魔女格蘭狄努，但對於自己的哥哥姐姐卻極度輕視、傲慢及冷酷（毫無敬語）。大魔女格蘭狄努對其疼愛有加。在一連串的失敗之下（特別是無限連鎖災魔一役），無法耐著性子的格蘭狄努失去耐性，將其放逐在幽魔地獄中，但卻因此意外成為了幽魔地獄之王。
-            名稱的來源為[火蜥蜴](../Page/火蜥蜴.md "wikilink")。
+            名稱的來源為[火蜥蜴](https://zh.wikipedia.org/wiki/火蜥蜴 "wikilink")。
         **幽魔王沙拉曼狄斯Ghost King Salamandes**
           -
             被困在幽魔地獄的沙拉曼狄斯，聽取皮耶魯的方法將幽魔地獄裡的幽魔災魔獸吸收後進化之型態。
@@ -372,7 +376,7 @@ Pierre<small>｜**[松野太紀](../Page/松野太紀.md "wikilink")
     阿米亞斯 阿米亞斯 阿米帝奴』，欲將災魔巨大化時，會將再生卡射向災魔殘骸，再吟唱『暗黑的世界，請賜給我最後的力量啊\! 阿米亞斯
     阿米亞斯 阿米古洛斯 災魔復活\!\!』
     負責接手災魔兄弟的災魔獸卡以及養育未來冥王德羅布的咒語師僕人，牠善盡職守，以效忠於災魔四兄弟與大魔女格蘭狄努，命令牠將災魔獸獻身於人間，然後再派牠專屬的唆使魔兵因普斯來擾亂人間。
-    使用槍、拐杖等武器，保留其自身變化後的[蒼蠅原形及飛行能力](../Page/蒼蠅.md "wikilink")。戰鬥能力低，但詭計多端。
+    使用槍、拐杖等武器，保留其自身變化後的[蒼蠅原形及飛行能力](https://zh.wikipedia.org/wiki/蒼蠅 "wikilink")。戰鬥能力低，但詭計多端。
 
 **災魔獸 Saima Beast**
 
@@ -525,19 +529,19 @@ Go-Blaster**發動**超越模式Hyper Mode**。 |-
   -
     **鳥喙鑽Beak Driller**
       -
-        作為生命之鳥的鳥喙部分的[鑽頭型武器](../Page/電鑽.md "wikilink")。用於破壞門縫或鑽破圍牆。
+        作為生命之鳥的鳥喙部分的[鑽頭型武器](https://zh.wikipedia.org/wiki/電鑽 "wikilink")。用於破壞門縫或鑽破圍牆。
     **鳥驅滅火槍Build Discharger**
       -
-        作為生命之鳥的軀體部分的[滅火器型武器](../Page/滅火器.md "wikilink")。能夠發射高壓水柱和冷凍煤氣，除了撲滅火種與火源外也能用於攻擊。
+        作為生命之鳥的軀體部分的[滅火器型武器](https://zh.wikipedia.org/wiki/滅火器 "wikilink")。能夠發射高壓水柱和冷凍煤氣，除了撲滅火種與火源外也能用於攻擊。
     **飛翼鐵剪Wing Spreader**
       -
         作為生命之鳥的羽翼部分的[鐵剪型武器](../Page/剪刀.md "wikilink")。能剪斷30公分的鋼筋和鑽石，有機械手臂功能。
     **鐵爪繩錨Claw Anchor**
       -
-        作為生命之鳥的足部的[繩錨型武器](../Page/繩錨.md "wikilink")。目的為拯救人命，也能彈開敵人武器。繩索部分能延伸30公尺以上，也能在30秒內捲起。
+        作為生命之鳥的足部的[繩錨型武器](https://zh.wikipedia.org/wiki/繩錨 "wikilink")。目的為拯救人命，也能彈開敵人武器。繩索部分能延伸30公尺以上，也能在30秒內捲起。
     **尾部噴灑槍Tail Injector**
       -
-        作為生命之鳥的尾部的[針筒型武器](../Page/針筒.md "wikilink")。針對受傷痛苦的人注射麻醉針，忘卻疼痛而入睡。
+        作為生命之鳥的尾部的[針筒型武器](https://zh.wikipedia.org/wiki/針筒 "wikilink")。針對受傷痛苦的人注射麻醉針，忘卻疼痛而入睡。
 
 ### 其他裝備·技法
 
@@ -565,7 +569,7 @@ Go-Blaster**發動**超越模式Hyper Mode**。 |-
   -
     **流水特別版 Nagare Special**
       -
-        由流水秘密開發，能夠擊退[電腦病毒的光束槍](../Page/電腦病毒.md "wikilink")。後來被巽博士強化其機能。
+        由流水秘密開發，能夠擊退[電腦病毒的光束槍](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")。後來被巽博士強化其機能。
 
 <!-- end list -->
 
@@ -702,7 +706,7 @@ Scanner**。平時被頭盔前緣遮住，但當合體或發動必殺技時，�
         <!-- end list -->
           -
             Go
-            Blue專屬的巨大[化學用消防車](../Page/化學用消防車.md "wikilink")。車體上部設有4座化學消化器**化學磁盤充電閥Chemical
+            Blue專屬的巨大[化學用消防車](https://zh.wikipedia.org/wiki/化學用消防車 "wikilink")。車體上部設有4座化學消化器**化學磁盤充電閥Chemical
             Disk Charger**。能夠活用於大範圍的救火行動。勝利金剛的腰部和大腿組成。
 
 <!-- end list -->
@@ -716,7 +720,7 @@ Scanner**。平時被頭盔前緣遮住，但當合體或發動必殺技時，�
         <!-- end list -->
           -
             Go
-            Green專屬的巨大[VTOL機](../Page/VTOL.md "wikilink")。五機中唯一具有飛行能力的機體。搭載2門小型的擴散砲，機體底部裝載投下式消化彈，也能用於空中運輸的救援活動。勝利金剛的頭部及背部組成，合體時會將其它機體吊起。
+            Green專屬的巨大[VTOL機](https://zh.wikipedia.org/wiki/VTOL "wikilink")。五機中唯一具有飛行能力的機體。搭載2門小型的擴散砲，機體底部裝載投下式消化彈，也能用於空中運輸的救援活動。勝利金剛的頭部及背部組成，合體時會將其它機體吊起。
 
 <!-- end list -->
 
@@ -729,7 +733,7 @@ Scanner**。平時被頭盔前緣遮住，但當合體或發動必殺技時，�
         <!-- end list -->
           -
             Go
-            Yellow專屬的巨大[裝甲車](../Page/裝甲車.md "wikilink")。車體後部有個巨大重怪手，用以去除障礙物。當要突進大型建築物時特別能發揮其威力。勝利金剛的左腳組成。
+            Yellow專屬的巨大[裝甲車](https://zh.wikipedia.org/wiki/裝甲車 "wikilink")。車體後部有個巨大重怪手，用以去除障礙物。當要突進大型建築物時特別能發揮其威力。勝利金剛的左腳組成。
 
 <!-- end list -->
 
@@ -749,12 +753,12 @@ Scanner**。平時被頭盔前緣遮住，但當合體或發動必殺技時，�
   - <small>全高：80m / 全幅：59.8m / 重量：14000t / 最高速度：700km/h /
     出力：7500萬hp/t</small>
 
-五輛救急列車進行「連結合體」後的超巨大機器人。在勝利金剛與兩大災魔獸戰鬥期間，巽博士迅速地完成了合體系統的改良。武器為右肩的[火神砲](../Page/火神砲.md "wikilink")**列車格林機關砲Liner
-Gatling**和左肩的[導彈艙](../Page/導彈.md "wikilink")**列車制導導彈Liner
+五輛救急列車進行「連結合體」後的超巨大機器人。在勝利金剛與兩大災魔獸戰鬥期間，巽博士迅速地完成了合體系統的改良。武器為右肩的[火神砲](https://zh.wikipedia.org/wiki/火神砲 "wikilink")**列車格林機關砲Liner
+Gatling**和左肩的[導彈艙](https://zh.wikipedia.org/wiki/導彈 "wikilink")**列車制導導彈Liner
 Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和勝利金剛的差別在於火力的強大及特化後的裝甲。無法使用正能源，導致與巨大災魔獸（死靈）戰鬥時，易陷入苦戰。
 一度若發動完必殺技後，剩餘的能源會以電磁波形式逆流到駕駛艙內，後期被改善。如果沒裝載99機組便無法進行合體，但經巽博士改良後，便可於短時間內單機合體。
 劇情中段（38話）後，即格蘭狄努出場後，列車霸王出戰機會銳減（以其他機器人代替居多）。在設定比其他機器人還要巨大，登場初期甚至號稱勝利金剛的兩倍大，但實際在劇中與其他機器人尺寸並沒有差太多。第43話時，米特曾以收納著戰神機械的狀態進行戰鬥。
-戰隊系列首次將機體及機器人採用[鐵道車輛作設計](../Page/鐵道車輛.md "wikilink")。
+戰隊系列首次將機體及機器人採用[鐵道車輛作設計](https://zh.wikipedia.org/wiki/鐵道車輛 "wikilink")。
 
   -
     **必殺技**
@@ -846,7 +850,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
         最高速度：900km/h</small>
     <!-- end list -->
       -
-        作為極限系統的核心所開發的[新幹線型機體](../Page/新幹線.md "wikilink")。動力來源為[太陽電池](../Page/太陽電池.md "wikilink")，搭載四門光束砲**極限巴爾幹砲Max
+        作為極限系統的核心所開發的[新幹線型機體](../Page/新幹線.md "wikilink")。動力來源為[太陽電池](https://zh.wikipedia.org/wiki/太陽電池 "wikilink")，搭載四門光束砲**極限巴爾幹砲Max
         Balkan**。
 
 <!-- end list -->
@@ -857,17 +861,19 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
         / 最高飛行速度：5mach</small>
     <!-- end list -->
       -
-        [太空梭型的飛行型態](../Page/太空梭.md "wikilink")。能連結五輛救急列車，也能乘載戰神機械作為**太空救急列車Space
+        [太空梭型的飛行型態](https://zh.wikipedia.org/wiki/太空梭 "wikilink")。能連結五輛救急列車，也能乘載戰神機械作為**太空救急列車Space
         Go-Liner**，適用於宇宙間的航行。
 
 <!-- end list -->
 
   -
-    **列車小子Liner Boy**（[山岸功](../Page/山岸功.md "wikilink") <small>聲</small>）
+    **列車小子Liner
+    Boy**（[山岸功](https://zh.wikipedia.org/wiki/山岸功 "wikilink")
+    <small>聲</small>）
       - <small>全高：48m / 全幅：32.5m / 重量：3500t / 出力：1999萬hp/t</small>
     <!-- end list -->
       -
-        喊出指令「**特急武裝**」就能變為人型的戰鬥型態，可說是本作的「第六號戰士」。內建[人工智慧](../Page/人工智慧.md "wikilink")，能理解、使用人類語言，也能單機進行戰鬥行動。個性雖頑皮，但說話用字遣詞卻親切有禮。擅長快速的近身格鬥戰。由於本體為支援型機器人，所以必殺技能耐久力較低。武器為攻防一體的盾牌型武器**爆裂護盾Blaster
+        喊出指令「**特急武裝**」就能變為人型的戰鬥型態，可說是本作的「第六號戰士」。內建[人工智慧](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")，能理解、使用人類語言，也能單機進行戰鬥行動。個性雖頑皮，但說話用字遣詞卻親切有禮。擅長快速的近身格鬥戰。由於本體為支援型機器人，所以必殺技能耐久力較低。武器為攻防一體的盾牌型武器**爆裂護盾Blaster
         Shield**。
         當極限飛梭穿越大氣層後，利用太陽電池機能吸收太陽光後，方能啟動特急武裝指令。
         **必殺技**
@@ -1044,9 +1050,9 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>1</p></td>
 <td><p>救急戦士! 起つ</p></td>
 <td><p>救急戰士！出動</p></td>
-<td><p>岩石サイマ獣マグマゴレム（岩石災魔獸，<a href="../Page/前原實.md" title="wikilink">前原實</a> 聲）</p></td>
-<td><p><a href="../Page/小中肇.md" title="wikilink">小中肇</a></p></td>
-<td><p><a href="../Page/武上純希.md" title="wikilink">武上純希</a></p></td>
+<td><p>岩石サイマ獣マグマゴレム（岩石災魔獸，<a href="https://zh.wikipedia.org/wiki/前原實" title="wikilink">前原實</a> 聲）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小中肇" title="wikilink">小中肇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武上純希" title="wikilink">武上純希</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999年2月28日</p></td>
@@ -1063,7 +1069,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>爆破された兄弟愛（きずな）!</p></td>
 <td><p>爆烈的兄弟之愛！</p></td>
 <td><p>爆発弾サイマ獣ガスガイル（爆彈災魔獸，<a href="../Page/江川央生.md" title="wikilink">江川央生</a> 聲）</p></td>
-<td><p><a href="../Page/渡邊勝也.md" title="wikilink">渡邊勝也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊勝也" title="wikilink">渡邊勝也</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1072,7 +1078,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>花びらに異常気象</p></td>
 <td><p>花辦的異常氣象</p></td>
 <td><p>暗黒魔剣サイマ獣ソルゴイル（暗黑魔劍災魔獸，<a href="../Page/澤木郁也.md" title="wikilink">澤木郁也</a> 聲）</p></td>
-<td><p><a href="../Page/宮下隼一.md" title="wikilink">宮下隼一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮下隼一" title="wikilink">宮下隼一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1080,8 +1086,8 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>5</p></td>
 <td><p>ヒーローになる時</p></td>
 <td><p>成為英雄時</p></td>
-<td><p>地震サイマ獣クエイクロス（地震災魔獸，<a href="../Page/小池浩司.md" title="wikilink">小池浩司</a> 聲）</p></td>
-<td><p><a href="../Page/長石多可男.md" title="wikilink">長石多可男</a></p></td>
+<td><p>地震サイマ獣クエイクロス（地震災魔獸，<a href="https://zh.wikipedia.org/wiki/小池浩司" title="wikilink">小池浩司</a> 聲）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長石多可男" title="wikilink">長石多可男</a></p></td>
 <td><p>武上純希</p></td>
 </tr>
 <tr class="even">
@@ -1098,7 +1104,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>7</p></td>
 <td><p>美しき災魔のワナ</p></td>
 <td><p>美人災魔的圈套</p></td>
-<td><p>掘削サイマ獣モルグール（挖掘災魔獸，<a href="../Page/伊藤榮次.md" title="wikilink">伊藤榮次</a> 聲）</p></td>
+<td><p>掘削サイマ獣モルグール（挖掘災魔獸，<a href="https://zh.wikipedia.org/wiki/伊藤榮次" title="wikilink">伊藤榮次</a> 聲）</p></td>
 <td><p>小中肇</p></td>
 <td><p>武上純希</p></td>
 </tr>
@@ -1107,7 +1113,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>8</p></td>
 <td><p>救急戦隊活動停止</p></td>
 <td><p>救急戰隊中止活動</p></td>
-<td><p>雷針サイマ獣ライマ（雷針災魔獸，<a href="../Page/根本央紀.md" title="wikilink">根本央紀</a> 聲）</p></td>
+<td><p>雷針サイマ獣ライマ（雷針災魔獸，<a href="https://zh.wikipedia.org/wiki/根本央紀" title="wikilink">根本央紀</a> 聲）</p></td>
 <td><p>小林靖子</p></td>
 <td></td>
 </tr>
@@ -1116,7 +1122,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>9</p></td>
 <td><p>盗まれた能力（ちから）</p></td>
 <td><p>被搶走的能力</p></td>
-<td><p>吸力サイマ獣バンパイラ（吸力災魔獸，<a href="../Page/遠近孝一.md" title="wikilink">遠近孝一</a> 聲）</p></td>
+<td><p>吸力サイマ獣バンパイラ（吸力災魔獸，<a href="https://zh.wikipedia.org/wiki/遠近孝一" title="wikilink">遠近孝一</a> 聲）</p></td>
 <td><p>渡邊勝也</p></td>
 <td><p>宮下隼一</p></td>
 </tr>
@@ -1125,8 +1131,8 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>10</p></td>
 <td><p>誇りのイエロー</p></td>
 <td><p>自豪的Go Yellow</p></td>
-<td><p>黒煙サイマ獣チャンバーノ（廢氣災魔獸，<a href="../Page/谷昌樹.md" title="wikilink">谷昌樹</a> 聲）</p></td>
-<td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
+<td><p>黒煙サイマ獣チャンバーノ（廢氣災魔獸，<a href="https://zh.wikipedia.org/wiki/谷昌樹" title="wikilink">谷昌樹</a> 聲）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山口亮太" title="wikilink">山口亮太</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1134,7 +1140,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>11</p></td>
 <td><p>灼熱の2大災魔獣</p></td>
 <td><p>灼熱的兩大災魔獸</p></td>
-<td><p>火炎サイマ獣ヘルゲロス（火焰災魔獸，<a href="../Page/戶部公璽.md" title="wikilink">戶部公璽</a> 聲）<br />
+<td><p>火炎サイマ獣ヘルゲロス（火焰災魔獸，<a href="https://zh.wikipedia.org/wiki/戶部公璽" title="wikilink">戶部公璽</a> 聲）<br />
 岩石サイマ獣マグマゴレム（強化）（強化岩石災魔獸，前原實 聲）</p></td>
 <td><p>長石多可男</p></td>
 <td><p>武上純希</p></td>
@@ -1153,7 +1159,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>13</p></td>
 <td><p>弟たちの反乱</p></td>
 <td><p>弟弟們的叛亂</p></td>
-<td><p>暴食サイマ獣ジュウキ（暴食災魔獸，<a href="../Page/楠見尚己.md" title="wikilink">楠見尚己</a> 聲）</p>
+<td><p>暴食サイマ獣ジュウキ（暴食災魔獸，<a href="https://zh.wikipedia.org/wiki/楠見尚己" title="wikilink">楠見尚己</a> 聲）</p>
 <ul>
 <li>ゴレムジュウキ</li>
 </ul></td>
@@ -1165,7 +1171,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>14</p></td>
 <td><p>恐怖のウイルス</p></td>
 <td><p>恐怖的病毒</p></td>
-<td><p>電脳サイマ獣サイバギルド（電腦災魔獸，<a href="../Page/林一夫.md" title="wikilink">林一夫</a> 聲）</p></td>
+<td><p>電脳サイマ獣サイバギルド（電腦災魔獸，<a href="https://zh.wikipedia.org/wiki/林一夫" title="wikilink">林一夫</a> 聲）</p></td>
 <td><p>宮下隼一</p></td>
 <td></td>
 </tr>
@@ -1174,11 +1180,11 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>15</p></td>
 <td><p>童鬼ドロップ出撃</p></td>
 <td><p>童鬼德羅布出擊</p></td>
-<td><p>超音波サイマ獣ブローゲン（超音波災魔獸，<a href="../Page/松本大.md" title="wikilink">松本大</a> 聲）</p>
+<td><p>超音波サイマ獣ブローゲン（超音波災魔獸，<a href="https://zh.wikipedia.org/wiki/松本大" title="wikilink">松本大</a> 聲）</p>
 <ul>
 <li>ゴレムブローゲン</li>
 </ul></td>
-<td><p><a href="../Page/諸田敏.md" title="wikilink">諸田敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/諸田敏" title="wikilink">諸田敏</a></p></td>
 <td><p>山口亮太</p></td>
 </tr>
 <tr class="even">
@@ -1186,7 +1192,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>16</p></td>
 <td><p>泥棒とサイマの卵</p></td>
 <td><p>小偷和災魔蛋</p></td>
-<td><p>ご褒美サイマ獣ガラガ（獎賞災魔獸，<a href="../Page/櫻井敏治.md" title="wikilink">櫻井敏治</a> 聲）</p>
+<td><p>ご褒美サイマ獣ガラガ（獎賞災魔獸，<a href="https://zh.wikipedia.org/wiki/櫻井敏治" title="wikilink">櫻井敏治</a> 聲）</p>
 <ul>
 <li>ゴレムガラガ</li>
 </ul></td>
@@ -1218,9 +1224,9 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>完敗</p></td>
 <td><p>冥界魔鬥士</p>
 <ul>
-<li>ゾード（佐多，<a href="../Page/石井隆夫.md" title="wikilink">石井隆夫</a> 聲）</li>
-<li>グール（古魯，<a href="../Page/齋藤龍吾.md" title="wikilink">齋藤龍吾</a> 聲）</li>
-<li>ジーン（金恩，<a href="../Page/緒方文興.md" title="wikilink">緒方文興</a> 聲）</li>
+<li>ゾード（佐多，<a href="https://zh.wikipedia.org/wiki/石井隆夫" title="wikilink">石井隆夫</a> 聲）</li>
+<li>グール（古魯，<a href="https://zh.wikipedia.org/wiki/齋藤龍吾" title="wikilink">齋藤龍吾</a> 聲）</li>
+<li>ジーン（金恩，<a href="https://zh.wikipedia.org/wiki/緒方文興" title="wikilink">緒方文興</a> 聲）</li>
 </ul></td>
 <td><p>小中肇</p></td>
 <td><p>小林靖子</p></td>
@@ -1283,7 +1289,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>25</p></td>
 <td><p>大魔女降臨の時</p></td>
 <td><p>大魔女降臨之時</p></td>
-<td><p>司祭サイマ獣ハレルヤン（祭司災魔獸，<a href="../Page/岸野一彥.md" title="wikilink">岸野一彥</a> 聲）</p></td>
+<td><p>司祭サイマ獣ハレルヤン（祭司災魔獸，<a href="https://zh.wikipedia.org/wiki/岸野一彥" title="wikilink">岸野一彥</a> 聲）</p></td>
 <td><p>諸田敏</p></td>
 <td><p>武上純希</p></td>
 </tr>
@@ -1292,7 +1298,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>26</p></td>
 <td><p>炎の龍皇子誕生</p></td>
 <td><p>炎之龍皇子誕生</p></td>
-<td><p>探索サイマ獣デスタグ（探索災魔獸，<a href="../Page/夏井貴浩.md" title="wikilink">夏井貴浩</a> 聲）</p></td>
+<td><p>探索サイマ獣デスタグ（探索災魔獸，<a href="https://zh.wikipedia.org/wiki/夏井貴浩" title="wikilink">夏井貴浩</a> 聲）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1301,7 +1307,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>27</p></td>
 <td><p>イエロー戦線離脱</p></td>
 <td><p>Yellow戰線脫離</p></td>
-<td><p>弓術サイマ獣ドグル（弓術災魔獸，<a href="../Page/寺島幹夫.md" title="wikilink">寺島幹夫</a> 聲）</p></td>
+<td><p>弓術サイマ獣ドグル（弓術災魔獸，<a href="https://zh.wikipedia.org/wiki/寺島幹夫" title="wikilink">寺島幹夫</a> 聲）</p></td>
 <td><p>小中肇</p></td>
 <td><p>小林靖子</p></td>
 </tr>
@@ -1319,8 +1325,8 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>29</p></td>
 <td><p>胸騒ぎの星空</p></td>
 <td><p>忐忑不安的星空</p></td>
-<td><p>操りサイマ獣パペトング（操縱災魔獸，<a href="../Page/永野廣一.md" title="wikilink">永野廣一</a> 聲）</p></td>
-<td><p><a href="../Page/佛田洋.md" title="wikilink">佛田洋</a></p></td>
+<td><p>操りサイマ獣パペトング（操縱災魔獸，<a href="https://zh.wikipedia.org/wiki/永野廣一" title="wikilink">永野廣一</a> 聲）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佛田洋" title="wikilink">佛田洋</a></p></td>
 <td><p>武上純希</p></td>
 </tr>
 <tr class="even">
@@ -1337,7 +1343,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>31</p></td>
 <td><p>切り裂け災魔空間（ゾーン）</p></td>
 <td><p>切裂災魔空間</p></td>
-<td><p>吸引サイマ獣バキューマ（吸引災魔獸，<a href="../Page/千田義正.md" title="wikilink">千田義正</a> 聲）</p></td>
+<td><p>吸引サイマ獣バキューマ（吸引災魔獸，<a href="https://zh.wikipedia.org/wiki/千田義正" title="wikilink">千田義正</a> 聲）</p></td>
 <td><p>長石多可男</p></td>
 <td><p>宮下隼一</p></td>
 </tr>
@@ -1391,7 +1397,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>37</p></td>
 <td><p>美女がサイマ獣!?</p></td>
 <td><p>美女是災魔獸？</p></td>
-<td><p>忍耐力サイマ獣ガルバリア（忍耐災魔獸，<a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a> 聲）</p></td>
+<td><p>忍耐力サイマ獣ガルバリア（忍耐災魔獸，<a href="https://zh.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a> 聲）</p></td>
 <td><p>小中肇</p></td>
 <td><p>武上純希</p></td>
 </tr>
@@ -1409,7 +1415,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>39</p></td>
 <td><p>無限連鎖を断て!</p></td>
 <td><p>斬斷無限連鎖！</p></td>
-<td><p>龍戦士サイマ獣リザーデス（龍戰士災魔獸，<a href="../Page/酒井哲也.md" title="wikilink">酒井哲也</a> 聲）</p></td>
+<td><p>龍戦士サイマ獣リザーデス（龍戰士災魔獸，<a href="https://zh.wikipedia.org/wiki/酒井哲也" title="wikilink">酒井哲也</a> 聲）</p></td>
 <td><p>渡邊勝也</p></td>
 <td><p>山口亮太</p></td>
 </tr>
@@ -1418,7 +1424,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>40</p></td>
 <td><p>基地壊滅0秒前</p></td>
 <td><p>基地崩壞0秒前！</p></td>
-<td><p>爆弾虫サイマ獣ヒルゲムージャ（炸彈蟲災魔獸，<a href="../Page/平野俊隆.md" title="wikilink">平野俊隆</a> 聲）<br />
+<td><p>爆弾虫サイマ獣ヒルゲムージャ（炸彈蟲災魔獸，<a href="https://zh.wikipedia.org/wiki/平野俊隆" title="wikilink">平野俊隆</a> 聲）<br />
 爆弾虫（炸彈蟲）</p></td>
 <td><p>宮下隼一</p></td>
 <td></td>
@@ -1428,7 +1434,7 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 <td><p>41</p></td>
 <td><p>マトイが負けた男</p></td>
 <td><p>打敗纏的男人</p></td>
-<td><p>熊手サイマ獣ガバラ（河童災魔獸，<a href="../Page/西前忠久.md" title="wikilink">西前忠久</a> 聲）</p></td>
+<td><p>熊手サイマ獣ガバラ（河童災魔獸，<a href="https://zh.wikipedia.org/wiki/西前忠久" title="wikilink">西前忠久</a> 聲）</p></td>
 <td><p>諸田敏</p></td>
 <td><p>小林靖子</p></td>
 </tr>
@@ -1547,18 +1553,19 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**救急戦隊ゴーゴーファイブ**」
-      - <small>作詞：[桑原永江](../Page/桑原永江.md "wikilink") /
-        作曲・編曲：[渡邊俊幸](../Page/渡邊俊幸.md "wikilink") /
-        歌：[石原慎一](../Page/石原慎一.md "wikilink") / 合唱：</small>
+      - <small>作詞：[桑原永江](https://zh.wikipedia.org/wiki/桑原永江 "wikilink")
+        / 作曲・編曲：[渡邊俊幸](https://zh.wikipedia.org/wiki/渡邊俊幸 "wikilink") /
+        歌：[石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink") /
+        合唱：</small>
 
 **Ending**
 
   -
     「**この星を この街を**」
       - <small>作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-        作曲：[風戸慎介](../Page/風戸慎介.md "wikilink") /
-        編曲：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink") /
-        歌：[高山成孝](../Page/高山成孝.md "wikilink")</small>
+        作曲：[風戸慎介](https://zh.wikipedia.org/wiki/風戸慎介 "wikilink")
+        / 編曲：[佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink") /
+        歌：[高山成孝](https://zh.wikipedia.org/wiki/高山成孝 "wikilink")</small>
 
 ### 插入曲
 
@@ -1574,16 +1581,19 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**走れゴーライナー\! 救え99マシン\!**」<small>（第44話）</small>
-      - <small>作詞：桑原永江 / 作曲：渡辺俊幸 / 編曲：[山本健司](../Page/山本健司.md "wikilink")
-        / 歌：[宮内タカユキ](../Page/宮内タカユキ.md "wikilink")</small>
+      - <small>作詞：桑原永江 / 作曲：渡辺俊幸 /
+        編曲：[山本健司](https://zh.wikipedia.org/wiki/山本健司 "wikilink")
+        /
+        歌：[宮内タカユキ](https://zh.wikipedia.org/wiki/宮内タカユキ "wikilink")</small>
 
 <!-- end list -->
 
   -
     「**緊急合体\! ビクトリーロボ**」<small>（第4・7・14・20・28話）</small>
       - <small>作詞：桑原永江 / 作曲：渡辺俊幸 /
-        編曲：[龜山耕一郎](../Page/龜山耕一郎.md "wikilink")
-        / 歌：[山形ユキオ](../Page/山形ユキオ.md "wikilink")</small>
+        編曲：[龜山耕一郎](https://zh.wikipedia.org/wiki/龜山耕一郎 "wikilink")
+        /
+        歌：[山形ユキオ](https://zh.wikipedia.org/wiki/山形ユキオ "wikilink")</small>
     <!-- end list -->
       -
         第22話ではインストゥルメンタル版が使用されている。
@@ -1612,8 +1622,10 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**PSYMA 〜破壊の烙印〜**」<small>（第37話）</small>
-      - <small>作詞：小林靖子 / 作曲：渡辺俊幸 / 編曲：[石川恵樹](../Page/石川恵樹.md "wikilink")
-        / 歌：[坂井紀雄](../Page/坂井紀雄.md "wikilink")</small>
+      - <small>作詞：小林靖子 / 作曲：渡辺俊幸 /
+        編曲：[石川恵樹](https://zh.wikipedia.org/wiki/石川恵樹 "wikilink")
+        /
+        歌：[坂井紀雄](https://zh.wikipedia.org/wiki/坂井紀雄 "wikilink")</small>
 
 <!-- end list -->
 
@@ -1625,8 +1637,9 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**超巨大ロボ\!\! グランドライナー**」（第13・16話）
-      - <small>作詞：桑原永江 / 作曲：渡辺俊幸 / 編曲：[奥慶一](../Page/奥慶一.md "wikilink") /
-        歌：石原慎一</small>
+      - <small>作詞：桑原永江 / 作曲：渡辺俊幸 /
+        編曲：[奥慶一](https://zh.wikipedia.org/wiki/奥慶一 "wikilink")
+        / 歌：石原慎一</small>
 
 <!-- end list -->
 
@@ -1653,15 +1666,15 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**NEVER END\!\!**」<small>（第45話）</small>
-      - <small>作詞：[洲崎千恵子](../Page/洲崎千恵子.md "wikilink") / 作曲・編曲：奥慶一 /
-        歌：巽マツリ（坂口望二香）</small>
+      - <small>作詞：[洲崎千恵子](https://zh.wikipedia.org/wiki/洲崎千恵子 "wikilink")
+        / 作曲・編曲：奥慶一 / 歌：巽マツリ（坂口望二香）</small>
 
 <!-- end list -->
 
   -
     「**STOP THE WARS**」<small>（第41話）</small>
-      - <small>作詞：[金子みなと](../Page/金子みなと.md "wikilink") /
-        作曲・編曲：[外山和彦](../Page/外山和彦.md "wikilink") /
+      - <small>作詞：[金子みなと](https://zh.wikipedia.org/wiki/金子みなと "wikilink")
+        / 作曲・編曲：[外山和彦](https://zh.wikipedia.org/wiki/外山和彦 "wikilink") /
         歌：宮内タカユキ</small>
     <!-- end list -->
       -
@@ -1690,8 +1703,9 @@ Homing**，此外，列車制導導彈也能發射強力的冷卻用導彈。和
 
   -
     「**5人（みんな）**」<small>（第45話）</small>
-      - <small>作詞・作曲：マイク眞木 / 編曲：[山口玉三郎](../Page/山口玉三郎.md "wikilink") /
-        歌：巽モンド（マイク眞木）</small>
+      - <small>作詞・作曲：マイク眞木 /
+        編曲：[山口玉三郎](https://zh.wikipedia.org/wiki/山口玉三郎 "wikilink")
+        / 歌：巽モンド（マイク眞木）</small>
     <!-- end list -->
       -
         第6話では、マトイが矢沢永吉の『夢の彼方』を歌っている他、第33話では、モーニング娘。の『LOVEマシーン』のイントロ部分が使用されている。

@@ -1,9 +1,9 @@
-《**誘惑**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")13張[單曲](../Page/單曲.md "wikilink")。1998年4月29日與另一單曲《[SOUL
+《**誘惑**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年4月29日與另一單曲《[SOUL
 LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發行。是1998年日本的銷量冠軍單曲。
 
 ## 簡介
 
-繼《[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")》和《[HOWEVER](../Page/HOWEVER.md "wikilink")》之後再次成為Oricon公信榜週榜冠軍單曲。年度銷量高達161.1萬張，是[1998年度日本單曲銷量冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。\[1\][CDTV的年榜排名則排行第](../Page/COUNT_DOWN_TV.md "wikilink")2位，僅次於[SMAP的](../Page/SMAP.md "wikilink")《[夜空的彼方](../Page/夜空的彼方.md "wikilink")》。
+繼《[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")》和《[HOWEVER](../Page/HOWEVER.md "wikilink")》之後再次成為Oricon公信榜週榜冠軍單曲。年度銷量高達161.1萬張，是[1998年度日本單曲銷量冠軍](../Page/Oricon單曲年榜冠軍作品列表.md "wikilink")。\[1\][CDTV的年榜排名則排行第](../Page/COUNT_DOWN_TV.md "wikilink")2位，僅次於[SMAP的](../Page/SMAP.md "wikilink")《[夜空的彼方](https://zh.wikipedia.org/wiki/夜空的彼方 "wikilink")》。
 
 和另一張單曲《[SOUL
 LOVE](../Page/SOUL_LOVE.md "wikilink")》同日發行，引起巨大的話題性。在Oricon當週週榜上《誘惑》和《SOUL
@@ -14,12 +14,12 @@ LOVE》分別成為第1、第2位。使GLAY成為繼[藤圭子](../Page/藤圭�
 ## 收錄曲目
 
 1.  **誘惑**
-      - 作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](../Page/佐久間正英.md "wikilink")
+      - 作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
     <!-- end list -->
       -
-        [TDK](../Page/TDK.md "wikilink")「[MiniDisc](../Page/MiniDisc.md "wikilink")」的廣告歌
+        [TDK](https://zh.wikipedia.org/wiki/TDK "wikilink")「[MiniDisc](../Page/MiniDisc.md "wikilink")」的廣告歌
 2.  **Little Lovebirds**
-      - 作詞、作曲：[TERU](../Page/TERU.md "wikilink")；編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
+      - 作詞、作曲：[TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")；編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
 3.  **誘惑 (instrumental)**
 
 ## 參考資料

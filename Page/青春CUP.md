@@ -1,5 +1,5 @@
-《**青春CUP**》（）是[日本漫画家](../Page/日本.md "wikilink")[中田ゆみ的作品](../Page/中田ゆみ.md "wikilink")，為[雙葉社月刊漫畫雑誌](../Page/雙葉社.md "wikilink")《[Comic
-High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的電視動畫於2010年1月於日本播放，漫畫由臺灣東立出版社代理發行。
+《**青春CUP**》（）是[日本漫画家](../Page/日本.md "wikilink")[中田ゆみ的作品](https://zh.wikipedia.org/wiki/中田ゆみ "wikilink")，為[雙葉社月刊漫畫雑誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic
+High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園漫画。改編的電視動畫於2010年1月於日本播放，漫畫由臺灣東立出版社代理發行。
 
 ## 简介
 
@@ -8,8 +8,8 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 ## 登場人物
 
   -
-    本作品主人公，一年级A班的班长。[双马尾发型](../Page/双马尾.md "wikilink")，带着[眼镜](../Page/眼镜.md "wikilink")。入学考试时得到第一名。虽然成绩相当优秀，不过也有[天然呆的一面](../Page/天然呆.md "wikilink")。在祖母和圭吾的影响下，对内衣有强烈的执着，从周围女性的外观就能看出其内衣穿得不对，因為无法保持沉默而突然去抓别人的胸部，而多次被误解。还有着检查别的女孩子穿什么内衣的习惯。
-    小学6年级时，由于穿着[吊袜带上学](../Page/吊袜带.md "wikilink")，受到误解，被同学敬而远之。在初中入学式的时候，由于试穿成人向的艳丽短裤（圭吾造）被同学看到，被误解成在“做[援助交际](../Page/援助交际.md "wikilink")”，不过也因此结识遥和弥子两个朋友。从那之后就对她们关于如何穿着适当的内衣进行指导，并为了让更多的女孩子得到指导，在遥的提案下，决定创立“内衣部”。在有着“下流”、“太让人不好意思”之类固定观念的其它人的偏见、时不时无心的嘲笑面前，在遥、弥子、小町及水野老师的帮助下，创立了内衣同好会，并在其活动中努力着。
+    本作品主人公，一年级A班的班长。[双马尾发型](https://zh.wikipedia.org/wiki/双马尾 "wikilink")，带着[眼镜](https://zh.wikipedia.org/wiki/眼镜 "wikilink")。入学考试时得到第一名。虽然成绩相当优秀，不过也有[天然呆的一面](../Page/天然呆.md "wikilink")。在祖母和圭吾的影响下，对内衣有强烈的执着，从周围女性的外观就能看出其内衣穿得不对，因為无法保持沉默而突然去抓别人的胸部，而多次被误解。还有着检查别的女孩子穿什么内衣的习惯。
+    小学6年级时，由于穿着[吊袜带上学](https://zh.wikipedia.org/wiki/吊袜带 "wikilink")，受到误解，被同学敬而远之。在初中入学式的时候，由于试穿成人向的艳丽短裤（圭吾造）被同学看到，被误解成在“做[援助交际](https://zh.wikipedia.org/wiki/援助交际 "wikilink")”，不过也因此结识遥和弥子两个朋友。从那之后就对她们关于如何穿着适当的内衣进行指导，并为了让更多的女孩子得到指导，在遥的提案下，决定创立“内衣部”。在有着“下流”、“太让人不好意思”之类固定观念的其它人的偏见、时不时无心的嘲笑面前，在遥、弥子、小町及水野老师的帮助下，创立了内衣同好会，并在其活动中努力着。
     她的双亲已经去世，现在和义兄圭吾一起生活。祖母好像也是和圭吾同样做内衣设计相关工作的样子，在奈由小时候给了她少年用的“决胜内衣”。
   -
     奈由的同班同学，因為是大阪出身所以有關西腔調。與神宮寺弥子是好友。擔當著三位弟弟的姊姊。
@@ -75,18 +75,19 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
   - 原作：
   - 监督：
   - 系列构成：[吉田玲子](../Page/吉田玲子.md "wikilink")
-  - 人物设定：[谷津美弥子](../Page/谷津美弥子.md "wikilink")
-  - 音乐制作：[STAR CHILD](../Page/STAR_CHILD.md "wikilink")
+  - 人物设定：[谷津美弥子](https://zh.wikipedia.org/wiki/谷津美弥子 "wikilink")
+  - 音乐制作：[STAR
+    CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")
   - 动画制作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 ### 主题曲
 
   - 片头曲 「[Choose Bright\!\!](../Page/Choose_Bright!!.md "wikilink")」
-    作词：[大森祥子](../Page/大森祥子.md "wikilink")／作、编曲：[大久保薰](../Page/大久保薰.md "wikilink")
-    演唱：叶山奈由（[茅原实里](../Page/茅原实里.md "wikilink")）、神宮寺弥子（[寿美菜子](../Page/寿美菜子.md "wikilink")）、白石遥（[矢作纱友里](../Page/矢作纱友里.md "wikilink")）、天原清乃（[日笠阳子](../Page/日笠阳子.md "wikilink")）
+    作词：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")／作、编曲：[大久保薰](../Page/大久保薰.md "wikilink")
+    演唱：叶山奈由（[茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")）、神宮寺弥子（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）、白石遥（[矢作纱友里](https://zh.wikipedia.org/wiki/矢作纱友里 "wikilink")）、天原清乃（[日笠阳子](https://zh.wikipedia.org/wiki/日笠阳子 "wikilink")）
   - 片尾曲「[Shy Girls](../Page/Shy_Girls.md "wikilink")」
-    作词：[苍井琉琉](../Page/苍井琉琉.md "wikilink")／作、编曲：[宫崎诚](../Page/宫崎诚.md "wikilink")
-    演唱：叶山奈由（[茅原实里](../Page/茅原实里.md "wikilink")）、神宫寺弥子（[寿美菜子](../Page/寿美菜子.md "wikilink")）、白石遥（[矢作纱友里](../Page/矢作纱友里.md "wikilink")）、天原清乃（[日笠阳子](../Page/日笠阳子.md "wikilink")）
+    作词：[苍井琉琉](https://zh.wikipedia.org/wiki/苍井琉琉 "wikilink")／作、编曲：[宫崎诚](https://zh.wikipedia.org/wiki/宫崎诚 "wikilink")
+    演唱：叶山奈由（[茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")）、神宫寺弥子（[寿美菜子](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")）、白石遥（[矢作纱友里](https://zh.wikipedia.org/wiki/矢作纱友里 "wikilink")）、天原清乃（[日笠阳子](https://zh.wikipedia.org/wiki/日笠阳子 "wikilink")）
 
 ### 各話標題
 
@@ -111,7 +112,7 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 <td><p><a href="../Page/吉田玲子.md" title="wikilink">吉田玲子</a></p></td>
 <td><p>ひいろゆきな</p></td>
 <td><p>磨積良亞澄</p></td>
-<td><p><a href="../Page/谷津美弥子.md" title="wikilink">谷津美弥子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷津美弥子" title="wikilink">谷津美弥子</a></p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -170,7 +171,7 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 <td><p>揺れるオトコ心</p></td>
 <td><p>摇摆的少年心</p></td>
 <td><p>大知慶一郎</p></td>
-<td><p><a href="../Page/森脇真琴.md" title="wikilink">森脇真琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森脇真琴" title="wikilink">森脇真琴</a></p></td>
 <td><p>高林久弥</p></td>
 <td><p>山村俊了</p></td>
 <td><p>塩川貴史</p></td>
@@ -201,7 +202,7 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 <td><p>骄傲得挺起胸膛</p></td>
 <td><p>大知慶一郎</p></td>
 <td><p>森脇真琴</p></td>
-<td><p><a href="../Page/藤岡真紀.md" title="wikilink">藤岡真紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤岡真紀" title="wikilink">藤岡真紀</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -251,7 +252,7 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 <td><p>2010年1月4日 - 3月22日</p></td>
 <td><p>星期一 23時30分 - 24時00分<br />
 </p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">CS放送</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -277,11 +278,11 @@ High\!](../Page/Comic_High!.md "wikilink")》所連載校園漫画。改編的�
 
 ## 相關CD
 
-| 名稱                                                               | 類型                                 | 發售日        | 备注  |
-| ---------------------------------------------------------------- | ---------------------------------- | ---------- | --- |
-| \[\[青春CUP                                                        | 角色歌|青春CUP                          | 角色歌\]\]    | 角色歌 |
-| [CHU music×BRA drama](../Page/CHU_music×BRA_drama.md "wikilink") | [原聲音樂](../Page/原聲音樂.md "wikilink") | 2010年4月21日 |     |
-|                                                                  |                                    |            |     |
+| 名稱                                                               | 類型                                                    | 發售日        | 备注  |
+| ---------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --- |
+| \[\[青春CUP                                                        | 角色歌|青春CUP                                             | 角色歌\]\]    | 角色歌 |
+| [CHU music×BRA drama](../Page/CHU_music×BRA_drama.md "wikilink") | [原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink") | 2010年4月21日 |     |
+|                                                                  |                                                       |            |     |
 
 ## 脚注
 

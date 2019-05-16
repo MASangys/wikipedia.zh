@@ -1,4 +1,4 @@
-**SDN48**是[日本女子](../Page/日本.md "wikilink")[偶像團體](../Page/日本偶像.md "wikilink")，由[秋元康於](../Page/秋元康.md "wikilink")2009年創立，為[AKB48的姊妹團體](../Page/AKB48.md "wikilink")，但與AKB48不同的是以[性感路線為特色](../Page/性感.md "wikilink")、成員的整體年齡也較大。原則上每週六晩上8時30分開始，於平時由AKB48使用的[秋葉原](../Page/秋葉原.md "wikilink")[AKB48劇場進行公演](../Page/AKB48劇場.md "wikilink")\[1\]。2012年3月31日所有成員[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，團體的活動事實上已完全終止。
+**SDN48**是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，由[秋元康於](../Page/秋元康.md "wikilink")2009年創立，為[AKB48的姊妹團體](../Page/AKB48.md "wikilink")，但與AKB48不同的是以[性感路線為特色](../Page/性感.md "wikilink")、成員的整體年齡也較大。原則上每週六晩上8時30分開始，於平時由AKB48使用的[秋葉原](../Page/秋葉原.md "wikilink")[AKB48劇場進行公演](../Page/AKB48劇場.md "wikilink")\[1\]。2012年3月31日所有成員[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，團體的活動事實上已完全終止。
 
 ## 簡介
 
@@ -6,7 +6,7 @@
   - 固定於[星期六晚上進行公演](../Page/星期六.md "wikilink")，因此取其中的三個英文字
     **S**atur**D**ay **N**ight 而成為團體名字。
   - 由於當初公演為下午8時30分開演（最初規劃為下午10時），公演結束時間將會超過下午10時，與青少年保護育成條例牴觸，加上公演內容不適合青少年觀賞，因此未滿18歲及所有高中生，不得觀賞公演。不過自2009年12月起，19時開演的公演，滿18歲的高中生將准許觀賞。出道之後也會在星期六日間、假日等其他時間舉行公演。
-  - 2012年3月31日在[NHK音樂廳舉行](../Page/NHK音樂廳.md "wikilink")
+  - 2012年3月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")
     「」後，現行成員全部畢業\[2\]。
 
 ## 成員
@@ -31,12 +31,12 @@
 <td><p><a href="../Page/龝田和惠.md" title="wikilink">龝田和惠</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Twin_Planet.md" title="wikilink">Twin Planet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twin_Planet" title="wikilink">Twin Planet</a></p></td>
 <td><p>舊藝名：小田奈奈<br />
 现以组合出道</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/今吉惠.md" title="wikilink">今吉惠</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/今吉惠" title="wikilink">今吉惠</a><br />
 （）</p></td>
 <td></td>
 <td></td>
@@ -56,7 +56,7 @@
 <td><p><a href="../Page/浦野一美.md" title="wikilink">浦野一美</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Production尾木.md" title="wikilink">Production尾木</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Production尾木" title="wikilink">Production尾木</a></p></td>
 <td><p>原AKB48 Team A（初代）<br />
 原AKB48 Team B（初代）<br />
 现<a href="../Page/走廊奔跑隊7.md" title="wikilink">走廊奔跑隊7暂定成员</a></p></td>
@@ -93,7 +93,7 @@
 <td><p>前组合“7cm”成员</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/河內麻沙美.md" title="wikilink">河內麻沙美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河內麻沙美" title="wikilink">河內麻沙美</a></p></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
@@ -106,7 +106,7 @@
 <td></td>
 <td></td>
 <td><p>原AKB48 Team B（初代）<br />
-原属于<a href="../Page/Dresscode公司.md" title="wikilink">Dresscode公司</a><br />
+原属于<a href="https://zh.wikipedia.org/wiki/Dresscode公司" title="wikilink">Dresscode公司</a><br />
 进入了所有单曲的选拔</p></td>
 </tr>
 <tr class="odd">
@@ -160,7 +160,7 @@
 本名：竹川奈津子</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/西國原禮子.md" title="wikilink">西國原禮子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西國原禮子" title="wikilink">西國原禮子</a></p></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
@@ -182,11 +182,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/三井裕美.md" title="wikilink">三井裕美</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/三井裕美" title="wikilink">三井裕美</a><br />
 （）</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/office48.md" title="wikilink">office48</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/office48" title="wikilink">office48</a></p></td>
 <td><p>为AKB48、SKE48等编舞（SDN48毕业后）<br />
 舞蹈学校的讲师</p></td>
 </tr>
@@ -222,21 +222,21 @@
 本名：大木亞紀子</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伊東愛.md" title="wikilink">伊東愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊東愛" title="wikilink">伊東愛</a></p></td>
 <td></td>
 <td></td>
 <td><p>Avex Management</p></td>
 <td><p>现组合“7cm”成员</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大山愛未.md" title="wikilink">大山愛未</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大山愛未" title="wikilink">大山愛未</a></p></td>
 <td></td>
 <td></td>
 <td><p>JME ais</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/木本夕貴.md" title="wikilink">木本夕貴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木本夕貴" title="wikilink">木本夕貴</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,7 +275,7 @@
 本名：大木奈津子</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福田朱子.md" title="wikilink">福田朱子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福田朱子" title="wikilink">福田朱子</a></p></td>
 <td></td>
 <td></td>
 <td><p>Pirie Sound（所属）（）<br />
@@ -283,21 +283,21 @@ Rendezvous（经理）（）</p></td>
 <td><p>現藝名：AKANE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/藤社優美.md" title="wikilink">藤社優美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤社優美" title="wikilink">藤社優美</a></p></td>
 <td></td>
 <td></td>
 <td><p>Avex Management</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/細田海友.md" title="wikilink">細田海友</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/細田海友" title="wikilink">細田海友</a></p></td>
 <td></td>
 <td></td>
 <td><p>Avex Management</p></td>
 <td><p>现组合“7cm”成员</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/松島瑠美.md" title="wikilink">松島瑠美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松島瑠美" title="wikilink">松島瑠美</a></p></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
@@ -337,7 +337,7 @@ Rendezvous（经理）（）</p></td>
 <td><p>原AKB48 Team A（初代）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尻無浜冴美.md" title="wikilink">尻無浜冴美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尻無浜冴美" title="wikilink">尻無浜冴美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,11 +355,11 @@ Rendezvous（经理）（）</p></td>
 <td><p><a href="../Page/戶島花.md" title="wikilink">戶島花</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Dresscode公司.md" title="wikilink">Dresscode公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dresscode公司" title="wikilink">Dresscode公司</a></p></td>
 <td><p>原AKB48 Team A（初代）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/miray.md" title="wikilink">miray</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miray" title="wikilink">miray</a></p></td>
 <td></td>
 <td></td>
 <td><p>avex management</p></td>
@@ -386,7 +386,7 @@ Rendezvous（经理）（）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/仲里安也美.md" title="wikilink">仲里安也美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仲里安也美" title="wikilink">仲里安也美</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -395,7 +395,7 @@ Rendezvous（经理）（）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福山咲良.md" title="wikilink">福山咲良</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福山咲良" title="wikilink">福山咲良</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -405,7 +405,7 @@ Rendezvous（经理）（）</p></td>
 原属于</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伊藤花菜.md" title="wikilink">伊藤花菜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤花菜" title="wikilink">伊藤花菜</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -423,7 +423,7 @@ Rendezvous（经理）（）</p></td>
 <td><p>在大堀惠结婚前是48Group内唯一的已婚者</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/谷咲伴美.md" title="wikilink">谷咲伴美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷咲伴美" title="wikilink">谷咲伴美</a></p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
@@ -470,7 +470,7 @@ Rendezvous（经理）（）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/岩田優希.md" title="wikilink">岩田優希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩田優希" title="wikilink">岩田優希</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -721,7 +721,7 @@ Under的4名1期生正式成員昇格</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/环球音乐_(日本).md" title="wikilink">日本环球音乐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/环球音乐_(日本)" title="wikilink">日本环球音乐</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -802,7 +802,7 @@ PROD-5004</p></td>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2012年3月7日</p></td>
-<td><p><strong><a href="../Page/毫不认输Congratulation.md" title="wikilink">毫不认输Congratulation</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/毫不认输Congratulation" title="wikilink">毫不认输Congratulation</a></strong></p></td>
 <td><p>2</p></td>
 <td><p>74,459張</p></td>
 <td><p>90,507張</p></td>
@@ -849,7 +849,7 @@ PROD-5005</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/环球音乐_(日本).md" title="wikilink">日本环球音乐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/环球音乐_(日本)" title="wikilink">日本环球音乐</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -905,7 +905,7 @@ PROD-1001</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/环球音乐_(日本).md" title="wikilink">日本环球音乐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/环球音乐_(日本)" title="wikilink">日本环球音乐</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +917,7 @@ PROD-1001</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2012年3月28日</p></td>
-<td><p><strong><a href="../Page/SDN48_1st_Stage“诱惑的吊袜带”.md" title="wikilink">SDN48 1st Stage“诱惑的吊袜带”</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SDN48_1st_Stage“诱惑的吊袜带”" title="wikilink">SDN48 1st Stage“诱惑的吊袜带”</a></strong></p></td>
 <td><p>31</p></td>
 <td><p>3,130張</p></td>
 <td><p>3,663張</p></td>
@@ -1021,10 +1021,10 @@ PROD-1001</p></td>
 
 #### 剧场公演
 
-| 張                                           | 發售日        | 曲名                                                                           | 唱片編號         | 備考 |
-| ------------------------------------------- | ---------- | ---------------------------------------------------------------------------- | ------------ | -- |
-| [日本环球音乐](../Page/环球音乐_\(日本\).md "wikilink") |            |                                                                              |              |    |
-| 1                                           | 2012年3月28日 | **[SDN48 1st Stage“诱惑的吊袜带”](../Page/SDN48_1st_Stage“诱惑的吊袜带”.md "wikilink")** | UMBA-10001/2 |    |
+| 張                                                              | 發售日        | 曲名                                                                                              | 唱片編號         | 備考 |
+| -------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------ | -- |
+| [日本环球音乐](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink") |            |                                                                                                 |              |    |
+| 1                                                              | 2012年3月28日 | **[SDN48 1st Stage“诱惑的吊袜带”](https://zh.wikipedia.org/wiki/SDN48_1st_Stage“诱惑的吊袜带” "wikilink")** | UMBA-10001/2 |    |
 
 ## 出道歌曲選拔成員結果
 
@@ -1160,12 +1160,12 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 ## 音樂合作
 
-| 樂曲              | 音樂合作                                                                            | 收錄作品                                                                  |
-| --------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **MIN・MIN・MIN** | CM:[常盤薬品工業](../Page/常盤薬品工業.md "wikilink")『眠眠打破×SDN48』                           | 3rd單曲「[MIN·MIN·MIN](../Page/MIN·MIN·MIN.md "wikilink")」               |
-| **おねだりシャンパン**   | [富士電視台系](../Page/富士電視台.md "wikilink")『[志村軒](../Page/志村軒.md "wikilink")』8・9月度片尾曲 |                                                                       |
-| **クリクリ**        | 富士電視台系『志村軒』2012年3月度片尾曲                                                          | 5th單曲「[毫不認輸Congratulation](../Page/毫不認輸Congratulation.md "wikilink")」 |
-|                 |                                                                                 |                                                                       |
+| 樂曲              | 音樂合作                                                                                               | 收錄作品                                                                  |
+| --------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **MIN・MIN・MIN** | CM:[常盤薬品工業](https://zh.wikipedia.org/wiki/常盤薬品工業 "wikilink")『眠眠打破×SDN48』                           | 3rd單曲「[MIN·MIN·MIN](../Page/MIN·MIN·MIN.md "wikilink")」               |
+| **おねだりシャンパン**   | [富士電視台系](../Page/富士電視台.md "wikilink")『[志村軒](https://zh.wikipedia.org/wiki/志村軒 "wikilink")』8・9月度片尾曲 |                                                                       |
+| **クリクリ**        | 富士電視台系『志村軒』2012年3月度片尾曲                                                                             | 5th單曲「[毫不認輸Congratulation](../Page/毫不認輸Congratulation.md "wikilink")」 |
+|                 |                                                                                                    |                                                                       |
 
 ## 演出
 
@@ -1174,44 +1174,44 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
   - [馬路須加學園](../Page/馬路須加學園.md "wikilink")（2010年1月8日 -
     3月26日、[東京電視台](../Page/東京電視台.md "wikilink")） -
     浦野・大堀・小原・佐藤・なちゅ・野呂
-  - [馬路須加學園2](../Page/馬路須加學園#.E9.A6.AC.E8.B7.AF.E9.A0.88.E5.8A.A0.E5.AD.B8.E5.9C.922.md "wikilink")（2011年4月15日
+  - [馬路須加學園2](https://zh.wikipedia.org/wiki/馬路須加學園#.E9.A6.AC.E8.B7.AF.E9.A0.88.E5.8A.A0.E5.AD.B8.E5.9C.922 "wikilink")（2011年4月15日
     - 7月1日、東京電視台） - 佐藤・なちゅ
 
 ### 綜藝節目
 
   - Sky PerfecTV\!HD×娛樂\!371 presents 「GIRLS POP NEXT」（2010年2月25日、[Sky
-    PerfecTV\!HD娛樂](../Page/Sky_PerfecTV!.md "wikilink")\!371）
-  - [すっぽんの女たち](../Page/すっぽんの女たち.md "wikilink")（2010年6月2日 -
-    2011年3月30日、朝日電視台）
+    PerfecTV\!HD娛樂](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\!371）
+  - [すっぽんの女たち](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2010年6月2日
+    - 2011年3月30日、朝日電視台）
   - SDNイジリー（2011年4月9日 -
-    10月9日、[全國獨立UHF放送協議會加盟局](../Page/全國獨立UHF放送協議會.md "wikilink")）
-  - [AKBINGO\!](../Page/AKBINGO!.md "wikilink")（2011年4月19日・AKB48研究生 vs
-    SDN48 タリナイ48對決）
-  - [さんまのSUPERからくりTV](../Page/さんまのSUPERからくりTV.md "wikilink")（[替え歌選手権](../Page/替え歌.md "wikilink")）
+    10月9日、[全國獨立UHF放送協議會加盟局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")）
+  - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2011年4月19日・AKB48研究生
+    vs SDN48 タリナイ48對決）
+  - [さんまのSUPERからくりTV](https://zh.wikipedia.org/wiki/さんまのSUPERからくりTV "wikilink")（[替え歌選手権](https://zh.wikipedia.org/wiki/替え歌 "wikilink")）
   - SDN48+10\!（2010年8月1日 -
-    2012年3月17日\[4\]、[エンタ\!371](../Page/エンタ!371.md "wikilink")）
-  - [すっぽんの女たち2](../Page/すっぽんの女たち.md "wikilink")（2011年4月6日 -
-    2012年3月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
+    2012年3月17日\[4\]、[エンタ\!371](https://zh.wikipedia.org/wiki/エンタ!371 "wikilink")）
+  - [すっぽんの女たち2](https://zh.wikipedia.org/wiki/すっぽんの女たち "wikilink")（2011年4月6日
+    - 2012年3月28日、[朝日電視台](../Page/朝日電視台.md "wikilink")）
 
 ### 廣播
 
-  - [AKB48のオールナイトニッポン](../Page/AKB48のオールナイトニッポン.md "wikilink")
-    SDN48スペシャル（2010年6月18日、[日本放送](../Page/日本放送.md "wikilink")）
-    - 浦野・大堀・佐藤・野呂
-  - [篠田麻里子與愉快的夥伴們](../Page/篠田麻里子與愉快的夥伴們.md "wikilink")\[5\]（2010年12月4日 -
-    、[KBC廣播](../Page/KBC廣播.md "wikilink")） - 佐藤・野呂
-  - SDN48の[オールナイトニッポンR](../Page/オールナイトニッポンR.md "wikilink")
-    [ラジオ・チャリティ・ミュージックソンスペシャル](../Page/ラジオ・チャリティー・ミュージックソン.md "wikilink")（2010年12月24日、日本放送）
+  - [AKB48のオールナイトニッポン](https://zh.wikipedia.org/wiki/AKB48のオールナイトニッポン "wikilink")
+    SDN48スペシャル（2010年6月18日、[日本放送](../Page/日本放送.md "wikilink")） -
+    浦野・大堀・佐藤・野呂
+  - [篠田麻里子與愉快的夥伴們](https://zh.wikipedia.org/wiki/篠田麻里子與愉快的夥伴們 "wikilink")\[5\]（2010年12月4日
+    - 、[KBC廣播](https://zh.wikipedia.org/wiki/KBC廣播 "wikilink")） - 佐藤・野呂
+  - SDN48の[オールナイトニッポンR](https://zh.wikipedia.org/wiki/オールナイトニッポンR "wikilink")
+    [ラジオ・チャリティ・ミュージックソンスペシャル](https://zh.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")（2010年12月24日、日本放送）
     - 浦野・小原・佐藤
   - SDN48の全力で聴かなきゃダメじゃん\!\!（2011年5月18日 - 2012年3月28日 -
-    、[スターデジオ](../Page/スターデジオ.md "wikilink")）
+    、[スターデジオ](https://zh.wikipedia.org/wiki/スターデジオ "wikilink")）
   - SDN48のオールナイトニッポンR（2011年3月30日、日本放送）- KONAN・小原・近藤・佐藤・野呂・藤社
 
 ### CM
 
-  - [ダービーWeek](../Page/ダービーWeek.md "wikilink")（2011年）
-  - [常盤藥品工業](../Page/常盤藥品工業.md "wikilink")「SDN48×眠眠打破」（2011年7月5日 -
-    2012年3月31日）
+  - [ダービーWeek](https://zh.wikipedia.org/wiki/ダービーWeek "wikilink")（2011年）
+  - [常盤藥品工業](https://zh.wikipedia.org/wiki/常盤藥品工業 "wikilink")「SDN48×眠眠打破」（2011年7月5日
+    - 2012年3月31日）
 
 ## 公演
 
@@ -1230,7 +1230,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 
 <!-- end list -->
 
-1.  [誘惑的吊襪帶](../Page/SDN48_1st_Stage「誘惑的吊襪帶」#SDN48_1st_Stage_2期生「誘惑的吊襪帶」公演.md "wikilink")：2010年5月15日
+1.  [誘惑的吊襪帶](https://zh.wikipedia.org/wiki/SDN48_1st_Stage「誘惑的吊襪帶」#SDN48_1st_Stage_2期生「誘惑的吊襪帶」公演 "wikilink")：2010年5月15日
     - 2012年3月27日
 
 <!-- end list -->
@@ -1266,7 +1266,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 <!-- end list -->
 
   - AKB48 満席祭り希望
-    賛否両論（2010年3月24日・25日、[横濱體育館](../Page/横濱體育館.md "wikilink")）
+    賛否両論（2010年3月24日・25日、[横濱體育館](https://zh.wikipedia.org/wiki/横濱體育館 "wikilink")）
 
 <!-- end list -->
 
@@ -1277,7 +1277,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 <!-- end list -->
 
   - AKB48
-    演唱會「沒有驚喜」第3公演（2010年7月11日、[代代木第一体育館](../Page/国立代代木競技場#第一体育館.md "wikilink")）
+    演唱會「沒有驚喜」第3公演（2010年7月11日、[代代木第一体育館](https://zh.wikipedia.org/wiki/国立代代木競技場#第一体育館 "wikilink")）
 
 <!-- end list -->
 
@@ -1288,7 +1288,7 @@ SDN48決定正式出道，而出道單曲於2010年11月24日由Universal Music 
 <!-- end list -->
 
   - Visit Zoo AKB48  supported by
-    （2010年10月9日・10日、[葛西臨海公園](../Page/葛西臨海公園.md "wikilink")）
+    （2010年10月9日・10日、[葛西臨海公園](https://zh.wikipedia.org/wiki/葛西臨海公園 "wikilink")）
 
 <!-- end list -->
 
@@ -1460,8 +1460,8 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
 
 ### 雜誌
 
-  - [週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")（2009年10月19日・11月21日、[集英社](../Page/集英社.md "wikilink")）
-  - [スコラ](../Page/スコラ.md "wikilink")（2009年10月25日、[スコラマガジン](../Page/スコラ#株式会社スコラマガジン.md "wikilink")）
+  - [週刊プレイボーイ](https://zh.wikipedia.org/wiki/週刊プレイボーイ "wikilink")（2009年10月19日・11月21日、[集英社](../Page/集英社.md "wikilink")）
+  - [スコラ](https://zh.wikipedia.org/wiki/スコラ "wikilink")（2009年10月25日、[スコラマガジン](https://zh.wikipedia.org/wiki/スコラ#株式会社スコラマガジン "wikilink")）
 
 ## 相關條目
 
@@ -1471,8 +1471,8 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
   - [JKT48](../Page/JKT48.md "wikilink")
-  - [SNH48](../Page/SNH48.md "wikilink")
-  - [乃木坂46](../Page/乃木坂46.md "wikilink")
+  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
   - [在地偶像](../Page/在地偶像.md "wikilink")
   - [月刊AKB48團體新聞](../Page/月刊AKB48團體新聞.md "wikilink")
 
@@ -1499,5 +1499,5 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
     第二單「請給我愛」發售日延期、未定的信息](http://www.universal-music.co.jp/sdn48/news/index.html)
 
 4.  重播在2012年4月9日
-5.  播放翌日[レコチョクでも](../Page/レコチョク.md "wikilink")「番組ダイジェスト+番組で話せなかった篠田麻里子の内緒話」が配信される
+5.  播放翌日[レコチョクでも](https://zh.wikipedia.org/wiki/レコチョク "wikilink")「番組ダイジェスト+番組で話せなかった篠田麻里子の内緒話」が配信される
 6.

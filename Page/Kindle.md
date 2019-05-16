@@ -1,6 +1,6 @@
 **Amazon
-Kindle**是[亚马逊公司设计的一系列](../Page/亚马逊公司.md "wikilink")[電子書閱讀器](../Page/电子书阅读器.md "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](../Page/無線網路.md "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](../Page/电子书.md "wikilink")、[報紙](../Page/報紙.md "wikilink")、杂志、[部落格及其他](../Page/部落格.md "wikilink")[電子媒體](../Page/電子媒體.md "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](../Page/Lab126.md "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E
-Ink十六級灰度](../Page/E_Ink.md "wikilink")[電子紙顯示技術](../Page/電子紙.md "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括Sony、Kobo、BOOX、reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭。
+Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、杂志、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E
+Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括Sony、Kobo、BOOX、reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭。
 
 ## 命名和演变
 
@@ -20,8 +20,9 @@ Amazon 于2007年11月19日以 399 美元的价格推出了 Kindle
 
 该款 Kindle 是唯一一款能通过 SD 卡槽扩展内置存储容量的型号。
 
-该设备配备了六英寸（对角线）四级灰度显示屏，内置 250 [MB](../Page/MB.md "wikilink") 存储空间，可以存储大约
-200 本不带图片的电子书。\[8\]
+该设备配备了六英寸（对角线）四级灰度显示屏，内置 250
+[MB](https://zh.wikipedia.org/wiki/MB "wikilink") 存储空间，可以存储大约 200
+本不带图片的电子书。\[8\]
 
 Amazon 未在美国以外的地区销售第一代 Kindle。\[9\] 虽然 Amazon
 曾计划在英国和其他欧洲国家销售，但是最终因为与当地无线网络运营商的合作问题而被推迟。\[10\]
@@ -50,7 +51,7 @@ Kindle 2售价为299美元，于2009年10月22日降价为259美元，又于2010
 
 [KDX_and_K2.jpg](https://zh.wikipedia.org/wiki/File:KDX_and_K2.jpg "fig:KDX_and_K2.jpg")
 Amazon于2009年5月6日发布了Kindle
-DX，售价为489美元。這是第一款配備[加速規的Kindle](../Page/加速规.md "wikilink")。Kindle
+DX，售价为489美元。這是第一款配備[加速規的Kindle](https://zh.wikipedia.org/wiki/加速规 "wikilink")。Kindle
 DX配有9.7英吋（1200 x 824分辨率）的显示屏，內置4 GB容量（用户可用3.3 GB，无SD卡插槽），并且有如下改进：
 
   - 长达两周的电池使用时间（离线）或长达一周的使用时间（连接网络的情況下）
@@ -79,7 +80,7 @@ Amazon计划于2010年8月27日于美国和英国开始发售Kindle Keyboard.
 
 Kindle Keyboard相对于Kindle 2在外觀尺寸、按鍵設置佈局、屏幕等多方面均進行了更新，可謂是一次全面的升級換代。Kindle
 Keyboard比Kindle 2分別短了和窄了0.5英吋，同樣採用6英吋E
-Ink屏幕但總面積減少了21%，重量減少了17%，內容擴充到了4GB。按鍵區更加的小巧，取消了數字鍵，調整了5向按鍵的位置。在顯示方面，Kindle增強了字體顏色的對比度，使得閱讀掃瞄版PDF等文檔的時候獲得更加清晰的效果。Kindle3支持額外的字體和國際的Unicode字體(包括繁簡體中文)。它提供了新的基於[Webkit平台的瀏覽器](../Page/Webkit.md "wikilink"),以及4GB的內部儲存容量。Amazon同時宣稱，當關閉無線網絡功能時，其電池能維持至多一個月的使用時間。
+Ink屏幕但總面積減少了21%，重量減少了17%，內容擴充到了4GB。按鍵區更加的小巧，取消了數字鍵，調整了5向按鍵的位置。在顯示方面，Kindle增強了字體顏色的對比度，使得閱讀掃瞄版PDF等文檔的時候獲得更加清晰的效果。Kindle3支持額外的字體和國際的Unicode字體(包括繁簡體中文)。它提供了新的基於[Webkit平台的瀏覽器](https://zh.wikipedia.org/wiki/Webkit "wikilink"),以及4GB的內部儲存容量。Amazon同時宣稱，當關閉無線網絡功能時，其電池能維持至多一個月的使用時間。
 
 相對於之前Kindle支持內容格式的諸多限制，Kindle Keyboard進一步擴大了支持內容的格式。Kindle
 Keyboard支持無文檔保護的Word文本、PDF、HTML、TXT等文本格式，以及JPEG、GIF和PNG等主流圖片格式。且Kindle原系統支持中文繁體和簡體。
@@ -190,7 +191,7 @@ zh-tw:支援}--{zh-hans:觸屏;
 zh-tw:觸控螢幕}-操作及彩色顯示。操作系统經由亞馬遜特別訂製，內置了亞馬遜電子商店、媒體電影、在線電視和Kindle系列的在線電子書等服務。
 
 Kindle Fire-{zh-hans:支持;
-zh-tw:支援}-EPUB3規格，配合[微出版在美國掀起的風潮](../Page/微出版.md "wikilink")，以及亞馬遜9.99美金的低價電子書策略，[EHGBooks等微出版陣營迎合Amazon與](../Page/EHGBooks.md "wikilink")[E-Ink](../Page/E-Ink.md "wikilink")、[Qualcomm發展](../Page/Qualcomm.md "wikilink")[mirasol的Kindle](../Page/mirasol.md "wikilink")
+zh-tw:支援}-EPUB3規格，配合[微出版在美國掀起的風潮](../Page/微出版.md "wikilink")，以及亞馬遜9.99美金的低價電子書策略，[EHGBooks等微出版陣營迎合Amazon與](https://zh.wikipedia.org/wiki/EHGBooks "wikilink")[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")、[Qualcomm發展](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")[mirasol的Kindle](https://zh.wikipedia.org/wiki/mirasol "wikilink")
 Fire電子紙升級計畫，傳統出版商反而先萌生退出亞馬遜網路商城的事件
 [1](http://www.nytimes.com/2012/04/16/business/media/amazons-e-book-pricing-a-constant-thorn-for-publishers.html?pagewanted=all)。
 
@@ -202,19 +203,20 @@ HD，分为7英寸以及8.9英寸两款。提供了更快的Wi-Fi连接，立体
 ## 应用程序
 
 Amazon.com於2009年3月3日在蘋果[App
-Store發行了一款名為](../Page/App_Store.md "wikilink")*Kindle for
-iPhone*的應用程序。這款應用程序可以讓[iPhone和](../Page/iPhone.md "wikilink")[iPod
-touch用戶在他們自己的iPhone或iPod](../Page/iPod_touch.md "wikilink")
-touch上瀏覽Kindle的內容，目前已经支持[iPad](../Page/iPad.md "wikilink")。除此之外，用户亦可于Amazon网站下载适用于自己设备的Kindle应用程序，目前支持平台有[Android](../Page/Android.md "wikilink")/[Windows
-Phone](../Page/Windows_Phone.md "wikilink")/[BlackBerry](../Page/BlackBerry.md "wikilink")/[Windows](../Page/Windows.md "wikilink")
-XP，7，8/[Mac](../Page/Mac.md "wikilink")。
+Store發行了一款名為](https://zh.wikipedia.org/wiki/App_Store "wikilink")*Kindle
+for
+iPhone*的應用程序。這款應用程序可以讓[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
+touch用戶在他們自己的iPhone或iPod](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
+touch上瀏覽Kindle的內容，目前已经支持[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。除此之外，用户亦可于Amazon网站下载适用于自己设备的Kindle应用程序，目前支持平台有[Android](../Page/Android.md "wikilink")/[Windows
+Phone](../Page/Windows_Phone.md "wikilink")/[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")/[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+XP，7，8/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。
 
 ## 评价
 
 ## 参见
 
-  - [电子书](../Page/电子书.md "wikilink")
-  - [Nook阅读器系列](../Page/Nook阅读器系列.md "wikilink")
+  - [电子书](https://zh.wikipedia.org/wiki/电子书 "wikilink")
+  - [Nook阅读器系列](https://zh.wikipedia.org/wiki/Nook阅读器系列 "wikilink")
 
 ## 參考资料
 

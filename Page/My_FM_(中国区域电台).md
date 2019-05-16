@@ -1,49 +1,49 @@
-北京寰宇行思广告服务有限公司联合全国地方电台建立的[音乐](../Page/音乐.md "wikilink")[广播网](../Page/广播.md "wikilink")。合作形式是由地方电台提供广播[频率播出](../Page/频率.md "wikilink")，寰宇提供节目运营外包服务。台呼为“MY
+北京寰宇行思广告服务有限公司联合全国地方电台建立的[音乐](../Page/音乐.md "wikilink")[广播网](https://zh.wikipedia.org/wiki/广播 "wikilink")。合作形式是由地方电台提供广播[频率播出](https://zh.wikipedia.org/wiki/频率 "wikilink")，寰宇提供节目运营外包服务。台呼为“MY
 FM \[具体频率\]，随时随心，好音乐”。
 
 ## 背景
 
-北京寰宇行思广告服务有限公司是[马来西亚寰宇集团在](../Page/马来西亚.md "wikilink")[北京设立的外资独资广告服务公司](../Page/北京.md "wikilink")，而马来西亚的[My
-FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
+北京寰宇行思广告服务有限公司是[马来西亚寰宇集团在](../Page/马来西亚.md "wikilink")[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My
+FM正是寰宇所拥有的电台](https://zh.wikipedia.org/wiki/MY_\(马来西亚电台\) "wikilink")。
 
 ## 成员
 
 截止2016年，My
-FM在[南京](../Page/南京.md "wikilink")，[江西](../Page/江西.md "wikilink")，[陕西](../Page/陕西.md "wikilink")，[新疆](../Page/新疆.md "wikilink")，[长春](../Page/长春.md "wikilink")，[安徽](../Page/安徽.md "wikilink")，[湖南](../Page/湖南.md "wikilink")，[天津](../Page/天津.md "wikilink")，廣州等地建立了成员台。
+FM在[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")，[江西](https://zh.wikipedia.org/wiki/江西 "wikilink")，[陕西](https://zh.wikipedia.org/wiki/陕西 "wikilink")，[新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")，[长春](https://zh.wikipedia.org/wiki/长春 "wikilink")，[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")，[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")，[天津](https://zh.wikipedia.org/wiki/天津 "wikilink")，廣州等地建立了成员台。
 
-### [南京人民广播电台My](../Page/南京人民广播电台.md "wikilink") FM 103.5
+### [南京人民广播电台My](https://zh.wikipedia.org/wiki/南京人民广播电台 "wikilink") FM 103.5
 
-频率103.5MHz，原[六合电台频率](../Page/六合.md "wikilink")，2009年6月18日正式开播。\[1\]
+频率103.5MHz，原[六合电台频率](https://zh.wikipedia.org/wiki/六合 "wikilink")，2009年6月18日正式开播。\[1\]
 
-### [江西人民广播电台My](../Page/江西人民广播电台.md "wikilink") FM 96.9
+### [江西人民广播电台My](https://zh.wikipedia.org/wiki/江西人民广播电台 "wikilink") FM 96.9
 
 频率96.9MHz，原江西交通信息广播，2009年7月18日更名为MY FM 96.9。\[2\]
 
-### [陕西人民广播电台My](../Page/陕西人民广播电台.md "wikilink") FM 105.5
+### [陕西人民广播电台My](https://zh.wikipedia.org/wiki/陕西人民广播电台 "wikilink") FM 105.5
 
 频率105.5MHz，原陕西青春广播。
 
-### [新疆人民广播电台My](../Page/新疆人民广播电台.md "wikilink") FM 103.9
+### [新疆人民广播电台My](https://zh.wikipedia.org/wiki/新疆人民广播电台 "wikilink") FM 103.9
 
 频率103.9MHz，原新疆音乐广播。
 
-### [长春人民广播电台My](../Page/长春人民广播电台.md "wikilink") FM 88.0
+### [长春人民广播电台My](https://zh.wikipedia.org/wiki/长春人民广播电台 "wikilink") FM 88.0
 
 频率 88.0MHz，原长春乡村戏曲广播。
 
-### [安徽人民广播电台My](../Page/安徽人民广播电台.md "wikilink") FM 96.1
+### [安徽人民广播电台My](https://zh.wikipedia.org/wiki/安徽人民广播电台 "wikilink") FM 96.1
 
-频率96.1MHz，原[安徽电台旅游广播](../Page/安徽电台.md "wikilink")，2009年9月7日改版试播，2009年10月31日正式开播。\[3\]
+频率96.1MHz，原[安徽电台旅游广播](https://zh.wikipedia.org/wiki/安徽电台 "wikilink")，2009年9月7日改版试播，2009年10月31日正式开播。\[3\]
 
-### [湖南人民广播电台My](../Page/湖南人民广播电台.md "wikilink") FM 97.5
+### [湖南人民广播电台My](https://zh.wikipedia.org/wiki/湖南人民广播电台 "wikilink") FM 97.5
 
-频率97.5MHz([长沙](../Page/长沙.md "wikilink")、[湘潭](../Page/湘潭.md "wikilink")、[郴州](../Page/郴州.md "wikilink")、[张家界](../Page/张家界.md "wikilink")、[株洲](../Page/株洲.md "wikilink"))，FM96.9MHz（[衡阳](../Page/衡阳.md "wikilink")、[株洲](../Page/株洲.md "wikilink")、[娄底](../Page/娄底.md "wikilink")、[湘潭](../Page/湘潭.md "wikilink")），FM90.8MHz（[岳阳](../Page/岳阳.md "wikilink")），FM87.5MHz（[常德](../Page/常德.md "wikilink")），原[湖南人民广播电台文艺频道](../Page/湖南人民广播电台.md "wikilink")，试播中。\[4\]
+频率97.5MHz([长沙](https://zh.wikipedia.org/wiki/长沙 "wikilink")、[湘潭](https://zh.wikipedia.org/wiki/湘潭 "wikilink")、[郴州](https://zh.wikipedia.org/wiki/郴州 "wikilink")、[张家界](https://zh.wikipedia.org/wiki/张家界 "wikilink")、[株洲](https://zh.wikipedia.org/wiki/株洲 "wikilink"))，FM96.9MHz（[衡阳](https://zh.wikipedia.org/wiki/衡阳 "wikilink")、[株洲](https://zh.wikipedia.org/wiki/株洲 "wikilink")、[娄底](https://zh.wikipedia.org/wiki/娄底 "wikilink")、[湘潭](https://zh.wikipedia.org/wiki/湘潭 "wikilink")），FM90.8MHz（[岳阳](https://zh.wikipedia.org/wiki/岳阳 "wikilink")），FM87.5MHz（[常德](https://zh.wikipedia.org/wiki/常德 "wikilink")），原[湖南人民广播电台文艺频道](https://zh.wikipedia.org/wiki/湖南人民广播电台 "wikilink")，试播中。\[4\]
 
-### [大港人民广播电台My](../Page/大港人民广播电台.md "wikilink") FM 100.5
+### [大港人民广播电台My](https://zh.wikipedia.org/wiki/大港人民广播电台 "wikilink") FM 100.5
 
-频率100.5MHz，原[大港电台频率](../Page/大港.md "wikilink")。
+频率100.5MHz，原[大港电台频率](https://zh.wikipedia.org/wiki/大港 "wikilink")。
 
-### [广州市广播电视台My](../Page/广州市广播电视台.md "wikilink") FM
+### [广州市广播电视台My](https://zh.wikipedia.org/wiki/广州市广播电视台 "wikilink") FM
 
 频率88.0MHz，原「飛揚88青年廣播」。
 

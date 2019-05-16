@@ -1,12 +1,12 @@
 「**MTV Unplugged
 ayaka**」為[日本歌手](../Page/日本.md "wikilink")[絢香的DVD作品](../Page/絢香.md "wikilink")。DVD版於2010年1月13日發行。[Blu-ray
-Disc版則於](../Page/Blu-ray_Disc.md "wikilink")1月20日發行。
+Disc版則於](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")1月20日發行。
 
 ## 解說
 
   - 絢香活動休止前最後的單獨公演，於2009年11月18日在「大阪城ホール」舉辦的LIVE影像。
   - 初回版收錄「Making Video」以及「LIVE音源
-    CD」。CD收錄當日演唱曲[麥可傑克森的](../Page/麥可傑克森.md "wikilink")「Human
+    CD」。CD收錄當日演唱曲[麥可傑克森的](https://zh.wikipedia.org/wiki/麥可傑克森 "wikilink")「Human
     Nature」。
 
 ## 收錄内容
@@ -16,14 +16,15 @@ Disc版則於](../Page/Blu-ray_Disc.md "wikilink")1月20日發行。
 ※DVD、BD版共通
 
 1.  [Jewelry day](../Page/Jewelry_day.md "wikilink")
-2.  [I believe](../Page/I_believe.md "wikilink")
-3.  [Why](../Page/CLAP&LOVE/Why.md "wikilink")
-4.  [牽手吧](../Page/牽手吧/歌頌愛.md "wikilink")
+2.  [I believe](https://zh.wikipedia.org/wiki/I_believe "wikilink")
+3.  [Why](https://zh.wikipedia.org/wiki/CLAP&LOVE/Why "wikilink")
+4.  [牽手吧](https://zh.wikipedia.org/wiki/牽手吧/歌頌愛 "wikilink")
 5.  [晚安寶貝](../Page/Sing_to_the_Sky.md "wikilink")
-6.  [blue days](../Page/melody〜SOUNDS_REAL〜.md "wikilink")
-7.  [三日月](../Page/三日月.md "wikilink")
+6.  [blue
+    days](https://zh.wikipedia.org/wiki/melody〜SOUNDS_REAL〜 "wikilink")
+7.  [三日月](https://zh.wikipedia.org/wiki/三日月 "wikilink")
 8.  [歡迎回來](../Page/歡迎回來.md "wikilink")
-9.  [夢的夥伴](../Page/夢的夥伴/為愛而夢.md "wikilink")
+9.  [夢的夥伴](https://zh.wikipedia.org/wiki/夢的夥伴/為愛而夢 "wikilink")
 10. [謝謝。](../Page/這片天空下.md "wikilink")
 11. [WINDING ROAD](../Page/WINDING_ROAD_\(絢香×可苦可樂單曲\).md "wikilink")
 12. [這片天空下](../Page/這片天空下.md "wikilink")

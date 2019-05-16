@@ -1,6 +1,7 @@
 **Hearts
-Grow**（ハーツ・グロウ）是[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町出身的](../Page/本部町.md "wikilink")5人[音樂團體](../Page/音樂團體.md "wikilink")。2006年由[EPIC
-Records Japan發行單曲](../Page/EPIC_Records_Japan.md "wikilink")「Road」出道。
+Grow**（ハーツ・グロウ）是[沖繩縣](../Page/沖繩縣.md "wikilink")[本部町出身的](../Page/本部町.md "wikilink")5人[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。2006年由[EPIC
+Records
+Japan發行單曲](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")「Road」出道。
 
 ## 成員
 
@@ -18,8 +19,8 @@ Records Japan發行單曲](../Page/EPIC_Records_Japan.md "wikilink")「Road」�
 
 ## 來歷
 
-出身[沖繩縣](../Page/沖繩縣.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[本部町](../Page/本部町.md "wikilink")、由在便當店的地下室作成音樂工作室並且集結於「[紫陽花音樂村](../Page/紫陽花音樂村.md "wikilink")」這個音樂活動的當地六位高中生在2004年所組成。在沖縄縣內，經過[街頭表演和](../Page/街頭表演.md "wikilink")[Live
-House的表演活動後](../Page/Live_House.md "wikilink")，2006年正式出道。
+出身[沖繩縣](../Page/沖繩縣.md "wikilink")[国頭郡](https://zh.wikipedia.org/wiki/国頭郡 "wikilink")[本部町](../Page/本部町.md "wikilink")、由在便當店的地下室作成音樂工作室並且集結於「[紫陽花音樂村](https://zh.wikipedia.org/wiki/紫陽花音樂村 "wikilink")」這個音樂活動的當地六位高中生在2004年所組成。在沖縄縣內，經過[街頭表演和](https://zh.wikipedia.org/wiki/街頭表演 "wikilink")[Live
+House的表演活動後](https://zh.wikipedia.org/wiki/Live_House "wikilink")，2006年正式出道。
 
 2009年11月、以「音樂性不一樣」的理由停止活動。由主唱春奈單飛且預定要繼續音樂活動（概要可參考他們的官方網站）。
 
@@ -42,14 +43,14 @@ House的表演活動後](../Page/Live_House.md "wikilink")，2006年正式出道
 
 <!-- end list -->
 
-  - **[搖搖晃晃](../Page/搖搖晃晃.md "wikilink")**（2006年12月6日）
+  - **[搖搖晃晃](https://zh.wikipedia.org/wiki/搖搖晃晃 "wikilink")**（2006年12月6日）
     1.  搖搖晃晃（[東京電視台動畫](../Page/東京電視台.md "wikilink")「[火影忍者](../Page/火影忍者.md "wikilink")」第九期和[神奈川電視台](../Page/神奈川電視台.md "wikilink")「音樂罐」2007年1月片頭曲）
     2.  故事
     3.  搖搖晃晃(Instrumental)
 
 <!-- end list -->
 
-  - **[向日葵](../Page/向日葵_\(Hearts_Grow\).md "wikilink")**（2007年6月13日）
+  - **[向日葵](https://zh.wikipedia.org/wiki/向日葵_\(Hearts_Grow\) "wikilink")**（2007年6月13日）
     1.  向日葵（[東京電視台](../Page/東京電視台.md "wikilink")
         動畫「[飛天小女警Z](../Page/飛天小女警Z.md "wikilink")」第四期片尾曲）
     2.  夏色
@@ -57,18 +58,20 @@ House的表演活動後](../Page/Live_House.md "wikilink")，2006年正式出道
 
 <!-- end list -->
 
-  - **[重疊的影子](../Page/重疊的影子.md "wikilink")**（2008年1月23日）
+  - **[重疊的影子](https://zh.wikipedia.org/wiki/重疊的影子 "wikilink")**（2008年1月23日）
     1.  重疊的影子（[東京電視台](../Page/東京電視台.md "wikilink")
-        動畫「[銀魂](../Page/銀魂_\(動畫\).md "wikilink")」第四期片頭曲）
+        動畫「[銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")」第四期片頭曲）
     2.  天空藍
     3.  吶喊
     4.  重疊的影子(Instrumental)
 
 <!-- end list -->
 
-  - **[天空](../Page/天空_\(Hearts_Grow\).md "wikilink")**（2008年9月3日）
-    1.  天空 [全國獨立UHF放送協議會](../Page/全國獨立UHF放送協議會.md "wikilink") 動畫「[鐵腕巴迪
-        DECODE](../Page/鐵腕巴迪_DECODE.md "wikilink")」片頭曲）
+  - **[天空](https://zh.wikipedia.org/wiki/天空_\(Hearts_Grow\) "wikilink")**（2008年9月3日）
+    1.  天空
+        [全國獨立UHF放送協議會](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")
+        動畫「[鐵腕巴迪
+        DECODE](https://zh.wikipedia.org/wiki/鐵腕巴迪_DECODE "wikilink")」片頭曲）
     2.  未來行程表（[日本越洋航空](../Page/日本越洋航空.md "wikilink") 2008年印象曲）
     3.  天空(Instrumental)
 
@@ -89,22 +92,23 @@ House的表演活動後](../Page/Live_House.md "wikilink")，2006年正式出道
     2.  向日葵ちゃんぷるう、らふてい、スパムMix
     3.  島人ぬ宝
           -
-            [BEGIN的島人ぬ宝](../Page/BEGIN.md "wikilink")。
+            [BEGIN的島人ぬ宝](https://zh.wikipedia.org/wiki/BEGIN "wikilink")。
     4.  Road－Sweet Fuchagi Mix
     5.  Best Friend
           -
             [Kiroro的Best](../Page/Kiroro.md "wikilink") Friend。
-    6.  [ユラユラ](../Page/ユラユラ.md "wikilink")－Ryukyu HAYASHI Mix
+    6.  [ユラユラ](https://zh.wikipedia.org/wiki/ユラユラ "wikilink")－Ryukyu
+        HAYASHI Mix
 
 ### 數位下載
 
 **春〜spring〜**（2008年2月1日、[朝日放送](../Page/朝日放送.md "wikilink")「ビーバップ\!ハイヒール」片尾曲）
 
-  - [爆爆藍的春](../Page/爆爆藍.md "wikilink")〜spring〜。
+  - [爆爆藍的春](https://zh.wikipedia.org/wiki/爆爆藍 "wikilink")〜spring〜。
 
 ## 電視
 
-  - 超音2〜SuperMusic〜（[千葉電視台](../Page/千葉電視台.md "wikilink")）客串演出
+  - 超音2〜SuperMusic〜（[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")）客串演出
 
 ## 註釋
 

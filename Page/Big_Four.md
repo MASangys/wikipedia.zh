@@ -1,5 +1,5 @@
 The **Big Four**
-是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康及](../Page/蘇永康.md "wikilink")[梁漢文組成的](../Page/梁漢文.md "wikilink")[香港樂壇組合及音樂計劃](../Page/香港.md "wikilink")，名字源於[英格蘭超級足球聯賽的](../Page/英格蘭超級足球聯賽.md "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
+是由[張衛健](../Page/張衛健.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[蘇永康及](../Page/蘇永康.md "wikilink")[梁漢文組成的](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")[香港樂壇組合及音樂計劃](../Page/香港.md "wikilink")，名字源於[英格蘭超級足球聯賽的](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英超四大豪門](../Page/英超四大豪門.md "wikilink")。\[1\]
 
 2009年年尾推出第一首歌曲〈Big Four〉，並打入香港各大流行音樂榜。\[2\]
 
@@ -36,7 +36,7 @@ The **Big Four**
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁漢文.md" title="wikilink">梁漢文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,7 +121,7 @@ The **Big Four**
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="../Page/大家利事.md" title="wikilink">大家利事</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大家利事" title="wikilink">大家利事</a></p></td>
 <td><p>CD</p>
 <ol>
 <li>大家利事 （Big Four）（Big Four 2013演唱會主題曲）</li>
@@ -142,15 +142,15 @@ The **Big Four**
 
 ### 歌曲成績
 
-| **派台歌曲成績**                         |
-| ---------------------------------- |
-| 專輯                                 |
-| **2009年**                          |
-| The Big Hits                       |
-| **2010年**                          |
-| The Big Hits                       |
-| **2012年**                          |
-| [大家利事](../Page/大家利事.md "wikilink") |
+| **派台歌曲成績**                                            |
+| ----------------------------------------------------- |
+| 專輯                                                    |
+| **2009年**                                             |
+| The Big Hits                                          |
+| **2010年**                                             |
+| The Big Hits                                          |
+| **2012年**                                             |
+| [大家利事](https://zh.wikipedia.org/wiki/大家利事 "wikilink") |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -217,10 +217,10 @@ The **Big Four**
 （除夕）</p></td>
 <td><p><a href="../Page/臺灣電視公司.md" title="wikilink">台視主辦大型除夕節目</a><br />
 2015超級巨星紅白藝能大賞</p></td>
-<td><p><a href="../Page/台北小巨蛋.md" title="wikilink">台北小巨蛋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td></td>
 <td><p>於1月24日進行錄影<br />
-Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a></p></td>
+Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣演出</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2014年</strong></p></td>
@@ -232,8 +232,8 @@ Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a
 <tr class="odd">
 <td><p>11月21日</p></td>
 <td><p>WOW Big Four 約定您演唱會</p></td>
-<td><p><a href="../Page/澳門威尼斯人度假村酒店.md" title="wikilink">澳門威尼斯人度假村酒店</a><br />
-<a href="../Page/威尼斯人劇院.md" title="wikilink">威尼斯人劇場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澳門威尼斯人度假村酒店" title="wikilink">澳門威尼斯人度假村酒店</a><br />
+<a href="https://zh.wikipedia.org/wiki/威尼斯人劇院" title="wikilink">威尼斯人劇場</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -276,7 +276,7 @@ Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a
 <tr class="odd">
 <td><p>4月19-20日</p></td>
 <td><p>The Big Four大家利事世界巡迴演唱會 ‧ 馬來西亞站</p></td>
-<td><p><a href="../Page/雲頂高原#雲頂雲星劇場.md" title="wikilink">雲頂雲星劇場</a> Arena of Stars</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雲頂高原#雲頂雲星劇場" title="wikilink">雲頂雲星劇場</a> Arena of Stars</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -284,7 +284,7 @@ Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a
 <td><p>4月12-13日</p></td>
 <td><p>吳國敬 × 鄧建明 Man's Icon Concert 2013</p></td>
 <td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心</a><br />
-<a href="../Page/EMax#匯星.md" title="wikilink">匯星 Star Hall</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/EMax#匯星" title="wikilink">匯星 Star Hall</a></p></td>
 <td></td>
 <td><p>第一場：許志安、蘇永康及梁漢文<br />
 第二場：張衞健</p></td>
@@ -327,7 +327,7 @@ Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a
 <tr class="even">
 <td><p>12月24日</p></td>
 <td><p>The Big Four世界巡迴演唱會 ‧ 廣州站</p></td>
-<td><p><a href="../Page/廣州體育館.md" title="wikilink">廣州體育館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣州體育館" title="wikilink">廣州體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -440,26 +440,26 @@ Big Four第一次在<a href="../Page/台灣.md" title="wikilink">台灣演出</a
 
 ## 著作
 
-| 年份   | 名稱           | 出版公司         | [ISBN](../Page/ISBN.md "wikilink") |
-| ---- | ------------ | ------------ | ---------------------------------- |
-| 2010 | 不一樣的Big Four | 青春文化事業出版有限公司 | 9789881916532                      |
+| 年份   | 名稱           | 出版公司         | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| ---- | ------------ | ------------ | ----------------------------------------------------- |
+| 2010 | 不一樣的Big Four | 青春文化事業出版有限公司 | 9789881916532                                         |
 
 ## 綜藝節目
 
-| 日期          | 節目                                                                                         | 備註              |
-| ----------- | ------------------------------------------------------------------------------------------ | --------------- |
-| 2010年6月27日  | [TVB](../Page/電視廣播有限公司.md "wikilink") - [超級遊戲獎門人](../Page/超級遊戲獎門人.md "wikilink")           | 第10集嘉賓          |
-| 2011年3月6日   | [TVB](../Page/電視廣播有限公司.md "wikilink") - [華麗明星賽](../Page/華麗明星賽.md "wikilink")               | 第2集《Big 4大挑戰》嘉賓 |
-| 2010年6月26日  | [無線生活台](../Page/TVB_Good_Show台.md "wikilink") - [Big 4大四喜](../Page/Big_4大四喜.md "wikilink") | 節目主持            |
-| 2015年10月24日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [閨密教煮](../Page/閨密教煮.md "wikilink")                 | 第1集嘉賓           |
-| 2016年12月11日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [我愛香港](../Page/我愛香港.md "wikilink")                 | 第17集嘉賓          |
+| 日期          | 節目                                                                                            | 備註              |
+| ----------- | --------------------------------------------------------------------------------------------- | --------------- |
+| 2010年6月27日  | [TVB](../Page/電視廣播有限公司.md "wikilink") - [超級遊戲獎門人](../Page/超級遊戲獎門人.md "wikilink")              | 第10集嘉賓          |
+| 2011年3月6日   | [TVB](../Page/電視廣播有限公司.md "wikilink") - [華麗明星賽](../Page/華麗明星賽.md "wikilink")                  | 第2集《Big 4大挑戰》嘉賓 |
+| 2010年6月26日  | [無線生活台](../Page/TVB_Good_Show台.md "wikilink") - [Big 4大四喜](../Page/Big_4大四喜.md "wikilink")    | 節目主持            |
+| 2015年10月24日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [閨密教煮](../Page/閨密教煮.md "wikilink")                    | 第1集嘉賓           |
+| 2016年12月11日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [我愛香港](https://zh.wikipedia.org/wiki/我愛香港 "wikilink") | 第17集嘉賓          |
 
 ## 獎項
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第一回](../Page/2010年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《愛莫能助》
+  - [2010勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2010年勁歌金曲優秀選第一回得獎名單 "wikilink")
+    - 得獎歌曲《愛莫能助》
 
 ## 參考資料
 

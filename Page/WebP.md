@@ -1,8 +1,8 @@
-**WebP**（發音：*weppy*\[1\]\[2\]）是一種同時提供了[有損壓縮與](../Page/有損壓縮.md "wikilink")[無損壓縮](../Page/無損壓縮.md "wikilink")（可逆壓縮）的圖片檔案格式\[3\]，衍生自影像編碼格式[VP8](../Page/VP8.md "wikilink")\[4\]，被認為是WebM多媒體格式的姊妹項目，是由[Google在購買](../Page/Google.md "wikilink")[On2
-Technologies後發展出來](../Page/On2_Technologies.md "wikilink")\[5\]，以[BSD授權條款釋出](../Page/BSD授權條款.md "wikilink")。\[6\]
+**WebP**（發音：*weppy*\[1\]\[2\]）是一種同時提供了[有損壓縮與](https://zh.wikipedia.org/wiki/有損壓縮 "wikilink")[無損壓縮](https://zh.wikipedia.org/wiki/無損壓縮 "wikilink")（可逆壓縮）的圖片檔案格式\[3\]，衍生自影像編碼格式[VP8](../Page/VP8.md "wikilink")\[4\]，被認為是WebM多媒體格式的姊妹項目，是由[Google在購買](../Page/Google.md "wikilink")[On2
+Technologies後發展出來](../Page/On2_Technologies.md "wikilink")\[5\]，以[BSD授權條款釋出](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")。\[6\]
 
 WebP最初在2010年釋出，目標是減少檔案大小，但達到和[JPEG格式相同的圖片品質](../Page/JPEG.md "wikilink")，希望能夠減少圖片檔在網路上的傳送時間。\[7\]2011年11月8日，Google開始讓WebP支援無損壓縮和透明色（alpha通道）的功能，而在2012年8月16日的參考實做libwebp
-0.2.0中正式支援\[8\]\[9\]。根據Google較早的測試，WebP的無損壓縮比網路上找到的PNG檔少了45％的檔案大小，即使這些PNG檔在使用[pngcrush和](../Page/pngcrush.md "wikilink")[PNGOUT處理過](../Page/PNGOUT.md "wikilink")，WebP還是可以減少28％的檔案大小\[10\]。
+0.2.0中正式支援\[8\]\[9\]。根據Google較早的測試，WebP的無損壓縮比網路上找到的PNG檔少了45％的檔案大小，即使這些PNG檔在使用[pngcrush和](https://zh.wikipedia.org/wiki/pngcrush "wikilink")[PNGOUT處理過](https://zh.wikipedia.org/wiki/PNGOUT "wikilink")，WebP還是可以減少28％的檔案大小\[10\]。
 
 WebP支援的像素最大數量是16383x16383。有損壓縮的WebP僅支援8-bit的YUV
 4:2:0格式。而無損壓縮（可逆壓縮）的WebP支援VP8L編碼與8-bit之ARGB色彩空間。又無論是有損或無損壓縮皆支援Alpha透明通道、ICC色彩配置、XMP詮釋資料。
@@ -39,32 +39,32 @@ WebP的无损压缩采用先进的技术，例如用于不同颜色通道的专�
 ## 支援
 
 目前網頁瀏覽器當中，[Google
-Chrome和](../Page/Google_Chrome.md "wikilink")[Opera原生支援靜態與動態的WebP格式](../Page/Opera.md "wikilink")\[20\]\[21\]，而Google
+Chrome和](../Page/Google_Chrome.md "wikilink")[Opera原生支援靜態與動態的WebP格式](https://zh.wikipedia.org/wiki/Opera "wikilink")\[20\]\[21\]，而Google
 Chrome自12版開始支援WebP的漸進式解碼功能\[22\]。此外所有可以原生播放[WebM影像的瀏覽器](../Page/WebM.md "wikilink")，也可以透過javascript來顯示WebP影像\[23\]\[24\]。又Pale
 Moon 26+瀏覽器僅支援靜態的WebP圖像。Firefox瀏覽器亦在65.0版本支援WebP圖像。\[25\]
 
 網頁瀏覽器[GNOME
 Web和](../Page/GNOME_Web.md "wikilink")[KDE圖片瀏覽器](../Page/KDE.md "wikilink")[Gwenview也支援Webp](../Page/Gwenview.md "wikilink")。
 
-圖像軟體當中，[Picasa](../Page/Picasa.md "wikilink")（從3.9版本起）、[PhotoLine](../Page/PhotoLine.md "wikilink")、[Pixelmator](../Page/Pixelmator.md "wikilink")、[ImageMagick](../Page/ImageMagick.md "wikilink")、[XnView](../Page/XnView.md "wikilink")、[IrfanView](../Page/IrfanView.md "wikilink")、[GDAL](../Page/GDAL.md "wikilink")、Aseprite和[GIMP](../Page/GIMP.md "wikilink")（2.10起）皆原生支援WebP格式。
+圖像軟體當中，[Picasa](../Page/Picasa.md "wikilink")（從3.9版本起）、[PhotoLine](https://zh.wikipedia.org/wiki/PhotoLine "wikilink")、[Pixelmator](https://zh.wikipedia.org/wiki/Pixelmator "wikilink")、[ImageMagick](../Page/ImageMagick.md "wikilink")、[XnView](../Page/XnView.md "wikilink")、[IrfanView](../Page/IrfanView.md "wikilink")、[GDAL](https://zh.wikipedia.org/wiki/GDAL "wikilink")、Aseprite和[GIMP](../Page/GIMP.md "wikilink")（2.10起）皆原生支援WebP格式。
 
 蘋果在macOS Sierra及iOS 10的早期beta版本中加入了WebP支援。\[26\]而在2016年9月7日釋出的iOS
 10和macOS Sierra GM種子版本中卻移除了WebP的支援。
 
 ## 評論
 
-[x264的開發者之一](../Page/x264.md "wikilink")：Jason
+[x264的開發者之一](https://zh.wikipedia.org/wiki/x264 "wikilink")：Jason
 Garrett-Glaser，針對WebP做出了幾點評論\[27\]，根據和其他編碼器（JPEG、x264、[Theora](../Page/Theora.md "wikilink")）測試的結果，他認為WebP的影像品質是最差的，多數是在模糊度方面。他也評論Google應該等到WebP可以超越JPEG之後再發佈。不過在2011年4月20日，他提到新的WebP編碼器表現的非常好，超越JPEG指日可待。
 
 ## 相關條目
 
-  - [MNG](../Page/Multiple-image_Network_Graphics.md "wikilink")
-  - [APNG](../Page/APNG.md "wikilink")
+  - [MNG](https://zh.wikipedia.org/wiki/Multiple-image_Network_Graphics "wikilink")
+  - [APNG](https://zh.wikipedia.org/wiki/APNG "wikilink")
   - [WebM](../Page/WebM.md "wikilink")
   - [VP8](../Page/VP8.md "wikilink")
   - [JPEG 2000](../Page/JPEG_2000.md "wikilink")
   - [JPEG XR](../Page/JPEG_XR.md "wikilink")
-  - [BPG](../Page/Better_Portable_Graphics.md "wikilink")
+  - [BPG](https://zh.wikipedia.org/wiki/Better_Portable_Graphics "wikilink")
 
 ## 參考文獻
 

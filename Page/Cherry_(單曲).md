@@ -1,4 +1,4 @@
-《**Cherry**》（），是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[SPITZ的第](../Page/SPITZ.md "wikilink")13張[單曲](../Page/單曲.md "wikilink")。1996年4月10日發行。是SPITZ的代表作之一，也是他們迄今銷量第二高的單曲。
+《**Cherry**》（），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[SPITZ的第](../Page/SPITZ.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年4月10日發行。是SPITZ的代表作之一，也是他們迄今銷量第二高的單曲。
 
 ## 簡介
 
@@ -6,7 +6,7 @@
 
 與當時如日中天的樂團[Mr.Children的單曲](../Page/Mr.Children.md "wikilink")《[花
 -Mémento-Mori-](../Page/花_-Mémento-Mori-.md "wikilink")》同日發售，兩首歌曲都是non
-[tie-up單曲](../Page/tie-up.md "wikilink")，因此受到外界很大的關注。發行首週，《Cherry》銷量為35.2萬張，排行第2位，落後於《花
+[tie-up單曲](https://zh.wikipedia.org/wiki/tie-up "wikilink")，因此受到外界很大的關注。發行首週，《Cherry》銷量為35.2萬張，排行第2位，落後於《花
 -Mémento-Mori-》\[1\]；直至發售後的第4週，《Cherry》拼著充足的後勁才終於躍居週榜冠軍位置\[2\]。
 
 [Oricon公信榜統計總銷量達](../Page/Oricon公信榜.md "wikilink")161萬張，最終反而以3萬的優勢小胜《花
@@ -22,10 +22,10 @@ Game
 
 1.  **Cherry**（）
       -
-        作詞、作曲：[草野正宗](../Page/草野正宗.md "wikilink")；編曲：[笹路正德](../Page/笹路正德.md "wikilink")&[SPITZ](../Page/SPITZ.md "wikilink")
+        作詞、作曲：[草野正宗](../Page/草野正宗.md "wikilink")；編曲：[笹路正德](https://zh.wikipedia.org/wiki/笹路正德 "wikilink")&[SPITZ](../Page/SPITZ.md "wikilink")
 2.  **Bunny girl**（）
       -
-        作詞、作曲：[草野正宗](../Page/草野正宗.md "wikilink")；編曲：[笹路正德](../Page/笹路正德.md "wikilink")&[SPITZ](../Page/SPITZ.md "wikilink")
+        作詞、作曲：[草野正宗](../Page/草野正宗.md "wikilink")；編曲：[笹路正德](https://zh.wikipedia.org/wiki/笹路正德 "wikilink")&[SPITZ](../Page/SPITZ.md "wikilink")
 
 ## 參考資料
 

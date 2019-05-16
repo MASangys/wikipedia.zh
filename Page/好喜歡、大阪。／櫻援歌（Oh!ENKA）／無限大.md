@@ -12,7 +12,7 @@
 2.櫻援歌（Oh\!ENKA）（）
 
   - 作詞: MASA、作曲・編曲: 馬飼野康二
-  - 卡通『[忍者亂太郎](../Page/忍者亂太郎.md "wikilink")』（[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")）的第17首片尾曲。
+  - 卡通『[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")』（[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")）的第17首片尾曲。
 
 3.無限大（）
 

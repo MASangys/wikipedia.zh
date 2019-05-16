@@ -1,16 +1,16 @@
-《**假面騎士OOO**》(，)從2010年9月5日～2011年8月28日期間，於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝](../Page/特攝.md "wikilink")，为《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第12部[平成系列作品](../Page/平成.md "wikilink")。
+《**假面騎士OOO**》(，)從2010年9月5日～2011年8月28日期間，於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的[日本](../Page/日本.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")，为《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第12部[平成系列作品](../Page/平成.md "wikilink")。
 
-台灣[東森幼幼台從](../Page/東森幼幼台.md "wikilink")2013年6月16日起於每個星期日17:30～18:00播出，而香港[無綫電視定本作譯名為](../Page/無綫電視.md "wikilink")《**-{幪面超人OOO}-**》，從2013年7月13日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出。
+台灣[東森幼幼台從](../Page/東森幼幼台.md "wikilink")2013年6月16日起於每個星期日17:30～18:00播出，而香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人OOO}-**》，從2013年7月13日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:15～11:50播出。
 
 ## 本作特色
 
-  - 本作首次以[硬幣為主题](../Page/硬幣.md "wikilink")，除了這個，还围绕著[欲望和](../Page/欲望.md "wikilink")[内褲等关键字](../Page/内褲.md "wikilink")。
+  - 本作首次以[硬幣為主题](../Page/硬幣.md "wikilink")，除了這個，还围绕著[欲望和](https://zh.wikipedia.org/wiki/欲望 "wikilink")[内褲等关键字](https://zh.wikipedia.org/wiki/内褲 "wikilink")。
   - 本作的世界觀設定和後作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》\[1\]有所關聯。
   - 本作主角騎士所使用的相关道具為類似[自動販賣機的裝置](../Page/自動販賣機.md "wikilink")，當投入不同[代幣就可以變身成不同的戰鬥型態](../Page/代幣.md "wikilink")，若需要時可按下騎士機車成為一臺自動販賣機，再次投入代幣後可再變成騎士機車或得到其他不同機器。
   - 本作结合了历代平成假面騎士的相关元素，其中《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》就占大多数：
       - 本作繼《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》後，主角騎士的变身腰带来自远古时期，同時最终形態被設定為「會因陷入失控而有生命危險的形態」。
-      - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》和《[假面騎士劍](../Page/假面騎士劍.md "wikilink")》後，再次出現主角騎士有怪人形态\[2\]。
-      - 本作繼《[假面騎士電王](../Page/假面騎士電王.md "wikilink")》後，再次出現有一方怪人站在主角一方，并且并肩作战\[3\]。
+      - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》和《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》後，再次出現主角騎士有怪人形态\[2\]。
+      - 本作繼《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》後，再次出現有一方怪人站在主角一方，并且并肩作战\[3\]。
   - 由第2話起，每逢偶數回，上回提要畫面以3個核心代幣代表上一話劇情3個重點，並且在每話開始前和閉幕都有映司和Ankh所持有核心代幣總數畫面。\[4\]
   - 本作主角騎士的部分形態\[5\]含有一定的争议性\[6\]。
 
@@ -28,7 +28,7 @@
 
 ### 慾望
 
-本作主要面對的敵人與過去作品《[假面騎士電王](../Page/假面騎士電王.md "wikilink")》相同的部分就是「人類的慾望」。所不同點是各種人類的慾望都被怪人當作他們的食物。
+本作主要面對的敵人與過去作品《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》相同的部分就是「人類的慾望」。所不同點是各種人類的慾望都被怪人當作他們的食物。
 
 ### 一般硬幣 （Cell Medal）
 
@@ -123,7 +123,7 @@ OOO用作變身及變成其他形態的硬幣，那些硬幣就藏在幹部怪�
 <strong>鷹孔鷲</strong><br />
 <strong>鳥系聯組</strong></p></td>
 <td><p>原文：<br />
-於第20話及《<a href="../Page/假面騎士×假面騎士_OOO_&amp;_W_feat._Skull_Movie大戰_Core.md" title="wikilink">假面騎士×假面騎士 OOO &amp; W feat. Skull Movie大戰 Core</a>》登場。<br />
+於第20話及《<a href="https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&amp;_W_feat._Skull_Movie大戰_Core" title="wikilink">假面騎士×假面騎士 OOO &amp; W feat. Skull Movie大戰 Core</a>》登場。<br />
 利用「TAKA（猎鹰）」核心硬幣、「KUJAKU（孔雀）」核心硬幣與「CONDOR（秃鹰）」核心硬幣變身的形態</p></td>
 <td><p>頭部—紅色；<br />
 手臂—橙紅色；<br />
@@ -509,7 +509,7 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 | SHAGORITAH             | GORIRA   | 無。                  |                  |                                                                                                                                                                                                                     |
 | SHAGORITA              | TAKO     | 無。                  |                  |                                                                                                                                                                                                                     |
 | **PTOTERA COMBO**      | PTERA    | TRICERA             | TYRANNO          | 能夠釋放冷氣。擁有比鳥系更快的飛行速度。容易暴走                                                                                                                                                                                            |
-| **BIKASO COMBO**       | EBI（新製）  | KANI（新製）            | SASORI（新製）       | CSM限定型態，設定上是鴻上基金會解析了在《[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰 Core](../Page/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core.md "wikilink")》遭到破壞的甲殼系硬幣後重新製造、-{組合}-出來的聯組，據推測是兼具堅硬外骨骼和強大格鬥力的型態。                              |
+| **BIKASO COMBO**       | EBI（新製）  | KANI（新製）            | SASORI（新製）       | CSM限定型態，設定上是鴻上基金會解析了在《[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰 Core](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")》遭到破壞的甲殼系硬幣後重新製造、-{組合}-出來的聯組，據推測是兼具堅硬外骨骼和強大格鬥力的型態。           |
 | **SHIGAZESHI COMBO**   | SHIKA    | GAZERU              | USHI             | CSM限定型態，此聯組的硬幣曾在《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中以圖片資料的形式登場，設定上跟Poseidon的海神系硬幣一樣是在未來開發出來的硬幣，下述CSM限定形態亦同，據推測擅長用全身的尖角進行格鬥戰。                 |
 | **MUKACHIRI COMBO**    | MUKADE   | HACHI               | ARI              | CSM限定型態，此聯組的硬幣曾在《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中以圖片資料的形式登場，能精製毒液，並且能無聲無息的接近對手。                                                           |
 | **SEISHIROGUIN COMBO** | SEIUCHI  | SHIROKUMA           | PENGUIN          | CSM限定型態，此聯組的硬幣曾在《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中以圖片資料的形式登場，擅長在低溫活動，而且越冷越強，再加上寒冷的環境也會使對手的戰鬥力下降不少，因此就某方面來說是十分犯規的聯組，但本身有無降低週遭環境溫度的能力目前還不清楚。 |
@@ -555,7 +555,7 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
     變身為假面騎士Birth的Driver。由真木清人開發和製造，外型像扭蛋機。完全使用CELL
     MEDAL運作的系統。分別有原型版跟正式版(原型版在變身後在扭蛋會有紅色的條紋，而且召喚出的戰鬥武裝一樣會有紅色條紋)
     由於Birth Driver必須藉由消耗Cell Medal的能量以維持運作，因此使用過的Cell
-    Medals會消失（類似前作[電王中的零神卡](../Page/假面騎士電王.md "wikilink")）。而且Birth
+    Medals會消失（類似前作[電王中的零神卡](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")）。而且Birth
     Driver內有自爆系統，是為了防止Birth
     Driver落入其他人手中而設，只要一按真木設計的引爆器，Birth的胸口會發出紅色閃光後幾秒內爆炸，變身者會當場被炸死。但在第38話中後藤說明已經移除此系統。
     Driver左側有1個投幣口，使用時須投入1枚Cell Medal，然後轉動右邊把手半圈，便能變身成假面騎士Birth。
@@ -709,7 +709,7 @@ OOO的基本形態鷹虎蝗聯組的極限進化，超越能力的発揮而不�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>TAKA（<a href="../Page/鷹.md" title="wikilink">獵鷹</a>）</p></td>
+<td><p>TAKA（<a href="https://zh.wikipedia.org/wiki/鷹" title="wikilink">獵鷹</a>）</p></td>
 <td><p>鳥系</p></td>
 <td><p>頭部</p></td>
 <td><p>紅色</p></td>
@@ -800,7 +800,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>LION（<a href="../Page/獅.md" title="wikilink">獅</a>）</p></td>
+<td><p>LION（<a href="https://zh.wikipedia.org/wiki/獅" title="wikilink">獅</a>）</p></td>
 <td><p>貓系</p></td>
 <td><p>頭部</p></td>
 <td><p>金色</p></td>
@@ -810,7 +810,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 第38話從Kazari身上取回1枚<br />
 第44話被Kazari奪走1枚<br />
 第44話被OOO斬碎1枚</p></td>
-<td><p>發出強力閃光，威力等同<a href="../Page/閃光彈.md" title="wikilink">閃光彈</a>。變成貓系聯組更能發出炙熱光芒。</p></td>
+<td><p>發出強力閃光，威力等同<a href="https://zh.wikipedia.org/wiki/閃光彈" title="wikilink">閃光彈</a>。變成貓系聯組更能發出炙熱光芒。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -828,7 +828,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>CHEETAH（<a href="../Page/獵豹.md" title="wikilink">獵豹</a>）</p></td>
+<td><p>CHEETAH（<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹</a>）</p></td>
 <td><p>腿部</p></td>
 <td><p>澄黃色</p></td>
 <td><p>3枚<br />
@@ -871,7 +871,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>TAKO（<a href="../Page/章魚.md" title="wikilink">章魚</a>）</p></td>
+<td><p>TAKO（<a href="https://zh.wikipedia.org/wiki/章魚" title="wikilink">章魚</a>）</p></td>
 <td><p>腿部</p></td>
 <td><p>淺藍色</p></td>
 <td><p>3枚<br />
@@ -937,7 +937,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td><p>不能組合亞種形態</p></td>
 </tr>
 <tr class="odd">
-<td><p>TRICERA（<a href="../Page/三角龍.md" title="wikilink">三角龍</a>）</p></td>
+<td><p>TRICERA（<a href="https://zh.wikipedia.org/wiki/三角龍" title="wikilink">三角龍</a>）</p></td>
 <td><p>手臂</p></td>
 <td><p>紫紅色</p></td>
 <td><p>3枚<br />
@@ -971,7 +971,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 於劇場版《<a href="../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md" title="wikilink">假面騎士OOO Wonderful 將軍與21枚核心硬幣</a>》中出現</p></td>
 </tr>
 <tr class="even">
-<td><p>KAME（<a href="../Page/烏龜.md" title="wikilink">烏龜</a>）</p></td>
+<td><p>KAME（<a href="https://zh.wikipedia.org/wiki/烏龜" title="wikilink">烏龜</a>）</p></td>
 <td><p>手臂</p></td>
 <td><p>泥黃色</p></td>
 <td><p>雙腕護甲能防禦所有攻擊，兩手併在一起可以使出能量盾。</p></td>
@@ -980,7 +980,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>WANI（<a href="../Page/鱷目.md" title="wikilink">鱷魚</a>）</p></td>
+<td><p>WANI（<a href="https://zh.wikipedia.org/wiki/鱷目" title="wikilink">鱷魚</a>）</p></td>
 <td><p>腿部</p></td>
 <td><p>銅色</p></td>
 <td><p>可以像鋸子般用兩腳夾斷敵人。</p></td>
@@ -989,7 +989,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>EBI（<a href="../Page/蝦.md" title="wikilink">蝦</a>）</p></td>
+<td><p>EBI（<a href="https://zh.wikipedia.org/wiki/蝦" title="wikilink">蝦</a>）</p></td>
 <td><p>甲殼系</p></td>
 <td><p>頭部</p></td>
 <td><p>黑色</p></td>
@@ -1017,7 +1017,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>IMAGINE（<a href="../Page/假面騎士電王.md" title="wikilink">異魔神</a>）</p></td>
+<td><p>IMAGINE（<a href="https://zh.wikipedia.org/wiki/假面騎士電王" title="wikilink">異魔神</a>）</p></td>
 <td><p>魂系</p></td>
 <td><p>手臂</p></td>
 <td><p>淺紅色</p></td>
@@ -1036,7 +1036,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SAME（<a href="../Page/鯊魚.md" title="wikilink">鯊魚</a>）</p></td>
+<td><p>SAME（<a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">鯊魚</a>）</p></td>
 <td><p>海神系</p></td>
 <td><p>頭部</p></td>
 <td><p>淺藍色</p></td>
@@ -1057,7 +1057,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>OOKAMIUO（<a href="../Page/狼䲁科.md" title="wikilink">狼魚</a>）</p></td>
+<td><p>OOKAMIUO（<a href="https://zh.wikipedia.org/wiki/狼䲁科" title="wikilink">狼魚</a>）</p></td>
 <td><p>腿部</p></td>
 <td><p>暗紅色</p></td>
 <td></td>
@@ -1066,7 +1066,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>SUPER TAKA（超級<a href="../Page/鷹.md" title="wikilink">獵鷹</a>）</p></td>
+<td><p>SUPER TAKA（超級<a href="https://zh.wikipedia.org/wiki/鷹" title="wikilink">獵鷹</a>）</p></td>
 <td><p>超級系</p></td>
 <td><p>頭部</p></td>
 <td><p>紅金色</p></td>
@@ -1094,7 +1094,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>PANDA（<a href="../Page/熊貓.md" title="wikilink">熊貓</a>）</p></td>
+<td><p>PANDA（<a href="https://zh.wikipedia.org/wiki/熊貓" title="wikilink">熊貓</a>）</p></td>
 <td><p>重力系</p></td>
 <td><p>手臂</p></td>
 <td><p>白色</p></td>
@@ -1182,7 +1182,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Ankh（Lost）（）**（[飛田光里飾](../Page/飛田光里.md "wikilink")/[入野自由聲演](../Page/入野自由.md "wikilink")/香港配音:[麥皓豐](../Page/麥皓豐.md "wikilink")（怪人）、[魏惠娥](../Page/魏惠娥.md "wikilink")（人型））
+    **Ankh（Lost）（）**（[飛田光里飾](https://zh.wikipedia.org/wiki/飛田光里 "wikilink")/[入野自由聲演](../Page/入野自由.md "wikilink")/香港配音:[麥皓豐](../Page/麥皓豐.md "wikilink")（怪人）、[魏惠娥](../Page/魏惠娥.md "wikilink")（人型））
     鳥系幹部。右半身不完全，代表色是紅色，能創造哺育型的Yummy。
     一開始僅有左腕出現於劇中。常散落紅色羽毛。
     其軀體因為被鴻上找到，並且復活，但僅空有生命型態並無自我意識和記憶。
@@ -1198,7 +1198,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Uva（）**（[山田悠介飾](../Page/山田悠介.md "wikilink")／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
+    **Uva（）**（[山田悠介飾](https://zh.wikipedia.org/wiki/山田悠介 "wikilink")／香港配音:[周良鴻](../Page/周良鴻.md "wikilink")）
     昆蟲系幹部。下半身不完全，代表色是綠色，能創造蟲蛹型的Yummy。
     在復活時，身上持有七枚核心硬幣。
     名字的含義是「掠奪」。
@@ -1253,7 +1253,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Gamel（）**（[松本博之飾](../Page/松本博之.md "wikilink")/台灣配音:[李勇](../Page/李勇_\(配音員\).md "wikilink")／香港配音:[林筠翔](../Page/林筠翔.md "wikilink")）
+    **Gamel（）**（[松本博之飾](https://zh.wikipedia.org/wiki/松本博之 "wikilink")/台灣配音:[李勇](../Page/李勇_\(配音員\).md "wikilink")／香港配音:[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")）
     重力系幹部。上半身不完全，代表色是銀色，幾乎以自己的慾望創造Yummy。本身能創造超成長型的Yummy，劇中未使用，在其核心硬幣被Kazari奪走後而被使用。
     在首次復活時，身上持有七枚核心硬幣。
     名字的含義是「竊取」。
@@ -1270,7 +1270,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <!-- end list -->
 
   -
-    **Mezool（）**（[未來穗香飾](../Page/未來穗香.md "wikilink")/[野上尤加奈聲演](../Page/野上尤加奈.md "wikilink")/香港配音:[謝潔貞](../Page/謝潔貞.md "wikilink")（怪人）、[黃昕瑜](../Page/黃昕瑜.md "wikilink")（人型））
+    **Mezool（）**（[未來穗香飾](https://zh.wikipedia.org/wiki/未來穗香 "wikilink")/[野上尤加奈聲演](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")/香港配音:[謝潔貞](../Page/謝潔貞.md "wikilink")（怪人）、[黃昕瑜](../Page/黃昕瑜.md "wikilink")（人型））
     水棲系幹部，唯一女性的Greeed。上半身不完全，代表色是藍色，能創造繁殖型的Yummy。
     在首次復活時，身上持有八枚核心硬幣。
     名字的含義是「愛慾」。
@@ -1421,21 +1421,21 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/翼龍.md" title="wikilink">翼龍Yummy</a>（雄）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翼龍" title="wikilink">翼龍Yummy</a>（雄）</p></td>
 <td><p>憑依型</p></td>
 <td><p>不明</p></td>
 <td><p>知識</p></td>
 <td><p>可在天上高速飛行<br />
 胸部可射出光彈</p></td>
 <td><p>MOVIE大戰Core</p></td>
-<td><p><a href="../Page/下山吉光.md" title="wikilink">下山吉光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下山吉光" title="wikilink">下山吉光</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>翼龍Yummy（雌）</p></td>
 <td><p>鞋子</p></td>
 <td><p>舞蹈</p></td>
-<td><p><a href="../Page/道添愛美.md" title="wikilink">道添愛美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/道添愛美" title="wikilink">道添愛美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1476,18 +1476,18 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/貓.md" title="wikilink">貓Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貓" title="wikilink">貓Yummy</a></p></td>
 <td><p>寄宿型</p></td>
 <td><p>腹時門太</p></td>
 <td><p>飲食</p></td>
 <td><p>體型略大<br />
 腹部的肌肉能彈開攻擊</p></td>
 <td><p>3-4</p></td>
-<td><p><a href="../Page/勇吹輝.md" title="wikilink">勇吹輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勇吹輝" title="wikilink">勇吹輝</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/食人魚.md" title="wikilink">食人魚Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/食人魚" title="wikilink">食人魚Yummy</a></p></td>
 <td><p>繁殖型</p></td>
 <td><p>山野遙</p></td>
 <td><p>購物</p></td>
@@ -1500,7 +1500,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/野牛.md" title="wikilink">野牛Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/野牛" title="wikilink">野牛Yummy</a></p></td>
 <td><p>速成型</p></td>
 <td><p>Gamel</p></td>
 <td><p>擊中別人的頭</p></td>
@@ -1512,7 +1512,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/鯊魚.md" title="wikilink">鯊魚Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">鯊魚Yummy</a></p></td>
 <td><p>繁殖型</p></td>
 <td><p>只野通</p></td>
 <td><p>破壞</p></td>
@@ -1524,7 +1524,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/燕尾蝶.md" title="wikilink">燕尾蝶Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/燕尾蝶" title="wikilink">燕尾蝶Yummy</a></p></td>
 <td><p>蟲蛹型</p></td>
 <td><p>筑波敬介</p></td>
 <td><p>成名</p></td>
@@ -1535,13 +1535,13 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/暹羅貓.md" title="wikilink">暹羅貓Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/暹羅貓" title="wikilink">暹羅貓Yummy</a></p></td>
 <td><p>寄宿型</p></td>
 <td><p>田村慧</p></td>
 <td><p>表演其技術</p></td>
 <td><p>可用利爪撕裂敵人</p></td>
 <td><p>13-14</p></td>
-<td><p><a href="../Page/吉岡櫻.md" title="wikilink">吉岡櫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉岡櫻" title="wikilink">吉岡櫻</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1581,14 +1581,14 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/獅子.md" title="wikilink">獅子</a><a href="../Page/水母.md" title="wikilink">水母Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">獅子</a><a href="../Page/水母.md" title="wikilink">水母Yummy</a></p></td>
 <td><p>混合型</p></td>
 <td><p>山金十一</p></td>
 <td><p>復仇</p></td>
 <td><p>左手有爪子<br />
 嘴巴可噴出火球</p></td>
 <td><p>19-20</p></td>
-<td><p><a href="../Page/土平友厚.md" title="wikilink">土平友厚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/土平友厚" title="wikilink">土平友厚</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1599,7 +1599,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td><p>跳躍力極強<br />
 且可發出電擊</p></td>
 <td><p>21-22</p></td>
-<td><p><a href="../Page/遠籐大輔.md" title="wikilink">遠籐大輔</a>(日)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/遠籐大輔" title="wikilink">遠籐大輔</a>(日)<br />
 <a href="../Page/蔡德鈞.md" title="wikilink">蔡德鈞</a>(港)</p></td>
 </tr>
 <tr class="odd">
@@ -1636,7 +1636,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td><p>（青）</p></td>
-<td><p><a href="../Page/鸚鵡.md" title="wikilink">鸚鵡Yummy</a>（青）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鸚鵡" title="wikilink">鸚鵡Yummy</a>（青）</p></td>
 <td><p>哺育型</p></td>
 <td><p>岡村一樹</p></td>
 <td><p>再度站上擂台</p></td>
@@ -1657,7 +1657,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/烏賊.md" title="wikilink">烏賊</a><a href="../Page/獵豹.md" title="wikilink">獵豹Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏賊" title="wikilink">烏賊</a><a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹Yummy</a></p></td>
 <td><p>混合型</p></td>
 <td><p>千堂院</p></td>
 <td><p>消滅假面騎士<br />
@@ -1671,7 +1671,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/殺人鯨.md" title="wikilink">虎鯨</a><a href="../Page/熊貓.md" title="wikilink">熊貓Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殺人鯨" title="wikilink">虎鯨</a><a href="https://zh.wikipedia.org/wiki/熊貓" title="wikilink">熊貓Yummy</a></p></td>
 <td><p>真木清人</p></td>
 <td><p>慈愛和母性</p></td>
 <td><p>力量極大，左手可射出魚鰭</p></td>
@@ -1681,13 +1681,13 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/鳳蝶科.md" title="wikilink">黑鳳蝶Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳳蝶科" title="wikilink">黑鳳蝶Yummy</a></p></td>
 <td><p>蟲蛹型</p></td>
 <td><p>坂田浩介</p></td>
 <td><p>還債及報恩</p></td>
 <td><p>可在天上飛行並以鱗粉攻擊</p></td>
 <td><p>31</p></td>
-<td><p><a href="../Page/羽飼真理.md" title="wikilink">羽飼真理</a>(日)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/羽飼真理" title="wikilink">羽飼真理</a>(日)<br />
 <a href="../Page/李震權.md" title="wikilink">李震權</a>(港)</p></td>
 </tr>
 <tr class="odd">
@@ -1714,17 +1714,17 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/獨角獸.md" title="wikilink">獨角獸Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨角獸" title="wikilink">獨角獸Yummy</a></p></td>
 <td><p>憑依型</p></td>
 <td><p>獎座</p></td>
 <td><p>虛無</p></td>
 <td><p>可將人類的夢想具現化並破壞，且力量極大</p></td>
 <td><p>35-36</p></td>
-<td><p><a href="../Page/松本大.md" title="wikilink">松本大</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本大" title="wikilink">松本大</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/海膽.md" title="wikilink">海膽</a><a href="../Page/犰狳.md" title="wikilink">犰狳Yummy</a></p></td>
+<td><p><a href="../Page/海膽.md" title="wikilink">海膽</a><a href="https://zh.wikipedia.org/wiki/犰狳" title="wikilink">犰狳Yummy</a></p></td>
 <td><p>混合型</p></td>
 <td><p>Gamel</p></td>
 <td><p>睡眠</p></td>
@@ -1736,18 +1736,18 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/雞.md" title="wikilink">軍雞Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雞" title="wikilink">軍雞Yummy</a></p></td>
 <td><p>哺育型</p></td>
 <td><p>下田智子</p></td>
 <td><p>支配他人</p></td>
 <td><p>背上可射出緞帶<br />
 頭頂可噴出火球，且擅長近戰</p></td>
 <td><p>39-40</p></td>
-<td><p><a href="../Page/高階俊嗣.md" title="wikilink">高階俊嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高階俊嗣" title="wikilink">高階俊嗣</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/甲龍.md" title="wikilink">甲龍Yummy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甲龍" title="wikilink">甲龍Yummy</a></p></td>
 <td><p>憑依型</p></td>
 <td><p>冰塊</p></td>
 <td><p>虛無</p></td>
@@ -1755,7 +1755,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 全身可釋放冷氣，且力量極大</p></td>
 <td><p>41-42</p></td>
 <td><p><a href="../Page/桐井大介.md" title="wikilink">桐井大介</a>(日)<br />
-<a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a>(港)</p></td>
+<a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a>(港)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1923,7 +1923,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 <td></td>
 <td></td>
 <td><p>8.3%</p></td>
-<td><p><a href="../Page/米村正二.md" title="wikilink">米村正二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米村正二" title="wikilink">米村正二</a></p></td>
 <td><p>金田治</p></td>
 </tr>
 <tr class="even">
@@ -2388,20 +2388,20 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 ### 劇場版
 
   - 「[假面騎士W Forever A至Z/命運的Gaia
-    Memory](../Page/假面騎士W_Forever_A至Z/命運的Gaia_Memory.md "wikilink")」
+    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")」
   - 「[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰
-    Core](../Page/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core.md "wikilink")」
+    Core](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")」
   - 「[OOO·电王·All Riders Let's Go Kamen
     Riders](../Page/OOO·電王·All_Riders_Let's_Go_假面騎士.md "wikilink")」
   - 「[假面騎士OOO Wonderful
     將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")」
   - 「[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
     Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")」
-  - 「[假面騎士×假面騎士超級英雄大戰](../Page/假面騎士x超級戰隊_超級英雄大戰.md "wikilink")」
+  - 「[假面騎士×假面騎士超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")」
   - 「[假面騎士×假面騎士 Wizard & Fourze
-    Movie大戰Ultimatum](../Page/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum.md "wikilink")」
+    Movie大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")」
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
+    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
 
 ## 樂曲
 
@@ -2480,7 +2480,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
 ## 超級英雄時間關連項目
 
-  - [天裝戰隊護星者](../Page/天裝戰隊護星者.md "wikilink")
+  - [天裝戰隊護星者](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")
   - [海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
 
 ## 海外播映
@@ -2508,7 +2508,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 
 1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch，之後於2017年上映的《[假面騎士平成Generations
     FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](../Page/假面騎士W.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
+    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
 
 2.  幹巧的怪人形態在故事开始前本来就有，且才专属劇場版時被公布出来；而劍崎則是为了避免世界被毁灭而自愿变化的
 

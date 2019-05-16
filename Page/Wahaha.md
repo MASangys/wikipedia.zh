@@ -1,4 +1,4 @@
-《**Wahaha**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")8張[單曲](../Page/單曲.md "wikilink")。其[PV是在](../Page/PV.md "wikilink")[澡堂拍攝的](../Page/澡堂.md "wikilink")，內容則是在打掃澡堂。
+《**Wahaha**》（），為[日本男偶像團體](../Page/日本.md "wikilink")[關西傑尼斯8的第](../Page/關西傑尼斯8.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。其[PV是在](https://zh.wikipedia.org/wiki/PV "wikilink")[澡堂拍攝的](https://zh.wikipedia.org/wiki/澡堂 "wikilink")，內容則是在打掃澡堂。
 
 ## 收錄歌曲
 

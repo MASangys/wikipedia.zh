@@ -1,11 +1,11 @@
 《**Tomorrow never
-knows**》，是日本樂團[Mr.Children的第](../Page/Mr.Children.md "wikilink")6張單曲，1994年11月10日发行。此曲是日本1990年代[電視劇](../Page/日本電視劇.md "wikilink")[主題曲的代表性歌曲](../Page/主題曲.md "wikilink")，也是Mr.Children迄今為止銷量最高的單曲，是[Oricon單曲榜史上銷量第](../Page/Oricon.md "wikilink")7的單曲。\[1\]
+knows**》，是日本樂團[Mr.Children的第](../Page/Mr.Children.md "wikilink")6張單曲，1994年11月10日发行。此曲是日本1990年代[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")[主題曲的代表性歌曲](../Page/主題曲.md "wikilink")，也是Mr.Children迄今為止銷量最高的單曲，是[Oricon單曲榜史上銷量第](../Page/Oricon.md "wikilink")7的單曲。\[1\]
 同時對當時的日本社會有著深刻的意義。
 
 《Tomorrow never
 knows》是1994年日本電視劇《[青春無悔](../Page/青春無悔.md "wikilink")》的主題曲。同年11月單曲發售後，首週取得Oricon單曲週榜冠軍；隨後在12月中旬又蟬聯兩週Oricon單曲週榜冠軍。發售的三週後，銷量已經突破100萬張，之後銷量開始下滑。
 
-1995年1月日本發生[阪神大地震](../Page/阪神大地震.md "wikilink")，造成6400多人喪生；3月在[東京又發生舉世震驚的](../Page/東京.md "wikilink")[地下鐵沙林毒氣事件](../Page/東京地下鐵沙林毒氣事件.md "wikilink")。連串的天災人禍使1995年成為日本[平成時代動蕩的一年](../Page/平成時代.md "wikilink")，當時無數人有過厭世輕生的念頭。而同時，《Tomorrow
+1995年1月日本發生[阪神大地震](../Page/阪神大地震.md "wikilink")，造成6400多人喪生；3月在[東京又發生舉世震驚的](https://zh.wikipedia.org/wiki/東京 "wikilink")[地下鐵沙林毒氣事件](https://zh.wikipedia.org/wiki/東京地下鐵沙林毒氣事件 "wikilink")。連串的天災人禍使1995年成為日本[平成時代動蕩的一年](https://zh.wikipedia.org/wiki/平成時代 "wikilink")，當時無數人有過厭世輕生的念頭。而同時，《Tomorrow
 never knows》的銷量在1月開始突然重新上升，因為歌曲中面對無助孤單的未來的堅強生存意志和勇氣激勵了許多人勇敢面對困境。
 
 《Tomorrow never

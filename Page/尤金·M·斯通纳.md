@@ -1,4 +1,4 @@
-**尤金·莫里森·斯通纳**（，），[美国枪械设计师](../Page/美国.md "wikilink")，曾参加过[第二次世界大战](../Page/第二次世界大战.md "wikilink")，但是他在空軍軍營中只負責槍械清潔工作，並沒有真正上過戰場。**斯通纳**對[飛機非常有興趣](../Page/飛機.md "wikilink")。其代表作品为[M16步枪系列](../Page/M16突擊步槍.md "wikilink")、[M63武器系統與](../Page/斯通納63機槍.md "wikilink")[斯通納輕機槍](../Page/斯通納輕機槍.md "wikilink")。也設計出導氣系統廣受各國採用的[AR-18突擊步槍](../Page/AR-18突擊步槍.md "wikilink")。
+**尤金·莫里森·斯通纳**（，），[美国枪械设计师](../Page/美国.md "wikilink")，曾参加过[第二次世界大战](../Page/第二次世界大战.md "wikilink")，但是他在空軍軍營中只負責槍械清潔工作，並沒有真正上過戰場。**斯通纳**對[飛機非常有興趣](https://zh.wikipedia.org/wiki/飛機 "wikilink")。其代表作品为[M16步枪系列](../Page/M16突擊步槍.md "wikilink")、[M63武器系統與](https://zh.wikipedia.org/wiki/斯通納63機槍 "wikilink")[斯通納輕機槍](../Page/斯通納輕機槍.md "wikilink")。也設計出導氣系統廣受各國採用的[AR-18突擊步槍](../Page/AR-18突擊步槍.md "wikilink")。
 
 ## 作品
 
@@ -39,7 +39,7 @@
 
 ## 內部連結
 
-  - [米哈伊爾·季莫費耶維奇·卡拉什尼科夫](../Page/米哈伊爾·季莫費耶維奇·卡拉什尼科夫.md "wikilink")
+  - [米哈伊爾·季莫費耶維奇·卡拉什尼科夫](https://zh.wikipedia.org/wiki/米哈伊爾·季莫費耶維奇·卡拉什尼科夫 "wikilink")
 
 ## 外部链接
 

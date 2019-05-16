@@ -1,5 +1,5 @@
 **FileMaker**系列产品是可以跨平台（Windows
-和[Mac](../Page/Mac_OS.md "wikilink")）使用的[数据库](../Page/数据库.md "wikilink")[应用软件](../Page/应用软件.md "wikilink")，可以帮助用户快捷、方便地创建数据库应用程序。FileMaker
+和[Mac](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")）使用的[数据库](../Page/数据库.md "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，可以帮助用户快捷、方便地创建数据库应用程序。FileMaker
 系列产品包括 FileMaker Pro、FileMaker Pro Advanced、FileMaker Server 和 FileMaker
 Server Advanced（带 Advanced 的是進階版）。FileMaker 公司还有 Bento
 等产品。FileMaker的最近版本是v.14。唯獨 Bento 產品僅可在 iOS 系統操作，包含

@@ -1,6 +1,6 @@
-**HIT-5**是一組[中國大陸](../Page/中國大陸.md "wikilink")[男子組合](../Page/男子組合.md "wikilink")，團名含意为「5
+**HIT-5**是一組[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，團名含意为「5
 Handsome Idol
-Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出道。歌迷總稱為「鑽石」，應援色為銀色。2013年舉行＜你們還好嗎＞重新再出唱片，隊長[郭子渝亦宣布退出HIT](../Page/郭子渝.md "wikilink")-5，將作影視發展。2015年合約到期，宣布解散。
+Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出道。歌迷總稱為「鑽石」，應援色為銀色。2013年舉行＜你們還好嗎＞重新再出唱片，隊長[郭子渝亦宣布退出HIT](https://zh.wikipedia.org/wiki/郭子渝 "wikilink")-5，將作影視發展。2015年合約到期，宣布解散。
 
 ## 成員資料
 
@@ -61,7 +61,7 @@ Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出
   - 團內象徵：土之少年
   - 出生日期：
   - 血型：O
-  - 出生地：[鹿邑](../Page/鹿邑.md "wikilink")
+  - 出生地：[鹿邑](https://zh.wikipedia.org/wiki/鹿邑 "wikilink")
 
 ### 高瀚宇
 
@@ -69,7 +69,7 @@ Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出
   - 團內象徵：火之少年
   - 出生日期：
   - 血型：O
-  - 出生地：[台州](../Page/台州.md "wikilink")
+  - 出生地：[台州](https://zh.wikipedia.org/wiki/台州 "wikilink")
 
 ### 董玉峰
 
@@ -77,7 +77,7 @@ Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出
   - 團內象徵：木之少年
   - 出生日期：
   - 血型：AB
-  - 出生地：[鳳陽](../Page/鳳陽.md "wikilink")
+  - 出生地：[鳳陽](https://zh.wikipedia.org/wiki/鳳陽 "wikilink")
 
 ### 段黃巍
 
@@ -85,7 +85,7 @@ Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出
   - 團內象徵：金之少年
   - 出生日期：
   - 血型：B
-  - 出生地：[徐州](../Page/徐州.md "wikilink")
+  - 出生地：[徐州](https://zh.wikipedia.org/wiki/徐州 "wikilink")
 
 ### 楊帆
 
@@ -93,7 +93,7 @@ Teenagers」，代表五位引领时尚的魅力男孩。于2008年10月20日出
   - 團內象徵：水之少年
   - 出生日期：
   - 血型：A
-  - 出生地：[徐州](../Page/徐州.md "wikilink")
+  - 出生地：[徐州](https://zh.wikipedia.org/wiki/徐州 "wikilink")
 
 ## 獎項
 

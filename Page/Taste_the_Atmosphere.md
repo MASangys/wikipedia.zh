@@ -1,28 +1,28 @@
 《**Taste the
-Atmosphere**》是[香港歌手](../Page/香港歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語](../Page/粵語.md "wikilink")[EP](../Page/EP.md "wikilink")，於2010年10月15日發行。台灣則於2010年10月22日發行，同時發行香港引進版及台壓版。
+Atmosphere**》是[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2010年10月15日發行。台灣則於2010年10月22日發行，同時發行香港引進版及台壓版。
 
 ## 專輯簡介
 
 《**Taste the
-Atmosphere**》是繼[陳奕迅於](../Page/陳奕迅.md "wikilink")[香港紅磡體育館舉辦](../Page/香港紅磡體育館.md "wikilink")[DUO陳奕迅演唱會2010後推出的全新](../Page/DUO陳奕迅演唱會2010.md "wikilink")[EP](../Page/EP.md "wikilink")，收錄5首粵語及1首英文歌曲。在本專輯內，陳奕迅與多位非主流音樂人首次合作，包括專輯的監製[Joseph
-Ip](../Page/葉廣權.md "wikilink")（葉廣權）、鬼才[填詞人](../Page/填詞人.md "wikilink")[林敏驄](../Page/林敏驄.md "wikilink")，而他也是首次與歌手[薩頂頂](../Page/薩頂頂.md "wikilink")、[露雲娜](../Page/露雲娜.md "wikilink")、[莫文蔚合唱歌曲](../Page/莫文蔚.md "wikilink")，音樂類型大都與他以前的作品不同，本專輯可謂充滿實驗性\[1\]。
+Atmosphere**》是繼[陳奕迅於](../Page/陳奕迅.md "wikilink")[香港紅磡體育館舉辦](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")[DUO陳奕迅演唱會2010後推出的全新](https://zh.wikipedia.org/wiki/DUO陳奕迅演唱會2010 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，收錄5首粵語及1首英文歌曲。在本專輯內，陳奕迅與多位非主流音樂人首次合作，包括專輯的監製[Joseph
+Ip](https://zh.wikipedia.org/wiki/葉廣權 "wikilink")（葉廣權）、鬼才[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")[林敏驄](../Page/林敏驄.md "wikilink")，而他也是首次與歌手[薩頂頂](https://zh.wikipedia.org/wiki/薩頂頂 "wikilink")、[露雲娜](../Page/露雲娜.md "wikilink")、[莫文蔚合唱歌曲](../Page/莫文蔚.md "wikilink")，音樂類型大都與他以前的作品不同，本專輯可謂充滿實驗性\[1\]。
 
-專輯封面由著名[攝影師](../Page/攝影師.md "wikilink")[夏永康](../Page/夏永康.md "wikilink")（Wingshya）負責，於[香港](../Page/香港.md "wikilink")[大嶼山的](../Page/大嶼山.md "wikilink")[大東山取景](../Page/大東山.md "wikilink")，專輯推出後引起攝影愛好者的討論和舉辦外攝團前往當地，更一時掀起郊遊熱\[2\]\[3\]。下一張專輯《[Stranger
+專輯封面由著名[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[夏永康](../Page/夏永康.md "wikilink")（Wingshya）負責，於[香港](../Page/香港.md "wikilink")[大嶼山的](../Page/大嶼山.md "wikilink")[大東山取景](../Page/大東山.md "wikilink")，專輯推出後引起攝影愛好者的討論和舉辦外攝團前往當地，更一時掀起郊遊熱\[2\]\[3\]。下一張專輯《[Stranger
 Under My
 Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責拍攝封面](../Page/夏永康.md "wikilink")，同樣受到好評。
 
 ## 曲目
 
-| 次序               | 歌名                    | 作曲                                               | 填詞                               | 編曲                                                 | 監製                                                   | 備註                                    |
-| ---------------- | --------------------- | ------------------------------------------------ | -------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | ------------------------------------- |
-| 01               | Welcome to the Future | [John Laudon](../Page/John_Laudon.md "wikilink") | John Laudon                      | John Laudon                                        | rowspan = 8 | [Joseph Ip](../Page/葉廣權.md "wikilink") | Feat.[薩頂頂](../Page/薩頂頂.md "wikilink") |
-| 02               | 講男講女                  | [伍仲衡](../Page/伍仲衡.md "wikilink")                 | [藍奕邦](../Page/藍奕邦.md "wikilink") | [Richard Yuen](../Page/Richard_Yuen.md "wikilink") | Duet with [露雲娜](../Page/露雲娜.md "wikilink")           |                                       |
-| 03               | 葉問風中轉                 | [Eric Kwok](../Page/Eric_Kwok.md "wikilink")     | [林敏驄](../Page/林敏驄.md "wikilink") | [蘇德華](../Page/蘇德華.md "wikilink")                   |                                                      |                                       |
-| 04               | 花花世界                  | [張兆鴻](../Page/張兆鴻.md "wikilink")                 | [周禮茂](../Page/周禮茂.md "wikilink") | 張兆鴻                                                |                                                      |                                       |
-| 05               | 我杯茶                   | [方樹樑](../Page/方樹樑.md "wikilink")@好人有限            | [因葵](../Page/因葵.md "wikilink")   | 方樹樑                                                | Feat.[莫文蔚](../Page/莫文蔚.md "wikilink")                |                                       |
-| 06               | 超錯                    | [John Laudon](../Page/John_Laudon.md "wikilink") | [潘源良](../Page/潘源良.md "wikilink") | [John Laudon](../Page/John_Laudon.md "wikilink")   |                                                      |                                       |
-| 07（Hidden Track） | 葉問風中轉（Demo Version）   | Eric Kwok                                        | 林敏驄                              | [蘇德華](../Page/蘇德華.md "wikilink")                   |                                                      |                                       |
-| 08（Hidden Track） | 講男講女（NG Take）         | 伍仲衡                                              | 藍奕邦                              | Richard Yuen                                       | Duet with [露雲娜](../Page/露雲娜.md "wikilink")           |                                       |
+| 次序               | 歌名                    | 作曲                                                                  | 填詞                                                  | 編曲                                                                    | 監製                                                                      | 備註                                                       |
+| ---------------- | --------------------- | ------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------- |
+| 01               | Welcome to the Future | [John Laudon](https://zh.wikipedia.org/wiki/John_Laudon "wikilink") | John Laudon                                         | John Laudon                                                           | rowspan = 8 | [Joseph Ip](https://zh.wikipedia.org/wiki/葉廣權 "wikilink") | Feat.[薩頂頂](https://zh.wikipedia.org/wiki/薩頂頂 "wikilink") |
+| 02               | 講男講女                  | [伍仲衡](../Page/伍仲衡.md "wikilink")                                    | [藍奕邦](../Page/藍奕邦.md "wikilink")                    | [Richard Yuen](https://zh.wikipedia.org/wiki/Richard_Yuen "wikilink") | Duet with [露雲娜](../Page/露雲娜.md "wikilink")                              |                                                          |
+| 03               | 葉問風中轉                 | [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")     | [林敏驄](../Page/林敏驄.md "wikilink")                    | [蘇德華](https://zh.wikipedia.org/wiki/蘇德華 "wikilink")                   |                                                                         |                                                          |
+| 04               | 花花世界                  | [張兆鴻](https://zh.wikipedia.org/wiki/張兆鴻 "wikilink")                 | [周禮茂](../Page/周禮茂.md "wikilink")                    | 張兆鴻                                                                   |                                                                         |                                                          |
+| 05               | 我杯茶                   | [方樹樑](../Page/方樹樑.md "wikilink")@好人有限                               | [因葵](../Page/因葵.md "wikilink")                      | 方樹樑                                                                   | Feat.[莫文蔚](../Page/莫文蔚.md "wikilink")                                   |                                                          |
+| 06               | 超錯                    | [John Laudon](https://zh.wikipedia.org/wiki/John_Laudon "wikilink") | [潘源良](https://zh.wikipedia.org/wiki/潘源良 "wikilink") | [John Laudon](https://zh.wikipedia.org/wiki/John_Laudon "wikilink")   |                                                                         |                                                          |
+| 07（Hidden Track） | 葉問風中轉（Demo Version）   | Eric Kwok                                                           | 林敏驄                                                 | [蘇德華](https://zh.wikipedia.org/wiki/蘇德華 "wikilink")                   |                                                                         |                                                          |
+| 08（Hidden Track） | 講男講女（NG Take）         | 伍仲衡                                                                 | 藍奕邦                                                 | Richard Yuen                                                          | Duet with [露雲娜](../Page/露雲娜.md "wikilink")                              |                                                          |
 
 ## 音樂錄像
 
@@ -42,16 +42,16 @@ Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責�
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>講男講女</p></td>
-<td><p><a href="../Page/Heison_Ng.md" title="wikilink">Heison Ng</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heison_Ng" title="wikilink">Heison Ng</a></p></td>
 <td><p>2010年10月7日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td></td>
 <td><p><a href="http://www.youtube.com/watch?v=nhg_ZBTZdBk">Youtube連結</a></p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
 <td><p>花花世界</p></td>
-<td><p><a href="../Page/Heison_Ng.md" title="wikilink">Heison Ng</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heison_Ng" title="wikilink">Heison Ng</a></p></td>
 <td><p>2011年4月26日</p></td>
 <td><p>／</p></td>
 <td><p>MV 沒有於網上發放，<br />
@@ -61,7 +61,7 @@ Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責�
 <tr class="odd">
 <td><p>06</p></td>
 <td><p>超錯</p></td>
-<td><p><a href="../Page/rabbit@ptu.md" title="wikilink">rabbit@ptu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/rabbit@ptu" title="wikilink">rabbit@ptu</a></p></td>
 <td><p>2010年12月22日</p></td>
 <td><p>Youtube</p></td>
 <td></td>
@@ -73,7 +73,7 @@ Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責�
 ## 派台歌曲及四台成績
 
 派台歌曲為《講男講女》、《超錯》及《葉問風中轉》。
-[香港音像聯盟](../Page/香港音像聯盟.md "wikilink")（HKRIA）與[無綫電視的版權風波爭議已於](../Page/無綫電視.md "wikilink")2011年11月19日解決，然而[環球唱片仍未把音樂作品派上TVB](../Page/環球唱片.md "wikilink")，因此無緣登上勁歌金榜。
+[香港音像聯盟](../Page/香港音像聯盟.md "wikilink")（HKRIA）與[無綫電視的版權風波爭議已於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2011年11月19日解決，然而[環球唱片仍未把音樂作品派上TVB](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，因此無緣登上勁歌金榜。
 
 | 歌曲       | 903 專業推介 | 997 勁爆流行榜 | RTHK 中文歌曲龍虎榜 | TVB 勁歌金榜 |
 | -------- | -------- | --------- | ------------ | -------- |
@@ -87,7 +87,7 @@ Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責�
 
 ### 個人獎項
 
-  - [第十一屆華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－最佳粤語男歌手
+  - [第十一屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳粤語男歌手
 
 ### 專輯《Taste the Atmosphere》
 

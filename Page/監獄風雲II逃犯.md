@@ -1,4 +1,4 @@
-，1991年[香港](../Page/香港.md "wikilink")[新藝城電影公司出品的一部](../Page/新藝城.md "wikilink")[動作與](../Page/動作片.md "wikilink")[監獄片](../Page/監獄片.md "wikilink")，監製是[麥嘉](../Page/麥嘉.md "wikilink")，編劇是[南燕](../Page/南燕_\(編劇\).md "wikilink")，音樂是[盧冠廷](../Page/盧冠廷.md "wikilink")，動作設計是[林滿華](../Page/林滿華.md "wikilink")，導演是[林嶺東](../Page/林嶺東.md "wikilink")，由[周潤發](../Page/周潤發.md "wikilink")、[陳松勇](../Page/陳松勇.md "wikilink")、[徐錦江主演](../Page/徐錦江.md "wikilink")。是1987年[林嶺東主導的電影](../Page/林嶺東.md "wikilink")《[監獄風雲](../Page/監獄風雲.md "wikilink")》的續集。
+，1991年[香港](../Page/香港.md "wikilink")[新藝城電影公司出品的一部](../Page/新藝城.md "wikilink")[動作與](../Page/動作片.md "wikilink")[監獄片](https://zh.wikipedia.org/wiki/監獄片 "wikilink")，監製是[麥嘉](https://zh.wikipedia.org/wiki/麥嘉 "wikilink")，編劇是[南燕](../Page/南燕_\(編劇\).md "wikilink")，音樂是[盧冠廷](../Page/盧冠廷.md "wikilink")，動作設計是[林滿華](https://zh.wikipedia.org/wiki/林滿華 "wikilink")，導演是[林嶺東](../Page/林嶺東.md "wikilink")，由[周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")、[陳松勇](../Page/陳松勇.md "wikilink")、[徐錦江主演](../Page/徐錦江.md "wikilink")。是1987年[林嶺東主導的電影](../Page/林嶺東.md "wikilink")《[監獄風雲](../Page/監獄風雲.md "wikilink")》的續集。
 
 ## 劇情简介
 
@@ -14,24 +14,24 @@
 
 ## 演員
 
-|                                      |                                                 |
-| ------------------------------------ | ----------------------------------------------- |
-| **演員**                               | **角色**                                          |
-| [周潤發](../Page/周潤發.md "wikilink")     | 鍾天正                                             |
-| [陳松勇](../Page/陳松勇.md "wikilink")     | 龐飛龍（大圈龍） |-鬼見愁                                  |
-| [胡耀宗](../Page/胡耀宗.md "wikilink")     | 良仔（鍾天正之子）                                       |
-| [-{于}-　莉](../Page/于莉.md "wikilink")  | 王榮珍（粵語配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）      |
-| [黃光亮](../Page/黃光亮.md "wikilink")     | 傻標                                              |
-| [霍瑞華](../Page/霍瑞華.md "wikilink")     | 勇（粵語配音：[羅君左](../Page/羅君左.md "wikilink")）        |
-| [吳志雄](../Page/吳志雄.md "wikilink")     | 盲蛇（粵語配音：[馮志輝](../Page/馮志輝.md "wikilink")）       |
-| [尹揚明](../Page/尹揚明.md "wikilink")     | 輝志（粵語配音：[梁政平](../Page/梁政平.md "wikilink")）       |
-| [韓　坤](../Page/韓坤.md "wikilink")      | 潮州佬（粵語配音：[陳欣](../Page/陳欣.md "wikilink")）        |
-| [馮瑞珍](../Page/馮瑞珍.md "wikilink")     | 正母（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）       |
-| [龍　彪](../Page/龍彪.md "wikilink")      | 火屎哥                                             |
-| [馮國輝](../Page/馮國輝.md "wikilink")     | 骷髏頭（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）      |
-| [羅樹祺](../Page/羅樹祺.md "wikilink")     | 高級監督                                            |
-| [伍國健](../Page/伍國健.md "wikilink")     | 強哥（粵語配音：[陳欣](../Page/陳欣.md "wikilink")）         |
-| [張耀揚](../Page/張耀揚.md "wikilink")（客串） | 殺手雄，懲教主任（粵語配音：[梁政平](../Page/梁政平.md "wikilink")） |
+|                                                        |                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------- |
+| **演員**                                                 | **角色**                                                      |
+| [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")    | 鍾天正                                                         |
+| [陳松勇](../Page/陳松勇.md "wikilink")                       | 龐飛龍（大圈龍） |-鬼見愁                                              |
+| [胡耀宗](https://zh.wikipedia.org/wiki/胡耀宗 "wikilink")    | 良仔（鍾天正之子）                                                   |
+| [-{于}-　莉](https://zh.wikipedia.org/wiki/于莉 "wikilink") | 王榮珍（粵語配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）                  |
+| [黃光亮](../Page/黃光亮.md "wikilink")                       | 傻標                                                          |
+| [霍瑞華](https://zh.wikipedia.org/wiki/霍瑞華 "wikilink")    | 勇（粵語配音：[羅君左](../Page/羅君左.md "wikilink")）                    |
+| [吳志雄](../Page/吳志雄.md "wikilink")                       | 盲蛇（粵語配音：[馮志輝](../Page/馮志輝.md "wikilink")）                   |
+| [尹揚明](../Page/尹揚明.md "wikilink")                       | 輝志（粵語配音：[梁政平](../Page/梁政平.md "wikilink")）                   |
+| [韓　坤](https://zh.wikipedia.org/wiki/韓坤 "wikilink")     | 潮州佬（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")） |
+| [馮瑞珍](https://zh.wikipedia.org/wiki/馮瑞珍 "wikilink")    | 正母（粵語配音：[黃鳳英](../Page/黃鳳英.md "wikilink")）                   |
+| [龍　彪](https://zh.wikipedia.org/wiki/龍彪 "wikilink")     | 火屎哥                                                         |
+| [馮國輝](https://zh.wikipedia.org/wiki/馮國輝 "wikilink")    | 骷髏頭（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）                  |
+| [羅樹祺](https://zh.wikipedia.org/wiki/羅樹祺 "wikilink")    | 高級監督                                                        |
+| [伍國健](https://zh.wikipedia.org/wiki/伍國健 "wikilink")    | 強哥（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）  |
+| [張耀揚](../Page/張耀揚.md "wikilink")（客串）                   | 殺手雄，懲教主任（粵語配音：[梁政平](../Page/梁政平.md "wikilink")）             |
 
 ## 外部連結
 

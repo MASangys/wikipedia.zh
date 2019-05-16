@@ -1,4 +1,4 @@
-《**IRIS**》（）是[韓國](../Page/韓國.md "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭企劃](../Page/姜帝圭.md "wikilink")，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希等人演出](../Page/金泰希.md "wikilink")。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](../Page/電影.md "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國等地大規模取景拍攝](../Page/中國.md "wikilink")，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門获准封街](../Page/光化門.md "wikilink")12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](../Page/第46屆百想藝術大賞.md "wikilink")。
+《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭企劃](../Page/姜帝圭.md "wikilink")，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希等人演出](../Page/金泰希.md "wikilink")。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國等地大規模取景拍攝](../Page/中國.md "wikilink")，2009年11月29日在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[光化門获准封街](../Page/光化門.md "wikilink")12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
 
 ## 登場人物
 
@@ -73,13 +73,13 @@
 <p><a href="../Page/玄朱妮.md" title="wikilink">朱妮</a></p></td>
 <td><center>
 <p><a href="../Page/楊善諭.md" title="wikilink">楊善諭</a></p></td>
-<td><p>NSS電腦專家。韓國最強<a href="../Page/駭客.md" title="wikilink">駭客</a>。最后被IRIS杀手B.I.G杀死。</p></td>
+<td><p>NSS電腦專家。韓國最強<a href="https://zh.wikipedia.org/wiki/駭客" title="wikilink">駭客</a>。最后被IRIS杀手B.I.G杀死。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>黃太星</p></td>
 <td><center>
-<p><a href="../Page/羅允.md" title="wikilink">羅允</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅允" title="wikilink">羅允</a></p></td>
 <td><center>
 <p><a href="../Page/劉奕希.md" title="wikilink">劉奕希</a></p></td>
 <td><p>NSS電腦部，負責後勤支援。</p></td>
@@ -113,7 +113,7 @@
 <p><a href="../Page/李正吉.md" title="wikilink">李正吉</a></p></td>
 <td><center>
 <p><a href="../Page/張錦江.md" title="wikilink">張錦江</a></p></td>
-<td><p><a href="../Page/大韓民國總統.md" title="wikilink">大韓民國總統</a>（大統領）。主張朝鮮半島能透過對話而達致統一。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大韓民國總統" title="wikilink">大韓民國總統</a>（大統領）。主張朝鮮半島能透過對話而達致統一。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -128,7 +128,7 @@
 <td><center>
 <p>洪秀真</p></td>
 <td><center>
-<p><a href="../Page/明志妍.md" title="wikilink">明志妍</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/明志妍" title="wikilink">明志妍</a></p></td>
 <td><center>
 <p><a href="../Page/謝潔貞.md" title="wikilink">謝潔貞</a></p></td>
 <td><p>公共信息企畫官員。與IRIS有密切關係。</p></td>
@@ -137,7 +137,7 @@
 <td><center>
 <p>權五賢</p></td>
 <td><center>
-<p><a href="../Page/鄭宗俊.md" title="wikilink">鄭宗俊</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭宗俊" title="wikilink">鄭宗俊</a></p></td>
 <td><center>
 <p><a href="../Page/黃子敬.md" title="wikilink">黃子敬</a></p></td>
 <td><p>政務主席秘書官。</p></td>
@@ -146,7 +146,7 @@
 <td><center>
 <p>呂光華</p></td>
 <td><center>
-<p><a href="../Page/朴龍基.md" title="wikilink">朴龍基</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴龍基" title="wikilink">朴龍基</a></p></td>
 <td><center></td>
 <td><p>外交安保首席秘書官。</p></td>
 </tr>
@@ -170,7 +170,7 @@
 <p><a href="../Page/金勝友.md" title="wikilink">金勝友</a></p></td>
 <td><center>
 <p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
-<td><p><a href="../Page/朝鮮人民軍.md" title="wikilink">朝鮮人民軍朝鲜护卫局负责人</a>，陸軍上尉。精通多國語言。由主張南北韓戰爭到後來的主張朝鮮半島和平。曾协助金贤俊破获IRIS的阴谋。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝鮮人民軍" title="wikilink">朝鮮人民軍朝鲜护卫局负责人</a>，陸軍上尉。精通多國語言。由主張南北韓戰爭到後來的主張朝鮮半島和平。曾协助金贤俊破获IRIS的阴谋。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -185,19 +185,19 @@
 <td><center>
 <p>嚴基勲</p></td>
 <td><center>
-<p><a href="../Page/崔鐘奐.md" title="wikilink">崔鐘奐</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/崔鐘奐" title="wikilink">崔鐘奐</a></p></td>
 <td><center>
 <p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
-<td><p><a href="../Page/朝鮮勞動黨中央委員會.md" title="wikilink">朝鮮勞動黨中央委員會韓國工作組成員</a>，朝鮮人民軍次帥。野心勃勃，企图派人在首尔引爆核炸弹，以挑起南北双方的战争。并阴谋通过军事政变推翻朝鲜人民会议最高委员长。后因事情败露，在韩方欲逮捕时，被IRIS殺手B.I.G暗杀。真正身份亦為IRIS成員。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝鮮勞動黨中央委員會" title="wikilink">朝鮮勞動黨中央委員會韓國工作組成員</a>，朝鮮人民軍次帥。野心勃勃，企图派人在首尔引爆核炸弹，以挑起南北双方的战争。并阴谋通过军事政变推翻朝鲜人民会议最高委员长。后因事情败露，在韩方欲逮捕时，被IRIS殺手B.I.G暗杀。真正身份亦為IRIS成員。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>尹成哲</p></td>
 <td><center>
-<p><a href="../Page/李錫九.md" title="wikilink">李錫九</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李錫九" title="wikilink">李錫九</a></p></td>
 <td><center>
-<p><a href="../Page/李錦綸.md" title="wikilink">李錦綸</a></p></td>
-<td><p><a href="../Page/朝鮮最高人民會議.md" title="wikilink">朝鮮最高人民會議委員長</a>。在匈牙利被金賢俊暗殺。</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李錦綸" title="wikilink">李錦綸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝鮮最高人民會議" title="wikilink">朝鮮最高人民會議委員長</a>。在匈牙利被金賢俊暗殺。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -212,7 +212,7 @@
 <td><center>
 <p>恐怖分子</p></td>
 <td><center>
-<p><a href="../Page/金民燦.md" title="wikilink">金民燦</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金民燦" title="wikilink">金民燦</a></p></td>
 <td><center></td>
 <td><p>恐怖分子成員，駭客專家。</p></td>
 </tr>
@@ -220,7 +220,7 @@
 <td><center>
 <p>恐怖分子</p></td>
 <td><center>
-<p><a href="../Page/李言廷.md" title="wikilink">李言廷</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李言廷" title="wikilink">李言廷</a></p></td>
 <td><center></td>
 <td><p>恐怖分子成員。</p></td>
 </tr>
@@ -256,7 +256,7 @@
 <td><center>
 <p>B.I.G</p></td>
 <td><center>
-<p><a href="../Page/崔勝鉉.md" title="wikilink">崔勝鉉</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/崔勝鉉" title="wikilink">崔勝鉉</a></p></td>
 <td><center>
 <p><a href="../Page/陳廷軒.md" title="wikilink">陳廷軒</a></p></td>
 <td><p>IRIS成員。只為達到目標而存在的IRIS冷血殺手。他是一個為達目的不擇手段，更不惜殺死家人。擁有最高端武器裝備，最精准命中率。</p></td>
@@ -318,7 +318,7 @@
 <td><center>
 <p>優紀</p></td>
 <td><center>
-<p><a href="../Page/美山加戀.md" title="wikilink">美山加戀</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/美山加戀" title="wikilink">美山加戀</a></p></td>
 <td><center></td>
 <td><p>日本少女，非常迷恋金贤俊的可爱少女，因为IRIS杀手B.I.G追击金贤俊（希望得到洪勝龍带出的隨身碟）而中枪身亡。</p></td>
 </tr>
@@ -341,7 +341,7 @@
 <td><center>
 <p>洪胜龍</p></td>
 <td><center>
-<p><a href="../Page/趙源熙_(演員).md" title="wikilink">趙源熙</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/趙源熙_(演員)" title="wikilink">趙源熙</a></p></td>
 <td><center>
 <p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 <td><p>核物理學家</p></td>
@@ -356,7 +356,7 @@
 <!-- end list -->
 
   - 《IRIS》的續集《[IRIS
-    2](../Page/IRIS_2.md "wikilink")》，2013年2月13日於[KBS播出](../Page/韓國放送公社.md "wikilink")，承接第一部講述為解開圍繞在白山背後的黑色謎團，而展開的一系列故事，由[張赫](../Page/張赫.md "wikilink")、[李多海](../Page/李多海.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[吳妍受等人主演](../Page/吳妍受.md "wikilink")，並有曾出演《IRIS》的[金永哲](../Page/金永哲.md "wikilink")、[金勝友等部分原班人馬加盟](../Page/金勝友.md "wikilink")。
+    2](../Page/IRIS_2.md "wikilink")》，2013年2月13日於[KBS播出](../Page/韓國放送公社.md "wikilink")，承接第一部講述為解開圍繞在白山背後的黑色謎團，而展開的一系列故事，由[張赫](https://zh.wikipedia.org/wiki/張赫 "wikilink")、[李多海](../Page/李多海.md "wikilink")、[李凡秀](../Page/李凡秀.md "wikilink")、[吳妍受等人主演](https://zh.wikipedia.org/wiki/吳妍受 "wikilink")，並有曾出演《IRIS》的[金永哲](../Page/金永哲.md "wikilink")、[金勝友等部分原班人馬加盟](../Page/金勝友.md "wikilink")。
 
 ## 收視率
 
@@ -387,7 +387,7 @@
 
 ## 相关条目
 
-  - [田泽湖](../Page/田泽湖.md "wikilink")：居中男女主人公就在该胡西侧的“辰子姬”青铜像处相抱。
+  - [田泽湖](https://zh.wikipedia.org/wiki/田泽湖 "wikilink")：居中男女主人公就在该胡西侧的“辰子姬”青铜像处相抱。
 
 ## 外部連結
 

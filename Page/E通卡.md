@@ -1,11 +1,11 @@
-**e通卡**是通用于[闽南地区的非接触式小额](../Page/闽南地区.md "wikilink")[电子支付](../Page/电子支付.md "wikilink")[智能卡](../Page/智能卡.md "wikilink")，由**厦门易通卡责任运营有限公司**发行。该卡可以用于[厦门](../Page/厦门.md "wikilink")、[漳州](../Page/漳州.md "wikilink")、[泉州](../Page/泉州.md "wikilink")、[龙岩等地的](../Page/龙岩.md "wikilink")[公交](../Page/公交.md "wikilink")、[轮渡以及部分](../Page/轮渡.md "wikilink")[出租车付费](../Page/出租车.md "wikilink")，
-以及在厦门市的部分餐饮店（如[麦当劳等](../Page/麦当劳.md "wikilink")）、大型超市、[便利店](../Page/便利店.md "wikilink")、[面包店](../Page/面包店.md "wikilink")、[停车场](../Page/停车场.md "wikilink")、[KTV及](../Page/KTV.md "wikilink")[电影院等进行小额支付](../Page/电影院.md "wikilink")。除了由该公司独立发行外，还有和厦门市的[中学](../Page/中学.md "wikilink")、[大学联合发行的带有e通卡支付功能的](../Page/大学.md "wikilink")[校园卡](../Page/校园卡.md "wikilink")，以及和[厦门银行联合发行的](../Page/厦门银行.md "wikilink")“银鹭─e通”[联名卡](../Page/联名卡.md "wikilink")（该卡已停止发行）。
+**e通卡**是通用于[闽南地区的非接触式小额](https://zh.wikipedia.org/wiki/闽南地区 "wikilink")[电子支付](https://zh.wikipedia.org/wiki/电子支付 "wikilink")[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，由**厦门易通卡责任运营有限公司**发行。该卡可以用于[厦门](https://zh.wikipedia.org/wiki/厦门 "wikilink")、[漳州](https://zh.wikipedia.org/wiki/漳州 "wikilink")、[泉州](https://zh.wikipedia.org/wiki/泉州 "wikilink")、[龙岩等地的](https://zh.wikipedia.org/wiki/龙岩 "wikilink")[公交](https://zh.wikipedia.org/wiki/公交 "wikilink")、[轮渡以及部分](https://zh.wikipedia.org/wiki/轮渡 "wikilink")[出租车付费](https://zh.wikipedia.org/wiki/出租车 "wikilink")，
+以及在厦门市的部分餐饮店（如[麦当劳等](../Page/麦当劳.md "wikilink")）、大型超市、[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[面包店](https://zh.wikipedia.org/wiki/面包店 "wikilink")、[停车场](https://zh.wikipedia.org/wiki/停车场 "wikilink")、[KTV及](https://zh.wikipedia.org/wiki/KTV "wikilink")[电影院等进行小额支付](https://zh.wikipedia.org/wiki/电影院 "wikilink")。除了由该公司独立发行外，还有和厦门市的[中学](../Page/中学.md "wikilink")、[大学联合发行的带有e通卡支付功能的](https://zh.wikipedia.org/wiki/大学 "wikilink")[校园卡](https://zh.wikipedia.org/wiki/校园卡 "wikilink")，以及和[厦门银行联合发行的](../Page/厦门银行.md "wikilink")“银鹭─e通”[联名卡](https://zh.wikipedia.org/wiki/联名卡 "wikilink")（该卡已停止发行）。
 
 ## 发行历史
 
-1996年，厦门市在公交车上导入了TM卡（电卡）刷卡系统，是e通卡系统的前身\[1\]。2003年1月，作为厦门市委市政府2003年为民办实事项目之一，[厦门市成立厦门小额支付一卡通项目筹建组](../Page/厦门市.md "wikilink")。同年9月8日，厦门小额支付e通卡系统开通试运营。同年11月8日，e通卡正式启动并对外发行，在发行当初仅可以在[海沧特运公交公司](../Page/海沧.md "wikilink")、[同安公交公司的公交车上支付车费](../Page/同安.md "wikilink")，随后在[厦门市公交总公司逐步导入](../Page/厦门市公交总公司.md "wikilink")\[2\]。2004年5月，与厦门市商业银行（现[厦门银行](../Page/厦门银行.md "wikilink")）联合发行同时具有[借记卡和小额支付功能的](../Page/借记卡.md "wikilink")“银鹭－e通”联名卡。8月5日，仍在继续使用原有电卡的厦门轮渡启用e通卡系统，电卡从此走入历史\[3\]。11月1日，[漳州市公交公司的](../Page/漳州市.md "wikilink")22条线路开通e通卡系统，这是e通卡第一次在厦门市以外被采用\[4\]。同年底，e通卡基本覆盖厦门市所有公交线路\[5\]。
+1996年，厦门市在公交车上导入了TM卡（电卡）刷卡系统，是e通卡系统的前身\[1\]。2003年1月，作为厦门市委市政府2003年为民办实事项目之一，[厦门市成立厦门小额支付一卡通项目筹建组](../Page/厦门市.md "wikilink")。同年9月8日，厦门小额支付e通卡系统开通试运营。同年11月8日，e通卡正式启动并对外发行，在发行当初仅可以在[海沧特运公交公司](https://zh.wikipedia.org/wiki/海沧 "wikilink")、[同安公交公司的公交车上支付车费](https://zh.wikipedia.org/wiki/同安 "wikilink")，随后在[厦门市公交总公司逐步导入](https://zh.wikipedia.org/wiki/厦门市公交总公司 "wikilink")\[2\]。2004年5月，与厦门市商业银行（现[厦门银行](../Page/厦门银行.md "wikilink")）联合发行同时具有[借记卡和小额支付功能的](../Page/借记卡.md "wikilink")“银鹭－e通”联名卡。8月5日，仍在继续使用原有电卡的厦门轮渡启用e通卡系统，电卡从此走入历史\[3\]。11月1日，[漳州市公交公司的](../Page/漳州市.md "wikilink")22条线路开通e通卡系统，这是e通卡第一次在厦门市以外被采用\[4\]。同年底，e通卡基本覆盖厦门市所有公交线路\[5\]。
 
-2005年1月，e通卡实现在世贸金鹰电影院的刷卡付费，这是e通卡首次跨行业应用\[6\]。6月18日，[龙岩市公交e通卡正式投入使用](../Page/龙岩市.md "wikilink")，标志着e通卡实现厦门、漳州、龙岩三地互通\[7\]。同年9月，厦门大学、厦门一中、等厦门市的大学、中学陆续发行具有e通卡功能的校园卡。2006年10月，与[厦门联通](../Page/中国联通.md "wikilink")、厦门市商业银行联合推出银鹭U利卡，同时具有联通会员卡、银行借记卡和电子支付卡的功能\[8\]。截至2007年1月，e通卡系统的年交易量已经突破2亿元，发行量超过100万张。同年底，与[厦门移动联合推出采用](../Page/中国移动.md "wikilink")[SIMPASS双界面智能卡技术的移动e通卡](../Page/SIMPASS.md "wikilink")，将e通卡功能融入到SIM卡中\[9\]。此后，[泉州](../Page/泉州.md "wikilink")[安溪](../Page/安溪.md "wikilink")、[南安两地的公交车也先后导入e通卡系统](../Page/南安.md "wikilink")。
+2005年1月，e通卡实现在世贸金鹰电影院的刷卡付费，这是e通卡首次跨行业应用\[6\]。6月18日，[龙岩市公交e通卡正式投入使用](../Page/龙岩市.md "wikilink")，标志着e通卡实现厦门、漳州、龙岩三地互通\[7\]。同年9月，厦门大学、厦门一中、等厦门市的大学、中学陆续发行具有e通卡功能的校园卡。2006年10月，与[厦门联通](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、厦门市商业银行联合推出银鹭U利卡，同时具有联通会员卡、银行借记卡和电子支付卡的功能\[8\]。截至2007年1月，e通卡系统的年交易量已经突破2亿元，发行量超过100万张。同年底，与[厦门移动联合推出采用](https://zh.wikipedia.org/wiki/中国移动 "wikilink")[SIMPASS双界面智能卡技术的移动e通卡](https://zh.wikipedia.org/wiki/SIMPASS "wikilink")，将e通卡功能融入到SIM卡中\[9\]。此后，[泉州](https://zh.wikipedia.org/wiki/泉州 "wikilink")[安溪](https://zh.wikipedia.org/wiki/安溪 "wikilink")、[南安两地的公交车也先后导入e通卡系统](https://zh.wikipedia.org/wiki/南安 "wikilink")。
 
 e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
@@ -37,8 +37,8 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
 曾经在2015年开放给部分终端（和移动合作），后在2018-19年重新上线手机e通卡
 
-  - [华为](../Page/华为支付.md "wikilink")
-  - [小米](../Page/小米支付.md "wikilink")
+  - [华为](https://zh.wikipedia.org/wiki/华为支付 "wikilink")
+  - [小米](https://zh.wikipedia.org/wiki/小米支付 "wikilink")
   - OPPO
   - VIVO
 
@@ -50,7 +50,7 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
 在租用型普通卡的基础上额外征收了35元的升级费用
 
-关于该卡支持的城市请参照[全国交通一卡通互联互通](../Page/全国交通一卡通互联互通.md "wikilink")
+关于该卡支持的城市请参照[全国交通一卡通互联互通](https://zh.wikipedia.org/wiki/全国交通一卡通互联互通 "wikilink")
 
 ## 使用范围
 

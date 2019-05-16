@@ -3,7 +3,7 @@ WISH**》為[日本女歌手](../Page/日本.md "wikilink")[今井美樹於](../
 
 ## 說明
 
-[日本](../Page/日本.md "wikilink")[TBS電視台於](../Page/TBS電視台.md "wikilink")1991年播放的[電視劇](../Page/日本電視劇.md "wikilink")《》的主題曲，是今井為自己擔任主演的連續劇演唱主題曲，同時也是今井第一張獲得[公信榜冠軍的單曲](../Page/公信榜.md "wikilink")。銷量直達百萬，目前是本人發行單曲之中，銷量僅次於「[PRIDE](../Page/PRIDE.md "wikilink")」的單曲。
+[日本](../Page/日本.md "wikilink")[TBS電視台於](../Page/TBS電視台.md "wikilink")1991年播放的[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《》的主題曲，是今井為自己擔任主演的連續劇演唱主題曲，同時也是今井第一張獲得[公信榜冠軍的單曲](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。銷量直達百萬，目前是本人發行單曲之中，銷量僅次於「[PRIDE](https://zh.wikipedia.org/wiki/PRIDE "wikilink")」的單曲。
 
 ## 收錄曲目
 

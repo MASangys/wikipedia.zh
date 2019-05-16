@@ -7,7 +7,7 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 與前作Løve Rainbow相距約1個月。為2010年的第五張單曲。
   - 分初回限定盤、通常盤2種形態發售。初回限定盤僅收錄「Dear Snow」一曲，且附贈「Dear
     Snow」的PV及幕後製作花絮，通常盤則多收錄「タイムカプセル」以及2曲的原版卡拉OK一共4曲。
-  - 主打歌是成員[二宮和也以及](../Page/二宮和也.md "wikilink")[柴崎幸主演](../Page/柴崎幸.md "wikilink")，電影『[大奧](../Page/大奧_\(漫畫\).md "wikilink")』的主題曲。
+  - 主打歌是成員[二宮和也以及](../Page/二宮和也.md "wikilink")[柴崎幸主演](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")，電影『[大奧](../Page/大奧_\(漫畫\).md "wikilink")』的主題曲。
 
 ### 主要紀錄
 

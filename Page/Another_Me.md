@@ -1,10 +1,10 @@
 《**Another
-Me**》為[香港歌手](../Page/香港.md "wikilink")[蔡卓妍繼大碟](../Page/蔡卓妍.md "wikilink")《**二缺一**》後發行的首張個人粤语EP，普通版於2009年10月15日推出，10月30日推出USB精裝版，11月20日更推出寫真集精裝版，12月15日配合廣告商[中華煤氣推出Towngas限定版](../Page/中華煤氣.md "wikilink")。
+Me**》為[香港歌手](../Page/香港.md "wikilink")[蔡卓妍繼大碟](../Page/蔡卓妍.md "wikilink")《**二缺一**》後發行的首張個人粤语EP，普通版於2009年10月15日推出，10月30日推出USB精裝版，11月20日更推出寫真集精裝版，12月15日配合廣告商[中華煤氣推出Towngas限定版](https://zh.wikipedia.org/wiki/中華煤氣 "wikilink")。
 
 ## 簡介
 
 本唱片中有不少知名音樂人參與製作，如[周博賢](../Page/周博賢.md "wikilink")、[Eric
-Kwok](../Page/Eric_Kwok.md "wikilink")、[陳光榮](../Page/陳光榮.md "wikilink")、[林夕](../Page/林夕.md "wikilink")、[RubberBand等](../Page/RubberBand.md "wikilink")，而EP中更收錄[蔡卓妍親自作曲的](../Page/蔡卓妍.md "wikilink")《放得低》。在缺乏時間宣傳下，唱片在短時間內仍能賣出白金唱片銷量。
+Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、[陳光榮](../Page/陳光榮.md "wikilink")、[林夕](../Page/林夕.md "wikilink")、[RubberBand等](../Page/RubberBand.md "wikilink")，而EP中更收錄[蔡卓妍親自作曲的](../Page/蔡卓妍.md "wikilink")《放得低》。在缺乏時間宣傳下，唱片在短時間內仍能賣出白金唱片銷量。
 
 為配合宣傳，[蔡卓妍與攝影師Paul](../Page/蔡卓妍.md "wikilink") Tsang於中環舉辦《Charlene X
 Paul Tsang Another Me Photo Exhibition》，展出是次專輯中的照片。
@@ -30,10 +30,10 @@ Paul Tsang Another Me Photo Exhibition》，展出是次專輯中的照片。
 ## 獎項
 
   - 「2009[勁歌金曲優秀選第三回](../Page/勁歌金曲.md "wikilink")」：得獎歌曲（《生還者》）。
-  - 「[IFPI香港唱片銷量大獎](../Page/IFPI.md "wikilink")2009」：十大銷量廣東唱片（《Another
+  - 「[IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")2009」：十大銷量廣東唱片（《Another
     Me》）。
   - 「2010[勁歌金曲優秀選第一回](../Page/勁歌金曲.md "wikilink")」：得獎歌曲（《放得低》）。
-  - 「2010年度[十大勁歌金曲頒獎典禮](../Page/十大勁歌金曲頒獎典禮.md "wikilink")」：十大勁歌金曲獎（《放得低》）。
+  - 「2010年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")」：十大勁歌金曲獎（《放得低》）。
 
 ## 備註
 

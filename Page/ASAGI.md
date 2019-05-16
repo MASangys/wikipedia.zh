@@ -2,16 +2,17 @@
 
 ## 経歴
 
-從秋田縣的高中畢業後、曾在横浜市内的餐廳打工過一陣子、從20歲左右開始正式的樂團活動。1998年到2000年間以[JE\*REVIENS身分活動](../Page/JE*REVIENS.md "wikilink")、2001年加入[Syndrome成為第二代主唱](../Page/Syndrome.md "wikilink")。在這期間、又以胡蝶（[紫音](../Page/紫音.md "wikilink")）之名發行CD。Syndrome活動停止後，[D正式結成](../Page/D_\(乐队\).md "wikilink")。2006年成立自己的公司[GOD
-CHILD RECORDS](../Page/GOD_CHILD_RECORDS.md "wikilink")。
+從秋田縣的高中畢業後、曾在横浜市内的餐廳打工過一陣子、從20歲左右開始正式的樂團活動。1998年到2000年間以[JE\*REVIENS身分活動](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")、2001年加入[Syndrome成為第二代主唱](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。在這期間、又以胡蝶（[紫音](https://zh.wikipedia.org/wiki/紫音 "wikilink")）之名發行CD。Syndrome活動停止後，[D正式結成](../Page/D_\(乐队\).md "wikilink")。2006年成立自己的公司[GOD
+CHILD
+RECORDS](https://zh.wikipedia.org/wiki/GOD_CHILD_RECORDS "wikilink")。
 
 ## 特徴
 
   - [D的作詞作曲人](../Page/D_\(乐队\).md "wikilink")。
-  - 常被人評論與[hyde唱腔類似](../Page/hyde.md "wikilink")、不過他更加注重低音域範圍。
+  - 常被人評論與[hyde唱腔類似](https://zh.wikipedia.org/wiki/hyde "wikilink")、不過他更加注重低音域範圍。
   - 歌詞中展現強烈的世界觀、用手撕碎薔薇、並有揮鞭子的動作等等。
   - 官方並沒有明確發表[D](../Page/D_\(乐队\).md "wikilink")「有領導人」的這件事、現在[D的概念是以取得世界中心主導權為主](../Page/D_\(乐队\).md "wikilink")。在[D結成以前的樂團成員](../Page/D_\(乐队\).md "wikilink")，對於領導人、活動方針及世界観的看法都比現在薄弱很多。
-  - [Syndrome活動停止後](../Page/Syndrome.md "wikilink")、ASAGI跟[KISAKI因在SHOXX雜誌訪談時講出批判性的發言而交惡](../Page/KISAKI.md "wikilink")，但兩人最後和解、雙方還互相在主辦的LIVE上演出。
+  - [Syndrome活動停止後](https://zh.wikipedia.org/wiki/Syndrome "wikilink")、ASAGI跟[KISAKI因在SHOXX雜誌訪談時講出批判性的發言而交惡](https://zh.wikipedia.org/wiki/KISAKI "wikilink")，但兩人最後和解、雙方還互相在主辦的LIVE上演出。
 
 ## 人物
 
@@ -26,9 +27,11 @@ CHILD RECORDS](../Page/GOD_CHILD_RECORDS.md "wikilink")。
 
   - Balsamic活動開始
   - Balsamic解散
-  - 1998年 - [JE\*REVIENS活動開始](../Page/JE*REVIENS.md "wikilink")。
+  - 1998年 -
+    [JE\*REVIENS活動開始](https://zh.wikipedia.org/wiki/JE*REVIENS "wikilink")。
   - 2000年 - JE\*REVIENS解散。
-  - 2001年 - 6月、[Syndrome加入](../Page/Syndrome.md "wikilink")。
+  - 2001年 -
+    6月、[Syndrome加入](https://zh.wikipedia.org/wiki/Syndrome "wikilink")。
   - 2002年 - 1月、以胡蝶名義發行『化蝶夢-チョウトナルユメ-』。
   - 2002年 - 11月、Syndrome活動停止。
   - 2003年 - [D結成](../Page/D_\(乐队\).md "wikilink")。

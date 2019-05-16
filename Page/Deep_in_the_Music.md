@@ -7,7 +7,7 @@ Music**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 
 ## 獎項
 
-  - [2004勁歌金曲優秀選第一回](../Page/2004年勁歌金曲優秀選第一回得獎名單.md "wikilink")——Phone投歌曲獎《孩子王》
+  - [2004勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2004年勁歌金曲優秀選第一回得獎名單 "wikilink")——Phone投歌曲獎《孩子王》
   - [新城勁爆頒獎禮2004](../Page/2004年度新城勁爆頒獎禮得獎名單.md "wikilink")——新城勁爆原創歌曲《洗剪吹》
 
 [Category:吳浩康音樂專輯](https://zh.wikipedia.org/wiki/Category:吳浩康音樂專輯 "wikilink")

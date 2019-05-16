@@ -1,14 +1,14 @@
 **SIG SSG
-3000**是一枝由[西格輕武器公司](../Page/SIG_Arms.md "wikilink")（現在是[西格&紹爾](../Page/西格&紹爾.md "wikilink")）以為藍本設計及制造的[旋轉後拉式槍機](../Page/手動槍機.md "wikilink")[狙击步枪](../Page/狙击步枪.md "wikilink")，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](../Page/北大西洋公约组织.md "wikilink")／[.308
-Winchester](../Page/.308_Winchester.md "wikilink")[口徑](../Page/口徑.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](../Page/子弹.md "wikilink")。
+3000**是一枝由[西格輕武器公司](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")（現在是[西格&紹爾](../Page/西格&紹爾.md "wikilink")）以為藍本設計及制造的[旋轉後拉式槍機](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308
+Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
 
 ## 歷史
 
-1984年，[西格輕武器公司推出SSG](../Page/SIG_Arms.md "wikilink") 3000狙擊步槍，它是以SIG
-Sauer 200STR比賽步槍為藍本並且設計出來的狙擊武器。最初稱為「SIG SSG
-3000狙擊步槍」，其中SSG意為「精確射手步槍」（）。2000年，西格集團將其輕武器分部賣給了一家名为“[紹爾轻武器公司](../Page/Swiss_Arms.md "wikilink")”的私營公司，此後，SSG
+1984年，[西格輕武器公司推出SSG](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")
+3000狙擊步槍，它是以SIG Sauer 200STR比賽步槍為藍本並且設計出來的狙擊武器。最初稱為「SIG SSG
+3000狙擊步槍」，其中SSG意為「精確射手步槍」（）。2000年，西格集團將其輕武器分部賣給了一家名为“[紹爾轻武器公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")”的私營公司，此後，SSG
 3000的名字前面的「SIG」的字樣就被「Sauer」所取代，全稱為「Sauer SSG 3000」。新型的SSG
-3000狙擊步槍改用了新型的麥克米蘭（）[玻璃钢強化](../Page/玻璃钢.md "wikilink")[塑料槍托](../Page/塑料.md "wikilink")，名稱上亦應時代潮流地稱為「戰術步槍」。
+3000狙擊步槍改用了新型的麥克米蘭（）[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[塑料槍托](../Page/塑料.md "wikilink")，名稱上亦應時代潮流地稱為「戰術步槍」。
 
 ## 設計細節
 
@@ -16,39 +16,39 @@ SIG SSG 3000是以Sauer 2000
 STR比賽／狙擊步槍為藍本設計而成的警用型狙擊步槍，以5發可拆式[彈匣供彈](../Page/彈匣.md "wikilink")，並以長行程[旋转后拉式枪机操作](../Page/手動槍機.md "wikilink")。在槍機頭上具有6個鎖耳（，又稱：閉鎖突箏），僅需要很少的回轉角度即可閉鎖與開鎖。
 
 根據軍警的設計要求，SSG
-3000是模組式構造，槍管和[機匣為一個組件](../Page/機匣.md "wikilink")，而扳機組和彈倉為一個組件，主要零件都可以快速轉換，需要時可以換成發射[.22
-LR](../Page/.22_LR.md "wikilink")[口徑的零件及適合](../Page/口徑.md "wikilink")[左撇子使用者使用的型號](../Page/左利手.md "wikilink")。扳機為兩段式，除了扳機扣力的強度以外，第1階段的扳機行程也是可以調節。
+3000是模組式構造，槍管和[機匣為一個組件](https://zh.wikipedia.org/wiki/機匣 "wikilink")，而扳機組和彈倉為一個組件，主要零件都可以快速轉換，需要時可以換成發射[.22
+LR](../Page/.22_LR.md "wikilink")[口徑的零件及適合](https://zh.wikipedia.org/wiki/口徑 "wikilink")[左撇子使用者使用的型號](../Page/左利手.md "wikilink")。扳機為兩段式，除了扳機扣力的強度以外，第1階段的扳機行程也是可以調節。
 
 SIG SSG
-3000採用由克虜伯（）生產的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管和](../Page/槍管.md "wikilink")[機匣](../Page/機匣.md "wikilink")，由于機匣座是以一整塊鋼坯製造而成，因此槍管和機匣可匹配的連接在一起。
+3000採用由克虜伯（）生產的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管和](../Page/槍管.md "wikilink")[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，由于機匣座是以一整塊鋼坯製造而成，因此槍管和機匣可匹配的連接在一起。
 
 SSG
-3000的重型槍管是由[碳鋼冷鍛而成](../Page/碳鋼.md "wikilink")，與機匣是以螺接連接在一起。槍管外壁帶有傳統的[散熱凹槽](../Page/開槽化.md "wikilink")，而槍口位置亦帶有圓形凹槽。這樣不僅能夠散熱，防止槍管因射擊而過熱變形，也能減輕重量和保證槍管的剛度，對射擊精度也有利。SSG
-3000可在槍管上面連上一條長織帶遮蔽在槍管上方，其作用是以防止[槍管暴晒下發熱](../Page/槍管.md "wikilink")，上升的[熱氣在瞄準鏡前方產生](../Page/熱氣.md "wikilink")[海市蜃楼](../Page/海市蜃楼.md "wikilink")，彷礙射手進行精確瞄準。
+3000的重型槍管是由[碳鋼冷鍛而成](../Page/碳鋼.md "wikilink")，與機匣是以螺接連接在一起。槍管外壁帶有傳統的[散熱凹槽](https://zh.wikipedia.org/wiki/開槽化 "wikilink")，而槍口位置亦帶有圓形凹槽。這樣不僅能夠散熱，防止槍管因射擊而過熱變形，也能減輕重量和保證槍管的剛度，對射擊精度也有利。SSG
+3000可在槍管上面連上一條長織帶遮蔽在槍管上方，其作用是以防止[槍管暴晒下發熱](../Page/槍管.md "wikilink")，上升的[熱氣在瞄準鏡前方產生](https://zh.wikipedia.org/wiki/熱氣 "wikilink")[海市蜃楼](../Page/海市蜃楼.md "wikilink")，彷礙射手進行精確瞄準。
 
 SSG
-3000的[槍口裝置具有](../Page/槍口.md "wikilink")[制退及](../Page/槍口制退器.md "wikilink")[消焰功能](../Page/槍口消焰器.md "wikilink")，兩道火扳機可以單／雙動擊發，其行程和扳機力可調整。扳機上方具有保險卡銷，可將扳機、[擊針和槍機一起鎖住](../Page/撞針.md "wikilink")，擊針頭上的膛內裝有指示銷以顯示槍機已經閉鎖。
+3000的[槍口裝置具有](https://zh.wikipedia.org/wiki/槍口 "wikilink")[制退及](https://zh.wikipedia.org/wiki/槍口制退器 "wikilink")[消焰功能](https://zh.wikipedia.org/wiki/槍口消焰器 "wikilink")，兩道火扳機可以單／雙動擊發，其行程和扳機力可調整。扳機上方具有保險卡銷，可將扳機、[擊針和槍機一起鎖住](../Page/撞針.md "wikilink")，擊針頭上的膛內裝有指示銷以顯示槍機已經閉鎖。
 
 早期型SSG
-3000採用的是木制[槍托](../Page/槍托.md "wikilink")，其後改為黑色麥克米蘭（）[玻璃钢強化](../Page/玻璃钢.md "wikilink")[塑料槍托](../Page/塑料.md "wikilink")，並在槍身兩側皆有開槽。SSG
+3000採用的是木制[槍托](../Page/槍托.md "wikilink")，其後改為黑色麥克米蘭（）[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[塑料槍托](../Page/塑料.md "wikilink")，並在槍身兩側皆有開槽。SSG
 3000的槍托底板可調節高、低、長、短、偏移或傾斜，也可調節高低。整個系統都可以改為左撇子射手操作的系統。
 
 目前的SSG 3000有三種不同的槍托類型，因此也有三種不同的名稱，分別為歐洲型（SSG3000 Euro）、二級型（SSG3000 Level
 II）和三級型（SSG3000 Level III）。歐洲型前護木兩側各有4個開孔，為SSG
-3000的標準型號；二級型為安裝有[哈里斯折疊式](../Page/哈里斯兩腳架.md "wikilink")[兩腳架和](../Page/兩腳架.md "wikilink")巴端（Vari）X
+3000的標準型號；二級型為安裝有[哈里斯折疊式](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")[兩腳架和](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")巴端（Vari）X
 III 3.5
 10×40毫米戰術瞄準鏡；三級型和二級型的護木和戰術附近相若，但三級型護木比二級型的稍重0.5公斤並且在表面製有粗糙式的凹凸防滑紋，瞄準鏡改為Leupold
 Mark 410×40毫米戰術瞄準鏡。
 
 SSG
-3000沒有[機械瞄具](../Page/機械瞄具.md "wikilink")，其制式瞄準具是亨索爾德（）1.5—6×42毫米光學[瞄準鏡](../Page/瞄準鏡.md "wikilink")，但也可以換成北約標準瞄準鏡座以安裝其他光學瞄準鏡，光學瞄準鏡架、前托[兩腳架安裝孔和](../Page/兩腳架.md "wikilink")導軌都是採用美國產品的標準規格。
+3000沒有[機械瞄具](../Page/機械瞄具.md "wikilink")，其制式瞄準具是亨索爾德（）1.5—6×42毫米光學[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，但也可以換成北約標準瞄準鏡座以安裝其他光學瞄準鏡，光學瞄準鏡架、前托[兩腳架安裝孔和](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")導軌都是採用美國產品的標準規格。
 
 在2011年的（美國著名槍展）之中，SIG Sauer推出了採用新槍托的SSG 3000。
 
 ## 採用
 
 目前SIG SSG
-3000是由[西格&紹爾生產](../Page/西格&紹爾.md "wikilink")，而且因為它的高[品質](../Page/品質.md "wikilink")、安全和[精確而贏得良好的名聲](../Page/準確與精密.md "wikilink")，在[欧洲及](../Page/欧洲.md "wikilink")[美国的](../Page/美国.md "wikilink")[執法機關](../Page/警察.md "wikilink")（甚至[軍隊](../Page/武装力量.md "wikilink")）之中比較常見。
+3000是由[西格&紹爾生產](../Page/西格&紹爾.md "wikilink")，而且因為它的高[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")、安全和[精確而贏得良好的名聲](../Page/準確與精密.md "wikilink")，在[欧洲及](../Page/欧洲.md "wikilink")[美国的](../Page/美国.md "wikilink")[執法機關](../Page/警察.md "wikilink")（甚至[軍隊](../Page/武装力量.md "wikilink")）之中比較常見。
 
 ## 使用國
 
@@ -65,7 +65,7 @@ SSG
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>阿根廷警察<a href="../Page/信天翁組.md" title="wikilink">信天翁組</a></p></td>
+<td><p>阿根廷警察<a href="https://zh.wikipedia.org/wiki/信天翁組" title="wikilink">信天翁組</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -93,35 +93,35 @@ SSG
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/中國人民武裝警察部隊特種警察學院.md" title="wikilink">中國人民武裝警察部隊特種警察學院</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國人民武裝警察部隊特種警察學院" title="wikilink">中國人民武裝警察部隊特種警察學院</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>哥倫比亞國家警察、<a href="../Page/哥倫比亞軍隊.md" title="wikilink">哥倫比亞軍隊</a>[3]</p></td>
+<td><p>哥倫比亞國家警察、<a href="https://zh.wikipedia.org/wiki/哥倫比亞軍隊" title="wikilink">哥倫比亞軍隊</a>[3]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/快速反應部隊.md" title="wikilink">快速反應部隊</a>（，簡稱：URNA／URN）[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/快速反應部隊" title="wikilink">快速反應部隊</a>（，簡稱：URNA／URN）[4]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/埃及777特種部隊.md" title="wikilink">埃及777特種部隊</a>[5]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃及777特種部隊" title="wikilink">埃及777特種部隊</a>[5]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/芬蘭警察.md" title="wikilink">芬蘭警察</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芬蘭警察" title="wikilink">芬蘭警察</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -142,7 +142,7 @@ SSG
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/國家安全衛隊.md" title="wikilink">國家安全衛隊</a>（；，簡稱：NSG）[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/國家安全衛隊" title="wikilink">國家安全衛隊</a>（；，簡稱：NSG）[6]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -156,14 +156,14 @@ SSG
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/特別行動組.md" title="wikilink">特別行動組</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特別行動組" title="wikilink">特別行動組</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/挪威警察應急部隊.md" title="wikilink">應急部隊</a>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/挪威警察應急部隊" title="wikilink">應急部隊</a>（）</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -184,7 +184,7 @@ SSG
 </tr>
 <tr class="even">
 <td></td>
-<td><p>斯洛伐克警察部隊<a href="../Page/特別任務隊.md" title="wikilink">特別任務隊</a>（；）[7]</p></td>
+<td><p>斯洛伐克警察部隊<a href="https://zh.wikipedia.org/wiki/特別任務隊" title="wikilink">特別任務隊</a>（；）[7]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -226,21 +226,21 @@ SSG
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/烏克蘭安全局.md" title="wikilink">烏克蘭安全局</a><a href="../Page/阿爾法小組_(烏克蘭).md" title="wikilink">阿爾法小組</a>（）[9]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏克蘭安全局" title="wikilink">烏克蘭安全局</a><a href="../Page/阿爾法小組_(烏克蘭).md" title="wikilink">阿爾法小組</a>（）[9]</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/烏拉圭海軍陸戰隊.md" title="wikilink">烏拉圭海軍陸戰隊</a><a href="../Page/FUSNA.md" title="wikilink">FUSNA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏拉圭海軍陸戰隊" title="wikilink">烏拉圭海軍陸戰隊</a><a href="https://zh.wikipedia.org/wiki/FUSNA" title="wikilink">FUSNA</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/英國陸軍.md" title="wikilink">英國陸軍</a><a href="../Page/特种空勤团.md" title="wikilink">特种空勤团</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英國陸軍" title="wikilink">英國陸軍</a><a href="../Page/特种空勤团.md" title="wikilink">特种空勤团</a></p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
 <td><p>_</p></td>
@@ -271,7 +271,7 @@ SSG
 
 ## 參見
 
-  - [狙擊步槍](../Page/狙擊步槍.md "wikilink")
+  - [狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")
   - [SIG SSG 2000](../Page/SIG_SSG_2000狙擊步槍.md "wikilink")
   - [SIG SG 550](../Page/SIG_SG_550突擊步槍.md "wikilink")
   - [步槍子彈列表](../Page/步槍子彈列表.md "wikilink")

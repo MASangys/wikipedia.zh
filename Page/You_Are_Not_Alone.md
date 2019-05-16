@@ -1,12 +1,12 @@
 "**You Are Not Alone**",
-发行于1995年8月，是[迈克尔·杰克逊的专辑](../Page/迈克尔·杰克逊.md "wikilink")*[HIStory](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")*中的第二首单曲。这首[R\&B](../Page/R&B_#现代节奏布鲁斯.md "wikilink")
-情歌是[R. Kelly](../Page/R._Kelly.md "wikilink")
+发行于1995年8月，是[迈克尔·杰克逊的专辑](../Page/迈克尔·杰克逊.md "wikilink")*[HIStory](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")*中的第二首单曲。这首[R\&B](https://zh.wikipedia.org/wiki/R&B_#现代节奏布鲁斯 "wikilink")
+情歌是[R. Kelly](https://zh.wikipedia.org/wiki/R._Kelly "wikilink")
 所作，反映他个人生活中的困难时期。他后来把样带给杰克逊，后者喜欢这首歌，并决定与R.Kelly一起制作它。杰克逊对这首歌的兴趣也与当时他个人生活中最近发生的事有关。
 
 ## 音乐
 
 "You Are Not
-Alone"是一首关于爱情和分隔的[R\&B](../Page/R&B_#现代节奏布鲁斯.md "wikilink")[歌谣](../Page/谣曲.md "wikilink")。它是由R.
+Alone"是一首关于爱情和分隔的[R\&B](https://zh.wikipedia.org/wiki/R&B_#现代节奏布鲁斯 "wikilink")[歌谣](https://zh.wikipedia.org/wiki/谣曲 "wikilink")。它是由R.
 Kelly写的，由R. Kelly和杰克逊制作的。R.
 Kelly在失去了他生活中亲近的人后写了这首歌。能与偶像一起工作，Kelly很高兴。杰克逊与Kelly联系，问他是否有可用的材料，Kelly就给了他这首歌的磁带录音。而后杰克逊同意与他一起工作。在给杰克逊的那盘带中，Kelly模仿杰克逊的唱腔来唱“You
 Are Not Alone”。他说：“我想象我就是他。我成为了他。我想让他也有这种感觉。”杰克逊觉得这个解释很有趣。

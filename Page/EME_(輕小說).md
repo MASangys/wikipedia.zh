@@ -1,4 +1,4 @@
-《**EME**》系列，[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[瀧川武司的作品](../Page/瀧川武司.md "wikilink")，在[富士見Fantasia文庫發表](../Page/富士見Fantasia文庫.md "wikilink")，插畫為尾崎弘宜，台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。
+《**EME**》系列，[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[瀧川武司的作品](https://zh.wikipedia.org/wiki/瀧川武司 "wikilink")，在[富士見Fantasia文庫發表](../Page/富士見Fantasia文庫.md "wikilink")，插畫為尾崎弘宜，台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。
 
 共分為『BLACK』、『BLUE』、『RED』。『BLACK』是過去的故事，而『BLUE』、『RED』現在的故事。
 雖然出版順序是『BLACK』、『BLUE』、『RED』，但作者建議觀看的順序是是『RED』、『BLUE』、『BLACK』\[1\]
@@ -15,18 +15,19 @@
 ## 關於八百萬機關
 
   - EME （Eight Million Engine）
-    暗中處理所有怪異現象的[架空機關](../Page/架空.md "wikilink")。舊稱八百萬機關，在首都依然在[京都的時代存在至今](../Page/京都.md "wikilink")，在[世界大戰後更名為EME](../Page/世界大戰.md "wikilink")。
+    暗中處理所有怪異現象的[架空機關](https://zh.wikipedia.org/wiki/架空 "wikilink")。舊稱八百萬機關，在首都依然在[京都的時代存在至今](../Page/京都.md "wikilink")，在[世界大戰後更名為EME](../Page/世界大戰.md "wikilink")。
     其中分為PC課、DH課、OP課、UL課、PP課等不同的部門處理不同的事件。
       - PC課 （Phenomenon Creature／現象生物）
         現象生物即是一般所稱的妖怪、怪獸或者怪物之類的生物。主要是處理與PC有關的事件。
         一般PC有分為P(保護種)和T(殲滅種)。
-      - DH課 （Demi Human／[亞人](../Page/亞人.md "wikilink")）
-        負責管理[狼人](../Page/狼人.md "wikilink")、[妖精之類的亞人類生態的部門](../Page/妖精.md "wikilink")。
+      - DH課 （Demi
+        Human／[亞人](https://zh.wikipedia.org/wiki/亞人 "wikilink")）
+        負責管理[狼人](../Page/狼人.md "wikilink")、[妖精之類的亞人類生態的部門](https://zh.wikipedia.org/wiki/妖精 "wikilink")。
         由於處理的事件間中會與PC課相沖，所以兩個部門的關係不是太好。
         會把適合在人類社會生活的亞人的行動把握和管理。
         一般分為保護·管理指定和殲滅·捕獲指定
       - OP課 (Out Of Place Artifacts／[歐帕茲](../Page/歐帕茲.md "wikilink"))
-        主要調查、收集和管理具有[超常能力的器物](../Page/OOPArt.md "wikilink")。
+        主要調查、收集和管理具有[超常能力的器物](https://zh.wikipedia.org/wiki/OOPArt "wikilink")。
         一般分為指定回收與指定破壞。
       - UL課 (Urban Legend)
         負責與都市傳說相關的事件。
@@ -51,9 +52,10 @@
 
 #### PC課
 
-  - 乾 紅太郎 （いぬい こうたろう） （[原田正夫](../Page/原田正夫.md "wikilink")）
+  - 乾 紅太郎 （いぬい こうたろう）
+    （[原田正夫](https://zh.wikipedia.org/wiki/原田正夫 "wikilink")）
     主要登場：『BLACK』『BLUE』『RED』
-    通稱『紅』，17歲(BLACK時15歲)，AA是『[力場干涉能力](../Page/力場.md "wikilink")』。
+    通稱『紅』，17歲(BLACK時15歲)，AA是『[力場干涉能力](https://zh.wikipedia.org/wiki/力場 "wikilink")』。
 
     『BLACK』時是黑部其下的見習GA。現在是PC課的王牌GA。
 
@@ -65,18 +67,18 @@
   - ;瓦特
 
       -
-        [雷獸](../Page/雷獸.md "wikilink")。檜繪馬‧[安培](../Page/安培.md "wikilink")‧[伏特](../Page/伏特.md "wikilink")‧[瓦特](../Page/瓦特.md "wikilink")
+        [雷獸](https://zh.wikipedia.org/wiki/雷獸 "wikilink")。檜繪馬‧[安培](../Page/安培.md "wikilink")‧[伏特](../Page/伏特.md "wikilink")‧[瓦特](../Page/瓦特.md "wikilink")
 
   - ;帕斯卡
 
       -
-        [風](../Page/風.md "wikilink")[貉](../Page/貉.md "wikilink")。全名檜繪馬‧[毫巴](../Page/毫巴.md "wikilink")‧[百](../Page/百.md "wikilink")‧[帕斯卡](../Page/帕斯卡.md "wikilink")
+        [風](../Page/風.md "wikilink")[貉](../Page/貉.md "wikilink")。全名檜繪馬‧[毫巴](https://zh.wikipedia.org/wiki/毫巴 "wikilink")‧[百](https://zh.wikipedia.org/wiki/百 "wikilink")‧[帕斯卡](../Page/帕斯卡.md "wikilink")
 
   - 巽 蒼乃丞 （たつみ あおのじょう） （[井上喜久子](../Page/井上喜久子.md "wikilink")）
     『BLUE』『RED』
     通稱『蒼』，22歲，AA是『運動停止能力』。
 
-    從[美國留學完畢的歸國的GA](../Page/美國.md "wikilink")。但實際上現任EME總長，因某些原因而隱藏總長的身份。
+    從[美國留學完畢的歸國的GA](https://zh.wikipedia.org/wiki/美國 "wikilink")。但實際上現任EME總長，因某些原因而隱藏總長的身份。
 
   - 黄泉 三木也 （こいずみ みきや） 『BLACK』『BLUE』『RED』
     17歲。紅的童年玩伴兼好搭檔。
@@ -86,7 +88,7 @@
   - 黒部 （くろべ） 『BLACK』
     PC課的GA。『BLACK』時與白木號稱EME的最強。紅和三木也的師父。
 
-    AA是『[空間掌握能力](../Page/空間.md "wikilink")』。人稱『暗影黑部』
+    AA是『[空間掌握能力](https://zh.wikipedia.org/wiki/空間 "wikilink")』。人稱『暗影黑部』
 
   - 白木 （しらき） 『BLACK』
     PC課的特務隊長。和黒部是好搭檔。
@@ -96,7 +98,7 @@
   - 堇（スミレ） 『BLACK』
     由SD課轉到PC課的GA。
 
-    AA是「生體[治癒能力](../Page/治癒.md "wikilink")」
+    AA是「生體[治癒能力](https://zh.wikipedia.org/wiki/治癒 "wikilink")」
 
   - 山吹 (やまぶき) 『RED』
     三木也其下的見習GA。
@@ -118,7 +120,7 @@
   - 真中　橙吉朗 (まなか　とうきちろう) 『BLACK２』
     與一個叫未來女生一樣是白木其下的見習GA。
 
-    AA是『[溫度感知能力](../Page/溫度.md "wikilink")』。
+    AA是『[溫度感知能力](https://zh.wikipedia.org/wiki/溫度 "wikilink")』。
 
   - 小豆屋　大福 (あずきや　だいふく) 『BLACK２』
     PC課的GA。
@@ -162,7 +164,7 @@
   - 源平　桃子(みなもとだいら　ももこ)『BLUE』
     紅和三木也的童年玩伴。
 
-    AA是『[精神感應能力](../Page/精神感應.md "wikilink")』
+    AA是『[精神感應能力](https://zh.wikipedia.org/wiki/精神感應 "wikilink")』
 
   - 綠
 
@@ -183,7 +185,7 @@
 #### 其他
 
   - 鍋島　柿八 (なべしま　かきはち) 『BLACK』『RED』
-    EME總部員工食堂的大廚。綽號「[火焰料理人](../Page/火焰.md "wikilink")」，AA是「絕對[味覺能力](../Page/味覺.md "wikilink")」。
+    EME總部員工食堂的大廚。綽號「[火焰料理人](https://zh.wikipedia.org/wiki/火焰 "wikilink")」，AA是「絕對[味覺能力](https://zh.wikipedia.org/wiki/味覺 "wikilink")」。
     二十六色套餐的創始人。
 
 ### 『張開血盆大口的魔王迷宮』
@@ -191,25 +193,25 @@
   -
     在兩年前發生於東京[地下街的案件](../Page/地下街.md "wikilink")，稱「地下迷宮事件」。
 
-  - 棋手[梅林](../Page/梅林.md "wikilink")
+  - 棋手[梅林](https://zh.wikipedia.org/wiki/梅林 "wikilink")
     棋手[晴明](../Page/安倍晴明.md "wikilink")
     圓谷 將子
 
-### 『與[惡魔共舞的怪物之島](../Page/惡魔.md "wikilink")』
+### 『與[惡魔共舞的怪物之島](https://zh.wikipedia.org/wiki/惡魔 "wikilink")』
 
   - 女郎花 (おみなえし) 『BLACK２』
     厄倪俄、彭芙雷杜、迪奧 『BLACK２』
 
-### 『[阿修羅之手](../Page/阿修羅.md "wikilink")』
+### 『[阿修羅之手](https://zh.wikipedia.org/wiki/阿修羅 "wikilink")』
 
-  - 「[印度人](../Page/印度人.md "wikilink")」 『BLUE１』
+  - 「[印度人](https://zh.wikipedia.org/wiki/印度人 "wikilink")」 『BLUE１』
     「[中國人](../Page/中國人.md "wikilink")」 『BLUE１』
-    「[韓國人](../Page/韓國人.md "wikilink")」 『BLUE１』
+    「[韓國人](https://zh.wikipedia.org/wiki/韓國人 "wikilink")」 『BLUE１』
     「[日本人](../Page/日本人.md "wikilink")」内木 雪舟 （うちき せっしゅう） 『BLUE１』
-    「[雑種](../Page/雑種.md "wikilink")」 『BLUE１』
+    「[雑種](https://zh.wikipedia.org/wiki/雑種 "wikilink")」 『BLUE１』
     「[混血兒](../Page/混血兒.md "wikilink")」 『BLUE１』
 
-### 『[潘朵拉之盒](../Page/潘朵拉的盒子.md "wikilink")』
+### 『[潘朵拉之盒](https://zh.wikipedia.org/wiki/潘朵拉的盒子 "wikilink")』
 
   - 涅川　槃三 (くりかわ　はんぞう) 『BLUE２』
     ;小不點
@@ -237,7 +239,7 @@
   - 巽　葵 (たつみ　あおい) 『BLUE』『RED』
     蒼的母親。
 
-    SS是能召喚海洋的『葵媽媽[海洋藍](../Page/海洋藍.md "wikilink")』
+    SS是能召喚海洋的『葵媽媽[海洋藍](https://zh.wikipedia.org/wiki/海洋藍 "wikilink")』
 
   - 薯蕷芋　妹子 (とろろいも　いもこ) 『BLUE』『RED』
 
@@ -245,7 +247,8 @@
 
   - 風間　幽溪 (かざま　ゆうけい) 『BLUE』
     [血滴子](../Page/血滴子.md "wikilink") (シュエティツ) 『RED』
-    綾小路 [α](../Page/α.md "wikilink") (あやのこうじ　あるふぁ) 『RED』
+    綾小路 [α](https://zh.wikipedia.org/wiki/α "wikilink") (あやのこうじ　あるふぁ)
+    『RED』
 
 ## 組織
 

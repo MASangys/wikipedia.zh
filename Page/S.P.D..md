@@ -1,8 +1,8 @@
-《**S.P.D.**》，是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")16張[單曲](../Page/單曲.md "wikilink")。2009年5月27日發行。是SPEED完全復活之後的第2張單曲。分為CD和CD+DVD兩種版本。
+《**S.P.D.**》，是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年5月27日發行。是SPEED完全復活之後的第2張單曲。分為CD和CD+DVD兩種版本。
 
 單曲名稱「S.P.D.」是「**S**plendid **P**op **D**ance」的縮寫。
 
-這張單曲的風格與SPEED以前的曲風有很大不同，是第二張並非由[伊秩弘將製作的單曲](../Page/伊秩弘將.md "wikilink")；專門邀請海外的製作人創作了帶有強烈[Hip-Hop西洋音樂元素](../Page/Hip-Hop.md "wikilink")，節奏感強勁的主歌《S.P.D.》；而副歌則保持SPEED一向的[J-POP風格](../Page/J-POP.md "wikilink")。
+這張單曲的風格與SPEED以前的曲風有很大不同，是第二張並非由[伊秩弘將製作的單曲](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")；專門邀請海外的製作人創作了帶有強烈[Hip-Hop西洋音樂元素](https://zh.wikipedia.org/wiki/Hip-Hop "wikilink")，節奏感強勁的主歌《S.P.D.》；而副歌則保持SPEED一向的[J-POP風格](https://zh.wikipedia.org/wiki/J-POP "wikilink")。
 
 雖然SPEED在這張單曲尋求風格上的突破，但是銷量並不理想。在[Oricon週榜最高排行第](../Page/Oricon.md "wikilink")8位；在榜期間銷量只有2.79萬張。
 
@@ -11,8 +11,8 @@
 ### CD
 
 1.  **S.P.D.** (3:58)
-      - 作詞：[shungo.](../Page/shungo..md "wikilink")；作曲：Kye Sones、Peter
-        Martin、Jonathan Shave
+      - 作詞：[shungo.](https://zh.wikipedia.org/wiki/shungo. "wikilink")；作曲：Kye
+        Sones、Peter Martin、Jonathan Shave
     <!-- end list -->
       -
         [日本電視台系](../Page/日本電視台.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[GURU

@@ -3,7 +3,7 @@
 **iOS越狱**（）是获取[iOS设备的](../Page/IOS设备列表.md "wikilink")[Root权限的技术手段](../Page/超级用户.md "wikilink")。iOS系统的Root用户对除Apple特定私有进程之外的其他进程不开放，使用Root用户运行的进程在进程树中的PID为0。程序员在iOS中挖掘出一些可以将进程提权至PID0的漏洞（例如Task
 For
 PID0）。利用Root用户运行的进程意味着可以任意读取设备其中的APFS分区表和内核缓存地址，拥有一个用户可以随意控制的PID0进程还不能称之为一个完整的越狱。之后还需要利用Bypass（旁路）手段绕过Apple在iOS系统中设置的其他安全防护措施，将APFS或HFS+文件系统中的ROOTFS分区重新挂载（Remount）为可读写（R/W），从而达到添加二进制文件和守护进程的目的。通常大众用户认为能够正常使用Cydia才能被称为越狱，但其实这种说法是不正确的。但通过此软件可以完成越狱前不可能进行的动作，例如安装[App
-Store以外未经过签名的应用](../Page/App_Store_\(iOS\).md "wikilink")、修改SpringBoard、运行[Shell程序](../Page/Shell.md "wikilink")、使有运营商锁的设备利用卡贴解锁后通过替换配置文件形式实现本地化（例如“去除+86”，解锁FaceTime功能）。\[1\]
+Store以外未经过签名的应用](../Page/App_Store_\(iOS\).md "wikilink")、修改SpringBoard、运行[Shell程序](https://zh.wikipedia.org/wiki/Shell "wikilink")、使有运营商锁的设备利用卡贴解锁后通过替换配置文件形式实现本地化（例如“去除+86”，解锁FaceTime功能）。\[1\]
 
 越狱软件分发商店Cydia的创始人Jay Freeman在2010年10月估计，全球大概有10%的iPhone曾进行过越狱\[2\]。
 当iOS设备越狱后，用户可對系統進行編輯或是運行不被蘋果公司所驗證的軟體。
@@ -34,17 +34,17 @@ Store以外未经过签名的应用](../Page/App_Store_\(iOS\).md "wikilink")、
     Store上的指导方针和要求，其中不少是适用于iOS或其他应用程序的扩展和定制。用户安装这些应用程序,更多被称作“插件”（Tweaks）
     。这些插件可以达到个性化的目的，定制用户界面和字体，为iOS设备添加新功能等（苹果公司近几年的iOS系统更新所添加的新功能有很多都是从越狱插件中借鉴的）\[7\]
     。并且可以访问文件系统和安装命令行工具，使得在iOS设备上的开发工作更加容易\[8\]\[9\] 。在允许安装第三方输入法的**[iOS
-    8](../Page/iOS_8.md "wikilink")**发布之前，很多中国的iOS用户也因为安装第三方的中文输入法而越狱iOS设备，因为它们比原生输入法更容易使用\[10\]。在[中国大陆](../Page/中国大陆.md "wikilink")，通过越狱获取的[root权限被某些软件用于安装](../Page/root.md "wikilink")[盗版软件](../Page/盗版.md "wikilink")，\[11\]并造成了部分人存在越狱等于盗版的误解。\[12\]\[13\]
+    8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")**发布之前，很多中国的iOS用户也因为安装第三方的中文输入法而越狱iOS设备，因为它们比原生输入法更容易使用\[10\]。在[中国大陆](../Page/中国大陆.md "wikilink")，通过越狱获取的[root权限被某些软件用于安装](https://zh.wikipedia.org/wiki/root "wikilink")[盗版软件](../Page/盗版.md "wikilink")，\[11\]并造成了部分人存在越狱等于盗版的误解。\[12\]\[13\]
   - **解除限制：**越狱也可以非正式地解开运营商对iPhone的锁定，使得能够使用其它运营商提供的服务\[14\]。基于软件的解锁，每一个不同的基带版本都对应了一个不同的解锁工具\[15\]。
   - **修复漏洞：**2011年7月15日，越狱工具[JailbreakMe](../Page/JailbreakMe.md "wikilink")
     3.0利用了一个[Safari浏览器在显示PDF文档时达到越狱的目的](../Page/Safari.md "wikilink")。这也就意味着iOS用户可能在不知不觉中丢失自己的个人信息或者被安装恶意软件\[16\]。在苹果发布4.3.4更新修补该漏洞之前，越狱开发者comex就已经先行修补了这个漏洞。
 
 ## 动机
 
-將iOS裝置越狱的原因是为了突破[苹果公司及其](../Page/苹果公司.md "wikilink")[App
+將iOS裝置越狱的原因是为了突破[苹果公司及其](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[App
 Store的限制](../Page/App_Store_\(iOS\).md "wikilink")，其中最主要的原因是为了能安装那些未遭苹果公司审核的应用程序。
 
-苹果公司對应用程序审核程序的原因不仅局限于安全问题，有时也可能有意的禁止某些应用程序上架，（比如苹果公司[禁止普利策获奖](../Page/禁止.md "wikilink")[漫画家所编写的应用程序上架](../Page/漫画家.md "wikilink")，並聲稱其违反了开发许可协议。除外，协议上也明確規定禁止上架含有“嘲笑、醜化[公众人物](../Page/公众人物.md "wikilink")”之類的应用程序。因此为了能夠成功运行被禁止上架的应用程序，用户不得不依靠越狱手段来脫離此類限制。
+苹果公司對应用程序审核程序的原因不仅局限于安全问题，有时也可能有意的禁止某些应用程序上架，（比如苹果公司[禁止普利策获奖](https://zh.wikipedia.org/wiki/禁止 "wikilink")[漫画家所编写的应用程序上架](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，並聲稱其违反了开发许可协议。除外，协议上也明確規定禁止上架含有“嘲笑、醜化[公众人物](https://zh.wikipedia.org/wiki/公众人物 "wikilink")”之類的应用程序。因此为了能夠成功运行被禁止上架的应用程序，用户不得不依靠越狱手段来脫離此類限制。
 
 ## 历史
 
@@ -53,20 +53,20 @@ Store的限制](../Page/App_Store_\(iOS\).md "wikilink")，其中最主要的原
 。2008年2月，Zibri发布了ZiPhone，可以越狱iPhone OS 1.1.3和1.1.4的工具\[21\]。
 
 iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提供针对iPhone OS 2.0的[iPhone
-3G和iPod](../Page/iPhone_3G.md "wikilink")
+3G和iPod](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")
 touch的越狱\[22\]，更新包括作为越狱软件中主要的第三方安装程序[Cydia](../Page/Cydia.md "wikilink")\[23\]；QuickPwn可以用来越狱iPhone
 OS 2.2版本的设备\[24\]；在苹果推出iPhone OS 3.0时，Dev
-Team发布了一个更简单的针对于Windows和Mac的越狱工具[redsn0w](../Page/redsn0w.md "wikilink")，并继续更新PwnageTool\[25\]。更新版本的redsn0w也可以越狱iOS
+Team发布了一个更简单的针对于Windows和Mac的越狱工具[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")，并继续更新PwnageTool\[25\]。更新版本的redsn0w也可以越狱iOS
 4和iOS 5的版本。
 
 ## 安全
 
-2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](../Page/SSH.md "wikilink")\[26\]
+2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](https://zh.wikipedia.org/wiki/SSH "wikilink")\[26\]
 \[27\]\[28\]。
 
-2011年7月15日，[苹果公司封锁了一个被](../Page/苹果公司.md "wikilink")[JailbreakMe](../Page/JailbreakMe.md "wikilink")
+2011年7月15日，[苹果公司封锁了一个被](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[JailbreakMe](../Page/JailbreakMe.md "wikilink")
 3.0利用的漏洞。德国联邦信息安全办公室称，已发现JailbreakMe
-3.0可利用的[PDF显示方面的漏洞](../Page/PDF.md "wikilink")，會使iOS用户的個人信息在不知不覺的情況下被盗取或是被控制下载恶意软體\[29\]。
+3.0可利用的[PDF显示方面的漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")，會使iOS用户的個人信息在不知不覺的情況下被盗取或是被控制下载恶意软體\[29\]。
 
 部分[黑客可远程控制已越狱iOS裝置](../Page/黑客.md "wikilink")，以便其安装恶意软件或竊取用戶資料。
 
@@ -78,7 +78,7 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 越狱iOS系统的法律地位受到不同国家的法律的影响，例如：保护数字版权管理（DRM）机制的法律。但许多国家并没有这样的法律。除此之外国际性的条约影响到越狱法律的发展，例如：1996
 年世界知识产权组织（知识产权组织）版权条约要求条约的国家缔约国颁布有关规避DRM规则的法律。美国的实施是“
 数字千年版权法案”（DMCA），其中包括为违法侵权目的豁免程序，包括越狱。
-虽然[苹果公司不赞同用户自行越狱](../Page/苹果公司.md "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](../Page/漏洞.md "wikilink")。
+虽然[苹果公司不赞同用户自行越狱](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](https://zh.wikipedia.org/wiki/漏洞 "wikilink")。
 苹果公司发布对于越狱iOS系统的的支持文章中声称：“拒绝为已经越狱的iPhone、iPad或iPod touch提供保修服务”。
 
 ### 澳大利亚
@@ -124,19 +124,19 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <td><p>iPhone Dev Team[30]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3G.md" title="wikilink">iPhone 3G</a>/iPhone OS 2.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a>/iPhone OS 2.0</p></td>
 <td><p>9</p></td>
-<td><p><a href="../Page/PwnageTool.md" title="wikilink">PwnageTool</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PwnageTool" title="wikilink">PwnageTool</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第二代iPod touch</p></td>
 <td><p>143</p></td>
-<td><p><a href="../Page/redsn0w.md" title="wikilink">redsn0w</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/redsn0w" title="wikilink">redsn0w</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad (第三代)</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad (第三代)</a><br />
 <small>也称iPad 3、the New iPad</small></p></td>
 <td><p>70</p></td>
 <td><p>Absinthe 2.0</p></td>
@@ -149,85 +149,85 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <td><p>iPhone Dev Team</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_5.md" title="wikilink">iPhone 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5</a></p></td>
 <td><p>136</p></td>
-<td><p><a href="../Page/evasi0n.md" title="wikilink">evasi0n</a></p></td>
-<td><p><a href="../Page/evad3rs.md" title="wikilink">evad3rs</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/evasi0n" title="wikilink">evasi0n</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/evad3rs" title="wikilink">evad3rs</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>第五代<a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a></p></td>
+<td><p>第五代<a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a></p></td>
 <td><p>104</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad (第四代)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad (第四代)</a></p></td>
 <td><p>94</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_Mini.md" title="wikilink">iPad Mini</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_Mini" title="wikilink">iPad Mini</a></p></td>
 <td><p>94</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_5C.md" title="wikilink">iPhone 5C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">iPhone 5C</a></p></td>
 <td><p>93</p></td>
-<td><p><a href="../Page/evasi0n.md" title="wikilink">evasi0n</a>7</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/evasi0n" title="wikilink">evasi0n</a>7</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_5S.md" title="wikilink">iPhone 5S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">iPhone 5S</a></p></td>
 <td><p>93</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_Air.md" title="wikilink">iPad Air</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></p></td>
 <td><p>51</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_mini_2.md" title="wikilink">iPad mini 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">iPad mini 2</a></p></td>
 <td><p>40</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iOS_7.md" title="wikilink">iOS 7</a> 7.1－7.1.2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a> 7.1－7.1.2</p></td>
 <td><p>25</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱v</a>1.1.0~v1.2.1</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱v</a>1.1.0~v1.2.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iOS_8.md" title="wikilink">iOS 8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
 <td><p>35</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱for</a> iOS 8</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱for</a> iOS 8</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_6.md" title="wikilink">iPhone 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">iPhone 6</a></p></td>
 <td><p>33</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_6_Plus.md" title="wikilink">iPhone 6 Plus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6_Plus" title="wikilink">iPhone 6 Plus</a></p></td>
 <td><p>33</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_Air_2.md" title="wikilink">iPad Air 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">iPad Air 2</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_mini_3.md" title="wikilink">iPad mini 3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_3" title="wikilink">iPad mini 3</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -236,7 +236,7 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <td><p>iOS 8.1.1</p></td>
 <td><p>12</p></td>
 <td><p>太极越狱V1.0</p></td>
-<td><p><a href="../Page/太极越狱.md" title="wikilink">太极越狱团队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太极越狱" title="wikilink">太极越狱团队</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>iOS 8.1.2</p></td>
@@ -275,13 +275,13 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <td><p>tihmstar</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_6S.md" title="wikilink">iPhone 6S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">iPhone 6S</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱</a></p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_6s_Plus.md" title="wikilink">iPhone 6s Plus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_6s_Plus" title="wikilink">iPhone 6s Plus</a></p></td>
 <td><p>5</p></td>
 <td></td>
 <td></td>
@@ -289,7 +289,7 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="odd">
 <td><p>iOS 9.0</p></td>
 <td><p>25</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.0.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.0.0</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -307,17 +307,17 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <tr class="even">
 <td><p>iOS 9.1</p></td>
 <td><p>142</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.3.0（Windows版）<br />
-<a href="../Page/盘古越狱.md" title="wikilink">盘古越狱V</a>1.1.0（Mac版）<br />
-<a href="../Page/Jailbreakme.md" title="wikilink">Jailbreakme</a> 4.0 (jailbreak.me)</p></td>
-<td><p><a href="../Page/盘古越狱.md" title="wikilink">盘古越狱团队</a><br />
-<a href="../Page/Tihmstar.md" title="wikilink">Tihmstar</a>(jailbreakme4.0)(支援32位元設備)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.3.0（Windows版）<br />
+<a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱V</a>1.1.0（Mac版）<br />
+<a href="https://zh.wikipedia.org/wiki/Jailbreakme" title="wikilink">Jailbreakme</a> 4.0 (jailbreak.me)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盘古越狱" title="wikilink">盘古越狱团队</a><br />
+<a href="https://zh.wikipedia.org/wiki/Tihmstar" title="wikilink">Tihmstar</a>(jailbreakme4.0)(支援32位元設備)</p></td>
 </tr>
 <tr class="odd">
 <td><p>iOS 9.2</p></td>
 <td><p>228</p></td>
 <td><p>PP助手 v5.0.3.1142<br />
-<a href="../Page/Jailbreakme.md" title="wikilink">Jailbreakme</a> 4.0</p></td>
+<a href="https://zh.wikipedia.org/wiki/Jailbreakme" title="wikilink">Jailbreakme</a> 4.0</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -356,10 +356,10 @@ Team向执法机构出售黑客软件并建议警方將其安裝至已越狱的i
 <td><p>155</p></td>
 <td><p>Trident<br />
 Home Depot<br />
-<a href="../Page/Jailbreakme.md" title="wikilink">Jailbreakme</a> 4.0 (jailbreak.me)</p></td>
+<a href="https://zh.wikipedia.org/wiki/Jailbreakme" title="wikilink">Jailbreakme</a> 4.0 (jailbreak.me)</p></td>
 <td><p>antiquedev<br />
 NSO, Benjamin, qwertyoruiop, planetbeing, Jon Seals, Tihmstar, ih8sn0w<br />
-<a href="../Page/Tihmstar.md" title="wikilink">Tihmstar</a>(jailbreakme4.0)(支援32位元設備)</p></td>
+<a href="https://zh.wikipedia.org/wiki/Tihmstar" title="wikilink">Tihmstar</a>(jailbreakme4.0)(支援32位元設備)</p></td>
 </tr>
 <tr class="even">
 <td><p>iOS 9.3.5</p></td>
@@ -368,13 +368,13 @@ NSO, Benjamin, qwertyoruiop, planetbeing, Jon Seals, Tihmstar, ih8sn0w<br />
 <td><p>Siguza, tihmstar, mbazaliy, qwertyoruiop, realkjcmember</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_7.md" title="wikilink">iPhone 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">iPhone 7</a></p></td>
 <td><p>103</p></td>
 <td><p>yalu</p></td>
 <td><p>Luca Todesco</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_7_Plus.md" title="wikilink">iPhone 7 Plus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_7_Plus" title="wikilink">iPhone 7 Plus</a></p></td>
 <td><p>103</p></td>
 <td></td>
 <td></td>
@@ -481,7 +481,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_(第一代).md" title="wikilink">iPhone</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_(第一代)" title="wikilink">iPhone</a><br />
 </p></td>
 <td><p>2007年6月29日</p></td>
 <td><p>2007年10月10日[31]</p></td>
@@ -497,7 +497,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3G.md" title="wikilink">iPhone 3G</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a><br />
 </p></td>
 <td><p>2008年7月11日</p></td>
 <td><p>2008年7月20日[33]</p></td>
@@ -512,7 +512,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IPod_touch#%E7%AC%AC%E4%B8%80%E4%BB%A3.md" title="wikilink">iPod touch</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/IPod_touch#%E7%AC%AC%E4%B8%80%E4%BB%A3" title="wikilink">iPod touch</a><br />
 </p></td>
 <td><p>2007年9月5日</p></td>
 <td><p>2007年10月10日[34]</p></td>
@@ -529,7 +529,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a> 2<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 2<br />
 <small>MB Model</small><br />
 </p></td>
 <td><p>2008年9月9日</p></td>
@@ -545,7 +545,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS</a><br />
 <small>(16GB 32GB)<br />
 (旧bootrom)</small></p></td>
 <td><p>2009年6月19日</p></td>
@@ -559,7 +559,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a> 2<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 2<br />
 <small>MC model</small><br />
 </p></td>
 <td><p>2009年9月9日</p></td>
@@ -574,7 +574,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a> 3<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 3<br />
 </p></td>
 <td><p>2009年9月9日</p></td>
 <td><p>2009年10月11日</p></td>
@@ -586,7 +586,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad.md" title="wikilink">iPad</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad" title="wikilink">iPad</a><br />
 <small>(Wi-Fi model)</small></p></td>
 <td><p>2010年4月3日</p></td>
 <td><p>2010年5月2日</p></td>
@@ -599,7 +599,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad.md" title="wikilink">iPad</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad" title="wikilink">iPad</a><br />
 <small>(3G model)</small></p></td>
 <td><p>2010年4月30日</p></td>
 <td><p>2010年5月2日</p></td>
@@ -612,7 +612,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS</a><br />
 <small>(8GB)<br />
 (新bootrom)</small></p></td>
 <td><p>2010年6月24日</p></td>
@@ -625,7 +625,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a> 4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 4</p></td>
 <td><p>2010年9月1日</p></td>
 <td><p>2010年10月9日</p></td>
 <td><p>6.1.6</p></td>
@@ -637,7 +637,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a><br />
 <small>(16GB 32GB)</small></p></td>
 <td><p>2010年6月24日</p></td>
 <td><p>2009年8月1日</p></td>
@@ -651,7 +651,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_4S.md" title="wikilink">iPhone 4S</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_4S" title="wikilink">iPhone 4S</a><br />
 </p></td>
 <td><p>2011年10月4日</p></td>
 <td><p>2012年1月21日</p></td>
@@ -662,7 +662,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_(第二代).md" title="wikilink">iPad 2</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad 2</a><br />
 </p></td>
 <td><p>2012年3月7日</p></td>
 <td><p>2012年5月25日</p></td>
@@ -673,7 +673,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad 3</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad 3</a><br />
 <small>(Global model)</small></p></td>
 <td><p>2012年3月7日</p></td>
 <td><p>2012年5月25日</p></td>
@@ -684,7 +684,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_4.md" title="wikilink">iPad 4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_4" title="wikilink">iPad 4</a></p></td>
 <td><p>2012年11月2日</p></td>
 <td><p>2013年2月5日</p></td>
 <td><p>10.3.3</p></td>
@@ -694,7 +694,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPhone_5.md" title="wikilink">iPhone 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5</a></p></td>
 <td><p>2012年9月13日</p></td>
 <td><p>2013年2月5日</p></td>
 <td><p>10.3.3</p></td>
@@ -704,7 +704,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPad_mini.md" title="wikilink">iPad mini</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_mini" title="wikilink">iPad mini</a><br />
 <small>包括所有的iPad mini版本</small></p></td>
 <td><p>2012年11月2日</p></td>
 <td><p>2013年2月5日</p></td>
@@ -715,7 +715,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/iPod_touch.md" title="wikilink">iPod touch</a> 5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 5</p></td>
 <td><p>2012年9月13日</p></td>
 <td><p>2013年2月5日</p></td>
 <td><p>9.3.5</p></td>
@@ -725,7 +725,7 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 <td><p>需要引导启动（不完美越狱）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPhone_5C.md" title="wikilink">iPhone 5C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">iPhone 5C</a></p></td>
 <td><p>2013年9月20日</p></td>
 <td><p>2013年12月22日</p></td>
 <td><p>10.3.3</p></td>
@@ -745,10 +745,11 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 
 ## 相关条目
 
-  - [Chronic dev team](../Page/Chronic_dev_team.md "wikilink")
-  - [Greenpois0n](../Page/Greenpois0n.md "wikilink")
-  - [盘古越狱](../Page/盘古越狱.md "wikilink")
-  - [evasi0n](../Page/evasi0n.md "wikilink")
+  - [Chronic dev
+    team](https://zh.wikipedia.org/wiki/Chronic_dev_team "wikilink")
+  - [Greenpois0n](https://zh.wikipedia.org/wiki/Greenpois0n "wikilink")
+  - [盘古越狱](https://zh.wikipedia.org/wiki/盘古越狱 "wikilink")
+  - [evasi0n](https://zh.wikipedia.org/wiki/evasi0n "wikilink")
   - [Root (Android)](../Page/Root_\(Android\).md "wikilink")
 
 ## 参考注释

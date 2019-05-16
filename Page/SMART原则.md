@@ -1,4 +1,4 @@
-**SMART原则**是[目标管理中的一种方法](../Page/目标管理.md "wikilink")。目标管理的任务是有效地进行成员的组织与目标的制定和控制以达到更好的工作绩效，由管理学大师[彼得·杜拉克于](../Page/彼得·杜拉克.md "wikilink")1954年首先提出。SMART原则便是为了达到这一目的而提出的一种方法，目前在企业界有广泛的应用。它的首次出现被认为是在1981年12月发行的《[管理评论](../Page/管理评论.md "wikilink")》（Management
+**SMART原则**是[目标管理中的一种方法](https://zh.wikipedia.org/wiki/目标管理 "wikilink")。目标管理的任务是有效地进行成员的组织与目标的制定和控制以达到更好的工作绩效，由管理学大师[彼得·杜拉克于](https://zh.wikipedia.org/wiki/彼得·杜拉克 "wikilink")1954年首先提出。SMART原则便是为了达到这一目的而提出的一种方法，目前在企业界有广泛的应用。它的首次出现被认为是在1981年12月发行的《[管理评论](https://zh.wikipedia.org/wiki/管理评论 "wikilink")》（Management
 Review）上（由George Doran、Arthur Miller和James Cunningham编著）。\[1\]
 
 SMART原则中的“S”、“M”、“A”、“R”、“T”五个字母分别对应了五个英文单词：Specific（明确）、Measurable（可衡量）、Achievable（可达成）、Relevant（相关）和Time-bound（有时限）。

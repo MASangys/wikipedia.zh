@@ -1,16 +1,16 @@
-**Yahoo\!拍賣**（）是1998年起，由跨國[互聯網公司](../Page/互聯網.md "wikilink")[雅虎提供的](../Page/雅虎.md "wikilink")[網路拍賣服務](../Page/網路拍賣.md "wikilink")，當時主要競爭對手為[eBay](../Page/eBay.md "wikilink")。隨着雅虎公司萎縮，[英國和](../Page/英國.md "wikilink")[愛爾蘭的Yahoo](../Page/愛爾蘭.md "wikilink")\!拍賣服務在2002年6月28日關閉。在關閉了英國和愛爾蘭的服務時，雅虎採取了不尋常的步驟：贊同其競爭對手[eBay](../Page/eBay.md "wikilink")，作為他們的首選的服務。[美國和](../Page/美國.md "wikilink")[加拿大的Yahoo](../Page/加拿大.md "wikilink")\!拍賣網站在2007年6月16日關閉。2008年9月22日，[新加坡網站關閉](../Page/新加坡.md "wikilink")。目前只餘下[香港](../Page/香港.md "wikilink")、[臺灣和](../Page/台灣.md "wikilink")[日本](../Page/日本.md "wikilink")3個地區有「Yahoo\!拍賣」服務。
+**Yahoo\!拍賣**（）是1998年起，由跨國[互聯網公司](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[雅虎提供的](../Page/雅虎.md "wikilink")[網路拍賣服務](https://zh.wikipedia.org/wiki/網路拍賣 "wikilink")，當時主要競爭對手為[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")。隨着雅虎公司萎縮，[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭的Yahoo](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")\!拍賣服務在2002年6月28日關閉。在關閉了英國和愛爾蘭的服務時，雅虎採取了不尋常的步驟：贊同其競爭對手[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")，作為他們的首選的服務。[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大的Yahoo](../Page/加拿大.md "wikilink")\!拍賣網站在2007年6月16日關閉。2008年9月22日，[新加坡網站關閉](../Page/新加坡.md "wikilink")。目前只餘下[香港](../Page/香港.md "wikilink")、[臺灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本](../Page/日本.md "wikilink")3個地區有「Yahoo\!拍賣」服務。
 
 ## 收購行動及萎縮
 
-2001年4月，雅虎以1563萬美元，收購了澳大利亞國內最知名的拍賣網站「Sold.com.au」，當時該網站註冊用戶超過18萬人、185家零售經銷商。在6個月內進行了129000筆網上拍賣交易，總交易額超過了1180萬美元。雅虎又透露[eBay在當時最近一個季度里在全球市場上進行了](../Page/eBay.md "wikilink")7940萬筆網上拍賣交易，總交易額達16億美元。雅虎表示，雖然Sold.com.au与eBay還有很大差距，但前者的發展潛力巨大。\[1\]據Nielsen/NetRatings統計，2003年6月Sold.com.au網站瀏覽人數僅有24萬人次，遠不如ebay的130萬人次。2003年8月雅虎表示該網站將被關閉，並推薦會員未來使用ebay的拍賣服務。\[2\]
+2001年4月，雅虎以1563萬美元，收購了澳大利亞國內最知名的拍賣網站「Sold.com.au」，當時該網站註冊用戶超過18萬人、185家零售經銷商。在6個月內進行了129000筆網上拍賣交易，總交易額超過了1180萬美元。雅虎又透露[eBay在當時最近一個季度里在全球市場上進行了](https://zh.wikipedia.org/wiki/eBay "wikilink")7940萬筆網上拍賣交易，總交易額達16億美元。雅虎表示，雖然Sold.com.au与eBay還有很大差距，但前者的發展潛力巨大。\[1\]據Nielsen/NetRatings統計，2003年6月Sold.com.au網站瀏覽人數僅有24萬人次，遠不如ebay的130萬人次。2003年8月雅虎表示該網站將被關閉，並推薦會員未來使用ebay的拍賣服務。\[2\]
 
 ## 日本
 
 與[雅虎日本的其他服務相同](../Page/雅虎日本.md "wikilink")，日本的Yahoo\!拍賣為獨立系統，不與全球的雅虎網站互通。其主要使用「YahuOku\!」（）做為品牌名稱，此為「Yahoo\!
 Auction」的簡稱。
 
-日本Yahoo\!拍賣的線上支付系統使用。2002年3月，日本Yahoo統一收費服務支付方法，推出類似[Paypal的Yahoo](../Page/Paypal.md "wikilink")\!
-Wallet，主要是用包括Yahoo\!拍卖、[Yahoo\!音樂](../Page/Yahoo!音樂.md "wikilink")、[線上支付的Yahoo](../Page/線上支付.md "wikilink")\!
+日本Yahoo\!拍賣的線上支付系統使用。2002年3月，日本Yahoo統一收費服務支付方法，推出類似[Paypal的Yahoo](https://zh.wikipedia.org/wiki/Paypal "wikilink")\!
+Wallet，主要是用包括Yahoo\!拍卖、[Yahoo\!音樂](https://zh.wikipedia.org/wiki/Yahoo!音樂 "wikilink")、[線上支付的Yahoo](https://zh.wikipedia.org/wiki/線上支付 "wikilink")\!
 JAPAN的所有服务中用作标准的结算服務，該服務的新使用者需要信用卡確認。\[3\]
 
 ## 香港

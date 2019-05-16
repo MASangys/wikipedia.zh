@@ -1,7 +1,7 @@
 《**GO\! GO\!
-MANIAC**》是2010年[日本](../Page/日本.md "wikilink")[TBS系](../Page/TBS電視.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!\!](../Page/K-ON!.md "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")，由劇中的校園樂團「放學後TEA
+MANIAC**》是2010年[日本](../Page/日本.md "wikilink")[TBS系](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")，由劇中的校園樂團「放學後TEA
 TIME」演唱。2010年4月28日由[Pony
-Canyon發行單曲](../Page/Pony_Canyon.md "wikilink")。分為初回限定盤和通常盤兩種版本。
+Canyon發行單曲](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。分為初回限定盤和通常盤兩種版本。
 
 「放學後TEA
 TIME」是指《K-ON\!》中櫻高輕音部中的五位成員平澤唯、秋山澪、田井中律、琴吹紬和中野梓組成的樂團名稱，實際上演唱的是五名角色的[聲優](../Page/聲優.md "wikilink")，即[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子和](../Page/壽美菜子.md "wikilink")[竹達彩奈](../Page/竹達彩奈.md "wikilink")。其中，這首歌的主唱是平澤唯（豐崎愛生配音），其他人擔當伴唱。
@@ -19,20 +19,21 @@ GO\! MANIAC」連續6日保持Oricon每日單曲排行榜第1名，並獲得Oric
 MINDS](../Page/PHANTOM_MINDS.md "wikilink")」後的第2例。
 
 此外，動畫角色名義的「Listen\!\!」同樣奪下排行榜初次登場的第2名，和「GO\! GO\!
-MANIAC」獨佔排行榜1、2名。而以女性歌手而言，初次登場便獨佔1、2名的單曲，除了[松田聖子](../Page/松田聖子.md "wikilink")1983年的「[鑽石瞳孔／泛黃的照片](../Page/鑽石瞳孔/泛黃的照片.md "wikilink")」、「[玻璃蘋果／SWEET
-MEMORIES](../Page/玻璃蘋果/SWEET_MEMORIES.md "wikilink")」創下紀錄以來，為相隔了26年6個月、Oricon史上的第3例\[4\]\[5\]。
+MANIAC」獨佔排行榜1、2名。而以女性歌手而言，初次登場便獨佔1、2名的單曲，除了[松田聖子](../Page/松田聖子.md "wikilink")1983年的「[鑽石瞳孔／泛黃的照片](https://zh.wikipedia.org/wiki/鑽石瞳孔/泛黃的照片 "wikilink")」、「[玻璃蘋果／SWEET
+MEMORIES](https://zh.wikipedia.org/wiki/玻璃蘋果/SWEET_MEMORIES "wikilink")」創下紀錄以來，為相隔了26年6個月、Oricon史上的第3例\[4\]\[5\]。
 
-在首發銷售方面，超越《[K-ON\!](../Page/K-ON!.md "wikilink")》第1期的片尾曲「[Don't say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")」，以及[ミニハムず的](../Page/ミニハムず.md "wikilink")「[ミニハムずの愛の唄](../Page/ミニハムずの愛の唄.md "wikilink")」（2001年），創下角色名義單曲的最高首發銷售紀錄。以聲優單曲來看，也僅次於[林原惠的](../Page/林原惠.md "wikilink")「[don't
+在首發銷售方面，超越《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》第1期的片尾曲「[Don't
+say
+"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")」，以及[ミニハムず的](https://zh.wikipedia.org/wiki/ミニハムず "wikilink")「[ミニハムずの愛の唄](https://zh.wikipedia.org/wiki/ミニハムずの愛の唄 "wikilink")」（2001年），創下角色名義單曲的最高首發銷售紀錄。以聲優單曲來看，也僅次於[林原惠的](../Page/林原惠.md "wikilink")「[don't
 be
-discouraged](../Page/don't_be_discouraged.md "wikilink")」（1997年），為歷年來首發銷售數量的第2名\[6\]。
+discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")」（1997年），為歷年來首發銷售數量的第2名\[6\]。
 
 ## 收錄曲目
 
 1.  **GO\! GO\! MANIAC**
       -
-        作詞：[大森祥子](../Page/大森祥子.md "wikilink")；作曲、編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")
-        [電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!\!](../Page/K-ON!.md "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。
+        作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")；作曲、編曲：[Tom-H@ck](https://zh.wikipedia.org/wiki/Tom-H@ck "wikilink")
+        [電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。
 2.  **Genius…\!?**
 3.  GO\! GO\! MANIAC（instrumental）
 4.  Genius…\!?（instrumental）

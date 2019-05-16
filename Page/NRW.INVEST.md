@@ -1,23 +1,25 @@
 **NRW.INVEST
-有限責任公司**是隸屬於[北萊茵-威斯特法倫州](../Page/北萊茵-威斯特法倫州.md "wikilink")(NRW)
+有限責任公司**是隸屬於[北萊茵-威斯特法倫州](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")(NRW)
 的經濟暨投資促進署，該單位負責考核和輔導外國公司，並且負責為北威邦經濟據點做國際行銷。\[1\] NRW.INVEST
 有限責任公司身為外國投資者接觸北威邦的第一個窗口，它支持跨國公司的投資計畫。
 \[2\]\[3\] NRW.INVEST
-德國總部設於本邦首府[杜塞爾多夫](../Page/杜塞爾多夫.md "wikilink")，除了在[日本和](../Page/日本.md "wikilink")[美國的分公司之外](../Page/美國.md "wikilink")，它還在[中國](../Page/中國.md "wikilink")、[印度](../Page/印度.md "wikilink")、[波兰](../Page/波兰.md "wikilink")、[以色列](../Page/以色列.md "wikilink")、[俄羅斯](../Page/俄羅斯.md "wikilink")、[韓國和](../Page/韓國.md "wikilink")[土耳其設有辦事處](../Page/土耳其.md "wikilink")。NRW.INVEST
-有限責任公司的唯一股東是[北萊茵-威斯特法倫州政府](../Page/北萊茵-威斯特法倫州.md "wikilink")。　
+德國總部設於本邦首府[杜塞爾多夫](https://zh.wikipedia.org/wiki/杜塞爾多夫 "wikilink")，除了在[日本和](../Page/日本.md "wikilink")[美國的分公司之外](https://zh.wikipedia.org/wiki/美國 "wikilink")，它還在[中國](../Page/中國.md "wikilink")、[印度](../Page/印度.md "wikilink")、[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[以色列](../Page/以色列.md "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[土耳其設有辦事處](../Page/土耳其.md "wikilink")。NRW.INVEST
+有限責任公司的唯一股東是[北萊茵-威斯特法倫州政府](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")。　
 
-2010年 NRW.INVEST ([北威州的經濟暨投資促進署](../Page/北威州.md "wikilink"))
-慶祝了五十周年。在1960年設立的《工業促進署有限公司
-》當時收到了任務为受到危害的礦冶工業誠招接班工業。\[4\]
+2010年 NRW.INVEST
+([北威州的經濟暨投資促進署](https://zh.wikipedia.org/wiki/北威州 "wikilink"))
+慶祝了五十周年。在1960年設立的《工業促進署有限公司 》當時收到了任務为受到危害的礦冶工業誠招接班工業。\[4\]
 
 ## 任務/服務
 
-全世界的經濟據點都在全力爭取國際[直接投資](../Page/直接投資.md "wikilink")，以便保持他們的國際[競爭力](../Page/競爭力.md "wikilink")。[北萊茵-威斯特法倫州競爭的對手尤其是歐洲](../Page/北萊茵-威斯特法倫州.md "wikilink")[城市群](../Page/城市群.md "wikilink")，例如[倫敦](../Page/倫敦.md "wikilink")、[巴黎或荷蘭的四大城市](../Page/巴黎.md "wikilink")（[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[鹿特丹](../Page/鹿特丹.md "wikilink")、[海牙和](../Page/海牙.md "wikilink")[烏得勒支](../Page/烏得勒支.md "wikilink")，統稱為[蘭斯台德](../Page/蘭斯台德.md "wikilink")），也跟全世界其他人口聚集的大都市競爭。\[5\]
-\[6\] 為了把北威邦當成全[歐洲最理想的投資據點進行國際行銷](../Page/歐洲.md "wikilink")，NRW.INVEST
+全世界的經濟據點都在全力爭取國際[直接投資](https://zh.wikipedia.org/wiki/直接投資 "wikilink")，以便保持他們的國際[競爭力](https://zh.wikipedia.org/wiki/競爭力 "wikilink")。[北萊茵-威斯特法倫州競爭的對手尤其是歐洲](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")[城市群](https://zh.wikipedia.org/wiki/城市群 "wikilink")，例如[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[巴黎或荷蘭的四大城市](../Page/巴黎.md "wikilink")（[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[鹿特丹](../Page/鹿特丹.md "wikilink")、[海牙和](../Page/海牙.md "wikilink")[烏得勒支](https://zh.wikipedia.org/wiki/烏得勒支 "wikilink")，統稱為[蘭斯台德](https://zh.wikipedia.org/wiki/蘭斯台德 "wikilink")），也跟全世界其他人口聚集的大都市競爭。\[5\]
+\[6\]
+為了把北威邦當成全[歐洲最理想的投資據點進行國際行銷](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，NRW.INVEST
 提供外國投資者整套服務措施，在整個投資過程裡無微不致的輔導投資專案。同時也跟北萊茵-威斯特法倫州州政府、地區和縣市的經濟促進局密切合作。\[7\]
-NRW.INVEST 的投資專家參與多種專門的國家和行業團隊，不僅是位於[杜塞道夫的](../Page/杜塞道夫.md "wikilink")
 NRW.INVEST
-德國總部的工作團隊，還有派駐國外辦事處和分公司的人員都隨時可提供有興趣在國外進行投資的企業關於[北萊茵-威斯特法倫州當成投資基地的資訊](../Page/北萊茵-威斯特法倫州.md "wikilink")、以及北萊茵-威斯特法倫州的[經濟概況](../Page/經濟.md "wikilink")、行業重點、跟在[德國投資有關的稅務和法律的訊息](../Page/德國.md "wikilink")。\[8\]
+的投資專家參與多種專門的國家和行業團隊，不僅是位於[杜塞道夫的](https://zh.wikipedia.org/wiki/杜塞道夫 "wikilink")
+NRW.INVEST
+德國總部的工作團隊，還有派駐國外辦事處和分公司的人員都隨時可提供有興趣在國外進行投資的企業關於[北萊茵-威斯特法倫州當成投資基地的資訊](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")、以及北萊茵-威斯特法倫州的[經濟概況](https://zh.wikipedia.org/wiki/經濟 "wikilink")、行業重點、跟在[德國投資有關的稅務和法律的訊息](https://zh.wikipedia.org/wiki/德國 "wikilink")。\[8\]
 
 除了提供一般投資訊息之外，NRW.INVEST 對於具潛能的投資者也提供特別的諮詢顧問服務。如果有意投資者需要，NRW.INVEST
 可為他們分析投資計畫和協助他們尋找適合的投資基地。在這些的服務裡也包括工商業用地網站 Germansite，投資者可以在
@@ -43,18 +45,18 @@ NRW.INVEST 外國辦事處的優異業績可用[日本分公司為例來舉證](
 K.K.的努力和 NRW.INVEST
 的積極考核措施是造就北萊茵-威斯特法倫邦成為日本企業在德國最重要基地的重要因素。600多家日本公司遍布北威邦為本榜首府杜塞爾多夫帶來
 "小東京" 的稱號。\[19\]\[20\]\[21\] 此外， NRW.INVEST
-在[成都](../Page/成都.md "wikilink")、[广州](../Page/广州.md "wikilink")\[22\]、[南京](../Page/南京.md "wikilink")、[上海](../Page/上海.md "wikilink")、
+在[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[广州](https://zh.wikipedia.org/wiki/广州 "wikilink")\[22\]、[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、
 [硅谷](../Page/硅谷.md "wikilink")、 [特拉维夫](../Page/特拉维夫.md "wikilink")、
-[四川省](../Page/四川省.md "wikilink")、 [北京](../Page/北京.md "wikilink")、
-韓國首爾、
-[圣彼得堡和](../Page/圣彼得堡.md "wikilink")[莫斯科和](../Page/莫斯科.md "wikilink")
+[四川省](../Page/四川省.md "wikilink")、
+[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、 韓國首爾、
+[圣彼得堡和](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[莫斯科和](../Page/莫斯科.md "wikilink")
 [华沙擁有代表處](../Page/华沙.md "wikilink")， NRW.INVEST
 於2008年也在[芝加哥創辦了美國第二家分公司](../Page/芝加哥.md "wikilink")。
 
 ## 在北萊茵-威斯特法倫州的國際直接投資
 
 [Foreign_direct_investments_in_Germany_2015.png](https://zh.wikipedia.org/wiki/File:Foreign_direct_investments_in_Germany_2015.png "fig:Foreign_direct_investments_in_Germany_2015.png")
-[北萊茵-威斯特法倫州吸引著國內外企業](../Page/北萊茵-威斯特法倫州.md "wikilink")，全[德國](../Page/德國.md "wikilink")50大企業裡
+[北萊茵-威斯特法倫州吸引著國內外企業](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")，全[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")50大企業裡
 ，北萊茵-威斯特法倫州吸引著國內外企業，全德國50大企業裡 ，有14 家的總部設在德國最西部的北威州，這其中有領先德國的大企業， E.ON
 (能源)、 德國電信 (電話通訊)、 德國郵政快遞DHL (物流運輸)、
 [汉高公司](../Page/汉高公司.md "wikilink")、 麦德龙股份公司 (食品)、
@@ -64,11 +66,15 @@ K.K.的努力和 NRW.INVEST
 
 超过19.000家來自重要工業國家的外國企業以北萊茵-威斯特法倫州為基地操控它們的德國或歐洲行動，
 也就是全德國的外商企業裡有將進四分之一的公司立足於北萊茵-威斯特法倫邦，這其中也有國際知名的大公司，例如
-[英國石油](../Page/英國石油.md "wikilink")、 [3M公司](../Page/3M公司.md "wikilink")、
-[愛立信](../Page/愛立信.md "wikilink")、 [福特汽车](../Page/福特汽车.md "wikilink")、
-[富士通](../Page/富士通.md "wikilink")、 [华为](../Page/华为.md "wikilink")、
+[英國石油](https://zh.wikipedia.org/wiki/英國石油 "wikilink")、
+[3M公司](../Page/3M公司.md "wikilink")、
+[愛立信](../Page/愛立信.md "wikilink")、
+[福特汽车](../Page/福特汽车.md "wikilink")、
+[富士通](../Page/富士通.md "wikilink")、
+[华为](../Page/华为.md "wikilink")、
 QVC、[丰田汽车](../Page/丰田汽车.md "wikilink")、[联合包裹服务](../Page/联合包裹服务.md "wikilink")
-和[沃达丰](../Page/沃达丰.md "wikilink")， 這些企業總共雇用了1.000.000 多位員工。
+和[沃达丰](https://zh.wikipedia.org/wiki/沃达丰 "wikilink")， 這些企業總共雇用了1.000.000
+多位員工。
 
 ## 網頁鏈結
 

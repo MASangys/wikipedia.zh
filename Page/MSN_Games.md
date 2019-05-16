@@ -1,5 +1,5 @@
 **MSN
-Games**是一个免费[在线](../Page/网络游戏.md "wikilink")[休闲游戏网站](../Page/休闲游戏.md "wikilink")，属于[微软公司](../Page/微软.md "wikilink")，总部设在[华盛顿州](../Page/华盛顿州.md "wikilink")[雷德蒙](../Page/雷德蒙.md "wikilink")。玩家可以通过[网页](../Page/网页游戏.md "wikilink")、[Windows
+Games**是一个免费[在线](../Page/网络游戏.md "wikilink")[休闲游戏网站](https://zh.wikipedia.org/wiki/休闲游戏 "wikilink")，属于[微软公司](../Page/微软.md "wikilink")，总部设在[华盛顿州](../Page/华盛顿州.md "wikilink")[雷德蒙](https://zh.wikipedia.org/wiki/雷德蒙 "wikilink")。玩家可以通过[网页](../Page/网页游戏.md "wikilink")、[Windows
 Live Messenger和装有](../Page/Windows_Live_Messenger.md "wikilink")[Windows
 Mobile操作系统的](../Page/Windows_Mobile.md "wikilink")[智能手机在线进行游戏](../Page/智能手机.md "wikilink")。
 
@@ -22,7 +22,7 @@ Mobile操作系统的](../Page/Windows_Mobile.md "wikilink")[智能手机在线�
     badges](https://web.archive.org/web/20101021014357/http://www.bencastricum.nl/wiki/index.php/Main_Page)
 
 [pl:MSN (portal internetowy)\#MSN
-Games](../Page/pl:MSN_\(portal_internetowy\)#MSN_Games.md "wikilink")
+Games](https://zh.wikipedia.org/wiki/pl:MSN_\(portal_internetowy\)#MSN_Games "wikilink")
 
 [Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink")
 [Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink")

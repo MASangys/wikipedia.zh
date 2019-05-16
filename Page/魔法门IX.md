@@ -2,10 +2,10 @@
 Computing制作组开发](../Page/New_World_Computing.md "wikilink")，由[3DO公司于](../Page/3DO公司.md "wikilink")2002年发行的一款[RPG角色扮演类游戏](../Page/電子角色扮演遊戲.md "wikilink")。它是[魔法门系列游戏的第九代](../Page/魔法门系列.md "wikilink")，也是New
 World Computing制作组开发的最后一款《魔法门》游戏作品。
 
-《魔法门VI》至《魔法门VIII》一直使用相同的引擎，《魔法门IX》则使用了新的[Lithtech](../Page/Lithtech.md "wikilink")
-1.5引擎，这是《魔法门》系列游戏第一次使用完全的[3D电脑图像引擎](../Page/3D电脑图像.md "wikilink")。
+《魔法门VI》至《魔法门VIII》一直使用相同的引擎，《魔法门IX》则使用了新的[Lithtech](https://zh.wikipedia.org/wiki/Lithtech "wikilink")
+1.5引擎，这是《魔法门》系列游戏第一次使用完全的[3D电脑图像引擎](https://zh.wikipedia.org/wiki/3D电脑图像 "wikilink")。
 
-在制作期间，《魔法门IX》曾经使用过[暂定名称](../Page/暂定名称.md "wikilink")《**魔法门IX：命运之书**》（），最终未成为正式名称，从而成为了该系列中唯一正式名称没有副标题的作品。但“命运之书”的名称后来依然为玩家所知晓和使用。
+在制作期间，《魔法门IX》曾经使用过[暂定名称](https://zh.wikipedia.org/wiki/暂定名称 "wikilink")《**魔法门IX：命运之书**》（），最终未成为正式名称，从而成为了该系列中唯一正式名称没有副标题的作品。但“命运之书”的名称后来依然为玩家所知晓和使用。
 
 ## 参见
 

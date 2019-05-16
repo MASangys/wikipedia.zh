@@ -1,13 +1,14 @@
-《**motto☆大膽一點！**》（[日語](../Page/日語.md "wikilink")：）是[戶松遥的第](../Page/戶松遥.md "wikilink")2張[單曲](../Page/單曲.md "wikilink")。於2008年10月29日由[Music
-Ray'n Inc.發行](../Page/Music_Ray'n_Inc..md "wikilink")。\[1\]
+《**motto☆大膽一點！**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年10月29日由[Music
+Ray'n
+Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
 ## 收錄曲
 
 ### 通常盤
 
 1.  **motto☆派手にね\!** \[4:38\]
-      - 作詞：辛矢凡、作曲・編曲：[神前暁](../Page/神前暁.md "wikilink")
-      - [電視動畫](../Page/電視動畫.md "wikilink")《[神薙](../Page/神薙.md "wikilink")》片頭曲
+      - 作詞：辛矢凡、作曲・編曲：[神前暁](https://zh.wikipedia.org/wiki/神前暁 "wikilink")
+      - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[神薙](../Page/神薙.md "wikilink")》片頭曲
 2.  **シアワセサガシ** \[3:58\]
       - 作詞：古屋真、作曲・編曲：渡辺未来
       - 網絡電台節目『[かんなぎらじお](../Page/神薙.md "wikilink")』結尾曲

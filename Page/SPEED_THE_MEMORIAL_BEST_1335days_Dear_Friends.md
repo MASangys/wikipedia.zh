@@ -1,5 +1,5 @@
 《**SPEED THE MEMORIAL BEST 1335days Dear
-Friends**》是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED在](../Page/SPEED_\(日本音樂團體\).md "wikilink")2000年解散前發行的[精選輯](../Page/精選輯.md "wikilink")。解散前兩天的3月29日發行。精選輯包括《**SPEED
+Friends**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED在](../Page/SPEED_\(日本音樂團體\).md "wikilink")2000年解散前發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。解散前兩天的3月29日發行。精選輯包括《**SPEED
 THE MEMORIAL BEST 1335days Dear Friends 1**》和《**SPEED THE MEMORIAL BEST
 1335days Dear Friends 2**》兩部分。「1335days」是指SPEED從出道至解散的1335天。
 
@@ -8,7 +8,7 @@ Friends”》，作為她們解散的離別主題曲；還有四個女孩的經�
 
 ## 收錄曲目
 
-全作詞、作曲：[伊秩弘將](../Page/伊秩弘將.md "wikilink")；編曲：[水島康貴](../Page/水島康貴.md "wikilink")
+全作詞、作曲：[伊秩弘將](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")；編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")
 
 ### Part 1
 
@@ -26,15 +26,18 @@ Friends”》，作為她們解散的離別主題曲；還有四個女孩的經�
     Friends”House Remix 00**
 
 7.
-8.  **[Wake Me Up\!](../Page/Wake_Me_Up!.md "wikilink") -RISE Mix-**
+8.  **[Wake Me
+    Up\!](https://zh.wikipedia.org/wiki/Wake_Me_Up! "wikilink") -RISE
+    Mix-**
 
 9.  **[White Love](../Page/White_Love.md "wikilink")**
 
 10. **My Lonely Habit**
 
 11.
-12. **[my graduation](../Page/my_graduation.md "wikilink") -Album
-    version-**
+12. **[my
+    graduation](https://zh.wikipedia.org/wiki/my_graduation "wikilink")
+    -Album version-**
 
 13. ** -Good Night Kiss□version-**
 

@@ -1,8 +1,8 @@
 **VRF**是一個[香港四人男子組合](../Page/香港.md "wikilink")，由
-[余啟邦](../Page/余啟邦.md "wikilink")﹝[Ronald](../Page/Ronald.md "wikilink")﹞、
-[李安](../Page/李安（歌手）.md "wikilink")﹝[Ray](../Page/Ray.md "wikilink")﹞、
-[梁世豪](../Page/梁世豪.md "wikilink")﹝[Raul](../Page/Raul.md "wikilink")﹞和
-[丁子高](../Page/丁子高.md "wikilink")﹝[Real](../Page/Real.md "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New
+[余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、
+[李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、
+[梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](https://zh.wikipedia.org/wiki/Raul "wikilink")﹞和
+[丁子高](../Page/丁子高.md "wikilink")﹝[Real](https://zh.wikipedia.org/wiki/Real "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New
 World》\[2\]。2002年解散。
 
 ## 名字意思
@@ -50,17 +50,17 @@ Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英
 
 ## 派台歌曲成績
 
-| **派台歌曲上榜最高位置**                               |
-| -------------------------------------------- |
-| 唱片                                           |
-| **2000年**                                    |
-| [VRF](../Page/VRF_\(EP\).md "wikilink")      |
-| VRF                                          |
-| **2001年**                                    |
-| VRF                                          |
-| [New World](../Page/New_World.md "wikilink") |
-| New World                                    |
-| New World                                    |
+| **派台歌曲上榜最高位置**                                                  |
+| --------------------------------------------------------------- |
+| 唱片                                                              |
+| **2000年**                                                       |
+| [VRF](https://zh.wikipedia.org/wiki/VRF_\(EP\) "wikilink")      |
+| VRF                                                             |
+| **2001年**                                                       |
+| VRF                                                             |
+| [New World](https://zh.wikipedia.org/wiki/New_World "wikilink") |
+| New World                                                       |
+| New World                                                       |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -72,7 +72,8 @@ Four**的意思，第二個是V「**R**」「**4**」，因為四位成員的英
 2001年度
 
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink") - 新城全球勁爆組合獎
-  - [十大勁歌金曲頒獎典禮](../Page/十大勁歌金曲頒獎典禮.md "wikilink") - 最受歡迎組合獎 銀獎
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") -
+    最受歡迎組合獎 銀獎
 
 ## 參考文獻
 

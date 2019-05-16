@@ -1,8 +1,10 @@
-**Lift**是一個为[Scala语言设计的](../Page/Scala.md "wikilink")[自由的](../Page/自由軟體.md "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。它是由于David
+**Lift**是一個为[Scala语言设计的](../Page/Scala.md "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。它是由于David
 Pollak不满意[Ruby on
 Rails的某些功能而创立](../Page/Ruby_on_Rails.md "wikilink")。\[1\]
-Lift 是一个[开源项目](../Page/开源.md "wikilink")，在2007年2月26日创立，发布于[Apache 2.0
-许可证下](../Page/Apache_License.md "wikilink")。一个常被提到的使用Lift框架的商业网站范例是[Foursquare](../Page/Foursquare.md "wikilink")。\[2\]
+Lift
+是一个[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，在2007年2月26日创立，发布于[Apache
+2.0
+许可证下](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。一个常被提到的使用Lift框架的商业网站范例是[Foursquare](../Page/Foursquare.md "wikilink")。\[2\]
 
 ## 历史
 

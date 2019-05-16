@@ -1,6 +1,6 @@
 ***The Summer Tic EP***
-是[美国](../Page/美国.md "wikilink")[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的一张](../Page/帕拉莫尔.md "wikilink")[EP](../Page/EP.md "wikilink")。
-本张[EP的名字来源于其中一首翻唱自](../Page/EP.md "wikilink")[Failure乐队的歌](../Page/Failure_\(band\).md "wikilink")"Stuck
+是[美国](../Page/美国.md "wikilink")[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的一张](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")。
+本张[EP的名字来源于其中一首翻唱自](https://zh.wikipedia.org/wiki/EP "wikilink")[Failure乐队的歌](https://zh.wikipedia.org/wiki/Failure_\(band\) "wikilink")"Stuck
 on You"里的歌词。
 
 ## 曲目列表

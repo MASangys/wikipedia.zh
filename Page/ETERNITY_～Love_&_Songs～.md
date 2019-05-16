@@ -23,19 +23,19 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
           - 由作為中島美嘉與化學超男子等歌手的製作人而為人熟知的COLDFEET，他所帶來的絕妙JAZZY樂曲。是一首能窺見歌手倖田來未成熟一面的歌曲。
 
 3.  [SWEET
-    MEMORIES](../Page/玻璃蘋果/SWEET_MEMORIES.md "wikilink")【[松田聖子](../Page/松田聖子.md "wikilink")／1983年】
+    MEMORIES](https://zh.wikipedia.org/wiki/玻璃蘋果/SWEET_MEMORIES "wikilink")【[松田聖子](../Page/松田聖子.md "wikilink")／1983年】
 
       -
         作詞：松本隆　作曲：大村雅朗　編曲：Hiroshi Nakamura
           - i-dep的Hiroshi Nakamura所帶來的輕快流行樂音，溫柔包裹住倖田來未的歌聲，完成了悅耳的優美樂音。
 
-4.  （）【[鄉廣美](../Page/鄉廣美.md "wikilink")／1994年】
+4.  （）【[鄉廣美](https://zh.wikipedia.org/wiki/鄉廣美 "wikilink")／1994年】
 
       -
         作詞：康珍化　作曲：都志見隆　編曲：Gakushi
           - 將不朽的名曲改編為R\&B風格聽來格外新鮮。製作出性感的極致床邊歌曲。
 
-5.  （）【[misono](../Page/misono.md "wikilink")／2010年】
+5.  （）【[misono](https://zh.wikipedia.org/wiki/misono "wikilink")／2010年】
 
       -
         作詞：misono　作曲：伊橋成哉　編曲：村田昭
@@ -53,7 +53,7 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
         作詞：吉川晃司　作曲：布袋寅泰　編曲：TAZZ
           - 節奏感十足，且氣勢撼人的，最前衛的電音HIP-HOP編曲，是唯有倖田來未才能呈現的樂音。將男性的歌曲，毫不畏懼地演唱出屬於自己的風格，這點讓人敬佩不已。
 
-8.  [小情歌](../Page/小情歌.md "wikilink")（）
+8.  [小情歌](https://zh.wikipedia.org/wiki/小情歌 "wikilink")（）
     【[MONGOL800](../Page/MONGOL800.md "wikilink")／2001年】
 
       -
@@ -76,13 +76,14 @@ Songs～）為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../P
 
 11. [Swallowtail Butterfly
     ～愛之歌～](../Page/Swallowtail_Butterfly_～愛之歌～.md "wikilink")（）【[YEN
-    TOWN BAND](../Page/YEN_TOWN_BAND.md "wikilink")／1996年】
+    TOWN
+    BAND](https://zh.wikipedia.org/wiki/YEN_TOWN_BAND "wikilink")／1996年】
 
       -
         作詞：岩井俊二、CHARA、小林武史　作曲：小林武史　編曲：末光篤、弦一徹
           - ATSUSHI SUEMITSU帶來，呈現出在沉靜中，給人強而有力的印象的編曲。
 
-12. （）【[山口百恵](../Page/山口百恵.md "wikilink")／1980年】
+12. （）【[山口百恵](https://zh.wikipedia.org/wiki/山口百恵 "wikilink")／1980年】
 
       -
         作詞：[阿木燿子](../Page/阿木燿子.md "wikilink")　作曲：[宇崎龍童](../Page/宇崎龍童.md "wikilink")　編曲：h-wonder

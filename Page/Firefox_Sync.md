@@ -1,8 +1,9 @@
 [Mozilla_Weave_logo.png](https://zh.wikipedia.org/wiki/File:Mozilla_Weave_logo.png "fig:Mozilla_Weave_logo.png")
 **Firefox Sync**，原名為**Mozilla Weave**，衍生自2007年Mozilla
-Labs所推出的實驗性專案，它是一個瀏覽器同步功能，允許使用者在多台電腦上同步[書籤](../Page/書籤_\(瀏覽器\).md "wikilink")、歷史紀錄、密碼、表單資料、[附加元件](../Page/附加组件_\(Mozilla\).md "wikilink")，以安全加密的方式存放在Mozilla伺服器或個人伺服器上\[1\]。
+Labs所推出的實驗性專案，它是一個瀏覽器同步功能，允許使用者在多台電腦上同步[書籤](../Page/書籤_\(瀏覽器\).md "wikilink")、歷史紀錄、密碼、表單資料、[附加元件](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")，以安全加密的方式存放在Mozilla伺服器或個人伺服器上\[1\]。
 
-Firefox Sync最初為[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
+Firefox Sync最初為[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
 3.x和[SeaMonkey](../Page/SeaMonkey.md "wikilink")
 2.0的附加元件\[2\]，後期已整合於Firefox 4.0\[3\]和SeaMonkey
 2.1\[4\]及往後版本，成為基礎功能。

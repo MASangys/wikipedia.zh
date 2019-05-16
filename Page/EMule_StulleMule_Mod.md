@@ -1,14 +1,14 @@
 **eMule StulleMule Mod**，简称**StulleMule
-Mod**或**StulleMule**，是基于官方[eMule和](../Page/eMule.md "wikilink")[eMule
+Mod**或**StulleMule**，是基于官方[eMule和](https://zh.wikipedia.org/wiki/eMule "wikilink")[eMule
 MorphXT
-Mod开发的一款](../Page/eMule_MorphXT_Mod.md "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](../Page/免费软件.md "wikilink")[P2P](../Page/P2P.md "wikilink")[文件共享软件](../Page/文件共享.md "wikilink")。它是一个[eMule
-Mod](../Page/eMule_Mod.md "wikilink")，遵循GNU
-[GPL](../Page/GPL.md "wikilink")。以开发者Stulle命名。
+Mod开发的一款](https://zh.wikipedia.org/wiki/eMule_MorphXT_Mod "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule
+Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
+[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")。以开发者Stulle命名。
 
 ## 历史
 
 eMule StulleMule
-Mod的作者是维护[ScarAngel](../Page/eMule_ScarAngel_Mod.md "wikilink")、[Mephisto和协助维护](../Page/eMule_Mephisto_Mod.md "wikilink")[Xtreme](../Page/eMule_Xtreme_Mod.md "wikilink")、[MorphXT等Mod的德国程序员Stulle](../Page/eMule_MorphXT_Mod.md "wikilink")。它也因而以开发者Stulle命名。最初版本的软件源码于2006年1月14日发布在[SourceForge上](../Page/SourceForge.md "wikilink")。
+Mod的作者是维护[ScarAngel](https://zh.wikipedia.org/wiki/eMule_ScarAngel_Mod "wikilink")、[Mephisto和协助维护](https://zh.wikipedia.org/wiki/eMule_Mephisto_Mod "wikilink")[Xtreme](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")、[MorphXT等Mod的德国程序员Stulle](https://zh.wikipedia.org/wiki/eMule_MorphXT_Mod "wikilink")。它也因而以开发者Stulle命名。最初版本的软件源码于2006年1月14日发布在[SourceForge上](../Page/SourceForge.md "wikilink")。
 
 ## 功能
 
@@ -20,10 +20,11 @@ Ban\[3\]。
 
 ## 参见
 
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
-  - [eMule](../Page/eMule.md "wikilink")
-  - [eMule Mod](../Page/eMule_Mod.md "wikilink")
-  - [eMule MorphXT Mod](../Page/eMule_MorphXT_Mod.md "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
+  - [eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")
+  - [eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")
+  - [eMule MorphXT
+    Mod](https://zh.wikipedia.org/wiki/eMule_MorphXT_Mod "wikilink")
   - [吸血驴](../Page/吸血驴.md "wikilink")
   - [动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")
 

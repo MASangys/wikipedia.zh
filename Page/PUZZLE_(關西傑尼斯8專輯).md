@@ -52,9 +52,9 @@
 
 ### 初回限定版DVD
 
-1.  Glorious（[澀谷昴](../Page/澀谷昴.md "wikilink"),[錦戶亮](../Page/錦戶亮.md "wikilink"),[大倉忠義](../Page/大倉忠義.md "wikilink")）
+1.  Glorious（[澀谷昴](../Page/澀谷昴.md "wikilink"),[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink"),[大倉忠義](../Page/大倉忠義.md "wikilink")）
       - 作詞:Samuel Waermo/作曲・編曲:Samuel Waermo,TJ Mixx
-2.  Kicyu（[横山裕](../Page/横山裕.md "wikilink"),[安田章大](../Page/安田章大.md "wikilink")）
+2.  Kicyu（[横山裕](https://zh.wikipedia.org/wiki/横山裕 "wikilink"),[安田章大](../Page/安田章大.md "wikilink")）
       - 作詞:横山裕/作曲:安田章大/編曲:高橋浩一郎
 3.  YOU CAN
     SEE（[村上信五](../Page/村上信五.md "wikilink"),[丸山隆平](../Page/丸山隆平.md "wikilink")）

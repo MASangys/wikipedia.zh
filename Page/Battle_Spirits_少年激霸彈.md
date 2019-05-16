@@ -1,5 +1,5 @@
 《**Battle Spirits
-少年激霸**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2009年9月13日至2010年9月15日在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，總共50話。
+少年激霸**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2009年9月13日至2010年9月15日在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，總共50話。
 
 ## 作品概要
 
@@ -345,7 +345,7 @@ shock God Emperor of the Great Tribulation }
   - 主要製片人：寶田壽也（[名古屋電視台](../Page/名古屋電視台.md "wikilink")）、尾崎雅之（日昇動畫）
   - 製作人：福嶋更一郎（名古屋電視台）、若鍋龍太（日昇動畫）
   - 動畫製作：日昇動畫
-  - 製作：名古屋電視台、日昇動畫、[ADK](../Page/ADK.md "wikilink")
+  - 製作：名古屋電視台、日昇動畫、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
 
 ### 主題曲
 
@@ -502,7 +502,7 @@ shock God Emperor of the Great Tribulation }
 <td><p>究極龍 激神皇カタストロフドラゴン</p></td>
 <td><p>究極龍 激神皇災煱龍</p></td>
 <td><p>終極龍 激神皇卡斯多羅夫龍</p></td>
-<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
 <td><p>しのみやすゆき</p></td>
 <td><p>高橋順</p></td>
 <td><p>小田武士</p></td>
@@ -1121,9 +1121,9 @@ shock God Emperor of the Great Tribulation }
 <tbody>
 <tr class="odd">
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>出版日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

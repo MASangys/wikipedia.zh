@@ -1,7 +1,7 @@
 《**心跳回憶 Girl's Side 3rd
-Story**》（）是[科樂美數位娛樂于](../Page/科樂美數位娛樂.md "wikilink")2010年6月24日發售的[任天堂DS用](../Page/任天堂DS.md "wikilink")[女性向戀愛遊戲](../Page/女性向戀愛遊戲.md "wikilink")，略稱為「GS3」。是《[心跳回憶
+Story**》（）是[科樂美數位娛樂于](../Page/科樂美數位娛樂.md "wikilink")2010年6月24日發售的[任天堂DS用](../Page/任天堂DS.md "wikilink")[女性向戀愛遊戲](https://zh.wikipedia.org/wiki/女性向戀愛遊戲 "wikilink")，略稱為「GS3」。是《[心跳回憶
 Girl's Side
-系列](../Page/心跳回憶_Girl's_Side_系列.md "wikilink")》的第3彈。舞台是《[心跳回憶
+系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第3彈。舞台是《[心跳回憶
 Girl's
 Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）開學時的七年後的振翅市。主人公就讀的學校也是跟GS1時一樣的振翅学園。
 
@@ -36,7 +36,7 @@ Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）
 
 <!-- end list -->
 
-  - （[聲優](../Page/聲優.md "wikilink")：[宮下榮治](../Page/宮下榮治.md "wikilink")）
+  - （[聲優](../Page/聲優.md "wikilink")：[宮下榮治](https://zh.wikipedia.org/wiki/宮下榮治 "wikilink")）
     生日9月8日、血型AB型。身高177cm、體重70kg。在溫水游泳池打工。
     興趣是練柔道。是個有男子氣概、個性爽朗的典型日本男孩。
     不過因為神經比較大條，有時侯會有爆彈發言出現。
@@ -147,7 +147,7 @@ Side](../Page/心跳回憶_Girl's_Side.md "wikilink")》（略稱為「GS1」）
 
 ## 相關條目
 
-  - [心跳回憶](../Page/心跳回憶.md "wikilink")
+  - [心跳回憶](https://zh.wikipedia.org/wiki/心跳回憶 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
   - [心跳回憶 Girl's Side 2nd
     Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")

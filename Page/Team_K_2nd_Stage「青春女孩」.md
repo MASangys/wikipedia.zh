@@ -54,26 +54,26 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
 
   - 公演期間：2006年7月8日 - 11月6日
   - 出演成员
-      - [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](../Page/今井优.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](../Page/大岛优子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](../Page/奥真奈美.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](../Page/高田彩奈.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](../Page/早野薫.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](../Page/宫泽佐江.md "wikilink")
+      - [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](https://zh.wikipedia.org/wiki/今井优 "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](https://zh.wikipedia.org/wiki/大岛优子 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](https://zh.wikipedia.org/wiki/奥真奈美 "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](https://zh.wikipedia.org/wiki/高田彩奈 "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](https://zh.wikipedia.org/wiki/早野薫 "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")
   - 分组曲担当
       - Blue rose（秋元、大堀、増田、宫泽）
       - 禁忌的2人（大岛、河西）
       - 雨中动物园
-          - [企鹅](../Page/企鹅.md "wikilink")：早野
+          - [企鹅](https://zh.wikipedia.org/wiki/企鹅 "wikilink")：早野
           - [长颈鹿](../Page/长颈鹿.md "wikilink")：小林
-          - [大象](../Page/大象.md "wikilink")：小野
+          - [大象](https://zh.wikipedia.org/wiki/大象 "wikilink")：小野
           - [黑猩猩](../Page/黑猩猩.md "wikilink")：奥
           - [骆驼](../Page/骆驼.md "wikilink")：今井
-          - [狮子](../Page/狮子.md "wikilink")：松原
+          - [狮子](https://zh.wikipedia.org/wiki/狮子 "wikilink")：松原
           - [河马](../Page/河马.md "wikilink")：梅田
-          - [熊猫](../Page/熊猫.md "wikilink")：野呂
+          - [熊猫](https://zh.wikipedia.org/wiki/熊猫 "wikilink")：野呂
       - 放浪之夏（秋元、宫泽、大岛、大堀、河西、梅田、野呂、増田、松原）
 
 ## AKB48 Team B 1st Stage「青春女孩」公演
 
   - 公演期間：2007年4月8日 - 10月2日
   - 出演成员
-      - [井上奈瑠](../Page/井上奈瑠.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[多田爱佳](../Page/多田爱佳.md "wikilink")、[柏木由纪](../Page/柏木由纪.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[菊地彩香](../Page/菊地彩香.md "wikilink")、[早乙女美树](../Page/早乙女美树.md "wikilink")、[田名部生來](../Page/田名部生來.md "wikilink")、[仲川遥香](../Page/仲川遥香.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[野口玲菜](../Page/野口玲菜.md "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[松岡由纪](../Page/松岡由纪.md "wikilink")、[米澤瑠美](../Page/米澤瑠美.md "wikilink")、[渡邊志穗](../Page/渡邊志穗.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
+      - [井上奈瑠](https://zh.wikipedia.org/wiki/井上奈瑠 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[多田爱佳](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")、[柏木由纪](https://zh.wikipedia.org/wiki/柏木由纪 "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[菊地彩香](../Page/菊地彩香.md "wikilink")、[早乙女美树](https://zh.wikipedia.org/wiki/早乙女美树 "wikilink")、[田名部生來](https://zh.wikipedia.org/wiki/田名部生來 "wikilink")、[仲川遥香](../Page/仲川遥香.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[野口玲菜](https://zh.wikipedia.org/wiki/野口玲菜 "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[松岡由纪](https://zh.wikipedia.org/wiki/松岡由纪 "wikilink")、[米澤瑠美](../Page/米澤瑠美.md "wikilink")、[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗 "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")
   - 分组曲担当
       - Blue rose（井上、浦野、米澤、渡邊志）
       - 禁忌的2人（柏木、仲谷）
@@ -119,7 +119,7 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
 
   - 公演期間：2011年5月19日 - 2012年9月20日
   - 出演成员
-      - [小笠原茉由](../Page/小笠原茉由.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")、[小谷里歩](../Page/小谷里歩.md "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[篠原栞那](../Page/篠原栞那.md "wikilink")、[上西恵](../Page/上西恵.md "wikilink")、[松田栞](../Page/松田栞.md "wikilink")、[森彩華](../Page/森彩華.md "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
+      - [小笠原茉由](../Page/小笠原茉由.md "wikilink")、[門脇佳奈子](../Page/門脇佳奈子.md "wikilink")、[岸野里香](../Page/岸野里香.md "wikilink")、[木下春奈](../Page/木下春奈.md "wikilink")、[小谷里歩](https://zh.wikipedia.org/wiki/小谷里歩 "wikilink")、[近藤里奈](../Page/近藤里奈.md "wikilink")、[篠原栞那](../Page/篠原栞那.md "wikilink")、[上西恵](https://zh.wikipedia.org/wiki/上西恵 "wikilink")、[松田栞](https://zh.wikipedia.org/wiki/松田栞 "wikilink")、[森彩華](https://zh.wikipedia.org/wiki/森彩華 "wikilink")、[山口夕輝](../Page/山口夕輝.md "wikilink")、[白間美瑠](../Page/白間美瑠.md "wikilink")、[福本愛菜](../Page/福本愛菜.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")、[山本彩](../Page/山本彩.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
     <!-- end list -->
       -
 
@@ -144,7 +144,7 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
 
   - 公演期間：2013年2月1日 -
   - 出演成员（公演初日）
-      - [石田優美](../Page/石田優美.md "wikilink")、[大段舞依](../Page/大段舞依.md "wikilink")、[川上千尋](../Page/川上千尋.md "wikilink")、[古賀成美](../Page/古賀成美.md "wikilink")、[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")、[嶋崎百萌香](../Page/嶋崎百萌香.md "wikilink")、[高山梨子](../Page/高山梨子.md "wikilink")、[照井穂乃佳](../Page/照井穂乃佳.md "wikilink")、[中川紘美](../Page/中川紘美.md "wikilink")、[中野麗来](../Page/中野麗来.md "wikilink")、[西村愛華](../Page/西村愛華.md "wikilink")、[林萌萌香](../Page/林萌萌香.md "wikilink")、[松村芽久未](../Page/松村芽久未.md "wikilink")、[三浦亜莉沙](../Page/三浦亜莉沙.md "wikilink")、[森田彩花](../Page/森田彩花.md "wikilink")、[山尾梨奈](../Page/山尾梨奈.md "wikilink")
+      - [石田優美](https://zh.wikipedia.org/wiki/石田優美 "wikilink")、[大段舞依](https://zh.wikipedia.org/wiki/大段舞依 "wikilink")、[川上千尋](https://zh.wikipedia.org/wiki/川上千尋 "wikilink")、[古賀成美](https://zh.wikipedia.org/wiki/古賀成美 "wikilink")、[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")、[嶋崎百萌香](https://zh.wikipedia.org/wiki/嶋崎百萌香 "wikilink")、[高山梨子](https://zh.wikipedia.org/wiki/高山梨子 "wikilink")、[照井穂乃佳](https://zh.wikipedia.org/wiki/照井穂乃佳 "wikilink")、[中川紘美](https://zh.wikipedia.org/wiki/中川紘美 "wikilink")、[中野麗来](https://zh.wikipedia.org/wiki/中野麗来 "wikilink")、[西村愛華](https://zh.wikipedia.org/wiki/西村愛華 "wikilink")、[林萌萌香](https://zh.wikipedia.org/wiki/林萌萌香 "wikilink")、[松村芽久未](https://zh.wikipedia.org/wiki/松村芽久未 "wikilink")、[三浦亜莉沙](https://zh.wikipedia.org/wiki/三浦亜莉沙 "wikilink")、[森田彩花](https://zh.wikipedia.org/wiki/森田彩花 "wikilink")、[山尾梨奈](https://zh.wikipedia.org/wiki/山尾梨奈 "wikilink")
     <!-- end list -->
       -
 
@@ -197,7 +197,7 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
   - 公演期間：2014年4月23日-10月30日\[2\]
   - 出演成员
       -
-        [秋吉優花](../Page/秋吉優花.md "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](../Page/井上由莉耶.md "wikilink")、[宇井真白](../Page/宇井真白.md "wikilink")、[上野遥](../Page/上野遥.md "wikilink")、[梅本泉](../Page/梅本泉.md "wikilink")、[岡本尚子](../Page/岡本尚子.md "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](../Page/兒玉遥.md "wikilink")、[駒田京伽](../Page/駒田京伽.md "wikilink")、[坂口理子](../Page/坂口理子_\(HKT48\).md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[田中美久](../Page/田中美久.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[山田麻莉奈](../Page/山田麻莉奈.md "wikilink")、[山本茉央](../Page/山本茉央.md "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")
+        [秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[穴井千尋](../Page/穴井千尋.md "wikilink")、[井上由莉耶](https://zh.wikipedia.org/wiki/井上由莉耶 "wikilink")、[宇井真白](https://zh.wikipedia.org/wiki/宇井真白 "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[田中美久](https://zh.wikipedia.org/wiki/田中美久 "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")、[山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")、[若田部遥](../Page/若田部遥.md "wikilink")
   - 分组曲担当
       - Blue rose（穴井、兒玉、指原、松岡）
       - 禁忌的2人（神志那、田島）
@@ -320,7 +320,7 @@ AKB48 Team K初次的专属公演。本公演也被用作了AKB48 Team B 1st公�
 
   - 收錄成員
       -
-        小笠原茉由、門脇佳奈子、岸野里香、木下春奈、小谷里歩、近藤里奈、篠原栞那、上西恵、白間美瑠、松田栞、山口夕輝、山田菜菜、山本彩、吉田朱里、渡辺美優紀、[小柳有沙](../Page/小柳有沙.md "wikilink")
+        小笠原茉由、門脇佳奈子、岸野里香、木下春奈、小谷里歩、近藤里奈、篠原栞那、上西恵、白間美瑠、松田栞、山口夕輝、山田菜菜、山本彩、吉田朱里、渡辺美優紀、[小柳有沙](https://zh.wikipedia.org/wiki/小柳有沙 "wikilink")
   - 收錄曲
     1.  overture
     2.  青春女孩

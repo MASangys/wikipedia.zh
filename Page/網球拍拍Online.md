@@ -1,4 +1,4 @@
-《**網球拍拍Online**》是由[NPICSoft開發製作的一款多人休閒線上遊戲](../Page/NPICSoft.md "wikilink")。該作除提供一般的網球賽模式之外，亦有對戰模式可供玩家之間展開對戰，以及3D聊天室等特色功能。\[1\]該作已於[台港澳](../Page/台港澳.md "wikilink")\[2\]、[日本等地上市發行](../Page/日本.md "wikilink")，台港澳由[遊戲新幹線負責代理](../Page/遊戲新幹線.md "wikilink")，日本由[遊戲橘子負責代理](../Page/遊戲橘子.md "wikilink")\[3\]；但台港澳的版本因合約到期之故，於2010年7月30日停止營運。
+《**網球拍拍Online**》是由[NPICSoft開發製作的一款多人休閒線上遊戲](https://zh.wikipedia.org/wiki/NPICSoft "wikilink")。該作除提供一般的網球賽模式之外，亦有對戰模式可供玩家之間展開對戰，以及3D聊天室等特色功能。\[1\]該作已於[台港澳](https://zh.wikipedia.org/wiki/台港澳 "wikilink")\[2\]、[日本等地上市發行](../Page/日本.md "wikilink")，台港澳由[遊戲新幹線負責代理](../Page/遊戲新幹線.md "wikilink")，日本由[遊戲橘子負責代理](../Page/遊戲橘子.md "wikilink")\[3\]；但台港澳的版本因合約到期之故，於2010年7月30日停止營運。
 
 ## 角色介紹
 

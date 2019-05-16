@@ -1,19 +1,19 @@
 **Dance
-Flow**，是來自[台灣的](../Page/台灣.md "wikilink")[演唱團體](../Page/演唱團體.md "wikilink")，由[台北市知名](../Page/台北市.md "wikilink")[舞蹈教室的八名舞蹈教師組成的團體](../Page/舞蹈.md "wikilink")，成員為四男四女。於2008年參加[電視公司舞蹈選秀節目](../Page/電視公司.md "wikilink")《[舞林大道](../Page/舞林大道.md "wikilink")》競賽而成名。
+Flow**，是來自[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[演唱團體](https://zh.wikipedia.org/wiki/演唱團體 "wikilink")，由[台北市知名](https://zh.wikipedia.org/wiki/台北市 "wikilink")[舞蹈教室的八名舞蹈教師組成的團體](../Page/舞蹈.md "wikilink")，成員為四男四女。於2008年參加[電視公司舞蹈選秀節目](https://zh.wikipedia.org/wiki/電視公司 "wikilink")《[舞林大道](../Page/舞林大道.md "wikilink")》競賽而成名。
 
 ## 介紹
 
 Dance
-Flow舞蹈作品風格富[創意與](../Page/創意.md "wikilink")[多樣化](../Page/多樣化.md "wikilink")，表現頗受評審及觀眾好評，後因團員無法兼顧學校課業因素而退出比賽，引起支持者在節目官方討論區紛紛留言表達不捨。為感謝觀眾支持，曾在大知樹排練場協助下，錄製了一支舞蹈作品《爸爸，再跳一次舞吧！》並發表團員感言，向觀眾作短暫道別。
+Flow舞蹈作品風格富[創意與](https://zh.wikipedia.org/wiki/創意 "wikilink")[多樣化](https://zh.wikipedia.org/wiki/多樣化 "wikilink")，表現頗受評審及觀眾好評，後因團員無法兼顧學校課業因素而退出比賽，引起支持者在節目官方討論區紛紛留言表達不捨。為感謝觀眾支持，曾在大知樹排練場協助下，錄製了一支舞蹈作品《爸爸，再跳一次舞吧！》並發表團員感言，向觀眾作短暫道別。
 
-2009年由唱片公司「[Avex](../Page/Avex.md "wikilink")」發掘為旗下藝人，2008年1月[愛貝克思全面開始醞釀dance](../Page/愛貝克思.md "wikilink")
+2009年由唱片公司「[Avex](https://zh.wikipedia.org/wiki/Avex "wikilink")」發掘為旗下藝人，2008年1月[愛貝克思全面開始醞釀dance](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")
 flow的出道準備，不但斥資百萬推出出道預告片以及首支舞蹈音樂錄影帶，並邀請到[日本知名舞者Sam](../Page/日本.md "wikilink")（丸山正溫/[TRF](../Page/TRF.md "wikilink")）為首張專輯第一支主打歌《Come
 on\! Come on\!》編舞以及來台出席出道記者會以示支持。dance
 flow為台灣樂壇史上劃下人數眾多、有男有女、舞者出身等多項紀錄的團體，於2010年4月16日發行首張音樂專輯《df1》，正式出道。
 
 ## 成員
 
-除Takeshi之外，其餘團員部分於[華岡藝校畢業](../Page/臺北市私立華岡藝術學校.md "wikilink")。
+除Takeshi之外，其餘團員部分於[華岡藝校畢業](https://zh.wikipedia.org/wiki/臺北市私立華岡藝術學校 "wikilink")。
 
 ### 女生
 
@@ -33,7 +33,7 @@ flow為台灣樂壇史上劃下人數眾多、有男有女、舞者出身等多�
 <td></td>
 <td><p>粉紅色</p></td>
 <td><p>Free Style、New Jazz</p></td>
-<td><p>台灣人，團員Sam的表姊，<a href="../Page/南投縣.md" title="wikilink">南投縣</a><a href="../Page/仁愛鄉.md" title="wikilink">仁愛鄉</a><a href="../Page/泰雅族.md" title="wikilink">泰雅族</a><a href="../Page/馬烈霸部落.md" title="wikilink">馬烈霸部落</a><a href="../Page/原住民.md" title="wikilink">原住民</a></p></td>
+<td><p>台灣人，團員Sam的表姊，<a href="../Page/南投縣.md" title="wikilink">南投縣</a><a href="https://zh.wikipedia.org/wiki/仁愛鄉" title="wikilink">仁愛鄉</a><a href="../Page/泰雅族.md" title="wikilink">泰雅族</a><a href="https://zh.wikipedia.org/wiki/馬烈霸部落" title="wikilink">馬烈霸部落</a><a href="../Page/原住民.md" title="wikilink">原住民</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lin</p></td>
@@ -53,7 +53,7 @@ flow為台灣樂壇史上劃下人數眾多、有男有女、舞者出身等多�
 <td><p>WaWa（娃娃）</p></td>
 <td></td>
 <td><p>黃色</p></td>
-<td><p>Hip-Hop、<a href="../Page/雷鬼.md" title="wikilink">雷鬼</a>、Krump</p></td>
+<td><p>Hip-Hop、<a href="https://zh.wikipedia.org/wiki/雷鬼" title="wikilink">雷鬼</a>、Krump</p></td>
 <td><p>台灣人</p></td>
 </tr>
 </tbody>
@@ -77,7 +77,7 @@ flow為台灣樂壇史上劃下人數眾多、有男有女、舞者出身等多�
 <td></td>
 <td><p>綠色</p></td>
 <td><p>Popping、Locking</p></td>
-<td><p><a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/沖繩.md" title="wikilink">沖繩人</a></p></td>
+<td><p><a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/沖繩" title="wikilink">沖繩人</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Sam（自稱族名為山姆）</p></td>

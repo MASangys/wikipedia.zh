@@ -1,13 +1,13 @@
-**豐田Ractis**是由[日本](../Page/日本.md "wikilink")[豐田汽車所生產的一款小型五門](../Page/丰田汽车公司.md "wikilink")[掀背車](../Page/掀背車.md "wikilink")，在2005年以豐田Echo
+**豐田Ractis**是由[日本](../Page/日本.md "wikilink")[豐田汽車所生產的一款小型五門](https://zh.wikipedia.org/wiki/丰田汽车公司 "wikilink")[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")，在2005年以豐田Echo
 Verso的後繼車的姿態在日本市場推出。
 
 ## 概要
 
-Ractis的車名由來是以[英語](../Page/英語.md "wikilink")「run」的「R」、「activity」的「acti」、「space」的「s」組合而成\[1\]。
+Ractis的車名由來是以[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「run」的「R」、「activity」的「acti」、「space」的「s」組合而成\[1\]。
 
-第一代Ractis最初只在日本本土販賣，在其他同樣靠左行駛道路的[東南亞地區](../Page/東南亞.md "wikilink")（即右駕版，如[香港](../Page/香港.md "wikilink")、[新加坡等](../Page/新加坡.md "wikilink")）亦有以平行進口方式販售。直至2009年，香港皇冠車行正式引入，令香港成為日本以外第一個發售的地區。\[2\]但香港行貨只引入了[無段自動變速器](../Page/無段自動變速器.md "wikilink")（Super
-CVT-i）版本，並無7速[自動變速器](../Page/自動變速器.md "wikilink")（Super
-ECT）及[四輪驅動版本](../Page/四輪驅動.md "wikilink")。而二代Ractis則會有歐洲版，不再限制於日本發售。
+第一代Ractis最初只在日本本土販賣，在其他同樣靠左行駛道路的[東南亞地區](https://zh.wikipedia.org/wiki/東南亞 "wikilink")（即右駕版，如[香港](../Page/香港.md "wikilink")、[新加坡等](../Page/新加坡.md "wikilink")）亦有以平行進口方式販售。直至2009年，香港皇冠車行正式引入，令香港成為日本以外第一個發售的地區。\[2\]但香港行貨只引入了[無段自動變速器](../Page/無段自動變速器.md "wikilink")（Super
+CVT-i）版本，並無7速[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")（Super
+ECT）及[四輪驅動版本](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")。而二代Ractis則會有歐洲版，不再限制於日本發售。
 
 ## 第一代CP100型
 
@@ -31,7 +31,7 @@ ECT）及[四輪驅動版本](../Page/四輪驅動.md "wikilink")。而二代Rac
 2010年9月30日豐田發表Verso-S，是為Ractis的第二代及歐洲版，同年於2010巴黎車展展出，表示會於同年11月發售。香港則稱為Ractis
 Verso（**但在2014年7月因改用日本版規格而恢復為Ractis**），並於同年11月26日進行新車揭幕。\[3\]
 
-同年[富士重工業宣布在日本推出全新](../Page/富士重工業.md "wikilink")[Trezia](../Page/速霸陸Trezia.md "wikilink")，這款車以第二代Ractis作為藍本，故此兩者不論造型、車廂陳設，甚至機械配搭也頗為相似。主要分別只在於車頭的水箱欄柵，以及貼在車子內外的廠徽不同而已。\[4\]
+同年[富士重工業宣布在日本推出全新](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[Trezia](../Page/速霸陸Trezia.md "wikilink")，這款車以第二代Ractis作為藍本，故此兩者不論造型、車廂陳設，甚至機械配搭也頗為相似。主要分別只在於車頭的水箱欄柵，以及貼在車子內外的廠徽不同而已。\[4\]
 
 Ractis 已於2016年6月30日後正式停產。
 

@@ -3,10 +3,11 @@ BEST**》於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌�
 
 ## 附註
 
-  - 本[精選輯離上張於](../Page/精選輯.md "wikilink")2007年3月14日發行的《[BEST 〜BOUNCE &
-    LOVERS〜](../Page/BEST_〜BOUNCE_&_LOVERS〜影音雙體驗～媚影_&_情歌極選～.md "wikilink")》相隔約2年。同時，首張混音[精選輯](../Page/精選輯.md "wikilink")《[Koda
+  - 本[精選輯離上張於](https://zh.wikipedia.org/wiki/精選輯 "wikilink")2007年3月14日發行的《[BEST
+    〜BOUNCE &
+    LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜影音雙體驗～媚影_&_情歌極選～ "wikilink")》相隔約2年。同時，首張混音[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[Koda
     Kumi Driving
-    Hit's](../Page/Koda_Kumi_Driving_Hit's～飆速快感混音極選～.md "wikilink")》也在同日發行。
+    Hit's](https://zh.wikipedia.org/wiki/Koda_Kumi_Driving_Hit's～飆速快感混音極選～ "wikilink")》也在同日發行。
 
 <!-- end list -->
 
@@ -28,8 +29,9 @@ BEST**》於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌�
         12th單曲「Chase」的B面曲。
 5.  **It's a small world / 倖田來未 & Heartsdales**
       -
-        電影『[環遊世界八十天](../Page/環遊世界八十天.md "wikilink")』主題歌。
-        4th專輯 『[secret 倖感機密](../Page/倖感機密.md "wikilink")』收錄曲(初回盤限定)。
+        電影『[環遊世界八十天](https://zh.wikipedia.org/wiki/環遊世界八十天 "wikilink")』主題歌。
+        4th專輯 『[secret
+        倖感機密](https://zh.wikipedia.org/wiki/倖感機密 "wikilink")』收錄曲(初回盤限定)。
 6.  **Just Go / JHETT a.k.a. YAKKO for AQUARIUS feat. KODA KUMI**
 7.  **Hot Stuff feat. KM-MARKIT**
       -

@@ -1,20 +1,24 @@
 **YTN**（Yonhap Television
-News）是一條[韓國](../Page/韓國.md "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，成立於1993年9月14日，並在1995年3月1日开播，曾為[韓國聯合通訊社的](../Page/韓國聯合通訊社.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其政治倾向中立。口號為「**Y**es\!
+News）是一條[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")24小時[新聞頻道](../Page/新聞頻道.md "wikilink")，成立於1993年9月14日，並在1995年3月1日开播，曾為[韓國聯合通訊社的](../Page/韓國聯合通訊社.md "wikilink")[子公司](../Page/子公司.md "wikilink")，其政治倾向中立。口號為「**Y**es\!
 **T**op **N**ews」。
 
 ## 歷史
 
   - 1993年9月14日 (株)聯合Television News（**(주)연합텔레비뉴스**）創立
   - 1995年3月1日 新聞頻道開始放送
-  - 2004年12月 演藝新聞專門放送頻道[YTNstar開播](../Page/YTNstar.md "wikilink")
-  - 2005年12月1日 [YTN DMB開播](../Page/YTN_DMB.md "wikilink")
-  - 2007年9月17日 科學頻道[YTN Science開播](../Page/YTN_Science.md "wikilink")
+  - 2004年12月
+    演藝新聞專門放送頻道[YTNstar開播](https://zh.wikipedia.org/wiki/YTNstar "wikilink")
+  - 2005年12月1日 [YTN
+    DMB開播](https://zh.wikipedia.org/wiki/YTN_DMB "wikilink")
+  - 2007年9月17日 科學頻道[YTN
+    Science開播](https://zh.wikipedia.org/wiki/YTN_Science "wikilink")
   - 2008年3月1日  試驗放送
   - 2008年4月30日 YTN FM 開播(FM 94.5MHz, 呼號：HLQV-FM)，後改為「YTN NEWS FM」
   - 2009年7月1日 開始全面HD放送
-  - 2011年7月1日 氣象頻道[YTN Weather開播](../Page/YTN_Weather.md "wikilink")
+  - 2011年7月1日 氣象頻道[YTN
+    Weather開播](https://zh.wikipedia.org/wiki/YTN_Weather "wikilink")
   - 2013年3月 美洲地方廣播[YTN FM 100.3
-    HD2開播](../Page/YTN_FM_100.3_HD2.md "wikilink")
+    HD2開播](https://zh.wikipedia.org/wiki/YTN_FM_100.3_HD2 "wikilink")
 
 ## 節目
 

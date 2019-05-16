@@ -1,26 +1,26 @@
 《**The Last
-Guy**》為[索尼电脑娱乐日本所開發的行列式迷宮遊戲](../Page/新力電腦娛樂.md "wikilink")。由[索尼电脑娱乐發行](../Page/新力電腦娛樂.md "wikilink")。於2008年7月31日透過PlayStation
+Guy**》為[索尼电脑娱乐日本所開發的行列式迷宮遊戲](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。由[索尼电脑娱乐發行](https://zh.wikipedia.org/wiki/新力電腦娛樂 "wikilink")。於2008年7月31日透過PlayStation
 Store發售下載，獨佔於[PlayStation 3平台上](../Page/PlayStation_3.md "wikilink")。
 
 ## 概要
 
 《The Last Guy》遊戲類型為行列式迷宮，是一款運用[Google
-Earth精細衛星照片所創造的擬真都市](../Page/Google_Earth.md "wikilink")，聚集倖存的人類，並引導到安全的場地。
+Earth精細衛星照片所創造的擬真都市](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")，聚集倖存的人類，並引導到安全的場地。
 
 ## 登場場景
 
-  - [美國](../Page/美國.md "wikilink")
+  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")
 
 <!-- end list -->
 
-  - [舊金山](../Page/舊金山.md "wikilink")
-  - [聖塔菲](../Page/聖塔菲_\(新墨西哥州\).md "wikilink")
-  - [華盛頓哥倫比亞特區](../Page/華盛頓哥倫比亞特區.md "wikilink")
-  - [洛杉磯](../Page/洛杉磯.md "wikilink")
+  - [舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")
+  - [聖塔菲](https://zh.wikipedia.org/wiki/聖塔菲_\(新墨西哥州\) "wikilink")
+  - [華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")
+  - [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
 
 <!-- end list -->
 
-  - [德國](../Page/德國.md "wikilink")
+  - [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")
 
 <!-- end list -->
 
@@ -28,11 +28,11 @@ Earth精細衛星照片所創造的擬真都市](../Page/Google_Earth.md "wikili
 
 <!-- end list -->
 
-  - [澳大利亞](../Page/澳大利亞.md "wikilink")
+  - [澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")
 
 <!-- end list -->
 
-  - [雪梨](../Page/雪梨.md "wikilink")
+  - [雪梨](https://zh.wikipedia.org/wiki/雪梨 "wikilink")
 
 <!-- end list -->
 
@@ -40,18 +40,18 @@ Earth精細衛星照片所創造的擬真都市](../Page/Google_Earth.md "wikili
 
 <!-- end list -->
 
-  - [東京](../Page/東京.md "wikilink")
-  - [橫濱](../Page/橫濱.md "wikilink")
-  - [名古屋](../Page/名古屋.md "wikilink")
+  - [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")
+  - [橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")
+  - [名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")
 
 <!-- end list -->
 
-  - [英國](../Page/英國.md "wikilink")
+  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")
 
 <!-- end list -->
 
-  - [倫敦](../Page/倫敦.md "wikilink")
-  - [泰恩河畔新堡](../Page/泰恩河畔新堡.md "wikilink")
+  - [倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
+  - [泰恩河畔新堡](https://zh.wikipedia.org/wiki/泰恩河畔新堡 "wikilink")
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@ Earth精細衛星照片所創造的擬真都市](../Page/Google_Earth.md "wikili
 
 <!-- end list -->
 
-  - [斯德哥爾摩](../Page/斯德哥爾摩.md "wikilink")
+  - [斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")
 
 ## 發行版本
 

@@ -1,7 +1,7 @@
-「**Techno**」（），又譯「**高科技舞曲**」、「**鐵克諾音樂**」，\[1\]在1988年，「Techno」一詞首度被用作標示音樂類型，如今舞池上各種曲風五花八門，族繁不及備載，然而[底特律派](../Page/底特律.md "wikilink")（Detroit
+「**Techno**」（），又譯「**高科技舞曲**」、「**鐵克諾音樂**」，\[1\]在1988年，「Techno」一詞首度被用作標示音樂類型，如今舞池上各種曲風五花八門，族繁不及備載，然而[底特律派](https://zh.wikipedia.org/wiki/底特律 "wikilink")（Detroit
 techno）仍被視為所有分支曲風的基底。
 
-樂風成形始於兩種音樂的融合：來自白人的歐陸電音子音樂，例如[Kraftwerk](../Page/Kraftwerk.md "wikilink")，以及放克（funk）、electro、芝加哥House與電聲爵士等美國黑人音樂；除此之外，與美國晚期資本主義社會相關，充滿未來感的科幻主題也對鐵可諾影響深遠，尤其是艾文·托佛勒
+樂風成形始於兩種音樂的融合：來自白人的歐陸電音子音樂，例如[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，以及放克（funk）、electro、芝加哥House與電聲爵士等美國黑人音樂；除此之外，與美國晚期資本主義社會相關，充滿未來感的科幻主題也對鐵可諾影響深遠，尤其是艾文·托佛勒
 （Alvin Toffler）的著作《第三波》（The Third Wave）。鐵克諾製作人始祖胡安·阿特金斯（Juan
 Atkins）曾說過，他之所以用「Techno」來形容自己所創造的音樂風格，就是受到托佛勒發明的詞彙「Techno叛軍」（"techno
 rebels"）啟發所致；基於以上獨特影響元素，人們會將鐵克諾納入一種稱黑人未來派主義（afrofuturism）的美學概念。對德里克·梅（Derrick
@@ -11,10 +11,10 @@ Adorno）所認為機械化對現代意識造成的疏離效果」。
 ## 起源
 
 [KevinSaunderson.jpg](https://zh.wikipedia.org/wiki/File:KevinSaunderson.jpg "fig:KevinSaunderson.jpg")三巨頭之一：凱文·桑德森\]\]
-鐵克諾的最初藍圖，眾所皆知始於80年代中期的[密西根州](../Page/密西根州.md "wikilink")[底特律市](../Page/底特律.md "wikilink")；由胡安·阿特金斯、凱文·桑德森（Kevin
-Saunderson）與德里克·梅（俗稱[底特律三巨頭](../Page/底特律.md "wikilink")〔The Belleville
-Three〕）和艾迪·福克斯（Eddie
-Fowlkes）等人所創，當時四人皆就讀靠近[底特律的貝爾維爾高中](../Page/底特律.md "wikilink")（Belleville
+鐵克諾的最初藍圖，眾所皆知始於80年代中期的[密西根州](https://zh.wikipedia.org/wiki/密西根州 "wikilink")[底特律市](https://zh.wikipedia.org/wiki/底特律 "wikilink")；由胡安·阿特金斯、凱文·桑德森（Kevin
+Saunderson）與德里克·梅（俗稱[底特律三巨頭](https://zh.wikipedia.org/wiki/底特律 "wikilink")〔The
+Belleville Three〕）和艾迪·福克斯（Eddie
+Fowlkes）等人所創，當時四人皆就讀靠近[底特律的貝爾維爾高中](https://zh.wikipedia.org/wiki/底特律 "wikilink")（Belleville
 High），而到了80年代尾聲，他們皆已在不同的藝名下錄製並發行作品：阿特金斯的藝名為Model 500、Flintstones與Magic
 Juan，福克斯為「閃光」艾迪·福克斯（Eddie "Flashin"
 Fowlkes），桑德森為Reese、Keynotes與Kaos，梅為Mayday、R-Tyme與Rhythim
@@ -26,13 +26,13 @@ Fun〉](http://www.youtube.com/watch?v=omfiVkkJ1OU)。
 
 在成名之前，阿特金斯、桑德森、梅、福克斯，這幾位初試啼聲的年輕音樂人，常常互相交換混音帶，一起夢想成為大DJ。他們也共同從《午夜放克聯盟》（Midnight
 Funk
-Association）中獲得音樂靈感，那是一齣長達五小時，音樂內容兼容並蓄的深夜電台節目，而且在各大[底特律廣播電台皆有播放](../Page/底特律.md "wikilink")。該節目從1977年到80年代中期由一名人稱「放電咒術師」查爾斯·強森的DJ（DJ
+Association）中獲得音樂靈感，那是一齣長達五小時，音樂內容兼容並蓄的深夜電台節目，而且在各大[底特律廣播電台皆有播放](https://zh.wikipedia.org/wiki/底特律 "wikilink")。該節目從1977年到80年代中期由一名人稱「放電咒術師」查爾斯·強森的DJ（DJ
 Charles "The Electrifying Mojo" Johnson）所主持。在咒術師的節目，你會聽到喬奇歐·莫拉德（Giorgio
-Moroder）、[Kraftwerk與Tangerine](../Page/Kraftwerk.md "wikilink")
+Moroder）、[Kraftwerk與Tangerine](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")
 Dream等歐陸電子音樂，Parliament的放克音樂，還有適合跳舞的新浪潮（new wave）音樂，例如Devo和the
 B-52's。阿特金斯曾說道：
 
-雖然迪斯可熱潮在[底特律為期不長](../Page/底特律.md "wikilink")，卻啟發許多人開始混音接歌，阿特斯金即是一例，阿特金斯後來教梅如何接歌，到了1981年「魔術胡安」（"Magic
+雖然迪斯可熱潮在[底特律為期不長](https://zh.wikipedia.org/wiki/底特律 "wikilink")，卻啟發許多人開始混音接歌，阿特斯金即是一例，阿特金斯後來教梅如何接歌，到了1981年「魔術胡安」（"Magic
 Juan"）、「Mayday」德里克（Derrick "Mayday"）與其他三人（其中一位便是「閃亮」艾迪·福克斯）就組成派對團體Deep
 Space Soundworks（又稱Deep
 Space），在1980或1981年他們還遇到咒術師，並提議提供節目混音帶來播放；該提議於隔年生效。
@@ -49,7 +49,7 @@ Davis），和後來加入的約翰五號（Jon-5）成立音樂團體Cybotron�
 City〉](http://www.youtube.com/watch?v=m3owC4lV6cE)（1984）。
 
 根據他日前MySpace介紹，阿特金斯聲稱「⋯創造『Techno』一詞來形容他們的音樂，並從未來主義作品與艾文·托佛勒的著作汲取靈感；
-『cybotron』與『metroplex』等取名便是引用托佛勒的詞彙。阿特金斯用Techno一詞來形容早期大量使用合成器的樂團，[Kraftwerk即是一例](../Page/Kraftwerk.md "wikilink")；不過很多人會將[Kraftwerk](../Page/Kraftwerk.md "wikilink")，與胡安早期在Cybotron的作品標示為electro。」阿特金斯本來對Cybotron的單曲[〈Cosmic
+『cybotron』與『metroplex』等取名便是引用托佛勒的詞彙。阿特金斯用Techno一詞來形容早期大量使用合成器的樂團，[Kraftwerk即是一例](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")；不過很多人會將[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，與胡安早期在Cybotron的作品標示為electro。」阿特金斯本來對Cybotron的單曲[〈Cosmic
 Cars〉](http://www.youtube.com/watch?v=LqagemeSC-8)（1982）感到很滿意；認為〈Cosmic
 Cars〉不但獨特，充滿日耳曼風情，還有用合成器呈現的放克勁道，然而當他後來聽到[Afrika Bambaataa的〈Planet
 Rock〉](http://www.youtube.com/watch?v=6_ngYkndfjw&feature=related)（1982）之後，才發現那才是他心目中最理想的音樂。受到Afrika
@@ -64,9 +64,9 @@ UFOs〉](http://www.youtube.com/watch?v=KNz01ty-kTQ)的鉅作，那是首度引�
 Motown
 Sound）](http://www.youtube.com/watch?v=ll4v5k42DAM&feature=related)，也就是R\&B與靈魂樂的傳統編曲方式，全心投入科技實驗。
 
-這種新[底特律音樂於](../Page/底特律.md "wikilink")1988年，由德里克·梅與一位音樂記者，解釋為一種與摩城完全無關的「後靈魂」（"post-soul"），然而十年後卻被另一名音樂記者喻為一種「靈魂律動」（soulful
-grooves），說它混合了摩城的重節奏風格與當時的音樂科技。梅對這種音樂有個耳熟能詳的形容：「⋯和[底特律一樣](../Page/底特律.md "wikilink")⋯是個天大的謬誤。就像把喬治·柯林頓（George
-Clinton）與[Kraftwerk塞在同一座電梯](../Page/Kraftwerk.md "wikilink")，只留下一台編曲機給他們打發時間。」胡安·阿特金斯對Techno的解釋是：「是聽起來像科技的音樂，不是聽起來像音樂的科技。意思是說，你平常大多聽到的音樂都是由科技做成，不管你有沒有意識到。但聽Techno的時候，你鐵定會知道。」
+這種新[底特律音樂於](https://zh.wikipedia.org/wiki/底特律 "wikilink")1988年，由德里克·梅與一位音樂記者，解釋為一種與摩城完全無關的「後靈魂」（"post-soul"），然而十年後卻被另一名音樂記者喻為一種「靈魂律動」（soulful
+grooves），說它混合了摩城的重節奏風格與當時的音樂科技。梅對這種音樂有個耳熟能詳的形容：「⋯和[底特律一樣](https://zh.wikipedia.org/wiki/底特律 "wikilink")⋯是個天大的謬誤。就像把喬治·柯林頓（George
+Clinton）與[Kraftwerk塞在同一座電梯](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，只留下一台編曲機給他們打發時間。」胡安·阿特金斯對Techno的解釋是：「是聽起來像科技的音樂，不是聽起來像音樂的科技。意思是說，你平常大多聽到的音樂都是由科技做成，不管你有沒有意識到。但聽Techno的時候，你鐵定會知道。」
 新音樂影響了各種極為不同的電音曲風，卻也維持本身獨立的曲風，這種曲風俗稱「底特律派」。
 
 ### 芝加哥
@@ -89,11 +89,11 @@ Rampling）與保羅·歐肯佛德（Paul
 Oakenfold）各自開了Shoom與Spectrum舞廳，引進源自伊薇莎島（Ibiza）DJ阿佛列多·菲爾洛（Alfredo
 Fiorito）之手的巴利亞利風格（Baelearic）派對。兩家夜店很快就成為迷幻浩室的代名詞，此時快樂丸（MDMA）也開始成為派對流行用藥。英國其他重要舞廳包括里茲的Back
 to Basics，謝菲爾德的Leadmill和Music Factory，與曼徹斯特的[The
-Haçienda](http://www.youtube.com/watch?v=AiV45AjFE_I&feature=related)。而麥克·皮克林與格拉姆·派克的星期五放歌地點Nude，則成為美國電子舞曲的推廣園地，其中當然包括來自[底特律的首批鐵克諾音樂](../Page/底特律.md "wikilink")。
+Haçienda](http://www.youtube.com/watch?v=AiV45AjFE_I&feature=related)。而麥克·皮克林與格拉姆·派克的星期五放歌地點Nude，則成為美國電子舞曲的推廣園地，其中當然包括來自[底特律的首批鐵克諾音樂](https://zh.wikipedia.org/wiki/底特律 "wikilink")。
 
 迷幻浩室派對熱潮在倫敦與曼徹斯特竄升，很快就成為一種文化現象。體內充斥著MDMA的舞客，無法接受只到凌晨兩點的商業舞廳營業時段，於是轉而到持續整晚的倉庫派對尋求庇護。為了躲避媒體注意與警察追緝，這些下班後的娛樂活動很快便地下化，然而在一年之內，一些倉庫派對漸漸演化成具商業規模的大型派對，稱「瑞舞派對」（raves），且平均每場會吸引約一萬人次前來參與；可想而知，媒體風暴隨即接踵而來。
 
-浩室與迷幻浩室的成功算是替[底特律之音鋪路](../Page/底特律.md "wikilink")，開發更廣的聽眾群，但反之也亦然；鐵克諾起先是受到少數芝加哥、紐約與英國北部浩室舞廳的支持，[底特律本地舞廳後來才迎頭趕上](../Page/底特律.md "wikilink")。不過根據DJ馬克·摩爾的說法，在1987年又是[〈Strings
+浩室與迷幻浩室的成功算是替[底特律之音鋪路](https://zh.wikipedia.org/wiki/底特律 "wikilink")，開發更廣的聽眾群，但反之也亦然；鐵克諾起先是受到少數芝加哥、紐約與英國北部浩室舞廳的支持，[底特律本地舞廳後來才迎頭趕上](https://zh.wikipedia.org/wiki/底特律 "wikilink")。不過根據DJ馬克·摩爾的說法，在1987年又是[〈Strings
 of Life〉](http://www.youtube.com/watch?v=pcVdg3aZjGE)先讓倫敦舞客開始漸漸接受浩室音樂。
 
 ### 《Techno！來自底特律的新舞曲》
@@ -103,17 +103,17 @@ of Life〉](http://www.youtube.com/watch?v=pcVdg3aZjGE)先讓倫敦舞客開始�
 [《Techno！來自底特律的新舞曲》（*Techno\! The New Dance Sound of
 Detroit*）](http://www.youtube.com/watch?v=GWQwm5MfSpE&feature=PlayList&p=63E94B6C59BB70EC&playnext_from=PL&playnext=1&index=4)，一張由前Northern
 Soul靈魂樂DJ兼Kool Kat廠牌老闆，尼爾·魯斯頓（Neil Rushton）（他當時是維京廠牌旗下品牌『10
-Records』的星探）與德里克·梅收編的合輯，那是紀錄「Techno」首次以正式曲風名稱登場的重要里程碑。這張專輯雖然成功將「Techno」拱入音樂報導詞庫，Techno本身還是有段時間，被大眾認為是一種[底特律版的高科技芝加哥浩室](../Page/底特律.md "wikilink")，而非純粹自成一格的曲風。事實上，該合輯的暫定標題原為《底特律的浩室之音》（*The
+Records』的星探）與德里克·梅收編的合輯，那是紀錄「Techno」首次以正式曲風名稱登場的重要里程碑。這張專輯雖然成功將「Techno」拱入音樂報導詞庫，Techno本身還是有段時間，被大眾認為是一種[底特律版的高科技芝加哥浩室](https://zh.wikipedia.org/wiki/底特律 "wikilink")，而非純粹自成一格的曲風。事實上，該合輯的暫定標題原為《底特律的浩室之音》（*The
 House Sound of Detroit*），直到加入阿特金斯的作品[〈Techno
-Music〉](http://www.youtube.com/watch?v=PtCg0Nt22S8)，才趨使他們重新考量標題名稱。魯斯頓日後說明合輯的最終名稱是由他、阿特金斯、梅與桑德森一起決定的。[底特律三巨頭同聲反對將他們的音樂稱為某種地域性浩室](../Page/底特律.md "wikilink")；提議用另一個詞彙替換，這個詞彙他們已經私下使用很久了，那就是「Techno」。
+Music〉](http://www.youtube.com/watch?v=PtCg0Nt22S8)，才趨使他們重新考量標題名稱。魯斯頓日後說明合輯的最終名稱是由他、阿特金斯、梅與桑德森一起決定的。[底特律三巨頭同聲反對將他們的音樂稱為某種地域性浩室](https://zh.wikipedia.org/wiki/底特律 "wikilink")；提議用另一個詞彙替換，這個詞彙他們已經私下使用很久了，那就是「Techno」。
 德里克·梅認定那是他一生中最忙的時光，他憶道：
 
 雖然魯斯頓的合輯賣得不好，讓維京唱片很失望，但該合輯成功替Techno奠定明確的身分，而且對Techno音樂和製作人在歐洲的平台設立上貢獻良多。基本上，這張合輯的推出有助於區分底特律Techno、芝加哥House，與80末90初瑞舞年代產生的其它種類電子舞曲；而在那段瑞舞期間Techno也變得更有野心，更獨樹一格。
 
 ### 底特律舞廳：「音樂學院」
 
-1988年中，隨著[底特律音樂環境逐漸蓬勃](../Page/底特律.md "wikilink")，一間稱「音樂學院」（Music
-Institute），簡稱MI的新夜店，在[底特律市中心隆重開張](../Page/底特律.md "wikilink")。場地來自喬治·貝克（George
+1988年中，隨著[底特律音樂環境逐漸蓬勃](https://zh.wikipedia.org/wiki/底特律 "wikilink")，一間稱「音樂學院」（Music
+Institute），簡稱MI的新夜店，在[底特律市中心隆重開張](https://zh.wikipedia.org/wiki/底特律 "wikilink")。場地來自喬治·貝克（George
 Baker）與奧爾頓·米勒（Alton Miller），由達里爾·永利（Darryl
 Wynn）與德里克·梅擔任星期五排班DJ，貝克與切斯·達米爾（Chez
 Damier）擔任同志派對為主的星期六排班DJ。該舞廳於1989年11月24日關門歇業，德里克·梅在最後一場播放[〈Strings of
@@ -121,7 +121,7 @@ Life〉](http://www.youtube.com/watch?v=pcVdg3aZjGE)，並疊上塔樓鐘鳴聲�
 
 雖然壽命不長，MI卻以徹夜DJ表演、素淨白色舞廳與「精力果汁」（"smart drinks"）(MI
 從不賣酒)揚名國際。根據作家丹·席科（Dan
-Sicko）的說法，「MI與[底特律早期先鋒](../Page/底特律.md "wikilink")，共同孕育出該城最重要的音樂次文化－一個即將登上國際舞台的音樂次文化」
+Sicko）的說法，「MI與[底特律早期先鋒](https://zh.wikipedia.org/wiki/底特律 "wikilink")，共同孕育出該城最重要的音樂次文化－一個即將登上國際舞台的音樂次文化」
 
 ## 發展
 
@@ -134,15 +134,15 @@ Coltrane）對於爵士的影響。」Techno在歐洲於1988年到1992年之間�
 ### 出走
 
 [JeffMills.jpg](https://zh.wikipedia.org/wiki/File:JeffMills.jpg "fig:JeffMills.jpg")
-在美國，除了地域性的音樂環境，例如[底特律](../Page/底特律.md "wikilink")、紐約與芝加哥，Techno的發展其實相當有限。由於缺乏機會，[底特律製作人在祖國的發展屢屢受挫](../Page/底特律.md "wikilink")，他們因而轉向歐洲尋求工作機會。很快的，第一波移民海外的[底特律製作人](../Page/底特律.md "wikilink")，就發現身邊多了很多新加入的後起之秀，也就是俗稱的「第二波」（The
+在美國，除了地域性的音樂環境，例如[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")、紐約與芝加哥，Techno的發展其實相當有限。由於缺乏機會，[底特律製作人在祖國的發展屢屢受挫](https://zh.wikipedia.org/wiki/底特律 "wikilink")，他們因而轉向歐洲尋求工作機會。很快的，第一波移民海外的[底特律製作人](https://zh.wikipedia.org/wiki/底特律 "wikilink")，就發現身邊多了很多新加入的後起之秀，也就是俗稱的「第二波」（The
 Second Wave）；這些音樂人包括卡爾·克雷格、Octave One、傑伊·德恩罕（Jay Denham）、肯尼·拉金（Kenny
 Larkin）、斯塔塞·普倫（Stacey Pullen）還有UR廠牌旗下的傑夫·米爾斯（Jeff Mills）、麥克·班克斯（Mike
 Banks）與羅伯特·胡德（Robert
 Hood），他們都正致力於發展自己獨特的聲音。除此之外，一群紐約製作人在此時也開始展頭露腳，最著名的為法蘭基·波恩斯（Frankie
 Bones）、蘭尼·低（Lenny Dee）與喬伊·貝爾特勒姆（Joey
-Beltram）；此時在靠近[底特律的安大略省溫莎市](../Page/底特律.md "wikilink")，瑞奇·哈汀（Richie
+Beltram）；此時在靠近[底特律的安大略省溫莎市](https://zh.wikipedia.org/wiki/底特律 "wikilink")，瑞奇·哈汀（Richie
 Hawtin）與事業夥伴約翰·阿夸維瓦（John Acquaviva）也推出極具影響力的廠牌Plus
-8。1990到1992年間，Techno在美國的發展刺激了日後在歐洲，尤其是德國的擴張與分支。在柏林，隨著自由派對聚會場所UFO的關閉，一家稱Tresor的舞廳於1991年開張。該場所是標準的Techno教堂，它們招待最頂尖的[底特律製作人](../Page/底特律.md "wikilink")，其中一些製作人後來甚至移居柏林，當1993年開始英國舞廳對於Techno的熱情漸漸趨緩，柏林就成了歐洲非官方的「Techno首都」。
+8。1990到1992年間，Techno在美國的發展刺激了日後在歐洲，尤其是德國的擴張與分支。在柏林，隨著自由派對聚會場所UFO的關閉，一家稱Tresor的舞廳於1991年開張。該場所是標準的Techno教堂，它們招待最頂尖的[底特律製作人](https://zh.wikipedia.org/wiki/底特律 "wikilink")，其中一些製作人後來甚至移居柏林，當1993年開始英國舞廳對於Techno的熱情漸漸趨緩，柏林就成了歐洲非官方的「Techno首都」。
 
 雖然被德國搶去不少風光，比利時在此階段也是第二波Techno的重要據點。來自比利時根特市的R\&S廠牌，
 推行由貝爾特勒姆與西·階·博蘭（C.J.
@@ -164,25 +164,25 @@ Resistance和瑞奇](../Page/Underground_Resistance.md "wikilink")·哈汀的Plu
 Music）團體，例如DAF、Front 242與Nitzer
 Ebb。在德國，樂迷將這種音樂稱為「Tekkno」（或『Bretter』）。
 
-#### 《柏林與[底特律](../Page/底特律.md "wikilink")：Techno雙雄》
+#### 《柏林與[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")：Techno雙雄》
 
 [MoritzvonOswald.jpg](https://zh.wikipedia.org/wiki/File:MoritzvonOswald.jpg "fig:MoritzvonOswald.jpg")
 在1993年，德國廠牌Tresor
-Records推出《柏林與[底特律](../Page/底特律.md "wikilink")：Techno雙雄》（Tresor
+Records推出《柏林與[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")：Techno雙雄》（Tresor
 II: Berlin & Detroit – A Techno
-Alliance）合輯，那是[底特律音樂對德國Techno環境影響的見證](../Page/底特律.md "wikilink")，更是慶祝兩座城市之間的「相互敬佩盟約」。隨著九零年代邁入中期，柏林儼然成為[底特律製作人的避風港](../Page/底特律.md "wikilink")；傑夫·米爾斯與布萊克·巴克斯特甚至在那住過一段時間；而在同一時期，透過[Tresor](http://de.wikipedia.org/wiki/Tresor_\(Club\))的幫忙，[Underground
+Alliance）合輯，那是[底特律音樂對德國Techno環境影響的見證](https://zh.wikipedia.org/wiki/底特律 "wikilink")，更是慶祝兩座城市之間的「相互敬佩盟約」。隨著九零年代邁入中期，柏林儼然成為[底特律製作人的避風港](https://zh.wikipedia.org/wiki/底特律 "wikilink")；傑夫·米爾斯與布萊克·巴克斯特甚至在那住過一段時間；而在同一時期，透過[Tresor](http://de.wikipedia.org/wiki/Tresor_\(Club\))的幫忙，[Underground
 Resistance也開始陸續發行它們的X](../Page/Underground_Resistance.md "wikilink")-101/X-102/X103系列專輯，胡安·阿特金斯開始和托瑪斯·費曼（Thomas
 Fehlmann）與莫里茨·範·奧斯瓦爾德（Moritz Von Oswald）所組成的團體3MB合作，隸屬Tresor的廠牌Basic
-Channel也將它們的音樂母帶送到[底特律的National](../Page/底特律.md "wikilink")
-Sound公司進行後製；那是當時[底特律音樂圈的主要母帶錄音室](../Page/底特律.md "wikilink")。從某方面來說，流行電子音樂算是兜了一圈回來，畢竟當初來自德國[杜塞道夫的音樂團體](../Page/杜塞道夫.md "wikilink")[Kraftwerk](../Page/Kraftwerk.md "wikilink")，是影響八零年代電子舞曲最深的音樂團體。話又說回來，其實以前的芝加哥浩室也有受到德國的影響，因為當初喬奇歐·莫拉德與彼得·貝洛特（Pete
+Channel也將它們的音樂母帶送到[底特律的National](https://zh.wikipedia.org/wiki/底特律 "wikilink")
+Sound公司進行後製；那是當時[底特律音樂圈的主要母帶錄音室](https://zh.wikipedia.org/wiki/底特律 "wikilink")。從某方面來說，流行電子音樂算是兜了一圈回來，畢竟當初來自德國[杜塞道夫的音樂團體](https://zh.wikipedia.org/wiki/杜塞道夫 "wikilink")[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，是影響八零年代電子舞曲最深的音樂團體。話又說回來，其實以前的芝加哥浩室也有受到德國的影響，因為當初喬奇歐·莫拉德與彼得·貝洛特（Pete
 Bellotte）就是在德國慕尼黑，創造出風靡七零年代的歐陸迪斯可（euro-disco）和合成器流行音樂（synth-pop）。
 
 ### 極簡派
 
 [Robert_Hood_Live_@_Kennedys,_Dublin,_Ireland_2009.JPG](https://zh.wikipedia.org/wiki/File:Robert_Hood_Live_@_Kennedys,_Dublin,_Ireland_2009.JPG "fig:Robert_Hood_Live_@_Kennedys,_Dublin,_Ireland_2009.JPG")
-隨著電子舞曲逐漸變化，一些[底特律製作人開始質疑樂風發展的方向](../Page/底特律.md "wikilink")，於是「極簡派」（minimal
+隨著電子舞曲逐漸變化，一些[底特律製作人開始質疑樂風發展的方向](https://zh.wikipedia.org/wiki/底特律 "wikilink")，於是「極簡派」（minimal
 techno）應運而生（製作人丹尼爾·貝爾〔Daniel
-Bell〕對於該名詞很有意見，他認為「極簡」這詞所指涉的意涵過於「藝術」）。羅伯特·胡德，一位來自[底特律的製作人](../Page/底特律.md "wikilink")，也曾是UR的一員，是眾所公認的極簡樂派催生手。胡德形容九零年代早期樂派「太過瑞舞」，那種催快的速度後來成為gabber曲風的前身。這種潮流使原本標榜靈魂律動的原始底特律派日趨沒落，也驅使胡德與其他製作人改變他們音樂的本質，創造一種「分解後，最基本的原始聲音。只剩鼓、貝斯、放克律動與其中的必備要素。讓人們跳舞的必備要素。」
+Bell〕對於該名詞很有意見，他認為「極簡」這詞所指涉的意涵過於「藝術」）。羅伯特·胡德，一位來自[底特律的製作人](https://zh.wikipedia.org/wiki/底特律 "wikilink")，也曾是UR的一員，是眾所公認的極簡樂派催生手。胡德形容九零年代早期樂派「太過瑞舞」，那種催快的速度後來成為gabber曲風的前身。這種潮流使原本標榜靈魂律動的原始底特律派日趨沒落，也驅使胡德與其他製作人改變他們音樂的本質，創造一種「分解後，最基本的原始聲音。只剩鼓、貝斯、放克律動與其中的必備要素。讓人們跳舞的必備要素。」
 
 胡德解釋道：
 
@@ -193,20 +193,21 @@ Resistance](../Page/Underground_Resistance.md "wikilink")\]\]
 很多爵士樂對樂風有間接或直接的影響，這種影響導致某些作品的節奏與和弦逐漸複雜化，而來自曼徹斯特的組合808
 State，更以迷你專輯《Quadrastate》中收錄的[〈Pacific
 State〉](http://www.youtube.com/watch?v=6jQ_bOP0HfY)，與《Ninety》中收錄的[〈Cobra
-Bora〉](http://www.youtube.com/watch?v=fJwLUxVbc1c)等名曲，助長這波爵士風氣。當時在[底特律](../Page/底特律.md "wikilink")，受這種所謂爵士感性影響最深的製作人，非麥克·班克斯莫屬，他在[Underground
+Bora〉](http://www.youtube.com/watch?v=fJwLUxVbc1c)等名曲，助長這波爵士風氣。當時在[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")，受這種所謂爵士感性影響最深的製作人，非麥克·班克斯莫屬，他在[Underground
 Resistance下所發行的經典專輯](../Page/Underground_Resistance.md "wikilink")《Nation
-2 Nation》（1991）即是一例。到了1993年，[底特律的Model](../Page/底特律.md "wikilink")
+2
+Nation》（1991）即是一例。到了1993年，[底特律的Model](https://zh.wikipedia.org/wiki/底特律 "wikilink")
 500，與UR的藝人團體，以〈Jazz is The Teacher〉（1993）與[〈Hi-Tech
 Jazz〉](http://www.youtube.com/watch?v=kLL5dB4IhS0)（1993）等名曲，開始積極指涉此曲風；後者叫做Galaxy
 2
-Galaxy，是一個自稱建立在[Kraftwerk](../Page/Kraftwerk.md "wikilink")「人體機器」（man-machine）信條上的爵士計畫。此風潮後來的跟隨者，大多為深受爵士樂與UR影響的英國Techno製作人，例如戴夫·安喬（Dave
+Galaxy，是一個自稱建立在[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")「人體機器」（man-machine）信條上的爵士計畫。此風潮後來的跟隨者，大多為深受爵士樂與UR影響的英國Techno製作人，例如戴夫·安喬（Dave
 Angel）和他的EP[《Seas of
 Tranquility》](http://www.youtube.com/watch?v=xhGrXRLFOc0)（1994）。
 
 ### 聆智派
 
 在1991年，英國音樂記者馬修·柯林（Matthew
-Collin）寫道：「歐洲或許有強大的環境與能量，但幕後指引其意識型態的其實是美國⋯若比利時Techno提供橋段，德國Techno提供聲音，英國Techno提供碎拍，那麼[底特律就是提供純粹的思維深度](../Page/底特律.md "wikilink")。」到了1992年，許多歐洲製作人與廠牌，嘗試矯正所謂原始Techno理想的腐敗與商業化，於是一種對瑞舞文化的普遍排斥感油然而生，而一種追求「深度」，或以[底特律的角度來說就是](../Page/底特律.md "wikilink")「純粹」的Techno美學，也進而開始生根發芽。底特律派經歷整段瑞舞時期，不但維持了其藝術上的堅持，還啟發新一代的「聆智派」（intelligent
+Collin）寫道：「歐洲或許有強大的環境與能量，但幕後指引其意識型態的其實是美國⋯若比利時Techno提供橋段，德國Techno提供聲音，英國Techno提供碎拍，那麼[底特律就是提供純粹的思維深度](https://zh.wikipedia.org/wiki/底特律 "wikilink")。」到了1992年，許多歐洲製作人與廠牌，嘗試矯正所謂原始Techno理想的腐敗與商業化，於是一種對瑞舞文化的普遍排斥感油然而生，而一種追求「深度」，或以[底特律的角度來說就是](https://zh.wikipedia.org/wiki/底特律 "wikilink")「純粹」的Techno美學，也進而開始生根發芽。底特律派經歷整段瑞舞時期，不但維持了其藝術上的堅持，還啟發新一代的「聆智派」（intelligent
 techno）製作人。
 
 隨著九零年代中期的到來，聆智派一詞普遍被用來區分較為「純粹」的Techno，和同源、但音樂內容早已大異其趣的曲風，包括過於商業化的分支，與較為硬派，瑞舞取向的breakbeat
@@ -247,7 +248,7 @@ Tribe](http://www.youtube.com/watch?v=ID_pavGU_PE)、Bedlam與其他英國音響
 
 ### 樂派分支
 
-在1994年，有許多來自英國與歐洲的製作人，致志於創作[底特律風格的Techno音樂](../Page/底特律.md "wikilink")，然而當時也有很多製作人不斷互相較勁，努力創作其他種類的電子舞曲。他們有些會從[底特律派美學汲取靈感](../Page/底特律.md "wikilink")，有些則會合併過去舞曲的不同元素，於是許多新品種曲風格開始誕生（主要來自英國）。在這些新型電子舞曲中，有些依稀聽得出Techno的影子，有些則聽起來截然不同。Jungle音樂（鼓打貝斯）就是最明顯的例子，它顯然受到嘻哈、靈魂樂與雷鬼樂的影響多過於[底特律與](../Page/底特律.md "wikilink")[芝加哥的電子舞曲](../Page/芝加哥.md "wikilink")。
+在1994年，有許多來自英國與歐洲的製作人，致志於創作[底特律風格的Techno音樂](https://zh.wikipedia.org/wiki/底特律 "wikilink")，然而當時也有很多製作人不斷互相較勁，努力創作其他種類的電子舞曲。他們有些會從[底特律派美學汲取靈感](https://zh.wikipedia.org/wiki/底特律 "wikilink")，有些則會合併過去舞曲的不同元素，於是許多新品種曲風格開始誕生（主要來自英國）。在這些新型電子舞曲中，有些依稀聽得出Techno的影子，有些則聽起來截然不同。Jungle音樂（鼓打貝斯）就是最明顯的例子，它顯然受到嘻哈、靈魂樂與雷鬼樂的影響多過於[底特律與](https://zh.wikipedia.org/wiki/底特律 "wikilink")[芝加哥的電子舞曲](../Page/芝加哥.md "wikilink")。
 隨著舞曲的多樣性（與商業性）日漸演變，早期瑞舞時期所特有的集體意識黯然消逝，取而代之的是各別獨立的派系，每支派系都有其特有的態度與對未來舞曲（或非舞曲）發展的看法，其中包括傳思（trance）、工業派（industrial
 techno）、迷幻派（acid techno）與happy
 hardcore。較為小眾的分支或相關曲風，包括bleep派，那是主要源於英國謝菲爾德區的地域性分支。bleep派於1989
@@ -260,13 +261,13 @@ glitch、digital hardcore和所謂的no-beat 派。
 
 [Kraftwerk_live_in_Stockholm.jpg](https://zh.wikipedia.org/wiki/File:Kraftwerk_live_in_Stockholm.jpg "fig:Kraftwerk_live_in_Stockholm.jpg")
 '04年現場演出\]\] 在書中探討源頭時，作家科杜沃·愛生（Kodwo
-Eshun）主張「[Kraftwerk之於Techno](../Page/Kraftwerk.md "wikilink")，就如同Muddy
+Eshun）主張「[Kraftwerk之於Techno](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，就如同Muddy
 Waters之於the Rolling
-Stones：是正宗，是起源，是真品。」胡安·阿特金斯承認早期非常喜歡[Kraftwerk與喬奇歐](../Page/Kraftwerk.md "wikilink")·莫拉德，尤其是莫拉德與唐娜·桑瑪（Donna
-Summer）合作的歌曲，以及莫拉德的《E=MC²》專輯。阿特金斯還說在1980年左右，他有張全部塞滿[Kraftwerk](../Page/Kraftwerk.md "wikilink")、Telex、Devo、喬奇歐·莫拉德和蓋瑞·努曼（Gary
-Numan）的錄音帶，在開車時一定會瘋狂播放。但阿特金斯也說過在跟理查·戴維斯合作前，也就是進行電子樂器實驗兩年後，他並沒有聽過[Kraftwerk的音樂](../Page/Kraftwerk.md "wikilink")。對於[Kraftwerk的最初印象](../Page/Kraftwerk.md "wikilink")，阿特金斯說跟他自己較為「迷幻」的「怪異UFO音色」比，他們的音樂相對顯得「乾淨且精準」。
+Stones：是正宗，是起源，是真品。」胡安·阿特金斯承認早期非常喜歡[Kraftwerk與喬奇歐](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")·莫拉德，尤其是莫拉德與唐娜·桑瑪（Donna
+Summer）合作的歌曲，以及莫拉德的《E=MC²》專輯。阿特金斯還說在1980年左右，他有張全部塞滿[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")、Telex、Devo、喬奇歐·莫拉德和蓋瑞·努曼（Gary
+Numan）的錄音帶，在開車時一定會瘋狂播放。但阿特金斯也說過在跟理查·戴維斯合作前，也就是進行電子樂器實驗兩年後，他並沒有聽過[Kraftwerk的音樂](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")。對於[Kraftwerk的最初印象](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")，阿特金斯說跟他自己較為「迷幻」的「怪異UFO音色」比，他們的音樂相對顯得「乾淨且精準」。
 
-德里克·梅也承認受[Kraftwerk和其他歐洲合成器音樂的影響](../Page/Kraftwerk.md "wikilink")。他說道：「那音樂聽起來非常時尚，而且純淨，對我們來說是無限美麗，和外太空一樣。我們本身住在[底特律](../Page/底特律.md "wikilink")，那兒真的很少有美麗的東西，在[底特律一切都是醜露的一團亂](../Page/底特律.md "wikilink")，所以我們被這種音樂吸引，那音樂彷彿點燃了我們的想像力！」
+德里克·梅也承認受[Kraftwerk和其他歐洲合成器音樂的影響](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")。他說道：「那音樂聽起來非常時尚，而且純淨，對我們來說是無限美麗，和外太空一樣。我們本身住在[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")，那兒真的很少有美麗的東西，在[底特律一切都是醜露的一團亂](https://zh.wikipedia.org/wiki/底特律 "wikilink")，所以我們被這種音樂吸引，那音樂彷彿點燃了我們的想像力！」
 
 梅因此認為自己的音樂直接承襲了歐洲合成器音樂的脈絡。凱文·桑德森同樣也認為自己有受到歐洲的影響，但他強調自己受到用電子儀器創作音樂的概念啟發更甚：「我對於一切可以自己來這種理念比較有興趣。」
 
@@ -274,10 +275,10 @@ Numan）的錄音帶，在開車時一定會瘋狂播放。但阿特金斯也說
 Simonetti）等歐陸迪斯可與義大利迪斯可（Italo
 disco）流行樂，和各種新浪漫主義合成器流行樂團體，例如Visage、The
 Human League和Heaven
-17等樂團，在孕育Techno的[底特律高校舞會大受歡迎](../Page/底特律.md "wikilink")，促使評論家開始重新定義起源，嘗試將這些[底特律音樂先鋒縮小納入更寬廣的歷史脈絡](../Page/底特律.md "wikilink")，成為曲風演化的一部分。如此一來，原本在音樂歷史上的起源與分野說法逐漸不被採信。
+17等樂團，在孕育Techno的[底特律高校舞會大受歡迎](https://zh.wikipedia.org/wiki/底特律 "wikilink")，促使評論家開始重新定義起源，嘗試將這些[底特律音樂先鋒縮小納入更寬廣的歷史脈絡](https://zh.wikipedia.org/wiki/底特律 "wikilink")，成為曲風演化的一部分。如此一來，原本在音樂歷史上的起源與分野說法逐漸不被採信。
 [Donna_Summer_(34580613).jpg](https://zh.wikipedia.org/wiki/File:Donna_Summer_\(34580613\).jpg "fig:Donna_Summer_(34580613).jpg")
 為了支持這個看法，評論家舉出A Number of
-Names（1981）的單曲〈Sharevari〉，[Kraftwerk](../Page/Kraftwerk.md "wikilink")（1977-83）較為動感的曲目，Cybotron（1981）最初的作品，唐娜·桑瑪與喬奇歐·莫拉得的〈I
+Names（1981）的單曲〈Sharevari〉，[Kraftwerk](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")（1977-83）較為動感的曲目，Cybotron（1981）最初的作品，唐娜·桑瑪與喬奇歐·莫拉得的〈I
 Feel Love〉，莫拉得的〈From Here to Eternity〉和曼努爾·句特辛（Manuel
 Göttsching）的鉅作《E2-E4》（1981）作為例證。另一則例子是1976年，巴黎的歐陸迪斯可製作人馬克·切羅內所推出的專輯《Love
 in C minor》；該專輯被稱作是第一張概念性迪斯可（conceptual

@@ -1,4 +1,4 @@
-**LRC**是一個可以跟音樂檔案做同步的[檔案格式](../Page/檔案格式.md "wikilink")。當一個音樂檔案（如[MP3](../Page/MP3.md "wikilink")、[Vorbis或](../Page/Vorbis.md "wikilink")[WMA等](../Page/WMA.md "wikilink")）被電腦音樂播放程式（如[foobar2000與](../Page/foobar2000.md "wikilink")[千千靜聽等](../Page/千千靜聽.md "wikilink")）或現代的MP3[隨身聽以及](../Page/隨身聽.md "wikilink")[DVD播放機等裝置播放時](../Page/DVD播放機.md "wikilink")，歌詞可以被同步顯示出來。歌詞檔案通常和音樂檔案有同樣的檔案名稱，但是副檔名不同。例如：***song.mp3***和***song.lrc***。LRC格式是一種文字格式，與電視和電影的[字幕檔很相似](../Page/字幕.md "wikilink")。由於中、日、韓文歌詞在ANSI格式裡可能產生亂碼，可以使用[UTF-8或](../Page/UTF-8.md "wikilink")[Unicode文字編碼避免](../Page/Unicode.md "wikilink")。
+**LRC**是一個可以跟音樂檔案做同步的[檔案格式](../Page/檔案格式.md "wikilink")。當一個音樂檔案（如[MP3](../Page/MP3.md "wikilink")、[Vorbis或](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[WMA等](https://zh.wikipedia.org/wiki/WMA "wikilink")）被電腦音樂播放程式（如[foobar2000與](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")[千千靜聽等](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")）或現代的MP3[隨身聽以及](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")[DVD播放機等裝置播放時](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")，歌詞可以被同步顯示出來。歌詞檔案通常和音樂檔案有同樣的檔案名稱，但是副檔名不同。例如：***song.mp3***和***song.lrc***。LRC格式是一種文字格式，與電視和電影的[字幕檔很相似](../Page/字幕.md "wikilink")。由於中、日、韓文歌詞在ANSI格式裡可能產生亂碼，可以使用[UTF-8或](../Page/UTF-8.md "wikilink")[Unicode文字編碼避免](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 ## 格式
 
@@ -74,32 +74,35 @@ Player\[2\]所开发。它增加了一个额外的时间標籤，格式为：**\
 
 ### 硬件
 
-  - [魅族](../Page/魅族.md "wikilink")[M3 Music
-    Card和](../Page/M3_Music_Card.md "wikilink")[M6 Mini
-    Player](../Page/M6_Mini_Player.md "wikilink")
+  - [魅族](https://zh.wikipedia.org/wiki/魅族 "wikilink")[M3 Music
+    Card和](https://zh.wikipedia.org/wiki/M3_Music_Card "wikilink")[M6
+    Mini
+    Player](https://zh.wikipedia.org/wiki/M6_Mini_Player "wikilink")
   - [创新科技](../Page/创新科技.md "wikilink")[Creative
-    MuVo](../Page/Creative_MuVo.md "wikilink") V100
-  - [Archos 5](../Page/Archos_5.md "wikilink")，仅支持与歌曲文件名相同的LRC文件
+    MuVo](https://zh.wikipedia.org/wiki/Creative_MuVo "wikilink") V100
+  - [Archos
+    5](https://zh.wikipedia.org/wiki/Archos_5 "wikilink")，仅支持与歌曲文件名相同的LRC文件
 
 ### 软件
 
   - [AIMP](../Page/AIMP.md "wikilink")（[WebLyrics v0.2
     Preview](https://www.aimp.ru/?do=catalog&rec_id=906)，[MyClouds](https://www.aimp.ru/?do=catalog&rec_id=971)插件支持）
-  - [foobar2000](../Page/foobar2000.md "wikilink")（[foo_uie_lyrics](https://web.archive.org/web/20090820075742/http://gro.clinux.org/projects/ikiki)插件支持）
-  - [K-Multimedia Player](../Page/K-Multimedia_Player.md "wikilink")
-  - [迷你歌词](../Page/迷你歌词.md "wikilink")
+  - [foobar2000](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")（[foo_uie_lyrics](https://web.archive.org/web/20090820075742/http://gro.clinux.org/projects/ikiki)插件支持）
+  - [K-Multimedia
+    Player](https://zh.wikipedia.org/wiki/K-Multimedia_Player "wikilink")
+  - [迷你歌词](https://zh.wikipedia.org/wiki/迷你歌词 "wikilink")
   - [StepMania](../Page/StepMania.md "wikilink")\[3\]
-  - [千千靜聽](../Page/千千靜聽.md "wikilink")
+  - [千千靜聽](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")
   - [QQ影音](../Page/QQ影音.md "wikilink")
-  - [QQ音樂](../Page/QQ音樂.md "wikilink")
-  - [百度音乐](../Page/百度音乐.md "wikilink")
+  - [QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink")
+  - [百度音乐](https://zh.wikipedia.org/wiki/百度音乐 "wikilink")
   - [网易云音乐](../Page/网易云音乐.md "wikilink")
-  - [可道歌词](../Page/可道歌词.md "wikilink")
+  - [可道歌词](https://zh.wikipedia.org/wiki/可道歌词 "wikilink")
 
 ## 参见
 
-  - [卡拉OK和](../Page/卡拉OK.md "wikilink")[kar文件](../Page/kar文件.md "wikilink")
-  - [CD+G](../Page/CD+G.md "wikilink")
+  - [卡拉OK和](../Page/卡拉OK.md "wikilink")[kar文件](https://zh.wikipedia.org/wiki/kar文件 "wikilink")
+  - [CD+G](https://zh.wikipedia.org/wiki/CD+G "wikilink")
 
 ## 引用
 

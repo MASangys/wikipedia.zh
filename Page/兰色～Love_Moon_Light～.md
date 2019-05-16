@@ -1,5 +1,5 @@
 **兰色～Love Moon
-Light～**是[中国](../Page/中国.md "wikilink")[藏族](../Page/藏族.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第二张[中文](../Page/中文.md "wikilink")[专辑](../Page/专辑.md "wikilink")。
+Light～**是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[藏族](../Page/藏族.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第二张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
 
 ## 概况
 
@@ -7,9 +7,9 @@ Light～**是[中国](../Page/中国.md "wikilink")[藏族](../Page/藏族.md "w
   - 2010年4月26日，《兰色～Love Moon
     Light～》在[中国内地发行](../Page/中国内地.md "wikilink")。
   - 初回限定版附赠歌词写真、兰色明信片和折合海报。\[2\]
-  - 《有ME就好》是《[加油！你有ME！](../Page/加油！你有ME！.md "wikilink")》的续集，作为[爱普生新一季的广告歌](../Page/爱普生.md "wikilink")。\[3\]
+  - 《有ME就好》是《[加油！你有ME！](https://zh.wikipedia.org/wiki/加油！你有ME！ "wikilink")》的续集，作为[爱普生新一季的广告歌](https://zh.wikipedia.org/wiki/爱普生 "wikilink")。\[3\]
   - 《炫影～Sharp
-    Light～》是青春励志[偶像剧](../Page/偶像剧.md "wikilink")《怎么会爱上你》的主题曲，同时也是[夏普](../Page/夏普.md "wikilink")[手机](../Page/手机.md "wikilink")2010年的广告歌。
+    Light～》是青春励志[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")《怎么会爱上你》的主题曲，同时也是[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")2010年的广告歌。
   - 2010年8月6日，香港地区发行香港限定版。限定版中收錄《有ME就好》的MV、alan off shot movie DVD以及post
     card 5張加mini poster，超豪華版包装。\[4\]
 
@@ -27,7 +27,7 @@ Light～**是[中国](../Page/中国.md "wikilink")[藏族](../Page/藏族.md "w
       - 作词：Abbie Yang　作曲：菊池一仁
 5.  Nobody knows but me
       - 作词：alan、Abbie Yang　作曲：alan
-6.  [my life](../Page/my_life.md "wikilink")
+6.  [my life](https://zh.wikipedia.org/wiki/my_life "wikilink")
       - 作词：黄祖荫　作曲：菊池一仁
 7.  炫影～Sharp Light～ (piano only version)
       - 作曲：中山邦夫　编曲：李荣浩

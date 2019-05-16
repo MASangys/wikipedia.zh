@@ -4,9 +4,9 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 ## 簡介
 
   - 這張專輯在元旦1月1日發售，與後來的[SMAP
-    003及](../Page/SMAP_003.md "wikilink")[Cool均是同一日發售](../Page/Cool.md "wikilink")。
+    003及](../Page/SMAP_003.md "wikilink")[Cool均是同一日發售](https://zh.wikipedia.org/wiki/Cool "wikilink")。
   - 「Don't Cry
-    Baby」和「再見的戀人」均收錄在後來發售的[pamS](../Page/pamS.md "wikilink")，其中「再見的戀人」被重新錄成與原版本不同的「2001版本」。
+    Baby」和「再見的戀人」均收錄在後來發售的[pamS](https://zh.wikipedia.org/wiki/pamS "wikilink")，其中「再見的戀人」被重新錄成與原版本不同的「2001版本」。
 
 ## 收錄歌曲
 
@@ -24,7 +24,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 此曲為第二張單曲『[正義使者是靠不住](../Page/正義使者是靠不住.md "wikilink")』內的[B面歌曲](../Page/A面與B面.md "wikilink")。
 6.  天國的碎片 （）
       - 作詞：相田毅 / 作曲、編曲：野崎昌利
-      - 木村和稻垣合唱。在2004年播出的[SMAP×SMAP中有五人合唱的版本](../Page/SMAP×SMAP.md "wikilink")。
+      - 木村和稻垣合唱。在2004年播出的[SMAP×SMAP中有五人合唱的版本](https://zh.wikipedia.org/wiki/SMAP×SMAP "wikilink")。
 7.  Angel的秘密 （）
       - 作詞：相田毅 / 作曲：割田康彥 / 編曲：新川博
       - 森的獨唱歌曲。以歌詞帶有性的意味而出名。

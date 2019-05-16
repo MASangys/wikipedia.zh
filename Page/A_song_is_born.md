@@ -1,6 +1,6 @@
 《**a song is
-born**》（生命頌歌）為日本歌手[濱崎步](../Page/濱崎步.md "wikilink")&[KEIKO](../Page/KEIKO.md "wikilink")（[globe的主唱](../Page/globe.md "wikilink")）的對唱單曲，2001年12月12日於日本[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+born**》（生命頌歌）為日本歌手[濱崎步](../Page/濱崎步.md "wikilink")&[KEIKO](https://zh.wikipedia.org/wiki/KEIKO "wikilink")（[globe的主唱](https://zh.wikipedia.org/wiki/globe "wikilink")）的對唱單曲，2001年12月12日於日本[avex
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 說明
 

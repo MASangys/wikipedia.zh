@@ -1,5 +1,5 @@
 **《Love
-Holic》**是[無綫電視藝人](../Page/無綫電視.md "wikilink")[胡杏兒的第二張專輯](../Page/胡杏兒.md "wikilink")，於2009年11月25日正式發行，惟全碟沒有歌曲能登上903專業推介流行榜和香港電台中文歌曲龍虎榜上。
+Holic》**是[無綫電視藝人](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[胡杏兒的第二張專輯](../Page/胡杏兒.md "wikilink")，於2009年11月25日正式發行，惟全碟沒有歌曲能登上903專業推介流行榜和香港電台中文歌曲龍虎榜上。
 
 《Love Holic》的第二版改名為**《Live Holic》**，於2010年1月27日推出。除了收錄《Love
 Holic》中的歌曲和MV外，還附上胡杏兒香港首個迷你演唱會 Live DVD。

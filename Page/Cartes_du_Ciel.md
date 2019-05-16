@@ -1,7 +1,7 @@
 **Cartes du
-Ciel**是一個[開放原始碼的](../Page/開放原始碼.md "wikilink")[天象儀程式](../Page/天象儀.md "wikilink")，可以在[Linux](../Page/Linux.md "wikilink")、[Mac
-OS X](../Page/Mac_OS_X.md "wikilink")
-[微軟的平台上執行](../Page/微軟.md "wikilink")，目前已經發行到第三版，並且加入了Linux做為目標平台，使用授權也已從[免費軟體成為](../Page/免費軟體.md "wikilink")[GPL](../Page/GNU_通用公眾授權條款.md "wikilink")，並且專案移到新的網站。
+Ciel**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[天象儀程式](../Page/天象儀.md "wikilink")，可以在[Linux](../Page/Linux.md "wikilink")、[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+[微軟的平台上執行](https://zh.wikipedia.org/wiki/微軟 "wikilink")，目前已經發行到第三版，並且加入了Linux做為目標平台，使用授權也已從[免費軟體成為](../Page/免費軟體.md "wikilink")[GPL](https://zh.wikipedia.org/wiki/GNU_通用公眾授權條款 "wikilink")，並且專案移到新的網站。
 
 這個軟體為所有的星座、行星和大多數用望遠鏡能看見的天體都製做了標籤。
 
@@ -18,12 +18,14 @@ can可以下載數位化的巡天星圖，和在星圖上添加影像。也有�
 ## 相關條目
 
   - [Celestia](../Page/Celestia.md "wikilink")
-  - [Hallo Northern Sky (HN Sky)](../Page/HNSKY.md "wikilink")
-  - [KStars](../Page/KStars.md "wikilink")
+  - [Hallo Northern Sky (HN
+    Sky)](https://zh.wikipedia.org/wiki/HNSKY "wikilink")
+  - [KStars](https://zh.wikipedia.org/wiki/KStars "wikilink")
   - [NASA World Wind](../Page/NASA_World_Wind.md "wikilink")
   - [Stellarium](../Page/Stellarium.md "wikilink")
-  - [Universe Sandbox](../Page/Universe_Sandbox.md "wikilink")
-  - [XEphem](../Page/XEphem.md "wikilink")
+  - [Universe
+    Sandbox](https://zh.wikipedia.org/wiki/Universe_Sandbox "wikilink")
+  - [XEphem](https://zh.wikipedia.org/wiki/XEphem "wikilink")
 
 ## 外部連結
 

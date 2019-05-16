@@ -1,4 +1,4 @@
-**JMule**是一个使用[Java开发的](../Page/Java.md "wikilink")[開放原始碼](../Page/開放原始碼.md "wikilink")[eDonkey网络](../Page/eDonkey网络.md "wikilink")[檔案分享客户端軟體](../Page/檔案分享.md "wikilink")，這意味着它天生的[跨平台性](../Page/跨平台.md "wikilink")。JMule完全基于[GNU通用公共许可证而發佈](../Page/GNU通用公共许可证.md "wikilink")。目前的最新版本为2010年1月13日发布的JMule
+**JMule**是一个使用[Java开发的](../Page/Java.md "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[檔案分享客户端軟體](../Page/檔案分享.md "wikilink")，這意味着它天生的[跨平台性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。JMule完全基于[GNU通用公共许可证而發佈](../Page/GNU通用公共许可证.md "wikilink")。目前的最新版本为2010年1月13日发布的JMule
 0.5.8。\[1\]
 
 ## 参考

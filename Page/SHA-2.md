@@ -1,4 +1,4 @@
-**SHA-2**，名稱來自於**安全散列演算法2**（）的縮寫，一種[密碼雜湊函數演算法標準](../Page/密碼雜湊函數.md "wikilink")，由[美國國家安全局研發](../Page/美國國家安全局.md "wikilink")\[1\]，由[美國國家標準與技術研究院](../Page/美國國家標準與技術研究院.md "wikilink")（NIST）在2001年發布。屬於[SHA演算法之一](../Page/SHA家族.md "wikilink")，是[SHA-1的後繼者](../Page/SHA-1.md "wikilink")。其下又可再分為六個不同的演算法標準，包括了：SHA-224、SHA-256、SHA-384、SHA-512、SHA-512/224、SHA-512/256。
+**SHA-2**，名稱來自於**安全散列演算法2**（）的縮寫，一種[密碼雜湊函數演算法標準](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，由[美國國家安全局研發](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")\[1\]，由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）在2001年發布。屬於[SHA演算法之一](../Page/SHA家族.md "wikilink")，是[SHA-1的後繼者](../Page/SHA-1.md "wikilink")。其下又可再分為六個不同的演算法標準，包括了：SHA-224、SHA-256、SHA-384、SHA-512、SHA-512/224、SHA-512/256。
 
 ## 开发
 
@@ -16,7 +16,7 @@ SHA-256和SHA-512是很新的雜湊函數，前者以定義一個word為32位元
 
 ## 演算法
 
-以下是SHA-256演算法的[虛擬碼](../Page/虛擬碼.md "wikilink")。注意，64個word
+以下是SHA-256演算法的[虛擬碼](https://zh.wikipedia.org/wiki/虛擬碼 "wikilink")。注意，64個word
 `w[16..63]`中的位元比起SHA-1演算法，混合的程度大幅提升。
 
 <span style="color: green;">*`Note:``   ``All``   ``variables``
@@ -51,7 +51,7 @@ SHA-256和SHA-512是很新的雜湊函數，前者以定義一個word為32位元
 <span style="color:green;">*`Pre-processing:`*</span>
 `append the bit '1' to the message`
 `append k bits '0', where k is the minimum number >= 0 such that the resulting message`
-`    length (in `*`bits`*`) is `[`congruent`](../Page/同余.md "wikilink")` to 448(mod 512)`
+`    length (in `*`bits`*`) is `[`congruent`](https://zh.wikipedia.org/wiki/同余 "wikilink")` to 448(mod 512)`
 `append length of message (before pre-processing), in `*`bits`*`, as 64-bit big-endian integer`
 
 <span style="color:green;">*`Process``   ``the``   ``message``   ``in``

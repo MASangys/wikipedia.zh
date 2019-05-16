@@ -1,5 +1,5 @@
 《**Code Geass 漆黑的蓮夜**》（）是基於動畫“Code Geass”系列展開的漫畫，同時本作是迎接“Code
-Geass”[動畫系列第二作的活動第一彈](../Page/動畫.md "wikilink")\[1\]，預定於2010年1月的月刊《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》開始連戴。故事背景以描述[日本的](../Page/日本.md "wikilink")[江戶時代一名裝有義肢的少年](../Page/江戶時代.md "wikilink")**蓮夜**接觸「Geass」作為中心。
+Geass”[動畫系列第二作的活動第一彈](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[1\]，預定於2010年1月的月刊《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》開始連戴。故事背景以描述[日本的](../Page/日本.md "wikilink")[江戶時代一名裝有義肢的少年](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")**蓮夜**接觸「Geass」作為中心。
 
 ## 時代設定
 
@@ -54,7 +54,7 @@ Geass”[動畫系列第二作的活動第一彈](../Page/動畫.md "wikilink")\
 <tbody>
 <tr class="odd">
 <td><p>發售日</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日</p></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-《**Upaper**》是[聯合報系與](../Page/聯合報系.md "wikilink")[台北捷運公司合作發行的](../Page/台北捷運公司.md "wikilink")[免費報紙](../Page/免費報紙.md "wikilink")，2007年3月26日創刊，只在[台北捷運各車站發送](../Page/台北捷運.md "wikilink")，取代已於2007年1月停刊的《[可樂新聞](../Page/可樂新聞.md "wikilink")》。
+《**Upaper**》是[聯合報系與](https://zh.wikipedia.org/wiki/聯合報系 "wikilink")[台北捷運公司合作發行的](https://zh.wikipedia.org/wiki/台北捷運公司 "wikilink")[免費報紙](../Page/免費報紙.md "wikilink")，2007年3月26日創刊，只在[台北捷運各車站發送](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")，取代已於2007年1月停刊的《[可樂新聞](https://zh.wikipedia.org/wiki/可樂新聞 "wikilink")》。
 
 ## 概要
 
@@ -14,7 +14,7 @@ box.jpg|《Upaper》專用回收箱
 ## 相關條目
 
   - [台灣報紙列表](../Page/台灣報紙列表.md "wikilink")
-  - [台灣媒體財團化](../Page/台灣媒體財團化.md "wikilink")
+  - [台灣媒體財團化](https://zh.wikipedia.org/wiki/台灣媒體財團化 "wikilink")
 
 ## 參考資料
 

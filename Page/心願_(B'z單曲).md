@@ -1,15 +1,15 @@
-《**心願**》（[日語](../Page/日語.md "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[B'z的第](../Page/B'z.md "wikilink")16張[單曲](../Page/單曲.md "wikilink")。1995年5月31日發行。
+《**心願**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z的第](../Page/B'z.md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月31日發行。
 
 ## 簡介
 
-是B'z首張用[平假名命名的單曲](../Page/平假名.md "wikilink")（之後再用平假名命名的單曲，只有2006年發行的[唯一絕不動搖的東西](../Page/唯一絕不動搖的東西.md "wikilink")），亦是[B+U+M解散後發行首張音樂作品](../Page/B+U+M.md "wikilink")。
+是B'z首張用[平假名命名的單曲](../Page/平假名.md "wikilink")（之後再用平假名命名的單曲，只有2006年發行的[唯一絕不動搖的東西](../Page/唯一絕不動搖的東西.md "wikilink")），亦是[B+U+M解散後發行首張音樂作品](https://zh.wikipedia.org/wiki/B+U+M "wikilink")。
 
 只有這張和[love me, I love
-you單曲使用蜜蜂尾部造型的B](../Page/love_me,_I_love_you.md "wikilink")'z標誌。
+you單曲使用蜜蜂尾部造型的B](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")'z標誌。
 
 包括這張單曲在內，B'z已經連續五張單曲出動銷量超過70萬張，是1995年度日本單曲銷量第13位。\[1\]
 
-《心願》的再錄版本收錄至原創專輯《[LOOSE](../Page/LOOSE_\(B'z專輯\).md "wikilink")》中，專輯版的開頭增加了一段[鋼琴intro](../Page/鋼琴.md "wikilink")，吉他solo的時間也延長了，結尾處顯得更加突然。
+《心願》的再錄版本收錄至原創專輯《[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")》中，專輯版的開頭增加了一段[鋼琴intro](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，吉他solo的時間也延長了，結尾處顯得更加突然。
 
 稻葉浩志第一次參與編曲的單曲。
 
@@ -50,17 +50,17 @@ you單曲使用蜜蜂尾部造型的B](../Page/love_me,_I_love_you.md "wikilink"
 
 ## 收录此单曲的专辑
 
-  - 《[LOOSE](../Page/LOOSE_\(B'z專輯\).md "wikilink")》（\#1、"BUZZ\!\!"
+  - 《[LOOSE](https://zh.wikipedia.org/wiki/LOOSE_\(B'z專輯\) "wikilink")》（\#1、"BUZZ\!\!"
     STYLE）
   - 《[B'z The Best
-    "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")》（\#1）
+    "Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Treasure" "wikilink")》（\#1）
   - 《[B'z The
-    "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")》（\#2、Mixture
+    "Mixture"](https://zh.wikipedia.org/wiki/B'z_The_"Mixture" "wikilink")》（\#2、Mixture
     mix）
   - 《[B'z The Best "ULTRA
-    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》（\#1）
+    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")》（\#1）
   - 《[B'z The Best "ULTRA
-    Treasure"](../Page/B'z_The_Best_"ULTRA_Treasure".md "wikilink")》（\#2）
+    Treasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")》（\#2）
 
 ## 參考資料
 

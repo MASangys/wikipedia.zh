@@ -1,19 +1,20 @@
 **Java API for XML Web
-Services**（JAX-WS）是[Java程序设计语言一个用来创建](../Page/Java.md "wikilink")[Web服务的](../Page/Web服务.md "wikilink")[API](../Page/应用程序接口.md "wikilink")。JAX-WS是[sun的](../Page/sun.md "wikilink")[Java企业平台一部分](../Page/Java_EE.md "wikilink")。和其它Java
-EE的API一样，JAX-WS使用了[Java SE](../Page/Java_SE.md "wikilink")
-5引入的[Java标注机制来简化Web服务客户端和服务端的开发和部署](../Page/Java标注.md "wikilink")。
+Services**（JAX-WS）是[Java程序设计语言一个用来创建](../Page/Java.md "wikilink")[Web服务的](../Page/Web服务.md "wikilink")[API](../Page/应用程序接口.md "wikilink")。JAX-WS是[sun的](https://zh.wikipedia.org/wiki/sun "wikilink")[Java企业平台一部分](https://zh.wikipedia.org/wiki/Java_EE "wikilink")。和其它Java
+EE的API一样，JAX-WS使用了[Java
+SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink")
+5引入的[Java标注机制来简化Web服务客户端和服务端的开发和部署](https://zh.wikipedia.org/wiki/Java标注 "wikilink")。
 
-JAX-WS的[参考实现是作为一个](../Page/参考实现.md "wikilink")[开源项目开发的](../Page/开放源代码.md "wikilink")，是[GlassFish项目的一部分](../Page/GlassFish.md "wikilink"),
+JAX-WS的[参考实现是作为一个](https://zh.wikipedia.org/wiki/参考实现 "wikilink")[开源项目开发的](../Page/开放源代码.md "wikilink")，是[GlassFish项目的一部分](https://zh.wikipedia.org/wiki/GlassFish "wikilink"),
 GlassFish是一个开源的Java EE应用服务器。参考实现，称作JAX-WS
-RI（参考实现的英文缩写）声称达到了生产质量的实现（以前的参考实现只不过是概念的验证）。该参考实现现在是[Metro](../Page/GlassFish_Metro.md "wikilink")[1](https://web.archive.org/web/20101205234009/http://weblogs.java.net/blog/kohsuke/archive/2007/06/introducing_met.html)
+RI（参考实现的英文缩写）声称达到了生产质量的实现（以前的参考实现只不过是概念的验证）。该参考实现现在是[Metro](https://zh.wikipedia.org/wiki/GlassFish_Metro "wikilink")[1](https://web.archive.org/web/20101205234009/http://weblogs.java.net/blog/kohsuke/archive/2007/06/introducing_met.html)
 的一部分。
 
-JAX-WS也是[WSIT的基础之一](../Page/Web_Services_Interoperability_Technology.md "wikilink")。
+JAX-WS也是[WSIT的基础之一](https://zh.wikipedia.org/wiki/Web_Services_Interoperability_Technology "wikilink")。
 
 ## 名称变更
 
-在[Java平台企业版](../Page/Java_EE.md "wikilink") 5中，JAX-WS
-2.0替换了[JAX-RPC](../Page/JAX-RPC.md "wikilink")
+在[Java平台企业版](https://zh.wikipedia.org/wiki/Java_EE "wikilink") 5中，JAX-WS
+2.0替换了[JAX-RPC](https://zh.wikipedia.org/wiki/JAX-RPC "wikilink")
 API。名称的变更反映了从[RPC-style到document](../Page/遠程過程調用.md "wikilink")-style的Web服务的变迁。
 
 ## 外部链接
@@ -32,4 +33,4 @@ API。名称的变更反映了从[RPC-style到document](../Page/遠程過程調�
       - [Java技术和Web服务](http://java.sun.com/webservices/)
       - [Sun公司的JAX-WS的页面](http://java.sun.com/webservices/jaxws/index.jsp)
 
-[分类:Java](../Page/分类:Java.md "wikilink")
+[分类:Java](https://zh.wikipedia.org/wiki/分类:Java "wikilink")

@@ -1,12 +1,12 @@
-《**girls～Selfish～**》為2004年11月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未首張](../Page/倖田來未.md "wikilink")[DVD](../Page/DVD.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
+《**girls～Selfish～**》為2004年11月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倖田來未首張](../Page/倖田來未.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
-  - DVD單曲為特別的發行形式（本作未計算在CD單曲中，14th單曲為「[hands](../Page/hands.md "wikilink")」）。
+  - DVD單曲為特別的發行形式（本作未計算在CD單曲中，14th單曲為「[hands](https://zh.wikipedia.org/wiki/hands "wikilink")」）。
 
 <!-- end list -->
 
-  - 本DVD單曲收錄的全部樂曲首次於4th原創專輯「[secret](../Page/倖感機密.md "wikilink")」中CD化，[音樂錄影帶中的全部的內容皆收錄於附屬的DVD中](../Page/音樂錄影帶.md "wikilink")。
+  - 本DVD單曲收錄的全部樂曲首次於4th原創專輯「[secret](https://zh.wikipedia.org/wiki/倖感機密 "wikilink")」中CD化，[音樂錄影帶中的全部的內容皆收錄於附屬的DVD中](../Page/音樂錄影帶.md "wikilink")。
 
 ## 曲目
 
@@ -15,7 +15,7 @@
         作詞･作曲･編曲:渡辺未来
         第20回「東日本女子駅伝」主題曲。
         2007年發行的精選輯「[BEST 〜BOUNCE &
-        LOVERS〜](../Page/BEST_〜BOUNCE_&_LOVERS〜.md "wikilink")」的附屬DVD收錄其再編輯過的Dance
+        LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")」的附屬DVD收錄其再編輯過的Dance
         Ver.的音樂錄影帶。
 2.  **SHAKE IT**
       -

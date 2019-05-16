@@ -1,4 +1,4 @@
-**《大富翁Online》**是由[大宇资讯在中国大陆的子公司北京软星研发的一款休闲网络游戏](../Page/大宇资讯.md "wikilink")。本作于2006年4月在[台港澳由](../Page/台港澳.md "wikilink")[大宇资讯推出](../Page/大宇资讯.md "wikilink")，2007年7月，久游网宣布取得本作在中国大陆的代理权，同年11月15日展开封测，2008年3月28日宣布开启“想当年公测”。\[1\]
+**《大富翁Online》**是由[大宇资讯在中国大陆的子公司北京软星研发的一款休闲网络游戏](https://zh.wikipedia.org/wiki/大宇资讯 "wikilink")。本作于2006年4月在[台港澳由](https://zh.wikipedia.org/wiki/台港澳 "wikilink")[大宇资讯推出](https://zh.wikipedia.org/wiki/大宇资讯 "wikilink")，2007年7月，久游网宣布取得本作在中国大陆的代理权，同年11月15日展开封测，2008年3月28日宣布开启“想当年公测”。\[1\]
 
 2017年6月30日，大宇资讯发布公告称，大富翁Online僅餘的台港澳營運服務將於2017年7月31日起停止运营。\[2\]
 
@@ -6,16 +6,16 @@
 
 ### 登场角色
 
-  - [钱夫人](../Page/钱夫人.md "wikilink")（配音員：[陶敏嫻](../Page/陶敏嫻.md "wikilink")）
-  - [忍太郎](../Page/忍太郎.md "wikilink")（配音員：[符爽](../Page/符爽.md "wikilink")）
-  - [阿土伯](../Page/阿土伯.md "wikilink")（配音員：[曹冀魯](../Page/曹冀魯.md "wikilink")）
-  - [孙小美](../Page/孙小美.md "wikilink")（配音員：[林美秀](../Page/林美秀.md "wikilink")）
-  - [金贝贝](../Page/金贝贝.md "wikilink")
-  - [沙隆巴斯](../Page/沙隆巴斯.md "wikilink")（配音員：[徐健春](../Page/徐健春.md "wikilink")）
-  - [舞美拉](../Page/舞美拉.md "wikilink")（配音員：[雷碧文](../Page/雷碧文.md "wikilink")）
-  - [小丹尼](../Page/小丹尼.md "wikilink")(后续版本新增)
-  - [乌咪](../Page/乌咪.md "wikilink")（配音員：[陳惠萍](../Page/陳惠萍.md "wikilink")）(后续版本新增)
-  - [糖糖](../Page/糖糖.md "wikilink")（配音員：[張雯英](../Page/張雯英.md "wikilink")）(后续版本新增)
+  - [钱夫人](https://zh.wikipedia.org/wiki/钱夫人 "wikilink")（配音員：[陶敏嫻](../Page/陶敏嫻.md "wikilink")）
+  - [忍太郎](https://zh.wikipedia.org/wiki/忍太郎 "wikilink")（配音員：[符爽](../Page/符爽.md "wikilink")）
+  - [阿土伯](https://zh.wikipedia.org/wiki/阿土伯 "wikilink")（配音員：[曹冀魯](../Page/曹冀魯.md "wikilink")）
+  - [孙小美](https://zh.wikipedia.org/wiki/孙小美 "wikilink")（配音員：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")）
+  - [金贝贝](https://zh.wikipedia.org/wiki/金贝贝 "wikilink")
+  - [沙隆巴斯](https://zh.wikipedia.org/wiki/沙隆巴斯 "wikilink")（配音員：[徐健春](../Page/徐健春.md "wikilink")）
+  - [舞美拉](https://zh.wikipedia.org/wiki/舞美拉 "wikilink")（配音員：[雷碧文](../Page/雷碧文.md "wikilink")）
+  - [小丹尼](https://zh.wikipedia.org/wiki/小丹尼 "wikilink")(后续版本新增)
+  - [乌咪](https://zh.wikipedia.org/wiki/乌咪 "wikilink")（配音員：[陳惠萍](https://zh.wikipedia.org/wiki/陳惠萍 "wikilink")）(后续版本新增)
+  - [糖糖](https://zh.wikipedia.org/wiki/糖糖 "wikilink")（配音員：[張雯英](https://zh.wikipedia.org/wiki/張雯英 "wikilink")）(后续版本新增)
 
 ### 游戏模式
 
@@ -43,13 +43,13 @@
 
 ## 海外授权
 
-大富翁Online亦被陆续授权至东南亚、北美等地。\[5\]东南亚地区由ASIASOFT负责代理，代理地区为[泰国](../Page/泰国.md "wikilink")、[越南](../Page/越南.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")；北美地区由Aeriagames负责代理，但北美版本目前已经停运。\[6\]
+大富翁Online亦被陆续授权至东南亚、北美等地。\[5\]东南亚地区由ASIASOFT负责代理，代理地区为[泰国](../Page/泰国.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")；北美地区由Aeriagames负责代理，但北美版本目前已经停运。\[6\]
 
 2011年2月28日，久游网发布公告称，大富翁Online在中国大陆将于2011年5月31日停止运营。\[7\]
 
 ## 决战610大富翁
 
-这是大宇资讯于2010年4月19日在台港澳版本加开的新服务器\[8\]，虽然在玩法上跟常规服务器没有任何区别，但支持的可用于进行游戏的平台更广（如可使用[Facebook](../Page/Facebook.md "wikilink")，[Yahoo与](../Page/Yahoo.md "wikilink")[Google帐号登录](../Page/Google.md "wikilink")）。
+这是大宇资讯于2010年4月19日在台港澳版本加开的新服务器\[8\]，虽然在玩法上跟常规服务器没有任何区别，但支持的可用于进行游戏的平台更广（如可使用[Facebook](../Page/Facebook.md "wikilink")，[Yahoo与](https://zh.wikipedia.org/wiki/Yahoo "wikilink")[Google帐号登录](../Page/Google.md "wikilink")）。
 
 2011年3月31日，大宇发布公告称，该服务器将于2011年5月10日终止营运。\[9\]
 

@@ -1,4 +1,4 @@
-《**假面骑士Stronger**》（）為1975年（昭和50年）4月5日至同年12月27日期間，每週六晚上7.00\~7.30由[每日放送](../Page/每日放送.md "wikilink")・[TBS電視台播映](../Page/TBS電視台.md "wikilink")，由[东映制作的特摄英雄电视剧](../Page/东映.md "wikilink")，为[假面骑士系列第五部作品](../Page/假面骑士系列.md "wikilink")，全39集。
+《**假面骑士Stronger**》（）為1975年（昭和50年）4月5日至同年12月27日期間，每週六晚上7.00\~7.30由[每日放送](../Page/每日放送.md "wikilink")・[TBS電視台播映](../Page/TBS電視台.md "wikilink")，由[东映制作的特摄英雄电视剧](https://zh.wikipedia.org/wiki/东映 "wikilink")，为[假面骑士系列第五部作品](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")，全39集。
 
 ## 概要
 
@@ -73,7 +73,7 @@
 
 ## 制作群
 
-  - 原作：[石森章太郎](../Page/石森章太郎.md "wikilink")
+  - 原作：[石森章太郎](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")
   - 連載：テレビマガジン、たのしい幼稚園、テレビランド、冒険王　
   - 企画：平山亨、阿部征司
   - 編劇：伊上勝、鈴木生朗、松-{岡}-清治、村山庄三、阿井文瓶、海堂肇

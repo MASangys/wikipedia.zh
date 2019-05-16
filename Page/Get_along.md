@@ -1,7 +1,8 @@
 《**Get
-along**》於1995年5月24日發售，是[林原惠和](../Page/林原惠.md "wikilink")[奧井雅美合唱的](../Page/奧井雅美.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
-由[STAR CHILD發行](../Page/STAR_CHILD.md "wikilink")，[King
-Records發售](../Page/King_Records.md "wikilink")（KIDA-107）
+along**》於1995年5月24日發售，是[林原惠和](../Page/林原惠.md "wikilink")[奧井雅美合唱的](../Page/奧井雅美.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+由[STAR
+CHILD發行](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")，[King
+Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")（KIDA-107）
 
 ## 概要
 
@@ -26,12 +27,14 @@ Records發售](../Page/King_Records.md "wikilink")（KIDA-107）
 
   - **Get along**
       -
-        《[S-mode \#1](../Page/S-mode_1.md "wikilink")》（奥井雅美）
+        《[S-mode
+        \#1](https://zh.wikipedia.org/wiki/S-mode_1 "wikilink")》（奥井雅美）
         《[秀逗魔導士MEGUMIX](../Page/秀逗魔導士MEGUMIX.md "wikilink")》（林原惠）
         ※ 原創專輯未收錄
   - **KUJIKENAIKARA\!**
       -
-        《[S-mode \#1](../Page/S-mode_1.md "wikilink")》
+        《[S-mode
+        \#1](https://zh.wikipedia.org/wiki/S-mode_1 "wikilink")》
         《[秀逗魔導士MEGUMIX](../Page/秀逗魔導士MEGUMIX.md "wikilink")》
         ※ 原創專輯未收錄
 

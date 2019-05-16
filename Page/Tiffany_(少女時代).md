@@ -1,63 +1,63 @@
-**黃美英**（，\[1\]，），藝名**蒂芬妮**（，），[韓裔](../Page/韓國.md "wikilink")[美籍的女](../Page/美國.md "wikilink")[歌手及](../Page/歌手.md "wikilink")[主持人](../Page/主持人.md "wikilink")，為[韓國](../Page/韓國.md "wikilink")[女子團體](../Page/女子團體.md "wikilink")[少女時代的成員之一](../Page/少女時代.md "wikilink")。出生於美國[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")，2004年在[洛杉磯被經紀公司](../Page/洛杉磯.md "wikilink")[SM
-Entertainment發掘](../Page/SM_Entertainment.md "wikilink")，3星期後進入該公司當練習生。2007年8月5日，以女子組合[少女時代出道](../Page/少女時代.md "wikilink")，在隊內擔任主唱及Rapper。2012年與[太妍](../Page/太妍.md "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代子團](../Page/少女時代.md "wikilink")[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")。2016年5月11日，以Solo身份出道，發行首張迷你專輯《[I
+**黃美英**（，\[1\]，），藝名**蒂芬妮**（，），[韓裔](https://zh.wikipedia.org/wiki/韓國 "wikilink")[美籍的女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手及](../Page/歌手.md "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[少女時代的成員之一](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。出生於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，2004年在[洛杉磯被經紀公司](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[SM
+Entertainment發掘](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，3星期後進入該公司當練習生。2007年8月5日，以女子組合[少女時代出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，在隊內擔任主唱及Rapper。2012年與[太妍](../Page/太妍.md "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代子團](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")。2016年5月11日，以Solo身份出道，發行首張迷你專輯《[I
 Just Wanna
-Dance](../Page/I_Just_Wanna_Dance.md "wikilink")》。2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出[少女時代](../Page/少女時代.md "wikilink")。2018年9月20日，公佈個人粉絲名為“Young
+Dance](../Page/I_Just_Wanna_Dance.md "wikilink")》。2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2018年9月20日，公佈個人粉絲名為“Young
 One”，意指“永遠”。2019年3月15日，發行第二張迷你專輯《[Lips On
-Lips](../Page/Lips_On_Lips.md "wikilink")》。
+Lips](https://zh.wikipedia.org/wiki/Lips_On_Lips "wikilink")》。
 
 ## 姓名
 
 \-{史蒂芬妮}-·英·黃（**Stephanie Young
-Hwang**）為她出生於[美國時父母替她取的英文本名](../Page/美國.md "wikilink")，韓文本名為**黃美英**，原本要以**Stephanie**（-{史蒂芬妮}-）當作藝名在[韓國出道](../Page/韓國.md "wikilink")，但是當時[韓國演藝界早已經有](../Page/韓國.md "wikilink")「[天上智喜](../Page/天上智喜.md "wikilink")」團員金寶京以Stephanie當作藝名，為怕撞名才改取**-{Tiffany}-**（**-{蒂芬妮}-**）作為藝名出道。值得一提的是，在Tiffany出生之際，當時她的母親就希望幫她取名為-{Tiffany}-，只是最後仍是跟隨父親決定以Stephanie命名。
+Hwang**）為她出生於[美國時父母替她取的英文本名](https://zh.wikipedia.org/wiki/美國 "wikilink")，韓文本名為**黃美英**，原本要以**Stephanie**（-{史蒂芬妮}-）當作藝名在[韓國出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")，但是當時[韓國演藝界早已經有](https://zh.wikipedia.org/wiki/韓國 "wikilink")「[天上智喜](../Page/天上智喜.md "wikilink")」團員金寶京以Stephanie當作藝名，為怕撞名才改取**-{Tiffany}-**（**-{蒂芬妮}-**）作為藝名出道。值得一提的是，在Tiffany出生之際，當時她的母親就希望幫她取名為-{Tiffany}-，只是最後仍是跟隨父親決定以Stephanie命名。
 
 ## 經歷
 
 ### 成長背景
 
-1989年8月1日，蒂芬妮出生於[美國的](../Page/美國.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")，曾被[Jessica透露她們生於同一家醫院](../Page/Jessica_\(韓國歌手\).md "wikilink")。家中成員有爸媽、姐姐Michelle和在菲律賓工作的年长一岁的哥哥Leo
+1989年8月1日，蒂芬妮出生於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，曾被[Jessica透露她們生於同一家醫院](../Page/Jessica_\(韓國歌手\).md "wikilink")。家中成員有爸媽、姐姐Michelle和在菲律賓工作的年长一岁的哥哥Leo
 Hoon
-Hwang\[2\]，与蒂芬妮同一天生日\[3\]，在2009的一次公開訪問中透露媽媽在她年紀尚輕時已逝世。幼年時期在距洛杉磯市東邊不遠的[鑽石吧成長](../Page/鑽石吧_\(加利福尼亞州\).md "wikilink")，自小父母即給予蒂芬妮充足的美式教育以及環境，所以她說到一口流利的[英語](../Page/英語.md "wikilink")，[韓語她則較為陌生](../Page/韓語.md "wikilink")，一直到蒂芬妮11歲時父親才開始教她[韓語](../Page/韓語.md "wikilink")。但因父親負債纍纍，蒂芬妮出道後代父還債，但為免對公司及少女時代成員帶來不利，2011年正式與父親斷絕關係。
+Hwang\[2\]，与蒂芬妮同一天生日\[3\]，在2009的一次公開訪問中透露媽媽在她年紀尚輕時已逝世。幼年時期在距洛杉磯市東邊不遠的[鑽石吧成長](https://zh.wikipedia.org/wiki/鑽石吧_\(加利福尼亞州\) "wikilink")，自小父母即給予蒂芬妮充足的美式教育以及環境，所以她說到一口流利的[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，[韓語她則較為陌生](https://zh.wikipedia.org/wiki/韓語 "wikilink")，一直到蒂芬妮11歲時父親才開始教她[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")。但因父親負債纍纍，蒂芬妮出道後代父還債，但為免對公司及少女時代成員帶來不利，2011年正式與父親斷絕關係。
 
 在還未被[SM
-Entertainment公司選拔為練習生前](../Page/SM_Entertainment.md "wikilink")，她一直待在鑽石吧
+Entertainment公司選拔為練習生前](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，她一直待在鑽石吧
 (加利福尼亞州)就讀當地的South Pointe Middle School和鑽石吧高中(Diamond Bar High
-School)，被選拔為練習生後她前往[韓國](../Page/韓國.md "wikilink")，並且轉學到位於[首爾市當地的](../Page/首爾市.md "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代的前成員兼歌手](../Page/少女時代.md "wikilink")[潔西卡以及歌手](../Page/鄭秀妍.md "wikilink")[Jessi](../Page/Jessi.md "wikilink")。
+School)，被選拔為練習生後她前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代的前成員兼歌手](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡以及歌手](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")。
 
 2004年，蒂芬妮參加[SM娛樂在洛杉磯市舉辦的](../Page/SM娛樂.md "wikilink")「Starlight Casting
 System」選秀會，獲得CJ/KMTV USA-LA
-Contest第一名，在此次選秀會中蒂芬妮被[SM娛樂發掘](../Page/SM娛樂.md "wikilink")，進入該公司當練習生。16歲時因被診斷有[脊椎側彎](../Page/脊椎側彎.md "wikilink")，而需放棄芭蕾舞訓練。經過三年七個月的密集訓練，終於在2007年8月5日以女子組合[少女時代順利出道](../Page/少女時代.md "wikilink")。
+Contest第一名，在此次選秀會中蒂芬妮被[SM娛樂發掘](../Page/SM娛樂.md "wikilink")，進入該公司當練習生。16歲時因被診斷有[脊椎側彎](../Page/脊椎側彎.md "wikilink")，而需放棄芭蕾舞訓練。經過三年七個月的密集訓練，終於在2007年8月5日以女子組合[少女時代順利出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ### 生涯發展
 
-2007年11月5日，蒂芬妮跟[金彗星在](../Page/金彗星.md "wikilink")[Mnet電視台共同主持](../Page/Mnet.md "wikilink")《少男少女歌謠百首（소년소녀
+2007年11月5日，蒂芬妮跟[金彗星在](../Page/金彗星.md "wikilink")[Mnet電視台共同主持](https://zh.wikipedia.org/wiki/Mnet "wikilink")《少男少女歌謠百首（소년소녀
 가요백서）》節目，一直到2008年6月13日蒂芬妮才正式離開該節目\[4\]。
 
-2008年1月8日，蒂芬妮跟同為[少女時代成員的](../Page/少女時代.md "wikilink")[潔西卡](../Page/鄭秀妍.md "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon公司的網路線上遊戲](../Page/Nexon.md "wikilink")「[瑪奇](../Page/瑪奇.md "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
+2008年1月8日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon公司的網路線上遊戲](../Page/Nexon.md "wikilink")「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
 나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's Fantastic\!）》則為此遊戲的主題曲\[5\]。
 
 2009年3月26日，蒂芬妮在[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》中主唱劇中的插入歌《我一個人（By
-Myself）》，此曲為蒂芬妮獨挑大樑首次獨唱一首歌\[6\]\[7\]。3月31日，蒂芬妮跟[K.Will合作男女對唱歌曲](../Page/K.Will.md "wikilink")《少女遇見愛（소녀,
+Myself）》，此曲為蒂芬妮獨挑大樑首次獨唱一首歌\[6\]\[7\]。3月31日，蒂芬妮跟[K.Will合作男女對唱歌曲](https://zh.wikipedia.org/wiki/K.Will "wikilink")《少女遇見愛（소녀,
 사랑을
-만나다）》，此曲被收錄在[K.Will迷你專輯](../Page/K.Will.md "wikilink")「淚眼汪汪」內\[8\]。4月4日，蒂芬妮跟同為[少女時代成員的](../Page/少女時代.md "wikilink")[俞利一起主持](../Page/權俞利.md "wikilink")[MBC電視台](../Page/MBC.md "wikilink")《[Show\!
-音樂中心](../Page/Show!_音樂中心.md "wikilink")》節目，一直到2010年7月31日蒂芬妮因日趨忙碌於[少女時代的](../Page/少女時代.md "wikilink")[日本出道行程才離開該節目](../Page/日本.md "wikilink")\[9\]\[10\]。5月8日，蒂芬妮與同為[少女時代成員的](../Page/少女時代.md "wikilink")[秀英合唱一首歌曲](../Page/崔秀榮.md "wikilink")《只感覺到你（너만을
+만나다）》，此曲被收錄在[K.Will迷你專輯](https://zh.wikipedia.org/wiki/K.Will "wikilink")「淚眼汪汪」內\[8\]。4月4日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[俞利一起主持](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[MBC電視台](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
+音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》節目，一直到2010年7月31日蒂芬妮因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本出道行程才離開該節目](../Page/日本.md "wikilink")\[9\]\[10\]。5月8日，蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英合唱一首歌曲](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")《只感覺到你（너만을
 느끼며）》\[11\]。
 
-2010年5月2日，蒂芬妮與[太妍](../Page/金泰耎.md "wikilink")、[潔西卡](../Page/鄭秀妍.md "wikilink")、[珊妮](../Page/李純揆.md "wikilink")、[俞利](../Page/權俞利.md "wikilink")[潤娥及](../Page/林潤娥.md "wikilink")[徐玄聯同](../Page/徐朱玄.md "wikilink")[韓國男子組合](../Page/韓國.md "wikilink")[2PM合唱韓國水上樂園](../Page/2PM.md "wikilink")[加勒比海灣的廣告歌曲](../Page/加勒比海灣.md "wikilink")《Cabi》\[12\]
+2010年5月2日，蒂芬妮與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[潤娥及](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")[徐玄聯同](../Page/徐朱玄.md "wikilink")[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM合唱韓國水上樂園](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣的廣告歌曲](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")《Cabi》\[12\]
 \[13\]。10月15日，蒂芬妮跟另一團體[東方神起成員](../Page/東方神起.md "wikilink")[鄭允浩](../Page/鄭允浩.md "wikilink")，兩人一起替[韓國旅遊發展局為推廣旅遊業而出資籌拍的電視劇](../Page/韓國觀光公社.md "wikilink")「一天」主唱劇中的插入歌《戒指（반지）》\[14\]。
 
-2011年8月20日蒂芬妮與同為[少女時代成員的](../Page/少女時代.md "wikilink")[秀英](../Page/崔秀榮.md "wikilink")、[俞利三人一起在](../Page/權俞利.md "wikilink")[新潟舉行的韓國音樂明星演唱會擔任主持人](../Page/新潟市.md "wikilink")\[15\]。11月25日，蒂芬妮在音樂劇《[名揚四海](../Page/名揚四海_\(音樂劇\).md "wikilink")（Fame）》中擔任劇中的角色卡門·迪亞茲（Carmen
+2011年8月20日蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[俞利三人一起在](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[新潟舉行的韓國音樂明星演唱會擔任主持人](../Page/新潟市.md "wikilink")\[15\]。11月25日，蒂芬妮在音樂劇《[名揚四海](https://zh.wikipedia.org/wiki/名揚四海_\(音樂劇\) "wikilink")（Fame）》中擔任劇中的角色卡門·迪亞茲（Carmen
 Diaz），一起參與演出的還有[Super
 Junior的](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、GOD的[孫昊永](../Page/孫昊永.md "wikilink")、[天上智喜的Lina等人](../Page/天上智喜.md "wikilink")。
 
-2012年4月10日，蒂芬妮為[KBS2連續劇](../Page/KBS2.md "wikilink")《[愛情雨](../Page/愛情雨.md "wikilink")》演唱插入曲《因為是你》。5月2日，蒂芬妮與[少女時代成員](../Page/少女時代.md "wikilink")[太妍](../Page/金泰耎.md "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代的首個子團體](../Page/少女時代.md "wikilink")[TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")，並推出首張迷你專輯《[Twinkle](../Page/Twinkle.md "wikilink")》。子團體[TaeTiSeo的音樂類型及曲風跟母團體](../Page/少女時代-太蒂徐.md "wikilink")[少女時代有所不同](../Page/少女時代.md "wikilink")。8月29日，蒂芬妮跟同公司的男子組合[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[圭賢為](../Page/圭賢.md "wikilink")[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[致美麗的你](../Page/致美麗的你.md "wikilink")》演唱插入曲《致美麗的你》。
+2012年4月10日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[愛情雨](https://zh.wikipedia.org/wiki/愛情雨 "wikilink")》演唱插入曲《因為是你》。5月2日，蒂芬妮與[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[徐玄組成](../Page/徐朱玄.md "wikilink")[少女時代的首個子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](../Page/少女時代-太蒂徐.md "wikilink")，並推出首張迷你專輯《[Twinkle](https://zh.wikipedia.org/wiki/Twinkle "wikilink")》。子團體[TaeTiSeo的音樂類型及曲風跟母團體](../Page/少女時代-太蒂徐.md "wikilink")[少女時代有所不同](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。8月29日，蒂芬妮跟同公司的男子組合[Super
+Junior成員](../Page/Super_Junior.md "wikilink")[圭賢為](../Page/圭賢.md "wikilink")[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》演唱插入曲《致美麗的你》。
 
 2013年4月17日，蒂芬妮為[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[我戀愛的一切](../Page/我戀愛的一切.md "wikilink")》演唱插入曲《One
 Step Closer》。
 
-2014年9月18日，[TaeTiSeo时隔](../Page/少女時代-太蒂徐.md "wikilink")2年4個月，推出第二張迷你專輯《[Holler](../Page/Holler.md "wikilink")》。
+2014年9月18日，[TaeTiSeo时隔](../Page/少女時代-太蒂徐.md "wikilink")2年4個月，推出第二張迷你專輯《[Holler](https://zh.wikipedia.org/wiki/Holler "wikilink")》。
 
-2015年2月24日，蒂芬妮為[KBS2連續劇](../Page/KBS2.md "wikilink")《[Blood](../Page/Blood_\(電視劇\).md "wikilink")》演唱插入曲《Only
+2015年2月24日，蒂芬妮為[KBS2連續劇](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Blood](../Page/Blood_\(電視劇\).md "wikilink")》演唱插入曲《Only
 one》。8月1日，蒂芬妮為在生日PARTY上公開自創曲《BitterSweet &
 Crazy》，這首未發行曲為蒂芬妮首次公開親自作曲、填詞的英文歌。12月4日，[TaeTiSeo时隔](../Page/少女時代-太蒂徐.md "wikilink")1年3个月，推出圣诞特别专辑《[Dear
 Santa](../Page/Dear_Santa.md "wikilink")》。
@@ -68,12 +68,12 @@ Dance》\[16\]。6月10日，蒂芬妮在第一次個人演唱會Weekend上發�
 2017年10月9日，Tiffany不再與[SM娛樂續約](../Page/SM娛樂.md "wikilink")，正式離開SM娛樂，但不會退出少女時代，目前已返回美國求學及與家人團聚。
 
 2018年3月14日，以藝名Tiffany Young推出數碼單曲《[Remember
-Me](../Page/請記住我_\(皮克斯歌曲\).md "wikilink")》，翻唱[可可夜總會的歌曲](../Page/可可夜總會.md "wikilink")，在iTunes
-發行。\[17\]並於當日創立了個人的[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[微博及](../Page/微博.md "wikilink")[Youtube頻道](../Page/Youtube.md "wikilink")。
+Me](https://zh.wikipedia.org/wiki/請記住我_\(皮克斯歌曲\) "wikilink")》，翻唱[可可夜總會的歌曲](https://zh.wikipedia.org/wiki/可可夜總會 "wikilink")，在iTunes
+發行。\[17\]並於當日創立了個人的[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[微博及](../Page/微博.md "wikilink")[Youtube頻道](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 
 2018年6月13日，Tiffany正式簽約[Paradigm Talent
-Agency](../Page/:en:Paradigm_Talent_Agency.md "wikilink")， 成為[Ed
-Sheeran](../Page/紅髮艾德.md "wikilink")、[Jason
+Agency](https://zh.wikipedia.org/wiki/:en:Paradigm_Talent_Agency "wikilink")，
+成為[Ed Sheeran](../Page/紅髮艾德.md "wikilink")、[Jason
 Mraz的師妹](../Page/傑森·瑪耶茲.md "wikilink")。\[18\]8月移居到洛杉磯。
 
 2018年6月28日，Tiffany推出首支個人單曲《Over My Skin》，並參與作詞，在美國以個人歌手身份正式出道。
@@ -86,13 +86,13 @@ You》，並參與作曲和作詞；同時擔任[H\&M](../Page/H&M.md "wikilink"
 
 2019年2月22日，Tiffany在美國推出首張迷你專輯《Lips On Lips》，並參與作曲與作詞，其中更收錄了先前推出的單曲《Born
 Again》及《Lips On
-Lips》和三首新曲，該專輯在[iTunes的專輯總榜](../Page/iTunes.md "wikilink")、專輯Pop榜和K-Pop榜上皆有優越成績。專輯方面，在告示牌上拿下發燒專輯榜（Heatseekers
+Lips》和三首新曲，該專輯在[iTunes的專輯總榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")、專輯Pop榜和K-Pop榜上皆有優越成績。專輯方面，在告示牌上拿下發燒專輯榜（Heatseekers
 Albums Chart）第九名的好成績。爾後，「Lips On Lips」一星期之內在韓國獲得了白金唱片的殊榮。
 
 ## 爭議事件
 
-2016年8月15日，在[韓國](../Page/韓國.md "wikilink")[光復節當天](../Page/光复节_\(朝鲜半岛\).md "wikilink")，於[日本](../Page/日本.md "wikilink")[東京進行SMTOWN演唱會的蒂芬妮在Snapchat使用相似](../Page/東京.md "wikilink")「[日本軍旗](../Page/旭日旗.md "wikilink")」圖案的「TOKYO」表情符號和貼圖，引發大量[韓國網民批評與攻擊](../Page/韓國.md "wikilink")\[19\]\[20\]，但後來有人發現事件並不是在[光復節當天發生](../Page/光复节_\(朝鲜半岛\).md "wikilink")，引起粉絲們的不滿。不過有網民認為即使事件不在[光復節當天發生](../Page/光复节_\(朝鲜半岛\).md "wikilink")，蒂芬妮也不應該使用象徵[軍國主義的日本軍旗](../Page/軍國主義.md "wikilink")。網民要求蒂芬妮退出其有份主持的綜藝節目《[姐姐們的Slam
-Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》。其後，蒂芬妮在[instagram發表親筆道歉聲明和刪除有爭議圖片](../Page/instagram.md "wikilink")，但仍未能平息網民的不滿\[21\]。8月17日，韓國MBN主播김명준在新聞中諷刺蒂芬妮，其後更拒絕道歉\[22\]。8月18日，《[姐姐們的Slam
+2016年8月15日，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[光復節當天](../Page/光复节_\(朝鲜半岛\).md "wikilink")，於[日本](../Page/日本.md "wikilink")[東京進行SMTOWN演唱會的蒂芬妮在Snapchat使用相似](https://zh.wikipedia.org/wiki/東京 "wikilink")「[日本軍旗](../Page/旭日旗.md "wikilink")」圖案的「TOKYO」表情符號和貼圖，引發大量[韓國網民批評與攻擊](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[19\]\[20\]，但後來有人發現事件並不是在[光復節當天發生](../Page/光复节_\(朝鲜半岛\).md "wikilink")，引起粉絲們的不滿。不過有網民認為即使事件不在[光復節當天發生](../Page/光复节_\(朝鲜半岛\).md "wikilink")，蒂芬妮也不應該使用象徵[軍國主義的日本軍旗](https://zh.wikipedia.org/wiki/軍國主義 "wikilink")。網民要求蒂芬妮退出其有份主持的綜藝節目《[姐姐們的Slam
+Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》。其後，蒂芬妮在[instagram發表親筆道歉聲明和刪除有爭議圖片](https://zh.wikipedia.org/wiki/instagram "wikilink")，但仍未能平息網民的不滿\[21\]。8月17日，韓國MBN主播김명준在新聞中諷刺蒂芬妮，其後更拒絕道歉\[22\]。8月18日，《[姐姐們的Slam
 Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》製作組官方協商後的結果議定並公開聲明，此次爭端已對全體韓國國民情緒造成巨大影響，最終確認蒂芬妮將從《[姐姐們的Slam
 Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》節目中下車\[23\]；而其成為模特兒的夢想早已開始進行企劃，但隨著蒂芬妮從《[姐姐們的Slam
 Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》下車，此夢想被迫中止\[24\]。蒂芬妮也沒有跟SM
@@ -118,7 +118,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>首張英語數位混音單曲《<strong>I Just Wanna Dance (Kago Pengchi Remix)</strong>》</p>
 <ul>
 <li>發行日期：2016年5月23日</li>
-<li>唱片公司：<a href="../Page/SM_Entertainment.md" title="wikilink">SM Entertainment</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
 <li>發行公司：KT Music</li>
 <li>語言：英語</li>
 </ul></td>
@@ -129,7 +129,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>首張韓語數位單曲《<strong>Heartbreak Hotel</strong>》</p>
 <ul>
 <li>發行日期：2016年6月10日</li>
-<li>唱片公司：<a href="../Page/SM_Entertainment.md" title="wikilink">SM Entertainment</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
 <li>發行公司：KT Music</li>
 <li>語言：韓語</li>
 </ul></td>
@@ -230,7 +230,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>《<strong><a href="../Page/I_Just_Wanna_Dance.md" title="wikilink">I Just Wanna Dance</a></strong>》</p>
 <ul>
 <li>發行日期：2016年5月11日</li>
-<li>唱片公司：<a href="../Page/SM_Entertainment.md" title="wikilink">SM Entertainment</a></li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
 <li>發行公司：KT Music</li>
 <li>銷量：63,154+</li>
 <li>語言：韓語</li>
@@ -253,7 +253,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/Lips_On_Lips.md" title="wikilink">Lips On Lips</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lips_On_Lips" title="wikilink">Lips On Lips</a></strong>》</p>
 <ul>
 <li>發行日期：2019年3月15日</li>
 <li>唱片公司：Transparent Arts</li>
@@ -282,11 +282,11 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2013年1月1日</p></td>
 <td><p>Dancing Queen</p></td>
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td></td>
 <td></td>
-<td><p>正規四輯《<a href="../Page/I_GOT_A_BOY.md" title="wikilink">I GOT A BOY</a>》</p></td>
-<td><p>與Yoon Hyo-sang和<a href="../Page/鄭秀妍.md" title="wikilink">Jessica合作</a></p></td>
+<td><p>正規四輯《<a href="https://zh.wikipedia.org/wiki/I_GOT_A_BOY" title="wikilink">I GOT A BOY</a>》</p></td>
+<td><p>與Yoon Hyo-sang和<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica合作</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年8月1日</p></td>
@@ -311,7 +311,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>What Do I Do</p></td>
 <td></td>
 <td></td>
-<td><p>作詞為同為<a href="../Page/少女時代.md" title="wikilink">少女時代的</a><a href="../Page/崔秀榮.md" title="wikilink">秀英</a></p></td>
+<td><p>作詞為同為<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代的</a><a href="https://zh.wikipedia.org/wiki/崔秀榮" title="wikilink">秀英</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -357,7 +357,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td></td>
 <td></td>
 <td><p>Lips On Lips</p></td>
-<td><p>迷你專輯《<a href="../Page/Lips_On_Lips.md" title="wikilink">Lips On Lips</a>》收錄曲</p></td>
+<td><p>迷你專輯《<a href="https://zh.wikipedia.org/wiki/Lips_On_Lips" title="wikilink">Lips On Lips</a>》收錄曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -403,43 +403,43 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2007年11月22日</p></td>
 <td><p>Touch the Sky</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/尋找兒子三萬里.md" title="wikilink">尋找兒子三萬里</a>》</p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="../Page/尋找兒子三萬里.md" title="wikilink">尋找兒子三萬里</a>》</p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年1月28日</p></td>
 <td><p>小船</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/快刀洪吉童.md" title="wikilink">快刀洪吉童</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="../Page/快刀洪吉童.md" title="wikilink">快刀洪吉童</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2008年8月1日</p></td>
 <td><p>It's Fantastic</p></td>
-<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon網路線上遊戲</a>《<a href="../Page/瑪奇.md" title="wikilink">瑪奇</a>》</p></td>
-<td><p><a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon網路線上遊戲</a>《<a href="https://zh.wikipedia.org/wiki/瑪奇" title="wikilink">瑪奇</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年9月17日</p></td>
 <td><p>Day By Day</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a>《<a href="../Page/貝多芬病毒.md" title="wikilink">貝多芬病毒</a>》</p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="../Page/貝多芬病毒.md" title="wikilink">貝多芬病毒</a>》</p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年3月26日</p></td>
 <td><p>我一個人</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/自鳴鼓.md" title="wikilink">自鳴鼓</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="../Page/自鳴鼓.md" title="wikilink">自鳴鼓</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2009年9月30日</p></td>
 <td><p>Motion</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a>《<a href="../Page/向大地頭球.md" title="wikilink">向大地頭球</a>》</p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="../Page/向大地頭球.md" title="wikilink">向大地頭球</a>》</p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年8月9日</p></td>
 <td><p>我的朋友海治</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS卡通</a>《我的朋友海治》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS卡通</a>《我的朋友海治》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -451,25 +451,25 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2012年4月10日</p></td>
 <td><p>因為是你</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/愛情雨.md" title="wikilink">愛情雨</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="https://zh.wikipedia.org/wiki/愛情雨" title="wikilink">愛情雨</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年8月29日</p></td>
 <td><p>致美麗的你</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/致美麗的你.md" title="wikilink">致美麗的你</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="https://zh.wikipedia.org/wiki/致美麗的你" title="wikilink">致美麗的你</a>》</p></td>
 <td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年4月17日</p></td>
 <td><p>一步</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/我戀愛的一切.md" title="wikilink">我戀愛的一切</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="../Page/我戀愛的一切.md" title="wikilink">我戀愛的一切</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年2月24日</p></td>
 <td><p>Only one</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/Blood_(電視劇).md" title="wikilink">Blood</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="../Page/Blood_(電視劇).md" title="wikilink">Blood</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -489,19 +489,19 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2008年4月7日</p></td>
 <td><p>壞哥哥</p></td>
 <td><p>RoomMate音源單曲《壞哥哥》</p></td>
-<td><p><a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/徐玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/徐玄" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年4月18日</p></td>
 <td><p>抓起手</p></td>
 <td><p>2008 SBS 希望 TV24</p></td>
-<td><p><a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年5月8日</p></td>
 <td><p>Haptic Motion</p></td>
 <td><p>三星Anycall手機Haptic廣告歌</p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>秘密</p></td>
@@ -512,32 +512,32 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2009年3月31日</p></td>
 <td><p>少女遇見愛</p></td>
-<td><p><a href="../Page/K.Will.md" title="wikilink">K.Will迷你專輯</a>《淚眼汪汪》</p></td>
-<td><p><a href="../Page/K.Will.md" title="wikilink">K.Will</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will迷你專輯</a>《淚眼汪汪》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年5月14日</p></td>
 <td><p>只感覺到你</p></td>
 <td><p>The Blue單曲《The Blue, The First Memories》</p></td>
-<td><p>The Blue、<a href="../Page/崔秀英.md" title="wikilink">秀英</a></p></td>
+<td><p>The Blue、<a href="https://zh.wikipedia.org/wiki/崔秀英" title="wikilink">秀英</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年5月20日</p></td>
 <td><p>Cabi Song</p></td>
-<td><p>韓國水上樂園<a href="../Page/加勒比海灣.md" title="wikilink">加勒比海灣廣告歌</a></p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/鄭秀妍.md" title="wikilink">潔西卡</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="../Page/2PM.md" title="wikilink">2PM</a></p></td>
+<td><p>韓國水上樂園<a href="https://zh.wikipedia.org/wiki/加勒比海灣" title="wikilink">加勒比海灣廣告歌</a></p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">潔西卡</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年1月1日</p></td>
 <td><p>Lost in Love</p></td>
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代正規四輯</a>《<a href="../Page/I_Got_a_Boy.md" title="wikilink">I Got a Boy</a>》</p></td>
-<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>（<a href="../Page/少女時代.md" title="wikilink">少女時代</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代正規四輯</a>《<a href="../Page/I_Got_a_Boy.md" title="wikilink">I Got a Boy</a>》</p></td>
+<td><p><a href="../Page/太妍.md" title="wikilink">太妍</a>（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月29日</p></td>
 <td><p>You are a miracle</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS歌謠大戰</a> Friendship Project</p></td>
-<td><p><a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/俞利.md" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、其他歌手</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS歌謠大戰</a> Friendship Project</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/俞利.md" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、其他歌手</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年10月11日</p></td>
@@ -561,7 +561,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2016年6月30日</p></td>
 <td><p>Shut Up</p></td>
 <td><p>Sister's Slam Dunk 企劃歌</p></td>
-<td><p><a href="../Page/Unnies.md" title="wikilink">Unnies</a>、<a href="../Page/유희열.md" title="wikilink">유희열</a></p></td>
+<td><p><a href="../Page/Unnies.md" title="wikilink">Unnies</a>、<a href="https://zh.wikipedia.org/wiki/유희열" title="wikilink">유희열</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年10月21日</p></td>
@@ -572,7 +572,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <tr class="even">
 <td><p>2018年3月14日</p></td>
 <td><p>Remember Me</p></td>
-<td><p>翻唱自《<a href="../Page/可可夜總會.md" title="wikilink">可可夜總會</a>》原創歌曲《<a href="../Page/請記住我_(皮克斯歌曲).md" title="wikilink">請記住我</a>》</p></td>
+<td><p>翻唱自《<a href="https://zh.wikipedia.org/wiki/可可夜總會" title="wikilink">可可夜總會</a>》原創歌曲《<a href="https://zh.wikipedia.org/wiki/請記住我_(皮克斯歌曲)" title="wikilink">請記住我</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -580,7 +580,8 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ### 音樂劇
 
-  - 2011年 音樂劇《[名揚四海](../Page/名揚四海_\(音樂劇\).md "wikilink")》飾
+  - 2011年
+    音樂劇《[名揚四海](https://zh.wikipedia.org/wiki/名揚四海_\(音樂劇\) "wikilink")》飾
     卡門·迪亞茲（跟[銀赫](../Page/銀赫.md "wikilink")、[孫昊永](../Page/孫昊永.md "wikilink")、Lina共同演出）（2011年11月25日—2012年1月29日）
 
 ## 演唱會
@@ -613,7 +614,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="odd">
 <td><p>2018年9月23日</p></td>
-<td><p><a href="../Page/台北.md" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a></p></td>
 </tr>
 </tbody>
@@ -640,13 +641,13 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2019年3月3日</p></td>
-<td><p><a href="../Page/多倫多.md" title="wikilink">多倫多</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多" title="wikilink">多倫多</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年3月6日</p></td>
-<td><p><a href="../Page/紐約.md" title="wikilink">紐約</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -658,7 +659,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="odd">
 <td><p>2019年3月9日</p></td>
-<td><p><a href="../Page/明尼亞波利斯.md" title="wikilink">明尼亞波利斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼亞波利斯" title="wikilink">明尼亞波利斯</a></p></td>
 <td><p>AMSTERDAM HALL</p></td>
 <td></td>
 </tr>
@@ -676,19 +677,19 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2019年3月15日</p></td>
-<td><p><a href="../Page/舊金山.md" title="wikilink">舊金山</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/舊金山" title="wikilink">舊金山</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年3月16日</p></td>
-<td><p><a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月26日</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -738,23 +739,23 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ### 其他大型演唱會
 
-|            |                                          |                                        |                                          |
-| ---------- | ---------------------------------------- | -------------------------------------- | ---------------------------------------- |
-| 日期         | 演唱會名稱                                    | 城市                                     | 舉行地點                                     |
-| 2017年4月29日 | THE 15th KOREA TIMES MUSIC FESTIVAL 2017 | [加利福尼亞州](../Page/加利福尼亞州.md "wikilink") | [好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink") |
+|            |                                          |                                                           |                                          |
+| ---------- | ---------------------------------------- | --------------------------------------------------------- | ---------------------------------------- |
+| 日期         | 演唱會名稱                                    | 城市                                                        | 舉行地點                                     |
+| 2017年4月29日 | THE 15th KOREA TIMES MUSIC FESTIVAL 2017 | [加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink") | [好萊塢露天劇場](../Page/好萊塢露天劇場.md "wikilink") |
 
 ## 廣播電台
 
 ### 固定演出
 
-|                       |                                            |                                                                      |    |
-| --------------------- | ------------------------------------------ | -------------------------------------------------------------------- | -- |
-| 放送日期                  | 放送局                                        | 節目名稱                                                                 | 備註 |
-| DJ                    |                                            |                                                                      |    |
-| 2007年12月7日－2008年3月28日 | [MBC FM4U](../Page/MBC_FM4U.md "wikilink") | [強仁](../Page/強仁.md "wikilink")，[趙貞麟的親朋密友](../Page/趙貞麟.md "wikilink") |    |
-| 代班DJ                  |                                            |                                                                      |    |
-| 2013年1月16日            | [MBC標準FM](../Page/MBC标准FM.md "wikilink")   | [神童的深深打破](../Page/神童_\(藝人\).md "wikilink")                           |    |
-|                       |                                            |                                                                      |    |
+|                       |                                                               |                                                                                         |    |
+| --------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -- |
+| 放送日期                  | 放送局                                                           | 節目名稱                                                                                    | 備註 |
+| DJ                    |                                                               |                                                                                         |    |
+| 2007年12月7日－2008年3月28日 | [MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") | [強仁](../Page/強仁.md "wikilink")，[趙貞麟的親朋密友](https://zh.wikipedia.org/wiki/趙貞麟 "wikilink") |    |
+| 代班DJ                  |                                                               |                                                                                         |    |
+| 2013年1月16日            | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")   | [神童的深深打破](../Page/神童_\(藝人\).md "wikilink")                                              |    |
+|                       |                                                               |                                                                                         |    |
 
 ### 嘉賓出演
 
@@ -768,7 +769,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2015年5月26日</p></td>
-<td><p><a href="../Page/MBC_FM4U.md" title="wikilink">MBC FM4U</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td><p>Sunny的FM Date</p></td>
 <td></td>
 </tr>
@@ -822,7 +823,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="odd">
 <td><p>2019年3月29日</p></td>
-<td><p><a href="../Page/MBC_FM4U.md" title="wikilink">MBC FM4U</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td><p>裴哲秀的音樂Camp</p></td>
 <td></td>
 </tr>
@@ -839,11 +840,11 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ### 擔任嘉賓
 
-|                    |                                             |                                                        |                                                                                                                                                                         |
-| ------------------ | ------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日期                 | 電視台/平台                                      | 節目名稱                                                   | 合作藝人                                                                                                                                                                    |
-| 2015年2月13日、14日、20日 | [LINE](../Page/LINE_\(應用程式\).md "wikilink") | 《TV SurpLINEs》－少女時代篇                                   | [孝淵](../Page/孝淵.md "wikilink")、[Yuri](../Page/俞利.md "wikilink")                                                                                                         |
-| 2016年4月8日－8月15日    | [KBS 2](../Page/KBS第2頻道.md "wikilink")      | 《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》 | [羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink") 、[洪真慶](../Page/洪真慶.md "wikilink")、[閔孝琳](../Page/閔孝琳.md "wikilink")、[Jessi](../Page/Jessi.md "wikilink") |
+|                    |                                                                |                                                        |                                                                                                                                                                                                               |
+| ------------------ | -------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期                 | 電視台/平台                                                         | 節目名稱                                                   | 合作藝人                                                                                                                                                                                                          |
+| 2015年2月13日、14日、20日 | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | 《TV SurpLINEs》－少女時代篇                                   | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[Yuri](../Page/俞利.md "wikilink")                                                                                                                            |
+| 2016年4月8日－8月15日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | 《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》 | [羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink") 、[洪真慶](../Page/洪真慶.md "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink") |
 
 ### 節目主持
 
@@ -857,7 +858,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2007年10月22－24日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>Bling Bling Pop</p></td>
 <td></td>
 </tr>
@@ -869,13 +870,13 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2009年1月31日</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/金孝淵.md" title="wikilink">孝淵</a>、<a href="../Page/崔秀榮.md" title="wikilink">秀英</a>、<a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<a href="https://zh.wikipedia.org/wiki/崔秀榮" title="wikilink">秀英</a>、<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年4月4日-2010年7月31日</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>[26]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -899,21 +900,21 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="odd">
 <td><p>2012年2月11日-2013年4月13日</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年3月8日</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年4月24日－08月28日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>Heart A Tag</p></td>
-<td><p><a href="../Page/李哲宇.md" title="wikilink">李哲宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李哲宇" title="wikilink">李哲宇</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -930,7 +931,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2007年11月5日-2008年6月13日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>少男少女歌謠百首</p></td>
 <td><p><a href="../Page/金彗星.md" title="wikilink">金彗星</a></p></td>
 </tr>
@@ -938,13 +939,13 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 <td><p>2008年10月25日</p></td>
 <td><p><a href="../Page/YTN.md" title="wikilink">YTN star</a></p></td>
 <td><p>Y-Star Live Power Music</p></td>
-<td><p><a href="../Page/鄭秀妍.md" title="wikilink">Jessica</a>、<a href="../Page/李純揆.md" title="wikilink">Sunny</a>、<a href="../Page/金孝淵.md" title="wikilink">孝淵</a>、<a href="../Page/崔秀榮.md" title="wikilink">秀英</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">Sunny</a>、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<a href="https://zh.wikipedia.org/wiki/崔秀榮" title="wikilink">秀英</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年9月5日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Korea Music Wave in Incheon 2009</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年8月29日</p></td>
@@ -954,44 +955,44 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2010年12月31日</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC歌謠大祭典</a></p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/柳時元.md" title="wikilink">柳時元</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC歌謠大祭典</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="../Page/柳時元.md" title="wikilink">柳時元</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年3月12日</p></td>
 <td><p>Korea Music Wave in Bangkok 2011</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2011年8月20日</p></td>
 <td><p>K-POP All Star Live in Niigata 2011</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a>、<a href="../Page/崔秀榮.md" title="wikilink">秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="https://zh.wikipedia.org/wiki/崔秀榮" title="wikilink">秀英</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年11月12日</p></td>
 <td><p>K-POP Music Festival in Sydney</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012年4月7日</p></td>
 <td><p>Korea Music Wave in Bangkok 2012</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年5月20日</p></td>
 <td><p>泰國韓流演唱會</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/利特.md" title="wikilink">利特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="../Page/利特.md" title="wikilink">利特</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012年5月21日</p></td>
 <td><p>Korean Music Wave in Google</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1002,50 +1003,50 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2012年11月29日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>MBC K-pop Festival 2012 in Vietnam</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年9月1日</p></td>
 <td><p>Korean Music Wave in Incheon 2013</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年1月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>第二十八屆 Golden Disk Awards</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月10日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p>KCON 2014 <a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p>KCON 2014 <a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年10月25日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Korean Music Wave in Beijing</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年1月15日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>第二十九屆 Golden Disk Awards</p></td>
-<td><p><a href="../Page/全炫茂.md" title="wikilink">全炫茂</a>、<a href="../Page/利特.md" title="wikilink">利特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/利特.md" title="wikilink">利特</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年9月5日、12日</p></td>
 <td></td>
 <td><p>2015 MBC DMC Festival</p></td>
-<td><p><a href="../Page/權俞利.md" title="wikilink">俞利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月31日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p>KCON 2016 <a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p>KCON 2016 <a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1059,56 +1060,59 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ## 廣告代言
 
-**註：以母團身分代言的部分詳見[少女時代](../Page/少女時代.md "wikilink")**
+**註：以母團身分代言的部分詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
   - 2008年
-    《[瑪奇Mabinogi](../Page/瑪奇.md "wikilink")》[Nexon公司網路線上遊戲](../Page/Nexon.md "wikilink")
-  - 2009年 《1682 Collect call》[SK](../Page/SK集團.md "wikilink") telink
+    《[瑪奇Mabinogi](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")》[Nexon公司網路線上遊戲](../Page/Nexon.md "wikilink")
+  - 2009年 《1682 Collect
+    call》[SK](https://zh.wikipedia.org/wiki/SK集團 "wikilink")
+    telink
   - 2009年 《A-solution》化妝品
   - 2009年
-    《POST穀物雜糧》（與[太妍](../Page/金泰耎.md "wikilink")、[珊妮](../Page/李純揆.md "wikilink")、[秀英](../Page/崔秀榮.md "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")）
+    《POST穀物雜糧》（與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")）
   - 2010年
-    《[碧歐泉](../Page/碧歐泉.md "wikilink")》化妝品（與[俞利](../Page/權俞利.md "wikilink")、[秀英](../Page/崔秀榮.md "wikilink")）
+    《[碧歐泉](https://zh.wikipedia.org/wiki/碧歐泉 "wikilink")》化妝品（與[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")）
   - 2011年 《DIOR
-    Snow系》化妝品（與[潔西卡](../Page/鄭秀妍.md "wikilink")、[珊妮](../Page/李純揆.md "wikilink")、[孝淵](../Page/金孝淵.md "wikilink")、[俞利](../Page/權俞利.md "wikilink")、[秀英](../Page/崔秀榮.md "wikilink")）
-  - 2012年 《12 Plus 香水》（與[始源](../Page/始源.md "wikilink")）
+    Snow系》化妝品（與[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")）
+  - 2012年 《12 Plus
+    香水》（與[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")）
   - 2012年 《Bean Pole》手袋
   - 2013年 《QUA》服裝
   - 2015年 《MIXXO》服裝
-    （與[太妍](../Page/金泰耎.md "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")）
+    （與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")）
   - 2013-2016年 《IPKN》化妝品
   - 2018年 《H\&M》2018秋季Divided系列Music Campaign
-  - 2019年 《[Dior](../Page/Dior.md "wikilink")》超完美底妝 (Forever
-    Foundation)大使
+  - 2019年 《[Dior](https://zh.wikipedia.org/wiki/Dior "wikilink")》超完美底妝
+    (Forever Foundation)大使
 
 ### 宣傳大使
 
   - 2012年12月17日《全球希望》宣傳大使\[27\]
   - 2013年7月28日《韓國Week
-    Promo－韓國觀光》宣傳大使（與[太妍](../Page/金泰耎.md "wikilink")、[珊妮](../Page/李純揆.md "wikilink")）
+    Promo－韓國觀光》宣傳大使（與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")）
 
 ## 雜誌寫真
 
-**註：與母團共同的雜誌寫真詳見[少女時代](../Page/少女時代.md "wikilink")**
+**註：與母團共同的雜誌寫真詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
-|                                                 |                                                 |                                             |        |
-| ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------- | ------ |
-| **年份**                                          | **期數**                                          | **雜誌名稱**                                    | **備註** |
-| 2015年                                           | 12月刊                                            | 《BEAUTY+》                                   | 封面     |
-| 《[Marie Claire](../Page/美麗佳人.md "wikilink") HK》 | 雙封面                                             |                                             |        |
-| 2016年                                           | 4月刊                                             | 《品Prestige》                                 | 封面     |
-| 2017年                                           | 1月刊                                             | 《NUYOU Singapore》                           | 封面     |
-| 3月刊                                             | 《[Marie Claire](../Page/美麗佳人.md "wikilink") HK》 | 封面                                          |        |
-| Vol.133                                         | 《1st Look》                                      | 寫真                                          |        |
-| 10月刊                                            | 《BEAUTY+》                                       | 封面                                          |        |
-| 12月刊                                            | 《Ceci Korea》                                    | 封面                                          |        |
-| 2018年                                           | 8月刊                                             | 《BAZAAR Vietnam》                            | 封面     |
-| 寫真                                              | 《GRAZIA》                                        | 與[H\&M合作](../Page/H&M.md "wikilink")        |        |
-| Digital Cover                                   | 《Paper Magazine》                                | 封面                                          |        |
-| 12月刊                                            | 《[ELLE](../Page/ELLE.md "wikilink") HongKong》   | 封面                                          |        |
-| 2019年                                           | 3月刊                                             | 《[ELLE](../Page/ELLE.md "wikilink") Taiwan》 | 封面     |
-| Spring 2019                                     | 《GLASS》                                         | 封面                                          |        |
-| Music Issue                                     | 《Galore》                                        | 封面                                          |        |
+|                                                                    |                                                                    |                                             |        |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------- | ------ |
+| **年份**                                                             | **期數**                                                             | **雜誌名稱**                                    | **備註** |
+| 2015年                                                              | 12月刊                                                               | 《BEAUTY+》                                   | 封面     |
+| 《[Marie Claire](https://zh.wikipedia.org/wiki/美麗佳人 "wikilink") HK》 | 雙封面                                                                |                                             |        |
+| 2016年                                                              | 4月刊                                                                | 《品Prestige》                                 | 封面     |
+| 2017年                                                              | 1月刊                                                                | 《NUYOU Singapore》                           | 封面     |
+| 3月刊                                                                | 《[Marie Claire](https://zh.wikipedia.org/wiki/美麗佳人 "wikilink") HK》 | 封面                                          |        |
+| Vol.133                                                            | 《1st Look》                                                         | 寫真                                          |        |
+| 10月刊                                                               | 《BEAUTY+》                                                          | 封面                                          |        |
+| 12月刊                                                               | 《Ceci Korea》                                                       | 封面                                          |        |
+| 2018年                                                              | 8月刊                                                                | 《BAZAAR Vietnam》                            | 封面     |
+| 寫真                                                                 | 《GRAZIA》                                                           | 與[H\&M合作](../Page/H&M.md "wikilink")        |        |
+| Digital Cover                                                      | 《Paper Magazine》                                                   | 封面                                          |        |
+| 12月刊                                                               | 《[ELLE](../Page/ELLE.md "wikilink") HongKong》                      | 封面                                          |        |
+| 2019年                                                              | 3月刊                                                                | 《[ELLE](../Page/ELLE.md "wikilink") Taiwan》 | 封面     |
+| Spring 2019                                                        | 《GLASS》                                                            | 封面                                          |        |
+| Music Issue                                                        | 《Galore》                                                           | 封面                                          |        |
 
 ## 獎項
 
@@ -1134,21 +1138,21 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
-<td><p><a href="../Page/Mnet_Asian_Music_Awards.md" title="wikilink">Mnet Asian Music Awards</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">Mnet Asian Music Awards</a></p></td>
 <td><p>OST賞 [28]</p></td>
 <td><p>〈By Myself〉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/MBC放送演藝大賞.md" title="wikilink">MBC放送演藝大賞</a></p></td>
-<td><p>MC部門－特別獎（與<a href="../Page/權俞利.md" title="wikilink">Yuri</a>） [29]</p></td>
-<td><p>《<a href="../Page/Show!_音樂中心.md" title="wikilink">Show! 音樂中心</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC放送演藝大賞" title="wikilink">MBC放送演藝大賞</a></p></td>
+<td><p>MC部門－特別獎（與<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a>） [29]</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/首爾國際電視劇大賞.md" title="wikilink">首爾國際電視劇大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾國際電視劇大賞" title="wikilink">首爾國際電視劇大賞</a></p></td>
 <td><p>韓流劇集OST賞 [30]</p></td>
 <td><p>〈一步〉</p></td>
 <td></td>

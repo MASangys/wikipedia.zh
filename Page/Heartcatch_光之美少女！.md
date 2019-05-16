@@ -1,12 +1,12 @@
 《**Heartcatch
-光之美少女！**》（），是由[東堂泉](../Page/東堂泉.md "wikilink")（）所創作的[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第七季作品，屬第五代光之美少女。於2010年2月7日起於ABC、朝日電視台播出。海外方面，[台灣與](../Page/台灣.md "wikilink")[香港則以](../Page/香港.md "wikilink")「**甜蜜天使**」的名義代理，分別於2012年5月25日與2013年1月8日播出。
+光之美少女！**》（），是由[東堂泉](../Page/東堂泉.md "wikilink")（）所創作的[魔法少女動畫作品](../Page/魔法少女.md "wikilink")，為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第七季作品，屬第五代光之美少女。於2010年2月7日起於ABC、朝日電視台播出。海外方面，[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港則以](../Page/香港.md "wikilink")「**甜蜜天使**」的名義代理，分別於2012年5月25日與2013年1月8日播出。
 
 ## 概要
 
 此作回復到初代作的雙人光之美少女組合，同時也加入了許多前所未有的新要素。
 
-此作人物設定是由曾經為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》及《[再造人卡辛](../Page/再造人卡辛.md "wikilink")》設計人物的[馬越嘉彥](../Page/馬越嘉彥.md "wikilink")，比起從前雖然較少線條，不過表情豐富且武打也相當動感。故事則從主角的內心著墨，並加入了自卑感這點。系列編劇由曾經創作多部少女作品的[山田隆司負責](../Page/山田隆司.md "wikilink")。此作的監督是曾經為《[Yes\!
-光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》系列中兩套電影版執導的[長峰達也](../Page/長峰達也.md "wikilink")，上述三者皆為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》時的製作人員。而音樂方面繼續由前作的[高梨康治擔任](../Page/高梨康治.md "wikilink")。
+此作人物設定是由曾經為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》及《[再造人卡辛](../Page/再造人卡辛.md "wikilink")》設計人物的[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")，比起從前雖然較少線條，不過表情豐富且武打也相當動感。故事則從主角的內心著墨，並加入了自卑感這點。系列編劇由曾經創作多部少女作品的[山田隆司負責](https://zh.wikipedia.org/wiki/山田隆司 "wikilink")。此作的監督是曾經為《[Yes\!
+光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》系列中兩套電影版執導的[長峰達也](https://zh.wikipedia.org/wiki/長峰達也 "wikilink")，上述三者皆為《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》時的製作人員。而音樂方面繼續由前作的[高梨康治擔任](../Page/高梨康治.md "wikilink")。
 
 本作的第8話是整個光之美少女系列的第300話。
 
@@ -22,9 +22,9 @@
 
   -
 
-    雙子座，本作主角之一，14歲，從[鎌倉轉學至私立明堂學園國中部的二年二班](../Page/鎌倉.md "wikilink")。個性含蓄，非常喜歡花。和父母親及祖母經營「花咲花店」。起初只打算加入學校園藝社，但因為繪里香改造她的造型，也解開了她內向的性格，而被說服同時加入時尚社擔任副社長。夢想是當[植物學家](../Page/植物學.md "wikilink")，把全世界的沙漠變成花園。擅長[花語](../Page/花語.md "wikilink")、[諺語和](../Page/諺語.md "wikilink")[古文](../Page/古文.md "wikilink")。
+    雙子座，本作主角之一，14歲，從[鎌倉轉學至私立明堂學園國中部的二年二班](https://zh.wikipedia.org/wiki/鎌倉 "wikilink")。個性含蓄，非常喜歡花。和父母親及祖母經營「花咲花店」。起初只打算加入學校園藝社，但因為繪里香改造她的造型，也解開了她內向的性格，而被說服同時加入時尚社擔任副社長。夢想是當[植物學家](https://zh.wikipedia.org/wiki/植物學 "wikilink")，把全世界的沙漠變成花園。擅長[花語](https://zh.wikipedia.org/wiki/花語 "wikilink")、[諺語和](https://zh.wikipedia.org/wiki/諺語 "wikilink")[古文](https://zh.wikipedia.org/wiki/古文 "wikilink")。
 
-    看到繪里香的心靈已被莎索莉娜奪走，所以挺起勇氣借助希普蕾得到光之種子，變身成花蕾天使。代表花為「[櫻花](../Page/櫻花.md "wikilink")」。
+    看到繪里香的心靈已被莎索莉娜奪走，所以挺起勇氣借助希普蕾得到光之種子，變身成花蕾天使。代表花為「[櫻花](https://zh.wikipedia.org/wiki/櫻花 "wikilink")」。
 
     變身咒語為「甜蜜天使 敞開心靈（Precure Open My Heart）」\[1\]
 
@@ -85,7 +85,7 @@
     牡羊座，本作主角之一，14歲，私立明堂學園國中部二年二班的學生。個性活潑，愛多管閒事，非常喜歡時裝。和父、母親及姊姊經營名為「精靈淚滴（Fairy
     Drop）」的流行服飾店，緊鄰花咲家的鄰居。因喜歡追求流行，所以在校內成立時尚社，前幾集裡都可以看到她和蕾在招募部員。過去的夢想是當模特兒，但對姐姐早一步實現夢想與優秀感到自卑，但自從與蕾相遇，開始決定成為使女性更漂亮的造型設計師。
 
-    想要與蕾一樣保護大家心靈的意志，所以借助可芙蕾得到光之種子，變身成海洋天使。代表花為「[水色雛菊](../Page/雛菊.md "wikilink")」，心靈之花為「[白色仙客來](../Page/仙客來.md "wikilink")」。
+    想要與蕾一樣保護大家心靈的意志，所以借助可芙蕾得到光之種子，變身成海洋天使。代表花為「[水色雛菊](../Page/雛菊.md "wikilink")」，心靈之花為「[白色仙客來](https://zh.wikipedia.org/wiki/仙客來 "wikilink")」。
 
     變身咒語為「甜蜜天使 敞開心靈（Precure Open My Heart）」\[3\]
 
@@ -197,7 +197,7 @@
 
     金牛座，本作主角之一，17歲，私立明堂學園高中部二年級，是桃香同班的摯友，幫忙其工作缺席時的上課筆記。成績在全學年名列前茅，性格冷僻。父親於三年前去尋找心之大樹而失蹤至今。
 
-    故事開始時為了保護心之大樹而與暗之美少女（黑暗天使）戰鬥，不幸戰敗。由於她孤注一擲，所以心之大樹並未枯萎。因為搭檔的妖精在過去戰鬥中消亡，無法重複給予變身用的光之種子，加上僅存的光之種子在戰鬥中破碎導致她無法變身。未變身時已有高強的戰鬥能力，光之種子的碎片也能夠暫時產生防護罩。由於戰鬥造成的心理傷害，一度對新生的光之美少女們態度消極、不願參戰協助。後藉由心之大樹與心靈之壺的力量，成功修復變身種子復出。最後在第48話中打敗暗之美少女後拿回另一半變身種子並將其完全修復，不過在劇場版中種子依然藉由心之大樹與心靈之壺的力量修復。代表花為「[玫瑰](../Page/玫瑰.md "wikilink")」，心靈之花為「[百合](../Page/百合.md "wikilink")」。
+    故事開始時為了保護心之大樹而與暗之美少女（黑暗天使）戰鬥，不幸戰敗。由於她孤注一擲，所以心之大樹並未枯萎。因為搭檔的妖精在過去戰鬥中消亡，無法重複給予變身用的光之種子，加上僅存的光之種子在戰鬥中破碎導致她無法變身。未變身時已有高強的戰鬥能力，光之種子的碎片也能夠暫時產生防護罩。由於戰鬥造成的心理傷害，一度對新生的光之美少女們態度消極、不願參戰協助。後藉由心之大樹與心靈之壺的力量，成功修復變身種子復出。最後在第48話中打敗暗之美少女後拿回另一半變身種子並將其完全修復，不過在劇場版中種子依然藉由心之大樹與心靈之壺的力量修復。代表花為「[玫瑰](../Page/玫瑰.md "wikilink")」，心靈之花為「[百合](https://zh.wikipedia.org/wiki/百合 "wikilink")」。
 
     是薩巴酷博士的亲生女儿。在薩巴酷博士为了保护月影丧命于杜恩的能量弹下，曾一度放弃过，最后在蕾的鼓励下，恢复以往的个性。
 
@@ -310,7 +310,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
     心之大樹的精靈，選蕾為夥伴，蕾可從她得到「光之種子」變身成花蕾天使。性格較內向禮貌，像姐姐般勸戒着蕾。可在花蕾天使肩上變成可以飛翔的披風。語尾習慣說「！」。
 
-    其名字源自于法語“西普香水”（一種可能原产於[塞浦路斯的](../Page/塞浦路斯.md "wikilink")[香水](../Page/香水.md "wikilink")）。
+    其名字源自于法語“西普香水”（一種可能原产於[塞浦路斯的](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")[香水](../Page/香水.md "wikilink")）。
 
 <!-- end list -->
 
@@ -337,7 +337,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
     心之大樹的精靈，選百合為夥伴。原先百合從他得到「光之種子」變身成月光天使，但在戰鬥中為保護月光天使而不幸滅亡，靈魂長存於心之大樹守護着百合。雖然如此月光天使依然可以自行在其肩上變出可以飛翔的披風。
 
-    其名字源自于法語“[古龍水](../Page/古龍水.md "wikilink")”（一種男士用[香水](../Page/香水.md "wikilink")）。
+    其名字源自于法語“[古龍水](https://zh.wikipedia.org/wiki/古龍水 "wikilink")”（一種男士用[香水](../Page/香水.md "wikilink")）。
 
 <!-- end list -->
 
@@ -362,7 +362,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
     本作主要反派，沙漠使徒的首領，外表看起來像個弱不禁風的少年，但實際上是心狠手辣、喜歡挑釁別人的來自外星的不明支配者，向薩巴酷發出命令。曾經和花朵天使對戰最後敗北。奪回力量後，親手把心之大樹枯萎，並把大量沙漠惡魔發射向地球。最後被光之美少女們以無限幻影（Infinity
     Silhouette）淨化之後對著花咲蕾露出笑容後死去
 
-    後來在[STMM中被索爾希埃爾的魔力以青年型態復活](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")，最終與梅比斯一起現身並自爆。
+    後來在[STMM中被索爾希埃爾的魔力以青年型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，最終與梅比斯一起現身並自爆。
 
     杜恩原意為英文「沙丘（Dune）」
 
@@ -401,7 +401,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
   -
 
     於劇場版登場。
-    另見[電影版：超級時尚秀在花之都...真的嗎！？](../Page/Heartcatch_光之美少女！#劇場版.md "wikilink")
+    另見[電影版：超級時尚秀在花之都...真的嗎！？](https://zh.wikipedia.org/wiki/Heartcatch_光之美少女！#劇場版 "wikilink")
 
 #### 三幹部
 
@@ -411,7 +411,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
     最後於第40話被全體光之美少女以「光之美少女 撼心交響曲」淨化擊敗，并於第49話中重生成為一名幼兒園老師，出現在第41話中的幼稚園裏面。
 
-    名稱源自於日文「[蝎子](../Page/蝎子.md "wikilink")」。
+    名稱源自於日文「[蝎子](https://zh.wikipedia.org/wiki/蝎子 "wikilink")」。
 
 <!-- end list -->
 
@@ -427,7 +427,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
   -
 
-    三幹部之一，常自我陶醉，認為自己是宇宙第一美男子，喜好於常人面前展現自己的魅力，總是喜歡在說話時突然插入外語詞彙與句子（主要是[法語](../Page/法語.md "wikilink")，但也有一些是[英語](../Page/英語.md "wikilink")）。心靈之花是[玫瑰](../Page/玫瑰.md "wikilink")。
+    三幹部之一，常自我陶醉，認為自己是宇宙第一美男子，喜好於常人面前展現自己的魅力，總是喜歡在說話時突然插入外語詞彙與句子（主要是[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")，但也有一些是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")）。心靈之花是[玫瑰](../Page/玫瑰.md "wikilink")。
 
     最後於第46話被陽光天使以「光之美少女 黃金強力爆發」淨化擊敗，并於第49話中重生成為一名裁縫。
 
@@ -467,7 +467,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
     67歲，蕾的奶奶，舊姓五代。非常有名的植物學家，現為植物園園長。過去是傳說中最強的戰士──花朵天使（Cure
     Flower），因此知道主角們是光之美少女。曾經藉著奇蹟的力量變身成花朵天使幫助主角等人。她所佩帶的紅寶石頸鍊保存了沙漠之王杜恩過去被封印的力量，然而後來卻被他破碎而奪回力量。體魄強健，有日本空手道史上最年輕冠軍的紀錄。
 
-    為了達成小女孩的心願且保護她，所以用紅寶石頸鍊與可貝合作，再次變身成花朵天使，代表花為「[蓮花](../Page/蓮花.md "wikilink")」，變身口號為「在神聖光輝中閃耀的一朵花，花朵天使！」\[9\]。
+    為了達成小女孩的心願且保護她，所以用紅寶石頸鍊與可貝合作，再次變身成花朵天使，代表花為「[蓮花](https://zh.wikipedia.org/wiki/蓮花 "wikilink")」，變身口號為「在神聖光輝中閃耀的一朵花，花朵天使！」\[9\]。
 
       - 一般技
 
@@ -834,9 +834,9 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td></td>
 <td><p>我要改變！我要煥然一新！！</p></td>
 <td><p>我要改變！我要努力嘗試！！</p></td>
-<td><p><a href="../Page/山田隆司.md" title="wikilink">栗山綠</a></p></td>
-<td><p><a href="../Page/長峯達也.md" title="wikilink">長峯達也</a></p></td>
-<td><p><a href="../Page/馬越嘉彥.md" title="wikilink">馬越嘉彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田隆司" title="wikilink">栗山綠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長峯達也" title="wikilink">長峯達也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬越嘉彥" title="wikilink">馬越嘉彥</a></p></td>
 <td><p>增田龍太郎</p></td>
 <td><p><strong>2010年</strong><br />
 2月7日</p></td>
@@ -872,9 +872,9 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td></td>
 <td><p>甜蜜天使雙人組這麼快就要解散了嗎？</p></td>
 <td><p>Precure組合這麼快就解散？</p></td>
-<td><p><a href="../Page/米村正二.md" title="wikilink">米村正二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米村正二" title="wikilink">米村正二</a></p></td>
 <td><p>川田武範</p></td>
-<td><p><a href="../Page/川村敏江.md" title="wikilink">川村敏江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川村敏江" title="wikilink">川村敏江</a></p></td>
 <td><p>須和田真</p></td>
 <td><p>2月28日</p></td>
 <td><p>1月16日</p></td>
@@ -884,7 +884,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td></td>
 <td><p>被拒絕的拉麵！修復親子間的羈絆！</p></td>
 <td><p>被拒絕的拉麵！修好父子情！</p></td>
-<td><p><a href="../Page/成田良美.md" title="wikilink">成田良美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
 <td><p>畑野森生</p></td>
 <td><p>奧山美佳</p></td>
 <td><p>井芹達朗</p></td>
@@ -896,8 +896,8 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td></td>
 <td><p>獨家頭條！甜蜜天使的真實身分曝光了！？</p></td>
 <td><p>聚焦！Precure真正身分要敗露！？</p></td>
-<td><p><a href="../Page/伊藤睦美.md" title="wikilink">伊藤睦美</a></p></td>
-<td><p><a href="../Page/勝間田具治.md" title="wikilink">勝間田具治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤睦美" title="wikilink">伊藤睦美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勝間田具治" title="wikilink">勝間田具治</a></p></td>
 <td><p>河野宏之</p></td>
 <td><p>佐藤千惠</p></td>
 <td><p>3月14日</p></td>
@@ -910,7 +910,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>萬人迷學生會會長！難以隱藏少女心！！</p></td>
 <td><p>栗山綠</p></td>
 <td><p>小川孝治</p></td>
-<td><p><a href="../Page/為我井克美.md" title="wikilink">為我井克美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/為我井克美" title="wikilink">為我井克美</a></p></td>
 <td><p>增田龍太郎</p></td>
 <td><p>3月21日</p></td>
 <td><p>1月29日</p></td>
@@ -921,7 +921,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>超人氣模特兒的嘆息！是為了什麼呢？</p></td>
 <td><p>當紅模特兒嘆息！為甚麼？</p></td>
 <td><p><a href="../Page/井上美緒.md" title="wikilink">井上美緒</a></p></td>
-<td><p><a href="../Page/志水淳兒.md" title="wikilink">志水淳兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志水淳兒" title="wikilink">志水淳兒</a></p></td>
 <td><p>ポール・アンニョヌエボ<br />
 フランシス・カネダ</p></td>
 <td><p>3月28日</p></td>
@@ -1045,8 +1045,8 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>最強傳說！番長出場，多多指教！！</p></td>
 <td><p>米村正二</p></td>
 <td><p>地岡公俊<br />
-<a href="../Page/中尾幸彥.md" title="wikilink">中尾幸彥</a></p></td>
-<td><p><a href="../Page/青山充.md" title="wikilink">青山充</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/中尾幸彥" title="wikilink">中尾幸彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青山充" title="wikilink">青山充</a></p></td>
 <td><p>增田龍太郎</p></td>
 <td><p>6月6日</p></td>
 <td><p>3月12日</p></td>
@@ -1057,7 +1057,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 <td><p>含淚嫁女兒！父親節的紀念照片！！</p></td>
 <td><p>難過的新娘！父親節的留影！！</p></td>
 <td><p>伊藤睦美</p></td>
-<td><p><a href="../Page/大塚隆史.md" title="wikilink">大塚隆史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大塚隆史" title="wikilink">大塚隆史</a></p></td>
 <td><p>奧山美佳</p></td>
 <td><p>倉本章</p></td>
 <td><p>6月20日</p></td>
@@ -1448,15 +1448,15 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
   - 製作人：吉田健一郎（ABC）、鶴崎（ADK）、梅澤淳稔
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
   - 連載：講談社《》（漫画：[上北雙子](../Page/上北雙子.md "wikilink")）
-  - 系列導演：[長峯達也](../Page/長峯達也.md "wikilink")
-  - 系列構成：[山田隆司](../Page/山田隆司.md "wikilink")
-  - 人物設計：[馬越嘉彥](../Page/馬越嘉彥.md "wikilink")
+  - 系列導演：[長峯達也](https://zh.wikipedia.org/wiki/長峯達也 "wikilink")
+  - 系列構成：[山田隆司](https://zh.wikipedia.org/wiki/山田隆司 "wikilink")
+  - 人物設計：[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")
   - 音樂：高梨康治
   - 製作擔當：額賀康彥
   - 美術設計：增田龍太郎
   - 彩色設計：佐久間子
   - 制作協力：[東映](../Page/東映.md "wikilink")
-  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](../Page/ADK.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 主題曲
 
@@ -1467,7 +1467,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
   -
 
       -
-        作詞：六ツ見純代、作曲：高取秀明、編曲：籠島裕昌、歌：[池田彩](../Page/池田彩.md "wikilink")
+        作詞：六ツ見純代、作曲：高取秀明、編曲：籠島裕昌、歌：[池田彩](https://zh.wikipedia.org/wiki/池田彩 "wikilink")
         第5話至第7話片頭曲有使用到「光之美少女 All Stars DX2 希望之光☆守護彩虹寶石！」的部分畫面。
         第37話至第41話片頭曲有使用到「電影 光之美少女：甜蜜天使！：花之都時尚大作戰！」的部分畫面。
 
@@ -1477,7 +1477,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
 :;「」（第1話～第24話）
 
-::作詞：六ツ見純代、作曲：marhy、編曲：久保田光太郎、歌：[工藤真由](../Page/工藤真由.md "wikilink")
+::作詞：六ツ見純代、作曲：marhy、編曲：久保田光太郎、歌：[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")
 
 :;「Tomorrow Song 〜〜」（第25話～第49話）
 
@@ -1491,7 +1491,8 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
   -
 
       -
-        作詞：? 、作曲：marhy、編曲：久保田光太郎、歌：[蝴蝶姐姐](../Page/蝴蝶姐姐.md "wikilink")
+        作詞：?
+        、作曲：marhy、編曲：久保田光太郎、歌：[蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
 
 <!-- end list -->
 
@@ -1528,7 +1529,7 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
   -
     沙羅曼達男爵和路伽努站在[艾菲爾鐵塔之上](../Page/艾菲爾鐵塔.md "wikilink")，並且說他因為已經完全恢復力量所以一定會破壞世界，路伽努決定奪取男爵的紅水晶然後逃走並背叛他，男爵逐派出史納奇追趕他。與此同時蕾、樹、百合與繪里香一家前往巴黎參加時裝表演，蕾在迷路之際無意中遇到一名銀髮男孩（即路伽努）並且看見史納奇正在追趕他，路伽努將蕾帶至安全地方之後蕾繼續跟蹤他並且被指罵。此時沙羅曼達男爵突然出現並通過史納奇強行召喚出他的心之花讓沙漠異形現身，蕾與趕到的繪里香和樹立即變身成為光之美少女拯救路伽努並決定保護他。雖然沙羅曼達男爵曾經說過「想不到在這個時代也會有Pretty
-    Cure（港譯）」，不過電影後期百合變身月光天使的時候變身種子依然藉由心之大樹與心靈之壺的力量修復；同時百合向路伽努表示自己的爸爸好像在法國失蹤，而且她已經超過三年沒有見過他了（因此她告誡路伽努千萬不要做出一些會令自己後悔的事情）。這代表時間上此次巴黎之旅發生在四位光之美少女發動撼心幻影鏡的力量後與地球被杜恩變成沙漠之間。另外於TV版第45話也顯示了巴黎街頭的人群在逃跑加上地標[凱旋門以及整個城市全部變成沙漠的畫面](../Page/巴黎凱旋門.md "wikilink")。
+    Cure（港譯）」，不過電影後期百合變身月光天使的時候變身種子依然藉由心之大樹與心靈之壺的力量修復；同時百合向路伽努表示自己的爸爸好像在法國失蹤，而且她已經超過三年沒有見過他了（因此她告誡路伽努千萬不要做出一些會令自己後悔的事情）。這代表時間上此次巴黎之旅發生在四位光之美少女發動撼心幻影鏡的力量後與地球被杜恩變成沙漠之間。另外於TV版第45話也顯示了巴黎街頭的人群在逃跑加上地標[凱旋門以及整個城市全部變成沙漠的畫面](https://zh.wikipedia.org/wiki/巴黎凱旋門 "wikilink")。
 
 #### 登場人物
 
@@ -1567,13 +1568,14 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
 
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
   - 監督：松本理惠
-  - 編劇：[栗山綠](../Page/山田隆司.md "wikilink")
-  - 人物設計：[馬越嘉彥](../Page/馬越嘉彥.md "wikilink")、上野賢
+  - 編劇：[栗山綠](https://zh.wikipedia.org/wiki/山田隆司 "wikilink")
+  - 人物設計：[馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")、上野賢
 
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")
+    主條目：[All Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
@@ -1597,9 +1599,9 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
     [光之美少女 All Stars
     春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")
+    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
 
 ## 註釋
 
@@ -1618,14 +1620,14 @@ Mirage）集合力量，先綻放出心之花神，再以光之美少女們指�
     甜蜜天使！](https://web.archive.org/web/20130210181624/http://www.danielco.com.hk/pcmh/)（瑞華行
     Daniel & Co.）
 
-| 播放地區                                                              | 播放電視台                                    | 播放日期                    | 播放時間              | 所屬聯播網   | 備註   |
-| ----------------------------------------------------------------- | ---------------------------------------- | ----------------------- | ----------------- | ------- | ---- |
-| [近畿廣域圈](../Page/近畿廣域圈.md "wikilink")                              | [朝日放送](../Page/朝日放送.md "wikilink")       | 2010年2月7日 - 2011年1月30日  | 星期日 8:30 - 9:00   | 朝日電視台系列 | 同時   |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")                              | [朝日電視台](../Page/朝日電視台.md "wikilink")     |                         |                   |         |      |
-| [中京廣域圈](../Page/中京廣域圈.md "wikilink")                              | [名古屋電視台](../Page/名古屋電視台.md "wikilink")   |                         |                   |         |      |
-| [靜岡縣](../Page/靜岡縣.md "wikilink")                                  | [靜岡朝日電視台](../Page/靜岡朝日電視台.md "wikilink") |                         |                   |         |      |
-| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](../Page/島根縣.md "wikilink") | [山陰放送](../Page/山陰放送.md "wikilink")       | 2010年2月13日 - 2011年2月5日  | 星期六 11:15 - 11:45 | TBS系列   | 延遲6日 |
-| [宮崎縣](../Page/宮崎縣.md "wikilink")                                  | [宮崎放送](../Page/宮崎放送.md "wikilink")       | 2010年7月20日 - 2011年7月12日 | 星期二 15:30 - 16:00 | 延遲156日  |      |
+| 播放地區                                                                                 | 播放電視台                                                       | 播放日期                    | 播放時間              | 所屬聯播網   | 備註   |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------- | ----------------- | ------- | ---- |
+| [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink")                              | [朝日放送](../Page/朝日放送.md "wikilink")                          | 2010年2月7日 - 2011年1月30日  | 星期日 8:30 - 9:00   | 朝日電視台系列 | 同時   |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                              | [朝日電視台](../Page/朝日電視台.md "wikilink")                        |                         |                   |         |      |
+| [中京廣域圈](https://zh.wikipedia.org/wiki/中京廣域圈 "wikilink")                              | [名古屋電視台](../Page/名古屋電視台.md "wikilink")                      |                         |                   |         |      |
+| [靜岡縣](../Page/靜岡縣.md "wikilink")                                                     | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") |                         |                   |         |      |
+| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink") | [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink")       | 2010年2月13日 - 2011年2月5日  | 星期六 11:15 - 11:45 | TBS系列   | 延遲6日 |
+| [宮崎縣](../Page/宮崎縣.md "wikilink")                                                     | [宮崎放送](https://zh.wikipedia.org/wiki/宮崎放送 "wikilink")       | 2010年7月20日 - 2011年7月12日 | 星期二 15:30 - 16:00 | 延遲156日  |      |
 
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
 [Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink")

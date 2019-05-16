@@ -8,7 +8,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     Girl](../Page/My_Girl_\(嵐\).md "wikilink")》一樣，分初回限定盤、通常盤2種形態發售。每種版本除收入「Troublemaker」、「撼動當下」2曲外，初回限定盤附贈「Troublemaker」的PV及幕後製作花絮，通常盤再加上c/w曲「再一步」及3曲的原版卡拉OK一共6曲。
   - 主打歌是成員[櫻井翔主演](../Page/櫻井翔.md "wikilink")、[TBS電視台週日晚九劇場](../Page/TBS電視台.md "wikilink")《[正義代書戰士](../Page/正義代書戰士.md "wikilink")》的主題曲，歌曲節奏輕快。2010年1月6日，成員[櫻井翔在劇集的記者招待人會上宣佈](../Page/櫻井翔.md "wikilink")[嵐的新曲](../Page/嵐.md "wikilink")「Troublemaker」將成為該劇的主題曲。
   - c/w曲「撼動當下」是[日本電視台](../Page/日本電視台.md "wikilink")2010年溫哥華冬季奧運會的放送主題曲。在2010年1月5日，此曲正式被指定為冬奧會的放送主題曲。
-  - 在[第61回NHK紅白歌合戰以組曲形式演唱](../Page/第61回NHK紅白歌合戰.md "wikilink")（**Troublemaker**
+  - 在[第61回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")（**Troublemaker**
     + [Monster](../Page/Monster_\(嵐\).md "wikilink")）
 
 ### 主要紀錄
@@ -16,7 +16,7 @@ Storm](../Page/J_Storm.md "wikilink")。
   - 於2010年3月15日截止的日本公信榜單曲週榜取得冠軍，是自「[PIKA★★NCHI
     DOUBLE](../Page/PIKA★★NCHI_DOUBLE.md "wikilink")」以來連續第18張、合共第25張冠軍作品。
   - 根據公信榜，預售日即2010年3月2日截止的單曲榜上，本作品的預售銷量達至23.3萬張，刷新「[明日的記憶/Crazy
-    Moon～妳·是·無敵的～](../Page/明日的記憶/Crazy_Moon～妳·是·無敵的～.md "wikilink")」的記錄。此作隨後更於首週突破銷量54萬張，記錄僅僅在出道曲「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」之下。
+    Moon～妳·是·無敵的～](https://zh.wikipedia.org/wiki/明日的記憶/Crazy_Moon～妳·是·無敵的～ "wikilink")」的記錄。此作隨後更於首週突破銷量54萬張，記錄僅僅在出道曲「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」之下。
 
 ## 收錄曲
 

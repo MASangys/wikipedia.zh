@@ -5,7 +5,7 @@ operating characteristic curve**，或者叫**ROC曲线**）是一种坐標圖�
 
 在做決策時，ROC分析能不受成本／效益的影響，給出客觀中立的建議。
 
-ROC曲线首先是由二战中的电子工程师和雷达工程师发明的，用来偵测战场上的敌军載具（飛機、船艦），也就是信号检测理论。之后很快就被引入了[心理学来进行信号的](../Page/心理学.md "wikilink")[知觉检测](../Page/知觉.md "wikilink")。數十年來，ROC分析被用於[医学](../Page/医学.md "wikilink")、[无线电](../Page/无线电.md "wikilink")、[生物學](../Page/生物學.md "wikilink")、[犯罪心理學领域中](../Page/犯罪心理學.md "wikilink")，而且最近在[机器学习](../Page/机器学习.md "wikilink")（machine
+ROC曲线首先是由二战中的电子工程师和雷达工程师发明的，用来偵测战场上的敌军載具（飛機、船艦），也就是信号检测理论。之后很快就被引入了[心理学来进行信号的](../Page/心理学.md "wikilink")[知觉检测](https://zh.wikipedia.org/wiki/知觉 "wikilink")。數十年來，ROC分析被用於[医学](../Page/医学.md "wikilink")、[无线电](https://zh.wikipedia.org/wiki/无线电 "wikilink")、[生物學](https://zh.wikipedia.org/wiki/生物學 "wikilink")、[犯罪心理學领域中](../Page/犯罪心理學.md "wikilink")，而且最近在[机器学习](../Page/机器学习.md "wikilink")（machine
 learning）和[数据挖掘](../Page/数据挖掘.md "wikilink")（data mining）领域也得到了很好的发展。
 
 ## 基本概念
@@ -39,7 +39,7 @@ learning）和[数据挖掘](../Page/数据挖掘.md "wikilink")（data mining�
 </dd>
 <dd>FPR = FP / N = FP / (FP + TN)
 </dd>
-<dt><a href="../Page/準确度.md" title="wikilink">準确度</a> (ACC, accuracy)</dt>
+<dt><a href="https://zh.wikipedia.org/wiki/準确度" title="wikilink">準确度</a> (ACC, accuracy)</dt>
 <dd>ACC = (TP + TN) / (P + N)
 </dd>
 <dd>即：(真陽性+真陰性) / 總樣本數
@@ -58,10 +58,10 @@ learning）和[数据挖掘](../Page/数据挖掘.md "wikilink")（data mining�
 <dt>假發现率 (FDR)</dt>
 <dd>FDR = FP / (FP + TP)
 </dd>
-<dt><a href="../Page/Matthews相关系数.md" title="wikilink">Matthews相关系数</a> (MCC)，即 <a href="../Page/Phi相關係數.md" title="wikilink">Phi相關係數</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/Matthews相关系数" title="wikilink">Matthews相关系数</a> (MCC)，即 <a href="../Page/Phi相關係數.md" title="wikilink">Phi相關係數</a></dt>
 <dd><span class="math inline">$MCC = \frac{(TP*TN - FP*FN)}{\sqrt{P N P' N'}}$</span>
 </dd>
-<dt><a href="../Page/F1评分.md" title="wikilink">F1评分</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/F1评分" title="wikilink">F1评分</a></dt>
 <dd>F1 = 2TP/(P+P')
 </dd>
 </dl></td>
@@ -72,16 +72,16 @@ learning）和[数据挖掘](../Page/数据挖掘.md "wikilink")（data mining�
 </tbody>
 </table>
 
-**分类模型**（又稱[分类器](../Page/分类器.md "wikilink")，或[診斷](../Page/診斷.md "wikilink")）是将一个实例映射到一个特定类的过程。ROC分析的是[二元分類模型](../Page/二元分類模型.md "wikilink")，也就是輸出結果只有兩種類別的模型，例如：（陽性／陰性）（有病／沒病）（垃圾郵件／非垃圾郵件）（敵軍／非敵軍）。
+**分类模型**（又稱[分类器](https://zh.wikipedia.org/wiki/分类器 "wikilink")，或[診斷](https://zh.wikipedia.org/wiki/診斷 "wikilink")）是将一个实例映射到一个特定类的过程。ROC分析的是[二元分類模型](https://zh.wikipedia.org/wiki/二元分類模型 "wikilink")，也就是輸出結果只有兩種類別的模型，例如：（陽性／陰性）（有病／沒病）（垃圾郵件／非垃圾郵件）（敵軍／非敵軍）。
 
-當**訊號偵測**（或**變數測量**）的结果是一個[連續值時](../Page/連續值.md "wikilink")，類與類的邊界必须用一个[阈值](../Page/阈值.md "wikilink")（）來界定。举例来说，用血压值来检测一个人是否有[高血压](../Page/高血压.md "wikilink")，測出的血壓值是連續的實數（從0\~200都有可能），以收縮壓140／舒張壓90為閾值，閾值以上便診斷為有高血壓，閾值未滿者診斷為無高血壓。二元分類模型的個案預測有四種結局：
+當**訊號偵測**（或**變數測量**）的结果是一個[連續值時](https://zh.wikipedia.org/wiki/連續值 "wikilink")，類與類的邊界必须用一个[阈值](https://zh.wikipedia.org/wiki/阈值 "wikilink")（）來界定。举例来说，用血压值来检测一个人是否有[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")，測出的血壓值是連續的實數（從0\~200都有可能），以收縮壓140／舒張壓90為閾值，閾值以上便診斷為有高血壓，閾值未滿者診斷為無高血壓。二元分類模型的個案預測有四種結局：
 
 1.  **真陽性**（TP）：**診斷為有**，**實際上也有**高血壓。
 2.  **偽阳性**（FP）：**診斷為有**，**实际卻没有**高血壓。
 3.  **真陰性**（TN）：**診斷為沒有**，**實際上也沒有**高血壓。
 4.  **偽阴性**（FN）：**診斷為沒有**，**实际却有**高血壓。
 
-這四種結局可以畫成2 × 2的[混淆矩阵](../Page/混淆矩阵.md "wikilink")：
+這四種結局可以畫成2 × 2的[混淆矩阵](https://zh.wikipedia.org/wiki/混淆矩阵 "wikilink")：
 
 <table>
 <thead>
@@ -268,12 +268,12 @@ ROC空间将偽陽性率（FPR）定義為 *X* 軸，真陽性率（TPR）定义
 ## ROC曲線
 
 [ROCfig.PNG](https://zh.wikipedia.org/wiki/File:ROCfig.PNG "fig:ROCfig.PNG")
-上述ROC空間裡的單點，是給定分類模型且給定閾值後得出的。但同一個[二元分類模型的](../Page/二元分類模型.md "wikilink")[閾值可能設定為高或低](../Page/閾值.md "wikilink")，每種閾值的設定會得出不同的FPR和TPR。
+上述ROC空間裡的單點，是給定分類模型且給定閾值後得出的。但同一個[二元分類模型的](https://zh.wikipedia.org/wiki/二元分類模型 "wikilink")[閾值可能設定為高或低](https://zh.wikipedia.org/wiki/閾值 "wikilink")，每種閾值的設定會得出不同的FPR和TPR。
 
   - 將**同一模型每個閾值** 的 (FPR, TPR) 座標都畫在ROC空間裡，就成為**特定模型的ROC曲線**。
 
 例如右圖，人體的血液蛋白濃度是呈正态分布的連續變數，病人的分布是紅色，平均值為A
-[g](../Page/公克.md "wikilink")/[dL](../Page/公升#公升配合國際單位制的詞頭.md "wikilink")，健康人的分布是藍色，平均值是C
+[g](https://zh.wikipedia.org/wiki/公克 "wikilink")/[dL](https://zh.wikipedia.org/wiki/公升#公升配合國際單位制的詞頭 "wikilink")，健康人的分布是藍色，平均值是C
 g/dL。健康檢查會測量血液樣本中的某種蛋白質濃度，達到某個值（閾值，threshold）以上診斷為有疾病徵兆。研究者可以調整閾值的高低（將左上圖的B垂直線往左或右移動），便會得出不同的偽陽性率與真陽性率，總之即得出不同的預測準確率。
 
 1\.
@@ -348,7 +348,8 @@ AUC的計算有兩種方式，都是以逼近法求近似值。
 
 ### 潛在問題
 
-AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方法](../Page/機器學習.md "wikilink")\[2\]
+AUC of
+ROC是[機器學習的社群最常使用來比較不同模型優劣的方法](https://zh.wikipedia.org/wiki/機器學習 "wikilink")\[2\]
 。然而近來這個做法開始受到質疑，因為有些機器學習的研究指出，AUC的杂訊太多，並且很常求不出可信又有效的AUC值（此時便不能保證AUC傳達本節開頭所述之意義），使得AUC在模型比較時產生的問題比解釋的問題更多\[3\]\[4\]\[5\]
 。
 
@@ -356,7 +357,7 @@ AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方
 
 所有常用於統計分析的軟體（例：SPSS、SAS、SYSTAT、S-Plus、ROCKIT、RscorePlus）都有依據不同閾值自動計算真陽性和偽陽性比率、並依此繪製ROC曲線的功能。
 
-**离散分类器**（，或稱「間斷分類器」），如[决策树](../Page/决策树.md "wikilink")，产生的是离散的数值或者一个二元标签。应用到实例中，这样的分类器最后只会在ROC空间产生单一的点。而一些其他的分类器，如[朴素贝叶斯分类器](../Page/朴素贝叶斯分类器.md "wikilink")，[逻辑回归或者](../Page/逻辑回归.md "wikilink")[人工神经网络](../Page/人工神经网络.md "wikilink")，产生的是实例属于某一类的可能性，对于这些方法，一个阈值就决定了ROC空间中点的位置。举例来说，如果可能值低于或者等于0.8这个阈值就将其认为是阳性的类，而其他的值被认为是阴性类。这样就可以通过画每一个阈值的ROC点来生成一个生成一条曲线。MedCalc是较好的ROC曲线分析软件。
+**离散分类器**（，或稱「間斷分類器」），如[决策树](../Page/决策树.md "wikilink")，产生的是离散的数值或者一个二元标签。应用到实例中，这样的分类器最后只会在ROC空间产生单一的点。而一些其他的分类器，如[朴素贝叶斯分类器](../Page/朴素贝叶斯分类器.md "wikilink")，[逻辑回归或者](https://zh.wikipedia.org/wiki/逻辑回归 "wikilink")[人工神经网络](../Page/人工神经网络.md "wikilink")，产生的是实例属于某一类的可能性，对于这些方法，一个阈值就决定了ROC空间中点的位置。举例来说，如果可能值低于或者等于0.8这个阈值就将其认为是阳性的类，而其他的值被认为是阴性类。这样就可以通过画每一个阈值的ROC点来生成一个生成一条曲线。MedCalc是较好的ROC曲线分析软件。
 
 ## 参考文献
 
@@ -380,7 +381,8 @@ AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方
     Using SAS*, SAS Press, ISBN 978-1-59994-298-1.
 
   - Green, W.H., (2003) *Econometric Analysis*, fifth edition, [Prentice
-    Hall](../Page/Prentice_Hall.md "wikilink"), ISBN 0-13-066189-9.
+    Hall](https://zh.wikipedia.org/wiki/Prentice_Hall "wikilink"), ISBN
+    0-13-066189-9.
 
   - Heagerty, P.J., Lumley, T., Pepe, M. S. (2000) Time-dependent ROC
     Curves for Censored Survival Data and a Diagnostic Marker
@@ -388,8 +390,8 @@ AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方
 
   - Hosmer, D.W. and Lemeshow, S., (2000) *Applied Logistic Regression*,
     2nd ed., New York; Chichester,
-    [Wiley](../Page/John_Wiley_&_Sons.md "wikilink"), ISBN
-    0-471-35632-8.
+    [Wiley](https://zh.wikipedia.org/wiki/John_Wiley_&_Sons "wikilink"),
+    ISBN 0-471-35632-8.
 
   - Brown, C.D., and Davis, H.T. (2006) Receiver operating
     characteristic curves and related decision measures: a tutorial,
@@ -402,8 +404,8 @@ AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方
 
   - Pepe, M.S. (2003). *The statistical evaluation of medical tests for
     classification and prediction*.
-    [Oxford](../Page/Oxford_University_Press.md "wikilink"). ISBN
-    0198565828.
+    [Oxford](https://zh.wikipedia.org/wiki/Oxford_University_Press "wikilink").
+    ISBN 0198565828.
 
   - Carsten, S. Wesseling, S., Schink, T., and Jung, K. (2003)
     Comparison of Eight Computer Programs for Receiver-Operating
@@ -415,8 +417,8 @@ AUC of ROC是[機器學習的社群最常使用來比較不同模型優劣的方
 
   - Swets, J.A., Dawes, R., and Monahan, J. (2000) Better Decisions
     through Science. *[Scientific
-    American](../Page/Scientific_American.md "wikilink")*, October,
-    pages 82–87.
+    American](https://zh.wikipedia.org/wiki/Scientific_American "wikilink")*,
+    October, pages 82–87.
 
 ## 外部链接
 

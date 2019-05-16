@@ -1,7 +1,7 @@
 「**Electro
-World**」（エレクトロ・ワールド）是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第三張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2006年6月28日發行。唱片公司為[Tokuma
+World**」（エレクトロ・ワールド）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第三張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2006年6月28日發行。唱片公司為[Tokuma
 Japan
-Communications](../Page/Tokuma_Japan_Communications.md "wikilink")。
+Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikilink")。
 
 ## 解説
 

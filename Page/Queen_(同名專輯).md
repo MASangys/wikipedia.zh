@@ -1,4 +1,4 @@
-《**Queen**》是英國搖滾樂團[皇后樂隊發行第一張專輯](../Page/皇后樂隊.md "wikilink")。
+《**Queen**》是英國搖滾樂團[皇后樂隊發行第一張專輯](https://zh.wikipedia.org/wiki/皇后樂隊 "wikilink")。
 
 ## 曲目
 
@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p>01</p></td>
-<td><p><a href="../Page/Keep_Yourself_Alive.md" title="wikilink">Keep Yourself Alive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Keep_Yourself_Alive" title="wikilink">Keep Yourself Alive</a></p></td>
 <td><p>Freddie Mercury</p></td>
 <td><p>Brian May</p></td>
 <td><p>John Anthony<br />
@@ -51,7 +51,7 @@ Tim Staffell</p></td>
 </tr>
 <tr class="odd">
 <td><p>05</p></td>
-<td><p><a href="../Page/Liar.md" title="wikilink">Liar</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Liar" title="wikilink">Liar</a></p></td>
 <td><p>Freddie Mercury</p></td>
 <td><p>Freddie Mercury</p></td>
 <td><p>John Anthony<br />

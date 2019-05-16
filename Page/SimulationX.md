@@ -49,7 +49,7 @@ NI VeriStand, dSPACE, and SCALE-RT等大大增强了设计周期内的生产能�
 
 ## 工业使用情况
 
-SimulationX被制造业主要的OEMs和供应商广泛采用，例如汽车、航空、能源、重型机械、海洋船舶工业、采矿、石油和天然气、精密仪器和铁路等领域。其用户包括[Audi](../Page/奥迪.md "wikilink")、[BMW](../Page/BMW.md "wikilink")、[Daimler](../Page/戴姆勒.md "wikilink")、[Volkswagen](../Page/大众汽车.md "wikilink"),
+SimulationX被制造业主要的OEMs和供应商广泛采用，例如汽车、航空、能源、重型机械、海洋船舶工业、采矿、石油和天然气、精密仪器和铁路等领域。其用户包括[Audi](../Page/奥迪.md "wikilink")、[BMW](../Page/BMW.md "wikilink")、[Daimler](../Page/戴姆勒.md "wikilink")、[Volkswagen](https://zh.wikipedia.org/wiki/大众汽车 "wikilink"),
 Continental, Schaeffler, [Siemens](../Page/西门子公司.md "wikilink"), Demag,
 Husky,
 [Nikon](../Page/尼康.md "wikilink")、[Mitsubishi和](../Page/三菱集团.md "wikilink")[Liebherr](../Page/利勃海尔.md "wikilink").\[10\]

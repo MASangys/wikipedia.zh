@@ -1,6 +1,6 @@
 **Tab Candy**是Mozilla
 Labs所發表的一項實驗性功能，正式名稱為**Panorama**\[1\]。後期成為[Firefox
-4的正式功能](../Page/Firefox_4.md "wikilink")。
+4的正式功能](https://zh.wikipedia.org/wiki/Firefox_4 "wikilink")。
 
 Panorama的含義為全景、全貌，最初取名為Überview，由Mozilla介面工程師[阿薩·拉斯金提出](../Page/阿薩·拉斯金.md "wikilink")，但因過於饒舌而取消\[2\]。這項概念一部份則衍生於2009年舉辦的「The
 Home Tab」設計挑戰賽，將參賽者創意落實在該專案中\[3\]。

@@ -1,4 +1,4 @@
-**Eiffel**是一套物件導向程式語言，1985年由[伯特蘭·邁耶所發明](../Page/伯特蘭·邁耶.md "wikilink")。文法類似[Pascal](../Page/Pascal_\(程式語言\).md "wikilink")，並且將語言本身與軟體工程、和工具結合為一。Eiffel实现[契约式设计](../Page/契约式设计.md "wikilink")（Design
+**Eiffel**是一套物件導向程式語言，1985年由[伯特蘭·邁耶所發明](https://zh.wikipedia.org/wiki/伯特蘭·邁耶 "wikilink")。文法類似[Pascal](../Page/Pascal_\(程式語言\).md "wikilink")，並且將語言本身與軟體工程、和工具結合為一。Eiffel实现[契约式设计](../Page/契约式设计.md "wikilink")（Design
 by Contract）的風格。
 
 ## 語法與語意
@@ -11,7 +11,7 @@ by Contract）的風格。
 #### "Hello, world\!"
 
 一支程式語言都會有["Hello,
-world\!"的程式碼](../Page/Hello_world_program.md "wikilink").以Eiffel的表示如下：
+world\!"的程式碼](https://zh.wikipedia.org/wiki/Hello_world_program "wikilink").以Eiffel的表示如下：
 
 ``` eiffel
 class
@@ -40,7 +40,7 @@ Eiffel中不像C系列（C、C++、Java、C\#）的语言，通过约定某个�
   - [Eiffel Software](http://www.eiffel.com/) web site of the company
     that introduced Eiffel, was Interactive Software Engineering (ISE).
   - Eiffel tutorial (100 pages) by [Bertrand
-    Meyer](../Page/Bertrand_Meyer.md "wikilink")（[HTML](http://archive.eiffel.com/doc/online/eiffel50/intro/language/tutorial-00.html),
+    Meyer](https://zh.wikipedia.org/wiki/Bertrand_Meyer "wikilink")（[HTML](http://archive.eiffel.com/doc/online/eiffel50/intro/language/tutorial-00.html),
     [PDF](http://www.eiffel.com/doc/online/eiffel50/intro/language/tutorial.pdf)）
   - [Eiffel
     standard](http://www.ecma-international.org/publications/standards/Ecma-367.htm),
@@ -48,16 +48,18 @@ Eiffel中不像C系列（C、C++、Java、C\#）的语言，通过约定某个�
     text identical to that of the ISO standard.
   - [SmartEiffel](http://smarteiffel.loria.fr/) (formerly SmallEiffel) a
     complete Eiffel compiler released under GNU GPL license, translates
-    Eiffel code either to [C](../Page/C_language.md "wikilink") or [Java
-    bytecode](../Page/Java_bytecode.md "wikilink"), not standard
-    compliant, with emphasis on performance.
+    Eiffel code either to
+    [C](https://zh.wikipedia.org/wiki/C_language "wikilink") or [Java
+    bytecode](https://zh.wikipedia.org/wiki/Java_bytecode "wikilink"),
+    not standard compliant, with emphasis on performance.
   - ["The Eiffel Compiler"
     (tecomp)](http://www.sourceforge.net/projects/tecomp) an [open
-    source](../Page/open_source.md "wikilink") Eiffel compiler with
-    [documentation](http://tecomp.sourceforge.net).
+    source](https://zh.wikipedia.org/wiki/open_source "wikilink") Eiffel
+    compiler with [documentation](http://tecomp.sourceforge.net).
   - [Visual Eiffel](http://visual-eiffel.org) an [open
-    source](../Page/open_source.md "wikilink") implementation of Eiffel
-    creating [native code](../Page/native_code.md "wikilink") for X86
+    source](https://zh.wikipedia.org/wiki/open_source "wikilink")
+    implementation of Eiffel creating [native
+    code](https://zh.wikipedia.org/wiki/native_code "wikilink") for X86
     systems（Windows, Linux）
   - [NICE](http://www.eiffel-nice.org/) Nonprofit International
     Consortium for Eiffel.

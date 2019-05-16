@@ -1,8 +1,8 @@
-**ORIGA**（，\[1\]\[2\]\[3\]）是在日本活動的[俄羅斯](../Page/俄羅斯.md "wikilink")[創作歌手所使用的藝名](../Page/創作歌手.md "wikilink")，本名為**奥莉加·维塔莉耶芙娜·雅克夫列娃**（）。
+**ORIGA**（，\[1\]\[2\]\[3\]）是在日本活動的[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[創作歌手所使用的藝名](../Page/創作歌手.md "wikilink")，本名為**奥莉加·维塔莉耶芙娜·雅克夫列娃**（）。
 
 ## 概要
 
-1970年出生於[俄羅斯](../Page/俄羅斯.md "wikilink")[新西伯利亞郊外的](../Page/新西伯利亞.md "wikilink")[農村](../Page/農村.md "wikilink")。1991年以[交換學生身份到](../Page/交換學生.md "wikilink")[札幌](../Page/札幌.md "wikilink")，並以[創作歌手身份發跡](../Page/創作歌手.md "wikilink")。
+1970年出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[新西伯利亞郊外的](https://zh.wikipedia.org/wiki/新西伯利亞 "wikilink")[農村](https://zh.wikipedia.org/wiki/農村 "wikilink")。1991年以[交換學生身份到](https://zh.wikipedia.org/wiki/交換學生 "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")，並以[創作歌手身份發跡](../Page/創作歌手.md "wikilink")。
 
 2015年1月17日在[神奈川縣醫院去世](../Page/神奈川縣.md "wikilink")，年僅44歲\[4\]。訃聞僅提死因心臟衰竭，與其交好同是俄國人的聲優Jenya於[Twitter指明肺癌](../Page/Twitter.md "wikilink")\[5\]。
 
@@ -20,7 +20,7 @@
 
     <!-- end list -->
 
-    1.    - 日劇《[青澀時代](../Page/青澀時代.md "wikilink")》片頭曲
+    1.    - 日劇《[青澀時代](https://zh.wikipedia.org/wiki/青澀時代 "wikilink")》片頭曲
 
     2.
   -   - 2004年11月21日発売（[勝利娛樂](../Page/勝利娛樂.md "wikilink")）
@@ -28,8 +28,8 @@
     <!-- end list -->
 
     1.    - 電視動畫《[奇幻兒童](../Page/奇幻兒童.md "wikilink")》片尾曲
-          - 作詞：[濱田理惠](../Page/濱田理惠.md "wikilink")
-          - 作曲、編曲：[梁邦彥](../Page/梁邦彥.md "wikilink")
+          - 作詞：[濱田理惠](https://zh.wikipedia.org/wiki/濱田理惠 "wikilink")
+          - 作曲、編曲：[梁邦彥](https://zh.wikipedia.org/wiki/梁邦彥 "wikilink")
 
     2.  （Russian Version）
 
@@ -151,7 +151,7 @@
 
     4.
     5.  There Must Be An
-        Angel（[ユーリズミックスのカバー](../Page/ユーリズミックス.md "wikilink")）
+        Angel（[ユーリズミックスのカバー](https://zh.wikipedia.org/wiki/ユーリズミックス "wikilink")）
   - The Best of ORIGA
       - 1999年10月14日発売（EMI音樂日本）
     <!-- end list -->
@@ -175,7 +175,7 @@
   - 攻殻機動隊 STAND ALONE COMPLEX O.S.T.
 
       - 2003年1月22日發行（[Victor
-        Entertainment](../Page/Victor_Entertainment.md "wikilink")）
+        Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")）
           - inner universe
               - 電視動畫《[攻殼機動隊 STAND ALONE
                 COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》片頭曲
@@ -187,24 +187,24 @@
       - 2004年3月26日發行（Victor Entertainment）
           - rise
               - 電視動畫《[攻殼機動隊 S.A.C. 2nd
-                GIG](../Page/攻殼機動隊_S.A.C._2nd_GIG.md "wikilink")》片頭曲
+                GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")》片頭曲
               - 作詞：ORIGA
               - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
 
   -   - 2005年3月2日發行（Victor Entertainment）
           - 水之寐
               - 電視動畫《[奇幻旅程](../Page/奇幻兒童.md "wikilink")》片尾曲
-              - 作詞、作曲、編曲：[梁邦彥](../Page/梁邦彥.md "wikilink")
+              - 作詞、作曲、編曲：[梁邦彥](https://zh.wikipedia.org/wiki/梁邦彥 "wikilink")
           - 浮游夢
               - 電視動畫《[奇幻旅程](../Page/奇幻兒童.md "wikilink")》印象曲
-              - 作詞、作曲、編曲：[ORIGA](../Page/ORIGA.md "wikilink")
+              - 作詞、作曲、編曲：[ORIGA](https://zh.wikipedia.org/wiki/ORIGA "wikilink")
 
   - 攻殻機動隊 STAND ALONE COMPLEX SOLID STATE SOCIETY O.S.T.
 
       - 2006年11月22日（Victor Entertainment）
           - player
               - 電視動畫《[攻殼機動隊 S.A.C. Solid State
-                Society](../Page/攻殼機動隊_S.A.C._Solid_State_Society.md "wikilink")》片頭曲
+                Society](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._Solid_State_Society "wikilink")》片頭曲
               - 作詞：ORIGA
               - 作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
           - date of rebirth
@@ -214,9 +214,9 @@
 
 ## 關聯條目
 
-  - [2+1](../Page/2+1.md "wikilink")
+  - [2+1](https://zh.wikipedia.org/wiki/2+1 "wikilink")
   - [菅野洋子](../Page/菅野洋子.md "wikilink")
-  - [浜田省吾](../Page/浜田省吾.md "wikilink")
+  - [浜田省吾](https://zh.wikipedia.org/wiki/浜田省吾 "wikilink")
   - [SUGIZO](../Page/SUGIZO.md "wikilink")
 
 ## 註解

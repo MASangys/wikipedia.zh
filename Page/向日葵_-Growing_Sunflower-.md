@@ -1,22 +1,23 @@
 《**向日葵 -Growing
-Sunflower-**》（[日語](../Page/日語.md "wikilink")：），是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")17張[單曲](../Page/單曲.md "wikilink")。2010年4月21日發行。是SPEED在2008年完全復活之後的第3張單曲。分為CD和CD+DVD兩種版本。
+Sunflower-**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年4月21日發行。是SPEED在2008年完全復活之後的第3張單曲。分為CD和CD+DVD兩種版本。
 
-由SPEED的老牌製作人[伊秩弘將製作](../Page/伊秩弘將.md "wikilink")。主歌《向日葵 -Growing
+由SPEED的老牌製作人[伊秩弘將製作](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")。主歌《向日葵
+-Growing
 Sunflower-》與《[明日的天空](../Page/明日的天空.md "wikilink")》一樣是勵志歌曲，作為SPEED的經典畢業歌《[my
-graduation](../Page/my_graduation.md "wikilink")》的延續。\[1\]伊秩用[向日葵表達出對大家充滿生機向前的希望](../Page/向日葵.md "wikilink")。
+graduation](https://zh.wikipedia.org/wiki/my_graduation "wikilink")》的延續。\[1\]伊秩用[向日葵表達出對大家充滿生機向前的希望](../Page/向日葵.md "wikilink")。
 
 初回盤的第二首副歌《**My Street
 Life**》出自SPEED的第2張專輯《[RISE](../Page/RISE_\(SPEED專輯\).md "wikilink")》，這次為重新演繹錄制。
 
 《向日葵 -Growing
-Sunflower-》被用作[TBS系情報](../Page/TBS電視.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[國王的早餐](../Page/國王的早餐.md "wikilink")》2010年4月至5月的[主題曲](../Page/主題曲.md "wikilink")。
+Sunflower-》被用作[TBS系情報](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[國王的早餐](https://zh.wikipedia.org/wiki/國王的早餐 "wikilink")》2010年4月至5月的[主題曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲目
 
 ### CD
 
 1.  **向日葵 -Growing Sunflower-**
-      - [TBS系情報](../Page/TBS電視.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[國王的早餐](../Page/國王的早餐.md "wikilink")》主題曲（2010年4—5月）。
+      - [TBS系情報](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[國王的早餐](https://zh.wikipedia.org/wiki/國王的早餐 "wikilink")》主題曲（2010年4—5月）。
 2.  **Moonlight Honey**
 3.  **My Street Life** ※
 4.  **向日葵 -Growing Sunflower- (Instrumental)**

@@ -1,7 +1,7 @@
 **GPX**（**GPS eXchange
-Format**，GPS交换格式）是一个XML格式，为应用软件设计的通用[GPS数据格式](../Page/GPS.md "wikilink")。
+Format**，GPS交换格式）是一个XML格式，为应用软件设计的通用[GPS数据格式](https://zh.wikipedia.org/wiki/GPS "wikilink")。
 
-它可以用来描述路点、轨迹、路程。这个格式是免费的，可以在不需要付任何许可费用的前提下使用。它的标签保存位置，海拔和时间，可以用来在不同的GPS设备和软件之间交换数据。如查看轨迹、在照片的[exif数据中嵌入地理数据](../Page/exif.md "wikilink")。
+它可以用来描述路点、轨迹、路程。这个格式是免费的，可以在不需要付任何许可费用的前提下使用。它的标签保存位置，海拔和时间，可以用来在不同的GPS设备和软件之间交换数据。如查看轨迹、在照片的[exif数据中嵌入地理数据](https://zh.wikipedia.org/wiki/exif "wikilink")。
 
 ## 数据类型
 
@@ -17,8 +17,9 @@ GPX文件內的點，至少要包含经纬度座标兩項資訊；其它欄位�
 
 ## 示例
 
-下面这个GPX文件（局部）是由[Garmin](../Page/Garmin.md "wikilink") [Oregon
-400t手持GPS设备产生](../Page/Oregon_400t.md "wikilink")，这个文件展示了GPX格式的功能。
+下面这个GPX文件（局部）是由[Garmin](https://zh.wikipedia.org/wiki/Garmin "wikilink")
+[Oregon
+400t手持GPS设备产生](https://zh.wikipedia.org/wiki/Oregon_400t "wikilink")，这个文件展示了GPX格式的功能。
 
 ``` xml
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
@@ -53,19 +54,19 @@ GPX文件內的點，至少要包含经纬度座标兩項資訊；其它欄位�
 ## 参见
 
   - Concepts
-      - [興趣點](../Page/興趣點.md "wikilink")
-      - [OpenStreetMap](../Page/OpenStreetMap.md "wikilink"), a
-        collaborative project to create free editable maps using GPX
+      - [興趣點](https://zh.wikipedia.org/wiki/興趣點 "wikilink")
+      - [OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink"),
+        a collaborative project to create free editable maps using GPX
         traces.
   - 文件格式
       - [可交换图像文件](../Page/EXIF.md "wikilink")
-      - [GML](../Page/GML.md "wikilink")
+      - [GML](https://zh.wikipedia.org/wiki/GML "wikilink")
       - [KML](../Page/KML.md "wikilink"), the equivalent format
         compatible with [Google
-        Earth](../Page/Google_Earth.md "wikilink").
+        Earth](https://zh.wikipedia.org/wiki/Google_Earth "wikilink").
   - 软件
-      - [GPSBabel](../Page/GPSBabel.md "wikilink")，各类GPS数据文件格式的转换工具，支持格式如：KML，GPX，GML...等等
-      - [TCX](../Page/Training_Center_XML_\(TCX\).md "wikilink")，Garmin
+      - [GPSBabel](https://zh.wikipedia.org/wiki/GPSBabel "wikilink")，各类GPS数据文件格式的转换工具，支持格式如：KML，GPX，GML...等等
+      - [TCX](https://zh.wikipedia.org/wiki/Training_Center_XML_\(TCX\) "wikilink")，Garmin
         Training Center XML
 
 ## 参考

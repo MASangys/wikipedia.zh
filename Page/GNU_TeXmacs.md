@@ -5,33 +5,37 @@
 [](../Page/TeX.md "wikilink") 和 [Emacs](../Page/Emacs.md "wikilink")
 的特点，尽管未使用这两者的代码。TeXmacs 使用 [](../Page/TeX.md "wikilink")
 [字体](../Page/字体.md "wikilink")。\[1\]它由 Joris van der Hoeven
-开发和维护。该程序能够以[所见即所得的](../Page/所见即所得.md "wikilink")[用户界面创建结构化文档](../Page/用户界面.md "wikilink")。用户可以自行创建新的文档样式。编辑器采用高质量的[排版](../Page/排版.md "wikilink")[算法和](../Page/算法.md "wikilink")
+开发和维护。该程序能够以[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[用户界面创建结构化文档](../Page/用户界面.md "wikilink")。用户可以自行创建新的文档样式。编辑器采用高质量的[排版](../Page/排版.md "wikilink")[算法和](../Page/算法.md "wikilink")
 [](../Page/TeX.md "wikilink") [字体用于专业出版](../Page/字体.md "wikilink")。
 
 ## 特点
 
 TeXmacs
-能够处理数学[公式](../Page/公式.md "wikilink")，并被用作一系列[计算机代数系统的前端](../Page/计算机代数系统.md "wikilink")，例如
+能够处理数学[公式](https://zh.wikipedia.org/wiki/公式 "wikilink")，并被用作一系列[计算机代数系统的前端](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，例如
 [Maxima](../Page/Maxima.md "wikilink") 和
 [Sage](../Page/Sage.md "wikilink")。TeXmacs 同时支持
 [Scheme](../Page/Scheme.md "wikilink") 扩展语言
 [Guile](../Page/GNU_Guile.md "wikilink")，用于定制程序和编写扩展。
 
-如同许多[所见即所得的](../Page/所见即所得.md "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft
+如同许多[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft
 Word](../Page/Microsoft_Word.md "wikilink")），用户在屏幕上编排的文档与最终[排版效果相仿](../Page/排版.md "wikilink")。TeXmacs
-的目标是提供一个[所见即所得](../Page/所见即所得.md "wikilink")、排版效果美观的编辑器。TeXmacs 不是
-[](../Page/LaTeX.md "wikilink") 的前端程序，但 TeXmacs 文档可以被自由转换成
-[](../Page/TeX.md "wikilink") 或 [](../Page/LaTeX.md "wikilink") 格式。对
-[HTML](../Page/HTML.md "wikilink")、[MathML](../Page/MathML.md "wikilink")
+的目标是提供一个[所见即所得](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")、排版效果美观的编辑器。TeXmacs
+不是 [](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 的前端程序，但 TeXmacs
+文档可以被自由转换成 [](../Page/TeX.md "wikilink") 或
+[](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 格式。对
+[HTML](../Page/HTML.md "wikilink")、[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")
 和 [XML](../Page/XML.md "wikilink") 的支持正在开发中。
 
-TeXmacs 目前可运行在大部分基于 [Unix](../Page/Unix.md "wikilink") 的系统平台下，包括
+TeXmacs 目前可运行在大部分基于
+[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 的系统平台下，包括
 [Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Cygwin](../Page/Cygwin.md "wikilink")
-和 [Mac OS X](../Page/Mac_OS_X.md "wikilink")。除 Cygwin 版本以外，一个 [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink") 的本地版本已经开放测试。
+和 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。除 Cygwin
+版本以外，一个 [Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+的本地版本已经开放测试。
 
 TeXmacs
-还包含[演示文稿模式](../Page/演示文稿.md "wikilink")，计划在未来开发成为一个完整的科学工作套装，含有[电子制表功能和科学](../Page/电子制表.md "wikilink")[图像编辑软件](../Page/图像编辑.md "wikilink")。
+还包含[演示文稿模式](https://zh.wikipedia.org/wiki/演示文稿 "wikilink")，计划在未来开发成为一个完整的科学工作套装，含有[电子制表功能和科学](https://zh.wikipedia.org/wiki/电子制表 "wikilink")[图像编辑软件](https://zh.wikipedia.org/wiki/图像编辑 "wikilink")。
 
 ### 数学字体排印
 
@@ -53,22 +57,22 @@ TeXmacs 亦可以批处理方式执行（类似 LaTeX 的一般操作模式）�
 [Yacas-texmacs-gnuplot.png](https://zh.wikipedia.org/wiki/File:Yacas-texmacs-gnuplot.png "fig:Yacas-texmacs-gnuplot.png")的TeXmacs前端\]\]
 TeXmacs可作为许多软件的前端：
 
-  - 程序设计语言：[CLisp](../Page/CLisp.md "wikilink")、[CMucl](../Page/CMucl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Qcl](../Page/Qcl.md "wikilink")、[R](../Page/R语言.md "wikilink")、[Shell](../Page/Shell.md "wikilink")
-  - 计算机代数系统：[Axiom](../Page/Axiom.md "wikilink")、[Giac](../Page/Giac.md "wikilink")、[Macaulay
-    2](../Page/Macaulay_2.md "wikilink")、[Mathematica](../Page/Mathematica.md "wikilink")、[Maxima](../Page/Maxima.md "wikilink")、[MuPAD](../Page/MuPAD.md "wikilink")、[PARI/GP](../Page/PARI/GP.md "wikilink")、[Reduce](../Page/Reduce.md "wikilink")、[SageMath](../Page/SageMath.md "wikilink")、[Yacas](../Page/Yacas.md "wikilink")
+  - 程序设计语言：[CLisp](https://zh.wikipedia.org/wiki/CLisp "wikilink")、[CMucl](https://zh.wikipedia.org/wiki/CMucl "wikilink")、[Python](../Page/Python.md "wikilink")、[Qcl](https://zh.wikipedia.org/wiki/Qcl "wikilink")、[R](../Page/R语言.md "wikilink")、[Shell](https://zh.wikipedia.org/wiki/Shell "wikilink")
+  - 计算机代数系统：[Axiom](https://zh.wikipedia.org/wiki/Axiom "wikilink")、[Giac](https://zh.wikipedia.org/wiki/Giac "wikilink")、[Macaulay
+    2](https://zh.wikipedia.org/wiki/Macaulay_2 "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[Maxima](../Page/Maxima.md "wikilink")、[MuPAD](../Page/MuPAD.md "wikilink")、[PARI/GP](https://zh.wikipedia.org/wiki/PARI/GP "wikilink")、[Reduce](https://zh.wikipedia.org/wiki/Reduce "wikilink")、[SageMath](https://zh.wikipedia.org/wiki/SageMath "wikilink")、[Yacas](https://zh.wikipedia.org/wiki/Yacas "wikilink")
   - 数值矩阵系统：[MATLAB](../Page/MATLAB.md "wikilink")、[GNU
     Octave](../Page/GNU_Octave.md "wikilink")、[Scilab](../Page/Scilab.md "wikilink")
-  - 绘图软件包：[gnuplot](../Page/gnuplot.md "wikilink")、[Graphviz](../Page/Graphviz.md "wikilink")、[XYpic](../Page/XYpic.md "wikilink")、[Mathemagix](../Page/Mathemagix.md "wikilink")
-  - 其他：[DraTeX](../Page/DraTeX.md "wikilink")、[Eukleides](../Page/Eukleides.md "wikilink")、[GTybalt](../Page/GTybalt.md "wikilink")、[Lush](../Page/Lush.md "wikilink")
+  - 绘图软件包：[gnuplot](https://zh.wikipedia.org/wiki/gnuplot "wikilink")、[Graphviz](../Page/Graphviz.md "wikilink")、[XYpic](https://zh.wikipedia.org/wiki/XYpic "wikilink")、[Mathemagix](https://zh.wikipedia.org/wiki/Mathemagix "wikilink")
+  - 其他：[DraTeX](https://zh.wikipedia.org/wiki/DraTeX "wikilink")、[Eukleides](https://zh.wikipedia.org/wiki/Eukleides "wikilink")、[GTybalt](https://zh.wikipedia.org/wiki/GTybalt "wikilink")、[Lush](https://zh.wikipedia.org/wiki/Lush "wikilink")
 
 ## 参见
 
   - [](../Page/TeX.md "wikilink")
-  - [](../Page/LaTeX.md "wikilink")
+  - [](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
   - [LyX](../Page/LyX.md "wikilink")
   - [Emacs](../Page/Emacs.md "wikilink")
-  - [文本编辑器列表](../Page/文本编辑器列表.md "wikilink")
-  - [文本编辑器比较](../Page/文本编辑器比较.md "wikilink")
+  - [文本编辑器列表](https://zh.wikipedia.org/wiki/文本编辑器列表 "wikilink")
+  - [文本编辑器比较](https://zh.wikipedia.org/wiki/文本编辑器比较 "wikilink")
 
 ## 参考文献
 

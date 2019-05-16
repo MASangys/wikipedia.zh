@@ -1,6 +1,6 @@
 **Rock
 Fever**（又稱**滾石DJ**）是由[鈊象電子](../Page/鈊象電子.md "wikilink")(IGS)下所属的RF
-team开发的[音乐游戏](../Page/音乐游戏.md "wikilink")。共有5个主要版本。该游戏特色是以收录华语流行歌曲为主，面向中文玩家。
+team开发的[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。共有5个主要版本。该游戏特色是以收录华语流行歌曲为主，面向中文玩家。
 
 ## 各代介绍
 
@@ -64,8 +64,8 @@ Magic5難度：所有按鍵及踏板均會出現（與正常難度的譜面一�
 
 ## 游戏模式
 
-与[Beatmania](../Page/Beatmania.md "wikilink")、[beatmania
-IIDX](../Page/beatmania_IIDX.md "wikilink")、[EZ2DJ](../Page/EZ2DJ.md "wikilink")、[DJMax](../Page/DJMax.md "wikilink")、[O2勁樂團一样都是下落式节奏游戏](../Page/O2勁樂團.md "wikilink")。在遊戲歌曲進行中當音符落至最下方的判定线时，按下相對应按键並腳踩踏板以获得分数及增加血量，而當失誤時會減少血量。當歌曲结束时血量超过及格线则可通过，若因失误使血量为零時则不会强制结束游戏。（但在Rock
+与[Beatmania](https://zh.wikipedia.org/wiki/Beatmania "wikilink")、[beatmania
+IIDX](https://zh.wikipedia.org/wiki/beatmania_IIDX "wikilink")、[EZ2DJ](https://zh.wikipedia.org/wiki/EZ2DJ "wikilink")、[DJMax](../Page/DJMax.md "wikilink")、[O2勁樂團一样都是下落式节奏游戏](https://zh.wikipedia.org/wiki/O2勁樂團 "wikilink")。在遊戲歌曲進行中當音符落至最下方的判定线时，按下相對应按键並腳踩踏板以获得分数及增加血量，而當失誤時會減少血量。當歌曲结束时血量超过及格线则可通过，若因失误使血量为零時则不会强制结束游戏。（但在Rock
 Fever EX之後的組曲模式及Rock Fever 5的魔幻模式，則是当因失误使血量为零時即会强制结束游戏，而像是Rock Fever
 3的生存模式則是只能有數次的失誤即強制結束遊戲，無限模式(RF3舊版、Perfect模式)甚至一次都不得失誤（3.5MAX代可失誤一次。EX代則與組曲模式一樣血量制，但遊玩歌曲數甚多），修練模式(超難模式、Fever模式)則為直接無條件過關直到3首完成為止。）
 
@@ -85,7 +85,7 @@ Remix、RF3.5 MAX、RF5廢除此功能）等游戏方式，以及修改游标画
 
 ### 唯舞独尊Online RF模式
 
-IGS所开发的[网络游戏](../Page/网络游戏.md "wikilink")[唯舞独尊Online的游戏模式之一](../Page/唯舞独尊Online.md "wikilink")。该模式是唯舞独尊2.0的第一个主题，特征是去掉了脚踏板变为6键，将空格改为在能量值满时随机打开去色、游标旋转、隐藏一部分谱面等选项。同时多出了以往RF街机所没有的长音符。该模式没有Key音(僅遊戲內建的鈴鼓音效)，除了收录IGS原创曲多有重叠外，谱面和RF系列也无任何继承关系。
+IGS所开发的[网络游戏](../Page/网络游戏.md "wikilink")[唯舞独尊Online的游戏模式之一](https://zh.wikipedia.org/wiki/唯舞独尊Online "wikilink")。该模式是唯舞独尊2.0的第一个主题，特征是去掉了脚踏板变为6键，将空格改为在能量值满时随机打开去色、游标旋转、隐藏一部分谱面等选项。同时多出了以往RF街机所没有的长音符。该模式没有Key音(僅遊戲內建的鈴鼓音效)，除了收录IGS原创曲多有重叠外，谱面和RF系列也无任何继承关系。
 
 该模式仅在唯舞独尊网游出现，IGS另一同名产品唯舞独尊Online的街机并无此模式。
 
@@ -195,7 +195,7 @@ RF5主题曲 演唱者：吴家瑀\[1\]。
 
 ### IGS兒童合唱團
 
-  - [看我72變](../Page/看我72變_\(歌曲\).md "wikilink") Child
+  - [看我72變](https://zh.wikipedia.org/wiki/看我72變_\(歌曲\) "wikilink") Child
 
 原唱：蔡依林
 
@@ -211,9 +211,9 @@ RF5主题曲 演唱者：吴家瑀\[1\]。
 
 ## 相关条目
 
-  - [铁琴：第一乐章](../Page/铁琴：第一乐章.md "wikilink")
-  - [唯舞独尊Online](../Page/唯舞独尊Online.md "wikilink")
-  - [击鼓王](../Page/击鼓王.md "wikilink")
+  - [铁琴：第一乐章](https://zh.wikipedia.org/wiki/铁琴：第一乐章 "wikilink")
+  - [唯舞独尊Online](https://zh.wikipedia.org/wiki/唯舞独尊Online "wikilink")
+  - [击鼓王](https://zh.wikipedia.org/wiki/击鼓王 "wikilink")
 
 ## 备注
 

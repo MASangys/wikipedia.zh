@@ -23,13 +23,13 @@ Eden ULV 500MHz是第一個達到 1W的TDP
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
   - [VIA C3](../Page/VIA_C3.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA CoreFusion](../Page/VIA_CoreFusion.md "wikilink")
   - [VIA C7-D](../Page/VIA_C7-D.md "wikilink")
   - [VIA C7-M](../Page/VIA_C7-M.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
   - [VIA Nano](../Page/VIA_Nano.md "wikilink")
 
 ## 外部連結

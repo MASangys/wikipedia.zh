@@ -369,7 +369,7 @@ Dark Force</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="../Page/火山.md" title="wikilink">火山</a>&amp;<a href="../Page/地下.md" title="wikilink">地下</a></p></td>
+<td><p><a href="../Page/火山.md" title="wikilink">火山</a>&amp;<a href="https://zh.wikipedia.org/wiki/地下" title="wikilink">地下</a></p></td>
 <td><p>核心戰艦三式（Big Core Mk-III）</p></td>
 <td><p>In the Wind / Underground<br />
 Shipe Shoot</p></td>
@@ -427,7 +427,7 @@ Dark Force / Final Shot</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p><a href="../Page/細胞.md" title="wikilink">細胞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/細胞" title="wikilink">細胞</a></p></td>
 <td><p>巴克特力昂（Bacterion）</p></td>
 <td><p>Unpleasant Cell<br />
 Last Struggle</p></td>

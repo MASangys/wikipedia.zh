@@ -6,23 +6,23 @@ Facebook遊戲泛指必須透過[Facebook平台的登入](../Page/Facebook.md "w
 
 ### 手指快速動作反應類
 
-| 遊戲名稱(英)                                                    | 遊戲名稱(中)    | 簡介 | 遊戲介面                                                | 送禮功能 | 備註   |
-| ---------------------------------------------------------- | ---------- | -- | --------------------------------------------------- | ---- | ---- |
-| [Bejeweled Blitz](../Page/Bejeweled_Blitz.md "wikilink")   | 寶石消消樂      |    | [英文](http://apps.facebook.com/bejeweledblitz)       | 有    |      |
-| [Candy Crush Saga](../Page/Candy_Crush_Saga.md "wikilink") | 糖果粉碎傳奇     |    | [英文](http://apps.facebook.com/candycrush/)          | |有   |      |
-| Despicable Me                                              | 神偷奶爸：奔跑小小兵 |    | [1](https://www.facebook.com/games/despicablememr/) |      | 手機遊戲 |
-|                                                            |            |    |                                                     |      |      |
+| 遊戲名稱(英)                                                                     | 遊戲名稱(中)    | 簡介 | 遊戲介面                                                | 送禮功能 | 備註   |
+| --------------------------------------------------------------------------- | ---------- | -- | --------------------------------------------------- | ---- | ---- |
+| [Bejeweled Blitz](https://zh.wikipedia.org/wiki/Bejeweled_Blitz "wikilink") | 寶石消消樂      |    | [英文](http://apps.facebook.com/bejeweledblitz)       | 有    |      |
+| [Candy Crush Saga](../Page/Candy_Crush_Saga.md "wikilink")                  | 糖果粉碎傳奇     |    | [英文](http://apps.facebook.com/candycrush/)          | |有   |      |
+| Despicable Me                                                               | 神偷奶爸：奔跑小小兵 |    | [1](https://www.facebook.com/games/despicablememr/) |      | 手機遊戲 |
+|                                                                             |            |    |                                                     |      |      |
 
 ### 虛擬種菜類
 
-| 遊戲名稱(英)                                            | 遊戲名稱(中)                            | 簡介                                              | 遊戲介面                                                                                       | 送禮功能            | 備註                            |
-| -------------------------------------------------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- | ----------------------------- |
-| [FarmVille](../Page/FarmVille.md "wikilink")       |                                    |                                                 | [英文](http://apps.facebook.com/onthefarm)、中文                                                | |有              | 早期中文匿名在遊戲中顯示異常，直至多國語言支援補丁釋出為止 |
-| [FarmVille中文版](../Page/FarmVille中文版.md "wikilink") |                                    | [中文](http://apps.facebook.com/onthefarmChinesr) | 有                                                                                          | 與英文版本相若，但系統並不相通 |                               |
-| Happy Farm                                         | [開心農場](../Page/開心農場.md "wikilink") |                                                 | [中文](https://web.archive.org/web/20111123100616/http://apps.facebook.com/happyfarm_tw/)    |                 |                               |
-| FarmVille 2                                        |                                    |                                                 | [中文](http://apps.facebook.com/farmville-two/)                                              | 有               |                               |
-| CastleVille                                        |                                    |                                                 | [中文](https://web.archive.org/web/20111210130132/http://apps.facebook.com/playcastleville/) | 有               |                               |
-| [開心農民](../Page/開心農民.md "wikilink")                 | [開心農民](../Page/開心農民.md "wikilink") |                                                 | 中文                                                                                         |                 |                               |
+| 遊戲名稱(英)                                                               | 遊戲名稱(中)                            | 簡介                                              | 遊戲介面                                                                                       | 送禮功能            | 備註                            |
+| --------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- | ----------------------------- |
+| [FarmVille](../Page/FarmVille.md "wikilink")                          |                                    |                                                 | [英文](http://apps.facebook.com/onthefarm)、中文                                                | |有              | 早期中文匿名在遊戲中顯示異常，直至多國語言支援補丁釋出為止 |
+| [FarmVille中文版](https://zh.wikipedia.org/wiki/FarmVille中文版 "wikilink") |                                    | [中文](http://apps.facebook.com/onthefarmChinesr) | 有                                                                                          | 與英文版本相若，但系統並不相通 |                               |
+| Happy Farm                                                            | [開心農場](../Page/開心農場.md "wikilink") |                                                 | [中文](https://web.archive.org/web/20111123100616/http://apps.facebook.com/happyfarm_tw/)    |                 |                               |
+| FarmVille 2                                                           |                                    |                                                 | [中文](http://apps.facebook.com/farmville-two/)                                              | 有               |                               |
+| CastleVille                                                           |                                    |                                                 | [中文](https://web.archive.org/web/20111210130132/http://apps.facebook.com/playcastleville/) | 有               |                               |
+| [開心農民](../Page/開心農民.md "wikilink")                                    | [開心農民](../Page/開心農民.md "wikilink") |                                                 | 中文                                                                                         |                 |                               |
 
 ### 經營類
 
@@ -38,12 +38,12 @@ Facebook遊戲泛指必須透過[Facebook平台的登入](../Page/Facebook.md "w
 
 ### 益智類
 
-| 遊戲名稱(英)                                              | 遊戲名稱(中)                          | 簡介 | 遊戲介面                                            | 送禮功能 | 備註            |
-| ---------------------------------------------------- | -------------------------------- | -- | ----------------------------------------------- | ---- | ------------- |
-| Frosmo World                                         |                                  |    | [中文](http://apps.facebook.com/frosmoworld/)     |      | 數十個益智類的小遊戲的集合 |
-| [Tetris Battle](../Page/Tetris_Battle.md "wikilink") |                                  |    | [英文](http://apps.facebook.com/tetris_battle/)   |      | 玩法同俄羅斯方塊      |
-| [Angry Birds Friends](../Page/愤怒的小鸟.md "wikilink")   | [憤怒鳥](../Page/憤怒鳥.md "wikilink") |    | [英文](http://apps.facebook.com/angrybirds/)      | 有    |               |
-| Pet Crossing                                         | 嘎姆寵物連連看                          |    | [中文](http://apps.facebook.com/pet_crossing_tw/) | 無    | 單人遊戲/即時多人連線   |
+| 遊戲名稱(英)                                                               | 遊戲名稱(中)                                             | 簡介 | 遊戲介面                                            | 送禮功能 | 備註            |
+| --------------------------------------------------------------------- | --------------------------------------------------- | -- | ----------------------------------------------- | ---- | ------------- |
+| Frosmo World                                                          |                                                     |    | [中文](http://apps.facebook.com/frosmoworld/)     |      | 數十個益智類的小遊戲的集合 |
+| [Tetris Battle](../Page/Tetris_Battle.md "wikilink")                  |                                                     |    | [英文](http://apps.facebook.com/tetris_battle/)   |      | 玩法同俄羅斯方塊      |
+| [Angry Birds Friends](https://zh.wikipedia.org/wiki/愤怒的小鸟 "wikilink") | [憤怒鳥](https://zh.wikipedia.org/wiki/憤怒鳥 "wikilink") |    | [英文](http://apps.facebook.com/angrybirds/)      | 有    |               |
+| Pet Crossing                                                          | 嘎姆寵物連連看                                             |    | [中文](http://apps.facebook.com/pet_crossing_tw/) | 無    | 單人遊戲/即時多人連線   |
 
 ### 寵物飼養類
 
@@ -60,28 +60,28 @@ Facebook遊戲泛指必須透過[Facebook平台的登入](../Page/Facebook.md "w
 
 ### 戰略類
 
-| 遊戲名稱(英)             | 遊戲名稱(中)                              | 簡介 | 遊戲介面                                                                                   | 送禮功能 | 備註            |
-| ------------------- | ------------------------------------ | -- | -------------------------------------------------------------------------------------- | ---- | ------------- |
-| Kingdoms of Camelot | 亞瑟王國                                 |    | [中文](http://apps.facebook.com/kingdomsofcamelot)                                       | 有    | 可在遊戲介面中選擇預設語系 |
-|                     | 黃金國度                                 |    | [中文](https://archive.is/20121209105852/http://apps.facebook.com/golden_gdn)            |      |               |
-| Verdonia            |                                      |    | [英文](http://apps.facebook.com/verdonia)                                                |      |               |
-|                     | 封神無敵                                 |    | [中文](http://apps.facebook.com/ftc_fswd)                                                |      |               |
-|                     | 創世傳說                                 |    | \[<http://apps.facebook.com/web_legion/> 中文\]                                          |      |               |
-|                     | 封神演義                                 |    | \[<http://apps.facebook.com/lampgod/> 中文\]                                             |      |               |
-| Army Attack         |                                      |    | [中文](http://apps.facebook.com/armyattack/)                                             |      |               |
-|                     | [三國總動員](../Page/三國總動員.md "wikilink") |    | [中文](https://web.archive.org/web/20130401124402/http://apps.facebook.com/tw_sanguotd/) |      | 三國為背景的守城遊戲    |
-|                     |                                      |    |                                                                                        |      |               |
+| 遊戲名稱(英)             | 遊戲名稱(中)                                                 | 簡介 | 遊戲介面                                                                                   | 送禮功能 | 備註            |
+| ------------------- | ------------------------------------------------------- | -- | -------------------------------------------------------------------------------------- | ---- | ------------- |
+| Kingdoms of Camelot | 亞瑟王國                                                    |    | [中文](http://apps.facebook.com/kingdomsofcamelot)                                       | 有    | 可在遊戲介面中選擇預設語系 |
+|                     | 黃金國度                                                    |    | [中文](https://archive.is/20121209105852/http://apps.facebook.com/golden_gdn)            |      |               |
+| Verdonia            |                                                         |    | [英文](http://apps.facebook.com/verdonia)                                                |      |               |
+|                     | 封神無敵                                                    |    | [中文](http://apps.facebook.com/ftc_fswd)                                                |      |               |
+|                     | 創世傳說                                                    |    | \[<http://apps.facebook.com/web_legion/> 中文\]                                          |      |               |
+|                     | 封神演義                                                    |    | \[<http://apps.facebook.com/lampgod/> 中文\]                                             |      |               |
+| Army Attack         |                                                         |    | [中文](http://apps.facebook.com/armyattack/)                                             |      |               |
+|                     | [三國總動員](https://zh.wikipedia.org/wiki/三國總動員 "wikilink") |    | [中文](https://web.archive.org/web/20130401124402/http://apps.facebook.com/tw_sanguotd/) |      | 三國為背景的守城遊戲    |
+|                     |                                                         |    |                                                                                        |      |               |
 
 ### 組織犯罪模擬類
 
   - 這類的遊戲有能量點數的設計，每完成一個任務會扣能量點數藉以獲得升級用的經驗值，被消耗的能量點數隨時間增加會逐漸回復。
 
-| 遊戲名稱(英)       | 遊戲名稱(中)                              | 簡介 | 遊戲介面                                                                                     | 送禮功能 | 備註             |
-| ------------- | ------------------------------------ | -- | ---------------------------------------------------------------------------------------- | ---- | -------------- |
-|               | 瘋狂海盜                                 |    | [中文](http://apps.facebook.com/crazypirates_tw/)                                          |      |                |
-| Gangster City |                                      |    | [英文](http://apps.facebook.com/gangstercity/)                                             |      |                |
-| Mafia Wars    | [黑手党战争](../Page/黑手党战争.md "wikilink") |    | [英文](https://web.archive.org/web/20110808090443/http://apps.facebook.com/inthemafia/)    | 有    |                |
-| Mafia Wars2   | 黑手党战争2                               |    | [中文](https://web.archive.org/web/20111204204931/http://apps.facebook.com/mafiawars-two/) | 有    | |- Auto Hustle |
+| 遊戲名稱(英)       | 遊戲名稱(中)                                                 | 簡介 | 遊戲介面                                                                                     | 送禮功能 | 備註             |
+| ------------- | ------------------------------------------------------- | -- | ---------------------------------------------------------------------------------------- | ---- | -------------- |
+|               | 瘋狂海盜                                                    |    | [中文](http://apps.facebook.com/crazypirates_tw/)                                          |      |                |
+| Gangster City |                                                         |    | [英文](http://apps.facebook.com/gangstercity/)                                             |      |                |
+| Mafia Wars    | [黑手党战争](https://zh.wikipedia.org/wiki/黑手党战争 "wikilink") |    | [英文](https://web.archive.org/web/20110808090443/http://apps.facebook.com/inthemafia/)    | 有    |                |
+| Mafia Wars2   | 黑手党战争2                                                  |    | [中文](https://web.archive.org/web/20111204204931/http://apps.facebook.com/mafiawars-two/) | 有    | |- Auto Hustle |
 
 ### 射擊動作類型
 

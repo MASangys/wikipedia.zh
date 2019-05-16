@@ -3,7 +3,7 @@
 ## 概要
 
   - 《**Going\!**》是KAT-TUN足以爆破未來世界的一張劃時代的單曲。歌詞針對即將展開新挑戰的人們傳達了聲援之意，為開展新境界的樂曲。此外亦是2010年4月3日開始在日本電視台播放的「[Going\!
-    Sports\&News](../Page/Going!_Sports&News.md "wikilink")」新聞的主題曲。而龜梨和也亦在節目中擔當「特殊棒球主播」（Baseball
+    Sports\&News](https://zh.wikipedia.org/wiki/Going!_Sports&News "wikilink")」新聞的主題曲。而龜梨和也亦在節目中擔當「特殊棒球主播」（Baseball
     Special Supporter）一職。\[1\]
 
 <!-- end list -->

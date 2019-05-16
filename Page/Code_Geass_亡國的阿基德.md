@@ -41,7 +41,7 @@ Geass系列作品的最新情報，其中包括本作最新的聲優、主題曲
   -
     E.U.军wZERO部队的作战参谋，少校军阶。於拯救行動後晋升中校，成为部队司令，穿著獨特服飾。有著公主的氣質，喜歡養貓，但平日一心想著軍隊的事情，公開接受11區人，亦尊重對方稱為日本人，不論隊員來歷如何都期望能夠避免犧牲。
     两亲是从不列颠帝国逃出後被暗殺的流亡贵族，於12年前去世。之後被巨型财团马尔卡勒家族收养，与义兄、马尔卡勒家族第三子约翰是婚约者。本名为\[3\]。
-    [合气道段位的持有者](../Page/合气道.md "wikilink")。其軍藉ID卡可充當信用卡用約值100百萬元，不諳生活常識。
+    [合气道段位的持有者](https://zh.wikipedia.org/wiki/合气道 "wikilink")。其軍藉ID卡可充當信用卡用約值100百萬元，不諳生活常識。
     从一开始便注意到了纳尔瓦战役的唯一幸存者阿基德，后期在相处中对其产生好感。
     在「方舟船團」的恐佈組織宣傳後，接獲恐佈組織是虛構存在，實為歐洲不列顛尼亞的陰謀，下令翼龍隊擊破「方舟船團」的飛船，同時向吉恩·斯迈尔斯將軍請求公開恐佈組織事件平息E.U.民怨，但卻被其要求公開萊拉身份來平息E.U.民怨，E.U.人民得悉布萊斯高家族的千金健在後，各地民怨得到平息，並迅速成為人民心中精神支柱及其精神領袖。不久又被吉恩·斯迈尔斯將軍已政治宣傳方式宣告戰死迅速從世界舞台下落幕。
     双亲遇难后在逃亡时意外墜落到冰湖水底，被C.C.救上来后，因年齡關係被施下有待其決定是否接受使用的Geass能力，但當時自己并不清楚，認為只是一場夢。在萊拉談判投降時真企圖用Geass能力命令其自殺卻遭到反彈眼睛短暫疼痛，原因不明。於最終戰役中阿基德與真在激戰中消失及索菲腦科學研究假設言論後忘了去逃生司令室全員遭敵軍全部殺害後，意外觸發從未決定過其價值的Geass力量其能力與蘭德爾博士提及腦科學現象擁有多處相同之處，其確認能力之一時空跳躍，其他能力:觀察自身過去了解別人想法，觀察別人的過去，除了一般的過時間地點以外，甚至能進入他人某刻的心靈，部份情況下能了解彼此心意，亦能以較溫和方式干涉他人思想，能夠同時以複數形式向他人投影其他人的意織，或能夠返回過去某時間點令戰況改寫。雖然其沒有真實認識整個能量，但其仍得到時空管理者的祝福，認為她是會把Geass正確發揮的希望，萊拉Geass為藍色\[4\]，只是初期狀態的Geass已經能干涉全部翼龙队队員，連意志較強的日向兄弟都受到其干擾\[5\]。
@@ -185,7 +185,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
   -
     小時候是孤兒，後獲真救助，真·日向·沙欣格的參謀。對阿修雷的瘋狂表現不屑，喜欢真。最终章被真誤杀。
   -
-    韦南斯[大公](../Page/大公.md "wikilink")，欧洲·不列颠尼亞的宗主。在朱利亞斯·金斯利使用皇家權杖後其認為叛逆皇帝代表而遭到軟禁，直至事件結束後重新領導。
+    韦南斯[大公](https://zh.wikipedia.org/wiki/大公 "wikilink")，欧洲·不列颠尼亞的宗主。在朱利亞斯·金斯利使用皇家權杖後其認為叛逆皇帝代表而遭到軟禁，直至事件結束後重新領導。
   -
     原聖米迦勒騎士團團長，被真的Geass操纵自尽。
     原第二骑士\[8\]。相比查尔斯皇帝给予的地位，他选择了为维兰大公竭尽忠诚，辞去第二骑士的身份移籍至欧洲不列颠尼亞，第1章末死于部下信的Geass命令之下。
@@ -290,19 +290,19 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 
     原本是米凯勒·文费洛迪的座机，名称取自圆桌骑士Sagramore。后米凯勒辞去第二骑士的身份移籍至欧洲不列颠，机体名称改为维钦托利。米凯勒被真杀死后此机成为真·日向·夏英格的座机。
 
-    机名来自[高卢战争中的英雄](../Page/高盧戰爭.md "wikilink")[维钦托利](../Page/维钦托利.md "wikilink")。
+    机名来自[高卢战争中的英雄](../Page/高盧戰爭.md "wikilink")[维钦托利](https://zh.wikipedia.org/wiki/维钦托利 "wikilink")。
 
 <!-- end list -->
 
   -
     珍·罗威的专用KMF。银色涂装。
-    机名来自罗马共和国的政治家[格拉古兄弟](../Page/格拉古兄弟.md "wikilink")。4
+    机名来自罗马共和国的政治家[格拉古兄弟](https://zh.wikipedia.org/wiki/格拉古兄弟 "wikilink")。4
 
 <!-- end list -->
 
   -
     欧洲不列颠开发的重型KMF，涂装为红色，由阿修雷·阿修罗驾驶。两臂各装备三挺四管转轮机枪。
-    机名来自古波斯神[阿胡拉·玛兹达](../Page/阿胡拉·玛兹达.md "wikilink")。
+    机名来自古波斯神[阿胡拉·玛兹达](https://zh.wikipedia.org/wiki/阿胡拉·玛兹达 "wikilink")。
 
 <!-- end list -->
 
@@ -321,7 +321,7 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
   -
     型式編號（蘭斯洛特）：Z-01 全高／戰鬥重量：4.49m／6890kg
     型式編號（蘭斯洛特‧Air Cavalry）：Z-01/A 全高／戰鬥重量：4.49m／7820kg
-    最新型的第7代Knightmare，以傳說中[亞瑟王手下最強的](../Page/亞瑟王.md "wikilink")[圓桌騎士蘭斯洛特為名](../Page/圓桌騎士.md "wikilink")。
+    最新型的第7代Knightmare，以傳說中[亞瑟王手下最強的](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink")[圓桌騎士蘭斯洛特為名](https://zh.wikipedia.org/wiki/圓桌騎士 "wikilink")。
 
 ## 製作人員
 
@@ -344,12 +344,13 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
   - 音樂：橋本一子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 動畫製作：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 製作：[Code Geass 亡國的AKITO製作委員會](../Page/製作委員會方式.md "wikilink")
+  - 製作：[Code Geass
+    亡國的AKITO製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## 主題曲
 
   - 「」（第1－3章）
-    作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[坂本真綾](../Page/坂本真綾.md "wikilink")
+    作詞：[岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink")，作曲、編曲：[菅野洋子](../Page/菅野洋子.md "wikilink")，主唱：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
     第4章用作插曲。
 
 <!-- end list -->
@@ -380,13 +381,13 @@ wZERO作戰部隊的高效率作戰小隊稱呼，成員以阿基德為首，後
 <td></td>
 <td><p>翼龍翔臨<br />
 The Wyvern Arrives</p></td>
-<td><p><a href="../Page/赤根和樹.md" title="wikilink">赤根和樹</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/赤根和樹" title="wikilink">赤根和樹</a><br />
 <a href="../Page/淺川美也.md" title="wikilink">淺川美也</a></p></td>
 <td><p>赤根和樹、田中孝行</p></td>
 <td><p>田中孝行</p></td>
-<td><p><a href="../Page/島村秀一.md" title="wikilink">島村秀一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/島村秀一" title="wikilink">島村秀一</a></p></td>
 <td><p>前田清明、秋山由樹子<br />
-皆川一德、<a href="../Page/辻繁人.md" title="wikilink">辻繁人</a></p></td>
+皆川一德、<a href="https://zh.wikipedia.org/wiki/辻繁人" title="wikilink">辻繁人</a></p></td>
 <td></td>
 <td><p><strong>2012年</strong><br />
 8月4日</p></td>
@@ -397,11 +398,11 @@ The Wyvern Arrives</p></td>
 <td><p>-{zh-tw: 被撕裂的翼龍; zh-hk: 翼龍折翼;zh-cn:被撕裂的翼龍 }-<br />
 The Wyvern Divide</p></td>
 <td><p>淺川美也<br />
-<a href="../Page/大野木寬.md" title="wikilink">大野木寬</a><br />
+<a href="https://zh.wikipedia.org/wiki/大野木寬" title="wikilink">大野木寬</a><br />
 赤根和樹</p></td>
-<td><p>安田賢司、<a href="../Page/日高政光.md" title="wikilink">日高政光</a><br />
+<td><p>安田賢司、<a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a><br />
 赤根和樹</p></td>
-<td><p><a href="../Page/鳥羽聰.md" title="wikilink">鳥羽聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳥羽聰" title="wikilink">鳥羽聰</a></p></td>
 <td><p>皆川一德、前田清明<br />
 波部崇、小暮昌広<br />
 小野早香</p></td>
@@ -416,14 +417,14 @@ The Wyvern Divide</p></td>
 <td></td>
 <td><p>-{zh-tw: 輝煌之物從天墮下; zh-hk: 閃耀之物由天墜落;zh-cn:輝煌之物從天墮下}-<br />
 The Brightness Falls</p></td>
-<td><p>日高政光、<a href="../Page/蘆野芳晴.md" title="wikilink">蘆野芳晴</a><br />
+<td><p>日高政光、<a href="https://zh.wikipedia.org/wiki/蘆野芳晴" title="wikilink">蘆野芳晴</a><br />
 田中孝行、佐佐木守<br />
 赤根和樹</p></td>
 <td><p>五十嵐達矢、三宅和男<br />
 渡邊正樹、大石康之<br />
 鳥羽聰</p></td>
 <td><p>波部崇、前田清明<br />
-佐佐木守、<a href="../Page/嘉手苅睦.md" title="wikilink">嘉手苅睦</a><br />
+佐佐木守、<a href="https://zh.wikipedia.org/wiki/嘉手苅睦" title="wikilink">嘉手苅睦</a><br />
 鈴木幸江、米山浩平</p></td>
 <td><p>前田清明（總）</p></td>
 <td><p><strong>2015年</strong><br />
@@ -438,7 +439,7 @@ The Brightness Falls</p></td>
 Memories of Hatred</p></td>
 <td><p>大野木寬<br />
 赤根和樹</p></td>
-<td><p>日高政光、<a href="../Page/宮尾佳和.md" title="wikilink">宮尾佳和</a><br />
+<td><p>日高政光、<a href="https://zh.wikipedia.org/wiki/宮尾佳和" title="wikilink">宮尾佳和</a><br />
 宮地☆昌幸、渡邊正樹<br />
 三宅和男、赤根和樹</p></td>
 <td><p>渡邊正樹、三宅和男<br />
@@ -462,7 +463,7 @@ Memories of Hatred</p></td>
 <td><p>-{zh-tw: 致親愛的人與物; zh-hk: 給所愛的人們;zh-cn:致親愛的人與物 }-<br />
 To Beloved Ones</p></td>
 <td><p>渡邊正樹、三宅和男<br />
-大石康之、<a href="../Page/山下明彦.md" title="wikilink">山下明彦</a><br />
+大石康之、<a href="https://zh.wikipedia.org/wiki/山下明彦" title="wikilink">山下明彦</a><br />
 <a href="../Page/古橋一浩.md" title="wikilink">古橋一浩</a>、宮尾佳和<br />
 田中孝行、赤根和樹</p></td>
 <td><p>渡邊正樹、三宅和男<br />
@@ -473,7 +474,7 @@ To Beloved Ones</p></td>
 嘉手苅睦</p></td>
 <td><p>奥田淳、波部崇<br />
 牧孝雄、木村智<br />
-北原広大、<a href="../Page/箕輪豊.md" title="wikilink">箕輪豊</a></p></td>
+北原広大、<a href="https://zh.wikipedia.org/wiki/箕輪豊" title="wikilink">箕輪豊</a></p></td>
 <td><p>東賢太郎<br />
 金子秀一（特效）<br />
 前田清明（總）</p></td>
@@ -492,7 +493,7 @@ To Beloved Ones</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -507,7 +508,7 @@ To Beloved Ones</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>2013年9月1日</p></td>
 <td><p>星期日 25時40分－26時40分</p></td>
@@ -533,14 +534,14 @@ To Beloved Ones</p></td>
 雙語廣播<br />
 有字幕<br />
 有重播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2013年9月7日</p></td>
 <td><p>星期六 19時00分－20時00分</p></td>
-<td><p><a href="../Page/獨立UHF局.md" title="wikilink">獨立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -553,9 +554,9 @@ To Beloved Ones</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS11.md" title="wikilink">BS11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>星期六 27時30分－28時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
 <td></td>
 </tr>
@@ -568,7 +569,7 @@ To Beloved Ones</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>星期日 27時00分－28時00分</p></td>
 <td><p>東京電視網</p></td>
@@ -576,7 +577,7 @@ To Beloved Ones</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/中部日本放送.md" title="wikilink">中部日本放送</a></p></td>
 <td><p>2015年3月29日</p></td>
 <td><p>星期六 27時23分—28時23分</p></td>
@@ -584,8 +585,8 @@ To Beloved Ones</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
-<td><p><a href="../Page/毎日放送.md" title="wikilink">毎日放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/毎日放送" title="wikilink">毎日放送</a></p></td>
 <td><p>2015年3月30日</p></td>
 <td><p>星期一 25時55分—26時55分</p></td>
 <td></td>
@@ -593,7 +594,7 @@ To Beloved Ones</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2015年5月4日</p></td>
 <td><p>星期日 24時00分－25時00分</p></td>
 <td><p>衛星電視</p></td>

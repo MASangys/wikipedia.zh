@@ -1,6 +1,6 @@
 **KNN**（Korea New Network），全名為**KNN股份有限公司**，原名**釜山放送**（PuSan
 Broadcasting
-Corporation，PSB）。一家坐落在[韩国](../Page/韩国.md "wikilink")[釜山的商业广播电视台](../Page/釜山.md "wikilink")，是[SBS联播網成员之一](../Page/SBS有限公司.md "wikilink")。母公司為[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")，除新闻节目自办外，大量节目来源于SBS。
+Corporation，PSB）。一家坐落在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山的商业广播电视台](https://zh.wikipedia.org/wiki/釜山 "wikilink")，是[SBS联播網成员之一](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")。母公司為[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")，除新闻节目自办外，大量节目来源于SBS。
 
 ## 沿革
 
@@ -15,12 +15,12 @@ Corporation，PSB）。一家坐落在[韩国](../Page/韩国.md "wikilink")[釜
 
   - 頻道：15頻道(LCN：6-1)
   - 識別訊號：HLDG-DTV
-  - 播出區域：[釜山廣域市](../Page/釜山廣域市.md "wikilink")、[慶尚南道](../Page/慶尚南道.md "wikilink")
+  - 播出區域：[釜山廣域市](../Page/釜山廣域市.md "wikilink")、[慶尚南道](https://zh.wikipedia.org/wiki/慶尚南道 "wikilink")
 
 ## 友好媒体
 
-  - 日本：[西日本电视台](../Page/西日本电视台.md "wikilink")、[青森调频](../Page/青森调频.md "wikilink")
-  - 中国：[天津电视台](../Page/天津电视台.md "wikilink")、[青岛电视台](../Page/青岛电视台.md "wikilink")
+  - 日本：[西日本电视台](https://zh.wikipedia.org/wiki/西日本电视台 "wikilink")、[青森调频](https://zh.wikipedia.org/wiki/青森调频 "wikilink")
+  - 中国：[天津电视台](https://zh.wikipedia.org/wiki/天津电视台 "wikilink")、[青岛电视台](https://zh.wikipedia.org/wiki/青岛电视台 "wikilink")
 
 ## 關係企業
 

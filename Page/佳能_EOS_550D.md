@@ -1,5 +1,6 @@
 **佳能 EOS 550D**，又称为**Digital Rebel
-T2i**（[北美市场](../Page/北美.md "wikilink")）或**EOS Kiss Digital
+T2i**（[北美市场](https://zh.wikipedia.org/wiki/北美 "wikilink")）或**EOS
+Kiss Digital
 X4**（日本市场）是由[佳能公司于](../Page/佳能.md "wikilink")2010年2月8日宣布，并将于2010年2月24日上市的一款消费级别数码单镜反光相机\[1\]。在北美市场Digital
 Rebel T2i将于同年3月上市\[2\]。作为成功的[佳能 EOS
 500D的继任者](../Page/佳能_EOS_500D.md "wikilink")，佳能EOS

@@ -1,15 +1,15 @@
 **梅赛德斯-奔驰SLS
-AMG**是[梅赛德斯-奔驰生產的一款](../Page/梅赛德斯-奔驰.md "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，由[梅赛德斯-AMG開發](../Page/梅赛德斯-AMG.md "wikilink")，並取代2003年面世的[SLR
-McLaren](../Page/SLR_McLaren.md "wikilink")。
+AMG**是[梅赛德斯-奔驰生產的一款](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，由[梅赛德斯-AMG開發](https://zh.wikipedia.org/wiki/梅赛德斯-AMG "wikilink")，並取代2003年面世的[SLR
+McLaren](https://zh.wikipedia.org/wiki/SLR_McLaren "wikilink")。
 [Mercedes-Benz,_SLS_AMG_GT_FINAL_EDITION,_Front_perspective_view,_at_TMS2013.jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz,_SLS_AMG_GT_FINAL_EDITION,_Front_perspective_view,_at_TMS2013.jpg "fig:Mercedes-Benz,_SLS_AMG_GT_FINAL_EDITION,_Front_perspective_view,_at_TMS2013.jpg")
 [2012_Mercedes-Benz_SLS_AMG_(R_197)_roadster_(2012-10-26)_01.jpg](https://zh.wikipedia.org/wiki/File:2012_Mercedes-Benz_SLS_AMG_\(R_197\)_roadster_\(2012-10-26\)_01.jpg "fig:2012_Mercedes-Benz_SLS_AMG_(R_197)_roadster_(2012-10-26)_01.jpg")
 SLS
-AMG於2009年的[法蘭克福車展中亮相](../Page/法蘭克福車展.md "wikilink")，外型仿照於1954年上市的300SL，包括一對[鷗翼車門](../Page/鷗翼車門.md "wikilink")，引擎置於頭軸之後，乘坐位置靠近尾軸，屬於典型的頭長尾短GT設計。梅賽德斯-AMG為SLS
+AMG於2009年的[法蘭克福車展中亮相](../Page/法蘭克福車展.md "wikilink")，外型仿照於1954年上市的300SL，包括一對[鷗翼車門](https://zh.wikipedia.org/wiki/鷗翼車門 "wikilink")，引擎置於頭軸之後，乘坐位置靠近尾軸，屬於典型的頭長尾短GT設計。梅賽德斯-AMG為SLS
 AMG研製的6.2公升V8雙頂凸輪軸自然吸氣引擎，可產生571ps最大馬力及650Nm峰值扭力，配備一具[格特拉克研發製造的DCT](../Page/格特拉克傳動系統有限公司.md "wikilink")
 7速雙離合器自動手排變速箱（非E63 AMG車款的MCT變速箱），0-100km/h只需3.8秒，極速為電子限制下的317km/h。
 
 SLS
-AMG於2010年開始在[歐洲及](../Page/歐洲.md "wikilink")[亞洲發售](../Page/亞洲.md "wikilink")，2011年開始在[美國發售](../Page/美國.md "wikilink")。此車乃賽車遊戲[跑車浪漫旅5的封面](../Page/跑車浪漫旅系列.md "wikilink")\[1\]，並且成為[2010年世界一級方程式錦標賽的](../Page/2010年世界一級方程式錦標賽.md "wikilink")[安全車](../Page/安全車.md "wikilink")。\[2\]
+AMG於2010年開始在[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲發售](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，2011年開始在[美國發售](https://zh.wikipedia.org/wiki/美國 "wikilink")。此車乃賽車遊戲[跑車浪漫旅5的封面](../Page/跑車浪漫旅系列.md "wikilink")\[1\]，並且成為[2010年世界一級方程式錦標賽的](https://zh.wikipedia.org/wiki/2010年世界一級方程式錦標賽 "wikilink")[安全車](https://zh.wikipedia.org/wiki/安全車 "wikilink")。\[2\]
 
 除了SLS AMG之外，SLS還有幾個版本，包括：
 

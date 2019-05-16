@@ -1,5 +1,5 @@
 《**Only You
-只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝愛情](../Page/電視廣播有限公司.md "wikilink")[劇集](../Page/劇集.md "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧及](../Page/蒙嘉慧.md "wikilink")[鄭嘉穎領銜主演](../Page/鄭嘉穎.md "wikilink")，並由[田蕊妮及](../Page/田蕊妮.md "wikilink")[麥長青聯合主演](../Page/麥長青.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮劇集之一及](../Page/2011無綫節目巡禮.md "wikilink")2011\[愛的季節」呈獻劇集。
+只有您**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝愛情](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[李司棋](../Page/李司棋.md "wikilink")、[蒙嘉慧及](../Page/蒙嘉慧.md "wikilink")[鄭嘉穎領銜主演](../Page/鄭嘉穎.md "wikilink")，並由[田蕊妮及](../Page/田蕊妮.md "wikilink")[麥長青聯合主演](../Page/麥長青.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為[2011無綫節目巡禮劇集之一及](../Page/2011無綫節目巡禮.md "wikilink")2011\[愛的季節」呈獻劇集。
 
 ## 演員表
 
@@ -16,7 +16,7 @@
 <td><p><strong><a href="../Page/李司棋.md" title="wikilink">李司棋</a></strong></p></td>
 <td><p><strong>莊思甜</strong></p></td>
 <td><p><strong>甜姐</strong><br />
-「Only You」金牌<a href="../Page/大妗姐.md" title="wikilink">大妗姐</a><br />
+「Only You」金牌<a href="https://zh.wikipedia.org/wiki/大妗姐" title="wikilink">大妗姐</a><br />
 莊思齊之姊<br />
 馬曉晴之母<br />
 馬啟雄之分居妻子，於第30集離婚<br />
@@ -54,7 +54,7 @@ Marco之岳母<br />
 麥一敏之師傅兼好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></p></td>
 <td><p><strong>馬曉晴</strong></p></td>
 <td><p><strong>晴晴, Jessie</strong><br />
 馬啟雄、莊思甜之女<br />
@@ -107,7 +107,7 @@ Miki之男友、後來分手</p></td>
 司徒菲菲之徒弟兼好友<br />
 許妙茵、林綺玲、文靜之好友<br />
 馮日超、安子杰之前女友<br />
-童年由<a href="../Page/羅芷晴.md" title="wikilink">羅芷晴飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/羅芷晴" title="wikilink">羅芷晴飾演</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/李雨陽.md" title="wikilink">李雨陽</a></strong></p></td>
@@ -120,7 +120,7 @@ Miki之男友、後來分手</p></td>
 童年由<a href="../Page/吳諾弘.md" title="wikilink">吳諾弘饰演</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/李亞男.md" title="wikilink">李亞男</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></strong></p></td>
 <td><p><strong>趙詠鳳</strong></p></td>
 <td><p><strong>Rainbow</strong><br />
 珠寶設計師<br />
@@ -167,7 +167,7 @@ Miki之男友、後來分手</p></td>
 韓芷瑤之男友，後分手<br />
 莊思齊、張景源、唐燕珊之好友<br />
 司徒菲菲之下屬<br />
-童年由<a href="../Page/區珀豪.md" title="wikilink">區珀豪飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/區珀豪" title="wikilink">區珀豪飾演</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -185,31 +185,31 @@ Miki之男友、後來分手</p></td>
 <td><p><strong><a href="../Page/麥長青.md" title="wikilink">麥長青</a></strong></p></td>
 <td><p><strong>莊思齊</strong></p></td>
 <td><p>「Only You」老闆<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/李司棋.md" title="wikilink">李司棋</a></strong></p></td>
 <td><p><strong>莊思甜</strong></p></td>
 <td><p>「Only You」金牌大妗姐<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
 <td><p><strong>麥一敏</strong></p></td>
 <td><p>「Only You」婚禮統籌助理<br />
-參見<strong><a href="../Page/#麥家.md" title="wikilink">麥家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#麥家" title="wikilink">麥家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a></strong></p></td>
 <td><p><strong>夏天生</strong></p></td>
 <td><p>「Only You」首席摄影师<br />
-參見<strong><a href="../Page/#夏家.md" title="wikilink">夏家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#夏家" title="wikilink">夏家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/田蕊妮.md" title="wikilink">田蕊妮</a></strong></p></td>
 <td><p><strong>司徒菲菲</strong></p></td>
 <td><p>「Only You」婚紗設計師<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a></strong></p></td>
@@ -240,7 +240,7 @@ Candy之男友<br />
 <td><p><a href="../Page/蔡淇俊.md" title="wikilink">蔡淇俊</a></p></td>
 <td><p><strong>莊忠良</strong></p></td>
 <td><p>「Only You」助理<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/劉桂芳.md" title="wikilink">劉桂芳</a></p></td>
@@ -262,16 +262,16 @@ Candy之男友<br />
 <td><p><strong>關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李亞男.md" title="wikilink">李亞男</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></strong></p></td>
 <td><p><strong>趙詠鳳</strong></p></td>
 <td><p>麥一鳴之妻<br />
-參見<strong><a href="../Page/#麥家.md" title="wikilink">麥家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#麥家" title="wikilink">麥家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/李雨陽.md" title="wikilink">李雨陽</a></strong></p></td>
 <td><p><strong>麥一鳴</strong></p></td>
 <td><p>趙詠鳳之夫<br />
-參見<strong><a href="../Page/#麥家.md" title="wikilink">麥家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#麥家" title="wikilink">麥家</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -321,7 +321,7 @@ May之未婚夫<br />
 夏天生、張景源之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳展鵬.md" title="wikilink">陳展鵬</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></strong></p></td>
 <td><p><strong>吳兆海</strong></p></td>
 <td><p><strong>阿海</strong><br />
 釋囚、車房技工<br />
@@ -351,14 +351,14 @@ May之未婚夫<br />
 利用吳兆海捉拿豹哥</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
 <td></td>
 <td><p>黑社會成員<br />
 林豹之手下<br />
 於第6集被警方拘捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/顏桂洲.md" title="wikilink">顏桂洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏桂洲" title="wikilink">顏桂洲</a></p></td>
 <td></td>
 <td><p>黑社會成員<br />
 林豹之手下<br />
@@ -381,13 +381,13 @@ May之未婚夫<br />
 <td><p><strong>莊忠良</strong></p></td>
 <td><p><strong>Leo、囝囝</strong><br />
 Miki之男友，後來分手<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/李綺雯.md" title="wikilink">李綺雯</a></strong></p></td>
 <td><p><strong>Miki</strong></p></td>
 <td><p>售貨員<br />
-<a href="../Page/精神病.md" title="wikilink">精神病患者</a><br />
+<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病患者</a><br />
 莊忠良之女友，後來分手<br />
 於第9集被送去精神病院</p></td>
 </tr>
@@ -408,13 +408,13 @@ Miki之男友，後來分手<br />
 <td><p><strong>文　靜</strong></p></td>
 <td><p><strong>Maggie</strong><br />
 科學園細菌研究員<br />
-医院<a href="../Page/义工.md" title="wikilink">义工</a><br />
+医院<a href="https://zh.wikipedia.org/wiki/义工" title="wikilink">义工</a><br />
 安子謙之妻<br />
 麦一敏之好友<br />
 Rebecca之情敵兼針對對象</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/黃長興.md" title="wikilink">黃長興</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></strong></p></td>
 <td><p><strong>安子謙</strong></p></td>
 <td><p><strong>Angus</strong><br />
 富家公子<br />
@@ -538,32 +538,32 @@ Candy之情敵<br />
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>邦</p></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭比得.md" title="wikilink">彭比得</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭比得" title="wikilink">彭比得</a></p></td>
 <td><p>忠</p></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/單俊偉.md" title="wikilink">單俊偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單俊偉" title="wikilink">單俊偉</a></p></td>
 <td></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td></td>
 <td><p>劉華、劉小龍之下屬</p></td>
 </tr>
@@ -578,12 +578,12 @@ Candy之情敵<br />
 <td><p>蕭淑虎之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td></td>
 <td><p>蕭淑虎之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎桐康.md" title="wikilink">黎桐康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎桐康" title="wikilink">黎桐康</a></p></td>
 <td></td>
 <td><p>蕭淑虎之下屬</p></td>
 </tr>
@@ -668,7 +668,7 @@ Candy之情敵<br />
 <td><p><strong>關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉慶基.md" title="wikilink">劉　丹</a>'''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉慶基" title="wikilink">劉　丹</a>'''</p></td>
 <td><p><strong>馬啟雄</strong></p></td>
 <td><p>莊思甜之分居丈夫，於第30集離婚<br />
 何玉英之男友，後為丈夫<br />
@@ -682,10 +682,10 @@ Marco之岳父</p></td>
 莊思甜之情敵，後化敵為友，後反目，後化敵為友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></p></td>
 <td><p><strong>馬曉晴</strong></p></td>
 <td><p>Marco之妻<br />
-參見<strong><a href="../Page/#莊家.md" title="wikilink">莊家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#莊家" title="wikilink">莊家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/溫家偉.md" title="wikilink">溫家偉</a></p></td>
@@ -720,7 +720,7 @@ Peter之妻<br />
 麥一敏、林綺玲之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Bitto.md" title="wikilink">Bitto</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bitto" title="wikilink">Bitto</a></p></td>
 <td><p><strong>Peter</strong></p></td>
 <td><p>印度人<br />
 Gill之子<br />
@@ -755,10 +755,10 @@ Peter之父</p></td>
 <td><p><strong>King</strong><br />
 Erica之男友，後爲其夫<br />
 於第30集车祸身亡<br />
-參見<strong><a href="../Page/#「Only_You只有您」婚禮服務有限公司.md" title="wikilink">「Only You只有您」婚禮服務有限公司</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#「Only_You只有您」婚禮服務有限公司" title="wikilink">「Only You只有您」婚禮服務有限公司</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/姚子羚.md" title="wikilink">姚子羚</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a></strong></p></td>
 <td><p><strong>Erica</strong></p></td>
 <td><p><strong>KaKa</strong><br />
 啤酒女郎<br />
@@ -928,7 +928,7 @@ Don之母</p></td>
 被黃美好陷害</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳瓊.md" title="wikilink">黃鳳瓊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳瓊" title="wikilink">黃鳳瓊</a></p></td>
 <td><p>芬　姐</p></td>
 <td><p>大妗姐<br />
 莊思甜之徒弟<br />
@@ -974,7 +974,7 @@ Don之母</p></td>
 Jenny之夫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td></td>
 <td><p>麥一敏之表姐</p></td>
 </tr>
@@ -989,7 +989,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>Peter</p></td>
 <td></td>
 </tr>
@@ -1004,7 +1004,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎桐康.md" title="wikilink">黎桐康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎桐康" title="wikilink">黎桐康</a></p></td>
 <td><p>侍　應</p></td>
 <td></td>
 </tr>
@@ -1037,12 +1037,12 @@ Jenny之夫</p></td>
 <td><p>张笑雯之母</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張笑千.md" title="wikilink">張笑千</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張笑千" title="wikilink">張笑千</a></p></td>
 <td><p>Sam</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅劍虹.md" title="wikilink">傅劍虹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅劍虹" title="wikilink">傅劍虹</a></p></td>
 <td></td>
 <td><p>张笑雯之夫</p></td>
 </tr>
@@ -1067,7 +1067,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/謝珊珊.md" title="wikilink">謝珊珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝珊珊" title="wikilink">謝珊珊</a></p></td>
 <td><p>張　太</p></td>
 <td></td>
 </tr>
@@ -1097,17 +1097,17 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td><p>April</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王德基.md" title="wikilink">王德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王德基" title="wikilink">王德基</a></p></td>
 <td><p>車房仔</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王致迪.md" title="wikilink">王致迪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王致迪" title="wikilink">王致迪</a></p></td>
 <td><p>車房仔</p></td>
 <td></td>
 </tr>
@@ -1117,7 +1117,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a></p></td>
 <td><p>陳　炳</p></td>
 <td></td>
 </tr>
@@ -1127,27 +1127,27 @@ Jenny之夫</p></td>
 <td><p>唐燕珊之同事</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙嘉迪.md" title="wikilink">趙嘉迪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙嘉迪" title="wikilink">趙嘉迪</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃樂兒.md" title="wikilink">黃樂兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃樂兒" title="wikilink">黃樂兒</a></p></td>
 <td><p>秘　書</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡曜力.md" title="wikilink">蔡曜力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡曜力" title="wikilink">蔡曜力</a></p></td>
 <td><p>Andy</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃重生.md" title="wikilink">黃重生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃重生" title="wikilink">黃重生</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/侯健民.md" title="wikilink">侯健民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侯健民" title="wikilink">侯健民</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
@@ -1167,12 +1167,12 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何茜瑩.md" title="wikilink">何茜瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何茜瑩" title="wikilink">何茜瑩</a></p></td>
 <td><p>Zoe</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/計祥龍.md" title="wikilink">計祥龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/計祥龍" title="wikilink">計祥龍</a></p></td>
 <td><p>燒臘舖老闆</p></td>
 <td></td>
 </tr>
@@ -1207,12 +1207,12 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎柏麟.md" title="wikilink">黎柏麟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎柏麟" title="wikilink">黎柏麟</a></p></td>
 <td><p>酒吧男客人</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳蔚而.md" title="wikilink">陳蔚而</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳蔚而" title="wikilink">陳蔚而</a></p></td>
 <td><p>時裝店職員</p></td>
 <td></td>
 </tr>
@@ -1222,7 +1222,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭嘉雯.md" title="wikilink">鄭嘉雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭嘉雯" title="wikilink">鄭嘉雯</a></p></td>
 <td><p>新娘友</p></td>
 <td></td>
 </tr>
@@ -1232,7 +1232,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td><p>霍　生</p></td>
 <td></td>
 </tr>
@@ -1242,12 +1242,12 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/孫儀凌.md" title="wikilink">孫儀凌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫儀凌" title="wikilink">孫儀凌</a></p></td>
 <td><p>酒吧美女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁寶怡.md" title="wikilink">梁寶怡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁寶怡" title="wikilink">梁寶怡</a></p></td>
 <td><p>啤酒女郎</p></td>
 <td></td>
 </tr>
@@ -1257,12 +1257,12 @@ Jenny之夫</p></td>
 <td><p>店員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>Billy</p></td>
 <td><p>Ashley之友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張穎康.md" title="wikilink">張穎康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張穎康" title="wikilink">張穎康</a></p></td>
 <td><p>Joe</p></td>
 <td></td>
 </tr>
@@ -1272,27 +1272,27 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/沈愛琳.md" title="wikilink">沈愛琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a></p></td>
 <td><p>名　媛</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
 <td><p>名　媛</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陈欣淘.md" title="wikilink">陳珈穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈欣淘" title="wikilink">陳珈穎</a></p></td>
 <td><p>名　媛</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾建文.md" title="wikilink">鍾建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾建文" title="wikilink">鍾建文</a></p></td>
 <td><p>權</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾鈺精.md" title="wikilink">鍾鈺精</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾鈺精" title="wikilink">鍾鈺精</a></p></td>
 <td><p>莫小姐</p></td>
 <td></td>
 </tr>
@@ -1302,7 +1302,7 @@ Jenny之夫</p></td>
 <td><p>Keegan之友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
 <td><p>情　侶</p></td>
 <td></td>
 </tr>
@@ -1312,7 +1312,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td><p>情　侶</p></td>
 <td></td>
 </tr>
@@ -1322,32 +1322,32 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/霍健邦.md" title="wikilink">霍建邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍健邦" title="wikilink">霍建邦</a></p></td>
 <td><p>攝影師</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>記　者</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡考藍.md" title="wikilink">蔡考藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡考藍" title="wikilink">蔡考藍</a></p></td>
 <td><p>Sales</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柯嵐.md" title="wikilink">柯　嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
 <td><p>接待員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>阿　婆</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林日昇.md" title="wikilink">林日昇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林日昇" title="wikilink">林日昇</a></p></td>
 <td><p>花　王</p></td>
 <td></td>
 </tr>
@@ -1362,7 +1362,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>爛　仔</p></td>
 <td></td>
 </tr>
@@ -1382,7 +1382,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃淑君.md" title="wikilink">黃淑君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑君" title="wikilink">黃淑君</a></p></td>
 <td><p>接待員</p></td>
 <td></td>
 </tr>
@@ -1407,12 +1407,12 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃俊紳.md" title="wikilink">黃俊紳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊紳" title="wikilink">黃俊紳</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>督　察</p></td>
 <td></td>
 </tr>
@@ -1432,7 +1432,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡炯龍.md" title="wikilink">胡炯龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡炯龍" title="wikilink">胡炯龍</a></p></td>
 <td><p>經　理</p></td>
 <td></td>
 </tr>
@@ -1442,7 +1442,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈穎</a></p></td>
 <td><p>護　士</p></td>
 <td></td>
 </tr>
@@ -1457,7 +1457,7 @@ Jenny之夫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>律　師</p></td>
 <td></td>
 </tr>
@@ -1475,7 +1475,7 @@ Jenny之夫</p></td>
 
 ## 資料錯誤
 
-  - 第二集須然沒有交代[傅劍虹是甚麼角色](../Page/傅劍虹.md "wikilink"),但張笑雯([張雪芹](../Page/張雪芹.md "wikilink"))的角色是傅劍虹的太太,
+  - 第二集須然沒有交代[傅劍虹是甚麼角色](https://zh.wikipedia.org/wiki/傅劍虹 "wikilink"),但張笑雯([張雪芹](../Page/張雪芹.md "wikilink"))的角色是傅劍虹的太太,
     但是婚宴竟是 "蕭朱聯婚" 。
 
 ## 記事
@@ -1529,7 +1529,7 @@ colspan="2"|[誰家灶頭無煙火](../Page/誰家灶頭無煙火.md "wikilink")
 3月21日- |- |align="center"|**上一套：**
 [隔離七日情](../Page/隔離七日情.md "wikilink")
 \-2月18日 |align="center"
-colspan="3"|**翡翠台／高清翡翠台第二綫劇集（[2011](../Page/翡翠台電視劇集列表_\(2011年\)#第二線劇集.md "wikilink")）**
+colspan="3"|**翡翠台／高清翡翠台第二綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第二線劇集 "wikilink")）**
 **Only You 只有您**
 2月21日-4月2日 |align="center"|**下一套：**
 [洪武三十二](../Page/洪武三十二.md "wikilink")

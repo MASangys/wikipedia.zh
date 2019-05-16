@@ -2,9 +2,9 @@
 
 ## 版本概要
 
-2009年12月24日Ylmf公司发布基於[Ubuntu定制](../Page/Ubuntu.md "wikilink")、集成[OpenOffice3.1办公软件](../Page/OpenOffice.md "wikilink")、高仿[Windows
+2009年12月24日Ylmf公司发布基於[Ubuntu定制](../Page/Ubuntu.md "wikilink")、集成[OpenOffice3.1办公软件](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")、高仿[Windows
 XP的](../Page/Windows_XP.md "wikilink")[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]\[2\]\[3\]，并命名为Ylmf
-OS。其後推出全英文版本，内置视频播放器[Totem](../Page/Totem.md "wikilink")，移除了对[WebQQ和](../Page/QQ.md "wikilink")[WebMSN的支持](../Page/MSN.md "wikilink")，采用了[Pidgin](../Page/Pidgin.md "wikilink")。
+OS。其後推出全英文版本，内置视频播放器[Totem](https://zh.wikipedia.org/wiki/Totem "wikilink")，移除了对[WebQQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[WebMSN的支持](../Page/MSN.md "wikilink")，采用了[Pidgin](../Page/Pidgin.md "wikilink")。
 
 2011年5月31日发布4.0版本，增加了自带的软件中心，安装包采用ypkg模式打包，和自带多语言（簡體中文、繁體中文和英文）支持。
 
@@ -65,9 +65,9 @@ StartOS-6.0beta.KDE.jpg|6.0beta KDE Ylmf OS Logo.jpg|旧标
 
 ## 相關條目
 
-  - [Linux套件列表](../Page/Linux套件列表.md "wikilink")
+  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
-  - [hiweed](../Page/hiweed.md "wikilink")
+  - [hiweed](https://zh.wikipedia.org/wiki/hiweed "wikilink")
 
 ## 參考資料
 

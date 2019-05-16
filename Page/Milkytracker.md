@@ -66,17 +66,22 @@ MOD可說是窮人作曲家最便宜的作曲機器，不需買貴重的MIDI鍵�
 
 ## 受支持的MOD音樂副檔名格式
 
-  - 669 ([Composer 669](../Page/Composer_669.md "wikilink")，Unis 669)
+  - 669 ([Composer
+    669](https://zh.wikipedia.org/wiki/Composer_669 "wikilink")，Unis
+    669)
   - MOD（15和31个乐器）
   - MED (OctaMed)
   - MTM（MultiTracker Module编辑器）
   - OKT (Amiga Oktalyzer)
-  - S3M（[Scream Tracker](../Page/Scream_Tracker.md "wikilink")）
-  - STM（[Scream Tracker](../Page/Scream_Tracker.md "wikilink")）
+  - S3M（[Scream
+    Tracker](https://zh.wikipedia.org/wiki/Scream_Tracker "wikilink")）
+  - STM（[Scream
+    Tracker](https://zh.wikipedia.org/wiki/Scream_Tracker "wikilink")）
   - STX (Scream Tracker Music Interface Kit)
-  - ULT（[Ultra Tracker](../Page/Ultra_Tracker.md "wikilink")）
+  - ULT（[Ultra
+    Tracker](https://zh.wikipedia.org/wiki/Ultra_Tracker "wikilink")）
   - UNI（MikMod内部格式）
-  - XM（[FastTracker](../Page/FastTracker.md "wikilink")）
+  - XM（[FastTracker](https://zh.wikipedia.org/wiki/FastTracker "wikilink")）
 
 [Milkytracker_Config.jpg](https://zh.wikipedia.org/wiki/File:Milkytracker_Config.jpg "fig:Milkytracker_Config.jpg")
 
@@ -139,7 +144,8 @@ Loop，Bi-Directional，One Shot。
   - [Renoise 介紹](http://en.wikipedia.org/wiki/Renoise) - 英文版Wikipedia說明
   - [Fast Tracker II 介紹](http://en.wikipedia.org/wiki/Fast_Tracker) -
     英文版Wikipedia說明
-  - [模塊文件 介紹](../Page/:模块文件.md "wikilink") - Module (MOD) 說明
+  - [模塊文件 介紹](https://zh.wikipedia.org/wiki/:模块文件 "wikilink") - Module
+    (MOD) 說明
   - [Gravis Ultrasound
     介紹](http://en.wikipedia.org/wiki/Gravis_Ultrasound) - GUS 音效卡,
     早期32數位音軌是玩家與作曲家的最愛.

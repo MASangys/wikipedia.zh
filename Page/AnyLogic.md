@@ -10,9 +10,12 @@ Simulation）。此系統是用圖形化建模方式來標記系統的結構模�
 [_Different_simulation_methods_1.jpg](https://zh.wikipedia.org/wiki/File:_Different_simulation_methods_1.jpg "fig:_Different_simulation_methods_1.jpg")
 此工具名為AnyLogic，因為它兼具了三個最知名的建模方法：
 
-  - [系統動態學](../Page/系統動態學.md "wikilink")（System dynamics）
-  - [離散事件仿真](../Page/離散事件仿真.md "wikilink")（Discrete event simulation）
-  - [代理人基模型](../Page/代理人基模型.md "wikilink")（Agent-based modeling）\[1\]
+  - [系統動態學](https://zh.wikipedia.org/wiki/系統動態學 "wikilink")（System
+    dynamics）
+  - [離散事件仿真](https://zh.wikipedia.org/wiki/離散事件仿真 "wikilink")（Discrete
+    event simulation）
+  - [代理人基模型](https://zh.wikipedia.org/wiki/代理人基模型 "wikilink")（Agent-based
+    modeling）\[1\]
 
 \+ +提供可以任意結合這些方法到單一個模型中\[2\]. 而AnyLogic的第一個版本為AnyLogic 4，因為此數字是接連著COVERS
 3.0的數字。
@@ -21,19 +24,19 @@ Simulation）。此系統是用圖形化建模方式來標記系統的結構模�
 
   - [行銷管理](../Page/行銷管理.md "wikilink")\[3\],
 
-  - [醫療衛生](../Page/醫療衛生.md "wikilink")\[4\],
+  - [醫療衛生](https://zh.wikipedia.org/wiki/醫療衛生 "wikilink")\[4\],
 
-  - [製造業](../Page/製造業.md "wikilink")\[5\],
+  - [製造業](https://zh.wikipedia.org/wiki/製造業 "wikilink")\[5\],
 
-  - [供應鏈](../Page/供應鏈.md "wikilink")\[6\]\[7\]\[8\],
+  - [供應鏈](https://zh.wikipedia.org/wiki/供應鏈 "wikilink")\[6\]\[7\]\[8\],
 
   - [後勤學](../Page/後勤學.md "wikilink")\[9\],
 
   - [鐵路運輸](../Page/鐵路運輸.md "wikilink")\[10\]\[11\],
 
-  - [企業管理](../Page/企業管理.md "wikilink")\[12\],
+  - [企業管理](https://zh.wikipedia.org/wiki/企業管理 "wikilink")\[12\],
 
-  - [社會和](../Page/社會.md "wikilink")[生態系統動態學](../Page/生態系統.md "wikilink")，
+  - [社會和](https://zh.wikipedia.org/wiki/社會 "wikilink")[生態系統動態學](https://zh.wikipedia.org/wiki/生態系統 "wikilink")，
 
   - [軍事](../Page/軍事.md "wikilink")，
 
@@ -43,14 +46,14 @@ Simulation）。此系統是用圖形化建模方式來標記系統的結構模�
 
   - 動態模擬及交通模擬\[13\],
 
-  - [航太](../Page/航太.md "wikilink")\[14\].
+  - [航太](https://zh.wikipedia.org/wiki/航太 "wikilink")\[14\].
 
-  - [光電](../Page/光電.md "wikilink")\[15\]
+  - [光電](https://zh.wikipedia.org/wiki/光電 "wikilink")\[15\]
 
 最新的主要版本是AnyLogic 8.3，它是在2018年发布的. AnyLogic
-8是[跨平台](../Page/跨平台.md "wikilink")
-[模拟软件](../Page/模拟软件.md "wikilink")，可以在[Windows](../Page/Microsoft_Windows.md "wikilink")，[Mac
-OS上运行](../Page/Mac_OS.md "wikilink")
+8是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")
+[模拟软件](https://zh.wikipedia.org/wiki/模拟软件 "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
+OS上运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")
 和[Linux平台](../Page/Linux.md "wikilink")。 \[16\]
 
 ## AnyLogic與Java
@@ -66,14 +69,14 @@ runtime的應用程式，並可以被發布給使用者。這些純粹的Java應
 [_Simulation_approaches_vs_abstraction_levels_CN.jpg](https://zh.wikipedia.org/wiki/File:_Simulation_approaches_vs_abstraction_levels_CN.jpg "fig:_Simulation_approaches_vs_abstraction_levels_CN.jpg")
 
 AnyLogic的模型可以依據任何主要的模擬建模範例：離散事件或流程中心模擬[discrete event or
-process-centric](../Page/离散事件仿真.md "wikilink")(DE) , 系統動態[systems
-dynamics](../Page/系统动力学.md "wikilink") (SD), 以及
+process-centric](https://zh.wikipedia.org/wiki/离散事件仿真 "wikilink")(DE) ,
+系統動態[systems dynamics](../Page/系统动力学.md "wikilink") (SD), 以及
 [agent-based](../Page/个体为本模型.md "wikilink") 代理人基礎(AB).
 
 系統動態及離散事件是傳統的模擬方法，代理人基礎是最新的方法。技術上來說，系統動態方法主要是處理連續性流程，不同於
 “離散事件”(所有我們所知的相關GPSS所衍生的方法都稱為流程中心模擬方法)及代理人基礎模型其作業大都是離散時間。
 
-關於系統動態即離散事件模擬在以前各大學不同領域就已經有開過相關課程，其學生族群也不盡相同。有的是在[管理及](../Page/管理.md "wikilink")[經濟領域](../Page/經濟.md "wikilink")，有的在工業界及[作業研究工程師](../Page/運籌學.md "wikilink")。但是其結果是兩種不同的社群卻從未相互交談過。
+關於系統動態即離散事件模擬在以前各大學不同領域就已經有開過相關課程，其學生族群也不盡相同。有的是在[管理及](https://zh.wikipedia.org/wiki/管理 "wikilink")[經濟領域](https://zh.wikipedia.org/wiki/經濟 "wikilink")，有的在工業界及[作業研究工程師](../Page/運籌學.md "wikilink")。但是其結果是兩種不同的社群卻從未相互交談過。
 
 代理人基礎建模方法直到現在還是大學課堂上的議題。然而，從全球企業最佳化需求的提升引起建模者去找尋結合方法，來深入了解洞察複雜的相互關係流程中有很不一樣的本質。
 
@@ -173,7 +176,7 @@ AnyLogic包含了下列標準資料庫\[21\]:
 6.  Michael Gyimesi, Johannes Kropf. ["C14 Supply Chain Management -
     AnyLogic 4.0"](http://www.argesim.org/uploads/tx_compdb/c14_anylogic_3536_85.pdf)
     , *Simulation News Europe*,
-    [December](../Page/December.md "wikilink"), 2002.
+    [December](https://zh.wikipedia.org/wiki/December "wikilink"), 2002.
 
 7.  Ivanov D.A., Sokolov B., Kaeschel J. ["A multi-structural framework
     for adaptive supply chain planning and operations control with

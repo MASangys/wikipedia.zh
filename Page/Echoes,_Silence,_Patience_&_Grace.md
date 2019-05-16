@@ -1,9 +1,11 @@
 Echoes, Silence, Patience & Grace
-是[幽浮一族樂團所發行的一張](../Page/幽浮一族樂團.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，於2007年9月25日發行。
+是[幽浮一族樂團所發行的一張](https://zh.wikipedia.org/wiki/幽浮一族樂團 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2007年9月25日發行。
 
 ## 單曲
 
-1\. [The Pretender](../Page/The_Pretender_\(歌曲\).md "wikilink") - 4:29
+1\. [The
+Pretender](https://zh.wikipedia.org/wiki/The_Pretender_\(歌曲\) "wikilink")
+- 4:29
 
 2\. Let It Die - 4:05
 

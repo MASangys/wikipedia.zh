@@ -1,4 +1,4 @@
-《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝愛情](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，由[黃宗澤](../Page/黃宗澤.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀及](../Page/阮小儀.md "wikilink")[徐子珊領銜主演](../Page/徐子珊.md "wikilink")，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為
+《**情人眼裏高一D**\[1\]》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝愛情](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")、[阮小儀及](../Page/阮小儀.md "wikilink")[徐子珊領銜主演](../Page/徐子珊.md "wikilink")，全劇共8集，編審[黃洋達](../Page/黃洋達.md "wikilink")、[潘漫紅](../Page/潘漫紅.md "wikilink")，監製[黃偉聲](../Page/黃偉聲.md "wikilink")。此劇為
 2010「愛的季節」呈獻劇集。
 
 ## 演員表
@@ -13,7 +13,7 @@
 <td><p><strong>匿稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/黃宗澤.md" title="wikilink">黃宗澤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></strong></p></td>
 <td><p><strong>廑力信</strong></p></td>
 <td><p>服用「神奇朱古力」後的恭因銅<br />
 新晉歌星<br />
@@ -51,7 +51,7 @@
 <td><p>服用「神奇朱古力」前的荊止高<br />
 喜歡恭因銅<br />
 名字影射<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a><br />
-由<a href="../Page/黄紫娴.md" title="wikilink">黄紫娴配音</a></p></td>
+由<a href="https://zh.wikipedia.org/wiki/黄紫娴" title="wikilink">黄紫娴配音</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳山聰.md" title="wikilink">陳山聰</a></strong></p></td>
@@ -86,7 +86,7 @@
 <td><p>街市雞販<br />
 恭因銅、蔡卓嚴、鄭中笄之死黨<br />
 曾暗恋廑力信<br />
-名字影射<a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
+名字影射<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林子善.md" title="wikilink">林子善</a></p></td>
@@ -148,7 +148,7 @@
 <td><p>《超Cup巨星》評判</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林_利.md" title="wikilink">林利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林_利" title="wikilink">林利</a></p></td>
 <td></td>
 <td><p>《超Cup巨星》評判</p></td>
 </tr>
@@ -163,17 +163,17 @@
 <td><p>《超Cup巨星》主持</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/倫子玄.md" title="wikilink">倫子玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫子玄" title="wikilink">倫子玄</a></p></td>
 <td><p>燒賣</p></td>
 <td><p>Wilson 助手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃彥欣.md" title="wikilink">黃彥欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃彥欣" title="wikilink">黃彥欣</a></p></td>
 <td><p>蝦餃</p></td>
 <td><p>Wilson 助手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李詠芝.md" title="wikilink">李詠芝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李詠芝" title="wikilink">李詠芝</a></p></td>
 <td><p>鮮竹卷</p></td>
 <td><p>Wilson 助手</p></td>
 </tr>
@@ -183,14 +183,14 @@
 <td><p>Wilson 助手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬蹄露.md" title="wikilink">馬蹄露</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬蹄露" title="wikilink">馬蹄露</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳智燊.md" title="wikilink">陳智燊</a></p></td>
 <td></td>
-<td><p>非禮<a href="../Page/馬蹄露.md" title="wikilink">馬蹄露</a></p></td>
+<td><p>非禮<a href="https://zh.wikipedia.org/wiki/馬蹄露" title="wikilink">馬蹄露</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/呂熙.md" title="wikilink">呂　熙</a></p></td>
@@ -208,12 +208,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>助手</p></td>
 <td><p>謝安腓助手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡昌達_(演員).md" title="wikilink">蔡昌達</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡昌達_(演員)" title="wikilink">蔡昌達</a></p></td>
 <td></td>
 <td><p>歌手</p></td>
 </tr>
@@ -223,7 +223,7 @@
 <td><p>歌手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td></td>
 <td><p>FM</p></td>
 </tr>
@@ -233,7 +233,7 @@
 <td><p>記者</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>馬國明</p></td>
 <td><p>明星</p></td>
 </tr>
@@ -248,12 +248,12 @@
 <td><p>明星</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李亞男.md" title="wikilink">李亞男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></p></td>
 <td><p>李亞男</p></td>
 <td><p>明星</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td><p>會所侍應</p></td>
 <td></td>
 </tr>
@@ -282,21 +282,21 @@
 
 ## 歌曲
 
-|                   |                                                                   |                                                                   |                                                                   |
-| ----------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **集數**            | **演唱者**                                                           | **歌曲**                                                            | **原唱**                                                            |
-| 1                 | 恭因銅（王祖藍）                                                          | 醜得漂亮                                                              | [許志安](../Page/許志安.md "wikilink")                                  |
-| 相逢何必曾相識           | [蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink") |                                                                   |                                                                   |
-| 幾分鐘的約會            | [陳百強](../Page/陳百強.md "wikilink")                                  |                                                                   |                                                                   |
-| 為你鍾情              | [張國榮](../Page/張國榮.md "wikilink")                                  |                                                                   |                                                                   |
-| 2                 | 廑力信（黃宗澤）                                                          | 我的驕傲                                                              | [容祖兒](../Page/容祖兒.md "wikilink")                                  |
-| 廑力信（黃宗澤）、謝安腓（徐子珊） | 眼淚贊                                                               | [黃耀明](../Page/黃耀明.md "wikilink")                                  |                                                                   |
-| 3                 | 廑力信（黃宗澤）、謝安腓（徐子珊）                                                 | 他都不愛我                                                             | [容祖兒](../Page/容祖兒.md "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink") |
-| 6                 | 廑力信（黃宗澤）                                                          | Bravo                                                             | [黃宗澤](../Page/黃宗澤.md "wikilink")                                  |
-| 謝安腓（徐子珊）          | Hit Me                                                            | [徐子珊](../Page/徐子珊.md "wikilink")                                  |                                                                   |
-| 張濟春（陳山聰）          | 活著VIVA                                                            | |[謝霆鋒](../Page/謝霆鋒.md "wikilink")                                 |                                                                   |
-| 廑力信（黃宗澤）          | 第幾天                                                               | [黃宗澤](../Page/黃宗澤.md "wikilink")                                  |                                                                   |
-| 廑力信（黃宗澤）、謝安腓（徐子珊） | 他都不愛我                                                             | [容祖兒](../Page/容祖兒.md "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink") |                                                                   |
+|                   |                                                                   |                                                                                      |                                                                                      |
+| ----------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| **集數**            | **演唱者**                                                           | **歌曲**                                                                               | **原唱**                                                                               |
+| 1                 | 恭因銅（王祖藍）                                                          | 醜得漂亮                                                                                 | [許志安](../Page/許志安.md "wikilink")                                                     |
+| 相逢何必曾相識           | [蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink") |                                                                                      |                                                                                      |
+| 幾分鐘的約會            | [陳百強](../Page/陳百強.md "wikilink")                                  |                                                                                      |                                                                                      |
+| 為你鍾情              | [張國榮](../Page/張國榮.md "wikilink")                                  |                                                                                      |                                                                                      |
+| 2                 | 廑力信（黃宗澤）                                                          | 我的驕傲                                                                                 | [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")                                  |
+| 廑力信（黃宗澤）、謝安腓（徐子珊） | 眼淚贊                                                               | [黃耀明](../Page/黃耀明.md "wikilink")                                                     |                                                                                      |
+| 3                 | 廑力信（黃宗澤）、謝安腓（徐子珊）                                                 | 他都不愛我                                                                                | [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink") |
+| 6                 | 廑力信（黃宗澤）                                                          | Bravo                                                                                | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")                                  |
+| 謝安腓（徐子珊）          | Hit Me                                                            | [徐子珊](../Page/徐子珊.md "wikilink")                                                     |                                                                                      |
+| 張濟春（陳山聰）          | 活著VIVA                                                            | |[謝霆鋒](../Page/謝霆鋒.md "wikilink")                                                    |                                                                                      |
+| 廑力信（黃宗澤）          | 第幾天                                                               | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")                                  |                                                                                      |
+| 廑力信（黃宗澤）、謝安腓（徐子珊） | 他都不愛我                                                             | [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[吳浩康](../Page/吳浩康.md "wikilink") |                                                                                      |
 
 ## 記事
 

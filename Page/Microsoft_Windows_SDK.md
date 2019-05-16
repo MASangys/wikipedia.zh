@@ -1,5 +1,5 @@
 **Microsoft Windows SDK**（简称Windows
-SDK或者SDK）是由[微软公司出品的一个](../Page/微软.md "wikilink")[软件开发包](../Page/软件开发包.md "wikilink")，向在微软的[Windows](../Page/Windows.md "wikilink")[操作系统和](../Page/操作系统.md "wikilink")[.NET框架上开发软件和网站的程序员提供](../Page/.NET框架.md "wikilink")[头文件](../Page/头文件.md "wikilink")、[库文件](../Page/库文件.md "wikilink")、示例代码、开发文档和开发工具\[1\]。
+SDK或者SDK）是由[微软公司出品的一个](../Page/微软.md "wikilink")[软件开发包](https://zh.wikipedia.org/wiki/软件开发包 "wikilink")，向在微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统和](../Page/操作系统.md "wikilink")[.NET框架上开发软件和网站的程序员提供](../Page/.NET框架.md "wikilink")[头文件](../Page/头文件.md "wikilink")、[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")、示例代码、开发文档和开发工具\[1\]。
 
 ## 历史
 
@@ -14,14 +14,15 @@ SDK推出之后，.NET框架SDK被整合到Windows SDK。
 
 截至2013年，最新版本的Windows SDK是Windows 8.1 SDK，支持面向Windows Vista/Server
 2008或更高版本的Windows的程序的开发\[3\]，以及兼容[Visual
-Studio](../Page/Visual_Studio.md "wikilink") 2010或者以上的版本，包括速成版本。
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+2010或者以上的版本，包括速成版本。
 
 ## 版本
 
 [MSDN技术资源库的在线版网站包含Windows](../Page/MSDN技术资源库.md "wikilink") SDK的在线版本。
 
 Microsoft SDK for Windows 3.0是最后一个收费版本的Windows SDK\[4\]。之后的Windows
-SDK电子版均为免费，但是购买[CD](../Page/CD.md "wikilink")、[DVD等基于物理介质的版本时仍需运费和处理费用](../Page/DVD.md "wikilink")\[5\]。
+SDK电子版均为免费，但是购买[CD](../Page/CD.md "wikilink")、[DVD等基于物理介质的版本时仍需运费和处理费用](https://zh.wikipedia.org/wiki/DVD "wikilink")\[5\]。
 
 单独发布的电子版Windows SDK可以在微软下载中心免费下载，有在线安装和本地安装两种版本。在安装Visual
 Studio时也可以选择同时安装电子版Windows SDK。Visual
@@ -195,7 +196,7 @@ runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报
 <td><p>1.1.4322.573</p></td>
 <td><p>2003-03-29</p></td>
 <td><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=16217">8</a></p></td>
-<td><p>Included in <a href="../Page/Visual_Studio_.NET_2003.md" title="wikilink">Visual Studio 2003</a>. Does not include the Platform SDK.</p></td>
+<td><p>Included in <a href="https://zh.wikipedia.org/wiki/Visual_Studio_.NET_2003" title="wikilink">Visual Studio 2003</a>. Does not include the Platform SDK.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Microsoft Platform SDK for Windows XP SP2</p></td>
@@ -227,7 +228,7 @@ runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报
 <td><p>2.0.50727.42</p></td>
 <td><p>2006-11-29</p></td>
 <td><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=19988">13</a></p></td>
-<td><p>Included in <a href="../Page/Visual_Studio_2005.md" title="wikilink">Visual Studio 2005</a> Professional. Does not include the Platform SDK.</p></td>
+<td><p>Included in <a href="https://zh.wikipedia.org/wiki/Visual_Studio_2005" title="wikilink">Visual Studio 2005</a> Professional. Does not include the Platform SDK.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Microsoft Windows Software Development Kit for Windows Vista and .NET Framework 3.0 Runtime Components</p></td>
@@ -356,7 +357,7 @@ runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报
 <tr class="odd">
 <td><p>Windows SDK for Windows 7 and .NET Framework 3.5 SP1[17]</p></td>
 <td><ul>
-<li>capicom.dll (<a href="../Page/CAPICOM.md" title="wikilink">CAPICOM</a> is deprecated)</li>
+<li>capicom.dll (<a href="https://zh.wikipedia.org/wiki/CAPICOM" title="wikilink">CAPICOM</a> is deprecated)</li>
 <li>iacom.dll</li>
 <li>ialoader.dll</li>
 <li>msistuff.exe</li>
@@ -365,7 +366,7 @@ runtime/redistributable。否则在Microsoft Windows SDK安装过程中将会报
 <li>secutil.exe</li>
 <li>windowssideshowvirtualdevice.exe (replaced by DeviceSimulatorforWindowsSideShow.msi)</li>
 <li>wpfperf.msi (now included in the Windows Performance Toolkit suite)</li>
-<li>xamlpad.exe (<a href="../Page/XAMLPad.md" title="wikilink">XAMLPad</a>)</li>
+<li>xamlpad.exe (<a href="https://zh.wikipedia.org/wiki/XAMLPad" title="wikilink">XAMLPad</a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -436,7 +437,7 @@ Windows SDK文档包含如下内容\[22\]：
 
   - 核心SDK
   - .NET框架SDK
-  - [IIS](../Page/IIS.md "wikilink") SDK
+  - [IIS](https://zh.wikipedia.org/wiki/IIS "wikilink") SDK
   - Internet Development SDK (IE SDK)
   - MDAC SDK
   - Windows Installer SDK
@@ -454,17 +455,18 @@ Windows SDK文档包含如下内容\[22\]：
 [Windows API也被称为Windows](../Page/Windows_API.md "wikilink")
 SDK函数或者简称SDK函数\[27\]。相对于.Net框架这样的类库来说，SDK函数被认为是底层的API\[28\]。直接调用Windows
 SDK而不是用别的类库的开发被称为SDK编程\[29\]。在SDK这一层开发工作枯燥、耗时较长，难度也较高\[30\]，[Visual
-Studio这样的开发环境以及](../Page/Visual_Studio.md "wikilink")[MFC和](../Page/MFC.md "wikilink").Net框架这样的类库可以被用来加速面向Windows的软件的开发\[31\]。
+Studio这样的开发环境以及](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")[MFC和](https://zh.wikipedia.org/wiki/MFC "wikilink").Net框架这样的类库可以被用来加速面向Windows的软件的开发\[31\]。
 
 ## 参考和引用
 
 ## 相关条目
 
-  - [驱动程序开发工具包](../Page/驱动程序开发工具包.md "wikilink")
-  - [DirectX SDK](../Page/DirectX_SDK.md "wikilink")
+  - [驱动程序开发工具包](https://zh.wikipedia.org/wiki/驱动程序开发工具包 "wikilink")
+  - [DirectX SDK](https://zh.wikipedia.org/wiki/DirectX_SDK "wikilink")
   - [Windows Media Center
-    SDK](../Page/Windows_Media_Center_SDK.md "wikilink")
-  - [Silverlight SDK](../Page/Silverlight_SDK.md "wikilink")
+    SDK](https://zh.wikipedia.org/wiki/Windows_Media_Center_SDK "wikilink")
+  - [Silverlight
+    SDK](https://zh.wikipedia.org/wiki/Silverlight_SDK "wikilink")
 
 ## 外部链接
 
@@ -474,7 +476,7 @@ Studio这样的开发环境以及](../Page/Visual_Studio.md "wikilink")[MFC和](
   - [Windows
     SDK论坛（英文）](http://social.msdn.microsoft.com/forums/en-US/windowssdk/threads/)
 
-[分类:微軟開發工具](../Page/分类:微軟開發工具.md "wikilink")
+[分类:微軟開發工具](https://zh.wikipedia.org/wiki/分类:微軟開發工具 "wikilink")
 
 1.  [Windows SDK Frequently Asked
     Questions](http://msdn.microsoft.com/en-us/windows/dd187216.aspx)

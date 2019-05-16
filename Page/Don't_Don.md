@@ -1,10 +1,11 @@
-**《Don't Don》**是[韓國演唱組合](../Page/韓國.md "wikilink")[Super
+**《Don't
+Don》**是[韓國演唱組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super
 Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年9月20日發行\[1\]。
 
 ## 錄製與宣傳
 
 專輯的中文官方名稱為《第二擊》，此張專輯距離上一張專輯《[SuperJunior05
-(TWINS)](../Page/SuperJunior05_\(TWINS\).md "wikilink")》的時間有一年十個月之久。該專輯是最後一次全員參與專輯錄製、團體演出與宣傳活動，[韓庚歷經了](../Page/韓庚.md "wikilink")8個月空窗期後，回歸韓國參與唱跳表演，也是[起範最後一次參與專輯錄製](../Page/起範.md "wikilink")、團體演出與宣傳活動。這也是[圭賢車禍後](../Page/圭賢.md "wikilink")，正式回歸演出，但因為傷勢初愈所以在mv與當時現場表演中，只會在某些部分會出來唱歌，然後就自行下去了，並沒有參與舞蹈表演，所以僅有12位成員參與唱跳表演。
+(TWINS)](https://zh.wikipedia.org/wiki/SuperJunior05_\(TWINS\) "wikilink")》的時間有一年十個月之久。該專輯是最後一次全員參與專輯錄製、團體演出與宣傳活動，[韓庚歷經了](../Page/韓庚.md "wikilink")8個月空窗期後，回歸韓國參與唱跳表演，也是[起範最後一次參與專輯錄製](../Page/起範.md "wikilink")、團體演出與宣傳活動。這也是[圭賢車禍後](../Page/圭賢.md "wikilink")，正式回歸演出，但因為傷勢初愈所以在mv與當時現場表演中，只會在某些部分會出來唱歌，然後就自行下去了，並沒有參與舞蹈表演，所以僅有12位成員參與唱跳表演。
 
 ## 曲目列表
 
@@ -64,7 +65,7 @@ Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金唱片獎.md" title="wikilink">第22屆金唱片大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">第22屆金唱片大賞</a></p></td>
 <td><p>唱片本賞</p></td>
 <td><p>《Don't Don》</p></td>
 <td></td>
@@ -81,7 +82,7 @@ Junior的第二張錄音室專輯](../Page/Super_Junior.md "wikilink")，2007年
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p><a href="../Page/首爾歌謠大賞.md" title="wikilink">第17屆首爾歌謠大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">第17屆首爾歌謠大賞</a></p></td>
 <td><p>本賞</p></td>
 <td><p>《Don't Don》</p></td>
 <td></td>

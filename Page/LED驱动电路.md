@@ -1,11 +1,11 @@
 [LEDVICurve.PNG](https://zh.wikipedia.org/wiki/File:LEDVICurve.PNG "fig:LEDVICurve.PNG")
 
-在[電子學領域裡](../Page/電子學.md "wikilink")，**LED驱动电路**（**LED
-circuit**，又譯**發光二極管電路**），為[发光二极管灯具的核心器件](../Page/发光二极管.md "wikilink")，是一個用來使[發光二極管](../Page/發光二極管.md "wikilink")（LED）發亮的[電路](../Page/電路.md "wikilink")。
+在[電子學領域裡](https://zh.wikipedia.org/wiki/電子學 "wikilink")，**LED驱动电路**（**LED
+circuit**，又譯**發光二極管電路**），為[发光二极管灯具的核心器件](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")，是一個用來使[發光二極管](../Page/發光二極管.md "wikilink")（LED）發亮的[電路](https://zh.wikipedia.org/wiki/電路 "wikilink")。
 
 随着全球倡导绿色照明以及节能的迫切需求。越来越多的照明产品进入到发光二极管光源的时代。而作为发光二极管灯具的核心器件，LED驱动芯片扮演着越来越重要的角色。
 
-推動LED時，其最終目的都是要控制流經LED的[電流以達到或貼近原有設計要求的數值](../Page/電流.md "wikilink")，並使其穩定而不受或減少被[電源](../Page/電源.md "wikilink")[電壓](../Page/電壓.md "wikilink")、[溫度](../Page/溫度.md "wikilink")、[順向偏壓差異等因素影響](../Page/順向偏壓.md "wikilink")，從而得到所需[光度](../Page/光度.md "wikilink")、防止LED壽命減短或被損壞。
+推動LED時，其最終目的都是要控制流經LED的[電流以達到或貼近原有設計要求的數值](https://zh.wikipedia.org/wiki/電流 "wikilink")，並使其穩定而不受或減少被[電源](https://zh.wikipedia.org/wiki/電源 "wikilink")[電壓](../Page/電壓.md "wikilink")、[溫度](https://zh.wikipedia.org/wiki/溫度 "wikilink")、[順向偏壓差異等因素影響](https://zh.wikipedia.org/wiki/順向偏壓 "wikilink")，從而得到所需[光度](../Page/光度.md "wikilink")、防止LED壽命減短或被損壞。
 
 LED工作於[直流電](../Page/直流電.md "wikilink")，其順向偏壓與電流成指數關係，因此極細小的電壓變化也會使其電流、光度有很大變化，嚴重的更會因為功耗過高而永久損壞。
 
@@ -21,9 +21,9 @@ LED工作於[直流電](../Page/直流電.md "wikilink")，其順向偏壓與電
 
 [LED
 極性\[1\]](https://zh.wikipedia.org/wiki/File:+-_of_LED.svg "fig:LED 極性")
-由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](../Page/極性.md "wikilink")。與[二極管一樣](../Page/二極管.md "wikilink")，LED的接腳分[正極](../Page/正極.md "wikilink")（陽極、+）及[負極](../Page/負極.md "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](../Page/發光.md "wikilink")。
+由於LED工作於直流電，連接線路時必須確保[極性方向正確才能正常工作](https://zh.wikipedia.org/wiki/極性 "wikilink")。與[二極管一樣](../Page/二極管.md "wikilink")，LED的接腳分[正極](https://zh.wikipedia.org/wiki/正極 "wikilink")（陽極、+）及[負極](https://zh.wikipedia.org/wiki/負極 "wikilink")（陰極、-），電流必须由正極流向負極，LED才能[發光](https://zh.wikipedia.org/wiki/發光 "wikilink")。
 
-LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilink")，但不同封裝其標示方式也不同。除封裝外，也有其他途徑得知LED的極性，以下列出常見的標示方法：
+LED接腳的極性一般可以由其[封裝上看出](https://zh.wikipedia.org/wiki/封裝 "wikilink")，但不同封裝其標示方式也不同。除封裝外，也有其他途徑得知LED的極性，以下列出常見的標示方法：
 
 <table>
 <tbody>
@@ -65,7 +65,7 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 <td><p>平</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PCB.md" title="wikilink">PCB焊盤形狀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PCB" title="wikilink">PCB焊盤形狀</a></p></td>
 <td><p>圓</p></td>
 <td><p>方</p></td>
 </tr>
@@ -76,7 +76,7 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 </tr>
 <tr class="even">
 <td><p>貼片封裝<br />
-（<a href="../Page/SMD.md" title="wikilink">SMD</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/SMD" title="wikilink">SMD</a>）</p></td>
 <td><p>封裝上的記號</p></td>
 <td><p>無</p></td>
 </tr>
@@ -91,8 +91,8 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 
 另外也可以由以下方法找出：
 
-  - 由[生產商資料中找出](../Page/生產商.md "wikilink")。
-  - 用[萬用錶測試](../Page/萬用錶.md "wikilink")。模擬式萬用錶可以用[電阻擋測試](../Page/電阻.md "wikilink")（注意模擬式萬用錶測試針的正負極是倒轉的的）；數字式萬用錶大多有測試二極管的功能，但兩者能測的最高偏壓都有限制，模擬式萬用錶受內部電池所限，數字式萬用錶則因廠方設計而異。
+  - 由[生產商資料中找出](https://zh.wikipedia.org/wiki/生產商 "wikilink")。
+  - 用[萬用錶測試](https://zh.wikipedia.org/wiki/萬用錶 "wikilink")。模擬式萬用錶可以用[電阻擋測試](https://zh.wikipedia.org/wiki/電阻 "wikilink")（注意模擬式萬用錶測試針的正負極是倒轉的的）；數字式萬用錶大多有測試二極管的功能，但兩者能測的最高偏壓都有限制，模擬式萬用錶受內部電池所限，數字式萬用錶則因廠方設計而異。
   - 低壓恆流源也是理想的測試工具。例如用固定電壓電源串連一個電阻。
 
 ## 電阻推動
@@ -100,7 +100,7 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 [LEDCircuit.PNG](https://zh.wikipedia.org/wiki/File:LEDCircuit.PNG "fig:LEDCircuit.PNG")
 [LEDx2Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx2Circuit.PNG "fig:LEDx2Circuit.PNG")
 [LEDx4Circuit.PNG](https://zh.wikipedia.org/wiki/File:LEDx4Circuit.PNG "fig:LEDx4Circuit.PNG")
-要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量在電阻轉化為](../Page/能量.md "wikilink")[熱能而浪費掉](../Page/熱能.md "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
+要推動LED就要控制流過LED的電流，基本推動方法就是將LED跟電阻串聯，以電阻限制電流在一定的範圍內。這個方法好處是簡單、成本低，但缺點是不少[能量在電阻轉化為](../Page/能量.md "wikilink")[熱能而浪費掉](https://zh.wikipedia.org/wiki/熱能 "wikilink")，而且LED的光度也隨著溫度、電壓、LED生產時的特性差異而有比較大的變化。
 
 以電阻控制LED電流時，其電阻計算方法如下：
 
@@ -122,15 +122,15 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 
 \[V_f\] 為LED的順向偏壓。
 
-當多於一枚LED時，最好使用[串聯接法](../Page/串聯.md "wikilink")，這可使不同的LED都有相同的電流，總順向偏壓在串聯時就等於各LED順向偏壓的總和。LED順向偏壓的總和越接近電源電壓，電流就越不穩定。如果LED的數目多至其所需總順向偏壓接近或高於電源電壓，那就需用多個限流電阻分別對個別LED串作電流控制。
+當多於一枚LED時，最好使用[串聯接法](https://zh.wikipedia.org/wiki/串聯 "wikilink")，這可使不同的LED都有相同的電流，總順向偏壓在串聯時就等於各LED順向偏壓的總和。LED順向偏壓的總和越接近電源電壓，電流就越不穩定。如果LED的數目多至其所需總順向偏壓接近或高於電源電壓，那就需用多個限流電阻分別對個別LED串作電流控制。
 
-把LED[並聯非不可行](../Page/並聯.md "wikilink")，一般都盡量避免，因為生產過程做成的特性差異會使每枚LED的順向偏壓有輕微的分別，但並聯時各LED的順向偏壓一樣，流經各LED的電流就會有差異而導致光度、壽命不一致，所以需要把LED作特性配對才能保持光度接近，對零件供應、成本等造成壓力。
+把LED[並聯非不可行](https://zh.wikipedia.org/wiki/並聯 "wikilink")，一般都盡量避免，因為生產過程做成的特性差異會使每枚LED的順向偏壓有輕微的分別，但並聯時各LED的順向偏壓一樣，流經各LED的電流就會有差異而導致光度、壽命不一致，所以需要把LED作特性配對才能保持光度接近，對零件供應、成本等造成壓力。
 
 ## 以半導體構成的恆流源推動LED
 
-[半導體可以構成相當穩定的恆流源](../Page/半導體.md "wikilink")，較以電阻控制電流穩定得多。一枚或多枚[晶體管也可以構成簡單的恆流源](../Page/晶體管.md "wikilink")，晶體管構成的恆流源簡單、成本低，使用[運算放大器可以有更精確的電流控制](../Page/運算放大器.md "wikilink")，但線路較複雜，而且需要另加一個[參考電壓源](../Page/參考電壓源.md "wikilink")，成本大很多。這些線路的電流控制已相當精確，特別是使用運算放大器的線路，但功耗大、效率低的問題仍然是無法解決，對於大功率LED並不合適。最主要的原因是由於以線性方式控制電流，功耗消耗在電流控制元件內。
+[半導體可以構成相當穩定的恆流源](https://zh.wikipedia.org/wiki/半導體 "wikilink")，較以電阻控制電流穩定得多。一枚或多枚[晶體管也可以構成簡單的恆流源](https://zh.wikipedia.org/wiki/晶體管 "wikilink")，晶體管構成的恆流源簡單、成本低，使用[運算放大器可以有更精確的電流控制](https://zh.wikipedia.org/wiki/運算放大器 "wikilink")，但線路較複雜，而且需要另加一個[參考電壓源](https://zh.wikipedia.org/wiki/參考電壓源 "wikilink")，成本大很多。這些線路的電流控制已相當精確，特別是使用運算放大器的線路，但功耗大、效率低的問題仍然是無法解決，對於大功率LED並不合適。最主要的原因是由於以線性方式控制電流，功耗消耗在電流控制元件內。
 
-有些[集成電路專為推動LED而設計](../Page/集成電路.md "wikilink")，其檢測點做成的電壓降可以低至\~0.2V的級數，這些集成電路多數都以[開關式電源轉換](../Page/開關式電源.md "wikilink")\]以控制LED電流恆定，開關式轉換配合mV級的檢測點電壓降使整體功耗十分低，但也有集成電路採線性電路控制LED的電流，例如[安森美半導體有集成電路設計用於單一枚](../Page/安森美半導體.md "wikilink")[鋰離子電池下推動白色光LED](../Page/鋰離子電池.md "wikilink")，由於採用線性電路，因功耗問題，輸出電流不能太大。
+有些[集成電路專為推動LED而設計](https://zh.wikipedia.org/wiki/集成電路 "wikilink")，其檢測點做成的電壓降可以低至\~0.2V的級數，這些集成電路多數都以[開關式電源轉換](https://zh.wikipedia.org/wiki/開關式電源 "wikilink")\]以控制LED電流恆定，開關式轉換配合mV級的檢測點電壓降使整體功耗十分低，但也有集成電路採線性電路控制LED的電流，例如[安森美半導體有集成電路設計用於單一枚](https://zh.wikipedia.org/wiki/安森美半導體 "wikilink")[鋰離子電池下推動白色光LED](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")，由於採用線性電路，因功耗問題，輸出電流不能太大。
 
 ## 光度控制
 
@@ -140,9 +140,9 @@ LED接腳的極性一般可以由其[封裝上看出](../Page/封裝.md "wikilin
 但LED光度與電流並不成線性關係，若在使用中須要調變光度，以線性電路產生所需控制訊號的改變較難達至預期相對應的光度變化。
 
 [PWM_duty_cycle_with_label.gif](https://zh.wikipedia.org/wiki/File:PWM_duty_cycle_with_label.gif "fig:PWM_duty_cycle_with_label.gif")
-另一改變LED光度的方法是快速開關LED，以[脈衝寬度調製](../Page/脈衝寬度調製.md "wikilink")（Pulse width
-modulation -
-PWM），在每個重複的開關週期內，改變導通與關閉的時間比例（也即是[占空比](../Page/占空比.md "wikilink")），改變流經LED的平均電流（平均功耗），從而控制LED的光度，由於LED導通時工作在較大電流，偏壓比連續導通高，因此消耗在控制元件上的功耗較少，效率略高。只要閃爍頻率高於人眼的[視覺暫留](../Page/視覺暫留.md "wikilink")，LED看起來就象連續發光一樣。而只要改變占空比，LED的光度就能在使用中調變。
+另一改變LED光度的方法是快速開關LED，以[脈衝寬度調製](https://zh.wikipedia.org/wiki/脈衝寬度調製 "wikilink")（Pulse
+width modulation -
+PWM），在每個重複的開關週期內，改變導通與關閉的時間比例（也即是[占空比](../Page/占空比.md "wikilink")），改變流經LED的平均電流（平均功耗），從而控制LED的光度，由於LED導通時工作在較大電流，偏壓比連續導通高，因此消耗在控制元件上的功耗較少，效率略高。只要閃爍頻率高於人眼的[視覺暫留](https://zh.wikipedia.org/wiki/視覺暫留 "wikilink")，LED看起來就象連續發光一樣。而只要改變占空比，LED的光度就能在使用中調變。
 
 在白色LED使用脈衝寬度調製控制LED光度有另一好處，白色LED的色溫隨電流強弱而轉變，在脈衝寬度調製控制下，導通電流在不同光度下都不變，因此能在不同光度保持色溫不變。
 

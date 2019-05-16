@@ -1,5 +1,5 @@
-**iFUTURELIST**是[日本知名](../Page/日本.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")[山岡晃發表的第一張個人](../Page/山岡晃.md "wikilink")[創作](../Page/創作.md "wikilink")[專輯](../Page/專輯.md "wikilink")。他的代表作是《[沉默之丘](../Page/沉默之丘.md "wikilink")》系列[原聲帶](../Page/原聲帶.md "wikilink")、《[Bemani](../Page/Bemani.md "wikilink")》系列。第三首歌「iFUTURELIST」的含意是"I,
-futurist"（[我](../Page/我.md "wikilink")，[未來派](../Page/未來派.md "wikilink")），是唯一一首由山岡晃本人演唱的曲子。
+**iFUTURELIST**是[日本知名](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[山岡晃發表的第一張個人](../Page/山岡晃.md "wikilink")[創作](https://zh.wikipedia.org/wiki/創作 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。他的代表作是《[沉默之丘](https://zh.wikipedia.org/wiki/沉默之丘 "wikilink")》系列[原聲帶](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")、《[Bemani](https://zh.wikipedia.org/wiki/Bemani "wikilink")》系列。第三首歌「iFUTURELIST」的含意是"I,
+futurist"（[我](https://zh.wikipedia.org/wiki/我 "wikilink")，[未來派](https://zh.wikipedia.org/wiki/未來派 "wikilink")），是唯一一首由山岡晃本人演唱的曲子。
 
 ## 曲目
 

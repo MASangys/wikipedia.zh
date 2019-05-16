@@ -1,4 +1,4 @@
-作为参考，本文提供了**[数据加密标准](../Page/数据加密标准.md "wikilink")**（**DES**）块密码中提到的各种[查找表的细节](../Page/查找表.md "wikilink")。
+作为参考，本文提供了**[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")**（**DES**）块密码中提到的各种[查找表的细节](../Page/查找表.md "wikilink")。
 
 本文档中的数据都是以[大端序排列的](../Page/字节序.md "wikilink")，也即首位为MSB。
 
@@ -22,7 +22,7 @@ align="top"|IP
 
 该表显示了对64位块的初始置换，其意义如下：输出的首位为输入的第58位，第二位为50位，依此类推，输出的最后位为输入的第7位。
 
-以上信息为了方便表示被写成表格形式，但它实际上是一个[矢量](../Page/矢量.md "wikilink")，而非[矩阵](../Page/矩阵.md "wikilink")。
+以上信息为了方便表示被写成表格形式，但它实际上是一个[矢量](https://zh.wikipedia.org/wiki/矢量 "wikilink")，而非[矩阵](../Page/矩阵.md "wikilink")。
 
 ## 最终置换 (IP<sup>-1</sup>)
 
@@ -101,7 +101,7 @@ P置换将32位的半块数据重新排列。
 
 align="top"|PC-1
 
-上表的“左”和“右”两部分表现了输入[密钥组成密钥调度状态中左右两部分的过程](../Page/密钥.md "wikilink")。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](../Page/奇偶校验.md "wikilink")。
+上表的“左”和“右”两部分表现了输入[密钥组成密钥调度状态中左右两部分的过程](https://zh.wikipedia.org/wiki/密钥 "wikilink")。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")。
 
 ## 选择置换2(PC-2)
 

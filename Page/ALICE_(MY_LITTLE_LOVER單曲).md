@@ -7,10 +7,10 @@ LITTLE LOVER迄今銷量第二高的單曲和代表作之一。
 [小林武史正式加入](../Page/小林武史.md "wikilink")[MY LITTLE
 LOVER之後的首張單曲](../Page/My_Little_Lover.md "wikilink")，也是akko初次參與填詞。歌詞內容包括「愛」、「性」等過激字眼。
 
-[PV中](../Page/PV.md "wikilink")，akko更是大膽地全裸拍攝，雖然PV沒有敏感部位的暴露，但已經引起很大的話題性。
+[PV中](https://zh.wikipedia.org/wiki/PV "wikilink")，akko更是大膽地全裸拍攝，雖然PV沒有敏感部位的暴露，但已經引起很大的話題性。
 
 單曲發行首週在Oricon公信榜排行第2位，比較意外地落後於[松田聖子的](../Page/松田聖子.md "wikilink")《[想見你～Missing
-You～/奔向明天](../Page/想見你～Missing_You～/奔向明天.md "wikilink")》。\[1\]總銷量高達103.3萬張，MY
+You～/奔向明天](https://zh.wikipedia.org/wiki/想見你～Missing_You～/奔向明天 "wikilink")》。\[1\]總銷量高達103.3萬張，MY
 LITTLE LOVER連續兩張單曲銷量突破百萬，是1996年度日本單曲銷量第17位\[2\]。
 
 ## 收錄曲目
@@ -18,9 +18,9 @@ LITTLE LOVER連續兩張單曲銷量突破百萬，是1996年度日本單曲銷�
 1.  **ALICE**
       -
         作詞：小林武史 &
-        AKKO；作曲、編曲：小林武史；金管樂器編曲：[村田陽一](../Page/村田陽一.md "wikilink")
+        AKKO；作曲、編曲：小林武史；金管樂器編曲：[村田陽一](https://zh.wikipedia.org/wiki/村田陽一 "wikilink")
         [森永製菓](../Page/森永製菓.md "wikilink")「[ICE
-        BOX](../Page/ICE_BOX.md "wikilink")」的廣告歌
+        BOX](https://zh.wikipedia.org/wiki/ICE_BOX "wikilink")」的廣告歌
 2.  **重逢世界**（）
       -
         作詞：AKKO & 小林武史；作曲、編曲：小林武史

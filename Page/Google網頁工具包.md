@@ -1,11 +1,11 @@
 **Google Web
-Toolkit**（簡稱[GWT](../Page/GWT.md "wikilink")，讀作），是一個前端使用[JavaScript](../Page/JavaScript.md "wikilink")，後端使用[Java的](../Page/Java.md "wikilink")[AJAX](../Page/AJAX.md "wikilink")
-framework，以[Apache許可證](../Page/Apache許可證.md "wikilink")2.0版本[開放源始碼](../Page/開放源始碼.md "wikilink")。GWT透過編譯器將Java程式碼編譯成JavaScript，可讓開發人員使用Java程式設計語言，快速建置與維護複雜但高效能的JavaScript前端應用程式，藉此減輕開發人員負擔。
+Toolkit**（簡稱[GWT](https://zh.wikipedia.org/wiki/GWT "wikilink")，讀作），是一個前端使用[JavaScript](../Page/JavaScript.md "wikilink")，後端使用[Java的](../Page/Java.md "wikilink")[AJAX](../Page/AJAX.md "wikilink")
+framework，以[Apache許可證](https://zh.wikipedia.org/wiki/Apache許可證 "wikilink")2.0版本[開放源始碼](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。GWT透過編譯器將Java程式碼編譯成JavaScript，可讓開發人員使用Java程式設計語言，快速建置與維護複雜但高效能的JavaScript前端應用程式，藉此減輕開發人員負擔。
 
 2010年8月，[Google買下Instantiations公司](../Page/Google.md "wikilink")\[1\]，並免費釋出該公司旗下所有產品，當中包括[GWT
-Designer](../Page/GWT_Designer.md "wikilink")。GWT
-Designer是[Eclipse的插件](../Page/Eclipse.md "wikilink")，為GWT提供[WYSIWYG](../Page/WYSIWYG.md "wikilink")（[所見即所得](../Page/所見即所得.md "wikilink")）的AJAX設計介面\[2\]。Google亦正在計劃為GWT
-Designer增加[UiBinder支援](../Page/UiBinder.md "wikilink")。
+Designer](https://zh.wikipedia.org/wiki/GWT_Designer "wikilink")。GWT
+Designer是[Eclipse的插件](../Page/Eclipse.md "wikilink")，為GWT提供[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")（[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")）的AJAX設計介面\[2\]。Google亦正在計劃為GWT
+Designer增加[UiBinder支援](https://zh.wikipedia.org/wiki/UiBinder "wikilink")。
 
 2014年10月30日，在GWT 2.7.0 RC1版本中，GWT Designer已弃用。\[3\]
 
@@ -26,9 +26,9 @@ Google Web Toolkit的主要組件包括：
 
 <!-- end list -->
 
-1.  [Obfuscated](../Page/Obfuscated.md "wikilink")：此乃預設模式。此模式將JavaScript進行[代碼混淆](../Page/代碼混淆.md "wikilink")，例如全不跳行、全刪空格、所有代碼擠在一行、變數名稱只用一兩個字母等等。讓代碼難以閱讀，減少泄露運作邏輯及被攻擊的機會，並提高網絡傳送速度。
-2.  [Pretty](../Page/Pretty.md "wikilink")：此模式的JavaScript代碼經過美化，例如盡量使用有意義的變數名稱，適當地跳行，易於閱讀。此模式適合在編譯後繼續對JavaScript代碼手動進行修改。
-3.  [Detailed](../Page/Detailed.md "wikilink")：介乎以上兩種模式之間。
+1.  [Obfuscated](https://zh.wikipedia.org/wiki/Obfuscated "wikilink")：此乃預設模式。此模式將JavaScript進行[代碼混淆](https://zh.wikipedia.org/wiki/代碼混淆 "wikilink")，例如全不跳行、全刪空格、所有代碼擠在一行、變數名稱只用一兩個字母等等。讓代碼難以閱讀，減少泄露運作邏輯及被攻擊的機會，並提高網絡傳送速度。
+2.  [Pretty](https://zh.wikipedia.org/wiki/Pretty "wikilink")：此模式的JavaScript代碼經過美化，例如盡量使用有意義的變數名稱，適當地跳行，易於閱讀。此模式適合在編譯後繼續對JavaScript代碼手動進行修改。
+3.  [Detailed](https://zh.wikipedia.org/wiki/Detailed "wikilink")：介乎以上兩種模式之間。
 
 ## 歷史
 
@@ -58,9 +58,10 @@ Google Web Toolkit的主要組件包括：
 ## 參見
 
   - [Java](../Page/Java.md "wikilink") ─
-    已於2007年[開放源始碼的一種非常強大的系統語言](../Page/開放源始碼.md "wikilink")。
-  - [Google Code](../Page/Google_Code.md "wikilink") ─
-    提供開發工具、[應用程式介面及技術資源的Google網站](../Page/應用程式介面.md "wikilink")。
+    已於2007年[開放源始碼的一種非常強大的系統語言](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")。
+  - [Google Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink")
+    ─
+    提供開發工具、[應用程式介面及技術資源的Google網站](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。
 
 ## 外部連結
 

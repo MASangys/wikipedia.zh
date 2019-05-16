@@ -4,7 +4,7 @@ Istvan Markó 和 Kevin Lam 的名字命名。\[1\]
 有机物中的[羟基](../Page/羟基.md "wikilink")[官能团转化为](../Page/官能团.md "wikilink")[氢原子的一种方法](../Page/氢.md "wikilink")。\[2\]
 
 此反应是 [Bouveault–Blanc
-还原反应的变体](../Page/Bouveault–Blanc还原反应.md "wikilink")，\[3\]
+还原反应的变体](https://zh.wikipedia.org/wiki/Bouveault–Blanc还原反应 "wikilink")，\[3\]
 并可用作经典的 [Barton–McCombie
 去氧反应的替代反应](../Page/Barton–McCombie去氧反应.md "wikilink")。
 
@@ -13,7 +13,7 @@ Istvan Markó 和 Kevin Lam 的名字命名。\[1\]
   - 反应时间短（介于5秒至5分钟之间）；
   - 使用的甲基苯甲酸衍生物较为稳定；
   - 使用 SmI<sub>2</sub>/HMPA
-    体系或电解法代替经典的[三丁基氢化锡](../Page/三丁基氢化锡.md "wikilink")，反应后易分离。
+    体系或电解法代替经典的[三丁基氢化锡](https://zh.wikipedia.org/wiki/三丁基氢化锡 "wikilink")，反应后易分离。
 
 
 [General_MarkoLam_reaction.svg](https://zh.wikipedia.org/wiki/File:General_MarkoLam_reaction.svg "fig:General_MarkoLam_reaction.svg")
@@ -36,7 +36,7 @@ Istvan Markó 和 Kevin Lam 的名字命名。\[1\]
 
 [MarkoLam_Hydrolysis_colored.svg](https://zh.wikipedia.org/wiki/File:MarkoLam_Hydrolysis_colored.svg "fig:MarkoLam_Hydrolysis_colored.svg")
 2、酮存在下，烯丙基衍生物与二碘化钐在 [Barbier
-反应条件下处理](../Page/Barbier反应.md "wikilink")，得到偶联产物：\[7\]
+反应条件下处理](https://zh.wikipedia.org/wiki/Barbier反应 "wikilink")，得到偶联产物：\[7\]
 
 
 [MarkoLam_Allylation.svg](https://zh.wikipedia.org/wiki/File:MarkoLam_Allylation.svg "fig:MarkoLam_Allylation.svg")

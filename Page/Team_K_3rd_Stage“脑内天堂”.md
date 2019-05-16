@@ -16,9 +16,10 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
 1.  《朋友啊》（）
     （作词：[秋元康](../Page/秋元康.md "wikilink")　作曲、编曲：）
 2.  《脑内天堂》（）
-    （作词：秋元康　作曲：[近藤薫](../Page/近藤薫.md "wikilink") 编曲：近藤薫、Ko-suke）
+    （作词：秋元康　作曲：[近藤薫](https://zh.wikipedia.org/wiki/近藤薫 "wikilink")
+    编曲：近藤薫、Ko-suke）
 3.  《令人在意的转校生》（）
-    （作词：秋元康　作曲：[前澤寛之](../Page/前澤寛之.md "wikilink")　编曲：近田潔人）
+    （作词：秋元康　作曲：[前澤寛之](https://zh.wikipedia.org/wiki/前澤寛之 "wikilink")　编曲：近田潔人）
 4.  《泪中带笑》（）
     （作词：秋元康　作曲、编曲：（））
 5.  《MARIA》
@@ -67,7 +68,7 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
   - 公演期間：2006年12月17日 - 2007年6月22日
   - 出演成员
       -
-        [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](../Page/今井优.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](../Page/大岛优子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](../Page/奥真奈美.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](../Page/高田彩奈.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](../Page/早野薫.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](../Page/宫泽佐江.md "wikilink")
+        [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](https://zh.wikipedia.org/wiki/今井优 "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](https://zh.wikipedia.org/wiki/大岛优子 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](https://zh.wikipedia.org/wiki/奥真奈美 "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](https://zh.wikipedia.org/wiki/高田彩奈 "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](https://zh.wikipedia.org/wiki/早野薫 "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")
 
 <!-- end list -->
 
@@ -81,17 +82,17 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
 <!-- end list -->
 
   - 《朋友啊》担当楽器
-      - [铃鼓](../Page/铃鼓.md "wikilink")：小野
+      - [铃鼓](https://zh.wikipedia.org/wiki/铃鼓 "wikilink")：小野
 
       - [口琴](../Page/口琴.md "wikilink")：河西
 
       - [鼓](../Page/鼓.md "wikilink")：今井
 
-      - [键盘](../Page/键盘.md "wikilink")：野呂
+      - [键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")：野呂
 
-      - [电贝司](../Page/电贝司.md "wikilink")：大岛
+      - [电贝司](https://zh.wikipedia.org/wiki/电贝司 "wikilink")：大岛
 
-      - [木吉他](../Page/木吉他.md "wikilink")：高田
+      - [木吉他](https://zh.wikipedia.org/wiki/木吉他 "wikilink")：高田
 
       - ：秋元
 
@@ -102,7 +103,7 @@ K的第3台剧场公演，是第一次有加入复数成员乐器演奏的公演
   - 公演期間：2013年11月17日\[1\] - 2014年4月21日
   - 出演成员
       -
-        [秋吉優花](../Page/秋吉優花.md "wikilink")、[荒巻美咲](../Page/荒巻美咲.md "wikilink")、[安陪恭加](../Page/安陪恭加.md "wikilink")、[伊藤来笑](../Page/伊藤来笑.md "wikilink")、[井上由莉耶](../Page/井上由莉耶.md "wikilink")、[今田美奈](../Page/今田美奈.md "wikilink")、[岩花詩乃](../Page/岩花詩乃.md "wikilink")、[宇井真白](../Page/宇井真白.md "wikilink")、[上野遥](../Page/上野遥.md "wikilink")、[梅本泉](../Page/梅本泉.md "wikilink")、[岡田栞奈](../Page/岡田栞奈.md "wikilink")、[岡本尚子](../Page/岡本尚子.md "wikilink")、[草場愛](../Page/草場愛.md "wikilink")、[栗原紗英](../Page/栗原紗英.md "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[後藤泉](../Page/後藤泉.md "wikilink")、[駒田京伽](../Page/駒田京伽.md "wikilink")、[坂口理子](../Page/坂口理子_\(HKT48\).md "wikilink")、[坂本愛玲菜](../Page/坂本愛玲菜.md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久.md "wikilink")、[田中優香](../Page/田中優香.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[筒井莉子](../Page/筒井莉子.md "wikilink")、[冨吉明日香](../Page/冨吉明日香.md "wikilink")、[朝長美桜](../Page/朝長美桜.md "wikilink")、[外薗葉月](../Page/外薗葉月.md "wikilink")、[深川舞子](../Page/深川舞子.md "wikilink")、[渕上舞](../Page/渕上舞（歌手）.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[山内祐奈](../Page/山内祐奈.md "wikilink")、[山田麻莉奈](../Page/山田麻莉奈.md "wikilink")、[山下艾米丽](../Page/山下艾米丽.md "wikilink")（）
+        [秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[安陪恭加](https://zh.wikipedia.org/wiki/安陪恭加 "wikilink")、[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[井上由莉耶](https://zh.wikipedia.org/wiki/井上由莉耶 "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[岩花詩乃](https://zh.wikipedia.org/wiki/岩花詩乃 "wikilink")、[宇井真白](https://zh.wikipedia.org/wiki/宇井真白 "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[草場愛](https://zh.wikipedia.org/wiki/草場愛 "wikilink")、[栗原紗英](https://zh.wikipedia.org/wiki/栗原紗英 "wikilink")、[神志那結衣](../Page/神志那結衣.md "wikilink")、[後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[坂本愛玲菜](https://zh.wikipedia.org/wiki/坂本愛玲菜 "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](https://zh.wikipedia.org/wiki/田中美久 "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[筒井莉子](https://zh.wikipedia.org/wiki/筒井莉子 "wikilink")、[冨吉明日香](https://zh.wikipedia.org/wiki/冨吉明日香 "wikilink")、[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")、[外薗葉月](https://zh.wikipedia.org/wiki/外薗葉月 "wikilink")、[深川舞子](https://zh.wikipedia.org/wiki/深川舞子 "wikilink")、[渕上舞](https://zh.wikipedia.org/wiki/渕上舞（歌手） "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、[山内祐奈](https://zh.wikipedia.org/wiki/山内祐奈 "wikilink")、[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")、[山下艾米丽](https://zh.wikipedia.org/wiki/山下艾米丽 "wikilink")（）
 
 <!-- end list -->
 

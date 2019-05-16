@@ -4,7 +4,7 @@ hash），並驗證用戶的行動（通過RSA的加密），支持历史版本�
 
 ## 特色
 
-類似 [GNU arch](../Page/GNU_arch.md "wikilink"), 而不像
+類似 [GNU arch](https://zh.wikipedia.org/wiki/GNU_arch "wikilink"), 而不像
 [Subversion](../Page/Subversion.md "wikilink"), Monotone
 是透過分散式的手段來進行版本控制。Monotone 還使用SHA-1
 hashes來定義檔案系統, 有如 [Git](../Page/Git.md "wikilink") 以及

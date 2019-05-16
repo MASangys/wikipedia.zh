@@ -1,5 +1,5 @@
 《Touch of
-Love》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](../Page/Twins.md "wikilink")2003年4月28日所推出的一張全新廣東專輯，用心主打：《下一站天后》；重点推介：《多谢失恋》。
+Love》為[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins在](https://zh.wikipedia.org/wiki/Twins "wikilink")2003年4月28日所推出的一張全新廣東專輯，用心主打：《下一站天后》；重点推介：《多谢失恋》。
 
 《Touch Of Love》最大的亮点有两个： 一.專輯的主题概念引入 二.Twins唱功的明显进步。
 
@@ -15,9 +15,9 @@ Love》。当然这也应该感谢著名词人林夕、黄伟文以及资深音�
 
 此專輯共推出初版和第二版。
 
-第一版：隨專輯附送收錄歌曲「下一站，天后」[MV的](../Page/MV.md "wikilink")[VCD一張](../Page/VCD.md "wikilink")，而首批特別限量版附送「[Twins環保](../Page/Twins.md "wikilink")[布袋](../Page/手提包.md "wikilink")」一個；
+第一版：隨專輯附送收錄歌曲「下一站，天后」[MV的](https://zh.wikipedia.org/wiki/MV "wikilink")[VCD一張](../Page/VCD.md "wikilink")，而首批特別限量版附送「[Twins環保](https://zh.wikipedia.org/wiki/Twins "wikilink")[布袋](https://zh.wikipedia.org/wiki/手提包 "wikilink")」一個；
 
-第二版：為[AVCD碟制式](../Page/AVCD.md "wikilink")，附送迷你相集一本、[電影](../Page/電影.md "wikilink")《[千機變](../Page/千機變.md "wikilink")》[明信片四張](../Page/明信片.md "wikilink")、[歌詞](../Page/歌詞.md "wikilink")[海報一張](../Page/海報.md "wikilink")，並加送[Twins與](../Page/Twins.md "wikilink")[成龍為](../Page/成龍.md "wikilink")[電影](../Page/電影.md "wikilink")《[千機變](../Page/千機變.md "wikilink")》所[主唱的](../Page/主唱.md "wikilink")[主題曲](../Page/主題曲.md "wikilink")「變變變」。
+第二版：為[AVCD碟制式](https://zh.wikipedia.org/wiki/AVCD "wikilink")，附送迷你相集一本、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[千機變](../Page/千機變.md "wikilink")》[明信片四張](../Page/明信片.md "wikilink")、[歌詞](https://zh.wikipedia.org/wiki/歌詞 "wikilink")[海報一張](https://zh.wikipedia.org/wiki/海報 "wikilink")，並加送[Twins與](https://zh.wikipedia.org/wiki/Twins "wikilink")[成龍為](../Page/成龍.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[千機變](../Page/千機變.md "wikilink")》所[主唱的](https://zh.wikipedia.org/wiki/主唱 "wikilink")[主題曲](../Page/主題曲.md "wikilink")「變變變」。
 
 ## 曲目
 
@@ -48,7 +48,7 @@ Love》。当然这也应该感谢著名词人林夕、黄伟文以及资深音�
 <tr class="odd">
 <td><p>香港</p></td>
 <td><p>第二版</p></td>
-<td><p><a href="../Page/AVCD.md" title="wikilink">AVCD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AVCD" title="wikilink">AVCD</a></p></td>
 <td><p>附送：</p>
 <ul>
 <li>《千機變》明信片四張</li>
@@ -80,7 +80,7 @@ Love》。当然这也应该感谢著名词人林夕、黄伟文以及资深音�
 <tr class="odd">
 <td><p>大陸</p></td>
 <td><p>卡帶版</p></td>
-<td><p><a href="../Page/卡帶.md" title="wikilink">卡帶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡帶" title="wikilink">卡帶</a></p></td>
 <td></td>
 <td><p>2003年</p></td>
 </tr>

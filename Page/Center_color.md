@@ -1,6 +1,7 @@
 《**center color**》為[林原惠的第](../Page/林原惠.md "wikilink")11張原創音樂專輯（錄音室專輯）。
 
-於2004年1月7日由[King Records發行](../Page/King_Records.md "wikilink")。
+於2004年1月7日由[King
+Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 解說
 
@@ -25,25 +26,25 @@ color）3色進行構成。
       - 單曲《Northern lights》B面曲
       - 電視動畫《[通靈王](../Page/通靈王.md "wikilink")》第2代片尾曲
 3.  **brave heart <moon shake version>**
-      - 作詞：MEGUMI、作曲：[太田美知彦](../Page/太田美知彦.md "wikilink")、編曲：[十川知司](../Page/十川知司.md "wikilink")
+      - 作詞：MEGUMI、作曲：[太田美知彦](https://zh.wikipedia.org/wiki/太田美知彦 "wikilink")、編曲：[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink")
 4.  **[Treat or Goblins](../Page/Treat_or_Goblins.md "wikilink")**
       - 作詞：李醒獅、English Words by
         Mamie.D.Lee、作曲・編曲：[鷺巢詩郎](../Page/鷺巢詩郎.md "wikilink")
-      - 電視動畫《[阿倍野橋魔法商店街](../Page/阿倍野橋魔法商店街.md "wikilink")》片頭曲
+      - 電視動畫《[阿倍野橋魔法商店街](https://zh.wikipedia.org/wiki/阿倍野橋魔法商店街 "wikilink")》片頭曲
 5.  **Cream Puff Shuffle <MEGUMIX Version>**
       - 作詞：李醒獅、English Words by
         Mamie.D.Lee、作曲・編曲：[光宗信吉](../Page/光宗信吉.md "wikilink")
-      - 於2001年與[上谷麻紀](../Page/上谷麻紀.md "wikilink")、[Nat's合作](../Page/Nat's.md "wikilink")，以[P.P.S.名義發行的樂曲](../Page/P.P.S..md "wikilink")，此為重新錄製的版本。
+      - 於2001年與[上谷麻紀](https://zh.wikipedia.org/wiki/上谷麻紀 "wikilink")、[Nat's合作](https://zh.wikipedia.org/wiki/Nat's "wikilink")，以[P.P.S.名義發行的樂曲](https://zh.wikipedia.org/wiki/P.P.S. "wikilink")，此為重新錄製的版本。
       - 單曲為電視動畫《[飛天小女警](../Page/飛天小女警.md "wikilink")》（[東京電視台播放版](../Page/東京電視台.md "wikilink")）片頭曲
 6.  **你的心**（）
-      - 作詞：[中山千夏](../Page/中山千夏.md "wikilink")、作曲：[都倉俊一](../Page/都倉俊一.md "wikilink")、再現：鷺巢詩郎
+      - 作詞：[中山千夏](https://zh.wikipedia.org/wiki/中山千夏 "wikilink")、作曲：[都倉俊一](https://zh.wikipedia.org/wiki/都倉俊一 "wikilink")、再現：鷺巢詩郎
       - 雙A面單曲《Treat or Goblins》B面曲
-      - 電視動畫《[阿倍野橋魔法商店街](../Page/阿倍野橋魔法商店街.md "wikilink")》片尾曲
+      - 電視動畫《[阿倍野橋魔法商店街](https://zh.wikipedia.org/wiki/阿倍野橋魔法商店街 "wikilink")》片尾曲
       - 前歌手兼前元參議院議員－中山千夏的翻唱曲
 7.  **幸福是一點一點堆積起來的**（）
-      - 作詞・作曲：MEGUMI、編曲：[岩本正樹](../Page/岩本正樹.md "wikilink")
+      - 作詞・作曲：MEGUMI、編曲：[岩本正樹](https://zh.wikipedia.org/wiki/岩本正樹 "wikilink")
       - 單曲《[A HOUSE CAT](../Page/A_HOUSE_CAT.md "wikilink")》B面曲
-      - OVA《[萬能文化貓娘DASH](../Page/萬能文化貓娘.md "wikilink")》片尾曲
+      - OVA《[萬能文化貓娘DASH](https://zh.wikipedia.org/wiki/萬能文化貓娘 "wikilink")》片尾曲
 8.  **如果有你**（）
       - 作詞・作曲：[岡崎律子](../Page/岡崎律子.md "wikilink")、編曲：十川知司
       - 雙A面單曲《[櫻花綻放](../Page/櫻花綻放.md "wikilink")》B面曲
@@ -69,10 +70,10 @@ color）3色進行構成。
       - 作詞：MEGUMI、作曲・編曲：高橋剛
       - \#12（上記曲）敘事曲版本。
       - 收錄於電視動畫《通靈王》的廣播劇CD《與恐山會面〜prologue to shaman〜』（2002年發售）。
-14. **[殘酷的天使](../Page/殘酷天使的行動綱領.md "wikilink") \[A.D.2001\]**
-    <bonus track>（）
-      - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：[大森俊之](../Page/大森俊之.md "wikilink")
-      - 電視動畫《[新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")》的企劃專輯《ANGELION
+14. **[殘酷的天使](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")
+    \[A.D.2001\]** <bonus track>（）
+      - 作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")
+      - 電視動畫《[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")》的企劃專輯《ANGELION
         -THE BIRTHDAY OF Rei AYANAMI-》中收錄的樂曲。
 
 [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

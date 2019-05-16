@@ -1,4 +1,4 @@
-**EpiData**是一个既可以用于创建[数据结构文档](../Page/数据结构.md "wikilink")，也可以用于数据[定量分析一组应用工具的集合](../Page/定量分析.md "wikilink")。EpiData协会于1999年在丹麦成立。EpiData采用[Pascal开发](../Page/Pascal.md "wikilink")。在允许的情况下，尽可能地使用开放标准（如[HTML](../Page/HTML.md "wikilink")）。
+**EpiData**是一个既可以用于创建[数据结构文档](../Page/数据结构.md "wikilink")，也可以用于数据[定量分析一组应用工具的集合](https://zh.wikipedia.org/wiki/定量分析 "wikilink")。EpiData协会于1999年在丹麦成立。EpiData采用[Pascal开发](https://zh.wikipedia.org/wiki/Pascal "wikilink")。在允许的情况下，尽可能地使用开放标准（如[HTML](../Page/HTML.md "wikilink")）。
 
 ## Epidata的使用
 
@@ -16,7 +16,7 @@ Epidata可以用于数据录入和简单的数据分析。如果需要对数据�
     – EpiData邮件列表
   - [世界卫生组织STEPS式监测方法](http://www.who.int/chp/steps/resources/EpiData/en/)
   - [Epicentre](http://www.epicentre.msf.org/) -
-    [无国界医生](../Page/无国界医生.md "wikilink")
+    [无国界医生](https://zh.wikipedia.org/wiki/无国界医生 "wikilink")
 
 [Category:1999年建立](https://zh.wikipedia.org/wiki/Category:1999年建立 "wikilink")
 [Category:生物統計學](https://zh.wikipedia.org/wiki/Category:生物統計學 "wikilink")

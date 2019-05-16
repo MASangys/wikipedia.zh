@@ -1,9 +1,9 @@
-《**Errand**》（）是於2010年1月27日由發售[飛蘭的第](../Page/飛蘭.md "wikilink")3[單曲](../Page/單曲.md "wikilink")。
+《**Errand**》（）是於2010年1月27日由發售[飛蘭的第](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")3[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
   - 電視動畫《[聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")》的主題歌。《[mind as
-    Judgment](../Page/mind_as_Judgment.md "wikilink")》之後的商業搭配曲。
+    Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》之後的商業搭配曲。
 
 ## 收錄曲
 

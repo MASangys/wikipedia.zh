@@ -1,5 +1,5 @@
-**F.Cuz**（）是韓國的五人男子[流行音樂團體](../Page/流行音樂團體.md "wikilink")，2010年1月8日於《[Music
-Bank](../Page/Music_Bank.md "wikilink")》正式出道\[1\]。團名取自焦點的英文*focus*的拼音，團名意義為
+**F.Cuz**（）是韓國的五人男子[流行音樂團體](https://zh.wikipedia.org/wiki/流行音樂團體 "wikilink")，2010年1月8日於《[Music
+Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道\[1\]。團名取自焦點的英文*focus*的拼音，團名意義為
 For Century Ultimate Zest（本世紀終極的熱情）。歌迷名稱是For U（而F.CUZ是For U的未婚夫）。
 因為成員們的身高將近或超過180，在韓國獲有「MODEL IDOL」之稱。官方應援色為Twinkle Light
 Silver（閃閃發光的銀色）。
@@ -104,7 +104,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>首張單曲《<strong>Jiggy</strong>》</p>
 <ul>
 <li>發行日期：2010年1月8日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -113,7 +113,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第二張單曲《<strong>ONE LOVE</strong>》</p>
 <ul>
 <li>發行日期：2014年3月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -136,7 +136,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>首張數位單曲《<strong>懷抱夢想的孩子</strong>》</p>
 <ul>
 <li>發行日期：2012年8月10日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -145,7 +145,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第二張數位單曲《<strong>Don't Touch</strong>》</p>
 <ul>
 <li>發行日期：2015年7月21日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -155,7 +155,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 （미싱코리아 OST Part 1）</p>
 <ul>
 <li>發行日期：2015年11月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 （루비루비럽 OST Part 1）</p>
 <ul>
 <li>發行日期：2017年1月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第五張數位單曲《<strong>Love Or Truth</strong>》</p>
 <ul>
 <li>發行日期：2017年2月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -183,7 +183,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第六張數位單曲《<strong>아름다운 걸 (Beautiful Girl)</strong>》</p>
 <ul>
 <li>發行日期：2018年2月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>{{hidden|曲目|</p>
 <ol>
@@ -209,7 +209,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>首張迷你專輯《<strong>No One</strong>》</p>
 <ul>
 <li>發行日期：2010年3月11日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -218,7 +218,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第二張迷你專輯《<strong>Gorgeous</strong>》</p>
 <ul>
 <li>發行日期：2010年11月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -227,7 +227,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第三張迷你專輯《<strong>For Century Ultimate Zest</strong>》</p>
 <ul>
 <li>發行日期：2012年4月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -236,7 +236,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第四張迷你專輯《<strong>Bargaining for Love</strong>》</p>
 <ul>
 <li>發行日期：2014年9月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -245,7 +245,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>七周年特別專輯《<strong>Re:Boot</strong>》</p>
 <ul>
 <li>發行日期：2017年1月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -268,7 +268,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>首張單曲《<strong>NEVER LET YOU GO</strong>》</p>
 <ul>
 <li>發行日期：2011年8月17日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -277,7 +277,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第二張單曲《<strong>Luv Holic/Around You</strong>》</p>
 <ul>
 <li>發行日期：2011年12月21日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -286,7 +286,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第三張單曲《<strong>Drawing Heart</strong>》</p>
 <ul>
 <li>發行日期：2012年6月13日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -295,7 +295,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第四張單曲《<strong>Hello Again</strong>》</p>
 <ul>
 <li>發行日期：2013年5月29日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -304,7 +304,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第五張單曲《<strong>Change</strong>》</p>
 <ul>
 <li>發行日期：2013年11月6日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -313,7 +313,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第六張單曲《<strong>Feeling My Soul</strong>》</p>
 <ul>
 <li>發行日期：2014年6月18日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -322,7 +322,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第七張單曲《<strong>もう一度だけ～Remind～</strong>》</p>
 <ul>
 <li>發行日期：2014年12月17日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -331,7 +331,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第八張單曲《<strong>two of us</strong>》</p>
 <ul>
 <li>發行日期：2015年7月22日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -340,7 +340,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第九張單曲《<strong>Forever</strong>》</p>
 <ul>
 <li>發行日期：2016年1月27日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -349,7 +349,7 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>第十張單曲《<strong>Wonder World</strong>》</p>
 <ul>
 <li>發行日期：2016年6月22日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -435,25 +435,25 @@ Jun亦因為隨時準備入伍而難以規劃日後行程，故決定合約期�
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/No_One.md" title="wikilink">No One</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/No_One" title="wikilink">No One</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Gorgeous.md" title="wikilink">Gorgeous</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gorgeous" title="wikilink">Gorgeous</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/For_Century_Ultimate_Zest.md" title="wikilink">For Century Ultimate Zest</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/For_Century_Ultimate_Zest" title="wikilink">For Century Ultimate Zest</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/懷抱夢想的孩子.md" title="wikilink">懷抱夢想的孩子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/懷抱夢想的孩子" title="wikilink">懷抱夢想的孩子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ONE_LOVE.md" title="wikilink">ONE LOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_LOVE" title="wikilink">ONE LOVE</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Bargaining_for_Love.md" title="wikilink">Bargaining for Love</a></p></td>

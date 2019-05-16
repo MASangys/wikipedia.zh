@@ -1,17 +1,17 @@
 『**Our Steady
-Boy**』是[ゆいかおり的第](../Page/ゆいかおり.md "wikilink")1張[單曲](../Page/單曲.md "wikilink")。於2010年5月12日由[King
-Records發行](../Page/King_Records.md "wikilink")。
+Boy**』是[ゆいかおり的第](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年5月12日由[King
+Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要
 
-  - 附有收錄[PV的](../Page/音樂錄影帶.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
+  - 附有收錄[PV的](../Page/音樂錄影帶.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
   - 初回限量版內附有四種未經加工修改的照片。
 
 ## 收錄曲
 
 1.  **Our Steady Boy**
       -
-        [電視動畫](../Page/電視動畫.md "wikilink")『[kiss×sis](../Page/kiss×sis.md "wikilink")』[片尾曲](../Page/片尾曲.md "wikilink")
+        [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[kiss×sis](https://zh.wikipedia.org/wiki/kiss×sis "wikilink")』[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")
 2.  **もうひとりの私**
       -
         石竹花 (声優團體)的『もうひとりの私』的歌曲

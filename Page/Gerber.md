@@ -1,7 +1,7 @@
 **Gerber**是一种二维矢量图像文件格式。\[1\]
-它是[印刷线路板行业软件中用于描述印刷线路板图像的标准格式](../Page/印刷线路板.md "wikilink")，例如：线路层，阻焊层，字符层，钻孔层等。\[2\]\[3\]\[4\]
+它是[印刷线路板行业软件中用于描述印刷线路板图像的标准格式](https://zh.wikipedia.org/wiki/印刷线路板 "wikilink")，例如：线路层，阻焊层，字符层，钻孔层等。\[2\]\[3\]\[4\]
 
-Gerber格式最初是由Gerber系统公司开发。因[Ucamco公司其前身Barco公司收购了Gerber系统公司](../Page/Ucamco.md "wikilink")，Gerber格式现由Ucamco公司所有。\[5\]\[6\]
+Gerber格式最初是由Gerber系统公司开发。因[Ucamco公司其前身Barco公司收购了Gerber系统公司](https://zh.wikipedia.org/wiki/Ucamco "wikilink")，Gerber格式现由Ucamco公司所有。\[5\]\[6\]
 Ucamco公司不断地更新Gerber规格说明书的版本。\[7\]\[8\]\[9\]
 
 目前最新的Gerber文件格式规格是于2014年2月发布的J1版本，该版本增加了传达PCB元信息例如文件所代表层类型的属性。\[10\]最新的规格说明书可在
@@ -16,9 +16,9 @@ Gerber格式有两个版本：
 
 ## 使用
 
-Gerber格式的应用之一是将PCB的设计数据从设计转换到生产。PCB通常由线路板设计人员使用专业的[电子设计自动化](../Page/电子设计自动化.md "wikilink")（EDA）或者[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（CAD）软件进行设计，
-\[15\]然后输出成Gerber格式文件。Gerber文件被送到PCB工厂，并被输入到[電腦輔助製造](../Page/電腦輔助製造.md "wikilink")
-CAM系统对设计信息进行转换，为PCB生产的每一道[工艺流程提供数据](../Page/印刷電路板#製造印刷電路板.md "wikilink")。Gerber文件亦被用作传输钻孔信息，然而因为历史原因，钻孔资料通常使用Excellon
+Gerber格式的应用之一是将PCB的设计数据从设计转换到生产。PCB通常由线路板设计人员使用专业的[电子设计自动化](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")（EDA）或者[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（CAD）软件进行设计，
+\[15\]然后输出成Gerber格式文件。Gerber文件被送到PCB工厂，并被输入到[電腦輔助製造](https://zh.wikipedia.org/wiki/電腦輔助製造 "wikilink")
+CAM系统对设计信息进行转换，为PCB生产的每一道[工艺流程提供数据](https://zh.wikipedia.org/wiki/印刷電路板#製造印刷電路板 "wikilink")。Gerber文件亦被用作传输钻孔信息，然而因为历史原因，钻孔资料通常使用Excellon
 格式。\[16\] \[17\]\[18\]
 
 另一个应用是传输单个图像，CAM系统可输出Gerber文件为绘图机提供数据。
@@ -138,25 +138,28 @@ RS-274-D格式已被弃用。\[38\]
 
 多年来人们多次尝试用其它格式代替Gerber格式，以加入除层图像以外的其它信息，例如网络(netlist)和电子元件信息。\[47\]但可能因为这些格式过于复杂，它们都未被电子制造业所广泛接受。现在Gerber格式仍是应用最广泛的数据转换格式。\[48\]
 
-  - [IPC](../Page/IPC_\(electronics\).md "wikilink")-D-350 C
-    《印刷线路板数字格式描述》发表于1989年。此规格于1992年被标准化成IEC
+  - [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-D-350
+    C 《印刷线路板数字格式描述》发表于1989年。此规格于1992年被标准化成IEC
     61182-1文档，后来在2001年被取消。此格式很少被使用。
   - [DXF](../Page/DXF.md "wikilink")
     偶尔被使用。因为通常使用画线进行构图，PCB物件（线和盘）信息会丢失，从而使其在CAM中应用非常困难。
-  - [PDF](../Page/PDF.md "wikilink")
+  - [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")
     格式很少被使用。因为PCB物件（线和盘）信息会丢失而使其难以在实际中应用。
   - DPF 格式，来自Ucamco的一种CAM格式，目前最新版本为v7，偶尔被使用。
-  - 电子设计交换格式, [EDIF](../Page/EDIF.md "wikilink") ,很少被使用。
-  - [ODB++格式](../Page/ODB++.md "wikilink")，来自Mentor
+  - 电子设计交换格式, [EDIF](https://zh.wikipedia.org/wiki/EDIF "wikilink")
+    ,很少被使用。
+  - [ODB++格式](https://zh.wikipedia.org/wiki/ODB++ "wikilink")，来自Mentor
     Graphics公司的一种CAM格式。偶尔被使用，是流行的非Gerber格式。\[49\]
   - GenCAM:
-    [IPC](../Page/IPC_\(electronics\).md "wikilink")-2511A《产品制造描述数据实施的通用要求和转换方法论》2000年版本，很少被使用。
-  - GenCAM: [IPC](../Page/IPC_\(electronics\).md "wikilink")-2511B
+    [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-2511A《产品制造描述数据实施的通用要求和转换方法论》2000年版本，很少被使用。
+  - GenCAM:
+    [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-2511B
     《产品制造描述数据实施的通用要求和XML图表转换方法论》 2002年版本，很少被使用。
   - Offspring:
-    [IPC](../Page/IPC_\(electronics\).md "wikilink")-2581《印刷线路板装配产品制造描述数据通用要求和转换方法论》
+    [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-2581《印刷线路板装配产品制造描述数据通用要求和转换方法论》
     2004版本。很少被使用，但近年来受到更多的关注。\[50\]
-  - STEP AP210: [ISO 10303](../Page/ISO_10303.md "wikilink")-210,
+  - STEP AP210: [ISO
+    10303](https://zh.wikipedia.org/wiki/ISO_10303 "wikilink")-210,
     《电子装配互连和封装设计 》第一版本2001， 第二版本2008。
   - Fujiko: JPCA-EB02,\[51\]基于日本福冈大学Tomokage教授的研究的日本新标准，很少被使用。
 
@@ -171,7 +174,7 @@ RS-274-D格式已被弃用。\[38\]
 
 [Gerber文件格式规格及与文件格式相关的各种文档](http://www.ucamco.com/cn/guest/downloads)
 
-[分類:圖形文件格式](../Page/分類:圖形文件格式.md "wikilink")
+[分類:圖形文件格式](https://zh.wikipedia.org/wiki/分類:圖形文件格式 "wikilink")
 
 [Category:电子制造](https://zh.wikipedia.org/wiki/Category:电子制造 "wikilink")
 

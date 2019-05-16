@@ -1,9 +1,9 @@
 **XML命名空间**（**XML
-namespace**，也译作**XML名称空间**、**XML名字空间**）用于在一个XML文档中提供名字唯一的元素和属性。XML命名空间在[W3C推荐规范](../Page/W3C.md "wikilink")[《Namespaces
+namespace**，也译作**XML名称空间**、**XML名字空间**）用于在一个XML文档中提供名字唯一的元素和属性。XML命名空间在[W3C推荐规范](https://zh.wikipedia.org/wiki/W3C "wikilink")[《Namespaces
 in
 XML》](http://www.w3.org/TR/REC-xml-names/)中定义。XML命名空间于1999年1月14日成为W3C的推荐规范。
 
-W3C将XML命名空间定义为以[国际化资源标识符](../Page/国际化资源标识符.md "wikilink")（，[IRI](../Page/IRI.md "wikilink")）引用为标识的元素名和属性名的集合。
+W3C将XML命名空间定义为以[国际化资源标识符](https://zh.wikipedia.org/wiki/国际化资源标识符 "wikilink")（，[IRI](https://zh.wikipedia.org/wiki/IRI "wikilink")）引用为标识的元素名和属性名的集合。
 
 ## 使用命名空间的动机
 
@@ -20,7 +20,7 @@ W3C将XML命名空间定义为以[国际化资源标识符](../Page/国际化资
   - `xmlns`是使用专门用来声明命名空间的保留字，
   - xhtml是命名空间的前缀
   - <http://www.w3.org/1999/xhtml>
-    是命名空间的唯一标识符，是一个[IRI引用](../Page/国际化资源标识符.md "wikilink")，但通常是一个[统一资源标志符](../Page/统一资源标志符.md "wikilink")（URI）引用。
+    是命名空间的唯一标识符，是一个[IRI引用](https://zh.wikipedia.org/wiki/国际化资源标识符 "wikilink")，但通常是一个[统一资源标志符](../Page/统一资源标志符.md "wikilink")（URI）引用。
 
 命名空间的声明就是将一个前缀与一个URI关联起来。
 
@@ -42,11 +42,11 @@ in XML 1.1允许取消命名空间的声明，如：
 
 ## 命名空间的名称
 
-虽然术语**命名空间的URI**被广泛使用，W3C推荐规范称之为**命名空间的名称**。规范并未强制规定命名空间的名称必须使用URI（即当解析器发现命名空间不是一个合法的[URI时应该拒绝该文档](../Page/统一资源标志符.md "wikilink")），实际上许多XML的解析器允许使用任何字符串。在推荐规范的1.1版，命名空间的名称变成了[国际化资源标识符](../Page/国际化资源标识符.md "wikilink")（IRI），IRI允许使用非ASCII码的字符，实际上，非ASCII码字符已经被几乎所有的XML软件所接受。但是**命名空间的URI**一词还在持续使用，在W3C和其他地方的许多规范中也有使用。
+虽然术语**命名空间的URI**被广泛使用，W3C推荐规范称之为**命名空间的名称**。规范并未强制规定命名空间的名称必须使用URI（即当解析器发现命名空间不是一个合法的[URI时应该拒绝该文档](../Page/统一资源标志符.md "wikilink")），实际上许多XML的解析器允许使用任何字符串。在推荐规范的1.1版，命名空间的名称变成了[国际化资源标识符](https://zh.wikipedia.org/wiki/国际化资源标识符 "wikilink")（IRI），IRI允许使用非ASCII码的字符，实际上，非ASCII码字符已经被几乎所有的XML软件所接受。但是**命名空间的URI**一词还在持续使用，在W3C和其他地方的许多规范中也有使用。
 
 随着命名空间推荐规范的发布，在如何处理相对的URI问题上产生了激烈的争论，一方认为相对的URI应当简单地当作字符串处理，而另一方认为应该根据文档的基准URI将其转换为绝对的URI。\[1\]。W3C对这一争论的裁定是不赞成使用相对的URI的。\[2\].
 
-命名空间的URI与HTTP协议没有任何正式的关系，然而HTTP协议形式的URL（例如*<http://www.w3.org/1999/xhtml>*）还是被广泛的用作命名空间的URI。规范并未说明如果这样的URL被**解引用**(dereference，也就是说，如果软件试图从该位置获取一个文档）会发生什么。在这个问题上存在着不同的看法，有些人认为应该在该位置放置一个[RDDL文档](../Page/RDDL.md "wikilink")\[3\]。但是总的来说，用户应该假定命名空间的URI只是一个简单的名称，而非万维网上文档的地址。
+命名空间的URI与HTTP协议没有任何正式的关系，然而HTTP协议形式的URL（例如*<http://www.w3.org/1999/xhtml>*）还是被广泛的用作命名空间的URI。规范并未说明如果这样的URL被**解引用**(dereference，也就是说，如果软件试图从该位置获取一个文档）会发生什么。在这个问题上存在着不同的看法，有些人认为应该在该位置放置一个[RDDL文档](https://zh.wikipedia.org/wiki/RDDL "wikilink")\[3\]。但是总的来说，用户应该假定命名空间的URI只是一个简单的名称，而非万维网上文档的地址。
 
 ## 命名空间宣言
 
@@ -74,7 +74,7 @@ in XML 1.1允许取消命名空间的声明，如：
 {{-}}
 
 [ja:Extensible Markup
-Language\#XML名前空間](../Page/ja:Extensible_Markup_Language#XML名前空間.md "wikilink")
+Language\#XML名前空間](https://zh.wikipedia.org/wiki/ja:Extensible_Markup_Language#XML名前空間 "wikilink")
 
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 

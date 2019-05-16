@@ -1,12 +1,14 @@
 **I Like to Move It**是[Reel 2
-Real](../Page/Reel_2_Real.md "wikilink")([Erick
-Morillo](../Page/Erick_Morillo.md "wikilink"))在1994年發行的[單曲](../Page/單曲.md "wikilink")。[Trinidad
-and Tobago主唱](../Page/Trinidad_and_Tobago.md "wikilink")，饒舌部份則由[The Mad
-Stuntman](../Page/The_Mad_Stuntman.md "wikilink") (Mark
-Quashie)演唱，[ragga客串](../Page/ragga.md "wikilink")。這首歌最早在1994年載於[Billboard
-Hot 100](../Page/Billboard_Hot_100.md "wikilink")。
+Real](https://zh.wikipedia.org/wiki/Reel_2_Real "wikilink")([Erick
+Morillo](https://zh.wikipedia.org/wiki/Erick_Morillo "wikilink"))在1994年發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。[Trinidad
+and
+Tobago主唱](https://zh.wikipedia.org/wiki/Trinidad_and_Tobago "wikilink")，饒舌部份則由[The
+Mad Stuntman](https://zh.wikipedia.org/wiki/The_Mad_Stuntman "wikilink")
+(Mark
+Quashie)演唱，[ragga客串](https://zh.wikipedia.org/wiki/ragga "wikilink")。這首歌最早在1994年載於[Billboard
+Hot 100](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")。
 
-這首歌是[馬達加斯加電影的主題曲](../Page/馬達加斯加_\(2005年電影\).md "wikilink")。
+這首歌是[馬達加斯加電影的主題曲](https://zh.wikipedia.org/wiki/馬達加斯加_\(2005年電影\) "wikilink")。
 
 ## 曲目
 

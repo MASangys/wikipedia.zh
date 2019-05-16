@@ -13,8 +13,8 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
       - 作詞：戶澤暢美 / 作曲、編曲：CHOKKAKU / 合唱編排：佐佐木久美
 2.  かなしいほど青い空
       - 作詞：小倉めぐみ / 作曲：多多納好夫 / 編曲：小野澤篤 / 合唱編排：松下誠
-      - 其後收錄於專輯[pamS](../Page/pamS.md "wikilink")
-3.  [永不忘記](../Page/永不忘記.md "wikilink")（專輯版本）
+      - 其後收錄於專輯[pamS](https://zh.wikipedia.org/wiki/pamS "wikilink")
+3.  [永不忘記](https://zh.wikipedia.org/wiki/永不忘記 "wikilink")（專輯版本）
       - 作詞：森浩美 / 作曲：馬飼野康二 / 編曲：長岡成貢
 4.  永遠に抱きしめたい
       - 作詞：吉元由美 / 作曲：羽場仁志 / 編曲：CHOKKAKU / 合唱編排：佐佐木久美
@@ -38,7 +38,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 11. 想哭的心情 （）
       - 作詞：相田毅 / 作曲：太田美知彥 / 編曲：土方隆行
       - [中居正廣的獨唱曲](../Page/中居正廣.md "wikilink")，後來收錄在單曲[Hey Hey
-        每次都感謝及專輯](../Page/Hey_Hey_每次都感謝.md "wikilink")[pamS的版本是合唱版](../Page/pamS.md "wikilink")
+        每次都感謝及專輯](https://zh.wikipedia.org/wiki/Hey_Hey_每次都感謝 "wikilink")[pamS的版本是合唱版](https://zh.wikipedia.org/wiki/pamS "wikilink")
 12. [歡笑的活力](../Page/歡笑的活力.md "wikilink")
       - 作詞:森浩美 / 作曲:馬飼野康二 / 編曲:船山基紀
 13. [下雪了](../Page/下雪了.md "wikilink")（專輯版本）

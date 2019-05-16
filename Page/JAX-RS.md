@@ -1,18 +1,19 @@
 **JAX-RS: Java API for RESTful Web
-Services**是一个[Java编程语言的](../Page/Java.md "wikilink")[应用程序介面](../Page/应用程序介面.md "wikilink"),支持按照
-[表象化状态转变](../Page/REST.md "wikilink")
+Services**是一个[Java编程语言的](../Page/Java.md "wikilink")[应用程序介面](https://zh.wikipedia.org/wiki/应用程序介面 "wikilink"),支持按照
+[表象化状态转变](https://zh.wikipedia.org/wiki/REST "wikilink")
 (REST)架构风格创建[Web服务](../Page/Web服务.md "wikilink")\[1\].
-JAX-RS使用了[Java SE 5引入的](../Page/Java_SE.md "wikilink")[Java
-标注来简化Web服务客户端和服务端的开发和部署](../Page/Java_标注.md "wikilink")。
+JAX-RS使用了[Java SE
+5引入的](https://zh.wikipedia.org/wiki/Java_SE "wikilink")[Java
+标注来简化Web服务客户端和服务端的开发和部署](https://zh.wikipedia.org/wiki/Java_标注 "wikilink")。
 
 ## 规范内容
 
-JAX-RS提供了一些标注将一个资源类，一个[POJOJava类](../Page/POJO.md "wikilink")，封装为Web资源。标注包括：
+JAX-RS提供了一些标注将一个资源类，一个[POJOJava类](https://zh.wikipedia.org/wiki/POJO "wikilink")，封装为Web资源。标注包括：
 
   - @Path，标注资源类或方法的相对路径
   - @GET，@PUT，@POST，@DELETE，标注方法是用的HTTP请求的类型
   - @Produces，标注返回的MIME媒体类型
-  - @Consumes，标注可接受请求的[MIME媒体类型](../Page/MIME.md "wikilink")
+  - @Consumes，标注可接受请求的[MIME媒体类型](https://zh.wikipedia.org/wiki/MIME "wikilink")
   - @PathParam，@QueryParam，@HeaderParam，@CookieParam，@MatrixParam，@FormParam,分别标注方法的参数来自于HTTP请求的不同位置，例如@PathParam来自于URL的路径，@QueryParam来自于URL的查询参数，@HeaderParam来自于HTTP请求的头信息，@CookieParam来自于HTTP请求的Cookie。
 
 ## JAX-RS的实现
@@ -21,13 +22,13 @@ JAX-RS的实现包括\[2\]：
 
   - [Apache
     CXF](../Page/Apache_CXF.md "wikilink")，开源的[Web服务框架](../Page/Web服务.md "wikilink")。
-  - [Jersey](../Page/Jersey.md "wikilink")，
-    由[Sun提供的JAX](../Page/Sun.md "wikilink")-RS的参考实现。
-  - [RESTEasy](../Page/RESTEasy.md "wikilink")，[JBoss的实现](../Page/JBoss.md "wikilink")。
-  - [Restlet](../Page/Restlet.md "wikilink")，由Jerome Louvel和Dave
-    Pawson开发，是最早的REST框架，先于JAX-RS出现。
+  - [Jersey](https://zh.wikipedia.org/wiki/Jersey "wikilink")，
+    由[Sun提供的JAX](https://zh.wikipedia.org/wiki/Sun "wikilink")-RS的参考实现。
+  - [RESTEasy](https://zh.wikipedia.org/wiki/RESTEasy "wikilink")，[JBoss的实现](https://zh.wikipedia.org/wiki/JBoss "wikilink")。
+  - [Restlet](https://zh.wikipedia.org/wiki/Restlet "wikilink")，由Jerome
+    Louvel和Dave Pawson开发，是最早的REST框架，先于JAX-RS出现。
   - [Apache
-    Wink](../Page/Apache_Wink.md "wikilink")，一个[Apache软件基金会孵化器中的项目](../Page/Apache软件基金会.md "wikilink")，其服务模块实现JAX-RS规范
+    Wink](https://zh.wikipedia.org/wiki/Apache_Wink "wikilink")，一个[Apache软件基金会孵化器中的项目](../Page/Apache软件基金会.md "wikilink")，其服务模块实现JAX-RS规范
 
 ### Jersey
 
@@ -62,8 +63,8 @@ Services的参考实现。Jersey实现了JSR-311中对标注的支持，这使�
 
 ## 参见
 
-[分类:Java](../Page/分类:Java.md "wikilink")
-[分类:应用程序接口](../Page/分类:应用程序接口.md "wikilink")
+[分类:Java](https://zh.wikipedia.org/wiki/分类:Java "wikilink")
+[分类:应用程序接口](https://zh.wikipedia.org/wiki/分类:应用程序接口 "wikilink")
 
 1.  Hadley, p. 1.
 2.  Mark

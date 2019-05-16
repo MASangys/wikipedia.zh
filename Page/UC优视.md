@@ -2,10 +2,10 @@
 
 ## 历史
 
-优视科技的两位创始人[梁捷和](../Page/梁捷.md "wikilink")[何小鹏曾经服务于知名电信服务企业](../Page/何小鹏.md "wikilink")，在电信领域非常资深。2003年底他们独立创业后，于2004年8月最早开发了一款手机邮件客户端UCMAIL\[1\]。UCMAIL拥有很灵活的底层架构，支持[HTML](../Page/HTML.md "wikilink")。这就形成了一个开放的接口，直接通过邮件中的链接可以访问互联网上的[網頁](../Page/網頁.md "wikilink")。他们很快发现，虽然产品反响平平，手机用户使用HTML接口访问互联网的需求却异常强烈，因此他们很快决定做一个专门的手机上网工具\[2\]。同月，他们就在UCMAIL的基础上做出了手机浏览器UCWEB。
+优视科技的两位创始人[梁捷和](https://zh.wikipedia.org/wiki/梁捷 "wikilink")[何小鹏曾经服务于知名电信服务企业](https://zh.wikipedia.org/wiki/何小鹏 "wikilink")，在电信领域非常资深。2003年底他们独立创业后，于2004年8月最早开发了一款手机邮件客户端UCMAIL\[1\]。UCMAIL拥有很灵活的底层架构，支持[HTML](../Page/HTML.md "wikilink")。这就形成了一个开放的接口，直接通过邮件中的链接可以访问互联网上的[網頁](../Page/網頁.md "wikilink")。他们很快发现，虽然产品反响平平，手机用户使用HTML接口访问互联网的需求却异常强烈，因此他们很快决定做一个专门的手机上网工具\[2\]。同月，他们就在UCMAIL的基础上做出了手机浏览器UCWEB。
 
 UCWEB在中国第一家拥有了手机浏览器领域的核心技术及完整知识产权，也是世界第二家（早于[Opera
-Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机浏览](../Page/主從式架構.md "wikilink")[网页的软件](../Page/网页.md "wikilink")\[3\]。
+Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机浏览](../Page/主從式架構.md "wikilink")[网页的软件](https://zh.wikipedia.org/wiki/网页 "wikilink")\[3\]。
 
   - 2005年3月10日，优视动景公司成立，在此之前，因为没有资本实体，这一项目避免了被[网易创始人](../Page/网易.md "wikilink")[丁磊收购](../Page/丁磊.md "wikilink")\[4\]。
 
@@ -27,7 +27,7 @@ Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机�
 
 <!-- end list -->
 
-  - 2009年6月3日，优视动景正式接受[阿里巴巴集团](../Page/阿里巴巴公司.md "wikilink")、晨兴投资、联创策源共三家机构的战略投资。同时，UC和阿里巴巴双方在多层面开展战略合作，共同打造移动电子商务平台。
+  - 2009年6月3日，优视动景正式接受[阿里巴巴集团](https://zh.wikipedia.org/wiki/阿里巴巴公司 "wikilink")、晨兴投资、联创策源共三家机构的战略投资。同时，UC和阿里巴巴双方在多层面开展战略合作，共同打造移动电子商务平台。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@ Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机�
 
 <!-- end list -->
 
-  - 截至2010年5月，UC浏览器在全球下载量超过3亿次，用户超过1亿、月[單頁點閱率](../Page/單頁點閱率.md "wikilink")400亿\[6\]，藉此优视科技（UC）已成为移动互联网应用软件领域的代表企业。
+  - 截至2010年5月，UC浏览器在全球下载量超过3亿次，用户超过1亿、月[單頁點閱率](https://zh.wikipedia.org/wiki/單頁點閱率 "wikilink")400亿\[6\]，藉此优视科技（UC）已成为移动互联网应用软件领域的代表企业。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@ Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机�
 <!-- end list -->
 
   - UCmobile：基于[WebKit内核的手机直连浏览器](../Page/WebKit.md "wikilink")\[8\]，类似于[Opera
-    Mobile](../Page/Opera_Mobile.md "wikilink")，但具有用户中心及其全部功能。支持Symbian、Windows
+    Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")，但具有用户中心及其全部功能。支持Symbian、Windows
     Mobile平台。
 
 <!-- end list -->
@@ -69,7 +69,7 @@ Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机�
 
 <!-- end list -->
 
-  - UC迅雷：手机下载软件，支持[BT](../Page/BitTorrent_\(协议\).md "wikilink")、[FTP](../Page/文件传输协议.md "wikilink")、[迅雷](../Page/迅雷.md "wikilink")、[FlashGet协议](../Page/FlashGet.md "wikilink")。只有Symbian和安卓版，支持广度不如[迅雷公司官方的手机迅雷](../Page/迅雷公司.md "wikilink")。
+  - UC迅雷：手机下载软件，支持[BT](../Page/BitTorrent_\(协议\).md "wikilink")、[FTP](../Page/文件传输协议.md "wikilink")、[迅雷](../Page/迅雷.md "wikilink")、[FlashGet协议](https://zh.wikipedia.org/wiki/FlashGet "wikilink")。只有Symbian和安卓版，支持广度不如[迅雷公司官方的手机迅雷](https://zh.wikipedia.org/wiki/迅雷公司 "wikilink")。
 
 <!-- end list -->
 
@@ -90,7 +90,7 @@ Mini](../Page/Opera_Mini.md "wikilink")）采用了[主從式架構实现手机�
 
 <!-- end list -->
 
-  -   - UC乐园：移动[社交網路服務](../Page/社交網路服務.md "wikilink")，具有简单的[微博客](../Page/微博客.md "wikilink")、[地理位置服务](../Page/地理位置服务.md "wikilink")、[网络相册等功能](../Page/网络相册.md "wikilink")。
+  -   - UC乐园：移动[社交網路服務](../Page/社交網路服務.md "wikilink")，具有简单的[微博客](https://zh.wikipedia.org/wiki/微博客 "wikilink")、[地理位置服务](https://zh.wikipedia.org/wiki/地理位置服务 "wikilink")、[网络相册等功能](../Page/网络相册.md "wikilink")。
 
 ## 参考资料
 

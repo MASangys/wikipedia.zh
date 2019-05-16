@@ -1,11 +1,11 @@
 《**Carry On my
-way**》是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張（2000年解散前最後一張）[專輯](../Page/專輯.md "wikilink")。1999年12月22日發行。
+way**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3張（2000年解散前最後一張）[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。1999年12月22日發行。
 
-當時SPEED將於2000年解散的消息已經宣布，這張「最後的專輯」的發行讓許多歌迷搶購。專輯成為新千年第一個星期[Oricon週榜冠軍](../Page/Oricon.md "wikilink")，在Oricon公信榜期間銷量為88.5萬張。總銷量達150萬張以上，連續4張大碟（包括精選輯《[MOMENT](../Page/MOMENT_\(SPEED專輯\).md "wikilink")》）銷量突破百萬，獲得[日本唱片業協會的百萬唱片認證](../Page/日本唱片業協會.md "wikilink")。
+當時SPEED將於2000年解散的消息已經宣布，這張「最後的專輯」的發行讓許多歌迷搶購。專輯成為新千年第一個星期[Oricon週榜冠軍](../Page/Oricon.md "wikilink")，在Oricon公信榜期間銷量為88.5萬張。總銷量達150萬張以上，連續4張大碟（包括精選輯《[MOMENT](../Page/MOMENT_\(SPEED專輯\).md "wikilink")》）銷量突破百萬，獲得[日本唱片業協會的百萬唱片認證](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")。
 
 ## 收錄曲目
 
-  - 全作詞、作曲：[伊秩弘將](../Page/伊秩弘將.md "wikilink")；編曲：[水島康貴](../Page/水島康貴.md "wikilink")
+  - 全作詞、作曲：[伊秩弘將](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")；編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")
 
 <!-- end list -->
 

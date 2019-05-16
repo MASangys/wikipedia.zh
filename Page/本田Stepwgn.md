@@ -1,4 +1,4 @@
-**本田Stepwgn**（）是一款由[日本](../Page/日本.md "wikilink")[本田技研工業於](../Page/本田技研工業.md "wikilink")1997年推出的[多功能休旅車](../Page/多功能休旅車.md "wikilink")，目前最新第五代車款已於2015年上市，排氣量1.5L。
+**本田Stepwgn**（）是一款由[日本](../Page/日本.md "wikilink")[本田技研工業於](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")1997年推出的[多功能休旅車](../Page/多功能休旅車.md "wikilink")，目前最新第五代車款已於2015年上市，排氣量1.5L。
 
 在[香港](../Page/香港.md "wikilink")，此車款是由大昌行集團旗下的合群汽車代理發售。
 
@@ -11,7 +11,7 @@
 
 第一代的車型是在[本田思域的基礎上構想](../Page/本田思域.md "wikilink")，發展出相類似於輕型貨車的車型，但不同於輕型貨車──全車除了司機位置的一隻車門外，只於一邊設一個推拉式的車門。而引擎則為前置設計。
 
-推出時本田的構想是提供一個經濟型的車型，故其配置選擇比較少，只有2.0升的本田B20B引擎，配備四前速[自動傳動系統](../Page/自動傳動系統.md "wikilink")，輸出馬力則為125匹(後期輸出馬力則為135匹)。
+推出時本田的構想是提供一個經濟型的車型，故其配置選擇比較少，只有2.0升的本田B20B引擎，配備四前速[自動傳動系統](https://zh.wikipedia.org/wiki/自動傳動系統 "wikilink")，輸出馬力則為125匹(後期輸出馬力則為135匹)。
 
 <div style="clear: both">
 
@@ -22,7 +22,7 @@
 [Honda-stepwgn_2nd-front.jpg](https://zh.wikipedia.org/wiki/File:Honda-stepwgn_2nd-front.jpg "fig:Honda-stepwgn_2nd-front.jpg")
 第二代車型於2001年推出。全車的外形與第一代沒太大差異，一樣是只於一邊車門設一個推拉式的車門，引擎則為前置設計。引擎為2.0升的本田K20A引擎，輸出160匹馬力。2003年增設配置2.4升的本田K24A引擎，輸出162匹馬力，加強了性能。
 
-兩個版本分別配備了四前速和五前速的[自動傳動系統](../Page/自動傳動系統.md "wikilink")。
+兩個版本分別配備了四前速和五前速的[自動傳動系統](https://zh.wikipedia.org/wiki/自動傳動系統 "wikilink")。
 
 <div style="clear: both">
 
@@ -44,7 +44,7 @@
 [4th_generation_Honda_Step_WGN.jpg](https://zh.wikipedia.org/wiki/File:4th_generation_Honda_Step_WGN.jpg "fig:4th_generation_Honda_Step_WGN.jpg")
 2009年10月23日本田再推出第四代。第四代的突破是車身高度稍為提高，但長度、闊度不變；同時仍舊於兩邊設推拉式車門。
 
-第四代的配置選擇相比起二、三代又少了，只有2.0升的本田R20A引擎，配備五前速[自動傳動系統](../Page/自動傳動系統.md "wikilink")，輸出馬力則為150匹。
+第四代的配置選擇相比起二、三代又少了，只有2.0升的本田R20A引擎，配備五前速[自動傳動系統](https://zh.wikipedia.org/wiki/自動傳動系統 "wikilink")，輸出馬力則為150匹。
 
 <div style="clear: both">
 

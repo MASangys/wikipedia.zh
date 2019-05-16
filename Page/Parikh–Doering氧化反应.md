@@ -1,6 +1,6 @@
 **Parikh-Doering氧化反应**（Parikh-Doering oxidation）
 
-以[二甲亚砜为](../Page/二甲亚砜.md "wikilink")[氧化剂](../Page/氧化剂.md "wikilink")，[三氧化硫-吡啶络合物为活化剂](../Page/三氧化硫吡啶.md "wikilink")，[三乙胺为碱而将](../Page/三乙胺.md "wikilink")[伯醇和](../Page/伯醇.md "wikilink")[仲醇转化为相应的](../Page/仲醇.md "wikilink")[醛](../Page/醛.md "wikilink")[酮](../Page/酮.md "wikilink")。
+以[二甲亚砜为](https://zh.wikipedia.org/wiki/二甲亚砜 "wikilink")[氧化剂](../Page/氧化剂.md "wikilink")，[三氧化硫-吡啶络合物为活化剂](https://zh.wikipedia.org/wiki/三氧化硫吡啶 "wikilink")，[三乙胺为碱而将](../Page/三乙胺.md "wikilink")[伯醇和](https://zh.wikipedia.org/wiki/伯醇 "wikilink")[仲醇转化为相应的](https://zh.wikipedia.org/wiki/仲醇 "wikilink")[醛](../Page/醛.md "wikilink")[酮](../Page/酮.md "wikilink")。
 
 
 [parikh-doeringscheme.png](https://zh.wikipedia.org/wiki/File:parikh-doeringscheme.png "fig:parikh-doeringscheme.png")
@@ -8,12 +8,12 @@
 
 ## 反应机理
 
-二甲亚砜与三氧化硫在0°C或室温下发生加成，并受到醇进攻，生成关键的[烷氧基](../Page/烷氧基.md "wikilink")[锍离子中间体](../Page/锍.md "wikilink")
+二甲亚砜与三氧化硫在0°C或室温下发生加成，并受到醇进攻，生成关键的[烷氧基](https://zh.wikipedia.org/wiki/烷氧基 "wikilink")[锍离子中间体](https://zh.wikipedia.org/wiki/锍 "wikilink")
 (6)。
 
 
 [Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png](https://zh.wikipedia.org/wiki/File:Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png "fig:Mechanism_of_the_Parikh-Doering_Oxidation_-_Part_1.png")
-该中间体接下来被碱[去质子化为相应的](../Page/去质子化.md "wikilink")[硫叶立德](../Page/硫叶立德.md "wikilink")，然后硫叶立德经五元环过渡态、分解放出[二甲硫醚](../Page/二甲硫醚.md "wikilink")，得到醛酮。
+该中间体接下来被碱[去质子化为相应的](https://zh.wikipedia.org/wiki/去质子化 "wikilink")[硫叶立德](https://zh.wikipedia.org/wiki/硫叶立德 "wikilink")，然后硫叶立德经五元环过渡态、分解放出[二甲硫醚](../Page/二甲硫醚.md "wikilink")，得到醛酮。
 
 
 [Parikh-Doering_Oxidation_Mechanism_Part2_2nd_edition.png](https://zh.wikipedia.org/wiki/File:Parikh-Doering_Oxidation_Mechanism_Part2_2nd_edition.png "fig:Parikh-Doering_Oxidation_Mechanism_Part2_2nd_edition.png")
@@ -31,8 +31,8 @@ Nicolaou 的 cortistatin 全合成中也使用了该反应。\[3\]
 
 ## 参见
 
-  - [Swern氧化反应](../Page/Swern氧化反应.md "wikilink")
-  - [Pfitzner–Moffatt氧化反应](../Page/Pfitzner–Moffatt氧化反应.md "wikilink")
+  - [Swern氧化反应](https://zh.wikipedia.org/wiki/Swern氧化反应 "wikilink")
+  - [Pfitzner–Moffatt氧化反应](https://zh.wikipedia.org/wiki/Pfitzner–Moffatt氧化反应 "wikilink")
   - [Corey–Kim氧化反应](../Page/Corey–Kim氧化反应.md "wikilink")
 
 ## 参考资料

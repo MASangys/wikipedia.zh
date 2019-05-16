@@ -1,10 +1,10 @@
 『**BEST WiSHES**』是[I
-WiSH的](../Page/I_WiSH.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")。
+WiSH的](../Page/I_WiSH.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 解說
 
-  - 解散後僅半年左右發售的[精選輯](../Page/精選輯.md "wikilink")。
-  - 初回限定版附贈[DVD](../Page/DVD.md "wikilink")。
+  - 解散後僅半年左右發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+  - 初回限定版附贈[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
@@ -30,23 +30,24 @@ WiSH的](../Page/I_WiSH.md "wikilink")[精選輯](../Page/精選輯.md "wikilink
 6.  **[Flower](../Page/星星相印.md "wikilink")**
       -
         第二張單曲「星星相印」c/w
-7.  **[約定的那一天](../Page/約定的那一天.md "wikilink")**
+7.  **[約定的那一天](https://zh.wikipedia.org/wiki/約定的那一天 "wikilink")**
       -
         第三張單曲
-8.  **[你踏上旅途那天春天的味道](../Page/約定的那一天.md "wikilink")**
+8.  **[你踏上旅途那天春天的味道](https://zh.wikipedia.org/wiki/約定的那一天 "wikilink")**
       -
         第三張單曲「約定的那一天」c/w
-9.  **[你和我](../Page/你和我.md "wikilink")**
+9.  **[你和我](https://zh.wikipedia.org/wiki/你和我 "wikilink")**
       -
-        第四張單曲。[東京電視台](../Page/東京電視台.md "wikilink")[動畫](../Page/動畫.md "wikilink")『SD
+        第四張單曲。[東京電視台](../Page/東京電視台.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『SD
         GUNDAM FORCE』ED曲。
-10. **[Tomorrow](../Page/你和我.md "wikilink")**
+10. **[Tomorrow](https://zh.wikipedia.org/wiki/你和我 "wikilink")**
       -
         第四張單曲「你和我」c/w
-11. **[Precious days](../Page/Precious_days.md "wikilink")**
+11. **[Precious
+    days](https://zh.wikipedia.org/wiki/Precious_days "wikilink")**
       -
         第五張單曲
-12. **[最後的家](../Page/Precious_days.md "wikilink")**
+12. **[最後的家](https://zh.wikipedia.org/wiki/Precious_days "wikilink")**
       -
         第五張單曲「Precious days」c/w
 13. **迎向未來 Orchestra version**

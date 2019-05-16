@@ -1,12 +1,13 @@
 《**Meet again**》為[林原惠的第](../Page/林原惠.md "wikilink")33張單曲。於2006年7月26日發行。
 
-由[King Records發行](../Page/King_Records.md "wikilink")、銷售（KICM-1164）。
+由[King
+Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")、銷售（KICM-1164）。
 
 ## 概要
 
   - 為慶祝電視動畫《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》系列播放10周年，及《秀逗魔導士NEXT》出版DVD-BOX而發行的雙A面單曲。以林原的作品來說，與前作《》實際上相隔了2年10個月。。
   - B面曲收錄了電視動畫版《秀逗魔導士》主題曲的改編版，只有「[don't be
-    discouraged](../Page/don't_be_discouraged.md "wikilink")」收錄了原始音源。
+    discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")」收錄了原始音源。
   - 因為林原本身很喜歡肉，曾自己在廣播節目中故意把歌名說成「**Meat** again」。
 
 ## 收錄曲
@@ -17,7 +18,7 @@
       - 電視動畫《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》10周年紀念印象曲。
 2.  **[Get along](../Page/Get_along.md "wikilink") 〜SelfTag Version〜**
     \[4:07\]
-      - 作詞：[有森聰美](../Page/有森聰美.md "wikilink") 作曲：佐藤英敏
+      - 作詞：[有森聰美](https://zh.wikipedia.org/wiki/有森聰美 "wikilink") 作曲：佐藤英敏
         編曲：[大平勉](../Page/大平勉.md "wikilink")
       - 電視動畫《秀逗魔導士》片頭曲的改編曲。
       - 原始音源為和[奧井雅美合唱的版本](../Page/奧井雅美.md "wikilink")。為收錄本作，林原重新演唱奧井的部份。
@@ -26,7 +27,8 @@
       - 作詞：有森聰美 作曲：佐藤英敏 編曲：五島翔
       - 電視動畫《秀逗魔導士NEXT》片頭曲的改編曲。
 4.  **[don't be
-    discouraged](../Page/don't_be_discouraged.md "wikilink")** \[4:09\]
+    discouraged](https://zh.wikipedia.org/wiki/don't_be_discouraged "wikilink")**
+    \[4:09\]
       - 作詞：MEGUMI 作曲：佐藤英敏 編曲：添田啓二
       - 電視動畫《秀逗魔導士TRY》主題曲。
 5.  Meet again（Off Vocal Version）
@@ -35,7 +37,8 @@
 
   - **Meet again**
       -
-        《[Plain](../Page/Plain.md "wikilink")》、《秀逗魔導士 MEGUMIX》
+        《[Plain](https://zh.wikipedia.org/wiki/Plain "wikilink")》、《秀逗魔導士
+        MEGUMIX》
   - **Get along 〜SelfTag Version〜**
       -
         《秀逗魔導士 MEGUMIX》
@@ -45,7 +48,9 @@
         《Plain》、《秀逗魔導士 MEGUMIX》
   - **don't be discouraged**
       -
-        《[feel well](../Page/feel_well.md "wikilink")》、《秀逗魔導士 MEGUMIX》
+        《[feel
+        well](https://zh.wikipedia.org/wiki/feel_well "wikilink")》、《秀逗魔導士
+        MEGUMIX》
 
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 [Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink")

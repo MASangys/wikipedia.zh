@@ -41,7 +41,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 1.  《AKB48》
     （作词：秋元康　作曲：渡辺未来　编曲：[高梨康治](../Page/高梨康治.md "wikilink")）
     公演途中第一段歌词中的「」更改為「TSUKUMO DoCoMo Shop」、再变更为現用的「TSUKUMO UDX」。
-    此外，因[版權問題无法使用](../Page/版權.md "wikilink")「[Gashapon](../Page/轉蛋.md "wikilink")」（）的名字而进行了变更。
+    此外，因[版權問題无法使用](https://zh.wikipedia.org/wiki/版權 "wikilink")「[Gashapon](../Page/轉蛋.md "wikilink")」（）的名字而进行了变更。
 2.  《裙摆飘飘》（安可版）
 3.  《櫻花的花瓣們》（安可版）
 
@@ -49,14 +49,14 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 
   - 歌曲串烧
       - 《[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")》（）
-        （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：俊龍、編曲：[野中"まさ"雄一](../Page/野中"まさ"雄一.md "wikilink")）
+        （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：俊龍、編曲：[野中"まさ"雄一](https://zh.wikipedia.org/wiki/野中"まさ"雄一 "wikilink")）
       - 《[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")》（）
         （作詞：秋元康、作曲：多田慎也、編曲：生田真心）
       - 《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》（）
         （作詞：秋元康、作曲：丸谷マナブ、編曲：佐々木裕）
-      - 《[戀愛的充電Prius](../Page/戀愛的幸運餅乾#跨業合作.md "wikilink")》（）
+      - 《[戀愛的充電Prius](https://zh.wikipedia.org/wiki/戀愛的幸運餅乾#跨業合作 "wikilink")》（）
         （作詞：秋元康、作曲：伊藤心太郎、編曲：武藤星兒）
-  - 《[心之告示牌](../Page/心之告示牌.md "wikilink")》（）
+  - 《[心之告示牌](https://zh.wikipedia.org/wiki/心之告示牌 "wikilink")》（）
     （作詞：秋元康、作曲：板垣祐介、編曲：武藤星兒）
 
 作为SKE48公演，《overture》为SKE48版本，《AKB48》变更为「SKE48」，裙摆飘飘（安可版）变更为「大声钻石（SKE48版）」。
@@ -67,8 +67,8 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
     （作词：秋元康　作曲：渡辺未来　编曲：高梨康治）
   - 《[大声钻石](../Page/大声钻石.md "wikilink")（SKE48版）（）
     （作词：秋元康　作曲、编曲：井上ヨシマサ）
-  - 《[堅強之勇者](../Page/堅強之勇者.md "wikilink")》（）
-    （作詞：秋元康、作曲：上田晃司、編曲：[野中“まさ”雄一](../Page/野中“まさ”雄一.md "wikilink")）
+  - 《[堅強之勇者](https://zh.wikipedia.org/wiki/堅強之勇者 "wikilink")》（）
+    （作詞：秋元康、作曲：上田晃司、編曲：[野中“まさ”雄一](https://zh.wikipedia.org/wiki/野中“まさ”雄一 "wikilink")）
 
 此外，也有部分公演场次中未演奏「和你在一起的平安夜」。
 
@@ -82,15 +82,15 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
       - 《[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")》（）
         （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲、編曲：GRAVITY）
       - 《[青春的單圈時間](../Page/絕滅黑髮少女.md "wikilink")》（）
-        （作詞：秋元康、作曲：川浦正大、編曲：[野中"まさ"雄一](../Page/野中"まさ"雄一.md "wikilink")）
+        （作詞：秋元康、作曲：川浦正大、編曲：[野中"まさ"雄一](https://zh.wikipedia.org/wiki/野中"まさ"雄一 "wikilink")）
       - 《[久等了，新學期](../Page/絕滅黑髮少女.md "wikilink")》（）
         （作詞：秋元康、作曲、編曲：市川裕一）
       - 《[我輸了的夏天](../Page/絕滅黑髮少女.md "wikilink")》（）
-        （作詞：秋元康、作曲：[ツキダタダシ](../Page/ケダマ.md "wikilink")、編曲：野中"まさ"雄一）
+        （作詞：秋元康、作曲：[ツキダタダシ](https://zh.wikipedia.org/wiki/ケダマ "wikilink")、編曲：野中"まさ"雄一）
       - 《[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")》
         （作詞：秋元康　作曲：多田慎也　編曲：生田真心）
       - 《[無限重播](../Page/無限重播.md "wikilink")》（）
-        （作詞：秋元康　作曲：山崎燿　編曲：[田中ユウスケ](../Page/田中ユウスケ.md "wikilink")）
+        （作詞：秋元康　作曲：山崎燿　編曲：[田中ユウスケ](https://zh.wikipedia.org/wiki/田中ユウスケ "wikilink")）
 
 作为HKT48公演，《overture》为HKT48版本，《AKB48》变更为《HKT48》。
 
@@ -105,12 +105,13 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
         （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲、編曲：若田部誠、由高中生及以上年齡成員演唱）
       - 《[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")》（）
         （作詞：秋元康、作曲：织田哲郎、編曲：野中"まさ"雄一）
-      - 《[红唇Be My Baby](../Page/红唇Be_My_Baby.md "wikilink")》（）
+      - 《[红唇Be My
+        Baby](https://zh.wikipedia.org/wiki/红唇Be_My_Baby "wikilink")》（）
         （作詞：小内喜文、作曲、編曲：佐佐木裕）
 
 ### 翻唱等
 
-  - 《櫻花的花瓣們》（[AKB48獨立製作1st單曲](../Page/櫻花的花瓣們.md "wikilink")）
+  - 《櫻花的花瓣們》（[AKB48獨立製作1st單曲](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")）
   - 《Dear my teacher》（AKB48獨立製作1st單曲、C/W曲）
   - 《裙摆飘飘》（[AKB48獨立製作2nd單曲](../Page/裙襬飄飄.md "wikilink")）
   - 《在藍天旁》（AKB48獨立製作2nd單曲、C/W曲）
@@ -125,7 +126,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 公演期间：2005年12月8日 - 2006年3月31日
   - 出演成员
       -
-        [板野友美](../Page/板野友美.md "wikilink")、[宇佐美友紀](../Page/宇佐美友紀.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](../Page/大岛麻衣.md "wikilink")、[折井步](../Page/折井步.md "wikilink")（）、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](../Page/小嶋阳菜.md "wikilink")、[驹谷仁美](../Page/驹谷仁美.md "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥南](../Page/高桥南.md "wikilink")（）、[户岛花](../Page/户岛花.md "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](../Page/成田梨纱.md "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[星野满](../Page/Michiru.md "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加弥乃](../Page/增山加弥乃.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[渡邊志穗](../Page/渡邊志穗.md "wikilink")
+        [板野友美](../Page/板野友美.md "wikilink")、[宇佐美友紀](../Page/宇佐美友紀.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[大江朝美](../Page/大江朝美.md "wikilink")、[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井步](../Page/折井步.md "wikilink")（）、[川崎希](../Page/川崎希.md "wikilink")、[小嶋阳菜](https://zh.wikipedia.org/wiki/小嶋阳菜 "wikilink")、[驹谷仁美](https://zh.wikipedia.org/wiki/驹谷仁美 "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高桥南](https://zh.wikipedia.org/wiki/高桥南 "wikilink")（）、[户岛花](https://zh.wikipedia.org/wiki/户岛花 "wikilink")、[中西里菜](../Page/中西里菜.md "wikilink")、[成田梨纱](https://zh.wikipedia.org/wiki/成田梨纱 "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[星野满](https://zh.wikipedia.org/wiki/Michiru "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[增山加弥乃](https://zh.wikipedia.org/wiki/增山加弥乃 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗 "wikilink")
           -
             ※篠田麻里子自2006年1月22日起参加、宇佐美友纪在公演最后一天毕业。
   - 分组曲担当
@@ -147,7 +148,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 复活公演：2006年11月8日 - 12月14日
   - 出演成员
       -
-        [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](../Page/今井优.md "wikilink")、[上村彩子](../Page/上村彩子.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](../Page/大岛优子.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](../Page/奥真奈美.md "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](../Page/高田彩奈.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](../Page/早野薫.md "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](../Page/宫泽佐江.md "wikilink")
+        [秋元才加](../Page/秋元才加.md "wikilink")、[今井优](https://zh.wikipedia.org/wiki/今井优 "wikilink")、[上村彩子](../Page/上村彩子.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大岛优子](https://zh.wikipedia.org/wiki/大岛优子 "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[奥真奈美](https://zh.wikipedia.org/wiki/奥真奈美 "wikilink")、[小野惠令奈](../Page/小野惠令奈.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[高田彩奈](https://zh.wikipedia.org/wiki/高田彩奈 "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[早野薫](https://zh.wikipedia.org/wiki/早野薫 "wikilink")、[增田有華](../Page/增田有華.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宫泽佐江](https://zh.wikipedia.org/wiki/宫泽佐江 "wikilink")
           -
             ※上村彩子自2006年6月17日起退团。
   - 分组曲担当
@@ -161,7 +162,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 公演期间：2008年10月5日 - 2009年2月8日
   - 出演成员
       -
-        [大矢真那](../Page/大矢真那.md "wikilink")、[小野晴香](../Page/小野晴香.md "wikilink")、[桑原瑞希](../Page/桑原瑞希.md "wikilink")（）、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[新海里奈](../Page/新海里奈.md "wikilink")、[铃木绮罗](../Page/铃木绮罗.md "wikilink")（）、[高井月奈](../Page/高井月奈.md "wikilink")（）、[高田志織](../Page/高田志織.md "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[松下唯](../Page/松下唯.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")、[山下萌](../Page/山下萌.md "wikilink")（）
+        [大矢真那](../Page/大矢真那.md "wikilink")、[小野晴香](../Page/小野晴香.md "wikilink")、[桑原瑞希](../Page/桑原瑞希.md "wikilink")（）、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[新海里奈](../Page/新海里奈.md "wikilink")、[铃木绮罗](https://zh.wikipedia.org/wiki/铃木绮罗 "wikilink")（）、[高井月奈](https://zh.wikipedia.org/wiki/高井月奈 "wikilink")（）、[高田志織](../Page/高田志織.md "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[平田璃香子](../Page/平田璃香子.md "wikilink")、[平松可奈子](../Page/平松可奈子.md "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")、[松下唯](../Page/松下唯.md "wikilink")、[矢神久美](../Page/矢神久美.md "wikilink")、[山下萌](https://zh.wikipedia.org/wiki/山下萌 "wikilink")（）
           -
             ※铃木绮罗于2008年11月24日毕业，平松可奈子于11月29日升格。
   - 分组曲担当
@@ -175,10 +176,10 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 
   - 公演期间：2010年2月16日 - 2012年8月12日
       -
-        2012年2月27日开始、此公演与同日开始的[「好想见你」公演两公演由SKE](../Page/Team_A_2nd_Stage“想见你”#SKE48_研究生公演“想见你”.md "wikilink")48研究生交替演出\[1\]。
+        2012年2月27日开始、此公演与同日开始的[「好想见你」公演两公演由SKE](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage“想见你”#SKE48_研究生公演“想见你” "wikilink")48研究生交替演出\[1\]。
   - 出演成员
       -
-        [阿比留李帆](../Page/阿比留李帆.md "wikilink")、[井口栞里](../Page/井口栞里.md "wikilink")、[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](../Page/市野成美.md "wikilink")、[犬冢朝奈](../Page/犬冢朝奈.md "wikilink")（）、[今出舞](../Page/今出舞.md "wikilink")、[岩永亞美](../Page/岩永亞美.md "wikilink")、[上野圭澄](../Page/上野圭澄.md "wikilink")、[内山命](../Page/内山命.md "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大脇有紗](../Page/大脇有紗.md "wikilink")、[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[荻野利沙](../Page/荻野利沙.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")（）、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（）、[木下有希子](../Page/木下有希子.md "wikilink")、[鬼頭桃菜](../Page/鬼頭桃菜.md "wikilink")、[後藤理沙子](../Page/後藤理沙子.md "wikilink")、[小林繪未梨](../Page/小林繪未梨.md "wikilink")、[齊藤真木子](../Page/齊藤真木子.md "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[新海里奈](../Page/新海里奈.md "wikilink")、[菅奈奈子](../Page/菅奈奈子.md "wikilink")（）、[須田亞香里](../Page/須田亞香里.md "wikilink")、[新土居沙也加](../Page/新土居沙也加.md "wikilink")、[二村春香](../Page/二村春香.md "wikilink")、[野野山茉琳](../Page/野野山茉琳.md "wikilink")、[秦佐和子](../Page/秦佐和子.md "wikilink")、[半田礼音](../Page/半田礼音.md "wikilink")、[日置實希](../Page/日置實希.md "wikilink")、[藤本美月](../Page/藤本美月.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[間野春香](../Page/間野春香.md "wikilink")、[水埜帆乃香](../Page/水埜帆乃香.md "wikilink")、[宮前杏實](../Page/宮前杏實.md "wikilink")、[森紗雪](../Page/森紗雪.md "wikilink")、[矢方美紀](../Page/矢方美紀.md "wikilink")、[山田惠里伽](../Page/山田惠里伽.md "wikilink")、[山田瑞穗](../Page/山田瑞穗.md "wikilink")（）
+        [阿比留李帆](../Page/阿比留李帆.md "wikilink")、[井口栞里](https://zh.wikipedia.org/wiki/井口栞里 "wikilink")、[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[犬冢朝奈](https://zh.wikipedia.org/wiki/犬冢朝奈 "wikilink")（）、[今出舞](https://zh.wikipedia.org/wiki/今出舞 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[上野圭澄](../Page/上野圭澄.md "wikilink")、[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大脇有紗](https://zh.wikipedia.org/wiki/大脇有紗 "wikilink")、[小木曾汐莉](../Page/小木曾汐莉.md "wikilink")、[荻野利沙](https://zh.wikipedia.org/wiki/荻野利沙 "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")（）、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（）、[木下有希子](../Page/木下有希子.md "wikilink")、[鬼頭桃菜](https://zh.wikipedia.org/wiki/鬼頭桃菜 "wikilink")、[後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink")、[小林繪未梨](https://zh.wikipedia.org/wiki/小林繪未梨 "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[新海里奈](../Page/新海里奈.md "wikilink")、[菅奈奈子](https://zh.wikipedia.org/wiki/菅奈奈子 "wikilink")（）、[須田亞香里](../Page/須田亞香里.md "wikilink")、[新土居沙也加](https://zh.wikipedia.org/wiki/新土居沙也加 "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[野野山茉琳](https://zh.wikipedia.org/wiki/野野山茉琳 "wikilink")、[秦佐和子](../Page/秦佐和子.md "wikilink")、[半田礼音](https://zh.wikipedia.org/wiki/半田礼音 "wikilink")、[日置實希](https://zh.wikipedia.org/wiki/日置實希 "wikilink")、[藤本美月](https://zh.wikipedia.org/wiki/藤本美月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[間野春香](https://zh.wikipedia.org/wiki/間野春香 "wikilink")、[水埜帆乃香](https://zh.wikipedia.org/wiki/水埜帆乃香 "wikilink")、[宮前杏實](https://zh.wikipedia.org/wiki/宮前杏實 "wikilink")、[森紗雪](../Page/森紗雪.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山田惠里伽](../Page/山田惠里伽.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")（）
           -
             ※小木曽汐莉于2010年2月25日升格至Team KII。木下有希子与須田亚香里于2月27日升格至Team
             S。新海里奈与森紗雪于3月30日从Team
@@ -199,7 +200,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 公演期間：2011年8月13日 - 2012年5月2日
   - 出演成員（初日成員）
       -
-        [東由樹](../Page/東由樹.md "wikilink")、[石田優美](../Page/石田優美.md "wikilink")、[大谷莉子](../Page/大谷莉子.md "wikilink")、[岡田梨紗子](../Page/岡田梨紗子.md "wikilink")、[小鷹狩佑香](../Page/小鷹狩佑香.md "wikilink")、[島田玲奈](../Page/島田玲奈.md "wikilink")、[城恵理子](../Page/城恵理子.md "wikilink")、[高野祐衣](../Page/高野祐衣.md "wikilink")、[泷山茜](../Page/泷山茜.md "wikilink")（）、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[林萌萌香](../Page/林萌萌香.md "wikilink")、[藤田留奈](../Page/藤田留奈.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[村瀬紗英](../Page/村瀬紗英.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")（）
+        [東由樹](https://zh.wikipedia.org/wiki/東由樹 "wikilink")、[石田優美](https://zh.wikipedia.org/wiki/石田優美 "wikilink")、[大谷莉子](https://zh.wikipedia.org/wiki/大谷莉子 "wikilink")、[岡田梨紗子](https://zh.wikipedia.org/wiki/岡田梨紗子 "wikilink")、[小鷹狩佑香](https://zh.wikipedia.org/wiki/小鷹狩佑香 "wikilink")、[島田玲奈](../Page/島田玲奈.md "wikilink")、[城恵理子](https://zh.wikipedia.org/wiki/城恵理子 "wikilink")、[高野祐衣](https://zh.wikipedia.org/wiki/高野祐衣 "wikilink")、[泷山茜](https://zh.wikipedia.org/wiki/泷山茜 "wikilink")（）、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[林萌萌香](https://zh.wikipedia.org/wiki/林萌萌香 "wikilink")、[藤田留奈](https://zh.wikipedia.org/wiki/藤田留奈 "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[村瀬紗英](https://zh.wikipedia.org/wiki/村瀬紗英 "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")（）
           -
             ※島田玲奈在9月2日至12月31日休演（暂停活动中）、泷山茜在1月15日畢業（12月22日畢業公演）、大谷莉子在1月15日畢業（1月11日畢業公演）、岡田梨紗子在2月18日畢業（2月9日畢業公演）、小鷹狩、島田、城、高野、谷川、藤田、村上、村瀬、矢倉、與儀在1月26日昇格到Team
             M。小鷹狩佑香在5月6日畢業（4月25日卒業公演）。
@@ -217,7 +218,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 公演期間：2012年9月30日 -
   - 出演成員（初日成員）
       -
-        [秋吉優花](../Page/秋吉優花.md "wikilink")、[安陪恭加](../Page/安陪恭加.md "wikilink")、[伊藤来笑](../Page/伊藤来笑.md "wikilink")、[今田美奈](../Page/今田美奈.md "wikilink")、[上野遥](../Page/上野遥.md "wikilink")、[梅本泉](../Page/梅本泉.md "wikilink")、[岡田栞奈](../Page/岡田栞奈.md "wikilink")、[岡本尚子](../Page/岡本尚子.md "wikilink")、[草場愛](../Page/草場愛.md "wikilink")、[駒田京伽](../Page/駒田京伽.md "wikilink")、[坂口理子](../Page/坂口理子_\(HKT48\).md "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中優香](../Page/田中優香.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[朝長美樱](../Page/朝長美樱.md "wikilink")、[渕上舞](../Page/渕上舞_（歌手）.md "wikilink")
+        [秋吉優花](https://zh.wikipedia.org/wiki/秋吉優花 "wikilink")、[安陪恭加](https://zh.wikipedia.org/wiki/安陪恭加 "wikilink")、[伊藤来笑](https://zh.wikipedia.org/wiki/伊藤来笑 "wikilink")、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")、[上野遥](https://zh.wikipedia.org/wiki/上野遥 "wikilink")、[梅本泉](https://zh.wikipedia.org/wiki/梅本泉 "wikilink")、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、[岡本尚子](https://zh.wikipedia.org/wiki/岡本尚子 "wikilink")、[草場愛](https://zh.wikipedia.org/wiki/草場愛 "wikilink")、[駒田京伽](https://zh.wikipedia.org/wiki/駒田京伽 "wikilink")、[坂口理子](https://zh.wikipedia.org/wiki/坂口理子_\(HKT48\) "wikilink")、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[朝長美樱](https://zh.wikipedia.org/wiki/朝長美樱 "wikilink")、[渕上舞](https://zh.wikipedia.org/wiki/渕上舞_（歌手） "wikilink")
   - 分组曲担当
       - 《裙摆飘飘》（演唱：上野、梅本、田島、朝長、渕上）
       - 《同班同学》（演唱：秋吉、伊藤、岡田、田中、谷）
@@ -230,7 +231,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
   - 公演時間：2013年9月13日
   - 出演成員
       -
-        [赤澤萌乃](../Page/赤澤萌乃.md "wikilink")、[石塚朱莉](../Page/石塚朱莉.md "wikilink")、[井尻晏菜](../Page/井尻晏菜.md "wikilink")、[植田碧麗](../Page/植田碧麗.md "wikilink")、[梅原真子](../Page/梅原真子.md "wikilink")、[太田夢莉](../Page/太田夢莉.md "wikilink")、[加藤夕夏](../Page/加藤夕夏.md "wikilink")、[上枝恵美加](../Page/上枝恵美加.md "wikilink")、[日下木之实](../Page/日下木之实.md "wikilink")（）、[久代梨奈](../Page/久代梨奈.md "wikilink")、[黒川葉月](../Page/黒川葉月.md "wikilink")、[河野早紀](../Page/河野早紀.md "wikilink")、[小林莉加子](../Page/小林莉加子.md "wikilink")、[室加奈子](../Page/室加奈子.md "wikilink")、[薮下柊](../Page/薮下柊.md "wikilink")、[山内翼](../Page/山内翼.md "wikilink")（）
+        [赤澤萌乃](https://zh.wikipedia.org/wiki/赤澤萌乃 "wikilink")、[石塚朱莉](https://zh.wikipedia.org/wiki/石塚朱莉 "wikilink")、[井尻晏菜](https://zh.wikipedia.org/wiki/井尻晏菜 "wikilink")、[植田碧麗](https://zh.wikipedia.org/wiki/植田碧麗 "wikilink")、[梅原真子](../Page/梅原真子.md "wikilink")、[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")、[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[上枝恵美加](https://zh.wikipedia.org/wiki/上枝恵美加 "wikilink")、[日下木之实](https://zh.wikipedia.org/wiki/日下木之实 "wikilink")（）、[久代梨奈](https://zh.wikipedia.org/wiki/久代梨奈 "wikilink")、[黒川葉月](https://zh.wikipedia.org/wiki/黒川葉月 "wikilink")、[河野早紀](https://zh.wikipedia.org/wiki/河野早紀 "wikilink")、[小林莉加子](https://zh.wikipedia.org/wiki/小林莉加子 "wikilink")、[室加奈子](https://zh.wikipedia.org/wiki/室加奈子 "wikilink")、[薮下柊](../Page/薮下柊.md "wikilink")、[山内翼](https://zh.wikipedia.org/wiki/山内翼 "wikilink")（）
           -
             ※這個公演是Team BII在2013年9月7日-13日進行的企劃“尽情享受我们的欺骗之周”（）的最終日的驚喜公演。
   - 分组曲担当
@@ -274,11 +275,11 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 ## SKE48 研究生公演「PARTY开始了」（2015年起）
 
   - 公演期間：2015年7月6日‐
-  - 出演成员：[相川暖花](../Page/相川暖花.md "wikilink")、[浅井裕華](../Page/浅井裕華.md "wikilink")、[太田彩夏](../Page/太田彩夏.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[片岡成美](../Page/片岡成美.md "wikilink")、[川崎成美](../Page/川崎成美.md "wikilink")、[後藤楽楽](../Page/後藤楽楽.md "wikilink")、[末永桜花](../Page/末永桜花.md "wikilink")、[杉山愛佳](../Page/杉山愛佳.md "wikilink")、[髙畑結希](../Page/髙畑結希.md "wikilink")、[辻希美](../Page/辻希美_\(1996年\).md "wikilink")（）、[野島樺乃](../Page/野島樺乃.md "wikilink")、[町音葉](../Page/町音葉.md "wikilink")、[村井純奈](../Page/村井純奈.md "wikilink")、[和田愛菜](../Page/和田愛菜.md "wikilink")、[一色嶺奈](../Page/一色嶺奈.md "wikilink")、[上村亞柚香](../Page/上村亞柚香.md "wikilink")、[白井琴望](../Page/白井琴望.md "wikilink")、[水野愛理](../Page/水野愛理.md "wikilink")、[菅原茉椰](../Page/菅原茉椰.md "wikilink")
+  - 出演成员：[相川暖花](https://zh.wikipedia.org/wiki/相川暖花 "wikilink")、[浅井裕華](https://zh.wikipedia.org/wiki/浅井裕華 "wikilink")、[太田彩夏](https://zh.wikipedia.org/wiki/太田彩夏 "wikilink")、[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")、[片岡成美](https://zh.wikipedia.org/wiki/片岡成美 "wikilink")、[川崎成美](https://zh.wikipedia.org/wiki/川崎成美 "wikilink")、[後藤楽楽](https://zh.wikipedia.org/wiki/後藤楽楽 "wikilink")、[末永桜花](https://zh.wikipedia.org/wiki/末永桜花 "wikilink")、[杉山愛佳](https://zh.wikipedia.org/wiki/杉山愛佳 "wikilink")、[髙畑結希](https://zh.wikipedia.org/wiki/髙畑結希 "wikilink")、[辻希美](https://zh.wikipedia.org/wiki/辻希美_\(1996年\) "wikilink")（）、[野島樺乃](https://zh.wikipedia.org/wiki/野島樺乃 "wikilink")、[町音葉](https://zh.wikipedia.org/wiki/町音葉 "wikilink")、[村井純奈](https://zh.wikipedia.org/wiki/村井純奈 "wikilink")、[和田愛菜](https://zh.wikipedia.org/wiki/和田愛菜 "wikilink")、[一色嶺奈](https://zh.wikipedia.org/wiki/一色嶺奈 "wikilink")、[上村亞柚香](https://zh.wikipedia.org/wiki/上村亞柚香 "wikilink")、[白井琴望](https://zh.wikipedia.org/wiki/白井琴望 "wikilink")、[水野愛理](https://zh.wikipedia.org/wiki/水野愛理 "wikilink")、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")
       - 公演由7期研究生和选秀2期研究生合共演出。2015年11月28日起杉山、野島升格至Team S、小畑、白井升格至Team
         KII、後藤楽、菅原升格至Team
         E。辻在11月30日辞退了SKE48的活動。之後研究生人數少於正常公演所需的16人，故每場公演都有正規成員或已經升格的成員前來助演。
-      - 助演的正規成員：[市野成美](../Page/市野成美.md "wikilink")、[荒井優希](../Page/荒井優希.md "wikilink")、[井田玲音名](../Page/井田玲音名.md "wikilink")、[犬塚朝奈](../Page/犬塚朝奈.md "wikilink")（）、[野口由芽](../Page/野口由芽.md "wikilink")、[都築里佳](../Page/都築里佳.md "wikilink")、[青木詩織](../Page/青木詩織.md "wikilink")、[後藤理沙子](../Page/後藤理沙子.md "wikilink")、[竹内彩姫](../Page/竹内彩姫.md "wikilink")、[髙塚夏生](../Page/髙塚夏生.md "wikilink")
+      - 助演的正規成員：[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[荒井優希](https://zh.wikipedia.org/wiki/荒井優希 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、[犬塚朝奈](https://zh.wikipedia.org/wiki/犬塚朝奈 "wikilink")（）、[野口由芽](https://zh.wikipedia.org/wiki/野口由芽 "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、[後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[髙塚夏生](https://zh.wikipedia.org/wiki/髙塚夏生 "wikilink")
 
 <!-- end list -->
 
@@ -309,8 +310,8 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 ## NGT48 Team NIII 1st Stage「PARTY开始了」公演
 
   - 公演期间：2016年1月10日 - 5月15日（共62场）
-  - 出演成员：[荻野由佳](../Page/荻野由佳.md "wikilink")、[小熊倫實](../Page/小熊倫實.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤美南](../Page/加藤美南.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[佐藤杏樹](../Page/佐藤杏樹.md "wikilink")、[菅原里子](../Page/菅原里子.md "wikilink")（）、[高倉萌香](../Page/高倉萌香.md "wikilink")、[太野彩香](../Page/太野彩香.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")（）、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、[長谷川玲奈](../Page/長谷川玲奈.md "wikilink")、[本間日陽](../Page/本間日陽.md "wikilink")、[村雲颯香](../Page/村雲颯香.md "wikilink")、[山口真帆](../Page/山口真帆.md "wikilink")、[山田野繪](../Page/山田野繪.md "wikilink")
-      - 代演的研究生：[大瀧友梨亚](../Page/大瀧友梨亚.md "wikilink")、[角尤利娅](../Page/角尤利娅.md "wikilink")（）、[日下部爱菜](../Page/日下部爱菜.md "wikilink")、[清司丽菜](../Page/清司丽菜.md "wikilink")、[高桥真生](../Page/高桥真生.md "wikilink")、[中村歩加](../Page/中村歩加.md "wikilink")、[奈良未遥](../Page/奈良未遥.md "wikilink")、[西村菜那子](../Page/西村菜那子.md "wikilink")、[水泽彩佳](../Page/水泽彩佳.md "wikilink")、[宫岛亚弥](../Page/宫岛亚弥.md "wikilink")
+  - 出演成员：[荻野由佳](../Page/荻野由佳.md "wikilink")、[小熊倫實](https://zh.wikipedia.org/wiki/小熊倫實 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[加藤美南](../Page/加藤美南.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[佐藤杏樹](https://zh.wikipedia.org/wiki/佐藤杏樹 "wikilink")、[菅原里子](https://zh.wikipedia.org/wiki/菅原里子 "wikilink")（）、[高倉萌香](https://zh.wikipedia.org/wiki/高倉萌香 "wikilink")、[太野彩香](https://zh.wikipedia.org/wiki/太野彩香 "wikilink")、[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")（）、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、[長谷川玲奈](https://zh.wikipedia.org/wiki/長谷川玲奈 "wikilink")、[本間日陽](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")、[村雲颯香](https://zh.wikipedia.org/wiki/村雲颯香 "wikilink")、[山口真帆](https://zh.wikipedia.org/wiki/山口真帆 "wikilink")、[山田野繪](https://zh.wikipedia.org/wiki/山田野繪 "wikilink")
+      - 代演的研究生：[大瀧友梨亚](https://zh.wikipedia.org/wiki/大瀧友梨亚 "wikilink")、[角尤利娅](https://zh.wikipedia.org/wiki/角尤利娅 "wikilink")（）、[日下部爱菜](https://zh.wikipedia.org/wiki/日下部爱菜 "wikilink")、[清司丽菜](https://zh.wikipedia.org/wiki/清司丽菜 "wikilink")、[高桥真生](https://zh.wikipedia.org/wiki/高桥真生 "wikilink")、[中村歩加](https://zh.wikipedia.org/wiki/中村歩加 "wikilink")、[奈良未遥](https://zh.wikipedia.org/wiki/奈良未遥 "wikilink")、[西村菜那子](https://zh.wikipedia.org/wiki/西村菜那子 "wikilink")、[水泽彩佳](https://zh.wikipedia.org/wiki/水泽彩佳 "wikilink")、[宫岛亚弥](https://zh.wikipedia.org/wiki/宫岛亚弥 "wikilink")
   - 分组曲担当
 
 | 分組曲       | 正规成員                 | 代演的研究生                |
@@ -335,7 +336,7 @@ A的AKB48初始成员演出的公演，后来也先后被用作AKB48 Team K、AK
 | 太野彩香      |                      |                       |
 | 高倉萌香      | 角尤利娅、清司麗菜            |                       |
 
-  - 在2016年3月3日的公演上、作為電視節目《[Mu-Jack](../Page/Mu-Jack.md "wikilink")》的特別企劃，AKB48的成員[高橋南特別出演](../Page/高橋南.md "wikilink")，並與加藤美南、荻野由佳兩名成員一同表演了《[Bird](../Page/Team_A_3rd_Stage“為了誰”.md "wikilink")》一曲\[7\]。
+  - 在2016年3月3日的公演上、作為電視節目《[Mu-Jack](../Page/Mu-Jack.md "wikilink")》的特別企劃，AKB48的成員[高橋南特別出演](../Page/高橋南.md "wikilink")，並與加藤美南、荻野由佳兩名成員一同表演了《[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“為了誰” "wikilink")》一曲\[7\]。
 
 ## BNK48 Team BIII 1st Stage「PARTY開始了」公演
 
@@ -483,7 +484,7 @@ PARTY開始了 〜1st stage〜》發售後，2007年3月21日與其他的公演D
 
   - 收錄成員
       -
-        東由樹、石田優美、[古賀成美](../Page/古賀成美.md "wikilink")、島田玲奈、城恵理子、高野祐衣、谷川愛梨、[西澤瑠莉奈](../Page/西澤瑠莉奈.md "wikilink")、林萌萌香、藤田留奈、[三田麻央](../Page/三田麻央.md "wikilink")、村上文香、村瀬紗英、矢倉楓子、[山本瞳](../Page/山本瞳.md "wikilink")（）、與儀凯拉
+        東由樹、石田優美、[古賀成美](https://zh.wikipedia.org/wiki/古賀成美 "wikilink")、島田玲奈、城恵理子、高野祐衣、谷川愛梨、[西澤瑠莉奈](https://zh.wikipedia.org/wiki/西澤瑠莉奈 "wikilink")、林萌萌香、藤田留奈、[三田麻央](../Page/三田麻央.md "wikilink")、村上文香、村瀬紗英、矢倉楓子、[山本瞳](https://zh.wikipedia.org/wiki/山本瞳 "wikilink")（）、與儀凯拉
 
 <!-- end list -->
 
@@ -499,7 +500,7 @@ PARTY開始了 〜1st stage〜》發售後，2007年3月21日與其他的公演D
     9.  《星之溫度》
     10. 《櫻花花瓣》
     11. 《在藍天旁》
-    12. 《[纯情U-19](../Page/纯情U-19.md "wikilink")》
+    12. 《[纯情U-19](https://zh.wikipedia.org/wiki/纯情U-19 "wikilink")》
     13. 《NMB48》
     14. 《歌曲串烧》
     15. 《裙擺飄飄》（安可版）
@@ -523,7 +524,7 @@ PARTY開始了 〜1st stage〜》發售後，2007年3月21日與其他的公演D
 
 1.  [](http://www.ske48.co.jp/news/?id=1329993646) -
     SKE48官方网站（2012年2月23日）
-2.  研究生公演开始以前的[「手牵手」公演被表记作](../Page/Team_S_2nd_Stage“手牵手”#HKT48_1期生“手牵手”公演.md "wikilink")「1st
+2.  研究生公演开始以前的[「手牵手」公演被表记作](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#HKT48_1期生“手牵手”公演 "wikilink")「1st
     Stage 公演」。
 3.  每次公演選出Team 8的16位成員演出
 4.  初日Team 8的32位成員各於AKB48劇場及SKE48劇場同時進行公演

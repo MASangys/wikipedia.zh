@@ -1,9 +1,9 @@
 **BlackBerry
 PlayBook**是由开发[黑莓手機的](../Page/黑莓手機.md "wikilink")[加拿大通讯公司](../Page/加拿大.md "wikilink")[Research
 In
-Motion](../Page/Research_In_Motion.md "wikilink")（RIM）在2010年9月27日发布的一款[平板电脑](../Page/平板电脑.md "wikilink")。RIM公司希望在10月份将此设备发放给企业用户和开发商，在2011年初开始向消费者发售。\[1\]同时发布的是一款基于[QNX
+Motion](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")（RIM）在2010年9月27日发布的一款[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。RIM公司希望在10月份将此设备发放给企业用户和开发商，在2011年初开始向消费者发售。\[1\]同时发布的是一款基于[QNX
 Neutrino的全新操作系统](../Page/QNX.md "wikilink")，[BlackBerry Tablet
-OS](../Page/BlackBerry_Tablet_OS.md "wikilink")。该系统将运行于BlackBerry
+OS](https://zh.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")。该系统将运行于BlackBerry
 PlayBook。\[2\]
 
 ## Android應用程式播放器
@@ -36,7 +36,8 @@ PlayBook的銷售額，在第二季度錄得250,000的銷售額，在第三季�
 
 1.  [BlackBerry maker unveils PlayBook
     tablet](http://www.reuters.com/article/idUSTRE68Q59U20100927),
-    September 27, 2010, [Reuters](../Page/Reuters.md "wikilink")
+    September 27, 2010,
+    [Reuters](https://zh.wikipedia.org/wiki/Reuters "wikilink")
 2.  [RIM Unveils The BlackBerry
     PlayBook](http://www.marketwire.com/press-release/RIM-Unveils-The-BlackBerry-PlayBook-NASDAQ-RIMM-1325727.htm),
     official press release, September 27, 2010

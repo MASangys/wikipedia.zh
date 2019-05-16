@@ -1,6 +1,6 @@
 **Java事务API**（**Java Transaction API**，简称**JTA** ）
-是一个[Java企业版](../Page/Java_EE.md "wikilink")
-的[应用程序接口](../Page/应用程序接口.md "wikilink")，在[Java环境中](../Page/Java.md "wikilink")，允许完成跨越多个[XA资源的分布式事务](../Page/X/Open_XA.md "wikilink")。JTA是在[Java社区过程下制定的规范](../Page/JCP.md "wikilink")，编号JSR
+是一个[Java企业版](https://zh.wikipedia.org/wiki/Java_EE "wikilink")
+的[应用程序接口](../Page/应用程序接口.md "wikilink")，在[Java环境中](../Page/Java.md "wikilink")，允许完成跨越多个[XA资源的分布式事务](https://zh.wikipedia.org/wiki/X/Open_XA "wikilink")。JTA是在[Java社区过程下制定的规范](../Page/JCP.md "wikilink")，编号JSR
 907。JTA提供：
 
   - 划分事务边界
@@ -8,9 +8,10 @@
 
 ## X/Open XA体系结构
 
-在X/Open XA的体系结构中，事务管理器或[事务处理监控器](../Page/事务处理监控器.md "wikilink") （TP
-monitor）协调
-资源跨越多个资源，如数据库和消息队列，的事务。每一个资源都有自己的管理器。资源管理器通常拥有自己的用于操纵资源的API，例如关系型数据库使用的[JDBC](../Page/Java_数据库连接.md "wikilink")。
+在X/Open
+XA的体系结构中，事务管理器或[事务处理监控器](https://zh.wikipedia.org/wiki/事务处理监控器 "wikilink")
+（TP monitor）协调
+资源跨越多个资源，如数据库和消息队列，的事务。每一个资源都有自己的管理器。资源管理器通常拥有自己的用于操纵资源的API，例如关系型数据库使用的[JDBC](https://zh.wikipedia.org/wiki/Java_数据库连接 "wikilink")。
 此外，资源适配器允许事务管理器协调该资源管理器和其他资源管理器之间的分布式事务。最后，与事务管理器通讯的应用程序开始，提交，或回滚事务。应用程序同样需要使用资源自己的API与不同的资源通讯，修改资源。
 
 ## JTA对X/Open XA体系结构的实现
@@ -27,7 +28,7 @@ Servlet或是EJB管理事务使用的](../Page/Java_Servlet.md "wikilink")。
 
   - 关系型数据库使用JDBC
   - 消息服务使用[JMS](../Page/Java消息服务.md "wikilink")
-  - 一般的企业信息系统（EIS）的资源使用[J2EE连接器架构](../Page/J2EE连接器架构.md "wikilink")。
+  - 一般的企业信息系统（EIS）的资源使用[J2EE连接器架构](https://zh.wikipedia.org/wiki/J2EE连接器架构 "wikilink")。
 
 ## Java事务API
 
@@ -96,7 +97,7 @@ utx.commit();
 
 ## 参见
 
-  - [Java事务服务](../Page/Java事务服务.md "wikilink")
+  - [Java事务服务](https://zh.wikipedia.org/wiki/Java事务服务 "wikilink")
 
 ## 参考文献
 
@@ -108,8 +109,8 @@ utx.commit();
   - [Atomikos open source JTA implementation - for JTA in
     J2SE](http://www.atomikos.com/Main/TransactionsEssentials)
 
-[分类:Java](../Page/分类:Java.md "wikilink")
-[分类:应用程序接口](../Page/分类:应用程序接口.md "wikilink")
+[分类:Java](https://zh.wikipedia.org/wiki/分类:Java "wikilink")
+[分类:应用程序接口](https://zh.wikipedia.org/wiki/分类:应用程序接口 "wikilink")
 
 1.  [JSR 220: Enterprise JavaBeans,Version 3.0, EJB 3.0 Expert Group,
     Sun

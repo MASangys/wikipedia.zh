@@ -1,4 +1,4 @@
-是[Namco於](../Page/Namco.md "wikilink")2009年2月19日發售的[PSP遊戲](../Page/PSP.md "wikilink")。遊戲內容基本上和街機版相同，但亦有不同之處。遊戲有Perfect
+是[Namco於](https://zh.wikipedia.org/wiki/Namco "wikilink")2009年2月19日發售的[PSP遊戲](https://zh.wikipedia.org/wiki/PSP "wikilink")。遊戲內容基本上和街機版相同，但亦有不同之處。遊戲有Perfect
 Sun（完美太陽）、Missing moon（思念之月）和Wondering Star（驚奇之星）三個版本。
 
 ## 版本簡介
@@ -21,8 +21,8 @@ Sun（完美太陽）、Missing moon（思念之月）和Wondering Star（驚奇
 
   - 961敵對偶像
 
-四条貴音（CV：[原由実](../Page/原由実.md "wikilink")） 在wondering star
-中新登場的角色。被稱為「銀色公主」的新人，她好像有不得不勝出的理由......
+四条貴音（CV：[原由実](https://zh.wikipedia.org/wiki/原由実 "wikilink")） 在wondering
+star 中新登場的角色。被稱為「銀色公主」的新人，她好像有不得不勝出的理由......
 
 我那霸響（CV：[沼倉愛美](../Page/沼倉愛美.md "wikilink")） 在perfect sun
 中登場的敵對角色。沖繩出身的高實力偶像新人，可是好像對765的Producer(即是玩家)有偏見?

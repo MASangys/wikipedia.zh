@@ -1,5 +1,5 @@
 《**Double
-Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰·藍儂.md "wikilink")，日裔美籍音乐家[小野洋子發行第十张专辑](../Page/小野洋子.md "wikilink")。
+Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")，日裔美籍音乐家[小野洋子發行第十张专辑](../Page/小野洋子.md "wikilink")。
 
 ## 曲目
 
@@ -18,7 +18,7 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰�
 <tbody>
 <tr class="odd">
 <td><p>01</p></td>
-<td><p><a href="../Page/(Just_Like)_Starting_Over.md" title="wikilink">(Just Like) Starting Over</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/(Just_Like)_Starting_Over" title="wikilink">(Just Like) Starting Over</a></p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
@@ -76,7 +76,7 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰�
 </tr>
 <tr class="odd">
 <td><p>07</p></td>
-<td><p><a href="../Page/Beautiful_Boy_(Darling_Boy).md" title="wikilink">Beautiful Boy (Darling Boy)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beautiful_Boy_(Darling_Boy)" title="wikilink">Beautiful Boy (Darling Boy)</a></p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
@@ -87,7 +87,7 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰�
 </tr>
 <tr class="even">
 <td><p>08</p></td>
-<td><p><a href="../Page/Watching_the_Wheels.md" title="wikilink">Watching the Wheels</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Watching_the_Wheels" title="wikilink">Watching the Wheels</a></p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
@@ -107,7 +107,7 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰�
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="../Page/Woman.md" title="wikilink">Woman</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Woman" title="wikilink">Woman</a></p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
 <td><p>約翰·藍儂</p></td>
@@ -136,7 +136,7 @@ Fantasy**》是英國歌手[約翰·藍儂發行第七张专辑](../Page/約翰�
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="../Page/Every_Man_Has_a_Woman_Who_Loves_Him.md" title="wikilink">Every Man Has a Woman Who Loves Him</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Every_Man_Has_a_Woman_Who_Loves_Him" title="wikilink">Every Man Has a Woman Who Loves Him</a></p></td>
 <td><p>小野洋子</p></td>
 <td><p>小野洋子</p></td>
 <td><p>小野洋子</p></td>

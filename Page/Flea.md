@@ -1,14 +1,14 @@
 **Michael Peter
-Balzary**（）是一位出生在[澳大利亚的美国](../Page/澳大利亚.md "wikilink")[贝斯手](../Page/贝斯手.md "wikilink")、[小号演奏家及演员](../Page/小号.md "wikilink")，其艺名**Flea**更为人熟知。他作为另类摇滚乐队[Red
+Balzary**（）是一位出生在[澳大利亚的美国](../Page/澳大利亚.md "wikilink")[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[小号演奏家及演员](https://zh.wikipedia.org/wiki/小号 "wikilink")，其艺名**Flea**更为人熟知。他作为另类摇滚乐队[Red
 Hot Chili
-Peppers的](../Page/Red_Hot_Chili_Peppers.md "wikilink")[贝斯手和组建者而出名](../Page/贝斯.md "wikilink")。他在乐队中的表现融合了几种不同的音乐风格，从疾速的Slap到更柔和而旋律化的手法。除了Red
+Peppers的](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink")[贝斯手和组建者而出名](https://zh.wikipedia.org/wiki/贝斯 "wikilink")。他在乐队中的表现融合了几种不同的音乐风格，从疾速的Slap到更柔和而旋律化的手法。除了Red
 Hot Chili Peppers,他还与很多艺人合作过，包括Jane's Addiction、The Mars Volta及Alanis
 Morissette.受疯克音乐和朋克摇滚的影响，Flea着重于纯朴而极简的贝斯演奏，视复杂化为应适度运用的技术。
 
 起初作为一个小号演奏天才，Flea中学时从最亲密的朋友即日后Red Hot Chili Peppers的吉他手Hillel
 Slovak那儿学会了演奏贝斯，当时后者的乐队Anthym正缺一个贝斯手。但加入乐队几个月后Flea便因要加入朋克摇滚乐团Fear而退队。不久他又重新加入Slovak并与中学校友Anthony
 Kiedis及Jack Irons组建了个临时乐队，这个临时合作最终导致Red Hot Chili
-Peppers的诞生。Flea在演艺界进行了很多次尝试，参演了各种类型的电影，如《[回到未来2](../Page/回到未来2.md "wikilink")》（1989）、《[不羁的天空](../Page/不羁的天空.md "wikilink")》（1991）和《[谋杀绿脚趾](../Page/谋杀绿脚趾.md "wikilink")》（1998）。
+Peppers的诞生。Flea在演艺界进行了很多次尝试，参演了各种类型的电影，如《[回到未来2](https://zh.wikipedia.org/wiki/回到未来2 "wikilink")》（1989）、《[不羁的天空](https://zh.wikipedia.org/wiki/不羁的天空 "wikilink")》（1991）和《[谋杀绿脚趾](../Page/谋杀绿脚趾.md "wikilink")》（1998）。
 
 ## 介绍
 
@@ -33,7 +33,7 @@ Flea和当地乐队Anthym的吉他手Hillel
 Slovak也是亲密的朋友，乐队最初的贝斯手无法令人满意，于是Slovak开始教Flea弹贝斯。随着几个月的练习，Flea的演奏逐渐变得熟练，最终加入乐队成为其中一员。那之后不久，Anthym乐队参加了当地一个"乐队之战"比赛并得了第二名。Flea在乐队期间，逐渐发展出一种slap风格，日后在Red
 Hot Chili
 Peppers的歌曲中变得很突出。尽管乐队成员均未成年，Anthym乐队已经开始在当地的夜总会演出了。Flea、Slovak和Kiedis变成了最好的朋友，经常参与游戏性使用LSD、heroin、cocaine和speed.
-这三个人变成了当时正在洛杉矶兴起的朋克摇滚运动的拥儡。Flea由对这种流派的不屑转变为排外地听朋克摇滚：“[朋克摇滚的魅力在于其强度和能量](../Page/朋克.md "wikilink")。朋克使所有那些自大的摇滚明星都瘪掉了。我认为不注意朋克乐的音乐家在他们的认知体系里都有道屏障，使它无法和当今沟通。”Anthym乐队将名字变为What
+这三个人变成了当时正在洛杉矶兴起的朋克摇滚运动的拥儡。Flea由对这种流派的不屑转变为排外地听朋克摇滚：“[朋克摇滚的魅力在于其强度和能量](https://zh.wikipedia.org/wiki/朋克 "wikilink")。朋克使所有那些自大的摇滚明星都瘪掉了。我认为不注意朋克乐的音乐家在他们的认知体系里都有道屏障，使它无法和当今沟通。”Anthym乐队将名字变为What
 Is
 This?,很快就变成了当地俱乐部的最爱——一场演出经常吸引超过三千人。然而乐队内部却不太稳定，Flea离开乐队加入了洛杉矶一个较著名的朋克摇滚乐队Fear担任贝斯手。虽然Fear乐队风头日劲，Flea仍感到不满，加入不久便退队了。之后他在英国的后朋乐队Public
 Image Ltd.贝斯手一职的试音中非常成功，但他拒绝了邀请；后来他承认他去试音的唯一原因是能与乐队的主唱John Lydon一起即兴。
@@ -198,7 +198,7 @@ Way》里，大多数贝斯线完全脱离了疯克。Flea觉得Frusciante写的
 Flea经常观看继父曾在的一个[咆勃爵士樂](../Page/咆勃爵士樂.md "wikilink")（爵士音乐的一种）乐队的即兴；因此不久就变得痴迷于小号。Flea将他接下来的音乐兴趣归功于爵士演奏家比如[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")、[查利·帕克](../Page/查利·帕克.md "wikilink")、[路易斯·阿姆斯特朗](../Page/路易斯·阿姆斯特朗.md "wikilink")、[約翰·柯川及](../Page/約翰·柯川.md "wikilink")[迪齊·格萊斯彼](../Page/迪齐·吉莱斯皮.md "wikilink")。Kiedis向他介绍朋克和摇滚乐后，Flea变得迷恋像The
 Germs、Styx、[大卫·鲍伊和Defunkt那样的艺人](../Page/大卫·鲍伊.md "wikilink")。《Blood
 Sugar Sex
-Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](../Page/百樂門-放克瘋.md "wikilink")、[史萊和史東家族合唱團以及The](../Page/史萊和史東家族合唱團.md "wikilink")
+Magik》之前Flea早期主要受疯克艺人的影响，比如、[百樂門-放克瘋](https://zh.wikipedia.org/wiki/百樂門-放克瘋 "wikilink")、[史萊和史東家族合唱團以及The](https://zh.wikipedia.org/wiki/史萊和史東家族合唱團 "wikilink")
 Meters。一直到《Mother's Milk》这些艺人都是影响Red Hot Chili
 Peppers音乐值得注意的方面。起初，Flea深受朋克乐队的影响--弹得越快越狠就越好，但是最终在《Blood
 Sugar Sex

@@ -1,7 +1,7 @@
 《**Border
-Break**》\[1\]為[世嘉製作的網絡](../Page/世嘉.md "wikilink")[第三人稱射擊遊戲](../Page/第三人稱射擊遊戲.md "wikilink")[機台遊戲](../Page/街機遊戲.md "wikilink")，於2009年投入營運，在標題偏旁副題標示有「世嘉網絡機械人戰爭」（SEGA
+Break**》\[1\]為[世嘉製作的網絡](../Page/世嘉.md "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊遊戲 "wikilink")[機台遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，於2009年投入營運，在標題偏旁副題標示有「世嘉網絡機械人戰爭」（SEGA
 NETWORK ROBOT
-WARS）。遊戲營運模式為店家與世嘉公司分帳（）。玩家能夠從遊戲操縱[機械人](../Page/機械人.md "wikilink")“Blast
+WARS）。遊戲營運模式為店家與世嘉公司分帳（）。玩家能夠從遊戲操縱[機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")“Blast
 Runner”（），與[日本及部份海外地區玩家一同進行最多](../Page/日本.md "wikilink")10人對10人的團隊對戰。遊戲一大特徵是採用Game
 Point（GP）作為玩家進行遊戲的運作時間或購買虛擬裝備配額。在遊戲內，1GP等同現實一秒鐘時間。此外，Border Break
 與同公司另一大型電玩 [「三國志大戰 War
@@ -19,7 +19,7 @@ Begins」](../Page/三國志大戰.md "wikilink")，為首批於日本以外地�
 
   - 「Soter計劃」啟動與新物質「Newd」
 
-[西曆](../Page/西曆.md "wikilink")22世紀，人類為面對地球能源危機，多個國家共同設立了研究機關「GRF」(Global
+[西曆](https://zh.wikipedia.org/wiki/西曆 "wikilink")22世紀，人類為面對地球能源危機，多個國家共同設立了研究機關「GRF」(Global
 Resource Federation) 並在衛星軌道上建造巨型研究設施 「E.O.S」
 （）\[2\]。隨著「計劃」（）啟動，「E.O.S.」派出無人探索船到宇宙嘗試尋找新資源。經過十多年等待後，其中一首歸航的探索船，載回帶有綠色光輝的奇異物資。該物質每當遇到外來刺激就會釋出熱能，物質形態上亦容易變化，而且還能夠與其他物質融合增殖，於是將該物質取名為「Newd」（，New-Dynamic縮寫）。是次發現被視為當時解決能源危機一大突破。
 
@@ -29,7 +29,7 @@ Resource Federation) 並在衛星軌道上建造巨型研究設施 「E.O.S」
 Drive」（），並成功將其實用化，使得新能源發展取得重大成果。但後來E.O.S發生爆炸事故，該事故使儲存於設施內的
 Newd 大量散落到地球上。而在Newd著陸地區，當地人們因「Newd污染」而大量死亡\[3\]。表面上，Newd
 是解決能源危機的明日之星，而事故前GRF亦從未對外交代有關 Newd
-的毒性。故此全球多國因此陷入巨大恐慌之中。該事件過後，人類為求修復地球環境，故將「[西曆](../Page/西曆.md "wikilink")」更替為「復興曆」（R.E.）。
+的毒性。故此全球多國因此陷入巨大恐慌之中。該事件過後，人類為求修復地球環境，故將「[西曆](https://zh.wikipedia.org/wiki/西曆 "wikilink")」更替為「復興曆」（R.E.）。
 
   - 環保團體「EUST」與「GRF」抗爭
 
@@ -108,7 +108,8 @@ Scramble」計劃。但收集手段卻一概不問，Border之間籍此為個人
 
 <!-- end list -->
 
-  - 少年型－「ティント」 CV：[高倉有加](../Page/高倉有加.md "wikilink")
+  - 少年型－「ティント」
+    CV：[高倉有加](https://zh.wikipedia.org/wiki/高倉有加 "wikilink")
     澳洲出生。小時因為貪玩成功操控乘坐的Blast，自此定下志願要成為Border。
     性格頗弱氣連帶對話也有點口吃，但某些對白也有表現出其潛在鬥志。
 
@@ -169,7 +170,7 @@ Scramble」計劃。但收集手段卻一概不問，Border之間籍此為個人
 
 ### 其他角色
 
-  - フィオナ（Fiona）CV：[七緒はるひ](../Page/七緒はるひ.md "wikilink")
+  - フィオナ（Fiona）CV：[七緒はるひ](https://zh.wikipedia.org/wiki/七緒はるひ "wikilink")
     隷屬支援Border的組織「Mag Mell」。這個精通10國語言的美女乃不少人的女友理想對象…仍然獨身。非Newd污染者。
     在遊戲中經常出現，特別是遊戲連線畫面中的半身像，手中持有寫著「不要看啊（見ちゃダメ）」的文件夾為其特徵。綠髮美人，巨乳。
     後來在Ver,3.0 起，在遊戲模式「聯合戰鬥」中擔任連合軍的通訊員。
@@ -400,26 +401,26 @@ Cube作報酬。 Union Cube每儲夠十個能進行虛寶抽選。
 裝備形象是使用連射槍枝及能快速移動進行突襲，附有大劍型近接兵器作輔助武器，在遊戲初期是幾近一擊必殺的大威力武器。後期主武器發展更至低連射但單發高威力槍枝、霰彈槍，副武器有飛彈箱及雙手近接武器。
 
   - 重火力兵裝 - 初期配備
-    [重火器](../Page/重機槍.md "wikilink")、[火箭筒](../Page/火箭筒.md "wikilink")、電子干擾手榴彈
-    \[8\]及[榴弹炮](../Page/榴彈發射器.md "wikilink")
+    [重火器](https://zh.wikipedia.org/wiki/重機槍 "wikilink")、[火箭筒](https://zh.wikipedia.org/wiki/火箭筒 "wikilink")、電子干擾手榴彈
+    \[8\]及[榴弹炮](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")
 
-裝備形象採用高持續火力武器作定點鎮壓防衛，能進行遠距離砲擊支援。後期補助装備能採用[電鋸或撞針型近接武器](../Page/電鋸.md "wikilink")，特別裝備更有掩體裝置及UAD（Unmanned
+裝備形象採用高持續火力武器作定點鎮壓防衛，能進行遠距離砲擊支援。後期補助装備能採用[電鋸或撞針型近接武器](https://zh.wikipedia.org/wiki/電鋸 "wikilink")，特別裝備更有掩體裝置及UAD（Unmanned
 Attack Device）等一類近距離特化裝備。
 
   - 支援兵裝 - 初期配備
-    [霰彈槍](../Page/霰彈槍.md "wikilink")、[地雷](../Page/地雷.md "wikilink")、索敵感認器、維修器具
+    [霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")、[地雷](../Page/地雷.md "wikilink")、索敵感認器、維修器具
 
 裝備形象主要使用泵動式霰彈槍，能設置陷阱，感知敵方入侵及維護我方戰力健康。後期部分主武器發展至能夠連射甚至單發高威力槍枝，補助装備方面則有定點感應器及彈藥箱。
 
   - 游擊兵裝 - 初期配備
-    雙[手槍](../Page/手枪.md "wikilink")、[狙擊槍](../Page/狙擊步槍.md "wikilink")、偵察機、光學迷彩裝置
+    雙[手槍](../Page/手枪.md "wikilink")、[狙擊槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")、偵察機、光學迷彩裝置
 
 裝備形象是兩手使用手槍作近中距離戰鬥，能使用狙擊槍遠距離射擊，補助装備方面為偵察敵方位置或定點自律武器，特別裝備為護盾裝置或能夠隱形的光學迷彩。
 
 #### 廢止兵裝及延伸發展
 
   - 狙撃兵裝 - 初期配備
-    [狙擊槍](../Page/狙擊步槍.md "wikilink")、[手槍](../Page/手枪.md "wikilink")、步哨防禦槍\[9\]、護盾發生裝置
+    [狙擊槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")、[手槍](../Page/手枪.md "wikilink")、步哨防禦槍\[9\]、護盾發生裝置
 
 游擊兵裝前身，Ver1.0 至 Ver.4.75 實際存在的兵裝。裝備形象是能遠距離射擊，附有定點自律武器，近距離接戰能力異常弱。
 後期變化是各兵裝中最為明顯，兵裝主武器發展至一些槍枝採用炸藥彈頭、更有部份槍枝在無準星下能在中近距離能勉強使用，副武器更有地雷及附有妨礙機能槍枝，補助装備則有充能匕首，特別裝備更有光學迷彩及自攜式自律武器。

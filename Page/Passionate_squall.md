@@ -1,11 +1,11 @@
 《**Passionate
-squall**》（）是於2010年2月10日由[Lantis發行的](../Page/Lantis.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
+squall**》（）是於2010年2月10日由[Lantis發行的](../Page/Lantis.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
   - Passionate
-    squall是電視動畫《[聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")》的[片尾曲](../Page/片尾曲.md "wikilink")、由作品中演織部真冬、山邊
-    燈、泰蕾莎、卡恰、桂木華的聲優[藤村步](../Page/藤村步.md "wikilink")、[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[平野綾](../Page/平野綾.md "wikilink")、[日笠陽子而唱的](../Page/日笠陽子.md "wikilink")。
+    squall是電視動畫《[聖痕鍊金士](../Page/聖痕鍊金士.md "wikilink")》的[片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")、由作品中演織部真冬、山邊
+    燈、泰蕾莎、卡恰、桂木華的聲優[藤村步](../Page/藤村步.md "wikilink")、[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、[日笠陽子而唱的](../Page/日笠陽子.md "wikilink")。
   - 收錄了Passionate
     squall的[混音版](../Page/混音.md "wikilink")2首曲子和第5話的片尾曲「未明の祈り」。
 

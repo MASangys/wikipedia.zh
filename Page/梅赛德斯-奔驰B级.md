@@ -1,18 +1,19 @@
-**梅赛德斯-奔驰B级**（），是[梅賽德斯-賓士在](../Page/梅賽德斯-賓士.md "wikilink")2005年所生產的小型的轎式底盤休旅車系。此款車型是[A系列的加大版](../Page/梅赛德斯-奔驰A级.md "wikilink")，售價比[A系列高少許](../Page/梅赛德斯-奔驰A级.md "wikilink")。與其他系列車型不同（[A系列除外](../Page/梅赛德斯-奔驰A级.md "wikilink")），它是[前輪驅動的車](../Page/前輪驅動.md "wikilink")。
+**梅赛德斯-奔驰B级**（），是[梅賽德斯-賓士在](../Page/梅賽德斯-賓士.md "wikilink")2005年所生產的小型的轎式底盤休旅車系。此款車型是[A系列的加大版](../Page/梅赛德斯-奔驰A级.md "wikilink")，售價比[A系列高少許](../Page/梅赛德斯-奔驰A级.md "wikilink")。與其他系列車型不同（[A系列除外](../Page/梅赛德斯-奔驰A级.md "wikilink")），它是[前輪驅動的車](https://zh.wikipedia.org/wiki/前輪驅動 "wikilink")。
 
 B級系列是於2005年3月推出。
 
 ## 第一代（2005至2011年）
 
-[12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg](https://zh.wikipedia.org/wiki/File:12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg "fig:12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg")[柏林一輛以](../Page/柏林.md "wikilink")[天然氣為燃料的B系列](../Page/天然氣.md "wikilink")[計程車](../Page/計程車.md "wikilink")\]\]
+[12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg](https://zh.wikipedia.org/wiki/File:12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg "fig:12-06-26-Велосипед-или-автомобили_в_Берлине-26.jpg")[柏林一輛以](../Page/柏林.md "wikilink")[天然氣為燃料的B系列](https://zh.wikipedia.org/wiki/天然氣 "wikilink")[計程車](https://zh.wikipedia.org/wiki/計程車 "wikilink")\]\]
 代號為W245，造型屬五門掀背，與A系列相若，但略為加長。
 
 賓士在B系列套用了兩項專利技術：
 
   - DE 43 26 396 C 2：車體與驅動單元成一個銳角。
-  - DE 44 00 132 C1：在前置驅動元件上安裝[防火牆](../Page/防火牆.md "wikilink")。
+  - DE 44 00 132
+    C1：在前置驅動元件上安裝[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
 
-[引擎方面則有B](../Page/引擎.md "wikilink")160、B180、B200、B200[渦輪增壓等七種](../Page/渦輪增壓.md "wikilink")，輸出[馬力則由](../Page/馬力.md "wikilink")95匹至146匹不等。而大多數車型都是採用[手動變速箱](../Page/手動變速箱.md "wikilink")。
+[引擎方面則有B](https://zh.wikipedia.org/wiki/引擎 "wikilink")160、B180、B200、B200[渦輪增壓等七種](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")，輸出[馬力則由](../Page/馬力.md "wikilink")95匹至146匹不等。而大多數車型都是採用[手動變速箱](https://zh.wikipedia.org/wiki/手動變速箱 "wikilink")。
 
 <div style="clear: both">
 
@@ -28,7 +29,7 @@ B級系列是於2005年3月推出。
 
 ## 第二代（2012至今）
 
-2011年在[法蘭克福車展中亮相](../Page/法蘭克福.md "wikilink")，代號為W246，規格上最大不同，乃在於車身設計跟其他最新款型號（如C系列）看齊，以方便零件維修。
+2011年在[法蘭克福車展中亮相](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")，代號為W246，規格上最大不同，乃在於車身設計跟其他最新款型號（如C系列）看齊，以方便零件維修。
 
 引擎代號M270，但引擎依然是第一代的那七款引擎。
 

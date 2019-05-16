@@ -1,10 +1,10 @@
-《**Mother**》（），是2010年4月14日至6月23日期間於[日本電視台](../Page/日本電視台.md "wikilink")[星期三晚十點播映的電視劇](../Page/日本電視台週三連續劇.md "wikilink")，由[松雪泰子主演](../Page/松雪泰子.md "wikilink")，電視劇以[高清製作](../Page/高清製作.md "wikilink")。電視劇第一集和最後一集分別加長30分鐘和15分鐘播映。
+《**Mother**》（），是2010年4月14日至6月23日期間於[日本電視台](../Page/日本電視台.md "wikilink")[星期三晚十點播映的電視劇](../Page/日本電視台週三連續劇.md "wikilink")，由[松雪泰子主演](../Page/松雪泰子.md "wikilink")，電視劇以[高清製作](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。電視劇第一集和最後一集分別加長30分鐘和15分鐘播映。
 
-2016年[土耳其宣布翻拍此作成](../Page/土耳其.md "wikilink")《**ANNE**》\[1\]。2016年韓國[tvN宣布翻拍此作](../Page/tvN.md "wikilink")，於2018年1月播出。\[2\]。
+2016年[土耳其宣布翻拍此作成](../Page/土耳其.md "wikilink")《**ANNE**》\[1\]。2016年韓國[tvN宣布翻拍此作](https://zh.wikipedia.org/wiki/tvN "wikilink")，於2018年1月播出。\[2\]。
 
 ## 故事內容
 
-鈴原奈緒（[松雪泰子](../Page/松雪泰子.md "wikilink")）原是大學觀鳥研究所的研究員，後來研究所因缺少經費而關閉，奈緒因而當起了小學教師。一天她發現了她其中一位學生道木怜南（[芦田愛菜](../Page/芦田愛菜.md "wikilink")）遭母親虐待，這激發起奈緒的「母性」。衝動的奈緒決定將怜南當作自己的女兒，向學校遞了辭職信，帶同怜南開始了逃亡的生活。
+鈴原奈緒（[松雪泰子](../Page/松雪泰子.md "wikilink")）原是大學觀鳥研究所的研究員，後來研究所因缺少經費而關閉，奈緒因而當起了小學教師。一天她發現了她其中一位學生道木怜南（[芦田愛菜](https://zh.wikipedia.org/wiki/芦田愛菜 "wikilink")）遭母親虐待，這激發起奈緒的「母性」。衝動的奈緒決定將怜南當作自己的女兒，向學校遞了辭職信，帶同怜南開始了逃亡的生活。
 
 ## 演員表
 
@@ -22,37 +22,39 @@
   - 鈴原芽衣（26） -
     [酒井若菜](../Page/酒井若菜.md "wikilink")（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
   - 鈴原果歩（22） -
-    [倉科加奈](../Page/倉科加奈.md "wikilink")（香港配音：[黃紫嫻](../Page/黃紫嫻.md "wikilink")）
+    [倉科加奈](../Page/倉科加奈.md "wikilink")（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 ### 其他
 
   - 望月葉菜（55） -
     [田中裕子](../Page/田中裕子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
   - 藤吉駿輔（33） -
-    [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+    [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
   - 道木仁美（29） -
     [尾野真千子](../Page/尾野真千子.md "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
   - 浦上真人（29） -
     [綾野剛](../Page/綾野剛.md "wikilink")（香港配音：[何承駿](../Page/何承駿.md "wikilink")）
   - 木俣耕平（22） - （香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
-  - 袖川珠美（36） - （香港配音：[林元春](../Page/林元春.md "wikilink")）
+  - 袖川珠美（36） -
+    （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
   - 加山圭吾（33） - （香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
   - 藤吉健輔（38） -
-    [田中實](../Page/田中實.md "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
+    [田中實](https://zh.wikipedia.org/wiki/田中實 "wikilink")（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 ## 工作人員
 
   - 劇本：[坂元裕二](../Page/坂元裕二.md "wikilink")
-  - 音樂：[REMEDIOS](../Page/REMEDIOS.md "wikilink")
-  - 總製作人：[田中方樹](../Page/田中方樹_\(製作人\).md "wikilink")
-  - 製作人：[次屋尚](../Page/次屋尚.md "wikilink")、[千葉行利](../Page/千葉行利.md "wikilink")
-  - 導演：[水田伸生](../Page/水田伸生.md "wikilink")、[長沼誠](../Page/長沼誠.md "wikilink")
+  - 音樂：[REMEDIOS](https://zh.wikipedia.org/wiki/REMEDIOS "wikilink")
+  - 總製作人：[田中方樹](https://zh.wikipedia.org/wiki/田中方樹_\(製作人\) "wikilink")
+  - 製作人：[次屋尚](https://zh.wikipedia.org/wiki/次屋尚 "wikilink")、[千葉行利](https://zh.wikipedia.org/wiki/千葉行利 "wikilink")
+  - 導演：[水田伸生](../Page/水田伸生.md "wikilink")、[長沼誠](https://zh.wikipedia.org/wiki/長沼誠 "wikilink")
   - 製作協力：K Factory
   - 製作著作：[日本電視台](../Page/日本電視台.md "wikilink")
 
 ## 主題曲
 
-  - [hinaco](../Page/hinaco.md "wikilink") 「」（rhythm zone）
+  - [hinaco](https://zh.wikipedia.org/wiki/hinaco "wikilink") 「」（rhythm
+    zone）
 
 ## 各集播出時間及副題
 

@@ -34,7 +34,8 @@ graphics技術。
 
 ## 外部連結
 
-[sv:Suikoden III](../Page/sv:Suikoden_III.md "wikilink")
+[sv:Suikoden
+III](https://zh.wikipedia.org/wiki/sv:Suikoden_III "wikilink")
 
 [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
 [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

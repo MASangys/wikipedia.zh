@@ -1,13 +1,13 @@
-是[美國](../Page/美國.md "wikilink")[電子藝界旗下第](../Page/電子藝界.md "wikilink")17款FIFA系列的最新遊戲作品，由[EA
-Canada小組負責開發](../Page/EA_Canada.md "wikilink")。這是2009年10月2日公佈在歐洲，9月30日在澳洲和20日在北美發行。它可用於遊戲機在[PlayStation
+是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子藝界旗下第](https://zh.wikipedia.org/wiki/電子藝界 "wikilink")17款FIFA系列的最新遊戲作品，由[EA
+Canada小組負責開發](https://zh.wikipedia.org/wiki/EA_Canada "wikilink")。這是2009年10月2日公佈在歐洲，9月30日在澳洲和20日在北美發行。它可用於遊戲機在[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[Wii和](../Page/Wii.md "wikilink")[PC的](../Page/PC.md "wikilink")[Windows](../Page/Windows.md "wikilink")。手提版本的遊戲還支持了[IOS](../Page/IOS.md "wikilink")、[NDS](../Page/NDS.md "wikilink")、[PlayStation
+2](../Page/PlayStation_2.md "wikilink")、[Wii和](../Page/Wii.md "wikilink")[PC的](../Page/PC.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。手提版本的遊戲還支持了[IOS](../Page/IOS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[PlayStation
 Portable和](../Page/PlayStation_Portable.md "wikilink")[Mobile
-phone](../Page/Mobile_phone.md "wikilink")。
+phone](https://zh.wikipedia.org/wiki/Mobile_phone "wikilink")。
 
 試玩版的FIFA 10出現在Xbox 360、PlayStation
-3和PC版本9月10日在歐洲推出，9月11日在澳洲推出，並於9月17日在北美推出。可試玩[切尔西](../Page/切尔西.md "wikilink")，[巴塞羅那](../Page/巴塞羅那.md "wikilink")，[祖雲達斯](../Page/祖雲達斯.md "wikilink")，[拜仁慕尼黑](../Page/拜仁慕尼黑.md "wikilink")，[馬賽和](../Page/馬賽.md "wikilink")[芝加哥火焰六隊球隊](../Page/芝加哥火焰.md "wikilink")。該場館採用了[溫布萊球場的演示](../Page/溫布萊球場.md "wikilink")（Xbox
+3和PC版本9月10日在歐洲推出，9月11日在澳洲推出，並於9月17日在北美推出。可試玩[切尔西](https://zh.wikipedia.org/wiki/切尔西 "wikilink")，[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")，[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")，[拜仁慕尼黑](https://zh.wikipedia.org/wiki/拜仁慕尼黑 "wikilink")，[馬賽和](https://zh.wikipedia.org/wiki/馬賽 "wikilink")[芝加哥火焰六隊球隊](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")。該場館採用了[溫布萊球場的演示](https://zh.wikipedia.org/wiki/溫布萊球場 "wikilink")（Xbox
 360版本），FIWC體育場（PlayStation
 3的版本）。該演示提供友誼賽的一半長度的3實時分鐘。除了打一場友誼賽，演示允許用戶上傳創建遊戲中的視頻和畫面和EA足球世界。遊戲的標語是“How
 big can football get？”和“Let's -{FIFA 10}-”。
@@ -49,13 +49,13 @@ big can football get？”和“Let's -{FIFA 10}-”。
 
 ## 球場
 
-2009年8月27日，該名單的球場和天氣條件的每一個分別公佈了。遊戲特色50個足球場館，包括大部分的大型球場由歐洲最著名的聯賽，如[安聯球場](../Page/安聯球場.md "wikilink")、[諾坎普球場](../Page/諾坎普球場.md "wikilink")、[酋長球場](../Page/酋長球場.md "wikilink")、[安菲爾德球場](../Page/安菲爾德球場.md "wikilink")、[奧脫福球場](../Page/奧脫福球場.md "wikilink")、[史丹福橋球場和](../Page/史丹福橋球場.md "wikilink")[聖西路球場](../Page/聖西路球場.md "wikilink")，並作為以及一系列通用場館和實踐領域。[皇家馬德里的伯納烏了可以免費下載推出的日子](../Page/皇家馬德里.md "wikilink")。天氣條件可能在每個場館範圍從白天和黑夜的版本明確多雲，雨，或雪。
+2009年8月27日，該名單的球場和天氣條件的每一個分別公佈了。遊戲特色50個足球場館，包括大部分的大型球場由歐洲最著名的聯賽，如[安聯球場](https://zh.wikipedia.org/wiki/安聯球場 "wikilink")、[諾坎普球場](https://zh.wikipedia.org/wiki/諾坎普球場 "wikilink")、[酋長球場](https://zh.wikipedia.org/wiki/酋長球場 "wikilink")、[安菲爾德球場](https://zh.wikipedia.org/wiki/安菲爾德球場 "wikilink")、[奧脫福球場](https://zh.wikipedia.org/wiki/奧脫福球場 "wikilink")、[史丹福橋球場和](../Page/史丹福橋球場.md "wikilink")[聖西路球場](../Page/聖西路球場.md "wikilink")，並作為以及一系列通用場館和實踐領域。[皇家馬德里的伯納烏了可以免費下載推出的日子](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")。天氣條件可能在每個場館範圍從白天和黑夜的版本明確多雲，雨，或雪。
 
 該球場場館的通用名稱可以改變，但是在一個特殊的主菜單條的規定，以反映用戶的名稱俱樂部的大本營，如果用戶選擇這樣做。每個地面的能力也是上市公司，這樣一個能力類似球會的實際球場容量可供選擇，使遊戲體驗更加真實。
 
 ## 球隊貿易
 
-2009年12月宣布，EA體育遊戲轉會市場擴張模式中引入了[FIFA將於](../Page/FIFA.md "wikilink")09日公佈2010年2月在PlayStation
+2009年12月宣布，EA體育遊戲轉會市場擴張模式中引入了[FIFA將於](https://zh.wikipedia.org/wiki/FIFA "wikilink")09日公佈2010年2月在PlayStation
 3和Xbox
 360版本的遊戲。以前的版本一樣，該模式允許創建自定義的團隊根據收集的各類卡。這次擴建工程2月25日發布的2010年，特色的新的PlayStation和Xbox
 Live網絡獎盃成就為FIFA 10。它的費用是400微軟點數/$4.99/€4.99/£3.99。
@@ -68,8 +68,8 @@ Live網絡獎盃成就為FIFA 10。它的費用是400微軟點數/$4.99/€4.99/
 ## 遊戲封面
 
 每個地區版本的FIFA
-10都有不同的封面球員。[英國和](../Page/英國.md "wikilink")[愛爾蘭版本封面是](../Page/愛爾蘭.md "wikilink")[-{zh-hans:沃尔科特;zh-hk:禾確特;zh-tw:瓦科特;}-](../Page/禾確特.md "wikilink")、[林柏特和](../Page/林柏特.md "wikilink")[朗尼](../Page/朗尼.md "wikilink")，澳洲版本封面是朗尼和[卡希爾](../Page/卡希爾.md "wikilink")，新西蘭版本封面是朗尼和林柏特，德國版本封面是[-{zh-hans:施魏因斯泰格;zh-hk:舒韋恩史迪加;zh-tw:史汪斯泰格;}-和朗尼](../Page/舒韋恩史迪加.md "wikilink")，意大利版本封面是[朗拿甸奴和](../Page/朗拿甸奴.md "wikilink")[-{zh-hans:基耶利尼;zh-hk:基亞連尼;zh-tw:基耶利尼;}-](../Page/乔吉奥·基耶利尼.md "wikilink")，法國版本封面是[-{zh-hans:马卢达;zh-hk:馬隆達;zh-tw:馬勞達;}-](../Page/馬隆達.md "wikilink")、[賓施馬和](../Page/賓施馬.md "wikilink")[-{zh-hans:瓦罗;zh-hk:賀拉奧;zh-tw:瓦羅;}-](../Page/纪尧姆·瓦罗.md "wikilink")，西班牙版本封面是賓施馬和[沙維](../Page/沙維.md "wikilink")，波蘭語版本是朗尼和[-{zh-hans:勒万多夫斯基;zh-hk:利雲度夫斯基;
-zh-tw:勒萬多夫斯基}-](../Page/利雲度夫斯基.md "wikilink")，葡萄牙文版的封面林柏特和[-{zh-hans:西芒;zh-hk:森馬奧;zh-tw:西芒;}-](../Page/森馬奧.md "wikilink")，匈牙利版本封面是朗尼和[迪祖薩克](../Page/巴拉斯·迪祖薩克.md "wikilink")，北美版本的封面是林柏特、[-{zh-hans:布兰科;
+10都有不同的封面球員。[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭版本封面是](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[-{zh-hans:沃尔科特;zh-hk:禾確特;zh-tw:瓦科特;}-](https://zh.wikipedia.org/wiki/禾確特 "wikilink")、[林柏特和](https://zh.wikipedia.org/wiki/林柏特 "wikilink")[朗尼](https://zh.wikipedia.org/wiki/朗尼 "wikilink")，澳洲版本封面是朗尼和[卡希爾](https://zh.wikipedia.org/wiki/卡希爾 "wikilink")，新西蘭版本封面是朗尼和林柏特，德國版本封面是[-{zh-hans:施魏因斯泰格;zh-hk:舒韋恩史迪加;zh-tw:史汪斯泰格;}-和朗尼](https://zh.wikipedia.org/wiki/舒韋恩史迪加 "wikilink")，意大利版本封面是[朗拿甸奴和](https://zh.wikipedia.org/wiki/朗拿甸奴 "wikilink")[-{zh-hans:基耶利尼;zh-hk:基亞連尼;zh-tw:基耶利尼;}-](../Page/乔吉奥·基耶利尼.md "wikilink")，法國版本封面是[-{zh-hans:马卢达;zh-hk:馬隆達;zh-tw:馬勞達;}-](https://zh.wikipedia.org/wiki/馬隆達 "wikilink")、[賓施馬和](https://zh.wikipedia.org/wiki/賓施馬 "wikilink")[-{zh-hans:瓦罗;zh-hk:賀拉奧;zh-tw:瓦羅;}-](../Page/纪尧姆·瓦罗.md "wikilink")，西班牙版本封面是賓施馬和[沙維](https://zh.wikipedia.org/wiki/沙維 "wikilink")，波蘭語版本是朗尼和[-{zh-hans:勒万多夫斯基;zh-hk:利雲度夫斯基;
+zh-tw:勒萬多夫斯基}-](https://zh.wikipedia.org/wiki/利雲度夫斯基 "wikilink")，葡萄牙文版的封面林柏特和[-{zh-hans:西芒;zh-hk:森馬奧;zh-tw:西芒;}-](https://zh.wikipedia.org/wiki/森馬奧 "wikilink")，匈牙利版本封面是朗尼和[迪祖薩克](https://zh.wikipedia.org/wiki/巴拉斯·迪祖薩克 "wikilink")，北美版本的封面是林柏特、[-{zh-hans:布兰科;
 zh-hk:白蘭高;zh-tw:布蘭科;}-和薩夏](../Page/庫奧特莫克·白蘭高.md "wikilink")·克傑斯坦（Sacha
 Kljestan）。
 

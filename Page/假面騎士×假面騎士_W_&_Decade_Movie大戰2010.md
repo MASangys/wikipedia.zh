@@ -1,12 +1,12 @@
 《**假面騎士×假面騎士 W & Decade Movie大戰
-2010**》，是日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》和《[假面騎士W](../Page/假面騎士W.md "wikilink")》聯動劇場版，「Movie大戰系列」首部作品。日本地區於2009年12月12日上映。
+2010**》，是日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》和《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》聯動劇場版，「Movie大戰系列」首部作品。日本地區於2009年12月12日上映。
 
 ## 本作特色
 
 本劇劇情分為三部分依序為：Decade完結編、W 初始之夜（Begins
 Night）、最後才為Decade跟W聯手打擊怪人的Movie大戰2010。
 
-其中，Decade完結編的主筆編劇為[米村正二](../Page/米村正二.md "wikilink")，寫作風格為結構鬆散、邏輯跳脫；W的初始之夜（Begins
+其中，Decade完結編的主筆編劇為[米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")，寫作風格為結構鬆散、邏輯跳脫；W的初始之夜（Begins
 Night）的主筆編劇為[三條陸](../Page/三條陸.md "wikilink")，寫作風格為結構嚴謹、邏輯井然。此劇前面兩部分各為負責的腳本家所撰寫，最後一部分再同時融合此兩位不同風格的腳本家一起聯合寫作劇本。
 
 ## 故事概要
@@ -35,13 +35,14 @@ Memory），依賴人要求偵探事務所救出這名少年。在執行潛入�
 
 :\#海東 大樹（假面騎士Diend，[戶谷公人](../Page/戶谷公人.md "wikilink") 飾）
 
-:\#光 夏海 （假面騎士Kivara，[森寬和](../Page/森寬和.md "wikilink") 飾）
+:\#光 夏海 （假面騎士Kivara，[森寬和](https://zh.wikipedia.org/wiki/森寬和 "wikilink")
+飾）
 
 :\#小野寺 雄介 （假面騎士空我，[村井良大](../Page/村井良大.md "wikilink") 飾）
 
-:\#光 榮次郎 / 死神博士（[石橋蓮司](../Page/石橋蓮司.md "wikilink") 飾）
+:\#光 榮次郎 / 死神博士（[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink") 飾）
 
-:\#鳴瀧 / 佐魯大佐（[奧田達士](../Page/奧田達士.md "wikilink") 飾）
+:\#鳴瀧 / 佐魯大佐（[奧田達士](https://zh.wikipedia.org/wiki/奧田達士 "wikilink") 飾）
 
 :\#岬 百合子（電波人塔克爾，[廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink") 飾）
 
@@ -49,21 +50,22 @@ Memory），依賴人要求偵探事務所救出這名少年。在執行潛入�
 
 \*;平行世界假面騎士
 
-:\#渡/假面騎士Kiva（[深澤嵐](../Page/深澤嵐.md "wikilink") 飾）
+:\#渡/假面騎士Kiva（[深澤嵐](https://zh.wikipedia.org/wiki/深澤嵐 "wikilink") 飾）
 
-:\#辰巳真嗣/假面騎士龍騎（[水谷百輔](../Page/水谷百輔.md "wikilink") 飾）
+:\#辰巳真嗣/假面騎士龍騎（[水谷百輔](https://zh.wikipedia.org/wiki/水谷百輔 "wikilink") 飾）
 
-:\#劍立一真/假面騎士劍（[鈴木擴樹](../Page/鈴木擴樹.md "wikilink") 飾）
+:\#劍立一真/假面騎士劍（[鈴木擴樹](https://zh.wikipedia.org/wiki/鈴木擴樹 "wikilink") 飾）
 
 :\#假面騎士Faiz（日本配音：[赤羽根健治](../Page/赤羽根健治.md "wikilink")）
 
-:\#蘆河翔一/假面騎士顎門（[山中聰](../Page/山中聰.md "wikilink") 飾）
+:\#蘆河翔一/假面騎士顎門（[山中聰](https://zh.wikipedia.org/wiki/山中聰 "wikilink") 飾）
 
 :\#假面騎士電王/桃太洛斯（日本配音：[關俊彥](../Page/關俊彥.md "wikilink")）
 
-:\#總司/假面騎士Kabuto（[川岡大次郎](../Page/川岡大次郎.md "wikilink") 飾）
+:\#總司/假面騎士Kabuto（[川岡大次郎](https://zh.wikipedia.org/wiki/川岡大次郎 "wikilink")
+飾）
 
-:\#明日夢/假面騎士響鬼（[小清水一揮](../Page/小清水一揮.md "wikilink") 飾）
+:\#明日夢/假面騎士響鬼（[小清水一揮](https://zh.wikipedia.org/wiki/小清水一揮 "wikilink") 飾）
 
 ### 假面騎士W初始之夜角色
 
@@ -215,7 +217,7 @@ Memory），依賴人要求偵探事務所救出這名少年。在執行潛入�
 
   - 「Stay the Ride Alive」
     作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲 -
-    [Ryo](../Page/Ryo.md "wikilink") / 編曲 -
+    [Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink") / 編曲 -
     [中川幸太郎](../Page/中川幸太郎.md "wikilink")、Ryo / 歌 -
     [GACKT](../Page/GACKT.md "wikilink")
 

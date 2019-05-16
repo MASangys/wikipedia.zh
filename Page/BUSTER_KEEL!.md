@@ -1,5 +1,5 @@
 《**BUSTER
-KEEL\!**》（）是[坂本憲司郎的日本漫畫作品](../Page/坂本憲司郎.md "wikilink")，連載於[講談社的少年連載雜誌](../Page/講談社.md "wikilink")《[月刊少年Rival](../Page/月刊少年Rival.md "wikilink")》的奇幻格鬥漫畫。
+KEEL\!**》（）是[坂本憲司郎的日本漫畫作品](https://zh.wikipedia.org/wiki/坂本憲司郎 "wikilink")，連載於[講談社的少年連載雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊少年Rival](https://zh.wikipedia.org/wiki/月刊少年Rival "wikilink")》的奇幻格鬥漫畫。
 
 ## 故事
 
@@ -97,5 +97,5 @@ KEEL\!**》（）是[坂本憲司郎的日本漫畫作品](../Page/坂本憲司�
   - [BUSTER KEEL\! | 講談社Comic
     Plus](https://web.archive.org/web/20130310041703/http://kc.kodansha.co.jp/content/top.php/1000004562)
 
-[分類:日本漫畫作品](../Page/分類:日本漫畫作品.md "wikilink")
-[分類:奇幻漫畫](../Page/分類:奇幻漫畫.md "wikilink")
+[分類:日本漫畫作品](https://zh.wikipedia.org/wiki/分類:日本漫畫作品 "wikilink")
+[分類:奇幻漫畫](https://zh.wikipedia.org/wiki/分類:奇幻漫畫 "wikilink")

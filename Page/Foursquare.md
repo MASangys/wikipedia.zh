@@ -1,19 +1,20 @@
-**Foursquare**是一个提供用户定位的[社交網絡服務](../Page/社交網絡服務.md "wikilink")，它提供[移动设备](../Page/移动设备.md "wikilink")[软件和](../Page/软件.md "wikilink")[游戏](../Page/电脑游戏.md "wikilink")。用户可以使用[移动设备或通过发送消息等方法](../Page/移动设备.md "wikilink")，在某个实际的地点“登入（）”\[1\]。每次使用者在新地點報告時，他們便可以拿到數位獎品或是數位徽章作為獎勵。未來有機會對兌換成實質商品。服务的创始人是[Dennis
-Crowley和](../Page/Dennis_Crowley.md "wikilink")[Naveen
-Selvadurai](../Page/Naveen_Selvadurai.md "wikilink")。Foursquare曾被[互联网巨头](../Page/互联网.md "wikilink")[雅虎公司以](../Page/雅虎公司.md "wikilink")1亿2500万[美元的价格求购](../Page/美国美元.md "wikilink")，但未实现交易\[2\]。
+**Foursquare**是一个提供用户定位的[社交網絡服務](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")，它提供[移动设备](../Page/移动设备.md "wikilink")[软件和](../Page/软件.md "wikilink")[游戏](../Page/电脑游戏.md "wikilink")。用户可以使用[移动设备或通过发送消息等方法](../Page/移动设备.md "wikilink")，在某个实际的地点“登入（）”\[1\]。每次使用者在新地點報告時，他們便可以拿到數位獎品或是數位徽章作為獎勵。未來有機會對兌換成實質商品。服务的创始人是[Dennis
+Crowley和](https://zh.wikipedia.org/wiki/Dennis_Crowley "wikilink")[Naveen
+Selvadurai](https://zh.wikipedia.org/wiki/Naveen_Selvadurai "wikilink")。Foursquare曾被[互联网巨头](../Page/互联网.md "wikilink")[雅虎公司以](https://zh.wikipedia.org/wiki/雅虎公司 "wikilink")1亿2500万[美元的价格求购](https://zh.wikipedia.org/wiki/美国美元 "wikilink")，但未实现交易\[2\]。
 
-从2011年开始，每年的4月16日是[纽约市的](../Page/纽约市.md "wikilink")“Foursquare日”\[3\] 。
+从2011年开始，每年的4月16日是[纽约市的](https://zh.wikipedia.org/wiki/纽约市 "wikilink")“Foursquare日”\[3\]
+。
 
 ## 中国大陆封锁
 
 2010年6月4日，Foursquare被中国大陆[防火长城封锁](../Page/防火长城.md "wikilink")。媒体猜测的原因是当天有大量中国用户在[天安门广场签到并发布关于](../Page/天安门广场.md "wikilink")[六四事件的言论](../Page/六四事件.md "wikilink")。\[4\]
 
-2011年，Foursquare技术变更，更换IP地址及缺省使用[HTTPS](../Page/HTTPS.md "wikilink")，中国恢复可直接访问。
+2011年，Foursquare技术变更，更换IP地址及缺省使用[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，中国恢复可直接访问。
 
 ## 参见
 
-  - [地理社会网络](../Page/地理社会网络.md "wikilink")（）
-  - [地理位置服务](../Page/地理位置服务.md "wikilink")
+  - [地理社会网络](https://zh.wikipedia.org/wiki/地理社会网络 "wikilink")（）
+  - [地理位置服务](https://zh.wikipedia.org/wiki/地理位置服务 "wikilink")
 
 ## 参考文献
 

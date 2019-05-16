@@ -3,7 +3,7 @@ Figuiere從Tomboy複製而來。\[1\]它採用類似Wiki的連接方式，將筆
 
 ## 複製
 
-Gnote是Tomboy的複製版本，以C++寫成，但移除了與[Mono的相依性](../Page/Mono.md "wikilink")。當原作者提出不使用Mono時，這造成了些許爭議。這爭議讓作者提出解釋，他表示撰寫Gnote是為了練習把Mono應用程式移植到其他平台上，這也證明了紀錄筆記的應用程式可以在無法適用於Mono架構的環境下存在。\[2\]這程式已經包含在Fedora裡，\[3\]囿於空間不足的問題，Fedora已經在安裝CD中移除了Mono。\[4\]一些與Linux相容的硬體尚不正式支援Mono，例如使用[龍芯處理器](../Page/龍芯.md "wikilink")（中國產製）的電腦。基於這些理由，Gnote是適合用來取代Tomboy的應用程式。
+Gnote是Tomboy的複製版本，以C++寫成，但移除了與[Mono的相依性](../Page/Mono.md "wikilink")。當原作者提出不使用Mono時，這造成了些許爭議。這爭議讓作者提出解釋，他表示撰寫Gnote是為了練習把Mono應用程式移植到其他平台上，這也證明了紀錄筆記的應用程式可以在無法適用於Mono架構的環境下存在。\[2\]這程式已經包含在Fedora裡，\[3\]囿於空間不足的問題，Fedora已經在安裝CD中移除了Mono。\[4\]一些與Linux相容的硬體尚不正式支援Mono，例如使用[龍芯處理器](https://zh.wikipedia.org/wiki/龍芯 "wikilink")（中國產製）的電腦。基於這些理由，Gnote是適合用來取代Tomboy的應用程式。
 
 ## 特色
 
@@ -25,17 +25,17 @@ Gnote支持外掛程式，以增加功能，例如：
   - 匯出至HTML
   - [Bugzilla的連結](../Page/Bugzilla.md "wikilink")
   - 固定寬度的文字
-  - [Tomboy匯入程式](../Page/Tomboy.md "wikilink")
+  - [Tomboy匯入程式](https://zh.wikipedia.org/wiki/Tomboy "wikilink")
   - 反向連結，看看哪些筆記連到目前的筆記
   - 底線文字
   - 插入時間戳記
 
 ## 相關條目
 
-  - [個人維基](../Page/個人維基.md "wikilink")
-  - [維基軟體](../Page/維基軟體.md "wikilink")
-  - [筆記軟體的比較](../Page/筆記軟體的比較.md "wikilink")
-  - [Tomboy](../Page/Tomboy.md "wikilink")
+  - [個人維基](https://zh.wikipedia.org/wiki/個人維基 "wikilink")
+  - [維基軟體](https://zh.wikipedia.org/wiki/維基軟體 "wikilink")
+  - [筆記軟體的比較](https://zh.wikipedia.org/wiki/筆記軟體的比較 "wikilink")
+  - [Tomboy](https://zh.wikipedia.org/wiki/Tomboy "wikilink")
 
 ## 參考文獻
 

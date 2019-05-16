@@ -1,5 +1,5 @@
 **Easy
-Language**是[TradeStation证券公司所开发的专属](../Page/TradeStation证券公司.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")，并内建于TradeStation
+Language**是[TradeStation证券公司所开发的专属](https://zh.wikipedia.org/wiki/TradeStation证券公司 "wikilink")[编程语言](../Page/编程语言.md "wikilink")，并内建于TradeStation
 交易平台\[1\]上。该语言主要被用来建立金融图表上的客制化指标，以及建立金融市场的演算法交易逻辑。外部的[动态链接库](../Page/动态链接库.md "wikilink")(DLL)
 可以透过Easy Language进行调用，大幅延伸其功能性。
 
@@ -10,7 +10,7 @@ Language被设计来让未曾受过专业计算机程序开发训练的交易员
 Close \> the High of 1 day ago then Buy 100 shares next bar at market;"
 
 虽然Easy Language被设计来给
-TradeStation使用，其他的交易平台逐渐开始支持用EasyLanguage写成的脚本语言，以增加与TradeStation的相容性。在众多高端的自动化交易系统中，Multicharts从各种方面来说的支持度最广泛\[3\]。值得一提的是，Multicharts所使用的专属脚本语言叫[PowerLanguage](../Page/PowerLanguage.md "wikilink")，不但极为相似、而且全数相容于EasyLanguage
+TradeStation使用，其他的交易平台逐渐开始支持用EasyLanguage写成的脚本语言，以增加与TradeStation的相容性。在众多高端的自动化交易系统中，Multicharts从各种方面来说的支持度最广泛\[3\]。值得一提的是，Multicharts所使用的专属脚本语言叫[PowerLanguage](https://zh.wikipedia.org/wiki/PowerLanguage "wikilink")，不但极为相似、而且全数相容于EasyLanguage
 \[4\]。
 
 ## 参考资料

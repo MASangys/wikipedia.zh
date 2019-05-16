@@ -1,10 +1,10 @@
 「**Pray／XXX
-feat.倖田來未**」為[SOULHEAD於](../Page/SOULHEAD.md "wikilink")2006年2月1日發行之11th[單曲](../Page/單曲.md "wikilink")。
+feat.倖田來未**」為[SOULHEAD於](https://zh.wikipedia.org/wiki/SOULHEAD "wikilink")2006年2月1日發行之11th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
   - 「XXX
-    feat.KODAKUMI」為與[倖田來未合作的單曲](../Page/倖田來未.md "wikilink")。作曲作詞皆為[SOULHEAD本身](../Page/SOULHEAD.md "wikilink")。
+    feat.KODAKUMI」為與[倖田來未合作的單曲](../Page/倖田來未.md "wikilink")。作曲作詞皆為[SOULHEAD本身](https://zh.wikipedia.org/wiki/SOULHEAD "wikilink")。
 
 <!-- end list -->
 

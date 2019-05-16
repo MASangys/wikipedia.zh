@@ -11,7 +11,7 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
         純音樂。使用了《oblivious》的部分音源。
 2.  **oblivious** (4:22)
       -
-        第1張單曲《[oblivious](../Page/oblivious.md "wikilink")》收錄曲。
+        第1張單曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》收錄曲。
         劇場版動畫《空之境界 第一章 俯瞰風景》片尾主題歌。
 3.  **love come down** (4:44)
       -
@@ -21,11 +21,11 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
         作詞／作曲：梶浦由記
 5.  **fairytale** (5:13)
       -
-        第3張單曲《[fairytale](../Page/fairytale.md "wikilink")》收錄曲。
+        第3張單曲《[fairytale](https://zh.wikipedia.org/wiki/fairytale "wikilink")》收錄曲。
         劇場版動畫《空之境界 第六章 忘卻錄音》片尾主題歌。
 6.  **ARIA** (5:24)
       -
-        第2張單曲《[sprinter/ARIA](../Page/sprinter/ARIA.md "wikilink")》收錄曲。
+        第2張單曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》收錄曲。
         劇場版動畫《空之境界 第四章 伽藍之洞》片尾主題歌。
 7.  **また風が強くなった（風又轉強了 ）** (4:57)
       -

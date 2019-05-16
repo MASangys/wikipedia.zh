@@ -1,8 +1,9 @@
-《***Seven Idiots***》是[前田勝彥個人音樂計畫](../Page/前田勝彥.md "wikilink")[World's
+《***Seven
+Idiots***》是[前田勝彥個人音樂計畫](https://zh.wikipedia.org/wiki/前田勝彥 "wikilink")[World's
 End
-Girlfriend的第十張專輯](../Page/World's_End_Girlfriend.md "wikilink")，在2010年9月13日由[Virgin-Babylon唱片廠牌發行](../Page/Virgin-Babylon.md "wikilink")，這也是[World's
+Girlfriend的第十張專輯](https://zh.wikipedia.org/wiki/World's_End_Girlfriend "wikilink")，在2010年9月13日由[Virgin-Babylon唱片廠牌發行](https://zh.wikipedia.org/wiki/Virgin-Babylon "wikilink")，這也是[World's
 End
-GirlFriend第一次在這個音樂廠牌下發行唱片](../Page/World's_End_GirlFriend.md "wikilink")。這張專輯被形容為不正常的流行專輯，充滿著毀滅與建設、愛與偏執的流行音樂\[1\]。
+GirlFriend第一次在這個音樂廠牌下發行唱片](https://zh.wikipedia.org/wiki/World's_End_GirlFriend "wikilink")。這張專輯被形容為不正常的流行專輯，充滿著毀滅與建設、愛與偏執的流行音樂\[1\]。
 *Les Enfants du Paradis*被選為此張專輯的第一首單曲。
 
 ## 專輯製作

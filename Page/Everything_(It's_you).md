@@ -1,5 +1,5 @@
 《**Everything (It's
-you)**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")13張[單曲](../Page/單曲.md "wikilink")。1997年2月5日發行。
+you)**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年2月5日發行。
 
 ## 簡介
 
@@ -16,7 +16,7 @@ you)」與他們的第一張原創[音樂專輯](../Page/音樂專輯.md "wikili
       -
         作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")；編曲：[小林武史](../Page/小林武史.md "wikilink")
         & [Mr.Children](../Page/Mr.Children.md "wikilink")
-        [日本電視台](../Page/日本電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")《[愛情遊戲](../Page/愛情遊戲_\(電視劇\).md "wikilink")》[主題曲](../Page/主題曲.md "wikilink")
+        [日本電視台](../Page/日本電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[愛情遊戲](https://zh.wikipedia.org/wiki/愛情遊戲_\(電視劇\) "wikilink")》[主題曲](../Page/主題曲.md "wikilink")
 2.  **Derumo**（）
       -
         作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")；編曲：[小林武史](../Page/小林武史.md "wikilink")

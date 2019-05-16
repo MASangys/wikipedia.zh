@@ -1,10 +1,10 @@
-**MSDN技术资源库**是[微软公司为软件和网站开发人员提供的技术资源库](../Page/微软.md "wikilink")，名字中的[MSDN意味着微软开发者网络](../Page/MSDN.md "wikilink")。
+**MSDN技术资源库**是[微软公司为软件和网站开发人员提供的技术资源库](../Page/微软.md "wikilink")，名字中的[MSDN意味着微软开发者网络](https://zh.wikipedia.org/wiki/MSDN "wikilink")。
 
 ## 内容
 
 除了[Windows
 SDK之外](../Page/Microsoft_Windows_SDK.md "wikilink")，MSDN也包含对应版本的[Visual
-Studio产品文档和](../Page/Visual_Studio.md "wikilink")[微软知识库以及产品文档中的示例代码](../Page/微软知识库.md "wikilink")\[1\]。
+Studio产品文档和](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")[微软知识库以及产品文档中的示例代码](https://zh.wikipedia.org/wiki/微软知识库 "wikilink")\[1\]。
 
 ## 获得方式
 
@@ -22,7 +22,7 @@ Studio版本，可以在Visual Studio的帮助选项中选择使用的MSDN技术
 MSDN技术资源库的主界面分为两栏，位于左边的树型导航界面和位于右侧的正文\[5\]。
 
 除了使用导航树访问之外，MSDN技术资源库也可以通过阅读器的搜索和索引功能，或者在集成的Visual
-Studio中使用[F1快捷键访问](../Page/F1.md "wikilink")\[6\]。
+Studio中使用[F1快捷键访问](https://zh.wikipedia.org/wiki/F1 "wikilink")\[6\]。
 
 ## 参考和引用
 
@@ -36,7 +36,7 @@ Studio中使用[F1快捷键访问](../Page/F1.md "wikilink")\[6\]。
   - [MSDN
     Library项目组Blog](https://web.archive.org/web/20100127174023/http://blogs.msdn.com/innovation/)
 
-[分类:微軟開發工具](../Page/分类:微軟開發工具.md "wikilink")
+[分类:微軟開發工具](https://zh.wikipedia.org/wiki/分类:微軟開發工具 "wikilink")
 
 1.  《Visual C++ 6 unleashed》，Mickey Williams、David
     Bennett著，Sams出版社2000年出版，第1007页

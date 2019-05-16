@@ -28,15 +28,16 @@ infoset（简称PSVI）。\[2\]
 信息集补充是存在争议的，有人认为它破坏了模块化，并容易导致互操作性问题。这是由于是否进行了信息集补充，会使应用程序得到不同的信息。 \[3\]
 
 [XML Schema支持信息集补充](../Page/XML_Schema.md "wikilink")，而[RELAX
-NG并不支持信息集补充](../Page/RELAX_NG.md "wikilink")。
+NG并不支持信息集补充](https://zh.wikipedia.org/wiki/RELAX_NG "wikilink")。
 
 ## 参见
 
 XML信息集的实例包括：
 
   - [文档对象模型](../Page/文档对象模型.md "wikilink")
-  - [Xpath data model](../Page/Xpath_data_model.md "wikilink")
-  - [SXML](../Page/SXML.md "wikilink")
+  - [Xpath data
+    model](https://zh.wikipedia.org/wiki/Xpath_data_model "wikilink")
+  - [SXML](https://zh.wikipedia.org/wiki/SXML "wikilink")
 
 ## 参考文献
 
@@ -47,10 +48,12 @@ XML信息集的实例包括：
 [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
 
-1.  [W3C XML Infoset](../Page/#W3C_XML_Infoset.md "wikilink")
+1.  [W3C XML
+    Infoset](https://zh.wikipedia.org/wiki/#W3C_XML_Infoset "wikilink")
 2.  [XML Schema 1.1 Part 1:
     Structures](http://www.w3.org/TR/xmlschema11-1/)
 3.  [*RELAX NG and W3C XML
     Schema*](http://www.imc.org/ietf-xml-use/mail-archive/msg00217.html)
-    , [James Clark](../Page/James_Clark_\(XML_expert\).md "wikilink"), 4
-    Jun 2002
+    , [James
+    Clark](https://zh.wikipedia.org/wiki/James_Clark_\(XML_expert\) "wikilink"),
+    4 Jun 2002

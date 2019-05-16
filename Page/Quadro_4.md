@@ -1,5 +1,5 @@
-**Quadro4**是[NVIDIA的於](../Page/NVIDIA.md "wikilink")2002年2月19日推出的專業顯示晶片，定位於[工作站領域](../Page/工作站.md "wikilink")。\[1\]。該系列晶片的顯示卡NVIDIA授權由三家公司共同推出，分別是銷售於歐美市場的[必恩威（PNY）](../Page/必恩威科技.md "wikilink")、銷售於亞太市場的[麗臺（Leadtek）以及銷售於日本市場的](../Page/麗台科技.md "wikilink")[艾爾莎日本（Elsa
-Japan）](../Page/艾爾莎.md "wikilink")。2002年4月23日，NVIDIA推出了行動工作站的顯示晶片Quadro4
+**Quadro4**是[NVIDIA的於](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2002年2月19日推出的專業顯示晶片，定位於[工作站領域](../Page/工作站.md "wikilink")。\[1\]。該系列晶片的顯示卡NVIDIA授權由三家公司共同推出，分別是銷售於歐美市場的[必恩威（PNY）](../Page/必恩威科技.md "wikilink")、銷售於亞太市場的[麗臺（Leadtek）以及銷售於日本市場的](https://zh.wikipedia.org/wiki/麗台科技 "wikilink")[艾爾莎日本（Elsa
+Japan）](https://zh.wikipedia.org/wiki/艾爾莎 "wikilink")。2002年4月23日，NVIDIA推出了行動工作站的顯示晶片Quadro4
 Go\[2\]。2002年2月19日NVIDIA同時還首次推出了Quadro4
 NVS系列，該系列定位於商業多屏顯示領域。在2003年Quadro4
 NVS系列更名為[Quadro NVS系列](../Page/Quadro_NVS.md "wikilink")，即單獨劃分為一個產品線。
@@ -60,8 +60,8 @@ DCC的改進型](../Page/Quadro_DCC.md "wikilink")，支援[Direct3D](../Page/Di
 
 ## 更多資訊
 
-  - [NVIDIA顯示核心列表](../Page/NVIDIA顯示核心列表.md "wikilink")
-  - [GeForce 4](../Page/GeForce_4.md "wikilink")
+  - [NVIDIA顯示核心列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
+  - [GeForce 4](https://zh.wikipedia.org/wiki/GeForce_4 "wikilink")
 
 ## 參考
 

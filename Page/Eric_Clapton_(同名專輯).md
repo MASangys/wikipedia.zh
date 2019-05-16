@@ -1,5 +1,5 @@
 《**Eric
-Clapton**》是英國歌手[艾瑞克·克萊普頓發行第一張專輯](../Page/艾瑞克·克萊普頓.md "wikilink")。
+Clapton**》是英國歌手[艾瑞克·克萊普頓發行第一張專輯](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")。
 
 ## 曲目
 

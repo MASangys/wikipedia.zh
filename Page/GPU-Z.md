@@ -1,14 +1,14 @@
-**GPU-Z**為一個可偵察[顯示卡資訊的](../Page/顯示卡.md "wikilink")[軟體](../Page/軟體.md "wikilink")。
+**GPU-Z**為一個可偵察[顯示卡資訊的](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
 ## 功能
 
 ### 顯示卡資訊
 
-GPU-Z可以列出目前全線[nVIDIA](../Page/nVIDIA.md "wikilink")、[AMD](../Page/AMD.md "wikilink")、[英特爾等廠牌的](../Page/英特爾.md "wikilink")[顯示卡詳細資料](../Page/顯示卡.md "wikilink")，包括[GPU名稱](../Page/GPU.md "wikilink")、代碼、核心名稱、製程、溫度等資料。
+GPU-Z可以列出目前全線[nVIDIA](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")、[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[英特爾等廠牌的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[顯示卡詳細資料](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，包括[GPU名稱](https://zh.wikipedia.org/wiki/GPU "wikilink")、代碼、核心名稱、製程、溫度等資料。
 
   - 支援的顯示卡品牌
-      - [nVIDIA](../Page/NVIDIA顯示核心列表.md "wikilink")
-      - [ATI](../Page/ATI顯示核心列表.md "wikilink")
+      - [nVIDIA](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
+      - [ATI](https://zh.wikipedia.org/wiki/ATI顯示核心列表 "wikilink")
       - [英特爾](../Page/Intel_GMA.md "wikilink")
 
 <!-- end list -->
@@ -46,7 +46,7 @@ GPU-Z可以列出目前全線[nVIDIA](../Page/nVIDIA.md "wikilink")、[AMD](../P
 
 由0.5.8版本開始，GPU-Z提供了顯示卡[ASIC檢查](../Page/特殊應用積體電路.md "wikilink")，以顯示顯示卡晶片質素。此功能暫時只支援[NVIDIA
 Geforce
-400](../Page/GeForce_400.md "wikilink")、[500及](../Page/GeForce_500.md "wikilink")[AMD
+400](https://zh.wikipedia.org/wiki/GeForce_400 "wikilink")、[500及](https://zh.wikipedia.org/wiki/GeForce_500 "wikilink")[AMD
 Radeon HD 7000系列](../Page/AMD_Radeon_HD_7000.md "wikilink")。
 
 ### 截圖

@@ -1,5 +1,5 @@
 **索尼爱立信S312手机**是[Sony
-Ericsson旗下一部低階入門款手機](../Page/Sony_Ericsson.md "wikilink")，與[W205同時推出](../Page/Sony_Ericsson_W205.md "wikilink")，但早W205於2009年6月9日發售。
+Ericsson旗下一部低階入門款手機](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")，與[W205同時推出](https://zh.wikipedia.org/wiki/Sony_Ericsson_W205 "wikilink")，但早W205於2009年6月9日發售。
 
 ## 主要規格
 
@@ -32,8 +32,8 @@ S312擁有200萬像素CMOS感光元件，並內建LED閃光燈，且有連拍模
 
 ## 傳輸功能
 
-  - [藍芽](../Page/藍芽.md "wikilink")、[USB](../Page/USB.md "wikilink")、隨身碟
-  - 互聯網連接：[EDGE](../Page/EDGE.md "wikilink")、[GPRS](../Page/GPRS.md "wikilink")
+  - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB](../Page/USB.md "wikilink")、隨身碟
+  - 互聯網連接：[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")、[GPRS](../Page/GPRS.md "wikilink")
   - MMS
 
 [Category:索尼愛立信手機](https://zh.wikipedia.org/wiki/Category:索尼愛立信手機 "wikilink")

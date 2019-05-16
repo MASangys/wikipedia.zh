@@ -1,8 +1,8 @@
-**WAZA小组**是个实验[新媒体艺术的平台](../Page/新媒体艺术.md "wikilink")，由[胡戈WAZA](../Page/胡戈WAZA.md "wikilink")（又名胡斐）于2002年于武汉创立,与骨干成员[王焕组成的年轻](../Page/王焕.md "wikilink")[艺术家组合](../Page/艺术家.md "wikilink")。小组作品包括结合[照片](../Page/照片.md "wikilink")，[影像](../Page/影像.md "wikilink")，[声音](../Page/声音.md "wikilink")，[新媒体等技术的大型雕塑](../Page/新媒体.md "wikilink")[装置到根据不同地点而设置的影像和声音项目](../Page/装置.md "wikilink")，这个年轻的团队在中国新生代艺术家中脱颖而出，将艺术的概念推向一个新的高度。\[1\]
+**WAZA小组**是个实验[新媒体艺术的平台](https://zh.wikipedia.org/wiki/新媒体艺术 "wikilink")，由[胡戈WAZA](https://zh.wikipedia.org/wiki/胡戈WAZA "wikilink")（又名胡斐）于2002年于武汉创立,与骨干成员[王焕组成的年轻](https://zh.wikipedia.org/wiki/王焕 "wikilink")[艺术家组合](https://zh.wikipedia.org/wiki/艺术家 "wikilink")。小组作品包括结合[照片](https://zh.wikipedia.org/wiki/照片 "wikilink")，[影像](https://zh.wikipedia.org/wiki/影像 "wikilink")，[声音](../Page/声音.md "wikilink")，[新媒体等技术的大型雕塑](https://zh.wikipedia.org/wiki/新媒体 "wikilink")[装置到根据不同地点而设置的影像和声音项目](https://zh.wikipedia.org/wiki/装置 "wikilink")，这个年轻的团队在中国新生代艺术家中脱颖而出，将艺术的概念推向一个新的高度。\[1\]
 
-WAZA小组曾经在中国，欧洲，日本等地举行过展览和交流活动，也曾参与过国际项目包括有98[利物浦国际电子艺术节演奏会](../Page/利物浦国际电子艺术节.md "wikilink")\[2\]；Sonar
+WAZA小组曾经在中国，欧洲，日本等地举行过展览和交流活动，也曾参与过国际项目包括有98[利物浦国际电子艺术节演奏会](https://zh.wikipedia.org/wiki/利物浦国际电子艺术节 "wikilink")\[2\]；Sonar
 2004
-第十一届[巴塞隆纳国际声音艺术与多媒体艺术祭](../Page/巴塞隆纳国际声音艺术与多媒体艺术祭.md "wikilink")\[3\]市区展演；[CCCB声音艺术暨音乐时尚媒介研讨会举行于巴塞隆纳现代艺术中心](../Page/CCCB声音艺术暨音乐时尚媒介研讨会.md "wikilink")；第37届[荷兰鹿特丹国际电影节实验短片展映单元于荷兰WORM影院展出](../Page/荷兰鹿特丹国际电影节.md "wikilink")，作品”从何说起”也在爱尔兰的都柏林举行的**2009国际先锋录像节**\[4\]上首次展示。WAZA也参予教育活动，包括由[尤伦斯当代艺术中心](../Page/尤伦斯当代艺术中心.md "wikilink")\[5\]主办的“创意影像实验计划”及德国和中国友好合作文化交流活动“[德中同行](../Page/德中同行.md "wikilink")\[6\]－城市的公共空间”等。
+第十一届[巴塞隆纳国际声音艺术与多媒体艺术祭](https://zh.wikipedia.org/wiki/巴塞隆纳国际声音艺术与多媒体艺术祭 "wikilink")\[3\]市区展演；[CCCB声音艺术暨音乐时尚媒介研讨会举行于巴塞隆纳现代艺术中心](https://zh.wikipedia.org/wiki/CCCB声音艺术暨音乐时尚媒介研讨会 "wikilink")；第37届[荷兰鹿特丹国际电影节实验短片展映单元于荷兰WORM影院展出](https://zh.wikipedia.org/wiki/荷兰鹿特丹国际电影节 "wikilink")，作品”从何说起”也在爱尔兰的都柏林举行的**2009国际先锋录像节**\[4\]上首次展示。WAZA也参予教育活动，包括由[尤伦斯当代艺术中心](../Page/尤伦斯当代艺术中心.md "wikilink")\[5\]主办的“创意影像实验计划”及德国和中国友好合作文化交流活动“[德中同行](https://zh.wikipedia.org/wiki/德中同行 "wikilink")\[6\]－城市的公共空间”等。
 
 [fcm1a.JPG](https://zh.wikipedia.org/wiki/File:fcm1a.JPG "fig:fcm1a.JPG")
 

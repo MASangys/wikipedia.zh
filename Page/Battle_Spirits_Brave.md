@@ -1,5 +1,5 @@
 《**Battle Spirits
-Brave**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2010年9月開始在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")。為《[Battle
+Brave**》（），由[名古屋電視台製作](../Page/名古屋電視台.md "wikilink")，於2010年9月開始在[朝日電視網播放的](../Page/全日本新聞網.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為《[Battle
 Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的續篇。
 
 ## 故事簡介
@@ -350,7 +350,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 ### 製作人員
 
   - 企劃：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 監督：西森章
   - 系列構成：富岡淳廣
   - 角色原案：剛田チーズ
@@ -368,7 +368,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
   - 主要製片人：寶田壽也（[名古屋電視台](../Page/名古屋電視台.md "wikilink")）、尾崎雅之（日昇動畫）
   - 製片人：福嶋更一郎（名古屋電視台）、若鍋龍太（日昇動畫）
   - 動畫制作：日昇動畫
-  - 制作：名古屋電視台、日昇動畫、[ADK](../Page/ADK.md "wikilink")
+  - 制作：名古屋電視台、日昇動畫、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
 
 ### 主題曲
 
@@ -1063,18 +1063,18 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 <a href="../Page/朝日電視台.md" title="wikilink">朝日電視台系列</a></p></td>
 <td><p>2010年9月12日－2011年9月11日</p></td>
 <td><p>星期日 7時00分－7時30分</p></td>
-<td><p><a href="../Page/朝日電視網.md" title="wikilink">朝日電視網</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝日電視網" title="wikilink">朝日電視網</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Animax.md" title="wikilink">Animax</a></p></td>
 <td><p>2011年8月4日－</p></td>
 <td><p>星期四 19時00分－19時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>有重播</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2014年7月28日－</p></td>
 <td><p>星期一、二 17時00分－17時30分</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立局</a></p></td>
@@ -1090,7 +1090,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 ## 漫畫
 
   -
-    原作：[矢立肇](../Page/矢立肇.md "wikilink")、作畫：杉山雪
+    原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、作畫：杉山雪
     於「[KEROKERO
     ACE](../Page/KEROKERO_ACE.md "wikilink")」2010年11月號開始連載。故事成為了動畫「少年激霸彈」的續篇。
 
@@ -1102,7 +1102,7 @@ LV3︰ 「這張Spirit戰鬥時」自己3張COST 8或以下的Spirit變成回復
 <!-- end list -->
 
   -
-    原作：[矢立肇](../Page/矢立肇.md "wikilink")、作畫：木下聰志
+    原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、作畫：木下聰志
     原於「最強Jump」開始連載，現於「V Jump」2011年3月號連載。
 
 <!-- end list -->

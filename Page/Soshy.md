@@ -1,38 +1,42 @@
 **黛博拉·艾普斯坦**（Deborah
-Epstein，1982年9月14日）\[1\]，[法国歌手](../Page/法国.md "wikilink")、词作家，人们更熟悉她的艺名**SoShy**。
+Epstein，1982年9月14日）\[1\]，[法国歌手](https://zh.wikipedia.org/wiki/法国 "wikilink")、词作家，人们更熟悉她的艺名**SoShy**。
 
 ## 早年
 
-艾普斯坦出生在[法国的](../Page/法国.md "wikilink")[巴黎](../Page/巴黎.md "wikilink")，童年在[美国的](../Page/美国.md "wikilink")[洛杉矶与](../Page/洛杉矶.md "wikilink")[纽约度过](../Page/纽约.md "wikilink")。
+艾普斯坦出生在[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")，童年在[美国的](../Page/美国.md "wikilink")[洛杉矶与](../Page/洛杉矶.md "wikilink")[纽约度过](../Page/纽约.md "wikilink")。
 
 ## 音乐生涯
 
-艾普斯坦为[德国的](../Page/德国.md "wikilink")[Monrose乐队写过](../Page/Monrose.md "wikilink")"[Strike
+艾普斯坦为[德国的](../Page/德国.md "wikilink")[Monrose乐队写过](https://zh.wikipedia.org/wiki/Monrose "wikilink")"[Strike
 the
-Match](../Page/Strike_the_Match.md "wikilink")"。为[比利时歌手](../Page/比利时.md "wikilink")[Natalia的双白金唱片](../Page/Natalia.md "wikilink")[Everything
-& More写过Appetite](../Page/Everything_&_More.md "wikilink") For
-Love，与[克里斯·康奈尔合作撰写他](../Page/克里斯·康奈尔.md "wikilink")[Scream专辑中的Lost](../Page/Scream.md "wikilink")
+Match](https://zh.wikipedia.org/wiki/Strike_the_Match "wikilink")"。为[比利时歌手](../Page/比利时.md "wikilink")[Natalia的双白金唱片](https://zh.wikipedia.org/wiki/Natalia "wikilink")[Everything
+&
+More写过Appetite](https://zh.wikipedia.org/wiki/Everything_&_More "wikilink")
+For
+Love，与[克里斯·康奈尔合作撰写他](https://zh.wikipedia.org/wiki/克里斯·康奈尔 "wikilink")[Scream专辑中的Lost](https://zh.wikipedia.org/wiki/Scream "wikilink")
 Cause。 \[2\]
 
-她加入了[提姆巴兰的](../Page/提姆巴兰.md "wikilink")[Mosley音乐集团](../Page/Mosley音乐集团.md "wikilink")。与[妮莉·费塔朵一起出演](../Page/妮莉·费塔朵.md "wikilink")[提姆巴兰的专辑](../Page/提姆巴兰.md "wikilink")[Shock
-Value II中的歌曲](../Page/Shock_Value_II.md "wikilink")"[Morning After
-Dark](../Page/Morning_After_Dark.md "wikilink")"。\[3\]
+她加入了[提姆巴兰的](https://zh.wikipedia.org/wiki/提姆巴兰 "wikilink")[Mosley音乐集团](https://zh.wikipedia.org/wiki/Mosley音乐集团 "wikilink")。与[妮莉·费塔朵一起出演](https://zh.wikipedia.org/wiki/妮莉·费塔朵 "wikilink")[提姆巴兰的专辑](https://zh.wikipedia.org/wiki/提姆巴兰 "wikilink")[Shock
+Value
+II中的歌曲](https://zh.wikipedia.org/wiki/Shock_Value_II "wikilink")"[Morning
+After
+Dark](https://zh.wikipedia.org/wiki/Morning_After_Dark "wikilink")"。\[3\]
 
 ## 唱片
 
 ### Solo单碟
 
-| 年代   | 歌曲          | 专辑                                                               |
-| ---- | ----------- | ---------------------------------------------------------------- |
-| 2005 | "The Way I" | [*FIFA 10* soundtrack](../Page/FIFA_06#Soundtrack.md "wikilink") |
-| 2009 | "Dorothy"   | [*FIFA 10* soundtrack](../Page/FIFA_10#Soundtrack.md "wikilink") |
+| 年代   | 歌曲          | 专辑                                                                                  |
+| ---- | ----------- | ----------------------------------------------------------------------------------- |
+| 2005 | "The Way I" | [*FIFA 10* soundtrack](https://zh.wikipedia.org/wiki/FIFA_06#Soundtrack "wikilink") |
+| 2009 | "Dorothy"   | [*FIFA 10* soundtrack](https://zh.wikipedia.org/wiki/FIFA_10#Soundtrack "wikilink") |
 
 ### As featured artist
 
-| 年代                                                   | 歌曲                                                                                                                                                                                           | Chart positions                                 | 专辑                                                                               |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- |
-| <small>[US](../Page/Billboard_Hot_100.md "wikilink") | <small>[UK](../Page/UK_Singles_Chart.md "wikilink")                                                                                                                                          | <small>[AUS](../Page/ARIA_Charts.md "wikilink") | <small>[NZ](../Page/Recording_Industry_Association_of_New_Zealand.md "wikilink") |
-| 2009                                                 | "[Morning After Dark](../Page/Morning_After_Dark.md "wikilink")" <small>(with [Timbaland](../Page/Timbaland.md "wikilink") and [Nelly Furtado](../Page/Nelly_Furtado.md "wikilink"))</small> | 61                                              | 6                                                                                |
+| 年代                                                                      | 歌曲                                                                                                                                                                                                                                                    | Chart positions                                                    | 专辑                                                                                                  |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| <small>[US](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink") | <small>[UK](https://zh.wikipedia.org/wiki/UK_Singles_Chart "wikilink")                                                                                                                                                                                | <small>[AUS](https://zh.wikipedia.org/wiki/ARIA_Charts "wikilink") | <small>[NZ](https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_New_Zealand "wikilink") |
+| 2009                                                                    | "[Morning After Dark](https://zh.wikipedia.org/wiki/Morning_After_Dark "wikilink")" <small>(with [Timbaland](https://zh.wikipedia.org/wiki/Timbaland "wikilink") and [Nelly Furtado](https://zh.wikipedia.org/wiki/Nelly_Furtado "wikilink"))</small> | 61                                                                 | 6                                                                                                   |
 
 ### Solo songs
 
@@ -43,13 +47,13 @@ Dark](../Page/Morning_After_Dark.md "wikilink")"。\[3\]
 
 ### 其他作品
 
-| 年代                                                    | 歌曲                                                           | 艺术家                                                              | 专辑                                                                                   | 注释                  |
-| ----------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------- |
-| 2006                                                  | "[Strike The Match](../Page/Strike_The_Match.md "wikilink")" | [Monrose](../Page/Monrose.md "wikilink")                         | *[I Am](../Page/I_Am_\(Monrose_album\).md "wikilink")*                               | writer of the song  |
-| 2006                                                  | "Appetite For Love"                                          | [Natalia](../Page/Natalia.md "wikilink")                         | *[Everything and More](../Page/Everything_and_More_\(Natalia_album\).md "wikilink")* | writer of the song  |
-| 2009                                                  | "Ease Off The Liquor"                                        | [Timbaland](../Page/Timbaland.md "wikilink")                     | *[Shock Value II](../Page/Shock_Value_II.md "wikilink")*                             | (additional vocals) |
-| "Lost Cause" \[4\]                                    | [Chris Cornell](../Page/Chris_Cornell.md "wikilink")         | *[Scream](../Page/Scream_\(Chris_Cornell_album\).md "wikilink")* | writer of the song                                                                   |                     |
-| "[Elvis](../Page/Elvis_\(song\).md "wikilink")" \[5\] | "[Leki & The Sweet Mints](../Page/Leki.md "wikilink")"       | *Leki & The Sweet Mints*                                         | writer of the song                                                                   |                     |
+| 年代                                                                       | 歌曲                                                                              | 艺术家                                                                                 | 专辑                                                                                                      | 注释                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------- |
+| 2006                                                                     | "[Strike The Match](https://zh.wikipedia.org/wiki/Strike_The_Match "wikilink")" | [Monrose](https://zh.wikipedia.org/wiki/Monrose "wikilink")                         | *[I Am](https://zh.wikipedia.org/wiki/I_Am_\(Monrose_album\) "wikilink")*                               | writer of the song  |
+| 2006                                                                     | "Appetite For Love"                                                             | [Natalia](https://zh.wikipedia.org/wiki/Natalia "wikilink")                         | *[Everything and More](https://zh.wikipedia.org/wiki/Everything_and_More_\(Natalia_album\) "wikilink")* | writer of the song  |
+| 2009                                                                     | "Ease Off The Liquor"                                                           | [Timbaland](https://zh.wikipedia.org/wiki/Timbaland "wikilink")                     | *[Shock Value II](https://zh.wikipedia.org/wiki/Shock_Value_II "wikilink")*                             | (additional vocals) |
+| "Lost Cause" \[4\]                                                       | [Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink")         | *[Scream](https://zh.wikipedia.org/wiki/Scream_\(Chris_Cornell_album\) "wikilink")* | writer of the song                                                                                      |                     |
+| "[Elvis](https://zh.wikipedia.org/wiki/Elvis_\(song\) "wikilink")" \[5\] | "[Leki & The Sweet Mints](https://zh.wikipedia.org/wiki/Leki "wikilink")"       | *Leki & The Sweet Mints*                                                            | writer of the song                                                                                      |                     |
 
 ### 混音碟
 

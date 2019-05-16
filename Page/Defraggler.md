@@ -1,10 +1,10 @@
-**Defraggler**是由英國軟體公司[Piriform所開發的](../Page/Piriform.md "wikilink")[磁碟重組軟體](../Page/磁碟重組.md "wikilink")。使用者可利用Defraggler重組單一檔案、[資料夾或整個](../Page/資料夾.md "wikilink")[磁碟分割區](../Page/磁碟分割區.md "wikilink")。暫時只支援[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")；它支援從[Windows
+**Defraggler**是由英國軟體公司[Piriform所開發的](../Page/Piriform.md "wikilink")[磁碟重組軟體](https://zh.wikipedia.org/wiki/磁碟重組 "wikilink")。使用者可利用Defraggler重組單一檔案、[資料夾或整個](https://zh.wikipedia.org/wiki/資料夾 "wikilink")[磁碟分割區](https://zh.wikipedia.org/wiki/磁碟分割區 "wikilink")。暫時只支援[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")；它支援從[Windows
 XP以後的所有Windows版本](../Page/Windows_XP.md "wikilink")，包含32位元跟64位元版本的作業系統。\[1\]
 
 ## 同類軟件
 
-  - [O\&O Defrag](../Page/O&O_Defrag.md "wikilink")
+  - [O\&O Defrag](https://zh.wikipedia.org/wiki/O&O_Defrag "wikilink")
   - [Wise Disk Cleaner](../Page/Wise_Disk_Cleaner.md "wikilink")
 
 ## 參看

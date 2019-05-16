@@ -1,8 +1,8 @@
-**四氯铝酸镉(I)**（化学式：Cd<sub>2</sub>(AlCl<sub>4</sub>)<sub>2</sub>）1961年最早报道，\[1\]是最早制得的含[镉](../Page/镉.md "wikilink")(I)的化合物。后经[拉曼光谱](../Page/拉曼光谱.md "wikilink")\[2\]和单晶的[X射线衍射分析](../Page/X射线衍射.md "wikilink")\[3\]\[4\]，证实其中含镉-镉键，说明此化合物中的镉类似二聚的汞(I)。
+**四氯铝酸镉(I)**（化学式：Cd<sub>2</sub>(AlCl<sub>4</sub>)<sub>2</sub>）1961年最早报道，\[1\]是最早制得的含[镉](../Page/镉.md "wikilink")(I)的化合物。后经[拉曼光谱](https://zh.wikipedia.org/wiki/拉曼光谱 "wikilink")\[2\]和单晶的[X射线衍射分析](https://zh.wikipedia.org/wiki/X射线衍射 "wikilink")\[3\]\[4\]，证实其中含镉-镉键，说明此化合物中的镉类似二聚的汞(I)。
 
 ## 制备
 
-最早由将金属镉溶于熔融[氯化镉中并加入](../Page/氯化镉.md "wikilink")[氯化铝而得](../Page/氯化铝.md "wikilink")。
+最早由将金属镉溶于熔融[氯化镉中并加入](https://zh.wikipedia.org/wiki/氯化镉 "wikilink")[氯化铝而得](../Page/氯化铝.md "wikilink")。
 
   -
     CdCl<sub>2</sub> + Cd → Cd<sub>2</sub>Cl<sub>2</sub>

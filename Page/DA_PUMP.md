@@ -1,25 +1,25 @@
 **DA
-PUMP**（）是[日本男子](../Page/日本.md "wikilink")[歌舞](../Page/歌舞系.md "wikilink")[演唱組合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")，所屬唱片公司為[愛貝克思旗下廠牌](../Page/愛貝克思.md "wikilink")[SONIC
-GROOVE](../Page/SONIC_GROOVE.md "wikilink")。1996年出道時團員為4人，均出身自[沖繩縣和](../Page/沖繩縣.md "wikilink")；經過多次成員更迭後，目前團員共有7人，其中團長[ISSA為僅有的創團成員](../Page/ISSA.md "wikilink")。
+PUMP**（）是[日本男子](../Page/日本.md "wikilink")[歌舞](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")[演唱組合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")，所屬唱片公司為[愛貝克思旗下廠牌](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[SONIC
+GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。1996年出道時團員為4人，均出身自[沖繩縣和](../Page/沖繩縣.md "wikilink")；經過多次成員更迭後，目前團員共有7人，其中團長[ISSA為僅有的創團成員](https://zh.wikipedia.org/wiki/ISSA "wikilink")。
 
 ## 概要
 
-1996年9月，邊土名一茶（[ISSA](../Page/ISSA.md "wikilink")）、玉城幸也（YUKINARI）、奧本健（KEN）和宮良忍（SHINOBU）四人在出身地[沖繩相會](../Page/沖繩.md "wikilink")，於11月到[東京組成DA](../Page/東京.md "wikilink")
-PUMP。1997年，由[m.C.A.T](../Page/m.C.A.T.md "wikilink")（富樫明生）製作的首張單曲「Feelin'
+1996年9月，邊土名一茶（[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")）、玉城幸也（YUKINARI）、奧本健（KEN）和宮良忍（SHINOBU）四人在出身地[沖繩相會](https://zh.wikipedia.org/wiki/沖繩 "wikilink")，於11月到[東京組成DA](https://zh.wikipedia.org/wiki/東京 "wikilink")
+PUMP。1997年，由[m.C.A.T](https://zh.wikipedia.org/wiki/m.C.A.T "wikilink")（富樫明生）製作的首張單曲「Feelin'
 Good -It's PARADISE-」透過愛貝克思的新廠牌[avex
-tune發行](../Page/avex_tune.md "wikilink")。DA
-PUMP在初期以m.C.A.T的歌曲為中心，發表數首改編歌詞和曲名的單曲。1998年，DA
-PUMP發行第五張單曲「Rhapsody in
+tune發行](https://zh.wikipedia.org/wiki/avex_tune "wikilink")。DA
+PUMP在初期以m.C.A.T的歌曲為中心，發表數首改編歌詞和曲名的單曲。1998年，DA PUMP發行第五張單曲「Rhapsody
+in
 Blue」並初次登上[NHK红白歌合战](../Page/NHK红白歌合战.md "wikilink")，並在此後直至2002年，連續五年出場。
 
 DA
 PUMP四名成員出道以來都是自行編舞，沒有雇用專屬的編舞老師。在此之前，男子偶像團體幾乎都是來自[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")，DA
 PUMP出道後的人氣帶來了新的氣象。繼DA
-PUMP之後，[w-inds.](../Page/w-inds..md "wikilink")、[FLAME](../Page/FLAME.md "wikilink")、[Lead等男子偶像團體陸續接連出道](../Page/Lead.md "wikilink")。w-inds.在出道時便是以「DA
+PUMP之後，[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")、[FLAME](https://zh.wikipedia.org/wiki/FLAME "wikilink")、[Lead等男子偶像團體陸續接連出道](https://zh.wikipedia.org/wiki/Lead "wikilink")。w-inds.在出道時便是以「DA
 PUMP的師弟」為號召進行演出，也在彼此的現場演唱會上擔任開場來賓。
 
 2005年2月20日，DA
-PUMP成員SHINOBU因[酒後駕車遭](../Page/酒後駕車.md "wikilink")[逮捕](../Page/逮捕.md "wikilink")，暫停活動3個月；3個月後，以「心情整理得不夠充分」為由繼續暫停活動。2006年4月7日，DA
+PUMP成員SHINOBU因[酒後駕車遭](https://zh.wikipedia.org/wiki/酒後駕車 "wikilink")[逮捕](../Page/逮捕.md "wikilink")，暫停活動3個月；3個月後，以「心情整理得不夠充分」為由繼續暫停活動。2006年4月7日，DA
 PUMP成員SHINOBU正式在官方網站上宣布退團，從此開始以個人的形式活動。
 
 2008年12月17日，成員YUKINARI也宣布退團，DA PUMP自此僅剩兩名團員。DA
@@ -27,11 +27,11 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 
 2009年12月5日，成員KEN以發展方向不同為由宣布退出，結成當時的成員僅剩ISSA。
 
-2018年，以單曲《》（該年6月6日發行）再次走紅，並以該曲出場[第69回NHK紅白歌合戰](../Page/第69回NHK紅白歌合戰.md "wikilink")，為相隔16年後第6次出演NHK紅白歌合戰。
+2018年，以單曲《》（該年6月6日發行）再次走紅，並以該曲出場[第69回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰 "wikilink")，為相隔16年後第6次出演NHK紅白歌合戰。
 
 ## 成員
 
-  - **[ISSA](../Page/ISSA.md "wikilink")（團長）**
+  - **[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")（團長）**
 
 <!-- end list -->
 
@@ -55,8 +55,9 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 <!-- end list -->
 
   -
-    本名：中村朋揮（1985年1月21日（34歲）出生）。[福岡縣](../Page/福岡縣.md "wikilink")[宮若市出身](../Page/宮若市.md "wikilink")，血型O型。鎖舞（lock）團體SHUFFLE\!\!、SECLET
-    GEUST、ALL GOOD FUNK的成員。在[英國](../Page/英國.md "wikilink")「B-Boy
+    本名：中村朋揮（1985年1月21日（34歲）出生）。[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[宮若市出身](../Page/宮若市.md "wikilink")，血型O型。鎖舞（lock）團體SHUFFLE\!\!、SECLET
+    GEUST、ALL GOOD
+    FUNK的成員。在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")「B-Boy
     Championships World Finals 2008」的鎖舞比賽「LOCKIN' 2ON2 BATTLE」中排名世界第二。
 
 <!-- end list -->
@@ -105,7 +106,7 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 <!-- end list -->
 
   -
-    本名：宮良忍（1980年2月15日（38歲）—）。沖繩[小濱島](../Page/小濱島.md "wikilink")（[八重山郡](../Page/八重山郡.md "wikilink")[竹富町](../Page/竹富町.md "wikilink")）出身，血型O型。在原始成員是最年輕的。於2005年2月20日因酒醉駕車遭到逮補，隔年（2006年）4月7日宣布退團。
+    本名：宮良忍（1980年2月15日（38歲）—）。沖繩[小濱島](https://zh.wikipedia.org/wiki/小濱島 "wikilink")（[八重山郡](../Page/八重山郡.md "wikilink")[竹富町](../Page/竹富町.md "wikilink")）出身，血型O型。在原始成員是最年輕的。於2005年2月20日因酒醉駕車遭到逮補，隔年（2006年）4月7日宣布退團。
 
 <!-- end list -->
 
@@ -114,7 +115,7 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 <!-- end list -->
 
   -
-    本名：玉城幸也（1978年11月5日（40歲）—）。沖繩[那霸市出身](../Page/那霸市.md "wikilink")，血型O型。在原始成員是最年長的。與前女子偶像[西田夏在](../Page/西田夏.md "wikilink")2004年2月1日結婚。三年後的2007年12月8日發表正在進行離婚協調。之後在2010年4月16日離婚。2008年12月17日宣布退團。
+    本名：玉城幸也（1978年11月5日（40歲）—）。沖繩[那霸市出身](../Page/那霸市.md "wikilink")，血型O型。在原始成員是最年長的。與前女子偶像[西田夏在](https://zh.wikipedia.org/wiki/西田夏 "wikilink")2004年2月1日結婚。三年後的2007年12月8日發表正在進行離婚協調。之後在2010年4月16日離婚。2008年12月17日宣布退團。
 
 <!-- end list -->
 
@@ -127,7 +128,7 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 
 <!-- end list -->
 
-  - **[KAZUMA](../Page/山根和馬.md "wikilink")**
+  - **[KAZUMA](https://zh.wikipedia.org/wiki/山根和馬 "wikilink")**
 
 <!-- end list -->
 
@@ -139,11 +140,12 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 
   - 第12回[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳日本年度新藝人（1998年）
   - 第31回[日本有線大獎](../Page/日本有線大獎.md "wikilink") 有線音樂獎（1998年）
-  - [美源髮采](../Page/美源髮采.md "wikilink")「Hair Colour Link Award 2000」藝人特別賞
+  - [美源髮采](https://zh.wikipedia.org/wiki/美源髮采 "wikilink")「Hair Colour
+    Link Award 2000」藝人特別賞
   - 第33回日本有線大獎 有線音樂獎：「if...」（2000年）
   - 第34回「[All Japan Request
-    Awrds](../Page/All_Japan_Request_Awrds.md "wikilink")」Gold Request
-    獎「All My Love to You」（2001年）To You」
+    Awrds](https://zh.wikipedia.org/wiki/All_Japan_Request_Awrds "wikilink")」Gold
+    Request 獎「All My Love to You」（2001年）To You」
   - 第40回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")（1998年）優秀作品獎：「Rhapsody in
     Blue」
   - 第42回日本唱片大獎（2000年）優秀作品獎 得獎曲：「if...」
@@ -219,15 +221,17 @@ PUMP隨即於隔天（2008年12月18日）在官方網站上宣布，將從2009�
 
 ### 專輯
 
-1.  *[EXPRESSION](../Page/EXPRESSION.md "wikilink")*（1998年7月23日）
+1.  *[EXPRESSION](https://zh.wikipedia.org/wiki/EXPRESSION "wikilink")*（1998年7月23日）
 2.  *[Higher and
-    Higher\!](../Page/Higher_and_Higher!.md "wikilink")*（1999年7月28日）
-3.  *[BEAT BALL](../Page/BEAT_BALL.md "wikilink")*（2000年7月19日）
-4.  *[the NEXT EXIT](../Page/the_NEXT_EXIT.md "wikilink")*（2002年2月20日）
+    Higher\!](https://zh.wikipedia.org/wiki/Higher_and_Higher! "wikilink")*（1999年7月28日）
+3.  *[BEAT
+    BALL](https://zh.wikipedia.org/wiki/BEAT_BALL "wikilink")*（2000年7月19日）
+4.  *[the NEXT
+    EXIT](https://zh.wikipedia.org/wiki/the_NEXT_EXIT "wikilink")*（2002年2月20日）
 5.  *[疾風乱舞 -EPISODE
-    II-](../Page/疾風乱舞_-EPISODE_II-.md "wikilink")*（2004年7月7日）
+    II-](https://zh.wikipedia.org/wiki/疾風乱舞_-EPISODE_II- "wikilink")*（2004年7月7日）
     CD/CD+DVD
-6.  *[LEQUIOS](../Page/LEQUIOS.md "wikilink")*　（2005年12月28日）CD/CD+DVD
+6.  *[LEQUIOS](https://zh.wikipedia.org/wiki/LEQUIOS "wikilink")*　（2005年12月28日）CD/CD+DVD
 
 #### 精選輯
 

@@ -1,7 +1,7 @@
 《**The Second
-Step**》是[狄易達的第二張](../Page/狄易達.md "wikilink")[EP](../Page/EP.md "wikilink")，在2010年8月9日和[葉文輝](../Page/葉文輝.md "wikilink")《[The
+Step**》是[狄易達的第二張](https://zh.wikipedia.org/wiki/狄易達 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年8月9日和[葉文輝](../Page/葉文輝.md "wikilink")《[The
 Sixth
-Sense](../Page/The_Sixth_Sense.md "wikilink")》合併雙EP推出，後來在此版本售罄以後，在9月1日發行獨立版本\[1\]。
+Sense](https://zh.wikipedia.org/wiki/The_Sixth_Sense "wikilink")》合併雙EP推出，後來在此版本售罄以後，在9月1日發行獨立版本\[1\]。
 
 專輯的第一主打歌是《霹靂干戈》，而第二主打歌為《一天一粒糖》，另外《霹靂干戈<small>（Wants To Move
 mix）</small>》則是《霹靂干戈》的混音版本。

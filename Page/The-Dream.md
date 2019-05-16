@@ -1,10 +1,10 @@
-**特琉斯·杨戴尔·纳什**（），生于1981年6月14日，因其艺名**The-Dream**出名，是美国的[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")、[流行乐创作型歌手](../Page/流行乐.md "wikilink")、唱片制作人。生于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")，由其母雷瓦·纳什（Reva
-Nash）抚养长大，直至她35岁去世。The-Dream搬到[佐治亚州](../Page/佐治亚州.md "wikilink")[亚特兰大](../Page/亚特兰大.md "wikilink")，由外祖父继续抚养。
+**特琉斯·杨戴尔·纳什**（），生于1981年6月14日，因其艺名**The-Dream**出名，是美国的[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")、[流行乐创作型歌手](https://zh.wikipedia.org/wiki/流行乐 "wikilink")、唱片制作人。生于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")，由其母雷瓦·纳什（Reva
+Nash）抚养长大，直至她35岁去世。The-Dream搬到[佐治亚州](https://zh.wikipedia.org/wiki/佐治亚州 "wikilink")[亚特兰大](../Page/亚特兰大.md "wikilink")，由外祖父继续抚养。
 
 2001年，The-Dream同拉尼·斯图尔特（Laney
-Stewart）会面，后者帮助The-Dream拿到了一份发行合同。2007年，The-Dream携手打造了[蕾哈娜的热门歌曲](../Page/蕾哈娜.md "wikilink")《Umbrella》以及[碧昂丝的](../Page/碧昂丝.md "wikilink")《Single
+Stewart）会面，后者帮助The-Dream拿到了一份发行合同。2007年，The-Dream携手打造了[蕾哈娜的热门歌曲](../Page/蕾哈娜.md "wikilink")《Umbrella》以及[碧昂丝的](https://zh.wikipedia.org/wiki/碧昂丝 "wikilink")《Single
 Ladies (Put a Ring on It)》，这使得他的音乐生涯飞黄腾达。同年，他和[Def
-Jam唱片公司签约](../Page/Def_Jam唱片公司.md "wikilink")，并与当年晚些时候发布首张专辑《Love
+Jam唱片公司签约](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")，并与当年晚些时候发布首张专辑《Love
 Hate》。\[1\]2009年3月，他发行了第二张专辑《Love vs. Money》。\[2\]2010年6月，第三张专辑《Love
 King》面世。\[3\]\[4\]
 

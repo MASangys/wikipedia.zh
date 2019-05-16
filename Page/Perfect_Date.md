@@ -1,5 +1,5 @@
 **《Perfect
-Date》**是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")4張個人音樂專輯，於2004年8月20日推出；專輯以「約會」為主題。
+Date》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")4張個人音樂專輯，於2004年8月20日推出；專輯以「約會」為主題。
 
 ## 曲目列表
 

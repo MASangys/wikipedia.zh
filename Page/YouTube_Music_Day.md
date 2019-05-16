@@ -20,18 +20,18 @@ C、Olivia、TANK、江明娟、黃文星、彭于晏、張懸、溫嵐、瑤瑤
 
   - 1976
   - [A-Lin](../Page/A-Lin.md "wikilink")
-  - [BY2](../Page/BY2.md "wikilink")
-  - [dance flow](../Page/dance_flow.md "wikilink")
+  - [BY2](https://zh.wikipedia.org/wiki/BY2 "wikilink")
+  - [dance flow](https://zh.wikipedia.org/wiki/dance_flow "wikilink")
   - [Jerry C](http://en.wikipedia.org/wiki/JerryC) (張逸帆)
-  - [Olivia](../Page/Olivia.md "wikilink")
-  - [TANK](../Page/TANK.md "wikilink")
+  - [Olivia](https://zh.wikipedia.org/wiki/Olivia "wikilink")
+  - [TANK](https://zh.wikipedia.org/wiki/TANK "wikilink")
   - [江明娟](../Page/江明娟.md "wikilink")
   - [黃文星](../Page/黃文星.md "wikilink")
   - [彭于晏](../Page/彭于晏.md "wikilink")
   - [張懸](../Page/張懸.md "wikilink")
   - [溫嵐](../Page/溫嵐.md "wikilink")
-  - [瑤瑤](../Page/瑤瑤.md "wikilink")
-  - [劉軒](../Page/劉軒.md "wikilink")
+  - [瑤瑤](https://zh.wikipedia.org/wiki/瑤瑤 "wikilink")
+  - [劉軒](https://zh.wikipedia.org/wiki/劉軒 "wikilink")
   - [盧廣仲](../Page/盧廣仲.md "wikilink")
   - [戴愛玲](../Page/戴愛玲.md "wikilink")
   - [蕭敬騰](../Page/蕭敬騰.md "wikilink")
@@ -39,10 +39,10 @@ C、Olivia、TANK、江明娟、黃文星、彭于晏、張懸、溫嵐、瑤瑤
 ## 演出曲目
 
   - [Jerry C](http://en.wikipedia.org/wiki/JerryC) 曲目:搖滾卡農
-  - [瑤瑤](../Page/瑤瑤.md "wikilink") 曲目:愛的抱抱
+  - [瑤瑤](https://zh.wikipedia.org/wiki/瑤瑤 "wikilink") 曲目:愛的抱抱
   - [戴愛玲](../Page/戴愛玲.md "wikilink") 曲目:對的人
   - [蕭敬騰](../Page/蕭敬騰.md "wikilink") 曲目:王妃
-  - [BY2](../Page/BY2.md "wikilink") 曲目:大人的世界
+  - [BY2](https://zh.wikipedia.org/wiki/BY2 "wikilink") 曲目:大人的世界
 
 ## 批評與贊同
 

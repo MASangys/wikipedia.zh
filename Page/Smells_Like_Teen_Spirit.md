@@ -1,6 +1,6 @@
-《》（参考译名《彷彿青春氣息》、《彷彿年輕朝氣》等）是一首美國[搖滾樂團](../Page/搖滾.md "wikilink")[超脫樂團的歌曲](../Page/超脫樂團.md "wikilink")，收錄在樂團的第二張專輯《[從不介意](../Page/從不介意.md "wikilink")》(Nevermind)中的主打[單曲](../Page/單曲.md "wikilink")，由[DGC唱片發行](../Page/DGC唱片.md "wikilink")。歌曲由[科特·柯本](../Page/科特·柯本.md "wikilink")、[克里斯特·諾弗賽立克和](../Page/克里斯特·諾弗賽立克.md "wikilink")[戴夫·格羅爾共同譜寫](../Page/戴夫·格羅爾.md "wikilink")，製作。也是超脫樂團最熱門的單曲，在[Billboard
+《》（参考译名《彷彿青春氣息》、《彷彿年輕朝氣》等）是一首美國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[超脫樂團的歌曲](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")，收錄在樂團的第二張專輯《[從不介意](../Page/從不介意.md "wikilink")》(Nevermind)中的主打[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[DGC唱片發行](https://zh.wikipedia.org/wiki/DGC唱片 "wikilink")。歌曲由[科特·柯本](../Page/科特·柯本.md "wikilink")、[克里斯特·諾弗賽立克和](https://zh.wikipedia.org/wiki/克里斯特·諾弗賽立克 "wikilink")[戴夫·格羅爾共同譜寫](../Page/戴夫·格羅爾.md "wikilink")，製作。也是超脫樂團最熱門的單曲，在[Billboard
 Hot
-100上排名第六](../Page/Billboard_Hot_100.md "wikilink")，並在1991年和1992年在世界各地的音樂排行榜上名列前茅。意外成功的推動《[從不介意](../Page/從不介意.md "wikilink")》專輯在1992年開始時位居排行榜榜首，這個熱潮經常被標記為[垃圾搖滾進入](../Page/垃圾搖滾.md "wikilink")[主流音樂的開始](../Page/主流.md "wikilink")，
+100上排名第六](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")，並在1991年和1992年在世界各地的音樂排行榜上名列前茅。意外成功的推動《[從不介意](../Page/從不介意.md "wikilink")》專輯在1992年開始時位居排行榜榜首，這個熱潮經常被標記為[垃圾搖滾進入](https://zh.wikipedia.org/wiki/垃圾搖滾 "wikilink")[主流音樂的開始](https://zh.wikipedia.org/wiki/主流 "wikilink")，
 這首歌被稱為[X世代](../Page/X世代.md "wikilink")“冷漠的孩子們的歌”。
 
 ## 參考文獻

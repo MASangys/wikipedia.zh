@@ -1,4 +1,4 @@
-《**難破MG5**》是[小沢利雄的校園](../Page/小沢利雄.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")。《**雙面人難破**》是其續集。
+《**難破MG5**》是[小沢利雄的校園](https://zh.wikipedia.org/wiki/小沢利雄 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。《**雙面人難破**》是其續集。
 
 ## 登場人物
 

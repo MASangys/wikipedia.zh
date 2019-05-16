@@ -1,6 +1,6 @@
 《**RPG Maker
 2003**》（遊戲製作大師RPG篇）（又稱RM2K3）是[RPG製作大師系列中第三個運行於](../Page/RPG製作大師.md "wikilink")[Microsoft
-Windows作業系統上之](../Page/Microsoft_Windows.md "wikilink")[RPG製作軟體](../Page/RPG.md "wikilink")，為[RPG
+Windows作業系統上之](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[RPG製作軟體](https://zh.wikipedia.org/wiki/RPG "wikilink")，為[RPG
 Maker
 2000的續作](../Page/RPG_Maker_2000.md "wikilink")。由[日本](../Page/日本.md "wikilink")[Enterbrain發行](../Page/Enterbrain.md "wikilink")。
 

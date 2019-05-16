@@ -1,11 +1,13 @@
-**SugarCRM**是一套[開源的](../Page/開源軟體.md "wikilink")[客戶關聯管理](../Page/客戶關聯管理.md "wikilink")[軟件](../Page/軟件.md "wikilink")。
+**SugarCRM**是一套[開源的](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[客戶關聯管理](https://zh.wikipedia.org/wiki/客戶關聯管理 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。
 
-SugarCRM用[PHP語言開發](../Page/PHP.md "wikilink")，主要應用在[LAMP環境](../Page/LAMP.md "wikilink")，但也支援其他的[作業系統](../Page/作業系統.md "wikilink")
-（如[Windows](../Page/Windows.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac
-OS X](../Page/Mac_OS_X.md "wikilink")）和其他的數據庫管理系統（如[Microsoft SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink")、[Oracle數據庫](../Page/Oracle數據庫.md "wikilink")）。\[1\]
+SugarCRM用[PHP語言開發](../Page/PHP.md "wikilink")，主要應用在[LAMP環境](../Page/LAMP.md "wikilink")，但也支援其他的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")
+（如[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac
+OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）和其他的數據庫管理系統（如[Microsoft
+SQL
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle數據庫](https://zh.wikipedia.org/wiki/Oracle數據庫 "wikilink")）。\[1\]
 
-SugarCRM以[GNU通用公共許可證發佈](../Page/GNU通用公共許可證.md "wikilink")。
+SugarCRM以[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")。
 
 ## 歷史
 
@@ -24,9 +26,10 @@ SugarCRM 总共有三种版本
   - Sugar 个人版
   - Sugar 企业版
 
-所有版本都源自于同一个[代码树](../Page/代码树.md "wikilink")，Sugar 社区版包含了Sugar 个人版和Sugar
-企业版所拥有的大约85%的功能。该产品建基于[Linux](../Page/Linux.md "wikilink")，[Apache](../Page/Apache.md "wikilink")，[MySQL和](../Page/MySQL.md "wikilink")[PHP堆栈的](../Page/PHP.md "wikilink")[LAMP架构上](../Page/LAMP.md "wikilink")，但也能运行于其他能够运行PHP的平台上（例如[Windows](../Page/Windows.md "wikilink")，[Solaris以及](../Page/Solaris.md "wikilink")[Mac
-OS X](../Page/Mac_OS_X.md "wikilink")）
+所有版本都源自于同一个[代码树](https://zh.wikipedia.org/wiki/代码树 "wikilink")，Sugar
+社区版包含了Sugar 个人版和Sugar
+企业版所拥有的大约85%的功能。该产品建基于[Linux](../Page/Linux.md "wikilink")，[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")，[MySQL和](../Page/MySQL.md "wikilink")[PHP堆栈的](../Page/PHP.md "wikilink")[LAMP架构上](../Page/LAMP.md "wikilink")，但也能运行于其他能够运行PHP的平台上（例如[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Solaris以及](../Page/Solaris.md "wikilink")[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）
 
 ### SugarCRM的特点
 

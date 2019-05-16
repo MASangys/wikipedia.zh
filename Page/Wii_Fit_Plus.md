@@ -1,6 +1,6 @@
 《**Wii Fit
 Plus**》（中文译為「**Wii塑身™加強版**」或「**Wii塑身™Plus**」），是[任天堂繼](../Page/任天堂.md "wikilink")《[Wii
-Fit](../Page/Wii_Fit.md "wikilink")》後推出的新健身遊戲，發行於[Wii平台](../Page/Wii.md "wikilink")，搭配[Wii平衡器測量玩家的體量](../Page/Wii平衡器.md "wikilink")、熱量等數據，以進行不同類型的健身訓練，遊戲內由舊版的40頂增至加強版的69種鍛鍊項目，分為5種遊戲類型，包括「[瑜伽](../Page/瑜伽.md "wikilink")」、「[肌肉鍛鍊](../Page/肌肉鍛鍊.md "wikilink")」、「[有氧運動](../Page/有氧運動.md "wikilink")」、「[平衝運動](../Page/平衝運動.md "wikilink")」和新加入的「鍛鍊+」。
+Fit](../Page/Wii_Fit.md "wikilink")》後推出的新健身遊戲，發行於[Wii平台](../Page/Wii.md "wikilink")，搭配[Wii平衡器測量玩家的體量](https://zh.wikipedia.org/wiki/Wii平衡器 "wikilink")、熱量等數據，以進行不同類型的健身訓練，遊戲內由舊版的40頂增至加強版的69種鍛鍊項目，分為5種遊戲類型，包括「[瑜伽](../Page/瑜伽.md "wikilink")」、「[肌肉鍛鍊](https://zh.wikipedia.org/wiki/肌肉鍛鍊 "wikilink")」、「[有氧運動](https://zh.wikipedia.org/wiki/有氧運動 "wikilink")」、「[平衝運動](https://zh.wikipedia.org/wiki/平衝運動 "wikilink")」和新加入的「鍛鍊+」。
 
 ## 遊戲場景和功能
 
@@ -20,8 +20,9 @@ Fit](../Page/Wii_Fit.md "wikilink")》後推出的新健身遊戲，發行於[Wi
   -
   -
 [ja:Wii Fit\#Wii Fit
-Plus](../Page/ja:Wii_Fit#Wii_Fit_Plus.md "wikilink") [nn:Wii Fit\#Wii
-Fit Plus](../Page/nn:Wii_Fit#Wii_Fit_Plus.md "wikilink")
+Plus](https://zh.wikipedia.org/wiki/ja:Wii_Fit#Wii_Fit_Plus "wikilink")
+[nn:Wii Fit\#Wii Fit
+Plus](https://zh.wikipedia.org/wiki/nn:Wii_Fit#Wii_Fit_Plus "wikilink")
 
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
 [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink")

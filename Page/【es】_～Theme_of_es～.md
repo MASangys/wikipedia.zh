@@ -1,13 +1,13 @@
 《**【es】 ～Theme of
-es～**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")8張[單曲](../Page/單曲.md "wikilink")。1995年5月10日發行。
+es～**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月10日發行。
 
 ## 簡介
 
 1995年，紀錄[Mr.Children幾個音樂會精彩片段的音樂](../Page/Mr.Children.md "wikilink")[紀錄電影](../Page/紀錄片.md "wikilink")《[【es】
 Mr.Children in
-FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")》上映，而《【es】
+FILM](https://zh.wikipedia.org/wiki/【es】_Mr.Children_in_FILM "wikilink")》上映，而《【es】
 ～Theme of
-es～》就是電影的主題曲。PV取自電影的片段。歌名中的「es」是[心理學用語中](../Page/心理學.md "wikilink")「[自我的一種](../Page/自我.md "wikilink")」。
+es～》就是電影的主題曲。PV取自電影的片段。歌名中的「es」是[心理學用語中](https://zh.wikipedia.org/wiki/心理學 "wikilink")「[自我的一種](../Page/自我.md "wikilink")」。
 
 總銷量達157.2萬張\[1\]，是1995年度日本單曲銷量第12位\[2\]。
 
@@ -19,7 +19,7 @@ es～》就是電影的主題曲。PV取自電影的片段。歌名中的「es�
         & [Mr.Children](../Page/Mr.Children.md "wikilink")
         [Mr.Children自身音樂](../Page/Mr.Children.md "wikilink")[紀錄電影](../Page/紀錄片.md "wikilink")《[【es】
         Mr.Children in
-        FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")
+        FILM](https://zh.wikipedia.org/wiki/【es】_Mr.Children_in_FILM "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")
 2.  **[雨過天晴](../Page/Atomic_Heart.md "wikilink") Remix Version**（）
       -
         作詞：櫻井和壽；作曲：櫻井和壽 & 小林武史；編曲:小林武史 & Mr.Children

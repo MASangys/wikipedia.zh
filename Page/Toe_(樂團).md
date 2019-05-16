@@ -1,11 +1,11 @@
-**toe**是一支2000年在[日本](../Page/日本.md "wikilink")[東京成立的](../Page/東京.md "wikilink")[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾樂隊](../Page/後搖滾.md "wikilink")。\[1\]\[2\]
+**toe**是一支2000年在[日本](../Page/日本.md "wikilink")[東京成立的](https://zh.wikipedia.org/wiki/東京 "wikilink")[數學搖滾](../Page/數學搖滾.md "wikilink")，[後搖滾樂隊](../Page/後搖滾.md "wikilink")。\[1\]\[2\]
 
 ## 樂團成員
 
 ### 現任
 
   - [吉他](../Page/吉他.md "wikilink")：山嵜廣和，美濃隆章
-  - [貝斯](../Page/貝斯.md "wikilink")：山根敏史
+  - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")：山根敏史
   - [鼓](../Page/鼓.md "wikilink")：柏倉隆史
 
 ## 音樂作品

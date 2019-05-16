@@ -1,32 +1,32 @@
 《**Time
-Flies**》是[香港歌手](../Page/香港歌手.md "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語](../Page/粵語.md "wikilink")[EP](../Page/EP.md "wikilink")，於2010年3月12日發行。台灣版則直接引進港版，於2010年3月19日發行；內地版專輯名改為《**時日如飛**》。而歌曲的次序是按錄音先後次序排列。
+Flies**》是[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[陳奕迅的](../Page/陳奕迅.md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2010年3月12日發行。台灣版則直接引進港版，於2010年3月19日發行；內地版專輯名改為《**時日如飛**》。而歌曲的次序是按錄音先後次序排列。
 
 ## 專輯簡介
 
-本[EP收錄陳奕迅](../Page/EP.md "wikilink")6首粵語歌曲，全部歌曲皆拍攝了[MV](../Page/MV.md "wikilink")，並收錄於附送的[DVD內](../Page/DVD.md "wikilink")。[EP其中三首歌包括](../Page/EP.md "wikilink")《無人之境》、《陀飛輪》及《一絲不掛》榮獲三台冠軍。《[Time
-Flies](../Page/Time_Flies.md "wikilink")》是繼2009年推出的《[H³M](../Page/H³M.md "wikilink")》後，連續兩屆於[叱咤樂壇流行榜獲得至尊唱片大獎](../Page/叱咤樂壇流行榜.md "wikilink")。
+本[EP收錄陳奕迅](https://zh.wikipedia.org/wiki/EP "wikilink")6首粵語歌曲，全部歌曲皆拍攝了[MV](https://zh.wikipedia.org/wiki/MV "wikilink")，並收錄於附送的[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。[EP其中三首歌包括](https://zh.wikipedia.org/wiki/EP "wikilink")《無人之境》、《陀飛輪》及《一絲不掛》榮獲三台冠軍。《[Time
+Flies](https://zh.wikipedia.org/wiki/Time_Flies "wikilink")》是繼2009年推出的《[H³M](../Page/H³M.md "wikilink")》後，連續兩屆於[叱咤樂壇流行榜獲得至尊唱片大獎](../Page/叱咤樂壇流行榜.md "wikilink")。
 
 ## 曲目
 
-| 次序 | 歌名   | 作曲                                                         | 填詞                               | 編曲                                           | 監製                                               |
-| -- | ---- | ---------------------------------------------------------- | -------------------------------- | -------------------------------------------- | ------------------------------------------------ |
-| 01 | 無人之境 | [Eric Kwok](../Page/Eric_Kwok.md "wikilink")               | [黃偉文](../Page/黃偉文.md "wikilink") | Eric Kwok                                    | Eric Kwok                                        |
-| 02 | 大人   | Eric Kwok                                                  | [陳詠謙](../Page/陳詠謙.md "wikilink") | Eric Kwok                                    | Eric Kwok                                        |
-| 03 | 一絲不掛 | [Christopher Chak](../Page/Christopher_Chak.md "wikilink") | [林夕](../Page/林夕.md "wikilink")   | [陳珀](../Page/陳珀.md "wikilink")               | [Alvin Leong](../Page/Alvin_Leong.md "wikilink") |
-| 04 | 陀飛輪  | [Vincent Chow](../Page/Vincent_Chow.md "wikilink")         | 黃偉文                              | [Gary Tong](../Page/唐奕聰.md "wikilink")       | Alvin Leong                                      |
-| 05 | 心腹   | Eric Kwok                                                  | 黃偉文                              | Eric Kwok                                    | Eric Kwok                                        |
-| 06 | 味之素  | [陳羽恆](../Page/陳羽恆.md "wikilink")                           | 黃偉文                              | [C.Y. Kong](../Page/C.Y._Kong.md "wikilink") | Alvin Leong                                      |
+| 次序 | 歌名   | 作曲                                                                            | 填詞                                                  | 編曲                                                              | 監製                                                                  |
+| -- | ---- | ----------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 01 | 無人之境 | [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")               | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Eric Kwok                                                       | Eric Kwok                                                           |
+| 02 | 大人   | Eric Kwok                                                                     | [陳詠謙](../Page/陳詠謙.md "wikilink")                    | Eric Kwok                                                       | Eric Kwok                                                           |
+| 03 | 一絲不掛 | [Christopher Chak](https://zh.wikipedia.org/wiki/Christopher_Chak "wikilink") | [林夕](../Page/林夕.md "wikilink")                      | [陳珀](https://zh.wikipedia.org/wiki/陳珀 "wikilink")               | [Alvin Leong](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink") |
+| 04 | 陀飛輪  | [Vincent Chow](https://zh.wikipedia.org/wiki/Vincent_Chow "wikilink")         | 黃偉文                                                 | [Gary Tong](../Page/唐奕聰.md "wikilink")                          | Alvin Leong                                                         |
+| 05 | 心腹   | Eric Kwok                                                                     | 黃偉文                                                 | Eric Kwok                                                       | Eric Kwok                                                           |
+| 06 | 味之素  | [陳羽恆](https://zh.wikipedia.org/wiki/陳羽恆 "wikilink")                           | 黃偉文                                                 | [C.Y. Kong](https://zh.wikipedia.org/wiki/C.Y._Kong "wikilink") | Alvin Leong                                                         |
 
 ### 音樂錄像
 
-| 曲目次序 | 歌名   | 導演                                                                | 首發日期        | 首發平台                                     | 連結                                                      |
-| ---- | ---- | ----------------------------------------------------------------- | ----------- | ---------------------------------------- | ------------------------------------------------------- |
-| 01   | 無人之境 | [莊少榮](../Page/莊少榮.md "wikilink")                                  | 2009年12月29日 | [Youtube](../Page/Youtube.md "wikilink") | [Youtube連結](http://www.youtube.com/watch?v=9g3XXXdnjqY) |
-| 02   | 大人   | [rabbit@ptu](../Page/rabbit@ptu.md "wikilink")                    | 2010年3月7日   | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=pLpkizFlQdg) |
-| 03   | 一絲不掛 | [rabbit@ptu](../Page/rabbit@ptu.md "wikilink")                    | 2010年3月7日   | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=t0EG6pSwcBk) |
-| 04   | 陀飛輪  | [郭子健](../Page/郭子健.md "wikilink")、[黃智亨](../Page/黃智亨.md "wikilink") | 2010年3月3日   | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=URUIcYDq3_I) |
-| 05   | 心腹   | [Ellis Lee](../Page/Ellis_Lee.md "wikilink")                      | 2010年3月12日  | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=9VvcUubejqA) |
-| 06   | 味之素  | [莊少榮](../Page/莊少榮.md "wikilink")                                  | 2010年3月7日   | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=23yEaVoPRAE) |
+| 曲目次序 | 歌名   | 導演                                                                                   | 首發日期        | 首發平台                                                        | 連結                                                      |
+| ---- | ---- | ------------------------------------------------------------------------------------ | ----------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| 01   | 無人之境 | [莊少榮](https://zh.wikipedia.org/wiki/莊少榮 "wikilink")                                  | 2009年12月29日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [Youtube連結](http://www.youtube.com/watch?v=9g3XXXdnjqY) |
+| 02   | 大人   | [rabbit@ptu](https://zh.wikipedia.org/wiki/rabbit@ptu "wikilink")                    | 2010年3月7日   | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=pLpkizFlQdg) |
+| 03   | 一絲不掛 | [rabbit@ptu](https://zh.wikipedia.org/wiki/rabbit@ptu "wikilink")                    | 2010年3月7日   | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=t0EG6pSwcBk) |
+| 04   | 陀飛輪  | [郭子健](../Page/郭子健.md "wikilink")、[黃智亨](https://zh.wikipedia.org/wiki/黃智亨 "wikilink") | 2010年3月3日   | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=URUIcYDq3_I) |
+| 05   | 心腹   | [Ellis Lee](https://zh.wikipedia.org/wiki/Ellis_Lee "wikilink")                      | 2010年3月12日  | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=9VvcUubejqA) |
+| 06   | 味之素  | [莊少榮](https://zh.wikipedia.org/wiki/莊少榮 "wikilink")                                  | 2010年3月7日   | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=23yEaVoPRAE) |
 
 ## 外間評價
 
@@ -49,7 +49,7 @@ Flies》曲風保守，指專輯內作品作曲和編曲都放得太輕，咀嚼
 
 
 **粗體**表示冠軍歌
-（^）由於[TVB與包括其所屬](../Page/TVB.md "wikilink")[環球唱片的四大唱片公司的版稅紛爭而暫停在該台派歌](../Page/環球唱片.md "wikilink")
+（^）由於[TVB與包括其所屬](https://zh.wikipedia.org/wiki/TVB "wikilink")[環球唱片的四大唱片公司的版稅紛爭而暫停在該台派歌](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")
 
 《無人之境》、《陀飛輪》、《一絲不掛》三首歌曲得到廣泛樂迷愛戴，均成為三台冠軍歌。
 
@@ -57,53 +57,57 @@ Flies》曲風保守，指專輯內作品作曲和編曲都放得太輕，咀嚼
 
 ### 個人獎項
 
-  - 香港：[明報](../Page/明報.md "wikilink")[2010年度演藝動力大獎](../Page/2010年度演藝動力大獎得獎名單.md "wikilink")－最突出男歌手
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－最佳粤語男歌手
-  - 亞洲：[第十屆全球華語歌曲排行榜](../Page/第十屆全球華語歌曲排行榜.md "wikilink")－最佳製作人
+  - 香港：[明報](../Page/明報.md "wikilink")[2010年度演藝動力大獎](https://zh.wikipedia.org/wiki/2010年度演藝動力大獎得獎名單 "wikilink")－最突出男歌手
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳粤語男歌手
+  - 亞洲：[第十屆全球華語歌曲排行榜](https://zh.wikipedia.org/wiki/第十屆全球華語歌曲排行榜 "wikilink")－最佳製作人
 
 ### 專輯《Time Flies》
 
-  - 香港：[明報](../Page/明報.md "wikilink")[2010年度演藝動力大獎](../Page/2010年度演藝動力大獎得獎名單.md "wikilink")－最突出唱片
-  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink")－至尊唱片大獎
+  - 香港：[明報](../Page/明報.md "wikilink")[2010年度演藝動力大獎](https://zh.wikipedia.org/wiki/2010年度演藝動力大獎得獎名單 "wikilink")－最突出唱片
+  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")－至尊唱片大獎
   - 香港：[2010年度SINA
     Music樂壇民意指數頒獎禮](../Page/2010年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－我最喜愛至尊大碟
   - 香港：2010年度香港HMV十大亞洲流行唱片銷量排行榜\[4\]－第五位
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－年度粵語專輯（提名）
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－百家傳媒年度最受矚目專輯
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－年度粵語專輯（提名）
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－百家傳媒年度最受矚目專輯
   - 亞洲：第十屆全球華語歌曲排行榜－最佳專輯
 
 ### 歌曲《一絲不掛》
 
-  - 香港：[2010 CASH金帆音樂獎](../Page/2010_CASH金帆音樂獎.md "wikilink")－最佳旋律
-  - 香港：[2010 CASH金帆音樂獎](../Page/2010_CASH金帆音樂獎.md "wikilink")－最佳歌曲
+  - 香港：[2010
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2010_CASH金帆音樂獎 "wikilink")－最佳旋律
+  - 香港：[2010
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2010_CASH金帆音樂獎 "wikilink")－最佳歌曲
   - 香港：[新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆監製大獎
   - 香港：[新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲大獎
   - 香港：[新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城全球勁爆歌曲
-  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink")－叱咤樂壇我最喜愛歌曲十強
+  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")－叱咤樂壇我最喜愛歌曲十強
   - 香港：[2010年度SINA
     Music樂壇民意指數頒獎禮](../Page/2010年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－最高收聽率二十大歌曲
   - 香港：[2010年度SINA
     Music樂壇民意指數頒獎禮](../Page/2010年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－我最喜愛至尊金曲
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－最佳作曲人（提名）
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳作曲人（提名）
 
 ### 歌曲《陀飛輪》
 
-  - 香港：[2010 CASH金帆音樂獎](../Page/2010_CASH金帆音樂獎.md "wikilink")－最佳歌詞
-  - 香港：[2010 CASH金帆音樂獎](../Page/2010_CASH金帆音樂獎.md "wikilink")－最佳歌曲
+  - 香港：[2010
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2010_CASH金帆音樂獎 "wikilink")－最佳歌詞
+  - 香港：[2010
+    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2010_CASH金帆音樂獎 "wikilink")－最佳歌曲
   - 香港：[新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆填詞大獎
-  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介
+  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")－專業推介
     叱咤十大（第五位）
-  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink")－叱咤樂壇我最喜愛的歌曲大獎
+  - 香港：[2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")－叱咤樂壇我最喜愛的歌曲大獎
   - 香港：[第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
   - 香港：[第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink")－全球華人至尊金曲
   - 香港：[第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink")－傳媒推薦大獎（歌曲）
   - 香港：[IFPI 香港數碼音樂大獎
-    2011](../Page/IFPI_香港數碼音樂大獎_2011.md "wikilink")－十大數碼暢銷歌曲
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－年度粵語歌曲
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－最佳作詞人
-  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](../Page/華語音樂傳媒大獎.md "wikilink")－最佳編曲人（提名）
+    2011](https://zh.wikipedia.org/wiki/IFPI_香港數碼音樂大獎_2011 "wikilink")－十大數碼暢銷歌曲
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－年度粵語歌曲
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳作詞人
+  - 中國：[2011年（第十一屆）華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")－最佳編曲人（提名）
   - 馬來西亞：[2011年（第二屆）MY
-    Astro至尊流行榜頒獎典禮](../Page/MY_Astro至尊流行榜頒獎典禮.md "wikilink")－至尊金曲25大
+    Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink")－至尊金曲25大
   - 亞洲：第十屆全球華語歌曲排行榜－年度二十大金曲
   - 亞洲：第十屆全球華語歌曲排行榜－最佳作詞
   - 加拿大：加拿大至HIT中文歌曲排行榜 2010年度總選－全國推崇十大粵語歌曲
@@ -116,11 +120,11 @@ Flies》曲風保守，指專輯內作品作曲和編曲都放得太輕，咀嚼
 
 ## 其他翻唱版本
 
-  - [香港歌手](../Page/香港.md "wikilink")[何韻詩於](../Page/何韻詩.md "wikilink")2010年12月23-25日舉行的「Hocc
+  - [香港歌手](../Page/香港.md "wikilink")[何韻詩於](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")2010年12月23-25日舉行的「Hocc
     Homecoming Live
     2010」音樂會中演唱《陀飛輪》，編曲中加入《再見露絲瑪莉》﻿和《勞斯•萊斯》的旋律，演唱片段收錄在其《HOCC
     Homecoming Live
-    2010》音樂會DVD。及後她於2012年12月6日在[台北大河岸舉行的](../Page/台北.md "wikilink")「無臉人音樂會」上亦再次演唱《陀飛輪》，收錄在2013年數位專輯《無臉人音樂會@台北大河岸》。
+    2010》音樂會DVD。及後她於2012年12月6日在[台北大河岸舉行的](https://zh.wikipedia.org/wiki/台北 "wikilink")「無臉人音樂會」上亦再次演唱《陀飛輪》，收錄在2013年數位專輯《無臉人音樂會@台北大河岸》。
 
 <!-- end list -->
 

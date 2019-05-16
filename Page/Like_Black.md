@@ -1,6 +1,6 @@
 《**Like
 Black**》是香港樂隊[Mr.的新曲](../Page/Mr..md "wikilink")+混音專輯，當中混音七首樂曲，碟內還收錄了[Coca-Cola
-Zero廣告新曲](../Page/Coca-Cola_Zero.md "wikilink")《黑色狂迷》、《「最重要》和《如果我是陳奕迅（國語版）》。
+Zero廣告新曲](https://zh.wikipedia.org/wiki/Coca-Cola_Zero "wikilink")《黑色狂迷》、《「最重要》和《如果我是陳奕迅（國語版）》。
 
 ## 曲目
 

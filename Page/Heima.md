@@ -1,11 +1,11 @@
 ***Heima***(英譯為:At
-Home)是[冰島](../Page/冰島.md "wikilink")[後搖滾樂團](../Page/後搖滾.md "wikilink")[Sigur
-Rós的DVD](../Page/Sigur_Rós.md "wikilink")，裡頭收錄了2006年的夏天[Sigur
-Rós在冰島舉行的巡迴演出](../Page/Sigur_Rós.md "wikilink")。在這次的巡迴中，[Sigur
-Rós舉辦了兩場大型戶外演唱會](../Page/Sigur_Rós.md "wikilink")，一場是七月三十日在[雷克雅維克的Miklatún](../Page/雷克雅維克.md "wikilink")、另一場則是八月四日在Ásbyrgi，比較小型的演出在[Ólafsvík](../Page/Ólafsvík.md "wikilink")、[Ísafjörður](../Page/Ísafjörður.md "wikilink")、[Djúpavík](../Page/Djúpavík.md "wikilink")、[Öxnadalur](../Page/Öxnadalur.md "wikilink")、[Seyðisfjörður等地點舉辦](../Page/Seyðisfjörður.md "wikilink")，除此之外，為了保護自然生態環境對抗政府建造[Kárahnjúkar
-dam所舉辦的演唱會在](../Page/Kárahnjúkar_Hydropower_Project.md "wikilink")[Snæfellsskála舉行](../Page/Snæfellsskála.md "wikilink")。紀錄片中也收錄了在咖啡館、小城鎮等等的不插電版本演出，
+Home)是[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[後搖滾樂團](../Page/後搖滾.md "wikilink")[Sigur
+Rós的DVD](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")，裡頭收錄了2006年的夏天[Sigur
+Rós在冰島舉行的巡迴演出](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")。在這次的巡迴中，[Sigur
+Rós舉辦了兩場大型戶外演唱會](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")，一場是七月三十日在[雷克雅維克的Miklatún](../Page/雷克雅維克.md "wikilink")、另一場則是八月四日在Ásbyrgi，比較小型的演出在[Ólafsvík](https://zh.wikipedia.org/wiki/Ólafsvík "wikilink")、[Ísafjörður](https://zh.wikipedia.org/wiki/Ísafjörður "wikilink")、[Djúpavík](https://zh.wikipedia.org/wiki/Djúpavík "wikilink")、[Öxnadalur](https://zh.wikipedia.org/wiki/Öxnadalur "wikilink")、[Seyðisfjörður等地點舉辦](https://zh.wikipedia.org/wiki/Seyðisfjörður "wikilink")，除此之外，為了保護自然生態環境對抗政府建造[Kárahnjúkar
+dam所舉辦的演唱會在](https://zh.wikipedia.org/wiki/Kárahnjúkar_Hydropower_Project "wikilink")[Snæfellsskála舉行](https://zh.wikipedia.org/wiki/Snæfellsskála "wikilink")。紀錄片中也收錄了在咖啡館、小城鎮等等的不插電版本演出，
 
-紀錄片***Heima***收次公開播出是在2007年9月27日[冰島國際電影節的開幕式](../Page/Reykjavík_International_Film_Festival.md "wikilink")，而紀錄片的發行則是在2007年9月5日。
+紀錄片***Heima***收次公開播出是在2007年9月27日[冰島國際電影節的開幕式](https://zh.wikipedia.org/wiki/Reykjavík_International_Film_Festival "wikilink")，而紀錄片的發行則是在2007年9月5日。
 
 ## DVD收錄
 
@@ -21,7 +21,7 @@ dam所舉辦的演唱會在](../Page/Kárahnjúkar_Hydropower_Project.md "wikili
 8.  Gítardjamm
 9.  Vaka
 10. Á Ferð Til Breiðafjarðar Vorið 1922 (with [Steindór
-    Andersen](../Page/Steindór_Andersen.md "wikilink"))
+    Andersen](https://zh.wikipedia.org/wiki/Steindór_Andersen "wikilink"))
 11. Starálfur
 12. Hoppípolla
 13. Popplagið

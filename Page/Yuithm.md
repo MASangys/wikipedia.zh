@@ -1,4 +1,4 @@
-**yuithm**是[榊原由依第](../Page/榊原由依.md "wikilink")1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年1月27日由[LOVE×TRAX發售](../Page/LOVE×TRAX.md "wikilink")。
+**yuithm**是[榊原由依第](../Page/榊原由依.md "wikilink")1張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年1月27日由[LOVE×TRAX發售](https://zh.wikipedia.org/wiki/LOVE×TRAX "wikilink")。
 
 ## 收錄曲
 

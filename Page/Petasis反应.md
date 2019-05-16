@@ -1,21 +1,22 @@
 **Petasis反应**（Petasis
-reaction），是[胺](../Page/胺.md "wikilink")、[醛与](../Page/醛.md "wikilink")[烯基](../Page/烯基.md "wikilink")／[芳基](../Page/芳基.md "wikilink")[硼酸反应生成](../Page/硼酸.md "wikilink")[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
+reaction），是[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")、[醛与](../Page/醛.md "wikilink")[烯基](https://zh.wikipedia.org/wiki/烯基 "wikilink")／[芳基](https://zh.wikipedia.org/wiki/芳基 "wikilink")[硼酸反应生成](../Page/硼酸.md "wikilink")[取代胺类的反应](../Page/取代基.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Petasis_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Petasis_Reaction_Scheme.png "fig:Petasis_Reaction_Scheme.png")
-此反应可看作是[Mannich反应的烷基硼酸变体](../Page/Mannich反应.md "wikilink")。它提供了除[还原胺化反应以外一种合成取代胺类的方法](../Page/还原胺化反应.md "wikilink")。
+此反应可看作是[Mannich反应的烷基硼酸变体](https://zh.wikipedia.org/wiki/Mannich反应 "wikilink")。它提供了除[还原胺化反应以外一种合成取代胺类的方法](https://zh.wikipedia.org/wiki/还原胺化反应 "wikilink")。
 
 ## 应用
 
-利用[发散合成法制备多官能团产物](../Page/发散合成法.md "wikilink")：\[4\] \[5\]
+利用[发散合成法制备多官能团产物](https://zh.wikipedia.org/wiki/发散合成法 "wikilink")：\[4\]
+\[5\]
 
 
 [PetasisReaction.png](https://zh.wikipedia.org/wiki/File:PetasisReaction.png "fig:PetasisReaction.png")
 
 ## 参见
 
-  - [Mannich反应](../Page/Mannich反应.md "wikilink")
-  - [Suzuki反应](../Page/Suzuki反应.md "wikilink")
+  - [Mannich反应](https://zh.wikipedia.org/wiki/Mannich反应 "wikilink")
+  - [Suzuki反应](https://zh.wikipedia.org/wiki/Suzuki反应 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
 ## 参考资料

@@ -1,14 +1,14 @@
 《**Don't wanna
-cry**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠單獨名義的第](../Page/安室奈美惠.md "wikilink")5張單曲。[小室哲哉擔任製作人](../Page/小室哲哉.md "wikilink")。1996年3月13日發行。安室憑這首歌成為獲得[日本唱片大賞的史上最年輕者](../Page/日本唱片大賞.md "wikilink")。
+cry**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[安室奈美惠單獨名義的第](../Page/安室奈美惠.md "wikilink")5張單曲。[小室哲哉擔任製作人](../Page/小室哲哉.md "wikilink")。1996年3月13日發行。安室憑這首歌成為獲得[日本唱片大賞的史上最年輕者](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。
 
 ## 簡介
 
   - [安室奈美惠第](../Page/安室奈美惠.md "wikilink")5張個人名義的單曲作品，轉籍到[avex
-    trax之後的第](../Page/avex_trax.md "wikilink")3張單曲。由金牌製作人[小室哲哉擔當單曲製作](../Page/小室哲哉.md "wikilink")，小室和共同作詞。
+    trax之後的第](https://zh.wikipedia.org/wiki/avex_trax "wikilink")3張單曲。由金牌製作人[小室哲哉擔當單曲製作](../Page/小室哲哉.md "wikilink")，小室和共同作詞。
 
 <!-- end list -->
 
-  - 歌曲具有典型的[黑人音樂和](../Page/黑人音樂.md "wikilink")[R\&B風格](../Page/R&B.md "wikilink")，PV中除了安室之外的所有登場人物都是[黑人](../Page/黑人.md "wikilink")。
+  - 歌曲具有典型的[黑人音樂和](https://zh.wikipedia.org/wiki/黑人音樂 "wikilink")[R\&B風格](https://zh.wikipedia.org/wiki/R&B "wikilink")，PV中除了安室之外的所有登場人物都是[黑人](../Page/黑人.md "wikilink")。
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@ cry**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.m
 
 <!-- end list -->
 
-  - 安室憑著這首歌獲得年底的[第38回](../Page/第38回日本唱片大賞.md "wikilink")[日本唱片大賞](../Page/日本唱片大賞.md "wikilink")，成為史上最年輕的獲獎者（當時19歲）。次年安室再次以《[CAN
+  - 安室憑著這首歌獲得年底的[第38回](https://zh.wikipedia.org/wiki/第38回日本唱片大賞 "wikilink")[日本唱片大賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")，成為史上最年輕的獲獎者（當時19歲）。次年安室再次以《[CAN
     YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")》獲得大賞。
 
 <!-- end list -->
@@ -33,7 +33,8 @@ cry**》，是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.m
         作詞：[小室哲哉](../Page/小室哲哉.md "wikilink") & ；作曲、編曲：小室哲哉
 2.  **present**
       -
-        作詞：；作曲、編曲：小室哲哉 & [久保浩二](../Page/久保浩二.md "wikilink")
+        作詞：；作曲、編曲：小室哲哉 &
+        [久保浩二](https://zh.wikipedia.org/wiki/久保浩二 "wikilink")
 3.  **Don't wanna cry** (Original Karaoke)
 4.  **present** (Original Karaoke)
 

@@ -1,6 +1,6 @@
-**Uni-Power環球保衛隊**是[香港](../Page/香港.md "wikilink")[環球唱片旗下的一個非正式組合](../Page/環球唱片_\(香港\).md "wikilink")，於2009年成立，由[譚詠麟](../Page/譚詠麟.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[麥家瑜](../Page/麥家瑜.md "wikilink")、[李克勤](../Page/李克勤.md "wikilink")、[陳慧琳](../Page/陳慧琳.md "wikilink")、[陳詩慧](../Page/陳詩慧.md "wikilink")、[劉美君](../Page/劉美君.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[張敬軒](../Page/張敬軒.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[鄧健泓](../Page/鄧健泓.md "wikilink")、[Swing及](../Page/Swing.md "wikilink")[Mr.組成](../Page/Mr..md "wikilink")。
+**Uni-Power環球保衛隊**是[香港](../Page/香港.md "wikilink")[環球唱片旗下的一個非正式組合](../Page/環球唱片_\(香港\).md "wikilink")，於2009年成立，由[譚詠麟](../Page/譚詠麟.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[麥家瑜](../Page/麥家瑜.md "wikilink")、[李克勤](../Page/李克勤.md "wikilink")、[陳慧琳](../Page/陳慧琳.md "wikilink")、[陳詩慧](../Page/陳詩慧.md "wikilink")、[劉美君](../Page/劉美君.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[鄧健泓](../Page/鄧健泓.md "wikilink")、[Swing及](https://zh.wikipedia.org/wiki/Swing "wikilink")[Mr.組成](../Page/Mr..md "wikilink")。
 
-2009年12月2日，Uni-Power環球保衛隊在[亞洲博覽館舉行](../Page/亞洲博覽館.md "wikilink")《Uni-Power大合唱會》，為[香港思覺失調學會](../Page/香港思覺失調學會.md "wikilink")（Early
+2009年12月2日，Uni-Power環球保衛隊在[亞洲博覽館舉行](https://zh.wikipedia.org/wiki/亞洲博覽館 "wikilink")《Uni-Power大合唱會》，為[香港思覺失調學會](https://zh.wikipedia.org/wiki/香港思覺失調學會 "wikilink")（Early
 Psychosis Intervention Society）籌款。
 
 ## 作品列表

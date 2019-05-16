@@ -1,4 +1,4 @@
-**KeroQ**（）是Moonphase股份有限公司（）旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。Moonphase公司的前身是1998年設立的有限公司，2005年組織變更將公司名改為現在的Moonphase。2005年現在的代表取締役是在該公司擔任劇本及原畫的SCA-自（至《[終之空](../Page/終之空.md "wikilink")》為止前是にのみー隊長）。
+**KeroQ**（）是Moonphase股份有限公司（）旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。Moonphase公司的前身是1998年設立的有限公司，2005年組織變更將公司名改為現在的Moonphase。2005年現在的代表取締役是在該公司擔任劇本及原畫的SCA-自（至《[終之空](https://zh.wikipedia.org/wiki/終之空 "wikilink")》為止前是にのみー隊長）。
 「」名稱取自於「」（化學）、「」（邏輯）、「Question」（問題）的第一個字。
 
 製作的遊戲具獨特的世界觀，有許多濃厚的支持玩家。
@@ -10,7 +10,7 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
 
 ### KeroQ
 
-  - 1999年8月27日 - [終之空](../Page/終之空.md "wikilink")（）
+  - 1999年8月27日 - [終之空](https://zh.wikipedia.org/wiki/終之空 "wikilink")（）
   - 2000年11月30日 -
   - 2001年11月30日 - 二重箱
   - 2003年1月31日 -
@@ -29,7 +29,8 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
     another</span>](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")
   - 2008年9月26日 - [Supreme Candy](../Page/Supreme_Candy.md "wikilink")（）
   - 2011年7月29日 - [倏然之間戀上你](../Page/倏然之間戀上你.md "wikilink")（）
-  - 2013年3月29日 - [向日葵的教会与长夏假期](../Page/向日葵的教会与长夏假期.md "wikilink")（）
+  - 2013年3月29日 -
+    [向日葵的教会与长夏假期](https://zh.wikipedia.org/wiki/向日葵的教会与长夏假期 "wikilink")（）
   - 2015年10月23日 - [櫻之詩](../Page/櫻之詩.md "wikilink")（）
 
 ### PetitKeroQ
@@ -44,7 +45,7 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
 
   - 製作人、劇本：SCA-自
   - 製作指揮：いいださとみ
-  - 原畫、美工：SCA-自、基4%、硯、籠目（かごめ）、砌煉炭、[梱枝りこ](../Page/梱枝りこ.md "wikilink")、日比野翔、NAKAM、たけぽにあん
+  - 原畫、美工：SCA-自、基4%、硯、籠目（かごめ）、砌煉炭、[梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")、日比野翔、NAKAM、たけぽにあん
   - 程式腳本：貓基地
   - 雜務：貓基地、コブライカ
 
@@ -58,7 +59,7 @@ Moonphase股份有限公司旗下除了KeroQ之外，還持有[枕](../Page/枕_
 ### 離職員工
 
   - 原畫：にのみー隊長、2C＝がろあ～、月音（）
-  - 美工：ひなたひかげ、[深森](../Page/水澤深森.md "wikilink")（）
+  - 美工：ひなたひかげ、[深森](https://zh.wikipedia.org/wiki/水澤深森 "wikilink")（）
   - 程式：プログラム体操
 
 ## 参考文献

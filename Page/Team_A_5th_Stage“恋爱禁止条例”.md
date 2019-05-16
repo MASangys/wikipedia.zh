@@ -1,5 +1,5 @@
 **Team A 5th
-Stage「恋愛禁止条例」**（）是日本女子[偶像團體](../Page/日本偶像.md "wikilink")[AKB48的](../Page/AKB48.md "wikilink")[劇場公演曲目之一](../Page/AKB48劇場公演.md "wikilink")，是第一個分隊Team
+Stage「恋愛禁止条例」**（）是日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48的](../Page/AKB48.md "wikilink")[劇場公演曲目之一](../Page/AKB48劇場公演.md "wikilink")，是第一個分隊Team
 A的第5台公演曲目。
 
 本條目也记述了AKB48研究生公演的相关事项及之后其他团体上演这一场公演的情况，同时也包括了本次公演发行的CD、DVD及microSD的情况。
@@ -10,7 +10,7 @@ A的第5台公演曲目。
 A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长的。\[1\]由2010年4月17日起，此公演曲目也用在Team
 研究生的公演中。
 
-2010年5月27日，「恋愛禁止条例」迎来千秋乐公演，并披露了由成员内部问卷决定的惊喜[安可曲](../Page/安可.md "wikilink")——《[裙襬飘飘](../Page/裙襬飘飘.md "wikilink")》（）和《[樱花的花瓣們](../Page/樱花的花瓣們.md "wikilink")》（）。当天剧场的当选倍率达到约128倍，为当时AKB48公演史上最高倍率\[2\]。
+2010年5月27日，「恋愛禁止条例」迎来千秋乐公演，并披露了由成员内部问卷决定的惊喜[安可曲](../Page/安可.md "wikilink")——《[裙襬飘飘](https://zh.wikipedia.org/wiki/裙襬飘飘 "wikilink")》（）和《[樱花的花瓣們](https://zh.wikipedia.org/wiki/樱花的花瓣們 "wikilink")》（）。当天剧场的当选倍率达到约128倍，为当时AKB48公演史上最高倍率\[2\]。
 
 ## 公演内容
 
@@ -66,7 +66,7 @@ A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长�
 
   - 公演期間：2008年10月19日－2010年5月27日
   - 出演成员
-      - [板野友美](../Page/板野友美.md "wikilink")、[大岛麻衣](../Page/大岛麻衣.md "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小嶋阳菜](../Page/小嶋阳菜.md "wikilink")、[佐藤亚美菜](../Page/佐藤亚美菜.md "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高城亚树](../Page/高城亚树.md "wikilink")、[高桥南](../Page/高桥南.md "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤江丽奈](../Page/藤江丽奈.md "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[宮崎美穗以及支援成员](../Page/宮崎美穗.md "wikilink")
+      - [板野友美](../Page/板野友美.md "wikilink")、[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[川崎希](../Page/川崎希.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[小嶋阳菜](https://zh.wikipedia.org/wiki/小嶋阳菜 "wikilink")、[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[篠田麻里子](../Page/篠田麻里子.md "wikilink")、[高城亚树](https://zh.wikipedia.org/wiki/高城亚树 "wikilink")、[高桥南](https://zh.wikipedia.org/wiki/高桥南 "wikilink")（）、[中田千智](../Page/中田千智.md "wikilink")（）、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")（）、[前田敦子](../Page/前田敦子.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（）、[宮崎美穗以及支援成员](../Page/宮崎美穗.md "wikilink")
     <!-- end list -->
       -
 
@@ -80,13 +80,13 @@ A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长�
       - 恋愛禁止条例（高桥、峯岸、宫崎）
       - 傲娇女生（板野、北原、佐藤亞）
       - 盛夏的圣诞玫瑰（篠田、佐藤由、中田、研究生）
-          - 研究生角色由[小原春香](../Page/小原春香.md "wikilink")、[村中聰美](../Page/村中聰美.md "wikilink")、[野中美乡等人負責](../Page/野中美乡.md "wikilink")。
+          - 研究生角色由[小原春香](../Page/小原春香.md "wikilink")、[村中聰美](https://zh.wikipedia.org/wiki/村中聰美 "wikilink")、[野中美乡等人負責](https://zh.wikipedia.org/wiki/野中美乡 "wikilink")。
 
 ## AKB48 Team 研究生 「恋愛禁止条例」公演
 
   - 公演期間：2010年4月17日－2010年6月18日
   - 出演成员
-      - [石黑貴己](../Page/石黑貴己.md "wikilink")、（）、[大場美奈](../Page/大場美奈.md "wikilink")、[絹本桃子](../Page/絹本桃子.md "wikilink")、[佐野友里子](../Page/佐野友里子.md "wikilink")、[島崎遥香](../Page/島崎遥香.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[高松恵理](../Page/高松恵理.md "wikilink")、[竹内美宥](../Page/竹内美宥.md "wikilink")、[永尾玛利亚](../Page/永尾玛利亚.md "wikilink")（）、[中村麻里子](../Page/中村麻里子.md "wikilink")、[藤本紗羅](../Page/藤本紗羅.md "wikilink")、[森杏奈](../Page/森杏奈.md "wikilink")、[山内鈴蘭](../Page/山内鈴蘭.md "wikilink")、[横山由依](../Page/横山由依.md "wikilink")、支援成员
+      - [石黑貴己](../Page/石黑貴己.md "wikilink")、（）、[大場美奈](../Page/大場美奈.md "wikilink")、[絹本桃子](https://zh.wikipedia.org/wiki/絹本桃子 "wikilink")、[佐野友里子](https://zh.wikipedia.org/wiki/佐野友里子 "wikilink")、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[高松恵理](https://zh.wikipedia.org/wiki/高松恵理 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[永尾玛利亚](https://zh.wikipedia.org/wiki/永尾玛利亚 "wikilink")（）、[中村麻里子](../Page/中村麻里子.md "wikilink")、[藤本紗羅](../Page/藤本紗羅.md "wikilink")、[森杏奈](../Page/森杏奈.md "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")、支援成员
     <!-- end list -->
       -
 
@@ -103,22 +103,23 @@ A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长�
 
 ## JKT48 Team J 1st Stage「恋愛禁止条例」公演
 
-  - [印度尼西亚语的公演名称是](../Page/印度尼西亚语.md "wikilink")「Aturan Anti Cinta」
+  - [印度尼西亚语的公演名称是](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")「Aturan
+    Anti Cinta」
 
 <!-- end list -->
 
   - 公演期間：2012年12月26日 - 2013年12月28日
   - 出演成员（初日演出）
-      - [Aki Takajo](../Page/高城亚树.md "wikilink"), Ayana Shahab, Beby
-        Chaesara Anadila, Cindy Gulla, Delima Rizky, Devi Kinal Putri,
-        Diasta Priswarini, Frieska Anastasia Laksani, Gabriela Margareth
-        Warouw, Ghaida Farisya, [Haruka
-        Nakagawa](../Page/仲川遥香.md "wikilink"), Jessica Vania,
-        Jessica Veranda Tanumihardja, Melody Nurramdhani Laksani,
-        Nabilah Ratna Ayu Azalia, [Rena
-        Nozawa](../Page/野泽玲奈.md "wikilink"), Rezky Wiranti
-        Dhike, Rica Leyona, Sendy Ariani, Shania Junianatha, Sonia
-        Natalia, Sonya Pandarmawan, Stella Cornelia
+      - [Aki Takajo](https://zh.wikipedia.org/wiki/高城亚树 "wikilink"),
+        Ayana Shahab, Beby Chaesara Anadila, Cindy Gulla, Delima Rizky,
+        Devi Kinal Putri, Diasta Priswarini, Frieska Anastasia Laksani,
+        Gabriela Margareth Warouw, Ghaida Farisya, [Haruka
+        Nakagawa](../Page/仲川遥香.md "wikilink"), Jessica Vania, Jessica
+        Veranda Tanumihardja, Melody Nurramdhani Laksani, Nabilah Ratna
+        Ayu Azalia, [Rena
+        Nozawa](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink"),
+        Rezky Wiranti Dhike, Rica Leyona, Sendy Ariani, Shania
+        Junianatha, Sonia Natalia, Sonya Pandarmawan, Stella Cornelia
 
 <!-- end list -->
 
@@ -165,7 +166,7 @@ A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长�
   - 公演期間：2014年4月24日\[4\] - 2015年8月23日\[5\]
   - 出演成员
       -
-        [市川愛美](../Page/市川愛美.md "wikilink")、[入山杏奈](../Page/入山杏奈.md "wikilink")、[岩田華怜](../Page/岩田華怜.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[川荣李奈](../Page/川荣李奈.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[島崎遥香](../Page/島崎遥香.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[田北香世子](../Page/田北香世子.md "wikilink")、[達家真姫宝](../Page/達家真姫宝.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](../Page/西山怜那.md "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[前田亚美](../Page/前田亚美.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[武藤十夢](../Page/武藤十夢.md "wikilink")、[森川彩香](../Page/森川彩香.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")
+        [市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、[入山杏奈](../Page/入山杏奈.md "wikilink")、[岩田華怜](../Page/岩田華怜.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[川荣李奈](https://zh.wikipedia.org/wiki/川荣李奈 "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[田北香世子](https://zh.wikipedia.org/wiki/田北香世子 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](https://zh.wikipedia.org/wiki/西山怜那 "wikilink")、[藤田奈那](../Page/藤田奈那.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[前田亚美](https://zh.wikipedia.org/wiki/前田亚美 "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")、[森川彩香](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")
   - 《永恒之光》的独唱部分由高桥南担任。高橋南休演时则由片山阳加、武藤十梦、饭野雅担任。
   - 分组曲担当（◎代表center） （各曲各位置出演的成员有多种选择）
 
@@ -252,7 +253,7 @@ A时隔约1年半的新公演，也是當時AKB48的剧场公演中历时最长�
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
 1.  這個記錄後來被由2010年3月12日開始的[TeamK 6th
-    Stage「RESET」刷新](../Page/TeamK_6th_Stage「RESET」.md "wikilink")。
+    Stage「RESET」刷新](https://zh.wikipedia.org/wiki/TeamK_6th_Stage「RESET」 "wikilink")。
 2.  截止2015年12月现在，AKB48剧场内抽选倍率最高的公演是2012年8月27日的“前田敦子卒業公演”，倍率为916.36倍。
 3.
 4.

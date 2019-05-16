@@ -1,4 +1,4 @@
-**《Passion》**是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")6張個人音樂專輯，於2006年4月13日推出；隨碟附送六張postcard。
+**《Passion》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")6張個人音樂專輯，於2006年4月13日推出；隨碟附送六張postcard。
 
 ## 曲目列表
 

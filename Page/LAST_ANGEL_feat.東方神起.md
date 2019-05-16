@@ -1,5 +1,5 @@
 「**LAST ANGEL
-feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")38th[單曲](../Page/單曲.md "wikilink")。
+feat.東方神起**」為2007年11月7日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未第](../Page/倖田來未.md "wikilink")38th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 附註
 

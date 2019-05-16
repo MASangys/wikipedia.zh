@@ -1,6 +1,6 @@
-Picnik是一家提供在线图片编辑服务的网站，其总部位于[美国](../Page/美国.md "wikilink")[西雅图](../Page/西雅图.md "wikilink")。\[1\]用户能够从[Facebook](../Page/Facebook.md "wikilink")、[Myspace](../Page/Myspace.md "wikilink")、[Picasa
+Picnik是一家提供在线图片编辑服务的网站，其总部位于[美国](../Page/美国.md "wikilink")[西雅图](https://zh.wikipedia.org/wiki/西雅图 "wikilink")。\[1\]用户能够从[Facebook](../Page/Facebook.md "wikilink")、[Myspace](../Page/Myspace.md "wikilink")、[Picasa
 Web
-Albums與](../Page/Picasa_Web_Albums.md "wikilink")[Flickr等网站或者从本地导入或上传图片进行编辑](../Page/Flickr.md "wikilink")。
+Albums與](https://zh.wikipedia.org/wiki/Picasa_Web_Albums "wikilink")[Flickr等网站或者从本地导入或上传图片进行编辑](../Page/Flickr.md "wikilink")。
 
 Picnik提供许多免费的照片编辑基本功能，其包含更多编辑功能的高级版可以按月收费、每半年收费和按年收费。
 

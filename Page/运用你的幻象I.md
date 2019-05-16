@@ -1,6 +1,6 @@
 《**运用你的幻想 I**》（英文《**Use Your Illusion I**》）是美国硬摇滚乐队Guns N'
 Roses的第三张摇滚专辑，在1991年9月17日发行，与《**[Use Your Illusion
-II](../Page/Use_Your_Illusion_II.md "wikilink")》**同时发行。
+II](https://zh.wikipedia.org/wiki/Use_Your_Illusion_II "wikilink")》**同时发行。
 
 ## 曲目
 

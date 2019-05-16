@@ -1,10 +1,10 @@
 《**機關槍連續掃射 -Mr.Children
-Bootleg-**》（[日語](../Page/日語.md "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")12張[單曲](../Page/單曲.md "wikilink")。1996年8月8日發行。
+Bootleg-**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年8月8日發行。
 
 ## 簡介
 
 原先是同年6月發行的原創[音樂專輯](../Page/音樂專輯.md "wikilink")《[深海](../Page/深海_\(專輯\).md "wikilink")》的曲目《機關槍連續掃射》，由於較受歡迎而決定以single-cut的形式發行獨立單曲，而且加上「Mr.Children
-Bootleg」的副標題，「Bootleg」即「[未經授權的現場錄音](../Page/未經授權的現場錄音.md "wikilink")」之意，不等於盜版。
+Bootleg」的副標題，「Bootleg」即「[未經授權的現場錄音](https://zh.wikipedia.org/wiki/未經授權的現場錄音 "wikilink")」之意，不等於盜版。
 
 以當時十分罕見的12cm CD形式發行。
 

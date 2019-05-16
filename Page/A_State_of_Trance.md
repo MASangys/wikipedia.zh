@@ -90,33 +90,33 @@ Radio Classic，并且解释为什么会是经典。一般来说会在节目最�
 Armin van Buuren也会定期发布双料CD“A State of Trance”合辑，包括有：
 
   - [A State of Trance
-    2004](../Page/A_State_of_Trance_2004.md "wikilink")
+    2004](https://zh.wikipedia.org/wiki/A_State_of_Trance_2004 "wikilink")
   - [A State of Trance
-    2005](../Page/A_State_of_Trance_2005.md "wikilink")
+    2005](https://zh.wikipedia.org/wiki/A_State_of_Trance_2005 "wikilink")
   - [A State of Trance
-    2006](../Page/A_State_of_Trance_2006.md "wikilink")
+    2006](https://zh.wikipedia.org/wiki/A_State_of_Trance_2006 "wikilink")
   - [A State of Trance
-    2007](../Page/A_State_of_Trance_2007.md "wikilink")
+    2007](https://zh.wikipedia.org/wiki/A_State_of_Trance_2007 "wikilink")
   - [A State of Trance
-    2008](../Page/A_State_of_Trance_2008.md "wikilink")
+    2008](https://zh.wikipedia.org/wiki/A_State_of_Trance_2008 "wikilink")
   - [A State of Trance
-    2009](../Page/A_State_of_Trance_2009.md "wikilink")
+    2009](https://zh.wikipedia.org/wiki/A_State_of_Trance_2009 "wikilink")
   - [A State of Trance
-    2010](../Page/A_State_of_Trance_2010.md "wikilink")
+    2010](https://zh.wikipedia.org/wiki/A_State_of_Trance_2010 "wikilink")
   - [A State of Trance
-    2011](../Page/A_State_of_Trance_2011.md "wikilink")
+    2011](https://zh.wikipedia.org/wiki/A_State_of_Trance_2011 "wikilink")
   - [A State of Trance
-    2012](../Page/A_State_of_Trance_2012.md "wikilink")
+    2012](https://zh.wikipedia.org/wiki/A_State_of_Trance_2012 "wikilink")
   - [A State of Trance
-    2013](../Page/A_State_of_Trance_2013.md "wikilink")
+    2013](https://zh.wikipedia.org/wiki/A_State_of_Trance_2013 "wikilink")
   - [A State of Trance
-    2014](../Page/A_State_of_Trance_2014.md "wikilink")
+    2014](https://zh.wikipedia.org/wiki/A_State_of_Trance_2014 "wikilink")
   - [A State of Trance
-    2015](../Page/A_State_of_Trance_2015.md "wikilink")
+    2015](https://zh.wikipedia.org/wiki/A_State_of_Trance_2015 "wikilink")
   - [A State of Trance
-    2016](../Page/A_State_of_Trance_2016.md "wikilink")
+    2016](https://zh.wikipedia.org/wiki/A_State_of_Trance_2016 "wikilink")
   - [A State of Trance
-    2017](../Page/A_State_of_Trance_2017.md "wikilink")
+    2017](https://zh.wikipedia.org/wiki/A_State_of_Trance_2017 "wikilink")
 
 另一套限定的4CD非混音合辑叫做“A State of Trance Classics”，包括有“A State of Trance
 Classics 2007”，“A State of Trance Classics Vol. 3”，“A State of Trance
@@ -126,8 +126,8 @@ Classics Vol. 4”等等。这些合辑包含了未剪辑，全长度以及一�
 
 由于ASOT的巨大成功，一些trance系的广播电台也逐渐开始兴起，和Armin的ASOT开始竞争，但是都包括一些诸如观众最爱和每周最赞等相同的元素在里面。比如有的,
 的[Global DJ
-Broadcast和](../Page/Global_DJ_Broadcast.md "wikilink")的[Corsten's
-Countdown以及](../Page/Corsten's_Countdown.md "wikilink")[Tiësto的](../Page/提雅斯多.md "wikilink")。
+Broadcast和](https://zh.wikipedia.org/wiki/Global_DJ_Broadcast "wikilink")的[Corsten's
+Countdown以及](https://zh.wikipedia.org/wiki/Corsten's_Countdown "wikilink")[Tiësto的](../Page/提雅斯多.md "wikilink")。
 
 ## 参考
 

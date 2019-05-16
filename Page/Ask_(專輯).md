@@ -31,14 +31,14 @@
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>Ask</p></td>
-<td><p><a href="../Page/Kumata_Akinori.md" title="wikilink">Kumata Akinori</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kumata_Akinori" title="wikilink">Kumata Akinori</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
 <td><p>情熱之間</p></td>
-<td><p><a href="../Page/李偉安.md" title="wikilink">李偉安</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李偉安" title="wikilink">李偉安</a></p></td>
 <td><p><a href="../Page/陳司翰.md" title="wikilink">陳司翰</a></p></td>
 <td></td>
 </tr>
@@ -70,10 +70,10 @@
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>Ask</p></td>
-<td><p><a href="../Page/Kumata_Akinori.md" title="wikilink">Kumata Akinori</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kumata_Akinori" title="wikilink">Kumata Akinori</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td></td>
-<td><p><a href="../Page/Takashi_Ashizawa.md" title="wikilink">Takashi Ashizawa</a>、<a href="../Page/Taka_Watanabe.md" title="wikilink">Taka Watanabe</a>、<a href="../Page/Gary_Chan.md" title="wikilink">Gary Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Takashi_Ashizawa" title="wikilink">Takashi Ashizawa</a>、<a href="https://zh.wikipedia.org/wiki/Taka_Watanabe" title="wikilink">Taka Watanabe</a>、<a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>
 <td><p><strong>第一主打</strong><br />
 日語版《<a href="../Page/Ask_(陳慧琳單曲).md" title="wikilink">Ask</a>》<br />
 原名《社會的錯》[1]</p></td>
@@ -99,9 +99,9 @@
 <tr class="even">
 <td><p>05</p></td>
 <td><p>情熱之間</p></td>
-<td><p><a href="../Page/李偉安.md" title="wikilink">李偉安</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李偉安" title="wikilink">李偉安</a></p></td>
 <td><p><a href="../Page/陳司翰.md" title="wikilink">陳司翰</a></p></td>
-<td><p><a href="../Page/褚鎮東.md" title="wikilink">褚鎮東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/褚鎮東" title="wikilink">褚鎮東</a></p></td>
 <td><p><a href="../Page/趙增熹.md" title="wikilink">趙增熹</a></p></td>
 <td></td>
 </tr>
@@ -119,8 +119,8 @@
 <td><p>好心害了你</p></td>
 <td><p><a href="../Page/吳國敬.md" title="wikilink">吳國敬</a></p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
-<td><p><a href="../Page/Billy_Chan.md" title="wikilink">Billy Chan</a></p></td>
-<td><p><a href="../Page/Gary_Chan.md" title="wikilink">Gary Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Billy_Chan" title="wikilink">Billy Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -135,17 +135,17 @@
 <tr class="even">
 <td><p>09</p></td>
 <td><p>迴旋木馬</p></td>
-<td><p><a href="../Page/Gary_Chan.md" title="wikilink">Gary Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>
 <td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
-<td><p><a href="../Page/Gary_Chan.md" title="wikilink">Gary Chan</a></p></td>
-<td><p><a href="../Page/Gary_Chan.md" title="wikilink">Gary Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gary_Chan" title="wikilink">Gary Chan</a></p></td>
 <td><p><strong>第四主打</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>如果我們在戀愛</p></td>
 <td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
-<td><p><a href="../Page/黃偉文.md" title="wikilink">黃偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
 <td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p><strong>第三主打</strong></p></td>

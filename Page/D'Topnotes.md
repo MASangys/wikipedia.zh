@@ -1,5 +1,5 @@
-**D'Topnotes**是[香港一隊](../Page/香港.md "wikilink")[六十年代的](../Page/六十年代.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")，初期由[Christine
-Samson](../Page/Christine_Samson.md "wikilink")﹝洛詩婷﹞、Vikki
+**D'Topnotes**是[香港一隊](../Page/香港.md "wikilink")[六十年代的](https://zh.wikipedia.org/wiki/六十年代 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，初期由[Christine
+Samson](https://zh.wikipedia.org/wiki/Christine_Samson "wikilink")﹝洛詩婷﹞、Vikki
 Samson、Michael Samson、結他手Majid
 Rahman和鍵琴手[鍾定一](../Page/鍾定一.md "wikilink") ﹝Danny
 Chung﹞等人組成。
@@ -7,15 +7,15 @@ Chung﹞等人組成。
 ## 簡介
 
 D'Topnotes 主要由Samson家族組成，[Christine
-Samson](../Page/Christine_Samson.md "wikilink")
-是[上海](../Page/上海.md "wikilink")[菲律賓裔著名](../Page/菲律賓.md "wikilink")[樂隊領班及](../Page/樂隊.md "wikilink")[單簧管好手](../Page/單簧管.md "wikilink")[Lobing
-Samson的女兒](../Page/Lobing_Samson.md "wikilink")，在[上海出生](../Page/上海.md "wikilink")\[1\]，及後整個家庭連同弟妹移居[香港](../Page/香港.md "wikilink")，後來在六十年代組成了**D'Topnotes**，簽約[鑽石唱片](../Page/鑽石唱片.md "wikilink")。Christine
-Samson是樂隊的主音、[低音結他手及鍵琴手](../Page/低音結他手.md "wikilink")，其他家庭成員分別為鍵琴手及[鼓手](../Page/鼓手.md "wikilink")，Majid
-Rahman是[結他手](../Page/結他.md "wikilink")，而[鍾定一則為鍵琴手](../Page/鍾定一.md "wikilink")。
+Samson](https://zh.wikipedia.org/wiki/Christine_Samson "wikilink")
+是[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[菲律賓裔著名](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[樂隊領班及](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[單簧管好手](https://zh.wikipedia.org/wiki/單簧管 "wikilink")[Lobing
+Samson的女兒](https://zh.wikipedia.org/wiki/Lobing_Samson "wikilink")，在[上海出生](https://zh.wikipedia.org/wiki/上海 "wikilink")\[1\]，及後整個家庭連同弟妹移居[香港](../Page/香港.md "wikilink")，後來在六十年代組成了**D'Topnotes**，簽約[鑽石唱片](https://zh.wikipedia.org/wiki/鑽石唱片 "wikilink")。Christine
+Samson是樂隊的主音、[低音結他手及鍵琴手](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")，其他家庭成員分別為鍵琴手及[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，Majid
+Rahman是[結他手](https://zh.wikipedia.org/wiki/結他 "wikilink")，而[鍾定一則為鍵琴手](../Page/鍾定一.md "wikilink")。
 
-D'Topnotes演唱過多種語言的作品，包括[英文](../Page/英文.md "wikilink")、[廣東話](../Page/廣東話.md "wikilink")、[普通話](../Page/普通話.md "wikilink")、[西班牙文](../Page/西班牙文.md "wikilink")、[他加祿語及](../Page/他加祿語.md "wikilink")[日文等](../Page/日文.md "wikilink")\[2\]，音樂的種類包括[爵士樂](../Page/爵士樂.md "wikilink")、[靈魂音樂](../Page/靈魂音樂.md "wikilink")、[R\&B](../Page/R&B.md "wikilink")、[樂與怒及地方](../Page/樂與怒.md "wikilink")[民謠](../Page/民謠.md "wikilink")\[3\]，他們的聽眾遍佈[亞洲各地](../Page/亞洲.md "wikilink")、[美國](../Page/美國.md "wikilink")、[加拿大及](../Page/加拿大.md "wikilink")[南美](../Page/南美.md "wikilink")。
+D'Topnotes演唱過多種語言的作品，包括[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")、[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")、[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")、[他加祿語及](../Page/他加祿語.md "wikilink")[日文等](https://zh.wikipedia.org/wiki/日文 "wikilink")\[2\]，音樂的種類包括[爵士樂](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")、[靈魂音樂](https://zh.wikipedia.org/wiki/靈魂音樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[樂與怒及地方](../Page/樂與怒.md "wikilink")[民謠](https://zh.wikipedia.org/wiki/民謠 "wikilink")\[3\]，他們的聽眾遍佈[亞洲各地](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大及](../Page/加拿大.md "wikilink")[南美](https://zh.wikipedia.org/wiki/南美 "wikilink")。
 
-D'Topnotes曾經在七十年代中因為工作理念不同而解散，D'Topnotes的鍵琴手[鍾定一及](../Page/鍾定一.md "wikilink")[結他手Majid](../Page/結他手.md "wikilink")
+D'Topnotes曾經在七十年代中因為工作理念不同而解散，D'Topnotes的鍵琴手[鍾定一及](../Page/鍾定一.md "wikilink")[結他手Majid](https://zh.wikipedia.org/wiki/結他手 "wikilink")
 Rahman，跟[葉振棠](../Page/葉振棠.md "wikilink")、[陳潔靈及兩位外籍樂手Andrew](../Page/陳潔靈.md "wikilink")
 Oh和Roberto Petaccia組成了**The New Topnotes**，\[4\]。Christine Samson和Vicky
 Samson亦組成過**D'Topnotes
@@ -25,11 +25,11 @@ D'Topnotes在1987年正式解散。Christine Samson 跟她兩個妹妹Vikki Sams
 組織了**The Samson Sisters Trio**\[6\]。
 
 Christine Samson
-1998年開始全職教學生，她的學生大部分都是現今歌手，包括[容祖兒](../Page/容祖兒.md "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[何韻詩](../Page/何韻詩.md "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")、[Twins](../Page/Twins.md "wikilink")、[G.E.M.](../Page/G.E.M..md "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")，[TVB前總經理](../Page/TVB.md "wikilink")[陳志雲也曾經跟過Christine](../Page/陳志雲.md "wikilink")
+1998年開始全職教學生，她的學生大部分都是現今歌手，包括[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")、[蘇永康](../Page/蘇永康.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")、[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")、[鄧麗欣](../Page/鄧麗欣.md "wikilink")，[TVB前總經理](https://zh.wikipedia.org/wiki/TVB "wikilink")[陳志雲也曾經跟過Christine](../Page/陳志雲.md "wikilink")
 Samson學習唱歌\[7\]。
 
 Christine Samson於2002年與[Uncle
-Ray合作推出首張個人專輯](../Page/Uncle_Ray.md "wikilink")《Letter
+Ray合作推出首張個人專輯](https://zh.wikipedia.org/wiki/Uncle_Ray "wikilink")《Letter
 To My First Love》\[8\]。Christine Samson的兒子Adam為樂隊[Dear
 Jane前成員](../Page/Dear_Jane.md "wikilink"),
 及地下樂隊[Hardpack的現任結他手](../Page/Hardpack.md "wikilink")。

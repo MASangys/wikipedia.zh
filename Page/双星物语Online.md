@@ -1,11 +1,11 @@
 《**双星物语Online**》（Zwei\!\! Online，
-），是以[日本Falcom公司](../Page/日本Falcom.md "wikilink")2001年开发的[动作角色扮演游戏](../Page/动作角色扮演游戏.md "wikilink")《[双星物语](../Page/双星物语.md "wikilink")》为蓝本，在其授权之下由[韩国](../Page/韩国.md "wikilink")[NEONSOFT与](../Page/NEONSOFT.md "wikilink")[日本](../Page/日本.md "wikilink")[Dimps共同开发的一款](../Page/Dimps.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")。
+），是以[日本Falcom公司](../Page/日本Falcom.md "wikilink")2001年开发的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")《[双星物语](../Page/双星物语.md "wikilink")》为蓝本，在其授权之下由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[NEONSOFT与](https://zh.wikipedia.org/wiki/NEONSOFT "wikilink")[日本](../Page/日本.md "wikilink")[Dimps共同开发的一款](../Page/Dimps.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")。
 
 ## 履历
 
   - 2007年8月 作为日本Falcom旗下第4部被网络化的游戏发布。
   - 2009年2月 韩国[WEMADE
-    Entertainment取得全球发行权](../Page/WEMADE_Entertainment.md "wikilink")。
+    Entertainment取得全球发行权](https://zh.wikipedia.org/wiki/WEMADE_Entertainment "wikilink")。
   - 2009年12月17日 在韩国开始进行首次内测\[1\]。本次测试评价甚低。\[2\]
   - 2010年12月17日 时隔一年在韩国举行第二次内测。\[3\]
   - 2011年3月24日 在韩国举行第三次内测。\[4\]

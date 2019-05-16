@@ -1,5 +1,5 @@
-**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux作業系統](../Page/Linux.md "wikilink")[智慧型手機為目標的組織](../Page/智慧型手機.md "wikilink")。它們所發布的[Linux作業系統平台](../Page/Linux.md "wikilink")，也被稱為[LiMo](../Page/LiMo.md "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](../Page/Motorola.md "wikilink")、[NEC](../Page/NEC.md "wikilink")、[NTT
-DoCoMo](../Page/NTT_DoCoMo.md "wikilink")、[Panasonic](../Page/Panasonic.md "wikilink")、[三星和](../Page/三星電子.md "wikilink")[Vodafone](../Page/Vodafone.md "wikilink")。
+**LiMo基金會**（，名稱來自的縮寫），又稱Linux手機發展基金會，是一個以開發[Linux作業系統](../Page/Linux.md "wikilink")[智慧型手機為目標的組織](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。它們所發布的[Linux作業系統平台](../Page/Linux.md "wikilink")，也被稱為[LiMo](https://zh.wikipedia.org/wiki/LiMo "wikilink")，可以用在手機和其他手持設備之上。創始會員包括[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[NTT
+DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")、[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")、[三星和](../Page/三星電子.md "wikilink")[Vodafone](https://zh.wikipedia.org/wiki/Vodafone "wikilink")。
 
 2012年1月1日，LiMo基金會更名為Tizen協會\[1\]。
 
@@ -18,35 +18,35 @@ LiMo基金會的會員有：
 <tr class="odd">
 <td><h3 id="創始會員">創始會員</h3>
 <ul>
-<li><a href="../Page/NEC_Casio_Mobile_Communications.md" title="wikilink">NEC Casio Mobile Communications</a></li>
-<li><a href="../Page/NTT_docomo.md" title="wikilink">NTT docomo</a></li>
-<li><a href="../Page/Panasonic.md" title="wikilink">Panasonic</a></li>
-<li><a href="../Page/Samsung_Electronics.md" title="wikilink">Samsung Electronics</a></li>
-<li><a href="../Page/Vodafone.md" title="wikilink">Vodafone</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/NEC_Casio_Mobile_Communications" title="wikilink">NEC Casio Mobile Communications</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/NTT_docomo" title="wikilink">NTT docomo</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Panasonic" title="wikilink">Panasonic</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Samsung_Electronics" title="wikilink">Samsung Electronics</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Vodafone" title="wikilink">Vodafone</a></li>
 </ul>
 <h3 id="核心會員">核心會員</h3>
 <ul>
 <li><a href="../Page/愛可信.md" title="wikilink">愛可信</a></li>
-<li><a href="../Page/法國電信.md" title="wikilink">Orange (telecommunications)</a></li>
-<li><a href="../Page/SK_Telecom.md" title="wikilink">SK Telecom</a></li>
-<li><a href="../Page/Telefonica.md" title="wikilink">Telefonica</a></li>
-<li><a href="../Page/Verizon_Wireless.md" title="wikilink">Verizon Wireless</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/法國電信" title="wikilink">Orange (telecommunications)</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/SK_Telecom" title="wikilink">SK Telecom</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Telefonica" title="wikilink">Telefonica</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Verizon_Wireless" title="wikilink">Verizon Wireless</a></li>
 <li><a href="../Page/溫瑞爾系統.md" title="wikilink">溫瑞爾系統</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/ARM_Holdings.md" title="wikilink">ARM Limited</a></li>
-<li><a href="../Page/Adobe_Systems.md" title="wikilink">Adobe</a></li>
-<li><a href="../Page/ETRI.md" title="wikilink">ETRI</a></li>
-<li><a href="../Page/Gemalto.md" title="wikilink">Gemalto</a></li>
-<li><a href="../Page/Huawei.md" title="wikilink">Huawei</a></li>
-<li><a href="../Page/Incross_Limited.md" title="wikilink">Incross Limited</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/ARM_Holdings" title="wikilink">ARM Limited</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Adobe_Systems" title="wikilink">Adobe</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/ETRI" title="wikilink">ETRI</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Gemalto" title="wikilink">Gemalto</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Huawei" title="wikilink">Huawei</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Incross_Limited" title="wikilink">Incross Limited</a></li>
 <li><a href="../Page/KDDI.md" title="wikilink">KDDI</a></li>
-<li><a href="../Page/Marvell_Technology_Group.md" title="wikilink">Marvell</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Marvell_Technology_Group" title="wikilink">Marvell</a></li>
 <li><a href="../Page/Mozilla基金會.md" title="wikilink">Mozilla</a></li>
-<li><a href="../Page/NTT_Data_MSE.md" title="wikilink">NTT Data MSE</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/NTT_Data_MSE" title="wikilink">NTT Data MSE</a></li>
 <li><a href="../Page/瑞薩電子.md" title="wikilink">瑞薩電子</a></li>
-<li><a href="../Page/Softbank.md" title="wikilink">Softbank</a></li>
-<li><a href="../Page/Telecom_Italia.md" title="wikilink">Telecom Italia</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Softbank" title="wikilink">Softbank</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Telecom_Italia" title="wikilink">Telecom Italia</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -67,56 +67,56 @@ LiMo基金會的會員有：
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="../Page/Vodafone_360_H1.md" title="wikilink">Vodafone 360 H1</a></li>
-<li><a href="../Page/Vodafone_360_M1.md" title="wikilink">Vodafone 360 M1</a></li>
-<li><a href="../Page/Samsung_SCH-M510.md" title="wikilink">Samsung SCH-M510</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Vodafone_360_H1" title="wikilink">Vodafone 360 H1</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Vodafone_360_M1" title="wikilink">Vodafone 360 M1</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Samsung_SCH-M510" title="wikilink">Samsung SCH-M510</a></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-01A.md" title="wikilink">docomo PRIME seriesTM N-01A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-02A.md" title="wikilink">docomo STYLE seriesTM N-02A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-03A.md" title="wikilink">docomo STYLE seriesTM N-03A</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_N-04A.md" title="wikilink">docomo SMART seriesTM N-04A</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-06A.md" title="wikilink">docomo PRIME seriesTM N-06A</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-07A.md" title="wikilink">docomo PRIME seriesTM N-07A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-08A.md" title="wikilink">docomo STYLE seriesTM N-08A</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_N-09A.md" title="wikilink">docomo SMART seriesTM N-09A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-01B.md" title="wikilink">docomo STYLE seriesTM N-01B</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-02B.md" title="wikilink">docomo PRIME seriesTM N-02B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-03B.md" title="wikilink">docomo STYLE seriesTM N-03B</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-04B.md" title="wikilink">docomo PRIME seriesTM N-04B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-05B.md" title="wikilink">docomo STYLE seriesTM N-05B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-06B.md" title="wikilink">docomo STYLE seriesTM N-06B</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_N-07B.md" title="wikilink">docomo SMART seriesTM N-07B</a></li>
-<li><a href="../Page/docomo_PRO_seriesTM_N-08B.md" title="wikilink">docomo PRO seriesTM N-08B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-01C.md" title="wikilink">docomo STYLE seriesTM N-01C</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_N-02C.md" title="wikilink">docomo STYLE seriesTM N-02C</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_N-03C.md" title="wikilink">docomo PRIME seriesTM N-03C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-01A" title="wikilink">docomo PRIME seriesTM N-01A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-02A" title="wikilink">docomo STYLE seriesTM N-02A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-03A" title="wikilink">docomo STYLE seriesTM N-03A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_N-04A" title="wikilink">docomo SMART seriesTM N-04A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-06A" title="wikilink">docomo PRIME seriesTM N-06A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-07A" title="wikilink">docomo PRIME seriesTM N-07A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-08A" title="wikilink">docomo STYLE seriesTM N-08A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_N-09A" title="wikilink">docomo SMART seriesTM N-09A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-01B" title="wikilink">docomo STYLE seriesTM N-01B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-02B" title="wikilink">docomo PRIME seriesTM N-02B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-03B" title="wikilink">docomo STYLE seriesTM N-03B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-04B" title="wikilink">docomo PRIME seriesTM N-04B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-05B" title="wikilink">docomo STYLE seriesTM N-05B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-06B" title="wikilink">docomo STYLE seriesTM N-06B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_N-07B" title="wikilink">docomo SMART seriesTM N-07B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRO_seriesTM_N-08B" title="wikilink">docomo PRO seriesTM N-08B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-01C" title="wikilink">docomo STYLE seriesTM N-01C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_N-02C" title="wikilink">docomo STYLE seriesTM N-02C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_N-03C" title="wikilink">docomo PRIME seriesTM N-03C</a></li>
 <li>N706ie</li>
 <li>N905iμ</li>
 <li>N705i</li>
 <li>N905i</li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/docomo_PRIME_seriesTM_P-01A.md" title="wikilink">docomo PRIME seriesTM P-01A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-02A.md" title="wikilink">docomo STYLE seriesTM P-02A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-03A.md" title="wikilink">docomo STYLE seriesTM P-03A</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_P-04A.md" title="wikilink">docomo SMART seriesTM P-04A</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_P-05A.md" title="wikilink">docomo SMART seriesTM P-05A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-06A.md" title="wikilink">docomo STYLE seriesTM P-06A</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_P-07A.md" title="wikilink">docomo PRIME seriesTM P-07A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-08A.md" title="wikilink">docomo STYLE seriesTM P-08A</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_P-09A.md" title="wikilink">docomo SMART seriesTM P-09A</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-10A.md" title="wikilink">docomo STYLE seriesTM P-10A</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_P-01B.md" title="wikilink">docomo PRIME seriesTM P-01B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-02B.md" title="wikilink">docomo STYLE seriesTM P-02B</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_P-03B.md" title="wikilink">docomo SMART seriesTM P-03B</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_P-04B.md" title="wikilink">docomo PRIME seriesTM P-04B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-05B.md" title="wikilink">docomo STYLE seriesTM P-05B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-06B.md" title="wikilink">docomo STYLE seriesTM P-06B</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-07B.md" title="wikilink">docomo STYLE seriesTM P-07B</a></li>
-<li><a href="../Page/docomo_SMART_seriesTM_P-01C.md" title="wikilink">docomo SMART seriesTM P-01C</a></li>
-<li><a href="../Page/docomo_STYLE_seriesTM_P-02C.md" title="wikilink">docomo STYLE seriesTM P-02C</a></li>
-<li><a href="../Page/docomo_PRIME_seriesTM_P-03C.md" title="wikilink">docomo PRIME seriesTM P-03C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_P-01A" title="wikilink">docomo PRIME seriesTM P-01A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-02A" title="wikilink">docomo STYLE seriesTM P-02A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-03A" title="wikilink">docomo STYLE seriesTM P-03A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_P-04A" title="wikilink">docomo SMART seriesTM P-04A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_P-05A" title="wikilink">docomo SMART seriesTM P-05A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-06A" title="wikilink">docomo STYLE seriesTM P-06A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_P-07A" title="wikilink">docomo PRIME seriesTM P-07A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-08A" title="wikilink">docomo STYLE seriesTM P-08A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_P-09A" title="wikilink">docomo SMART seriesTM P-09A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-10A" title="wikilink">docomo STYLE seriesTM P-10A</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_P-01B" title="wikilink">docomo PRIME seriesTM P-01B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-02B" title="wikilink">docomo STYLE seriesTM P-02B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_P-03B" title="wikilink">docomo SMART seriesTM P-03B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_P-04B" title="wikilink">docomo PRIME seriesTM P-04B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-05B" title="wikilink">docomo STYLE seriesTM P-05B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-06B" title="wikilink">docomo STYLE seriesTM P-06B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-07B" title="wikilink">docomo STYLE seriesTM P-07B</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_SMART_seriesTM_P-01C" title="wikilink">docomo SMART seriesTM P-01C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_STYLE_seriesTM_P-02C" title="wikilink">docomo STYLE seriesTM P-02C</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/docomo_PRIME_seriesTM_P-03C" title="wikilink">docomo PRIME seriesTM P-03C</a></li>
 <li>P706ie</li>
 <li>P705i</li>
 <li>P905i</li>
@@ -129,7 +129,7 @@ LiMo基金會的會員有：
 
 ## LiMo基金會和Tizen
 
-2011年9月，[Linux基金會宣布將開發](../Page/Linux基金會.md "wikilink")[Tizen專案](../Page/Tizen.md "wikilink")，用以取代先前的[MeeGo](../Page/MeeGo.md "wikilink")，並在2012年第一季釋出第一版。這個專案的主要推動者為[英特爾與](../Page/英特爾.md "wikilink")[三星電子](../Page/三星電子.md "wikilink")，他們將LiMo基金會整合進入[Tizen專案之中](../Page/Tizen.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。截至2012年10月，LiMo基金會官方網站被重定向到tizen.org。
+2011年9月，[Linux基金會宣布將開發](../Page/Linux基金會.md "wikilink")[Tizen專案](../Page/Tizen.md "wikilink")，用以取代先前的[MeeGo](../Page/MeeGo.md "wikilink")，並在2012年第一季釋出第一版。這個專案的主要推動者為[英特爾與](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[三星電子](../Page/三星電子.md "wikilink")，他們將LiMo基金會整合進入[Tizen專案之中](../Page/Tizen.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。截至2012年10月，LiMo基金會官方網站被重定向到tizen.org。
 
 ## 相關條目
 

@@ -1,6 +1,6 @@
-**八氟合氙(VI)酸亚硝酰**（），是由[亚硝酰离子](../Page/亚硝酰离子.md "wikilink")（NO<sup>+</sup>）与八[氟合](../Page/氟.md "wikilink")[氙](../Page/氙.md "wikilink")(VI)酸根离子（XeF<sub>8</sub><sup>2−</sup>）结合而成的化合物。其中
+**八氟合氙(VI)酸亚硝酰**（），是由[亚硝酰离子](https://zh.wikipedia.org/wiki/亚硝酰离子 "wikilink")（NO<sup>+</sup>）与八[氟合](../Page/氟.md "wikilink")[氙](../Page/氙.md "wikilink")(VI)酸根离子（XeF<sub>8</sub><sup>2−</sup>）结合而成的化合物。其中
 XeF<sub>8</sub><sup>2−</sup>
-离子为[方形反稜柱分子構型](../Page/方形反稜柱分子構型.md "wikilink")，Xe-F
+离子为[方形反稜柱分子構型](https://zh.wikipedia.org/wiki/方形反稜柱分子構型 "wikilink")，Xe-F
 键长分别为 1.971 Å、1.946 Å、1.958 Å、2.052 Å 和 2.099
 Å。\[1\]它可通过[六氟化氙与](../Page/六氟化氙.md "wikilink")[亚硝酰氟反应制取](../Page/亚硝酰氟.md "wikilink")。\[2\]
 

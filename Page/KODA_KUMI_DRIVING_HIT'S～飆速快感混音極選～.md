@@ -1,10 +1,10 @@
 「**KODA KUMI DRIVING
-HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張](../Page/倖田來未.md "wikilink")[混音](../Page/混音.md "wikilink")[專輯](../Page/專輯.md "wikilink")。
+HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")・[倖田來未的首張](../Page/倖田來未.md "wikilink")[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 附註
 
   - 倖田首張的混音專輯。請來了豪華陣容｢[HOUSE
-    NATION](../Page/HOUSE_NATION.md "wikilink")｣來進行混音錄製。
+    NATION](https://zh.wikipedia.org/wiki/HOUSE_NATION "wikilink")｣來進行混音錄製。
 
 ## 曲目
 
@@ -20,9 +20,10 @@ HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](
 6.  **BUT (MITOMI TOKOTO BIG ROOM REMIX)**
 7.  **Get Up\&Move\!\! (Pink Chameleons Remix)**
       -
-        5th專輯『[Black Cherry](../Page/黑色櫻桃.md "wikilink")』收錄。
+        5th專輯『[Black
+        Cherry](https://zh.wikipedia.org/wiki/黑色櫻桃 "wikilink")』收錄。
         [音樂錄影帶則收錄於](../Page/音樂錄影帶.md "wikilink")『[BEST 〜BOUNCE &
-        LOVERS〜](../Page/BEST_〜BOUNCE_&_LOVERS〜影音雙體驗～媚影_&_情歌極選～.md "wikilink")』。
+        LOVERS〜](https://zh.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜影音雙體驗～媚影_&_情歌極選～ "wikilink")』。
 8.  **Butterfly (Prog5 Mirrorball Remix)**
 9.  **キューティーハニー（甜心戰士） (HOUSE NATION Sunset In Ibiza Remix)**
 10. **TABOO (HOUSE NATION Sunset In Ibiza Remix)**
@@ -40,7 +41,7 @@ HIT'S**」（飆速快感混音極選～）於2009年3月25日發行之[日本](
 16. **TAKE BACK（原來的我） (Sunset In Ibiza Remix)**
 17. **Driving**
       -
-        7th專輯『[TRICK](../Page/TRICK_魔幻把戲.md "wikilink")』收錄曲。
+        7th專輯『[TRICK](https://zh.wikipedia.org/wiki/TRICK_魔幻把戲 "wikilink")』收錄曲。
 
 ## 相關條目
 

@@ -1,20 +1,20 @@
 CryENGINE
-3是一款由[Crytek開發的次世代](../Page/Crytek.md "wikilink")[遊戲引擎](../Page/遊戲引擎.md "wikilink")，來自於《[末日之戰](../Page/末日之戰.md "wikilink")》（Crysis）使用的[CryENGINE
+3是一款由[Crytek開發的次世代](../Page/Crytek.md "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，來自於《[末日之戰](https://zh.wikipedia.org/wiki/末日之戰 "wikilink")》（Crysis）使用的[CryENGINE
 2引擎的升級版](../Page/CryENGINE_2.md "wikilink")。目前使用此引擎的遊戲為[Crytek所開發的](../Page/Crytek.md "wikilink")《[末日之戰2](../Page/末日之戰2.md "wikilink")》（Crysis
 2）。這個新遊戲引擎可用開發於[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[PlayStation
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4](../Page/PlayStation_4.md "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 One及](../Page/Xbox_One.md "wikilink")[Xbox
 360等平台遊戲上](../Page/Xbox_360.md "wikilink")，並也是 CryENGINE
-系列引擎首次支持[家用遊戲機平臺](../Page/遊戲機.md "wikilink")。
+系列引擎首次支持[家用遊戲機平臺](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")。
 
 ## 引擎授权
 
 CryENGINE
 3引擎不單只是用作授权游戏开发工作室开发游戏，還大量授权给不同企業，例如學校、建築公司、醫院、一些视觉公司和个人使用等，而免费授权應引擎將是高等教育机构，例如大學學校或一些技術學校等，其如其他厂商業界要授权使用可购买該引擎，而个人使用可登陆新开通的专门网站[MyCryEngine](http://www.mycryengine.com)，首先注册，然后签署并提交保密协议和评估授权协议，就可以得到相应的软件授权拷贝，包括全部相关API和源代码资源。
 
-該引擎已授权給一些其他國家的遊戲開發厂商用作開發遊戲，現已知其他國家遊戲開發厂的國家例如：[中國](../Page/中國.md "wikilink")、[俄羅斯和](../Page/俄羅斯.md "wikilink")[韓國等](../Page/韓國.md "wikilink")，被授权了的遊戲開發工作室開發遊戲的類型，比較多的是大型多人在线[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。
+該引擎已授权給一些其他國家的遊戲開發厂商用作開發遊戲，現已知其他國家遊戲開發厂的國家例如：[中國](../Page/中國.md "wikilink")、[俄羅斯和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[韓國等](https://zh.wikipedia.org/wiki/韓國 "wikilink")，被授权了的遊戲開發工作室開發遊戲的類型，比較多的是大型多人在线[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。
 
 **Crytek公司已經提供了三种授权方式：**
 
@@ -92,7 +92,7 @@ multiprocessing）和超執行緒（Hyper-threading，HT）。CryENGINE
   - 性能分析工具
   - 沙盤編輯器發展圖層
   - 法線貼圖
-  - [光线跟踪技术](../Page/光线跟踪.md "wikilink")
+  - [光线跟踪技术](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")
   - 資源編輯器
   - 使用資料驅動的音效系統
   - 可在遊戲中開啟性能分析工具
@@ -104,37 +104,41 @@ multiprocessing）和超執行緒（Hyper-threading，HT）。CryENGINE
 
 ## 應用遊戲
 
-  - [ASTA](../Page/ASTA.md "wikilink") - 由Polygon
+  - [ASTA](https://zh.wikipedia.org/wiki/ASTA "wikilink") - 由Polygon
     Games開發，只登陸[PC](../Page/PC.md "wikilink")，开发中。
-  - [上古世纪](../Page/上古世纪.md "wikilink") - 由XL
+  - [上古世纪](https://zh.wikipedia.org/wiki/上古世纪 "wikilink") - 由XL
     Games開發，只登陸[PC](../Page/PC.md "wikilink")，已经开发完，正式运营中。
-  - [惊天动地2](../Page/惊天动地2.md "wikilink") -
+  - [惊天动地2](https://zh.wikipedia.org/wiki/惊天动地2 "wikilink") -
     由ESTsoft開發，只登陸[PC](../Page/PC.md "wikilink")，已在2011年11月3號開始封閉測試中。
-  - [Class 3](../Page/Class_3.md "wikilink") - 由Undead Labs開發，开发中。
+  - [Class 3](https://zh.wikipedia.org/wiki/Class_3 "wikilink") -
+    由Undead Labs開發，开发中。
   - [Ryse: Son of
-    Rome](../Page/Ryse:_Son_of_Rome.md "wikilink")([崛起：羅馬之子](../Page/崛起：羅馬之子.md "wikilink"))
+    Rome](https://zh.wikipedia.org/wiki/Ryse:_Son_of_Rome "wikilink")([崛起：羅馬之子](https://zh.wikipedia.org/wiki/崛起：羅馬之子 "wikilink"))
     - 由Crytek和微軟遊戲工作室共同开发，登陸[Xbox One](../Page/Xbox_One.md "wikilink") 和
-    [Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")，已在2013
+    [Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，已在2013
     年 11 月 22 日發售。
-  - [孤岛危机](../Page/孤岛危机.md "wikilink")[家用机平台](../Page/家用机.md "wikilink")
+  - [孤岛危机](../Page/孤岛危机.md "wikilink")[家用机平台](https://zh.wikipedia.org/wiki/家用机 "wikilink")
     - 由Crytek開發，登陸[Xbox
-    360和](../Page/Xbox_360.md "wikilink")[PS3](../Page/PS3.md "wikilink")，已在2011年10月4號發售。
-  - [孤岛危机2](../Page/孤岛危机2.md "wikilink") -
+    360和](../Page/Xbox_360.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")，已在2011年10月4號發售。
+  - [孤岛危机2](https://zh.wikipedia.org/wiki/孤岛危机2 "wikilink") -
     由Crytek開發，登陸[PC](../Page/PC.md "wikilink")、[Xbox
-    360和](../Page/Xbox_360.md "wikilink")[PS3](../Page/PS3.md "wikilink")，已在2011年3月22號發售。
-  - [孤岛危机3](../Page/孤岛危机3.md "wikilink") -
+    360和](../Page/Xbox_360.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")，已在2011年3月22號發售。
+  - [孤岛危机3](https://zh.wikipedia.org/wiki/孤岛危机3 "wikilink") -
     由Crytek開發，登陸[PC](../Page/PC.md "wikilink")、[Xbox
-    360和](../Page/Xbox_360.md "wikilink")[PS3](../Page/PS3.md "wikilink")，已在2013年2月19號發售。
-  - [伪造混沌](../Page/伪造混沌.md "wikilink") - 由Panzar
+    360和](../Page/Xbox_360.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")，已在2013年2月19號發售。
+  - [伪造混沌](https://zh.wikipedia.org/wiki/伪造混沌 "wikilink") - 由Panzar
     Studio開發，只登陸[PC](../Page/PC.md "wikilink")，开发中。
-  - [Lichdom](../Page/Lichdom.md "wikilink") - 由Xaviant開發，开发中。
+  - [Lichdom](https://zh.wikipedia.org/wiki/Lichdom "wikilink") -
+    由Xaviant開發，开发中。
   - [Nexuiz](../Page/Nexuiz.md "wikilink") - 由IllFonic
     Game開發，登陸[PC](../Page/PC.md "wikilink")、[Xbox
-    360和](../Page/Xbox_360.md "wikilink")[PS3](../Page/PS3.md "wikilink")，開發中。
-  - [狙擊手：幽靈戰士2](../Page/狙擊手：幽靈戰士2.md "wikilink") - 由City
-    Interactive開發，登陸[PC](../Page/PC.md "wikilink")、[Xbox
-    360和](../Page/Xbox_360.md "wikilink")[PS3](../Page/PS3.md "wikilink")，已开始发售。
-  - [Tour Golf Online](../Page/Tour_Golf_Online.md "wikilink") -
+    360和](../Page/Xbox_360.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")，開發中。
+  - [狙擊手：幽靈戰士2](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士2 "wikilink") -
+    由City Interactive開發，登陸[PC](../Page/PC.md "wikilink")、[Xbox
+    360和](../Page/Xbox_360.md "wikilink")[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")，已开始发售。
+  - [Tour Golf
+    Online](https://zh.wikipedia.org/wiki/Tour_Golf_Online "wikilink") -
     多人線上高爾夫球遊戲，由Onnet開發，只登陸[PC](../Page/PC.md "wikilink")，开发中。
   - [战争前线](../Page/战争前线.md "wikilink") - 由Crytek
     Ukraine開發，只登陸[PC](../Page/PC.md "wikilink")，已开始内部测试。
@@ -143,7 +147,7 @@ multiprocessing）和超執行緒（Hyper-threading，HT）。CryENGINE
 
 ## 相關条目
 
-  - [末日之戰](../Page/末日之戰.md "wikilink")
+  - [末日之戰](https://zh.wikipedia.org/wiki/末日之戰 "wikilink")
   - [末日之戰2](../Page/末日之戰2.md "wikilink")
   - [末日之戰3](../Page/末日之戰3.md "wikilink")
   - [CryENGINE 2](../Page/CryENGINE_2.md "wikilink") 遊戲引擎
@@ -156,10 +160,11 @@ multiprocessing）和超執行緒（Hyper-threading，HT）。CryENGINE
   - [Crytek 官方網站](http://www.crytek.com/)
   - [MyCryengine官方網站](http://mycryengine.com/)
 
-[en:CryEngine\#Development](../Page/en:CryEngine#Development.md "wikilink")
-[it:CryENGINE](../Page/it:CryENGINE.md "wikilink")
+[en:CryEngine\#Development](https://zh.wikipedia.org/wiki/en:CryEngine#Development "wikilink")
+[it:CryENGINE](https://zh.wikipedia.org/wiki/it:CryENGINE "wikilink")
 [ja:CryENGINE\#CryENGINE
-3](../Page/ja:CryENGINE#CryENGINE_3.md "wikilink") [sv:Cry
-Engine\#Versioner](../Page/sv:Cry_Engine#Versioner.md "wikilink")
+3](https://zh.wikipedia.org/wiki/ja:CryENGINE#CryENGINE_3 "wikilink")
+[sv:Cry
+Engine\#Versioner](https://zh.wikipedia.org/wiki/sv:Cry_Engine#Versioner "wikilink")
 
 [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")

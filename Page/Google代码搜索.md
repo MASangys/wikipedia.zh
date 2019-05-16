@@ -1,4 +1,4 @@
-**Google代码搜索**是[Google公司](../Page/Google公司.md "wikilink")[Google实验室于](../Page/Google实验室.md "wikilink")2006年10月5日推出的一款测试版产品，该产品可以让用户在互联网上搜索开放的源代码。
+**Google代码搜索**是[Google公司](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[Google实验室于](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")2006年10月5日推出的一款测试版产品，该产品可以让用户在互联网上搜索开放的源代码。
 
 根据Google官方通告，该服务将于2012年1月15日关闭。\[1\]
 
@@ -12,30 +12,31 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
   - [Ada](../Page/Ada.md "wikilink")
   - [AppleScript](../Page/AppleScript.md "wikilink")
   - [ASP](../Page/Active_Server_Pages.md "wikilink")
-  - [匯編語言](../Page/匯編語言.md "wikilink")
+  - [匯編語言](https://zh.wikipedia.org/wiki/匯編語言 "wikilink")
   - [Autoconf](../Page/Autoconf.md "wikilink")
   - [Automake](../Page/Automake.md "wikilink")
   - [Awk](../Page/AWK.md "wikilink")
   - [Basic](../Page/BASIC.md "wikilink")/[Visual
     Basic](../Page/Visual_Basic.md "wikilink")
-  - [Batch file](../Page/Batch_file.md "wikilink")
-  - [C](../Page/C语言.md "wikilink")
+  - [Batch file](https://zh.wikipedia.org/wiki/Batch_file "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
   - [C\#](../Page/C♯.md "wikilink")
-  - [Caja](../Page/Caja.md "wikilink")
+  - [Caja](https://zh.wikipedia.org/wiki/Caja "wikilink")
 
 <!-- end list -->
 
   - [COBOL](../Page/COBOL.md "wikilink")
-  - [ColdFusion](../Page/ColdFusion.md "wikilink")
-  - [Configure script](../Page/Configure_script.md "wikilink")
-  - [CSS](../Page/Cascading_Style_Sheets.md "wikilink")
-  - [D](../Page/D语言.md "wikilink")
+  - [ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")
+  - [Configure
+    script](https://zh.wikipedia.org/wiki/Configure_script "wikilink")
+  - [CSS](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")
+  - [D](https://zh.wikipedia.org/wiki/D语言 "wikilink")
   - [Eiffel](../Page/Eiffel.md "wikilink")
   - [Erlang](../Page/Erlang.md "wikilink")
   - [Fortran](../Page/Fortran.md "wikilink")
   - [Haskell](../Page/Haskell.md "wikilink")
-  - [Inform](../Page/Inform.md "wikilink")
+  - [Inform](https://zh.wikipedia.org/wiki/Inform "wikilink")
   - [Java](../Page/Java.md "wikilink")
   - [JavaScript](../Page/JavaScript.md "wikilink")
   - [JSP](../Page/JSP.md "wikilink")
@@ -43,27 +44,27 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
 
 <!-- end list -->
 
-  - [Limbo](../Page/Limbo.md "wikilink")
-  - [Lisp](../Page/Lisp.md "wikilink")
+  - [Limbo](https://zh.wikipedia.org/wiki/Limbo "wikilink")
+  - [Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")
   - [Lua](../Page/Lua.md "wikilink")
-  - [m4](../Page/m4.md "wikilink")
-  - [Makefile](../Page/Makefile.md "wikilink")
+  - [m4](https://zh.wikipedia.org/wiki/m4 "wikilink")
+  - [Makefile](https://zh.wikipedia.org/wiki/Makefile "wikilink")
   - [Maple](../Page/Maple.md "wikilink")
-  - [Mathematica](../Page/Mathematica.md "wikilink")
+  - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
   - [Matlab](../Page/MATLAB.md "wikilink")
   - Message catalog
-  - [Modula-2](../Page/Modula-2.md "wikilink")
+  - [Modula-2](https://zh.wikipedia.org/wiki/Modula-2 "wikilink")
   - [Modula-3](../Page/Modula-3.md "wikilink")
   - [Objective-C](../Page/Objective-C.md "wikilink")
-  - [OCaml](../Page/Objective_Caml.md "wikilink")
-  - [Pascal](../Page/Pascal.md "wikilink")/[Delphi](../Page/Borland_Delphi.md "wikilink")
+  - [OCaml](https://zh.wikipedia.org/wiki/Objective_Caml "wikilink")
+  - [Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")/[Delphi](https://zh.wikipedia.org/wiki/Borland_Delphi "wikilink")
 
 <!-- end list -->
 
   - [Perl](../Page/Perl.md "wikilink")
   - [PHP](../Page/PHP.md "wikilink")
   - [Plain Old
-    Documentation](../Page/Plain_Old_Documentation.md "wikilink")
+    Documentation](https://zh.wikipedia.org/wiki/Plain_Old_Documentation "wikilink")
   - [Prolog](../Page/Prolog.md "wikilink")
   - [Python](../Page/Python.md "wikilink")
   - [R](../Page/R语言.md "wikilink")
@@ -72,23 +73,23 @@ Google代码搜索可以搜索包括`lang:`、`package:`、`license:`和`file:`�
   - SAS script
   - [Scheme](../Page/Scheme.md "wikilink")
   - [Scilab](../Page/Scilab.md "wikilink")
-  - [Shell](../Page/Shell_script.md "wikilink")
+  - [Shell](https://zh.wikipedia.org/wiki/Shell_script "wikilink")
   - [SGML](../Page/SGML.md "wikilink")
   - [Smalltalk](../Page/Smalltalk.md "wikilink")
 
 <!-- end list -->
 
   - [SQL](../Page/SQL.md "wikilink")
-  - [Standard ML](../Page/Standard_ML.md "wikilink")
-  - [SVG](../Page/Scalable_Vector_Graphics.md "wikilink")
+  - [Standard ML](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")
+  - [SVG](https://zh.wikipedia.org/wiki/Scalable_Vector_Graphics "wikilink")
   - [Tcl](../Page/Tcl.md "wikilink")
-  - [TeX](../Page/TeX.md "wikilink")/[LaTeX](../Page/LaTeX.md "wikilink")
-  - [Texinfo](../Page/Texinfo.md "wikilink")
+  - [TeX](../Page/TeX.md "wikilink")/[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
+  - [Texinfo](https://zh.wikipedia.org/wiki/Texinfo "wikilink")
   - [Troff](../Page/Troff.md "wikilink")
   - [Verilog](../Page/Verilog.md "wikilink")
   - [VHDL](../Page/VHDL.md "wikilink")
-  - [Vim script](../Page/Vim_script.md "wikilink")
-  - [XSLT](../Page/XSL_Transformations.md "wikilink")
+  - [Vim script](https://zh.wikipedia.org/wiki/Vim_script "wikilink")
+  - [XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
   - [XUL](../Page/XUL.md "wikilink")
   - [Yacc](../Page/Yacc.md "wikilink")
 

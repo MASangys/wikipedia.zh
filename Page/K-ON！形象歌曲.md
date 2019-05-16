@@ -1,18 +1,18 @@
-《**K-ON！形象歌曲**》是以[日本](../Page/日本.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")《[K-ON\!](../Page/K-ON!.md "wikilink")》的各主要角色為名義發行的[角色歌曲單曲系列](../Page/角色歌曲.md "wikilink")。由[波麗佳音發行](../Page/波麗佳音.md "wikilink")。
+《**K-ON！形象歌曲**》是以[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的各主要角色為名義發行的[角色歌曲單曲系列](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")。由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
-[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!](../Page/K-ON!.md "wikilink")》的角色歌曲是動畫內每個人物的樂曲各自地被收錄。
+[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的角色歌曲是動畫內每個人物的樂曲各自地被收錄。
 
 於2009年6月17日發售「平澤唯」和「秋山澪」2張單曲，於8月26日發售「田井中律」、「琴吹紬」和「中野梓」3張單曲，於10月21日發售「平澤憂」和「真鍋和」的張單曲分別發售。
 
-内容是人物歌3曲和各自樂曲的樂器曲共6首。第1首歌是人物作中用頭歌是人物作品中擔任的樂器的樂曲，第2首歌是印象歌，第3首歌是『K-ON\!』WEB廣播『らじおん\!』內已練習的樂曲「『ﾚｯﾂｺﾞｰ』\[1\]」的[獨奏](../Page/獨奏.md "wikilink")。
+内容是人物歌3曲和各自樂曲的樂器曲共6首。第1首歌是人物作中用頭歌是人物作品中擔任的樂器的樂曲，第2首歌是印象歌，第3首歌是『K-ON\!』WEB廣播『らじおん\!』內已練習的樂曲「『ﾚｯﾂｺﾞｰ』\[1\]」的[獨奏](https://zh.wikipedia.org/wiki/獨奏 "wikilink")。
 
 光碟外盒是『K-ON\!』總作画監督[堀口悠紀子親自畫的設計](../Page/堀口悠紀子.md "wikilink")，CD外盒上也同樣的圖畫印刷。
 
-[ORICON集計在](../Page/ORICON.md "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't
+[ORICON集計在](https://zh.wikipedia.org/wiki/ORICON "wikilink")6月17日發售「平澤唯」和「秋山澪」2張作品，主題歌「[Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")」和「[Don't
 say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](../Page/ふわふわ時間.md "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
+"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")」\[2\]，和劇中歌「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」持續3首作品創下高排名紀錄\[3\]\[4\]。「秋山澪」是角色歌曲中銷售最多的，累積數目是歴代第1位銷售最多記録，「平澤唯」是累計「秋山澪」後歴代第2位銷售最多記録\[5\]。
 
 還有，在8月26日發售的「田井中律」、「琴吹紬」、「中野梓」3首作品也緊跟著在那之前的各作品締造高順序，是ORICO史上第一次由同樣動畫的角色歌曲帶來的一週在ORICON的3首作品同時登了上前10
 。
@@ -56,7 +56,7 @@ ORICON進入前10名經驗\[6\]\[7\]。
 1.  **Heart Goes Boom\!\!** \[3:36\]
       -
         作詞：大森祥子 作曲／編曲：前澤寛之
-        秋山澪担当的樂器[Bass](../Page/Bass.md "wikilink")。
+        秋山澪担当的樂器[Bass](https://zh.wikipedia.org/wiki/Bass "wikilink")。
 2.  **Hello Little Girl** \[4:42\]
       -
         作詞：大森祥子 作曲：芦澤和則 編曲：小森茂生
@@ -171,7 +171,7 @@ ORICON進入前10名經驗\[6\]\[7\]。
 
 **概要**
 
-  - 電視動畫第二期『[K-ON\!\!](../Page/K-ON!.md "wikilink")』的角色歌曲。
+  - 電視動畫第二期『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的角色歌曲。
   - 於2010年9月21日「平澤唯」和「秋山澪」兩張單曲發行預定。
   - 2010年9月20日的ORICON・每日最高順位「秋山澪」第1位、「平澤唯」第2位記錄。
   - 同年11月17日「田井中律」、「琴吹紬」、「中野梓」三張單曲發行預定。

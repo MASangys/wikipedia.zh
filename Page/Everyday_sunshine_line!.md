@@ -1,5 +1,5 @@
 『**Everyday sunshine line\!**』（エブリデイ サンシャイン
-ライン）是[麻生夏子的第](../Page/麻生夏子.md "wikilink")4張[單曲](../Page/單曲.md "wikilink")。於2010年5月12日由[Lantis發行](../Page/Lantis.md "wikilink")。
+ライン）是[麻生夏子的第](../Page/麻生夏子.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年5月12日由[Lantis發行](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
@@ -8,7 +8,7 @@
 ## 收錄曲
 
 1.  **Everyday sunshine line\!**
-      - 作詞:こだまさおり、[作曲](../Page/作曲.md "wikilink"):關野元規、編曲:TSUKASA（Sound
+      - 作詞:こだまさおり、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink"):關野元規、編曲:TSUKASA（Sound
         Online）
       - 電視動畫『[最後大魔王](../Page/最後大魔王.md "wikilink")』[主題曲](../Page/主題曲.md "wikilink")
 2.  **Teadrop of Rain**

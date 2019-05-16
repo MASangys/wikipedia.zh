@@ -1,5 +1,5 @@
-**T-Max**（[韓語](../Page/韓語.md "wikilink")：티맥스），為[韓國公司Planet](../Page/韓國.md "wikilink")905的旗下四人男子演唱團體。T-MAX於2007年以三人組合由Mnet
-Media公司推出，當時成員包括[金俊](../Page/金俊.md "wikilink")（김준）、[申旼澈](../Page/申旼澈.md "wikilink")（신민철）與[朴允和](../Page/朴允和.md "wikilink")（박윤화），以《Blooming》一曲於2007年7月19日出道。表面上T-MAX是以時尚和出色的音樂來包裝，但他們的歌曲卻是男女老少都可以輕鬆欣賞的，就像朋友一樣親切。2008年，T-MAX
+**T-Max**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：티맥스），為[韓國公司Planet](https://zh.wikipedia.org/wiki/韓國 "wikilink")905的旗下四人男子演唱團體。T-MAX於2007年以三人組合由Mnet
+Media公司推出，當時成員包括[金俊](../Page/金俊.md "wikilink")（김준）、[申旼澈](https://zh.wikipedia.org/wiki/申旼澈 "wikilink")（신민철）與[朴允和](https://zh.wikipedia.org/wiki/朴允和 "wikilink")（박윤화），以《Blooming》一曲於2007年7月19日出道。表面上T-MAX是以時尚和出色的音樂來包裝，但他們的歌曲卻是男女老少都可以輕鬆欣賞的，就像朋友一樣親切。2008年，T-MAX
 為人氣韓劇《[花樣男子](../Page/花樣男子.md "wikilink")》演唱膾炙人口的主題曲《Paradise》，和多首劇中歌曲，例如《Say
 Yes》、《Wish Ur My Love》等。
 
@@ -35,12 +35,12 @@ BEE TV 拍攝手機短劇《請把你的回憶留給我》。2011年再為KBS參
 
 ### 朱燦揚
 
-[朱燦揚畢業於](../Page/朱燦揚.md "wikilink")[東首爾國立大學音樂系](../Page/東首爾國立大學.md "wikilink")，曾經在紐西蘭的
+[朱燦揚畢業於](https://zh.wikipedia.org/wiki/朱燦揚 "wikilink")[東首爾國立大學音樂系](https://zh.wikipedia.org/wiki/東首爾國立大學 "wikilink")，曾經在紐西蘭的
 Avondale College 留學。2010年10月與歌手여미合唱單曲《我不覺得這是愛情》。
 
 ### 朴韓必
 
-[朴韓必本名朴東義](../Page/朴韓必.md "wikilink")（박동일），就讀[明智專門大學戲影像學科](../Page/明智專門大學.md "wikilink")。2010年為SBS電視台演出電視劇《Buddy
+[朴韓必本名朴東義](https://zh.wikipedia.org/wiki/朴韓必 "wikilink")（박동일），就讀[明智專門大學戲影像學科](https://zh.wikipedia.org/wiki/明智專門大學 "wikilink")。2010年為SBS電視台演出電視劇《Buddy
 Buddy》。
 
 ### 朴允和（因入伍而退出）

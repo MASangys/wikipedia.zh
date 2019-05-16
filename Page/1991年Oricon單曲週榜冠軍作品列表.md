@@ -1,8 +1,8 @@
-**1991年Oricon單曲週榜冠軍作品列表**列出1991年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**1991年Oricon單曲週榜冠軍作品列表**列出1991年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有19首冠軍單曲誕生，是歷年最少的其中一次，單曲冠軍的位置長期被幾首大熱歌曲佔據著。而其中全年一半時間都被三首最終銷量突破200萬的單曲佔據——[恰克與飛鳥的](../Page/恰克與飛鳥.md "wikilink")《[SAY
 YES](../Page/SAY_YES_\(恰克與飛鳥單曲\).md "wikilink")》（13週）、[小田和正的](../Page/小田和正.md "wikilink")《[Oh\!
-Yeah\!／愛情故事突然發生](../Page/Oh!_Yeah!.md "wikilink")》（7週）以及[KAN的](../Page/KAN.md "wikilink")《[有愛必勝](../Page/有愛必勝.md "wikilink")》（6週，同時也是1990年最後一週的冠軍單曲，共7週）。此外，還有[小泉今日子的](../Page/小泉今日子.md "wikilink")《[和你相遇真好](../Page/和你相遇真好.md "wikilink")》（5週）、[B'z的](../Page/B'z.md "wikilink")《[LADY
+Yeah\!／愛情故事突然發生](../Page/Oh!_Yeah!.md "wikilink")》（7週）以及[KAN的](https://zh.wikipedia.org/wiki/KAN "wikilink")《[有愛必勝](../Page/有愛必勝.md "wikilink")》（6週，同時也是1990年最後一週的冠軍單曲，共7週）。此外，還有[小泉今日子的](../Page/小泉今日子.md "wikilink")《[和你相遇真好](../Page/和你相遇真好.md "wikilink")》（5週）、[B'z的](../Page/B'z.md "wikilink")《[LADY
 NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")》（3週）和[今井美樹的](../Page/今井美樹.md "wikilink")《[PIECE
 OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 
@@ -121,7 +121,7 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="odd">
 <td><p>4月22日</p></td>
-<td><p><a href="../Page/Wednesday_Moon.md" title="wikilink">Wednesday Moon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wednesday_Moon" title="wikilink">Wednesday Moon</a></p></td>
 <td><p><a href="../Page/德永英明.md" title="wikilink">德永英明</a></p></td>
 <td><p>7.8</p></td>
 <td><p>1</p></td>
@@ -135,7 +135,7 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="odd">
 <td><p>5月6日</p></td>
-<td><p><a href="../Page/Eyes_to_me/你的朋友.md" title="wikilink">Eyes to me／你的朋友</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eyes_to_me/你的朋友" title="wikilink">Eyes to me／你的朋友</a></p></td>
 <td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></p></td>
 <td><p>14.5</p></td>
 <td><p>1</p></td>
@@ -149,21 +149,21 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="odd">
 <td><p>5月20日</p></td>
-<td><p><a href="../Page/KISS_(PRINCESS_PRINCESS單曲).md" title="wikilink">KISS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KISS_(PRINCESS_PRINCESS單曲)" title="wikilink">KISS</a></p></td>
 <td><p><a href="../Page/PRINCESS_PRINCESS.md" title="wikilink">PRINCESS PRINCESS</a></p></td>
 <td><p>12.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月27日</p></td>
-<td><p><a href="../Page/Please_(工藤靜香單曲).md" title="wikilink">Please</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Please_(工藤靜香單曲)" title="wikilink">Please</a></p></td>
 <td><p><a href="../Page/工藤靜香.md" title="wikilink">工藤靜香</a></p></td>
 <td><p>8.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月3日</p></td>
-<td><p><a href="../Page/Love_Train/We_love_the_EARTH.md" title="wikilink">Love Train／We love the EARTH</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Train/We_love_the_EARTH" title="wikilink">Love Train／We love the EARTH</a></p></td>
 <td><p><a href="../Page/TM_NETWORK.md" title="wikilink">TMN</a></p></td>
 <td><p>17.2</p></td>
 <td><p>1</p></td>
@@ -198,8 +198,8 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="even">
 <td><p>7月8日</p></td>
-<td><p><a href="../Page/BEAT_EMOTION.md" title="wikilink">BEAT EMOTION</a></p></td>
-<td><p><a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEAT_EMOTION" title="wikilink">BEAT EMOTION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布袋寅泰" title="wikilink">布袋寅泰</a></p></td>
 <td><p>11.9</p></td>
 <td><p>1</p></td>
 </tr>
@@ -317,8 +317,8 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="odd">
 <td><p>11月4日</p></td>
-<td><p><a href="../Page/泡泡_(長淵剛).md" title="wikilink">泡泡</a></p></td>
-<td><p><a href="../Page/長淵剛.md" title="wikilink">長淵剛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泡泡_(長淵剛)" title="wikilink">泡泡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長淵剛" title="wikilink">長淵剛</a></p></td>
 <td><p>27.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -338,14 +338,14 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 </tr>
 <tr class="even">
 <td><p>11月25日</p></td>
-<td><p><a href="../Page/WILD_HEAVEN.md" title="wikilink">WILD HEAVEN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WILD_HEAVEN" title="wikilink">WILD HEAVEN</a></p></td>
 <td><p><a href="../Page/TM_NETWORK.md" title="wikilink">TMN</a></p></td>
 <td><p>17.4</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月2日</p></td>
-<td><p><a href="../Page/我用這雙眼睛對你說謊.md" title="wikilink">我用這雙眼睛對你說謊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我用這雙眼睛對你說謊" title="wikilink">我用這雙眼睛對你說謊</a></p></td>
 <td><p><a href="../Page/恰克與飛鳥.md" title="wikilink">恰克與飛鳥</a></p></td>
 <td><p>10.8</p></td>
 <td><p>1</p></td>
@@ -374,7 +374,7 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 <tr class="odd">
 <td><p>12月30日</p></td>
 <td><p><a href="../Page/最重要的事.md" title="wikilink">最重要的事</a></p></td>
-<td><p><a href="../Page/大事MAN_BROTHERS_BAND.md" title="wikilink">大事MAN BROTHERS BAND</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大事MAN_BROTHERS_BAND" title="wikilink">大事MAN BROTHERS BAND</a></p></td>
 <td><p>12.0</p></td>
 <td><p>12</p></td>
 </tr>
@@ -383,7 +383,7 @@ OF MY WISH](../Page/PIECE_OF_MY_WISH.md "wikilink")》（3週）等。
 
 ## 參見
 
-  - [1991年Oricon專輯週榜冠軍作品列表](../Page/1991年Oricon專輯週榜冠軍作品列表.md "wikilink")
+  - [1991年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/1991年Oricon專輯週榜冠軍作品列表 "wikilink")
 
 ## 參考資料
 

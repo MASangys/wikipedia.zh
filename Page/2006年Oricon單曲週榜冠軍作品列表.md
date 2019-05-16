@@ -1,4 +1,4 @@
-**2006年Oricon單曲週榜冠軍作品列表**列出2006年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](../Page/單曲.md "wikilink")。
+**2006年Oricon單曲週榜冠軍作品列表**列出2006年度曾經登上[Oricon公信榜單曲週榜冠軍的](../Page/Oricon公信榜.md "wikilink")[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全年度共有47首冠軍單曲誕生，其中[KAT-TUN的](../Page/KAT-TUN.md "wikilink")《[Real
 Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
@@ -20,7 +20,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 <tr class="odd">
 <td><p>1月2日</p></td>
 <td><p><a href="../Page/SNOW!_SNOW!_SNOW!.md" title="wikilink">SNOW! SNOW! SNOW!</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>23.0</p></td>
 <td><p>1</p></td>
 </tr>
@@ -34,14 +34,14 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="odd">
 <td><p>1月23日</p></td>
-<td><p><a href="../Page/feel_(倖田來未單曲).md" title="wikilink">feel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feel_(倖田來未單曲)" title="wikilink">feel</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>3.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>1月30日</p></td>
-<td><p><a href="../Page/Venus_(瀧與翼單曲).md" title="wikilink">Venus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Venus_(瀧與翼單曲)" title="wikilink">Venus</a></p></td>
 <td><p><a href="../Page/瀧與翼.md" title="wikilink">瀧與翼</a></p></td>
 <td><p>10.5</p></td>
 <td><p>1</p></td>
@@ -55,15 +55,15 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>2月13日</p></td>
-<td><p><a href="../Page/染井吉野.md" title="wikilink">染井吉野</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/染井吉野" title="wikilink">染井吉野</a></p></td>
 <td><p><a href="../Page/堂本剛.md" title="wikilink">ENDLICHERI☆ENDLICHERI</a></p></td>
 <td><p>12.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月20日</p></td>
-<td><p><a href="../Page/Mr.Traveling_Man.md" title="wikilink">Mr.Traveling Man</a></p></td>
-<td><p><a href="../Page/TOKIO.md" title="wikilink">TOKIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mr.Traveling_Man" title="wikilink">Mr.Traveling Man</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKIO" title="wikilink">TOKIO</a></p></td>
 <td><p>7.9</p></td>
 <td><p>1</p></td>
 </tr>
@@ -76,28 +76,28 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="odd">
 <td><p>3月6日</p></td>
-<td><p><a href="../Page/SEASON&#39;S_CALL.md" title="wikilink">SEASON'S CALL</a></p></td>
-<td><p><a href="../Page/hyde.md" title="wikilink">HYDE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEASON&#39;S_CALL" title="wikilink">SEASON'S CALL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/hyde" title="wikilink">HYDE</a></p></td>
 <td><p>7.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>3月13日</p></td>
 <td><p><a href="../Page/YES!_(EXILE單曲).md" title="wikilink">YES!</a></p></td>
-<td><p><a href="../Page/EXILE.md" title="wikilink">EXILE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a></p></td>
 <td><p>6.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月20日</p></td>
-<td><p><a href="../Page/Startin&#39;/Born_To_Be....md" title="wikilink">Startin'／Born To Be...</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Startin&#39;/Born_To_Be..." title="wikilink">Startin'／Born To Be...</a></p></td>
 <td><p><a href="../Page/濱崎步.md" title="wikilink">濱崎步</a></p></td>
 <td><p>11.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>3月27日</p></td>
-<td><p><a href="../Page/豌豆莢/赤腳的灰姑娘男孩.md" title="wikilink">豌豆莢／赤腳的灰姑娘男孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/豌豆莢/赤腳的灰姑娘男孩" title="wikilink">豌豆莢／赤腳的灰姑娘男孩</a></p></td>
 <td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
 <td><p>15.1</p></td>
 <td><p>1</p></td>
@@ -132,14 +132,14 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="odd">
 <td><p>5月1日</p></td>
-<td><p><a href="../Page/Dear_WOMAN.md" title="wikilink">Dear WOMAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dear_WOMAN" title="wikilink">Dear WOMAN</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>21.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月8日</p></td>
-<td><p><a href="../Page/旅人_(決明子單曲).md" title="wikilink">旅人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/旅人_(決明子單曲)" title="wikilink">旅人</a></p></td>
 <td><p><a href="../Page/決明子_(團體).md" title="wikilink">決明子</a></p></td>
 <td><p>16.5</p></td>
 <td><p>1</p></td>
@@ -153,8 +153,8 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>5月22日</p></td>
-<td><p><a href="../Page/Champione.md" title="wikilink">Champione</a></p></td>
-<td><p><a href="../Page/橘子新樂園.md" title="wikilink">橘子新樂園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Champione" title="wikilink">Champione</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘子新樂園" title="wikilink">橘子新樂園</a></p></td>
 <td><p>12.2</p></td>
 <td><p>1</p></td>
 </tr>
@@ -167,7 +167,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>6月5日</p></td>
-<td><p><a href="../Page/milk_tea/美麗花朵.md" title="wikilink">milk tea／美麗花朵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/milk_tea/美麗花朵" title="wikilink">milk tea／美麗花朵</a></p></td>
 <td><p><a href="../Page/福山雅治.md" title="wikilink">福山雅治</a></p></td>
 <td><p>18.5</p></td>
 <td><p>1</p></td>
@@ -216,7 +216,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="odd">
 <td><p>7月24日</p></td>
-<td><p><a href="../Page/Deep_in_your_heart/+MILLION_but_-LOVE.md" title="wikilink">Deep in your heart／+MILLION but -LOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE" title="wikilink">Deep in your heart／+MILLION but -LOVE</a></p></td>
 <td><p><a href="../Page/堂本光一.md" title="wikilink">堂本光一</a></p></td>
 <td><p>22.1</p></td>
 <td><p>1</p></td>
@@ -231,7 +231,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 <tr class="odd">
 <td><p>8月7日</p></td>
 <td><p><a href="../Page/夏日風情.md" title="wikilink">夏日風情</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>23.8</p></td>
 <td><p>1</p></td>
 </tr>
@@ -244,29 +244,29 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="odd">
 <td><p>8月21日</p></td>
-<td><p><a href="../Page/DIRTY_OLD_MAN_～再見夏天～.md" title="wikilink">DIRTY OLD MAN ～再見夏天～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIRTY_OLD_MAN_～再見夏天～" title="wikilink">DIRTY OLD MAN ～再見夏天～</a></p></td>
 <td><p><a href="../Page/南方之星.md" title="wikilink">南方之星</a></p></td>
 <td><p>13.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月28日</p></td>
-<td><p><a href="../Page/瓜拿納_(單曲).md" title="wikilink">瓜拿納</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瓜拿納_(單曲)" title="wikilink">瓜拿納</a></p></td>
 <td><p><a href="../Page/無限開關.md" title="wikilink">無限開關</a></p></td>
 <td><p>4.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月4日</p></td>
-<td><p><a href="../Page/宙船/do!_do!_do!.md" title="wikilink">宙船／do! do! do!</a></p></td>
-<td><p><a href="../Page/TOKIO.md" title="wikilink">TOKIO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宙船/do!_do!_do!" title="wikilink">宙船／do! do! do!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKIO" title="wikilink">TOKIO</a></p></td>
 <td><p>12.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>9月11日</p></td>
-<td><p><a href="../Page/狂熱與未來.md" title="wikilink">狂熱與未來</a></p></td>
-<td><p><a href="../Page/Kitty_GYM.md" title="wikilink">GYM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/狂熱與未來" title="wikilink">狂熱與未來</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kitty_GYM" title="wikilink">GYM</a></p></td>
 <td><p>22.6</p></td>
 <td><p>1</p></td>
 </tr>
@@ -279,7 +279,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>9月25日</p></td>
-<td><p><a href="../Page/夏音/異夢_～THOUSAND_DREAMS～.md" title="wikilink">夏音／異夢 ～THOUSAND DREAMS～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏音/異夢_～THOUSAND_DREAMS～" title="wikilink">夏音／異夢 ～THOUSAND DREAMS～</a></p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>10.1</p></td>
 <td><p>1</p></td>
@@ -293,42 +293,42 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>10月9日</p></td>
-<td><p><a href="../Page/三日月.md" title="wikilink">三日月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三日月" title="wikilink">三日月</a></p></td>
 <td><p><a href="../Page/絢香.md" title="wikilink">絢香</a></p></td>
 <td><p>4.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月16日</p></td>
-<td><p><a href="../Page/Winding_Road_(色情塗鴉單曲).md" title="wikilink">Winding Road</a></p></td>
-<td><p><a href="../Page/色情塗鴉.md" title="wikilink">色情塗鴉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Winding_Road_(色情塗鴉單曲)" title="wikilink">Winding Road</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/色情塗鴉" title="wikilink">色情塗鴉</a></p></td>
 <td><p>10.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>10月23日</p></td>
-<td><p><a href="../Page/多謝_(SMAP單曲).md" title="wikilink">多謝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多謝_(SMAP單曲)" title="wikilink">多謝</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>17.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月30日</p></td>
-<td><p><a href="../Page/悲夢之歌/我倆….md" title="wikilink">悲夢之歌／我倆…</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/悲夢之歌/我倆…" title="wikilink">悲夢之歌／我倆…</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>17.5</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>11月6日</p></td>
-<td><p><a href="../Page/海岸Bye-Bye.md" title="wikilink">海岸Bye-Bye</a></p></td>
-<td><p><a href="../Page/木更津貓眼.md" title="wikilink">木更津貓眼</a> feat. <a href="../Page/MCU_(MC).md" title="wikilink">MCU</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海岸Bye-Bye" title="wikilink">海岸Bye-Bye</a></p></td>
+<td><p><a href="../Page/木更津貓眼.md" title="wikilink">木更津貓眼</a> feat. <a href="https://zh.wikipedia.org/wiki/MCU_(MC)" title="wikilink">MCU</a></p></td>
 <td><p>11.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月13日</p></td>
-<td><p><a href="../Page/Ready_Go!.md" title="wikilink">Ready Go!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ready_Go!" title="wikilink">Ready Go!</a></p></td>
 <td><p><a href="../Page/WaT.md" title="wikilink">WaT</a></p></td>
 <td><p>4.6</p></td>
 <td><p>1</p></td>
@@ -349,7 +349,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 </tr>
 <tr class="even">
 <td><p>12月4日</p></td>
-<td><p><a href="../Page/眼淚的故鄉.md" title="wikilink">眼淚的故鄉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/眼淚的故鄉" title="wikilink">眼淚的故鄉</a></p></td>
 <td><p><a href="../Page/BUMP_OF_CHICKEN.md" title="wikilink">BUMP OF CHICKEN</a></p></td>
 <td><p>18.0</p></td>
 <td><p>1</p></td>
@@ -357,7 +357,7 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 <tr class="odd">
 <td><p>12月11日</p></td>
 <td><p><a href="../Page/Harmony_of_December.md" title="wikilink">Harmony of December</a></p></td>
-<td><p><a href="../Page/KinKi_Kids.md" title="wikilink">KinKi Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>23.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -380,8 +380,8 @@ Face](../Page/Real_Face.md "wikilink")》蟬聯時間最長（3週）。
 
 ## 參見
 
-  - [2006年Oricon專輯週榜冠軍作品列表](../Page/2006年Oricon專輯週榜冠軍作品列表.md "wikilink")
-  - [2006年—2009年唱協下載榜冠軍歌曲列表](../Page/2006年—2009年唱協下載榜冠軍歌曲列表.md "wikilink")
+  - [2006年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2006年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2006年—2009年唱協下載榜冠軍歌曲列表](https://zh.wikipedia.org/wiki/2006年—2009年唱協下載榜冠軍歌曲列表 "wikilink")
 
 ## 參考資料
 

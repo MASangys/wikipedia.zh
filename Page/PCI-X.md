@@ -1,11 +1,11 @@
 \-{H|zh-hans:总线; zh-hant:滙流排;}-
-**PCI-X**是傳統[PCI匯流排](../Page/PCI.md "wikilink")（Peripheral
+**PCI-X**是傳統[PCI匯流排](https://zh.wikipedia.org/wiki/PCI "wikilink")（Peripheral
 Components Interconnect）的改版，有更高的頻寬。
 
 PCI-X
-是1998年由[IBM](../Page/IBM.md "wikilink")、[HP](../Page/HP.md "wikilink")，以及康柏（Compaq）等公司制定，採用64位元匯流排寬度，以及133MHz的頻寬來傳送資料，有更多的接腳，而且所有的連接裝置會共享所有可用的頻寬，但兩者的協定相當類似\[1\]。
+是1998年由[IBM](../Page/IBM.md "wikilink")、[HP](https://zh.wikipedia.org/wiki/HP "wikilink")，以及康柏（Compaq）等公司制定，採用64位元匯流排寬度，以及133MHz的頻寬來傳送資料，有更多的接腳，而且所有的連接裝置會共享所有可用的頻寬，但兩者的協定相當類似\[1\]。
 
-PCI－X還支援[MSI](../Page/MSI.md "wikilink")，這是一種主動通知的中斷機制。過去的PCI都是被動通知中斷，而且是共享中斷，當有設備（device）發生中斷時，系統會通知PCI所有的設備，這樣會造成時間的浪費。MSI的特點是將中斷向量編號送至指定的記憶體，接著再觸發中斷。
+PCI－X還支援[MSI](https://zh.wikipedia.org/wiki/MSI "wikilink")，這是一種主動通知的中斷機制。過去的PCI都是被動通知中斷，而且是共享中斷，當有設備（device）發生中斷時，系統會通知PCI所有的設備，這樣會造成時間的浪費。MSI的特點是將中斷向量編號送至指定的記憶體，接著再觸發中斷。
 
 ## 版本
 
@@ -56,7 +56,7 @@ PCI不在此比較），這使得ATX規格或更小型機種的廠商會較喜�
 
 ## 參見
 
-  - [PCI](../Page/PCI.md "wikilink")
+  - [PCI](https://zh.wikipedia.org/wiki/PCI "wikilink")
   - [PCI Express](../Page/PCI_Express.md "wikilink")
 
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink")

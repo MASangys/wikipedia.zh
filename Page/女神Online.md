@@ -21,7 +21,7 @@ Crest》\[3\]；2014年5月27日，日本服務終止。
 
 ### 小說
 
-為[天使出版國際文化有限公司出版](../Page/天使出版.md "wikilink")，由[久本治撰寫](../Page/久本治.md "wikilink")，共三篇，各為上冊、下冊和外傳。內容與遊戲主線有些出入。
+為[天使出版國際文化有限公司出版](https://zh.wikipedia.org/wiki/天使出版 "wikilink")，由[久本治撰寫](https://zh.wikipedia.org/wiki/久本治 "wikilink")，共三篇，各為上冊、下冊和外傳。內容與遊戲主線有些出入。
 
 ## 登場人物
 
@@ -604,7 +604,7 @@ Crest》\[3\]；2014年5月27日，日本服務終止。
 
 ### 魔族
 
-  - 克絲卡(CV:[相沢舞](../Page/相沢舞.md "wikilink"))
+  - 克絲卡(CV:[相沢舞](https://zh.wikipedia.org/wiki/相沢舞 "wikilink"))
 
 ### 種族
 

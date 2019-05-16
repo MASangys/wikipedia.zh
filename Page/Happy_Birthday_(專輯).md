@@ -21,7 +21,8 @@ Birthday**是[Cookies的首張音樂專輯](../Page/Cookies_\(組合\).md "wikil
 
   - [Cookies Happy
     Birthday](http://music.sina.com.hk/cgi-bin/album/main.cgi?action=comment&id=8108)
-    - [新浪網](../Page/新浪網.md "wikilink") - [音樂](../Page/音樂.md "wikilink")
+    - [新浪網](https://zh.wikipedia.org/wiki/新浪網 "wikilink") -
+    [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")
 
 [Category:Cookies音樂專輯](https://zh.wikipedia.org/wiki/Category:Cookies音樂專輯 "wikilink")
 [Category:2002年迷你專輯](https://zh.wikipedia.org/wiki/Category:2002年迷你專輯 "wikilink")

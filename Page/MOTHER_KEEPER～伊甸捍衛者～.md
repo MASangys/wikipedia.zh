@@ -1,10 +1,11 @@
 《**MOTHER
-KEEPER～伊甸捍衛者～**》是一部由日本[漫畫家](../Page/漫畫家.md "wikilink")[空廼海里於](../Page/空廼海里.md "wikilink")《[月刊Comic
-Blade](../Page/月刊Comic_Blade.md "wikilink")》上連載的漫畫作品。此漫畫本來以月刊形式連載\[1\]，當同期連載的《[幻影少年](../Page/幻影少年.md "wikilink")》變為月刊連載時，這部則變為隔月連載。
+KEEPER～伊甸捍衛者～**》是一部由日本[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[空廼海里於](https://zh.wikipedia.org/wiki/空廼海里 "wikilink")《[月刊Comic
+Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》上連載的漫畫作品。此漫畫本來以月刊形式連載\[1\]，當同期連載的《[幻影少年](../Page/幻影少年.md "wikilink")》變為月刊連載時，這部則變為隔月連載。
 
 其連載雜誌《月刊Comic Blade》曾經在跟《[Comic Blade
-MASAMUNE](../Page/Comic_Blade_MASAMUNE.md "wikilink")》及《[Comic Blade
-ZEBEL](../Page/Comic_Blade_ZEBEL.md "wikilink")》合辦的三誌聯合計劃時，把同名的廣播劇CD送給所有的應募者\[2\]。
+MASAMUNE](https://zh.wikipedia.org/wiki/Comic_Blade_MASAMUNE "wikilink")》及《[Comic
+Blade
+ZEBEL](https://zh.wikipedia.org/wiki/Comic_Blade_ZEBEL "wikilink")》合辦的三誌聯合計劃時，把同名的廣播劇CD送給所有的應募者\[2\]。
 
 ## 故事簡介
 
@@ -29,7 +30,7 @@ ZEBEL](../Page/Comic_Blade_ZEBEL.md "wikilink")》合辦的三誌聯合計劃時
     EDEN容納不了的人所住的地方，生活環境惡劣\[13\]。有EDEN的駐軍留守\[14\]。
     分為反抗軍活躍的武裝地區和沒有反抗軍的非武裝地區。
   - 反抗軍（）
-    因討厭EDEN而產生的各個[恐怖組織](../Page/恐怖組織.md "wikilink")\[15\]，例如「COSMOS」\[16\]（）和CHAOS
+    因討厭EDEN而產生的各個[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")\[15\]，例如「COSMOS」\[16\]（）和CHAOS
     TIDE\[17\]（）等。
   - 最終武器（）
     在光榮時代被人們製造的大量破壞武器的統稱\[18\]，例如核彈和純氫彈等。
@@ -56,7 +57,7 @@ ZEBEL](../Page/Comic_Blade_ZEBEL.md "wikilink")》合辦的三誌聯合計劃時
     開始時拒絕成為伊甸捍衛者\[25\]，不過當和扥爾斯基對戰後，決定成為伊甸捍衛者。
     使用的武器是雙槍「惡魔之門」，另外內置「Trans Core」的使用手冊。
   -
-    負責天堂之塔區域零保安的女性伊甸捍衛者，同時是10年前打倒里卡魯納的人。擁有一頭金髪和一雙藍眼睛，[第一人稱是「僕」](../Page/僕娘.md "wikilink")。當進行戰鬥時會性情大變\[26\]。
+    負責天堂之塔區域零保安的女性伊甸捍衛者，同時是10年前打倒里卡魯納的人。擁有一頭金髪和一雙藍眼睛，[第一人稱是「僕」](https://zh.wikipedia.org/wiki/僕娘 "wikilink")。當進行戰鬥時會性情大變\[26\]。
     生前居住在貧民窟非武裝地區的「B－60聚落」，為了報答吉姆而成為伊甸捍衛者\[27\]。
   -
     和里卡魯納及夏爾同様隸屬天堂之塔區域零的伊甸捍衛者，生前是殺人犯\[28\]。特徵是其黒髪黒瞳，和身穿黒色喪服\[29\]。
@@ -105,7 +106,7 @@ ZEBEL](../Page/Comic_Blade_ZEBEL.md "wikilink")》合辦的三誌聯合計劃時
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -173,8 +174,9 @@ ZEBEL](../Page/Comic_Blade_ZEBEL.md "wikilink")》合辦的三誌聯合計劃時
 
 1.  漫畫單行本第一冊 P.177
 
-2.  《[月刊Comic Blade](../Page/月刊Comic_Blade.md "wikilink")（）》 2006年 09月号
-    ASIN B000GNOJMQ
+2.  《[月刊Comic
+    Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")（）》
+    2006年 09月号 ASIN B000GNOJMQ
 
 3.  漫畫單行本第三冊 《No·014 LAST WEAPON》P.27-29
 

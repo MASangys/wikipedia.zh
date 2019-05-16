@@ -1,5 +1,5 @@
 《**my
-graduation**》是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")6張[單曲](../Page/單曲.md "wikilink")。1998年2月18日發行。是SPEED其中一首代表作，日本史上銷量最高的[畢業歌](../Page/畢業歌.md "wikilink")。
+graduation**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年2月18日發行。是SPEED其中一首代表作，日本史上銷量最高的[畢業歌](https://zh.wikipedia.org/wiki/畢業歌 "wikilink")。
 
 單曲中的兩首歌曲分別被和[日清食品的廣告](../Page/日清食品.md "wikilink")「」和[愛普生的廣告](../Page/精工愛普生.md "wikilink")「」使用，而這兩則廣告都是由SPEED主演。
 
@@ -10,15 +10,15 @@ Love》以及包含這兩首金曲的專輯《[RISE](../Page/RISE_\(SPEED專輯\
 
 《my graduation》也是日本歷史上以畢業為主題的歌曲中銷量最高的。
 
-1999年年底，SPEED第3次被邀請上[NHK紅白歌合戰](../Page/NHK紅白歌合戰.md "wikilink")（[第50回](../Page/第50回NHK紅白歌合戰.md "wikilink")），演唱這首歌的1999年版本《my
+1999年年底，SPEED第3次被邀請上[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")（[第50回](https://zh.wikipedia.org/wiki/第50回NHK紅白歌合戰 "wikilink")），演唱這首歌的1999年版本《my
 graduation '99》。
 
 ## 收錄曲目
 
 1.  **my graduation**
-      - 作詞、作曲：[伊秩弘將](../Page/伊秩弘將.md "wikilink")；編曲：[水島康貴](../Page/水島康貴.md "wikilink")
+      - 作詞、作曲：[伊秩弘將](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")；編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")
 2.  **Brand-New Weekend**
-      - 作詞、作曲：[伊秩弘將](../Page/伊秩弘將.md "wikilink")；編曲：[水島康貴](../Page/水島康貴.md "wikilink")
+      - 作詞、作曲：[伊秩弘將](https://zh.wikipedia.org/wiki/伊秩弘將 "wikilink")；編曲：[水島康貴](https://zh.wikipedia.org/wiki/水島康貴 "wikilink")
 3.  **my graduation -Instrumental-**
 4.  **Brand-New Weekend -Instrumental-**
 

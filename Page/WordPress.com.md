@@ -1,4 +1,4 @@
-**WordPress.com**是一个[博客](../Page/博客.md "wikilink")[寄存服务站点](../Page/網頁寄存服務.md "wikilink")，由[Automattic公司所持有](../Page/Automattic.md "wikilink")。2005年8月8日进行Beta测试，2005年11月21日向公众开放。它使用的是开源博客软件[WordPress](../Page/WordPress.md "wikilink")\[1\]。WordPress.com可免费使用，付费VIP用户可得到更多支持。閱讀或評論wordpress.com博客的文章时，注册不是必需的。但如果想要撰寫博客，则必須擁有一個帳戶。
+**WordPress.com**是一个[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")[寄存服务站点](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")，由[Automattic公司所持有](../Page/Automattic.md "wikilink")。2005年8月8日进行Beta测试，2005年11月21日向公众开放。它使用的是开源博客软件[WordPress](../Page/WordPress.md "wikilink")\[1\]。WordPress.com可免费使用，付费VIP用户可得到更多支持。閱讀或評論wordpress.com博客的文章时，注册不是必需的。但如果想要撰寫博客，则必須擁有一個帳戶。
 
 ## 中国大陆
 
@@ -6,7 +6,7 @@
 
 2013年，中国大陆的用户可以用https加密的方式访问wordpress,但不能注册账号。2013年4月，Wordpress.com首页短时间https被封锁。2013年5月，中国大陆用户又可正常进入https页面但仍不可注册账号。2013年起，Wordpress.com中加密的HTTPS页面在中国大陆境内基本可以正常访问，而明文传输的HTTP页面则依旧被封锁。2013年9月用于[Gravatar的注册和登錄关联HTTPS可以访问](../Page/Gravatar.md "wikilink")。目前中国大陆的用户可直接访问WordPress.com的大部分站点以及进行登录和注册等操作，但是部分特定站点遭遇封锁无法访问。
 
-一些中国大陆的国产浏览器（如[搜狗浏览器](../Page/搜狗浏览器.md "wikilink")）会阻止WordPress.com的访问，提示“据用户投诉及相关法律法规和政策，该网页包含违法或违规内容，已停止访问”。
+一些中国大陆的国产浏览器（如[搜狗浏览器](https://zh.wikipedia.org/wiki/搜狗浏览器 "wikilink")）会阻止WordPress.com的访问，提示“据用户投诉及相关法律法规和政策，该网页包含违法或违规内容，已停止访问”。
 
 ## 与微软合作
 
@@ -19,7 +19,7 @@ Spaces中国官方之前称正在筹备“本地解决方案”，现已确定�
 ## 参见
 
   - [WordPress](../Page/WordPress.md "wikilink")
-  - [博客](../Page/博客.md "wikilink")
+  - [博客](https://zh.wikipedia.org/wiki/博客 "wikilink")
 
 ## 参考文献
 

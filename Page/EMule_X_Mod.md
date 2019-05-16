@@ -1,9 +1,9 @@
 **eMule X Mod**，简称**X
-Mod**，是基于官方[eMule和](../Page/eMule.md "wikilink")[eMule
+Mod**，是基于官方[eMule和](https://zh.wikipedia.org/wiki/eMule "wikilink")[eMule
 Xtreme
-Mod](../Page/eMule_Xtreme_Mod.md "wikilink")、由中国程序员DolphinX开发的一个[开源](../Page/开源软件.md "wikilink")[免费的](../Page/免费软件.md "wikilink")[P2P](../Page/P2P.md "wikilink")[文件共享软件](../Page/文件共享.md "wikilink")。它是一个[eMule
-Mod](../Page/eMule_Mod.md "wikilink")，遵循GNU
-[GPL协议](../Page/GPL.md "wikilink")。最初版本发布于2009年4月23日。
+Mod](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")、由中国程序员DolphinX开发的一个[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule
+Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
+[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。最初版本发布于2009年4月23日。
 
 X Mod另有一个子项目**eMule Lite**，主要精简了一些不必要的功能，内存占用比较小。
 
@@ -14,7 +14,7 @@ X Mod和Lite是目前少数有64位版本的eMule Mod。
 ## 功能
 
 **eMule X
-Mod**开发的主要目的是改善eMule各方面的细节，以提高用户的体验。相对于[Xtreme](../Page/eMule_Xtreme_Mod.md "wikilink")，X
+Mod**开发的主要目的是改善eMule各方面的细节，以提高用户的体验。相对于[Xtreme](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")，X
 Mod主要增强了以下方面的功能：
 
   - 提高eMule的启动速度
@@ -29,10 +29,11 @@ Mod主要增强了以下方面的功能：
 
 ## 参见
 
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
-  - [eMule](../Page/eMule.md "wikilink")
-  - [eMule Mod](../Page/eMule_Mod.md "wikilink")
-  - [eMule Xtreme Mod](../Page/eMule_Xtreme_Mod.md "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
+  - [eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")
+  - [eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")
+  - [eMule Xtreme
+    Mod](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")
   - [吸血驴](../Page/吸血驴.md "wikilink")
   - [动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")
 

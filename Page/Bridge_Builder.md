@@ -1,11 +1,11 @@
 **桥梁工程师系列**是由Chronic Logic 开发的一系列电脑游戏。包括Pontifex, Pontifex 2
 (之后更名为Bridge Construction Set),以及Bridge
-It。游戏的目标是用给出的有限材料建立能够让[火车通过的桥](../Page/火车.md "wikilink")。
+It。游戏的目标是用给出的有限材料建立能够让[火车通过的桥](https://zh.wikipedia.org/wiki/火车 "wikilink")。
 
 ## 游戏体验
 
 每一个关卡都包含一个基本[地形](../Page/地形.md "wikilink")，比如[河流或者](../Page/河流.md "wikilink")[悬崖](../Page/悬崖.md "wikilink")。还有一小段轨道以显示火车出现的地点，一些在环境中给予基本支撑的固定点。
-玩家建造的桥必须不超出[预算且可以让火车成功通过方可过关](../Page/预算.md "wikilink")
+玩家建造的桥必须不超出[预算且可以让火车成功通过方可过关](https://zh.wikipedia.org/wiki/预算 "wikilink")
 
 ## 參考資料
 
@@ -16,13 +16,14 @@ It。游戏的目标是用给出的有限材料建立能够让[火车通过的�
     regarding *Bridge It*.
   - [Interview with Chronic
     Logic](https://web.archive.org/web/20100106021820/http://www.gamedev.net/columns/interviews/pontifex.asp)
-    on [GameDev](../Page/GameDev.md "wikilink").
+    on [GameDev](https://zh.wikipedia.org/wiki/GameDev "wikilink").
   - [Review of
     Pontifex](http://www.firingsquad.com/games/pontifex/default.asp) on
     Firingsquad.com
   - [Interview with Chronic
     Logic](https://web.archive.org/web/20070927204151/http://www.imgmagazine.com/features/view.php?ID=377)
-    on [InsideMacGames](../Page/InsideMacGames.md "wikilink")
+    on
+    [InsideMacGames](https://zh.wikipedia.org/wiki/InsideMacGames "wikilink")
   - [Interview with Chronic
     Logic](https://web.archive.org/web/20070928040237/http://www.gamersinfo.net/index.php?art%2Fid%3A309)
     on GamersInfo.net

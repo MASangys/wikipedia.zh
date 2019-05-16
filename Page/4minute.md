@@ -1,4 +1,4 @@
-**4Minute(4M)**（）是[韓國娛樂公司](../Page/韓國.md "wikilink")[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2009年6月成立的五人[女子音樂組合](../Page/女子音樂組合.md "wikilink")，成員包括[南智賢](../Page/南智賢.md "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](../Page/田祉潤.md "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot
+**4Minute(4M)**（）是[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂於](../Page/Cube娛樂.md "wikilink")2009年6月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括[南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[田祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")、[金泫雅](../Page/金泫雅.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")。2009年6月18日，以首張單曲《Hot
 Issue》正式出道。
 
 團名的意義即在舞台上的4分鐘内展示她們每個人的不同魅力，另外，for (a) Minute也包含了她們希望在每個瞬間都會努力做到最好的意思。
@@ -12,25 +12,25 @@ Issue》正式出道。
 ### 2009年：以首張單曲出道、首张迷你专辑《For Muzik》
 
 5月14日，[Cube
-Entertainment公開新人女子團體](../Page/Cube_Entertainment.md "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](../Page/南智賢.md "wikilink")[Wonder
-Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](../Page/泫雅.md "wikilink")。6月13日，於網上公開了出道單曲《[Hot
+Entertainment公開新人女子團體](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](https://zh.wikipedia.org/wiki/南智賢 "wikilink")[Wonder
+Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。6月13日，於網上公開了出道單曲《[Hot
 Issue](../Page/For_Muzik.md "wikilink")》的30秒音樂影像預告。其後6月15日公開《Hot
 Issue》的MV，成為搜索排行榜的第一名。6月18日，以出道曲《Hot
-Issue》在[Mnet的音樂節目](../Page/Mnet.md "wikilink")《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For
-Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》獲得了第一個1位及10月1日《M\!
-Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](../Page/KBS.md "wikilink")《For
+Issue》在[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For
+Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了第一個1位及10月1日《M\!
+Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](https://zh.wikipedia.org/wiki/KBS "wikilink")《For
 Muzik》中收錄的《안줄래 (Won't Give
 You)》進行了評估，後被評為附有色情詞句的歌曲，在電視台禁播。其後10月18日，她們以後續曲《What
 A Girl
-Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](../Page/Mario.md "wikilink")《Jingle
+Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](https://zh.wikipedia.org/wiki/Mario "wikilink")《Jingle
 Jingle》，歌曲MV則在翌日公開。
 
 ### 2010年：泫雅Solo出道、第二張迷你專輯《Hit Your Heart》
 
-1月8日，[泫雅公開了與](../Page/金泫雅.md "wikilink")[BEAST](../Page/BEAST.md "wikilink")[龍俊亨合作的個人Solo單曲](../Page/龍俊亨.md "wikilink")《[Change](../Page/Change_\(歌曲\).md "wikilink")》。5月19日，4Minute公開了第二張迷你專輯《[Hit
+1月8日，[泫雅公開了與](../Page/金泫雅.md "wikilink")[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨合作的個人Solo單曲](../Page/龍俊亨.md "wikilink")《[Change](../Page/Change_\(歌曲\).md "wikilink")》。5月19日，4Minute公開了第二張迷你專輯《[Hit
 Your Heart](../Page/Hit_Your_Heart.md "wikilink")》，主打歌《Huh》在6月17日的《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》得到了1位。其後她們於7月1日起開始以後續曲《I
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》得到了1位。其後她們於7月1日起開始以後續曲《I
 My Me Mine》進行了短暫的宣傳。
 
 ### 2011年：首張正規專輯《4minutes Left》、泫雅首張迷你專輯《Bubble Pop\!》、泫雅與BEAST成員賢勝組成Trouble Maker出道
@@ -42,15 +42,15 @@ Left](../Page/4minutes_Left.md "wikilink")》。此次專輯採用雙主打的�
 Mirror)》作為第一波主打歌，其後在4月21日的《M\!
 Countdown》得到了1位。6月1日起以第二波主打歌《Heart to
 Heart》進行了短暫的宣傳。在完成4Minute的專輯宣傳後，7月5日[泫雅公開了首張個人迷你專輯](../Page/金泫雅.md "wikilink")《》，主打曲為《》，並以《Follow
-Me》作為後續曲。她之後於12月15日與同公司的[BEAST成員](../Page/BEAST.md "wikilink")[賢勝組成特別企劃](../Page/張賢勝.md "wikilink")[Trouble
+Me》作為後續曲。她之後於12月15日與同公司的[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[賢勝組成特別企劃](../Page/張賢勝.md "wikilink")[Trouble
 Maker](../Page/Trouble_Maker.md "wikilink")，其後公開了同名主打曲《Trouble
 Maker》，並分別於12月15日、12月22日、12月29日的《[M\!
-Countdown](../Page/M!_Countdown.md "wikilink")》、2012年1月5日的《》及2012年1月8日的《[人氣歌謠](../Page/人氣歌謠.md "wikilink")》取得一位。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、2012年1月5日的《》及2012年1月8日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》取得一位。
 
 ### 2012年：第三張迷你專輯《Volume Up》、泫雅第二張迷你專輯《Melting》
 
 2012年年初，[Cube
-Entertainment曾向外界釋出了](../Page/Cube_Entertainment.md "wikilink")4Minute將於2月發行第三張迷你專輯的消息。不過後來不斷延期至4月9日，與去年4月發表的正規專輯足足隔了一年。經紀公司表示此次專輯會以新嘗試的實驗性風格作突破，一共收錄7首歌曲，包括[新沙洞老虎等知名音樂製作人打造屬於](../Page/新沙洞老虎.md "wikilink")4Minute的特色。
+Entertainment曾向外界釋出了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute將於2月發行第三張迷你專輯的消息。不過後來不斷延期至4月9日，與去年4月發表的正規專輯足足隔了一年。經紀公司表示此次專輯會以新嘗試的實驗性風格作突破，一共收錄7首歌曲，包括[新沙洞老虎等知名音樂製作人打造屬於](../Page/新沙洞老虎.md "wikilink")4Minute的特色。
 第三張迷你專輯《[Volume
 Up](../Page/Volume_Up.md "wikilink")》於2012年4月9日公開發售，主打曲為《Volume
 Up》。首張概念照於4月3日韓國時間下午1時公開，在這張照片中她們以較清純的形象示人。第二張概念照於4月4日韓國時間下午4時44分公開，與前一張概念照風格截然不同，以吸血鬼的形象示人。首波MV預告於4月6日韓國時間上午10時公開發佈，而第二個MV預告於4月8日韓國時間上午10時公開發佈。MV則於4月9日連同音源公開發佈。
@@ -62,19 +62,19 @@ Cream》的MV於10月22日發布，PSY為感謝泫雅先前參與《[江南Style
 ### 2013年：子團2Yoon出道、第四張迷你專輯《Name is 4minute》、Trouble Maker第二張迷你專輯《CHEMISTRY》
 
 在去年的12月25日，[Cube
-Entertainment社長在他的個人](../Page/Cube_Entertainment.md "wikilink")[Twitter中對外透露由成員](../Page/Twitter.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](../Page/田祉潤.md "wikilink")[2Yoon限定團體將於](../Page/2Yoon.md "wikilink")2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest
+Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter中對外透露由成員](../Page/Twitter.md "wikilink")[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的](https://zh.wikipedia.org/wiki/田祉潤 "wikilink")[2Yoon限定團體將於](../Page/2Yoon.md "wikilink")2013年1月推出，而當時專輯已在後製階段即將完成。2Yoon的首張迷你專輯《[Harvest
 Moon](../Page/Harvest_Moon.md "wikilink")》於1月17日中午公開發售，MV於當日連同音源公開，主打曲《24/7》的音樂風格為Country
 Pop，由新沙洞老虎、金度勋及李尚浩聯手創作。
 
 第四張迷你專輯《[Name is
-4minute](../Page/Name_is_4minute.md "wikilink")》於2013年4月26日公開發售，主打曲為《이름이
+4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》於2013年4月26日公開發售，主打曲為《이름이
 뭐예요? (What's Your Name?)》。MV與音源於同日公開發佈。在《[Name is
-4minute](../Page/Name_is_4minute.md "wikilink")》專輯中，她們表現出只有4Minute能駕馭的強悍形象，而專輯中混合了嘻哈、搖滾、電子樂等各種類型的音樂，更突顯了4Minute的獨特魅力。總是處在話題中心的她們與韓國知名製作人「[勇敢兄弟](../Page/Brave_Brothers.md "wikilink")」合作新嘻哈風主打歌《What's
+4minute](https://zh.wikipedia.org/wiki/Name_is_4minute "wikilink")》專輯中，她們表現出只有4Minute能駕馭的強悍形象，而專輯中混合了嘻哈、搖滾、電子樂等各種類型的音樂，更突顯了4Minute的獨特魅力。總是處在話題中心的她們與韓國知名製作人「[勇敢兄弟](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")」合作新嘻哈風主打歌《What's
 Your Name?》，是首節奏感強烈且旋律輕快的歌曲，而她們也在MV中引領舞群大跳「殭屍舞」。
 
 為了感謝粉絲對《What's Your Name?》的支持，4Minute於6月28日釋出新MV《Is It
-Poppin?》再度回歸歌壇；在之前由於未能通過審核，被KBS電視台禁播，禁播理由是因為歌詞裡有「ASS（屁股）」一詞。歌曲是活潑旋律hiphop舞曲，由[勇敢兄弟創作](../Page/Brave_Brothers.md "wikilink")，可以再次感受到4Minute的特色。4Minute於28日發表新歌後開始活動。
-之後，[泫雅的特別企劃](../Page/泫雅.md "wikilink")[Trouble
+Poppin?》再度回歸歌壇；在之前由於未能通過審核，被KBS電視台禁播，禁播理由是因為歌詞裡有「ASS（屁股）」一詞。歌曲是活潑旋律hiphop舞曲，由[勇敢兄弟創作](https://zh.wikipedia.org/wiki/Brave_Brothers "wikilink")，可以再次感受到4Minute的特色。4Minute於28日發表新歌後開始活動。
+之後，[泫雅的特別企劃](https://zh.wikipedia.org/wiki/泫雅 "wikilink")[Trouble
 Maker回歸](../Page/Trouble_Maker.md "wikilink")，於10月28日公開了主打歌《내일은없어(Now)》及MV。
 
 ### 2014年：第五張迷你專輯《4Minute World》、泫雅第三張迷你專輯《A Talk》
@@ -91,7 +91,7 @@ Doin' Today?」\[4\]
 ### 2015年：第六張迷你專輯《Crazy》、昭賢真少女組合、泫雅第四張個人迷你專輯《A+》
 
 1月20日，[Cube
-Entertainment通過官方SNS公開了](../Page/Cube_Entertainment.md "wikilink")4Minute的回歸預告片。此次將於2月攜雙主打歌正式回歸，並在1月26日公開第一首主打歌《Cold
+Entertainment通過官方SNS公開了](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")4Minute的回歸預告片。此次將於2月攜雙主打歌正式回歸，並在1月26日公開第一首主打歌《Cold
 Rain》的音源及MV\[5\]。
 
 2月9日，發行迷你六輯《[Crazy](../Page/Crazy_\(4MINUTE迷你專輯\).md "wikilink")》；10日，《Crazy》
@@ -117,15 +117,15 @@ Crush）概念\[7\]。
 
 ## 成員資料
 
-| 已離開成員列表                          |
-| -------------------------------- |
-| 本名                               |
-| 漢字                               |
-| [南智賢](../Page/南智賢.md "wikilink") |
-| [許嘉允](../Page/許嘉允.md "wikilink") |
-| [田祉潤](../Page/田祉潤.md "wikilink") |
-| [金泫雅](../Page/金泫雅.md "wikilink") |
-| [權昭賢](../Page/權昭賢.md "wikilink") |
+| 已離開成員列表                                             |
+| --------------------------------------------------- |
+| 本名                                                  |
+| 漢字                                                  |
+| [南智賢](https://zh.wikipedia.org/wiki/南智賢 "wikilink") |
+| [許嘉允](../Page/許嘉允.md "wikilink")                    |
+| [田祉潤](https://zh.wikipedia.org/wiki/田祉潤 "wikilink") |
+| [金泫雅](../Page/金泫雅.md "wikilink")                    |
+| [權昭賢](../Page/權昭賢.md "wikilink")                    |
 
 ## 綜藝活動
 
@@ -284,7 +284,7 @@ Crush）概念\[7\]。
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="../Page/Name_is_4minute.md" title="wikilink">NAME IS 4MINUTE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Name_is_4minute" title="wikilink">NAME IS 4MINUTE</a></strong>》</p>
 <ul>
 <li>語言：韓語</li>
 <li>發行時間：2013年4月26日<br />
@@ -307,7 +307,7 @@ Crush）概念\[7\]。
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="../Page/Crazy_(4MINUTE迷你专辑).md" title="wikilink">CRAZY</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Crazy_(4MINUTE迷你专辑)" title="wikilink">CRAZY</a></strong>》</p>
 <ul>
 <li>語言：韓語</li>
 <li>發行時間：2015年2月9日</li>
@@ -423,7 +423,7 @@ Crush）概念\[7\]。
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/FIRST_/_DREAMS_COME_TRUE.md" title="wikilink">FIRST / DREAMS COME TRUE</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/FIRST_/_DREAMS_COME_TRUE" title="wikilink">FIRST / DREAMS COME TRUE</a></strong>》</p>
 <ul>
 <li>發行日期：2010年10月27日</li>
 <li>銷量：4,039+</li>
@@ -545,7 +545,7 @@ Crush）概念\[7\]。
 <td><p>《<strong>EMERALD OF 4MINUTE</strong>》</p>
 <ul>
 <li>發行日期：2011年9月7日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>唱片類型：LIVE DVD</li>
 <li>銷量：4,000+</li>
 </ul></td>
@@ -573,7 +573,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/學習之神.md" title="wikilink">學習之神</a>》OST《<strong>Dreams Come True</strong>》</p>
 <ul>
 <li>發行日期：2010年1月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -582,7 +582,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/個人取向.md" title="wikilink">個人取向</a>》OST《<strong>사랑 만들기(製造愛情)</strong>》</p>
 <ul>
 <li>發行日期：2010年4月14日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -591,7 +591,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/逃亡者Plan.B.md" title="wikilink">逃亡者Plan.B</a>》(KBS水木劇)OST《'''Chaos A.D. '''》</p>
 <ul>
 <li>發行日期：2010年10月13日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -600,7 +600,7 @@ Crush）概念\[7\]。
 <td><p>動畫片《地球代表Rolling Star》OST《<strong>Rolling Star</strong>》</p>
 <ul>
 <li>發行日期：2010年11月11日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -609,7 +609,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/沒關係，爸爸的女兒.md" title="wikilink">沒關係，爸爸的女兒</a>》OST Part.3《<strong>One Thing</strong>》</p>
 <ul>
 <li>發行日期：2010年12月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -618,7 +618,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/我的公主.md" title="wikilink">我的公主</a>》(MBC水木劇)OST Part.1《<strong>바람불어라(風兒吹吧)</strong>》</p>
 <ul>
 <li>發行日期：2011年1月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/許嘉允.md" title="wikilink">嘉允</a></li>
 </ul></td>
 <td></td>
@@ -628,8 +628,8 @@ Crush）概念\[7\]。
 <td><p>電視劇《<a href="../Page/我的公主.md" title="wikilink">我的公主</a>》(MBC水木劇)OST Part.2《<strong>Oasis</strong>》</p>
 <ul>
 <li>發行日期：2011年2月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>歌手：<a href="../Page/田祉潤.md" title="wikilink">祉潤</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>歌手：<a href="https://zh.wikipedia.org/wiki/田祉潤" title="wikilink">祉潤</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -638,7 +638,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《對我說謊試試》(SBS月火劇)OST Part.1《<strong>無恥的謊言</strong>》</p>
 <ul>
 <li>發行日期：2011年5月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/許嘉允.md" title="wikilink">嘉允</a></li>
 </ul></td>
 <td></td>
@@ -648,7 +648,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《波塞冬》OST Part.4《<strong>꿈이라고 생각해(當作是場夢)</strong>》</p>
 <ul>
 <li>發行日期：2011年10月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/許嘉允.md" title="wikilink">嘉允</a></li>
 </ul></td>
 <td></td>
@@ -658,7 +658,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《学校2013》OST Part.1《<strong>Welcome to The School</strong>》</p>
 <ul>
 <li>發行日期：2012年12月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<strong>4minute</strong></li>
 </ul></td>
 <td></td>
@@ -668,7 +668,7 @@ Crush）概念\[7\]。
 <td><p>電視劇《龍八夷》OST Part.2《<strong>악몽(噩夢)</strong>》</p>
 <ul>
 <li>發行日期：2015年8月19日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/許嘉允.md" title="wikilink">嘉允</a></li>
 </ul></td>
 <td></td>
@@ -695,7 +695,7 @@ Crush）概念\[7\]。
 <td><p>《<strong>Jingle Jingle</strong>》</p>
 <ul>
 <li>發行日期：2009年12月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -704,7 +704,7 @@ Crush）概念\[7\]。
 <td><p>《<strong>슈퍼스타（Superstar）</strong>》</p>
 <ul>
 <li>發行日期：2010年7月19日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>Mnet SuperStar K 2主題曲</li>
 </ul></td>
 <td></td>
@@ -714,7 +714,7 @@ Crush）概念\[7\]。
 <td><p>《<strong>나쁜남자 착한여자 (壞男人 好女人)</strong>》</p>
 <ul>
 <li>發行日期：2010年9月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>唱片類型：Sunny Side 合作單曲</li>
 <li>歌手：Sunny Side（Feat. 許嘉允）</li>
 </ul></td>
@@ -725,7 +725,7 @@ Crush）概念\[7\]。
 <td><p>《<strong>Together Forever Vol.1</strong>》</p>
 <ul>
 <li>發行日期：2010年11月10日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：G.NA &amp; 4minute泫雅</li>
 </ul></td>
 <td></td>
@@ -735,8 +735,8 @@ Crush）概念\[7\]。
 <td><p>《<strong>Without U</strong>》</p>
 <ul>
 <li>發行日期：2011年5月7日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
-<li>歌手：<a href="../Page/青山黛玛.md" title="wikilink">青山テルマ</a> (feat. 4Minute)</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+<li>歌手：<a href="https://zh.wikipedia.org/wiki/青山黛玛" title="wikilink">青山テルマ</a> (feat. 4Minute)</li>
 </ul></td>
 <td></td>
 </tr>
@@ -745,8 +745,8 @@ Crush）概念\[7\]。
 <td><p>《<strong>Christmas Song</strong>》</p>
 <ul>
 <li>發行日期：2013年12月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
-<li>歌手：4minute、<a href="../Page/BEAST.md" title="wikilink">BEAST</a>、<a href="../Page/G.NA.md" title="wikilink">G.NA</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="../Page/盧志勛.md" title="wikilink">盧志勛</a>、、<a href="../Page/辛知勳.md" title="wikilink">辛知勳</a>、<a href="../Page/A_Pink.md" title="wikilink">A Pink</a>、<a href="../Page/許閣.md" title="wikilink">許閣</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>歌手：4minute、<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>、<a href="../Page/G.NA.md" title="wikilink">G.NA</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="https://zh.wikipedia.org/wiki/盧志勛" title="wikilink">盧志勛</a>、、<a href="../Page/辛知勳.md" title="wikilink">辛知勳</a>、<a href="https://zh.wikipedia.org/wiki/A_Pink" title="wikilink">A Pink</a>、<a href="../Page/許閣.md" title="wikilink">許閣</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -930,36 +930,36 @@ Crush）概念\[7\]。
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                               | 節目名稱                                                 | 獲獎歌曲                | 排名 |
-| ----- | ------ | ------------------------------------------------- | ---------------------------------------------------- | ------------------- | -- |
-| 2009年 | 9月27日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")           | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   | Muzik               | 1位 |
-| 2009年 | 10月1日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2010年 | 6月17日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  | Huh                 | 1位 |
-| 2011年 | 4月21日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  | Mirror Mirror       | 1位 |
-| 2011年 | 12月23日 | [KBS](../Page/KBS.md "wikilink")                  | [Music Bank](../Page/Music_Bank.md "wikilink")       | 年終結算:第21位           |    |
-| 2012年 | 4月17日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") | Volume Up           | 1位 |
-| 2012年 | 4月24日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") |                     |    |
-| 2012年 | 5月3日   | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2012年 | 12月21日 | [KBS](../Page/KBS.md "wikilink")                  | [Music Bank](../Page/Music_Bank.md "wikilink")       | 年終結算:第20位           |    |
-| 2013年 | 5月8日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") | What's Your Name?   | 1位 |
-| 2013年 | 5月9日   | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2013年 | 5月15日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") |                     |    |
-| 2013年 | 5月16日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2013年 | 5月19日  | [SBS](../Page/SBS株式會社.md "wikilink")              | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   |                     |    |
-| 2013年 | 5月22日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") |                     |    |
-| 2013年 | 5月26日  | [SBS](../Page/SBS株式會社.md "wikilink")              | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   |                     |    |
-| 2013年 | 7月14日  | [SBS](../Page/SBS株式會社.md "wikilink")              | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   | 上半年結算:第1位           |    |
-| 2013年 | 12月20日 | [KBS](../Page/KBS.md "wikilink")                  | [Music Bank](../Page/Music_Bank.md "wikilink")       | 年終結算:第6位            |    |
-| 2014年 | 3月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")           | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   | Whatcha Doin' Today | 1位 |
-| 2014年 | 4月3日   | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2015年 | 2月18日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") | Crazy               | 1位 |
-| 2015年 | 2月19日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2015年 | 2月21日  | [MBC](../Page/MBC.md "wikilink")                  | [Show\! 音樂中心](../Page/Show!_音樂中心.md "wikilink")      |                     |    |
-| 2015年 | 2月22日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")           | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   |                     |    |
-| 2015年 | 2月25日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink") | [Show Champion](../Page/Show_Champion.md "wikilink") |                     |    |
-| 2015年 | 2月26日  | [Mnet](../Page/Mnet.md "wikilink")                | [M\! Countdown](../Page/M!_Countdown.md "wikilink")  |                     |    |
-| 2015年 | 3月1日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")           | [人氣歌謠](../Page/人氣歌謠.md "wikilink")                   |                     |    |
-|       |        |                                                   |                                                      |                     |    |
+| 年份    | 日期     | 電視台                                                     | 節目名稱                                                                   | 獲獎歌曲                | 排名 |
+| ----- | ------ | ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- | -- |
+| 2009年 | 9月27日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Muzik               | 1位 |
+| 2009年 | 10月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2010年 | 6月17日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Huh                 | 1位 |
+| 2011年 | 4月21日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Mirror Mirror       | 1位 |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第21位           |    |
+| 2012年 | 4月17日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Volume Up           | 1位 |
+| 2012年 | 4月24日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
+| 2012年 | 5月3日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2012年 | 12月21日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第20位           |    |
+| 2013年 | 5月8日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | What's Your Name?   | 1位 |
+| 2013年 | 5月9日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2013年 | 5月15日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
+| 2013年 | 5月16日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2013年 | 5月19日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
+| 2013年 | 5月22日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
+| 2013年 | 5月26日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
+| 2013年 | 7月14日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 上半年結算:第1位           |    |
+| 2013年 | 12月20日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第6位            |    |
+| 2014年 | 3月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Whatcha Doin' Today | 1位 |
+| 2014年 | 4月3日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2015年 | 2月18日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Crazy               | 1位 |
+| 2015年 | 2月19日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2015年 | 2月21日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                     |    |
+| 2015年 | 2月22日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
+| 2015年 | 2月25日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
+| 2015年 | 2月26日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2015年 | 3月1日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
+|       |        |                                                         |                                                                        |                     |    |
 
 ## 主要音樂節目榜單排名
 

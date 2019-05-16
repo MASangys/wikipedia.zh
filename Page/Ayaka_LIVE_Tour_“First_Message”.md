@@ -13,19 +13,19 @@ Message”**」為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Pag
 3.  **Story**
 4.  **君のパワーと大人のフリ（你的力量與成熟模樣）**
 5.  **Stay with me**
-6.  **[melody](../Page/melody〜SOUNDS_REAL〜.md "wikilink")**
+6.  **[melody](https://zh.wikipedia.org/wiki/melody〜SOUNDS_REAL〜 "wikilink")**
 7.  **Sha la la**
 8.  **TO BE WITH YOU**
 9.  **永遠の物語（永遠的故事）**
 10. **blue days**
-11. **[I believe](../Page/I_believe.md "wikilink")**
+11. **[I believe](https://zh.wikipedia.org/wiki/I_believe "wikilink")**
 12. **時を戻して（讓時光倒流）**
 13. **1・2・3・4**
 14. **Let's go to the party**
 15. **ライラライ （Lai la lai）**
 16. **[Real voice](../Page/Real_voice.md "wikilink")**
 17. **Peace loving people**
-18. **[三日月](../Page/三日月.md "wikilink")**
+18. **[三日月](https://zh.wikipedia.org/wiki/三日月 "wikilink")**
 
 <!-- end list -->
 

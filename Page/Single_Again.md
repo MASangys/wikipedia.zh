@@ -1,11 +1,11 @@
 《**Single
-Again**》（[日語](../Page/日語.md "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[竹內瑪莉亞的第](../Page/竹內瑪莉亞.md "wikilink")18張[單曲](../Page/單曲.md "wikilink")。1989年9月12日發行。是竹內瑪莉亞迄今銷量第二高的單曲和代表作之一。
+Again**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[竹內瑪莉亞的第](../Page/竹內瑪莉亞.md "wikilink")18張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1989年9月12日發行。是竹內瑪莉亞迄今銷量第二高的單曲和代表作之一。
 
 ## 簡介
 
 歌詞講述一個因為第三者介入而被拋棄的女性，生活上遭遇著各種變化，後來那個拋棄了自己的男人被第三者甩掉，自己還要去安慰他的故事。
 
-被用作[火曜推理劇場的第八代主題曲](../Page/火曜推理劇場.md "wikilink")（1989年6月6日—1990年9月18日使用）。
+被用作[火曜推理劇場的第八代主題曲](https://zh.wikipedia.org/wiki/火曜推理劇場 "wikilink")（1989年6月6日—1990年9月18日使用）。
 
 在[Oricon公信榜最高排行第](../Page/Oricon公信榜.md "wikilink")2位，是竹內當時在Oricon最高的排位（之前最高是《[不思議的桃子派](../Page/不思議的桃子派.md "wikilink")》，第3位）。總出貨量達70萬以上\[1\]，總銷量達53.9萬張，是1989年度日本單曲銷量第22位\[2\]，1990年度的第50位\[3\]。
 
@@ -21,13 +21,13 @@ Again**》（[日語](../Page/日語.md "wikilink")：），是[日本女性](..
 
 1.  **Single Again**（）
       -
-        [火曜推理劇場第八代主題曲](../Page/火曜推理劇場.md "wikilink")（1989年6月6日 -
-        1990年9月18日）
+        [火曜推理劇場第八代主題曲](https://zh.wikipedia.org/wiki/火曜推理劇場 "wikilink")（1989年6月6日
+        - 1990年9月18日）
         [火曜Drama
-        Gold主題曲](../Page/火曜Drama_Gold.md "wikilink")（2007年1月30日）
+        Gold主題曲](https://zh.wikipedia.org/wiki/火曜Drama_Gold "wikilink")（2007年1月30日）
 2.  **Hey\! Baby**
       -
-        1986年竹內提供給[森下惠理的歌曲](../Page/森下惠理.md "wikilink")
+        1986年竹內提供給[森下惠理的歌曲](https://zh.wikipedia.org/wiki/森下惠理 "wikilink")
 
 ## 參考資料
 

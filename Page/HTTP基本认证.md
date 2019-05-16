@@ -1,32 +1,33 @@
-在[HTTP中](../Page/HTTP.md "wikilink")，**基本认证**（Basic access
-authentication）是一种用来允许[网页浏览器或其他客户端程序在请求时提供](../Page/网页浏览器.md "wikilink")[用户名和](../Page/用户名.md "wikilink")[口令形式的身份凭证的一种登录验证方式](../Page/口令.md "wikilink")。
+在[HTTP中](https://zh.wikipedia.org/wiki/HTTP "wikilink")，**基本认证**（Basic
+access
+authentication）是一种用来允许[网页浏览器或其他客户端程序在请求时提供](../Page/网页浏览器.md "wikilink")[用户名和](https://zh.wikipedia.org/wiki/用户名 "wikilink")[口令形式的身份凭证的一种登录验证方式](https://zh.wikipedia.org/wiki/口令 "wikilink")。
 
-在发送之前是以用户名追加一个冒号然后[串接上口令](../Page/串接.md "wikilink")，并将得出的结果[字符串再用](../Page/字符串.md "wikilink")[Base64算法编码](../Page/Base64.md "wikilink")。例如，提供的用户名是`Aladdin`、口令是`open
+在发送之前是以用户名追加一个冒号然后[串接上口令](https://zh.wikipedia.org/wiki/串接 "wikilink")，并将得出的结果[字符串再用](../Page/字符串.md "wikilink")[Base64算法编码](../Page/Base64.md "wikilink")。例如，提供的用户名是`Aladdin`、口令是`open
 sesame`，则拼接后的结果就是`Aladdin:open
 sesame`，然后再将其用Base64编码，得到`QWxhZGRpbjpvcGVuIHNlc2FtZQ==`。最终将Base64编码的字符串发送出去，由接收者解码得到一个由冒号分隔的用户名和口令的字符串。
 
-虽然对用户名和口令的Base64算法编码结果很难用肉眼识别解码，但它仍可以极为轻松地被计算机所解码，就像其容易编码一样。编码这一步骤的目的并不是安全与隐私，而是为将用户名和口令中的不兼容的字符转换为均与[HTTP协议兼容的字符集](../Page/HTTP协议.md "wikilink")。
+虽然对用户名和口令的Base64算法编码结果很难用肉眼识别解码，但它仍可以极为轻松地被计算机所解码，就像其容易编码一样。编码这一步骤的目的并不是安全与隐私，而是为将用户名和口令中的不兼容的字符转换为均与[HTTP协议兼容的字符集](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")。
 
 最初，基本认证是定义在HTTP 1.0规范（RFC 1945）中，后续的有关安全的信息可以在HTTP 1.1规范（RFC
 2616）和HTTP认证规范（RFC 2617）中找到。
 
 ## 优点
 
-基本认证的一个优点是基本上所有流行的网页浏览器都支持基本认证\[1\]。基本认证很少在可公开访问的[互联网](../Page/互联网.md "wikilink")[网站上使用](../Page/网站.md "wikilink")，有时候会在小的私有系统中使用（如[路由器网页管理接口](../Page/路由器.md "wikilink")）。后来的机制[HTTP摘要认证是为替代基本认证而开发的](../Page/HTTP摘要认证.md "wikilink")，允许密钥以相对安全的方式在不安全的通道上传输。
+基本认证的一个优点是基本上所有流行的网页浏览器都支持基本认证\[1\]。基本认证很少在可公开访问的[互联网](../Page/互联网.md "wikilink")[网站上使用](https://zh.wikipedia.org/wiki/网站 "wikilink")，有时候会在小的私有系统中使用（如[路由器网页管理接口](../Page/路由器.md "wikilink")）。后来的机制[HTTP摘要认证是为替代基本认证而开发的](../Page/HTTP摘要认证.md "wikilink")，允许密钥以相对安全的方式在不安全的通道上传输。
 
 程序员和系统管理员有时会在可信网络环境中使用基本认证，使用[Telnet或其他明文网络协议工具手动地测试Web服务器](../Page/Telnet.md "wikilink")。这是一个麻烦的过程，但是网络上传输的内容是人可读的，以便进行诊断。
 
 ## 缺点
 
-虽然基本认证非常容易实现，但该方案建立在以下的假设的基础上，即：客户端和服务器主机之间的连接是安全可信的。特别是，如果没有使用[SSL/TLS这样的传输层安全的协议](../Page/传输层安全.md "wikilink")，那么以[明文传输的密钥和口令很容易被拦截](../Page/明文.md "wikilink")。该方案也同样没有对服务器返回的信息提供保护。
+虽然基本认证非常容易实现，但该方案建立在以下的假设的基础上，即：客户端和服务器主机之间的连接是安全可信的。特别是，如果没有使用[SSL/TLS这样的传输层安全的协议](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，那么以[明文传输的密钥和口令很容易被拦截](https://zh.wikipedia.org/wiki/明文 "wikilink")。该方案也同样没有对服务器返回的信息提供保护。
 
 现存的浏览器保存认证信息直到标签页或浏览器被关闭，或者用户清除历史记录。\[2\]HTTP没有为服务器提供一种方法指示客户端丢弃这些被缓存的密钥。这意味着服务器端在用户不關閉瀏覽器的情況下，並没有一种有效的方法来让用户登出。
 
 ## 例子
 
-这一个典型的HTTP客户端和HTTP服务器的对话，服务器安装在同一台计算机上（[localhost](../Page/localhost.md "wikilink")），包含以下步骤：
+这一个典型的HTTP客户端和HTTP服务器的对话，服务器安装在同一台计算机上（[localhost](https://zh.wikipedia.org/wiki/localhost "wikilink")），包含以下步骤：
 
-  - 客户端请求一个需要身份认证的页面，但是没有提供用户名和口令。这通常是用户在地址栏输入一个[URL](../Page/URL.md "wikilink")，或是打开了一个指向该页面的[链接](../Page/超链接.md "wikilink")。
+  - 客户端请求一个需要身份认证的页面，但是没有提供用户名和口令。这通常是用户在地址栏输入一个[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，或是打开了一个指向该页面的[链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")。
   - 服务端响应一个401[应答码](../Page/HTTP状态码.md "wikilink")，并提供一个认证域。
   - 接到应答后，客户端显示该认证域（通常是所访问的计算机或系统的描述）给用户并提示输入用户名和口令。此时用户可以选择确定或取消。
   - 用户输入了用户名和口令后，客户端软件会在原先的请求上增加认证消息头（值是`base64encode(username+":"+password)`），然后重新发送再次尝试。
@@ -43,7 +44,7 @@ GET /private/index.html HTTP/1.0
 Host: localhost
 ```
 
-（跟随一个[换行](../Page/换行.md "wikilink")，以[回车（CR）加](../Page/回车符.md "wikilink")[换行（LF）的形式](../Page/换行.md "wikilink")）
+（跟随一个[换行](https://zh.wikipedia.org/wiki/换行 "wikilink")，以[回车（CR）加](../Page/回车符.md "wikilink")[换行（LF）的形式](https://zh.wikipedia.org/wiki/换行 "wikilink")）
 
 **服务端应答**：
 
@@ -128,7 +129,7 @@ $ echo -n "QWxhZGRpbjpvcGVuIHNlc2FtZQ==" | base64 -d
 Aladdin:open sesame
 ```
 
-  - 用[XQuery](../Page/XQuery.md "wikilink")（eXist-db）：
+  - 用[XQuery](https://zh.wikipedia.org/wiki/XQuery "wikilink")（eXist-db）：
 
 <!-- end list -->
 
@@ -174,7 +175,7 @@ Content-Length: 10476
   - [RFC2617: HTTP Authentication: Basic and Digest Access
     Authentication](http://tools.ietf.org/html/rfc2617)
 
-[分类:認證方法](../Page/分类:認證方法.md "wikilink")
+[分类:認證方法](https://zh.wikipedia.org/wiki/分类:認證方法 "wikilink")
 
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
 

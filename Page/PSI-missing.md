@@ -6,7 +6,7 @@ Universal Entertainment Japan, LLC.發行。
 1.  **PSI-missing**（4:20）
       -
         作詞：川田まみ／作曲：中澤伴行／編曲：中澤伴行、尾崎武士
-        [AT-X和](../Page/AT-X.md "wikilink")[全國獨立UHF放送協議會的](../Page/全國獨立UHF放送協議會.md "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](../Page/魔法禁書目錄.md "wikilink")》前期[主題曲](../Page/主題曲.md "wikilink")
+        [AT-X和](../Page/AT-X.md "wikilink")[全國獨立UHF放送協議會的](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[魔法禁書目錄](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》前期[主題曲](../Page/主題曲.md "wikilink")
 2.  **雨**（4:36）
       -
         作詞：川田まみ／作曲：中澤伴行／編曲：中沢伴行、尾崎武士
@@ -38,8 +38,8 @@ Universal Entertainment Japan, LLC.發行。
 
 ## 相關項目
 
-  - [Rimless〜フチナシノセカイ〜](../Page/Rimless〜フチナシノセカイ〜.md "wikilink")
-  - [誓い言〜スコシだけもう一度〜](../Page/誓い言_〜スコシだけもう一度〜.md "wikilink")
+  - [Rimless〜フチナシノセカイ〜](https://zh.wikipedia.org/wiki/Rimless〜フチナシノセカイ〜 "wikilink")
+  - [誓い言〜スコシだけもう一度〜](https://zh.wikipedia.org/wiki/誓い言_〜スコシだけもう一度〜 "wikilink")
 
 ## 外部連結
 

@@ -1,4 +1,4 @@
-**KompoZer**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[所见即所得HTML编辑器](../Page/所见即所得.md "wikilink")，它基于已经停止开发的[Nvu编辑器](../Page/Nvu.md "wikilink")。\[1\]
+**KompoZer**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[所见即所得HTML编辑器](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")，它基于已经停止开发的[Nvu编辑器](../Page/Nvu.md "wikilink")。\[1\]
 KompoZer项目现在托管在[SourceForge](../Page/SourceForge.md "wikilink")，由社区负责维护。
 
 KompoZer的下一个版本（0.8）将使用[Gecko](../Page/Gecko.md "wikilink")
@@ -9,10 +9,11 @@ KompoZer的主要功能是所见即所得地编辑[HTML页面](../Page/HTML.md "
 
 ## 对标准的遵守
 
-KompoZer制作的网页遵循[W3C的网页标准](../Page/W3C.md "wikilink")。默认情况下，软件生成的HTML代码遵守[HTML](../Page/HTML.md "wikilink")
-4.01 Strict并使用[CSS决定网页样式](../Page/CSS.md "wikilink")，但是用户可以选择不同设置。
+KompoZer制作的网页遵循[W3C的网页标准](https://zh.wikipedia.org/wiki/W3C "wikilink")。默认情况下，软件生成的HTML代码遵守[HTML](../Page/HTML.md "wikilink")
+4.01
+Strict并使用[CSS决定网页样式](https://zh.wikipedia.org/wiki/CSS "wikilink")，但是用户可以选择不同设置。
 
-程序内置了HTML[验证功能](../Page/验证.md "wikilink")，可以将网页上传至[W3C驗証服務检查代码的正确性](../Page/W3C驗証服務.md "wikilink")。
+程序内置了HTML[验证功能](https://zh.wikipedia.org/wiki/验证 "wikilink")，可以将网页上传至[W3C驗証服務检查代码的正确性](../Page/W3C驗証服務.md "wikilink")。
 
 Kompozer最后一次更新时间是2010-03-11，版本0.8b3
 

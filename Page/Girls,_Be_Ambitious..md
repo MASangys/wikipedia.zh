@@ -1,6 +1,7 @@
 《**Girls, Be
-Ambitious.**》是[戶松遥的第](../Page/戶松遥.md "wikilink")5張[單曲](../Page/單曲.md "wikilink")。於2010年1月27日由[Music
-Ray'n Inc.發行](../Page/Music_Ray'n_Inc..md "wikilink")。\[1\]
+Ambitious.**》是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年1月27日由[Music
+Ray'n
+Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。\[1\]
 
 ## 收錄曲
 

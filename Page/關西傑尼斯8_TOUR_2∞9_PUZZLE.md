@@ -89,7 +89,7 @@ PUZZLE**》（）為日本男偶像團體[關西傑尼斯8的第](../Page/關西
 
 <!-- end list -->
 
-1.  [ワッハッハー](../Page/ワッハッハー.md "wikilink")“PUZZLE”Remix
+1.  [ワッハッハー](https://zh.wikipedia.org/wiki/ワッハッハー "wikilink")“PUZZLE”Remix
 
 <!-- end list -->
 

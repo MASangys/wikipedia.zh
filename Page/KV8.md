@@ -6,7 +6,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>法老－<a href="../Page/梅倫普塔.md" title="wikilink">梅倫普塔之墓</a></p></td>
+<td><p>法老－<a href="https://zh.wikipedia.org/wiki/梅倫普塔" title="wikilink">梅倫普塔之墓</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Egypt.KV8.01.jpg" title="fig:Egypt.KV8.01.jpg">Egypt.KV8.01.jpg</a></p></td>
@@ -28,18 +28,18 @@
 </tr>
 <tr class="even">
 <td><p>上一個：<br />
-<strong><a href="../Page/KV7.md" title="wikilink">KV7</a></strong></p></td>
+<strong><a href="https://zh.wikipedia.org/wiki/KV7" title="wikilink">KV7</a></strong></p></td>
 </tr>
 </tbody>
 </table>
 
-**KV8**是位在[帝王谷東谷的一座大型陵墓](../Page/帝王谷.md "wikilink")，也就是位在[尼羅河西岸](../Page/尼羅河.md "wikilink")。這座陵墓的埋葬者是[第十九王朝的第四位](../Page/第十九王朝.md "wikilink")[法老](../Page/法老.md "wikilink")「[梅倫普塔](../Page/梅倫普塔.md "wikilink")」（[Merneptah](../Page/麦伦普塔.md "wikilink")）。梅倫普塔是[拉美西斯二世的第十三位兒子](../Page/拉美西斯二世.md "wikilink")。
+**KV8**是位在[帝王谷東谷的一座大型陵墓](../Page/帝王谷.md "wikilink")，也就是位在[尼羅河西岸](https://zh.wikipedia.org/wiki/尼羅河 "wikilink")。這座陵墓的埋葬者是[第十九王朝的第四位](https://zh.wikipedia.org/wiki/第十九王朝 "wikilink")[法老](../Page/法老.md "wikilink")「[梅倫普塔](https://zh.wikipedia.org/wiki/梅倫普塔 "wikilink")」（[Merneptah](../Page/麦伦普塔.md "wikilink")）。梅倫普塔是[拉美西斯二世的第十三位兒子](../Page/拉美西斯二世.md "wikilink")。
 
-KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")，南面[拉美西斯二世之墓](../Page/拉美西斯二世.md "wikilink")（[KV7](../Page/KV7.md "wikilink")）和[KV55](../Page/KV55.md "wikilink")，且與[KV9及](../Page/KV9.md "wikilink")[圖坦卡門之墓](../Page/圖坦卡門.md "wikilink")（[KV62](../Page/KV62.md "wikilink")）接近平行。
+KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")，南面[拉美西斯二世之墓](../Page/拉美西斯二世.md "wikilink")（[KV7](https://zh.wikipedia.org/wiki/KV7 "wikilink")）和[KV55](https://zh.wikipedia.org/wiki/KV55 "wikilink")，且與[KV9及](https://zh.wikipedia.org/wiki/KV9 "wikilink")[圖坦卡門之墓](https://zh.wikipedia.org/wiki/圖坦卡門 "wikilink")（[KV62](../Page/KV62.md "wikilink")）接近平行。
 
 ## 陵墓內部
 
-**KV8**與其他[拉美西斯二世之子葬在帝王谷的墓穴均位處低窪](../Page/拉美西斯二世.md "wikilink")，因此常受到[水災](../Page/水災.md "wikilink")[山洪的蹂躝](../Page/山崩.md "wikilink")。這種情況導致KV8內有一部份的文物嚴重毀損或不見，無法復原，不過也有一些壁畫和文物仍保存著完整無缺，壁畫顏色也無變更過大，但畫中[藍色和](../Page/藍色.md "wikilink")[綠色區塊已經開始褪色](../Page/綠色.md "wikilink")。
+**KV8**與其他[拉美西斯二世之子葬在帝王谷的墓穴均位處低窪](../Page/拉美西斯二世.md "wikilink")，因此常受到[水災](https://zh.wikipedia.org/wiki/水災 "wikilink")[山洪的蹂躝](../Page/山崩.md "wikilink")。這種情況導致KV8內有一部份的文物嚴重毀損或不見，無法復原，不過也有一些壁畫和文物仍保存著完整無缺，壁畫顏色也無變更過大，但畫中[藍色和](../Page/藍色.md "wikilink")[綠色區塊已經開始褪色](../Page/綠色.md "wikilink")。
 
 ### 結構組成
 
@@ -51,7 +51,7 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 <!-- end list -->
 
   -
-    從此走廊進去可以看到壁畫上有著傳統[埃及神話中的場景](../Page/埃及神話.md "wikilink")。壁畫畫有[太陽神](../Page/太陽神.md "wikilink")[拉頭頂上的](../Page/拉.md "wikilink")[太陽光盤](../Page/太陽.md "wikilink")，旁邊站著[奈芙蒂絲和](../Page/奈芙蒂絲.md "wikilink")[泰芙努特](../Page/泰芙努特.md "wikilink")。周圍還有幾隻[禿鷹](../Page/禿鷹.md "wikilink")
+    從此走廊進去可以看到壁畫上有著傳統[埃及神話中的場景](https://zh.wikipedia.org/wiki/埃及神話 "wikilink")。壁畫畫有[太陽神](https://zh.wikipedia.org/wiki/太陽神 "wikilink")[拉頭頂上的](https://zh.wikipedia.org/wiki/拉 "wikilink")[太陽光盤](https://zh.wikipedia.org/wiki/太陽 "wikilink")，旁邊站著[奈芙蒂絲和](https://zh.wikipedia.org/wiki/奈芙蒂絲 "wikilink")[泰芙努特](../Page/泰芙努特.md "wikilink")。周圍還有幾隻[禿鷹](https://zh.wikipedia.org/wiki/禿鷹 "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 <!-- end list -->
 
   -
-    此走廊的裝飾壁畫與第一走廊非常相似，在第二走廊還加畫了[地獄之書和](../Page/地獄之書.md "wikilink")[亡靈書](../Page/亡靈書.md "wikilink")，代表著死者死後去接見[奈芙蒂絲和](../Page/奈芙蒂絲.md "wikilink")[阿努比斯](../Page/阿努比斯.md "wikilink")。
+    此走廊的裝飾壁畫與第一走廊非常相似，在第二走廊還加畫了[地獄之書和](https://zh.wikipedia.org/wiki/地獄之書 "wikilink")[亡靈書](https://zh.wikipedia.org/wiki/亡靈書 "wikilink")，代表著死者死後去接見[奈芙蒂絲和](https://zh.wikipedia.org/wiki/奈芙蒂絲 "wikilink")[阿努比斯](../Page/阿努比斯.md "wikilink")。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 <!-- end list -->
 
   -
-    大部分裝潢因洪水侵蝕而腐爛，但依舊能隱約看出天花板上畫有[星星和藍色夜空](../Page/星星.md "wikilink")。
+    大部分裝潢因洪水侵蝕而腐爛，但依舊能隱約看出天花板上畫有[星星和藍色夜空](https://zh.wikipedia.org/wiki/星星 "wikilink")。
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 <!-- end list -->
 
   -
-    無論是壁畫和結構，都已被洪水嚴重的侵蝕破壞，但能隱約猜測出是通往中心墓穴入口的走廊，牆壁上可能畫著[亡靈書和](../Page/亡靈書.md "wikilink")[歐西里斯審判時的情景](../Page/歐西里斯.md "wikilink")。
+    無論是壁畫和結構，都已被洪水嚴重的侵蝕破壞，但能隱約猜測出是通往中心墓穴入口的走廊，牆壁上可能畫著[亡靈書和](https://zh.wikipedia.org/wiki/亡靈書 "wikilink")[歐西里斯審判時的情景](https://zh.wikipedia.org/wiki/歐西里斯 "wikilink")。
 
 <!-- end list -->
 
@@ -96,11 +96,11 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 <!-- end list -->
 
   -
-    有8根柱子和數條[樓梯](../Page/樓梯.md "wikilink")，內部牆壁畫有比前者更多的死亡情景壁畫及[洞穴之書](../Page/洞穴之書.md "wikilink")（），天花板畫有古埃及對於[天文的相關資料](../Page/天文.md "wikilink")、圖解。
+    有8根柱子和數條[樓梯](https://zh.wikipedia.org/wiki/樓梯 "wikilink")，內部牆壁畫有比前者更多的死亡情景壁畫及[洞穴之書](https://zh.wikipedia.org/wiki/洞穴之書 "wikilink")（），天花板畫有古埃及對於[天文的相關資料](https://zh.wikipedia.org/wiki/天文 "wikilink")、圖解。
 
 ## 參見
 
-  - [梅倫普塔](../Page/梅倫普塔.md "wikilink")
+  - [梅倫普塔](https://zh.wikipedia.org/wiki/梅倫普塔 "wikilink")
   - [拉美西斯二世](../Page/拉美西斯二世.md "wikilink")
 
 ## 參考文獻

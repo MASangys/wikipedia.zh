@@ -1,14 +1,15 @@
-**QQ影音**是[腾讯公司开发的一款](../Page/腾讯公司.md "wikilink")[影音播放软件](../Page/媒体播放器.md "wikilink")。可运行于[Microsoft
-Windows操作系统下](../Page/Microsoft_Windows.md "wikilink")。特点是简洁、无广告、资源占用低。该项目曾停滞开发，但目前已经恢复继续开发，最新版本为3.9（936）。\[1\]
+**QQ影音**是[腾讯公司开发的一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[影音播放软件](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。可运行于[Microsoft
+Windows操作系统下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。特点是简洁、无广告、资源占用低。该项目曾停滞开发，但目前已经恢复继续开发，最新版本为3.9（936）。\[1\]
 
-QQ影音软件虽已注明部分解码器代码来自[FFmpeg](../Page/FFmpeg.md "wikilink")（采用[LGPL或](../Page/LGPL.md "wikilink")[GPL许可证](../Page/GPL.md "wikilink")）和公开部分版本的源代码，但因软件本身发布使用了专有协议，而被列明于FFmpeg的“耻辱名单”\[2\]\[3\]\[4\]。
+QQ影音软件虽已注明部分解码器代码来自[FFmpeg](../Page/FFmpeg.md "wikilink")（采用[LGPL或](https://zh.wikipedia.org/wiki/LGPL "wikilink")[GPL许可证](https://zh.wikipedia.org/wiki/GPL "wikilink")）和公开部分版本的源代码，但因软件本身发布使用了专有协议，而被列明于FFmpeg的“耻辱名单”\[2\]\[3\]\[4\]。
 
 ## 相关条目
 
-  - [媒体播放器](../Page/媒体播放器.md "wikilink")
-  - [Windows Media Player](../Page/Windows_Media_Player.md "wikilink")
+  - [媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")
+  - [Windows Media
+    Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
   - [暴风影音](../Page/暴风影音.md "wikilink")
-  - [风雷影音](../Page/风雷影音.md "wikilink")
+  - [风雷影音](https://zh.wikipedia.org/wiki/风雷影音 "wikilink")
 
 ## 參考文獻
 

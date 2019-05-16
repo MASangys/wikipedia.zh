@@ -12,7 +12,7 @@
 <th><p>歌名</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [1]</p></th>
 <th><p>概要</p></th>
 <th><p>收錄曲目</p></th>
@@ -43,10 +43,10 @@
 <td><p>3rd</p></td>
 <td><p>1989年9月1日</p></td>
 <td><p><a href="../Page/紅_(X單曲).md" title="wikilink">紅</a></p></td>
-<td><p><a href="../Page/日本索尼音樂.md" title="wikilink">CBS Sony</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本索尼音樂" title="wikilink">CBS Sony</a></p></td>
 <td><p>10EH-3331</p></td>
 <td><p>5</p></td>
-<td><p>20th CENTURY BOY是翻唱<a href="../Page/T._Rex.md" title="wikilink">T. Rex的曲子</a></p></td>
+<td><p>20th CENTURY BOY是翻唱<a href="https://zh.wikipedia.org/wiki/T._Rex" title="wikilink">T. Rex的曲子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -62,7 +62,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1990年4月21日</p></td>
-<td><p><a href="../Page/Week_End.md" title="wikilink">Week End</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Week_End" title="wikilink">Week End</a></p></td>
 <td><p>CSDL-3085</p></td>
 <td><p>2</p></td>
 <td><p>「WEEK END」為重新錄製，與專輯內收錄的不同</p></td>
@@ -73,7 +73,7 @@
 <td><p>6th</p></td>
 <td><p>1991年9月11日</p></td>
 <td><p><a href="../Page/Silent_Jealousy.md" title="wikilink">Silent Jealousy</a></p></td>
-<td><p><a href="../Page/日本索尼音樂.md" title="wikilink">Sony Records</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本索尼音樂" title="wikilink">Sony Records</a></p></td>
 <td><p>SRDL-3317</p></td>
 <td><p>3</p></td>
 <td><p>「Sadistic Desire」為重新錄製，與專輯內收錄的不同</p></td>
@@ -82,7 +82,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>1991年10月25日</p></td>
-<td><p><a href="../Page/Standing_Sex.md" title="wikilink">Standing Sex/Joker</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Standing_Sex" title="wikilink">Standing Sex/Joker</a></p></td>
 <td><p>SRDL-3372</p></td>
 <td><p>4</p></td>
 <td><p>「Standing Sex」是唯一沒有收進錄音室專輯的單曲</p></td>
@@ -142,7 +142,7 @@
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p>1996年2月2日</p></td>
-<td><p><a href="../Page/DAHLIA_(X單曲).md" title="wikilink">DAHLIA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DAHLIA_(X單曲)" title="wikilink">DAHLIA</a></p></td>
 <td><p>AMDM-6150</p></td>
 <td><p>1</p></td>
 <td><p>有兩款封面</p></td>
@@ -152,7 +152,7 @@
 <tr class="even">
 <td><p>14th</p></td>
 <td><p>1996年7月8日</p></td>
-<td><p><a href="../Page/Forever_Love.md" title="wikilink">Forever Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Forever_Love" title="wikilink">Forever Love</a></p></td>
 <td><p>AMDM-6170</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -161,8 +161,8 @@
 </tr>
 <tr class="odd">
 <td><p>1997年12月18日</p></td>
-<td><p><a href="../Page/Forever_Love.md" title="wikilink">Forever Love (Last Mix)</a></p></td>
-<td><p><a href="../Page/寶麗多唱片.md" title="wikilink">Polydor</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Forever_Love" title="wikilink">Forever Love (Last Mix)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寶麗多唱片" title="wikilink">Polydor</a></p></td>
 <td><p>PODH-1391</p></td>
 <td><p>13</p></td>
 <td></td>
@@ -171,7 +171,7 @@
 </tr>
 <tr class="even">
 <td><p>1998年7月22日</p></td>
-<td><p><a href="../Page/Forever_Love.md" title="wikilink">Forever Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Forever_Love" title="wikilink">Forever Love</a></p></td>
 <td><p>East West Records</p></td>
 <td><p>AMDM-6261(再發)</p></td>
 <td><p>13</p></td>
@@ -192,7 +192,7 @@
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>1996年8月26日</p></td>
-<td><p><a href="../Page/Crucify_My_Love.md" title="wikilink">Crucify My Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crucify_My_Love" title="wikilink">Crucify My Love</a></p></td>
 <td><p>AMDM-6171</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -202,7 +202,7 @@
 <tr class="odd">
 <td><p>16th</p></td>
 <td><p>1996年11月18日</p></td>
-<td><p><a href="../Page/Scars.md" title="wikilink">Scars</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scars" title="wikilink">Scars</a></p></td>
 <td><p>AMDM-6180</p></td>
 <td><p>15</p></td>
 <td><p>「White Poem I」為重新錄製，與專輯內收錄的不同</p></td>
@@ -222,7 +222,7 @@
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p>1998年3月18日</p></td>
-<td><p><a href="../Page/The_Last_Song.md" title="wikilink">The Last Song</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Last_Song" title="wikilink">The Last Song</a></p></td>
 <td><p>Polydor</p></td>
 <td><p>POCH-1689</p></td>
 <td><p>8</p></td>
@@ -234,7 +234,7 @@
 <td><p>2008年1月23日</p></td>
 <td><p><a href="../Page/I.V..md" title="wikilink">I.V.</a></p></td>
 <td><p>Extasy Records</p></td>
-<td><p><a href="../Page/iTunes_Store.md" title="wikilink">iTunes Store限定</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iTunes_Store" title="wikilink">iTunes Store限定</a></p></td>
 <td><p>—</p></td>
 <td><p>X JAPAN的復出單曲</p></td>
 <td></td>
@@ -252,7 +252,7 @@
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2011年6月28日</p></td>
-<td><p><a href="../Page/Jade.md" title="wikilink">Jade</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jade" title="wikilink">Jade</a></p></td>
 <td><p><a href="../Page/EMI.md" title="wikilink">EMI</a></p></td>
 <td><p>網路販售</p></td>
 <td><p>—</p></td>
@@ -292,7 +292,7 @@
 <th><p>名稱</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [2]</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -301,7 +301,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1988年4月14日</p></td>
-<td><p><a href="../Page/Vanishing_Vision.md" title="wikilink">Vanishing Vision</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vanishing_Vision" title="wikilink">Vanishing Vision</a></p></td>
 <td><p>EXTASY RECORDS</p></td>
 <td><p>EXL-001 (LP)</p></td>
 <td><p>85</p></td>
@@ -328,8 +328,8 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>1989年4月21日</p></td>
-<td><p><a href="../Page/BLUE_BLOOD.md" title="wikilink">BLUE BLOOD</a></p></td>
-<td><p><a href="../Page/日本索尼音樂.md" title="wikilink">CBS Sony</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_BLOOD" title="wikilink">BLUE BLOOD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本索尼音樂" title="wikilink">CBS Sony</a></p></td>
 <td><p>32DH-5224</p></td>
 <td><p>6</p></td>
 <td></td>
@@ -356,7 +356,7 @@
 <td><p>3rd</p></td>
 <td><p>1991年6月1日</p></td>
 <td></td>
-<td><p><a href="../Page/日本索尼音樂.md" title="wikilink">Sony Records</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本索尼音樂" title="wikilink">Sony Records</a></p></td>
 <td><p>SRCL-2001</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -428,7 +428,7 @@
 <th><p>名稱</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [3]</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -501,7 +501,7 @@
 <th><p>名稱</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [4]</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -666,7 +666,7 @@
 <td><p>Orchestra Selection ~Blue Blood &amp; Jealousy~</p></td>
 <td><p>Ki/oon Music</p></td>
 <td><p>4988009002101</p></td>
-<td><p><a href="../Page/英國.md" title="wikilink">英國</a><a href="../Page/皇家愛樂樂團.md" title="wikilink">皇家愛樂樂團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a><a href="https://zh.wikipedia.org/wiki/皇家愛樂樂團" title="wikilink">皇家愛樂樂團</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -682,7 +682,7 @@
 <th><p>名稱</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [5]</p></th>
 <th><p>收錄曲目</p></th>
 </tr>
@@ -710,7 +710,7 @@
 <th><p>名稱</p></th>
 <th><p>廠牌</p></th>
 <th><p>編號</p></th>
-<th><p><a href="../Page/オリコン.md" title="wikilink">JP</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/オリコン" title="wikilink">JP</a><br />
 [6]<br />
 </p></th>
 <th><p>收錄曲目</p></th>
@@ -731,32 +731,32 @@
 
 ### 合作專輯
 
-| 名稱                                             | 收錄曲名                                      | 日期           | 廠牌                                                 |
-| ---------------------------------------------- | ----------------------------------------- | ------------ | -------------------------------------------------- |
-| 『HEAVY METAL FORCE III』                        | 「Break The Darkness」                      | 1985年11月7日   | Explosion                                          |
-| 『SKULL THRASH ZONE VOLUME 1』                   | 「STAB ME IN THE BACK」「NO CONNEXION」       | 1987年3月7日    | [Victor](../Page/勝利娛樂.md "wikilink")               |
-| 『そ 1980』                                       | 「紅」                                       | 1999年7月23日   | [Sony](../Page/日本索尼音樂娛樂.md "wikilink")             |
-| 『』                                             | 「VANISHING LOVE」「KURENAI」「UN-FINISHED...」 | 2000年6月21日   | Extasy Records                                     |
-| 『』                                             | 「紅」                                       | 2000年11月22日  | Sony                                               |
-| 『輝け\! 土日ドラマ王 90's』                             | 「Say Anything」                            | 2002年9月19日   | Sony                                               |
-| 『』                                             | 「ENDLESS RAIN」                            | 2002年11月27日  | [BMG Japan](../Page/BMG_JAPAN.md "wikilink")       |
-| 『』                                             | 「Tears」                                   | 2004年12月8日   | [Avex Trax](../Page/avex_trax.md "wikilink")       |
-| 『[CLAMPAZAR](../Page/CLAMPAZAR.md "wikilink")』 | 「Say Anything」                            | 2005年3月30日   | Victor                                             |
-| 『ラヴⅡ ～メモリー・オブ・メロディー～』                          | 「Say Anything」                            | 2006年2月22日   | Sony                                               |
-| 『』                                             | 「ENDLESS RAIN」                            | 2006年3月1日    | BMG Japan                                          |
-| 『バンド天国』                                        | 「紅（シングルヴァージョン）」                           | 2006年3月4日    | Victor                                             |
-| 『ロックNIPPON 東海林のり子 Selection』                   | 「紅」                                       | 2007年1月24日   | Sony                                               |
-| 『Rain Songs』                                   | 「ENDLESS RAIN」                            | 2007\[年5月23日 | Sony                                               |
-| 『Climax 〜Dramatic Songs〜』                      | 「Say Anything」                            | 2007年8月22日   | Sony                                               |
-| 『Piano Days 〜君と聴いたラブソング〜』                      | 「Say Anything」                            | 2007年10月24日  | Sony                                               |
-| 『Sweet memories with Super Junior』             | 「ENDLESS RAIN」                            | 2008年3月12日   | [S.M. Entertainment](../Page/SM娛樂.md "wikilink")   |
-| 『グローバル・メタル・サウンドトラック』                           | 「X (Live)」                                | 2008年7月24日   | [Universal](../Page/環球唱片.md "wikilink")            |
-| 『J-POP伝説VOL.1』                                 | 「ENDLESS RAIN」                            | 2008年11月28日  | Sony                                               |
-| 『J-POP伝説VOL.2』                                 | 「紅（シングルヴァージョン）」                           | 2008年11月28日  | Sony                                               |
-| 『J-pop Hit Love Songs Super Best』              | 「Say Anything」                            | 2008年11月24日  | Sony                                               |
-| 『Climax J-Rock History』                        | 「 紅」                                      | 2010年12月22日  | Sony                                               |
-| 『Climax J-Ballad Standards』                    | 「ENDLESS RAIN」                            | 2010年12月22日  | Sony                                               |
-| 『テッパン 90's J－POP』                              | 「Rusty Nail」                              | 2013年5月22日   | [Warner Music Japan](../Page/日本華納音樂.md "wikilink") |
+| 名稱                                                                | 收錄曲名                                      | 日期           | 廠牌                                                              |
+| ----------------------------------------------------------------- | ----------------------------------------- | ------------ | --------------------------------------------------------------- |
+| 『HEAVY METAL FORCE III』                                           | 「Break The Darkness」                      | 1985年11月7日   | Explosion                                                       |
+| 『SKULL THRASH ZONE VOLUME 1』                                      | 「STAB ME IN THE BACK」「NO CONNEXION」       | 1987年3月7日    | [Victor](../Page/勝利娛樂.md "wikilink")                            |
+| 『そ 1980』                                                          | 「紅」                                       | 1999年7月23日   | [Sony](../Page/日本索尼音樂娛樂.md "wikilink")                          |
+| 『』                                                                | 「VANISHING LOVE」「KURENAI」「UN-FINISHED...」 | 2000年6月21日   | Extasy Records                                                  |
+| 『』                                                                | 「紅」                                       | 2000年11月22日  | Sony                                                            |
+| 『輝け\! 土日ドラマ王 90's』                                                | 「Say Anything」                            | 2002年9月19日   | Sony                                                            |
+| 『』                                                                | 「ENDLESS RAIN」                            | 2002年11月27日  | [BMG Japan](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink") |
+| 『』                                                                | 「Tears」                                   | 2004年12月8日   | [Avex Trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink") |
+| 『[CLAMPAZAR](https://zh.wikipedia.org/wiki/CLAMPAZAR "wikilink")』 | 「Say Anything」                            | 2005年3月30日   | Victor                                                          |
+| 『ラヴⅡ ～メモリー・オブ・メロディー～』                                             | 「Say Anything」                            | 2006年2月22日   | Sony                                                            |
+| 『』                                                                | 「ENDLESS RAIN」                            | 2006年3月1日    | BMG Japan                                                       |
+| 『バンド天国』                                                           | 「紅（シングルヴァージョン）」                           | 2006年3月4日    | Victor                                                          |
+| 『ロックNIPPON 東海林のり子 Selection』                                      | 「紅」                                       | 2007年1月24日   | Sony                                                            |
+| 『Rain Songs』                                                      | 「ENDLESS RAIN」                            | 2007\[年5月23日 | Sony                                                            |
+| 『Climax 〜Dramatic Songs〜』                                         | 「Say Anything」                            | 2007年8月22日   | Sony                                                            |
+| 『Piano Days 〜君と聴いたラブソング〜』                                         | 「Say Anything」                            | 2007年10月24日  | Sony                                                            |
+| 『Sweet memories with Super Junior』                                | 「ENDLESS RAIN」                            | 2008年3月12日   | [S.M. Entertainment](../Page/SM娛樂.md "wikilink")                |
+| 『グローバル・メタル・サウンドトラック』                                              | 「X (Live)」                                | 2008年7月24日   | [Universal](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")      |
+| 『J-POP伝説VOL.1』                                                    | 「ENDLESS RAIN」                            | 2008年11月28日  | Sony                                                            |
+| 『J-POP伝説VOL.2』                                                    | 「紅（シングルヴァージョン）」                           | 2008年11月28日  | Sony                                                            |
+| 『J-pop Hit Love Songs Super Best』                                 | 「Say Anything」                            | 2008年11月24日  | Sony                                                            |
+| 『Climax J-Rock History』                                           | 「 紅」                                      | 2010年12月22日  | Sony                                                            |
+| 『Climax J-Ballad Standards』                                       | 「ENDLESS RAIN」                            | 2010年12月22日  | Sony                                                            |
+| 『テッパン 90's J－POP』                                                 | 「Rusty Nail」                              | 2013年5月22日   | [Warner Music Japan](../Page/日本華納音樂.md "wikilink")              |
 
 ### 軟模唱片
 
@@ -780,10 +780,10 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/WE_ARE_X：X_JAPAN重生之路.md" title="wikilink">WE ARE X：X JAPAN重生之路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WE_ARE_X：X_JAPAN重生之路" title="wikilink">WE ARE X：X JAPAN重生之路</a></p></td>
 <td><p>2017年4月25日</p></td>
 <td></td>
-<td><p>2016年1月23日首映，關於X JAPAN樂團成員與其領導者YOSHIKI的故事，並在2014年10月紐約<a href="../Page/麥迪遜廣場花園.md" title="wikilink">麥迪遜廣場花園演唱會舉行前後的時期跟拍</a>。</p></td>
+<td><p>2016年1月23日首映，關於X JAPAN樂團成員與其領導者YOSHIKI的故事，並在2014年10月紐約<a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園演唱會舉行前後的時期跟拍</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1249,7 +1249,7 @@
 | **Jungle**                  | 曲：TAIJI & HIDE     | 由TAIJI離團後自行發表，X未曾正式發表。                                                                          |
 | **Hero**                    | 詞・曲：YOSHIKI        | 劇場版電影《[聖鬥士星矢 聖域傳說](../Page/聖鬥士星矢_LEGEND_of_SANCTUARY.md "wikilink")》主題曲。電影中是古典版，X JAPAN以重搖滾版演出。 |
 | **Beneath The Skin**        | 詞：YOSHIKI／曲：SUGIZO | X JAPAN在『』演奏的[S.K.I.N.歌曲](../Page/S.K.I.N..md "wikilink")。                                      |
-| **Kiss the Sky**            | 未詳                 | 2015年6月27日於[LUNA SEA主辦的搖滾音樂節](../Page/LUNA_SEA.md "wikilink")『』上首次演出此新曲。                        |
+| **Kiss the Sky**            | 未詳                 | 2015年6月27日於[LUNA SEA主辦的搖滾音樂節](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")『』上首次演出此新曲。     |
 | **Angel**                   | 未詳                 | X JAPAN在『』中演出的Violet UK歌曲。                                                                      |
 | **Rock Star**               | 未詳                 | YOSHIKI於2016年1月26日宣布的新曲。                                                                        |
 
@@ -1285,7 +1285,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>『』</strong></p></td>
-<td><p>1995年10月20日，與<a href="../Page/SEGA.md" title="wikilink">SEGA合作</a>，將1994年12月31日的跨年演唱會「白の夜」做為主題的家用遊戲機冒險遊戲。</p></td>
+<td><p>1995年10月20日，與<a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA合作</a>，將1994年12月31日的跨年演唱會「白の夜」做為主題的家用遊戲機冒險遊戲。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>『』</strong></p></td>
@@ -1300,24 +1300,24 @@
 
 ## 商業合作
 
-| 樂曲                     | 合作對象                                                                                                                    |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 「Endless Rain」         | 電影《[次元艦隊](../Page/次元艦隊.md "wikilink")》主題曲                                                                               |
-| 「Joker」                | [佳麗寶](../Page/佳麗寶.md "wikilink")《NFL》廣告曲                                                                                |
-| 「Say Anything」         | [朝日電視台](../Page/朝日電視台.md "wikilink")《》主題曲                                                                               |
-| 「Tears」                | [TBS電視台](../Page/TBS電視台.md "wikilink")《》主題曲、電影《》插曲                                                                      |
-| 「Rusty Nail」           | [富士電視台](../Page/富士電視台.md "wikilink")《》主題曲、[鈴木汽車](../Page/鈴木公司.md "wikilink")「[Swift](../Page/鈴木Swift.md "wikilink")」廣告曲 |
-| 「X」                    | [Sony](../Page/索尼.md "wikilink")[卡式錄音帶](../Page/卡式錄音帶.md "wikilink")《X》廣告曲                                              |
-| 「Longing 〜跡切れたmelody〜」 | [美津濃體育用品](../Page/美津濃.md "wikilink")《[鈴木一朗篇](../Page/鈴木一朗.md "wikilink")》廣告曲                                            |
-| 「Forever Love」         | 電影《X》主題曲、[自由民主黨國政選舉廣告曲](../Page/自由民主黨_\(日本\).md "wikilink")（總裁[小泉純一郎出演](../Page/小泉純一郎.md "wikilink")）                   |
-| 「Crucify My Love」      | [日本石油](../Page/JX能源.md "wikilink")《ZOA》廣告曲、朝日電視台《》片尾曲                                                                   |
-| 「White Poem I」         | 日本石油《ZOA》廣告曲                                                                                                            |
-| 「Scars」                | TBS電視台《[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")》1996年開幕主題曲                                                  |
-| 「The Last Song」        | 日本電視台《》片尾曲                                                                                                              |
-| 「I.V.」                 | 電影《[奪魂鋸4](../Page/奪魂鋸4.md "wikilink")》主題曲                                                                               |
-| 「Scarlet Love Song」    | 劇場版《[手塚治虫的佛陀－ 美麗的紅色沙漠－](../Page/手塚治虫的佛陀－_美麗的紅色沙漠－.md "wikilink")》主題曲                                                    |
-| 「Hero」                 | 劇場版《[聖鬥士星矢 聖域傳說](../Page/聖鬥士星矢_LEGEND_of_SANCTUARY.md "wikilink")》主題曲                                                   |
-| 「Born to Be Free」      | 電影《》預告片配樂                                                                                                               |
+| 樂曲                     | 合作對象                                                                                                                                        |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 「Endless Rain」         | 電影《[次元艦隊](https://zh.wikipedia.org/wiki/次元艦隊 "wikilink")》主題曲                                                                                |
+| 「Joker」                | [佳麗寶](https://zh.wikipedia.org/wiki/佳麗寶 "wikilink")《NFL》廣告曲                                                                                 |
+| 「Say Anything」         | [朝日電視台](../Page/朝日電視台.md "wikilink")《》主題曲                                                                                                   |
+| 「Tears」                | [TBS電視台](../Page/TBS電視台.md "wikilink")《》主題曲、電影《》插曲                                                                                          |
+| 「Rusty Nail」           | [富士電視台](../Page/富士電視台.md "wikilink")《》主題曲、[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")「[Swift](../Page/鈴木Swift.md "wikilink")」廣告曲  |
+| 「X」                    | [Sony](../Page/索尼.md "wikilink")[卡式錄音帶](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")《X》廣告曲                                               |
+| 「Longing 〜跡切れたmelody〜」 | [美津濃體育用品](../Page/美津濃.md "wikilink")《[鈴木一朗篇](https://zh.wikipedia.org/wiki/鈴木一朗 "wikilink")》廣告曲                                             |
+| 「Forever Love」         | 電影《X》主題曲、[自由民主黨國政選舉廣告曲](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")（總裁[小泉純一郎出演](https://zh.wikipedia.org/wiki/小泉純一郎 "wikilink")） |
+| 「Crucify My Love」      | [日本石油](https://zh.wikipedia.org/wiki/JX能源 "wikilink")《ZOA》廣告曲、朝日電視台《》片尾曲                                                                    |
+| 「White Poem I」         | 日本石油《ZOA》廣告曲                                                                                                                                |
+| 「Scars」                | TBS電視台《[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")》1996年開幕主題曲                                                                      |
+| 「The Last Song」        | 日本電視台《》片尾曲                                                                                                                                  |
+| 「I.V.」                 | 電影《[奪魂鋸4](https://zh.wikipedia.org/wiki/奪魂鋸4 "wikilink")》主題曲                                                                                |
+| 「Scarlet Love Song」    | 劇場版《[手塚治虫的佛陀－ 美麗的紅色沙漠－](https://zh.wikipedia.org/wiki/手塚治虫的佛陀－_美麗的紅色沙漠－ "wikilink")》主題曲                                                     |
+| 「Hero」                 | 劇場版《[聖鬥士星矢 聖域傳說](../Page/聖鬥士星矢_LEGEND_of_SANCTUARY.md "wikilink")》主題曲                                                                       |
+| 「Born to Be Free」      | 電影《》預告片配樂                                                                                                                                   |
 
 ## 引用
 

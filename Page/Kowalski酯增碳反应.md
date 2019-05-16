@@ -1,11 +1,12 @@
 **Kowalski酯增碳反应**（Kowalski ester homologation），以美国化学家 Conrad J. Kowalski
 的名字命名。
 
-[酯用](../Page/酯.md "wikilink")[锂化合物与](../Page/锂.md "wikilink")[二溴甲烷](../Page/二溴甲烷.md "wikilink")[同系化为多一个碳的酯](../Page/同系化.md "wikilink")。\[1\]\[2\]
+[酯用](../Page/酯.md "wikilink")[锂化合物与](../Page/锂.md "wikilink")[二溴甲烷](../Page/二溴甲烷.md "wikilink")[同系化为多一个碳的酯](https://zh.wikipedia.org/wiki/同系化 "wikilink")。\[1\]\[2\]
 
 [Kowalski_Ester_Homologation_Scheme.png](https://zh.wikipedia.org/wiki/File:Kowalski_Ester_Homologation_Scheme.png "fig:Kowalski_Ester_Homologation_Scheme.png")
 
-此反应与 [Arndt-Eistert 合成类似](../Page/Arndt-Eistert合成.md "wikilink")，但更为安全。
+此反应与 [Arndt-Eistert
+合成类似](https://zh.wikipedia.org/wiki/Arndt-Eistert合成 "wikilink")，但更为安全。
 
 ## 反应机理
 
@@ -21,7 +22,7 @@
 
 <!-- end list -->
 
-  - 改变反应第二步试剂，用于[炔醇](../Page/炔醇.md "wikilink")[硅醚合成](../Page/硅醚.md "wikilink")：\[4\]
+  - 改变反应第二步试剂，用于[炔醇](https://zh.wikipedia.org/wiki/炔醇 "wikilink")[硅醚合成](../Page/硅醚.md "wikilink")：\[4\]
 
 <!-- end list -->
 
@@ -29,7 +30,7 @@
 
 ## 参见
 
-  - [Curtius重排反应](../Page/Curtius重排反应.md "wikilink")
+  - [Curtius重排反应](https://zh.wikipedia.org/wiki/Curtius重排反应 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
 ## 参考资料
@@ -42,7 +43,8 @@
 2.  Rajarathnam E. Reddy and Conrad J. Kowalski,
     "[Ethyl 1-Naphthylacetate: Ester Homologation via Ynolate
     Anions](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv9p0426)",
-    *[Organic Syntheses](../Page/Organic_Syntheses.md "wikilink")*,
+    *[Organic
+    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*,
     *Coll. Vol.* **9**, p.426 (1998); *Vol.* **71**, p.146 (1993).
 3.
 4.

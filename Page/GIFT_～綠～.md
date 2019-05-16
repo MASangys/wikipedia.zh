@@ -16,10 +16,10 @@
 2.  One day in winter
       - 作詞：M.com／作曲：日暮和広／編曲：高橋浩一郎
 3.  Snow White
-      - 作詞・作曲：[錦戶亮](../Page/錦戶亮.md "wikilink")・[安田章大](../Page/安田章大.md "wikilink")／編曲：葉山拓亮
+      - 作詞・作曲：[錦戶亮](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")・[安田章大](../Page/安田章大.md "wikilink")／編曲：葉山拓亮
 
 [ja:GIFT (関ジャニ∞のシングル)\#GIFT
-〜緑〜](../Page/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜緑〜.md "wikilink")
+〜緑〜](https://zh.wikipedia.org/wiki/ja:GIFT_\(関ジャニ∞のシングル\)#GIFT_〜緑〜 "wikilink")
 
 [Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
 [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")

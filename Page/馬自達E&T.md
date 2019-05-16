@@ -1,8 +1,8 @@
-**馬自達E\&T**之全名為**馬自達機械與科技股份有限公司**（，），乃是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司於](../Page/馬自達.md "wikilink")1979年投資成立的關係企業，不但負責後者改裝車輛的企劃開發與製造，也擔任新車開發時的外觀設計和試驗工作。
+**馬自達E\&T**之全名為**馬自達機械與科技股份有限公司**（，），乃是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司於](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1979年投資成立的關係企業，不但負責後者改裝車輛的企劃開發與製造，也擔任新車開發時的外觀設計和試驗工作。
 
 ## 公司沿革
 
-  - 1979年4月27日馬自達（當時仍稱東洋工業）以[資本額](../Page/資本.md "wikilink")5千萬[日圓設立](../Page/日圓.md "wikilink")「馬自達產業公司」（マツダ産業），開始組立裝配[汽車零件](../Page/汽車.md "wikilink")，同年7月整理再生舊引擎，8月開始負責[堆高機的整備工作](../Page/叉车.md "wikilink")。
+  - 1979年4月27日馬自達（當時仍稱東洋工業）以[資本額](https://zh.wikipedia.org/wiki/資本 "wikilink")5千萬[日圓設立](../Page/日圓.md "wikilink")「馬自達產業公司」（マツダ産業），開始組立裝配[汽車零件](https://zh.wikipedia.org/wiki/汽車 "wikilink")，同年7月整理再生舊引擎，8月開始負責[堆高機的整備工作](https://zh.wikipedia.org/wiki/叉车 "wikilink")。
 
 <!-- end list -->
 
@@ -52,8 +52,8 @@
 
 <!-- end list -->
 
-1.  i系列：具升降設備車（[馬自達AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")、[馬自達2](../Page/馬自達2.md "wikilink")）、具升降座椅設備車（[馬自達MPV](../Page/馬自達MPV.md "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")）、具自動階梯設備車（[馬自達MPV](../Page/馬自達8.md "wikilink")）。
-2.  WITH系列（其實改裝自[鈴木汽車的車款](../Page/鈴木汽車.md "wikilink")）：具升降設備車。
+1.  i系列：具升降設備車（[馬自達AZ-Wagon](../Page/馬自達AZ-Wagon.md "wikilink")、[馬自達2](../Page/馬自達2.md "wikilink")）、具升降座椅設備車（[馬自達MPV](https://zh.wikipedia.org/wiki/馬自達MPV "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")）、具自動階梯設備車（[馬自達MPV](../Page/馬自達8.md "wikilink")）。
+2.  WITH系列（其實改裝自[鈴木汽車的車款](https://zh.wikipedia.org/wiki/鈴木汽車 "wikilink")）：具升降設備車。
 
 <!-- end list -->
 
@@ -75,4 +75,4 @@
 
 [Category:馬自達公司與附屬機構](https://zh.wikipedia.org/wiki/Category:馬自達公司與附屬機構 "wikilink")
 
-1.  6月修改的公司名稱以[日語](../Page/日語.md "wikilink")[片假名顯示](../Page/片假名.md "wikilink")「E\&T」，但11月修改的卻以[英語顯示](../Page/英語.md "wikilink")「E\&T」。對日本政府而言，兩種註冊的名稱是有差異的。
+1.  6月修改的公司名稱以[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[片假名顯示](../Page/片假名.md "wikilink")「E\&T」，但11月修改的卻以[英語顯示](https://zh.wikipedia.org/wiki/英語 "wikilink")「E\&T」。對日本政府而言，兩種註冊的名稱是有差異的。

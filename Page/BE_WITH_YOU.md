@@ -1,16 +1,16 @@
 《**BE WITH
-YOU**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")15張[單曲](../Page/單曲.md "wikilink")。1998年11月25日發行。
+YOU**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[GLAY的第](../Page/GLAY.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1998年11月25日發行。
 
 ## 簡介
 
 在前作《[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")》和《[SOUL
 LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發售之後7個月發行這張單曲。
 
-由於編曲方面十分困難，[TAKURO一度打算放棄這首歌](../Page/TAKURO.md "wikilink")。但歌曲完成之後，TAKURO多次自信表示這首歌是「自己最高的傑作」。
+由於編曲方面十分困難，[TAKURO一度打算放棄這首歌](https://zh.wikipedia.org/wiki/TAKURO "wikilink")。但歌曲完成之後，TAKURO多次自信表示這首歌是「自己最高的傑作」。
 
-被用作[常盤貴子](../Page/常盤貴子.md "wikilink")、[佐藤浩市主演的](../Page/佐藤浩市.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")《[小報急先鋒](../Page/小報急先鋒.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
+被用作[常盤貴子](../Page/常盤貴子.md "wikilink")、[佐藤浩市主演的](../Page/佐藤浩市.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[小報急先鋒](https://zh.wikipedia.org/wiki/小報急先鋒 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
 
-據《[UTABAN](../Page/UTABAN.md "wikilink")》（1999年2月9日播放）報導，這首歌在[西日本非常受歡迎](../Page/西日本.md "wikilink")。
+據《[UTABAN](https://zh.wikipedia.org/wiki/UTABAN "wikilink")》（1999年2月9日播放）報導，這首歌在[西日本非常受歡迎](https://zh.wikipedia.org/wiki/西日本 "wikilink")。
 
 單曲發行後連續兩週成為Oricon公信榜冠軍。總銷量達117.3萬張\[1\]，連續四張單曲銷量突破百萬，是1999年度日本單曲銷量第8位\[2\]，歷代單曲銷量第157位。
 
@@ -18,14 +18,14 @@ LOVE](../Page/SOUL_LOVE.md "wikilink")》同時發售之後7個月發行這張�
 
 1.  **BE WITH YOU**
       -
-        作詞、作曲：[TAKURO](../Page/TAKURO.md "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](../Page/佐久間正英.md "wikilink")
-        [富士系](../Page/富士電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")《[小報急先鋒](../Page/小報急先鋒.md "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")
+        作詞、作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")；編曲：[GLAY](../Page/GLAY.md "wikilink")、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+        [富士系](../Page/富士電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[小報急先鋒](https://zh.wikipedia.org/wiki/小報急先鋒 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")
 2.  **毒ROCK**（）
       -
-        作詞：[HISASHI](../Page/HISASHI.md "wikilink")；作曲：TAKURO；編曲：GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
+        作詞：[HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")；作曲：TAKURO；編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
 3.  **Strawberry Shake～It's dying It's not dying**（）
       - 「**Strawberry Shake**」（）
-          - 作詞、作曲：[JIRO](../Page/JIRO.md "wikilink")；編曲：GLAY、佐久間正英
+          - 作詞、作曲：[JIRO](https://zh.wikipedia.org/wiki/JIRO "wikilink")；編曲：GLAY、佐久間正英
       - 「**It's dying It's not dying**」
           - 作詞、作曲：TAKURO；編曲：GLAY、佐久間正英
     <!-- end list -->

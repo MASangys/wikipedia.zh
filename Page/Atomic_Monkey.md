@@ -3,7 +3,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 ## 概要
 
-2000年8月18日\[2\]成立，是由[東京俳優生活協同組合事務所出身的人所創建的公司](../Page/東京俳優生活協同組合.md "wikilink")。除了聲優經紀業務外，也有[聲優及演技培訓的培訓中心](../Page/Atomic_Monkey#Atomic_Monkey／聲優·演技研究所.md "wikilink")（下述）及音樂事業部。
+2000年8月18日\[2\]成立，是由[東京俳優生活協同組合事務所出身的人所創建的公司](../Page/東京俳優生活協同組合.md "wikilink")。除了聲優經紀業務外，也有[聲優及演技培訓的培訓中心](https://zh.wikipedia.org/wiki/Atomic_Monkey#Atomic_Monkey／聲優·演技研究所 "wikilink")（下述）及音樂事業部。
 
 事務所的風格及自由度與俳協走向相近，但是私生活除外。例如聲優[小野友樹脫離事務所後不久對外公佈已婚長達](../Page/小野友樹.md "wikilink")6年。
 
@@ -21,7 +21,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
   -
   - 植田恭司
 
-  - [榎木淳彌](../Page/榎木淳彌.md "wikilink")
+  - [榎木淳彌](https://zh.wikipedia.org/wiki/榎木淳彌 "wikilink")
 
   - 大谷秀一郎
 
@@ -115,7 +115,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 <!-- end list -->
 
   - [愛河里花子](../Page/愛河里花子.md "wikilink")
-  - [藍原琴美](../Page/藍原琴美.md "wikilink")
+  - [藍原琴美](https://zh.wikipedia.org/wiki/藍原琴美 "wikilink")
   - [青木瑠璃子](../Page/青木瑠璃子.md "wikilink")
   - 井田愛里紗
   - 稻本千尋
@@ -143,7 +143,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - 木舩幸步
 
-  - [小市真琴](../Page/小市真琴.md "wikilink")
+  - [小市真琴](https://zh.wikipedia.org/wiki/小市真琴 "wikilink")
 
 <!-- end list -->
 
@@ -169,10 +169,10 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 <!-- end list -->
 
-  - [長澤美樹](../Page/長澤美樹.md "wikilink")
+  - [長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
 
   -
-  - [奈波果林](../Page/奈波果林.md "wikilink")
+  - [奈波果林](https://zh.wikipedia.org/wiki/奈波果林 "wikilink")
 
   - [西田望見](../Page/西田望見.md "wikilink")
 
@@ -187,7 +187,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
   - [潘惠美](../Page/潘惠美.md "wikilink")
 
   -
-  - [星河舞](../Page/星河舞.md "wikilink")
+  - [星河舞](https://zh.wikipedia.org/wiki/星河舞 "wikilink")
 
 <!-- end list -->
 
@@ -203,7 +203,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
   -
 ## 其他所屬藝人
 
-  - 杉岡芳樹（[歌手](../Page/歌手.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[旁白](../Page/旁白.md "wikilink")）
+  - 杉岡芳樹（[歌手](../Page/歌手.md "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")）
 
   - （作曲家）
 
@@ -217,7 +217,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
 ### 男性
 
-  - （舊藝名：，現所屬：[悟空](../Page/悟空_\(聲優事務所\).md "wikilink")）
+  - （舊藝名：，現所屬：[悟空](https://zh.wikipedia.org/wiki/悟空_\(聲優事務所\) "wikilink")）
 
   - [小野友樹](../Page/小野友樹.md "wikilink")
 
@@ -243,7 +243,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - [今井由香](../Page/今井由香.md "wikilink")（引退）
 
-  - （現所屬：[remax](../Page/remax.md "wikilink")）
+  - （現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
   - [高橋洋子](../Page/高橋洋子.md "wikilink")
 
@@ -261,7 +261,7 @@ Monkey**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都
 
   - （現所屬：）
 
-  - [吉川由彌](../Page/吉川由彌.md "wikilink")（引退）
+  - [吉川由彌](https://zh.wikipedia.org/wiki/吉川由彌 "wikilink")（引退）
 
 ## 音樂事業部
 

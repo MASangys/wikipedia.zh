@@ -1,11 +1,11 @@
-**銀河DJ召集令**是一個[台灣的一個廣播節目](../Page/台灣.md "wikilink")，於[南台灣之聲](../Page/南台灣之聲.md "wikilink")（FM
+**銀河DJ召集令**是一個[台灣的一個廣播節目](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於[南台灣之聲](https://zh.wikipedia.org/wiki/南台灣之聲 "wikilink")（FM
 103.9）播放，從每週日23:00－週一01:00，共計2小時，雖然是在深夜時段，但仍受到大量青少年與學生的喜愛，是個充滿熱血與活力的廣播節目。
 
 ## 簡介
 
 ### 節目背景
 
-有一天，這個世界出現了一位冷酷無情、殘暴凶狠的大魔王，他比夏[桀還要昏庸](../Page/桀.md "wikilink")，他比[紂王還要狠毒](../Page/紂.md "wikilink")，就在這個時候，一群充滿正義熱血的銀河DJ出動了，銀河DJ召集令之超級戰艦組裝完成，瞄準大魔王，發射！節目就從此開始了......
+有一天，這個世界出現了一位冷酷無情、殘暴凶狠的大魔王，他比夏[桀還要昏庸](../Page/桀.md "wikilink")，他比[紂王還要狠毒](https://zh.wikipedia.org/wiki/紂 "wikilink")，就在這個時候，一群充滿正義熱血的銀河DJ出動了，銀河DJ召集令之超級戰艦組裝完成，瞄準大魔王，發射！節目就從此開始了......
 
 ### 節目名稱由來
 
@@ -28,21 +28,21 @@
   - 英文名:ALLY
   - 生日:7月13日
   - 畢業於[東海大學哲學系](../Page/東海大學_\(台灣\).md "wikilink")
-    [鳳山高中](../Page/鳳山高中.md "wikilink")
-    [三民國中](../Page/三民國中.md "wikilink")[十全國小](../Page/十全國小.md "wikilink")
+    [鳳山高中](https://zh.wikipedia.org/wiki/鳳山高中 "wikilink")
+    [三民國中](https://zh.wikipedia.org/wiki/三民國中 "wikilink")[十全國小](https://zh.wikipedia.org/wiki/十全國小 "wikilink")
   - 喜歡的國家:日本 (蜜月旅行的國家是義大利)
   - 結婚紀年日:10月11日
   - 進飛碟電台前工作:幫[王鈞寫綜藝節目的劇本](../Page/王鈞.md "wikilink")
   - 最怕的昆蟲:蟑螂
   - 最喜歡高雄的餐廳:六合夜市的紐西蘭牛排(後改名鈕西蘭)最推薦料理:鐵板麵
 
-#### [西恩](../Page/西恩.md "wikilink")
+#### [西恩](https://zh.wikipedia.org/wiki/西恩 "wikilink")
 
   - 又稱小帥西恩
   - 英文名:Sean
   - 生日:2月25日
   - 畢業於[中山醫學大學營養系](../Page/中山醫學大學.md "wikilink")
-    [屏東高中](../Page/屏東高中.md "wikilink")[明正國中](../Page/明正國中.md "wikilink")[勝利國小](../Page/勝利國小.md "wikilink")（曾經報考前鎮高中，沒有錄取因此選擇就讀屏東高中）
+    [屏東高中](https://zh.wikipedia.org/wiki/屏東高中 "wikilink")[明正國中](https://zh.wikipedia.org/wiki/明正國中 "wikilink")[勝利國小](https://zh.wikipedia.org/wiki/勝利國小 "wikilink")（曾經報考前鎮高中，沒有錄取因此選擇就讀屏東高中）
   - 喜歡的國家:泰國
   - 進飛碟電台前工作:華納唱片的西洋宣傳
   - 最怕的昆蟲:蜈蚣
@@ -50,7 +50,7 @@
 
 黑棗
 
-#### [夏宇童](../Page/夏宇童.md "wikilink")
+#### [夏宇童](https://zh.wikipedia.org/wiki/夏宇童 "wikilink")
 
 ### 代班DJ
 

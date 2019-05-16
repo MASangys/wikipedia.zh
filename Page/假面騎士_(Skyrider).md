@@ -1,4 +1,4 @@
-**《假面骑士》（**），为[假面骑士系列第六作](../Page/假面骑士系列.md "wikilink")，于1979年（昭和54年）10月5日播放至1980年（昭和55年）10月10日，由[每日放送](../Page/每日放送.md "wikilink")、TBS电视网播放，全54话。為免與[第一作假面骑士混淆](../Page/假面骑士.md "wikilink")，通稱作**《新假面骑士》**（）或**《假面骑士Sky
+**《假面骑士》（**），为[假面骑士系列第六作](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")，于1979年（昭和54年）10月5日播放至1980年（昭和55年）10月10日，由[每日放送](../Page/每日放送.md "wikilink")、TBS电视网播放，全54话。為免與[第一作假面骑士混淆](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")，通稱作**《新假面骑士》**（）或**《假面骑士Sky
 Rider》**（仮面ライダー スカイライダー）。
 
 ## 概要
@@ -101,7 +101,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>1</p></td>
 <td><p>改造人間 大空を翔ぶ</p></td>
 <td><ul>
-<li>ガメレオジン（CV：<a href="../Page/沢りつお.md" title="wikilink">沢りつお</a>）</li>
+<li>ガメレオジン（CV：<a href="https://zh.wikipedia.org/wiki/沢りつお" title="wikilink">沢りつお</a>）</li>
 </ul></td>
 <td><p>-</p></td>
 <td><p>伊上勝</p></td>
@@ -112,9 +112,9 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>2</p></td>
 <td><p>怪奇！クモンジン</p></td>
 <td><ul>
-<li>クモンジン（CV：<a href="../Page/仁内建之.md" title="wikilink">仁内達之</a>）
+<li>クモンジン（CV：<a href="https://zh.wikipedia.org/wiki/仁内建之" title="wikilink">仁内達之</a>）
 <ul>
-<li>素体・ナンバー105（演：<a href="../Page/団巌.md" title="wikilink">団巌</a>）</li>
+<li>素体・ナンバー105（演：<a href="https://zh.wikipedia.org/wiki/団巌" title="wikilink">団巌</a>）</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -126,7 +126,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>3</p></td>
 <td><p>勇気だ！コウモリ笛の恐怖</p></td>
 <td><ul>
-<li>コウモルジン（CV：<a href="../Page/村越伊知郎.md" title="wikilink">村越伊知郎</a>）
+<li>コウモルジン（CV：<a href="https://zh.wikipedia.org/wiki/村越伊知郎" title="wikilink">村越伊知郎</a>）
 <ul>
 <li>人間態・マンションの管理人（演：久地明）</li>
 </ul></li>
@@ -140,9 +140,9 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>4</p></td>
 <td><p>2つの改造人間 怒りのライダーブレイク</p></td>
 <td><ul>
-<li>サソランジン（CV：<a href="../Page/八代駿.md" title="wikilink">八代駿</a>）
+<li>サソランジン（CV：<a href="https://zh.wikipedia.org/wiki/八代駿" title="wikilink">八代駿</a>）
 <ul>
-<li>素体・上村美也（演：<a href="../Page/里見和香.md" title="wikilink">里見和香</a>）</li>
+<li>素体・上村美也（演：<a href="https://zh.wikipedia.org/wiki/里見和香" title="wikilink">里見和香</a>）</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -165,7 +165,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>6</p></td>
 <td><p>キノコジン 悪魔の手は冷たい</p></td>
 <td><ul>
-<li>キノコジン（CV：<a href="../Page/梶哲也.md" title="wikilink">梶哲也</a>）
+<li>キノコジン（CV：<a href="https://zh.wikipedia.org/wiki/梶哲也" title="wikilink">梶哲也</a>）
 <ul>
 <li>人間態・ニセ雪江（演：上原美佐）</li>
 </ul></li>
@@ -195,7 +195,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>ムカデンジン（CV：<a href="../Page/槐柳二.md" title="wikilink">槐柳二</a>）
 <ul>
-<li>人間態・進堂誠（演：<a href="../Page/神弘.md" title="wikilink">神弘</a>）</li>
+<li>人間態・進堂誠（演：<a href="https://zh.wikipedia.org/wiki/神弘" title="wikilink">神弘</a>）</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -207,9 +207,9 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>9</p></td>
 <td><p>コブランジンの殺人軍団</p></td>
 <td><ul>
-<li>コブランジン（CV：<a href="../Page/辻村真人.md" title="wikilink">辻村真人</a>）
+<li>コブランジン（CV：<a href="https://zh.wikipedia.org/wiki/辻村真人" title="wikilink">辻村真人</a>）
 <ul>
-<li>人間態（演：<a href="../Page/中屋敷哲也.md" title="wikilink">中屋敷哲也</a>）</li>
+<li>人間態（演：<a href="https://zh.wikipedia.org/wiki/中屋敷哲也" title="wikilink">中屋敷哲也</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>山田稔</p></td>
@@ -243,7 +243,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>12</p></td>
 <td><p>暗闇のサンタクロース あぁ〜変身不可能</p></td>
 <td><ul>
-<li>ナメクジン（CV：<a href="../Page/山下啓介.md" title="wikilink">山下啓介</a>）
+<li>ナメクジン（CV：<a href="https://zh.wikipedia.org/wiki/山下啓介" title="wikilink">山下啓介</a>）
 <ul>
 <li>人間態（演：天野正登）</li>
 </ul></li>
@@ -257,7 +257,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>13</p></td>
 <td><p>アリジゴクジン 東京爆発3時間前</p></td>
 <td><ul>
-<li>アリジゴクジン（CV：<a href="../Page/峰恵研.md" title="wikilink">峰恵研</a>）</li>
+<li>アリジゴクジン（CV：<a href="https://zh.wikipedia.org/wiki/峰恵研" title="wikilink">峰恵研</a>）</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -327,7 +327,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>オオカミジン（CV：沢りつお）
 <ul>
-<li>人間態（演：<a href="../Page/新海丈夫.md" title="wikilink">新海丈夫</a>）</li>
+<li>人間態（演：<a href="https://zh.wikipedia.org/wiki/新海丈夫" title="wikilink">新海丈夫</a>）</li>
 </ul></li>
 </ul></td>
 <td></td>
@@ -343,7 +343,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <li>クラゲロン（CV：峰恵研）</li>
 </ul></td>
 <td><ul>
-<li>幪面超人強者（CV：<a href="../Page/池水通洋.md" title="wikilink">池水通洋</a>）</li>
+<li>幪面超人強者（CV：<a href="https://zh.wikipedia.org/wiki/池水通洋" title="wikilink">池水通洋</a>）</li>
 </ul></td>
 <td><p>山田稔</p></td>
 <td></td>
@@ -362,7 +362,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>22</p></td>
 <td><p>コゴエンスキー 東京冷凍5秒前</p></td>
 <td><ul>
-<li>コゴエンスキー（CV：<a href="../Page/朝戸鉄也.md" title="wikilink">朝戸鉄也</a>）</li>
+<li>コゴエンスキー（CV：<a href="https://zh.wikipedia.org/wiki/朝戸鉄也" title="wikilink">朝戸鉄也</a>）</li>
 </ul></td>
 <td><p>-</p></td>
 <td><p>土筆勉</p></td>
@@ -381,7 +381,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <li>爆弾人間</li>
 </ul></td>
 <td><ul>
-<li>幪面超人V3（CV：<a href="../Page/宮内洋.md" title="wikilink">宮内洋</a>）</li>
+<li>幪面超人V3（CV：<a href="https://zh.wikipedia.org/wiki/宮内洋" title="wikilink">宮内洋</a>）</li>
 </ul></td>
 <td><p>伊上勝</p></td>
 <td><p>山田稔</p></td>
@@ -391,7 +391,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>24</p></td>
 <td><p>マダラカジン 毒ガスの恐怖</p></td>
 <td><ul>
-<li>マダラカジン（CV：<a href="../Page/安原義人.md" title="wikilink">安原義人</a>）
+<li>マダラカジン（CV：<a href="https://zh.wikipedia.org/wiki/安原義人" title="wikilink">安原義人</a>）
 <ul>
 <li>人間態（演：高木真二）</li>
 </ul></li>
@@ -407,7 +407,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>50トンの赤ちゃん</p></td>
 <td><ul>
 <li>ゾウガメロン（CV：池水通洋）</li>
-<li>ボンゴ（演：岩永信行→<a href="../Page/福田信義.md" title="wikilink">福田信義</a>）</li>
+<li>ボンゴ（演：岩永信行→<a href="https://zh.wikipedia.org/wiki/福田信義" title="wikilink">福田信義</a>）</li>
 </ul></td>
 <td><p>江連卓</p></td>
 <td><p>奥中惇夫</p></td>
@@ -424,7 +424,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <li>幪面超人2號（第27、28話）</li>
 <li>幪面超人V3（CV：<a href="../Page/島田敏.md" title="wikilink">島田敏</a>，第27、28話）</li>
 <li>ライダーマン（CV：朝戸鉄也）</li>
-<li>幪面超人X（CV：<a href="../Page/永江智明.md" title="wikilink">永江智明</a>）</li>
+<li>幪面超人X（CV：<a href="https://zh.wikipedia.org/wiki/永江智明" title="wikilink">永江智明</a>）</li>
 <li>幪面超人AMAZON（第27、28話）</li>
 <li>幪面超人強者（CV：朝戸鉄也，第27、28話）</li>
 </ul></td>
@@ -487,7 +487,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <li>黄金ジャガー（CV：<a href="../Page/玄田哲章.md" title="wikilink">玄田哲章</a>）</li>
 <li>トリカブトロン（CV：村越伊知郎）
 <ul>
-<li>人間態・鬼島（演：<a href="../Page/長谷川弘.md" title="wikilink">長谷川弘</a>）</li>
+<li>人間態・鬼島（演：<a href="https://zh.wikipedia.org/wiki/長谷川弘" title="wikilink">長谷川弘</a>）</li>
 </ul></li>
 </ul></td>
 <td><ul>
@@ -548,7 +548,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>キギンガー（CV：<a href="../Page/沼波輝枝.md" title="wikilink">沼波輝枝</a>）
 <ul>
-<li>人間態（演：<a href="../Page/藤山律子.md" title="wikilink">藤山律子</a>）</li>
+<li>人間態（演：<a href="https://zh.wikipedia.org/wiki/藤山律子" title="wikilink">藤山律子</a>）</li>
 </ul></li>
 <li>ドラゴンキング（CV：仁内達之）</li>
 </ul></td>
@@ -572,7 +572,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>来たれ城茂！月給百万円のアリコマンド養成所</p></td>
 <td><ul>
 <li>ガマギラス（CV：沢りつお）</li>
-<li>ドクター・メデオ（演：<a href="../Page/三重街恒二.md" title="wikilink">三重街恒二</a>）</li>
+<li>ドクター・メデオ（演：<a href="https://zh.wikipedia.org/wiki/三重街恒二" title="wikilink">三重街恒二</a>）</li>
 </ul></td>
 <td><ul>
 <li>幪面超人強者</li>
@@ -623,7 +623,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>ゾンビーダ（CV：八代駿）
 <ul>
-<li>人間態・死人博士（演：<a href="../Page/西田良.md" title="wikilink">西田良</a>）</li>
+<li>人間態・死人博士（演：<a href="https://zh.wikipedia.org/wiki/西田良" title="wikilink">西田良</a>）</li>
 </ul></li>
 <li>ゾンビー</li>
 </ul></td>
@@ -637,7 +637,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>怪談シリーズ<br />
 耳なし芳一 999の耳</p></td>
 <td><ul>
-<li>ミミンガー（CV：<a href="../Page/二見忠男.md" title="wikilink">二見忠男</a>）</li>
+<li>ミミンガー（CV：<a href="https://zh.wikipedia.org/wiki/二見忠男" title="wikilink">二見忠男</a>）</li>
 </ul></td>
 <td><p>江連卓</p></td>
 <td><p>広田茂穂</p></td>
@@ -649,7 +649,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><p>怪談シリーズ<br />
 呪いの化け猫 子供の血が欲しい！</p></td>
 <td><ul>
-<li>ドロニャンゴー（CV：<a href="../Page/牧野和子.md" title="wikilink">牧野和子</a>）
+<li>ドロニャンゴー（CV：<a href="https://zh.wikipedia.org/wiki/牧野和子" title="wikilink">牧野和子</a>）
 <ul>
 <li>人間態（演：西村幸子）</li>
 </ul></li>
@@ -722,7 +722,7 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>ザンヨウジュー（CV：八代駿）
 <ul>
-<li>人間態・阿久野もとじ（演：<a href="../Page/相沢治夫.md" title="wikilink">相沢治夫</a>）</li>
+<li>人間態・阿久野もとじ（演：<a href="https://zh.wikipedia.org/wiki/相沢治夫" title="wikilink">相沢治夫</a>）</li>
 </ul></li>
 </ul></td>
 <td><p>山田稔</p></td>
@@ -761,16 +761,16 @@ Turbo 作出攻擊。與各個幪面超人前輩一樣，天空騎士在大部�
 <td><ul>
 <li>魔神提督</li>
 <li>ドクターX（演：高崎良三）</li>
-<li>隊長蛇塚（演：<a href="../Page/秋山敏.md" title="wikilink">秋山敏</a>）</li>
+<li>隊長蛇塚（演：<a href="https://zh.wikipedia.org/wiki/秋山敏" title="wikilink">秋山敏</a>）</li>
 <li>幻影怪人軍団</li>
 </ul></td>
 <td><ul>
 <li>幪面超人1號（CV：池水通洋，第54話）</li>
 <li>幪面超人2號（第53、54話）</li>
 <li>幪面超人V3（第54話）</li>
-<li>怪金剛（CV：<a href="../Page/曽我部和恭.md" title="wikilink">曽我部和行</a>，第54話）</li>
-<li>幪面超人X（CV：<a href="../Page/河原崎洋央.md" title="wikilink">河原崎洋夫</a>，第54話）</li>
-<li>幪面超人AMAZON（CV：<a href="../Page/上田弘司.md" title="wikilink">上田弘司</a>，第54話）</li>
+<li>怪金剛（CV：<a href="https://zh.wikipedia.org/wiki/曽我部和恭" title="wikilink">曽我部和行</a>，第54話）</li>
+<li>幪面超人X（CV：<a href="https://zh.wikipedia.org/wiki/河原崎洋央" title="wikilink">河原崎洋夫</a>，第54話）</li>
+<li>幪面超人AMAZON（CV：<a href="https://zh.wikipedia.org/wiki/上田弘司" title="wikilink">上田弘司</a>，第54話）</li>
 <li>幪面超人強者</li>
 </ul></td>
 <td><p>江連卓</p></td>

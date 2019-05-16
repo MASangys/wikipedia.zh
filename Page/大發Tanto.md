@@ -1,12 +1,12 @@
-**大發Tanto**（）是日本[大發汽車所生產銷售的](../Page/大發汽車.md "wikilink")[輕型汽車](../Page/輕型汽車.md "wikilink")。此車款於2003年[東京車展發表](../Page/東京車展.md "wikilink")[概念車](../Page/概念車.md "wikilink")，當時是用[大發Move的](../Page/大發Move.md "wikilink")「tall」底盤改裝而成，並於同年量產上市。本車一大特色是左後門看似平常，但是右後門卻是沒有支柱的[鏟型門](../Page/鏟型門.md "wikilink")。
+**大發Tanto**（）是日本[大發汽車所生產銷售的](https://zh.wikipedia.org/wiki/大發汽車 "wikilink")[輕型汽車](https://zh.wikipedia.org/wiki/輕型汽車 "wikilink")。此車款於2003年[東京車展發表](../Page/東京車展.md "wikilink")[概念車](../Page/概念車.md "wikilink")，當時是用[大發Move的](../Page/大發Move.md "wikilink")「tall」底盤改裝而成，並於同年量產上市。本車一大特色是左後門看似平常，但是右後門卻是沒有支柱的[鏟型門](https://zh.wikipedia.org/wiki/鏟型門 "wikilink")。
 
 2005年又發表了大發Tanto
-Custom的變型版車型，之後第二代於2007年東京車展發表並於同年上市。2013年推出第三代，當時的電視廣告在[鳥取縣與](../Page/鳥取縣.md "wikilink")[島根縣交界的](../Page/島根縣.md "wikilink")[江島大橋所拍攝](../Page/江島大橋.md "wikilink")，強調此車的性能\[1\]\[2\]\[3\]。
+Custom的變型版車型，之後第二代於2007年東京車展發表並於同年上市。2013年推出第三代，當時的電視廣告在[鳥取縣與](../Page/鳥取縣.md "wikilink")[島根縣交界的](https://zh.wikipedia.org/wiki/島根縣 "wikilink")[江島大橋所拍攝](https://zh.wikipedia.org/wiki/江島大橋 "wikilink")，強調此車的性能\[1\]\[2\]\[3\]。
 
 ## Tanto FCHV
 
 2005年大發Tanto
-FCHV版首度於東京展發表，FCHV版是採用[燃料電池的](../Page/燃料電池.md "wikilink")[混合動力車](../Page/混合動力車.md "wikilink")，直接由量產版改裝而成，此原型車裝備了液態[氫燃料槽和電動馬達](../Page/氫.md "wikilink")\[4\]。
+FCHV版首度於東京展發表，FCHV版是採用[燃料電池的](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")[混合動力車](https://zh.wikipedia.org/wiki/混合動力車 "wikilink")，直接由量產版改裝而成，此原型車裝備了液態[氫燃料槽和電動馬達](https://zh.wikipedia.org/wiki/氫 "wikilink")\[4\]。
 
 Image:2007 Daihatsu Tanto 01.jpg|二代Tanto Image:Daihatsu Tanto
 01.jpg|一代Tanto

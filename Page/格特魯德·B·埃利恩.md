@@ -1,19 +1,19 @@
 **格特魯德·B·埃利恩**（，\[1\])
-，是一名已逝世的[美國女性](../Page/美國.md "wikilink")[生化學家和](../Page/生物化學.md "wikilink")[藥理學家](../Page/藥理學.md "wikilink")。1988年，她与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共同獲頒](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](../Page/諾貝爾生理學或醫學獎.md "wikilink")。埃利恩开发了许多新的[药物](../Page/藥物治療.md "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](../Page/艾滋病.md "wikilink")[齐多夫定的发展](../Page/齐多夫定.md "wikilink")。\[2\]
+，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共同獲頒](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定的发展](../Page/齐多夫定.md "wikilink")。\[2\]
 
 ## 主要成就
 
 ### 发明
 
-  - [巯嘌呤](../Page/巯嘌呤.md "wikilink")（6-mercaptopurine）首次治疗[白血病器官移植中使用](../Page/白血病.md "wikilink")。\[3\]
+  - [巯嘌呤](../Page/巯嘌呤.md "wikilink")（6-mercaptopurine）首次治疗[白血病器官移植中使用](https://zh.wikipedia.org/wiki/白血病 "wikilink")。\[3\]
 
-  - [硫唑嘌呤](../Page/硫唑嘌呤.md "wikilink")（Azathioprine）[免疫抑制剂](../Page/免疫抑制药.md "wikilink")，用于[器官移植](../Page/器官移植.md "wikilink")。
+  - [硫唑嘌呤](../Page/硫唑嘌呤.md "wikilink")（Azathioprine）[免疫抑制剂](https://zh.wikipedia.org/wiki/免疫抑制药 "wikilink")，用于[器官移植](../Page/器官移植.md "wikilink")。
 
   - [别嘌醇](../Page/别嘌醇.md "wikilink")（Allopurinol）用于[痛风](../Page/痛风.md "wikilink")。
 
-  - [乙胺嘧啶](../Page/乙胺嘧啶.md "wikilink")（Pyrimethamine）用于[疟疾](../Page/疟疾.md "wikilink")。
+  - [乙胺嘧啶](https://zh.wikipedia.org/wiki/乙胺嘧啶 "wikilink")（Pyrimethamine）用于[疟疾](../Page/疟疾.md "wikilink")。
 
-  - [甲氧苄啶](../Page/甲氧苄啶.md "wikilink")（Trimethoprim）用于[脑膜炎](../Page/脑膜炎.md "wikilink")，[敗血症和](../Page/敗血症.md "wikilink")[病原菌引起的](../Page/病原菌.md "wikilink")[泌尿系統和](../Page/泌尿系統.md "wikilink")[呼吸道感染](../Page/呼吸道.md "wikilink")。
+  - [甲氧苄啶](../Page/甲氧苄啶.md "wikilink")（Trimethoprim）用于[脑膜炎](../Page/脑膜炎.md "wikilink")，[敗血症和](../Page/敗血症.md "wikilink")[病原菌引起的](https://zh.wikipedia.org/wiki/病原菌 "wikilink")[泌尿系統和](../Page/泌尿系統.md "wikilink")[呼吸道感染](../Page/呼吸道.md "wikilink")。
 
   - [阿昔洛韦](../Page/阿昔洛韦.md "wikilink")（Aciclovir），用于病毒性[单纯疱疹](../Page/单纯疱疹.md "wikilink")。
 
@@ -21,7 +21,7 @@
 
 ### 奖项
 
-1988年埃利恩与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共享](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](../Page/諾貝爾生理學或醫學獎.md "wikilink")，其他奖项包括1991年获得的[美国国家科学奖章](../Page/美国国家科学奖章.md "wikilink")\[4\]和1997年获得的Lemelson-MIT终身成就奖。1991年，她成为了第一位入选的女性。\[5\]
+1988年埃利恩与[喬治·H·希欽斯和](../Page/喬治·H·希欽斯.md "wikilink")[詹姆士·W·布拉克共享](../Page/詹姆士·W·布拉克.md "wikilink")[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")，其他奖项包括1991年获得的[美国国家科学奖章](../Page/美国国家科学奖章.md "wikilink")\[4\]和1997年获得的Lemelson-MIT终身成就奖。1991年，她成为了第一位入选的女性。\[5\]
 
 ## 经历
 
@@ -66,8 +66,8 @@
 1.
 2.  Holloway, M. (1991) *Profile: Gertrude Belle Elion – The
     Satisfaction of Delayed Gratification*, [Scientific
-    American](../Page/Scientific_American.md "wikilink") **265**(4),
-    40-44.
+    American](https://zh.wikipedia.org/wiki/Scientific_American "wikilink")
+    **265**(4), 40-44.
 3.
 4.
 5.

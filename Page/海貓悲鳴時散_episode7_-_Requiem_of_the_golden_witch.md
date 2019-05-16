@@ -1,5 +1,5 @@
 《**海貓悲鳴時散 episode7 - Requiem of the golden
-witch**》是[日本](../Page/日本.md "wikilink")[同人社團](../Page/同人.md "wikilink")[07th
+witch**》是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
 Expansion所製作的同人遊戲](../Page/07th_Expansion.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第七作。遊戲於2010年夏季的Comic
 Market78發表。
 

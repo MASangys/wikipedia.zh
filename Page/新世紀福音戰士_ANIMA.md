@@ -1,10 +1,10 @@
 《**新世紀福音戰士
-ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的官方衍生[小說作品](../Page/小說.md "wikilink")。2008年1月號起連載中，先後由與[山下育人執筆](../Page/山下育人.md "wikilink")\[1\]。人物設計由擔任。故事以動畫版的第24集為分歧點，以「人類補完計畫」沒有發動的3年後[平行世界往下開展](../Page/平行世界.md "wikilink")。
+ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》的官方衍生[小說作品](https://zh.wikipedia.org/wiki/小說 "wikilink")。2008年1月號起連載中，先後由與[山下育人執筆](https://zh.wikipedia.org/wiki/山下育人 "wikilink")\[1\]。人物設計由擔任。故事以動畫版的第24集為分歧點，以「人類補完計畫」沒有發動的3年後[平行世界往下開展](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。
 
 ## 提要
 
   - 起源
-    2004年末，[庵野秀明與](../Page/庵野秀明.md "wikilink")[山下育人表達了關於](../Page/山下育人.md "wikilink")《新世紀福音戰士》未來發展的構想，其中包含將《新世紀福音戰士》如同《[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")》系列般的多樣化發展\[2\]。
+    2004年末，[庵野秀明與](../Page/庵野秀明.md "wikilink")[山下育人表達了關於](https://zh.wikipedia.org/wiki/山下育人 "wikilink")《新世紀福音戰士》未來發展的構想，其中包含將《新世紀福音戰士》如同《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列般的多樣化發展\[2\]。
 
 ## 登場人物
 
@@ -56,9 +56,9 @@ ANIMA**》（）是[日本電視動畫](../Page/日本電視動畫.md "wikilink"
 ## 工作人員
 
   - 製作總指揮、機械設計、插畫：山下育人
-  - 人物設計：[うたたねひろゆき](../Page/うたたねひろゆき.md "wikilink")
+  - 人物設計：[うたたねひろゆき](https://zh.wikipedia.org/wiki/うたたねひろゆき "wikilink")
   - 小說改編：陰山琢磨
-  - 彩色：[蘭宮涼](../Page/蘭宮涼.md "wikilink")
+  - 彩色：[蘭宮涼](https://zh.wikipedia.org/wiki/蘭宮涼 "wikilink")
   - 企畫補佐、文藝：柏原康雄
   - 協力：[萬代](../Page/萬代.md "wikilink")
 

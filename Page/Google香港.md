@@ -1,15 +1,16 @@
-**Google香港**（[英文](../Page/英文.md "wikilink")：**Google Hong
-Kong**）是[谷歌在](../Page/谷歌.md "wikilink")[香港開設的分公司及分網站](../Page/香港.md "wikilink")，於2003年1月正式啟用\[1\]，為香港網絡用家提供[本土化的搜尋服務](../Page/本土化.md "wikilink")。由2010年3月23日起，由於[谷歌中國終止過濾審查的搜尋服務](../Page/谷歌中國.md "wikilink")，Google香港亦肩負起服務[中國網絡用家的角色](../Page/中國.md "wikilink")。
+**Google香港**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Google
+Hong
+Kong**）是[谷歌在](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[香港開設的分公司及分網站](../Page/香港.md "wikilink")，於2003年1月正式啟用\[1\]，為香港網絡用家提供[本土化的搜尋服務](../Page/本土化.md "wikilink")。由2010年3月23日起，由於[谷歌中國終止過濾審查的搜尋服務](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")，Google香港亦肩負起服務[中國網絡用家的角色](../Page/中國.md "wikilink")。
 
 Google香港的辦事處設於香港[銅鑼灣](../Page/銅鑼灣.md "wikilink")[時代廣場二座](../Page/時代廣場_\(香港\).md "wikilink")25樓2501室；而21樓及26樓則為辦公室。
 
 ## 歷史
 
-Google香港的域名早於2001年9月已經被Google註冊預留\[2\]，但直到2003年1月，Google香港才正式啟用，同時提供[繁體中文及](../Page/繁體中文.md "wikilink")[英文兩種語言](../Page/英文.md "wikilink")。
+Google香港的域名早於2001年9月已經被Google註冊預留\[2\]，但直到2003年1月，Google香港才正式啟用，同時提供[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[英文兩種語言](https://zh.wikipedia.org/wiki/英文 "wikilink")。
 
-2007年1月，[Google地圖開始測試香港版的街道圖](../Page/Google地圖.md "wikilink")，並於2008年7月正式推出，其後於2010年3月提供香港的[街景服務](../Page/Google街景服務.md "wikilink")。
+2007年1月，[Google地圖開始測試香港版的街道圖](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")，並於2008年7月正式推出，其後於2010年3月提供香港的[街景服務](https://zh.wikipedia.org/wiki/Google街景服務 "wikilink")。
 
-2010年3月23日起，[谷歌中國宣佈停止對谷歌中國搜尋服務的](../Page/谷歌中國.md "wikilink")「過濾審查」，並將搜尋服務由中國大陸轉至香港，google.cn的搜尋請求被轉至google.com.hk，即Google香港。同日Google香港的[簡體中文版啟用](../Page/簡體中文.md "wikilink")，外觀與谷歌中國首頁相同，頁底以簡體中文標示了「欢迎您来到谷歌搜索在中国的新家」。
+2010年3月23日起，[谷歌中國宣佈停止對谷歌中國搜尋服務的](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")「過濾審查」，並將搜尋服務由中國大陸轉至香港，google.cn的搜尋請求被轉至google.com.hk，即Google香港。同日Google香港的[簡體中文版啟用](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，外觀與谷歌中國首頁相同，頁底以簡體中文標示了「欢迎您来到谷歌搜索在中国的新家」。
 
 ## 簡體版
 
@@ -19,20 +20,20 @@ Google香港的域名早於2001年9月已經被Google註冊預留\[2\]，但直�
 ## 獨特服務
 
 Google香港於2009年7月28日推出名為「廣東話搜尋建議」（Google Cantonese
-Suggest）的[香港粵語拼音搜尋服務](../Page/香港粵語.md "wikilink")，只要以英文字母輸入港式粵語拼音，便可在Google搜尋到相關資訊\[3\]。
+Suggest）的[香港粵語拼音搜尋服務](https://zh.wikipedia.org/wiki/香港粵語 "wikilink")，只要以英文字母輸入港式粵語拼音，便可在Google搜尋到相關資訊\[3\]。
 
 ## 數據中心
 
-2011年9月28日，Google宣布在[將軍澳購入](../Page/將軍澳.md "wikilink")2.7公頃土地，將耗費一億美元興建一座[數據中心](../Page/數據中心.md "wikilink")，\[4\]
+2011年9月28日，Google宣布在[將軍澳購入](../Page/將軍澳.md "wikilink")2.7公頃土地，將耗費一億美元興建一座[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，\[4\]
 長遠投資達三億美元。\[5\]
-2013年，Google放棄有關工程\[6\]並先後啟用了新加坡資料中心與[台灣資料中心](../Page/Google台灣資料中心.md "wikilink")。
+2013年，Google放棄有關工程\[6\]並先後啟用了新加坡資料中心與[台灣資料中心](https://zh.wikipedia.org/wiki/Google台灣資料中心 "wikilink")。
 
 ## 參考文獻
 
 ## 參見
 
   - [Google](../Page/Google.md "wikilink")
-  - [谷歌中國](../Page/谷歌中國.md "wikilink")
+  - [谷歌中國](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")
 
 ## 外部連結
 

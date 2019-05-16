@@ -1,7 +1,7 @@
 **索尼爱立信Xperia
-X10**是由[索尼愛立信开发制造的于](../Page/索尼愛立信.md "wikilink")[Xperia子品牌旗下的高端](../Page/Xperia.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。X10采用了[Android操作系统](../Page/Android.md "wikilink")。
+X10**是由[索尼愛立信开发制造的于](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")[Xperia子品牌旗下的高端](../Page/Xperia.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。X10采用了[Android操作系统](../Page/Android.md "wikilink")。
 
-主要卖点为搭载了4英寸的[FWVGA规格屏幕](../Page/FWVGA.md "wikilink")、810万像素的摄像头和主频1Ghz的[处理器](../Page/处理器.md "wikilink")。
+主要卖点为搭载了4英寸的[FWVGA规格屏幕](https://zh.wikipedia.org/wiki/FWVGA "wikilink")、810万像素的摄像头和主频1Ghz的[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")。
 
 ## 历史
 
@@ -40,10 +40,10 @@ X10搭载了索尼爱立信自主开发的UXP界面，提供了整合式的通�
 
 顏色包括：
 
-| 顏色 | 名稱                                                            | 英語             |
-| -- | ------------------------------------------------------------- | -------------- |
-|    | [<font color="#000000">感性黑</font>](../Page/感性黑.md "wikilink") | Sensuous Black |
-|    | [<font color="#696969">光澤白</font>](../Page/光澤白.md "wikilink") | Luster White   |
+| 顏色 | 名稱                                                                               | 英語             |
+| -- | -------------------------------------------------------------------------------- | -------------- |
+|    | [<font color="#000000">感性黑</font>](https://zh.wikipedia.org/wiki/感性黑 "wikilink") | Sensuous Black |
+|    | [<font color="#696969">光澤白</font>](https://zh.wikipedia.org/wiki/光澤白 "wikilink") | Luster White   |
 
 ## 参考资料
 

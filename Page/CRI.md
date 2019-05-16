@@ -10,7 +10,8 @@ __NOTOC__ **CRI**可以指：
 
   - , a Danish aerospace company
 
-  - [商台互動](../Page/商台互動.md "wikilink")（Commercial Radio Interactive）
+  - [商台互動](https://zh.wikipedia.org/wiki/商台互動 "wikilink")（Commercial
+    Radio Interactive）
 
 ## 組織
 
@@ -40,9 +41,12 @@ __NOTOC__ **CRI**可以指：
     reuptake inhibitor）
   - [慢性肾脏病](../Page/慢性肾脏病.md "wikilink")（Chronic kidney
     disease），簡寫源自於chronic renal insufficiency。
-  - [演色性指數](../Page/演色性指數.md "wikilink")（Color Rendering Index）
-  - [中間負片](../Page/中間負片.md "wikilink")（Color reversal internegative）
-  - [輪作指數](../Page/輪作.md "wikilink")（Crop rotation index）
+  - [演色性指數](https://zh.wikipedia.org/wiki/演色性指數 "wikilink")（Color
+    Rendering Index）
+  - [中間負片](https://zh.wikipedia.org/wiki/中間負片 "wikilink")（Color reversal
+    internegative）
+  - [輪作指數](https://zh.wikipedia.org/wiki/輪作 "wikilink")（Crop rotation
+    index）
 
 ## 其他用法
 

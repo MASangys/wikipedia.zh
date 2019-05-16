@@ -1,9 +1,9 @@
 **2AM**（）為韓國男子偶像團體，隸屬於韓國著名經紀公司[JYP
-Entertainment](../Page/JYP_Entertainment.md "wikilink")，團體成員有[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](../Page/任瑟雍.md "wikilink")、[趙權及](../Page/趙權.md "wikilink")[珍雲](../Page/鄭珍雲.md "wikilink")。音樂風格如同名稱一般，在這樣的深夜裡，能感受到最寧靜的時刻。2AM歌迷的官方名稱為「I
-AM」，應援顏色為銀灰色。與兄弟團體[2PM一起活動時稱為](../Page/2PM.md "wikilink")[One
+Entertainment](https://zh.wikipedia.org/wiki/JYP_Entertainment "wikilink")，團體成員有[昶旻](../Page/李昶旻.md "wikilink")、[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權及](../Page/趙權.md "wikilink")[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")。音樂風格如同名稱一般，在這樣的深夜裡，能感受到最寧靜的時刻。2AM歌迷的官方名稱為「I
+AM」，應援顏色為銀灰色。與兄弟團體[2PM一起活動時稱為](https://zh.wikipedia.org/wiki/2PM "wikilink")[One
 Day](../Page/One_Day_\(偶像组合\).md "wikilink")。
 
-2AM為JYP娛樂下的團體，2008年，以《這首歌》出道時，2AM是由[Cube娛樂負責經營管理](../Page/Cube娛樂.md "wikilink")，2009年，轉回JYP娛樂管理，2010年開始，由BigHit娛樂負責綜合性業務（個人行程、團體行程）之經營管理，而此階段性的合作合約已於2014年4月結束。2014年4月，開始團體及成員[瑟雍](../Page/任瑟雍.md "wikilink")、[趙權](../Page/趙權.md "wikilink")、[珍雲的綜合性業務經紀管理皆轉回JYP娛樂](../Page/鄭珍雲.md "wikilink")，而成員[昶旻因仍有個人活動進行中](../Page/李昶旻.md "wikilink")，故個人經紀活動合約將不會有轉移計畫。所以2AM仍同屬兩家經紀公司之旗下藝人，只是經紀業務上有所更動。
+2AM為JYP娛樂下的團體，2008年，以《這首歌》出道時，2AM是由[Cube娛樂負責經營管理](../Page/Cube娛樂.md "wikilink")，2009年，轉回JYP娛樂管理，2010年開始，由BigHit娛樂負責綜合性業務（個人行程、團體行程）之經營管理，而此階段性的合作合約已於2014年4月結束。2014年4月，開始團體及成員[瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[趙權](../Page/趙權.md "wikilink")、[珍雲的綜合性業務經紀管理皆轉回JYP娛樂](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")，而成員[昶旻因仍有個人活動進行中](../Page/李昶旻.md "wikilink")，故個人經紀活動合約將不會有轉移計畫。所以2AM仍同屬兩家經紀公司之旗下藝人，只是經紀業務上有所更動。
 
 2015年，2AM與東家JYP娛樂合約到期，除了趙權續約留在JYP娛樂之外，任瑟雍和鄭珍雲為力求轉型分別加入Sidus
 HQ和MYSTIC娛樂，李昶旻則簽約Big
@@ -11,8 +11,8 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 
 ## 歷史發展
 
-  - 2008年7月11日，2AM在[KBS的](../Page/KBS.md "wikilink")「[Music
-    Bank](../Page/Music_Bank.md "wikilink")」節目中初次登台。
+  - 2008年7月11日，2AM在[KBS的](https://zh.wikipedia.org/wiki/KBS "wikilink")「[Music
+    Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")」節目中初次登台。
   - 2008年7月17日，首張單曲《這首歌》發行。
   - 2009年2月5日，由成員[趙權](../Page/趙權.md "wikilink")、[昶旻主唱的單曲](../Page/李昶旻.md "wikilink")《畢業》發行。
   - 2009年3月19日，第二張單曲《Time For Confession》發行。
@@ -20,9 +20,9 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
   - 2010年3月16日，首張迷你專輯Repackage《我錯了》發行。
   - 2010年5月20日，2010南非世界盃官方歌曲 －《NO.1》發行。\[1\]
   - 2010年10月26日，首張正規專輯《Saint o'clock》發行。
-  - 2010年12月9日，2AM以《死也不能放開你》獲得[韓國金唱片](../Page/金唱片獎.md "wikilink")「音源大賞」。
-  - 2011年8月1日，成員[珍雲發行自己首張SOLO單曲](../Page/鄭珍雲.md "wikilink")《向我走來》。
-  - 2011年11月17日，成員[珍雲發行第二張SOLO單曲](../Page/鄭珍雲.md "wikilink")《如果不是現在》。
+  - 2010年12月9日，2AM以《死也不能放開你》獲得[韓國金唱片](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「音源大賞」。
+  - 2011年8月1日，成員[珍雲發行自己首張SOLO單曲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《向我走來》。
+  - 2011年11月17日，成員[珍雲發行第二張SOLO單曲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《如果不是現在》。
   - 2012年1月11日，正式在日本發行單曲，以《死也不能放開你》日文版在日本出道。
   - 2012年3月12日，第二張迷你專輯《F.Scott Fitzgerald's Way Of Love》發行。
   - 2012年6月25日，成員[趙權發行個人首張SOLO正規專輯](../Page/趙權.md "wikilink")《I'm Da
@@ -36,15 +36,15 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 
 ## 成員資料
 
-| 成員列表                             |
-| -------------------------------- |
-| 藝名                               |
-| 藝名                               |
-| [李昶旻](../Page/李昶旻.md "wikilink") |
-| [林瑟雍](../Page/林瑟雍.md "wikilink") |
-| [趙權](../Page/趙權.md "wikilink")   |
-| [鄭珍雲](../Page/鄭珍雲.md "wikilink") |
-|                                  |
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 藝名                                                  |
+| [李昶旻](../Page/李昶旻.md "wikilink")                    |
+| [林瑟雍](../Page/林瑟雍.md "wikilink")                    |
+| [趙權](../Page/趙權.md "wikilink")                      |
+| [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink") |
+|                                                     |
 
 ## 作品
 
@@ -64,7 +64,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張單曲《<strong>這首歌</strong>》</p>
 <ul>
 <li>發行日期：2008年7月17日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -73,7 +73,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第二張單曲《<strong>Time For Confession</strong>》</p>
 <ul>
 <li>發行日期：2009年3月19日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第三張單曲《<strong>最愛</strong>》</p>
 <ul>
 <li>發行日期：2011年3月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -105,7 +105,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張迷你專輯《<strong>死也不能放開你</strong>》</p>
 <ul>
 <li>發行日期：2010年1月21日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -114,7 +114,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張迷你Repackage專輯《<strong>我錯了</strong>》</p>
 <ul>
 <li>發行日期：2010年3月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -124,7 +124,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <ul>
 <li>發行日期：2012年3月12日</li>
 <li>特別版發行日期：2012年9月24日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -133,7 +133,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第三張迷你專輯《<strong>NOCTURNE</strong>》</p>
 <ul>
 <li>發行日期：2013年11月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -156,7 +156,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張正規專輯《<strong>Saint o'clock</strong>》</p>
 <ul>
 <li>發行日期：2010年10月26日（特別版：11月2日）</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第二張正規專輯《<strong>One Spring Day</strong>》</p>
 <ul>
 <li>發行日期：2013年3月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第三張正規專輯《<strong>Let's Talk</strong>》</p>
 <ul>
 <li>發行日期：2014年10月30日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張單曲《<strong>Never let you go ～死んでも離さない～</strong>》</p>
 <ul>
 <li>發行日期：2012年1月11日</li>
-<li>語言：<a href="../Page/日文.md" title="wikilink">日文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -206,7 +206,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第二張單曲《<strong>給不接電話的你</strong>》</p>
 <ul>
 <li>發行日期：2012年4月11日</li>
-<li>語言：<a href="../Page/日文.md" title="wikilink">日文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -215,7 +215,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第三張單曲《<strong>For you ～君のためにできること～</strong>》</p>
 <ul>
 <li>發行日期：2012年9月12日</li>
-<li>語言：<a href="../Page/日文.md" title="wikilink">日文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -224,7 +224,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>第四張單曲《<strong>誰にも渡せないよ</strong>》</p>
 <ul>
 <li>發行日期：2012年12月5日</li>
-<li>語言：<a href="../Page/日文.md" title="wikilink">日文</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -247,7 +247,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>中文精選輯《<strong>Taiwan Special Edition</strong>》</p>
 <ul>
 <li>發行日期：2010年8月27日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -275,7 +275,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>首張日文正規專輯《<strong>Voice</strong>》</p>
 <ul>
 <li>發行日期：2013年1月9日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -285,32 +285,34 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 ## 其他單曲
 
   - [趙權](../Page/趙權.md "wikilink")、[昶旻](../Page/李昶旻.md "wikilink")《畢業》（發行日期：2009年2月5日）
-  - [趙權](../Page/趙權.md "wikilink")、[孫佳人](../Page/孫佳人.md "wikilink")《我們相愛了》（發行日期：2009年12月16日）
+  - [趙權](../Page/趙權.md "wikilink")、[孫佳人](https://zh.wikipedia.org/wiki/孫佳人 "wikilink")《我們相愛了》（發行日期：2009年12月16日）
   - **2AM**《像傻瓜一样》（《個人取向》OST；發行日期：2010年4月22日）
   - **2AM**《NO.1》（2010南非世界杯官方歌曲；發行日期：2010年5月20日）
-  - [瑟雍](../Page/任瑟雍.md "wikilink")、[IU](../Page/IU_\(歌手\).md "wikilink")
+  - [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")
     《嘮叨》 （發行日期：2010年6月3日）
   - [趙權](../Page/趙權.md "wikilink")《告白的那天》（發行日期：2010年7月1日）
-  - [昶旻](../Page/李昶旻.md "wikilink")、[李賢](../Page/李贤_\(歌手\).md "wikilink")([8eight](../Page/8eight.md "wikilink"))《只要好好吃飯》（發行日期：2010年7月28日）
-  - **2AM**《L.O.V.E》（《[Acoustic](../Page/Acoustic.md "wikilink")》OST；數位發行日期：2010年9月16日；原聲帶發行日期：2010年10月29日）
-  - **2AM**《為你分手》（[申胜勋](../Page/申胜勋.md "wikilink")《20th
+  - [昶旻](../Page/李昶旻.md "wikilink")、[李賢](https://zh.wikipedia.org/wiki/李贤_\(歌手\) "wikilink")([8eight](https://zh.wikipedia.org/wiki/8eight "wikilink"))《只要好好吃飯》（發行日期：2010年7月28日）
+  - **2AM**《L.O.V.E》（《[Acoustic](https://zh.wikipedia.org/wiki/Acoustic "wikilink")》OST；數位發行日期：2010年9月16日；原聲帶發行日期：2010年10月29日）
+  - **2AM**《為你分手》（[申胜勋](https://zh.wikipedia.org/wiki/申胜勋 "wikilink")《20th
     Anniversary》；發行日期：2010年11月1日）
   - JYP Nation《This Christmas》（發行日期：2010年12月1日）
-  - [昶旻](../Page/李昶旻.md "wikilink")、[珍雲](../Page/鄭珍雲.md "wikilink")《愛你不可以嗎》（《[Dream
-    High](../Page/Dream_High.md "wikilink")》OST；發行日期：2011年2月14日）
-  - [瑟雍](../Page/任瑟雍.md "wikilink")、Clazzi 《我們都變了》 （發行日期：2011年11月14日）
-  - [瑟雍](../Page/任瑟雍.md "wikilink")、[昶旻](../Page/李昶旻.md "wikilink")《淚之路》（《[Dr.
+  - [昶旻](../Page/李昶旻.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《愛你不可以嗎》（《[Dream
+    High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》OST；發行日期：2011年2月14日）
+  - [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、Clazzi 《我們都變了》
+    （發行日期：2011年11月14日）
+  - [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[昶旻](../Page/李昶旻.md "wikilink")《淚之路》（《[Dr.
     JIN](../Page/Dr._JIN.md "wikilink")》OST；發行日期：2012年7月13日）
-  - [昶旻](../Page/李昶旻.md "wikilink")、[多喜](../Page/Dahee.md "wikilink")《只看著你一人》（《[最佳李純信](../Page/最佳李純信.md "wikilink")》OST；發行日期：2013年7月1日）
+  - [昶旻](../Page/李昶旻.md "wikilink")、[多喜](https://zh.wikipedia.org/wiki/Dahee "wikilink")《只看著你一人》（《[最佳李純信](../Page/最佳李純信.md "wikilink")》OST；發行日期：2013年7月1日）
   - [昶旻](../Page/李昶旻.md "wikilink")《相遇 有味 對嗎?\!》（相遇 有味 對嗎?\! - Kimpira
     Project Part 1；發行日期：2013年8月26日）
-  - [瑟雍](../Page/任瑟雍.md "wikilink")《夏日,夜晚》（夏日,夜晚 - Epitone
-    Project；發行日期：2013年9月17日）
+  - [瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")《夏日,夜晚》（夏日,夜晚 -
+    Epitone Project；發行日期：2013年9月17日）
   - [昶旻](../Page/李昶旻.md "wikilink")《Moment》（《[繼承者們](../Page/繼承者們.md "wikilink")》OST；發行日期：2013年10月24日）
-  - [昶旻](../Page/李昶旻.md "wikilink")、[珍雲](../Page/鄭珍雲.md "wikilink")《愛你這句話》（《[Hotel
-    King](../Page/Hotel_King.md "wikilink")》OST；發行日期：2014年5月8日）
+  - [昶旻](../Page/李昶旻.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")《愛你這句話》（《[Hotel
+    King](https://zh.wikipedia.org/wiki/Hotel_King "wikilink")》OST；發行日期：2014年5月8日）
   - [趙權](../Page/趙權.md "wikilink")、[Fei](../Page/王霏霏.md "wikilink")《One
-    Summer Night》（《[誘惑](../Page/誘惑.md "wikilink")》OST；發行日期：2014年7月29日）
+    Summer
+    Night》（《[誘惑](https://zh.wikipedia.org/wiki/誘惑 "wikilink")》OST；發行日期：2014年7月29日）
 
 ## 廣告代言
 
@@ -324,7 +326,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
       - 《\[三星電子\]噗通噗通Tomorrow》系列代言
       - 《Tropicana Sparkling》果汁飲料代言
       - 《Maeil Cafe Latte Americano Dutch》咖啡代言
-      - 《Jambangee》服飾代言（與[韓孝珠](../Page/韓孝珠.md "wikilink")）
+      - 《Jambangee》服飾代言（與[韓孝珠](https://zh.wikipedia.org/wiki/韓孝珠 "wikilink")）
       - 《hite》啤酒代言-趙權個人
   - 2011年
       - 《首爾地鐵》形象宣傳大使
@@ -337,7 +339,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
       - 《Alba Heaven 打工天堂》網站代言-趙權個人
   - 2012年
       - 《首爾地鐵》形象宣傳大使
-      - 《Kappa》服裝代言（與[KARA的](../Page/KARA.md "wikilink")[妮可](../Page/鄭龍珠.md "wikilink")）
+      - 《Kappa》服裝代言（與[KARA的](https://zh.wikipedia.org/wiki/KARA "wikilink")[妮可](../Page/鄭龍珠.md "wikilink")）
       - 《MINISTOP》食品便利店代言
       - 《第13屆全州國際電影節》宣傳大使-瑟雍個人（與[孫恩書](../Page/孫恩書.md "wikilink")）
       - 《BHC》炸雞代言
@@ -421,17 +423,17 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 
   - JYP Nation
 
-|                |                                        |                                                     |
-| -------------- | -------------------------------------- | --------------------------------------------------- |
-| 日期             | 演唱會名稱                                  | 舉行地點                                                |
-| 2010年12月24日    | 2010 JYP NATION "TEAM PLAY"            | 韓國 [首爾奧林匹克體操競技場](../Page/首爾奧林匹克體操競技場.md "wikilink") |
-| 2011年8月17日-18日 | 2011 JYP NATION in Japan               | 日本 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")         |
-| 2012年8月4日      | 2012 JYP Nation in Korea               | 韓國 [首爾奧林匹克體操競技場](../Page/首爾奧林匹克體操競技場.md "wikilink") |
-| 2012年8月18日-19日 | 2012 JYP NATION in Japan               | 日本 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")         |
-| 2014年8月9日-10日  | 2014 JYP NATION "One Mic"              | 韓國 [蠶室室內體育館](../Page/蠶室室內體育館.md "wikilink")         |
-| 2014年8月30日     | 2014 JYP NATION "One Mic" in Hong Kong | 香港 [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")         |
-| 2014年9月5日-7日   | 2014 JYP NATION "One Mic" in Japan     | 日本 [國立代代木競技場](../Page/國立代代木競技場.md "wikilink")       |
-| 2014年12月13日    | 2014 JYP NATION "One Mic" in BANGKOK   | 曼谷 Impact Arena,Muang Thong Thani                   |
+|                |                                        |                                                                        |
+| -------------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| 日期             | 演唱會名稱                                  | 舉行地點                                                                   |
+| 2010年12月24日    | 2010 JYP NATION "TEAM PLAY"            | 韓國 [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
+| 2011年8月17日-18日 | 2011 JYP NATION in Japan               | 日本 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")                            |
+| 2012年8月4日      | 2012 JYP Nation in Korea               | 韓國 [首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink") |
+| 2012年8月18日-19日 | 2012 JYP NATION in Japan               | 日本 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")                            |
+| 2014年8月9日-10日  | 2014 JYP NATION "One Mic"              | 韓國 [蠶室室內體育館](https://zh.wikipedia.org/wiki/蠶室室內體育館 "wikilink")         |
+| 2014年8月30日     | 2014 JYP NATION "One Mic" in Hong Kong | 香港 [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")                            |
+| 2014年9月5日-7日   | 2014 JYP NATION "One Mic" in Japan     | 日本 [國立代代木競技場](../Page/國立代代木競技場.md "wikilink")                          |
+| 2014年12月13日    | 2014 JYP NATION "One Mic" in BANGKOK   | 曼谷 Impact Arena,Muang Thong Thani                                      |
 
 ### 其他參與的大型演唱會
 
@@ -516,14 +518,14 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>2010年</p></td>
 <td><p>2月7日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>死也不能放開你</p></td>
 <td><p>1位(Mutizen Song)</p></td>
 </tr>
 <tr class="even">
 <td><p>2月25日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -531,23 +533,23 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <tr class="odd">
 <td><p>3月7日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位(Mutizen Song)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月1日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>我錯了</p></td>
 <td><p>1位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月25日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>死也不能放開你</p></td>
 <td><p>上半年總結:2位</p></td>
 <td></td>
@@ -555,15 +557,15 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <tr class="even">
 <td><p>11月14日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>給不接電話的妳</p></td>
 <td><p>1位(Mutizen Song)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>死也不能放開你</p></td>
 <td><p>全年總結:2位</p></td>
 <td></td>
@@ -578,8 +580,8 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 </tr>
 <tr class="odd">
 <td><p>3月23日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/音樂銀行.md" title="wikilink">音樂銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -643,7 +645,7 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>2008年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/這首歌.md" title="wikilink">這首歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/這首歌" title="wikilink">這首歌</a></p></td>
 </tr>
 <tr class="even">
 <td><p>這首歌</p></td>
@@ -652,25 +654,25 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>2009年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Time_For_Confession.md" title="wikilink">Time For Confession</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Time_For_Confession" title="wikilink">Time For Confession</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/我們相愛了.md" title="wikilink">我們相愛了</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我們相愛了" title="wikilink">我們相愛了</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/死也不能放開你.md" title="wikilink">死也不能放開你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/死也不能放開你" title="wikilink">死也不能放開你</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/我錯了.md" title="wikilink">我錯了</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我錯了" title="wikilink">我錯了</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/告白的那天.md" title="wikilink">告白的那天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/告白的那天" title="wikilink">告白的那天</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Saint_o&#39;clock.md" title="wikilink">Saint o'clock</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saint_o&#39;clock" title="wikilink">Saint o'clock</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Saint o'clock</p></td>
@@ -679,19 +681,19 @@ Hit娛樂。JYP娛樂方面表示，雖然成員們有各自考量但JYP娱乐�
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/F.Scott_Fitzgerald&#39;s_Way_Of_Love.md" title="wikilink">F.Scott Fitzgerald's Way Of Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F.Scott_Fitzgerald&#39;s_Way_Of_Love" title="wikilink">F.Scott Fitzgerald's Way Of Love</a></p></td>
 </tr>
 <tr class="even">
 <td><p>F.Scott Fitzgerald's Way Of Love</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/I&#39;m_Da_One.md" title="wikilink">I'm Da One</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I&#39;m_Da_One" title="wikilink">I'm Da One</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/One_Spring_Day.md" title="wikilink">One Spring Day</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Spring_Day" title="wikilink">One Spring Day</a></p></td>
 </tr>
 <tr class="even">
 <td><p>One Spring Day</p></td>

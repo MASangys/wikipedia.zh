@@ -1,9 +1,9 @@
 《**FORTUNE
-ARTERIAL**》是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[AUGUST製作的](../Page/AUGUST.md "wikilink")[成人遊戲及其改編的](../Page/日本成人遊戲.md "wikilink")[小說](../Page/小說.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[電視動畫等](../Page/電視動畫.md "wikilink")。簡稱**FA**。
+ARTERIAL**》是[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[AUGUST製作的](../Page/AUGUST.md "wikilink")[成人遊戲及其改編的](../Page/日本成人遊戲.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫等](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。簡稱**FA**。
 
 ## 概要
 
-[August繼](../Page/August.md "wikilink")《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》之後的第六作，以[吸血鬼題材的校園戀愛故事](../Page/吸血鬼.md "wikilink")。中文版小說的標題是《FORTUNE
+[August繼](https://zh.wikipedia.org/wiki/August "wikilink")《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》之後的第六作，以[吸血鬼題材的校園戀愛故事](../Page/吸血鬼.md "wikilink")。中文版小說的標題是《FORTUNE
 ARTERIAL -命運脈動-》，在2008年1月開始販售，[PlayStation
 3移植版遊戲和電視動畫版的標題是](../Page/PlayStation_3.md "wikilink")《FORTUNE
 ARTERIAL -紅色約定-》（--）。
@@ -26,19 +26,19 @@ ARTERIAL -紅色約定-》（--）。
     男主角，修智館學院五年級生，由於父母工作的原因而有多次轉學的經驗，最後因為父母必須到國外工作的關係而決定轉學到全體寄宿制的修智館學院。小時候曾經在珠津島住過一段時間，七年後的現在又回到島上。長相不差，待人有禮的好青年，具有優秀的構思力和行動力。喜歡炒麵，討厭生薑。
     疑似因為小時候在珠津島上的某個意外事件而使體質改變，連帶造成七年後與千堂瑛里華初次見面時讓對方感受到異樣的感覺，進而引發千堂伊織的興趣，最後在千堂伊織的計畫下，半強迫半自願地加入學生會。
   -
-    生日：6月7日　血型：B型　星座：[雙子座](../Page/雙子座.md "wikilink")　身高：159.8cm　[三圍](../Page/三圍.md "wikilink")：82（C）/55/83
+    生日：6月7日　血型：B型　星座：[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")　身高：159.8cm　[三圍](https://zh.wikipedia.org/wiki/三圍 "wikilink")：82（C）/55/83
     房間號碼：4A-01
     女主角，修智館學院五年級生，學生會副會長，實際年齡十六歲，貓舌頭。學業和運動都很出色，只有數學往往敗給紅瀨桐葉，成績第一名的優等生、容姿端麗。一邊擔任學生會副會長一職、一邊還是學院中最有人氣的女生。事實上她不是人類，是[吸血鬼](../Page/吸血鬼.md "wikilink")，但本身討厭吸人血，希望和人類做朋友，並能像人類一樣生活。哥哥是學生會會長千堂伊織。
   -
-    生日：2月19日　血型：A型　星座：[雙魚座](../Page/雙魚座.md "wikilink")　身高：145.0cm　三圍：70（A）/51/72
+    生日：2月19日　血型：A型　星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")　身高：145.0cm　三圍：70（A）/51/72
     房間號碼：4D-17
     修智館學院四年級生，暱稱小白。孝平的學妹。學生會成員，個子嬌小，個性純真。很喜歡日式點心金鍔。又被稱為「紅瀨殺手」，桐葉對她沒輒。
   -
-    生日：11月21日　血型：AB型　星座：[天蠍座](../Page/天蠍座.md "wikilink")　身高：164.4cm　三圍：88（D）/57/86
+    生日：11月21日　血型：AB型　星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")　身高：164.4cm　三圍：88（D）/57/86
     房間號碼：4H-09
     修智館學院五年級生。外號：冷卻劑，是個知性充滿謎題的女生，容姿端正。孝平的同班同學。不太愛說話，不怎麼和人來住，擅長數學，其成績經常保持年級第1名。不過卻令人意外的對動物很好的打成一片，是個機械白痴，字跡工整，處理文件效率高，拿小白沒輒。為吸血鬼的「眷屬」，主人是伽耶。與伽耶是小時候的玩伴。大約250歲以上。
   -
-    生日：4月2日　血型：O型　星座：[牡羊座](../Page/牡羊座.md "wikilink")　身高：151.8cm　三圍：75（B）/54/77
+    生日：4月2日　血型：O型　星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")　身高：151.8cm　三圍：75（B）/54/77
     房間號碼：3A-18
     修智館學院六年級生。孝平的青梅竹馬及學姐。風紀委員會會長兼學生宿舎「白鳳寮」寮長，別名：白鳳寮的良心（自稱），蘿莉體態，個性活潑，言語十分天馬行空。
   -
@@ -52,24 +52,24 @@ ARTERIAL -紅色約定-》（--）。
 ### 其他角色
 
   -
-    生日：8月7日　血型：B型　星座：[獅子座](../Page/獅子座.md "wikilink")　身高：181.6cm　
+    生日：8月7日　血型：B型　星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")　身高：181.6cm　
     修智館學院六年級生。一邊擔任學生會會長一職、一邊還是學院中最有人氣的男生，表面看似輕浮，但似乎能看透所有事情。瑛-{里}-華的哥哥。和妹妹瑛-{里}-華一樣，他也是吸血鬼。年齡100歲以上。喜歡天池志津子的母親。
   -
-    生日：4月9日　血型：B型　星座：[牡羊座](../Page/牡羊座.md "wikilink")　身高：178.8cm　
+    生日：4月9日　血型：B型　星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")　身高：178.8cm　
     修智館學院六年級生。學生會財務負責人。白的哥哥。妹控。為最靠近伽耶的人。
   -
     生日：9月20日
-    血型：O型　星座：[處女座](../Page/處女座.md "wikilink")　身高：176.3cm　房間號碼：2A-15
+    血型：O型　星座：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")　身高：176.3cm　房間號碼：2A-15
     修智館學院五年級生。孝平的同班同學及好友，平時在校外偷偷打工。語氣冷淡，但個性直爽，處事果決，樂於助人。
   -
     生日：5月3日　血型：O型　星座：[金牛座](../Page/金牛座.md "wikilink")　身高：165.2cm
     三圍：93（F）/61/90
     修智館學院的修女兼學生宿舎管理員。洗禮名是。是伊織的愛人所生的女兒，伊織稱呼她為小志津子。對伊織有好感。
   -
-    生日：1月15日　血型：O型　星座：[魔羯座](../Page/魔羯座.md "wikilink")　身高：171.5cm
+    生日：1月15日　血型：O型　星座：[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")　身高：171.5cm
     修智館學院的男性化學教師，又被稱為「青海苔」。孝平、陽菜、桐葉、司的班主任。
   -
-    生日：1月22日　血型：B型　星座：[水瓶座](../Page/水瓶座.md "wikilink")　身高：160.1cm　三圍：87（D）/60/86
+    生日：1月22日　血型：B型　星座：[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")　身高：160.1cm　三圍：87（D）/60/86
     修智館學院美術社社長的六年級女學生。本名不明。家裡開壽司店。
   -
     生日：7月12日
@@ -131,7 +131,7 @@ season～》。全5集。遊戲版的日後談。
   -
     HOBiRECORDS發行，2008年1月25日發售，「」「」收錄。
   - FORTUNE ARTERIAL Original Sound Track
-    August發行，2008年5月30日發售，[原聲帶](../Page/原聲帶.md "wikilink")。
+    August發行，2008年5月30日發售，[原聲帶](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")。
   - FORTUNE ARTERIAL feeling assort
     Geneon Universal發行，2009年8月14日發售，角色歌10曲收錄。
   - FORTUNE ARTERIAL-Omnibus Edit- 「P-O-P」
@@ -153,7 +153,7 @@ season～》。全5集。遊戲版的日後談。
 
   - FORTUNE ARTERIAL
 
-漫畫化作品在[角川書店出版發行的雜誌](../Page/角川書店.md "wikilink")《[CompTiq](../Page/CompTiq.md "wikilink")》上連載。作畫。中文版由[台灣角川書店代理出版](../Page/台灣角川書店.md "wikilink")。
+漫畫化作品在[角川書店出版發行的雜誌](../Page/角川書店.md "wikilink")《[CompTiq](https://zh.wikipedia.org/wiki/CompTiq "wikilink")》上連載。作畫。中文版由[台灣角川書店代理出版](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")。
 
   - 日文版單行本
     1.  2008年7月26日發售 ISBN 978-4-04-715081-2
@@ -173,7 +173,7 @@ season～》。全5集。遊戲版的日後談。
     Works出版發行的雜誌](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's
     magazine](../Page/電擊G's_magazine.md "wikilink")》（2007年9月號～2008年4月號）及《[電擊G's
     Festival\!
-    COMIC](../Page/電擊G's_Festival!_COMIC.md "wikilink")》（Vol.2）上連載。作畫。單行本第一集（ISBN
+    COMIC](https://zh.wikipedia.org/wiki/電擊G's_Festival!_COMIC "wikilink")》（Vol.2）上連載。作畫。單行本第一集（ISBN
     978-4-04-867155-2）於2008年6月25日發售。
   -
     [Enterbrain出版發行的](../Page/Enterbrain.md "wikilink")[四格漫畫系列](../Page/四格漫畫.md "wikilink")。
@@ -188,16 +188,16 @@ season～》。全5集。遊戲版的日後談。
     9.  2009年12月25日發售 ISBN 978-4-0472-6215-7
     10. 2010年2月25日發售 ISBN 978-4-0472-6326-0
   -
-    [一迅社出版發行的](../Page/一迅社.md "wikilink")[漫畫選集](../Page/漫畫選集.md "wikilink")。
+    [一迅社出版發行的](../Page/一迅社.md "wikilink")[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。
     1.  2008年6月25日發售 ISBN 978-4-7580-0447-3
     2.  2008年7月25日發售 ISBN 978-4-7580-0456-5
     3.  2008年10月25日發售 ISBN 978-4-7580-0466-4
 
 ## 小說
 
-[HARVEST出版發行](../Page/HARVEST出版.md "wikilink")，[岡田留奈撰寫](../Page/岡田留奈.md "wikilink")，全6集，有性交場面。繁體中文版《FORTUNE
+[HARVEST出版發行](../Page/HARVEST出版.md "wikilink")，[岡田留奈撰寫](https://zh.wikipedia.org/wiki/岡田留奈 "wikilink")，全6集，有性交場面。繁體中文版《FORTUNE
 ARTERIAL
--命運脈動-》由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。譯者為[黃瀚篁](../Page/黃瀚篁.md "wikilink")。
+-命運脈動-》由[青文出版社代理出版](../Page/青文出版社.md "wikilink")。譯者為[黃瀚篁](https://zh.wikipedia.org/wiki/黃瀚篁 "wikilink")。
 
   - 日文版單行本
     1.  （2008年6月10日發售 ISBN 978-4-434-11965-1）
@@ -243,7 +243,7 @@ ARTERIAL
   - 音響製作 - Glovision
   - 製作人- 今本尚志、紅谷佳和
   - 動畫製作 -
-    [ZEXCS](../Page/ZEXCS.md "wikilink")、[feel.](../Page/feel..md "wikilink")
+    [ZEXCS](../Page/ZEXCS.md "wikilink")、[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作 - 修智館学院學生会
 
 ### 動畫主題曲
@@ -253,8 +253,9 @@ ARTERIAL
 :; 「[絆-kizunairo-色](../Page/絆-kizunairo-色.md "wikilink")」
 
   -
-    作詞 - RUCCA / 作曲 - 流歌 / 編曲 - [牧野信博](../Page/牧野信博.md "wikilink") / 歌 -
-    [Lia](../Page/Lia.md "wikilink")
+    作詞 - RUCCA / 作曲 - 流歌 / 編曲 -
+    [牧野信博](https://zh.wikipedia.org/wiki/牧野信博 "wikilink")
+    / 歌 - [Lia](../Page/Lia.md "wikilink")
 
   - 片尾曲
 
@@ -262,7 +263,7 @@ ARTERIAL
 
   -
     作詞、作曲、編曲 - 八木雄一 / 歌 -
-    [Veil](../Page/Veil.md "wikilink")（[Aoi](../Page/多田葵.md "wikilink")、[Misuzu](../Page/Misuzu.md "wikilink")）
+    [Veil](https://zh.wikipedia.org/wiki/Veil "wikilink")（[Aoi](../Page/多田葵.md "wikilink")、[Misuzu](https://zh.wikipedia.org/wiki/Misuzu "wikilink")）
 
       -
         第1話 - 第3話、第11話 -the origin-
@@ -340,7 +341,7 @@ ARTERIAL
 <td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p>山本天志</p></td>
 <td><p>徐惠真</p></td>
-<td><p><a href="../Page/山内則康.md" title="wikilink">山内則康</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/山内則康" title="wikilink">山内則康</a><br />
 筆坂明規</p></td>
 <td><p>鳥宏明</p></td>
 </tr>
@@ -490,7 +491,7 @@ ARTERIAL
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td><p>2010年10月12日－12月28日</p></td>
 <td><p>星期二 25:30－26:00</p></td>
@@ -498,7 +499,7 @@ ARTERIAL
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td><p>2010年10月13日－12月29日</p></td>
 <td><p>星期三 25:18－25:48</p></td>
@@ -506,7 +507,7 @@ ARTERIAL
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>星期三 25:43－26:13</p></td>
 <td></td>
@@ -514,20 +515,20 @@ ARTERIAL
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/滋賀縣.md" title="wikilink">滋賀縣</a></p></td>
-<td><p><a href="../Page/琵琶湖放送.md" title="wikilink">琵琶湖放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滋賀縣" title="wikilink">滋賀縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琵琶湖放送" title="wikilink">琵琶湖放送</a></p></td>
 <td><p>2010年10月19日－2011年1月4日</p></td>
 <td><p>星期二 26:50－27:20</p></td>
-<td><p><a href="../Page/全国独立UHF放送協議会.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
 <td><p>第1话、第2话播放时间为<br />
 27:00－27:30</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/Nico動画.md" title="wikilink">Nico動画</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nico動画" title="wikilink">Nico動画</a></p></td>
 <td><p>2010年10月14日－12月30日</p></td>
 <td><p>星期四 12:00 更新</p></td>
-<td><p>|<a href="../Page/網路電視.md" title="wikilink">網路電視</a></p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p>最新話1週內免費</p></td>
 </tr>
 <tr class="even">
@@ -544,7 +545,7 @@ ARTERIAL
 ## 網路廣播
 
 標題為《》（AUGUST廣播局 修智館學院出差學生會）。從2009年9月10日播放中。由千堂伊織（[Kevin
-Spicy](../Page/Kevin_Spicy.md "wikilink")）、千堂瑛-{里}-華（[觀村咲子](../Page/觀村咲子.md "wikilink")）主持。
+Spicy](https://zh.wikipedia.org/wiki/Kevin_Spicy "wikilink")）、千堂瑛-{里}-華（[觀村咲子](https://zh.wikipedia.org/wiki/觀村咲子 "wikilink")）主持。
 
   - 廣播CD「DJCD 」
       - Vol.1（2009年12月29日發售）

@@ -1,9 +1,9 @@
 『**K-ON\! ORIGINAL SOUND
-TRACK**』是[電視動畫](../Page/電視動畫.md "wikilink")『[K-ON\!](../Page/K-ON!.md "wikilink")』的[原聲音樂](../Page/原聲音樂.md "wikilink")。
+TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 ## 概要
 
-於2009年6月3日由[波麗佳音發行的](../Page/波麗佳音.md "wikilink")[原聲音樂](../Page/原聲音樂.md "wikilink")，音樂是[百石元由](../Page/百石元.md "wikilink")[融合爵士樂](../Page/融合爵士樂.md "wikilink")、[鐵克諾](../Page/鐵克諾.md "wikilink")、[Pop創作出來的](../Page/Pop_\(音樂類型\).md "wikilink")。在初回限定版中用了4人來作封面。
+於2009年6月3日由[波麗佳音發行的](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，音樂是[百石元由](https://zh.wikipedia.org/wiki/百石元 "wikilink")[融合爵士樂](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")、[鐵克諾](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")、[Pop創作出來的](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")。在初回限定版中用了4人來作封面。
 
 ## 收錄曲
 
@@ -46,7 +46,7 @@ TRACK**』是[電視動畫](../Page/電視動畫.md "wikilink")『[K-ON\!](../Pa
 
 ## K-ON\!\! ORIGINAL SOUND TRACK Vol.1
 
-電視動畫第2期『[K-ON\!\!](../Page/K-ON!.md "wikilink")』的原聲音樂。於2010年7月21日由波麗佳音發行。
+電視動畫第2期『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的原聲音樂。於2010年7月21日由波麗佳音發行。
 收錄了第6話「梅雨\!」的劇中歌童謠「[あめふり](../Page/雨降.md "wikilink")」和第8話「進路\!」的劇中歌童謠「うさぎとかめ」。
 於初回限定版中用了4人來作封面。
 
@@ -81,7 +81,7 @@ TRACK**』是[電視動畫](../Page/電視動畫.md "wikilink")『[K-ON\!](../Pa
 
 ## K-ON\!\! ORIGINAL SOUND TRACK Vol.2
 
-[電視動畫第](../Page/電視動畫.md "wikilink")2期『[K-ON\!\!](../Page/K-ON!.md "wikilink")』的第2張原聲音樂。於2010年10月6日由[波麗佳音發行](../Page/波麗佳音.md "wikilink")。
+[電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2期『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的第2張原聲音樂。於2010年10月6日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ### 收錄曲
 

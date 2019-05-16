@@ -1,4 +1,4 @@
-**MGP**是一系列由[秘鲁](../Page/秘鲁.md "wikilink")[海軍的SIMA](../Page/秘魯海軍.md "wikilink")-CEFAR工廠自1980年代起研製及生產的[冲锋枪和](../Page/冲锋枪.md "wikilink")[半自動手槍槍族](../Page/半自動手槍.md "wikilink")\[1\]\[2\]，发射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**MGP**是一系列由[秘鲁](../Page/秘鲁.md "wikilink")[海軍的SIMA](https://zh.wikipedia.org/wiki/秘魯海軍 "wikilink")-CEFAR工廠自1980年代起研製及生產的[冲锋枪和](../Page/冲锋枪.md "wikilink")[半自動手槍槍族](../Page/半自動手槍.md "wikilink")\[1\]\[2\]，发射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 MGP系列是為了秘魯海軍（）而生產。\[3\]儘管MGP系列被歸類為緊湊的衝鋒槍，但他們可被形容為笨重的手槍。
 
@@ -10,7 +10,7 @@ MGP系列衝鋒槍的設計是比較簡單的[反沖作用](../Page/反沖作用
 
 ### MGP-79/79A
 
-MGP-79是第一種MGP系列衝鋒槍，在1979年至1985年期間生產的，\[5\]亦且被秘魯安全部隊所使用，包括[執法機關和](../Page/警察.md "wikilink")[军队](../Page/军队.md "wikilink")。\[6\][槍管可以被擰下來](../Page/槍管.md "wikilink")，取而代之的是一根連[消音器的槍管以便執行秘密任務](../Page/抑制器.md "wikilink")。\[7\]此外，[機匣前端有部分區域具有螺紋](../Page/機匣.md "wikilink")，用於裝上一個穿孔的槍管保護罩，令使用者更容易使用以及瞄準目標。\[8\]
+MGP-79是第一種MGP系列衝鋒槍，在1979年至1985年期間生產的，\[5\]亦且被秘魯安全部隊所使用，包括[執法機關和](../Page/警察.md "wikilink")[军队](https://zh.wikipedia.org/wiki/军队 "wikilink")。\[6\][槍管可以被擰下來](../Page/槍管.md "wikilink")，取而代之的是一根連[消音器的槍管以便執行秘密任務](../Page/抑制器.md "wikilink")。\[7\]此外，[機匣前端有部分區域具有螺紋](https://zh.wikipedia.org/wiki/機匣 "wikilink")，用於裝上一個穿孔的槍管保護罩，令使用者更容易使用以及瞄準目標。\[8\]
 
 其[槍托摺疊時是沿著其機匣的右邊折疊](../Page/槍托.md "wikilink")，折疊後的槍托可充當[前握把使用](../Page/輔助握把.md "wikilink")。\[9\]
 
@@ -20,12 +20,12 @@ MGP-87是MGP-79A的升級版本，在1987年開始生產。\[10\]和它的前身
 
 ### MGP-15
 
-MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](../Page/秘鲁軍隊.md "wikilink")[特種部隊後不久就開始取代](../Page/特種部隊.md "wikilink")[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning
+MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊後不久就開始取代](../Page/特種部隊.md "wikilink")[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning
 Hi-Power）。\[14\]
 
 #### MGP-84
 
-**MGP-84**是MGP-15的升級版本。\[15\]主要是適合近身[保護要人](../Page/VIP.md "wikilink")（Very
+**MGP-84**是MGP-15的升級版本。\[15\]主要是適合近身[保護要人](https://zh.wikipedia.org/wiki/VIP "wikilink")（Very
 important person）的用途。\[16\]
 
 ##### MGP-14
@@ -37,8 +37,8 @@ important person）的用途。\[16\]
 
   - [MGP-15衝鋒槍](../Page/MGP-15衝鋒槍.md "wikilink")
   - [烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")
-  - [BSM/9 M1衝鋒槍](../Page/BSM/9_M1衝鋒槍.md "wikilink")
-  - [MPA衝鋒槍](../Page/MPA衝鋒槍.md "wikilink")
+  - [BSM/9 M1衝鋒槍](https://zh.wikipedia.org/wiki/BSM/9_M1衝鋒槍 "wikilink")
+  - [MPA衝鋒槍](https://zh.wikipedia.org/wiki/MPA衝鋒槍 "wikilink")
 
 ## 參考書目
 

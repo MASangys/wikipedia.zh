@@ -1,10 +1,10 @@
-《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT所著的](../Page/PEACH-PIT.md "wikilink")[愛情喜劇](../Page/愛情喜劇.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks的](../Page/MediaWorks.md "wikilink")《電擊Comic
-GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page/東立出版社.md "wikilink")。其作品還有原作改編的[動畫及](../Page/動畫.md "wikilink")[PlayStation
-2](../Page/PlayStation_2.md "wikilink")[遊戲軟體](../Page/遊戲軟體.md "wikilink")。
+《**DearS**》（，中文：親愛一族）是由雙人團體[PEACH-PIT所著的](../Page/PEACH-PIT.md "wikilink")[愛情喜劇](https://zh.wikipedia.org/wiki/愛情喜劇 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，為PEACH-PIT首次長篇連載作品。於[MediaWorks的](../Page/MediaWorks.md "wikilink")《電擊Comic
+GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page/東立出版社.md "wikilink")。其作品還有原作改編的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[PlayStation
+2](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 故事介紹
 
-來自[宇宙的](../Page/宇宙.md "wikilink")[UFO突然墜落到了](../Page/UFO.md "wikilink")[東京灣內](../Page/東京灣.md "wikilink")。無法回到遙遠故鄉的宇宙人們，被[日本政府稱作](../Page/日本政府.md "wikilink")「DearS」（意思是「親愛一族」），並接受他們、給予他們[人權](../Page/人權.md "wikilink")，採用「借宿」到學校[留學的方式讓他們學習](../Page/留學.md "wikilink")[日本文化](../Page/日本文化.md "wikilink")。故事即是發生在此背景底下，一位平凡高中生「幾原武哉」與DearS美少女「零」的主僕(?)關係的生活。
+來自[宇宙的](../Page/宇宙.md "wikilink")[UFO突然墜落到了](https://zh.wikipedia.org/wiki/UFO "wikilink")[東京灣內](../Page/東京灣.md "wikilink")。無法回到遙遠故鄉的宇宙人們，被[日本政府稱作](https://zh.wikipedia.org/wiki/日本政府 "wikilink")「DearS」（意思是「親愛一族」），並接受他們、給予他們[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")，採用「借宿」到學校[留學的方式讓他們學習](https://zh.wikipedia.org/wiki/留學 "wikilink")[日本文化](../Page/日本文化.md "wikilink")。故事即是發生在此背景底下，一位平凡高中生「幾原武哉」與DearS美少女「零」的主僕(?)關係的生活。
 
 ## 登場人物
 
@@ -23,7 +23,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <!-- end list -->
 
   - 和泉寧寧子（いずみ
-    ねねこ），[聲優](../Page/聲優.md "wikilink")：[齋藤千和](../Page/齋藤千和.md "wikilink")
+    ねねこ），[聲優](../Page/聲優.md "wikilink")：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 
 #### DearS
 
-  - 零（れい），[聲優](../Page/聲優.md "wikilink")：[清水愛](../Page/清水愛.md "wikilink")
+  - 零（れい），[聲優](../Page/聲優.md "wikilink")：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
 
 <!-- end list -->
 
@@ -178,7 +178,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -233,7 +233,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 
 ## 電視動畫
 
-動畫於2004年7月10日至2004年9月25日間在[tvk首播](../Page/tvk.md "wikilink")，全13話（12話＋1話收錄於DVD版中）。
+動畫於2004年7月10日至2004年9月25日間在[tvk首播](https://zh.wikipedia.org/wiki/tvk "wikilink")，全13話（12話＋1話收錄於DVD版中）。
 
 ### 製作人員
 
@@ -262,8 +262,8 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 
   -
     作詞・作曲 - [桃井晴子](../Page/桃井晴子.md "wikilink")、編曲 -
-    [小池雅也](../Page/小池雅也.md "wikilink")、歌 -
-    [UNDER17](../Page/UNDER17.md "wikilink")
+    [小池雅也](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")、歌 -
+    [UNDER17](https://zh.wikipedia.org/wiki/UNDER17 "wikilink")
 
 <!-- end list -->
 
@@ -273,8 +273,8 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 
   -
     作詞 - [畑亞貴](../Page/畑亞貴.md "wikilink")、作曲・編曲 -
-    [田村信二](../Page/田村信二.md "wikilink")、歌 -
-    [PoppinS](../Page/PoppinS.md "wikilink")
+    [田村信二](https://zh.wikipedia.org/wiki/田村信二 "wikilink")、歌 -
+    [PoppinS](https://zh.wikipedia.org/wiki/PoppinS "wikilink")
 
 ### 各話列表
 
@@ -292,7 +292,7 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <tr class="odd">
 <td><p>1</p></td>
 <td></td>
-<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
 <td><p>江島泰男</p></td>
 <td><p>清丸悟</p></td>
 </tr>
@@ -353,8 +353,8 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 <tr class="odd">
 <td><p>9</p></td>
 <td></td>
-<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a><br />
 岡村正弘</p></td>
 <td></td>
 </tr>
@@ -398,25 +398,25 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
 
 首播另有播放特別節目《DearS 前夜祭 ～はじめてなんです～》。
 
-| 播放地區                               | 播放電視台                                        | 播放日期              | 播放時間                                                     | 聯播網                                         | 備註  |
-| ---------------------------------- | -------------------------------------------- | ----------------- | -------------------------------------------------------- | ------------------------------------------- | --- |
-| [神奈川縣](../Page/神奈川縣.md "wikilink") | [神奈川電視台](../Page/神奈川電視台.md "wikilink")       | 2004年7月3日 - 9月25日 | 星期六 24:30 - 25:00                                        | [獨立UHF局](../Page/全國獨立放送協議會.md "wikilink")   |     |
-| [千葉縣](../Page/千葉縣.md "wikilink")   | [千葉電視台](../Page/千葉電視台.md "wikilink")         | 2004年7月4日 - 9月26日 | 星期日 23:30 - 24:00                                        |                                             |     |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")         | 星期日 24:35 - 25:05 |                                                          |                                             |     |
-| [愛知縣](../Page/愛知縣.md "wikilink")   | [愛知電視台](../Page/愛知電視台.md "wikilink")         | 2004年7月5日 - 9月27日 | 星期一 25:58 - 26:28                                        | [東京電視台系列](../Page/TXN.md "wikilink")        |     |
-| [廣島縣](../Page/廣島縣.md "wikilink")   | [廣島HOME電視台](../Page/廣島HOME電視台.md "wikilink") | 星期一 26:16 - 26:46 | [朝日電視台系列](../Page/All-nippon_News_Network.md "wikilink") |                                             |     |
-| [北海道](../Page/北海道.md "wikilink")   | [TV北海道](../Page/TV北海道.md "wikilink")         | 星期一 26:30 - 27:00 | 東京電視台系列                                                  |                                             |     |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [SUN電視台](../Page/SUN電視台.md "wikilink")       | 2004年7月6日 - 9月28日 | 星期二 24:00 - 24:30                                        | 獨立UHF局                                      |     |
-| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")     | 星期二 25:00 - 25:30 |                                                          |                                             |     |
-| [福岡縣](../Page/福岡縣.md "wikilink")   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")     | 星期二 26:55 - 27:25 | 東京電視台系列                                                  |                                             |     |
-| [日本全域](../Page/全國放送.md "wikilink") | [AT-X](../Page/AT-X.md "wikilink")           |                   |                                                          | [CS放送](../Page/日本衛星電視廣播#CS放送.md "wikilink") | 有重播 |
+| 播放地區                                                  | 播放電視台                                                           | 播放日期              | 播放時間                                                                        | 聯播網                                                            | 備註  |
+| ----------------------------------------------------- | --------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------- | --- |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                    | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                          | 2004年7月3日 - 9月25日 | 星期六 24:30 - 25:00                                                           | [獨立UHF局](../Page/全國獨立放送協議會.md "wikilink")                      |     |
+| [千葉縣](../Page/千葉縣.md "wikilink")                      | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")         | 2004年7月4日 - 9月26日 | 星期日 23:30 - 24:00                                                           |                                                                |     |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                      | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                            | 星期日 24:35 - 25:05 |                                                                             |                                                                |     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                      | [愛知電視台](../Page/愛知電視台.md "wikilink")                            | 2004年7月5日 - 9月27日 | 星期一 25:58 - 26:28                                                           | [東京電視台系列](https://zh.wikipedia.org/wiki/TXN "wikilink")        |     |
+| [廣島縣](../Page/廣島縣.md "wikilink")                      | [廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink") | 星期一 26:16 - 26:46 | [朝日電視台系列](https://zh.wikipedia.org/wiki/All-nippon_News_Network "wikilink") |                                                                |     |
+| [北海道](../Page/北海道.md "wikilink")                      | [TV北海道](../Page/TV北海道.md "wikilink")                            | 星期一 26:30 - 27:00 | 東京電視台系列                                                                     |                                                                |     |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")   | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")       | 2004年7月6日 - 9月28日 | 星期二 24:00 - 24:30                                                           | 獨立UHF局                                                         |     |
+| [東京都](../Page/東京都.md "wikilink")                      | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                        | 星期二 25:00 - 25:30 |                                                                             |                                                                |     |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                        | 星期二 26:55 - 27:25 | 東京電視台系列                                                                     |                                                                |     |
+| [日本全域](https://zh.wikipedia.org/wiki/全國放送 "wikilink") | [AT-X](../Page/AT-X.md "wikilink")                              |                   |                                                                             | [CS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS放送 "wikilink") | 有重播 |
 
 ## 廣播劇節目
 
   - 《DearS×DearS》（ディアーズ・ディアーズ）
     主講[radio
-    personality的](../Page/radio_personality.md "wikilink")[清水愛](../Page/清水愛.md "wikilink")（飾演零）、[中原麻衣](../Page/中原麻衣.md "wikilink")（飾演繆）、[谷山紀章](../Page/谷山紀章.md "wikilink")（飾演武哉）。
-    於[廣播大阪](../Page/大阪放送.md "wikilink")、[TBS廣播](../Page/TBS廣播.md "wikilink")、[信越放送三家電視台的](../Page/信越放送.md "wikilink")「[ゴクラク\!もえもえステーション](../Page/ゴクラク!もえもえステーション.md "wikilink")」頻道放映。
+    personality的](https://zh.wikipedia.org/wiki/radio_personality "wikilink")[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")（飾演零）、[中原麻衣](../Page/中原麻衣.md "wikilink")（飾演繆）、[谷山紀章](../Page/谷山紀章.md "wikilink")（飾演武哉）。
+    於[廣播大阪](../Page/大阪放送.md "wikilink")、[TBS廣播](../Page/TBS廣播.md "wikilink")、[信越放送三家電視台的](../Page/信越放送.md "wikilink")「[ゴクラク\!もえもえステーション](https://zh.wikipedia.org/wiki/ゴクラク!もえもえステーション "wikilink")」頻道放映。
     2004年4月3日到12月25日期間播放（信越放送隔日播映）。全39回。
     2005年1月於網路廣播再行放送、 每月更新1回、同年3月全3回播出完畢。
 
@@ -437,15 +437,15 @@ GAO！》上連載，共8卷。在台灣由[東立出版社代理出版](../Page
   - PoppinS
     由飾演Lilyne·Lilyne的中原麻衣與飾演Ruluna·Ruluna的清水愛所組成的音樂組合。
 
-以「謎の宇宙人ユニット」來自稱（他們不是正式的[聲優組合](../Page/聲優組合.md "wikilink")）、在CM的[CD盒封面登場時以奇葩的服裝與背景當賣點](../Page/唱片盒.md "wikilink")。
+以「謎の宇宙人ユニット」來自稱（他們不是正式的[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")）、在CM的[CD盒封面登場時以奇葩的服裝與背景當賣點](https://zh.wikipedia.org/wiki/唱片盒 "wikilink")。
 
-  - [唱片分類](../Page/音樂唱片分類.md "wikilink")
+  - [唱片分類](https://zh.wikipedia.org/wiki/音樂唱片分類 "wikilink")
 
 <!-- end list -->
 
   - 單曲
       - 恋のJET SHOOTER/SukiSuki☆Moon（2004年5月26日、LACM-4131）
-          - ラジオ大阪系「DearS×DearS」[主題歌](../Page/主題歌.md "wikilink")
+          - ラジオ大阪系「DearS×DearS」[主題歌](https://zh.wikipedia.org/wiki/主題歌 "wikilink")
           - [PS2專用遊戲平台](../Page/PlayStation_2.md "wikilink")『DearS』主題曲
       - HAPPY COSMOS/地球にぴんぽ〜ん（2004年8月25日、LACM-4148、DVD付）
           - 電視動畫版主題曲

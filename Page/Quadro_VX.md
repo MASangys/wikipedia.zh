@@ -1,5 +1,5 @@
 **Quadro
-VX**是[nVIDIA專業顯示核心](../Page/nVIDIA.md "wikilink")[Quadro產品線中的一個系列](../Page/NVIDIA_Quadro.md "wikilink")，於2008年11月推出\[1\]。Quadro
+VX**是[nVIDIA專業顯示核心](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[Quadro產品線中的一個系列](../Page/NVIDIA_Quadro.md "wikilink")，於2008年11月推出\[1\]。Quadro
 VX是专为满足中国使用[Autodesk](../Page/Autodesk.md "wikilink")
 [AutoCAD以及](../Page/AutoCAD.md "wikilink")[3ds
 Max的制造业和设计业专业人士需求而设计的](../Page/3ds_Max.md "wikilink")。
@@ -45,7 +45,7 @@ Max的制造业和设计业专业人士需求而设计的](../Page/3ds_Max.md "w
 
 ## 規格參考
 
-  - [NVIDIA顯示核心列表](../Page/NVIDIA顯示核心列表.md "wikilink")
+  - [NVIDIA顯示核心列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
 
 ## 外部連結
 

@@ -1,11 +1,12 @@
-《**紫色的Qualia**》（，意思是「[紫色的](../Page/紫色.md "wikilink")[感質](../Page/感質.md "wikilink")）是（上尾久光）撰寫，繪製插畫的日本科幻[輕小說作品](../Page/輕小說.md "wikilink")\[1\]，[電擊文庫出版](../Page/電擊文庫.md "wikilink")。\[2\]中文版由[東立出版社代理發行](../Page/東立出版社.md "wikilink")\[3\]。
+《**紫色的Qualia**》（，意思是「[紫色的](../Page/紫色.md "wikilink")[感質](https://zh.wikipedia.org/wiki/感質 "wikilink")）是（上尾久光）撰寫，繪製插畫的日本科幻[輕小說作品](../Page/輕小說.md "wikilink")\[1\]，[電擊文庫出版](../Page/電擊文庫.md "wikilink")。\[2\]中文版由[東立出版社代理發行](../Page/東立出版社.md "wikilink")\[3\]。
 
 ## 作品特色
 
-本作品起初是作者與綱島志朗合作的短篇企劃，書籍化時加入了另外兩篇短篇《1/1,000,000,000之吻》與《if》。作品中向古今中外的科幻小說致敬（包括[手塚治虫的](../Page/手塚治虫.md "wikilink")《[火鳥](../Page/火鳥_\(漫畫\).md "wikilink")》、Alfred
+本作品起初是作者與綱島志朗合作的短篇企劃，書籍化時加入了另外兩篇短篇《1/1,000,000,000之吻》與《if》。作品中向古今中外的科幻小說致敬（包括[手塚治虫的](../Page/手塚治虫.md "wikilink")《[火鳥](https://zh.wikipedia.org/wiki/火鳥_\(漫畫\) "wikilink")》、Alfred
 Bester的《Tiger\!
-Tiger\!》、[庫爾特·馮內古特的](../Page/庫爾特·馮內古特.md "wikilink")[第五號屠宰場與Greg](../Page/第五號屠宰場.md "wikilink")
-Egan的[萬有理論](../Page/萬有理論.md "wikilink")），故事本身為Widescreen Baroque結構。
+Tiger\!》、[庫爾特·馮內古特的](https://zh.wikipedia.org/wiki/庫爾特·馮內古特 "wikilink")[第五號屠宰場與Greg](../Page/第五號屠宰場.md "wikilink")
+Egan的[萬有理論](https://zh.wikipedia.org/wiki/萬有理論 "wikilink")），故事本身為Widescreen
+Baroque結構。
 
 其中《1/1,000,000,000之吻》受到高度肯定，受到《達文西》與《書的雜誌》等不常接觸輕小說領域的雜誌讚賞，於《好想讀科幻小說！》雜誌2010年版日本科幻小說排行中排名第10。
 

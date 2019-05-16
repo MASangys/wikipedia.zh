@@ -1,9 +1,9 @@
 **Don't Stop 'til You Get
-Enough**（[中文译名](../Page/中文.md "wikilink")：**满足为止**）在1979年7月28日发布，是杰克逊[Off
+Enough**（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：**满足为止**）在1979年7月28日发布，是杰克逊[Off
 the
-Wall专辑的第一支单曲](../Page/Off_the_Wall.md "wikilink")，这是他首张在[Epic唱片发行的单曲](../Page/Epic唱片.md "wikilink")。
+Wall专辑的第一支单曲](https://zh.wikipedia.org/wiki/Off_the_Wall "wikilink")，这是他首张在[Epic唱片发行的单曲](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink")。
 
-这首歌在[英国排名第](../Page/英国.md "wikilink")3并在单曲榜上停留了12个星期，在[美国单曲榜上也留名](../Page/美国.md "wikilink")21星期，它也是美国[节奏蓝调排行榜的冠军](../Page/节奏蓝调.md "wikilink")（5星期），这支单曲卖出了100多万张（自8年前的单曲[Ben以来](../Page/Ben（歌曲）.md "wikilink")，杰克逊的首支白金单曲）并获得[美国唱片业协会的白金唱片奖的认证](../Page/美国唱片业协会.md "wikilink")。这首歌还让杰克逊首次获得[格莱美奖和](../Page/格莱美奖.md "wikilink")[全美音乐奖](../Page/全美音乐奖.md "wikilink")。
+这首歌在[英国排名第](https://zh.wikipedia.org/wiki/英国 "wikilink")3并在单曲榜上停留了12个星期，在[美国单曲榜上也留名](../Page/美国.md "wikilink")21星期，它也是美国[节奏蓝调排行榜的冠军](https://zh.wikipedia.org/wiki/节奏蓝调 "wikilink")（5星期），这支单曲卖出了100多万张（自8年前的单曲[Ben以来](https://zh.wikipedia.org/wiki/Ben（歌曲） "wikilink")，杰克逊的首支白金单曲）并获得[美国唱片业协会的白金唱片奖的认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")。这首歌还让杰克逊首次获得[格莱美奖和](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")[全美音乐奖](https://zh.wikipedia.org/wiki/全美音乐奖 "wikilink")。
 
 ## 現場演出
 
@@ -14,11 +14,13 @@ Wall串燒中出現，此首有搭配相當美妙的舞蹈。
 
 ## 参见
 
-  - [Off the Wall](../Page/Off_the_Wall_\(迈克尔·杰克逊专辑\).md "wikilink")
-  - [格莱美奖](../Page/格莱美奖.md "wikilink")
-  - [全美音乐奖](../Page/全美音乐奖.md "wikilink")
-  - [I Can't Help It](../Page/I_Can't_Help_It.md "wikilink")
-  - [A面与B面](../Page/A面与B面.md "wikilink")
+  - [Off the
+    Wall](https://zh.wikipedia.org/wiki/Off_the_Wall_\(迈克尔·杰克逊专辑\) "wikilink")
+  - [格莱美奖](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")
+  - [全美音乐奖](https://zh.wikipedia.org/wiki/全美音乐奖 "wikilink")
+  - [I Can't Help
+    It](https://zh.wikipedia.org/wiki/I_Can't_Help_It "wikilink")
+  - [A面与B面](https://zh.wikipedia.org/wiki/A面与B面 "wikilink")
 
 ## 外部链接
 

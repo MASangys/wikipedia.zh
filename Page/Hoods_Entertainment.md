@@ -1,10 +1,10 @@
-**株式会社Hoods**（；），是以[动画企画](../Page/动画.md "wikilink")、制作为主营业务的[日本](../Page/日本.md "wikilink")[企業](../Page/企業.md "wikilink")。
+**株式会社Hoods**（；），是以[动画企画](../Page/动画.md "wikilink")、制作为主营业务的[日本](../Page/日本.md "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")。
 
 ## 公司概要
 
-[GONZO的制作人永井理及一部分参与了](../Page/GONZO.md "wikilink")「[武装机甲](../Page/武装机甲.md "wikilink")」、「[BLASSREITER](../Page/BLASSREITER.md "wikilink")」等片制作的工作人员\[1\]，于2009年2月成立的动画制作公司。
+[GONZO的制作人永井理及一部分参与了](../Page/GONZO.md "wikilink")「[武装机甲](https://zh.wikipedia.org/wiki/武装机甲 "wikilink")」、「[BLASSREITER](https://zh.wikipedia.org/wiki/BLASSREITER "wikilink")」等片制作的工作人员\[1\]，于2009年2月成立的动画制作公司。
 
-成立最初的目的是原创动画的制作，及包括作画在内的[外包业务](../Page/外包.md "wikilink")。但目前的作品皆是改編自漫畫作品，並因內容挑戰一般向動畫尺度而引起動漫迷注意。
+成立最初的目的是原创动画的制作，及包括作画在内的[外包业务](https://zh.wikipedia.org/wiki/外包 "wikilink")。但目前的作品皆是改編自漫畫作品，並因內容挑戰一般向動畫尺度而引起動漫迷注意。
 
 ## 作品
 
@@ -14,35 +14,40 @@
   - [聖痕鍊金士Ⅱ](../Page/聖痕鍊金士.md "wikilink")（，2011年）
   - [魔乳秘劍帖](../Page/魔乳秘劍帖.md "wikilink")（，2011年）
   - [謎樣女友X](../Page/謎樣女友X.md "wikilink")（，2012年）
-  - [Fantasista Doll](../Page/Fantasista_Doll.md "wikilink")（，2013年）
-  - [蒼翼默示錄Alter Memory](../Page/蒼翼默示錄.md "wikilink")（BLAZBLUE Alter
-    Memory，2013年）
+  - [Fantasista
+    Doll](https://zh.wikipedia.org/wiki/Fantasista_Doll "wikilink")（，2013年）
+  - [蒼翼默示錄Alter
+    Memory](https://zh.wikipedia.org/wiki/蒼翼默示錄 "wikilink")（BLAZBLUE
+    Alter Memory，2013年）
   - [如果折斷她的旗](../Page/如果折斷她的旗.md "wikilink")（，2014年）
   - [大圖書館的牧羊人](../Page/大圖書館的牧羊人.md "wikilink")（，2014年）
   - [漂流武士](../Page/漂流武士.md "wikilink")（，2016年，HOODS DRIFTERS STUDIO名義）
-  - [童話魔法使](../Page/童話魔法使.md "wikilink")（，2018年）
-  - [三次元女友 REAL GIRLl](../Page/三次元女友.md "wikilink")（，2018年）
+  - [童話魔法使](https://zh.wikipedia.org/wiki/童話魔法使 "wikilink")（，2018年）
+  - [三次元女友 REAL
+    GIRLl](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")（，2018年）
 
 ### OVA
 
   - [秋日天空](../Page/秋日天空.md "wikilink")（，2009年）
-  - [Rescue ME\!](../Page/Rescue_ME!.md "wikilink")（，2013年）
+  - [Rescue
+    ME\!](https://zh.wikipedia.org/wiki/Rescue_ME! "wikilink")（，2013年）
   - [科學化學症候群](../Page/科學化學症候群.md "wikilink")（，2013年）
-  - [閃亂神樂 ESTIVAL VERSUS](../Page/閃亂神樂.md "wikilink")（，2015年）
+  - [閃亂神樂 ESTIVAL
+    VERSUS](https://zh.wikipedia.org/wiki/閃亂神樂 "wikilink")（，2015年）
   - [青春水球社](../Page/青春水球社.md "wikilink")（，2015年）
 
 ### 製作協力
 
-  - [神樣DOLLS](../Page/神樣DOLLS.md "wikilink")（）（總承包商：[Brain's
+  - [神樣DOLLS](https://zh.wikipedia.org/wiki/神樣DOLLS "wikilink")（）（總承包商：[Brain's
     Base](../Page/Brain's_Base.md "wikilink")，電視動畫，2011年）
-  - [靈異E接觸](../Page/靈異E接觸.md "wikilink")（）（總承包商：[Studio
+  - [靈異E接觸](https://zh.wikipedia.org/wiki/靈異E接觸 "wikilink")（）（總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")、[david
     production](../Page/David_Production.md "wikilink")，電視動畫，2011年）
-  - [JoJo的奇妙冒險](../Page/JoJo的奇妙冒險.md "wikilink")（）（總承包商：david
+  - [JoJo的奇妙冒險](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")（）（總承包商：david
     production，電視動畫，2012年）
   - [PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")（總承包商：[Production
     I.G](../Page/Production_I.G.md "wikilink")，電視動畫，2012年）
-  - [失憶症](../Page/失憶症_\(遊戲\).md "wikilink")（）（總承包商：Brain's
+  - [失憶症](https://zh.wikipedia.org/wiki/失憶症_\(遊戲\) "wikilink")（）（總承包商：Brain's
     Base，電視動畫，2013年）
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（）（總承包商：[ZEXCS](../Page/ZEXCS.md "wikilink")，電視動畫，2013年）
   - [小鎮有你](../Page/小鎮有你.md "wikilink")（）（總承包商：[GONZO](../Page/GONZO.md "wikilink")，電視動畫，2013年）
@@ -51,7 +56,7 @@
 
 ## 关联项目
 
-  - [日本动画工作室列表](../Page/日本动画工作室列表.md "wikilink")
+  - [日本动画工作室列表](https://zh.wikipedia.org/wiki/日本动画工作室列表 "wikilink")
 
 ## 外部链接
 

@@ -1,14 +1,15 @@
 **Core
-Data**是[蘋果公司所開發的](../Page/蘋果公司.md "wikilink")[macOS](../Page/macOS.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")（舊稱：Mac
+Data**是[蘋果公司所開發的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（舊稱：Mac
 OS X及OS X）中[Cocoa](../Page/Cocoa.md "wikilink")
-[API的一部分](../Page/API.md "wikilink")，首次在[Mac OS X 10.4
-*Tiger*与](../Page/Mac_OS_X_v10.4.md "wikilink")[iOS](../Page/iOS.md "wikilink")
-3.0系统中出现\[1\]。它允许按照[实体-属性-值模型组织数据](../Page/实体-属性-值模型.md "wikilink")，并以[XML](../Page/XML.md "wikilink")，[二进制文件或](../Page/二进制文件.md "wikilink")[SQLite数据文件的格式将其](../Page/SQLite.md "wikilink")[序列化](../Page/序列化.md "wikilink")。Core
-Data允许用户使用代表实体和实体间关系的高层对象来操作数据。它也可以管理序列化的数据，提供[对象生存期管理与](../Page/对象生存期.md "wikilink")[object
-graph管理](../Page/object_graph.md "wikilink")，包括存储。Core
+[API的一部分](https://zh.wikipedia.org/wiki/API "wikilink")，首次在[Mac
+OS X 10.4
+*Tiger*与](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
+3.0系统中出现\[1\]。它允许按照[实体-属性-值模型组织数据](https://zh.wikipedia.org/wiki/实体-属性-值模型 "wikilink")，并以[XML](../Page/XML.md "wikilink")，[二进制文件或](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")[SQLite数据文件的格式将其](../Page/SQLite.md "wikilink")[序列化](../Page/序列化.md "wikilink")。Core
+Data允许用户使用代表实体和实体间关系的高层对象来操作数据。它也可以管理序列化的数据，提供[对象生存期管理与](https://zh.wikipedia.org/wiki/对象生存期 "wikilink")[object
+graph管理](https://zh.wikipedia.org/wiki/object_graph "wikilink")，包括存储。Core
 Data直接与[SQLite交互](../Page/SQLite.md "wikilink")，避免开发者使用原本的[SQL语句](../Page/SQL.md "wikilink")\[2\]。
 
-就像[Cocoa绑定在](../Page/Cocoa绑定.md "wikilink")[模型-视图-控制器设计中做了很多控制器的工作一样](../Page/模型-视图-控制器.md "wikilink")，Core
+就像[Cocoa绑定在](https://zh.wikipedia.org/wiki/Cocoa绑定 "wikilink")[模型-视图-控制器设计中做了很多控制器的工作一样](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")，Core
 Data做了很多数据模型的工作。它的主要任务是负责数据更改的管理，序列化到磁盘，最小化内存占用，以及查询数据。
 
 專長於Core Data及Cocoa軟體開發的資訊圖書作家Marcus Zarra曾說：
@@ -19,7 +20,7 @@ Core
 Data使用包括实体和实体间关系，以及查找符合某些条件的实体的请求等内容的高层数据模型描述数据。开发者可以在纯对象层上查找与管理这些数据，而不必担心存储和查找的实现细节。[Interface
 Builder中的控制器对象可以直接获取与管理实体](../Page/Interface_Builder.md "wikilink")，若与Cocoa绑定结合，则可以在不写自定义代码的情况下让用户界面显示、修改与管理数据模型中的大部分内容。
 
-例如：开发者希望开发一个管理[vCard的程序](../Page/vCard.md "wikilink")。作者希望使用Core
+例如：开发者希望开发一个管理[vCard的程序](https://zh.wikipedia.org/wiki/vCard "wikilink")。作者希望使用Core
 Data将一些vCard读入对象中，然后把它们存入一个大XML文件中。开发者需要在Xcode中建立数据模型，然后到Interface
 Builder中加入*Core Data
 Entity*项以创建其数据模型对应的GUI。然后，开发者可以加入标准的[Objective-C代码以读取vCard](../Page/Objective-C.md "wikilink")，并将数据写入由Core
@@ -115,10 +116,10 @@ Data由相对庞大的类继承体系组成，但开发者需要关注的接口�
 ## 存储格式
 
 Core Data可以将数据存储为XML，二进制文件或SQLite文件\[7\]。在[Mac OS X 10.5
-*Leopard*及以后的版本中](../Page/Mac_OS_X_v10.5.md "wikilink")，开发者也可以通过继承NSPersistentStore类以创建自定义的存储格式。每种方法都有其优缺点，例如XML的可读性，SQLite的节约空间等。Core
+*Leopard*及以后的版本中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")，开发者也可以通过继承NSPersistentStore类以创建自定义的存储格式。每种方法都有其优缺点，例如XML的可读性，SQLite的节约空间等。Core
 Data的这一方面类似于原始的[Enterprise Objects
-Framework](../Page/Enterprise_Objects_Framework.md "wikilink")（EOF）系统，但EOF中开发者可以使用相对简洁的查询方式，而在Core
-Data中，只能使用一个语法类似SQL子集的查询语言，称为[Predicate](../Page/Predicate.md "wikilink")\[8\]。
+Framework](https://zh.wikipedia.org/wiki/Enterprise_Objects_Framework "wikilink")（EOF）系统，但EOF中开发者可以使用相对简洁的查询方式，而在Core
+Data中，只能使用一个语法类似SQL子集的查询语言，称为[Predicate](https://zh.wikipedia.org/wiki/Predicate "wikilink")\[8\]。
 
 Core Data是标准化的，可以自由的读写Xcode数据模型文件（通常是.xcdatamodel文件）。与EOF不同，Core
 Data目前没有设计多用户或多线程访问模式。模型迁移通常也需要代码，若其它开发者依赖于某个数据模型，则该数据模型的设计者可能在模型发生改变时需要与新数据模型一起提供版本转换代码。
@@ -127,7 +128,7 @@ Data目前没有设计多用户或多线程访问模式。模型迁移通常也�
 
 Core Data的很大一部分设计都归功于早期的[NeXT产品](../Page/NeXT.md "wikilink")，[Enterprise
 Objects
-Framework](../Page/Enterprise_Objects_Framework.md "wikilink")（EOF）\[9\]。
+Framework](https://zh.wikipedia.org/wiki/Enterprise_Objects_Framework "wikilink")（EOF）\[9\]。
 
 ## 脚注
 

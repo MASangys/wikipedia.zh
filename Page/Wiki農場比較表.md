@@ -1,6 +1,6 @@
 這是一個**Wiki站點架設**網站的比較表，一般比較其收費、廣告、版權條款及[Alexa排名](../Page/Alexa_Internet.md "wikilink")。
 
-[Wiki是一個網上合作工具](../Page/Wiki.md "wikilink")；第一，他們是比一般網站容易編輯，且可以用標準[瀏覽器訪問](../Page/瀏覽器.md "wikilink")；第二，修訂是存檔及可重寫的。
+[Wiki是一個網上合作工具](../Page/Wiki.md "wikilink")；第一，他們是比一般網站容易編輯，且可以用標準[瀏覽器訪問](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")；第二，修訂是存檔及可重寫的。
 
 ## 一般比較
 
@@ -54,7 +54,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/eTouch_Systems.md" title="wikilink">eTouch</a> {{tsl|en|SamePage</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/eTouch_Systems" title="wikilink">eTouch</a> {{tsl|en|SamePage</p></td>
 <td><p>SamePage}}'''</p></td>
 <td></td>
 <td><p>{{?}}</p></td>
@@ -66,16 +66,16 @@
 <td><p><strong></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/共享創意.md" title="wikilink">共享創意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a></p></td>
 <td><p>MediaWiki</p></td>
 <td><p>多种</p></td>
 <td><p>[3]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Gamepedia.md" title="wikilink">Gamepedia</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Gamepedia" title="wikilink">Gamepedia</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/共享創意.md" title="wikilink">共享創意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a></p></td>
 <td><p>MediaWiki</p></td>
 <td><p>多种</p></td>
 <td></td>
@@ -85,7 +85,7 @@
 <td><p>Ourproject.org}}'''</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Copyleft.md" title="wikilink">Copyleft</a>（可自選<a href="../Page/共享創意.md" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL或其他條款</a>）</p></td>
+<td><p><a href="../Page/Copyleft.md" title="wikilink">Copyleft</a>（可自選<a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL或其他條款</a>）</p></td>
 <td><p>MoinMoin</p></td>
 <td></td>
 </tr>
@@ -99,10 +99,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Shoutwiki.md" title="wikilink">Shoutwiki</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Shoutwiki" title="wikilink">Shoutwiki</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Copyleft.md" title="wikilink">Copyleft</a>（可自選<a href="../Page/共享創意.md" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL或其他條款</a>）</p></td>
+<td><p><a href="../Page/Copyleft.md" title="wikilink">Copyleft</a>（可自選<a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL或其他條款</a>）</p></td>
 <td><p>MediaWiki</p></td>
 <td><p>多种</p></td>
 <td><p>[4]</p></td>
@@ -121,7 +121,7 @@
 <td><p>Wetpaint}}'''</p></td>
 <td><p>免費/付費</p></td>
 <td></td>
-<td><p><a href="../Page/共享創意.md" title="wikilink">共享創意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -138,7 +138,7 @@
 <td><p><strong><a href="../Page/Wikia.md" title="wikilink">Wikia</a></strong></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/共享創意.md" title="wikilink">共享創意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a></p></td>
 <td><p>MediaWiki</p></td>
 <td><p>多种</p></td>
 <td><p>[6]</p></td>
@@ -147,7 +147,7 @@
 <td><p><strong><a href="../Page/Wikidot.md" title="wikilink">Wikidot</a></strong></p></td>
 <td><p>免費/付費</p></td>
 <td></td>
-<td><p>預設為<a href="../Page/共享創意.md" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL</a>、其他……</p></td>
+<td><p>預設為<a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL</a>、其他……</p></td>
 <td><p>Text_Wiki</p></td>
 <td><p>多种</p></td>
 <td><p>[7]</p></td>
@@ -156,13 +156,13 @@
 <td><p><strong><a href="../Page/Wikispaces.md" title="wikilink">Wikispaces</a></strong></p></td>
 <td><p>免費/付費[8]</p></td>
 <td></td>
-<td><p>可選擇<a href="../Page/共享創意.md" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL</a>、其他……</p></td>
+<td><p>可選擇<a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a>、<a href="../Page/GNU自由文档许可证.md" title="wikilink">GNU FDL</a>、其他……</p></td>
 <td></td>
 <td></td>
 <td><p>[9]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/XWiki.md" title="wikilink">XWiki</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/XWiki" title="wikilink">XWiki</a></strong></p></td>
 <td><p>免費/收費</p></td>
 <td></td>
 <td><p>任何</p></td>
@@ -171,7 +171,7 @@
 <td><p>[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/wiki.wiki.md" title="wikilink">wiki.wiki</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/wiki.wiki" title="wikilink">wiki.wiki</a></strong></p></td>
 <td><p>免费</p></td>
 <td><p>否</p></td>
 <td></td>
@@ -180,7 +180,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/灰机wiki.md" title="wikilink">灰机wiki</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/灰机wiki" title="wikilink">灰机wiki</a></strong></p></td>
 <td><p>免费</p></td>
 <td><p>否</p></td>
 <td></td>
@@ -189,7 +189,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/@wiki.md" title="wikilink">@wiki</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/@wiki" title="wikilink">@wiki</a></strong></p></td>
 <td><p>免费</p></td>
 <td><p>否</p></td>
 <td></td>
@@ -204,7 +204,7 @@
 
   - [Wiki](../Page/Wiki.md "wikilink")
   - [維基](../Page/維基.md "wikilink")
-  - [Wiki農場](../Page/Wiki農場.md "wikilink")
+  - [Wiki農場](https://zh.wikipedia.org/wiki/Wiki農場 "wikilink")
 
 ## 參考
 

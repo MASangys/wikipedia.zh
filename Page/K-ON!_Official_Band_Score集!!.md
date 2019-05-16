@@ -1,24 +1,25 @@
 『**「K-ON\!」 Official Band
-Score集\!\!**』是[電視動畫](../Page/電視動畫.md "wikilink")『[K-ON\!](../Page/K-ON!.md "wikilink")』的官方音樂集及樂譜集的專輯。
+Score集\!\!**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的官方音樂集及樂譜集的專輯。
 
 ## 「K-ON\!」Official Band Score集\!\!
 
-於2009年9月2日由[波麗佳音發行的原聲音樂專輯](../Page/波麗佳音.md "wikilink")，在DISC1中加入了中野梓的[Cagayake\!GIRLS和](../Page/Cagayake!GIRLS.md "wikilink")[Don't
+於2009年9月2日由[波麗佳音發行的原聲音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，在DISC1中加入了中野梓的[Cagayake\!GIRLS和](../Page/Cagayake!GIRLS.md "wikilink")[Don't
 say
-"lazy"的](../Page/Don't_say_"lazy".md "wikilink")5人版，[原聲帶未收錄的音樂](../Page/K-ON!_ORIGINAL_SOUND_TRACK.md "wikilink")；DISC2收錄Cagayake\!GIRLS少了一種樂器instrumental和佐和子老師解説。
+"lazy"的](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")5人版，[原聲帶未收錄的音樂](../Page/K-ON!_ORIGINAL_SOUND_TRACK.md "wikilink")；DISC2收錄Cagayake\!GIRLS少了一種樂器instrumental和佐和子老師解説。
 
 ### 收錄内容
 
 #### Disc-1
 
 1.  [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")［5人Ver．］
-2.  [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")［5人Ver．］
+2.  [Don't say
+    "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")［5人Ver．］
 3.  Cagayake\!GIRLS［5人Ver．］ （instrumental）
 4.  Don't say "lazy"［5人Ver．］（instrumental）
 5.  カレーのちライス『StudioMix』（instrumental）
 6.  わたしの恋はホッチキス『StudioMix』（instrumental）
 7.  ふでペン 〜ボールペン〜『StudioMix』（instrumental）
-8.  [ふわふわ時間](../Page/ふわふわ時間.md "wikilink")『StudioMix』（instrumental）
+8.  [ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")『StudioMix』（instrumental）
 9.  サブタイトルバック・ギター1
 10. サブタイトルバック・ギター2
 11. サブタイトルバック・ギター3
@@ -128,8 +129,8 @@ say
 
 ## 「K-ON\!」 Official Band Score集\!\! PART2
 
-於2010年3月3日由[波麗佳音發行的原聲音樂專輯](../Page/波麗佳音.md "wikilink")，收錄了[放課後TEA
-TIME](../Page/放課後TEA_TIME.md "wikilink")[輕飄飄時間](../Page/輕飄飄時間.md "wikilink")『StudioMix』的純音樂版本，亦有單曲[Maddy
+於2010年3月3日由[波麗佳音發行的原聲音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，收錄了[放課後TEA
+TIME](https://zh.wikipedia.org/wiki/放課後TEA_TIME "wikilink")[輕飄飄時間](../Page/輕飄飄時間.md "wikilink")『StudioMix』的純音樂版本，亦有單曲[Maddy
 Candy的的純音樂版本](../Page/Maddy_Candy.md "wikilink")。
 
 在DVD裡有〈輕飄飄時間〉的彈奏，收錄各部分錄像。
@@ -149,7 +150,7 @@ Candy的的純音樂版本](../Page/Maddy_Candy.md "wikilink")。
 
 ## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!〜」
 
-於2010年5月26日由[波麗佳音發行的音樂專輯](../Page/波麗佳音.md "wikilink")，收錄了第二季的主題曲[GO\!
+於2010年5月26日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，收錄了第二季的主題曲[GO\!
 GO\!
 MANIAC和片尾曲](../Page/GO!_GO!_MANIAC.md "wikilink")[Listen\!\!的純音樂版本](../Page/Listen!!.md "wikilink")。
 
@@ -170,7 +171,7 @@ MANIAC和片尾曲](../Page/GO!_GO!_MANIAC.md "wikilink")[Listen\!\!的純音樂
 
 ## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!2〜」
 
-於2010年9月15日由[波麗佳音發行的音樂專輯](../Page/波麗佳音.md "wikilink")，收錄了第二季的後期主題曲[Utauyo\!\!MIRACLE和](../Page/Utauyo!!MIRACLE.md "wikilink")[NO,Thank
+於2010年9月15日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，收錄了第二季的後期主題曲[Utauyo\!\!MIRACLE和](../Page/Utauyo!!MIRACLE.md "wikilink")[NO,Thank
 You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 
 ### 收錄内容
@@ -190,15 +191,17 @@ You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 
 ## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!3〜」
 
-於2010年12月22日由[波麗佳音發行的原聲音樂CD](../Page/波麗佳音.md "wikilink")。收錄了[放課後ティータイムII的純音樂版本](../Page/放課後TEA_TIME_II.md "wikilink")。
+於2010年12月22日由[波麗佳音發行的原聲音樂CD](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。收錄了[放課後ティータイムII的純音樂版本](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")。
 
   - 收錄内容
 
 :; Disc-1
 
-::\# [天使にふれたよ\!](../Page/放課後TEA_TIME_II.md "wikilink")（\#24『卒業式\!』Mix）
+::\#
+[天使にふれたよ\!](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")（\#24『卒業式\!』Mix）
 
-::\# [むすんでひらいて](../Page/むすんでひらいて.md "wikilink")（\#5『お留守番\!』Mix）
+::\#
+[むすんでひらいて](https://zh.wikipedia.org/wiki/むすんでひらいて "wikilink")（\#5『お留守番\!』Mix）
 
 ::\# ふわふわ時間\[梓・憂・純Ver.\]（番外編『訪問\!』Mix）
 
@@ -222,7 +225,7 @@ You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 ::\# ふわふわ時間\[ギター・梓の夢Ver.\]（\#13『残暑見舞い\!』）
 
 ::\#
-[ごはんはおかず](../Page/米飯是配菜/U&I.md "wikilink")\[ギター・梓の夢Ver.\]（\#22『受験\!』）
+[ごはんはおかず](https://zh.wikipedia.org/wiki/米飯是配菜/U&I "wikilink")\[ギター・梓の夢Ver.\]（\#22『受験\!』）
 
 ::\# 唯・澪・律セッション（\#22『受験\!』）
 
@@ -294,30 +297,37 @@ You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 
 :; Disc-2
 
-::\# [いちごパフェが止まらない](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\#
+[いちごパフェが止まらない](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
 ::\# [ぴゅあぴゅあはーと](../Page/純純的心.md "wikilink")『Studio Mix』（Instrumental）
 
-::\# [Honey sweet tea time](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\# [Honey sweet tea
+time](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
-::\# [五月雨20ラブ](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\#
+[五月雨20ラブ](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
 ::\# ごはんはおかず『Studio Mix』（Instrumental）
 
-::\# [ときめきシュガー](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\#
+[ときめきシュガー](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
-::\# [冬の日](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\#
+[冬の日](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
-::\# [U\&I](../Page/米飯是配菜/U&I.md "wikilink")『Studio Mix』（Instrumental）
+::\# [U\&I](https://zh.wikipedia.org/wiki/米飯是配菜/U&I "wikilink")『Studio
+Mix』（Instrumental）
 
 ::\# 天使にふれたよ\!『Studio Mix』（Instrumental）
 
-::\# [放課後ティータイム](../Page/放課後TEA_TIME_II.md "wikilink")『Studio
+::\#
+[放課後ティータイム](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
 ## 外部連結

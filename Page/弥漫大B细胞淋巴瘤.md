@@ -11,7 +11,7 @@ DLBCL）是一种常见的恶性[淋巴瘤](../Page/淋巴瘤.md "wikilink")。�
 
 ## 治疗
 
-标准[化疗方案为](../Page/化疗.md "wikilink")[CHOP方案](../Page/CHOP.md "wikilink")。改良的[CHOP-R方案可以改善生存率](../Page/CHOP-R.md "wikilink")\[4\]，尤其是对于老年人。\[5\]
+标准[化疗方案为](https://zh.wikipedia.org/wiki/化疗 "wikilink")[CHOP方案](../Page/CHOP.md "wikilink")。改良的[CHOP-R方案可以改善生存率](https://zh.wikipedia.org/wiki/CHOP-R "wikilink")\[4\]，尤其是对于老年人。\[5\]
 
 ## 预后
 

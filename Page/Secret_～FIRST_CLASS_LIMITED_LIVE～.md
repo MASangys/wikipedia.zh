@@ -1,11 +1,11 @@
 「**secret ～FIRST CLASS LIMITED LIVE～**」（倖感機密
-～第一次限定演唱會～）為[倖田來未於](../Page/倖田來未.md "wikilink")2005年9月21日發行之演唱會DVD。[DVD單片裝](../Page/DVD.md "wikilink")。
+～第一次限定演唱會～）為[倖田來未於](../Page/倖田來未.md "wikilink")2005年9月21日發行之演唱會DVD。[DVD單片裝](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 解說
 
   - 本作收錄[倖田來未首次個人演唱會實況](../Page/倖田來未.md "wikilink")。
   - 與首張精選輯「[BEST～first
-    things～](../Page/BEST～first_things～.md "wikilink")」同日推出，奪得[ORICON公信榜之DVD榜冠軍](../Page/ORICON.md "wikilink")。
+    things～](../Page/BEST～first_things～.md "wikilink")」同日推出，奪得[ORICON公信榜之DVD榜冠軍](https://zh.wikipedia.org/wiki/ORICON "wikilink")。
   - 收錄2005年6月11日於東京新木場STUDIO COAST舉辦的首次個人限定演唱會。同時收錄幕後花絮及藝人訪問等畫面。
 
 ## 曲目

@@ -1,8 +1,8 @@
-**西武T.O.前停留場**（）是位於[北海道](../Page/北海道.md "wikilink")[函館市梁川町的](../Page/函館市.md "wikilink")[函館市交通局](../Page/函館市交通局.md "wikilink")（函館市電車）線已被廢除的[鐵路車站](../Page/鐵路車站.md "wikilink")。
+**西武T.O.前停留場**（）是位於[北海道](../Page/北海道.md "wikilink")[函館市梁川町的](../Page/函館市.md "wikilink")[函館市交通局](https://zh.wikipedia.org/wiki/函館市交通局 "wikilink")（函館市電車）線已被廢除的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。
 
 ## 歷史
 
-  - 參考[函館市交通局的歷史](../Page/函館市交通局.md "wikilink")。
+  - 參考[函館市交通局的歷史](https://zh.wikipedia.org/wiki/函館市交通局 "wikilink")。
 
 ## 車站構造
 
@@ -11,7 +11,7 @@
 
 ## 車站周邊
 
-  - [北海道道517號五稜郭公園線](../Page/北海道道517號五稜郭公園線.md "wikilink")
+  - [北海道道517號五稜郭公園線](https://zh.wikipedia.org/wiki/北海道道517號五稜郭公園線 "wikilink")
   - T.O.小笠原
   - パボッツ函館（舊[西武百貨函館店](../Page/西武百貨.md "wikilink")）
   - [北海道放送函館放送局](../Page/北海道放送.md "wikilink")
@@ -29,7 +29,7 @@
 
 ## 參見
 
-  - [函館市交通局](../Page/函館市交通局.md "wikilink")
+  - [函館市交通局](https://zh.wikipedia.org/wiki/函館市交通局 "wikilink")
 
 [Category:日本鐵路車站_Se](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Se "wikilink")
 [Category:函館市廢站](https://zh.wikipedia.org/wiki/Category:函館市廢站 "wikilink")

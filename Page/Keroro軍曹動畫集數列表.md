@@ -1075,7 +1075,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Tamama 暗黑Tamama 是也</strong></p></td>
-<td><p>《<a href="../Page/機動戰士Z_鋼彈.md" title="wikilink">機動戰士Z 鋼彈</a>》<br />
+<td><p>《<a href="https://zh.wikipedia.org/wiki/機動戰士Z_鋼彈" title="wikilink">機動戰士Z 鋼彈</a>》<br />
 第1集《黑暗鋼彈》</p></td>
 <td><p>山口宏</p></td>
 <td><p>山本裕介</p></td>
@@ -1363,7 +1363,7 @@
 <tr class="odd">
 <td><p><strong>59</strong></p></td>
 <td><p><strong>Keroro 培育城堡 是也</strong></p></td>
-<td><p>動畫《<a href="../Page/地球保衛戰.md" title="wikilink">地球保衛戰</a>》<br />
+<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/地球保衛戰" title="wikilink">地球保衛戰</a>》<br />
 第6集《長大吧！烏龜》</p></td>
 <td><p>山口宏</p></td>
 <td><p>福本潔</p></td>
@@ -1385,7 +1385,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>Keroro的移動城堡 是也</strong></p></td>
-<td><p>電影《<a href="../Page/哈爾移動城堡.md" title="wikilink">哈爾移動城堡</a>》</p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/哈爾移動城堡" title="wikilink">哈爾移動城堡</a>》</p></td>
 <td><p>山口宏</p></td>
 <td><p>福本潔</p></td>
 <td><p>福本潔</p></td>
@@ -1408,7 +1408,7 @@
 <tr class="odd">
 <td><p><strong>60</strong></p></td>
 <td><p><strong>Keroro Kero Kero機械猛道 是也</strong></p></td>
-<td><p>動畫《》/《<a href="../Page/馬赫GoGoGo.md" title="wikilink">馬赫GoGoGo</a>》</p></td>
+<td><p>動畫《》/《<a href="https://zh.wikipedia.org/wiki/馬赫GoGoGo" title="wikilink">馬赫GoGoGo</a>》</p></td>
 <td><p>池田眞美子</p></td>
 <td><p>赤坂三十郎</p></td>
 <td><p>佐藤昌文</p></td>
@@ -1429,7 +1429,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>摩亞 睡美人 就是說 想睡覺？是也</strong></p></td>
-<td><p>童話《<a href="../Page/睡公主.md" title="wikilink">睡公主</a>》</p></td>
+<td><p>童話《<a href="https://zh.wikipedia.org/wiki/睡公主" title="wikilink">睡公主</a>》</p></td>
 <td><p>池田眞美子</p></td>
 <td><p>赤坂三十郎</p></td>
 <td><p>佐藤昌文</p></td>
@@ -4116,7 +4116,7 @@
 <tr class="odd">
 <td><p><strong>169</strong></p></td>
 <td><p><strong>Urere 電車之王 是也</strong></p></td>
-<td><p><a href="../Page/特攝.md" title="wikilink">特攝</a>《<a href="../Page/假面騎士電王.md" title="wikilink">假面騎士電王</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特攝" title="wikilink">特攝</a>《<a href="https://zh.wikipedia.org/wiki/假面騎士電王" title="wikilink">假面騎士電王</a>》</p></td>
 <td><p>北嶋博明</p></td>
 <td><p>誌村宏明</p></td>
 <td><p>福本潔</p></td>
@@ -4616,7 +4616,7 @@ STMATS</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Tamama 對 Tamama 是也</strong></p></td>
-<td><p>動畫《<a href="../Page/Code_Geass_反叛的魯路修.md" title="wikilink">Code Geass 反叛的魯路修</a>》第14話 Geass對Geass</p></td>
+<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修" title="wikilink">Code Geass 反叛的魯路修</a>》第14話 Geass對Geass</p></td>
 <td><p>竹内利光</p></td>
 <td><p>福本潔</p></td>
 <td><p>福本潔</p></td>
@@ -4684,7 +4684,7 @@ STMATS</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>夏美 羅密歐與茱麗葉？ 是也</strong></p></td>
-<td><p>莎士比亞作品《<a href="../Page/羅密歐與茱麗葉.md" title="wikilink">羅密歐與茱麗葉</a>》</p></td>
+<td><p>莎士比亞作品《<a href="https://zh.wikipedia.org/wiki/羅密歐與茱麗葉" title="wikilink">羅密歐與茱麗葉</a>》</p></td>
 <td><p>山口博</p></td>
 <td><p>誌村宏明</p></td>
 <td><p>阿宮正和</p></td>
@@ -4729,7 +4729,7 @@ STMATS</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Tamama 筆記的說 是也</strong></p></td>
-<td><p>動畫《<a href="../Page/死亡筆記.md" title="wikilink">死亡筆記</a>》</p></td>
+<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/死亡筆記" title="wikilink">死亡筆記</a>》</p></td>
 <td><p>北嶋博明</p></td>
 <td><p>米田和博</p></td>
 <td><p>米田和博</p></td>
@@ -5984,7 +5984,7 @@ STMATS</p></td>
 <tr class="odd">
 <td><p><strong>218</strong></p></td>
 <td><p><strong>小Kero 傾耳靜聽 是也</strong></p></td>
-<td><p><a href="../Page/宮崎峻.md" title="wikilink">宮崎峻動畫</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/宮崎峻" title="wikilink">宮崎峻動畫</a><br />
 《<a href="../Page/心之谷.md" title="wikilink">心之谷</a>》</p></td>
 <td><p>笠原邦暁</p></td>
 <td><p>鈴木健一<br />
@@ -6058,7 +6058,7 @@ STMATS</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>220</strong></p></td>
-<td><p>'''Keroro 什麼是<a href="../Page/全球暖化.md" title="wikilink">全球暖化</a> 是也</p></td>
+<td><p>'''Keroro 什麼是<a href="https://zh.wikipedia.org/wiki/全球暖化" title="wikilink">全球暖化</a> 是也</p></td>
 <td></td>
 <td><p>北嶋博明</p></td>
 <td><p>誌村宏明</p></td>
@@ -6118,7 +6118,7 @@ ST MATS</p></td>
 <tr class="even">
 <td><p><strong>221</strong></p></td>
 <td><p><strong>桃華 決戰的星期天 是也</strong></p></td>
-<td><p><a href="../Page/美夢成真_(樂團).md" title="wikilink">美夢成真樂曲</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/美夢成真_(樂團)" title="wikilink">美夢成真樂曲</a><br />
 《決戰的星期天》</p></td>
 <td><p>下山健人</p></td>
 <td><p>石平信司</p></td>
@@ -6140,7 +6140,7 @@ ST MATS</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Giroro 決戰的星期天 是也</strong></p></td>
-<td><p><a href="../Page/美夢成真_(樂團).md" title="wikilink">美夢成真樂曲</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/美夢成真_(樂團)" title="wikilink">美夢成真樂曲</a><br />
 《決戰的星期天》</p></td>
 <td><p>下山健人</p></td>
 <td><p>石平信司</p></td>
@@ -6550,7 +6550,7 @@ ST MATS</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Keroro HEROES 是也</strong></p></td>
-<td><p>美國劇集《<a href="../Page/Heroes.md" title="wikilink">Heroes</a>》</p></td>
+<td><p>美國劇集《<a href="https://zh.wikipedia.org/wiki/Heroes" title="wikilink">Heroes</a>》</p></td>
 <td><p>北嶋博明</p></td>
 <td><p>誌村宏明</p></td>
 <td><p>吉村章</p></td>
@@ -6640,7 +6640,7 @@ ST MATS</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>235</strong></p></td>
-<td><p><strong>冬樹 與<a href="../Page/蛇頸龍.md" title="wikilink">蛇頸龍</a></strong> 是也</p></td>
+<td><p><strong>冬樹 與<a href="https://zh.wikipedia.org/wiki/蛇頸龍" title="wikilink">蛇頸龍</a></strong> 是也</p></td>
 <td></td>
 <td><p>竹內利光</p></td>
 <td><p>徳本善信</p></td>
@@ -6794,7 +6794,7 @@ ST MATS</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Pururu <a href="../Page/相親.md" title="wikilink">相親大作戰</a> 是也</strong></p></td>
+<td><p><strong>Pururu <a href="https://zh.wikipedia.org/wiki/相親" title="wikilink">相親大作戰</a> 是也</strong></p></td>
 <td></td>
 <td><p>下山健人</p></td>
 <td><p>石平信司</p></td>

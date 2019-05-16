@@ -1,16 +1,17 @@
 **Perfect
-Crime**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣第二張](../Page/倉木麻衣.md "wikilink")[專輯](../Page/專輯.md "wikilink")，於2001年7月4日發行。
+Crime**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣第二張](../Page/倉木麻衣.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2001年7月4日發行。
 
 ## 簡介
 
-  - 與前作「[delicious way](../Page/delicious_way.md "wikilink")」相隔約一年的新專輯。
+  - 與前作「[delicious
+    way](https://zh.wikipedia.org/wiki/delicious_way "wikilink")」相隔約一年的新專輯。
   - 收錄單曲「[Simply
     Wonderful](../Page/Simply_Wonderful.md "wikilink")」、「[Reach
     for the sky](../Page/Reach_for_the_sky.md "wikilink")」、「[冰冷的海／Start
     in my life](../Page/冰冷的海／Start_in_my_life.md "wikilink")」、「[Stand
     Up](../Page/Stand_Up.md "wikilink")」與「[always](../Page/Always_\(倉木麻衣單曲\).md "wikilink")」。
   - 倉木本人表示，「比較前作[delicious
-    way的拼命製造](../Page/delicious_way.md "wikilink")，這張專輯是一張反覆切磋琢磨的專輯，就像觀賞一套電影一樣」。
+    way的拼命製造](https://zh.wikipedia.org/wiki/delicious_way "wikilink")，這張專輯是一張反覆切磋琢磨的專輯，就像觀賞一套電影一樣」。
   - 並沒有收錄5th單曲「[Simply
     Wonderful](../Page/Simply_Wonderful.md "wikilink")」的標題曲，但收錄了當中的B面歌「[think
     about](../Page/Simply_Wonderful.md "wikilink")」。
@@ -20,12 +21,12 @@ Crime**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wiki
 
 1.  **[PERFECT
     CRIME](../Page/Can't_forget_your_love／PERFECT_CRIME_-Single_Edit-.md "wikilink")**
-      - 作詞：倉木麻衣　作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")　編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")・[池田大介](../Page/池田大介.md "wikilink")
+      - 作詞：倉木麻衣　作曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")　編曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")・[池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")
     <!-- end list -->
       -
         [朝日電視台劇集](../Page/朝日電視台.md "wikilink")『狂野女人心』主題曲。
 2.  **[Start in my life](../Page/冰冷的海／Start_in_my_life.md "wikilink")**
-      - 作詞：倉木麻衣　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[Cybersound](../Page/Cybersound.md "wikilink")
+      - 作詞：倉木麻衣　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[Cybersound](https://zh.wikipedia.org/wiki/Cybersound "wikilink")
     <!-- end list -->
       -
         第七張單曲「冰冷的海／Start in my life」的B面單曲。名偵探柯南片尾曲。
@@ -33,7 +34,7 @@ Crime**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wiki
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
-        第六張單曲。[NHK](../Page/NHK.md "wikilink")[晨間小說連續劇](../Page/晨間小說連續劇.md "wikilink")『奧黛麗』主題曲。
+        第六張單曲。[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間小說連續劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")『奧黛麗』主題曲。
 4.  **Brand New Day**
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：徳永暁人
 5.  **[Stand Up](../Page/Stand_Up.md "wikilink")**
@@ -43,23 +44,25 @@ Crime**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wiki
         第八張單曲。爽健美茶廣告曲。
 6.  **Come on\! Come on\!**
       - 作詞：倉木麻衣・[Michael
-        Africk](../Page/Michael_Africk.md "wikilink")　作曲：[Perry
-        Geyer](../Page/Perry_Geyer.md "wikilink")・[Miguel Sa
-        Pessoa](../Page/Miguel_Sa_Pessoa.md "wikilink")・Michael
+        Africk](https://zh.wikipedia.org/wiki/Michael_Africk "wikilink")　作曲：[Perry
+        Geyer](https://zh.wikipedia.org/wiki/Perry_Geyer "wikilink")・[Miguel
+        Sa
+        Pessoa](https://zh.wikipedia.org/wiki/Miguel_Sa_Pessoa "wikilink")・Michael
         Africk　編曲：Cybersound
     <!-- end list -->
       -
         活力门播客『BEING GIZA STUDIO PODCASTING』主題曲／東京NEWS通信社「TOKYO
         BROS.」CM主題曲　
-7.  **[always](../Page/always_\(倉木麻衣單曲\).md "wikilink")**
+7.  **[always](https://zh.wikipedia.org/wiki/always_\(倉木麻衣單曲\) "wikilink")**
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
         第九張單曲。名偵探柯南片尾曲。
 8.  **What are you waiting for**
       - 作詞：倉木麻衣・[Keith
-        Bazzle](../Page/Keith_Bazzle.md "wikilink")　作曲：[笠原智緒](../Page/笠原智緒.md "wikilink")・[YOKO
-        Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")　編曲：YOKO
+        Bazzle](https://zh.wikipedia.org/wiki/Keith_Bazzle "wikilink")　作曲：[笠原智緒](https://zh.wikipedia.org/wiki/笠原智緒 "wikilink")・[YOKO
+        Black.
+        Stone](https://zh.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")　編曲：YOKO
         Black. Stone
 9.  **[think about](../Page/Simply_Wonderful.md "wikilink")**
       - 作詞：倉木麻衣・YOKO Black. Stone　作曲・編曲：YOKO Black. Stone

@@ -8,17 +8,17 @@
 
 ### 單曲
 
-  - [音のない夜空に/木の芽風](../Page/音のない夜空に/木の芽風.md "wikilink")（2008年3月19日）
-  - [Rimless〜フチナシノセカイ〜](../Page/Rimless〜フチナシノセカイ〜.md "wikilink")（2008年11月26日）
-  - [誓い言〜スコシだけもう一度〜](../Page/誓い言_〜スコシだけもう一度〜.md "wikilink")（2009年2月25日）
+  - [音のない夜空に/木の芽風](https://zh.wikipedia.org/wiki/音のない夜空に/木の芽風 "wikilink")（2008年3月19日）
+  - [Rimless〜フチナシノセカイ〜](https://zh.wikipedia.org/wiki/Rimless〜フチナシノセカイ〜 "wikilink")（2008年11月26日）
+  - [誓い言〜スコシだけもう一度〜](https://zh.wikipedia.org/wiki/誓い言_〜スコシだけもう一度〜 "wikilink")（2009年2月25日）
 
 ### 專輯
 
-  - [ユアウエア](../Page/ユアウエア.md "wikilink")（2009年3月25日）
+  - [ユアウエア](https://zh.wikipedia.org/wiki/ユアウエア "wikilink")（2009年3月25日）
 
 ### 迷你專輯
 
-  - [ROBE](../Page/ROBE.md "wikilink")（2011年5月25日）
+  - [ROBE](https://zh.wikipedia.org/wiki/ROBE "wikilink")（2011年5月25日）
 
 ## 外部連結
 

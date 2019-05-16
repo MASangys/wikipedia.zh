@@ -1,13 +1,13 @@
-**BitKeeper**是一套BitMover公司開發的[分佈式版本控制软件](../Page/分佈式版本控制.md "wikilink")，它曾是一款[专有软件](../Page/专有软件.md "wikilink")，其主要競爭对手是[Git和](../Page/Git.md "wikilink")[Mercurial](../Page/Mercurial.md "wikilink")。BitMover公司總部位於美國加州[坎貝爾](../Page/坎貝爾.md "wikilink")\[1\]，總裁[拉里·麥沃伊](../Page/拉里·麥沃伊.md "wikilink")，曾設計[TeamWare](../Page/TeamWare.md "wikilink")。
+**BitKeeper**是一套BitMover公司開發的[分佈式版本控制软件](https://zh.wikipedia.org/wiki/分佈式版本控制 "wikilink")，它曾是一款[专有软件](../Page/专有软件.md "wikilink")，其主要競爭对手是[Git和](../Page/Git.md "wikilink")[Mercurial](../Page/Mercurial.md "wikilink")。BitMover公司總部位於美國加州[坎貝爾](https://zh.wikipedia.org/wiki/坎貝爾 "wikilink")\[1\]，總裁[拉里·麥沃伊](https://zh.wikipedia.org/wiki/拉里·麥沃伊 "wikilink")，曾設計[TeamWare](https://zh.wikipedia.org/wiki/TeamWare "wikilink")。
 
 BitKeeper的許多概念取自TeamWare。它的主要賣點是“分佈式”版本控制工具，不同于中心式的[CVS或](../Page/協作版本系統.md "wikilink")[SVN](../Page/Subversion.md "wikilink")。
 
 ## 歷史
 
-2002年至2005年間，[Linux內核開發團隊以BitKeeper來管理Linux內核程式碼](../Page/Linux內核.md "wikilink")。
+2002年至2005年間，[Linux內核開發團隊以BitKeeper來管理Linux內核程式碼](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。
 
 2016年5月11日，BitKeeper宣布以[Apache
-2.0许可证](../Page/Apache_2.0.md "wikilink")[开源](../Page/开源.md "wikilink")。\[2\]
+2.0许可证](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")。\[2\]
 
 ## 注釋
 
@@ -27,10 +27,12 @@ BitKeeper的許多概念取自TeamWare。它的主要賣點是“分佈式”版
   - ["BitKeeper and Linux: The end of the
     road?"](http://www.linux.com/articles/44147) discusses the BitKeeper
     fiasco from three viewpoints: [Linus
-    Torvalds](../Page/Linus_Torvalds.md "wikilink"), [Larry
-    McVoy](../Page/Larry_McVoy.md "wikilink"), [Andrew "Tridge"
-    Tridgell](../Page/Andrew_Tridgell.md "wikilink") (the alleged
-    reverse-engineer who offers a short explanation of the situation)
+    Torvalds](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink"),
+    [Larry McVoy](https://zh.wikipedia.org/wiki/Larry_McVoy "wikilink"),
+    [Andrew "Tridge"
+    Tridgell](https://zh.wikipedia.org/wiki/Andrew_Tridgell "wikilink")
+    (the alleged reverse-engineer who offers a short explanation of the
+    situation)
   - [How Tridge reverse-engineered
     Bitkeeper](http://lwn.net/Articles/132938/) and [Torvalds knifes
     Tridgell](http://www.theregister.co.uk/2005/04/14/torvalds_attacks_tridgell/),
@@ -40,8 +42,8 @@ BitKeeper的許多概念取自TeamWare。它的主要賣點是“分佈式”版
     result of Tridgell's efforts
   - [RMS: BitKeeper bon-voyage is a happy
     ending](http://www.linux.com/articles/44465) [Richard
-    Stallman](../Page/Richard_Stallman.md "wikilink") on the
-    Linux/BitKeeper fallout (formerly on NewsForge, currently on
+    Stallman](https://zh.wikipedia.org/wiki/Richard_Stallman "wikilink")
+    on the Linux/BitKeeper fallout (formerly on NewsForge, currently on
     Linux.com)
   - [The
     Age](http://www.theage.com.au/news/Soapbox/Crunch-time-for-Linus/2005/04/14/1113251731624.html)

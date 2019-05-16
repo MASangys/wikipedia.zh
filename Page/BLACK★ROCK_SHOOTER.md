@@ -1,27 +1,27 @@
 **BLACK★ROCK
-SHOOTER**（，簡稱：**BRS**），又称**黑岩射手；**是[日本](../Page/日本.md "wikilink")[插畫家](../Page/插畫家.md "wikilink")[huke於自己的](../Page/huke.md "wikilink")[部落格發表的一位原創角色](../Page/部落格.md "wikilink")，另有同名原創歌曲。於2010年7月24日由[Ordet推出其同名](../Page/Ordet.md "wikilink")[OVA作品](../Page/OVA.md "wikilink")。[電視動畫由Ultra](../Page/電視動畫.md "wikilink")
+SHOOTER**（，簡稱：**BRS**），又称**黑岩射手；**是[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[huke於自己的](https://zh.wikipedia.org/wiki/huke "wikilink")[部落格發表的一位原創角色](https://zh.wikipedia.org/wiki/部落格 "wikilink")，另有同名原創歌曲。於2010年7月24日由[Ordet推出其同名](../Page/Ordet.md "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。[電視動畫由Ultra](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")
 Super Pictures公司製作，2012年2月2日開始播出，全8話。
 
 ## 概要
 
 「BLACK ROCK
-SHOOTER」原本是huke於[pixiv和自己](../Page/pixiv.md "wikilink")[部落格發表的原創插畫角色](../Page/部落格.md "wikilink")\[1\]，該人物設定為一位手上裝備每秒發射20枚岩石的大砲的15歲黑髮少女，並有著左右長度不同的[雙馬尾](../Page/雙馬尾.md "wikilink")，在其衍生的視訊畫面中也有持著[劍或](../Page/劍.md "wikilink")[刀](../Page/刀.md "wikilink")。據說原本設定該角色並未將它加上刀劍等武器，直到後來繪出後才有\[2\]</ref>。
+SHOOTER」原本是huke於[pixiv和自己](https://zh.wikipedia.org/wiki/pixiv "wikilink")[部落格發表的原創插畫角色](https://zh.wikipedia.org/wiki/部落格 "wikilink")\[1\]，該人物設定為一位手上裝備每秒發射20枚岩石的大砲的15歲黑髮少女，並有著左右長度不同的[雙馬尾](../Page/雙馬尾.md "wikilink")，在其衍生的視訊畫面中也有持著[劍或](../Page/劍.md "wikilink")[刀](https://zh.wikipedia.org/wiki/刀 "wikilink")。據說原本設定該角色並未將它加上刀劍等武器，直到後來繪出後才有\[2\]</ref>。
 
-該作品成為引人注目的契機是在[supercell的](../Page/supercell.md "wikilink")[ryo以該角色的造型寫了一首歌](../Page/ryo.md "wikilink")，並以[語音合成軟體](../Page/語音合成.md "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」作曲、由huke加上圖像後，以「由初音未來所唱的原創歌『BLACK★ROCK
-SHOOTER』」\[3\]」的標題於2008年6月13日在[影片分享網站](../Page/影片分享網站.md "wikilink")[NICONICO動畫發表其動畫作品](../Page/NICONICO動畫.md "wikilink")\[4\]。至2008年末，BRS已於NICONICO動畫累積播放數達100萬次以上，在該歌受到迴響的同時、影片中的角色也逐漸受人注目。樂曲與動畫一起收錄於[supercell發行的第一張專輯](../Page/supercell.md "wikilink")—『[supercell](../Page/Supercell_\(專輯\).md "wikilink")』中，還有將huke的插畫場景立體化後，作成以[聚氯乙烯為材質](../Page/聚氯乙烯.md "wikilink")，上色後的[手办完成品](../Page/手办.md "wikilink")「1/8比例模型—BLACK★ROCK
+該作品成為引人注目的契機是在[supercell的](https://zh.wikipedia.org/wiki/supercell "wikilink")[ryo以該角色的造型寫了一首歌](https://zh.wikipedia.org/wiki/ryo "wikilink")，並以[語音合成軟體](https://zh.wikipedia.org/wiki/語音合成 "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」作曲、由huke加上圖像後，以「由初音未來所唱的原創歌『BLACK★ROCK
+SHOOTER』」\[3\]」的標題於2008年6月13日在[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")[NICONICO動畫發表其動畫作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")\[4\]。至2008年末，BRS已於NICONICO動畫累積播放數達100萬次以上，在該歌受到迴響的同時、影片中的角色也逐漸受人注目。樂曲與動畫一起收錄於[supercell發行的第一張專輯](https://zh.wikipedia.org/wiki/supercell "wikilink")—『[supercell](../Page/Supercell_\(專輯\).md "wikilink")』中，還有將huke的插畫場景立體化後，作成以[聚氯乙烯為材質](../Page/聚氯乙烯.md "wikilink")，上色後的[手办完成品](../Page/手办.md "wikilink")「1/8比例模型—BLACK★ROCK
 SHOOTER」，而[GoodSmile公司將其商品化出售](../Page/Good_Smile_Company.md "wikilink")\[5\]。另外還有由[Ordet製作的商業動畫](../Page/Ordet.md "wikilink")，已於2010年春公開。
 
 ## 樂曲
 
 「BLACK★ROCK
-SHOOTER」這首歌是源於[supercell的ryo](../Page/supercell.md "wikilink")，對huke所繪的角色十分中意，就以「[初音未來](../Page/初音未來.md "wikilink")」編寫曲與歌詞，作為此角色的樂曲\[6\]。「BLACK★ROCK
+SHOOTER」這首歌是源於[supercell的ryo](https://zh.wikipedia.org/wiki/supercell "wikilink")，對huke所繪的角色十分中意，就以「[初音未來](../Page/初音未來.md "wikilink")」編寫曲與歌詞，作為此角色的樂曲\[6\]。「BLACK★ROCK
 SHOOTER」的插圖成為了當時心情低迷的Huke轉變的契機，不過當時Ryo僅看過Huke的「BLACK★ROCK
 SHOOTER」相關插畫，其角色所擁有的感情與身世背景卻都被歌詞所反應了出來，連Huke也十分吃驚\[7\]\[8\]。
 
 2008年6月13日，huke製作影像的畫面，與初音VOCALOID軟體合成樂曲，成為「由初音未來所唱的原創歌『BLACK★ROCK
 SHOOTER』」的動畫，投稿於NICONICO發表。同年6月15日，該影片在「每日綜合—我的名單排列次序」中排名了第一名\[9\]
 在同年年末前累積了100萬次的播放次數\[10\]</ref>。
-該曲於2009年3月4日由[日本索尼音樂娛樂發售supercell的第一張專輯](../Page/日本索尼音樂娛樂.md "wikilink")『[supercell](../Page/supercell_\(專輯\).md "wikilink")』，收錄BRS重錄的影片與歌曲。
+該曲於2009年3月4日由[日本索尼音樂娛樂發售supercell的第一張專輯](../Page/日本索尼音樂娛樂.md "wikilink")『[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")』，收錄BRS重錄的影片與歌曲。
 
 ## 遊戲
 
@@ -72,14 +72,14 @@ Ok Rock的No Scared。
 
 ## OVA版
 
-[OVA於](../Page/OVA.md "wikilink")2010年3月24日在東京秋葉原舉行「秋葉原UDX劇場發佈會」內公開發表。「BLACK★ROCK
+[OVA於](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年3月24日在東京秋葉原舉行「秋葉原UDX劇場發佈會」內公開發表。「BLACK★ROCK
 SHOOTER」動畫為50分鐘本篇影像，可以通過《月刊Hobby
 Japan》的免費附錄、動畫DVD的免費發放、網絡上的動畫發放等各種途徑免費欣賞到OVA動畫內容。除此之外，附帶手辦的特別版也將會在日後發售。
 
 「BLACK★ROCK
-SHOOTER」其中的預覽影片已在2009年9月30日收錄於[DVD](../Page/DVD.md "wikilink")・[Blu-ray
-Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★ROCK SHOOTER
--PILOT Edition-**」的名字發售。
+SHOOTER」其中的預覽影片已在2009年9月30日收錄於[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")・[Blu-ray
+Disc與新錄音的CD中](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")，以「**BLACK★ROCK
+SHOOTER -PILOT Edition-**」的名字發售。
 
 ### 故事概要
 
@@ -91,15 +91,15 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
 
   - 原作：huke
   - 原創音樂：ryo
-  - 導演：[吉岡忍](../Page/吉岡忍_\(動畫師\).md "wikilink")
-  - 監修：[山本寛](../Page/山本寛.md "wikilink")
-  - 編劇：[谷川流](../Page/谷川流.md "wikilink")、[吉岡忍](../Page/吉岡忍.md "wikilink")
-  - 人物設計：[松尾祐輔](../Page/松尾祐輔.md "wikilink")
+  - 導演：[吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍_\(動畫師\) "wikilink")
+  - 監修：[山本寛](https://zh.wikipedia.org/wiki/山本寛 "wikilink")
+  - 編劇：[谷川流](../Page/谷川流.md "wikilink")、[吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍 "wikilink")
+  - 人物設計：[松尾祐輔](https://zh.wikipedia.org/wiki/松尾祐輔 "wikilink")
   - 背景：袈裟丸繪美
   - 動畫檢査：高田謠子
   - 色彩設定：中島和子（[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")）
   - 攝影指導：廣岡岳
-  - 音響制作：[樂音舍](../Page/樂音舍.md "wikilink")
+  - 音響制作：[樂音舍](https://zh.wikipedia.org/wiki/樂音舍 "wikilink")
   - 剪接：坪根健太郎（REAL-T）
   - 視訊編集：Q-Tec
   - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")
@@ -128,11 +128,11 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
 ### 製作人員
 
   - 原作：B★RS Project
-  - 監督：[吉岡忍](../Page/吉岡忍_\(動畫師\).md "wikilink")
+  - 監督：[吉岡忍](https://zh.wikipedia.org/wiki/吉岡忍_\(動畫師\) "wikilink")
   - CG特技監督：[今石洋之](../Page/今石洋之.md "wikilink")
   - 系列構成、劇本：[岡田麿里](../Page/岡田麿里.md "wikilink")
-  - 角色設計原案：[huke](../Page/huke.md "wikilink")
-  - 角色設計、小物品設計、總作畫監督：[芳垣祐介](../Page/芳垣祐介.md "wikilink")
+  - 角色設計原案：[huke](https://zh.wikipedia.org/wiki/huke "wikilink")
+  - 角色設計、小物品設計、總作畫監督：[芳垣祐介](https://zh.wikipedia.org/wiki/芳垣祐介 "wikilink")
   - 製作設計：
   - 武器設計：
   - 骸骨設計：岸類
@@ -147,19 +147,20 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
   - 音樂：森英治
   - 音樂製作人：佐野弘明
   - 音樂製作：[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[Aniplex](../Page/Aniplex.md "wikilink")、富士太平洋音樂
-  - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
+  - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")、[三次元](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")
   - 製作人：中村浩士、松浦裕曉
-  - 總製作人：[山本幸治](../Page/山本幸治.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）
+  - 總製作人：[山本幸治](https://zh.wikipedia.org/wiki/山本幸治 "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 製作代表：富川八峰（富士電視台）、安藤貴範、新坂純一、中西孝、勝股英夫、寺田篤、松浦裕曉
   - 製作：BRS on TV（富士電視台、[Good Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")、[東寶株式會社](../Page/東寶株式會社.md "wikilink")、MAGES.、Aniplex、[電通](../Page/電通.md "wikilink")、Ultra
+    Company](../Page/Good_Smile_Company.md "wikilink")、[東寶株式會社](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")、MAGES.、Aniplex、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、Ultra
     Super Pictures）
 
 ### 主題曲
 
   - 片頭曲「」
-    主唱：[supercell](../Page/supercell.md "wikilink") feat.
-    [初音未來](../Page/初音未來.md "wikilink")，作詞、作曲、編曲：[ryo](../Page/ryo.md "wikilink")
+    主唱：[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")
+    feat.
+    [初音未來](../Page/初音未來.md "wikilink")，作詞、作曲、編曲：[ryo](https://zh.wikipedia.org/wiki/ryo "wikilink")
   - 片尾曲「」
     主唱：supercell，作詞、作曲、編曲：ryo
   - 插曲「」
@@ -187,7 +188,7 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
 <td></td>
 <td><p>還要再呼喊多少次呢</p></td>
 <td><p><a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
-<td><p><a href="../Page/吉岡忍.md" title="wikilink">吉岡忍</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/吉岡忍" title="wikilink">吉岡忍</a><br />
 <a href="../Page/今石洋之.md" title="wikilink">今石洋之</a></p></td>
 <td><p>芳垣祐介</p></td>
 <td></td>
@@ -227,7 +228,7 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
 <td><p>第五話</p></td>
 <td></td>
 <td><p>BLACK★ROCK SHOOTER</p></td>
-<td><p><a href="../Page/鎌倉由實.md" title="wikilink">鎌倉由實</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鎌倉由實" title="wikilink">鎌倉由實</a><br />
 雨宮哲</p></td>
 <td><p>藤井辰己<br />
 雨宮哲</p></td>
@@ -271,25 +272,25 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
 
 ### 播放電視台
 
-| 播放地區                                 | 播放電視台                                          | 播放期間                | 播放時間                | 備註                |
-| ------------------------------------ | ---------------------------------------------- | ------------------- | ------------------- | ----------------- |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink") | [富士電視台](../Page/富士電視台.md "wikilink")           | 2012年2月2日 - 3月22日   | 星期四 24時45分 - 25時15分 | **制作局**           |
-| 日本全國                                 | [NICONICO頻道](../Page/NICONICO動畫.md "wikilink") | 2012年2月3日 - 3月23日   | 星期五 23時30分 更新       | 最新話1週間限定配信、不用付款配信 |
-| [關西廣域圈](../Page/近畿地方.md "wikilink")  | [關西電視台](../Page/關西電視台.md "wikilink")           | 2012年2月7日 - 3月27日   | 星期二 25時58分 - 26時28分 |                   |
-| [愛媛縣](../Page/愛媛縣.md "wikilink")     | [愛媛電視台](../Page/愛媛電視台.md "wikilink")           | 2012年2月8日 - 3月28日   | 星期三 24時35分 - 25時05分 |                   |
-| [福島縣](../Page/福島縣.md "wikilink")     | [福島電視台](../Page/福島電視台.md "wikilink")           | 星期三 25時05分 - 25時35分 |                     |                   |
-| [新潟縣](../Page/新潟縣.md "wikilink")     | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")       | 星期三 25時30分 - 26時00分 |                     |                   |
-| [東海廣域圈](../Page/中部地方.md "wikilink")  | [東海電視台](../Page/東海電視台.md "wikilink")           | 2012年2月9日 - 3月29日   | 星期四 26時05分 - 26時35分 |                   |
-| [佐賀縣](../Page/佐賀縣.md "wikilink")     | [佐賀電視台](../Page/佐賀電視台.md "wikilink")           | 2012年2月10日 -        | 星期五 25時05分 - 25時35分 |                   |
-| [山形縣](../Page/山形縣.md "wikilink")     | [櫻桃電視台](../Page/櫻桃電視台.md "wikilink")           | 2012年2月11日 -        | 星期六 25時05分 - 25時35分 |                   |
-| [秋田縣](../Page/秋田縣.md "wikilink")     | [秋田電視台](../Page/秋田電視台.md "wikilink")           | 星期六 25時35分 - 26時05分 |                     |                   |
-| [鹿兒島縣](../Page/鹿兒島縣.md "wikilink")   | [鹿兒島電視台](../Page/鹿兒島電視台.md "wikilink")         | 星期六 25時35分 - 26時05分 |                     |                   |
-| [熊本縣](../Page/熊本縣.md "wikilink")     | [熊本電視台](../Page/熊本電視台.md "wikilink")           | 星期六 26時05分 - 26時35分 |                     |                   |
-| [廣島縣](../Page/廣島縣.md "wikilink")     | [新廣島電視台](../Page/新廣島電視台.md "wikilink")         | 2012年2月13日 -        | 星期一 25時50分 - 26時20分 |                   |
-| [宮城縣](../Page/宮城縣.md "wikilink")     | [仙台放送](../Page/仙台放送.md "wikilink")             | 2012年2月14日 -        | 星期二 25時45分 - 26時15分 |                   |
-| [岩手縣](../Page/岩手縣.md "wikilink")     | [岩手可愛電視台](../Page/岩手可愛電視台.md "wikilink")       | 2012年2月15日 -        | 星期三 25時50分 - 26時20分 |                   |
-| [静岡縣](../Page/静岡縣.md "wikilink")     | [静岡電視台](../Page/静岡電視台.md "wikilink")           | 2012年2月16日 -        | 星期四 25時10分 - 25時40分 |                   |
-| 日本全域                                 | [BS富士](../Page/BS富士.md "wikilink")             | 2012年2月18日 -        | 星期六 25時30分 - 26時00分 |                   |
+| 播放地區                                                    | 播放電視台                                                             | 播放期間                | 播放時間                | 備註                |
+| ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------- | ------------------- | ----------------- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | [富士電視台](../Page/富士電視台.md "wikilink")                              | 2012年2月2日 - 3月22日   | 星期四 24時45分 - 25時15分 | **制作局**           |
+| 日本全國                                                    | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年2月3日 - 3月23日   | 星期五 23時30分 更新       | 最新話1週間限定配信、不用付款配信 |
+| [關西廣域圈](../Page/近畿地方.md "wikilink")                     | [關西電視台](../Page/關西電視台.md "wikilink")                              | 2012年2月7日 - 3月27日   | 星期二 25時58分 - 26時28分 |                   |
+| [愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")     | [愛媛電視台](../Page/愛媛電視台.md "wikilink")                              | 2012年2月8日 - 3月28日   | 星期三 24時35分 - 25時05分 |                   |
+| [福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")     | [福島電視台](https://zh.wikipedia.org/wiki/福島電視台 "wikilink")           | 星期三 25時05分 - 25時35分 |                     |                   |
+| [新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")     | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")                          | 星期三 25時30分 - 26時00分 |                     |                   |
+| [東海廣域圈](../Page/中部地方.md "wikilink")                     | [東海電視台](../Page/東海電視台.md "wikilink")                              | 2012年2月9日 - 3月29日   | 星期四 26時05分 - 26時35分 |                   |
+| [佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")     | [佐賀電視台](https://zh.wikipedia.org/wiki/佐賀電視台 "wikilink")           | 2012年2月10日 -        | 星期五 25時05分 - 25時35分 |                   |
+| [山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")     | [櫻桃電視台](https://zh.wikipedia.org/wiki/櫻桃電視台 "wikilink")           | 2012年2月11日 -        | 星期六 25時05分 - 25時35分 |                   |
+| [秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")     | [秋田電視台](https://zh.wikipedia.org/wiki/秋田電視台 "wikilink")           | 星期六 25時35分 - 26時05分 |                     |                   |
+| [鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")   | [鹿兒島電視台](https://zh.wikipedia.org/wiki/鹿兒島電視台 "wikilink")         | 星期六 25時35分 - 26時05分 |                     |                   |
+| [熊本縣](../Page/熊本縣.md "wikilink")                        | [熊本電視台](https://zh.wikipedia.org/wiki/熊本電視台 "wikilink")           | 星期六 26時05分 - 26時35分 |                     |                   |
+| [廣島縣](../Page/廣島縣.md "wikilink")                        | [新廣島電視台](https://zh.wikipedia.org/wiki/新廣島電視台 "wikilink")         | 2012年2月13日 -        | 星期一 25時50分 - 26時20分 |                   |
+| [宮城縣](../Page/宮城縣.md "wikilink")                        | [仙台放送](https://zh.wikipedia.org/wiki/仙台放送 "wikilink")             | 2012年2月14日 -        | 星期二 25時45分 - 26時15分 |                   |
+| [岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")     | [岩手可愛電視台](https://zh.wikipedia.org/wiki/岩手可愛電視台 "wikilink")       | 2012年2月15日 -        | 星期三 25時50分 - 26時20分 |                   |
+| [静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")     | [静岡電視台](https://zh.wikipedia.org/wiki/静岡電視台 "wikilink")           | 2012年2月16日 -        | 星期四 25時10分 - 25時40分 |                   |
+| 日本全域                                                    | [BS富士](../Page/BS富士.md "wikilink")                                | 2012年2月18日 -        | 星期六 25時30分 - 26時00分 |                   |
 
 '''''
 
@@ -310,7 +311,7 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
           - Dead Master（2010年12月發售，Good Smile公司）
           - Black Gold Saw（2011年4月發售，Good Smile公司）
           - Strength（2011年7月發售，Good Smile公司）
-      - [figma](../Page/figma.md "wikilink")
+      - [figma](https://zh.wikipedia.org/wiki/figma "wikilink")
           - BLACK★ROCK SHOOTER（2010年8月發售，MaxFactory／Good Smile公司）
           - Dead Master（2010年10月發售，MaxFactory／Good Smile公司）
           - Black Gold Saw（2010年2月發售，MaxFactory／Good Smile公司）
@@ -321,13 +322,13 @@ Disc與新錄音的CD中](../Page/Blu-ray_Disc.md "wikilink")，以「**BLACK★
           - BRS2035（BLACK★ROCK SHOOTER THE
             GAME）（2011年12月發售，MaxFactory／Good Smile公司）
           - Chariot 動畫版（2014年11月發售，MaxFactory／Good Smile公司）
-      - [絨毛布偶](../Page/毛絨玩具.md "wikilink")
+      - [絨毛布偶](https://zh.wikipedia.org/wiki/毛絨玩具 "wikilink")
           - BLACK★ROCK SHOOTER（2010年10月發售，Gift／Good Smile公司）
           - Dead Master（2011年5月發售，Gift／Good Smile公司）
   - 食物
       - BLACK★ROCK SHOOTER咖哩包（2011年8月14日發售，B★RS ver.／DM ver.，B★RS
         Project公司）
-  - [PSP](../Page/PSP.md "wikilink")
+  - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
       - BLACK★ROCK SHOOTER THE
         GAME（2011年8月25日發售，普通版／限定版初回限定特典：WRS吊飾／figma「WRS」，JPRG公司）
   - 音樂

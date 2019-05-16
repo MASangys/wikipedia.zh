@@ -1,5 +1,5 @@
 「**The Secret
-Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilink")[日本](../Page/日本.md "wikilink")2009年3月25日發行之4th[錄音室專輯](../Page/錄音室專輯.md "wikilink")。
+Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilink")[日本](../Page/日本.md "wikilink")2009年3月25日發行之4th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 解說
 
@@ -78,7 +78,7 @@ Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilin
         作詞：藤林聖子 / 作曲：田中公平 / \[編曲：AKIRA
     <!-- end list -->
       - 27th 單曲A面
-      - [富士電視台動畫](../Page/富士電視台.md "wikilink")「[海賊王](../Page/海賊王.md "wikilink")」片頭曲
+      - [富士電視台動畫](../Page/富士電視台.md "wikilink")「[海賊王](https://zh.wikipedia.org/wiki/海賊王 "wikilink")」片頭曲
 2.  Take Your Hands -i.am. electro REMIX-
       -
         作詞：Ryoji Sonoda / 作曲：Steve Smith, Anthonv Anderson, Jenson David
@@ -95,16 +95,19 @@ Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilin
       - 23rd 單曲B面
 4.  千年戀歌
       -
-        作詞：H.U.B. / 作曲：[久石讓](../Page/久石讓.md "wikilink") / 編曲：Maestro-T
+        作詞：H.U.B. /
+        作曲：[久石讓](https://zh.wikipedia.org/wiki/久石讓 "wikilink")
+        / 編曲：Maestro-T
     <!-- end list -->
       - 22nd 單曲A面
-      - [NHK連續劇](../Page/NHK.md "wikilink")「[太王四神記](../Page/太王四神記.md "wikilink")」主題歌
+      - [NHK連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")「[太王四神記](../Page/太王四神記.md "wikilink")」主題歌
 5.  Purple Line (Bonus Tr.)
       -
         作詞：Ryoji Sonoda / 作曲：Han Jin Yoo, JJ650, Young Jin Yoo
     <!-- end list -->
       - 16th 單曲A面
-      - [鈴木株式會社](../Page/鈴木株式會社.md "wikilink")「CHEVROLET MW」電視廣告曲
+      - [鈴木株式會社](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")「CHEVROLET
+        MW」電視廣告曲
 
 <!-- end list -->
 
@@ -119,8 +122,8 @@ Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilin
 5.  Bolero (Video Clip)
 6.  Survivor (Video Clip)
 7.  Kiss The Baby Sky (Video Clip)
-8.  [LIVE](../Page/演唱會.md "wikilink") - 3rd LIVE TOUR 2008 \~T\~ Special
-    Edition
+8.  [LIVE](https://zh.wikipedia.org/wiki/演唱會 "wikilink") - 3rd LIVE TOUR
+    2008 \~T\~ Special Edition
       - ［集錦影像 + 附聲道（成員與關根勤的對談\!\!）］
 9.  Off Shot Movie
       - ［The Secret Code 封面拍攝 + Kiss The Baby Sky 音樂錄影帶攝影］ ※ 初回盤收錄限定
@@ -220,11 +223,13 @@ Code**」（神起密碼）為[東方神起於](../Page/東方神起.md "wikilin
       - 作詞：Lambsey / 作曲：Daisuke Suzuki,Keiichi Tomita / 編曲：Daisuke
         Kahara
       - 25th 單曲A面
-      - [華納兄弟電影](../Page/華納兄弟.md "wikilink")「昴 -スバル-」主題曲
+      - [華納兄弟電影](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")「昴
+        -スバル-」主題曲
 14. **Purple Line** (Bonus Track)
       - 作詞：Ryoji Sonoda / 作曲：Han Jin Yoo, JJ650, Young Jin Yoo
       - 16th 單曲A面
-      - [鈴木株式會社](../Page/鈴木株式會社.md "wikilink")「CHEVROLET MW」電視廣告曲
+      - [鈴木株式會社](https://zh.wikipedia.org/wiki/鈴木株式會社 "wikilink")「CHEVROLET
+        MW」電視廣告曲
 15. どうして君を好きになってしまったんだろう？ (a cappella ver.) (Bonus Track)
       - a cappella編曲：村山晋一郎
       - 23rd 單曲「為何我會喜歡上妳? 」B面曲Bonus Track

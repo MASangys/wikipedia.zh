@@ -1,11 +1,11 @@
-《**Forever**》是[台灣女子組合](../Page/台灣.md "wikilink")[S.H.E的第九张专辑](../Page/S.H.E.md "wikilink")，也是第二張「新歌+精選」專輯，於2006年7月21日推出。首波主打歌曲〈[觸電](../Page/觸電_\(歌曲\).md "wikilink")〉是首輕快的甜蜜情歌，是由[周杰倫量聲打造譜曲的歌曲](../Page/周杰倫.md "wikilink")，因為是首輕快的曲，讓整首歌的音樂很簡單，但卻能表達出歌曲想要表達的甜蜜戀情的感覺，而〈觸電〉的MV劇情是第一張專輯《[女生宿舍](../Page/女生宿舍_\(專輯\).md "wikilink")》中首波主打〈戀人未滿〉的MV劇情的延續，而此張專輯也收錄了[Selina與](../Page/任家萱.md "wikilink")[Tank的合唱歌曲](../Page/呂建中.md "wikilink")〈獨唱情歌〉。這張專輯名稱取為「FOREVER」，是要表現出[S.H.E三個人對歌唱](../Page/S.H.E.md "wikilink")、對團員彼此、對歌迷永遠無可取代的情感，除此之外也呼應第一張新歌加精選《Together新歌+精選》，有著「Together
+《**Forever**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第九张专辑](../Page/S.H.E.md "wikilink")，也是第二張「新歌+精選」專輯，於2006年7月21日推出。首波主打歌曲〈[觸電](../Page/觸電_\(歌曲\).md "wikilink")〉是首輕快的甜蜜情歌，是由[周杰倫量聲打造譜曲的歌曲](../Page/周杰倫.md "wikilink")，因為是首輕快的曲，讓整首歌的音樂很簡單，但卻能表達出歌曲想要表達的甜蜜戀情的感覺，而〈觸電〉的MV劇情是第一張專輯《[女生宿舍](../Page/女生宿舍_\(專輯\).md "wikilink")》中首波主打〈戀人未滿〉的MV劇情的延續，而此張專輯也收錄了[Selina與](../Page/任家萱.md "wikilink")[Tank的合唱歌曲](../Page/呂建中.md "wikilink")〈獨唱情歌〉。這張專輯名稱取為「FOREVER」，是要表現出[S.H.E三個人對歌唱](../Page/S.H.E.md "wikilink")、對團員彼此、對歌迷永遠無可取代的情感，除此之外也呼應第一張新歌加精選《Together新歌+精選》，有著「Together
 Forever」的意思。此張專輯也附有Bonus DVD。
 
 此張專輯中的主打歌曲〈觸電〉和歌曲〈我們怎麼了〉分別入選2006年度Hit Fm年度百首單曲的第10位和66位\[1\]\[2\]。
 
 ## 唱片版本
 
-**※ 以下發行版本皆以當地（[台灣](../Page/台灣.md "wikilink")）為準。**
+**※ 以下發行版本皆以當地（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）為準。**
 
   - 專輯發行前預購和專輯推出後皆為精裝版，而預購會附贈預購贈品，正式發行後則無贈品，而預購贈品為資料夾。
 
@@ -35,8 +35,11 @@ style》卡帶紀念組，此張專輯為16週年復刻卡帶紀念組所收錄1
 
 ## 獎項
 
-  - 2007年 [HITO流行音樂獎](../Page/HITO流行音樂獎.md "wikilink") 年度十大金曲－〈觸電〉
-  - 2007年 [KKBOX數位音樂風雲榜](../Page/KKBOX數位音樂風雲榜.md "wikilink")
+  - 2007年
+    [HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")
+    年度十大金曲－〈觸電〉
+  - 2007年
+    [KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")
     年度二十大單曲－〈觸電〉
 
 ## 音樂錄影帶
@@ -59,7 +62,7 @@ style》卡帶紀念組，此張專輯為16週年復刻卡帶紀念組所收錄1
 </tr>
 <tr class="even">
 <td><p>Ring Ring Ring</p></td>
-<td><p>賴偉康、<a href="../Page/比爾賈.md" title="wikilink">比爾賈</a></p></td>
+<td><p>賴偉康、<a href="https://zh.wikipedia.org/wiki/比爾賈" title="wikilink">比爾賈</a></p></td>
 <td><p>2011年12月27日</p></td>
 <td></td>
 </tr>
@@ -117,7 +120,7 @@ style》卡帶紀念組，此張專輯為16週年復刻卡帶紀念組所收錄1
 ## 其他作品
 
 |width=40% align=center|**上一張專輯：**
-*[不想長大](../Page/不想長大_\(專輯\).md "wikilink")*
+*[不想長大](https://zh.wikipedia.org/wiki/不想長大_\(專輯\) "wikilink")*
 2005年11月25日 |width=20% align=center colspan="2"|**第9張專輯**
 **2006年7月21日** |width=40% align=center|**下一張專輯：**
 *[Play](../Page/Play_\(S.H.E專輯\).md "wikilink")*

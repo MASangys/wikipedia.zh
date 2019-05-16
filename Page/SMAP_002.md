@@ -5,7 +5,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 ## 簡介
 
   - 近年的演唱會時常演唱「心之鏡」和「真夜中的MERRY-GO-ROUND」，例如2006年的[Pop Up\! SMAP
-    LIVE\!](../Page/Pop_Up!_SMAP_LIVE!.md "wikilink")，都有演唱兩首歌曲。
+    LIVE\!](https://zh.wikipedia.org/wiki/Pop_Up!_SMAP_LIVE! "wikilink")，都有演唱兩首歌曲。
   - 「再見的夏雨」是成員喜歡的歌，但自森且行離隊後就只有在1996年的演唱會上演唱。
 
 ## 収録曲

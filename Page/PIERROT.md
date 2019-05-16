@@ -15,29 +15,31 @@ TAKEO——鼓
 
 ## 專輯
 
-1996：《[パンドラの匣](../Page/パンドラの匣.md "wikilink")》
+1996：《[パンドラの匣](https://zh.wikipedia.org/wiki/パンドラの匣 "wikilink")》
 
-1997：《[CELLULOID](../Page/CELLULOID.md "wikilink")》
+1997：《[CELLULOID](https://zh.wikipedia.org/wiki/CELLULOID "wikilink")》
 
-1999：《[FINALE](../Page/FINALE.md "wikilink")》
+1999：《[FINALE](https://zh.wikipedia.org/wiki/FINALE "wikilink")》
 
-2000：《[PRIVATE ENEMY](../Page/PRIVATE_ENEMY.md "wikilink")》
+2000：《[PRIVATE
+ENEMY](https://zh.wikipedia.org/wiki/PRIVATE_ENEMY "wikilink")》
 
 2002：《[HEAVEN〜THE CUSTOMIZED
-LANDSCAPE〜](../Page/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜.md "wikilink")》
+LANDSCAPE〜](https://zh.wikipedia.org/wiki/HEAVEN〜THE_CUSTOMIZED_LANDSCAPE〜 "wikilink")》
 
-2003/07/23：《[ID ATTACK](../Page/ID_ATTACK.md "wikilink")》
+2003/07/23：《[ID
+ATTACK](https://zh.wikipedia.org/wiki/ID_ATTACK "wikilink")》
 
 2003/12/17：《[DICTATORS CIRCUS
--奇術的旋律-](../Page/DICTATORS_CIRCUS_-奇術的旋律-.md "wikilink")》
+-奇術的旋律-](https://zh.wikipedia.org/wiki/DICTATORS_CIRCUS_-奇術的旋律- "wikilink")》
 
-2004：《[FREEZE](../Page/FREEZE.md "wikilink")》
+2004：《[FREEZE](https://zh.wikipedia.org/wiki/FREEZE "wikilink")》
 
 2005/02/06：《[DICTATORS CIRCUS -A variant
-BUD-](../Page/DICTATORS_CIRCUS_-A_variant_BUD-.md "wikilink")》
+BUD-](https://zh.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_variant_BUD- "wikilink")》
 
 2005/06/08：《[DICTATORS CIRCUS -A deformed
-BUD-](../Page/DICTATORS_CIRCUS_-A_deformed_BUD-.md "wikilink")》
+BUD-](https://zh.wikipedia.org/wiki/DICTATORS_CIRCUS_-A_deformed_BUD- "wikilink")》
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")

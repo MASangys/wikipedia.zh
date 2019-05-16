@@ -82,7 +82,8 @@
 
 ### 支持的目錄服務
 
-  - [Novell eDirectory](../Page/Novell_eDirectory.md "wikilink")
+  - [Novell
+    eDirectory](https://zh.wikipedia.org/wiki/Novell_eDirectory "wikilink")
 
 <!-- end list -->
 

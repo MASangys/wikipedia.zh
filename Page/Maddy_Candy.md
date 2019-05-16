@@ -1,13 +1,13 @@
 「**Maddy Candy**」（）是DEATH
-DEVIL的單曲。由[波麗佳音在](../Page/波麗佳音.md "wikilink")2009年8月12日發行。
+DEVIL的單曲。由[波麗佳音在](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")2009年8月12日發行。
 
 ## 概要
 
 《**Maddy
-Candy**》，專輯中收錄了[電視動畫](../Page/電視動畫.md "wikilink")《[K-ON\!](../Page/K-ON!.md "wikilink")》的劇中曲。2009年7月22日由[PONY
-CANYON發行](../Page/PONY_CANYON.md "wikilink")。
+Candy**》，專輯中收錄了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的劇中曲。2009年7月22日由[PONY
+CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
-《[輕音少女](../Page/輕音少女.md "wikilink")》第三隻劇中歌專輯，收錄第4話「合宿！」的插曲，就是澪從雜物找到佐和子老師的錄音帶，然後播出來把自己嚇壞的那首歌。
+《[輕音少女](https://zh.wikipedia.org/wiki/輕音少女 "wikilink")》第三隻劇中歌專輯，收錄第4話「合宿！」的插曲，就是澪從雜物找到佐和子老師的錄音帶，然後播出來把自己嚇壞的那首歌。
 
 ## 收錄曲
 
@@ -22,11 +22,12 @@ CANYON發行](../Page/PONY_CANYON.md "wikilink")。
 
 ## 參見
 
-  - [K-ON\!](../Page/K-ON!.md "wikilink")
+  - [K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")
   - [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")
-  - [Don't say “lazy”](../Page/Don't_say_“lazy”.md "wikilink")
+  - [Don't say
+    “lazy”](https://zh.wikipedia.org/wiki/Don't_say_“lazy” "wikilink")
   - [輕飄飄時間](../Page/輕飄飄時間.md "wikilink")
-  - [放課後TEA TIME](../Page/放課後TEA_TIME.md "wikilink")
+  - [放課後TEA TIME](https://zh.wikipedia.org/wiki/放課後TEA_TIME "wikilink")
 
 ## 外部連結
 

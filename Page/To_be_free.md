@@ -22,7 +22,7 @@ Storm](../Page/J_Storm.md "wikilink")。
         <span style="font-size:smaller">作詞：Soluna</span>
         <span style="font-size:smaller">作曲：Samuel Waermo、Octobar</span>
         <span style="font-size:smaller">編曲：Samuel Waermo、吉岡たく</span>
-        [Asahi飲料](../Page/Asahi飲料.md "wikilink")『三矢蘇打』廣告歌曲
+        [Asahi飲料](https://zh.wikipedia.org/wiki/Asahi飲料 "wikilink")『三矢蘇打』廣告歌曲
 2.  **To be free**<span style="font-size:smaller">（Original
     Karaoke）</span>
 

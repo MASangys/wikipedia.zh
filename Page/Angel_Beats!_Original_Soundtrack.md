@@ -1,14 +1,14 @@
 《**Angel Beats\! Original
-SoundTrack**》（[日文](../Page/日文.md "wikilink")：****）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[Angel
-Beats\!](../Page/Angel_Beats!.md "wikilink")》的[原聲音樂](../Page/原聲音樂.md "wikilink")。原聲帶專輯於2010年7月28日由[Key
+SoundTrack**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[Angel
+Beats\!](../Page/Angel_Beats!.md "wikilink")》的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。原聲帶專輯於2010年7月28日由[Key
 Sounds Label負責發行](../Page/Key_Sounds_Label.md "wikilink")，並授權[Sony Music
-Distribution進行發售](../Page/Sony_Music_Distribution.md "wikilink")。
+Distribution進行發售](https://zh.wikipedia.org/wiki/Sony_Music_Distribution "wikilink")。
 
 ## 介紹
 
 2010年7月28日，Key Sounds Label正式推出了包含電視動畫《Angel
-Beats\!》[背景音樂的原聲專輯](../Page/背景音樂.md "wikilink")\[1\]。整個專輯包含有2片CD光碟，裡面收錄了包括[ANANT-GARDE
-EYES所製作的背景音樂](../Page/ANANT-GARDE_EYES.md "wikilink")、2首[主題曲以及在最後一話中作為](../Page/主題曲.md "wikilink")[插入曲的](../Page/原聲音樂.md "wikilink")《最珍貴的寶物（Original
+Beats\!》[背景音樂的原聲專輯](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")\[1\]。整個專輯包含有2片CD光碟，裡面收錄了包括[ANANT-GARDE
+EYES所製作的背景音樂](https://zh.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")、2首[主題曲以及在最後一話中作為](../Page/主題曲.md "wikilink")[插入曲的](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")《最珍貴的寶物（Original
 Version）》（）。
 
 Key Sounds

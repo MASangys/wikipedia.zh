@@ -1,11 +1,11 @@
-《**月導-Tsukishirube-**》是[南里侑香的第](../Page/南里侑香.md "wikilink")3張[單曲](../Page/單曲.md "wikilink")。於2010年2月24日由[flying
-DOG發行](../Page/flying_DOG.md "wikilink")。\[1\]
+《**月導-Tsukishirube-**》是[南里侑香的第](../Page/南里侑香.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2010年2月24日由[flying
+DOG發行](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")。\[1\]
 
 ## 收錄曲
 
 1.  **月導-Tsukishirube-** \[4:19\]
       - 作詞・作曲・編曲：尾澤拓実
-      - [電視動畫](../Page/電視動畫.md "wikilink")《[神隱之狼](../Page/神隱之狼.md "wikilink")》片尾曲
+      - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[神隱之狼](../Page/神隱之狼.md "wikilink")》片尾曲
 2.  **雨の散歩道** \[4:47\]
       - 作詞：南里侑香、作曲：尾澤拓実、編曲：尾澤拓実、石川洋光
 3.  月導-Tsukishirube- （without vocal）

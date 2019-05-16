@@ -1,12 +1,12 @@
-**yukihiro**（），[日本搖滾樂團](../Page/日本.md "wikilink")[L'Arc\~en\~Ciel](../Page/L'Arc~en~Ciel.md "wikilink")
-[鼓手](../Page/鼓手.md "wikilink")。[日本](../Page/日本.md "wikilink")[千葉縣市川市人](../Page/千葉縣.md "wikilink")。2001年起以[acid
-android名義發行音樂單曲](../Page/acid_android.md "wikilink")、專輯並舉行演唱會。
+**yukihiro**（），[日本搖滾樂團](../Page/日本.md "wikilink")[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")
+[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。[日本](../Page/日本.md "wikilink")[千葉縣市川市人](../Page/千葉縣.md "wikilink")。2001年起以[acid
+android名義發行音樂單曲](https://zh.wikipedia.org/wiki/acid_android "wikilink")、專輯並舉行演唱會。
 
 ## 簡介
 
-1998年加入[L'Arc\~en\~Ciel前](../Page/L'Arc~en~Ciel.md "wikilink")，曾加入ZI:KILL和DIES
+1998年加入[L'Arc\~en\~Ciel前](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")，曾加入ZI:KILL和DIES
 IN CRIES樂團，1995年DIES IN
-CRIES解散到1997年七月成為[L'Arc\~en\~Ciel支援鼓手這段期間則以個人名義活動](../Page/L'Arc~en~Ciel.md "wikilink")。2017年11月19日來台在ATT
+CRIES解散到1997年七月成為[L'Arc\~en\~Ciel支援鼓手這段期間則以個人名義活動](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")。2017年11月19日來台在ATT
 SHOW BOX舉行單獨公演\[1\]。
 
 嗜喝可口可樂。

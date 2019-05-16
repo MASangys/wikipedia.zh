@@ -1,6 +1,6 @@
 **Aisha Duo**是一個爵士音樂二重奏組合的名字。成員是Andrea
-Dulbecco（[顫音琴](../Page/顫音琴.md "wikilink")）和Luca
-Gusella（[馬林巴](../Page/馬林巴.md "wikilink")），他們是義大利音樂人，在米蘭學院上相同的打擊樂器課後開始共同演奏。
+Dulbecco（[顫音琴](https://zh.wikipedia.org/wiki/顫音琴 "wikilink")）和Luca
+Gusella（[馬林巴](https://zh.wikipedia.org/wiki/馬林巴 "wikilink")），他們是義大利音樂人，在米蘭學院上相同的打擊樂器課後開始共同演奏。
 
 「aisha」一詞是阿拉伯文，意味著「生活」。
 

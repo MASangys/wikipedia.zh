@@ -1,10 +1,10 @@
 [KXJBfrombase.jpeg](https://zh.wikipedia.org/wiki/File:KXJBfrombase.jpeg "fig:KXJBfrombase.jpeg")
-**KXJB-TV電視塔**（[英語](../Page/英語.md "wikilink")：**KXJB-TV
-mast**），是一個位於[美國](../Page/美國.md "wikilink")[北達科塔州](../Page/北達科塔州.md "wikilink")[特雷尔县的電視傳送塔](../Page/特雷尔县_\(北达科他州\).md "wikilink")。塔高628[公尺](../Page/公尺.md "wikilink")，比數[英里外的](../Page/英里.md "wikilink")[KVLY電視塔矮](../Page/KVLY電視塔.md "wikilink")1公尺，2008年4月8日被迪拜塔（后更名为[哈里法塔](../Page/哈里法塔.md "wikilink")）超越前曾是世界第二高的人造結構。
+**KXJB-TV電視塔**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**KXJB-TV
+mast**），是一個位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[北達科塔州](https://zh.wikipedia.org/wiki/北達科塔州 "wikilink")[特雷尔县的電視傳送塔](https://zh.wikipedia.org/wiki/特雷尔县_\(北达科他州\) "wikilink")。塔高628[公尺](https://zh.wikipedia.org/wiki/公尺 "wikilink")，比數[英里外的](../Page/英里.md "wikilink")[KVLY電視塔矮](../Page/KVLY電視塔.md "wikilink")1公尺，2008年4月8日被迪拜塔（后更名为[哈里法塔](https://zh.wikipedia.org/wiki/哈里法塔 "wikilink")）超越前曾是世界第二高的人造結構。
 
 ## 参见
 
-  - [世界最高结构物列表](../Page/世界最高结构物列表.md "wikilink")
+  - [世界最高结构物列表](https://zh.wikipedia.org/wiki/世界最高结构物列表 "wikilink")
 
 ## 外部連結
 

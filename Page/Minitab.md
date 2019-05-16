@@ -8,9 +8,10 @@ Minitab Statistical Software 由 Minitab 股份公司發行。Minitab
 股份公司總部設立在賓夕法尼亞州大學城，並在英國考文垂（Minitab
 Ltd.）、法國巴黎（Minitab SARL）和澳大利亞雪梨（Minitab Pty）等地設有分公司。
 
-目前，Minitab 的應用通常结合一些統計處理方法，如[六標準差](../Page/六標準差.md "wikilink")（Six
+目前，Minitab
+的應用通常结合一些統計處理方法，如[六標準差](https://zh.wikipedia.org/wiki/六標準差 "wikilink")（Six
 Sigma）,
-[能力成熟度模型集成](../Page/能力成熟度模型集成.md "wikilink")（CMMI），以及其他製程改善方法等。
+[能力成熟度模型集成](https://zh.wikipedia.org/wiki/能力成熟度模型集成 "wikilink")（CMMI），以及其他製程改善方法等。
 
 該軟體的最新的版本Minitab 18提供了八種語言界面，包括英語、法語、德語、日文、韓文、葡萄牙語、簡體中文和西班牙語。
 
@@ -21,9 +22,9 @@ Sigma)的工具，讓 Minitab 的資料可以適用於專案管理及其他管�
 
 ## 参考
 
-  - [统计软件列表](../Page/统计软件列表.md "wikilink")
+  - [统计软件列表](https://zh.wikipedia.org/wiki/统计软件列表 "wikilink")
   - [Comparison of statistical
-    packages](../Page/Comparison_of_statistical_packages.md "wikilink")
+    packages](https://zh.wikipedia.org/wiki/Comparison_of_statistical_packages "wikilink")
   - [Minitab Taiwan](http://www.minitab.com.tw)
 
 ## 外部链接

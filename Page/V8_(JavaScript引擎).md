@@ -1,19 +1,19 @@
-**V8**是一個由[Google開發的](../Page/Google.md "wikilink")[開源](../Page/開源.md "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，用於[Google
+**V8**是一個由[Google開發的](../Page/Google.md "wikilink")[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，用於[Google
 Chrome及](../Page/Google_Chrome.md "wikilink")[Chromium中](../Page/Chromium.md "wikilink")\[1\]。[Lars
-Bak是這個項目的組長](../Page/Lars_Bak.md "wikilink")\[2\]。
+Bak是這個項目的組長](https://zh.wikipedia.org/wiki/Lars_Bak "wikilink")\[2\]。
 
 ## 運作方式
 
-V8在執行之前將[JavaScript](../Page/JavaScript.md "wikilink")[編譯成了](../Page/編譯.md "wikilink")[機器碼](../Page/機器碼.md "wikilink")，而非[位元組碼或是](../Page/位元組碼.md "wikilink")[解释执行它](../Page/解释器.md "wikilink")，以此提升效能。更進一步，使用了如[內聯緩存](../Page/內聯緩存.md "wikilink")（inline
+V8在執行之前將[JavaScript](../Page/JavaScript.md "wikilink")[編譯成了](https://zh.wikipedia.org/wiki/編譯 "wikilink")[機器碼](https://zh.wikipedia.org/wiki/機器碼 "wikilink")，而非[位元組碼或是](https://zh.wikipedia.org/wiki/位元組碼 "wikilink")[解释执行它](https://zh.wikipedia.org/wiki/解释器 "wikilink")，以此提升效能。更進一步，使用了如[內聯緩存](https://zh.wikipedia.org/wiki/內聯緩存 "wikilink")（inline
 caching）等方法來提高性能。有了這些功能，[JavaScript程序與V](../Page/JavaScript.md "wikilink")8引擎的速度媲美二進制編譯。\[3\]
 
 传统的Javascript是动态语言，又可稱之為Prototype-based
 Language，JavaScript繼承方法是使用prototype，透過指定prototype屬性，便可以指定要繼承的目標。属性可以在运行时添加到或从对象中删除，引擎會为執行中的物件建立一個属性字典，新的属性都要透過字典查找属性在内存中的位置。V8為object新增属性的时候，就以上次的hidden
 class为父类別，创建新属性的hidden class的子类別，如此一來属性访问不再需要动态字典查找了。
 
-為了缩短由[垃圾回收造成的停顿](../Page/垃圾回收_\(计算机科学\).md "wikilink")，V8使用stop-the-world,
+為了缩短由[垃圾回收造成的停顿](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，V8使用stop-the-world,
 generational,
-accurate的垃圾回收器\[4\]。在执行回收之时会暫時中断程序的执行，而且只处理物件堆疊。還會收集內存內所有物件的指標，可以避免内存溢位的情况。V8[組譯器是基於](../Page/汇编语言#組譯器.md "wikilink")[Strongtalk組譯器](../Page/Strongtalk.md "wikilink")\[5\]。
+accurate的垃圾回收器\[4\]。在执行回收之时会暫時中断程序的执行，而且只处理物件堆疊。還會收集內存內所有物件的指標，可以避免内存溢位的情况。V8[組譯器是基於](https://zh.wikipedia.org/wiki/汇编语言#組譯器 "wikilink")[Strongtalk組譯器](https://zh.wikipedia.org/wiki/Strongtalk "wikilink")\[5\]。
 
 ## 参考文献
 
@@ -34,11 +34,12 @@ accurate的垃圾回收器\[4\]。在执行回收之时会暫時中断程序的�
 ## 參見
 
   - [Google Chrome](../Page/Google_Chrome.md "wikilink")
-  - [Chromium (浏览器)](../Page/Chromium_\(浏览器\).md "wikilink")
-  - [JavaScriptCore](../Page/WebKit#JavaScriptCore.md "wikilink")
+  - [Chromium
+    (浏览器)](https://zh.wikipedia.org/wiki/Chromium_\(浏览器\) "wikilink")
+  - [JavaScriptCore](https://zh.wikipedia.org/wiki/WebKit#JavaScriptCore "wikilink")
   - [Dart](../Page/Dart.md "wikilink")
   - [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")
-  - [即时编译](../Page/即时编译.md "wikilink")
+  - [即时编译](https://zh.wikipedia.org/wiki/即时编译 "wikilink")
 
 {{-}}
 

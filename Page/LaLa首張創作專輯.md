@@ -29,7 +29,7 @@
 
 ## 得獎紀錄
 
-  - [第15屆新加坡金曲獎](../Page/第十五屆新加坡金曲獎.md "wikilink")
+  - [第15屆新加坡金曲獎](https://zh.wikipedia.org/wiki/第十五屆新加坡金曲獎 "wikilink")
 
 <table style="width:56%;">
 <colgroup>
@@ -74,7 +74,7 @@
 </tbody>
 </table>
 
-  - [第21屆金曲獎](../Page/第21屆金曲獎.md "wikilink")\[1\]\[2\]
+  - [第21屆金曲獎](https://zh.wikipedia.org/wiki/第21屆金曲獎 "wikilink")\[1\]\[2\]
 
 <table style="width:56%;">
 <colgroup>

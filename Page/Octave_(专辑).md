@@ -1,8 +1,8 @@
-《**Octave**》是香港唱作歌手[王菀之的首張](../Page/王菀之.md "wikilink")[原聲帶](../Page/原聲帶.md "wikilink")，於2010年7月2日發行。大碟歌曲全部來自她有份演出的音樂劇《柯廸夫》。第一版為限量劇場版，收錄了五首歌曲，均由她作曲、[黃偉文填詞](../Page/黃偉文.md "wikilink")。第二版於同年8月28日發行，收錄的除了以上五首歌曲外，還有同樣來自《柯廸夫》的另外五首歌曲及十首純音樂，DVD內則是大碟裡兩首歌曲的音樂錄像帶。
+《**Octave**》是香港唱作歌手[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[原聲帶](https://zh.wikipedia.org/wiki/原聲帶 "wikilink")，於2010年7月2日發行。大碟歌曲全部來自她有份演出的音樂劇《柯廸夫》。第一版為限量劇場版，收錄了五首歌曲，均由她作曲、[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。第二版於同年8月28日發行，收錄的除了以上五首歌曲外，還有同樣來自《柯廸夫》的另外五首歌曲及十首純音樂，DVD內則是大碟裡兩首歌曲的音樂錄像帶。
 
 ## 曲目
 
-全碟作曲：[王菀之](../Page/王菀之.md "wikilink")　全碟作詞：[黃偉文](../Page/黃偉文.md "wikilink")　<small>（下面註明例外曲目）</small>
+全碟作曲：[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")　全碟作詞：[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")　<small>（下面註明例外曲目）</small>
    **備註：**
 
   - 「柯迪夫夢幻曲」從《Blessing》選段，由張敬軒、[常石磊和Covington](../Page/常石磊.md "wikilink")
@@ -13,9 +13,10 @@
 出自《Octave》第二版專輯內頁。\[1\]
 **音樂**
 
-  - [王菀之](../Page/王菀之.md "wikilink") – 主音
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
     <small>(2、5、9、11、15-16、18-19)</small>、作曲
-    <small>(2、5、9、11、15-16、18-19)</small>、作詞 <small>(11)</small>
+    <small>(2、5、9、11、15-16、18-19)</small>、作詞
+    <small>(11)</small>
   - [馮翰銘](../Page/馮翰銘.md "wikilink") – 主音 <small>(14、19)</small>、編曲
     <small>(2-3、5、9、11、15-19)</small>、所有樂器
     <small>(2、5、9、11、16、18-19)</small>、電腦程式
@@ -28,10 +29,11 @@
   - [梁祖堯](../Page/梁祖堯.md "wikilink") – 主音 <small>(2、3、5、14、19)</small>
   - [湯駿業](../Page/湯駿業.md "wikilink") – 主音 <small>(2、5、14、19)</small>
   - [邵美君](../Page/邵美君.md "wikilink") – 主音 <small>(2、5、14、19)</small>
-  - [張敬軒](../Page/張敬軒.md "wikilink") – 主音 <small>(18、19)</small>
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音
+    <small>(18、19)</small>
   - 林小寶 – 主音 <small>(19)</small>
   - AP阿P – 作曲 <small>(3)</small>、作詞 <small>(3)</small>
-  - [黃偉文](../Page/黃偉文.md "wikilink") – 作詞
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
     <small>(2、5、9、15-16、18-19)</small>
   - [林寶](../Page/林寶_\(作詞家\).md "wikilink") – 作詞 <small>(18)</small>
 

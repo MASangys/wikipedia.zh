@@ -1,4 +1,4 @@
-**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本第三大](../Page/日本.md "wikilink")[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](../Page/電通.md "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作了眾多日本動漫作品。總部設於[東京都](../Page/東京都.md "wikilink")[港区](../Page/港区.md "wikilink")[虎之門](../Page/虎之門.md "wikilink")，並在海外設置多處分支機構。
+**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本第三大](../Page/日本.md "wikilink")[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](https://zh.wikipedia.org/wiki/電通 "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作了眾多日本動漫作品。總部設於[東京都](../Page/東京都.md "wikilink")[港区](https://zh.wikipedia.org/wiki/港区 "wikilink")[虎之門](../Page/虎之門.md "wikilink")，並在海外設置多處分支機構。
 
 ## 沿革
 
@@ -7,7 +7,7 @@
   - 1956年3月，以稻垣正夫為中心，創立
   - 1961年9月，第一企画宣傳更名
   - 1962年9月，第一企画合併双葉企業株式会社及株式会社啟新社。
-  - 1998年8月，[WPP集團投資入股旭通信社](../Page/WPP集團.md "wikilink")。
+  - 1998年8月，[WPP集團投資入股旭通信社](https://zh.wikipedia.org/wiki/WPP集團 "wikilink")。
   - 1999年1月，旭通信社和第一企畫合併成**旭通DK**，以旭通信社為承繼法人。
 
 ## 兩岸三地
@@ -55,7 +55,7 @@
 
 ## 企業標誌
 
-[File:adkci-19990101.png|1999年合併時](File:adkci-19990101.png%7C1999年合併時)[企業識別](../Page/企業識別.md "wikilink")，直到2002年版商標統合取代
+[File:adkci-19990101.png|1999年合併時](File:adkci-19990101.png%7C1999年合併時)[企業識別](https://zh.wikipedia.org/wiki/企業識別 "wikilink")，直到2002年版商標統合取代
 [File:adklogo-19990101.png|1999年合併時商標，搭配企業識別跟品牌宣言「Marketing](File:adklogo-19990101.png%7C1999年合併時商標，搭配企業識別跟品牌宣言「Marketing)
 Science ＆ Communication Services」
 [File:adklogo-20010330.png|2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言](File:adklogo-20010330.png%7C2001年3月30日宣布於翌月2日採用商業名稱「ADK」所改版的商標，亦搭配企業識別跟品牌宣言)

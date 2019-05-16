@@ -1,5 +1,5 @@
 **《A Love
-Supreme》**是[约翰·柯川四重奏於](../Page/约翰·柯川.md "wikilink")1964年12月录制的爵士乐专辑。\[1\]由Impulse\!
+Supreme》**是[约翰·柯川四重奏於](https://zh.wikipedia.org/wiki/约翰·柯川 "wikilink")1964年12月录制的爵士乐专辑。\[1\]由Impulse\!
 Records於1965年2月发行，常被評論家和聽眾认为是柯川最好的作品之一，融合了早期的硬博普和后来的自由爵士两种风格。
 
 ## 參考資料

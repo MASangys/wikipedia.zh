@@ -1,10 +1,10 @@
 《**CANCAN BUNNY**》（）是1989年[Cocktail
-Soft首次發表的](../Page/Cocktail_Soft.md "wikilink")[約會模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")，及一系列作品的總稱，並且該作品為日本第一部戀愛養成遊戲。第4回作品《Can
+Soft首次發表的](../Page/Cocktail_Soft.md "wikilink")[約會模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，及一系列作品的總稱，並且該作品為日本第一部戀愛養成遊戲。第4回作品《Can
 Can Bunny Premiere》（）女主角 Swaty / Swatty
 （）的人氣非常高，造成有時候狹義上指的是該角色。第4回作品《Can
 Can Bunny
 Premiere》（）於1996年4月5日被[KID正式移植到](../Page/KID.md "wikilink")[SEGA
-Saturn家用遊戲主機](../Page/SEGA_Saturn.md "wikilink")。
+Saturn家用遊戲主機](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")。
 
 ## 遊戲
 
@@ -73,7 +73,7 @@ Saturn家用遊戲主機](../Page/SEGA_Saturn.md "wikilink")。
 ## 動畫
 
 《Can Can Bunny Extra》（）是由Pink
-Pineapple於1996年至1997年期間發售的成人動畫共六集，以[LD](../Page/LD.md "wikilink")、[VHS](../Page/VHS.md "wikilink")、[DVD形式發售](../Page/DVD.md "wikilink")。
+Pineapple於1996年至1997年期間發售的成人動畫共六集，以[LD](https://zh.wikipedia.org/wiki/LD "wikilink")、[VHS](../Page/VHS.md "wikilink")、[DVD形式發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 小說
 

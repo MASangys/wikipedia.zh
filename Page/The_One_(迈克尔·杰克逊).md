@@ -1,38 +1,49 @@
 **迈克尔·杰克逊：The
-One**是[哥伦比亚广播公司在](../Page/哥伦比亚广播公司.md "wikilink")2004年1月特别播出的一个[影片](../Page/影片.md "wikilink")，该影片由[Epic唱片发行](../Page/Epic唱片.md "wikilink")。影片长39[分钟](../Page/分钟.md "wikilink")，它包含的歌曲片段有"[Smooth
+One**是[哥伦比亚广播公司在](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")2004年1月特别播出的一个[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，该影片由[Epic唱片发行](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink")。影片长39[分钟](https://zh.wikipedia.org/wiki/分钟 "wikilink")，它包含的歌曲片段有"[Smooth
 Criminal](../Page/Smooth_Criminal.md "wikilink")"，"[Billie
-Jean](../Page/Billie_Jean.md "wikilink")"，"[Black or
+Jean](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")"，"[Black or
 White](../Page/Black_or_White.md "wikilink")"，"[I Want You
-Back](../Page/I_Want_You_Back.md "wikilink")"，"[Working Day and
-Night](../Page/Off_the_Wall_\(专辑\).md "wikilink")"，"[Wanna Be Startin'
-Somethin'](../Page/Wanna_Be_Startin'_Somethin'.md "wikilink")"，"[Another
-Part of Me](../Page/Another_Part_of_Me.md "wikilink")"，"[One More
-Chance](../Page/One_More_Chance.md "wikilink")"和"[You Rock My
-World](../Page/You_Rock_My_World.md "wikilink")"等。据证实，该影碟在[美国销售](../Page/美国.md "wikilink")5个月后，出货量高达5万张，并获得了[RIAA的](../Page/美国唱片业协会.md "wikilink")**黄金认证**，同时RIAA也正式为杰克逊生产影碟。
+Back](https://zh.wikipedia.org/wiki/I_Want_You_Back "wikilink")"，"[Working
+Day and
+Night](https://zh.wikipedia.org/wiki/Off_the_Wall_\(专辑\) "wikilink")"，"[Wanna
+Be Startin'
+Somethin'](https://zh.wikipedia.org/wiki/Wanna_Be_Startin'_Somethin' "wikilink")"，"[Another
+Part of
+Me](https://zh.wikipedia.org/wiki/Another_Part_of_Me "wikilink")"，"[One
+More
+Chance](https://zh.wikipedia.org/wiki/One_More_Chance "wikilink")"和"[You
+Rock My
+World](https://zh.wikipedia.org/wiki/You_Rock_My_World "wikilink")"等。据证实，该影碟在[美国销售](../Page/美国.md "wikilink")5个月后，出货量高达5万张，并获得了[RIAA的](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**黄金认证**，同时RIAA也正式为杰克逊生产影碟。
 
 ## 曲目列表
 
-  - [I Want You Back](../Page/I_Want_You_Back.md "wikilink")
-  - [Billie Jean](../Page/Billie_Jean.md "wikilink")
+  - [I Want You
+    Back](https://zh.wikipedia.org/wiki/I_Want_You_Back "wikilink")
+  - [Billie Jean](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")
   - [Wanna be Startin'
-    Somethin'](../Page/Wanna_be_Startin'_Somethin'.md "wikilink")
+    Somethin'](https://zh.wikipedia.org/wiki/Wanna_be_Startin'_Somethin' "wikilink")
   - [Don't Stop til' You Get
-    Enough](../Page/Don't_Stop_til'_You_Get_Enough.md "wikilink")
-  - [You Rock my World](../Page/You_Rock_my_World.md "wikilink")
-  - [Thriller](../Page/Thriller_\(歌曲\).md "wikilink")
-  - [We Are the World](../Page/We_Are_the_World.md "wikilink")
-  - [One More Chance](../Page/One_More_Chance.md "wikilink")
+    Enough](https://zh.wikipedia.org/wiki/Don't_Stop_til'_You_Get_Enough "wikilink")
+  - [You Rock my
+    World](https://zh.wikipedia.org/wiki/You_Rock_my_World "wikilink")
+  - [Thriller](https://zh.wikipedia.org/wiki/Thriller_\(歌曲\) "wikilink")
+  - [We Are the
+    World](https://zh.wikipedia.org/wiki/We_Are_the_World "wikilink")
+  - [One More
+    Chance](https://zh.wikipedia.org/wiki/One_More_Chance "wikilink")
   - [Black or White](../Page/Black_or_White.md "wikilink")
-  - [Another Part Of Me](../Page/Another_Part_Of_Me.md "wikilink")
-  - [Workin' Day and Night](../Page/Off_the_Wall_\(专辑\).md "wikilink")
+  - [Another Part Of
+    Me](https://zh.wikipedia.org/wiki/Another_Part_Of_Me "wikilink")
+  - [Workin' Day and
+    Night](https://zh.wikipedia.org/wiki/Off_the_Wall_\(专辑\) "wikilink")
   - [Smooth Criminal](../Page/Smooth_Criminal.md "wikilink")
   - [They Don't Care About
     Us](../Page/They_Don't_Care_About_Us.md "wikilink")
   - [Blood on the Dance
-    Floor](../Page/Blood_on_the_Dance_Floor_\(歌曲\).md "wikilink")
+    Floor](https://zh.wikipedia.org/wiki/Blood_on_the_Dance_Floor_\(歌曲\) "wikilink")
   - [Beat It](../Page/Beat_It.md "wikilink")
   - [Man in the
-    Mirror](../Page/Man_in_the_Mirror.md "wikilink")（Bad世界巡回演唱会现场版）
+    Mirror](https://zh.wikipedia.org/wiki/Man_in_the_Mirror "wikilink")（Bad世界巡回演唱会现场版）
 
 ## 认证
 

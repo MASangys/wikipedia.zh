@@ -1,9 +1,10 @@
-《**I**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](../Page/西野加奈.md "wikilink")1張單曲，在2008年2月20日由[SME
-Records Inc.發售](../Page/SME_Records_Inc..md "wikilink")。
+《**I**》是[日本的女歌手](../Page/日本.md "wikilink")[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")1張單曲，在2008年2月20日由[SME
+Records
+Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 
-  - 「I」是[西野加奈出道的第一張單曲](../Page/西野加奈.md "wikilink")，亦是[日本電視台](../Page/日本電視台.md "wikilink")「音樂戰士
+  - 「I」是[西野加奈出道的第一張單曲](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")，亦是[日本電視台](../Page/日本電視台.md "wikilink")「音樂戰士
     MUSIC FIGHTER」2008年2月份POWER
     PLAY和[中京電視台](../Page/中京電視台.md "wikilink")「TA☆RO」2008年2月份片尾曲。
   - 此單曲只有「CD ONLY」和「I　～SiZK "Water Drop" MiX～（完全生産限定黑膠唱盤）」2個版本。

@@ -1,4 +1,4 @@
-傳說的大陸「三璃紗」被暴虐的大師董卓薩克支配。董卓的悪政，三璃紗全境被黑暗包圍，人民絕望。幽州的義勇軍，[劉備](../Page/劉備.md "wikilink")，[關羽](../Page/關羽.md "wikilink")，[張飛三人](../Page/張飛.md "wikilink")。迎擊董卓軍的「鎮江將軍」-**[胡軫](../Page/胡軫.md "wikilink")**。激烈的戰鬥末了，逃跑了窮境的[劉備](../Page/劉備.md "wikilink")，[關羽](../Page/關羽.md "wikilink")，[張飛](../Page/張飛.md "wikilink")，住在深山裡的避世的荒村。而已推出的角色追加成形色、貼紙和封面之外，必殺技的特效以及新武器推出。
+傳說的大陸「三璃紗」被暴虐的大師董卓薩克支配。董卓的悪政，三璃紗全境被黑暗包圍，人民絕望。幽州的義勇軍，[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")，[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，[張飛三人](https://zh.wikipedia.org/wiki/張飛 "wikilink")。迎擊董卓軍的「鎮江將軍」-**[胡軫](https://zh.wikipedia.org/wiki/胡軫 "wikilink")**。激烈的戰鬥末了，逃跑了窮境的[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")，[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")，[張飛](https://zh.wikipedia.org/wiki/張飛 "wikilink")，住在深山裡的避世的荒村。而已推出的角色追加成形色、貼紙和封面之外，必殺技的特效以及新武器推出。
 
 本作與動畫《[超劇場版 Keroro軍曹 5
 誕生！究極Keroro奇蹟的時空之島！！](../Page/超劇場版_Keroro軍曹_5_誕生！究極Keroro奇蹟的時空之島！！.md "wikilink")》共同上映。
@@ -7,12 +7,12 @@
 
 ### 幽州義勇軍
 
-  - **[劉備鋼彈](../Page/劉備.md "wikilink")**
+  - **[劉備鋼彈](https://zh.wikipedia.org/wiki/劉備 "wikilink")**
 
 <!-- end list -->
 
   -
-    詳見[劉備鋼彈](../Page/BB戰士三國傳#角色#幽州義勇軍/翔國.md "wikilink")
+    詳見[劉備鋼彈](https://zh.wikipedia.org/wiki/BB戰士三國傳#角色#幽州義勇軍/翔國 "wikilink")
 
 :\*三璃紗的北部，幽州·樓桑村出身。
 
@@ -24,7 +24,7 @@
 
 :\*必殺：星龍斬、三位一體星龍斬
 
-  - **[關羽鋼彈](../Page/關羽.md "wikilink")**
+  - **[關羽鋼彈](https://zh.wikipedia.org/wiki/關羽 "wikilink")**
 
 :\*冷靜沉著兼備大膽不敵，禮節和勇敢的「俠」。
 
@@ -36,9 +36,9 @@
 
 :\*必殺：鬼牙百裂擊
 
-  - **[張飛鋼彈](../Page/張飛.md "wikilink")**
+  - **[張飛鋼彈](https://zh.wikipedia.org/wiki/張飛 "wikilink")**
 
-:\*[劉備三弟](../Page/劉備.md "wikilink")，出身佛土之村，仍奮力作戰。
+:\*[劉備三弟](https://zh.wikipedia.org/wiki/劉備 "wikilink")，出身佛土之村，仍奮力作戰。
 
 :\*推出日期：2010年2月
 
@@ -52,7 +52,7 @@
 
 :\*推出日期：2010年4月
 
-  - '''[公孫瓚EZ](../Page/公孫瓚.md "wikilink")-8
+  - '''[公孫瓚EZ](https://zh.wikipedia.org/wiki/公孫瓚 "wikilink")-8
 
 :\*與同為盧植弟子的劉備為師兄弟，對不拘小節的劉備頗感棘手。以繼承父親成為幽州將軍為目標。盧植被處決前，獲其託付兵法書。
 
@@ -77,7 +77,7 @@
 
 :\*必殺：暗黒瘴気弾
 
-  - **[呂布](../Page/呂布.md "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;;}-**（OZ-00MS2B
+  - **[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")-{zh-hk:多魯基斯;zh-tw:托爾吉斯;;}-**（OZ-00MS2B
     Tallgeese III）
 
 <!-- end list -->
@@ -91,7 +91,8 @@
 
 :\*必殺：旋風大烈斬
 
-  - '''[貂蟬邱貝蕾](../Page/貂蟬.md "wikilink")（AMX-004 Qubeley）
+  - '''[貂蟬邱貝蕾](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")（AMX-004
+    Qubeley）
 
 「美麗的女將軍」，面對人所畏懼的呂布，她是少數能夠理解其心意的人物，出於愛慕之情，以輔助身份支持他之外，亦會參與作戰。時常稱呼呂布為「奉先」。「虎牢城」攻略戰中，與呂布迎擊發動奇襲的孫堅軍。最後在郿城被李儒不分敵我的弩箭射殺。
 
@@ -113,7 +114,7 @@
 
 #### 鎮江將軍
 
-  - **[胡軫吉昂](../Page/胡軫.md "wikilink")**（MS-15 Gyan)
+  - **[胡軫吉昂](https://zh.wikipedia.org/wiki/胡軫 "wikilink")**（MS-15 Gyan)
 
 :\*為董卓服侍的武將，被給予「鎮江將軍」地位，武力、智略能力出色，非常自豪，把打敗敵人的事作為信條。
 
@@ -125,7 +126,8 @@
 
 ### 袁紹軍
 
-  - '''[袁紹巴烏](../Page/袁紹.md "wikilink")（AMX-107 Bawoo）
+  - '''[袁紹巴烏](https://zh.wikipedia.org/wiki/袁紹 "wikilink")（AMX-107
+    Bawoo）
 
 「河北之雄」。出身自冀州中世代擔任將軍職務的名門「袁家」，既是袁氏當家主，同時想取得天下的野心家。以壓倒性的財力、及顯赫名聲及背景，就任為反董卓聯合體盟主。不過，虎牢城攻略戰中從未親赴戰場。
 
@@ -145,31 +147,32 @@
 
 ### 工作人员
 
-  - 企画 - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - 企画 -
+    [サンライズ](https://zh.wikipedia.org/wiki/サンライズ_\(アニメ制作会社\) "wikilink")
   - 原作 -
-    [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+    [矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 制片人- 佐藤弘幸
-  - 監督 - [森邦宏](../Page/森邦宏.md "wikilink")、鈴木健一
-  - 系列构成 - [浦畑達彦](../Page/浦畑達彦.md "wikilink")
+  - 監督 - [森邦宏](https://zh.wikipedia.org/wiki/森邦宏 "wikilink")、鈴木健一
+  - 系列构成 - [浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
   - SD设计 - 寺島慎也
   - 色彩設計 - 熊谷妙子
   - 美術監督 - 池田繁美
   - 撮影監督 - 大神洋一
-  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
-  - 音楽 - [吉川慶](../Page/吉川慶.md "wikilink")
+  - 音響監督 - [藤野貞義](https://zh.wikipedia.org/wiki/藤野貞義 "wikilink")
+  - 音楽 - [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink")
   - 編集 - 吉武将人
-  - 製作 - サンライズ、[創通](../Page/創通.md "wikilink")
+  - 製作 - サンライズ、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")
 
 ### 主題曲
 
   - 第一代片尾曲「三璃紗伝説 〜The Brave Legend〜」（第1話 - 第26話）
-    作詞 - [小川マキ](../Page/小川マキ.md "wikilink") / 作曲・編曲 -
-    [吉川慶](../Page/吉川慶.md "wikilink") /
-    歌：[Ko-saku](../Page/Ko-saku.md "wikilink")
+    作詞 - [小川マキ](https://zh.wikipedia.org/wiki/小川マキ "wikilink") / 作曲・編曲 -
+    [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink") /
+    歌：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
   - 第2代片尾曲「Justice 伝説を刻め\!」（第27話 - 第51話）
-    作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 -
-    [増田武史](../Page/増田武史.md "wikilink") / 歌 -
-    ブレイブバトルウォーリアーズ（劉備ガンダム（CV:[梶裕貴](../Page/梶裕貴.md "wikilink")）、関羽ガンダム（CV:[安元洋貴](../Page/安元洋貴.md "wikilink")）、張飛ガンダム（CV:[加藤将之](../Page/加藤将之.md "wikilink")）、曹操ガンダム（CV:[乃村健次](../Page/乃村健次.md "wikilink")）、孫権ガンダム（CV:[島﨑信長](../Page/島崎信長.md "wikilink")））
+    作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 -
+    [増田武史](https://zh.wikipedia.org/wiki/増田武史 "wikilink") / 歌 -
+    ブレイブバトルウォーリアーズ（劉備ガンダム（CV:[梶裕貴](../Page/梶裕貴.md "wikilink")）、関羽ガンダム（CV:[安元洋貴](../Page/安元洋貴.md "wikilink")）、張飛ガンダム（CV:[加藤将之](https://zh.wikipedia.org/wiki/加藤将之 "wikilink")）、曹操ガンダム（CV:[乃村健次](../Page/乃村健次.md "wikilink")）、孫権ガンダム（CV:[島﨑信長](../Page/島崎信長.md "wikilink")））
 
 ### 各集列表
 
@@ -226,7 +229,7 @@
 <td><p>5</p></td>
 <td></td>
 <td><p>群雄集结</p></td>
-<td><p><a href="../Page/西村博之.md" title="wikilink">西村博之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西村博之" title="wikilink">西村博之</a></p></td>
 <td><p>山田弘和</p></td>
 <td></td>
 <td></td>
@@ -317,7 +320,7 @@
 <td><p>15</p></td>
 <td></td>
 <td><p>强者与弱者</p></td>
-<td><p><a href="../Page/加瀬充子.md" title="wikilink">加瀬充子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加瀬充子" title="wikilink">加瀬充子</a></p></td>
 <td><p>左藤洋二</p></td>
 <td></td>
 <td></td>
@@ -337,7 +340,7 @@
 <td><p>新天地</p></td>
 <td><p>岸本みゆき</p></td>
 <td><p>小島正士</p></td>
-<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -390,7 +393,7 @@
 <td><p>{{lang|ja|天と地</p></td>
 <td><p>浦畑達彦}}</p></td>
 <td><p>天与地</p></td>
-<td><p><a href="../Page/青木康直.md" title="wikilink">青木康直</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青木康直" title="wikilink">青木康直</a></p></td>
 <td><p>井上ジェット</p></td>
 <td></td>
 </tr>
@@ -664,63 +667,63 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/東京电视台.md" title="wikilink">東京电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/広域放送" title="wikilink">関東広域圏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京电视台" title="wikilink">東京电视台</a></p></td>
 <td><p>周六 10:15-10:30</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">東京电视台系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京电视台系列</a></p></td>
 <td><p>制作局</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
-<td><p><a href="../Page/北海道电视台.md" title="wikilink">北海道电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北海道电视台" title="wikilink">北海道电视台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/愛知県.md" title="wikilink">愛知県</a></p></td>
-<td><p><a href="../Page/爱知电视台.md" title="wikilink">爱知电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/爱知电视台" title="wikilink">爱知电视台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
-<td><p><a href="../Page/大阪电视台.md" title="wikilink">大阪电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪电视台" title="wikilink">大阪电视台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岡山県.md" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="../Page/濑户内电视台.md" title="wikilink">濑户内电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="https://zh.wikipedia.org/wiki/香川県" title="wikilink">香川県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/濑户内电视台" title="wikilink">濑户内电视台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/日本における衛星放送#BSデジタル.md" title="wikilink">BSデジタル</a></p></td>
-<td><p><a href="../Page/BS_JAPAN.md" title="wikilink">BS JAPAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本における衛星放送#BSデジタル" title="wikilink">BSデジタル</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS_JAPAN" title="wikilink">BS JAPAN</a></p></td>
 <td><p>周二 18:45-19:00</p></td>
 <td><p>从2010年4月6日开始播放<br />
 比主播放迟3天</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/衛星放送.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星放送" title="wikilink">CS放送</a></p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>周三 10:00-10:30<br />
 周三 22:00-22:30<br />
 周六 28:00-28:30<br />
 周日 16:00-16:30</p></td>
-<td><p><a href="../Page/スカパー!.md" title="wikilink">スカパー!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/スカパー!" title="wikilink">スカパー!</a></p></td>
 <td><p>预定从2010年4月28日开始播放<br />
 每隔一周播放2集<br />
 奇数集比主播放迟25天<br />
@@ -731,10 +734,13 @@
 
 ## 參見
 
-  - [BB戰士三國傳 風雲豪傑編](../Page/BB戰士三國傳_風雲豪傑編.md "wikilink")
-  - [BB戰士三國傳 英雄激突編](../Page/BB戰士三國傳_英雄激突編.md "wikilink")
+  - [BB戰士三國傳
+    風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")
+  - [BB戰士三國傳
+    英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")
   - [BB戰士三國傳 戰神決鬥篇](../Page/BB戰士三國傳_戰神決鬥篇.md "wikilink")
-  - [BB戰士 三國傳外傳 武勇激鬥錄](../Page/BB戰士_三國傳外傳_武勇激鬥錄.md "wikilink")
+  - [BB戰士 三國傳外傳
+    武勇激鬥錄](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")
 
 ## 外部連結
 
@@ -744,7 +750,7 @@
 
   - [中文三國傳官方特輯](http://www.g-world.com.tw/index.php?to=content_inner&sn=15)
 
-[ja:BB戦士三国伝](../Page/ja:BB戦士三国伝.md "wikilink")
+[ja:BB戦士三国伝](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝 "wikilink")
 
 [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
 [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")

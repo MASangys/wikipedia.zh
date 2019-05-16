@@ -1,11 +1,11 @@
 **KV-1坦克**
-（），是[蘇聯在](../Page/蘇聯.md "wikilink")[第二次世界大戰中的主力](../Page/第二次世界大戰.md "wikilink")[重型坦克KV系列第一型](../Page/重型坦克.md "wikilink")，以[蘇聯國防人民委員會委員](../Page/蘇聯國防人民委員會.md "wikilink")——[克里门特·伏罗希洛夫](../Page/克里门特·伏罗希洛夫.md "wikilink")[元帥命名](../Page/元帥.md "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動以前](../Page/巴巴羅薩行動.md "wikilink")，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
+（），是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰中的主力](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克KV系列第一型](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，以[蘇聯國防人民委員會委員](https://zh.wikipedia.org/wiki/蘇聯國防人民委員會 "wikilink")——[克里门特·伏罗希洛夫](https://zh.wikipedia.org/wiki/克里门特·伏罗希洛夫 "wikilink")[元帥命名](https://zh.wikipedia.org/wiki/元帥 "wikilink")。KV坦克系列以它們的厚重裝甲為名；德國进攻蘇聯時，KV坦克是少數同時能抵擋37和50毫米口徑[反坦克砲的坦克](../Page/反坦克炮.md "wikilink")。在德國的[巴巴羅薩行動以前](../Page/巴巴羅薩行動.md "wikilink")，蘇聯的22000輛坦克中約有500輛KV-1坦克服役。隨著KV-1坦克的成功，蘇聯相繼研發了它的改良版：[KV-2](../Page/KV-2坦克.md "wikilink")、[KV-85和諸多衍生型](../Page/KV-85坦克.md "wikilink")。
 
 ## 發展
 
 [Char-Sergei-Mironovitch-Kirov.jpg](https://zh.wikipedia.org/wiki/File:Char-Sergei-Mironovitch-Kirov.jpg "fig:Char-Sergei-Mironovitch-Kirov.jpg")
 KV-1是由伏罗希洛夫的女婿—科廷（Zhozef Kotin）和耶莫雷耶夫（Vladimir
-Yermolaev）於[基洛夫工廠所研製](../Page/基洛夫工廠.md "wikilink")，將之前的多砲塔坦克——改採用單砲塔和寬履帶進行改良。
+Yermolaev）於[基洛夫工廠所研製](https://zh.wikipedia.org/wiki/基洛夫工廠 "wikilink")，將之前的多砲塔坦克——改採用單砲塔和寬履帶進行改良。
 
 1939年2月，設計工作展開；
 
@@ -15,20 +15,20 @@ Yermolaev）於[基洛夫工廠所研製](../Page/基洛夫工廠.md "wikilink")
 
 同年12月29日與[T-34被列制式裝備](../Page/T-34坦克.md "wikilink")；
 
-1940年2月，量產開始，當年便生產了243輛。之後有一戰車排的KV-1原型車與[T-100坦克和SMK坦克被派往](../Page/T-100重型坦克.md "wikilink")[冬季戰爭對抗芬蘭軍隊](../Page/冬季戰爭.md "wikilink")。
+1940年2月，量產開始，當年便生產了243輛。之後有一戰車排的KV-1原型車與[T-100坦克和SMK坦克被派往](https://zh.wikipedia.org/wiki/T-100重型坦克 "wikilink")[冬季戰爭對抗芬蘭軍隊](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")。
 
 在冬季戰爭中，芬軍對KV-1原型車的厚重裝甲難以擊破，且機動性佳；而SMK和T-100則是常發生履帶被炸斷、砲塔故障等問題。KV-1使用許多SMK坦克的設計，如傳動、懸掛裝置等，原先預計採用
 76.2 毫米和 45 毫米主砲，最後卻只用 76.2 毫米一座、配有12個獨立負重輪和扭桿連結的懸掛裝置，和砲塔前 90 毫米、側面 75
 毫米、車身 90
 毫米的厚重裝甲，重要的是，採用寬履帶的KV-1分散了重量，能夠過得了許多原本會被壓壞的木橋。但KV-1的缺點是早期的離合器和傳動器協調性差，換檔時需要先停車，乘員艙又視野狹小、缺乏無線電，影響其作戰能力。
 
-當[蘇德戰爭開始後](../Page/蘇德戰爭.md "wikilink")，KV-1坦克開始與德軍交鋒，到1941年6月時基洛夫工廠已生產了636輛。當時德軍主要使用的[反坦克砲](../Page/反坦克砲.md "wikilink")、[坦克砲都無法擊毀其](../Page/坦克砲.md "wikilink")90毫米厚的炮塔前部裝甲（後期前方裝甲還增加25mm裝甲板至100毫米），對德軍震懾力強，因而開發其他如KV-1S、[SU-152等衍生車](../Page/SU-152.md "wikilink")；相較之下，SMK、T-35等重型多砲塔坦克常因故障而停駛，被視為阻礙道路交通的一大問題，甚至故障數量比被德軍擊毀者還多。
+當[蘇德戰爭開始後](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，KV-1坦克開始與德軍交鋒，到1941年6月時基洛夫工廠已生產了636輛。當時德軍主要使用的[反坦克砲](https://zh.wikipedia.org/wiki/反坦克砲 "wikilink")、[坦克砲都無法擊毀其](https://zh.wikipedia.org/wiki/坦克砲 "wikilink")90毫米厚的炮塔前部裝甲（後期前方裝甲還增加25mm裝甲板至100毫米），對德軍震懾力強，因而開發其他如KV-1S、[SU-152等衍生車](../Page/SU-152.md "wikilink")；相較之下，SMK、T-35等重型多砲塔坦克常因故障而停駛，被視為阻礙道路交通的一大問題，甚至故障數量比被德軍擊毀者還多。
 
-隨著德軍進逼[列寧格勒](../Page/列寧格勒.md "wikilink")，基洛夫工廠遂進行撤離，而於1941年改由[車里雅賓斯克牽引車廠](../Page/車里雅賓斯克牽引車廠.md "wikilink")（Chelyabinsk
+隨著德軍進逼[列寧格勒](https://zh.wikipedia.org/wiki/列寧格勒 "wikilink")，基洛夫工廠遂進行撤離，而於1941年改由[車里雅賓斯克牽引車廠](https://zh.wikipedia.org/wiki/車里雅賓斯克牽引車廠 "wikilink")（Chelyabinsk
 Tractor
 Factory）接手生產。而撤到車里雅賓斯克的基洛夫工廠和車里雅賓斯克牽引車廠合併，再加上其他撤到該處的工業，組成一生產複合體——「坦克格勒」（Tankograd，戰車城之意），並一度為蘇聯在戰爭時期所剩下的唯一一個製造重戰車及重自走砲的生產機構。
 
-到了後期，由於裝甲的強化，重量也成為KV-1的主要缺點，雖然不斷更換離合器、新型的砲塔、較長的砲管，並將部分裝甲的焊接部份改成鑄造式，它的可靠性還是不如[中坦克](../Page/中坦克.md "wikilink")[T-34](../Page/T-34坦克.md "wikilink")，於是KV-1的生產開始被轉移，KV系列的其他坦克亦如此。同時，也因為不敵[四號坦克的強化型](../Page/四號坦克.md "wikilink")、[虎式坦克](../Page/虎式坦克.md "wikilink")、新型反坦克砲、[豹式坦克](../Page/豹式坦克.md "wikilink")，壓縮了KV-1的威脅能力，蘇軍因此開始開發新型的重型坦克——[IS-1坦克](../Page/IS系列戰車.md "wikilink")，用以取代KV系列。
+到了後期，由於裝甲的強化，重量也成為KV-1的主要缺點，雖然不斷更換離合器、新型的砲塔、較長的砲管，並將部分裝甲的焊接部份改成鑄造式，它的可靠性還是不如[中坦克](https://zh.wikipedia.org/wiki/中坦克 "wikilink")[T-34](../Page/T-34坦克.md "wikilink")，於是KV-1的生產開始被轉移，KV系列的其他坦克亦如此。同時，也因為不敵[四號坦克的強化型](../Page/四號坦克.md "wikilink")、[虎式坦克](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")、新型反坦克砲、[豹式坦克](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")，壓縮了KV-1的威脅能力，蘇軍因此開始開發新型的重型坦克——[IS-1坦克](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")，用以取代KV系列。
 
 ## 乘员
 
@@ -148,22 +148,22 @@ Factory）接手生產。而撤到車里雅賓斯克的基洛夫工廠和車里�
 <thead>
 <tr class="header">
 <th></th>
-<th><p><a href="../Page/T-35坦克.md" title="wikilink">T-35</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/T-35坦克" title="wikilink">T-35</a></p></th>
 <th><p><a href="../Page/T-100重型戰車.md" title="wikilink">T-100</a></p></th>
-<th><p><a href="../Page/SMK坦克.md" title="wikilink">SMK</a></p></th>
-<th><p><a href="../Page/KV-1.md" title="wikilink">KV-1</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/SMK坦克" title="wikilink">SMK</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/KV-1" title="wikilink">KV-1</a><br />
 1940型</p></th>
 <th><p>KV-1<br />
 1941型</p></th>
 <th><p>KV-1<br />
 1942型</p></th>
-<th><p><a href="../Page/KV-1S坦克.md" title="wikilink">KV-1S</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/KV-1S坦克" title="wikilink">KV-1S</a><br />
 1942型</p></th>
 <th><p><a href="../Page/KV-85坦克.md" title="wikilink">KV-85</a><br />
 1943型</p></th>
-<th><p><a href="../Page/IS-2.md" title="wikilink">IS-2</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/IS-2" title="wikilink">IS-2</a><br />
 1945型</p></th>
-<th><p><a href="../Page/IS-3.md" title="wikilink">IS-3</a>[1]<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/IS-3" title="wikilink">IS-3</a>[1]<br />
 1945型</p></th>
 </tr>
 </thead>
@@ -205,7 +205,7 @@ L-11</p></td>
 <td><p>76.2 mm<br />
 F-32</p></td>
 <td><p>76.2 mm<br />
-<a href="../Page/F-34坦克砲.md" title="wikilink">F-34</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/F-34坦克砲" title="wikilink">F-34</a></p></td>
 <td><p>76.2 mm<br />
 ZiS-5</p></td>
 <td><p>76.2 mm<br />
@@ -213,7 +213,7 @@ ZiS-5</p></td>
 <td><p>85 mm<br />
 D-5T</p></td>
 <td><p>122 mm<br />
-<a href="../Page/D-25T.md" title="wikilink">D-25T</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/D-25T" title="wikilink">D-25T</a></p></td>
 <td><p>122 mm<br />
 D-25T</p></td>
 </tr>
@@ -236,12 +236,12 @@ D-25T</p></td>
 5×7.62 mm機槍</p></td>
 <td><p>45 mm戰車砲</p></td>
 <td><p>45 mm戰車砲</p></td>
-<td><p>2×<a href="../Page/DT機槍.md" title="wikilink">DT</a></p></td>
+<td><p>2×<a href="https://zh.wikipedia.org/wiki/DT機槍" title="wikilink">DT</a></p></td>
 <td><p>4×DT</p></td>
 <td><p>4×DT</p></td>
 <td><p>4×DT</p></td>
 <td><p>3×DT</p></td>
-<td><p>2×DT, <a href="../Page/DShK.md" title="wikilink">DShK</a></p></td>
+<td><p>2×DT, <a href="https://zh.wikipedia.org/wiki/DShK" title="wikilink">DShK</a></p></td>
 <td><p>2×DT, DShK</p></td>
 </tr>
 <tr class="even">
@@ -391,7 +391,7 @@ V-2-IS</p></td>
 ### KV-1S-85
 
   -
-    直接把85毫米S-31炮装在[KV-1S的炮塔上的方案](../Page/KV-1S重型战车.md "wikilink")。因为性能不如装有IS-1炮塔的[KV-85坦克而停止研发](../Page/KV-85坦克.md "wikilink")，仅一辆原型车\[2\]。
+    直接把85毫米S-31炮装在[KV-1S的炮塔上的方案](https://zh.wikipedia.org/wiki/KV-1S重型战车 "wikilink")。因为性能不如装有IS-1炮塔的[KV-85坦克而停止研发](../Page/KV-85坦克.md "wikilink")，仅一辆原型车\[2\]。
 
 ### KV-122
 

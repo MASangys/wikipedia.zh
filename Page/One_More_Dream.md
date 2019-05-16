@@ -1,5 +1,5 @@
 《**One More
-Dream**》是[日本](../Page/日本.md "wikilink")[女子樂團](../Page/女子樂團.md "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")12張[單曲](../Page/單曲.md "wikilink")。2001年12月12日，在SPEED2000年解散之後第一次再結成時發行。
+Dream**》是[日本](../Page/日本.md "wikilink")[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")[SPEED的第](../Page/SPEED_\(日本音樂團體\).md "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年12月12日，在SPEED2000年解散之後第一次再結成時發行。
 
 2001年10月6日，由於為1995年[阪神大地震災區復興的慈善目的](../Page/阪神大地震.md "wikilink")，已經解散的SPEED「一夜期限」再結成，舉行慈善演唱會「」。在演唱會中演唱他們多首經典歌曲，還演繹了新歌曲《One
 More Dream》。
@@ -15,7 +15,7 @@ Love](../Page/White_Love.md "wikilink")》的新錄制版本。
 
 這張單曲也是SPEED最後一張在[TOY'S
 FACTORY發行的單曲](../Page/TOY'S_FACTORY.md "wikilink")，之後SPEED移籍到[SONIC
-GROOVE](../Page/SONIC_GROOVE.md "wikilink")。
+GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 
 ## 收錄曲目
 

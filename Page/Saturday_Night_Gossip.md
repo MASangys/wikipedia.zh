@@ -1,6 +1,6 @@
 **《Saturday Night Gossip》**是日本音樂家椎名林檎第六張黑膠唱片，由[EMI Music
-Japan](../Page/EMI音樂_\(日本\).md "wikilink")／[Virgin
-Music與DVD](../Page/維京唱片.md "wikilink")《[性治療\~第四輯\~](../Page/性治療~第四輯~.md "wikilink")》一同於2009年8月26日發行\[1\]。此張黑膠唱片僅賣出1,500張，為「完全限定生產版」。
+Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin
+Music與DVD](../Page/維京唱片.md "wikilink")《[性治療\~第四輯\~](https://zh.wikipedia.org/wiki/性治療~第四輯~ "wikilink")》一同於2009年8月26日發行\[1\]。此張黑膠唱片僅賣出1,500張，為「完全限定生產版」。
 
 ## 黑膠唱片簡介
 

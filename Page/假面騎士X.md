@@ -1,4 +1,4 @@
-《**假面骑士X**》（原文标题：仮面ライダーエックス）于1974年（昭和49年）2月16日至同年10月12日，是由[每日放送和](../Page/每日放送.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）播放，[東映制作的日本特摄英雄电视剧](../Page/東映.md "wikilink")，[假面骑士系列第三作](../Page/假面骑士系列.md "wikilink")。每逢星期六1930时至2000时播放，全35话。
+《**假面骑士X**》（原文标题：仮面ライダーエックス）于1974年（昭和49年）2月16日至同年10月12日，是由[每日放送和](../Page/每日放送.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")（當時名稱為NET電視台）播放，[東映制作的日本特摄英雄电视剧](../Page/東映.md "wikilink")，[假面骑士系列第三作](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")。每逢星期六1930时至2000时播放，全35话。
 
 ## 概要
 
@@ -85,47 +85,55 @@ of Darkness）的缩写。
 
 参考自希腊神话的人物
 
-  - ネプチューン/[涅普頓](../Page/涅普頓.md "wikilink")（Neptune）
-  - パニック/[潘](../Page/潘_\(希臘神話\).md "wikilink")（Pannic）
-  - ヘラクレス/[海格力斯](../Page/海格力斯.md "wikilink")（Hercules）
+  - ネプチューン/[涅普頓](https://zh.wikipedia.org/wiki/涅普頓 "wikilink")（Neptune）
+  - パニック/[潘](https://zh.wikipedia.org/wiki/潘_\(希臘神話\) "wikilink")（Pannic）
+  - ヘラクレス/[海格力斯](https://zh.wikipedia.org/wiki/海格力斯 "wikilink")（Hercules）
   - メドウサ/[美杜莎](../Page/美杜莎.md "wikilink")（Medusa）
-  - キクロプス/[独眼巨人](../Page/独眼巨人.md "wikilink")（Cyclops）
-  - 牛男ミノタウロス/[米洛陶洛斯](../Page/米洛陶洛斯.md "wikilink")（Oxman Minotaur）
+  - キクロプス/[独眼巨人](https://zh.wikipedia.org/wiki/独眼巨人 "wikilink")（Cyclops）
+  - 牛男ミノタウロス/[米洛陶洛斯](https://zh.wikipedia.org/wiki/米洛陶洛斯 "wikilink")（Oxman
+    Minotaur）
   - 鳥人イカルス/[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")（Birdman Icarus）
   - 鉄腕アトラス/[阿特拉斯](../Page/阿特拉斯.md "wikilink")（Strong-Armed Atlas）
-  - マッハアキレス/[阿基里斯](../Page/阿基里斯.md "wikilink")（Mach Achilles）
+  - マッハアキレス/[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")（Mach
+    Achilles）
   - 火焔プロメテス/[普罗米修斯](../Page/普罗米修斯.md "wikilink")（Flamy Prometheus）
-  - ヒュドラー/[海德拉](../Page/海德拉.md "wikilink")（Hydra）
-  - キマイラ/[奇美拉](../Page/奇美拉.md "wikilink")（Chimera）
+  - ヒュドラー/[海德拉](https://zh.wikipedia.org/wiki/海德拉 "wikilink")（Hydra）
+  - キマイラ/[奇美拉](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")（Chimera）
   - ユリシーズ/[奥德修斯](../Page/奥德修斯.md "wikilink")（Ulysses）
   - 死神クロノス/[克洛诺斯](../Page/克洛诺斯.md "wikilink")（Reaper Chronos）
   - ケルベロス/[刻耳柏洛斯](../Page/刻耳柏洛斯.md "wikilink")（Cerberus）
   - アルセイデス/[阿基米德](../Page/阿基米德.md "wikilink")（Alseides）
-  - キャッティウス/[卡狄斯](../Page/卡狄斯.md "wikilink")（Catius）
-  - オカルトス/[奧卡魯多斯](../Page/奧卡魯多斯.md "wikilink")（Okaltos）
-  - サラマンドラ/[沙罗曼达](../Page/沙罗曼达.md "wikilink")（Salamandra）
-  - アポロガイスト/[阿波羅](../Page/阿波羅.md "wikilink")（Apollo）
+  - キャッティウス/[卡狄斯](https://zh.wikipedia.org/wiki/卡狄斯 "wikilink")（Catius）
+  - オカルトス/[奧卡魯多斯](https://zh.wikipedia.org/wiki/奧卡魯多斯 "wikilink")（Okaltos）
+  - サラマンドラ/[沙罗曼达](https://zh.wikipedia.org/wiki/沙罗曼达 "wikilink")（Salamandra）
+  - アポロガイスト/[阿波羅](https://zh.wikipedia.org/wiki/阿波羅 "wikilink")（Apollo）
 
 ##### 恶人怪人
 
 参考自历史人物
 
   - ジンギスカンコンドル/[成吉思汗](../Page/成吉思汗.md "wikilink")（Ghengis-Khan Condor）
-  - ガマゴエモン/[石川五衛門](../Page/石川五衛門.md "wikilink")（Toad Goemon）
+  - ガマゴエモン/[石川五衛門](https://zh.wikipedia.org/wiki/石川五衛門 "wikilink")（Toad
+    Goemon）
   - サソリジェロニモ/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo）
   - カブト虫ルパン/[亚森·罗宾](../Page/亚森·罗宾.md "wikilink")（Rhinoceros Beetle
     Lupin）
-  - ヒトデヒットラー/[希特勒](../Page/希特勒.md "wikilink")（Starfish Hilter）
-  - クモナポレオン/[拿破仑](../Page/拿破仑.md "wikilink")（Spider Napoleon）
-  - カメレオンファントマ/[方托馬](../Page/:en:Fantômas.md "wikilink")（Chameleon
+  - ヒトデヒットラー/[希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink")（Starfish
+    Hilter）
+  - クモナポレオン/[拿破仑](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")（Spider
+    Napoleon）
+  - カメレオンファントマ/[方托馬](https://zh.wikipedia.org/wiki/:en:Fantômas "wikilink")（Chameleon
     Phantom）
   - ヒルドラキュラ/[德拉库拉](../Page/弗拉德三世.md "wikilink")（Leech Dracula）
-  - トカゲバイキング/[维京人](../Page/维京人.md "wikilink")（Lizard Viking）
-  - アリカポネ/[艾尔·卡彭](../Page/艾尔·卡彭.md "wikilink")（Ant Capone）
+  - トカゲバイキング/[维京人](https://zh.wikipedia.org/wiki/维京人 "wikilink")（Lizard
+    Viking）
+  - アリカポネ/[艾尔·卡彭](https://zh.wikipedia.org/wiki/艾尔·卡彭 "wikilink")（Ant
+    Capone）
   - ムカデヨウキヒ/[杨贵妃](../Page/杨贵妃.md "wikilink")（Centipede Yang GuiFei）
-  - タイガーネロ/[尼路](../Page/尼路.md "wikilink")（Tiger Nero）
+  - タイガーネロ/[尼路](https://zh.wikipedia.org/wiki/尼路 "wikilink")（Tiger Nero）
   - サソリジェロニモJr/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo Jr）
-  - コウモリフランケン[弗兰肯斯坦](../Page/弗兰肯斯坦.md "wikilink")（Bat Franken）
+  - コウモリフランケン[弗兰肯斯坦](https://zh.wikipedia.org/wiki/弗兰肯斯坦 "wikilink")（Bat
+    Franken）
 
 #### G.O.D.戦闘工作員
 
@@ -163,7 +171,7 @@ of Darkness）的缩写。
       - 作曲：菊池俊輔
       - 歌：水木一郎 SCS-224
 
-這首歌的[泰文版本](../Page/泰文.md "wikilink")，因為泰文發音與[粵語相似](../Page/粵語.md "wikilink")，而且歌詞聽起來猶如粵語髒話，結果成為[香港網民的笑柄](../Page/香港.md "wikilink")。
+這首歌的[泰文版本](https://zh.wikipedia.org/wiki/泰文 "wikilink")，因為泰文發音與[粵語相似](https://zh.wikipedia.org/wiki/粵語 "wikilink")，而且歌詞聽起來猶如粵語髒話，結果成為[香港網民的笑柄](../Page/香港.md "wikilink")。
 
   - **《おれはXカイゾーグ》**
       - 作词：石ノ森章太郎

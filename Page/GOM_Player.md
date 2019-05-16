@@ -1,45 +1,47 @@
-****（）是韓國的GRETECH開發的一款在[Windows平台上的免費](../Page/Windows.md "wikilink")[媒體播放器](../Page/媒體播放器.md "wikilink")。
+****（）是韓國的GRETECH開發的一款在[Windows平台上的免費](https://zh.wikipedia.org/wiki/Windows "wikilink")[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。
 
 ## 支持的视频格式
 
   - 未下載完成或損壞的AVI檔案（跳過損壞的幀）
-  - [HTTP串流](../Page/HTTP串流.md "wikilink")（ASF/OGG/MP3/AVI）
-  - [DirectShow播放](../Page/DirectShow.md "wikilink")（[AVI](../Page/Audio_Video_Interleave.md "wikilink")，[WMV](../Page/WMV.md "wikilink")，[Matroska](../Page/Matroska.md "wikilink")，[QuickTime](../Page/QuickTime.md "wikilink")，[MP4](../Page/MP4.md "wikilink")，[3GP](../Page/3GP.md "wikilink")，[Google
-    Video](../Page/Google_Video.md "wikilink")，[Flash
-    Video](../Page/Flash_Video.md "wikilink")，[VOB](../Page/VOB.md "wikilink")，[Ogg](../Page/Ogg.md "wikilink")，[OGM](../Page/OGM.md "wikilink")，[RMVB](../Page/RMVB.md "wikilink")，[MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")）
+  - [HTTP串流](https://zh.wikipedia.org/wiki/HTTP串流 "wikilink")（ASF/OGG/MP3/AVI）
+  - [DirectShow播放](../Page/DirectShow.md "wikilink")（[AVI](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")，[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")，[Matroska](../Page/Matroska.md "wikilink")，[QuickTime](../Page/QuickTime.md "wikilink")，[MP4](../Page/MP4.md "wikilink")，[3GP](https://zh.wikipedia.org/wiki/3GP "wikilink")，[Google
+    Video](https://zh.wikipedia.org/wiki/Google_Video "wikilink")，[Flash
+    Video](../Page/Flash_Video.md "wikilink")，[VOB](https://zh.wikipedia.org/wiki/VOB "wikilink")，[Ogg](../Page/Ogg.md "wikilink")，[OGM](https://zh.wikipedia.org/wiki/OGM "wikilink")，[RMVB](../Page/RMVB.md "wikilink")，[MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")）
   - RealMedia檔案（需要[Real
     Alternative](../Page/Real_Alternative.md "wikilink")）
   - QuickTime檔案（需要[QuickTime
     Alternative](../Page/QuickTime_Alternative.md "wikilink")）
-  - [DVD播放](../Page/DVD.md "wikilink")（需要MPEG-2編解碼器）
+  - [DVD播放](https://zh.wikipedia.org/wiki/DVD "wikilink")（需要MPEG-2編解碼器）
   - [Audio
-    CD](../Page/Red_Book_\(audio_CD_standard\).md "wikilink")（只有2000,
+    CD](https://zh.wikipedia.org/wiki/Red_Book_\(audio_CD_standard\) "wikilink")（只有2000,
     XP）
   - [Video
-    CD](../Page/Video_CD.md "wikilink")/[SVCD](../Page/SVCD.md "wikilink")/[XCD](http://xcd.sourceforge.net/)
+    CD](https://zh.wikipedia.org/wiki/Video_CD "wikilink")/[SVCD](../Page/SVCD.md "wikilink")/[XCD](http://xcd.sourceforge.net/)
 
 ## 音/视频格式
 
   - 视频格式：[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-4 Part
-    2](../Page/MPEG-4_Part_2.md "wikilink")、[H.263(+)](../Page/H.263.md "wikilink")、[H.264
+    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")、[H.263(+)](../Page/H.263.md "wikilink")、[H.264
     (MPEG-4
-    AVC)](../Page/H.264/MPEG-4_AVC.md "wikilink")、[MSVIDC](../Page/Video1.md "wikilink")、[MS
-    MPEG4 V1/2/3](../Page/MS_MPEG4_V1/2/3.md "wikilink")、[Flash
-    Video](../Page/Flash_Video.md "wikilink")、[MJPEG](../Page/MJPEG.md "wikilink")。
-  - 音频格式：[Vorbis](../Page/Vorbis.md "wikilink")、[AMR](../Page/Adaptive_Multi-Rate.md "wikilink")、[QCELP](../Page/QCELP.md "wikilink")、[EVRC](../Page/EVRC.md "wikilink")、[MP3](../Page/MP3.md "wikilink")。
+    AVC)](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")、[MSVIDC](https://zh.wikipedia.org/wiki/Video1 "wikilink")、[MS
+    MPEG4
+    V1/2/3](https://zh.wikipedia.org/wiki/MS_MPEG4_V1/2/3 "wikilink")、[Flash
+    Video](../Page/Flash_Video.md "wikilink")、[MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")。
+  - 音频格式：[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")、[AMR](https://zh.wikipedia.org/wiki/Adaptive_Multi-Rate "wikilink")、[QCELP](https://zh.wikipedia.org/wiki/QCELP "wikilink")、[EVRC](https://zh.wikipedia.org/wiki/EVRC "wikilink")、[MP3](../Page/MP3.md "wikilink")。
 
 ## 字幕格式
 
-  - [Unicode](../Page/Unicode.md "wikilink") Text Subtitles
-  - [SAMI（smi）](../Page/SAMI.md "wikilink")
-  - [SubRipText（srt）](../Page/SubRip.md "wikilink")，[MicroDVD（sub）](../Page/MicroDVD.md "wikilink")，[SMIL/RealText](../Page/Synchronized_Multimedia_Integration_Language.md "wikilink")
+  - [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") Text
+    Subtitles
+  - [SAMI（smi）](https://zh.wikipedia.org/wiki/SAMI "wikilink")
+  - [SubRipText（srt）](https://zh.wikipedia.org/wiki/SubRip "wikilink")，[MicroDVD（sub）](https://zh.wikipedia.org/wiki/MicroDVD "wikilink")，[SMIL/RealText](https://zh.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language "wikilink")
   - [SubStation
     Alpha（ssa）](../Page/SubStation_Alpha.md "wikilink")，[Advanced
     SubStation
-    Alpha（ass）](../Page/SubStation_Alpha#Advanced_SubStation_Alpha.md "wikilink")
-  - [VOBsub（sub/idx）](../Page/VSFilter.md "wikilink")
+    Alpha（ass）](https://zh.wikipedia.org/wiki/SubStation_Alpha#Advanced_SubStation_Alpha "wikilink")
+  - [VOBsub（sub/idx）](https://zh.wikipedia.org/wiki/VSFilter "wikilink")
   - Embedded subtitles of
-    [ASF](../Page/Advanced_Systems_Format.md "wikilink")，[MKV](../Page/Matroska.md "wikilink")，[OGM](../Page/Ogg_Media.md "wikilink")
+    [ASF](https://zh.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")，[MKV](../Page/Matroska.md "wikilink")，[OGM](https://zh.wikipedia.org/wiki/Ogg_Media "wikilink")
 
 ## 外部連結
 

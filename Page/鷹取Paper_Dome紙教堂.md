@@ -1,19 +1,19 @@
 [紙教堂.png](https://zh.wikipedia.org/wiki/File:紙教堂.png "fig:紙教堂.png")
 **Paper
-Dome**（，），是[日本建築師](../Page/日本.md "wikilink")[坂茂以紙管為建材所設計的一棟](../Page/坂茂.md "wikilink")[教堂](../Page/教堂.md "wikilink")，原為了[阪神大地震而失去教堂的](../Page/阪神大地震.md "wikilink")[天主教大阪總教區](../Page/天主教大阪總教區.md "wikilink")**鷹取教會**（）而設計。之後成為[神戶市在地震後社區重建重要的精神指標](../Page/神戶市.md "wikilink")。2005年，遷到[台灣](../Page/台灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")[新故鄉見學園區重建](../Page/新故鄉見學園區.md "wikilink")，並於2014年榮獲[普立茲克建築獎](../Page/普立茲克建築獎.md "wikilink")。
+Dome**（，），是[日本建築師](../Page/日本.md "wikilink")[坂茂以紙管為建材所設計的一棟](https://zh.wikipedia.org/wiki/坂茂 "wikilink")[教堂](../Page/教堂.md "wikilink")，原為了[阪神大地震而失去教堂的](../Page/阪神大地震.md "wikilink")[天主教大阪總教區](../Page/天主教大阪總教區.md "wikilink")**鷹取教會**（）而設計。之後成為[神戶市在地震後社區重建重要的精神指標](https://zh.wikipedia.org/wiki/神戶市 "wikilink")。2005年，遷到[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[南投縣](../Page/南投縣.md "wikilink")[埔里鎮](../Page/埔里鎮.md "wikilink")[新故鄉見學園區重建](https://zh.wikipedia.org/wiki/新故鄉見學園區 "wikilink")，並於2014年榮獲[普立茲克建築獎](https://zh.wikipedia.org/wiki/普立茲克建築獎 "wikilink")。
 
 ## 簡史
 
 [Takatori_Catholic_Church.JPG](https://zh.wikipedia.org/wiki/File:Takatori_Catholic_Church.JPG "fig:Takatori_Catholic_Church.JPG")
-鷹取教會創於1927年的[日本](../Page/日本.md "wikilink")[神戶市](../Page/神戶市.md "wikilink")[長田區](../Page/長田區.md "wikilink")，原先第一代的教堂在1929年落成，距離[神戶市](../Page/神戶市.md "wikilink")[鷹取站約](../Page/鷹取站.md "wikilink")15分鐘步行距離。
+鷹取教會創於1927年的[日本](../Page/日本.md "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[長田區](../Page/長田區.md "wikilink")，原先第一代的教堂在1929年落成，距離[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[鷹取站約](https://zh.wikipedia.org/wiki/鷹取站 "wikilink")15分鐘步行距離。
 
 [Paper_Dome,_Puli_(Taiwan).jpg](https://zh.wikipedia.org/wiki/File:Paper_Dome,_Puli_\(Taiwan\).jpg "fig:Paper_Dome,_Puli_(Taiwan).jpg")新故鄉貝學園區内的紙教堂\]\]
-在1995年1月17日[阪神大地震中](../Page/阪神大地震.md "wikilink")，教堂建築遭震毀。同年9月17日，一位以[紙管設計聞名國際的日本建築設計師](../Page/紙管設計.md "wikilink")[坂茂義務提供設計](../Page/坂茂.md "wikilink")，隨後以紙管為結構的鷹取教會臨時集會所落成，這個臨時集會所又稱為Paper
+在1995年1月17日[阪神大地震中](../Page/阪神大地震.md "wikilink")，教堂建築遭震毀。同年9月17日，一位以[紙管設計聞名國際的日本建築設計師](https://zh.wikipedia.org/wiki/紙管設計 "wikilink")[坂茂義務提供設計](https://zh.wikipedia.org/wiki/坂茂 "wikilink")，隨後以紙管為結構的鷹取教會臨時集會所落成，這個臨時集會所又稱為Paper
 Dome。
 
 為了重建新教堂，Paper
 Dome教堂於2005年進行拆卸作業，並於當年捐贈給1999年被[921大地震重創的](../Page/921大地震.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[南投縣](../Page/南投縣.md "wikilink")。Paper
-Dome教堂於2006年在[埔里鎮](../Page/埔里鎮.md "wikilink")[桃米社區重建](../Page/桃米社區.md "wikilink")。
+Dome教堂於2006年在[埔里鎮](../Page/埔里鎮.md "wikilink")[桃米社區重建](https://zh.wikipedia.org/wiki/桃米社區 "wikilink")。
 
 ## 外部链接
 

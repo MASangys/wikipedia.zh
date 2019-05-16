@@ -1,16 +1,16 @@
 **4shred Desktop**\[1\]\[2\]\[3\]
 是由[4shared针对](../Page/4shared.md "wikilink")[Microsoft
-Windows操作系统开发的一款免费软件](../Page/Microsoft_Windows.md "wikilink")([freeware](../Page/freeware.md "wikilink"))下载/上载管理器。该软件的主要用于迅速访问
+Windows操作系统开发的一款免费软件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")([freeware](https://zh.wikipedia.org/wiki/freeware "wikilink"))下载/上载管理器。该软件的主要用于迅速访问
 4shared 帐户和管理服务用户的文件。
 
 ## 功能
 
-  - 支持 [proxy](../Page/proxy.md "wikilink")。
-  - 用户友好的 [GUI](../Page/GUI.md "wikilink")。
+  - 支持 [proxy](https://zh.wikipedia.org/wiki/proxy "wikilink")。
+  - 用户友好的 [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。
   - 免费添加。
   - 恢复中断的下载/上载。
-  - 支持拖放([Drag\&drop](../Page/Drag&drop.md "wikilink"))。
-  - [PC与](../Page/PC.md "wikilink")[4shared帐户间](../Page/4shared.md "wikilink")[同步](../Page/同步.md "wikilink")\[4\]（目前在测试模式下工作）。
+  - 支持拖放([Drag\&drop](https://zh.wikipedia.org/wiki/Drag&drop "wikilink"))。
+  - [PC与](../Page/PC.md "wikilink")[4shared帐户间](../Page/4shared.md "wikilink")[同步](https://zh.wikipedia.org/wiki/同步 "wikilink")\[4\]（目前在测试模式下工作）。
   - 有空间指示器。
   - 有内部搜索功能。
   - 文件可以用密码保护。
@@ -33,11 +33,12 @@ Windows操作系统开发的一款免费软件](../Page/Microsoft_Windows.md "wi
 
 ## 另请参阅 also
 
-  - [下载管理器列表](../Page/下载管理器列表.md "wikilink")
-  - [下载管理器比较](../Page/下载管理器比较.md "wikilink")
+  - [下载管理器列表](https://zh.wikipedia.org/wiki/下载管理器列表 "wikilink")
+  - [下载管理器比较](https://zh.wikipedia.org/wiki/下载管理器比较 "wikilink")
   - [Internet Download
-    Accelerator](../Page/Internet_Download_Accelerator.md "wikilink")
-  - [Download Master](../Page/Download_Master.md "wikilink")
+    Accelerator](https://zh.wikipedia.org/wiki/Internet_Download_Accelerator "wikilink")
+  - [Download
+    Master](https://zh.wikipedia.org/wiki/Download_Master "wikilink")
 
 ## 参考资料
 

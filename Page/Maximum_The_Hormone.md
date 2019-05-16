@@ -1,5 +1,5 @@
 **Maximum The
-Hormone**（，意指**极限荷尔蒙**）是一个来自日本东京[八王子市的新金属](../Page/八王子市.md "wikilink")，金属核乐队。有關队名的由来，原先說法是“想要做出能令人脑内分泌出最大级（maximum）的[荷尔蒙](../Page/荷尔蒙.md "wikilink")（hormone）的音乐”後來又改為是“團員們都很喜歡吃燒肉的內臟（Hormone），之後在前面加上自以為帥氣的冠詞（Maximum）”。
+Hormone**（，意指**极限荷尔蒙**）是一个来自日本东京[八王子市的新金属](../Page/八王子市.md "wikilink")，金属核乐队。有關队名的由来，原先說法是“想要做出能令人脑内分泌出最大级（maximum）的[荷尔蒙](https://zh.wikipedia.org/wiki/荷尔蒙 "wikilink")（hormone）的音乐”後來又改為是“團員們都很喜歡吃燒肉的內臟（Hormone），之後在前面加上自以為帥氣的冠詞（Maximum）”。
 
 ## 历史
 
@@ -7,7 +7,7 @@ Hormone**（，意指**极限荷尔蒙**）是一个来自日本东京[八王子
 
 Maximum The
 Hormone最初是由ダイスケはん（Daisuke）和ナヲ（Nao）组成，并包括了Sugi和Key这两名旧成员。乐队与日本摇滚[Sky
-record公司签约](../Page/Sky_record.md "wikilink")，并推出了他们的第一步专辑A.S.A.
+record公司签约](https://zh.wikipedia.org/wiki/Sky_record "wikilink")，并推出了他们的第一步专辑A.S.A.
 Crew。但Sugi和Key在1999年离开了乐队。
 当他们寻找新的乐队成员时，ナヲ找到了他的弟弟——マキシマムザ亮君曾在高中玩过吉他，并且唱的也不错。就这样，队里的两个男孩就担任起乐队主唱的任务：ダイスケはん主唱高音硬核和Rap部分，而マキシマムザ亮君则唱主旋律部分。同时，上ちゃん（贝斯手）也加入了乐队。乐队决定用片假名写歌词并且把乐队名字转换成片假名以表示主成员的更换，之后他们推出了第一部EP：鳳（Hō）
 
@@ -43,7 +43,7 @@ Deco在2008年开始时制作完成。单曲：“爪爪爪”便马上宣布推
   - マキシマムザ亮君（本名:川北 亮）- [电吉他](../Page/电吉他.md "wikilink") 唱旋律
   - ダイスケはん（本名:津田 大輔) - 主唱
   - ナヲ(本名:熊本 奈緒 舊姓:川北) - [鼓](../Page/鼓.md "wikilink")
-  - 上ちゃん(本名:上原 太) - [贝斯](../Page/贝斯.md "wikilink")
+  - 上ちゃん(本名:上原 太) - [贝斯](https://zh.wikipedia.org/wiki/贝斯 "wikilink")
 
 ## 注释
 

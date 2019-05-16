@@ -2,7 +2,7 @@
 GiRL-AND**》，為《[銀河戰警](../Page/銀河戰警.md "wikilink")》的續篇，於2009年10月至2010年3月在日本播放，全24話。
 
 2009年2月，後藤監督在其部落格進一步宣布，續作定名為，而之前的「*[Kiddy Grade
-2](../Page/銀河戰警#Kiddy_Grade_2.md "wikilink")*」則被定位為暫定內容\[1\]。此時動畫製作改由SATELIGHT負責，基本上跟「*Kiddy
+2](https://zh.wikipedia.org/wiki/銀河戰警#Kiddy_Grade_2 "wikilink")*」則被定位為暫定內容\[1\]。此時動畫製作改由SATELIGHT負責，基本上跟「*Kiddy
 Grade 2*」架構無多大差異，但修改了一些設定。
 
 ## 故事簡介
@@ -21,7 +21,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
   -
     名字取自法語「」（紅心Ace），口頭禪是「」。粉紅色短髮的ES
     Member見習生，活潑可愛的少女。擁有短距離[瞬間移動的能力](../Page/瞬間移動.md "wikilink")「Push
-    Pull」，能力C級。武器是[櫛劍](../Page/櫛.md "wikilink")。平時在GTO所屬咖啡室當服務生。很喜歡[南瓜](../Page/南瓜.md "wikilink")[布丁](../Page/布丁.md "wikilink")。實際上，擁有[瞬間移動](../Page/瞬間移動.md "wikilink")、干涉[空間的能力](../Page/空間.md "wikilink")。本為的妹妹。在死後獲得其能力，是眾多ES
+    Pull」，能力C級。武器是[櫛劍](https://zh.wikipedia.org/wiki/櫛 "wikilink")。平時在GTO所屬咖啡室當服務生。很喜歡[南瓜](../Page/南瓜.md "wikilink")[布丁](../Page/布丁.md "wikilink")。實際上，擁有[瞬間移動](../Page/瞬間移動.md "wikilink")、干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")。本為的妹妹。在死後獲得其能力，是眾多ES
     Member中最強的一個。
 
 <!-- end list -->
@@ -32,10 +32,10 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 
   -
     名字取自法語「Quatre
-    Feuille」（[四葉草](../Page/四葉草.md "wikilink")）。[靛色長髮的ES](../Page/靛.md "wikilink")
-    Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知事物的能力](../Page/預知.md "wikilink")「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](../Page/時間.md "wikilink")。
+    Feuille」（[四葉草](../Page/四葉草.md "wikilink")）。[靛色長髮的ES](https://zh.wikipedia.org/wiki/靛 "wikilink")
+    Member見習生，面冷心熱、像好學生一樣細心的少女。擁有[預知事物的能力](../Page/預知.md "wikilink")「Parfum」（法語：[香水](../Page/香水.md "wikilink")），能力C級。武器是特製巧克力球。平時在GTO所屬咖啡室當服務生。實際上，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
-****（Di-air）　聲：[高橋夢波](../Page/高橋夢波.md "wikilink")
+****（Di-air）　聲：[高橋夢波](https://zh.wikipedia.org/wiki/高橋夢波 "wikilink")
 
   - 年齡：7歲
 
@@ -43,7 +43,7 @@ Organisation，簡稱GTO）繼承業務\[2\]，描寫GTO轄下見習搭檔愛絲
 
   -
     金色長髮的ES
-    Member小見習生，由愛絲庫爾和克·菲優負責照顧。特殊能力「A-quare」，可暫時增幅他人的特殊能力。實際上，繼承了GOTT前局長****的G級能力，可以干涉[空間](../Page/空間.md "wikilink")、[時間](../Page/時間.md "wikilink")。
+    Member小見習生，由愛絲庫爾和克·菲優負責照顧。特殊能力「A-quare」，可暫時增幅他人的特殊能力。實際上，繼承了GOTT前局長****的G級能力，可以干涉[空間](https://zh.wikipedia.org/wiki/空間 "wikilink")、[時間](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
 ****（Trial-type of Assenble-system & Multipurpose
 Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
@@ -54,18 +54,18 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <!-- end list -->
 
   -
-    名字在法語的意思是「冬天」。溫柔剛毅的GTO本局局長。本為**[美露克洛蒂](../Page/銀河戰警#登場人物.md "wikilink")**，即GOTT局長Eclipse的第一個秘書。在25年前時間凍結空間事件後，為了慎防敵人再次來襲，故與**[阿姆布拉斯多](../Page/銀河戰警#登場人物.md "wikilink")**改頭換面，隱姓埋名。
+    名字在法語的意思是「冬天」。溫柔剛毅的GTO本局局長。本為**[美露克洛蒂](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")**，即GOTT局長Eclipse的第一個秘書。在25年前時間凍結空間事件後，為了慎防敵人再次來襲，故與**[阿姆布拉斯多](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")**改頭換面，隱姓埋名。
 
 <!-- end list -->
 
   -
-    名字在德語的意思是「夏天」。GTO本局局長的秘書。本為**[阿姆布拉斯多](../Page/銀河戰警#登場人物.md "wikilink")**，即[艾克蕾爾和](../Page/銀河戰警#登場人物.md "wikilink")[琉美艾爾的監察官](../Page/銀河戰警#登場人物.md "wikilink")。在25年前時間凍結空間事件中失去記憶。
+    名字在德語的意思是「夏天」。GTO本局局長的秘書。本為**[阿姆布拉斯多](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")**，即[艾克蕾爾和](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")[琉美艾爾的監察官](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")。在25年前時間凍結空間事件中失去記憶。
 
 <!-- end list -->
 
   -
     ES
-    Member，有時會不經意出現口頭禪\[3\]，擁有干涉[空間的能力](../Page/空間.md "wikilink")「Power-S」，能力G級，也是愛絲庫爾的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
+    Member，有時會不經意出現口頭禪\[3\]，擁有干涉[空間的能力](https://zh.wikipedia.org/wiki/空間 "wikilink")「Power-S」，能力G級，也是愛絲庫爾的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
     third hope girl Trixie III
     Eclair」，25年前時間凍結事件之際由前GOTT局長艾克莉普絲利用特殊能力「Quant」複製艾克蕾爾等之第三代前兩代為「Uniear」
     及「 Duerry」。
@@ -74,29 +74,33 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
   -
     ES
-    Member，有時會不經意出現座右銘\[4\]，擁有干涉[時間的能力](../Page/時間.md "wikilink")「Particle-T」，能力G級；跟庫·菲兒同樣喜好動畫人物，也是庫·菲兒的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
+    Member，有時會不經意出現座右銘\[4\]，擁有干涉[時間的能力](https://zh.wikipedia.org/wiki/時間 "wikilink")「Particle-T」，能力G級；跟庫·菲兒同樣喜好動畫人物，也是庫·菲兒的偶像。在GTO的25周年慶典中被所殺。墓碑上刻著「Our
     third shinning girl Troisienne III Lumiere」，複製琉美艾爾之第三代，前兩代為「Uni-ace」
     及「 Dionie」。
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy Grade](../Page/銀河戰警#登場人物.md "wikilink")
+    ES Member，参照[Kiddy
+    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy Grade](../Page/銀河戰警#登場人物.md "wikilink")
+    ES Member，参照[Kiddy
+    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy Grade](../Page/銀河戰警#登場人物.md "wikilink")
+    ES Member，参照[Kiddy
+    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 <!-- end list -->
 
   -
-    ES Member，参照[Kiddy Grade](../Page/銀河戰警#登場人物.md "wikilink")
+    ES Member，参照[Kiddy
+    Grade](https://zh.wikipedia.org/wiki/銀河戰警#登場人物 "wikilink")
 
 
 
@@ -106,7 +110,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ### G-Society
 
   -
-    與銀河系貿易監視機關（GTO）對立的[恐怖組織](../Page/恐怖組織.md "wikilink")\[5\]，矢志復興貴族以往的權力與光榮，擁有實力堅強的[幹部](../Page/幹部.md "wikilink")「Shadow
+    與銀河系貿易監視機關（GTO）對立的[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")\[5\]，矢志復興貴族以往的權力與光榮，擁有實力堅強的[幹部](https://zh.wikipedia.org/wiki/幹部 "wikilink")「Shadow
     Worker」。
 
 ****（Geacht'er）　聲：[日野聰](../Page/日野聰.md "wikilink")
@@ -118,7 +122,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
   -
     Shadow
-    Worker，[稱謂公主](../Page/稱謂.md "wikilink")，口癖是「○倍○○」（例：10倍無聊），「Crazy
+    Worker，[稱謂公主](https://zh.wikipedia.org/wiki/稱謂 "wikilink")，口癖是「○倍○○」（例：10倍無聊），「Crazy
     cracker」的持有者，過激態力場操縱自如。
 
 ****（Pauki）　聲：[松元惠](../Page/松元惠.md "wikilink")
@@ -152,7 +156,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 ## 用語
 
   -
-    参照[Kiddy Grade](../Page/銀河戰警#用語.md "wikilink")
+    参照[Kiddy Grade](https://zh.wikipedia.org/wiki/銀河戰警#用語 "wikilink")
   -
     G-Society所屬異能幹部。
 
@@ -200,7 +204,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <!-- end list -->
 
   -
-    作詞：[yozuca\*](../Page/yozuca*.md "wikilink")／作曲：rino／編曲：安瀨聖／歌：愛絲庫爾（内田彩）
+    作詞：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")／作曲：rino／編曲：安瀨聖／歌：愛絲庫爾（内田彩）
 
 <!-- end list -->
 
@@ -251,17 +255,17 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 
 ### 播放電視台
 
-| 電視台                                        | 播映期間                     | 播映時間                                | 所屬聯播網                                        |
-| ------------------------------------------ | ------------------------ | ----------------------------------- | -------------------------------------------- |
-| [SUN電視台](../Page/SUN電視台.md "wikilink")     | 2009年10月15日 - 2010年3月25日 | 週四24時40分 - 25時10分                   | [獨立UHF系](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [埼玉電視台](../Page/埼玉電視台.md "wikilink")       | 週四25時00分 - 25時30分        |                                     |                                              |
-| [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2009年10月16日 - 2010年3月26日 | 週五26時30分 - 27時00分                   |                                              |
-| [神奈川電視台](../Page/神奈川電視台.md "wikilink")     | 週五27時15分 - 27時45分        |                                     |                                              |
-| [京都放送](../Page/京都放送.md "wikilink")         | 2009年10月20日 - 2010年3月30日 | 週二25時00分 - 25時30分                   |                                              |
-| [千葉電視台](../Page/千葉電視台.md "wikilink")       | 週二26時00分 - 26時30分        |                                     |                                              |
-| [廣島電視台](../Page/廣島電視台.md "wikilink")       | 週二25時34分 - 26時04分        | [日本電視台系](../Page/NNS.md "wikilink") |                                              |
-| [中京電視台](../Page/中京電視台.md "wikilink")       | 週二27時12分 - 27時42分        |                                     |                                              |
-| [仙台放送](../Page/仙台放送.md "wikilink")         | 週二26時08分 - 26時38分        | [富士電視台系](../Page/FNS.md "wikilink") |                                              |
+| 電視台                                                           | 播映期間                     | 播映時間                                                   | 所屬聯播網                                                           |
+| ------------------------------------------------------------- | ------------------------ | ------------------------------------------------------ | --------------------------------------------------------------- |
+| [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 2009年10月15日 - 2010年3月25日 | 週四24時40分 - 25時10分                                      | [獨立UHF系](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [埼玉電視台](../Page/埼玉電視台.md "wikilink")                          | 週四25時00分 - 25時30分        |                                                        |                                                                 |
+| [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2009年10月16日 - 2010年3月26日 | 週五26時30分 - 27時00分                                      |                                                                 |
+| [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        | 週五27時15分 - 27時45分        |                                                        |                                                                 |
+| [京都放送](../Page/京都放送.md "wikilink")                            | 2009年10月20日 - 2010年3月30日 | 週二25時00分 - 25時30分                                      |                                                                 |
+| [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | 週二26時00分 - 26時30分        |                                                        |                                                                 |
+| [廣島電視台](https://zh.wikipedia.org/wiki/廣島電視台 "wikilink")       | 週二25時34分 - 26時04分        | [日本電視台系](https://zh.wikipedia.org/wiki/NNS "wikilink") |                                                                 |
+| [中京電視台](../Page/中京電視台.md "wikilink")                          | 週二27時12分 - 27時42分        |                                                        |                                                                 |
+| [仙台放送](https://zh.wikipedia.org/wiki/仙台放送 "wikilink")         | 週二26時08分 - 26時38分        | [富士電視台系](https://zh.wikipedia.org/wiki/FNS "wikilink") |                                                                 |
 
 ### 各話標題
 
@@ -297,7 +301,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <td><p>3</p></td>
 <td></td>
 <td><p>酒井和男</p></td>
-<td><p><a href="../Page/堀內修.md" title="wikilink">堀內修</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堀內修" title="wikilink">堀內修</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -369,7 +373,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <tr class="even">
 <td><p>11</p></td>
 <td></td>
-<td><p><a href="../Page/林宏樹.md" title="wikilink">林宏樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林宏樹" title="wikilink">林宏樹</a></p></td>
 <td><p>牧野龍一</p></td>
 <td></td>
 <td></td>
@@ -385,7 +389,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <tr class="even">
 <td><p>13</p></td>
 <td></td>
-<td><p><a href="../Page/今掛勇.md" title="wikilink">今掛勇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今掛勇" title="wikilink">今掛勇</a></p></td>
 <td><p>間島崇寬</p></td>
 <td><p>小倉典子</p></td>
 <td></td>
@@ -505,7 +509,7 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -538,7 +542,8 @@ Automata，T.A.M.A）　聲：[若本規夫](../Page/若本規夫.md "wikilink")
 1.  [](http://blog.goo.ne.jp/gocky_01/e/b5c0b64be4e610c4115727182f70b995)
 
 
-2.  KIDDY GiRL-AND，[月刊Newtype](../Page/月刊Newtype.md "wikilink")
+2.  KIDDY
+    GiRL-AND，[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")
     2009年10月號。
 
 3.  漫畫。

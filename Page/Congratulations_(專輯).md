@@ -1,31 +1,31 @@
-***Congratulations***（中譯：可喜可賀）是美國樂團[MGMT的第二張專輯](../Page/MGMT.md "wikilink")，\[1\]
+***Congratulations***（中譯：可喜可賀）是美國樂團[MGMT的第二張專輯](https://zh.wikipedia.org/wiki/MGMT "wikilink")，\[1\]
 2010年4月13日於北美發行。\[2\]
 
 ## 創作歷程
 
-MGMT早於2009年初便開始為這張專輯作曲。兩人最終前往[馬利布和前](../Page/马利布_\(加利福尼亚州\).md "wikilink")[Spacemen
-3團員](../Page/Spacemen_3.md "wikilink")[Pete
-Kember一同進行錄音工作](../Page/Pete_Kember.md "wikilink")，此外合作對象還有[Royal
-Trux](../Page/Royal_Trux.md "wikilink") 及歌手[Jennifer
-Herrema](../Page/Jennifer_Herrema.md "wikilink")。\[3\]
+MGMT早於2009年初便開始為這張專輯作曲。兩人最終前往[馬利布和前](https://zh.wikipedia.org/wiki/马利布_\(加利福尼亚州\) "wikilink")[Spacemen
+3團員](https://zh.wikipedia.org/wiki/Spacemen_3 "wikilink")[Pete
+Kember一同進行錄音工作](https://zh.wikipedia.org/wiki/Pete_Kember "wikilink")，此外合作對象還有[Royal
+Trux](https://zh.wikipedia.org/wiki/Royal_Trux "wikilink") 及歌手[Jennifer
+Herrema](https://zh.wikipedia.org/wiki/Jennifer_Herrema "wikilink")。\[3\]
 VanWyngarden提到:「這是我們試圖回應上一張專輯發行後所產生的衝擊效應，有些事並非想像中簡單。」首張專輯*[Oracular
-Spectacular](../Page/Oracular_Spectacular.md "wikilink")*發行後該團知名度大幅提高，連帶影響了這張專輯的產生。\[4\]
+Spectacular](https://zh.wikipedia.org/wiki/Oracular_Spectacular "wikilink")*發行後該團知名度大幅提高，連帶影響了這張專輯的產生。\[4\]
 
-據傳[保羅·麥卡尼曾有意與該團一同合作](../Page/保羅·麥卡尼.md "wikilink")，並希望「\[與他們\]一起寫一些舞曲風格的音樂。」\[5\]
+據傳[保羅·麥卡尼曾有意與該團一同合作](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")，並希望「\[與他們\]一起寫一些舞曲風格的音樂。」\[5\]
 
 2010年1月12日，主唱Andrew Van Wyngarden在與*[Spin
-Magazine](../Page/Spin_Magazine.md "wikilink")*專訪中提到專輯已經完成，並說「
+Magazine](https://zh.wikipedia.org/wiki/Spin_Magazine "wikilink")*專訪中提到專輯已經完成，並說「
 專輯已經混過音了，目前正等著上架前最後的流程。」\[6\]
 
 同年1月18日，MGMT提到他們並不希望針對此專輯格外發行任何單曲。\[7\]
-在與《[新音樂快遞](../Page/新音樂快遞.md "wikilink")》的專訪中，兩人提到了這張專輯的概念，他們認為這張專輯是一個一體性的產物而非一張主打單曲的集大成。Goldwasser說:「我們希望歌迷能親自聽完整張專輯後找到他們喜歡的歌曲，而非一味地盲從於收音機連環播放的主打歌－前提是如果有任何電臺願意播的話！」他又解釋道:「在這張專輯裡，不會有像'[Time
+在與《[新音樂快遞](https://zh.wikipedia.org/wiki/新音樂快遞 "wikilink")》的專訪中，兩人提到了這張專輯的概念，他們認為這張專輯是一個一體性的產物而非一張主打單曲的集大成。Goldwasser說:「我們希望歌迷能親自聽完整張專輯後找到他們喜歡的歌曲，而非一味地盲從於收音機連環播放的主打歌－前提是如果有任何電臺願意播的話！」他又解釋道:「在這張專輯裡，不會有像'[Time
 to
-Pretend](../Page/Time_to_Pretend.md "wikilink")'或'[Kids](../Page/Kids_\(MGMT_song\).md "wikilink")'那樣的主打歌存在。我們討論了很久，希望歌迷能依序聽完整張專輯，而非僅僅上網下載專輯裡前3名熱門主打歌，其餘的一律充耳不聞。」\[8\]
+Pretend](https://zh.wikipedia.org/wiki/Time_to_Pretend "wikilink")'或'[Kids](https://zh.wikipedia.org/wiki/Kids_\(MGMT_song\) "wikilink")'那樣的主打歌存在。我們討論了很久，希望歌迷能依序聽完整張專輯，而非僅僅上網下載專輯裡前3名熱門主打歌，其餘的一律充耳不聞。」\[8\]
 
 2010年2月5日，該團的官方網站上出現了一個倒數計時的時鐘程式，最終於2010年4月13日倒數停止，預示了該專輯上市的時間表。\[9\]
 
 2010年3月9日，MGMT提供了專輯收錄歌曲"[Flash
-Delirium](../Page/Flash_Delirium.md "wikilink")"作為免費下載。\[10\]
+Delirium](https://zh.wikipedia.org/wiki/Flash_Delirium "wikilink")"作為免費下載。\[10\]
 
 2010年3月20日，MGMT在官方網站上提供了專輯全數曲目作為串流試聽用，並加註:「我們其實希望能讓大家免費下載整張專輯，但\[除了我們自己\]沒有人贊同這個點子。」\[11\]
 
@@ -39,16 +39,16 @@ Delirium](../Page/Flash_Delirium.md "wikilink")"作為免費下載。\[10\]
 
 ## 市場票房
 
-| 排行榜 (2010)                                                                           | 最高名次 |
-| ------------------------------------------------------------------------------------ | ---- |
-| 澳大利亞專輯排行榜                                                                            | 9    |
-| 加拿大專輯排行榜\[12\]                                                                       | 4    |
-| 丹麥專輯排行榜\[13\]                                                                        | 19   |
-| [法國專輯排行榜](../Page/Syndicat_National_de_l'Édition_Phonographique.md "wikilink")\[14\] | 7    |
-| 愛爾蘭專輯排行榜\[15\]                                                                       | 5    |
-| [英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")                                             | 4    |
-| [美國公告牌二百強專輯榜](../Page/公告牌二百強專輯榜.md "wikilink")\[16\]                                 | 2    |
-|                                                                                      |      |
+| 排行榜 (2010)                                                                                              | 最高名次 |
+| ------------------------------------------------------------------------------------------------------- | ---- |
+| 澳大利亞專輯排行榜                                                                                               | 9    |
+| 加拿大專輯排行榜\[12\]                                                                                          | 4    |
+| 丹麥專輯排行榜\[13\]                                                                                           | 19   |
+| [法國專輯排行榜](https://zh.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique "wikilink")\[14\] | 7    |
+| 愛爾蘭專輯排行榜\[15\]                                                                                          | 5    |
+| [英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")                                                                | 4    |
+| [美國公告牌二百強專輯榜](https://zh.wikipedia.org/wiki/公告牌二百強專輯榜 "wikilink")\[16\]                                 | 2    |
+|                                                                                                         |      |
 
 ## 幕後人員
 

@@ -1,15 +1,15 @@
-是於2008年成立的[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[女性](../Page/女性.md "wikilink")[音樂組合](../Page/音樂.md "wikilink")，成員為二名前[早安少女組的成員](../Page/早安少女組.md "wikilink")[吉澤瞳](../Page/吉澤瞳.md "wikilink")（Hangry）及[石川梨華](../Page/石川梨華.md "wikilink")（Angry）。組合是和一間同名的[原宿時尚商店HANGRY](../Page/原宿.md "wikilink")\&ANGRY
-Harajuku合作，以有助於銷售商店的各种产品，包括[毛绒玩具](../Page/毛绒玩具.md "wikilink")、文具和衣服等等。\[1\]
+是於2008年成立的[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[女性](../Page/女性.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")，成員為二名前[早安少女組的成員](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")[吉澤瞳](../Page/吉澤瞳.md "wikilink")（Hangry）及[石川梨華](../Page/石川梨華.md "wikilink")（Angry）。組合是和一間同名的[原宿時尚商店HANGRY](../Page/原宿.md "wikilink")\&ANGRY
+Harajuku合作，以有助於銷售商店的各种产品，包括[毛绒玩具](https://zh.wikipedia.org/wiki/毛绒玩具 "wikilink")、文具和衣服等等。\[1\]
 
 ## 概要
 
-  - 時裝設計師[h.NAOTO作為品牌人物](../Page/h.NAOTO.md "wikilink")「HANGRY\&ANGRY」的製作者及相關的協辦單位。組合的服裝也是由[h.NAOTO製作](../Page/h.NAOTO.md "wikilink")。
-  - 2008年10月，於[MySpace先行公開組合的樂曲和相片](../Page/MySpace.md "wikilink")，只用了4日就突破了10萬瀏覽次數。更於翌月達成MySpace
+  - 時裝設計師[h.NAOTO作為品牌人物](https://zh.wikipedia.org/wiki/h.NAOTO "wikilink")「HANGRY\&ANGRY」的製作者及相關的協辦單位。組合的服裝也是由[h.NAOTO製作](https://zh.wikipedia.org/wiki/h.NAOTO "wikilink")。
+  - 2008年10月，於[MySpace先行公開組合的樂曲和相片](https://zh.wikipedia.org/wiki/MySpace "wikilink")，只用了4日就突破了10萬瀏覽次數。更於翌月達成MySpace
     Japan史上最快的100萬瀏覽次數。
   - 2008年11月19日，迷你專輯「Kill Me Kiss
-    Me」於[日本](../Page/日本.md "wikilink")、[美國及](../Page/美國.md "wikilink")[南韓同時發行](../Page/南韓.md "wikilink")。
+    Me」於[日本](../Page/日本.md "wikilink")、[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[南韓同時發行](https://zh.wikipedia.org/wiki/南韓 "wikilink")。
   - 不只在[日本國內活動](../Page/日本.md "wikilink")，也在2009年4月[西雅圖舉辦的](../Page/西雅圖.md "wikilink")「Sakura-con」活動中初次於美國亮相，備受矚目。
-  - 組合的名稱有二種，於公式網頁及[博客等中被寫成](../Page/博客.md "wikilink")「HANGRY\&ANGRY」，但平時作為組合使用的標誌時則是「hANGRY\&ANGRY」。
+  - 組合的名稱有二種，於公式網頁及[博客等中被寫成](https://zh.wikipedia.org/wiki/博客 "wikilink")「HANGRY\&ANGRY」，但平時作為組合使用的標誌時則是「hANGRY\&ANGRY」。
 
 ## HANGRY\&ANGRY的原形
 
@@ -21,16 +21,16 @@ ANGRY的玩偶前往。因為這個緣故，[石川梨華在講話活動中公�
 
 ### 專輯
 
-| \#  | 名稱                                                                   | 發行日期        | 類型                                                 |
-| --- | -------------------------------------------------------------------- | ----------- | -------------------------------------------------- |
-| 0.5 | *[Kill Me Kiss Me](../Page/Kill_Me_Kiss_Me_\(album\).md "wikilink")* | 2008年11月19日 | [Mini](../Page/Mini_album.md "wikilink")           |
-| 1   | *[Sadistic Dance](../Page/Sadistic_Dance_\(album\).md "wikilink")*   | 2009年11月18日 | [Studio album](../Page/Studio_album.md "wikilink") |
+| \#  | 名稱                                                                                      | 發行日期        | 類型                                                                    |
+| --- | --------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------- |
+| 0.5 | *[Kill Me Kiss Me](https://zh.wikipedia.org/wiki/Kill_Me_Kiss_Me_\(album\) "wikilink")* | 2008年11月19日 | [Mini](https://zh.wikipedia.org/wiki/Mini_album "wikilink")           |
+| 1   | *[Sadistic Dance](https://zh.wikipedia.org/wiki/Sadistic_Dance_\(album\) "wikilink")*   | 2009年11月18日 | [Studio album](https://zh.wikipedia.org/wiki/Studio_album "wikilink") |
 
 ### 單曲
 
-| \# | 名稱                                                     | 發行日期       |
-| -- | ------------------------------------------------------ | ---------- |
-| 1  | [Sadistic Dance](../Page/Sadistic_Dance.md "wikilink") | 2009年4月11日 |
+| \# | 名稱                                                                        | 發行日期       |
+| -- | ------------------------------------------------------------------------- | ---------- |
+| 1  | [Sadistic Dance](https://zh.wikipedia.org/wiki/Sadistic_Dance "wikilink") | 2009年4月11日 |
 
 ## 相關連結
 

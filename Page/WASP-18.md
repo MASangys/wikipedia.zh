@@ -3,7 +3,7 @@
 
 它的质量是[太阳的](../Page/太阳.md "wikilink")1.25倍\[2\]。2009年8月，大角度行星搜寻计划(SuperWASP,Wide
 Angle Search for
-Planets)在它附近发现一颗[太阳系外行星](../Page/太阳系外行星.md "wikilink")[WASP-18b](../Page/WASP-18b.md "wikilink")。
+Planets)在它附近发现一颗[太阳系外行星](https://zh.wikipedia.org/wiki/太阳系外行星 "wikilink")[WASP-18b](../Page/WASP-18b.md "wikilink")。
 
 ## 参考资料
 

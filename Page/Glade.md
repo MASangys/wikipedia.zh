@@ -37,19 +37,19 @@ Glade可以用來設計GUI程式模型或雛型。
 
 程式碼骨架產生器是一種用來幫助使用者從GladeXML檔案產生原始程式碼的軟體應用程式。大部分產生器都是使用libglade和GladeXML檔案來產生GUI的程式碼。下面的表格比較了各個產生器套件的基本資訊：
 
-| 名稱                                                                                                   | 作者                                     | 語言                                    | 許可證                                                                |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------------------------------------ |
-| [eglade](http://efsa.sourceforge.net/archive/elphick/eglade.htm)                                     | Daniel Elphick                         | Eiffel                                | [Eiffel Forum License](../Page/Eiffel_Forum_License.md "wikilink") |
-| [Gladex](https://launchpad.net/gladex/)                                                              | Christopher Pax and Charles Edward Pax | Perl, Python, Ruby                    | [GPL v3](../Page/GPL_v3.md "wikilink")                             |
-| [glc](http://sourceforge.net/projects/glc/)                                                          | Bill Allen                             | Python                                | [LGPL](../Page/LGPL.md "wikilink")                                 |
-| ruby-glade-create-template                                                                           | Masao Mutoh                            | Ruby                                  |                                                                    |
-| Tepache                                                                                              | Sandino Flores Moreno                  | Python                                | [LGPL](../Page/LGPL.md "wikilink")                                 |
-| [GTK+tobac2.2.0](http://www.freebasic-portal.de/downloads/ressourcencompiler/gtktobac2-2-0-131.html) | Thomas Freiherr                        | FreeBASIC（includes GTK-2.18.6 header） | [GPL v3](../Page/GPL_v3.md "wikilink")                             |
-| [Glade2FB](http://www.galeon.exofire.net)                                                            | Arnel Borja                            | FreeBASIC                             | [GPL v3](../Page/GPL_v3.md "wikilink")                             |
+| 名稱                                                                                                   | 作者                                     | 語言                                    | 許可證                                                                                   |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------- |
+| [eglade](http://efsa.sourceforge.net/archive/elphick/eglade.htm)                                     | Daniel Elphick                         | Eiffel                                | [Eiffel Forum License](https://zh.wikipedia.org/wiki/Eiffel_Forum_License "wikilink") |
+| [Gladex](https://launchpad.net/gladex/)                                                              | Christopher Pax and Charles Edward Pax | Perl, Python, Ruby                    | [GPL v3](https://zh.wikipedia.org/wiki/GPL_v3 "wikilink")                             |
+| [glc](http://sourceforge.net/projects/glc/)                                                          | Bill Allen                             | Python                                | [LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")                                 |
+| ruby-glade-create-template                                                                           | Masao Mutoh                            | Ruby                                  |                                                                                       |
+| Tepache                                                                                              | Sandino Flores Moreno                  | Python                                | [LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")                                 |
+| [GTK+tobac2.2.0](http://www.freebasic-portal.de/downloads/ressourcencompiler/gtktobac2-2-0-131.html) | Thomas Freiherr                        | FreeBASIC（includes GTK-2.18.6 header） | [GPL v3](https://zh.wikipedia.org/wiki/GPL_v3 "wikilink")                             |
+| [Glade2FB](http://www.galeon.exofire.net)                                                            | Arnel Borja                            | FreeBASIC                             | [GPL v3](https://zh.wikipedia.org/wiki/GPL_v3 "wikilink")                             |
 
 ## 參見
 
-  - [WxGlade](../Page/WxGlade.md "wikilink")
+  - [WxGlade](https://zh.wikipedia.org/wiki/WxGlade "wikilink")
 
 ## 外部链接
 

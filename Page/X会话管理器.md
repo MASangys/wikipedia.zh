@@ -1,5 +1,5 @@
 在[X
-Window系统中](../Page/X_Window系统.md "wikilink")，**X会话管理器**是一个[会话管理程序](../Page/会话管理.md "wikilink")，这个程序能够保存和恢复一组程序的当前运行状态。
+Window系统中](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，**X会话管理器**是一个[会话管理程序](https://zh.wikipedia.org/wiki/会话管理 "wikilink")，这个程序能够保存和恢复一组程序的当前运行状态。
 
 ## 概述
 
@@ -10,14 +10,14 @@ Window系统中](../Page/X_Window系统.md "wikilink")，**X会话管理器**是
 通常，会话能在任意时刻保存或装载，即使用户没有登录或登出。保存一系列不同的会话并按用户的选择装载其中一个，这是可能的。也可以将一系列程序组合成一个会话。结果是，用户能够保存一些不同的会话，也能存储当前运行程序的状态或明确的将一些程序组合为一个会话。这样，用户可稍后决定装载某个会话。
 
 为了能让会话包括程序的状态，程序必须能在适当的时候保存和装载它当前的状态。*X 会话管理协议*
-(XSMP)指定程序与会话管理器该如何交互。特别重要的是[窗口管理器能够与会话管理器通信](../Page/窗口管理器.md "wikilink")，因为[窗口管理器对窗口的位置和最小化有管理的责任](../Page/窗口管理器.md "wikilink")。不能保存状态的程序也包括在会话中，但它们不能在会话中维持自己的状态。
+(XSMP)指定程序与会话管理器该如何交互。特别重要的是[窗口管理器能够与会话管理器通信](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")，因为[窗口管理器对窗口的位置和最小化有管理的责任](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")。不能保存状态的程序也包括在会话中，但它们不能在会话中维持自己的状态。
 
 [X
-Window系统包含了默认的会话管理器](../Page/X_Window系统.md "wikilink")，名字叫`xsm`。特定的桌面系统也开发了自己的会话管理器：例如，`ksmserver`是[KDE默认的会话管理器](../Page/KDE.md "wikilink")。
+Window系统包含了默认的会话管理器](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，名字叫`xsm`。特定的桌面系统也开发了自己的会话管理器：例如，`ksmserver`是[KDE默认的会话管理器](../Page/KDE.md "wikilink")。
 
 ## 协议
 
-XSMP是[客户间交换协议的子协议](../Page/X_Window系統的協議和架構.md "wikilink")。客户端连接到会话管理器时开始协议。如何在网络中定位会话管理器是依赖系统的：对[POSIX系统来说](../Page/POSIX.md "wikilink")，环境变量包含了一个`SESSION_MANAGER`变量。因此，当客户端开始时，`SESSION_MANAGER`变量必须是适当的值。
+XSMP是[客户间交换协议的子协议](../Page/X_Window系統的協議和架構.md "wikilink")。客户端连接到会话管理器时开始协议。如何在网络中定位会话管理器是依赖系统的：对[POSIX系统来说](https://zh.wikipedia.org/wiki/POSIX "wikilink")，环境变量包含了一个`SESSION_MANAGER`变量。因此，当客户端开始时，`SESSION_MANAGER`变量必须是适当的值。
 
 ### 标识符
 
@@ -40,10 +40,10 @@ XSMP是[客户间交换协议的子协议](../Page/X_Window系統的協議和架
 
 1.  会话管理器为每个客户端选择一个唯一的标识符
 2.  会话管理器需要客户端保存他们的状态
-3.  客户端指定它该如何重启以便恢复状态（例如，使用[命令行来启动程序](../Page/命令行.md "wikilink")）
+3.  客户端指定它该如何重启以便恢复状态（例如，使用[命令行来启动程序](https://zh.wikipedia.org/wiki/命令行 "wikilink")）
 
 最后一点是可行的，因为会话管理器维护每个客户端的一组属性（在[X
-Window系统中](../Page/X_Window系统.md "wikilink")，属性是数据的简单容器）。客户端可在任何时刻修改信息。其中一个属性是`RestartCommand`，它指示客户端如何重启。
+Window系统中](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，属性是数据的简单容器）。客户端可在任何时刻修改信息。其中一个属性是`RestartCommand`，它指示客户端如何重启。
 
 当会话管理器需要客户端保存其状态时，程序按以下步骤运行：
 
@@ -56,7 +56,7 @@ Window系统中](../Page/X_Window系统.md "wikilink")，属性是数据的简�
 
 ### 本地和全局状态
 
-当请求客户端保存状态时，[窗口管理器会指定保存本地状态还是全局状态](../Page/X窗口管理器.md "wikilink")，或者都保存。两者的区别是保存的状态对其他程序是否可见。
+当请求客户端保存状态时，[窗口管理器会指定保存本地状态还是全局状态](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")，或者都保存。两者的区别是保存的状态对其他程序是否可见。
 
 以[文本编辑器为例](../Page/文本编辑器.md "wikilink")，保存全局状态意味着正常保存文件，其他程序都能看到被文本编辑器修改后的新文件。保存本地状态意味着保存一个文件的本地复本，其他程序都看不到文件新修改的部分。
 
@@ -69,7 +69,7 @@ Window系统中](../Page/X_Window系统.md "wikilink")，属性是数据的简�
 3.  会话管理器分配给它一个唯一的标识符，比如`4324`
 4.  会话管理器立即要求超文本编辑器保存它的本地状态（只保存本地状态，因为它第一次启动）
 5.  超文本编辑器在会话管理器的`RestartCommand`属性中保存一段命令行代码`xyz
-    -sid 4324`（这是依赖特定系统的：在[POSIX系统中](../Page/POSIX.md "wikilink")，这个属性会用于[argv环境参数数组中](../Page/主函式.md "wikilink")）
+    -sid 4324`（这是依赖特定系统的：在[POSIX系统中](https://zh.wikipedia.org/wiki/POSIX "wikilink")，这个属性会用于[argv环境参数数组中](../Page/主函式.md "wikilink")）
 6.  超文本编辑器保存它的本地状态；例如，可能保存编辑文本的名字和其他所有信息（比如当前行）到本地`.temp-4324`文件中
 7.  当用户登出时，会话管理器发送信息给所有客户端通知它们保存各自的状态
 8.  超文本编辑器（标识符为`4324`）再次答应
@@ -86,16 +86,17 @@ Window系统中](../Page/X_Window系统.md "wikilink")，属性是数据的简�
 
 ## 客户端管理会话
 
-依照XSMP协议，只要能够运行和控制其他程序状态的程序都可以是会话管理器。所以，一个客户端本身可以成为其他客户端的会话管理器。例如，[Email客户端能启动一个](../Page/Email.md "wikilink")[文本编辑器来编写邮件](../Page/文本编辑器.md "wikilink")，并在编辑器前表现的像会话管理器。因此，如果电邮客户端并闭后再启动时，它能恢复[文本编辑器的状态](../Page/文本编辑器.md "wikilink")。
+依照XSMP协议，只要能够运行和控制其他程序状态的程序都可以是会话管理器。所以，一个客户端本身可以成为其他客户端的会话管理器。例如，[Email客户端能启动一个](https://zh.wikipedia.org/wiki/Email "wikilink")[文本编辑器来编写邮件](../Page/文本编辑器.md "wikilink")，并在编辑器前表现的像会话管理器。因此，如果电邮客户端并闭后再启动时，它能恢复[文本编辑器的状态](../Page/文本编辑器.md "wikilink")。
 
 ## 历史
 
-[GNOME的会话管理器用](../Page/GNOME.md "wikilink")[D-Bus](../Page/D-BUS.md "wikilink")(版本2.24.\[1\])取代了XSMP
+[GNOME的会话管理器用](../Page/GNOME.md "wikilink")[D-Bus](https://zh.wikipedia.org/wiki/D-BUS "wikilink")(版本2.24.\[1\])取代了XSMP
 
 ## 参见
 
-  - [X Window系统的协议和架构](../Page/X_Window系统的协议和架构.md "wikilink")
-  - [X窗口管理器](../Page/X窗口管理器.md "wikilink")
+  - [X
+    Window系统的协议和架构](https://zh.wikipedia.org/wiki/X_Window系统的协议和架构 "wikilink")
+  - [X窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")
 
 ## 参考文献
 
@@ -107,7 +108,7 @@ Window系统中](../Page/X_Window系统.md "wikilink")，属性是数据的简�
   - [xsm手册](http://www.die.net/doc/linux/man/man1/xsm.1.html)
   - [ksmserver](http://people.fruitsalad.org/phil/kde/userguide-tng/ksmserver.html)，[KDE会话管理器](../Page/KDE.md "wikilink")
   - [ROX-Session](http://rox.sourceforge.net/desktop/ROX-Session)，[ROX
-    Desktop会话管理器](../Page/ROX_Desktop.md "wikilink")
+    Desktop会话管理器](https://zh.wikipedia.org/wiki/ROX_Desktop "wikilink")
 
 [Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink")
 

@@ -1,16 +1,16 @@
 《**CLOTH ROAD 服裝戰鬥師**》是日本集英社[Ultra
-Jump連載的漫畫作品](../Page/Ultra_Jump.md "wikilink")。腳本作者為[倉田英之](../Page/倉田英之.md "wikilink")，漫畫作者為[okama](../Page/okama.md "wikilink")。日本從2003年開始連載，並於2011年6月發佈第十一冊(最後一冊，台灣也於2012年2月1日發行其中文版)。台灣由[青文出版社翻譯發行](../Page/青文出版社.md "wikilink")，香港中文版则为[玉皇朝出版社](../Page/玉皇朝.md "wikilink")。
+Jump連載的漫畫作品](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")。腳本作者為[倉田英之](../Page/倉田英之.md "wikilink")，漫畫作者為[okama](https://zh.wikipedia.org/wiki/okama "wikilink")。日本從2003年開始連載，並於2011年6月發佈第十一冊(最後一冊，台灣也於2012年2月1日發行其中文版)。台灣由[青文出版社翻譯發行](../Page/青文出版社.md "wikilink")，香港中文版则为[玉皇朝出版社](../Page/玉皇朝.md "wikilink")。
 
-劇情主要是描述一對雙胞胎姊弟珍妮佛與法克斯，分別以服裝[模特兒與](../Page/模特兒.md "wikilink")[服裝設計師的身分](../Page/服裝設計師.md "wikilink")，為了查出雙親的下落而踏上冒險的旅途。
+劇情主要是描述一對雙胞胎姊弟珍妮佛與法克斯，分別以服裝[模特兒與](../Page/模特兒.md "wikilink")[服裝設計師的身分](https://zh.wikipedia.org/wiki/服裝設計師 "wikilink")，為了查出雙親的下落而踏上冒險的旅途。
 
 ## 故事背景
 
-故事設定在一個以真實世界為原型的[架空世界](../Page/架空世界.md "wikilink")。由於[奈米科技的發展帶來](../Page/奈米科技.md "wikilink")[紡織業的革命](../Page/紡織.md "wikilink")，將電腦的線路與基盤化為紡紗及布料，製作成人類的衣物。這意味著電腦工業與流行品牌的結合，製作服裝的「服裝程式設計師」以及能發揮服裝最大效力的「[服裝模特兒](../Page/模特兒.md "wikilink")」成為時代的主流，由服裝七大頂級品牌支配人類的生活，等同國家的影響力。
+故事設定在一個以真實世界為原型的[架空世界](https://zh.wikipedia.org/wiki/架空世界 "wikilink")。由於[奈米科技的發展帶來](https://zh.wikipedia.org/wiki/奈米科技 "wikilink")[紡織業的革命](../Page/紡織.md "wikilink")，將電腦的線路與基盤化為紡紗及布料，製作成人類的衣物。這意味著電腦工業與流行品牌的結合，製作服裝的「服裝程式設計師」以及能發揮服裝最大效力的「[服裝模特兒](../Page/模特兒.md "wikilink")」成為時代的主流，由服裝七大頂級品牌支配人類的生活，等同國家的影響力。
 
 四年一度的 CLOTH ROAD
 大賽，是七大頂級品牌集聚一地，透過該品牌的頂級模特兒進行一場技術與藝術於一身的戰鬥競賽。而貧民階層的世界，二流三流模特兒也穿著各自設計師所設計的服裝，藉由一種名為「伸展擂台」的比賽進行戰鬥，以贏得獎金。
 
-雖然紡織業革命為世界帶來了便利，但受其排出的瓦斯廢氣影響，[地球的](../Page/地球.md "wikilink")[臭氧層瀕臨毀滅的危機](../Page/臭氧層.md "wikilink")。七大頂級品牌為解決這個迫切的世界問題，召集全球優秀的服裝設計師，最終研發出史上最大的一件衣服，以七大頂級品牌的七座中央塔支撐，用以抵抗宇宙的有害射線。但是，目前這件地球外衣的使用狀況已經到了極限了……
+雖然紡織業革命為世界帶來了便利，但受其排出的瓦斯廢氣影響，[地球的](../Page/地球.md "wikilink")[臭氧層瀕臨毀滅的危機](https://zh.wikipedia.org/wiki/臭氧層 "wikilink")。七大頂級品牌為解決這個迫切的世界問題，召集全球優秀的服裝設計師，最終研發出史上最大的一件衣服，以七大頂級品牌的七座中央塔支撐，用以抵抗宇宙的有害射線。但是，目前這件地球外衣的使用狀況已經到了極限了……
 
 ## 角色介紹
 
@@ -408,12 +408,12 @@ Jump連載的漫畫作品](../Page/Ultra_Jump.md "wikilink")。腳本作者為[�
 ### 主要配音員
 
   - 法克斯 - [阿部敦](../Page/阿部敦.md "wikilink")
-  - 珍妮佛 - [伊藤静](../Page/伊藤静.md "wikilink")
+  - 珍妮佛 - [伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")
   - 庫斯達 - [秋元羊介](../Page/秋元羊介.md "wikilink")
-  - 史奴特 - [さとうあい](../Page/さとうあい.md "wikilink")
-  - 8823 - [千々和竜策](../Page/千々和竜策.md "wikilink")
-  - 美美介 - [斎賀みつき](../Page/斎賀みつき.md "wikilink")
-  - 貝里奴 - [藤村歩](../Page/藤村歩.md "wikilink")
+  - 史奴特 - [さとうあい](https://zh.wikipedia.org/wiki/さとうあい "wikilink")
+  - 8823 - [千々和竜策](https://zh.wikipedia.org/wiki/千々和竜策 "wikilink")
+  - 美美介 - [斎賀みつき](https://zh.wikipedia.org/wiki/斎賀みつき "wikilink")
+  - 貝里奴 - [藤村歩](https://zh.wikipedia.org/wiki/藤村歩 "wikilink")
 
 ## 外部連結
 

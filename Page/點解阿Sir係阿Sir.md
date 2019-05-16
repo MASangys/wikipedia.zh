@@ -1,4 +1,4 @@
-《**點解阿Sir係阿Sir**\[1\]》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以學校作為地方背景題材而拍攝製作的時裝校園](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，由[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](../Page/鍾嘉欣.md "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，監製為[劉家豪](../Page/劉家豪.md "wikilink")。本劇為[2011無綫節目巡禮劇集之一](../Page/2011無綫節目巡禮.md "wikilink")。
+《**點解阿Sir係阿Sir**\[1\]》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以學校作為地方背景題材而拍攝製作的時裝校園](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲領銜主演](../Page/吳卓羲.md "wikilink")，監製為[劉家豪](../Page/劉家豪.md "wikilink")。本劇為[2011無綫節目巡禮劇集之一](../Page/2011無綫節目巡禮.md "wikilink")。
 
 劇集名稱中的首個「阿Sir」意思為教師，最後一個為警察，講述身為警察的羅耀華（[陳豪飾](../Page/陳豪.md "wikilink")）易份教師潛入校園查案的故事。而劇中的中學實際為[培僑書院](../Page/培僑書院.md "wikilink")。
 
@@ -17,7 +17,7 @@
 <td><p><strong><a href="../Page/周驄.md" title="wikilink">周　驄</a></strong></p></td>
 <td><p><strong>羅振邦</strong></p></td>
 <td><p><strong>羅伯</strong><br />
-退休<a href="../Page/軍人.md" title="wikilink">軍人</a>（<a href="../Page/游擊隊.md" title="wikilink">游擊隊</a>）<br />
+退休<a href="https://zh.wikipedia.org/wiki/軍人" title="wikilink">軍人</a>（<a href="https://zh.wikipedia.org/wiki/游擊隊" title="wikilink">游擊隊</a>）<br />
 羅大貴之大伯<br />
 羅耀華之爺爺<br />
 張婉娥之老爺<br />
@@ -140,7 +140,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/于洋_(藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/于洋_(藝人)" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>古道洋</p></td>
 <td><p>董秀蘭之夫<br />
 古嘉倩、古嘉嵐之父<br />
@@ -162,10 +162,10 @@
 古嘉嵐之姊<br />
 協助倪鋒管理進興<br />
 於第28集入獄20年<br />
-童年由<a href="../Page/羅芷晴.md" title="wikilink">羅芷晴飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/羅芷晴" title="wikilink">羅芷晴飾演</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>古嘉嵐</strong></p></td>
 <td><p><strong>Miss Koo、Miss Cool、Carman</strong><br />
 保齡球教練<br />
@@ -179,7 +179,7 @@
 曾被羅耀華利用調查倪鋒<br />
 于第27集識破被罗耀华利用后情绪崩溃<br />
 於第30集移居澳門<br />
-童年由<a href="../Page/陳詩慧_(香港童星).md" title="wikilink">陳詩慧飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/陳詩慧_(香港童星)" title="wikilink">陳詩慧飾演</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -213,8 +213,8 @@
 <td><p><strong>程文力</strong></p></td>
 <td><p><strong>程Sir、Nick</strong><br />
 於第5集出現<br />
-<a href="../Page/重案組.md" title="wikilink">重案組</a><a href="../Page/督察.md" title="wikilink">督察</a><br />
-九龍城區警民關係組<a href="../Page/警察公共關係科#警察學校聯絡計劃.md" title="wikilink">警察學校聯絡主任</a>（笫7至19集）<br />
+<a href="https://zh.wikipedia.org/wiki/重案組" title="wikilink">重案組</a><a href="https://zh.wikipedia.org/wiki/督察" title="wikilink">督察</a><br />
+九龍城區警民關係組<a href="https://zh.wikipedia.org/wiki/警察公共關係科#警察學校聯絡計劃" title="wikilink">警察學校聯絡主任</a>（笫7至19集）<br />
 <a href="../Page/防止罪案科.md" title="wikilink">防止罪案科成員</a>（第30集）<br />
 倪鋒、古嘉倩、盛世龍、眼鏡富之天敵<br />
 喜歡何妙雪，但被拒絕<br />
@@ -227,11 +227,11 @@ Macy之男友<br />
 保齡球高手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡曜力.md" title="wikilink">蔡曜力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡曜力" title="wikilink">蔡曜力</a></p></td>
 <td><p>游浩翔</p></td>
 <td><p><strong>Andrew、高拔仔</strong><br />
 “高拔四條煙”成員之一<br />
-高拔書院<a href="../Page/學生.md" title="wikilink">學生</a><br />
+高拔書院<a href="https://zh.wikipedia.org/wiki/學生" title="wikilink">學生</a><br />
 吸毒學生<br />
 游志傑、程文詩之子<br />
 程文力之外甥<br />
@@ -255,7 +255,7 @@ Macy之男友<br />
 <td><p><strong>關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李鴻傑.md" title="wikilink">李鴻傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李鴻傑" title="wikilink">李鴻傑</a></p></td>
 <td><p>譚紹興</p></td>
 <td><p>校董 / 警務處滅罪委員會榮譽成員</p></td>
 </tr>
@@ -277,7 +277,7 @@ Macy之男友<br />
 5C班主任<br />
 於第1集被陷害而離職，但第2集以警方臥底身份回歸林天光<br />
 於第28集離職<br />
-參見<a href="../Page/#羅家.md" title="wikilink"><strong>羅家</strong></a>、<a href="../Page/#警方.md" title="wikilink"><strong>警方</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#羅家" title="wikilink"><strong>羅家</strong></a>、<a href="https://zh.wikipedia.org/wiki/#警方" title="wikilink"><strong>警方</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/楊怡.md" title="wikilink">楊　怡</a></strong></p></td>
@@ -287,7 +287,7 @@ Macy之男友<br />
 中五級訓導主任<br />
 於第2集出場<br />
 於第30集離職，轉到曾羨美紀念中學任教<br />
-參見<a href="../Page/#何家.md" title="wikilink"><strong>何家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#何家" title="wikilink"><strong>何家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林淑敏.md" title="wikilink">林淑敏</a></p></td>
@@ -303,13 +303,13 @@ Macy之男友<br />
 老師</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>李向善</p></td>
 <td><p><strong>Miss Lee</strong><br />
 科學學會負責老師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林影紅.md" title="wikilink">林影紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林影紅" title="wikilink">林影紅</a></p></td>
 <td><p>蘇碧麗</p></td>
 <td><p><strong>Miss So</strong><br />
 老師</p></td>
@@ -321,7 +321,7 @@ Macy之男友<br />
 老師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>朱永權</p></td>
 <td><p><strong>朱Sir</strong><br />
 老師</p></td>
@@ -333,17 +333,17 @@ Macy之男友<br />
 警民關係組警察學校聯絡主任<br />
 於第5集出場<br />
 於第19集調職至重案組<br />
-參見<a href="../Page/#程家.md" title="wikilink"><strong>程家</strong></a>、<a href="../Page/#警方.md" title="wikilink"><strong>警方</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink"><strong>程家</strong></a>、<a href="https://zh.wikipedia.org/wiki/#警方" title="wikilink"><strong>警方</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>古嘉嵐</strong></p></td>
 <td><p><strong>Miss Koo、Miss Cool、Carman</strong><br />
 保齡球教練<br />
 於第8集出場<br />
 經羅耀華及何妙雪邀請，答允林天光中學當5C班保齡球教練<br />
 於第28集離職<br />
-參見<a href="../Page/#古家.md" title="wikilink"><strong>古家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#古家" title="wikilink"><strong>古家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃嘉樂.md" title="wikilink">黃嘉樂</a></p></td>
@@ -365,7 +365,7 @@ Macy之男友<br />
 於第29集出場</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莫偉文.md" title="wikilink">莫偉文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫偉文" title="wikilink">莫偉文</a></p></td>
 <td><p>達　叔</p></td>
 <td><p>校工</p></td>
 </tr>
@@ -392,7 +392,7 @@ Macy之男友<br />
 最後於2012年全港中學文憑試獲得升讀大學學位</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/樂瞳.md" title="wikilink">樂　瞳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂瞳" title="wikilink">樂　瞳</a></p></td>
 <td><p><strong>鍾家寶</strong></p></td>
 <td><p><strong>中女</strong><br />
 “Killer-4（K-4）”成員之一<br />
@@ -404,7 +404,7 @@ Macy之男友<br />
 最後於2012年全港中學文憑試獲得升讀大學學位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃得生.md" title="wikilink">黃得生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃得生" title="wikilink">黃得生</a></p></td>
 <td><p><strong>范　泰</strong></p></td>
 <td><p><strong>反枱</strong><br />
 “Killer-4（K-4）”成員之一<br />
@@ -447,7 +447,7 @@ Macy之男友<br />
 5C班學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
 <td><p>沈智強</p></td>
 <td><p><strong>阿嬸</strong><br />
 善長饒舌（Rap）<br />
@@ -471,7 +471,7 @@ Macy之男友<br />
 <td><p>涉及賭波問題</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/沈愛琳.md" title="wikilink">沈愛琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a></p></td>
 <td><p>唐思雅</p></td>
 <td><p>5C班學生</p></td>
 </tr>
@@ -481,7 +481,7 @@ Macy之男友<br />
 <td><p>5C班學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊智朗.md" title="wikilink">楊智朗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊智朗" title="wikilink">楊智朗</a></p></td>
 <td><p>陳舒翼</p></td>
 <td><p>5C班學生</p></td>
 </tr>
@@ -541,7 +541,7 @@ Macy之男友<br />
 黃湛堃之下屬<br />
 曹永仁之前下屬<br />
 李卓豪、陳碩、江棟樑、王之堂之上司<br />
-參見<a href="../Page/#程家.md" title="wikilink"><strong>程家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#程家" title="wikilink"><strong>程家</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/陳豪.md" title="wikilink">陳　豪</a></strong></p></td>
@@ -549,8 +549,8 @@ Macy之男友<br />
 <td><p>原為林天光中學中文科教師<br />
 潘國誠之下屬<br />
 警察臥底<br />
-於第30集辭職，到<a href="../Page/廣東省.md" title="wikilink">廣東省</a><a href="../Page/清遠.md" title="wikilink">清遠</a><a href="../Page/田秀鎮希望小學.md" title="wikilink">田秀鎮希望小學當教師</a><br />
-參見<a href="../Page/#羅家.md" title="wikilink"><strong>羅家</strong></a></p></td>
+於第30集辭職，到<a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省</a><a href="https://zh.wikipedia.org/wiki/清遠" title="wikilink">清遠</a><a href="https://zh.wikipedia.org/wiki/田秀鎮希望小學" title="wikilink">田秀鎮希望小學當教師</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#羅家" title="wikilink"><strong>羅家</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></p></td>
@@ -584,7 +584,7 @@ Macy之男友<br />
 程文力之好友兼下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>陳　碩</p></td>
 <td><p>重案組警員<br />
 程文力之下屬</p></td>
@@ -596,13 +596,13 @@ Macy之男友<br />
 程文力之好友兼下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>王之堂</p></td>
 <td><p>重案組警員<br />
 程文力之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td><p>何展鵬</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -612,7 +612,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃俊伸.md" title="wikilink">黃俊伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊伸" title="wikilink">黃俊伸</a></p></td>
 <td><p>楊瑞生</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -622,7 +622,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>海</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -632,7 +632,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
 <td></td>
 <td><p>警員</p></td>
 </tr>
@@ -642,7 +642,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td></td>
 <td><p>警員</p></td>
 </tr>
@@ -652,7 +652,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃子衡.md" title="wikilink">黃子衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子衡" title="wikilink">黃子衡</a></p></td>
 <td></td>
 <td><p>警員</p></td>
 </tr>
@@ -691,7 +691,7 @@ Macy之男友<br />
 被羅耀華接近，後反目<br />
 於第27集被捕<br />
 於第28集入獄20年<br />
-參見<strong><a href="../Page/#古家.md" title="wikilink">古家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#古家" title="wikilink">古家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李天翔.md" title="wikilink">李天翔</a></p></td>
@@ -705,7 +705,7 @@ Macy之男友<br />
 於第25集因涉及毒品交易而被捕及判處終身監禁</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
 <td><p>賀哲信</p></td>
 <td><p><strong>Terrence</strong><br />
 黑社會成員<br />
@@ -730,7 +730,7 @@ Macy之男友<br />
 倪鋒、盛世龍之法律顧問</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
 <td><p>澤</p></td>
 <td><p><strong>澤哥</strong><br />
 黑社會成員<br />
@@ -743,12 +743,12 @@ Macy之男友<br />
 <td><p>倪鋒、賀哲信之手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國洪.md" title="wikilink">張國洪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a></p></td>
 <td></td>
 <td><p>倪鋒、賀哲信之手下</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙國東.md" title="wikilink">趙國東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙國東" title="wikilink">趙國東</a></p></td>
 <td></td>
 <td><p>倪鋒、賀哲信之手下</p></td>
 </tr>
@@ -771,7 +771,7 @@ Macy之男友<br />
 於第20集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td><p>彪形大漢</p></td>
 <td><p>盛世龍、澤之手下<br />
 於第27集被捕</p></td>
@@ -783,7 +783,7 @@ Macy之男友<br />
 於第27集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/傅劍虹.md" title="wikilink">傅劍虹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅劍虹" title="wikilink">傅劍虹</a></p></td>
 <td><p>趙成武</p></td>
 <td><p>倪鋒、賀哲信之保鑣</p></td>
 </tr>
@@ -793,7 +793,7 @@ Macy之男友<br />
 <td><p>倪鋒之秘書</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭比得.md" title="wikilink">彭比得</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭比得" title="wikilink">彭比得</a></p></td>
 <td><p>Victor</p></td>
 <td><p>倪鋒、賀哲信之下屬</p></td>
 </tr>
@@ -803,7 +803,7 @@ Macy之男友<br />
 <td><p>倪鋒、賀哲信之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td></td>
 <td><p>部長<br />
 倪鋒、賀哲信之手下</p></td>
@@ -843,7 +843,7 @@ Macy之男友<br />
 <td><p>盛世龍、安景富之手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王德基.md" title="wikilink">王德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王德基" title="wikilink">王德基</a></p></td>
 <td><p>貓仔表哥</p></td>
 <td><p>盛世龍、安景富之手下</p></td>
 </tr>
@@ -892,7 +892,7 @@ Richard之女友</p></td>
 <td><p>古嘉倩與倪鋒之控方律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>Jack</p></td>
 <td><p>單親父親<br />
 琪琪之父<br />
@@ -937,7 +937,7 @@ Jack之女</p></td>
 於第11集被判入懲教所3年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>張Sir</p></td>
 <td><p>「畢裘仁紀念中學」老師</p></td>
 </tr>
@@ -952,12 +952,12 @@ Jack之女</p></td>
 <td><p>「畢裘仁紀念中學」學生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘宗揚.md" title="wikilink">潘宗揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘宗揚" title="wikilink">潘宗揚</a></p></td>
 <td></td>
 <td><p>「畢裘仁紀念中學」學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td></td>
 <td><p>「畢裘仁紀念中學」學生</p></td>
 </tr>
@@ -977,7 +977,7 @@ Jack之女</p></td>
 <td><p>「畢裘仁紀念中學」學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃耀煌.md" title="wikilink">黃耀煌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃耀煌" title="wikilink">黃耀煌</a></p></td>
 <td></td>
 <td><p>「畢裘仁紀念中學」學生</p></td>
 </tr>
@@ -993,13 +993,13 @@ Jack之女</p></td>
 “高拔四條煙”成員之一</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李興華_(演員).md" title="wikilink">李興華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李興華_(演員)" title="wikilink">李興華</a></p></td>
 <td><p>堯</p></td>
 <td><p>「高拔書院」學生<br />
 “高拔四條煙”成員之一</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td><p>謙</p></td>
 <td><p>「高拔書院」學生<br />
 “高拔四條煙”成員之一</p></td>
@@ -1015,12 +1015,12 @@ Jack之女</p></td>
 <td><p>「高拔書院」學生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝珊珊.md" title="wikilink">謝珊珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝珊珊" title="wikilink">謝珊珊</a></p></td>
 <td></td>
 <td><p>「高拔書院」學生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/馬詠恩.md" title="wikilink">馬詠恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬詠恩" title="wikilink">馬詠恩</a></p></td>
 <td></td>
 <td><p>「高拔書院」學生</p></td>
 </tr>
@@ -1030,12 +1030,12 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳建文.md" title="wikilink">陳建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳建文" title="wikilink">陳建文</a></p></td>
 <td><p>醫　生</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>七姨婆</p></td>
 <td></td>
 </tr>
@@ -1045,7 +1045,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃鳳瓊.md" title="wikilink">黃鳳瓊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳瓊" title="wikilink">黃鳳瓊</a></p></td>
 <td><p>恩　媽</p></td>
 <td><p>朱天恩之母</p></td>
 </tr>
@@ -1065,12 +1065,12 @@ Jack之女</p></td>
 <td><p>何妙雪之中學老師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/柯嵐.md" title="wikilink">柯　嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
 <td><p>侍　應</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>Candy</p></td>
 <td></td>
 </tr>
@@ -1100,7 +1100,7 @@ Jack之女</p></td>
 <td><p>蔣洪之兄弟</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/華忠男.md" title="wikilink">華忠男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華忠男" title="wikilink">華忠男</a></p></td>
 <td><p>沙　膽</p></td>
 <td><p>蔣洪之兄弟</p></td>
 </tr>
@@ -1138,7 +1138,7 @@ Jack之女</p></td>
 <td><p>蔣洪之兄弟</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>保　鑣</p></td>
 <td></td>
 </tr>
@@ -1149,7 +1149,7 @@ Jack之女</p></td>
 介紹古嘉嵐給羅耀華及何妙雪當5C班的保齡球教練</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/溫尚儒.md" title="wikilink">溫尚儒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/溫尚儒" title="wikilink">溫尚儒</a></p></td>
 <td><p>學　生</p></td>
 <td></td>
 </tr>
@@ -1159,7 +1159,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林婉霞.md" title="wikilink">林婉霞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林婉霞" title="wikilink">林婉霞</a></p></td>
 <td><p>情　侶</p></td>
 <td></td>
 </tr>
@@ -1169,17 +1169,17 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘曉彤.md" title="wikilink">潘曉彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘曉彤" title="wikilink">潘曉彤</a></p></td>
 <td><p>少　女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/侯建民.md" title="wikilink">侯建民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侯建民" title="wikilink">侯建民</a></p></td>
 <td><p>金毛少年</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎桐康.md" title="wikilink">黎桐康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎桐康" title="wikilink">黎桐康</a></p></td>
 <td><p>金毛少年</p></td>
 <td></td>
 </tr>
@@ -1209,7 +1209,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李善恆.md" title="wikilink">李善恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李善恆" title="wikilink">李善恆</a></p></td>
 <td><p>猛　男</p></td>
 <td></td>
 </tr>
@@ -1219,12 +1219,12 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/單俊偉.md" title="wikilink">單俊偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單俊偉" title="wikilink">單俊偉</a></p></td>
 <td><p>猛　男</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/顏桂洲.md" title="wikilink">顏桂洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏桂洲" title="wikilink">顏桂洲</a></p></td>
 <td><p>猛　男</p></td>
 <td></td>
 </tr>
@@ -1255,12 +1255,12 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
 <td><p>美　女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
 <td><p>美　女</p></td>
 <td></td>
 </tr>
@@ -1275,7 +1275,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
 <td><p>Billy</p></td>
 <td><p>游浩翔之朋友，後反目</p></td>
 </tr>
@@ -1291,23 +1291,23 @@ Jack之女</p></td>
 與倪鋒發生一夜情</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td></td>
 <td><p>其他學校教練</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td></td>
 <td><p>其他學校教練</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td><p>沈志剛</p></td>
 <td><p><strong>King Kong</strong><br />
 范泰之表哥</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td><p>Richard</p></td>
 <td><p>袁穎欣之男友</p></td>
 </tr>
@@ -1337,7 +1337,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
 <td><p>內地人員</p></td>
 <td></td>
 </tr>
@@ -1347,7 +1347,7 @@ Jack之女</p></td>
 <td><p>醫生</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何婷恩.md" title="wikilink">何婷恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何婷恩" title="wikilink">何婷恩</a></p></td>
 <td><p>旅行社職員</p></td>
 <td></td>
 </tr>
@@ -1372,7 +1372,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/霍健邦.md" title="wikilink">霍健邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍健邦" title="wikilink">霍健邦</a></p></td>
 <td><p>CIB</p></td>
 <td></td>
 </tr>
@@ -1382,7 +1382,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>戚Sir</p></td>
 <td></td>
 </tr>
@@ -1392,7 +1392,7 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>部　長</p></td>
 <td></td>
 </tr>
@@ -1407,7 +1407,7 @@ Jack之女</p></td>
 <td><p>Wedding Planner</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/易智遠.md" title="wikilink">易智遠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易智遠" title="wikilink">易智遠</a></p></td>
 <td><p>地產經紀</p></td>
 <td></td>
 </tr>
@@ -1417,12 +1417,12 @@ Jack之女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾琬莎.md" title="wikilink">曾琬莎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾琬莎" title="wikilink">曾琬莎</a></p></td>
 <td><p>記　者</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>護　士</p></td>
 <td></td>
 </tr>
@@ -1438,7 +1438,8 @@ Jack之女</p></td>
 
 ### 明報週刊演藝動力大獎2011
 
-  - 我最支持的演藝動力大獎（《點解阿Sir係阿Sir》**[鍾嘉欣](../Page/鍾嘉欣.md "wikilink") 飾古嘉嵐**）
+  - 我最支持的演藝動力大獎（《點解阿Sir係阿Sir》**[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")
+    飾古嘉嵐**）
 
 ### [MY AOD我的最愛頒獎典禮2011](../Page/MY_AOD我的最愛頒獎典禮2011.md "wikilink")
 
@@ -1456,7 +1457,7 @@ Jack之女</p></td>
 <tbody>
 <tr class="odd">
 <td><p>「十五大我的最愛電視角色」</p></td>
-<td><p><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a> 飾 古嘉嵐<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a> 飾 古嘉嵐<br />
 <a href="../Page/陳豪.md" title="wikilink">陳豪</a> 飾 羅耀華</p></td>
 </tr>
 </tbody>
@@ -1526,20 +1527,20 @@ Jack之女</p></td>
 </tbody>
 </table>
 
-### [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
+### [星和無綫電視大獎2012](https://zh.wikipedia.org/wiki/星和無綫電視大獎2012 "wikilink")
 
-| 獎項           | 獲奬單位                                                            |
-| ------------ | --------------------------------------------------------------- |
-| 「我最愛TVB熒幕情侶」 | [陳豪](../Page/陳豪.md "wikilink")、[鍾嘉欣](../Page/鍾嘉欣.md "wikilink") |
+| 獎項           | 獲奬單位                                                                               |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 「我最愛TVB熒幕情侶」 | [陳豪](../Page/陳豪.md "wikilink")、[鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink") |
 
 ## 記事
 
   - 2010年5月18日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城四廠舉行試造型記者會](../Page/電視廣播城.md "wikilink")。\[2\]
   - 2010年6月21日：此劇於14:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城十三廠舉行開鏡拜神儀式](../Page/電視廣播城.md "wikilink")。\[3\]
-  - 2010年7月26日：此劇於12:45在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城拍攝](../Page/國際展貿中心.md "wikilink")。
-  - 2011年4月15日：此劇於10:45在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華酒店舉行](../Page/美麗華酒店.md "wikilink")《點解阿Sir係阿Sir》之「Good
+  - 2010年7月26日：此劇於12:45在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城拍攝](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")。
+  - 2011年4月15日：此劇於10:45在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華酒店舉行](https://zh.wikipedia.org/wiki/美麗華酒店 "wikilink")《點解阿Sir係阿Sir》之「Good
     Morning Sir開學禮」。\[4\]\[5\]。
-  - 2011年5月4日：此劇於14:00在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城舉行](../Page/國際展貿中心.md "wikilink")《點解阿Sir係阿Sir》之「師生保齡球爭霸戰」。
+  - 2011年5月4日：此劇於14:00在[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[國際展貿中心Emax地下香港保齡球城舉行](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")《點解阿Sir係阿Sir》之「師生保齡球爭霸戰」。
   - 2011年5月15日：此劇於13:30在[大角咀](../Page/大角咀.md "wikilink")[奧海城舉行](../Page/奧海城.md "wikilink")《點解阿Sir係阿Sir》之「阿Sir教精你」。
   - 2011年5月31日：此劇於13:00在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城西餐廳舉行](../Page/電視廣播城.md "wikilink")《點解阿Sir係阿Sir》祝捷會。
 
@@ -1555,13 +1556,13 @@ Ho一命感動了她，兩人亦成為一對。
 
 ## 觀眾迴響
 
-劇中本應有四位主角（[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](../Page/鍾嘉欣.md "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")）\[7\]\[8\]。此外，亦有很多人都批評角色感情編排嚴重不當，如吳卓羲飾演的程文力喜歡上楊怡飾演的何妙雪、陳豪飾演的羅耀華假裝喜歡鍾嘉欣飾演的古嘉嵐、鍾嘉欣及吳卓羲不被編成一對等等，則是相不相襯的問題。此外，廣管局則公佈收到2宗投訴，無綫宣傳該劇為雙生雙旦、四角戀，但[吳卓羲](../Page/吳卓羲.md "wikilink")、[鍾嘉欣在戲中只是襯托](../Page/鍾嘉欣.md "wikilink")，有欺騙成份\[9\]
+劇中本應有四位主角（[陳豪](../Page/陳豪.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")）\[7\]\[8\]。此外，亦有很多人都批評角色感情編排嚴重不當，如吳卓羲飾演的程文力喜歡上楊怡飾演的何妙雪、陳豪飾演的羅耀華假裝喜歡鍾嘉欣飾演的古嘉嵐、鍾嘉欣及吳卓羲不被編成一對等等，則是相不相襯的問題。此外，廣管局則公佈收到2宗投訴，無綫宣傳該劇為雙生雙旦、四角戀，但[吳卓羲](../Page/吳卓羲.md "wikilink")、[鍾嘉欣在戲中只是襯托](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，有欺騙成份\[9\]
 及吳卓羲戲份少也遭觀眾12宗投訴\[10\]。
 在學生素質如表現及年齡方面，跟在2004年《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》中飾演校園學生的演員如
-[梁烈唯](../Page/梁烈唯.md "wikilink")、[周永恆](../Page/周永恆.md "wikilink")、[趙頌茹](../Page/趙頌茹.md "wikilink")、[黃嘉樂](../Page/黃嘉樂.md "wikilink")、[沈卓盈](../Page/沈卓盈.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張雪芹等差別甚大](../Page/張雪芹.md "wikilink")。
+[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[周永恆](../Page/周永恆.md "wikilink")、[趙頌茹](../Page/趙頌茹.md "wikilink")、[黃嘉樂](../Page/黃嘉樂.md "wikilink")、[沈卓盈](../Page/沈卓盈.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張雪芹等差別甚大](../Page/張雪芹.md "wikilink")。
 
-亦有指此劇只是一部抄襲作品，與[周星馳以往的電影大為相似](../Page/周星馳.md "wikilink")。如全劇的臥底橋段跟《[逃學威龍](../Page/逃學威龍.md "wikilink")》如出一轍\[11\]，劇名又像[亞視舊劇](../Page/亞視.md "wikilink")《[點解阿Sir係隻鬼](../Page/點解阿sir係隻鬼.md "wikilink")》\[12\]。而首兩集陳豪在學校被學生耍就像《[百變星君](../Page/百變星君.md "wikilink")》的橋段、[楊英偉在首集其中有關影響校譽的對白像](../Page/楊英偉.md "wikilink")《[九品芝麻官](../Page/九品芝麻官.md "wikilink")》中包龍星罵鳳來樓三姑、陳豪在學校的線人二五仔像《[逃學威龍2](../Page/逃學威龍2.md "wikilink")》的Albert等。另外，此劇與《[逃學威龍](../Page/逃學威龍.md "wikilink")》最為相似\[13\]，像學生疑似於中史測驗作弊的橋段，女主角和校工的名字跟《逃》的一樣稱為Miss
-Ho和達叔，又如第四集分別有兩幫學生像《逃》中私下對峙。而同樣飾演警察，在明的吳卓羲和在暗的陳豪也像《逃》中的反黑組大幫和周星星對立，並同時喜歡女主角。此外，也有指此劇的內容與1981年的《[IQ成熟時](../Page/IQ成熟時.md "wikilink")》、1994年的《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》和日劇《[極道鮮師](../Page/極道鮮師.md "wikilink")》相近。《點》劇主題曲是「春風化雨」，恰好是《阿》劇的前名。此劇的內容更跟2004年由[歐陽震華](../Page/歐陽震華.md "wikilink")、[陶大宇](../Page/陶大宇.md "wikilink")、[郭可盈主演的時裝校園電視劇](../Page/郭可盈.md "wikilink")《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》頗為相似，就連教師的會議室的場景也一模一樣。
+亦有指此劇只是一部抄襲作品，與[周星馳以往的電影大為相似](../Page/周星馳.md "wikilink")。如全劇的臥底橋段跟《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》如出一轍\[11\]，劇名又像[亞視舊劇](https://zh.wikipedia.org/wiki/亞視 "wikilink")《[點解阿Sir係隻鬼](../Page/點解阿sir係隻鬼.md "wikilink")》\[12\]。而首兩集陳豪在學校被學生耍就像《[百變星君](../Page/百變星君.md "wikilink")》的橋段、[楊英偉在首集其中有關影響校譽的對白像](../Page/楊英偉.md "wikilink")《[九品芝麻官](../Page/九品芝麻官.md "wikilink")》中包龍星罵鳳來樓三姑、陳豪在學校的線人二五仔像《[逃學威龍2](../Page/逃學威龍2.md "wikilink")》的Albert等。另外，此劇與《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》最為相似\[13\]，像學生疑似於中史測驗作弊的橋段，女主角和校工的名字跟《逃》的一樣稱為Miss
+Ho和達叔，又如第四集分別有兩幫學生像《逃》中私下對峙。而同樣飾演警察，在明的吳卓羲和在暗的陳豪也像《逃》中的反黑組大幫和周星星對立，並同時喜歡女主角。此外，也有指此劇的內容與1981年的《[IQ成熟時](https://zh.wikipedia.org/wiki/IQ成熟時 "wikilink")》、1994年的《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》和日劇《[極道鮮師](../Page/極道鮮師.md "wikilink")》相近。《點》劇主題曲是「春風化雨」，恰好是《阿》劇的前名。此劇的內容更跟2004年由[歐陽震華](../Page/歐陽震華.md "wikilink")、[陶大宇](../Page/陶大宇.md "wikilink")、[郭可盈主演的時裝校園電視劇](../Page/郭可盈.md "wikilink")《[青出於藍](../Page/青出於藍_\(電視劇\).md "wikilink")》頗為相似，就連教師的會議室的場景也一模一樣。
 
 此外，本劇是鍾嘉欣的一部代表作，劇中她飾演的古嘉嵐（Miss Koo／Miss
 Cool）最初以故意裝酷的保齡球教練姿態出現，\[14\]後來Miss
@@ -1590,7 +1591,7 @@ Koo為主題的姊妹作。\[24\]由於角色討好,鍾嘉欣在「[明報周刊
 
 ### 無線MyTV劇集重溫點擊
 
-《點解阿Sir係阿Sir》於第27集MyTV網上劇集重溫全日錄得210萬點擊記錄，於大結局後翌日更全日錄得300萬點擊記錄，僅次於2010年《[義海豪情](../Page/義海豪情.md "wikilink")》的全日錄得370多萬點擊。
+《點解阿Sir係阿Sir》於第27集MyTV網上劇集重溫全日錄得210萬點擊記錄，於大結局後翌日更全日錄得300萬點擊記錄，僅次於2010年《[義海豪情](https://zh.wikipedia.org/wiki/義海豪情 "wikilink")》的全日錄得370多萬點擊。
 
 ## 參考資料
 
@@ -1609,7 +1610,7 @@ colspan="2"|[花花世界花家姐](../Page/花花世界花家姐.md "wikilink")
 5月16日— |- |align="center"|**上一套：**
 [女拳](../Page/女拳.md "wikilink")
 —4月17日 |align="center"
-colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2011](../Page/翡翠台電視劇集列表_\(2011年\)#第三線劇集.md "wikilink")）**
+colspan="2"|**翡翠台／高清翡翠台第三綫劇集（[2011](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2011年\)#第三線劇集 "wikilink")）**
 **點解阿Sir係阿Sir**
 4月18日—5月27日 |align="center"|**下一套：**
 [怒火街頭](../Page/怒火街頭.md "wikilink")

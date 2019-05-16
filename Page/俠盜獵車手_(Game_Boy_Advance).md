@@ -1,14 +1,14 @@
 是[Rockstar Games出品](../Page/Rockstar_Games.md "wikilink")，由[Digital
-Eclipse開發](../Page/Digital_Eclipse.md "wikilink")，並於2004年10月26日發售的在[Game
+Eclipse開發](https://zh.wikipedia.org/wiki/Digital_Eclipse "wikilink")，並於2004年10月26日發售的在[Game
 Boy
 Advance](../Page/Game_Boy_Advance.md "wikilink")（GBA）平台上運行的掌上遊戲。在遊戲中標誌顯示“**Grand
 Theft Auto Advance**”，但在宣傳上都一直寫作“**Grand Theft
 Auto**”。此遊戲在北美《[俠盜獵車手：聖安地列斯](../Page/俠盜獵車手：聖安地列斯.md "wikilink")》發布的同一天進行發售。
 
-此游戏使用[垂直视角](../Page/垂直视角.md "wikilink")，此种游戏视角还在此游戏系列前两作[GTA和](../Page/侠盗猎车手.md "wikilink")[GTA2使用过](../Page/侠盗猎车手2.md "wikilink")。但也擁有在同系列3D遊戲中初次出現的车辆支线任务（比如「Vigilante」
-与「Paramedic」)、[仰视显示与多种武器](../Page/HUD.md "wikilink")。還有与之前的垂直视角的GTA游戏不同的是，在本作中车辆會翻車。\[1\]
+此游戏使用[垂直视角](https://zh.wikipedia.org/wiki/垂直视角 "wikilink")，此种游戏视角还在此游戏系列前两作[GTA和](https://zh.wikipedia.org/wiki/侠盗猎车手 "wikilink")[GTA2使用过](../Page/侠盗猎车手2.md "wikilink")。但也擁有在同系列3D遊戲中初次出現的车辆支线任务（比如「Vigilante」
+与「Paramedic」)、[仰视显示与多种武器](https://zh.wikipedia.org/wiki/HUD "wikilink")。還有与之前的垂直视角的GTA游戏不同的是，在本作中车辆會翻車。\[1\]
 
-《俠盗獵車手》也是第一部在[泛歐遊戲資訊組織和澳洲分級委員會分別獲得](../Page/泛歐遊戲資訊組織.md "wikilink")16+和M評級的《[俠盗獵車手系列](../Page/俠盗獵車手系列.md "wikilink")》遊戲。
+《俠盗獵車手》也是第一部在[泛歐遊戲資訊組織和澳洲分級委員會分別獲得](../Page/泛歐遊戲資訊組織.md "wikilink")16+和M評級的《[俠盗獵車手系列](https://zh.wikipedia.org/wiki/俠盗獵車手系列 "wikilink")》遊戲。
 
 ## 游戏设定
 

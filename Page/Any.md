@@ -1,11 +1,11 @@
-《**Any**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")23張[單曲](../Page/單曲.md "wikilink")。2002年7月10日發行。
+《**Any**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年7月10日發行。
 
 ## 簡介
 
-是[Mr.Children因為主唱](../Page/Mr.Children.md "wikilink")[櫻井和壽](../Page/櫻井和壽.md "wikilink")[小腦梗塞入院而暫停活動之前的最後一張](../Page/中風.md "wikilink")[單曲](../Page/單曲.md "wikilink")。
+是[Mr.Children因為主唱](../Page/Mr.Children.md "wikilink")[櫻井和壽](../Page/櫻井和壽.md "wikilink")[小腦梗塞入院而暫停活動之前的最後一張](../Page/中風.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 主歌《Any》風格活潑，用簡單而又犀利的歌詞探討人生的真真假假，但是又不失希望與前進的動力。作為[NTT
-DoCoMo十週年活動的廣告歌](../Page/NTT_DoCoMo.md "wikilink")。
+DoCoMo十週年活動的廣告歌](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")。
 
 總銷量50.9萬張\[1\]，是2002年度日本單曲銷量第13位\[2\]。
 

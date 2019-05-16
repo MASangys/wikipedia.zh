@@ -1,9 +1,10 @@
 [UnitedStatesGraphViz.svg](https://zh.wikipedia.org/wiki/File:UnitedStatesGraphViz.svg "fig:UnitedStatesGraphViz.svg")大陆48个州间连接关系的无向图\]\]
 
-**Graphviz** （[英文](../Page/英文.md "wikilink")：**Graph Visualization
-Software**的[缩写](../Page/缩写.md "wikilink")）是一个由[AT\&T实验室启动的开源工具包](../Page/AT&T实验室.md "wikilink")，用于绘制[DOT语言脚本描述的图形](../Page/DOT语言.md "wikilink")。它也提供了供其它软件使用的函式庫。Graphviz是一个[自由软件](../Page/自由软件.md "wikilink")，其授权为[Eclipse
+**Graphviz** （[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Graph
+Visualization
+Software**的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")）是一个由[AT\&T实验室启动的开源工具包](https://zh.wikipedia.org/wiki/AT&T实验室 "wikilink")，用于绘制[DOT语言脚本描述的图形](../Page/DOT语言.md "wikilink")。它也提供了供其它软件使用的函式庫。Graphviz是一个[自由软件](../Page/自由软件.md "wikilink")，其授权为[Eclipse
 Public
-License](../Page/Eclipse_Public_License.md "wikilink")。其Mac版本曾经获得2004年的[苹果设计奖](../Page/苹果设计奖.md "wikilink")\[1\]。
+License](https://zh.wikipedia.org/wiki/Eclipse_Public_License "wikilink")。其Mac版本曾经获得2004年的[苹果设计奖](https://zh.wikipedia.org/wiki/苹果设计奖 "wikilink")\[1\]。
 
 ## 构架
 
@@ -11,7 +12,7 @@ Graphviz由一种被称为[DOT语言的图形描述语言](../Page/DOT语言.md 
 与一组可以生成和/或处理DOT文件的工具组成：
 
   - dot :
-    一个用来将生成的图形转换成多种输出格式的[命令行工具](../Page/命令行.md "wikilink")。其输出格式包括[PostScript](../Page/PostScript.md "wikilink")，[PDF](../Page/PDF.md "wikilink")，[SVG](../Page/SVG.md "wikilink")，[PNG](../Page/PNG.md "wikilink")，含注解的文本等等。
+    一个用来将生成的图形转换成多种输出格式的[命令行工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")。其输出格式包括[PostScript](../Page/PostScript.md "wikilink")，[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")，[PNG](../Page/PNG.md "wikilink")，含注解的文本等等。
 
 <!-- end list -->
 
@@ -40,15 +41,17 @@ Graphviz由一种被称为[DOT语言的图形描述语言](../Page/DOT语言.md 
 
 ## 应用
 
-  - [GraphViz](../Page/mw:Extension:GraphViz.md "wikilink") -
-    MediaWiki的Graphviz扩展。
-  - [OmniGraffle 5](../Page/Omnigraffle.md "wikilink")
+  - [GraphViz](https://zh.wikipedia.org/wiki/mw:Extension:GraphViz "wikilink")
+    - MediaWiki的Graphviz扩展。
+  - [OmniGraffle
+    5](https://zh.wikipedia.org/wiki/Omnigraffle "wikilink")
     使用了Graphviz引擎作为自动生成图形的方式。
 
 ## 参见
 
-  - [图](../Page/图.md "wikilink")
-  - [Graph drawing](../Page/Graph_drawing.md "wikilink")
+  - [图](https://zh.wikipedia.org/wiki/图 "wikilink")
+  - [Graph
+    drawing](https://zh.wikipedia.org/wiki/Graph_drawing "wikilink")
   - [图论](../Page/图论.md "wikilink")
   - [DOT语言](../Page/DOT语言.md "wikilink")
 
@@ -59,8 +62,8 @@ Graphviz由一种被称为[DOT语言的图形描述语言](../Page/DOT语言.md 
 <!-- end list -->
 
   - [Microsoft Automatic Graph
-    Layout](../Page/Microsoft_Automatic_Graph_Layout.md "wikilink") -
-    一个用于绘图的.NET库
+    Layout](https://zh.wikipedia.org/wiki/Microsoft_Automatic_Graph_Layout "wikilink")
+    - 一个用于绘图的.NET库
 
 ## 参考文献
 

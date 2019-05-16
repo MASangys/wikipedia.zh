@@ -1,5 +1,5 @@
 《**SKET
-DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](../Page/日本漫畫家.md "wikilink")[篠原健太所創作的校園](../Page/篠原健太.md "wikilink")[喜劇漫畫](../Page/喜劇.md "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](../Page/廣播劇CD.md "wikilink")[輕小說都已在日本發售](../Page/輕小說.md "wikilink")。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](../Page/小學館漫畫賞.md "wikilink")。
+DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[篠原健太所創作的校園](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[喜劇漫畫](../Page/喜劇.md "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）於2007年33號開始連載。本作的單行本、[廣播劇CD與](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[輕小說都已在日本發售](../Page/輕小說.md "wikilink")。2010年1月21日，本作獲得第55屆[小學館漫畫賞少年向部門賞](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
 
 2011年4月7日，TV動畫版於[東京電視台開始播放](../Page/東京電視台.md "wikilink")；在台灣Animax於2012年9月20日開始每週一到週五19:30首播，於2012年11月29日播放至第一季結束，共五十一集；香港Animax自2013年6月5日開始每週一到週五晚上10時播放動畫版第二季；台灣Animax則自2013年7月13日開始至2013年8月7日每週一到週五晚上8點半播放動畫版第二季動畫（第五十二集至七十七集）。
 
@@ -14,7 +14,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](../Page/日本
 私立開盟學園，通稱「SKET團」，以幫助學生適應學園生活、解決委託人的煩惱為宗旨。雖然有著很漂亮的口號，但實際上只是大家口中的雜傭團，不論是尋找失物、打掃清潔，SKET團都是最好的幫手。
 
 社團由無所事事的團長藤崎佑助（Bossun）、曾經是不良少女的鬼塚一愛（姬子）以及情報高手笛吹和義（Switch）三人組成。每回都會接受不同的委託，並且因而接觸幫助了更多人，故事就此展開下去。
-因為故事和JUMP上的《[銀魂](../Page/銀魂.md "wikilink")》相近，而作者[篠原健太曾擔任](../Page/篠原健太.md "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，動畫第26集[神樂稱其為](../Page/神樂.md "wikilink")"劣質版的《銀魂》"。
+因為故事和JUMP上的《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》相近，而作者[篠原健太曾擔任](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，動畫第26集[神樂稱其為](../Page/神樂.md "wikilink")"劣質版的《銀魂》"。
 
 ### 長篇
 
@@ -80,7 +80,8 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](../Page/日本
     收錄於第五集。女性角色穿泳衣在沙灘玩文字接龍的故事。
   - 番外篇-ROCKET DANCE 遭遇
     收錄於第六集。舞台來到宇宙的科幻風故事。
-  - 番外篇-SILENT DANCE [人情巧克力好難送之卷](../Page/人情巧克力.md "wikilink")
+  - 番外篇-SILENT DANCE
+    [人情巧克力好難送之卷](https://zh.wikipedia.org/wiki/人情巧克力 "wikilink")
     收錄於第七集。描述姬子送巧克力給Bossun的故事。
   - 番外篇-BlSCUIT DANCE 最喜歡老師了之卷
     收錄於第八集。糟糕澤變成幼稚園老師的故事。
@@ -114,12 +115,12 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](../Page/日本
     後來SKET團和隊長代表日本參加傑奈西斯世界大賽，並在隊長的活躍下成為世界冠軍。
   -
     據說是黃老師教的KUSO遊戲之二。山野邊老師請求SKET團和他組隊參加世界大賽。
-    和將棋相似，只要主將被吃掉就算輸。棋子的樣式非常奇怪（如戰士型「咚咚咚咚咚」（聲優：[小山力也](../Page/小山力也.md "wikilink")）及其妻女（聲優：[久川綾](../Page/久川綾.md "wikilink")）、OL型（聲優：[松來未祐](../Page/松來未祐.md "wikilink")）、卡牌型「抹茶紅豆奇娜」（聲優：[工藤晴香](../Page/工藤晴香.md "wikilink")）及男孩型（聲優：[折笠愛](../Page/折笠愛.md "wikilink")）等）。
+    和將棋相似，只要主將被吃掉就算輸。棋子的樣式非常奇怪（如戰士型「咚咚咚咚咚」（聲優：[小山力也](../Page/小山力也.md "wikilink")）及其妻女（聲優：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")）、OL型（聲優：[松來未祐](../Page/松來未祐.md "wikilink")）、卡牌型「抹茶紅豆奇娜」（聲優：[工藤晴香](../Page/工藤晴香.md "wikilink")）及男孩型（聲優：[折笠愛](../Page/折笠愛.md "wikilink")）等）。
     只有男性才會玩得很入迷，女性會覺得很無聊，且很快就會興趣全失。
     SKET團抵達比賽現場後，發現到的人只有黃老師的兩個孫子（聲優：[奈良徹](../Page/奈良徹.md "wikilink")、），使得眾男性熱情退減而離去。
   -
     據說是黃老師教的KUSO遊戲之三。山野邊老師請求Switch修理專用主機（也是KUSO主機），順便請SKET團破解其遊戲。
-    通稱「毀壞了的特別真理子」，遊戲內容惡搞[馬利歐](../Page/馬利歐.md "wikilink")。有A到U的按鈕，沒往下的方向鍵，並且讓真理子在遊戲中升職與跳槽，藉以有能力與最終BOSS社長戰鬥。
+    通稱「毀壞了的特別真理子」，遊戲內容惡搞[馬利歐](https://zh.wikipedia.org/wiki/馬利歐 "wikilink")。有A到U的按鈕，沒往下的方向鍵，並且讓真理子在遊戲中升職與跳槽，藉以有能力與最終BOSS社長戰鬥。
     後來Bossun發現要打倒最終Boss，要和真理子（聲優：）的妹妹路其安娜（聲優：[後藤邑子](../Page/後藤邑子.md "wikilink")）對話，才能發動合體技。
     姊妹最後合體打倒最終Boss（聲優：[若本規夫](../Page/若本規夫.md "wikilink")），但已玩超過4小時，導致主機過熱而毀壞。
   -
@@ -130,7 +131,7 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](../Page/日本
 
 ## 讀切版本
 
-《[赤丸JUMP](../Page/赤丸JUMP.md "wikilink")》及《[週刊少年JUMP](../Page/週刊少年JUMP.md "wikilink")》本誌掲載時均為同樣的標題。
+《[赤丸JUMP](https://zh.wikipedia.org/wiki/赤丸JUMP "wikilink")》及《[週刊少年JUMP](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")》本誌掲載時均為同樣的標題。
 
 為了相當於連載版的原型，以BOSSUN和SWITCH的本名為首，但在**設定上與連載版有部分差異**。
 
@@ -547,10 +548,10 @@ ISBN 978-986-337-497-8</p></td>
 ### 輕小説
 
 1.  **SKET DANCE extra dance 1
-    真說\!\!學園七不思議**（作者:[平林佐和子](../Page/平林佐和子.md "wikilink")）
+    真說\!\!學園七不思議**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")）
     2009年11月4日發售\[1\]、ISBN 978-4-08-703211-6
 2.  **SKET DANCE extra dance 2
-    學生會事件簿〜クック・シェル事件〜**（作者:[平林佐和子](../Page/平林佐和子.md "wikilink")）
+    學生會事件簿〜クック・シェル事件〜**（作者:[平林佐和子](https://zh.wikipedia.org/wiki/平林佐和子 "wikilink")）
     2010年7月2日發售\[2\]、ISBN 978-4-08-703225-3
 
 ## 衍生作品
@@ -563,7 +564,7 @@ ISBN 978-986-337-497-8</p></td>
 ### VOMIC
 
 Jump専門情報節目「」2009年11月中播放，各3分、全4話。12月上載於集英社Voice Comic Station
-Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
+Site「[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")」放送。
 
   - 話數一覽
 
@@ -667,7 +668,8 @@ Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
   - 角色設定：中武學
   - 監督：[川口敬一郎](../Page/川口敬一郎.md "wikilink")
   - 音樂：
-  - 動畫製作：[龍之子 Production](../Page/龍之子_Production.md "wikilink")
+  - 動畫製作：[龍之子
+    Production](https://zh.wikipedia.org/wiki/龍之子_Production "wikilink")
 
 #### 主題歌
 
@@ -678,7 +680,8 @@ Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
 1.  「**[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")（カッコ悪い I
     love you\!）**」**(avex entertainment)（第2話 - 第17話）**
       -
-        歌 - [French Kiss](../Page/French_Kiss.md "wikilink")（フレンチ・キス）
+        歌 - [French
+        Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")（フレンチ・キス）
         作詞：秋元康 作曲 - 黑須克彦 編曲 - 五十嵐“IGAO”淳一
         第1、51話作片尾曲使用。
 2.  「**道**」**(avex entertainment)（第18話 - 第26話）**
@@ -708,8 +711,9 @@ Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
 
 1.  「**Comic Sonic**」**(avex trax)（第2話 - 第16話）**
       -
-        歌、編曲 - [the pillows](../Page/the_pillows.md "wikilink") 作詞、作曲 -
-        山中さわお
+        歌、編曲 - [the
+        pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
+        作詞、作曲 - 山中さわお
 2.  「**Funny Bunny（Rock Stock Version）**」**（第17話）**
       -
         歌 - the pillows 作詞、作曲 - 山中さわお 編曲 - the pillows
@@ -832,7 +836,7 @@ Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
 <td><p>第1話</p></td>
 <td><p><strong>2011年</strong><br />
 4月7日</p></td>
-<td><p><a href="../Page/猪爪慎一.md" title="wikilink">猪爪慎一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/猪爪慎一" title="wikilink">猪爪慎一</a></p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
 <td><p>草間英興</p></td>
 <td></td>
@@ -916,7 +920,7 @@ Site「[VOMIC](../Page/VOMIC.md "wikilink")」放送。
 <td><p>5月26日</p></td>
 <td><p><a href="../Page/筆安一幸.md" title="wikilink">筆安一幸</a></p></td>
 <td><p>渡邊慎一</p></td>
-<td><p><a href="../Page/貞方希久子.md" title="wikilink">貞方希久子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貞方希久子" title="wikilink">貞方希久子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1804,7 +1808,7 @@ Kim yong-sik</p></td>
 <th><p>播放地域</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>播放系列</p></th>
 <th><p>延遲播放</p></th>
 </tr>
@@ -1835,7 +1839,7 @@ Kim yong-sik</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1843,7 +1847,7 @@ Kim yong-sik</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1851,7 +1855,7 @@ Kim yong-sik</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td></td>
 <td></td>
@@ -1863,7 +1867,7 @@ Kim yong-sik</p></td>
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2011年4月13日－2012年10月3日</p></td>
 <td><p>星期三 9時00分－9時30分</p></td>
-<td><p><a href="../Page/CS放送.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CS放送" title="wikilink">CS放送</a></p></td>
 <td><p>播放延遲六天<br />
 有重播</p></td>
 </tr>
@@ -1895,9 +1899,9 @@ Kim yong-sik</p></td>
 <td></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2012年9月20日－11月29日</p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">星期一至五 19:30－20:00</a></p></td>
-<td><p><a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
-<td><p>含<a href="../Page/配音員#台灣.md" title="wikilink">中文配音</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">星期一至五 19:30－20:00</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
+<td><p>含<a href="https://zh.wikipedia.org/wiki/配音員#台灣" title="wikilink">中文配音</a><br />
 有重播時段</p></td>
 </tr>
 <tr class="odd">
@@ -1912,7 +1916,7 @@ Kim yong-sik</p></td>
 <td></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2012年9月12日－11月21日</p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">星期一至五 22:00－22:30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">星期一至五 22:00－22:30</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1954,7 +1958,7 @@ Kim yong-sik</p></td>
 
 ## 氦氣騷動
 
-在《週刊少年JUMP》2009年42號刊載的第105話中，故事有角色們從液化氣瓶直接吸入[氦氣的描寫](../Page/氦氣.md "wikilink")；不過，由於吸入氦氣有可能會[缺氧](../Page/缺氧.md "wikilink")，甚至窒息而死，因此內容受到讀者投訴。《週刊少年JUMP》編輯部在2009年44號140頁的本作品封面和JUMP官方網站發出為此道歉，作者本人也在單行本12卷105話修改有關畫面，並在話末記事向讀者致歉。
+在《週刊少年JUMP》2009年42號刊載的第105話中，故事有角色們從液化氣瓶直接吸入[氦氣的描寫](https://zh.wikipedia.org/wiki/氦氣 "wikilink")；不過，由於吸入氦氣有可能會[缺氧](../Page/缺氧.md "wikilink")，甚至窒息而死，因此內容受到讀者投訴。《週刊少年JUMP》編輯部在2009年44號140頁的本作品封面和JUMP官方網站發出為此道歉，作者本人也在單行本12卷105話修改有關畫面，並在話末記事向讀者致歉。
 
 ## 參考資料
 

@@ -1,5 +1,5 @@
 **Mozilla Firefox, Portable Edition**，中文稱之為可攜式版本。由約翰·哈勒（John T.
-Haller）所開發，允許在[隨身碟或其他裝置上執行](../Page/隨身碟.md "wikilink")[Firefox瀏覽器](../Page/Firefox.md "wikilink")。Firefox可攜式版本保留了官方安裝版的所有功能。
+Haller）所開發，允許在[隨身碟或其他裝置上執行](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")[Firefox瀏覽器](../Page/Firefox.md "wikilink")。Firefox可攜式版本保留了官方安裝版的所有功能。
 
 ## 參考資料
 

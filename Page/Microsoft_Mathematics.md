@@ -1,13 +1,13 @@
 **Microsoft Mathematics**（前称**Microsoft Math**）是一個教育軟件，設計給[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，使用戶能夠解決的數學和科學問題。由[微軟開發和維護](../Page/微軟.md "wikilink")，它主要作為學生的學習工具。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，使用戶能夠解決的數學和科學問題。由[微軟開發和維護](https://zh.wikipedia.org/wiki/微軟 "wikilink")，它主要作為學生的學習工具。
 
 ## 特點
 
 Microsoft
-Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技術相關的問題。工具包括[圖形計算器及單位換算](../Page/圖形計算器.md "wikilink")。它還包括一個[三角形求解器和一個](../Page/三角形.md "wikilink")[方程求解器](../Page/方程.md "wikilink")，提供一步一步的解決方案，有利於對學生企圖學習解決問題的技能。
+Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技術相關的問題。工具包括[圖形計算器及單位換算](https://zh.wikipedia.org/wiki/圖形計算器 "wikilink")。它還包括一個[三角形求解器和一個](../Page/三角形.md "wikilink")[方程求解器](../Page/方程.md "wikilink")，提供一步一步的解決方案，有利於對學生企圖學習解決問題的技能。
 
 獨立版本的Microsoft Mathematics
-4.0還支持手寫識別及[微积分](../Page/微积分.md "wikilink")，從而使用戶能夠通過手寫出問題，讓他們通过微軟數學認識數學。
+4.0還支持手寫識別及[微积分](https://zh.wikipedia.org/wiki/微积分 "wikilink")，從而使用戶能夠通過手寫出問題，讓他們通过微軟數學認識數學。
 
 ## 版本歷史
 

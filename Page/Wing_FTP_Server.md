@@ -1,5 +1,5 @@
 **Wing FTP
-Server**，是一个专业的跨平台[FTP服务器端](../Page/FTP.md "wikilink")，它拥有不错的速度、可靠性和一个友好的配置界面。它除了能提供FTP的基本服务功能以外，还能提供[管理员终端](../Page/管理员.md "wikilink")、任务计划、基于[Web的管理端](../Page/Web.md "wikilink")，基于Web的客户端和[Lua脚本扩展等](../Page/Lua.md "wikilink")，它还支持虚拟文件夹、上传下载比率分配、磁盘容量分配，ODBC/Mysql存储账户等特性，支持[Windows](../Page/Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[MacOS和](../Page/MacOS.md "wikilink")[Solaris等作業系統](../Page/Solaris.md "wikilink")。
+Server**，是一个专业的跨平台[FTP服务器端](https://zh.wikipedia.org/wiki/FTP "wikilink")，它拥有不错的速度、可靠性和一个友好的配置界面。它除了能提供FTP的基本服务功能以外，还能提供[管理员终端](../Page/管理员.md "wikilink")、任务计划、基于[Web的管理端](https://zh.wikipedia.org/wiki/Web "wikilink")，基于Web的客户端和[Lua脚本扩展等](../Page/Lua.md "wikilink")，它还支持虚拟文件夹、上传下载比率分配、磁盘容量分配，ODBC/Mysql存储账户等特性，支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[MacOS和](../Page/MacOS.md "wikilink")[Solaris等作業系統](../Page/Solaris.md "wikilink")。
 
 ## 主要特点
 

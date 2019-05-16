@@ -1,6 +1,6 @@
 **FUSO Aero
-Bus**是[三菱扶桑所生產的一輛大型單層](../Page/三菱扶桑.md "wikilink")[觀光及長途](../Page/觀光.md "wikilink")[客車系列](../Page/客車.md "wikilink")，採用無大樑式、氣墊懸掛及後置引擎所設計。
-在[日本](../Page/日本.md "wikilink")、[亞太](../Page/亞太.md "wikilink")、[中東](../Page/中東.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[南美洲等地](../Page/南美洲.md "wikilink")，其主要競爭對手為Isuzu
+Bus**是[三菱扶桑所生產的一輛大型單層](https://zh.wikipedia.org/wiki/三菱扶桑 "wikilink")[觀光及長途](https://zh.wikipedia.org/wiki/觀光 "wikilink")[客車系列](https://zh.wikipedia.org/wiki/客車 "wikilink")，採用無大樑式、氣墊懸掛及後置引擎所設計。
+在[日本](../Page/日本.md "wikilink")、[亞太](https://zh.wikipedia.org/wiki/亞太 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[南美洲等地](../Page/南美洲.md "wikilink")，其主要競爭對手為Isuzu
 Gala、Nissan Diesel Space Arrow、Hino
 S'elega等。在[臺灣底盤進口部分主要是由](../Page/臺灣.md "wikilink")[順益汽車從日本進口全散零件來](../Page/順益關係企業.md "wikilink")[臺灣進行組裝](../Page/臺灣.md "wikilink")，銷售由[裕益汽車負責](../Page/順益關係企業.md "wikilink")，車體組裝則是臺灣各車體廠進行組裝。
 
@@ -50,10 +50,10 @@ Image:Kantetsubus-kashima-1640it-20070923.jpg|Aero Bus K U-MS726N
       - 配備8M21發動機。
       - 前保險桿的設計更改（Aero Bus and Queen-I）
   - KL-MS86（2000年）
-      - 所有型號配備楔形空氣[煞車和駕駛](../Page/煞車.md "wikilink")[安全氣囊](../Page/安全氣囊.md "wikilink")。
+      - 所有型號配備楔形空氣[煞車和駕駛](../Page/煞車.md "wikilink")[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
       - 前照燈配[高強度氣體放電燈頭燈](../Page/高強度氣體放電燈.md "wikilink")。
   - PJ-MS86（2005年）
-      - [發動機改為](../Page/發動機.md "wikilink")6M70（渦輪增壓）和軸距縮短至6.0米。
+      - [發動機改為](https://zh.wikipedia.org/wiki/發動機 "wikilink")6M70（渦輪增壓）和軸距縮短至6.0米。
       - Queen-II and -III 停產。
       - 尾燈的設計更改。
 
@@ -67,7 +67,7 @@ Image:KamalanBus 326FL Front.jpg|臺灣葛瑪蘭客運FUSO RM11GNL3（6M60，278
 ## Aero Ace/Aero Queen（第三代）
 
   - BKG-MS96JP（2007年）
-      - 使用[尿素選擇性催化還原](../Page/尿素.md "wikilink")（SCR）系統。（需使用[車用尿素溶液](../Page/AdBlue.md "wikilink")）
+      - 使用[尿素選擇性催化還原](../Page/尿素.md "wikilink")（SCR）系統。（需使用[車用尿素溶液](https://zh.wikipedia.org/wiki/AdBlue "wikilink")）
   - LKG-MS96VP（2010年）
       - 軸距延長到6.095m
       - 使用與[戴姆勒合作聯合開發的](../Page/戴姆勒.md "wikilink")6R10雙凸輪軸（DOHC）多氣門引擎，並加入Blue
@@ -85,7 +85,7 @@ Image:Miyagi-kotsu-1835.jpg|Aero Ace LKG-MS96VP Image:Kitanohoshi H200D
 
 ## 參見
 
-  - [三菱扶桑](../Page/三菱扶桑.md "wikilink")
+  - [三菱扶桑](https://zh.wikipedia.org/wiki/三菱扶桑 "wikilink")
 
 ## 外部連結
 

@@ -1,4 +1,4 @@
-**Ask.com**是1996年出现在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[伯克利的一个](../Page/伯克利.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")，后来运营总部迁往[奥克兰](../Page/奥克兰_\(加利福尼亚州\).md "wikilink")。
+**Ask.com**是1996年出现在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[伯克利的一个](https://zh.wikipedia.org/wiki/伯克利 "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，后来运营总部迁往[奥克兰](../Page/奥克兰_\(加利福尼亚州\).md "wikilink")。
 
 1999年7月，Ask.com曾以ASKJ为代号在[纳斯达克上市](../Page/纳斯达克.md "wikilink")，2005年7月，被现在的母公司InterActiveCorp收购。
 
@@ -11,7 +11,7 @@ Alpha之间](../Page/Wolfram_Alpha.md "wikilink")。
 
 尽管Ask.com使用自己的搜索技术，但是在广告营收方面他们采用了Google的解决方案。
 
-Ask.com与主流浏览器有较为深入的合作关系，是[Opera英文版默认快速拨号搜索引擎](../Page/Opera電腦瀏覽器.md "wikilink")，也是[SeaMonkey三个默认搜索引擎之一](../Page/SeaMonkey.md "wikilink")。
+Ask.com与主流浏览器有较为深入的合作关系，是[Opera英文版默认快速拨号搜索引擎](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")，也是[SeaMonkey三个默认搜索引擎之一](../Page/SeaMonkey.md "wikilink")。
 
 除搜索外，Ask.com还拥有一些其它业务，如被关闭的[Bloglines](../Page/Bloglines.md "wikilink")，以及著名的英文网络字典Reference.com。
 

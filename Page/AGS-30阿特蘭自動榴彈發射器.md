@@ -1,31 +1,31 @@
-**AGS-30**（\[1\]；Атлант，，意為：阿特蘭；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製及生產的](../Page/俄联邦仪器设计局.md "wikilink")30毫米[自動榴弹发射器](../Page/榴弹发射器#全自動型榴弹发射器.md "wikilink")，是[AGS-17的改進型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](../Page/榴彈.md "wikilink")。
+**AGS-30**（\[1\]；Атлант，，意為：阿特蘭；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一挻由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）[KBP儀器設計廠所研製及生產的](../Page/俄联邦仪器设计局.md "wikilink")30毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的改進型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
-AGS-30可裝設在[三腳架](../Page/三腳架.md "wikilink")、[车辆](../Page/车辆.md "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](../Page/直升機.md "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-30已經被[俄羅斯軍隊所採用](../Page/俄羅斯軍事.md "wikilink")。
+AGS-30可裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-30已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
 
 ## 設計
 
-AGS-30與[AGS-17一樣是班用](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，設計上是安裝在[三腳架上或安裝在](../Page/三腳架.md "wikilink")[裝甲戰鬥車輛載具上](../Page/裝甲戰鬥車輛.md "wikilink")。它在重量方面變得比AGS-17更為輕便（上彈以後的重量比起AGS-17下降了接近一半）、大大提高其流動性、便攜性（以小組為單位而言，它可以被很容易地分解並且摺疊，並且只由一個人攜帶或是在戰場上快速部署）以下仍然有同樣地可靠的性能，但有著更遠的射程、更高的射速和更好的精度。AGS-30具有更平滑的榴彈發射機構，以減輕發射時的[後座力](../Page/後座力.md "wikilink")。AGS-30只有[全自動射擊模式以簡化操作](../Page/自動火器.md "wikilink")。
+AGS-30與[AGS-17一樣是班用](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，設計上是安裝在[三腳架上或安裝在](https://zh.wikipedia.org/wiki/三腳架 "wikilink")[裝甲戰鬥車輛載具上](../Page/裝甲戰鬥車輛.md "wikilink")。它在重量方面變得比AGS-17更為輕便（上彈以後的重量比起AGS-17下降了接近一半）、大大提高其流動性、便攜性（以小組為單位而言，它可以被很容易地分解並且摺疊，並且只由一個人攜帶或是在戰場上快速部署）以下仍然有同樣地可靠的性能，但有著更遠的射程、更高的射速和更好的精度。AGS-30具有更平滑的榴彈發射機構，以減輕發射時的[後座力](../Page/後座力.md "wikilink")。AGS-30只有[全自動射擊模式以簡化操作](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
 
 AGS-30使用改進型的[後座作用原理的槍機結構](../Page/後座作用.md "wikilink")，冷卻方式更順暢和顯著，以保持操作。每發榴彈在發射時，都會從[膛線](../Page/膛線.md "wikilink")[槍管射出](../Page/槍管.md "wikilink")，並且會迅速運動以減少槍管的高壓火藥燃氣的壓力。除了減少了[後座力](../Page/後座力.md "wikilink")，榴彈彈射機構亦更為平滑。
 
-AGS-30的榴彈都裝在一具重量大約是14公斤（30.86磅）的金屬製[彈鼓內](../Page/彈鼓.md "wikilink")，並且以[不可散式彈鏈連接在一起](../Page/彈鏈.md "wikilink")。使用時彈鼓會鉤掛在[機匣右側以防止掉落](../Page/機匣.md "wikilink")。彈鼓標準容量為30發榴彈（有異說為29發）。使用特別設計的改進型榴彈以後，AGS-30可以攻擊2,300公尺（2,515.31码）的主要目標並且造成極端的殺傷力。
+AGS-30的榴彈都裝在一具重量大約是14公斤（30.86磅）的金屬製[彈鼓內](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，並且以[不可散式彈鏈連接在一起](../Page/彈鏈.md "wikilink")。使用時彈鼓會鉤掛在[機匣右側以防止掉落](https://zh.wikipedia.org/wiki/機匣 "wikilink")。彈鼓標準容量為30發榴彈（有異說為29發）。使用特別設計的改進型榴彈以後，AGS-30可以攻擊2,300公尺（2,515.31码）的主要目標並且造成極端的殺傷力。
 
-AGS-30的[三腳架為](../Page/三腳架.md "wikilink")**SAG-30**（[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。有意思的是，和AGS-17的三腳架的相異之處就是扳機位於右側的握把，而握把則安裝在不可或缺的三腳架搖架上，而不是直接安裝在槍體上，這是為了射擊時更容易控制和舒適。
+AGS-30的[三腳架為](https://zh.wikipedia.org/wiki/三腳架 "wikilink")**SAG-30**（[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：），配有良好的平整[彈道功能](../Page/弹道学.md "wikilink")，由其是提供間接火力的時候。不使用的時候亦可將其摺疊以便運輸和攜帶。有意思的是，和AGS-17的三腳架的相異之處就是扳機位於右側的握把，而握把則安裝在不可或缺的三腳架搖架上，而不是直接安裝在槍體上，這是為了射擊時更容易控制和舒適。
 
-AGS-30可裝上[光學瞄準鏡](../Page/瞄準鏡.md "wikilink")，[放大倍率為](../Page/望远镜放大倍数.md "wikilink")2.7倍，並具有夜間照明的功能，瞄準鏡拆卸以後可放在專用攜行袋內。
+AGS-30可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，[放大倍率為](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")2.7倍，並具有夜間照明的功能，瞄準鏡拆卸以後可放在專用攜行袋內。
 
 ## 發展
 
-[前蘇聯解散以後](../Page/苏联.md "wikilink")，[俄罗斯發現在](../Page/俄罗斯.md "wikilink")[第一次車臣戰爭時](../Page/第一次車臣戰爭.md "wikilink")，自己方面處於一個劣勢。在1979年[阿富汗](../Page/阿富汗.md "wikilink")[战争以上](../Page/苏联－阿富汗战争.md "wikilink")，由於[AGS-17的設計的成功](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，以致在1990年代初，[KBP儀器設計局](../Page/俄联邦仪器设计局.md "wikilink")（前為為OKB-16設計局，位於[俄罗斯城市](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")）立即開始新型榴彈發射器的設計工作。俄羅斯軍隊需要一款可以在幾秒鐘以內很容易地對武裝分子藏身的[建筑物進行搜索和瞄準他們攻擊的武器](../Page/建筑物.md "wikilink")。全新設計的武器被證明非常可靠和致命。這款武器的另一項改進是它能夠保持令敵人難以偵測—減少發射時發出的聲音、和AGS-30發射的榴彈擁有閃電般的[槍口初速](../Page/槍口初速.md "wikilink")，都使得AGS-30很難察覺。它幾乎可以在任何地方正常地操作—將榴彈發射到建築物的窗口、泥地或是草地的表面。從1999年開始，AGS-30由[俄罗斯](../Page/俄罗斯.md "wikilink")[科夫罗夫的](../Page/科夫罗夫.md "wikilink")（；）[量產](../Page/大量生產.md "wikilink")。2002年，AGS-30正式獲得採用。\[2\]
+[前蘇聯解散以後](../Page/苏联.md "wikilink")，[俄罗斯發現在](../Page/俄罗斯.md "wikilink")[第一次車臣戰爭時](../Page/第一次車臣戰爭.md "wikilink")，自己方面處於一個劣勢。在1979年[阿富汗](../Page/阿富汗.md "wikilink")[战争以上](../Page/苏联－阿富汗战争.md "wikilink")，由於[AGS-17的設計的成功](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，以致在1990年代初，[KBP儀器設計局](../Page/俄联邦仪器设计局.md "wikilink")（前為為OKB-16設計局，位於[俄罗斯城市](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")）立即開始新型榴彈發射器的設計工作。俄羅斯軍隊需要一款可以在幾秒鐘以內很容易地對武裝分子藏身的[建筑物進行搜索和瞄準他們攻擊的武器](../Page/建筑物.md "wikilink")。全新設計的武器被證明非常可靠和致命。這款武器的另一項改進是它能夠保持令敵人難以偵測—減少發射時發出的聲音、和AGS-30發射的榴彈擁有閃電般的[槍口初速](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，都使得AGS-30很難察覺。它幾乎可以在任何地方正常地操作—將榴彈發射到建築物的窗口、泥地或是草地的表面。從1999年開始，AGS-30由[俄罗斯](../Page/俄罗斯.md "wikilink")[科夫罗夫的](https://zh.wikipedia.org/wiki/科夫罗夫 "wikilink")（；）[量產](../Page/大量生產.md "wikilink")。2002年，AGS-30正式獲得採用。\[2\]
 
 ## 彈藥
 
-AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")口徑（[不可散式彈鏈接接](../Page/彈鏈.md "wikilink")）[钢彈殼榴彈](../Page/钢.md "wikilink")，有效致命[半徑為](../Page/半徑.md "wikilink")7—9公尺（7.66—9.84码）。目前AGS-30可以發射兩種類型的[彈藥](../Page/彈藥.md "wikilink")，分別是：
+AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")口徑（[不可散式彈鏈接接](../Page/彈鏈.md "wikilink")）[钢彈殼榴彈](../Page/钢.md "wikilink")，有效致命[半徑為](https://zh.wikipedia.org/wiki/半徑 "wikilink")7—9公尺（7.66—9.84码）。目前AGS-30可以發射兩種類型的[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，分別是：
 
-  - [VOG-17](../Page/30×29mm#VOG-17.md "wikilink")：這是原來可用的30毫米榴彈，只有基本版本的定時引信。
-  - [VOG-17M](../Page/30×29mm#VOG-17M.md "wikilink")：這是原來可用的30毫米榴彈的改進型版本，並有一個基本的[高爆](../Page/炮彈#高爆彈_\(HE\).md "wikilink")[破片](../Page/破片杀伤.md "wikilink")[彈頭設計](../Page/彈頭.md "wikilink")。榴彈的[引信](../Page/引信.md "wikilink")[自毀時間為](../Page/自爆.md "wikilink")25—27秒。
-  - [VOG-30](../Page/30×29mm#VOG-30.md "wikilink")：這是一種類似於VOG-17M的榴彈，但具有更好的爆炸物填充料和增強破片分散方面的設計，大大增加了[爆炸的有效](../Page/爆炸.md "wikilink")[半径](../Page/半径.md "wikilink")。
-  - [GPD-30](../Page/30×29mm#GPD-30.md "wikilink")：最近投入批量生產的榴彈，採用了特殊設計，可打擊超過2,000公尺（2,187.23码，6,561.68英尺，1.24英里）的目標。\[3\]
+  - [VOG-17](https://zh.wikipedia.org/wiki/30×29mm#VOG-17 "wikilink")：這是原來可用的30毫米榴彈，只有基本版本的定時引信。
+  - [VOG-17M](https://zh.wikipedia.org/wiki/30×29mm#VOG-17M "wikilink")：這是原來可用的30毫米榴彈的改進型版本，並有一個基本的[高爆](https://zh.wikipedia.org/wiki/炮彈#高爆彈_\(HE\) "wikilink")[破片](../Page/破片杀伤.md "wikilink")[彈頭設計](../Page/彈頭.md "wikilink")。榴彈的[引信](../Page/引信.md "wikilink")[自毀時間為](../Page/自爆.md "wikilink")25—27秒。
+  - [VOG-30](https://zh.wikipedia.org/wiki/30×29mm#VOG-30 "wikilink")：這是一種類似於VOG-17M的榴彈，但具有更好的爆炸物填充料和增強破片分散方面的設計，大大增加了[爆炸的有效](https://zh.wikipedia.org/wiki/爆炸 "wikilink")[半径](https://zh.wikipedia.org/wiki/半径 "wikilink")。
+  - [GPD-30](https://zh.wikipedia.org/wiki/30×29mm#GPD-30 "wikilink")：最近投入批量生產的榴彈，採用了特殊設計，可打擊超過2,000公尺（2,187.23码，6,561.68英尺，1.24英里）的目標。\[3\]
 
 ## 使用國
 
@@ -50,7 +50,8 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
 
   - 2006年—《[-{zh-cn:武装突袭; zh-tw:武裝行動;
     zh-hk:武裝行動;}-](../Page/武装突袭.md "wikilink")》（ARMA:
-    Armed Assault）：安裝在[越野车上](../Page/越野车.md "wikilink")。
+    Armed
+    Assault）：安裝在[越野车上](https://zh.wikipedia.org/wiki/越野车 "wikilink")。
   - 2009年—《[-{zh-cn:武裝突襲2; zh-tw:武裝行動2;
     zh-hk:武裝行動2;}-](../Page/武装突袭2.md "wikilink")》（ArmA
     II）：被黑俄羅斯國防軍（CDF）、俄羅斯武裝部隊（Russia）和黑俄羅斯紅星運動（Insurgents）所使用，裝上車輛載具上並且合稱為「
@@ -59,13 +60,13 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
     zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動;
     zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black Ops）：在「Rebirth」中裝在玩家的上被玩家使用，以雙重武器的形象出現，奇怪地会在1960年代出現。
-  - 2018年—《[少女前線](../Page/少女前線.md "wikilink")》：[萌擬人化的複數少女戰術人形](../Page/萌擬人化.md "wikilink")，為首先登場的三組重裝部隊之一。
+  - 2018年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[萌擬人化的複數少女戰術人形](../Page/萌擬人化.md "wikilink")，為首先登場的三組重裝部隊之一。
 
 [AGS-30_maks2009.jpg](https://zh.wikipedia.org/wiki/File:AGS-30_maks2009.jpg "fig:AGS-30_maks2009.jpg")上展出的AGS-30自動榴彈發射器。\]\]
 
 ## 相關條目
 
-  - [手榴彈](../Page/手榴彈.md "wikilink")、[槍榴彈](../Page/步槍用榴彈.md "wikilink")
+  - [手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")、[槍榴彈](../Page/步槍用榴彈.md "wikilink")
   - [AGS-17烈火自動榴彈發射器](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，前身
   - [RGM-40榴彈發射器](../Page/RGM-40榴彈發射器.md "wikilink")
   - [RGS-50榴彈發射器](../Page/RGS-50榴彈發射器.md "wikilink")
@@ -73,21 +74,23 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")
   - [DP-64榴彈發射器](../Page/DP-64榴彈發射器.md "wikilink")
-  - [扎斯塔瓦M93 BGA自動榴彈發射器](../Page/扎斯塔瓦M93_BGA自動榴彈發射器.md "wikilink")
-  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
+  - [扎斯塔瓦M93
+    BGA自動榴彈發射器](https://zh.wikipedia.org/wiki/扎斯塔瓦M93_BGA自動榴彈發射器 "wikilink")
+  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
   - [Mk
     19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")，由[美国](../Page/美国.md "wikilink")[通用动力製造的自動榴彈發射器](../Page/通用动力.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")，已停止開發、採用25
     毫米智能化榴彈的自動榴彈發射器
   - [HK
-    GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫製造的自動榴彈發射器](../Page/黑克勒-科赫.md "wikilink")
+    GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")，由[德国](../Page/德国.md "wikilink")[黑克勒-科赫製造的自動榴彈發射器](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")
   - [CIS 40
     AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")製造的自動榴彈發射器
-  - [CZW RAG-30自动榴弹发射器](../Page/CZW_RAG-30自动榴弹发射器.md "wikilink")
-  - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")，由[南非製造的自動榴彈發射器](../Page/南非.md "wikilink")
+  - [CZW
+    RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
+  - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")，由[南非製造的自動榴彈發射器](https://zh.wikipedia.org/wiki/南非 "wikilink")
   - [SB LAG
-    40自動榴彈發射器](../Page/SB_LAG_40自動榴彈發射器.md "wikilink")，由[西班牙製造的自動榴彈發射器](../Page/西班牙.md "wikilink")
+    40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")，由[西班牙製造的自動榴彈發射器](../Page/西班牙.md "wikilink")
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

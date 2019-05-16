@@ -2,19 +2,19 @@
 4.45{{±|0.016|0.029}}\[2\] | temperature = 5500 ± 150\[3\] | metal =
 \[M/H\]=0.0 ± 0.2\[4\] }}
 
-**WASP-4**是位於[鳳凰座](../Page/鳳凰座.md "wikilink")，距離大約1,000光年的[G-型主序星](../Page/GV恆星.md "wikilink")
+**WASP-4**是位於[鳳凰座](https://zh.wikipedia.org/wiki/鳳凰座 "wikilink")，距離大約1,000光年的[G-型主序星](https://zh.wikipedia.org/wiki/GV恆星 "wikilink")
 \[5\]。
 
 ## 行星系統
 
-在2007年，發現了一顆[系外行星](../Page/系外行星.md "wikilink")[WASP-4b環繞著這顆恆星](../Page/WASP-4b.md "wikilink")\[6\]。
+在2007年，發現了一顆[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[WASP-4b環繞著這顆恆星](../Page/WASP-4b.md "wikilink")\[6\]。
 
 </ref> | semimajor = 0.0230±0.001 | period = 1.3382282±0.000003 |
 eccentricity = 0 }}
 
 ## 相關條目
 
-  - [SuperWASP](../Page/SuperWASP.md "wikilink")
+  - [SuperWASP](https://zh.wikipedia.org/wiki/SuperWASP "wikilink")
   - [太陽系外行星列表](../Page/太陽系外行星列表.md "wikilink")
 
 ## 參考資料
@@ -40,6 +40,6 @@ eccentricity = 0 }}
     Jupiter in the Southern Hemisphere |
     url=<http://www.iop.org/EJ/article/1538-4357/675/2/L113/22429.html>
     | author= Wilson *et al.* | journal=[The Astrophysical
-    Journal](../Page/The_Astrophysical_Journal.md "wikilink") Letters |
-    volume=675 | issue=2 | pages=L113–L116 | bibcode=2008ApJ...675L.113W
-    | doi=10.1086/586735|date=March 2008}}
+    Journal](https://zh.wikipedia.org/wiki/The_Astrophysical_Journal "wikilink")
+    Letters | volume=675 | issue=2 | pages=L113–L116 |
+    bibcode=2008ApJ...675L.113W | doi=10.1086/586735|date=March 2008}}

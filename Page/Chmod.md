@@ -1,4 +1,4 @@
-**`chmod`**是一条在[Unix系统中用于控制用户对文件的权限的命令](../Page/Unix.md "wikilink")（**ch**ange
+**`chmod`**是一条在[Unix系统中用于控制用户对文件的权限的命令](https://zh.wikipedia.org/wiki/Unix "wikilink")（**ch**ange
 **mod**e单词前缀的组合）和函数。只有文件所有者和超级用户可以修改文件或目录的权限。可以使用绝对模式（八进制数字模式），符号模式指定文件的权限。
 
 ## 用法
@@ -95,7 +95,7 @@ chmod u+x filename 在这里，u的意思是user指用户本人；+的意思是�
 ### 特殊模式
 
   -
-    *参看: [文件系统权限](../Page/文件系统权限.md "wikilink")*
+    *参看: [文件系统权限](https://zh.wikipedia.org/wiki/文件系统权限 "wikilink")*
 
 ### 命令使用实例
 
@@ -138,7 +138,8 @@ chmod函数C语言的定义:
 
 模式进行按位或运算对应期望的权限。
 
-函数检验的错误以及相应的错误码在[man page有定义](../Page/man_page.md "wikilink")。
+函数检验的错误以及相应的错误码在[man
+page有定义](https://zh.wikipedia.org/wiki/man_page "wikilink")。
 
 ## 参考文献
 
@@ -150,14 +151,14 @@ chmod函数C语言的定义:
     文件和目录的属性](https://web.archive.org/web/20160711022056/http://www.linuxsir.org/main/?q=node%2F196#4)
   - [`chmod`](http://www.gnu.org/software/coreutils/manual/html_node/chmod-invocation.html)
     — manual page from [GNU](../Page/GNU.md "wikilink")
-    [coreutils](../Page/coreutils.md "wikilink").
+    [coreutils](https://zh.wikipedia.org/wiki/coreutils "wikilink").
   - [GNU "Setting Permissions"
     manual](http://www.gnu.org/software/coreutils/manual/html_node/Setting-Permissions.html)
   - [Solaris 9 chmod man
     page](https://web.archive.org/web/20100926051106/http://docs.sun.com/app/docs/doc/817-0689/6mgfkpckn?q=chmod&a=view)
   - [Mac OS X chmod man page](http://www.hmug.org/man/1/chmod.php),
     which also supports [access control
-    lists](../Page/access_control_list.md "wikilink").
+    lists](https://zh.wikipedia.org/wiki/access_control_list "wikilink").
   - [CHMOD-Win 3.0](http://neosmart.net/dl.php?id=4) — Freeware Windows'
     ACL ←→ CHMOD converter.
   - [What CHMOD? File Permissions

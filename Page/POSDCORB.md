@@ -1,18 +1,18 @@
-**POSDCORB**，管理七項功能，又称**管理七职能论**，美国社会学家[古立克](../Page/古立克.md "wikilink")（）與英国[管理学家](../Page/管理学.md "wikilink")[尤偉克](../Page/尤偉克.md "wikilink")（）在一九三七年，合编了一本名為《行政科學论文集》(Papers
+**POSDCORB**，管理七項功能，又称**管理七职能论**，美国社会学家[古立克](https://zh.wikipedia.org/wiki/古立克 "wikilink")（）與英国[管理学家](../Page/管理学.md "wikilink")[尤偉克](https://zh.wikipedia.org/wiki/尤偉克 "wikilink")（）在一九三七年，合编了一本名為《行政科學论文集》(Papers
 on the Science of
-Administration)。古立克在該書的第一篇文章「組織理論註解」()，創造了一個“POSDCORB”的字來說明行政管理，为各项职能的英文单词首字母，泛指七种主要的管理职能。为[公共行政和](../Page/公共行政.md "wikilink")[管理学的基本概念](../Page/管理学.md "wikilink")。
+Administration)。古立克在該書的第一篇文章「組織理論註解」()，創造了一個“POSDCORB”的字來說明行政管理，为各项职能的英文单词首字母，泛指七种主要的管理职能。为[公共行政和](https://zh.wikipedia.org/wiki/公共行政 "wikilink")[管理学的基本概念](../Page/管理学.md "wikilink")。
 
 ## 简介
 
 分别包括以下职能\[1\]：
 
-  - [计划](../Page/计划.md "wikilink")（）；
-  - [组织](../Page/组织.md "wikilink")（）；
-  - [人事](../Page/人事.md "wikilink")（）；
-  - [指挥](../Page/指挥.md "wikilink")（）；權責分配，指揮人員
-  - [协调](../Page/协调.md "wikilink")（）；上下之間和平行之間工作的聯繫和協調
-  - [报告](../Page/报告.md "wikilink")（）；對於工作成果之記載、分析、研究、審查、評估、報告等
-  - [预算](../Page/预算.md "wikilink")（）。
+  - [计划](https://zh.wikipedia.org/wiki/计划 "wikilink")（）；
+  - [组织](https://zh.wikipedia.org/wiki/组织 "wikilink")（）；
+  - [人事](https://zh.wikipedia.org/wiki/人事 "wikilink")（）；
+  - [指挥](https://zh.wikipedia.org/wiki/指挥 "wikilink")（）；權責分配，指揮人員
+  - [协调](https://zh.wikipedia.org/wiki/协调 "wikilink")（）；上下之間和平行之間工作的聯繫和協調
+  - [报告](https://zh.wikipedia.org/wiki/报告 "wikilink")（）；對於工作成果之記載、分析、研究、審查、評估、報告等
+  - [预算](https://zh.wikipedia.org/wiki/预算 "wikilink")（）。
 
 ## 延伸阅读
 

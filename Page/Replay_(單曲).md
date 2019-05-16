@@ -1,12 +1,13 @@
-《**Replay**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")3張[單曲](../Page/單曲.md "wikilink")。1993年7月1日發行。
+《**Replay**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1993年7月1日發行。
 
 ## 簡介
 
 《Replay》被用作[江崎固力果餅乾條產品](../Page/江崎固力果.md "wikilink")「[Pocky](../Page/百奇.md "wikilink")」的廣告歌，是[Mr.Children第一個成功大熱的](../Page/Mr.Children.md "wikilink")[商業搭配](../Page/商業搭配.md "wikilink")。在[Oricon公信榜單曲週榜中最高排行第](../Page/Oricon.md "wikilink")19位，在榜期間銷量為8.83萬張\[1\]。第一次進入Oricon公信榜前20位，為下一首單曲《[CROSS
 ROAD](../Page/CROSS_ROAD_\(Mr.Children單曲\).md "wikilink")》的大爆發奠定基礎。
 
-副歌《All by myself》是1992年的[原創專輯](../Page/原創專輯.md "wikilink")《[Kind of
-Love](../Page/Kind_of_Love.md "wikilink")》的single-cut歌曲。
+副歌《All by
+myself》是1992年的[原創專輯](https://zh.wikipedia.org/wiki/原創專輯 "wikilink")《[Kind
+of Love](../Page/Kind_of_Love.md "wikilink")》的single-cut歌曲。
 
 ## 收錄曲目
 

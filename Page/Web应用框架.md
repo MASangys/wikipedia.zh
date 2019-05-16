@@ -1,5 +1,5 @@
 **Web應用框架**（Web application
-framework）是一種[電腦](../Page/電腦.md "wikilink")[軟體框架](../Page/軟體框架.md "wikilink")，用來支援[動態網站](../Page/動態網站.md "wikilink")、[網絡應用程式及](../Page/網絡應用程式.md "wikilink")[網路服務的開發](../Page/網路服務.md "wikilink")。這種框架有助於減輕網頁開發時共通性活動的工作負荷，例如許多框架提供[資料庫存取介面](../Page/資料庫.md "wikilink")、標準樣板以及[會話管理等](../Page/會話.md "wikilink")，可提昇程式碼的可再用性。
+framework）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，用來支援[動態網站](https://zh.wikipedia.org/wiki/動態網站 "wikilink")、[網絡應用程式及](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")[網路服務的開發](https://zh.wikipedia.org/wiki/網路服務 "wikilink")。這種框架有助於減輕網頁開發時共通性活動的工作負荷，例如許多框架提供[資料庫存取介面](https://zh.wikipedia.org/wiki/資料庫 "wikilink")、標準樣板以及[會話管理等](https://zh.wikipedia.org/wiki/會話 "wikilink")，可提昇程式碼的可再用性。
 
 ## 种类
 
@@ -46,7 +46,7 @@ James Garrett所提出\[1\]。
 
 ## 程式語言
 
-各種[程式語言使用框架分類如下](../Page/程式語言.md "wikilink")：
+各種[程式語言使用框架分類如下](https://zh.wikipedia.org/wiki/程式語言 "wikilink")：
 
 ### PHP
 
@@ -58,7 +58,7 @@ James Garrett所提出\[1\]。
 
   - [Symfony](../Page/Symfony.md "wikilink")
 
-  - [Laravel](../Page/Laravel.md "wikilink")
+  - [Laravel](https://zh.wikipedia.org/wiki/Laravel "wikilink")
 
   -
   -
@@ -68,58 +68,59 @@ James Garrett所提出\[1\]。
 
   - [WindFramework](http://phpwind.github.io/windframework/)
 
-  - [Phalcon](../Page/Phalcon.md "wikilink")
+  - [Phalcon](https://zh.wikipedia.org/wiki/Phalcon "wikilink")
 
-  - [FuelPHP](../Page/FuelPHP.md "wikilink")
+  - [FuelPHP](https://zh.wikipedia.org/wiki/FuelPHP "wikilink")
 
 ### Javascript
 
 （按字母排序）
 
-  - [AngularJS](../Page/AngularJS.md "wikilink")
+  - [AngularJS](https://zh.wikipedia.org/wiki/AngularJS "wikilink")
 
   - [Backbone.js](../Page/Backbone.js.md "wikilink")
 
   -
   -
-  - [jQuery](../Page/jQuery.md "wikilink")
+  - [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
 
   -
-  - [Prototype](../Page/Prototype_\(框架\).md "wikilink")
+  - [Prototype](https://zh.wikipedia.org/wiki/Prototype_\(框架\) "wikilink")
 
   - [ZK](../Page/ZK.md "wikilink")
 
 ### Python
 
-  - [django](../Page/django.md "wikilink")
+  - [django](https://zh.wikipedia.org/wiki/django "wikilink")
   - [flask](http://flask.pocoo.org)
-  - [pinax](../Page/pinax.md "wikilink")
-  - [Grok](../Page/Grok.md "wikilink")
+  - [pinax](https://zh.wikipedia.org/wiki/pinax "wikilink")
+  - [Grok](https://zh.wikipedia.org/wiki/Grok "wikilink")
   - [Pylons](../Page/Pylons.md "wikilink")
   - [TurboGears](../Page/TurboGears.md "wikilink")
-  - [web2py](../Page/web2py.md "wikilink")
+  - [web2py](https://zh.wikipedia.org/wiki/web2py "wikilink")
   - [Zope](../Page/Zope.md "wikilink")
-  - [Quixote](../Page/Quixote.md "wikilink")
-  - [snakelets](../Page/snakelets.md "wikilink")
-  - [snakelets](../Page/snakelets.md "wikilink")
-  - [PylonsHQ](../Page/PylonsHQ.md "wikilink")
+  - [Quixote](https://zh.wikipedia.org/wiki/Quixote "wikilink")
+  - [snakelets](https://zh.wikipedia.org/wiki/snakelets "wikilink")
+  - [snakelets](https://zh.wikipedia.org/wiki/snakelets "wikilink")
+  - [PylonsHQ](https://zh.wikipedia.org/wiki/PylonsHQ "wikilink")
   - Tornado
 
 ### Ruby
 
-  - [Ruby On Rails](../Page/Ruby_On_Rails.md "wikilink")
-  - [Sinatra](../Page/Sinatra.md "wikilink")
+  - [Ruby On
+    Rails](https://zh.wikipedia.org/wiki/Ruby_On_Rails "wikilink")
+  - [Sinatra](https://zh.wikipedia.org/wiki/Sinatra "wikilink")
 
 ### JAVA
 
-  - [Spring](../Page/Spring.md "wikilink")
+  - [Spring](https://zh.wikipedia.org/wiki/Spring "wikilink")
   - [Struts](../Page/Struts.md "wikilink")
-  - [hibernate](../Page/hibernate.md "wikilink")
-  - [Grails](../Page/Grails.md "wikilink")
-  - [GWT](../Page/GWT.md "wikilink")
-  - [JSF](../Page/JSF.md "wikilink")
-  - [Tapestry](../Page/Tapestry.md "wikilink")
-  - [Vaadin](../Page/Vaadin.md "wikilink")
+  - [hibernate](https://zh.wikipedia.org/wiki/hibernate "wikilink")
+  - [Grails](https://zh.wikipedia.org/wiki/Grails "wikilink")
+  - [GWT](https://zh.wikipedia.org/wiki/GWT "wikilink")
+  - [JSF](https://zh.wikipedia.org/wiki/JSF "wikilink")
+  - [Tapestry](https://zh.wikipedia.org/wiki/Tapestry "wikilink")
+  - [Vaadin](https://zh.wikipedia.org/wiki/Vaadin "wikilink")
   - [ZK](../Page/ZK.md "wikilink")
 
 {{-}}

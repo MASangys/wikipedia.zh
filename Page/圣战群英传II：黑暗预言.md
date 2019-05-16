@@ -1,6 +1,6 @@
 《**圣战群英传II：黑暗预言**》（*Disciples II: Dark
-Prophecy*，亦译“**使徒II：黑暗预言**”），是一款适用[Windows和](../Page/Microsoft_Windows.md "wikilink")[Linux平台的回合策略性奇幻游戏](../Page/Linux.md "wikilink")，由[Strategy
-First制作](../Page/Strategy_First.md "wikilink")，2002年1月24日发行。它是1999年的游戏《[圣战群英传：神圣国度](../Page/圣战群英传：神圣国度.md "wikilink")》的续集，但比前作在销量和口碑上更成功。剧情设定在《神圣国度》
+Prophecy*，亦译“**使徒II：黑暗预言**”），是一款适用[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux平台的回合策略性奇幻游戏](../Page/Linux.md "wikilink")，由[Strategy
+First制作](https://zh.wikipedia.org/wiki/Strategy_First "wikilink")，2002年1月24日发行。它是1999年的游戏《[圣战群英传：神圣国度](https://zh.wikipedia.org/wiki/圣战群英传：神圣国度 "wikilink")》的续集，但比前作在销量和口碑上更成功。剧情设定在《神圣国度》
 的十年后，设有四个种族：帝国军团（Empire）、高山氏族（Mountain Clans）、诅咒军团（Legions of the
 Damned）和不死骑兵（Undead Hordes）。
 

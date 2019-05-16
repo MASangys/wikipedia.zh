@@ -1,15 +1,15 @@
 《**Unlimited Sky**》是一首由[Tommy
-heavenly<sup>6</sup>所唱](../Page/川瀬智子.md "wikilink")，於2008年開始在網絡上發佈的[單曲](../Page/單曲.md "wikilink")\[1\]。
+heavenly<sup>6</sup>所唱](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")，於2008年開始在網絡上發佈的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]。
 
 ## 概要
 
-  - 是[MBS](../Page/毎日放送.md "wikilink")・[TBS系動畫](../Page/TBS電視.md "wikilink")《[機動戰士高達00
-    第二季](../Page/機動戰士高達00.md "wikilink")》第7話、第18話、第22話和第25話的插曲。
+  - 是[MBS](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")・[TBS系動畫](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")《[機動戰士高達00
+    第二季](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")》第7話、第18話、第22話和第25話的插曲。
   - 首先於2008年發佈64秒版本，然後在2009年2月開始發佈《**Unlimited Sky（Acoustic
     ver.）**》\[2\]。
   - 雖然沒有發售實體單曲CD，不過這首歌有收錄在於2009年2月25日發售的專輯《[Gothic Melting Ice cream's
     Darkness
-    Nightmare](../Page/Gothic_Melting_Ice_cream's_Darkness_Nightmare.md "wikilink")》\[3\]和於2009年7月8日發售的《機動戦士高達00
+    Nightmare](https://zh.wikipedia.org/wiki/Gothic_Melting_Ice_cream's_Darkness_Nightmare "wikilink")》\[3\]和於2009年7月8日發售的《機動戦士高達00
     COMPLETE BEST》\[4\]。
 
 ## 收錄曲

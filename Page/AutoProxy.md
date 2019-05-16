@@ -1,5 +1,5 @@
 **AutoProxy**是一款适用于[Mozilla
-Firefox的](../Page/Mozilla_Firefox.md "wikilink")[附加组件](../Page/Firefox扩展列表.md "wikilink")，能够在加载资源时自动判断是否使用[代理服务器](../Page/代理服务器.md "wikilink")。AutoProxy派生于[Adblock
+Firefox的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[附加组件](../Page/Firefox扩展列表.md "wikilink")，能够在加载资源时自动判断是否使用[代理服务器](../Page/代理服务器.md "wikilink")。AutoProxy派生于[Adblock
 Plus](../Page/Adblock_Plus.md "wikilink")，因此继承了其很多特性，包括十分接近的过滤器语法。本擴充組件目前的開發已陷入停頓。\[1\]
 
 ## 功能
@@ -28,7 +28,7 @@ Plus](../Page/Adblock_Plus.md "wikilink")，因此继承了其很多特性，包
 
 ### gfwList
 
-  - **gfwList**是由AutoProxy官方维护，由众多网民收集整理的一个中国大陆防火长城的屏蔽列表。此列表非中国官方列表，故可能有遗漏、错误部分。\[4\]由於[GoogleCode于](../Page/GoogleCode.md "wikilink")2016年1月25日關閉，因此該專案已轉移至Github原始碼代管平台\[5\]。
+  - **gfwList**是由AutoProxy官方维护，由众多网民收集整理的一个中国大陆防火长城的屏蔽列表。此列表非中国官方列表，故可能有遗漏、错误部分。\[4\]由於[GoogleCode于](https://zh.wikipedia.org/wiki/GoogleCode "wikilink")2016年1月25日關閉，因此該專案已轉移至Github原始碼代管平台\[5\]。
 
 ### AutoProxy2PAC
 

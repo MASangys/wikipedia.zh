@@ -2,7 +2,7 @@
 
 ## 规范内容
 
-WS-Addressing是将消息路由数据包含在[SOAP头中的一种标准方法](../Page/SOAP.md "wikilink")。利用WS-Addressing的消息可以在标准化的SOAP头中包含自己的包含发送元数据，而不是依赖于网络层传输来传送路由信息。网络级传输只负责将消息发送到能够读取WS-Addressing元数据的分配器那里。一旦消息抵达了URI所制定的分配器，网络层传输的工作就完成了。
+WS-Addressing是将消息路由数据包含在[SOAP头中的一种标准方法](https://zh.wikipedia.org/wiki/SOAP "wikilink")。利用WS-Addressing的消息可以在标准化的SOAP头中包含自己的包含发送元数据，而不是依赖于网络层传输来传送路由信息。网络级传输只负责将消息发送到能够读取WS-Addressing元数据的分配器那里。一旦消息抵达了URI所制定的分配器，网络层传输的工作就完成了。
 
 通过在标准的SOAP头中(wsa:ReplyTo)指定应答消息应该发送到哪里的端点引用，WS-Addressing可以支持异步交互方式。
 服务提供者使用另一个连接，将应答消息发送给wsa:ReplyTo所指定的端点。这就将SOAP请求/应答消息的交互与HTTP请求/应答协议分离，这样，跨越任意时间的长时间运行的交互成为可能。
@@ -10,7 +10,7 @@ WS-Addressing是将消息路由数据包含在[SOAP头中的一种标准方法](
 ### 端点引用
 
 端点引用（Endpoint
-Reference，速写EPR）是一个[XML结构](../Page/XML.md "wikilink")，封装了对访问Web服务的消息寻址有用的信息。这包括了消息的目的地地址，任何其他路由消息到目的地所需的参数（称作引用参数），以及有关服务的任选的元数据（例如[WSDL或](../Page/WSDL.md "wikilink")[WS-Policy](../Page/WS-Policy.md "wikilink")）。
+Reference，速写EPR）是一个[XML结构](../Page/XML.md "wikilink")，封装了对访问Web服务的消息寻址有用的信息。这包括了消息的目的地地址，任何其他路由消息到目的地所需的参数（称作引用参数），以及有关服务的任选的元数据（例如[WSDL或](../Page/WSDL.md "wikilink")[WS-Policy](https://zh.wikipedia.org/wiki/WS-Policy "wikilink")）。
 
 ### 消息寻址属性
 
@@ -28,22 +28,22 @@ Reference，速写EPR）是一个[XML结构](../Page/XML.md "wikilink")，封装
 
 WS-Addressing最初由[微软](../Page/微软.md "wikilink"),
 [IBM](../Page/IBM.md "wikilink"),
-[BEA](../Page/BEA_Systems.md "wikilink"),
-[Sun和](../Page/太阳微系统.md "wikilink")[SAP所发起](../Page/SAP公司.md "wikilink")，并[提交](http://www.w3.org/Submission/2004/SUBM-ws-addressing-20040810/)到[W3C进行标准化](../Page/W3C.md "wikilink")。W3C
+[BEA](https://zh.wikipedia.org/wiki/BEA_Systems "wikilink"),
+[Sun和](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")[SAP所发起](../Page/SAP公司.md "wikilink")，并[提交](http://www.w3.org/Submission/2004/SUBM-ws-addressing-20040810/)到[W3C进行标准化](https://zh.wikipedia.org/wiki/W3C "wikilink")。W3C
 [WS-Addressing工作组](http://www.w3.org/2002/ws/addr/)在标准化的过程中对规范进行了改善和补充。
 
 目前，WS-Addressing分成三部分说明：
 
   - [核心](http://www.w3.org/TR/ws-addr-core)--主要包括端点引用和消息寻址属性的规范。
-  - [SOAP绑定](http://www.w3.org/TR/ws-addr-soap)--将这些属性绑定到[SOAP协议上](../Page/SOAP.md "wikilink")。
-  - [元数据](http://www.w3.org/TR/2007/REC-ws-addr-metadata-20070904/)规范--说明了在[核心](http://www.w3.org/TR/ws-addr-core)中定义的抽象的属性将如何使用[WSDL来描述](../Page/WSDL.md "wikilink")，如何在端点引用中包含WSDL元数据，以及如何使用[WS-Policy标明一个Web服务是否支持WS](../Page/WS-Policy.md "wikilink")-Addressing。
+  - [SOAP绑定](http://www.w3.org/TR/ws-addr-soap)--将这些属性绑定到[SOAP协议上](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
+  - [元数据](http://www.w3.org/TR/2007/REC-ws-addr-metadata-20070904/)规范--说明了在[核心](http://www.w3.org/TR/ws-addr-core)中定义的抽象的属性将如何使用[WSDL来描述](../Page/WSDL.md "wikilink")，如何在端点引用中包含WSDL元数据，以及如何使用[WS-Policy标明一个Web服务是否支持WS](https://zh.wikipedia.org/wiki/WS-Policy "wikilink")-Addressing。
 
-[WS-PAEPR（端点引用的Web服务策略附件）](http://www.w3.org/Submission/WS-PAEPR/)阐述了将[WS-Policy表达式包含在端点引用中的机制和方法](../Page/WS-Policy.md "wikilink")。WS-PAEPR是W3C的成员提案。
+[WS-PAEPR（端点引用的Web服务策略附件）](http://www.w3.org/Submission/WS-PAEPR/)阐述了将[WS-Policy表达式包含在端点引用中的机制和方法](https://zh.wikipedia.org/wiki/WS-Policy "wikilink")。WS-PAEPR是W3C的成员提案。
 
 ## 参见
 
   - [Web服务](../Page/Web服务.md "wikilink")
-  - [SOAP](../Page/SOAP.md "wikilink")
+  - [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")
 
 ## 外部链接
 
@@ -55,5 +55,5 @@ WS-Addressing最初由[微软](../Page/微软.md "wikilink"),
   - [Web 服务寻址
     (WS-Addressing)](http://msdn.microsoft.com/zh-cn/library/ms951233.aspx)
 
-[分类:Web服务规范](../Page/分类:Web服务规范.md "wikilink")
-[分类:基于XML的标准](../Page/分类:基于XML的标准.md "wikilink")
+[分类:Web服务规范](https://zh.wikipedia.org/wiki/分类:Web服务规范 "wikilink")
+[分类:基于XML的标准](https://zh.wikipedia.org/wiki/分类:基于XML的标准 "wikilink")

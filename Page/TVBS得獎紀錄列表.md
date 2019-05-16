@@ -1,128 +1,137 @@
-本條目只列出，臺灣[TVBS](../Page/TVBS.md "wikilink")，「新聞專題」、「綜藝節目」、「個人」得獎紀錄列表。
+本條目只列出，臺灣[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")，「新聞專題」、「綜藝節目」、「個人」得獎紀錄列表。
 
 ## 獲獎與提名
 
 ### 電視金鐘獎
 
 |- |2000年
-|《晚間九整點—新聞最前線》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")：[方念華](../Page/方念華.md "wikilink")
-|[第35屆金鐘獎新聞節目主持人獎](../Page/第35屆金鐘獎.md "wikilink") | |- |2000年
-|《大河戀系列報導》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")：[詹怡宜](../Page/詹怡宜.md "wikilink")、[潘至峰](../Page/潘至峰.md "wikilink")
-|[第35屆金鐘獎新聞採訪獎](../Page/第35屆金鐘獎.md "wikilink") | |- |2000年 |TVBS《真情指數》
-|[第35屆金鐘獎談話性節目獎](../Page/第35屆金鐘獎.md "wikilink") | |- |2001年
-|《[娛樂新聞](../Page/娛樂新聞.md "wikilink")》[TVBS-G](../Page/TVBS-G.md "wikilink")：[陶晶瑩](../Page/陶晶瑩.md "wikilink")
-|[第36屆金鐘獎娛樂諧趣節目主持人獎](../Page/第36屆金鐘獎.md "wikilink") | |- |2003年
-|《[兩代電力公司](../Page/兩代電力公司.md "wikilink")》[TVBS-G](../Page/TVBS-G.md "wikilink")
-|[第38屆金鐘獎娛樂綜藝節目獎](../Page/第38屆金鐘獎.md "wikilink") | |- |2005年 |《[一步一腳印
-發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")：[詹怡宜](../Page/詹怡宜.md "wikilink")
-|[第40屆金鐘獎文教資訊節目主持人獎](../Page/第40屆金鐘獎.md "wikilink") | |- |2009年 |《[一步一腳印
-發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")
-|[第44屆金鐘獎教育文化節目獎](../Page/第44屆金鐘獎.md "wikilink") | |- |2012年9月25日
-|《TVBS看板人物》 |[第47屆金鐘獎](../Page/第47屆金鐘獎.md "wikilink")【教育文化節目獎】 | |-
-|2014年9月 |TVBS家族頻道鄭芬芬 /《媽，親一下》 |[第49屆金鐘獎](../Page/第49屆金鐘獎.md "wikilink")
+|《晚間九整點—新聞最前線》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")：[方念華](../Page/方念華.md "wikilink")
+|[第35屆金鐘獎新聞節目主持人獎](https://zh.wikipedia.org/wiki/第35屆金鐘獎 "wikilink") |
+|- |2000年
+|《大河戀系列報導》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")：[詹怡宜](../Page/詹怡宜.md "wikilink")、[潘至峰](https://zh.wikipedia.org/wiki/潘至峰 "wikilink")
+|[第35屆金鐘獎新聞採訪獎](https://zh.wikipedia.org/wiki/第35屆金鐘獎 "wikilink") | |-
+|2000年 |TVBS《真情指數》
+|[第35屆金鐘獎談話性節目獎](https://zh.wikipedia.org/wiki/第35屆金鐘獎 "wikilink")
+| |- |2001年
+|《[娛樂新聞](https://zh.wikipedia.org/wiki/娛樂新聞 "wikilink")》[TVBS-G](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")：[陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")
+|[第36屆金鐘獎娛樂諧趣節目主持人獎](https://zh.wikipedia.org/wiki/第36屆金鐘獎 "wikilink") |
+|- |2003年
+|《[兩代電力公司](https://zh.wikipedia.org/wiki/兩代電力公司 "wikilink")》[TVBS-G](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")
+|[第38屆金鐘獎娛樂綜藝節目獎](https://zh.wikipedia.org/wiki/第38屆金鐘獎 "wikilink") | |-
+|2005年 |《[一步一腳印
+發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")：[詹怡宜](../Page/詹怡宜.md "wikilink")
+|[第40屆金鐘獎文教資訊節目主持人獎](https://zh.wikipedia.org/wiki/第40屆金鐘獎 "wikilink") |
+|- |2009年 |《[一步一腳印
+發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")
+|[第44屆金鐘獎教育文化節目獎](https://zh.wikipedia.org/wiki/第44屆金鐘獎 "wikilink") | |-
+|2012年9月25日 |《TVBS看板人物》
+|[第47屆金鐘獎](https://zh.wikipedia.org/wiki/第47屆金鐘獎 "wikilink")【教育文化節目獎】
+| |- |2014年9月 |TVBS家族頻道鄭芬芬 /《媽，親一下》
+|[第49屆金鐘獎](https://zh.wikipedia.org/wiki/第49屆金鐘獎 "wikilink")
 戲劇節目導演獎 | |- |2014年9月 |TVBS家族頻道《食尚玩家─夏日熱鬪篇 命運規劃局》
-|[第49屆金鐘獎](../Page/第49屆金鐘獎.md "wikilink") 節目行銷獎 | |-
-|2014年9月 |TVBS家族頻道《TVBS看板人物》 |[第49屆金鐘獎](../Page/第49屆金鐘獎.md "wikilink")
+|[第49屆金鐘獎](https://zh.wikipedia.org/wiki/第49屆金鐘獎 "wikilink")
+節目行銷獎 | |- |2014年9月 |TVBS家族頻道《TVBS看板人物》
+|[第49屆金鐘獎](https://zh.wikipedia.org/wiki/第49屆金鐘獎 "wikilink")
 教育文化節目獎 | |- |2014年9月 |TVBS家族頻道《奮起台灣》
-|[第49屆金鐘獎](../Page/第49屆金鐘獎.md "wikilink") 教育文化節目獎 |
-|- |2014年9月 |TVBS家族頻道詹怡宜 /《一步一腳印 發現新台灣》
-|[第49屆金鐘獎](../Page/第49屆金鐘獎.md "wikilink") 教育文化節目主持人獎
+|[第49屆金鐘獎](https://zh.wikipedia.org/wiki/第49屆金鐘獎 "wikilink")
+教育文化節目獎 | |- |2014年9月 |TVBS家族頻道詹怡宜 /《一步一腳印 發現新台灣》
+|[第49屆金鐘獎](https://zh.wikipedia.org/wiki/第49屆金鐘獎 "wikilink")
+教育文化節目主持人獎 | |- |2015年8月26日 |TVBS家族頻道《全球中文音樂榜上榜》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【美術設計獎】
 | |- |2015年8月26日 |TVBS家族頻道《全球中文音樂榜上榜》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【美術設計獎】 |
-|- |2015年8月26日 |TVBS家族頻道《全球中文音樂榜上榜》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【綜藝節目主持人獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【綜藝節目主持人獎】
 | |- |2015年8月26日 |TVBS家族頻道《全球中文音樂榜上榜》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【綜藝節目獎】 |
-|- |2015年8月26日 |TVBS家族頻道《TVBS看板人物》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【教育文化節目主持人獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【綜藝節目獎】
 | |- |2015年8月26日 |TVBS家族頻道《TVBS看板人物》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【教育文化節目獎】 |
-|- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目編劇獎】 |
-|- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目導演獎】 |
-|- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目女配角獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【教育文化節目主持人獎】
+| |- |2015年8月26日 |TVBS家族頻道《TVBS看板人物》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【教育文化節目獎】
 | |- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目男配角獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目編劇獎】
 | |- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目女主角獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目導演獎】
 | |- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目男主角獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目女配角獎】
 | |- |2015年8月26日 |TVBS家族頻道《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目獎】 |
-|- |2015年9月26日 |TVBS歡樂台戲劇《16個夏天》許瑋甯
-|[第50屆金鐘獎女配角](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目女配角獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目男配角獎】
+| |- |2015年8月26日 |TVBS家族頻道《16個夏天》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目女主角獎】
+| |- |2015年8月26日 |TVBS家族頻道《16個夏天》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目男主角獎】
+| |- |2015年8月26日 |TVBS家族頻道《16個夏天》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目獎】
+| |- |2015年9月26日 |TVBS歡樂台戲劇《16個夏天》許瑋甯
+|[第50屆金鐘獎女配角](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目女配角獎】
 | |- |2015年9月26日 |TVBS歡樂台戲劇《16個夏天》導演許富翔
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目導演獎】 |
-|- |2015年9月26日 |TVBS歡樂台戲劇《16個夏天》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【戲劇節目獎】 |
-|- |2015年9月26日 |TVBS《TVBS看板人物》主持人方念華
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【教育文化節目主持人獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目導演獎】
+| |- |2015年9月26日 |TVBS歡樂台戲劇《16個夏天》
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【戲劇節目獎】
+| |- |2015年9月26日 |TVBS《TVBS看板人物》主持人方念華
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【教育文化節目主持人獎】
 | |- |2015年9月26日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【綜藝節目獎】 |
-|- |2015年9月26日 |TVBS歡樂台《全球中文音樂榜上榜》主持人黃子佼
-|[第50屆金鐘獎](../Page/第50屆金鐘獎.md "wikilink")【綜藝節目主持人獎】
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【綜藝節目獎】
+| |- |2015年9月26日 |TVBS歡樂台《全球中文音樂榜上榜》主持人黃子佼
+|[第50屆金鐘獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink")【綜藝節目主持人獎】
 | |- |2016年10月8日 |TVBS歡樂台《哇！陳怡君》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【戲劇節目男配角獎】
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【戲劇節目男配角獎】
 | |- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【節目創新獎】 |
-|- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【非戲劇類節目導播獎】
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【節目創新獎】
 | |- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【綜藝節目主持人獎】
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【非戲劇類節目導播獎】
 | |- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【綜藝節目獎】 |
-|- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第51屆金鐘獎](../Page/第51屆金鐘獎.md "wikilink")【節目創新獎】 |
-|- |2017年8月23日 |TVBS新聞台《世界翻轉中》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【節目創新獎】 |
-|- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【綜藝節目獎】 |
-|- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【綜藝節目主持人獎】
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【綜藝節目主持人獎】
+| |- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【綜藝節目獎】
+| |- |2016年10月8日 |TVBS歡樂台《全球中文音樂榜上榜》
+|[第51屆金鐘獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")【節目創新獎】
+| |- |2017年8月23日 |TVBS新聞台《世界翻轉中》
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【節目創新獎】
 | |- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【非戲劇類節目導播獎】
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【綜藝節目獎】
 | |- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【節目創新獎】 |
-|- |2017年8月23日 |TVBS歡樂台《酸甜之味》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【戲劇節目獎】
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【綜藝節目主持人獎】
+| |- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【非戲劇類節目導播獎】
+| |- |2017年8月23日 |TVBS歡樂台《全球中文音樂榜上榜》
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【節目創新獎】
 | |- |2017年8月23日 |TVBS歡樂台《酸甜之味》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【戲劇節目導演獎】 |
-|- |2017年8月23日 |TVBS歡樂台《酸甜之味》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【戲劇節目編劇獎】
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【戲劇節目獎】
 | |- |2017年8月23日 |TVBS歡樂台《酸甜之味》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【戲劇節目新進演員獎】
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【戲劇節目導演獎】
+| |- |2017年8月23日 |TVBS歡樂台《酸甜之味》
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【戲劇節目編劇獎】
+| |- |2017年8月23日 |TVBS歡樂台《酸甜之味》
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【戲劇節目新進演員獎】
 | |- |2017年8月23日 |TVBS歡樂台《遺憾拼圖》
-|[第52屆金鐘獎](../Page/第52屆金鐘獎.md "wikilink")【戲劇節目女主角獎】
+|[第52屆金鐘獎](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")【戲劇節目女主角獎】
 | |- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目獎】 |
-|- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目導演獎】
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目獎】
 | |- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目編劇獎】 |
-|- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目男配角獎】
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目導演獎】
 | |- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目新進演員獎】
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目編劇獎】
+| |- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目男配角獎】
+| |- |2018年8月29日 |TVBS歡樂台《翻牆的記憶》
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目新進演員獎】
 | |- |2018年8月29日 |TVBS新聞台《一步一腳印，發現新台灣》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【人文紀實節目主持人獎】
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【人文紀實節目主持人獎】
 | |- |2018年10月6日 |TVBS歡樂台《翻牆的記憶》
-|[第53屆金鐘獎](../Page/第53屆金鐘獎.md "wikilink")【戲劇節目導演獎】 |
-|}
+|[第53屆金鐘獎](https://zh.wikipedia.org/wiki/第53屆金鐘獎 "wikilink")【戲劇節目導演獎】
+| |}
 
 ### [卓越新聞獎](../Page/卓越新聞獎.md "wikilink")
 
 |- |2002年
-|《[新聞最前線](../Page/新聞最前線_\(台灣\).md "wikilink")》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")：[方念華](../Page/方念華.md "wikilink")
+|《[新聞最前線](https://zh.wikipedia.org/wiki/新聞最前線_\(台灣\) "wikilink")》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")：[方念華](../Page/方念華.md "wikilink")
 |第一屆[卓越新聞獎電視類新聞主播獎](../Page/卓越新聞獎.md "wikilink") | |- |2006年
-|《[十點不一樣](../Page/十點不一樣.md "wikilink")》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")：[李四端](../Page/李四端.md "wikilink")
+|《[十點不一樣](https://zh.wikipedia.org/wiki/十點不一樣 "wikilink")》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")：[李四端](../Page/李四端.md "wikilink")
 |第五屆[卓越新聞獎電視類每日新聞播報獎](../Page/卓越新聞獎.md "wikilink") | |- |2008年
-|《走過震撼80天-再返四川》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")
+|《走過震撼80天-再返四川》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")
 |第七屆[卓越新聞獎電視類新聞報導獎](../Page/卓越新聞獎.md "wikilink") | |- |2009年
-|《油走邊緣》[TVBS-NEWS](../Page/TVBS-NEWS.md "wikilink")
-|第八屆[卓越新聞獎電視類即時新聞獎](../Page/卓越新聞獎.md "wikilink") | |-
-|2010年11月 |TVBS新聞台「南部百年強震！甲仙強震撼高鐵第一手報導」專題
+|《油走邊緣》[TVBS-NEWS](https://zh.wikipedia.org/wiki/TVBS-NEWS "wikilink")
+|第八屆[卓越新聞獎電視類即時新聞獎](../Page/卓越新聞獎.md "wikilink") | |- |2010年11月
+|TVBS新聞台「南部百年強震！甲仙強震撼高鐵第一手報導」專題
 |[卓越新聞獎](../Page/卓越新聞獎.md "wikilink")【即時新聞獎】 | |-
 |2011年11月23日 |TVBS新聞台《十點不一樣》
 |「塑毒風暴－MIT食品大危機」第十屆[卓越新聞獎](../Page/卓越新聞獎.md "wikilink")【即時新聞獎】，【每日新聞節目獎】「食品安全「精精」計較」【曾虛白先生公共服務報導獎】
@@ -162,14 +171,15 @@
 ### 兩岸關係暨大陸新聞報導獎
 
 |- |1998年12月 |南昆鐵路行－深入大西南系列報導
-|第二屆「[兩岸關係暨大陸新聞報導獎](../Page/兩岸關係暨大陸新聞報導獎.md "wikilink")」陳雪慧、李世隆
+|第二屆「[兩岸關係暨大陸新聞報導獎](https://zh.wikipedia.org/wiki/兩岸關係暨大陸新聞報導獎 "wikilink")」陳雪慧、李世隆
 | |- |1999年12月 |這一年1998、兩岸關係
-|第三屆「[兩岸關係暨大陸新聞報導獎](../Page/兩岸關係暨大陸新聞報導獎.md "wikilink")」金蜀卿、張志旻
+|第三屆「[兩岸關係暨大陸新聞報導獎](https://zh.wikipedia.org/wiki/兩岸關係暨大陸新聞報導獎 "wikilink")」金蜀卿、張志旻
 | |}
 
 ### 傑出新聞人員獎
 
-|- |2003年 |國際新聞中心[楊樺](../Page/楊樺.md "wikilink") |傑出新聞人員獎 | |}
+|- |2003年 |國際新聞中心[楊樺](https://zh.wikipedia.org/wiki/楊樺 "wikilink")
+|傑出新聞人員獎 | |}
 
 ### Yahoo！奇摩理想新聞媒體大調查
 

@@ -1,14 +1,14 @@
-《**GIFT**》，是[日本](../Page/日本.md "wikilink")[樂團](../Page/樂團.md "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")32張[單曲](../Page/單曲.md "wikilink")。2008年7月30日發行。
+《**GIFT**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children的第](../Page/Mr.Children.md "wikilink")32張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年7月30日發行。
 
 ## 簡介
 
-《GIFT》[Mr.Children專門為](../Page/Mr.Children.md "wikilink")[NHK的](../Page/日本放送協會.md "wikilink")[北京奧運會和](../Page/2008年夏季奧林匹克運動會.md "wikilink")[北京殘奧會節目而作的](../Page/2008年夏季殘奧會.md "wikilink")[主題曲](../Page/主題曲.md "wikilink")。歌曲具有典型的Mr.Children勵志歌曲特色，抒情而充滿哲理，撼動人心。表達出過程比勝負更加重要的奧林匹克精神。\[1\]
-樂團主唱櫻井和壽曾針對[奧運會觀眾將焦點聚焦在金牌](../Page/奧運會.md "wikilink")，表達出自己的看法\[2\]：
+《GIFT》[Mr.Children專門為](../Page/Mr.Children.md "wikilink")[NHK的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[北京奧運會和](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會 "wikilink")[北京殘奧會節目而作的](https://zh.wikipedia.org/wiki/2008年夏季殘奧會 "wikilink")[主題曲](../Page/主題曲.md "wikilink")。歌曲具有典型的Mr.Children勵志歌曲特色，抒情而充滿哲理，撼動人心。表達出過程比勝負更加重要的奧林匹克精神。\[1\]
+樂團主唱櫻井和壽曾針對[奧運會觀眾將焦點聚焦在金牌](https://zh.wikipedia.org/wiki/奧運會 "wikilink")，表達出自己的看法\[2\]：
 
 是2008年連續三個月每個月發行作品（單曲《GIFT》、演唱會DVD《[Mr.Children "HOME" TOUR 2007 -in the
-field-](../Page/Mr.Children_"HOME"_TOUR_2007_-in_the_field-.md "wikilink")》、單曲《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》）的第一彈。\[3\]
+field-](https://zh.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")》、單曲《[HANABI](../Page/HANABI_\(Mr.Children單曲\).md "wikilink")》）的第一彈。\[3\]
 
-年度銷量為33.5萬張，是2008年度日本單曲銷量第15位。\[4\]獲邀上[第59回NHK紅白歌合戰上演唱](../Page/第59回NHK紅白歌合戰.md "wikilink")。
+年度銷量為33.5萬張，是2008年度日本單曲銷量第15位。\[4\]獲邀上[第59回NHK紅白歌合戰上演唱](https://zh.wikipedia.org/wiki/第59回NHK紅白歌合戰 "wikilink")。
 
 ## 收錄曲目
 
@@ -16,7 +16,7 @@ field-](../Page/Mr.Children_"HOME"_TOUR_2007_-in_the_field-.md "wikilink")》、
       -
         作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")；編曲：[小林武史](../Page/小林武史.md "wikilink")
         & [Mr.Children](../Page/Mr.Children.md "wikilink")
-        [NHK的](../Page/日本放送協會.md "wikilink")[北京奧運會](../Page/2008年夏季奧林匹克運動會.md "wikilink")、[北京殘奧會主題曲](../Page/2008年夏季殘奧會.md "wikilink")
+        [NHK的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[北京奧運會](https://zh.wikipedia.org/wiki/2008年夏季奧林匹克運動會 "wikilink")、[北京殘奧會主題曲](https://zh.wikipedia.org/wiki/2008年夏季殘奧會 "wikilink")
 2.  **人行橫道上的人們**（）
       -
         作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")；編曲：[小林武史](../Page/小林武史.md "wikilink")
@@ -33,7 +33,7 @@ field-](../Page/Mr.Children_"HOME"_TOUR_2007_-in_the_field-.md "wikilink")》、
   - [唱片介紹](http://www.mrchildren.jp/disco/single/single32.html)
     Mr.Children官方網站
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:Mr.Children歌曲](https://zh.wikipedia.org/wiki/Category:Mr.Children歌曲 "wikilink")
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

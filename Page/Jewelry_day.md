@@ -1,5 +1,5 @@
 「**Jewelry
-day**」（閃亮的日子）為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2007年7月4日發行之5th[單曲](../Page/單曲.md "wikilink")。
+day**」（閃亮的日子）為[日本歌手](../Page/日本.md "wikilink")[絢香於](../Page/絢香.md "wikilink")2007年7月4日發行之5th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -24,7 +24,7 @@ day**」（閃亮的日子）為[日本歌手](../Page/日本.md "wikilink")[絢
   - [Sing to the Sky](../Page/Sing_to_the_Sky.md "wikilink")（\#1）
   - [First Message](../Page/First_Message.md "wikilink")（\#3・普通音源）
   - [ayaka's History
-    2006-2009](../Page/ayaka's_History_2006-2009.md "wikilink")（\#1（Disc1）、\#3（Disc2・普通音源））
+    2006-2009](https://zh.wikipedia.org/wiki/ayaka's_History_2006-2009 "wikilink")（\#1（Disc1）、\#3（Disc2・普通音源））
 
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
 [Category:絢香歌曲](https://zh.wikipedia.org/wiki/Category:絢香歌曲 "wikilink")

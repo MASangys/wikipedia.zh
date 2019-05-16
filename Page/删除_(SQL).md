@@ -7,11 +7,11 @@
   -
     **`DELETE`** `FROM` *表名* \[**`WHERE`** 条件\]
 
-该语句能够使表中所有满足[`WHERE`子句条件的](../Page/Where_\(SQL\).md "wikilink")[元组都会被删除](../Page/元组.md "wikilink")。如果缺少
+该语句能够使表中所有满足[`WHERE`子句条件的](https://zh.wikipedia.org/wiki/Where_\(SQL\) "wikilink")[元组都会被删除](https://zh.wikipedia.org/wiki/元组 "wikilink")。如果缺少
 `WHERE` 子句，则表中所有的元组都会被删除。
 
 执行一条 `DELETE`
-语法能够触发[触发器而在其他表中执行删除操作](../Page/数据库触发器.md "wikilink")。例如，有[外码相联系的两个表](../Page/外码.md "wikilink")，如果作为被参照关系的表中的元组被删除，则作为参照关系的表也会被删除，以保证关系的[参照完整性](../Page/参照完整性.md "wikilink")。
+语法能够触发[触发器而在其他表中执行删除操作](https://zh.wikipedia.org/wiki/数据库触发器 "wikilink")。例如，有[外码相联系的两个表](https://zh.wikipedia.org/wiki/外码 "wikilink")，如果作为被参照关系的表中的元组被删除，则作为参照关系的表也会被删除，以保证关系的[参照完整性](https://zh.wikipedia.org/wiki/参照完整性 "wikilink")。
 
 ## 示例
 

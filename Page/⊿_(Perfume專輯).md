@@ -1,11 +1,11 @@
-《**⊿**》（Triangle）是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第三張](../Page/Perfume.md "wikilink")[專輯](../Page/專輯.md "wikilink")。於2009年7月8日發行。唱片公司為[Tokuma
+《**⊿**》（Triangle）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第三張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2009年7月8日發行。唱片公司為[Tokuma
 Japan
-Communications](../Page/Tokuma_Japan_Communications.md "wikilink")。
+Communications](https://zh.wikipedia.org/wiki/Tokuma_Japan_Communications "wikilink")。
 
 ## 概要
 
   - 距離前作專輯「[GAME](../Page/GAME_\(Perfume專輯\).md "wikilink")」發行1年3個月的專輯。
-  - 專輯標題名為「⊿」，官方讀法為「Triangle」，意思為[三角形](../Page/三角形.md "wikilink")。此標題的由來是源於[拉丁語中的](../Page/拉丁語.md "wikilink")「**Tri**」一字，即是「3」的意思，表示了這是Perfume**第三張**專輯，以及**三位**成員的意念\[1\]。
+  - 專輯標題名為「⊿」，官方讀法為「Triangle」，意思為[三角形](../Page/三角形.md "wikilink")。此標題的由來是源於[拉丁語中的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「**Tri**」一字，即是「3」的意思，表示了這是Perfume**第三張**專輯，以及**三位**成員的意念\[1\]。
   - 選擇使用三角形圖案作為專輯標題，是為了能對聽眾方面增加衝擊性。Perfume三位成員對於圖案擺放的方法也考慮了很久，由於他們不喜歡三角形的頂點朝向正上方，同時希望表達「Perfume三人都是平等的，三位一體，並不會偏向任何一邊」這樣的想法，最後決定以倒著擺放的三角形作為最終的標題\[2\]。
   - 專輯取得了[Oricon公信榜專輯榜週榜冠軍](../Page/Oricon公信榜.md "wikilink")，打破了前作自身初動銷售張數的記錄。
   - 「願い（心願）」此曲當初並沒有決定收錄在本專輯，但是製作人[中田康貴在觀看Perfume在](../Page/中田康貴.md "wikilink")2009年5月舉行的演唱會「エスキモー

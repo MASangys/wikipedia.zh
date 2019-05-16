@@ -1,7 +1,7 @@
 《**Monopoly City
-Streets**》是一款2009年9月9日至12月9日\[1\]運作的[網頁遊戲](../Page/網頁遊戲.md "wikilink")，改編自[图版游戏](../Page/图版游戏.md "wikilink")[-{zh-hans:大富翁;zh-tw:地產大享;zh-hk:大富翁}-](../Page/大富翁.md "wikilink")。玩者根據真實世界的地圖去購買街道並發展自己的物業。從而賺取更多金錢購買土地。遊戲地圖使用[Google
-Maps及](../Page/Google_Maps.md "wikilink")[OpenStreetMap](../Page/OpenStreetMap.md "wikilink")\[2\]。由[孩之寶廣告代理商](../Page/孩之寶.md "wikilink")[Tribal
-DDB開發](../Page/Tribal_DDB.md "wikilink")。
+Streets**》是一款2009年9月9日至12月9日\[1\]運作的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，改編自[图版游戏](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[-{zh-hans:大富翁;zh-tw:地產大享;zh-hk:大富翁}-](https://zh.wikipedia.org/wiki/大富翁 "wikilink")。玩者根據真實世界的地圖去購買街道並發展自己的物業。從而賺取更多金錢購買土地。遊戲地圖使用[Google
+Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")\[2\]。由[孩之寶廣告代理商](../Page/孩之寶.md "wikilink")[Tribal
+DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 
 ## 目標
 
@@ -9,7 +9,7 @@ DDB開發](../Page/Tribal_DDB.md "wikilink")。
 
 ## 玩法
 
-遊戲一開始時擁有300萬遊戲貨幣，街道價值視乎可發展土地多大。如果街道沒人擁有，可直接購買，反之則要向其他玩家提出收購。每天在[UTC](../Page/UTC.md "wikilink")0時0分結算\[3\]，有100萬元的基本收入，最初的五塊土地是免稅的，其後每買一塊土地就多收3%的稅項。當玩者擁有第38塊土地時，稅率達100%，玩者不能取得任何收入\[4\]。此外玩者每一次行動有機會獲得「機會」卡\[5\]，可以保護自己的街道以及對其他玩者進行破壞，增加或減少玩家手頭上現金\[6\]。
+遊戲一開始時擁有300萬遊戲貨幣，街道價值視乎可發展土地多大。如果街道沒人擁有，可直接購買，反之則要向其他玩家提出收購。每天在[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")0時0分結算\[3\]，有100萬元的基本收入，最初的五塊土地是免稅的，其後每買一塊土地就多收3%的稅項。當玩者擁有第38塊土地時，稅率達100%，玩者不能取得任何收入\[4\]。此外玩者每一次行動有機會獲得「機會」卡\[5\]，可以保護自己的街道以及對其他玩者進行破壞，增加或減少玩家手頭上現金\[6\]。
 
 ### 街道
 

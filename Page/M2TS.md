@@ -1,20 +1,21 @@
-**.m2ts**是一種[視訊檔案格式](../Page/視訊檔案格式.md "wikilink")，可支援多工的影音流.
+**.m2ts**是一種[視訊檔案格式](https://zh.wikipedia.org/wiki/視訊檔案格式 "wikilink")，可支援多工的影音流.
 m2ts架構於[MPEG transport
-stream以及著名的](../Page/M2T.md "wikilink")[BDAV MPEG-2 transport
+stream以及著名的](https://zh.wikipedia.org/wiki/M2T "wikilink")[BDAV
+MPEG-2 transport
 stream](../Page/MPEG2-TS.md "wikilink").\[1\]\[2\]\[3\]這種檔案格式多支援於高清的[Blu-ray
-Disc與](../Page/Blu-ray_Disc.md "wikilink")[AVCHD](../Page/AVCHD.md "wikilink").
+Disc與](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[AVCHD](../Page/AVCHD.md "wikilink").
 
 M2TS檔名是“zzzzz.m2ts”，這裡的“zzzzz”是5個合乎晶片上的數字。檔名有時也會是"zzzzz.clpi".
 
 M2TS可以由[Picture Motion
-Browser播放](../Page/Picture_Motion_Browser.md "wikilink")，是一套Sony
+Browser播放](https://zh.wikipedia.org/wiki/Picture_Motion_Browser "wikilink")，是一套Sony
 AVCHD camcorders提供的播放媒體。
 
 一些M2TS亦可透過ALLPlayer, MPlayer, Windows Media Player, BSplayer, VLC所播放。
 
-另外有一種出現在AVCHD的設備上，附檔名為MTS的檔案，實際內部格式與M2TS相同\[4\]，可用[Sony的Picture](../Page/Sony.md "wikilink")
+另外有一種出現在AVCHD的設備上，附檔名為MTS的檔案，實際內部格式與M2TS相同\[4\]，可用[Sony的Picture](https://zh.wikipedia.org/wiki/Sony "wikilink")
 Motion
-Browser程式轉換為M2TS檔，存在的原因是AVCHD的設備只能使用[8.3的命名方式存檔](../Page/8.3.md "wikilink")。\[5\]
+Browser程式轉換為M2TS檔，存在的原因是AVCHD的設備只能使用[8.3的命名方式存檔](https://zh.wikipedia.org/wiki/8.3 "wikilink")。\[5\]
 
 ## 注釋
 

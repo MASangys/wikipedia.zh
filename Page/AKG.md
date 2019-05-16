@@ -1,16 +1,17 @@
-AKG Acoustics 是[哈曼国际工业旗下的部门](../Page/哈曼国际工业.md "wikilink")，成立于1947年。
+AKG Acoustics
+是[哈曼国际工业旗下的部门](https://zh.wikipedia.org/wiki/哈曼国际工业 "wikilink")，成立于1947年。
 
 ## 历史
 
 [AKG_Samsung_bundle_earphone.jpg](https://zh.wikipedia.org/wiki/File:AKG_Samsung_bundle_earphone.jpg "fig:AKG_Samsung_bundle_earphone.jpg")
 [第二次世界大战](../Page/第二次世界大战.md "wikilink")，奥地利百废待兴，许多制造行业已经毁于战火。鲁道夫·格瑞克[博士](../Page/博士.md "wikilink")（Dr.
 Rudolf Goerike）和恩斯特·普勒斯（Ernst Pless）两人在1947年创建了AKG公司Akustische und
-Kino-Gerate，意思是声音和[电影设备](../Page/电影.md "wikilink")。正如其名称所示，公司最初的业务是为[电影院等机构开发和制造](../Page/电影院.md "wikilink")[留声机](../Page/留声机.md "wikilink")、[扩音器等音效设备](../Page/扩音器.md "wikilink")。\[1\]同年内，二人还生产出了公司的第一个麦克风C1型，不过全年之中只生产出了6只，两年后在这个产品的基础之上诞生出了划时代的C12型电子管麦克风，其首批用户包括著名的[BBC广播电台](../Page/BBC.md "wikilink")，这种型号因为其优秀的性能至今仍在生产。\[2\]1949年又开发出了其第一种耳机K120，50年代中AKG在话筒技术又取得了新的突破，开发出了移动音圈换能器和大负载的震动薄膜，改善了[话筒的低频性能并在此基础之上于](../Page/话筒.md "wikilink")1953年推出了D12型话筒，这是世界上第一支心形指向动圈话筒。随着业务的扩张AKG也开始迈向国际[市场](../Page/市场.md "wikilink")，1955年在[德国成立了其第一个海外分部](../Page/德国.md "wikilink")。AKG还将产品销售到了[东欧](../Page/东欧.md "wikilink")、[亚洲以及](../Page/亚洲.md "wikilink")[拉丁美洲国家](../Page/拉丁美洲.md "wikilink")，50年代中AKG开发的标准录音室设备获得了巨大成功，例如便携式的BX10话筒、混音麦克风DX11。
+Kino-Gerate，意思是声音和[电影设备](../Page/电影.md "wikilink")。正如其名称所示，公司最初的业务是为[电影院等机构开发和制造](https://zh.wikipedia.org/wiki/电影院 "wikilink")[留声机](https://zh.wikipedia.org/wiki/留声机 "wikilink")、[扩音器等音效设备](https://zh.wikipedia.org/wiki/扩音器 "wikilink")。\[1\]同年内，二人还生产出了公司的第一个麦克风C1型，不过全年之中只生产出了6只，两年后在这个产品的基础之上诞生出了划时代的C12型电子管麦克风，其首批用户包括著名的[BBC广播电台](https://zh.wikipedia.org/wiki/BBC "wikilink")，这种型号因为其优秀的性能至今仍在生产。\[2\]1949年又开发出了其第一种耳机K120，50年代中AKG在话筒技术又取得了新的突破，开发出了移动音圈换能器和大负载的震动薄膜，改善了[话筒的低频性能并在此基础之上于](https://zh.wikipedia.org/wiki/话筒 "wikilink")1953年推出了D12型话筒，这是世界上第一支心形指向动圈话筒。随着业务的扩张AKG也开始迈向国际[市场](../Page/市场.md "wikilink")，1955年在[德国成立了其第一个海外分部](../Page/德国.md "wikilink")。AKG还将产品销售到了[东欧](../Page/东欧.md "wikilink")、[亚洲以及](../Page/亚洲.md "wikilink")[拉丁美洲国家](../Page/拉丁美洲.md "wikilink")，50年代中AKG开发的标准录音室设备获得了巨大成功，例如便携式的BX10话筒、混音麦克风DX11。
 
-60年代后，AKG因其优异的质量而获得了越来越多的认可，1964年的[冬奥会中就使用了许多AKG的电影院音频设备](../Page/冬奥会.md "wikilink")。由于电视机的出现和发展，AKG在1965年决定放弃影院设备转而生产个人使用的音频设施，公司名称也改变为AKG
-Acoustics。这一时期的代表作品像是世界上第一支双声道心形话筒D202、D224。60年代末期AKG又继续在[欧洲扩张](../Page/欧洲.md "wikilink")，68年内相继成立了[瑞士](../Page/瑞士.md "wikilink")、[英国分部](../Page/英国.md "wikilink")，1970年它的收入达到了前所未有的2亿[奥地利先令](../Page/奥地利先令.md "wikilink")。\[3\]
+60年代后，AKG因其优异的质量而获得了越来越多的认可，1964年的[冬奥会中就使用了许多AKG的电影院音频设备](https://zh.wikipedia.org/wiki/冬奥会 "wikilink")。由于电视机的出现和发展，AKG在1965年决定放弃影院设备转而生产个人使用的音频设施，公司名称也改变为AKG
+Acoustics。这一时期的代表作品像是世界上第一支双声道心形话筒D202、D224。60年代末期AKG又继续在[欧洲扩张](../Page/欧洲.md "wikilink")，68年内相继成立了[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[英国分部](https://zh.wikipedia.org/wiki/英国 "wikilink")，1970年它的收入达到了前所未有的2亿[奥地利先令](https://zh.wikipedia.org/wiki/奥地利先令 "wikilink")。\[3\]
 
-1977年时，公司创始人之一的普勒斯离开了AKG，加入了他父亲的[塑料制品公司](../Page/塑料.md "wikilink")。在此之后，AKG的组织结构就发生了变化，飞利浦等公司开始入股AKG。同年，该公司的雇员达到了800人，它每周可生产2万付麦克风。1984年，AKG进入[维也纳的](../Page/维也纳.md "wikilink")[股票市场向公众销售](../Page/股票.md "wikilink")，公司创始人鲁道夫博士大约持有着四分之一的[股份](../Page/股份.md "wikilink")，剩余的股份通常是由[银行或其他金融机构持有的](../Page/银行.md "wikilink")。80年代中期AKG开始进入[美国市场](../Page/美国.md "wikilink")，1985年它在美国建立了其分公司。90年代初公司的业绩出现了下滑，1992年时第一次出现了[亏本](../Page/亏本.md "wikilink")。90年代中期时公司一改之前的高价路线，开始推出价格低廉的声音设备。21世纪初公司又开始开辟廉价家庭录音设备这一新兴市场，产品线的扩张也使得爱科技在生产模式上有了转变。它的产品在1997年时有十分之一是由其他厂家[代工的](../Page/代工.md "wikilink")，到2000年时已经变为了45%。
+1977年时，公司创始人之一的普勒斯离开了AKG，加入了他父亲的[塑料制品公司](../Page/塑料.md "wikilink")。在此之后，AKG的组织结构就发生了变化，飞利浦等公司开始入股AKG。同年，该公司的雇员达到了800人，它每周可生产2万付麦克风。1984年，AKG进入[维也纳的](https://zh.wikipedia.org/wiki/维也纳 "wikilink")[股票市场向公众销售](../Page/股票.md "wikilink")，公司创始人鲁道夫博士大约持有着四分之一的[股份](https://zh.wikipedia.org/wiki/股份 "wikilink")，剩余的股份通常是由[银行或其他金融机构持有的](https://zh.wikipedia.org/wiki/银行 "wikilink")。80年代中期AKG开始进入[美国市场](../Page/美国.md "wikilink")，1985年它在美国建立了其分公司。90年代初公司的业绩出现了下滑，1992年时第一次出现了[亏本](https://zh.wikipedia.org/wiki/亏本 "wikilink")。90年代中期时公司一改之前的高价路线，开始推出价格低廉的声音设备。21世纪初公司又开始开辟廉价家庭录音设备这一新兴市场，产品线的扩张也使得爱科技在生产模式上有了转变。它的产品在1997年时有十分之一是由其他厂家[代工的](https://zh.wikipedia.org/wiki/代工 "wikilink")，到2000年时已经变为了45%。
 
 ## 麦克风
 
@@ -34,10 +35,10 @@ AKG耳机以其独特的音色名扬天下，中高频的柔美与骨感是AKG�
   - K240系列 - 經典監聽耳機
   - K612 PRO - 次旗艦級監聽耳機
   - K701 -
-    曾經是AKG事實上的旗艦耳機，在發燒友圈子中以難推聞名。由於在動畫《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》中被主角之一的[秋山澪配戴](../Page/秋山澪.md "wikilink")，而又被稱為大手辦。
+    曾經是AKG事實上的旗艦耳機，在發燒友圈子中以難推聞名。由於在動畫《[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")》中被主角之一的[秋山澪配戴](https://zh.wikipedia.org/wiki/秋山澪 "wikilink")，而又被稱為大手辦。
   - K702 - 旗艦級監聽耳機
   - K712 PRO -
-    K701的增強版，官方宣稱在低頻方面增加了約3[dB](../Page/分貝.md "wikilink")。該耳機亦可用作監聽之用\[6\]
+    K701的增強版，官方宣稱在低頻方面增加了約3[dB](https://zh.wikipedia.org/wiki/分貝 "wikilink")。該耳機亦可用作監聽之用\[6\]
   - K812 - AKG 於2013年推出的旗艦
   - K872 - K812的封閉式版本
   - K1000 - 曾经的顶级旗舰，以类似音响的声学结构而著称

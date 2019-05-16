@@ -1,17 +1,17 @@
-《**MKZ-军魂**》是由[中国大陆的](../Page/中国大陆.md "wikilink")[目标软件开发的一款](../Page/目标软件.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。标题中的“MKZ”为“**M**etal
+《**MKZ-军魂**》是由[中国大陆的](../Page/中国大陆.md "wikilink")[目标软件开发的一款](https://zh.wikipedia.org/wiki/目标软件 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。标题中的“MKZ”为“**M**etal
 **K**night
 **Z**ero”的缩写。目标软件将其定义为“进化的FPS（第一人称射击游戏）”，也就是“FTS（第一人称战略射击游戏）”。\[1\]
 
-游戏在中国大陆由新兴网游公司[深圳市壹柒伍网络科技有限公司运营](../Page/175公司.md "wikilink")，[游戏橘子取得了台湾地区的发行权](../Page/游戏橘子.md "wikilink")。除此之外，游戏有意向在[美国](../Page/美国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韩国等国家发行](../Page/韩国.md "wikilink")。\[2\]游戏邀请台湾艺人[郭书瑶担任](../Page/郭书瑶.md "wikilink")[代言人一职](../Page/代言人.md "wikilink")。\[3\]
+游戏在中国大陆由新兴网游公司[深圳市壹柒伍网络科技有限公司运营](https://zh.wikipedia.org/wiki/175公司 "wikilink")，[游戏橘子取得了台湾地区的发行权](https://zh.wikipedia.org/wiki/游戏橘子 "wikilink")。除此之外，游戏有意向在[美国](../Page/美国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韩国等国家发行](https://zh.wikipedia.org/wiki/韩国 "wikilink")。\[2\]游戏邀请台湾艺人[郭书瑶担任](https://zh.wikipedia.org/wiki/郭书瑶 "wikilink")[代言人一职](https://zh.wikipedia.org/wiki/代言人 "wikilink")。\[3\]
 
-游戏采用了目标软件自主研发的[奥世](../Page/奥世引擎.md "wikilink")（Overmax）[游戏引擎](../Page/游戏引擎.md "wikilink")，内嵌[物理引擎](../Page/物理引擎.md "wikilink")[NVIDIA
-PhysX以令画面更为逼真](../Page/NVIDIA_PhysX.md "wikilink")。
+游戏采用了目标软件自主研发的[奥世](https://zh.wikipedia.org/wiki/奥世引擎 "wikilink")（Overmax）[游戏引擎](../Page/游戏引擎.md "wikilink")，内嵌[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")[NVIDIA
+PhysX以令画面更为逼真](https://zh.wikipedia.org/wiki/NVIDIA_PhysX "wikilink")。
 
-游戏十分强调团队合作，这与其它[个人英雄主义较为严重的第一人称射击游戏有异](../Page/个人英雄主义.md "wikilink")。玩家在游戏中不再仅仅拿着枪跑动、射击，而可以驾驶直升机、装甲车四处横行，使用各种各样现代战场上的武器，模拟真正的战场\[4\]。目前游戏已开放16人对16人对战，32人对32人对战还在测试中，规格上预定达到64人对64人对战的目标。\[5\]
+游戏十分强调团队合作，这与其它[个人英雄主义较为严重的第一人称射击游戏有异](https://zh.wikipedia.org/wiki/个人英雄主义 "wikilink")。玩家在游戏中不再仅仅拿着枪跑动、射击，而可以驾驶直升机、装甲车四处横行，使用各种各样现代战场上的武器，模拟真正的战场\[4\]。目前游戏已开放16人对16人对战，32人对32人对战还在测试中，规格上预定达到64人对64人对战的目标。\[5\]
 
 游戏2010年7月8日在台湾先于大陆开始正式运营，短短3天内运营商就紧急加开了两组[服务器](../Page/服务器.md "wikilink")。\[6\]
 
-该游戏参展2010年[E3](../Page/E3.md "wikilink")。\[7\]
+该游戏参展2010年[E3](https://zh.wikipedia.org/wiki/E3 "wikilink")。\[7\]
 
 ## 游戏相关
 
@@ -19,11 +19,11 @@ PhysX以令画面更为逼真](../Page/NVIDIA_PhysX.md "wikilink")。
 
 开发初期中文名为“铁甲前传”\[8\]。后由目标软件举行命名投票，于2008年2月27日确定中文名为“铁甲突击”\[9\]，但由于参加人数过少（仅为28,138人次），代理商175公司再次举行命名投票，最终于2009年7月16日确定正式中文名“-{zh-hans:MKZ-军魂;zh-hant:MKZ-軍魂}-”。\[10\]
 
-同时游戏代言人也进行了票选，最终台湾艺人[郭书瑶得票最高而当选代言人](../Page/郭书瑶.md "wikilink")。2009年7月22日，在当年[中国国际数码互动娱乐展览会](../Page/中国国际数码互动娱乐展览会.md "wikilink")（ChinaJoy）开展的第一天，游戏官方同时发布游戏中文名和代言人，郭书瑶出席。\[11\]
+同时游戏代言人也进行了票选，最终台湾艺人[郭书瑶得票最高而当选代言人](https://zh.wikipedia.org/wiki/郭书瑶 "wikilink")。2009年7月22日，在当年[中国国际数码互动娱乐展览会](https://zh.wikipedia.org/wiki/中国国际数码互动娱乐展览会 "wikilink")（ChinaJoy）开展的第一天，游戏官方同时发布游戏中文名和代言人，郭书瑶出席。\[11\]
 
 ### 爭議
 
-遊戲內容和畫面與[戰地風雲2相似](../Page/戰地風雲2.md "wikilink")，因此引发部分非议。
+遊戲內容和畫面與[戰地風雲2相似](https://zh.wikipedia.org/wiki/戰地風雲2 "wikilink")，因此引发部分非议。
 
 ### 运营问题
 

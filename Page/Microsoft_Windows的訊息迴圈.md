@@ -1,4 +1,4 @@
-[微軟視窗操作系统是以](../Page/Microsoft_Windows.md "wikilink")[事件驅動做為程式設計的基礎](../Page/事件驅動程式設計.md "wikilink")。程式的執行緒会从作業系統获取訊息。應用程式會不斷循环呼叫GetMessage函式（或是PeekMessage函式）來接收這些訊息，這個循环稱之為“**事件迴圈**”。基本上事件迴圈的程式碼如下所示（[C語言](../Page/C語言.md "wikilink")
+[微軟視窗操作系统是以](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[事件驅動做為程式設計的基礎](../Page/事件驅動程式設計.md "wikilink")。程式的執行緒会从作業系統获取訊息。應用程式會不斷循环呼叫GetMessage函式（或是PeekMessage函式）來接收這些訊息，這個循环稱之為“**事件迴圈**”。基本上事件迴圈的程式碼如下所示（[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")
 / [C++程式語言](../Page/C++.md "wikilink")）：
 
 ``` cpp
@@ -23,7 +23,7 @@ while( (bRet = GetMessage( &msg, NULL, 0, 0 )) != 0)
 雖然在程序上並沒有很嚴格的規定與要求，但是一般來說，它的事件迴圈通常會呼叫TranslateMessage函式與DispatchMessage函式，這兩個函式會傳遞訊息給回呼函式，以及调用相应視窗的消息处理函数。
 
 現在的繪圖介面架構程式設計，例如[Visual
-Basic與](../Page/Visual_Basic.md "wikilink")[Qt基本上是不會要求應用程式直接拥有視窗程式的訊息迴圈](../Page/Qt_\(toolkit\).md "wikilink")，但是會以鍵盤與滑鼠的按鍵動作來作為事件的處理機制。在這些架構底下，訊息迴圈的痕迹還是可以被找到的。
+Basic與](../Page/Visual_Basic.md "wikilink")[Qt基本上是不會要求應用程式直接拥有視窗程式的訊息迴圈](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink")，但是會以鍵盤與滑鼠的按鍵動作來作為事件的處理機制。在這些架構底下，訊息迴圈的痕迹還是可以被找到的。
 
 注意：在上述的原始碼裡，尤其在while迴圈*大於零*的條件。即使GetMessage函式的傳回值型態是英文字大寫的BOOL，但是在Win32視窗程式裡，它是被定義成int整數型態，它有兩個值，TRUE是整數的1，FALSE是整數的0。整數
 -1代表error（例如第二个参数为输出的窗口句柄但取不到值的时候），整數0值当GetMessage获取到WM_QUIT訊息。假如有其他訊息，那麼非零值會當成傳回值（有訊息的傳回值通常是正值，但是有些程式設計的說明文件不一定會說明的很詳細\[1\]\[2\]）。
@@ -123,8 +123,8 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
         ENTER（linefeed换行）、TAB。因为TranslateMessage函数从WM_KEYDOWN和WM_SYSKEYDOWN消息产生了字符消息，所以字符消息是夹在按键消息之间传递给窗口消息处理程序的。如果使用者按住一个键不放，会自动重复产生一系列的WM_KEYDOWN消息；对每条WM_KEYDOWN消息，都会得到一条字符消息。如果某些WM_KEYDOWN消息的重复计数大于1，那么相应的WM_CHAR消息将具有同样的重复计数。
           - WM_SYSCHAR：按下后再按下别的键的WM_SYSKEYDOWN消息被翻译，
           - WM_CHAR：WM_KEYDOWN消息被翻译为WM_CHAR消息。
-          - WM_DEADCHAR：`TranslateMessage`函数处理“[死键](../Page/死键.md "wikilink")”（dead
-            key）的WM_KEYUP消息，向具有输入焦点的窗口投寄（post）出WM_DEADCHAR消息。死键是产生[附加符号的按键](../Page/附加符号.md "wikilink")。例如在德语键盘，[锐音符被按下](../Page/锐音符.md "wikilink")、释放后，再按下，将获得字母á的WM_CHAR。如果在死键之后跟有不能带此附件符号的字母（例如[锐音符后跟](../Page/锐音符.md "wikilink")「s」），那么将接收到两条WM_CHAR消息：前一个消息的wParam等于附加符号本身的ASCII码（与传递到WM_DEADCHAR消息的wParam值相同），第二个消息的wParam等于字母的ASCII代码。
+          - WM_DEADCHAR：`TranslateMessage`函数处理“[死键](https://zh.wikipedia.org/wiki/死键 "wikilink")”（dead
+            key）的WM_KEYUP消息，向具有输入焦点的窗口投寄（post）出WM_DEADCHAR消息。死键是产生[附加符号的按键](../Page/附加符号.md "wikilink")。例如在德语键盘，[锐音符被按下](https://zh.wikipedia.org/wiki/锐音符 "wikilink")、释放后，再按下，将获得字母á的WM_CHAR。如果在死键之后跟有不能带此附件符号的字母（例如[锐音符后跟](https://zh.wikipedia.org/wiki/锐音符 "wikilink")「s」），那么将接收到两条WM_CHAR消息：前一个消息的wParam等于附加符号本身的ASCII码（与传递到WM_DEADCHAR消息的wParam值相同），第二个消息的wParam等于字母的ASCII代码。
           - WM_SYSDEADCHAR：按下时又按下了“死键”的WM_SYSKEYUP消息。
   - 鼠标消息：
       - 客户区鼠标消息：WM_MOUSEMOVE及鼠标按键的DOWN、UP、DBLCLK消息。双击事件的处理只有窗口类定义接收（CS_DBLCLKS）时，才起作用，这时接收到的鼠标消息顺序为：DOWN、UP、DBLCLK、UP。鼠标消息发送给被单击的窗口或鼠标经过的窗口，即使该窗口处于非活动或不带输入焦点；例外情况有“捕获鼠标”时或模式对话框处于活动状态时。消息参数wParam(指出那个鼠标按钮、Shift键、Ctrl键被按下；lParam的低位表示x坐标，高位表示y坐标的鼠标位置。
@@ -133,7 +133,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
       - WM_MOUSEWHEEL发送给具有焦点的窗口（注意不一定是鼠标下面的窗口）
   - 定时器消息
   - 控件消息
-  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件来传递数据](../Page/内存映射文件.md "wikilink")。
+  - 跨进程发送数据的消息：WM_SETTEXT、WM_GETTEXT、WM_COPYDATA，系统自动分配使用可在进程间共享的[内存映射文件来传递数据](https://zh.wikipedia.org/wiki/内存映射文件 "wikilink")。
 
 键盘输入时需要明确插入符位置，相关API函数为：CreateCaret、SetCaretPos、ShowCaret、HideCaret、DestroyCaret、GetCaretPos、GetCaretBlinkTime、SetCaretBlinkTime。
 
@@ -144,7 +144,7 @@ queue)。在发生输入事件之后，Windows操作系统的输入设备驱动�
 ## 同步与阻塞
 
 [Windows
-API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](../Page/同步_\(计算机科学\).md "wikilink")，即它发出的Windows消息没被处理完之前这个函数就不返回。但这个函数不是阻塞的。分两种情形：\[5\]
+API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](https://zh.wikipedia.org/wiki/同步_\(计算机科学\) "wikilink")，即它发出的Windows消息没被处理完之前这个函数就不返回。但这个函数不是阻塞的。分两种情形：\[5\]
 
   - 如果被指定的窗口是发起调用SendMessage的线程创建的，则该线程立即执行窗口过程（window procedure）；
   - 如果被指定的窗口不是发起调用SendMessage的线程创建的，操作系统切换到该窗口所属的线程执行相应的窗口过程。消息处理完之前，发送线程不从调用SendMessage处返回，但发送线程这期间可以处理非队列消息（nonqueued
@@ -162,7 +162,7 @@ API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](../
 
 ## 相關條目
 
-  - [C語言](../Page/C語言.md "wikilink")
+  - [C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")
   - [C++](../Page/C++.md "wikilink")
 
 ## 外部連結

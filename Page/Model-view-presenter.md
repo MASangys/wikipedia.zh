@@ -1,9 +1,9 @@
-**Model-view-presenter**，簡稱[MVP](../Page/MVP.md "wikilink")，是電腦軟體設計工程中一種對針對[MVC模式](../Page/model-view-controller.md "wikilink")，再審議後所延伸提出的一種軟體設計模式。
+**Model-view-presenter**，簡稱[MVP](https://zh.wikipedia.org/wiki/MVP "wikilink")，是電腦軟體設計工程中一種對針對[MVC模式](https://zh.wikipedia.org/wiki/model-view-controller "wikilink")，再審議後所延伸提出的一種軟體設計模式。
 
 ## 模式描述
 
 **Model-View-Presenter (MVP)**
-是[使用者介面](../Page/使用者介面.md "wikilink")[設計模式的一種](../Page/設計模式.md "wikilink")，被廣泛用於便捷自動化單元測試和在呈現邏輯中改良分離關注點（separation
+是[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[設計模式的一種](https://zh.wikipedia.org/wiki/設計模式 "wikilink")，被廣泛用於便捷自動化單元測試和在呈現邏輯中改良分離關注點（separation
 of concerns）。
 
   - **Model** 定義使用者介面所需要被顯示的資料模型，一個模型包含著相關的業務邏輯。
@@ -24,11 +24,12 @@ interface）來運作。
 clients）相同的逐項佈置法（component approach）客戶端邏輯的開發。
 
 在[Google Web
-Toolkit裡使用MVP只需要一些元件實行視圖接口](../Page/Google_Web_Toolkit.md "wikilink")。相同的方法在[Echo2網頁框架裡也能使用](../Page/Echo_\(架構\).md "wikilink")。
+Toolkit裡使用MVP只需要一些元件實行視圖接口](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")。相同的方法在[Echo2網頁框架裡也能使用](../Page/Echo_\(架構\).md "wikilink")。
 
 #### Google Web Toolkit - MVP
 
-1.  [Google Web Toolkit](../Page/Google_Web_Toolkit.md "wikilink")
+1.  [Google Web
+    Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")
     結構：Best Practices For Architecting Your GWT App\[1\]
 2.  Large scale application development and MVP \[2\]
 3.  gwt-presenter\[3\]
@@ -38,7 +39,8 @@ Toolkit裡使用MVP只需要一些元件實行視圖接口](../Page/Google_Web_T
 ## 参见
 
   - [MVC](../Page/MVC.md "wikilink")
-  - [Google Web Toolkit](../Page/Google_Web_Toolkit.md "wikilink")
+  - [Google Web
+    Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")
 
 ## 外部參考
 

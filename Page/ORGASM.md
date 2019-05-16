@@ -1,6 +1,6 @@
 "**Orgasm**"(オルガスム)是[X
 Japan於](../Page/X_Japan.md "wikilink")1986年4月1日發行的單曲。也是[Extasy
-Records的第一個作品](../Page/Extasy_Records.md "wikilink")。這首曲子因其歌詞裡帶有明顯的性意味而引人注目。
+Records的第一個作品](https://zh.wikipedia.org/wiki/Extasy_Records "wikilink")。這首曲子因其歌詞裡帶有明顯的性意味而引人注目。
 
 *Orgasm*在演唱會中也是出現頻率很高的一首曲子；演奏此曲時X
 Japan的團員會和歌迷有許多的互動，團長Yoshiki從獨立樂團時期起便會在歌曲進行中拿著乾冰槍跑向台下的觀眾群中，伴隨台上的吉他手和貝斯手會不停反覆相似的旋律，以及主唱Toshi的吶喊，經常讓演唱會引起一陣高潮。
@@ -15,10 +15,11 @@ are X"和"You are X"的口號，接著Hide更會以"飛べ飛べ飛べ…"的吶
 
 ## 演出團員
 
-  - Toshimitsu "Toshi" Deyama – [主唱](../Page/主唱.md "wikilink")
-  - Yoshiki Hayashi – [鼓手](../Page/鼓手.md "wikilink")
+  - Toshimitsu "Toshi" Deyama –
+    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - Yoshiki Hayashi – [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
   - Hisashi "Jun" Takai – [吉他](../Page/吉他.md "wikilink")
-  - Hikaru Utaka – [貝斯](../Page/貝斯.md "wikilink")
+  - Hikaru Utaka – [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
 [Category:1986年單曲](https://zh.wikipedia.org/wiki/Category:1986年單曲 "wikilink")
 [Category:X_Japan歌曲](https://zh.wikipedia.org/wiki/Category:X_Japan歌曲 "wikilink")

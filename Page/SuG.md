@@ -50,7 +50,7 @@
 
   -
     \[前所屬樂團（括號內為前藝名）:LUSIA → Arc（我拉） → ナナ（Chiyu）\]
-    12月27日出生、血液型O型、[兵庫縣出身](../Page/兵庫縣.md "wikilink")、身高174cm、體重56kg
+    12月27日出生、血液型O型、[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")、身高174cm、體重56kg
     會吹薩克斯風，有在LIVE中表演過。
     在樂團"GREMLINS"擔任支援貝斯手
     與Sadie的吉他手美月感情很好，同在GREMLINS擔任支援樂手

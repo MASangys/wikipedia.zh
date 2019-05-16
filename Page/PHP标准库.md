@@ -1,5 +1,5 @@
 **PHP标准库**（**Standard PHP
-Library**，缩写：**SPL**），是[PHP](../Page/PHP.md "wikilink")5.0之后新添加的重要库。它提供了一系列的[接口](../Page/接口.md "wikilink")（interface）和[类](../Page/类.md "wikilink")（classes）解决网站开发中普遍碰到的问题。源码在ext/spl目录下。
+Library**，缩写：**SPL**），是[PHP](../Page/PHP.md "wikilink")5.0之后新添加的重要库。它提供了一系列的[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")（interface）和[类](https://zh.wikipedia.org/wiki/类 "wikilink")（classes）解决网站开发中普遍碰到的问题。源码在ext/spl目录下。
 
 ## 介绍
 
@@ -14,7 +14,7 @@ SPL主要提供了以下几个方面的内容：
 
 ## 主要接口
 
-  - ArrayAccess：其功能是使类可以像PHP中的数组一样操作。有点类似于[.NET平台的index操作](../Page/.NET.md "wikilink")。
+  - ArrayAccess：其功能是使类可以像PHP中的数组一样操作。有点类似于[.NET平台的index操作](https://zh.wikipedia.org/wiki/.NET "wikilink")。
   - Traversable：是Zend引擎的内置接口，它是能让类用于foreach语句的接口，但是在PHP中并不能直接实现Traversable。只能间接地通过Iterator或IteratorAggregate接口实现。
   - IteratorAggregate（继承Traversable，是他的儿子）是除Iterator之外另一个从Traversable接口中继承而来的。其接口也很简单，只有一个函数。就是返回一个迭代器实例。
   - Iterator（也是继承Traversable，是他的儿子），SPL中大部分接口和类都是从这个接口继承而来的。
@@ -86,6 +86,7 @@ SPL主要提供了以下几个方面的内容：
   - <http://www.php.net/~helly/php/ext/spl/>
   - <http://www.caixw.com/archives/intro-to-spl-iterator.html>
 
-[en:PHP\#Data types](../Page/en:PHP#Data_types.md "wikilink")
+[en:PHP\#Data
+types](https://zh.wikipedia.org/wiki/en:PHP#Data_types "wikilink")
 
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")

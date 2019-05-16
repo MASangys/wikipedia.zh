@@ -1,4 +1,4 @@
-《**Twins**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第二張錄音室專輯](../Page/BY2.md "wikilink")，也是第二張演唱專輯，於2009年4月10日推出。
+《**Twins**》是[臺灣女子團體](../Page/臺灣.md "wikilink")[BY2的第二張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")，也是第二張演唱專輯，於2009年4月10日推出。
 
 ## 曲目
 
@@ -44,7 +44,7 @@
 <td><p>我知道</p></td>
 <td><p>於萱</p></td>
 <td><p>於萱</p></td>
-<td><p>電視劇「<a href="../Page/比賽開始.md" title="wikilink">比賽開始</a>」片尾曲<br />
+<td><p>電視劇「<a href="https://zh.wikipedia.org/wiki/比賽開始" title="wikilink">比賽開始</a>」片尾曲<br />
 LG冰淇淋手機代言曲</p></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@ LG冰淇淋手機代言曲</p></td>
 <td><p>無解呦</p></td>
 <td><p>林白</p></td>
 <td><p>Dr. Moon</p></td>
-<td><p>韓版<a href="../Page/流星花園.md" title="wikilink">流星花園片頭曲</a></p></td>
+<td><p>韓版<a href="https://zh.wikipedia.org/wiki/流星花園" title="wikilink">流星花園片頭曲</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>06</p></td>
@@ -107,14 +107,15 @@ Yumi</p></td>
 
 ## 音樂錄影帶
 
-1.  DNA（導演：[呂來慧](../Page/呂來慧.md "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
-2.  我知道（導演：[呂來慧](../Page/呂來慧.md "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
+1.  DNA（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
+2.  我知道（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
 3.  Don't Go Away
-    (英文版)（導演：[呂來慧](../Page/呂來慧.md "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
-4.  Don't Go Away (中文版)（導演：[呂來慧](../Page/呂來慧.md "wikilink")）
-5.  新少女祈禱（導演：[陳勇秀](../Page/陳勇秀.md "wikilink")）收錄於【BY2精選回饋2009暑假作業】
-6.  勇敢（導演：[陳勇秀](../Page/陳勇秀.md "wikilink")）收錄於【BY2精選回饋2009暑假作業】
-7.  無解呦（導演：[陳勇秀](../Page/陳勇秀.md "wikilink")）收錄於【BY2精選回饋2009暑假作業】
+    (英文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）收錄於專輯《**Twins【加值雙碟限量版】**》
+4.  Don't Go Away
+    (中文版)（導演：[呂來慧](https://zh.wikipedia.org/wiki/呂來慧 "wikilink")）
+5.  新少女祈禱（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
+6.  勇敢（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
+7.  無解呦（導演：[陳勇秀](https://zh.wikipedia.org/wiki/陳勇秀 "wikilink")）收錄於【BY2精選回饋2009暑假作業】
 
 ## 專輯總覽
 
@@ -136,7 +137,7 @@ Twins**
 
 ## 參見
 
-  - [By2](../Page/By2.md "wikilink")
+  - [By2](https://zh.wikipedia.org/wiki/By2 "wikilink")
 
 ## 外部連結
 

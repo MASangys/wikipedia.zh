@@ -1,11 +1,11 @@
 「**love the
-world**」是日本[流行電音組合](../Page/流行電音.md "wikilink")[Perfume第七張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2008年7月9日發行。唱片公司為[Tokuma
+world**」是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第七張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年7月9日發行。唱片公司為[Tokuma
 Japan Communications](../Page/德間日本傳播.md "wikilink")。
 
 ## 解説
 
   - 距離前作「[Baby cruising
-    Love/Macaroni](../Page/Baby_cruising_Love/Macaroni.md "wikilink")」大約半年時間的單曲，與前作一樣以「LOVE」為主題的戀愛故事。
+    Love/Macaroni](https://zh.wikipedia.org/wiki/Baby_cruising_Love/Macaroni "wikilink")」大約半年時間的單曲，與前作一樣以「LOVE」為主題的戀愛故事。
   - 這張單曲首次收錄了c/w曲的混音版本。
   - B面曲「edge」中說著「1234」的聲音，其實是製作這張單曲的[中田康貴自己的聲音](../Page/中田康貴.md "wikilink")。
   - 封面中三人的動作取材于日本的「三猿」，分別表示著「勿視·勿言·勿聽」。
@@ -15,7 +15,7 @@ Japan Communications](../Page/德間日本傳播.md "wikilink")。
     new world\!(see new
     world在日文是指死亡、逝世)」，有人推論本曲主旨為:「人生苦短，有愛情就不要輕易放下」。而且這首歌在專輯中，收錄了重新混音的版本。
   - 單曲取得了[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")[單曲榜週榜冠軍](../Page/2008年Oricon單曲週榜冠軍作品列表.md "wikilink")，是首次有[電子音樂相關團體登上第一位](../Page/電子音樂.md "wikilink")\[1\]，亦是[Perfume首張冠軍單曲](../Page/Perfume_\(日本音樂團體\).md "wikilink")。對上一次有[Hello\!
-    Project以外的女性組合獲得第一位](../Page/Hello!_Project.md "wikilink")，已經是1998年[SPEED的](../Page/SPEED_\(日本音樂團體\).md "wikilink")「[ALL
+    Project以外的女性組合獲得第一位](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，已經是1998年[SPEED的](../Page/SPEED_\(日本音樂團體\).md "wikilink")「[ALL
     MY TRUE LOVE](../Page/ALL_MY_TRUE_LOVE.md "wikilink")」。
 
 ## 收錄曲

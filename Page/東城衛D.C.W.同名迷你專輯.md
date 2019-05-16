@@ -1,4 +1,4 @@
-**《【東城衞DCW】同名迷你專輯》**為[台灣](../Page/台灣.md "wikilink")[樂團](../Page/樂團.md "wikilink")[東城衛的第一張](../Page/東城衛.md "wikilink")[專輯](../Page/專輯.md "wikilink")，也是出道以來第二張實體音樂作品，2010年7月9日全面正式發行，專輯收錄6首歌曲(3首新歌.3首經典重編)(詞曲本樂團成員創作)，著有一張改版專輯《護衛收藏版》CD+DVD。
+**《【東城衞DCW】同名迷你專輯》**為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[東城衛的第一張](https://zh.wikipedia.org/wiki/東城衛 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是出道以來第二張實體音樂作品，2010年7月9日全面正式發行，專輯收錄6首歌曲(3首新歌.3首經典重編)(詞曲本樂團成員創作)，著有一張改版專輯《護衛收藏版》CD+DVD。
 
 ## 記錄
 
@@ -46,7 +46,7 @@
 <td><p>脩SHU</p></td>
 <td><p>脩SHU</p></td>
 <td><p>首波主打歌真實故事 撼動人心單曲<br />
-《<a href="../Page/誰懂女兒心.md" title="wikilink">誰懂女兒心</a>》台灣區片尾曲<br />
+《<a href="https://zh.wikipedia.org/wiki/誰懂女兒心" title="wikilink">誰懂女兒心</a>》台灣區片尾曲<br />
 《<a href="../Page/愛似百匯_(電視劇).md" title="wikilink">愛似百匯 (電視劇)</a>》劇情插曲</p></td>
 </tr>
 <tr class="even">
@@ -65,7 +65,7 @@
 <td><p>愛與搖滾世界觀<br />
 《<a href="../Page/萌學園之萌騎士傳奇.md" title="wikilink">萌學園之萌騎士傳奇</a>》片頭曲、片尾曲<br />
 《<a href="../Page/萌學園2聖戰再起.md" title="wikilink">萌學園2聖戰再起</a>》片頭曲、片尾曲<br />
-《<a href="../Page/萌學園3魔法號令.md" title="wikilink">萌學園3魔法號令</a>》片頭曲</p></td>
+《<a href="https://zh.wikipedia.org/wiki/萌學園3魔法號令" title="wikilink">萌學園3魔法號令</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -73,7 +73,7 @@
 <td><p>謝和弦</p></td>
 <td><p>脩SHU</p></td>
 <td><p>氣勢搖滾出道曲<br />
-《<a href="../Page/終極一家.md" title="wikilink">終極一家</a>》主題插曲<br />
+《<a href="https://zh.wikipedia.org/wiki/終極一家" title="wikilink">終極一家</a>》主題插曲<br />
 《終極三國》首波片尾曲</p></td>
 </tr>
 </tbody>

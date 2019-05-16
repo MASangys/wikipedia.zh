@@ -1,8 +1,8 @@
 **Gamestudio**，一般被称为**3D
-Gamestudio**，或者**3DGS**，是一个[3D电脑游戏开发系统](../Page/3D电脑游戏.md "wikilink")，允许用户创建[3D游戏和其它](../Page/3D游戏.md "wikilink")[虚拟现实](../Page/虚拟现实.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")，并且可以免版税发布。该系统包含一个模型/地形编辑器，一个场景编辑器，一个脚本编辑/调试程序，而且还收录了大量的纹理，模型，和贴图。不仅如此，该系统还带有一个游戏模板系统，用户不需编程就可以用它做一些基本的射击游戏或者角色扮演类游戏。对于更复杂的游戏或者其它应用程序，用户可以使用软件集成的编程语言，Lite-C，或者用外部[开发语言](../Page/开发语言.md "wikilink")，比如[VC++或者](../Page/VC++.md "wikilink")[Borland
-Delphi](../Page/Borland_Delphi.md "wikilink")。
+Gamestudio**，或者**3DGS**，是一个[3D电脑游戏开发系统](https://zh.wikipedia.org/wiki/3D电脑游戏 "wikilink")，允许用户创建[3D游戏和其它](https://zh.wikipedia.org/wiki/3D游戏 "wikilink")[虚拟现实](../Page/虚拟现实.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")，并且可以免版税发布。该系统包含一个模型/地形编辑器，一个场景编辑器，一个脚本编辑/调试程序，而且还收录了大量的纹理，模型，和贴图。不仅如此，该系统还带有一个游戏模板系统，用户不需编程就可以用它做一些基本的射击游戏或者角色扮演类游戏。对于更复杂的游戏或者其它应用程序，用户可以使用软件集成的编程语言，Lite-C，或者用外部[开发语言](https://zh.wikipedia.org/wiki/开发语言 "wikilink")，比如[VC++或者](https://zh.wikipedia.org/wiki/VC++ "wikilink")[Borland
+Delphi](https://zh.wikipedia.org/wiki/Borland_Delphi "wikilink")。
 
-Gamestudio面向各种各样的用户群，针对爱好者，美工人员以及编程人员提供低中高三种层次的用途（初级版、高级版、专业版）。并且，[Conitec公司也希望把这个系统推向广告游戏开发](../Page/Conitec公司.md "wikilink")，实时演示，模拟以及虚拟展览制作的市场。大部分发行的Gamestudio作品都是有2到3人的开发团队制作完成的。而且，在网络上还有一个庞大的在线用户交流群可以针对这个系统提供帮助。
+Gamestudio面向各种各样的用户群，针对爱好者，美工人员以及编程人员提供低中高三种层次的用途（初级版、高级版、专业版）。并且，[Conitec公司也希望把这个系统推向广告游戏开发](https://zh.wikipedia.org/wiki/Conitec公司 "wikilink")，实时演示，模拟以及虚拟展览制作的市场。大部分发行的Gamestudio作品都是有2到3人的开发团队制作完成的。而且，在网络上还有一个庞大的在线用户交流群可以针对这个系统提供帮助。
 
 ## 历史
 
@@ -31,7 +31,7 @@ Tree)渲染器表现室内外场景，并用一个额外的BSP渲染器做室内
 Gamestudio给用户提供了一套编辑工具。但是用户依然可以使用3ds Max，Maya，Adobe
 Photoshop来给Gamestudio做专业的图像与模型。
 
-[脚本编辑器可以让用户通过建立地形或者创建环境和插入模型](../Page/脚本编辑器.md "wikilink")，并且可以通过模板脚本或自创脚本为它们加入动作和各种行为。如果需要，用户可以自行创建模型和造型，纹理效果，以及脚本。纹理是通过外部绘图程序创建的，如
+[脚本编辑器可以让用户通过建立地形或者创建环境和插入模型](https://zh.wikipedia.org/wiki/脚本编辑器 "wikilink")，并且可以通过模板脚本或自创脚本为它们加入动作和各种行为。如果需要，用户可以自行创建模型和造型，纹理效果，以及脚本。纹理是通过外部绘图程序创建的，如
 Photoshop，Paintshop Pro，Microsoft Paint，或者GIMP。
 
 ### 场景编辑器（WED），又名关卡编辑器
@@ -74,16 +74,16 @@ WED的一个缺点就是它不能在没有块或者地形的情况下进行操�
 
 C-Script是Gamestudio使用的旧语言。虽然现在的系统仍然支持这个语言，但是在新的A7引擎C-Script已经被Lite-C取代，而且已经不推荐使用。C-Script是简化版的C编程语言，它只包含一种变量，var,
 而且不支持类。
-Lite-C是2007年被引进的。它更加类似于[C语言](../Page/C语言.md "wikilink")，但是包含很多方面使其比C语言更简单。Lite-C支持所有的
+Lite-C是2007年被引进的。它更加类似于[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但是包含很多方面使其比C语言更简单。Lite-C支持所有的
 C/C++变量集，结构，和外部类。并且Lite-C是汇编语言，不需要转译。它可以让用户利用DirectX的命令集以及Windows
 API。Lite-C支持来自外部库的类，但是不允许用户在Lite-C里自定义类。除此之外，Lite-C还有一个免费的独立版本，可以独立于
 Gamestudio运作。
 
 ## 游戏
 
-使用Gamestudio制作的游戏包括《[异教危机](../Page/异教危机.md "wikilink")》（Kabus 22,2006年又S
-on Isik LTD, Merscom LLC)出品）和Citroën C4 Robot（2008年2GEN Studio, Citroën
-Turkey出品）和Dejobaan公司的一些Windows游戏。
+使用Gamestudio制作的游戏包括《[异教危机](https://zh.wikipedia.org/wiki/异教危机 "wikilink")》（Kabus
+22,2006年又S on Isik LTD, Merscom LLC)出品）和Citroën C4 Robot（2008年2GEN
+Studio, Citroën Turkey出品）和Dejobaan公司的一些Windows游戏。
 
 ## 外部链接
 

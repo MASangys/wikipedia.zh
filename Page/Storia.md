@@ -1,4 +1,4 @@
-《**storia**》是[Kalafina的第](../Page/Kalafina.md "wikilink")5張[單曲](../Page/單曲.md "wikilink")。於2009年7月1日由[SME
+《**storia**》是[Kalafina的第](../Page/Kalafina.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2009年7月1日由[SME
 Records發行](../Page/SME_Records.md "wikilink")。\[1\]這是Kalafina於Maya脫離後的第一隻作品。該標題曲目是NHK歷史紀錄片系列
 [「歴史秘話Historia」](../Page/历史秘话.md "wikilink")(Rekishi Hiwa
 Historia)的片頭主題曲。

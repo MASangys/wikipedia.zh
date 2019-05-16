@@ -1,14 +1,14 @@
-**Q型流感**或**羊流感**（或），又稱**Q熱**或**寇熱**，是指一种在[荷兰爆发的新](../Page/荷兰.md "wikilink")[流感](../Page/流感.md "wikilink")。这种流感由[贝纳氏立克次体](../Page/贝纳氏立克次体.md "wikilink")（學名：*Coxiella
+**Q型流感**或**羊流感**（或），又稱**Q熱**或**寇熱**，是指一种在[荷兰爆发的新](../Page/荷兰.md "wikilink")[流感](https://zh.wikipedia.org/wiki/流感 "wikilink")。这种流感由[贝纳氏立克次体](https://zh.wikipedia.org/wiki/贝纳氏立克次体 "wikilink")（學名：*Coxiella
 burnetii*）[细菌引起](../Page/细菌.md "wikilink")\[1\] 。
 
 ## 宿主
 
-这种流感能够通过[羊群传染给](../Page/羊.md "wikilink")[人类](../Page/人类.md "wikilink")。貓與狗也可能感染Q型流感。人類可能因接觸動物的奶汁，尿液，糞便，陰道粘液，精液而感染。這種疾病很少經由[蜱傳播](../Page/蜱.md "wikilink")\[2\]。Q型流感潛伏期為9-40天。人類對於Q型流感抵抗力不強\[3\]
+这种流感能够通过[羊群传染给](../Page/羊.md "wikilink")[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")。貓與狗也可能感染Q型流感。人類可能因接觸動物的奶汁，尿液，糞便，陰道粘液，精液而感染。這種疾病很少經由[蜱傳播](https://zh.wikipedia.org/wiki/蜱 "wikilink")\[2\]。Q型流感潛伏期為9-40天。人類對於Q型流感抵抗力不強\[3\]
 。
 
 ## 症状
 
-人感染“Q型流感”后会出现以下[症状](../Page/症状.md "wikilink"):
+人感染“Q型流感”后会出现以下[症状](https://zh.wikipedia.org/wiki/症状 "wikilink"):
 
   - 头痛
   - 出汗

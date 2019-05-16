@@ -1,17 +1,17 @@
 [PAWORKS.JPG](https://zh.wikipedia.org/wiki/File:PAWORKS.JPG "fig:PAWORKS.JPG")
 **株式會社P.A.Works**（，「P.A.」為「Progressive
-Animation」的縮寫）是一家成立于2000年11月10日的日本[動畫工作室](../Page/動畫工作室.md "wikilink")，总部位于日本[富山縣](../Page/富山縣.md "wikilink")[南礪市](../Page/南礪市.md "wikilink")。
+Animation」的縮寫）是一家成立于2000年11月10日的日本[動畫工作室](https://zh.wikipedia.org/wiki/動畫工作室 "wikilink")，总部位于日本[富山縣](../Page/富山縣.md "wikilink")[南礪市](https://zh.wikipedia.org/wiki/南礪市 "wikilink")。
 
 ## 概要
 
 2000年11月10日，BEE
 TRAIN的公司代表兼製作人[堀川憲司於](../Page/堀川憲司.md "wikilink")[富山縣](../Page/富山縣.md "wikilink")成立**越中動畫本鋪株式會社**。2002年1月1日，公司正式更名為P.A.Works，並緊接把工作室搬至現址。成立的緣由在於堀川需要按家族的約定回歸當地，並有見本土未有任何成熟的動畫工作室，於是決定創業。設立初期曾一度因資金有限而要借用已荒廢的醫院作改建，及借用有線電視的網絡去處理各項行政工作。創立以來，公司長期作為[BEE
-TRAIN](../Page/BEE_TRAIN.md "wikilink")、[Production
+TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")、[Production
 I.G和](../Page/Production_I.G.md "wikilink")[BONES作畫協力的合作夥伴之一](../Page/BONES_\(動畫製作公司\).md "wikilink")。
 
 隨著公司業務發展，公司除了有力於首都東京成立分社，亦致力改善員工在健康和宿舍方面的福利。目前富山本社主要負責作畫和3D-CG製作，而東京事務所P-10則負責演出和發行製作的事宜。2008年，公司首次投入獨立製作《[真實之淚
 true
-tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此定下其早期推展原創動畫，及致力維持成品高品質的路線。同時間，公司亦有投資在《[雷頓教授系列](../Page/雷頓教授系列.md "wikilink")》的[Q版畫風製作](../Page/Q版.md "wikilink")。
+tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此定下其早期推展原創動畫，及致力維持成品高品質的路線。同時間，公司亦有投資在《[雷頓教授系列](../Page/雷頓教授系列.md "wikilink")》的[Q版畫風製作](https://zh.wikipedia.org/wiki/Q版 "wikilink")。
 
 ## 作品列表
 
@@ -114,7 +114,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/來自風平浪靜的明天.md" title="wikilink">來自風平浪靜的明天</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/來自風平浪靜的明天" title="wikilink">來自風平浪靜的明天</a></p></td>
 <td></td>
 <td><p>10月－12 月</p></td>
 <td><p>篠原俊哉</p></td>
@@ -132,7 +132,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/白箱.md" title="wikilink">白箱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白箱" title="wikilink">白箱</a></p></td>
 <td><p>SHIROBAKO</p></td>
 <td><p>10月－2015年3月</p></td>
 <td><p>水島努</p></td>
@@ -142,7 +142,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/Charlotte_(動畫).md" title="wikilink">Charlotte</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Charlotte_(動畫)" title="wikilink">Charlotte</a></p></td>
 <td><p>7月－9月</p></td>
 <td><p>淺井義之</p></td>
 <td><p>與Key和Aniplex共同企劃</p></td>
@@ -169,10 +169,10 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/樱花任务.md" title="wikilink">樱花任务</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樱花任务" title="wikilink">樱花任务</a></p></td>
 <td></td>
 <td><p>4月－9月</p></td>
-<td><p><a href="../Page/增井壯一.md" title="wikilink">增井壯一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/增井壯一" title="wikilink">增井壯一</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -187,15 +187,15 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/賽馬娘Pretty_Derby.md" title="wikilink">賽馬娘Pretty Derby</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby" title="wikilink">賽馬娘Pretty Derby</a></p></td>
 <td></td>
 <td><p>4月－6月</p></td>
-<td><p><a href="../Page/及川啟.md" title="wikilink">及川啟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/及川啟" title="wikilink">及川啟</a></p></td>
 <td><p>遊戲</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/天狼_Sirius_the_Jaeger.md" title="wikilink">天狼 Sirius the Jaeger</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天狼_Sirius_the_Jaeger" title="wikilink">天狼 Sirius the Jaeger</a></p></td>
 <td></td>
 <td><p>7月－9月</p></td>
 <td><p><a href="../Page/安藤真裕.md" title="wikilink">安藤真裕</a></p></td>
@@ -204,7 +204,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/來自繽紛世界的明日.md" title="wikilink">來自繽紛世界的明日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/來自繽紛世界的明日" title="wikilink">來自繽紛世界的明日</a></p></td>
 <td></td>
 <td><p>10月－12月</p></td>
 <td><p><a href="../Page/篠原俊哉.md" title="wikilink">篠原俊哉</a></p></td>
@@ -214,10 +214,10 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="../Page/Fairy_Gone.md" title="wikilink">Fairy Gone</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fairy_Gone" title="wikilink">Fairy Gone</a></p></td>
 <td></td>
 <td><p>4月－</p></td>
-<td><p><a href="../Page/鈴木健一.md" title="wikilink">鈴木健一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木健一" title="wikilink">鈴木健一</a></p></td>
 <td><p>原創</p></td>
 <td><p>-</p></td>
 </tr>
@@ -239,7 +239,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/雷頓教授與永遠的歌姬.md" title="wikilink">雷頓教授與永遠的歌姬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷頓教授與永遠的歌姬" title="wikilink">雷頓教授與永遠的歌姬</a></p></td>
 <td></td>
 <td><p>2009年12月19日</p></td>
 <td><p>橋本昌和</p></td>
@@ -263,7 +263,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/於離別之朝束起約定之花.md" title="wikilink">於離別之朝束起約定之花</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/於離別之朝束起約定之花" title="wikilink">於離別之朝束起約定之花</a></p></td>
 <td></td>
 <td><p>2018年2月24日</p></td>
 <td><p>岡田麿里</p></td>
@@ -281,7 +281,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 <!-- end list -->
 
-  - [蠟筆小新](../Page/蠟筆小新.md "wikilink")（）（各話協力製作、上色，1992年）－主要擔任2007年集數。
+  - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")（）（各話協力製作、上色，1992年）－主要擔任2007年集數。
   - [我們這一家](../Page/我們這一家.md "wikilink")（）（各話協力製作，2002年）
 
 <!-- end list -->
@@ -294,14 +294,14 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
     COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")（各話協力製作，2002年－2003年）
 
   - [攻殼機動隊 S.A.C. 2nd
-    GIG](../Page/攻殼機動隊_S.A.C._2nd_GIG.md "wikilink")（各話協力製作，2004年）
+    GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")（各話協力製作，2004年）
 
   - [御伽草子](../Page/御伽草子_\(動畫\).md "wikilink")（）（各話協力製作，2005年）
 
   - （各話協力製作，2005年）
 
   - [攻殼機動隊 Stand Alone Complex - Solid State
-    Society](../Page/攻殼機動隊_S.A.C._Solid_State_Society.md "wikilink")（分段章節協力製作，2006年）
+    Society](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._Solid_State_Society "wikilink")（分段章節協力製作，2006年）
 
   - [精靈守護者](../Page/守護者系列.md "wikilink")（）（各話製作協力，2006年）
 
@@ -314,10 +314,10 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <!-- end list -->
 
   - [廢棄公主](../Page/廢棄公主.md "wikilink")（）（各話協力製作，2003年）
-  - [鋼之鍊金術師](../Page/鋼之鍊金術師.md "wikilink")（）（各話協力製作，2003年－2004年）
-  - [交響詩篇](../Page/交響詩篇.md "wikilink")（）（各話協力製作，2005年－2006年）
+  - [鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")（）（各話協力製作，2003年－2004年）
+  - [交響詩篇](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")（）（各話協力製作，2005年－2006年）
   - [DARKER THAN BLACK
-    -黑之契約者-](../Page/DARKER_THAN_BLACK.md "wikilink")（）（各話協力製作，2007年）
+    -黑之契約者-](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")（）（各話協力製作，2007年）
 
 <!-- end list -->
 
@@ -325,7 +325,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 <!-- end list -->
 
-  - [TSUBASA翼](../Page/TSUBASA翼.md "wikilink")（）（各話協力製作，2005年）
+  - [TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（）（各話協力製作，2005年）
   - [黑騎士 ～奧拉克爾的勇者們～](../Page/黑騎士_\(動畫\).md "wikilink")（）（各話協力製作，2006年）
 
 #### OVA
@@ -340,14 +340,14 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 #### 電影動畫
 
-  - [蠟筆小新：風起雲湧！不理不理3分鐘大進攻](../Page/蠟筆小新：風起雲湧！不理不理3分鐘大進攻.md "wikilink")（）（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，動畫協力製作，2005年）
+  - [蠟筆小新：風起雲湧！不理不理3分鐘大進攻](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧！不理不理3分鐘大進攻 "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，動畫協力製作，2005年）
 
-  - [蠟筆小新：Amigo！森巴入侵計畫](../Page/蠟筆小新：Amigo！森巴入侵計畫.md "wikilink")（）（總承包商：SHIN-EI動畫，動畫協力製作，2006年）
+  - [蠟筆小新：Amigo！森巴入侵計畫](https://zh.wikipedia.org/wiki/蠟筆小新：Amigo！森巴入侵計畫 "wikilink")（）（總承包商：SHIN-EI動畫，動畫協力製作，2006年）
 
   - [劇場版 鋼之鍊金術師
-    香巴拉的征服者](../Page/劇場版_鋼之鍊金術師_香巴拉的征服者.md "wikilink")（）（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，分段章節協力製作，2005年）
+    香巴拉的征服者](https://zh.wikipedia.org/wiki/劇場版_鋼之鍊金術師_香巴拉的征服者 "wikilink")（）（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，分段章節協力製作，2005年）
 
-  - [蠟筆小新劇場版：呼風喚雨！唱歌的光屁股炸彈蠟筆](../Page/蠟筆小新：小白的屁屁炸彈.md "wikilink")（）（總承包商：SHIN-EI動畫，動畫協力製作，2007年）
+  - [蠟筆小新劇場版：呼風喚雨！唱歌的光屁股炸彈蠟筆](https://zh.wikipedia.org/wiki/蠟筆小新：小白的屁屁炸彈 "wikilink")（）（總承包商：SHIN-EI動畫，動畫協力製作，2007年）
 
   - [劇場版
     魔法少女小圓［前篇］起始的物語](../Page/劇場版_魔法少女小圓.md "wikilink")（）（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，協力，2012年）
@@ -360,14 +360,15 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 #### 遊戲
 
-  - [雷頓教授與不可思議的小鎮](../Page/雷頓教授與不可思議的小鎮.md "wikilink")（）（動畫章節製作，2006年－2007年）
+  - [雷頓教授與不可思議的小鎮](https://zh.wikipedia.org/wiki/雷頓教授與不可思議的小鎮 "wikilink")（）（動畫章節製作，2006年－2007年）
   - [雷頓教授與惡魔之箱](../Page/雷頓教授與惡魔之箱.md "wikilink")（）（動畫章節製作，2007年）
   - [雷頓教授與最後的時間旅行](../Page/雷頓教授與最後的時間旅行.md "wikilink")（）（動畫章節製作，2008年）
   - [寒蟬黎明攜帶版](../Page/寒蟬黎明.md "wikilink")（）（OP動畫製作，2008年）
   - [雷頓教授與魔神之笛](../Page/雷頓教授與魔神之笛.md "wikilink")（）（動畫章節製作，2009年）
   - [雷頓教授與奇蹟假面](../Page/雷頓教授與奇蹟假面.md "wikilink")（）（動畫章節製作，2011年）
-  - [雷頓教授與超文明A的遺產](../Page/雷頓教授與超文明A的遺產.md "wikilink")（）（動畫章節製作，2013年）
-  - [英雄聯盟](../Page/英雄聯盟.md "wikilink")（） （第9賽季宣傳動畫製作，2019年）\[1\]
+  - [雷頓教授與超文明A的遺產](https://zh.wikipedia.org/wiki/雷頓教授與超文明A的遺產 "wikilink")（）（動畫章節製作，2013年）
+  - [英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")（）
+    （第9賽季宣傳動畫製作，2019年）\[1\]
 
 ### 其他
 
@@ -378,14 +379,14 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
   - 富山觀光動畫專案「」\[4\]
 
   - （2011年）文化廳委託事業
-    2010年度青年動畫片繪製者等人材培養事業（[青年動畫制作者育成計畫](../Page/青年動畫制作者育成計畫.md "wikilink")）
+    2010年度青年動畫片繪製者等人材培養事業（[青年動畫制作者育成計畫](https://zh.wikipedia.org/wiki/青年動畫制作者育成計畫 "wikilink")）
 
-  - [北陸銀行廣告](../Page/北陸銀行.md "wikilink")（2011年）－[五箇山和](../Page/五箇山.md "wikilink")[金澤城](../Page/金澤城.md "wikilink")、的真人兒童照片切換成插圖。
+  - [北陸銀行廣告](https://zh.wikipedia.org/wiki/北陸銀行 "wikilink")（2011年）－[五箇山和](../Page/五箇山.md "wikilink")[金澤城](../Page/金澤城.md "wikilink")、的真人兒童照片切換成插圖。
 
   - 我的越中萬葉體驗記（2012年）－內上映動畫。
 
   - [戀旅～True Tours
-    Nanto～](../Page/戀旅～True_Tours_Nanto～.md "wikilink")（2013年）－[南礪市限定](../Page/南礪市.md "wikilink")\[5\]。
+    Nanto～](../Page/戀旅～True_Tours_Nanto～.md "wikilink")（2013年）－[南礪市限定](https://zh.wikipedia.org/wiki/南礪市 "wikilink")\[5\]。
 
   - Planet:Valkyrie［］（2013年）－[茅原實里的主題歌曲附加動畫](../Page/茅原實里.md "wikilink")。
 
@@ -396,8 +397,8 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 ### 編劇
 
   - [岡田麿里](../Page/岡田麿里.md "wikilink")
-  - [橫手美智子](../Page/橫手美智子.md "wikilink")
-  - [早榭瀧吉](../Page/早榭瀧吉.md "wikilink")
+  - [橫手美智子](https://zh.wikipedia.org/wiki/橫手美智子 "wikilink")
+  - [早榭瀧吉](https://zh.wikipedia.org/wiki/早榭瀧吉 "wikilink")
 
 ### 製片人
 
@@ -407,12 +408,12 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
   - [Production I.G](../Page/Production_I.G.md "wikilink")
-  - [BEE TRAIN](../Page/BEE_TRAIN.md "wikilink")
+  - [BEE TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")
   - [LEVEL-5](../Page/LEVEL-5.md "wikilink")
-  - [KADOKAWA](../Page/角川多玩國.md "wikilink")
+  - [KADOKAWA](https://zh.wikipedia.org/wiki/角川多玩國 "wikilink")
   - [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
   - [Lantis](../Page/Lantis.md "wikilink")
-  - [Key](../Page/Key_\(公司\).md "wikilink")
+  - [Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")
 
 ## 注釋
 
@@ -431,7 +432,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 
 1.  [Season 2019: A New Journey | League of
     Legends](https://www.youtube.com/watch?v=1e2xApDeRok) [Riot
-    Games](../Page/Riot_Games.md "wikilink")
+    Games](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")
 2.  [富山観光アニメプロジェクト「泣かせる空に会いたい
     立山の恋人編」](http://www.bbt.co.jp/cooltoyama/animation/index.html#01)
     2012年5月24日閲覧。
