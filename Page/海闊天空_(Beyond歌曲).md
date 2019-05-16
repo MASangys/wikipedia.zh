@@ -1,0 +1,68 @@
+{{ external media | float = right | width = 300px | video1 =
+[BEYOND【海闊天空】Official Music
+Video](https://www.youtube.com/watch?v=qu_FSptjRic) 滾石唱片 }}
+《**海闊天空**》是[香港殿堂級搖滾樂隊](../Page/香港.md "wikilink")[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。此曲至今仍然在香港及華人地區保持極高知名度，與[Amani及](../Page/Amani.md "wikilink")[光輝歲月等具有國際視野及人文關懷的歌曲不同](https://zh.wikipedia.org/wiki/光輝歲月 "wikilink")，此曲是具本土情懷及勵志的歌曲。
+
+此曲以追求音樂夢想為主題，也滲入了Beyond成立10年的感情，同時亦錄製了日文版的日本[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[遙かなる夢に～Far
+away～](https://zh.wikipedia.org/wiki/遙かなる夢に～Far_away～ "wikilink")》。《海闊天空》是[香港電台電視節目](../Page/香港電台.md "wikilink")《驕陽歲月》的主題曲。可惜黃家駒在完成此曲後不足2個月，在該年6月30日便於日本意外死亡，此曲亦成為他的絕響。
+
+## 創作
+
+[Rock_and_Roll.jpg](https://zh.wikipedia.org/wiki/File:Rock_and_Roll.jpg "fig:Rock_and_Roll.jpg")》。\]\]
+《海闊天空》於1993年創作，由Beyond主音及節奏結他手黃家駒親自作曲、填詞及主唱，但其他成員亦有在填詞上給予意見。黃家駒弟弟、亦為Beyond低音結他手的[黃家強在香港電台](../Page/黃家強.md "wikilink")《不死傳奇》的節目中透露，黃家駒在編寫《海闊天空》時，曾把歌詞其中一句定為「也會怕有一天會跌倒
+Oh yeah」\[1\]，但黃家強認為不合邏輯，因為跌倒的人是不會說「Oh yeah」，於是修改為「Oh
+no」，沒料到黃家駒竟然在編完此曲後不足2個月，真的意外跌死。
+
+此曲收錄於《樂與怒》大碟，是該大碟的主打歌曲。此曲亦是[香港電台電視節目](../Page/香港電台.md "wikilink")《驕陽歲月》主題曲。
+
+## 意義
+
+《海闊天空》以追求音樂夢想為主題，抒發受到挫折、動搖甚至要背棄理想的感慨。當時Beyond受到香港的唱片公司限制，無法真正自由創作，需要唱作迎合香港市場的音樂，如《真的愛妳》；加上無法直接以音樂人身份參與[香港娛樂圈](../Page/香港娛樂圈.md "wikilink")，需要參與大量與音樂無關的綜藝娛樂節目及籌款節目，綜藝娛樂節目也是Beyond成員最討厭參與（《俾面派對》正是代表作），導致他們對香港樂壇失望，決定遠走日本發展。但在日本卻也飽受挫折，除了環境全然陌生之外，他們亦同樣要出席與音樂無關的綜藝娛樂節目，令Beyond感到非常無奈，黃家駒因而把這種無奈寫成此曲。由於1993年正值樂隊成立10周年，此曲也滲入了Beyond組樂隊10年的複雜感情，因此黃家強在[香港電台節目](../Page/香港電台.md "wikilink")《不死傳奇》中透露，黃家駒客死異鄉後，需要黃家強來主唱《海闊天空》時，他其實不太想主唱此曲。
+
+## 影響
+
+[Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg](https://zh.wikipedia.org/wiki/File:Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg "fig:Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg")期間，群眾揮動手機唱《海闊天空》的情景。\]\]
+完成《海闊天空》後不足2個月，黃家駒便在日本因錄製綜藝娛樂節目而發生意外跌死，客死異鄉，令此曲除了是《樂與怒》主打歌，更同時成為Beyond最後一首由黃家駒擔任主音並錄製的派台作品。由於《海闊天空》變成黃家駒的絕響，此曲隨即轟動全港，成為Beyond代表作之一。
+
+15年後，在2008年5月，四川發生8級[汶川大地震](../Page/汶川大地震.md "wikilink")，造成毀滅性破壞及災難性傷亡。此曲被[劉德華填上新的國語歌詞](../Page/劉德華.md "wikilink")，改編為《承諾》，並於「[演藝界512關愛行動](../Page/演藝界512關愛行動.md "wikilink")」由[兩岸三地群星演唱](../Page/兩岸三地.md "wikilink")，作為籌款賑災的主題曲之用。
+
+踏入2010年代，《海闊天空》與其他Beyond代表作（例如《真的愛你》、《[Amani](../Page/Amani.md "wikilink")》、《光輝歲月》、《不再猶豫》、《喜歡妳》、《大地》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》）仍然家傳戶曉，而此曲更經常在香港大型示威活動中播放，或由示威者高唱。[七一大遊行及](../Page/七一大遊行.md "wikilink")「[和平佔中](../Page/讓愛與和平佔領中環.md "wikilink")」（連同及後演變成的「[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")」）均恆常播放此曲\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]在[2010年廣州撐粵語行動](../Page/2010年廣州撐粵語行動.md "wikilink")、[2014年澳門反離補大遊行和](https://zh.wikipedia.org/wiki/2014年澳門反離補大遊行 "wikilink")2015年[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[净选盟4.0集会期間](../Page/净选盟4.0集会.md "wikilink")，示威者亦有歌唱此曲，但這歌曲逐漸有濫用之嫌。2015年10月3日晚上8時，各樂手即興合奏，以[風笛](https://zh.wikipedia.org/wiki/風笛 "wikilink")、[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、[結他及](https://zh.wikipedia.org/wiki/結他 "wikilink")[二胡等中西樂器大合奏合唱](../Page/二胡.md "wikilink")《海闊天空》，不滿[港鐵對水貨客寬容](../Page/港鐵.md "wikilink")，卻嚴禁乘客攜帶大型樂器上車\[8\]。
+
+## 排行榜
+
+| 上榜年   | 叱咤903 | RTHK | TVB勁歌金榜 |
+| ----- | ----- | ---- | ------- |
+| 1993年 | 7     | 3    | \-      |
+|       |       |      |         |
+
+## 獎項
+
+  - [1993年度十大中文金曲頒獎典禮](../Page/第十六屆十大中文金曲得獎名單.md "wikilink")：「十大中文金曲」
+  - [1993年度叱咤樂壇流行榜頒獎典禮](../Page/1993年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")：「叱咤樂壇我最喜愛的本地創作歌曲大獎」
+  - 2010年華語金曲獎30年經典評選：「30年30歌」
+
+## 參考資料
+
+[Category:粤语流行音乐](https://zh.wikipedia.org/wiki/Category:粤语流行音乐 "wikilink")
+[Category:1993年歌曲](https://zh.wikipedia.org/wiki/Category:1993年歌曲 "wikilink")
+[Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink")
+
+1.
+2.  [歌詞貼切\!
+    　Beyond「海闊天空」成佔中曲](http://www.nexttv.com.tw/news/realtime/international/11151047/privacy),
+    [壹電視](../Page/壹電視.md "wikilink"), 2014/09/30
+3.  [BEYOND-海闊天空](http://www.appledaily.com.tw/realtimenews/article/entertainment/20141001/479647/),
+    [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"),
+    2014年10月1日
+4.  [因為不羈放縱愛自由　Beyond《海闊天空》成佔中主題曲](http://www.ettoday.net/news/20140930/407523.htm?from=easynews),
+    [ETtoday](https://zh.wikipedia.org/wiki/ETtoday "wikilink"),
+    2014/09/30
+5.  [香港佔中／「佔中」打死不退！　空拍13萬人遍地開花](http://news.tvbs.com.tw/entry/548590),
+    [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink"), 2014/09/30
+6.  [Beyond挺！
+    黃貫中與民眾唱「海闊天空」](http://news.ebc.net.tw/apps/newsList.aspx?id=1412131789)
+    , [東森新聞](https://zh.wikipedia.org/wiki/東森新聞 "wikilink"), 2014/10/1
+7.  [「風雨中抱緊自由」
+    香港佔中大V隱秘發聲](http://m.ntdtv.com/xtr/mb5/2014/10/01/a1142560.html)
+    , [新唐人電視台](../Page/新唐人電視台.md "wikilink"), 2014年10月1日
+8.
